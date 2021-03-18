@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJQ2QZL-de DJI Mavic 2 Zoom Drohne Quadrocopter mit 24-48mm Optischer...'
 sku: 'B07GJQ2QZL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

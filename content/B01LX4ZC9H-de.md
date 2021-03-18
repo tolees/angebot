@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX4ZC9H-de Playmobil 9224 - Spengler und Geist'
 sku: 'B01LX4ZC9H-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

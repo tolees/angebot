@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWN712V-de Lego Wear Mädchen LWTIPPI 608-T-SHIRT L/S Langarmshirt...'
 sku: 'B07KWN712V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.78 EUR
 currency: EUR
 price: 12.78

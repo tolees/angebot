@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WKFLC4Y-de Ajustable 2068 Reloj de metal Correa Correa Pulsera...'
 sku: 'B07WKFLC4Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.13 EUR
 currency: EUR
 price: 2.13

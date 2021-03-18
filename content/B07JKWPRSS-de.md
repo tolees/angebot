@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKWPRSS-de Playmobil 70041 - Astrid mit Fluganzug und Nimmersatt'
 sku: 'B07JKWPRSS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.97 EUR
 currency: EUR
 price: 3.97

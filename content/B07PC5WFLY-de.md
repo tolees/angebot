@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PC5WFLY-de Bosch Professional 40-tlgs. Bohrer Bit Set Pick and Click...'
 sku: 'B07PC5WFLY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

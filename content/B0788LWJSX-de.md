@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788LWJSX-de Predator Cestus 500 Gaming Maus Dual Omron Switches 70...'
 sku: 'B0788LWJSX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

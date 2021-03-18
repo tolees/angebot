@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRCX7C-de EPOCH Traumwiesen 5033 Sylvanian Families Esszimmer-Set'
 sku: 'B00HRRCX7C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.2 EUR
 currency: EUR
 price: 24.2

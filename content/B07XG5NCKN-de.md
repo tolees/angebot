@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG5NCKN-de POP! Disney: Frozen 2 - Bruni'
 sku: 'B07XG5NCKN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

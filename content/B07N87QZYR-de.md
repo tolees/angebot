@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N87QZYR-de Fitbit Inspire und Inspire HR Print-Armbänder Deko Large'
 sku: 'B07N87QZYR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.64 EUR
 currency: EUR
 price: 17.64

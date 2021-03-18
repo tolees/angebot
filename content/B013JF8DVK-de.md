@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013JF8DVK-de Kitekat Katzenfutter Nassfutter Klassische Auswahl in...'
 sku: 'B013JF8DVK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

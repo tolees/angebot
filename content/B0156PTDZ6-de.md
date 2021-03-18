@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0156PTDZ6-de Reishunger Reiskocher 1 2l / 500W / 220V Warmhaltefunktion...'
 sku: 'B0156PTDZ6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

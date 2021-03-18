@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MNH48Z-de PLAYMOBIL Magic 9474 Schlitten mit Königspaar Ab 4 Jahren'
 sku: 'B079MNH48Z-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

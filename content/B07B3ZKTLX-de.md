@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3ZKTLX-de PLAYMOBIL Christmas 9493 Weihnachtsbäckerei mit...'
 sku: 'B07B3ZKTLX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

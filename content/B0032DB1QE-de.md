@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0032DB1QE-de Dragonball Z - Box 2/10 Episoden 36-74 [6 DVDs]'
 sku: 'B0032DB1QE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 35.74 EUR
 currency: EUR
 price: 35.74

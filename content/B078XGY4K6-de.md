@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XGY4K6-de Christa Ludwig-Complete Recitals'
 sku: 'B078XGY4K6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.21 EUR
 currency: EUR
 price: 14.21

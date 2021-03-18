@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AO0JHGY-de RoomMates 54161 Happi Raketenhunde'
 sku: 'B00AO0JHGY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.06 EUR
 currency: EUR
 price: 7.06

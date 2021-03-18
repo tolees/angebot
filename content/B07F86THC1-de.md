@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F86THC1-de Gore Wear Unisex M Infinium Handschuhe Schwarz Black/Neon...'
 sku: 'B07F86THC1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

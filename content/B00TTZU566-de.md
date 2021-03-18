@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTZU566-de Bosch Akkuschrauber IXO 5. Generation in Aufbewahrungsbox'
 sku: 'B00TTZU566-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

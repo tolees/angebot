@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLZFB1Z-de MEDION P6645 39 5 cm 15 6 Zoll Full HD Notebook Intel Core...'
 sku: 'B07MLZFB1Z-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

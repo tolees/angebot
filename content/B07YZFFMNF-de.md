@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZFFMNF-de Zacfton 78 in 1 Magnet Präzisions Schraubendreher Set...'
 sku: 'B07YZFFMNF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

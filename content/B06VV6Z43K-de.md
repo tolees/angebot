@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VV6Z43K-de LEGO Star Wars 75180 - Rathtar Escape Spielzeug'
 sku: 'B06VV6Z43K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHQVZQR-de Villeroy & Boch – Vapiano Suppenschalen-Set 2 Stück 700 ml...'
 sku: 'B07HHQVZQR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

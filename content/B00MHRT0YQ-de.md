@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MHRT0YQ-de Sylvanian Families 5108 5108-Essen-Set in der Schule...'
 sku: 'B00MHRT0YQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

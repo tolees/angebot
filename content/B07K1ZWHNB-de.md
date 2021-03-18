@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1ZWHNB-de Dowinx Gaming Stuhl Ergonomischer Racing Stil Lehnstuhl...'
 sku: 'B07K1ZWHNB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

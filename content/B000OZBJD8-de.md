@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OZBJD8-de Park Tool Mini-Faltwerkzeug IB-2 I-Beam 4000849'
 sku: 'B000OZBJD8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY9L9YW-de Levi s Damen Perfect Vneck T-Shirt Weiß White + 0002 Medium'
 sku: 'B07RY9L9YW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

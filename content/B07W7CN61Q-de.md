@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7CN61Q-de BRAX Herren Style Cadiz Ultralight Hose Blau Ocean 22 31W...'
 sku: 'B07W7CN61Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Bilder, Poster, Kunstdrucke & Skulpturen','Herren-Hosen','Herrenbekleidung','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug','brax', ]
+tags: [ 'Bekleidung','Herren-Hosen','Herrenbekleidung','brax', ]
 actualPrice: 53.07 EUR
 currency: EUR
 price: 53.07

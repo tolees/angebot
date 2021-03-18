@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01615UVQU-de Sonos Play:5 WLAN Speaker Kraftvoller WLAN Lautsprecher...'
 sku: 'B01615UVQU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 476.0 EUR
 currency: EUR
 price: 476.0

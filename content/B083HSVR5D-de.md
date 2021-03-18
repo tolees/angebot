@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HSVR5D-de DXX Technik Bausteine Liebherr Kran LTM11200 7692Teile...'
 sku: 'B083HSVR5D-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 629.99 EUR
 currency: EUR
 price: 629.99

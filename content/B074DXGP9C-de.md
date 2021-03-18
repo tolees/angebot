@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DXGP9C-de WD My Cloud Home Duo 16 TB Persönlicher Cloudspeicher -...'
 sku: 'B074DXGP9C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

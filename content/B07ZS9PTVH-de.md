@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZS9PTVH-de Insmart Silikon-Küchenschwamm ， 4 STÜCKE Antibakterieller...'
 sku: 'B07ZS9PTVH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008QUT92G-de TAURO 22914 7 Zonen Lattenrost 90 x 200 cm Geeignet für...'
 sku: 'B008QUT92G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

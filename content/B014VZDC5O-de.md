@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014VZDC5O-de Corsair Strafe RGB Mechanische Gaming Tastatur Cherry MX...'
 sku: 'B014VZDC5O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 136.99 EUR
 currency: EUR
 price: 136.99

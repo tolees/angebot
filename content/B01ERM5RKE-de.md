@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ERM5RKE-de The First Avenger: Civil War'
 sku: 'B01ERM5RKE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

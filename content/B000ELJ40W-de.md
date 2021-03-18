@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ELJ40W-de Playmobil 4132 SuperSet Spielplatz'
 sku: 'B000ELJ40W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

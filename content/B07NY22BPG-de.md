@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY22BPG-de Mattel GFR28 - Toy Story 4 Sprechender Buzz Lightyear...'
 sku: 'B07NY22BPG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

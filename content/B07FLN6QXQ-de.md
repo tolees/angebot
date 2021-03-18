@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLN6QXQ-de Levi s Damen Original Sherpa Trucker Jacke Schwarz Forever...'
 sku: 'B07FLN6QXQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

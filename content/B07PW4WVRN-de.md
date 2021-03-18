@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PW4WVRN-de SimpleLife Handtasche Drehverschluss Tasche Fall Schnalle...'
 sku: 'B07PW4WVRN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

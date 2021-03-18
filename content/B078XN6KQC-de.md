@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XN6KQC-de Swarovski Attract runden Ring Weiß rhodiniert Gr. 52'
 sku: 'B078XN6KQC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 48 EUR
 currency: EUR
 price: 48

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BK2KPR4-de LEGO Duplo 10910 - U-Boot-Abenteuer Bauset'
 sku: 'B01BK2KPR4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005ZMNX4S-de WOLF-Garten - Elektro-Trimmer CAMPUS 350 RT; 41AC0UU-650'
 sku: 'B005ZMNX4S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B7VYK6S-de Dickie Toys Fire Rescue Unit Feuerwehrauto Spielzeugauto...'
 sku: 'B07B7VYK6S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDYNPE8-de Tommy Hilfiger Damen DANNY BELT Gürtel Schwarz MASTERS...'
 sku: 'B00XDYNPE8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

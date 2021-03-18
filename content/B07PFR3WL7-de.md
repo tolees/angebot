@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFR3WL7-de Samsung Q60R 163 cm 65 Zoll 4K QLED Fernseher Q HDR Ultra...'
 sku: 'B07PFR3WL7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1035.45 EUR
 currency: EUR
 price: 1035.45

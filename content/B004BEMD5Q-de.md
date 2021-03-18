@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004BEMD5Q-de KabelDirekt - 4K HDMI Kabel - 2m - kompatibel mit HDMI...'
 sku: 'B004BEMD5Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

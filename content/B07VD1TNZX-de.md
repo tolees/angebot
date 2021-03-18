@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD1TNZX-de Kids Bay Walkie Talkie Kinder Spielzeuge Funkgeräte 8...'
 sku: 'B07VD1TNZX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

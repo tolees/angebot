@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8V3XLB-de Tommy Hilfiger Herren CORE Hilfiger Regular Polo Poloshirt...'
 sku: 'B07B8V3XLB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 58.1 EUR
 currency: EUR
 price: 58.1

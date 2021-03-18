@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075ZTMBH2-de X-WATCH 54010 "SIONA XW FIT" Damen Smartwatch Activity...'
 sku: 'B075ZTMBH2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

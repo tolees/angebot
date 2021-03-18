@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPRQZMC-de EIVOTOR 6 in 1 Flaschenwärmer Baby Bottle Warmer...'
 sku: 'B07QPRQZMC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 36.89 EUR
 currency: EUR
 price: 36.89

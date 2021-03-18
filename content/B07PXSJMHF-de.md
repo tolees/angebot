@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXSJMHF-de Ravensburger 26132 - Minecraft Builders & Biomes - Brettspiel'
 sku: 'B07PXSJMHF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2JNKSD-de EYSAFT Babyphone mit Kamera Video Baby Monitor 3.2 Zoll...'
 sku: 'B07X2JNKSD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4FPF6P-de Selected Homme NOS Herren 16068376 Hose Grün Sea Spray 44...'
 sku: 'B07X4FPF6P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XNTX8TL-de S&R Kreissägeblatt 160mm x 20mm x 2 2 mm"Wood Craft"...'
 sku: 'B06XNTX8TL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

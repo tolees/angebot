@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GHU9HSM-de Avoseedo das Besondere Garten Geschenke - Pflanzen Sie...'
 sku: 'B01GHU9HSM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

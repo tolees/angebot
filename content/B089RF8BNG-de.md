@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089RF8BNG-de PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen...'
 sku: 'B089RF8BNG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

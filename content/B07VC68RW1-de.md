@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC68RW1-de TP-Link 5-Port Desktop Switch 10/100/1000Mbit/S...'
 sku: 'B07VC68RW1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

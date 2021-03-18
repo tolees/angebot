@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFRO5PA-de Kitchen Craft Kanne 1 1 l Creme aus der Living-Nostalgia-...'
 sku: 'B00JFRO5PA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

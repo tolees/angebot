@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZGRJJ7-de Nestlé KITKAT und LION Party Box 6 Sorten 68 Schokoriegel...'
 sku: 'B083ZGRJJ7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

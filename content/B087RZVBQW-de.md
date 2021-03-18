@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RZVBQW-de TP-Link Tapo L510E smarte WLAN Glühbirne E27 dimmbar 8.7 W...'
 sku: 'B087RZVBQW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

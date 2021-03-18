@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071XW4C5Q-de Withings Body+ - WLAN-Körperwaage für...'
 sku: 'B071XW4C5Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

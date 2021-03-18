@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XP5CLFY-de Makita Akku-Handkreissäge 57 mm 18 V/5 0 Ah DHS680RTJ'
 sku: 'B00XP5CLFY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

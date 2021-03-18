@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KW6MFLS-de Lego Wear Mädchen Lego Tec Play LWALFRED 706-Fäustlinge...'
 sku: 'B07KW6MFLS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.37 EUR
 currency: EUR
 price: 17.37

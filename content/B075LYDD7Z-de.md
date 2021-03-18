@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075LYDD7Z-de Apple iPhone X 64GB - Silber'
 sku: 'B075LYDD7Z-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 568.79 EUR
 currency: EUR
 price: 568.79

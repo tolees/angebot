@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1BSX4G-de LEDVANCE LED Wand- und Deckenleuchte Leuchte für...'
 sku: 'B07V1BSX4G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

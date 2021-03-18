@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N56SSWQ-de Pioneer SE-MS7BT S Bluetooth Over-Ear Kopfhörer Mikrofon...'
 sku: 'B01N56SSWQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

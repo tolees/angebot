@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRXXPMZ-de Ultimate Ears Wonderboom 2 Tragbarer Bluetooth-...'
 sku: 'B07RRXXPMZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 54.49 EUR
 currency: EUR
 price: 54.49

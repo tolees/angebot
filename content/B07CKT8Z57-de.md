@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKT8Z57-de Sennheiser HD 4.50 Special Edition kabelloser Over-Ear-...'
 sku: 'B07CKT8Z57-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

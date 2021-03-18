@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00576BSSK-de Wenko Herdabdeckplatte Universal Chili 2er Set...'
 sku: 'B00576BSSK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0766CKZBJ-de PLAYMOBIL Dinos 9432 Forschermobil mit Stegosaurus und...'
 sku: 'B0766CKZBJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

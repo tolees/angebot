@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N83MSD-de Hansaplast Frozen Pflaster 1 x 20 Stück'
 sku: 'B079N83MSD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

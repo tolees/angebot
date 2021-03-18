@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PAU11S-de Die Rotkäppchen-Verschwörung'
 sku: 'B000PAU11S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

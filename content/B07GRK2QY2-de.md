@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GRK2QY2-de CITIZEN Promaster Marine Eco-Drive Herren Taucheruhr...'
 sku: 'B07GRK2QY2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 198.1 EUR
 currency: EUR
 price: 198.1

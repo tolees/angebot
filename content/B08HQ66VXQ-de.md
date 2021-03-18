@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HQ66VXQ-de LED Streifen 5m RGB Sylvwin LED Strip Lichterkette mit...'
 sku: 'B08HQ66VXQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

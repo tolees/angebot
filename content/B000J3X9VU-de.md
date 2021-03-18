@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000J3X9VU-de Waterman S0110720 Füllfederhaltertinte im 50 ml Tintenfass...'
 sku: 'B000J3X9VU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.93 EUR
 currency: EUR
 price: 4.93

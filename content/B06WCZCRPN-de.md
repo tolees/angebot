@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WCZCRPN-de Playmobil 9243 - Berk'
 sku: 'B06WCZCRPN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 86.94 EUR
 currency: EUR
 price: 86.94

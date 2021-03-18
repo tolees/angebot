@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9SMTFR-de Citizen Herren Analog Quarz Uhr mit Nylon Armband AW5000-24E'
 sku: 'B01N9SMTFR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 100.01 EUR
 currency: EUR
 price: 100.01

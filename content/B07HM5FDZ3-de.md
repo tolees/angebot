@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HM5FDZ3-de Legacy Vinyl Box Set [Vinyl LP]'
 sku: 'B07HM5FDZ3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 134.26 EUR
 currency: EUR
 price: 134.26

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VVSVW8B-de fischer FIXtainer DUOPOWER Tiefenbiss-Box Dübelbox mit 210...'
 sku: 'B06VVSVW8B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

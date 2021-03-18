@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H96DZVB-de LincPlus P1 Laptop 13 3 Zoll Full HD Ultrabook Intel...'
 sku: 'B07H96DZVB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

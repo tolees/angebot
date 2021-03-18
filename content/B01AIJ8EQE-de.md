@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AIJ8EQE-de UGG Bailey Button Ii Che Damen Schneestiefel Beige...'
 sku: 'B01AIJ8EQE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 157.66 EUR
 currency: EUR
 price: 157.66

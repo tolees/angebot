@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008O0IE2Y-de Canon Mount Adapter EF-EOS M schwarz'
 sku: 'B008O0IE2Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 91.28 EUR
 currency: EUR
 price: 91.28

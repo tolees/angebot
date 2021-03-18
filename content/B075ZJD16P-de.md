@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075ZJD16P-de Haier HWD80-B14636 Waschtrockner / A / 1080 kWh/Jahr /1400...'
 sku: 'B075ZJD16P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

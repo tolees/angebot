@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBV6QB9-de BaByliss C2000E BaByliss C2000E Smooth & Wave 2 in 1 Auto-...'
 sku: 'B07MBV6QB9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 109.44 EUR
 currency: EUR
 price: 109.44

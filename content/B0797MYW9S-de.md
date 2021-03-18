@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797MYW9S-de Funko 29526 IT 2017 S2 Pennywise Actionfigur...'
 sku: 'B0797MYW9S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

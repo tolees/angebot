@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0198KU8PY-de Funko 024563 S1 No Actionfigur One Piece: Portgas D. Ace...'
 sku: 'B0198KU8PY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

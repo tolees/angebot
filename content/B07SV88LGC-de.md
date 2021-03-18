@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SV88LGC-de Philips Hue White E27 LED Lampe Einzelpack dimmbar...'
 sku: 'B07SV88LGC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

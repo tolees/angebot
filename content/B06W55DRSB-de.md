@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W55DRSB-de Star Trek - The Next Generation The Complete Series [Blu-ray]'
 sku: 'B06W55DRSB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 47.59 EUR
 currency: EUR
 price: 47.59

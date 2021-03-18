@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4GT1RK-de 3D Pudding Kuchen Dekorieren DIY Werkzeug Set 10 Nadeln +...'
 sku: 'B07D4GT1RK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJC1V69-de Playmobil 70054 Löscheinsatz Feuerwehr Feuerwehrfahrzeug...'
 sku: 'B07NJC1V69-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.59 EUR
 currency: EUR
 price: 34.59

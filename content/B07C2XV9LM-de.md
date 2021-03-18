@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2XV9LM-de Triumph Damen Sport-BH Triaction Wellness N Rosa...'
 sku: 'B07C2XV9LM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.79 EUR
 currency: EUR
 price: 31.79

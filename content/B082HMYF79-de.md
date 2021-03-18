@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HMYF79-de TuToy Einstellbare Stiefelspanner Breite Schuhformer...'
 sku: 'B082HMYF79-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6R63FF-de WEB EYEWEAR Herren WE0261 Sonnenbrille Schwarz 60 EU'
 sku: 'B07R6R63FF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 91.0 EUR
 currency: EUR
 price: 91.0

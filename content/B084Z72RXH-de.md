@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084Z72RXH-de Aluminiumstangen Ringwerkzeuge Fine Arts Sculpture Pottery...'
 sku: 'B084Z72RXH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

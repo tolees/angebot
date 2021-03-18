@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002IJO38G-de Vileda Profi Fensterwischer 2in1 Fensterabzieher und...'
 sku: 'B002IJO38G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

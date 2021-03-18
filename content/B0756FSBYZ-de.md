@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756FSBYZ-de Ecovacs Robotics Deebot Ozmo 610 Saug- und Wischroboter...'
 sku: 'B0756FSBYZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 291.0 EUR
 currency: EUR
 price: 291.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BVC4ZWE-de Christopeit Türreck Klimmzugstange 1688'
 sku: 'B01BVC4ZWE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17 EUR
 currency: EUR
 price: 17

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TVVL9-de Seiko Solar Herren-Uhr Edelstahl mit Metallband SNE523P1'
 sku: 'B07W7TVVL9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 145.3 EUR
 currency: EUR
 price: 145.3

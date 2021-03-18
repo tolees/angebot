@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001RQ27VQ-de Cramer Reparatur-Lackstift Email Acryl Keramik -...'
 sku: 'B001RQ27VQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

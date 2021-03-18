@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CYK91OE-de SATCH Berry Carry Schulrucksack 45 cm 24 L Purple Blue Checks'
 sku: 'B01CYK91OE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49 EUR
 currency: EUR
 price: 49

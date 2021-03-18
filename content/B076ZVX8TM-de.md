@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076ZVX8TM-de Nintendo Spielset Mushroom Castle Deluxe mit 6 5 cm...'
 sku: 'B076ZVX8TM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

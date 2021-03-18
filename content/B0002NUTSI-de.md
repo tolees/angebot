@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002NUTSI-de Crosby Stills & Nash - Greatest Hits'
 sku: 'B0002NUTSI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

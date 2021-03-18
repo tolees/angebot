@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UCOWGWY-de Goki 4013594566834 Memo Klang 12-teilig'
 sku: 'B00UCOWGWY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

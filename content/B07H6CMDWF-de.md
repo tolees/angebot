@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H6CMDWF-de TechniSat Digitradio 52 Stereo DAB Radiowecker mit zwei...'
 sku: 'B07H6CMDWF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 60.57 EUR
 currency: EUR
 price: 60.57

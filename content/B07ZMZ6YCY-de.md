@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZMZ6YCY-de 99AMZ Handyhalter fürs Auto & Handy Ring Halter | 2 in 1...'
 sku: 'B07ZMZ6YCY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

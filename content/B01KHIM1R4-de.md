@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHIM1R4-de Philips LED Lampe 11 W ersetzt 75 W E27 warmweiß 2700K...'
 sku: 'B01KHIM1R4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.09 EUR
 currency: EUR
 price: 19.09

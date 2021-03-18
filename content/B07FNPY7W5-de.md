@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNPY7W5-de THE NORTH FACE Damen Thermoball Sportjacke Rumba Red/Fig S'
 sku: 'B07FNPY7W5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.46 EUR
 currency: EUR
 price: 33.46

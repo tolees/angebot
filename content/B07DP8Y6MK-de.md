@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP8Y6MK-de Philips 5000 Serie EP5335/10 Kaffeevollautomat 6...'
 sku: 'B07DP8Y6MK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

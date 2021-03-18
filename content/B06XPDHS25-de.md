@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPDHS25-de Ankermann Office Silent PC Intel Core i5 2400 4X 3.1 GHz...'
 sku: 'B06XPDHS25-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 369.0 EUR
 currency: EUR
 price: 369.0

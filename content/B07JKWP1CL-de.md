@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKWP1CL-de Playmobil 70009 SuperSet Galaxy Police Gefängnis bunt'
 sku: 'B07JKWP1CL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHDDDHJ-de HUAWEI P20 Pro Smartphone 15 5 cm 6 1 Zoll 40/20/8 MP...'
 sku: 'B07BHDDDHJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 526.25 EUR
 currency: EUR
 price: 526.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001E3RHI-de Gardena Comfort Rückenspritzgerät 12 l: Drucksprühgerät...'
 sku: 'B0001E3RHI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 79.45 EUR
 currency: EUR
 price: 79.45

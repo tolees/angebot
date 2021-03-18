@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGZC6SH-de Samsung Galaxy S10 Smartphone Bundle 15.5cm 6.1 Zoll 128...'
 sku: 'B07SGZC6SH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 555.0 EUR
 currency: EUR
 price: 555.0

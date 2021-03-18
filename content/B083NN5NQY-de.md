@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NN5NQY-de DXX Technik Bausteine Auto Jeep Wrangler Adventurer...'
 sku: 'B083NN5NQY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

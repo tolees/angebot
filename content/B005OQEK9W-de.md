@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005OQEK9W-de Bosch Tischbohrmaschine PBD 40 710 W Max. Bohr-Ø in...'
 sku: 'B005OQEK9W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 193.99 EUR
 currency: EUR
 price: 193.99

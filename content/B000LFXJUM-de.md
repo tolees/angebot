@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LFXJUM-de Silverline HK11 Innensechskantschlüssel 10-tlg. Satz 2 –...'
 sku: 'B000LFXJUM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

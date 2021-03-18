@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EIC6J1A-de WMF Diadem Plus Topfset 5-teilig Cromargan Edelstahl...'
 sku: 'B00EIC6J1A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

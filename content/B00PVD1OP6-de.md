@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PVD1OP6-de D-Link DCS-2530L Wireless AC 180° Panorama Cloud...'
 sku: 'B00PVD1OP6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

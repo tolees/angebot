@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082DW2QN1-de KKTICK AirPods Pro Silikon Hülle Tragbares Schutzhülle mit...'
 sku: 'B082DW2QN1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSNJKYR-de Krups Nescafé Dolce Gusto Piccolo XS Kapsel Kaffeemaschine...'
 sku: 'B07VSNJKYR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.84 EUR
 currency: EUR
 price: 34.84

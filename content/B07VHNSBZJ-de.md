@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHNSBZJ-de Samsung RU7099 163 cm 65 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07VHNSBZJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 639.0 EUR
 currency: EUR
 price: 639.0

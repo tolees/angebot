@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TQ5EXQM-de Funko 5859 Ron Weasley POP Vinyl Harry Potter S1 Multi'
 sku: 'B00TQ5EXQM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.82 EUR
 currency: EUR
 price: 11.82

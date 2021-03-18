@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004TAKMJG-de Funko 42474 5 Star: The Shining - Jack Torrance...'
 sku: 'B004TAKMJG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

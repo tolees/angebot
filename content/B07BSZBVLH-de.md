@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSZBVLH-de Wangel Hakenleiste Küchenhelfer Hängeleiste 7 Haken ohne...'
 sku: 'B07BSZBVLH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

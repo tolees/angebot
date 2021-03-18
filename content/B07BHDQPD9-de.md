@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHDQPD9-de Huawei P20 lite Smartphone 14.83 cm 5.84 Zoll 64GB...'
 sku: 'B07BHDQPD9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

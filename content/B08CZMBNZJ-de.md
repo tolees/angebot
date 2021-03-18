@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZMBNZJ-de Genrics KÜCHEN-TELESKOPSTÄNDER AUS Edelstahl 1pcs'
 sku: 'B08CZMBNZJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

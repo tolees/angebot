@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YS5Q9K-de Sony Xperia XZ2 Smartphone 14 5 cm 5 7 Zoll IPS Full HD+...'
 sku: 'B079YS5Q9K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 355.99 EUR
 currency: EUR
 price: 355.99

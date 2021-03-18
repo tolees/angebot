@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003VYAVXI-de Villeroy & Boch Toy s Delight Spieluhr "Weihnachtsbaum"...'
 sku: 'B003VYAVXI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

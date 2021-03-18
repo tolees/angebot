@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NC06BE6-de Hasbro Gaming C2018398 - Klartext Partyspiel Alter 16+'
 sku: 'B01NC06BE6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.45 EUR
 currency: EUR
 price: 18.45

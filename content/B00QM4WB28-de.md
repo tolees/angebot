@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QM4WB28-de Ravensburger 29835 - Mini Mandala-Designer Frozen'
 sku: 'B00QM4WB28-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.91 EUR
 currency: EUR
 price: 4.91

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYYW2YM-de Tablet 10 Zoll Android 8.1 Dragon Touch K10 Tablet Pad...'
 sku: 'B07WYYW2YM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 73.12 EUR
 currency: EUR
 price: 73.12

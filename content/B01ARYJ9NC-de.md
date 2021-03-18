@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ARYJ9NC-de Einhell Kompressor TC-AC 190/24/8 max. 8 bar 24 l-Tank...'
 sku: 'B01ARYJ9NC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

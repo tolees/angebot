@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9WC9Y3-de SAGE SCG600 the Dose Control Kaffeemühle für Press- oder...'
 sku: 'B07B9WC9Y3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3G1BVJ-de Hunter Mason Plissee Klemmfix Faltrollo ohne Bohren...'
 sku: 'B07Q3G1BVJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

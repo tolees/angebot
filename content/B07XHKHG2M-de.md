@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHKHG2M-de Uten Heißluftfritteuse 6.5L Airfryer XXL Frittieren ohne...'
 sku: 'B07XHKHG2M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

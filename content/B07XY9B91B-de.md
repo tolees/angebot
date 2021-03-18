@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY9B91B-de OnePlus 8 5G Smartphone ohne Vertrag 8GB + 128GB Speicher...'
 sku: 'B07XY9B91B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 467.65 EUR
 currency: EUR
 price: 467.65

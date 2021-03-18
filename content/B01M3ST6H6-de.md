@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3ST6H6-de HOPPEDIZ Baby-Tragetuch inklusive Bindeanleitung Aberdeen...'
 sku: 'B01M3ST6H6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

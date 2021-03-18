@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZB28F2-de Keg Bierspender Merrday Edelstahl Mini Fass Bier Growler...'
 sku: 'B07CZB28F2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

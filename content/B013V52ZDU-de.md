@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013V52ZDU-de DESIRES Tilda Damen Übergangsjacke Jacke gefüttert mit...'
 sku: 'B013V52ZDU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

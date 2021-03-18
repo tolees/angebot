@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLFKPCK-de PLAYMOBIL City Life 70017 Meine Trendboutique Ab 4 Jahren'
 sku: 'B07JLFKPCK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

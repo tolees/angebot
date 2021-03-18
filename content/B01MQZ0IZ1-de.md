@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQZ0IZ1-de Schmidt Spiele Mouse TV Puzzle 56212 blau Gute Freunde...'
 sku: 'B01MQZ0IZ1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

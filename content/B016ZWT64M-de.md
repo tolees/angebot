@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016ZWT64M-de Garmin Forerunner 235 Handgelenk-Based Herzfrequenz-GPS-...'
 sku: 'B016ZWT64M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 209.9 EUR
 currency: EUR
 price: 209.9

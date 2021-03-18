@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M6POLUM-de Philips Avent Aufbewahrungsbecher für Babynahrung 20er...'
 sku: 'B00M6POLUM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

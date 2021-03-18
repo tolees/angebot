@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CJ46LP8-de Jamara 403071 - BMW M3 Sport 1:14 schwarz'
 sku: 'B00CJ46LP8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

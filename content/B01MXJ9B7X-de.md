@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXJ9B7X-de Maxi-Cosi CabrioFix Babyschale Gruppe 0+ nutzbar ab der...'
 sku: 'B01MXJ9B7X-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

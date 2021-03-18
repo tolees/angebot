@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYRDZD4-de FATO. Frühling Gartenpuppenstuben Spielset Werkzeuge mit...'
 sku: 'B07ZYRDZD4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

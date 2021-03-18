@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FBT1TV3-de Skechers Women s Flex Appeal 3.0-first Insight Trainers...'
 sku: 'B07FBT1TV3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 47.79 EUR
 currency: EUR
 price: 47.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6FMYWN-de PLAYMOBIL:THE MOVIE 70071 Robotitron mit Drohne Ab 5 Jahren'
 sku: 'B07P6FMYWN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

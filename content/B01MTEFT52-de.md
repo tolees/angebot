@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTEFT52-de Noctua NM-AM4 CPU-Kühler-Montageset für Noctua CPU Kühler...'
 sku: 'B01MTEFT52-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

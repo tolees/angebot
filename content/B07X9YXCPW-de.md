@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X9YXCPW-de Smartwatch YONMIG Fitness Armband Tracker Voller Touch...'
 sku: 'B07X9YXCPW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

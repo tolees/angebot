@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001JNNDEC-de Die Suche Geht Weiter Jewelbox'
 sku: 'B001JNNDEC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

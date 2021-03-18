@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TSK0N5A-de Better Call Saul - Die komplette erste Staffel [Blu-ray]'
 sku: 'B00TSK0N5A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

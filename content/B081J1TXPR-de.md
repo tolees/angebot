@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081J1TXPR-de OneOdio Bluetooth Kopfhörer Over Ear Geschlossene HiFi...'
 sku: 'B081J1TXPR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HXTLSHO-de BIO Ahornsirup Grad A Dark Robust taste - 1 Liter 1 320 Kg...'
 sku: 'B01HXTLSHO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.14 EUR
 currency: EUR
 price: 17.14

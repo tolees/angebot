@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGZGZNM-de BRIKSMAX Hochgeschwindigkeitszug Led Beleuchtungsset -...'
 sku: 'B07LGZGZNM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

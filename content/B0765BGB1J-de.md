@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765BGB1J-de LEGO City Arktis-Eiskran auf Stelzen 60192 Kinderspielzeug'
 sku: 'B0765BGB1J-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.2 EUR
 currency: EUR
 price: 16.2

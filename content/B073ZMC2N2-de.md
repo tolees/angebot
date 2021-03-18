@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073ZMC2N2-de Western Digital WDBFBE0080JBK-EESN My Book Duo 8 TB...'
 sku: 'B073ZMC2N2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 269.95 EUR
 currency: EUR
 price: 269.95

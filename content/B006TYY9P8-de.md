@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006TYY9P8-de Krups FDD95D Professionelles Waffeleisen |...'
 sku: 'B006TYY9P8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

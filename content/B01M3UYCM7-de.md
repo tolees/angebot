@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3UYCM7-de Sylvanian Families 5034 - Badezimmer-Set Puppenzubehör'
 sku: 'B01M3UYCM7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

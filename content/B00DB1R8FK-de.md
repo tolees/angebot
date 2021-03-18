@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DB1R8FK-de Bio Granatapfel Muttersaft 6 x 1 Liter Granatapfelsaft...'
 sku: 'B00DB1R8FK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.79 EUR
 currency: EUR
 price: 31.79

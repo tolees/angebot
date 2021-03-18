@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DKYBEYY-de SONAX 281941 281.941 Premium Class Lederwartungssatz Schwarz'
 sku: 'B00DKYBEYY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 40.19 EUR
 currency: EUR
 price: 40.19

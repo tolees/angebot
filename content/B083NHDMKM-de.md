@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NHDMKM-de Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 125...'
 sku: 'B083NHDMKM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

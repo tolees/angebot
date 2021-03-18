@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003W16TAE-de Tafelmusik'
 sku: 'B003W16TAE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.46 EUR
 currency: EUR
 price: 11.46

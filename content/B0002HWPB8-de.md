@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002HWPB8-de Theo Klein 8520 - Bosch Tool Box mit Akkuschrauber Baukästen'
 sku: 'B0002HWPB8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

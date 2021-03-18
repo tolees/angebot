@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQDD43K-de LaCie MOBILE DRIVE Moon Silver tragbare externe Festplatte...'
 sku: 'B07MQDD43K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

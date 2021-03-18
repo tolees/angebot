@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QG9JN79-de Externes CD DVD Laufwerk Amicool USB 3.0 mit Type-C...'
 sku: 'B07QG9JN79-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

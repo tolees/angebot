@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X153FSM-de Comedian Harmonists'
 sku: 'B06X153FSM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WZFMF5-de Emporio Armani Herren Chronograph Quarz Smart Watch...'
 sku: 'B073WZFMF5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 186.75 EUR
 currency: EUR
 price: 186.75

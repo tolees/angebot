@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY6KRTD-de OnePlus 8 5G Smartphone ohne Vertrag 12GB + 256GB Speicher...'
 sku: 'B07XY6KRTD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 499.94 EUR
 currency: EUR
 price: 499.94

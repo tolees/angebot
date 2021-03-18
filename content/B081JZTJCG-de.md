@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081JZTJCG-de Compo Bi 58 N gegen saugende und beißende Insekten an...'
 sku: 'B081JZTJCG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

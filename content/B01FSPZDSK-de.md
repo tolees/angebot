@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FSPZDSK-de LG Beamer PF1500G bis 304 8 cm 120 Zoll CineBeam Full HD...'
 sku: 'B01FSPZDSK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

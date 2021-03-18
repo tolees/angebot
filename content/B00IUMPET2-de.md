@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IUMPET2-de Flow-Mow für Zeitraffer-Fotografie 360 Grad drehbar'
 sku: 'B00IUMPET2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

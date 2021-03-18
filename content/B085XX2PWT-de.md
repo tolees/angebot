@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XX2PWT-de Dittzz Technic Auto Bausteine Auto Bauset 3358 Teiles...'
 sku: 'B085XX2PWT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

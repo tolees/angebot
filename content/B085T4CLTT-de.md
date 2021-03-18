@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085T4CLTT-de Dittzz Technic Sportwagen M-Benz C63 1:8 2.4Ghz RC Auto...'
 sku: 'B085T4CLTT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

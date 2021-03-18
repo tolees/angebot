@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RHDP9K-de GORE Wear C3 kurze Herren Hose XXL Schwarz'
 sku: 'B075RHDP9K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 65.76 EUR
 currency: EUR
 price: 65.76

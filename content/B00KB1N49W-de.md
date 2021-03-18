@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KB1N49W-de Casio Damen Analog Quarz mit Edelstahl Armbanduhr LTP...'
 sku: 'B00KB1N49W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLRHK6M-de Huawei P30 128GB Handy hellblau/Lavendel Breathing Crystal...'
 sku: 'B07NLRHK6M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 289.9 EUR
 currency: EUR
 price: 289.9

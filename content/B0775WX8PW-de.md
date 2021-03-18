@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0775WX8PW-de Yazubi Herren Chino Hose Modell Dustin Chinohose by Yzb...'
 sku: 'B0775WX8PW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.8 EUR
 currency: EUR
 price: 27.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010THXVNQ-de Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2...'
 sku: 'B010THXVNQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 850.0 EUR
 currency: EUR
 price: 850.0

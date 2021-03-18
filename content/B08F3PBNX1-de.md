@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F3PBNX1-de DARLINGTON & Sohns 2X Classic Controller für Xbox mit...'
 sku: 'B08F3PBNX1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

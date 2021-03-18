@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB88HPP-de Funko 36371 Pocket POP! Schlüsselanhänger Dalmatiner-...'
 sku: 'B07HB88HPP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.67 EUR
 currency: EUR
 price: 10.67

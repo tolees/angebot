@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KLLX7MA-de Citizen Herren Chronograph Quartz Uhr mit Leder Armband...'
 sku: 'B01KLLX7MA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 259.3 EUR
 currency: EUR
 price: 259.3

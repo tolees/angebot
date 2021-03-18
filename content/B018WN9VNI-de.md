@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018WN9VNI-de Samsung DA29-10105J HAFEX / EXP Wasserfilter für Samsung...'
 sku: 'B018WN9VNI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

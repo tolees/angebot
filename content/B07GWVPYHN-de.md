@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWVPYHN-de Soundcore Liberty Air Bluetooth Kopfhörer True Wireless in...'
 sku: 'B07GWVPYHN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

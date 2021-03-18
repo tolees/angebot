@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0154G9GFE-de Philips AZ215S CD-Soundmachine Digital UKW Audioeingang 3...'
 sku: 'B0154G9GFE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

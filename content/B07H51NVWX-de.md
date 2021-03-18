@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H51NVWX-de Nikon D3500 Kit AF-S DX 18-105 mm und weiteres Zubehör'
 sku: 'B07H51NVWX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 539.95 EUR
 currency: EUR
 price: 539.95

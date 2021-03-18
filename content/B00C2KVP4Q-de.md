@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C2KVP4Q-de ONLY Female Skinny Fit Jeans ONLUltimate King reg M32Dark...'
 sku: 'B00C2KVP4Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

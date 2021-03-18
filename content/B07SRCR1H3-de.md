@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRCR1H3-de Acer Nitro 5 AN517-51-754T 43 9 cm 17 3 Zoll Full-HD mit...'
 sku: 'B07SRCR1H3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 715.0 EUR
 currency: EUR
 price: 715.0

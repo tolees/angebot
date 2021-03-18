@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086VYFZB4-de PARIO Display Halterung DIY Bauspiel MOC Ständer für Lego...'
 sku: 'B086VYFZB4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVLZ9R8-de Samsung Galaxy Note 10 Smartphone Bundle 15.9cm 6.3 Zoll...'
 sku: 'B07VVLZ9R8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

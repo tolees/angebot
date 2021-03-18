@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4NVG9M-de Crucial Ballistix Sport LT BLS8G4D26BFSCK Desktop Gaming...'
 sku: 'B01N4NVG9M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 28.7 EUR
 currency: EUR
 price: 28.7

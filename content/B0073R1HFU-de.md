@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0073R1HFU-de Bosch Heckenschere AHS 50-26 Messerabdeckung Karton 600 W...'
 sku: 'B0073R1HFU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 129.86 EUR
 currency: EUR
 price: 129.86

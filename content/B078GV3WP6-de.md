@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GV3WP6-de beyerdynamic professionelles FOX USB Mikrofon für...'
 sku: 'B078GV3WP6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

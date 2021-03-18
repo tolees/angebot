@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075PY4TGV-de Dove go fresh fresh Seife 8er Pack 8 x 100 g'
 sku: 'B075PY4TGV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2TZWD7-de SodaStream Easy Wassersprudler mit CO2 Zylinder 1 L PET-...'
 sku: 'B01N2TZWD7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 59 EUR
 currency: EUR
 price: 59

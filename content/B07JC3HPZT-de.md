@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC3HPZT-de LEGO Duplo 10894 Disney Pixar Toy-Story-Zug Bausteine'
 sku: 'B07JC3HPZT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

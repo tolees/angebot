@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4Z2CS1-de LED Schrankbeleuchtung mit Bewegungsmelder - 30er LED...'
 sku: 'B07W4Z2CS1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

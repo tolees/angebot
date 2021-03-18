@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N39NBOU-de Revell Build & Play - Star Wars Resistance A-wing Fighter...'
 sku: 'B01N39NBOU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

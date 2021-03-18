@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WL4TLS-de Maul Ferroband Selbstklebende Magnethaft-Wandleiste aus...'
 sku: 'B000WL4TLS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

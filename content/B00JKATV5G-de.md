@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JKATV5G-de Transcend 16GB JetFlash 790 USB 3.1 Gen 1 USB Stick...'
 sku: 'B00JKATV5G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

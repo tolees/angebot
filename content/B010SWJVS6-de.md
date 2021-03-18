@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010SWJVS6-de JBL Xtreme Spritzwasserfester Tragbarer Bluetooth...'
 sku: 'B010SWJVS6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

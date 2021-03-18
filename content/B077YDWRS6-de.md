@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YDWRS6-de Maxi-Cosi FamilyFix One i-Size Isofix Basisstation 0-18 kg...'
 sku: 'B077YDWRS6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 148.71 EUR
 currency: EUR
 price: 148.71

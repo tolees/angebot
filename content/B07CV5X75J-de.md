@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CV5X75J-de VAUDE Rucksäcke20-29L Aspe 17l ecru 17 129215140'
 sku: 'B07CV5X75J-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 70.27 EUR
 currency: EUR
 price: 70.27

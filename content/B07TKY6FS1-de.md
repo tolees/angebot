@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKY6FS1-de THE NORTH FACE Herren M Zaneck Jacket Insulated Synthetic...'
 sku: 'B07TKY6FS1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 83.29 EUR
 currency: EUR
 price: 83.29

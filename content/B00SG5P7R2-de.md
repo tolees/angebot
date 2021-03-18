@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SG5P7R2-de RÖSLE Steak Besteck Set 4-teilig Edelstahl 18/10 inkl....'
 sku: 'B00SG5P7R2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

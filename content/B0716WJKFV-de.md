@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716WJKFV-de BIRKENSTOCK Damen Madrid Big Buckle Pantoletten Braun...'
 sku: 'B0716WJKFV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 76.89 EUR
 currency: EUR
 price: 76.89

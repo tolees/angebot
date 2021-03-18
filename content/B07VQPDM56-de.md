@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQPDM56-de SanDisk 256GB iXpand Go Flash-Laufwerk für Ihr iPhone und...'
 sku: 'B07VQPDM56-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 60.44 EUR
 currency: EUR
 price: 60.44

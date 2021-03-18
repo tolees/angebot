@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BYW98S-de POP Heroes: Justice League Movie - Wonder Woman'
 sku: 'B072BYW98S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

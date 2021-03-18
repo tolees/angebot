@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000B8KYO8-de Leifheit Wandrollenhalter Parat Royal für 3 Rollen...'
 sku: 'B000B8KYO8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

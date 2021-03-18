@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D0YL7AO-de Pica Marker Dry Longlife Automatic Pen 3030 + 10 St....'
 sku: 'B01D0YL7AO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

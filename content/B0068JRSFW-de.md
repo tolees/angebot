@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0068JRSFW-de Ravensburger – 22099 – Lernspiel – Memory Dinosaurier'
 sku: 'B0068JRSFW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

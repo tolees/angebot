@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001XRXZFG-de Finish Line Schmiermittel Keramik Kettenöl 120 ml 4002055'
 sku: 'B001XRXZFG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

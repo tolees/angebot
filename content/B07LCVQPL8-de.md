@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCVQPL8-de Lenovo Tab M10 25 5 cm 10 1 Zoll 1920x1200 FHD IPS Touch...'
 sku: 'B07LCVQPL8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 160.63 EUR
 currency: EUR
 price: 160.63

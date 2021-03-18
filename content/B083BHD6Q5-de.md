@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BHD6Q5-de Sanglory Schnitzmesser 4 Stück Holz Schnitz Set Wood...'
 sku: 'B083BHD6Q5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY97ZR7-de Funko 39719 POP Vinyl: Animation: Simpsons-Bart Fly...'
 sku: 'B07PY97ZR7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

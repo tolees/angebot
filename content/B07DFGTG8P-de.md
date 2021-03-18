@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFGTG8P-de Funko 33877 The Simpsons: Lisa w/Saxophone POP Vinylfigur...'
 sku: 'B07DFGTG8P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

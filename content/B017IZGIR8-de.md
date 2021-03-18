@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017IZGIR8-de Siemens EX845LYC1E iQ700 Kochfeld Elektro /...'
 sku: 'B017IZGIR8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 829.0 EUR
 currency: EUR
 price: 829.0

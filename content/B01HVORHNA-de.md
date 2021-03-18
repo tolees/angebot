@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HVORHNA-de Westmark Kartoffelstampfer Kunststoff Länge: 27 5 cm...'
 sku: 'B01HVORHNA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

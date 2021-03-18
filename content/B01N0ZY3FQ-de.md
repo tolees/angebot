@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0ZY3FQ-de Anita Active Damen Air Control Deltapad Sport-BH Weiß Weiß...'
 sku: 'B01N0ZY3FQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 54.39 EUR
 currency: EUR
 price: 54.39

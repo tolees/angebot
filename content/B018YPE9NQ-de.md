@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018YPE9NQ-de Bosch Professional Multi-Tool GOP 40-30 inkl. 9xStarlock...'
 sku: 'B018YPE9NQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 178.99 EUR
 currency: EUR
 price: 178.99

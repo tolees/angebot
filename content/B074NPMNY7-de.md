@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074NPMNY7-de Funko 21724 Actionfigur Disney Snow White: Sleepy Multi'
 sku: 'B074NPMNY7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

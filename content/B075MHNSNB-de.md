@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MHNSNB-de Das fünfte Element Remastered 2017 – Mediabook exklusiv...'
 sku: 'B075MHNSNB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

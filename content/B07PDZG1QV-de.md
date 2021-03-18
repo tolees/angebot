@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDZG1QV-de iRobot Roomba i7 i7156 Saugroboter 3-stufiges...'
 sku: 'B07PDZG1QV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

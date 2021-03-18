@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RHHX9D-de adidas Herren Terrex Swift R2 Mid GTX Trekking-&...'
 sku: 'B073RHHX9D-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 97.52 EUR
 currency: EUR
 price: 97.52

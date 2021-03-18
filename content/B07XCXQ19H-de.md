@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCXQ19H-de LEGO 41405 Andreas magischer Würfel - Tiergeschäft Friends...'
 sku: 'B07XCXQ19H-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

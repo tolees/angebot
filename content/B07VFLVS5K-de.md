@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFLVS5K-de HANPURE Bluetooth Mütze Damen & Herren Geschenke Bluetooth...'
 sku: 'B07VFLVS5K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O8LANLI-de Onkyo CS-265 W CD HiFi Minisystem CD Player MP3 Radio 2 x...'
 sku: 'B00O8LANLI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 147.0 EUR
 currency: EUR
 price: 147.0

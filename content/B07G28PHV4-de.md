@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G28PHV4-de Universal Music Vertrieb - A Division of Universal Music...'
 sku: 'B07G28PHV4-de'
-tags: [ '355357031','Alternative & Indie','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Bilder, Poster, Kunstdrucke & Skulpturen','Deutsch-Punk','Elektronik & Foto','Fahrzeug Spielsets für Kinder','Future Planet','Handys & Zubehör','Herren-Hosen','Herrenbekleidung','Internationale Musik','Kinderspielfiguren & -fahrzeuge','Küche, Haushalt & Wohnen','LEGO','LEGO City','Motorfahrzeugspielsets für Kinder','Musik Kategorien','Musik aus Deutschland','Musik-CDs & Vinyl','PLAYMOBIL','Pop','Poster & Kunstdrucke','Produkte','Punk','Punk & Hardcore','Rock aus Deutschland','Smartwatches','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielzeug','universal music vertrieb - a division of universal music gmbh', ]
+tags: [ '355357031','Alternative & Indie','Bekleidung','Deutsch-Punk','Elektronik & Foto','Fahrzeug Spielsets für Kinder','Future Planet','Handys & Zubehör','Herren-Hosen','Herrenbekleidung','Internationale Musik','Kinderspielfiguren & -fahrzeuge','Motorfahrzeugspielsets für Kinder','Musik Kategorien','Musik aus Deutschland','Musik-CDs & Vinyl','PLAYMOBIL','Pop','Produkte','Punk','Punk & Hardcore','Rock aus Deutschland','Smartwatches','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielzeug','universal music vertrieb - a division of universal music gmbh', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

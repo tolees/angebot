@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CPB3CK6-de Tomorrow`s Kitchen bislang Vacu Vin 46703606...'
 sku: 'B01CPB3CK6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

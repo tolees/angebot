@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC19M4V-de LEGO 71715 NINJAGO Avatar Jay – Tragbare Arcade Kapsel...'
 sku: 'B07WC19M4V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B48NJM6-de Ravensburger FC Bayern München 3D Puzzle Allianz Arena'
 sku: 'B07B48NJM6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

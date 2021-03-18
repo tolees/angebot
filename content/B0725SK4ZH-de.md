@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725SK4ZH-de SALOMON Herren X Ultra 3 Mid GTX Trekking- & Wanderstiefel...'
 sku: 'B0725SK4ZH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

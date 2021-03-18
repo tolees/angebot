@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TX24QJT-de Kompatibel für Samsung Galaxy A6 Plus 2018 Hülle...'
 sku: 'B07TX24QJT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

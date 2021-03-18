@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BHLRNEM-de COPIC Markerstifte vielfach einsetzbar Einheitsgröße'
 sku: 'B00BHLRNEM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

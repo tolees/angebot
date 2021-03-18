@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ZEHKNQ-de Rothenberger 70228 Standhahnmutternschlüssel 235mm'
 sku: 'B000ZEHKNQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

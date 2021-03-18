@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CNJQN9-de PLAYMOBIL Sports & Action 9375 Stomp Racer mit Booster Ab...'
 sku: 'B076CNJQN9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

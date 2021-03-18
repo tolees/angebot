@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB2GY4M-de YLCJ Vintage Doble Bronce Industrial Industrial Lámparas...'
 sku: 'B07RB2GY4M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 45.28 EUR
 currency: EUR
 price: 45.28

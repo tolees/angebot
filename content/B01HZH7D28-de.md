@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HZH7D28-de Jumbo Spiele 18161 - Disney Finding Dory Badewannen Memo'
 sku: 'B01HZH7D28-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

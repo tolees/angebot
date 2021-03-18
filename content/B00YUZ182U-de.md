@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YUZ182U-de Le Creuset Signature Gusseisen Gourmet-Profitopf Rund Ø 30...'
 sku: 'B00YUZ182U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 145.25 EUR
 currency: EUR
 price: 145.25

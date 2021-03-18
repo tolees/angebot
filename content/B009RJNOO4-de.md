@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009RJNOO4-de Inter Link 19500010 Regal "Parini 1" 1 Boden 2 Fächer...'
 sku: 'B009RJNOO4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.84 EUR
 currency: EUR
 price: 22.84

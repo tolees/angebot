@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EJAJY3K-de Märklin Start up 29641 - Startpackung "Moderner...'
 sku: 'B01EJAJY3K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DTYPJZ-de H0_V 407 Stück Custom Bausteine Halterung Ständer...'
 sku: 'B083DTYPJZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

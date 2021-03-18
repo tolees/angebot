@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PC5MWPD-de RITUALS The Ritual of Samurai Classic Duschschaum 200 ml'
 sku: 'B07PC5MWPD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

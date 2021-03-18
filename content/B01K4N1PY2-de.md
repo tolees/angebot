@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K4N1PY2-de Sennheiser HD 4.30i Headset geschlossenes...'
 sku: 'B01K4N1PY2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

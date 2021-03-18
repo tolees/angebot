@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RN8DSN7-de Funko 44154 POP Bobble Marvel: 80th-First Appearance:...'
 sku: 'B07RN8DSN7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CGQ7XTL-de GOURMETmaxx Frischhaltedosen Klick-it 28 tlg. |...'
 sku: 'B07CGQ7XTL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.33 EUR
 currency: EUR
 price: 23.33

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFR3SPB-de Rollei Go! Profi Smartphone-Gimbal I Handy-Gimbal I Video...'
 sku: 'B07PFR3SPB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

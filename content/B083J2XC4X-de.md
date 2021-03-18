@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J2XC4X-de H0_V Acryl Schaukasten Vitrine Vitrine Acryl Schaukasten...'
 sku: 'B083J2XC4X-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

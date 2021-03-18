@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQWKZRJ-de adidas Herren Terrex EASTRAIL Walkingschuhe Schwarz...'
 sku: 'B07JQWKZRJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 56.53 EUR
 currency: EUR
 price: 56.53

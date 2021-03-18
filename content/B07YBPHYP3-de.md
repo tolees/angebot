@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBPHYP3-de Hosome V912 Saugroboter mit LDS Navigation Wischfunktion...'
 sku: 'B07YBPHYP3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 289.99 EUR
 currency: EUR
 price: 289.99

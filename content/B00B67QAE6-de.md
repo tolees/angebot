@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B67QAE6-de Outbreak - Lautlose Killer [Blu-ray]'
 sku: 'B00B67QAE6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

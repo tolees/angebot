@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PNUCGAY-de Gardena Classic Bewässerungsbrause: Gartenbrause zur...'
 sku: 'B00PNUCGAY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

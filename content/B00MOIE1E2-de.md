@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MOIE1E2-de De Longhi Autentica Cappuccino ETAM 29.660.SB...'
 sku: 'B00MOIE1E2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 468.34 EUR
 currency: EUR
 price: 468.34

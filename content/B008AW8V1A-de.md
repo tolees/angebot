@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008AW8V1A-de Lacoste Herren Sport Poloshirt L1230-00 Einfarbig Gr....'
 sku: 'B008AW8V1A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

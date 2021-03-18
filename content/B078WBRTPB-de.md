@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WBRTPB-de iiyama ProLite XB2779QQS-S1 68 3cm 27 Zoll IPS LED-Monitor...'
 sku: 'B078WBRTPB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 297.0 EUR
 currency: EUR
 price: 297.0

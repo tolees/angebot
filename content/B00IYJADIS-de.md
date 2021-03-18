@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IYJADIS-de Odlo Herren Mütze Polyknit Black One size 776350'
 sku: 'B00IYJADIS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

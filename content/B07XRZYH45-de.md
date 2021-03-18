@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRZYH45-de Trust Gaming GXT 764 Glide-Flex XXL RGB Mauspad Größe:...'
 sku: 'B07XRZYH45-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

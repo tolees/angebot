@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WY5ZC3-de ONLY Damen Skinny Fit Jeans ONLBlush Mid Ankle XS30White'
 sku: 'B078WY5ZC3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

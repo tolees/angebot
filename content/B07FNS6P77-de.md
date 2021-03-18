@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNS6P77-de THE LEGO MOVIE 2 70824 Das ist Königin Wasimma Si-Willi'
 sku: 'B07FNS6P77-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

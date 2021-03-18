@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMCBLWK-de PLAYMOBIL Family Fun 70089 Familien-Camping Ab 4 Jahren'
 sku: 'B07JMCBLWK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3LV2U0-de Sony MDR-EX15AP In-Ear-Kopfhörer mit Headsetfunktion...'
 sku: 'B00I3LV2U0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.07 EUR
 currency: EUR
 price: 7.07

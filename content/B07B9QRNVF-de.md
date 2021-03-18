@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9QRNVF-de LG SK8 Dolby Atmos 2.1 Soundbar 360W mit Drahtlosem...'
 sku: 'B07B9QRNVF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 399.53 EUR
 currency: EUR
 price: 399.53

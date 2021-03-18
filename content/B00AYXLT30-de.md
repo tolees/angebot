@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AYXLT30-de Eagle Creek No Matter What Duffel L I Ultraleichte...'
 sku: 'B00AYXLT30-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 50.3 EUR
 currency: EUR
 price: 50.3

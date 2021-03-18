@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8P8YDC-de Playmobil 70209 Dollhouse Jugendzimmer ab 4 Jahren bunt...'
 sku: 'B07P8P8YDC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

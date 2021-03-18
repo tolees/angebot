@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012TATO0K-de Archos Hello 10 Home Assistent 10 1“ HD Display 16 GB...'
 sku: 'B012TATO0K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 157.34 EUR
 currency: EUR
 price: 157.34

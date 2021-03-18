@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JYVKNX-de SanDisk Ultra 64GB MicroSDXC Speicherkarte + SD-Adapter...'
 sku: 'B073JYVKNX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

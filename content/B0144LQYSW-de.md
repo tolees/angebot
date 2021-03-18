@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144LQYSW-de Somat Klarspüler 1er Pack 1 x 750 ml'
 sku: 'B0144LQYSW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

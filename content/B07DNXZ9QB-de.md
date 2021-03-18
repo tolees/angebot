@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNXZ9QB-de Dyson V7 Cord Free Beutel- und kabelloser Handstaubsauger...'
 sku: 'B07DNXZ9QB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 247.66 EUR
 currency: EUR
 price: 247.66

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K5R99FA-de Tommy Hilfiger Herren 3p Trunk Shorts Weiß White 100 XXL...'
 sku: 'B00K5R99FA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.02 EUR
 currency: EUR
 price: 23.02

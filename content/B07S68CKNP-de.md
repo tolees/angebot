@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S68CKNP-de Coredy R600 Saugroboter mit Boost Intellect 1600Pa...'
 sku: 'B07S68CKNP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

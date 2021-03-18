@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q2KZMOG-de AWA - Sydney – Chrom - Waschtischarmatur – RED DOT 2015'
 sku: 'B00Q2KZMOG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.28 EUR
 currency: EUR
 price: 49.28

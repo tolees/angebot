@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLJ4F49-de Lenovo Smart Tab M10 mit Amazon Alexa 25 5 cm 10 1 Zoll...'
 sku: 'B07MLJ4F49-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

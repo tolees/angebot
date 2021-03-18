@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PTZJQZQ-de INSTAR IN-6001HD schwarz - WLAN Überwachungskamera - IP...'
 sku: 'B00PTZJQZQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DYDXSX-de WD My Cloud Home Duo 12 TB Persönlicher Cloudspeicher -...'
 sku: 'B074DYDXSX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 327.2 EUR
 currency: EUR
 price: 327.2

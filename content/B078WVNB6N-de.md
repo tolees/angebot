@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WVNB6N-de Paco Home Designer Teppich Kurzflor Wohnzimmer Vintage...'
 sku: 'B078WVNB6N-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

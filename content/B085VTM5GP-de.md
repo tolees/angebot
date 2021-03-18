@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085VTM5GP-de Dasket 6pcs / Set V-Form-Durchschlag für Nähen Form Punch-...'
 sku: 'B085VTM5GP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

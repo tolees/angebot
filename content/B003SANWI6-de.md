@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003SANWI6-de Western Digital WD1003FBYX RE4 1TB interne Festplatte 8 9...'
 sku: 'B003SANWI6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

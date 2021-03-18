@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WL9MVG-de Gordon & Bros Herren Levet Derby Braun tan 42 EU'
 sku: 'B004WL9MVG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 82.43 EUR
 currency: EUR
 price: 82.43

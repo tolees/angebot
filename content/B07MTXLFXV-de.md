@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTXLFXV-de Logitech G432 kabelgebundenes Gaming-Headset 7.1 Surround...'
 sku: 'B07MTXLFXV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

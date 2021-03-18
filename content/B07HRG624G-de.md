@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRG624G-de Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher +...'
 sku: 'B07HRG624G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 98.43 EUR
 currency: EUR
 price: 98.43

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010AZUMCU-de Eagle Creek Nackenkissen Exhale Neck Pillow leichtes...'
 sku: 'B010AZUMCU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

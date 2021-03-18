@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BPDRTE-de ABUS Zubehör Steel-O-Chain 880/85 Black 7 mm/85 cm 43306'
 sku: 'B001BPDRTE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

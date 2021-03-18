@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFF5TD8-de Kohlenmonoxid Warnmelder LCD Anzeige CO Melder 85Db Alarm...'
 sku: 'B07YFF5TD8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

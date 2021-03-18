@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YGZ4QE6-de Hasbro Gaming B7063100 - Pie Face Partyspiel'
 sku: 'B00YGZ4QE6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

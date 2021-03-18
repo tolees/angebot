@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07663TZNT-de CAMELBAK Trinkflasche Chute Mag 750 ml sea glass'
 sku: 'B07663TZNT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

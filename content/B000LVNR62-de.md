@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LVNR62-de WMF Ersatzteil Dichtungsring Schnellkochtopf 22 cm...'
 sku: 'B000LVNR62-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

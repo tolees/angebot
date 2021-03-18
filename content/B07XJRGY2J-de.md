@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJRGY2J-de HP Pavilion Gaming TG01-0016ng Desktop Intel Core i5-9400F...'
 sku: 'B07XJRGY2J-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 510.0 EUR
 currency: EUR
 price: 510.0

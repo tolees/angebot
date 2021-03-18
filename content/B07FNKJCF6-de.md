@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNKJCF6-de ELTD Tastatur Hülle für Samsung Galaxy Tab S4 10.5...'
 sku: 'B07FNKJCF6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

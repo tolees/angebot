@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN5BSWN-de Braun Barttrimmer und Haarschneider BT7040 39...'
 sku: 'B07MN5BSWN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 64.68 EUR
 currency: EUR
 price: 64.68

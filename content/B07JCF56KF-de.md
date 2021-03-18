@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCF56KF-de Huawei Nanomemory Speicherkarte 128G für Mate20/Pro'
 sku: 'B07JCF56KF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

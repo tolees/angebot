@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QDWK4XM-de Ravensburger 17956 - Roll your Puzzle Puzzlematte'
 sku: 'B00QDWK4XM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.03 EUR
 currency: EUR
 price: 10.03

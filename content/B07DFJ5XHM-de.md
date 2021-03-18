@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFJ5XHM-de Funko 33253 LOTR/Hobbit: Galadriel POP Vinylfigur Multi...'
 sku: 'B07DFJ5XHM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

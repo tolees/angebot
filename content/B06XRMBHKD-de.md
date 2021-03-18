@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRMBHKD-de Nike Jungen Revolution 4 PSV Laufschuhe Schwarz...'
 sku: 'B06XRMBHKD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

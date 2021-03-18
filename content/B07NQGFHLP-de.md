@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQGFHLP-de Joy For All Zeitlose innovative Haustier-Begleiter Tuxedo-...'
 sku: 'B07NQGFHLP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 111.11 EUR
 currency: EUR
 price: 111.11

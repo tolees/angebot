@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J4JKPBC-de Invicta 8929OB Pro Diver Unisex Uhr Edelstahl Automatik...'
 sku: 'B00J4JKPBC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 83.23 EUR
 currency: EUR
 price: 83.23

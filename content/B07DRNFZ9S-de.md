@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRNFZ9S-de Michael Kors Damen Voyager bag Schwarz Black 15x27x34 cm'
 sku: 'B07DRNFZ9S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 127.99 EUR
 currency: EUR
 price: 127.99

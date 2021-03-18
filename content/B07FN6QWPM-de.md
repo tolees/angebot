@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FN6QWPM-de Superdry Herren O L Vintage Embroidery L/S Tee...'
 sku: 'B07FN6QWPM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

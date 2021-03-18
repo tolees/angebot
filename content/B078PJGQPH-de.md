@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078PJGQPH-de Coleman Blackout Zelt 4 Personen 4 Mann Zelt wasserdicht...'
 sku: 'B078PJGQPH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

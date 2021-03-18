@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZJW9DT-de Fire 7-Tablet Zertifiziert und generalüberholt 7-Zoll-...'
 sku: 'B07KZJW9DT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

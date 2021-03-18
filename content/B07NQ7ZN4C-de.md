@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ7ZN4C-de Antimi Bluetooth Kopfhörer Kabellos in Ear Kopfhoerer...'
 sku: 'B07NQ7ZN4C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

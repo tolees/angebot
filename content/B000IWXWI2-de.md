@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000IWXWI2-de Energizer Alkaline Batterie E23 A'
 sku: 'B000IWXWI2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.74 EUR
 currency: EUR
 price: 1.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHTLCVU-de Schiesser Damen Tai 3er Pack Slip Weiß weiss 100 40/L'
 sku: 'B00KHTLCVU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.81 EUR
 currency: EUR
 price: 21.81

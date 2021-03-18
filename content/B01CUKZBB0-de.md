@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CUKZBB0-de Amazon-Schutzhülle für Kindle Schwarz —nicht geeignet für...'
 sku: 'B01CUKZBB0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

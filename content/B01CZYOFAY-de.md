@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CZYOFAY-de Hasbro Nerf B8086EU4 - N-Strike Elite Mega Mastodon...'
 sku: 'B01CZYOFAY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 73.6 EUR
 currency: EUR
 price: 73.6

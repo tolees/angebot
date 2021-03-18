@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKJFRK4-de HP Spectre x360 15-df0106ng 15 6 Zoll/ UHD Touchscreen...'
 sku: 'B07JKJFRK4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 824 EUR
 currency: EUR
 price: 824

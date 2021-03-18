@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0038ANS8U-de KidKraft 53179 - Rosa Retroküche'
 sku: 'B0038ANS8U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

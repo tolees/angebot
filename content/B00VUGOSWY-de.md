@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VUGOSWY-de Anker PowerPort 40W 5-Port USB Ladegerät Multi-Port USB...'
 sku: 'B00VUGOSWY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

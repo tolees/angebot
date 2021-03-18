@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HZ3MJHC-de Ferm Bandschleifmaschine – 350W – 150mm - einschl. 2...'
 sku: 'B07HZ3MJHC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

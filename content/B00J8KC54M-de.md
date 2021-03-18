@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J8KC54M-de Wenko Herdabdeckplatte Universal Kräutergarten 2er Set...'
 sku: 'B00J8KC54M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

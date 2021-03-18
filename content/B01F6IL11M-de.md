@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F6IL11M-de satch Pack Chaka Cherry ergonomischer Schulrucksack 30...'
 sku: 'B01F6IL11M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 75 EUR
 currency: EUR
 price: 75

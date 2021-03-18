@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089N3KR3W-de Tryone Tablet Ständer verstellbare Tablet Halterung -...'
 sku: 'B089N3KR3W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

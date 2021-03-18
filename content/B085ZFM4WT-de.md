@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZFM4WT-de VATOS Bausteine Set für Mädchen 568 PCS Prinzessin Burg...'
 sku: 'B085ZFM4WT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

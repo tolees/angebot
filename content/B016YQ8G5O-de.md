@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016YQ8G5O-de Garmin fēnix 3 HR Saphir GPS-Multisportuhr...'
 sku: 'B016YQ8G5O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 219.9 EUR
 currency: EUR
 price: 219.9

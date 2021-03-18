@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSD4CNM-de MEDION ERAZER P6705 39 5 cm 15 6 Zoll Full HD Gaming...'
 sku: 'B07WSD4CNM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

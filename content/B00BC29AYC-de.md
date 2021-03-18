@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BC29AYC-de Vibram FiveFingers 13M0101 EL-X Fitnessschuhe Herren...'
 sku: 'B00BC29AYC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NIB80U-de Ecco ECCO OFFROAD Herren Outdoor Sandale Schwarz...'
 sku: 'B000NIB80U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.7 EUR
 currency: EUR
 price: 49.7

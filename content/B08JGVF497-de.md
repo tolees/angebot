@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JGVF497-de Catalonia TV Decke Sherpa Kuscheldecke mit Ärmel- und...'
 sku: 'B08JGVF497-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 40.98 EUR
 currency: EUR
 price: 40.98

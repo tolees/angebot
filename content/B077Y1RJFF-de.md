@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y1RJFF-de BRITA Wasserfilter Style XL hellgrau inkl. 1 MAXTRA+...'
 sku: 'B077Y1RJFF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 28.84 EUR
 currency: EUR
 price: 28.84

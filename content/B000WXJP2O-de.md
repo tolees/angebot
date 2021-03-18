@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WXJP2O-de Damenwahl Deluxe-Edition mit Bonus-Tracks'
 sku: 'B000WXJP2O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

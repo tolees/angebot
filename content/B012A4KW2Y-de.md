@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012A4KW2Y-de Skechers Equalizer Double Play Men s Fitness Shoes Grey...'
 sku: 'B012A4KW2Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 45.27 EUR
 currency: EUR
 price: 45.27

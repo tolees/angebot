@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3NW5MI-de Sagrotan Handseife mit frischem Duft nach Aloe Vera –...'
 sku: 'B01G3NW5MI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

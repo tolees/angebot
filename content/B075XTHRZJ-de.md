@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XTHRZJ-de Hasbro Spiele C2131100 Probieren Oder Verlieren Partyspiel'
 sku: 'B075XTHRZJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXT8QD4-de Vicstar [2 Stück] Samsung Galaxy S10e Panzerglas...'
 sku: 'B07NXT8QD4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

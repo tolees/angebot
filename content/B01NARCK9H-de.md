@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NARCK9H-de SuSenGo Titanic Bausteinsatz 1021 Stück Ziegel für Kinder'
 sku: 'B01NARCK9H-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

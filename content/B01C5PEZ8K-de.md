@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C5PEZ8K-de Tchibo Cafissimo Pure Kaffee Kapselmaschine Rot'
 sku: 'B01C5PEZ8K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

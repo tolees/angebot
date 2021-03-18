@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LPPNJX8-de Belkin ScreenForce InvisiGlass Displayschutzfolie geeignet...'
 sku: 'B01LPPNJX8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

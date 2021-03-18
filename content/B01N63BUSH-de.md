@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N63BUSH-de LEGO Nexo Ritter macht Strandtuch'
 sku: 'B01N63BUSH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPH1QFK-de Apple AIRPODS 1 & 2 kompatibel CASE Off ANHÄNGER White...'
 sku: 'B07XPH1QFK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SWT9YM-de Nike Metal Swoosh H86 Cap weiß One Size'
 sku: 'B077SWT9YM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

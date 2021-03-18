@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KJASRMS-de Die Profis - Die komplette Serie - HD-Remastered [Blu-ray]'
 sku: 'B01KJASRMS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

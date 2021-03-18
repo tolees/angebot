@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LBWG6Z-de Olympus PEN E-PL9 Micro Four Thirds Systemkamera 16...'
 sku: 'B079LBWG6Z-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 335.33 EUR
 currency: EUR
 price: 335.33

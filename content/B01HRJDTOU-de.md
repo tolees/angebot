@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HRJDTOU-de HP OfficeJet Pro 6960 Multifunktionsdrucker Instant Ink...'
 sku: 'B01HRJDTOU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 127.08 EUR
 currency: EUR
 price: 127.08

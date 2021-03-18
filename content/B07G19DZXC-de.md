@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G19DZXC-de TomTom Navigationsgerät GO Essential 6 Zoll Stauvermeidung...'
 sku: 'B07G19DZXC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

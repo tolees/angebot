@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003UAESIC-de HTC - DC-M410 - Micro USB Data Cable - 1m - Universal > Black'
 sku: 'B003UAESIC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

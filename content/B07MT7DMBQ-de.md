@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MT7DMBQ-de Digital Wecker mit Hölzerner Elektronischer LED-...'
 sku: 'B07MT7DMBQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB4VLYZ-de POP Scrubs Turk Vinyl Figure'
 sku: 'B07HB4VLYZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.34 EUR
 currency: EUR
 price: 12.34

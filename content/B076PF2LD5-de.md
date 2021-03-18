@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PF2LD5-de Motorola MDC 10W Dash Cam | Auto Dashkamera Wlan-...'
 sku: 'B076PF2LD5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

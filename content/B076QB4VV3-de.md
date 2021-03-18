@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QB4VV3-de Razer Electra V2 USB - Digitales Gaming Headset für Gamer...'
 sku: 'B076QB4VV3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

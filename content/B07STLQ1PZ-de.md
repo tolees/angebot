@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLQ1PZ-de Geox Herren U SNAKE.2 A Grün Dk Green/Lt Grey C3287 43 EU'
 sku: 'B07STLQ1PZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 37.22 EUR
 currency: EUR
 price: 37.22

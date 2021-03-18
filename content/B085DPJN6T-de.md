@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DPJN6T-de Buntpapier Farbigen A4 Kopierpapier Papier 100 bunte...'
 sku: 'B085DPJN6T-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

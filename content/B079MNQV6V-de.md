@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MNQV6V-de Playmobil 9457 Hausmeister mit Kiosk'
 sku: 'B079MNQV6V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

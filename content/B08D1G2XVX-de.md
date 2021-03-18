@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D1G2XVX-de Echo Dot 3. Gen. Anthrazit Stoff + Amazon Smart Plug WLAN-...'
 sku: 'B08D1G2XVX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 63.08 EUR
 currency: EUR
 price: 63.08

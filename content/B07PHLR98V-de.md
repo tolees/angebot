@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHLR98V-de Huawei Watch GT Active Smartwatch 46 mm Amoled Touchscreen...'
 sku: 'B07PHLR98V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 95.97 EUR
 currency: EUR
 price: 95.97

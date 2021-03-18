@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GC6PFYD-de Plantronics APU-76 EHS Modul für Mitel/Cisco/Softphones/PC...'
 sku: 'B07GC6PFYD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

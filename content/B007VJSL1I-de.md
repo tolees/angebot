@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007VJSL1I-de Barilla Hartweizen Pasta Risoni n. 26 – 1er Pack 1x500g'
 sku: 'B007VJSL1I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

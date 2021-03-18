@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WRRDS73-de Cooler Master MasterLiquid Lite 120-CPU-Wasserkühler -...'
 sku: 'B06WRRDS73-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

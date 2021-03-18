@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009YHUPK-de WMF Gala Plus Topfset 5-teilig Cromargan Edelstahl poliert...'
 sku: 'B0009YHUPK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 167.54 EUR
 currency: EUR
 price: 167.54

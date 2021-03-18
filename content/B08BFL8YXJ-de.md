@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFL8YXJ-de Ynigimy Bluetooth Kopfhörer In Ear Kabellose Kopfhörer mit...'
 sku: 'B08BFL8YXJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

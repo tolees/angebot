@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007C3B8ZO-de Hama "Bernstein" LED Nachtlicht für Kinderzimmer und...'
 sku: 'B007C3B8ZO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

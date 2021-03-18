@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CCD7PQA-de Geox Herren U SYMBOL D Derby Schwarz BLACKC9999 42 EU'
 sku: 'B00CCD7PQA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 76.7 EUR
 currency: EUR
 price: 76.7

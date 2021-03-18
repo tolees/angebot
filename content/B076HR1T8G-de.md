@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HR1T8G-de adidas Herren Core 18 Sweat Trainingstop Dark Grey...'
 sku: 'B076HR1T8G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.17 EUR
 currency: EUR
 price: 23.17

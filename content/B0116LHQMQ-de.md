@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0116LHQMQ-de CASCHA Sopran Ukulele Set für Kinder und Erwachsene I...'
 sku: 'B0116LHQMQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.35 EUR
 currency: EUR
 price: 26.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGC2CUA-de Tassimo Kapseln Milka 40 Kakao Kapseln 5er Pack 5 x 8...'
 sku: 'B00NGC2CUA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VT289WT-de USB WiFi Digital Mikroskop Pancellent 1000 x Vergrößerung...'
 sku: 'B07VT289WT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

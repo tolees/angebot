@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WKQSWF-de TOM TAILOR Herren Poloshirts Basic Poloshirt Sky Captain...'
 sku: 'B082WKQSWF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

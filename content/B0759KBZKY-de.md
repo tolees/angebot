@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759KBZKY-de Canon PGI-580 BK / CLI-581 BK/C/M/Y Druckertinte -...'
 sku: 'B0759KBZKY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5XHCLY-de camel active Womenswear Damen 2R48 Weste Braun Brown 27...'
 sku: 'B07N5XHCLY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

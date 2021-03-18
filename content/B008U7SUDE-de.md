@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008U7SUDE-de Whisky Ardbeg Islay Single Malt 10 Jahre in...'
 sku: 'B008U7SUDE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.71 EUR
 currency: EUR
 price: 38.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00062ILVW-de WMF Profi Plus Rührblitz 27 cm Schneebesen Edelstahl...'
 sku: 'B00062ILVW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FN4CL35-de Philips Avent 4-in-1-Babynahrungszubereiter SCF883/01...'
 sku: 'B07FN4CL35-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

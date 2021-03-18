@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AY5OWW2-de UGG Damen W Mini Bailey Button Bling Stiefeletten Schwarz...'
 sku: 'B01AY5OWW2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 131.54 EUR
 currency: EUR
 price: 131.54

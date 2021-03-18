@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HPXVIPQ-de Gardena Comfort FLEX Schlauch 13 mm 1/2 Zoll 10 m:...'
 sku: 'B00HPXVIPQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

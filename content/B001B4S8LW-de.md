@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001B4S8LW-de Brennenstuhl Safe-Box / Schutzbox für Verlängerungskabel...'
 sku: 'B001B4S8LW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.77 EUR
 currency: EUR
 price: 1.77

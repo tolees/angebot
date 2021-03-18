@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LBN3VHY-de Ice-Watch - ICE glam pastel Aqua - Women s wristwatch with...'
 sku: 'B00LBN3VHY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 53.77 EUR
 currency: EUR
 price: 53.77

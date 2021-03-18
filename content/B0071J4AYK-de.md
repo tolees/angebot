@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0071J4AYK-de 156/Im Netz des Drachen'
 sku: 'B0071J4AYK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

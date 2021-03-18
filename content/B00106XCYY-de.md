@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00106XCYY-de Samsonite Aeris Upright L Koffer 78 cm 118.5 L Schwarz Black'
 sku: 'B00106XCYY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 119.4 EUR
 currency: EUR
 price: 119.4

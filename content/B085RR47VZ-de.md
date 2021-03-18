@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RR47VZ-de TONGJI Acryl Vitrine Kompatibel Mit Lego 42083 Technic...'
 sku: 'B085RR47VZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

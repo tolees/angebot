@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H3EPKPK-de Mario Party: Star Rush [3DS]'
 sku: 'B01H3EPKPK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

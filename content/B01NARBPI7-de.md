@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NARBPI7-de SanDisk Extreme Go 64GB USB-Flash-Laufwerk USB 3.1'
 sku: 'B01NARBPI7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54

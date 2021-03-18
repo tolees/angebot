@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001IOR85C-de Städter Ausstechform Edelstahl Silber 7.5 cm'
 sku: 'B001IOR85C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDQ4GX5-de toptrek Fahrradrucksack 20L Fahrrad Rucksäcke mit...'
 sku: 'B07VDQ4GX5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NABN1Z2-de WMF Stelio Eierkocher für 1-7 Eier 350 W mit...'
 sku: 'B00NABN1Z2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

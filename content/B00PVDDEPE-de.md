@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PVDDEPE-de D-Link DSP-W115 mydlink WLAN Smart Steckdose-/ plug...'
 sku: 'B00PVDDEPE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

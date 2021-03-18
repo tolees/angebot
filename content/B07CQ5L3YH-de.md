@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQ5L3YH-de Swiffer - Staubmagnet Nachfüller mit Febrezeduft 1er Pack...'
 sku: 'B07CQ5L3YH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.17 EUR
 currency: EUR
 price: 4.17

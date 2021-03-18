@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076P7QJ2R-de Alicemall SUS304 Edelstahl Küchen Hängeleiste Bad...'
 sku: 'B076P7QJ2R-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

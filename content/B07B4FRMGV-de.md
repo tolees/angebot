@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4FRMGV-de Corsair Vengeance LPX 8GB 1x8GB DDR4 3000MHz C16 XMP 2.0...'
 sku: 'B07B4FRMGV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 29.15 EUR
 currency: EUR
 price: 29.15

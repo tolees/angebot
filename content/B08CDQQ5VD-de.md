@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDQQ5VD-de SVITA T20 grau Metall Mülleimer Treteimer Abfalleimer 20...'
 sku: 'B08CDQQ5VD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

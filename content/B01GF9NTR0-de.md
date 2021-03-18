@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GF9NTR0-de Advanced Chemistry'
 sku: 'B01GF9NTR0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

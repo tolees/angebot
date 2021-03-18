@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08255LQCG-de OwlFay Mädchen Prinzessin ELSA Kleid Frozen Blaue...'
 sku: 'B08255LQCG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.67 EUR
 currency: EUR
 price: 17.67

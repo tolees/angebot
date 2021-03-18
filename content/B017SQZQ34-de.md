@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017SQZQ34-de Salomon Damen Trail Running Schuhe SPEEDCROSS 4 W Farbe:...'
 sku: 'B017SQZQ34-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 74.49 EUR
 currency: EUR
 price: 74.49

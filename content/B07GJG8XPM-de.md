@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJG8XPM-de Acer TravelMate X3410 TMX3410-MG-50LB 35 6 cm 14 Zoll...'
 sku: 'B07GJG8XPM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 356 EUR
 currency: EUR
 price: 356

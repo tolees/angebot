@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2WGKXP-de Roccat Vulcan 121 - Mechanische Gaming Tastatur AIMO LED...'
 sku: 'B07Q2WGKXP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

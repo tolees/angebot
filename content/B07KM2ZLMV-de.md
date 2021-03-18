@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KM2ZLMV-de Samsung C32JG51FD 81 28 cm 32 Zoll Curved Monitor 16:9...'
 sku: 'B07KM2ZLMV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

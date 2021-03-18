@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM52FDH-de Playmobil 70026 Figures Girls Serie 15 bunt'
 sku: 'B07JM52FDH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 0.19 EUR
 currency: EUR
 price: 0.19

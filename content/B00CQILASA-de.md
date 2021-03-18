@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CQILASA-de UHU 45450 Doppel-Strips Extrem 4 kg 26 mm x 31 mm 16 Stück'
 sku: 'B00CQILASA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014QKKOQE-de RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB...'
 sku: 'B014QKKOQE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

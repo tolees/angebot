@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RN8FTCZ-de Funko 44270 POP NBA: OKC-Paul George Sammelbares Spielzeug...'
 sku: 'B07RN8FTCZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0772WCTYY-de Sluban M38-70128B Pat and Mat at The Workbank Mehrfarbig'
 sku: 'B0772WCTYY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX6WD8W-de Pioneer HTP-074 B 5.1 Heimkinosystem mit AV Receiver und...'
 sku: 'B01LX6WD8W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 338.48 EUR
 currency: EUR
 price: 338.48

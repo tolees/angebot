@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZH6QV35-de Furnoor Holzwürfel 10pcs 25mm Naturholz Quadrat Blocks...'
 sku: 'B07ZH6QV35-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

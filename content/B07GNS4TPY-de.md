@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNS4TPY-de Tefal G11519 Delicia Pro Wokpfanne 28 cm Aluminium schwarz'
 sku: 'B07GNS4TPY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087CJFZZK-de ZHENREN USB WLAN Stick USB WLAN verstärker Adapter für PC...'
 sku: 'B087CJFZZK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

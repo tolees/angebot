@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BF4YJKW-de fischertechnik BASIC Solar Konstruktionsbaukasten - 520396'
 sku: 'B00BF4YJKW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

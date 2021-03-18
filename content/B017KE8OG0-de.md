@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017KE8OG0-de Seagate Expansion Portable tragbare externe Festplatte 4...'
 sku: 'B017KE8OG0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 93.5 EUR
 currency: EUR
 price: 93.5

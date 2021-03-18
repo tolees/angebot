@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVL3G73-de VATOS Ferngesteuertes Auto RC Off-Road Buggy Auto 1:16...'
 sku: 'B07GVL3G73-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

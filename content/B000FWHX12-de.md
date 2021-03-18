@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000FWHX12-de Segafredo Kaffee Espresso - Intermezzo 1000g Bohnen'
 sku: 'B000FWHX12-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

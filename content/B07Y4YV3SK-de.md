@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y4YV3SK-de USB Stick 64GB MECO ELEVERDE 2-in-1 OTG Speicherstick...'
 sku: 'B07Y4YV3SK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

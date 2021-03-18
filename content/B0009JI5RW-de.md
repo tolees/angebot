@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009JI5RW-de ZWILLING Schneiderschere Stoffschere Länge: 21 cm...'
 sku: 'B0009JI5RW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

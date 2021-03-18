@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075J7XG8Q-de ADORIC Digitalwaage Professionelle Electronische Waage...'
 sku: 'B075J7XG8Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

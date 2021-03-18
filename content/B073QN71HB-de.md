@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QN71HB-de Notebook ES1-732 - 500GB SSD - 8GB RAM - Windows 10 PRO -...'
 sku: 'B073QN71HB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 275.0 EUR
 currency: EUR
 price: 275.0

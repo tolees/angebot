@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CWTFMH-de waytoplay 24 Autobahn Building Set Schwarz mit Weiß Striping'
 sku: 'B076CWTFMH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 50.19 EUR
 currency: EUR
 price: 50.19

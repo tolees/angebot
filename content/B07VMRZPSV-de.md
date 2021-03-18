@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMRZPSV-de Samsung Book Cover Keyboard EF-DT860 für Galaxy Tab S6'
 sku: 'B07VMRZPSV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 139.87 EUR
 currency: EUR
 price: 139.87

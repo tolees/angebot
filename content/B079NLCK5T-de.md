@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NLCK5T-de TFA Dostmann Küchen-Chef Digitales...'
 sku: 'B079NLCK5T-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

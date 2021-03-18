@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002C0E5YI-de Bosch Betonbohrer SDS-Quick Ø 6 mm'
 sku: 'B002C0E5YI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.23 EUR
 currency: EUR
 price: 2.23

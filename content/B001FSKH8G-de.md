@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001FSKH8G-de MIYABI 7000D Santoku Messer 18 cm Klinge CMV60 Stahl...'
 sku: 'B001FSKH8G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

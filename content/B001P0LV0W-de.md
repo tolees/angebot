@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001P0LV0W-de taymar® Prospekthalter/Flyerhalter 4 Fächer DIN Lang DL'
 sku: 'B001P0LV0W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

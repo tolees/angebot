@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HVKT5G4-de Nebula Prizm Beamer Multimedia Projektor mit 480P LCD...'
 sku: 'B07HVKT5G4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

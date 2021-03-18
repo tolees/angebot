@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B12UHPS-de Fiskars Profi Handsäge für frisches Holz Grobzahnung...'
 sku: 'B01B12UHPS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

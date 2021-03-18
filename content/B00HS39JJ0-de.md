@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HS39JJ0-de New Balance Herren MRL996AG Revlite Sneaker Grau MRL996AG...'
 sku: 'B00HS39JJ0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 57.89 EUR
 currency: EUR
 price: 57.89

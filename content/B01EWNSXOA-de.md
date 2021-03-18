@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EWNSXOA-de Petex Auto-Kindersitzerhöhung Max 103 ECE-Gruppe 2-3...'
 sku: 'B01EWNSXOA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

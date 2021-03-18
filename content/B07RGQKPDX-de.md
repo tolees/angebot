@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGQKPDX-de Tommy Jeans Damen Tjw Waffle Hybrid Longsleeve Sport...'
 sku: 'B07RGQKPDX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

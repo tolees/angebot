@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KD4PR6-de Hot Wheels FTB67 - City Ultimative Autowaschanlage mit...'
 sku: 'B079KD4PR6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 53.29 EUR
 currency: EUR
 price: 53.29

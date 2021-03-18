@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FL1M4LQ-de Apple MacBook Pro 15" Vorgängermodell 16GB RAM 512GB...'
 sku: 'B07FL1M4LQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2114.46 EUR
 currency: EUR
 price: 2114.46

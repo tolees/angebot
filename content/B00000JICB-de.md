@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00000JICB-de TOMY Kinderspiel "Pop Up Pirate" Hochwertiges Aktionsspiel...'
 sku: 'B00000JICB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

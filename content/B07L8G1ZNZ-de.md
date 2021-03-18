@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8G1ZNZ-de Kara Harvey Damen-Armbanduhr Roségold Mesh in 36mm und...'
 sku: 'B07L8G1ZNZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

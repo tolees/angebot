@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001NYY90E-de KS Tools 515.1124 1/2" Sechskant-Kraft-Stecknuss lang 24mm'
 sku: 'B001NYY90E-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKRQQ14-de iPosible Powerbank 24800mAh Hohe Kapazität Akkupack mit...'
 sku: 'B07MKRQQ14-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

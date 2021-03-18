@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZHWW97-de TechniSat DIGITRADIO 2 S - Tragbares DAB Stereo-Radio mit...'
 sku: 'B07GZHWW97-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 76.02 EUR
 currency: EUR
 price: 76.02

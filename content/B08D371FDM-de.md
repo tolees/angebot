@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D371FDM-de Bluetooth-Kopfhörer5.0 kabellose Touch-Kopfhörer HiFi-...'
 sku: 'B08D371FDM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

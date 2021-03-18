@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009B0YWDG-de Games of Thrones 3012 Actionfigur Daenerys Targaryen'
 sku: 'B009B0YWDG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.34 EUR
 currency: EUR
 price: 11.34

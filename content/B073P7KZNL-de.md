@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073P7KZNL-de Kamik Unisex-Kinder SOUTHPOLE4 Schneestiefel Schwarz Black...'
 sku: 'B073P7KZNL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 42.09 EUR
 currency: EUR
 price: 42.09

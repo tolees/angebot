@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQ7XSBP-de BRIKSMAX Led Beleuchtungsset für Eck Garage Kompatibel Mit...'
 sku: 'B07PQ7XSBP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

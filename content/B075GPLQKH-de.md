@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GPLQKH-de LEGO City 60180 - Starke Fahrzeuge Monster-Truck...'
 sku: 'B075GPLQKH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

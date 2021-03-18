@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O4E3H0S-de Playmobil 6150 - Star-Shooting'
 sku: 'B00O4E3H0S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

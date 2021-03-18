@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTB2L21-de Bosch Nass- und Trockensauger AdvancedVac 20 1200 Watt 20...'
 sku: 'B06XTB2L21-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8U4DEJ-de Duronic VC8 /BK beutelloser Staubsauger | 800 Watt |...'
 sku: 'B01N8U4DEJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

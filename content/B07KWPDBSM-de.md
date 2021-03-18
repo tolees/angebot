@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWPDBSM-de TOM TAILOR Herren Jeanshosen Marvin Straight Jeans Dark...'
 sku: 'B07KWPDBSM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 37.69 EUR
 currency: EUR
 price: 37.69

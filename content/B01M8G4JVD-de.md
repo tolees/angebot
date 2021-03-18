@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M8G4JVD-de Brüder Mannesmann Werkzeug Mannesmann 87-teiliger...'
 sku: 'B01M8G4JVD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QOKYCU-de Yankee Candle Duftkerze im großen Jar Cinnamon Stick...'
 sku: 'B004QOKYCU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

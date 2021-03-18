@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU31H1P-de Sony Digitalkamera DSC-HX350 Bridge-Kamera mit 50-fach...'
 sku: 'B01MU31H1P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 286.99 EUR
 currency: EUR
 price: 286.99

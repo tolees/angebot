@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017IZGILE-de Siemens EX645LXC1E iQ700 Kochfeld Elektro /...'
 sku: 'B017IZGILE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

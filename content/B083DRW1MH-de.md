@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DRW1MH-de TuToy Herren Sicherheit Stahlkappe Rutschfeste...'
 sku: 'B083DRW1MH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

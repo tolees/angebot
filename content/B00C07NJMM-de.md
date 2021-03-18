@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C07NJMM-de Sanpellegrino | Orangen Limonade | Aranciata | Hoher...'
 sku: 'B00C07NJMM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QDWK57M-de Ravensburger 16701 Star Wars Universum Puzzle 2000-teilig'
 sku: 'B00QDWK57M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.13 EUR
 currency: EUR
 price: 17.13

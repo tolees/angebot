@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GSX1VN8-de Bright Starts June Berry höhenverstellbare Lauflernhilfe...'
 sku: 'B00GSX1VN8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

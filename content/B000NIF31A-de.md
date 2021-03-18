@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NIF31A-de Ecco ECCO OFFROAD Herren Outdoor Sandale Schwarz...'
 sku: 'B000NIF31A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

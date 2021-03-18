@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AJGL1TE-de OLI-NATURA Projektöl für innen speziell für Möbel Parkett...'
 sku: 'B00AJGL1TE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

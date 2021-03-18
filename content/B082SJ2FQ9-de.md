@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SJ2FQ9-de K9CK LED Licht Set für Lego Modell - DIY Leuchtende...'
 sku: 'B082SJ2FQ9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

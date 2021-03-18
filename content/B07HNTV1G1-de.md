@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNTV1G1-de Kami Idea Muttertagsgeschenk Halsketten für Frauen Ringe...'
 sku: 'B07HNTV1G1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

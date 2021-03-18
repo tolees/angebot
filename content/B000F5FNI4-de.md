@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000F5FNI4-de Paul Günther 1682 - Propellerspiel Twirly Farblich sortiert'
 sku: 'B000F5FNI4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81

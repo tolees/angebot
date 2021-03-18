@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VUQ6CU0-de Fotowiderstand Entdeckung Lichtempfindlich Licht Sensor...'
 sku: 'B00VUQ6CU0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

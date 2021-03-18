@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GR5XGQC-de Duftkerze ARINO Aroma Kerzen Naturwach in Dose 4er Deco...'
 sku: 'B07GR5XGQC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

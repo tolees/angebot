@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6B7GUD-de Kenwood Chef Elite KVC5320S Küchenmaschine 4 6 l Edelstahl...'
 sku: 'B01N6B7GUD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 387.35 EUR
 currency: EUR
 price: 387.35

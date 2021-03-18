@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F9S8DIO-de Eagle Creek Pack-It Original Cube Packtasche Rot red fire...'
 sku: 'B00F9S8DIO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

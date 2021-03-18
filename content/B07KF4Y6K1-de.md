@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4Y6K1-de Levi s Damen 310 Shaping Super Skinny Jeans Blau Westbound...'
 sku: 'B07KF4Y6K1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 59.08 EUR
 currency: EUR
 price: 59.08

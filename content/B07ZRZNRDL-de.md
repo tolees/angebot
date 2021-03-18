@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRZNRDL-de HUAWEI FreeBuds 3 kabellose Kopfhörer mit Active Noise...'
 sku: 'B07ZRZNRDL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

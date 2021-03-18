@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FXP2KV-de Samsung Clear View Standing Cover EF-ZG960 für das Galaxy...'
 sku: 'B079FXP2KV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

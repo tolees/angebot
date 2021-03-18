@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBHYJF3-de HTC Desire 19+ Smartphone 15 8 cm 6 22 Zoll IPS Display...'
 sku: 'B07SBHYJF3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 157.55 EUR
 currency: EUR
 price: 157.55

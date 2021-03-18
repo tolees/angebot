@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008YQPZN4-de Remington Elektrischer Rasierer Herren F7800 +LED Minuten-...'
 sku: 'B008YQPZN4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.33 EUR
 currency: EUR
 price: 49.33

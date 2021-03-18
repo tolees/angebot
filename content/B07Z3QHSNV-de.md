@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z3QHSNV-de EUGAD 0215QJ Wandregal Wandboard Bücherregal CD DVD Regal...'
 sku: 'B07Z3QHSNV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

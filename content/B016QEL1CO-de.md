@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QEL1CO-de Italian Fashion IF Damen Schlafanzug 194R 0223 Schwarz S'
 sku: 'B016QEL1CO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

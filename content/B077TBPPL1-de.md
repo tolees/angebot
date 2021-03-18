@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TBPPL1-de Fossil Damen-Kette ohne Anhänger Edelstahl JF02856998'
 sku: 'B077TBPPL1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

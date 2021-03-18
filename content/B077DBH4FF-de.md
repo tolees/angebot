@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077DBH4FF-de Enders 5676 Wetterschutzhülle Schwarz 50 x 50 x 120 cm'
 sku: 'B077DBH4FF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

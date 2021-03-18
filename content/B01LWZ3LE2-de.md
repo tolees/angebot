@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWZ3LE2-de Die Edelsteintrilogie Rubinrot Saphirblau Smaragdgrün [4...'
 sku: 'B01LWZ3LE2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.12 EUR
 currency: EUR
 price: 17.12

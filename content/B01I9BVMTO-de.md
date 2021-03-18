@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I9BVMTO-de Swarovski Symbolic Evil Eye Armreif für Frauen blaues...'
 sku: 'B01I9BVMTO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

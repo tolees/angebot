@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015QETCQ2-de RUBYCA 64pcs Mix Floating Charms Lot for Glass Living...'
 sku: 'B015QETCQ2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

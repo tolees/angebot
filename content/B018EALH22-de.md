@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018EALH22-de Mattel Games DPX25 - Mister Pups lustiges Kartenspiel und...'
 sku: 'B018EALH22-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

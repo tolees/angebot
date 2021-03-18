@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NTMZ6-de Puma Damen Smash WNS v2 L Zapatillas Weiß White-Bright...'
 sku: 'B07S6NTMZ6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.56 EUR
 currency: EUR
 price: 31.56

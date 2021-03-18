@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWWV3W8-de DT Swiss Unisex - Erwachsene VR E 1900 Spline DB Läufrad...'
 sku: 'B07GWWV3W8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 121.37 EUR
 currency: EUR
 price: 121.37

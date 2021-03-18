@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GT11HQ-de Sony SAL85F14Z Tele-Objektiv 85 mm F1 4 ZA Planar T*...'
 sku: 'B000GT11HQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1024.76 EUR
 currency: EUR
 price: 1024.76

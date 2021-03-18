@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LWV8KH-de Monuments'
 sku: 'B072LWV8KH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

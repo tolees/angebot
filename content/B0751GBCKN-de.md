@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0751GBCKN-de Garmin vívoactive 3 GPS-Fitness-Smartwatch -...'
 sku: 'B0751GBCKN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

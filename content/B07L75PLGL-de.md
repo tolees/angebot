@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L75PLGL-de GRIFEMA GRIFERÍA DE COCINA-G4002-2 | Küchenarmatur -...'
 sku: 'B07L75PLGL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.35 EUR
 currency: EUR
 price: 26.35

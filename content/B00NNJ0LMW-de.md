@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NNJ0LMW-de LED Lenser F1R high Performance Line F-Serie 1x 18650 Li-...'
 sku: 'B00NNJ0LMW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 55.93 EUR
 currency: EUR
 price: 55.93

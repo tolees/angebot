@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT7L28Y-de Carrera GO!!! PLUS DTM Speed Record 20066009 Autorennbahn Set'
 sku: 'B07PT7L28Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

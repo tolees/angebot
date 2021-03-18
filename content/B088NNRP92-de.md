@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088NNRP92-de Elektrischer Rasierer Herren OriHea 6-in-1 Glatzenrasierer...'
 sku: 'B088NNRP92-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8XYTS3-de LEGO Hidden Side 70431 Der Leuchtturm der Dunkelheit mit...'
 sku: 'B07W8XYTS3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HHO8WOS-de Flashpoint - Das Spezialkommando: Die komplette Serie [24...'
 sku: 'B00HHO8WOS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

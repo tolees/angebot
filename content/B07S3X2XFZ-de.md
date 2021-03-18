@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3X2XFZ-de ASICS Herren Gel-Bondi Laufschuhe Schwarz Black/White 001...'
 sku: 'B07S3X2XFZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

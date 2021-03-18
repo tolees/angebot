@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084H9DDPW-de Samsung Sound Tower Lautsprecher MX-T50 Bluetooth...'
 sku: 'B084H9DDPW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 294.99 EUR
 currency: EUR
 price: 294.99

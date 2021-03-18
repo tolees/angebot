@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HT1T24W-de RAMPOW Kfz Ladegerät Auto Ladegerät Zigarettenanzünder USB...'
 sku: 'B07HT1T24W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

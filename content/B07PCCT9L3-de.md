@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PCCT9L3-de Funko 40631 POP Vinyl: Movies: IT: Chapter 2-Pennywise...'
 sku: 'B07PCCT9L3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

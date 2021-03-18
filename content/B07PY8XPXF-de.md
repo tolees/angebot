@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY8XPXF-de HITACHI F43E4000 109 cm 43 Zoll Fernseher Full HD Smart TV...'
 sku: 'B07PY8XPXF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 309.99 EUR
 currency: EUR
 price: 309.99

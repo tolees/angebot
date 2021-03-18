@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1CFJ9Z-de FISCHER Twin Fahrrad-Rücklicht mit 360° Bodenleuchte für...'
 sku: 'B07T1CFJ9Z-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

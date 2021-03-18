@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVXS5FX-de Beats Solo3 Wireless Kopfhörer - Satin Silber'
 sku: 'B07YVXS5FX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

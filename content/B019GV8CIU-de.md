@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019GV8CIU-de LECHUZA CUBE Color 14 13380 Kräutertopf Hochwertiger...'
 sku: 'B019GV8CIU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

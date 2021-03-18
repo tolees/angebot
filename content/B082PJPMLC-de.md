@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PJPMLC-de HP Sprocket Studio Fotodrucker Drucken scannen kopieren...'
 sku: 'B082PJPMLC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JZ8FU2-de Schiesser Herren Bademantel Kapuze 128546-815 Blau...'
 sku: 'B006JZ8FU2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 74.81 EUR
 currency: EUR
 price: 74.81

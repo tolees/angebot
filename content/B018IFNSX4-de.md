@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018IFNSX4-de Elvie Trainer - Der preisgekrönte Beckenbodentrainer mit...'
 sku: 'B018IFNSX4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 142.64 EUR
 currency: EUR
 price: 142.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002TWO92M-de Alessi "La Stanza dello Scirocco" Korbschale'
 sku: 'B002TWO92M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 42.14 EUR
 currency: EUR
 price: 42.14

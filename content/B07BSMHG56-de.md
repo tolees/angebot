@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSMHG56-de Pans Labyrinth - Ultimate Edition Blu-ray + CD-Soundtrack...'
 sku: 'B07BSMHG56-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 44.2 EUR
 currency: EUR
 price: 44.2

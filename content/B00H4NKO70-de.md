@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H4NKO70-de Nitecore CU6 Taschenlampe Schwarz One Size'
 sku: 'B00H4NKO70-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 98.12 EUR
 currency: EUR
 price: 98.12

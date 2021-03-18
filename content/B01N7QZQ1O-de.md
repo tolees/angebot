@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7QZQ1O-de Dell Business Thunderbolt Dock TB16 mit 240-W-Adapter'
 sku: 'B01N7QZQ1O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 215.0 EUR
 currency: EUR
 price: 215.0

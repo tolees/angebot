@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001Q3FSD4-de 1/la-le-Lu'
 sku: 'B001Q3FSD4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

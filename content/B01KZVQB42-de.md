@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KZVQB42-de Logitech M720 Triathlon Kabellose Maus Bluetooth & 2.4 GHz...'
 sku: 'B01KZVQB42-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 40.32 EUR
 currency: EUR
 price: 40.32

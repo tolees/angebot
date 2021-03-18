@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015XQ6OQY-de ECCO Damen SOFT7W Sneakers Blau 1038marine 38 EU'
 sku: 'B015XQ6OQY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

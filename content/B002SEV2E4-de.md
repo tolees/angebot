@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SEV2E4-de sodastream 1020195490 Sirup Cola Sugar Free 500 ml...'
 sku: 'B002SEV2E4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072ZKW27Q-de Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]'
 sku: 'B072ZKW27Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

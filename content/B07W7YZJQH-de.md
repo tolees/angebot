@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7YZJQH-de Brother JX17FE Nähmaschine mit 17 Nähprogramme Freiarm...'
 sku: 'B07W7YZJQH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

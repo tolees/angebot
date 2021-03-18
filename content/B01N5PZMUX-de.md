@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5PZMUX-de Rosenstein & Söhne Kaffeepresse: Thermo-Kaffeebereiter...'
 sku: 'B01N5PZMUX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

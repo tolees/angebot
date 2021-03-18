@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014HLWKZK-de Levi Strauss & Co Herren 514 Jeans Blau Onewash 95977...'
 sku: 'B014HLWKZK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 47.94 EUR
 currency: EUR
 price: 47.94

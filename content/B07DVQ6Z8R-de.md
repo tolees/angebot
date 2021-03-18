@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVQ6Z8R-de BenQ EX3203R 81 2 cm 32 Zoll Gaming Monitor WQHD FreeSync...'
 sku: 'B07DVQ6Z8R-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 411.9 EUR
 currency: EUR
 price: 411.9

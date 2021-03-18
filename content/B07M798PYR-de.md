@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M798PYR-de Clarks Herren Bampton Lace Brogues Braun Tan Tan 42.5 EU'
 sku: 'B07M798PYR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 28.55 EUR
 currency: EUR
 price: 28.55

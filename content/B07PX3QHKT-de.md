@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PX3QHKT-de POP! Vinyl: Harry Potter: Harry Potter - Minerva...'
 sku: 'B07PX3QHKT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

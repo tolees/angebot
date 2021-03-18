@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B2X1VXZ-de SAGE SES875 the Barista Express Siebträger mit Manometer-...'
 sku: 'B07B2X1VXZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 499 EUR
 currency: EUR
 price: 499

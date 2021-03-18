@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FB2D5L-de Kindergarten Cop [Blu-ray]'
 sku: 'B071FB2D5L-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

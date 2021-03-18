@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GWDLLHA-de Dunlop Protective Footwear Purofort Thermo+ full safety...'
 sku: 'B00GWDLLHA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 68.15 EUR
 currency: EUR
 price: 68.15

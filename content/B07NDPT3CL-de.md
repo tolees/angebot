@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDPT3CL-de G-STAR RAW Damen Syenite Slim Hemd Blau Mazarine Blue 4213...'
 sku: 'B07NDPT3CL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V83KSVM-de Transport Fever 2'
 sku: 'B07V83KSVM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.23 EUR
 currency: EUR
 price: 31.23

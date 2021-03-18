@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079L9SCM1-de Lacoste Herren Ch9623 Smoking Hemd Weiß Blanc/Blanc 37'
 sku: 'B079L9SCM1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

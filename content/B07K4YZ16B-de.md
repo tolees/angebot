@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4YZ16B-de Lightailing Licht-Set Für Creator Expert James Bond 007...'
 sku: 'B07K4YZ16B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

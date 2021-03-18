@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004P2ZYLO-de Umarex Spitzkopf 4 5mm für Diabolo Cobra Luftpistolen...'
 sku: 'B004P2ZYLO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

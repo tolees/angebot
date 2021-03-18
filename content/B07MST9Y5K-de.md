@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MST9Y5K-de Razer Kraken - Gaming Headset mit Kühlenden Gel-...'
 sku: 'B07MST9Y5K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

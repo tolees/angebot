@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GC18FFG-de LEGO Jungen Boy Star WARS-CM-50240-CAP Kappe Schwarz Black...'
 sku: 'B07GC18FFG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

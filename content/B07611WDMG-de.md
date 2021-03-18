@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07611WDMG-de Pokemon Tekken Tournament DX Pro Controller [Nintendo Switch]'
 sku: 'B07611WDMG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

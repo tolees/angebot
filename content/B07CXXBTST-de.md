@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXXBTST-de Samsung MB-ME32GA/EU EVO Select 32 GB microSDHC UHS-I U1...'
 sku: 'B07CXXBTST-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IJS0DJS-de Maier sports Herren Nil Wanderhose Feder grau 25'
 sku: 'B00IJS0DJS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 68.69 EUR
 currency: EUR
 price: 68.69

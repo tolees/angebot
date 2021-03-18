@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XH2GX7W-de Huawei P30 Pro Dual SIM Smartphone Bundle 16 434 cm 6.47...'
 sku: 'B07XH2GX7W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 606 EUR
 currency: EUR
 price: 606

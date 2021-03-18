@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EBYB3AQ-de Bruetting KANSAS Unisex-Erwachsene Trekking- &...'
 sku: 'B01EBYB3AQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 52.83 EUR
 currency: EUR
 price: 52.83

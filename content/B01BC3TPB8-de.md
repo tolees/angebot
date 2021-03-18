@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BC3TPB8-de Samsung WW80K6404QW/EG Waschmaschine FL/A+++/116...'
 sku: 'B01BC3TPB8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

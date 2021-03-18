@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZFXM1PY-de Villeroy & Boch Toy s Delight Große Vorratsdose Premium...'
 sku: 'B00ZFXM1PY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

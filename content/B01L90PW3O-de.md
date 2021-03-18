@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L90PW3O-de Kapsel-Adapter für Dolce Gusto® Maschinen'
 sku: 'B01L90PW3O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088JYX5N2-de XIDU PhilMac Mini PC Al-Legierung Windows 10 8GB DDR4...'
 sku: 'B088JYX5N2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

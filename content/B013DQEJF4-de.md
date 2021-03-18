@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013DQEJF4-de Bosch MUM5 CreationLine Küchenmaschine MUM58L20 Testsieger...'
 sku: 'B013DQEJF4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 154.99 EUR
 currency: EUR
 price: 154.99

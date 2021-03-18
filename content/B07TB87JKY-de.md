@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB87JKY-de BRIKSMAX Led Beleuchtungsset für Lego NASA Apollo Saturn V...'
 sku: 'B07TB87JKY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

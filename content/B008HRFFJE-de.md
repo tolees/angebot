@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008HRFFJE-de Bosch Professional 7tlg. Betonbohrer Set CYL-3 für Beton Ø...'
 sku: 'B008HRFFJE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

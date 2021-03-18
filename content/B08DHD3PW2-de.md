@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DHD3PW2-de Bluetooth Kopfhörer In-Ear Wireless Kopfhörer Touch...'
 sku: 'B08DHD3PW2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

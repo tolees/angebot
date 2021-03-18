@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT3XR6Z-de Akku Hülle für iPhone X/XS [4000 mAh] Ultra Dünn Ladehülle...'
 sku: 'B07TT3XR6Z-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

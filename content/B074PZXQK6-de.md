@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PZXQK6-de Jaybird Run Kabellose In-Ear Kopfhörer Bluetooth...'
 sku: 'B074PZXQK6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

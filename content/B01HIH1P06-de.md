@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HIH1P06-de HP Officejet 3831 Multifunktionsdrucker Instant Ink...'
 sku: 'B01HIH1P06-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 62.17 EUR
 currency: EUR
 price: 62.17

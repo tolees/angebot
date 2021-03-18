@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JCRG2C-de Bluetooth Kopfhörer In Ear Wireless Noise Cancelling...'
 sku: 'B083JCRG2C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

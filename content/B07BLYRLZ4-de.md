@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BLYRLZ4-de GraviTrax 27611 Lift Spielzeug bunt'
 sku: 'B07BLYRLZ4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

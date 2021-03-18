@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DXGB3V-de WD My Cloud Home persönlicher Cloudspeicher 8 TB zentraler...'
 sku: 'B074DXGB3V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

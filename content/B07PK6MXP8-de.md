@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PK6MXP8-de Detektiv Conan - TV-Serie - Vol.9 - [DVD]'
 sku: 'B07PK6MXP8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

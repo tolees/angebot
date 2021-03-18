@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719JFC2X-de Hasbro Gaming – Klassische Spiel von Simon b7962eu4'
 sku: 'B0719JFC2X-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHW5K7H-de Hugo Boss Damen Analog Quarz Uhr mit Edelstahl Armband...'
 sku: 'B07VHW5K7H-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 151.58 EUR
 currency: EUR
 price: 151.58

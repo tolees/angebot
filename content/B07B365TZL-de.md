@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B365TZL-de DCU: Suicide Squad - Hell to Pay exklusiv bei Amazon.de...'
 sku: 'B07B365TZL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

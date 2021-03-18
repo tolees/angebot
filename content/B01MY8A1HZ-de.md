@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY8A1HZ-de Philips Lumea Prestige IPL Haarentfernungsgerät BRI954 –...'
 sku: 'B01MY8A1HZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 378.88 EUR
 currency: EUR
 price: 378.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W84YZ2N-de s.Oliver BLACK LABEL Damen Steppmantel mit Kunstfell-...'
 sku: 'B07W84YZ2N-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L19P0YE-de TomTom Touch Wechselarmband - Himmelblau Größe S geeignet...'
 sku: 'B01L19P0YE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

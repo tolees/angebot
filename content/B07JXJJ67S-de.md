@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXJJ67S-de PLAYMOBIL City Life 70015 Mein Lieblingscafé Ab 4 Jahren'
 sku: 'B07JXJJ67S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

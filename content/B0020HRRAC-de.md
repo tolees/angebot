@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0020HRRAC-de Craft Weste Visibility Vest Warnweste neon XL'
 sku: 'B0020HRRAC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QNBLNR4-de Post-it Super Sticky Notes Marrakesh Collection 6556SM –...'
 sku: 'B00QNBLNR4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

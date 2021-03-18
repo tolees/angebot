@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XOWP1C-de Das Phantom der Oper [Blu-ray] [Special Edition]'
 sku: 'B003XOWP1C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

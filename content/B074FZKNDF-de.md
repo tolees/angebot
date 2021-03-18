@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FZKNDF-de Revell 06719 Modellbausatz Star Wars 1:2700-Imperial...'
 sku: 'B074FZKNDF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 58.85 EUR
 currency: EUR
 price: 58.85

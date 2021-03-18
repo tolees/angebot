@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRYFGXG-de ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR Generation 4...'
 sku: 'B07PRYFGXG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 204.95 EUR
 currency: EUR
 price: 204.95

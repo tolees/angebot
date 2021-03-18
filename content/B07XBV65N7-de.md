@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBV65N7-de Lenovo IdeaCentre AIO A540 60 45 cm 23 8 Zoll Full HD IPS...'
 sku: 'B07XBV65N7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 707.12 EUR
 currency: EUR
 price: 707.12

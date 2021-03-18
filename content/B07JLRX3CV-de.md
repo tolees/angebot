@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLRX3CV-de PLAYMOBIL Family Fun 70091 Sportboot mit Fun-Reifen Ab 4...'
 sku: 'B07JLRX3CV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

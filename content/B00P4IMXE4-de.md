@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P4IMXE4-de Tony Bennett & Lady Gaga - Cheek to Cheek - Live! [Blu-ray]'
 sku: 'B00P4IMXE4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.43 EUR
 currency: EUR
 price: 3.43

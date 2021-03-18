@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG4QXMB-de PUMA Herren Speed Orbiter Laufschuhe High Rise-Blue...'
 sku: 'B07KG4QXMB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 66.49 EUR
 currency: EUR
 price: 66.49

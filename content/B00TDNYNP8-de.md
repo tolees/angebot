@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TDNYNP8-de Arlo HD Überwachungskamera & Alarmanlage 2er Set Smart...'
 sku: 'B00TDNYNP8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 279.78 EUR
 currency: EUR
 price: 279.78

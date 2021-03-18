@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144KSXVO-de Enders Gasgrill URBAN Tischgrill Grillen- Kochen- und...'
 sku: 'B0144KSXVO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

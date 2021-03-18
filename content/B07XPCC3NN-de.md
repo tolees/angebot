@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPCC3NN-de HP Pavilion Gaming TG01-0023ng Desktop AMD Ryzen 7-3700X...'
 sku: 'B07XPCC3NN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 500 EUR
 currency: EUR
 price: 500

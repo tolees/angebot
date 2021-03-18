@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006IBNJ1C-de Bodum assam Teebereiter French Press System Permanent...'
 sku: 'B006IBNJ1C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 28.45 EUR
 currency: EUR
 price: 28.45

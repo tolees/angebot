@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CV6D2KW-de JACK & JONES Herren JFWALBANY Leather Brown Stone STS...'
 sku: 'B07CV6D2KW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

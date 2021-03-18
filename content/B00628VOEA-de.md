@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00628VOEA-de ghd air Haartrockner schwarz'
 sku: 'B00628VOEA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 96.75 EUR
 currency: EUR
 price: 96.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D8OHE5E-de Steiff 239571 Schlaf-gut-Bär Plüschtier Mehrfarbig'
 sku: 'B00D8OHE5E-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

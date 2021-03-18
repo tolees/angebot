@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWS281L-de Suunto 9 Unisex Multisport-GPS-Uhr Über 25h...'
 sku: 'B07GWS281L-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 236.99 EUR
 currency: EUR
 price: 236.99

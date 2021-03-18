@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G26PDJQ-de Fitbit Unisex-Adult Charge 3 Der Innovative Gesundheits-...'
 sku: 'B07G26PDJQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99 EUR
 currency: EUR
 price: 99

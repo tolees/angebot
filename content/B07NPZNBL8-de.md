@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPZNBL8-de Xiaomi Dreame V9 Vacuum Cleaner Staubsauger Weiß 450 W 0.5...'
 sku: 'B07NPZNBL8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

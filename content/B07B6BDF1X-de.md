@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6BDF1X-de Philips 246E9QJAB/00 60 cm 23 8 Zoll Monitor VGA HDMI...'
 sku: 'B07B6BDF1X-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 111.0 EUR
 currency: EUR
 price: 111.0

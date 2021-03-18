@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SGLMP-de Elfcraft Lederarmband Herren Armband Meteorite Schwarz mit...'
 sku: 'B0814SGLMP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 98.9 EUR
 currency: EUR
 price: 98.9

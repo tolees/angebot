@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTWA6U-de G-STAR RAW Herren Rovic Zip 3d Straight Tapered Hose...'
 sku: 'B01BGTWA6U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 79.96 EUR
 currency: EUR
 price: 79.96

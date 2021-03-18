@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000FWHWGS-de Lavazza Kaffeebohnen - Crema E Aroma - 1er Pack 1 x 1 kg'
 sku: 'B000FWHWGS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9GCQHR-de Schleich 42389 - Reitschule mit Reiterinnen und Pferden'
 sku: 'B06W9GCQHR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 35.79 EUR
 currency: EUR
 price: 35.79

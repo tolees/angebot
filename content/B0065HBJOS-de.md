@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0065HBJOS-de walther design AJ330B Aluminium-Bilderrahmen Chair 30x30...'
 sku: 'B0065HBJOS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.14 EUR
 currency: EUR
 price: 13.14

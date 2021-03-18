@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QHVFLG5-de KFD 19V 65W Power Adapter Netzteil Ladegerät für Intel NUC...'
 sku: 'B07QHVFLG5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

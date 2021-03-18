@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PMB9C9-de HP ENVY 5030 Multifunktionsdrucker Instant Ink Fotodrucker...'
 sku: 'B074PMB9C9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

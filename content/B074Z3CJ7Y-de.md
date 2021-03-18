@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074Z3CJ7Y-de De Longhi EDG 355.B1 | NESCAFÉ Dolce Gusto Colors | Kapsel...'
 sku: 'B074Z3CJ7Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 78.9 EUR
 currency: EUR
 price: 78.9

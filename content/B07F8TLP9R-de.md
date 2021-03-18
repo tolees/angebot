@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8TLP9R-de Huawei MateBook X Pro 35 31 cm 13 9 Zoll 3K-FullView-...'
 sku: 'B07F8TLP9R-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 776 EUR
 currency: EUR
 price: 776

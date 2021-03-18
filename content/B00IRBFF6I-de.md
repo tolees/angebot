@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IRBFF6I-de THERMOS Kühltasche Classic medium 15 Liter - Isolierte...'
 sku: 'B00IRBFF6I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

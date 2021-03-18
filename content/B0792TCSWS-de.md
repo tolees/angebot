@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792TCSWS-de Geox Damen D Felicity D Knee High Boot Black 39 EU'
 sku: 'B0792TCSWS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

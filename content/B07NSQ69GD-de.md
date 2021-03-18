@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSQ69GD-de Funko 39333 POP Vinyl: Ghostbusters: Slimer w/Hot Dogs...'
 sku: 'B07NSQ69GD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

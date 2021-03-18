@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QF8CW16-de BBLAC 2KEY B2KEY® SWAT Revolver Military Technique...'
 sku: 'B07QF8CW16-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 53.37 EUR
 currency: EUR
 price: 53.37

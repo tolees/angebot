@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSC6RFQ-de G-STAR RAW Herren 3301 Straight Jeans Blau medium Aged...'
 sku: 'B01MSC6RFQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

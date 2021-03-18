@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GNP4Y70-de Dark Grey/White'
 sku: 'B01GNP4Y70-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

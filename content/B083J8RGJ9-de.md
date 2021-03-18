@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J8RGJ9-de Oacvien Bluetooth Adapter 5.0 Transmitter Empfänger 2 in 1...'
 sku: 'B083J8RGJ9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

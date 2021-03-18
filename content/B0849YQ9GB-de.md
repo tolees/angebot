@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0849YQ9GB-de Oliver’s Kitchen Premium Schneidebrett 100% Bio Bambus –...'
 sku: 'B0849YQ9GB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.93 EUR
 currency: EUR
 price: 19.93

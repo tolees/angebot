@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NH3F8C6-de Neato Robotics D450 945-0343 Saugroboter Exklusive Tier...'
 sku: 'B07NH3F8C6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 406.99 EUR
 currency: EUR
 price: 406.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DX231ST-de Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte...'
 sku: 'B07DX231ST-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

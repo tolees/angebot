@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB6Z22G-de V-Kids Watch by Vodafone - Smartwatch mit GPS-Tracker und...'
 sku: 'B07HB6Z22G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 79.1 EUR
 currency: EUR
 price: 79.1

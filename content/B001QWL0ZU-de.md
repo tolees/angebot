@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001QWL0ZU-de Durex Play Pflegend Sensitives Gleitgel mit Aloe Vera 1er...'
 sku: 'B001QWL0ZU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

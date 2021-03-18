@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0836VHZXV-de TEECY Kartenetui Neue Kreditkartentasche Kartenetui mit...'
 sku: 'B0836VHZXV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

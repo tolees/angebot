@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015JQQIUA-de Cobb Pro - Tisch oder tragbarer Außengrill Kochsystem...'
 sku: 'B015JQQIUA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

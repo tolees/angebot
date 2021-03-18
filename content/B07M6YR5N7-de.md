@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6YR5N7-de Greylags Premium Boxershorts/Retroshorts für Herren |...'
 sku: 'B07M6YR5N7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXJJ69P-de Playmobil 70042 Dragons Raffnuss und Taffnuss mit...'
 sku: 'B07JXJJ69P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

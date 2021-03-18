@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2NMT8G-de BRIKSMAX Led Beleuchtungsset für The Big Bang Theory...'
 sku: 'B07N2NMT8G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

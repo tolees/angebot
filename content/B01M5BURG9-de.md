@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5BURG9-de JBL E45BT On-Ear Bluetooth Kopfhörer - Headphones mit...'
 sku: 'B01M5BURG9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 55.48 EUR
 currency: EUR
 price: 55.48

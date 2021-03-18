@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDDSLFB-de Wir stellen vor: Amazon eero Pro WLAN-Mesh-Router/Extender'
 sku: 'B07WDDSLFB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

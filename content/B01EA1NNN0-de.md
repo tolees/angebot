@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EA1NNN0-de Microsoft Office Home and Student 2016 | PC | Box'
 sku: 'B01EA1NNN0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 71.0 EUR
 currency: EUR
 price: 71.0

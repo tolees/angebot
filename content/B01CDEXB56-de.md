@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CDEXB56-de Funko 9299 S1 No Actionfigur Games: Overwatch: Reaper Multi'
 sku: 'B01CDEXB56-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.03 EUR
 currency: EUR
 price: 9.03

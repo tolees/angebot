@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1VAY45-de TP-Link Archer VR400 Modem Router Gigabit ADSL/VDSL Faser...'
 sku: 'B01M1VAY45-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

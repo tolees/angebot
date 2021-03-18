@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KX6H8K6-de Gorenje R6192FX Kühlschrank / A++ / Höhe 185 cm / Kühlen:...'
 sku: 'B00KX6H8K6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

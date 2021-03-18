@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002A9JI9S-de Philips Ersatzlampenbox H1 / H7'
 sku: 'B002A9JI9S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

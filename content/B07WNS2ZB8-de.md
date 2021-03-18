@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNS2ZB8-de GoPro Schutzgehäuse für HERO8 Black Offizielles GoPro Zubehör'
 sku: 'B07WNS2ZB8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

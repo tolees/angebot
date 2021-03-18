@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5RLSG1-de Crucial Ballistix Sport LT BLS16G4D32AESB 3200 MHz DDR4...'
 sku: 'B07M5RLSG1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 60.8 EUR
 currency: EUR
 price: 60.8

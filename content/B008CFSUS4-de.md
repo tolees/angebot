@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CFSUS4-de Drive Medical Duschhocker 12004KDR weiß verstellbar'
 sku: 'B008CFSUS4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

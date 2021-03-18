@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPJ3X9T-de Samsung Harman/kardon 5.1-Kanal Soundbar HW-Q60R...'
 sku: 'B07PPJ3X9T-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 365.0 EUR
 currency: EUR
 price: 365.0

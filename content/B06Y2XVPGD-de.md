@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2XVPGD-de New Balance Herren 574v2 Core Sneaker Rot Burgundy 45 EU'
 sku: 'B06Y2XVPGD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.23 EUR
 currency: EUR
 price: 38.23

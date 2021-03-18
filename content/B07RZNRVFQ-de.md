@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZNRVFQ-de TOM TAILOR Herren Kapuzen Jacke Sportjacke Grau Light...'
 sku: 'B07RZNRVFQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.57 EUR
 currency: EUR
 price: 12.57

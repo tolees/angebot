@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016ZIJAV0-de iRobot Roomba 615 Saugroboter mit 3-stufigem...'
 sku: 'B016ZIJAV0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

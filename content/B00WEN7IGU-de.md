@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WEN7IGU-de Hauck Eco Mobil - Bollerwagen Handwagen Transportwagen für...'
 sku: 'B00WEN7IGU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

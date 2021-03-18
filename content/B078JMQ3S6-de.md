@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078JMQ3S6-de ICY BOX IB-MSA102-VM Halterung für Mini-PC Intel NUC Mac...'
 sku: 'B078JMQ3S6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

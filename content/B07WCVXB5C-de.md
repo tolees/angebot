@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCVXB5C-de Samsung RU7099 125 cm 50 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07WCVXB5C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 399 EUR
 currency: EUR
 price: 399

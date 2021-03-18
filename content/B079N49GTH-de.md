@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N49GTH-de Playmobil 9490 Spielzeug-Meteoroiden-Zerstörer'
 sku: 'B079N49GTH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V376HSG-de Homgeek Zerkleinerer Universalzerkleinerer 1.8L Edelstahl...'
 sku: 'B07V376HSG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

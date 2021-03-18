@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017LSVKZM-de Braun Haarschneider HC5090 – Ultimatives Haare schneiden...'
 sku: 'B017LSVKZM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

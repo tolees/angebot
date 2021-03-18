@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008BQH1NO-de Amazon Kindle Paperwhite Lederhülle Onyx-Schwarz – nicht...'
 sku: 'B008BQH1NO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.82 EUR
 currency: EUR
 price: 21.82

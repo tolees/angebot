@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HB1DKM-de Samsung Sound Tower Lautsprecher MX-T70 Bluetooth...'
 sku: 'B084HB1DKM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 399.97 EUR
 currency: EUR
 price: 399.97

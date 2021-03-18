@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077N8FDZS-de Deckenlampe LED Deckenleuchte Öuesen Lampe Decke...'
 sku: 'B077N8FDZS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

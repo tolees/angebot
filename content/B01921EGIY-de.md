@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01921EGIY-de Funko 6371 No Actionfigur Tokyo Ghoul: Ken Kaneki'
 sku: 'B01921EGIY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

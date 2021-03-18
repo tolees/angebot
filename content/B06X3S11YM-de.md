@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X3S11YM-de Schleich 42370 - Mobile Tierärztin mit Hannoveraner Fohlen'
 sku: 'B06X3S11YM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

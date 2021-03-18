@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765C2PPR-de LEGO Friends Das große Rennen 41352 Kinderspielzeug'
 sku: 'B0765C2PPR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

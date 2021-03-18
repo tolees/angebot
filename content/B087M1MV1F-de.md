@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M1MV1F-de Banane NEU 2020 2 Paar Niedlicher Ersatz Silikon Analog...'
 sku: 'B087M1MV1F-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

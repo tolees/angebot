@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KUV3Q0O-de Anker PowerPort Speed 5 63W 5 Port USB Ladegerät Netzteile...'
 sku: 'B01KUV3Q0O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

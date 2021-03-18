@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2HSC7R-de Hasbro FURREAL Friends E7963EU4 furReal Topper Mein Baby-...'
 sku: 'B07P2HSC7R-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 37.84 EUR
 currency: EUR
 price: 37.84

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ELG5G7K-de Hasbro Gaming B7714100 - Elefun Kinderspiel'
 sku: 'B01ELG5G7K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

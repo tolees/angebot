@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AWN106W-de Kitchen Craft LOVELLO Brotkasten 42 x 22 x 18 cm – Schwarz'
 sku: 'B01AWN106W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 52.83 EUR
 currency: EUR
 price: 52.83

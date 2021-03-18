@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMNH3DM-de Tokyo Laundry Tybalt Canvas Rucksack Gr. Einheitsgröße...'
 sku: 'B07MMNH3DM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

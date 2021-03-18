@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014GQZTO-de Bosch Professional Diamant-Dosensenker mit Power-Change-...'
 sku: 'B0014GQZTO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

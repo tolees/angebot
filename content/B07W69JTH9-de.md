@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W69JTH9-de Funko 45312 POP Movies: Devil Wears Prada - Andy Sachs...'
 sku: 'B07W69JTH9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

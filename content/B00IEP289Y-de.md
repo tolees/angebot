@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IEP289Y-de SIRUI ET-2204/E-20 Easy Traveler Dreibeinstativ mit E-20...'
 sku: 'B00IEP289Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

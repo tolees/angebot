@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EUUXBDE-de Logitech Z200 2.0 Lautsprecher mit Subwoofer Surround...'
 sku: 'B00EUUXBDE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

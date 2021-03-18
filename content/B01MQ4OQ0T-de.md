@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQ4OQ0T-de Julbo Vermont Herren-Sonnenbrille Herren Sonnenbrille...'
 sku: 'B01MQ4OQ0T-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

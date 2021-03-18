@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007VUWX4I-de ECCO Damen Offroad Sport- & Outdoor Sandalen Blau...'
 sku: 'B007VUWX4I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 58.61 EUR
 currency: EUR
 price: 58.61

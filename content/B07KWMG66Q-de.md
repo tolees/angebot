@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWMG66Q-de LEGO Jungen CM-50316-T-SHIRT L/S Langarmshirt Grün Green...'
 sku: 'B07KWMG66Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BBW8KF2-de Aeronautica Militare blank Melange Grey XL'
 sku: 'B01BBW8KF2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

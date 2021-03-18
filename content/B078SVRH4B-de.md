@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SVRH4B-de SanDisk Extreme Portable SSD externe Festplatte 250GB SSD...'
 sku: 'B078SVRH4B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 62.38 EUR
 currency: EUR
 price: 62.38

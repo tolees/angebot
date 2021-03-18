@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079X5QNXC-de Gillette Fusion5 Rasierklingen für Männer 14 Stück'
 sku: 'B079X5QNXC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

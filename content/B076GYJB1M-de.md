@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076GYJB1M-de [Neue Version] SYCEES 29 in 1 Mini Schraubendreher Set...'
 sku: 'B076GYJB1M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

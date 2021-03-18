@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076W5GMG6-de Pepe Jeans Damen Jeans Soho Blau D26 29W/30L'
 sku: 'B076W5GMG6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

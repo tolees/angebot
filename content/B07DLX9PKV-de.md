@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLX9PKV-de SAMSONITE PRO-DLX 5 - Rolling Tote for 15.6" Laptop - 3.1...'
 sku: 'B07DLX9PKV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 223.25 EUR
 currency: EUR
 price: 223.25

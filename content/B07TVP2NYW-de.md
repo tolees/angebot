@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVP2NYW-de BRIKSMAX Led Beleuchtungsset für Lego Technic Schwerlast-...'
 sku: 'B07TVP2NYW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

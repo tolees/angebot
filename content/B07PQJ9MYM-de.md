@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQJ9MYM-de Gabor Shoes Damen Jollys Stiefeletten Beige Cognac Natur...'
 sku: 'B07PQJ9MYM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 61.91 EUR
 currency: EUR
 price: 61.91

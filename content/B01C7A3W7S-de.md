@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C7A3W7S-de Sigma Mount Converter MC-11 für Global Vision Produkte mit...'
 sku: 'B01C7A3W7S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 225.99 EUR
 currency: EUR
 price: 225.99

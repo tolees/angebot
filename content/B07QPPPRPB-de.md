@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPPPRPB-de Wiko View 3 Lite Silver bleen 6 09" HD+ Display 13MP+2MP...'
 sku: 'B07QPPPRPB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

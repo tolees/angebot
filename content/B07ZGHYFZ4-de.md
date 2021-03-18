@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGHYFZ4-de Xiaomi Mi Note 10 Smartphone 16 43cm 6 47" 3D Curved...'
 sku: 'B07ZGHYFZ4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 402.47 EUR
 currency: EUR
 price: 402.47

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K3LH4OQ-de Victorinox Holz Taschenmesser Ranger Wood 55 10 Funktionen...'
 sku: 'B00K3LH4OQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 52.8 EUR
 currency: EUR
 price: 52.8

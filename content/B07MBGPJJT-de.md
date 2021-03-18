@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBGPJJT-de Pentel SESF30C-4 Brush Sign Pen Artist - Pinselstift mit...'
 sku: 'B07MBGPJJT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

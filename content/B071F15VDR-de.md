@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071F15VDR-de Hisense RB400N4EG3 Kühl-Gefrier-Kombination/A+++/No-...'
 sku: 'B071F15VDR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 283.25 EUR
 currency: EUR
 price: 283.25

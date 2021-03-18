@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ6LLTG-de Gardena Set Akku-Grasschere ClassicCut Li: Rasenschere-...'
 sku: 'B07JZ6LLTG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 59.04 EUR
 currency: EUR
 price: 59.04

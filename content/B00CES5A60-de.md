@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CES5A60-de Logitech C930e Business-Webcam Full-HD 1080p 90° Blickfeld...'
 sku: 'B00CES5A60-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 78.09 EUR
 currency: EUR
 price: 78.09

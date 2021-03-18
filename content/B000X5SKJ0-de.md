@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000X5SKJ0-de Giesswein Hausschuh Dannheim - Filzpantoffeln leichte...'
 sku: 'B000X5SKJ0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 30 EUR
 currency: EUR
 price: 30

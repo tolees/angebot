@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXFCAZR-de Samsonite Base Boost - Spinner L Erweiterbar Koffer 78 cm...'
 sku: 'B01LXFCAZR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYFMVJF-de Hasbro Disney Die Eiskönigin Feuergeist mit Schnee-Snack...'
 sku: 'B07VYFMVJF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

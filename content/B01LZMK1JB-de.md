@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZMK1JB-de DJI Mavic Pro - Umhängetasche für Mavic Pro Zubehör 1...'
 sku: 'B01LZMK1JB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019RG3SHY-de Kosmos AllesKönnerKiste 604257 - Schnitzen Komplett-Set'
 sku: 'B019RG3SHY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019EN52WE-de Engtanz'
 sku: 'B019EN52WE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

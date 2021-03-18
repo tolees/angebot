@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ9JCTT-de Design Fahrradzubehör | Fahrradhalter Wand | Fahrrad...'
 sku: 'B07TZ9JCTT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

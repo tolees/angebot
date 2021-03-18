@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725FTG7Y-de Sony HT-RT4 5.1 Soundbar System 600W hohe...'
 sku: 'B0725FTG7Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX3QKIZ-de Pioneer X-HM26 B Microsystem mit Zweiwege-Boxen Bluetooth...'
 sku: 'B01LX3QKIZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

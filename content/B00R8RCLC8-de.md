@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R8RCLC8-de Floïd masaje genuino vigoroso Aftershave 150ml'
 sku: 'B00R8RCLC8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

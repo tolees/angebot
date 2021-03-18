@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ZVZPU6-de MÜHLE - Klassischer Rasierhobel - geschlossener Kamm -...'
 sku: 'B003ZVZPU6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

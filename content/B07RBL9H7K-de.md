@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBL9H7K-de CARE OF by PUMA Herren Low-Top Sneaker Grau Grey Grey 42 EU'
 sku: 'B07RBL9H7K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

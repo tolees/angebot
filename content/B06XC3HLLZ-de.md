@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XC3HLLZ-de Huawei P10 Smartphone 12 95 cm 5 1 Zoll Touch-Display 64...'
 sku: 'B06XC3HLLZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 134.59 EUR
 currency: EUR
 price: 134.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YJYHSF-de K9CK Bauspielzeug Bauset Modifiziertes Paket Lässt Sich...'
 sku: 'B086YJYHSF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

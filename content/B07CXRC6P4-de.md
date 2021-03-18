@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXRC6P4-de Ela Mo’s Rucksack Damen | Schön und Durchdacht | für Uni...'
 sku: 'B07CXRC6P4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

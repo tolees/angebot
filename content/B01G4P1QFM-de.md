@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G4P1QFM-de NEXGADGET Küchenhelfer Set 42 Stücke Küchenzubehör...'
 sku: 'B01G4P1QFM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

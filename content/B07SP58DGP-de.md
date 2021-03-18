@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SP58DGP-de Netgear GC108P Gigabit 8 Port Ethernet LAN Switch 8x PoE+...'
 sku: 'B07SP58DGP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 124.68 EUR
 currency: EUR
 price: 124.68

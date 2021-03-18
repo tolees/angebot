@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXNZL7B-de EZVIZ ezTube 720p Überwachungskamera aussen WiFi 2.4Ghz...'
 sku: 'B07BXNZL7B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 54.17 EUR
 currency: EUR
 price: 54.17

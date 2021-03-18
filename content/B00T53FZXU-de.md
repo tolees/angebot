@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T53FZXU-de Panasonic LUMIX DMC-SZ10EG-S Style-Kompakt Digitalkamera...'
 sku: 'B00T53FZXU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 83.85 EUR
 currency: EUR
 price: 83.85

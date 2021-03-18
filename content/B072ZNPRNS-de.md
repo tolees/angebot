@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072ZNPRNS-de Transformers 5 - The Last Knight + Blu-ray + Bonus-Disc'
 sku: 'B072ZNPRNS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

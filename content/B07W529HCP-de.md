@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W529HCP-de Explosion Box Geschenkbox Sporgo Kreative Überraschung Box...'
 sku: 'B07W529HCP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

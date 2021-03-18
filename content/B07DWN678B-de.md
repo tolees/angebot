@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWN678B-de iMangoo Dash Ladegerät 5V 4A Dash Ladegerät Schnelladapter...'
 sku: 'B07DWN678B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

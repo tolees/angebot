@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CSQ71G-de Eichhorn buntes Spielcenter Motorikwürfel mit...'
 sku: 'B000CSQ71G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

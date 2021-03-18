@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9CHL3L-de Huawei P smart 2019 64GB Hybrid-SIM Aurora Blau EU [15...'
 sku: 'B07M9CHL3L-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

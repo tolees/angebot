@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0068XIHXA-de Tassimo Kapseln Jacobs Krönung XL 80 Kaffeekapseln 5er...'
 sku: 'B0068XIHXA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

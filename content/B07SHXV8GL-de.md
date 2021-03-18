@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHXV8GL-de Samsung Galaxy S10e Smartphone Bundle 14.7cm 5.8 Zoll 128...'
 sku: 'B07SHXV8GL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

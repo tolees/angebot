@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JXF7CMM-de LEABAGS Cambridge Umhängetasche Schultertasche...'
 sku: 'B00JXF7CMM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 106.68 EUR
 currency: EUR
 price: 106.68

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0038ZWEC6-de fischertechnik - 508775 ADVANCED Super Fun Park...'
 sku: 'B0038ZWEC6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

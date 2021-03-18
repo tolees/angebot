@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H9DB89S-de VAUDE Kappe UV Cap black L 049880105400'
 sku: 'B00H9DB89S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.61 EUR
 currency: EUR
 price: 11.61

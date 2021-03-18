@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QQ9G5H-de König & Meyer 16075 Headphones Table Stand Schwarz'
 sku: 'B079QQ9G5H-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

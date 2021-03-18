@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N63FOWS-de Swarovski Damen-Kette mit Anhänger SWAN Lake Edelstahl...'
 sku: 'B01N63FOWS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 98.7 EUR
 currency: EUR
 price: 98.7

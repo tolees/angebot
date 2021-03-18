@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R7GR2EM-de WOLF-Garten - Rasen-Langzeitdünger »Premium« 120 Tage LE...'
 sku: 'B00R7GR2EM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.7 EUR
 currency: EUR
 price: 27.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AXZCOG-de All for You'
 sku: 'B000AXZCOG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

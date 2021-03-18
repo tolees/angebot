@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0753CV8QW-de Buluri Washi Tape 50 Rolls Washi Masking Tape Dekorative...'
 sku: 'B0753CV8QW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

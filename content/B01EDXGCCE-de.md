@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EDXGCCE-de Acer K272HLEbid 69 cm 27 Zoll Full HD Monitor VGA DVI HDMI...'
 sku: 'B01EDXGCCE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 150.61 EUR
 currency: EUR
 price: 150.61

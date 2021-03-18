@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WRVMOAE-de Der Alte - Collector s Box Volume 18 Folgen 281 - 295 [5...'
 sku: 'B00WRVMOAE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

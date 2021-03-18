@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BOZ79UO-de One Step Looper Tool-'
 sku: 'B00BOZ79UO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

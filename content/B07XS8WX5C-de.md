@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS8WX5C-de Apple Watch Series 5 GPS + Cellular 40 mm Edelstahlgehäuse...'
 sku: 'B07XS8WX5C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 667.01 EUR
 currency: EUR
 price: 667.01

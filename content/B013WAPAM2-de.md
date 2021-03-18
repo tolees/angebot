@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WAPAM2-de Bosch Professional Laser Entfernungsmesser GLM 50 C...'
 sku: 'B013WAPAM2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

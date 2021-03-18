@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHIM7O6-de Philips 929001229801 EEK A+ LED Lampe ersetzt 120 W E27...'
 sku: 'B01KHIM7O6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

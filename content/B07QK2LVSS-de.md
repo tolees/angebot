@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK2LVSS-de Pentel BL77TLE-AX EnerGel Pure Gel-Tintenroller mit...'
 sku: 'B07QK2LVSS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.27 EUR
 currency: EUR
 price: 2.27

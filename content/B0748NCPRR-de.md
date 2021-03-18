@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0748NCPRR-de Bose SoundLink Micro tragbarer Outdoor - Lautsprecher...'
 sku: 'B0748NCPRR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

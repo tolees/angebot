@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JF0AR0Y-de Microsoft Wireless Mobile Mouse 1850 Maus schwarz kabellos...'
 sku: 'B00JF0AR0Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

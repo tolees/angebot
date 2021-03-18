@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WPGFXR-de yo-kai Watch Jungen Yokai Watch Schlafanzug - Slim Fit - 128'
 sku: 'B071WPGFXR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

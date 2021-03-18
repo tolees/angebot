@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C3TJV3I-de Ravensburger tiptoi Dein Körper und Du Spiel ab 4 Jahren...'
 sku: 'B00C3TJV3I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

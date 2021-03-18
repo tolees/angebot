@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899Z2PPF-de Controller für Nintendo Switch 6-Achsen Einstellbarem...'
 sku: 'B0899Z2PPF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

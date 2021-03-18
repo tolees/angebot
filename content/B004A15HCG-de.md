@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004A15HCG-de Lico Mädchen Silverstar V Hallenschuhe Weiß...'
 sku: 'B004A15HCG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

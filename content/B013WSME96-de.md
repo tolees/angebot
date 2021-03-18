@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WSME96-de Sony Xperia Z5 Smartphone 5 2 Zoll 13 2 cm Touch-Display...'
 sku: 'B013WSME96-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

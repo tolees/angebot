@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00006JAPR-de Hama Euro-Netzkabel 2-polig 1 5m gerade Eurostecker auf...'
 sku: 'B00006JAPR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

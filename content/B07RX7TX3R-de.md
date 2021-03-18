@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX7TX3R-de Levi s Damen Perfect Vneck T-Shirt Schwarz Caviar 0003 Medium'
 sku: 'B07RX7TX3R-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

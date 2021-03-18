@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6XF1N6-de Microsoft Surface Laptop 34 29 cm 13 5 Zoll Intel Core M3...'
 sku: 'B07D6XF1N6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

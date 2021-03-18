@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L2X4ZBX-de Corsair Harpoon Kabellose RGB Wiederaufladbare Optisch...'
 sku: 'B07L2X4ZBX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

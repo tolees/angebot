@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XT1DBX-de NHUAIYINSHUGUOGUANGGAOJINGY Displayport zum HDMI-...'
 sku: 'B082XT1DBX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

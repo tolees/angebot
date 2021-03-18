@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HZ255YQ-de Quiksilver Herren Anton Kapuzenjacke oliv M'
 sku: 'B01HZ255YQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

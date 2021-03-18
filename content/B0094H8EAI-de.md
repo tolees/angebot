@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0094H8EAI-de Yankee Candle Duftkerze im Glas groß | Cranberry Ice |...'
 sku: 'B0094H8EAI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

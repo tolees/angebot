@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLZM5JQ-de SAMSONITE PRO-DLX 5 - Bailhandle Erweiterbar für 17.3"...'
 sku: 'B07DLZM5JQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

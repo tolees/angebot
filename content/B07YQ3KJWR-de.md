@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQ3KJWR-de Paco Home Kinder-Teppich Für Kinderzimmer Spiel-Teppich...'
 sku: 'B07YQ3KJWR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 103.92 EUR
 currency: EUR
 price: 103.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTG3JA-de SanDisk SDCZ43-064G-GAM46 USB-Flash-Laufwerk USB 3.0 bis...'
 sku: 'B01BGTG3JA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.83 EUR
 currency: EUR
 price: 16.83

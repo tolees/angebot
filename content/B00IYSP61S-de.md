@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IYSP61S-de Rekord'
 sku: 'B00IYSP61S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

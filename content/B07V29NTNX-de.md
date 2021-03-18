@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V29NTNX-de Anker Nebula Capsule Max Mini Projektor in Pint-Größe...'
 sku: 'B07V29NTNX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

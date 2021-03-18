@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z65OA5A-de Kitchen Craft 25 5 cm Living Nostalgia innen Wall Clock...'
 sku: 'B00Z65OA5A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.28 EUR
 currency: EUR
 price: 21.28

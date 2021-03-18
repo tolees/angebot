@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OXWN70Q-de uvex Unisex – Erwachsene plug-in LED für i-vo/airwing...'
 sku: 'B00OXWN70Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

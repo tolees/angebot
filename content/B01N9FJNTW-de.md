@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9FJNTW-de Fire HD 10-Tablet 1080p Full HD-Display 64 GB Schwarz mit...'
 sku: 'B01N9FJNTW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 92.6 EUR
 currency: EUR
 price: 92.6

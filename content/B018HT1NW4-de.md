@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018HT1NW4-de Krampus [Blu-ray]'
 sku: 'B018HT1NW4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.44 EUR
 currency: EUR
 price: 4.44

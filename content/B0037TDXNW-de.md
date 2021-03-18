@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0037TDXNW-de Reality Leuchten Tischleuchte Kugel ohne Leuchtmittel...'
 sku: 'B0037TDXNW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

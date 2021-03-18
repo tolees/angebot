@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073SB2L3C-de SanDisk Ultra 64GB microSDXC Speicherkarte + Adapter bis...'
 sku: 'B073SB2L3C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

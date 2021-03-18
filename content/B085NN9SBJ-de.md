@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NN9SBJ-de Dittzz Display Ständer Bausteine Halterung Ständer Für...'
 sku: 'B085NN9SBJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

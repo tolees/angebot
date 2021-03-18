@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00STL8GK8-de Hasbro FurReal Friends B0449EU6- JJ mein hopsender Mops...'
 sku: 'B00STL8GK8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

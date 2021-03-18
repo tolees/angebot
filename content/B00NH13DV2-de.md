@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NH13DV2-de AmazonBasics USB 2.0-Druckerkabel A-Stecker auf B-Stecker 3 m'
 sku: 'B00NH13DV2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

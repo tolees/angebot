@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083B73KVG-de UMIDIGI Smartwatch Uwatch3 Fitness Tracker 5 ATM...'
 sku: 'B083B73KVG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

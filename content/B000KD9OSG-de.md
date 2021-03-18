@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KD9OSG-de Casio Collection Herren-Armbanduhr F105W1AWYEF'
 sku: 'B000KD9OSG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.85 EUR
 currency: EUR
 price: 15.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7H7JPX-de adidas Kinder TIRO19 TR TOPY Sweatshirt Dark Blue/Bold...'
 sku: 'B07K7H7JPX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTQFQ8G-de Tommy Hilfiger Damen Multi Dial Quartz Uhr Jenna'
 sku: 'B07KTQFQ8G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 101.27 EUR
 currency: EUR
 price: 101.27

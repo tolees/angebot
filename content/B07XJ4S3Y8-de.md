@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJ4S3Y8-de OnePlus 7T Smartphone Frosted Silver | 8 GB RAM + 128 GB...'
 sku: 'B07XJ4S3Y8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 499.32 EUR
 currency: EUR
 price: 499.32

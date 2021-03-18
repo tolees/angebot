@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I49NDKI-de Badewannensitz - ausziehbar 150 kg Tragkraft Aluminium...'
 sku: 'B00I49NDKI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

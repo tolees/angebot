@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072HHYT2D-de TOM TAILOR Damen Jeanshosen Alexa Straight Jeans mid Stone...'
 sku: 'B072HHYT2D-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.96 EUR
 currency: EUR
 price: 38.96

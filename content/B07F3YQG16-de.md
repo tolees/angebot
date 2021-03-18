@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3YQG16-de TOYMYTOY Armee Figuren Soldaten Modell Set für Kinder...'
 sku: 'B07F3YQG16-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

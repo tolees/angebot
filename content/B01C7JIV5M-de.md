@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C7JIV5M-de Tommy Hilfiger Herren Multi Zifferblatt Quarz Uhr mit...'
 sku: 'B01C7JIV5M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 122.13 EUR
 currency: EUR
 price: 122.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTY5HH8-de Logitech G635 kabelgebundenes Gaming-Headset mit LIGHTSYNC...'
 sku: 'B07MTY5HH8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XD9TCFJ-de Tarent Skibrille mit Ultragroßes rahmenloses Design und...'
 sku: 'B07XD9TCFJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

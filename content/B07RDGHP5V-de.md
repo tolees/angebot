@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDGHP5V-de WC Ente Total Aktiv Gel Flüssiger WC Reiniger mit...'
 sku: 'B07RDGHP5V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

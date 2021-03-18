@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCZBXQ8-de G-STAR RAW Herren 3301 Straight Jeans Antic Charcoal...'
 sku: 'B07RCZBXQ8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.23 EUR
 currency: EUR
 price: 33.23

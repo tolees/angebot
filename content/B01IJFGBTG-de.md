@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IJFGBTG-de VNOX Männer Frauen Edelstahl Umgekehrt Upside Down Kreuz...'
 sku: 'B01IJFGBTG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

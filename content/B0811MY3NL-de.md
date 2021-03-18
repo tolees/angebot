@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811MY3NL-de HATTEKER Rasierer Elektrorasierer Herren Rasierapparat...'
 sku: 'B0811MY3NL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

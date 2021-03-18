@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLVH1UO-de Playmobil 5309 - Schlafzimmer mit Schminktischchen'
 sku: 'B00VLVH1UO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

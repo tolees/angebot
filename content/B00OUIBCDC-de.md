@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OUIBCDC-de Pelikan 946806 Füller Twist in Faltschachtel universell...'
 sku: 'B00OUIBCDC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

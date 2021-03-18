@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F163ERY-de NETGEAR GS516TP 16-Port Gigabit Ethernet LAN PoE Switch...'
 sku: 'B00F163ERY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

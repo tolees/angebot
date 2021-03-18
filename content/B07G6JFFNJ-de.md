@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G6JFFNJ-de SEVERIN KA 4845 Type Switch Kaffeemaschine Für gemahlenen...'
 sku: 'B07G6JFFNJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

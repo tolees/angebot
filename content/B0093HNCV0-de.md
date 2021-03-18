@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0093HNCV0-de Tassimo Kapseln Jacobs Cappuccino Classico 40...'
 sku: 'B0093HNCV0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

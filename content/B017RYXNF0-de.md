@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017RYXNF0-de Linksys Max-Stream AC5400 MU-MIMO Dual-Band Wi-Fi Router...'
 sku: 'B017RYXNF0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 215.0 EUR
 currency: EUR
 price: 215.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0018LMKXK-de Nicht Von Dieser Welt/Re-release + Bonus'
 sku: 'B0018LMKXK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.26 EUR
 currency: EUR
 price: 5.26

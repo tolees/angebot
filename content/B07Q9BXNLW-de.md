@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q9BXNLW-de Samsung Galaxy Tab A T515N 25 54 cm 10 1 Zoll Tablet-PC 1...'
 sku: 'B07Q9BXNLW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 179.25 EUR
 currency: EUR
 price: 179.25

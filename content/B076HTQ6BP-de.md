@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HTQ6BP-de KitchenAid CLASSIC 4 3 L-Küchenmaschinen mit kippbarem...'
 sku: 'B076HTQ6BP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 363.47 EUR
 currency: EUR
 price: 363.47

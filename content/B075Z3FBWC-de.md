@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Z3FBWC-de Hasbro Super Soaker E0022EU4 - Soakzooka Wasserpistole mit...'
 sku: 'B075Z3FBWC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

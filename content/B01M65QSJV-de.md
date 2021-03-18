@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M65QSJV-de Fastskin Erwachsene Speedsocket 2 Goggles Black/Mirror One...'
 sku: 'B01M65QSJV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 35.18 EUR
 currency: EUR
 price: 35.18

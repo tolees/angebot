@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JP79JH1-de Holzmeißel Set Tacklife Stechbeitel Set für Holz...'
 sku: 'B07JP79JH1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

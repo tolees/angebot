@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUWFAMW-de Kommissarin Lund - Die komplette Serie - 10 Jahre...'
 sku: 'B01IUWFAMW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

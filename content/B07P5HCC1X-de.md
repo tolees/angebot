@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5HCC1X-de Playmobil 70165 1.2.3. Baukran ab 18 Monaten bunt one Size'
 sku: 'B07P5HCC1X-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

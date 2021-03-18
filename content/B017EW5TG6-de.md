@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017EW5TG6-de ORICO Bluetooth 4.0 Adapter Highspeed USB Bluetooth Dongle...'
 sku: 'B017EW5TG6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

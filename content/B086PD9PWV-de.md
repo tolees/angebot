@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PD9PWV-de GVFTG La Cocina Spanisch Zitate Wandtattoo Kunst...'
 sku: 'B086PD9PWV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNQG4BQ-de YOSICIL Mädchen Prinzessin Schuhe ELSA Kristall Schuhe...'
 sku: 'B07VNQG4BQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

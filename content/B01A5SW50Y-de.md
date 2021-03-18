@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A5SW50Y-de Master & Dynamic MH40 Leica-Ausgabe: ein erstklassiger...'
 sku: 'B01A5SW50Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 199.17 EUR
 currency: EUR
 price: 199.17

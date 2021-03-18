@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004H4EFF6-de Hazet 810SPC/6 Schraubendreher-Satz'
 sku: 'B004H4EFF6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.04 EUR
 currency: EUR
 price: 12.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018SVQXU8-de LG Electronics OM4560 High Power Hifianlage Schwarz'
 sku: 'B018SVQXU8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 110.06 EUR
 currency: EUR
 price: 110.06

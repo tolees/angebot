@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQYFQ54-de adidas Herren Terrex AX3 Klassische Stiefel Schwarz Black...'
 sku: 'B07JQYFQ54-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 71.88 EUR
 currency: EUR
 price: 71.88

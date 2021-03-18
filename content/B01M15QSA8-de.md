@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M15QSA8-de Original Einhell Starter Kit Akku und Ladegerät Power...'
 sku: 'B01M15QSA8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34 EUR
 currency: EUR
 price: 34

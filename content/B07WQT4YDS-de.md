@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQT4YDS-de WEWE Estantes De Pared De Madera De 2 Niveles Muro De...'
 sku: 'B07WQT4YDS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

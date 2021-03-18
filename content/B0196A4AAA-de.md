@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0196A4AAA-de Sylvanian Families 5231 - Strandkarusell'
 sku: 'B0196A4AAA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

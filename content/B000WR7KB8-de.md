@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WR7KB8-de Villeroy & Boch Piemont Tafelbesteck für bis zu 6 Personen...'
 sku: 'B000WR7KB8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

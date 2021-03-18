@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDPHFQW-de Calvin Klein Damen Bottom Pant Jogger Sporthose Grau Grey...'
 sku: 'B06XDPHFQW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 36.8 EUR
 currency: EUR
 price: 36.8

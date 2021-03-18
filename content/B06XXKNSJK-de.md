@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXKNSJK-de Philips YKF406-003 996596006068 Original-Fernbedienung für...'
 sku: 'B06XXKNSJK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

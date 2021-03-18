@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EO9DTO2-de Talisker Dark Storm Whisky 1 x 1 l'
 sku: 'B00EO9DTO2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.81 EUR
 currency: EUR
 price: 49.81

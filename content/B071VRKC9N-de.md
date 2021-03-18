@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VRKC9N-de LEGO Marvel Superheroes 2 [PlayStation 4]'
 sku: 'B071VRKC9N-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

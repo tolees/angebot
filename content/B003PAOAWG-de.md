@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003PAOAWG-de Logitech C270 Webcam 720p Videoqualität schwarz'
 sku: 'B003PAOAWG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

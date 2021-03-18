@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KLFACQ6-de WENKO Vacuum-Loc Eckregal Bari 2 Etagen Befestigen ohne...'
 sku: 'B00KLFACQ6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

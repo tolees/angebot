@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001NYX1W6-de KS Tools 515.1432 3/4" Sechskant-Kraft-Stecknuss lang 32mm'
 sku: 'B001NYX1W6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

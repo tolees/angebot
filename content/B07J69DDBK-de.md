@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J69DDBK-de LEGO Marvel Spider-Man 76128 - Far From Home Duell mit...'
 sku: 'B07J69DDBK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

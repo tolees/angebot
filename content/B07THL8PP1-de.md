@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THL8PP1-de Anker Wireless Charger PowerWave Ladepad Doppelpack Zwei...'
 sku: 'B07THL8PP1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

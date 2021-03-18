@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0848N2YZK-de Tommy Hilfiger Sportuhr 1791720'
 sku: 'B0848N2YZK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 142.65 EUR
 currency: EUR
 price: 142.65

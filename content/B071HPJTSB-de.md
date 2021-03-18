@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HPJTSB-de Tommy Hilfiger Herren CORE Stretch Slim Vneck Tee T-Shirt...'
 sku: 'B071HPJTSB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

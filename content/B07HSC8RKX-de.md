@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSC8RKX-de MSI MPG Z390i Gaming Edge AC LGA 1151 Mainboard DDR4 2X...'
 sku: 'B07HSC8RKX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 72.13 EUR
 currency: EUR
 price: 72.13

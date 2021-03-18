@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BM1WMG5-de Hasbro Gaming E1871100 - Monopoly Mogeln und Mauscheln...'
 sku: 'B07BM1WMG5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFZTGRS-de Puma Unisex-Erwachsene Rebound Layup Sd Fur Sneaker Puma...'
 sku: 'B07KFZTGRS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 40.02 EUR
 currency: EUR
 price: 40.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0763QVR7L-de MSI TORX FAN 12CM'
 sku: 'B0763QVR7L-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

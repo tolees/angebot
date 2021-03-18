@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017BJ8ZEU-de Bosch Serie 8 KIF41AD40 Einbau Kühlschrank / EEK A+++ / 80...'
 sku: 'B017BJ8ZEU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 773.87 EUR
 currency: EUR
 price: 773.87

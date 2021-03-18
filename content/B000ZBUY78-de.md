@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ZBUY78-de Seiko Damenuhr Analog Automatisch mit Edelstahlarmband –...'
 sku: 'B000ZBUY78-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 77.98 EUR
 currency: EUR
 price: 77.98

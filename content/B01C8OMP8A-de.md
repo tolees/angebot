@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C8OMP8A-de Bandai – Miraculous Ladybug – Verwandlungsset – Verkleiden...'
 sku: 'B01C8OMP8A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

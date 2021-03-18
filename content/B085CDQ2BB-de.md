@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CDQ2BB-de Adeept Spider Robot Quadruped Robot Kit für Raspberry Pi...'
 sku: 'B085CDQ2BB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

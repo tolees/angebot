@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003NTK2X0-de EuroTrail Grillabdeckung für 3-flamm-Grill'
 sku: 'B003NTK2X0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.52 EUR
 currency: EUR
 price: 15.52

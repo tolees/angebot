@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H54TJ2M-de Libratone ZIPP MINI 2 Smart Wireless kleiner Lautsprecher...'
 sku: 'B07H54TJ2M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 163.9 EUR
 currency: EUR
 price: 163.9

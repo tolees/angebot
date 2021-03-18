@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0027WLUXA-de Boccia Herrenuhr Analog Quarz mit Lederarmband – 3533-03'
 sku: 'B0027WLUXA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 68.95 EUR
 currency: EUR
 price: 68.95

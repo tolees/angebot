@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0189KQW6I-de mecablitz 44 AF-2 für Sony Kameras DSLR und CSC |...'
 sku: 'B0189KQW6I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6FL9B1-de PLAYMOBIL Novelmore 70221 Festung der Burnham Raiders Für...'
 sku: 'B07P6FL9B1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

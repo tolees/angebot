@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016IGUGRG-de Neff TPT4660X / T46PT60X0 / Autarkes Kochfeld / Induktion...'
 sku: 'B016IGUGRG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 352.0 EUR
 currency: EUR
 price: 352.0

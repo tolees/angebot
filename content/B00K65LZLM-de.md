@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K65LZLM-de Transcend TS32GJF590K JetFlash 32GB Speicherstick USB 2.0...'
 sku: 'B00K65LZLM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

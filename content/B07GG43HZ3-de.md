@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GG43HZ3-de De Longhi Nespresso Vertuo | ENV 150.R...'
 sku: 'B07GG43HZ3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

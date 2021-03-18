@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053PV4UW-de Bosch Akku Laubbläser ALB 18 LI ohne Akku 18 V 1 8 kg 210...'
 sku: 'B0053PV4UW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 53.16 EUR
 currency: EUR
 price: 53.16

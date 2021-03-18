@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788GRQG9-de Unold 48165 PANCAKE-MAKER American Kunststoff...'
 sku: 'B0788GRQG9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

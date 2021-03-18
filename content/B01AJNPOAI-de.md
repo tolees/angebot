@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AJNPOAI-de Schleich 42344 - Reiterhof mit Reiterin und Pferden'
 sku: 'B01AJNPOAI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

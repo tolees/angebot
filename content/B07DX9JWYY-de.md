@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DX9JWYY-de Just Cause 4 - Standard Edition - [PlayStation 4]'
 sku: 'B07DX9JWYY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.66 EUR
 currency: EUR
 price: 6.66

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FYVZGB-de Revell 06053 Modellbausatz Star Wars 1:2700-Republic...'
 sku: 'B074FYVZGB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

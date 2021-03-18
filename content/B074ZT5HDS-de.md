@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZT5HDS-de Eva Solo Miska 1 2L Nordic Kitchen'
 sku: 'B074ZT5HDS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

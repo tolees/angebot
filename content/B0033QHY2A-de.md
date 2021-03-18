@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0033QHY2A-de Trelock Schloss FS 300 Trigo-85 cm Faltschloss schwarz...'
 sku: 'B0033QHY2A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

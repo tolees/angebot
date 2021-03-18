@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083XNNZVG-de DXX Technik Bausteine Auto G500 AWD Wagon Racing Auto...'
 sku: 'B083XNNZVG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

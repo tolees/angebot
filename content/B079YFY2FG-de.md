@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YFY2FG-de Funko 30032 Pop Movies Actionfigur Harry Potter-Tom Riddle...'
 sku: 'B079YFY2FG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

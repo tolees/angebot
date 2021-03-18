@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W57WQDS-de Craft Damen Greatness Fahrradunterhose Black M'
 sku: 'B06W57WQDS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.65 EUR
 currency: EUR
 price: 34.65

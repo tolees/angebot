@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GDACY7C-de Sports Laboratory Bauchweggürtel für Gewichtsverlust für...'
 sku: 'B01GDACY7C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

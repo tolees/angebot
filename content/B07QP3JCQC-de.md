@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QP3JCQC-de Dickie Toys Harry Potter Tarnumhang Umhang unsichtbar...'
 sku: 'B07QP3JCQC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 53.14 EUR
 currency: EUR
 price: 53.14

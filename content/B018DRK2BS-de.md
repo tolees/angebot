@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018DRK2BS-de Kunzer 7SS172 Steckschlüsselsatz 1/4" - 3/8" - 1/2"...'
 sku: 'B018DRK2BS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.1 EUR
 currency: EUR
 price: 99.1

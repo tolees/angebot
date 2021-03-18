@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYMCBMX-de Dragon Ball Z: Kakarot -Standard Edition [PlayStation 4]'
 sku: 'B07SYMCBMX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 30.48 EUR
 currency: EUR
 price: 30.48

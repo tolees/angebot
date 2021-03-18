@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ACHY6I-de hansgrohe Crometta 85 Duschkopf 3 Strahlarten Chrom'
 sku: 'B003ACHY6I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

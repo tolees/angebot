@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SDNDVC-de LloydBP Displayport zum HDMI-Adapterkabel Mini-Dp zum...'
 sku: 'B082SDNDVC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.21 EUR
 currency: EUR
 price: 1.21

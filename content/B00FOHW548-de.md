@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FOHW548-de Calvin Klein Herren 3p Low Rise Trunk Boxershorts...'
 sku: 'B00FOHW548-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.15 EUR
 currency: EUR
 price: 27.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FJ8OH3S-de Bosch Professional Schwingschleifer GSS 160-1 A Multi 180...'
 sku: 'B01FJ8OH3S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 103.0 EUR
 currency: EUR
 price: 103.0

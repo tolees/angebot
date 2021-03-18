@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IYEEY0Q-de Einhell Bohrhammer TC-RH 900 900 W 3 J Bohrleistung in...'
 sku: 'B00IYEEY0Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

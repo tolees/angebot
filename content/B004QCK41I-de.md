@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QCK41I-de Hamax Kindersitz Fahrrad hinten Caress Testsieger schwarz...'
 sku: 'B004QCK41I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

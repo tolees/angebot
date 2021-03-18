@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AU5SNW6-de Bosch Professional 5 tlg. Hammerbohrer SDS Plus-7X Set für...'
 sku: 'B01AU5SNW6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.74 EUR
 currency: EUR
 price: 14.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXF4Q68-de NZXT KRAKEN G12 - GPU-Montagesatz für AIO-Kühler der...'
 sku: 'B06XXF4Q68-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

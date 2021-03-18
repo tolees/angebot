@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GHDI3BC-de Gardena Teleskop-Hochentaster TCS Li-18/20 Set: Astsäge...'
 sku: 'B00GHDI3BC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 130.62 EUR
 currency: EUR
 price: 130.62

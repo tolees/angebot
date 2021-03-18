@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0161Q2OHI-de Beurer BC 57 Handgelenk-Blutdruckmessgerät Medizinprodukt...'
 sku: 'B0161Q2OHI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

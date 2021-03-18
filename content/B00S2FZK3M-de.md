@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S2FZK3M-de Puma Damen Straight Leg Hose black XL 512809 01'
 sku: 'B00S2FZK3M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

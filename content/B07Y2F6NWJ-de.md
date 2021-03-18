@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y2F6NWJ-de Microsoft Surface Pro X 13 Zoll 2-in-1 Tablet Microsoft...'
 sku: 'B07Y2F6NWJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

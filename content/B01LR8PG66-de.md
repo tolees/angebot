@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LR8PG66-de Arlo Pro Smart Home 1 HD- Pro Überwachungskamera und...'
 sku: 'B01LR8PG66-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

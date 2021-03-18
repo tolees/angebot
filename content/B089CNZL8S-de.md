@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089CNZL8S-de Mini PC 8GB LPDDR4 256GB SSD Intel Celeron Prozessor J4125...'
 sku: 'B089CNZL8S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 212.49 EUR
 currency: EUR
 price: 212.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074S9BJ6B-de Shiatsu-Rücken Schulter- und Nackenmassagegerät mit Wärme...'
 sku: 'B074S9BJ6B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

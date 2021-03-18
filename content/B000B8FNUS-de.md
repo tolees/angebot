@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000B8FNUS-de Leifheit Wandrollenhalter Parat Plus ComfortLine-Serie für...'
 sku: 'B000B8FNUS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005OTE2UG-de Hook [Blu-ray]'
 sku: 'B005OTE2UG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

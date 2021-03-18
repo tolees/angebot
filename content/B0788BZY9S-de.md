@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788BZY9S-de Tommy Hilfiger Damen Bralette Blau Navy Blazer 416 Medium...'
 sku: 'B0788BZY9S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

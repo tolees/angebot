@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDW8H1W-de Poopsie Surprise 555964E5C Pink Unicorn or Rainbow Unicorn...'
 sku: 'B07BDW8H1W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 44.1 EUR
 currency: EUR
 price: 44.1

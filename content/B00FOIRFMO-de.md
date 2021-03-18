@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FOIRFMO-de Philips HU4803/01 Luftbefeuchter bis zu 25m² hygienische...'
 sku: 'B00FOIRFMO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

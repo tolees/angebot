@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LL5MV2W-de HERMKO 5722 2er Pack Damen 3/4-Leggings mit Spitze...'
 sku: 'B01LL5MV2W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

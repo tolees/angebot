@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CGGWWMN-de Disney Malrolle selbstklebend Anna und ELSA - Großartiger...'
 sku: 'B07CGGWWMN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

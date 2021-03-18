@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071DN9XKW-de Pioneer 5.1 Kanal AV Receiver VSX-832-S Hifi Verstärker...'
 sku: 'B071DN9XKW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 294.9 EUR
 currency: EUR
 price: 294.9

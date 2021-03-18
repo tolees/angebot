@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YY6TLX2-de Upgraded LED Sensor Licht 78 LED Wiederaufladbar Dimmbare...'
 sku: 'B07YY6TLX2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002BDVGK2-de Durable 840500 Selbstklebe-Taben Quick Tab wiederablösbar...'
 sku: 'B002BDVGK2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

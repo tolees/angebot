@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DV2LVQQ-de ECCO Damen Terracruise II Sneaker Blau Dark Petrol/Pagoda...'
 sku: 'B07DV2LVQQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 77.0 EUR
 currency: EUR
 price: 77.0

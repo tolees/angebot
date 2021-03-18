@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYK3DQN-de Bosch Akku Staubsauger UniversalVac 18 2 5 Ah Akku 18 Volt...'
 sku: 'B07JYK3DQN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DLMD7DK-de Sony SEL-70300G G Tele-Zoom Objektiv 70-300 mm F4.5-5.6...'
 sku: 'B01DLMD7DK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 740.0 EUR
 currency: EUR
 price: 740.0

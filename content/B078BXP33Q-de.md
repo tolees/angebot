@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078BXP33Q-de 3X DC-15 Blaster Gewehr Custom Waffen für Lego Star Wars...'
 sku: 'B078BXP33Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

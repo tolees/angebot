@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D4QFYM0-de Revell Modellbausatz Star Wars Rebel U-Wing Fighter im...'
 sku: 'B01D4QFYM0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

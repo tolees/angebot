@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001Y7SPOQ-de Radio Rock Revolution The Boat That Rocked'
 sku: 'B001Y7SPOQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

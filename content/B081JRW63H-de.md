@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081JRW63H-de LLOYD Herren ORWIN Uniform-Schuh Braun Brandy 44.5'
 sku: 'B081JRW63H-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 86.16 EUR
 currency: EUR
 price: 86.16

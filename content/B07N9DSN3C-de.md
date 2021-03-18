@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9DSN3C-de JBL Live 500BT kabellose Over-Ear Kopfhörer - Bluetooth...'
 sku: 'B07N9DSN3C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

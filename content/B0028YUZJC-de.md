@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0028YUZJC-de ParkTool Werkzeugablage One size 4001145'
 sku: 'B0028YUZJC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

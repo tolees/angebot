@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DIXEY6W-de LogiLink KAB0039 Kabel-Clip Selbstklebend schwarz'
 sku: 'B00DIXEY6W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.82 EUR
 currency: EUR
 price: 2.82

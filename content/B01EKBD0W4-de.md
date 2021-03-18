@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EKBD0W4-de Playmobil 6848 - Prinzessinnenschloss'
 sku: 'B01EKBD0W4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 91.23 EUR
 currency: EUR
 price: 91.23

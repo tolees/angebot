@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N2CLC96-de Bosch Professional Ortungsgerät D-tect 120 1x 1 5 Ah Akku...'
 sku: 'B00N2CLC96-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 170.99 EUR
 currency: EUR
 price: 170.99

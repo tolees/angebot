@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVG8T1L-de ATOMIC Unisex – Erwachsene Count 360 Goggles Rot/Pink-Gelb...'
 sku: 'B07VVG8T1L-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

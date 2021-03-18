@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AWG5U7Y-de LG 34UC88-B 86 36 cm 34 Zoll Curved 21:9 UltraWide™ IPS...'
 sku: 'B01AWG5U7Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 374.88 EUR
 currency: EUR
 price: 374.88

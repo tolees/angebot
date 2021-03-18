@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WVX1T2-de Paco Home Designer Teppich Wohnzimmer Ausgefallen...'
 sku: 'B078WVX1T2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 29.52 EUR
 currency: EUR
 price: 29.52

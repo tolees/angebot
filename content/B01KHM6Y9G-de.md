@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHM6Y9G-de tegut... Gurken Cornichons 300 g'
 sku: 'B01KHM6Y9G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

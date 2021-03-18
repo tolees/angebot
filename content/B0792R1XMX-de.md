@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792R1XMX-de My Little Pony - Cuties Sammelfiguren kleines Pony in...'
 sku: 'B0792R1XMX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

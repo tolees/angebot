@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YBHTYK-de Quick-Connect INVERTER Split Klimaanlage mit Wärmepumpe 3...'
 sku: 'B086YBHTYK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 649.9 EUR
 currency: EUR
 price: 649.9

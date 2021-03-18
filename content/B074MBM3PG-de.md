@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MBM3PG-de Somat Spülmaschinen-Tabs 10 All in 1 Extra extra...'
 sku: 'B074MBM3PG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.34 EUR
 currency: EUR
 price: 11.34

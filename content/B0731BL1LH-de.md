@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0731BL1LH-de Champion Herren Classic Logo Sweatshirt Grau S'
 sku: 'B0731BL1LH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.77 EUR
 currency: EUR
 price: 33.77

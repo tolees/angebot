@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CJRIQU8-de Keter Gerätehaus Manor 6x8 DD Grau 7 6 m³'
 sku: 'B00CJRIQU8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

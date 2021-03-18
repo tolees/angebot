@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FGRGJII-de Corsair K70 LUX Rot LED Mechanische Gaming Tastatur Cherry...'
 sku: 'B01FGRGJII-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

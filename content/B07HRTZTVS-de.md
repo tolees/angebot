@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRTZTVS-de prettygood7 Eingabestift für Nintendo 3DS / N3DS / XL/LL...'
 sku: 'B07HRTZTVS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

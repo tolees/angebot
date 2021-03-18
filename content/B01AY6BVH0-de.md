@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AY6BVH0-de UGG Female Classic Mini II Classic Boot Black 6 UK'
 sku: 'B01AY6BVH0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

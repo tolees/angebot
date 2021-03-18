@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WB1PI5S-de DeWalt XR Akku-Schlagschrauber DCF899NT - Schlagschrauber...'
 sku: 'B00WB1PI5S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 177.89 EUR
 currency: EUR
 price: 177.89

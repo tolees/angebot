@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MX1YQY-de Casio Collection Unisex-Armbanduhr DB 36 1AVEF'
 sku: 'B000MX1YQY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

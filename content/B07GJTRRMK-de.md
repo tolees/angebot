@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJTRRMK-de ZENS Qi-zertifiziertes kabelloses Aluminium Lade-Pad...'
 sku: 'B07GJTRRMK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.88 EUR
 currency: EUR
 price: 38.88

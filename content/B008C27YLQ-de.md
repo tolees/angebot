@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008C27YLQ-de Nike Unisex Erwachsene Swoosh Headband/Stirnband Schwarz...'
 sku: 'B008C27YLQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.62 EUR
 currency: EUR
 price: 6.62

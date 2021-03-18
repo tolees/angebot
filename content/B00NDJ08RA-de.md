@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NDJ08RA-de Tieflochmarker Pica Dry Trockenmarker 2 8mm Graphit 2er Pack'
 sku: 'B00NDJ08RA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

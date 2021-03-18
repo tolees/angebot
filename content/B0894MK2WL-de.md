@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894MK2WL-de Zorara LED TV Hintergrundbeleuchtung LED Strip USB 3M mit...'
 sku: 'B0894MK2WL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

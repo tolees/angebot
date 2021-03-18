@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000W2IBRK-de WMF Safari Kinderbesteck 4-teilig ab 3 Jahren Cromargan...'
 sku: 'B000W2IBRK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

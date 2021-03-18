@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4YF8ZB-de SCHÜTTE 79146 MIAMI Küchenarmatur 360° Einhebelmischer mit...'
 sku: 'B07X4YF8ZB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0834KTSPW-de Wepro kompatibel mit AirPods Pro Hülle Abstrahlend 2019...'
 sku: 'B0834KTSPW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

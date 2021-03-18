@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0134TI0AU-de Unbekannt Creative Converting 16 Stück 3-lagig Lunch-...'
 sku: 'B0134TI0AU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.12 EUR
 currency: EUR
 price: 1.12

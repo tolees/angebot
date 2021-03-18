@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015Q3S5VQ-de Rubie s 3620100 - MLP Twilight Sparkle Deluxe - Child...'
 sku: 'B015Q3S5VQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.62 EUR
 currency: EUR
 price: 23.62

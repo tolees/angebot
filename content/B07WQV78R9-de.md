@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQV78R9-de WEWE Estantes De Cocina Montados En La Pared estantes...'
 sku: 'B07WQV78R9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

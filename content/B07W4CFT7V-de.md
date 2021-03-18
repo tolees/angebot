@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4CFT7V-de Nackenmassagegerät Shiatsu Massagegerät mit Wärmefunktion...'
 sku: 'B07W4CFT7V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.98 EUR
 currency: EUR
 price: 38.98

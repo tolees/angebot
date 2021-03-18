@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7WG7QT-de TALENT Zuse Weekender - Geräumige Reisetasche XL...'
 sku: 'B07D7WG7QT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 198.99 EUR
 currency: EUR
 price: 198.99

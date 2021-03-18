@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077T6QTZG-de Bosch Akku Kettensäge Universalchain 18 1 Akku 18 Volt...'
 sku: 'B077T6QTZG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

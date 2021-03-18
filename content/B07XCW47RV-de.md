@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCW47RV-de Microsoft Surface Pro 7 12 3 Zoll 2-in-1 Tablet Intel Core...'
 sku: 'B07XCW47RV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1039.0 EUR
 currency: EUR
 price: 1039.0

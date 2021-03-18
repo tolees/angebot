@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002DJB9GA-de BEABA 912111 - Wippe Transat Up & Down noir gris'
 sku: 'B002DJB9GA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

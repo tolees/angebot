@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ER3B4V4-de Blend Cross Herren Kapuzenpullover Hoodie Pullover Mit...'
 sku: 'B01ER3B4V4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

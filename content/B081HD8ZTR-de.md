@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081HD8ZTR-de CELMAN CADA Bausteine Auto Hybrid Tourenwagen 1586 Teile...'
 sku: 'B081HD8ZTR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075SVP2ZF-de LEGO DC Super Heroes Mighty Micros: Supergirl vs. Brainiac...'
 sku: 'B075SVP2ZF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

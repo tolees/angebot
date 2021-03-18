@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TCPTBSY-de Fisher-Price GLM38 - Little People Frozen Elsas Eispalast...'
 sku: 'B07TCPTBSY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYN5TQ8-de Knauf Gartenbau Perlite Perligran 2-6 mm 100 L • zur...'
 sku: 'B01MYN5TQ8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.02 EUR
 currency: EUR
 price: 20.02

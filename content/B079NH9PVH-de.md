@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NH9PVH-de Schleich 42407 Bauernhaus mit Stall und Tieren Bunt Large'
 sku: 'B079NH9PVH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 53.67 EUR
 currency: EUR
 price: 53.67

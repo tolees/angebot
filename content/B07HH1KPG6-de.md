@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HH1KPG6-de Tommy Jeans Herren Scanton Slim Jeans Blau Cobalt Light Bl...'
 sku: 'B07HH1KPG6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 56.94 EUR
 currency: EUR
 price: 56.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ULI8CHY-de Samsonite Neopulse - Spinner S Breite: 20 cm Handgepäck 55...'
 sku: 'B00ULI8CHY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 155.4 EUR
 currency: EUR
 price: 155.4

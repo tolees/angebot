@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M2DCJ5N-de Gardena combisystem-Kleinhäckchen: Kleine Gartenhacke zum...'
 sku: 'B01M2DCJ5N-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

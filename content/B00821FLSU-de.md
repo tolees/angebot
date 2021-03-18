@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00821FLSU-de Ubbi 10006 Stahl Windeleimer grau'
 sku: 'B00821FLSU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 50.71 EUR
 currency: EUR
 price: 50.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT7AJLW-de Sony MDR-XB950B1 Drahtloser Extrabass Kopfhörer - Schwarz'
 sku: 'B01MT7AJLW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 73.95 EUR
 currency: EUR
 price: 73.95

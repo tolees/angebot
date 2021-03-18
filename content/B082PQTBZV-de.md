@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PQTBZV-de UMIDIGI Smartwatch Uwatch GT Fitness Tracker Armbanduhr...'
 sku: 'B082PQTBZV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

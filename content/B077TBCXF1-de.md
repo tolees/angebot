@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TBCXF1-de Navitech rot Harter Fall für die APEMAN Mini Car Camera...'
 sku: 'B077TBCXF1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

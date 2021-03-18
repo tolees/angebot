@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FUZE5H8-de Netgear AC810-100EUS LTE Router/Mobiler WLAN Router WiFi...'
 sku: 'B01FUZE5H8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 159.45 EUR
 currency: EUR
 price: 159.45

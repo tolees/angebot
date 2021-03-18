@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07652KZGG-de Synology DS218 + 6TB 2 x 3TB WD RED 2 Bay Desktop-NAS-Einheit'
 sku: 'B07652KZGG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 374.0 EUR
 currency: EUR
 price: 374.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Y4XUTA0-de Lacoste Herren Poloshirt Schwarz Noir X-Small...'
 sku: 'B00Y4XUTA0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 54.45 EUR
 currency: EUR
 price: 54.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNPHB8Q-de Spieland 200St. Custom Waffen Set für SWAT Team Polizei...'
 sku: 'B07QNPHB8Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

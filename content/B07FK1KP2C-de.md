@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK1KP2C-de Hasbro Beyblade Burst E3629EU4 - Rail Rush Battle Set...'
 sku: 'B07FK1KP2C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.12 EUR
 currency: EUR
 price: 38.12

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CL83JVQ-de Bose ® Companion 2 Serie III Multimedia Lautsprechersystem...'
 sku: 'B00CL83JVQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

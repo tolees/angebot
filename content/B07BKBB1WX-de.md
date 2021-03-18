@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BKBB1WX-de PC DESKTOP COMPLETE INTEL I3-8100 3.6 GHZ 8°GEN/LINDING...'
 sku: 'B07BKBB1WX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

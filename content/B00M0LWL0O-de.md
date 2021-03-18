@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M0LWL0O-de Big Spielwarenfabrik 57072 Bausteine Multicolour'
 sku: 'B00M0LWL0O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

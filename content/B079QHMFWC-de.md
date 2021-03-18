@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QHMFWC-de Fire TV Stick 4K Ultra HD mit Alexa-Sprachfernbedienung'
 sku: 'B079QHMFWC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

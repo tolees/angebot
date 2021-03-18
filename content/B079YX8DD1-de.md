@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YX8DD1-de Hubelino 420473 55-teiliges Bahnelemente Set Kugelbahn'
 sku: 'B079YX8DD1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.59 EUR
 currency: EUR
 price: 33.59

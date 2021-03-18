@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPB5PVD-de Funko 44278 POP NBA: Dallas Mavericks-Kristaps Prozingis...'
 sku: 'B07RPB5PVD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STTDQBV-de s.Oliver Mädchen 66.908.32.5702 T-Shirt Beige Ecru 0210...'
 sku: 'B07STTDQBV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

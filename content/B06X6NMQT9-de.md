@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6NMQT9-de Playmobil 6930 - Reitturnier'
 sku: 'B06X6NMQT9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

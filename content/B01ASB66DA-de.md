@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ASB66DA-de Neff TBD 4800 N Kochfeld Elektro / Induktion / 79 5 cm /...'
 sku: 'B01ASB66DA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 581.85 EUR
 currency: EUR
 price: 581.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCFZJN4-de Roccat Kone AIMO Gaming Maus hohe Präzision Optischer Owl-...'
 sku: 'B07YCFZJN4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

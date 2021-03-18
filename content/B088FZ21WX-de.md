@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FZ21WX-de elloLife Gummiband Rund 【5mm 50M】 Gummikordel Nähen Weiss...'
 sku: 'B088FZ21WX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

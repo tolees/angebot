@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GGM7G9B-de ghd Platinum+ Styler weiß'
 sku: 'B07GGM7G9B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 183.9 EUR
 currency: EUR
 price: 183.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TS8P2J1-de Pop Fantastic Four Mister Fantastic Vinyl Figure'
 sku: 'B07TS8P2J1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

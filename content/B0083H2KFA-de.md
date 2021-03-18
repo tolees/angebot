@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0083H2KFA-de Odys Seal 9 tragbarer DVD-Player mit zusätzlichem...'
 sku: 'B0083H2KFA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 97.47 EUR
 currency: EUR
 price: 97.47

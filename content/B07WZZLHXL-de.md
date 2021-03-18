@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZZLHXL-de KATOOM 8er Ringgrößenmesser Ringstock Ringgröße Messen...'
 sku: 'B07WZZLHXL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

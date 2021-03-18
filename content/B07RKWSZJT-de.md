@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKWSZJT-de Tommy Hilfiger Herren Arlos Bomber Sportjacke Blau Blue...'
 sku: 'B07RKWSZJT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 83.02 EUR
 currency: EUR
 price: 83.02

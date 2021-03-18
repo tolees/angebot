@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BKQT590-de Daniel Wellington Damen Analog Japanese Quartz Uhr mit...'
 sku: 'B00BKQT590-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

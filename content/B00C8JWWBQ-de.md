@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C8JWWBQ-de D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart...'
 sku: 'B00C8JWWBQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

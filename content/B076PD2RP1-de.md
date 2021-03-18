@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PD2RP1-de adidas Herren REGI18 PES PNT Sport Trousers Black/White M'
 sku: 'B076PD2RP1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074VFLXLP-de Schleich 42415 Horse Club Wohnwagen für geheime Club-...'
 sku: 'B074VFLXLP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

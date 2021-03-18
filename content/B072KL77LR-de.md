@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KL77LR-de POP Rocks: Metallica - James Hetfield'
 sku: 'B072KL77LR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

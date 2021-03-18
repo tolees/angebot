@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E1QUFBM-de Samsung Galaxy S7 Smartphone 12 92 cm 5 1 Zoll Touch-...'
 sku: 'B01E1QUFBM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

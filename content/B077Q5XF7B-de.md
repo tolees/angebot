@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Q5XF7B-de Siemens PowerProtect Staubsaugerbeutel VZ16GALL 16 Stück...'
 sku: 'B077Q5XF7B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

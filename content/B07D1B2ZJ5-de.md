@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D1B2ZJ5-de THE NORTH FACE Borealis Rucksack Flag Blue Light...'
 sku: 'B07D1B2ZJ5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

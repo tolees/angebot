@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001EB2TTO-de Siemens Keramikbackstein inkl. Holzschieber / Für Backöfen...'
 sku: 'B001EB2TTO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 75.12 EUR
 currency: EUR
 price: 75.12

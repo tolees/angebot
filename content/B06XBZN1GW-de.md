@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XBZN1GW-de Panasonic DMR-UBS90EGK Ultra HD Blu-ray Recorder 2TB HDD...'
 sku: 'B06XBZN1GW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 440.0 EUR
 currency: EUR
 price: 440.0

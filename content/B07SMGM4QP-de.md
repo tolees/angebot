@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMGM4QP-de SS&LL Cubo de basura del Pedal Papelera de Acero...'
 sku: 'B07SMGM4QP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B86RFGG-de Salewa WS WILDFIRE Damen Trekking- & Wanderhalbschuhe Blau...'
 sku: 'B07B86RFGG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.72 EUR
 currency: EUR
 price: 38.72

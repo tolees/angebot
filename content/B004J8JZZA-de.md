@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004J8JZZA-de Ravensburger 20432 Schwarzer Peter - Schaf Kartenspiele...'
 sku: 'B004J8JZZA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 0.2 EUR
 currency: EUR
 price: 0.2

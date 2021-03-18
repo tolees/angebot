@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B17G9BU-de The Impossible'
 sku: 'B00B17G9BU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.54 EUR
 currency: EUR
 price: 2.54

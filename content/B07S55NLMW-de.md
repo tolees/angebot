@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S55NLMW-de FIFA 20 - Standard Edition - [PlayStation 4]'
 sku: 'B07S55NLMW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

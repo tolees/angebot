@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007NC8Z0A-de Durex Play Perfect Glide Gleitgel auf Silikonbasis –...'
 sku: 'B007NC8Z0A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.18 EUR
 currency: EUR
 price: 5.18

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7HR4VM-de Yamaha MusicCast 50 Musikbox Multiroom Stereo-Lautsprecher...'
 sku: 'B07F7HR4VM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 357.99 EUR
 currency: EUR
 price: 357.99

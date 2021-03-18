@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYYXTRE-de MEDION Küchenmaschine mit Kochfunktion 1000 Watt Leistung...'
 sku: 'B01MYYXTRE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

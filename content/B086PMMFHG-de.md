@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PMMFHG-de YUNKE Duschorganisator Badezimmerregale Duschkabine...'
 sku: 'B086PMMFHG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

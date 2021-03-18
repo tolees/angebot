@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHHC3K0-de Yamaha R-N402D Black MusicCast Netzwerk Receiver mit DAB...'
 sku: 'B01KHHC3K0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 374.32 EUR
 currency: EUR
 price: 374.32

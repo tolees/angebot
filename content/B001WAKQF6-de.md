@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001WAKQF6-de Skagen Damen-Uhren 358XSSLBC'
 sku: 'B001WAKQF6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 52.74 EUR
 currency: EUR
 price: 52.74

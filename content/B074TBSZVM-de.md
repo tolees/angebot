@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074TBSZVM-de Puma Roma Basic Herren Sneaker Mehrfarbig Weiß white-black...'
 sku: 'B074TBSZVM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

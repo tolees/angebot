@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FAO6QDQ-de Cybex Silver Solution X Autositz Gruppe 2/3 15-36 kg ohne...'
 sku: 'B00FAO6QDQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

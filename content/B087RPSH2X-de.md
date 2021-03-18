@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RPSH2X-de WOTEGA Jeans Herren Alistar Slim fit - Stretch Jeanshose -...'
 sku: 'B087RPSH2X-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0034CL3MA-de TP-Link TL-SF1008D 8-Port Fast Ethernet-/Netzwerk-/Lan...'
 sku: 'B0034CL3MA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

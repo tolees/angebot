@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KWJMTIO-de Bosch Professional 18V System Akku Kreissäge GKS 18V-57 G...'
 sku: 'B01KWJMTIO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

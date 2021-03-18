@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077T1MMX1-de Navitech lila Harter Fall für die Transcend 16 GB DrivePro...'
 sku: 'B077T1MMX1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

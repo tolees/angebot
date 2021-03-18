@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072J2PLBK-de Lenovo L24q-10 60 45 cm 23 8 Zoll QHD IPS matt Monitor...'
 sku: 'B072J2PLBK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

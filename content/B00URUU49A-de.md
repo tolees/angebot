@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00URUU49A-de Einhell Schmutzwasserpumpe GE-DP 7330 LL ECO 730 W Ø 30 mm...'
 sku: 'B00URUU49A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 80.17 EUR
 currency: EUR
 price: 80.17

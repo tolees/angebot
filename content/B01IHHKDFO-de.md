@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IHHKDFO-de Wrigley s Extra Professional Strong Mint Dose 50 Dragees'
 sku: 'B01IHHKDFO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D1P2VSY-de Barilla Hartweizen Pasta Spaghettini n. 3 1er Pack 1 x 500 g'
 sku: 'B01D1P2VSY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

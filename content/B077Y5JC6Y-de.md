@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y5JC6Y-de Ravensburger 24990" Entdecke die Welt Lernspiel'
 sku: 'B077Y5JC6Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

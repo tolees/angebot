@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NR1NBJZ-de Eichhorn 109475850 - Schienenbahn Set Porsche Racing...'
 sku: 'B07NR1NBJZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 41.46 EUR
 currency: EUR
 price: 41.46

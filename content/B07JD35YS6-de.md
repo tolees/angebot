@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JD35YS6-de Huawei Wireless Charger Supercharge mit Adapter CP60...'
 sku: 'B07JD35YS6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.66 EUR
 currency: EUR
 price: 34.66

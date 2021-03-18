@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZV8JL6-de Terminator 5 - Genisys 4K Ultra HD + Blu-ray'
 sku: 'B071ZV8JL6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

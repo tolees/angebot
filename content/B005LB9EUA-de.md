@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005LB9EUA-de Green Toys Schulbus Spielzeugauto'
 sku: 'B005LB9EUA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.14 EUR
 currency: EUR
 price: 31.14

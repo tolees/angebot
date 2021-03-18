@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BCCSX6W-de B.K.Licht I schwenkbare LED Deckenleuchte I 6-flammiger...'
 sku: 'B01BCCSX6W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

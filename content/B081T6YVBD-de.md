@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081T6YVBD-de Lenovo IdeaPad C340 Laptop 35 6 cm 14 Zoll 1920x1080 FHD...'
 sku: 'B081T6YVBD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

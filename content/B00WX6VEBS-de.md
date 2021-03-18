@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WX6VEBS-de Morella® Damen Engels Klangkugel Zirkonia grün Ø 16 mm'
 sku: 'B00WX6VEBS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

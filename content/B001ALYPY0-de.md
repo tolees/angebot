@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001ALYPY0-de Wedo 78722 Cutter Hobbymesser Set inklusive 6...'
 sku: 'B001ALYPY0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.56 EUR
 currency: EUR
 price: 3.56

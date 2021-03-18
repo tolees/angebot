@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5G7DIP-de SHARP LC-24CHF4012 60 cm 24 Zoll Fernseher HD TV Triple...'
 sku: 'B01M5G7DIP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 116.93 EUR
 currency: EUR
 price: 116.93

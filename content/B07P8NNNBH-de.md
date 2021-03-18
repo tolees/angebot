@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8NNNBH-de Sony KD-65XG7005 Bravia 65 Zoll 164cm Fernseher Ultra HD...'
 sku: 'B07P8NNNBH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 719.0 EUR
 currency: EUR
 price: 719.0

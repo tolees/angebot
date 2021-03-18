@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GRFF25O-de WD 16 TB My Cloud Pro PR2100 Pro Serie 2-Bay Network...'
 sku: 'B01GRFF25O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 360.0 EUR
 currency: EUR
 price: 360.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYP4S5H-de VGEBY Bulldozer Toy Huina 1700 1: 50 Metallbetriebenes...'
 sku: 'B07TYP4S5H-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H334QWK-de Echo Plus 2. Gen. Sandstein Stoff + Philips Hue White Lampe'
 sku: 'B07H334QWK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M79D4RH-de Fossil Herren-Smartwatch mit Silikon Armband FTW4019'
 sku: 'B07M79D4RH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 175.51 EUR
 currency: EUR
 price: 175.51

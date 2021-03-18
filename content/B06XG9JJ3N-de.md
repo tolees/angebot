@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG9JJ3N-de Puzzlematte ineinandergreifende Schaumstoffmatten zum...'
 sku: 'B06XG9JJ3N-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

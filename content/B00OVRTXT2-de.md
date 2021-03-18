@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OVRTXT2-de Im Labyrinth des Schweigens'
 sku: 'B00OVRTXT2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

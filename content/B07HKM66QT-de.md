@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKM66QT-de Bosch TDS6530 Serie I 6 EasyComfort Dampfbügelstation...'
 sku: 'B07HKM66QT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

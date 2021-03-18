@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S92L6JQ-de Flöckchen Kinder Aufbewahrungsbox Spielzeugbox für...'
 sku: 'B07S92L6JQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

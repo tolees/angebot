@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRMHZL8-de Ultimate Ears BOOM 3 Bluetooth Lautsprecher wasserdichter...'
 sku: 'B07HRMHZL8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

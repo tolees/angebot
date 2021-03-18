@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004R0OUYG-de Spyderco Messer Para-Military 2 Black G-10 Plain schwarz...'
 sku: 'B004R0OUYG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 184.01 EUR
 currency: EUR
 price: 184.01

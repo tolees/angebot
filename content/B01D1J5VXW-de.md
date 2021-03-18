@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D1J5VXW-de afri cola ohne Zucker 24er Pack EINWEG 24 x 330 ml'
 sku: 'B01D1J5VXW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

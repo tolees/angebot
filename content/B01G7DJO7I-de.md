@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G7DJO7I-de Columbia Herren Woodburn II Chukka Wp Omni-Heat Schwarz...'
 sku: 'B01G7DJO7I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 50.16 EUR
 currency: EUR
 price: 50.16

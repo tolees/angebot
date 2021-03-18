@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823XF5WH-de OBEEII Mädchen ELSA Kostüm Prinzessin Kleid mit Umhang...'
 sku: 'B0823XF5WH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

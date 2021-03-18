@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFBNP48-de Westmark Spätzle-/Kartoffelpresse Mit Spezial-Lochung für...'
 sku: 'B00JFBNP48-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.37 EUR
 currency: EUR
 price: 31.37

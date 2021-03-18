@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BBWWFB2-de AVM FRITZ!Fon C5 DECT-Komforttelefon hochwertiges...'
 sku: 'B01BBWWFB2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

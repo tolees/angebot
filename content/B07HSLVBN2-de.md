@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSLVBN2-de Hasbro Game Night - [Nintendo Switch]'
 sku: 'B07HSLVBN2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

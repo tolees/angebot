@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0006ZXLIW-de Philips LFH0720 Analoges Schreibtisch-Wiedergabesystem...'
 sku: 'B0006ZXLIW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 410.0 EUR
 currency: EUR
 price: 410.0

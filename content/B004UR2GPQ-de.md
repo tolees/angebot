@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004UR2GPQ-de Relaxdays Badregal Bambus Natur 33 x 33 x 79 cm'
 sku: 'B004UR2GPQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

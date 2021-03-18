@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013SL1ZU6-de Logitech K380 Bluetooth-Tastatur für Windows Mac Chrome...'
 sku: 'B013SL1ZU6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.38 EUR
 currency: EUR
 price: 38.38

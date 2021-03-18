@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JJ3AK76-de Apple iPad 4 9.7-Inch Tablet-PC Schwarz A1460 Prozessor 16...'
 sku: 'B01JJ3AK76-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

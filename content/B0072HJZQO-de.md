@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0072HJZQO-de Inter Link 13500020 Regal weiß Bücherregal Wandregal...'
 sku: 'B0072HJZQO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

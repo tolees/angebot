@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HLWQ8PG-de Flexfit Unisex Baseball Cap Wooly Combed Kappe ohne...'
 sku: 'B00HLWQ8PG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.61 EUR
 currency: EUR
 price: 12.61

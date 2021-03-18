@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P95GZHD-de Sylvanian Families 5366 Luxury Bed Mehrfarbig'
 sku: 'B07P95GZHD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

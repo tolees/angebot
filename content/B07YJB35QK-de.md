@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJB35QK-de Küchenarmatur Heimwerkerzubehör Antike Messing 360 Swivel...'
 sku: 'B07YJB35QK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

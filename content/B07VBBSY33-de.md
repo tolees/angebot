@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBBSY33-de Emporio Armani Herren-Schildarmband Edelstahl EGS2660040'
 sku: 'B07VBBSY33-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

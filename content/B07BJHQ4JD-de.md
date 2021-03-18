@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJHQ4JD-de G-STAR RAW Damen Midge Saddle Mid-Waist Straight Jeans...'
 sku: 'B07BJHQ4JD-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

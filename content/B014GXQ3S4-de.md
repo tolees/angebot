@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014GXQ3S4-de Logitech Harmony Companion Universalfernbedienung schwarz'
 sku: 'B014GXQ3S4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

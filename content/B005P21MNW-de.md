@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005P21MNW-de SKROSS Country Adapter World to Europe: Reiseadapter für...'
 sku: 'B005P21MNW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

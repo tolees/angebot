@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073NTCT4Q-de BenQ GW2480 60 45cm 23 8 Zoll LED Monitor Full-HD Eye-Care...'
 sku: 'B073NTCT4Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2G3YGV-de Hasbro B7784EU4 - N-Strike Elite AccuStrike Alphahawk...'
 sku: 'B01N2G3YGV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.67 EUR
 currency: EUR
 price: 33.67

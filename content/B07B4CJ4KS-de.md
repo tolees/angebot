@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4CJ4KS-de Transcend TS1TSJ25M3S 1TB stabile tragbare externe USB3.1...'
 sku: 'B07B4CJ4KS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 43.59 EUR
 currency: EUR
 price: 43.59

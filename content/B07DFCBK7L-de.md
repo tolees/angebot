@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFCBK7L-de Funko 33514 Marvel Studios 10: Groot Chrome POP Bobble Multi'
 sku: 'B07DFCBK7L-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

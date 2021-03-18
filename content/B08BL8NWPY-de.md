@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BL8NWPY-de Bluetooth Kopfhörer Kabellose Kopfhörer mit Premium...'
 sku: 'B08BL8NWPY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 30.28 EUR
 currency: EUR
 price: 30.28

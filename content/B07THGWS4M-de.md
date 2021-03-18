@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THGWS4M-de LIGHTAILING Licht-Set Für Technic Porsche 911 RSR Modell -...'
 sku: 'B07THGWS4M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

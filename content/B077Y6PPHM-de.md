@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y6PPHM-de Ravensburger Spielen und Lernen 24920 - Quips'
 sku: 'B077Y6PPHM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KP62TS-de Cookin Rudy Van Gelder Remaster'
 sku: 'B000KP62TS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

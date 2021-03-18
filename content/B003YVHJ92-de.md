@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003YVHJ92-de NESCAFÉ Dolce Gusto Nesquik | 48 Kapseln Trinkschokolade |...'
 sku: 'B003YVHJ92-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

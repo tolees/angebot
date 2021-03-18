@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5HKBQ7-de Retevis RT637 Walkie Talkie Kinder 16 Kanal PMR446...'
 sku: 'B07V5HKBQ7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003R7K5LC-de Mentos Fruit Dragees 40 Rollen Bonbons Frucht-Geschmack...'
 sku: 'B003R7K5LC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

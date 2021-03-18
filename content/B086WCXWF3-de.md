@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WCXWF3-de normani Palettenkissen Set Sofa Sitzkissen mit...'
 sku: 'B086WCXWF3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 51.96 EUR
 currency: EUR
 price: 51.96

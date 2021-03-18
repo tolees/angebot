@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K5L7XV6-de Levi s Herren Type 3 Sherpa Trucker-Jacke Blau Mayze...'
 sku: 'B07K5L7XV6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

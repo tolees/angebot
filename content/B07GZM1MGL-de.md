@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZM1MGL-de Alpina Mädchen XIMO Flash Fahrradhelm Mint Unicorn 49-54 cm'
 sku: 'B07GZM1MGL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.61 EUR
 currency: EUR
 price: 34.61

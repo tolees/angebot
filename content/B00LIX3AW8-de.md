@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LIX3AW8-de 3 Sprouts Aufbewahrungskiste Elefant'
 sku: 'B00LIX3AW8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

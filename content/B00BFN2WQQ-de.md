@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BFN2WQQ-de Casio Edifice Herren Massives Edelstahlgehäuse und...'
 sku: 'B00BFN2WQQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 70.71 EUR
 currency: EUR
 price: 70.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JY1B7PL-de JACK & JONES Herren Slim Fit Jeans Glenn ORIGINAL AM 814...'
 sku: 'B07JY1B7PL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

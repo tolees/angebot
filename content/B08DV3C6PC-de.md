@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DV3C6PC-de N/P WLAN Repeater 2 4GHz WLAN Verstärker WiFi Extender mit...'
 sku: 'B08DV3C6PC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

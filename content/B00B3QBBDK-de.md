@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B3QBBDK-de Citizen Herren Analog Quarz Uhr mit Leder Armband BM8476-07EE'
 sku: 'B00B3QBBDK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 90.86 EUR
 currency: EUR
 price: 90.86

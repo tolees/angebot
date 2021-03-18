@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DCJ4BH6-de ORICO M.2 NGFF SSD Externes Gehäuse USB 3.1 auf M.2 SATA...'
 sku: 'B08DCJ4BH6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

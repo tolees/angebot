@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KMVOX82-de Einhell Kompressor TH-AC 240/50/10 OF 1500 W 240 l/min...'
 sku: 'B00KMVOX82-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 104.95 EUR
 currency: EUR
 price: 104.95

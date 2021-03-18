@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WT5MBBF-de SuperZings PSZ4D824IN00 Serie 4 Blaster Jet'
 sku: 'B07WT5MBBF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.17 EUR
 currency: EUR
 price: 2.17

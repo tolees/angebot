@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HF05JS6-de VAUDE Satteltaschen Tool Stick M black One Size 117190100'
 sku: 'B00HF05JS6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004E9U2MY-de GANT Herren Pullover 83072 Gr. Medium Grau NAVY 405'
 sku: 'B004E9U2MY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

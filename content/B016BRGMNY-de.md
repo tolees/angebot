@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016BRGMNY-de Bartöl - Beard Oil für Männer - Für gesundes Bartwachstum...'
 sku: 'B016BRGMNY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

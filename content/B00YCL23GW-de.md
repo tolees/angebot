@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YCL23GW-de BOSCH 1987301106 Gigalight Plus 120 Xenon Bulb H4 12 V 60...'
 sku: 'B00YCL23GW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

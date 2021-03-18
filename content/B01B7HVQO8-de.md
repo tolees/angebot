@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B7HVQO8-de Bosch MUM5 CreationLine Küchenmaschine MUM58020 vielseitig...'
 sku: 'B01B7HVQO8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 222.0 EUR
 currency: EUR
 price: 222.0

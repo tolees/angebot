@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DPJNFL-de s.Oliver RED LABEL Beachwear LM Damen Cocina Bikini blau-...'
 sku: 'B081DPJNFL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

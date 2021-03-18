@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XVZ4T9O-de Dyson V6 Mattress beutel- & kabelloser Staubsauger inkl....'
 sku: 'B00XVZ4T9O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 190.0 EUR
 currency: EUR
 price: 190.0

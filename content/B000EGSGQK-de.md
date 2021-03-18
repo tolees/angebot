@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000EGSGQK-de VARTA Longlife 9V Block 6LP3146 Batterie Alkaline E-Block...'
 sku: 'B000EGSGQK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

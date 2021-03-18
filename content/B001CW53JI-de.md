@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CW53JI-de Pagna Bewerbungsset Start Basic 5 Bewerbungsmappen grau'
 sku: 'B001CW53JI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

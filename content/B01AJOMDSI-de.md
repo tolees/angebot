@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AJOMDSI-de Linksys Max-Stream AC1900 MU-MIMO Dual-Band Wi-Fi Router...'
 sku: 'B01AJOMDSI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

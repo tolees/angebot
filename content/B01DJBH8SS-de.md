@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DJBH8SS-de Parker Jotter Kugelschreiber | Bond Street Black |...'
 sku: 'B01DJBH8SS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

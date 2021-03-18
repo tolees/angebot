@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004BTXHN8-de FALKE Damen Wandersocken TK1 - Merinowollmischung 1 Paar...'
 sku: 'B004BTXHN8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

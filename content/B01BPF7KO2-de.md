@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BPF7KO2-de Playmobil 6880 - Sternchenbahn mit Schienenkreis'
 sku: 'B01BPF7KO2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25 EUR
 currency: EUR
 price: 25

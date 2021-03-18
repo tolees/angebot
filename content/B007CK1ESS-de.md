@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CK1ESS-de NUK Babyphone mit Kamera Eco Control+ Video mit...'
 sku: 'B007CK1ESS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 133.68 EUR
 currency: EUR
 price: 133.68

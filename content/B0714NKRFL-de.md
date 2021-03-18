@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0714NKRFL-de Uglyfrog Bike-T Full Zip Herren Radtrikot Set Atmungsaktiv...'
 sku: 'B0714NKRFL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

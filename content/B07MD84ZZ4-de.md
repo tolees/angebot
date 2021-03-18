@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MD84ZZ4-de Akkuschrauber GOXAWEE 12V Akku Bohrschrauber mit 100...'
 sku: 'B07MD84ZZ4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 57.98 EUR
 currency: EUR
 price: 57.98

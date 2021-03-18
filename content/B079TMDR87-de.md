@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TMDR87-de Orbsmart lüfterloser 4K Mini PC AW-09 Windows 10 Desktop-...'
 sku: 'B079TMDR87-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 209.9 EUR
 currency: EUR
 price: 209.9

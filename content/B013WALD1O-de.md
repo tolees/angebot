@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WALD1O-de Bosch Professional Bohrmaschine GBM 13-2 RE...'
 sku: 'B013WALD1O-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

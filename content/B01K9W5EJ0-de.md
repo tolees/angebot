@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K9W5EJ0-de Garmin Forerunner 35 GPS-Laufuhr Herzfrequenzmessung am...'
 sku: 'B01K9W5EJ0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 121.14 EUR
 currency: EUR
 price: 121.14

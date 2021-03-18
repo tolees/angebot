@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010PCUZ4S-de Der Unbestechliche - Mörderisches Marseille'
 sku: 'B010PCUZ4S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MH65GS8-de Skagen Damen Digital Smart Watch Armbanduhr mit Silikon...'
 sku: 'B07MH65GS8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005AUU0LO-de Magnat Needle Alu Super Center I 2-Wege Centerlautsprecher...'
 sku: 'B005AUU0LO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

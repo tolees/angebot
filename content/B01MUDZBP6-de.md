@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUDZBP6-de JAIMIE JACOBS Flap Boy Slim - Das Original - Magic Wallet...'
 sku: 'B01MUDZBP6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

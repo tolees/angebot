@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D1WMB7I-de Acer Chromebook 14 Notebook 14 Zoll Full-HD IPS matt...'
 sku: 'B01D1WMB7I-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 294.39 EUR
 currency: EUR
 price: 294.39

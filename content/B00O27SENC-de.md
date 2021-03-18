@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O27SENC-de home3000 CD-Designregal in Weiß'
 sku: 'B00O27SENC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

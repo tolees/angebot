@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWVVWCS-de Staubsauger Roboter 1800 Pa WLAN Saugroboter mit Hohe...'
 sku: 'B07TWVVWCS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

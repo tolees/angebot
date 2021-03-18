@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H3J25BM-de Motorola TLKR T41 PMR Funkgerät mit LC-Display grün'
 sku: 'B01H3J25BM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.38 EUR
 currency: EUR
 price: 25.38

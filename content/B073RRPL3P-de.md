@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RRPL3P-de Skinomi TechSkin - Schutzfolie für Google Pixel 2 XL deckt...'
 sku: 'B073RRPL3P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

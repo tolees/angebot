@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823BTNYV-de Xiaomi Mi Smart Compact Projector Mini Beamer mit Google...'
 sku: 'B0823BTNYV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

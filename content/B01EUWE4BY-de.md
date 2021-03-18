@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EUWE4BY-de Duschdas Duschgel für ein besseres Gefühl mit...'
 sku: 'B01EUWE4BY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

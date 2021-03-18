@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002UXQJY6-de Clatronic EK 3321 Eierkocher mit Härtegradeinstellung 7...'
 sku: 'B002UXQJY6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

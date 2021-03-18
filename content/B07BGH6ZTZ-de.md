@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGH6ZTZ-de Red Bull Energy Drink Kokos-Blaubeere Dosen Getränke White...'
 sku: 'B07BGH6ZTZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

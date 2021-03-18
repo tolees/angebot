@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NB7P1F-de Ticwatch S Knight Smartwatch Intelligente Armbanduhr mit 1...'
 sku: 'B077NB7P1F-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 122.14 EUR
 currency: EUR
 price: 122.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009NFGI5Y-de Mattel Games Y9598 - Scrabble Original Wörterspiel und...'
 sku: 'B009NFGI5Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

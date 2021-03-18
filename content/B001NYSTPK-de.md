@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001NYSTPK-de KS Tools 917.1217 1/2" CLASSIC Sechskant-Stecknuss 17mm'
 sku: 'B001NYSTPK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.13 EUR
 currency: EUR
 price: 3.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007M9QGGE-de THOMAS SABO Unisex Anhänger Kreuz Anhänger Kreuz 925er...'
 sku: 'B007M9QGGE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 44.78 EUR
 currency: EUR
 price: 44.78

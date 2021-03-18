@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DU61MQC-de Bei Anruf Mord inkl. 2D-Version [3D Blu-ray]'
 sku: 'B00DU61MQC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

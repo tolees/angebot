@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VQODPG-de Leuchtturm 313845 Banknotenalbum'
 sku: 'B005VQODPG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

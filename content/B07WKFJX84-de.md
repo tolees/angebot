@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WKFJX84-de Color de bronce Hombres Mujeres Anillo de salto Abrir y...'
 sku: 'B07WKFJX84-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

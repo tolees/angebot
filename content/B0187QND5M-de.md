@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0187QND5M-de Kärcher Fensterdüse für Kärcher Dampfreiniger...'
 sku: 'B0187QND5M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WC6YRH-de PAUL HEWITT Anker Armkette Anchor Spirit Plated - Armkette...'
 sku: 'B073WC6YRH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 42.16 EUR
 currency: EUR
 price: 42.16

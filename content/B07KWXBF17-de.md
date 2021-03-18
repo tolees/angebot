@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWXBF17-de Jakks 207474 - Disney Frozen II - Die Eiskönigin 2 Elsa...'
 sku: 'B07KWXBF17-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

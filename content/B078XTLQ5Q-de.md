@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XTLQ5Q-de Kitchen Emperor Santokumesser Damastmesser Küchenmesser...'
 sku: 'B078XTLQ5Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

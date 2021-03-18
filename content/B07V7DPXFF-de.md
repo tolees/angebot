@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7DPXFF-de Relaxdays Pizzablech 2er Set rund gelocht antihaft Pizza &...'
 sku: 'B07V7DPXFF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

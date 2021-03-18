@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083MX9XVV-de Massagepistole Abask Massage Gun für Nacken Schulter...'
 sku: 'B083MX9XVV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

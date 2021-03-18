@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WSQQ1S-de Sony SRS-XB41 kabelloser Bluetooth Lautsprecher tragbar...'
 sku: 'B078WSQQ1S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

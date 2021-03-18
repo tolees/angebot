@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6GYZ9V-de Hasbro Gaming E1844100 - Dummschwätzer Partyspiel'
 sku: 'B07B6GYZ9V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

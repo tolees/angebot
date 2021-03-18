@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073X4YTBV-de KLIM OTG Brillen Clip on Gläser gegen blaues Licht NEU –...'
 sku: 'B073X4YTBV-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

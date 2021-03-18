@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0171NKAR6-de Garmin vívosmart HR Fitness-Tracker - integrierte...'
 sku: 'B0171NKAR6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

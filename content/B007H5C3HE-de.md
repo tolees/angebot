@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007H5C3HE-de Pontec Filter- und Bachlaufpumpe PondoMax Eco 1500'
 sku: 'B007H5C3HE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

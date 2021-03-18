@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012I5LP7Q-de funny-frisch goldfischli Sesam 100 g'
 sku: 'B012I5LP7Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

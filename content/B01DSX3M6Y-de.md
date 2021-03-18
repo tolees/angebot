@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DSX3M6Y-de B.K.Licht I 6er Set LED Einbaustrahler I Dimmbar I...'
 sku: 'B01DSX3M6Y-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

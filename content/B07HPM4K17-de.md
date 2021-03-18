@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HPM4K17-de Samsung VG-SCFN49BM/XC The Frame Bilderrahmen 123 cm 49...'
 sku: 'B07HPM4K17-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 73.33 EUR
 currency: EUR
 price: 73.33

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7CKTBR-de Logitech G703 LIGHTSPEED kabellose Gaming-Maus mit HERO...'
 sku: 'B07S7CKTBR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 56.05 EUR
 currency: EUR
 price: 56.05

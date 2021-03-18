@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZFK1OR-de CYBEX Silver Kinder-Autositz Juno 2-Fix Für Autos mit...'
 sku: 'B01LZFK1OR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 115.43 EUR
 currency: EUR
 price: 115.43

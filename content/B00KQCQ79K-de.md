@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KQCQ79K-de Omron Schrittzähler Walking style IV'
 sku: 'B00KQCQ79K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

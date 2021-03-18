@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003QTENM8-de Invicta 9223 Speedway Unisex Uhr Edelstahl Quarz schwarzen...'
 sku: 'B003QTENM8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 72.1 EUR
 currency: EUR
 price: 72.1

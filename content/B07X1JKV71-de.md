@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1JKV71-de Mpow EM19 Bluetooth-Headset für Ein Ohr Bluetooth Headset...'
 sku: 'B07X1JKV71-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

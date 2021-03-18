@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHW7ZP5-de JFUME Herren Magnet Armband Männer Armbänder aus Edelstahl...'
 sku: 'B07PHW7ZP5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

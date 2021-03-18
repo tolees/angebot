@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6WLL5L-de Neff NTK1320N Kochfeld Elektro/Einbau / 2 Heizelemente /...'
 sku: 'B01N6WLL5L-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 323.0 EUR
 currency: EUR
 price: 323.0

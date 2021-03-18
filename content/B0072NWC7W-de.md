@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0072NWC7W-de Pedea Laptoptasche Trendline Umhängetasche Messenger Bag...'
 sku: 'B0072NWC7W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

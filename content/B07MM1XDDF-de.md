@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MM1XDDF-de Lenovo IdeaPad 330s Laptop 35 56 cm 14 0 Zoll HD TN matt...'
 sku: 'B07MM1XDDF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 412.84 EUR
 currency: EUR
 price: 412.84

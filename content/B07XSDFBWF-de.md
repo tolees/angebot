@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XSDFBWF-de Akku Schlagschrauber WESCO 18V 2.0Ah System Akku...'
 sku: 'B07XSDFBWF-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

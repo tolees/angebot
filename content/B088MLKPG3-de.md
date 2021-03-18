@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088MLKPG3-de Samsung Galaxy S10+ Smartphone Bundle 16.3 cm 6.4 Zoll...'
 sku: 'B088MLKPG3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 614.0 EUR
 currency: EUR
 price: 614.0

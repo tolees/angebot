@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9NRM2T-de Clementoni 59031 Galileo-Evolution Roboter'
 sku: 'B06W9NRM2T-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MH96GQ-de Nintendo Gameboy Thermobecher Edelstahl Mehrfarbig 9 x 9 x...'
 sku: 'B079MH96GQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

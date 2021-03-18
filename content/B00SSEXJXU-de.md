@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SSEXJXU-de Oac 3cd Slipcase - Wham [3 CD]'
 sku: 'B00SSEXJXU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

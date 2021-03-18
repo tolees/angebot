@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JIWQPMW-de Anker PowerCore 26800mAh Power Bank Externer Akku mit Dual...'
 sku: 'B01JIWQPMW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

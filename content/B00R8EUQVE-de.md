@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R8EUQVE-de Fascinations Metal Earth ICX019 - 502830 London Eye...'
 sku: 'B00R8EUQVE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.65 EUR
 currency: EUR
 price: 16.65

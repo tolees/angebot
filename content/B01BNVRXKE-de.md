@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BNVRXKE-de Dakine Herren Rucksack Duel Schwarz 26L'
 sku: 'B01BNVRXKE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

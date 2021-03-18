@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I53WXQ2-de WMF Intension Topfset 5-teilig Cromargan Edelstahl poliert...'
 sku: 'B01I53WXQ2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

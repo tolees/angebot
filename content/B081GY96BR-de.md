@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081GY96BR-de Susan Y muttertagsgeschenke ideen ohrringe silber 925...'
 sku: 'B081GY96BR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

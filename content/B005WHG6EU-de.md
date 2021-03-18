@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005WHG6EU-de DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30...'
 sku: 'B005WHG6EU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 699.46 EUR
 currency: EUR
 price: 699.46

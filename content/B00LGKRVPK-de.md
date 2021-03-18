@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LGKRVPK-de Bosch 3tlg. Starter Set Fliesen für...'
 sku: 'B00LGKRVPK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

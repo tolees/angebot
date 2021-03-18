@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAR3EMO-de Lacerto® | 13x13mm Deutsche Aufkleber für PC/Laptop &...'
 sku: 'B01NAR3EMO-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

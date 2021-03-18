@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XNBQMM-de SEVERIN KG 2388 Tischgrill 2.200 W mit Hotzone-Element...'
 sku: 'B003XNBQMM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

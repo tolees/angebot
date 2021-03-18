@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089CTQV71-de Bluetooth-Headset 5.0 drahtloses Touch-Headset Stereo-In-...'
 sku: 'B089CTQV71-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

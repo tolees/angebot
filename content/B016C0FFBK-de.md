@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016C0FFBK-de Timone Mädchen und Jugendlicher Schlafanzug 850 Türkis 152'
 sku: 'B016C0FFBK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

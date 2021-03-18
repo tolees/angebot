@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMFRDKQ-de Samsung Galaxy Buds SM-R170 I Kabellose Kopfhörer Silber I...'
 sku: 'B07VMFRDKQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 74.1 EUR
 currency: EUR
 price: 74.1

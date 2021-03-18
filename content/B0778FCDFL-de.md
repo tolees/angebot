@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0778FCDFL-de Hasbro Gaming E2489100 - Ach du Kacke Kinderspiel Green'
 sku: 'B0778FCDFL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.03 EUR
 currency: EUR
 price: 21.03

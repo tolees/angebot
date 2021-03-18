@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0104BLRT2-de Sylvanian Families 5220 Einrichtungsset für Starter Haus...'
 sku: 'B0104BLRT2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

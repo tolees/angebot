@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016XSPUPW-de WOLF-Garten - Trocken-Rasen Premium L-TP 50 rot'
 sku: 'B016XSPUPW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

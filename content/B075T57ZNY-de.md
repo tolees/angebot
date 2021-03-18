@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T57ZNY-de Pentel bl2007z-cof Roller EnerGel Gel Körper Metall matt...'
 sku: 'B075T57ZNY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.06 EUR
 currency: EUR
 price: 13.06

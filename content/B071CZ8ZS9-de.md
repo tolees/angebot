@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CZ8ZS9-de Satisfyer 1 Next Generation Klitoris-Sauger mit 11...'
 sku: 'B071CZ8ZS9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

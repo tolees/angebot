@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ONA5J4A-de Neff CKS1561N Einbau-Kaffeemaschine aus Edelstahl...'
 sku: 'B00ONA5J4A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 1229 EUR
 currency: EUR
 price: 1229

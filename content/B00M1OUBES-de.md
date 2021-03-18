@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M1OUBES-de NOCO GB30 Lithium Starthilfegerät 12 V Anzahl 1'
 sku: 'B00M1OUBES-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 76.48 EUR
 currency: EUR
 price: 76.48

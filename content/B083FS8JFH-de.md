@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FS8JFH-de BRIKSMAX Led Beleuchtungsset für Lego Hidden Side Geister-...'
 sku: 'B083FS8JFH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

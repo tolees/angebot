@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMDF69G-de Samsung RU7179 147 cm 58 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07PMDF69G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 637.89 EUR
 currency: EUR
 price: 637.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007UFKZ1W-de Cellfast Gartenschlauch ECONOMIC Elastisch und flexibel...'
 sku: 'B007UFKZ1W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

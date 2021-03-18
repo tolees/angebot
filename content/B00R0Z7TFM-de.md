@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R0Z7TFM-de Bosch Professional Laser Entfernungsmesser GLM 40...'
 sku: 'B00R0Z7TFM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 55.91 EUR
 currency: EUR
 price: 55.91

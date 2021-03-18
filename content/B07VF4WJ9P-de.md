@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF4WJ9P-de mama stadt Prinzessin Cosplay Perücke Erwachsene und...'
 sku: 'B07VF4WJ9P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

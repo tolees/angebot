@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XD7HCK3-de TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit...'
 sku: 'B07XD7HCK3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01557TFGW-de Aberfeldy Highland Single Malt Whisky 16 Jahre 1 x 0.7 l'
 sku: 'B01557TFGW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

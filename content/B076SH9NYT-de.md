@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076SH9NYT-de Microsoft Surface Book 2 34 29 cm 13 5 Zoll Laptop Intel...'
 sku: 'B076SH9NYT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

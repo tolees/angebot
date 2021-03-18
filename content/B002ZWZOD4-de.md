@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002ZWZOD4-de Odlo Damen Traininghose X-Warm Schwarz black 15000 Gr.M'
 sku: 'B002ZWZOD4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

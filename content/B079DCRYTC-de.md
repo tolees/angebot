@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079DCRYTC-de Skagen Herren Analog Quarz Uhr mit Leder Armband SKW6459'
 sku: 'B079DCRYTC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E85JRZ6-de DeWalt Akku-Schnellladegerät/ Akkuladegerät 10 8- 18 Volt...'
 sku: 'B01E85JRZ6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 36.82 EUR
 currency: EUR
 price: 36.82

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010Q5EHCA-de Panasonic H-FS1442AEKA LUMIX G Vario Stardzoom 14-42 mm...'
 sku: 'B010Q5EHCA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 176.63 EUR
 currency: EUR
 price: 176.63

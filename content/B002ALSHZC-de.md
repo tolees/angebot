@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002ALSHZC-de SEVERIN Crêpes Maker CM 2198 Inkl. Holz-Teigspatel und...'
 sku: 'B002ALSHZC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

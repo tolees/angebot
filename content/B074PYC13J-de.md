@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PYC13J-de OSRAM Smart+ LED ZigBee GU5.3 Reflektor 12V warmweiß bis...'
 sku: 'B074PYC13J-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

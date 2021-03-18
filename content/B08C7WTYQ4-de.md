@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C7WTYQ4-de GLÜCKSWOLKE - Spardose I Motiv Lebensbaum I Geschenk für...'
 sku: 'B08C7WTYQ4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

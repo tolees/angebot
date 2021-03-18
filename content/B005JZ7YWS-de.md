@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005JZ7YWS-de Sony SEL-55210 Tele-Zoom-Objektiv 55-210 mm F4.5–6.3 OSS...'
 sku: 'B005JZ7YWS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 184.0 EUR
 currency: EUR
 price: 184.0

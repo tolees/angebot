@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LLGWCOS-de Kitchen Craft Wasserkocher Living Nostalgia 1 4l in...'
 sku: 'B01LLGWCOS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.66 EUR
 currency: EUR
 price: 19.66

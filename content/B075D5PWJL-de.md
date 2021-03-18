@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075D5PWJL-de Britax Römer BABY-SAFE PLUS SHR II Autositz Babyschale...'
 sku: 'B075D5PWJL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 122.01 EUR
 currency: EUR
 price: 122.01

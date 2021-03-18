@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYSPZNZ-de Smartwatch Zagzog 1 54 Vollfarb-Touchscreen 15 Tage...'
 sku: 'B07YYSPZNZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

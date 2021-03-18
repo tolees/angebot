@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MR5NVNK-de Hasbro Gaming C0447100 - Pipi Party Kinderspiel'
 sku: 'B01MR5NVNK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

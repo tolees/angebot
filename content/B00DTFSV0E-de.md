@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DTFSV0E-de ISI Doseernaald Roestvrijstaal 4'
 sku: 'B00DTFSV0E-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

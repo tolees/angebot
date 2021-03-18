@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ONA6VOW-de Neff Z11TF36X0 Backofen- und Herdzubehör / Kochfeld /...'
 sku: 'B00ONA6VOW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 97.0 EUR
 currency: EUR
 price: 97.0

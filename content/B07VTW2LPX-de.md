@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTW2LPX-de Western Digital WD My Passport externe Festplatte 4 TB...'
 sku: 'B07VTW2LPX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

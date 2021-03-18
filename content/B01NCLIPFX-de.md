@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCLIPFX-de Thule Subterra Rolling Duffel 75L Reisetrolley mit zwei...'
 sku: 'B01NCLIPFX-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 246.41 EUR
 currency: EUR
 price: 246.41

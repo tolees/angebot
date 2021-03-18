@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KGRXRH-de SanDisk Ultra 3D SSD 250GB geeignet für lesen mit bis zu...'
 sku: 'B071KGRXRH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

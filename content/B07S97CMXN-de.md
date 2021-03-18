@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S97CMXN-de Ice-Watch - Ice Duo Chic Weiß marine - Damen wristwatch...'
 sku: 'B07S97CMXN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 63.78 EUR
 currency: EUR
 price: 63.78

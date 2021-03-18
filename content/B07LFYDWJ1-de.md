@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFYDWJ1-de Sloggi Zero Feel Bralette EX BH Damen Rot Bordeaux 3407 L'
 sku: 'B07LFYDWJ1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 22.72 EUR
 currency: EUR
 price: 22.72

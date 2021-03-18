@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HS8GDUS-de Barbara Becker präsentiert das Bauch Beine Po-Bootcamp...'
 sku: 'B00HS8GDUS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

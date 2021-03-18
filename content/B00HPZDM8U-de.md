@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HPZDM8U-de PUMA Unisex-Erwachsene Basket Classic LFS Sneakers white-...'
 sku: 'B00HPZDM8U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

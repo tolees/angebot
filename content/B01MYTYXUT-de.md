@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYTYXUT-de Eyoyo 17" Zoll Monitor 1280x1024 TFT LCD CCTV HDMI HD...'
 sku: 'B01MYTYXUT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 111.26 EUR
 currency: EUR
 price: 111.26

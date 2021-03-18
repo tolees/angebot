@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CZJDS0C-de Superfit HAPPY 800293 Jungen Hohe Hausschuhe Blau Ocean 80...'
 sku: 'B01CZJDS0C-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

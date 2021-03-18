@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009IQXJ0-de Meguiar s G7516EU Endurance High Gloss Tyre Gel...'
 sku: 'B0009IQXJ0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

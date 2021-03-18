@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TR3DBH3-de Clarks Damen Orinoco Strap Slingback Sandalen Schwarz...'
 sku: 'B07TR3DBH3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 61.74 EUR
 currency: EUR
 price: 61.74

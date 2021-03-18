@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HJCK9X3-de MACLY SmartBand Aktivitäts Tracker mit Blutdruckmessung...'
 sku: 'B08HJCK9X3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

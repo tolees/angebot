@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HT94JC0-de Einhell Akku-Hochentaster GC-LC 1815 T Lithium-Ionen Akku...'
 sku: 'B00HT94JC0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

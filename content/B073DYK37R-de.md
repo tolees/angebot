@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073DYK37R-de American Horror Story - Season 6 - Roanoke [Blu-ray]'
 sku: 'B073DYK37R-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

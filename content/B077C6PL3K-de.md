@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077C6PL3K-de Diesel Damen Analog Quarz Uhr mit Edelstahl Armband DZ5567'
 sku: 'B077C6PL3K-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 117.99 EUR
 currency: EUR
 price: 117.99

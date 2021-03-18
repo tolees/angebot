@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSSCR7X-de Alien 40th - Xenomorph Pop! Keychain Funko Pocket Pop!...'
 sku: 'B07NSSCR7X-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

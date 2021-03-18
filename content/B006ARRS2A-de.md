@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ARRS2A-de WOLF-Garten - Sport- und Spiel-Rasen LG 500; 3825040'
 sku: 'B006ARRS2A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0758NHWS8-de SanDisk Ultra 256GB MicroSDXC Speicherkarte + SD-Adapter...'
 sku: 'B0758NHWS8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

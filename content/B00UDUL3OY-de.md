@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UDUL3OY-de 5 Zimmer Küche Sarg'
 sku: 'B00UDUL3OY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.51 EUR
 currency: EUR
 price: 3.51

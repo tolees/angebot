@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RN73M6F-de Oral-B Kids Star Wars Elektrische Zahnbürste mit Disney-...'
 sku: 'B07RN73M6F-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

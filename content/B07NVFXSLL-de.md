@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVFXSLL-de CRYSTAL ART Crystal Card Kits 18x18cm Mulitcolor 18x18'
 sku: 'B07NVFXSLL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

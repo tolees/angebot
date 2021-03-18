@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OZCFUDG-de Netgear GS752TX 52-Port Gigabit/10G Stackable LAN Switch...'
 sku: 'B00OZCFUDG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 730.08 EUR
 currency: EUR
 price: 730.08

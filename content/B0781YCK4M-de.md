@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781YCK4M-de caseable Kindle und Kindle Paperwhite Hülle Gold Dots'
 sku: 'B0781YCK4M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

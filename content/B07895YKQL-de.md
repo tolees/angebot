@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07895YKQL-de Sharplace 3 Paar Annähen Oval Ellenbogen/Knie Patches...'
 sku: 'B07895YKQL-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

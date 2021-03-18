@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FVH19S-de uvex Unisex – Erwachsene hlmt 400 visor style Skihelm...'
 sku: 'B071FVH19S-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 99.68 EUR
 currency: EUR
 price: 99.68

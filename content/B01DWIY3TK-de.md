@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWIY3TK-de Garmin Forerunner 735XT-GPS-Uhr frost blau M 010-01614-07'
 sku: 'B01DWIY3TK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 164.95 EUR
 currency: EUR
 price: 164.95

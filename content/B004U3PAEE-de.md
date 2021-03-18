@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004U3PAEE-de Rustic 103667630382 Stumpenkerze mit Metallic-Finish...'
 sku: 'B004U3PAEE-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 2.92 EUR
 currency: EUR
 price: 2.92

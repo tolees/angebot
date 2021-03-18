@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018GOP8K8-de Tefal E79071 Jamie Oliver Induction Servierpfanne mit 2...'
 sku: 'B018GOP8K8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

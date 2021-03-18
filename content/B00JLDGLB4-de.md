@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JLDGLB4-de Paw Patrol 6022632 Lookout Hauptquartier Spielset mit...'
 sku: 'B00JLDGLB4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.38 EUR
 currency: EUR
 price: 38.38

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX64SN5-de Pioneer VSX-934 7.2-Kanal Netzwerk AV Receiver 7x160 Watt...'
 sku: 'B07NX64SN5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 311.99 EUR
 currency: EUR
 price: 311.99

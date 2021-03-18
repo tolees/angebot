@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHVCY1M-de Denon AVR-X2600H 7.2-Kanal AV-Receiver Hifi Verstärker...'
 sku: 'B07RHVCY1M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 471.79 EUR
 currency: EUR
 price: 471.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756X8FWQ-de Tumi Alpha Münzbörse 019246D 10 cm Black Ballistic'
 sku: 'B0756X8FWQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

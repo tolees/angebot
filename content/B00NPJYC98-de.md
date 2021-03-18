@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NPJYC98-de The Polydor Years 1986-1992 Ltd Edt Boxset'
 sku: 'B00NPJYC98-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

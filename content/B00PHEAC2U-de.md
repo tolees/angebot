@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PHEAC2U-de caseable Kindle und Kindle Paperwhite Hülle Dialogue with...'
 sku: 'B00PHEAC2U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

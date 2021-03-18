@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZV5JX8-de Ihr Auftritt Al Mundy! - Komplettbox Alle 3 Staffeln /...'
 sku: 'B01LZV5JX8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

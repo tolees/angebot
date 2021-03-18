@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074TP48WY-de Philips HF3651/01 Sleep und Wake-up Light Einschlafhilfe...'
 sku: 'B074TP48WY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ8MBH4-de Samsung Galaxy Buds SM-R170NZYADBT I Kabellose Kopfhörer...'
 sku: 'B07NQ8MBH4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 85.21 EUR
 currency: EUR
 price: 85.21

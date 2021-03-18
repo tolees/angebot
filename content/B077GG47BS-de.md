@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GG47BS-de Clatronic PO 3682 Elektrischer Pizzaofen für 6 Personen...'
 sku: 'B077GG47BS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 56.05 EUR
 currency: EUR
 price: 56.05

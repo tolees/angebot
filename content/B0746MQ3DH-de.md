@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746MQ3DH-de Pegasus Spiele 18324G - Memoarrr Edition Spielwiese'
 sku: 'B0746MQ3DH-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

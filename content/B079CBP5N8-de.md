@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079CBP5N8-de JACK & JONES Herren JJECORP Logo Tee SS Crew Neck NOOS...'
 sku: 'B079CBP5N8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

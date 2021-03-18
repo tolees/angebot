@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KBWBI6M-de Oral-B PRO 3000 CrossAction'
 sku: 'B00KBWBI6M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

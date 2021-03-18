@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJ1FWM3-de Pro Bike Tool Fahrradpumpe CO2 - Kartuschenpumpe Fahrrad...'
 sku: 'B07RJ1FWM3-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

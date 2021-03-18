@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKRVCVZ-de Hasbro Nerf B8072EU5 N-Strike Elite TerraScout Multicolor'
 sku: 'B07CKRVCVZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 209.49 EUR
 currency: EUR
 price: 209.49

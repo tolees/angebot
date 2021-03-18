@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSB5ZM2-de SHARP PS 940 Partylautsprecher mit DJ-Mischpult und...'
 sku: 'B07HSB5ZM2-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 151.62 EUR
 currency: EUR
 price: 151.62

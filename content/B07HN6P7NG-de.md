@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HN6P7NG-de Ballon [Blu-ray]'
 sku: 'B07HN6P7NG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

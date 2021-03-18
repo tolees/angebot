@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BW8YP5D-de Jakks Pacific 32382-11L G.L.O.W. Stick Mehrfarbig'
 sku: 'B07BW8YP5D-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.68 EUR
 currency: EUR
 price: 5.68

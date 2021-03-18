@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXDSMZN-de Büchel LED-Akkuleuchtenset 80 Lux Frontlampe: Vail + Akku-...'
 sku: 'B01MXDSMZN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

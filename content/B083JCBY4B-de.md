@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JCBY4B-de DXX Technik Bausteine Bulldozer Spielzeug 1572Teile 1:10...'
 sku: 'B083JCBY4B-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 126.99 EUR
 currency: EUR
 price: 126.99

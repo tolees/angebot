@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IZ821LU-de Tassimo Kapseln Jacobs Caffè Crema Mild XL 80...'
 sku: 'B00IZ821LU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

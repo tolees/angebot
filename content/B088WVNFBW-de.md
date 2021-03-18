@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WVNFBW-de Xbox Game Pass 3 Monate Ultimate + 1 Monat GRATIS | Xbox...'
 sku: 'B088WVNFBW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

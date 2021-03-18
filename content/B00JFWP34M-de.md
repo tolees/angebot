@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFWP34M-de RÖSLE Frischhaltedeckel Ø 28 cm Glas mit rundumlaufenden...'
 sku: 'B00JFWP34M-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

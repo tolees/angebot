@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCN3S0J-de HP 410X CF252XM Multipack Original Toner Blau Magenta Gelb...'
 sku: 'B01NCN3S0J-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 376.49 EUR
 currency: EUR
 price: 376.49

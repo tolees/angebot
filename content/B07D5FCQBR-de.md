@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5FCQBR-de HP ENVY x360 13-ag0005ng Touchdisplay 13 3 Zoll / Full HD...'
 sku: 'B07D5FCQBR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

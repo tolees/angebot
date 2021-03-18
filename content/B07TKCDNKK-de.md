@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKCDNKK-de iBetter für Google Pixel 4 Hülle Ultra Thin Tasche Cover...'
 sku: 'B07TKCDNKK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

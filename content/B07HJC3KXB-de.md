@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJC3KXB-de Funko 35678 Vinyl: Movies: James Bond: Daniel Craig Casino...'
 sku: 'B07HJC3KXB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

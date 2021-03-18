@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STDTG5G-de Oral-B PRO 1 200 Elektrische Zahnbürste für eine sanfte...'
 sku: 'B07STDTG5G-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 30.23 EUR
 currency: EUR
 price: 30.23

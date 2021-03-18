@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W3M7NHR-de Ionen Haartrockner Ribivaul 1700 Watt Salon Dry Care...'
 sku: 'B07W3M7NHR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

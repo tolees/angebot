@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBQCKB9-de Funko 39049 POP Vinyl: Games: Fortnite: Loot Llama 10"...'
 sku: 'B07MBQCKB9-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 23.41 EUR
 currency: EUR
 price: 23.41

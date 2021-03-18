@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0785GM8YP-de Under Armour Herren Unstoppable Windbreaker Oberteil Weiß...'
 sku: 'B0785GM8YP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

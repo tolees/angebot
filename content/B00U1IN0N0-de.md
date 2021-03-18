@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U1IN0N0-de Kitchen Craft Kuchendose Living Nostalgia mit Deckel 28...'
 sku: 'B00U1IN0N0-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.64 EUR
 currency: EUR
 price: 27.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0037EEK7A-de Yankee Candle Duftkerze im großen Jar Vanilla Cupcake...'
 sku: 'B0037EEK7A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

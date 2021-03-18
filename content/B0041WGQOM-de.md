@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0041WGQOM-de Lena 65823 Magnet Holzkiste mit 37 magnetischen...'
 sku: 'B0041WGQOM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

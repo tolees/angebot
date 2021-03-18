@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DR7Q4WJ-de TaoTronics Stehlampe LED Dimmbar 12W Stehleuchte für...'
 sku: 'B07DR7Q4WJ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

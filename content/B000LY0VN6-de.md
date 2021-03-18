@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LY0VN6-de Tetra Pro Energy Premiumfutter Flockenfutter für alle...'
 sku: 'B000LY0VN6-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D3VZWDC-de Seidensticker Herren Business Hemd Slim Fit – Bügelfreies...'
 sku: 'B01D3VZWDC-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 33.04 EUR
 currency: EUR
 price: 33.04

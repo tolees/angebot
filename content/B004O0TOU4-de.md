@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004O0TOU4-de Ravensburger 22093 - Schnappt Hubi!'
 sku: 'B004O0TOU4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

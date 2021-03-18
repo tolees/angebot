@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RJRG71-de BRIKSMAX Led Beleuchtungsset für Lego Technic Land Rover...'
 sku: 'B081RJRG71-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011RACHN4-de TP-Link TL-WA901ND V5.0 450MBit/s-WLAN Accesspoint...'
 sku: 'B011RACHN4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

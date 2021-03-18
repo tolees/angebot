@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J58WXHR-de Medion E4273 35 5 cm 14 Zoll Full HD Touch Convertible...'
 sku: 'B07J58WXHR-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 207.0 EUR
 currency: EUR
 price: 207.0

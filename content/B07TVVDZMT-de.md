@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVVDZMT-de Skechers Herren Moreno Sneaker Blau Navy Mesh NVY 45 EU'
 sku: 'B07TVVDZMT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 46.46 EUR
 currency: EUR
 price: 46.46

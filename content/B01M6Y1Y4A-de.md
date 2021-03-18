@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6Y1Y4A-de Red Dead Redemption 2 Standard Edition [PlayStation 4] Disk'
 sku: 'B01M6Y1Y4A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

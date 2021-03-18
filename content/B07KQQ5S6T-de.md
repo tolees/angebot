@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQQ5S6T-de Trilogy DS-15 Nerf N-Strike Elite Spielzeug Blaster mit 15...'
 sku: 'B07KQQ5S6T-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 36.04 EUR
 currency: EUR
 price: 36.04

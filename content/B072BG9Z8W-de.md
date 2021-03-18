@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BG9Z8W-de Logitech MX Anywhere 2S Kabellose Maus Bluetooth und 2.4...'
 sku: 'B072BG9Z8W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

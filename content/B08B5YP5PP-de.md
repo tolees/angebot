@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5YP5PP-de Echo Plus 2. Gen. Anthrazit Stoff + Philips Hue White LED-...'
 sku: 'B08B5YP5PP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 68.23 EUR
 currency: EUR
 price: 68.23

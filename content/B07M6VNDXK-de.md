@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6VNDXK-de YI Überwachungskamera Home IP Kamera 3 1080P Full HD mit...'
 sku: 'B07M6VNDXK-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

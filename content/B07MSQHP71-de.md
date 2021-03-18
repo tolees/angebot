@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSQHP71-de ASUS ZenBook Flip 15 UX562FA 90NB0LK1-M00360 39 6 cm 15 6...'
 sku: 'B07MSQHP71-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

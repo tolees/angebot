@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013JDWHU-de BGS 199 | Adapter-Satz | 6-tlg. | 1/4" auf 3/8" 3/8" auf...'
 sku: 'B0013JDWHU-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF67GRM-de WYANG Kerzenhalter Kerzenhalter Eisen Schwarz Gold Runde...'
 sku: 'B07VF67GRM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DG6VCYB-de Medisana BU 570 connect Oberarmblutdruckmessgerät...'
 sku: 'B08DG6VCYB-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 53.24 EUR
 currency: EUR
 price: 53.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WYZT2A-de LEGO Star Wars 8020325 Sturmtruppler Kinder-Armbanduhr mit...'
 sku: 'B003WYZT2A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

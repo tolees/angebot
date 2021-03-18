@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BDQ2V5-de DXX Technik Bausteine 1965 Ford Mustang Hoonicorn Racing...'
 sku: 'B083BDQ2V5-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

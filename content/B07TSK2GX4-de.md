@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSK2GX4-de Yazubi Cargo Hose Männer Jayden - Schwarze Lange Cargohose...'
 sku: 'B07TSK2GX4-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

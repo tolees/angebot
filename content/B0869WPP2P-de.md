@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0869WPP2P-de Xiaomi Mi 10 Smartphone + Kopfhörer 16 94cm 6 67" FHD+...'
 sku: 'B0869WPP2P-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 613.14 EUR
 currency: EUR
 price: 613.14

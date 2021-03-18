@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765Z1NWT-de JBL E65BTNC Over Ear Bluetooth Kopfhörer - Active Noise...'
 sku: 'B0765Z1NWT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

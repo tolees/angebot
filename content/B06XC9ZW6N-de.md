@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XC9ZW6N-de Olympus OM-D E-M10 Mark III Micro Four Thirds Systemkamera...'
 sku: 'B06XC9ZW6N-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

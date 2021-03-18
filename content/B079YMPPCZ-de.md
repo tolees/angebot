@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YMPPCZ-de Funko 30633 Actionfigur Marvel Unmasked Spider-Man Multi...'
 sku: 'B079YMPPCZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

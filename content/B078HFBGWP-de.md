@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HFBGWP-de Swiss Military Hanowa Herren Analog Quarz Uhr mit...'
 sku: 'B078HFBGWP-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 178.3 EUR
 currency: EUR
 price: 178.3

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PZ8ZEGW-de Nike Damen WMNS Md Runner 2 Hallenschuhe Schwarz...'
 sku: 'B00PZ8ZEGW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 40.16 EUR
 currency: EUR
 price: 40.16

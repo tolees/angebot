@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00URDQ26Q-de Original MANN-FILTER Innenraumfilter FP 2442 –...'
 sku: 'B00URDQ26Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 15.22 EUR
 currency: EUR
 price: 15.22

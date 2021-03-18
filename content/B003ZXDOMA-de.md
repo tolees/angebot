@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ZXDOMA-de Harman/Kardon Soundsticks III LED Desktop Soundsystem...'
 sku: 'B003ZXDOMA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 167.75 EUR
 currency: EUR
 price: 167.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKSTTLT-de Bosch Akku Schleifer und Polierer EasyCurvSander 12 1 Akku...'
 sku: 'B07VKSTTLT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

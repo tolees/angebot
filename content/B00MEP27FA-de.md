@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MEP27FA-de Clatronic RK 3566 Reiskocher und Dampfgarer in Einem...'
 sku: 'B00MEP27FA-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

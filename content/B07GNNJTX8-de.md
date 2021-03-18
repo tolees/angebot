@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNNJTX8-de Krups CZ7158 Cook4Me+ Connect Multikocher 1600 Watt...'
 sku: 'B07GNNJTX8-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 155.99 EUR
 currency: EUR
 price: 155.99

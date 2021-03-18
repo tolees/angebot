@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EAA6IZW-de Rowenta CF4132 Multistyler Elite 14 In 1'
 sku: 'B00EAA6IZW-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDT8XCG-de Aigital AC1200 WLAN Repeater Wi-Fi Verstaerker Range...'
 sku: 'B07XDT8XCG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

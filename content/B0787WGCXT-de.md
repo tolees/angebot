@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0787WGCXT-de Viewsonic VX3276-MHD-2 80 cm 32 Zoll Design Monitor Full-...'
 sku: 'B0787WGCXT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 164.95 EUR
 currency: EUR
 price: 164.95

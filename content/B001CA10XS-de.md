@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CA10XS-de Hazet 2169 Ölfilterschlüssel Antrieb: Innenvierkant 10 mm...'
 sku: 'B001CA10XS-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

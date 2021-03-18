@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F1R5K4W-de Mountain Dew Regular Koffeinhaltige Limonade mit Lemon-...'
 sku: 'B01F1R5K4W-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

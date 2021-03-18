@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015ZJRI5A-de The Fall - Tod in Belfast - die komplette Staffel 1 [2...'
 sku: 'B015ZJRI5A-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

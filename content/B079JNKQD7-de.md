@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JNKQD7-de Le Creuset Signature Gusseisen-Bräter mit Deckel Ø 26 cm...'
 sku: 'B079JNKQD7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 180.69 EUR
 currency: EUR
 price: 180.69

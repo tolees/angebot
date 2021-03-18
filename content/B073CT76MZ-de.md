@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073CT76MZ-de Beurer BF 600 Diagnosewaage schwarz Messung von Körperfett...'
 sku: 'B073CT76MZ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

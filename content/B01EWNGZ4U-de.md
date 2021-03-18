@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EWNGZ4U-de Akku-Set 18 V / 5 Ah DCD796 / DCF887'
 sku: 'B01EWNGZ4U-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 342.0 EUR
 currency: EUR
 price: 342.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWM4R8Q-de Zwini Laptop Kühlpads 12-17 Zoll Laptop Kühler r Cooling...'
 sku: 'B07YWM4R8Q-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 18.07 EUR
 currency: EUR
 price: 18.07

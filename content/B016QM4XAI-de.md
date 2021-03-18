@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QM4XAI-de Tommy Hilfiger Herren CORE STRETCH SLIM POPLIN SHIRT...'
 sku: 'B016QM4XAI-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 53.52 EUR
 currency: EUR
 price: 53.52

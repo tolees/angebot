@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X19NCPN-de Osprey Fairview 70 Reisetasche für Frauen mit abnehmbarem...'
 sku: 'B06X19NCPN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 128.79 EUR
 currency: EUR
 price: 128.79

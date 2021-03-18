@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YPDNK78-de Einhell Trockenbauschleifer TC-DW 225 600 W max. 1500...'
 sku: 'B00YPDNK78-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug', ]
+tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99
