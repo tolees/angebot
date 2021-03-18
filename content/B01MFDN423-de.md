@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MFDN423-de hummel Unisex-Erwachsene Slimmer Stadil Tonal High Top...'
 sku: 'B01MFDN423-de'
+tags: [  ]
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

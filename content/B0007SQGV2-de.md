@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '29.21 % rabat auf D-Link DGS-1016D Gigabit Switch  16 Port'
-date: 2021-03-17 07:46:22
+date: 2021-03-18 13:02:43
 image: 'https://m.media-amazon.com/images/I/31caixZYDcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0007SQGV2-de D-Link DGS-1016D Gigabit Switch 16 Ports 10/100/1000...'
 sku: 'B0007SQGV2-de'
+tags: [ '249195031','Computer','Computer & Zubehör','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Produkte','d-link', ]
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39
@@ -27,10 +28,10 @@ Es gibt ein [D-Link DGS-1016D Gigabit Switch  16 Ports  10/100/1000 Mbit/s  einf
 
 ℹ️:
 
-- Gigabit für einfache Arbeitsgruppen
-- Geräuchlos, ohne Lüfter (ab Hardware-Revision D1)
-- Quality-of-Service und Jumbo-Frame Support
-- Desktop oder Rackmount; Gigabit-Technologie
 - Energiesparende Funktionen mit D-Link Green
+- Geräuchlos, ohne Lüfter (ab Hardware-Revision D1)
+- Desktop oder Rackmount; Gigabit-Technologie
+- Quality-of-Service und Jumbo-Frame Support
+- Gigabit für einfache Arbeitsgruppen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0007SQGV2/?tag=tolees0ca-21)

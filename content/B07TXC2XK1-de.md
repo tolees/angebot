@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXC2XK1-de Laptop 14.1 Zoll TECLAST F7PLUS Ultrabook Intel Celeron...'
 sku: 'B07TXC2XK1-de'
+tags: [  ]
 actualPrice: 389.0 EUR
 currency: EUR
 price: 389.0

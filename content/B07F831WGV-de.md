@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F831WGV-de Calvin Klein Herren - 3er-Pack mittlere Taille Hüft-Shorts...'
 sku: 'B07F831WGV-de'
+tags: [  ]
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9GHZC0-de RAVPower Quick Charge 3.0 USB Ladegerät Schnellladegerät...'
 sku: 'B01N9GHZC0-de'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

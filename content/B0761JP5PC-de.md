@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0761JP5PC-de Utopia'
 sku: 'B0761JP5PC-de'
+tags: [ 'Alternative & Indie','Deutsch-Punk','Musik Kategorien','Musik aus Deutschland','Musik-CDs & Vinyl','Punk','Punk & Hardcore','Rock aus Deutschland', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

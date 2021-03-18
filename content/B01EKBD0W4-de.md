@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EKBD0W4-de Playmobil 6848 - Prinzessinnenschloss'
 sku: 'B01EKBD0W4-de'
+tags: [  ]
 actualPrice: 91.23 EUR
 currency: EUR
 price: 91.23

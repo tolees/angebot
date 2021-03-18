@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00APVW06G-de Django Unchained [Blu-ray]'
 sku: 'B00APVW06G-de'
+tags: [  ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

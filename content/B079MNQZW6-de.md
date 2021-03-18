@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MNQZW6-de PLAYMOBIL Magic 9470 Suche nach dem Liebeskristall mit...'
 sku: 'B079MNQZW6-de'
+tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

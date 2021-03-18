@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Funko Bobble: Avengers Endgame: Hawkeye  mit 26.75 % Rabatt'
-date: 2021-03-17 07:36:19
+date: 2021-03-18 13:35:35
 image: 'https://m.media-amazon.com/images/I/41Y26ZtskaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07KPTZ9WY-de Funko Bobble: Avengers Endgame: Hawkeye w/Chase Multi...'
 sku: 'B07KPTZ9WY-de'
+tags: [ 'Controller für Nintendo Switch','Games','Games, Hardware & Zubehör für PC','Hobbys','Nintendo Switch','Sammelfiguren & Requisiten','Spielzeug','Zubehör für Nintendo Switch','Zubehör für PC','funko', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B07KPTZ9WY/?tag=tolees0ca-21'
 descuento: '26.75'
-average: '11.2037857142856'
+average: '11.2006338028168'
 ---
 
 Sie können [Funko Bobble: Avengers Endgame: Hawkeye w/Chase  Multi  Einheitsgröße](https://www.amazon.de/dp/B07KPTZ9WY/?tag=tolees0ca-21) mit Preis 10.98 EUR (original: 14.99 EUR) 26.75 % Rabatt hier:
@@ -27,8 +28,8 @@ Sie können [Funko Bobble: Avengers Endgame: Hawkeye w/Chase  Multi  Einheitsgr�
 
 ℹ️:
 
-- Diese Hawkeye w/chase POP! Figur ist neu im Avengers Endgame Sortiment
 - Hawkeye w/chase gehört jetzt zum ständig erweiterten POP! Produktangebot
+- Diese Hawkeye w/chase POP! Figur ist neu im Avengers Endgame Sortiment
 - Jede Figur ist etwa 9 cm groß und in einer illustrierten Fensterbox verpackt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KPTZ9WY/?tag=tolees0ca-21)

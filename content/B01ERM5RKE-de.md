@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ERM5RKE-de The First Avenger: Civil War'
 sku: 'B01ERM5RKE-de'
+tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

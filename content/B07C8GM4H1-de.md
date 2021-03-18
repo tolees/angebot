@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8GM4H1-de Noise Cancelling Kopfhörer Leichte Srhythm NC25 Over Ear...'
 sku: 'B07C8GM4H1-de'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

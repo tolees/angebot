@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00004THGD-de Hook [Collector s Edition]'
 sku: 'B00004THGD-de'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

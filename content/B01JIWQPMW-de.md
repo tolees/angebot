@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JIWQPMW-de Anker PowerCore 26800mAh Power Bank Externer Akku mit Dual...'
 sku: 'B01JIWQPMW-de'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

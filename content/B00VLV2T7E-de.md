@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLV2T7E-de Playmobil 6662 - Zahnarzt'
 sku: 'B00VLV2T7E-de'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

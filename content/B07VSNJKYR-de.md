@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSNJKYR-de Krups Nescafé Dolce Gusto Piccolo XS Kapsel Kaffeemaschine...'
 sku: 'B07VSNJKYR-de'
+tags: [  ]
 actualPrice: 34.84 EUR
 currency: EUR
 price: 34.84

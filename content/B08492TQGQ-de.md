@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08492TQGQ-de HyperX Impact DDR4 HX426S16IBK2/64 Arbeitsspeicher 2666MHz...'
 sku: 'B08492TQGQ-de'
+tags: [  ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

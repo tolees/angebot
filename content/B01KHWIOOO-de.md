@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHWIOOO-de Post-it R3306SMI Haftnotiz Super Sticky Z-Notes 6 Blöcke...'
 sku: 'B01KHWIOOO-de'
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

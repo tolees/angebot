@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYRGY7M-de PLAYMOBIL Ghostbusters 9219 Feuerwache Ab 6 Jahren'
 sku: 'B01LYRGY7M-de'
+tags: [  ]
 actualPrice: 55.79 EUR
 currency: EUR
 price: 55.79

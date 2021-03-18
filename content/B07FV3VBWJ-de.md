@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FV3VBWJ-de Bosch PST 700 ReadyToSaw Stichsäge inkl. Koffer 500W'
 sku: 'B07FV3VBWJ-de'
+tags: [  ]
 actualPrice: 91.83 EUR
 currency: EUR
 price: 91.83

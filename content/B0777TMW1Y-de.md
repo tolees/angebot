@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777TMW1Y-de Arlo Pro2 Überwachungskamera & Alarmanlage 1080p HD 3er...'
 sku: 'B0777TMW1Y-de'
+tags: [  ]
 actualPrice: 609.0 EUR
 currency: EUR
 price: 609.0

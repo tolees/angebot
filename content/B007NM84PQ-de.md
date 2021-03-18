@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007NM84PQ-de Fossil Damen Analog Quarz Uhr mit Edelstahl Armband ES3020'
 sku: 'B007NM84PQ-de'
+tags: [  ]
 actualPrice: 90.08 EUR
 currency: EUR
 price: 90.08

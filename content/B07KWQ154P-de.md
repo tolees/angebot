@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWQ154P-de BRIKSMAX Alter Angelladen Led Beleuchtungsset - Kompatibel...'
 sku: 'B07KWQ154P-de'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

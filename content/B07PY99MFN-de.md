@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY99MFN-de ASS 22583135 Paw Patrol Missions Memo'
 sku: 'B07PY99MFN-de'
+tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

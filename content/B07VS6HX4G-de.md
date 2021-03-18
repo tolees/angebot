@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS6HX4G-de UTTORA Draussen Forscherset Spielzeug Kinder fernglas 22...'
 sku: 'B07VS6HX4G-de'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

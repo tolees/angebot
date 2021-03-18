@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LMA9BCU-de Disney 84624 Frozen Papier Servietten 20 Stück mit Sommer...'
 sku: 'B00LMA9BCU-de'
+tags: [  ]
 actualPrice: 1 EUR
 currency: EUR
 price: 1

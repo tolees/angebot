@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHY4TST-de Die drei !!!'
 sku: 'B07VHY4TST-de'
+tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

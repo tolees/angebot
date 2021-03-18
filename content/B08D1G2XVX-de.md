@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D1G2XVX-de Echo Dot 3. Gen. Anthrazit Stoff + Amazon Smart Plug WLAN-...'
 sku: 'B08D1G2XVX-de'
+tags: [  ]
 actualPrice: 63.08 EUR
 currency: EUR
 price: 63.08

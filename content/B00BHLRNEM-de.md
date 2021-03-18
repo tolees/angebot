@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BHLRNEM-de COPIC Markerstifte vielfach einsetzbar Einheitsgröße'
 sku: 'B00BHLRNEM-de'
+tags: [  ]
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

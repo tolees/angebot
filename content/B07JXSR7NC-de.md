@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXSR7NC-de FYLINA Handyhalterung Fahrrad Handyhalterung Motorrad 360°...'
 sku: 'B07JXSR7NC-de'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

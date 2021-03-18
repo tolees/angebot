@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000EULJLU-de 10.000 Days'
 sku: 'B000EULJLU-de'
+tags: [  ]
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

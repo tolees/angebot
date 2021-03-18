@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKWNS1N-de PLAYMOBIL Top Agents 70002 Spy Team Turboship Ab 6 Jahren'
 sku: 'B07JKWNS1N-de'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

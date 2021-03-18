@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKSTTLT-de Bosch Akku Schleifer und Polierer EasyCurvSander 12 1 Akku...'
 sku: 'B07VKSTTLT-de'
+tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

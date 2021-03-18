@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGC2CUA-de Tassimo Kapseln Milka 40 Kakao Kapseln 5er Pack 5 x 8...'
 sku: 'B00NGC2CUA-de'
+tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

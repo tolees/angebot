@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002RKPWKO-de 135/Fluch des Piraten'
 sku: 'B002RKPWKO-de'
+tags: [  ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

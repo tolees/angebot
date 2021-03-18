@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JXZF95E-de Der fliegende Holländer'
 sku: 'B00JXZF95E-de'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

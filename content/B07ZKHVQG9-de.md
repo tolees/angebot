@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKHVQG9-de CXZC Raspador de nieve para automóviles y camiones...'
 sku: 'B07ZKHVQG9-de'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

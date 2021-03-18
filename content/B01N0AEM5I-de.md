@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0AEM5I-de Der Mann ohne Nerven Breakout [Blu-ray]'
 sku: 'B01N0AEM5I-de'
+tags: [  ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDBLY4Q-de Philips GC4537/70 Azur Dampfbügeleisen 2400 W 200 g...'
 sku: 'B07GDBLY4Q-de'
+tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

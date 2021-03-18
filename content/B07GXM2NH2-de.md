@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXM2NH2-de Mülleimer Abfalleimer Mülltrennsystem 60L - 3x20L Behälter...'
 sku: 'B07GXM2NH2-de'
+tags: [  ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

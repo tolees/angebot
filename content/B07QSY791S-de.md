@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QSY791S-de Bosch Akku Schlagbohrschrauber UniversalImpact 18 2 Akku...'
 sku: 'B07QSY791S-de'
+tags: [  ]
 actualPrice: 103.9 EUR
 currency: EUR
 price: 103.9

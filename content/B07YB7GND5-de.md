@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YB7GND5-de Willful Bluetooth Kopfhörer In Ear Kopfhörer Kabellos...'
 sku: 'B07YB7GND5-de'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

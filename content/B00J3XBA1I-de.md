@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J3XBA1I-de Philips SHE3905BK/00 In-Ear-Kopfhörer mit Mikrofon satter...'
 sku: 'B00J3XBA1I-de'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMH9ZJ3-de 1917/Ost'
 sku: 'B07YMH9ZJ3-de'
+tags: [  ]
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

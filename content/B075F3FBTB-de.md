@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075F3FBTB-de Ledlenser P7 LED Allround Taschenlampe 450 Lumen 25...'
 sku: 'B075F3FBTB-de'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

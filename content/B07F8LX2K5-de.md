@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8LX2K5-de Superdry Herren O L Vintage Embroidery L/S Tee...'
 sku: 'B07F8LX2K5-de'
+tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

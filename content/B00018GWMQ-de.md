@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00018GWMQ-de Winnie Puuh - Spaß im Frühling Winnie Puuh Collection'
 sku: 'B00018GWMQ-de'
+tags: [  ]
 actualPrice: 3.82 EUR
 currency: EUR
 price: 3.82

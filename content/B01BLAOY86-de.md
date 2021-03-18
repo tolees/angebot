@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BLAOY86-de Santana [Vinyl LP]'
 sku: 'B01BLAOY86-de'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

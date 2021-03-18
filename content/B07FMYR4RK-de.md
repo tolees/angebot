@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMYR4RK-de Philips Avent Natural Flaschenset SCD303/01 für...'
 sku: 'B07FMYR4RK-de'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KGRXRH-de SanDisk Ultra 3D SSD 250GB geeignet für lesen mit bis zu...'
 sku: 'B071KGRXRH-de'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

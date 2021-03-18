@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075YYRYBW-de Gigaset E370 Schnurloses Telefon für Senioren mit großen...'
 sku: 'B075YYRYBW-de'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

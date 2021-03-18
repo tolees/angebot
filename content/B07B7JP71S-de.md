@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B7JP71S-de New bee Bluetooth Headset Wireless Freisprech Telefon 5.0...'
 sku: 'B07B7JP71S-de'
+tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

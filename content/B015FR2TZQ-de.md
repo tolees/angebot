@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015FR2TZQ-de Tassimo Kapseln Jacobs Typ Latte Macchiato Classico 40...'
 sku: 'B015FR2TZQ-de'
+tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DMZ4KG0-de Kingdom Hearts III - [Xbox One]'
 sku: 'B00DMZ4KG0-de'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

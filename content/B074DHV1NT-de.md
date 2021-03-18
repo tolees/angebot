@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DHV1NT-de Thomas Sabo Damen-Charm-Armband 925 Sterlingsilber...'
 sku: 'B074DHV1NT-de'
+tags: [  ]
 actualPrice: 18.43 EUR
 currency: EUR
 price: 18.43

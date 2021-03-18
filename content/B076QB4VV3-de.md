@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QB4VV3-de Razer Electra V2 USB - Digitales Gaming Headset für Gamer...'
 sku: 'B076QB4VV3-de'
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

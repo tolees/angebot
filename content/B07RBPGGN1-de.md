@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBPGGN1-de YLCJ Bronze Industrial Vintage doble cabeza Chunky...'
 sku: 'B07RBPGGN1-de'
+tags: [  ]
 actualPrice: 28.02 EUR
 currency: EUR
 price: 28.02

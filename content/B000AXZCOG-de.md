@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AXZCOG-de All for You'
 sku: 'B000AXZCOG-de'
+tags: [  ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

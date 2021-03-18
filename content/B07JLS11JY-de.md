@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLS11JY-de Playmobil 70137 Country Kleintiere im Freigehege bunt'
 sku: 'B07JLS11JY-de'
+tags: [  ]
 actualPrice: 7.62 EUR
 currency: EUR
 price: 7.62

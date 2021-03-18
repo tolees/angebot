@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VV32S2S-de TaoTronics Schreibtischlampe LED 12W Büro Tischleuchte 5...'
 sku: 'B00VV32S2S-de'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

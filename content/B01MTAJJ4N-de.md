@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTAJJ4N-de Metalldetektor INTEY Professionell Metallsuchgerät ALL...'
 sku: 'B01MTAJJ4N-de'
+tags: [  ]
 actualPrice: 83.59 EUR
 currency: EUR
 price: 83.59

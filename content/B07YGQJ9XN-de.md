@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGQJ9XN-de Microsoft Ergonomic Mouse'
 sku: 'B07YGQJ9XN-de'
+tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

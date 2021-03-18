@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNXZ9QB-de Dyson V7 Cord Free Beutel- und kabelloser Handstaubsauger...'
 sku: 'B07DNXZ9QB-de'
+tags: [  ]
 actualPrice: 247.66 EUR
 currency: EUR
 price: 247.66

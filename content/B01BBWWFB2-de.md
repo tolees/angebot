@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BBWWFB2-de AVM FRITZ!Fon C5 DECT-Komforttelefon hochwertiges...'
 sku: 'B01BBWWFB2-de'
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AWG5U7Y-de LG 34UC88-B 86 36 cm 34 Zoll Curved 21:9 UltraWide™ IPS...'
 sku: 'B01AWG5U7Y-de'
+tags: [  ]
 actualPrice: 374.88 EUR
 currency: EUR
 price: 374.88

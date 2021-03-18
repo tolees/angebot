@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZXYY35-de Granrosi Vorratsbehälter Set - Kartoffeltopf Zwiebeltopf...'
 sku: 'B071ZXYY35-de'
+tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

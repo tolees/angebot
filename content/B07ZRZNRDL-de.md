@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRZNRDL-de HUAWEI FreeBuds 3 kabellose Kopfhörer mit Active Noise...'
 sku: 'B07ZRZNRDL-de'
+tags: [  ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

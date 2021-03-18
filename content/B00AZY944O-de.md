@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AZY944O-de Black+Decker Dampfreiniger Steam Mop Deluxe FSM1630 –...'
 sku: 'B00AZY944O-de'
+tags: [  ]
 actualPrice: 79.38 EUR
 currency: EUR
 price: 79.38

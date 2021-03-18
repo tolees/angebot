@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNL85Z5-de ORIENT Messer Set 3 teilig - Kochmesser Allzwekmesser...'
 sku: 'B07QNL85Z5-de'
+tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFWP34M-de RÖSLE Frischhaltedeckel Ø 28 cm Glas mit rundumlaufenden...'
 sku: 'B00JFWP34M-de'
+tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

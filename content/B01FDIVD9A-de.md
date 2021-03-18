@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FDIVD9A-de Hasbro Gaming B2176398 - Dr. Bibber Kinderspiel'
 sku: 'B01FDIVD9A-de'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

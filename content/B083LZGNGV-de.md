@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083LZGNGV-de Samsung Clear View Cover EF-ZG985 für Galaxy S20+ | S20+...'
 sku: 'B083LZGNGV-de'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

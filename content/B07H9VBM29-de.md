@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9VBM29-de SanDisk Extreme PRO 512GB SDXC Speicherkarte bis zu 170...'
 sku: 'B07H9VBM29-de'
+tags: [  ]
 actualPrice: 142.99 EUR
 currency: EUR
 price: 142.99

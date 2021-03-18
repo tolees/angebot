@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8Y1FSZ-de LEGO Hidden Side 70432 Geister-Jahrmarkt mit AR-App'
 sku: 'B07W8Y1FSZ-de'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

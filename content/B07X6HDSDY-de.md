@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X6HDSDY-de HyperX HX-HSCAS-BL/WW Cloud Alpha S - Gaming Headset mit...'
 sku: 'B07X6HDSDY-de'
+tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

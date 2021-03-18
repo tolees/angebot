@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KGTVZY0-de Fossil Damen-Uhren ES3625'
 sku: 'B00KGTVZY0-de'
+tags: [  ]
 actualPrice: 69.16 EUR
 currency: EUR
 price: 69.16

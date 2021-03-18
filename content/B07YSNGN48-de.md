@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YSNGN48-de NIVEA MEN Fresh Active Deo Stift ohne Aluminium ACH mit...'
 sku: 'B07YSNGN48-de'
+tags: [  ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

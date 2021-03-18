@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3SPEZF-de Original Einhell Starter Kit Akku und Ladegerät Power...'
 sku: 'B01M3SPEZF-de'
+tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

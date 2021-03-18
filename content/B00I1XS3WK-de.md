@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I1XS3WK-de Motorola Handy Akku Original kompatible Mobiltelefone'
 sku: 'B00I1XS3WK-de'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

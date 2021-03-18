@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015GM3U1M-de Ice-Watch - ICE glitter Black Rose-Gold - Women s...'
 sku: 'B015GM3U1M-de'
+tags: [  ]
 actualPrice: 56.3 EUR
 currency: EUR
 price: 56.3

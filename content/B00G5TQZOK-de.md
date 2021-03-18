@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G5TQZOK-de POP! Vinyl 3735 No POP Vinylfigur: Supernatural: Sam Multi'
 sku: 'B00G5TQZOK-de'
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMD4SSM-de Meereskönig mit Haikutsche'
 sku: 'B07JMD4SSM-de'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

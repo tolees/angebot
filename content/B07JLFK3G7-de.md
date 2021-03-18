@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLFK3G7-de Playmobil 70000 Fairies Romantisches Feenboot bunt'
 sku: 'B07JLFK3G7-de'
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

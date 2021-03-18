@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F3PWBCK-de DARLINGTON & Sohns Grauer Controller für Nintendo 64 N64...'
 sku: 'B08F3PWBCK-de'
+tags: [  ]
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

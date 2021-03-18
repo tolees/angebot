@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGMD9ND-de SEIKO Automatische Uhr SRPD53K1 blau Sport'
 sku: 'B07WGMD9ND-de'
+tags: [  ]
 actualPrice: 189.2 EUR
 currency: EUR
 price: 189.2

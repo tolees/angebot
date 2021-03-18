@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCZM0HW-de Emporio Armani Damen - Edelstahl Kristall'
 sku: 'B01NCZM0HW-de'
+tags: [  ]
 actualPrice: 59.06 EUR
 currency: EUR
 price: 59.06

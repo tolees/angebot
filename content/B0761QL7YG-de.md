@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0761QL7YG-de Acer P5530 DLP Projektor Full HD 1.920 x 1.080 4.000 ANSI...'
 sku: 'B0761QL7YG-de'
+tags: [  ]
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

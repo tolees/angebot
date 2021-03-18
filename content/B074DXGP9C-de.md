@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DXGP9C-de WD My Cloud Home Duo 16 TB Persönlicher Cloudspeicher -...'
 sku: 'B074DXGP9C-de'
+tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

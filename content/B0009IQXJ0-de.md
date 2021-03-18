@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009IQXJ0-de Meguiar s G7516EU Endurance High Gloss Tyre Gel...'
 sku: 'B0009IQXJ0-de'
+tags: [  ]
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

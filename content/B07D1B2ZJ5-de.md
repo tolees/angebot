@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D1B2ZJ5-de THE NORTH FACE Borealis Rucksack Flag Blue Light...'
 sku: 'B07D1B2ZJ5-de'
+tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

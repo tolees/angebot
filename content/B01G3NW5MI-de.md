@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3NW5MI-de Sagrotan Handseife mit frischem Duft nach Aloe Vera –...'
 sku: 'B01G3NW5MI-de'
+tags: [  ]
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

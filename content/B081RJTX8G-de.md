@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RJTX8G-de BRIKSMAX Led Beleuchtungsset für Lego Technic Land Rover...'
 sku: 'B081RJTX8G-de'
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

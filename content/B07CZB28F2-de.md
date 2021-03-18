@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZB28F2-de Keg Bierspender Merrday Edelstahl Mini Fass Bier Growler...'
 sku: 'B07CZB28F2-de'
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

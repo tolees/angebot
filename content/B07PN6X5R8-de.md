@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PN6X5R8-de Tefal E21846 Trattoria Kochtopf mit Gussdeckel...'
 sku: 'B07PN6X5R8-de'
+tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

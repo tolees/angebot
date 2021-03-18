@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY9M0N3-de LEDELI Tastaturaufkleber Tastatur Aufkleber Keyboard...'
 sku: 'B01MY9M0N3-de'
+tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

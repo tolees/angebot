@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CJRIQU8-de Keter Gerätehaus Manor 6x8 DD Grau 7 6 m³'
 sku: 'B00CJRIQU8-de'
+tags: [  ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

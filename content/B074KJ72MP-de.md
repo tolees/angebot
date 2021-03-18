@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KJ72MP-de OSRAM Smart+ LED ZigBee Lampe mit E27 Sockel warmweiß...'
 sku: 'B074KJ72MP-de'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

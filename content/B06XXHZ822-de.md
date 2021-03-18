@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXHZ822-de PROCAVE TopCool Qualitäts-Bettdecke für den Sommer...'
 sku: 'B06XXHZ822-de'
+tags: [  ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

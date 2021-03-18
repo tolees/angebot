@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IJ4YG5I-de 183/und der Letzte Song'
 sku: 'B01IJ4YG5I-de'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PC5WFLY-de Bosch Professional 40-tlgs. Bohrer Bit Set Pick and Click...'
 sku: 'B07PC5WFLY-de'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

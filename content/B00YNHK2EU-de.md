@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YNHK2EU-de Castrol POWER 1 2T 2-Takt Motorrad Motorenöl 1L'
 sku: 'B00YNHK2EU-de'
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EAMAKA-de Lillet Blanc Aperitif – Fruchtiger französischer...'
 sku: 'B004EAMAKA-de'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

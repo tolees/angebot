@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GRLPL7H-de Gundermann'
 sku: 'B07GRLPL7H-de'
+tags: [  ]
 actualPrice: 7.67 EUR
 currency: EUR
 price: 7.67

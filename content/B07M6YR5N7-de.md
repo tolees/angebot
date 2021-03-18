@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6YR5N7-de Greylags Premium Boxershorts/Retroshorts für Herren |...'
 sku: 'B07M6YR5N7-de'
+tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

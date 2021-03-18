@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQPG7KB-de FurReal Friends furReal Cubby mein Knuddelbär interaktives...'
 sku: 'B07KQPG7KB-de'
+tags: [  ]
 actualPrice: 75.28 EUR
 currency: EUR
 price: 75.28

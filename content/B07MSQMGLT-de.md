@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSQMGLT-de Transcend 512GB SATA III 6GB/S MTS430S 42 mm m.2 SSD 430S...'
 sku: 'B07MSQMGLT-de'
+tags: [  ]
 actualPrice: 69.79 EUR
 currency: EUR
 price: 69.79

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00URUU49A-de Einhell Schmutzwasserpumpe GE-DP 7330 LL ECO 730 W Ø 30 mm...'
 sku: 'B00URUU49A-de'
+tags: [  ]
 actualPrice: 80.17 EUR
 currency: EUR
 price: 80.17

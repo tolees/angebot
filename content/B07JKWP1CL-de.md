@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKWP1CL-de Playmobil 70009 SuperSet Galaxy Police Gefängnis bunt'
 sku: 'B07JKWP1CL-de'
+tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

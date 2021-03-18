@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QL5CXNR-de Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech...'
 sku: 'B07QL5CXNR-de'
+tags: [  ]
 actualPrice: 28.56 EUR
 currency: EUR
 price: 28.56

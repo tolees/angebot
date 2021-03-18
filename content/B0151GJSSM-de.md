@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0151GJSSM-de Trust GXT 540 kabelgebundenes Gamepad'
 sku: 'B0151GJSSM-de'
+tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

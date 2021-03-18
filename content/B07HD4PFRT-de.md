@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HD4PFRT-de Half Mile Harvest'
 sku: 'B07HD4PFRT-de'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

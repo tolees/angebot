@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075J7XG8Q-de ADORIC Digitalwaage Professionelle Electronische Waage...'
 sku: 'B075J7XG8Q-de'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CBME1SG-de Funko 7424 No Actionfigur Dragonball Z: Gohan'
 sku: 'B01CBME1SG-de'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

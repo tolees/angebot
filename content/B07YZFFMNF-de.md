@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZFFMNF-de Zacfton 78 in 1 Magnet Präzisions Schraubendreher Set...'
 sku: 'B07YZFFMNF-de'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

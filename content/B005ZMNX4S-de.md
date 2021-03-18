@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005ZMNX4S-de WOLF-Garten - Elektro-Trimmer CAMPUS 350 RT; 41AC0UU-650'
 sku: 'B005ZMNX4S-de'
+tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

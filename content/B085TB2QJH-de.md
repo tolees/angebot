@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TB2QJH-de ColiCor Display Halterung DIY Vertikales Ständer für Lego...'
 sku: 'B085TB2QJH-de'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

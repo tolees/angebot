@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGT3H9T-de Funko 14330 ESO Actionfigur The Elder Scrolls Online...'
 sku: 'B06XGT3H9T-de'
+tags: [  ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9N8Z3D-de Doritos Paprika - Paprika Tortilla Nachos - Herzhafter...'
 sku: 'B07S9N8Z3D-de'
+tags: [  ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

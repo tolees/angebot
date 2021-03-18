@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004DL15EC-de Ravensburger tiptoi Rekorde im Tierreich memory ab 5...'
 sku: 'B004DL15EC-de'
+tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

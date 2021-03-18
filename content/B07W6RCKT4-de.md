@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6RCKT4-de Funko POP! Icons MTV - Moon Person Spielfigur'
 sku: 'B07W6RCKT4-de'
+tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

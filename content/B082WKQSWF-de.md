@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WKQSWF-de TOM TAILOR Herren Poloshirts Basic Poloshirt Sky Captain...'
 sku: 'B082WKQSWF-de'
+tags: [  ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

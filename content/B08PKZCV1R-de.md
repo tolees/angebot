@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'adidas 3-Streifen French Terry C Sportho mit 20.00 % Rabatt'
-date: 2021-03-17 12:29:51
+date: 2021-03-18 13:19:39
 image: 'https://m.media-amazon.com/images/I/316UbvexpgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08PKZCV1R-de adidas 3-Streifen French Terry C Sporthose Black/White M'
 sku: 'B08PKZCV1R-de'
+tags: [ 'Bekleidung','Damen-Hosen','Damenbekleidung','adidas', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'adidas'
 buyurl: 'https://www.amazon.de/dp/B08PKZCV1R/?tag=tolees0ca-21'
 descuento: '20.00'
-average: '36.44'
+average: '36.3275'
 ---
 
 Sie können [adidas 3-Streifen French Terry C Sporthose Black/White M](https://www.amazon.de/dp/B08PKZCV1R/?tag=tolees0ca-21) mit Preis 35.99 EUR (original: 44.99 EUR) 20.00 % Rabatt hier:
@@ -28,7 +29,7 @@ Sie können [adidas 3-Streifen French Terry C Sporthose Black/White M](https://w
 ℹ️:
 
 - French Terry Material
-- Elastischer Bund mit Kordelzug
 - Regulär geschnitten; schmal zulaufende Beinform
+- Elastischer Bund mit Kordelzug
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08PKZCV1R/?tag=tolees0ca-21)

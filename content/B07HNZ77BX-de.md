@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNZ77BX-de INSMART PS4 Headset PC Gaming Headset Auch für Nintendo...'
 sku: 'B07HNZ77BX-de'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCFCMJZ-de Russell Hobbs Standmixer Glas Steel 2-in-1 inkl. To-Go-...'
 sku: 'B06XCFCMJZ-de'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

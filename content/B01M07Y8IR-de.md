@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M07Y8IR-de Bosch Professional Bohrhammer GBH 2-26 F 830 Watt...'
 sku: 'B01M07Y8IR-de'
+tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

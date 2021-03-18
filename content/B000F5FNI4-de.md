@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000F5FNI4-de Paul Günther 1682 - Propellerspiel Twirly Farblich sortiert'
 sku: 'B000F5FNI4-de'
+tags: [  ]
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81

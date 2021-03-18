@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002PHLZJ6-de Inter Link Sammlervitrine Hängevitrine Wandregal...'
 sku: 'B002PHLZJ6-de'
+tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

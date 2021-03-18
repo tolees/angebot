@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K7KE8JM-de Blomus 68812 Seifenspender Areo Edelstahl poliert'
 sku: 'B00K7KE8JM-de'
+tags: [  ]
 actualPrice: 40.41 EUR
 currency: EUR
 price: 40.41

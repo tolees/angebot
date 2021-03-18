@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BOZ79UO-de One Step Looper Tool-'
 sku: 'B00BOZ79UO-de'
+tags: [  ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

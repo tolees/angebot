@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BKQTB8K-de Daniel Wellington Classic Glasgow Blau-weiß/Roségold...'
 sku: 'B00BKQTB8K-de'
+tags: [  ]
 actualPrice: 12.33 EUR
 currency: EUR
 price: 12.33

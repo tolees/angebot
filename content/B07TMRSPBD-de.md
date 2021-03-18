@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMRSPBD-de Harmony'
 sku: 'B07TMRSPBD-de'
+tags: [  ]
 actualPrice: 8.93 EUR
 currency: EUR
 price: 8.93

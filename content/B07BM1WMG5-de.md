@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BM1WMG5-de Hasbro Gaming E1871100 - Monopoly Mogeln und Mauscheln...'
 sku: 'B07BM1WMG5-de'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

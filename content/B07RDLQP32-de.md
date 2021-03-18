@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDLQP32-de Salomon Herren X REVEAL GTX Trekking- & Wanderhalbschuhe...'
 sku: 'B07RDLQP32-de'
+tags: [  ]
 actualPrice: 61.21 EUR
 currency: EUR
 price: 61.21

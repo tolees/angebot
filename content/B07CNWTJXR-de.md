@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNWTJXR-de Avengers: Infinity War'
 sku: 'B07CNWTJXR-de'
+tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

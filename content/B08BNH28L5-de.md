@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNH28L5-de Bluetooth Kopfhörer In Ear Wireless Noise Cancelling...'
 sku: 'B08BNH28L5-de'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

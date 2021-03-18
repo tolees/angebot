@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJHQ4JD-de G-STAR RAW Damen Midge Saddle Mid-Waist Straight Jeans...'
 sku: 'B07BJHQ4JD-de'
+tags: [  ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

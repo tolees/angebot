@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010THXVNQ-de Sony Alpha 7RM2 E-Mount Vollformat Digitalkamera ILCE-7RM2...'
 sku: 'B010THXVNQ-de'
+tags: [  ]
 actualPrice: 850.0 EUR
 currency: EUR
 price: 850.0

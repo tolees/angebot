@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCFC613-de Roccat Vulcan 122 - Mechanische Gaming Tastatur AIMO LED...'
 sku: 'B07YCFC613-de'
+tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0
