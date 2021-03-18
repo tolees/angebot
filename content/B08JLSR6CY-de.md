@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '34.18 % rabat auf Revell 304 Hogwarts Diagon Alley  die Wi'
-date: 2021-03-17 18:27:39
+date: 2021-03-18 18:58:12
 image: 'https://m.media-amazon.com/images/I/51PEFwYGcML._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08JLSR6CY-de Revell 304 Hogwarts Diagon Alley die Winkelgasse mit 4...'
 sku: 'B08JLSR6CY-de'
+tags: [ '3D-Puzzles','Puzzles','Spielzeug','revell', ]
 actualPrice: 19.74 EUR
 currency: EUR
 price: 19.74

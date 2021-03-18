@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Ubiquiti UniFi Switch USW-Flex-Mini mit 28.89 % Rabatt'
-date: 2021-03-17 07:46:45
+date: 2021-03-18 18:56:03
 image: 'https://m.media-amazon.com/images/I/21qNn5qh4BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B086GNGL77-de Ubiquiti UniFi Switch USW-Flex-Mini'
 sku: 'B086GNGL77-de'
+tags: [ 'Computer & Zubehör','Netzwerk-Switches','Netzwerkgeräte','ubiquiti', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ubiquiti'
 buyurl: 'https://www.amazon.de/dp/B086GNGL77/?tag=tolees0ca-21'
 descuento: '28.89'
-average: '38.6036538461539'
+average: '38.3590740740741'
 ---
 
 Sie können [Ubiquiti UniFi Switch USW-Flex-Mini](https://www.amazon.de/dp/B086GNGL77/?tag=tolees0ca-21) mit Preis 32.0 EUR (original: 45.0 EUR) 28.89 % Rabatt hier:

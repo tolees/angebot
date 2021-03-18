@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Nike Herren Tanjun Sneaker  Black/Black- mit 16.03 % Rabatt'
-date: 2021-03-17 12:35:44
+date: 2021-03-18 19:18:39
 image: 'https://m.media-amazon.com/images/I/41B0w6f1N1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B077YZZQSW-de Nike Herren Tanjun Sneaker Black/Black-Anthracite 46 EU'
 sku: 'B077YZZQSW-de'
+tags: [ 'Herren-Laufschuhe','Herrenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Herren','Sport- & Outdoorschuhe für Herren','nike', ]
 actualPrice: 54.57 EUR
 currency: EUR
 price: 54.57
@@ -27,8 +28,8 @@ Sie können [Nike Herren Tanjun Sneaker  Black/Black-Anthracite  46 EU](https://
 
 ℹ️:
 
-- Angenehm dämpfende Schaumstoff-Mittelsohle
 - Schlichtes Design
+- Angenehm dämpfende Schaumstoff-Mittelsohle
 - Atmungsaktives Textilobermaterial
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077YZZQSW/?tag=tolees0ca-21)

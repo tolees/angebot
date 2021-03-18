@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '30.03 % rabat auf Samsung TU8079 163 cm  65 Zoll  LED Fern'
-date: 2021-03-17 18:41:02
+date: 2021-03-18 19:16:52
 image: 'https://m.media-amazon.com/images/I/51RaQZA4UkL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B085L6NT8W-de Samsung TU8079 163 cm 65 Zoll LED Fernseher Ultra HD...'
 sku: 'B085L6NT8W-de'
+tags: [ 'Elektronik & Foto','Fernseher','Fernseher & Heimkino','samsung', ]
 actualPrice: 699.0 EUR
 currency: EUR
 price: 699.0
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B085L6NT8W/?tag=tolees0ca-21'
 descuento: '30.03'
-average: '726.175641025641'
+average: '725.49625'
 ---
 
 Es gibt ein [Samsung TU8079 163 cm  65 Zoll  LED Fernseher  Ultra HD  HDR10+  Triple Tuner  Smart TV  [Modelljahr 2020]](https://www.amazon.de/dp/B085L6NT8W/?tag=tolees0ca-21) mit aktuellem Preis 699.0 EUR (original: 999.0 EUR) 30.03 % Rabatt hier:
@@ -27,13 +28,13 @@ Es gibt ein [Samsung TU8079 163 cm  65 Zoll  LED Fernseher  Ultra HD  HDR10+  Tr
 
 ℹ️:
 
-- HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
-- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Schieferschwarz
 - Alexa integriert, Bixby integriert, Kompatibel mit Google Assistant und Airplay 2,
-- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Ambient Mode
+- HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
 - Streaming-Dienste: Amazon Video, Netflix, Zattoo, Youtube, Maxdome, ARD, DAZN, Gamefly, Ran, Videoland, Videociety, Wuaki, Prosieben Apps, etc.
 - Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 3x HDMI, 2x USB, 1x LAN, WLAN, 1x CI+-Slot, 2x Antenneneingang
 - Lieferumfang: Samsung TU8079 163 cm (65 Zoll) mit Kielfuß, klassische Fernbedienung, Stromkabel, Anleitung
+- Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Schieferschwarz
+- Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Ambient Mode
 - HD+ integriert: 23 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B085L6NT8W/?tag=tolees0ca-21)

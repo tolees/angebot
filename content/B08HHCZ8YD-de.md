@@ -1,27 +1,28 @@
 ---
 layout: post
-title: '22.16 % rabat auf Xiaomi Mi 10T Pro 8GB+256GB lunar Silver'
-date: 2021-03-17 18:39:01
+title: '26.81 % rabat auf Xiaomi Mi 10T Pro 8GB+256GB lunar Silver'
+date: 2021-03-18 19:02:18
 image: 'https://m.media-amazon.com/images/I/41MCts4VmFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08HHCZ8YD-de Xiaomi Mi 10T Pro 8GB+256GB lunar Silver ohne Simlock...'
 sku: 'B08HHCZ8YD-de'
-actualPrice: 505.2 EUR
+tags: [ 'Elektronik & Foto','Handys & Smartphones','Handys & Zubehör','Simlockfreie Handys','xiaomi', ]
+actualPrice: 475.0 EUR
 currency: EUR
-price: 505.2
+price: 475.0
 comparePrice: 649.0 EUR
 prodname: 'Xiaomi Mi 10T Pro 8GB+256GB lunar Silver ohne Simlock  Alexa Hands-Free  ohne Branding'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B08HHCZ8YD/?tag=tolees0ca-21'
-descuento: '22.16'
-average: '615.932211538463'
+descuento: '26.81'
+average: '613.273113207548'
 ---
 
-Es gibt ein [Xiaomi Mi 10T Pro 8GB+256GB lunar Silver ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HHCZ8YD/?tag=tolees0ca-21) mit aktuellem Preis 505.2 EUR (original: 649.0 EUR) 22.16 % Rabatt hier:
+Es gibt ein [Xiaomi Mi 10T Pro 8GB+256GB lunar Silver ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HHCZ8YD/?tag=tolees0ca-21) mit aktuellem Preis 475.0 EUR (original: 649.0 EUR) 26.81 % Rabatt hier:
 
 [![Xiaomi Mi 10T Pro 8GB+256GB lunar Silver](https://m.media-amazon.com/images/I/41MCts4VmFL._SL400_.jpg)](https://www.amazon.de/dp/B08HHCZ8YD/?tag=tolees0ca-21)
 

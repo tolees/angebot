@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '27.11 % rabat auf LEGO 75270 Star Wars Obi-Wans Hütte Baus'
-date: 2021-03-17 18:38:26
+date: 2021-03-18 18:54:20
 image: 'https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07WLJJX8V-de LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm...'
 sku: 'B07WLJJX8V-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 21.86 EUR
 currency: EUR
 price: 21.86
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21'
 descuento: '27.11'
-average: '25.0171283783784'
+average: '24.9959395973154'
 ---
 
 Es gibt ein [LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm der Prinzessin Leia  Serie Eine Neue Hoffnung](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21) mit aktuellem Preis 21.86 EUR (original: 29.99 EUR) 27.11 % Rabatt hier:
@@ -27,10 +28,10 @@ Es gibt ein [LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm der Prinz
 
 ℹ️:
 
-- Enthält drei Minifiguren: Obi-Wan Kenobi und Luke Skywalker mit Lichtschwertern, einen Tusken Raider mit einem Gaffi-Stock sowie eine R2-D2-Droidenfigur
-- Kinder können mit Luke Skywalker trainieren, um ein Jedi-Meister zu werden, ihre Lichtschwertfähigkeiten mit der Trainingsfernbedienung üben oder mit R2-Dzwei spielen
-- Die Hütte ist ausklappbar und bietet einfachen Zugang zu vielen spielerischen Gegenständen wie einer Trainingsfernbedienung und einem Hologramm der Prinzessin Leia
-- Der in der kostenlosen LEGO Life-App für Smartphones und Tablets verfügbare Instructions PLUS-Leitfaden enthält Werkzeuge zum Heranzoomen, Drehen und Anzeigen von Modellen, um das Bauen zu unterstützen
 - Verfügt über das Tatooine-Wüstenhaus von Obi-Wan Kenobi mit einer Öffnungskuppel zum einfachen Spielen und vielen Details, um Lieblingsfilmszenen nachzubilden
+- Die Hütte ist ausklappbar und bietet einfachen Zugang zu vielen spielerischen Gegenständen wie einer Trainingsfernbedienung und einem Hologramm der Prinzessin Leia
+- Kinder können mit Luke Skywalker trainieren, um ein Jedi-Meister zu werden, ihre Lichtschwertfähigkeiten mit der Trainingsfernbedienung üben oder mit R2-Dzwei spielen
+- Enthält drei Minifiguren: Obi-Wan Kenobi und Luke Skywalker mit Lichtschwertern, einen Tusken Raider mit einem Gaffi-Stock sowie eine R2-D2-Droidenfigur
+- Der in der kostenlosen LEGO Life-App für Smartphones und Tablets verfügbare Instructions PLUS-Leitfaden enthält Werkzeuge zum Heranzoomen, Drehen und Anzeigen von Modellen, um das Bauen zu unterstützen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21)
