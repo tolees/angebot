@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08MSV1CGZ-de Sony Interactive Entertainment PS VR Starter Pack inkl. PS...'
 sku: 'B08MSV1CGZ-de'
-tags: [ 'Aktivitätstracker','Bauspielzeug & Konstruktionsspielzeug','Beauty','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Damendüfte','Datenspeicher','Düfte','Eau de Toilette für Damen','Elektronik & Foto','Federmäppchen','Games','Handys & Zubehör','Interne SSD','Interner Speicher','Kleinteileaufbewahrung','Kopfhörer','Kopfhörer & Zubehör','PlayStation 4','Schreibtischzubehör & Ablage','Smartwatches','Spielzeug','Sport','Sport & Freizeit','Sportelektronik','sony interactive entertainment', ]
+tags: [ '9373082031','Aktivitätstracker','Bauspielzeug & Konstruktionsspielzeug','Beauty','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Damendüfte','Datenspeicher','Düfte','Eau de Toilette für Damen','Elektronik & Foto','Federmäppchen','Games','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Interne SSD','Interner Speicher','Kfz-Handyladegeräte','Kleinteileaufbewahrung','Koffer, Rucksäcke & Taschen','Kofferorganizer','Kopfhörer','Kopfhörer & Zubehör','PlayStation 4','Produkte','Reise-Zubehör','Schreibtischzubehör & Ablage','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Smartwatches','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Sportelektronik','Wintersport','Zubehör','sony interactive entertainment', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0
