@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EXDG2MO-de TP-Link TL-SG108 V3 8-Ports Gigabit Netzwerk Switch bis...'
 sku: 'B01EXDG2MO-de'
-tags: [ 'Activewear für Herren','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Beleuchtung','Brettspiele','Computer & Zubehör','Damen-BHs','Damen-Jacken','Damen-Kleider','Damenbekleidung','Datenspeicher','Dessous, Nacht- & Lounge-Wäsche für Damen','Dinosaurier & prähistorische Kreaturen für Kinder','Drogerie & Körperpflege','Drucker & Zubehör','Einbauleuchten','Elektronik & Foto','Elektrorasierer','Elektrorasierer für Herren','Ersatzteile für Staubsauger','Fahrzeug Spielsets für Kinder','Folienrasierer für Herren','Freizeitkleider für Damen','Games','Handys & Smartphones','Handys & Zubehör','Haushaltsreiniger & Staubsauger','Herrenbekleidung','Hifi & Audio','In-Ear Ohrhörer','Innenbeleuchtung','Interne SSD','Interner Speicher','Jacken, Mäntel & Westen für Damen','Kinderspielfiguren & -fahrzeuge','Klassische BHs für Damen','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Media-Streaming','Media-Streaming-Clients','Motorfahrzeugspielsets für Kinder','Netzwerk-Switches','Netzwerkgeräte','Nintendo Switch','Puppen & Zubehör','Puppensets','Rasur & Enthaarung','Simlockfreie Handys','Spiele','Spiele für Nintendo Switch','Spielfiguren- & Fahrzeugsets für Kinder','Spielzeug','Spielzeugfiguren & Spielwelten','Sportsocken für Herren','T-Shirts für Herren','Toner','Tops, T-Shirts & Hemden für Herren','Unterwäsche & Dessous für Damen','Zubehör für Drucker','Zubehör für Staubsauger','tp-link', ]
+tags: [ '249195031','Activewear für Herren','Audiokabel','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Beleuchtung','Brettspiele','Computer','Computer & Zubehör','Damen-BHs','Damen-Jacken','Damen-Kleider','Damenbekleidung','Datenspeicher','Dekoartikel','Dessous, Nacht- & Lounge-Wäsche für Damen','Dinosaurier & prähistorische Kreaturen für Kinder','Drogerie & Körperpflege','Drucker & Zubehör','Einbauleuchten','Elektronik & Foto','Elektrorasierer','Elektrorasierer für Herren','Ersatzteile für Staubsauger','Fahrzeug Spielsets für Kinder','Fernseher & Heimkino','Folienrasierer für Herren','Freizeitkleider für Damen','Games','HDMI-Kabel','Handys & Smartphones','Handys & Zubehör','Haushaltsreiniger & Staubsauger','Heimkino, TV & Video Zubehör','Herrenbekleidung','Hifi & Audio','In-Ear Ohrhörer','Innenbeleuchtung','Interne Komponenten & Hardware','Interne SSD','Interner Speicher','Jacken, Mäntel & Westen für Damen','Kinderspielfiguren & -fahrzeuge','Klassische BHs für Damen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Media-Streaming','Media-Streaming-Clients','Motorfahrzeugspielsets für Kinder','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','Nintendo Switch','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Puppensets','Rasur & Enthaarung','Repeater','Router','Sicherheitstechnik','Simlockfreie Handys','Spiele','Spiele für Nintendo Switch','Spielfiguren- & Fahrzeugsets für Kinder','Spielzeug','Spielzeugfiguren & Spielwelten','Sportsocken für Herren','T-Shirts für Herren','Toner','Tops, T-Shirts & Hemden für Herren','Unterwäsche & Dessous für Damen','Videoüberwachungstechnik','Wohnaccessoires & Deko','Zubehör für Drucker','Zubehör für Staubsauger','tp-link','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 22.1 EUR
 currency: EUR
 price: 22.1
@@ -28,12 +28,12 @@ Es gibt ein [TP-Link TL-SG108 V3 8-Ports Gigabit Netzwerk Switch  bis 2000MBit/s
 
 ℹ️:
 
-- Metallgehäuse für Tischaufbau oder Wandmontage
-- Lieferumfang, TL-SG108, Schnellinstallationsanleitung, Netzteiladapter
+- Green-Ethernet zum Energiesparen
 - Unterstützt QoS nach IEEE802.1p sowie IGMP-Snooping
+- Lieferumfang, TL-SG108, Schnellinstallationsanleitung, Netzteiladapter
+- Plug-and-Play, keine Konfiguration notwendig
 - Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
 - 8 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
-- Plug-and-Play, keine Konfiguration notwendig
-- Green-Ethernet zum Energiesparen
+- Metallgehäuse für Tischaufbau oder Wandmontage
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01EXDG2MO/?tag=tolees0ca-21)

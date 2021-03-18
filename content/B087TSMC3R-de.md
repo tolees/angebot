@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Bluetooth Kopfhörer In Ear  Tribit 100H  mit 25.63 % Rabatt'
-date: 2021-02-20 16:12:28
-image: 'https://m.media-amazon.com/images/I/51j+-3zPq-L._SL200_.jpg'
+title: 'Bluetooth Kopfhörer in Ear  Tribit 100 S mit 15.00 % Rabatt'
+date: 2021-03-18 08:41:16
+image: 'https://m.media-amazon.com/images/I/51j+-3zPq-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B087TSMC3R-de Bluetooth Kopfhörer In Ear Tribit 100H Spielzeit Bluetooth...'
+author: 'tole.es'
+slug: 'B087TSMC3R-de Bluetooth Kopfhörer in Ear Tribit 100 Std. Spielzeit USB-C...'
 sku: 'B087TSMC3R-de'
-tags: [  ]
-actualPrice: 29.74 EUR
+tags: [ '249195031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Dekoartikel','Elektronik & Foto','In-Ear Ohrhörer','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Router','Spielzeug','Wohnaccessoires & Deko','tribit', ]
+actualPrice: 33.99 EUR
 currency: EUR
-price: 29.74
+price: 33.99
 comparePrice: 39.99 EUR
-prodname: 'Bluetooth Kopfhörer In Ear  Tribit 100H Spielzeit Bluetooth 5.0 IPX8 Wasserdicht Touch Kontrolle Echte Kabellose Kopfhörer mit Mic in-Ear Deep Bass Eingebautes Mic USB-C-Ladebox Flybuds 3'
+prodname: 'Bluetooth Kopfhörer in Ear  Tribit 100 Std. Spielzeit USB-C Ladebox Schnellladung  Bluetooth 5.0 IPX8 Wasserdicht  Touch Sensoren  in-Ear Deep Bass Eingebautes Mic Kabellose Kopfhörer  Flybuds 3'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Tribit'
 buyurl: 'https://www.amazon.de/dp/B087TSMC3R/?tag=tolees0ca-21'
-descuento: '25.63'
-average: '29.74'
+descuento: '15.00'
+average: '30.8025'
 ---
 
-Sie können [Bluetooth Kopfhörer In Ear  Tribit 100H Spielzeit Bluetooth 5.0 IPX8 Wasserdicht Touch Kontrolle Echte Kabellose Kopfhörer mit Mic in-Ear Deep Bass Eingebautes Mic USB-C-Ladebox Flybuds 3](https://www.amazon.de/dp/B087TSMC3R/?tag=tolees0ca-21) mit Preis 29.74 EUR (original: 39.99 EUR) 25.63 % Rabatt hier:
+Sie können [Bluetooth Kopfhörer in Ear  Tribit 100 Std. Spielzeit USB-C Ladebox Schnellladung  Bluetooth 5.0 IPX8 Wasserdicht  Touch Sensoren  in-Ear Deep Bass Eingebautes Mic Kabellose Kopfhörer  Flybuds 3](https://www.amazon.de/dp/B087TSMC3R/?tag=tolees0ca-21) mit Preis 33.99 EUR (original: 39.99 EUR) 15.00 % Rabatt hier:
 
-[![Bluetooth Kopfhörer In Ear  Tribit 100H ](https://m.media-amazon.com/images/I/51j+-3zPq-L._SL200_.jpg)](https://www.amazon.de/dp/B087TSMC3R/?tag=tolees0ca-21)
+[![Bluetooth Kopfhörer in Ear  Tribit 100 S](https://m.media-amazon.com/images/I/51j+-3zPq-L._SL400_.jpg)](https://www.amazon.de/dp/B087TSMC3R/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Ein-Schritt-Pairing (keine Notwendigkeit, die Ohrhörer herausnehmen) - Öffnen Sie die Ohrhörer-Ladehülle, sie werden automatisch mit dem letzten gekoppelten Gerät verbinden! Drücken Sie die Taste auf der Ladeschale, um den Akkustand anzuzeigen, oder halten Sie die Taste gedrückt, um das Pairing des Geräts für ein erneutes Pairing zu lösen.
-- Batterie Champ Echte Bluetooth-Kopfhörer sowohl für Telefonate, Musik und Video.Enthalten 6 Größen von Ohrstöpsel und 3 Größen von Ohrflossen, verfügt über eine Touchbedienung.
-- Immersive Sound-Kopfhörer mit Mikrofon - Flybuds 3 echte drahtlose Ohrhörer mit Hi-Fi-Stereo-Sound gut für Telefonate, Musik und Video. Sie können Ihr sehr klares Telefongespräch mit Ihrem Liebsten unabhängig in jeder lauten Umgebung genießen, Sie beide haben überhaupt kein Problem, sich gegenseitig zu hören.
-- Wasserdicht nach IPX8 - Die kabellosen Flybuds 3 Ohrhörer sind nach IPX8 geschützt und bieten Schutz vor Flüssigkeiten bei allen Wetterbedingungen.
-- Langlebige Batterie (100H Spielzeit) - Holen Sie sich bis zu 5hrs Musikwiedergabe pro Ladung und bis zu 100hrs mit dem Ladeetui für drahtlose Kopfhörer. Verwenden Sie das Schnellladen von USB-C, 10 Minuten Ladezeit für 1,5 Stunden Musik.
+- Power Bank mit Schnellladung - Die tragbare Ladebox Flybuds 3 kann als Power Bank verwendet werden, um Ihr Telefon im Notfall aufzuladen. kabellos Ladebox für Ohrhörer bietet alles, was Sie erwarten, sowie 100 Stunden Unterhaltungszeit.
+- Ein-Schritt-Pairing - Öffnen Sie den Ladekoffer für Ohrhörer, damit diese automatisch mit dem zuletzt gekoppelten Gerät verbunden werden! Drücken Sie die Taste am Ladekoffer, um den Batterieprozentsatz anzuzeigen, oder halten Sie sie gedrückt, um das Gerät für das erneute Pairing zu entkoppeln.
+- Überlegener Kraftvoller Bass - Tribit FlyBuds 3 kabellose Kopfhörer verfügen über 6-mm-Treiber für einen gestochen scharfen Klang mit einem Rumpeln druckvoller Bässe. Als ob du wirklich beim Konzert wärst! Enthält 6 Größen von Ohrstöpsel und 3 Größen von Ohrflossen. Bitte wählen Sie die richtige Größe für die beste Klangqualität.
+- IPX8 Wasserdicht - Flybuds 3 bluetooth kopfhörer verfügen über einen IPX8-Schutz, der bei jeder Witterung vor Flüssigkeiten schützt. Beste Wahl zum Laufen, Springen, Joggen, Klettern, Surfen und so weiter.
+- Immersive Sound-Kopfhörer mit Mikrofon - Flybuds 3 kopfhörer bluetooth mit HiFi-Stereo klingen gut für Anrufe, Musik und Videos. Sie können Ihren sehr klaren Anruf mit Ihrem Liebsten genießen, unabhängig von einer lauten Umgebung. Beide haben überhaupt kein Problem, sich gegenseitig zu hören.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087TSMC3R/?tag=tolees0ca-21)
