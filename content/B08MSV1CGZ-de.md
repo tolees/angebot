@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Sony Interactive Entertainment PS VR Sta mit 25.25 % Rabatt'
-date: 2021-03-16 18:32:53
+date: 2021-03-18 00:15:04
 image: 'https://m.media-amazon.com/images/I/31DCZXGm1EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08MSV1CGZ-de Sony Interactive Entertainment PS VR Starter Pack inkl. PS...'
 sku: 'B08MSV1CGZ-de'
-tags: [ 'sony interactive entertainment', ]
+tags: [ 'Aktivitätstracker','Bauspielzeug & Konstruktionsspielzeug','Beauty','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Damendüfte','Datenspeicher','Düfte','Eau de Toilette für Damen','Elektronik & Foto','Federmäppchen','Games','Handys & Zubehör','Interne SSD','Interner Speicher','Kleinteileaufbewahrung','Kopfhörer','Kopfhörer & Zubehör','PlayStation 4','Schreibtischzubehör & Ablage','Smartwatches','Spielzeug','Sport','Sport & Freizeit','Sportelektronik','sony interactive entertainment', ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Interactive Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08MSV1CGZ/?tag=tolees0ca-21'
 descuento: '25.25'
-average: '301.021935483871'
+average: '300.989841269841'
 ---
 
 Sie können [Sony Interactive Entertainment PS VR Starter Pack inkl. PS VR-Headset / PS Camera / PS Camera-Adapter / VR Worlds Gutscheincode](https://www.amazon.de/dp/B08MSV1CGZ/?tag=tolees0ca-21) mit Preis 299.0 EUR (original: 399.99 EUR) 25.25 % Rabatt hier:
