@@ -28,7 +28,7 @@ Es gibt ein [Pokémon: Let´s Go  Pikachu! - [Nintendo Switch]](https://www.amaz
 
 ℹ️:
 
-- Pikachu
 - Nintendo Switch Pokemon: Let´s Go
+- Pikachu
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07DF2CMP4/?tag=tolees0ca-21)

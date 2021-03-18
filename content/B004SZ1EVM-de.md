@@ -29,9 +29,9 @@ Sie können [Pentel EnerGel X BL107-AX Gel-Tintenroller  schwarz  0 7 mm Strichs
 ℹ️:
 
 - weich fließendes Schreiben
-- aus 84% recyceltem Kunstoff
-- trocknet blitzschnell
 - mit allen EnerGel Minen nachfüllbar (LRN5, LR7, LR10)
+- trocknet blitzschnell
+- aus 84% recyceltem Kunstoff
 - kein Verschmieren, auch für Linkshänder geeignet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004SZ1EVM/?tag=tolees0ca-21)

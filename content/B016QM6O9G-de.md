@@ -28,10 +28,10 @@ Sie können [Tommy Hilfiger Herren Baseball Cap CLASSIC BB  Gr. One size  Mitter
 
 ℹ️:
 
-- Material: 100% Baumwolle
+- Marke: Tommy Hilfiger
 - Außenmaße (LxBxH): 28cm x 20cm x 11cm
 - Serie: Classic
 - Außenmaße (LxBxH): 28cm x 20cm x 11cm
-- Marke: Tommy Hilfiger
+- Material: 100% Baumwolle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B016QM6O9G/?tag=tolees0ca-21)
