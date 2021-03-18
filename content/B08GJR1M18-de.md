@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GJR1M18-de Sunarrive Tetris und Hexagon Holzpuzzle für Kinder -...'
 sku: 'B08GJR1M18-de'
-tags: [ 'Activewear für Herren','Activewear-Shirts & Tops für Herren','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Bitsätze','Blu-ray','Bürobedarf & Schreibwaren','Chibi Figuren','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','Herrenbekleidung','Hobbys','Holzpuzzles','In-Ear Ohrhörer','Interner Speicher','Kabel','Kabel & Zubehör','Kaffee & Espresso','Kinderspielfiguren & -fahrzeuge','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Marker & Filzstifte','Netzteile für Handys','Permanent-Marker','Puzzles','Sammelfiguren','Sammelfiguren & Requisiten','Schraubendreher-Zubehör','Schreibwaren','Science Fiction','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spülmaschinenreinigung','Tablet PCs','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','USB-Kabel','Wackelkopffiguren','Zubehör','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte','sunarrive', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

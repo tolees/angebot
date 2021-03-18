@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NHDALJC-de devolo dLAN 1200+ WiFi ac Powerline 1200 Mbit/s WLAN ac 2...'
 sku: 'B00NHDALJC-de'
-tags: [ 'PowerLAN-Adapter','devolo', ]
 actualPrice: 102.49 EUR
 currency: EUR
 price: 102.49

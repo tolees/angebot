@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TQYLB9P-de FIRERO Fitnessreifen Intelligenter Einstellbarer Breiter...'
 sku: 'B08TQYLB9P-de'
-tags: [  ]
 actualPrice: 15.44 EUR
 currency: EUR
 price: 15.44

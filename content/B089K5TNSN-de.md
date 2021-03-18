@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089K5TNSN-de Ulefone Note 8P Smartphone Android 10-4G Dual SIM Billig...'
 sku: 'B089K5TNSN-de'
-tags: [ 'ulefone', ]
 actualPrice: 63.28 EUR
 currency: EUR
 price: 63.28

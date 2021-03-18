@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPSDWJ1-de Funko 36661 POP Bobble: Avengers Endgame: Captain America...'
 sku: 'B07KPSDWJ1-de'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

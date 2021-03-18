@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XSXKMG-de LG Electronics - LG 75UN71006LC 189 cm 75 Zoll UHD...'
 sku: 'B084XSXKMG-de'
-tags: [  ]
 actualPrice: 849.0 EUR
 currency: EUR
 price: 849.0

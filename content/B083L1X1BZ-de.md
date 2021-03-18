@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083L1X1BZ-de Sylvanian Families 5454 Wohnmobil - Puppenhaus Auto Spielset'
 sku: 'B083L1X1BZ-de'
-tags: [  ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

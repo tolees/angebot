@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DQ1MKTF-de LG Electronics SPK8 Lautsprecher-Systeme Schwarz'
 sku: 'B07DQ1MKTF-de'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

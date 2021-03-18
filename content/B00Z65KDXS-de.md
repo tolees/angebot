@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Z65KDXS-de KitchenCraft Living Nostalgia Metall Küche...'
 sku: 'B00Z65KDXS-de'
-tags: [  ]
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

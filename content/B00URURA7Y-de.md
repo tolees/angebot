@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00URURA7Y-de Kis Chic bin Style Abfallbehälter 30-35L mit Pedal und...'
 sku: 'B00URURA7Y-de'
-tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

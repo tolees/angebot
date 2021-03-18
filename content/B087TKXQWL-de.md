@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087TKXQWL-de Beamer Full HD WLAN Bluetooth - Artlii Energon2 8000 Lumen...'
 sku: 'B087TKXQWL-de'
-tags: [  ]
 actualPrice: 246.49 EUR
 currency: EUR
 price: 246.49

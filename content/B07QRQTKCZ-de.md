@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QRQTKCZ-de UGREEN 20W USB C Ladegerät USB C Netzteil PD 3.0 USB C...'
 sku: 'B07QRQTKCZ-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','DVD & Blu-ray','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','In-Ear Ohrhörer','Kaffee & Espresso','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Netzteile für Handys','Schraubendreher-Zubehör','Science Fiction','Spielzeug','Spülmaschinenreinigung','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte','ugreen', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

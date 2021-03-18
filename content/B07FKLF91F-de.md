@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKLF91F-de Warner Bros Universal Pictures - Harry Potter 4K Complete...'
 sku: 'B07FKLF91F-de'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

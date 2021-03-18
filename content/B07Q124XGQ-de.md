@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q124XGQ-de LG Electronics - LG 32LM6300PLA 80 cm 32 Zoll Fernseher...'
 sku: 'B07Q124XGQ-de'
-tags: [  ]
 actualPrice: 267.06 EUR
 currency: EUR
 price: 267.06

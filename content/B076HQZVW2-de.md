@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQZVW2-de Adidas Herren Core 18 Trainingshose Black/White XL'
 sku: 'B076HQZVW2-de'
-tags: [  ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

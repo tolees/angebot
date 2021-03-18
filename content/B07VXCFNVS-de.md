@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXCFNVS-de Kingston A2000 SA2000M8/500G SSD NVMe PCIe M.2 2280 500GB'
 sku: 'B07VXCFNVS-de'
-tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

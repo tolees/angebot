@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000EGSGQA-de VARTA Longlife D Mono LR20 Batterie 6er Pack Alkaline...'
 sku: 'B000EGSGQA-de'
-tags: [  ]
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

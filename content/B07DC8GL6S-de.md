@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DC8GL6S-de Sloggi Damen Bustier Zero Feel Bralette Rosa Angora 6308 L'
 sku: 'B07DC8GL6S-de'
-tags: [  ]
 actualPrice: 29.65 EUR
 currency: EUR
 price: 29.65

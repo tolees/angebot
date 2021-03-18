@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071P56FTZ-de ONLY Female Oberteil mit 3/4-Ärmeln Bedrucktes XLLight...'
 sku: 'B071P56FTZ-de'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

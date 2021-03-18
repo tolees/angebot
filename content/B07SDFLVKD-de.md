@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SDFLVKD-de Microsoft - Xbox Wireless Controller Carbon Black'
 sku: 'B07SDFLVKD-de'
-tags: [  ]
 actualPrice: 56.42 EUR
 currency: EUR
 price: 56.42

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082YLPFCT-de Superdry Mens VL NS Hood Hooded Sweatshirt Midnight Blue...'
 sku: 'B082YLPFCT-de'
-tags: [  ]
 actualPrice: 53.94 EUR
 currency: EUR
 price: 53.94

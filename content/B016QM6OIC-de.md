@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016QM6OIC-de Tommy Hilfiger Herren Baseball Cap CLASSIC BB Gr. One size...'
 sku: 'B016QM6OIC-de'
-tags: [  ]
 actualPrice: 21.1 EUR
 currency: EUR
 price: 21.1

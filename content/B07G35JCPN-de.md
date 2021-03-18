@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G35JCPN-de Match L.O.L. Surprise'
 sku: 'B07G35JCPN-de'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

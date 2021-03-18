@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B8GKZ9G-de JBL GO 2 kleine Musikbox in Schwarz - Wasserfester...'
 sku: 'B07B8GKZ9G-de'
-tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

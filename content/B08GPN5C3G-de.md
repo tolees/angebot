@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPN5C3G-de Samsung Galaxy S20 FE 5G Android Smartphone ohne Vertrag 6...'
 sku: 'B08GPN5C3G-de'
-tags: [  ]
 actualPrice: 619.0 EUR
 currency: EUR
 price: 619.0

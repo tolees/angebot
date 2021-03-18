@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WFJ9HV7-de Rising Star - Harvest Moon Mad Dash [Nintendo Switch]'
 sku: 'B07WFJ9HV7-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

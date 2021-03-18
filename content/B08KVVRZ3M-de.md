@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVVRZ3M-de Lenovo Smart Tab M10 HD Plus mit Amazon Alexa 25 5 cm 10 1...'
 sku: 'B08KVVRZ3M-de'
-tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

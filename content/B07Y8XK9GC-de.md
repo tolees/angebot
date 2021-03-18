@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y8XK9GC-de Xiaomi Redmi Note 8 Pro Smartphone 16 59cm 6 53 Zoll FHD+...'
 sku: 'B07Y8XK9GC-de'
-tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NGTH95K-de Grundig Multi-Zerkleinerer 0 5 L Plastic Delisia'
 sku: 'B01NGTH95K-de'
-tags: [  ]
 actualPrice: 32.6 EUR
 currency: EUR
 price: 32.6

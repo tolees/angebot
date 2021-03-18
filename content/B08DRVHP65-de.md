@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRVHP65-de Samsung Galaxy Tab A7 WiFi - Tablet 32GB 3GB RAM Dark Gray...'
 sku: 'B08DRVHP65-de'
-tags: [  ]
 actualPrice: 211.61 EUR
 currency: EUR
 price: 211.61

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085RSS3S5-de BAOLESEM Sicherheitsschuhe Herren S3 Arbeitsschuhe Herren...'
 sku: 'B085RSS3S5-de'
-tags: [  ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

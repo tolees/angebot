@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PX42RQT-de Nokia Smart TV 3200A 32 Zoll 80 cm LED Fernseher Full HD...'
 sku: 'B08PX42RQT-de'
-tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

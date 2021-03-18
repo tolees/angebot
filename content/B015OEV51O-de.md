@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015OEV51O-de Zoch 601105081 - Heckmeck Extrawurm das Erweiterungsset...'
 sku: 'B015OEV51O-de'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

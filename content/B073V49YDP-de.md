@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073V49YDP-de Schiesser Damen Zweiteiliger Schlafanzug Anzug lang 161069...'
 sku: 'B073V49YDP-de'
-tags: [ 'schiesser', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

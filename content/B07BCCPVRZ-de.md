@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BCCPVRZ-de Pandora Moments Blaue Welle Charm Sterling Silber 797012ENMX'
 sku: 'B07BCCPVRZ-de'
-tags: [  ]
 actualPrice: 38.17 EUR
 currency: EUR
 price: 38.17

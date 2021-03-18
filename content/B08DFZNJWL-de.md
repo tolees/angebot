@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DFZNJWL-de VATOS Holz Konstruktionsspielzeug Pädagogisches Montessori...'
 sku: 'B08DFZNJWL-de'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NCWDQBH-de Superzings - SuperThings Power Machine Display 50 Stück...'
 sku: 'B08NCWDQBH-de'
-tags: [  ]
 actualPrice: 29.29 EUR
 currency: EUR
 price: 29.29

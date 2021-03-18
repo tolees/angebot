@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PW9VBK5-de Amazon - Fire TV Stick 4K Ultra HD mit Alexa-...'
 sku: 'B07PW9VBK5-de'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

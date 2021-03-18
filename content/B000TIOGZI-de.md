@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000TIOGZI-de reisenthel carrycruiser OE7003 black – Einkaufstrolley mit...'
 sku: 'B000TIOGZI-de'
-tags: [  ]
 actualPrice: 83.19 EUR
 currency: EUR
 price: 83.19

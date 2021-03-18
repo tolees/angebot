@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Y2W7CQ-de HolyHigh Bluetooth Kopfhörer Sportkopfhörer Bluetooth 5.0...'
 sku: 'B089Y2W7CQ-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

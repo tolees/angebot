@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6GN2VQ-de LEGO 17101 Boost Programmierbares Roboticset 5-in-1 App-...'
 sku: 'B06X6GN2VQ-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug','lego', ]
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

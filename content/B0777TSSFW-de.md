@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777TSSFW-de Funko 28632 S4 Demogorgon POP Vinylfigur: Stranger Things:...'
 sku: 'B0777TSSFW-de'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

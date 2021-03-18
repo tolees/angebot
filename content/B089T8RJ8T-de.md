@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089T8RJ8T-de YiLFo - Haarschneidemaschine Profi Haarschneider Herren...'
 sku: 'B089T8RJ8T-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

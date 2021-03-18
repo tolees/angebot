@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WLP8S9D-de Fengyiyuda Kompatibel mit Apple Watch Armband 38mm 40mm...'
 sku: 'B08WLP8S9D-de'
-tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QKK1S5X-de Finish Maschinenpfleger Tabs – Spülmaschinentabs gegen...'
 sku: 'B07QKK1S5X-de'
-tags: [  ]
 actualPrice: 8.27 EUR
 currency: EUR
 price: 8.27

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B42N6RG-de Sony SRS-XB33 tragbarer kabelloser Bluetooth Lautsprecher...'
 sku: 'B08B42N6RG-de'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

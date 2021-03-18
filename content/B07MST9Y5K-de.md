@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MST9Y5K-de Razer Kraken - Gaming Headset mit Kühlenden Gel-...'
 sku: 'B07MST9Y5K-de'
-tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

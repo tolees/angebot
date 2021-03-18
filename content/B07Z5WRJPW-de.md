@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5WRJPW-de DVD Brenner extern SAWAKE DVD Laufwerk extern USB-A& USB C...'
 sku: 'B07Z5WRJPW-de'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YF1TWBV-de Richter Kinderschuhe Jungen Junior Sneaker Blau...'
 sku: 'B07YF1TWBV-de'
-tags: [ 'richter kinderschuhe', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

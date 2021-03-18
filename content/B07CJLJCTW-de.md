@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJLJCTW-de ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke Schwarz...'
 sku: 'B07CJLJCTW-de'
-tags: [  ]
 actualPrice: 34.88 EUR
 currency: EUR
 price: 34.88

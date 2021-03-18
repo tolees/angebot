@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M6POLUM-de Philips Avent Aufbewahrungsbecher für Babynahrung 20er...'
 sku: 'B00M6POLUM-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

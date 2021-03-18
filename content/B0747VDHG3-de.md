@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0747VDHG3-de OSRAM Smart+ LED ZigBee Lampe mit E14 Sockel warmweiß bis...'
 sku: 'B0747VDHG3-de'
-tags: [  ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

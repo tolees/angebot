@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FMGSVGM-de Tommy Hilfiger Herren-Armbanduhr Cooper'
 sku: 'B07FMGSVGM-de'
-tags: [  ]
 actualPrice: 77.83 EUR
 currency: EUR
 price: 77.83

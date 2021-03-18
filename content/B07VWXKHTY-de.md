@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWXKHTY-de Asus PCE-AX58BT PCIe-Karte Bluetooth 5.0 + Wi-Fi 6 AX3000...'
 sku: 'B07VWXKHTY-de'
-tags: [  ]
 actualPrice: 59.07 EUR
 currency: EUR
 price: 59.07

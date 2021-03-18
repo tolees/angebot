@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MTMBMR-de PUMA Damen Smash WNS v2 L Zapatillas Black Black 39 EU'
 sku: 'B077MTMBMR-de'
-tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

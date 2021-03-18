@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BYG3PC4-de Nike T-Lite XI Herren Sneakers Schwarz Black/Black-...'
 sku: 'B00BYG3PC4-de'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

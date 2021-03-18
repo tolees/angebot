@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081J8WJR9-de McFarlane Toys Cyberpunk 2077 Action Figure Johnny 18 cm...'
 sku: 'B081J8WJR9-de'
-tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

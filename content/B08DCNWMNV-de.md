@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCNWMNV-de GoMaihe 1.6L Vorratsdosen 10 Set Aufbewahrungsbox Küche...'
 sku: 'B08DCNWMNV-de'
-tags: [  ]
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

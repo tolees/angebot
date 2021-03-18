@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GILX4YI-de Calvin Klein Damen Bustier Bralette Lift BH Weiß White 100 S'
 sku: 'B01GILX4YI-de'
-tags: [  ]
 actualPrice: 35.62 EUR
 currency: EUR
 price: 35.62

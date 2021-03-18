@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MWDP1VD-de Sony Alpha 6400 | APS-C Spiegellose Kamera mit Sony...'
 sku: 'B07MWDP1VD-de'
-tags: [  ]
 actualPrice: 969.0 EUR
 currency: EUR
 price: 969.0

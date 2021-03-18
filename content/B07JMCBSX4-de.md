@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMCBSX4-de PLAYMOBIL City Life 70014 Mein Stadthaus Ab 4 Jahren'
 sku: 'B07JMCBSX4-de'
-tags: [  ]
 actualPrice: 34.01 EUR
 currency: EUR
 price: 34.01

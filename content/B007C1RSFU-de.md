@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007C1RSFU-de Gardena G2777-20 Reductor Standard'
 sku: 'B007C1RSFU-de'
-tags: [  ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

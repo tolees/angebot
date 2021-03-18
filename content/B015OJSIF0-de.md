@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015OJSIF0-de PUMA Unisex Icra Trainer SD Sneaker Black-White 42 EU'
 sku: 'B015OJSIF0-de'
-tags: [  ]
 actualPrice: 37.71 EUR
 currency: EUR
 price: 37.71

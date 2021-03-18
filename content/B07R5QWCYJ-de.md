@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5QWCYJ-de Simple Minds - Street Fighting Years Super Deluxe'
 sku: 'B07R5QWCYJ-de'
-tags: [  ]
 actualPrice: 30.45 EUR
 currency: EUR
 price: 30.45

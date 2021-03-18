@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087TSMC3R-de Bluetooth Kopfhörer in Ear Tribit 100 Std. Spielzeit USB-C...'
 sku: 'B087TSMC3R-de'
-tags: [ 'In-Ear Ohrhörer','tribit', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

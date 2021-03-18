@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017OOZHXO-de UNIVERSAL CLASSIC A - Downton Abbey: The Ultimate Collection'
 sku: 'B017OOZHXO-de'
-tags: [  ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

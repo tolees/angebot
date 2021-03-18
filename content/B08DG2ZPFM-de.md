@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DG2ZPFM-de HolyHigh Bluetooth Kopfhörer In Ear Sport IPX7 Wasserdicht...'
 sku: 'B08DG2ZPFM-de'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

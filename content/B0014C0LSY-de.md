@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0014C0LSY-de Crocs Unisex Classic Clog Black 39/40 EU'
 sku: 'B0014C0LSY-de'
-tags: [  ]
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

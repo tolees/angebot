@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3JCG8Z-de SanDisk Extreme Pro 256GB microSDXC Memory Card + SD...'
 sku: 'B07G3JCG8Z-de'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

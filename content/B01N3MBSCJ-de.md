@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N3MBSCJ-de AMD – FirePro Radeon Pro WX 5100 8 GB PCIe 3.0 16 x 4 x DP...'
 sku: 'B01N3MBSCJ-de'
-tags: [  ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

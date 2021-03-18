@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087QRVVVH-de Crucial P5 CT1000P5SSD8 1 TB Solid State Laufwerk 3D NAND...'
 sku: 'B087QRVVVH-de'
-tags: [  ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

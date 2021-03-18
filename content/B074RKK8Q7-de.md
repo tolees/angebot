@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074RKK8Q7-de POC Orb Clarity Uranium Black/Spektris Orange ONE SIZE'
 sku: 'B074RKK8Q7-de'
-tags: [  ]
 actualPrice: 144.13 EUR
 currency: EUR
 price: 144.13

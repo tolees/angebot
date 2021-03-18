@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086X1RVF2-de JBL Tune 125 TWS In-Ear Bluetooth-Kopfhörer in Schwarz -...'
 sku: 'B086X1RVF2-de'
-tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

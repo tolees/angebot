@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0749VXFNZ-de MASSACRE RECORDS - Rock N Roll Warmachine'
 sku: 'B0749VXFNZ-de'
-tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

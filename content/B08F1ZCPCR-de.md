@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F1ZCPCR-de HANPURE - Adventskalender Männer 2020 Geschenke für Männer...'
 sku: 'B08F1ZCPCR-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

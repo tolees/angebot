@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NONX8PY-de Tommy Hilfiger Herren NEW DENTON BELT Gürtel Schwarz BLACK...'
 sku: 'B00NONX8PY-de'
-tags: [  ]
 actualPrice: 27.93 EUR
 currency: EUR
 price: 27.93

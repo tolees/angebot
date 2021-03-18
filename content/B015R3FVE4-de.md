@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015R3FVE4-de PINOFIT - Pinotape Sport kinesiologisches Tape...'
 sku: 'B015R3FVE4-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

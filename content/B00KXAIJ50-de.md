@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KXAIJ50-de SILVA - The Music of Hans Zimmer: the Definitive Collection'
 sku: 'B00KXAIJ50-de'
-tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

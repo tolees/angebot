@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNS6J8V-de LEGO 60216 City Feuerwehr in der Stadt Bauset mit...'
 sku: 'B07FNS6J8V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug','lego', ]
 actualPrice: 72.9 EUR
 currency: EUR
 price: 72.9

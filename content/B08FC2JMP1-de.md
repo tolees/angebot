@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FC2JMP1-de Februarys Ohrringe damen Liebe Herz Zirkonia Ohrstecker...'
 sku: 'B08FC2JMP1-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

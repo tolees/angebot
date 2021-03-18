@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071HXZX2C-de Seagate Game Drive Xbox GamePass Edition tragbare externe...'
 sku: 'B071HXZX2C-de'
-tags: [  ]
 actualPrice: 100.85 EUR
 currency: EUR
 price: 100.85

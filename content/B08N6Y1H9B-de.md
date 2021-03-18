@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08N6Y1H9B-de DYON Smart 42 AD 105 4 cm 42 Zoll Fernseher Full-HD HD...'
 sku: 'B08N6Y1H9B-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Simlockfreie Handys','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','dyon', ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

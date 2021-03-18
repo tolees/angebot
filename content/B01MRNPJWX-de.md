@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MRNPJWX-de ASICS Herren Gel-Quantum 360 Knit T728N-9099 Turnschuhe...'
 sku: 'B01MRNPJWX-de'
-tags: [  ]
 actualPrice: 158.88 EUR
 currency: EUR
 price: 158.88

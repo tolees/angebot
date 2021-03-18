@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FKZW8W-de PLAYMOBIL Princess 70447 Großes Prinzessinnenschloss mit...'
 sku: 'B085FKZW8W-de'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DFQ8K6-de Warner Bros Entertainment - Nightlife'
 sku: 'B084DFQ8K6-de'
-tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

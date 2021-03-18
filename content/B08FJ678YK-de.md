@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FJ678YK-de Levoit Luftreiniger Wlan Rauchzimmer Alexa-kompatibel H13...'
 sku: 'B08FJ678YK-de'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

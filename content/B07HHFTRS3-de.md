@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HHFTRS3-de TECKIN Smart Wlan Steckdose 16A Wifi Intelligente Mini...'
 sku: 'B07HHFTRS3-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

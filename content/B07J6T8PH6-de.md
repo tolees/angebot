@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J6T8PH6-de Intel Next Unit of Computing Kit NUC8i7BEH2- Barebone -...'
 sku: 'B07J6T8PH6-de'
-tags: [  ]
 actualPrice: 58.9 EUR
 currency: EUR
 price: 58.9

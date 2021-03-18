@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNBDKW8-de Hoseili Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit...'
 sku: 'B08BNBDKW8-de'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

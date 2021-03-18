@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08L8P5QFG-de Arbily Bluetooth Kopfhörer Sport G5 Sportkopfhörer...'
 sku: 'B08L8P5QFG-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Beleuchtung','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Dekorative Leuchtmittel','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Experimentieren & Forschen','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Forschen & Entdecken: Solarenergie','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO Steine & Co.','Leuchtmittel','Netzwerkgeräte','PowerLAN-Adapter','Produkte','Repeater','Simlockfreie Handys','Speziallampen','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Sport-Kopfhörer','Weiß- & Vollwäsche','Wäschepflege','arbily', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

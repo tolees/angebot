@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WK9WQRP-de ZZXIAN Smart Fitness und Massage Hu-la-Ho-op mit...'
 sku: 'B08WK9WQRP-de'
-tags: [  ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

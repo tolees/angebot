@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H57VJ5W-de Fossil Smartwatch FTW4017'
 sku: 'B07H57VJ5W-de'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

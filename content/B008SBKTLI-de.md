@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008SBKTLI-de Lancôme La Vie Est Belle femme/ woman Eau de Parfum 1er...'
 sku: 'B008SBKTLI-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

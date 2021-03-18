@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N47QSCV-de Salewa Herren MS Alp Trainer Mid Gore-TEX Trekking- &...'
 sku: 'B07N47QSCV-de'
-tags: [  ]
 actualPrice: 149.43 EUR
 currency: EUR
 price: 149.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B144CJM-de Rollei Lensball 90mm I Glaskugel I Kristallkugel I Foto-...'
 sku: 'B07B144CJM-de'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

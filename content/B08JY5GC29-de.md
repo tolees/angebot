@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JY5GC29-de Mpow Flame Solo Bluetooth Kopfhörer BASS+ In-Ear Sport-...'
 sku: 'B08JY5GC29-de'
-tags: [ 'mpow', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

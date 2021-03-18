@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YCV85M4-de Denon DHT-S516H leistungsstarkes 2.1-Kanal Soundbar System...'
 sku: 'B07YCV85M4-de'
-tags: [  ]
 actualPrice: 479.0 EUR
 currency: EUR
 price: 479.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QKLHG-de LEGO 31200 Art Star Wars: Die Sith – Kunstbild Set Poster...'
 sku: 'B0813QKLHG-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug','lego', ]
 actualPrice: 87.9 EUR
 currency: EUR
 price: 87.9

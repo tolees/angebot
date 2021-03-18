@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JZT6ZY9-de Arlo Smart Chime kabellose Klingel für Arlo Doorbell...'
 sku: 'B07JZT6ZY9-de'
-tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

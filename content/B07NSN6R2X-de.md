@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSN6R2X-de Funko 39547 POP Vinyl Squarepants S3: Spongebob...'
 sku: 'B07NSN6R2X-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

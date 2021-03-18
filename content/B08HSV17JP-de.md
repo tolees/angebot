@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HSV17JP-de Ubisoft - Immortals Fenyx Rising - Gold Edition - [Xbox...'
 sku: 'B08HSV17JP-de'
-tags: [  ]
 actualPrice: 55.79 EUR
 currency: EUR
 price: 55.79

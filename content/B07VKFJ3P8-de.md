@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VKFJ3P8-de Nintendo Orginal Bifold Standard Black'
 sku: 'B07VKFJ3P8-de'
-tags: [  ]
 actualPrice: 15.03 EUR
 currency: EUR
 price: 15.03

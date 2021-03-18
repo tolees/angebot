@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L4S9ASO-de Goldwell Sign Superego Styling Creme 1er Pack 1x 75 ml'
 sku: 'B01L4S9ASO-de'
-tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

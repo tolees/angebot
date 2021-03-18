@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QG2CS75-de BRIKSMAX Led Beleuchtungsset für Architecture London...'
 sku: 'B07QG2CS75-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

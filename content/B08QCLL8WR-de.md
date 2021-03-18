@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QCLL8WR-de N\A - Mini Kamera 1080P HD Mini Überwachungskamera Lange...'
 sku: 'B08QCLL8WR-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

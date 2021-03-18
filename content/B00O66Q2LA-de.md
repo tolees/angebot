@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O66Q2LA-de Bose ® WB-120 Wandhalterung schwarz'
 sku: 'B00O66Q2LA-de'
-tags: [  ]
 actualPrice: 10.15 EUR
 currency: EUR
 price: 10.15

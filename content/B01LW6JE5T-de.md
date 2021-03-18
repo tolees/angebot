@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LW6JE5T-de DISNEY BADETUCH FROZEN DIE EISKÖNIGIN VÖLLIG UNVERFROREN...'
 sku: 'B01LW6JE5T-de'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CB6RXRX-de Funko 52870 POP Star Wars: Valentines-Yoda w/Heart...'
 sku: 'B08CB6RXRX-de'
-tags: [ 'funko', ]
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

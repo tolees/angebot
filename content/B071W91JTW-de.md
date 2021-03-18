@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071W91JTW-de Invision TV Wandhalterung für 37-70 Zoll Bildschirme...'
 sku: 'B071W91JTW-de'
-tags: [ 'invision', ]
 actualPrice: 48.44 EUR
 currency: EUR
 price: 48.44

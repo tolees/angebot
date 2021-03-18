@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MRQ9FTS-de Nintendo Switch Lite Türkis & Animal Crossing: New...'
 sku: 'B08MRQ9FTS-de'
-tags: [  ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

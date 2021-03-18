@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ND6CFHZ-de LEGO 42099 Technic Control+ 4x4 Allrad Xtreme-Geländewagen...'
 sku: 'B07ND6CFHZ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 164.9 EUR
 currency: EUR
 price: 164.9

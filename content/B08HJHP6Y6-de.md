@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HJHP6Y6-de Xiaomi Mi 10T 6GB+128GB lunar Silver ohne Simlock Alexa...'
 sku: 'B08HJHP6Y6-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Simlockfreie Handys','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','xiaomi', ]
 actualPrice: 365.0 EUR
 currency: EUR
 price: 365.0

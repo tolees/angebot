@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KUZ1EBI-de Soufeel Personalisiert Photo Charms Damen Beads Anhänger...'
 sku: 'B01KUZ1EBI-de'
-tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

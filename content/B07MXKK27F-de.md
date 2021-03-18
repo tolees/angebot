@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXKK27F-de Schöffel Damen Pants Ascona Zip Off leichte und...'
 sku: 'B07MXKK27F-de'
-tags: [  ]
 actualPrice: 46.54 EUR
 currency: EUR
 price: 46.54

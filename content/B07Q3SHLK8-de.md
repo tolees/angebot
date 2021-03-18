@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3SHLK8-de Diesel Herren Chronograph Quarz Uhr mit Nylon Armband DZ4512'
 sku: 'B07Q3SHLK8-de'
-tags: [  ]
 actualPrice: 132.09 EUR
 currency: EUR
 price: 132.09

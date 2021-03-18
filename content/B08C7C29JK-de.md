@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7C29JK-de Donerton - Bluetooth 5.1 Kopfhörer Sport IPX7 Wasserdicht...'
 sku: 'B08C7C29JK-de'
-tags: [  ]
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

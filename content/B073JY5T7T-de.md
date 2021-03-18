@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073JY5T7T-de SanDisk Ultra 200GB MicroSDXC Speicherkarte + SD-Adapter...'
 sku: 'B073JY5T7T-de'
-tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

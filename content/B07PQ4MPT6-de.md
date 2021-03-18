@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PQ4MPT6-de Samsung C49RG94SSU 124 20 cm 49 Zoll Curved Gaming Monitor...'
 sku: 'B07PQ4MPT6-de'
-tags: [  ]
 actualPrice: 1034.99 EUR
 currency: EUR
 price: 1034.99

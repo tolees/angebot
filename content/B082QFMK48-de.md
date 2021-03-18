@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QFMK48-de Predator XB273GXbmiiprzx Gaming G-SYNC Compatible 27 Zoll...'
 sku: 'B082QFMK48-de'
-tags: [  ]
 actualPrice: 319.2 EUR
 currency: EUR
 price: 319.2

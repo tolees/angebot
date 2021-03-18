@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G55R2RH-de LEGO 43189 Disney Princess Frozen 2 Elsas Märchenbuch...'
 sku: 'B08G55R2RH-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

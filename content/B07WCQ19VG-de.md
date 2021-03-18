@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WCQ19VG-de Salomon Herren XA PRO 3D V8 GTX Leichte Schuhe für Trail...'
 sku: 'B07WCQ19VG-de'
-tags: [  ]
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

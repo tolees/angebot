@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NVD398H-de ESR7GEARS Unterbauleuchte Küche - 2er Pack 20-LED...'
 sku: 'B07NVD398H-de'
-tags: [  ]
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

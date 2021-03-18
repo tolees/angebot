@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NPJYC98-de The Polydor Years 1986-1992 Ltd Edt Boxset'
 sku: 'B00NPJYC98-de'
-tags: [  ]
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

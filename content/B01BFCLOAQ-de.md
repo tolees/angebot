@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BFCLOAQ-de Tommy Hilfiger Damen Analog Quarz Uhr mit Edelstahl...'
 sku: 'B01BFCLOAQ-de'
-tags: [  ]
 actualPrice: 107.9 EUR
 currency: EUR
 price: 107.9

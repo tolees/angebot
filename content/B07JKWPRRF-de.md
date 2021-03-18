@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKWPRRF-de Playmobil 70025 Figures Boys Serie 15 bunt'
 sku: 'B07JKWPRRF-de'
-tags: [  ]
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

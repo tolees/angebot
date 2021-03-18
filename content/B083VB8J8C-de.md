@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083VB8J8C-de Desigual Damen Vest praga Casual Dress Schwarz XL EU'
 sku: 'B083VB8J8C-de'
-tags: [ '249195031','Audiokabel','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Computer','Computer & Zubehör','Damen-Kleider','Damenbekleidung','Dekoartikel','Elektronik & Foto','Fernseher & Heimkino','Freizeitkleider für Damen','HDMI-Kabel','Heimkino, TV & Video Zubehör','In-Ear Ohrhörer','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Router','Sicherheitstechnik','Spielzeug','Videoüberwachungstechnik','Wohnaccessoires & Deko','desigual','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

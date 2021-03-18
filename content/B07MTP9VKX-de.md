@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MTP9VKX-de VERBATIM Externer Slimline Blu-ray-Writer I USB 3.2 Gen 1...'
 sku: 'B07MTP9VKX-de'
-tags: [  ]
 actualPrice: 79.91 EUR
 currency: EUR
 price: 79.91

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SWT9YM-de Nike Metal Swoosh H86 Cap weiß One Size'
 sku: 'B077SWT9YM-de'
-tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVVNCDB-de PLAYMOBIL City Life 70542 Im Stadtpark Ab 4 Jahren'
 sku: 'B08KVVNCDB-de'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

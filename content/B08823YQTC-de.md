@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08823YQTC-de OPPO Find X2 Lite Smartphone 16 3 cm 6 4 Zoll 128 GB...'
 sku: 'B08823YQTC-de'
-tags: [  ]
 actualPrice: 289.0 EUR
 currency: EUR
 price: 289.0

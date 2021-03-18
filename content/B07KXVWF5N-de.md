@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KXVWF5N-de Reebok Herren Club C 1985 TV Sneaker Chalk/Paperwhite/Glen...'
 sku: 'B07KXVWF5N-de'
-tags: [  ]
 actualPrice: 71.15 EUR
 currency: EUR
 price: 71.15

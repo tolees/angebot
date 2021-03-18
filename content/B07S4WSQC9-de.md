@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4WSQC9-de Levi s Damen Ls Baby Tee T-Shirt Caviar 0014 Large'
 sku: 'B07S4WSQC9-de'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

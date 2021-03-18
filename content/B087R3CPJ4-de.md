@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087R3CPJ4-de LG Electronics - LG XBOOM Go PL5 tragbarer Bluetooth-...'
 sku: 'B087R3CPJ4-de'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

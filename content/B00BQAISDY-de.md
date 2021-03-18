@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BQAISDY-de Solutions2Go - S2G UNI1017 - Digitaler Alkohol-Tester...'
 sku: 'B00BQAISDY-de'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

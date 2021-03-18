@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002KQI2MK-de Mepal Abfallbehälter Calypso Silber – 2200 ml – ideal für...'
 sku: 'B002KQI2MK-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

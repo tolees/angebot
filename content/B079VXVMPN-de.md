@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079VXVMPN-de Jacobs Kaffeebohnen Barista Editions Crema 1 kg Bohnenkaffee'
 sku: 'B079VXVMPN-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZCVZ72-de Cars 1 + Cars 2 + Cars 3 [Blu-ray]'
 sku: 'B077ZCVZ72-de'
-tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

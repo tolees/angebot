@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VVSJTK-de Samsung T7 Touch Portable SSD - 500 GB - USB 3.2 Gen.2...'
 sku: 'B082VVSJTK-de'
-tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

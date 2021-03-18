@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EJLV5K0-de Pentel EnerGel-Xm Gelschreiber/Tintenroller einziehbar 0 7...'
 sku: 'B00EJLV5K0-de'
-tags: [  ]
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

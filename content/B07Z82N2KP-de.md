@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z82N2KP-de Ögon Smart Wallets - Cascade Slim Wallet - Automatische...'
 sku: 'B07Z82N2KP-de'
-tags: [ 'ögon smart wallets', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083NX7DKB-de ENACFIRE Bluetooth Kopfhörer E60 kabellos Ohrhörer mit...'
 sku: 'B083NX7DKB-de'
-tags: [  ]
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08P95B5FR-de Samsung Schnellladegerät 25 W USB-Port Typ C ohne Kabel'
 sku: 'B08P95B5FR-de'
-tags: [ 'samsung', ]
 actualPrice: 12.53 EUR
 currency: EUR
 price: 12.53

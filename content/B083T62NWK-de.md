@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083T62NWK-de Triumph Damen Fit Smart P01 EX Gepolsterter BH BLACK 1'
 sku: 'B083T62NWK-de'
-tags: [  ]
 actualPrice: 34.92 EUR
 currency: EUR
 price: 34.92

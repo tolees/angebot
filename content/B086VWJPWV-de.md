@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086VWJPWV-de Enchantimals GWG90 - Reh Spielset mit Puppenhaus inkl....'
 sku: 'B086VWJPWV-de'
-tags: [  ]
 actualPrice: 38.64 EUR
 currency: EUR
 price: 38.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VKBH56K-de TICTID - Android 10.0 TV Box D1 Pro 4 GB RAM 64 GB ROM /...'
 sku: 'B07VKBH56K-de'
-tags: [  ]
 actualPrice: 50.56 EUR
 currency: EUR
 price: 50.56

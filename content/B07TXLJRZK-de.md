@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TXLJRZK-de Funko 45437 POP Animation: Rick & Morty-King of $#+...'
 sku: 'B07TXLJRZK-de'
-tags: [  ]
 actualPrice: 23.16 EUR
 currency: EUR
 price: 23.16

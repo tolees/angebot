@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MTB55WH-de Anker SoundCore 2 Bluetooth Lautsprecher Fantastischer...'
 sku: 'B01MTB55WH-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

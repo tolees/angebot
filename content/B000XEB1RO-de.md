@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000XEB1RO-de Jean Paul Gaultier Classique Damen Deo 1 x 100 ml'
 sku: 'B000XEB1RO-de'
-tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

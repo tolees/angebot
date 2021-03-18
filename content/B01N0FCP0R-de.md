@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0FCP0R-de Columbia Horizons Pine Doppeljacke für Herren'
 sku: 'B01N0FCP0R-de'
-tags: [ 'columbia', ]
 actualPrice: 145.44 EUR
 currency: EUR
 price: 145.44

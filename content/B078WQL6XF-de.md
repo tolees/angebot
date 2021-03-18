@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WQL6XF-de Samsung MZ-76P512B/EU 860 PRO 512 GB SATA 2 5" Interne SSD...'
 sku: 'B078WQL6XF-de'
-tags: [  ]
 actualPrice: 101.55 EUR
 currency: EUR
 price: 101.55

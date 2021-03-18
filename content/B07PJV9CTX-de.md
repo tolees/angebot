@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PJV9CTX-de Amazon - Echo Dot 3. Gen. Zertifiziert und generalüberholt...'
 sku: 'B07PJV9CTX-de'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

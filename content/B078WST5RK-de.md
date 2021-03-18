@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WST5RK-de Samsung MZ-76E1T0B/EU 860 EVO 1 TB SATA 2 5" Interne SSD...'
 sku: 'B078WST5RK-de'
-tags: [  ]
 actualPrice: 113.8 EUR
 currency: EUR
 price: 113.8

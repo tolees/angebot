@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006UII3OQ-de Tayg Kanister mit Wasserhahn'
 sku: 'B006UII3OQ-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

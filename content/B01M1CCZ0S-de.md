@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M1CCZ0S-de Skechers Damen GRACEFUL-GET CONNECTED-12615 Sneaker Grau...'
 sku: 'B01M1CCZ0S-de'
-tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

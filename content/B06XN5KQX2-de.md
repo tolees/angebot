@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XN5KQX2-de Sony Herren T-Shirt Sony Playstation Classic Logo and...'
 sku: 'B06XN5KQX2-de'
-tags: [  ]
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

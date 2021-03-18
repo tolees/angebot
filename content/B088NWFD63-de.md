@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NWFD63-de AUKEY Bluetooth Kopfhörer Active Noise Cancelling...'
 sku: 'B088NWFD63-de'
-tags: [  ]
 actualPrice: 43.34 EUR
 currency: EUR
 price: 43.34

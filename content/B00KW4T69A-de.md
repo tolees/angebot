@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KW4T69A-de Inateck Festplattengehäuse 2 5 Zoll USB 3.0 für 7/9.5mm...'
 sku: 'B00KW4T69A-de'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756FSBYZ-de Ecovacs Robotics Deebot Ozmo 610 Saug- und Wischroboter...'
 sku: 'B0756FSBYZ-de'
-tags: [  ]
 actualPrice: 291.0 EUR
 currency: EUR
 price: 291.0

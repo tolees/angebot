@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYRIWYZ-de PLAYMOBIL Ghostbusters 9221 Stay Puft Marshmallow Man Ab 6...'
 sku: 'B01LYRIWYZ-de'
-tags: [  ]
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

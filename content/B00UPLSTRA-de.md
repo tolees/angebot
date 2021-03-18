@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UPLSTRA-de styleBREAKER Damen Pilotenbrille mit getönten Gläsern...'
 sku: 'B00UPLSTRA-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085L2FVVK-de Samsung TU8079 108 cm 43 Zoll LED Fernseher Ultra HD...'
 sku: 'B085L2FVVK-de'
-tags: [  ]
 actualPrice: 396.99 EUR
 currency: EUR
 price: 396.99

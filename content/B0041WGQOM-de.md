@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0041WGQOM-de Lena 65823 Magnet Holzkiste mit 37 magnetischen...'
 sku: 'B0041WGQOM-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

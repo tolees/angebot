@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FFDZCUU-de Metabo Bit-Box SP 32-teilig inkl. Stecknussadapter +...'
 sku: 'B00FFDZCUU-de'
-tags: [ 'Baumarkt','Bitsätze','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Haushaltsreinigungsmittel','Haushaltswaren','Kaffee & Espresso','Lebensmittel','Lebensmittel & Getränke','Schraubendreher-Zubehör','Spülmaschinenreinigung','Zubehör für Elektrowerkzeuge','metabo', ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

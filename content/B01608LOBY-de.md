@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01608LOBY-de Playmobil City Action 6873 Polizei-Einsatzwagen mit Licht-...'
 sku: 'B01608LOBY-de'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

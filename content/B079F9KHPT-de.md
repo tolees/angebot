@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079F9KHPT-de Bethesda - Wolfenstein: The New Order & The Old Blood Bundle'
 sku: 'B079F9KHPT-de'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085L1FRCJ-de Samsung TU8079 138 cm 55 Zoll LED Fernseher Ultra HD...'
 sku: 'B085L1FRCJ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Beleuchtung','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Dekorative Leuchtmittel','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Leuchtmittel','Netzwerkgeräte','PowerLAN-Adapter','Repeater','Simlockfreie Handys','Speziallampen','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','samsung', ]
 actualPrice: 505.99 EUR
 currency: EUR
 price: 505.99

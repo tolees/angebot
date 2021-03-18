@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LM1X6ES-de BIC Cristal Soft Kugelschreiber nicht ausfahrbar Schwarz...'
 sku: 'B00LM1X6ES-de'
-tags: [  ]
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

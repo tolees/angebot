@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YC41DM-de Funko 29501 Actionfigur Harry Potter-Ron Herbology...'
 sku: 'B079YC41DM-de'
-tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

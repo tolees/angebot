@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYI79LB-de PAUL HEWITT Armbanduhr Edelstahl Sailor Line White Sand...'
 sku: 'B01LYI79LB-de'
-tags: [  ]
 actualPrice: 117.54 EUR
 currency: EUR
 price: 117.54

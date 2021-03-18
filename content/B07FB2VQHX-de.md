@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FB2VQHX-de SUPERZINGS - Polizeistation mit 2 exklusiven SuperZings'
 sku: 'B07FB2VQHX-de'
-tags: [  ]
 actualPrice: 23.33 EUR
 currency: EUR
 price: 23.33

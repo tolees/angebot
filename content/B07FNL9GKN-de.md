@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNL9GKN-de MP3 Player Bluetooth 8GB MP3 Player mit Kopfhörern Digital...'
 sku: 'B07FNL9GKN-de'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

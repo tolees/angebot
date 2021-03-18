@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CKNRTJ2-de Teckin Cam 1080P HD 2.4 GHz WLAN Innenkamera für...'
 sku: 'B08CKNRTJ2-de'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K7M4BW4-de iporachx - Bluetooth 5.1 Kopfhörer Sport Kopfhörer...'
 sku: 'B08K7M4BW4-de'
-tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P8JZ2XR-de Damen Smartwatch E21 SANAG GPS Fitness Tracker mit Pace...'
 sku: 'B08P8JZ2XR-de'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L1UNVEK-de Skechers Equalizer Persistent Herren Sneakers Black Bbk -...'
 sku: 'B00L1UNVEK-de'
-tags: [  ]
 actualPrice: 52.81 EUR
 currency: EUR
 price: 52.81

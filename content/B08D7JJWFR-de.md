@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D7JJWFR-de Rasierer Herren Elektrisch Rasierapparat mit LCD Display...'
 sku: 'B08D7JJWFR-de'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

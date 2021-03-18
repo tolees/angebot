@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MQND49T-de Bose Smart Soundbar 300 mit Bluetooth-Verbindung Schwarz'
 sku: 'B08MQND49T-de'
-tags: [  ]
 actualPrice: 319.0 EUR
 currency: EUR
 price: 319.0

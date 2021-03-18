@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I9NJGSM-de Universal - Suits - Season 1 [Blu-ray]'
 sku: 'B00I9NJGSM-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

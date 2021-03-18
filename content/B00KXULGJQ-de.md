@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KXULGJQ-de TP-Link RE200 WLAN Repeater 433Mbit/s 5GHz 300Mbit/s 2...'
 sku: 'B00KXULGJQ-de'
-tags: [  ]
 actualPrice: 24.56 EUR
 currency: EUR
 price: 24.56

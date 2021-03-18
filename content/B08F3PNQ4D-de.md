@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F3PNQ4D-de DARLINGTON & Sohns Grüner Controller für Nintendo 64 N64...'
 sku: 'B08F3PNQ4D-de'
-tags: [  ]
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

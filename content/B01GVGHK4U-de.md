@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GVGHK4U-de KOSMOS 692742 - EXIT - Das Spiel - Das geheime Labor...'
 sku: 'B01GVGHK4U-de'
-tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

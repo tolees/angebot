@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CBMFL2-de Hasbro 6E0066B459 Bop It! Star Wars: The Mandalorian The...'
 sku: 'B088CBMFL2-de'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

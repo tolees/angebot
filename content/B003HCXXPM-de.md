@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HCXXPM-de Corny Big Erdnuss-Schoko Müsliriegel 24er Pack 24 x 50g'
 sku: 'B003HCXXPM-de'
-tags: [ 'Müsliriegel','corny', ]
 actualPrice: 10.1 EUR
 currency: EUR
 price: 10.1

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012NOGGHQ-de LEGO 21028 Architecture New York City Bauset Skyline-...'
 sku: 'B012NOGGHQ-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Beleuchtung','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Dekorative Leuchtmittel','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO Steine & Co.','Leuchtmittel','Netzwerkgeräte','PowerLAN-Adapter','Produkte','Repeater','Simlockfreie Handys','Speziallampen','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','lego', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

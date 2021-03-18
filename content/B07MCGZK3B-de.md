@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MCGZK3B-de Anker Soundcore Liberty Neo Bluetooth Kopfhörer Kabellose...'
 sku: 'B07MCGZK3B-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

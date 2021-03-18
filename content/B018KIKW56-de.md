@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018KIKW56-de Puma Unisex Sportsocken Cush Crew 6er Pack schwarz Black...'
 sku: 'B018KIKW56-de'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

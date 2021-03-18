@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VV65NY6-de RICOO TV Wand-Halterung Schwenkbar Neigbar S7264 Universal...'
 sku: 'B07VV65NY6-de'
-tags: [  ]
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

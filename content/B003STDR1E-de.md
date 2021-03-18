@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003STDR1E-de Logitech M705 Marathon Kabellose Maus 2.4 GHz Verbindung...'
 sku: 'B003STDR1E-de'
-tags: [  ]
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24

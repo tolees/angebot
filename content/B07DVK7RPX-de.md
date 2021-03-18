@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DVK7RPX-de Garmin Fenix 5X Plus Sapphire Black/Black'
 sku: 'B07DVK7RPX-de'
-tags: [  ]
 actualPrice: 379.0 EUR
 currency: EUR
 price: 379.0

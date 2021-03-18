@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFSS245-de HUAWEI AX3 3000 Mbit/s Dual Band WLAN Router Quad-Core...'
 sku: 'B08DFSS245-de'
-tags: [ 'Router','huawei', ]
 actualPrice: 58.98 EUR
 currency: EUR
 price: 58.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082MXL4HL-de Jumanji: The Next Level / Jumanji: Willkommen im Dschungel...'
 sku: 'B082MXL4HL-de'
-tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

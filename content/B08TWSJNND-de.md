@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TWSJNND-de OTCPP - Externe Festplatte 1tb Portable 2.5" Externe...'
 sku: 'B08TWSJNND-de'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

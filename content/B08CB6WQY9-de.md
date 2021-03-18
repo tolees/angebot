@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CB6WQY9-de Funko 51460 POP Keychain: Masters of The Universe-He-Man...'
 sku: 'B08CB6WQY9-de'
-tags: [  ]
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

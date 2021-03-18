@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3SNNGW-de Bose SoundSport kabellose Sport-Earbuds schweißresistente...'
 sku: 'B01E3SNNGW-de'
-tags: [ 'In-Ear Ohrhörer','bose', ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

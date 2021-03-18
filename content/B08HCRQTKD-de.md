@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HCRQTKD-de DEPSTECH 1080P WiFi Endoskopkamera Handy Endoskop 2.0...'
 sku: 'B08HCRQTKD-de'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

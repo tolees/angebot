@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PJ48WFG-de Smart GU10 LED Lampe Tasmor RGBW Dimmbar LED Leuchtmittel...'
 sku: 'B08PJ48WFG-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

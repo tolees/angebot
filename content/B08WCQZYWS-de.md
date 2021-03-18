@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WCQZYWS-de Roselan Frauen Plus Size Full Figure BHS Komfort...'
 sku: 'B08WCQZYWS-de'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

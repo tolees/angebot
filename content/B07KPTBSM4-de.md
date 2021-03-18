@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPTBSM4-de Funko - POP! Vinyl: Disney: Aladdin Live Action : Aladdin...'
 sku: 'B07KPTBSM4-de'
-tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

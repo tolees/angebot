@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0752DH9RK-de Calvin Klein Damen Analog Quarz Uhr mit Edelstahl Armband...'
 sku: 'B0752DH9RK-de'
-tags: [  ]
 actualPrice: 112.12 EUR
 currency: EUR
 price: 112.12

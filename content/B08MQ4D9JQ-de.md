@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MQ4D9JQ-de BenBoy Damen Wanderhose Wasserdicht Softshellhose...'
 sku: 'B08MQ4D9JQ-de'
-tags: [  ]
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

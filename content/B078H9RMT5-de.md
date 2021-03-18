@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078H9RMT5-de Sloggi Damen Zero Microfibre H Hipster C2P Schwarz Noir...'
 sku: 'B078H9RMT5-de'
-tags: [  ]
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

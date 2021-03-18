@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MS1KBD-de Jack Wolfskin Herren Vojo 3 Texapore Low M Outdoorschuhe...'
 sku: 'B087MS1KBD-de'
-tags: [  ]
 actualPrice: 58.74 EUR
 currency: EUR
 price: 58.74

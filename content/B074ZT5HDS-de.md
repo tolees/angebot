@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZT5HDS-de Eva Solo Miska 1 2L Nordic Kitchen'
 sku: 'B074ZT5HDS-de'
-tags: [  ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

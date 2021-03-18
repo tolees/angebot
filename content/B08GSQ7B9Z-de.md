@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GSQ7B9Z-de Xiaomi Mi True Wireless Earbuds Basic 2 iOS/Android...'
 sku: 'B08GSQ7B9Z-de'
-tags: [  ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8P8YDC-de Playmobil 70209 Dollhouse Jugendzimmer ab 4 Jahren bunt...'
 sku: 'B07P8P8YDC-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

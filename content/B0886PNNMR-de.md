@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0886PNNMR-de Sony HT-G700 3.1-Kanal-Soundbar mit Dolby Atmos Surround...'
 sku: 'B0886PNNMR-de'
-tags: [  ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

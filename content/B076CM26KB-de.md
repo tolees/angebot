@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CM26KB-de Britax Römer Original Zubehör I Sommerbezug DUALFIX...'
 sku: 'B076CM26KB-de'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

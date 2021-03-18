@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PQ12TL2-de [Schaltbares LED] Alexa Rolladen Zeitschaltuhr Etersky...'
 sku: 'B07PQ12TL2-de'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

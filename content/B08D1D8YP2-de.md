@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D1D8YP2-de Philips Series 8000 BRE735/00 - Epilierer für Frauen...'
 sku: 'B08D1D8YP2-de'
-tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

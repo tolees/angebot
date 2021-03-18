@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P75HTKP-de Ardorman Holz Clip Beads Brettspiel Clip Perlen Spiel...'
 sku: 'B08P75HTKP-de'
-tags: [  ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

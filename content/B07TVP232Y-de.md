@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVP232Y-de BRIKSMAX Led Beleuchtungsset für Lego Transporter für...'
 sku: 'B07TVP232Y-de'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

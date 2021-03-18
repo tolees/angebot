@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KP79QHX-de Unigear Touchscreen Handschuhe Anti-Rutsch Full Finger...'
 sku: 'B07KP79QHX-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

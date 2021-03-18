@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FSZT2J7-de Crucial CT1000X6SSD9 X6 1TB Portable SSD – Bis zu 540MB/s...'
 sku: 'B08FSZT2J7-de'
-tags: [  ]
 actualPrice: 101.29 EUR
 currency: EUR
 price: 101.29

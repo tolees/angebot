@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000ONIRPI-de Bachmann - 19" Steckdosenleiste 8-fach 2300W IEC320 C14...'
 sku: 'B000ONIRPI-de'
-tags: [  ]
 actualPrice: 37.43 EUR
 currency: EUR
 price: 37.43

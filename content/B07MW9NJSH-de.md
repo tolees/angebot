@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MW9NJSH-de PNY XLR8 CS3030 m.2 NVMe 1TB SSD bis zu 3.500 MB/s'
 sku: 'B07MW9NJSH-de'
-tags: [  ]
 actualPrice: 114.26 EUR
 currency: EUR
 price: 114.26

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084J4QQFT-de Amazon - Der neue Echo Dot 4. Generation | Smarter...'
 sku: 'B084J4QQFT-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

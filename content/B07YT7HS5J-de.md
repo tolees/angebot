@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YT7HS5J-de Mega Construx GMD34 - Pokémon Jumbo Evoli 30cm Bauset mit...'
 sku: 'B07YT7HS5J-de'
-tags: [  ]
 actualPrice: 36.26 EUR
 currency: EUR
 price: 36.26

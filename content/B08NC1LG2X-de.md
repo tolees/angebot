@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NC1LG2X-de SuperThings - Power Machines- Blister 6 PowerJet enthält 2...'
 sku: 'B08NC1LG2X-de'
-tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

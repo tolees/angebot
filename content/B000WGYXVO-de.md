@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000WGYXVO-de Pentel TRJ50-AO Tradio Federschreiber Stylo Schreibfarbe:...'
 sku: 'B000WGYXVO-de'
-tags: [  ]
 actualPrice: 6.18 EUR
 currency: EUR
 price: 6.18

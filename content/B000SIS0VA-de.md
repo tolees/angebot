@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000SIS0VA-de TFA Dostmann 471001 Regenmesser schwarz'
 sku: 'B000SIS0VA-de'
-tags: [  ]
 actualPrice: 2.64 EUR
 currency: EUR
 price: 2.64

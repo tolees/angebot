@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HJDQXBD-de Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black ohne Simlock...'
 sku: 'B08HJDQXBD-de'
-tags: [  ]
 actualPrice: 475.0 EUR
 currency: EUR
 price: 475.0

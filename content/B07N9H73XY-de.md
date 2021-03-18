@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N9H73XY-de Samsonite Hexa-Packs - Laptop Backpack Medium Expandable -...'
 sku: 'B07N9H73XY-de'
-tags: [  ]
 actualPrice: 54.45 EUR
 currency: EUR
 price: 54.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BBTRF3B-de SVITA Mülleimer TQ30 Grau 30L Treteimer Abfallbehälter...'
 sku: 'B08BBTRF3B-de'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

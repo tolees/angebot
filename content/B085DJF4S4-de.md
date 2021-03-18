@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DJF4S4-de Bluetooth Adapter 5.0 3 in 1 3.5 mm Bluetooth Empfänger...'
 sku: 'B085DJF4S4-de'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

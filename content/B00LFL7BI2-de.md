@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LFL7BI2-de Black Diamond Mercury Mitts Handschuhe für...'
 sku: 'B00LFL7BI2-de'
-tags: [  ]
 actualPrice: 83.56 EUR
 currency: EUR
 price: 83.56

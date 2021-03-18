@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F9PMZZI-de 182/im Haus des Henkers'
 sku: 'B01F9PMZZI-de'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

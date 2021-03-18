@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BLKNWH6-de Gamory Wireless Controller für P4 Gamepad Bluetooth...'
 sku: 'B08BLKNWH6-de'
-tags: [  ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

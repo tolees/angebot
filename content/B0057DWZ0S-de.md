@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0057DWZ0S-de Wrigley s Spearmint Kaugummi | Minz-Geschmack | 8...'
 sku: 'B0057DWZ0S-de'
-tags: [  ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

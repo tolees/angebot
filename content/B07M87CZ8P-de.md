@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M87CZ8P-de ONLY Damen Onlroyal Hw Sk Bb Bj13333 Noos Jeans Light Blue...'
 sku: 'B07M87CZ8P-de'
-tags: [  ]
 actualPrice: 25.21 EUR
 currency: EUR
 price: 25.21

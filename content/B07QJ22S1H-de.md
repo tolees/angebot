@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ22S1H-de Funko 40876 POP Vinyl Animation: Disenchantment-Bean...'
 sku: 'B07QJ22S1H-de'
-tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

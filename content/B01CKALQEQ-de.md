@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CKALQEQ-de Dickie Toys City Train Zug Spielzeugzug Bahn Türen und...'
 sku: 'B01CKALQEQ-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

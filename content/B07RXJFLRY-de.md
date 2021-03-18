@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RXJFLRY-de New Balance Damen Fresh Foam Arishi V3 Straßen-Laufschuh...'
 sku: 'B07RXJFLRY-de'
-tags: [  ]
 actualPrice: 59.57 EUR
 currency: EUR
 price: 59.57

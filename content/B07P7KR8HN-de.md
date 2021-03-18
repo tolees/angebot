@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7KR8HN-de PLAYMOBIL City Life 70196 Beim Facharzt: Radiologe Ab 4...'
 sku: 'B07P7KR8HN-de'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

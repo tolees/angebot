@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006WAIVY4-de WRL Adapter BLUETH4.0 USB/18187 TRUST'
 sku: 'B006WAIVY4-de'
-tags: [  ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

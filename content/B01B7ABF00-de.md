@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B7ABF00-de Sony BDP-S1700 Blu-ray-Player USB Ethernet schwarz'
 sku: 'B01B7ABF00-de'
-tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

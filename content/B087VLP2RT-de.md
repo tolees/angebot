@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VLP2RT-de Microsoft - Xbox Wireless Controller Robot White'
 sku: 'B087VLP2RT-de'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0090VULJU-de Koch Media GmbH - Poirot: Rendezvous mit einer Leiche'
 sku: 'B0090VULJU-de'
-tags: [  ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

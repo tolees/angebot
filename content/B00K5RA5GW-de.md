@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00K5RA5GW-de Tommy Hilfiger Herren 3p Trunk Shorts Schwarz Black 990...'
 sku: 'B00K5RA5GW-de'
-tags: [  ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

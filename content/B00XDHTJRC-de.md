@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDHTJRC-de STUDIOCANAL GmbH - La Boum - Teil 1+2 [Blu-ray]'
 sku: 'B00XDHTJRC-de'
-tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

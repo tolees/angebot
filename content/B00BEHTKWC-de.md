@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BEHTKWC-de Sonos Playbar WLAN Soundbar schwarz – TV Soundbar mit...'
 sku: 'B00BEHTKWC-de'
-tags: [  ]
 actualPrice: 639.99 EUR
 currency: EUR
 price: 639.99

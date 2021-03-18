@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QC2BE6-de CASO F10 Design Küchenwaage digitale Küchenwaage große...'
 sku: 'B004QC2BE6-de'
-tags: [  ]
 actualPrice: 14.47 EUR
 currency: EUR
 price: 14.47

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YSSS81F-de HONOR 9X Phantom Blue - Smartphone Bundle 6 59 Zoll...'
 sku: 'B07YSSS81F-de'
-tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

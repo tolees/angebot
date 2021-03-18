@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K76WWM3-de FLOVEME 2 Stück 44mm/40mm/38mm Schutzhülle Mit Panzerglas...'
 sku: 'B08K76WWM3-de'
-tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

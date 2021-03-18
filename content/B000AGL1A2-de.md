@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AGL1A2-de Sämtliche Sinfonien Ga'
 sku: 'B000AGL1A2-de'
-tags: [  ]
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MW2TXN5-de Zexrow Zubehör Set für Nintendo Switch 12-in-1 Switch...'
 sku: 'B08MW2TXN5-de'
-tags: [  ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

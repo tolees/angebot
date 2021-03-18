@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BC29AYC-de Vibram FiveFingers 13M0101 EL-X Fitnessschuhe Herren...'
 sku: 'B00BC29AYC-de'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

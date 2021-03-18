@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079WGR1TM-de Hama TV Wandhalterung Schwenkbar Neigbar 32 - 65 Zoll TV...'
 sku: 'B079WGR1TM-de'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

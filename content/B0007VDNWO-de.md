@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007VDNWO-de Ravensburger 09074 - Nordlichter'
 sku: 'B0007VDNWO-de'
-tags: [  ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

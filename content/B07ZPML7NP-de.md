@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPML7NP-de Apple AirPods Pro'
 sku: 'B07ZPML7NP-de'
-tags: [ 'apple', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

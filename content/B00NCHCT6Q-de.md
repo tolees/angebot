@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NCHCT6Q-de StudioCanal - Mit Schirm Charme und Melone - Edition...'
 sku: 'B00NCHCT6Q-de'
-tags: [  ]
 actualPrice: 22.97 EUR
 currency: EUR
 price: 22.97

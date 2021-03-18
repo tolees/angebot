@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFF81HY-de Funko 34691 Games: Don t Starve: Willow & Bernie POP...'
 sku: 'B07DFF81HY-de'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

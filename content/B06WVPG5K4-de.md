@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVPG5K4-de PLAYMOBIL Family Fun 9280 Skihütte Ab 4 Jahren'
 sku: 'B06WVPG5K4-de'
-tags: [ 'Spielfiguren-Spielesets für Kinder','playmobil', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

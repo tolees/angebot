@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQRPH1B-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Das...'
 sku: 'B07XQRPH1B-de'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCVD7G3-de Bluetooth Smart Watch PHIPUDS Health & Fitness Tracker...'
 sku: 'B07XCVD7G3-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

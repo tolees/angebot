@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TRP1GMV-de Samsung Schnellladegerät 25 w Ep-TA800 Schwarz'
 sku: 'B07TRP1GMV-de'
-tags: [  ]
 actualPrice: 14.67 EUR
 currency: EUR
 price: 14.67

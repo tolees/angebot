@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797MYW9S-de Funko 29526 IT 2017 S2 Pennywise Actionfigur...'
 sku: 'B0797MYW9S-de'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

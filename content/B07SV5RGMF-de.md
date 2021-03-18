@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SV5RGMF-de Reolink Akku Überwachungskamera Aussen WLAN 355°/140°...'
 sku: 'B07SV5RGMF-de'
-tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

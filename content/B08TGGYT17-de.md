@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TGGYT17-de Karanice Makramee Set Kordel DIY Handwerk 120 Pcs...'
 sku: 'B08TGGYT17-de'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

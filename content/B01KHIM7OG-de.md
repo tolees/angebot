@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KHIM7OG-de Philips LED 60W A60 E27 WW 230V FR ND 6CT/4'
 sku: 'B01KHIM7OG-de'
-tags: [  ]
 actualPrice: 13.82 EUR
 currency: EUR
 price: 13.82

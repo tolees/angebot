@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZGPWDN4-de Pandora Harry Potter Hogwarts Schule für Hexerei und...'
 sku: 'B07ZGPWDN4-de'
-tags: [  ]
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

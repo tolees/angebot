@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TMRR8DY-de eOne Entertainment Universal Pictures - The Walking Dead -...'
 sku: 'B07TMRR8DY-de'
-tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

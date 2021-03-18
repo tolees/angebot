@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0007VHBKO-de Vileda Glitzi Plus Topfreiniger 3er Pack'
 sku: 'B0007VHBKO-de'
-tags: [  ]
 actualPrice: 0.89 EUR
 currency: EUR
 price: 0.89

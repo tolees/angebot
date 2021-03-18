@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KBWBADI-de Oral-B SmartSeries 6000 Elektrische Zahnbürste'
 sku: 'B00KBWBADI-de'
-tags: [  ]
 actualPrice: 116.61 EUR
 currency: EUR
 price: 116.61

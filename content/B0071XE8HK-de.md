@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0071XE8HK-de VARIOUS - Gene Roddenberry s Andromeda - Komplettbox [30...'
 sku: 'B0071XE8HK-de'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08L6YRFDC-de Beats by Dr. Dre - Kabellose Beats Flex In-Ear Kopfhörer –...'
 sku: 'B08L6YRFDC-de'
-tags: [ 'In-Ear Ohrhörer','beats by dr. dre', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

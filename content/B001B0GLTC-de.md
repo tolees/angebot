@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001B0GLTC-de FISCHER Fahrradkorb für Gepäckträger engmaschig schwarz'
 sku: 'B001B0GLTC-de'
-tags: [  ]
 actualPrice: 6.17 EUR
 currency: EUR
 price: 6.17

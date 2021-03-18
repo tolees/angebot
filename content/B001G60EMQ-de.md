@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001G60EMQ-de Eau Des Baux Deo Stick - 75 ml - L OCCITANE'
 sku: 'B001G60EMQ-de'
-tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082L4HHBX-de TOM TAILOR Denim Damen Jona Jeans Blau 10113 29/30'
 sku: 'B082L4HHBX-de'
-tags: [  ]
 actualPrice: 41.38 EUR
 currency: EUR
 price: 41.38

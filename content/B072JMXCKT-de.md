@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072JMXCKT-de Reebok Damen Club C 85 Laufschuhe White Light Grey 685 36 EU'
 sku: 'B072JMXCKT-de'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

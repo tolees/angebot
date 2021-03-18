@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZH2Z5FN-de BAOLESEM Sicherheitsschuhe Herren Arbeitsschuhe Herren...'
 sku: 'B07ZH2Z5FN-de'
-tags: [  ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

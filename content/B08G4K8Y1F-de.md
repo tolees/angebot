@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4K8Y1F-de LEGO 42118 Technic Monster Jam Grave Digger Truck-...'
 sku: 'B08G4K8Y1F-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Simlockfreie Handys','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

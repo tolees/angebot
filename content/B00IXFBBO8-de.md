@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IXFBBO8-de BELLAG LOTHAR - Johann Sebastian Bach - Große Geschichten...'
 sku: 'B00IXFBBO8-de'
-tags: [  ]
 actualPrice: 6.86 EUR
 currency: EUR
 price: 6.86

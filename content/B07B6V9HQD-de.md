@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6V9HQD-de Salewa WS WILD HIKER MID GTX Damen Trekking- &...'
 sku: 'B07B6V9HQD-de'
-tags: [  ]
 actualPrice: 51.1 EUR
 currency: EUR
 price: 51.1

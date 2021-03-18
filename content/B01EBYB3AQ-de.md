@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EBYB3AQ-de Bruetting KANSAS Unisex-Erwachsene Trekking- &...'
 sku: 'B01EBYB3AQ-de'
-tags: [  ]
 actualPrice: 52.83 EUR
 currency: EUR
 price: 52.83

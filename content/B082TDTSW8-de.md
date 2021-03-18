@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TDTSW8-de Walt Disney - Star Wars: Der Aufstieg Skywalkers'
 sku: 'B082TDTSW8-de'
-tags: [  ]
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MWVQK4-de Speedo Herren Badehose Essential Endurance Plus...'
 sku: 'B000MWVQK4-de'
-tags: [  ]
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35

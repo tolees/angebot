@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRVX6RM-de Anker Soundcore Flare 2 Bluetooth Lautsprecher mit IPX7...'
 sku: 'B07ZRVX6RM-de'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

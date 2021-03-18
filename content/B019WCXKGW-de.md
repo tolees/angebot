@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019WCXKGW-de Pampers Größe 3 Premium Protection Baby Windeln 204 Stück...'
 sku: 'B019WCXKGW-de'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

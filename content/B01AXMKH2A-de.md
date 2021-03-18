@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AXMKH2A-de Philips OneBlade Pro Face QP6520/30 mit 1...'
 sku: 'B01AXMKH2A-de'
-tags: [  ]
 actualPrice: 47.89 EUR
 currency: EUR
 price: 47.89

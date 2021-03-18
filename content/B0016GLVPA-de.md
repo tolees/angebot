@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0016GLVPA-de Tombow MONO-100-2B Bleistift Mono 100 Härtegrad 2B 12-er Set'
 sku: 'B0016GLVPA-de'
-tags: [  ]
 actualPrice: 13.48 EUR
 currency: EUR
 price: 13.48

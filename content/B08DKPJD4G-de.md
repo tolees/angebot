@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKPJD4G-de Samsung Galaxy Tab S7+ Android Tablet mit Stift WiFi 3...'
 sku: 'B08DKPJD4G-de'
-tags: [  ]
 actualPrice: 773.1 EUR
 currency: EUR
 price: 773.1

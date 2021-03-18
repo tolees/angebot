@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WHT92WZ-de Fossil Smartwatch FTW4025'
 sku: 'B07WHT92WZ-de'
-tags: [  ]
 actualPrice: 222.13 EUR
 currency: EUR
 price: 222.13

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Z3FBWC-de Hasbro Super Soaker E0022EU4 - Soakzooka Wasserpistole mit...'
 sku: 'B075Z3FBWC-de'
-tags: [  ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

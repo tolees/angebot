@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083MDVBDQ-de Funko 49933 POP Star Wars: Mandalorian-The Child w/Cup...'
 sku: 'B083MDVBDQ-de'
-tags: [  ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

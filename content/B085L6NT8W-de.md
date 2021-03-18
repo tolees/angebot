@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085L6NT8W-de Samsung TU8079 163 cm 65 Zoll LED Fernseher Ultra HD...'
 sku: 'B085L6NT8W-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Haushaltswaren','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Spielzeug','Weiß- & Vollwäsche','Wäschepflege','samsung', ]
 actualPrice: 699.0 EUR
 currency: EUR
 price: 699.0

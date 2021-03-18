@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMSY2YS-de ONECE Duschsystem mit Thermostat Duscharmatur Regendusche...'
 sku: 'B07QMSY2YS-de'
-tags: [  ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

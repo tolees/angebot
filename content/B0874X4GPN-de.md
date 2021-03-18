@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0874X4GPN-de Bluetooth Kopfhörer in Ear Kabellose Kopfhörer TaoTronics...'
 sku: 'B0874X4GPN-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

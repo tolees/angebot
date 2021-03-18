@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT2KHJM-de ENACFIRE SoundBar Bluetooth Lautsprecher 12W Kabellose...'
 sku: 'B07TT2KHJM-de'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

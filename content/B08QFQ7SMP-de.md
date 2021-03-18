@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QFQ7SMP-de Letsfit Bluetooth Kopfhörer Kabellose Kopfhörer In Ear...'
 sku: 'B08QFQ7SMP-de'
-tags: [ 'letsfit', ]
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

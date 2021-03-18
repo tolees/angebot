@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GNV163S-de LEGO 10955 DUPLO Mein erster Tierzug mit Elefanten Tiger...'
 sku: 'B08GNV163S-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','DVD & Blu-ray','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Haushaltsreinigungsmittel','Haushaltswaren','In-Ear Ohrhörer','Kaffee & Espresso','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Schraubendreher-Zubehör','Science Fiction','Spielzeug','Spülmaschinenreinigung','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

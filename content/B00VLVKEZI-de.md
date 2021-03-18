@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLVKEZI-de Playmobil 6193 - Eisbearbeitungsmaschine'
 sku: 'B00VLVKEZI-de'
-tags: [  ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

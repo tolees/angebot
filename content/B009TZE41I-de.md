@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009TZE41I-de D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch...'
 sku: 'B009TZE41I-de'
-tags: [  ]
 actualPrice: 12.66 EUR
 currency: EUR
 price: 12.66

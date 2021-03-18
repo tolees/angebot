@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007L2QFNQ-de Christian Tanner 0980.4 - Schokoladentorte zum Schneiden'
 sku: 'B007L2QFNQ-de'
-tags: [  ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

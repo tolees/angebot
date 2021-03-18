@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SK7FYMM-de Snocks Boxershorts Herren 6 Paar Schwarz Größe 4XL...'
 sku: 'B07SK7FYMM-de'
-tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

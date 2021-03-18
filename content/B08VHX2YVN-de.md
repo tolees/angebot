@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VHX2YVN-de UnionSine Ultra Slim 250GB Externe Tragbare Festplatte 2 5...'
 sku: 'B08VHX2YVN-de'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

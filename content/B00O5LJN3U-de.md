@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O5LJN3U-de ONLY Damen Onlroyal High Sk Pim600 Noos 15093134 Jeans...'
 sku: 'B00O5LJN3U-de'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C9S4MNT-de JAMJAKE Stylus Stift für iPad mit Palm Rejection Active...'
 sku: 'B08C9S4MNT-de'
-tags: [  ]
 actualPrice: 22.85 EUR
 currency: EUR
 price: 22.85

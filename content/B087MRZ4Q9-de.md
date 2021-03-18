@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MRZ4Q9-de Jack Wolfskin Damen Vojo 3 Texapore MID W Outdoorschuhe...'
 sku: 'B087MRZ4Q9-de'
-tags: [  ]
 actualPrice: 89.96 EUR
 currency: EUR
 price: 89.96

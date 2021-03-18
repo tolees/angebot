@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NF34BCM-de Pandora -Bead Charms 925 Sterlingsilber 787785CZ'
 sku: 'B07NF34BCM-de'
-tags: [  ]
 actualPrice: 46.61 EUR
 currency: EUR
 price: 46.61

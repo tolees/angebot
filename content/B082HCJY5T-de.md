@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082HCJY5T-de AE WISH ANEWISH - Bluetooth Maus kompatibel mit...'
 sku: 'B082HCJY5T-de'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

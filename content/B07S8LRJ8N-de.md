@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8LRJ8N-de HP Pavilion Gaming 17-cd0222ng 17 3 Zoll / Full HD IPS...'
 sku: 'B07S8LRJ8N-de'
-tags: [  ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

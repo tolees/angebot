@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M4I7FMC-de Samsung EP-TA20EWECGWW Modulares Schnellladegerät EP-TA-20...'
 sku: 'B01M4I7FMC-de'
-tags: [  ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

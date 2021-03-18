@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R11KVQ5-de Kärcher Hochdruckreiniger K 7 Premium Smart Control Home:...'
 sku: 'B08R11KVQ5-de'
-tags: [  ]
 actualPrice: 548.99 EUR
 currency: EUR
 price: 548.99

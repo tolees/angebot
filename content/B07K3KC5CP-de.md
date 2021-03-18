@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K3KC5CP-de Xiaomi Mi Box S EU Version 4K Ultra HD Media Player mit...'
 sku: 'B07K3KC5CP-de'
-tags: [  ]
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45

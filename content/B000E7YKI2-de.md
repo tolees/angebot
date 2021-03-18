@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000E7YKI2-de Yves Saint Laurent Eau de Cologne für Männer 1er Pack 1x...'
 sku: 'B000E7YKI2-de'
-tags: [  ]
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

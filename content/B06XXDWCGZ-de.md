@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XXDWCGZ-de Bosch Smart Home Eyes Außenkamera Variante Deutschland...'
 sku: 'B06XXDWCGZ-de'
-tags: [  ]
 actualPrice: 229.95 EUR
 currency: EUR
 price: 229.95

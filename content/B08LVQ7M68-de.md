@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LVQ7M68-de Winning Moves WIN11880 TRIVIAL Pursuit Harry Potter BS...'
 sku: 'B08LVQ7M68-de'
-tags: [  ]
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

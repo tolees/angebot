@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071LK2PW2-de Kosmos 694043 - EXIT - Das Spiel - Das Haus der Rätsel -...'
 sku: 'B071LK2PW2-de'
-tags: [  ]
 actualPrice: 8.86 EUR
 currency: EUR
 price: 8.86

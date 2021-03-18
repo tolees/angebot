@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0077BZXMA-de Herschel Little America Mid-Volume Rucksack 17 l Navy/Tan'
 sku: 'B0077BZXMA-de'
-tags: [  ]
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

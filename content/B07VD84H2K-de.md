@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD84H2K-de Victure Dualband WLAN Kamera 2 4Ghz und 5Ghz Wi-Fi Baby...'
 sku: 'B07VD84H2K-de'
-tags: [ 'victure','Überwachungskameras', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

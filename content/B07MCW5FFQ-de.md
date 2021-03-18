@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MCW5FFQ-de KOSMOS 695071 EXIT - Das Spiel - Die Känguru-Eskapaden für...'
 sku: 'B07MCW5FFQ-de'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

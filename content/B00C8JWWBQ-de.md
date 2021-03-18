@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C8JWWBQ-de D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart...'
 sku: 'B00C8JWWBQ-de'
-tags: [  ]
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

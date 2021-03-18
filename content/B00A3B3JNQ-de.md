@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00A3B3JNQ-de Essie Nagellack für farbintensive Fingernägel Nr. 44...'
 sku: 'B00A3B3JNQ-de'
-tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

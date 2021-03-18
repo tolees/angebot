@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V6M7YLT-de Nintendo Switch Lite Standard gelb'
 sku: 'B07V6M7YLT-de'
-tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

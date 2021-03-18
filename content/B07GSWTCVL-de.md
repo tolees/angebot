@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSWTCVL-de DJI Mavic 2 Pro Fly More Combo Drohne mit Hasselblad HDR...'
 sku: 'B07GSWTCVL-de'
-tags: [  ]
 actualPrice: 950.0 EUR
 currency: EUR
 price: 950.0

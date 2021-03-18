@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKBMBB7-de Alex Perry Muttertagsgeschenk ohrringe silber Swarovski...'
 sku: 'B07HKBMBB7-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

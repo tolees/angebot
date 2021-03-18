@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JOCMU7A-de LEONINE Distribution GmbH - Captain Future - Komplettbox...'
 sku: 'B01JOCMU7A-de'
-tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

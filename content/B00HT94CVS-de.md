@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HT94CVS-de Einhell Elektro-Rasentrimmer GC-ET 3023 300 W 11.000 1/min...'
 sku: 'B00HT94CVS-de'
-tags: [  ]
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFZYGV4-de Sloggi Damen Zero Feel EX Bralette Weiß White 0003 L'
 sku: 'B07LFZYGV4-de'
-tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJLJ6H1-de ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke Schwarz...'
 sku: 'B07CJLJ6H1-de'
-tags: [ '249195031','Activewear für Herren','Audiokabel','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Computer','Computer & Zubehör','Damen-BHs','Damen-Jacken','Damen-Kleider','Damenbekleidung','Dekoartikel','Dessous, Nacht- & Lounge-Wäsche für Damen','Drogerie & Körperpflege','Drucker & Zubehör','Elektronik & Foto','Elektrorasierer','Elektrorasierer für Herren','Fernseher & Heimkino','Folienrasierer für Herren','Freizeitkleider für Damen','HDMI-Kabel','Heimkino, TV & Video Zubehör','Herrenbekleidung','In-Ear Ohrhörer','Interne Komponenten & Hardware','Jacken, Mäntel & Westen für Damen','Klassische BHs für Damen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Rasur & Enthaarung','Repeater','Router','Sicherheitstechnik','Spielzeug','Sportsocken für Herren','Toner','Unterwäsche & Dessous für Damen','Videoüberwachungstechnik','Wohnaccessoires & Deko','Zubehör für Drucker','only','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

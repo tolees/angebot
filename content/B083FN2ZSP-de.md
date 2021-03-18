@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FN2ZSP-de Alexa Lampen E14 Wlan Glühbirnen 5w 2800K-3200K Dimmbar...'
 sku: 'B083FN2ZSP-de'
-tags: [  ]
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

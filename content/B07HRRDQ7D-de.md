@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HRRDQ7D-de CITIZEN Damen Analog Eco-Drive Bluetooth Uhr mit Edelstahl...'
 sku: 'B07HRRDQ7D-de'
-tags: [  ]
 actualPrice: 335.37 EUR
 currency: EUR
 price: 335.37

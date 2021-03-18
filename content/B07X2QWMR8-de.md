@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X2QWMR8-de Küchen-Preisbombe - Küche Bianca I 240 + 160 cm...'
 sku: 'B07X2QWMR8-de'
-tags: [  ]
 actualPrice: 550.0 EUR
 currency: EUR
 price: 550.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CDNSQT8-de Tommy Hilfiger Herren ESSENTIAL Tasche Black One Size'
 sku: 'B08CDNSQT8-de'
-tags: [ 'tommy hilfiger', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

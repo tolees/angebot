@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLFJKPQ-de Playmobil Family Fun 70088 Familien-Wohnmobil Ab 4 Jahren'
 sku: 'B07JLFJKPQ-de'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

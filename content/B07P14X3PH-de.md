@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P14X3PH-de Schauma Schwarzkopf Shampoo Damen 7-Kräuter vegan 1er Pack...'
 sku: 'B07P14X3PH-de'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

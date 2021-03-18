@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N98HVSG-de Sons of Anarchy - Complete Box [Blu-ray]'
 sku: 'B08N98HVSG-de'
-tags: [  ]
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

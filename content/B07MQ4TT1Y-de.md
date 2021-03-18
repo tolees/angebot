@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MQ4TT1Y-de Alexa Smart LED Lampen E27 AISIRER WLAN Glühbirne Dimmbar...'
 sku: 'B07MQ4TT1Y-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

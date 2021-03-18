@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F3RJ2YP-de DARLINGTON & Sohns Schwarzer Controller für Nintendo 64...'
 sku: 'B08F3RJ2YP-de'
-tags: [  ]
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

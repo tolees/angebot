@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDP4GTQ-de JFUME Männer Magnet Armband aus Edelstahl Herren Armbänder...'
 sku: 'B07PDP4GTQ-de'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R5ML19K-de WHITIN Sicherheitsschuhe Herren S3 mit Stahlkappe...'
 sku: 'B08R5ML19K-de'
-tags: [  ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

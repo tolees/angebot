@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VB5JKW9-de Triumph Damen Fit Smart P Ex T-Shirt BH Braun Light Brown...'
 sku: 'B07VB5JKW9-de'
-tags: [ 'triumph', ]
 actualPrice: 40.38 EUR
 currency: EUR
 price: 40.38

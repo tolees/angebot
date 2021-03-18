@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00912GXCM-de ADC Adscope 600MCA - Platin Kardiologie Stethoskop mit...'
 sku: 'B00912GXCM-de'
-tags: [  ]
 actualPrice: 95.22 EUR
 currency: EUR
 price: 95.22

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZCKHGG-de Sony Xperia 5 II 5G Smartphone 15 5 cm 6.1 Zoll 21:9...'
 sku: 'B08HZCKHGG-de'
-tags: [  ]
 actualPrice: 672.9 EUR
 currency: EUR
 price: 672.9

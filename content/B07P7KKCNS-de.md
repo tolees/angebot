@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7KKCNS-de Playmobil:THE MOVIE 70078 Rex Dasher s Porsche Mission E...'
 sku: 'B07P7KKCNS-de'
-tags: [  ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

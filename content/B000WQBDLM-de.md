@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000WQBDLM-de Wiha Schraubendreher SoftFinish® Phillips mit Rundklinge...'
 sku: 'B000WQBDLM-de'
-tags: [  ]
 actualPrice: 6.46 EUR
 currency: EUR
 price: 6.46

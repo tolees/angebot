@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WSG9G3C-de GHGNFG Nette gesichtslose Puppen Valentinstag Dekorationen...'
 sku: 'B08WSG9G3C-de'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

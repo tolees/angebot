@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B7ABF9Q-de Sony BDP-S6700 Blu-ray-Player Wireless Multiroom Super...'
 sku: 'B01B7ABF9Q-de'
-tags: [ 'sony', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WVLX66Y-de Playmobil City Life 9270 Fröhliches Kinderzimmer Ab 4 Jahren'
 sku: 'B06WVLX66Y-de'
-tags: [  ]
 actualPrice: 12.22 EUR
 currency: EUR
 price: 12.22

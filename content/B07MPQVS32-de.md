@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MPQVS32-de Sony SRS-XB12 Bluetooth Lautsprecher tragbar kabellos...'
 sku: 'B07MPQVS32-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005ADIWIE-de InLine 16653B Netz-Y-Kabel 1x Schutzkontaktstecker zu 3x...'
 sku: 'B005ADIWIE-de'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

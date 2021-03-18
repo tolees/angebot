@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVSZ11L-de PLAYMOBIL PLAYMO-FRIENDS 70563 Mama mit Babytrage Ab 4 Jahren'
 sku: 'B08KVSZ11L-de'
-tags: [  ]
 actualPrice: 2.51 EUR
 currency: EUR
 price: 2.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BATE7RG-de Black+Decker Li-Ion-Ergänzungsakku 2 0Ah für 36V Geräte...'
 sku: 'B01BATE7RG-de'
-tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

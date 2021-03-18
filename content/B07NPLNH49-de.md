@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NPLNH49-de Jabra Elite 85h Over-Ear Kopfhörer - Aktive Noise...'
 sku: 'B07NPLNH49-de'
-tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

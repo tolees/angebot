@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077Y2TCP7-de FILA Disruptor wmn Damen Sneaker Schwarz Black 41 EU'
 sku: 'B077Y2TCP7-de'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

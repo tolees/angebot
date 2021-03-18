@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HTTQ6A2-de Vileda Turbo EasyWring & Clean Komplett Set rot/grau'
 sku: 'B01HTTQ6A2-de'
-tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

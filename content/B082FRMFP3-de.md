@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082FRMFP3-de Funko - POP! Games: The Last of Us- Ellie'
 sku: 'B082FRMFP3-de'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

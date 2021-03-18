@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LN8B7L8-de Zamkol Bluetooth Lautsprecher 5.0 IPX7 Wasserdicht 24...'
 sku: 'B08LN8B7L8-de'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

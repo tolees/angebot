@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GH5KMWM-de Under Armour Herren Tech atmungsaktives Poloshirt...'
 sku: 'B01GH5KMWM-de'
-tags: [  ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

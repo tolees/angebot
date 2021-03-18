@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ED44II4-de Borgia - Staffel 2 [Blu-ray] [Director s Cut]'
 sku: 'B00ED44II4-de'
-tags: [  ]
 actualPrice: 10.56 EUR
 currency: EUR
 price: 10.56

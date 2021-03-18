@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BVNSF6Y-de Sony KDL-43WF665 Bravia 109 2 cm 43 Zoll Fernseher Full HD...'
 sku: 'B07BVNSF6Y-de'
-tags: [  ]
 actualPrice: 449.7 EUR
 currency: EUR
 price: 449.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089ZSQF1L-de Sony Interactive Entertainment - Marvel s Spider-Man:...'
 sku: 'B089ZSQF1L-de'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

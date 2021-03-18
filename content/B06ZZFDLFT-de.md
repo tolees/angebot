@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06ZZFDLFT-de Electronic Arts - Star Wars Battlefront 2 - Standard...'
 sku: 'B06ZZFDLFT-de'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

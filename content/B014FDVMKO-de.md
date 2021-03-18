@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014FDVMKO-de ONLY Female Jacke Lederlook- 38Black'
 sku: 'B014FDVMKO-de'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

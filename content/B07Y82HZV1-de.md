@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y82HZV1-de Ubit WiFi 6 Bluetooth WLAN Karte 2974 Mbit/s AX200 PCIe...'
 sku: 'B07Y82HZV1-de'
-tags: [ 'Netzwerkkarten','ubit', ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

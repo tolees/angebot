@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WF8MVV-de LEGO 71369 Super Mario Bowsers Festung – Erweiterungsset...'
 sku: 'B082WF8MVV-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Haushaltsreinigungsmittel','Haushaltswaren','Kaffee & Espresso','Lebensmittel','Lebensmittel & Getränke','Schraubendreher-Zubehör','Spielzeug','Spülmaschinenreinigung','Zubehör für Elektrowerkzeuge','lego', ]
 actualPrice: 72.9 EUR
 currency: EUR
 price: 72.9

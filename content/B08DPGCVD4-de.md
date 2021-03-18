@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DPGCVD4-de Philips Series 5000 Elektrischer Nass- und Trockenrasierer...'
 sku: 'B08DPGCVD4-de'
-tags: [  ]
 actualPrice: 102.99 EUR
 currency: EUR
 price: 102.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVWPV6T-de Microsoft Bluetooth Mouse Schwarz'
 sku: 'B07XVWPV6T-de'
-tags: [ 'microsoft', ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

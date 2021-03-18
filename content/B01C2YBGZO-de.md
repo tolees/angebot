@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01C2YBGZO-de Simba 104118935 Blox 500 schwarze Bausteine für Kinder ab...'
 sku: 'B01C2YBGZO-de'
-tags: [  ]
 actualPrice: 19.86 EUR
 currency: EUR
 price: 19.86

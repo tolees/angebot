@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LLYK4S-de Sony WH-CH710N kabellose Bluetooth Noise Cancelling...'
 sku: 'B086LLYK4S-de'
-tags: [  ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPRJ8FD-de Briksmax Led Beleuchtungsset für Architecture...'
 sku: 'B07QPRJ8FD-de'
-tags: [ '249195031','355357031','Bauspielzeug & Konstruktionsspielzeug','Bead Charms für Damen','Charms & Beads für Damen','Computer','Computer & Zubehör','Damenschmuck','Elektrische Küchengeräte','Elektronik & Foto','Folienschweißgeräte','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LEGO','LEGO friends','Minipuppen','Minipuppen & Zubehör','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Regular Stores','Repeater','Schmuck','Shops','Spielzeug','briksmax', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

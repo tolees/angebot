@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L5VKVGZ-de Neues Apple iPhone 12 64 GB - Product RED'
 sku: 'B08L5VKVGZ-de'
-tags: [  ]
 actualPrice: 764.1 EUR
 currency: EUR
 price: 764.1

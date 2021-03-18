@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PCLGYYQ-de Gosund Smart Nachttischlampe Smart Home Alexa Tischlampe...'
 sku: 'B08PCLGYYQ-de'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

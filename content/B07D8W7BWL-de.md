@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D8W7BWL-de DANISH ENDURANCE Merinowolle Wander- und Trekkingsocken 3...'
 sku: 'B07D8W7BWL-de'
-tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

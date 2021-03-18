@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072LNTRGN-de Under Armour Herren Challenger II Knit Warm-Up...'
 sku: 'B072LNTRGN-de'
-tags: [  ]
 actualPrice: 51.98 EUR
 currency: EUR
 price: 51.98

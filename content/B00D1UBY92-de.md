@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00D1UBY92-de 2x Schwalbe SV15 SV 15 extra long lang Rennrad Schlauch...'
 sku: 'B00D1UBY92-de'
-tags: [  ]
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

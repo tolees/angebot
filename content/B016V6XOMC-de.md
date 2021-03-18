@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016V6XOMC-de Original HTC Micro USB Ladekabel für HTC One M7 M8 M9...'
 sku: 'B016V6XOMC-de'
-tags: [  ]
 actualPrice: 4.17 EUR
 currency: EUR
 price: 4.17

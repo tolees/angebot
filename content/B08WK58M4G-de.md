@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WK58M4G-de Allegorly Ziehen Autos zurück Geschenk Spielzeug für...'
 sku: 'B08WK58M4G-de'
-tags: [  ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

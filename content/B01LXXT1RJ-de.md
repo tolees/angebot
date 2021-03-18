@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXXT1RJ-de Iris & Lilly Damen Hipster mit unterschiedlichen Mustern...'
 sku: 'B01LXXT1RJ-de'
-tags: [  ]
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

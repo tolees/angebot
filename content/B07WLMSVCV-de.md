@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLMSVCV-de LEGO 60254 City Rennboot-Transporter LKW Spielzeug mit...'
 sku: 'B07WLMSVCV-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Elektronische Spiele für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Küchenspielzeug','Sammelfiguren','Sammelfiguren & Requisiten','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 19.48 EUR
 currency: EUR
 price: 19.48

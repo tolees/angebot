@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRD11O-de Sylvanian Families 5036 5036-Babyzimmer Puppenzimmer...'
 sku: 'B00HRRD11O-de'
-tags: [  ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

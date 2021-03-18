@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VP535TP-de Magnetisches Armband Werkzeug Handwerker Magnetarmband mit...'
 sku: 'B07VP535TP-de'
-tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

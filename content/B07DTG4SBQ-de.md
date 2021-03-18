@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DTG4SBQ-de Pentel BL2007B-BOX Gelroller - Exklusive Ausführung in...'
 sku: 'B07DTG4SBQ-de'
-tags: [  ]
 actualPrice: 13.51 EUR
 currency: EUR
 price: 13.51

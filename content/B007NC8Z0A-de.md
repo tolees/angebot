@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007NC8Z0A-de Durex Play Perfect Glide Gleitgel auf Silikonbasis –...'
 sku: 'B007NC8Z0A-de'
-tags: [  ]
 actualPrice: 5.18 EUR
 currency: EUR
 price: 5.18

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RHTKRNB-de Furado Smart Hula Reifen Hula-Ring für Erwachsene Fitness...'
 sku: 'B08RHTKRNB-de'
-tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

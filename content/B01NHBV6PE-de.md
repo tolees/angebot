@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NHBV6PE-de SanDisk 16GB Cruzer Blade USB-Flash-Laufwerk 3-pack'
 sku: 'B01NHBV6PE-de'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

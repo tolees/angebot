@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XVX1K7K-de Microsoft Bluetooth Mouse Pfirsich'
 sku: 'B07XVX1K7K-de'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

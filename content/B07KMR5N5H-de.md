@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KMR5N5H-de adidas Damen W E 3S Pant Sport Trousers Black/White S'
 sku: 'B07KMR5N5H-de'
-tags: [  ]
 actualPrice: 37.32 EUR
 currency: EUR
 price: 37.32

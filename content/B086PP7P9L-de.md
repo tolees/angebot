@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086PP7P9L-de ACTRINIC - STEM Spielzeugen Solarroboter Kit 12 in-1-Sets...'
 sku: 'B086PP7P9L-de'
-tags: [  ]
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

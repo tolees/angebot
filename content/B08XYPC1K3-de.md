@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XYPC1K3-de Beamer YABER V2 WiFi Mini Beamer 6000 Lumen Unterstützt...'
 sku: 'B08XYPC1K3-de'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

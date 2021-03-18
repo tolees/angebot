@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078T8Q3MR-de COLUMBIA Mädchen Wanderschuhe Wasserdicht YOUTH MINX MID...'
 sku: 'B078T8Q3MR-de'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

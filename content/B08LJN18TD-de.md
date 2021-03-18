@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LJN18TD-de AV Visionen GmbH - Bleach - TV Serie - Vol. 10 - [Blu-ray]'
 sku: 'B08LJN18TD-de'
-tags: [  ]
 actualPrice: 30.44 EUR
 currency: EUR
 price: 30.44

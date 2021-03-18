@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4RQ58V-de LEGO 31114 Creator 3-in-1 Geländemotorrad Superbike-...'
 sku: 'B08G4RQ58V-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084LG36BW-de edc by ESPRIT Damen 030CC1D305 Rock 044/LIGHT Grey 5 S'
 sku: 'B084LG36BW-de'
-tags: [ 'edc by esprit', ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

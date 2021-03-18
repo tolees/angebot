@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WVM68TB-de Playmobil City Life 9269 Große Familienküche Ab 4 Jahren'
 sku: 'B06WVM68TB-de'
-tags: [  ]
 actualPrice: 16.42 EUR
 currency: EUR
 price: 16.42

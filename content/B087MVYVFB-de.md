@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MVYVFB-de Funko 51636 POP Animation: South Park-Awesom-O Sammelbares...'
 sku: 'B087MVYVFB-de'
-tags: [  ]
 actualPrice: 12.78 EUR
 currency: EUR
 price: 12.78

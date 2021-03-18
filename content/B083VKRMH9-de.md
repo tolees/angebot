@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083VKRMH9-de Barbie GHV92 - Barbie Hundebuggy Spielset mit Barbie-Puppe...'
 sku: 'B083VKRMH9-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

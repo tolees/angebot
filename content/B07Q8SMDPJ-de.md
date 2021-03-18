@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q8SMDPJ-de HABA 304697 - Tal der Wikinger Kinderspiel des Jahres 2019...'
 sku: 'B07Q8SMDPJ-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

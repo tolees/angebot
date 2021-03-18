@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075G1BKGQ-de Vans Herren Ward Suede/Canvas Sneaker Schwarz...'
 sku: 'B075G1BKGQ-de'
-tags: [  ]
 actualPrice: 49.47 EUR
 currency: EUR
 price: 49.47

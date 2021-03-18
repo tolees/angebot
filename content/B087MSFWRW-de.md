@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MSFWRW-de Jack Wolfskin Damen Downhill Texapore MID W Outdoorschuhe...'
 sku: 'B087MSFWRW-de'
-tags: [  ]
 actualPrice: 83.88 EUR
 currency: EUR
 price: 83.88

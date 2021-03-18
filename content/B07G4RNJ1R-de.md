@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4RNJ1R-de Sony RX100 V | Premium-Kompaktkamera 1 0-Typ-Sensor 24-70...'
 sku: 'B07G4RNJ1R-de'
-tags: [  ]
 actualPrice: 701.76 EUR
 currency: EUR
 price: 701.76

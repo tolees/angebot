@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q3X9BH3-de Nike Damen Revolution 5 Running Shoe White/Wolf Grey-Pure...'
 sku: 'B07Q3X9BH3-de'
-tags: [  ]
 actualPrice: 46.31 EUR
 currency: EUR
 price: 46.31

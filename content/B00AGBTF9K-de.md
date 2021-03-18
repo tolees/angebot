@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AGBTF9K-de Blomus Menoto - WC Bürstenhalter Edelstahl für...'
 sku: 'B00AGBTF9K-de'
-tags: [  ]
 actualPrice: 68.7 EUR
 currency: EUR
 price: 68.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D3C3BW9-de VATOS Bausteine Spielzeug ab 5 6 7 8 9 10 11 12 Jahren für...'
 sku: 'B08D3C3BW9-de'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

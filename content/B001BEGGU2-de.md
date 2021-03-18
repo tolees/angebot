@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BEGGU2-de Sebamed Trockene Haut Lotion Urea Akut 200ml'
 sku: 'B001BEGGU2-de'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

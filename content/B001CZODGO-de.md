@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CZODGO-de LIQUI MOLY 1515 Marder-Schutz-Spray 200 ml'
 sku: 'B001CZODGO-de'
-tags: [  ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000BRBYJ8-de Sorel Damen Winterstiefel CARIBOU Braun Buff Größe: 40'
 sku: 'B000BRBYJ8-de'
-tags: [  ]
 actualPrice: 127.45 EUR
 currency: EUR
 price: 127.45

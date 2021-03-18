@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KFXWSP3-de Bluetooth Kopfhörer in Ear LIFEBEE Kabellos Bluetooth 5.0...'
 sku: 'B08KFXWSP3-de'
-tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CFVWCX7-de Samsung Galaxy A51 128GB Handy Silber Haze Crush Silver...'
 sku: 'B08CFVWCX7-de'
-tags: [  ]
 actualPrice: 225.96 EUR
 currency: EUR
 price: 225.96

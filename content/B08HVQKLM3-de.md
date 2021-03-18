@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVQKLM3-de AUKEY Bluetooth Kopfhörer In-Ear-Erkennung mit Qi Wireless...'
 sku: 'B08HVQKLM3-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4T3B6M-de Hugo Boss Herren Analog Quarz Uhr mit Leder Armband 1513661'
 sku: 'B07G4T3B6M-de'
-tags: [  ]
 actualPrice: 157.98 EUR
 currency: EUR
 price: 157.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GS19T5F-de JSLEAP Turnschuhe für Männer Sportschuhe Laufschuhe...'
 sku: 'B08GS19T5F-de'
-tags: [  ]
 actualPrice: 38.24 EUR
 currency: EUR
 price: 38.24

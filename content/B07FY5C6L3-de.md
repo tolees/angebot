@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY5C6L3-de Lauva Pop Perlen Schmuck Making Kits Geschenkset Bildung...'
 sku: 'B07FY5C6L3-de'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

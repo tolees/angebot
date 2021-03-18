@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYBC9ZP-de Ubisoft - Watch Dogs Legion Ultimate Edition -...'
 sku: 'B07SYBC9ZP-de'
-tags: [ 'ubisoft', ]
 actualPrice: 40.31 EUR
 currency: EUR
 price: 40.31

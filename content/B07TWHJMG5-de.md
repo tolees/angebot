@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWHJMG5-de Occulto 3 Paar Sportsocken/Laufsocken/Wandersocken für...'
 sku: 'B07TWHJMG5-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

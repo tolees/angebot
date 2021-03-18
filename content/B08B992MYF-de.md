@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B992MYF-de Xiaomi - POCO X3 NFC - Smartphone 6 + 64 GB 6 67 Zoll FHD+...'
 sku: 'B08B992MYF-de'
-tags: [  ]
 actualPrice: 186.04 EUR
 currency: EUR
 price: 186.04

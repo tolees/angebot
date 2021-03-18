@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRM7NRN-de MIHUA 10m Gummiband ，Elastikkordel，Gummiband Rund，Weiches...'
 sku: 'B08CRM7NRN-de'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

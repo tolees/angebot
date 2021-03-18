@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8MQ68X-de Intenso 7501510 Energy Ultra AAA Micro LR03 Alkaline...'
 sku: 'B07P8MQ68X-de'
-tags: [  ]
 actualPrice: 6.83 EUR
 currency: EUR
 price: 6.83

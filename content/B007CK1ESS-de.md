@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CK1ESS-de NUK Babyphone mit Kamera Eco Control+ Video mit...'
 sku: 'B007CK1ESS-de'
-tags: [  ]
 actualPrice: 133.68 EUR
 currency: EUR
 price: 133.68

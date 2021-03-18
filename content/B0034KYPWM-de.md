@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0034KYPWM-de WENKO Teleskop-Staubwedel - ausziehbar bis 115 cm...'
 sku: 'B0034KYPWM-de'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

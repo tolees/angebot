@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00006HXNC-de Canon 7737A001 KP-36IP photo paper inkjet 100x148mm 36...'
 sku: 'B00006HXNC-de'
-tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

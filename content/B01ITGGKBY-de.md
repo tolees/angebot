@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ITGGKBY-de De Longhi Nespresso Citiz EN167.W Kaffemaschine...'
 sku: 'B01ITGGKBY-de'
-tags: [  ]
 actualPrice: 109.38 EUR
 currency: EUR
 price: 109.38

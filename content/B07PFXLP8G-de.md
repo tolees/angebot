@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFXLP8G-de Krups HZ656815 Steffen Henssler Special Edition Stabmixer...'
 sku: 'B07PFXLP8G-de'
-tags: [  ]
 actualPrice: 71.57 EUR
 currency: EUR
 price: 71.57

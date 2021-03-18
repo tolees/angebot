@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GSRG6QP-de LG Electronics - LG OLED55BX9LB 139 cm 55 Zoll OLED...'
 sku: 'B08GSRG6QP-de'
-tags: [  ]
 actualPrice: 1111.0 EUR
 currency: EUR
 price: 1111.0

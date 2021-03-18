@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WB1PI5S-de DeWalt XR Akku-Schlagschrauber DCF899NT - Schlagschrauber...'
 sku: 'B00WB1PI5S-de'
-tags: [  ]
 actualPrice: 177.89 EUR
 currency: EUR
 price: 177.89

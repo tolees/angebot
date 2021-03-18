@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNF75D9-de Panasonic TX-40FSW504 40 Zoll/100 cm Smart TV TV LED...'
 sku: 'B07CNF75D9-de'
-tags: [  ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

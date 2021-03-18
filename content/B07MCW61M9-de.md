@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MCW61M9-de KOSMOS 604363 AllesKönnerKiste Pferde Kreativ-Box. DIY-...'
 sku: 'B07MCW61M9-de'
-tags: [  ]
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

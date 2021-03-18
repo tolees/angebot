@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDJXS2H-de SEIKO Automatische Uhr SRPD83K1 schwarz Street'
 sku: 'B07WDJXS2H-de'
-tags: [  ]
 actualPrice: 210.2 EUR
 currency: EUR
 price: 210.2

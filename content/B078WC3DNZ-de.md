@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WC3DNZ-de Tommy Hilfiger Unisex Multi Zifferblatt Quarz Uhr mit...'
 sku: 'B078WC3DNZ-de'
-tags: [ 'tommy hilfiger', ]
 actualPrice: 101.0 EUR
 currency: EUR
 price: 101.0

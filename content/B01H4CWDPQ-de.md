@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H4CWDPQ-de PUMA Herren Tazon 6 FM Laufschuhe Black Silver 46 EU'
 sku: 'B01H4CWDPQ-de'
-tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

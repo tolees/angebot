@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000B7KPPC-de Sony - Dr. Seltsam oder wie ich lernte die Bombe zu lieben...'
 sku: 'B000B7KPPC-de'
-tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

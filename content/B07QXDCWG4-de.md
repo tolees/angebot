@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXDCWG4-de one-home 2er Set Mikrofaser Kissenbezug Kissenhülle...'
 sku: 'B07QXDCWG4-de'
-tags: [  ]
 actualPrice: 6.06 EUR
 currency: EUR
 price: 6.06

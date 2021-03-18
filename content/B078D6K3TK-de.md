@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078D6K3TK-de TV Wandhalterung Schwenkbar Neigbar Ausziehbar Fernseher...'
 sku: 'B078D6K3TK-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

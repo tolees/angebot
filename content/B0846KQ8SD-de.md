@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846KQ8SD-de Legero Damen Tanaro Turnschuh Daino 40 EU 6.5 UK'
 sku: 'B0846KQ8SD-de'
-tags: [  ]
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2

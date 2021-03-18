@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X4RX9Q3-de NAIHEN HOME - NAIHEN Smart Hoop Hu-la Hoop Einstellbar...'
 sku: 'B08X4RX9Q3-de'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

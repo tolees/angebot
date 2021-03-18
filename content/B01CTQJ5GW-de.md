@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CTQJ5GW-de Pandora Damen-Armband mit Kugelverschluss glatt 925 Silber...'
 sku: 'B01CTQJ5GW-de'
-tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

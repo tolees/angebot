@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003PAOAWG-de Logitech C270 Webcam 720p Videoqualität schwarz'
 sku: 'B003PAOAWG-de'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

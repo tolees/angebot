@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MYYTP3S-de Netgear GS108E Switch 8 Port Gigabit Ethernet LAN Switch...'
 sku: 'B00MYYTP3S-de'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

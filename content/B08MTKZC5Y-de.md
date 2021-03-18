@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MTKZC5Y-de HONOR Router 3 Wi-Fi 6+ 1000Mbit/s Dual Core 2976Mbps WiFi...'
 sku: 'B08MTKZC5Y-de'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

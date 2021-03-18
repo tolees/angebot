@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7RZ6HL-de Samsung Odyssey G5 34 Zoll 1440p Gaming Monitor C34G55T...'
 sku: 'B08C7RZ6HL-de'
-tags: [  ]
 actualPrice: 489.96 EUR
 currency: EUR
 price: 489.96

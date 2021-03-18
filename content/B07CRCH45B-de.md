@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CRCH45B-de Pepe Jeans Jungen Finly Slim Jeans Blau Denim MJ7 13-14 Jahre'
 sku: 'B07CRCH45B-de'
-tags: [  ]
 actualPrice: 30.25 EUR
 currency: EUR
 price: 30.25

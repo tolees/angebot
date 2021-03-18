@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017V9OO7M-de Mädchen gegen Jungs'
 sku: 'B017V9OO7M-de'
-tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

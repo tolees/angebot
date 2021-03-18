@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001NYX7RU-de KS Tools 515.1119 1/2" Sechskant-Kraft-Stecknuss lang 19mm'
 sku: 'B001NYX7RU-de'
-tags: [  ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

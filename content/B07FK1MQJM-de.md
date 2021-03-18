@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK1MQJM-de Lebendige Farben Filzwolle Merinowolle Kammzug Wolle Filz...'
 sku: 'B07FK1MQJM-de'
-tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

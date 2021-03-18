@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VHY99G5-de UnionSine Ultra Slim 320GB Externe Tragbare Festplatte 2 5...'
 sku: 'B08VHY99G5-de'
-tags: [  ]
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

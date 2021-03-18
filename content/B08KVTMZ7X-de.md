@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVTMZ7X-de PLAYMOBIL City Life 70541 Meine Kinderarztpraxis Ab 4 Jahren'
 sku: 'B08KVTMZ7X-de'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

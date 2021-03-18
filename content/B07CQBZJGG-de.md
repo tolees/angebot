@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CQBZJGG-de Panasonic TX-24FSW504 24 Zoll/60 cm Smart TV TV LED...'
 sku: 'B07CQBZJGG-de'
-tags: [  ]
 actualPrice: 242.72 EUR
 currency: EUR
 price: 242.72

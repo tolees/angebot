@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XWP21JI-de Nike Herren Md Runner 2 Gymnastikschuhe Grau Wolf...'
 sku: 'B00XWP21JI-de'
-tags: [  ]
 actualPrice: 51.71 EUR
 currency: EUR
 price: 51.71

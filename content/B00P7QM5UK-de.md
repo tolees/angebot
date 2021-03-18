@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P7QM5UK-de POWERADD Pilot X7 20000mAh Externer Akku enorme...'
 sku: 'B00P7QM5UK-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

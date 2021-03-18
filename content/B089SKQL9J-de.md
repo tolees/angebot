@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SKQL9J-de LED TV Hintergrundbeleuchtung MustWin 3M USB LED...'
 sku: 'B089SKQL9J-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

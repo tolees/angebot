@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001O8L2UO-de Trixie 4590 Cat Activity Fun Board 30 × 40 cm grau'
 sku: 'B001O8L2UO-de'
-tags: [  ]
 actualPrice: 9.21 EUR
 currency: EUR
 price: 9.21

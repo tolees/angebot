@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VQ9WMK9-de Warner Home Video - Supernatural - Die komplette...'
 sku: 'B07VQ9WMK9-de'
-tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

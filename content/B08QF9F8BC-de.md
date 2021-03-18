@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QF9F8BC-de Ortizan Bluetooth Lautsprecher mit LED Licht Tragbarer...'
 sku: 'B08QF9F8BC-de'
-tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

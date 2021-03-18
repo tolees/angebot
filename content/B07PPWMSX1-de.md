@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPWMSX1-de Bombay Sapphire English Estate Limited Edition 0.7 l'
 sku: 'B07PPWMSX1-de'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

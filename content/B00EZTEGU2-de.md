@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EZTEGU2-de Eberhard Faber 575510 - Schulmalfarben Tempera 10 Tuben je...'
 sku: 'B00EZTEGU2-de'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

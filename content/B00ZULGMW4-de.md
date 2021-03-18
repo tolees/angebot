@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZULGMW4-de Square Enix - World of Final Fantasy Day One Edition'
 sku: 'B00ZULGMW4-de'
-tags: [  ]
 actualPrice: 22.06 EUR
 currency: EUR
 price: 22.06

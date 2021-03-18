@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00E9ORAXS-de Epson C13T27014012 Wecker Nr.27 Serie Standard-...'
 sku: 'B00E9ORAXS-de'
-tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

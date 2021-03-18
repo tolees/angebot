@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4DG8RF-de Logitech G332 Gaming-Headset Special Edition Stereo Sound...'
 sku: 'B07W4DG8RF-de'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

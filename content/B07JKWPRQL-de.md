@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKWPRQL-de Playmobil 70013 Western Westernkutsche bunt'
 sku: 'B07JKWPRQL-de'
-tags: [  ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FSVBHSP-de MPIO Stylus Pen 2. Generation für Apple iPad...'
 sku: 'B08FSVBHSP-de'
-tags: [  ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

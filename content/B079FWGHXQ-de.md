@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FWGHXQ-de Trust Gaming - Trust GXT 707R Resto Gaming-Stuhl...'
 sku: 'B079FWGHXQ-de'
-tags: [  ]
 actualPrice: 186.7 EUR
 currency: EUR
 price: 186.7

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQ9RKB8-de Chicago Fire - Staffel sieben [6 DVDs]'
 sku: 'B07VQ9RKB8-de'
-tags: [  ]
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

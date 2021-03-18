@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTS7T3R-de PERLESMITH - TV Wandhalterung Schwenkbar Neigbar max.VESA...'
 sku: 'B07TTS7T3R-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Beleuchtung','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Damen-Henkeltaschen','Damen-Sneaker','Damenhandtaschen','Damenschuhe','Dekorative Leuchtmittel','Digitale Kompaktkameras','Digitalkameras','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Elektronische Spiele für Kinder','Experimentieren & Forschen','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Forschen & Entdecken: Solarenergie','Handtaschen','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','Heimkino, TV & Video Zubehör','Hobbys','In-Ear Ohrhörer','Kamera & Foto','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO Steine & Co.','Leuchtmittel','Netzwerkgeräte','PowerLAN-Adapter','Produkte','Repeater','Sammelfiguren','Sammelfiguren & Requisiten','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Simlockfreie Handys','Sneaker & Sportschuhe für Damen','Speziallampen','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Sport-Kopfhörer','TV-Halterungen & Ständer','TV-Wand- & Deckenhalterungen','Weiß- & Vollwäsche','Wi-Fi Lampen','Wäschepflege','perlesmith', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

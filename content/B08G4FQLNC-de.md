@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4FQLNC-de Xpassion Playstation Lampe mit Farbwechsel Funktion 16...'
 sku: 'B08G4FQLNC-de'
-tags: [  ]
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

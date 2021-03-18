@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EZ0X3L8-de SanDisk Ultra Dual USB Type-C Laufwerk Smartphone Speicher...'
 sku: 'B01EZ0X3L8-de'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

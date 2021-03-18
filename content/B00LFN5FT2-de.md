@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LFN5FT2-de MAIER SPORTS Herren Softshell Skihose Lothar Schwarz 98'
 sku: 'B00LFN5FT2-de'
-tags: [ '355357031','9373082031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Koffer, Rucksäcke & Taschen','Kofferorganizer','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Wintersport','Zubehör','maier sports', ]
 actualPrice: 66.2 EUR
 currency: EUR
 price: 66.2

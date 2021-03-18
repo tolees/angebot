@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078GMZ9PQ-de Jabra Elite 65t – True Wireless In-ear Kopfhörer mit...'
 sku: 'B078GMZ9PQ-de'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

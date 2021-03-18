@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LM9C8WR-de ZOXOZ Jogginghose Herren Baumwolle Trainingshose Männer...'
 sku: 'B08LM9C8WR-de'
-tags: [  ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

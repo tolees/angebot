@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VJSGKH8-de Hugo Boss Herren Chronograph Quartz Uhr mit Edelstahl...'
 sku: 'B07VJSGKH8-de'
-tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

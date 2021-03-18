@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XOWP1C-de Das Phantom der Oper [Blu-ray] [Special Edition]'
 sku: 'B003XOWP1C-de'
-tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

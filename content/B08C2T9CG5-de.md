@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C2T9CG5-de SNAPTAIN A10 Mini Faltbare Drohne mit 720P HD-Kamera FPV...'
 sku: 'B08C2T9CG5-de'
-tags: [  ]
 actualPrice: 36.11 EUR
 currency: EUR
 price: 36.11

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XG842VK-de Corny Your Protein Vanilla White Crunch Eiweiß-Riegel mit...'
 sku: 'B07XG842VK-de'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

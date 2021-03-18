@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YWDF8M-de Steiff AFFE Brownie - 30 cm - Plüschaffe mit Langen Armen...'
 sku: 'B079YWDF8M-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089R1C9HV-de Samsung 870 QVO 2TB SATA 2 5 Zoll Internes Solid State...'
 sku: 'B089R1C9HV-de'
-tags: [ '355357031','9373082031','Bauspielzeug & Konstruktionsspielzeug','Beauty','Bilder, Poster, Kunstdrucke & Skulpturen','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Damendüfte','Datenspeicher','Düfte','Eau de Toilette für Damen','Elektronik & Foto','Federmäppchen','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Interne SSD','Interner Speicher','Kfz-Handyladegeräte','Kleinteileaufbewahrung','Koffer, Rucksäcke & Taschen','Kofferorganizer','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schreibtischzubehör & Ablage','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Wintersport','Zubehör','samsung', ]
 actualPrice: 169.9 EUR
 currency: EUR
 price: 169.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZKZSTZ-de Xiaomi Mi 20W Wireless Car Charger Qi/EPP Ladepad...'
 sku: 'B07ZZKZSTZ-de'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

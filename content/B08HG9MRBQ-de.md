@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HG9MRBQ-de Sony Pictures Home Entertainment - Der wunderbare Mr. Rogers'
 sku: 'B08HG9MRBQ-de'
-tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

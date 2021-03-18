@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WCXH4XD-de Basewing Antibeschlagtuch für Brille Anti Fog Tuch Anti...'
 sku: 'B08WCXH4XD-de'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

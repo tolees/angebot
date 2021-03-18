@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086MXXHVD-de LE LED Strip 10M 2x5M Alexa LED Streifen mit Musik IP20...'
 sku: 'B086MXXHVD-de'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

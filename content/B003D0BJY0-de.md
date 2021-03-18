@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003D0BJY0-de Draper 19174 Mehrzweck-Schaufel aus Polyurethan'
 sku: 'B003D0BJY0-de'
-tags: [  ]
 actualPrice: 25.67 EUR
 currency: EUR
 price: 25.67

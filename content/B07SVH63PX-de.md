@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SVH63PX-de JBL Flip 5 Bluetooth Box in Schwarz – Wasserdichter...'
 sku: 'B07SVH63PX-de'
-tags: [  ]
 actualPrice: 82.9 EUR
 currency: EUR
 price: 82.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GVR9TG7-de TP-Link Archer C6 Dualband Gigabit WLAN-Router 867Mbit/s...'
 sku: 'B07GVR9TG7-de'
-tags: [  ]
 actualPrice: 35.29 EUR
 currency: EUR
 price: 35.29

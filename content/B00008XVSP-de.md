@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00008XVSP-de WMF Profi Plus Knoblauchpresse 17 5 cm Cromargan Edelstahl...'
 sku: 'B00008XVSP-de'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

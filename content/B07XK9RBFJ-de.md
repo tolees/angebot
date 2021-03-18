@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XK9RBFJ-de Seagate Expansion SSD portable externe SSD 500 GB 2.5 Zoll...'
 sku: 'B07XK9RBFJ-de'
-tags: [  ]
 actualPrice: 55.77 EUR
 currency: EUR
 price: 55.77

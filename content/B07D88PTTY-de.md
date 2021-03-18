@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D88PTTY-de Electronic Arts - Battlefield V - Standard Edition | PC...'
 sku: 'B07D88PTTY-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

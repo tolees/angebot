@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M0G01UU-de Magic Life'
 sku: 'B01M0G01UU-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

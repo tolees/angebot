@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KJASRMS-de Die Profis - Die komplette Serie - HD-Remastered [Blu-ray]'
 sku: 'B01KJASRMS-de'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

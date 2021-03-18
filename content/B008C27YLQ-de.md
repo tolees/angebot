@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008C27YLQ-de Nike Unisex Erwachsene Swoosh Headband/Stirnband Schwarz...'
 sku: 'B008C27YLQ-de'
-tags: [  ]
 actualPrice: 6.62 EUR
 currency: EUR
 price: 6.62

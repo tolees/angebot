@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004NNPWCG-de Pentel C275-HBO AIN STEIN Feinmine 0.5 mm Härtegrad HB 40...'
 sku: 'B004NNPWCG-de'
-tags: [  ]
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

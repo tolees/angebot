@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087DFLF9S-de Samsung T7 Portable SSD - 1 TB - USB 3.2 Gen.2 Externe SSD...'
 sku: 'B087DFLF9S-de'
-tags: [  ]
 actualPrice: 142.43 EUR
 currency: EUR
 price: 142.43

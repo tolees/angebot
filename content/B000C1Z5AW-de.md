@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000C1Z5AW-de Estée Lauder - Estee Lauder Pleasures femme/woman Eau de...'
 sku: 'B000C1Z5AW-de'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

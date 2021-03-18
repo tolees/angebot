@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KY2YGP7-de Ok K! okk Roboter Spielzeug für Kinder STEM Lernspielzeug...'
 sku: 'B08KY2YGP7-de'
-tags: [  ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

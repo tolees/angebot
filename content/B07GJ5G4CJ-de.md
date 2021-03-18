@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJ5G4CJ-de Durex Gefühlsecht Kondome – Hauchzarte Kondome für...'
 sku: 'B07GJ5G4CJ-de'
-tags: [  ]
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

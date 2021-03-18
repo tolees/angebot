@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W2XXGZM-de Xmanyao - Hula Hoop 24 Artikulierte Fitness Reifen...'
 sku: 'B08W2XXGZM-de'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

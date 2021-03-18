@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000IAZC3W-de Victorinox Fibrox Tranchiermesser 22cm Rutschfest...'
 sku: 'B000IAZC3W-de'
-tags: [  ]
 actualPrice: 25.52 EUR
 currency: EUR
 price: 25.52

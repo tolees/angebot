@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005IMZQ5E-de 20th Century Fox - How I Met Your Mother - Season 6 [3 DVDs]'
 sku: 'B005IMZQ5E-de'
-tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

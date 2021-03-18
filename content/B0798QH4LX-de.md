@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0798QH4LX-de Superzings PSZSD166IN06 MBXSZSP0100 S Kaboom Trap Multicolour'
 sku: 'B0798QH4LX-de'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

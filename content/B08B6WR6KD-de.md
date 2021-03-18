@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B6WR6KD-de Ford Harrison; Stevens Dan; Sanders Christopher - Ruf der...'
 sku: 'B08B6WR6KD-de'
-tags: [ 'ford, harrison; stevens, dan; sanders, christopher', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

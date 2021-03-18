@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X16JXJ9-de Adidas Adilette Shower Herren Dusch- & Badeschuhe Weiß...'
 sku: 'B06X16JXJ9-de'
-tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

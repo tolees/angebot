@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXLMEAP-de Hasbro B9837EU4 - N-Strike Elite Disruptor...'
 sku: 'B01MXLMEAP-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

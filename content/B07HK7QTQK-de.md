@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HK7QTQK-de Kosiy WLAN Verstärker WLAN Repeater 1200 Mbit/s...'
 sku: 'B07HK7QTQK-de'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

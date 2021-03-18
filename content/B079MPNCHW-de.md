@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MPNCHW-de PLAYMOBIL Space 9489 Mars-Erkundungsfahrzeug Ab 6 Jahren'
 sku: 'B079MPNCHW-de'
-tags: [ 'Future Planet','Motorfahrzeugspielsets für Kinder','Spielfahrzeuge für Kinder','playmobil', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

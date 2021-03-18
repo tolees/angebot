@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WCR11C9-de Ewendy - D13 Smart Watch Aktivitätstracker für Unisex IP67...'
 sku: 'B08WCR11C9-de'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

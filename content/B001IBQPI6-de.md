@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001IBQPI6-de Bosch Professional Hammerbohrer SDS-plus-5 Ø 16 mm'
 sku: 'B001IBQPI6-de'
-tags: [  ]
 actualPrice: 7.76 EUR
 currency: EUR
 price: 7.76

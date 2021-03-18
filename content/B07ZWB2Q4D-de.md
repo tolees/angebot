@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZWB2Q4D-de LEONINE Distribution GmbH - Knives Out - Mord ist...'
 sku: 'B07ZWB2Q4D-de'
-tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

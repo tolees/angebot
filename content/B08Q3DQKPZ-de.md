@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08Q3DQKPZ-de Donerton - Bluetooth Kopfhörer In Ear Kopfhörer Kabellos...'
 sku: 'B08Q3DQKPZ-de'
-tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Kopfhörer','Bürobedarf & Schreibwaren','Büromaterial','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Kopfhörer','Kopfhörer & Zubehör','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO DUPLO Stadt','LEGO Racers','LEGO Steine & Co.','Polizei & Feuerwehr','Produkte','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Spielzeugfahrzeuge','Utensilienschalen','donerton', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D12RDB5-de SALOMON Herren Speedcross 4 Gtx Schuhe Blau Sky...'
 sku: 'B07D12RDB5-de'
-tags: [  ]
 actualPrice: 116.15 EUR
 currency: EUR
 price: 116.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MLZZVM-de PUMA Unisex Smash v2 L Sneaker Black Black 43 EU'
 sku: 'B077MLZZVM-de'
-tags: [  ]
 actualPrice: 39.66 EUR
 currency: EUR
 price: 39.66

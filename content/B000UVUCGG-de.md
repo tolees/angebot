@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000UVUCGG-de McDavid 651 Unterarmschutz mit HEX-Polsterung für Damen...'
 sku: 'B000UVUCGG-de'
-tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

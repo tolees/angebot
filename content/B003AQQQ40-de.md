@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003AQQQ40-de Bi-Office Korktafel / Pinnwand mit Holzrahmen- 5 Größen...'
 sku: 'B003AQQQ40-de'
-tags: [  ]
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

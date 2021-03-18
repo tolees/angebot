@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJTKDZQ-de Corsair Crystal 280X RGB PC-Gehäuse Micro ATX mit...'
 sku: 'B07CJTKDZQ-de'
-tags: [ 'corsair', ]
 actualPrice: 136.71 EUR
 currency: EUR
 price: 136.71

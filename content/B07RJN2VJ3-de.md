@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RJN2VJ3-de LE 15W Alexa LED Deckenlampe 1250lm 22cm Smart Wifi...'
 sku: 'B07RJN2VJ3-de'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

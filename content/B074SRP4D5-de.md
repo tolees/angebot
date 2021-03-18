@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074SRP4D5-de Tommy Hilfiger Herren CORE Cotton-Silk CNECK Pullover Blau...'
 sku: 'B074SRP4D5-de'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

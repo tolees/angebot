@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXWS8ZQ-de Pandora Damen-Tennisarmbänder 925 Sterling Silber 598342CZ-19'
 sku: 'B07WXWS8ZQ-de'
-tags: [ '355357031','9373082031','Aktivitätstracker','Armbänder für Damen','Bauspielzeug & Konstruktionsspielzeug','Beauty','Beleuchtung','Bilder, Poster, Kunstdrucke & Skulpturen','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Damendüfte','Damenschmuck','Datenspeicher','Düfte','Eau de Toilette für Damen','Elektronik & Foto','Federmäppchen','Games','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Innenbeleuchtung','Interne SSD','Interner Speicher','Kfz-Handyladegeräte','Kleinteileaufbewahrung','Koffer, Rucksäcke & Taschen','Kofferorganizer','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LED Streifen','LEGO','LEGO City','PlayStation 4','Poster & Kunstdrucke','Produkte','Regular Stores','Reise-Zubehör','Schmuck','Schreibtischzubehör & Ablage','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Shops','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Smartwatches','Spezial- & Stimmungsbeleuchtung','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Sportelektronik','Wintersport','Zubehör','pandora', ]
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2

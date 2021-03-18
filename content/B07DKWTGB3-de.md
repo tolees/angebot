@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKWTGB3-de Multifunktionswerkzeug TECCPO 170W Drehwerkzeugsatz mit 80...'
 sku: 'B07DKWTGB3-de'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

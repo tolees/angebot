@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SW3FVFY-de Soundbar für TV Geräte SAKOBS 80dB 60W 81CM Soundsystem...'
 sku: 'B07SW3FVFY-de'
-tags: [  ]
 actualPrice: 44.12 EUR
 currency: EUR
 price: 44.12

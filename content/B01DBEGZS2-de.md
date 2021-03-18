@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DBEGZS2-de Warner Bros Entertainment - Game of Thrones - Die...'
 sku: 'B01DBEGZS2-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

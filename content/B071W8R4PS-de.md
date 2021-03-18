@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071W8R4PS-de AVM FRITZ! Box 7590 WLAN AC+N Router DSL/VDSL 1.733 MBit/s...'
 sku: 'B071W8R4PS-de'
-tags: [  ]
 actualPrice: 184.99 EUR
 currency: EUR
 price: 184.99

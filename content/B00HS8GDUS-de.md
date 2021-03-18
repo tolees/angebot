@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HS8GDUS-de Barbara Becker präsentiert das Bauch Beine Po-Bootcamp...'
 sku: 'B00HS8GDUS-de'
-tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

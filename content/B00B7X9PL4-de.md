@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B7X9PL4-de bruno banani Dangerous Woman – Eau de Toilette Natural...'
 sku: 'B00B7X9PL4-de'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

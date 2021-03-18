@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015QDYF2Y-de Colgate Komplett Ultra Weiß Zahnpasta 12er Pack 12 x 75 ml'
 sku: 'B015QDYF2Y-de'
-tags: [  ]
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JWYQXC-de MENNYO Fitnessband Resistance Bands 17PCS Gymnastikband...'
 sku: 'B087JWYQXC-de'
-tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085YVK5C7-de DYON Smart 40 XT 100 cm 40 Zoll Fernseher Full-HD Smart TV...'
 sku: 'B085YVK5C7-de'
-tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

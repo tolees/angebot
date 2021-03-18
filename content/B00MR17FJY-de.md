@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MR17FJY-de G-STAR RAW Damen Jeans Lynn Mid Waist Skinny Jeans Blau...'
 sku: 'B00MR17FJY-de'
-tags: [  ]
 actualPrice: 43.48 EUR
 currency: EUR
 price: 43.48

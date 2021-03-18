@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MF8TJV5-de Red Dead Redemption 2 Standard Edition [Xbox One] Disk'
 sku: 'B01MF8TJV5-de'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

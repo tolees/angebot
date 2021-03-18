@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JRFGV7-de Mpow Bluetooth 5.0 USB Adapter Bluetooth USB Dongle Stick...'
 sku: 'B087JRFGV7-de'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

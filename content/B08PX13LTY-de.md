@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PX13LTY-de Nokia Smart TV 4300A 43 Zoll 108 cm LED Fernseher 4K UHD...'
 sku: 'B08PX13LTY-de'
-tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

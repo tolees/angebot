@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002C2ZS2E-de Goobay Audio/Video Kabel 3 5mm stereo Kupplung auf 2x...'
 sku: 'B002C2ZS2E-de'
-tags: [  ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

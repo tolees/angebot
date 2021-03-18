@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EEW5C62-de Disney Interactive Studios - Scrubs: Die Anfänger - Die...'
 sku: 'B00EEW5C62-de'
-tags: [  ]
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

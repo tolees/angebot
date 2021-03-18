@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S4XCP3F-de Ravensburger Erwachsenenpuzzle - Ravensburger Puzzle 1000...'
 sku: 'B07S4XCP3F-de'
-tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

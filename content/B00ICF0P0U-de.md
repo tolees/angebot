@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ICF0P0U-de Pegasus Spiele 55115G - Istanbul Kennerspiel des Jahres 2014'
 sku: 'B00ICF0P0U-de'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

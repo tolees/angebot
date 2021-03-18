@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NPF292M-de A Aztech - Aztech Kompatibel für Samsung CLT-P404C für...'
 sku: 'B07NPF292M-de'
-tags: [  ]
 actualPrice: 46.87 EUR
 currency: EUR
 price: 46.87

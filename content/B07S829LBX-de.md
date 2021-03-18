@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S829LBX-de Powerbank Anker PowerCore Essential 20000mAh externer Akku...'
 sku: 'B07S829LBX-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

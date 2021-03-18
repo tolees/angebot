@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01C4QSBX0-de Lowepro Objektivtasche 9 x 16 cm schwarz'
 sku: 'B01C4QSBX0-de'
-tags: [  ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

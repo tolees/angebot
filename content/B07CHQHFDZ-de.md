@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHQHFDZ-de OnePlus 6 Smartphone 15 95 cm 6 28 Zoll 19:9 Touch-Display...'
 sku: 'B07CHQHFDZ-de'
-tags: [  ]
 actualPrice: 415.0 EUR
 currency: EUR
 price: 415.0

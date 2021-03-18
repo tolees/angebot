@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08972GPXR-de UNIVERSAL CLASSIC A - Disney Goes Classical'
 sku: 'B08972GPXR-de'
-tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

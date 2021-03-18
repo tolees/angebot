@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GFD9NNZ-de The Blackout [Blu-ray]'
 sku: 'B08GFD9NNZ-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

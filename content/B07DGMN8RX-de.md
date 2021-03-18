@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DGMN8RX-de Konstsmide 4359-000 LED "Kirche" wassergefüllt 5h Timer...'
 sku: 'B07DGMN8RX-de'
-tags: [  ]
 actualPrice: 39.74 EUR
 currency: EUR
 price: 39.74

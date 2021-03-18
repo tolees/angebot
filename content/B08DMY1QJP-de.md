@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DMY1QJP-de Saugroboter Q5 HONITURE 2-in-1 Staubsauger Roboter LCD mit...'
 sku: 'B08DMY1QJP-de'
-tags: [  ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

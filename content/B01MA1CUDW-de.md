@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MA1CUDW-de BOSS Herren T-Shirt RN 3P CO T-Shirts aus Baumwolle im...'
 sku: 'B01MA1CUDW-de'
-tags: [  ]
 actualPrice: 31.1 EUR
 currency: EUR
 price: 31.1

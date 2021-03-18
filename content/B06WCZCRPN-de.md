@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WCZCRPN-de Playmobil 9243 - Berk'
 sku: 'B06WCZCRPN-de'
-tags: [  ]
 actualPrice: 86.94 EUR
 currency: EUR
 price: 86.94

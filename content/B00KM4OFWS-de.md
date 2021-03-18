@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KM4OFWS-de Bauer Spielwaren - Maisto Harley-Davidson FXDBI Dyna...'
 sku: 'B00KM4OFWS-de'
-tags: [  ]
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

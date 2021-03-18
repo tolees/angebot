@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MH2P5ZD-de Western Digital - WD BLACK SN750 High-Performance NVMe M.2...'
 sku: 'B07MH2P5ZD-de'
-tags: [  ]
 actualPrice: 65.9 EUR
 currency: EUR
 price: 65.9

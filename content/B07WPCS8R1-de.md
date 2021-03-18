@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WPCS8R1-de Homealexa Holz Geoboard Set Geometriebrett Montessori Holz...'
 sku: 'B07WPCS8R1-de'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

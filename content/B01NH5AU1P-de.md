@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NH5AU1P-de Happy Socks Gemischt farbenfrohe Geschenkbox an...'
 sku: 'B01NH5AU1P-de'
-tags: [  ]
 actualPrice: 25.11 EUR
 currency: EUR
 price: 25.11

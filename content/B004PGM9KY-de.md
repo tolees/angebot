@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004PGM9KY-de Logitech Z906 5.1 Sound System Lautsprecher mit 1000 Watt...'
 sku: 'B004PGM9KY-de'
-tags: [  ]
 actualPrice: 225.12 EUR
 currency: EUR
 price: 225.12

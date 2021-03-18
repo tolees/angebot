@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0748MVRJC-de AEG LX7-2-FFP Staubsauger ohne Beutel Inkl. Zusatzdüsen...'
 sku: 'B0748MVRJC-de'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DPZF8WC-de Brennenstuhl Digitale Wochenzeitschaltuhr IP44 digitale...'
 sku: 'B07DPZF8WC-de'
-tags: [  ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

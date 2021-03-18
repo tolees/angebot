@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q8HBN9S-de Samsung Galaxy A12 Smartphone Black 64GB A125F Dual-SIM...'
 sku: 'B08Q8HBN9S-de'
-tags: [  ]
 actualPrice: 139.44 EUR
 currency: EUR
 price: 139.44

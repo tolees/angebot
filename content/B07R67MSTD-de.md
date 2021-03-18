@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R67MSTD-de CARE OF by PUMA knöchelfreie Sneaker für Herren aus Leder...'
 sku: 'B07R67MSTD-de'
-tags: [  ]
 actualPrice: 43.7 EUR
 currency: EUR
 price: 43.7

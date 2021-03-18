@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FA3CXW-de Star Wars: Das Erwachen der Macht'
 sku: 'B019FA3CXW-de'
-tags: [  ]
 actualPrice: 2.56 EUR
 currency: EUR
 price: 2.56

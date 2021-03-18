@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4VWWF1-de Aigital WLAN verstärker WiFi Repeater Range Extender...'
 sku: 'B08C4VWWF1-de'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

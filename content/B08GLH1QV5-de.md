@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GLH1QV5-de meleg otthon - Bluetooth Kopfhörer in Ear Bluetooth 5.0...'
 sku: 'B08GLH1QV5-de'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

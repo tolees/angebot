@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KT8J2W-de Esselte Register für A4 Deckblatt und 10 Trennblätter mit...'
 sku: 'B000KT8J2W-de'
-tags: [  ]
 actualPrice: 1.59 EUR
 currency: EUR
 price: 1.59

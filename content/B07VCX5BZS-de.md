@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCX5BZS-de Jnwayb Katze Brunnen Katze Wasserspender automatischer...'
 sku: 'B07VCX5BZS-de'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

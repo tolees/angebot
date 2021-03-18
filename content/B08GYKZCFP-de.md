@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYKZCFP-de Samsung Clear View Smartphone Cover EF-ZG780 für Galaxy...'
 sku: 'B08GYKZCFP-de'
-tags: [  ]
 actualPrice: 30.26 EUR
 currency: EUR
 price: 30.26

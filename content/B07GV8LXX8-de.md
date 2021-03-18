@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GV8LXX8-de Niksa Funktionsshirt Herren Kurzarm Langarm 2 Stück...'
 sku: 'B07GV8LXX8-de'
-tags: [  ]
 actualPrice: 15.7 EUR
 currency: EUR
 price: 15.7

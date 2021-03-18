@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X48LXJ-de Levi s Damen 310 Shaping Super Skinny Jeans Schwarz Black...'
 sku: 'B076X48LXJ-de'
-tags: [  ]
 actualPrice: 47.49 EUR
 currency: EUR
 price: 47.49

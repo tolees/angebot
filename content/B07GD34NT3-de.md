@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GD34NT3-de CASAMODA Strickjacken Uni'
 sku: 'B07GD34NT3-de'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

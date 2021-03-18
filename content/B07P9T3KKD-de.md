@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P9T3KKD-de Playmobil Dollhouse 70208 Schlafzimmer und Nähstudio mit...'
 sku: 'B07P9T3KKD-de'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

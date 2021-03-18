@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W85FJ5M-de Jada Toys Knight Rider K.I.T.T. - 1982 Pontiac Trans AM...'
 sku: 'B07W85FJ5M-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

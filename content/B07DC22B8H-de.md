@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DC22B8H-de PUMA Damen Cali Wn s Sneaker White White 37 EU'
 sku: 'B07DC22B8H-de'
-tags: [  ]
 actualPrice: 55.44 EUR
 currency: EUR
 price: 55.44

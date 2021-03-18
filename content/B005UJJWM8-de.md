@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005UJJWM8-de Bosch Professional Geradschleifer GGS 28 LC 650 Watt...'
 sku: 'B005UJJWM8-de'
-tags: [  ]
 actualPrice: 223.08 EUR
 currency: EUR
 price: 223.08

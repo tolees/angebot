@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G6MYMKD-de Ultimate Ears Megaboom 3 Bluetooth Lautsprecher...'
 sku: 'B07G6MYMKD-de'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YGQP0YK-de Westmark Bratensaft-/Marinier-Spritze mit abnehmbarer...'
 sku: 'B00YGQP0YK-de'
-tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

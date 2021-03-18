@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FLQYWJ-de PLAYMOBIL Princess 70454 Ankleidezimmer mit Badewanne Ab 4...'
 sku: 'B085FLQYWJ-de'
-tags: [  ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

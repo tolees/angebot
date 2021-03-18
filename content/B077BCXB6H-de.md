@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077BCXB6H-de Calvin Klein Herren - 3er-Pack mittlere Taille Hüft-Shorts...'
 sku: 'B077BCXB6H-de'
-tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

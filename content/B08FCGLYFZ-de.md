@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCGLYFZ-de Skullcandy Crusher Evo Wireless Over-Ear Kopfhörer - Chill...'
 sku: 'B08FCGLYFZ-de'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

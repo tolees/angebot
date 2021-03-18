@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CZQXLQJ-de Sennheiser CX 400BT True Wireless Earbuds - Bluetooth In-...'
 sku: 'B08CZQXLQJ-de'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083MDBGBV-de Funko 49930 POP Moment: Mandalorian-Mandalorian & Child...'
 sku: 'B083MDBGBV-de'
-tags: [  ]
 actualPrice: 34.75 EUR
 currency: EUR
 price: 34.75

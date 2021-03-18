@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7GVTFQ-de Private Division - The Outer Worlds - [Nintendo Switch]'
 sku: 'B07W7GVTFQ-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

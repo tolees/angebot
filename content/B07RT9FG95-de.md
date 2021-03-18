@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT9FG95-de Externe DVD CD Laufwerke - iAmotus DVD Laufwerk USB 3.0...'
 sku: 'B07RT9FG95-de'
-tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

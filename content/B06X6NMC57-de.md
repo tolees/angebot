@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X6NMC57-de Playmobil City Life 9272 Einweihungsparty Mit...'
 sku: 'B06X6NMC57-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

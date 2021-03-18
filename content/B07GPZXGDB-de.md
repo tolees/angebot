@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GPZXGDB-de LLOYD Herren BABILA Sneaker Braun Cognac/Sand 3 45 EU'
 sku: 'B07GPZXGDB-de'
-tags: [  ]
 actualPrice: 102.66 EUR
 currency: EUR
 price: 102.66

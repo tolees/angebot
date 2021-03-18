@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MRJRL7-de Xiaomi - Mi Note 10 Lite 6+128GB Midnight Black'
 sku: 'B087MRJRL7-de'
-tags: [  ]
 actualPrice: 311.23 EUR
 currency: EUR
 price: 311.23

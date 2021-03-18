@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019WCXL1Q-de Pampers Größe 4 Premium Protection Baby Windeln 168 Stück...'
 sku: 'B019WCXL1Q-de'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QQPCDH-de adidas Mens Puremotion Running Shoe CBLACK/CBLACK/FTWWHT...'
 sku: 'B089QQPCDH-de'
-tags: [  ]
 actualPrice: 43.49 EUR
 currency: EUR
 price: 43.49

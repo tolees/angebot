@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SMCY62G-de Emsa 515352 Trio Kräutertopf für frische Kräuter...'
 sku: 'B00SMCY62G-de'
-tags: [  ]
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

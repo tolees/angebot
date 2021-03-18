@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C3SFFEI-de Ravensburger 26601 Scotland Yard Strategiespiel'
 sku: 'B00C3SFFEI-de'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

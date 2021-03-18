@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H1Z3TPG-de Freddy Damen Wrup1rc001 Hose Schwarz Black N0 38...'
 sku: 'B07H1Z3TPG-de'
-tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

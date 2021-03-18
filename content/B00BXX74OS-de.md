@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BXX74OS-de Thomas - Thomas 788568 Aqua + PET & Family Staubsauger...'
 sku: 'B00BXX74OS-de'
-tags: [ 'thomas', ]
 actualPrice: 276.75 EUR
 currency: EUR
 price: 276.75

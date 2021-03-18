@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y2MYK4N-de Ubit - WiFi 6 AX200 PCIe WLAN Karte | Max 3000Mbit/s mit...'
 sku: 'B07Y2MYK4N-de'
-tags: [  ]
 actualPrice: 32.12 EUR
 currency: EUR
 price: 32.12

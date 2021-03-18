@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RDPPZCD-de TIMACO LED Küchenarmatur mit Spiralfeder 360° Schwenkbare...'
 sku: 'B07RDPPZCD-de'
-tags: [  ]
 actualPrice: 79.03 EUR
 currency: EUR
 price: 79.03

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCLS782-de NULAXY KM13 Kabellose Tastatur mit Schiebeständer...'
 sku: 'B08DCLS782-de'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

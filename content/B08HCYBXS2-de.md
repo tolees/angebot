@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HCYBXS2-de tech rc - Drohne für Kinder Bunte LED-Lichter Leuchten...'
 sku: 'B08HCYBXS2-de'
-tags: [  ]
 actualPrice: 33.65 EUR
 currency: EUR
 price: 33.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGP7TN2-de PUMA Damen Carina L Sneaker WhiteWhite Silver 38.5 EU'
 sku: 'B07JGP7TN2-de'
-tags: [  ]
 actualPrice: 43.33 EUR
 currency: EUR
 price: 43.33

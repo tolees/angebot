@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L5RWVJK-de Apple Silikon Case mit MagSafe für iPhone 12 | 12 Pro -...'
 sku: 'B08L5RWVJK-de'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075QKYDVZ-de Bosch Home and Garden - Bosch Smart Home Unterputz...'
 sku: 'B075QKYDVZ-de'
-tags: [  ]
 actualPrice: 51.49 EUR
 currency: EUR
 price: 51.49

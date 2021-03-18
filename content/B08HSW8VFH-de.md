@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HSW8VFH-de Ubisoft - Immortals Fenyx Rising - Limited Edition...'
 sku: 'B08HSW8VFH-de'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

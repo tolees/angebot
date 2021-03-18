@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TJV4CZ-de Lacoste Herren AESTHET Luxe 0320 1 SMA Sneaker BLK/KHK 43 EU'
 sku: 'B082TJV4CZ-de'
-tags: [  ]
 actualPrice: 90.01 EUR
 currency: EUR
 price: 90.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BLQPTSB-de Geox J Android Boy B Sneaker DK Grey/Lime 27 EU'
 sku: 'B08BLQPTSB-de'
-tags: [  ]
 actualPrice: 48.83 EUR
 currency: EUR
 price: 48.83

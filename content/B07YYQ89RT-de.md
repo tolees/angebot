@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYQ89RT-de LEGO 42111 Technic Fast & Furious Dom s Dodge Charger...'
 sku: 'B07YYQ89RT-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Spielzeug','lego', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

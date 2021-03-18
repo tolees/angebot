@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NWG2QKS-de ASICS Herren 1011A862-402 47 Running Shoes Navy EU'
 sku: 'B08NWG2QKS-de'
-tags: [  ]
 actualPrice: 91.66 EUR
 currency: EUR
 price: 91.66

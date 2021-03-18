@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QVSST4C-de Funko 40884 POP Disney: Frozen 2-ELSA Sammelbares...'
 sku: 'B07QVSST4C-de'
-tags: [  ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

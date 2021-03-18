@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RKHSRMZ-de PUMA Herren Boxershort Limited Statement Edition 9er Pack...'
 sku: 'B07RKHSRMZ-de'
-tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

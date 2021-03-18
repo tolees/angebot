@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZV7BDXZ-de Xiaomi Smart Air Purifier 3H Luftreiniger Bianco...'
 sku: 'B07ZV7BDXZ-de'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

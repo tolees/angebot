@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MBJRVJ-de Philips CA6705/10 Milchkreislauf Reiniger für Philips...'
 sku: 'B074MBJRVJ-de'
-tags: [ 'philips', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

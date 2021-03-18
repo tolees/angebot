@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00N4SHRF6-de Sensai Cellular Performance Emulsion II Moist für Frauen...'
 sku: 'B00N4SHRF6-de'
-tags: [  ]
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P95GZHD-de Sylvanian Families 5366 Luxury Bed Mehrfarbig'
 sku: 'B07P95GZHD-de'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

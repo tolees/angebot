@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JZQE4ZW-de Schiesser Damen Spaghettitop 2er Pack Unterhemd Schwarz...'
 sku: 'B00JZQE4ZW-de'
-tags: [  ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

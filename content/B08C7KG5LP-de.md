@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7KG5LP-de Sony WH-1000XM4 kabellose Bluetooth Noise Cancelling...'
 sku: 'B08C7KG5LP-de'
-tags: [  ]
 actualPrice: 295.0 EUR
 currency: EUR
 price: 295.0

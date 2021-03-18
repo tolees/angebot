@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KGSF6T1-de Funko 51624 POP Marvel: The Falcon and The Winter Soldier...'
 sku: 'B08KGSF6T1-de'
-tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

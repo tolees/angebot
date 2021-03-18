@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YKV3QJ5-de ESPRIT Damen 999EE1N800 T-Shirt 001/BLACK M 2er Pack'
 sku: 'B07YKV3QJ5-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

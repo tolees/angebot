@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TG1W81M-de TIMACO Schwarz Wasserhahn Küche 360° Drehbar Küchenarmatur...'
 sku: 'B07TG1W81M-de'
-tags: [  ]
 actualPrice: 72.12 EUR
 currency: EUR
 price: 72.12

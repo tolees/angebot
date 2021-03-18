@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084BGWJKL-de Levi s Herren SS Original HM Tee T-Shirt Grau Charcoal...'
 sku: 'B084BGWJKL-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

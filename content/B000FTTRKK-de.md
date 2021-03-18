@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000FTTRKK-de ESGE-Zauberstab 7030 Multifunktionsmesser'
 sku: 'B000FTTRKK-de'
-tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

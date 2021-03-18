@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N6XCK1G-de edc by ESPRIT Damen 120CC1B309 Hose 001/BLACK 34'
 sku: 'B08N6XCK1G-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

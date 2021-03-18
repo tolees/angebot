@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001NG5TPQ-de Panasonic WES9012 Schermesser und Scherfolie Combo Pack...'
 sku: 'B001NG5TPQ-de'
-tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

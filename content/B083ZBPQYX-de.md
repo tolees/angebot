@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083ZBPQYX-de Fossil Smartwatch FTW4041'
 sku: 'B083ZBPQYX-de'
-tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

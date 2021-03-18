@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EXVZW0A-de Christian Dior J Adore femme/woman Eau de Parfum...'
 sku: 'B00EXVZW0A-de'
-tags: [  ]
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

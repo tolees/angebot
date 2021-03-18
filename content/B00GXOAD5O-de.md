@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GXOAD5O-de POP! Vinyl 3779 Actionfigur Game of Thrones: Tyrion...'
 sku: 'B00GXOAD5O-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

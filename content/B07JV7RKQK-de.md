@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JV7RKQK-de Pop Fortnite Dark Voyager Vinyl Figure'
 sku: 'B07JV7RKQK-de'
-tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

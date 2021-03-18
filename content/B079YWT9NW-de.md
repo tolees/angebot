@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079YWT9NW-de adidas Herren Samba Og Gymnastikschuhe Schwarz...'
 sku: 'B079YWT9NW-de'
-tags: [  ]
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

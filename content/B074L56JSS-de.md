@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074L56JSS-de Skechers Damen GRACEFUL-GET CONNECTED-12615 Sneaker Blau...'
 sku: 'B074L56JSS-de'
-tags: [  ]
 actualPrice: 39.68 EUR
 currency: EUR
 price: 39.68

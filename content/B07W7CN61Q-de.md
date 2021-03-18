@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7CN61Q-de BRAX Herren Style Cadiz Ultralight Hose Blau Ocean 22 31W...'
 sku: 'B07W7CN61Q-de'
-tags: [ 'Herren-Hosen','brax', ]
 actualPrice: 53.07 EUR
 currency: EUR
 price: 53.07

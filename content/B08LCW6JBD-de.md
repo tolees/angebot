@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LCW6JBD-de MOKiN M.2 NVME SSD-Gehäuse Adapter USB-C 3.1 Gen2 10...'
 sku: 'B08LCW6JBD-de'
-tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829SYWS3-de CIRO Solar Roboter Kinder Konstruktionsspielzeug ab 8...'
 sku: 'B0829SYWS3-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Beleuchtung','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Dekorative Leuchtmittel','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Experimentieren & Forschen','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Forschen & Entdecken: Solarenergie','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO Steine & Co.','Leuchtmittel','Netzwerkgeräte','PowerLAN-Adapter','Produkte','Repeater','Simlockfreie Handys','Speziallampen','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','ciro', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

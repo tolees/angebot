@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0745V9BGW-de Brütting MOUNT FRAKES LOW Trekking- & Wanderhalbschuhe...'
 sku: 'B0745V9BGW-de'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

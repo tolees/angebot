@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C2ICYPC-de TP-Link TL-WPA4220 KIT AV600 WLAN N300 WiFi Powerline max....'
 sku: 'B00C2ICYPC-de'
-tags: [ 'Netzwerk','PowerLAN-Adapter','tp-link', ]
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

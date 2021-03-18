@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L4FL8B9-de Original Einhell Ersatzlüfterwalze Vertikutierer-Zubehör...'
 sku: 'B07L4FL8B9-de'
-tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

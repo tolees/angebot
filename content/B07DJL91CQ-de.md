@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DJL91CQ-de LISTERINE Cool Mint Milder Geschmack Antibakterielle...'
 sku: 'B07DJL91CQ-de'
-tags: [  ]
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

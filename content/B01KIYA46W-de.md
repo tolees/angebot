@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KIYA46W-de Echo Show Vorherige Generation - 1. Gen. Zertifiziert und...'
 sku: 'B01KIYA46W-de'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

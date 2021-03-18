@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X1H1DXT-de PLAYMOBIL City Life 9268 Badezimmer Mit Lichteffekten Ab 4...'
 sku: 'B06X1H1DXT-de'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

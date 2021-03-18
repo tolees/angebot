@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDRNSB5-de SUUNTO 3 Fitness all black'
 sku: 'B07BDRNSB5-de'
-tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

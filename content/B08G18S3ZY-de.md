@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G18S3ZY-de WiFi LED Strip 20M RGB 5050 Musik Kompatibel mit Alexa und...'
 sku: 'B08G18S3ZY-de'
-tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

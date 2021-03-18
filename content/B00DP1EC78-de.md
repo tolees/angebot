@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DP1EC78-de Viktor & Rolf Spicebomb EDT Vapo 150 ml'
 sku: 'B00DP1EC78-de'
-tags: [  ]
 actualPrice: 71.0 EUR
 currency: EUR
 price: 71.0

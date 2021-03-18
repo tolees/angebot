@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VRTML5Y-de adidas Sq21 Sw Top Sweatshirt für Herren Herren Sweatshirt...'
 sku: 'B08VRTML5Y-de'
-tags: [  ]
 actualPrice: 25.14 EUR
 currency: EUR
 price: 25.14

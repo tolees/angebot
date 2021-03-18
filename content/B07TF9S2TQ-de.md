@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TF9S2TQ-de KSM - Heartland - Paradies für Pferde: Staffel 11.2...'
 sku: 'B07TF9S2TQ-de'
-tags: [  ]
 actualPrice: 18.97 EUR
 currency: EUR
 price: 18.97

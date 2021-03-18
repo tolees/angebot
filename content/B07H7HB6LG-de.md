@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H7HB6LG-de DA LIGHT - Led Unterbauleuchte Schwenkbar Küchenlampe...'
 sku: 'B07H7HB6LG-de'
-tags: [  ]
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

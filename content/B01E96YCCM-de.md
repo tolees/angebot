@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E96YCCM-de UGG Female Mini Bailey Bow II Classic Boot Black 8 UK'
 sku: 'B01E96YCCM-de'
-tags: [  ]
 actualPrice: 102.17 EUR
 currency: EUR
 price: 102.17

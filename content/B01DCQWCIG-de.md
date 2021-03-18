@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DCQWCIG-de VCM Waschmaschinenschrank Badschrank Hochschrank Badregal...'
 sku: 'B01DCQWCIG-de'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

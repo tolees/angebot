@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077ZGZZ6M-de Kärcher Schmutzwasser-Tauchpumpe SP 5 Dual Fördermenge:...'
 sku: 'B077ZGZZ6M-de'
-tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

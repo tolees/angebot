@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813R6XSH-de LEGO 75284 Star Wars Transportraumschiff der Ritter von...'
 sku: 'B0813R6XSH-de'
-tags: [ '249195031','Audiokabel','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Computer','Computer & Zubehör','Damen-BHs','Damen-Kleider','Damenbekleidung','Dekoartikel','Dessous, Nacht- & Lounge-Wäsche für Damen','Drogerie & Körperpflege','Drucker & Zubehör','Elektronik & Foto','Elektrorasierer','Elektrorasierer für Herren','Fernseher & Heimkino','Folienrasierer für Herren','Freizeitkleider für Damen','HDMI-Kabel','Heimkino, TV & Video Zubehör','In-Ear Ohrhörer','Interne Komponenten & Hardware','Klassische BHs für Damen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Rasur & Enthaarung','Repeater','Router','Sicherheitstechnik','Spielzeug','Toner','Unterwäsche & Dessous für Damen','Videoüberwachungstechnik','Wohnaccessoires & Deko','Zubehör für Drucker','lego','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 51.9 EUR
 currency: EUR
 price: 51.9

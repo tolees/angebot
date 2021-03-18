@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085RQRH9X-de Warner Bros Entertainment - Die Känguru-Chroniken'
 sku: 'B085RQRH9X-de'
-tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

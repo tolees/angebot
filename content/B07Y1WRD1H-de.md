@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1WRD1H-de Pacrate Gaming Headset für PS4 PS5 PC Xbox One Xbox Series...'
 sku: 'B07Y1WRD1H-de'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

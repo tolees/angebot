@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HMRT7PW-de The North Face Herren T-Shirt Simple Dome schwarz tnf...'
 sku: 'B01HMRT7PW-de'
-tags: [  ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

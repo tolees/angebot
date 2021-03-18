@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MYGIS30-de Indicode Herren William Cargohose aus Baumwolle m. 7...'
 sku: 'B01MYGIS30-de'
-tags: [  ]
 actualPrice: 40.76 EUR
 currency: EUR
 price: 40.76

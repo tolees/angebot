@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088T4XLXN-de Universal Pictures - Trolls World Tour + Blu-ray 2D'
 sku: 'B088T4XLXN-de'
-tags: [  ]
 actualPrice: 16.68 EUR
 currency: EUR
 price: 16.68

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MJ7DY3F-de Sylvanian Families 5341 Landhaus Küche mit Kühlschrank -...'
 sku: 'B07MJ7DY3F-de'
-tags: [  ]
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B47V4RS-de PLAYMOBIL Family Fun 9500 Pistenraupe Ab 4 Jahren'
 sku: 'B07B47V4RS-de'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

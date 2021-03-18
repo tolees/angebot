@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MY5HV0O-de Pampers Größe 6 Premium Protection Baby Windeln 120 Stück...'
 sku: 'B01MY5HV0O-de'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

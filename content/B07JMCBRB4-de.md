@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMCBRB4-de PLAYMOBIL 70100 Magic Familie mit Muschelkinderwagen bunt'
 sku: 'B07JMCBRB4-de'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

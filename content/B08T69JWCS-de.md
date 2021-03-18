@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T69JWCS-de Smart LED Lampen E14 Alexa Wlan Glühbirne Aoycocr 5W 400LM...'
 sku: 'B08T69JWCS-de'
-tags: [  ]
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

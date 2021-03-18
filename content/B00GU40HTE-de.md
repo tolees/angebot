@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GU40HTE-de Lost - Die komplette Serie 37 Discs'
 sku: 'B00GU40HTE-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

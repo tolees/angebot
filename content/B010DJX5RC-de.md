@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010DJX5RC-de Sylvanian Families - 5214 - Affen: Familie Kletter'
 sku: 'B010DJX5RC-de'
-tags: [  ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JF0AR0Y-de Microsoft Wireless Mobile Mouse 1850 Maus schwarz kabellos...'
 sku: 'B00JF0AR0Y-de'
-tags: [  ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

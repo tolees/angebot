@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVYS3R7-de PLAYMOBIL Volkswagen 70176 T1 Camping Bus Für Kinder ab 5...'
 sku: 'B08KVYS3R7-de'
-tags: [  ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AGSVKGS-de Pandora Moments Schlangen-Gliederarmband mit Funklendem...'
 sku: 'B01AGSVKGS-de'
-tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085S3YMYM-de Letsfit Smartwatch 1.3 Zoll Touchscreen Fitness Armbanduhr...'
 sku: 'B085S3YMYM-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

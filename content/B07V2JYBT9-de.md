@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V2JYBT9-de Triumph Damen Fit Smart Maxi EX Panties Schwarz Black 0004...'
 sku: 'B07V2JYBT9-de'
-tags: [  ]
 actualPrice: 23.35 EUR
 currency: EUR
 price: 23.35

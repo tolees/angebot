@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Q2KEVA2-de Sony Alpha 7 II | Spiegellose Vollformat-Kamera mit Sony...'
 sku: 'B00Q2KEVA2-de'
-tags: [  ]
 actualPrice: 1128.99 EUR
 currency: EUR
 price: 1128.99

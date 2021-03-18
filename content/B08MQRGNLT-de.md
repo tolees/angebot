@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MQRGNLT-de MeaVita FFP2 Maske 10 Stück EU CE Zertifizierte Mund- und...'
 sku: 'B08MQRGNLT-de'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

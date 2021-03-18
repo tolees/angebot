@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T2D2ZZH-de Fisher-Price GKG77 - Imaginext Hungriger Hai'
 sku: 'B07T2D2ZZH-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

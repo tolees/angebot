@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4RHXS7-de Gkongu Pom Pom Maker Kits 4 Größen Flusenball-Weaver DIY...'
 sku: 'B07J4RHXS7-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

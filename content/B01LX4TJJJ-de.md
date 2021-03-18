@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX4TJJJ-de Playmobil 9091 - RC-Rock n Roll-Racer'
 sku: 'B01LX4TJJJ-de'
-tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

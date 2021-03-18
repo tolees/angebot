@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0713YQ5DG-de Levis Footwear and Accessories Herren Emerson Biker Boots...'
 sku: 'B0713YQ5DG-de'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

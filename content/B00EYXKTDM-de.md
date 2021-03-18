@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EYXKTDM-de TP-Link TL-WPA4220T KIT AV600 WLAN N300 WiFi Powerline...'
 sku: 'B00EYXKTDM-de'
-tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

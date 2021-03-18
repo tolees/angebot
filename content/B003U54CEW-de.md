@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003U54CEW-de Somat Spezial Salz 1 x 1.2 kg'
 sku: 'B003U54CEW-de'
-tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

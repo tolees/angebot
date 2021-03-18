@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007ECGFLU-de Sony DVP-SR760H DVD-Player/CD Player HDMI 1080p Upscaling...'
 sku: 'B007ECGFLU-de'
-tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

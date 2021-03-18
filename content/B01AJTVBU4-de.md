@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AJTVBU4-de Acer Predator XB1 XB271H 68.6 cm 27 Zoll Monitor HDMI USB...'
 sku: 'B01AJTVBU4-de'
-tags: [  ]
 actualPrice: 329.0 EUR
 currency: EUR
 price: 329.0

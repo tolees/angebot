@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PT8W9QY-de TRIPLE K - Geschenkbox mit ewige Rosen konservierte...'
 sku: 'B08PT8W9QY-de'
-tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

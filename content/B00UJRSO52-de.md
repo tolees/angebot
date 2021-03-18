@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UJRSO52-de Sony SEL-28F20 Weitwinkel Objektiv Festbrennweite 28mm F2...'
 sku: 'B00UJRSO52-de'
-tags: [  ]
 actualPrice: 379.0 EUR
 currency: EUR
 price: 379.0

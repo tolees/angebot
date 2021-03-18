@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083MYGYPZ-de Ravensburger tiptoi Spiel 00049 Puzzle für kleine...'
 sku: 'B083MYGYPZ-de'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CHGJ89J-de Razer Kishi für Android Xbox xCloud - Smartphone Gaming...'
 sku: 'B08CHGJ89J-de'
-tags: [  ]
 actualPrice: 91.06 EUR
 currency: EUR
 price: 91.06

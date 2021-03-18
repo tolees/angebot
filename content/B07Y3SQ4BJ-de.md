@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y3SQ4BJ-de ONLY Damen 15170889 Hose Grün Oil Green Oil Green 38 EU'
 sku: 'B07Y3SQ4BJ-de'
-tags: [  ]
 actualPrice: 28.85 EUR
 currency: EUR
 price: 28.85

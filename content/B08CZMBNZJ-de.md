@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZMBNZJ-de Genrics KÜCHEN-TELESKOPSTÄNDER AUS Edelstahl 1pcs'
 sku: 'B08CZMBNZJ-de'
-tags: [  ]
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

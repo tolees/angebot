@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GH1DJYB-de Aarke Carbonator II Wassersprudler Edelstahl Gehäuse Soda...'
 sku: 'B07GH1DJYB-de'
-tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

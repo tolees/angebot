@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R9P1D3H-de Letsfit Smartwatch Fitnessuhr mit Schrittzähler Fitness...'
 sku: 'B08R9P1D3H-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

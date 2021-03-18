@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841CQ9JC-de Tommy Jeans Herren TJM Essential Padded Jacket Jacke...'
 sku: 'B0841CQ9JC-de'
-tags: [  ]
 actualPrice: 103.9 EUR
 currency: EUR
 price: 103.9

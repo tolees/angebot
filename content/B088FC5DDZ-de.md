@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088FC5DDZ-de WiFi Digitaler Bilderrahmen PODOOR Touch Elektronischer...'
 sku: 'B088FC5DDZ-de'
-tags: [  ]
 actualPrice: 87.89 EUR
 currency: EUR
 price: 87.89

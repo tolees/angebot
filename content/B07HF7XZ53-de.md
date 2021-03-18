@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HF7XZ53-de Yazilind Frau Zirkonia Elegante Floral Foliage Stem Drop...'
 sku: 'B07HF7XZ53-de'
-tags: [  ]
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

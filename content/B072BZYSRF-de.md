@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072BZYSRF-de ONLY Female Skinny Fit Jeans ONLRain reg M32Black Denim'
 sku: 'B072BZYSRF-de'
-tags: [  ]
 actualPrice: 20.19 EUR
 currency: EUR
 price: 20.19

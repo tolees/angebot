@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYKNCCP-de SanDisk Ultra 128 GB microSDXC Speicherkarte + SD-Adapter...'
 sku: 'B08GYKNCCP-de'
-tags: [  ]
 actualPrice: 16.47 EUR
 currency: EUR
 price: 16.47

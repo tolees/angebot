@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NMPHSP-de iporachx - Bluetooth Lautsprecher Dusche IPX7 Wasserdicht...'
 sku: 'B089NMPHSP-de'
-tags: [  ]
 actualPrice: 23.83 EUR
 currency: EUR
 price: 23.83

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NUZ63IK-de Pepe Jeans Damen Jeans Venus 10oz Authentic Rope Str Med...'
 sku: 'B00NUZ63IK-de'
-tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DSGN15V-de Fractal Design USB Upgrade Kit Komponenten Andere FD-ACC-...'
 sku: 'B07DSGN15V-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

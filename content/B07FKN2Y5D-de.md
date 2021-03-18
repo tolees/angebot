@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKN2Y5D-de Philips S9721/41 Elektrischer Nass-und Trockenrasierer...'
 sku: 'B07FKN2Y5D-de'
-tags: [  ]
 actualPrice: 146.99 EUR
 currency: EUR
 price: 146.99

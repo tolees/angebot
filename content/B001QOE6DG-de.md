@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001QOE6DG-de Levi s Herren 501 Original Jeans Onewash 32W / 32L'
 sku: 'B001QOE6DG-de'
-tags: [  ]
 actualPrice: 72.79 EUR
 currency: EUR
 price: 72.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMGQSGC-de Asmodee GmbH IDVD0002 Der unvollendete Fall von Holmes bunt'
 sku: 'B07JMGQSGC-de'
-tags: [  ]
 actualPrice: 15.7 EUR
 currency: EUR
 price: 15.7

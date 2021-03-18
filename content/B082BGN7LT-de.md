@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BGN7LT-de IWEMEK Mädchen Eiskönigin ELSA Kleid Schneekönigin...'
 sku: 'B082BGN7LT-de'
-tags: [  ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

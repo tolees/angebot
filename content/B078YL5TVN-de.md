@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YL5TVN-de MUSTANG Herren Slim Fit Oregon Tapered Jeans'
 sku: 'B078YL5TVN-de'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

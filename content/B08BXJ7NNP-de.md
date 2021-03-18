@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BXJ7NNP-de Electronic Arts - EA SPORTS UFC 4 - [Playstation 4]'
 sku: 'B08BXJ7NNP-de'
-tags: [  ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

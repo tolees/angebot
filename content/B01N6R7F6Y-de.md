@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6R7F6Y-de Ankermann Silent Office Business PC PC Intel i5 4570...'
 sku: 'B01N6R7F6Y-de'
-tags: [  ]
 actualPrice: 429.0 EUR
 currency: EUR
 price: 429.0

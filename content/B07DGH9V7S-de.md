@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGH9V7S-de Oral-B Vitality 100 CrossAction Elektrische Zahnbürste...'
 sku: 'B07DGH9V7S-de'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

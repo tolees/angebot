@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08968CMCD-de Samsung TU7199 189 cm 75 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B08968CMCD-de'
-tags: [  ]
 actualPrice: 899.0 EUR
 currency: EUR
 price: 899.0

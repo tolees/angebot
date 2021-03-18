@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KFKX9CG-de adidas Herren Grand Court Sneaker Cloud White/Core...'
 sku: 'B07KFKX9CG-de'
-tags: [  ]
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

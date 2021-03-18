@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NJXNG8H-de Pampers Größe 0 Premium Protection Baby Windeln 24 Stück...'
 sku: 'B07NJXNG8H-de'
-tags: [  ]
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

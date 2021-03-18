@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W3M3YLX-de Grundig Vision 6 - Fire TV 32 GFW 6060 80 cm 32 Zoll...'
 sku: 'B07W3M3YLX-de'
-tags: [  ]
 actualPrice: 275.4 EUR
 currency: EUR
 price: 275.4

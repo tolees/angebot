@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TS3R79H-de Disney - Der König der Löwen – Neuverfilmung 2019 [Blu-ray]'
 sku: 'B07TS3R79H-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

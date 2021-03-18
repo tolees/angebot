@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X213FJP-de Yidarton Kinderkamera HD Digital Kamera für Kinder Selfie...'
 sku: 'B07X213FJP-de'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

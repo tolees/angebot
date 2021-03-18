@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YKTQBSZ-de ESPRIT Herren 990EE2K316 Poloshirt 400/NAVY L'
 sku: 'B07YKTQBSZ-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

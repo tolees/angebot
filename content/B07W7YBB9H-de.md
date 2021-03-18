@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7YBB9H-de Western Digital - WD My Book 12 TB USB 3.0 Desktop-...'
 sku: 'B07W7YBB9H-de'
-tags: [  ]
 actualPrice: 194.9 EUR
 currency: EUR
 price: 194.9

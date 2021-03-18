@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYDGD7R-de Philips Hue - Philips 7820230P7 Hue White and Color...'
 sku: 'B07FYDGD7R-de'
-tags: [ 'philips hue', ]
 actualPrice: 101.9 EUR
 currency: EUR
 price: 101.9

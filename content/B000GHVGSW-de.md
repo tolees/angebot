@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000GHVGSW-de Chanel COCO MADEMOISELLE Eau De Toilette Spray 100ml 3.4...'
 sku: 'B000GHVGSW-de'
-tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

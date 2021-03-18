@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYSFQYV-de Hasbro Star Wars C1428EU4 - Episode 8 Kylo Ren...'
 sku: 'B06XYSFQYV-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

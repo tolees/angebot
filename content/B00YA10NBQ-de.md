@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YA10NBQ-de Panasonic Nass/Trocken-Rasierer ES-LT4N mit ultraflexiblem...'
 sku: 'B00YA10NBQ-de'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

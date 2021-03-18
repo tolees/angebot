@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0093HNCV0-de Tassimo Kapseln Jacobs Cappuccino Classico 40...'
 sku: 'B0093HNCV0-de'
-tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

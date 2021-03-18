@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08252NSMY-de zxcvb Armario de vino Boca abajo Titular de copa de vino...'
 sku: 'B08252NSMY-de'
-tags: [  ]
 actualPrice: 39.21 EUR
 currency: EUR
 price: 39.21

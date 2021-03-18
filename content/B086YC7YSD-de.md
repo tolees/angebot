@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086YC7YSD-de Rolimate Holzring Stapelspielzeug Bunte Regenbogenturm...'
 sku: 'B086YC7YSD-de'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

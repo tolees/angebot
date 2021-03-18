@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HXQPMF7-de WaBand Fitness Reifen Smart Gewichtsverlust Fitness Reifen...'
 sku: 'B08HXQPMF7-de'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

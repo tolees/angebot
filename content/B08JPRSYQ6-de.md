@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JPRSYQ6-de aboutBit - 2 DIN Autoradio mit Mirrorlink für iOS/Android...'
 sku: 'B08JPRSYQ6-de'
-tags: [ 'aboutbit', ]
 actualPrice: 63.74 EUR
 currency: EUR
 price: 63.74

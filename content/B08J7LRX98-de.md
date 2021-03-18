@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J7LRX98-de Samsung Galaxy M11 Android Smartphone ohne Vertrag Triple-...'
 sku: 'B08J7LRX98-de'
-tags: [  ]
 actualPrice: 151.0 EUR
 currency: EUR
 price: 151.0

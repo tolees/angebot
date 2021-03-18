@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JYTYFTH-de Tommy Hilfiger Herren TOMMY FLAG HILFIGER TEE Sporttop...'
 sku: 'B07JYTYFTH-de'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

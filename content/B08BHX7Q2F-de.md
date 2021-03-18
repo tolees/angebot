@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHX7Q2F-de Philips TV - Philips Ambilight 65PUS8505/12 65-Zoll LED TV...'
 sku: 'B08BHX7Q2F-de'
-tags: [  ]
 actualPrice: 877.89 EUR
 currency: EUR
 price: 877.89

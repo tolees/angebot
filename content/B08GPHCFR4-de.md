@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPHCFR4-de Samsung Galaxy M31s Android Smartphone ohne Vertrag Quad-...'
 sku: 'B08GPHCFR4-de'
-tags: [  ]
 actualPrice: 261.73 EUR
 currency: EUR
 price: 261.73

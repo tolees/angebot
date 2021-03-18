@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYQLV2J-de OBEEII Kinder Festliche Kleider Mädchen Einhorn Kostüm...'
 sku: 'B07KYQLV2J-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

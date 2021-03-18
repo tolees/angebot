@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMBB4HM-de Razer Kraken X - Gaming Headset Ultra leichte Gaming...'
 sku: 'B07RMBB4HM-de'
-tags: [  ]
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

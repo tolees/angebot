@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CPLX2Q0-de Warner Bros. - Batman v Superman: Dawn of Justice –...'
 sku: 'B01CPLX2Q0-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

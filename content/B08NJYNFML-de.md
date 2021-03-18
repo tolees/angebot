@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NJYNFML-de Superzings - SuperThings - Spielset Battle Arena enthält 1...'
 sku: 'B08NJYNFML-de'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

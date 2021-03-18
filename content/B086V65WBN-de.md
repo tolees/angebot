@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086V65WBN-de Onforu 30W Alexa RGB Strahler Smart Farbwechsel LED Fluter...'
 sku: 'B086V65WBN-de'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

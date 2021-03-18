@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002KJGGDO-de Hudson Herren Relax Cotton Socken 1 paar Schwarz Black...'
 sku: 'B002KJGGDO-de'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

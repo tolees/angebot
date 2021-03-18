@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0798GMWXC-de Kosmos 626037 - Pepper Mint und das Tiefsee-Abenteuer...'
 sku: 'B0798GMWXC-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

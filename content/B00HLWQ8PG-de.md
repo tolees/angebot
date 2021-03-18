@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HLWQ8PG-de Flexfit Unisex Baseball Cap Wooly Combed Kappe ohne...'
 sku: 'B00HLWQ8PG-de'
-tags: [  ]
 actualPrice: 12.61 EUR
 currency: EUR
 price: 12.61

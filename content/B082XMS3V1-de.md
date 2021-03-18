@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XMS3V1-de Ravensburger Disney Villainous 26400 - Das spannende...'
 sku: 'B082XMS3V1-de'
-tags: [  ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

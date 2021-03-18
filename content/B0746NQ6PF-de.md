@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0746NQ6PF-de Logitech G603 LIGHTSPEED kabellose Gaming-Maus Wireless...'
 sku: 'B0746NQ6PF-de'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

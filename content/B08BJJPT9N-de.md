@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJJPT9N-de Samsung TU7199 138 cm 55 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B08BJJPT9N-de'
-tags: [  ]
 actualPrice: 494.01 EUR
 currency: EUR
 price: 494.01

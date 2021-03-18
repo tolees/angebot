@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00A85YEHC-de CASO | MCG30 chef 3-in-1 Mikrowelle mit Grill und Heißluft...'
 sku: 'B00A85YEHC-de'
-tags: [  ]
 actualPrice: 158.74 EUR
 currency: EUR
 price: 158.74

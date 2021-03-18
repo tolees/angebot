@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0742KXY2R-de Intenso Premium Edition Portable 512GB Externe SSD...'
 sku: 'B0742KXY2R-de'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

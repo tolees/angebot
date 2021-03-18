@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GFRPR2D-de SteelSeries Arctis 7 Gaming Headset verlustfreies und...'
 sku: 'B07GFRPR2D-de'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

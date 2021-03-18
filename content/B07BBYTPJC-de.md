@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BBYTPJC-de Playstation Tasse in Form PS4-Controller Dual Shock-...'
 sku: 'B07BBYTPJC-de'
-tags: [  ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

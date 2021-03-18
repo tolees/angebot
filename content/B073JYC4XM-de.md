@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073JYC4XM-de SanDisk Ultra 128GB MicroSDXC Speicherkarte + SD-Adapter...'
 sku: 'B073JYC4XM-de'
-tags: [  ]
 actualPrice: 18.04 EUR
 currency: EUR
 price: 18.04

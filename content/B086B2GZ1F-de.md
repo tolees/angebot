@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086B2GZ1F-de devolo Magic 2 – 2400 WiFi ac next Starter Kit: Weltweit...'
 sku: 'B086B2GZ1F-de'
-tags: [  ]
 actualPrice: 169.9 EUR
 currency: EUR
 price: 169.9

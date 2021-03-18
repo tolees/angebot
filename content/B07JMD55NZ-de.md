@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMD55NZ-de PLAYMOBIL - Seemann mit Fischerboot'
 sku: 'B07JMD55NZ-de'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00024KFJA-de Meister Rohrreinigungswelle Ø 9 mm x 10 m - Flexible...'
 sku: 'B00024KFJA-de'
-tags: [  ]
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NUBG0YQ-de Ray-Ban Damen Sonnenbrille'
 sku: 'B00NUBG0YQ-de'
-tags: [  ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

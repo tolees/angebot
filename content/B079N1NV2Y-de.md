@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N1NV2Y-de PLAYMOBIL City Life 9453 Große Schule mit Einrichtung von...'
 sku: 'B079N1NV2Y-de'
-tags: [ 'playmobil', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

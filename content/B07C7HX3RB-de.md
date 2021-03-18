@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C7HX3RB-de Funko 26847 Rick & Morty Rick and Morty S3 Plush-Other Multi'
 sku: 'B07C7HX3RB-de'
-tags: [  ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R93YZP1-de Denon DHT-S416 hochwertige 2.1 TV Soundbar mit kabellosem...'
 sku: 'B08R93YZP1-de'
-tags: [  ]
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GPBRYFR-de Camano Herren 3652000 Socken Grau Anthracite 0008 47/50...'
 sku: 'B07GPBRYFR-de'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

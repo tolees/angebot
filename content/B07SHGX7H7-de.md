@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SHGX7H7-de Xiaomi Luftreiniger Bianco Einheitsgröße'
 sku: 'B07SHGX7H7-de'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

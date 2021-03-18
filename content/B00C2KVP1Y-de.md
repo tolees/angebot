@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C2KVP1Y-de ONLY Female Skinny Fit Jeans ONLUltimate King reg L32Dark...'
 sku: 'B00C2KVP1Y-de'
-tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

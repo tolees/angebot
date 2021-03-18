@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0713WPGLL-de Western Digital - WD Elements Portable externe Festplatte...'
 sku: 'B0713WPGLL-de'
-tags: [  ]
 actualPrice: 94.32 EUR
 currency: EUR
 price: 94.32

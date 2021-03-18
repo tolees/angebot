@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071G6Q5KT-de Pandora Moments Offener Armreif'
 sku: 'B071G6Q5KT-de'
-tags: [  ]
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2

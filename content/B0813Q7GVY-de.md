@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813Q7GVY-de LEGO 41430 Friends Wasserpark von Heartlake City Spielset...'
 sku: 'B0813Q7GVY-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO City','Produkte','Spielzeug','lego', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

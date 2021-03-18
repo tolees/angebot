@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005N1PU2O-de Wann I So Z Ruckschau 3cd'
 sku: 'B005N1PU2O-de'
-tags: [  ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

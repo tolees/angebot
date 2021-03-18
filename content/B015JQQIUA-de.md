@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015JQQIUA-de Cobb Pro - Tisch oder tragbarer Außengrill Kochsystem...'
 sku: 'B015JQQIUA-de'
-tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

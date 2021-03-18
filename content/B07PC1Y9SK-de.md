@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PC1Y9SK-de Superzings PSZSD112IN00 - Hero Monsterroller-Truck mit 2...'
 sku: 'B07PC1Y9SK-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Simlockfreie Handys','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','superzings', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1XVDYY-de SNAPTAIN SP7100 Faltbare GPS Drohne mit 4K UHD Kamera...'
 sku: 'B08H1XVDYY-de'
-tags: [  ]
 actualPrice: 246.49 EUR
 currency: EUR
 price: 246.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XF7X5KH-de Funko - POP! Marvel: Avengers Game- Iron Man Stark Tech Suit'
 sku: 'B07XF7X5KH-de'
-tags: [  ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXSRV7M-de 1080P FHD WLAN IP Kamera CACAGOO Überwachungskamera mit...'
 sku: 'B07XXSRV7M-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

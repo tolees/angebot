@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NLVRXP0-de DISNEY MUSIC - The Nightmare Before Christmas Picture Disc...'
 sku: 'B00NLVRXP0-de'
-tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

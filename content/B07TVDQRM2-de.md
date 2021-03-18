@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVDQRM2-de Pop Gladiator Maximus Vinyl Figure'
 sku: 'B07TVDQRM2-de'
-tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

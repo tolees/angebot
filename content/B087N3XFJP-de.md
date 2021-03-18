@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087N3XFJP-de Funko 50959 The Mandalorian Mando Flying w/Jet Pack...'
 sku: 'B087N3XFJP-de'
-tags: [  ]
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

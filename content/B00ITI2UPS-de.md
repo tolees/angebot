@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ITI2UPS-de STAEDTLER Initium Lignum Tintenroller Pflaumenholz M...'
 sku: 'B00ITI2UPS-de'
-tags: [  ]
 actualPrice: 51.02 EUR
 currency: EUR
 price: 51.02

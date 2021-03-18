@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGG85HL-de JBL Tune500BT On-Ear Bluetooth-Kopfhörer in Schwarz –...'
 sku: 'B07HGG85HL-de'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

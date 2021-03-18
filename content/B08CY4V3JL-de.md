@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CY4V3JL-de Astragon - Liftoff: Drone Racing Deluxe Edition'
 sku: 'B08CY4V3JL-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

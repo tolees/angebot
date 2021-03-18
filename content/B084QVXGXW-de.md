@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084QVXGXW-de WC-Frisch - WC FRISCH Kraft Aktiv Blauspüler Chlor WC-...'
 sku: 'B084QVXGXW-de'
-tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

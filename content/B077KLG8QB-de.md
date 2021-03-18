@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077KLG8QB-de Garmin Vivomove HR Sport Fitness-Tracker Rosegold M'
 sku: 'B077KLG8QB-de'
-tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

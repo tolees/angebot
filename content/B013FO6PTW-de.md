@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013FO6PTW-de Explosive Media - Runaway - Spinnen des Todes Blu-ray'
 sku: 'B013FO6PTW-de'
-tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

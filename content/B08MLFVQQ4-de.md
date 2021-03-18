@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MLFVQQ4-de Bluetooth Kopfhörer In Ear EarFun Free Pro Active Noise...'
 sku: 'B08MLFVQQ4-de'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

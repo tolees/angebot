@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MJLC5K7-de Acer ED ED273URPbidpx 69 cm 27 Zoll VA Curved ZeroFrame...'
 sku: 'B07MJLC5K7-de'
-tags: [  ]
 actualPrice: 253.55 EUR
 currency: EUR
 price: 253.55

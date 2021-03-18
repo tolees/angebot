@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000A14REY-de WMF Manhattan Flachmann Edelstahl 6-teilig Flachmann 200ml...'
 sku: 'B000A14REY-de'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

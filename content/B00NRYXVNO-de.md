@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NRYXVNO-de Pandora Damen Moments Engelsflügel & Herz Charm-Anhänger...'
 sku: 'B00NRYXVNO-de'
-tags: [ 'pandora', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

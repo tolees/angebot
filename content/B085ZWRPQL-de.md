@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085ZWRPQL-de le-idea GPS Drohne mit Kamera 4K Kamera FPV RC Quadcopter...'
 sku: 'B085ZWRPQL-de'
-tags: [  ]
 actualPrice: 110.49 EUR
 currency: EUR
 price: 110.49

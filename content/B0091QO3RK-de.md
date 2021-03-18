@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0091QO3RK-de Joseph Joseph - Einstellbares Nudelholz 9 Einheiten -...'
 sku: 'B0091QO3RK-de'
-tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

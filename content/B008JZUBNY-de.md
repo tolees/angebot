@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008JZUBNY-de Fossil Damen Armband Rondell'
 sku: 'B008JZUBNY-de'
-tags: [  ]
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

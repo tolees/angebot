@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYJCFD1-de GLÜCKSWOLKE Aufbewahrungsbox Kinder I Spielzeug Kiste mit...'
 sku: 'B07KYJCFD1-de'
-tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

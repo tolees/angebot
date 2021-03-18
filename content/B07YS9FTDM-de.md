@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YS9FTDM-de Led Strip TECKIN 5M Rgb Smart WiFi Led Streifen Smart Led...'
 sku: 'B07YS9FTDM-de'
-tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

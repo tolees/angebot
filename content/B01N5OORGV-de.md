@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5OORGV-de Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau'
 sku: 'B01N5OORGV-de'
-tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

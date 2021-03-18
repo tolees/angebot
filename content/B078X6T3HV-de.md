@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078X6T3HV-de Sony HT-SF200 2.1-Kanal kompakte TV Soundbar mit...'
 sku: 'B078X6T3HV-de'
-tags: [  ]
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

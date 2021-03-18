@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CG1R3VF-de Focus Home Interactive - Call Of Cthulhu [Playstation 4]'
 sku: 'B07CG1R3VF-de'
-tags: [  ]
 actualPrice: 8.71 EUR
 currency: EUR
 price: 8.71

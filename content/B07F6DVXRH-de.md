@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F6DVXRH-de Gifts Treat Kinder Sommer Sonnenhut UPF 50+ Sonnenschutz...'
 sku: 'B07F6DVXRH-de'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AXLVOB4-de Philips Damen Elektrorasierer SatinShave Advanced...'
 sku: 'B01AXLVOB4-de'
-tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

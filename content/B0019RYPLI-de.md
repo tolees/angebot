@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0019RYPLI-de adidas Herren Polyesteranzug Core 18 Black/White L'
 sku: 'B0019RYPLI-de'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

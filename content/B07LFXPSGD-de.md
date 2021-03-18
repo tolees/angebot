@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFXPSGD-de Sloggi Zero Feel Bralette EX BH Damen Weiß White 03 M'
 sku: 'B07LFXPSGD-de'
-tags: [  ]
 actualPrice: 28.85 EUR
 currency: EUR
 price: 28.85

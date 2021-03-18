@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082JLJRHC-de 7500'
 sku: 'B082JLJRHC-de'
-tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

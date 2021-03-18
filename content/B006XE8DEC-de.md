@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006XE8DEC-de VARTA Batterien Electronics CR2025 Lithium Knopfzelle 3V...'
 sku: 'B006XE8DEC-de'
-tags: [  ]
 actualPrice: 2.17 EUR
 currency: EUR
 price: 2.17

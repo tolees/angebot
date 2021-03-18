@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2CMHP7-de Western Digital - WD My Passport SSD 500 GB externe SSD...'
 sku: 'B08F2CMHP7-de'
-tags: [  ]
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7KRXDW-de Logitech MX Keys Kabellose Tastatur Bluetooth & USB-...'
 sku: 'B07W7KRXDW-de'
-tags: [  ]
 actualPrice: 87.71 EUR
 currency: EUR
 price: 87.71

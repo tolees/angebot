@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XPOFZDA-de HERMES - Hermès Festes Parfüm 1er Pack 1x 200 ml'
 sku: 'B00XPOFZDA-de'
-tags: [  ]
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

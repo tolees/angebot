@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083VQC7Q7-de A Quiet Place - Mondo Steelbook'
 sku: 'B083VQC7Q7-de'
-tags: [  ]
 actualPrice: 27.07 EUR
 currency: EUR
 price: 27.07

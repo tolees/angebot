@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J7RZCVG-de Rolimate Hämmern von hämmerndem Spielzeug Buntem Xylophon-...'
 sku: 'B08J7RZCVG-de'
-tags: [  ]
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZYM2PP-de Pentel SESF30C-AX Brush Sign Pen Artist - Pinselstift mit...'
 sku: 'B07GZYM2PP-de'
-tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

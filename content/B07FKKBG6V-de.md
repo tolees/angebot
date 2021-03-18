@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKKBG6V-de Nike Damen W NP Tight Sport Trousers Black/ White S'
 sku: 'B07FKKBG6V-de'
-tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

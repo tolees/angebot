@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RBGMCW0-de SALEWA ALPINE HUT IV TENT Zelt Cactus/Grey UNI'
 sku: 'B00RBGMCW0-de'
-tags: [  ]
 actualPrice: 439.0 EUR
 currency: EUR
 price: 439.0

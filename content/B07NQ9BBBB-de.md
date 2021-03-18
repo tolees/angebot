@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQ9BBBB-de Samsung Galaxy Watch Active Silber'
 sku: 'B07NQ9BBBB-de'
-tags: [  ]
 actualPrice: 130.0 EUR
 currency: EUR
 price: 130.0

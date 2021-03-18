@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084WSYKSV-de SAMSUNG Galaxy Buds Plus Bluetooth Headset hellblau'
 sku: 'B084WSYKSV-de'
-tags: [  ]
 actualPrice: 95.18 EUR
 currency: EUR
 price: 95.18

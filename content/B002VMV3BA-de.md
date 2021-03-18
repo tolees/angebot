@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002VMV3BA-de Festool 493723 Schleifschuh SSH-STF-Delta100x150'
 sku: 'B002VMV3BA-de'
-tags: [  ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

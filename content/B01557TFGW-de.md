@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01557TFGW-de Aberfeldy Highland Single Malt Whisky 16 Jahre 1 x 0.7 l'
 sku: 'B01557TFGW-de'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

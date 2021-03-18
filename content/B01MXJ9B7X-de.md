@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXJ9B7X-de Maxi-Cosi CabrioFix Babyschale Gruppe 0+ nutzbar ab der...'
 sku: 'B01MXJ9B7X-de'
-tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

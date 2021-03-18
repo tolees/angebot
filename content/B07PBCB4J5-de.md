@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PBCB4J5-de Sony WH-XB700 Bluetooth Kopfhörer Extra Bass NFC 30h Akku...'
 sku: 'B07PBCB4J5-de'
-tags: [  ]
 actualPrice: 79.45 EUR
 currency: EUR
 price: 79.45

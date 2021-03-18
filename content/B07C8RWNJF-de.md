@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8RWNJF-de Huawei P20 Pro Smartphone Bundle 15 5 cm 6 1 Zoll 40/20/8...'
 sku: 'B07C8RWNJF-de'
-tags: [  ]
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99

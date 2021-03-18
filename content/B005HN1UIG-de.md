@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005HN1UIG-de Garmin Schutztasche für nüvi mit 12 7cm 5 Zoll'
 sku: 'B005HN1UIG-de'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

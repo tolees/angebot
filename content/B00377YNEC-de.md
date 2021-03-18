@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00377YNEC-de WELEDA 2in1 Erfrischende Reinigung Naturkosmetik...'
 sku: 'B00377YNEC-de'
-tags: [  ]
 actualPrice: 3.44 EUR
 currency: EUR
 price: 3.44

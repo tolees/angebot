@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0009OAGRO-de Christian Dior - Dior Addict EDP Nuevo Diseno 50 ml'
 sku: 'B0009OAGRO-de'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

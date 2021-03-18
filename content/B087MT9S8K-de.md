@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MT9S8K-de Jack Wolfskin Herren Downhill Texapore Low M Outdoorschuhe...'
 sku: 'B087MT9S8K-de'
-tags: [  ]
 actualPrice: 56.29 EUR
 currency: EUR
 price: 56.29

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BCR4ZRS-de MSI B550M PRO-VDH WiFi AMD AM4 DDR4 M.2 USB 3.2 Gen 1 WLAN...'
 sku: 'B08BCR4ZRS-de'
-tags: [  ]
 actualPrice: 105.9 EUR
 currency: EUR
 price: 105.9

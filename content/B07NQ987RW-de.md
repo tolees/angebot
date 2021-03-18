@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQ987RW-de Samsung Galaxy Watch Active Rose Gold'
 sku: 'B07NQ987RW-de'
-tags: [  ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

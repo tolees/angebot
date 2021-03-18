@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7XRPNY-de Revell Build & Play - Star Wars First Order Heavy Assault...'
 sku: 'B01N7XRPNY-de'
-tags: [  ]
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

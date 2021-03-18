@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RK48JQ-de Weißer Riese Universal Duo-Caps Aromatherapie 80 1x80...'
 sku: 'B086RK48JQ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Haushaltswaren','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Spielzeug','Weiß- & Vollwäsche','Wäschepflege','weißer riese', ]
 actualPrice: 10.71 EUR
 currency: EUR
 price: 10.71

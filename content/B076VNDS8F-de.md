@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076VNDS8F-de Sony FE 24-105mm f/4 G OSS | Vollformat...'
 sku: 'B076VNDS8F-de'
-tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

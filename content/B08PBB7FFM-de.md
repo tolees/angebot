@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PBB7FFM-de Wasserhahn Küche Schwarz Küchenarmatur mit Spiralfeder...'
 sku: 'B08PBB7FFM-de'
-tags: [  ]
 actualPrice: 55.88 EUR
 currency: EUR
 price: 55.88

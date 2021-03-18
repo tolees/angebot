@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7P1CZS-de Auralum Küche - Spültischarmatur Schwarz mit 360°...'
 sku: 'B08C7P1CZS-de'
-tags: [  ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

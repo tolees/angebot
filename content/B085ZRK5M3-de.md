@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085ZRK5M3-de VATOS City Bausteine ab 6 7 8 9 10 Jahren Jungen 513 Teile...'
 sku: 'B085ZRK5M3-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

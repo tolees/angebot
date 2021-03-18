@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLVRH2Z-de Nike Damen Revolution 5 Running Shoe Black/White-...'
 sku: 'B07NLVRH2Z-de'
-tags: [  ]
 actualPrice: 44.59 EUR
 currency: EUR
 price: 44.59

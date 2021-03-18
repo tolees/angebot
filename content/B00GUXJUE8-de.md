@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GUXJUE8-de Columbia Herren Woodburn Li Scarpe da Nordic Walking Braun...'
 sku: 'B00GUXJUE8-de'
-tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

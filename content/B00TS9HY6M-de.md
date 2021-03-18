@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TS9HY6M-de Samyang 24mm F3.5 T/S Objektiv für Anschluss Micro Four...'
 sku: 'B00TS9HY6M-de'
-tags: [  ]
 actualPrice: 593.46 EUR
 currency: EUR
 price: 593.46

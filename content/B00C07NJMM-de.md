@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C07NJMM-de Sanpellegrino | Orangen Limonade | Aranciata | Hoher...'
 sku: 'B00C07NJMM-de'
-tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

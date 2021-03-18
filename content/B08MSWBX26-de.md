@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MSWBX26-de Sony Interactive Entertainment PS VR Mega Pack 3 inkl. PS...'
 sku: 'B08MSWBX26-de'
-tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

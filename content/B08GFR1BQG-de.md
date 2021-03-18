@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GFR1BQG-de GRDE Smart Sternenhimmel Projektor LED Sternenhimmel Lampe...'
 sku: 'B08GFR1BQG-de'
-tags: [  ]
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

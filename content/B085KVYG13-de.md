@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085KVYG13-de Alexa Glühbirnen E27 Smart LED-Lampe 10W 1000LM AISIRER...'
 sku: 'B085KVYG13-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Beleuchtung','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Dekorative Leuchtmittel','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Experimentieren & Forschen','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Forschen & Entdecken: Solarenergie','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO Steine & Co.','Leuchtmittel','Netzwerkgeräte','PowerLAN-Adapter','Produkte','Repeater','Simlockfreie Handys','Speziallampen','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Sport-Kopfhörer','Weiß- & Vollwäsche','Wi-Fi Lampen','Wäschepflege','aisirer', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

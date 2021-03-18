@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074TBSZVM-de Puma Roma Basic Herren Sneaker Mehrfarbig Weiß white-black...'
 sku: 'B074TBSZVM-de'
-tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QM5GL9-de iRobot Roomba 671 WLAN Saugroboter Dirt Detect Technologie...'
 sku: 'B079QM5GL9-de'
-tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FAO6VDQ-de Cybex Silver Solution X-fix Autositz Gruppe 2/3 15-36 kg...'
 sku: 'B00FAO6VDQ-de'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

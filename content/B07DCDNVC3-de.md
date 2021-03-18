@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCDNVC3-de PUMA Damen Cali WN s Sneaker White White 39 EU'
 sku: 'B07DCDNVC3-de'
-tags: [  ]
 actualPrice: 59.1 EUR
 currency: EUR
 price: 59.1

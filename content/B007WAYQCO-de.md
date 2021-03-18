@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007WAYQCO-de BLANCO Botton Pro 45/2 Automatic Müllsystem für die...'
 sku: 'B007WAYQCO-de'
-tags: [  ]
 actualPrice: 76.4 EUR
 currency: EUR
 price: 76.4

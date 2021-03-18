@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G1WFRT2-de Sony KD48A9 BRAVIA 121cm 48 Zoll Fernseher Android TV OLED...'
 sku: 'B08G1WFRT2-de'
-tags: [  ]
 actualPrice: 1562.91 EUR
 currency: EUR
 price: 1562.91

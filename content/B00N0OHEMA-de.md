@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00N0OHEMA-de TP-Link TL-SG105E 5-Ports Gigabit Easy Smart Managed...'
 sku: 'B00N0OHEMA-de'
-tags: [  ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

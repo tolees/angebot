@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0845KBMTL-de Sony KD-49XH8096 Bravia 123 cm 49 Zoll Fernseher Android...'
 sku: 'B0845KBMTL-de'
-tags: [ 'sony', ]
 actualPrice: 676.32 EUR
 currency: EUR
 price: 676.32

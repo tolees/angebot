@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLXDL8Z-de Nike Herren Revolution 5 Leichtathletikschuhe Schwarz...'
 sku: 'B07NLXDL8Z-de'
-tags: [  ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

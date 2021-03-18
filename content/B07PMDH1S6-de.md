@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMDH1S6-de TECKIN WLAN Smart Steckdose Alexa Steckdose 4er Pack Smart...'
 sku: 'B07PMDH1S6-de'
-tags: [ 'teckin', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYZB4VQ-de Audio-Technica ATH-DSR9BT Wireless Over-Ear Kopfhörer mit...'
 sku: 'B06XYZB4VQ-de'
-tags: [  ]
 actualPrice: 329.99 EUR
 currency: EUR
 price: 329.99

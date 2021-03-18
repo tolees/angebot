@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014GXRFHM-de devolo dLAN 550 WiFi Starter Kit Powerline WLAN über die...'
 sku: 'B014GXRFHM-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','PowerLAN-Adapter','Repeater','Simlockfreie Handys','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','devolo', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

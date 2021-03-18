@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4HC65G-de LEGO 41446 Friends Heartlake City Tierklinik Tierrettung...'
 sku: 'B08G4HC65G-de'
-tags: [ '249195031','355357031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Elektronik & Foto','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO friends','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug','lego', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

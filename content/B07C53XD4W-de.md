@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C53XD4W-de Relaxdays Wandregal Cube Schwebend Modernes Design...'
 sku: 'B07C53XD4W-de'
-tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

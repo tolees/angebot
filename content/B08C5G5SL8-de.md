@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C5G5SL8-de Samsung Galaxy Buds Live kabellose Bluetooth-Kopfhörer mit...'
 sku: 'B08C5G5SL8-de'
-tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

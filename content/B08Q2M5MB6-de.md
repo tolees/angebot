@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q2M5MB6-de Samsung Wireless Charger Pad EP-P1300T inkl. Ladeadapter...'
 sku: 'B08Q2M5MB6-de'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

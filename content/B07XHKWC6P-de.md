@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XHKWC6P-de Seagate Expansion SSD Portable externe SSD 1 TB 2.5 Zoll...'
 sku: 'B07XHKWC6P-de'
-tags: [  ]
 actualPrice: 113.72 EUR
 currency: EUR
 price: 113.72

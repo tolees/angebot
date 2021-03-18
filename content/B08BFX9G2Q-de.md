@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFX9G2Q-de Guess Damen ALBY TOGGLE TOTE Umhängetaschen Schwarz/Iron...'
 sku: 'B08BFX9G2Q-de'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

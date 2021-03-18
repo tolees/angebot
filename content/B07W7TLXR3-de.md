@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TLXR3-de LEGO 75267 Star Wars Mandalorianer Battle Pack Set mit 4...'
 sku: 'B07W7TLXR3-de'
-tags: [ '249195031','355357031','Bauspielzeug & Konstruktionsspielzeug','Bead Charms für Damen','Bürobedarf & Schreibwaren','Charms & Beads für Damen','Computer','Computer & Zubehör','Damenschmuck','Elektrische Küchengeräte','Elektronik & Foto','Folienschweißgeräte','Interne Komponenten & Hardware','Kinderspielfiguren & -fahrzeuge','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LEGO','LEGO friends','Marker & Filzstifte','Minipuppen','Minipuppen & Zubehör','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','Permanent-Marker','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Regular Stores','Repeater','Schmuck','Schreibwaren','Shops','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','lego', ]
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

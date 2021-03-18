@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRST4GW-de T98 Airpods Case Metall 2019 Neuestes AirPods Hülle Mit...'
 sku: 'B07PRST4GW-de'
-tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

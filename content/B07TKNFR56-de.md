@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TKNFR56-de Kaspersky Internet Security 2021 Standard | Limitiert: +...'
 sku: 'B07TKNFR56-de'
-tags: [  ]
 actualPrice: 23.12 EUR
 currency: EUR
 price: 23.12

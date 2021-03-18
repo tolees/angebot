@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FY5MCJ9-de Vans Damen Filmore Decon Sneaker Schwarz Canvas Black/True...'
 sku: 'B07FY5MCJ9-de'
-tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

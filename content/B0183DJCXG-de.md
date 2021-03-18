@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0183DJCXG-de Retevis RT388 Walkie Talkies für Kinder PMR446 8 Kanäle...'
 sku: 'B0183DJCXG-de'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

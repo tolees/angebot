@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071ZBGHX2-de Salomon Herren Ultra 3 GTX Trekking- & Wanderhalbschuhe...'
 sku: 'B071ZBGHX2-de'
-tags: [  ]
 actualPrice: 115.67 EUR
 currency: EUR
 price: 115.67

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B6DQCR3-de Grundig GMK8610 HD 2509 R Grundig Sport- und...'
 sku: 'B07B6DQCR3-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

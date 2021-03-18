@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DG86LQW-de SmartQian 12 Paar Socken Herren Damen Baumwollsocken...'
 sku: 'B08DG86LQW-de'
-tags: [  ]
 actualPrice: 15.84 EUR
 currency: EUR
 price: 15.84

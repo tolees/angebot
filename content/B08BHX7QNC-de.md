@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHX7QNC-de Philips TV - Philips Ambilight 50PUS8505/12 50-Zoll LED TV...'
 sku: 'B08BHX7QNC-de'
-tags: [  ]
 actualPrice: 587.19 EUR
 currency: EUR
 price: 587.19

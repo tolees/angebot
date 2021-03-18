@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPJYB4F-de HUAWEI FreeBuds Pro True Wireless Bluetooth Kopfhörer mit...'
 sku: 'B08GPJYB4F-de'
-tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

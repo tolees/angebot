@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QR9V1L5-de DANISH ENDURANCE Merino Wandersocken für Herren Damen &...'
 sku: 'B08QR9V1L5-de'
-tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

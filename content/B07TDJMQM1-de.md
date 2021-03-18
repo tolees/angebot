@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TDJMQM1-de Digitaler Reishunger Mini Reiskocher und Dampfgarer in...'
 sku: 'B07TDJMQM1-de'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

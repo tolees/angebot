@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08R9TMFXQ-de Sylvanian Families 5541 Mode Spielset mit Karamel Hund -...'
 sku: 'B08R9TMFXQ-de'
-tags: [ 'sylvanian families', ]
 actualPrice: 21.93 EUR
 currency: EUR
 price: 21.93

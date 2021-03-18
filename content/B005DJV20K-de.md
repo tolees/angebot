@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005DJV20K-de keeeper Stabile Profi-Klappbox mit Soft-Touch Griffen 54 x...'
 sku: 'B005DJV20K-de'
-tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

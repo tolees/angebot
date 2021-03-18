@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8PMYF4-de PLAYMOBIL Dollhouse 70206 Familienküche Ab 4 Jahren'
 sku: 'B07P8PMYF4-de'
-tags: [  ]
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19

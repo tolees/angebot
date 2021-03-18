@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00008XVHC-de WMF Manhattan Flachmann 120 ml 12cl Cromargan Edelstahl...'
 sku: 'B00008XVHC-de'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

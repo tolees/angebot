@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016QXGEJA-de monatsgeschenke.de - BIERE DER Welt Geschenk Box Männer +...'
 sku: 'B016QXGEJA-de'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

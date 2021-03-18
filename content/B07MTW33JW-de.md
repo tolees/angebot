@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MTW33JW-de Philips Barttrimmer BT5502/15 40 verschiedene Looks 0 4 -...'
 sku: 'B07MTW33JW-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

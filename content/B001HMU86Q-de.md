@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001HMU86Q-de Medela 042.0000 Freestyle - elektrische Brustpumpe'
 sku: 'B001HMU86Q-de'
-tags: [  ]
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

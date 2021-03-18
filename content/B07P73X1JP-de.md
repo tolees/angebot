@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P73X1JP-de Kellogg s Choco Krispies Chocos Cerealien Einzelpackung 330g'
 sku: 'B07P73X1JP-de'
-tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

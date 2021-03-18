@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005TOOBPM-de Bosch Professional Magazinaufsatz für Bosch...'
 sku: 'B005TOOBPM-de'
-tags: [  ]
 actualPrice: 76.29 EUR
 currency: EUR
 price: 76.29

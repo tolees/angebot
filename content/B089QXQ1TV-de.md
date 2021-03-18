@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QXQ1TV-de Samsung 870 QVO 1TB SATA 2 5 Zoll Internes Solid State...'
 sku: 'B089QXQ1TV-de'
-tags: [  ]
 actualPrice: 89.88 EUR
 currency: EUR
 price: 89.88

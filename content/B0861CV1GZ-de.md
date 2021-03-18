@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0861CV1GZ-de Muzili Bluetooth 5.0 Kopfhörer Sport[2020 Neuestes Modell]...'
 sku: 'B0861CV1GZ-de'
-tags: [  ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

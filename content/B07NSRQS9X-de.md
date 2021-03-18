@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSRQS9X-de Funko Schlüsselanhänger Pop – SOS Geister – Bouftou'
 sku: 'B07NSRQS9X-de'
-tags: [  ]
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

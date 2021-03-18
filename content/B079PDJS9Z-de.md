@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PDJS9Z-de I Tonya'
 sku: 'B079PDJS9Z-de'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

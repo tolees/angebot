@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUFRD4Q-de Sony RX100 IV Premium Kompakt Digitalkamera 21 MP 7 6 cm 3...'
 sku: 'B00ZUFRD4Q-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Beleuchtung','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Damen-Henkeltaschen','Damen-Sneaker','Damenhandtaschen','Damenschuhe','Dekorative Leuchtmittel','Digitale Kompaktkameras','Digitalkameras','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Elektronische Spiele für Kinder','Experimentieren & Forschen','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Forschen & Entdecken: Solarenergie','Handtaschen','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','Hobbys','In-Ear Ohrhörer','Kamera & Foto','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO Steine & Co.','Leuchtmittel','Netzwerkgeräte','PowerLAN-Adapter','Produkte','Repeater','Sammelfiguren','Sammelfiguren & Requisiten','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Simlockfreie Handys','Sneaker & Sportschuhe für Damen','Speziallampen','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Sport-Kopfhörer','Weiß- & Vollwäsche','Wi-Fi Lampen','Wäschepflege','sony', ]
 actualPrice: 506.92 EUR
 currency: EUR
 price: 506.92

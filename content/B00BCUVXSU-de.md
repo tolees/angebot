@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BCUVXSU-de Philips HR1393/90 Chopper Daily 2-pin 0 7 L 450 W...'
 sku: 'B00BCUVXSU-de'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

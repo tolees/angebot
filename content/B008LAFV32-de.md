@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008LAFV32-de DeWalt Ersatz-Akku 18 0 Volt/ 4 0 Ah XR Li-Ion kompatibel...'
 sku: 'B008LAFV32-de'
-tags: [  ]
 actualPrice: 49.74 EUR
 currency: EUR
 price: 49.74

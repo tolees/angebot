@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZVWB4L-de Amazon - Wir stellen vor: Fire TV Stick Lite mit Alexa-...'
 sku: 'B07ZZVWB4L-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BWN3LHX-de Pandora Moments Mother Heart Damen Bead Charm Pandora Rose...'
 sku: 'B07BWN3LHX-de'
-tags: [ 'pandora', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

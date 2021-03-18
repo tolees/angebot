@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4MH27V-de LEGO 31111 Creator 3-in-1 Cyber-Drohne Bauset mit Cyber...'
 sku: 'B08G4MH27V-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

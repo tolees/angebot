@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UCOWGWY-de Goki 4013594566834 Memo Klang 12-teilig'
 sku: 'B00UCOWGWY-de'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SQGYHJ7-de [2021 Neu]Überwachungskamera WLAN Kamera Littlelf...'
 sku: 'B08SQGYHJ7-de'
-tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

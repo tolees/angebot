@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FMQHVV6-de Funko 51967 POP Games: Assassins Creed Valhalla- Eivor'
 sku: 'B08FMQHVV6-de'
-tags: [ 'funko', ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

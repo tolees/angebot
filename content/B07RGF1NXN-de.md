@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGF1NXN-de Hängekorb Metall Hängekorb Regal Regal Ablagekorb...'
 sku: 'B07RGF1NXN-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRRAO4G-de Sylvanian Families 4108 Milchhasen Familie - Figuren für...'
 sku: 'B00HRRAO4G-de'
-tags: [  ]
 actualPrice: 19.14 EUR
 currency: EUR
 price: 19.14

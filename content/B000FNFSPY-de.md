@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000FNFSPY-de TP-Link TL-SF1005D 5-Port Fast Ethernet-/Netzwerk-/Lan...'
 sku: 'B000FNFSPY-de'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

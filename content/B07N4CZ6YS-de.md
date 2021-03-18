@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4CZ6YS-de Pantofola d Oro Herren MILITO Uomo Low Sneaker Braun...'
 sku: 'B07N4CZ6YS-de'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

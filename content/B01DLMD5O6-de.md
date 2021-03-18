@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DLMD5O6-de Sony SEL-50F18F Standard Objektiv Festbrennweite 50 mm...'
 sku: 'B01DLMD5O6-de'
-tags: [ 'sony', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

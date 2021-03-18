@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWNRKMQ-de Oriware Spülbecken Organizer für die Küche Caddy...'
 sku: 'B07CWNRKMQ-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

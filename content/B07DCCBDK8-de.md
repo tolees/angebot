@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCCBDK8-de PUMA Damen Vikky Stacked SD Dusch- & Badeschuhe Black...'
 sku: 'B07DCCBDK8-de'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

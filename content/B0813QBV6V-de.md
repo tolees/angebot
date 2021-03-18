@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QBV6V-de LEGO 75969 Harry Potter Astronomieturm auf Schloss...'
 sku: 'B0813QBV6V-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO City','Produkte','Spielzeug','lego', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

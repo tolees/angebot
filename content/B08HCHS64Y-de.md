@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HCHS64Y-de SanDisk Ultra 200 GB microSDXC Speicherkarte + SD-Adapter...'
 sku: 'B08HCHS64Y-de'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

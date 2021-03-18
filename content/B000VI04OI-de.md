@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000VI04OI-de Import - Crossroads New Version'
 sku: 'B000VI04OI-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U770FEC-de Dickie 203715001 Toys City Fire Engine Feuerwehrauto mit...'
 sku: 'B00U770FEC-de'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PSV53R3-de Tefal E21853 Trattoria Kochtopf mit Gussdeckel...'
 sku: 'B07PSV53R3-de'
-tags: [  ]
 actualPrice: 79.72 EUR
 currency: EUR
 price: 79.72

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CSQHCTH-de Huawei Y7 2018 Dual-SIM Smartphone BUNDLE 15 2 cm 5 99...'
 sku: 'B07CSQHCTH-de'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

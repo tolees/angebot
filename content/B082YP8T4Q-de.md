@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082YP8T4Q-de Playmobil 1.2.3 Aqua 70267 Fröhliche Wasserbahn Ab 1 5 bis...'
 sku: 'B082YP8T4Q-de'
-tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

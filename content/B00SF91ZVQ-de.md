@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SF91ZVQ-de G-STAR RAW Herren Arc 3D Slim Jeans Medium Aged 6090-071...'
 sku: 'B00SF91ZVQ-de'
-tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

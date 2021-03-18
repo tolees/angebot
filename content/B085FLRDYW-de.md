@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FLRDYW-de PLAYMOBIL Dinos 70632 T-Rex Angriff ab 4 Jahren'
 sku: 'B085FLRDYW-de'
-tags: [  ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXMTD78-de Bqeel - Android 10.0 TV Box【4GB+64GB】 R2 Plus Smart TV Box...'
 sku: 'B07VXMTD78-de'
-tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VM4TW9-de Philips Nasen und Ohrenhaartrimmer Series 3000 zum...'
 sku: 'B087VM4TW9-de'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

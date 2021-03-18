@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JOCMU7K-de Universum Film - Captain Future - Komplettbox [Blu-ray]'
 sku: 'B01JOCMU7K-de'
-tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

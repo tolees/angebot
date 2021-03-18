@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005B4UDE8-de Warner Bros Universal Pictures - The Big Bang Theory - Die...'
 sku: 'B005B4UDE8-de'
-tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

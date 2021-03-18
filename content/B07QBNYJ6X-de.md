@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QBNYJ6X-de SanDisk 32GB Cruzer Blade USB-Flash-Laufwerk 3-pack'
 sku: 'B07QBNYJ6X-de'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

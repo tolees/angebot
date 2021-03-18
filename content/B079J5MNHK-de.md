@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079J5MNHK-de DIGITUS Gigabit Ethernet Netzwerk-Switch - 10 Zoll - 8...'
 sku: 'B079J5MNHK-de'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

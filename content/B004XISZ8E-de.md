@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004XISZ8E-de KabelDirekt – 1 m – 4K HDMI-Kabel 4K@120Hz & 4K@60Hz –...'
 sku: 'B004XISZ8E-de'
-tags: [ 'HDMI-Kabel','kabeldirekt', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

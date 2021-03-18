@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHVKZYG-de Funko 30974 Marvel: Ant-Man & The Wasp POP...'
 sku: 'B07CHVKZYG-de'
-tags: [ 'funko', ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

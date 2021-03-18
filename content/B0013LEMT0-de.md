@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0013LEMT0-de Dewalt Steinbohrer-Set DT6952 5-teiliges Set in...'
 sku: 'B0013LEMT0-de'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ6LDGJ-de HuaMulan Fitness Reifen Smart Gewichtsverlust Fitness...'
 sku: 'B08VJ6LDGJ-de'
-tags: [  ]
 actualPrice: 52.89 EUR
 currency: EUR
 price: 52.89

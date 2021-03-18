@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087L2YVKL-de Warner Bros Universal Pictures - Legacies - Die komplette...'
 sku: 'B087L2YVKL-de'
-tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

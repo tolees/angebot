@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075YQSYCT-de RENPHO Massagegerät Vibration Handmassagegerät für Rücken...'
 sku: 'B075YQSYCT-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FK4C31Y-de Feuchtmann Spielwaren 6281513 - MEINE LIEBLINGSKNETE aus...'
 sku: 'B01FK4C31Y-de'
-tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

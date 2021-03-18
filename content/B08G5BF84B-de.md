@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G5BF84B-de Deutsche Telekom Speedport Smart 3 R | Basis für WLAN-Mesh...'
 sku: 'B08G5BF84B-de'
-tags: [ 'deutsche telekom', ]
 actualPrice: 113.4 EUR
 currency: EUR
 price: 113.4

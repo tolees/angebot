@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFZ7F4Q-de seenda Funkmaus Bluetooth LED Kabellose Maus mit...'
 sku: 'B08BFZ7F4Q-de'
-tags: [  ]
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

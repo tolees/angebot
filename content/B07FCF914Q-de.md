@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCF914Q-de LaDicha 2ST LANTIAN LC Filter Module DC Power Video Signal...'
 sku: 'B07FCF914Q-de'
-tags: [  ]
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

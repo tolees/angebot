@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRK3W23-de Superfit SPORT7 Mini Lauflernschuh LILA/ROSA 24 EU'
 sku: 'B08DRK3W23-de'
-tags: [  ]
 actualPrice: 44.92 EUR
 currency: EUR
 price: 44.92

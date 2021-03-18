@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XCJFKJB-de Mepal - Lunchpot Ellipse Nordic green – 500 ml praktischer...'
 sku: 'B06XCJFKJB-de'
-tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

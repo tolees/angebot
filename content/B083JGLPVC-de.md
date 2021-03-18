@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JGLPVC-de IBTOM CASTLE Rapunzel Kostüm Kinder Prinzessin Kleid...'
 sku: 'B083JGLPVC-de'
-tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AICM7GY-de Puma Unisex-Erwachsene Smash Buck Low-Top Sneakers 43 EU...'
 sku: 'B01AICM7GY-de'
-tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

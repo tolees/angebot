@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J9IG0JI-de ABUS AB72498 5805C Vorhängeschloss Schwarz 110 cm Länge'
 sku: 'B01J9IG0JI-de'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

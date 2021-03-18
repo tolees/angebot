@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016RWKHBQ-de Trust Urban Senfus IPX5 wasserfeste Bluetooth In-Ear-...'
 sku: 'B016RWKHBQ-de'
-tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

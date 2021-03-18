@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FRJ1EQM-de Electronic Arts - Battlefield 1 [PC Code - Origin]'
 sku: 'B01FRJ1EQM-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

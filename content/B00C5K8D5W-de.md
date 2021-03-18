@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C5K8D5W-de Kingston DT100G3/16GB DataTraveler 100 G3 USB 3.0 3.1...'
 sku: 'B00C5K8D5W-de'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

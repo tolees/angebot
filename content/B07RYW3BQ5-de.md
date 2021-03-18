@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RYW3BQ5-de Warner Bros Entertainment - Game of Thrones - Staffel 8 [4...'
 sku: 'B07RYW3BQ5-de'
-tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

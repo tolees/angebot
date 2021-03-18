@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002KAOCT8-de Crocs Unisex-Erwachsene Crocband Clogs Navy 48/49 EU'
 sku: 'B002KAOCT8-de'
-tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

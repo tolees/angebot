@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BGTRMCC-de G-STAR RAW Damen Jeans Midge Saddle Mid Waist Bootcut Blau...'
 sku: 'B01BGTRMCC-de'
-tags: [  ]
 actualPrice: 63.36 EUR
 currency: EUR
 price: 63.36

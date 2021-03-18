@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009P4URJG-de Warner Home Video - Alf - Die komplette Serie [16 DVDs]'
 sku: 'B009P4URJG-de'
-tags: [  ]
 actualPrice: 21.97 EUR
 currency: EUR
 price: 21.97

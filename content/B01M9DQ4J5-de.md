@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9DQ4J5-de Motorola VerveOnes ME | Stereo smart Bluetooth Kopfhörer...'
 sku: 'B01M9DQ4J5-de'
-tags: [  ]
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

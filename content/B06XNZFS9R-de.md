@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XNZFS9R-de Sylvanian Families 5272 Känguru Familie - Figuren für...'
 sku: 'B06XNZFS9R-de'
-tags: [  ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

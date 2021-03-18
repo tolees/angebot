@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQT3HKR-de Odys NoteTab Pro 25 7 cm 10 1 Zoll 1 3 Ghz QuadCore...'
 sku: 'B07HQT3HKR-de'
-tags: [  ]
 actualPrice: 82.96 EUR
 currency: EUR
 price: 82.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081FWVSG8-de Apple Lightning auf USB Kabel 1 m'
 sku: 'B081FWVSG8-de'
-tags: [ 'apple', ]
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

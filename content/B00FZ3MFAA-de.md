@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FZ3MFAA-de simplehuman 12cm Sensorspiegel 10-fache Vergrößerung...'
 sku: 'B00FZ3MFAA-de'
-tags: [  ]
 actualPrice: 100.74 EUR
 currency: EUR
 price: 100.74

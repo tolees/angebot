@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DPQ89US-de Sony KDL-32WD755 80 cm 32 Zoll Fernseher Full HD HD Triple...'
 sku: 'B01DPQ89US-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Haushaltswaren','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Spielzeug','Weiß- & Vollwäsche','Wäschepflege','sony', ]
 actualPrice: 313.77 EUR
 currency: EUR
 price: 313.77

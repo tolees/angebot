@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CJWQVJQ-de Vans Herren Atwood Canvas Sneaker Rot Oxbloo 8J3 43 EU'
 sku: 'B00CJWQVJQ-de'
-tags: [  ]
 actualPrice: 33.89 EUR
 currency: EUR
 price: 33.89

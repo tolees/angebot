@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FMVPSGR-de Mounting Dream TV Halterung Schwenkbare Neigbare TV...'
 sku: 'B08FMVPSGR-de'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

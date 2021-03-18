@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N4GGQR5-de Tommy Hilfiger Herren DENTON CHINO STRUCTURE GMD Chino...'
 sku: 'B07N4GGQR5-de'
-tags: [  ]
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

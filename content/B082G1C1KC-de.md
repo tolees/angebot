@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082G1C1KC-de Linksys MX5300 Velop Tri-Band WiFi 6-Mesh-WLAN-System...'
 sku: 'B082G1C1KC-de'
-tags: [  ]
 actualPrice: 310.76 EUR
 currency: EUR
 price: 310.76

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087S2J4VB-de Seagate Ultra Touch SSD tragbare externe SSD 1 TB 2.5 Zoll...'
 sku: 'B087S2J4VB-de'
-tags: [  ]
 actualPrice: 128.69 EUR
 currency: EUR
 price: 128.69

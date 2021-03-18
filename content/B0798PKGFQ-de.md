@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0798PKGFQ-de Zyxel 8-Port Gigabit Web Managed Switch Lifetime Garantie...'
 sku: 'B0798PKGFQ-de'
-tags: [  ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

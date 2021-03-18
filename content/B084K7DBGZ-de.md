@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084K7DBGZ-de Tommy Hilfiger Sportuhr 1782196'
 sku: 'B084K7DBGZ-de'
-tags: [  ]
 actualPrice: 121.0 EUR
 currency: EUR
 price: 121.0

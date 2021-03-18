@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06VVR23DX-de Osprey Fairview 55 Reisetasche für Frauen mit abnehmbarem...'
 sku: 'B06VVR23DX-de'
-tags: [  ]
 actualPrice: 52.1 EUR
 currency: EUR
 price: 52.1

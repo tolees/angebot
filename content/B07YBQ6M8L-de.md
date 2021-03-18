@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YBQ6M8L-de JBL Flip Essential Bluetooth Box in Grau – Wasserdichter...'
 sku: 'B07YBQ6M8L-de'
-tags: [ 'jbl', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CB7J5G8-de Funko 51458 POP Ride: Masters of the Universe-Skeletor on...'
 sku: 'B08CB7J5G8-de'
-tags: [  ]
 actualPrice: 32.73 EUR
 currency: EUR
 price: 32.73

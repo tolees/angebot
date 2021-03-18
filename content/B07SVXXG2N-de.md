@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SVXXG2N-de Somat Gold Spülmaschinentabs 50 Tabs Extra-Kraft gegen...'
 sku: 'B07SVXXG2N-de'
-tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

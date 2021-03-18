@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0068JDLZI-de Bosch Professional Adapter für interne Absaugung für GAS...'
 sku: 'B0068JDLZI-de'
-tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

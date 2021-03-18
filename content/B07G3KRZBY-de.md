@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3KRZBY-de Crucial BX500 120GB CT120BX500SSD1-bis zu 540 MB/s...'
 sku: 'B07G3KRZBY-de'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

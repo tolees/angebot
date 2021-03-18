@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZPXB19-de adidas Herren Forest Grove Fitnessschuhe Blau Collegiate...'
 sku: 'B07JZPXB19-de'
-tags: [  ]
 actualPrice: 60.62 EUR
 currency: EUR
 price: 60.62

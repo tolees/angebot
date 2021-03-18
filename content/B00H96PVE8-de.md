@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H96PVE8-de Layenberger LowCarb.one 3K Protein-Shake Vanille-Sahne 1er...'
 sku: 'B00H96PVE8-de'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

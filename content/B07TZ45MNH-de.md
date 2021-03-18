@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ45MNH-de Josamogre Astronauten Kostüm Erwachsene Herren Kostüm...'
 sku: 'B07TZ45MNH-de'
-tags: [  ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

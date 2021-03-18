@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0777XZWTG-de Electronic Arts - Die Sims 4 | Xbox One - Download Code'
 sku: 'B0777XZWTG-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZQQMHK-de GUND 6053047 - Interaktiver Flappy der Elefant mit...'
 sku: 'B07PZQQMHK-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

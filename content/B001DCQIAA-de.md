@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001DCQIAA-de Sinfonien 1-4 Karajan Sinfonien-Edition'
 sku: 'B001DCQIAA-de'
-tags: [  ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

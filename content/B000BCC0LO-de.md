@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000BCC0LO-de D-Link DGS-108 8-Port Layer2 Gigabit Switch bis zu 2000...'
 sku: 'B000BCC0LO-de'
-tags: [  ]
 actualPrice: 26.11 EUR
 currency: EUR
 price: 26.11

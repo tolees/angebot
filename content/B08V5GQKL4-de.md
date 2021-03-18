@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V5GQKL4-de KOROTUS COLLECTION - LED Lichterkette Kugeln 5m Alexa RGB...'
 sku: 'B08V5GQKL4-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

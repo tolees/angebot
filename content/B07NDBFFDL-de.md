@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDBFFDL-de Produkttitel fehlt - Wird nachgereicht'
 sku: 'B07NDBFFDL-de'
-tags: [  ]
 actualPrice: 14.48 EUR
 currency: EUR
 price: 14.48

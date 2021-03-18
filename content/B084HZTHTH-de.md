@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084HZTHTH-de Funko 49041 POP Games: Ghost of Tsushima-Jin Sakai...'
 sku: 'B084HZTHTH-de'
-tags: [  ]
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

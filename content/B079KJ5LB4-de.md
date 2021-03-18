@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079KJ5LB4-de LLOYD Herren Gala Derbys Schwarz Schwarz/Midnight 0 44 EU'
 sku: 'B079KJ5LB4-de'
-tags: [  ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KTM8LP6-de PLAYMOBIL City Life 70591 Fashion Store Für Kinder von 5 -...'
 sku: 'B08KTM8LP6-de'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

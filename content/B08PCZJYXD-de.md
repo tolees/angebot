@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PCZJYXD-de GOW - Akku / Powerbank passend für Playstation 5...'
 sku: 'B08PCZJYXD-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

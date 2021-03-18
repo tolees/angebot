@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VPRQQ7-de Scholl Fresh Step Geruchsstopp Schuhspray frische Schuhe 1...'
 sku: 'B082VPRQQ7-de'
-tags: [  ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

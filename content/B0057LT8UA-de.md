@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0057LT8UA-de Walther design KP050W Trendstyle Kunststoffrahmen 40x50 cm...'
 sku: 'B0057LT8UA-de'
-tags: [  ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

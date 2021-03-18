@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085JHX2HM-de Walt Disney - Onward - Keine halben Sachen [Blu-ray]'
 sku: 'B085JHX2HM-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

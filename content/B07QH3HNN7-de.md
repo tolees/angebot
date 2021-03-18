@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QH3HNN7-de WANGE Pisa Turm - Torre de Pisa. Architektur Modell zum Bauen'
 sku: 'B07QH3HNN7-de'
-tags: [  ]
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

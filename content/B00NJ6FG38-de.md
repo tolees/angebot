@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NJ6FG38-de Intenso Memory Play 1TB externe TV-Festplatte 6 35 cm 2 5...'
 sku: 'B00NJ6FG38-de'
-tags: [  ]
 actualPrice: 58.73 EUR
 currency: EUR
 price: 58.73

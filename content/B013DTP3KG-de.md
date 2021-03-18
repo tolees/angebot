@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013DTP3KG-de Warner Bros Universal Pictures - The Mentalist Komplettbox...'
 sku: 'B013DTP3KG-de'
-tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

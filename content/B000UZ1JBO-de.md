@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000UZ1JBO-de GEDORE Latthammer mit Magnet 340 mm Anti-Vibrationssystem...'
 sku: 'B000UZ1JBO-de'
-tags: [  ]
 actualPrice: 57.98 EUR
 currency: EUR
 price: 57.98

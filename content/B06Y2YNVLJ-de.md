@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2YNVLJ-de New Balance Herren 574v2-Core Sneaker Schwarz Black 43 EU'
 sku: 'B06Y2YNVLJ-de'
-tags: [ 'new balance', ]
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGDYKPL-de Paramount Pictures Universal Pictures - Star Trek...'
 sku: 'B07XGDYKPL-de'
-tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

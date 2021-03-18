@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GDD17BS-de ENCHUFE INTELIGENTE TP-LINK MINI SMART WI-FI SOCKET'
 sku: 'B08GDD17BS-de'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004LX7CL2-de Marc Jacobs Daisy Eau so Fresh Eau de Toilette 1er Pack 1...'
 sku: 'B004LX7CL2-de'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

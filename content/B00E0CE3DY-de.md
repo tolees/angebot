@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00E0CE3DY-de s.Oliver Damen Quarz Armbanduhr mit Edelstahlarmband'
 sku: 'B00E0CE3DY-de'
-tags: [  ]
 actualPrice: 51.88 EUR
 currency: EUR
 price: 51.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ODRSN0A-de Jabra Evolve 65 Wireless Stereo On-Ear Headset - Microsoft...'
 sku: 'B00ODRSN0A-de'
-tags: [  ]
 actualPrice: 125.13 EUR
 currency: EUR
 price: 125.13

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MKRYH1Q-de Seagate Backup Plus Slim tragbare externe Festplatte 1 TB...'
 sku: 'B07MKRYH1Q-de'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

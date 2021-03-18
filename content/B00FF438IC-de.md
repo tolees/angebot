@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FF438IC-de HERMKO 3000 5er Pack Herren Tank Top Classic Unterhemd -...'
 sku: 'B00FF438IC-de'
-tags: [  ]
 actualPrice: 20.69 EUR
 currency: EUR
 price: 20.69

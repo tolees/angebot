@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHVCY1M-de Denon AVR-X2600H 7.2-Kanal AV-Receiver Hifi Verstärker...'
 sku: 'B07RHVCY1M-de'
-tags: [  ]
 actualPrice: 471.79 EUR
 currency: EUR
 price: 471.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FGI2QVC-de Anker 2.4G Wireless Maus Vertikale Ergonomische Funkmaus...'
 sku: 'B00FGI2QVC-de'
-tags: [  ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

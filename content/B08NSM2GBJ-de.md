@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NSM2GBJ-de NETGEAR WAX214 WiFi 6 WLAN Access Point PoE Dualband 1800...'
 sku: 'B08NSM2GBJ-de'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4FSQR3-de Hugo Boss Herren Skeleton Automatik Armbanduhr mit...'
 sku: 'B07G4FSQR3-de'
-tags: [ 'hugo boss', ]
 actualPrice: 357.04 EUR
 currency: EUR
 price: 357.04

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078PNV3QH-de Vans Damen Ward Suede/Canvas Sneaker Schwarz Suede/Canvas...'
 sku: 'B078PNV3QH-de'
-tags: [  ]
 actualPrice: 44.6 EUR
 currency: EUR
 price: 44.6

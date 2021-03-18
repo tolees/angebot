@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NQUSUPI-de LTB Jeans Damen Valerie Jeans Blau Blue Lapis Wash 3923...'
 sku: 'B00NQUSUPI-de'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

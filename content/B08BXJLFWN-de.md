@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BXJLFWN-de Electronic Arts - EA SPORTS UFC 4 - [Xbox One]'
 sku: 'B08BXJLFWN-de'
-tags: [  ]
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

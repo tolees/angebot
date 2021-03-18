@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P65S5KF-de Kellogg s Choco Krispies Chocos Cerealien | Einzelpackung...'
 sku: 'B07P65S5KF-de'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

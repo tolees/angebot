@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ICX3QXU-de Studiocanal - Der Anwalt des Teufels - Die komplette Serie'
 sku: 'B00ICX3QXU-de'
-tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

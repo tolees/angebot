@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016UWXU44-de iRobot Braava 390t Wischroboter intelligente Navigation 2...'
 sku: 'B016UWXU44-de'
-tags: [  ]
 actualPrice: 214.95 EUR
 currency: EUR
 price: 214.95

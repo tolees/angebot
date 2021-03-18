@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BLDTWW1-de LEGO Ideas Voltron 21311 Bauset 2.321 Teile'
 sku: 'B07BLDTWW1-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO City','Produkte','Spielzeug','lego', ]
 actualPrice: 152.0 EUR
 currency: EUR
 price: 152.0

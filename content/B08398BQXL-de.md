@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08398BQXL-de Wanbasion 6 Teilig scharfe Messer Set küche Edelstahl...'
 sku: 'B08398BQXL-de'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

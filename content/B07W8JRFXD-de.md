@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W8JRFXD-de Funko POP! Star Wars: Mandalorian - The Mandalorian'
 sku: 'B07W8JRFXD-de'
-tags: [  ]
 actualPrice: 19.73 EUR
 currency: EUR
 price: 19.73

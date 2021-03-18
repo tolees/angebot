@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KFQDVSL-de TOM TAILOR Denim Herren Slim Piers Jeans Blau Dark Stone...'
 sku: 'B07KFQDVSL-de'
-tags: [  ]
 actualPrice: 37.01 EUR
 currency: EUR
 price: 37.01

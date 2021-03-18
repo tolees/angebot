@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGPFTH4-de adidas Unisex Continental 80 J Fitnessschuhe Weiß Footwear...'
 sku: 'B07HGPFTH4-de'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

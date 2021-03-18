@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CGJNLBB-de Samsung MZ-V7E1T0BW 970 EVO 1 TB NVMe M.2 Interne SSD Schwarz'
 sku: 'B07CGJNLBB-de'
-tags: [  ]
 actualPrice: 139.83 EUR
 currency: EUR
 price: 139.83

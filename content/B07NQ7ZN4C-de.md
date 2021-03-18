@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ7ZN4C-de Antimi Bluetooth Kopfhörer Kabellos in Ear Kopfhoerer...'
 sku: 'B07NQ7ZN4C-de'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

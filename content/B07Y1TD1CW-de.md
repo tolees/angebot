@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1TD1CW-de Dalmo Küchenarmatur 360° Drehbar Wasserhahn Küche aus...'
 sku: 'B07Y1TD1CW-de'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

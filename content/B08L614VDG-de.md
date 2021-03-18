@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L614VDG-de AUKEY Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit...'
 sku: 'B08L614VDG-de'
-tags: [  ]
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081MFNF9Z-de New Balance Herren 311 Core Sneaker Rot Scarlet 44.5 EU'
 sku: 'B081MFNF9Z-de'
-tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

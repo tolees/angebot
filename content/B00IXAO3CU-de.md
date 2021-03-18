@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IXAO3CU-de Bearpaw Damen Rosie Kurzschaft Stiefel Schwarz Black II...'
 sku: 'B00IXAO3CU-de'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

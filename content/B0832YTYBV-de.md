@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0832YTYBV-de WenTop Alexa LED Strip 10m LED Band mit Fernbedienung Wi-...'
 sku: 'B0832YTYBV-de'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

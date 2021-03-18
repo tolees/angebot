@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076ZTBXNZ-de Belkin ScreenForce TemperedCurve Displayschutz geeignet...'
 sku: 'B076ZTBXNZ-de'
-tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

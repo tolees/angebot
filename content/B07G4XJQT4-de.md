@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4XJQT4-de Tommy Hilfiger Damen Analog Quarz Uhr mit Leder Armband...'
 sku: 'B07G4XJQT4-de'
-tags: [  ]
 actualPrice: 100.79 EUR
 currency: EUR
 price: 100.79

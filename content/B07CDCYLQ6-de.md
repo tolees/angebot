@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CDCYLQ6-de TECKIN WLAN Smart Steckdose 16A Alexa Steckdose 2er Pack...'
 sku: 'B07CDCYLQ6-de'
-tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

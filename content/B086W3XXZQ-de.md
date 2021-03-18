@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086W3XXZQ-de DEERC D30 Faltbar Drohne mit 1080P HD Kamera für Kinder RC...'
 sku: 'B086W3XXZQ-de'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

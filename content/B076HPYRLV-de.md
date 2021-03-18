@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HPYRLV-de adidas Herren Core 18 Sweat Trainingshose Dark Grey...'
 sku: 'B076HPYRLV-de'
-tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

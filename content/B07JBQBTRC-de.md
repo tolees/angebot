@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBQBTRC-de Polk Audio Signature S35E Center Lautsprecher HiFi...'
 sku: 'B07JBQBTRC-de'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

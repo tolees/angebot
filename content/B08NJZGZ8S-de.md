@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NJZGZ8S-de Avatar Controls - Alexa Glühbirnen E14 Smart LED Lampen...'
 sku: 'B08NJZGZ8S-de'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

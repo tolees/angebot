@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00D3FG2SS-de Honeywell Howard Leight - Honeywell 1018953 Howard Leight...'
 sku: 'B00D3FG2SS-de'
-tags: [  ]
 actualPrice: 49.2 EUR
 currency: EUR
 price: 49.2

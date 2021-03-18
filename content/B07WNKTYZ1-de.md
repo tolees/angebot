@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WNKTYZ1-de Sony Music Entertainment - 202/das Weiße Grab'
 sku: 'B07WNKTYZ1-de'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

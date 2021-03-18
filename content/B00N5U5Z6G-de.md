@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00N5U5Z6G-de Fjällräven Herren Barents Pro Trousers grau Dk Grey-Dk...'
 sku: 'B00N5U5Z6G-de'
-tags: [  ]
 actualPrice: 127.99 EUR
 currency: EUR
 price: 127.99

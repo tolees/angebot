@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WZJLWB-de Nike Herren Air Max 270 Turnschuh Black Anthracite White...'
 sku: 'B078WZJLWB-de'
-tags: [  ]
 actualPrice: 108.03 EUR
 currency: EUR
 price: 108.03

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VF37VY-de Samsung Galaxy S20 Ultra 5G Smartphone Bundle 17 44 cm 128...'
 sku: 'B087VF37VY-de'
-tags: [  ]
 actualPrice: 829.0 EUR
 currency: EUR
 price: 829.0

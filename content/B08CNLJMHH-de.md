@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNLJMHH-de SuperThings PSTSD48TIN20 PSZSD48TIN20 Secret Spies-Speed...'
 sku: 'B08CNLJMHH-de'
-tags: [  ]
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQONK7Z-de Tommy Hilfiger Damen K1285ESHA 6D Sneaker Blau Midnight...'
 sku: 'B01MQONK7Z-de'
-tags: [ 'tommy hilfiger', ]
 actualPrice: 50.94 EUR
 currency: EUR
 price: 50.94

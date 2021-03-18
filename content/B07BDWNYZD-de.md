@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BDWNYZD-de s.Oliver Damen Analog Quarz Armbanduhr SO-3521-LQ'
 sku: 'B07BDWNYZD-de'
-tags: [  ]
 actualPrice: 38.53 EUR
 currency: EUR
 price: 38.53

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HQL4W8-de PLAYMOBIL City Action 70443 Minibagger mit Bauteil Ab 5...'
 sku: 'B081HQL4W8-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

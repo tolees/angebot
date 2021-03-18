@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X13CRLY-de Tefal Smart N Light Toaster Schwarz 2 Extrabreite Schlitze...'
 sku: 'B07X13CRLY-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

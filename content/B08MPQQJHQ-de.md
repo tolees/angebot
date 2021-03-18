@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MPQQJHQ-de Xiaomi Mi Vacuum Cleaner Mini XM200047 Handstaubsauger...'
 sku: 'B08MPQQJHQ-de'
-tags: [  ]
 actualPrice: 40.87 EUR
 currency: EUR
 price: 40.87

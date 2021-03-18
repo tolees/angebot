@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C958CTN-de LEONINE Distribution GmbH - Unhinged - Ausser Kontrolle...'
 sku: 'B08C958CTN-de'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

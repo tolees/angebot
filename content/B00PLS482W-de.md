@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PLS482W-de BRA Bratpfanne Aluminium schwarz Set 18-22-26 cm'
 sku: 'B00PLS482W-de'
-tags: [  ]
 actualPrice: 41.49 EUR
 currency: EUR
 price: 41.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNH641N-de Assassin s Creed Odyssey - Gold Edition [PC Code - Uplay]'
 sku: 'B07DNH641N-de'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

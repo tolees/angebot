@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YFI1A66-de SanDisk Ultra USB 3.0 Flash- Laufwerk 256 GB SecureAccess...'
 sku: 'B00YFI1A66-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SMH454P-de MAWOLY Hu-la-ho-op Reifen Erwachsene Hu-la-ho-op...'
 sku: 'B08SMH454P-de'
-tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

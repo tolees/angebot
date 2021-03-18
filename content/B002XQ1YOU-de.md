@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002XQ1YOU-de GIANNI VERSACE Versace Versense EDT Vapo 100 ml'
 sku: 'B002XQ1YOU-de'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

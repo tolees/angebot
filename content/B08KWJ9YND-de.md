@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KWJ9YND-de Kabellose Kopfhörer Mpow MDots Bluetooth Kopfhörer in Ear...'
 sku: 'B08KWJ9YND-de'
-tags: [  ]
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

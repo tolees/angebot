@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EK8CVHW-de TP-Link M7350 mobiler WLAN Router 4G/LTE bis zu 150Mbit/s...'
 sku: 'B01EK8CVHW-de'
-tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084YXK1N2-de Concorde Video - The Gentlemen'
 sku: 'B084YXK1N2-de'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

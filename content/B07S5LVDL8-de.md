@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S5LVDL8-de Astragon - Blacksad - Under the Skin Limited-Edition'
 sku: 'B07S5LVDL8-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

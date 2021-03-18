@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J35TGD4-de capelight pictures - Running Man - Limited Collector s...'
 sku: 'B07J35TGD4-de'
-tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

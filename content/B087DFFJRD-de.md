@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087DFFJRD-de Samsung T7 Portable SSD - 2 TB - USB 3.2 Gen.2 Externe SSD...'
 sku: 'B087DFFJRD-de'
-tags: [  ]
 actualPrice: 293.18 EUR
 currency: EUR
 price: 293.18

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKRMZ6P-de Intex Palm Leaf Pool Float'
 sku: 'B07HKRMZ6P-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

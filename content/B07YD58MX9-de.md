@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YD58MX9-de Crucial BX500 2TB CT2000BX500SSD1 Z -bis zu 540 MB/s...'
 sku: 'B07YD58MX9-de'
-tags: [  ]
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

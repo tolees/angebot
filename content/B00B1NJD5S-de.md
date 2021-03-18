@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B1NJD5S-de STUDIOCANAL GmbH - Welt am Draht'
 sku: 'B00B1NJD5S-de'
-tags: [  ]
 actualPrice: 4.97 EUR
 currency: EUR
 price: 4.97

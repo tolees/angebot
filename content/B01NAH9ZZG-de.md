@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NAH9ZZG-de fromin Wasser still Pet-Flaschen Water from the Ice Age...'
 sku: 'B01NAH9ZZG-de'
-tags: [  ]
 actualPrice: 15.21 EUR
 currency: EUR
 price: 15.21

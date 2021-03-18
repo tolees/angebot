@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPRF5JV-de Funko 37252 POP Rides 80th: Batman 1950 Sammelbares...'
 sku: 'B07KPRF5JV-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

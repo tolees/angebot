@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G2GVYLW-de Michael Kors Damen Analog Quarz Uhr mit Leder Armband MK2747'
 sku: 'B07G2GVYLW-de'
-tags: [  ]
 actualPrice: 121.9 EUR
 currency: EUR
 price: 121.9

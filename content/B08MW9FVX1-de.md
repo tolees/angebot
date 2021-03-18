@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MW9FVX1-de SOLLOMENSI Laufschuhe Damen Herren Sportschuhe...'
 sku: 'B08MW9FVX1-de'
-tags: [  ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

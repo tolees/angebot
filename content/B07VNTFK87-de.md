@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNTFK87-de Western Digital - WD BLACK 4TB P10 Game Drive für den...'
 sku: 'B07VNTFK87-de'
-tags: [  ]
 actualPrice: 92.54 EUR
 currency: EUR
 price: 92.54

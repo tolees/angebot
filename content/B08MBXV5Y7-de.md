@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MBXV5Y7-de Walt Disney - Mulan Live-Action [Blu-ray]'
 sku: 'B08MBXV5Y7-de'
-tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BH4H1B8-de Panasonic DMP-BDT168EG Kompakter 3D Blu-ray Player Full HD...'
 sku: 'B01BH4H1B8-de'
-tags: [  ]
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

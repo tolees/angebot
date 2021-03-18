@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QMDRT4Y-de BeWlaner WLAN Repeater WLAN Verstärker 300Mbit/s 2 4GHz...'
 sku: 'B08QMDRT4Y-de'
-tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N10SBT4-de PDP Nintendo Switch The Legend of Zelda: Breath of the...'
 sku: 'B01N10SBT4-de'
-tags: [  ]
 actualPrice: 11.76 EUR
 currency: EUR
 price: 11.76

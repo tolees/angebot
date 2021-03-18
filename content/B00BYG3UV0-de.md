@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BYG3UV0-de Nike Herren T-Lite Xi Low-Top Weiß White/Obsidian-Black-...'
 sku: 'B00BYG3UV0-de'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

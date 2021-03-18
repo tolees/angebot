@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N3C5WRG-de Garmin Premium-Herzfrequenz-Brustgurt Dual Basic...'
 sku: 'B07N3C5WRG-de'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

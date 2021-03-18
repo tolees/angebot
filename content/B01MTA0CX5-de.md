@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MTA0CX5-de Bosch Professional 8tlg. Schrauber Bit Set Torx Impact...'
 sku: 'B01MTA0CX5-de'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

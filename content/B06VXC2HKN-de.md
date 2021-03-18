@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VXC2HKN-de Fitbit Alta HR & Alta Classic Band'
 sku: 'B06VXC2HKN-de'
-tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

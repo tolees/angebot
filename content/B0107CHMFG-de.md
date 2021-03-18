@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0107CHMFG-de VAUDE Herren Hose Men s Drop Pants II black uni L 04981'
 sku: 'B0107CHMFG-de'
-tags: [  ]
 actualPrice: 59.2 EUR
 currency: EUR
 price: 59.2

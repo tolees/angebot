@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK9B3Z-de Lego Architecture - LEGO 21045 Architecture Trafalgar...'
 sku: 'B07KTK9B3Z-de'
-tags: [ '249195031','355357031','Actionfiguren-Spielsets für Kinder','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bead Charms für Damen','Bekleidung','Brettspiele','Bürobedarf & Schreibwaren','Charms & Beads für Damen','Computer','Computer & Zubehör','Controller für Xbox Series X & S','Damen-BHs','Damenbekleidung','Damenschmuck','Dessous, Nacht- & Lounge-Wäsche für Damen','Elektrische Küchengeräte','Elektroinstallation','Elektronik & Foto','Folienschweißgeräte','Games','Handys & Smartphones','Handys & Zubehör','Interne Komponenten & Hardware','Kinderspielfiguren & -fahrzeuge','Klassische BHs für Damen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LEGO','LEGO friends','Leggings für Damen','Marker & Filzstifte','Minipuppen','Minipuppen & Zubehör','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','Permanent-Marker','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Regular Stores','Repeater','Schmuck','Schreibwaren','Shops','Simlockfreie Handys','Smart & Ferngesteuerte Stecker','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Steckdosen & Zubehör','Unterwäsche & Dessous für Damen','Xbox Series X & S','Zubehör für Xbox Series X & S','lego architecture', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

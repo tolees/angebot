@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085XY73MD-de Joop! - Joop Homme Ice Eau De Toilette Herrenparfum 40ml'
 sku: 'B085XY73MD-de'
-tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KCXTV9P-de Meross Alexa Aroma Diffuser/Diffusor für Ätherische Öle...'
 sku: 'B08KCXTV9P-de'
-tags: [  ]
 actualPrice: 41.73 EUR
 currency: EUR
 price: 41.73

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08S3HJKTM-de Tablet 8 Zoll TECLAST P80 Tablett PC Android 10 Quad Core...'
 sku: 'B08S3HJKTM-de'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

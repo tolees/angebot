@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000J6D3HM-de Pentel R50 Tintenroller "Ball Pentel" 0 4mm 12 Stück schwarz'
 sku: 'B000J6D3HM-de'
-tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013SJPDQA-de GROHE Essentials | Badaccessoires - Bad-Set 4-in-1 | chrom...'
 sku: 'B013SJPDQA-de'
-tags: [  ]
 actualPrice: 69.5 EUR
 currency: EUR
 price: 69.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L933NCF-de Pril 5 Plus Original Handgeschirrspülmittel 675 ml mit...'
 sku: 'B08L933NCF-de'
-tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01F9G43WU-de SanDisk SSD PLUS 240GB Sata III 2 5 Zoll Interne SSD bis...'
 sku: 'B01F9G43WU-de'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

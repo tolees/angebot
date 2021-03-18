@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T9YM9MZ-de PUMA Sneakers Socken Sportsocken 10-Paar-Pack Unisex -...'
 sku: 'B08T9YM9MZ-de'
-tags: [  ]
 actualPrice: 15.7 EUR
 currency: EUR
 price: 15.7

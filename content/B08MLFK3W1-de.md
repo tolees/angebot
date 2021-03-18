@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MLFK3W1-de BenBoy Herren Wanderhose Wasserdicht Softshellhose...'
 sku: 'B08MLFK3W1-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

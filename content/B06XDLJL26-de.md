@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XDLJL26-de Apple EarPods mit 3 5 mm Kopfhörerstecker'
 sku: 'B06XDLJL26-de'
-tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

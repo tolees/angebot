@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKMZPQ5-de Samsung Galaxy A20e Smartphone 14.82cm 148.2 mm 5.8 Zoll...'
 sku: 'B07QKMZPQ5-de'
-tags: [ '249195031','355357031','Bauspielzeug & Konstruktionsspielzeug','Bead Charms für Damen','Bürobedarf & Schreibwaren','Charms & Beads für Damen','Computer','Computer & Zubehör','Damenschmuck','Elektrische Küchengeräte','Elektronik & Foto','Folienschweißgeräte','Handys & Smartphones','Handys & Zubehör','Interne Komponenten & Hardware','Kinderspielfiguren & -fahrzeuge','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LEGO','LEGO friends','Marker & Filzstifte','Minipuppen','Minipuppen & Zubehör','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','Permanent-Marker','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Regular Stores','Repeater','Schmuck','Schreibwaren','Shops','Simlockfreie Handys','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','samsung', ]
 actualPrice: 137.0 EUR
 currency: EUR
 price: 137.0

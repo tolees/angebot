@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XFYZLTJ-de Apple USB-C-Digital-AV-Multiport-Adapter Neustes Modell'
 sku: 'B07XFYZLTJ-de'
-tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

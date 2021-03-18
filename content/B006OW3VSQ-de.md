@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006OW3VSQ-de Philips automotive lighting - Philips 12636BW Vision Moto...'
 sku: 'B006OW3VSQ-de'
-tags: [  ]
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZDV96TC-de Tommy Jeans Herren TJM Straight Logo Hoodie Pullover Grau...'
 sku: 'B07ZDV96TC-de'
-tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

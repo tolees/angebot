@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P82MSM5-de Funko 40709 Sammelbares Spielzeug One-Size Mehrfarben'
 sku: 'B07P82MSM5-de'
-tags: [  ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

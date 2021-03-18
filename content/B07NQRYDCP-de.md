@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQRYDCP-de Sylvanian Families 5302 Stadthaus mit Licht - Puppenhaus'
 sku: 'B07NQRYDCP-de'
-tags: [  ]
 actualPrice: 66.6 EUR
 currency: EUR
 price: 66.6

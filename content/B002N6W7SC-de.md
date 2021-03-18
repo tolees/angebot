@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002N6W7SC-de Brennenstuhl Eco-Line Steckdosenleiste 6-fach...'
 sku: 'B002N6W7SC-de'
-tags: [  ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

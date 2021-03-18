@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083VVZ8VX-de Amazon - Fire TV Cube│Hands-free mit Alexa 4K Ultra HD-...'
 sku: 'B083VVZ8VX-de'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

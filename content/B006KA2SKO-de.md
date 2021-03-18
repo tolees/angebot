@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006KA2SKO-de GROHE Swift | Badarmatur - Waschtischbatterie | 23264000'
 sku: 'B006KA2SKO-de'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

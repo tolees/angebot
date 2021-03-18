@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VSS4HWX-de G-STAR RAW Herren Hose Droner Relaxed Tapered Cargo Pant...'
 sku: 'B07VSS4HWX-de'
-tags: [  ]
 actualPrice: 76.44 EUR
 currency: EUR
 price: 76.44

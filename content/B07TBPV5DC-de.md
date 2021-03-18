@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TBPV5DC-de Michael Kors Smart-Watch MKT5086'
 sku: 'B07TBPV5DC-de'
-tags: [  ]
 actualPrice: 313.22 EUR
 currency: EUR
 price: 313.22

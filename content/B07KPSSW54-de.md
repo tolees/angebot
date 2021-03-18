@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPSSW54-de Marvel 39403 POP Vinyl Far from Home: Spider-Man Hero Suit...'
 sku: 'B07KPSSW54-de'
-tags: [  ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

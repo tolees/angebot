@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZZNTSQ8-de Funko 47168 POP Rocks DMC-Run Sammelbares Spielzeug...'
 sku: 'B07ZZNTSQ8-de'
-tags: [ 'funko', ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

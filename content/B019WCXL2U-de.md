@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019WCXL2U-de Pampers Größe 5 Premium Protection Baby Windeln 136 Stück...'
 sku: 'B019WCXL2U-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

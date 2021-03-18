@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQYFQ54-de adidas Herren Terrex AX3 Klassische Stiefel Schwarz Black...'
 sku: 'B07JQYFQ54-de'
-tags: [  ]
 actualPrice: 71.88 EUR
 currency: EUR
 price: 71.88

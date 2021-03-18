@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082PHPNCD-de Nike Mens Venture Runner Sneaker Black/White-Black 41 EU'
 sku: 'B082PHPNCD-de'
-tags: [  ]
 actualPrice: 35.35 EUR
 currency: EUR
 price: 35.35

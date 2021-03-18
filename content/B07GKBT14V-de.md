@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GKBT14V-de Western Digital - WD My Passport Ultra for Mac externe...'
 sku: 'B07GKBT14V-de'
-tags: [  ]
 actualPrice: 114.9 EUR
 currency: EUR
 price: 114.9

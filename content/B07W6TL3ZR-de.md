@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6TL3ZR-de Nebula Mars II Pro von Anker Tragbarer kompakter Projektor...'
 sku: 'B07W6TL3ZR-de'
-tags: [  ]
 actualPrice: 467.49 EUR
 currency: EUR
 price: 467.49

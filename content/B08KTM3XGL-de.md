@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KTM3XGL-de PLAYMOBIL City Action 70670 Figurenset Ganoven Für Kinder...'
 sku: 'B08KTM3XGL-de'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

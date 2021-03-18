@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071DR2LC7-de Tommy Hilfiger Damen Honey Large Za Wallet Geldbörse...'
 sku: 'B071DR2LC7-de'
-tags: [  ]
 actualPrice: 49.63 EUR
 currency: EUR
 price: 49.63

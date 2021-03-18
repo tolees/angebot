@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002OL2LL4-de Mannesmann Pneumatischer Türschließer weiß M41115'
 sku: 'B002OL2LL4-de'
-tags: [  ]
 actualPrice: 9.93 EUR
 currency: EUR
 price: 9.93

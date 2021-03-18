@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XB4KYT4-de Corny Your Protein Peanut Caramel Crunch Eiweiß-Riegel mit...'
 sku: 'B07XB4KYT4-de'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072BZ66JL-de Nintendo - Joy-Con 2er-Set Neon-Grün/Neon-Pink'
 sku: 'B072BZ66JL-de'
-tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

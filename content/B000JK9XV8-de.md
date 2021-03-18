@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000JK9XV8-de Canon Tintenpatrone CLI-8 G - grün 13 ml - Original für...'
 sku: 'B000JK9XV8-de'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

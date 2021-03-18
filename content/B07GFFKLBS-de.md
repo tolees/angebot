@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GFFKLBS-de INSTINNCT Damen Slim Fit Hohe Taille Sportshort Lange...'
 sku: 'B07GFFKLBS-de'
-tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

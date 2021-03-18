@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JDZ9RTS-de Bomann Doppelkochplatte DKP 5028 CB 650280'
 sku: 'B00JDZ9RTS-de'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

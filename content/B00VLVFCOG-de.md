@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLVFCOG-de Playmobil 5306 - Buntes Kinderzimmer'
 sku: 'B00VLVFCOG-de'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

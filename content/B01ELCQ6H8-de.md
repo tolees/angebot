@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ELCQ6H8-de Puma / Puma Puma Basic Short Crew Unisex Sporsocken im...'
 sku: 'B01ELCQ6H8-de'
-tags: [ 'puma', ]
 actualPrice: 20.07 EUR
 currency: EUR
 price: 20.07

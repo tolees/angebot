@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071KGS72Q-de SanDisk Ultra 3D SSD interne Festplatte 2 TB SSD intern 2...'
 sku: 'B071KGS72Q-de'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

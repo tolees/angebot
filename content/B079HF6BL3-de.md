@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079HF6BL3-de Michael Kors Damen Analog Quarz Uhr mit Leder Armband MK2740'
 sku: 'B079HF6BL3-de'
-tags: [  ]
 actualPrice: 118.24 EUR
 currency: EUR
 price: 118.24

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XB6SLC8-de SweetLF Rasierer Herren Elektrischer Rasierapparat mit...'
 sku: 'B07XB6SLC8-de'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

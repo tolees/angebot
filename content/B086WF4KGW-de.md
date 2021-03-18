@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086WF4KGW-de WLAN Smart Steckdose Meross Smart Mini Steckdose...'
 sku: 'B086WF4KGW-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

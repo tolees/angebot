@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000VOHH8I-de Issey Miyake Homme Eau de Toilette 1er Pack 1 x 200 ml'
 sku: 'B000VOHH8I-de'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

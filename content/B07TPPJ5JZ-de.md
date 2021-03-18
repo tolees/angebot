@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TPPJ5JZ-de ASUS TUF Gaming X570-Plus Wi-Fi Mainboard Sockel AM4 Ryzen...'
 sku: 'B07TPPJ5JZ-de'
-tags: [  ]
 actualPrice: 170.9 EUR
 currency: EUR
 price: 170.9

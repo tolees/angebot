@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HF7PBLJ-de Nintendo - Mario Kart Live: Home Circuit - Mario'
 sku: 'B08HF7PBLJ-de'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

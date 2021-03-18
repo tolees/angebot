@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WML8DJ-de Pandora Moments Fuchsia Herz-Charm Kristall Sterling...'
 sku: 'B078WML8DJ-de'
-tags: [  ]
 actualPrice: 38.7 EUR
 currency: EUR
 price: 38.7

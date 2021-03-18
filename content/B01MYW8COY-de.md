@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MYW8COY-de Logitech G533 kabelloses Gaming-Headset 7.1 Surround Sound...'
 sku: 'B01MYW8COY-de'
-tags: [ 'logitech g', ]
 actualPrice: 98.9 EUR
 currency: EUR
 price: 98.9

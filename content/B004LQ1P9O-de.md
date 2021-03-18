@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004LQ1P9O-de Hama Audio-Konverter AC81 digital auf analog'
 sku: 'B004LQ1P9O-de'
-tags: [  ]
 actualPrice: 36.13 EUR
 currency: EUR
 price: 36.13

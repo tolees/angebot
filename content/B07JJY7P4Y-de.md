@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJY7P4Y-de Winning Moves GmbH 11545 - Cluedo: The Walking Dead AMC'
 sku: 'B07JJY7P4Y-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

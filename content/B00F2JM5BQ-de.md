@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00F2JM5BQ-de Karlie Flugzeugbox Nomad L: 61 cm B: 40 cm H: 40.5 cm S <...'
 sku: 'B00F2JM5BQ-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

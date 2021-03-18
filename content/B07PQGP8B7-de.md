@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQGP8B7-de Carrera FIRST Nintendo Mario Kart™ 2 4 Meter 20063026...'
 sku: 'B07PQGP8B7-de'
-tags: [  ]
 actualPrice: 24.34 EUR
 currency: EUR
 price: 24.34

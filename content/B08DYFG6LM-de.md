@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DYFG6LM-de Philips Audio - Philips Sportkopfhörer A1105BK/00 mit...'
 sku: 'B08DYFG6LM-de'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

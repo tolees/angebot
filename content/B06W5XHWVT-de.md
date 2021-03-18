@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06W5XHWVT-de Playmobil City Life 9266 Modernes Wohnhaus Mit Licht- und...'
 sku: 'B06W5XHWVT-de'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

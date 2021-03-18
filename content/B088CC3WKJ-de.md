@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CC3WKJ-de Samsung Galaxy A41 Android Smartphone ohne Vertrag 3...'
 sku: 'B088CC3WKJ-de'
-tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

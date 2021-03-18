@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XTZX565-de Videogioco Nintendo Ring Fit Adventure'
 sku: 'B07XTZX565-de'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

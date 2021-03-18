@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPKTN2B-de LEGO 10941 DUPLO Disney Mickys und Minnies Geburtstagszug...'
 sku: 'B08GPKTN2B-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 21.63 EUR
 currency: EUR
 price: 21.63

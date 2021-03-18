@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PHXLZY-de Nike Mens Venture Runner Sneaker Black/White-Black 44 EU'
 sku: 'B082PHXLZY-de'
-tags: [ 'nike', ]
 actualPrice: 47.69 EUR
 currency: EUR
 price: 47.69

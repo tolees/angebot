@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085L3VZYR-de Samsung LS03T The Frame 80 cm 32 Zoll QLED Lifestyle...'
 sku: 'B085L3VZYR-de'
-tags: [ 'samsung', ]
 actualPrice: 409.0 EUR
 currency: EUR
 price: 409.0

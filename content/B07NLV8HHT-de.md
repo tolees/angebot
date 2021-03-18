@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLV8HHT-de Nike Herren Revolution 5 Leichtathletikschuhe Mehrfarbig...'
 sku: 'B07NLV8HHT-de'
-tags: [  ]
 actualPrice: 40.9 EUR
 currency: EUR
 price: 40.9

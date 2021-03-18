@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4PBFLQ-de LEGO 60276 City Polizei Gefangenentransporter Spielzeug...'
 sku: 'B08G4PBFLQ-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

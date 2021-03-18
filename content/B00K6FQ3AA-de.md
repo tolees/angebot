@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00K6FQ3AA-de WENKO LED Standspiegel Aura - Kosmetikspiegel mit...'
 sku: 'B00K6FQ3AA-de'
-tags: [  ]
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

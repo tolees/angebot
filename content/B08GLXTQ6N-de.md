@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GLXTQ6N-de BAOLESEM Sportschuhe Herren Atmungsaktiv Gym Laufschuhe...'
 sku: 'B08GLXTQ6N-de'
-tags: [  ]
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

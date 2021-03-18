@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073SBZ8YH-de Western Digital WDS500G2B0A WD Blue 500GB 3D NAND Internal...'
 sku: 'B073SBZ8YH-de'
-tags: [  ]
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

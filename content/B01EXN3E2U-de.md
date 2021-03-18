@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EXN3E2U-de Samsung Ladegerät + Kabel Original ETAU-90 für Galaxy S2...'
 sku: 'B01EXN3E2U-de'
-tags: [  ]
 actualPrice: 8.02 EUR
 currency: EUR
 price: 8.02

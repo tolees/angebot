@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000LBA4UY-de goobay - 0.5m 2x Cinch Stecker auf 3.5mm stereo Stecker'
 sku: 'B000LBA4UY-de'
-tags: [  ]
 actualPrice: 0.81 EUR
 currency: EUR
 price: 0.81

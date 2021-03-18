@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08L6JTWMP-de doedoeflu Bluetooth Adapter Bluetooth 5.0 USB Adapter...'
 sku: 'B08L6JTWMP-de'
-tags: [ '355357031','Actionfiguren für Kinder','Baby- & Kleinkindspielzeug','Basteln & Malen','Bastelsets für Kinder','Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Elektronische Spiele für Kinder','Fahrzeuge & Rennwagen für Kinder','Hobbys','Kinder-Rollenspiele','Kinderspielfiguren & -fahrzeuge','Kleinteileaufbewahrung','Kopfhörer','Kopfhörer & Zubehör','Küchenspielzeug','LEGO','LEGO City','LEGO Creator','LEGO DUPLO Stadt','LEGO Racers','LEGO Steine & Co.','Netzwerkgeräte','Polizei & Feuerwehr','Produkte','Repeater','Sammelfiguren','Sammelfiguren & Requisiten','Schreibtischzubehör & Ablage','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Lebensmittel','Spielzeugfahrzeuge','Utensilienschalen','doedoeflu', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

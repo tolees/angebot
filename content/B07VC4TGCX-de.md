@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VC4TGCX-de Samsung Schnellladegerät 45 w Ep-TA845 Schwarz'
 sku: 'B07VC4TGCX-de'
-tags: [  ]
 actualPrice: 26.28 EUR
 currency: EUR
 price: 26.28

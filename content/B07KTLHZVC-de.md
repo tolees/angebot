@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTLHZVC-de Lego Architecture - LEGO 21046 Architecture Empire State...'
 sku: 'B07KTLHZVC-de'
-tags: [ '249195031','355357031','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bead Charms für Damen','Bürobedarf & Schreibwaren','Charms & Beads für Damen','Computer','Computer & Zubehör','Damenschmuck','Elektrische Küchengeräte','Elektroinstallation','Elektronik & Foto','Folienschweißgeräte','Handys & Smartphones','Handys & Zubehör','Interne Komponenten & Hardware','Kinderspielfiguren & -fahrzeuge','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LEGO','LEGO friends','Marker & Filzstifte','Minipuppen','Minipuppen & Zubehör','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','Permanent-Marker','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Regular Stores','Repeater','Schmuck','Schreibwaren','Shops','Simlockfreie Handys','Smart & Ferngesteuerte Stecker','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Steckdosen & Zubehör','lego architecture', ]
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

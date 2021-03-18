@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J8G9FLM-de fischertechnik 524326 - PROFI Electronics...'
 sku: 'B00J8G9FLM-de'
-tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

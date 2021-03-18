@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008GJH9JM-de Epson Original 16 Tinte Füller WF-2630WF WF-2650DWF...'
 sku: 'B008GJH9JM-de'
-tags: [  ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

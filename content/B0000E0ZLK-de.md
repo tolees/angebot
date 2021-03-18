@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0000E0ZLK-de ZWILLING Kochmesser Klingenlänge: 20 cm Breites...'
 sku: 'B0000E0ZLK-de'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

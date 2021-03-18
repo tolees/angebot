@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LW4KIF7-de small foot 10321 Motorik- und Musiktisch "2 in 1" aus Holz...'
 sku: 'B01LW4KIF7-de'
-tags: [ 'small foot', ]
 actualPrice: 53.0 EUR
 currency: EUR
 price: 53.0

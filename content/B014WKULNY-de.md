@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014WKULNY-de EMOS 1x universales selbstverschweißendes Band LxBxH 5 m x...'
 sku: 'B014WKULNY-de'
-tags: [  ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRSZ4LM-de Samsung Galaxy Tab A7 LTE - Tablet 32GB 3GB RAM Dark Gray...'
 sku: 'B08DRSZ4LM-de'
-tags: [  ]
 actualPrice: 248.0 EUR
 currency: EUR
 price: 248.0

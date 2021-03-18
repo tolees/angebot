@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FUIYMDC-de Verbatim External Slimline USB 3.0 Blu-ray und MDisc...'
 sku: 'B01FUIYMDC-de'
-tags: [  ]
 actualPrice: 85.97 EUR
 currency: EUR
 price: 85.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FSMCLH9-de VATOS Spielzeug Baue Bausteine Lernspielzeug Baukasten mit...'
 sku: 'B07FSMCLH9-de'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

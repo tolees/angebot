@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RVFMXNT-de SNAPTAIN A15H Drohne mit Kamera HD 720P Faltbare Drohne...'
 sku: 'B07RVFMXNT-de'
-tags: [  ]
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

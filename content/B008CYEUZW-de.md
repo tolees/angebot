@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008CYEUZW-de Schümli Crema Ganze Kaffeebohnen 1kg Stärkegrad 2/5...'
 sku: 'B008CYEUZW-de'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

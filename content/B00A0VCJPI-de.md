@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00A0VCJPI-de TP-Link TL-WA850RE WLAN Repeater 300 Mbit/s WLAN...'
 sku: 'B00A0VCJPI-de'
-tags: [  ]
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

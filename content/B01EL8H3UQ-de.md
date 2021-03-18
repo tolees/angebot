@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EL8H3UQ-de Strellson Premium Herren L-Mercer Anzughose Blau Navy 120 54'
 sku: 'B01EL8H3UQ-de'
-tags: [  ]
 actualPrice: 63.9 EUR
 currency: EUR
 price: 63.9

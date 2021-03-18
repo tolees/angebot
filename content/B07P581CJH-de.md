@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P581CJH-de Playmobil 70194 City Life Oma mit Rollator ab 4 Jahren...'
 sku: 'B07P581CJH-de'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

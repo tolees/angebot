@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0156PTDZ6-de Reishunger Reiskocher 1 2l / 500W / 220V Warmhaltefunktion...'
 sku: 'B0156PTDZ6-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

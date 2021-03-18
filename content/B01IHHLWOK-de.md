@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IHHLWOK-de Airwaves Kaugummi | Cool Cassis | Lila zuckerfrei | 1 x 50...'
 sku: 'B01IHHLWOK-de'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

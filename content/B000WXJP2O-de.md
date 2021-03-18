@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WXJP2O-de Damenwahl Deluxe-Edition mit Bonus-Tracks'
 sku: 'B000WXJP2O-de'
-tags: [  ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

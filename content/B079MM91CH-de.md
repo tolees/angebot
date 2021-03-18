@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079MM91CH-de Playmobil Space 9488 Mars-Rakete mit Startrampe Ab 6 Jahren'
 sku: 'B079MM91CH-de'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

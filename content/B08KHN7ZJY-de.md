@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KHN7ZJY-de Pandora Harry Potter drehender Zeitumkehrer Anhänger 18...'
 sku: 'B08KHN7ZJY-de'
-tags: [  ]
 actualPrice: 70.31 EUR
 currency: EUR
 price: 70.31

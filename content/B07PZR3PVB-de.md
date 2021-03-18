@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PZR3PVB-de Apple AirPods mit kabelgebundenem Ladecase 2. Generation'
 sku: 'B07PZR3PVB-de'
-tags: [  ]
 actualPrice: 128.9 EUR
 currency: EUR
 price: 128.9

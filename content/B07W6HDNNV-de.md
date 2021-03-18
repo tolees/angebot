@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6HDNNV-de Logitech MX Master 3 - Die fortschrittliche kabellose Maus...'
 sku: 'B07W6HDNNV-de'
-tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

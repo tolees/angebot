@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5JJ7YP-de Logitech G513 mechanische Gaming-Tastatur GX-Brown Taktile...'
 sku: 'B07W5JJ7YP-de'
-tags: [  ]
 actualPrice: 118.21 EUR
 currency: EUR
 price: 118.21

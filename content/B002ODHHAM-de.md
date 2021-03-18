@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002ODHHAM-de MÜHE ANNA MARIA - Novemberkind'
 sku: 'B002ODHHAM-de'
-tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

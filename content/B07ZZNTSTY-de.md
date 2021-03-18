@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZNTSTY-de Funko - POP! Moment: Harry Potter - Harry VS Voldemort'
 sku: 'B07ZZNTSTY-de'
-tags: [  ]
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

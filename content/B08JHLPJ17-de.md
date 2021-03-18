@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JHLPJ17-de Sony Pictures Home Entertainment - The Crown - Die...'
 sku: 'B08JHLPJ17-de'
-tags: [  ]
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

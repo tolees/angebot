@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWNXJTY-de Samsung Kabel Original Galaxy S8 Und S8 Edge mit USB-C...'
 sku: 'B06XWNXJTY-de'
-tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

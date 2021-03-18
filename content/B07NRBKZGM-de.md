@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRBKZGM-de Ravensburger Gesellschaftsspiel - Disney Villainous 26055...'
 sku: 'B07NRBKZGM-de'
-tags: [ '249195031','355357031','Actionfiguren-Spielsets für Kinder','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bead Charms für Damen','Bekleidung','Brettspiele','Bürobedarf & Schreibwaren','Charms & Beads für Damen','Computer','Computer & Zubehör','Damenbekleidung','Damenschmuck','Elektrische Küchengeräte','Elektroinstallation','Elektronik & Foto','Folienschweißgeräte','Handys & Smartphones','Handys & Zubehör','Interne Komponenten & Hardware','Kinderspielfiguren & -fahrzeuge','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LEGO','LEGO friends','Leggings für Damen','Marker & Filzstifte','Minipuppen','Minipuppen & Zubehör','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','Permanent-Marker','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Regular Stores','Repeater','Schmuck','Schreibwaren','Shops','Simlockfreie Handys','Smart & Ferngesteuerte Stecker','Spiele','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Steckdosen & Zubehör','ravensburger', ]
 actualPrice: 29.79 EUR
 currency: EUR
 price: 29.79

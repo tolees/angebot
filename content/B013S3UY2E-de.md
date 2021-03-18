@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013S3UY2E-de Creative Sound BlasterX H3 analoges Pro-Gaming Headset...'
 sku: 'B013S3UY2E-de'
-tags: [  ]
 actualPrice: 40.57 EUR
 currency: EUR
 price: 40.57

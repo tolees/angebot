@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R97WZJ9-de OnePlus 7 Pro Smartphone Mirror Gray 16 9 cm AMOLED...'
 sku: 'B07R97WZJ9-de'
-tags: [  ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

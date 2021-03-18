@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000PTJ3PY-de WMF Grillpfanne 27x27 cm mit Ausguss Aluminium beschichtet...'
 sku: 'B000PTJ3PY-de'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

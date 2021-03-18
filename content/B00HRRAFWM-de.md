@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRAFWM-de Sylvanian Families 4172 Walnuss Eichhörnchen Familie -...'
 sku: 'B00HRRAFWM-de'
-tags: [ '249195031','355357031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Elektronik & Foto','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO friends','Minipuppen','Minipuppen & Zubehör','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Repeater','Spielzeug','sylvanian families', ]
 actualPrice: 18.93 EUR
 currency: EUR
 price: 18.93

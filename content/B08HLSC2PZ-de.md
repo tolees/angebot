@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HLSC2PZ-de Mpow Bluetooth Headset Wireless Kopfhörer Handy...'
 sku: 'B08HLSC2PZ-de'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

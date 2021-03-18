@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086P4PM3B-de Pandora Disney Lilo & Stitch Charm 798844C01 Mehrfarbig 1 6cm'
 sku: 'B086P4PM3B-de'
-tags: [  ]
 actualPrice: 38.71 EUR
 currency: EUR
 price: 38.71

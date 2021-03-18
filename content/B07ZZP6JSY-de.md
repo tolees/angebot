@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZP6JSY-de Funko - POP! Rocks: Run-DMC - Jam Master Jay'
 sku: 'B07ZZP6JSY-de'
-tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

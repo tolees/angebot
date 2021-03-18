@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6FJ41T-de Playmobil 70204 City Life Motorradtour ab 4 Jahren bunt...'
 sku: 'B07P6FJ41T-de'
-tags: [  ]
 actualPrice: 7.62 EUR
 currency: EUR
 price: 7.62

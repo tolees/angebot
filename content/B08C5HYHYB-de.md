@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C5HYHYB-de Samsung Galaxy Buds Live Kabellose Bluetooth-Kopfhörer mit...'
 sku: 'B08C5HYHYB-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Drogerie & Körperpflege','Elektronik & Foto','Fernseher','Fernseher & Heimkino','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','Netzwerkgeräte','Repeater','Simlockfreie Handys','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Weiß- & Vollwäsche','Wäschepflege','samsung', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

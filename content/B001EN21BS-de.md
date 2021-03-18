@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001EN21BS-de Stanley Legendary Classic Vakuum-Thermoskanne 1.9 Liter...'
 sku: 'B001EN21BS-de'
-tags: [  ]
 actualPrice: 39.51 EUR
 currency: EUR
 price: 39.51

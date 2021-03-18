@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CJCTG6Z-de Bose Sport Earbuds – Vollkommen Kabellose In-Ear-Kopfhörer...'
 sku: 'B08CJCTG6Z-de'
-tags: [ 'bose', ]
 actualPrice: 132.9 EUR
 currency: EUR
 price: 132.9

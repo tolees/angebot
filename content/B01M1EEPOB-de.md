@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M1EEPOB-de Apple EarPods mit Lightning Anschluss'
 sku: 'B01M1EEPOB-de'
-tags: [  ]
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

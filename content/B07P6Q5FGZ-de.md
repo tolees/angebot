@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6Q5FGZ-de Hans im Glück HIGD0101 Carcassonne Wirtshäuser und...'
 sku: 'B07P6Q5FGZ-de'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

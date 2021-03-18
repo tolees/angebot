@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6CFWDH-de BRIKSMAX Led Beleuchtungsset für Lego Ideas Doctor Who...'
 sku: 'B07W6CFWDH-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

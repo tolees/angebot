@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V5RL9KP-de Legero Damen Tanaro Sneaker Rot Marte Rot 50 39 EU...'
 sku: 'B07V5RL9KP-de'
-tags: [  ]
 actualPrice: 67.48 EUR
 currency: EUR
 price: 67.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G539CPB-de Pandora 797590 Sterling Silver Family Roots Charm'
 sku: 'B07G539CPB-de'
-tags: [  ]
 actualPrice: 28.67 EUR
 currency: EUR
 price: 28.67

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KGF67WM-de Relaxdays weiß Hängetrockner Wäschetrockner zum hängen für...'
 sku: 'B07KGF67WM-de'
-tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

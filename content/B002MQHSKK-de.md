@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002MQHSKK-de Brennenstuhl Eco-Line Steckdosenleiste 3-fach...'
 sku: 'B002MQHSKK-de'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

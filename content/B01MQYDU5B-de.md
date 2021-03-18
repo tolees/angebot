@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQYDU5B-de Lacoste L.12.12 Concept SStrap Vertical Shopping Bag High...'
 sku: 'B01MQYDU5B-de'
-tags: [  ]
 actualPrice: 69 EUR
 currency: EUR
 price: 69

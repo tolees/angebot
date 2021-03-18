@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076X5FNJV-de Geox Herren U Shark A Mokassin Grau Stone 46 EU'
 sku: 'B076X5FNJV-de'
-tags: [  ]
 actualPrice: 47.38 EUR
 currency: EUR
 price: 47.38

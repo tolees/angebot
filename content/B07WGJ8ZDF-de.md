@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WGJ8ZDF-de Wir stellen vor: Amazon eero WLAN-Mesh-System – 3er-Set'
 sku: 'B07WGJ8ZDF-de'
-tags: [  ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

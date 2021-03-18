@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008YETL18-de De’Longhi - De Longhi Original EcoDecalk DLSC500 -...'
 sku: 'B008YETL18-de'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

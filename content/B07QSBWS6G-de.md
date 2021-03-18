@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSBWS6G-de Funko 40886 Sammelbares Spielzeug One-Size Mehrfarben'
 sku: 'B07QSBWS6G-de'
-tags: [  ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

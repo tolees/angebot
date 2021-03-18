@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NJW7V1P-de TDCQ Smart Hula Hoop Smart Gewichtsverlust Hula Hoop...'
 sku: 'B08NJW7V1P-de'
-tags: [  ]
 actualPrice: 29.38 EUR
 currency: EUR
 price: 29.38

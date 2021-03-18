@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V4DV3KQ-de TOM TAILOR MY TRUE ME Damen Basic Slim Jeans Blau Used Mid...'
 sku: 'B07V4DV3KQ-de'
-tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

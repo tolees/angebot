@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MFDF226-de PURINA GOURMET Perle Erlesene Streifen Katzenfutter nass...'
 sku: 'B01MFDF226-de'
-tags: [  ]
 actualPrice: 23.25 EUR
 currency: EUR
 price: 23.25

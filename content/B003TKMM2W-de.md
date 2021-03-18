@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003TKMM2W-de Bosch Professional - Bosch HSS-Holzbohrersatz 7-tlg....'
 sku: 'B003TKMM2W-de'
-tags: [  ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93

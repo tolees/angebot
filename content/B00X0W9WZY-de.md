@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X0W9WZY-de Tommy Hilfiger ETON CC AND COIN POCKET AM0AM00651 Herren...'
 sku: 'B00X0W9WZY-de'
-tags: [  ]
 actualPrice: 45.23 EUR
 currency: EUR
 price: 45.23

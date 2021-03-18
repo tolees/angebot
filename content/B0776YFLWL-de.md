@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0776YFLWL-de Intenso 3832450 Top Performance interne SSD 512GB "M.2...'
 sku: 'B0776YFLWL-de'
-tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQ9BBB9-de Samsung Galaxy Watch Active Schwarz'
 sku: 'B07NQ9BBB9-de'
-tags: [  ]
 actualPrice: 117.29 EUR
 currency: EUR
 price: 117.29

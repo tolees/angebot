@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Y4XUP2M-de Lacoste Herren Poloshirt Schwarz Noir Medium...'
 sku: 'B00Y4XUP2M-de'
-tags: [  ]
 actualPrice: 57.88 EUR
 currency: EUR
 price: 57.88

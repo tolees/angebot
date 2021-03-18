@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BTV17VK-de ASICS Herren Gt-2000 9 Laufschuhe Blue 44.5 EU'
 sku: 'B08BTV17VK-de'
-tags: [  ]
 actualPrice: 107.11 EUR
 currency: EUR
 price: 107.11

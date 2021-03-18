@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KY3DFK-de Ravensburger GraviTrax Erweiterung Brücken - Ideales...'
 sku: 'B000KY3DFK-de'
-tags: [  ]
 actualPrice: 13.96 EUR
 currency: EUR
 price: 13.96

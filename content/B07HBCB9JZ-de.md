@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBCB9JZ-de Apple iPhone XR 256GB - Gelb'
 sku: 'B07HBCB9JZ-de'
-tags: [  ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLH7P23-de G-STAR RAW Herren Hose Droner Relaxed Tapered Cargo Pant...'
 sku: 'B07VLH7P23-de'
-tags: [ 'g-star raw', ]
 actualPrice: 76.44 EUR
 currency: EUR
 price: 76.44

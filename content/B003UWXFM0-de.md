@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003UWXFM0-de TP-Link TL-SG1024D 24-Port Gigabit-/ Netzwerk Switch...'
 sku: 'B003UWXFM0-de'
-tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

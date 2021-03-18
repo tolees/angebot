@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GW2PLK6-de Concorde Home Entertainment GmbH / Grünwald - Eine...'
 sku: 'B07GW2PLK6-de'
-tags: [  ]
 actualPrice: 84.97 EUR
 currency: EUR
 price: 84.97

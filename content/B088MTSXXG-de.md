@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MTSXXG-de PGA TOUR 2K21 - [Xbox One]'
 sku: 'B088MTSXXG-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

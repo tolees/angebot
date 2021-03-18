@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NCZSFTN-de Puma Sneakers Socken Sportsocken 10-Paar-Pack Unisex -...'
 sku: 'B01NCZSFTN-de'
-tags: [  ]
 actualPrice: 15.7 EUR
 currency: EUR
 price: 15.7

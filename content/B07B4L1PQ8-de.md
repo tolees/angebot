@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B4L1PQ8-de Sony Alpha 7 III | Spiegellose Vollformat-Kamera Schneller...'
 sku: 'B07B4L1PQ8-de'
-tags: [  ]
 actualPrice: 1921.02 EUR
 currency: EUR
 price: 1921.02

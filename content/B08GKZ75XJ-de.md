@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GKZ75XJ-de Finish Quantum Ultimate Spülmaschinentabs –...'
 sku: 'B08GKZ75XJ-de'
-tags: [ 'Drogerie & Körperpflege','Geschirrreinigung','Haushaltsreinigungsmittel','Haushaltswaren','Spülmaschinenreinigung','finish', ]
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

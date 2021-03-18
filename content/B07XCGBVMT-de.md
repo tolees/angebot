@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCGBVMT-de BRIKSMAX Led Beleuchtungsset für Lego Stadthaus mit...'
 sku: 'B07XCGBVMT-de'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

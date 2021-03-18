@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XXYW9PL-de Pentel EnerGel XM BL77 Druck-Gelschreiber 0 7 mm 52 %...'
 sku: 'B06XXYW9PL-de'
-tags: [  ]
 actualPrice: 20.6 EUR
 currency: EUR
 price: 20.6

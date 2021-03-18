@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WQVX9B-de Samsung MZ-N6E500BW 860 EVO M.2 500 GB SATA M.2 Interne...'
 sku: 'B078WQVX9B-de'
-tags: [  ]
 actualPrice: 63.9 EUR
 currency: EUR
 price: 63.9

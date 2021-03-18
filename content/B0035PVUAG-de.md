@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0035PVUAG-de Bosch Professional Stichsäge GST 150 CE 780 Watt...'
 sku: 'B0035PVUAG-de'
-tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

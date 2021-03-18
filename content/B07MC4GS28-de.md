@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MC4GS28-de Scotch & Soda Herren Stuart - Classic regular slim fit...'
 sku: 'B07MC4GS28-de'
-tags: [  ]
 actualPrice: 62.31 EUR
 currency: EUR
 price: 62.31

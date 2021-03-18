@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZY5SNH-de Joy-Con-AA-Batteriezubehör 2er Set [Nintendo Switch]'
 sku: 'B06ZZY5SNH-de'
-tags: [ 'nintendo', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

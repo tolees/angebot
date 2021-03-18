@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DBEGZSM-de Warner Home Video - The 100 - Die komplette 2. Staffel...'
 sku: 'B01DBEGZSM-de'
-tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

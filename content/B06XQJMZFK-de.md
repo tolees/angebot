@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XQJMZFK-de Bosch Hochdruckreiniger UniversalAquatak 125 2 x Düse...'
 sku: 'B06XQJMZFK-de'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

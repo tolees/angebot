@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JM58H2C-de Playmobil DreamWorks Dragons 70037 Ohnezahn und Hicks mit...'
 sku: 'B07JM58H2C-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

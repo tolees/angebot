@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HG9NNDM-de Der wunderbare Mr. Rogers [Blu-ray]'
 sku: 'B08HG9NNDM-de'
-tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

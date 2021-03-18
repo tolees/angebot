@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YSSVYH4-de GARDENA Hahnverbinder für Indoor-Wasserhähne: Anschluss...'
 sku: 'B07YSSVYH4-de'
-tags: [  ]
 actualPrice: 10.91 EUR
 currency: EUR
 price: 10.91

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GXXNGFD-de bugatti Herren 321732015900 Sneaker Weiß 43 EU'
 sku: 'B07GXXNGFD-de'
-tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

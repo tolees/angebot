@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMQDKWR-de Philips Series 3000 Elektrischer Trocken- & Nassrasierer...'
 sku: 'B07VMQDKWR-de'
-tags: [ 'philips', ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

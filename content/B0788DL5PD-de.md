@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0788DL5PD-de Tommy Hilfiger Herren Track TOP LS HWK Schlafanzugoberteil...'
 sku: 'B0788DL5PD-de'
-tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

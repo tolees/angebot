@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GQKR88T-de Bosch Hausgeräte - Tassimo Happy Kapselmaschine TAS1003...'
 sku: 'B07GQKR88T-de'
-tags: [  ]
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

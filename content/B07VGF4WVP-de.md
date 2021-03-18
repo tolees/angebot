@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGF4WVP-de MPIO Stylus Stift 2. Generation mit Palm Rejection für...'
 sku: 'B07VGF4WVP-de'
-tags: [ 'mpio', ]
 actualPrice: 23.53 EUR
 currency: EUR
 price: 23.53

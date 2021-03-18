@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086GSBNY8-de iClever Bluetooth Tastatur kabellose wiederaufladbare...'
 sku: 'B086GSBNY8-de'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

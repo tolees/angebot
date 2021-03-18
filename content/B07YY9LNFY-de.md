@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YY9LNFY-de HYMY Hülle für Oppo Reno 2 Smartphone + 1 x Schutzfolie...'
 sku: 'B07YY9LNFY-de'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

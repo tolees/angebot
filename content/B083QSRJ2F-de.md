@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083QSRJ2F-de Vorgängermodell Lenovo Tab M10 FHD Plus 26 2 cm 10 3 Zoll...'
 sku: 'B083QSRJ2F-de'
-tags: [  ]
 actualPrice: 182.99 EUR
 currency: EUR
 price: 182.99

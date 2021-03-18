@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XJSJ99J-de Dtuta Damen Sport Leggins Honeycomb Gym Sporthose Yogahose...'
 sku: 'B08XJSJ99J-de'
-tags: [  ]
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

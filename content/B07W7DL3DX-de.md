@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7DL3DX-de camel active Herren H-Polos 1/2 Arm Poloshirt Grün Olive...'
 sku: 'B07W7DL3DX-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

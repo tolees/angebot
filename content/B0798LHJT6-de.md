@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0798LHJT6-de KOSMOS 694227 EXIT Das Spiel Das mysteriöse Museum Level:...'
 sku: 'B0798LHJT6-de'
-tags: [  ]
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I2IG2YU-de Cressi Big Eyes Evo Alpha Ultra Dry Schnorchelset...'
 sku: 'B00I2IG2YU-de'
-tags: [  ]
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

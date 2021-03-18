@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N3CKBI0-de Casio Herren MultiZifferblatt Quarz mit Resin Armbanduhr...'
 sku: 'B01N3CKBI0-de'
-tags: [  ]
 actualPrice: 110.05 EUR
 currency: EUR
 price: 110.05

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005F1PL3U-de Funko 2386 - Pop! Star Wars - Boba Fett Spielfigur Vinyl 10cm'
 sku: 'B005F1PL3U-de'
-tags: [  ]
 actualPrice: 16.31 EUR
 currency: EUR
 price: 16.31

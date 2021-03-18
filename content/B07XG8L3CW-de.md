@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG8L3CW-de Muzili Bluetooth 5.0 Kopfhörer Sport IPX7 Wasserdicht...'
 sku: 'B07XG8L3CW-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','Bürobedarf & Schreibwaren','Chibi Figuren','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','Hobbys','In-Ear Ohrhörer','Interner Speicher','Kabel','Kabel & Zubehör','Kaffee & Espresso','Kinderspielfiguren & -fahrzeuge','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Marker & Filzstifte','Netzteile für Handys','Permanent-Marker','Sammelfiguren','Sammelfiguren & Requisiten','Schraubendreher-Zubehör','Schreibwaren','Science Fiction','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spülmaschinenreinigung','Tablet PCs','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','USB-Kabel','Wackelkopffiguren','Zubehör','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte','muzili', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

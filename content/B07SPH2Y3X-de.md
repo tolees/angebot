@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SPH2Y3X-de Xiaomi Mi Smart Bedside Lamp 2 Nachttisch- Stimmungs- &...'
 sku: 'B07SPH2Y3X-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

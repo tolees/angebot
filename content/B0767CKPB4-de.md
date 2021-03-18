@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0767CKPB4-de Playmobil Family Fun 9421 Familien-PKW Ab 4 Jahren'
 sku: 'B0767CKPB4-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

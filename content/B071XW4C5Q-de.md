@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071XW4C5Q-de Withings Body+ - WLAN-Körperwaage für...'
 sku: 'B071XW4C5Q-de'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

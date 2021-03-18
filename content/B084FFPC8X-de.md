@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084FFPC8X-de Tamaris Damen 1-1-25306-25 001 Chelsea Boot Touch-IT'
 sku: 'B084FFPC8X-de'
-tags: [ 'tamaris', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

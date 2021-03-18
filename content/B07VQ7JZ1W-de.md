@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VQ7JZ1W-de HKR - Damen Walkingschuhe Turnschuhe Laufschuhe...'
 sku: 'B07VQ7JZ1W-de'
-tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

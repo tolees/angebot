@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XCQ23TM-de adidas Mens Core18 Hoody Hooded Sweatshirt White M'
 sku: 'B07XCQ23TM-de'
-tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

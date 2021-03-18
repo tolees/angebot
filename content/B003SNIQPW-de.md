@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003SNIQPW-de Corny free Haselnuss Müsliriegel OHNE Zuckerzusatz 10er...'
 sku: 'B003SNIQPW-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

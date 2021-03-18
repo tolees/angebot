@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G7BGMZ2-de Reishunger Digitaler Reiskocher & Dampfgarer Weiss mit...'
 sku: 'B07G7BGMZ2-de'
-tags: [  ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

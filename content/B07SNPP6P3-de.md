@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNPP6P3-de Amazon - Echo Show 8 Zertifiziert und generalüberholt...'
 sku: 'B07SNPP6P3-de'
-tags: [ 'amazon', ]
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S31GWBK-de Warner Bros. - Game of Thrones - Staffel 8 Limitiertes 4K...'
 sku: 'B07S31GWBK-de'
-tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

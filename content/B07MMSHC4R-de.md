@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MMSHC4R-de Philips 2200 Serie EP2220/10 Kaffeevollautomat 2...'
 sku: 'B07MMSHC4R-de'
-tags: [  ]
 actualPrice: 299.9 EUR
 currency: EUR
 price: 299.9

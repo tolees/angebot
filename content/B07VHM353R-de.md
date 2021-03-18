@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHM353R-de Govee WiFi LED Strip 10m Smart RGB LED Streifen App-...'
 sku: 'B07VHM353R-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

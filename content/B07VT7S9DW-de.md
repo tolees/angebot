@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VT7S9DW-de HKR Damen Turnschuhe Atmungsaktiv Laufschuhe...'
 sku: 'B07VT7S9DW-de'
-tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

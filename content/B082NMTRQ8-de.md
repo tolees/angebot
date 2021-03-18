@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NMTRQ8-de XGIMI Halo Mini Beamer 800 ANSI-Lumen 1080p Tragbarer...'
 sku: 'B082NMTRQ8-de'
-tags: [  ]
 actualPrice: 679.99 EUR
 currency: EUR
 price: 679.99

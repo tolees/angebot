@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PC1MC6Y-de Bose Unisex - Erwachsene Frames Audio-Sonnenbrille Alto...'
 sku: 'B07PC1MC6Y-de'
-tags: [  ]
 actualPrice: 119.97 EUR
 currency: EUR
 price: 119.97

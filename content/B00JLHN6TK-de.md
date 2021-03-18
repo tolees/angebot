@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JLHN6TK-de Schiesser® 4er - Pack Herren Unterhemden Achselhemden Tank...'
 sku: 'B00JLHN6TK-de'
-tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

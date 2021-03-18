@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0817HJP2J-de Columbia Herren Silver Ridge II Convertible Wanderhose...'
 sku: 'B0817HJP2J-de'
-tags: [  ]
 actualPrice: 38.87 EUR
 currency: EUR
 price: 38.87

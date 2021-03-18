@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP6QNQ7-de LEGO 42096 Technic Porsche 911 RSR Rennauto Bausatz für...'
 sku: 'B07FP6QNQ7-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO City','Produkte','Spielzeug','lego', ]
 actualPrice: 114.87 EUR
 currency: EUR
 price: 114.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T4RYT25-de Schauma Schwarzkopf Shampoo Herren für kraftvolles Volumen...'
 sku: 'B07T4RYT25-de'
-tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VPLBR1-de Sagrotan WC-Reiniger Granatapfel und Kirschblüte Reinigung...'
 sku: 'B082VPLBR1-de'
-tags: [  ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

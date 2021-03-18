@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TTJKVV6-de Clarks Herren Derby Schwarz Black Leather 43 EU'
 sku: 'B00TTJKVV6-de'
-tags: [ '355357031','9373082031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Koffer, Rucksäcke & Taschen','Kofferorganizer','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Spielzeug','Zubehör','clarks', ]
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4FRF9J-de Tommy Hilfiger Damen Multi Zifferblatt Quarz Uhr mit...'
 sku: 'B07G4FRF9J-de'
-tags: [  ]
 actualPrice: 108.69 EUR
 currency: EUR
 price: 108.69

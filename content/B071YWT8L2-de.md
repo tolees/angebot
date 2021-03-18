@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071YWT8L2-de Energel Pentel LR7 Kugelschreiberminen mit Metallspitze...'
 sku: 'B071YWT8L2-de'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

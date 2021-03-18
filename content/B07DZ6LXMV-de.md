@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DZ6LXMV-de Columbia Element Blocker II 3-in-1-Interchange-Jacke für...'
 sku: 'B07DZ6LXMV-de'
-tags: [  ]
 actualPrice: 112.62 EUR
 currency: EUR
 price: 112.62

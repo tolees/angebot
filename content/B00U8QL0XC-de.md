@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00U8QL0XC-de DeWalt 34 Grad Nagel für Akku-Nagler D-Kopf-Nägel...'
 sku: 'B00U8QL0XC-de'
-tags: [  ]
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

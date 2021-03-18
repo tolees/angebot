@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N25HX6W-de Geox Herren UOMO SYMBOL B Black 41 EU'
 sku: 'B01N25HX6W-de'
-tags: [ 'geox', ]
 actualPrice: 42.6 EUR
 currency: EUR
 price: 42.6

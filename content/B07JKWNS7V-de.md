@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JKWNS7V-de Playmobil Magic 70095 Nachtlicht Perlenmuschel Ab 4 Jahren'
 sku: 'B07JKWNS7V-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

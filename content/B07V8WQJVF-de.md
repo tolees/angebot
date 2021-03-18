@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V8WQJVF-de Triumph Damen Fit Smart Tai EX Taillenslip Blau Wedgewood-...'
 sku: 'B07V8WQJVF-de'
-tags: [  ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

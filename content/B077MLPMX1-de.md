@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MLPMX1-de PUMA Damen Smash WNS v2 L Zapatillas White White 38 EU'
 sku: 'B077MLPMX1-de'
-tags: [  ]
 actualPrice: 37.46 EUR
 currency: EUR
 price: 37.46

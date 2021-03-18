@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCQM1WK-de BISSELL 2225N Crosswave Pet Pro 3-in-1 Bodenreiniger für...'
 sku: 'B07HCQM1WK-de'
-tags: [  ]
 actualPrice: 247.97 EUR
 currency: EUR
 price: 247.97

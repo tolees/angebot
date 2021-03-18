@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSHCK9O-de goobay - Fixpoint 45245 Entlötlitze 1'
 sku: 'B01MSHCK9O-de'
-tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

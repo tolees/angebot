@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0852NHYC7-de Xiaomi Mi Robot Vacuum Mop Saugroboter mit Wischfunktion...'
 sku: 'B0852NHYC7-de'
-tags: [  ]
 actualPrice: 218.99 EUR
 currency: EUR
 price: 218.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06W5FDS4H-de Playmobil 9271 City Life Schlafzimmer 38-teiliges...'
 sku: 'B06W5FDS4H-de'
-tags: [  ]
 actualPrice: 14.18 EUR
 currency: EUR
 price: 14.18

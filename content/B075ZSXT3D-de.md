@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075ZSXT3D-de Universal Music Vertrieb - A Division of Universal Music...'
 sku: 'B075ZSXT3D-de'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

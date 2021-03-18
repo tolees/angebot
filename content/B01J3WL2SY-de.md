@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J3WL2SY-de ONLY Damen Onlnew ROYAL REG SK. Biker Coated NOOS Hose...'
 sku: 'B01J3WL2SY-de'
-tags: [  ]
 actualPrice: 26.54 EUR
 currency: EUR
 price: 26.54

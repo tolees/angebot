@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JH34TGQ-de X-WATCH 54030 JOLI XW PRO - Smartwatch Damen iOS / Android...'
 sku: 'B07JH34TGQ-de'
-tags: [  ]
 actualPrice: 69.94 EUR
 currency: EUR
 price: 69.94

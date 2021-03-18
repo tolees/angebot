@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQQQ8KW-de LG PK7W Outdoor Bluetooth Lautsprecher mit Meridian...'
 sku: 'B07XQQQ8KW-de'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

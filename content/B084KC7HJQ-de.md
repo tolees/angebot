@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084KC7HJQ-de Samsung Galaxy S20 5G 128 GB Cosmic Gray ohne Simlock ohne...'
 sku: 'B084KC7HJQ-de'
-tags: [  ]
 actualPrice: 675.0 EUR
 currency: EUR
 price: 675.0

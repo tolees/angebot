@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JK2FL8D-de AFTERMATH/12 TONE MU - Oxnard'
 sku: 'B07JK2FL8D-de'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

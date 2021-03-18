@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KDPZRR2-de TOM TAILOR Damen Alexa Skinny Jeans Blau Dark Stone Wash...'
 sku: 'B07KDPZRR2-de'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

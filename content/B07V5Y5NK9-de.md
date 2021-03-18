@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V5Y5NK9-de JAMSWALL 2 4 GHz Wireless Controller für Xbox 360 Xbox 360...'
 sku: 'B07V5Y5NK9-de'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

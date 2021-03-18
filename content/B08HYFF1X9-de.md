@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HYFF1X9-de SanDisk Ultra 64 GB microSDXC Speicherkarte + SD-Adapter...'
 sku: 'B08HYFF1X9-de'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

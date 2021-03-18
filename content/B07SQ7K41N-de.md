@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQ7K41N-de OMORC VicTsing FM Transmitter Auto Bluetooth QC3.0 Auto...'
 sku: 'B07SQ7K41N-de'
-tags: [  ]
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

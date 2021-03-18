@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AZYPDY4-de WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT**...'
 sku: 'B00AZYPDY4-de'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

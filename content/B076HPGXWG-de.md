@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HPGXWG-de adidas Herren Core 18 Hose schwarz Black/White XL'
 sku: 'B076HPGXWG-de'
-tags: [  ]
 actualPrice: 21.02 EUR
 currency: EUR
 price: 21.02

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003VEILMG-de Bosch Professional 12V System Akku Bohrschrauber GSR...'
 sku: 'B003VEILMG-de'
-tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

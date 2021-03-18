@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013BE8YY-de Mascara Volum Express Turbo Boost'
 sku: 'B0013BE8YY-de'
-tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

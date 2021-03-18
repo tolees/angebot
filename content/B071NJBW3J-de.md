@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071NJBW3J-de New Nintendo 2DS XL Schwarz + Türkis'
 sku: 'B071NJBW3J-de'
-tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

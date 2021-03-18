@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077Y4RRHJ-de ASICS Herren Gel-Mission 3 Walkingschuhe Schwarz Black...'
 sku: 'B077Y4RRHJ-de'
-tags: [  ]
 actualPrice: 49.8 EUR
 currency: EUR
 price: 49.8

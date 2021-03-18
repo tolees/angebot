@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QCVKJBN-de Xiaomi Smart IP-Kamera 2K Pro 1296P 360 Panoramakamera mit...'
 sku: 'B08QCVKJBN-de'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

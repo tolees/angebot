@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749PTYT2-de AmazonBasics - Terassenstuhl 5-Stufen verstellbar Doppelpack'
 sku: 'B0749PTYT2-de'
-tags: [  ]
 actualPrice: 65 EUR
 currency: EUR
 price: 65

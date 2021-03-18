@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082J9PT7P-de ASUS Computer ROG Strix Impact II Beidhändige ergonomische...'
 sku: 'B082J9PT7P-de'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

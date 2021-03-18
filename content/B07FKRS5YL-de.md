@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKRS5YL-de Philips MG7785/20 Multigroom Series 7000 18-in-1 Trimmer...'
 sku: 'B07FKRS5YL-de'
-tags: [  ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

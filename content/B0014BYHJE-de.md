@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0014BYHJE-de Crocs Unisex Classic Clog Black 45/46 EU'
 sku: 'B0014BYHJE-de'
-tags: [  ]
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

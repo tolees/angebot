@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H6TJT4V-de Euro Video - Vorstadtweiber: Staffel 1-4 Box [12 DVDs]'
 sku: 'B08H6TJT4V-de'
-tags: [  ]
 actualPrice: 27.39 EUR
 currency: EUR
 price: 27.39

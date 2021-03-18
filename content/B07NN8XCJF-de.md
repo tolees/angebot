@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NN8XCJF-de RREAKA USB Typ C zu HDMI Digital AV Multiport Hub USB-C...'
 sku: 'B07NN8XCJF-de'
-tags: [  ]
 actualPrice: 20.69 EUR
 currency: EUR
 price: 20.69

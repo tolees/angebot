@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009AAM0SQ-de Atika 319008 Rührgerät RW 1800 Twin'
 sku: 'B009AAM0SQ-de'
-tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

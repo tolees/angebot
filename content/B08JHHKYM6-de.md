@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JHHKYM6-de GPC Image CLT-404S Toner Kompatibel für Samsung CLT-P404C...'
 sku: 'B08JHHKYM6-de'
-tags: [ '249195031','Audiokabel','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Computer','Computer & Zubehör','Damen-BHs','Damen-Kleider','Damenbekleidung','Dekoartikel','Dessous, Nacht- & Lounge-Wäsche für Damen','Drucker & Zubehör','Elektronik & Foto','Fernseher & Heimkino','Freizeitkleider für Damen','HDMI-Kabel','Heimkino, TV & Video Zubehör','In-Ear Ohrhörer','Interne Komponenten & Hardware','Klassische BHs für Damen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Router','Sicherheitstechnik','Spielzeug','Toner','Unterwäsche & Dessous für Damen','Videoüberwachungstechnik','Wohnaccessoires & Deko','Zubehör für Drucker','gpc image','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

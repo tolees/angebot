@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQ8SCT3-de Theo Klein 7199 Miele Küche I Weiße Holzküche inkl....'
 sku: 'B07PQ8SCT3-de'
-tags: [ 'theo klein', ]
 actualPrice: 66.13 EUR
 currency: EUR
 price: 66.13

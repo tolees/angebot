@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082YPH37Z-de PLAYMOBIL-1.2.3 Aqua 70268 Wasserrad mit Karussell Ab 1 5...'
 sku: 'B082YPH37Z-de'
-tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

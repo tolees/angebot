@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q9MJKBV-de Bose Noise Cancelling Headphones 700 – Kabellose...'
 sku: 'B07Q9MJKBV-de'
-tags: [  ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

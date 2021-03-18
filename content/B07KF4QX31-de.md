@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF4QX31-de Levi s Herren 501 Original Jeans Solice 31W / 32L'
 sku: 'B07KF4QX31-de'
-tags: [  ]
 actualPrice: 60.95 EUR
 currency: EUR
 price: 60.95

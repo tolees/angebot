@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CMMWSPR-de Gosund Alexa Led Strip 5m Rgb Smart Wlan Led Licht...'
 sku: 'B08CMMWSPR-de'
-tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S6MG1TH-de Schulter Massagegerät Elektrisch 4D mit Massagegurt und...'
 sku: 'B07S6MG1TH-de'
-tags: [  ]
 actualPrice: 42.41 EUR
 currency: EUR
 price: 42.41

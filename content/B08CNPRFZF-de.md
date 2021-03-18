@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CNPRFZF-de JBL Tune 125 TWS In-Ear Bluetooth-Kopfhörer in Blau –...'
 sku: 'B08CNPRFZF-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','DVD & Blu-ray','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Haushaltsreinigungsmittel','Haushaltswaren','In-Ear Ohrhörer','Kaffee & Espresso','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Schraubendreher-Zubehör','Science Fiction','Spielzeug','Spülmaschinenreinigung','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte','jbl', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HETFQKS-de Bose SoundLink Color II Bluetooth - Outdoor - Lautsprecher...'
 sku: 'B01HETFQKS-de'
-tags: [  ]
 actualPrice: 107.03 EUR
 currency: EUR
 price: 107.03

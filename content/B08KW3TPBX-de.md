@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KW3TPBX-de PLAYMOBIL Dinos 70507 Spielbox "Dinoforscher" Ab 4 Jahren'
 sku: 'B08KW3TPBX-de'
-tags: [ '249195031','Activewear für Herren','Audiokabel','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Computer','Computer & Zubehör','Damen-BHs','Damen-Jacken','Damen-Kleider','Damenbekleidung','Dekoartikel','Dessous, Nacht- & Lounge-Wäsche für Damen','Dinosaurier & prähistorische Kreaturen für Kinder','Drogerie & Körperpflege','Drucker & Zubehör','Elektronik & Foto','Elektrorasierer','Elektrorasierer für Herren','Fernseher & Heimkino','Folienrasierer für Herren','Freizeitkleider für Damen','HDMI-Kabel','Handys & Smartphones','Handys & Zubehör','Heimkino, TV & Video Zubehör','Herrenbekleidung','In-Ear Ohrhörer','Interne Komponenten & Hardware','Jacken, Mäntel & Westen für Damen','Kinderspielfiguren & -fahrzeuge','Klassische BHs für Damen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Rasur & Enthaarung','Repeater','Router','Sicherheitstechnik','Simlockfreie Handys','Spielzeug','Spielzeugfiguren & Spielwelten','Sportsocken für Herren','Toner','Unterwäsche & Dessous für Damen','Videoüberwachungstechnik','Wohnaccessoires & Deko','Zubehör für Drucker','playmobil','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

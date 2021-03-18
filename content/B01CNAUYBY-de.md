@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CNAUYBY-de AmazonBasics Stereo-Audiokabel 3 5-mm-Klinkenstecker auf 3...'
 sku: 'B01CNAUYBY-de'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

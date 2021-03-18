@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QRRMRCP-de JOYSPELS Sporthose Damen Sport Leggings Damen Sportleggins...'
 sku: 'B08QRRMRCP-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

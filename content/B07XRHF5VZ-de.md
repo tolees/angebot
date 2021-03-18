@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XRHF5VZ-de JBL Charge 4 Bluetooth-Lautsprecher - Wasserfeste portable...'
 sku: 'B07XRHF5VZ-de'
-tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

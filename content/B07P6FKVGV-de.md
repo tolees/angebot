@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6FKVGV-de PLAYMOBIL Dollhouse 70210 Babyzimmer ab 4 Jahren'
 sku: 'B07P6FKVGV-de'
-tags: [  ]
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

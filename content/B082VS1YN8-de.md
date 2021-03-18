@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VS1YN8-de MUSTANG Herren 4156-301 Sneaker 59 rot/schwarz 45 EU'
 sku: 'B082VS1YN8-de'
-tags: [  ]
 actualPrice: 26.1 EUR
 currency: EUR
 price: 26.1

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B6YCGCD-de Walt Disney - Ruf der Wildnis [Blu-ray]'
 sku: 'B08B6YCGCD-de'
-tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VLX84G6-de Sony PS4 - PS5 Konsole Sony PlayStation 5 - Standard...'
 sku: 'B08VLX84G6-de'
-tags: [  ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

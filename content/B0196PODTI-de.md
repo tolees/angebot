@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0196PODTI-de ONLY Female Hose Einfarbige M30Black'
 sku: 'B0196PODTI-de'
-tags: [  ]
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

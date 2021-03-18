@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PFRF1YQ-de Avatar Controls - Alexa Glühbirnen GU10 Smart LED Lampen...'
 sku: 'B08PFRF1YQ-de'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

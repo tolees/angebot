@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MHZJ4TY-de Lispeed 1 Paar USB Handwärmer Hand Muffs Frauen Beheizte...'
 sku: 'B07MHZJ4TY-de'
-tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

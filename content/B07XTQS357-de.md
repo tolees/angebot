@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTQS357-de Huawei Band 4e wasserdichter Bluetooth Fitness-...'
 sku: 'B07XTQS357-de'
-tags: [  ]
 actualPrice: 19.35 EUR
 currency: EUR
 price: 19.35

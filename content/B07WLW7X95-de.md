@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLW7X95-de Jada Toys 253215005 The Dark Knight Batmobil...'
 sku: 'B07WLW7X95-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZNGT8K4-de HUANUO Monitor Halterung 2 Monitore Gasdruckfeder Arm 360°...'
 sku: 'B07ZNGT8K4-de'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

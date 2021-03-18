@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YXVW62Q-de Willful Smartwatch 1.3 Zoll Touch-Farbdisplay Fitness...'
 sku: 'B07YXVW62Q-de'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0826CKQR8-de PLAYMOBIL City Life 70309 - Spielbox Beim Tierarzt ab 4...'
 sku: 'B0826CKQR8-de'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

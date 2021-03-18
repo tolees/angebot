@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SCNNLLQ-de TOM TAILOR Herren Basic Rundhalspullover Pullover Black...'
 sku: 'B07SCNNLLQ-de'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

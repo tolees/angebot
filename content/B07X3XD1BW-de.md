@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X3XD1BW-de Sony NW-A55LB Walkman 16 GB Hi-Res Touch Screen Bluetooth...'
 sku: 'B07X3XD1BW-de'
-tags: [  ]
 actualPrice: 156.02 EUR
 currency: EUR
 price: 156.02

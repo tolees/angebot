@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PPTGX12-de Samsung Silicone Cover mit S Pen EF-PG99P für Galaxy S21...'
 sku: 'B08PPTGX12-de'
-tags: [  ]
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

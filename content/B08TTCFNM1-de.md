@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TTCFNM1-de VDSOW - Silikonentferner Werkzeug 3 in 1 Fugenkratzer...'
 sku: 'B08TTCFNM1-de'
-tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

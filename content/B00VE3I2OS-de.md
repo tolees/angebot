@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VE3I2OS-de Emsa 515617 Travel Mug Classic Grande | Thermobecher |...'
 sku: 'B00VE3I2OS-de'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007JUTMGC-de erima Damen Hose Sweathose Mit Bündchen schwarz 38 210211'
 sku: 'B007JUTMGC-de'
-tags: [  ]
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

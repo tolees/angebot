@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CFWDOZS-de Coca-Cola Zero Sugar EINWEG Dose 24 x 330 ml'
 sku: 'B01CFWDOZS-de'
-tags: [  ]
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

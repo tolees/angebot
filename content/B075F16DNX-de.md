@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075F16DNX-de NUBWO Gaming Headset PS4 N7 Stereo Xbox one Headset Wired...'
 sku: 'B075F16DNX-de'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

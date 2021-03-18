@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DDJRZ7M-de Pandora Damen Moments Spiritual Dreamcatcher Charm...'
 sku: 'B07DDJRZ7M-de'
-tags: [  ]
 actualPrice: 41.43 EUR
 currency: EUR
 price: 41.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BFB599S-de Universal Pictures - Fifty Shades of Grey - 3-Movie...'
 sku: 'B07BFB599S-de'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

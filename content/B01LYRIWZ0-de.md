@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYRIWZ0-de PLAYMOBIL Ghostbusters 9220 Ecto-1 mit Licht- und...'
 sku: 'B01LYRIWZ0-de'
-tags: [  ]
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

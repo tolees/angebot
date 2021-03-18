@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MCW81MW-de Kosmos 693398 - Harry Potter Kampf um Hogwarts. Das Harry...'
 sku: 'B07MCW81MW-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

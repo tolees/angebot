@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4JXV79-de LEGO 43101 VIDIYO Bandmates Erweiterungsset mit...'
 sku: 'B08G4JXV79-de'
-tags: [ '355357031','63969031','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Beleuchtung','Bluetooth-Adapter','Bluetooth-Kopfhörer','Computer & Zubehör','Dekorative Leuchtmittel','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektronik & Foto','Elektronische Spiele für Kinder','Experimentieren & Forschen','Fahrzeuge & Rennwagen für Kinder','Fernseher','Fernseher & Heimkino','Forschen & Entdecken: Solarenergie','Handys & Smartphones','Handys & Zubehör','Haushaltswaren','Hobbys','In-Ear Ohrhörer','Kinderspielfiguren & -fahrzeuge','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO Steine & Co.','Leuchtmittel','Netzwerkgeräte','PowerLAN-Adapter','Produkte','Repeater','Sammelfiguren','Sammelfiguren & Requisiten','Simlockfreie Handys','Speziallampen','Spiele','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spielzeug-Adventskalender','Sport-Kopfhörer','Weiß- & Vollwäsche','Wi-Fi Lampen','Wäschepflege','lego', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

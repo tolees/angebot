@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08125GZZN-de Echo Flex + Philips Hue Color LED-Lampe Doppelpack E27...'
 sku: 'B08125GZZN-de'
-tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

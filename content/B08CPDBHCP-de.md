@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CPDBHCP-de Universal Pictures Germany GmbH - Psycho - Steelbook 4K...'
 sku: 'B08CPDBHCP-de'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

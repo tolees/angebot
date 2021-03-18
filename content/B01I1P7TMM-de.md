@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01I1P7TMM-de DISNEY MUSIC - Music From The Jungle Book Picture Disc...'
 sku: 'B01I1P7TMM-de'
-tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

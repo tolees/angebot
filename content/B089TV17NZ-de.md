@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089TV17NZ-de Universal Pictures - Jurassic World - 5-Movie-Collection...'
 sku: 'B089TV17NZ-de'
-tags: [  ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

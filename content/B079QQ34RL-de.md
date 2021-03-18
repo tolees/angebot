@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QQ34RL-de Tommy Hilfiger Unisex Multi Zifferblatt Quarz Uhr mit...'
 sku: 'B079QQ34RL-de'
-tags: [  ]
 actualPrice: 121.18 EUR
 currency: EUR
 price: 121.18

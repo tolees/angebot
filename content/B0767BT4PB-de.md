@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767BT4PB-de Philips Hue LED 2-er Buratto Spot inkl. Dimmschalter...'
 sku: 'B0767BT4PB-de'
-tags: [  ]
 actualPrice: 109.98 EUR
 currency: EUR
 price: 109.98

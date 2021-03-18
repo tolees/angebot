@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083TPH3SL-de LEONINE Distribution GmbH - Die Medici: Lorenzo der...'
 sku: 'B083TPH3SL-de'
-tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

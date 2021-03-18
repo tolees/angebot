@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZ6ZYU1-de Perlegear TV Halterung Schwenkbare Neigbare Wandhalterung...'
 sku: 'B01MZ6ZYU1-de'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

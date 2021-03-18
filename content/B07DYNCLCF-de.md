@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYNCLCF-de Merrell Herren Vapor Glove 4 Hallenschuhe Schwarz Black...'
 sku: 'B07DYNCLCF-de'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

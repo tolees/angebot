@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0711V2KHL-de Studio Hamburg - Terra X: Unsere Wälder [Blu-ray]'
 sku: 'B0711V2KHL-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

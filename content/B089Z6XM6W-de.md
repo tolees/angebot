@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Z6XM6W-de Electronic Arts - FIFA 21 Standard Xbox One - Download...'
 sku: 'B089Z6XM6W-de'
-tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

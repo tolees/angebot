@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085BP7ZC5-de Xiaomi Mi Robot Vacuum Mop Pro Saugroboter mit...'
 sku: 'B085BP7ZC5-de'
-tags: [  ]
 actualPrice: 289.0 EUR
 currency: EUR
 price: 289.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K6WK55V-de adidas Herren TIRO19 WOV PNT Sport Trousers Black/White L'
 sku: 'B07K6WK55V-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

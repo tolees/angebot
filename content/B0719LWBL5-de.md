@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0719LWBL5-de ONLY Damen onlSEDONA Light Coat OTW NOOS Mantel Schwarz...'
 sku: 'B0719LWBL5-de'
-tags: [  ]
 actualPrice: 34.07 EUR
 currency: EUR
 price: 34.07

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085Y7HX3L-de FM London Herren Fitted Boxer Hipster Neon Small 8er Pack'
 sku: 'B085Y7HX3L-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

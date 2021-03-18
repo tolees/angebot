@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00821FLSU-de Ubbi 10006 Stahl Windeleimer grau'
 sku: 'B00821FLSU-de'
-tags: [  ]
 actualPrice: 50.71 EUR
 currency: EUR
 price: 50.71

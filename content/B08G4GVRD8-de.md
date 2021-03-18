@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4GVRD8-de LEGO 71745 NINJAGO Lloyds Dschungel-Bike Bauset Spielzeug...'
 sku: 'B08G4GVRD8-de'
-tags: [ '249195031','Audiokabel','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Computer','Computer & Zubehör','Damen-BHs','Damen-Kleider','Damenbekleidung','Dekoartikel','Dessous, Nacht- & Lounge-Wäsche für Damen','Elektronik & Foto','Fernseher & Heimkino','Freizeitkleider für Damen','HDMI-Kabel','Heimkino, TV & Video Zubehör','In-Ear Ohrhörer','Interne Komponenten & Hardware','Klassische BHs für Damen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Router','Sicherheitstechnik','Spielzeug','Unterwäsche & Dessous für Damen','Videoüberwachungstechnik','Wohnaccessoires & Deko','lego','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

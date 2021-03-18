@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H6TKHM3-de Universal Pictures - In einem Land vor unserer Zeit - Alle...'
 sku: 'B08H6TKHM3-de'
-tags: [  ]
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

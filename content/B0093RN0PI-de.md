@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0093RN0PI-de Intenso interne SSD-Festplatte 128GB Top Performance'
 sku: 'B0093RN0PI-de'
-tags: [  ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FUZE5H8-de Netgear AC810-100EUS LTE Router/Mobiler WLAN Router WiFi...'
 sku: 'B01FUZE5H8-de'
-tags: [  ]
 actualPrice: 159.45 EUR
 currency: EUR
 price: 159.45

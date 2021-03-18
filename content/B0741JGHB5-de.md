@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0741JGHB5-de Wahoo ELEMNT MINI Fahrradcomputer'
 sku: 'B0741JGHB5-de'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HRHTH8-de adidas Herren CORE18 TR PNT Sport Trousers Black/White L'
 sku: 'B076HRHTH8-de'
-tags: [  ]
 actualPrice: 22.37 EUR
 currency: EUR
 price: 22.37

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007Y4WH3S-de Lico Bernie V Hallenschuhe Unisex Kinder Grün/ Marine/...'
 sku: 'B007Y4WH3S-de'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

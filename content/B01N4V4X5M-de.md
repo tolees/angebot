@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4V4X5M-de Anker SoundCore Boost Bluetooth Lautsprecher BassUp...'
 sku: 'B01N4V4X5M-de'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

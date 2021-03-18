@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4CXG4P-de LEGO 75302 Star Wars Imperial Shuttle Bauset mit Luke...'
 sku: 'B08G4CXG4P-de'
-tags: [ '355357031','9373082031','Aktivitätstracker','Bauspielzeug & Konstruktionsspielzeug','Beauty','Bilder, Poster, Kunstdrucke & Skulpturen','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Damendüfte','Datenspeicher','Düfte','Eau de Toilette für Damen','Elektronik & Foto','Federmäppchen','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Interne SSD','Interner Speicher','Kfz-Handyladegeräte','Kleinteileaufbewahrung','Koffer, Rucksäcke & Taschen','Kofferorganizer','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schreibtischzubehör & Ablage','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Smartwatches','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Sportelektronik','Wintersport','Zubehör','lego', ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

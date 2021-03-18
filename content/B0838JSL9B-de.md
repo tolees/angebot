@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0838JSL9B-de Nike Herren Wearallday Sneaker Black/White 44 EU'
 sku: 'B0838JSL9B-de'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

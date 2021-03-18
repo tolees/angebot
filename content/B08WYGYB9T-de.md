@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WYGYB9T-de OVERMAL Osterdekoration Wandaufkleber Osterhase...'
 sku: 'B08WYGYB9T-de'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

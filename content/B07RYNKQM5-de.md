@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RYNKQM5-de Salewa Herren MS Wildfire Trekking- & Wanderhalbschuhe...'
 sku: 'B07RYNKQM5-de'
-tags: [  ]
 actualPrice: 86.57 EUR
 currency: EUR
 price: 86.57

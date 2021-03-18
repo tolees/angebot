@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H6TJWB7-de Universal Pictures - Beethoven Komplettbox [8 DVDs]'
 sku: 'B08H6TJWB7-de'
-tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

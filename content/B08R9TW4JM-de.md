@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08R9TW4JM-de Sylvanian Families 5540 Mode Spielset mit Marshmallow Maus...'
 sku: 'B08R9TW4JM-de'
-tags: [ 'sylvanian families', ]
 actualPrice: 21.93 EUR
 currency: EUR
 price: 21.93

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQV78R9-de WEWE Estantes De Cocina Montados En La Pared estantes...'
 sku: 'B07WQV78R9-de'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B88ZRDM-de Teeggi VISUO XS816 FPV Drohne mit Kamera 4K HD WiFi Live...'
 sku: 'B08B88ZRDM-de'
-tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AGTP9H4-de Pampers Größe 2 Premium Protection Baby Windeln 240 Stück...'
 sku: 'B00AGTP9H4-de'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

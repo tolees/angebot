@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4SY6Y8-de Hugo Boss Damen Analog Quarz Uhr mit Edelstahl Armband...'
 sku: 'B07G4SY6Y8-de'
-tags: [  ]
 actualPrice: 116.0 EUR
 currency: EUR
 price: 116.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XWPYZM4-de Nike Herren Tanjun Laufschuhe Blau Midnight Navy...'
 sku: 'B00XWPYZM4-de'
-tags: [  ]
 actualPrice: 40.84 EUR
 currency: EUR
 price: 40.84

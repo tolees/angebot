@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MGJ6YJS-de KOSMOS 654108 Fun Science - Nachtleuchtende Flummi-Power...'
 sku: 'B07MGJ6YJS-de'
-tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

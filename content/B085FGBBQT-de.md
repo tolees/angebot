@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FGBBQT-de Samsung EVO Select 256 GB microSD 100MB/s Geschwindigkeit...'
 sku: 'B085FGBBQT-de'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

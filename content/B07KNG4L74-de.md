@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KNG4L74-de Razer Blackwidow Elite Mechanische Full-Size-Gaming-...'
 sku: 'B07KNG4L74-de'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

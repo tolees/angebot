@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PBVB48V-de LETSCOM T23 Bluetooth Kopfhörer Kabellose Kopfhörer in Ear...'
 sku: 'B08PBVB48V-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

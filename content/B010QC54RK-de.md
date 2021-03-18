@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010QC54RK-de ONLY Damen Onlroyal High Waist Skinny Jeanshose Medium...'
 sku: 'B010QC54RK-de'
-tags: [ 'only', ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

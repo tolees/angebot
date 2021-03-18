@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MF9YS7W-de ARA Damen Kansas Stiefeletten SCHWARZ 40 EU'
 sku: 'B07MF9YS7W-de'
-tags: [  ]
 actualPrice: 107.96 EUR
 currency: EUR
 price: 107.96

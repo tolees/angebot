@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V6VH6CN-de Legero Damen Tanaro Sneaker Griffin Grau 40 EU'
 sku: 'B07V6VH6CN-de'
-tags: [  ]
 actualPrice: 80.69 EUR
 currency: EUR
 price: 80.69

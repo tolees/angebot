@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNNZQXY-de BRIKSMAX Led Beleuchtungsset für Lego Technic Bugatti...'
 sku: 'B07ZNNZQXY-de'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

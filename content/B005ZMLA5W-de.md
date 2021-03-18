@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005ZMLA5W-de AEG HK654070FB Autarkes Kochfeld / Strahlenbeheizt /...'
 sku: 'B005ZMLA5W-de'
-tags: [  ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

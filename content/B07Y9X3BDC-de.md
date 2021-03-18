@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y9X3BDC-de Original Samsung USB C Kabel EP-DG950CBE 1 2m Schwarz...'
 sku: 'B07Y9X3BDC-de'
-tags: [  ]
 actualPrice: 4.26 EUR
 currency: EUR
 price: 4.26

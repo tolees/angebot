@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KQ0UI0-de Fisher-Price P4326 Meine erste Toilette Töpfchen und...'
 sku: 'B001KQ0UI0-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

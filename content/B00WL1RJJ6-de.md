@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WL1RJJ6-de Schiebeständer / Tellerständer / Tellerhalter XXL -...'
 sku: 'B00WL1RJJ6-de'
-tags: [  ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

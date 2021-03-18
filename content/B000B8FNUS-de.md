@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000B8FNUS-de Leifheit Wandrollenhalter Parat Plus ComfortLine-Serie für...'
 sku: 'B000B8FNUS-de'
-tags: [  ]
 actualPrice: 17.52 EUR
 currency: EUR
 price: 17.52

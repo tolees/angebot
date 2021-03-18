@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF52DX6-de Levi s Damen 2Pack T-Shirt 2 Pack Tee White +/Mineral Black L'
 sku: 'B07KF52DX6-de'
-tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

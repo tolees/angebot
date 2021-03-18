@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KXWXN2D-de Reebok Unisex Club C 1985 TV Sneaker Chalk/Paperwhite/Glen...'
 sku: 'B07KXWXN2D-de'
-tags: [  ]
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

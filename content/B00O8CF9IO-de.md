@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O8CF9IO-de Siemens HZ638370 Backofen und Herdzubehör / Auszüge /...'
 sku: 'B00O8CF9IO-de'
-tags: [  ]
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

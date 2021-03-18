@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y12PQJ8-de Pampers Größe 1 Premium Protection Baby Windeln 96 Stück...'
 sku: 'B06Y12PQJ8-de'
-tags: [  ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

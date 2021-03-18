@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9KV0HU-de Bose QuietComfort 20 In-Ear-Kopfhörer Acoustic Noise...'
 sku: 'B00X9KV0HU-de'
-tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

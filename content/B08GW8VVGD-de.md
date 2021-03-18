@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GW8VVGD-de Ubisoft - Just Dance 2021 - [Nintendo Switch]'
 sku: 'B08GW8VVGD-de'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

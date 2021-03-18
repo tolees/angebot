@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NLSV55-de Philips TV - Philips 32PFS6805/12 32-Zoll Fernseher Full...'
 sku: 'B089NLSV55-de'
-tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDBGW4G-de LEGO 42100 Technic Liebherr Bagger R 9800 App-gesteuertes...'
 sku: 'B07NDBGW4G-de'
-tags: [ '249195031','Activewear für Herren','Audiokabel','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Brettspiele','Computer','Computer & Zubehör','Damen-BHs','Damen-Jacken','Damen-Kleider','Damenbekleidung','Dekoartikel','Dessous, Nacht- & Lounge-Wäsche für Damen','Dinosaurier & prähistorische Kreaturen für Kinder','Drogerie & Körperpflege','Drucker & Zubehör','Elektronik & Foto','Elektrorasierer','Elektrorasierer für Herren','Ersatzteile für Staubsauger','Fernseher & Heimkino','Folienrasierer für Herren','Freizeitkleider für Damen','HDMI-Kabel','Handys & Smartphones','Handys & Zubehör','Haushaltsreiniger & Staubsauger','Heimkino, TV & Video Zubehör','Herrenbekleidung','In-Ear Ohrhörer','Interne Komponenten & Hardware','Jacken, Mäntel & Westen für Damen','Kinderspielfiguren & -fahrzeuge','Klassische BHs für Damen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Netzwerk','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Rasur & Enthaarung','Repeater','Router','Sicherheitstechnik','Simlockfreie Handys','Spiele','Spielzeug','Spielzeugfiguren & Spielwelten','Sportsocken für Herren','Toner','Unterwäsche & Dessous für Damen','Videoüberwachungstechnik','Wohnaccessoires & Deko','Zubehör für Drucker','Zubehör für Staubsauger','lego','Überwachungskameras','Überwachungstechnik', ]
 actualPrice: 323.99 EUR
 currency: EUR
 price: 323.99

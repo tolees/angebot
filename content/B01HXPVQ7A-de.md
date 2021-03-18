@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HXPVQ7A-de 2K - BioShock - The Collection - [Xbox One]'
 sku: 'B01HXPVQ7A-de'
-tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0113OCJSM-de Nike Damen WMNS Tanjun Sneaker Grau Wolfgrau/Weiß 38 EU'
 sku: 'B0113OCJSM-de'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

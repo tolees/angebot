@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MVWJZVS-de Western Digital - WD My Passport Go Portable 500 GB SSD...'
 sku: 'B07MVWJZVS-de'
-tags: [  ]
 actualPrice: 44.84 EUR
 currency: EUR
 price: 44.84

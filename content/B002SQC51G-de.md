@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002SQC51G-de Timberland Damen White Ledge Mid Waterproof Chukka Boots...'
 sku: 'B002SQC51G-de'
-tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

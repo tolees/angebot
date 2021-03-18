@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NJ6GY6-de LED Streifen 10m WIFI LUXONIC 2 x 5M RGB 5050 SMD 300...'
 sku: 'B089NJ6GY6-de'
-tags: [ '355357031','9373082031','Aktivitätstracker','Bauspielzeug & Konstruktionsspielzeug','Beauty','Beleuchtung','Bilder, Poster, Kunstdrucke & Skulpturen','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Damendüfte','Datenspeicher','Düfte','Eau de Toilette für Damen','Elektronik & Foto','Federmäppchen','Games','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Innenbeleuchtung','Interne SSD','Interner Speicher','Kfz-Handyladegeräte','Kleinteileaufbewahrung','Koffer, Rucksäcke & Taschen','Kofferorganizer','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LED Streifen','LEGO','LEGO City','PlayStation 4','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schreibtischzubehör & Ablage','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Smartwatches','Spezial- & Stimmungsbeleuchtung','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Sportelektronik','Wintersport','Zubehör','luxonic', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

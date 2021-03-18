@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYJL21Z-de SanDisk Ultra Dual Drive Go USB Type-C 256 GB Android...'
 sku: 'B07YYJL21Z-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

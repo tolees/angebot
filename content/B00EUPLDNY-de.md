@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EUPLDNY-de Lavazza Kaffeebohnen - Crema E Gusto - 1er Pack 1 x 1 kg'
 sku: 'B00EUPLDNY-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

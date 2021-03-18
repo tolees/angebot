@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0714GP1SH-de ONLY Damen Onlsedona Light Coat Otw Noos Mantel Schwarz...'
 sku: 'B0714GP1SH-de'
-tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LNM5HP-de Portable Monitor - Corprit 15 6 Zoll Tragbarer Monitor...'
 sku: 'B089LNM5HP-de'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

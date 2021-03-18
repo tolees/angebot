@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFDNDV6-de Levi s Herren 501 Original Jeans Ironwood Overt 36W / 32L'
 sku: 'B07LFDNDV6-de'
-tags: [  ]
 actualPrice: 79.96 EUR
 currency: EUR
 price: 79.96

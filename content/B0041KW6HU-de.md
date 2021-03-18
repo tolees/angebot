@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0041KW6HU-de La leggenda del pianista sull oceano [Blu-ray] [IT Import]'
 sku: 'B0041KW6HU-de'
-tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

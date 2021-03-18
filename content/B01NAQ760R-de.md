@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAQ760R-de G-STAR RAW Herren Rovulc Denim Low Sneakers Schwarz Black...'
 sku: 'B01NAQ760R-de'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

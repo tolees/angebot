@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GJQLTGC-de POC Auric Cut. Gut belüftet anpassungsfähiger und...'
 sku: 'B01GJQLTGC-de'
-tags: [  ]
 actualPrice: 75.66 EUR
 currency: EUR
 price: 75.66

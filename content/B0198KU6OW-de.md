@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0198KU6OW-de Funko 6356 S1 No Actionfigur Fairy Tail: Natsu Multi...'
 sku: 'B0198KU6OW-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

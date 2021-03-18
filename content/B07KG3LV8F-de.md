@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG3LV8F-de Lightailing Licht-Set Für Bugatti Chiron Modell - LED...'
 sku: 'B07KG3LV8F-de'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

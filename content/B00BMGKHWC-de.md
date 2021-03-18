@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BMGKHWC-de Universal Pictures - E.T. - Der Außerirdische [Blu-ray]'
 sku: 'B00BMGKHWC-de'
-tags: [  ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086ZSCBH6-de Bluetooth Kopfhörer Bluedio P Particle Kabelloser...'
 sku: 'B086ZSCBH6-de'
-tags: [  ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

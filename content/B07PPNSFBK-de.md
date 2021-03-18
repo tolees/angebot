@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PPNSFBK-de Seagate Game Drive PS4 tragbare externe Festplatte 2 TB...'
 sku: 'B07PPNSFBK-de'
-tags: [  ]
 actualPrice: 72.39 EUR
 currency: EUR
 price: 72.39

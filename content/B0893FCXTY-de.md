@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893FCXTY-de PUTUOS - Externes CD DVD Laufwerk USB 3.0 mit Type-C...'
 sku: 'B0893FCXTY-de'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

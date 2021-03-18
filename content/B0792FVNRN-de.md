@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792FVNRN-de Josef Seibel Damen Stiefeletten Fergey 18 Frauen...'
 sku: 'B0792FVNRN-de'
-tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

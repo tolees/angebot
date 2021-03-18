@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086KKZYP1-de Bose TV Speaker – kompakte Soundbar mit Bluetooth-Verbindung'
 sku: 'B086KKZYP1-de'
-tags: [  ]
 actualPrice: 234.9 EUR
 currency: EUR
 price: 234.9

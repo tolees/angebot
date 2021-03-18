@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRRD90M-de Sylvanian Families 5040 Babys Fahr und Spiel-Set -...'
 sku: 'B00HRRD90M-de'
-tags: [  ]
 actualPrice: 17.21 EUR
 currency: EUR
 price: 17.21

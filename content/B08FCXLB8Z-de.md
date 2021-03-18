@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCXLB8Z-de Microsoft - Xbox Play & Charge Kit M'
 sku: 'B08FCXLB8Z-de'
-tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

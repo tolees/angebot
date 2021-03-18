@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VNH16QK-de 4444 Smart Hoop Hola-Hup Einstellbar Breit Hu-la Hoop...'
 sku: 'B08VNH16QK-de'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PGBHP37-de Samsung RU7179 108 cm 43 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07PGBHP37-de'
-tags: [  ]
 actualPrice: 444.0 EUR
 currency: EUR
 price: 444.0

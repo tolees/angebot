@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Y8HN6DS-de OVERMAL 500 Gefrieretiketten Einmachetiketten Universal...'
 sku: 'B08Y8HN6DS-de'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

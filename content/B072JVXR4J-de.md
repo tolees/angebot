@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072JVXR4J-de s.Oliver Damen Analog Quarz Armbanduhr mit...'
 sku: 'B072JVXR4J-de'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

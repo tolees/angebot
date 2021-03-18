@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D9SPWTW-de Astragon - Landwirtschafts-Simulator 19 - Premium Edition...'
 sku: 'B08D9SPWTW-de'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

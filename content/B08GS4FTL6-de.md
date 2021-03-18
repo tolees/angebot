@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GS4FTL6-de Samsung 980 PRO 500 GB PCIe 4.0 bis zu 6.900 MB/s NVMe M.2...'
 sku: 'B08GS4FTL6-de'
-tags: [ '355357031','9373082031','Aktivitätstracker','Bauspielzeug & Konstruktionsspielzeug','Beauty','Bilder, Poster, Kunstdrucke & Skulpturen','Bürobedarf & Schreibwaren','Büromaterial','Computer & Zubehör','Damendüfte','Datenspeicher','Düfte','Eau de Toilette für Damen','Elektronik & Foto','Federmäppchen','Games','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Herren','Herren-Schnürhalbschuhe','Herrenschuhe','Interne SSD','Interner Speicher','Kfz-Handyladegeräte','Kleinteileaufbewahrung','Koffer, Rucksäcke & Taschen','Kofferorganizer','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','LEGO','LEGO City','PlayStation 4','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Schreibtischzubehör & Ablage','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Ski-Bekleidung','Ski-Bekleidung für Herren','Ski-Hosen für Herren','Skifahren','Smartwatches','Spielzeug','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Sportelektronik','Wintersport','Zubehör','samsung', ]
 actualPrice: 111.0 EUR
 currency: EUR
 price: 111.0

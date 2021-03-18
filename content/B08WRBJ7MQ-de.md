@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WRBJ7MQ-de Zuoyue Ultradünne drahtlose Maus Stummschaltung Bluetooth-...'
 sku: 'B08WRBJ7MQ-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

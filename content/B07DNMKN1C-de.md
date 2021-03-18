@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DNMKN1C-de Tumi Voyageur Carson Backpack Rucksack 43 cm Black'
 sku: 'B07DNMKN1C-de'
-tags: [  ]
 actualPrice: 192.5 EUR
 currency: EUR
 price: 192.5

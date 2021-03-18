@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08925DRWB-de Axloie Bluetooth Lautsprecher Musikbox Tragbarer LED...'
 sku: 'B08925DRWB-de'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

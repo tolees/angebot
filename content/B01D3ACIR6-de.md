@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D3ACIR6-de Intenso High Performance interne SSD 240 GB 6 3 cm 2 5...'
 sku: 'B01D3ACIR6-de'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

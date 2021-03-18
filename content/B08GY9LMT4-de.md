@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GY9LMT4-de HolyHigh Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit...'
 sku: 'B08GY9LMT4-de'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TC6DC2L-de TOM TAILOR Geldbörse mit Reißverschluss Damen Juna Rose...'
 sku: 'B07TC6DC2L-de'
-tags: [  ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

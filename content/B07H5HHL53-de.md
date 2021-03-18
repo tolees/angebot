@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5HHL53-de Küchenhelfer Set Silikon Küchenutensilien aus Edelstahl...'
 sku: 'B07H5HHL53-de'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

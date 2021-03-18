@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJWWYNT-de Die drei !!! [Blu-ray]'
 sku: 'B07VJWWYNT-de'
-tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8PMYDR-de PLAYMOBIL City Life 70199 Abschleppdienst Ab 4 Jahren'
 sku: 'B07P8PMYDR-de'
-tags: [  ]
 actualPrice: 31.04 EUR
 currency: EUR
 price: 31.04

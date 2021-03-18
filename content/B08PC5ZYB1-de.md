@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PC5ZYB1-de Samsung SSD 870 EVO 2 TB Formfaktor 2 5 Zoll Intelligent...'
 sku: 'B08PC5ZYB1-de'
-tags: [  ]
 actualPrice: 213.9 EUR
 currency: EUR
 price: 213.9

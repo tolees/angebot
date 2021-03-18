@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003OEQS3C-de Schülke 112002 Waschlotion 1 L'
 sku: 'B003OEQS3C-de'
-tags: [  ]
 actualPrice: 3.43 EUR
 currency: EUR
 price: 3.43

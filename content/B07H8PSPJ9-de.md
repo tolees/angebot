@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H8PSPJ9-de Xiaomi Original Mi Air Purifier Filter - Antibakterielle...'
 sku: 'B07H8PSPJ9-de'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

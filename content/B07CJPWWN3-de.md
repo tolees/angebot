@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CJPWWN3-de ONLY NOS Damen Skinny Onlroyal Reg SK Dnm Jeans BJ312 Noos...'
 sku: 'B07CJPWWN3-de'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053TDDEI-de Rotho Paso Mülleimer 40l mit Pedal und Deckel Kunststoff...'
 sku: 'B0053TDDEI-de'
-tags: [  ]
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

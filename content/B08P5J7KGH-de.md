@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P5J7KGH-de Xiaomi Mi Watch Smartwatch 1 39" AMOLED-HD-Display;...'
 sku: 'B08P5J7KGH-de'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

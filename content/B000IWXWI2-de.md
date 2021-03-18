@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000IWXWI2-de Energizer Alkaline Batterie E23 A'
 sku: 'B000IWXWI2-de'
-tags: [  ]
 actualPrice: 1.74 EUR
 currency: EUR
 price: 1.74

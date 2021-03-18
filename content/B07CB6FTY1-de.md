@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CB6FTY1-de Bosch Home and Garden - Bosch Akku Heißklebestift Gluey...'
 sku: 'B07CB6FTY1-de'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

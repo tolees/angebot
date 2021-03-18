@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FYDGD73-de Philips Hue White and Color Ambiance Play Lightbar dimmbar...'
 sku: 'B07FYDGD73-de'
-tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

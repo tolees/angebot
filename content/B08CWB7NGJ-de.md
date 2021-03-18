@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CWB7NGJ-de Warner Bros Entertainment - Scooby!'
 sku: 'B08CWB7NGJ-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

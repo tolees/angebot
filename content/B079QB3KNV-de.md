@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QB3KNV-de Panasonic Bartschneider ER-GB96 mit kammförmigem...'
 sku: 'B079QB3KNV-de'
-tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D2TMYNV-de Winning Moves 11460 Trivial Pursuit Harry Potter'
 sku: 'B07D2TMYNV-de'
-tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

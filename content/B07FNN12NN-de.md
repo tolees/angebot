@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNN12NN-de LEGO 41361 Friends Mias Fohlenstall Spielset mit Mia als...'
 sku: 'B07FNN12NN-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','LEGO','LEGO friends','Produkte','Spielzeug','lego', ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

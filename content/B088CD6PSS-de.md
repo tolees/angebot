@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CD6PSS-de Xiaomi Redmi Note 9 Pro Smartphone 4G 6.67 Zoll 6GB RAM...'
 sku: 'B088CD6PSS-de'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

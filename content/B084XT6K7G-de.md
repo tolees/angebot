@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XT6K7G-de LG Electronics - LG 49NANO806NA 123 cm 49 Zoll NanoCell...'
 sku: 'B084XT6K7G-de'
-tags: [  ]
 actualPrice: 578.95 EUR
 currency: EUR
 price: 578.95

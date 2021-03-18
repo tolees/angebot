@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G1MSM5D-de Lonheo Schwarze Edelstahl Küchenarmatur mit Dual-...'
 sku: 'B08G1MSM5D-de'
-tags: [  ]
 actualPrice: 50.55 EUR
 currency: EUR
 price: 50.55

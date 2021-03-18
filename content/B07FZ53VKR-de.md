@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZ53VKR-de Microsoft Office 365 Home multilingual | 6 Nutzer |...'
 sku: 'B07FZ53VKR-de'
-tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HB8SLMV-de SanDisk Extreme 64 GB microSDXC Memory Card for Action...'
 sku: 'B07HB8SLMV-de'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

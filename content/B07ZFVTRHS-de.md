@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZFVTRHS-de Tommy Jeans Damen Tjw Basic Hooded Down Jacket Jacke...'
 sku: 'B07ZFVTRHS-de'
-tags: [  ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CB7H4RM-de Funko 52873 POP Star Wars: Valentines-Stormtrooper w/Heart...'
 sku: 'B08CB7H4RM-de'
-tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OVRTY0K-de Warner Home Video - Supernatural - Staffel 1 [Blu-ray]'
 sku: 'B00OVRTY0K-de'
-tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

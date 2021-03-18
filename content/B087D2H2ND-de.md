@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087D2H2ND-de AOYODKG - Tablet Touchscreen 10 1 Zoll 4G LTE Call Tablet...'
 sku: 'B087D2H2ND-de'
-tags: [  ]
 actualPrice: 115.61 EUR
 currency: EUR
 price: 115.61

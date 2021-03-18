@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VLJ5JDV-de Sony RX100 VII | Premium Bridge-Kamera 1 0-Typ-Sensor...'
 sku: 'B07VLJ5JDV-de'
-tags: [  ]
 actualPrice: 1060.0 EUR
 currency: EUR
 price: 1060.0

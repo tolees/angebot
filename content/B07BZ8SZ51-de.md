@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BZ8SZ51-de Activision Blizzard Deutschland - Spyro Reignited Trilogy...'
 sku: 'B07BZ8SZ51-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

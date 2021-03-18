@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010B2FYPM-de Eagle Creek Packtasche Pack-It Specter Clean Dirty Cube...'
 sku: 'B010B2FYPM-de'
-tags: [ '355357031','Bauspielzeug & Konstruktionsspielzeug','Bilder, Poster, Kunstdrucke & Skulpturen','Koffer, Rucksäcke & Taschen','Kofferorganizer','Küche, Haushalt & Wohnen','LEGO','LEGO City','Poster & Kunstdrucke','Produkte','Reise-Zubehör','Spielzeug','Zubehör','eagle creek', ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

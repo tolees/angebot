@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089LVQ42H-de EACHINE E520 Drohne mit 4k HD Kamera 2.4Ghz WiFi FPV Live...'
 sku: 'B089LVQ42H-de'
-tags: [  ]
 actualPrice: 84.98 EUR
 currency: EUR
 price: 84.98

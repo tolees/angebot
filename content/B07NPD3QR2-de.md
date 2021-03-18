@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NPD3QR2-de Skechers Men s Uno - Stand on Air Trainers Black Black...'
 sku: 'B07NPD3QR2-de'
-tags: [  ]
 actualPrice: 44.41 EUR
 currency: EUR
 price: 44.41

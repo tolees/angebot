@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MDDRGN-de Stranger Things: Music From The Netflix Original Series [2...'
 sku: 'B076MDDRGN-de'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

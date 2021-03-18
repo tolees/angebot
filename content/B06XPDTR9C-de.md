@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XPDTR9C-de HYBRID Dual Metallic Gel-Tintenroller verschiedene Farben...'
 sku: 'B06XPDTR9C-de'
-tags: [  ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

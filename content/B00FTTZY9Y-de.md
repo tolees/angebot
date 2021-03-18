@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FTTZY9Y-de Corny nussvoll erdnuss & vollmilch DER GROSSE Nussriegel...'
 sku: 'B00FTTZY9Y-de'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

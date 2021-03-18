@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHG3DLS-de Sylvanian Families 5393 Himbeer Haus - Puppenhaus'
 sku: 'B07VHG3DLS-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

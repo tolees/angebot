@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015DR7TR6-de Paramount - Der Schuh des Manitu - Digitally Remastered...'
 sku: 'B015DR7TR6-de'
-tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J3T5VKM-de AUKEY 3 in 1 kabelloser Ladegerät für iPhone 12 iWatch...'
 sku: 'B08J3T5VKM-de'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

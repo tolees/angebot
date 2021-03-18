@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077M8YXL2-de PUMA Unisex Smash v2 L Sneaker White White 44 EU'
 sku: 'B077M8YXL2-de'
-tags: [  ]
 actualPrice: 37.11 EUR
 currency: EUR
 price: 37.11

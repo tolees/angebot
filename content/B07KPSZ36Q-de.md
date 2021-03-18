@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPSZ36Q-de Funko - POP! Vinyl: Disney: Aladdin Live Action : Jasmine'
 sku: 'B07KPSZ36Q-de'
-tags: [  ]
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

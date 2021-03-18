@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08174XWQM-de Playmobil City Action 70338 - Große Mitnehm-SEK-Zentrale...'
 sku: 'B08174XWQM-de'
-tags: [  ]
 actualPrice: 46.34 EUR
 currency: EUR
 price: 46.34

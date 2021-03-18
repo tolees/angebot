@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8P6NYP-de PLAYMOBIL Novelmore 70220 Große Burg von Novelmore für...'
 sku: 'B07P8P6NYP-de'
-tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

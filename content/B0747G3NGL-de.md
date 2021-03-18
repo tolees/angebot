@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0747G3NGL-de Salzgeber + Co. Medien Gm - Heartland OmU'
 sku: 'B0747G3NGL-de'
-tags: [  ]
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

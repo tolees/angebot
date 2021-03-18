@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFDXV44-de Funko - POP Dragon Ball SUPER Goku ULT'
 sku: 'B07DFDXV44-de'
-tags: [  ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

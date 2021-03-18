@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014GXRFN6-de devolo dLAN 550 WiFi Powerline Internet über die Steckdose...'
 sku: 'B014GXRFN6-de'
-tags: [ 'PowerLAN-Adapter','devolo', ]
 actualPrice: 55.45 EUR
 currency: EUR
 price: 55.45

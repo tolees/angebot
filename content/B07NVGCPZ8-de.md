@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NVGCPZ8-de Difuzed Unisex Mw448201sny Reisezubehör- Bi-Fold-...'
 sku: 'B07NVGCPZ8-de'
-tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

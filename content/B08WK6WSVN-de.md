@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WK6WSVN-de NAIHEN HOME - NAIHEN Wanduhr 3D Visuelle Aufkleber DIY...'
 sku: 'B08WK6WSVN-de'
-tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

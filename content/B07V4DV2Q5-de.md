@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V4DV2Q5-de TOM TAILOR Damen Basic V-Neck Pullover Blau Sea Blue...'
 sku: 'B07V4DV2Q5-de'
-tags: [  ]
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

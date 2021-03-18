@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F7X5LH1-de ONLY Damen onlPAOLA HW SK DNM AZGZ878 NOOS Skinny Jeans...'
 sku: 'B07F7X5LH1-de'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

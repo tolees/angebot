@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08S31QBFW-de GREATHTEK - HDMI KVM Switch Dual Monitor 2 Port 4K 4K@60Hz...'
 sku: 'B08S31QBFW-de'
-tags: [  ]
 actualPrice: 109.65 EUR
 currency: EUR
 price: 109.65

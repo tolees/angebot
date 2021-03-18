@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B2TCYVL-de PIECES Damen PCBERTA Headband NOOS BC Stirnband Natural...'
 sku: 'B08B2TCYVL-de'
-tags: [  ]
 actualPrice: 8.44 EUR
 currency: EUR
 price: 8.44

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KCQ32JJ-de TOM TAILOR Damen Alexa Straight Jeans Blau Dark Stone Wash...'
 sku: 'B07KCQ32JJ-de'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

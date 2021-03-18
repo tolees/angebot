@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FBQWL22-de Skechers Damen Flex Appeal 3.0-first Insight Sneaker...'
 sku: 'B07FBQWL22-de'
-tags: [  ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

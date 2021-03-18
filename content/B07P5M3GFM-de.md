@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P5M3GFM-de Superzings PSZ4B016IN00 Blíster 10 Serie 4 Sammler...'
 sku: 'B07P5M3GFM-de'
-tags: [  ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

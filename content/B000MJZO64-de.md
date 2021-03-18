@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000MJZO64-de Giorgio Armani - Armani Acqua Di Gio homme/ men Eau de...'
 sku: 'B000MJZO64-de'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

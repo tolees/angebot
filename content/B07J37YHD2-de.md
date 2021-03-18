@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J37YHD2-de Under Armour Undeniable Duffel 4.0 geräumige Sporttasche...'
 sku: 'B07J37YHD2-de'
-tags: [  ]
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

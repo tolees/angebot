@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M7VFDB6-de Brennenstuhl BREMAXX Verlängerungskabel 15m Kabel in...'
 sku: 'B00M7VFDB6-de'
-tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0791ZXWCQ-de Concorde Video - Die Twilight Saga Film Collection [5 DVDs]'
 sku: 'B0791ZXWCQ-de'
-tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

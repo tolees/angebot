@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RGVST1H-de Schmidt Spiele 59690 Thomas Kinkade Disney The Aristocats...'
 sku: 'B08RGVST1H-de'
-tags: [  ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MC1VXC6-de 4X Optischer Zoom Überwachungskamera Aussen WLAN Ctronics...'
 sku: 'B08MC1VXC6-de'
-tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

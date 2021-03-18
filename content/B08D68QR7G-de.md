@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D68QR7G-de Blackview Tab8 Tablet 25 54cm 10 1 Zoll Android 10 Tablet-...'
 sku: 'B08D68QR7G-de'
-tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

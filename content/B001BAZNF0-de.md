@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001BAZNF0-de Brennenstuhl Kunststoff-Verlängerungskabel...'
 sku: 'B001BAZNF0-de'
-tags: [  ]
 actualPrice: 3.01 EUR
 currency: EUR
 price: 3.01

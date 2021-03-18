@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RYMPWPQ-de Levi s Herren 501 Original Jeans Key West Sky Tnl 32W / 32L'
 sku: 'B07RYMPWPQ-de'
-tags: [  ]
 actualPrice: 79.19 EUR
 currency: EUR
 price: 79.19

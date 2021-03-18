@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0834BFZJP-de adidas Womens QT Racer 2.0 Running Shoe CBLACK/FTWWHT/Onix...'
 sku: 'B0834BFZJP-de'
-tags: [  ]
 actualPrice: 37.12 EUR
 currency: EUR
 price: 37.12

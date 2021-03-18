@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M309APL-de Pentel EnerGel XM BL77 einschiebbarer flüssiger...'
 sku: 'B01M309APL-de'
-tags: [  ]
 actualPrice: 18.18 EUR
 currency: EUR
 price: 18.18

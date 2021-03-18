@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EPFWWAC-de Clarks Herren Derby Braun Tan Leather 42 EU'
 sku: 'B00EPFWWAC-de'
-tags: [  ]
 actualPrice: 46.1 EUR
 currency: EUR
 price: 46.1

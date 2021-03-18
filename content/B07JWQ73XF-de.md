@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JWQ73XF-de PUMA Damen Carina L Sneaker WhiteWhite Silver 37 EU'
 sku: 'B07JWQ73XF-de'
-tags: [  ]
 actualPrice: 45.07 EUR
 currency: EUR
 price: 45.07

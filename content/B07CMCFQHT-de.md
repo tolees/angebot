@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CMCFQHT-de Roces Kinder IDEA UP Verstellbarer Kinderskischuh...'
 sku: 'B07CMCFQHT-de'
-tags: [  ]
 actualPrice: 94.21 EUR
 currency: EUR
 price: 94.21

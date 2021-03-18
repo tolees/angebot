@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DQG9OZ2-de SanDisk Ultra 32GB USB-Flash-Laufwerk USB 3.0 bis zu 100MB/s'
 sku: 'B00DQG9OZ2-de'
-tags: [  ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

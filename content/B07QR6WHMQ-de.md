@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QR6WHMQ-de Tommy Hilfiger Herren Tommy Logo Hoody Sweatshirt Schwarz...'
 sku: 'B07QR6WHMQ-de'
-tags: [  ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

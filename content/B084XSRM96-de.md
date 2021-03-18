@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XSRM96-de LG Electronics - LG 43UN71006LB 108 cm 43 Zoll UHD...'
 sku: 'B084XSRM96-de'
-tags: [  ]
 actualPrice: 388.8 EUR
 currency: EUR
 price: 388.8

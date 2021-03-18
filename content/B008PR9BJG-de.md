@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008PR9BJG-de Hugo Boss Nuit femme / woman Eau de Parfum Vaporisateur /...'
 sku: 'B008PR9BJG-de'
-tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

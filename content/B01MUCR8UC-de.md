@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUCR8UC-de Schmidt Spiele 59479 Thomas Kinkade Disney Kleine...'
 sku: 'B01MUCR8UC-de'
-tags: [  ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

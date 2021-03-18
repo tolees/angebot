@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M04LYXO-de s.Oliver Damen Gürtel aus Leder black 105'
 sku: 'B01M04LYXO-de'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

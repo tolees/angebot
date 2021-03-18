@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G26PDJQ-de Fitbit Unisex-Adult Charge 3 Der Innovative Gesundheits-...'
 sku: 'B07G26PDJQ-de'
-tags: [  ]
 actualPrice: 99 EUR
 currency: EUR
 price: 99

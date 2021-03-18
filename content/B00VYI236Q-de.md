@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VYI236Q-de Roccat Taito Control Gaming Mauspad - Total-Control...'
 sku: 'B00VYI236Q-de'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NSBT74H-de Richter Kinderschuhe Jungen Run Combat Boots Beige Cognac...'
 sku: 'B07NSBT74H-de'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NL9Q5Z7-de Nike Damen Court Vision Low Sneaker White/White-White 39 EU'
 sku: 'B07NL9Q5Z7-de'
-tags: [  ]
 actualPrice: 44.14 EUR
 currency: EUR
 price: 44.14

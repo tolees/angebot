@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071HLW46F-de Sony BC-QZ1 Schnellladegerät für NP-FZ100 Akkus'
 sku: 'B071HLW46F-de'
-tags: [  ]
 actualPrice: 75.07 EUR
 currency: EUR
 price: 75.07

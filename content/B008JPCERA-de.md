@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008JPCERA-de EDEL - Inspector Barnaby - Collector s Box 1 Vol. 1-5 20...'
 sku: 'B008JPCERA-de'
-tags: [  ]
 actualPrice: 24.09 EUR
 currency: EUR
 price: 24.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MCXWJFL-de KOSMOS 697907 EXIT- Das Spiel- Die Geisterbahn des...'
 sku: 'B07MCXWJFL-de'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

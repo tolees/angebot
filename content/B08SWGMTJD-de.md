@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SWGMTJD-de Cozycase Dot 4. Generation Wandhalterung- Platzsparend...'
 sku: 'B08SWGMTJD-de'
-tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

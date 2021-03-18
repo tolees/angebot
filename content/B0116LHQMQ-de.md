@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0116LHQMQ-de CASCHA Sopran Ukulele Set für Kinder und Erwachsene I...'
 sku: 'B0116LHQMQ-de'
-tags: [  ]
 actualPrice: 26.35 EUR
 currency: EUR
 price: 26.35

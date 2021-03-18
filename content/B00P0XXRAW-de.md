@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P0XXRAW-de Studio Hamburg Enterprises - Diese Drombuschs - Die...'
 sku: 'B00P0XXRAW-de'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

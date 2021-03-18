@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J2BC24G-de Diesel Smartwatch DZT2010'
 sku: 'B07J2BC24G-de'
-tags: [  ]
 actualPrice: 210.59 EUR
 currency: EUR
 price: 210.59

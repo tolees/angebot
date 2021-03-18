@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GVJFBN5-de Alexa Smart Glühbirnen TECKIN Rgb E27 WLAN Lampe...'
 sku: 'B07GVJFBN5-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

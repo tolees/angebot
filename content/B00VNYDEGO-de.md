@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VNYDEGO-de Looping Louie Kinderspiel lustiges 3D Spiel Partyspiel für...'
 sku: 'B00VNYDEGO-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

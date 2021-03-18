@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078STRHBX-de SanDisk Extreme Portable SSD externe SSD 1 TB externe...'
 sku: 'B078STRHBX-de'
-tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

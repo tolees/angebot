@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SVJS89D-de Geox J Android Boy C Sneaker Blau Navy/Red C0735 30 EU'
 sku: 'B07SVJS89D-de'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

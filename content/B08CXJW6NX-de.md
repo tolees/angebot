@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXJW6NX-de Ctronics WLAN Wildkamera mit Bewegungsmelder 4K 20MP...'
 sku: 'B08CXJW6NX-de'
-tags: [  ]
 actualPrice: 127.49 EUR
 currency: EUR
 price: 127.49

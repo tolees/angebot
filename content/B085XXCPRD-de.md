@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085XXCPRD-de Gosund Smart WLAN Steckdosenleiste mit 3 AC-Steckdose und...'
 sku: 'B085XXCPRD-de'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

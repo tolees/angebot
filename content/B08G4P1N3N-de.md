@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4P1N3N-de LEGO 41926 DOTS Cupcake Partyset mit Cupcakes...'
 sku: 'B08G4P1N3N-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Kinder-Rollenspiele','Küchenspielzeug','Spielzeug','Spielzeug-Lebensmittel','lego', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

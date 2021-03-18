@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DR2D7RV-de Zamkol Bluetooth Lautsprecher Subbass Leistungsstarker 24...'
 sku: 'B08DR2D7RV-de'
-tags: [ 'zamkol', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

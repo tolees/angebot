@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DRHTUKY-de Darkman Uncut Blu-ray'
 sku: 'B00DRHTUKY-de'
-tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

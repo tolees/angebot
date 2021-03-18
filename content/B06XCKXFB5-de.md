@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCKXFB5-de Dickie Toys RC Monster Flippy RTR Spielzeugauto mit...'
 sku: 'B06XCKXFB5-de'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

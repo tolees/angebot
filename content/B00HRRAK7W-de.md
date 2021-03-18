@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRRAK7W-de Sylvanian Families 4018 Igel Familie - Figuren für Puppenhaus'
 sku: 'B00HRRAK7W-de'
-tags: [  ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

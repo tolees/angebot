@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081KH7PB2-de Salomon Damen XA PRO 3D V8 GTX Leichte Schuhe für Trail...'
 sku: 'B081KH7PB2-de'
-tags: [  ]
 actualPrice: 112.95 EUR
 currency: EUR
 price: 112.95

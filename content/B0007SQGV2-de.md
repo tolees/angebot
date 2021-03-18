@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007SQGV2-de D-Link DGS-1016D Gigabit Switch 16 Ports 10/100/1000...'
 sku: 'B0007SQGV2-de'
-tags: [ '249195031','355357031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Interne Komponenten & Hardware','Komponenten & Ersatzteile','LEGO','LEGO friends','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug','d-link', ]
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

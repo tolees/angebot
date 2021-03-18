@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GILX4Q6-de Calvin Klein Damen Bustier Bralette Lift BH Schwarz Black...'
 sku: 'B01GILX4Q6-de'
-tags: [  ]
 actualPrice: 33.55 EUR
 currency: EUR
 price: 33.55

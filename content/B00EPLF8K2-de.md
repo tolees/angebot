@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EPLF8K2-de SET-ERGÄNZUNG Gigaset Fenstersensor – für große und kleine...'
 sku: 'B00EPLF8K2-de'
-tags: [  ]
 actualPrice: 19.12 EUR
 currency: EUR
 price: 19.12

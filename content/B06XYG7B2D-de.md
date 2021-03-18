@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYG7B2D-de Bang & Olufsen Beoplay P2 Bluetooth-Lautsprecher tragbar...'
 sku: 'B06XYG7B2D-de'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Q0Q3RZI-de LEONINE Distribution GmbH - Heidi Klassik - TV-Serie...'
 sku: 'B00Q0Q3RZI-de'
-tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

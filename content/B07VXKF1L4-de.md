@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXKF1L4-de Western Digital - WD Elements Desktop externe Festplatte...'
 sku: 'B07VXKF1L4-de'
-tags: [  ]
 actualPrice: 227.11 EUR
 currency: EUR
 price: 227.11

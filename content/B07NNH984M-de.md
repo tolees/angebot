@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NNH984M-de GUCHO - Die Schöne und das Biest Rose Geschenk Kit rote...'
 sku: 'B07NNH984M-de'
-tags: [  ]
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

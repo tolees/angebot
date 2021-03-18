@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPK663S-de Funko Deluxe: Game of Thrones S10: Jon Snow Sitting on...'
 sku: 'B07KPK663S-de'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

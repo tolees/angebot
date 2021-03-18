@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H5VTQZ2-de Warner Home Video - Supernatural - Staffel 12 [Blu-ray]'
 sku: 'B07H5VTQZ2-de'
-tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

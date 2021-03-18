@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PF1RTG-de Panasonic RB-M700BE-K Bluetooth Over-Ear Kopfhörer Noise...'
 sku: 'B088PF1RTG-de'
-tags: [  ]
 actualPrice: 75.9 EUR
 currency: EUR
 price: 75.9

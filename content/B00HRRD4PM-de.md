@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRRD4PM-de Sylvanian Families 4281 Fahrradfahren mit Mutter -...'
 sku: 'B00HRRD4PM-de'
-tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

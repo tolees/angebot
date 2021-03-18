@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XNSRQLT-de s.Oliver Damen 04.899.34.3790 Top Bluse Schwarz Black 9999...'
 sku: 'B07XNSRQLT-de'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

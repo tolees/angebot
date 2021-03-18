@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKWVFXF-de Lazmin - Mini WiFi PCI-E Netzwerkkarte Dual Band 2 4-G / 5...'
 sku: 'B07SKWVFXF-de'
-tags: [  ]
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PDN2FQ3-de APLI Kids 17115 Kork A4 3 Blatt Einzeln'
 sku: 'B07PDN2FQ3-de'
-tags: [  ]
 actualPrice: 6.14 EUR
 currency: EUR
 price: 6.14

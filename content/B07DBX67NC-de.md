@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DBX67NC-de Anker PowerWave Wireless Charger Ladepad Kabelloses 10W...'
 sku: 'B07DBX67NC-de'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

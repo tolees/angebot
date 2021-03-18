@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KTMQHB8-de PLAYMOBIL Country 70511 PKW mit Ponyanhänger Ab 4 Jahren'
 sku: 'B08KTMQHB8-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','Hobbys','In-Ear Ohrhörer','Interner Speicher','Kaffee & Espresso','Kinderspielfiguren & -fahrzeuge','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Netzteile für Handys','Sammelfiguren & Requisiten','Schraubendreher-Zubehör','Science Fiction','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spülmaschinenreinigung','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Wackelkopffiguren','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte','playmobil', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

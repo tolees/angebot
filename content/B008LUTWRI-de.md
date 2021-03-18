@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008LUTWRI-de Bessey KBX20 Korpuszwingen-Verlängerung KBX'
 sku: 'B008LUTWRI-de'
-tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

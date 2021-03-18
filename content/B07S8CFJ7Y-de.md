@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S8CFJ7Y-de TOM TAILOR Herren Basic Rundhalspullover Pullover Light...'
 sku: 'B07S8CFJ7Y-de'
-tags: [  ]
 actualPrice: 22.21 EUR
 currency: EUR
 price: 22.21

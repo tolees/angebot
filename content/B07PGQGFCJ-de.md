@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PGQGFCJ-de APLI Kids 16805 - Dots 8 Stück'
 sku: 'B07PGQGFCJ-de'
-tags: [  ]
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

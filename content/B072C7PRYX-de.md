@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072C7PRYX-de VERO MODA Damen VMSILLA LS Short Dress LT BL NOOS GA Kleid...'
 sku: 'B072C7PRYX-de'
-tags: [  ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

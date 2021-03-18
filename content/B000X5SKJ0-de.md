@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000X5SKJ0-de Giesswein Hausschuh Dannheim - Filzpantoffeln leichte...'
 sku: 'B000X5SKJ0-de'
-tags: [  ]
 actualPrice: 30 EUR
 currency: EUR
 price: 30

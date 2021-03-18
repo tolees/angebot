@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PCV37YD-de Smart LED Lampe Gosund E27 Alexa Glühbirne Kompatibel mit...'
 sku: 'B08PCV37YD-de'
-tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

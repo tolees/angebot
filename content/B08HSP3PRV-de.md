@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HSP3PRV-de Electronic Arts - STAR WARS SQUADRONS Pre-Purchase | Xbox...'
 sku: 'B08HSP3PRV-de'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

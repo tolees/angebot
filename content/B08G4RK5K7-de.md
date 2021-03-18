@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4RK5K7-de LEGO 41440 Friends Heartlake City Bäckerei Spielset...'
 sku: 'B08G4RK5K7-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

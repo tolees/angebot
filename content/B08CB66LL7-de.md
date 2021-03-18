@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CB66LL7-de Funko 51437 POP Vinyl: Masters of The Universe-Classic...'
 sku: 'B08CB66LL7-de'
-tags: [  ]
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

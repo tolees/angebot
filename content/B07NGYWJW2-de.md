@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NGYWJW2-de Ravensburger 3D Puzzle 11154 - Utensilo - Harry Potter -...'
 sku: 'B07NGYWJW2-de'
-tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

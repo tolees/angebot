@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L945GKV-de Pril 5 Plus Kraftgel Zitrone Handgeschirrspülmittel 450 ml...'
 sku: 'B08L945GKV-de'
-tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

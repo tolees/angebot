@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F9F4Z7J-de 1byone - WLAN Kamera WiFi Full HD 1080P WLAN...'
 sku: 'B08F9F4Z7J-de'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001NYXR5M-de KS Tools 911.0106 Vergrößerungs- und Reduzieradapter-Satz...'
 sku: 'B001NYXR5M-de'
-tags: [  ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

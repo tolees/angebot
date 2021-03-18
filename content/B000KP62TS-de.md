@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KP62TS-de Cookin Rudy Van Gelder Remaster'
 sku: 'B000KP62TS-de'
-tags: [  ]
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

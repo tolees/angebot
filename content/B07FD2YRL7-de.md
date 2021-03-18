@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FD2YRL7-de T TECKIN - Unterbauleuchte küche LED leiste Dimmbar...'
 sku: 'B07FD2YRL7-de'
-tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

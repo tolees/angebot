@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001NLMFFI-de FALKE Damen Socken Softmerino W KH-47438 Schwarz Black...'
 sku: 'B001NLMFFI-de'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

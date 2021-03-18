@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074M9N8NM-de ELEGIANT Bluetooth Adapter 5.0 Bluetooth Receiver...'
 sku: 'B074M9N8NM-de'
-tags: [  ]
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

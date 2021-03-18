@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J3XIAH0-de LogiLink MP0032 Modular Splitter 4Port RJ45 geschirmt mit...'
 sku: 'B00J3XIAH0-de'
-tags: [ 'Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bitsätze','Blu-ray','Bürobedarf & Schreibwaren','Chibi Figuren','Computer & Zubehör','DVD & Blu-ray','Datenspeicher','Drogerie & Körperpflege','Elektro- & Handwerkzeuge','Elektronik & Foto','Externe Datenspeicher','Externe Festplatten','Featured Categories','Filme','Geröstete Kaffeebohnen','Geschirrreinigung','Getränke, Kaffee & Tee','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Haushaltsreinigungsmittel','Haushaltswaren','Hobbys','In-Ear Ohrhörer','Interner Speicher','Kabel','Kabel & Zubehör','Kaffee & Espresso','Kinderspielfiguren & -fahrzeuge','Komödie & Unterhaltung','Kopfhörer','Kopfhörer & Zubehör','Lebensmittel','Lebensmittel & Getränke','Marker & Filzstifte','Netzteile für Handys','Permanent-Marker','Sammelfiguren','Sammelfiguren & Requisiten','Schraubendreher-Zubehör','Schreibwaren','Science Fiction','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Spülmaschinenreinigung','Tablet PCs','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','USB-Kabel','Wackelkopffiguren','Zubehör','Zubehör für Elektrowerkzeuge','Zubehör für tragbare Geräte','logilink', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

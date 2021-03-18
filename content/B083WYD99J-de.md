@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083WYD99J-de HONOR MagicWatch 2 42 mm Smart Watch Fitness-...'
 sku: 'B083WYD99J-de'
-tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

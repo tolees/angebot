@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071DM6C5D-de Liebeskind Berlin Damen Analog Quarz Armbanduhr mit...'
 sku: 'B071DM6C5D-de'
-tags: [  ]
 actualPrice: 66.19 EUR
 currency: EUR
 price: 66.19

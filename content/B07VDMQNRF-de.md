@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VDMQNRF-de Michael Kors Smart Watch Touchscreen MKT5073'
 sku: 'B07VDMQNRF-de'
-tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

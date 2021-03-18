@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y2Y8M8R-de New Balance Herren 574v2-Core Sneaker Blau Navy 44.5 EU'
 sku: 'B06Y2Y8M8R-de'
-tags: [  ]
 actualPrice: 52.69 EUR
 currency: EUR
 price: 52.69

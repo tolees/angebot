@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BRGH7S3-de Xiaomi Mi True 2 Basic kabellose Ohrhörer Kopfhörer Lange...'
 sku: 'B08BRGH7S3-de'
-tags: [ '249195031','355357031','Bauspielzeug & Konstruktionsspielzeug','Computer','Computer & Zubehör','Elektronik & Foto','Interne Komponenten & Hardware','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','LEGO','LEGO friends','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','PowerLAN-Adapter','Produkte','Repeater','Spielzeug','xiaomi', ]
 actualPrice: 25.12 EUR
 currency: EUR
 price: 25.12

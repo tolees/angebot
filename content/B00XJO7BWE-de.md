@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XJO7BWE-de Corny free Nuss-Nougat Müsliriegel OHNE Zuckerzusatz 10er...'
 sku: 'B00XJO7BWE-de'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

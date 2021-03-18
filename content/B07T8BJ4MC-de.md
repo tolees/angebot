@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T8BJ4MC-de Polaroid Originals OneStep 2 VF Camera - Coral'
 sku: 'B07T8BJ4MC-de'
-tags: [  ]
 actualPrice: 78.95 EUR
 currency: EUR
 price: 78.95

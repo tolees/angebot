@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0786DW2DR-de Puma Herren LIGA Training Pant Core Hose Black White XL'
 sku: 'B0786DW2DR-de'
-tags: [  ]
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

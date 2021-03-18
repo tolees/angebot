@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0043RSYXG-de Miyabi 34536-002-0 Wetzstein 1000'
 sku: 'B0043RSYXG-de'
-tags: [  ]
 actualPrice: 67.69 EUR
 currency: EUR
 price: 67.69

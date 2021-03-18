@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSBU20C-de foodspring L-Carnitin Kapseln 120 Stück Vegan Ideal für...'
 sku: 'B01MSBU20C-de'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

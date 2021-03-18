@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H26WYPK-de ER-ESTAVEL - Bluetooth Kopfhörer in Ear kopfhörer kabellos...'
 sku: 'B08H26WYPK-de'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SPVQFN-de Philips FC6826/01 SpeedPro Max Kabelloser Staubsauger mit...'
 sku: 'B079SPVQFN-de'
-tags: [  ]
 actualPrice: 288.0 EUR
 currency: EUR
 price: 288.0

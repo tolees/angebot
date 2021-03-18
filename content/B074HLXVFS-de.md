@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074HLXVFS-de Funko Schlüsselanhänger 20388-PDQ Sailor Chibi Moon'
 sku: 'B074HLXVFS-de'
-tags: [ 'funko', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

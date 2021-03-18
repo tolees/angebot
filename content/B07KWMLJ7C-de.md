@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWMLJ7C-de Swarovski One Set Mehrfarbig Rosé vergoldet'
 sku: 'B07KWMLJ7C-de'
-tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

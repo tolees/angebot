@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0093RN1OS-de Intenso interne SSD-Festplatte 256GB Top Performance schwarz'
 sku: 'B0093RN1OS-de'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

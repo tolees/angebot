@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MYY7VL5-de G-STAR RAW Damen T-Shirt Eyben Slim V T Wmn S/S Weiß White...'
 sku: 'B01MYY7VL5-de'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

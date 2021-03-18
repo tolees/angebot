@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009ZML3UA-de Le Creuset Signature Gusseisen-Grillpfanne Quadratisch 26...'
 sku: 'B009ZML3UA-de'
-tags: [  ]
 actualPrice: 77.97 EUR
 currency: EUR
 price: 77.97

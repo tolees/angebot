@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YKT988W-de ESPRIT Damen 990EE1B302 Hose 350/KHAKI Green 38W / 30L'
 sku: 'B07YKT988W-de'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

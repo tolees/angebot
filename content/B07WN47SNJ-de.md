@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WN47SNJ-de Original Samsung Kopfhörer 2-er Set Kopfhörer In-Ear...'
 sku: 'B07WN47SNJ-de'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JV8ZB9-de Corsair Carbide Series 275R Gaming-PC-Gehäuse ATX Mid-...'
 sku: 'B079JV8ZB9-de'
-tags: [ 'corsair', ]
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

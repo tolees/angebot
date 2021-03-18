@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077DBH4FF-de Enders 5676 Wetterschutzhülle Schwarz 50 x 50 x 120 cm'
 sku: 'B077DBH4FF-de'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

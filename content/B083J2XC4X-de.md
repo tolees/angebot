@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J2XC4X-de H0_V Acryl Schaukasten Vitrine Vitrine Acryl Schaukasten...'
 sku: 'B083J2XC4X-de'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

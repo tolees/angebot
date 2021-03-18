@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X4W7S9L-de HUYURI Damen Kleider - HUYURI Damen Sportanzug...'
 sku: 'B08X4W7S9L-de'
-tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

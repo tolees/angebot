@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KNYTOP4-de TaoTronics Bluetooth Adapter Transmitter Empfänger 2 in 1...'
 sku: 'B01KNYTOP4-de'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

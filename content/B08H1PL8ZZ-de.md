@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1PL8ZZ-de vinlley - Drahtlose Bluetooth Ohrhörer Headset zur...'
 sku: 'B08H1PL8ZZ-de'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

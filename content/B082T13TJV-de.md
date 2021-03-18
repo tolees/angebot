@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082T13TJV-de adidas Mens Galaxy 5 Running Shoe Dove Grey/Grey/Footwear...'
 sku: 'B082T13TJV-de'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

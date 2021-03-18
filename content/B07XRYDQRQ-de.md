@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XRYDQRQ-de JBL LIVE 300TWS In-Ear Bluetooth Kopfhörer in Schwarz –...'
 sku: 'B07XRYDQRQ-de'
-tags: [  ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

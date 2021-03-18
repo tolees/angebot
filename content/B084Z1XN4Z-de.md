@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084Z1XN4Z-de Concorde Video - The Gentlemen [Blu-ray]'
 sku: 'B084Z1XN4Z-de'
-tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001AZVRII-de Dermalogica Skin Health System Active Moist Unisex...'
 sku: 'B001AZVRII-de'
-tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

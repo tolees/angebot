@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YMTNVEM-de TP-Link TL-SG1005D 5-Port Gigabit/Netzwerk Switch bis 2000...'
 sku: 'B00YMTNVEM-de'
-tags: [ 'tp-link', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

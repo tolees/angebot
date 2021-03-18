@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX3TVFQ-de Acer Spin 1 SP111-34N-P3RH 29 5 cm 11 6 Zoll HD IPS Multi-...'
 sku: 'B07NX3TVFQ-de'
-tags: [  ]
 actualPrice: 419.99 EUR
 currency: EUR
 price: 419.99

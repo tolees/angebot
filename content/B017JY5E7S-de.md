@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017JY5E7S-de Hama Fotoalbum 28 x 24 cm 50 schwarze Seiten 25 Blatt mit...'
 sku: 'B017JY5E7S-de'
-tags: [  ]
 actualPrice: 7.37 EUR
 currency: EUR
 price: 7.37

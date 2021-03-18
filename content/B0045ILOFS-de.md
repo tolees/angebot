@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0045ILOFS-de ISSEY MIYAKE A Scent Iss Miyake EDT Vapo 50 ml 1er Pack 1...'
 sku: 'B0045ILOFS-de'
-tags: [  ]
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

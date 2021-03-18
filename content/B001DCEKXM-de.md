@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001DCEKXM-de Suunto Core All Black Unisex Compass - Erwachsene...'
 sku: 'B001DCEKXM-de'
-tags: [  ]
 actualPrice: 98.6 EUR
 currency: EUR
 price: 98.6

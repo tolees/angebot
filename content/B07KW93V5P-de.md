@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KW93V5P-de TOM TAILOR Herren Marvin Straight Jeans Blau Mid Stone...'
 sku: 'B07KW93V5P-de'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

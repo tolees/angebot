@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077CX2SR1-de Grundig GRB 2000 Tragbare Radio Boombox travertin/silber'
 sku: 'B077CX2SR1-de'
-tags: [  ]
 actualPrice: 45.91 EUR
 currency: EUR
 price: 45.91

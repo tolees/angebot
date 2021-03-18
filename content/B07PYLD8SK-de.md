@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PYLD8SK-de ONLY Damen Onlkendell Eternal Ankle Black Noos Jeanshose...'
 sku: 'B07PYLD8SK-de'
-tags: [  ]
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

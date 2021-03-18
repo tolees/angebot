@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8N39QR-de Tommy Hilfiger Damen Heritage Zip-Through Hoodie...'
 sku: 'B07P8N39QR-de'
-tags: [  ]
 actualPrice: 96.39 EUR
 currency: EUR
 price: 96.39

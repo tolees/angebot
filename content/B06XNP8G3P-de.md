@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XNP8G3P-de Campingaz Lavastein Gasgrill Xpert 200 LS Rocky'
 sku: 'B06XNP8G3P-de'
-tags: [  ]
 actualPrice: 200.38 EUR
 currency: EUR
 price: 200.38

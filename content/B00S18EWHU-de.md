@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00S18EWHU-de Pandora Damen-Armband Moments 925 Silber 21.0 cm - 590719-21'
 sku: 'B00S18EWHU-de'
-tags: [  ]
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

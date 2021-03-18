@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVPGD4J-de Playmobil 9282 - Skischule'
 sku: 'B06WVPGD4J-de'
-tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

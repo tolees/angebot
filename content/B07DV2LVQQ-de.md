@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DV2LVQQ-de ECCO Damen Terracruise II Sneaker Blau Dark Petrol/Pagoda...'
 sku: 'B07DV2LVQQ-de'
-tags: [  ]
 actualPrice: 77.0 EUR
 currency: EUR
 price: 77.0
