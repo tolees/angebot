@@ -28,9 +28,9 @@ Es gibt ein [Clarks Herren Derby  Schwarz  Black Leather   43 EU](https://www.am
 
 ℹ️:
 
-- Innenmaterial: Leder
-- Absatzhöhe: 2.5 cm
-- Obermaterial: Leder
 - Sohle: Gummi
+- Innenmaterial: Leder
+- Obermaterial: Leder
+- Absatzhöhe: 2.5 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00TTJKVV6/?tag=tolees0ca-21)

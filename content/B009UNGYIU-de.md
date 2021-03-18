@@ -28,7 +28,7 @@ Sie können [Plantronics 89033-01 Micro USB Kabel und Lade-Adapter  61cm  24 Zol
 
 ℹ️:
 
-- 61cm (24 Zoll) Micro USB Kabel und Lade-Adapter fur Voyager Legend / Legend UC Bluetooth headset
 - 89033-01
+- 61cm (24 Zoll) Micro USB Kabel und Lade-Adapter fur Voyager Legend / Legend UC Bluetooth headset
 
 [🛒 Hier!!](https://www.amazon.de/dp/B009UNGYIU/?tag=tolees0ca-21)
