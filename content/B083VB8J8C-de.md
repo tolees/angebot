@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '49.99 % rabat auf Desigual Damen Vest praga Casual Dress  '
-date: 2021-03-14 19:00:36
+date: 2021-03-18 07:44:21
 image: 'https://m.media-amazon.com/images/I/41e7p2H9dVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VB8J8C-de Desigual Damen Vest praga Casual Dress Schwarz XL EU'
 sku: 'B083VB8J8C-de'
-tags: [  ]
+tags: [ 'Bekleidung','Damen-Kleider','Damenbekleidung','Freizeitkleider für Damen','desigual', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

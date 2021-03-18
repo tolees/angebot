@@ -1,37 +1,38 @@
 ---
 layout: post
-title: 'LEGO 42117 Technic Rennflugzeug oder Jet mit 22.82 % Rabatt'
-date: 2021-03-09 06:01:33
+title: 'LEGO 42117 Technic Rennflugzeug oder Jet mit 25.03 % Rabatt'
+date: 2021-03-18 07:29:31
 image: 'https://m.media-amazon.com/images/I/518L4H0aOkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G49HYQB-de LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1...'
 sku: 'B08G49HYQB-de'
-tags: [  ]
-actualPrice: 7.71 EUR
+tags: [ 'Activewear für Herren','Amazon-Geräte','Amazon-Geräte & Zubehör','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Beleuchtung','Brettspiele','Chibi Figuren','Computer & Zubehör','Damen-BHs','Damen-Jacken','Damen-Kleider','Damenbekleidung','Datenspeicher','Dessous, Nacht- & Lounge-Wäsche für Damen','Dinosaurier & prähistorische Kreaturen für Kinder','Drogerie & Körperpflege','Drucker & Zubehör','Echo Smart Speaker & Displays','Einbauleuchten','Elektronik & Foto','Elektrorasierer','Elektrorasierer für Herren','Ersatzteile für Staubsauger','Fahrzeug Spielsets für Kinder','Folienrasierer für Herren','Freizeitkleider für Damen','Games','Handys & Smartphones','Handys & Zubehör','Haushaltsreiniger & Staubsauger','Herrenbekleidung','Hifi & Audio','Hifi-Lautsprecher','Hobbys','In-Ear Ohrhörer','Innenbeleuchtung','Interne SSD','Interner Speicher','Jacken, Mäntel & Westen für Damen','Kinderspielfiguren & -fahrzeuge','Klassische BHs für Damen','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Media-Streaming','Media-Streaming-Clients','Motorfahrzeugspielsets für Kinder','Netzwerk-Switches','Netzwerkgeräte','Nintendo Switch','Puppen & Zubehör','Puppensets','Rasur & Enthaarung','Sammelfiguren & Requisiten','Simlockfreie Handys','Smart Displays','Spiele','Spiele für Nintendo Switch','Spielfiguren- & Fahrzeugsets für Kinder','Spielzeug','Spielzeugfiguren & Spielwelten','Sportsocken für Herren','T-Shirts für Damen','T-Shirts für Herren','Tablet PCs','Toner','Tops, T-Shirts & Blusen für Damen','Tops, T-Shirts & Hemden für Herren','Unterwäsche & Dessous für Damen','Zubehör für Drucker','Zubehör für Staubsauger','lego', ]
+actualPrice: 7.49 EUR
 currency: EUR
-price: 7.71
+price: 7.49
 comparePrice: 9.99 EUR
 prodname: 'LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  Bauset für 7-jährige Kinder'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21'
-descuento: '22.82'
-average: '8.81038461538461'
+descuento: '25.03'
+average: '9.20874999999999'
 ---
 
-Sie können [LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  Bauset für 7-jährige Kinder](https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21) mit Preis 7.71 EUR (original: 9.99 EUR) 22.82 % Rabatt hier:
+Sie können [LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  Bauset für 7-jährige Kinder](https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21) mit Preis 7.49 EUR (original: 9.99 EUR) 25.03 % Rabatt hier:
 
 [![LEGO 42117 Technic Rennflugzeug oder Jet](https://m.media-amazon.com/images/I/518L4H0aOkL._SL400_.jpg)](https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Features a 2 in 1 plane model with opening engine covers, landing gear and spinning propeller for plane racing role play
-- Steer on the ground as you prepare for takeoff and see the propeller spin, then recreate the maneuvers of the worlds top pilots
-- With vibrant colors, sponsor details and a spinning propeller that complete a cool little gift for any occasion – it looks so real
-- Comes with Instructions PLUS available in the free LEGO Building Instructions app, it has zoom and rotate tools to help children build
-- Kids will love building this durable aircraft toy, then transforming it into a Jet Aeroplane for even more creative aerobatic fun
+- Das Rennflugzeug ist 9 cm hoch, 18 cm lang und 23 cm breit
+- Instructions PLUS ist eine interaktive Bauanleitung, mit der das Bauen dieses Modells noch mehr Spaß macht. Sie ist in der kostenlosen LEGO Building Instructions App verfügbar und enthält Vergrößerungs- und Drehfunktionen
+- Ein tolles Geschenk zu jedem Anlass – für Kinder ab 7 Jahren, die Spielzeug-Stuntflieger lieben
+- Kinder werden diese robuste Kunstflugmaschine gerne zusammenbauen und dann in einen Düsenflieger verwandeln
+- Das LEGO Technic Rennflugzeug (42117) ist ein tolles Geschenk für Nachwuchspiloten. Die kräftigen Farben, die Aufkleber der Sponsoren und der drehende Propeller lassen das Modell wie das echte Vorbild aussehen
+- Kinder, die Spielzeugflieger lieben, können unzählige Details entdecken. Aufklappbare Triebwerksabdeckungen, das Fahrwerk und der drehende Propeller ermöglichen Rollenspiele und rasante Flüge
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21)

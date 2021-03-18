@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '23.09 % rabat auf TP-Link Gigabit WLAN WiFi Powerline Adap'
-date: 2021-03-17 07:26:59
+date: 2021-03-18 07:27:30
 image: 'https://m.media-amazon.com/images/I/41PftaTEElL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08D8QTNKG-de TP-Link Gigabit WLAN WiFi Powerline Adapter Set mit...'
 sku: 'B08D8QTNKG-de'
-tags: [ '249195031','355357031','54726031','60362031','63969031','Abnehmen','Actionfiguren-Spielsets für Kinder','Activewear für Herren','Akkus, Ladegeräte & Netzteile für Kameras','Armbänder für Damen','Baumarkt','Bauspielzeug & Konstruktionsspielzeug','Bausteine','Bead Charms für Damen','Bekleidung','Blu-ray Player & Rekorder','Blu-ray-Player','Brettspiele','Bürobedarf & Schreibwaren','Charms & Beads für Damen','Computer','Computer & Zubehör','Controller für Nintendo Switch','Controller für Xbox Series X & S','Damen-BHs','Damen-Jacken','Damen-Jeanshosen','Damen-Sneaker','Damenbekleidung','Damenschmuck','Damenschuhe','Dessous, Nacht- & Lounge-Wäsche für Damen','Drogerie & Körperpflege','Einfache Auto- & Verkehrsmodelle','Elektrische Küchengeräte','Elektroinstallation','Elektronik & Foto','Elektrorasierer','Elektrorasierer für Herren','Ernährung','Ersatzakkus für Kamera & Camcorder','Fahrzeug Spielsets für Kinder','Fernseher','Fernseher & Heimkino','Fitness','Fitness-Zubehör','Fitnessreifen','Folienrasierer für Herren','Folienschweißgeräte','Games','Games, Hardware & Zubehör für PC','Gesundheit','Gesundheit & Wellness','Gewichtsmanagement','Handys & Smartphones','Handys & Zubehör','Herren','Herren-Laufschuhe','Herren-Schnürhalbschuhe','Herren-Sneaker','Herren-Straßenlaufschuhe','Herrenbekleidung','Herrenschuhe','Hifi & Audio','Hobbys','In-Ear Ohrhörer','Interne Komponenten & Hardware','Jacken, Mäntel & Westen für Damen','Kamera & Foto','Kamera- & Fotozubehör','Kamera-Akkus','Kamera-Objektive','Kinderspielfiguren & -fahrzeuge','Klassische BHs für Damen','Kombinationen','Komponenten & Ersatzteile','Kopfhörer','Kopfhörer & Zubehör','Kunstblumen & -pflanzen','Küche, Haushalt & Wohnen','Künstliche Blumenarrangements','LEGO','LEGO City','LEGO friends','Leggings für Damen','Marker & Filzstifte','Media-Streaming','Media-Streaming-Clients','Minipuppen','Minipuppen & Zubehör','Modems','Motorfahrzeugspielsets für Kinder','Nahrungsergänzung','Netzwerk','Netzwerk-Switches','Netzwerkgeräte','Netzwerkkarten','Nintendo Switch','Objektive','Objektive für Spiegelreflexkameras','Permanent-Marker','PowerLAN-Adapter','Produkte','Puppen & Zubehör','Puppensets','Rasur & Enthaarung','Regular Stores','Repeater','Router','Sammelfiguren','Sammelfiguren & Requisiten','Schmuck','Schreibwaren','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Shops','Simlockfreie Handys','Smart & Ferngesteuerte Stecker','Smartwatches','Sneaker','Sneaker & Sportschuhe für Damen','Sneaker & Sportschuhe für Herren','Spiele','Spiele für Nintendo Switch','Spielfahrzeuge für Kinder','Spielfiguren- & Fahrzeugsets für Kinder','Spielfiguren-Spielesets für Kinder','Spielzeug','Sport','Sport & Freizeit','Sport- & Outdoorschuhe für Herren','Sportsocken für Herren','Steckdosen & Zubehör','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Unterwäsche & Dessous für Damen','Vitamine & Mineralstoffe','Wackelkopffiguren','Wohnaccessoires & Deko','Xbox Series X & S','Zubehör für Nintendo Switch','Zubehör für PC','Zubehör für Xbox Series X & S','Zubehör für tragbare Geräte','tp-link', ]
+tags: [ 'Activewear für Herren','Amazon-Geräte','Amazon-Geräte & Zubehör','Armbanduhren für Herren','Bauspielzeug & Konstruktionsspielzeug','Bekleidung','Beleuchtung','Brettspiele','Chibi Figuren','Computer & Zubehör','Damen-BHs','Damen-Jacken','Damen-Kleider','Damenbekleidung','Datenspeicher','Dessous, Nacht- & Lounge-Wäsche für Damen','Dinosaurier & prähistorische Kreaturen für Kinder','Drogerie & Körperpflege','Drucker & Zubehör','Echo Smart Speaker & Displays','Einbauleuchten','Elektronik & Foto','Elektrorasierer','Elektrorasierer für Herren','Ersatzteile für Staubsauger','Fahrzeug Spielsets für Kinder','Folienrasierer für Herren','Freizeitkleider für Damen','Games','Handys & Smartphones','Handys & Zubehör','Haushaltsreiniger & Staubsauger','Herrenbekleidung','Herrenuhren','Hifi & Audio','Hifi-Lautsprecher','Hobbys','Hüllen für Tablets','In-Ear Ohrhörer','Innenbeleuchtung','Interne SSD','Interner Speicher','Jacken, Mäntel & Westen für Damen','Kinderspielfiguren & -fahrzeuge','Klassische BHs für Damen','Kopfhörer','Kopfhörer & Zubehör','Küche, Haushalt & Wohnen','Media-Streaming','Media-Streaming-Clients','Modems','Motorfahrzeugspielsets für Kinder','Netzwerk-Switches','Netzwerkgeräte','Nintendo Switch','PowerLAN-Adapter','Puppen & Zubehör','Puppensets','Rasur & Enthaarung','Regular Stores','Sammelfiguren','Sammelfiguren & Requisiten','Shops','Simlockfreie Handys','Smart Displays','Smart Speaker','Spiele','Spiele für Nintendo Switch','Spielfiguren- & Fahrzeugsets für Kinder','Spielzeug','Spielzeugfiguren & Spielwelten','Sportsocken für Herren','T-Shirts für Damen','T-Shirts für Herren','Tablet PCs','Taschen & Hüllen für Tablets','Toner','Tops, T-Shirts & Blusen für Damen','Tops, T-Shirts & Hemden für Herren','Uhren','Unterwäsche & Dessous für Damen','Wackelkopffiguren','Zubehör','Zubehör für Drucker','Zubehör für Staubsauger','Zubehör für Tablets','tp-link', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B08D8QTNKG/?tag=tolees0ca-21'
 descuento: '23.09'
-average: '111.635161290323'
+average: '110.923939393939'
 ---
 
 Es gibt ein [TP-Link Gigabit WLAN WiFi Powerline Adapter Set mit Steckdose AV1300 AC1200 TL-WPA8631P KIT  ideal für Media-Streaming  Wifi Clone  MU-MIMO  App Steuerung  4 Gigabit Ports  Plug & Play  AP Modus  weiß](https://www.amazon.de/dp/B08D8QTNKG/?tag=tolees0ca-21) mit aktuellem Preis 99.9 EUR (original: 129.9 EUR) 23.09 % Rabatt hier:
@@ -28,14 +28,14 @@ Es gibt ein [TP-Link Gigabit WLAN WiFi Powerline Adapter Set mit Steckdose AV130
 
 ℹ️:
 
-- Wi-Fi Auto-Sync - Automatische Synchronisierung aller Änderung der Einstellungen, z.B. SSID und Passwort Ihres WLANs
-- Wi-Fi-Clone - Einfaches Hinzufügen von neuen Adaptern durch Übernahme der WLAN-Einstellungen auf Tastendruck, keine zusätzliche Konfiguration notwendig
+- OneMeshTM - Kompatibel mit OmeMesh für nahtlose Übertragung auf das ganze Zuhause trotz Bewegung
 - Plug and Play - Einfache Inbetriebnahme in Minuten
-- Integrierte Steckdose - Integrierte Steckdose für mehr Flexibilität
-- Simultanes Dualband nach 802.11ac - Bis zu 450 Mbit/s auf 2,4 GHz und 867 Mbit/s auf 5 GHz, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming*
+- Wi-Fi Auto-Sync - Automatische Synchronisierung aller Änderung der Einstellungen, z.B. SSID und Passwort Ihres WLANs
 - 3 × Gigabit Ports - Drei Gigabit-LAN-Ports zum Anschließen von Fernsehern, Spielekonsolen
 - HomePlug AV2 Standard - Bis zu 1,3 Gbit/s über bestehende Stromleitungen*
+- Simultanes Dualband nach 802.11ac - Bis zu 450 Mbit/s auf 2,4 GHz und 867 Mbit/s auf 5 GHz, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming*
 - 2 × 2 MIMO - Effiziente Übertragungen für stabile Verbindung gleichzeitig
-- OneMeshTM - Kompatibel mit OmeMesh für nahtlose Übertragung auf das ganze Zuhause trotz Bewegung
+- Wi-Fi-Clone - Einfaches Hinzufügen von neuen Adaptern durch Übernahme der WLAN-Einstellungen auf Tastendruck, keine zusätzliche Konfiguration notwendig
+- Integrierte Steckdose - Integrierte Steckdose für mehr Flexibilität
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08D8QTNKG/?tag=tolees0ca-21)
