@@ -28,7 +28,7 @@ Sie können [Samsung 870 QVO 4TB SATA 2 5 Zoll Internes Solid State Drive  SSD  
 
 ℹ️:
 
-- Hinweis:- Damit ein Betriebssystem Speichergeräte mit Kapazitäten von mehr als 2 Terabyte vollständig unterstützt, muss das Gerät mit dem Partitionierungsschema GUID Partition Table (GPT) initialisiert werden. Daher ist die SSD ab Werk in zwei Partitionen unterteilt. Um die SSD zu verwenden, kann diese mit Windows-eigenen Tools neu initialisiert und in diesem Zuge auch partitioniert werden.
 - Konnektivitäts technologie: Serial ATA III
+- Hinweis:- Damit ein Betriebssystem Speichergeräte mit Kapazitäten von mehr als 2 Terabyte vollständig unterstützt, muss das Gerät mit dem Partitionierungsschema GUID Partition Table (GPT) initialisiert werden. Daher ist die SSD ab Werk in zwei Partitionen unterteilt. Um die SSD zu verwenden, kann diese mit Windows-eigenen Tools neu initialisiert und in diesem Zuge auch partitioniert werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B089QYSMJT/?tag=tolees0ca-21)

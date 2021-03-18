@@ -28,8 +28,8 @@ Sie können [Samsung Schnellladegerät  25 W  USB-Port Typ C  ohne Kabel ](https
 
 ℹ️:
 
-- Verwenden Sie ein Kabel von Samsung USB Typ C für maximale Ladegeschwindigkeit. Adaptive Ladung. Genießen Sie eine adaptive Ladung. Wenn das Ladegerät die maximale Leistung von 25 W für kompatible Geräte liefert, kann es auch an die Fähigkeiten anderer Modelle angepasst werden
 - Schnelles Laden, damit Sie nie verpassen. Geben Sie Ihrem Produkt die Ladeleistung, die es verdient, mit dem neuen ultraschnellen Ladegerät mit 25 W
+- Verwenden Sie ein Kabel von Samsung USB Typ C für maximale Ladegeschwindigkeit. Adaptive Ladung. Genießen Sie eine adaptive Ladung. Wenn das Ladegerät die maximale Leistung von 25 W für kompatible Geräte liefert, kann es auch an die Fähigkeiten anderer Modelle angepasst werden
 - Die Qualität von Samsung ermöglicht es Ihnen, Ihr Telefon anzuschließen, um Daten mit Ihrem Telefon zu tauschen.
 - SICHERHEIT UND QUALITÄT - Mit diesem Original Ladegerät und Kabel sind Sie sicher auf die Einhaltung und die einwandfreie Funktion - ob beim Laden Ihres Handys oder beim Datenaustausch zwischen dem Telefon und dem Computer
 

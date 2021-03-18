@@ -28,8 +28,8 @@ Sie können [Funko - POP! Games: The Last of Us- Ellie](https://www.amazon.de/dp
 
 ℹ️:
 
+- Von The Last Of Us, Ellie, zur stilisierten POP-Vinyl Figur von Funko!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Schauen Sie sich jetzt die anderen The Last Of Us-Figuren von Funko an! Sammeln Sie alle!
-- Von The Last Of Us, Ellie, zur stilisierten POP-Vinyl Figur von Funko!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B082FRMFP3/?tag=tolees0ca-21)

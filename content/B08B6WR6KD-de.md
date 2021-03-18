@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '32.03 % rabat auf Ford  Harrison; Stevens  Dan; Sanders  C'
-date: 2021-03-16 14:27:10
+date: 2021-03-18 21:15:27
 image: 'https://m.media-amazon.com/images/I/51qR0u1r81L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08B6WR6KD-de Ford Harrison; Stevens Dan; Sanders Christopher - Ruf der...'
 sku: 'B08B6WR6KD-de'
+tags: [ 'Action & Abenteuer','DVD & Blu-ray','Featured Categories','Filme','ford, harrison; stevens, dan; sanders, christopher', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ford, Harrison; Stevens, Dan; Sanders, Christopher'
 buyurl: 'https://www.amazon.de/dp/B08B6WR6KD/?tag=tolees0ca-21'
 descuento: '32.03'
-average: '9.8135971223019'
+average: '9.7707092198579'
 ---
 
 Es gibt ein [Ford  Harrison; Stevens  Dan; Sanders  Christopher - Ruf der Wildnis [DVD]](https://www.amazon.de/dp/B08B6WR6KD/?tag=tolees0ca-21) mit aktuellem Preis 6.79 EUR (original: 9.99 EUR) 32.03 % Rabatt hier:
