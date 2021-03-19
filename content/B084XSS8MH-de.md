@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '26.17 % rabat auf LG Electronics - LG 65UN71006LB 164 cm  '
-date: 2021-03-18 00:04:22
+date: 2021-03-19 01:30:57
 image: 'https://m.media-amazon.com/images/I/41CchkAaKtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B084XSS8MH-de LG Electronics - LG 65UN71006LB 164 cm 65 Zoll UHD...'
 sku: 'B084XSS8MH-de'
+tags: [ 'Elektronik & Foto','Fernseher','Fernseher & Heimkino','lg electronics', ]
 actualPrice: 626.78 EUR
 currency: EUR
 price: 626.78
@@ -27,10 +28,10 @@ Es gibt ein [LG Electronics - LG 65UN71006LB 164 cm  65 Zoll  UHD Fernseher  4K 
 
 ℹ️:
 
-- Prozessor: Quad Core Prozessor mit AI Sound
 - Bild und Ton: Optimale HDR-Unterstützung durch Active HDR mit HDR10 Pro und HLG, 4K Upscaler, 2.0 Soundsystem mit 20 Watt
-- 4K UHD Smart TV mit 164 cm (65 Zoll) Bildschirmdiagonale, Außenmaße 146,8 cm x 91,7 cm, VESA Norm: 300 x 300 mm
+- Prozessor: Quad Core Prozessor mit AI Sound
 - Tunertyp und Konnektivität: Single Triple Tuner: 1x (DVB-T2 HD/-C/-S2), CI+ 1. 4, WLAN (802. 11ac), LAN, Bluetooth
 - Smart TV: webOS 5.0 (LG ThinQ) mit Google Assistant und Alexa-Vorbereitung (optionale LG Magic Remote Fernbedienung erforderlich), Apple AirPlay 2-kompatibel, Home Dashboard
+- 4K UHD Smart TV mit 164 cm (65 Zoll) Bildschirmdiagonale, Außenmaße 146,8 cm x 91,7 cm, VESA Norm: 300 x 300 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084XSS8MH/?tag=tolees0ca-21)

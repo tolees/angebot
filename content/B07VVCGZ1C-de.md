@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Skechers Damen Go Walk Smart Influence S mit 29.96 % Rabatt'
-date: 2021-03-17 23:52:22
+date: 2021-03-19 01:33:24
 image: 'https://m.media-amazon.com/images/I/41UXpnoNiBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07VVCGZ1C-de Skechers Damen Go Walk Smart Influence Sneakers Schwarz 39 EU'
 sku: 'B07VVCGZ1C-de'
+tags: [ 'Damen-Sneaker','Damenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Damen','skechers', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99
