@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Der Android mit 67.51 % Rabatt'
-date: 2021-03-17 23:43:52
+date: 2021-03-19 00:58:52
 image: 'https://m.media-amazon.com/images/I/51C8KFZu35L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B077TRDGGQ-de Der Android'
 sku: 'B077TRDGGQ-de'
+tags: [ 'DVD & Blu-ray','Featured Categories','Filme','Science Fiction', ]
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B077TRDGGQ/?tag=tolees0ca-21'
 descuento: '67.51'
-average: '2.13651162790697'
+average: '2.09266666666666'
 ---
 
 Sie können [Der Android](https://www.amazon.de/dp/B077TRDGGQ/?tag=tolees0ca-21) mit Preis 1.15 EUR (original: 3.54 EUR) 67.51 % Rabatt hier:
