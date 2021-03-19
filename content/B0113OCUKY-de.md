@@ -28,9 +28,9 @@ Sie können [Nike Damen WMNS Tanjun Sneaker  Wolfgrau Weiß  40 EU](https://www.
 
 ℹ️:
 
-- Ziel geschlecht: female
-- schlichtes design
 - Stoff typ: Sonstiges Material
+- schlichtes design
+- Ziel geschlecht: female
 - atmungsaktives textilobermaterial
 - angenehm dämpfende schaumstoff-mittelsohle
 

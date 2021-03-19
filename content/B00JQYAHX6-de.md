@@ -28,10 +28,10 @@ Es gibt ein [Maped M196310 - Zirkelkasten Stop System Innovation  3-teilig  hell
 
 ℹ️:
 
-- robustes Etui
-- Schenkelblockierung
 - ergonomischer Griff
 - geschützte Mine und Spitze
+- robustes Etui
 - mit Ersatzmine
+- Schenkelblockierung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JQYAHX6/?tag=tolees0ca-21)

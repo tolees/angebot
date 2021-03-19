@@ -28,10 +28,10 @@ Es gibt ein [AmazonBasics - Amazon Basics Schere mit weichem Griff  20 cm  Tita
 
 ℹ️:
 
-- Set mit 3 Scheren mit einer Größe von 20 cm, zum Schneiden von Papier, Karton, Stoff, Fotos und vielem mehr
-- Die Scherenblätter aus Titan bleiben selbst nach mehr als 100.000 Schnitten noch scharf und übertreffen damit Scherenblätter aus Edelstahl
-- Maße: ca. 21,1 x 7,8 x 1,1 cm; außer Reichweite von Kindern aufbewahren
 - Mit verstellbarer Schraube aus Messing und Edelstahl für erhöhte Widerstandsfähigkeit und einfaches Öffnen und Schließen
+- Die Scherenblätter aus Titan bleiben selbst nach mehr als 100.000 Schnitten noch scharf und übertreffen damit Scherenblätter aus Edelstahl
+- Set mit 3 Scheren mit einer Größe von 20 cm, zum Schneiden von Papier, Karton, Stoff, Fotos und vielem mehr
+- Maße: ca. 21,1 x 7,8 x 1,1 cm; außer Reichweite von Kindern aufbewahren
 - Weiche Griffe für höheren Benutzerkomfort; können sowohl von Rechts- als auch Linkshändern verwendet werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BRGU8R0/?tag=tolees0ca-21)

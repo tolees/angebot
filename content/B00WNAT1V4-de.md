@@ -28,10 +28,10 @@ Es gibt ein [DENKRIESEN - Stadt Land VOLLPFOSTEN® - Wissen ist Macht  Einstein 
 
 ℹ️:
 
-- 😎 VIELSEITIG UND MODERN - *Das wahrscheinlich vielseitigste Stadt-Land-Fluss aller Zeiten*. Die 40 neuen verschiedenen Kategorien verzaubern euren Spieleabend und zaubern euch und euren Freunden ein Lächeln ins Gesicht.
-- 🤓 SPEZIALFELDER UND NEUE ABC-LEISTE - Wie bei allen STADT LAND VOLLPFOSTEN Blöcken gibt es Spezialfelder mit doppelter Punktzahl sowie eine innovative ABC-Leiste zur Buchstabenermittlung sodass es keine Chance mehr für Schummler gibt. 43 verschiedenen Kategorien, 50 Blatt für ein extra langes Spielerlebnis!
-- 🎁 KULTIGE GESCHENKIDEE - Dieser Stadt-Land-VOLLPFOSTEN Block sorgt mit Sicherheit für ein Lächeln beim Verschenken und ist eine ideale, witzige Geschenkidee zum Geburtstag, zu Ostern oder zu Weihnachten. Stadt-Land-Fluss kennt schließlich jeder und wer hätte es gedacht, dass man diesen altbekannten Spieleklassiker so schön "verpacken" kann. Nach dem Auspacken kann direkt losgespielt werden und der Spaß kann beginnen!
 - 🚀 OFFIZIELLE ERWEITERUNG DES SPIELS STADT LAND VOLLPFOSTEN DIE EINSTEIN EDITION - Wissen ist Macht - Die zweite Auflage des XXL-Kult-Stadt-Land-Fluss mit vielen neuen und witzigen Kategorien.
+- 🎁 KULTIGE GESCHENKIDEE - Dieser Stadt-Land-VOLLPFOSTEN Block sorgt mit Sicherheit für ein Lächeln beim Verschenken und ist eine ideale, witzige Geschenkidee zum Geburtstag, zu Ostern oder zu Weihnachten. Stadt-Land-Fluss kennt schließlich jeder und wer hätte es gedacht, dass man diesen altbekannten Spieleklassiker so schön "verpacken" kann. Nach dem Auspacken kann direkt losgespielt werden und der Spaß kann beginnen!
 - 👌 DENKRIESEN ORIGINAL - Hochwertiges Markenspiel in coolem Design aus dem norddeutschen Kult-Spieleverlag. DENKRIESEN steht für altbekannte Spieleklassiker in neuem Gewand und echte Bestseller-Spiele mit Kult-Faktor. Wie bei allen DENKRIESEN-Produkten wird hier Qualität GROß geschrieben.
+- 🤓 SPEZIALFELDER UND NEUE ABC-LEISTE - Wie bei allen STADT LAND VOLLPFOSTEN Blöcken gibt es Spezialfelder mit doppelter Punktzahl sowie eine innovative ABC-Leiste zur Buchstabenermittlung sodass es keine Chance mehr für Schummler gibt. 43 verschiedenen Kategorien, 50 Blatt für ein extra langes Spielerlebnis!
+- 😎 VIELSEITIG UND MODERN - *Das wahrscheinlich vielseitigste Stadt-Land-Fluss aller Zeiten*. Die 40 neuen verschiedenen Kategorien verzaubern euren Spieleabend und zaubern euch und euren Freunden ein Lächeln ins Gesicht.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00WNAT1V4/?tag=tolees0ca-21)
