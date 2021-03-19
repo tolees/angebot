@@ -28,13 +28,13 @@ Es gibt ein [Kosmos 690182 - Ubongo - Das Duell](https://www.amazon.de/dp/B0012N
 
 ℹ️:
 
-- Wer wird die Fläche als Erster mit den Legeteilen belegen können?
 - Knobelspaß für 2 Spieler ab 8 Jahren
-- Die Devise lautet: Schnell aufgebaut. Schnell losgespielt
-- Ubongo - Das Duell: spannendes Knobelspiel für zwei
-- Aus der erfolgreichen Brettspiel-Familie Ubongo
 - Kompaktes Format: Ideal zum Mitnehmen
-- Fördert spielerisch Geschicklichkeit und logisches Denkvermögen
 - Messt euch in einem direkten Wettstreit - mit noch verrückter geformten Legeteilen
+- Fördert spielerisch Geschicklichkeit und logisches Denkvermögen
+- Aus der erfolgreichen Brettspiel-Familie Ubongo
+- Die Devise lautet: Schnell aufgebaut. Schnell losgespielt
+- Wer wird die Fläche als Erster mit den Legeteilen belegen können?
+- Ubongo - Das Duell: spannendes Knobelspiel für zwei
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0012NNTSY/?tag=tolees0ca-21)
