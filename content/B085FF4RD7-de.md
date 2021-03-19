@@ -28,10 +28,10 @@ Sie können [realme 6 6 5 Zoll FHD+ Display DualSIM Smartphone 8GB RAM + 128GB R
 
 ℹ️:
 
-- 4. 300 mAh Akkukapazität mit 30W FlashCharge Ladefunktion
-- 6, 5 Zoll großes Display mit 2400 x 1080 Pixeln und 405 ppi
+- 64 MP Quad-AI-Kamera und 16 MP Selfiekamera
 - MediaTek Helio G90T Prozessor und ARM Mali G76 Grafikchip
 - FHD+ IPS-Display mit 90 Hz Bildwiederholungsrate
-- 64 MP Quad-AI-Kamera und 16 MP Selfiekamera
+- 6, 5 Zoll großes Display mit 2400 x 1080 Pixeln und 405 ppi
+- 4. 300 mAh Akkukapazität mit 30W FlashCharge Ladefunktion
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085FF4RD7/?tag=tolees0ca-21)
