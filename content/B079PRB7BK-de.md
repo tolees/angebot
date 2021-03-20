@@ -29,8 +29,8 @@ Sie können [POSUGEAR Audio Y Splitter Adapter  3.5mm Buchse auf Doppel 3.5mm Kl
 ℹ️:
 
 - Ermöglicht die Nutzung mit Online-Gaming, Medien und VoIP-Applikationen wie Skype, Facebook Messenger, MSN Messenger, Wechat, Yahoo, Google Voice, Viber und so weiter.
-- Geeignet zum Anschluss eines Gaming-Headsets mit CTIA-Norm Audio Stecker (Audio & Mikrofon) an ein Tablet, Notebook oder PC mit separater Mikrofon und Audioanschlüsse.
 - Vergoldung widersteht Korrosion und verbessert die Signalleistung. Gehäuse aus Aluminiumlegierung und langlebiges flexibles Kabel für tragbare und unbegrenzte Biegung.
+- Geeignet zum Anschluss eines Gaming-Headsets mit CTIA-Norm Audio Stecker (Audio & Mikrofon) an ein Tablet, Notebook oder PC mit separater Mikrofon und Audioanschlüsse.
 - Was Sie erhalten: 1x 3.5 mm Stecker auf Dual 3.5 mm weiblicher Kopfhörer Mic Audio Y Splitter Kabel. Unsere 18-monatige Garantie und freundlicher Kundendienst.
 - Headset Mikrofon Adapter. Mit diesem stereo Audio y Adapter können Sie Ihrem 4-Position Kopfhöre mit dem Computer und Laptop einfach verbinden, der separates Mikrofon und Audioanschlüsse hat.
 

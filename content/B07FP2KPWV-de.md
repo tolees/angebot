@@ -30,8 +30,8 @@ Es gibt ein [LEGO 42092 Technic Rettungshubschrauber  2-in-1 Spielzeugflugzeug  
 
 - Öffne die Seitentüren und lasse die Winde mit der Rettungstrage herab
 - Enthält drehbare Rotoren, sich öffnende Seiten- und Hecktüren, eine funktionierende Seilwinde und eine Rettungstrage
+- Dieser Lego Technic Spielzeughubschrauber soll ein fesselndes und lohnendes Bauerlebnis vermitteln
 - Hat ein cooles Farbmuster in Rot, Weiß und Schwarz
 - Dieses leicht zu bauende Set ist ideal für angehende Lego Technic Baumeister
-- Dieser Lego Technic Spielzeughubschrauber soll ein fesselndes und lohnendes Bauerlebnis vermitteln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP2KPWV/?tag=tolees0ca-21)

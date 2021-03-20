@@ -29,9 +29,9 @@ Sie können [Pentel Kreativ-Set  6-teilig  ideal für Handlettering  Bullet Jour
 ℹ️:
 
 - 1 Pointliner Fineliner mit pigmentierter Tinte
-- 1 Hybrid Milky Gelroller (weiß)
 - ideal für Trend-Themen wie Handlettering, Bullet Journal, Sketch Notes u. v. m.
 - 3 Brush Sign Pen Faserschreiber mit pinselähnlicher Spitze (schwarz, hellgrau, burgunderrot)
+- 1 Hybrid Milky Gelroller (weiß)
 - 1 Hybrid Dual Metallic Glitzer Gelroller (schwarz-glitzerrot)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B086N5F1CQ/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [Funko 46994 POP Patronus Harry Potter Sammelbares Spielzeug  Mehrfa
 
 ℹ️:
 
-- Funko POP Is the 2018 Peoples Choice Awards Toy of the year
-- From Harry Potter, Patronus Harry Potter, as a stylized POP vinyl from Funko
 - Figure stands 9 cm and comes in a window display box
+- From Harry Potter, Patronus Harry Potter, as a stylized POP vinyl from Funko
 - Check out the other Harry Potter figures from Funko Collect them all
+- Funko POP Is the 2018 Peoples Choice Awards Toy of the year
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082LWLTPS/?tag=tolees0ca-21)
