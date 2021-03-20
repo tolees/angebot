@@ -1,27 +1,28 @@
 ---
 layout: post
-title: '26.81 % rabat auf Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black'
-date: 2021-03-15 01:17:38
+title: '22.37 % rabat auf Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black'
+date: 2021-03-20 09:30:43
 image: 'https://m.media-amazon.com/images/I/41AuSyIzFxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HJDQXBD-de Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black ohne Simlock...'
 sku: 'B08HJDQXBD-de'
-actualPrice: 475.0 EUR
+tags: [ 'Elektronik & Foto','Handys & Smartphones','Handys & Zubehör','Simlockfreie Handys','xiaomi', ]
+actualPrice: 503.82 EUR
 currency: EUR
-price: 475.0
+price: 503.82
 comparePrice: 649.0 EUR
 prodname: 'Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black ohne Simlock  Alexa Hands-Free  ohne Branding'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B08HJDQXBD/?tag=tolees0ca-21'
-descuento: '26.81'
-average: '573.554487179485'
+descuento: '22.37'
+average: '571.811124999998'
 ---
 
-Es gibt ein [Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HJDQXBD/?tag=tolees0ca-21) mit aktuellem Preis 475.0 EUR (original: 649.0 EUR) 26.81 % Rabatt hier:
+Es gibt ein [Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HJDQXBD/?tag=tolees0ca-21) mit aktuellem Preis 503.82 EUR (original: 649.0 EUR) 22.37 % Rabatt hier:
 
 [![Xiaomi Mi 10T Pro 8GB+256GB Cosmic Black](https://m.media-amazon.com/images/I/41AuSyIzFxL._SL400_.jpg)](https://www.amazon.de/dp/B08HJDQXBD/?tag=tolees0ca-21)
 
