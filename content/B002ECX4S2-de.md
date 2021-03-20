@@ -28,9 +28,9 @@ Es gibt ein [Beurer PM 18 Pulsuhr  Messung ohne Brustgurt ](https://www.amazon.d
 
 ℹ️:
 
-- Countdown-Timer
 - Zielorientierte Trainingszonenvorschläge
 - Kalorienverbrauch und Fettverbrennung
+- Countdown-Timer
 - Einfache Trainings- und Pulskontrolle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002ECX4S2/?tag=tolees0ca-21)
