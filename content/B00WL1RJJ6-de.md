@@ -28,10 +28,10 @@ Es gibt ein [Schiebeständer / Tellerständer / Tellerhalter XXL - Ständer / Ha
 
 ℹ️:
 
-- sehr stabil und verstellbar
-- 10 Stück ordentlich verpackt
-- auch für Blu-ray, Video, CD, Steelbox, Steelbook
 - transparenter Tellerständer
+- auch für Blu-ray, Video, CD, Steelbox, Steelbook
 - 10 cm hoch!
+- 10 Stück ordentlich verpackt
+- sehr stabil und verstellbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00WL1RJJ6/?tag=tolees0ca-21)

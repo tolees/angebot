@@ -28,10 +28,10 @@ Es gibt ein [Tommy Hilfiger ETON CC FLAP AND COIN POCKET AM0AM00652 Herren Geldb
 
 ℹ️:
 
-- Verschlussart: offen
-- Anzahl Kreditkartenfächer: 8
 - Außenmaße (LxBxH): 12.5cm x 9.5cm x 2cm
-- Serie: Eton
 - Ausstattung: Netzfach
+- Serie: Eton
+- Anzahl Kreditkartenfächer: 8
+- Verschlussart: offen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00X0W9Y6Q/?tag=tolees0ca-21)

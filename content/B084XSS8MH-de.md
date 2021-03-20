@@ -29,8 +29,8 @@ Es gibt ein [LG Electronics - LG 65UN71006LB 164 cm  65 Zoll  UHD Fernseher  4K 
 ℹ️:
 
 - Tunertyp und Konnektivität: Single Triple Tuner: 1x (DVB-T2 HD/-C/-S2), CI+ 1. 4, WLAN (802. 11ac), LAN, Bluetooth
-- Smart TV: webOS 5.0 (LG ThinQ) mit Google Assistant und Alexa-Vorbereitung (optionale LG Magic Remote Fernbedienung erforderlich), Apple AirPlay 2-kompatibel, Home Dashboard
 - Bild und Ton: Optimale HDR-Unterstützung durch Active HDR mit HDR10 Pro und HLG, 4K Upscaler, 2.0 Soundsystem mit 20 Watt
+- Smart TV: webOS 5.0 (LG ThinQ) mit Google Assistant und Alexa-Vorbereitung (optionale LG Magic Remote Fernbedienung erforderlich), Apple AirPlay 2-kompatibel, Home Dashboard
 - 4K UHD Smart TV mit 164 cm (65 Zoll) Bildschirmdiagonale, Außenmaße 146,8 cm x 91,7 cm, VESA Norm: 300 x 300 mm
 - Prozessor: Quad Core Prozessor mit AI Sound
 
