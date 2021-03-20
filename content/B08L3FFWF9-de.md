@@ -28,10 +28,10 @@ Sie können [Potensic Mini Drohne für Kinder und Anfänger mit 3 Akkus  RC Quad
 
 ℹ️:
 
-- 【Absolut Sicher und Stabil】: Das vollständig abgedeckte Gehäuse aus ungiftigem Weichplastik reduziert die Auswirkungen fallender Flugzeugkollisionen. Allseitige Schutzvorrichtungen schützen Drohnenpropeller vor dem Aufprall auf Gegenstände oder Kinder. Es ist absolut sicher für Kinder, damit zu spielen. Die Drohne fliegt dank der neuesten 6-Achsen-Kreisel-Flugsteuerungssysteme stabiler in der Luft.
 - 【Automatisches Halten der Höhe】: Die Mini Drohne für Kinder behält ihre aktuelle Höhe bei, wenn Sie den Gashebel der Fernbedienung loslassen. Mit dieser Funktion können Anfänger und Kinder leichter fliegen und Drohnen steuern lernen.
-- 【Mini Drohne mit Längerer Flugzeit】: 3 wiederaufladbare Batterien erreichen nach vollständiger Aufladung eine Nutzungsdauer von fast 18 Minuten. Genießen Sie ein längeres Flugerlebnis und haben Sie Spaß!
 - 【Alarm bei Schwacher Batterie】: Die Mini Drohne ist mit einem Alarmsystem für schwache Batterie ausgestattet, das Sie bei niedrigem Batteriestand während des Flugs warnt. In dringenden Situationen können Sie auch einen Notstopp einlegen. Beachten Sie jedoch, dass die Mini Drohne dadurch beschädigt werden kann.
 - 【Einfach zu Bedienen】: Im Headless Modus können Sie die Mini Drohne problemlos fliegen, ohne sich um die Richtung kümmern zu müssen. Die Flugrichtung der Drohne hängt von der Ausrichtung des Piloten ab. Für diese Mini Drohne stehen 3 einstellbare Geschwindigkeiten zur Verfügung. Wählen Sie verschiedene Geschwindigkeiten, um die Mini-Drohne für Kinder und Anfänger besser steuern zu können.
+- 【Mini Drohne mit Längerer Flugzeit】: 3 wiederaufladbare Batterien erreichen nach vollständiger Aufladung eine Nutzungsdauer von fast 18 Minuten. Genießen Sie ein längeres Flugerlebnis und haben Sie Spaß!
+- 【Absolut Sicher und Stabil】: Das vollständig abgedeckte Gehäuse aus ungiftigem Weichplastik reduziert die Auswirkungen fallender Flugzeugkollisionen. Allseitige Schutzvorrichtungen schützen Drohnenpropeller vor dem Aufprall auf Gegenstände oder Kinder. Es ist absolut sicher für Kinder, damit zu spielen. Die Drohne fliegt dank der neuesten 6-Achsen-Kreisel-Flugsteuerungssysteme stabiler in der Luft.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08L3FFWF9/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Tommy Hilfiger Herren Baseball Cap CLASSIC BB  Gr. One size  Schwar
 
 ℹ️:
 
+- Tommy-Hilfiger-Logo hinten
 - Reine Baumwolle
 - Verstellbarer Verschluss mit Tommy-Hilfiger-Logo
 - Knopf- und Ösendetail oben
 - Tommy-Hilfiger-Stickerei vorne
-- Tommy-Hilfiger-Logo hinten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016QM6OIC/?tag=tolees0ca-21)
