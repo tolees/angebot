@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubiquiti UniFi Switch USW-Flex-Mini mit 28.89 % Rabatt'
-date: 2021-03-18 18:56:03
+date: 2021-03-20 20:48:14
 image: 'https://m.media-amazon.com/images/I/21qNn5qh4BL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ubiquiti'
 buyurl: 'https://www.amazon.de/dp/B086GNGL77/?tag=tolees0ca-21'
 descuento: '28.89'
-average: '38.3590740740741'
+average: '38.1319642857143'
 ---
 
 Sie können [Ubiquiti UniFi Switch USW-Flex-Mini](https://www.amazon.de/dp/B086GNGL77/?tag=tolees0ca-21) mit Preis 32.0 EUR (original: 45.0 EUR) 28.89 % Rabatt hier:

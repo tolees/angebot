@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76897 Speed Champions 1985 Audi Spo mit 26.56 % Rabatt'
-date: 2021-03-18 13:19:19
+date: 2021-03-20 20:50:52
 image: 'https://m.media-amazon.com/images/I/51zBhBOMzzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W6Q9G1R/?tag=tolees0ca-21'
 descuento: '26.56'
-average: '17.3955806451614'
+average: '17.3781730769232'
 ---
 
 Sie können [LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1  Rennwagenspielzeug mit Rennfahrer Minifigur  Rennwagen Bauset](https://www.amazon.de/dp/B07W6Q9G1R/?tag=tolees0ca-21) mit Preis 14.68 EUR (original: 19.99 EUR) 26.56 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [LEGO 76897 Speed Champions 1985 Audi Sport Quattro S1  Rennwagenspi
 
 ℹ️:
 
-- Aus Anlass des 35-jährigen Bestehens des quattro, einem der Könige der Rallye-Rennstrecke der Gruppe B, wurde ein klassischer Rallyewagen wiedergeboren
-- Das Modell spiegelt das Original mit seiner berühmten gelb-weißen Lackierung, dem Frontmotor, der aufgebauten Stoßstange und dem riesigen Heckflügel hervorragend wider
-- Enthält 1 sammelbare LEGO-Fahrer-Minifigur in einem authentischen Audi-Rennanzug
 - Für Autofans sind die neuen LEGO Speed ​​Champions Repliken für Januar 2020 25 Prozent größer und realistischer als je zuvor
 - Bauen Sie Ihr eigenes Modell des Autos, dessen technische Merkmale schon allein aufgrund ihres extremen Charakters einen Platz in der Rallye-Geschichte einnehmen
+- Enthält 1 sammelbare LEGO-Fahrer-Minifigur in einem authentischen Audi-Rennanzug
+- Aus Anlass des 35-jährigen Bestehens des quattro, einem der Könige der Rallye-Rennstrecke der Gruppe B, wurde ein klassischer Rallyewagen wiedergeboren
+- Das Modell spiegelt das Original mit seiner berühmten gelb-weißen Lackierung, dem Frontmotor, der aufgebauten Stoßstange und dem riesigen Heckflügel hervorragend wider
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W6Q9G1R/?tag=tolees0ca-21)

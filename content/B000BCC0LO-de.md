@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.88 % rabat auf D-Link DGS-108 8-Port Layer2 Gigabit Swi'
-date: 2021-03-18 18:47:07
+date: 2021-03-20 20:33:42
 image: 'https://m.media-amazon.com/images/I/41xLR-AuR9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.de/dp/B000BCC0LO/?tag=tolees0ca-21'
 descuento: '20.88'
-average: '25.1265536723165'
+average: '25.1375418994414'
 ---
 
 Es gibt ein [D-Link DGS-108 8-Port Layer2 Gigabit Switch  bis zu 2000 Mbit/s Datenübertragung pro Port  Non-Blocking-Architektur  lüfterlos  Metallgehäuse  schwarz](https://www.amazon.de/dp/B000BCC0LO/?tag=tolees0ca-21) mit aktuellem Preis 26.11 EUR (original: 33.0 EUR) 20.88 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [D-Link DGS-108 8-Port Layer2 Gigabit Switch  bis zu 2000 Mbit/s Dat
 
 ℹ️:
 
-- Arbeitet geräuschlos durch eine lüfterlose Bauweise
 - Sicheres Store-and-Forward Weiterleitungsverfahren
+- Arbeitet geräuschlos durch eine lüfterlose Bauweise
+- Energiesparende Funktionen mit D-Link Green
 - Im Full Duplex Modus bis zu 2000 Mbit/s pro Port
 - Automatische MDI/MDIX-Erkennung an allen Anschlüssen
-- Energiesparende Funktionen mit D-Link Green
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000BCC0LO/?tag=tolees0ca-21)
