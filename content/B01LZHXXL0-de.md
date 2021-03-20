@@ -28,10 +28,10 @@ Es gibt ein [Simplicol Textilfarbe expert Enzian-Blau 1709: Farbe für kreatives
 
 ℹ️:
 
-- FÄRBUNG: Zum Umfärben, Einfärben und Auffrischen von Stoffen aus Wolle, Seide, Baumwolle, Leinen, Viskose und Mischgewebe geeignet. Nicht geeignet für reine Synthetics wie Polyester, Polyamid, Acryl
+- FARBFIXIERER: Steigern Sie Farbbrillanz und Haltbarkeit durch Zugabe von flüssigem Simplicol Farb Fixierer Expert (separat erhältlich) und fixieren Sie Ihre Textilien während des Färbevorgangs
 - ANWENDUNG: Mit einer Packung ca. 300g Stoff (1 Jeans oder 2 T-Shirts) färben. Dazu Farbpulver in die Waschtrommel stellen, Pflegeleicht-Programm (60 Grad) starten und im Anschluss bei max. 40 Grad nachwaschen. Von Kindern fernhalten
 - QUALITÄT: Hautfreundlich, allergikerfreundlich, schadstoffgeprüft (ungiftig): Durch die Hohenstein-Institute geprüft. Qualitäts Farbstoffe aus Deutschland - Made in Germany - waschmaschinenfest ohne Rückstände
 - TEXTILIEN FÄRBEN: Die Textilfarben eignen sich als Färbemittel (Farberneuerung, kreative Neufärbung, Batiken, Dip-Dye) zum Färben in der Maschine, Schüssel oder im Topf in ein intensives und leuchtendes Blau
-- FARBFIXIERER: Steigern Sie Farbbrillanz und Haltbarkeit durch Zugabe von flüssigem Simplicol Farb Fixierer Expert (separat erhältlich) und fixieren Sie Ihre Textilien während des Färbevorgangs
+- FÄRBUNG: Zum Umfärben, Einfärben und Auffrischen von Stoffen aus Wolle, Seide, Baumwolle, Leinen, Viskose und Mischgewebe geeignet. Nicht geeignet für reine Synthetics wie Polyester, Polyamid, Acryl
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01LZHXXL0/?tag=tolees0ca-21)
