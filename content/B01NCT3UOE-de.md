@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Kosmos 604288 AllesKönnerKiste Lichterke mit 24.01 % Rabatt'
-date: 2021-03-18 07:22:34
+title: 'Kosmos 604288 AllesKönnerKiste Lichterke mit 29.86 % Rabatt'
+date: 2021-03-20 15:16:39
 image: 'https://m.media-amazon.com/images/I/51ptp8FtsgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01NCT3UOE-de Kosmos 604288 AllesKönnerKiste Lichterkette zum...'
 sku: 'B01NCT3UOE-de'
-actualPrice: 15.19 EUR
+tags: [ 'Basteln & Malen','Bastelsets für Kinder','Papierbastelsets für Kinder','Spielzeug','kosmos', ]
+actualPrice: 14.02 EUR
 currency: EUR
-price: 15.19
+price: 14.02
 comparePrice: 19.99 EUR
 prodname: 'Kosmos 604288 AllesKönnerKiste Lichterkette zum Selbermachen - DIY-Bastelset für Mädchen und Jungen ab 8 Jahren – das ideale Geschenk-Set für den Kindergeburtstag'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Kosmos'
 buyurl: 'https://www.amazon.de/dp/B01NCT3UOE/?tag=tolees0ca-21'
-descuento: '24.01'
-average: '15.636'
+descuento: '29.86'
+average: '15.3666666666667'
 ---
 
-Sie können [Kosmos 604288 AllesKönnerKiste Lichterkette zum Selbermachen - DIY-Bastelset für Mädchen und Jungen ab 8 Jahren – das ideale Geschenk-Set für den Kindergeburtstag](https://www.amazon.de/dp/B01NCT3UOE/?tag=tolees0ca-21) mit Preis 15.19 EUR (original: 19.99 EUR) 24.01 % Rabatt hier:
+Sie können [Kosmos 604288 AllesKönnerKiste Lichterkette zum Selbermachen - DIY-Bastelset für Mädchen und Jungen ab 8 Jahren – das ideale Geschenk-Set für den Kindergeburtstag](https://www.amazon.de/dp/B01NCT3UOE/?tag=tolees0ca-21) mit Preis 14.02 EUR (original: 19.99 EUR) 29.86 % Rabatt hier:
 
 [![Kosmos 604288 AllesKönnerKiste Lichterke](https://m.media-amazon.com/images/I/51ptp8FtsgL._SL400_.jpg)](https://www.amazon.de/dp/B01NCT3UOE/?tag=tolees0ca-21)
 
@@ -29,8 +30,8 @@ Sie können [Kosmos 604288 AllesKönnerKiste Lichterkette zum Selbermachen - DIY
 
 - AUSFÜHRLICHE SCHRITT-FÜR-SCHRITT-ANLEITUNG: Das liebevoll gestaltete Anleitungsheft ist komplett illustriert und führt Sie und Ihr Kind anschaulich durch das Bastel-Projekt
 - DAS IDEALE GESCHENK-SET: Die AllesKönnerKisten enthalten alle Materialien, um sofort loszulegen. Perfekt geeignet für Bastelnachmittage in der Familie oder Kindergeburtstage
-- HOCHWERTIGES MATERIAL FÜR 10 LEUCHTKUGELN: 200 m weiße Wolle, Lebensmittelfarben, 10 Luftballons, Bastel-Kleber, 3 Holzspatel, spitzes Holzstäbchen, LED-Lichterkette, farbig illustriertes Anleitungsheft (16 S.)
-- EINE KREATIVE, SELBSTGEMACHTE DEKORATION für das Kinderzimmer – die Lichterkette kann individuell gestaltet werden und wird so einzigartig sein wie Ihr Kind
 - FÜR EINSTEIGER GEEIGNET: Auch Anfänger erleben dank der leicht verständlichen Anleitungstexte wunderbare Bastel-Erfolge
+- EINE KREATIVE, SELBSTGEMACHTE DEKORATION für das Kinderzimmer – die Lichterkette kann individuell gestaltet werden und wird so einzigartig sein wie Ihr Kind
+- HOCHWERTIGES MATERIAL FÜR 10 LEUCHTKUGELN: 200 m weiße Wolle, Lebensmittelfarben, 10 Luftballons, Bastel-Kleber, 3 Holzspatel, spitzes Holzstäbchen, LED-Lichterkette, farbig illustriertes Anleitungsheft (16 S.)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NCT3UOE/?tag=tolees0ca-21)
