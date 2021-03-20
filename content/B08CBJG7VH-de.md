@@ -28,15 +28,15 @@ Sie können [Xiaomi Mi Electric Scooter 1S  DE  Faltbarer E-Scooter mit Straßen
 
 ℹ️:
 
-- E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen
 - 275Wh Lithium Ionen Akku mit langer Reichweite von bis zu 30km (abhängig von Straßengegebenheiten, Körpergröße & -gewicht)
-- Bremslicht hinten, Frontlicht vorne und seitliche Reflektoren
-- Klappbar und leicht zu transportieren dank einem Gewicht von lediglich 12,5kg
-- 8,5" Luftreifen für ein sicheres Fahrgefühl
 - Maximale Geschwindigkeit von 20km/h
-- Per iOS/Android Mi Home App Einstellungen verwalten und sperren
-- Intuitive und einfache Bedienung
+- 8,5" Luftreifen für ein sicheres Fahrgefühl
+- Klappbar und leicht zu transportieren dank einem Gewicht von lediglich 12,5kg
 - Duales Bremssystem mit Bremsenergie-Rückgewinnung
 - LED Anzeige für Geschwindigkeit, Batteriestand und Fahrmodus
+- E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen
+- Bremslicht hinten, Frontlicht vorne und seitliche Reflektoren
+- Intuitive und einfache Bedienung
+- Per iOS/Android Mi Home App Einstellungen verwalten und sperren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CBJG7VH/?tag=tolees0ca-21)
