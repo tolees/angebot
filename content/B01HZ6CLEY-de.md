@@ -28,9 +28,9 @@ Es gibt ein [Salewa Herren MS Alp Trainer Mid Gore-TEX Trekking- & Wanderstiefel
 
 ℹ️:
 
-- Empfohlene Verwendung: auch auf schlechten Wegen, Steige
+- Achtung Größenauswahl: Bitte achten Sie für die Wahl der passenden Schuhgröße auf unsere Größentabelle und -Hinweise
 - Wanderschuh Kategorie: B Trekking und Hiking
 - Geeignet für: Klettersteig, Trekking, Bergwandern
-- Achtung Größenauswahl: Bitte achten Sie für die Wahl der passenden Schuhgröße auf unsere Größentabelle und -Hinweise
+- Empfohlene Verwendung: auch auf schlechten Wegen, Steige
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01HZ6CLEY/?tag=tolees0ca-21)
