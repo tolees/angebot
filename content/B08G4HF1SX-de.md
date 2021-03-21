@@ -28,11 +28,11 @@ Sie können [LEGO 41924 DOTS Geheimbox Katze  Raumaccessoires & Dekoideen für d
 
 ℹ️:
 
-- Beim Verzieren der Geheimbox können Kinder ihr Designtalent und ihre Persönlichkeit zum Ausdruck bringen, indem sie die auf der Verpackung und in der Bauanleitung vorgeschlagenen Muster nachbilden oder sich eigene lustige Designs ausdenken
-- Schon beim Zusammensetzen der Box ist Kreativität gefragt. Dank der einfachen Bauanleitung gelingt dieser erste Schritt im Handumdrehen – genau wie das Aufräumen mithilfe der beiliegenden Aufbewahrungsschale
-- Designerversteck. Die Geheimbox ist 12 cm hoch, 7 cm breit und 7 cm tief und bietet genug Platz, um kleine Geheimnisse sicher aufzubewahren
 - Bereite einem Kind mit der LEGO DOTS Geheimbox Katze (41924) eine große Freude. Das Set beinhaltet eine Box mit 2 Geheimfächern, eine Aufbewahrungsschale und Steinchen. Der Spielspaß beginnt schon mit dem Öffnen der Schale
-- Die enthaltenen Steinchen eignen sich für coole Designs. Kinder können aber auch die Steinchen aus anderen Sets mit Deko-Accessoires oder aus dem DOTS Ergänzungsset Geheimnisse (41921) benutzen
+- Designerversteck. Die Geheimbox ist 12 cm hoch, 7 cm breit und 7 cm tief und bietet genug Platz, um kleine Geheimnisse sicher aufzubewahren
 - Designfans werden von diesem fantasievollen Spielzeug begeistert sein. Die nützliche Geheimbox ist ein tolles Überraschungsgeschenk und eine kreative Belohnung für Jungen und Mädchen ab 6 Jahren
+- Die enthaltenen Steinchen eignen sich für coole Designs. Kinder können aber auch die Steinchen aus anderen Sets mit Deko-Accessoires oder aus dem DOTS Ergänzungsset Geheimnisse (41921) benutzen
+- Schon beim Zusammensetzen der Box ist Kreativität gefragt. Dank der einfachen Bauanleitung gelingt dieser erste Schritt im Handumdrehen – genau wie das Aufräumen mithilfe der beiliegenden Aufbewahrungsschale
+- Beim Verzieren der Geheimbox können Kinder ihr Designtalent und ihre Persönlichkeit zum Ausdruck bringen, indem sie die auf der Verpackung und in der Bauanleitung vorgeschlagenen Muster nachbilden oder sich eigene lustige Designs ausdenken
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4HF1SX/?tag=tolees0ca-21)
