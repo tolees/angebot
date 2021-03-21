@@ -28,11 +28,11 @@ Sie können [Philips Hue White and Color Ambiance Play Lightbar  dimmbar  bis zu
 
 ℹ️:
 
-- Es ist kein Stecker verfügbar. Dies ist eine Erweiterung
 - Die Leuchte eignet sich besonders für ambiente Beleuchtung des Wohnbereichs, es besteht keine Blendwirkung
 - Hue Play lässt sich vielseitig positionieren, ob auf dem Boden, hinter dem Schrank oder direkt hinter dem Fernseher montiert, horizontale und vertikale Positionierung möglich
-- Farbtemperatur: 2.000 bis 6.500 Kelvin. Wählen Sie eine aus 16 Millionen Farben in der Hue App und synchronisieren Sie das Licht mit Musik, Filmen und Videospielen über Hue Sync
 - Die Philips Hue Play Erweiterung- ist die vielseitigste Leuchte im Hue Portfolio und beeindruckt durch ihr kompaktes Design. Zur Steuerung ist ein Hue Dimmschalter oder eine Hue Bridge notwendig (nicht im Lieferumfang enthalten)
 - Funktioniert mit Amazon Alexa für Sprachsteuerung (Echo/ Echo Dot und notwendige Hue Bridge separat erhältlich). Das Smart Home Erlebnis für Ihr Zuhause
+- Es ist kein Stecker verfügbar. Dies ist eine Erweiterung
+- Farbtemperatur: 2.000 bis 6.500 Kelvin. Wählen Sie eine aus 16 Millionen Farben in der Hue App und synchronisieren Sie das Licht mit Musik, Filmen und Videospielen über Hue Sync
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FYDGD73/?tag=tolees0ca-21)
