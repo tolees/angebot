@@ -28,11 +28,11 @@ Es gibt ein [Sony DSC-HX60 Digitalkamera  20 4 Megapixel  30-fach opt. Zoom  7 5
 
 ℹ️:
 
-- Exmor R CMOS Sensor und 30x opt. Zoom (60x Klarbild-Zoom)
-- NFC/ WiFi Funktion (u.a. Übertragung von Bildern aufs Smartphone)
-- Lieferumfang : Akkusatz (NP-BX1) ,Bedienungsanleitung,Blitzschuhkappe,Handgelenkschlaufe, Micro-USB-Kabel,Netzkabel,Netzteil (AC-UB10C/UB10D)
 - SICHTWINKEL (ENTSPRICHT 35 MM) (FOTO):84°–3° 30 Min. (24–720 mm )
 - 24mm Sony G Weitwinkelobjektiv mit 4K Bilder
+- Exmor R CMOS Sensor und 30x opt. Zoom (60x Klarbild-Zoom)
 - BIONZ X Bildprozessor - 3 mal schnellere Bildverarbeitung imVergleich zum Vorgänger
+- NFC/ WiFi Funktion (u.a. Übertragung von Bildern aufs Smartphone)
+- Lieferumfang : Akkusatz (NP-BX1) ,Bedienungsanleitung,Blitzschuhkappe,Handgelenkschlaufe, Micro-USB-Kabel,Netzkabel,Netzteil (AC-UB10C/UB10D)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00I9X2KLW/?tag=tolees0ca-21)

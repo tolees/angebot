@@ -28,11 +28,11 @@ Sie können [Paula Berg - 20x G and W Faltbare FFP3 Atemschutzmaske Staubmaske S
 
 ℹ️:
 
-- Ohne Latex und ohne Naturkautschuk!
-- Die Befestigung dieser zertifizierten FFP3 Maske erfolgt über praktische Ohrschlaufen, sodass ein schnelles auf- und absetzen, ohne dass z.B. die Frisur zerstört wird, kein Problem darstellt!
 - Zertifiziert nach der aktuell geltenden EU Richtlinie EN149:2001+A1:2009 und der Verordnung (EU) 2016/425 PPE (Persönliche Schutzausrüstung) durch akkreditierte Prüfstelle der Europäischen Union | CE 2163 !
-- Praktische Box mit 20 Masken. Alle Masken sind selbstverständlich nochmals hygienisch einzeln verpackt!
 - FFP3 Standard = beste & höchste Filterstufe der Europäischen Union. Filtert mindestens 99% der Partikel ab 0.6µ Durchmesser. Schädlicher Staub, feste und flüssige Aerosole werden somit effektiv gefiltert. Da diese Maske ohne zusätzliches Ventil auskommt, darf sie überall benutzt werden, also auch in Flugzeugen, Zügen, Pflegeinrichtungen, Krankenhäusern usw., denn Träger und Umwelt sind hier zugleich geschützt!
 - Einwegmaske, für den einmaligen Gebrauch bestimmt.
+- Die Befestigung dieser zertifizierten FFP3 Maske erfolgt über praktische Ohrschlaufen, sodass ein schnelles auf- und absetzen, ohne dass z.B. die Frisur zerstört wird, kein Problem darstellt!
+- Praktische Box mit 20 Masken. Alle Masken sind selbstverständlich nochmals hygienisch einzeln verpackt!
+- Ohne Latex und ohne Naturkautschuk!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08QS9BJRW/?tag=tolees0ca-21)

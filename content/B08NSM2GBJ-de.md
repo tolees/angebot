@@ -28,11 +28,11 @@ Es gibt ein [NETGEAR WAX214 WiFi 6 WLAN Access Point PoE  Dualband 1800 MBit/s 
 
 ℹ️:
 
-- SICHERHEIT AUF HÖCHSTEM NIVEAU: Unterstützt WPA3, sowie WPA/WPA2
-- PRIVATES UND SICHERES WLAN-NETZWERK: Einfache Einrichtung in einem Arbeitszimmer, Konferenzraum oder an einem beliebigen Ort, an dem Sie ein dediziertes und sicheres WLAN-Netzwerk benötigen
-- HOHE WIFI 6 LEISTUNG: Geschwindigkeit und Kapazität von AX1800 Dualband unterstützen in Verbindung mit der MU-MIMO-Technologie bis zu 128 Endgeräte
-- POE-BETRIEB ODER PER NETZTEIL: Einfache Bereitstellung per PoE-Port oder externem Netzteil (separat erhältlich, zB Netgear PAV12V)
 - EINFACHE VERWALTUNG: Einrichtung, Konfiguration und Verwaltung über den Schnell-Setup-Assistenten per deutscher/englischer Weboberfläche
+- PRIVATES UND SICHERES WLAN-NETZWERK: Einfache Einrichtung in einem Arbeitszimmer, Konferenzraum oder an einem beliebigen Ort, an dem Sie ein dediziertes und sicheres WLAN-Netzwerk benötigen
+- POE-BETRIEB ODER PER NETZTEIL: Einfache Bereitstellung per PoE-Port oder externem Netzteil (separat erhältlich, zB Netgear PAV12V)
+- HOHE WIFI 6 LEISTUNG: Geschwindigkeit und Kapazität von AX1800 Dualband unterstützen in Verbindung mit der MU-MIMO-Technologie bis zu 128 Endgeräte
 - FLEXIBLE MONTAGE: Einfache und sichere Montage an der Wand oder Decke mit den mitgelieferten Befestigungsteilen
+- SICHERHEIT AUF HÖCHSTEM NIVEAU: Unterstützt WPA3, sowie WPA/WPA2
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08NSM2GBJ/?tag=tolees0ca-21)

@@ -29,7 +29,7 @@ Es gibt ein [Funko - POP! Rocks: Queen- Freddie Mercury Radio Gaga](https://www.
 ℹ️:
 
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Schauen Sie sich jetzt die anderen Queen-Figuren von Funko an! Sammeln Sie alle!
 - Von Queen, Freddie Mercury Radio Gaga, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Queen-Figuren von Funko an! Sammeln Sie alle!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21)

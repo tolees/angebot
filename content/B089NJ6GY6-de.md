@@ -28,9 +28,9 @@ Es gibt ein [LED Streifen 10m WIFI  LUXONIC 2 x 5M RGB 5050 SMD 300 2x150  LED S
 
 ℹ️:
 
+- 【WIFI LED Strip Wasserdicht】Die 2x5M LED Stripes aussen sind mit EPOXY abgedeckt, dh Sie können es im Außenbereich oder im Badezimmer platzieren, Sorgen Sie sich niemals um Spritzwasser oder schlechtes Wetter wie Regen oder Schnee. Nur eine Anmerkung: Der RGB LED Bande 5050 ist wasserdicht, die Stromversorgung jedoch nicht.
 - 【Millionen Farbmöglichkeiten】Es gibt Millionen Farben, die von diesen 5050 LED Streifen WIFI RGB ausgewählt werden können. Sie können auch jede Farbe auswählen, die für Sie unbegrenzte Farben bietet.
 - 【Musik Rhythmus Synchronisation】Der Licht effekt des WIFI LED Strip RGB 10M kann der Musik oder Tonaufzeichnung folgen, mit Ihrer Stimme oder der Musik tanzen, was Ihnen mehr Spaß bringt.
-- 【WIFI LED Strip Wasserdicht】Die 2x5M LED Stripes aussen sind mit EPOXY abgedeckt, dh Sie können es im Außenbereich oder im Badezimmer platzieren, Sorgen Sie sich niemals um Spritzwasser oder schlechtes Wetter wie Regen oder Schnee. Nur eine Anmerkung: Der RGB LED Bande 5050 ist wasserdicht, die Stromversorgung jedoch nicht.
 - 【WIFI LED Streifen Smart】Die APP ist mit allen Arten von Smartphones, Android / IOS Systemen kompatibel. Nachdem Sie mit dem 2,4G Hz WIFI verbunden sind, können Sie das RGB LED Streifen 10M nach Belieben steuern.Betriebs System Anforderungen: Android 4,0 / IOS 9,0 Version und höher. Es unterstützt auch Alexa, Google Home. Oder Sie könnten die RGB LED Strip Lichter über IR 24 Tasten Fernbedienung steuern.
 - 【Einfache und bequeme Installation】Das komplette LED Lichtband Kit umfasst 2 x 5M IP65 150LEDs LED Streifen Wasserdicht, 1 x UL Geprüftes 12V Netzteil, 1 x WIFI Signal Empfänger. Verbessertes, stärkeres Klebeband, LED Streifen Selbstklebend, einfach zu installieren.
 

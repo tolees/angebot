@@ -28,12 +28,12 @@ Sie können [Apple MagSafe Duo Charger](https://www.amazon.de/dp/B08MWWS5RT/?tag
 
 ℹ️:
 
-- The charger folds together neatly so you can easily take it with you wherever you go.
-- Compatibility iPhone: iPhone 12, iPhone 12, iPhone 12, iPhone 12, iPhone 11, iPhone 11, iPhone 11, iPhone SE (2nd generation), iPhone XS, iPhone XS Max, iPhone XR, iPhone X, iPhone 8, iPhone 8 Plus
-- Recommended: USB-C Power Adapter (sold separately)
-- Just place your devices on the charger and a steady, efficient charge begins on contact.
-- Compatibility AirPods: AirPods Pro, AirPods with Wireless Charging Case (2nd generation), Wireless Charging Case for AirPods
-- The MagSafe Duo Charger conveniently charges your compatible iPhone, Apple Watch, Wireless Charging Case for AirPods, and other Qi-certified devices.
 - Compatibility Apple Watch: Series 6, Series 5, Series 4, Series 3, Series 2, Series 1, 1st generation
+- Just place your devices on the charger and a steady, efficient charge begins on contact.
+- Compatibility iPhone: iPhone 12, iPhone 12, iPhone 12, iPhone 12, iPhone 11, iPhone 11, iPhone 11, iPhone SE (2nd generation), iPhone XS, iPhone XS Max, iPhone XR, iPhone X, iPhone 8, iPhone 8 Plus
+- The charger folds together neatly so you can easily take it with you wherever you go.
+- Recommended: USB-C Power Adapter (sold separately)
+- The MagSafe Duo Charger conveniently charges your compatible iPhone, Apple Watch, Wireless Charging Case for AirPods, and other Qi-certified devices.
+- Compatibility AirPods: AirPods Pro, AirPods with Wireless Charging Case (2nd generation), Wireless Charging Case for AirPods
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08MWWS5RT/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Funko 31528 Pop Games: Pokemon S1- Pikachu](https://www.amazon.de/d
 
 ℹ️:
 
-- Original Figur Pokemon Pikachu in stylischer Fenster-Display-Box
-- Für alle Pokemon Fans, ideal zum Sammeln
 - Größe: ca. 11 cm
-- Hochwertige, originalgetreue Kunststofffigur in limitierter Auflage
 - Offiziell lizensiertes Produkt
+- Für alle Pokemon Fans, ideal zum Sammeln
+- Original Figur Pokemon Pikachu in stylischer Fenster-Display-Box
+- Hochwertige, originalgetreue Kunststofffigur in limitierter Auflage
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MFX366P/?tag=tolees0ca-21)

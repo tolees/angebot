@@ -28,10 +28,10 @@ Sie können [HUHETA - 50 FFP2 Maske  EU CE zertifizierte Masken nach EN149:2001+
 
 ℹ️:
 
-- Hergestellt aus hocheffizientem, schmelzgeblasenem Tuch, ≥ 95 % Filtrationsrate bietet.
-- Einzelverpackung: Jede unserer FFP2-Masken ist einzeln verpackt, um den Kontakt zwischen unbenutzten Masken und Luft zu reduzieren. Die FFP2-Einwegmasken bieten einen extrem niedrigen Atemwiderstand und ermöglichen ein einfaches Ausblasen, wodurch Wärme- und Feuchtigkeitsstau reduziert werden, sodass Sie bei Ihren täglichen Aktivitäten bequem bleiben können
-- 5 Schutzschichten: Atmungsaktive Masken sind aus hochwertigen Vliesstoffen hergestellt. 2 hautfreundliche Vliesstoff-Außenschichten machen sie atmungsaktiv und komfortabel. Zwei Schichten aus Meltblown-Tuch-Innenfiltern wirken als Filter, eine Schicht aus Baumwollvlies absorbiert Feuchtigkeit aus Ihrem Atem. Das fünfschichtige FFP2-Maskendesign bietet mehr Schutz als die standardmäßige dreischichtige Einwegmaske
 - Konform mit den Weltstandards: Partikel-Atemschutzgeräte entsprechen EN 149: 2001 + A 1: 2009, der Europäischen Norm FFP2.
+- Einzelverpackung: Jede unserer FFP2-Masken ist einzeln verpackt, um den Kontakt zwischen unbenutzten Masken und Luft zu reduzieren. Die FFP2-Einwegmasken bieten einen extrem niedrigen Atemwiderstand und ermöglichen ein einfaches Ausblasen, wodurch Wärme- und Feuchtigkeitsstau reduziert werden, sodass Sie bei Ihren täglichen Aktivitäten bequem bleiben können
 - Sicherheitsdesign: Der eingebaute weiche, verstellbare Nasenclip kann die Maske fest am Gesicht haften lassen, mit gutem Komfort und Sicherheit. Flexible Ohrbügel sind bequem und praktisch für die meisten Männer und Frauen
+- 5 Schutzschichten: Atmungsaktive Masken sind aus hochwertigen Vliesstoffen hergestellt. 2 hautfreundliche Vliesstoff-Außenschichten machen sie atmungsaktiv und komfortabel. Zwei Schichten aus Meltblown-Tuch-Innenfiltern wirken als Filter, eine Schicht aus Baumwollvlies absorbiert Feuchtigkeit aus Ihrem Atem. Das fünfschichtige FFP2-Maskendesign bietet mehr Schutz als die standardmäßige dreischichtige Einwegmaske
+- Hergestellt aus hocheffizientem, schmelzgeblasenem Tuch, ≥ 95 % Filtrationsrate bietet.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08MJTRQB7/?tag=tolees0ca-21)
