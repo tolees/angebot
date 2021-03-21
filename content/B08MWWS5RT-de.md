@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple MagSafe Duo Charger mit 22.89 % Rabatt'
-date: 2021-03-20 15:28:42
+date: 2021-03-21 15:59:42
 image: 'https://m.media-amazon.com/images/I/31ltxS8KOVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Apple'
 buyurl: 'https://www.amazon.de/dp/B08MWWS5RT/?tag=tolees0ca-21'
 descuento: '22.89'
-average: '134.590999999999'
+average: '133.653333333332'
 ---
 
 Sie können [Apple MagSafe Duo Charger](https://www.amazon.de/dp/B08MWWS5RT/?tag=tolees0ca-21) mit Preis 114.9 EUR (original: 149.0 EUR) 22.89 % Rabatt hier:
@@ -28,8 +28,12 @@ Sie können [Apple MagSafe Duo Charger](https://www.amazon.de/dp/B08MWWS5RT/?tag
 
 ℹ️:
 
-- Das MagSafe Duo Ladegerät lädt dein kompatibles iPhone, Apple Watch Modell, kabelloses Ladecase für AirPods und andere Qi zertifizierte Geräte.
-- Klapp es zusammen, sodass du es überallhin mitnehmen kannst.
-- Leg die Geräte einfach auf das Lade­gerät und schon beginnt der gleich­mäßige, effiziente Lade­vorgang.
+- The MagSafe Duo Charger conveniently charges your compatible iPhone, Apple Watch, Wireless Charging Case for AirPods, and other Qi-certified devices.
+- Compatibility AirPods: AirPods Pro, AirPods with Wireless Charging Case (2nd generation), Wireless Charging Case for AirPods
+- The charger folds together neatly so you can easily take it with you wherever you go.
+- Recommended: USB-C Power Adapter (sold separately)
+- Just place your devices on the charger and a steady, efficient charge begins on contact.
+- Compatibility Apple Watch: Series 6, Series 5, Series 4, Series 3, Series 2, Series 1, 1st generation
+- Compatibility iPhone: iPhone 12, iPhone 12, iPhone 12, iPhone 12, iPhone 11, iPhone 11, iPhone 11, iPhone SE (2nd generation), iPhone XS, iPhone XS Max, iPhone XR, iPhone X, iPhone 8, iPhone 8 Plus
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08MWWS5RT/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.59 % rabat auf Funko 31528 Pop Games: Pokemon S1- Pikac'
-date: 2021-03-20 10:13:11
+date: 2021-03-21 15:16:06
 image: 'https://m.media-amazon.com/images/I/51Q48xqaIPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B01MFX366P/?tag=tolees0ca-21'
 descuento: '23.59'
-average: '15.1304545454546'
+average: '14.9520833333334'
 ---
 
 Es gibt ein [Funko 31528 Pop Games: Pokemon S1- Pikachu](https://www.amazon.de/dp/B01MFX366P/?tag=tolees0ca-21) mit aktuellem Preis 12.99 EUR (original: 17.0 EUR) 23.59 % Rabatt hier:
@@ -29,9 +29,9 @@ Es gibt ein [Funko 31528 Pop Games: Pokemon S1- Pikachu](https://www.amazon.de/d
 ℹ️:
 
 - Original Figur Pokemon Pikachu in stylischer Fenster-Display-Box
-- Offiziell lizensiertes Produkt
-- Hochwertige, originalgetreue Kunststofffigur in limitierter Auflage
 - Größe: ca. 11 cm
 - Für alle Pokemon Fans, ideal zum Sammeln
+- Hochwertige, originalgetreue Kunststofffigur in limitierter Auflage
+- Offiziell lizensiertes Produkt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MFX366P/?tag=tolees0ca-21)

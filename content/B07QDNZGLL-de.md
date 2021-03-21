@@ -28,9 +28,9 @@ Sie können [Funko POP Vinyl TV: Walking Dead- Dog](https://www.amazon.de/dp/B07
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen The Walking Dead-Figuren von Funko an Sammeln Sie alle
 - Funko POP ist das Spielzeug des Jahres 2018
-- Die Figur ist 9cm groß und wird in einer illustrierten Fensterbox geliefert
+- Schauen Sie sich jetzt die anderen The Walking Dead-Figuren von Funko an Sammeln Sie alle
 - Von The Walking Dead, Dog, zur stilisierten POP-Vinyl Figur von Funko
+- Die Figur ist 9cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QDNZGLL/?tag=tolees0ca-21)

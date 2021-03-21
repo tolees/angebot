@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUADEX Sicherheitsschuhe Herren Leicht A mit 15.00 % Rabatt'
-date: 2021-03-20 09:05:56
+date: 2021-03-21 15:58:45
 image: 'https://m.media-amazon.com/images/I/41yOpetNHEL._SL400_.jpg'
 comments: true
 category: ofertas
