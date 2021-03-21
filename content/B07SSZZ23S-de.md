@@ -28,8 +28,8 @@ Sie können [Square Enix - Marvel s Avengers  inkl. kostenloses Upgrade auf Xbox
 
 ℹ️:
 
-- Schalte mächtige Fähigkeiten und neue Ausrüstung frei, und erstelle damit deine bevorzugte Version der mächtigsten Helden der Erde
 - Die Story wird sich über mehrere Jahre hinweg entfalten, ohne zufallsbedingte Lootboxen oder Pay-to-Win
+- Schalte mächtige Fähigkeiten und neue Ausrüstung frei, und erstelle damit deine bevorzugte Version der mächtigsten Helden der Erde
 - Marvels Avengers bietet eine einzigartige Version der berühmten Superhelden, einschließlich Captain America, Iron Man, Hulk, Black Widow und Thor
 - Bis zu vier Spieler können sich online zusammenschließen, um die Erde gegen eskalierende Bedrohungen zu verteidigen
 
