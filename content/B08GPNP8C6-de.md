@@ -28,9 +28,9 @@ Es gibt ein [Samsung Galaxy M51 Android Smartphone ohne Vertrag  Quad-Kamera  6 
 
 ℹ️:
 
-- Ein fast rahmenloses Erlebnis: Genießen Sie auf dem 6,7-Zoll Infinity-O Display mit Super AMOLED Plus-Technologie und eindrucksvollen Farben all Ihre Lieblingsvideos, Games und Fotos auf dem Galaxy M51 in hoher Auflösung.
 - Unsere Power kommt von innen: Dieses Smartphone der Galaxy M-Serie wird von einem leistungsstarken Octa-Core-Prozessor und 6 GB RAM angetrieben und verfügt über 128 GB internen Speicher, den Sie komfortabel um weitere 512 GB erweitern können.
 - Ihre privaten Daten sind in guten Händen: Samsung Knox ist in die Hardware und Software des Galaxy M51 integriert und sorgt so für zuverlässigen Schutz. Dank der mehrschichtigen Sicherheitsmechanismen schützt es Ihre sensiblen Daten auf dem Handy schon beim ersten Einschalten vor Malware und anderen Bedrohungen.
+- Ein fast rahmenloses Erlebnis: Genießen Sie auf dem 6,7-Zoll Infinity-O Display mit Super AMOLED Plus-Technologie und eindrucksvollen Farben all Ihre Lieblingsvideos, Games und Fotos auf dem Galaxy M51 in hoher Auflösung.
 - Ein riesiger Akku für pausenloses Entertainment: Mit dem ausdauernden 7.000 mAh-Akku des Samsung Galaxy M51 steht Ihrem Serienmarathon oder ausgiebigen Gaming-Sessions kaum etwas im Weg. Und die 25-Watt Schnellladefunktion sorgt dafür, dass der große Akku Ihres Smartphones auch schnell wieder aufgeladen ist.
 - Eine Kamera für nahezu jede Situation: Erleben Sie das Android Handy mit der vielseitigen Quad-Kamera, die den Moment in seiner Schönheit einfangen kann. Die Ultra-Weitwinkelkamera kann fantastische Panoramen aufnehmen und mit der 32 MP Frontkamera des Galaxy M51 können Sie sich von Ihrer schönsten Seite zeigen.
 

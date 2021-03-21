@@ -28,9 +28,9 @@ Sie können [Kingston A2000  SA2000M8/500G  SSD NVMe PCIe M.2 2280 500GB](https:
 
 ℹ️:
 
-- Ideal for Ultrabooks and small-form-factor PC (SFF PC) systems
 - Upgrade your PC with up to 1 TB**
 - Supports a full-security suite (TCG Opal, XTS-AES 256-bit, eDrive)
 - NVMe PCIe performance at a fraction of the cost
+- Ideal for Ultrabooks and small-form-factor PC (SFF PC) systems
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07VXCFNVS/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Schiebeständer / Tellerständer / Tellerhalter XXL - Ständer / Ha
 
 ℹ️:
 
-- Transparent plate stand.
-- Very stable and adjustable.
 - 10 cm high.
+- Transparent plate stand.
 - Pack of 10 neatly packaged.
+- Very stable and adjustable.
 - Also for Blu-ray, video, CD, Steelbox, Steelbook
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00WL1RJJ6/?tag=tolees0ca-21)

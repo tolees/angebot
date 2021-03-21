@@ -28,9 +28,9 @@ Sie können [SUPERZINGS - Angriff auf den Power Tower mit 2 exklusiven SuperZing
 
 ℹ️:
 
+- Zeig, was du kannst! Feuere den Superhelden von der Rampe direkt ins Innere des Power Tower!
 - Geeignet für Jungen und Mädchen ab 3 Jahren.
 - Ideal, um Fantasie, Kreativität und Sozialkompetenz der Kinder zu entwickeln.
-- Zeig, was du kannst! Feuere den Superhelden von der Rampe direkt ins Innere des Power Tower!
 - Enthält zwei exklusive SuperZings, einen Helden und den passenden Schurken.
 - Visiere das Ziel an und schleudere den Schurken heraus. Aber Vorsicht! Ziele genau, sonst wirst du im Turm gefangen.
 

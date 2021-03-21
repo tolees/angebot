@@ -29,8 +29,8 @@ Sie können [Funko - POP! Disney: Frozen 2 - Olaf](https://www.amazon.de/dp/B07Q
 ℹ️:
 
 - Olaf
-- Von Frozen 2, Olaf, zur stilisierten POP-Vinyl Figur von Funko!
 - Disney Frozen 2
+- Von Frozen 2, Olaf, zur stilisierten POP-Vinyl Figur von Funko!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Schauen Sie sich jetzt die anderen Disney-Figuren von Funko an! Sammeln Sie alle!
 

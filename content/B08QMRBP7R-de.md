@@ -28,10 +28,10 @@ Sie können [JideTech KVM Switch 2 Displayport 4K @ 60Hz 4: 4: 4  KVM USB Umscha
 
 ℹ️:
 
+- 【Hohe Kompatibilität】: Laufwerksfrei für Windows 10/7/2000 / XP / Vista, Linux, Mac, Debian, Ubuntu, Fedora, Raspbian und Ubuntu. Unterstützt HDCP 2.2, HDR10. Unterstützt 16: 9-Breitbild- und 21: 9-Ultra-Wide-Monitore.
+- 【Einfach zu bedienen】: Plug and Play, Umschalten der kabelgebundenen Fernbedienung ； USB 2.0-Peripherie-Freigabe über Mausanschluss. Schließen Sie einen USB-Hub mit Stromversorgung an, um Ihre USB-Konnektivität zu erweitern.
 - 【2-in-1-out-Didpalyport KVM Switch mit Audio und Mikrofon】: Eine USB-Tastatur und -Mauskonsole steuert 2 Computer mit DP-Schnittstelle. Mit Audio- und Mikrofonausgang.
 - 【KVM Switch für visuellen Ultra HD 4K-Genuss】: Unterstützt qualitativ hochwertige Videos mit 4096 × 2160 @ 60 Hz 4: 4: 4, kompatibel mit 3840 x 2160 @ 60 Hz, 1080 P, 1080 P 3D, 1080 I, 720 P, 576 P, 576 I, 480 P, 480 I.
-- 【Hohe Kompatibilität】: Laufwerksfrei für Windows 10/7/2000 / XP / Vista, Linux, Mac, Debian, Ubuntu, Fedora, Raspbian und Ubuntu. Unterstützt HDCP 2.2, HDR10. Unterstützt 16: 9-Breitbild- und 21: 9-Ultra-Wide-Monitore.
 - 【Lieferumfang】: Audiokabel * 2, USB 2.0-Kabel * 2, Netzteil nach europäischem Standard * 1, Bedienfeld und Verbindungskabel * 1, wenn Sie bei der Verwendung des Produkts mehr Kabel benötigen oder wenn ein Problem mit dem Produkt vorliegt und Sie Hilfe benötigen, übergeben Sie diese bitte Kontaktieren Sie uns per Amazon Mail.
-- 【Einfach zu bedienen】: Plug and Play, Umschalten der kabelgebundenen Fernbedienung ； USB 2.0-Peripherie-Freigabe über Mausanschluss. Schließen Sie einen USB-Hub mit Stromversorgung an, um Ihre USB-Konnektivität zu erweitern.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08QMRBP7R/?tag=tolees0ca-21)

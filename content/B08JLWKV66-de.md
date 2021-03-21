@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '77.50 % rabat auf s simplecase - Simplecase 40 Stück FFP2 '
-date: 2021-03-20 09:02:52
+date: 2021-03-21 16:00:56
 image: 'https://m.media-amazon.com/images/I/51bOm3uPPWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ Es gibt ein [s simplecase - Simplecase 40 Stück FFP2 Maske  CE Zertifiziert von
 ℹ️:
 
 - Nach EN149:2001+A1:2009 CE zertifiziert von EU benannter Stelle CE 2834
-- Schaumstoff unter dem Nasenbügel sorgt für optimale Abdichtung und Komfort
 - Inkl. original SIMPLECASE ASSEKURANZ (Details siehe unten)
 - FFP2 Maske, filtert über 94% der wasserhaltigen und ölhaltigen Aerosole sowie Feinstaub
+- Schaumstoff unter dem Nasenbügel sorgt für optimale Abdichtung und Komfort
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08JLWKV66/?tag=tolees0ca-21)
