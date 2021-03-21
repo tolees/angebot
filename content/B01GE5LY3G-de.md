@@ -28,10 +28,10 @@ Sie können [Jelly Belly - Harry Potter Bertie Bott´s Beans  Beutel  1er Pack  
 
 ℹ️:
 
-- Fauliges Ei (Rotten egg), Wurst (sausage), Zitrone (Lemon), Seife (soap), Tutti Frutti, Erbrochenes (vom IT), Wassermelone (Watermelon).
-- Banane (Banana), schwarzer Pfeffer (Black Pepper), Blaubeere (Blueberry), popel (booger), Zuckerwatte (Candy floss), Kirsche (Cherry), Zimt (cinnamon).
-- Erde (dirt), Regenwurm (earthworm), Ohrenschmalz (earwax), Gras (Grass), Grüner Apfel (Green Apple), gerösteter Marshmallow (toasted Marshmallow).
 - Wer dachte sich nicht einmal wie toll es doch wäre die Bohnen aus Harry Potter auch einmal zu probieren.
 - Das ist der große Spaß für die ganze Familie! Geschmacksabenteuer mit spaßgarantie!
+- Erde (dirt), Regenwurm (earthworm), Ohrenschmalz (earwax), Gras (Grass), Grüner Apfel (Green Apple), gerösteter Marshmallow (toasted Marshmallow).
+- Banane (Banana), schwarzer Pfeffer (Black Pepper), Blaubeere (Blueberry), popel (booger), Zuckerwatte (Candy floss), Kirsche (Cherry), Zimt (cinnamon).
+- Fauliges Ei (Rotten egg), Wurst (sausage), Zitrone (Lemon), Seife (soap), Tutti Frutti, Erbrochenes (vom IT), Wassermelone (Watermelon).
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01GE5LY3G/?tag=tolees0ca-21)
