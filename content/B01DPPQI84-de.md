@@ -28,10 +28,10 @@ Es gibt ein [LogiLink Professional - LogiLink NK4040 Keystone Patchpanel/Verteil
 
 ℹ️:
 
+- Farbe: RAL9005 schwarz
 - Gewicht: 550g
 - Stabiles 3-teiliges 19“ Verteilerfeld, 0.5 HE (halbe Bauhöhe)
-- Für bis zu 24 Keystone Module (mit max. 15,8 mm Breite) auf halber Bauhöhe, 0.5 HU (Höheneinheit)
-- Farbe: RAL9005 schwarz
 - Mit Kabelhalterung und Erdungskabel
+- Für bis zu 24 Keystone Module (mit max. 15,8 mm Breite) auf halber Bauhöhe, 0.5 HU (Höheneinheit)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01DPPQI84/?tag=tolees0ca-21)
