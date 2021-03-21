@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Crucial P5 CT2000P5SSD8 2 TB Solid State mit 34.60 % Rabatt'
-date: 2021-03-20 15:24:41
+title: 'Crucial P5 CT2000P5SSD8 2 TB Solid State mit 25.05 % Rabatt'
+date: 2021-03-21 21:27:31
 image: 'https://m.media-amazon.com/images/I/317282Qw8CL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0892TWDP1-de Crucial P5 CT2000P5SSD8 2 TB Solid State Laufwerk 3D NAND...'
 sku: 'B0892TWDP1-de'
 tags: [ 'Computer & Zubehör','Datenspeicher','Interne SSD','Interner Speicher','crucial', ]
-actualPrice: 219.99 EUR
+actualPrice: 252.12 EUR
 currency: EUR
-price: 219.99
+price: 252.12
 comparePrice: 336.39 EUR
 prodname: 'Crucial P5 CT2000P5SSD8 2 TB Solid State Laufwerk  3D NAND  NVMe  PCIe  M.2  2280SS '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.de/dp/B0892TWDP1/?tag=tolees0ca-21'
-descuento: '34.60'
-average: '229.96'
+descuento: '25.05'
+average: '235.5'
 ---
 
-Sie können [Crucial P5 CT2000P5SSD8 2 TB Solid State Laufwerk  3D NAND  NVMe  PCIe  M.2  2280SS ](https://www.amazon.de/dp/B0892TWDP1/?tag=tolees0ca-21) mit Preis 219.99 EUR (original: 336.39 EUR) 34.60 % Rabatt hier:
+Sie können [Crucial P5 CT2000P5SSD8 2 TB Solid State Laufwerk  3D NAND  NVMe  PCIe  M.2  2280SS ](https://www.amazon.de/dp/B0892TWDP1/?tag=tolees0ca-21) mit Preis 252.12 EUR (original: 336.39 EUR) 25.05 % Rabatt hier:
 
 [![Crucial P5 CT2000P5SSD8 2 TB Solid State](https://m.media-amazon.com/images/I/317282Qw8CL._SL400_.jpg)](https://www.amazon.de/dp/B0892TWDP1/?tag=tolees0ca-21)
 
