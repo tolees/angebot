@@ -28,10 +28,10 @@ Es gibt ein [Bose QuietComfort 35 Wireless Headphones II – Kabellose Noise-Can
 
 ℹ️:
 
-- Duales Mikrofonsystem für klar verständliche Anrufe und Sprachbefehl-Zugriff auf den vorinstallierten virtuellen Assistenten Ihres Smartphones, wie zum Beispiel Siri
-- Erstklassige Lärmreduzierung in drei Stufen für ein besseres Klangerlebnis in jeder Umgebung
 - Kabellose Bluetooth-Kopplung, personalisierte Einstellungen, Zugriff auf zukünftige Updates und mehr mithilfe der Bose Connect App
+- Duales Mikrofonsystem für klar verständliche Anrufe und Sprachbefehl-Zugriff auf den vorinstallierten virtuellen Assistenten Ihres Smartphones, wie zum Beispiel Siri
 - Kompatibel mit Alexa und dem Google Assistenten für den Zugriff auf Musik, Informationen und mehr per Sprachbefehl
+- Erstklassige Lärmreduzierung in drei Stufen für ein besseres Klangerlebnis in jeder Umgebung
 - Da Amazon Alexa Cloud-basiert ist, lernt sie kontinuierlich dazu. Bitten Sie Alexa, Musik abzuspielen, Nachrichten vorzulesen, das Wetter zu überprüfen, Ihr Smart Home zu steuern und vieles mehr.
 - Naturgetreuer Spitzenklang bei jeder Lautstärke
 
