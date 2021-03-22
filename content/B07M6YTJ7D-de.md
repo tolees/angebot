@@ -28,10 +28,10 @@ Sie können [Sony GTK-XB72 High PowerParty Lautsprecher  Bluetooth  NFC  One Box
 
 ℹ️:
 
-- Sorgen Sie mit einer Lichtleiste, Lautsprecherbeleuchtung und Stroboskoplicht für die richtige Stimmung
-- Mit dem leistungsstarken, kompakten Sound-System wird Ihre Party unvergesslich.
-- Extra Bass für einen satten, kraftvollen Sound
 - Vertikale und horizontale Ausrichtung
+- Extra Bass für einen satten, kraftvollen Sound
+- Mit dem leistungsstarken, kompakten Sound-System wird Ihre Party unvergesslich.
+- Sorgen Sie mit einer Lichtleiste, Lautsprecherbeleuchtung und Stroboskoplicht für die richtige Stimmung
 - Übertragung und Bedienung per Sony l Music Center App direkt über Ihr Smartphone
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07M6YTJ7D/?tag=tolees0ca-21)
