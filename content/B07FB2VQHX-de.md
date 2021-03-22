@@ -28,10 +28,10 @@ Es gibt ein [SUPERZINGS - Polizeistation mit 2 exklusiven SuperZings](https://ww
 
 ℹ️:
 
-- Enthält: 1 Polizeistation Kaboom City + 2 exklusive Superzings + 1 exklusives Motorrad
-- Unisexspielzeug - für Jungen und Mädchen ab 4 Jahren
 - Schieße auf die Dachkanone, finde den geheimen Ausgang und fange die Bösewichte
 - Erlebe neue Abenteuer der Superzings mit den exklusiven Figuren Captain Justice und Chuckchain
+- Unisexspielzeug - für Jungen und Mädchen ab 4 Jahren
+- Enthält: 1 Polizeistation Kaboom City + 2 exklusive Superzings + 1 exklusives Motorrad
 - Ideal, um die Fantasie, Kreativität und Geselligkeit von Kindern zu entwickeln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FB2VQHX/?tag=tolees0ca-21)

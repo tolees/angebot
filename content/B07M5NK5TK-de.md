@@ -28,10 +28,10 @@ Sie können [Coca-Cola Zero Sugar Cherry / Fruchtiges Erfrischungsgetränk ohne 
 
 ℹ️:
 
-- Taste the Feeling: Kirschgeschmack. Coca-Cola Zero Sugar. Voller Genuss ohne Zucker! Das Kultgetränk mit Cherry Aroma ist ein fruchtig frisches Softgetränk für jede Lebenslage
-- Die etwas andere Coke: Mit ihrem einzigartigen und prickelnden Kirschgeschmack und dem frischen Design überzeugt die Coca-Cola Cherry Zero Sugar Menschen auf der ganzen Welt
-- Lieferumfang: 24 x 330 ml Coca-Cola Cherry Zero Sugar Einweg Dosen/ Fruchtig frischer Softdrink mit originalem Coca-Cola Kirsch Geschmack ohne Zucker
 - Die handlichen 0, 5L Einweg Flaschen halten den besonderen Softdrink nicht nur lange frisch, sondern passen dank der praktischen Größe in jede Tasche und sind auch perfekt für unterwegs
 - Fruchtiger Coke Genuss für jeden Moment: Ob beim Fußball gucken, Grillen mit Freunden, unterwegs oder auf Partys - die erfrischende Coke Cherry Zero Sugar passt immer!
+- Lieferumfang: 24 x 330 ml Coca-Cola Cherry Zero Sugar Einweg Dosen/ Fruchtig frischer Softdrink mit originalem Coca-Cola Kirsch Geschmack ohne Zucker
+- Taste the Feeling: Kirschgeschmack. Coca-Cola Zero Sugar. Voller Genuss ohne Zucker! Das Kultgetränk mit Cherry Aroma ist ein fruchtig frisches Softgetränk für jede Lebenslage
+- Die etwas andere Coke: Mit ihrem einzigartigen und prickelnden Kirschgeschmack und dem frischen Design überzeugt die Coca-Cola Cherry Zero Sugar Menschen auf der ganzen Welt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07M5NK5TK/?tag=tolees0ca-21)
