@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas 3-Streifen French Terry C Sportho mit 20.00 % Rabatt'
-date: 2021-03-18 13:19:39
+date: 2021-03-22 10:26:46
 image: 'https://m.media-amazon.com/images/I/316UbvexpgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'adidas'
 buyurl: 'https://www.amazon.de/dp/B08PKZCV1R/?tag=tolees0ca-21'
 descuento: '20.00'
-average: '36.3275'
+average: '36.26'
 ---
 
 Sie können [adidas 3-Streifen French Terry C Sporthose Black/White M](https://www.amazon.de/dp/B08PKZCV1R/?tag=tolees0ca-21) mit Preis 35.99 EUR (original: 44.99 EUR) 20.00 % Rabatt hier:
