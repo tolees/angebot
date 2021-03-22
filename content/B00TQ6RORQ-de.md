@@ -29,8 +29,8 @@ Es gibt ein [Funko 5858 HP FunkoPop Harry Potter  bunt](https://www.amazon.de/dp
 ℹ️:
 
 - POP! Vinylfigur
-- Originalgetreu
 - Harry Potter
+- Originalgetreu
 - Harry Potter
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00TQ6RORQ/?tag=tolees0ca-21)
