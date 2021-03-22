@@ -28,7 +28,7 @@ Sie können [ONLY Damen Onlcool Coated Noos Leggings  Schwarz  Black Black   M E
 
 ℹ️:
 
-- Hose
 - Jeans
+- Hose
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07T6WCWQ7/?tag=tolees0ca-21)
