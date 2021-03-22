@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch Lite  Standard  gelb mit 21.40 % Rabatt'
-date: 2021-03-21 15:25:00
+date: 2021-03-22 16:31:25
 image: 'https://m.media-amazon.com/images/I/41HUECBFXtL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B07V6M7YLT/?tag=tolees0ca-21'
 descuento: '21.40'
-average: '195.016250000001'
+average: '194.769918032787'
 ---
 
 Sie können [Nintendo Switch Lite  Standard  gelb](https://www.amazon.de/dp/B07V6M7YLT/?tag=tolees0ca-21) mit Preis 179.99 EUR (original: 229.0 EUR) 21.40 % Rabatt hier:
@@ -28,8 +28,8 @@ Sie können [Nintendo Switch Lite  Standard  gelb](https://www.amazon.de/dp/B07V
 
 ℹ️:
 
+- Tragen Sie ganz einfach alle Ihre Lieblingsspiele !
 - Entwickelt für tragbare Spiele !
 - Verbinden Sie bis zu acht Konsolen im Mehrspielermodus !
-- Tragen Sie ganz einfach alle Ihre Lieblingsspiele !
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07V6M7YLT/?tag=tolees0ca-21)
