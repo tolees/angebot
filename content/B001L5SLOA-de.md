@@ -28,9 +28,9 @@ Sie können [FISCHER Universaldübel UX 8 x 50 R  Schachtel mit 50 Nylondübeln 
 
 ℹ️:
 
-- Universelles Funktionsprinzip: Die Kunststoffdübel sind die richtige Wahl bei unbekanntem Verankerungsgrund, da sie je nach Bedarf verknoten oder verspreizen und dank des angeformten Randes beim Einstecken nicht ins Bohrloch rutschen.
-- Optimale Schraubenführung: Der Dübel besitzt schräge Verbindungsstege und erleichtert Ihnen so das Eindrehen der Schraube, während sägezahnförmige Verdrehsicherungen ein Mitdrehen verhindern und größtmögliche Montagesicherheit gewährleisten.
 - Anwendungsgebiete: Die universellen UX Dübel für Wände und Decken eignen sich zur Anbringung leichter bis schwerer Gegenstände wie Bilder, Leuchten, TV-Konsolen, Sanitär-Befestigungen uvm. in allen Baustoffen, wie u. a. Beton, Gipsfaserplatten, Naturstein, Spanplatten und Vollziegel.
+- Optimale Schraubenführung: Der Dübel besitzt schräge Verbindungsstege und erleichtert Ihnen so das Eindrehen der Schraube, während sägezahnförmige Verdrehsicherungen ein Mitdrehen verhindern und größtmögliche Montagesicherheit gewährleisten.
+- Universelles Funktionsprinzip: Die Kunststoffdübel sind die richtige Wahl bei unbekanntem Verankerungsgrund, da sie je nach Bedarf verknoten oder verspreizen und dank des angeformten Randes beim Einstecken nicht ins Bohrloch rutschen.
 - Lieferumfang: 1 x Faltschachtel Universaldübel UX (Art.-Nr. 77870), Karton mit 100 Nylon-Universaldübeln (100 Stk. 8 x 50) von fischer.
 - Überall einsetzbar: Der Universaldübel UX deckt jeden Bereich von Anwendungen rund um Renovierung, Reparatur, Umzug und Einzug ab – für eine solide Verankerung in Baustoffen mit unbekanntem Verankerungsgrund.
 
