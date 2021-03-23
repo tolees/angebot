@@ -28,8 +28,8 @@ Sie können [Sylvanian Families 5543 Prinzessinnenkutsche - Puppenhaus Spielset]
 
 ℹ️:
 
-- für Kinder ab 3 Jahren geeignet
 - Sylvanian Families fördert das Rollenspiel bei Kindern.
+- für Kinder ab 3 Jahren geeignet
 - inkl. Schokoladenhasen Baby Figur, ca. 4cm groß, bewegliche Arme und Beine
 - Kutsche aufklappbar, verwandelt sich in zauberhaftes Prinzessinnenzimmer
 - Kutsche mit Tür zum Öffnen, Möbeln und Prinzessinnenkleid für Baby Figur

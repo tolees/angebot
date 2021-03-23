@@ -28,9 +28,9 @@ Sie können [Panasonic DP-UB424EGS Ultra HD Blu-ray Player  4K Blu-ray Disc  4K 
 
 ℹ️:
 
-- High Res Audio-Wiedergabe und zwei HDMI Ausgänge für isolierte Tonausgabe sowie 7.1 Analog-Ausgänge
-- Ultra HD Blu-ray Player mit 4K Wiedergabe mit dynamischer Helligkeitsanpassung dank HDR10+
 - 4K VoD und mehr: vielseitige Auswahl an Internet Apps sowie 4K Streaming Diensten wie Netflix etc.
+- Ultra HD Blu-ray Player mit 4K Wiedergabe mit dynamischer Helligkeitsanpassung dank HDR10+
+- High Res Audio-Wiedergabe und zwei HDMI Ausgänge für isolierte Tonausgabe sowie 7.1 Analog-Ausgänge
 - Einfache Bedienung und bequeme Steuerung – u. a. Unterstützung der Sprachassistenten Alexa und Google Assistant
 - Faszinierender Detailreichtum und breites Farbspektrum dank modernster HCX Prozessor-Technologie
 

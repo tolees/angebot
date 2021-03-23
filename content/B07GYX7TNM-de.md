@@ -28,10 +28,10 @@ Sie können [Bosch Smart Home WLAN Überwachungskamera  360° drehbar  für den 
 
 ℹ️:
 
-- Privatsphäre auf Wunsch per App-Befehl oder Fingertipp an der Kamera, wodurch sich die Linse in den Sockel zurückzieht
 - Kompatibel mit Amazon Alexa
-- Zeichnet dank integrierter Bewegungssensoren ausschließlich relevante Ereignisse in einem Winkel von 360° auf
+- Privatsphäre auf Wunsch per App-Befehl oder Fingertipp an der Kamera, wodurch sich die Linse in den Sockel zurückzieht
 - Bosch Smart Home 360° Innenkamera - für einen Blick in jeden Winkel des Raumes
+- Zeichnet dank integrierter Bewegungssensoren ausschließlich relevante Ereignisse in einem Winkel von 360° auf
 - Kann dank eingebautem Mikrofon und Lautsprecher auch als Gegensprechanlage verwendet werden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GYX7TNM/?tag=tolees0ca-21)
