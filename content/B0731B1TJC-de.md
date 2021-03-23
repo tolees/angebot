@@ -28,7 +28,7 @@ Sie können [Champion Herren - Classic Logo Sweatshirt - Schwarz  L](https://www
 
 ℹ️:
 
-- Gerippte Manschetten
 - Großes Logo auf der Brust
+- Gerippte Manschetten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0731B1TJC/?tag=tolees0ca-21)

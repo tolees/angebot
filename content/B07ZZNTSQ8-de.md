@@ -28,8 +28,8 @@ Es gibt ein [Funko 47168 POP Rocks DMC-Run Sammelbares Spielzeug  Mehrfarben](ht
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Run-DMC-Figuren von Funko an! Sammeln Sie alle!
 - Von Run-DMC, RUN, zur stilisierten POP-Vinyl Figur von Funko!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Schauen Sie sich jetzt die anderen Run-DMC-Figuren von Funko an! Sammeln Sie alle!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZZNTSQ8/?tag=tolees0ca-21)
