@@ -28,10 +28,10 @@ Sie können [AOSANITY - 10X FFP3 Maske CE Zertifiziert Schutzmaske Mundmaske  6-
 
 ℹ️:
 
+- Premium 6-Lagen-Filtration: Unsere FFP3 Maske verfügt über ein 6-Lagen-Filtersystem, mit dem Staub / Verunreinigungen in der Luft zum Schutz von Erwachsenen effektiv herausgefiltert werden können. Diese Schutzmask entspricht auch der europäischen Norm EN149:2001+A1:2009.
 - KOMFORTABEL UND EINFACH ZU TRAGEN: Diese Maske verfügt über eine konturierte Form, die einen sicheren Sitz für zusätzlichen Komfort und Sicherheit gewährleistet. Unsere Masken bestehen aus bequemen Stoffen, die sich weich anfühlen und daher ideal für Menschen mit empfindlicher Haut sind.
 - Schutzmaske: FFP3-Masken sind für eine hohe Filtrationskapazität ausgelegt, mit der mindestens 95% der in der Luft befindlichen Partikel gefiltert werden können. Verwenden Sie diese Maske, um Ihre Gesundheit gut zu schützen.
 - Qualitativ hochwertiger Kundendienst Wenn Sie Probleme bei der Verwendung haben, setzen Sie sich bitte rechtzeitig mit uns in Verbindung. Wir bieten Ihnen einen professionellen Kundendienst.
-- Premium 6-Lagen-Filtration: Unsere FFP3 Maske verfügt über ein 6-Lagen-Filtersystem, mit dem Staub / Verunreinigungen in der Luft zum Schutz von Erwachsenen effektiv herausgefiltert werden können. Diese Schutzmask entspricht auch der europäischen Norm EN149:2001+A1:2009.
 - Einfach zu transportieren: Es ist einfach, diese Schutzmask an allen öffentlichen Orten zu tragen und zu verwenden, sodass Sie über einen längeren Zeitraum leicht und bequem atmen können.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08P7VDR7B/?tag=tolees0ca-21)

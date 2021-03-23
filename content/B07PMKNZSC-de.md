@@ -29,8 +29,8 @@ Sie können [ONLY Damen Jeansjacke Kurze 40Light Blue Denim](https://www.amazon.
 ℹ️:
 
 - Knopfverschluss vorn
-- Materialzusammensetzung: 98% Baumwolle, 2% Lyocell
 - Kurze Jeansjacke
+- Materialzusammensetzung: 98% Baumwolle, 2% Lyocell
 - 2 Brusttaschen mit Patte und Knopf
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PMKNZSC/?tag=tolees0ca-21)

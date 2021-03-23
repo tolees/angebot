@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.01 % rabat auf LEGO 21028 Architecture New York City Ba'
-date: 2021-03-22 10:48:48
+date: 2021-03-23 13:34:58
 image: 'https://m.media-amazon.com/images/I/51eda0bZppL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21'
 descuento: '28.01'
-average: '37.4780000000001'
+average: '37.4688990825689'
 ---
 
 Es gibt ein [LEGO 21028 Architecture New York City Bauset  Skyline-Kollektion](https://www.amazon.de/dp/B012NOGGHQ/?tag=tolees0ca-21) mit aktuellem Preis 35.99 EUR (original: 49.99 EUR) 28.01 % Rabatt hier:
