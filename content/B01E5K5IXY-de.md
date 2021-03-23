@@ -30,9 +30,9 @@ Sie können [Somat Classic  Spülmaschinen-Tabs  Sparpack  150 Tabs für die tä
 
 - Außerdem bietet Somat Classic starken Schutz Ihrer Gläser vor Glaskorrosion, Gläser werden zwar von Schmutz und Wasserﬂecken gereinigt, aber gehen dabei nicht zu Bruch
 - Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen
-- Für ein ideales Spülergebnis wird zusätzlich die Verwendung von Somat Spezial-Salz und Somat Klarspüler empfohlen
-- Somat Classic Geschirrspültabs eignen sich für die tägliche Reinigung ihres Geschirrs auch für Kurzprogramme
-- Schnell und Einfach: Einen Tab auspacken und in die Dosierkammer der Spülmaschine legen und das Geschirr ohne Einweichen ab 45° reinigen lassen
 - Dank seiner Extra-Kraft entfernt Somat Classic selbst hartnäckige Tee- und Kaffeeflecken mühelos und hilft dabei ein optimales Reinigungserlebnis zu erzielen
+- Schnell und Einfach: Einen Tab auspacken und in die Dosierkammer der Spülmaschine legen und das Geschirr ohne Einweichen ab 45° reinigen lassen
+- Somat Classic Geschirrspültabs eignen sich für die tägliche Reinigung ihres Geschirrs auch für Kurzprogramme
+- Für ein ideales Spülergebnis wird zusätzlich die Verwendung von Somat Spezial-Salz und Somat Klarspüler empfohlen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01E5K5IXY/?tag=tolees0ca-21)

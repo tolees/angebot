@@ -28,9 +28,9 @@ Es gibt ein [Somat Spezial Salz  1 x 1.2 kg ](https://www.amazon.de/dp/B003U54CE
 
 ℹ️:
 
-- Beste Voraussetzung für ein glänzendes Spülergebnis
 - 3x Anti-Kalk Aktiv
 - Verlängert sich die Lebensdauer der Spülmaschine
 - Schützt perfekt vor Kalk
+- Beste Voraussetzung für ein glänzendes Spülergebnis
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003U54CEW/?tag=tolees0ca-21)

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '31.89 % rabat auf TP-Link TL-WA850RE WLAN Repeater  300 Mb'
-date: 2021-03-12 06:07:40
+date: 2021-03-23 04:03:36
 image: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A0VCJPI-de TP-Link TL-WA850RE WLAN Repeater 300 Mbit/s WLAN...'
 sku: 'B00A0VCJPI-de'
+tags: [ '249195031','Computer','Computer & Zubehör','Netzwerk','Netzwerkgeräte','Produkte','Repeater','W-LAN','tp-link', ]
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21'
 descuento: '31.89'
-average: '16.8809615384617'
+average: '16.8824528301888'
 ---
 
 Es gibt ein [TP-Link TL-WA850RE WLAN Repeater  300 Mbit/s  WLAN Verstärker  App Steuerung  Ethernet-Port  WPS  AP Modus  LED abschaltbar  kompatibel zu allen WLAN Geräten  weiß](https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21) mit aktuellem Preis 16.96 EUR (original: 24.9 EUR) 31.89 % Rabatt hier:
@@ -28,11 +29,11 @@ Es gibt ein [TP-Link TL-WA850RE WLAN Repeater  300 Mbit/s  WLAN Verstärker  App
 ℹ️:
 
 - Ein LAN-Port zur Integration kabelgebundener Netzwerkgeräte wie Spielekonsolen, Smart-TVs in ein WLAN
-- 1-2 Zimmer Wohnung, Internet-Geschwindigkeit unter 100Mbit/s
-- Tether App ermöglicht einfachen Zugriff und Verwaltung mit jedem mobilen Gerät
-- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
 - Energieverbrauch - 3W
 - High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
+- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
+- Tether App ermöglicht einfachen Zugriff und Verwaltung mit jedem mobilen Gerät
+- 1-2 Zimmer Wohnung, Internet-Geschwindigkeit unter 100Mbit/s
 - Verpackungsinhalt: TL-WA850RE, Schnellinstallationsanleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21)

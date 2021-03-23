@@ -29,9 +29,9 @@ Es gibt ein [Bosch Smart Home Eyes Außenkamera  Variante Deutschland  Frankreic
 ℹ️:
 
 - Einfache Anbringung der hochauflösenden Kamera anstelle einer Außenleuchte ohne speziellen Anschluss
-- Vielseitig: dient als Kamera, Gegensprechanlage und Außenleuchte
-- Bosch Smart Home Eyes Außenkamera - für eine zuverlässige Grundstücksüberwachung mit zusätzlicher Lichtfunktion
-- Dank intelligenten Sensor reagiert die Kamera nicht auf Bewegungen von Bäumen oder Haustieren
 - Kompatibel mit Amazon Alexa
+- Dank intelligenten Sensor reagiert die Kamera nicht auf Bewegungen von Bäumen oder Haustieren
+- Bosch Smart Home Eyes Außenkamera - für eine zuverlässige Grundstücksüberwachung mit zusätzlicher Lichtfunktion
+- Vielseitig: dient als Kamera, Gegensprechanlage und Außenleuchte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XXDWCGZ/?tag=tolees0ca-21)
