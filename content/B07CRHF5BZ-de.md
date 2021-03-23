@@ -28,13 +28,13 @@ Sie können [Polk Audio Command Bar Soundbar System mit Subwoofer  Amazon Alexa 
 
 ℹ️:
 
-- Dekodierung von Dolby-/DTS-Surround-Sound sorgen für eine immersive, raumfüllende Heimkino-Erfahrung
-- HDMI 2x IN (4K), 1x OUT (ARC)
-- Da Amazon Alexa Cloud-basiert ist, lernt sie kontinuierlich dazu. Bitten Sie Alexa, Musik abzuspielen, Nachrichten vorzulesen, das Wetter zu überprüfen, Ihr Smart Home zu steuern und vieles mehr.
-- Musikgenuss garantiert: Streamen Sie über WLAN oder Bluetooth Musik von Amazon Prime Music, TuneIn und Spotify
-- Kompatibel mit modernsten 4K-Inhalten und HDR
-- Unterstützung für Multi-Room-Musik (MRM), somit kann die Soundbar im Multiroom-Modus mit anderen Alexa-Lautsprechern betrieben werden
-- Kinoerlebnis im Wohnzimmer: Mit patentierter Polk VoiceAdjust-Technologie für kristallklare Dialoge, kabellosem Subwoofer und eine besondere Anordnung der Treibertechnik
 - Amazon Alexa integriert für einfache Sprachsteuerung
+- Kinoerlebnis im Wohnzimmer: Mit patentierter Polk VoiceAdjust-Technologie für kristallklare Dialoge, kabellosem Subwoofer und eine besondere Anordnung der Treibertechnik
+- Unterstützung für Multi-Room-Musik (MRM), somit kann die Soundbar im Multiroom-Modus mit anderen Alexa-Lautsprechern betrieben werden
+- Kompatibel mit modernsten 4K-Inhalten und HDR
+- Da Amazon Alexa Cloud-basiert ist, lernt sie kontinuierlich dazu. Bitten Sie Alexa, Musik abzuspielen, Nachrichten vorzulesen, das Wetter zu überprüfen, Ihr Smart Home zu steuern und vieles mehr.
+- HDMI 2x IN (4K), 1x OUT (ARC)
+- Musikgenuss garantiert: Streamen Sie über WLAN oder Bluetooth Musik von Amazon Prime Music, TuneIn und Spotify
+- Dekodierung von Dolby-/DTS-Surround-Sound sorgen für eine immersive, raumfüllende Heimkino-Erfahrung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CRHF5BZ/?tag=tolees0ca-21)

@@ -30,8 +30,8 @@ Sie können [Playmobil:THE MOVIE 70078 Rex Dasher s Porsche Mission E  Ab 6 Jahr
 
 - Ferngesteuerter Sportwagen platzbietend für 2 Figuren, Abnehmbares Dach, Mit Ladesäule, uvm. Passend zu PLAYMOBIL:THE MOVIE Marla (70072)
 - Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Lieferumfang: 1x PLAYMOBIL:THE MOVIE Rex Dashers Porsche Mission E, 24-teiliges Spielfiguren-Set mit Anleitung: 1 Porsche Mission E, 1 RC-Steuerung, 1 Figur, 21 Zubehörteile (wird ohne 3 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 27,5x11x7,5 cm, Art.-Nr. 70078
 - Spielspaß für kleine Leinwand-Fans: PLAYMOBIL:THE MOVIE Rex Dashers Porsche Mission E mit Scheinwerfen und Rücklicht für detailgetreues Nachspielen
+- Lieferumfang: 1x PLAYMOBIL:THE MOVIE Rex Dashers Porsche Mission E, 24-teiliges Spielfiguren-Set mit Anleitung: 1 Porsche Mission E, 1 RC-Steuerung, 1 Figur, 21 Zubehörteile (wird ohne 3 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 27,5x11x7,5 cm, Art.-Nr. 70078
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07P7KKCNS/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [Pentel P207-C Druckbleistift  HB  0.7 mm  blau](https://www.amazon.
 
 ℹ️:
 
-- integrierter Radierer
-- abnehmbarer Clip
 - feststehendes 4mm Minenführungsrohr für präzises Arbeiten an Lineal und Schablone
+- abnehmbarer Clip
+- integrierter Radierer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004PTORHO/?tag=tolees0ca-21)

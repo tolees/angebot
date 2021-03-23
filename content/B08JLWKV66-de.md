@@ -28,9 +28,9 @@ Es gibt ein [s simplecase - Simplecase 40 Stück FFP2 Maske  CE Zertifiziert von
 
 ℹ️:
 
+- Schaumstoff unter dem Nasenbügel sorgt für optimale Abdichtung und Komfort
 - FFP2 Maske, filtert über 94% der wasserhaltigen und ölhaltigen Aerosole sowie Feinstaub
 - Inkl. original SIMPLECASE ASSEKURANZ (Details siehe unten)
-- Schaumstoff unter dem Nasenbügel sorgt für optimale Abdichtung und Komfort
 - Nach EN149:2001+A1:2009 CE zertifiziert von EU benannter Stelle CE 2834
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08JLWKV66/?tag=tolees0ca-21)
