@@ -29,9 +29,9 @@ Es gibt ein [Bosch Home and Garden - Bosch Akkuschrauber IXO Set mit Ladestation
 ℹ️:
 
 - Der IXO – Der legendäre Akkuschrauber jetzt in seiner 6. Generation mit Ladestation inklusive
+- Lieferumfang Amazon Edition: EasyDrill 1200, 1 x 2,0-Ah-Akku , 1 x Ladegerät, 32-tlg. Schrauben Set, 6-tlg. Metallbohrer Set, 5-tlg. Holzbohrer Set, Softbag
+- Großer Einsatzbereich: Der Schrauber besitzt eine Schnittstelle für verschiedene Aufsätze aus der IXO Collection für Hobby und alltägliche Arbeiten im und rund ums Haus
 - Zwei Lademöglichkeiten und Batterie-Statusanzeige: Der Akkuschrauber kann ganz einfach mit der mitgelieferten Ladestation oder direkt über Micro-USB aufgeladen werden. Er zeigt den Ladezustand mit 3 LEDs genau an.
 - Stufenlose Drehzahlsteuerung: Je stärker der Druck auf den Schalter, desto höher die Drehzahl – nie wieder beschädigtes Material oder abgenutzte Schrauben
-- Großer Einsatzbereich: Der Schrauber besitzt eine Schnittstelle für verschiedene Aufsätze aus der IXO Collection für Hobby und alltägliche Arbeiten im und rund ums Haus
-- Lieferumfang Amazon Edition: EasyDrill 1200, 1 x 2,0-Ah-Akku , 1 x Ladegerät, 32-tlg. Schrauben Set, 6-tlg. Metallbohrer Set, 5-tlg. Holzbohrer Set, Softbag
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08JTPSBRX/?tag=tolees0ca-21)
