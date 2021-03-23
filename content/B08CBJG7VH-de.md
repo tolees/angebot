@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Electric Scooter 1S  DE  Faltb mit 26.05 % Rabatt'
-date: 2021-03-22 16:16:33
+date: 2021-03-23 19:52:00
 image: 'https://m.media-amazon.com/images/I/31hv-Xful0L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B08CBJG7VH/?tag=tolees0ca-21'
 descuento: '26.05'
-average: '374.207901234568'
+average: '374.144390243902'
 ---
 
 Sie können [Xiaomi Mi Electric Scooter 1S  DE  Faltbarer E-Scooter mit Straßenzulassung + Appanbindung aus Luftfahrtaluminium  max Geschwindigkeit 20km/h bis zu 30km Reichweite max Belastung 100kg  LED Anzeige ](https://www.amazon.de/dp/B08CBJG7VH/?tag=tolees0ca-21) mit Preis 369.0 EUR (original: 499.0 EUR) 26.05 % Rabatt hier:
@@ -28,15 +28,15 @@ Sie können [Xiaomi Mi Electric Scooter 1S  DE  Faltbarer E-Scooter mit Straßen
 
 ℹ️:
 
-- Maximale Geschwindigkeit von 20km/h
-- Duales Bremssystem mit Bremsenergie-Rückgewinnung
-- Per iOS/Android Mi Home App Einstellungen verwalten und sperren
-- E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen
-- 275Wh Lithium Ionen Akku mit langer Reichweite von bis zu 30km (abhängig von Straßengegebenheiten, Körpergröße & -gewicht)
 - Bremslicht hinten, Frontlicht vorne und seitliche Reflektoren
-- Klappbar und leicht zu transportieren dank einem Gewicht von lediglich 12,5kg
 - LED Anzeige für Geschwindigkeit, Batteriestand und Fahrmodus
+- 275Wh Lithium Ionen Akku mit langer Reichweite von bis zu 30km (abhängig von Straßengegebenheiten, Körpergröße & -gewicht)
+- E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen
+- Maximale Geschwindigkeit von 20km/h
+- Klappbar und leicht zu transportieren dank einem Gewicht von lediglich 12,5kg
+- Per iOS/Android Mi Home App Einstellungen verwalten und sperren
 - Intuitive und einfache Bedienung
+- Duales Bremssystem mit Bremsenergie-Rückgewinnung
 - 8,5" Luftreifen für ein sicheres Fahrgefühl
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CBJG7VH/?tag=tolees0ca-21)

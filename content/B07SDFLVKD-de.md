@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Microsoft - Xbox Wireless Controller Car mit 32.61 % Rabatt'
-date: 2021-03-22 10:56:32
+title: 'Microsoft - Xbox Wireless Controller Car mit 32.53 % Rabatt'
+date: 2021-03-23 19:26:27
 image: 'https://m.media-amazon.com/images/I/414ZFHo8wUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Controller für Xbox Series X & S','Games','Xbox Series X & S','Zubehö
 actualPrice: 48.98 EUR
 currency: EUR
 price: 48.98
-comparePrice: 72.68 EUR
+comparePrice: 72.6 EUR
 prodname: 'Microsoft - Xbox Wireless Controller Carbon Black'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.de/dp/B07SDFLVKD/?tag=tolees0ca-21'
-descuento: '32.61'
-average: '60.9476543209877'
+descuento: '32.53'
+average: '60.6592771084338'
 ---
 
-Sie können [Microsoft - Xbox Wireless Controller Carbon Black](https://www.amazon.de/dp/B07SDFLVKD/?tag=tolees0ca-21) mit Preis 48.98 EUR (original: 72.68 EUR) 32.61 % Rabatt hier:
+Sie können [Microsoft - Xbox Wireless Controller Carbon Black](https://www.amazon.de/dp/B07SDFLVKD/?tag=tolees0ca-21) mit Preis 48.98 EUR (original: 72.6 EUR) 32.53 % Rabatt hier:
 
 [![Microsoft - Xbox Wireless Controller Car](https://m.media-amazon.com/images/I/414ZFHo8wUL._SL400_.jpg)](https://www.amazon.de/dp/B07SDFLVKD/?tag=tolees0ca-21)
 

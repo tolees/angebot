@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42117 Technic Rennflugzeug oder Jet mit 25.03 % Rabatt'
-date: 2021-03-22 16:32:43
+date: 2021-03-23 19:50:08
 image: 'https://m.media-amazon.com/images/I/518L4H0aOkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21'
 descuento: '25.03'
-average: '9.09904255319147'
+average: '9.06552083333332'
 ---
 
 Sie können [LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  Bauset für 7-jährige Kinder](https://www.amazon.de/dp/B08G49HYQB/?tag=tolees0ca-21) mit Preis 7.49 EUR (original: 9.99 EUR) 25.03 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [LEGO 42117 Technic Rennflugzeug oder Jetflugzeug 2-in-1 Spielzeug  
 
 ℹ️:
 
-- Kinder, die Spielzeugflieger lieben, können unzählige Details entdecken. Aufklappbare Triebwerksabdeckungen, das Fahrwerk und der drehende Propeller ermöglichen Rollenspiele und rasante Flüge
-- Ein tolles Geschenk zu jedem Anlass – für Kinder ab 7 Jahren, die Spielzeug-Stuntflieger lieben
 - Das Rennflugzeug ist 9 cm hoch, 18 cm lang und 23 cm breit
+- Ein tolles Geschenk zu jedem Anlass – für Kinder ab 7 Jahren, die Spielzeug-Stuntflieger lieben
 - Instructions PLUS ist eine interaktive Bauanleitung, mit der das Bauen dieses Modells noch mehr Spaß macht. Sie ist in der kostenlosen LEGO Building Instructions App verfügbar und enthält Vergrößerungs- und Drehfunktionen
+- Kinder, die Spielzeugflieger lieben, können unzählige Details entdecken. Aufklappbare Triebwerksabdeckungen, das Fahrwerk und der drehende Propeller ermöglichen Rollenspiele und rasante Flüge
 - Kinder werden diese robuste Kunstflugmaschine gerne zusammenbauen und dann in einen Düsenflieger verwandeln
 - Das LEGO Technic Rennflugzeug (42117) ist ein tolles Geschenk für Nachwuchspiloten. Die kräftigen Farben, die Aufkleber der Sponsoren und der drehende Propeller lassen das Modell wie das echte Vorbild aussehen
 
