@@ -28,9 +28,9 @@ Es gibt ein [Sony SEL-18135 Zoom Objektiv 18-135mm F3.5-5.6 OSS  E-Mount APS-C g
 
 ℹ️:
 
-- Lieferumfang: Streulichtblende (Modell): ALC-SH153, Vordere Objektivkappe: ALC-F55S, Hintere Objektivkappe: ALC-R1EM
-- Moderne, lineare Motortechnologie für schnelle, präzise und leise Fokuskontrolle
 - APS-C Standard-Zoomobjektiv mit starker Vergrößerung
+- Lieferumfang: Streulichtblende (Modell): ALC-SH153, Vordere Objektivkappe: ALC-F55S, Hintere Objektivkappe: ALC-R1EM
 - Herausragendes optisches Design mit einem asphärischen Element für hohe Auflösung von der Bildmitte bis zum Rand
+- Moderne, lineare Motortechnologie für schnelle, präzise und leise Fokuskontrolle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B078VPM6WM/?tag=tolees0ca-21)
