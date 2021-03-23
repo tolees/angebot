@@ -28,10 +28,10 @@ Es gibt ein [Bosch Smart Home Unterputz Rollladen Steuerung  Variante Deutschlan
 
 ℹ️:
 
-- Kompatibel mit Amazon Alexa und Apple Homekit
-- Zur einfachen Steuerung von Rollläden, Jalousien oder Markisen mit einfachem Fingertipp
 - Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
 - Über die Smart Home App einfach automatisch steuerbar z.B. Sonnenaufgang oder Sonnenuntergangszeiten
+- Kompatibel mit Amazon Alexa und Apple Homekit
+- Zur einfachen Steuerung von Rollläden, Jalousien oder Markisen mit einfachem Fingertipp
 - Kostenlose App als Download verfügbar, ohne weitere Kosten bei Nutzung
 - Mehr Komfort durch die Einbindung der Rollladensteuerung in die Szenarien der App
 

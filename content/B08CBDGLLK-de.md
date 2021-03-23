@@ -28,10 +28,10 @@ Es gibt ein [Techwood H32T52E 32 Zoll Fernseher  Smart TV inkl. Prime Video / Ne
 
 ℹ️:
 
-- Empfang: Integrierter Triple-Tuner DVB-T2 (Codec H.265/HEVC), DVB-C- (Kabel) und DVB-S2 (Satellit) – Digitales Fernsehen terrestrisch über Satellit oder Kabel empfangen ohne zusätzlichen Receiver
-- Smart TV mit integriertem WLAN & USB Media-Player/ Apps: Prime Video, Netflix, Maxdome, YouTube, YouTube Kids, Rakuten TV, ARD, ZDF, Facebook uvm. / Anschlüsse: 3x HDMI, 2x USB, CI+ uvm. / Works with Alexa
-- Lieferumfang: Techwood H32T52E HD TV schwarz, Fernbedienung inkl. 2x AAA Batterien, Bedienungsanleitung
 - Auflösung: 1.366 x 768 Pixel (HD-ready)/ Bildwiederholungsrate: 400 CMP
 - Typ: LED Fernseher mit 80 cm (32 Zoll) Bildschirmdiagonale
+- Lieferumfang: Techwood H32T52E HD TV schwarz, Fernbedienung inkl. 2x AAA Batterien, Bedienungsanleitung
+- Smart TV mit integriertem WLAN & USB Media-Player/ Apps: Prime Video, Netflix, Maxdome, YouTube, YouTube Kids, Rakuten TV, ARD, ZDF, Facebook uvm. / Anschlüsse: 3x HDMI, 2x USB, CI+ uvm. / Works with Alexa
+- Empfang: Integrierter Triple-Tuner DVB-T2 (Codec H.265/HEVC), DVB-C- (Kabel) und DVB-S2 (Satellit) – Digitales Fernsehen terrestrisch über Satellit oder Kabel empfangen ohne zusätzlichen Receiver
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CBDGLLK/?tag=tolees0ca-21)

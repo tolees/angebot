@@ -28,10 +28,10 @@ Es gibt ein [Zyxel 8-port Desktop Gigabit Ethernet Switch – Metallgehäuse  Li
 
 ℹ️:
 
-- Kompaktes, stabiles Design, wahlweise als Wandgerät
 - Mit zweifarbigen LEDs für den Status des Ethernet-Ports
 - Einfacheres Multimedia Streaming durch die schnelle Gigabit-Verbindung des Zyxel GS-108B v3
-- Energiesparend mit seiner Green Ethernet-Funktion
 - Multimedia Streaming und Online-Spiele ohne Aufwand dank QoS-Ports mit 3 unterschiedlichen Prioritätsstufen
+- Energiesparend mit seiner Green Ethernet-Funktion
+- Kompaktes, stabiles Design, wahlweise als Wandgerät
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B017N0DTZM/?tag=tolees0ca-21)
