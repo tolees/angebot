@@ -28,10 +28,10 @@ Sie können [Bosch Smart Home Tür-/Fensterkontakt mit App-Funktion  Variante De
 
 ℹ️:
 
+- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
+- Kompatibel mit Apple Homekit
+- Veranlasst als Teil der Bosch Smart Home Raumklima-Lösung das automatische Herunterregeln der Bosch Smart Home Heizkörper-Thermostate bei offenem Fenster
 - Bosch Smart Home Tür- und Fensterkontakt - Energieeffizienz und Sicherheit in Ihrem Zuhause
 - Der Tür-/Fensterkontakt erkennt offene Fenster und Türen und meldet sie über die Bosch Smart Home App direkt an Ihr Smartphone
-- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
-- Veranlasst als Teil der Bosch Smart Home Raumklima-Lösung das automatische Herunterregeln der Bosch Smart Home Heizkörper-Thermostate bei offenem Fenster
-- Kompatibel mit Apple Homekit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N691NKL/?tag=tolees0ca-21)
