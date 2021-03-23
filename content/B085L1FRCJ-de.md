@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung TU8079 138 cm  55 Zoll  LED Fern mit 31.49 % Rabatt'
-date: 2021-03-22 10:22:29
+title: 'Samsung TU8079 138 cm  55 Zoll  LED Fern mit 29.18 % Rabatt'
+date: 2021-03-23 11:55:21
 image: 'https://m.media-amazon.com/images/I/51RaQZA4UkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,32 +9,32 @@ author: 'tole.es'
 slug: 'B085L1FRCJ-de Samsung TU8079 138 cm 55 Zoll LED Fernseher Ultra HD...'
 sku: 'B085L1FRCJ-de'
 tags: [ 'Elektronik & Foto','Fernseher','Fernseher & Heimkino','samsung', ]
-actualPrice: 478.9 EUR
+actualPrice: 495.0 EUR
 currency: EUR
-price: 478.9
+price: 495.0
 comparePrice: 699.0 EUR
 prodname: 'Samsung TU8079 138 cm  55 Zoll  LED Fernseher  Ultra HD  HDR10+  Triple Tuner  Smart TV  [Modelljahr 2020]'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.de/dp/B085L1FRCJ/?tag=tolees0ca-21'
-descuento: '31.49'
-average: '524.905061728393'
+descuento: '29.18'
+average: '524.540365853656'
 ---
 
-Sie können [Samsung TU8079 138 cm  55 Zoll  LED Fernseher  Ultra HD  HDR10+  Triple Tuner  Smart TV  [Modelljahr 2020]](https://www.amazon.de/dp/B085L1FRCJ/?tag=tolees0ca-21) mit Preis 478.9 EUR (original: 699.0 EUR) 31.49 % Rabatt hier:
+Sie können [Samsung TU8079 138 cm  55 Zoll  LED Fernseher  Ultra HD  HDR10+  Triple Tuner  Smart TV  [Modelljahr 2020]](https://www.amazon.de/dp/B085L1FRCJ/?tag=tolees0ca-21) mit Preis 495.0 EUR (original: 699.0 EUR) 29.18 % Rabatt hier:
 
 [![Samsung TU8079 138 cm  55 Zoll  LED Fern](https://m.media-amazon.com/images/I/51RaQZA4UkL._SL400_.jpg)](https://www.amazon.de/dp/B085L1FRCJ/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Alexa integriert, Bixby integriert, Kompatibel mit Google Assistant und Airplay 2,
 - Digitaler Fernsehempfang (DVB): DVB-C/S2/T2 HD, Analoger Tuner, CI+, 3x HDMI, 2x USB, 1x LAN, WLAN, 1x CI+-Slot, 2x Antenneneingang
 - HD+ integriert: 24 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt.
-- Alexa integriert, Bixby integriert, Kompatibel mit Google Assistant und Airplay 2,
 - Lieferumfang: Samsung TU8079 138 cm (55 Zoll) mit Kielfuß, Fernbedienung Smarte Remote (schwarz), Stromkabel, Anleitung
-- Streaming-Dienste: Amazon Video, Netflix, Zattoo, Youtube, Maxdome, ARD, DAZN, Gamefly, Ran, Videoland, Videociety, Wuaki, Prosieben Apps, etc.
-- HD+ integriert: 23 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt
 - Typ: 4K UHD, Flat, LED Fernseher, Rahmenlos Schieferschwarz
 - Auflösung 3.840 x 2.160 Pixel (4K/Ultra HD), HDR10+, PurColor, UHD Dimming, Auto Game Mode, Ambient Mode
+- HD+ integriert: 23 private HD- und 2 UHD-Sender sowie HD+ Komfort-Funktion mit Neustart, Mediatheken und TV-Guide. 6 Monate gratis testen. SAT-Empfang benötigt
+- Streaming-Dienste: Amazon Video, Netflix, Zattoo, Youtube, Maxdome, ARD, DAZN, Gamefly, Ran, Videoland, Videociety, Wuaki, Prosieben Apps, etc.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085L1FRCJ/?tag=tolees0ca-21)
