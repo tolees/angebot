@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.26 % rabat auf TP-Link Tapo WLAN Smart Steckdose Tapo P'
-date: 2021-03-22 22:23:07
+date: 2021-03-24 04:00:08
 image: 'https://m.media-amazon.com/images/I/31YgJtyM-QL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ Es gibt ein [TP-Link Tapo WLAN Smart Steckdose Tapo P100  Smart Home WiFi Steckd
 
 ℹ️:
 
+- WARNUNG: Keine Erdungssteckdose Europäische Steckdose, nur für eine Buchse Typ C (oder Steckdosen)
+- Abwesenheitsmodus - Schalten Sie Ihre Lichter zu unterschiedlichsten Zeiten an und aus um die Anwesenheit einer Person zu simulieren
 - Sprachsteuerung - Aktivieren Sie Ihre smarte Steckdose mit Sprachbefehlen über Amazon Alexa oder den Google Assistant
+- Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
 - Lieferumfang: Tapo P100 (nur auf 2.4GHz), Schnellinstallationsanleitung
 - *Mit Fritzbox OS. 7.20 brauchen Sie Ihren Verschlüsselungsstandard zu WPA2 zu fixieren, um Tapo P100 problemlos anzuschließen
-- Abwesenheitsmodus - Schalten Sie Ihre Lichter zu unterschiedlichsten Zeiten an und aus um die Anwesenheit einer Person zu simulieren
-- WARNUNG: Keine Erdungssteckdose Europäische Steckdose, nur für eine Buchse Typ C (oder Steckdosen)
 - Einfache Einrichtung und Verwendung - Schnelle und einfache tägliche Einrichtung und Verwaltung über kostenlose App (kostenfrei für IOs und Android)
 - Zugriff auch von unterwegs - Steuern Sie alle Geräte bequem über das Smartphone, überall und zu jeder Zeit
-- Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07Z5JD3T4/?tag=tolees0ca-21)
