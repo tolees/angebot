@@ -28,8 +28,8 @@ Es gibt ein [Western Digital - WD Elements Portable   externe Festplatte - 3 TB 
 
 ℹ️:
 
-- Datenspeicher/Externe Festplatten
 - USB3.0 / 2.5", 15 mm / Computing Storage /
 - External hard drives / Externe Geräte &
+- Datenspeicher/Externe Festplatten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XG892ZH/?tag=tolees0ca-21)
