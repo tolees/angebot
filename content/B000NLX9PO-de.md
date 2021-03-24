@@ -29,9 +29,9 @@ Sie können [Rapesco 0689 Dokumententasche mit Druckknopf A5 Transparent Farblic
 ℹ️:
 
 - Verschiedene Farben
-- Federhalter unter der umfaltbaren Klappe
 - Großes Fassungsvermögen von bis zu 50 Blatt
-- A5 Format
+- Federhalter unter der umfaltbaren Klappe
 - Umfaltbare Klappe mit farblich abgestimmten Druckknopf zur Aufbewahrung von Dokumenten
+- A5 Format
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000NLX9PO/?tag=tolees0ca-21)

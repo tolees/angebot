@@ -30,8 +30,8 @@ Sie können [MeaVita FFP2 Einweg Mund- und Nasenschutz  40er Pack  Einweg Maske 
 
 - Es handelt sich bei den MeaVita Masken um Einweg-Halbmasken
 - Der in der Maske verarbeitete Vliesstoff sorgt für ein angenehmes Atmen
-- Unsere Masken bieten zur Befestigung hinter den Ohren zwei Ohrenschlaufen
 - Maße: circa 15,5 x 9,5 cm, Material: Vlies, Einweg-Maske, inklusive Nasenbügel zum komfortablen Tragen
+- Unsere Masken bieten zur Befestigung hinter den Ohren zwei Ohrenschlaufen
 - Durch die eingearbeiteten Schlaufen passen die Masken ideal zu jeder Gesichtsform
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08MQR113G/?tag=tolees0ca-21)

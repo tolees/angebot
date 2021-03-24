@@ -28,10 +28,10 @@ Sie können [Media Sanex 25 Stück Atemschutzmaske FFP2 Mundschutz Maske perfekt
 
 ℹ️:
 
-- ✅ Perfekter Schutz: 5-lagige Maske
-- ✅ Eingearbeiteter, flexibel anpassbarer Nasenclip
-- ✅ Entspricht der Norm EN 149:2001. CE 0598 zertifiziert
 - ✅ EINZELN VERPACKT im Polybeutel mit Anleitung
+- ✅ Entspricht der Norm EN 149:2001. CE 0598 zertifiziert
 - ✅ Dank der Anwendung elastischer Ohrschlaufen, passt sich die Mundschutz Maske FFP2 optimal an die Gesichtsform eines jeden Nutzers an
+- ✅ Eingearbeiteter, flexibel anpassbarer Nasenclip
+- ✅ Perfekter Schutz: 5-lagige Maske
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08V8Y7BCB/?tag=tolees0ca-21)
