@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.45 % rabat auf Xiaomi Mi 10T 6GB+128GB lunar Silver ohn'
-date: 2021-03-23 12:31:30
+date: 2021-03-24 20:17:57
 image: 'https://m.media-amazon.com/images/I/41g8M1ZNA-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B08HJHP6Y6/?tag=tolees0ca-21'
 descuento: '26.45'
-average: '409.984330708661'
+average: '409.648515625'
 ---
 
 Es gibt ein [Xiaomi Mi 10T 6GB+128GB lunar Silver ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HJHP6Y6/?tag=tolees0ca-21) mit aktuellem Preis 367.0 EUR (original: 499.0 EUR) 26.45 % Rabatt hier:

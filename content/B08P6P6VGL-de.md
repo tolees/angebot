@@ -28,10 +28,10 @@ Es gibt ein [CRDLIGHT 25 Stück FFP2 Atemschutzmasken je Maske in PE-Folie Einze
 
 ℹ️:
 
-- 25 Stück FFP2 Masken in Spenderbox. Alle Masken in Folien Einzelverpackung. Für Kinder und Erwachsene ( Damen & Herren ). Die Ohr-Schlaufen sind aus Gummi & garantieren einen schnellen, festen Sitz mit angenehmer Passform.
-- CE Konformitätserklärung lt. PSA Verordnung (EU) 2016/425
 - Maske gemäß europäischer Norm EN149:2001 + A1:2009 als Mund- und Nasenschutz
 - Schutzklasse FFP2 NR I 94 % Partikelfilterung
+- CE Konformitätserklärung lt. PSA Verordnung (EU) 2016/425
 - Lieferumfang: 25 Stück Mund Nasen Schutzmaske. Farbe weiß. Atemmasken Haltbarkeit 3 Jahre (MHD: November 2023). Einmalig verwendbar
+- 25 Stück FFP2 Masken in Spenderbox. Alle Masken in Folien Einzelverpackung. Für Kinder und Erwachsene ( Damen & Herren ). Die Ohr-Schlaufen sind aus Gummi & garantieren einen schnellen, festen Sitz mit angenehmer Passform.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08P6P6VGL/?tag=tolees0ca-21)

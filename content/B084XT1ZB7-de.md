@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG Electronics - LG 55UN71006LB 139 cm   mit 31.91 % Rabatt'
-date: 2021-03-23 19:14:09
+date: 2021-03-24 20:04:32
 image: 'https://m.media-amazon.com/images/I/41WZBxNchkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LG Electronics'
 buyurl: 'https://www.amazon.de/dp/B084XT1ZB7/?tag=tolees0ca-21'
 descuento: '31.91'
-average: '556.879518072288'
+average: '556.576470588234'
 ---
 
 Sie können [LG Electronics - LG 55UN71006LB 139 cm  55 Zoll  UHD Fernseher  4K  Triple Tuner  DVB-T2/T -C -S2/S   Active HDR  50 Hz  Smart TV  [Modelljahr 2020]](https://www.amazon.de/dp/B084XT1ZB7/?tag=tolees0ca-21) mit Preis 544.0 EUR (original: 799.0 EUR) 31.91 % Rabatt hier:
