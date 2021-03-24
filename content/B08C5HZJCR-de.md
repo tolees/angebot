@@ -28,10 +28,10 @@ Sie können [Sony SRS-LSR200 Tragbarer TV Funklautsprecher](https://www.amazon.d
 
 ℹ️:
 
-- TV Fernbedienung ist kompatibel mit: Sony, Hitachi, LG, Loewe, Panasonic, Philips, SAMSUNG, SHARP, Toshiba
 - Sehr stabile kabellose Lautsprecher Verbindung TV Steuerung via Infrarot
 - Niedriger Stromverbrauch. Ca. 3 Stunden aufladen, ca. 13 Stunden Laufzeit.
-- Voice Zoom Funktion (Sony Original Technologie)
+- TV Fernbedienung ist kompatibel mit: Sony, Hitachi, LG, Loewe, Panasonic, Philips, SAMSUNG, SHARP, Toshiba
 - Einfache Bedienbarkeit TV An/Aus , Kanalwechsel und Lautstärkeregelung
+- Voice Zoom Funktion (Sony Original Technologie)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08C5HZJCR/?tag=tolees0ca-21)

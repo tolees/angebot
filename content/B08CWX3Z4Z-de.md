@@ -30,7 +30,7 @@ Es gibt ein [Nike CN8558-001 38 5 Sneakers  Grey  38.5 EU](https://www.amazon.de
 
 - Stoff typ: Künstliches Wildleder, Textil, Gummi
 - Abteilungsname: Unisex Kinder
-- Ziel geschlecht: unisex
 - fabric
+- Ziel geschlecht: unisex
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CWX3Z4Z/?tag=tolees0ca-21)

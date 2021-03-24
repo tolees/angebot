@@ -28,9 +28,9 @@ Es gibt ein [SuperThings Rivals of Kaboom - Power Band  PSTSP113SP00  mit einem 
 
 ℹ️:
 
-- Geben Sie Ihre Abenteuer durch Drehen des Zifferblatts, jeder SuperThings hat seinen passenden Klang und Lichteffekte je nach Schurz oder Helden; sehen Sie alle 4 verschiedenen Charaktere und aktivieren Sie 3 Sounds pro Figur, um sich wie ein Superheld oder ein Superschurz von Kaboom City zu fühlen.
 - Power Band mit Effekten und Soundeffekten - das SuperThings Zubehör
 - Werden Sie zum Lehrer K, Kid Kazoom, Mr King oder Enigma dank der 15 Sätze und Klänge, um seine Sound-Effekte zu aktivieren. Kaboom City liegt jetzt mehr als je zuvor.
+- Geben Sie Ihre Abenteuer durch Drehen des Zifferblatts, jeder SuperThings hat seinen passenden Klang und Lichteffekte je nach Schurz oder Helden; sehen Sie alle 4 verschiedenen Charaktere und aktivieren Sie 3 Sounds pro Figur, um sich wie ein Superheld oder ein Superschurz von Kaboom City zu fühlen.
 - Enthält 1 passende Enigma-Figur, vervollständigen Sie Ihre Sammlung.
 - Sound mit spanischer Version
 

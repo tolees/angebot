@@ -29,8 +29,8 @@ Sie können [LEGO 76140 Super Heroes Marvel Avengers Iron Man Mech Spielset  Kam
 ℹ️:
 
 - Enthält 1 Iron Man-Minifigur, die oben auf dem gepanzerten Mech mit den mit Bolzen geladenen Geschützen eingesetzt wird, sowie bewegliche Arme und Beine für mehr Mobilität
-- Die größere Version von Iron Man verfügt über einen Brustpanzer mit seinem wichtigen Energiekern und ein sich öffnendes Cockpit für 1 Minifigur
 - Die digitale Anleitung Instructions Plus ist über die LEGO Life App zum einfachen Zusammenbauen verfügbar. Kinder ab 6 Jahren können das Set heranzoomen, drehen und anzeigen, während sie bauen
+- Die größere Version von Iron Man verfügt über einen Brustpanzer mit seinem wichtigen Energiekern und ein sich öffnendes Cockpit für 1 Minifigur
 - Kinder können das Cockpit des Mechs öffnen, die Avengers-Minifigur einsetzen, die Gliedmaßen des Mechs positionieren und das mit Bolzen geladene Geschütz auf Feinde abfeuern
 - Für angehende Bauherren, die die Abenteuer der Avengers nachbauen möchten, können Sie LEGO Super Heroes 76141 Marvel Avengers Thanos Mech für gemeinsame Super-Action hinzufügen
 
