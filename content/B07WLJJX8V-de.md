@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '27.11 % rabat auf LEGO 75270 Star Wars Obi-Wans Hütte Baus'
-date: 2021-03-24 18:40:39
+title: '26.68 % rabat auf LEGO Produkttitel fehlt - Wird nachgerei'
+date: 2021-03-25 21:31:20
 image: 'https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07WLJJX8V-de LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm...'
+slug: 'B07WLJJX8V-de LEGO Produkttitel fehlt - Wird nachgereicht'
 sku: 'B07WLJJX8V-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 21.86 EUR
+actualPrice: 21.99 EUR
 currency: EUR
-price: 21.86
+price: 21.99
 comparePrice: 29.99 EUR
-prodname: 'LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm der Prinzessin Leia  Serie Eine Neue Hoffnung'
+prodname: 'LEGO Produkttitel fehlt - Wird nachgereicht'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21'
-descuento: '27.11'
-average: '24.944512987013'
+descuento: '26.68'
+average: '24.9254516129032'
 ---
 
-Es gibt ein [LEGO 75270 Star Wars Obi-Wans Hütte Bauset mit Hologramm der Prinzessin Leia  Serie Eine Neue Hoffnung](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21) mit aktuellem Preis 21.86 EUR (original: 29.99 EUR) 27.11 % Rabatt hier:
+Es gibt ein [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21) mit aktuellem Preis 21.99 EUR (original: 29.99 EUR) 26.68 % Rabatt hier:
 
-[![LEGO 75270 Star Wars Obi-Wans Hütte Baus](https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg)](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21)
+[![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg)](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Die Hütte ist ausklappbar und bietet einfachen Zugang zu vielen spielerischen Gegenständen wie einer Trainingsfernbedienung und einem Hologramm der Prinzessin Leia
-- Verfügt über das Tatooine-Wüstenhaus von Obi-Wan Kenobi mit einer Öffnungskuppel zum einfachen Spielen und vielen Details, um Lieblingsfilmszenen nachzubilden
-- Der in der kostenlosen LEGO Life-App für Smartphones und Tablets verfügbare Instructions PLUS-Leitfaden enthält Werkzeuge zum Heranzoomen, Drehen und Anzeigen von Modellen, um das Bauen zu unterstützen
-- Kinder können mit Luke Skywalker trainieren, um ein Jedi-Meister zu werden, ihre Lichtschwertfähigkeiten mit der Trainingsfernbedienung üben oder mit R2-Dzwei spielen
-- Enthält drei Minifiguren: Obi-Wan Kenobi und Luke Skywalker mit Lichtschwertern, einen Tusken Raider mit einem Gaffi-Stock sowie eine R2-D2-Droidenfigur
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21)

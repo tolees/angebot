@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link GO-SW-5G 5-Port Gigabit Easy Desk mit 26.53 % Rabatt'
-date: 2021-03-23 04:01:11
+date: 2021-03-25 21:48:39
 image: 'https://m.media-amazon.com/images/I/31IVZCTawLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.de/dp/B009TZE41I/?tag=tolees0ca-21'
 descuento: '26.53'
-average: '12.25'
+average: '12.004'
 ---
 
 Sie können [D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch  10/100/1000 Mbit/s  automatische MDI/MDIX-Erkennung  weiß](https://www.amazon.de/dp/B009TZE41I/?tag=tolees0ca-21) mit Preis 11.02 EUR (original: 15.0 EUR) 26.53 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch  10/100/1000 Mbi
 
 ℹ️:
 
-- Fünf Anschlüsse mit 10/100/1000 Mbit/s
-- Voll- und Halbduplexmodus für Ethernet-/ Fast Ethernet-Geschwindigkeit
 - Interner Durchsatz 10 Gbit/s
-- Lieferumfang: D-link GO-SW-5G/E Gigabit Easy Desktop Switch (5-Port)
 - Unterstützung von Jumbo-Frames mit 9216 Byte
+- Voll- und Halbduplexmodus für Ethernet-/ Fast Ethernet-Geschwindigkeit
+- Lieferumfang: D-link GO-SW-5G/E Gigabit Easy Desktop Switch (5-Port)
+- Fünf Anschlüsse mit 10/100/1000 Mbit/s
 
 [🛒 Hier!!](https://www.amazon.de/dp/B009TZE41I/?tag=tolees0ca-21)

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '33.63 % rabat auf Yealink WF40 WLAN 150 MBit/s Netzwerkkar'
-date: 2021-03-04 11:34:38
+date: 2021-03-25 21:53:19
 image: 'https://m.media-amazon.com/images/I/31ng6L-kUuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EA8ZUZW-de Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör...'
 sku: 'B01EA8ZUZW-de'
+tags: [ 'Computer & Zubehör','yealink', ]
 actualPrice: 26.48 EUR
 currency: EUR
 price: 26.48
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Yealink'
 buyurl: 'https://www.amazon.de/dp/B01EA8ZUZW/?tag=tolees0ca-21'
 descuento: '33.63'
-average: '28.5176923076922'
+average: '28.3721428571427'
 ---
 
 Es gibt ein [Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör Netzwerk  kabellos  USB Type  WLAN  150 Mbit/s  2 4 GHz  IEEE 802.11b  IEEE 802.11 g  IEEE 802.11 N ](https://www.amazon.de/dp/B01EA8ZUZW/?tag=tolees0ca-21) mit aktuellem Preis 26.48 EUR (original: 39.9 EUR) 33.63 % Rabatt hier:
@@ -27,9 +28,9 @@ Es gibt ein [Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör Netzwer
 
 ℹ️:
 
-- Kompatibilität: Yealink SIP-T29G, Yealink SIP-T46G, Yealink SIP-T46S, Yealink SIP-T48G, Yealink SIP-T48S
 - Schnittstelle: USB 2.0, WiFi: 802.11b / g / n, Frequenzbereich: 2,4 GHz
-- Verschlüsselung: 64/128/152-Bit-WEP, WPA-PSK, WPA2-PSK
+- Kompatibilität: Yealink SIP-T29G, Yealink SIP-T46G, Yealink SIP-T46S, Yealink SIP-T48G, Yealink SIP-T48S
 - Yealink WF40 Wireless USB Dongle Paket-Inhalt: WF40 Dongle, Handbuch
+- Verschlüsselung: 64/128/152-Bit-WEP, WPA-PSK, WPA2-PSK
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01EA8ZUZW/?tag=tolees0ca-21)
