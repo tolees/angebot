@@ -28,10 +28,10 @@ Sie können [Microsoft Bluetooth Desktop  Set mit Maus und Tastatur  deutsches Q
 
 ℹ️:
 
-- Swift Pair für einfaches Koppeln von Maus/Tastatur und Computer
-- Drahtlose Verbindung per Bluetooth 5. 0 LE
+- Dedizierte Office 365 - und Emoji-Taste
 - Schlankes, modernes Design für ein außergewöhnliches Arbeitserlebnis
 - Individuell anpassbare Sondertasten für einfachen Zugang zu bevorzugten Apps
-- Dedizierte Office 365 - und Emoji-Taste
+- Swift Pair für einfaches Koppeln von Maus/Tastatur und Computer
+- Drahtlose Verbindung per Bluetooth 5. 0 LE
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087DMQLMH/?tag=tolees0ca-21)
