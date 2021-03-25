@@ -28,12 +28,12 @@ Sie können [Amazon - Kindle Oasis  Leselicht mit verstellbarer Farbtemperatur  
 
 ℹ️:
 
-- Funktioniert mit Audible – Verbinden Sie Kindle mit Bluetooth-Kopfhörern oder -Lautsprechern und wechseln Sie so nahtlos zwischen Lesen und Hören.
+- Lesen wie auf echtem Papier, mit der neuesten E-Ink-Technologie für schnelles Umblättern
 - Zugriff auf Millionen Bücher, Zeitungen und Hörbücher
-- Farbtemperatur des Frontlichts lässt sich von Weiß bis Bernstein verstellen
+- Wasserfest (IPX8), sodass Sie in der Badewanne oder am Pool lesen können
 - Dünnes und leichtes ergonomisches Design mit Umblättertasten
 - Unser bestes, 7 Zoll großes Paperwhite-Display mit 300 ppi und frontbündigem Design
-- Lesen wie auf echtem Papier, mit der neuesten E-Ink-Technologie für schnelles Umblättern
-- Wasserfest (IPX8), sodass Sie in der Badewanne oder am Pool lesen können
+- Funktioniert mit Audible – Verbinden Sie Kindle mit Bluetooth-Kopfhörern oder -Lautsprechern und wechseln Sie so nahtlos zwischen Lesen und Hören.
+- Farbtemperatur des Frontlichts lässt sich von Weiß bis Bernstein verstellen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07L5GDTYY/?tag=tolees0ca-21)
