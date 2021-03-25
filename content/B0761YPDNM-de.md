@@ -29,9 +29,9 @@ Sie können [Logitech MX Anywhere 2 Kabellose Maus  Amazon Exklusiv  Bluetooth u
 ℹ️:
 
 - Schnelles Laden: Nach nur drei Minuten Ladezeit kann die Logitech MX Anywhere 2S kabellose Maus einen ganzen Tag lang genutzt werden
+- Darkfield-Technologie: Eine hochpräzise Abtastung mit bis zu 4.000 DPI ermöglicht die Nutzung auf allen Oberflächen, vom Mauspad bis zur spiegelglatten Oberfläche
 - Logitech Flow: Mit der kabellosen Maus können Inhalte und Dokumente reibungslos zwischen bis zu drei Windows PCs oder Macs verschoben werden
 - Handgerechte Form: Die kabellose Maus mit Bluetooth liegt perfekt in der Hand und bietet jederzeit volle Kontrolle
-- Darkfield-Technologie: Eine hochpräzise Abtastung mit bis zu 4.000 DPI ermöglicht die Nutzung auf allen Oberflächen, vom Mauspad bis zur spiegelglatten Oberfläche
 - Hyperschnelles Scrollen: Mit dem Präzisionsrad der MX Anywhere 2S wird zwischen präzisem zu hyperschnellem Scrollen gewechselt, ob im Büro oder beim Gaming
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0761YPDNM/?tag=tolees0ca-21)

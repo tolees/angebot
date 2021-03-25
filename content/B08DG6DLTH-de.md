@@ -29,9 +29,9 @@ Es gibt ein [Medisana PM 100 connect Pulsoximeter  Messung der Sauerstoffsättig
 ℹ️:
 
 - 2 Ansichten: Sauerstoffsättigung (SpO2) und Pulsfrequenz können in Balken- oder Wellenform dargestellt werden
-- One-Touch: Das Oximeter lässt sich dank der One-Touch Bedienung einfach und bequem bedienen - ideal für unterwegs, dem häuslichen Gebrauch und bei sportlichen Aktivitäten
 - OLED-Display: Die Messwerte (Blutsauerstoffsättigung und Pulsfrequenz) können auf dem großen OLED-Display in sechs unterschiedlichen Darstellungen und 10-stufiger Displayhelligkeit angezeigt werden
-- Bluetooth + App: Dank der integrierten Bluetooth-Verbindung können Sie problemlos Ihre Daten in unsere VitaDock+ App einlesen und auswerten lassen
 - Abschaltautomatik: Unser Pulsoximeter ist mit einer batterieschonenden Abschaltautomatik ausgestattet. Wenn innerhalb der ersten 8 Sekunden keine Messreaktion erfolgt, schaltet sich das Oximeter aus
+- Bluetooth + App: Dank der integrierten Bluetooth-Verbindung können Sie problemlos Ihre Daten in unsere VitaDock+ App einlesen und auswerten lassen
+- One-Touch: Das Oximeter lässt sich dank der One-Touch Bedienung einfach und bequem bedienen - ideal für unterwegs, dem häuslichen Gebrauch und bei sportlichen Aktivitäten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08DG6DLTH/?tag=tolees0ca-21)
