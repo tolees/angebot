@@ -28,12 +28,12 @@ Es gibt ein [Uniguardian 20x FFP3 MASKE - Einzeln verpackt Atemschutzmasken EN 1
 
 ℹ️:
 
+- wissenschaftliche Materialkombination-Die DOC Atemschutzmasken verfügt über eine konturierte Form, die aus 38% Vliesstoff + 24% schmelzgeblasenem Stoff + 20% Heißluftbaumwolle besteht und für langes Tragen ohne Beschwerden ausgelegt ist.
+- qualität-Jede Maske ist hygienisch einzeln verpackt und auf Qualität geprüft!
+- flexible Anpassung-Dank der anatomischen Form, des Nasenrückens und des superflexiblen Ohrengurts kann die Halbmaske besser in das Gesicht passen, sodass die erforderliche Enge gewährleistet ist.
 - ohne Ventil-Da diese Maske ohne zusätzliches Ventil auskommt, darf sie überall benutzt werden, denn Träger und Umwelt sind hier zugleich geschützt!
 - ffp3 Standard-Höchste Filterstufe der Europäischen Union. Filtert mindestens 99% der Partikel ab 0.6µ Durchmesser.
-- flexible Anpassung-Dank der anatomischen Form, des Nasenrückens und des superflexiblen Ohrengurts kann die Halbmaske besser in das Gesicht passen, sodass die erforderliche Enge gewährleistet ist.
-- wissenschaftliche Materialkombination-Die DOC Atemschutzmasken verfügt über eine konturierte Form, die aus 38% Vliesstoff + 24% schmelzgeblasenem Stoff + 20% Heißluftbaumwolle besteht und für langes Tragen ohne Beschwerden ausgelegt ist.
-- einzeln Verpackt-Hier bekommt man einzeln verpackte FFP3 Masken geliefert,so dass jede Maske bis zu Ihrer ersten Verwendung absolut steril und rein bleibt.
 - zertifizierte MASKE-Module B+ Module D zertifiziert.Jedes fertige Produkt wurde streng nach EU-Norm geprüft: EN 149:2001+ A1:2009, Klassifizierung: FFP3.
-- qualität-Jede Maske ist hygienisch einzeln verpackt und auf Qualität geprüft!
+- einzeln Verpackt-Hier bekommt man einzeln verpackte FFP3 Masken geliefert,so dass jede Maske bis zu Ihrer ersten Verwendung absolut steril und rein bleibt.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08SY14PJK/?tag=tolees0ca-21)

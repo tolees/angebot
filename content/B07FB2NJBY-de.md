@@ -28,9 +28,9 @@ Es gibt ein [Superzings MBXPSZPA214IN00  Figuren zum Sammeln Mehrfarbig](https:/
 
 ℹ️:
 
+- Essen, Objekte kann alles ein SuperZing sein
 - Jeder Charakter hat einen Rivalen zum Sammeln
 - Über 80 SuperZings zum Sammeln
-- Essen, Objekte kann alles ein SuperZing sein
 - Mit diesem Abenteuer-Spielset wird das Kaboom-Rennen mitgeliefert.
 - Von den Leuten, die Ihnen Star-Monster und Zomlings gebracht haben
 

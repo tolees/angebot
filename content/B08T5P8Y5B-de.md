@@ -28,7 +28,7 @@ Sie können [zhishan 50 Stück Einzelverpackte FFP2 Masken Atemschutzmaske EU CE
 
 ℹ️:
 
-- Zertifizierung EN149:2001+A1:2009 FFP2NR, Prüfstelle CE2163
 - FFP2 Maske 5-lagig zertifiziert CE2163 Hersteller: Shenzhen Zhishan Medical Co. Ltd
+- Zertifizierung EN149:2001+A1:2009 FFP2NR, Prüfstelle CE2163
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08T5P8Y5B/?tag=tolees0ca-21)

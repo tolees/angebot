@@ -28,13 +28,13 @@ Es gibt ein [Amazon - Fire TV Cube│Hands-free mit Alexa  4K Ultra HD-Strea
 
 ℹ️:
 
-- Bitten Sie Alexa, Ihren Fernseher einzuschalten, kompatible Lampen zu dimmen und das gewünschte Programm abzuspielen, auch von der anderen Seite des Raumes aus.
-- Mit seinem äußerst leistungsstarken Hexa-Core-Prozessor ermöglicht Fire TV Cube sofortigen Zugriff auf 4K Ultra HD-Inhalte und unterstützt Dolby Vision, HDR und HDR10+. Dolby Atmos ist für ausgewählte Titel von Prime Video und Netflix verfügbar.
 - Sehen Sie Ihre Lieblingssendungen von Prime Video, Netflix, YouTube, ARD, ZDF, DAZN, waipu.tv, Disney+, Apple TV und weiteren (erfordert gegebenenfalls ein gesondertes Abonnement).
-- Das Gerät verfügt über ein integriertes Mikrofon, sodass Sie Alexa nach dem Wetterbericht fragen oder kompatible Lampen ausschalten können und vieles mehr – selbst wenn der Fernseher ausgeschaltet ist.
 - Sie können zudem kompatible Geräte wie Ihre Soundbar oder Ihren AV-Receiver steuern und per Sprachbefehl Satellitensender umschalten.
+- Bitten Sie Alexa, Ihren Fernseher einzuschalten, kompatible Lampen zu dimmen und das gewünschte Programm abzuspielen, auch von der anderen Seite des Raumes aus.
 - Fire TV Cube wird mit einer Alexa-Sprachfernbedienung geliefert, mit der Sie Ihren Fernseher lautlos steuern können.
 - Entwickelt, um Datenschutz zu gewährleisten – umfasst Datenschutz- und Kontrollmaßnahmen auf mehreren Ebenen, darunter eine Mikrofon-aus-Taste, mit der Sie die Stromzufuhr zu den Mikrofonen unterbrechen und sie somit deaktivieren können.
+- Mit seinem äußerst leistungsstarken Hexa-Core-Prozessor ermöglicht Fire TV Cube sofortigen Zugriff auf 4K Ultra HD-Inhalte und unterstützt Dolby Vision, HDR und HDR10+. Dolby Atmos ist für ausgewählte Titel von Prime Video und Netflix verfügbar.
+- Das Gerät verfügt über ein integriertes Mikrofon, sodass Sie Alexa nach dem Wetterbericht fragen oder kompatible Lampen ausschalten können und vieles mehr – selbst wenn der Fernseher ausgeschaltet ist.
 - Mit einer Prime-Mitgliedschaft erhalten Sie Zugriff auf Tausende Filme und Serienepisoden, einschließlich „Good Omens“ und „Lucifer“.
 - Fire TV Cube ist das bislang schnellste und leistungsstärkste Fire TV-Gerät und bietet schnelles, flüssiges Streaming für Ihre liebsten Filme und Fernsehsendungen.
 

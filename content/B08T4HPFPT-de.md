@@ -28,9 +28,9 @@ Es gibt ein [iCOOLIO ffp2 Maske ce Zertifiziert  Masken mundschutz  Mund und nas
 
 ℹ️:
 
-- ZERTIFIZIERUNG: CE zertififizierte FFP2 Masken schwarz von einer EU Benannten Stelle - (EN149:2001+A1:2009)
 - 5-lagige FFP2 schutzmasken. Bietet Komfort und Sicherheit dank seiner sicheren Passform im Gesicht. Elastische Träger sind für die meisten Männer und Frauen bequem und bequem zu tragen, auch mit Brille
-- 𝗛𝗬𝗚𝗜𝗘𝗡𝗜𝗦𝗖𝗛𝗘 𝗩𝗘𝗥𝗣𝗔𝗖𝗞𝗨𝗡𝗚: Die FFP2 Mund nasen schutzmaske sind in verpackt und verhindern somit die Verunreinigung der Masken vor dem Gebrauch.
 - 𝗘𝗙𝗙𝗜𝗭𝗜𝗘𝗡𝗧𝗘𝗥 𝗞𝗨𝗡𝗗𝗘𝗡𝗦𝗘𝗥𝗩𝗜𝗖𝗘: Bitte melden Sie sich bei Fragen oder Problemen, wir antworten stets innerhalb von 24h und arbeiten absolut kundenorientiert.
+- ZERTIFIZIERUNG: CE zertififizierte FFP2 Masken schwarz von einer EU Benannten Stelle - (EN149:2001+A1:2009)
+- 𝗛𝗬𝗚𝗜𝗘𝗡𝗜𝗦𝗖𝗛𝗘 𝗩𝗘𝗥𝗣𝗔𝗖𝗞𝗨𝗡𝗚: Die FFP2 Mund nasen schutzmaske sind in verpackt und verhindern somit die Verunreinigung der Masken vor dem Gebrauch.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08T4HPFPT/?tag=tolees0ca-21)

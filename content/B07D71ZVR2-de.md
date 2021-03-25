@@ -28,10 +28,10 @@ Es gibt ein [PUMA Damen ESS Logo Hoody TR Pullover  Light Gray Heather  M](https
 
 ℹ️:
 
-- Kapuze mit Jerseyfutter und anpassbarem Kordelzug
 - Gerippter Saum und Ärmelbündchen
 - Archive No. 1 Logo auf der Brust
-- Normale Passform
+- Kapuze mit Jerseyfutter und anpassbarem Kordelzug
 - Kängurutasche
+- Normale Passform
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07D71ZVR2/?tag=tolees0ca-21)
