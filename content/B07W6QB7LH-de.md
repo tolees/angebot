@@ -29,9 +29,9 @@ Sie können [Lego Ninjago Produkttitel fehlt - Wird nachgereicht](https://www.am
 ℹ️:
 
 - Die 3 Ninjas müssen Unagami besiegen, um ihre Aufgabe zu erfüllen, während sie aufsteigen, an seinen Handlangern Sushimi vorbeikommen und Todesfällen ausweichen
-- Mit detailliertem, gefährlichen 38-cm-Tempel von Unagami voller Sprengfallen, mit fantastischem Turm und einer geheimen Kammer für den Endspielkampf
-- Enthält eine aufregende Reihe neuer Rüstungen und Waffen von Prime Empire sowie Gesundheitstafeln und 3 Key-Tanas
 - Enthält 6 Minifiguren: Digi Jay, Lloyd und Cole mit Prime Controller -Waffen und Unagami, Sushimi und Rote Visiere mit ihren eigenen Waffen
 - Kinder werden gegen Unagami in seinem Versteck antreten, ihn auf seinem Thron drehen und oben alle drei Key-Tanas verwenden, um das endgültige Portal freizuschalten
+- Enthält eine aufregende Reihe neuer Rüstungen und Waffen von Prime Empire sowie Gesundheitstafeln und 3 Key-Tanas
+- Mit detailliertem, gefährlichen 38-cm-Tempel von Unagami voller Sprengfallen, mit fantastischem Turm und einer geheimen Kammer für den Endspielkampf
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W6QB7LH/?tag=tolees0ca-21)

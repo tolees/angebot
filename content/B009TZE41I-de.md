@@ -28,10 +28,10 @@ Sie können [D-Link GO-SW-5G 5-Port Gigabit Easy Desktop Switch  10/100/1000 Mbi
 
 ℹ️:
 
-- Interner Durchsatz 10 Gbit/s
-- Unterstützung von Jumbo-Frames mit 9216 Byte
 - Voll- und Halbduplexmodus für Ethernet-/ Fast Ethernet-Geschwindigkeit
 - Lieferumfang: D-link GO-SW-5G/E Gigabit Easy Desktop Switch (5-Port)
+- Interner Durchsatz 10 Gbit/s
 - Fünf Anschlüsse mit 10/100/1000 Mbit/s
+- Unterstützung von Jumbo-Frames mit 9216 Byte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B009TZE41I/?tag=tolees0ca-21)
