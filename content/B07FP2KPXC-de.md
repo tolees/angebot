@@ -1,36 +1,36 @@
 ---
 layout: post
-title: '20.01 % rabat auf LEGO 75890 Speed Champions Ferrari F40 C'
-date: 2021-03-23 19:32:41
+title: '20.01 % rabat auf LEGO Speed Champions - Lego 75890 Speed '
+date: 2021-03-25 07:59:21
 image: 'https://m.media-amazon.com/images/I/51f1zIZ9DLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07FP2KPXC-de LEGO 75890 Speed Champions Ferrari F40 Competizione Bauset...'
+slug: 'B07FP2KPXC-de LEGO Speed Champions - Lego 75890 Speed Champions Ferrari...'
 sku: 'B07FP2KPXC-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego speed champions', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
 comparePrice: 14.99 EUR
-prodname: 'LEGO 75890 Speed Champions Ferrari F40 Competizione  Bauset mit Rennfahrer-Minifigur  Fahrzeugspielzeuge für Kinder  Forza Horizon 4 Erweiterungsset'
+prodname: 'LEGO Speed Champions - Lego 75890 Speed Champions Ferrari F40 Competizione  Bauset mit Rennfahrer-Minifigur  Fahrzeugspielzeuge für Kinder  Forza Horizon 4 Erweiterungsset'
 country: 'de'
 flag: '🇩🇪'
-brand: 'LEGO'
+brand: 'LEGO Speed Champions'
 buyurl: 'https://www.amazon.de/dp/B07FP2KPXC/?tag=tolees0ca-21'
 descuento: '20.01'
-average: '14.9053869969043'
+average: '14.8874461538465'
 ---
 
-Es gibt ein [LEGO 75890 Speed Champions Ferrari F40 Competizione  Bauset mit Rennfahrer-Minifigur  Fahrzeugspielzeuge für Kinder  Forza Horizon 4 Erweiterungsset](https://www.amazon.de/dp/B07FP2KPXC/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 14.99 EUR) 20.01 % Rabatt hier:
+Es gibt ein [LEGO Speed Champions - Lego 75890 Speed Champions Ferrari F40 Competizione  Bauset mit Rennfahrer-Minifigur  Fahrzeugspielzeuge für Kinder  Forza Horizon 4 Erweiterungsset](https://www.amazon.de/dp/B07FP2KPXC/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 14.99 EUR) 20.01 % Rabatt hier:
 
-[![LEGO 75890 Speed Champions Ferrari F40 C](https://m.media-amazon.com/images/I/51f1zIZ9DLL._SL400_.jpg)](https://www.amazon.de/dp/B07FP2KPXC/?tag=tolees0ca-21)
+[![LEGO Speed Champions - Lego 75890 Speed ](https://m.media-amazon.com/images/I/51f1zIZ9DLL._SL400_.jpg)](https://www.amazon.de/dp/B07FP2KPXC/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Enthält außerdem einen Ferrari-Rennfahrerhelm
-- Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen
 - Enthält eine Rennfahrer-Minifigur in Ferrari-Kluft
+- Nimm die Windschutzscheibe ab und setze die Minifigur in den Wagen
+- Enthält außerdem einen Ferrari-Rennfahrerhelm
 - Der Ferrari F40 Competizione zum Bauen ist startklar für das nächste Rennen mit Cockpit für eine Minifigur, abnehmbarer Windschutzscheibe, Rädern mit Rennreifen aus Gummi, transparenten Elementen als Leuchten, Rennfarben, authentischen Designdetails und austauschbaren Kühlerhauben und Heckspoilern
 - Tausche Kühlerhaube und Spoiler aus, um den F40 Competizione in den klassischen Ferrari F40 Straßenwagen zu verwandeln
 

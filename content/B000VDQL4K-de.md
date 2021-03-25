@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '26.36 % rabat auf 3M Atemschutzmaske 9332 Komfort  Schutzs'
-date: 2021-03-23 12:47:46
+title: '27.19 % rabat auf 3M Atemschutzmaske 9332 Komfort  Schutzs'
+date: 2021-03-25 07:29:52
 image: 'https://m.media-amazon.com/images/I/31kYkfG86XL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ '3m','Arbeitsschutzausrüstung','Baumarkt','Gewölbte Staubschutzmasken'
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48
-comparePrice: 8.8 EUR
+comparePrice: 8.9 EUR
 prodname: '3M Atemschutzmaske 9332 Komfort  Schutzstufe FFP3'
 country: 'de'
 flag: '🇩🇪'
 brand: '3M'
 buyurl: 'https://www.amazon.de/dp/B000VDQL4K/?tag=tolees0ca-21'
-descuento: '26.36'
-average: '6.535'
+descuento: '27.19'
+average: '6.524'
 ---
 
-Es gibt ein [3M Atemschutzmaske 9332 Komfort  Schutzstufe FFP3](https://www.amazon.de/dp/B000VDQL4K/?tag=tolees0ca-21) mit aktuellem Preis 6.48 EUR (original: 8.8 EUR) 26.36 % Rabatt hier:
+Es gibt ein [3M Atemschutzmaske 9332 Komfort  Schutzstufe FFP3](https://www.amazon.de/dp/B000VDQL4K/?tag=tolees0ca-21) mit aktuellem Preis 6.48 EUR (original: 8.9 EUR) 27.19 % Rabatt hier:
 
 [![3M Atemschutzmaske 9332 Komfort  Schutzs](https://m.media-amazon.com/images/I/31kYkfG86XL._SL400_.jpg)](https://www.amazon.de/dp/B000VDQL4K/?tag=tolees0ca-21)
 

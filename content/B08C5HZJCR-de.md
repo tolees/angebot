@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-LSR200 Tragbarer TV Funklautspr mit 21.96 % Rabatt'
-date: 2021-03-24 03:30:48
+date: 2021-03-25 08:14:38
 image: 'https://m.media-amazon.com/images/I/5130GKHALwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B08C5HZJCR/?tag=tolees0ca-21'
 descuento: '21.96'
-average: '150.640476190476'
+average: '150.143181818182'
 ---
 
 Sie können [Sony SRS-LSR200 Tragbarer TV Funklautsprecher](https://www.amazon.de/dp/B08C5HZJCR/?tag=tolees0ca-21) mit Preis 139.7 EUR (original: 179.0 EUR) 21.96 % Rabatt hier:
@@ -29,9 +29,9 @@ Sie können [Sony SRS-LSR200 Tragbarer TV Funklautsprecher](https://www.amazon.d
 ℹ️:
 
 - Sehr stabile kabellose Lautsprecher Verbindung TV Steuerung via Infrarot
-- Niedriger Stromverbrauch. Ca. 3 Stunden aufladen, ca. 13 Stunden Laufzeit.
-- TV Fernbedienung ist kompatibel mit: Sony, Hitachi, LG, Loewe, Panasonic, Philips, SAMSUNG, SHARP, Toshiba
 - Einfache Bedienbarkeit TV An/Aus , Kanalwechsel und Lautstärkeregelung
+- Niedriger Stromverbrauch. Ca. 3 Stunden aufladen, ca. 13 Stunden Laufzeit.
 - Voice Zoom Funktion (Sony Original Technologie)
+- TV Fernbedienung ist kompatibel mit: Sony, Hitachi, LG, Loewe, Panasonic, Philips, SAMSUNG, SHARP, Toshiba
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08C5HZJCR/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.67 % rabat auf LEGO 10952 DUPLO Scheune  Traktor und Ti'
-date: 2021-03-21 15:51:09
+date: 2021-03-25 07:45:17
 image: 'https://m.media-amazon.com/images/I/51aK7lwbfwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Es gibt ein [LEGO 10952 DUPLO Scheune  Traktor und Tierpflege Kleinkinder Spielz
 
 ℹ️:
 
-- Beinhaltet einen Traktor, diverse Tiere (Schwein, Schaf, Pferd, Hund, Henne, Hahn und 2 Kühe), 4 LEGO DUPLO Figuren, eine baubare Scheune, einen Heuballen und jede Menge cooles Zubehör
-- Die Scheune ist 23 cm hoch, 20 cm breit und 11 cm tief. Das Spielset lässt sich vielseitig anordnen und mit anderen LEGO DUPLO Bauernhof-Spielzeugen kombinieren
-- Die Bauanleitung beinhaltet eine lustige Bildergeschichte mit Modellen aus dem Set. Das Vergnügen beschränkt sich also nicht nur auf kreatives Bauen und fantasievolles Spielen
-- Ein fantastisches Set für kleine Landwirte ab 2 Jahren und ein cooles Geschenk zu jedem Anlass für Tierfreunde, Traktorfans und neugierige Kinder
-- Das LEGO DUPLO Spielset „Scheune, Traktor und Tierpflege“ (10952) bietet Kleinkindern, die Tiere und landwirtschaftliche Fahrzeuge lieben, viele Spiel- und Lernmöglichkeiten
-- Beim Füttern der Tiere und beim Reiten entwickeln Kinder Fantasie, feinmotorische Fähigkeiten und sozial-emotionale Kompetenz
+- Features several farm buildings: a buildable barn with opening doors, an animal pen, chicken coop, strawberry-shaped stall, and a tractor
+- Also includes realistically textured hay bales and lots of cool accessories: a bucket, pitchfork, plate, broom, flowers, and drinking trough
+- This 97-piece toy for toddlers 2+ years old lets kids build fine motor, emotional and social skills as they play while caring for animals
+- The buildable barn can be reconfigured for different adventures; a simple building guide includes a story that features models from the set
+- Includes 4 LEGO DUPLO figures and 8 animal figures: a pig, sheep, horse, dog, hen, rooster, plus a mum and baby cow figures for more fun
+- Check out other LEGO DUPLO Town Farm toys: Animal Care (10949), Tractor & Animal Care (10950), or Horse Stable and Pony Care (10951)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GPRK8LB/?tag=tolees0ca-21)

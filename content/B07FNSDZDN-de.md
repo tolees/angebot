@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75893 Speed Champions 2018 Dodge Ch mit 20.61 % Rabatt'
-date: 2021-03-22 22:07:12
+date: 2021-03-25 07:45:54
 image: 'https://m.media-amazon.com/images/I/512VwAj5-rL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNSDZDN/?tag=tolees0ca-21'
 descuento: '20.61'
-average: '33.3211940298507'
+average: '33.3118694362017'
 ---
 
 Sie können [LEGO 75893 Speed Champions 2018 Dodge Challenger SRT Demon und 1970 Dodge Charger R/T Bauset  Rallyeauto  Spielfahrzeuge für Kinder](https://www.amazon.de/dp/B07FNSDZDN/?tag=tolees0ca-21) mit Preis 31.75 EUR (original: 39.99 EUR) 20.61 % Rabatt hier:
