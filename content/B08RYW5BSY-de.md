@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YING YUAN - 20x FFP2 Schutz Maske Mundsc mit 15.77 % Rabatt'
-date: 2021-03-23 04:20:20
+date: 2021-03-25 09:05:01
 image: 'https://m.media-amazon.com/images/I/51RomqRK-DL._SL400_.jpg'
 comments: true
 category: ofertas

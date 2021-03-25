@@ -28,8 +28,8 @@ Sie können [Calvin Klein Herren - 3er-Pack mittlere Taille Hüft-Shorts - Mehrf
 
 ℹ️:
 
+- Truker Boxershorts in normaler Größe
 - Dreier pack in Weiß
 - Signatur Calvin Klein Logo Bund
-- Truker Boxershorts in normaler Größe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001BEAX3I/?tag=tolees0ca-21)

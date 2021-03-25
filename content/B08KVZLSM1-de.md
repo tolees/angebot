@@ -29,8 +29,8 @@ Sie können [PLAYMOBIL Novelmore 70499 Starter Pack  Für Kinder ab 3 Jahren](ht
 ℹ️:
 
 - A great introduction to Playmobil
-- For ages 3+
-- A great gifting option
 - With breakthrough section
+- A great gifting option
+- For ages 3+
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KVZLSM1/?tag=tolees0ca-21)

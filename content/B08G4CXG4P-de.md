@@ -28,10 +28,10 @@ Es gibt ein [LEGO 75302 Star Wars Imperial Shuttle Bauset mit Luke Skywalker mit
 
 ℹ️:
 
-- Includes 3 LEGO minifigures – Darth Vader and Luke Skywalker, both with a lightsaber, and an Imperial Officer with a blaster pistol
-- It comes with easy-to-follow instructions so a Star Wars fan who is a LEGO beginner will soon be building with Jedi-like confidence
-- This action-packed building toy looks awesome on display and also includes a handcuffs accessory element for additional fun, creative play
 - The shuttles main compartment has an opening with space for 2 LEGO minifigures to play out scenes from the classic Star Wars trilogy
 - The elegant Imperial Shuttle features an opening minifigure cockpit, foldable wings for flight and landing mode, plus 2 stud shooters
+- It comes with easy-to-follow instructions so a Star Wars fan who is a LEGO beginner will soon be building with Jedi-like confidence
+- This action-packed building toy looks awesome on display and also includes a handcuffs accessory element for additional fun, creative play
+- Includes 3 LEGO minifigures – Darth Vader and Luke Skywalker, both with a lightsaber, and an Imperial Officer with a blaster pistol
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4CXG4P/?tag=tolees0ca-21)

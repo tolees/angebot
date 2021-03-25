@@ -28,10 +28,10 @@ Sie können [PUMA Herren teamGOAL 23 Causals Hoody Pullover  Electric Blue Lemon
 
 ℹ️:
 
-- Känguru-Tasche vorne
-- Kapuze mit Kordelzug
 - Baumwolle, Polyester und Elasthan
 - PUMA Cat Logo auf der rechten Brust
 - Langärmlig
+- Kapuze mit Kordelzug
+- Känguru-Tasche vorne
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07X8PK3K1/?tag=tolees0ca-21)

@@ -1,32 +1,40 @@
 ---
 layout: post
-title: '23.85 % rabat auf Echo Dot  3. Gen.   Anthrazit Stoff + Am'
-date: 2020-10-09 09:33:41
+title: '53.35 % rabat auf Echo Dot  3. Gen.   Anthrazit Stoff + Am'
+date: 2021-03-25 09:01:27
 image: 'https://m.media-amazon.com/images/I/31PLjM2J1wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08D1G2XVX-de Echo Dot 3. Gen. Anthrazit Stoff + Amazon Smart Plug WLAN-...'
 sku: 'B08D1G2XVX-de'
-tags: [  ]
-actualPrice: 63.08 EUR
+tags: [ 'Amazon-Geräte','Amazon-Geräte & Zubehör','Echo Smart Speaker & Displays','Elektronik & Foto','Hifi & Audio','Media-Streaming','Smart Speaker','amazon', ]
+actualPrice: 34.98 EUR
 currency: EUR
-price: 63.08
-comparePrice: 82.84 EUR
+price: 34.98
+comparePrice: 74.98 EUR
 prodname: 'Echo Dot  3. Gen.   Anthrazit Stoff + Amazon Smart Plug  WLAN-Steckdose   Funktionert mit Alexa'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Amazon'
 buyurl: 'https://www.amazon.de/dp/B08D1G2XVX/?tag=tolees0ca-21'
-descuento: '23.85'
-average: '63.08'
+descuento: '53.35'
+average: '53.7133333333333'
 ---
 
-Es gibt ein [Echo Dot  3. Gen.   Anthrazit Stoff + Amazon Smart Plug  WLAN-Steckdose   Funktionert mit Alexa](https://www.amazon.de/dp/B08D1G2XVX/?tag=tolees0ca-21) mit aktuellem Preis 63.08 EUR (original: 82.84 EUR) 23.85 % Rabatt hier:
+Es gibt ein [Echo Dot  3. Gen.   Anthrazit Stoff + Amazon Smart Plug  WLAN-Steckdose   Funktionert mit Alexa](https://www.amazon.de/dp/B08D1G2XVX/?tag=tolees0ca-21) mit aktuellem Preis 34.98 EUR (original: 74.98 EUR) 53.35 % Rabatt hier:
 
 [![Echo Dot  3. Gen.   Anthrazit Stoff + Am](https://m.media-amazon.com/images/I/31PLjM2J1wL._SL400_.jpg)](https://www.amazon.de/dp/B08D1G2XVX/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Unser beliebtester smarter Lautsprecher – Jetzt mit neuem Stoffdesign sowie verbessertem Lautsprecher für volleren und kräftigeren Klang.
+- Vollerer, besserer Klang – Verbinden Sie das Gerät mit einem zweiten Echo Dot (3. Gen.) für vollen Stereosound. Füllen Sie Ihr Zuhause mit Musik mit kompatiblen Echo-Geräten in verschiedenen Räumen.
+- Bleiben Sie in Verbindung – Sie können Personen, die ein Echo-Gerät, die Alexa App oder Skype haben, per Sprachbefehl anrufen oder ihnen Nachrichten schicken. Verbinden Sie sich direkt über Drop In mit anderen Räumen in Ihrem Zuhause oder machen Sie eine Ankündigung auf allen kompatiblen Echo-Geräten.
+- Sprachsteuerung für Ihr Smart Home – Schalten Sie Lampen ein, verstellen Sie Thermostate, steuern Sie Türschlösser und vieles mehr mit verbundenen kompatiblen Geräten.
+- Stets bereit – Alexa kann Musik abspielen, Fragen beantworten, die Nachrichten und den Wetterbericht vorlesen, Wecker stellen, kompatible Smart Home-Geräte steuern und vieles mehr.
+- Steuern Sie die Musikwiedergabe per Sprachbefehl – Streamen Sie Songs von Amazon Music, Spotify, TuneIn und weiteren. Sie können auch Hörbücher von Audible hören.
+- Dieses Bundle enthält einen Echo Dot (3. Gen.) und eine Amazon WLAN-Steckdose – alles, was Sie benötigen, um mit Ihrem Smart Home loszulegen.
+- Entwickelt, um Ihre Privatsphäre zu schützen – umfasst Datenschutz- und Kontrollmaßnahmen auf mehreren Ebenen, darunter eine Mikrofon-aus-Taste, mit der Sie die Stromzufuhr zu den Mikrofonen unterbrechen und sie somit deaktivieren können.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08D1G2XVX/?tag=tolees0ca-21)

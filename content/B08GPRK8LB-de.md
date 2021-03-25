@@ -28,11 +28,11 @@ Es gibt ein [LEGO 10952 DUPLO Scheune  Traktor und Tierpflege Kleinkinder Spielz
 
 ℹ️:
 
+- Check out other LEGO DUPLO Town Farm toys: Animal Care (10949), Tractor & Animal Care (10950), or Horse Stable and Pony Care (10951)
+- The buildable barn can be reconfigured for different adventures; a simple building guide includes a story that features models from the set
+- Includes 4 LEGO DUPLO figures and 8 animal figures: a pig, sheep, horse, dog, hen, rooster, plus a mum and baby cow figures for more fun
 - Features several farm buildings: a buildable barn with opening doors, an animal pen, chicken coop, strawberry-shaped stall, and a tractor
 - Also includes realistically textured hay bales and lots of cool accessories: a bucket, pitchfork, plate, broom, flowers, and drinking trough
 - This 97-piece toy for toddlers 2+ years old lets kids build fine motor, emotional and social skills as they play while caring for animals
-- The buildable barn can be reconfigured for different adventures; a simple building guide includes a story that features models from the set
-- Includes 4 LEGO DUPLO figures and 8 animal figures: a pig, sheep, horse, dog, hen, rooster, plus a mum and baby cow figures for more fun
-- Check out other LEGO DUPLO Town Farm toys: Animal Care (10949), Tractor & Animal Care (10950), or Horse Stable and Pony Care (10951)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GPRK8LB/?tag=tolees0ca-21)
