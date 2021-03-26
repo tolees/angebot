@@ -28,8 +28,8 @@ Es gibt ein [Funko - POP Dragon Ball SUPER Goku ULT](https://www.amazon.de/dp/B0
 
 ℹ️:
 
+- Das Produkt wird in der Originalwindowbox verkauft
 - Die Reproduktionen messen ca 9 cm es gibt auch Over-sized Versionen
 - Funko Pop sind stilisierte Reproduktionen von kultigen Charakteren aus Filmen TV-Serie Animationen Comics Videospielen und vieles mehr
-- Das Produkt wird in der Originalwindowbox verkauft
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07DFDXV44/?tag=tolees0ca-21)
