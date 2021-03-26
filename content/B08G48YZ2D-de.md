@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.33 % rabat auf LEGO 31115 Spielzeug'
-date: 2021-03-25 08:58:43
+date: 2021-03-26 11:08:02
 image: 'https://m.media-amazon.com/images/I/51SA7XzIxwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G48YZ2D/?tag=tolees0ca-21'
 descuento: '28.33'
-average: '20.8599999999999'
+average: '20.6330769230768'
 ---
 
 Es gibt ein [LEGO 31115 Spielzeug](https://www.amazon.de/dp/B08G48YZ2D/?tag=tolees0ca-21) mit aktuellem Preis 17.91 EUR (original: 24.99 EUR) 28.33 % Rabatt hier:

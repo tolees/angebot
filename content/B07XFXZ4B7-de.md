@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Produkttitel fehlt - Wird mit 25.00 % Rabatt'
-date: 2021-03-25 07:53:10
+date: 2021-03-26 11:46:51
 image: 'https://m.media-amazon.com/images/I/51ghtf9FLBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.de/dp/B07XFXZ4B7/?tag=tolees0ca-21'
 descuento: '25.00'
-average: '46.7888856304987'
+average: '46.7783965014579'
 ---
 
 Sie können [LEGO Star Wars Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07XFXZ4B7/?tag=tolees0ca-21) mit Preis 44.99 EUR (original: 59.99 EUR) 25.00 % Rabatt hier:

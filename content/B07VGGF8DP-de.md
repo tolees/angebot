@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.43 % rabat auf LEGO Ideas Produkttitel fehlt - Wird nac'
-date: 2021-03-25 07:34:20
+date: 2021-03-26 12:00:02
 image: 'https://m.media-amazon.com/images/I/61tL5sAvjhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO Ideas'
 buyurl: 'https://www.amazon.de/dp/B07VGGF8DP/?tag=tolees0ca-21'
 descuento: '21.43'
-average: '57.6025835866261'
+average: '57.5867975830815'
 ---
 
 Es gibt ein [LEGO Ideas Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07VGGF8DP/?tag=tolees0ca-21) mit aktuellem Preis 54.99 EUR (original: 69.99 EUR) 21.43 % Rabatt hier:

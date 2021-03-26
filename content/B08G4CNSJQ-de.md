@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.56 % rabat auf LEGO 75298 Spielzeug'
-date: 2021-03-25 07:37:06
+date: 2021-03-26 11:14:38
 image: 'https://m.media-amazon.com/images/I/51+4zD0lm4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4CNSJQ/?tag=tolees0ca-21'
 descuento: '26.56'
-average: '17.7064285714286'
+average: '17.5046666666667'
 ---
 
 Es gibt ein [LEGO 75298 Spielzeug](https://www.amazon.de/dp/B08G4CNSJQ/?tag=tolees0ca-21) mit aktuellem Preis 14.68 EUR (original: 19.99 EUR) 26.56 % Rabatt hier:

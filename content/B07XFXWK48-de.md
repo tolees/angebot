@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.20 % rabat auf LEGO STAR WARS Produkttitel fehlt - Wird'
-date: 2021-03-25 07:51:12
+date: 2021-03-26 11:45:56
 image: 'https://m.media-amazon.com/images/I/51450fUeLlL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21'
 descuento: '25.20'
-average: '47.6936309523809'
+average: '47.676923076923'
 ---
 
 Es gibt ein [LEGO STAR WARS Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07XFXWK48/?tag=tolees0ca-21) mit aktuellem Preis 44.87 EUR (original: 59.99 EUR) 25.20 % Rabatt hier:

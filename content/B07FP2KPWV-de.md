@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.68 % rabat auf LEGO 42092 Technic Rettungshubschrauber '
-date: 2021-03-25 07:56:48
+date: 2021-03-26 11:20:33
 image: 'https://m.media-amazon.com/images/I/51-++QdoDNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FP2KPWV/?tag=tolees0ca-21'
 descuento: '26.68'
-average: '25.6996732026143'
+average: '25.6755844155843'
 ---
 
 Es gibt ein [LEGO 42092 Technic Rettungshubschrauber  2-in-1 Spielzeugflugzeug  Modellbausatz für Jungen und Mädchen ab 8 Jahren](https://www.amazon.de/dp/B07FP2KPWV/?tag=tolees0ca-21) mit aktuellem Preis 21.99 EUR (original: 29.99 EUR) 26.68 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEGO 42092 Technic Rettungshubschrauber  2-in-1 Spielzeugflugzeug  
 
 ℹ️:
 
-- Enthält drehbare Rotoren, sich öffnende Seiten- und Hecktüren, eine funktionierende Seilwinde und eine Rettungstrage
-- Öffne die Seitentüren und lasse die Winde mit der Rettungstrage herab
-- Hat ein cooles Farbmuster in Rot, Weiß und Schwarz
-- Dieses leicht zu bauende Set ist ideal für angehende Lego Technic Baumeister
-- Dieser Lego Technic Spielzeughubschrauber soll ein fesselndes und lohnendes Bauerlebnis vermitteln
+- This easy to build 2-in-1 LEGO Technic toy helicopter rebuilds into a futuristic Concept Plane
+- LEGO Technic sets feature realistic movement and mechanisms that introduce young LEGO builders to the universe of engineering in an approachable and realistic way
+- Check out the cool red, white and black colour scheme
+- Build a realistic Rescue Helicopter toy designed to provide an immersive and rewarding building experience
+- Rescue Helicopter toy features spinning rotors, opening side and rear doors, working winch and a rescue stretcher
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP2KPWV/?tag=tolees0ca-21)

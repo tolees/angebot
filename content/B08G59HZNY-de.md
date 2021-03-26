@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31116 Spielzeug mit 29.04 % Rabatt'
-date: 2021-03-25 08:48:00
+date: 2021-03-26 11:12:17
 image: 'https://m.media-amazon.com/images/I/51DD5iWxFTL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G59HZNY/?tag=tolees0ca-21'
 descuento: '29.04'
-average: '23.632962962963'
+average: '23.5489285714286'
 ---
 
 Sie können [LEGO 31116 Spielzeug](https://www.amazon.de/dp/B08G59HZNY/?tag=tolees0ca-21) mit Preis 21.28 EUR (original: 29.99 EUR) 29.04 % Rabatt hier:

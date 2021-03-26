@@ -1,36 +1,39 @@
 ---
 layout: post
-title: 'LEGO 60249 City Straßenkehrmaschine mit  mit 25.03 % Rabatt'
-date: 2021-03-17 21:26:34
+title: 'LEGO Produkttitel fehlt - Wird nachgerei mit 36.74 % Rabatt'
+date: 2021-03-26 12:51:28
 image: 'https://m.media-amazon.com/images/I/51L2foy5UDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W5PXDWT-de LEGO 60249 City Straßenkehrmaschine mit Fahrer...'
+slug: 'B07W5PXDWT-de LEGO Produkttitel fehlt - Wird nachgereicht'
 sku: 'B07W5PXDWT-de'
-actualPrice: 7.49 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
+actualPrice: 6.32 EUR
 currency: EUR
-price: 7.49
+price: 6.32
 comparePrice: 9.99 EUR
-prodname: 'LEGO 60249 City Straßenkehrmaschine mit Fahrer  Spielzeugautos Sets für Kinder'
+prodname: 'LEGO Produkttitel fehlt - Wird nachgereicht'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W5PXDWT/?tag=tolees0ca-21'
-descuento: '25.03'
-average: '7.90695652173914'
+descuento: '36.74'
+average: '7.87319148936171'
 ---
 
-Sie können [LEGO 60249 City Straßenkehrmaschine mit Fahrer  Spielzeugautos Sets für Kinder](https://www.amazon.de/dp/B07W5PXDWT/?tag=tolees0ca-21) mit Preis 7.49 EUR (original: 9.99 EUR) 25.03 % Rabatt hier:
+Sie können [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W5PXDWT/?tag=tolees0ca-21) mit Preis 6.32 EUR (original: 9.99 EUR) 36.74 % Rabatt hier:
 
-[![LEGO 60249 City Straßenkehrmaschine mit ](https://m.media-amazon.com/images/I/51L2foy5UDL._SL400_.jpg)](https://www.amazon.de/dp/B07W5PXDWT/?tag=tolees0ca-21)
+[![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51L2foy5UDL._SL400_.jpg)](https://www.amazon.de/dp/B07W5PXDWT/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Die digitale Anleitung Instructions Plus über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
-- Enthält die Fahrer-Minifigur, um ein offenes, einfallsreiches Rollenspiel zu fördern, das auf realen Szenarien basiert, die täglich von Kindern beobachtet werden
-- Das City Straßenkehrmaschine-Spielzeug bietet Platz für eine Fahrer-Minifigur in der Kabine und realistische Bürsten, die sich drehen, wenn das Fahrzeug vorbeigeschoben wird
-- Kinder können mit dieser coolen Maschine die Straßen reinigen, dann die Ladefläche des Lastwagens öffnen, sich die Schaufel schnappen und den Müll in den Mülleimer verladen
-- Zum Zubehör gehören ein Mülleimer, eine Schaufel, eine Kehrbürste und eine Banane. Oh nein, jemand ist auf der Schale ausgerutscht, sie muss aufgeräumt werden
+- Diese Straßenkehrmaschine verfügt über realistische Bürsten, die sich drehen, wenn das Spielzeug angeschoben wird. Kinder können dieses Set auch mit anderen echten LEGO Spielsets kombinieren, um mit ihnen zu spielen oder coole Schaustücke zu erschaffen.
+- Die Straßenkehrmaschine bietet einen tollen Einstieg in die aufregende LEGO City Welt. Das perfekte Set für Kinder ab 5 Jahren, inspiriert zu unzähligen fantasievollen Rollenspielen, die auf Alltagsszenarien basieren.
+- Zu dieser Straßenkehrmaschine gibt es eine gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung, die Kinder zu wahren Baumeistern werden lässt! Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
+- Das Bauset „Straßenkehrmaschine“ kommt ohne Batterien aus, damit die Kinder sofort spielen können!
+- Die Straßenkehrmaschine ist 6 cm hoch, 10 cm lang und 7 cm breit. In der Kabine ist Platz für den Fahrer – und hinten passt die glitschige Banane hinein!
+- Das LEGO City Spielset „Straßenkehrmaschine“ (60249) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
+- Inhalt des Sets: Eine coole LEGO City Straßenkehrmaschine mit Platz für eine Minifigur sowie eine Mülltonne, eine Schaufel und eine Banane. Alles, was ein Kind für selbstständigen Spielspaß benötigt.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W5PXDWT/?tag=tolees0ca-21)
