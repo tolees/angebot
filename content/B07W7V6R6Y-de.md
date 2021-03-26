@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.56 % rabat auf LEGO Produkttitel fehlt - Wird nachgerei'
-date: 2021-03-25 08:27:12
+date: 2021-03-26 21:17:47
 image: 'https://m.media-amazon.com/images/I/51HFD62i3XL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7V6R6Y/?tag=tolees0ca-21'
 descuento: '26.56'
-average: '17.2873000000004'
+average: '17.2700331125832'
 ---
 
 Es gibt ein [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W7V6R6Y/?tag=tolees0ca-21) mit aktuellem Preis 14.68 EUR (original: 19.99 EUR) 26.56 % Rabatt hier:

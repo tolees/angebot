@@ -28,9 +28,9 @@ Sie können [AmazonBasics - Amazon Basics Lagerregal mit 4 Regalböden  bis zu 1
 
 ℹ️:
 
-- Drahtregalböden können in Abschnitten von 2,54 cm verstellt werden; kein Werkzeug nötig
-- Robuste Stahlkonstruktion mit schwarz lackiertem Chrom-Finish; verstellbare Nivellierfüße
 - Maße: 91.4 x 35.5 x 137.1 cm (LxWxH)
+- Robuste Stahlkonstruktion mit schwarz lackiertem Chrom-Finish; verstellbare Nivellierfüße
+- Drahtregalböden können in Abschnitten von 2,54 cm verstellt werden; kein Werkzeug nötig
 - Regal mit 4 Regalböden für die Küche, das Büro, die Garage etc.
 - Jeder Regalboden trägt bis zu 160 kg (bei gleichmäßiger Verteilung der Tragelast), das gesamte Regal trägt bis zu 640 kg
 

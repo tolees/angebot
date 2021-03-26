@@ -28,8 +28,8 @@ Sie können [Columbia Herren Woodburn Li  Multisport Schuh  Schwarz  43 EU](http
 
 ℹ️:
 
-- Obermaterial aus Leder/Mesh
 - Leichte Techlite Zwischensohle
+- Obermaterial aus Leder/Mesh
 - Der Columbia Peakfreak Nomad ist ein typischer Outdoor-Schuh, der als Light Trail und als City Trail-Schuh Gebrauch findet. Das besonders leichte Obermaterial aus Leder und Mesh sorgt für Komfort und Atmungsaktivität. Die gepolsterte Zwischensohle sorgt für eine hohe Energierückgabe und die abtriebfeste Außensohle dient für eine perfekte Bodenhaftung
 - Abtriebfeste Omni-Grip Gummi-Außensohle für gute Bodenhaftung
 
