@@ -28,10 +28,10 @@ Es gibt ein [tonies Hörfiguren für Toniebox - Kreativ Einhorn - ca. 90 Minuten
 
 ℹ️:
 
-- Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
 - Wir sind der Meinung: einfach Spitze! Das Einhorn hat seinen Platz endlich auch im Tonie-Universum gefunden.
-- Als Kreativ-Tonie wartet es nun auf fabelhafte Hörbücher, Hörspiele oder Musik aus deiner Audiosammlung.
 - Alle Inhalte des Kreativ-Tonies können mit einem kostenlosen Toniecloud Kundenkonto verwaltet werden. Der Kreativ-Tonie bietet 90 Minuten Spielzeit für eigene Hörabenteuer oder Musik.
 - Hörerlebnisse nach deinem Geschmack: Die Kreativ-Tonies sind frei bespielbar und warten nur darauf, deine Geschichte erzählen zu können. Deinen kreativen Möglichkeiten sind keine Grenzen gesetzt.
+- Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
+- Als Kreativ-Tonie wartet es nun auf fabelhafte Hörbücher, Hörspiele oder Musik aus deiner Audiosammlung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B078YW32RD/?tag=tolees0ca-21)
