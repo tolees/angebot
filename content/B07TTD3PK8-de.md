@@ -28,9 +28,9 @@ Es gibt ein [Funko 45139 POP Marvel: Endgame - Hulk w/Taco Actionfigur  Multicol
 
 ℹ️:
 
-- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
-- From Endgame, Hulk, as a stylized POP vinyl from Funko
 - Figure stands 9cm and comes in a window display box
 - Check out the other Disney Marvel figures from Funko Collect them all
+- From Endgame, Hulk, as a stylized POP vinyl from Funko
+- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07TTD3PK8/?tag=tolees0ca-21)

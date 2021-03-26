@@ -28,9 +28,9 @@ Es gibt ein [Razer Kraken X - Gaming Headset  Ultra leichte Gaming Headphones f�
 
 ℹ️:
 
-- WEICHE KOPFBAND-POLSTERUNG: Verringert den Druck auf den Kopf und beugt Überlastung vor und fester Sitz: Damit das Headset gut auf dem Kopf sitzt, aber stets bequem zu tragen ist
-- KLARER UND PRÄZISER POSITIONSABHÄNGIGER SOUND: Dank 7.1 Surround Sound-Software können Sie präzisen positionsabhängigen Gaming-Sound genießen - Sie erkennst sofort die Richtung, in der gekämpft wird, und können Sie mitten ins Gefecht stürzen
 - KRISTALLKLARE KOMMUNIKATION: Das flexible und biegsame Mikrofon setzt auf eine Kardioide und nimmt den Ton nur in der Nähe deines Mundes auf. So ist deine Stimme klar zu verstehen, während Hintergrundgeräusche von hinten und den Seiten unterdrückt werden
+- KLARER UND PRÄZISER POSITIONSABHÄNGIGER SOUND: Dank 7.1 Surround Sound-Software können Sie präzisen positionsabhängigen Gaming-Sound genießen - Sie erkennst sofort die Richtung, in der gekämpft wird, und können Sie mitten ins Gefecht stürzen
+- WEICHE KOPFBAND-POLSTERUNG: Verringert den Druck auf den Kopf und beugt Überlastung vor und fester Sitz: Damit das Headset gut auf dem Kopf sitzt, aber stets bequem zu tragen ist
 - INDIVIDUELL ABGESTIMMTE 40-MM TREIBER: Sorgt das Razer Kraken X für einen klaren, ausgewogenen Sound, von donnernden Explosionen mitten im Krieg bis hin zu fast lautlosen Schritten bei Schleichmissionen
 - ULTRA LEICHT UND ERGNOMISCH DANK 250 G GEWICHT: Von Hause aus so leicht, dass Sie es praktisch gar nicht beim Tragen spürst und weiche Ohrpolster aus Memory-Schaumstoff
 

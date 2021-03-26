@@ -28,8 +28,8 @@ Es gibt ein [SEGA - Team Sonic Racing [Nintendo Switch]](https://www.amazon.de/d
 
 ℹ️:
 
-- 15 spielbare Charaktere aus der gesamten Sonic-Welt
 - Online Koop-Modus mit bis zu 12 Spieler, sowie lokaler Koop-Modus für 4 Spieler mit Splitscreen
+- 15 spielbare Charaktere aus der gesamten Sonic-Welt
 - Einer der größten Videospiel-Ikonen kehrt nun endlich auch ins Fun-Racing zurück
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07D57RR8J/?tag=tolees0ca-21)

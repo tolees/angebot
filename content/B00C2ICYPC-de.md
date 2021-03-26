@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '27.11 % rabat auf TP-Link TL-WPA4220 KIT AV600 WLAN N300 W'
-date: 2021-03-18 08:52:43
+date: 2021-03-26 22:48:25
 image: 'https://m.media-amazon.com/images/I/41B3X5nFnWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00C2ICYPC-de TP-Link TL-WPA4220 KIT AV600 WLAN N300 WiFi Powerline max....'
 sku: 'B00C2ICYPC-de'
+tags: [ 'Computer & Zubehör','Netzwerkgeräte','PowerLAN-Adapter','tp-link', ]
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95
@@ -18,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B00C2ICYPC/?tag=tolees0ca-21'
 descuento: '27.11'
-average: '49.7750000000002'
+average: '49.8210784313727'
 ---
 
 Es gibt ein [TP-Link TL-WPA4220 KIT AV600 WLAN N300 WiFi Powerline  max. 600Mbit/s Powerline  max. 300Mbit/s WLAN 2 4GHz   Plug und Play  kompatibel zu allen Powerline Adaptern  2er Set  weiß](https://www.amazon.de/dp/B00C2ICYPC/?tag=tolees0ca-21) mit aktuellem Preis 50.95 EUR (original: 69.9 EUR) 27.11 % Rabatt hier:
@@ -27,9 +28,9 @@ Es gibt ein [TP-Link TL-WPA4220 KIT AV600 WLAN N300 WiFi Powerline  max. 600Mbit
 
 ℹ️:
 
-- Mehrere LAN-Ports zum Anschluss von z.B. Spielekonsolen, Computer und Smart TVs
 - Lieferumfang: Powerline-Ethernet-Adapter TL-WPA4220 und TL-PA4010, 2m-RJ45-Ethernetkabel, CD, Schnellinstallationsanleitung
 - Powerline-Geschwindigkeit bis zu 600 Mbit/s über bestehende Stromleitungen nach HomePlug AV, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming WLAN-Geschwindigkeit bis zu 300 Mbit/s zu Erweiterung der bestehenden WLAN-Abdeckung
 - Reichweitenvergrößerung auf Tastendruck: mit WiFi-Clone-Taste werden die WLAN-Einstellungen des Routers kopiert – für ein nahtlos benutzbares, großes WLAN im ganzen Haus
+- Mehrere LAN-Ports zum Anschluss von z.B. Spielekonsolen, Computer und Smart TVs
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00C2ICYPC/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Astragon - Bau Simulator 2+3 - [Nintendo Switch]](https://www.amazo
 
 ℹ️:
 
-- Aufregende Herausforderungen – Vom Reparieren brüchiger Straßen bis zum Bauen von Eisenbahnbrücken
-- Im Bau-Simulator 3: Cockpit-Ansicht – Erleben Sie starke Maschinen von Innen
-- Alle möglichen Maschinenanforderungen sind abgedeckt - Traktoren, Kräne, Lader und Muldenkipper
 - Europäische und US-amerikanische Version auf einer Switch Softwarekarte
 - Lizenzierte Partner u. a.: Caterpillar, Liebherr, Palfinger, Bell Equipment, STILL, ATLAS
+- Aufregende Herausforderungen – Vom Reparieren brüchiger Straßen bis zum Bauen von Eisenbahnbrücken
+- Alle möglichen Maschinenanforderungen sind abgedeckt - Traktoren, Kräne, Lader und Muldenkipper
+- Im Bau-Simulator 3: Cockpit-Ansicht – Erleben Sie starke Maschinen von Innen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CY4SY8H/?tag=tolees0ca-21)

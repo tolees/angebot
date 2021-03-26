@@ -28,9 +28,9 @@ Sie können [Original Samsung USB C Kabel EP-DG950CBE 1 2m Schwarz kompaktes u. 
 
 ℹ️:
 
+- PERFEKT KOMPATIBEL - z.B. für Samsung Galaxy S10 / S10 Plus / S9 / S9+ / S8 / S8+ / Galaxy Note 9 / Note 8 / Galaxy A3 A5 A7 2017 / Nokia 8 / HTC U12+ / U11 / HTC 10 / Sony Xperia XZ2 / XZ2 Compact / XZ1 / LG G7 ThinQ / G6 / G5 / Google Pixel / Pixel 2 / Pixel 2 XL / Huawei P20 Pro / P20 / P20 Lite / P10 / P9 / Mate 10 / Mate 9
 - ORIGINAL SAMSUNG: Es handelt sich bei dem Kabel um Original Zubehör von Samsung. Das Ladekabel ist 1,2m lang und hat die Modellnummer EP-DG950CBE. Das Aufladekabel ist hochwertig verarbeitet und robust.
 - SCHNELLES AUFLADEN - Das USB C Kabel bietet eine schnelle Datenübertragung mit hoher Ladegeschwindigkeit und ist geeignet für das sichere Aufladen und Synchronisieren aller Geräte mit Type C Standard.
-- PERFEKT KOMPATIBEL - z.B. für Samsung Galaxy S10 / S10 Plus / S9 / S9+ / S8 / S8+ / Galaxy Note 9 / Note 8 / Galaxy A3 A5 A7 2017 / Nokia 8 / HTC U12+ / U11 / HTC 10 / Sony Xperia XZ2 / XZ2 Compact / XZ1 / LG G7 ThinQ / G6 / G5 / Google Pixel / Pixel 2 / Pixel 2 XL / Huawei P20 Pro / P20 / P20 Lite / P10 / P9 / Mate 10 / Mate 9
 - BEIDSEITIG - Die punktsymmetrischen Buchsen erlauben ein Einstecken in beide Richtungen, wodurch Sie das Kabel nie mehr drehen müssen und immer sofort richtig herum einstöpseln.
 - HOHE QUALITÄT - Sowohl der USB-Anschluss als auch der Typ-C-Anschluss sind mit einer hochwertigen Aluminium-Metall Legierung ummantelt und gewähren zusätzlichen Schutz für die Kontakte. Die feine und edle Verarbeitung bietet einen festen Kontakt ohne zu wackeln.
 
