@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'LG Electronics - LG 49NANO806NA 123 cm   mit 35.60 % Rabatt'
-date: 2021-02-18 20:48:50
-image: 'https://m.media-amazon.com/images/I/41qkVosAn8L._SL200_.jpg'
+title: 'LG Electronics - LG 49NANO806NA 123 cm   mit 37.38 % Rabatt'
+date: 2021-03-26 07:16:08
+image: 'https://m.media-amazon.com/images/I/41qkVosAn8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084XT6K7G-de LG Electronics - LG 49NANO806NA 123 cm 49 Zoll NanoCell...'
 sku: 'B084XT6K7G-de'
-actualPrice: 578.95 EUR
+tags: [ 'Elektronik & Foto','Fernseher','Fernseher & Heimkino','lg electronics', ]
+actualPrice: 562.97 EUR
 currency: EUR
-price: 578.95
+price: 562.97
 comparePrice: 899.0 EUR
 prodname: 'LG Electronics - LG 49NANO806NA 123 cm  49 Zoll  NanoCell Fernseher  4K  Triple Tuner  DVB-T2/T -C -S2/S   Active HDR  50 Hz  Smart TV  [Modelljahr 2020]'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LG Electronics'
 buyurl: 'https://www.amazon.de/dp/B084XT6K7G/?tag=tolees0ca-21'
-descuento: '35.60'
-average: '508.432222222222'
+descuento: '37.38'
+average: '513.886'
 ---
 
-Sie können [LG Electronics - LG 49NANO806NA 123 cm  49 Zoll  NanoCell Fernseher  4K  Triple Tuner  DVB-T2/T -C -S2/S   Active HDR  50 Hz  Smart TV  [Modelljahr 2020]](https://www.amazon.de/dp/B084XT6K7G/?tag=tolees0ca-21) mit Preis 578.95 EUR (original: 899.0 EUR) 35.60 % Rabatt hier:
+Sie können [LG Electronics - LG 49NANO806NA 123 cm  49 Zoll  NanoCell Fernseher  4K  Triple Tuner  DVB-T2/T -C -S2/S   Active HDR  50 Hz  Smart TV  [Modelljahr 2020]](https://www.amazon.de/dp/B084XT6K7G/?tag=tolees0ca-21) mit Preis 562.97 EUR (original: 899.0 EUR) 37.38 % Rabatt hier:
 
-[![LG Electronics - LG 49NANO806NA 123 cm  ](https://m.media-amazon.com/images/I/41qkVosAn8L._SL200_.jpg)](https://www.amazon.de/dp/B084XT6K7G/?tag=tolees0ca-21)
+[![LG Electronics - LG 49NANO806NA 123 cm  ](https://m.media-amazon.com/images/I/41qkVosAn8L._SL400_.jpg)](https://www.amazon.de/dp/B084XT6K7G/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Smart TV (webOS 5.0) mit Google Assistant, Alexa, AirPlay 2/HomeKit
-- Quad Core 4K Prozessor mit zweistufiger Rauschreduzierung und AI Sound
 - HDMI 2.1 und HGiG-Unterstützung* (* Per Software-Update im Laufe des Jahres.)
-- 4K NanoCell IPS TV mit Local Dimming für reine Farben und weite Blickwinkel
+- Quad Core 4K Prozessor mit zweistufiger Rauschreduzierung und AI Sound
 - Bild wie vom Regisseur gewollt mit dem Filmmaker Mode sowie HDR-Unterstützung mit Active HDR (HDR10 Pro und HLG)
+- 4K NanoCell IPS TV mit Local Dimming für reine Farben und weite Blickwinkel
+- Smart TV (webOS 5.0) mit Google Assistant, Alexa, AirPlay 2/HomeKit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084XT6K7G/?tag=tolees0ca-21)
