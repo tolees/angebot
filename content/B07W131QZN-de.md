@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Activision Blizzard Deutschland - Call o mit 26.19 % Rabatt'
-date: 2021-03-21 15:40:07
+title: 'Activision Blizzard Deutschland - Call o mit 24.90 % Rabatt'
+date: 2021-03-27 04:55:24
 image: 'https://m.media-amazon.com/images/I/31scz4zzr8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Games','PlayStation 4','Spiele für PlayStation 4','activision blizzard
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89
-comparePrice: 5.27 EUR
+comparePrice: 5.18 EUR
 prodname: 'Activision Blizzard Deutschland - Call of Duty: Modern Warfare - Steelbook [enthält kein Spiel]'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Activision Blizzard Deutschland'
 buyurl: 'https://www.amazon.de/dp/B07W131QZN/?tag=tolees0ca-21'
-descuento: '26.19'
-average: '5.05416666666667'
+descuento: '24.90'
+average: '5.0325'
 ---
 
-Sie können [Activision Blizzard Deutschland - Call of Duty: Modern Warfare - Steelbook [enthält kein Spiel]](https://www.amazon.de/dp/B07W131QZN/?tag=tolees0ca-21) mit Preis 3.89 EUR (original: 5.27 EUR) 26.19 % Rabatt hier:
+Sie können [Activision Blizzard Deutschland - Call of Duty: Modern Warfare - Steelbook [enthält kein Spiel]](https://www.amazon.de/dp/B07W131QZN/?tag=tolees0ca-21) mit Preis 3.89 EUR (original: 5.18 EUR) 24.90 % Rabatt hier:
 
 [![Activision Blizzard Deutschland - Call o](https://m.media-amazon.com/images/I/31scz4zzr8L._SL400_.jpg)](https://www.amazon.de/dp/B07W131QZN/?tag=tolees0ca-21)
 
