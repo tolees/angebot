@@ -1,36 +1,39 @@
 ---
 layout: post
-title: '21.56 % rabat auf LEGO 75272 Star Wars Sith TIE Fighter Ba'
-date: 2021-03-17 18:28:27
+title: '28.58 % rabat auf LEGO 75272 Star Wars Sith TIE Fighter Ba'
+date: 2021-03-27 16:47:35
 image: 'https://m.media-amazon.com/images/I/51KLLnT6W0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07WC12QZW-de LEGO 75272 Star Wars Sith TIE Fighter Bauset Serie Der...'
 sku: 'B07WC12QZW-de'
-actualPrice: 54.9 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
+actualPrice: 49.99 EUR
 currency: EUR
-price: 54.9
+price: 49.99
 comparePrice: 69.99 EUR
-prodname: 'LEGO 75272 Star Wars Sith TIE Fighter Bauset  Serie Der Aufstieg Skywalkers'
+prodname: 'LEGO 75272 Star Wars Sith TIE Fighter Bauset  Serie Der Aufstieg Skywalkers'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21'
-descuento: '21.56'
-average: '54.6606474820142'
+descuento: '28.58'
+average: '54.5943971631204'
 ---
 
-Es gibt ein [LEGO 75272 Star Wars Sith TIE Fighter Bauset  Serie Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21) mit aktuellem Preis 54.9 EUR (original: 69.99 EUR) 21.56 % Rabatt hier:
+Es gibt ein [LEGO 75272 Star Wars Sith TIE Fighter Bauset  Serie Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 69.99 EUR) 28.58 % Rabatt hier:
 
-[![LEGO 75272 Star Wars Sith TIE Fighter Ba](https://m.media-amazon.com/images/I/51KLLnT6W0L._SL400_.jpg)](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21)
+[![LEGO 75272 Star Wars Sith TIE Fighter Ba](https://m.media-amazon.com/images/I/51KLLnT6W0L._SL400_.jpg)](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Enthält drei Minifiguren: Einen TIE-Pilot der Ersten Ordnung, einen Ritter von Ren und Finn als Minifiguren mit coolen Waffen: Pistolen und ein Schwert
-- Dieses Set lässt sich hervorragend mit Poe Damerons X-Wing Fighter (75273) für epische Kämpfe zwischen der Ersten Ordnung und dem Widerstand kombinieren
-- Wenn die Missionen der Ersten Ordnung mit diesem superschnellen Sith-TIE-Kämpfer beendet sind, können Kinder es auf dem Turm ausstellen, um ihr Zimmer zu dekorieren
-- Den TIE Fighter kennzeichnen ein sich öffnendes Minifiguren-Cockpit und zwei gefederte Flugkörper. Es gibt auch einen Andockturm zum Starten, Landen und Ausstellen
-- Kinder können in das Cockpit des Starfighters springen und in die Schlacht fliegen, dann die Höchstgeschwindigkeit erreichen und die Geschütze abfeuern
+- Das Sith TIE Fighter (75272) zum Zusammenbauen besitzt ein schnittiges Design (neu ab Januar 2020) – genau wie in „Star Wars: Der Aufstieg Skywalkers–, um Kinder spannenden Missionen als Pilot der Ersten Ordnung fliegen zu lassen!
+- Ist dieses Star Wars Bauspielzeug auch für ein Kind gedacht, das noch keine LEGO Sets besitzt? Ja! Denn es liegt eine einfache gedruckte Bauanleitung bei. Nach dem Öffnen der Box kann es sofort losgehen!
+- Das 470-teilige Set mit legendären Star Wars Charakteren stellt Jungen und Mädchen ab 9 Jahren vor eine ebenso unterhaltsame wie lohnende Bauherausforderung und ist ein Supergeschenk zum Geburtstag, zu Weihnachten oder als besondere Belohnung.
+- Der Star Wars TIE Fighter ist 21 cm hoch, 24 cm lang und 22 cm breit. Wenn er nicht gerade Missionen für die Erste Ordnung fliegt, ist er ein eindrucksvolles Schaustück, das jedes Zimmer schmückt!
+- Für dieses Bau- und Spielset werden keine Batterien benötigt. Der TIE Starfighter besteht ausschließlich aus LEGO Steinen – und als Antrieb für unzählige Star Wars Action-Abenteuer reicht die Kreativität der Kinder.
+- Der TIE Fighter verfügt über ein aufklappbares Minifigur-Cockpit und 2 Raketen mit Federmechanismus. Es gibt auch einen Andockturm zum Starten, Landen und Präsentieren des Baumodells sowie 3 Minifiguren für actionreiche Rollenspiele.
+- Der TIE-Pilot der Ersten Ordnung, der Ritter von Ren und Finn sind mit cooler Ausrüstung ausgestattet. Das Set lässt sich auch wunderbar mit „Poe Damerons X-Wing Starfighter“ (75273) kombinieren, damit sich Erste Ordnung legendäre Schlachten mit dem Widerstand liefern kann.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WC12QZW/?tag=tolees0ca-21)

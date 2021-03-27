@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42095 Technic Ferngesteuerter Stunt mit 22.50 % Rabatt'
-date: 2021-03-26 11:14:25
+title: 'LEGO 42095 Technic Ferngesteuerter Stunt mit 27.50 % Rabatt'
+date: 2021-03-27 17:10:29
 image: 'https://m.media-amazon.com/images/I/51PPXrkFnwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B07FNMXFQF-de LEGO 42095 Technic Ferngesteuerter Stunt-Racer Spielzeug...'
 sku: 'B07FNMXFQF-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 61.99 EUR
+actualPrice: 57.99 EUR
 currency: EUR
-price: 61.99
+price: 57.99
 comparePrice: 79.99 EUR
 prodname: 'LEGO 42095 Technic Ferngesteuerter Stunt-Racer Spielzeug  2-in-1-Rennwagen Modell mit Motorfunktionen  Rennwagen-Sammlung'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21'
-descuento: '22.50'
-average: '64.215218658892'
+descuento: '27.50'
+average: '64.1791304347825'
 ---
 
-Sie können [LEGO 42095 Technic Ferngesteuerter Stunt-Racer Spielzeug  2-in-1-Rennwagen Modell mit Motorfunktionen  Rennwagen-Sammlung](https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21) mit Preis 61.99 EUR (original: 79.99 EUR) 22.50 % Rabatt hier:
+Sie können [LEGO 42095 Technic Ferngesteuerter Stunt-Racer Spielzeug  2-in-1-Rennwagen Modell mit Motorfunktionen  Rennwagen-Sammlung](https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21) mit Preis 57.99 EUR (original: 79.99 EUR) 27.50 % Rabatt hier:
 
 [![LEGO 42095 Technic Ferngesteuerter Stunt](https://m.media-amazon.com/images/I/51PPXrkFnwL._SL400_.jpg)](https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Dieses Lego Technic Set soll ein fesselndes und lohnendes Bauerlebnis vermitteln. Es bewegt sich wirklichkeitsgetreu, besitzt realistische Mechanismen und fördert die motorischen Fähigkeiten, die Auge-Hand-Koordination und die Fantasie der Kinder
 - Brettere durch raues Gelände und über Hindernisse, fahre vorwärts, rückwärts, nach links oder rechts und vollführe 360-Grad-Wendungen oder coole Wheelies bei Höchstgeschwindigkeit
-- Hat ein cooles Farbmuster in Gelb und Blau - mit coolen Aufklebern
 - Enthält die folgenden Lego Power Functions Komponenten: zwei große Motoren, Empfänger, Batteriebox und Fernsteuerung
 - Enthält ein rasantes, voll motorisiertes ferngesteuertes Kettenfahrzeug mit großen hinteren Zahnkränzen für eine fantastische Beschleunigung
+- Hat ein cooles Farbmuster in Gelb und Blau - mit coolen Aufklebern
+- Dieses Lego Technic Set soll ein fesselndes und lohnendes Bauerlebnis vermitteln. Es bewegt sich wirklichkeitsgetreu, besitzt realistische Mechanismen und fördert die motorischen Fähigkeiten, die Auge-Hand-Koordination und die Fantasie der Kinder
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21)
