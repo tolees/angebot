@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.05 % rabat auf LEGO 42110 Technic Land Rover Defender  '
-date: 2021-03-26 11:27:08
+date: 2021-03-27 13:04:38
 image: 'https://m.media-amazon.com/images/I/518Bxj6-OhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21'
 descuento: '25.05'
-average: '137.327547619045'
+average: '137.316042654025'
 ---
 
 Es gibt ein [LEGO 42110 Technic Land Rover Defender  4x4 Geländewagen  Exklusives Sammlerstück  Bauset für Fortgeschrittene](https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21) mit aktuellem Preis 134.9 EUR (original: 179.99 EUR) 25.05 % Rabatt hier:
