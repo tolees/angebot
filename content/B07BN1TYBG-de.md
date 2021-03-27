@@ -30,7 +30,7 @@ Sie können [Vans Damen Ward Platform Canvas Sneaker  Schwarz  Canvas  Black/Whi
 
 - Gummi-Außensohle
 - 6-Loch-Schnürung
-- Textilfutter
 - hohe Gummi-Umrandung
+- Textilfutter
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BN1TYBG/?tag=tolees0ca-21)

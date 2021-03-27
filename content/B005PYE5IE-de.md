@@ -28,9 +28,9 @@ Sie können [Amway L.O.C. 0001 Universalreiniger - 2 x 1 Liter](https://www.amaz
 
 ℹ️:
 
-- konzentrierte Zusammensetzung enthält keine Phosphate, ätzende Säuren, scharfe Laugen oder Chlorbleichmittel und ist sogar effektiver als ein Handreiniger
 - Inhalt: 2 Flaschen mit je 1 Liter
-- er hinterlässt einen makellosen, streifenfreien Glanz und kann auf allen abwaschbaren Bodenoberflächen (außer unbehandeltem Holz) verwendet werden
 - aus pflanzenbasierten Inhaltsstoffen für die tägliche Oberflächenreinigung hergestellt
+- konzentrierte Zusammensetzung enthält keine Phosphate, ätzende Säuren, scharfe Laugen oder Chlorbleichmittel und ist sogar effektiver als ein Handreiniger
+- er hinterlässt einen makellosen, streifenfreien Glanz und kann auf allen abwaschbaren Bodenoberflächen (außer unbehandeltem Holz) verwendet werden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005PYE5IE/?tag=tolees0ca-21)

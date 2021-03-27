@@ -28,9 +28,9 @@ Es gibt ein [Sylvanian Families 4108 Milchhasen Familie - Figuren für Puppenhau
 
 ℹ️:
 
-- Pädagogisches Spielzeug
-- Tierfamilie bestehend aus vier Figuren der Familie Mümmelmann: Vater, Mutter, Bruder und Schwester
 - Ideals Geburtstagsgeschenk für Mädchen
+- Tierfamilie bestehend aus vier Figuren der Familie Mümmelmann: Vater, Mutter, Bruder und Schwester
+- Pädagogisches Spielzeug
 - Hübsche Spielfiguren zum An und Ausziehen
 - Bewegliche Püppchen mit samtigem Fell
 

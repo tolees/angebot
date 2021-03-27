@@ -28,10 +28,10 @@ Sie können [PLAYMOBIL Magic 70509 Spielbox "Meerjungfrau"  Ab 4 Jahren](https:/
 
 ℹ️:
 
-- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Clevere Box mit Stauraum für die Einzelteile, Zwei Türen mit Einrast-Mechanismus zum sicheren Verschließen der Box, Tragegriff zum einfachen Mitnehmen
-- Täglich bespielbar: Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Spielspaß unterwegs: PLAYMOBIL Spielbox "Meerjungfrau" mit 2 Meerjungfrauen, Algenblatt und Netz für Perlen, Thron uvm. für detailgetreues Nachspielen
 - Lieferumfang: 1x PLAYMOBIL Magic Spielbox "Meerjungfrau", 56-teiliges Spielfiguren-Set mit Anleitung: 1 Spielbox, 2 Figuren, 53 Zubehörteile, Material: Kunststoff, LxTxH: geschlossen ca. 13x8x16 cm, aufgebaut ca. 25x6,5x16 cm, Gewicht: ca. 255 g, 70509
+- Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Spielspaß unterwegs: PLAYMOBIL Spielbox "Meerjungfrau" mit 2 Meerjungfrauen, Algenblatt und Netz für Perlen, Thron uvm. für detailgetreues Nachspielen
+- Täglich bespielbar: Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Clevere Box mit Stauraum für die Einzelteile, Zwei Türen mit Einrast-Mechanismus zum sicheren Verschließen der Box, Tragegriff zum einfachen Mitnehmen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KW18JB1/?tag=tolees0ca-21)

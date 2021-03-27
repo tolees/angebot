@@ -28,10 +28,10 @@ Es gibt ein [Original MANN-FILTER Ölfilter HU 7020 z – Ölfilter Satz mit Dic
 
 ℹ️:
 
-- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
 - MANN-FILTER PKW Ölfilter HU 7020 z mit Dichtung / Metallfreies Öl Filterelement / Maße : H = 103 ; A = 65 ; D 65 ; B = 21 C = 27 / Premium-Filter in Erstausrüstungsqualität
 - Optimaler Schutz und Abdichtung über das gesamte Wartungsintervall - u.a. dank des individuell auf den Einsatzzweck abgestimmten Filtermediums / Metallfrei und voll veraschbar
 - Finden Sie den passenden Filter: Ersatzteil über die Auswahl von Marke, Modell, Fahrzeugtyp & Motorisierung im oberen Bereich oder auch über die Schlüsselnummern (HSN/TSN) aus den Fahrzeugpapieren
 - MANN-FILTER Ölfilter-Elemente bieten nicht nur höchste Filtrationsleistung, sondern schützen den Motor zusätzlich durch eine ausgezeichnete Reinigung des Öls
+- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NQYXXCE/?tag=tolees0ca-21)
