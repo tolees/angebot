@@ -28,9 +28,9 @@ Es gibt ein [OPPO Reno4 5G Smartphone  6 4 Zoll AMOLED Display  128 GB ROM  8 GB
 
 ℹ️:
 
-- Power mit 5G Dual-Modus: Die Wi-Fi- und 5G-Netze können gleichzeitig genutzt werden. Beide Netze werden kombiniert, sodass eine extreme Internetgeschwindigkeit erreicht wird.
 - Allround-Kamera: Die Triple Kamera (48+8+2MP) ermöglicht die Aufnahme von nahen, fernen und bewegten Motiven. Dank Ultra Dunkel Modus lassen sich helle, lebendige Aufnahmen auch bei Nacht einfangen.
 - Smarte Dual Front-Kamera: Für gestochen scharfe Selfies mit der 32 MP Kamera und ideale Portraits mit Hintergrundunschärfe dank der 2 MP Bokehkamera.
+- Power mit 5G Dual-Modus: Die Wi-Fi- und 5G-Netze können gleichzeitig genutzt werden. Beide Netze werden kombiniert, sodass eine extreme Internetgeschwindigkeit erreicht wird.
 - Design-Highlight: Das OPPO Reno4 zeichnet sich durch seine ultraschlanke Form von nur 7,8 mm aus. Der Unter dem Display versteckte Fingerabdruckensor ermöglicht eine schnelle Entsperr-Geschwindigkeit und erhöhte Sicherheit.
 - SuperVOOC 2.0 Schnellladen: Dank der 65W SuperVOOC 2.0 Schnelllade-Funktion lässt sich der leistungsstarke 4000 mAh Akku in 15 Min. auf 60% und in 36 Min. vollständig aufladen.
 
