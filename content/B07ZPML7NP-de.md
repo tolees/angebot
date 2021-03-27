@@ -28,12 +28,12 @@ Sie können [Apple AirPods Pro](https://www.amazon.de/dp/B07ZPML7NP/?tag=tolees0
 
 ℹ️:
 
-- Das kabellose Ladecase gibt dir eine Batterielaufzeit von mehr als 24 Stunden
-- Transparenzmodus, um dein Umfeld zu hören und darauf reagieren zu können
-- Einfaches Setup für alle deine Apple Geräte
-- Weiche, konische Silikontips in drei Größen für eine individuelle Passform
 - Aktive Geräuschunterdrückung für immersiven Klang
+- Weiche, konische Silikontips in drei Größen für eine individuelle Passform
+- Das kabellose Ladecase gibt dir eine Batterielaufzeit von mehr als 24 Stunden
 - Schneller Zugriff auf Siri, indem du einfach "Hey Siri" sagst
+- Einfaches Setup für alle deine Apple Geräte
+- Transparenzmodus, um dein Umfeld zu hören und darauf reagieren zu können
 - Vor Schweiß und Wasser geschützt
 - Der Adaptive EQ passt Musik automatisch an deine Ohrform an
 

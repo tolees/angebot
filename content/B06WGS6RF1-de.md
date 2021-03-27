@@ -28,10 +28,10 @@ Sie können [matcha 108 - Teeblumen Geschenkset - Tee Geschenk in schöner Präs
 
 ℹ️:
 
-- Tea 108 unterstützt Jugendliche in Kambodscha mit einer Berufsausbildung
 - individuell verpackte Teeblumen eignen sich sehr gut als 6 kleine Geschenke
-- traditionell gebunden in 3 Variationen, Grüner Tee mit natürlichen Blüten (Jasmin, Calendula, Rose)
 - 6 Teeblumen als Geschenkset in schöner hochwertiger Geschenkverpackung
+- Tea 108 unterstützt Jugendliche in Kambodscha mit einer Berufsausbildung
+- traditionell gebunden in 3 Variationen, Grüner Tee mit natürlichen Blüten (Jasmin, Calendula, Rose)
 - edles Tee Geschenk für Frauen und Teekenner zum Geburtstag, Jahrestag, Weihnachten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06WGS6RF1/?tag=tolees0ca-21)

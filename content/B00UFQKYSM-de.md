@@ -28,10 +28,10 @@ Es gibt ein [LG Electronics - LG BP350 Blu-ray Player](https://www.amazon.de/dp/
 
 ℹ️:
 
-- Wiedergabe von externen Festplatten
-- Lieferumfang:Fernbedienung, Bedienungsanleitung, Netzteil
-- Anschlüsse:WLAN, HDMI-Out, USB
-- 1080p Upscaling
 - Spielt Blu-rays, DVDs und CDs
+- Lieferumfang:Fernbedienung, Bedienungsanleitung, Netzteil
+- Wiedergabe von externen Festplatten
+- 1080p Upscaling
+- Anschlüsse:WLAN, HDMI-Out, USB
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00UFQKYSM/?tag=tolees0ca-21)
