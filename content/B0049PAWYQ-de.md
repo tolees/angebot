@@ -28,10 +28,10 @@ Sie können [Gardena Comfort Gartenpumpe 4000/5: Bewässerungspumpe mit Förderm
 
 ℹ️:
 
-- Flexibel einsetzbar: Zwei Anschlussgeräte können mittels zwei Ausgängen – einer davon schwenkbar - zeitgleich eingesetzt werden; Engineered in Germany, Netzfrequenz: 50 Hz
-- Lieferumfang: 1x Gardena Comfort Gartenpumpe 4000/5, 1x Werkzeug zum Öffnen des Feinfilters
-- Kraftvolles Bewässern: Bis zu 4000 l klares und leicht verschmutztes Wasser pro Stunde erlauben den problemlosen Betrieb mit Gartenbrause oder Regner. Dank zweitem, schwenkbaren Ausgang auch im Parallelbetrieb.
 - Robust und zuverlässig: Deutsche Ingenieurskunst in Kombination mit hochwertigen Komponenten versprechen eine lange Lebensdauer und einen sicheren Betrieb. Ein integrierter Feinfilter schützt Pumpe und Ausbringgeräte zusätzlich vor Beschädigungen
+- Kraftvolles Bewässern: Bis zu 4000 l klares und leicht verschmutztes Wasser pro Stunde erlauben den problemlosen Betrieb mit Gartenbrause oder Regner. Dank zweitem, schwenkbaren Ausgang auch im Parallelbetrieb.
+- Flexibel einsetzbar: Zwei Anschlussgeräte können mittels zwei Ausgängen – einer davon schwenkbar - zeitgleich eingesetzt werden; Engineered in Germany, Netzfrequenz: 50 Hz
 - Geräuscharmer Pumpenbetrieb: Stellfüße aus Gummi garantieren einen festen und virbationsarmen Stand der Pumpe, sowie einen geräusch- und vibrationsarmen Betrieb
+- Lieferumfang: 1x Gardena Comfort Gartenpumpe 4000/5, 1x Werkzeug zum Öffnen des Feinfilters
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0049PAWYQ/?tag=tolees0ca-21)

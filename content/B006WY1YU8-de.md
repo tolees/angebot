@@ -28,8 +28,8 @@ Es gibt ein [Pegasus Spiele 17158G - Star Munchkin 1+2](https://www.amazon.de/dp
 
 ℹ️:
 
-- Praktische Doppelbox mit Grundspiel und Erweiterung
 - Kompatibel mit dem Munchkin-Basisspiel
+- Praktische Doppelbox mit Grundspiel und Erweiterung
 - Das Munchkin für begeisterte Sternenfahrer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006WY1YU8/?tag=tolees0ca-21)
