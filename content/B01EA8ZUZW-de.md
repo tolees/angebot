@@ -28,9 +28,9 @@ Es gibt ein [Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör Netzwer
 
 ℹ️:
 
-- Kompatibilität: Yealink SIP-T29G, Yealink SIP-T46G, Yealink SIP-T46S, Yealink SIP-T48G, Yealink SIP-T48S
-- Yealink WF40 Wireless USB Dongle Paket-Inhalt: WF40 Dongle, Handbuch
 - Verschlüsselung: 64/128/152-Bit-WEP, WPA-PSK, WPA2-PSK
+- Yealink WF40 Wireless USB Dongle Paket-Inhalt: WF40 Dongle, Handbuch
+- Kompatibilität: Yealink SIP-T29G, Yealink SIP-T46G, Yealink SIP-T46S, Yealink SIP-T48G, Yealink SIP-T48S
 - Schnittstelle: USB 2.0, WiFi: 802.11b / g / n, Frequenzbereich: 2,4 GHz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01EA8ZUZW/?tag=tolees0ca-21)

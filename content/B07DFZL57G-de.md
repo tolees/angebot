@@ -28,10 +28,10 @@ Sie können [PUMA Damen ESS Track Jacket FL Jacke  Cotton Black  L](https://www.
 
 ℹ️:
 
-- Rippenbündchen und gerippter Saum
 - Regular Fit
 - PUMA No. 1 Logo auf der linken Brust
 - Reißverschluss vorne
 - Känguru-Tasche für entspanntes Verstauen kleiner Utensilien
+- Rippenbündchen und gerippter Saum
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DFZL57G/?tag=tolees0ca-21)

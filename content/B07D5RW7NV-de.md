@@ -29,9 +29,9 @@ Sie können [PUMA Herren ESS Logo Pants TR cl Hose  Black  L](https://www.amazon
 ℹ️:
 
 - Normale Passform
+- Elastische Bündchen
+- Seitliche Eingriffstaschen
 - PUMA Branding auf dem linken Bein
 - Elastischer Taillenbund mit integriertem Kordelzug für einen anpassbaren Sitz
-- Seitliche Eingriffstaschen
-- Elastische Bündchen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07D5RW7NV/?tag=tolees0ca-21)

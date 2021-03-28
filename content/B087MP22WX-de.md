@@ -28,10 +28,10 @@ Es gibt ein [camel active Herren 488695982982 Jeans  GREENCAST  36/32](https://w
 
 ℹ️:
 
-- 2 way stretch
-- Five-Pocket
 - Menswear
+- 2 way stretch
 - Camel Active
+- Five-Pocket
 - uni
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B087MP22WX/?tag=tolees0ca-21)

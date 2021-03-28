@@ -29,8 +29,8 @@ Sie können [Kosmos 604288 AllesKönnerKiste Lichterkette zum Selbermachen - DIY
 ℹ️:
 
 - EINE KREATIVE, SELBSTGEMACHTE DEKORATION für das Kinderzimmer – die Lichterkette kann individuell gestaltet werden und wird so einzigartig sein wie Ihr Kind
-- HOCHWERTIGES MATERIAL FÜR 10 LEUCHTKUGELN: 200 m weiße Wolle, Lebensmittelfarben, 10 Luftballons, Bastel-Kleber, 3 Holzspatel, spitzes Holzstäbchen, LED-Lichterkette, farbig illustriertes Anleitungsheft (16 S.)
 - FÜR EINSTEIGER GEEIGNET: Auch Anfänger erleben dank der leicht verständlichen Anleitungstexte wunderbare Bastel-Erfolge
+- HOCHWERTIGES MATERIAL FÜR 10 LEUCHTKUGELN: 200 m weiße Wolle, Lebensmittelfarben, 10 Luftballons, Bastel-Kleber, 3 Holzspatel, spitzes Holzstäbchen, LED-Lichterkette, farbig illustriertes Anleitungsheft (16 S.)
 - DAS IDEALE GESCHENK-SET: Die AllesKönnerKisten enthalten alle Materialien, um sofort loszulegen. Perfekt geeignet für Bastelnachmittage in der Familie oder Kindergeburtstage
 - AUSFÜHRLICHE SCHRITT-FÜR-SCHRITT-ANLEITUNG: Das liebevoll gestaltete Anleitungsheft ist komplett illustriert und führt Sie und Ihr Kind anschaulich durch das Bastel-Projekt
 
