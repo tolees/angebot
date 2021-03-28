@@ -29,7 +29,7 @@ Es gibt ein [bugatti Herren 312647021400 Derbys  Blau  43 EU](https://www.amazon
 ℹ️:
 
 - Sohle: Synthetik
-- Innenmaterial: Textil
 - Obermaterial: Leder
+- Innenmaterial: Textil
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07D9QS6KL/?tag=tolees0ca-21)

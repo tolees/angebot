@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YING YUAN - 20x FFP2 Schutz Maske Mundsc mit 28.87 % Rabatt'
-date: 2021-03-26 20:57:35
+date: 2021-03-28 01:26:07
 image: 'https://m.media-amazon.com/images/I/51RomqRK-DL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'YING YUAN'
 buyurl: 'https://www.amazon.de/dp/B08RYW5BSY/?tag=tolees0ca-21'
 descuento: '28.87'
-average: '10.1333333333333'
+average: '9.72499999999997'
 ---
 
 Sie können [YING YUAN - 20x FFP2 Schutz Maske Mundschutz Atemschutzmaske Zertifiziert CE1463 EN149:2001+A1:2009 - Atmungsaktives Falten mit Nasenklemme Schwarz Black](https://www.amazon.de/dp/B08RYW5BSY/?tag=tolees0ca-21) mit Preis 8.5 EUR (original: 11.95 EUR) 28.87 % Rabatt hier:

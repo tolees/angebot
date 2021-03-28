@@ -28,9 +28,9 @@ Es gibt ein [PUMA Herren teamGOAL 23 Casuals Tee T-shirt  Peacoat  L](https://ww
 
 ℹ️:
 
-- 100 Prozent Baumwolle
-- PUMA Cat Logo auf der rechten Brust
 - Rundhalsausschnitt
+- PUMA Cat Logo auf der rechten Brust
 - Kurzärmlig
+- 100 Prozent Baumwolle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08418FKPP/?tag=tolees0ca-21)

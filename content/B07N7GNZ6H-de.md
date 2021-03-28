@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '51.76 % rabat auf FILA Damen Strada wmn Sneaker  White  39'
-date: 2021-03-26 11:27:05
+date: 2021-03-28 01:02:06
 image: 'https://m.media-amazon.com/images/I/41e1XsgEehL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'FILA'
 buyurl: 'https://www.amazon.de/dp/B07N7GNZ6H/?tag=tolees0ca-21'
 descuento: '51.76'
-average: '49.7975'
+average: '46.0616666666667'
 ---
 
 Es gibt ein [FILA Damen Strada wmn Sneaker  White  39 EU](https://www.amazon.de/dp/B07N7GNZ6H/?tag=tolees0ca-21) mit aktuellem Preis 38.59 EUR (original: 80.0 EUR) 51.76 % Rabatt hier:

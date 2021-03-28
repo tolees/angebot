@@ -28,10 +28,10 @@ Sie können [BANDAI NAMCO Entertainment - CYBERPUNK 2077 - DAY 1 Edition -  kost
 
 ℹ️:
 
+- Betritt die riesige offene Welt von Night City, einem Ort, der in Sachen Grafik, Komplexität und Spieltiefe neue Standards setzt.
 - Steige als Cyberpunk, einem Großstadt-Söldner ausgestattet mit kybernetischen Verbesserungen, in den Straßen von Night City zur Legende auf.
 - Übernimm den riskantesten Job deines Lebens und begib dich auf die Jagd nach dem Schlüssel zur Unsterblichkeit.
-- Betritt die riesige offene Welt von Night City, einem Ort, der in Sachen Grafik, Komplexität und Spieltiefe neue Standards setzt.
-- NIGHT CITY VERÄNDERT ALLES!
 - Dieses Produkt ist auch auf Xbox Series X spielbar
+- NIGHT CITY VERÄNDERT ALLES!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SF1LZ9Q/?tag=tolees0ca-21)

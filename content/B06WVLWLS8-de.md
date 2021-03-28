@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.84 % rabat auf StudioCanal - Die große Asterix Edition '
-date: 2021-03-26 21:26:59
+date: 2021-03-28 01:03:16
 image: 'https://m.media-amazon.com/images/I/51uj1ZckuzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'StudioCanal'
 buyurl: 'https://www.amazon.de/dp/B06WVLWLS8/?tag=tolees0ca-21'
 descuento: '17.84'
-average: '27.7727586206896'
+average: '27.5706451612903'
 ---
 
 Es gibt ein [StudioCanal - Die große Asterix Edition [Blu-ray]](https://www.amazon.de/dp/B06WVLWLS8/?tag=tolees0ca-21) mit aktuellem Preis 24.64 EUR (original: 29.99 EUR) 17.84 % Rabatt hier:

@@ -29,9 +29,9 @@ Sie können [Pandora Harry Potter  Hogwarts Express Charm  1 28cm  Silber](https
 ℹ️:
 
 - Der Schule für Hexerei und Zauberei – und eine Fahrt ins Abenteuer beginnt.
+- Der Artikel wird nicht in einer Box/Schachtel versendet. Diese muss separat gekauft werden.
 - Gestalte Deinen eigenen Look und mache das Charm zum Mittelpunkt Deines Armband-Stylings, um Deine unbeschwerte Seite zu zeigen.
 - Bitte einsteigen! Der Hogwarts-Express fährt jedes Jahr am 1. September von Kings Cross, Gleis neundreiviertel, um Punkt elf Uhr morgens ab nach Hogwarts
 - Das Charm aus Sterling-Silber mit roten Emaille-Details trägt als Gravur die Zahl „9 ¾“ und die Frage der Süßigkeitenverkäuferin „Anything from the trolley, dears?“
-- Der Artikel wird nicht in einer Box/Schachtel versendet. Diese muss separat gekauft werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ZGP7JTS/?tag=tolees0ca-21)
