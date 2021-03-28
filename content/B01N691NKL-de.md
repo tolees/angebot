@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Smart Home Tür-/Fensterkontakt mit mit 37.45 % Rabatt'
-date: 2021-03-27 04:37:39
+date: 2021-03-28 06:51:29
 image: 'https://m.media-amazon.com/images/I/21W9oP8BFKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bosch Smart Home'
 buyurl: 'https://www.amazon.de/dp/B01N691NKL/?tag=tolees0ca-21'
 descuento: '37.45'
-average: '24.9225000000001'
+average: '24.9300000000001'
 ---
 
 Sie können [Bosch Smart Home Tür-/Fensterkontakt mit App-Funktion  Variante Deutschland - kompatibel mit Apple Homekit ](https://www.amazon.de/dp/B01N691NKL/?tag=tolees0ca-21) mit Preis 24.99 EUR (original: 39.95 EUR) 37.45 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [Bosch Smart Home Tür-/Fensterkontakt mit App-Funktion  Variante De
 
 ℹ️:
 
-- Kompatibel mit Apple Homekit
-- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
-- Der Tür-/Fensterkontakt erkennt offene Fenster und Türen und meldet sie über die Bosch Smart Home App direkt an Ihr Smartphone
-- Veranlasst als Teil der Bosch Smart Home Raumklima-Lösung das automatische Herunterregeln der Bosch Smart Home Heizkörper-Thermostate bei offenem Fenster
 - Bosch Smart Home Tür- und Fensterkontakt - Energieeffizienz und Sicherheit in Ihrem Zuhause
+- Veranlasst als Teil der Bosch Smart Home Raumklima-Lösung das automatische Herunterregeln der Bosch Smart Home Heizkörper-Thermostate bei offenem Fenster
+- Der Tür-/Fensterkontakt erkennt offene Fenster und Türen und meldet sie über die Bosch Smart Home App direkt an Ihr Smartphone
+- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
+- Kompatibel mit Apple Homekit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N691NKL/?tag=tolees0ca-21)

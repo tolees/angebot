@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Transcend 512GB SATA III 6GB/S MTS430S 4 mit 30.20 % Rabatt'
-date: 2020-07-11 09:35:40
+title: 'Transcend 512GB SATA III 6GB/S MTS430S 4 mit 18.63 % Rabatt'
+date: 2021-03-28 07:25:40
 image: 'https://m.media-amazon.com/images/I/414l3+m96iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07MSQMGLT-de Transcend 512GB SATA III 6GB/S MTS430S 42 mm m.2 SSD 430S...'
 sku: 'B07MSQMGLT-de'
-tags: [  ]
-actualPrice: 69.79 EUR
+tags: [ 'Computer & Zubehör','Datenspeicher','Interne SSD','Interner Speicher','transcend', ]
+actualPrice: 59.39 EUR
 currency: EUR
-price: 69.79
-comparePrice: 99.99 EUR
+price: 59.39
+comparePrice: 72.99 EUR
 prodname: 'Transcend 512GB SATA III 6GB/S MTS430S 42 mm m.2 SSD 430S SSD TS512GMTS430S'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Transcend'
 buyurl: 'https://www.amazon.de/dp/B07MSQMGLT/?tag=tolees0ca-21'
-descuento: '30.20'
-average: '69.79'
+descuento: '18.63'
+average: '64.59'
 ---
 
-Sie können [Transcend 512GB SATA III 6GB/S MTS430S 42 mm m.2 SSD 430S SSD TS512GMTS430S](https://www.amazon.de/dp/B07MSQMGLT/?tag=tolees0ca-21) mit Preis 69.79 EUR (original: 99.99 EUR) 30.20 % Rabatt hier:
+Sie können [Transcend 512GB SATA III 6GB/S MTS430S 42 mm m.2 SSD 430S SSD TS512GMTS430S](https://www.amazon.de/dp/B07MSQMGLT/?tag=tolees0ca-21) mit Preis 59.39 EUR (original: 72.99 EUR) 18.63 % Rabatt hier:
 
 [![Transcend 512GB SATA III 6GB/S MTS430S 4](https://m.media-amazon.com/images/I/414l3+m96iL._SL400_.jpg)](https://www.amazon.de/dp/B07MSQMGLT/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Platzsparender M.2 Type 2242 Formfaktor
+- Bis zu 550 MB/s Lesen; 480 MB/s Schreiben
+- 3D NAND Flash und DDR3 DRAM cache
+- RAID Engine und LDPC (Low-Density Parity Check) Fehlerkorrektur für eine hohe Datenintegrität, entwickelt mit SLC-Caching-Technologie für außergewöhnliche Übertragungsgeschwindigkeiten
+- Unterstützt DevSleep-Modus mit extrem niedrigem Stromverbrauch, S.M.A.R.T., TRIM und NCQ Befehle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MSQMGLT/?tag=tolees0ca-21)

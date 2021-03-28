@@ -1,37 +1,39 @@
 ---
 layout: post
-title: '27.11 % rabat auf LEGO Produkttitel fehlt - Wird nachgerei'
-date: 2021-03-27 04:46:53
+title: '27.11 % rabat auf LEGO 75270 Star Wars Obi-WANS Hütte Baus'
+date: 2021-03-28 07:28:10
 image: 'https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07WLJJX8V-de LEGO Produkttitel fehlt - Wird nachgereicht'
+slug: 'B07WLJJX8V-de LEGO 75270 Star Wars Obi-WANS Hütte Bauset mit Hologramm...'
 sku: 'B07WLJJX8V-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 21.86 EUR
 currency: EUR
 price: 21.86
 comparePrice: 29.99 EUR
-prodname: 'LEGO Produkttitel fehlt - Wird nachgereicht'
+prodname: 'LEGO 75270 Star Wars Obi-WANS Hütte Bauset mit Hologramm der Prinzessin Leia  Serie Eine Neue Hoffnung'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21'
 descuento: '27.11'
-average: '24.9058012820512'
+average: '24.8864012738853'
 ---
 
-Es gibt ein [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21) mit aktuellem Preis 21.86 EUR (original: 29.99 EUR) 27.11 % Rabatt hier:
+Es gibt ein [LEGO 75270 Star Wars Obi-WANS Hütte Bauset mit Hologramm der Prinzessin Leia  Serie Eine Neue Hoffnung](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21) mit aktuellem Preis 21.86 EUR (original: 29.99 EUR) 27.11 % Rabatt hier:
 
-[![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg)](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21)
+[![LEGO 75270 Star Wars Obi-WANS Hütte Baus](https://m.media-amazon.com/images/I/51OHWPmireL._SL400_.jpg)](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
+- Ein Makrofernglas und ein Trainingsgerät zum Üben mit dem Lichtschwert lassen Kinder rasch mit dem Spielen beginnen. Außerdem inspirieren die LEGO Steine junge Fans zum Bauen und Spielen mit anderen LEGO Star Wars Sets.
+- Mit diesem batterielosen Bau- und Spielset können Kinder ihrer Fantasie freien Lauf lassen. Wenn sie dann in die Rolle der Star Wars Helden schlüpfen, um spannende Abenteuer zu erleben, sind ihrer Kreativität keine Grenzen gesetzt.
+- Dieses angesagte Star Wars Bauspielzeug enthält 4 Minifiguren für spannende Rollenspiele: Obi-Wan Kenobi und Luke Skywalker mit Lichtschwertern, R2-D2 sowie einen Tusken-Räuber. Und die Fans werden auch Prinzessin Leia als Hologramm-Element lieben!
+- Zugeklappt ist Obi Wans Hütte auf Tatooine 9 cm hoch, 12 cm breit und 11 cm tief. Das Modell ist folglich kompakt genug, um neben den Star Wars Minifiguren in einer Tasche verstaut zu werden und die Kinder unterwegs zu beschäftigen.
+- Dieses 200-teilige Set lässt Kinder wunderbar allein oder zusammen mit Freunden spielen. Dieses tolle Geschenk zum Geburtstag, zu Weihnachten oder besonderen Anlässen stellt Kindern ab 7 Jahren die LEGO Star Wars Bauspielzeuge vor.
+- Spüre die Macht! Dieses LEGO Bauspielzeug (75270) enthält ein Modell von Obi-Wan Kenobis Hütte auf Tatooine. Sie lässt sich aufklappen, um besser spielen zu können. Die zahlreichen Details inspirieren Kinder dazu, Szenen aus „Star Wars: Eine neue Hoffnung“ nachzustellen und sich neue spannende Geschichten einfallen zu lassen!
+- Die in der LEGO Life App verfügbaren Instructions PLUS bescheren Kindern noch mehr Bauspaß mit diesem Star Wars Bauspielzeug. Selbst jüngere Baumeister können die digitale Modellansicht vergrößern, drehen und näher betrachten, während sie das echte Modell bauen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WLJJX8V/?tag=tolees0ca-21)
