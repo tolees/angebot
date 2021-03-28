@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '48.59 % rabat auf Bosch Smart Home Eyes Außenkamera  Varia'
-date: 2021-03-26 11:35:34
+date: 2021-03-28 00:05:13
 image: 'https://m.media-amazon.com/images/I/21I7nyZcjLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bosch Smart Home'
 buyurl: 'https://www.amazon.de/dp/B06XXDWCGZ/?tag=tolees0ca-21'
 descuento: '48.59'
-average: '188.241666666667'
+average: '187.05'
 ---
 
 Es gibt ein [Bosch Smart Home Eyes Außenkamera  Variante Deutschland  Frankreich und Österreich - kompatibel mit Alexa ](https://www.amazon.de/dp/B06XXDWCGZ/?tag=tolees0ca-21) mit aktuellem Preis 179.9 EUR (original: 349.96 EUR) 48.59 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [Bosch Smart Home Eyes Außenkamera  Variante Deutschland  Frankreic
 
 ℹ️:
 
+- Dank intelligenten Sensor reagiert die Kamera nicht auf Bewegungen von Bäumen oder Haustieren
+- Vielseitig: dient als Kamera, Gegensprechanlage und Außenleuchte
 - Kompatibel mit Amazon Alexa
 - Einfache Anbringung der hochauflösenden Kamera anstelle einer Außenleuchte ohne speziellen Anschluss
-- Vielseitig: dient als Kamera, Gegensprechanlage und Außenleuchte
 - Bosch Smart Home Eyes Außenkamera - für eine zuverlässige Grundstücksüberwachung mit zusätzlicher Lichtfunktion
-- Dank intelligenten Sensor reagiert die Kamera nicht auf Bewegungen von Bäumen oder Haustieren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XXDWCGZ/?tag=tolees0ca-21)

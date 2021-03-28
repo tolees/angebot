@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WILLIS BRUCE/PITT BRAD - 12 Monkeys [Blu mit 28.09 % Rabatt'
-date: 2021-03-26 20:57:39
+date: 2021-03-28 00:31:55
 image: 'https://m.media-amazon.com/images/I/51eb2t4ITJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'WILLIS,BRUCE/PITT,BRAD'
 buyurl: 'https://www.amazon.de/dp/B000S1ROOQ/?tag=tolees0ca-21'
 descuento: '28.09'
-average: '6.33'
+average: '6.44666666666667'
 ---
 
 Sie können [WILLIS BRUCE/PITT BRAD - 12 Monkeys [Blu-ray]](https://www.amazon.de/dp/B000S1ROOQ/?tag=tolees0ca-21) mit Preis 6.68 EUR (original: 9.29 EUR) 28.09 % Rabatt hier:

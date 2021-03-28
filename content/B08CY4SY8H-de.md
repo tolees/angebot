@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.57 % rabat auf Astragon - Bau Simulator 2+3 - [Nintendo'
-date: 2021-03-26 21:01:13
+date: 2021-03-28 00:44:28
 image: 'https://m.media-amazon.com/images/I/51+SHCMr-EL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [Astragon - Bau Simulator 2+3 - [Nintendo Switch]](https://www.amazo
 
 ℹ️:
 
-- Europäische und US-amerikanische Version auf einer Switch Softwarekarte
 - Lizenzierte Partner u. a.: Caterpillar, Liebherr, Palfinger, Bell Equipment, STILL, ATLAS
+- Im Bau-Simulator 3: Cockpit-Ansicht – Erleben Sie starke Maschinen von Innen
 - Aufregende Herausforderungen – Vom Reparieren brüchiger Straßen bis zum Bauen von Eisenbahnbrücken
 - Alle möglichen Maschinenanforderungen sind abgedeckt - Traktoren, Kräne, Lader und Muldenkipper
-- Im Bau-Simulator 3: Cockpit-Ansicht – Erleben Sie starke Maschinen von Innen
+- Europäische und US-amerikanische Version auf einer Switch Softwarekarte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CY4SY8H/?tag=tolees0ca-21)

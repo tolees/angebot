@@ -28,10 +28,10 @@ Sie können [Bosch Professional 19tlg. HSS Spiralbohrer PointTeQ Set  für Metal
 
 ℹ️:
 
-- Lieferumfang: je 1 x Ø 1,0 / 1,5 / 2,0 / 2,5/ 3,0 / 3,5 / 4,0 / 4,5 / 5,0 / 5,5 / 6,0 / 6,5 / 7,0 / 7,5 / 8,0 / 8,5 / 9,0 / 9,5 / 10,0 mm
 - Präzise Arbeit: Schnelles und einfaches Anbohren ist möglich, da die selbstzentrierende Spitze Wandern verhindert
+- Lieferumfang: je 1 x Ø 1,0 / 1,5 / 2,0 / 2,5/ 3,0 / 3,5 / 4,0 / 4,5 / 5,0 / 5,5 / 6,0 / 6,5 / 7,0 / 7,5 / 8,0 / 8,5 / 9,0 / 9,5 / 10,0 mm
+- Kompatibilität: Passend für alle Bohrschrauber und Tischbohrmaschinen für Durchgangs- und Zentrierlöcher in legiertem und unlegiertem Stahl, in Nichteisenmetalle, Gussstahl, Gusseisen und Kunststoff
 - Spart Zeit: Der HSS-Spiralbohrer PointTeQ ermöglicht schnelles Bohren in Metall aufgrund des speziellen Designs an der Bohrspitze
 - Hohe Langlebigkeit: Aufgrund der erhöhten Bohrgeschwindigkeit werden weniger Hitze und dadurch Verschleiß erzeugt
-- Kompatibilität: Passend für alle Bohrschrauber und Tischbohrmaschinen für Durchgangs- und Zentrierlöcher in legiertem und unlegiertem Stahl, in Nichteisenmetalle, Gussstahl, Gusseisen und Kunststoff
 
 [🛒 Hier!!](https://www.amazon.de/dp/B078W41ZQG/?tag=tolees0ca-21)

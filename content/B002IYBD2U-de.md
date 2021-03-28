@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '19.08 % rabat auf Pentel LR7-CX Nachfüllmine für EnerGel-S'
-date: 2021-03-26 21:07:13
+title: '19.91 % rabat auf Pentel LR7-CX Nachfüllmine für EnerGel-S'
+date: 2021-03-28 00:43:13
 image: 'https://m.media-amazon.com/images/I/416+MLpxh8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,26 +12,26 @@ tags: [ 'Bürobedarf & Schreibwaren','Füllfederhalter & Kugelschreiber','Minen,
 actualPrice: 9.33 EUR
 currency: EUR
 price: 9.33
-comparePrice: 11.53 EUR
+comparePrice: 11.65 EUR
 prodname: 'Pentel LR7-CX Nachfüllmine für EnerGel-Stifte  0 7 mm Kugelspitze  blau  12 Stück'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.de/dp/B002IYBD2U/?tag=tolees0ca-21'
-descuento: '19.08'
-average: '9.79053333333333'
+descuento: '19.91'
+average: '9.7874834437086'
 ---
 
-Es gibt ein [Pentel LR7-CX Nachfüllmine für EnerGel-Stifte  0 7 mm Kugelspitze  blau  12 Stück](https://www.amazon.de/dp/B002IYBD2U/?tag=tolees0ca-21) mit aktuellem Preis 9.33 EUR (original: 11.53 EUR) 19.08 % Rabatt hier:
+Es gibt ein [Pentel LR7-CX Nachfüllmine für EnerGel-Stifte  0 7 mm Kugelspitze  blau  12 Stück](https://www.amazon.de/dp/B002IYBD2U/?tag=tolees0ca-21) mit aktuellem Preis 9.33 EUR (original: 11.65 EUR) 19.91 % Rabatt hier:
 
 [![Pentel LR7-CX Nachfüllmine für EnerGel-S](https://m.media-amazon.com/images/I/416+MLpxh8L._SL400_.jpg)](https://www.amazon.de/dp/B002IYBD2U/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Lieferumfang: 12 Minen, einzeln verpackt
+- die besonders weich schreibende Gel-Tinte trocknet schnell und überzeugt mit ihrem unvergleichbar leichtem Schreibgefühl Vielschreiber und auch Linkshänder
 - Pentel Nachfülllmine für Standard EnerGel-Tintenroller mit 0,35mm Strichstärke (Strichstärke 0,35mm entspricht Kugelspitze 0,7mm (wie auf der Verpackung angegeben))
 - Nachfüllmine u.a. für Pentel Produkte BL57, BL77, BL107, BL407, BL407B, TRL91, TRL92 und TRL93
-- die besonders weich schreibende Gel-Tinte trocknet schnell und überzeugt mit ihrem unvergleichbar leichtem Schreibgefühl Vielschreiber und auch Linkshänder
 - ausgestattet mit einer Metallspitze in 0,35mm Strichstärke und Schreibfarbe blau
-- Lieferumfang: 12 Minen, einzeln verpackt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002IYBD2U/?tag=tolees0ca-21)
