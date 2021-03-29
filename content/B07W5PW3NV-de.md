@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'LEGO 75268 Star Wars Snowspeeder  Vertei mit 25.61 % Rabatt'
-date: 2021-03-06 10:43:18
+title: 'LEGO Produkttitel fehlt - Wird nachgerei mit 25.61 % Rabatt'
+date: 2021-03-29 03:33:23
 image: 'https://m.media-amazon.com/images/I/51cpIc64bzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B07W5PW3NV-de LEGO 75268 Star Wars Snowspeeder Verteidigungsstation und...'
+author: 'tole.es'
+slug: 'B07W5PW3NV-de LEGO Produkttitel fehlt - Wird nachgereicht'
 sku: 'B07W5PW3NV-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87
 comparePrice: 19.99 EUR
-prodname: 'LEGO 75268 Star Wars Snowspeeder  Verteidigungsstation und Speeder-Bike  Spielset mit Starter-Stein für Vorschulkinder ab 4 Jahren'
+prodname: 'LEGO Produkttitel fehlt - Wird nachgereicht'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21'
 descuento: '25.61'
-average: '17.5864197530866'
+average: '17.6109411764708'
 ---
 
-Sie können [LEGO 75268 Star Wars Snowspeeder  Verteidigungsstation und Speeder-Bike  Spielset mit Starter-Stein für Vorschulkinder ab 4 Jahren](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21) mit Preis 14.87 EUR (original: 19.99 EUR) 25.61 % Rabatt hier:
+Sie können [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21) mit Preis 14.87 EUR (original: 19.99 EUR) 25.61 % Rabatt hier:
 
-[![LEGO 75268 Star Wars Snowspeeder  Vertei](https://m.media-amazon.com/images/I/51cpIc64bzL._SL400_.jpg)](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
+[![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51cpIc64bzL._SL400_.jpg)](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Beinhaltet zwei Minifiguren: Star Wars Widerstands-Piloten Wedge Antilles und einen Snowtrooper mit Waffen
-- Kinder können helfen, Echo Base vor bösen Angriffen des Imperiums zu schützen – die Verteidigungsstation verfügt über ein Laser-Disc-Geschütz, mit dem sie auf den Eindringling schießen können
-- Verfügt über drei Konstruktionsmodelle, die nach Schlachten einfach wiederaufgebaut werden können: Der Snowspeeder, die Echo Base-Verteidigungsstation und ein Speeder-Bike
-- Die digitale Anleitung Instructions PLUS, erhältlich in der kostenlosen LEGO Life App für Smartphones und Tablets, verfügt über Werkzeuge zum Heranzoomen, Drehen und Anzeigen von Modellen, die Kindern beim Bauen helfen
-- Mit dem Starter-Stein-Chassis lernen Kinder, den Zweck des Bauens nach Schritten zu verstehen, und steigern gleichzeitig ihr Selbstvertrauen
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
+- Bulletpoint fehlt - wird nachgereicht
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
