@@ -28,10 +28,10 @@ Es gibt ein [Gardena Comfort HighFLEX Schlauch 19 mm  3/4 Zoll   25 m: Gartensc
 
 ℹ️:
 
+- Hochwertig und robust: Der Schlauch aus PVC-Spiralgewebe hält einem Wasserdruck bis 30 bar stand
+- Lieferumfang beinhaltet: 1x GARDENA Comfort HighFLEX Schlauch 19 mm (3/4") 25 m
 - Schadstofffrei: Der Comfort HighFLEX Schlauch ist UV-beständig und frei von Weichmachern und Schwermetallen
 - Vielseitiger Einsatz: Der Comfort HighFLEX Schlauch passt zu allen Original GARDENA Systemteilen
 - Power-Grip-Profil: Die spezielle Profilierung sorgt für optimale Haltekraft und eine sichere Verbindung zwischen Schlauch und Schlauchstück
-- Lieferumfang beinhaltet: 1x GARDENA Comfort HighFLEX Schlauch 19 mm (3/4") 25 m
-- Hochwertig und robust: Der Schlauch aus PVC-Spiralgewebe hält einem Wasserdruck bis 30 bar stand
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HPXV766/?tag=tolees0ca-21)
