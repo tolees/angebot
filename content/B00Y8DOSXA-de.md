@@ -28,13 +28,13 @@ Es gibt ein [Ei Electronics Ei208D CO Kohlenmonoxidmelder  mit Display und 10-Ja
 
 ℹ️:
 
-- 5 Jahre Herstellergarantie
-- Frühzeitige Alarmierung – erkennt geringe Kohlenmonoxid-Mengen
-- MARKENQUALITÄT – vom europäischen Hersteller Ei Electronics
-- Benutzerfreundlich – Display zeigt Handlungsanweisungen (Lüften/ Raum verlassen)
-- ZUVERLÄSSIG SICHER – jeder Melder getestet, sowie in echtem Kohlenmonoxid kalibriert
 - Deutsche Version - nur für den deutschsprachigen Raum geeignet
-- Batteriewechsel überflüssig – eingebaute 10-Jahres-Batterie (Panasonic)
 - Inkl. Schrauben, Dübel und Batterie
+- Frühzeitige Alarmierung – erkennt geringe Kohlenmonoxid-Mengen
+- ZUVERLÄSSIG SICHER – jeder Melder getestet, sowie in echtem Kohlenmonoxid kalibriert
+- MARKENQUALITÄT – vom europäischen Hersteller Ei Electronics
+- 5 Jahre Herstellergarantie
+- Benutzerfreundlich – Display zeigt Handlungsanweisungen (Lüften/ Raum verlassen)
+- Batteriewechsel überflüssig – eingebaute 10-Jahres-Batterie (Panasonic)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00Y8DOSXA/?tag=tolees0ca-21)
