@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Joy-Con 2er-Set Neon-Rot/Neon-B mit 19.45 % Rabatt'
-date: 2021-03-28 00:47:31
+date: 2021-03-29 16:15:19
 image: 'https://m.media-amazon.com/images/I/41wK7MSkquL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21'
 descuento: '19.45'
-average: '69.5538392857142'
+average: '69.463947368421'
 ---
 
 Sie können [Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21) mit Preis 64.43 EUR (original: 79.99 EUR) 19.45 % Rabatt hier:
@@ -28,8 +28,8 @@ Sie können [Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau](https://www.amazon.de/
 
 ℹ️:
 
-- Stellen Sie eine Verbindung zur Hauptkonsole her, um sie im Handheld-Modus zu verwenden, oder teilen Sie sie mit Freunden, um in unterstützten Spielen Action für zwei Spieler zu genießen
-- Jeder Joy-Con verfügt über einen vollständigen Satz von Tasten und einen Beschleunigungsmesser und einen Gyroskop-Bewegungssensor, die eine unabhängige Steuerung der linken und rechten Bewegung ermöglichen
 - Die beiden Joy-Con können unabhängig voneinander in jeder Hand oder zusammen als ein Gamecontroller verwendet werden, wenn sie am Joy-Con-Griff befestigt sind (separat erhältlich)
+- Jeder Joy-Con verfügt über einen vollständigen Satz von Tasten und einen Beschleunigungsmesser und einen Gyroskop-Bewegungssensor, die eine unabhängige Steuerung der linken und rechten Bewegung ermöglichen
+- Stellen Sie eine Verbindung zur Hauptkonsole her, um sie im Handheld-Modus zu verwenden, oder teilen Sie sie mit Freunden, um in unterstützten Spielen Action für zwei Spieler zu genießen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21)

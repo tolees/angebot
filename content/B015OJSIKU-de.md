@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Unisex Icra Trainer SD Sneaker  bla mit 24.50 % Rabatt'
-date: 2021-03-28 00:58:39
+date: 2021-03-29 16:09:16
 image: 'https://m.media-amazon.com/images/I/31JuOlW06XL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.de/dp/B015OJSIKU/?tag=tolees0ca-21'
 descuento: '24.50'
-average: '35.3577551020406'
+average: '35.4499999999998'
 ---
 
 Sie können [PUMA Unisex Icra Trainer SD Sneaker  black-white  39 EU](https://www.amazon.de/dp/B015OJSIKU/?tag=tolees0ca-21) mit Preis 37.71 EUR (original: 49.95 EUR) 24.50 % Rabatt hier:
