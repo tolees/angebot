@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden - Bosch Rasenmäher ARM 32  31 l Grasfangkorb
 
 ℹ️:
 
-- Der Rasenmäher ARM 32 - Der kraftvolle Allzweck Rasenmäher sorgt mit seinem 1200-Watt-Powerdrive-Motor für müheloses Arbeiten auch bei hohem Gras
-- Dreifaches Verstellen der Schnitthöhe möglich (20 - 40 - 60 mm)
 - Der 31-Liter-Grasfangkorb erspart häufiges Entleeren des Schnittgutes
+- Der Rasenmäher ARM 32 - Der kraftvolle Allzweck Rasenmäher sorgt mit seinem 1200-Watt-Powerdrive-Motor für müheloses Arbeiten auch bei hohem Gras
 - Ein innovativer Rasenkamm ermöglicht randnahes Schneiden an Mauern, Beeten und Rasenkanten
 - Lieferumfang: Rasenmäher ARM 32, 31 Liter Grasfangkorb, Karton (3165140785815)
+- Dreifaches Verstellen der Schnitthöhe möglich (20 - 40 - 60 mm)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00I8S1SM0/?tag=tolees0ca-21)

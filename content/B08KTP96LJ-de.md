@@ -28,9 +28,9 @@ Es gibt ein [PLAYMOBIL City Action 70571 Polizei-Roboter: Spezialeinsatz  Für K
 
 ℹ️:
 
-- Figures: 1 policeman, 1 ganove accessories: 1 police robot, 1 helmet with visor, 1 helmet with headlamp, 1 warning sign "risk of explosion", 2 bars dynamite, 1 explosive bottle, 1 fire accelerator, 1 pair of gloves, 1 single glove.
 - Toy set for children aged 4 and up: ideal for childrens hands due to age-appropriate size and pleasant feel with rounded edges.
 - Fun for little police fans: Playmobil police robot including 2 figures and lots of great accessories for replaying.
 - Daily play: instructions for assembly together with parents, high-quality and robust design, cleaning the parts (without stickers) under running water without chemicals.
+- Figures: 1 policeman, 1 ganove accessories: 1 police robot, 1 helmet with visor, 1 helmet with headlamp, 1 warning sign "risk of explosion", 2 bars dynamite, 1 explosive bottle, 1 fire accelerator, 1 pair of gloves, 1 single glove.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KTP96LJ/?tag=tolees0ca-21)
