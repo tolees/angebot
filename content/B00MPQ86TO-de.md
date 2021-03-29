@@ -29,8 +29,8 @@ Es gibt ein [Leitz  Business Softcase Handgepäck-Trolley  Smart Traveller  17 F
 ℹ️:
 
 - Schutz des Displays und der Oberfläche dank gepolstertem Ultrabookfach mit weichem Fleece, Geräumiges Netzfach für Netzgerät und Kabel, Leichtläufiges 2-Rollen-System, Leise Teleskopstange mit Doppelgestänge
-- Leichter Softcase Handgepäck-Business-Trolley nach EU-Handgepäck-Richtlinien, Für 15.6 Zoll Laptop oder Ultrabook, E-Book-Reader, Smartphone, A4 Dokumentenmappen und Kleidung, Ideal für den täglichen Gebrauch, die Arbeit oder auf Reisen
 - Lieferumfang: 1x Leitz leichter Softcase Handgepäck-Trolley, Complete, Smart Traveller, Schwarz, 60590095, Polyester/Metall, B x H x T: 44 x 37,5 x 23 cm, Gewicht 3,2 kg
+- Leichter Softcase Handgepäck-Business-Trolley nach EU-Handgepäck-Richtlinien, Für 15.6 Zoll Laptop oder Ultrabook, E-Book-Reader, Smartphone, A4 Dokumentenmappen und Kleidung, Ideal für den täglichen Gebrauch, die Arbeit oder auf Reisen
 - 17 Fächer, Schnellzugrifffach für Smartphones, Pass, Stifte und Visitenkarten, Fronttasche für schnellen Zugriff auf Mini-Tablet oder E-Book-Reader, Schlüsselhalter, Schmutzwäschefach, Keine Knitter der Bügelwäsche dank Packplatte
 - Leichter, widerstandsfähiger Polyester, Perfekte Kombinationsmöglichkeit mit der Complete-Serie "Smart Traveller", Komfortables Tragen dank geschmeidiger Echtledergriffe, Fixierung an zweitem Trolley möglich
 

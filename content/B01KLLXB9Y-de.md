@@ -29,7 +29,7 @@ Sie können [CITIZEN Herren Analog Quarz Uhr mit Leder-Kalbsleder Armband AR1130
 ℹ️:
 
 - Eco-Drive Antrieb. 180 Tage Gangreserve
-- Super flaches Gehäuse, Gehäusehöhe nur 4,9 mm
 - Gangreserve 540 Tage, Dunkelgangreserve 5 Jahre
+- Super flaches Gehäuse, Gehäusehöhe nur 4,9 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01KLLXB9Y/?tag=tolees0ca-21)
