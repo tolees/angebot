@@ -5,9 +5,10 @@ date: 2021-03-14 12:27:47
 image: 'https://m.media-amazon.com/images/I/31BLEca+w5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0196PODTI-de ONLY Female Hose Einfarbige M30Black'
 sku: 'B0196PODTI-de'
+tags: [ 'Bekleidung','Damen-Hosen','Damenbekleidung','only', ]
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55
@@ -28,8 +29,8 @@ Es gibt ein [ONLY Female Hose Einfarbige M30Black](https://www.amazon.de/dp/B019
 ℹ️:
 
 - Kordelzug an der Taille.
-- Hose in lässiger Passform.
-- Materialzusammensetzung: 63% LENZING ECOVERO Viskose, 32% Nylon, 5% Elasthan
 - Schlank geformte Beine.
+- Materialzusammensetzung: 63% LENZING ECOVERO Viskose, 32% Nylon, 5% Elasthan
+- Hose in lässiger Passform.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0196PODTI/?tag=tolees0ca-21)

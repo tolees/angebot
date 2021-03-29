@@ -28,10 +28,10 @@ Es gibt ein [MFA FFP3 Maske ohne Ventil NEU 60 Stück - Mund und Nasenschutz - F
 
 ℹ️:
 
-- ✅ HOHER TRAGEKOMFORT - Mit dem latexfreien Kopfbandschlaufen, dem verstellbaren Nasenbügel und dem speziell konstruierten Design für komplette Mundfreiheit bieten die Schutzmasken höchsten Komfort beim Tragen.
+- ✅ * ECHTE FFP3 NR D * HÖCHSTE SCHUTZSTUFE ≥ 99% - Der Mund Nasen Mundschutz mit der FFP3 Klassifizierung und modernster Filtertechnologie bietet den bestmöglichen Schutz der höchsten Stufe für ihre Gesundheit - und das auch in Extremsituationen.
 - ✅ Die FFP3 Mundschutzmasken werden als 60er Pack geliefert. Jede Mundnasenschutzmaske ist einzeln und hygienisch verpackt und für 5 Jahre haltbar. Die Lieferung erfolgt aus Deutschland.
 - ✅ BSI CE 2797 ZERTIFIZIERTE QUALITÄT - ***KEINE CHINA WARE*** Die Atemschutzmasken werden in einem NATO Bündnis-Mitgliedsstaat hergestellt. Die Masken sind CE-zertifiziert gemäß Norm DIN EN 149:2001 + A1:2009 NR D; Verordnung (EU) 2016/425 für persönliche Schutzausrüstung.
 - ✅ RUNDUMSCHUTZ - Die Atemschutzmasken bieten vollständigen Schutz gegen feste und wässrige Partikel. Damit sind sie als Behelfsmaske für jeden erdenklichen Einsatzzweck das perfekte Mittel zum Schutz der Atemwege.
-- ✅ * ECHTE FFP3 NR D * HÖCHSTE SCHUTZSTUFE ≥ 99% - Der Mund Nasen Mundschutz mit der FFP3 Klassifizierung und modernster Filtertechnologie bietet den bestmöglichen Schutz der höchsten Stufe für ihre Gesundheit - und das auch in Extremsituationen.
+- ✅ HOHER TRAGEKOMFORT - Mit dem latexfreien Kopfbandschlaufen, dem verstellbaren Nasenbügel und dem speziell konstruierten Design für komplette Mundfreiheit bieten die Schutzmasken höchsten Komfort beim Tragen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B085HY8HWZ/?tag=tolees0ca-21)

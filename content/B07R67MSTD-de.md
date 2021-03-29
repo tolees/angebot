@@ -5,9 +5,10 @@ date: 2021-03-16 02:22:49
 image: 'https://m.media-amazon.com/images/I/31a-oBmOnjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R67MSTD-de CARE OF by PUMA knöchelfreie Sneaker für Herren aus Leder...'
 sku: 'B07R67MSTD-de'
+tags: [ 'Herren-Sneaker','Herrenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Herren','care of by puma', ]
 actualPrice: 43.7 EUR
 currency: EUR
 price: 43.7

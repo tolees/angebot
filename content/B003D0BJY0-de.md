@@ -5,9 +5,10 @@ date: 2021-03-16 02:08:58
 image: 'https://m.media-amazon.com/images/I/316VgzeP26L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003D0BJY0-de Draper 19174 Mehrzweck-Schaufel aus Polyurethan'
 sku: 'B003D0BJY0-de'
+tags: [ 'Baumarkt','Elektro- & Handwerkzeuge','Garten','Gartenarbeit','Gartengeräte','Handwerkzeuge','Schaufeln & Spaten','draper', ]
 actualPrice: 25.67 EUR
 currency: EUR
 price: 25.67
@@ -27,9 +28,9 @@ Es gibt ein [Draper 19174 Mehrzweck-Schaufel aus Polyurethan](https://www.amazon
 
 ℹ️:
 
-- Farbe: Blau
-- Klingengröße: 38 x 34,5 cm (L x B)
 - Gesamtlänge: 115 cm
+- Farbe: Blau
 - Material: Polypropylen
+- Klingengröße: 38 x 34,5 cm (L x B)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003D0BJY0/?tag=tolees0ca-21)

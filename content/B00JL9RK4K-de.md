@@ -28,10 +28,10 @@ Es gibt ein [Miyabi 234073-161-0 Gyutoh Kochmesser  Stahl  160 mm  silber / brau
 
 ℹ️:
 
-- Klingenkern aus MicroCarbide Pulverstahl MC63, der in 2 Lagen Stahl eingebettet ist. Dies sorgt für eine Härte von ca. 63 Rockwell. (International gebräuchliche Maßeinheit für die Härte)
-- Formstabiler Cocobolo Pakka Wood-Griff für perfekte Balance, hohen Komfort und ermüdungsfreies Schneiden bei allen Schneidtechniken; edler Look mit dunkler Holz-Optik.
-- CRYODUR eisgehärtete Klingen sind besonders schneidhaltig, korrosionsbeständig und haben beste Klingenflexibilität.
 - Authentisch-japanisches Klingenprofil mit einem Tsuchime-Look (Hammerschlagoberfläche).
+- Formstabiler Cocobolo Pakka Wood-Griff für perfekte Balance, hohen Komfort und ermüdungsfreies Schneiden bei allen Schneidtechniken; edler Look mit dunkler Holz-Optik.
+- Klingenkern aus MicroCarbide Pulverstahl MC63, der in 2 Lagen Stahl eingebettet ist. Dies sorgt für eine Härte von ca. 63 Rockwell. (International gebräuchliche Maßeinheit für die Härte)
+- CRYODUR eisgehärtete Klingen sind besonders schneidhaltig, korrosionsbeständig und haben beste Klingenflexibilität.
 - Die beidseitig abgezogene Klinge mit einem ultrascharfen Honbazuke-Abzug sorgt für eine enorme Schärfe.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JL9RK4K/?tag=tolees0ca-21)

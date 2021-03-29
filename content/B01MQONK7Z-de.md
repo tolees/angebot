@@ -5,9 +5,10 @@ date: 2021-03-16 12:21:14
 image: 'https://m.media-amazon.com/images/I/41ADezdoRXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQONK7Z-de Tommy Hilfiger Damen K1285ESHA 6D Sneaker Blau Midnight...'
 sku: 'B01MQONK7Z-de'
+tags: [ 'Damen-Sneaker','Damenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Damen','tommy hilfiger', ]
 actualPrice: 50.94 EUR
 currency: EUR
 price: 50.94
@@ -27,8 +28,8 @@ Sie können [Tommy Hilfiger Damen K1285ESHA 6D Sneaker  Blau  Midnight 403   39 
 
 ℹ️:
 
-- closing: keine Angabe
-- Textil
 - material: Obermaterial: Textil , Innenmaterial: Textil , Sohle: PU
+- Textil
+- closing: keine Angabe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MQONK7Z/?tag=tolees0ca-21)

@@ -5,9 +5,10 @@ date: 2021-03-13 18:34:40
 image: 'https://m.media-amazon.com/images/I/31T5wnt88BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH2YBH3-de PUMA Damen Carina L Sneaker WhiteWhite Silver 38 EU'
 sku: 'B07JH2YBH3-de'
+tags: [ 'Damen-Sneaker','Damenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Damen','puma', ]
 actualPrice: 47.23 EUR
 currency: EUR
 price: 47.23

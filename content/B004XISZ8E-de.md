@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004XISZ8E-de KabelDirekt – 1 m – 4K HDMI-Kabel 4K@120Hz & 4K@60Hz –...'
 sku: 'B004XISZ8E-de'
+tags: [ 'Audiokabel','Elektronik & Foto','Fernseher & Heimkino','HDMI-Kabel','Heimkino, TV & Video Zubehör','kabeldirekt', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59
@@ -27,10 +28,10 @@ Es gibt ein [KabelDirekt – 1 m – 4K HDMI-Kabel  4K@120Hz & 4K@60Hz – spekt
 
 ℹ️:
 
+- Leistungsfähiger: Das Kabel übertrifft dank erstklassiger Fertigungsqualität die High-Speed-Spezifikation und überträgt daher UHD-II-Auflösungen wie 8K@60 Hz & 4K@120 Hz (bis max. 3 m), HDR, 7.1-Surround-Sound, ARC und sogar Ethernet-Daten
 - Hochwertig: KabelDirekt-HDMI-Kabel werden maschinell verlötet und strengen Funktionstests unterzogen. Vergoldete Stecker, mehrfache Abschirmung und hochreine Kupferleitungen sichern störungsfreien Betrieb
+- Geeignet für PCs/Notebooks, Spielkonsolen, Blu-ray/DVD-Player, TV- und Streaming-Empfänger, Monitore, Fernseher, Beamer/Projektoren und jedes andere Gerät mit HDMI-Anschluss. Weiteres Zubehör auf amazon.de/kabeldirekt
 - Universell: Das Kabel (Stecker/Stecker) verbindet Fernseher/TV-Geräte oder Monitore mit Blu-ray-Playern, Konsolen und anderen Geräten, die einen HDMI-Ausgang bieten – für fantastische Bild- und Tonqualität
 - 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
-- Geeignet für PCs/Notebooks, Spielkonsolen, Blu-ray/DVD-Player, TV- und Streaming-Empfänger, Monitore, Fernseher, Beamer/Projektoren und jedes andere Gerät mit HDMI-Anschluss. Weiteres Zubehör auf amazon.de/kabeldirekt
-- Leistungsfähiger: Das Kabel übertrifft dank erstklassiger Fertigungsqualität die High-Speed-Spezifikation und überträgt daher UHD-II-Auflösungen wie 8K@60 Hz & 4K@120 Hz (bis max. 3 m), HDR, 7.1-Surround-Sound, ARC und sogar Ethernet-Daten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004XISZ8E/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Philips myLiving LED Spot Dyna 1-flammig  EEK A+  weiß](https://ww
 
 ℹ️:
 
-- Flexibel einsetzbar: Installieren Sie dieser Strahler als eine Wand-oder Deckenleuchte; ganz nach Ihren Belieben
 - Eine zuverlässige Lichtquelle. Philips LED bietet eine außerordentliche Langlebigkeit von mindestens 20.000 Stunden
-- Schwenkbarer Lampenkopf: Sie können den Leuchtenkopf einfach in die gewünschte Richtung drehen. So richten Sie das Licht genau dort hin, wo Sie es benötigen
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 - Die in den Philips Leuchten verwendete LED Technologie ist energieeffizient
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Flexibel einsetzbar: Installieren Sie dieser Strahler als eine Wand-oder Deckenleuchte; ganz nach Ihren Belieben
+- Schwenkbarer Lampenkopf: Sie können den Leuchtenkopf einfach in die gewünschte Richtung drehen. So richten Sie das Licht genau dort hin, wo Sie es benötigen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00F0IPEWQ/?tag=tolees0ca-21)

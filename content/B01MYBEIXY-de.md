@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYBEIXY-de Geox Herren UOMO SYMBOL B Black 46 EU'
 sku: 'B01MYBEIXY-de'
+tags: [ 'Herren-Sneaker','Herrenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Herren','geox', ]
 actualPrice: 42.6 EUR
 currency: EUR
 price: 42.6

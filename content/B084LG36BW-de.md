@@ -5,9 +5,10 @@ date: 2021-03-16 13:29:42
 image: 'https://m.media-amazon.com/images/I/31oEWTsGEZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084LG36BW-de edc by ESPRIT Damen 030CC1D305 Rock 044/LIGHT Grey 5 S'
 sku: 'B084LG36BW-de'
+tags: [ 'Bekleidung','Damenbekleidung','Röcke für Damen','edc by esprit', ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

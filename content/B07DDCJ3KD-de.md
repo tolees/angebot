@@ -28,10 +28,10 @@ Sie können [PUMA Damen T-shirt ESS Logo Tee  Cotton Black  S  851787](https://w
 
 ℹ️:
 
-- Gerundeter Saum für mehr Komfort, zusätzlichen Schutz und eine schmeichelnde Passform
-- Bequemer Rundhalsausschnitt
-- 100 Prozent Baumwolle
 - Regular Fit
+- 100 Prozent Baumwolle
+- Bequemer Rundhalsausschnitt
 - "PUMA Archive No. 1"-Logo als Pigmentdruck
+- Gerundeter Saum für mehr Komfort, zusätzlichen Schutz und eine schmeichelnde Passform
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DDCJ3KD/?tag=tolees0ca-21)

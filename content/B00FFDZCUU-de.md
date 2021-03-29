@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FFDZCUU-de Metabo Bit-Box SP 32-teilig inkl. Stecknussadapter +...'
 sku: 'B00FFDZCUU-de'
+tags: [ 'Baumarkt','Bitsätze','Elektro- & Handwerkzeuge','Schraubendreher-Zubehör','Zubehör für Elektrowerkzeuge','metabo', ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31
@@ -27,10 +28,10 @@ Es gibt ein [Metabo Bit-Box SP 32-teilig  inkl. Stecknussadapter + Schnellwechse
 
 ℹ️:
 
-- In der handlichen Aufbewahrungsbox findet jeder Aufsatz seinen Platz und wird somit ideal geschützt
-- Das Werkzeug ist für Profis und Hobby-Handwerker geeignet
 - Die Bits bestehen aus hochwertigem Chrom-Vanadium-Stahl (S2 Qualität) und sind daher sehr robust und langlebig
 - Im Lieferumfang ist ein 32-teiliges Bit-Set inklusive Kunststoff-Box enthalten
+- Das Werkzeug ist für Profis und Hobby-Handwerker geeignet
 - Das 32-teilige Bit-Set enthält Bits in verschiedenen Größen und Ausführungen, sowie einen Adapter und einen magnetischen Schnellwechselbithalter
+- In der handlichen Aufbewahrungsbox findet jeder Aufsatz seinen Platz und wird somit ideal geschützt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00FFDZCUU/?tag=tolees0ca-21)

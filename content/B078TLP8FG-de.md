@@ -28,10 +28,10 @@ Es gibt ein [Puma Herren LIGA Casuals Hoody Pullover  Medium Gray Heather Black 
 
 ℹ️:
 
-- Kapuze mit Kordelzug
-- Gerader Saum vorne
 - Elastische Bündchen und Säume
+- Kapuze mit Kordelzug
 - Eingrifftasche vorne
+- Gerader Saum vorne
 - Gesticktes PUMA Cat Logo auf der rechten Brust
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B078TLP8FG/?tag=tolees0ca-21)

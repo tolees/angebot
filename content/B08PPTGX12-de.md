@@ -5,9 +5,10 @@ date: 2021-03-14 19:07:40
 image: 'https://m.media-amazon.com/images/I/41HBJULCzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08PPTGX12-de Samsung Silicone Cover mit S Pen EF-PG99P für Galaxy S21...'
 sku: 'B08PPTGX12-de'
+tags: [ 'Elektronik & Foto','Handy- & Smartwatch-Zubehör','Handyhüllen & Cover','Handys & Zubehör','Standard Handyhüllen','samsung', ]
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

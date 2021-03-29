@@ -28,10 +28,10 @@ Es gibt ein [Pandora Damen-Collier 925 Sterlingsilber 590742HV42](https://www.am
 
 ℹ️:
 
-- Jedes Schmuckstück ist handgearbeitet
-- Das Produkt wird nicht in einer Schachtel geliefert. Die Schachtel wird separat verkauft.
 - Pandora Damen-Halskette 
-- Der Schmuck dient als Basis für unendlich viele Kombinationsvarianten von Pandora-Elementen
 - Halskette aus 925er Sterling Silber
+- Das Produkt wird nicht in einer Schachtel geliefert. Die Schachtel wird separat verkauft.
+- Der Schmuck dient als Basis für unendlich viele Kombinationsvarianten von Pandora-Elementen
+- Jedes Schmuckstück ist handgearbeitet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01KMAU0HK/?tag=tolees0ca-21)

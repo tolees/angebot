@@ -5,9 +5,10 @@ date: 2021-03-12 18:06:08
 image: 'https://m.media-amazon.com/images/I/415Dw8KB8RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZH2Z5FN-de BAOLESEM Sicherheitsschuhe Herren Arbeitsschuhe Herren...'
 sku: 'B07ZH2Z5FN-de'
+tags: [ 'Herren Arbeits- & Berufsschuhe','Herren Industrie & Handwerk Sneaker','Herren Industrie- & Handwerksschuhe','Herrenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','baolesem', ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

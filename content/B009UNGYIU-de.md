@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009UNGYIU-de Plantronics 89033-01 Micro USB Kabel und Lade-Adapter 61cm...'
 sku: 'B009UNGYIU-de'
+tags: [ 'Elektronik & Foto','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Kfz-Handyladegeräte','plantronics', ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

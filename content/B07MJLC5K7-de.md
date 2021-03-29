@@ -5,9 +5,10 @@ date: 2021-03-13 07:24:37
 image: 'https://m.media-amazon.com/images/I/41SLhnDKMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJLC5K7-de Acer ED ED273URPbidpx 69 cm 27 Zoll VA Curved ZeroFrame...'
 sku: 'B07MJLC5K7-de'
+tags: [ 'Computer & Zubehör','Monitore','acer', ]
 actualPrice: 253.55 EUR
 currency: EUR
 price: 253.55
@@ -27,9 +28,9 @@ Sie können [Acer ED  ED273URPbidpx  69 cm  27 Zoll  VA Curved ZeroFrame Monitor
 
 ℹ️:
 
+- Zero-Frame-Monitore zeichnen sich durch minimale Rahmen aus. Bilder erscheinen auf dem Monitor größer und Übergänge bei Multi-Monitor-Setups sind nahezu nahtlos.
 - Mit einer Bildwiederholrate von bis zu 144 Hz eignet sich der Monitor ideal für schnelle, actionreiche Spiele.
 - Highlights: 16:9 Curved Monitor mit einer WQHD Auflösung von 2560x1440, 4ms GTG, 144 Hz, FreeSync
-- Zero-Frame-Monitore zeichnen sich durch minimale Rahmen aus. Bilder erscheinen auf dem Monitor größer und Übergänge bei Multi-Monitor-Setups sind nahezu nahtlos.
 - Curved Monitore unterstützen durch die geschwungene Form des Bildschirms das natürliche Blickfeld des Benutzers. Das breitere Sichtfeld sorgt für ein immersives Bilderlebnis.
 - AMD Freesync sorgt dafür, dass die Bildwiederholfrequenz (Hz) des Monitors an die des ausgebenden Gerätes angepasst wird und somit ruckelfreie, flüssige Spielesessions ermöglicht werden.
 

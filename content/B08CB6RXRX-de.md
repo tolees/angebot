@@ -5,9 +5,10 @@ date: 2021-03-16 12:35:07
 image: 'https://m.media-amazon.com/images/I/41oYiH6pw3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CB6RXRX-de Funko 52870 POP Star Wars: Valentines-Yoda w/Heart...'
 sku: 'B08CB6RXRX-de'
+tags: [ 'Hobbys','Sammelfiguren & Requisiten','Spielzeug','Wackelkopffiguren','funko', ]
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51
@@ -27,9 +28,9 @@ Es gibt ein [Funko 52870 POP Star Wars: Valentines-Yoda w/Heart  Multicolour](ht
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H): 11.6 x 9.0 x 16.0 Zm
-- Material: Vinyl
 - Herkunftsland:- Vietnam
+- Verpackungsabmessungen (L x B x H): 11.6 x 9.0 x 16.0 Zm
 - Verpackungsgewicht: 150.0 Gramm
+- Material: Vinyl
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CB6RXRX/?tag=tolees0ca-21)

@@ -29,8 +29,8 @@ Sie können [Ravensburger Kinderpuzzle 09226 - Große Baufahrzeuge - 3 x 49 Teil
 ℹ️:
 
 - Drei Mal Puzzlespaß inkl. Mini-Postern als Motivvorlagen
+- Alter: ab 5 Jahren
 - Format: circa 21 x 21cm
 - Inhalt: 3 Puzzles mit je 49 Teilen, 3 Motivvorlagen
-- Alter: ab 5 Jahren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00ZP3M5JG/?tag=tolees0ca-21)

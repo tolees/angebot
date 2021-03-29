@@ -5,9 +5,10 @@ date: 2021-03-13 00:02:25
 image: 'https://m.media-amazon.com/images/I/51BHaHV7h7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079F9KHPT-de Bethesda - Wolfenstein: The New Order & The Old Blood Bundle'
 sku: 'B079F9KHPT-de'
+tags: [ 'Games','PlayStation 4','Spiele für PlayStation 4','bethesda', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89
@@ -27,10 +28,10 @@ Sie können [Bethesda - Wolfenstein: The New Order & The Old Blood  Bundle ](htt
 
 ℹ️:
 
-- Nur Sie haben den Mut, sich der Armee von Kampfrobotern und Maschinensoldaten entgegenzustellen
-- Wolfenstein: The New Order und The Old Blood in einem Set
-- Vereinen Sie den Widerstand und nutzen Sie vernichtende Waffen
 - Wolfenstein: The Old Blood ist das eigenständige Prequel des hochgelobten Action-Adventure-Shooters
+- Vereinen Sie den Widerstand und nutzen Sie vernichtende Waffen
+- Nur Sie haben den Mut, sich der Armee von Kampfrobotern und Maschinensoldaten entgegenzustellen
 - Wolfenstein: The New Order definiert die legendäre Spielereihe, die einst das Ego-Shooter-Genre begründet hat
+- Wolfenstein: The New Order und The Old Blood in einem Set
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079F9KHPT/?tag=tolees0ca-21)

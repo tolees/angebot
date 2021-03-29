@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PH6RK4-de Nike Mens Venture Runner Sneaker Midnight Navy/White-...'
 sku: 'B082PH6RK4-de'
+tags: [ 'Herren-Laufschuhe','Herren-Sneaker','Herrenschuhe','Leichtathletikschuhe für Herren','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Herren','Sport- & Outdoorschuhe für Herren','nike', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

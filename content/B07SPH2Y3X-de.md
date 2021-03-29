@@ -29,9 +29,9 @@ Sie können [Xiaomi Mi Smart Bedside Lamp 2 Nachttisch-  Stimmungs- & Ambientela
 ℹ️:
 
 - Über die Mi Home App einfach mit weiteren kompatiblen Smart Home Geräten verbindbar
-- Steuerbar per Touch Taste, mit der Mi Home App und über Alexa sowie weitere gängige Sprachassistenten
-- Dimmbar zwischen 2lm und 400lm und aus 16 Mio. Farben frei wählbar inklusive Kalt- und Warmweiß
 - Niedriger Stromverbrauch von nur 9 Watt
+- Steuerbar per Touch Taste, mit der Mi Home App und über Alexa sowie weitere gängige Sprachassistenten
 - Lange Lebensdauer von 25. 000 Stunden
+- Dimmbar zwischen 2lm und 400lm und aus 16 Mio. Farben frei wählbar inklusive Kalt- und Warmweiß
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SPH2Y3X/?tag=tolees0ca-21)

@@ -5,9 +5,10 @@ date: 2021-03-13 07:00:48
 image: 'https://m.media-amazon.com/images/I/216rlk7h9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001IBQPI6-de Bosch Professional Hammerbohrer SDS-plus-5 Ø 16 mm'
 sku: 'B001IBQPI6-de'
+tags: [ '2752431031','Baumarkt','Bohren','Bohrer','Bohrer mit SDS-Schaft','Bohrwerkzeuge SDS-plus','Bosch Zubehör','Elektro- & Handwerkzeuge','Hammerbohrer SDS-plus-5','Produkte','Zubehör für Elektrowerkzeuge','bosch professional', ]
 actualPrice: 7.76 EUR
 currency: EUR
 price: 7.76
@@ -28,9 +29,9 @@ Es gibt ein [Bosch Professional Hammerbohrer SDS-plus-5  Ø 16 mm ](https://www.
 ℹ️:
 
 - Durchmesser x Arbeitslänge x Gesamtlänge: 16 x 200 x 265 mm
-- Zwei Schneiden, gefertigt mit optimierter Löt- und Härtungstechnologie, um die Robustheit des Bohrers zu steigern und die Vibrationen während des Bohrens zu senken.
 - Professionelles Bearbeiten von Mauerwerk und Beton
 - Für alle Bohrhämmer mit SDS-plus-Aufnahme
 - Aus langlebigem Hartmetall für gute Lebensdauer und Widerstandsfähigkeit. Verzahntes Hartmetall am Bohrkopf und patentiertes 4-spiraliges Turbo-Design für effizienten Bohrmehlabtransport ohne Verstopfen. Mit gut sichtbarem Verschleißindikator.
+- Zwei Schneiden, gefertigt mit optimierter Löt- und Härtungstechnologie, um die Robustheit des Bohrers zu steigern und die Vibrationen während des Bohrens zu senken.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001IBQPI6/?tag=tolees0ca-21)

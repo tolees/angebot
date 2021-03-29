@@ -28,10 +28,10 @@ Sie können [Pickwoo Solar Roboter Bausatz Set Kinder STEM Spielzeug Konstruktio
 
 ℹ️:
 
-- 【S.T.E.M. Pädagogisches Spielzeug】 Science Kits für Kinder 10-12. Das spielerische Lernen hat sich als die effektivste Lehrmethode für junge Köpfe erwiesen. Unser Spielzeug zum Bauen fördert die Hand-Auge-Koordination und Kreativität Ihrer Kinder
-- 【13-in-1 Solar roboter Kit】 Es kann leicht 13 verschiedene Science-Experiment-Kits zusammenstellen, die für die Solarstromerzeugung oder Wasserbewegung an Land verwendet werden können, wie automatische Boote, Autoroboter, etc. Lassen Sie die Kinder ihre wissenschaftlichen Experimente beginnen.
-- 【Einfach ab 8 Jahren】Schritt für Schritt leicht zu befolgende Anweisungen, um jeden in der Bedienungsanleitung enthaltenen Build fertigzustellen. Geeignet für Kinder ab 8 Jahren.
-- 【Pefektes Geschenk für Kinder】Bei Fragen können Sie sich gerne an uns wenden. Wir werden innerhalb von 24 Stunden antworten!Ideales Geschenk für Geburtstag / Kindertag / Weihnachten / Chanukka / Ostern / Sommercamp-Aktivitäten / zurück zur Schule.
 - 【Von der Sonne angetrieben】 Dieser Solarroboter wird von der Sonne oder der Batterie angetrieben (nicht im Lieferumfang enthalten). Der Roboter bewegt sich im direkten Sonnenlicht und ermöglicht es Kindern, ihre unendliche Fantasie zu erschaffen und zu nutzen.
+- 【13-in-1 Solar roboter Kit】 Es kann leicht 13 verschiedene Science-Experiment-Kits zusammenstellen, die für die Solarstromerzeugung oder Wasserbewegung an Land verwendet werden können, wie automatische Boote, Autoroboter, etc. Lassen Sie die Kinder ihre wissenschaftlichen Experimente beginnen.
+- 【S.T.E.M. Pädagogisches Spielzeug】 Science Kits für Kinder 10-12. Das spielerische Lernen hat sich als die effektivste Lehrmethode für junge Köpfe erwiesen. Unser Spielzeug zum Bauen fördert die Hand-Auge-Koordination und Kreativität Ihrer Kinder
+- 【Pefektes Geschenk für Kinder】Bei Fragen können Sie sich gerne an uns wenden. Wir werden innerhalb von 24 Stunden antworten!Ideales Geschenk für Geburtstag / Kindertag / Weihnachten / Chanukka / Ostern / Sommercamp-Aktivitäten / zurück zur Schule.
+- 【Einfach ab 8 Jahren】Schritt für Schritt leicht zu befolgende Anweisungen, um jeden in der Bedienungsanleitung enthaltenen Build fertigzustellen. Geeignet für Kinder ab 8 Jahren.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B088LZC3DM/?tag=tolees0ca-21)

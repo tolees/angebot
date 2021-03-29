@@ -29,7 +29,7 @@ Sie können [Tommy Hilfiger Damen Basic Opened Toe MID Wedge Peeptoe Sandalen  W
 ℹ️:
 
 - material: Obermaterial: Textil , Innenmaterial: Textil , Sohle: Gummi
-- Textil
 - closing: keine Angabe
+- Textil
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07V7XTFQC/?tag=tolees0ca-21)

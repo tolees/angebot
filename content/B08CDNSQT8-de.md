@@ -5,9 +5,10 @@ date: 2021-03-16 12:59:37
 image: 'https://m.media-amazon.com/images/I/41dKwJDG9HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDNSQT8-de Tommy Hilfiger Herren ESSENTIAL Tasche Black One Size'
 sku: 'B08CDNSQT8-de'
+tags: [ 'Handtaschen','Herren-Schultertaschen','Herrentaschen','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','tommy hilfiger', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

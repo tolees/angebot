@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGWY9F7-de Funko POP! Vinyl Rocks: Iggy Pop - Iggy Mehrfarben Standard'
 sku: 'B07QGWY9F7-de'
+tags: [ 'Hobbys','Sammelfiguren & Requisiten','Spielzeug','Wackelkopffiguren','funko', ]
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67
@@ -27,8 +28,8 @@ Sie können [Funko POP! Vinyl Rocks: Iggy Pop - Iggy  Mehrfarben  Standard](http
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Rocks-Figuren von Funko an! Sammeln Sie alle!
 - Funko POP! ist das Spielzeug des Jahres 2018
+- Schauen Sie sich jetzt die anderen Rocks-Figuren von Funko an! Sammeln Sie alle!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Von Rocks, Iggy, zur stilisierten POP-Vinyl Figur von Funko!
 

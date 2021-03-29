@@ -5,9 +5,10 @@ date: 2021-03-14 06:09:35
 image: 'https://m.media-amazon.com/images/I/31x8AnkCpuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNSRQLT-de s.Oliver Damen 04.899.34.3790 Top Bluse Schwarz Black 9999...'
 sku: 'B07XNSRQLT-de'
+tags: [ 'Bekleidung','Damenbekleidung','Tops für Damen','Tops, T-Shirts & Blusen für Damen','s.oliver', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

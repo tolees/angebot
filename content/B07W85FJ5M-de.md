@@ -5,9 +5,10 @@ date: 2021-03-15 13:53:32
 image: 'https://m.media-amazon.com/images/I/31djG78GRfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W85FJ5M-de Jada Toys Knight Rider K.I.T.T. - 1982 Pontiac Trans AM...'
 sku: 'B07W85FJ5M-de'
+tags: [ 'Hobbys','Miniatur Motorfahrzeug-Modelle','Miniaturmodelle','Modellbau','Spielzeug','Vorgefertigte & Druckgussmodelle','jada toys', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -27,10 +28,10 @@ Sie können [Jada Toys Knight Rider K.I.T.T. - 1982 Pontiac Trans AM Modellauto 
 
 ℹ️:
 
-- Mit Lauflicht – Natürlich darf der legendäre Scanner von K.I.T.T. nicht fehlen. Sobald die Fahrertür geöffnet wird leuchtet das LED-Licht, genau sowie bei dem Original, knapp unter der Motorhaube auf. (Batterien enthalten)
-- „Ein Mann und sein Auto kämpfen gegen das Unrecht.“ – Der unverkennbare Slogan der Kultserie der 80er mit David Hasselhoff in der Hauptrolle als Michael Knight und dem eigentlichen Star, seinem Auto, K.I.T.T
+- Hochdetailliertes 1:24 Modell – Der liebevoll gestaltete Innenraum, die markante Lackierung sowie die vielen kleinen Details verleihen dem Modellauto aus Metall einen absoluten Wiedererkennungswert
 - Ideales Geschenk – Das Modell des Autos aus Knight Rider ist ein ideales Geschenk für alle Modellliebhaber, welche gerne wieder in die Erinnerungen an die Kindheit und Jugend abschweifen wollen
 - Jada Toys – Seit mehr als 20 Jahren bieten wir, als führender Hersteller für lizensierte Modell-Figuren und -Fahrzeuge, Detailtreue, Vielfalt und höchste Qualität in Perfektion
-- Hochdetailliertes 1:24 Modell – Der liebevoll gestaltete Innenraum, die markante Lackierung sowie die vielen kleinen Details verleihen dem Modellauto aus Metall einen absoluten Wiedererkennungswert
+- „Ein Mann und sein Auto kämpfen gegen das Unrecht.“ – Der unverkennbare Slogan der Kultserie der 80er mit David Hasselhoff in der Hauptrolle als Michael Knight und dem eigentlichen Star, seinem Auto, K.I.T.T
+- Mit Lauflicht – Natürlich darf der legendäre Scanner von K.I.T.T. nicht fehlen. Sobald die Fahrertür geöffnet wird leuchtet das LED-Licht, genau sowie bei dem Original, knapp unter der Motorhaube auf. (Batterien enthalten)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W85FJ5M/?tag=tolees0ca-21)

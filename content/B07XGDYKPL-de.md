@@ -5,9 +5,10 @@ date: 2021-03-14 00:12:01
 image: 'https://m.media-amazon.com/images/I/41ICcSKqz9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGDYKPL-de Paramount Pictures Universal Pictures - Star Trek...'
 sku: 'B07XGDYKPL-de'
+tags: [ 'Action & Abenteuer','Blu-ray','Box-Sets','DVD & Blu-ray','Featured Categories','Science Fiction','Serien & TV-Produktionen','paramount pictures (universal pictures)', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

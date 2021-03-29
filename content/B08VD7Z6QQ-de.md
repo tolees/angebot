@@ -30,8 +30,8 @@ Es gibt ein [Holy Stone HS110D Drohne mit Kamera 1080P HD FPV Live Übertragung 
 
 - [ 2 Modulares Akkus] Mit der 3.7V 1000mAh Hochleistungsbatterie hat die Drohne langere Flugzeit; die modulare Batterie ist mehr sicher und güntig. Bitte laden Sie die Batterie mit dem originalen Ladekabel auf.
 - [ FPV und APP Steuerung ] Kann man mit App oder der Ferndienung Drohne steuern.Bedienen Sie die Drohne über eine APP in einem Smartphone, um mehrere Funktionen zu aktivieren: Sprachsteuerung, Flugbahn und Schwerkraftsensorsteuerung.
-- [ Beste Kundenservice ] Es kann zu Missverständnissen zwischen den zwei Version kommen. Wenn Sie Fragen zum Akku haben,nehmen Sie in Kontakt mit uns bitte! Wir werden Ihnen beste Kundenservice anbieten und eine befriedigende Antwort geben.
 - [ Automatische Höhenhaltung ] Wenn Sie den Gashebel loslassen,wird die Drohne auf der aktuellen Höhe bleiben. Vereinfacht die Steuerung, besonders hilfreich für Anfänger oder Kinds.
+- [ Beste Kundenservice ] Es kann zu Missverständnissen zwischen den zwei Version kommen. Wenn Sie Fragen zum Akku haben,nehmen Sie in Kontakt mit uns bitte! Wir werden Ihnen beste Kundenservice anbieten und eine befriedigende Antwort geben.
 - [1080P HD Kamera ] Mit der hohewertige Kamera kann man Videos und Fotos machen, um die glücklichen Momente des Lebens zu behalten. Durch FPV können Sie die Welt aus einer neuen Perspektive sehen!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08VD7Z6QQ/?tag=tolees0ca-21)

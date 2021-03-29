@@ -29,9 +29,9 @@ Es gibt ein [WMF Disney Mickey Mouse Streuer Set  5-teilig  Salzstreuer mit 4 L�
 ℹ️:
 
 - Mickey Mouse - ein absoluter Disney Klassiker und über den Generationeneffekt weltweit beliebt und bekannt. Für Kinder ab 3 Jahren und Mickey Mouse Fans geeignet
-- Material: Kunststoff (BPA-frei), Cromargan Edelstahl 18/10 poliert - rostfrei, spülmaschinengeeignet, pflegeleicht, geschmacksneutral und säurefest. Hygienisch restistent gegen Speisesäuren. Emissionsfrei, farb- und lebensmittelecht
 - Inhalt: 1x Salzstreuer (Höhe 5 cm), 4x Kaffeelöffel (Länge 13 cm) mit Micky Maus Motiv - Artikelnummer: 1296396040
-- Der Löffel mit dem geprägten Mickey Mouse Kopf am Stielende eignet sich hervorragend für Espresso- oder Kindertassen. Sie sind ergonomisch auf kleine Kinderhände angepasst
+- Material: Kunststoff (BPA-frei), Cromargan Edelstahl 18/10 poliert - rostfrei, spülmaschinengeeignet, pflegeleicht, geschmacksneutral und säurefest. Hygienisch restistent gegen Speisesäuren. Emissionsfrei, farb- und lebensmittelecht
 - Zu befüllen ist der Streuer kinderleicht: Ziehen Sie Ober- und Unterteil auseinander und füllen Sie in den Bauch von McSalt feines Streusalz. Der Streuer ist so geformt, dass das Gefäß nicht umkippen kann
+- Der Löffel mit dem geprägten Mickey Mouse Kopf am Stielende eignet sich hervorragend für Espresso- oder Kindertassen. Sie sind ergonomisch auf kleine Kinderhände angepasst
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07CHPD3S2/?tag=tolees0ca-21)

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005DXE1DQ-de Geox Herren U FEDERICO W Derby Schwarz BLACKC9999 40 EU'
 sku: 'B005DXE1DQ-de'
+tags: [ 'Herren-Schnürhalbschuhe','Herrenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','geox', ]
 actualPrice: 58.06 EUR
 currency: EUR
 price: 58.06
@@ -27,8 +28,8 @@ Sie können [Geox Herren U FEDERICO W Derby  Schwarz  BLACKC9999   40 EU](https:
 
 ℹ️:
 
-- Gepolsterte Lederdecksohle
 - Echtes Leder
 - Elegante Sohle
+- Gepolsterte Lederdecksohle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005DXE1DQ/?tag=tolees0ca-21)

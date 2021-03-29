@@ -5,9 +5,10 @@ date: 2021-03-13 00:04:13
 image: 'https://m.media-amazon.com/images/I/414mI0xDA1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003OEQS3C-de Schülke 112002 Waschlotion 1 L'
 sku: 'B003OEQS3C-de'
+tags: [ 'Drogerie & Körperpflege','Geschirrreinigung','Handspülmittel','Haushaltsreinigungsmittel','Haushaltswaren','schülke', ]
 actualPrice: 3.43 EUR
 currency: EUR
 price: 3.43
@@ -28,7 +29,7 @@ Sie können [Schülke 112002 Waschlotion  1 L](https://www.amazon.de/dp/B003OEQS
 ℹ️:
 
 - Pack: 1
-- Premium-Qualität
 - Seifenfreie Waschlotion auf Basis einer Kombination hautverträglicher Tenside und Pflegekomponenten
+- Premium-Qualität
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003OEQS3C/?tag=tolees0ca-21)

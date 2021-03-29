@@ -28,9 +28,9 @@ Es gibt ein [Xiaomi Mi Smart Band 5 Fitness- & Aktivitätstracker mit 1 1" Full 
 
 ℹ️:
 
+- Aktivität und Schlafanalyse abrufbar in der Mi Wear Lite App
 - Bluetooth 5.0 BLE Kompatibel ab Android 4.4/iOS 10.0
 - 5 ATM Wasserdichtigkeit
-- Aktivität und Schlafanalyse abrufbar in der Mi Wear Lite App
 - Bis zu 14 Tage Akkulaufzeit (125mAh)
 - 1,1 Zoll (2,79 cm) Full AMOLED Touch Farb-Display
 

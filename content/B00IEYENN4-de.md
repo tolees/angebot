@@ -30,8 +30,8 @@ Es gibt ein [Sony Alpha 6000 Systemkamera  24 Megapixel  7 5 cm  3 Zoll  LCD-Dis
 
 - Full HD Videoaufnahme (50p) (AVCHD)
 - Neuer High Speed Hybrid AF (deckt nahezu die ganze Sensorfläche ab)
-- Schnellster Autofokus der Welt (Laut interner Studien von Sony im Bereich digitale Systemkameras mit APS-C Sensor. Stand: 12.02.2014)
-- Lieferumfang:Handschlaufe, Tragegurt, SEL-P1650, Akku, NP-FW50, AC-UB10, USB Micro-Kabel, Augenmuschel,Kurzanleitung
 - APS-C Sensor: Anzahl der Pixel (effektiv): 24,3 MP; Anzahl der Pixel (gesamt): ca. 24,7 Megapixel
+- Lieferumfang:Handschlaufe, Tragegurt, SEL-P1650, Akku, NP-FW50, AC-UB10, USB Micro-Kabel, Augenmuschel,Kurzanleitung
+- Schnellster Autofokus der Welt (Laut interner Studien von Sony im Bereich digitale Systemkameras mit APS-C Sensor. Stand: 12.02.2014)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00IEYENN4/?tag=tolees0ca-21)

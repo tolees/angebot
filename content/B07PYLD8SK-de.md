@@ -5,9 +5,10 @@ date: 2021-03-14 06:21:47
 image: 'https://m.media-amazon.com/images/I/31-CObNkAUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYLD8SK-de ONLY Damen Onlkendell Eternal Ankle Black Noos Jeanshose...'
 sku: 'B07PYLD8SK-de'
+tags: [ 'Bekleidung','Damen-Jeanshosen','Damenbekleidung','only', ]
 actualPrice: 22.69 EUR
 currency: EUR
 price: 22.69

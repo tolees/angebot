@@ -5,9 +5,10 @@ date: 2021-03-14 12:42:21
 image: 'https://m.media-amazon.com/images/I/31PcWyLZpTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGPFTH4-de adidas Unisex Continental 80 J Fitnessschuhe Weiß Footwear...'
 sku: 'B07HGPFTH4-de'
+tags: [ 'Herren-Hallenschuhe','Herren-Sneaker','Herrenschuhe','Jungenschuhe','Mädchenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Herren','Sneaker & Sportschuhe für Jungen','Sneaker & Sportschuhe für Mädchen','Sneaker für Jungen','Sneaker für Mädchen','Sport- & Outdoorschuhe für Herren','adidas', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

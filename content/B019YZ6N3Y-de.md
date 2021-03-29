@@ -29,9 +29,9 @@ Sie können [KOSMOS 740382 - Halt mal kurz  Das Känguru-Spiel  Witziges Kartens
 ℹ️:
 
 - Spieldauer ca. 20 Minuten
-- Witziges Kartenspiel
-- Mit exklusiver Känguru-Story
-- Das schräge Spiel von Bestsellerautor und Kabarettist Marc-Uwe Kling
 - Für 3 - 5 Spieler
+- Das schräge Spiel von Bestsellerautor und Kabarettist Marc-Uwe Kling
+- Mit exklusiver Känguru-Story
+- Witziges Kartenspiel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B019YZ6N3Y/?tag=tolees0ca-21)

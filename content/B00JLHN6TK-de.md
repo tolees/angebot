@@ -5,9 +5,10 @@ date: 2021-03-15 01:28:06
 image: 'https://m.media-amazon.com/images/I/41r7JwFH44L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JLHN6TK-de Schiesser® 4er - Pack Herren Unterhemden Achselhemden Tank...'
 sku: 'B00JLHN6TK-de'
+tags: [ 'Bekleidung','Herren-Unterhemden','Herren-Unterwäsche','Herrenbekleidung','schiesser', ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

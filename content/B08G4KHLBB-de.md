@@ -28,11 +28,11 @@ Es gibt ein [LEGO 71733 NINJAGO Battle Set: Cole vs. Geisterkämpfer  Spielset m
 
 ℹ️:
 
-- Das Set ist 7 cm hoch, 5 cm breit und 8 cm tief. Das ist die ideale Größe für Duelle im eigenen Kinderzimmer oder bei einem Freund
-- Das LEGO NINJAGO Battle Set: Cole vs. Geisterkämpfer (71733) enthält alles Nötige, damit Kinder actionreiche Duelle zwischen dem Ninja-Helden Cole und dem bösen Geisterkämpfer austragen können
-- Mit nur 51 Teilen ist dieses Spielzeug ein tolles erstes LEGO Set für Baumeister ab 6 Jahren und ein wunderbares Überraschungsgeschenk, das kleine Ninja gar nicht mehr weglegen wollen
-- Das Ninja-Spielset enthält zwei Minifiguren: einen ab Januar 2021 erhältlichen Cole und einen Legacy Geisterkämpfer aus der LEGO NINJAGO TV-Serie sowie 4 exklusive schwarze Waffen
-- Zu dem Ninja-Spielzeug gehören auch ein Marktplatz aus LEGO Steinen als Kampfarena sowie ein Actionkreisel, der Cole loswirbeln und seinen Gegner umstoßen lässt
 - Noch größere LEGO NINJAGO Battles lassen sich zusammen mit anderen Sets austragen: Kai vs. Skulkin (71730), Zane vs. Nindroid (71731) und Jay vs. Serpentine (71732)
+- Das Ninja-Spielset enthält zwei Minifiguren: einen ab Januar 2021 erhältlichen Cole und einen Legacy Geisterkämpfer aus der LEGO NINJAGO TV-Serie sowie 4 exklusive schwarze Waffen
+- Mit nur 51 Teilen ist dieses Spielzeug ein tolles erstes LEGO Set für Baumeister ab 6 Jahren und ein wunderbares Überraschungsgeschenk, das kleine Ninja gar nicht mehr weglegen wollen
+- Zu dem Ninja-Spielzeug gehören auch ein Marktplatz aus LEGO Steinen als Kampfarena sowie ein Actionkreisel, der Cole loswirbeln und seinen Gegner umstoßen lässt
+- Das LEGO NINJAGO Battle Set: Cole vs. Geisterkämpfer (71733) enthält alles Nötige, damit Kinder actionreiche Duelle zwischen dem Ninja-Helden Cole und dem bösen Geisterkämpfer austragen können
+- Das Set ist 7 cm hoch, 5 cm breit und 8 cm tief. Das ist die ideale Größe für Duelle im eigenen Kinderzimmer oder bei einem Freund
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4KHLBB/?tag=tolees0ca-21)

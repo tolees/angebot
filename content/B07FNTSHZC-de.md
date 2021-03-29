@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNTSHZC-de LEGO 10902 DUPLO Polizeistation mit Polizeiauto...'
 sku: 'B07FNTSHZC-de'
+tags: [ '355357031','Baby- & Kleinkindspielzeug','Bauspielzeug & Konstruktionsspielzeug','Polizei & Feuerwehr','Produkte','Spielzeug','Spielzeugfahrzeuge','lego', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52
@@ -27,10 +28,10 @@ Sie können [LEGO 10902 DUPLO Polizeistation mit Polizeiauto  Gefängniszelle un
 
 ℹ️:
 
+- Auf Knopfdruck kannst du die Licht- und Geräuscheffekte des Polizeiautos aktivieren.
 - Nehme den Räuber und wirf ihn in die Gefängniszelle der Spielzeug-Polizeistation.
+- Mit einer einfach zu bauenden Polizeistation mit aufklappbarer Zellentür und Spielzeug-Polizeiauto mit Licht- und Geräuscheffekten.
 - Enthält 3 LEGO DUPLOFiguren: 2 Polizisten und 1 Räuber.
 - Als Zubehörelemente sind eine Tasse sowie als Donuts und Überwachungskamera bedruckte Steine enthalten.
-- Mit einer einfach zu bauenden Polizeistation mit aufklappbarer Zellentür und Spielzeug-Polizeiauto mit Licht- und Geräuscheffekten.
-- Auf Knopfdruck kannst du die Licht- und Geräuscheffekte des Polizeiautos aktivieren.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNTSHZC/?tag=tolees0ca-21)

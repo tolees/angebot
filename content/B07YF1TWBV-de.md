@@ -5,9 +5,10 @@ date: 2021-03-16 13:25:56
 image: 'https://m.media-amazon.com/images/I/41m6bB2JetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YF1TWBV-de Richter Kinderschuhe Jungen Junior Sneaker Blau...'
 sku: 'B07YF1TWBV-de'
+tags: [ 'Jungenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Jungen','Sneaker für Jungen','richter kinderschuhe', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

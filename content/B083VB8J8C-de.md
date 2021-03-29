@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083VB8J8C-de Desigual Damen Vest praga Casual Dress Schwarz XL EU'
 sku: 'B083VB8J8C-de'
+tags: [ 'Bekleidung','Damen-Kleider','Damenbekleidung','Freizeitkleider für Damen','desigual', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HQYK85-de adidas Herren Core 18 Hose schwarz Black/White L'
 sku: 'B076HQYK85-de'
+tags: [ 'Fußball','Fußball-Bekleidung','Fußball-Bekleidung für Herren','Fußball-Hosen für Herren','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','adidas', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

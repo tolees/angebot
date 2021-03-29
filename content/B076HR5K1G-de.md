@@ -28,8 +28,8 @@ Sie können [adidas Herren CORE18 PES PNT Sport Trousers  Dark Blue/White  L](ht
 
 ℹ️:
 
+- Tapered Fit
 - Front pockets
 - Elastic waistband with lanyard
-- Tapered Fit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076HR5K1G/?tag=tolees0ca-21)

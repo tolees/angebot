@@ -5,9 +5,10 @@ date: 2021-03-14 12:27:21
 image: 'https://m.media-amazon.com/images/I/31AIue1unYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B7ABF00-de Sony BDP-S1700 Blu-ray-Player USB Ethernet schwarz'
 sku: 'B01B7ABF00-de'
+tags: [ 'Blu-ray Player & Rekorder','Blu-ray-Player','Elektronik & Foto','Fernseher & Heimkino','sony', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

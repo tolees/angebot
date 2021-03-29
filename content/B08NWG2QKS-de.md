@@ -5,9 +5,10 @@ date: 2021-03-14 05:55:50
 image: 'https://m.media-amazon.com/images/I/41Mzm8q1z8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08NWG2QKS-de ASICS Herren 1011A862-402 47 Running Shoes Navy EU'
 sku: 'B08NWG2QKS-de'
+tags: [ 'Herren-Sneaker','Herrenschuhe','Running','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Herren','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','asics', ]
 actualPrice: 91.66 EUR
 currency: EUR
 price: 91.66

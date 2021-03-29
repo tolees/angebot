@@ -28,8 +28,8 @@ Es gibt ein [SALEWA PUEZ PTX 2.5L U PNT Regenhose  Black Out  XXL](https://www.a
 
 ℹ️:
 
+- Gewicht: 317 g
 - Leicht
 - Passform: Regulär
-- Gewicht: 317 g
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01ARPKQV0/?tag=tolees0ca-21)

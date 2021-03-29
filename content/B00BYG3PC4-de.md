@@ -5,9 +5,10 @@ date: 2021-03-14 05:56:37
 image: 'https://m.media-amazon.com/images/I/41EdTgfyChL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BYG3PC4-de Nike T-Lite XI Herren Sneakers Schwarz Black/Black-...'
 sku: 'B00BYG3PC4-de'
+tags: [ 'Herren-Hallenschuhe','Herren-Outdoor-Fitnessschuhe','Herrenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Herren','Sport- & Outdoorschuhe für Herren','nike', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

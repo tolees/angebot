@@ -28,10 +28,10 @@ Sie können [PUMA Damen SMASH WNS V2 L Sneaker  White White  39 EU](https://www.
 
 ℹ️:
 
-- Herausnehmbare SoftFoam Einlegesohle
-- Laufsohle aus Gummi
 - Update des PUMA Smash
-- Obermaterial aus weichem Leder
 - Inspiriert vom Tennis. Stylischer Komfort für jeden Tag
+- Laufsohle aus Gummi
+- Obermaterial aus weichem Leder
+- Herausnehmbare SoftFoam Einlegesohle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077MJJM3W/?tag=tolees0ca-21)

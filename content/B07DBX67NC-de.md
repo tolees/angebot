@@ -5,9 +5,10 @@ date: 2021-03-12 14:53:58
 image: 'https://m.media-amazon.com/images/I/31W-36nCulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBX67NC-de Anker PowerWave Wireless Charger Ladepad Kabelloses 10W...'
 sku: 'B07DBX67NC-de'
+tags: [ 'Elektronik & Foto','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handy-Induktionsladegeräte','Handys & Zubehör','anker', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -29,8 +30,8 @@ Sie können [Anker PowerWave Wireless Charger Ladepad  Kabelloses 10W Ladegerät
 
 - WAS DU BEKOMMST: Ein PowerWave Ladepad, ein 90 cm langes Mikro-USB-Kabel, 18 Monate Garantie und immer freundlichen Kundenservice.
 - ANTI-RUTSCH: Das schlanke Design sieht stylish aus und passt perfekt auf jeden Schreibtisch und in jedes Büro. Zugleich sorgt das TPU-Oberflächenmaterial für einen festen Griff.
-- DAS ANKER PLUS: Schließe dich den über 30 Millionen glücklichen Kunden an. Lade Anker.
-- NEED FOR SPEED: Das hochmoderne Chipset garantiert 10W Ladungen für Samsung Galaxy und 5W Ladungen für iPhones - 10% schneller als vergleichbare Ladegeräte.
 - HÜLLENFREUNDLICH: PowerWave lädt mühelos durch Schutzhüllen. Metallzubehör und Kreditkarten können den Ladevorgang einschränken.
+- NEED FOR SPEED: Das hochmoderne Chipset garantiert 10W Ladungen für Samsung Galaxy und 5W Ladungen für iPhones - 10% schneller als vergleichbare Ladegeräte.
+- DAS ANKER PLUS: Schließe dich den über 30 Millionen glücklichen Kunden an. Lade Anker.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DBX67NC/?tag=tolees0ca-21)

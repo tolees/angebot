@@ -29,9 +29,9 @@ Sie können [Hansaplast Wundspray  50 ml   zur antiseptischen Wundreinigung durc
 ℹ️:
 
 - Lieferumfang: Hansaplast Wundspray (50) ml), für die Wundversorgung von Blasen, Schnitt-, Schürf- oder kleineren Brandwunden, mit 360° Sprühkopf
-- Antiseptische Wundreinigung durch mechanische Spülung – Durch mechanische Spülung reinigt das Wundspray akute Wunden oder Blasen, schützt sie vor Infektionen und bildet damit die Grundlage für eine optimale Wundheilung
+- Einfache Anwendung – Das Wundspray mit 10 cm Entfernung auf die Wunde sprühen, anschließend vorsichtig trocknen und mit einem geeigneten Pflaster schützen
 - Besonders hautfreundlich – Das Wundheilspray enthält keinen Alkohol, so reinigt es schmerzfrei*, schnell und ohne auszutrocknen – ideal für Kinder sowie empfindliche Haut
 - Farbloses Spray – Im Gegensatz zu Jod oder anderen Lösungen reinigt dieses Spray Wunden, ohne unschöne Rückstände auf Haut und Kleidung zu hinterlassen
-- Einfache Anwendung – Das Wundspray mit 10 cm Entfernung auf die Wunde sprühen, anschließend vorsichtig trocknen und mit einem geeigneten Pflaster schützen
+- Antiseptische Wundreinigung durch mechanische Spülung – Durch mechanische Spülung reinigt das Wundspray akute Wunden oder Blasen, schützt sie vor Infektionen und bildet damit die Grundlage für eine optimale Wundheilung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CV8P3SB/?tag=tolees0ca-21)

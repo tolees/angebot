@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JFL83RP-de PUMA Damen Carina L Sneaker WhiteWhite Silver 40 EU'
 sku: 'B07JFL83RP-de'
+tags: [ '60362031','Damen','Damen-Sneaker','Damenschuhe','Produkte','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker','Sneaker & Sportschuhe für Damen','puma', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -5,9 +5,10 @@ date: 2021-03-14 18:58:01
 image: 'https://m.media-amazon.com/images/I/31KL3iN6TJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792FVNRN-de Josef Seibel Damen Stiefeletten Fergey 18 Frauen...'
 sku: 'B0792FVNRN-de'
+tags: [ 'Damen-Stiefel','Damenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','josef seibel', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49
@@ -28,9 +29,9 @@ Es gibt ein [Josef Seibel Damen Stiefeletten Fergey 18  Frauen Schnürstiefelett
 ℹ️:
 
 - Josef Seibel 59690 Fergey 18 Damen, Frauen Stiefeletten,Schnürstiefelette,Stiefel,Chukka Boot,Halbstiefel,Schnür-Bootie,gefüttert,Winterstiefel,Grün
-- Weite: G (Für Füße mit normaler Breite), Verschluss: Schnürung, Schuhspitze: asymetrisch
-- Absatztyp: Flach, Absatzhöhe: 2 cm, Schafttyp: Kurzschaft
 - Boots,Stiefel,Bootee,Booties,Halbstiefel,Kurzstiefel,uebergangsschuhe,uebergangsstiefel,Schnuerung
+- Absatztyp: Flach, Absatzhöhe: 2 cm, Schafttyp: Kurzschaft
+- Weite: G (Für Füße mit normaler Breite), Verschluss: Schnürung, Schuhspitze: asymetrisch
 - Obermaterial: Nubuk (Rindsleder), Innenmaterial: Arnedry, Laufsohle: EVO, Decksohle: Arnedry - Mikrofaser
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0792FVNRN/?tag=tolees0ca-21)

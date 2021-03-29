@@ -5,9 +5,10 @@ date: 2021-03-15 07:29:02
 image: 'https://m.media-amazon.com/images/I/31ArDM7Kq3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005TOOBPM-de Bosch Professional Magazinaufsatz für Bosch...'
 sku: 'B005TOOBPM-de'
+tags: [ 'Garten','Gartenarbeit','Gartengeräte','Werkzeugsets','bosch professional', ]
 actualPrice: 76.29 EUR
 currency: EUR
 price: 76.29
@@ -27,10 +28,10 @@ Sie können [Bosch Professional Magazinaufsatz für Bosch Trockenbauschrauber zu
 
 ℹ️:
 
+- Komfortables dauerhaftes Arbeiten durch ergonomische Bauweise und geringes Gewicht
+- Langlebig durch offene Bauweise, um Staubablagerungen im Magazinaufsatz zu vermeiden
 - Geeignet für GSR 6-25 TE, GSR 6-45 TE und GSR 18 V-EC TE Professional
 - Lieferumfang: Bosch Professional Magazinaufsatz für Bosch Trockenbauschrauber zum Nachrüsten, Karton
 - Effizienz zum Nachrüsten: der Magazinaufsatz für Bosch-Trockenbauschrauber
-- Komfortables dauerhaftes Arbeiten durch ergonomische Bauweise und geringes Gewicht
-- Langlebig durch offene Bauweise, um Staubablagerungen im Magazinaufsatz zu vermeiden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005TOOBPM/?tag=tolees0ca-21)

@@ -5,9 +5,10 @@ date: 2021-03-14 13:57:59
 image: 'https://m.media-amazon.com/images/I/51DvWriETdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ED44II4-de Borgia - Staffel 2 [Blu-ray] [Director s Cut]'
 sku: 'B00ED44II4-de'
+tags: [ 'Blu-ray','DVD & Blu-ray','Drama','Featured Categories','Historienfilm','Serien & TV-Produktionen', ]
 actualPrice: 10.56 EUR
 currency: EUR
 price: 10.56

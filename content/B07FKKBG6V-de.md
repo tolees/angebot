@@ -5,9 +5,10 @@ date: 2021-03-14 18:34:25
 image: 'https://m.media-amazon.com/images/I/31ZP5oSMKUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKKBG6V-de Nike Damen W NP Tight Sport Trousers Black/ White S'
 sku: 'B07FKKBG6V-de'
+tags: [ 'Fitness','Fitness-Bekleidung','Fitness-Bekleidung für Damen','Fitness-Hosen für Damen','Sport','Sport & Freizeit','nike', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95
@@ -27,8 +28,8 @@ Es gibt ein [Nike Damen W NP Tight Sport Trousers  Black/ White   S](https://www
 
 ℹ️:
 
+- Slim Fit
 - Elastic Belt
 - Nike Dry fabric
-- Slim Fit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FKKBG6V/?tag=tolees0ca-21)

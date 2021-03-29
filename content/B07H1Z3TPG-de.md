@@ -5,9 +5,10 @@ date: 2021-03-14 18:30:03
 image: 'https://m.media-amazon.com/images/I/31WZOZupmsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H1Z3TPG-de Freddy Damen Wrup1rc001 Hose Schwarz Black N0 38...'
 sku: 'B07H1Z3TPG-de'
+tags: [ 'Bekleidung','Damenbekleidung','Leggings für Damen','freddy', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

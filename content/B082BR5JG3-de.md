@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BR5JG3-de LEGO 21163 Minecraft Das Redstone-Kräftemessen Set mit...'
 sku: 'B082BR5JG3-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 36.26 EUR
 currency: EUR
 price: 36.26
@@ -27,10 +28,10 @@ Sie können [LEGO 21163 Minecraft Das Redstone-Kräftemessen Set mit Golem und M
 
 ℹ️:
 
-- Das bewegliche Redstone-Monster ist 16 cm groß
 - Das Spielset bringt das unterhaltsame Onlinespiel „Minecraft Dungeons“ in die echte Welt
 - Ein riesiges Redstone-Monster und ein Redstone-Golem bieten spannende Action
 - Das vielseitige Spielset ist ein tolles Geburtstagsgeschenk für Kinder ab 8 Jahren
+- Das bewegliche Redstone-Monster ist 16 cm groß
 - Enthält 4 Minecraft Helden sowie ein Redstone-Monster und einen Redstone-Golem
 
 [🛒 Hier!!](https://www.amazon.de/dp/B082BR5JG3/?tag=tolees0ca-21)

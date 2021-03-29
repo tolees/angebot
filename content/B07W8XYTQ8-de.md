@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8XYTQ8-de LEGO 41394 Friends Krankenhaus von Heartlake City Spielset...'
 sku: 'B07W8XYTQ8-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 41.84 EUR
 currency: EUR
 price: 41.84
@@ -27,10 +28,10 @@ Es gibt ein [LEGO 41394 Friends Krankenhaus von Heartlake City  Spielset mit Emm
 
 ℹ️:
 
-- Das Spielset bietet ein 3-stöckiges offenes Gebäude mit drei Spielbereichen: einer Aufnahme, einem Untersuchungszimmer, einem Aufwachraum und einem Dachgarten
-- Auch Schokolade, Ballon und eine Banane ist enthalten. Hoppla, Ethan ist gerade hingefallen, er hat sich das Bein gebrochen und muss zum Krankenwagen gebracht werden
-- Mit dem Spielset können Kinder in die Rolle einer Ärztin, eines Patienten oder der Besucherin Emma schlüpfen, Alltagssituationen nachstellen und gleichzeitig Empathie entwickeln
 - Inklusive Spielzeug-Krankenwagen mit Platz für einen Patienten und einer Trage, einem Rollstuhl und medizinischem Zubehör für Spieloptionen
 - Enthält drei Spielfiguren Emma, Ethan und Dr. Maria sowie ein aufbaubares Röntgengerät, Mikroskop, Verband, Stethoskop, Spritze und Thermometer
+- Das Spielset bietet ein 3-stöckiges offenes Gebäude mit drei Spielbereichen: einer Aufnahme, einem Untersuchungszimmer, einem Aufwachraum und einem Dachgarten
+- Mit dem Spielset können Kinder in die Rolle einer Ärztin, eines Patienten oder der Besucherin Emma schlüpfen, Alltagssituationen nachstellen und gleichzeitig Empathie entwickeln
+- Auch Schokolade, Ballon und eine Banane ist enthalten. Hoppla, Ethan ist gerade hingefallen, er hat sich das Bein gebrochen und muss zum Krankenwagen gebracht werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W8XYTQ8/?tag=tolees0ca-21)

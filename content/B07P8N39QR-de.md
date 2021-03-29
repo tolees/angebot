@@ -5,9 +5,10 @@ date: 2021-03-14 18:34:12
 image: 'https://m.media-amazon.com/images/I/41WPa5tSJfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8N39QR-de Tommy Hilfiger Damen Heritage Zip-Through Hoodie...'
 sku: 'B07P8N39QR-de'
+tags: [ 'Bekleidung','Damenbekleidung','Kapuzenpullover für Damen','Sweatshirts & Kapuzenpullover für Damen','tommy hilfiger', ]
 actualPrice: 96.39 EUR
 currency: EUR
 price: 96.39
@@ -27,8 +28,8 @@ Sie können [Tommy Hilfiger Damen Heritage Zip-Through Hoodie Kapuzenpullover  B
 
 ℹ️:
 
-- Material: 64% Baumwolle, 36% Polyester
 - Pflegehinweise: Spezialschonwaschgang 30 Grad; Bügeln mit geringer Temperatur; Trommeltrocknen bei niedriger Temperatur; Bleichen mit Sauerstoff erlaubt; nicht chemisch reinigen
+- Material: 64% Baumwolle, 36% Polyester
 - Teile tierischen Ursprungs: Nein
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07P8N39QR/?tag=tolees0ca-21)

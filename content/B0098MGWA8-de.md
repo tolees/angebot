@@ -28,11 +28,11 @@ Es gibt ein [Netatmo Smarte Wetterstation - WLAN  Funk  Innen- und Außensensor 
 
 ℹ️:
 
-- VORHERSAGEN FUR DIE ZUKUNFT: Schauen Sie die Vorhersagen für die nächsten 7 Tage an und passen Sie Ihre Kleidung und Ihre Aktivitäten an das kommende Wetter an
-- MESSUNG DER UMGEBUNGSTEMPERATUR INNEN UND AUSSEN IN ECHZEIT: Temperatur, Luftfeuchtigkeit, Luftqualität innen und außen, Lärmpegel innen, Luftdruck
 - NETATMO HILFE: Wenn Sie bei der Installation oder Anwendung Ihres Produktes Unterstützung benötigen, können Sie unser Hilfs-Menü unter helpcenter.netatmo.com/de aufrufen oder uns an contact-amazon@netatmo.com schreiben
+- MESSUNG DER UMGEBUNGSTEMPERATUR INNEN UND AUSSEN IN ECHZEIT: Temperatur, Luftfeuchtigkeit, Luftqualität innen und außen, Lärmpegel innen, Luftdruck
 - ANALYSE DER MESSWERTE: Sie bekommen Zugriff auf die Messwerte und können so über die Analyse von Grafiken Wetteränderungen besser verstehen
-- WARNMELDUNGEN IN ECHZEIT: Mit unserer Wetterstation können Sie Warnmeldungen für innen und außen konfigurieren, die Sie dann auf Ihr Smartphone bekommen. Dank dem Belüftungsalarm wissen Sie immer, wenn gelüftet werden muss
 - GREIFEN SIE PER SPRACHSTEUERUNG VON JEDEM ORT AUS AUF IHRE DATEN ZU: Sie können jederzeit Ihre Wetterdaten einsehen. Nutzen Sie dazu Ihr Smartphone, Ihr Tablet, Ihren Computer oder Ihre Stimme. Mit Alexa, über Amazon Echo, und mit Siri, dank der Kompatibilität mit dem Apple HomeKit, ist eine Sprachsteuerung möglich
+- WARNMELDUNGEN IN ECHZEIT: Mit unserer Wetterstation können Sie Warnmeldungen für innen und außen konfigurieren, die Sie dann auf Ihr Smartphone bekommen. Dank dem Belüftungsalarm wissen Sie immer, wenn gelüftet werden muss
+- VORHERSAGEN FUR DIE ZUKUNFT: Schauen Sie die Vorhersagen für die nächsten 7 Tage an und passen Sie Ihre Kleidung und Ihre Aktivitäten an das kommende Wetter an
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0098MGWA8/?tag=tolees0ca-21)

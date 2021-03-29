@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WY88LT3-de Lenovo Yoga Smart Tab 25 5 cm 10 1 Zoll 1920x1200 Full HD...'
 sku: 'B07WY88LT3-de'
+tags: [ 'Computer & Zubehör','Tablet PCs','lenovo', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0
@@ -27,10 +28,10 @@ Sie können [Lenovo Yoga Smart Tab 25 5 cm  10 1 Zoll  1920x1200  Full HD  WideV
 
 ℹ️:
 
-- Vier flexible Anwendungs-Modes: Hold, Hang, Stand und Tilt, Smart Tablet mit Google Assistant
-- Lieferumfang: Lenovo Yoga Smart Tab, Schwarz, Netzteil, USB-C-Kabel, Dokumentation
 - JBL-Stereo-Lautsprecher mit Dolby Atmos, 5 MP Selfiekamera, 8 MP Hauptkamera
 - Prozessor: Qualcom Snapdragon 439 (Octa-Core, 2,0 GHz)
+- Lieferumfang: Lenovo Yoga Smart Tab, Schwarz, Netzteil, USB-C-Kabel, Dokumentation
 - Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter "Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Vier flexible Anwendungs-Modes: Hold, Hang, Stand und Tilt, Smart Tablet mit Google Assistant
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WY88LT3/?tag=tolees0ca-21)

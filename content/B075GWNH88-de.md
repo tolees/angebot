@@ -28,10 +28,10 @@ Es gibt ein [LEGO 10714 Classic Blaue Bauplatte  25 cm x 25 cm/ Modulgröße: 32
 
 ℹ️:
 
-- Baue deine eigene Stadt am Meer oder einen sonnigen Pool, schippere über die hohe See oder was dir sonst so einfällt
 - Modulgröße: 32x32; 25 cm breit und 25 cm lang
-- Lass deiner Kreativität freien Lauf mit den LEGO Classic Sets
+- Baue deine eigene Stadt am Meer oder einen sonnigen Pool, schippere über die hohe See oder was dir sonst so einfällt
 - Dieses kreative Unterhaltungsspielzeug ist für Kinder im Alter von vier bis 99 Jahren geeignet
+- Lass deiner Kreativität freien Lauf mit den LEGO Classic Sets
 - Eine echte Bereicherung für jede LEGO Sammlung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B075GWNH88/?tag=tolees0ca-21)

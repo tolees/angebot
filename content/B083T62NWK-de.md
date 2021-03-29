@@ -5,9 +5,10 @@ date: 2021-03-13 06:05:15
 image: 'https://m.media-amazon.com/images/I/41b11UGGCGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083T62NWK-de Triumph Damen Fit Smart P01 EX Gepolsterter BH BLACK 1'
 sku: 'B083T62NWK-de'
+tags: [ '60362031','Bekleidung','Damen','Damen-BHs','Damenbekleidung','Dessous, Nacht- & Lounge-Wäsche für Damen','Klassische BHs für Damen','Produkte','Unterwäsche & Dessous für Damen','triumph', ]
 actualPrice: 34.92 EUR
 currency: EUR
 price: 34.92

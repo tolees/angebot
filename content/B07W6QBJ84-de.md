@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6QBJ84-de Lego Ninjago - LEGO 71700 NINJAGO Legacy Lloyds...'
 sku: 'B07W6QBJ84-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego ninjago', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49
@@ -27,10 +28,10 @@ Es gibt ein [Lego Ninjago - LEGO 71700 NINJAGO Legacy Lloyds Dschungelräuber Au
 
 ℹ️:
 
+- Verfügt über einen fantastischen Buggy mit integrierter Federung und großen Gummireifen, mit denen Lloyd sich durch das Dschungelgelände bewegen, Rennen fahren oder kämpfen kann
 - Enthält goldene Katanas für den Turnierkampf, andererseits können Kinder mit diesem coolen Rennkampfwagen Rennen veranstalten – garantiert endloser Spaß inklusive
 - Enthält eine Lloyd-Minifigur, um aufregende Action-Kampfszenen aus dem Turnier der Elemente der vierten Staffel der NINJAGO-TV-Serie nachzubilden
-- Der Buggy verfügt über eine coole Federung, die Kinder nach unten drücken und zusehen können, wie er aufspringt. Zusätzlich hat er hinten einen Spoiler und eine doppelte Feuerwaffe
 - Die digitale Anleitung Instructions PLUS in der kostenlosen LEGO-Life-App bietet Modi wie Heranzoomen, Drehen und Anzeigen von Modellen, mit denen Kinder Selbstvertrauen aufbauen und gewinnen können
-- Verfügt über einen fantastischen Buggy mit integrierter Federung und großen Gummireifen, mit denen Lloyd sich durch das Dschungelgelände bewegen, Rennen fahren oder kämpfen kann
+- Der Buggy verfügt über eine coole Federung, die Kinder nach unten drücken und zusehen können, wie er aufspringt. Zusätzlich hat er hinten einen Spoiler und eine doppelte Feuerwaffe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W6QBJ84/?tag=tolees0ca-21)

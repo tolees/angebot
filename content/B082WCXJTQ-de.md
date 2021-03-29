@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WCXJTQ-de LEGO 76167 Super Heroes Marvel Avengers Iron Mans Arsenal...'
 sku: 'B082WCXJTQ-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52
@@ -28,9 +29,9 @@ Es gibt ein [LEGO 76167 Super Heroes Marvel Avengers Iron Mans Arsenal Set  Erwe
 ℹ️:
 
 - Inspiriert zu spannenden Superheldenabenteuern und bereichert als spektakuläres Schaustück jedes Kinderzimmer
-- Ein facettenreiches Superhelden-Spielset, mit dem Kinder Iron Mans Abenteuer selbst nachspielen können
-- Dank der coolen Ausrüstung können Kinder richtig kreativ werden, um die Bösewichte zu verscheuchen
-- Ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder ab 7 Jahren
 - Enthält Tony Stark als Minifigur, 2 Iron Man-Rüstungen und einen megastarken Hot Rod
+- Ein facettenreiches Superhelden-Spielset, mit dem Kinder Iron Mans Abenteuer selbst nachspielen können
+- Ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder ab 7 Jahren
+- Dank der coolen Ausrüstung können Kinder richtig kreativ werden, um die Bösewichte zu verscheuchen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082WCXJTQ/?tag=tolees0ca-21)

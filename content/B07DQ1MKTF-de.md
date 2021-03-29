@@ -5,9 +5,10 @@ date: 2021-03-12 13:27:39
 image: 'https://m.media-amazon.com/images/I/31yRUTuUucL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQ1MKTF-de LG Electronics SPK8 Lautsprecher-Systeme Schwarz'
 sku: 'B07DQ1MKTF-de'
+tags: [ 'Elektronik & Foto','Hifi & Audio','Hifi-Lautsprecher','Lautsprecher-Systeme','lg electronics', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0
@@ -27,8 +28,8 @@ Sie können [LG Electronics SPK8 Lautsprecher-Systeme Schwarz](https://www.amazo
 
 ℹ️:
 
-- Kompatibel mit den LG Soundbars SK10Y und SK9Y
 - Kabellose Verbindung zur Soundbar
+- Kompatibel mit den LG Soundbars SK10Y und SK9Y
 - 2.0 140 Watt Rücklautsprecher Set
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DQ1MKTF/?tag=tolees0ca-21)

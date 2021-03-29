@@ -5,9 +5,10 @@ date: 2021-03-15 14:03:45
 image: 'https://m.media-amazon.com/images/I/51zFrZ-OruL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDBGKPG-de Lego Minecraft - LEGO 21154 Minecraft Die Brücke Bauset...'
 sku: 'B07NDBGKPG-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego minecraft', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
@@ -27,10 +28,10 @@ Sie können [Lego Minecraft - LEGO 21154 Minecraft Die Brücke  Bauset mit Alex-
 
 ℹ️:
 
-- Brich auf zur Brücke mit fliegenden Lohen und Steinschlag, brennender Lava-, Magma-, Seelensand-, Glowstone-, Kies- und Netherquarz-Blöcken, 2 Tränken und einer Truhe mit einem Schatz
-- Für noch mehr kreativen Bauspaß kann das LEGO Minecraft Set Die Brücke (21154) zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
-- 370 Teile – Für Mädchen und Jungen ab 8 Jahren, für Fans und für große Kinder jedes Alters
 - Das Modell ist 11 cm hoch, 25 cm breit und 13 cm tief
 - Das Bauset von LEGO Minecraft zum Sammeln enthält eine Alex-Minifigur mit Minecraft-Schwert sowie ein Wither-Skelett und 2x Lohefiguren mit herumwirbelnden Ruten
+- 370 Teile – Für Mädchen und Jungen ab 8 Jahren, für Fans und für große Kinder jedes Alters
+- Für noch mehr kreativen Bauspaß kann das LEGO Minecraft Set Die Brücke (21154) zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
+- Brich auf zur Brücke mit fliegenden Lohen und Steinschlag, brennender Lava-, Magma-, Seelensand-, Glowstone-, Kies- und Netherquarz-Blöcken, 2 Tränken und einer Truhe mit einem Schatz
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NDBGKPG/?tag=tolees0ca-21)

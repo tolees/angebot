@@ -5,9 +5,10 @@ date: 2021-03-14 18:52:03
 image: 'https://m.media-amazon.com/images/I/31gyjcfQr7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0745V9BGW-de Brütting MOUNT FRAKES LOW Trekking- & Wanderhalbschuhe...'
 sku: 'B0745V9BGW-de'
+tags: [ 'Damenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Damen','Sport- & Outdoorschuhe für Damen','Trekking- & Wanderschuhe für Damen','brütting', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99
@@ -27,10 +28,10 @@ Sie können [Brütting MOUNT FRAKES LOW Trekking- & Wanderhalbschuhe Damen  Schw
 
 ℹ️:
 
+- Innensohle: herausnehmbar, Textil
 - Absatzhöhe: 0 - 3 cm
 - Passform: normal
-- Muster: Mehrfarbig
-- Innensohle: herausnehmbar, Textil
 - Schuhspitze: rund
+- Muster: Mehrfarbig
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0745V9BGW/?tag=tolees0ca-21)

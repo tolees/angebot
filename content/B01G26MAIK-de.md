@@ -28,9 +28,9 @@ Es gibt ein [Timberland Herren Classic 3-Eye Lug Bootsschuhe  Braun  Potting Soi
 
 ℹ️:
 
-- Obermaterial: Leder
 - Absatzform: Flach
 - Innenmaterial: Synthetik
+- Obermaterial: Leder
 - Sohle: Gummi
 - Verschluss: Schnürsenkel
 

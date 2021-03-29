@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008X3RW6Q-de Geox Herren U Federico W Derby Schwarz 43 EU'
 sku: 'B008X3RW6Q-de'
+tags: [ 'Herren-Schnürhalbschuhe','Herrenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','geox', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

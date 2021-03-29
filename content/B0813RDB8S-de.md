@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813RDB8S-de LEGO 71704 NINJAGO Legacy Kais Super-Jet Spielset mit...'
 sku: 'B0813RDB8S-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99
@@ -28,9 +29,9 @@ Es gibt ein [LEGO 71704 NINJAGO Legacy Kais Super-Jet Spielset mit Nindroid-Jäg
 ℹ️:
 
 - Dieses LEGO NINJAGO Set enthält Kais Super-Jet, 2 Ninja und 2 Nindroid-Jäger als Figuren aus der 3. Staffel der TV-Serie. Kinder, die Ninja-Spielzeuge mögen, werden sich an dem Spielvergnügen erfreuen und können sogar Freunde mitspielen lassen
-- Dieses 513-teilige NINJAGO Legacy Set stellt Jungen und Mädchen ab 8 Jahren vor eine unterhaltsame Bauherausforderung und ist ein tolles Geburtstags- oder Weihnachtsgeschenk. Dieses Ninja-Set inspiriert NINJAGO Fans zu stundenlangem Spielvergnügen
-- Das coole Spielset enthält einen Ninja-Jet sowie 2 Ninja und 2 Nindroid-Jäger mit Nindroid-Shooter als Actionfiguren. Es ist alles vorhanden, um Kinder den Actionspaß aus der NINJAGO TV-Serie „Meister des Spinjitzu“ nachstellen zu lassen
 - Eine Version von „Kais Super-Jet“ mit Schwenkflügeln, verstellbarem Cockpit und zwei Shootern mit Federmechanismus. Wenn das Modell nicht gerade für spannende Action benötigt wird, können die Kinder es als Schaustück im Kinderzimmer aufstellen
+- Das coole Spielset enthält einen Ninja-Jet sowie 2 Ninja und 2 Nindroid-Jäger mit Nindroid-Shooter als Actionfiguren. Es ist alles vorhanden, um Kinder den Actionspaß aus der NINJAGO TV-Serie „Meister des Spinjitzu“ nachstellen zu lassen
+- Dieses 513-teilige NINJAGO Legacy Set stellt Jungen und Mädchen ab 8 Jahren vor eine unterhaltsame Bauherausforderung und ist ein tolles Geburtstags- oder Weihnachtsgeschenk. Dieses Ninja-Set inspiriert NINJAGO Fans zu stundenlangem Spielvergnügen
 - Dieses LEGO NINJAGO Legacy Set besitzt die ideale Größe, um Kinder daheim oder unterwegs zu beschäftigen. Der Spielzeug-Jet ist 13 cm hoch, 34 cm lang und 43 cm breit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0813RDB8S/?tag=tolees0ca-21)

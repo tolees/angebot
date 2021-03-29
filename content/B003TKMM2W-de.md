@@ -5,9 +5,10 @@ date: 2021-03-15 07:26:01
 image: 'https://m.media-amazon.com/images/I/41-xMrMLAqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TKMM2W-de Bosch Professional - Bosch HSS-Holzbohrersatz 7-tlg....'
 sku: 'B003TKMM2W-de'
+tags: [ '2752431031','Baumarkt','Bohren','Bohrersets','Bosch Zubehör','Elektro- & Handwerkzeuge','Holzbohrer','Holzbohrer-Sets mit Sechskantschaft','Holzspiralbohrer','Produkte','Zubehör für Elektrowerkzeuge','bosch professional', ]
 actualPrice: 12.93 EUR
 currency: EUR
 price: 12.93
@@ -27,8 +28,8 @@ Es gibt ein [Bosch Professional - Bosch HSS-Holzbohrersatz 7-tlg. Sechskantschaf
 
 ℹ️:
 
+- Geeignet für harte und weiche Hölzer
 - Bohrer mit Zentrierspitze
 - Extrem scharfe Bohrwerkzeuge für präzise, ausrissfreie Bohrungen
-- Geeignet für harte und weiche Hölzer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003TKMM2W/?tag=tolees0ca-21)

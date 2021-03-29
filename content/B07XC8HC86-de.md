@@ -28,8 +28,8 @@ Es gibt ein [Astragon - Landwirtschafts-Simulator 20 - [Nintendo Switch]](https:
 
 ℹ️:
 
+- Kümmern Sie sich um Ihre Tiere, darunter Schweine, Kühe, Schafe und Pferde
 - Erkunden Sie die weitläufige, amerikanische Spielwelt auf dem Rücken der Pferde
 - Fahren und benutzen Sie über 100 authentische Fahrzeuge und Werkzeuge, darunter John Deere
-- Kümmern Sie sich um Ihre Tiere, darunter Schweine, Kühe, Schafe und Pferde
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XC8HC86/?tag=tolees0ca-21)

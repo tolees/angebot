@@ -28,10 +28,10 @@ Es gibt ein [Jacobs Filterkaffee Meisterröstung  500 g gemahlener Kaffee](https
 
 ℹ️:
 
+- Stimulierender Kaffee, der neuen Schwung verleiht
+- Ein kräftiger Kaffee für alle Momente des Lebens
 - Intensität 5 von 5 Bohnen
 - Sorgfältig aufeinander abgestimmte Kaffeesorten verleihen dieser Mischung ihr vollendet kräftiges Aroma
 - 1 x 500 g gemahlener Kaffee
-- Ein kräftiger Kaffee für alle Momente des Lebens
-- Stimulierender Kaffee, der neuen Schwung verleiht
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XSHGMDL/?tag=tolees0ca-21)

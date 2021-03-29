@@ -30,8 +30,8 @@ Es gibt ein [PLAYMOBIL Pirates 70506 Spielbox "Piratenabenteuer"  Ab 4 Jahren](h
 
 - Täglich bespielbar: Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielspaß unterwegs: PLAYMOBIL Spielbox "Piratenabenteuer" mit Pirat, Soldat, variabler Gitterwand, Kanone, Schatz uvm. für detailgetreues Nachspielen
-- Lieferumfang: 1x PLAYMOBIL Pirates Spielbox "Piratenabenteuer", 53-teiliges Spielfiguren-Set mit Anleitung: 1 Spielbox, 2 Figuren, 50 Zubehörteile, Material: Kunststoff, LxTxH: geschlossen ca. 13x8x16 cm, aufgebaut ca. 25x6,5x16 cm, Gewicht: 288 g, 70506
 - Clevere Box mit Stauraum für die Einzelteile, Zwei Türen mit Einrast-Mechanismus zum sicheren Verschließen der Box, Tragegriff zum einfachen Mitnehmen
+- Lieferumfang: 1x PLAYMOBIL Pirates Spielbox "Piratenabenteuer", 53-teiliges Spielfiguren-Set mit Anleitung: 1 Spielbox, 2 Figuren, 50 Zubehörteile, Material: Kunststoff, LxTxH: geschlossen ca. 13x8x16 cm, aufgebaut ca. 25x6,5x16 cm, Gewicht: 288 g, 70506
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KVV8PMV/?tag=tolees0ca-21)

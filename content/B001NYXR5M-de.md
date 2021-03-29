@@ -5,9 +5,10 @@ date: 2021-03-14 13:47:21
 image: 'https://m.media-amazon.com/images/I/51AOs38btQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NYXR5M-de KS Tools 911.0106 Vergrößerungs- und Reduzieradapter-Satz...'
 sku: 'B001NYXR5M-de'
+tags: [ 'Baumarkt','Elektro- & Handwerkzeuge','Handwerkzeuge','Steckschlüsseleinsätze & Steckschlüsselsätze','Steckschlüsselsätze','ks tools', ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26
@@ -27,10 +28,10 @@ Sie können [KS Tools 911.0106 Vergrößerungs- und Reduzieradapter-Satz  6-tlg.
 
 ℹ️:
 
-- Innenvierkant nach DIN 3120 / ISO 1174 mit Kugelfangrille
-- matt satiniert
-- für Handbetätigung
 - Chrom Vanadium
+- matt satiniert
 - Vierkantantrieb nach DIN 3120 / ISO 1174 mit Kugelarretierung
+- Innenvierkant nach DIN 3120 / ISO 1174 mit Kugelfangrille
+- für Handbetätigung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001NYXR5M/?tag=tolees0ca-21)

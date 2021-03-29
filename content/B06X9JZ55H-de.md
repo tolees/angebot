@@ -30,8 +30,8 @@ Sie können [Bosch Home and Garden - Bosch Akku Heckenschere AdvancedHedgeCut 36
 
 - Die Advanced Werkzeuge von Bosch – Beste Leistung für die höchsten Ansprüche und umfangreiche Projekte
 - Sauberes und effizientes Schneiden dank integriertem Anti-Blockier-System
-- Lieferumfang: AdvancedHedgeCut 36, Akku (2,0 Ah), Ladegerät, Karton (3165140884068)
 - Die Akku Heckenschere AdvancedHedgeCut 36 für kabellose Mobilität und kraftvolles Schneiden
 - Effizientes Energie-Management und optimale Akkulaufzeit durch Bosch Syneon-Chip Technologie
+- Lieferumfang: AdvancedHedgeCut 36, Akku (2,0 Ah), Ladegerät, Karton (3165140884068)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06X9JZ55H/?tag=tolees0ca-21)

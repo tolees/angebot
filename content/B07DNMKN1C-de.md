@@ -5,9 +5,10 @@ date: 2021-03-15 13:24:39
 image: 'https://m.media-amazon.com/images/I/415Xh8K1S4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNMKN1C-de Tumi Voyageur Carson Backpack Rucksack 43 cm Black'
 sku: 'B07DNMKN1C-de'
+tags: [ 'Daypacks','Koffer, Rucksäcke & Taschen','Rucksäcke','tumi', ]
 actualPrice: 192.5 EUR
 currency: EUR
 price: 192.5

@@ -28,10 +28,10 @@ Sie können [tech rc Drohne mit Kamera HD FPV RC Mini Drone mit 2 Akkus 2.4Ghz F
 
 ℹ️:
 
-- 16 MINUTEN LANGE FLUGZEIT MIT DUAL AKKUS: Mini Drohne mit 2 wiederaufladbare modulare Akkus für 16 Minuten Flugzeit. Akku wird einfach über das mitgelieferte USB-Ladekabel geladen.
-- KAMERA DROHNE MIT MULTI-FUNKTION: Mit Höhensensor, Headless Modus, Eine Taste Start/Landung, Not-Halt, 3 Geschwindigkeit, G-Sensor und modernem 6-Axis-Stabilisierungssystem ist mini Drohne einfach zu bedienen.
-- 360 GRAD 3D FLIPS: 4-Wege kippen Flip (links, rechts, vorwärts, rückwärts). Eine gute Wahl für eine wunderbare Flugshow. Auch trainieren Sie die Kontrollfähigkeit der Kinder, die Augen- und Handkoordination.
 - PERFEKTES GESCHENK FÜR KINDER: Eignet mini Drohne mit Kamera sich perfekt als Geschenk zu Ostern, Kindertag, Geburtstag, Halloween und Weihnachten usw. Bei Qualitätsproblemen wenden Sie sich bitte an den Kundendienst.
+- 360 GRAD 3D FLIPS: 4-Wege kippen Flip (links, rechts, vorwärts, rückwärts). Eine gute Wahl für eine wunderbare Flugshow. Auch trainieren Sie die Kontrollfähigkeit der Kinder, die Augen- und Handkoordination.
+- KAMERA DROHNE MIT MULTI-FUNKTION: Mit Höhensensor, Headless Modus, Eine Taste Start/Landung, Not-Halt, 3 Geschwindigkeit, G-Sensor und modernem 6-Axis-Stabilisierungssystem ist mini Drohne einfach zu bedienen.
 - HD KAMERA FPV LIVE ÜBERTRAGUNG: Mit der FPV-Bildübertragung können Sie den Himmel und die Welt von einem Live-Video-Feed über die Smartphone/App sehen. Foto und Video aufzunehmen.
+- 16 MINUTEN LANGE FLUGZEIT MIT DUAL AKKUS: Mini Drohne mit 2 wiederaufladbare modulare Akkus für 16 Minuten Flugzeit. Akku wird einfach über das mitgelieferte USB-Ladekabel geladen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SW3YYTQ/?tag=tolees0ca-21)

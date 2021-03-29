@@ -5,9 +5,10 @@ date: 2021-03-14 06:18:15
 image: 'https://m.media-amazon.com/images/I/316keeBSIIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3KC5CP-de Xiaomi Mi Box S EU Version 4K Ultra HD Media Player mit...'
 sku: 'B07K3KC5CP-de'
+tags: [ 'Elektronik & Foto','Hifi & Audio','Media-Streaming','Media-Streaming-Clients','xiaomi', ]
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45
@@ -27,9 +28,9 @@ Sie können [Xiaomi Mi Box S  EU Version  4K Ultra HD Media Player mit Google As
 
 ℹ️:
 
-- Dolby + DTS Sound | HDMI 2.0a | Bluetooth 4.2 | USB 2.0 | AV-Ausgang 3, 5 mm |
+- Cortex-A53 Quad-Core 64 bit | 2 GB DDR3 RAM | 8 GB eMMC 5.0 High-Speed Flash
 - WLAN Wi-Fi: 802.11a/b/g/n/ac 2.4GHz/5GHz| Bluetooth-Fernbedienung mit Sprachsteuerung | Wireless Screen Mirroring
 - 4K Ultra HD Streaming Media Player (3.840 x 2.160)
-- Cortex-A53 Quad-Core 64 bit | 2 GB DDR3 RAM | 8 GB eMMC 5.0 High-Speed Flash
+- Dolby + DTS Sound | HDMI 2.0a | Bluetooth 4.2 | USB 2.0 | AV-Ausgang 3, 5 mm |
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07K3KC5CP/?tag=tolees0ca-21)

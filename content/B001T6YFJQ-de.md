@@ -29,10 +29,10 @@ Es gibt ein [NESCAFÉ CLASSIC löslicher Bohnenkaffee  mitteldunkel geröstete K
 ℹ️:
 
 - Zubereitung: 1 bis 2 Teelöffel pro Tasse mit heißem Wasser aufgießen, kurz umrühren und fertig ist höchster Kaffeegenuss
-- Lieferumfang: 1 x 200g CLASSIC löslicher Bohnenkaffee von Nescafé
-- Dank der Doppelfilterung werden die feinen Kaffeearomen bewahrt und gleichzeitig Bitterstoffe ausgefiltert
 - Das spezielle Glas mit Aromaschutzdeckel schützt das Kaffeepulver vor äußeren Einflüssen und hält es frisch und lecker, bis zum letzten Löffel
 - Hochwertige Kaffeebohnen werden gemischt und geröstet, bis sie den unverkennbaren Geschmack von NESCAFÉ CLASSIC ergeben
+- Dank der Doppelfilterung werden die feinen Kaffeearomen bewahrt und gleichzeitig Bitterstoffe ausgefiltert
 - Mit seinem kräftigen Geschmack und dem vollmundigen Aroma überzeugt einer der beliebtesten Kaffees von Nestlé Kaffeeliebhaber jeden Morgen auf´s Neue
+- Lieferumfang: 1 x 200g CLASSIC löslicher Bohnenkaffee von Nescafé
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001T6YFJQ/?tag=tolees0ca-21)

@@ -5,9 +5,10 @@ date: 2021-03-12 13:27:00
 image: 'https://m.media-amazon.com/images/I/41UNu1gcxHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPLNH49-de Jabra Elite 85h Over-Ear Kopfhörer - Aktive Noise...'
 sku: 'B07NPLNH49-de'
+tags: [ 'Elektronik & Foto','Kopfhörer','Kopfhörer & Zubehör','Noise-Cancelling-Kopfhörer','jabra', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0
@@ -27,11 +28,11 @@ Sie können [Jabra Elite 85h Over-Ear Kopfhörer - Aktive Noise Cancellation - K
 
 ℹ️:
 
-- Automatische Anpassung an Umgebungsgeräusche: SmartSound analysiert die Umgebungsgeräusche und passt die Einstellung daran an – Mit der aktiven Geräuschunterdrückung und der HearThrough Funktion genießen Sie Sound nach Wunsch
-- Herstellergarantie: 2 Jahre. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- Unvergleichliche Anrufqualität und Langlebigkeit: 8 Mikrofone verbessern die Anrufqualität, Umgebungsgeräusche werden effektiv ausgeblendet – Zertifiziert regenbeständig und staubgeschützt
 - Besonders lange Akkulaufzeit: Mit bis zu 41 Stunden Akkulaufzeit und Schnellaufladung, können Sie mit den Elite 85h den ganzen Tag Musik genießen oder Telefonieren
 - Lieferumfang: Jabra Elite 85h Kopfhörer, Tasche, USB-C Ladekabel, Audiokabel – Gewicht: 296 g – Farbe: marineblau
+- Herstellergarantie: 2 Jahre. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Automatische Trageerkennung und Sprachsteuerung: Die Kopfhörer erkennen, wenn Sie sie auf- oder absetzten und beginnen oder unterbrechen die Musikwiedergabe – Mit einem Tastendruck aktivieren Sie den Sprachassistenten
+- Unvergleichliche Anrufqualität und Langlebigkeit: 8 Mikrofone verbessern die Anrufqualität, Umgebungsgeräusche werden effektiv ausgeblendet – Zertifiziert regenbeständig und staubgeschützt
+- Automatische Anpassung an Umgebungsgeräusche: SmartSound analysiert die Umgebungsgeräusche und passt die Einstellung daran an – Mit der aktiven Geräuschunterdrückung und der HearThrough Funktion genießen Sie Sound nach Wunsch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NPLNH49/?tag=tolees0ca-21)

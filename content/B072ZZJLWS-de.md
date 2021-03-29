@@ -28,7 +28,7 @@ Es gibt ein [Champion Herren - Classic Logo T-shirt - Grau  L](https://www.amazo
 
 ℹ️:
 
-- Kurze Ärmel
 - Großes Logo auf der Brust gedruckteses
+- Kurze Ärmel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B072ZZJLWS/?tag=tolees0ca-21)

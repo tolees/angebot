@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084R2QL6M-de G-STAR RAW Herren T-Shirt Stem Asfalt B406-995 Large'
 sku: 'B084R2QL6M-de'
+tags: [ 'Bekleidung','Herrenbekleidung','T-Shirts für Herren','Tops, T-Shirts & Hemden für Herren','g-star raw', ]
 actualPrice: 30.94 EUR
 currency: EUR
 price: 30.94
@@ -27,7 +28,7 @@ Es gibt ein [G-STAR RAW Herren T-Shirt Stem  Asfalt B406-995  Large](https://www
 
 ℹ️:
 
-- Abgerundeter Saum
 - Runder Ausschnitt
+- Abgerundeter Saum
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084R2QL6M/?tag=tolees0ca-21)

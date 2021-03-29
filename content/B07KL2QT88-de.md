@@ -28,8 +28,8 @@ Es gibt ein [Nike Herren FLC TM CLUB19 Sport Trousers  grau  M](https://www.amaz
 
 ℹ️:
 
-- Tapered Fit
 - Elastic waistband with lanyard
 - Dri-fit Technology
+- Tapered Fit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KL2QT88/?tag=tolees0ca-21)

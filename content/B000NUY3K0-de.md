@@ -28,10 +28,10 @@ Es gibt ein [Gardena Sprinklersystem Verlegerohr: Zentrale Leitung für Pipeline
 
 ℹ️:
 
-- Lieferumfang: 1x Gardena Verlegerohr 25 m
-- Langlebige Qualität: Hochwertiges Material für lange Haltbarkeit, UV-stabilisiert, lichtundurchlässig, alterungs- und witterungsfest
-- Zentrale Versorgungsleitung: Das Gardena Verlegerohr ist die zentrale Leitung eines Gardena Sprinklersystems oder der Gardena Pipeline
-- Technische Daten: 25 m Länge, 25 mm Außendurchmesser, max. 6 bar Betriebsdruck
 - Flexibel einsetzbar: Je nach Bedarf kann das Rohr ober- oder unterirdisch verlegt werden
+- Technische Daten: 25 m Länge, 25 mm Außendurchmesser, max. 6 bar Betriebsdruck
+- Lieferumfang: 1x Gardena Verlegerohr 25 m
+- Zentrale Versorgungsleitung: Das Gardena Verlegerohr ist die zentrale Leitung eines Gardena Sprinklersystems oder der Gardena Pipeline
+- Langlebige Qualität: Hochwertiges Material für lange Haltbarkeit, UV-stabilisiert, lichtundurchlässig, alterungs- und witterungsfest
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000NUY3K0/?tag=tolees0ca-21)

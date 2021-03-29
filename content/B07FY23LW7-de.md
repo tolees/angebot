@@ -28,12 +28,12 @@ Sie können [TP-Link TL-SG116 16-Ports Gigabit Netzwerk Switch  32 Gbit/S Switch
 
 ℹ️:
 
-- Lieferumfang, TL-SG116, Schnellinstallationsanleitung, Netzteiladapter
-- 16 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
-- Plug-and-Play, keine Konfiguration notwendig
-- Metallgehäuse für Tischaufbau oder Wandmontage
 - Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
-- Green-Ethernet zum Energiesparen
+- 16 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
 - Unterstützt QoS nach IEEE802.1p sowie IGMP-Snooping
+- Plug-and-Play, keine Konfiguration notwendig
+- Green-Ethernet zum Energiesparen
+- Lieferumfang, TL-SG116, Schnellinstallationsanleitung, Netzteiladapter
+- Metallgehäuse für Tischaufbau oder Wandmontage
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FY23LW7/?tag=tolees0ca-21)

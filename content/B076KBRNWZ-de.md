@@ -5,9 +5,10 @@ date: 2021-03-13 07:19:51
 image: 'https://m.media-amazon.com/images/I/41YAwh22noL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076KBRNWZ-de Motorola Pulse Escape Audio Headset mit Bluetooth Schwarz'
 sku: 'B076KBRNWZ-de'
+tags: [ 'Bluetooth-Kopfhörer','Elektronik & Foto','Kopfhörer','Kopfhörer & Zubehör','motorola', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -5,9 +5,10 @@ date: 2021-03-15 13:10:37
 image: 'https://m.media-amazon.com/images/I/41u6JA8fE0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSHCK9O-de goobay - Fixpoint 45245 Entlötlitze 1'
 sku: 'B01MSHCK9O-de'
+tags: [ 'Baumarkt','Dochte & Litzen zum Entlöten','Elektro- & Handwerkzeuge','Entlötzubehör','Lötmaterial & Zubehör','Zubehör für Elektrowerkzeuge','goobay', ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25
@@ -27,8 +28,8 @@ Sie können [goobay - Fixpoint 45245 Entlötlitze 1](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- 1,0mm Entlötlitze auf 1,5m Spule
-- Lotsauglitze von Fixpoint mit hoher Saugfähigkeit
 - Feines Kupfergewebe zur Entfernung von Lötresten und optimalen Vorbereitung der Lötstelle
+- Lotsauglitze von Fixpoint mit hoher Saugfähigkeit
+- 1,0mm Entlötlitze auf 1,5m Spule
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MSHCK9O/?tag=tolees0ca-21)

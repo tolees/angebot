@@ -28,12 +28,12 @@ Es gibt ein [iRobot Roomba 692  WLAN-fähiger Saugroboter  Reinigungssystem mit 
 
 ℹ️:
 
-- Adaptive Navigation – Eine Reihe modernster Sensoren ermöglichen der 600-Serie unter und um Möbel sowie entlang von Kanten zu navigieren
+- Passt die Reinigung Ihrem Leben an - Lernt Ihre Reinigungsgewohnheiten kennen und schlägt Zeitpläne vor, um Ihre Anforderungen zu erfüllen. Schlägt auch Aktionen vor, an die Sie vielleicht gar nicht gedacht haben – z. B. zusätzliche Reinigungen in der Allergiesaison
 - iRobot verfügt über mehr als 30 Jahre Erfahrung mit Robotertechnologien und hat weltweit bislang mehr als 30 Millionen Hausroboter verkauft. Ob Sie sich für Roomba, Braava oder beide entscheiden - Ihre Böden erhalten die besondere Pflege, die sie brauchen
+- Reinigungssystem mit 3 Stufen – Das Reinigungssystem mit 3 Stufen nimmt Schmutz, Staub und Partikeln von Teppichen und Hartböden auf
 - Armonia Deutschland GmbH - Juli 2020 - kundenservicedesjahres.de
 - Funktioniert in Verbindung mit Ihrem Sprachassistenten – Dank der Kompatibilität mit Sprachassistenten über Google Assistant- und Alexa-fähige Geräte reinigt die e-Serie Ihr Zuhause ganz einfach per Sprachbefehl.*Ist mit Google Home- und Alexa-fähigen Geräten kompatibel*Alexa und alle zugehörigen Logos sind Warenzeichen von Amazon.com oder seinen Tochterunternehmen. Google ist eine Marke von Google LLC
 - Doppelbürste für verschiedene Oberflächen - Die Bürsten für verschiedene Oberflächen nehmen alles auf, ob kleinste Staubteilchen oder große Partikel, ob von Teppichen oder von Hartböden
-- Reinigungssystem mit 3 Stufen – Das Reinigungssystem mit 3 Stufen nimmt Schmutz, Staub und Partikeln von Teppichen und Hartböden auf
-- Passt die Reinigung Ihrem Leben an - Lernt Ihre Reinigungsgewohnheiten kennen und schlägt Zeitpläne vor, um Ihre Anforderungen zu erfüllen. Schlägt auch Aktionen vor, an die Sie vielleicht gar nicht gedacht haben – z. B. zusätzliche Reinigungen in der Allergiesaison
+- Adaptive Navigation – Eine Reihe modernster Sensoren ermöglichen der 600-Serie unter und um Möbel sowie entlang von Kanten zu navigieren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0854XVNLK/?tag=tolees0ca-21)

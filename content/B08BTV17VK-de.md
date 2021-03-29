@@ -5,9 +5,10 @@ date: 2021-03-13 06:14:56
 image: 'https://m.media-amazon.com/images/I/410hU1R2C1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTV17VK-de ASICS Herren Gt-2000 9 Laufschuhe Blue 44.5 EU'
 sku: 'B08BTV17VK-de'
+tags: [ 'Herren-Laufschuhe','Herren-Straßenlaufschuhe','Herrenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Herren','Sport- & Outdoorschuhe für Herren','asics', ]
 actualPrice: 107.11 EUR
 currency: EUR
 price: 107.11

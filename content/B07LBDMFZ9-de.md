@@ -28,8 +28,8 @@ Sie können [JACK & JONES Herren Jaclee Trunks 5 Pack Boxershorts  Surf The Web 
 
 ℹ️:
 
+- Fünferpack Unterhosen
 - Flexibler Bund
 - Glatter Stoff
-- Fünferpack Unterhosen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07LBDMFZ9/?tag=tolees0ca-21)

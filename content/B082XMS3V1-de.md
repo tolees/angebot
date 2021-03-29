@@ -5,9 +5,10 @@ date: 2021-03-13 12:34:30
 image: 'https://m.media-amazon.com/images/I/515lpvnfIFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XMS3V1-de Ravensburger Disney Villainous 26400 - Das spannende...'
 sku: 'B082XMS3V1-de'
+tags: [ 'Brettspiele','Spiele','Spielzeug','ravensburger', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79
@@ -27,10 +28,10 @@ Sie können [Ravensburger Disney Villainous 26400 - Das spannende Strategiespiel
 
 ℹ️:
 
-- Die übersichtliche Spielanleitung und ein Erklärvideo ermöglichen einen schnellen Spieleinstieg. Die Bösewicht-Handbücher mit Tipps, Besonderheiten und Fähigkeiten der Figuren helfen den Spielern, ihr böses Spielziel zu erreichen. Die Spielinhalte sind Deutsch
+- Das Spiel ist eigenständig für 2 – 3 Spieler ab 10 Jahren spielbar. Es kann auch als Erweiterung zum Grundspiel mit bis zu 6 Spielern genutzt werden. Spieldauer: 20 Minuten pro Spieler
 - Der Spieler, der am durchtriebensten seine speziellen Fähigkeiten nutzt und geschickt die Pläne seiner Mitstreiter durchkreuzt, gewinnt dieses Familienspiel mit der verdrehten Spielmoral. Wer wird zum größten Schurken aller Zeiten?
 - Ideal für den nächsten Spieleabend oder als Geschenk für Kinder: Eine Reise in die Welt der Disney Bösewichte mit den Disney Villainous Spielen von Ravensburger
+- Die übersichtliche Spielanleitung und ein Erklärvideo ermöglichen einen schnellen Spieleinstieg. Die Bösewicht-Handbücher mit Tipps, Besonderheiten und Fähigkeiten der Figuren helfen den Spielern, ihr böses Spielziel zu erreichen. Die Spielinhalte sind Deutsch
 - Bei diesem spannenden Strategiespiel kommt beim nächsten Spieleabend der wahre Bösewicht zum Vorschein
-- Das Spiel ist eigenständig für 2 – 3 Spieler ab 10 Jahren spielbar. Es kann auch als Erweiterung zum Grundspiel mit bis zu 6 Spielern genutzt werden. Spieldauer: 20 Minuten pro Spieler
 
 [🛒 Hier!!](https://www.amazon.de/dp/B082XMS3V1/?tag=tolees0ca-21)

@@ -5,9 +5,10 @@ date: 2021-03-14 00:10:36
 image: 'https://m.media-amazon.com/images/I/51zgTEK7xUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08RLSW3Z2-de LEGO Ideas Exclusiv 40448 Oldtimer Vintage Car'
 sku: 'B08RLSW3Z2-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

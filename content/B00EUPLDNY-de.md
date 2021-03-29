@@ -28,10 +28,10 @@ Es gibt ein [Lavazza Kaffeebohnen - Crema E Gusto - 1er Pack  1 x 1 kg ](https:/
 
 ℹ️:
 
-- Original italienisch von der Numero Uno aus Italien
 - Perfekt als Caffé Crema, als Basis für puren Espresso-Genuss oder für alle Caffé-Milch-Variationen
 - Aromatischer und harmonischer Geschmack
-- Geeignet für alle Vollautomaten
 - Der beliebte Klassiker basierend auf über 100-jähriger Erfahrung aus dem Hause Lavazza
+- Geeignet für alle Vollautomaten
+- Original italienisch von der Numero Uno aus Italien
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EUPLDNY/?tag=tolees0ca-21)

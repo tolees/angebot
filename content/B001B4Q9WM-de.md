@@ -28,9 +28,9 @@ Sie können [NIGRIN 74115 Haftgrund-Spray   Grau  400 ml](https://www.amazon.de/
 
 ℹ️:
 
+- Schnelltrocknend
 - Universell anwendbar
 - Inhalt: 400ml
-- Schnelltrocknend
 - Waschanlagen- und Wetter fest
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001B4Q9WM/?tag=tolees0ca-21)

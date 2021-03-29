@@ -5,9 +5,10 @@ date: 2021-03-13 18:28:14
 image: 'https://m.media-amazon.com/images/I/31bYNpxGoWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M87CZ8P-de ONLY Damen Onlroyal Hw Sk Bb Bj13333 Noos Jeans Light Blue...'
 sku: 'B07M87CZ8P-de'
+tags: [ 'Bekleidung','Damen-Jeanshosen','Damenbekleidung','only', ]
 actualPrice: 25.21 EUR
 currency: EUR
 price: 25.21

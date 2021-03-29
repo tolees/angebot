@@ -28,11 +28,11 @@ Es gibt ein [Biff Bad Total Spritzige Zitrone  Badreiniger  8 x 750 ml  Sprühfl
 
 ℹ️:
 
-- Durch die praktische Schaum- und Sprühfunktion lässt sich Biff ganz einfach anwenden, Einsprühen, einwirken lassen, abspülen - fertig
 - Biff Bad Total Spritzige Zitrone ist extra kraftvoll gegen Kalk und Verschmutzungen und verbreitet einen angenehmen Zitrus-Duft, der für eine langanhaltende Frische sorgt
 - Mit dem praktischen Nachfüllbeutel können Sie Biff Bad Total wieder ganz einfach auffüllen; schonen Sie die Umwelt und Ihren Geldbeutel, da der Nachfüllbeutel 90 Prozent Verpackungsmaterial gegenüber der Originalflasche einspart
+- Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen
+- Durch die praktische Schaum- und Sprühfunktion lässt sich Biff ganz einfach anwenden, Einsprühen, einwirken lassen, abspülen - fertig
 - Biff Bad Total Sprizige Zitrone sorgt für einen angenehmen frischen Duft nach jeder Anwendung
 - Die kraftvolle Formel des Reinigungsmittels sorgt für hygienische Sauberkeit im ganzen Bad und beseitigt alle Arten von Kalk und Verschmutzungen
-- Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HWNNV90/?tag=tolees0ca-21)

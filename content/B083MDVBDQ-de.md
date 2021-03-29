@@ -5,9 +5,10 @@ date: 2021-03-14 06:15:36
 image: 'https://m.media-amazon.com/images/I/41yHQ2pUhAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MDVBDQ-de Funko 49933 POP Star Wars: Mandalorian-The Child w/Cup...'
 sku: 'B083MDVBDQ-de'
+tags: [ 'Chibi Figuren','Hobbys','Sammelfiguren & Requisiten','Spielzeug','funko', ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89
@@ -27,8 +28,8 @@ Sie können [Funko 49933 POP Star Wars: Mandalorian-The Child w/Cup Sammelbares 
 
 ℹ️:
 
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
 - Von Mandalorian, The Child w/cup, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083MDVBDQ/?tag=tolees0ca-21)

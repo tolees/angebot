@@ -28,15 +28,15 @@ Es gibt ein [Alco-Albert 4302-11 Buchstützen aus Metall  130 x 140 x 140 mm  1 
 
 ℹ️:
 
-- Sehr stabil
-- Auch für Kataloge und Ordner geeignet
 - sehr stabil
+- abgerundete Ecken
+- für DVDs geeignet
+- Sehr stabil
+- Pulverbeschichtet
+- für DVDs geeignet
 - auch für Kataloge und Ordner geeignet
+- Auch für Kataloge und Ordner geeignet
 - Pulverbeschichtet
 - Abgerundete Ecken
-- Pulverbeschichtet
-- für DVDs geeignet
-- für DVDs geeignet
-- abgerundete Ecken
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000MPN8CA/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [WMF Stelio Wasserkocher Edelstahl 1 7l  elektrischer Wasserkocher m
 
 ℹ️:
 
-- Gummierter, rutschfester Griff für maximalen Komfort und Sicherheit. Der Wasserkocher-Behälter besteht innen wie außen komplett aus Edelstahl
+- Kabelloser Wasserkocher mit separatem Gerätesockel inkl. Kabelaufwicklung. Herausnehmbarer, abwaschbarer Kalk-Wasserfilter
 - Inhalt: 1x Edelstahl Wasserkocher mit Kalkfilter (16 x 22,5 x 25 cm, Volumen min. 0,5 - 1,7 liter, 2400 W, Kabellänge 0,75m) - Artikelnummer: 0413020012
 - Hohe Sicherheit durch Trockenlauf- und Überhitzungsschutz, Kochstoppautomatik und Deckelverriegelung. GS geprüft
-- Kabelloser Wasserkocher mit separatem Gerätesockel inkl. Kabelaufwicklung. Herausnehmbarer, abwaschbarer Kalk-Wasserfilter
+- Gummierter, rutschfester Griff für maximalen Komfort und Sicherheit. Der Wasserkocher-Behälter besteht innen wie außen komplett aus Edelstahl
 - Der Heizvorgang kann jederzeit abgebrochen werden indem man den Wasserkocher vom Sockel nimmt. Während dem Aufheizen leuchtet die Wasserstandanzeige blau
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00A7URUOC/?tag=tolees0ca-21)

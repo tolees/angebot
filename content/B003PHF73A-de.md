@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003PHF73A-de Eastpak Benchmark Single Federmäppchen 6 cm x 20 5 cm x 7...'
 sku: 'B003PHF73A-de'
+tags: [ 'Bürobedarf & Schreibwaren','Büromaterial','Federmäppchen','Kleinteileaufbewahrung','Schreibtischzubehör & Ablage','eastpak', ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19
@@ -27,8 +28,8 @@ Sie können [Eastpak Benchmark Single Federmäppchen  6 cm x 20 5 cm x 7 5 cm  S
 
 ℹ️:
 
+- Höhe: 6 cm, Breite: 20,5 cm, Tiefe: 7,5 cm
 - Großes Innenfach mit Platz für mehr als nur Stifte
 - Aus 100 Prozent Nylon
-- Höhe: 6 cm, Breite: 20,5 cm, Tiefe: 7,5 cm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003PHF73A/?tag=tolees0ca-21)

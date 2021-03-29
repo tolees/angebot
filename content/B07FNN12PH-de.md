@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNN12PH-de LEGO 21151 Minecraft Das letzte Gefecht Bauset für Sammler'
 sku: 'B07FNN12PH-de'
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68
@@ -27,10 +28,10 @@ Es gibt ein [LEGO 21151 Minecraft Das letzte Gefecht  Bauset für Sammler](https
 
 ℹ️:
 
-- Spucke mit dem Enderdrachen Feuerbälle und bringe seinen Körper in dynamische Posen
-- Dieses Minecraft-Spielzeug umfasst ein Enderdrachen-Spielzeug mit beweglichen Gliedmaßen und eine Enderman-Figur sowie ein Minecraft-Ende-Setting mit Obsidiansäule und einem Enderkristall mit Pop-up-Funktion
-- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen und Enderman-Figur
 - Zur Ausrüstung gehört ein verzauberter Bogen
+- Dieses Minecraft-Spielzeug umfasst ein Enderdrachen-Spielzeug mit beweglichen Gliedmaßen und eine Enderman-Figur sowie ein Minecraft-Ende-Setting mit Obsidiansäule und einem Enderkristall mit Pop-up-Funktion
 - Überprüfe die Drachenjäger-Rüstung, nimm den Trank, die Enderperle und den verzauberten Bogen und sei bereit für das letzte Gefecht
+- Spucke mit dem Enderdrachen Feuerbälle und bringe seinen Körper in dynamische Posen
+- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen und Enderman-Figur
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNN12PH/?tag=tolees0ca-21)

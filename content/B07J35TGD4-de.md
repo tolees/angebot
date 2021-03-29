@@ -5,9 +5,10 @@ date: 2021-03-14 12:59:33
 image: 'https://m.media-amazon.com/images/I/51AVRQux4JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J35TGD4-de capelight pictures - Running Man - Limited Collector s...'
 sku: 'B07J35TGD4-de'
+tags: [ 'Action & Abenteuer','Blu-ray','DVD & Blu-ray','Featured Categories','Filme','Thriller','capelight pictures', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

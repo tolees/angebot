@@ -29,7 +29,7 @@ Sie können [bugatti Herren 312961014100 Derbys  Cognac  41](https://www.amazon.
 ℹ️:
 
 - Obermaterial: Leder
-- Sohle: Textil
 - Innenmaterial: Textil
+- Sohle: Textil
 
 [🛒 Hier!!](https://www.amazon.de/dp/B081VSQ3QQ/?tag=tolees0ca-21)

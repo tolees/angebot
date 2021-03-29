@@ -28,10 +28,10 @@ Es gibt ein [Original MANN-FILTER Ölfilter HU 612/2 X – Ölfilter Satz mit Di
 
 ℹ️:
 
-- Finden Sie den passenden Filter: Ersatzteil über die Auswahl von Marke, Modell, Fahrzeugtyp & Motorisierung im oberen Bereich oder auch über die Schlüsselnummern (HSN/TSN) aus den Fahrzeugpapieren
+- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
+- MANN-FILTER Ölfilter HU 612/2 x mit Dichtung / Dichtungssatz / Metallfreies Öl Filterelement / Maße: H = 103 ; A = 54; D = 56; B = 21 ; C = 25 / Premium-Filter in Erstausrüstungsqualität
 - MANN-FILTER Ölfilter-Elemente bieten nicht nur höchste Filtrationsleistung, sondern schützen den Motor zusätzlich durch eine ausgezeichnete Reinigung des Öls
 - Optimaler Schutz und Abdichtung über das gesamte Wartungsintervall - u.a. dank des individuell auf den Einsatzzweck abgestimmten Filtermediums / Metallfrei und voll veraschbar
-- MANN-FILTER Ölfilter HU 612/2 x mit Dichtung / Dichtungssatz / Metallfreies Öl Filterelement / Maße: H = 103 ; A = 54; D = 56; B = 21 ; C = 25 / Premium-Filter in Erstausrüstungsqualität
-- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
+- Finden Sie den passenden Filter: Ersatzteil über die Auswahl von Marke, Modell, Fahrzeugtyp & Motorisierung im oberen Bereich oder auch über die Schlüsselnummern (HSN/TSN) aus den Fahrzeugpapieren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00252ABNW/?tag=tolees0ca-21)

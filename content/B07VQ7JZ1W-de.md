@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HKR - Damen Walkingschuhe Turnschuhe Lau mit 15.02 % Rabatt'
-date: 2021-03-23 04:17:13
+date: 2021-03-25 18:55:31
 image: 'https://m.media-amazon.com/images/I/51DgMLh5+BL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'HKR'
 buyurl: 'https://www.amazon.de/dp/B07VQ7JZ1W/?tag=tolees0ca-21'
 descuento: '15.02'
-average: '31.76'
+average: '31.445'
 ---
 
 Sie können [HKR - Damen Walkingschuhe Turnschuhe Laufschuhe Sportschuhe Fitness Sneakers Trainers für Running Outdoor Schuhe Pink 40 EU](https://www.amazon.de/dp/B07VQ7JZ1W/?tag=tolees0ca-21) mit Preis 30.5 EUR (original: 35.89 EUR) 15.02 % Rabatt hier:

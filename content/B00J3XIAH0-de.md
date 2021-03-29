@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J3XIAH0-de LogiLink MP0032 Modular Splitter 4Port RJ45 geschirmt mit...'
 sku: 'B00J3XIAH0-de'
+tags: [ 'Computer & Zubehör','Kabel','Kabel & Zubehör','USB-Kabel','Zubehör','logilink', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7
@@ -28,8 +29,8 @@ Es gibt ein [LogiLink MP0032 Modular Splitter 4Port RJ45  geschirmt  mit 15 cm K
 ℹ️:
 
 - Ausgang: 4 x RJ45 Buchse
-- Herkunftsland:- China
 - Verpackungsabmessungen (L x B x H): 28.0 x 3.5 x 2.5 Zm
 - Isdn multiport-verteiler
+- Herkunftsland:- China
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00J3XIAH0/?tag=tolees0ca-21)

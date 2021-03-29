@@ -28,13 +28,13 @@ Es gibt ein [Echo Show 5  Weiß + Amazon Smart Plug  WLAN-Steckdose   Funktioner
 
 ℹ️:
 
-- Tätigen Sie Sprach- oder Videoanrufe mit Freunden und Familienmitgliedern, die ein kompatibles Echo-Gerät oder die Alexa App haben.
-- Dieses Bundle enthält einen Echo Show 5 und eine Amazon WLAN-Steckdose – alles, was Sie benötigen, um mit Ihrem Smart Home loszulegen.
 - Sehen Sie Filme, Nachrichten und Serien. Hören Sie Musik, Radiosender und Hörbücher.
 - Steuern Sie kompatible Geräte per Sprachbefehl oder über das Display.
-- Noch besserer Schutz für Ihre Privatsphäre mit der Mikrofon-/Kamerataste (an/aus) oder der integrierten Kameraabdeckung.
-- Kompaktes Smart Display mit 5,5 Zoll großem Bildschirm und Alexa
 - Verwalten Sie Kalender und To-do-Listen, hören Sie Wetter- und Verkehrsinformationen und kochen Sie Rezepte nach.
 - Personalisieren Sie Ihr Gerät mit einem Uhrdesign nach Wahl oder Ihrem Lieblingsfoto. Erstellen Sie Routinen und Wecker, um gut in den Tag zu kommen.
+- Dieses Bundle enthält einen Echo Show 5 und eine Amazon WLAN-Steckdose – alles, was Sie benötigen, um mit Ihrem Smart Home loszulegen.
+- Noch besserer Schutz für Ihre Privatsphäre mit der Mikrofon-/Kamerataste (an/aus) oder der integrierten Kameraabdeckung.
+- Tätigen Sie Sprach- oder Videoanrufe mit Freunden und Familienmitgliedern, die ein kompatibles Echo-Gerät oder die Alexa App haben.
+- Kompaktes Smart Display mit 5,5 Zoll großem Bildschirm und Alexa
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08D1HY14N/?tag=tolees0ca-21)

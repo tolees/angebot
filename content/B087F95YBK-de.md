@@ -28,9 +28,9 @@ Sie können [Funko 49932 POP Star Wars:The Mandalorian-The Child w/Frog Sammelba
 
 ℹ️:
 
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
-- Von The Mandalorian, The Child w/Frog, zur stilisierten POP-Vinyl Figur von Funko!
 - Funko POP! ist das Spielzeug des Jahres 2018
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von The Mandalorian, The Child w/Frog, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Star Wars-Figuren von Funko an! Sammeln Sie alle!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087F95YBK/?tag=tolees0ca-21)

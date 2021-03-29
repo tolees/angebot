@@ -5,9 +5,10 @@ date: 2021-03-15 19:18:50
 image: 'https://m.media-amazon.com/images/I/41qEk0gJR3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008CYEUZW-de Schümli Crema Ganze Kaffeebohnen 1kg Stärkegrad 2/5...'
 sku: 'B008CYEUZW-de'
+tags: [ 'Geröstete Kaffeebohnen','Getränke, Kaffee & Tee','Kaffee & Espresso','Lebensmittel','Lebensmittel & Getränke','schümli', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99
@@ -27,10 +28,10 @@ Es gibt ein [Schümli Crema Ganze Kaffeebohnen  1kg  Stärkegrad 2/5  Premium Ar
 
 ℹ️:
 
-- Kompatibilität: Ideal für Vollautomaten mit integriertem Mahlwerk, Espresso-Kolbenmaschine und klassischen Filteraufguss
-- Deine Schümli Crema: Edle Mischung aus hochwertigen Arabicabohnen. Eine ausgewogene, delikate Aroma und eine feine, köstliche Crema zeichnen diesen Kaffee aus
-- Schweizer Premiumkaffee: Unsere Leidenschaft sind hochwertige Kaffeeprodukte. Wir beschaffen, veredeln und verpacken Kaffee seit 1954
 - Umweltfreundlich: Unserer Bohnenkaffee ist UTZ-zertifiziert. Wir setzten uns für eine verantwortungsbewusste, umweltfreundliche Kaffeeproduktion ein
+- Schweizer Premiumkaffee: Unsere Leidenschaft sind hochwertige Kaffeeprodukte. Wir beschaffen, veredeln und verpacken Kaffee seit 1954
+- Deine Schümli Crema: Edle Mischung aus hochwertigen Arabicabohnen. Eine ausgewogene, delikate Aroma und eine feine, köstliche Crema zeichnen diesen Kaffee aus
 - Dein Kaffee im Detail: Röstkaffee in ganzen Bohnen - Verpackung 1 kg - Intensität 2 von 5 - 100 Prozent Arabica - Empfohlene Tassengrösse: 110 ml Lungo
+- Kompatibilität: Ideal für Vollautomaten mit integriertem Mahlwerk, Espresso-Kolbenmaschine und klassischen Filteraufguss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008CYEUZW/?tag=tolees0ca-21)

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC18TDV-de PUMA Damen Vikky Stacked L Zapatillas White White 41 EU'
 sku: 'B07DC18TDV-de'
+tags: [ 'Damen-Sneaker','Damenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Damen','puma', ]
 actualPrice: 35.47 EUR
 currency: EUR
 price: 35.47
@@ -28,9 +29,9 @@ Es gibt ein [PUMA Damen Vikky Stacked L Zapatillas  White White  41 EU](https://
 ℹ️:
 
 - Artikeltyp: Schuhe
-- Subkategorie: Freizeit & Sport
-- Kategorie: Basics
 - SoftFoam+: PUMAs innovative weiche Innensohle für maximalen Laufkomfort vom ersten bis zum letzen Schritt
 - Altersgruppe: Erwachsene
+- Subkategorie: Freizeit & Sport
+- Kategorie: Basics
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07DC18TDV/?tag=tolees0ca-21)

@@ -5,9 +5,10 @@ date: 2021-03-14 14:01:50
 image: 'https://m.media-amazon.com/images/I/41pq5Rmd0UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JDZ9RTS-de Bomann Doppelkochplatte DKP 5028 CB 650280'
 sku: 'B00JDZ9RTS-de'
+tags: [ 'Backöfen, Kochfelder & Dunstabzugshauben','Elektro-Großgeräte','Kochfelder','bomann', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99
@@ -27,10 +28,10 @@ Sie können [Bomann Doppelkochplatte DKP 5028 CB  650280](https://www.amazon.de/
 
 ℹ️:
 
-- 2 kochplatten
-- 2 kontrollleuchten
-- 2 stufenlos regelbare thermostate
 - Typ de vermittelert: Elektrisch
+- 2 stufenlos regelbare thermostate
 - Welche komponenten sind im lieferumfang des produkts enthaltenen: Dolppelkochplatte
+- 2 kontrollleuchten
+- 2 kochplatten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00JDZ9RTS/?tag=tolees0ca-21)

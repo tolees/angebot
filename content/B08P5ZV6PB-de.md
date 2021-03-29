@@ -28,10 +28,10 @@ Es gibt ein [BEMS MEISTERWERK - FFP2 Maske VERGLEICHSSIEGER 2021  20 Stk  CE zer
 
 ℹ️:
 
-- &#9989 NICHT NUR HINTER DEN OHREN TOP - EXKLUSIVER TRAGEKOMFORT: 1 FFP2 Atemschutzmaske - 2 komfortable Optionen! Die Schlaufen können Sie dank Clip (40er Set inkl. 2 Clips) auch super praktisch am Hinterkopf verbinden - auch für Brillenträger genial
-- &#9989 5-LAGIGE MASKEN FFP2 - MAXIMALER SCHUTZ: Die Atemschutzmaske ohne Ventil FFP2 liefert Ihnen und Ihrer Umwelt den höchsten Schutz; 5 durchdachte Filterschichten ermöglichen durch die Geschichtsmaske FFP2 eine 95%ige Filterung
 - &#9989 MASKE FFP2 – TESTSIEGER 2021 SPITZEN-QUALITÄT ZUM KLEINEN PREIS: Hochwertige & vertrauenswürdig CE zertifizierte FFP2 Masken müssen Sie kein kleines Vermögen kosten! BEMS Meisterwerk bietet Ihnen zuverlässige Mundschutzmasken FFP2 zum unschlagbaren Preis-Leistungsverhältnis
 - &#9989 SITZT ABSOLUT BEQUEM & LÄSST IHNEN LUFT ZUM ATMEN: Beim Einkaufen oder für berufliche (medizinische) Zwecke - die Schutzmasken FFP2 mit extra reißfesten Bändern & verstellbarem Nasenflügel sitzen optimal & bequem und ermöglichen einwandfreies Atmen
 - &#9989 CE ZERTIFIZIERT VON EU-INSTITUT: Der Mund- und Nasenschutz FFP2 von BEMS - sichere Qualität, auf die Sie sich verlassen können! Unsere FFP2 Maske ohne Ventil wurde nach EN149:2001+A1:2009 CE zertifiziert von der EU Benannten Stelle CE 0598
+- &#9989 5-LAGIGE MASKEN FFP2 - MAXIMALER SCHUTZ: Die Atemschutzmaske ohne Ventil FFP2 liefert Ihnen und Ihrer Umwelt den höchsten Schutz; 5 durchdachte Filterschichten ermöglichen durch die Geschichtsmaske FFP2 eine 95%ige Filterung
+- &#9989 NICHT NUR HINTER DEN OHREN TOP - EXKLUSIVER TRAGEKOMFORT: 1 FFP2 Atemschutzmaske - 2 komfortable Optionen! Die Schlaufen können Sie dank Clip (40er Set inkl. 2 Clips) auch super praktisch am Hinterkopf verbinden - auch für Brillenträger genial
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08P5ZV6PB/?tag=tolees0ca-21)
