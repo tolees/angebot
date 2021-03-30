@@ -28,9 +28,9 @@ Sie können [Fehn 071214 Musik–Mobile Forest-Spieluhr–Mobile mit Bewohnern d
 
 ℹ️:
 
+- Lieferumfang: 1 x Musik-Mobile Forest aus der Kollektion Sleeping Forest / Höhe: 65 cm, ø 40 cm / Obermaterial: Softvelours, Softvlies, Stoff - bei 30°C waschbar / Art.Nr: 071214 / Spieluhrmelodie: Weißt du wieviel Sternlein stehen
 - Die beliebte Melodie "Weißt du wieviel Sternlein stehen" der mechanischen Spieluhr lässt die Figuren tanzen und regt das Baby zum Lauschen an: In ruhigen Minuten lässt sie sich dank des An/Aus-Schalters abstellen
 - Ein treuer Begleiter von Geburt an: Die kräftigen Farben und interessanten Strukturen fesseln die Aufmerksamkeit des Babys und erwecken die Fantasie
-- Lieferumfang: 1 x Musik-Mobile Forest aus der Kollektion Sleeping Forest / Höhe: 65 cm, ø 40 cm / Obermaterial: Softvelours, Softvlies, Stoff - bei 30°C waschbar / Art.Nr: 071214 / Spieluhrmelodie: Weißt du wieviel Sternlein stehen
 - Das Figuren-Mobile wird Babyaugen zum Leuchten bringen: Die Bewohner des Waldes - Fuchs, Eule, Igel, Mond und Sterne - sind niedlich anzuschauen und beeindrucken Babys spielerisch
 - Das Design des Mobiles ermöglicht eine leichte Befestigung am Babybett / Die kuscheligen Figuren lassen sich sowohl fürs Spielen als auch zum Waschen leicht abnehmen
 

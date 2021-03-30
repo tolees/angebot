@@ -29,9 +29,9 @@ Es gibt ein [Baby Jogger City Mini 2 3-Rad Kinderwagen | leichter  zusammenklapp
 ℹ️:
 
 - Viele Extras: mit einem uv50-sonnendach ist Ihr Baby gut geschützt. Über das Fenster können Sie Ihr Kind sehen und in dem Extra großen Korb alles verstauen, was Sie brauchen
-- Leicht zu falten: mit einer Hand am Gurt ziehen, um schnell und kompakt zu falten. Das auto-lock-system rastet beim falten automatisch ein - optimal für Transport und Lagerung
-- Leicht und sportlich: das kompakte Design mit 3 rädern ist unwahrscheinlich wendig und bereit für jedes Abenteuer
 - Immer gemütlich unterwegs: Die verstellbare Wadenstütze und die Rückenlehne mit verschiedenen Liegepositionen sorgen dafür, dass Ihr Baby stets bequem sitzt oder liegt
 - Kann von Geburt an verwendet werden: Mit einer Babyschale oder einer Babytragetasche können Sie den Kinderwagen in ein komplettes Reisesystem verwandeln (Adapter/ Zubehör separat erhältlich)
+- Leicht und sportlich: das kompakte Design mit 3 rädern ist unwahrscheinlich wendig und bereit für jedes Abenteuer
+- Leicht zu falten: mit einer Hand am Gurt ziehen, um schnell und kompakt zu falten. Das auto-lock-system rastet beim falten automatisch ein - optimal für Transport und Lagerung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07V7J52VX/?tag=tolees0ca-21)

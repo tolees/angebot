@@ -28,10 +28,10 @@ Es gibt ein [Seeberger Pekannusskerne  15er Pack  15 x 60 g ](https://www.amazon
 
 ℹ️:
 
-- Botanisch verwandt mit der Walnuss
-- Süßlich, mild-nussiges Aroma
 - Große, unversehrte Pekannusskerne
-- Vielerlei Nährwerte
 - Naturbelassene Kerne
+- Süßlich, mild-nussiges Aroma
+- Vielerlei Nährwerte
+- Botanisch verwandt mit der Walnuss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07D7TVV6L/?tag=tolees0ca-21)
