@@ -28,11 +28,11 @@ Sie können [Buhl Data Service - WISO Steuer-Start 2021  für Steuerjahr 2020 | 
 
 ℹ️:
 
-- Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
 - Die Alternative zu ElsterFormular – einfach gut und günstig
-- Unterstützt die vorausgefüllte Steuererklärung (VaSt) automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
-- Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2021
 - Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
 - Wiso steuer-start 2021 für die Einkommensteuer-Erklärung 2020 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2020
+- Unterstützt die vorausgefüllte Steuererklärung (VaSt) automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
+- Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2021
+- Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08FP3SLSB/?tag=tolees0ca-21)

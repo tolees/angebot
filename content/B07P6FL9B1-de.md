@@ -29,9 +29,9 @@ Sie können [PLAYMOBIL Novelmore 70221 Festung der Burnham Raiders  für Kinder 
 ℹ️:
 
 - Spielfiguren-Set für Kinder von 4-10 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Spielspaß für fantasievolle Kinder: PLAYMOBIL Festung der Burnham Raiders mit vielen Figuren, Zubehörteilen & Funktionen für detailgetreues Nachspielen
-- Funktionierende Kanonen und Feuerballabwurf, Mauerdurchbruch, Drachenkäfig, uvm., Erweiterbar mit PLAYMOBIL Mauer mit Gefängnis und Durchbruch (9841)
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielspaß für fantasievolle Kinder: PLAYMOBIL Festung der Burnham Raiders mit vielen Figuren, Zubehörteilen & Funktionen für detailgetreues Nachspielen
 - Lieferumfang: 1x PLAYMOBIL Novelmore Festung der Burnham Raiders, 214-teiliges Spielfiguren-Set mit Anleitung: 1 Festung, 4 Figuren, 1 Drache, 208 Zubehörteile, Material: Kunststoff, LxBxH: 60,5x55,5x39 cm, 70221
+- Funktionierende Kanonen und Feuerballabwurf, Mauerdurchbruch, Drachenkäfig, uvm., Erweiterbar mit PLAYMOBIL Mauer mit Gefängnis und Durchbruch (9841)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07P6FL9B1/?tag=tolees0ca-21)

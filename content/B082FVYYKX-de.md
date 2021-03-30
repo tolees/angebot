@@ -29,9 +29,9 @@ Es gibt ein [GARDENA smart SILENO city Set 300: Mähroboter bis 300 m² Rasenfl�
 ℹ️:
 
 - CorridorCut: Leitet den Roboter auch durch enge Korridore und Sackgassen und ermöglicht auch dort ein ideales Schnittbild
-- Vollautomatische Lösung: Mit der GARDENA smart App steuern Sie bequem per Fingertipp das Mähen kleiner und komplexer Rasenflächen bis 300 m²
+- Wasserfester Betrieb: Der Mähroboter mäht auch bei Regen und sorgt so für einen perfekten Rasenteppich, bei eventuellen Verschmutzungen kann der Roboter bequem mit dem Gartenschlauch gereinigt werden
 - Lieferumfang beinhaltet: 1x GARDENA smart SILENO city 300, 1x smart Gateway, 1x 150 m Kabel, 200x Haken, 4x Verbinder, 5x Klemmen, 9x Messer, Reinigungsset, Winterschutzbox für Kabel, Radbürsten-Satz
 - Intelligentes System: Dank SensorControl-Funktion passt der smart SILENO city eigenständig die Mähzeit an das Rasenwachstum an
-- Wasserfester Betrieb: Der Mähroboter mäht auch bei Regen und sorgt so für einen perfekten Rasenteppich, bei eventuellen Verschmutzungen kann der Roboter bequem mit dem Gartenschlauch gereinigt werden
+- Vollautomatische Lösung: Mit der GARDENA smart App steuern Sie bequem per Fingertipp das Mähen kleiner und komplexer Rasenflächen bis 300 m²
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082FVYYKX/?tag=tolees0ca-21)

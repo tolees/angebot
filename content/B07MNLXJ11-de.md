@@ -28,10 +28,10 @@ Sie können [Spin Master Games Perplexus Beast  3D-Labyrinth mit 100 Hindernisse
 
 ℹ️:
 
-- 3D-LABYRINTH: Perplexus Beast - der Original-Klassiker in neuem Design. Das originelle, anspruchsvolle 3D-Labyrinth ist einfach eine runde Sache. Die Kugel muss mit anspruchsvollen Bewegungen bis ins Ziel geführt werden, ohne von der Bahn zu fallen. Das ist die ultimative Herausforderung für die Geschicklichkeit
-- EINFACH ZU LERNEN, SCHWER ZU MEISTERN: Der Weg zum Ziel windet sich um 360 Grad und kann nur durch Kippen, Drehen und Neigen überwunden werden. Perplexus Beast lässt garantiert niemanden los
 - PERPLEXUS BEAST ist ein spannendes, anspruchsvolles 3D-Labyrinth und ein tolles Geschenk für Kinder und Erwachsene ab 9 Jahren. Sobald die Beast-Strecke gemeistert wurde, rollt die Kugel beim Perplexus Rebel (Anfänger) und Perplexus Epic (Profis) weiter (jeweils separat erhältlich)
-- 100 ANSPRUCHSVOLLE HINDERNISSE: Wer schafft es vorbei an den 100 Hindernissen vom Perplexus Beast? Die Kugel muss auf der nummerierten Strecke an kniffligen Hürden wie dem lachenden Männchen, der rasanten Kurve und der Superspirale geführt werden, ohne aus der Spur zu fallen
+- 3D-LABYRINTH: Perplexus Beast - der Original-Klassiker in neuem Design. Das originelle, anspruchsvolle 3D-Labyrinth ist einfach eine runde Sache. Die Kugel muss mit anspruchsvollen Bewegungen bis ins Ziel geführt werden, ohne von der Bahn zu fallen. Das ist die ultimative Herausforderung für die Geschicklichkeit
 - Inhalt: EinePerplexus Beast, eine Spielanleitung
+- 100 ANSPRUCHSVOLLE HINDERNISSE: Wer schafft es vorbei an den 100 Hindernissen vom Perplexus Beast? Die Kugel muss auf der nummerierten Strecke an kniffligen Hürden wie dem lachenden Männchen, der rasanten Kurve und der Superspirale geführt werden, ohne aus der Spur zu fallen
+- EINFACH ZU LERNEN, SCHWER ZU MEISTERN: Der Weg zum Ziel windet sich um 360 Grad und kann nur durch Kippen, Drehen und Neigen überwunden werden. Perplexus Beast lässt garantiert niemanden los
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MNLXJ11/?tag=tolees0ca-21)
