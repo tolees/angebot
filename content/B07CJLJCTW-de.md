@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'ONLY Damen Onltahoe Hood Jacket Otw Noos mit 30.23 % Rabatt'
-date: 2020-09-26 01:47:50
+title: 'ONLY Damen Onltahoe Hood Jacket Otw Noos mit 29.59 % Rabatt'
+date: 2021-03-30 19:30:07
 image: 'https://m.media-amazon.com/images/I/41DcMEtMvbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07CJLJCTW-de ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke Schwarz...'
 sku: 'B07CJLJCTW-de'
-tags: [  ]
-actualPrice: 34.88 EUR
+tags: [ 'Bekleidung','Damen-Jacken','Damenbekleidung','Jacken, Mäntel & Westen für Damen','only', ]
+actualPrice: 35.2 EUR
 currency: EUR
-price: 34.88
+price: 35.2
 comparePrice: 49.99 EUR
-prodname: 'ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke  Schwarz  Black Black   Small'
+prodname: 'ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke  Schwarz  Black Black   S EU'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'ONLY'
 buyurl: 'https://www.amazon.de/dp/B07CJLJCTW/?tag=tolees0ca-21'
-descuento: '30.23'
-average: '34.434000000000005'
+descuento: '29.59'
+average: '34.5616666666667'
 ---
 
-Sie können [ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke  Schwarz  Black Black   Small](https://www.amazon.de/dp/B07CJLJCTW/?tag=tolees0ca-21) mit Preis 34.88 EUR (original: 49.99 EUR) 30.23 % Rabatt hier:
+Sie können [ONLY Damen Onltahoe Hood Jacket Otw Noos Jacke  Schwarz  Black Black   S EU](https://www.amazon.de/dp/B07CJLJCTW/?tag=tolees0ca-21) mit Preis 35.2 EUR (original: 49.99 EUR) 29.59 % Rabatt hier:
 
 [![ONLY Damen Onltahoe Hood Jacket Otw Noos](https://m.media-amazon.com/images/I/41DcMEtMvbL._SL400_.jpg)](https://www.amazon.de/dp/B07CJLJCTW/?tag=tolees0ca-21)
 
 ℹ️:
 
+- mit Kapuze
+- gefüttert
+- Winterjacke
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CJLJCTW/?tag=tolees0ca-21)

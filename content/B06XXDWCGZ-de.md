@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '48.59 % rabat auf Bosch Smart Home Eyes Außenkamera  Varia'
-date: 2021-03-28 00:05:13
+title: '35.78 % rabat auf Bosch Smart Home Eyes Außenkamera  Varia'
+date: 2021-03-30 19:20:07
 image: 'https://m.media-amazon.com/images/I/21I7nyZcjLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B06XXDWCGZ-de Bosch Smart Home Eyes Außenkamera Variante Deutschland...'
 sku: 'B06XXDWCGZ-de'
 tags: [ 'Baumarkt','Elektronik & Foto','Kamera & Foto','Sicherheitstechnik','Videoüberwachungstechnik','bosch smart home','Überwachungskameras','Überwachungstechnik', ]
-actualPrice: 179.9 EUR
+actualPrice: 224.75 EUR
 currency: EUR
-price: 179.9
+price: 224.75
 comparePrice: 349.96 EUR
 prodname: 'Bosch Smart Home Eyes Außenkamera  Variante Deutschland  Frankreich und Österreich - kompatibel mit Alexa '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Bosch Smart Home'
 buyurl: 'https://www.amazon.de/dp/B06XXDWCGZ/?tag=tolees0ca-21'
-descuento: '48.59'
-average: '187.05'
+descuento: '35.78'
+average: '191.7625'
 ---
 
-Es gibt ein [Bosch Smart Home Eyes Außenkamera  Variante Deutschland  Frankreich und Österreich - kompatibel mit Alexa ](https://www.amazon.de/dp/B06XXDWCGZ/?tag=tolees0ca-21) mit aktuellem Preis 179.9 EUR (original: 349.96 EUR) 48.59 % Rabatt hier:
+Es gibt ein [Bosch Smart Home Eyes Außenkamera  Variante Deutschland  Frankreich und Österreich - kompatibel mit Alexa ](https://www.amazon.de/dp/B06XXDWCGZ/?tag=tolees0ca-21) mit aktuellem Preis 224.75 EUR (original: 349.96 EUR) 35.78 % Rabatt hier:
 
 [![Bosch Smart Home Eyes Außenkamera  Varia](https://m.media-amazon.com/images/I/21I7nyZcjLL._SL400_.jpg)](https://www.amazon.de/dp/B06XXDWCGZ/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Einfache Anbringung der hochauflösenden Kamera anstelle einer Außenleuchte ohne speziellen Anschluss
 - Dank intelligenten Sensor reagiert die Kamera nicht auf Bewegungen von Bäumen oder Haustieren
+- Kompatibel mit Amazon Alexa
 - Vielseitig: dient als Kamera, Gegensprechanlage und Außenleuchte
 - Bosch Smart Home Eyes Außenkamera - für eine zuverlässige Grundstücksüberwachung mit zusätzlicher Lichtfunktion
-- Kompatibel mit Amazon Alexa
-- Einfache Anbringung der hochauflösenden Kamera anstelle einer Außenleuchte ohne speziellen Anschluss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XXDWCGZ/?tag=tolees0ca-21)
