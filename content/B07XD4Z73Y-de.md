@@ -28,9 +28,9 @@ Sie können [Funko 46681 POP Marvel Black Widow  White Suit  Sammelbares Spielze
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Marvel-Figuren von Funko an! Sammeln Sie alle!
-- Von Black Widow, Black Widow (White Suit), zur stilisierten POP-Vinyl Figur von Funko!
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Funko POP! ist das Spielzeug des Jahres 2018
+- Von Black Widow, Black Widow (White Suit), zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Marvel-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XD4Z73Y/?tag=tolees0ca-21)

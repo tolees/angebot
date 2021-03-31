@@ -28,10 +28,10 @@ Es gibt ein [Powerman ROB50EN Spielzeugrobot  mit Fernbedienung  pädagogischer 
 
 ℹ️:
 
-- EDUCATIONAL - Beantworte seine lustigen und faszinierenden Rätsel über Zahlen, Tiere, Alltag
+- Erzählen Sie Geschichten – Entdecken Sie die größten Äsop-Fabellen, die Powerman erzählt hat, sowie die Witze seines Lieblings
 - Lustig – er schuss Schaumstoffscheiben. Drücken Sie die Aufnahmetaste und Powerman wird nach Ihnen mit seiner lustigen Roboterstimme wiederholen!
 - Interaktiv – es ist ein Roboter, der spricht, tanzt, Musik spielt und viele Licht- und Soundeffekte aufweist
+- EDUCATIONAL - Beantworte seine lustigen und faszinierenden Rätsel über Zahlen, Tiere, Alltag
 - Mit Fernbedienung – Steuern Sie Powerman vorwärts, rückwärts, rechts und links, geht er in jede Richtung
-- Erzählen Sie Geschichten – Entdecken Sie die größten Äsop-Fabellen, die Powerman erzählt hat, sowie die Witze seines Lieblings
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07F364FRL/?tag=tolees0ca-21)
