@@ -29,8 +29,8 @@ Es gibt ein [find. Alias Herren Derbyschuhe  Schwarz  Polished Black   44 EU](ht
 ℹ️:
 
 - Offene Schnürung
-- Leichte Gummisohle
 - Leder-Innenfutter
+- Leichte Gummisohle
 - Derby-Schnitt mit dekorativen Nähten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XCMK8PX/?tag=tolees0ca-21)
