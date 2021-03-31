@@ -28,10 +28,10 @@ Sie können [KabelDirekt – 12 5 m – 4K HDMI-Kabel  4K@60 Hz – spektakulär
 
 ℹ️:
 
+- Leistungsfähig: Alle Kabellängen ab 4 m übertragen Auflösungen bis 4K (UHD bis 4096×2160) bei 60 Hz, HDR, 7.1-Surround-Sound, ARC und sogar Ethernet-Daten – bis max. 3 m Länge werden sogar 8K bei 60 Hz & 4K bei 120 Hz übertragen
 - Hochwertig: KabelDirekt-HDMI-Kabel werden maschinell verlötet und strengen Funktionstests unterzogen. Vergoldete Stecker, mehrfache Abschirmung und hochreine Kupferleitungen sichern störungsfreien Betrieb
-- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Universell: Das Kabel (Stecker/Stecker) verbindet Fernseher/TV-Geräte oder Monitore mit Blu-ray-Playern, Konsolen und anderen Geräten, die einen HDMI-Ausgang bieten – für fantastische Bild- und Tonqualität
 - Geeignet für PCs/Notebooks, Spielkonsolen, Blu-ray/DVD-Player, TV- und Streaming-Empfänger, Monitore, Fernseher, Beamer/Projektoren und jedes andere Gerät mit HDMI-Anschluss. Weiteres Zubehör auf amazon.de/kabeldirekt
-- Leistungsfähig: Alle Kabellängen ab 4 m übertragen Auflösungen bis 4K (UHD bis 4096×2160) bei 60 Hz, HDR, 7.1-Surround-Sound, ARC und sogar Ethernet-Daten – bis max. 3 m Länge werden sogar 8K bei 60 Hz & 4K bei 120 Hz übertragen
+- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00FK0YL5K/?tag=tolees0ca-21)
