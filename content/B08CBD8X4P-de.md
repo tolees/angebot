@@ -28,10 +28,10 @@ Es gibt ein [JVC LT-32VF5955 32 Zoll Fernseher  Smart TV inkl. Prime Video / Net
 
 ℹ️:
 
-- Empfang: Integrierter Triple-Tuner DVB-T2 (Codec H.265/HEVC), DVB-C- (Kabel) und DVB-S2 (Satellit) – Digitales Fernsehen terrestrisch über Satellit oder Kabel empfangen ohne zusätzlichen Receiver
-- Lieferumfang: JVC LT-32VF5955 FHD TV schwarz, Fernbedienung inkl. 2x AAA Batterien, Bedienungsanleitung
-- Typ: LED Fernseher mit 80 cm (32 Zoll) Bildschirmdiagonale
 - Auflösung: 1.920 x 1.080 Pixel (Full HD)/ Bildwiederholungsrate: 600 PPI
+- Typ: LED Fernseher mit 80 cm (32 Zoll) Bildschirmdiagonale
+- Empfang: Integrierter Triple-Tuner DVB-T2 (Codec H.265/HEVC), DVB-C- (Kabel) und DVB-S2 (Satellit) – Digitales Fernsehen terrestrisch über Satellit oder Kabel empfangen ohne zusätzlichen Receiver
 - Smart TV mit integriertem WLAN, Bluetooth & USB Media-Player/ Apps: Prime Video, Netflix, Maxdome, YouTube, YouTube Kids, Rakuten TV, ARD, ZDF, Facebook uvm. / Anschlüsse: 3x HDMI, 2x USB, CI+ uvm. / Works with Alexa
+- Lieferumfang: JVC LT-32VF5955 FHD TV schwarz, Fernbedienung inkl. 2x AAA Batterien, Bedienungsanleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CBD8X4P/?tag=tolees0ca-21)

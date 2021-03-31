@@ -28,9 +28,9 @@ Sie können [Playmobil 6932 - Pferdekutsche](https://www.amazon.de/dp/B06WVS91VM
 
 ℹ️:
 
-- Bietet Platz für 4 Figuren
-- Mit 3 Figuren, 1 Pferd und viel Zubehör
-- Ohne Kummet kann die erwachsene Figur ohne Sattel reiten
 - Der Picknickkorb kann von einer Figur getragen werden
+- Bietet Platz für 4 Figuren
+- Ohne Kummet kann die erwachsene Figur ohne Sattel reiten
+- Mit 3 Figuren, 1 Pferd und viel Zubehör
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06WVS91VM/?tag=tolees0ca-21)

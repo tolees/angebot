@@ -28,9 +28,9 @@ Es gibt ein [Calvin Klein Damen CK Baseball Cap  Schwarz  Black 001   One Size  
 
 ℹ️:
 
-- Gewicht in kg: 0.12kg
-- Material: 100% Baumwolle
 - Außenmaße (LxBxH): 27cm x 20cm x 11cm
+- Material: 100% Baumwolle
 - Marke: Calvin Klein
+- Gewicht in kg: 0.12kg
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07R3MHN24/?tag=tolees0ca-21)

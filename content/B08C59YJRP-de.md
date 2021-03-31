@@ -28,10 +28,10 @@ Sie können [WLAN Glühbirne unterstützt Homekit  Refoss Smart Dimmbare Mehrfar
 
 ℹ️:
 
-- Sprachsteuerung: Hey Siri, schalte das Licht ein. Sie können jede Farbe über die Sprachsteuerung ein- und ausschalten oder die Farbe einstellen / ändern. E27 WLAN Birne ist mit Alexa oder dem Google Assistant kompatibel.
-- Funktioniert mit HomeKit: Refoss Smart WiFi-Lampe kann nicht nur Home App(iOS 13 oder höher) sondern auch eHomeLife auf Android unterstützen. 
 - Zeitplan und Timer: WLAN Glühbirne verfügt über eine Timer- und Zeitplan Einstellungsfunktion, mit der die Lampe entsprechend Ihrer voreingestellten Zeit automatisch ein- und ausgeschaltet werden kann. Sparen Energie.
-- Mehrfarben und Dimmbare: Sie kann per Sprache oder App eingestellt werden. Stellen Sie die Farbe des Lichts nach Ihren Wünschen ein. Warmweißes Licht oder kaltweißes Licht für die Beleuchtung und farbiges Licht für Partys.
 - Qualität: Die Alexa Lampe ist kein Hub / Bridge erforderlich. 2,4GHz WLAN benötigt und 9W E27. Bei Qualitätsproblemen wird das neue Produkt 2.innerhalb von zwei Jahren kostenlos ausgetauscht.
+- Mehrfarben und Dimmbare: Sie kann per Sprache oder App eingestellt werden. Stellen Sie die Farbe des Lichts nach Ihren Wünschen ein. Warmweißes Licht oder kaltweißes Licht für die Beleuchtung und farbiges Licht für Partys.
+- Funktioniert mit HomeKit: Refoss Smart WiFi-Lampe kann nicht nur Home App(iOS 13 oder höher) sondern auch eHomeLife auf Android unterstützen. 
+- Sprachsteuerung: Hey Siri, schalte das Licht ein. Sie können jede Farbe über die Sprachsteuerung ein- und ausschalten oder die Farbe einstellen / ändern. E27 WLAN Birne ist mit Alexa oder dem Google Assistant kompatibel.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08C59YJRP/?tag=tolees0ca-21)

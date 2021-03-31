@@ -29,9 +29,9 @@ Es gibt ein [Crucial MX500 1TB CT1000MX500SSD1 Z -bis zu 560 MB/s  3D NAND  SATA
 ℹ️:
 
 - Beschleunigt durch Micron 3D NAND-Technologie
-- Sequenzielle Lese-/Schreibvorgänge mit bis zu 560/510 MB/s für alle Dateitypen und Zufällige Lese-/Schreibvorgänge mit bis zu 95k/90k für alle Dateitypen
-- Hardwarebasierte 256-Bit-AES-Verschlüsselung hält Daten vor Hackern und Dieben geschützt
-- Integrierte Stromausfallimmunität behält all Ihre gespeicherte Arbeit, wenn der Strom unerwartet ausfällt
 - Das Produkt wird in der Amazon Frustfreien Verpackung geliefert (kann von der Abbildung im Produktinfomaterial abweichen)
+- Integrierte Stromausfallimmunität behält all Ihre gespeicherte Arbeit, wenn der Strom unerwartet ausfällt
+- Hardwarebasierte 256-Bit-AES-Verschlüsselung hält Daten vor Hackern und Dieben geschützt
+- Sequenzielle Lese-/Schreibvorgänge mit bis zu 560/510 MB/s für alle Dateitypen und Zufällige Lese-/Schreibvorgänge mit bis zu 95k/90k für alle Dateitypen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B077SF8KMG/?tag=tolees0ca-21)
