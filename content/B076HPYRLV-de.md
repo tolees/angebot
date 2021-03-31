@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '42.55 % rabat auf adidas Herren Core 18 Sweat Trainingshos'
-date: 2021-03-28 00:01:54
+date: 2021-03-31 17:58:05
 image: 'https://m.media-amazon.com/images/I/41eZaia+MfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'adidas'
 buyurl: 'https://www.amazon.de/dp/B076HPYRLV/?tag=tolees0ca-21'
 descuento: '42.55'
-average: '25.8366666666668'
+average: '25.3748000000002'
 ---
 
 Es gibt ein [adidas Herren Core 18 Sweat Trainingshose  Dark Grey Heather/Black  M](https://www.amazon.de/dp/B076HPYRLV/?tag=tolees0ca-21) mit aktuellem Preis 22.95 EUR (original: 39.95 EUR) 42.55 % Rabatt hier:
@@ -28,8 +28,8 @@ Es gibt ein [adidas Herren Core 18 Sweat Trainingshose  Dark Grey Heather/Black 
 
 ℹ️:
 
-- Front pockets
 - Regular Fit
+- Front pockets
 - Elastic waistband with lanyard
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076HPYRLV/?tag=tolees0ca-21)

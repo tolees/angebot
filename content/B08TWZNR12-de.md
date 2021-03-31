@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '38.49 % rabat auf CRDLIGHT 50 Stück FFP2 Masken CE Zertifi'
-date: 2021-03-28 00:22:55
+title: '33.00 % rabat auf CRDLIGHT 50 Stück FFP2 Masken CE Zertifi'
+date: 2021-03-31 18:19:30
 image: 'https://m.media-amazon.com/images/I/31eLsaO-sUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B08TWZNR12-de CRDLIGHT 50 Stück FFP2 Masken CE Zertifizierte...'
 sku: 'B08TWZNR12-de'
 tags: [ 'Gewerbe, Industrie & Wissenschaft','Medizinische Atemschutzmasken','Medizinische Bekleidungsartikel','Medizinische Gesichtsmasken','Medizinische Masken','Profi-Medizinbedarf','crdlight', ]
-actualPrice: 11.49 EUR
+actualPrice: 11.39 EUR
 currency: EUR
-price: 11.49
-comparePrice: 18.68 EUR
+price: 11.39
+comparePrice: 17.0 EUR
 prodname: 'CRDLIGHT 50 Stück FFP2 Masken CE Zertifizierte Atemschutzmasken Einzelverpackung in PE-Beuteln'
 country: 'de'
 flag: '🇩🇪'
 brand: 'CRDLIGHT'
 buyurl: 'https://www.amazon.de/dp/B08TWZNR12/?tag=tolees0ca-21'
-descuento: '38.49'
-average: '13.4928571428572'
+descuento: '33.00'
+average: '12.7281818181818'
 ---
 
-Es gibt ein [CRDLIGHT 50 Stück FFP2 Masken CE Zertifizierte Atemschutzmasken Einzelverpackung in PE-Beuteln](https://www.amazon.de/dp/B08TWZNR12/?tag=tolees0ca-21) mit aktuellem Preis 11.49 EUR (original: 18.68 EUR) 38.49 % Rabatt hier:
+Es gibt ein [CRDLIGHT 50 Stück FFP2 Masken CE Zertifizierte Atemschutzmasken Einzelverpackung in PE-Beuteln](https://www.amazon.de/dp/B08TWZNR12/?tag=tolees0ca-21) mit aktuellem Preis 11.39 EUR (original: 17.0 EUR) 33.00 % Rabatt hier:
 
 [![CRDLIGHT 50 Stück FFP2 Masken CE Zertifi](https://m.media-amazon.com/images/I/31eLsaO-sUL._SL400_.jpg)](https://www.amazon.de/dp/B08TWZNR12/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Lieferumfang: 50 Stück Mund Nasen Schutzmaske. Farbe weiß. Atemmasken Haltbarkeit 3 Jahre (MHD: November 2023). Einmalig verwendbar
+- Maske gemäß europäischer Norm EN149:2001 + A1:2009 als Mund- und Nasenschutz
 - Schutzklasse FFP2 NR I 94 % Partikelfilterung
 - CE Konformitätserklärung lt. PSA Verordnung (EU) 2016/425
-- Maske gemäß europäischer Norm EN149:2001 + A1:2009 als Mund- und Nasenschutz
 - 50 Stück FFP2 Masken in Spenderbox. Alle Masken in Folien Einzelverpackung. Für Kinder und Erwachsene ( Damen & Herren ). Die Ohr-Schlaufen sind aus Gummi & garantieren einen schnellen, festen Sitz mit angenehmer Passform.
+- Lieferumfang: 50 Stück Mund Nasen Schutzmaske. Farbe weiß. Atemmasken Haltbarkeit 3 Jahre (MHD: November 2023). Einmalig verwendbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08TWZNR12/?tag=tolees0ca-21)

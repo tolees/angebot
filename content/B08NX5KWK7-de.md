@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harvest Moon: Eine Welt [Nintendo Switch mit 26.01 % Rabatt'
-date: 2021-03-28 07:19:52
+date: 2021-03-31 19:02:37
 image: 'https://m.media-amazon.com/images/I/51hOdDXW4pL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B08NX5KWK7/?tag=tolees0ca-21'
 descuento: '26.01'
-average: '47.6263636363636'
+average: '46.7400000000001'
 ---
 
 Sie können [Harvest Moon: Eine Welt [Nintendo Switch]](https://www.amazon.de/dp/B08NX5KWK7/?tag=tolees0ca-21) mit Preis 36.99 EUR (original: 49.99 EUR) 26.01 % Rabatt hier:

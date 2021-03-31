@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.09 % rabat auf TP-Link Deco M4 Mesh WLAN Set  2 pack  A'
-date: 2021-03-28 00:39:58
+date: 2021-03-31 18:48:27
 image: 'https://m.media-amazon.com/images/I/41lfPb6rEwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B07KJ2TDMR/?tag=tolees0ca-21'
 descuento: '23.09'
-average: '93.4'
+average: '102.4'
 ---
 
 Es gibt ein [TP-Link Deco M4 Mesh WLAN Set  2 pack  AC1200 WLAN-Heimnetz-Komplettlösung  große WLAN-Abdeckung  für Häuse  Gebäudekomplex  Multi-Arbeitsmodi  4x Gigabit Ports  weiß](https://www.amazon.de/dp/B07KJ2TDMR/?tag=tolees0ca-21) mit aktuellem Preis 106.9 EUR (original: 139.0 EUR) 23.09 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [TP-Link Deco M4 Mesh WLAN Set  2 pack  AC1200 WLAN-Heimnetz-Komplet
 
 ℹ️:
 
-- Leiferumfang: 2 Deco-Einheiten, 1 RJ45-LAN-Kabel, Netzteile, 1 Schnellinstallationsleitung
-- AC 1200 Dualband WLAN-Geschwindigkeit bis zu 1167 MB.Betriebstemperatur: 0 ℃ ~ 40 ℃
 - Nahtlose Übertragung durch ein einziges einheitliches Netzwerk dank der TP-Link Mesh-Technologie, automatische Verbindung auch bei Bewegung zu Hause wie z.B mit Tablet oder Smartphone
 - Keine Funklöcher, Abdeckungsbereich bis zu 260m² (2er Pack), für eine größere Abdeckung brauchen Sie einfach nur weitere Deco-Einheiten hinzufügen
+- Leiferumfang: 2 Deco-Einheiten, 1 RJ45-LAN-Kabel, Netzteile, 1 Schnellinstallationsleitung
+- AC 1200 Dualband WLAN-Geschwindigkeit bis zu 1167 MB.Betriebstemperatur: 0 ℃ ~ 40 ℃
 - Verbindung mit bis zu 100 Geräten, einfaches Management per Deco-App
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KJ2TDMR/?tag=tolees0ca-21)

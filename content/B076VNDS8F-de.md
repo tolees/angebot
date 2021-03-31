@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '25.95 % rabat auf Sony FE 24-105mm f/4 G OSS | Vollformat '
-date: 2021-03-27 16:48:52
+title: '23.79 % rabat auf Sony FE 24-105mm f/4 G OSS | Vollformat '
+date: 2021-03-31 17:59:58
 image: 'https://m.media-amazon.com/images/I/41TBuoZWONL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B076VNDS8F-de Sony FE 24-105mm f/4 G OSS | Vollformat...'
 sku: 'B076VNDS8F-de'
 tags: [ 'Elektronik & Foto','Kamera & Foto','Kamera-Objektive','Objektive','Objektive für Spiegelreflexkameras','sony', ]
-actualPrice: 999.0 EUR
+actualPrice: 1028.13 EUR
 currency: EUR
-price: 999.0
+price: 1028.13
 comparePrice: 1349.0 EUR
 prodname: 'Sony FE 24-105mm f/4 G OSS | Vollformat  Standardzoomobjektiv  SEL24105G '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21'
-descuento: '25.95'
-average: '1040.6537755102'
+descuento: '23.79'
+average: '1039.59147058824'
 ---
 
-Es gibt ein [Sony FE 24-105mm f/4 G OSS | Vollformat  Standardzoomobjektiv  SEL24105G ](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21) mit aktuellem Preis 999.0 EUR (original: 1349.0 EUR) 25.95 % Rabatt hier:
+Es gibt ein [Sony FE 24-105mm f/4 G OSS | Vollformat  Standardzoomobjektiv  SEL24105G ](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21) mit aktuellem Preis 1028.13 EUR (original: 1349.0 EUR) 23.79 % Rabatt hier:
 
 [![Sony FE 24-105mm f/4 G OSS | Vollformat ](https://m.media-amazon.com/images/I/41TBuoZWONL._SL400_.jpg)](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21)
 
 ℹ️:
 
-- UNGLAUBLICH SCHARF: Zwei AA- (Advanced Aspherical) und zwei asphärische Elemente unterdrücken Abbildungsfehler für eine hervorragende Auflösung über den gesamten Bildbereich, während drei ED-Glaselemente (Extra-low Dispersion) chromatische Abbildungsfehler auf ein Minimum reduzieren
-- SCHÖNES BOKEH: Das sanfte Bokeh wird durch eine zirkuläre Blende mit 9 Lamellen unterstützt und sorgt für natürlich wirkende Ergebnisse
-- PROFESSIONELLE ERGONOMIE: Ein Fokusmodus-Schalter, der ein sofortiges Umschalten zwischen Auto- und manuellem Fokusmodus ermöglicht, sowie eine anpassbare Fokushaltetaste für effiziente und vielseitige Aufnahmen
 - SCHNELL UND PRÄZISE: Ein leistungsstarkes DDSSM-Fokusantriebssystem (Direct Drive SSM) sorgt für die Geschwindigkeit und Präzision, die sowohl bei Foto- als auch bei Videoaufnahmen erforderlich sind
 - ALLE DETAILS EINFANGEN: Sony Nano AR-Beschichtung reduziert Geister- und Lichteffekte
+- PROFESSIONELLE ERGONOMIE: Ein Fokusmodus-Schalter, der ein sofortiges Umschalten zwischen Auto- und manuellem Fokusmodus ermöglicht, sowie eine anpassbare Fokushaltetaste für effiziente und vielseitige Aufnahmen
+- SCHÖNES BOKEH: Das sanfte Bokeh wird durch eine zirkuläre Blende mit 9 Lamellen unterstützt und sorgt für natürlich wirkende Ergebnisse
+- UNGLAUBLICH SCHARF: Zwei AA- (Advanced Aspherical) und zwei asphärische Elemente unterdrücken Abbildungsfehler für eine hervorragende Auflösung über den gesamten Bildbereich, während drei ED-Glaselemente (Extra-low Dispersion) chromatische Abbildungsfehler auf ein Minimum reduzieren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076VNDS8F/?tag=tolees0ca-21)
