@@ -28,10 +28,10 @@ Es gibt ein [CMP Jungen Hose Ski Skihose  Fluss  152](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- Sehr weich; Getapte Nähte
-- Enger Schnitt, fällt eine Nummer kleiner aus
+- 5,000 mm Wassersäule/Atmungsaktivität 5000g/m²/24 h
 - Wind- und Wasserdicht
 - Material: 100% Polyester; Schneefang; Kantenschutz
-- 5,000 mm Wassersäule/Atmungsaktivität 5000g/m²/24 h
+- Sehr weich; Getapte Nähte
+- Enger Schnitt, fällt eine Nummer kleiner aus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B073H6JYBB/?tag=tolees0ca-21)

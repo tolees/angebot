@@ -28,10 +28,10 @@ Sie können [Columbia Herren Newton Ridge Plus Ii Waterproof Wasserfeste Stiefel
 
 ℹ️:
 
+- Metallbeschläge
 - Abriebfeste Omni-Grip -Außensohle aus Gummi
+- Wasserdichte, nahtversiegelte Konstruktion
 - Obermaterial aus PU-beschichtetem Leder, Wildleder und Mesh
 - Techlite leichte Mittelsohle für lang anhaltenden Komfort, hervorragende Dämpfung und hohe Energierückgabe
-- Metallbeschläge
-- Wasserdichte, nahtversiegelte Konstruktion
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00KWK83PC/?tag=tolees0ca-21)
