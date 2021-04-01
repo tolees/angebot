@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '52.95 % rabat auf Der neue Echo Dot  4. Generation   Weiß '
-date: 2021-03-28 01:24:45
+date: 2021-04-01 02:17:21
 image: 'https://m.media-amazon.com/images/I/31vWYzBeKFL._SL400_.jpg'
 comments: true
 category: ofertas

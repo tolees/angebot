@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.48 % rabat auf Tommy Hilfiger Herren H2285arlow 1d Turn'
-date: 2021-03-30 19:23:51
+date: 2021-04-01 02:17:35
 image: 'https://m.media-amazon.com/images/I/411TEkpiHHL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.de/dp/B01NABCQJ6/?tag=tolees0ca-21'
 descuento: '25.48'
-average: '41.9322784810129'
+average: '41.9661250000003'
 ---
 
 Es gibt ein [Tommy Hilfiger Herren H2285arlow 1d Turnschuh  Grau  Steel Grey 039   43 EU](https://www.amazon.de/dp/B01NABCQJ6/?tag=tolees0ca-21) mit aktuellem Preis 44.64 EUR (original: 59.9 EUR) 25.48 % Rabatt hier:
