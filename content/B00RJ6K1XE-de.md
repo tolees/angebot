@@ -28,10 +28,10 @@ Sie können [Vaude Herren Farley Stretch T-Zip Hose II  Tarn  54/XL kurz    0457
 
 ℹ️:
 
-- Green Shape Label: Die funktionelle und umweltverträgliche Zip Off Hose für Herren besteht aus nachhaltigen Materialien. Bei der Herstellung wird auf faire Arbeitsbedingungen in der gesamten Lieferkette geachtet
 - Wasserabweisende Hose für Herren: Unsere Outdoor Hose für Herren wird mit umweltschonenden und wasserabweisenden Eco Finish und ohne Verwendung von Fluorcarbonen hergestellt (PFC frei)
-- Herren Stretch Hose zum Wandern: Unser Klassiker mit T-Zips. Besonders bequeme Wanderhose, Trekkinghose und Outdoorhose für Herren mit abnehmbaren Beinen
 - Erstklassiger Tragekomfort: Dank dem bequemen und elastischen Stretch Bund, des dehnbaren Materials und der vorgeformten Kniepartien ist die Outdoor Camping Hose für Männer sehr angenehm zu tragen
+- Herren Stretch Hose zum Wandern: Unser Klassiker mit T-Zips. Besonders bequeme Wanderhose, Trekkinghose und Outdoorhose für Herren mit abnehmbaren Beinen
+- Green Shape Label: Die funktionelle und umweltverträgliche Zip Off Hose für Herren besteht aus nachhaltigen Materialien. Bei der Herstellung wird auf faire Arbeitsbedingungen in der gesamten Lieferkette geachtet
 - Äußerst pflegeleicht und schnell trocknend: Das schnell trocknende Gewebe der wasserabweisenden und bequemen Herrenhose und das pflegeleichte Material sorgen für eine zuverlässige Funktionalität
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00RJ6K1XE/?tag=tolees0ca-21)
