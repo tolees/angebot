@@ -1,36 +1,37 @@
 ---
 layout: post
-title: '25.03 % rabat auf LEGO 76168 Marvel Avengers Captain Ameri'
-date: 2021-03-17 21:36:34
+title: '29.53 % rabat auf LEGO 76168 Marvel Avengers Captain Ameri'
+date: 2021-04-01 14:37:12
 image: 'https://m.media-amazon.com/images/I/51W4jrRgcNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08G44WXWR-de LEGO 76168 Marvel Avengers Captain America Mech Set...'
 sku: 'B08G44WXWR-de'
-actualPrice: 7.49 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
+actualPrice: 7.04 EUR
 currency: EUR
-price: 7.49
+price: 7.04
 comparePrice: 9.99 EUR
 prodname: 'LEGO 76168 Marvel Avengers Captain America Mech Set  Actionfigur für Jungen und Mädchen ab 7 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G44WXWR/?tag=tolees0ca-21'
-descuento: '25.03'
-average: '9.56899999999999'
+descuento: '29.53'
+average: '9.64590909090908'
 ---
 
-Es gibt ein [LEGO 76168 Marvel Avengers Captain America Mech Set  Actionfigur für Jungen und Mädchen ab 7 Jahren](https://www.amazon.de/dp/B08G44WXWR/?tag=tolees0ca-21) mit aktuellem Preis 7.49 EUR (original: 9.99 EUR) 25.03 % Rabatt hier:
+Es gibt ein [LEGO 76168 Marvel Avengers Captain America Mech Set  Actionfigur für Jungen und Mädchen ab 7 Jahren](https://www.amazon.de/dp/B08G44WXWR/?tag=tolees0ca-21) mit aktuellem Preis 7.04 EUR (original: 9.99 EUR) 29.53 % Rabatt hier:
 
 [![LEGO 76168 Marvel Avengers Captain Ameri](https://m.media-amazon.com/images/I/51W4jrRgcNL._SL400_.jpg)](https://www.amazon.de/dp/B08G44WXWR/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Es gibt noch mehr LEGO Marvel Mechs zum Sammeln und Kombinieren, um Kinder unzählige Actionszenen aus den Filme nachstellen oder sich eigene Geschichten ausdenken zu lassen
-- Ein tolles Geburtstags-, Weihnachts- oder Gelegenheitsgeschenk für Superhelden ab 7 Jahren
 - Enthält Captain America als Minifigur und einen baubaren Mech mit großem Schild, der in seine Greifhand passt, sowie einen kleineren Schild für die Minifigur, der sich auch am Bein des Mech befestigen lässt
-- Kinder öffnen das Cockpit des Mech, stecken Captain America hinein und benutzen dann den riesigen Schild des beweglichen Mech, um die Welt vor Bösewichten zu beschützen und ihre Lieblingsfilmszenen nachzustellen
+- Ein tolles Geburtstags-, Weihnachts- oder Gelegenheitsgeschenk für Superhelden ab 7 Jahren
+- Es gibt noch mehr LEGO Marvel Mechs zum Sammeln und Kombinieren, um Kinder unzählige Actionszenen aus den Filme nachstellen oder sich eigene Geschichten ausdenken zu lassen
 - LEGO Marvel Avengers Classic Captain America Mech (76168) ist eine Superbelohnung im Großformat. Der mächtige bewegliche Mech und die Minifigur versprechen riesigen Actionspaß
+- Kinder öffnen das Cockpit des Mech, stecken Captain America hinein und benutzen dann den riesigen Schild des beweglichen Mech, um die Welt vor Bösewichten zu beschützen und ihre Lieblingsfilmszenen nachzustellen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G44WXWR/?tag=tolees0ca-21)
