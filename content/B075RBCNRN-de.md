@@ -28,10 +28,10 @@ Sie können [GORE WEAR Herren C3 Trail Shorts  Black  L EU](https://www.amazon.d
 
 ℹ️:
 
-- Herren Hose (Innenbeinlänge: 34 cm) für warme Wetterbedingungen
-- GORE C3 Trail Shorts, Größe: L, Farbe: Schwarz, 100047
-- Komfortable Passform/Bike-Spezifischer Schnitt
 - GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
 - Teilweise elastischer Hosenbund, 2 Reißverschlusstaschen vorne und 2 seitlich, Verdeckter Frontreißverschluss
+- GORE C3 Trail Shorts, Größe: L, Farbe: Schwarz, 100047
+- Herren Hose (Innenbeinlänge: 34 cm) für warme Wetterbedingungen
+- Komfortable Passform/Bike-Spezifischer Schnitt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075RBCNRN/?tag=tolees0ca-21)

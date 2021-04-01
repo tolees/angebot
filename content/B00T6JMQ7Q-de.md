@@ -28,8 +28,8 @@ Sie können [Mustang Damen 1099-502-1 High-Top  Weiß  weiß 1   39 EU](https://
 
 ℹ️:
 
+- Shoe Width : medium
 - Textil, Textil, canvas, Kautschuk, 11.0, Reißverschluss, Sneaker High
 - Abmessungen : Schafthöhe : 11.0 cm
-- Shoe Width : medium
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00T6JMQ7Q/?tag=tolees0ca-21)
