@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.00 % rabat auf Apple MagSafe Ladegerät'
-date: 2021-03-31 18:33:05
+date: 2021-04-01 20:29:22
 image: 'https://m.media-amazon.com/images/I/31QUp3TJaeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Apple'
 buyurl: 'https://www.amazon.de/dp/B08L5R6ZHP/?tag=tolees0ca-21'
 descuento: '18.00'
-average: '40.7616'
+average: '40.6130769230769'
 ---
 
 Es gibt ein [Apple MagSafe Ladegerät](https://www.amazon.de/dp/B08L5R6ZHP/?tag=tolees0ca-21) mit aktuellem Preis 36.9 EUR (original: 45.0 EUR) 18.00 % Rabatt hier:

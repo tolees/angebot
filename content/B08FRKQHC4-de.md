@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '18.71 % rabat auf Walt Disney - Disney Classics Komplettbo'
-date: 2021-03-30 19:33:44
+title: '18.03 % rabat auf Walt Disney - Disney Classics Komplettbo'
+date: 2021-04-01 20:08:12
 image: 'https://m.media-amazon.com/images/I/31vB9EBqeaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Blu-ray','Box-Sets','DVD & Blu-ray','Featured Categories','Filme','Kind
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99
-comparePrice: 246.02 EUR
+comparePrice: 243.99 EUR
 prodname: 'Walt Disney - Disney Classics Komplettbox  Blu-ray '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B08FRKQHC4/?tag=tolees0ca-21'
-descuento: '18.71'
-average: '246.794413407817'
+descuento: '18.03'
+average: '246.277237569057'
 ---
 
-Es gibt ein [Walt Disney - Disney Classics Komplettbox  Blu-ray ](https://www.amazon.de/dp/B08FRKQHC4/?tag=tolees0ca-21) mit aktuellem Preis 199.99 EUR (original: 246.02 EUR) 18.71 % Rabatt hier:
+Es gibt ein [Walt Disney - Disney Classics Komplettbox  Blu-ray ](https://www.amazon.de/dp/B08FRKQHC4/?tag=tolees0ca-21) mit aktuellem Preis 199.99 EUR (original: 243.99 EUR) 18.03 % Rabatt hier:
 
 [![Walt Disney - Disney Classics Komplettbo](https://m.media-amazon.com/images/I/31vB9EBqeaL._SL400_.jpg)](https://www.amazon.de/dp/B08FRKQHC4/?tag=tolees0ca-21)
 

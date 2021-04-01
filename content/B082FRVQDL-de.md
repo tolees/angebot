@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '22.65 % rabat auf Funko - POP! Rocks: Queen- Freddie Mercu'
-date: 2021-03-31 18:29:19
+title: '22.69 % rabat auf Funko - POP! Rocks: Queen- Freddie Mercu'
+date: 2021-04-01 20:09:20
 image: 'https://m.media-amazon.com/images/I/41XqUjSS5zL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Chibi Figuren','Hobbys','Sammelfiguren & Requisiten','Spielzeug','funko
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38
-comparePrice: 18.59 EUR
+comparePrice: 18.6 EUR
 prodname: 'Funko - POP! Rocks: Queen- Freddie Mercury Radio Gaga'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21'
-descuento: '22.65'
-average: '16.5145614035086'
+descuento: '22.69'
+average: '16.4422033898304'
 ---
 
-Es gibt ein [Funko - POP! Rocks: Queen- Freddie Mercury Radio Gaga](https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21) mit aktuellem Preis 14.38 EUR (original: 18.59 EUR) 22.65 % Rabatt hier:
+Es gibt ein [Funko - POP! Rocks: Queen- Freddie Mercury Radio Gaga](https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21) mit aktuellem Preis 14.38 EUR (original: 18.6 EUR) 22.69 % Rabatt hier:
 
 [![Funko - POP! Rocks: Queen- Freddie Mercu](https://m.media-amazon.com/images/I/41XqUjSS5zL._SL400_.jpg)](https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21)
 

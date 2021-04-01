@@ -28,13 +28,13 @@ Sie können [Funko 5859 Harry Potter Ron Weasley Pop Vinyl Figure](https://www.a
 
 ℹ️:
 
-- Sehr detailliert
-- Offizielles Lizenzprodukt Wizarding World product
-- Ron Weasley
-- Harry Potter - Ron Weasley
-- POP! Vinylfigur
 - Funko POP! Vinyl
-- Harry Potter
+- Offizielles Lizenzprodukt Wizarding World product
+- Sehr detailliert
+- Ron Weasley
+- POP! Vinylfigur
 - Film
+- Harry Potter - Ron Weasley
+- Harry Potter
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00TQ5EXQM/?tag=tolees0ca-21)

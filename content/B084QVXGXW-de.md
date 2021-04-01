@@ -28,11 +28,11 @@ Es gibt ein [WC-Frisch - WC FRISCH Kraft Aktiv Blauspüler Chlor  WC-Reiniger  3
 
 ℹ️:
 
-- Die WC Steine von WC FRISCH sorgen für eine sichtbare Reinigung mit blauem Wasser, 50% mehr Glanz und einen intensiven WC Duft
-- Mit seinem dezenten Design und seinen tollen Farben passt der Duftstein von WC FRISCH perfekt unter den Toilettenrand und setzt bei jeder Spülung einen frischen Duft frei
-- Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen
-- Hängen Sie den Toilettenspüler einfach an den Rand Ihrer Toilettenschüssel und passen Sie ihn an den Wasserfluss an
-- Dank der blauen Wasser Kugeln sorgt WC FRISCH Blau Kraft-Aktiv sichtbar für Sauberkeit und Frische in Ihrer Toilette sogar zwischen den Spülungen
 - Bis zu 250 Spülungen: Genießen Sie den frischen Duft von der ersten bis zur letzten Spülung
+- Dank der blauen Wasser Kugeln sorgt WC FRISCH Blau Kraft-Aktiv sichtbar für Sauberkeit und Frische in Ihrer Toilette sogar zwischen den Spülungen
+- Mit seinem dezenten Design und seinen tollen Farben passt der Duftstein von WC FRISCH perfekt unter den Toilettenrand und setzt bei jeder Spülung einen frischen Duft frei
+- Hängen Sie den Toilettenspüler einfach an den Rand Ihrer Toilettenschüssel und passen Sie ihn an den Wasserfluss an
+- Die WC Steine von WC FRISCH sorgen für eine sichtbare Reinigung mit blauem Wasser, 50% mehr Glanz und einen intensiven WC Duft
+- Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084QVXGXW/?tag=tolees0ca-21)

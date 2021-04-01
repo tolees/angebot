@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.88 % rabat auf Sony KDL-43WF665 Bravia 109 2 cm  43 Zol'
-date: 2021-03-31 18:39:32
+date: 2021-04-01 20:05:03
 image: 'https://m.media-amazon.com/images/I/51gRjSKuqJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07BVNSF6Y/?tag=tolees0ca-21'
 descuento: '29.88'
-average: '404.855488721804'
+average: '404.768740740741'
 ---
 
 Es gibt ein [Sony KDL-43WF665 Bravia 109 2 cm  43 Zoll  Fernseher  Full HD  HDR  Smart TV ](https://www.amazon.de/dp/B07BVNSF6Y/?tag=tolees0ca-21) mit aktuellem Preis 399.0 EUR (original: 569.0 EUR) 29.88 % Rabatt hier:
@@ -28,8 +28,8 @@ Es gibt ein [Sony KDL-43WF665 Bravia 109 2 cm  43 Zoll  Fernseher  Full HD  HDR 
 
 ℹ️:
 
-- Im Energiesparmodus wird die Helligkeit des Bildschirms angepasst
 - Im „Display Aus“-Modus wird der Bildschirm automatisch abgeschaltet, ohne dass dabei der Fernseher komplett in den Standby-Modus wechselt. Dies bedeutet, dass Sie Audioinhalte nach wie vor hören können
 - Die dynamische Hintergrundbeleuchtung optimiert die Energieeffizienz, da sich die Helligkeit des Bildschirms an die jeweiligen Inhalte anpass
+- Im Energiesparmodus wird die Helligkeit des Bildschirms angepasst
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07BVNSF6Y/?tag=tolees0ca-21)

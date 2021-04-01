@@ -28,10 +28,10 @@ Sie können [Astragon - Wer Wird Millionär? - [PlayStation 4]](https://www.amaz
 
 ℹ️:
 
-- Testen Sie Ihr Allgemeinwissen in „Wer wird Millionär?“, das offizielle Spiel
-- Multiplayer mit bis zu 10 Spieler im LAN und bis zu 100 Spieler online möglich
-- Deutsche Ausgabe mit deutschen Texten und deutscher Sprachausgabe
 - Beantworten Sie 15 Fragen hintereinander richtig, um den Jackpot und den Gewinn zu erzielen
+- Deutsche Ausgabe mit deutschen Texten und deutscher Sprachausgabe
+- Multiplayer mit bis zu 10 Spieler im LAN und bis zu 100 Spieler online möglich
+- Testen Sie Ihr Allgemeinwissen in „Wer wird Millionär?“, das offizielle Spiel
 - Erleben Sie die Spannung und die unvergleichliche Atmosphäre der berühmten TV-Show
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08F8G47FW/?tag=tolees0ca-21)

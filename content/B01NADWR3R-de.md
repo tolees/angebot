@@ -28,10 +28,10 @@ Sie können [Tommy Hilfiger Herren TH CITY MINI REPORTER Business Tasche Schwarz
 
 ℹ️:
 
+- Serie: City
+- Verschlussart: Reißverschluss
 - Volumen in L ca.: 0-10
 - Ausstattung: Handyfach, Tasche(n) außen, Tasche(n) innen
 - Außenmaße (LxBxH): 16.5cm x 7cm x 20cm
-- Verschlussart: Reißverschluss
-- Serie: City
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NADWR3R/?tag=tolees0ca-21)
