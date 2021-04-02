@@ -1,29 +1,30 @@
 ---
 layout: post
-title: '16.77 % rabat auf Nintendo - Joy-Con 2er-Set Neon-Grün/Neo'
-date: 2021-02-16 14:08:28
-image: 'https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL200_.jpg'
+title: '25.55 % rabat auf Nintendo - Joy-Con 2er-Set Neon-Grün/Neo'
+date: 2021-04-02 07:45:21
+image: 'https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BZ66JL-de Nintendo - Joy-Con 2er-Set Neon-Grün/Neon-Pink'
 sku: 'B072BZ66JL-de'
-actualPrice: 74.9 EUR
+tags: [ 'Games','Nintendo Switch','Zubehör für Nintendo Switch','nintendo', ]
+actualPrice: 67.0 EUR
 currency: EUR
-price: 74.9
+price: 67.0
 comparePrice: 89.99 EUR
 prodname: 'Nintendo - Joy-Con 2er-Set Neon-Grün/Neon-Pink'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B072BZ66JL/?tag=tolees0ca-21'
-descuento: '16.77'
-average: '66.5072093023255'
+descuento: '25.55'
+average: '66.529111111111'
 ---
 
-Es gibt ein [Nintendo - Joy-Con 2er-Set Neon-Grün/Neon-Pink](https://www.amazon.de/dp/B072BZ66JL/?tag=tolees0ca-21) mit aktuellem Preis 74.9 EUR (original: 89.99 EUR) 16.77 % Rabatt hier:
+Es gibt ein [Nintendo - Joy-Con 2er-Set Neon-Grün/Neon-Pink](https://www.amazon.de/dp/B072BZ66JL/?tag=tolees0ca-21) mit aktuellem Preis 67.0 EUR (original: 89.99 EUR) 25.55 % Rabatt hier:
 
-[![Nintendo - Joy-Con 2er-Set Neon-Grün/Neo](https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL200_.jpg)](https://www.amazon.de/dp/B072BZ66JL/?tag=tolees0ca-21)
+[![Nintendo - Joy-Con 2er-Set Neon-Grün/Neo](https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL400_.jpg)](https://www.amazon.de/dp/B072BZ66JL/?tag=tolees0ca-21)
 
 ℹ️:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pentel LR10-A Nachfüllmine für EnerGel-S mit 59.83 % Rabatt'
-date: 2021-03-23 19:03:31
+title: 'Pentel LR10-A Nachfüllmine für EnerGel-S mit 16.51 % Rabatt'
+date: 2021-04-02 07:37:18
 image: 'https://m.media-amazon.com/images/I/41M4LooTPwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: 'tole.es'
 slug: 'B004L17GPQ-de Pentel LR10-A Nachfüllmine für EnerGel-Stifte Strichstärke...'
 sku: 'B004L17GPQ-de'
 tags: [ 'Bürobedarf & Schreibwaren','Füllfederhalter & Kugelschreiber','Minen, Patronen & Tintenlöscher','Schreibwaren','pentel', ]
-actualPrice: 9.4 EUR
+actualPrice: 8.85 EUR
 currency: EUR
-price: 9.4
-comparePrice: 23.4 EUR
+price: 8.85
+comparePrice: 10.6 EUR
 prodname: 'Pentel LR10-A Nachfüllmine für EnerGel-Stifte  Strichstärke 1 0 mm  12 Stück  schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.de/dp/B004L17GPQ/?tag=tolees0ca-21'
-descuento: '59.83'
-average: '10.8830143540667'
+descuento: '16.51'
+average: '10.8316289592759'
 ---
 
-Sie können [Pentel LR10-A Nachfüllmine für EnerGel-Stifte  Strichstärke 1 0 mm  12 Stück  schwarz](https://www.amazon.de/dp/B004L17GPQ/?tag=tolees0ca-21) mit Preis 9.4 EUR (original: 23.4 EUR) 59.83 % Rabatt hier:
+Sie können [Pentel LR10-A Nachfüllmine für EnerGel-Stifte  Strichstärke 1 0 mm  12 Stück  schwarz](https://www.amazon.de/dp/B004L17GPQ/?tag=tolees0ca-21) mit Preis 8.85 EUR (original: 10.6 EUR) 16.51 % Rabatt hier:
 
 [![Pentel LR10-A Nachfüllmine für EnerGel-S](https://m.media-amazon.com/images/I/41M4LooTPwL._SL400_.jpg)](https://www.amazon.de/dp/B004L17GPQ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Lieferumfang: 12 Minen
 - Pentel Nachfülllmine für Standard EnerGel-Tintenroller mit 1,0 mm Strichstärke
-- Nachfüllmine für Pentel Gel-Tintenroller BL60
-- ausgestattet mit einer Metallspitze in 1,0 mm Strichstärke und Schreibfarbe schwarz
 - die besonders weich schreibende Gel-Tinte trocknet schnell und überzeugt mit ihrem unvergleichbar leichtem Schreibgefühl Vielschreiber und auch Linkshänder
 - 1,0mm Kugeldurchmesser (auf Packung abgedruckt)
+- ausgestattet mit einer Metallspitze in 1,0 mm Strichstärke und Schreibfarbe schwarz
+- Lieferumfang: 12 Minen
+- Nachfüllmine für Pentel Gel-Tintenroller BL60
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004L17GPQ/?tag=tolees0ca-21)
