@@ -28,8 +28,8 @@ Es gibt ein [Reebok DV6434  Unisex-Sneaker für Erwachsene  Kreide / Papierweiß
 
 ℹ️:
 
-- EVA-Zwischensohle
-- Weiches Leder-Obermaterial
 - Gummiaußensohle
+- Weiches Leder-Obermaterial
+- EVA-Zwischensohle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KXWF6HR/?tag=tolees0ca-21)
