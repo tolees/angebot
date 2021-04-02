@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '60.21 % rabat auf s simplecase - Simplecase 40 Stück FFP2 '
-date: 2021-04-01 02:16:29
+title: '44.87 % rabat auf s simplecase - Simplecase 40 Stück FFP2 '
+date: 2021-04-02 12:42:17
 image: 'https://m.media-amazon.com/images/I/51bOm3uPPWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08JLWKV66-de s simplecase - Simplecase 40 Stück FFP2 Maske CE...'
 sku: 'B08JLWKV66-de'
 tags: [ 'Arbeitsschutzausrüstung','Atemschutzmasken','Baumarkt','Einweg-Atemschutzmasken','Sicherheitstechnik','Staub- & Atemschutzmasken','s simplecase', ]
-actualPrice: 18.54 EUR
+actualPrice: 25.69 EUR
 currency: EUR
-price: 18.54
+price: 25.69
 comparePrice: 46.6 EUR
 prodname: 's simplecase - Simplecase 40 Stück FFP2 Maske  CE Zertifiziert von offiziell benannter Stelle CE2834  Atemschutzmaske  Partikelfiltermaske'
 country: 'de'
 flag: '🇩🇪'
 brand: 's simplecase'
 buyurl: 'https://www.amazon.de/dp/B08JLWKV66/?tag=tolees0ca-21'
-descuento: '60.21'
-average: '22.8436842105264'
+descuento: '44.87'
+average: '23.114761904762'
 ---
 
-Es gibt ein [s simplecase - Simplecase 40 Stück FFP2 Maske  CE Zertifiziert von offiziell benannter Stelle CE2834  Atemschutzmaske  Partikelfiltermaske](https://www.amazon.de/dp/B08JLWKV66/?tag=tolees0ca-21) mit aktuellem Preis 18.54 EUR (original: 46.6 EUR) 60.21 % Rabatt hier:
+Es gibt ein [s simplecase - Simplecase 40 Stück FFP2 Maske  CE Zertifiziert von offiziell benannter Stelle CE2834  Atemschutzmaske  Partikelfiltermaske](https://www.amazon.de/dp/B08JLWKV66/?tag=tolees0ca-21) mit aktuellem Preis 25.69 EUR (original: 46.6 EUR) 44.87 % Rabatt hier:
 
 [![s simplecase - Simplecase 40 Stück FFP2 ](https://m.media-amazon.com/images/I/51bOm3uPPWL._SL400_.jpg)](https://www.amazon.de/dp/B08JLWKV66/?tag=tolees0ca-21)
 
