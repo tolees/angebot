@@ -29,9 +29,9 @@ Es gibt ein [Brennenstuhl Safe-Box / Schutzbox für Verlängerungskabel  Schutzk
 ℹ️:
 
 - Schutzkapsel für Kabel eignet sich als idealer Schutz vor ungewolltem Trennen der Steckverbindung, sowie vor Verschmutzung und Beschädigung
-- Schutzbox für Verlängerungskabel schützt vor Verschmutzung und Beschädigung
 - Lieferumfang: 1x Brennenstuhl Safe-Box in der Farbe grün - in bester Qualität von brennenstuhl
 - Die Sicherheitsbox für Stecker dient zur sicheren Verbindung von Stecker und Kupplung im Innenbereich
+- Schutzbox für Verlängerungskabel schützt vor Verschmutzung und Beschädigung
 - Bestens geeignet für den Einsatz elektrischer Geräte die ein Verlängerungskabel erfordern
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001B4S8LW/?tag=tolees0ca-21)
