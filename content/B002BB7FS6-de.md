@@ -28,11 +28,11 @@ Es gibt ein [Pentel BL77/5 Gelroller  0 7 mm  Schwarz / Rot / Blau / Grü
 
 ℹ️:
 
-- Produktbeschreibung: Pentel BL77/5
-- Produkttyp : Gelroller
 - Tinte : Gel
-- Durchmesser der Spitze : 0,7 mm
-- Spitze : Metall
+- Produktbeschreibung: Pentel BL77/5
 - Farbe der Tinte : Schwarz, Rot, Blau, Grün, Violett
+- Spitze : Metall
+- Produkttyp : Gelroller
+- Durchmesser der Spitze : 0,7 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002BB7FS6/?tag=tolees0ca-21)
