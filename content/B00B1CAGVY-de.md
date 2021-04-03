@@ -28,8 +28,8 @@ Sie können [Funko 604306 Game of Thrones Pop Vinyl - Jon Snow #07](https://www.
 
 ℹ️:
 
+- POP! Vinylfigur
 - Game of Thrones
 - Jon Snow
-- POP! Vinylfigur
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00B1CAGVY/?tag=tolees0ca-21)
