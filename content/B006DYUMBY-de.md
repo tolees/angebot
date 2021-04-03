@@ -28,9 +28,9 @@ Es gibt ein [Delock Seriell-Verschluss Kabel  1m  grau](https://www.amazon.de/dp
 
 ℹ️:
 
+- Anzahl der Packung: 1
+- Verpackungsabmessungen (L x B x H): 15.2 zm x 14.4 zm x 2.0 zm
 - Keine Montage erforderlich
 - Verpackungsgewicht: 59.928 g
-- Verpackungsabmessungen (L x B x H): 15.2 zm x 14.4 zm x 2.0 zm
-- Anzahl der Packung: 1
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006DYUMBY/?tag=tolees0ca-21)
