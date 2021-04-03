@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '61.79 % rabat auf Havaianas Damen Slim Crystal Glamour Sw '
-date: 2021-04-02 07:35:17
+date: 2021-04-03 12:20:54
 image: 'https://m.media-amazon.com/images/I/31+j+815O0L._SL400_.jpg'
 comments: true
 category: ofertas

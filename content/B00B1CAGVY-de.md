@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 604306 Game of Thrones Pop Vinyl - mit 21.07 % Rabatt'
-date: 2021-04-01 20:07:21
+date: 2021-04-03 12:20:08
 image: 'https://m.media-amazon.com/images/I/51YuQaHH6ML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B00B1CAGVY/?tag=tolees0ca-21'
 descuento: '21.07'
-average: '14.3947887323942'
+average: '14.3442465753423'
 ---
 
 Sie können [Funko 604306 Game of Thrones Pop Vinyl - Jon Snow #07](https://www.amazon.de/dp/B00B1CAGVY/?tag=tolees0ca-21) mit Preis 12.55 EUR (original: 15.9 EUR) 21.07 % Rabatt hier:
@@ -28,8 +28,8 @@ Sie können [Funko 604306 Game of Thrones Pop Vinyl - Jon Snow #07](https://www.
 
 ℹ️:
 
-- POP! Vinylfigur
 - Game of Thrones
 - Jon Snow
+- POP! Vinylfigur
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00B1CAGVY/?tag=tolees0ca-21)

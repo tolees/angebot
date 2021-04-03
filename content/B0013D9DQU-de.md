@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - Die Sims 2 - Küchen- u mit 15.95 % Rabatt'
-date: 2021-04-02 02:48:15
+date: 2021-04-03 12:19:14
 image: 'https://m.media-amazon.com/images/I/51JoWZYUxEL._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Es gibt ein [Under Armour UA HG Armour Shorts  kurze Laufhose  atmungsaktive Her
 
 ℹ️:
 
-- Individuell verstellbare Schulterriemen
-- Laptopfach für 15" MacBook Pro oder ähnlich großen Laptop
-- 48 cm x 31 cm x 14 cm (17 Liter)
 - Robuster Backpack mit Laptopfach
 - Wasserabweisende UA Storm Technologie
+- 48 cm x 31 cm x 14 cm (17 Liter)
+- Individuell verstellbare Schulterriemen
+- Laptopfach für 15" MacBook Pro oder ähnlich großen Laptop
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07JK6SFPG/?tag=tolees0ca-21)
