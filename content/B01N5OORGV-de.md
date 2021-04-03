@@ -28,8 +28,8 @@ Sie können [Nintendo Joy-Con 2er-Set Neon-Rot/Neon-Blau](https://www.amazon.de/
 
 ℹ️:
 
-- Jeder Joy-Con verfügt über einen vollständigen Satz von Tasten und einen Beschleunigungsmesser und einen Gyroskop-Bewegungssensor, die eine unabhängige Steuerung der linken und rechten Bewegung ermöglichen
-- Stellen Sie eine Verbindung zur Hauptkonsole her, um sie im Handheld-Modus zu verwenden, oder teilen Sie sie mit Freunden, um in unterstützten Spielen Action für zwei Spieler zu genießen
 - Die beiden Joy-Con können unabhängig voneinander in jeder Hand oder zusammen als ein Gamecontroller verwendet werden, wenn sie am Joy-Con-Griff befestigt sind (separat erhältlich)
+- Stellen Sie eine Verbindung zur Hauptkonsole her, um sie im Handheld-Modus zu verwenden, oder teilen Sie sie mit Freunden, um in unterstützten Spielen Action für zwei Spieler zu genießen
+- Jeder Joy-Con verfügt über einen vollständigen Satz von Tasten und einen Beschleunigungsmesser und einen Gyroskop-Bewegungssensor, die eine unabhängige Steuerung der linken und rechten Bewegung ermöglichen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N5OORGV/?tag=tolees0ca-21)

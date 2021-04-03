@@ -29,9 +29,9 @@ Es gibt ein [Pierre Cardin Herren Lyon Chino Voyage Hose  Grau  Grau 85   W33/L3
 ℹ️:
 
 - nicht bleichen
-- 30 °C Schonwaschgang
-- nicht heiß bügeln
 - knitterarm, leicht klimaregulierend
+- nicht heiß bügeln
+- 30 °C Schonwaschgang
 - nicht trocknergeeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07P13PFF2/?tag=tolees0ca-21)

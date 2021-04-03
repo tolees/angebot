@@ -28,10 +28,10 @@ Es gibt ein [Kosmos 654146 Fun Science - Magie der Magnete  Erforsche unsichtbar
 
 ℹ️:
 
-- Ein KOSMOS Experimentierset zum sofort Durchstarten, Spaß haben und Wissen sammeln
-- Für den Extra-Spielspaß sorgen zwei Magnet-Spiele, die die Geschicklichkeit und Motorik der Kinder herausfordern
 - Mit Schritt-für-Schritt-Erklärungen zu allen Experimenten und spannenden Info-Texten mit Hintergrundwissen
+- Für den Extra-Spielspaß sorgen zwei Magnet-Spiele, die die Geschicklichkeit und Motorik der Kinder herausfordern
 - Magnet-Spaß für Entdecker: Wie baut man einen Kompass oder magnetisiert Eisen? Verblüffende Experimente warten auf neugierige Kinder von 8 bis 12 Jahren
 - In spannenden Versuchen gehen sie dabei den geheimnisvollen, unsichtbaren Kräften der Magnete auf die Spur
+- Ein KOSMOS Experimentierset zum sofort Durchstarten, Spaß haben und Wissen sammeln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07MMP4FQY/?tag=tolees0ca-21)

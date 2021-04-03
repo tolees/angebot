@@ -28,9 +28,9 @@ Sie können [Manhattan 461627 Universal-Wandhalterung mit Gasdruckfeder fü Zwei
 
 ℹ️:
 
+- Gasdruckfeder ermöglicht leichte, komfortable Höhenanpassung
+- Integrierte Spannungsanpassung
 - Geeignet für zwei Monitore von 17" bis 32" (empfohlen)
 - Nur zur Wandmontage geeignet
-- Integrierte Spannungsanpassung
-- Gasdruckfeder ermöglicht leichte, komfortable Höhenanpassung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FR3G3FT/?tag=tolees0ca-21)

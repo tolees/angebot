@@ -29,9 +29,9 @@ Sie können [Scheppach HM216 Kapp-Zug-Gehrungssäge 2000 W  Ø 216 mm Sägeblatt
 ℹ️:
 
 - Mit Hilfe der Zugfunktion sägt die Kappsäge mühelos Werkstücke bis 340mm Breite und 65mm Höhe und dank der stabilen Doppelsäulenführung lässt sich das Sägeblatt dabei präzise durch das Werkstück führen
+- Die stabil und kompakt gebaute Zug-Kapp-Gehrungssäge HM216 verfügt über ein leichtes Aluminium-Druckguss-Gestell und eignet sich daher gut für den mobilen Einsatz und kleinere Werkstätten
 - Beidseitige Tischerweiterungen, ein schwenkbarer Drehteller mit Schnell-Arretierung und das für Gehrungsschnitte um 45° neigbare Sägeblatt ermöglichen eine Vielzahl von Anwendungen mit der HM216
 - Der integrierte Laser zeigt präzise die Schnittkante an und ermöglicht dadurch exakte Schnittergebnisse, bei denen man sich nicht auf sein Augenmaß verlassen muss
-- Die stabil und kompakt gebaute Zug-Kapp-Gehrungssäge HM216 verfügt über ein leichtes Aluminium-Druckguss-Gestell und eignet sich daher gut für den mobilen Einsatz und kleinere Werkstätten
 - Die HM216 eignet sich für Hart und Weichholz sowie für alle gängigen Kunststoffe. Die beiden mitgelieferten Hartmetall-Sägeblätter, eines mit 24 Zähnen eines mit 48 Zähnen, haben einen Durchmesser von 216mm. Der vollständig geschlossene Sägeblattschutz sorgt für maximale Arbeitssicherheit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08BPG93B9/?tag=tolees0ca-21)

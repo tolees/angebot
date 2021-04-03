@@ -28,10 +28,10 @@ Sie können [Sony Interactive Entertainment - Ghost of Tsushima - Standard Plus 
 
 ℹ️:
 
-- Fordere Gegner in packenden Samuraikämpfen mit deinem Katana heraus, meistere den Bogen gegen ferne Bedrohungen und entwickle Tarntaktiken.
 - Jetzt vorbestellen und Boni sichern:- Digitaler Mini-Soundtrack von Ghost of Tsushima, Dynamisches Design „Ghost of Tsushima – Jin“ und Avatar „Ghost of Tsushima – Jin“
-- In diesem Open-World-Action-Adventure durchstreifst du riesige Landschaften und weites Gelände, um komplexe Charaktere zu treffen, auf alte Sehenswürdigkeiten zu stoßen und die verborgene Schönheit von Tsushima zu entdecken.
-- Die Standard Plus Edition enthält Cover-Artwork mit individuellem Foliendruck und beidseitigem Cover-Design. Diese Edition ist exklusiv erhätlich bei Amazon.de.
 - Jin Sakai muss mit den Samuraitraditionen brechen, den Weg des Geisteseinschlagen und einen unkonventionellen Krieg um die Freiheit von Tsushima führen.
+- Fordere Gegner in packenden Samuraikämpfen mit deinem Katana heraus, meistere den Bogen gegen ferne Bedrohungen und entwickle Tarntaktiken.
+- Die Standard Plus Edition enthält Cover-Artwork mit individuellem Foliendruck und beidseitigem Cover-Design. Diese Edition ist exklusiv erhätlich bei Amazon.de.
+- In diesem Open-World-Action-Adventure durchstreifst du riesige Landschaften und weites Gelände, um komplexe Charaktere zu treffen, auf alte Sehenswürdigkeiten zu stoßen und die verborgene Schönheit von Tsushima zu entdecken.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B089DHRWWF/?tag=tolees0ca-21)

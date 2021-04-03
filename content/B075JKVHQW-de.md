@@ -28,10 +28,10 @@ Sie können [Fossil Herren Skeleton Automatik Uhr mit Leder Armband ME3155](http
 
 ℹ️:
 
-- Bandbreite: 24mm; Bandumfang: 200 +/- 5mm
 - Verpackt in einer Fossil Tin (mit verschiedenen Designs zum Sammeln)
-- Wasserdichtigkeit: 5 ATM
 - Bandmaterial: Leder
 - Gehäusehöhe: 11mm; Gehäusegröße: 48mm
+- Bandbreite: 24mm; Bandumfang: 200 +/- 5mm
+- Wasserdichtigkeit: 5 ATM
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075JKVHQW/?tag=tolees0ca-21)

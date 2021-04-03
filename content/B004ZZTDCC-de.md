@@ -30,8 +30,8 @@ Es gibt ein [ABUS Aluminium-Vorhangschloss "myLock" T65AL/40  gelb  50868](https
 
 - inkl. zwei Schlüssel
 - Bügel aus gehärtetem Stahl, doppelte Verriegelung
-- Vorhangschloss "my Lock" zur individuellen Sicherung von Spinden und Schränken
-- Größe 40mm, Farbe gelb
 - farbiger Kunststoffmantel, Innenteile aus rostfreien Materialien
+- Größe 40mm, Farbe gelb
+- Vorhangschloss "my Lock" zur individuellen Sicherung von Spinden und Schränken
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004ZZTDCC/?tag=tolees0ca-21)

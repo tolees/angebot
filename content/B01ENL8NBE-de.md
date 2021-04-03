@@ -28,9 +28,9 @@ Es gibt ein [HÖGL Damen Boulevard 60 Nude 4.5 0-186724 Pumps](https://www.amazo
 
 ℹ️:
 
-- Kein Verschluss
-- article number: 0-186724-0100
 - closing: Kein Verschluss
+- article number: 0-186724-0100
+- Kein Verschluss
 - Pfennigabsatz / Stiletto (6,0 cm)
 - Top Qualität von Högl - The Austrian Quality Shoe Brand
 
