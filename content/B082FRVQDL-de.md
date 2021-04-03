@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '22.69 % rabat auf Funko - POP! Rocks: Queen- Freddie Mercu'
-date: 2021-04-01 20:09:20
+title: '23.27 % rabat auf Funko - POP! Rocks: Queen- Freddie Mercu'
+date: 2021-04-03 01:47:28
 image: 'https://m.media-amazon.com/images/I/41XqUjSS5zL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,24 +12,24 @@ tags: [ 'Chibi Figuren','Hobbys','Sammelfiguren & Requisiten','Spielzeug','funko
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38
-comparePrice: 18.6 EUR
+comparePrice: 18.74 EUR
 prodname: 'Funko - POP! Rocks: Queen- Freddie Mercury Radio Gaga'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21'
-descuento: '22.69'
-average: '16.4422033898304'
+descuento: '23.27'
+average: '16.3745901639343'
 ---
 
-Es gibt ein [Funko - POP! Rocks: Queen- Freddie Mercury Radio Gaga](https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21) mit aktuellem Preis 14.38 EUR (original: 18.6 EUR) 22.69 % Rabatt hier:
+Es gibt ein [Funko - POP! Rocks: Queen- Freddie Mercury Radio Gaga](https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21) mit aktuellem Preis 14.38 EUR (original: 18.74 EUR) 23.27 % Rabatt hier:
 
 [![Funko - POP! Rocks: Queen- Freddie Mercu](https://m.media-amazon.com/images/I/41XqUjSS5zL._SL400_.jpg)](https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Queen-Figuren von Funko an! Sammeln Sie alle!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Von Queen, Freddie Mercury Radio Gaga, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Queen-Figuren von Funko an! Sammeln Sie alle!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082FRVQDL/?tag=tolees0ca-21)
