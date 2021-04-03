@@ -28,11 +28,11 @@ Es gibt ein [elasto form - 10x FFP3 Atemschutzmaske Zertifiziert Made IN Germany
 
 ℹ️:
 
-- ✔️ HYGIENISCHE VERPACKUNG - Die Umverpackung von 10 Stück im Polybeutel und Aufbewahrungsbox gewährleisten eine einwandfreie, hygienische Atemschutzmaske, wenn sie benötigt wird
 - ✔️ HAUTVERTRÄGLICH - Die Hautverträglichkeit ist dermatologisch mit "SEHR GUT" bestätigt
-- ✔️ MADE IN GERMANY - Die Herstellung der FFP3 Atemschutzmaske erfolgt in Bayern, Sulzbach-Rosenberg. MADE IN GERMANY - Die Herstellung der FFP2 Atemschutzmaske erfolgt in Bayern, Sulzbach-Rosenberg - Wir verwenden zu 100% deutsches Material
 - ✔️ TRAGEKOMFORT - Flexibler Nasenclip und elastische Ohrschlaufen unserer FFP3 Maske bieten einen angenehmen Tragekomfort und sicheren Halt. Enganliegend und dicht sowie leichtes Atmen aufgrund großzügiger Form
-- ✔️ SCHUTZKLASSE FFP3 - Effiziente 4-lagige Filterschicht aus Meltblown und Spinnvlies
+- ✔️ MADE IN GERMANY - Die Herstellung der FFP3 Atemschutzmaske erfolgt in Bayern, Sulzbach-Rosenberg. MADE IN GERMANY - Die Herstellung der FFP2 Atemschutzmaske erfolgt in Bayern, Sulzbach-Rosenberg - Wir verwenden zu 100% deutsches Material
 - ✔️ GEPRÜFTE WARE - CE-zertifiziert gemäß der Norm EN 149:2001 + A1:2009; Verordnung (EU) 2016/425 für persönliche Schutzausrüstung
+- ✔️ SCHUTZKLASSE FFP3 - Effiziente 4-lagige Filterschicht aus Meltblown und Spinnvlies
+- ✔️ HYGIENISCHE VERPACKUNG - Die Umverpackung von 10 Stück im Polybeutel und Aufbewahrungsbox gewährleisten eine einwandfreie, hygienische Atemschutzmaske, wenn sie benötigt wird
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08H2DGSHV/?tag=tolees0ca-21)

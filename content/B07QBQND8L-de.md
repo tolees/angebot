@@ -28,9 +28,9 @@ Es gibt ein [Funko POP! Bobble Vinyl Marvel: Holiday - Thanos  Mehrfarben  Einhe
 
 ℹ️:
 
-- Von Marvel, Thanos, zur stilisierten POP-Vinyl Figur von Funko!
-- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 - Funko POP! ist das Spielzeug des Jahres 2018
 - Schauen Sie sich jetzt die anderen Marvel-Figuren von Funko an! Sammeln Sie alle!
+- Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von Marvel, Thanos, zur stilisierten POP-Vinyl Figur von Funko!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07QBQND8L/?tag=tolees0ca-21)
