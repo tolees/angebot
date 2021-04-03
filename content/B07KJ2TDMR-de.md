@@ -30,8 +30,8 @@ Es gibt ein [TP-Link Deco M4 Mesh WLAN Set  2 pack  AC1200 WLAN-Heimnetz-Komplet
 
 - Leiferumfang: 2 Deco-Einheiten, 1 RJ45-LAN-Kabel, Netzteile, 1 Schnellinstallationsleitung
 - Nahtlose Übertragung durch ein einziges einheitliches Netzwerk dank der TP-Link Mesh-Technologie, automatische Verbindung auch bei Bewegung zu Hause wie z.B mit Tablet oder Smartphone
-- Verbindung mit bis zu 100 Geräten, einfaches Management per Deco-App
-- Keine Funklöcher, Abdeckungsbereich bis zu 260m² (2er Pack), für eine größere Abdeckung brauchen Sie einfach nur weitere Deco-Einheiten hinzufügen
 - AC 1200 Dualband WLAN-Geschwindigkeit bis zu 1167 MB.Betriebstemperatur: 0 ℃ ~ 40 ℃
+- Keine Funklöcher, Abdeckungsbereich bis zu 260m² (2er Pack), für eine größere Abdeckung brauchen Sie einfach nur weitere Deco-Einheiten hinzufügen
+- Verbindung mit bis zu 100 Geräten, einfaches Management per Deco-App
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KJ2TDMR/?tag=tolees0ca-21)
