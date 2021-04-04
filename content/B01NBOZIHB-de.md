@@ -28,10 +28,10 @@ Sie können [Ravensburger Kartenspiele 26729 - Werwölfe - MorgenGrauen](https:/
 
 ℹ️:
 
-- Der Spielleiter spielt mit
 - Spieler: für 3–10 Spieler
-- Kostenlose Spielleiter-App „Werwölfe Vollmondnacht“ im App und Play Store für noch mehr Atmosphäre und Spielspaß!
-- Alter: ab 10 Jahren
 - Schnelles Bluff- und Rollenspiel
+- Der Spielleiter spielt mit
+- Alter: ab 10 Jahren
+- Kostenlose Spielleiter-App „Werwölfe Vollmondnacht“ im App und Play Store für noch mehr Atmosphäre und Spielspaß!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NBOZIHB/?tag=tolees0ca-21)

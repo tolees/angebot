@@ -29,14 +29,14 @@ Es gibt ein [KOSMOS 692698 - EXIT - Das Spiel - Die Grabkammer des Pharao  Kenne
 ℹ️:
 
 - Für alle, die sich nicht vor kniffligen Rätseln scheuen und schon EXIT Spiele gelöst haben
-- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
-- Ausgezeichnet mit dem Kennerspiel des Jahres 2017
-- Mit Timer und Tutorial in der kostenlosen Kosmos-Erklär-App. Spiel ist mit und ohne App spielbar
-- Aus der erfolgreichen Spielereihe EXIT – Das Spiel. Das Escape-Room-Spiel für Zuhause
-- Kooperatives Eventspiel im Level: Profi für 1–4 Spieler
 - Im praktischen Format: Ideales Partyspiel und Geburtstagsgeschenk
-- Gesellschaftsspiel für Erwachsene und Kinder ab 12 Jahren
 - Einmal spielbar, da beim Lösen der verblüffenden Rätsel das Material zum Teil verändert wird
 - Könnt ihr die Rätsel lösen und aus der Grabkammer des Pharaos entkommen?
+- Ausgezeichnet mit dem Kennerspiel des Jahres 2017
+- Mit Timer und Tutorial in der kostenlosen Kosmos-Erklär-App. Spiel ist mit und ohne App spielbar
+- Kooperatives Eventspiel im Level: Profi für 1–4 Spieler
+- Gesellschaftsspiel für Erwachsene und Kinder ab 12 Jahren
+- Aus der erfolgreichen Spielereihe EXIT – Das Spiel. Das Escape-Room-Spiel für Zuhause
+- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01GVGHJB4/?tag=tolees0ca-21)

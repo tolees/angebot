@@ -28,13 +28,13 @@ Es gibt ein [MSI B450M MORTAR MAX AMD AM4 DDR4 m.2 USB 3.2 Gen 2 HDMI M-ATX Gami
 
 ℹ️:
 
-- Core Boost und DDR4 Boost sorgen für durchgehend hohe Leistung
-- Audio-Boost für beeindruckenden Sound in Studioqualität
-- Extended Heatsink für optimale Kühlung im Dauerbetrieb
-- Anschlüsse: 1 x TPM-Modulanschluss, 1 x Audioanschluss an der Vorderseite, 2 x Systempanel-Anschlüsse, 1 x Chassis Intrusion-Anschluss, 1 x CMOS-Jumper löschen, 1 x serieller Anschluss, 1 x Parallelanschluss
+- Turbo M.2 mit Gen 3 x4, AMD StoreMI-Technik, Turbo USB 3.2 Gen2 für schnelle Datenübertragung
 - Einfache Handhabung duch sinnvoll platzierte Anschlüsse und ein durchdachtes Platinendesign
 - Kompatibel mit AMD Ryzen 9, Ryzen 7 und Ryzen 5 AM4 Prozessoren der 3. Generation
+- Extended Heatsink für optimale Kühlung im Dauerbetrieb
 - Interne Anschlüsse: 1 x 24-poliger ATX 12V-Stromanschluss, 1 x 8-poliger ATX 12V-Stromanschluss, 4 x SATA 6Gb / s-Anschlüsse, 2 x USB 2.0-Anschlüsse (unterstützen zusätzliche 4 USB 2.0-Anschlüsse), 1 x USB 3.2 Gen1-Anschluss (unterstützt zusätzliche 2 USB 3.2 Gen1-Anschlüsse), 1 x 4-poliger CPU-Lüfteranschluss, 3 x 4-polige Systemlüfteranschlüsse, 2 x 5050 RGB LED-Streifen 12V-
-- Turbo M.2 mit Gen 3 x4, AMD StoreMI-Technik, Turbo USB 3.2 Gen2 für schnelle Datenübertragung
+- Anschlüsse: 1 x TPM-Modulanschluss, 1 x Audioanschluss an der Vorderseite, 2 x Systempanel-Anschlüsse, 1 x Chassis Intrusion-Anschluss, 1 x CMOS-Jumper löschen, 1 x serieller Anschluss, 1 x Parallelanschluss
+- Core Boost und DDR4 Boost sorgen für durchgehend hohe Leistung
+- Audio-Boost für beeindruckenden Sound in Studioqualität
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WC6LLB6/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Jack Wolfskin Herren SVALBARD COAT MEN winddichter Wintermantel  Br
 
 ℹ️:
 
+- Wattierter Kurzmantel
+- Winddicht, wasserabweisend
 - Mit recycelter Wattierung
 - Mit Kapuze
-- Wattierter Kurzmantel
 - Pfc-frei, bluesign-zertifiziert
-- Winddicht, wasserabweisend
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087QZV63L/?tag=tolees0ca-21)

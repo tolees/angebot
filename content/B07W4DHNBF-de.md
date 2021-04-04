@@ -28,9 +28,9 @@ Es gibt ein [Logitech Streamcam Webcam für Live Streaming und Inhaltserstellung
 
 ℹ️:
 
-- Vertikales Video in Full HD – Umschalten auf vertikales 9:16-Video durch einfaches Drehen der StreamCam. Perfekt für Instagram- und Facebook-Stories
-- Smart-Autofokus und -Belichtung – konzentrieren Sie sich in Ruhe darauf, Ihre Leidenschaft zu vermitteln: der Autofokus und die automatische Belichtungssteuerung der StreamCam erledigen den Rest inkl. modernster, künstlicher Intelligenz zur Gesichtsverfolgung
 - Full HD 1080p bei 60 fps – Sie und Ihr Publikum haben gleichermaßen Freude an superflüssigen, hochwertigen Streams mit präziser Bewegung und noch präziseren Videos
+- Smart-Autofokus und -Belichtung – konzentrieren Sie sich in Ruhe darauf, Ihre Leidenschaft zu vermitteln: der Autofokus und die automatische Belichtungssteuerung der StreamCam erledigen den Rest inkl. modernster, künstlicher Intelligenz zur Gesichtsverfolgung
+- Vertikales Video in Full HD – Umschalten auf vertikales 9:16-Video durch einfaches Drehen der StreamCam. Perfekt für Instagram- und Facebook-Stories
 - Flexibilität durch duales Kamera Montage System – zur StreamCam gehören eine Monitorhalterung und ein Stativadapter. Damit lässt sich jedes Mal beim streamen oder aufzeichnen mühelos der perfekte Winkel finden. Die integrierte Bildstabilisierung gleicht Bewegungen der Kamera aus
 - Logitech Capture – diese Videoaufzeichnungs- und Streaming-Software macht das produzieren von Inhalten mit der StreamCam einfach, schnell und intuitiv
 
