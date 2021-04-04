@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.63 % rabat auf Yealink WF40 WLAN 150 MBit/s Netzwerkkar'
-date: 2021-04-02 03:05:52
+date: 2021-04-04 15:31:10
 image: 'https://m.media-amazon.com/images/I/31ng6L-kUuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Yealink'
 buyurl: 'https://www.amazon.de/dp/B01EA8ZUZW/?tag=tolees0ca-21'
 descuento: '33.63'
-average: '27.9937142857141'
+average: '27.9516666666665'
 ---
 
 Es gibt ein [Yealink WF40 WLAN 150 MBit/s Netzwerkkarte – Zubehör Netzwerk  kabellos  USB Type  WLAN  150 Mbit/s  2 4 GHz  IEEE 802.11b  IEEE 802.11 g  IEEE 802.11 N ](https://www.amazon.de/dp/B01EA8ZUZW/?tag=tolees0ca-21) mit aktuellem Preis 26.48 EUR (original: 39.9 EUR) 33.63 % Rabatt hier:

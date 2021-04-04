@@ -28,8 +28,8 @@ Es gibt ein [Funko 50149 POP Rocks: Freddie Mercury King Sammelbares Spielzeug  
 
 ℹ️:
 
-- Schauen Sie sich jetzt die anderen Queen-Figuren von Funko an! Sammeln Sie alle!
 - Von Queen, Freddie Mercury King, zur stilisierten POP-Vinyl Figur von Funko!
+- Schauen Sie sich jetzt die anderen Queen-Figuren von Funko an! Sammeln Sie alle!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B083MCJD4M/?tag=tolees0ca-21)

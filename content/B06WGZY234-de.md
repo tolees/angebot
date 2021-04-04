@@ -28,10 +28,10 @@ Es gibt ein [Playmobil Country 6926 Großer Reiterhof  mit viel Zubehör  358-te
 
 ℹ️:
 
-- 2 Figuren, 3 Pferde, 2 Ställe, Mit Gatterzaun für verschiedene Aufbaumöglichkeiten, uvm., Erweiterbar mit PLAYMOBIL Country Pferdewaschplatz (6929)
-- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Lieferumfang: 1x PLAYMOBIL Country Großer Reiterhof, 358 -teiliges Spielfiguren-Set mit Anleitung: 1 Reiterhof, 14 Tiere, 2 Figuren, 341 Zubehörteile, Material: Kunststoff, LxBxH: 69,5x 41x24,5 cm, 6926
-- Spielspaß für kleine Pferdefans: PLAYMOBIL Großer Reiterhof mit Tieren, Ställen, Freigehege und weiteren Zubehörteilen für detailgetreues Nachspielen
+- 2 Figuren, 3 Pferde, 2 Ställe, Mit Gatterzaun für verschiedene Aufbaumöglichkeiten, uvm., Erweiterbar mit PLAYMOBIL Country Pferdewaschplatz (6929)
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Spielspaß für kleine Pferdefans: PLAYMOBIL Großer Reiterhof mit Tieren, Ställen, Freigehege und weiteren Zubehörteilen für detailgetreues Nachspielen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06WGZY234/?tag=tolees0ca-21)

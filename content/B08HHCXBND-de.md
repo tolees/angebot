@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '21.99 % rabat auf Xiaomi Mi 10T 6GB+128GB Cosmic Black ohn'
-date: 2021-04-03 01:39:38
+title: '26.05 % rabat auf Xiaomi Mi 10T 6GB+128GB Cosmic Black ohn'
+date: 2021-04-04 15:36:49
 image: 'https://m.media-amazon.com/images/I/41E5RBCWraL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08HHCXBND-de Xiaomi Mi 10T 6GB+128GB Cosmic Black ohne Simlock Alexa...'
 sku: 'B08HHCXBND-de'
 tags: [ 'Elektronik & Foto','Handys & Smartphones','Handys & Zubehör','Simlockfreie Handys','xiaomi', ]
-actualPrice: 389.25 EUR
+actualPrice: 369.0 EUR
 currency: EUR
-price: 389.25
+price: 369.0
 comparePrice: 499.0 EUR
 prodname: 'Xiaomi Mi 10T 6GB+128GB Cosmic Black ohne Simlock  Alexa Hands-Free  ohne Branding'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B08HHCXBND/?tag=tolees0ca-21'
-descuento: '21.99'
-average: '451.113033707866'
+descuento: '26.05'
+average: '450.200666666667'
 ---
 
-Es gibt ein [Xiaomi Mi 10T 6GB+128GB Cosmic Black ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HHCXBND/?tag=tolees0ca-21) mit aktuellem Preis 389.25 EUR (original: 499.0 EUR) 21.99 % Rabatt hier:
+Es gibt ein [Xiaomi Mi 10T 6GB+128GB Cosmic Black ohne Simlock  Alexa Hands-Free  ohne Branding](https://www.amazon.de/dp/B08HHCXBND/?tag=tolees0ca-21) mit aktuellem Preis 369.0 EUR (original: 499.0 EUR) 26.05 % Rabatt hier:
 
 [![Xiaomi Mi 10T 6GB+128GB Cosmic Black ohn](https://m.media-amazon.com/images/I/41E5RBCWraL._SL400_.jpg)](https://www.amazon.de/dp/B08HHCXBND/?tag=tolees0ca-21)
 
