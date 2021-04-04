@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Herren Woodburn Li  Multisport  mit 33.31 % Rabatt'
-date: 2021-03-26 20:50:42
+date: 2021-04-04 09:46:26
 image: 'https://m.media-amazon.com/images/I/410OeqcvOPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Sie können [Columbia Herren Woodburn Li  Multisport Schuh  Schwarz  43 EU](http
 
 ℹ️:
 
-- Leichte Techlite Zwischensohle
 - Der Columbia Peakfreak Nomad ist ein typischer Outdoor-Schuh, der als Light Trail und als City Trail-Schuh Gebrauch findet. Das besonders leichte Obermaterial aus Leder und Mesh sorgt für Komfort und Atmungsaktivität. Die gepolsterte Zwischensohle sorgt für eine hohe Energierückgabe und die abtriebfeste Außensohle dient für eine perfekte Bodenhaftung
+- Leichte Techlite Zwischensohle
 - Obermaterial aus Leder/Mesh
 - Abtriebfeste Omni-Grip Gummi-Außensohle für gute Bodenhaftung
 
