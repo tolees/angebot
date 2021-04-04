@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.55 % rabat auf Nintendo - Joy-Con 2er-Set Neon-Grün/Neo'
-date: 2021-04-02 07:45:21
+date: 2021-04-04 14:42:15
 image: 'https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.de/dp/B072BZ66JL/?tag=tolees0ca-21'
 descuento: '25.55'
-average: '66.529111111111'
+average: '66.5393478260868'
 ---
 
 Es gibt ein [Nintendo - Joy-Con 2er-Set Neon-Grün/Neon-Pink](https://www.amazon.de/dp/B072BZ66JL/?tag=tolees0ca-21) mit aktuellem Preis 67.0 EUR (original: 89.99 EUR) 25.55 % Rabatt hier:

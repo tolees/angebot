@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.05 % rabat auf Funko 50149 POP Rocks: Freddie Mercury K'
-date: 2021-04-01 19:29:28
+date: 2021-04-04 14:52:13
 image: 'https://m.media-amazon.com/images/I/41pbDdGmWlL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B083MCJD4M/?tag=tolees0ca-21'
 descuento: '24.05'
-average: '17.8502631578948'
+average: '17.8072500000001'
 ---
 
 Es gibt ein [Funko 50149 POP Rocks: Freddie Mercury King Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B083MCJD4M/?tag=tolees0ca-21) mit aktuellem Preis 16.99 EUR (original: 22.37 EUR) 24.05 % Rabatt hier:
@@ -28,8 +28,8 @@ Es gibt ein [Funko 50149 POP Rocks: Freddie Mercury King Sammelbares Spielzeug  
 
 ℹ️:
 
+- Schauen Sie sich jetzt die anderen Queen-Figuren von Funko an! Sammeln Sie alle!
 - Von Queen, Freddie Mercury King, zur stilisierten POP-Vinyl Figur von Funko!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Schauen Sie sich jetzt die anderen Queen-Figuren von Funko an! Sammeln Sie alle!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B083MCJD4M/?tag=tolees0ca-21)
