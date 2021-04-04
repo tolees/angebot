@@ -28,10 +28,10 @@ Es gibt ein [SICURA MASCHERINE CHIRURGICHE - 10 FFP3 Masken - Filterklasse BFE �
 
 ℹ️:
 
-- ISO 13485 und ISO 9001 zertifiziert für Medizinprodukte. 10 Einwegmasken mit Filter. Hergestellt aus hocheffizientern Weiß TNT, hoher Wirkungsgrad.Elastiche Ohrbänder für maximalen Komfort und einfaches Tragen.
 - PFE ≥99% Partikel Filtrationseffizienz
 - Produkt hergestellt in Italien und marke CE 2841
 - Entspricht der europäischen Norm En 149:2001+A1:2009
+- ISO 13485 und ISO 9001 zertifiziert für Medizinprodukte. 10 Einwegmasken mit Filter. Hergestellt aus hocheffizientern Weiß TNT, hoher Wirkungsgrad.Elastiche Ohrbänder für maximalen Komfort und einfaches Tragen.
 - BFE ≥99% Effizienz der Bakterienfiltration
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08LHCT8SP/?tag=tolees0ca-21)

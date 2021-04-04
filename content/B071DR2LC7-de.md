@@ -29,9 +29,9 @@ Sie können [Tommy Hilfiger Damen Honey Large Za Wallet Geldbörse  Schwarz  Bla
 ℹ️:
 
 - Verschlussart: Reißverschluss
-- Außenmaße (LxBxH): 19cm x 10cm x 2cm
+- Serie: Honey
 - Material: PVC
 - Anzahl Kreditkartenfächer: 12
-- Serie: Honey
+- Außenmaße (LxBxH): 19cm x 10cm x 2cm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B071DR2LC7/?tag=tolees0ca-21)

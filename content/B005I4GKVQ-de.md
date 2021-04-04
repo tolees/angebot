@@ -28,10 +28,10 @@ Es gibt ein [TFA Dostmann Digitaler Timer  38.2021  Stoppuhr  klein und handlich
 
 ℹ️:
 
-- Zeitspannen: Zeit bis 99 min, 59 sek einstellbar, auch als Langzeit Timer geeignet, großer Zeitbereich, nützlich
-- Zeitmanagement: Ideal für das Messen der Zeit beim Kochen, Sport, Lernen und vielem mehr
-- Memory-Funktion: Zuletzt verwendete Zeite wird gespeichert
-- Befestigung mit Magnet, Klipp, Ständer oder Aufhänger auf der Rückseite des Timers
 - Großes Display: Klar und einfach abzulesen, hier haben Sie stets die restliche Zeit im Blick
+- Befestigung mit Magnet, Klipp, Ständer oder Aufhänger auf der Rückseite des Timers
+- Memory-Funktion: Zuletzt verwendete Zeite wird gespeichert
+- Zeitmanagement: Ideal für das Messen der Zeit beim Kochen, Sport, Lernen und vielem mehr
+- Zeitspannen: Zeit bis 99 min, 59 sek einstellbar, auch als Langzeit Timer geeignet, großer Zeitbereich, nützlich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B005I4GKVQ/?tag=tolees0ca-21)
