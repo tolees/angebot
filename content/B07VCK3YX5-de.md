@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superzings 41946 Rucksack  bunt mit 22.34 % Rabatt'
-date: 2021-04-04 10:10:43
+date: 2021-04-05 14:26:07
 image: 'https://m.media-amazon.com/images/I/5144jOQszwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Superzings'
 buyurl: 'https://www.amazon.de/dp/B07VCK3YX5/?tag=tolees0ca-21'
 descuento: '22.34'
-average: '29.6095081967212'
+average: '29.5983695652173'
 ---
 
 Sie können [Superzings 41946 Rucksack  bunt](https://www.amazon.de/dp/B07VCK3YX5/?tag=tolees0ca-21) mit Preis 27.56 EUR (original: 35.49 EUR) 22.34 % Rabatt hier:

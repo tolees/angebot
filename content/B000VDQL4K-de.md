@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.80 % rabat auf 3M Atemschutzmaske 9332 Komfort  Schutzs'
-date: 2021-04-04 09:46:08
+date: 2021-04-05 14:18:14
 image: 'https://m.media-amazon.com/images/I/31kYkfG86XL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: '3M'
 buyurl: 'https://www.amazon.de/dp/B000VDQL4K/?tag=tolees0ca-21'
 descuento: '31.80'
-average: '6.37869565217391'
+average: '6.36583333333333'
 ---
 
 Es gibt ein [3M Atemschutzmaske 9332 Komfort  Schutzstufe FFP3](https://www.amazon.de/dp/B000VDQL4K/?tag=tolees0ca-21) mit aktuellem Preis 6.07 EUR (original: 8.9 EUR) 31.80 % Rabatt hier:
