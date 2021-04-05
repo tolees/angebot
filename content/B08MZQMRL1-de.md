@@ -28,10 +28,10 @@ Sie können [SDSAD Wireless Controller für Playstation 4 L Eine Generation von 
 
 ℹ️:
 
-- * Effizientes Laden: Schließen Sie den kabellosen Controller an das PS4-System an, um es einfach aufzuladen. Auch im Standby-Modus können Sie ein Standard-Ladegerät mit einem Mikro-USB-Anschluss zum Aufladen verwenden.
-- * Hinweis: Bitte beachten Sie die Bedienungsanleitung (evtl. nicht in deutscher Sprache) im Abschnitt des Produkts
 - * Immer in Reichweite: Fügen Sie die Taste „Teilen“ hinzu, um die spannendsten Spielmomente zu teilen. Klicken Sie auf die Taste.
 - * Neuer Spiel-Modus: Revolutionäre Funktionen, wie eine integrierte Lichtleiste, Touchpad und integrierte Lautsprecher, die neue spannende Erfahrungen und Möglichkeiten zum Interagieren mit Spielen bieten.
+- * Effizientes Laden: Schließen Sie den kabellosen Controller an das PS4-System an, um es einfach aufzuladen. Auch im Standby-Modus können Sie ein Standard-Ladegerät mit einem Mikro-USB-Anschluss zum Aufladen verwenden.
+- * Hinweis: Bitte beachten Sie die Bedienungsanleitung (evtl. nicht in deutscher Sprache) im Abschnitt des Produkts
 - * Präzise Steuerung: Das Spielgefühl, die Form und die Empfindlichkeit der Tasten und die Operationen werden verbessert, so dass die Spieler alle Spiele auf der Playstation 4 vollständig steuern können.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08MZQMRL1/?tag=tolees0ca-21)
