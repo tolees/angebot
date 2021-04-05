@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste Herren Chaymon BL 1 CMA Plimsoll mit 38.54 % Rabatt'
-date: 2021-04-04 15:34:13
+date: 2021-04-05 20:32:14
 image: 'https://m.media-amazon.com/images/I/31CstPfs0NL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Lacoste'
 buyurl: 'https://www.amazon.de/dp/B07DHTM5YB/?tag=tolees0ca-21'
 descuento: '38.54'
-average: '90.4733333333333'
+average: '89.8125'
 ---
 
 Sie können [Lacoste Herren Chaymon BL 1 CMA Plimsolls  Weiß  White/White   41 EU](https://www.amazon.de/dp/B07DHTM5YB/?tag=tolees0ca-21) mit Preis 79.9 EUR (original: 130.0 EUR) 38.54 % Rabatt hier:

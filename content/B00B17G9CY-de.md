@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MATSCHENZ JACOB - 3 Zimmer/Küche/Bad mit 36.80 % Rabatt'
-date: 2021-04-04 15:31:16
+date: 2021-04-05 20:52:55
 image: 'https://m.media-amazon.com/images/I/51c+LaBOkpL._SL400_.jpg'
 comments: true
 category: ofertas

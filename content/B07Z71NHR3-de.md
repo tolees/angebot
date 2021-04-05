@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buhl Data Service - WISO steuer:Start 20 mit 18.34 % Rabatt'
-date: 2021-04-04 14:43:41
+date: 2021-04-05 20:37:24
 image: 'https://m.media-amazon.com/images/I/41hU+PCGPJL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Buhl Data Service'
 buyurl: 'https://www.amazon.de/dp/B07Z71NHR3/?tag=tolees0ca-21'
 descuento: '18.34'
-average: '15.594'
+average: '15.63'
 ---
 
 Sie können [Buhl Data Service - WISO steuer:Start 2020  für Steuerjahr 2019  | PC Aktivierungscode per Email](https://www.amazon.de/dp/B07Z71NHR3/?tag=tolees0ca-21) mit Preis 15.99 EUR (original: 19.58 EUR) 18.34 % Rabatt hier:
@@ -30,8 +30,8 @@ Sie können [Buhl Data Service - WISO steuer:Start 2020  für Steuerjahr 2019  |
 
 - WISO steuer:Start 2020 für die Einkommensteuer-Erklärung 2019 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2019
 - Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2020
-- Systemvoraussetzungen: Windows 7/8.1/10, Internet-Zugang
-- Unterstützt die vorausgefüllte Steuererklärung (VaSt) Automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
 - Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit Wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
+- Unterstützt die vorausgefüllte Steuererklärung (VaSt) Automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
+- Systemvoraussetzungen: Windows 7/8.1/10, Internet-Zugang
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07Z71NHR3/?tag=tolees0ca-21)

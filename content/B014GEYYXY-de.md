@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.02 % rabat auf Electronic Arts - Die Sims 4 - Stuff Pac'
-date: 2021-04-04 15:20:35
+date: 2021-04-05 20:15:02
 image: 'https://m.media-amazon.com/images/I/51-19Pr3WKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.de/dp/B014GEYYXY/?tag=tolees0ca-21'
 descuento: '20.02'
-average: '9.51941176470589'
+average: '9.43444444444445'
 ---
 
 Es gibt ein [Electronic Arts - Die Sims 4 - Stuff Pack 3 | Coole Küchen | PC Download Code - Origin](https://www.amazon.de/dp/B014GEYYXY/?tag=tolees0ca-21) mit aktuellem Preis 7.99 EUR (original: 9.99 EUR) 20.02 % Rabatt hier:
