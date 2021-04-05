@@ -29,7 +29,7 @@ Es gibt ein [Canal Toys – ct35802 – Kreativset – Slime Factory](http
 ℹ️:
 
 - 1 fertigt und 1 Mischer, 3 Shaker, 10 Beutel Slime-Pulvers, 3 Röhren, 3 x Dekorationen, 6 g, Glitters, 4 Figuren Überraschungen, 1 Werkzeug, 1 Trichter, 1 Bogen Aufkleber -
-- Maße: B 34 x P8 x Höhe 31 cm
 - Slime, fertigt, Freizeit creatifs, Glitzer, Fun, Deko
+- Maße: B 34 x P8 x Höhe 31 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0749P4NJB/?tag=tolees0ca-21)
