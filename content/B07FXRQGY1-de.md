@@ -28,8 +28,8 @@ Sie können [Vans Damen Filmore Decon Sneaker  Canvas Black True White  41 EU](h
 
 ℹ️:
 
+- Sohle: Gummi
 - Innenmaterial: Textil
 - Obermaterial: Canvas
-- Sohle: Gummi
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FXRQGY1/?tag=tolees0ca-21)
