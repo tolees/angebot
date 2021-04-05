@@ -28,8 +28,8 @@ Es gibt ein [Funko - POP Fantastic Beasts 2 ZOUWU V](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- POP 19
 - POP! Vinyl
 - Fantastische Tiere 2 TCoG
+- POP 19
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07HB4VLTQ/?tag=tolees0ca-21)

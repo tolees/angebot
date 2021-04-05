@@ -30,7 +30,7 @@ Es gibt ein [SUPERTHINGS RIVALS OF KABOOM - Battle Spinners Serie 7 2 Exklusive 
 
 - Paketmaße: 48,0 L x 42,0 H x 20,0 W (centimeters)
 - Anzahl der Spieler: 2
-- Super Things Spiel
 - Paketgewicht: 300,0 Gramm
+- Super Things Spiel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08JZ88CL8/?tag=tolees0ca-21)

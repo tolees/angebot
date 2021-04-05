@@ -28,10 +28,10 @@ Sie können [FR FiRiO - FiRiO® 16x FFP2 Maske CE Zertifiziert aus Deutschland -
 
 ℹ️:
 
-- &#x2705 HYGIENISCH VERPACKT: FFP2 Maske Made in Germany hygienisch verpackt. Medizinische FFP2 Maske Deutschland. Gewölbte Staubschutzmasken mit 4 Lagen Filter. Mund und Nasenschutz Einweg-Gebrauch geeignet!
-- &#x2705 100% MADE IN GERMANY – 4 Lagen FFP2 Maske CE Zertifiziert aus Deutschland im 10+6er Pack. Der Mund-Schutz sitzt bequem und ist atmungsaktiv. Höchste Qualität aus deutscher Produktion. Keine ungeprüfte China Ware!
 - &#x2705 6x FFP2 MADE IN GERMANY GRATIS: Medizinische Gesichtsmaske FFP2 mit weichen Ohrschlaufen für Damen & Herren im 10+6er Set. Jetzt Vorteilspack mit 6x zusätzlicher Atemschutzmaske FFP2 Deutschland hergestellt sichern!
+- &#x2705 HYGIENISCH VERPACKT: FFP2 Maske Made in Germany hygienisch verpackt. Medizinische FFP2 Maske Deutschland. Gewölbte Staubschutzmasken mit 4 Lagen Filter. Mund und Nasenschutz Einweg-Gebrauch geeignet!
 - &#x2705 GEPRÜFT & CE ZERTIFIZIERT: 16 FFP2 Masken zertifiziert aus Deutschland. Geprüfte Mund Nasen Schutzmaske / Einmalmasken. FFP2 Maske CE zertifiziert deutscher Hersteller im Vorteilspack mit 6 Zusatz-Einwegmasken!
+- &#x2705 100% MADE IN GERMANY – 4 Lagen FFP2 Maske CE Zertifiziert aus Deutschland im 10+6er Pack. Der Mund-Schutz sitzt bequem und ist atmungsaktiv. Höchste Qualität aus deutscher Produktion. Keine ungeprüfte China Ware!
 - &#x2705 FORMSTABILER NASENCLIP: Medizinischer Mundschutz FFP2 Maske deutscher Hersteller mit flexiblem Nasenbügel. Maximaler Komfort & optimaler Atemschutz. Einheitsgröße gemäß EU-Standard. Perfekte Passform!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08Y76JMB5/?tag=tolees0ca-21)

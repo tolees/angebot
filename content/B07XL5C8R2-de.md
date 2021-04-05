@@ -29,8 +29,8 @@ Es gibt ein [SP Connect Stem Mount Pro](https://www.amazon.de/dp/B07XL5C8R2/?tag
 ℹ️:
 
 - Hoch / Querformat-Option
+- Edelstahlschraube (M6/35mm)
 - Winkelverstellbarer Arm
 - CNC gefräst aus Aluminium
-- Edelstahlschraube (M6/35mm)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XL5C8R2/?tag=tolees0ca-21)

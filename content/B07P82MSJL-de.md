@@ -28,9 +28,9 @@ Es gibt ein [Funko Vinyl: Harry Potter S7 - Viktor Krum  Yule   Mehrfarben  Stan
 
 ℹ️:
 
-- Von Harry Potter, Viktor Krum (Yule), zur stilisierten POP-Vinyl Figur von Funko!
 - POP! Vinyl
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von Harry Potter, Viktor Krum (Yule), zur stilisierten POP-Vinyl Figur von Funko!
 - Harry Potter
 - Schauen Sie sich jetzt die anderen Harry Potter-Figuren von Funko an! Sammeln Sie alle!
 

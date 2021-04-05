@@ -28,12 +28,12 @@ Sie können [Apple AirPods Pro](https://www.amazon.de/dp/B07ZPML7NP/?tag=tolees0
 
 ℹ️:
 
-- Vor Schweiß und Wasser geschützt
-- Einfaches Setup für alle deine Apple Geräte
 - Schneller Zugriff auf Siri, indem du einfach "Hey Siri" sagst
 - Weiche, konische Silikontips in drei Größen für eine individuelle Passform
-- Aktive Geräuschunterdrückung für immersiven Klang
+- Vor Schweiß und Wasser geschützt
 - Transparenzmodus, um dein Umfeld zu hören und darauf reagieren zu können
+- Aktive Geräuschunterdrückung für immersiven Klang
+- Einfaches Setup für alle deine Apple Geräte
 - Der Adaptive EQ passt Musik automatisch an deine Ohrform an
 - Das kabellose Ladecase gibt dir eine Batterielaufzeit von mehr als 24 Stunden
 

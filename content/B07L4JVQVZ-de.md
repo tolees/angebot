@@ -28,9 +28,9 @@ Es gibt ein [Funko - POP FORTNITE Valor Vinyl Figur](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Spiele: First Light
-- POP 22
 - POP! Vinylfigur
+- Spiele: First Light
 - POP! Vinyl.
+- POP 22
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07L4JVQVZ/?tag=tolees0ca-21)

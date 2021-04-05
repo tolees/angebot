@@ -29,9 +29,9 @@ Es gibt ein [Jiada - 50 Stück FFP2 Maske CE zertifiziert  mit 5-lagigem Filters
 ℹ️:
 
 - die Maske passt sich dem Gesicht an und besitzt einen flexiblen Nasenbügel und elastische Ohrenschlaufen dadurch entsteht ein natürliches Tragegefühl, auch bei langfristigem Tragen bleibt die Maske bequem
-- FFP2 Maske mit 5-Schicht Filtersystem bietet einen umfangreichen Schutz, die Maske hat eine hohe Filterleistung und besitzt einen geringen Atemwiderstand
-- 50 Stück, die Masken sind hygienisch, luftdicht einzeln verpackt dadurch wird eine Verunreinigung vor dem Gebrauch verhindert
 - Die Halbmaske erfüllt die Schutzstufe FFP2 der Norm EN149:2001+A1:2009, welche voraussetzt, dass sie u.a. mind. 95% der gesundheitsschädlichen Stäube, Nebel und Rauche herausfiltert, sowie einen Filter für feste (Feinstäube) und flüssige Partikel (Aerosole, wie kleinste Tröpfchen) besitzt.
+- 50 Stück, die Masken sind hygienisch, luftdicht einzeln verpackt dadurch wird eine Verunreinigung vor dem Gebrauch verhindert
 - alle nötigen Zertifizierungen und Kennzeichnungen sind vorhanden: FFP2 NR. EN 149:2001 + A1:2009 ; CE 0370 ; EU-Konformitätserklärung vorhanden Zertifikats-Nr.: 0370-4483-PPE/B ; Technische Spezifikation: PPE Verordnung (EU)2016/425
+- FFP2 Maske mit 5-Schicht Filtersystem bietet einen umfangreichen Schutz, die Maske hat eine hohe Filterleistung und besitzt einen geringen Atemwiderstand
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08SJ8ZGBD/?tag=tolees0ca-21)

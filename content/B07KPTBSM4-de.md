@@ -28,10 +28,10 @@ Es gibt ein [Funko - POP! Vinyl: Disney: Aladdin  Live Action : Aladdin & Abu](h
 
 ℹ️:
 
-- Disney Aladdin
-- Aladdin & Abu
-- Von Aladdin, Aladdin & Abu, zur stilisierten POP-Vinyl Figur von Funko!
-- POP! Vinyl
 - Spielzeug des Jahres 2018
+- Disney Aladdin
+- POP! Vinyl
+- Von Aladdin, Aladdin & Abu, zur stilisierten POP-Vinyl Figur von Funko!
+- Aladdin & Abu
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPTBSM4/?tag=tolees0ca-21)
