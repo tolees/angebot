@@ -28,10 +28,10 @@ Sie können [Kosmos 693398 - Harry Potter Kampf um Hogwarts. Das Harry Potter Sp
 
 ℹ️:
 
-- Hogwarts Battle: Das Harry Potter Spiel für 2–4 Spieler
-- Langerwartetes Gesellschaftsspiel: In 7 Etappen die Story der erfolgreichen Harry Potter Kinofilme erleben
+- Must-have und besonderes Geschenk für jeden Harry-Potter-Fan
 - Kartenspiel für Erwachsene und Kinder ab 11 Jahren
 - Mit tollen Spielkarten und schöner Ausstattung für eine stimmungsvolle Atmosphäre wie in Hogwarts
-- Must-have und besonderes Geschenk für jeden Harry-Potter-Fan
+- Hogwarts Battle: Das Harry Potter Spiel für 2–4 Spieler
+- Langerwartetes Gesellschaftsspiel: In 7 Etappen die Story der erfolgreichen Harry Potter Kinofilme erleben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MCW81MW/?tag=tolees0ca-21)
