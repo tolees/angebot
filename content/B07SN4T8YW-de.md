@@ -28,9 +28,9 @@ Es gibt ein [Havaianas Herren Urban Basic Ii Zehentrenner  Schwarz  Black 0090  
 
 ℹ️:
 
-- Obermaterial: Gummi
+- Sohle: Gummi
 - Verschluss: Ohne Verschluss
 - Innenmaterial: Ohne Futter
-- Sohle: Gummi
+- Obermaterial: Gummi
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07SN4T8YW/?tag=tolees0ca-21)
