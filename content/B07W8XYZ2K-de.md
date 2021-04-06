@@ -1,37 +1,39 @@
 ---
 layout: post
-title: '27.51 % rabat auf Lego Ninjago Produkttitel fehlt - Wird n'
-date: 2021-03-25 09:43:42
+title: '25.01 % rabat auf Lego Ninjago - Lego 71710 NINJAGO Ninja-'
+date: 2021-04-06 20:54:07
 image: 'https://m.media-amazon.com/images/I/51hejF-DNpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W8XYZ2K-de Lego Ninjago Produkttitel fehlt - Wird nachgereicht'
+slug: 'B07W8XYZ2K-de Lego Ninjago - Lego 71710 NINJAGO Ninja-Tuning-Fahrzeug...'
 sku: 'B07W8XYZ2K-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego ninjago', ]
-actualPrice: 28.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 28.99
+price: 29.99
 comparePrice: 39.99 EUR
-prodname: 'Lego Ninjago Produkttitel fehlt - Wird nachgereicht'
+prodname: 'Lego Ninjago - Lego 71710 NINJAGO Ninja-Tuning-Fahrzeug mit Waffen und Klingen  Bauset  Prime Empire Rennfahrzeuge'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Lego Ninjago'
 buyurl: 'https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21'
-descuento: '27.51'
-average: '27.7628915662651'
+descuento: '25.01'
+average: '27.8405813953489'
 ---
 
-Es gibt ein [Lego Ninjago Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21) mit aktuellem Preis 28.99 EUR (original: 39.99 EUR) 27.51 % Rabatt hier:
+Es gibt ein [Lego Ninjago - Lego 71710 NINJAGO Ninja-Tuning-Fahrzeug mit Waffen und Klingen  Bauset  Prime Empire Rennfahrzeuge](https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
 
-[![Lego Ninjago Produkttitel fehlt - Wird n](https://m.media-amazon.com/images/I/51hejF-DNpL._SL400_.jpg)](https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21)
+[![Lego Ninjago - Lego 71710 NINJAGO Ninja-](https://m.media-amazon.com/images/I/51hejF-DNpL._SL400_.jpg)](https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Die schwer gepanzerten Tuning-Fahrzeug-Räder können unten weggeklappt werden, wenn das Auto nach dem Spreizen der Klingen und dem Wechsel in den Flugmodus fliegt
-- Enthält ein Ninja-Tuning-Fahrzeug mit Waffen und Klingen, die es durch Drehen des Key-Tanas in ein fliegendes Schlachtauto-Spielzeug verwandeln
-- Enthält 4 Minifiguren, die im Spiel kämpfen: Digi Kai, Scott und 2 Rote Visiere kommen mit neuen Gesundheitstafeln, um ihre verbleibenden Lebenspunkte anzuzeigen
-- Zu den Accessoires gehören ein Schild, Prime Controller -Waffen, Waffen der Roten Visiere, Sensen, Katanas und vieles mehr sowie das Sammlerstück, das lila Key-Tana
-- Das Auto verfügt über eine sehr detaillierte Karosserie mit vielen beweglichen Teilen, einem pinkfarbenen Cockpit zum Öffnen und farbenfrohen Aufklebern, um sich durch das Prime Empire durchzuschlagen
+- Dieses Bauset enthält ein Ninja-Tuning-Fahrzeug und 4 Minifiguren: die NINJAGO Helden Digi Kai und Scott sowie zwei Rot Visiere. Kleine Kinder werden gerne der echten Welt entfliehen und Actionszenen mit diesem Flitzer nachstellen, um sich ein Key-Tana zu holen.
+- Dieser LEGO NINJAGO Flitzer ist das perfekte Spielzeug für zu Hause und unterwegs. Das Ninja-Tuning-Fahrzeug ist 6 cm hoch, 33 cm lang und 11 cm breit.
+- Für dieses Spielset werden keine Batterien benötigt. Sobald das Auto gebaut ist, steht spannendem Spielspaß in der NINJAGO Fantasiewelt nichts mehr im Weg – und zwar ohne einen Tankstopp.
+- Dieses 419-teilige Ninja-Spielset bietet Jungen und Mädchen ab 8 Jahren ein lohnendes Bauerlebnis und ist zudem ein tolles Geburtstagsgeschenk. Das Spielset ist ab Januar 2020 erhältlich und wird Mini-Ninja garantiert viele Stunden intensiv beschäftigen und ihnen jede Menge Rennspaß bieten.
+- Das perfekte LEGO Geschenk für junge Baumeister. Den Steinen und Baufiguren liegen einfache Bauanleitungen bei, um den LEGO Flitzer schnell startklar zu machen.
+- Dieses fantastische Kinderspielzeug eröffnet kleinen Baumeistern viele Möglichkeiten, denn sie können dem Ninja-Tuning-Fahrzeug auch Flügel spendieren und es in einen Flieger verwandeln. Die 4 Baufiguren sind mit neuen Display-Tafeln ausgestattet, die ihre verbliebenen Leben anzeigen.
+- Starkes LEGO NINJAGO Ninja-Tuning-Fahrzeug, das sich in einen Spielzeug-Flieger verwandeln lässt. Ein tolles Geburtstagsgeschenk für Kinder, die gerne NINJAGO Autos bauen und es lieben, sich eigene Rollenspiele mit ihren geliebten Ninja-Helden auszudenken.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W8XYZ2K/?tag=tolees0ca-21)

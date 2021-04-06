@@ -1,37 +1,39 @@
 ---
 layout: post
-title: 'LEGO 21159 Minecraft Der Plünderer-Außen mit 28.31 % Rabatt'
-date: 2021-03-17 21:31:20
+title: 'Lego Minecraft - Lego 21159 Minecraft De mit 36.65 % Rabatt'
+date: 2021-04-06 20:56:18
 image: 'https://m.media-amazon.com/images/I/5176GJjJE1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07WC1VFZH-de LEGO 21159 Minecraft Der Plünderer-Außenposten Bauset mit...'
+slug: 'B07WC1VFZH-de Lego Minecraft - Lego 21159 Minecraft Der Plünderer-...'
 sku: 'B07WC1VFZH-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 21.5 EUR
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego minecraft', ]
+actualPrice: 19.0 EUR
 currency: EUR
-price: 21.5
+price: 19.0
 comparePrice: 29.99 EUR
-prodname: 'LEGO 21159 Minecraft Der Plünderer-Außenposten  Bauset mit Actionfiguren  Iron Golem Abenteuerspielzeug für Kinder ab 7 Jahren'
+prodname: 'Lego Minecraft - Lego 21159 Minecraft Der Plünderer-Außenposten  Bauset mit Eisengolem und Anderen Actionfiguren  Spielzeug für Kinder ab 7 Jahren'
 country: 'de'
 flag: '🇩🇪'
-brand: 'LEGO'
+brand: 'Lego Minecraft'
 buyurl: 'https://www.amazon.de/dp/B07WC1VFZH/?tag=tolees0ca-21'
-descuento: '28.31'
-average: '22.7994000000001'
+descuento: '36.65'
+average: '22.7249019607844'
 ---
 
-Sie können [LEGO 21159 Minecraft Der Plünderer-Außenposten  Bauset mit Actionfiguren  Iron Golem Abenteuerspielzeug für Kinder ab 7 Jahren](https://www.amazon.de/dp/B07WC1VFZH/?tag=tolees0ca-21) mit Preis 21.5 EUR (original: 29.99 EUR) 28.31 % Rabatt hier:
+Sie können [Lego Minecraft - Lego 21159 Minecraft Der Plünderer-Außenposten  Bauset mit Eisengolem und Anderen Actionfiguren  Spielzeug für Kinder ab 7 Jahren](https://www.amazon.de/dp/B07WC1VFZH/?tag=tolees0ca-21) mit Preis 19.0 EUR (original: 29.99 EUR) 36.65 % Rabatt hier:
 
-[![LEGO 21159 Minecraft Der Plünderer-Außen](https://m.media-amazon.com/images/I/5176GJjJE1L._SL400_.jpg)](https://www.amazon.de/dp/B07WC1VFZH/?tag=tolees0ca-21)
+[![Lego Minecraft - Lego 21159 Minecraft De](https://m.media-amazon.com/images/I/5176GJjJE1L._SL400_.jpg)](https://www.amazon.de/dp/B07WC1VFZH/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Enthält einen Ritter, einen Eisengolem mit beweglichen Armen, ein Schaf und 2 Plünderer-Actionfiguren sowie 2 Zielattrappen als Figuren mit Kürbisköpfen
-- Die mit Armbrüsten ausgerüsteten Plünderer, haben den freundlichen Eisengolem gefangen und stecken ihn in ein Käfig
-- Das Zubehör umfasst 2 Bögen, eine Axt, TNT, 3 Kürbisköpfe und Blumen, um den Online-Spaß mit authentisch aussehenden Modellen in die reale Welt zu bringen
-- Die Kinder sprengen den Käfig mit TNT auf, um den Eisengolem zu retten, dann verscheuchen sie die lästigen Plünderer
-- Das 3-teilige Set enthält ein voll ausgestattetes Zelt mit einem Tisch, einen Käfig und Armbrustschützengebiet mit Zielattrappen für Armbrustschützen
+- Die Kinder sprengen den Minecraft Käfig mit TNT auf, um den Eisengolem zu retten. Dann verscheuchen sie die lästigen Plünderer! Und wenn das Kräftemessen dann vorbei ist, lässt sich das 3-teilige Set für neue Abenteuer umbauen.
+- Keine Batterien erforderlich. Die Fantasie der Kinder reicht diesem Spielzeug als Antrieb, um den Spielspaß nie enden zu lassen! Dieses Set ermöglicht aktiven, echten Spielspaß, der die Geschicklichkeit, den Einfallsreichtum und die Problemlösefähigkeit der Kinder fördert.
+- Kinder werden die mit Armbrüsten ausgerüsteten LEGO Minecraft Plünderer lieben – neu ab Januar 2020. Darüber hinaus gibt es eine coole TNT-Explosionsfunktion, ein voll ausgestattetes Zelt sowie eine Trainingsanlage mit Zielattrappen für Armbrustschützen.
+- Dank der einfachen Bauanleitung können die Kinder sofort bauen und spielen! Und sollte die Bauanleitung verloren gehen, lässt sie sich einfach auf LEGO.com/de-de/service/buildinginstructions herunterladen.
+- Dieses vielseitige Minecraft Set für Mädchen und Jungen ab 7 Jahren eignet sich als Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen! Ein tolles Set für Fans der LEGO Steine sowie für Minecraft Spieler, die ihr Lieblingsspiel mal ganz anders erleben möchten.
+- Das 3-teilige LEGO Minecraft Set enthält beliebte Charaktere aus dem Computerspiel – Plünderer und einen Eisengolem – sowie ein Modell zum Umgestalten,für abenteuerliche Rettungsaktionen.
+- Das Modell ist 33 cm lang, 20 cm hoch und 18 cm breit und lässt sich in 3 separate Module unterteilen und anders zusammenstellen, damit sich die Kinder neue Geschichten einfallen lassen und in immer neue Abenteuer stürzen können!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WC1VFZH/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42106 Technic Stunt-Show mit Truck  mit 15.98 % Rabatt'
-date: 2021-03-22 16:05:38
+title: 'LEGO 42106 Technic Stunt-Show mit Truck  mit 31.01 % Rabatt'
+date: 2021-04-06 20:56:32
 image: 'https://m.media-amazon.com/images/I/51FiOjtcQ2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,31 @@ author: 'tole.es'
 slug: 'B07W6QTYQ7-de LEGO 42106 Technic Stunt-Show mit Truck und Motorrad...'
 sku: 'B07W6QTYQ7-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 42.0 EUR
+actualPrice: 34.49 EUR
 currency: EUR
-price: 42.0
+price: 34.49
 comparePrice: 49.99 EUR
-prodname: 'LEGO 42106 Technic Stunt-Show mit Truck und Motorrad Spielset  2-in-1 Modell mit Rückziehmotor und Anhänger'
+prodname: 'LEGO 42106 Technic Stunt-Show mit Truck und Motorrad  2-in-1 Modell mit Rückziehmotor und Anhänger  Konstruktionsspielzeug'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W6QTYQ7/?tag=tolees0ca-21'
-descuento: '15.98'
-average: '38.848660714286'
+descuento: '31.01'
+average: '38.9920699708457'
 ---
 
-Sie können [LEGO 42106 Technic Stunt-Show mit Truck und Motorrad Spielset  2-in-1 Modell mit Rückziehmotor und Anhänger](https://www.amazon.de/dp/B07W6QTYQ7/?tag=tolees0ca-21) mit Preis 42.0 EUR (original: 49.99 EUR) 15.98 % Rabatt hier:
+Sie können [LEGO 42106 Technic Stunt-Show mit Truck und Motorrad  2-in-1 Modell mit Rückziehmotor und Anhänger  Konstruktionsspielzeug](https://www.amazon.de/dp/B07W6QTYQ7/?tag=tolees0ca-21) mit Preis 34.49 EUR (original: 49.99 EUR) 31.01 % Rabatt hier:
 
 [![LEGO 42106 Technic Stunt-Show mit Truck ](https://m.media-amazon.com/images/I/51FiOjtcQ2L._SL400_.jpg)](https://www.amazon.de/dp/B07W6QTYQ7/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Der Spielzeug-LKW zeichnet sich mit einer oberen Lenkung, aufklappbaren Türen sowie mit coolen Aufklebern aus und das Motorrad hat dicke Reifen und noch mehr Aufkleber-Details
-- Wenn alle Bausteine verbunden werden, erhält man eine ideale Größe für ein Rollenspiel, so dass die Freude an diesem Spielzeug noch lange nach seinem Bau dauern wird
-- Das zwei -in-1-Set beinhaltet einen Truck mit Anhänger und Stunt-Motorrad, beide mit Rückziehmotor. Sie lassen sich zu einem Monstertruck und einer Stunt-Rampe umbauen
-- Der Anhänger lässt sich geschickt in eine Rampe verwandeln, um das Motorrad durch den Feuerring zu treiben. Danach wird er für den Weg zum nächsten Event wieder aufgebaut
-- Breitreifen halten die Fahrzeuge auf Kurs und das rot-blau-schwarze Farbkonzept sowie die Aufkleber und Flammen erzeugen den Nervenkitzel einer gewagten Motorradshow
+- Der Anhänger lässt sich in eine Rampe verwandeln, um das Motorrad durch den Feuerreifen zu katapultieren. Nach den waghalsigen Stunts wartet schon der Truck, um das Motorrad zum nächsten Event zu transportieren.
+- Es werden keine Batterien benötigt, damit der Spielspaß sofort beginnen kann und die Action niemals abebben muss.
+- Kinder ab 8 Jahren lieben die Bauherausforderung und bauen mit Begeisterung die Modelle aus diesem Set. Wenn die Modelle fertig sind, können sie den Nervenkitzel einer waghalsigen Stunt-Show nachstellen und das Set anschließend in einen Stadium Truck umbauen.
+- Einfach die Box öffnen und loslegen. Eine einfache Bauanleitung liegt bei, damit sich die Kinder sofort in ein Action-Abenteuer stürzen können. Die Bauanleitung für den Stadium Truck ist online verfügbar.
+- Dieses tolle Bauset enthält ein Motorrad, einen Truck, einen Anhänger und einen Feuerreifen für actionreiche Stunt-Shows. Der Rückziehmotor ermöglicht es Kindern, sich mit ihren Freunden zu messen, um herauszufinden, wer den ultimativen Sprung durch die Flammen schafft.
+- Alle Modelle zusammen ergeben ein eindrucksvolles Set in genau der richtigen Größe für Rollenspiele. Mit dem Feuerreifen ist das Set 18 cm breit und 28 cm hoch.
+- Das Bauset (42106) verspricht jede Menge Action und ist ein tolles LEGO Geschenk für Kinder ab 8 Jahren. Es ist eine fantastische Wahl für Kinder, die Spielzeug-Trucks, Stunt-Autos und Action-Spielzeug lieben.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W6QTYQ7/?tag=tolees0ca-21)

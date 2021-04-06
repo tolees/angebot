@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '56.03 % rabat auf Funko - POP FORTNITE Valor Vinyl Figur'
-date: 2021-04-05 20:40:40
+date: 2021-04-06 20:50:49
 image: 'https://m.media-amazon.com/images/I/517qBmAj48L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Funko'
 buyurl: 'https://www.amazon.de/dp/B07L4JVQVZ/?tag=tolees0ca-21'
 descuento: '56.03'
-average: '5.565'
+average: '5.896'
 ---
 
 Es gibt ein [Funko - POP FORTNITE Valor Vinyl Figur](https://www.amazon.de/dp/B07L4JVQVZ/?tag=tolees0ca-21) mit aktuellem Preis 7.22 EUR (original: 16.42 EUR) 56.03 % Rabatt hier:
@@ -28,8 +28,8 @@ Es gibt ein [Funko - POP FORTNITE Valor Vinyl Figur](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- POP! Vinylfigur
 - Spiele: First Light
+- POP! Vinylfigur
 - POP! Vinyl.
 - POP 22
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DYON Smart 42 AD 105 4 cm  42 Zoll  Fern mit 26.32 % Rabatt'
-date: 2021-04-05 20:43:16
+date: 2021-04-06 20:48:40
 image: 'https://m.media-amazon.com/images/I/41d-7U5T9uL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'DYON'
 buyurl: 'https://www.amazon.de/dp/B08N6Y1H9B/?tag=tolees0ca-21'
 descuento: '26.32'
-average: '266.94503937008'
+average: '267.046953125001'
 ---
 
 Sie können [DYON Smart 42 AD 105 4 cm  42 Zoll  Fernseher  Full-HD  HD Triple Tuner  Google Play Store  Google Assistant  Prime Video  Netflix  BT-Fernbedienung mit Mikrofon  [Modelljahr 2021]](https://www.amazon.de/dp/B08N6Y1H9B/?tag=tolees0ca-21) mit Preis 279.99 EUR (original: 379.99 EUR) 26.32 % Rabatt hier:
@@ -29,13 +29,13 @@ Sie können [DYON Smart 42 AD 105 4 cm  42 Zoll  Fernseher  Full-HD  HD Triple T
 ℹ️:
 
 - Android TV 9.0 mit Google Assistant und Zugriff auf den Google Play Store
+- Auflösung: 1.920 x 1.080 Pixel (Full-HD) / Bildwiederholrate: 50/60 Hz
+- Typ: Android 9.0 LED-Fernseher mit 105,4 cm (41,5 Zoll) Bildschirmdiagonale
 - Digitaler Empfang: HD Triple Tuner für DVB-S2, DVB-C und DVB-T2 mit HEVC
+- Wandhalterung (nicht mitgeliefert): 200 x 200 mm
+- Abmessung (mit Standfuß): 95,1 x 59,7 x 22,2 cm (BxHxT)
+- HbbTV, Streaming Dienste: Prime Video, Netflix, YouTube, Disney+, DAZN, Chromcast, uvm.
 - Fernbedienung: Netflix und YouTube Taste für Schnellstart
 - Lieferumfang: Smart 42 AD, Fernbedienung inkl. Batterien, Standfuß, Schnellstart-Bedienungsanleitung
-- Abmessung (mit Standfuß): 95,1 x 59,7 x 22,2 cm (BxHxT)
-- Auflösung: 1.920 x 1.080 Pixel (Full-HD) / Bildwiederholrate: 50/60 Hz
-- Wandhalterung (nicht mitgeliefert): 200 x 200 mm
-- Typ: Android 9.0 LED-Fernseher mit 105,4 cm (41,5 Zoll) Bildschirmdiagonale
-- HbbTV, Streaming Dienste: Prime Video, Netflix, YouTube, Disney+, DAZN, Chromcast, uvm.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08N6Y1H9B/?tag=tolees0ca-21)

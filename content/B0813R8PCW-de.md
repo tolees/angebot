@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % rabat auf LEGO 75941 Jurassic World Indominus Rex '
-date: 2021-04-05 21:26:38
+date: 2021-04-06 21:35:47
 image: 'https://m.media-amazon.com/images/I/51Y2y8CkQBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813R8PCW/?tag=tolees0ca-21'
 descuento: '20.00'
-average: '95.3996969696969'
+average: '95.3531419939576'
 ---
 
 Es gibt ein [LEGO 75941 Jurassic World Indominus Rex vs. Ankylosaurus  Dinosaurier Set mit Gyrosphäre](https://www.amazon.de/dp/B0813R8PCW/?tag=tolees0ca-21) mit aktuellem Preis 79.99 EUR (original: 99.99 EUR) 20.00 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEGO 75941 Jurassic World Indominus Rex vs. Ankylosaurus  Dinosauri
 
 ℹ️:
 
-- Verfügt über ein Forschungsstationsgebäude mit einem Drehkreuz, einem Ticketschalter und einer Gyrosphäre sowie 2 Dinosaurierfiguren und einer Außenumgebung
 - Lego Dinosaurierfiguren haben bewegliche Beine, der Indominus Rex hat einen beweglichen Kiefer und der Ankylosaurus hat einen schwingenden Schwanz, um Bäume zu fällen
 - Die Gyrosphären-Bereitstellungsstation hat einen Auslöser, um die mit einer Minifigur besetzte Gyrosphäre zu starten, die von einem Dschungel mit umgestürzten Bäumen umgeben ist
 - Schauen Sie sich andere neue Lego Jurassic World-Sets an: Dr, Wus Labor: Ausbruch der Baby-Dinosaurier 75939 oder Ausbruch von Gallimimus und Pteranodon 75940
 - Kinder können mit 5 Lego Minifiguren, darunter Owen Grady, Claire Dearing und die Brüder Gray und Zach Mitchell, spannende Action spielen
+- Verfügt über ein Forschungsstationsgebäude mit einem Drehkreuz, einem Ticketschalter und einer Gyrosphäre sowie 2 Dinosaurierfiguren und einer Außenumgebung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0813R8PCW/?tag=tolees0ca-21)
