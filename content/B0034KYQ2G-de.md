@@ -28,10 +28,10 @@ Es gibt ein [WENKO Kosmetikspiegel  300 % Vergrößerung  Kunststoff  12 x 0.5 c
 
 ℹ️:
 
-- Selbstklebend, einfach Schutzfolie abziehen und an der Wand, speziell Kacheln, anbringen
-- Spiegelfläche (B/H): ø 12 cm
 - Maße (B/H x T): Ø 12 x 0,5 cm
 - Ideal für Bad und WC mit 3-fach Vergrößerung
 - Besonders für den kosmetischen Einsatz geeignet
+- Spiegelfläche (B/H): ø 12 cm
+- Selbstklebend, einfach Schutzfolie abziehen und an der Wand, speziell Kacheln, anbringen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0034KYQ2G/?tag=tolees0ca-21)
