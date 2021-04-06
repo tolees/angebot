@@ -28,10 +28,10 @@ Es gibt ein [roba Kaufladen  Candy-Shop   Kinder Süßigkeiten- & Kaufmannsladen
 
 ℹ️:
 
-- Höhe Fronttheke: 58 cm
 - Seitentheke
-- H x B x T: 125 x 107 x 78,5 cm
 - viele Ablagefächer
 - mit 6 kleinen Schubladen
+- Höhe Fronttheke: 58 cm
+- H x B x T: 125 x 107 x 78,5 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MPN7AQ2/?tag=tolees0ca-21)

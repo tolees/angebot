@@ -28,10 +28,10 @@ Sie können [Pentel PG515-A GraphGear500 Druckbleistift 0 5 mm Strichstärke  Ku
 
 ℹ️:
 
-- silberfarbenes Kunststoffgehäuse mit fein strukturierter Metallgriffzone
-- Metallclip
-- befüllt mit einem Radierstück (Z2-1N) und 2 Feinminen, Härtegrad HB
 - 4 mm starre Minenführung
+- befüllt mit einem Radierstück (Z2-1N) und 2 Feinminen, Härtegrad HB
+- Metallclip
+- silberfarbenes Kunststoffgehäuse mit fein strukturierter Metallgriffzone
 - individuell einstellbarer Härtegradindikator
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005HI3QUQ/?tag=tolees0ca-21)

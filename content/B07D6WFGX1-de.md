@@ -28,10 +28,10 @@ Sie können [wavemaster CUBE NEO black - Regallautsprecher-System  50 Watt  mit 
 
 ℹ️:
 
+- Verstärkerleistung (RMS): 50 Watt / 2-Wege mit integriertem Verstärker und Bass-, Höhenregler und Loudness Funktion; Steuerung mit IR-Fernbedienung.
+- Optionaler Subwooferausgang: wavemaster FUSION als optimale Ergänzung für ein außergewöhnliches Klangvolumen.
+- Leistungsstarkes, kompaktes 2.0 Regallautsprecher Sound-System mit Bluetooth-Audio-Streaming und analogen sowie digitalen Anschlussmöglichkeiten für alle gängigen Stereoquellen.
 - Besonderheit: Das System erkennt ein auf dem gewählten Eingang ankommendes Audio-Signal und schaltet automatisch in den richtigen Betriebszustand (On/Standby).
 - Bluetooth-Streaming: die Bluetooth-Lautsprecher empfangen hochwertige Audiosignale und sind zu allen Geräten ab Bluetooth 2.1 kompatibel.
-- Leistungsstarkes, kompaktes 2.0 Regallautsprecher Sound-System mit Bluetooth-Audio-Streaming und analogen sowie digitalen Anschlussmöglichkeiten für alle gängigen Stereoquellen.
-- Optionaler Subwooferausgang: wavemaster FUSION als optimale Ergänzung für ein außergewöhnliches Klangvolumen.
-- Verstärkerleistung (RMS): 50 Watt / 2-Wege mit integriertem Verstärker und Bass-, Höhenregler und Loudness Funktion; Steuerung mit IR-Fernbedienung.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07D6WFGX1/?tag=tolees0ca-21)
