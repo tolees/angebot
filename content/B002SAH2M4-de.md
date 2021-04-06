@@ -28,9 +28,9 @@ Es gibt ein [WENKO Ersatzbürste WC-Garnitur Weiß Ø 7 5 cm - Ersatz-Toilettenb
 
 ℹ️:
 
-- Als Ersatzbürste für Toilettenbürstenhalter
 - Weißer Bürstenkopf mit Adapter
-- Maße (B/T): Ø 7,5 cm
 - Aus Kunststoff
+- Maße (B/T): Ø 7,5 cm
+- Als Ersatzbürste für Toilettenbürstenhalter
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002SAH2M4/?tag=tolees0ca-21)
