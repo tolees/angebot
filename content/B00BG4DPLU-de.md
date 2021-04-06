@@ -29,9 +29,9 @@ Es gibt ein [GRASEKAMP Qualität seit 1972 Abdeckplane für Pool rund 460cm Plan
 ℹ️:
 
 - Für Pool rund 460cm - Gesamtplanenmaß 520cm.
-- Sonnenstrahlen werde fast vollständig absorbiert - extra UV Schutz. Die schwarze, innere Beschichtung mindert eine Algenbildung.
-- Unsinkbar, temperaturbeständig von -40°C bis +70°C - witterungsbeständig.
 - Farbe: Oberseite grün - Unterseite schwarz.
+- Sonnenstrahlen werde fast vollständig absorbiert - extra UV Schutz. Die schwarze, innere Beschichtung mindert eine Algenbildung.
 - Beidseitig beschichtete Plane aus 100% Polyethylen mit Gewebeverstärkung 180g/m² - rundum geöst. Rostfreie Doppelösen im Abstand von 1m, inkl. Spannschnur und Spannratsche.
+- Unsinkbar, temperaturbeständig von -40°C bis +70°C - witterungsbeständig.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BG4DPLU/?tag=tolees0ca-21)

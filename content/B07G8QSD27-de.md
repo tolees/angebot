@@ -28,9 +28,9 @@ Sie können [Fantasy Flight Games FFGVA103 Board Game & Extension](https://www.a
 
 ℹ️:
 
-- Verpackungsgewicht: 1.066 Kg
 - Herkunftsland:- China
-- Verpackungsabmessungen (L x B x H): 6.096 zm x 25.146 zm x 25.527 zm
 - Farbe: Verschiedene Farben
+- Verpackungsabmessungen (L x B x H): 6.096 zm x 25.146 zm x 25.527 zm
+- Verpackungsgewicht: 1.066 Kg
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07G8QSD27/?tag=tolees0ca-21)
