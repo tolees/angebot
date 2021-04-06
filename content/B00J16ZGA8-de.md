@@ -28,8 +28,8 @@ Es gibt ein [Tsukineko Stazon Midi Smaragd City Tinte Pad  Grün](https://www.am
 
 ℹ️:
 
-- Verwendung für Vielzahl von Mixed Media Projekte: Karte machen, Speicher Alben, Heim und Büro Dekor, und eine endlose, kreative UNIVERSUM von anderen Projekten.
-- Archivierung und säurefrei. Größe 58 x 58 x 20 mm.
 - Erhältlich in Full-Size-Tintenkissen, Farbwalze und Wide Mouth Flaschen in einer Vielzahl von Farben.
+- Archivierung und säurefrei. Größe 58 x 58 x 20 mm.
+- Verwendung für Vielzahl von Mixed Media Projekte: Karte machen, Speicher Alben, Heim und Büro Dekor, und eine endlose, kreative UNIVERSUM von anderen Projekten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00J16ZGA8/?tag=tolees0ca-21)

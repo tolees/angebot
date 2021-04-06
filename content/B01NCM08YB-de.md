@@ -29,7 +29,7 @@ Es gibt ein [Schmidt Spiele 51406 51406-Tangram Kids  bunt](https://www.amazon.d
 ℹ️:
 
 - Empfohlenes Alter: ab 5 Jahren
-- Legespiel mit Holzteilen
 - Kindgerechte Anleitung mit Einstiegsübungen
+- Legespiel mit Holzteilen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01NCM08YB/?tag=tolees0ca-21)
