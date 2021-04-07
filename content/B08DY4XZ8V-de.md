@@ -29,9 +29,9 @@ Es gibt ein [Glosa Marina - Gourmet Salze  Salz aus Mallorca als ideales Gewürz
 ℹ️:
 
 - ⭕ Dieses fantastische Speisesalz Set besteht aus 8 x 25g wiederverschließbaren Gläsern. Das Verpackungsmaß beträgt 4,6 x 4,6 x 33cm
-- 😍 8 Salzkompositionen für Feinschmecker: ideales Gourmet Probierset zum Kochen. Unsere Salzflocken eignen sich perfekt um jede Mahlzeit zu verfeinern.
-- 📦 Versandgewicht Paket gesamt: 700g
-- 🎁 Unser grobes Salz ist für die Salzmühle geeignet. Ein besonderes Geschenk aus Mallorca und Spanien.
 - 🎨 Sorten: Spezial BBQ, Safran und Knoblauch, Knoblauch und Petersilie, Hibiskusblüte, Tomaten und Knoblauch, Kraeutersalz mediterran, Chili und Rosmarin, Natursalz.
+- 🎁 Unser grobes Salz ist für die Salzmühle geeignet. Ein besonderes Geschenk aus Mallorca und Spanien.
+- 📦 Versandgewicht Paket gesamt: 700g
+- 😍 8 Salzkompositionen für Feinschmecker: ideales Gourmet Probierset zum Kochen. Unsere Salzflocken eignen sich perfekt um jede Mahlzeit zu verfeinern.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08DY4XZ8V/?tag=tolees0ca-21)

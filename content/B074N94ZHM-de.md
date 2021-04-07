@@ -28,10 +28,10 @@ Es gibt ein [Canon 14x32 IS Fernglas  14 fache Vergrößerung  Feldstecher  Prä
 
 ℹ️:
 
+- LIEFERUMFANG - Canon 14 x 32 IS Fernglas, Okularabdeckung, Tragegurt, Tasche, Alkali-Batterie (LR6)/1,5 V, gedruckte Broschüre
+- PRÄZISIONSOPTIK - Dank Canon Porroprisma II Optik mit Bildfeldebnungslinsen und Super Spectra Vergütung ist ein klares Bild von der Mitte bis zum Rand und die Betrachtung des Motivs mit hoher Auflösung und präzisen Farben möglich
 - GESTOCHEN SCHARF - Dank Bildstabilisator und 14-fach Vergrößerung sehen Sie kleinere und weit entfernte Motive mit intensiver Klarheit - ideal für Naturbeobachtungen
 - POWERED IS BILDSTABILISATOR - Durch diese Technologie werden auch bei hoher Vergrößerung Verwacklungen kompensiert und ein ruhiges und klares Bild auch aus der freien Hand ermöglicht
-- PRÄZISIONSOPTIK - Dank Canon Porroprisma II Optik mit Bildfeldebnungslinsen und Super Spectra Vergütung ist ein klares Bild von der Mitte bis zum Rand und die Betrachtung des Motivs mit hoher Auflösung und präzisen Farben möglich
 - IDEAL FÜR DEN OUTDOOR EINSATZ - Gut ausbalanciert und mit profiliertem Design und robuster Gummiarmierung liegt das Fernglas hervorragend in der Hand
-- LIEFERUMFANG - Canon 14 x 32 IS Fernglas, Okularabdeckung, Tragegurt, Tasche, Alkali-Batterie (LR6)/1,5 V, gedruckte Broschüre
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074N94ZHM/?tag=tolees0ca-21)
