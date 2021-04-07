@@ -28,8 +28,8 @@ Sie können [Prada Eau de Toilette „Luna Rossa Carbon“  Spray  150 ml](https
 
 ℹ️:
 
-- Marke Prada
 - Eau de Cologne für Frauen
+- Marke Prada
 - Marke Beauty-Produkte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XH3B5LQ/?tag=tolees0ca-21)

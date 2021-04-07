@@ -28,10 +28,10 @@ Es gibt ein [roba Kaufladen  Candy-Shop   Kinder Süßigkeiten- & Kaufmannsladen
 
 ℹ️:
 
-- Seitentheke
-- viele Ablagefächer
-- mit 6 kleinen Schubladen
 - Höhe Fronttheke: 58 cm
+- mit 6 kleinen Schubladen
+- viele Ablagefächer
 - H x B x T: 125 x 107 x 78,5 cm
+- Seitentheke
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MPN7AQ2/?tag=tolees0ca-21)

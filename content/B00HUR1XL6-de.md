@@ -28,8 +28,8 @@ Es gibt ein [babybay Boxspring Beistellbett aus massivem Buchenholz I Kinderbett
 
 ℹ️:
 
-- FLEXIBEL – babybay Boxspring hat eine spezielle Gurtbefestigung und lässt sich dadurch einfach und schnell am Elternbett befestigen. Durch die großzügige Liegefläche ist es auch für Zwillinge geeignet
 - NACHHALTIG & SICHER – babybay ist bis 150 kg belastbar und lässt sich durch die spezielle Befestigung sicher am Elternbett fixieren. Das massive, antibakterielle Buchenholz stammt aus heimischen Wäldern. Alle Lacke sind schadstofffrei sowie speichelfest
+- FLEXIBEL – babybay Boxspring hat eine spezielle Gurtbefestigung und lässt sich dadurch einfach und schnell am Elternbett befestigen. Durch die großzügige Liegefläche ist es auch für Zwillinge geeignet
 - LANGLEBIG & VIELSEITIG VERWANDELBAR – babybay wächst mit: Aus dem Beistellbett machen Sie im Handumdrehen eine Sitzbank oder einen Spieltisch und mit optionalem Zubehör einen Stubenwagen, einen Kinderstuhl, einen Laufstall oder sogar ein großes Kinderbett
 - STUFENLOS HÖHENVERSTELLBAR – Durch die hohe Bauweise und die individuelle Höhenverstellung lässt sich das Beistellbett exakt an das Boxspringbett anpassen - ohne Spalt, ohne Stufe, ohne Wackeln - so haben Sie Ihren Liebling immer ganz nah bei sich
 - VIELFACH GETESTET & AUSGEZEICHNET – babybay ist von führenden Kinder- und Fachzeitschriften mehrfach ausgezeichnet. Auch Hebammen und Stillberater empfehlen babybay mit dem 100 % Empfehlungssiegel von Hebammen-testen.de als ideales Stillbett

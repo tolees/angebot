@@ -28,8 +28,8 @@ Sie können [Tom Ford Mandarino Amalfi  Eau de Parfum 30 ml](https://www.amazon.
 
 ℹ️:
 
-- Marke: Tom Ford
 - Schönheitsprodukt für die persönliche Pflege.
 - Qualitätsprodukt mit gewährleisteten Ergebnissen.
+- Marke: Tom Ford
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00QKO3CEQ/?tag=tolees0ca-21)
