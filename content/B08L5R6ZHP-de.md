@@ -28,8 +28,8 @@ Es gibt ein [Apple MagSafe Ladegerät](https://www.amazon.de/dp/B08L5R6ZHP/?tag=
 
 ℹ️:
 
-- 100 % recycelte Seltenerdelemente in den Magneten
 - Kompatibel mit iPhone 12 mini, iPhone 12, iPhone 12 Pro und iPhone 12 Pro Max
 - Schnelleres kabelloses Laden mit magnetischer Ausrichtung
+- 100 % recycelte Seltenerdelemente in den Magneten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08L5R6ZHP/?tag=tolees0ca-21)

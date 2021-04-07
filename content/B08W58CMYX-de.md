@@ -28,10 +28,10 @@ Es gibt ein [SICURA MASCHERINE CHIRURGICHE - 50x FFP2 Maske Farbig sortiert Schw
 
 ℹ️:
 
-- Hergestellt und verpackt in Italien 100 % Made in Italy mit kontrollierter Lieferkette und CE-Kennzeichnung
-- BFE ≥99% Bakterielle Filtrationseffizienz. 50 Einweg-Filtermasken FFP2 NR in 7 VERSCHIEDENEN FARBEN einzeln versiegelt.
-- Hergestellt aus hocheffizientem Vliesstoff. Elastische Ohrpolster für maximalen Komfort und einfaches Tragen
 - ISO 13485 und ISO 9001. In Übereinstimmung mit der europäischen Norm EN 149:2001+A1:2009.
 - SANITIZATIONSTUNNEL-Schutz: Jede Seite der Maske wird einem Sanitisationsprozess mit UV-C-Strahlen unterzogen, um die bakterielle Belastung zu beseitigen.
+- BFE ≥99% Bakterielle Filtrationseffizienz. 50 Einweg-Filtermasken FFP2 NR in 7 VERSCHIEDENEN FARBEN einzeln versiegelt.
+- Hergestellt und verpackt in Italien 100 % Made in Italy mit kontrollierter Lieferkette und CE-Kennzeichnung
+- Hergestellt aus hocheffizientem Vliesstoff. Elastische Ohrpolster für maximalen Komfort und einfaches Tragen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08W58CMYX/?tag=tolees0ca-21)

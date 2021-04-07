@@ -28,11 +28,11 @@ Es gibt ein [Crocs Unisex-Erwachsene Crocband Clogs  Schwarz  Black/White   45/4
 
 ℹ️:
 
-- Obermaterial: Synthetik
 - Absatzform: Flach; Materialzusammensetzung: 100 % Croslite
+- Obermaterial: Synthetik
 - Futter: ohne Futter
-- Sohlenmaterial: Gummi
 - Sohlengrößen sind US. Label zeigt UK. M = Herren W = Damen
+- Sohlenmaterial: Gummi
 - Verschluss: Ohne Verschluss; Größenhinweis: Fällt regulär aus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002LITTDI/?tag=tolees0ca-21)

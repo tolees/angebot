@@ -28,13 +28,13 @@ Es gibt ein [Bose Frames Tempo – Audio-Sport-Sonnenbrille mit Polarisierten B
 
 ℹ️:
 
-- Wasserabweisend: Die Bose Frames Tempo sind wasserabweisend gemäß IPX4, um den Elementen zu trotzen. Und auch Blut, Schweiß und Tränen können ihnen nichts anhaben.
-- Robustes Design für viele Sportarten: Mit der griffigen Fassung aus TR90-Nylon und einem schmutz- und wasserabweisenden Akustik-Mesh an den Anschlüssen ist die Bose Sport-Sonnenbrille perfekt für intensive Workouts in anspruchsvollem Gelände.
-- Polarisierte Brillengläser: Die polarisierten Brillengläser der Sport-Sonnenbrille sind bruch- und kratzfest, verringern blendendes Licht, verbessern die Sicht und blockieren bis zu 99 % der UVA-/UVB-Strahlen.
-- Bluetooth-Sport-Sonnenbrille mit langer Akkulaufzeit für Spitzenklang und klar verständliche Telefonate. Bluetooth-Reichweite bis zu 9 m, Wiedergabedauer bis zu 8 Stunden pro Aufladung. Vollständige Aufladung über USB-C innerhalb 1 Stunde.
-- Sicherer Sitz: Nasenpads aus weichem Silikon (3 Größen im Lieferumfang enthalten) und flexible Bügelenden sorgen für einen sicheren und komfortablen Sitz. Glasbreite: 65 mm | Stegbreite: 17 mm | Bügellänge: 172,5 mm | Bügelabstand: 157 mm
-- Austauschbare Brillengläser: Die schwarzen, verspiegelten Brillengläser (LT 12 %) können ganz einfach gegen Gläser in Blau (LT 28 %) oder Orange (LT 20 %) ausgetauscht werden. Auch Korrektionsgläser können eingesetzt werden.
-- Sport-Sonnenbrille mit Spitzenklang: Dank Open Ear Audio können Sie Musik hören und Ihre Umgebung wahrnehmen. Der Klang der speziellen Lautsprecher ist laut und kraftvoll, um auch Windgeräusche beim Radfahren mit bis zu 40 km/h zu übertönen.
 - Bose Sport-Sonnenbrille: Die Bose Frames Tempo sind eine vielseitige, komfortable Sport-Sonnenbrille aus schweiß- und wetterresistenten Materialien, die über revolutionäres Open Ear Audio verfügt, sodass Ihre Ohren frei bleiben.
+- Austauschbare Brillengläser: Die schwarzen, verspiegelten Brillengläser (LT 12 %) können ganz einfach gegen Gläser in Blau (LT 28 %) oder Orange (LT 20 %) ausgetauscht werden. Auch Korrektionsgläser können eingesetzt werden.
+- Robustes Design für viele Sportarten: Mit der griffigen Fassung aus TR90-Nylon und einem schmutz- und wasserabweisenden Akustik-Mesh an den Anschlüssen ist die Bose Sport-Sonnenbrille perfekt für intensive Workouts in anspruchsvollem Gelände.
+- Sicherer Sitz: Nasenpads aus weichem Silikon (3 Größen im Lieferumfang enthalten) und flexible Bügelenden sorgen für einen sicheren und komfortablen Sitz. Glasbreite: 65 mm | Stegbreite: 17 mm | Bügellänge: 172,5 mm | Bügelabstand: 157 mm
+- Polarisierte Brillengläser: Die polarisierten Brillengläser der Sport-Sonnenbrille sind bruch- und kratzfest, verringern blendendes Licht, verbessern die Sicht und blockieren bis zu 99 % der UVA-/UVB-Strahlen.
+- Wasserabweisend: Die Bose Frames Tempo sind wasserabweisend gemäß IPX4, um den Elementen zu trotzen. Und auch Blut, Schweiß und Tränen können ihnen nichts anhaben.
+- Bluetooth-Sport-Sonnenbrille mit langer Akkulaufzeit für Spitzenklang und klar verständliche Telefonate. Bluetooth-Reichweite bis zu 9 m, Wiedergabedauer bis zu 8 Stunden pro Aufladung. Vollständige Aufladung über USB-C innerhalb 1 Stunde.
+- Sport-Sonnenbrille mit Spitzenklang: Dank Open Ear Audio können Sie Musik hören und Ihre Umgebung wahrnehmen. Der Klang der speziellen Lautsprecher ist laut und kraftvoll, um auch Windgeräusche beim Radfahren mit bis zu 40 km/h zu übertönen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08D6RVBJD/?tag=tolees0ca-21)

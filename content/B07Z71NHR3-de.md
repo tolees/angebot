@@ -28,10 +28,10 @@ Sie können [Buhl Data Service - WISO steuer:Start 2020  für Steuerjahr 2019  |
 
 ℹ️:
 
-- Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit Wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
 - Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2020
-- Systemvoraussetzungen: Windows 7/8.1/10, Internet-Zugang
+- Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit Wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
 - Unterstützt die vorausgefüllte Steuererklärung (VaSt) Automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
+- Systemvoraussetzungen: Windows 7/8.1/10, Internet-Zugang
 - WISO steuer:Start 2020 für die Einkommensteuer-Erklärung 2019 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2019
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07Z71NHR3/?tag=tolees0ca-21)
