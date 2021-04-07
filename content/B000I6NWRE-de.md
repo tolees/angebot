@@ -28,10 +28,10 @@ Es gibt ein [Uni-ball Eye UB150 Tintenroller Micro 0 5 mm Spitze 0 2 mm Strichbr
 
 ℹ️:
 
-- Er hat einen komfortablen Griff und eignet sich ideal für Rechts- und Linkshänder. Mit diesem Stift können Sie den ganzen Tag lang schreiben
 - Durch die Edelstahlspitze mit der Wolframkarbid-Kugel lässt dieser Kugelschreiber Sie nie im Stich, wenn Sie ihn brauchen. Durch die Kappe kann der Stift nicht in Ihrer Tasche auslaufen
-- Der Eye Micro enthält die Uni-Super-Tinte, die nicht verblasst, wasserfest und fälschungssicher ist
 - Hochwertiger Tintenroller mit dem einzigartigen „Uni-Flow“-System. Ein geschmeidiges Schreiberlebnis bis zum letzten Tropfen
+- Der Eye Micro enthält die Uni-Super-Tinte, die nicht verblasst, wasserfest und fälschungssicher ist
+- Er hat einen komfortablen Griff und eignet sich ideal für Rechts- und Linkshänder. Mit diesem Stift können Sie den ganzen Tag lang schreiben
 - Die 12 blauen Kugelschreiber bieten eine 0, 5-mm-Spitze, mit der Sie ultrafeine Linien ziehen können, weshalb er sich perfekt für technische Zeichnungen und kleine Beschriftungen eignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000I6NWRE/?tag=tolees0ca-21)

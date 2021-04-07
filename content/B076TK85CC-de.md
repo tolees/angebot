@@ -28,7 +28,7 @@ Sie können [Skechers Damen 12980 Sneakers  Schwarz  BBK   40 EU](https://www.am
 
 ℹ️:
 
-- Geringes Gewicht
 - flexible Sohle
+- Geringes Gewicht
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076TK85CC/?tag=tolees0ca-21)
