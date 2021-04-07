@@ -29,9 +29,9 @@ Es gibt ein [Sony Xperia 5 II 5G Smartphone  15 5 cm  6.1 Zoll  21:9 CinemaWide 
 ℹ️:
 
 - Kompakt und leistungsstark mit zuverlässigem 4.000-mAh-Akku und 5G-Technologie.
-- Die 120-Hz-Bildfrequenzrate und die 240-Hz-Touch-Scanning-Rate sorgen für starke Gaming Leistung.
 - Das 21:9 CinemaWide FHD+ und HDR OLED-Display bietet branchenführende Farbtreue.
-- Durch die kompakte Größe liegt das Smartphone perfekt in der Hand und passt in jede Hosentasche.
+- Die 120-Hz-Bildfrequenzrate und die 240-Hz-Touch-Scanning-Rate sorgen für starke Gaming Leistung.
 - Echtzeit-Augen-Autofokus für Menschen und Tiere sowie weitere innovative Technologien der Alpha-Kameraserie von Sony.
+- Durch die kompakte Größe liegt das Smartphone perfekt in der Hand und passt in jede Hosentasche.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08HZCKHGG/?tag=tolees0ca-21)

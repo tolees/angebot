@@ -28,10 +28,10 @@ Es gibt ein [Jack Wolfskin Herren Downhill Texapore Low M Outdoorschuhe  Black/L
 
 ℹ️:
 
-- Aktivitätsindex: A (Hiking)
-- guter Halt
-- Wanderschuh für leichte Tagestouren
 - wasserdicht, atmungsaktiv
+- guter Halt
 - robust
+- Aktivitätsindex: A (Hiking)
+- Wanderschuh für leichte Tagestouren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B087MRPY12/?tag=tolees0ca-21)
