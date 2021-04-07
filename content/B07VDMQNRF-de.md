@@ -28,10 +28,10 @@ Sie können [Michael Kors Smart Watch  Touchscreen MKT5073](https://www.amazon.d
 
 ℹ️:
 
-- Smartwatches powered with Wear OS by Google work with iPhone¹ and Android Phones.
 - Receive smartphone notifications and alerts, manage your calendar, control your music, download third party apps, and customise your watch face
-- Heart rate & activity tracking, built-in GPS for distance tracking, swimproof design
 - Estimated 24 hour battery life, based on usage
+- Heart rate & activity tracking, built-in GPS for distance tracking, swimproof design
 - Speed through checkout with your watch using Google Pay
+- Smartwatches powered with Wear OS by Google work with iPhone¹ and Android Phones.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07VDMQNRF/?tag=tolees0ca-21)
