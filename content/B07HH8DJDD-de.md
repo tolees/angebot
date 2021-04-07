@@ -28,10 +28,10 @@ Es gibt ein [Seeberger Salzmandeln geröstet  5er Pack  5 x 150 g ](https://www.
 
 ℹ️:
 
-- Snackalternative
+- Mit Meersalz verfeinert
 - Extra-große Mandeln
 - Trocken geröstet
+- Snackalternative
 - Ohne Zusatzstoffe
-- Mit Meersalz verfeinert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07HH8DJDD/?tag=tolees0ca-21)
