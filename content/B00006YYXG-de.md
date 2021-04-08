@@ -28,8 +28,8 @@ Es gibt ein [AMIGO Spiel + Freizeit - Amigo 4910 - 6 nimmt!  Kartenspiel](https:
 
 ℹ️:
 
-- Jede Karte d ie man nehmen muss, bringt Kartenspiel, das einen nicht mehr loslässt. Ziel ist es, keine Bei 6 nimmt! ist der Name Programm. Es ist ein raffiniertes den Hornochsen eine zeitgemäße Überarbeitung! Seit über 17 Jahren ein beliebter Klassiker, erhält das Spiel mit
-- Für 2-10 Spieler. Ab 10 Jahren. Spieldauer: ca. 45 Minuten. bringt viele Minuspunkte. Reihe legt, muss die ersten fünf Karten nehmen.
 - Und das von vier Kartenreihen anlegt. Wer die sechste Karte in eine Jeder Spieler erhält 10 Karten, die er möglichst schlau an ein e Ende die wenigsten Hornochsen hat. für jeden Hornochsen einen Minuspunkt ein. Sieger ist, wer am Karten zu kassieren.
+- Für 2-10 Spieler. Ab 10 Jahren. Spieldauer: ca. 45 Minuten. bringt viele Minuspunkte. Reihe legt, muss die ersten fünf Karten nehmen.
+- Jede Karte d ie man nehmen muss, bringt Kartenspiel, das einen nicht mehr loslässt. Ziel ist es, keine Bei 6 nimmt! ist der Name Programm. Es ist ein raffiniertes den Hornochsen eine zeitgemäße Überarbeitung! Seit über 17 Jahren ein beliebter Klassiker, erhält das Spiel mit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00006YYXG/?tag=tolees0ca-21)

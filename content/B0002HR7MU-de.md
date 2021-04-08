@@ -28,8 +28,8 @@ Sie können [Ravensburger 23162 1 Mitbringspiele 23162 - Lotti Karotti](https://
 
 ℹ️:
 
-- Spieldauer: kurz bis 15 Min
 - Autor Spiele: Armbruster, Susanne
 - Sprache Spielanleitung: DE
+- Spieldauer: kurz bis 15 Min
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0002HR7MU/?tag=tolees0ca-21)

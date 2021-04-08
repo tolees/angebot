@@ -28,10 +28,10 @@ Sie können [Bosch Professional Diamanttrennscheibe Standard  Universal  X-LOCK 
 
 ℹ️:
 
-- Zusätzlich geeignet für Beton, Dachziegel, Kalkgips, Marmor, Schamottesteine, Schiefersteine, Ziegel, Verbundsteine und zementgebundene Faserplatten
-- X-LOCK Zubehöre sind kompatibel mit Winkelschleifern mit X-LOCK Aufnahme, sowie mit Winkelschleifern ohne X-LOCK Aufnahme aller Marken
 - Diamanttrennscheibe Standard for Universal - für zuverlässiges Schneiden in allgemeines Baumaterial
-- Besonders geeignet für Anwendungen in Bimsstein, Bordsteine, Estrichbeston, Kalksandstein, Klinker, Mörtel, Porenbeton, Sandstein sowie Ziegelstein
 - Durchmesser: 125 mm, Bohrungsdurchmesser: 22,23 mm, Schnittbreite: 2 mm, Segmenthöhe 10 mm
+- Zusätzlich geeignet für Beton, Dachziegel, Kalkgips, Marmor, Schamottesteine, Schiefersteine, Ziegel, Verbundsteine und zementgebundene Faserplatten
+- Besonders geeignet für Anwendungen in Bimsstein, Bordsteine, Estrichbeston, Kalksandstein, Klinker, Mörtel, Porenbeton, Sandstein sowie Ziegelstein
+- X-LOCK Zubehöre sind kompatibel mit Winkelschleifern mit X-LOCK Aufnahme, sowie mit Winkelschleifern ohne X-LOCK Aufnahme aller Marken
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PWGCLZV/?tag=tolees0ca-21)

@@ -28,12 +28,12 @@ Sie können [Original Einhell Starter Kit Akku und Ladegerät Power X-Change  Li
 
 ℹ️:
 
-- Die hochwertigen Lithium-Ionen-Zellen widerstehen der batterieüblichen Selbstentladung und sind während jeder Phase aufladbar, ohne dabei Schaden zu nehmen
-- Eine dreistufige LED-Ladezustandsanzeige am Akku zeigt die aktuellen Energiereserven an. Das 6-Stufen-Ladesystem zeigt während des Ladezyklus den aktuellen Ladestand in Echtzeit
 - Das Einhell 18 Volt 4,0 Ah PXC Starter Kit ist das leistungsstärkste Set der Produktfamilie und bietet einen kraftvollen 4,0 Ah-Akku und ein Ladegerät der PXC-Reihe
-- Beim Ladevorgang wird der Zyklus kontinuierlich überwacht, um den optimalen Modus sicherzustellen. Die Akku-Lebensdauer wird durch die situativ angepassten Ladezyklen entscheidend verlängert
+- Die hochwertigen Lithium-Ionen-Zellen widerstehen der batterieüblichen Selbstentladung und sind während jeder Phase aufladbar, ohne dabei Schaden zu nehmen
 - Das proaktive Batterie- und intelligente Lademanagement von Einhell gewährt maximale Sicherheit im Betrieb ebenso wie während der Ladedauer. Alle Parameter des Akku werden durch die verfügbaren Bauteile überwacht
-- Das gummierte Gehäuse des Akku bietet einen hohen Stoßschutz und einen festen Halt. Integrierte Griffmulden sorgen für die mühelose Entnahme des Akkus. Das Ladegerät ist mit integrierten Aufhängeösen für die Wandmontage bereits vorbereitet; Die maximale Ladezeit mit der Schnellladetechnologie beträgt 75 Minuten
 - Das multifunktionale und untereinander kombinierbare Akkusystem Power X-Change passt zu Akkugeräten der gesamten Produktfamilie im Garten- und Werkstattbereich. Das Akkusystem ist universell verwendbar für alle Geräte der Power X-Change-Serie
+- Eine dreistufige LED-Ladezustandsanzeige am Akku zeigt die aktuellen Energiereserven an. Das 6-Stufen-Ladesystem zeigt während des Ladezyklus den aktuellen Ladestand in Echtzeit
+- Beim Ladevorgang wird der Zyklus kontinuierlich überwacht, um den optimalen Modus sicherzustellen. Die Akku-Lebensdauer wird durch die situativ angepassten Ladezyklen entscheidend verlängert
+- Das gummierte Gehäuse des Akku bietet einen hohen Stoßschutz und einen festen Halt. Integrierte Griffmulden sorgen für die mühelose Entnahme des Akkus. Das Ladegerät ist mit integrierten Aufhängeösen für die Wandmontage bereits vorbereitet; Die maximale Ladezeit mit der Schnellladetechnologie beträgt 75 Minuten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01M3SPEZF/?tag=tolees0ca-21)
