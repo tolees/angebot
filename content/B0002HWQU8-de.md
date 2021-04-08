@@ -28,8 +28,8 @@ Es gibt ein [Ravensburger Mitbringspiele 23114 - Affenbande](https://www.amazon.
 
 ℹ️:
 
+- Sprache Spielanleitung: DE
 - Autor Spiele: Knizia, Reiner
 - Spieldauer: kurz bis 15 Min
-- Sprache Spielanleitung: DE
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0002HWQU8/?tag=tolees0ca-21)
