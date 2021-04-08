@@ -1,32 +1,37 @@
 ---
 layout: post
-title: '22.23 % rabat auf RAVPower USB Ladegerät 30W 3 Port USB Ne'
-date: 2020-08-26 08:17:50
-image: 'https://m.media-amazon.com/images/I/31-5V42gjfL._SL400_.jpg'
+title: '33.35 % rabat auf RAVPower USB Ladegerät 30W 3 Port USB Ne'
+date: 2021-04-08 05:52:47
+image: 'https://m.media-amazon.com/images/I/31-RKrbf-pL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B014QKKOQE-de RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB...'
 sku: 'B014QKKOQE-de'
-tags: [  ]
-actualPrice: 13.99 EUR
+tags: [ 'Elektronik & Foto','Handy Ladegeräte','Handy- & Smartwatch-Zubehör','Handys & Zubehör','Netzteile für Handys','ravpower', ]
+actualPrice: 11.99 EUR
 currency: EUR
-price: 13.99
+price: 11.99
 comparePrice: 17.99 EUR
 prodname: 'RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB Stecker mit iSmart Technologie für iPhone 11 Pro Max XS XR X 8/7/6  iPad  Galaxy S9 S8 Plus  LG  Huawei  HTC  Powerbank  MP3 usw. schwarz'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'RAVPower'
 buyurl: 'https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21'
-descuento: '22.23'
-average: '13.99'
+descuento: '33.35'
+average: '13.3233333333333'
 ---
 
-Es gibt ein [RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB Stecker mit iSmart Technologie für iPhone 11 Pro Max XS XR X 8/7/6  iPad  Galaxy S9 S8 Plus  LG  Huawei  HTC  Powerbank  MP3 usw. schwarz](https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21) mit aktuellem Preis 13.99 EUR (original: 17.99 EUR) 22.23 % Rabatt hier:
+Es gibt ein [RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB Stecker mit iSmart Technologie für iPhone 11 Pro Max XS XR X 8/7/6  iPad  Galaxy S9 S8 Plus  LG  Huawei  HTC  Powerbank  MP3 usw. schwarz](https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 17.99 EUR) 33.35 % Rabatt hier:
 
-[![RAVPower USB Ladegerät 30W 3 Port USB Ne](https://m.media-amazon.com/images/I/31-5V42gjfL._SL400_.jpg)](https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21)
+[![RAVPower USB Ladegerät 30W 3 Port USB Ne](https://m.media-amazon.com/images/I/31-RKrbf-pL._SL400_.jpg)](https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21)
 
 ℹ️:
 
+- 【3 Ports USB-Ladegerät】: Durch das mehrfach USB Netzteil ermöglicht es die Aufladung von 3 Geräte gleichzeitig. Der Stecker liefert Ladestrom von max 2.4A eines Port und bis zu 6A insgesamt von 3 Ports an. Leichte weiße LED gebaut, umzuteilen, dass das Gerät normal funktioniert.
+- 【Schnelles und intelligentes Aufladen】: Mit iSmart-Technologie erkennt der Ladestecker automatisch die optimale Ladespannung, liefert den optimalen Ladestrom für angeschlossene Geräte (bis zu 2,4 A Max).
+- 【Multi-Level-Geräteschutz】: Der RoHS & CE- zertifizierte Ladeadapter verfügt über vielseitige Schutzmechanismen, um Ihr Gerät vor Überspannung, Überhitzung, Kurzschlüssen etc. zu schützen. Mit AC 110-220V Eingangsspannung ist der USB Power Adapter dein perfekter Reisebegleiter. ❗️ACHTUNG❗️: Quick Charge wird es nicht unterstützt.
+- 【Kompakt und Leicht】:Größe(94 x 51 x 31 mm), leichte Gewicht (86g) und ideal auf Reisen. ❗️Ihre Zufriedenheit ist unser großer Erfolg und Freude. Wir bitten 12+18 Monate Garantie und immer freundlich Kundenservice., wir stehen Jedezeit für Sie da.❗️
+- 【Universelle Kompatibilität】:Universal-USB Ladeadapter, das die meisten Geräte mit USB-Anschluss bei beeindruckender Geschwindigkeit lädt. Geeignet für iPhone X XS XR XS Max 8 7 6 Plus, iPad Pro Air Mini, Galaxy S9 S8 Plus, LG, Huawei, HTC, Motorola, Blackberry, Powerbank, externer Akku, MP3.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21)
