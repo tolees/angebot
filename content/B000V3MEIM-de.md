@@ -28,10 +28,10 @@ Sie können [WELEDA Citrus Deodorant Nachfüllflasche  natürlich frisches Natur
 
 ℹ️:
 
-- Lieferumfang: 1 x Nachfüllflasche WELEDA Citrus Deodorant für Männer und Frauen
-- Kann als Körperspray verwendet werden: Das Citrus Deodorant kann auch als Körperspray verwendet werden. Es erfrischt und belebt und desodoriert mild ohne Antitranspirantien - Desodoriert mild – ohne Antitranspirantien
-- Höchste WELEDA Qualität: Frei von synthetischen Duft-, Farb- und Konservierungsstoffen sowie Rohstoffen auf Mineralölbasis. Frei von Antitranspirantien, wie z. B. Aluminiumsalzen. Ohne Phthalate. Vegan.
 - Beeinflusst die Hautfunktionen nicht: Ätherische Öle aus den Schalen von Citrusfrüchten wirken mild desodorierend, ohne die natürlichen Hautfunktionen zu beeinflussen
 - Natürlich frisch: Mit echten ätherischen Ölen umgibt das Deo Sie mit einer belebenden Brise fruchtiger Zitronenfrische – ohne die Poren zu verschließen
+- Kann als Körperspray verwendet werden: Das Citrus Deodorant kann auch als Körperspray verwendet werden. Es erfrischt und belebt und desodoriert mild ohne Antitranspirantien - Desodoriert mild – ohne Antitranspirantien
+- Lieferumfang: 1 x Nachfüllflasche WELEDA Citrus Deodorant für Männer und Frauen
+- Höchste WELEDA Qualität: Frei von synthetischen Duft-, Farb- und Konservierungsstoffen sowie Rohstoffen auf Mineralölbasis. Frei von Antitranspirantien, wie z. B. Aluminiumsalzen. Ohne Phthalate. Vegan.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000V3MEIM/?tag=tolees0ca-21)

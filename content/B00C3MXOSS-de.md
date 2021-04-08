@@ -28,10 +28,10 @@ Sie können [Ravensburger Kinderpuzzle 09264 - Abenteuer im Winterland - 3 x 49 
 
 ℹ️:
 
-- Drei Mal Puzzlespaß inklusive Mini-Postern als Motivvorlagen
-- Alter: Ab 5 Jahren
 - Format: Circa 21 x 21cm
 - Sicheres Spielen garantiert durch ausschließliche Verwendung geprüfter Materialien
+- Alter: Ab 5 Jahren
+- Drei Mal Puzzlespaß inklusive Mini-Postern als Motivvorlagen
 - Inhalt: 3 Puzzles mit 49 Teilen, 3 Motivvorlagen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00C3MXOSS/?tag=tolees0ca-21)
