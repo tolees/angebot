@@ -28,8 +28,8 @@ Es gibt ein [LogiLink CA0021 Audio Adapter 3.5 Stereo 4p. Male zu 2 x 3.5 Stereo
 
 ℹ️:
 
-- Geeignet zum Verbinden von Headsets mit Tablets, Notebooks oder PCs
 - Anschluss 1: 4-Pin 3,5 mm Stereo Stecker
+- Geeignet zum Verbinden von Headsets mit Tablets, Notebooks oder PCs
 - Anschluss 2: 2x 3-Pin Stereo Buchse
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JQFR6CA/?tag=tolees0ca-21)
