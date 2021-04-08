@@ -28,10 +28,10 @@ Es gibt ein [RAVPower USB Ladegerät 30W 3 Port USB Netzteil 5V/6A USB Stecker m
 
 ℹ️:
 
-- 【3 Ports USB-Ladegerät】: Durch das mehrfach USB Netzteil ermöglicht es die Aufladung von 3 Geräte gleichzeitig. Der Stecker liefert Ladestrom von max 2.4A eines Port und bis zu 6A insgesamt von 3 Ports an. Leichte weiße LED gebaut, umzuteilen, dass das Gerät normal funktioniert.
-- 【Kompakt und Leicht】:Größe(94 x 51 x 31 mm), leichte Gewicht (86g) und ideal auf Reisen. ❗️Ihre Zufriedenheit ist unser großer Erfolg und Freude. Wir bitten 12+18 Monate Garantie und immer freundlich Kundenservice., wir stehen Jedezeit für Sie da.❗️
-- 【Schnelles und intelligentes Aufladen】: Mit iSmart-Technologie erkennt der Ladestecker automatisch die optimale Ladespannung, liefert den optimalen Ladestrom für angeschlossene Geräte (bis zu 2,4 A Max).
 - 【Multi-Level-Geräteschutz】: Der RoHS & CE- zertifizierte Ladeadapter verfügt über vielseitige Schutzmechanismen, um Ihr Gerät vor Überspannung, Überhitzung, Kurzschlüssen etc. zu schützen. Mit AC 110-220V Eingangsspannung ist der USB Power Adapter dein perfekter Reisebegleiter. ❗️ACHTUNG❗️: Quick Charge wird es nicht unterstützt.
+- 【Schnelles und intelligentes Aufladen】: Mit iSmart-Technologie erkennt der Ladestecker automatisch die optimale Ladespannung, liefert den optimalen Ladestrom für angeschlossene Geräte (bis zu 2,4 A Max).
+- 【3 Ports USB-Ladegerät】: Durch das mehrfach USB Netzteil ermöglicht es die Aufladung von 3 Geräte gleichzeitig. Der Stecker liefert Ladestrom von max 2.4A eines Port und bis zu 6A insgesamt von 3 Ports an. Leichte weiße LED gebaut, umzuteilen, dass das Gerät normal funktioniert.
 - 【Universelle Kompatibilität】:Universal-USB Ladeadapter, das die meisten Geräte mit USB-Anschluss bei beeindruckender Geschwindigkeit lädt. Geeignet für iPhone X XS XR XS Max 8 7 6 Plus, iPad Pro Air Mini, Galaxy S9 S8 Plus, LG, Huawei, HTC, Motorola, Blackberry, Powerbank, externer Akku, MP3.
+- 【Kompakt und Leicht】:Größe(94 x 51 x 31 mm), leichte Gewicht (86g) und ideal auf Reisen. ❗️Ihre Zufriedenheit ist unser großer Erfolg und Freude. Wir bitten 12+18 Monate Garantie und immer freundlich Kundenservice., wir stehen Jedezeit für Sie da.❗️
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B014QKKOQE/?tag=tolees0ca-21)

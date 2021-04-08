@@ -28,10 +28,10 @@ Sie können [Simba 108178046 105733847 - Evi Love 2 Floor Bed / mit zwei Evi Pup
 
 ℹ️:
 
-- Rosa Stockbett mit Zubehör – im Set ist ein rosa Stockbett enthalten, in das Mädchen ihre Puppen zum Schlafen legen können. Mit den zwei Kissen und Decken können es sich die Puppen bequem machen. Das Stockbett lässt sich leicht zu zwei Einzelbetten auseinander stecken
-- Große Themenvielfalt - das Evi LOVE Sortiment umfasst viele verschiedene Kategorien wie Mode-, Märchen-, Tier-, Pferde- und Wohnwelten. Aufgrund der Themenvielfalt können Mädchen immer wieder in neue Rollen eintauchen und diese nachspielen
 - Zwei Evi Puppen – im Set sind zwei Evi Puppen im süßen Nachthemd enthalten. Eine Evi Puppe besitzt blondes Haar, die zweite Evi ist braunhaarig. Beide Puppen sind 12cm groß
 - Simba - Elefantenstarker Spielspaß. Im Zentrum der Produktentwicklung steht die Begeisterung der Kinder. Für Jungen und Mädchen, Klein und Groß. Kinder sollen Spaß haben und gefördert werden
+- Große Themenvielfalt - das Evi LOVE Sortiment umfasst viele verschiedene Kategorien wie Mode-, Märchen-, Tier-, Pferde- und Wohnwelten. Aufgrund der Themenvielfalt können Mädchen immer wieder in neue Rollen eintauchen und diese nachspielen
 - Ankleidepuppe – Evi LOVE ist die kleine süße Schwester von Steffi LOVE. Sie hat wie Steffi tolle lange Haare, unzählig viele Hobbys, liebt Tiere und ist zu jedem Anlass perfekt gekleidet. Mädchen können ihre Puppe in den aktuellen Modetrends stylen und kleiden
+- Rosa Stockbett mit Zubehör – im Set ist ein rosa Stockbett enthalten, in das Mädchen ihre Puppen zum Schlafen legen können. Mit den zwei Kissen und Decken können es sich die Puppen bequem machen. Das Stockbett lässt sich leicht zu zwei Einzelbetten auseinander stecken
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001AMB7VI/?tag=tolees0ca-21)

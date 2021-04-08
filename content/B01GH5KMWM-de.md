@@ -29,9 +29,9 @@ Sie können [Under Armour UA GL Foundation Short Sleeve Tee  atmungsaktives Spor
 ℹ️:
 
 - Trocknet schnell – Das moderne Moisture Transport System leitet den Schweiß vom Körper weg, hält kühl und trocken und sorgt so für mehr Komfort.
-- Leicht & atmungsaktiv – Das Sport T-Shirt eignet sich ideal zum Golfspielen. Es ist besonders leicht und sorgt für ein Höchstmaß an Atmungsaktivität.
 - Material & Passform – Under Armour Herren Tech Polo, atmungsaktive und ultraleichte Fitness Kleidung, Passform: lose, Material: 100% Polyester
-- Bequemes Polohemd – Das komfortable Sportoberteil ist lose geschnitten und bietet so besonders viel Bewegungsfreiheit und ein perfektes Tragegefühl.
 - Ultraleichtes Shirt – Das kurzärmlige Herren Poloshirt ist aus ultraleichtem Material und bietet mit dem losen Schnitt absoluten Komfort
+- Bequemes Polohemd – Das komfortable Sportoberteil ist lose geschnitten und bietet so besonders viel Bewegungsfreiheit und ein perfektes Tragegefühl.
+- Leicht & atmungsaktiv – Das Sport T-Shirt eignet sich ideal zum Golfspielen. Es ist besonders leicht und sorgt für ein Höchstmaß an Atmungsaktivität.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01GH5KMWM/?tag=tolees0ca-21)
