@@ -28,10 +28,10 @@ Sie können [Superfit Jungen LUKE leicht gefütterte Gore-Tex Sneaker  Blau  BLA
 
 ℹ️:
 
+- Hersteller-Farbangabe:Blau/Grün
 - Innenfutter:Leder
 - Decksohle:Leder
 - Obermaterial:Leder/Textil (Velour)
 - Schuhtyp:Sandale Jungs
-- Hersteller-Farbangabe:Blau/Grün
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07V6Y75LC/?tag=tolees0ca-21)

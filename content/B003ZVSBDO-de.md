@@ -28,7 +28,7 @@ Sie können [Hugo Boss Eau de Cologne für Frauen  30 ml](https://www.amazon.de/
 
 ℹ️:
 
-- Duftnoten: Holzig, Aromatisch.
 - Ein kräftig- aromatischer, maskuliner Duft mit einer unwiderstehlichen Ausstrahlung.
+- Duftnoten: Holzig, Aromatisch.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003ZVSBDO/?tag=tolees0ca-21)
