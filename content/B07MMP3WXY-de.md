@@ -28,10 +28,10 @@ Sie können [KOSMOS 741693 Die drei ??? Kids - Auf Verbrecherjagd  Kartenspiel](
 
 ℹ️:
 
+- Spannendes Kartenspiel für Kinder ab 8 Jahren und die ganze Familie.
 - Kleines Format – super als Reisespiel für unterwegs.
+- Kooperatives Knobelspiel für 2 – 6 Spieler, Spieldauer ca. 15 Minuten.
 - Für Fans der drei Detektive Justus, Peter und Bob.
 - Tolles Geschenk für Kinder, die selbst ermitteln wollen.
-- Kooperatives Knobelspiel für 2 – 6 Spieler, Spieldauer ca. 15 Minuten.
-- Spannendes Kartenspiel für Kinder ab 8 Jahren und die ganze Familie.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MMP3WXY/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Kosmos 691783- KOSMOS- Keltis  inkl. Erweiterung ](https://www.amaz
 
 ℹ️:
 
+- Zielgruppe: Jugendlicher
+- Sprache Spielanleitung: DE
+- Spieldauer: beliebig
 - Geschlecht: Mädchen und Jungen
 - Warnhinweis: Achtung Nicht für Kinder unter 36 Monaten geeignet
-- Zielgruppe: Jugendlicher
-- Spieldauer: beliebig
-- Sprache Spielanleitung: DE
 
 [🛒 Hier!!](https://www.amazon.de/dp/B006Y9JW3M/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Ravensburger Elfer raus Kartenspiel  Gesellschaftsspiel 2 - 6 Spiel
 
 ℹ️:
 
-- Das Ziel: Jeder Spieler versucht, möglichst schnell seine Handkarten loszuwerden, indem er sie an vier verschiedene Zahlenreihen anlegt. Wer dies als Erster schafft, gewinnt das Spiel
 - Mit einer Spieldauer von 30 Minuten und einfachen Regeln sowie hohen Spielreiz eignet sich das Kartenspiel für jeden Anlass: als Reisespiel, als Familienspiel für den Spieleabend oder als Gesellschaftsspiel bereits für 2 Personen
-- Seit Generationen das beliebte und unterhaltsame Kartenspiel für die ganze Familie. Selbst Karten ablegen und die lieben Mitspieler blockieren – und dann plötzlich Schluss machen: Da lacht das Spielerherz
 - Mit seinen taktischen Möglichkeiten zum Blocken von Mitspielern und insbesamt 9 Spielvarianten ist kontinuierliche und langanhaltende Spielfreude und Spannung garantiert
 - Das ideale Geschenk für Kinder und Erwachsene ab 7 Jahren und für jeden Anlass geeignet: egal ob als Weihnachtsgeschenk, Geburtstagsgeschenk oder zu Ostern
+- Das Ziel: Jeder Spieler versucht, möglichst schnell seine Handkarten loszuwerden, indem er sie an vier verschiedene Zahlenreihen anlegt. Wer dies als Erster schafft, gewinnt das Spiel
+- Seit Generationen das beliebte und unterhaltsame Kartenspiel für die ganze Familie. Selbst Karten ablegen und die lieben Mitspieler blockieren – und dann plötzlich Schluss machen: Da lacht das Spielerherz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00LEVITMK/?tag=tolees0ca-21)

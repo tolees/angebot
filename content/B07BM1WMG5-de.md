@@ -28,9 +28,9 @@ Sie können [Hasbro - Monopoly Mogeln und Mauscheln  klassisches Familienspiel](
 
 ℹ️:
 
+- Für 2-6 Spieler ab 8 Jahren
 - Das berühmte Spiel um den großen Deal mit einem neuen Twist
 - Bekannter Spielablauf plus Mogel-Möglichkeit
-- Für 2-6 Spieler ab 8 Jahren
 - Mit Mogelkarten und Handschelle
 - Monopoly Mogeln und Mauscheln
 
