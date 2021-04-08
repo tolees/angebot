@@ -28,10 +28,10 @@ Sie können [SanDisk Extreme Pro microSDXC UHS-I Speicherkarte 512 GB + Adapter 
 
 ℹ️:
 
-- Mit einer Lesegeschwindigkeit von 170 MB/s und einer Schreibgeschwindigkeit von 90 MB/s übertragen Sie Ihre Daten extem schnell.
-- Für eine bessere App- Performance und schnelleres Laden sorgt die microSD Karte durch den vorhandenen A2 Leistungsstandard.
-- Mit U3, V30 und der micro sd nehmen Sie Videos in 4K UHD-und Full HD auf.
 - Die SanDisk Extreme Pro microSDXC ist ideal geeignet für alle Android Smartphones und Talets, sowie Drohnen oder Actioncams.
 - Lieferumfang: SanDisk Extreme Pro microSDXC UHS-I Speicherkarte 512 GB + Adapter & Rescue Pro Deluxe (Für Smartphones, Actionkameras oder Drohnen, A2, C10, V30, U3, 170 MB/s Übertragung) 30 Jahre Garantie
+- Für eine bessere App- Performance und schnelleres Laden sorgt die microSD Karte durch den vorhandenen A2 Leistungsstandard.
+- Mit einer Lesegeschwindigkeit von 170 MB/s und einer Schreibgeschwindigkeit von 90 MB/s übertragen Sie Ihre Daten extem schnell.
+- Mit U3, V30 und der micro sd nehmen Sie Videos in 4K UHD-und Full HD auf.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RKL4L7Q/?tag=tolees0ca-21)

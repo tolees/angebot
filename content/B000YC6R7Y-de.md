@@ -30,8 +30,8 @@ Sie können [Ravensburger tiptoi Spiel 00041 - Heute gehen wir Einkaufen - Lerns
 
 - Mit authentischen Geräuschen, lustigen Liedern und interessantem Wissen rund ums Einkaufen bietet das Spiel langanhaltende Beschäftigung für Kinder
 - Über 20 Zutaten-Plättchen für insgesamt 9 Gerichte sorgen für abwechslungsreichen Spielspaß. tiptoi Stift nicht enthalten, muss separat erworben werden
-- tiptoi führt durch dieses Kinderspiel und erzählt wissenswertes über unser Essen. Spielerisch erwerben die Kinder Alltagswissen und verbessern ihre Konzentration
-- Woraus bestehen Pfannkuchen und an welchem Marktstand gibt es was zu kaufen? Die kleinen Igel erfahren in diesem Lernspiel woher ihr Essen kommt und kaufen Zutaten für ihr Abendessen ein
 - Tolle Geschenkidee: Heute gehen wir Einkaufen ist ein Lernspiel für tiptoi Einsteiger von 3 bis 4 Jahren und eignet sich für 1-3 Spieler. Es ist somit das ideale Geschenk für Kinder ab 3 Jahren - egal ob zu Weihnachten oder zum Geburtstag
+- Woraus bestehen Pfannkuchen und an welchem Marktstand gibt es was zu kaufen? Die kleinen Igel erfahren in diesem Lernspiel woher ihr Essen kommt und kaufen Zutaten für ihr Abendessen ein
+- tiptoi führt durch dieses Kinderspiel und erzählt wissenswertes über unser Essen. Spielerisch erwerben die Kinder Alltagswissen und verbessern ihre Konzentration
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000YC6R7Y/?tag=tolees0ca-21)

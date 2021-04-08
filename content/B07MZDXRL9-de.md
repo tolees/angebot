@@ -28,10 +28,10 @@ Sie können [Zoch 601105129 - Go Gecko Go! - Nominiert zum Kinderspiel des Jahre
 
 ℹ️:
 
-- Lerneffekt - Die Kinder lernen bei diesem Gemeinschaftsspiel Höhen richtig einzuschätzen. Denn zu hoch gestapelte Tiere können nicht unter den beiden Brücken durch und müssen zurückbleiben
-- Verschiedene Tiere - Das Ziel vom Wettlaufspiel ist es, all seine Tiere über den Fluss und auf den rettenden Baumstamm zu bringen. Derjenige, der das als erster und schnellster schafft, gewinnt
 - Familienspiel - Spielspaß für die ganze Familie. Das Spiel ist ab 6 Jahren und für 2-4 Personen geeignet. Damit kann man auch an regnerischen Nachmittagen Wettläufe veranstalten
+- Verschiedene Tiere - Das Ziel vom Wettlaufspiel ist es, all seine Tiere über den Fluss und auf den rettenden Baumstamm zu bringen. Derjenige, der das als erster und schnellster schafft, gewinnt
 - Drei Würfel - Um die Tiere bewegen zu können gibt es 3 Würfel. Der Wetterwürfel, kombiniert mit den beiden Farbwürfeln, gibt beim Gesellschaftsspiel für Kinder vor, wie weit ein Tier gehen darf
+- Lerneffekt - Die Kinder lernen bei diesem Gemeinschaftsspiel Höhen richtig einzuschätzen. Denn zu hoch gestapelte Tiere können nicht unter den beiden Brücken durch und müssen zurückbleiben
 - Zoch Verlag - Kreative und originelle Spielideen auf höchstem Niveau. Kinder und Familien schätzen das Sortiment eingängiger Karten-, Würfel- und Mitbringspiele ebenso wie tolle Brettspiele
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MZDXRL9/?tag=tolees0ca-21)
