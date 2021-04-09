@@ -29,14 +29,14 @@ Sie können [KOSMOS 692681 - EXIT - Das Spiel - Die verlassene Hütte  Kennerspi
 ℹ️:
 
 - Mit Timer und Tutorial in der kostenlosen KOSMOS-Erklär-App. Mit und ohne App spielbar
-- Aus der erfolgreichen Spielereihe EXIT – Das Spiel. Das Escape-Room-Spiel für zu Hause
-- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
-- Kooperatives Eventspiel im Level Fortgeschrittene für 1–4 Spieler
-- Für alle, die Herausforderungen lieben und sich nicht vor cleveren Rätseln scheuen
-- Gesellschaftsspiel für Erwachsene und Kinder ab 12 Jahren
-- Ausgezeichnet mit dem Kennerspiel des Jahres 2017
-- Könnt ihr die Rätsel lösen und der verlassenen Hütte entkommen?
 - Einmal spielbar, da das Material beim Spielen verändert wird. Dadurch sind ganz besonders verblüffende und abwechslungsreiche Rätsel möglich
 - Im praktischen Format: Ideales Partyspiel und Geburtstagsgeschenk
+- Könnt ihr die Rätsel lösen und der verlassenen Hütte entkommen?
+- Aus der erfolgreichen Spielereihe EXIT – Das Spiel. Das Escape-Room-Spiel für zu Hause
+- Für alle, die Herausforderungen lieben und sich nicht vor cleveren Rätseln scheuen
+- Ausgezeichnet mit dem Kennerspiel des Jahres 2017
+- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
+- Gesellschaftsspiel für Erwachsene und Kinder ab 12 Jahren
+- Kooperatives Eventspiel im Level Fortgeschrittene für 1–4 Spieler
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01GVGHH5W/?tag=tolees0ca-21)

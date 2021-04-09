@@ -28,12 +28,12 @@ Sie können [KOSMOS 697907 EXIT- Das Spiel- Die Geisterbahn des Schreckens  Leve
 
 ℹ️:
 
-- Level: Einsteiger
-- Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Das Escape-Room-Spiel für zu Hause
 - Partyspiel im Praktischen Format: toll auch als GeburtstagsGeschenk oder Mitbringsel
-- Spiel für Erwachsene und Kinder ab 10 Jahren, für 1 – 4 Spieler
-- Spannendes Thema „Geisterbahn“ mit Rätsel für Anfänger
+- Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Das Escape-Room-Spiel für zu Hause
 - Mit kostenloser Erklär-App. Mit und ohne App spielbar!
+- Level: Einsteiger
+- Spiel für Erwachsene und Kinder ab 10 Jahren, für 1 – 4 Spieler
 - Ist das Geheimnis der Geisterbahn einmal gelüftet, kann das Event-Spiel kein zweites Mal gespielt werden
+- Spannendes Thema „Geisterbahn“ mit Rätsel für Anfänger
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MCXWJFL/?tag=tolees0ca-21)

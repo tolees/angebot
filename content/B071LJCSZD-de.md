@@ -28,14 +28,14 @@ Sie können [Kosmos 694029 - EXIT - Das Spiel - Der Tote im Orient-Express  Leve
 
 ℹ️:
 
-- Für alle, die sich nicht vor kniffligen Rätseln scheuen und schon EXIT Spiele gelöst haben
-- Aus der erfolgreichen Spielereihe EXIT - Das Spiel. Das Escape-Room-Spiel für zu Hause
-- Mit Timer und Tutorial in der kostenlosen KOSMOS-Erklär-App. Spiel ist mit und ohne App spielbar
-- Im praktischen Format: Ideales Partyspiel und Geburtstagsgeschenk
-- Gelingt es euch, den Todesfall im Orient-Express aufzuklären?
-- Einmal spielbar, da das Material beim Spielen verändert wird. Dadurch sind ganz besonders verblüffende und abwechslungsreiche Rätsel möglich
 - Kooperatives Event-Spiel im Level Profi für 1-4 Spieler
-- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
+- Aus der erfolgreichen Spielereihe EXIT - Das Spiel. Das Escape-Room-Spiel für zu Hause
+- Gelingt es euch, den Todesfall im Orient-Express aufzuklären?
+- Mit Timer und Tutorial in der kostenlosen KOSMOS-Erklär-App. Spiel ist mit und ohne App spielbar
+- Einmal spielbar, da das Material beim Spielen verändert wird. Dadurch sind ganz besonders verblüffende und abwechslungsreiche Rätsel möglich
+- Für alle, die sich nicht vor kniffligen Rätseln scheuen und schon EXIT Spiele gelöst haben
 - Gesellschaftsspiel für Erwachsene und Kinder ab 12 Jahren
+- Im praktischen Format: Ideales Partyspiel und Geburtstagsgeschenk
+- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B071LJCSZD/?tag=tolees0ca-21)

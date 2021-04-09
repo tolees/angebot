@@ -28,14 +28,14 @@ Es gibt ein [KOSMOS 692872 - EXIT - Das Spiel  Die verbotene Burg  Level: Profis
 
 ℹ️:
 
-- Im praktischen Format: Ideales Partyspiel und Geburtstagsgeschenk
-- Kooperatives Eventspiel im Level Profi für 1-4 Spieler
-- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
-- Aus der erfolgreichen Spielereihe EXIT - Das Spiel. Das Escape-Room-Spiel für Zuhause
-- Mit Timer und Tutorial in der kostenlosen KOSMOS-Erklär-App. Spiel ist mit und ohne App spielbar
 - Für alle, die sich nicht vor kniffeligen Rätseln scheuen und schon EXIT Spiele gelöst haben
 - Gelingt es euch, aus der verbotenen Burg zu entkommen?
+- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
 - Einmal spielbar, da beim Lösen der verblüffenden Rätsel das Material zum Teil verändert wird
+- Mit Timer und Tutorial in der kostenlosen KOSMOS-Erklär-App. Spiel ist mit und ohne App spielbar
 - Gesellschaftsspiel für Erwachsene und Kinder ab 12 Jahren
+- Im praktischen Format: Ideales Partyspiel und Geburtstagsgeschenk
+- Aus der erfolgreichen Spielereihe EXIT - Das Spiel. Das Escape-Room-Spiel für Zuhause
+- Kooperatives Eventspiel im Level Profi für 1-4 Spieler
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01NBR0WSJ/?tag=tolees0ca-21)
