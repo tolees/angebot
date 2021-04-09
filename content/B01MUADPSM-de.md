@@ -28,8 +28,8 @@ Sie können [Funko 12443 Rick & Morty Actionfigur Rick und Morty: Birdperson  Mu
 
 ℹ️:
 
-- POP! Vinylfigur
 - Rick & Morty
 - Birdperson
+- POP! Vinylfigur
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MUADPSM/?tag=tolees0ca-21)

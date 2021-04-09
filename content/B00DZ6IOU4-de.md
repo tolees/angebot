@@ -29,9 +29,9 @@ Es gibt ein [Walimex Pro 16mm 1:2 0 DSLR-Weitwinkelobjektiv AE für Nikon F Obje
 ℹ️:
 
 - Professionelles 16mm Weitwinkel-Objektiv geeignet und berechnet für die APS-C DX - Kamera mit Nikon F Bajonett
+- Mehrfach vergütete Linsen, davon zwei asphärische und zwei aus hochbrechendem ED-Glas
 - Manuelles Einstellen von Schärfe und Blende, mit eingebautem Chip versehen, zur Steuerung der Blende von der Kamera aus: Zeit- / Blenden- Programmautomatik ist möglich, die EXIF-Daten werden an die Kamera gemeldet
 - Lieferumfang: Walimex Pro 16/2,0 Objektiv, Schutzdeckel, Objektivtasche
-- Mehrfach vergütete Linsen, davon zwei asphärische und zwei aus hochbrechendem ED-Glas
 - Ausdrucksstarker Bildwinkel von 83 Grad, exzellente Abbildungsqualität bis in die Bildecken, inkl. Objektivtasche, beider Schutzdeckel und Gegenlichtblende
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DZ6IOU4/?tag=tolees0ca-21)

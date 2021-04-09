@@ -28,9 +28,9 @@ Sie können [Funko 44252 POP! Animation: Rick & Morty - Hologram Rick Clone](htt
 
 ℹ️:
 
-- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
-- Figure stands 9cm and comes in a window display box
-- From Rick und Morty, Hologram Rick Clone, as a stylized POP vinyl from Funko
 - Check out the other Rick und Morty figures from Funko Collect them all
+- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
+- From Rick und Morty, Hologram Rick Clone, as a stylized POP vinyl from Funko
+- Figure stands 9cm and comes in a window display box
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SPVSJGD/?tag=tolees0ca-21)

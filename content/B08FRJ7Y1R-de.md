@@ -28,9 +28,9 @@ Sie können [JACK & JONES Male Steppjacke Leicht SGrey Melange](https://www.amaz
 
 ℹ️:
 
-- Reißverschluss
-- Materialzusammensetzung: 100% Polyester
-- Jacke mit hohem Kragen und Kapuze
 - Vorn wattiert
+- Jacke mit hohem Kragen und Kapuze
+- Materialzusammensetzung: 100% Polyester
+- Reißverschluss
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08FRJ7Y1R/?tag=tolees0ca-21)
