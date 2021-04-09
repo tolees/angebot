@@ -30,9 +30,9 @@ Es gibt ein [KOSMOS 694227 EXIT Das Spiel  Das mysteriöse Museum  Level: Einste
 
 - Partyspiel im praktischen Format: toll auch als Geburtstagsgeschenk oder Mitbringsel
 - Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Das Escape-Room-Spiel für zu Hause
-- Ist das Geheimnis des Raumes einmal gelüftet, kann das Event-Spiel kein zweites Mal gespielt werden
 - Spiel für Erwachsene und Kinder ab 10 Jahren. Für 1 – 4 Spieler
-- Schafft ihr es als Team, aus dem Museum zu entkommen? Spannendes Rätsel für Anfänger
+- Ist das Geheimnis des Raumes einmal gelüftet, kann das Event-Spiel kein zweites Mal gespielt werden
 - Level: Einsteiger
+- Schafft ihr es als Team, aus dem Museum zu entkommen? Spannendes Rätsel für Anfänger
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0798LHJT6/?tag=tolees0ca-21)

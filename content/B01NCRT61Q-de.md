@@ -28,14 +28,14 @@ Sie können [Kosmos 692858 - EXIT - Das Spiel - Die vergessene Insel  Level: For
 
 ℹ️:
 
-- Gesellschaftsspiel für Erwachsene und Kinder ab 12 Jahren
-- Aus der erfolgreichen Spielereihe EXIT – Das Spiel. Das Escape-Room-Spiel für zu Hause
-- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
 - Im praktischen Format: Ideales Partyspiel und Geburtstagsgeschenk
+- Kooperatives Event-Spiel im Level Fortgeschrittene für 1–4 Spieler
+- Teamgeist, Kreativität und Kombinationsgeschick sind gefragt
+- Aus der erfolgreichen Spielereihe EXIT – Das Spiel. Das Escape-Room-Spiel für zu Hause
+- Gesellschaftsspiel für Erwachsene und Kinder ab 12 Jahren
 - Entkommt der vergessenen und fern abgelegenen, mysteriösen Insel
-- Einmal spielbar, da das Material beim Spielen verändert wird. Dadurch sind ganz besonders verblüffende und abwechslungsreiche Rätsel möglich
 - Für alle, die Herausforderungen lieben und sich nicht vor cleveren Rätseln scheuen
 - Mit Timer und Tutorial in der kostenlosen KOSMOS-Erklär-App. Spiel ist mit und ohne App spielbar
-- Kooperatives Event-Spiel im Level Fortgeschrittene für 1–4 Spieler
+- Einmal spielbar, da das Material beim Spielen verändert wird. Dadurch sind ganz besonders verblüffende und abwechslungsreiche Rätsel möglich
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NCRT61Q/?tag=tolees0ca-21)
