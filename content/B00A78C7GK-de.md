@@ -28,10 +28,10 @@ Sie können [SUPER NOVA UnisexÂ â€“ Erwachsene Tail Light 2 RÃ¼cklicht 
 
 ℹ️:
 
-- Wird vom intelligenten Airstream Power Port mit Strom versorgt
-- Nur um 5 Minuten reduzierte Leuchtdauer der Frontscheinwerfer
 - Kabellänge 120 cm (nicht kürzbar)
-- Aluminiumgehäuse Al 6061, poliert schwarz eloxiert
+- Wird vom intelligenten Airstream Power Port mit Strom versorgt
 - Zur Installation an Sattelstützen, mit universellem Spannring
+- Nur um 5 Minuten reduzierte Leuchtdauer der Frontscheinwerfer
+- Aluminiumgehäuse Al 6061, poliert schwarz eloxiert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00A78C7GK/?tag=tolees0ca-21)

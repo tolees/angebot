@@ -28,9 +28,9 @@ Es gibt ein [KabelDirekt – Optisches Kabel/Toslink Kabel – 3m  optisches Dig
 
 ℹ️:
 
-- Zertifizierte Produktion mit abschließender Qualitätskontrolle
-- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Geeignet für Geräte mit TOSLINK-Schnittstelle (OPT In, OPT Out oder SPDIF In und SPDIF Out) / Ideal für die Audio Übertragung zwischen Stereoanlage, Heimkino, Fernseher, HiFi-System, PlayStation (PS3, PS4 Pro), XBOX One etc.
+- Zertifizierte Produktion mit abschließender Qualitätskontrolle
 - Optisches Audiokabel mit Lichtwellenleiter - vollständig immun gegen elektrische Störsignale durch metallfreie, flexible PVC-Leitung
+- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004YEI7Y4/?tag=tolees0ca-21)

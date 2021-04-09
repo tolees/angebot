@@ -28,7 +28,7 @@ Sie können [Miele DGGL 4 gelocht Dampfgarerschale / edelstahl / Boden gelocht](
 
 ℹ️:
 
-- 325 x 265 x 65 mm
 - DGGL4 mit 4 Liter
+- 325 x 265 x 65 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001YKP11I/?tag=tolees0ca-21)

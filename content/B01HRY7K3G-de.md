@@ -28,11 +28,11 @@ Sie können [Schmidt Spiele 49327 Noch mal!](https://www.amazon.de/dp/B01HRY7K3G
 
 ℹ️:
 
-- Empfohlenes Alter: ab 8 Jahren
-- Spieldauer: ca. 20 Minuten
 - Spieleranzahl: 1 - 6 Spieler
+- Alle spielen gleichzeitig, keiner muss lange warten, und wenn’s vorbei ist, dann heißt es sofort: "NOCH MAL!"
 - NOCH MAL!, das geniale Spiel mit Suchtfaktor!
 - Bei einer Partie bleibt’s nie! Besonders gut geeignet für 2 Spieler!
-- Alle spielen gleichzeitig, keiner muss lange warten, und wenn’s vorbei ist, dann heißt es sofort: "NOCH MAL!"
+- Spieldauer: ca. 20 Minuten
+- Empfohlenes Alter: ab 8 Jahren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01HRY7K3G/?tag=tolees0ca-21)
