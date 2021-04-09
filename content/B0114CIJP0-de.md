@@ -28,7 +28,7 @@ Es gibt ein [Vibram Five Fingers - Vibram FiveFingers 16M3101 V-RUN  Laufschuhe 
 
 ℹ️:
 
-- Gewicht ca. 265g ( Gr. 43 )
 - waschbar bei 30°C (Waschmaschine), lufttrocknen (KEIN WÄSCHETROCKNER!)
+- Gewicht ca. 265g ( Gr. 43 )
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0114CIJP0/?tag=tolees0ca-21)

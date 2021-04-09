@@ -29,9 +29,9 @@ Es gibt ein [uvex Unisex – Erwachsene  hlmt 400 visor style Skihelm  titanium
 ℹ️:
 
 - Das FAS-Gurtband lässt sich leicht und stufenlos exakt an die eigene Kopfform anpassen
-- Verschließbares Belüftungssystem zur Klimaregulierung
+- Mittlere/Normale Reduzierung der Sonneneinstrahlung durch die Filterkategorie 2 mit einer Lichtdurchlässigkeit von 19-43%
 - Exakte Anpassung an den eigenen Kopfumfang durch das verstellbare uvex IAS System
 - Leichte Helmkonstruktion bei höchster Schlagfestigkeit durch die untrennbar verbundene Schale aus EPS-Innenschicht und Polycarbonat-Außenschicht
-- Mittlere/Normale Reduzierung der Sonneneinstrahlung durch die Filterkategorie 2 mit einer Lichtdurchlässigkeit von 19-43%
+- Verschließbares Belüftungssystem zur Klimaregulierung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B072M8MWVV/?tag=tolees0ca-21)
