@@ -29,8 +29,8 @@ Es gibt ein [Rankie USB 3.0 Kabel  Typ A zu Typ A  Schwarz  1 8 m](https://www.a
 ℹ️:
 
 - Die Kombination aus vergoldeten Steckverbindern, blanken Kupferleitern und Folien- und Geflechtabschirmung bietet überlegene Kabelleistung und fehlerfreie Datenübertragung
-- Premium USB 3.0-Kabel vom Typ A mit geformten Zugentlastungssteckern für Langlebigkeit und Griffprofilen für einfaches Ein- und Ausstecken. Genießen Sie die SuperSpeed USB 3.0-Datenübertragungsrate mit bis zu 5 Gbit / s, 10x schneller als USB 2.0
 - Das praktische und kostengünstige USB 3.0-Kabel bietet Ersatz- oder Ersatz-USB 3.0-Kabel, die Sie auf dem Desktop, in Ihrer Zubehörtasche oder im Auto aufbewahren können
+- Premium USB 3.0-Kabel vom Typ A mit geformten Zugentlastungssteckern für Langlebigkeit und Griffprofilen für einfaches Ein- und Ausstecken. Genießen Sie die SuperSpeed USB 3.0-Datenübertragungsrate mit bis zu 5 Gbit / s, 10x schneller als USB 2.0
 - Unterstützt nicht die direkte Verbindung zweier Computer
 - Hochleistungs-USB 3.0-Stecker-Stecker-Kabel verbindet USB-Host-Computer mit USB 3.0-Typ-A-Anschluss (abwärtskompatibel mit USB 2.0-Typ-A-Anschluss) mit USB-Peripheriegeräten
 
