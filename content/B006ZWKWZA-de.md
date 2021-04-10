@@ -28,10 +28,10 @@ Es gibt ein [Ravensburger Kinderpuzzle 07331 - Liebenswerte Tiere - my first puz
 
 ℹ️:
 
-- Speziell für Kleinkinder entwickelt
-- Fördern spielerisch die Feinmotorik, Kombinationsfähigkeit und Konzentration
-- Motivwelten aus der Alltagswelt der Kinder, die sie begeistern
-- Optimale Materialien für den einfachen Einstieg
 - Altersgerecht in Teilezahl und Motiv
+- Motivwelten aus der Alltagswelt der Kinder, die sie begeistern
+- Fördern spielerisch die Feinmotorik, Kombinationsfähigkeit und Konzentration
+- Optimale Materialien für den einfachen Einstieg
+- Speziell für Kleinkinder entwickelt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006ZWKWZA/?tag=tolees0ca-21)

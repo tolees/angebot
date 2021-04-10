@@ -28,8 +28,8 @@ Sie können [Meister Dichtungsring-Sortiment 383-teilig - Gummidichtungen  Fiber
 
 ℹ️:
 
-- LIEFERUMFANG: 151 x Fiberring rot | 132 x O-Ring schwarz | 39 x Siphondichtung schwarz | 30 x Dichtung PE, weiß-transparent | 30 x Gummidichtung schwarz
 - PRAKTISCHES SET: 383-teiliges Sortiment bestehend aus diversen Dichtungsringen | Geeignet für sämtliche Dichtungen im Sanitärbereich | Optimale Ausstattung für Haus, Hobby & Werkstatt
+- LIEFERUMFANG: 151 x Fiberring rot | 132 x O-Ring schwarz | 39 x Siphondichtung schwarz | 30 x Dichtung PE, weiß-transparent | 30 x Gummidichtung schwarz
 - ORGANISIERT: Untergebracht in praktischer & wiederverwendbaren Kunststoffbox | Ordentliche & übersichtliche Aufbewahrung | Schnelles Einsortieren nach Gebrauch | Sicheres Verschließen dank Clip-Verschlüsse | Kompakte Größe ist leicht zu verstauen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01AQNLMUM/?tag=tolees0ca-21)
