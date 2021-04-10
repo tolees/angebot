@@ -28,8 +28,8 @@ Es gibt ein [bugatti Herren 311101201000 Klassische Stiefel Kurzschaft Stiefel  
 
 ℹ️:
 
+- Sohle: Synthetik
 - Innenmaterial: Synthetik
 - Obermaterial: Leder
-- Sohle: Synthetik
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079FFWNW8/?tag=tolees0ca-21)

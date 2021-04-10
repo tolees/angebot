@@ -28,10 +28,10 @@ Sie können [ThinkFun 76333 - Rush Hour® 2 Erweiterungsset](https://www.amazon.
 
 ℹ️:
 
+- Eine Ergänzung für Rush Hour (Grundspiel wird benötigt!) für 1 Spieler ab 8 Jahren
 - Durch die neuen Herausforderungen in den bekannten 4 Schwierigkeitsstufen und dem neuen Fahrzeug wird Rush Hour erweitert und weitere tolle Stunden mit unserem Knobelspiel verbracht
 - Alle Aufgaben des original Rush Hour von ThinkFun sind gelöst? Hier kommen 40 neue Aufgaben und ein weiteres Fahrzeug in Spiel!
-- Eine Ergänzung für Rush Hour (Grundspiel wird benötigt!) für 1 Spieler ab 8 Jahren
-- Enthält das neue Fahrzeug Cabrio
 - Ein tolles Geschenk und Mitbringsel für Jungs und Mädchen ab 8 Jahren die Rush Hour schon besitzen
+- Enthält das neue Fahrzeug Cabrio
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079TJR25X/?tag=tolees0ca-21)
