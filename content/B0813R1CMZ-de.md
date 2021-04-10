@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 60266 City Meeresforschungsschiff   mit 24.62 % Rabatt'
-date: 2021-04-08 23:09:39
+title: 'LEGO 60266 City Meeresforschungsschiff   mit 25.39 % Rabatt'
+date: 2021-04-10 17:04:32
 image: 'https://m.media-amazon.com/images/I/51q89OcubML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0813R1CMZ-de LEGO 60266 City Meeresforschungsschiff schwimmendes...'
 sku: 'B0813R1CMZ-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 97.99 EUR
+actualPrice: 96.99 EUR
 currency: EUR
-price: 97.99
+price: 96.99
 comparePrice: 129.99 EUR
 prodname: 'LEGO 60266 City Meeresforschungsschiff  schwimmendes Spielzeugboot  Tiefsee-Unterwasserset  Tauchabenteuer für Kinder'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813R1CMZ/?tag=tolees0ca-21'
-descuento: '24.62'
-average: '102.914514285713'
+descuento: '25.39'
+average: '102.897635327634'
 ---
 
-Sie können [LEGO 60266 City Meeresforschungsschiff  schwimmendes Spielzeugboot  Tiefsee-Unterwasserset  Tauchabenteuer für Kinder](https://www.amazon.de/dp/B0813R1CMZ/?tag=tolees0ca-21) mit Preis 97.99 EUR (original: 129.99 EUR) 24.62 % Rabatt hier:
+Sie können [LEGO 60266 City Meeresforschungsschiff  schwimmendes Spielzeugboot  Tiefsee-Unterwasserset  Tauchabenteuer für Kinder](https://www.amazon.de/dp/B0813R1CMZ/?tag=tolees0ca-21) mit Preis 96.99 EUR (original: 129.99 EUR) 25.39 % Rabatt hier:
 
 [![LEGO 60266 City Meeresforschungsschiff  ](https://m.media-amazon.com/images/I/51q89OcubML._SL400_.jpg)](https://www.amazon.de/dp/B0813R1CMZ/?tag=tolees0ca-21)
 

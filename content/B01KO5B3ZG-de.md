@@ -28,10 +28,10 @@ Sie können [Panama Jack Herren Panama 03 Igloo Klassische Stiefel  Lederfarben 
 
 ℹ️:
 
-- Hergestellt in Spain
-- HeelHeight: 3, 00 cm
 - Panama Jack Men, Cuero / Bark Springer Boots
-- Water Resistant
+- Hergestellt in Spain
 - Principal Material: Nappa, Lining Material: Natural Fur/Real Fur Sole Material: Natural Rubber InnerSole RemovableInsert: Yes
+- HeelHeight: 3, 00 cm
+- Water Resistant
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01KO5B3ZG/?tag=tolees0ca-21)

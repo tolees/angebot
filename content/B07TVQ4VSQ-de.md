@@ -28,10 +28,10 @@ Es gibt ein [LEDVANCE LED Fluter  Leuchte für Außenanwendungen  Warmweiß  122
 
 ℹ️:
 
-- Stromzufuhr über ein 1 Meter langes und offenes Kabel
 - Gehäusematerial aus hochwertigem Aluminium
-- Sofort volles Licht, keine Aufwärmzeit durch das integrierte und stromsparende LED-Modul
-- Bedenkenlose Außenanwendung durch IP65-Schutzklasse
+- Stromzufuhr über ein 1 Meter langes und offenes Kabel
 - Teilmattierte Abdeckung aus gehärtetem Glas, für eine gleichmäßige Beleuchtung
+- Bedenkenlose Außenanwendung durch IP65-Schutzklasse
+- Sofort volles Licht, keine Aufwärmzeit durch das integrierte und stromsparende LED-Modul
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07TVQ4VSQ/?tag=tolees0ca-21)

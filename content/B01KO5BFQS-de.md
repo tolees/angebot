@@ -28,10 +28,10 @@ Sie können [Panama Jack Herren Panama 03 Igloo Springerstiefel  Lederfarben  43
 
 ℹ️:
 
-- Water Resistant
 - Panama Jack Men, Cuero / Bark Springer Boots
-- HeelHeight: 3, 00 cm
 - Principal Material: Nappa, Lining Material: Natural Fur/Real Fur Sole Material: Natural Rubber InnerSole RemovableInsert: Yes
+- HeelHeight: 3, 00 cm
 - Hergestellt in Spain
+- Water Resistant
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01KO5BFQS/?tag=tolees0ca-21)
