@@ -29,9 +29,9 @@ Es gibt ein [Dell XPS 15 9500  15 Zoll FHD+  Intel® Core™ i7-10750H  NVIDIA G
 ℹ️:
 
 - Bis zu €150 Cashback von Dell erhalten: kaufen Sie bis zum 31.07.2021 ein qualifizierendes Dell XPS Notebook und senden Sie Ihren alten Laptop an Dell zum recyclen. Weitere Teilnahmebedingungen finden Sie in dem Abschnitt “Produktleitfäden und Dokumente“
-- 10th Generation Intel Core i7-10750H (12MB Cache, up to 5.0 GHz, 6 cores)
-- 15.6 FHD+ (1920 x 1200) InfinityEdge Non-Touch Anti-Glare 500-Nit Display
 - 512GB M.2 PCIe NVMe Solid State Drive
+- 15.6 FHD+ (1920 x 1200) InfinityEdge Non-Touch Anti-Glare 500-Nit Display
+- 10th Generation Intel Core i7-10750H (12MB Cache, up to 5.0 GHz, 6 cores)
 - Arbeitsspeicher: 16GB, 2x8GB, DDR4, 3733MHz
 - NVIDIA GTX 1650 Ti 4GB GDDR6 (N18P-G62)
 

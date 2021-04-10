@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden - Bosch 10tlg. Pocket Schrauberbit-Set](https
 
 ℹ️:
 
-- 9 Schrauberbits L = 25 mm (PH 1/2, PZ 1/2/3, HEX 4/5, T 20/25)
+- Abmessung: 170 x 120 x 50
 - Für alle Elektrowerkzeugmarken und Handschraubendreher geeignet
 - Zoll Pocket Zoll Schrauberbit Set, universelles Basis-Set geeignet für alle gängigen Schraub- und Montagearbeiten
 - 1 Handschraubendreher
-- Abmessung: 170 x 120 x 50
+- 9 Schrauberbits L = 25 mm (PH 1/2, PZ 1/2/3, HEX 4/5, T 20/25)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000P4IRNS/?tag=tolees0ca-21)

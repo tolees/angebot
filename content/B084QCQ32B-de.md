@@ -30,7 +30,7 @@ Es gibt ein [Patagonia M s Rainshadow Jkt Herrenjacke M Blau  superior blue ](ht
 
 - Höchste Qualität von Komfort und Leistung und langfristig wasserdicht.
 - Ms Rainshadow Jkt (85115)
-- Herren-Jacke für Camping und Wandern.
 - Die dreilagige, wasserdichte und atmungsaktive Hülle h2no performance standard bietet uneingeschränkte Mobilität.
+- Herren-Jacke für Camping und Wandern.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084QCQ32B/?tag=tolees0ca-21)
