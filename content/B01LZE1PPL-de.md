@@ -28,9 +28,9 @@ Sie können [NSV - 4041 - The Game - Extreme - Kartenspiel](https://www.amazon.d
 
 ℹ️:
 
-- Alter: ab 8 Jahre, Spieler: 2-4, Dauer: ca.20 Min
-- Härter! Hoffnungslos. Großartig! - Das Originalspiel wird für Extreme nicht benötigt
 - Sprache: Deutsch
+- Härter! Hoffnungslos. Großartig! - Das Originalspiel wird für Extreme nicht benötigt
+- Alter: ab 8 Jahre, Spieler: 2-4, Dauer: ca.20 Min
 - Inhalt: 102 Spielkarten, Spielanleitung
 - Autor: Steffen Benndorf, Reinhard Staupe
 

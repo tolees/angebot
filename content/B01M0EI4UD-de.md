@@ -28,10 +28,10 @@ Es gibt ein [SAMYANG DSLR -- Objektiv für Anschluss Sony F1.8/20mm schwarz](htt
 
 ℹ️:
 
-- Ultraweitwinkel-Objektiv 20mm F1.8
 - Speziell für CSC und APSC Kameras
-- Manuelle Fokussierung
-- Lieferumfang : Samyang 20mm F1.8 ED AS UMC Objektiv für Anschluss Sony; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch .de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Manuelle Fokussierung
+- Ultraweitwinkel-Objektiv 20mm F1.8
+- Lieferumfang : Samyang 20mm F1.8 ED AS UMC Objektiv für Anschluss Sony; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01M0EI4UD/?tag=tolees0ca-21)
