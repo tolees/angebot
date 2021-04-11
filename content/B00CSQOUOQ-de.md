@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '33.24 % rabat auf Warner Bros. Entertainment GmbH - Der gr'
-date: 2021-03-29 17:15:20
+title: '15.88 % rabat auf Warner Bros. Entertainment GmbH - Der gr'
+date: 2021-04-11 11:59:28
 image: 'https://m.media-amazon.com/images/I/51aieFC2wnL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B00CSQOUOQ-de Warner Bros. Entertainment GmbH - Der große Gatsby [Blu-ray]'
 sku: 'B00CSQOUOQ-de'
 tags: [ 'Blu-ray','DVD & Blu-ray','Drama','Featured Categories','Filme','Komödie & Unterhaltung','Romantik','warner bros. entertainment gmbh', ]
-actualPrice: 4.6 EUR
+actualPrice: 4.66 EUR
 currency: EUR
-price: 4.6
-comparePrice: 6.89 EUR
+price: 4.66
+comparePrice: 5.54 EUR
 prodname: 'Warner Bros. Entertainment GmbH - Der große Gatsby [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Warner Bros. Entertainment GmbH'
 buyurl: 'https://www.amazon.de/dp/B00CSQOUOQ/?tag=tolees0ca-21'
-descuento: '33.24'
-average: '4.6'
+descuento: '15.88'
+average: '4.62'
 ---
 
-Es gibt ein [Warner Bros. Entertainment GmbH - Der große Gatsby [Blu-ray]](https://www.amazon.de/dp/B00CSQOUOQ/?tag=tolees0ca-21) mit aktuellem Preis 4.6 EUR (original: 6.89 EUR) 33.24 % Rabatt hier:
+Es gibt ein [Warner Bros. Entertainment GmbH - Der große Gatsby [Blu-ray]](https://www.amazon.de/dp/B00CSQOUOQ/?tag=tolees0ca-21) mit aktuellem Preis 4.66 EUR (original: 5.54 EUR) 15.88 % Rabatt hier:
 
 [![Warner Bros. Entertainment GmbH - Der gr](https://m.media-amazon.com/images/I/51aieFC2wnL._SL400_.jpg)](https://www.amazon.de/dp/B00CSQOUOQ/?tag=tolees0ca-21)
 
