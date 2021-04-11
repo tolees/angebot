@@ -28,10 +28,10 @@ Es gibt ein [Ravensburger GraviTrax PRO Erweiterung Mixer - Ideales Zubehör fü
 
 ℹ️:
 
-- Als MINT Spielzeug macht GraviTrax Schwerkraft spielerisch erlebbar: Beim Mixer tauchen die Kugeln von bis zu drei Seiten in den Action-Stein ein - es bleibt mit Spannung abzuwarten, zu welcher Seite die Kugel den Mixer wieder verlässt
-- Mit GraviTrax PRO planen und realisieren Kinder jetzt noch spannendere Streckenverläufe: Denn mit GraviTrax PRO können jetzt auch mehrere Ebenen über- und untereinander gebaut und Strecken durch Säulen hindurchgeführt werden, anstatt außen herum zu bauen
-- Dieses Erweiterungs-Set enthält: 1x Action-Stein Mixer und ist das ideale Geschenk für Kinder ab 8 Jahren, die ihre Kugelbahn spektakulär erweitern möchten
 - Bei diesem Konstruktionsspielzeug sind der Kreativität keine Grenzen gesetzt: Einfach den Mixer mit dem GraviTrax Starterset kombinieren und für noch mehr Action in den selbst erschaffenen Kugelbahnwelten sorgen - mehr Möglichkeiten, mehr Spaß
+- Mit GraviTrax PRO planen und realisieren Kinder jetzt noch spannendere Streckenverläufe: Denn mit GraviTrax PRO können jetzt auch mehrere Ebenen über- und untereinander gebaut und Strecken durch Säulen hindurchgeführt werden, anstatt außen herum zu bauen
 - Der GraviTrax Mixer ist eine Erweiterung des interaktiven Kugelbahnsystems GraviTrax: Mit GraviTrax bauen Kinder nicht nur einfache Kugelbahnen, sondern erschaffen ganze Kugelbahnwelten - der ideale Einstieg in die Welt der Murmelbahn
+- Als MINT Spielzeug macht GraviTrax Schwerkraft spielerisch erlebbar: Beim Mixer tauchen die Kugeln von bis zu drei Seiten in den Action-Stein ein - es bleibt mit Spannung abzuwarten, zu welcher Seite die Kugel den Mixer wieder verlässt
+- Dieses Erweiterungs-Set enthält: 1x Action-Stein Mixer und ist das ideale Geschenk für Kinder ab 8 Jahren, die ihre Kugelbahn spektakulär erweitern möchten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084DFQXSK/?tag=tolees0ca-21)

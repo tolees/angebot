@@ -29,9 +29,9 @@ Es gibt ein [Mepal 107648091200 Lunch Pot  PP/PCTG  Grün  11 x 11 x 15 cm](http
 ℹ️:
 
 - 100% auslaufsicher
-- Geeignet für Gefrierschrank, Mikrowelle und Geschirrspüler
-- Ein praktischer Suppenbecher, Joghurtbecher oder Müslibecher to go
 - 2 Behälter: 500 ml (mikrowellengeeignet) und 200 ml Inhalt
+- Ein praktischer Suppenbecher, Joghurtbecher oder Müslibecher to go
+- Geeignet für Gefrierschrank, Mikrowelle und Geschirrspüler
 - 100% BPA-frei
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XHZCGTJ/?tag=tolees0ca-21)

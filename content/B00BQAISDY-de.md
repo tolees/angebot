@@ -29,8 +29,8 @@ Es gibt ein [Solutions2Go - S2G UNI1017 - Digitaler Alkohol-Tester  misst den Pr
 ℹ️:
 
 - Schnelle Messergebnisse
-- Mit dem Soloutins2Go Alkoholtester prüfen Sie jeder Zeit wie hoch Ihre Promillegrenze ist
 - Messbar in Promille und g/L
+- Mit dem Soloutins2Go Alkoholtester prüfen Sie jeder Zeit wie hoch Ihre Promillegrenze ist
 - Warnanzeige bei erhöhtem Alkohol-Messwert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BQAISDY/?tag=tolees0ca-21)
