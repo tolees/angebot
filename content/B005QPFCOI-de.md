@@ -28,13 +28,13 @@ Sie können [Hudson Herren Relax Cotton Socken 1 paar Silber  Silber 0502  43/44
 
 ℹ️:
 
-- Abschluss ohne Gummifäden
+- Baumwolle, super blickdicht
 - Modellnummer: 004400 Relax Cotton Socke
+- Abschluss ohne Gummifäden
 - Gekettelte Fußpitze, Herren
+- 97% Baumwolle 3% Elasthan
 - Eingestrickte Ferse (Pendelferse), verstärkte Fußspitze
 - Einfarbig
-- Baumwolle, super blickdicht
 - Pflegehinweis: Maschinenwäsche
-- 97% Baumwolle 3% Elasthan
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005QPFCOI/?tag=tolees0ca-21)
