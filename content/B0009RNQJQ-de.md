@@ -29,9 +29,9 @@ Sie können [Crayola 5036369 - Buntstifte  36 Stück](https://www.amazon.de/dp/B
 ℹ️:
 
 - Vorgeschärfte und bereit zu verwenden
-- 36 intensiv leuchtenden Farben
 - Geeignet für 3 + Jahre
 - Ideal geeignet für detaillierte Malen
 - ausmalen mit so vielen Möglichkeiten
+- 36 intensiv leuchtenden Farben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0009RNQJQ/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [50x Mund-Nasen-Maske  3lagig  blau  deutschsprachige Verpackung von
 
 ℹ️:
 
-- Nicht medizinische Mund und Nasen Maske (Community Face Mask), Einweg Stoffmaske mit Meltblown Schmelz Vlies Stoff Schicht, Einwegmasken nicht waschbar
-- Maße: 20x15cm, blau und weiß, ohne Motiv. Alltagsmaske für Einkaufen, Bahnfahren und öffentliches Leben, Behelfsmaske für den Alltag
 - 50x MUND NASEN MASKEN: 3 lagige Gesichtsmasken für zivilen, nicht-medizinischen Einsatz, Zivile Mund und Nasenschutz Maske für Maskenpflicht
+- Nicht medizinische Mund und Nasen Maske (Community Face Mask), Einweg Stoffmaske mit Meltblown Schmelz Vlies Stoff Schicht, Einwegmasken nicht waschbar
 - ERGONOMISCH: Guter Sitz im Gesicht dank flexiblem Nasenbügel der Maske und elastischem Gummiband an der Mundmaske, für Erwachsene und Kinder geeignet
+- Maße: 20x15cm, blau und weiß, ohne Motiv. Alltagsmaske für Einkaufen, Bahnfahren und öffentliches Leben, Behelfsmaske für den Alltag
 - PREMIUM QUALITÄT: Deutsche Verpackung mit Hinweisen des Robert-Koch-Instituts, deutscher Inverkehrbringer und beim deutschen Patent und Markenamt registrierte Marke für Mundmasken
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B088QLQB6C/?tag=tolees0ca-21)

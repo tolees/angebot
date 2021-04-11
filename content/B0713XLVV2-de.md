@@ -28,10 +28,10 @@ Es gibt ein [LUXANDAL EYELASH ACTIVATING SERUM – Wimpernserum für ein stärke
 
 ℹ️:
 
-- ✔ RESTRUKTURIERUNG – die Wirkstoff-Kombination beinhaltet hochwirksame, Hyaluronsäure, welche den Wimpern Dichte, Farbe und eine gepflegte Ausstrahlung verleiht.
 - ✔ REICHHALTIGE PFLEGE - die innovative Wirkstoffformel nährt und kräftigt die Wimpern und sorgt für ausreichend Feuchtigkeit gegen Wimpernbruch.
 - ✔ MEDIZINISCH GEPRÜFT - unser Produkt ist sorgfältig auf Verträglichkeit und Wirksamkeit geprüft worden. Warnhinweise finden Sie auf der Packung. GELD-ZURÜCK-GARANTIE - Sollte Sie das Wimpernserum nicht überzeugen, kontaktieren Sie uns – wir finden sicher eine Lösung (Teilnahmebedingungen laut Verkäufer-AGBs abzurufen über Verkäuferprofil unter „Geschäftsbedingungen und Hilfe“)!
-- ✔ SCHONENDE REINIGUNG - die vitaminreiche Pflege mit Luxandal erhöht die Elastizität, Länge und Geschmeidigkeit der Wimpern und eignet sich perfekt als Mascara-Basis.
 - ✔ NATÜRLICHE HEILKRAFT - die Wirkung des Ginkgo-Extraktes verbessert die Durchblutung der Haut und unterstützt die Regeneration der Wimpern.
+- ✔ RESTRUKTURIERUNG – die Wirkstoff-Kombination beinhaltet hochwirksame, Hyaluronsäure, welche den Wimpern Dichte, Farbe und eine gepflegte Ausstrahlung verleiht.
+- ✔ SCHONENDE REINIGUNG - die vitaminreiche Pflege mit Luxandal erhöht die Elastizität, Länge und Geschmeidigkeit der Wimpern und eignet sich perfekt als Mascara-Basis.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0713XLVV2/?tag=tolees0ca-21)
