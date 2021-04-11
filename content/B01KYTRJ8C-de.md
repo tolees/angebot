@@ -28,10 +28,10 @@ Es gibt ein [Petzl Erwachsene Actik Stirnlampe  Blau  One Size](https://www.amaz
 
 ℹ️:
 
+- Leuchtkraft: 5-300 Lumen; Anzahl LEDs: 3; 5 unterschiedliche Leuchtmodi
 - Inklusive Notfallpfeife; Reflektierendes Kopfband
 - Geringes Gewicht; Breiter Lichtkegel
 - Wasserdicht: IP X4 (wetterfest)
-- Leuchtkraft: 5-300 Lumen; Anzahl LEDs: 3; 5 unterschiedliche Leuchtmodi
 - Leuchtfarbe: Rot, Weiß; Leuchtweite: 90 m
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01KYTRJ8C/?tag=tolees0ca-21)
