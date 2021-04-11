@@ -28,9 +28,9 @@ Es gibt ein [Lego Minecraft - Lego 21151 Minecraft Das letzte Gefecht  Bauset f�
 
 ℹ️:
 
-- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen und Enderman-Figur
-- Spucke mit dem Enderdrachen Feuerbälle und bringe seinen Körper in dynamische Posen
 - Überprüfe die Drachenjäger-Rüstung, nimm den Trank, die Enderperle und den verzauberten Bogen und sei bereit für das letzte Gefecht
+- Spucke mit dem Enderdrachen Feuerbälle und bringe seinen Körper in dynamische Posen
+- Das Set enthält eine Drachenjäger-Minifigur (neu ab Januar 2019) sowie eine Enderdrachen und Enderman-Figur
 - Zur Ausrüstung gehört ein verzauberter Bogen
 - Dieses Minecraft-Spielzeug umfasst ein Enderdrachen-Spielzeug mit beweglichen Gliedmaßen und eine Enderman-Figur sowie ein Minecraft-Ende-Setting mit Obsidiansäule und einem Enderkristall mit Pop-up-Funktion
 
