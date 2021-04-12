@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '32.03 % rabat auf LEGO 60247 City Waldbrand  Bauset mit Bu'
-date: 2021-03-25 01:30:10
+title: '30.03 % rabat auf LEGO 60247 City Waldbrand  Bauset mit Bu'
+date: 2021-04-12 08:19:31
 image: 'https://m.media-amazon.com/images/I/51rrNsHCcfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,31 @@ author: 'tole.es'
 slug: 'B07W5PY3G6-de LEGO 60247 City Waldbrand Bauset mit Buggy und Feuerwehrmann'
 sku: 'B07W5PY3G6-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 6.79 EUR
+actualPrice: 6.99 EUR
 currency: EUR
-price: 6.79
+price: 6.99
 comparePrice: 9.99 EUR
-prodname: 'LEGO 60247 City Waldbrand  Bauset mit Buggy und Feuerwehrmann'
+prodname: 'LEGO 60247 City Waldbrand  Bauset mit Buggy und Feuerwehrmann'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21'
-descuento: '32.03'
-average: '7.368125'
+descuento: '30.03'
+average: '7.34588235294118'
 ---
 
-Es gibt ein [LEGO 60247 City Waldbrand  Bauset mit Buggy und Feuerwehrmann](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21) mit aktuellem Preis 6.79 EUR (original: 9.99 EUR) 32.03 % Rabatt hier:
+Es gibt ein [LEGO 60247 City Waldbrand  Bauset mit Buggy und Feuerwehrmann](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21) mit aktuellem Preis 6.99 EUR (original: 9.99 EUR) 30.03 % Rabatt hier:
 
-[![LEGO 60247 City Waldbrand  Bauset mit Bu](https://m.media-amazon.com/images/I/51rrNsHCcfL._SL400_.jpg)](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21)
+[![LEGO 60247 City Waldbrand  Bauset mit Bu](https://m.media-amazon.com/images/I/51rrNsHCcfL._SL400_.jpg)](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Kinder können dem Feuerwehrmann Clemmons dabei helfen, sich in den superschnellen Buggy für den Schnelleinsatz zu setzen und eine Feuerwehraktion zur Rettung der Eule zu spielen
-- Zu den Accessoires gehört ein Feuerlöscher und Flammen, mit denen Kinder zu Feuerwehrhelden werden können. Benötigt nur sehr grundlegende Fähigkeiten zum Bauen
-- Das Waldbrandspielzeug enthält die Feuerwehrminifigur des LEGO City TV-Helden Clemmons und eine schläfrige Eulenfigur, die gerettet werden muss
-- Verfügt über einen coolen Buggy mit Wasserwerfer und Platz für den Feuerwehrmann/Fahrer sowie einen Spielzeugbaum mit beweglichen Zweigen und Flammen, die zu bekämpfen sind
-- Junge Feuerwehrmänner können mit dem leistungsstarken Wasserwerfer die Flammen löschen und dann die verschlafene Eule aus dem Baum retten
+- Inhalt des Sets: Das Spielset „Waldbrand“ (60247) enthält einen coolen Buggy mit Wasserkanone und Platz für einen Feuerwehrmann, einen Baum mit Flammen und eine schläfrige Eulenfigur. Bietet reichlich Gelegenheit für fantasievolle Spielerlebnisse.
+- Das Waldbrand-Spielzeug ist eine tolle Einführung in die aufregende LEGO City Welt. Das perfekte Set für Kinder im Alter von 5 bis 8 Jahren, inspiriert zu unzähligen fantasievollen Rollenspielen, die auf echten Szenarien basieren.
+- Mit diesem LEGO Bauspielzeug fällt der Einstieg ins Bauen ganz leicht. Die Box enthält eine einfache Bauanleitung, damit der Bauspaß sofort nach dem Öffnen der Beutel mit den Steinen beginnen kann!
+- Batterien werden nicht benötigt! Diesem LEGO Spielzeug reicht die Fantasie der Kinder als Antrieb, damit der Spielspaß sofort beginnen kann!
+- Dieses Bauspielzeug für kleine Helden des Alltags enthält einen coolen Feuerwehr-Buggy mit Wasserkanone, einen Baum mit Flammen und eine niedliche Eulenfigur. Dieses Spielzeug lässt sich auch mit anderen LEGO Spielsets kombinieren.
+- Der fertig gebaute Feuerwehrbuggy ist 4 cm hoch, 12 cm lang und 5 cm breit. Der Baum ist dagegen 3 cm hoch, 6 cm breit und 5 cm tief.
+- Auf der Suche nach einem coolen Spielzeug für 5- bis 8-Jährige? Dieses Feuerwehr-Spielset ist ein tolles kleines Geschenk für LEGO City Fans und Kinder, die actionreiche Rollenspiele lieben. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W5PY3G6/?tag=tolees0ca-21)

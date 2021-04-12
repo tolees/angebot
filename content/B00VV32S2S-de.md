@@ -28,10 +28,10 @@ Es gibt ein [TaoTronics Schreibtischlampe LED 12W Büro Tischleuchte 5 Farb und 
 
 ℹ️:
 
-- Schreibtischleuchte mit 5 Farbtemperaturen und 7 verschiedenen Helligkeitsstufen wählbar, um sich optimal an Ihre Bedürfnisse anzupassen
 - Tischlampe mit dem angenehmen, flimmerfreien und schattenstreifenfreien Licht zum lesen, arbeiten und studieren; schonend für die Augen, verursacht weniger Ermüdungserscheinungen
-- Leselampe mit USB-Ladeanschluss 5V, 1A zur Aufladung von Smartphones, Tabletts oder eReadern
-- Bürolampe mit dem modernen Design, passend zu Ihrem Schreibtisch, Raum und Möbeln; der verstellbare Arm und der Lampenkopf sind aus robusten Plastik und Aluminiumlegierungen hergestellt
 - Nachttischlampe 410 LM energieeffizient: verbraucht 75% weniger Energie als eine herkömmliche Glühlampe bei gleicher Helligkeit
+- Bürolampe mit dem modernen Design, passend zu Ihrem Schreibtisch, Raum und Möbeln; der verstellbare Arm und der Lampenkopf sind aus robusten Plastik und Aluminiumlegierungen hergestellt
+- Leselampe mit USB-Ladeanschluss 5V, 1A zur Aufladung von Smartphones, Tabletts oder eReadern
+- Schreibtischleuchte mit 5 Farbtemperaturen und 7 verschiedenen Helligkeitsstufen wählbar, um sich optimal an Ihre Bedürfnisse anzupassen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00VV32S2S/?tag=tolees0ca-21)

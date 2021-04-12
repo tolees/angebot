@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 76383 Harry Potter Hogwarts Moment: mit 28.18 % Rabatt'
-date: 2021-04-01 20:38:02
+title: 'LEGO 76383 Harry Potter Hogwarts Moment: mit 28.24 % Rabatt'
+date: 2021-04-12 08:22:28
 image: 'https://m.media-amazon.com/images/I/51feUah1-+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08G4CN5YD-de LEGO 76383 Harry Potter Hogwarts Moment:...'
 sku: 'B08G4CN5YD-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 21.54 EUR
+actualPrice: 21.52 EUR
 currency: EUR
-price: 21.54
+price: 21.52
 comparePrice: 29.99 EUR
 prodname: 'LEGO 76383 Harry Potter Hogwarts Moment: Zaubertrankunterricht Set  Spielzeugkoffer mit Minifiguren  Sammlerstück'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4CN5YD/?tag=tolees0ca-21'
-descuento: '28.18'
-average: '23.169387755102'
+descuento: '28.24'
+average: '23.1364'
 ---
 
-Sie können [LEGO 76383 Harry Potter Hogwarts Moment: Zaubertrankunterricht Set  Spielzeugkoffer mit Minifiguren  Sammlerstück](https://www.amazon.de/dp/B08G4CN5YD/?tag=tolees0ca-21) mit Preis 21.54 EUR (original: 29.99 EUR) 28.18 % Rabatt hier:
+Sie können [LEGO 76383 Harry Potter Hogwarts Moment: Zaubertrankunterricht Set  Spielzeugkoffer mit Minifiguren  Sammlerstück](https://www.amazon.de/dp/B08G4CN5YD/?tag=tolees0ca-21) mit Preis 21.52 EUR (original: 29.99 EUR) 28.24 % Rabatt hier:
 
 [![LEGO 76383 Harry Potter Hogwarts Moment:](https://m.media-amazon.com/images/I/51feUah1-+L._SL400_.jpg)](https://www.amazon.de/dp/B08G4CN5YD/?tag=tolees0ca-21)
 
