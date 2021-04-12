@@ -30,8 +30,8 @@ Sie können [Ledlenser H6 LED Stirnlampe  helle 200 Lumen  60 Stunden Laufzeit  
 
 - Lange und hohe Lichtleistung: Hohe Leuchtkraft in gewohnter Ledlenser Qualität, bis zu 120 Metern Reichweite, 200 Lumen und bis zu 60 Stunden Leuchtdauer, dimmbar, für Licht auf höchstem Leistungsniveau
 - Lieferumfang: Box mit 1 Stirnlampe, inklusive 1 Batteriesatz und Gürteltasche, Farbe: Schwarz, Garantie: 7 Jahre
-- Extra,Funktionen: Patentiertes Advanced Focus System zur Veränderung zwischen kreisrundem Nahlicht zu gebündeltem Fernlicht und Front Switch zur einhändigen Bedienung am Lampenkopf
 - Ledlenser H6: Power LED Allround Kopflampe, ergonomische, nackenschonende Kopfleuchte mit geringem Gewicht und optimaler Gewichtsverteilung, für angenehmen Tragekomfort z.B. privat oder beruflich, beim Joggen, Wandern oder Outdoor beim Camping
 - Zwei Leuchteinstellungen: Einfach wählbare Lichtfunktionen durch Power mit hoher Leuchtleistung und Low Power mit energiesparendem Licht für lange Laufzeiten z.B. beim blendfreien Lesen und Arbeiten
+- Extra,Funktionen: Patentiertes Advanced Focus System zur Veränderung zwischen kreisrundem Nahlicht zu gebündeltem Fernlicht und Front Switch zur einhändigen Bedienung am Lampenkopf
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0166LIU9E/?tag=tolees0ca-21)

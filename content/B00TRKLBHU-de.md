@@ -28,10 +28,10 @@ Es gibt ein [Koziol Utensilo Surf XL  Kunststoff  transparent anthrazit  8 1 x 2
 
 ℹ️:
 
+- Design: Annette Lang, Wiesbaden
+- Utensilo für Shampoo, Duschgel und Schwamm
+- Hergestellt in Deutschland
 - zum Einhängen an der Bad-Armatur oder einem Wandhaken
 - weitere Utensilos können eingehängt werden
-- Utensilo für Shampoo, Duschgel und Schwamm
-- Design: Annette Lang, Wiesbaden
-- Hergestellt in Deutschland
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00TRKLBHU/?tag=tolees0ca-21)

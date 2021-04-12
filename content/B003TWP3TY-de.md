@@ -30,8 +30,8 @@ Sie können [Bosch Professional Schleifblatt für Exzenterschleifer Holz und Far
 
 - Mit Kletthaftsystem für schnellen Blattwechsel und Absauglöchern für interne Staubabsaugung
 - Mit Calciumstearatbeschichtung zur Verminderung des vorzeitigen Verstopfens
-- Passend für Exzenterschleifer gängiger Elektrowerkzeugmarken
-- Professionelles Bearbeiten von Holz, Farbe, Lack und Spachtel
 - Scheibendurchmesser 125 mm; 50 Stück; acht Löcher; Körnung 120
+- Professionelles Bearbeiten von Holz, Farbe, Lack und Spachtel
+- Passend für Exzenterschleifer gängiger Elektrowerkzeugmarken
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003TWP3TY/?tag=tolees0ca-21)

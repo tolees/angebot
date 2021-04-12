@@ -28,10 +28,10 @@ Es gibt ein [GYS Elektroden-Schweißinverter 160P mit Schweißhelm LCD Master 11
 
 ℹ️:
 
-- Schweißgerät mit mikroprozessorgesteuerter Invertertechnologie.
 - Einsetzbar mit allen Elektrodentypen: Rutil, Basisch, Edelstahl, Gusseisen im Gleichstrom.
 - Sehr handlich durch sein geringes Gewicht (4,2 kg), sein stark reduziertes Volumen und seinen sehr geringen Verbrauch (Stecker 16 A mit AM-Sicherung).
-- Sofortstart durch sehr hohe Leerlaufspannung.
 - Die Lichtbogendynamik des Produkts ist einzigartig und revolutionär.
+- Sofortstart durch sehr hohe Leerlaufspannung.
+- Schweißgerät mit mikroprozessorgesteuerter Invertertechnologie.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00AMFBP2K/?tag=tolees0ca-21)

@@ -28,12 +28,12 @@ Sie können [Bosch Home and Garden - Bosch Akku Mini Handkreissäge UniversalCir
 
 ℹ️:
 
-- Lieferumfang: UniversalCirc 12, Akku, Ladegerät, Sägeblatt für Holz, Absaugadapter, Parallelanschlag, Karton
 - Einfacher Wechsel des Sägeblattes durch Spindelarretierung
-- Die Akku-Kreissäge UniversalCirc 12 - die kleine Kreissäge für präzise Schnitte in Holz
-- Einfacher Zuschnitt von Laminat, Spanplatten, Paneelen und Verkleidungen
-- Bis zu 26 mm Schnittiefe in Holz - Schnitttiefe und Gehrungswinkel lassen sich dabei schnell und einfach einstellen
-- Optimale Sicht auf die Schnittlinie dank PowerLight LED
+- Lieferumfang: UniversalCirc 12, Akku, Ladegerät, Sägeblatt für Holz, Absaugadapter, Parallelanschlag, Karton
 - Der UniversalCirc 12 ermöglicht Ihnen präzise und saubere Schnitte dank hochwertigem Sägeblatt
+- Einfacher Zuschnitt von Laminat, Spanplatten, Paneelen und Verkleidungen
+- Die Akku-Kreissäge UniversalCirc 12 - die kleine Kreissäge für präzise Schnitte in Holz
+- Optimale Sicht auf die Schnittlinie dank PowerLight LED
+- Bis zu 26 mm Schnittiefe in Holz - Schnitttiefe und Gehrungswinkel lassen sich dabei schnell und einfach einstellen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N7JVTXH/?tag=tolees0ca-21)

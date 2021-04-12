@@ -29,9 +29,9 @@ Es gibt ein [Sangean MMR-88 Tragbares Kurbelradio  Notfall radio mit Taschenlamp
 ℹ️:
 
 - TRAGBAR - Mit der Survivor M8 müssen Sie nie auf ein Abenteuer verzichten. Dieser leichte Partner wird Ihnen den Rücken stärken, wann immer Sie in Schwierigkeiten geraten oder wenn Sie einfach nur Musik brauchen.
-- ENERGIEVERSORGUNG - Das Radio wird ü ber den integrierten Li-Ion-Akku betrieben, der sowohl ü ber die Handkurbel und das Solarpanel, als auch ü ber den DC-Eingang (USB-A-auf-Micro-USB-B-Kabel im Lieferumfang enthalten) aufgeladen werden kann
-- TYP - Der Survivor M8 ist ein AM/FM-Radio, das Ihr Leben retten kann. Verwenden Sie den Notsummer, um Menschen mit Ton zu warnen, oder benutzen Sie die Taschenlampe, um im Morsekode zu kommunizieren.
 - RUCKSACKTOURISMUS - Machen Sie sich keine Sorgen, dass Sie viele Kabel mitbringen müssen. Der Survivor M8 kann mit der Handkurbel oder mit Solarenergie aufgeladen werden. Neben diesen Optionen können Sie immer den Standard-Micro-USB-Eingang verwenden.
 - AUSSTATTUNG - Taschenlampe (einstellbar in Hoch, niedrig, Blinklicht, SOS-Morse-Code)/ machen Sie in Notsituationen mit dem notfall-signalton auf sich aufmerksam/ integrierter Uhr/ stereo-kopfhö reranschluss/ handyladefunktion/ inkl. Trageschlaufe
+- ENERGIEVERSORGUNG - Das Radio wird ü ber den integrierten Li-Ion-Akku betrieben, der sowohl ü ber die Handkurbel und das Solarpanel, als auch ü ber den DC-Eingang (USB-A-auf-Micro-USB-B-Kabel im Lieferumfang enthalten) aufgeladen werden kann
+- TYP - Der Survivor M8 ist ein AM/FM-Radio, das Ihr Leben retten kann. Verwenden Sie den Notsummer, um Menschen mit Ton zu warnen, oder benutzen Sie die Taschenlampe, um im Morsekode zu kommunizieren.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00U2XLQLC/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [LEGO 60221 City Tauchyacht  Spielzeug mit 2 Taucher-Minifiguren  Me
 
 ℹ️:
 
-- Ebenfalls enthalten ist eine Meeresboden-Szene mit einer Schatztruhe zum Öffnen.
 - Umfasst ein großes Freizeittauchyacht-Spielzeug mit Sonnendeck, abnehmbarem Dach, drehbarem Suchscheinwerfer und einem Stau- bzw. Schlafraum im Inneren.
 - Enthält 2 LEGO City Taucher-Minifiguren sowie eine Schwertfisch- und eine Krebsfigur.
+- Ebenfalls enthalten ist eine Meeresboden-Szene mit einer Schatztruhe zum Öffnen.
 - Entferne das Dach der Tauchyacht, um in das Unterdeck zu gelangen, und mache ein Nickerchen.
 - Als Zubehör sind Tauchausrüstung, eine Kamera, ein Juwelenelement, eine Videokamera, Atemgeräte, eine Fischfigur und eine baubare Boje enthalten.
 
