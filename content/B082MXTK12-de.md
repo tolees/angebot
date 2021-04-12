@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.77 % rabat auf Sony Pictures Home Entertainment - Juman'
-date: 2021-04-10 23:29:38
+date: 2021-04-12 17:15:37
 image: 'https://m.media-amazon.com/images/I/51JD-KMO12L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B082MXTK12/?tag=tolees0ca-21'
 descuento: '18.77'
-average: '8.82700000000001'
+average: '8.75161290322582'
 ---
 
 Es gibt ein [Sony Pictures Home Entertainment - Jumanji: The Next Level - DVD](https://www.amazon.de/dp/B082MXTK12/?tag=tolees0ca-21) mit aktuellem Preis 6.49 EUR (original: 7.99 EUR) 18.77 % Rabatt hier:
