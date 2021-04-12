@@ -29,9 +29,9 @@ Sie können [ültje pur Erdnüsse 200g](https://www.amazon.de/dp/B082VNG73S/?tag
 ℹ️:
 
 - Vegan
-- Besonders knackige Erdnüsse
-- Ungesalzen und ohne Fett im Ofen gebacken
 - Proteinquelle
 - Auch geeignet als Topping für Salate, Müslis und zum Backen oder Kochen
+- Ungesalzen und ohne Fett im Ofen gebacken
+- Besonders knackige Erdnüsse
 
 [🛒 Hier!!](https://www.amazon.de/dp/B082VNG73S/?tag=tolees0ca-21)
