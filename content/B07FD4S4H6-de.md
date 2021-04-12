@@ -28,10 +28,10 @@ Es gibt ein [Center Shock Mix: 3 Boxen mit 100 Kaugummis  Splashing Cola  Hidden
 
 ℹ️:
 
+- Genuss statt Verzicht – Auch wer unter Laktose- oder Glutenunverträglichkeit leidet, kann bei dieser sauren Süßigkeit – natürlich auch gern mehrmals – ohne Bedenken zugreifen
 - Fruchtig lecker – Die Kaugummis kommen in vier prickelnden Geschmacksrichtungen daher: die Klassiker Cola und Apfel, sowie die Newcomer Wassermelone und Himbeere garantieren eine Geschmacksexplosion
+- Praktischer Vorrat – Da die sauren Kaugummis einzeln verpackt sind, hat man stets die passende Menge in Reichweite, Besonders gut für Partys, Geburtstage und Halloween geeignet
 - Gemischte 100er Box – Die sauren Überraschungen von Center Shock werden als 3er XXL-Packung mit insgesamt 300 Stück geliefert und können als Thekendisplay oder als privater Vorrat dienen
 - Sauer macht lustig – Der Center Shock Mix besticht durch sein ungeheuer intensives Aroma, Die saure Hülle und der flüssige Kern schocken Geschmacksnerven von Groß und Klein
-- Genuss statt Verzicht – Auch wer unter Laktose- oder Glutenunverträglichkeit leidet, kann bei dieser sauren Süßigkeit – natürlich auch gern mehrmals – ohne Bedenken zugreifen
-- Praktischer Vorrat – Da die sauren Kaugummis einzeln verpackt sind, hat man stets die passende Menge in Reichweite, Besonders gut für Partys, Geburtstage und Halloween geeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FD4S4H6/?tag=tolees0ca-21)
