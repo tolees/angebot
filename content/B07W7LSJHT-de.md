@@ -30,10 +30,10 @@ Sie können [Seiko Chronograph Herren-Uhr Edelstahl mit Metallband SSB345P1](htt
 
 - LumiBrite (von Seiko entwickelte umweltfreundliche Leuchtbeschichtung)
 - Verschraubter Gehäuseboden
-- Ø 44,0 x 13,0 mm
-- Hardlexglas (Oberflächengehärtetes Mineralglas)
+- Bis zu 100 Meter wasserdicht
 - Gehäuse aus Edelstahl mit Titankarbidauflage
 - Metallband mit Faltschließe und Sicherheitsdrücker
-- Bis zu 100 Meter wasserdicht
+- Ø 44,0 x 13,0 mm
+- Hardlexglas (Oberflächengehärtetes Mineralglas)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7LSJHT/?tag=tolees0ca-21)
