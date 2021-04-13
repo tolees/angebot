@@ -28,9 +28,9 @@ Sie können [Roccat Kain 202 AIMO RGB Gaming Maus  16.000 DPI Owl-Eye Sensor  Ka
 
 ℹ️:
 
-- Aimo Lichtsystem – RGB-Hintergrundbeleuchtung und LED-Lichteffekte
-- Roccat-exklusiver omron-switches mit einer Lebensdauer von 50 Millionen clicks
 - Puristisches shape mit hochkomfortabler Ergonomie
+- Roccat-exklusiver omron-switches mit einer Lebensdauer von 50 Millionen clicks
+- Aimo Lichtsystem – RGB-Hintergrundbeleuchtung und LED-Lichteffekte
 - Titan-click-technologie für außergewöhnliche klick-präzision
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07YQJ34H7/?tag=tolees0ca-21)
