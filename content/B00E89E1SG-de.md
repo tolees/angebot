@@ -28,8 +28,8 @@ Sie können [Vihado OPC Traubenkernextrakt – aus Trauben ausgewählter Anbauge
 
 ℹ️:
 
-- Beliebter Pflanzenstoff: Der sekundäre Pflanzenstoff OPC (Oligomere Proanthocyanidine) gehört zur Gruppe der Flavanole und ist ein beliebtes Mittel zur Nahrungsergänzung
 - Lieferumfang: 1x Vihado OPC Kapseln hochdosiert, reines OPC ausschließlich aus Traubenkernextrakt ausgewählter Qualität, ohne Zusätze und vegan, 110 Kapseln (16,5 g)
+- Beliebter Pflanzenstoff: Der sekundäre Pflanzenstoff OPC (Oligomere Proanthocyanidine) gehört zur Gruppe der Flavanole und ist ein beliebtes Mittel zur Nahrungsergänzung
 - Wertvoller Extrakt: Seit seiner Entdeckung 1948 hat man das wertvolle Flavanol in vielen Pflanzen gefunden, besonders konzentriert ist es jedoch in Traubenkernen enthalten
 - Hochdosierte Kapseln: Die OPC Kapseln enthalten 300 mg Traubenkernextrakt pro Tagesdosis, davon sind 195 mg reines OPC. Sie sind frei von Zusätzen und vegan
 - Hohe Qualitätsstandards: Die Rohstoffe für alle Vihado Produkte werden mit größter Sorgfalt ausgewählt und unter stetiger Qualitätskontrolle in Deutschland verarbeitet
