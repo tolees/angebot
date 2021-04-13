@@ -28,12 +28,12 @@ Sie können [Eastpak Padded Pak r Rucksack  40 cm  24 L  Blau  Tribe Arrows ](ht
 
 ℹ️:
 
-- Aus 100 Prozent Polyester gefertigt
-- Die Schultergurte mögen zunächst etwas steif erscheinen, werden mit der Zeit aber weicher
 - Für dieses 100 Prozent vegane Produkt werden keinerlei tierische Produkte verwendet
-- Höhe: 40 cm, Breite: 30 cm, Tiefe: 18 cm
-- Hauptfach mit einer Reißverschluss-Vordertasche
-- In der Tribe-Arrows-Farbton
 - Gepolsterter Rücken und anpassbare Schultergurte
+- Aus 100 Prozent Polyester gefertigt
+- In der Tribe-Arrows-Farbton
+- Hauptfach mit einer Reißverschluss-Vordertasche
+- Die Schultergurte mögen zunächst etwas steif erscheinen, werden mit der Zeit aber weicher
+- Höhe: 40 cm, Breite: 30 cm, Tiefe: 18 cm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0815GJMLM/?tag=tolees0ca-21)
