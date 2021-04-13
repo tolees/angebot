@@ -29,8 +29,8 @@ Sie können [GROHE Get E | Badarmatur - Infrarot-Elektronik für Waschtisch mit 
 ℹ️:
 
 - Lieferumfang: Waschtischarmatur, Batterie, Dichtungsringe, Pflegeanleitung, Bedienungsanleitung
-- Die Perfekte Armatur für Senioren und Kinder- das Wasser kommt, sobald eine Hand unter den Auslauf gehalten wird
 - Da batteriebetrieben und mit flexiblen Schläuchen ausgestattet, kann jeder Waschtisch kinderleicht nachgerüstet werden
+- Die Perfekte Armatur für Senioren und Kinder- das Wasser kommt, sobald eine Hand unter den Auslauf gehalten wird
 - Herstellergarantie: 5 Jahre. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
 
