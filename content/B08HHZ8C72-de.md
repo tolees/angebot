@@ -30,9 +30,9 @@ Es gibt ein [Pegasus Spiele 51229G - Cubitos](https://www.amazon.de/dp/B08HHZ8C7
 
 - In jeder Runde bewegt sich das Team der Spieler über eine der sieben Rennstrecken
 - Spieldauer: 30-60 Minuten
+- Kennerspiel ab 10 Jahren
 - Würfelrennspiel
 - Ein Mix aus Strategie und Würfelglück bringt den Sieg
 - 2-4 Spieler
-- Kennerspiel ab 10 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08HHZ8C72/?tag=tolees0ca-21)

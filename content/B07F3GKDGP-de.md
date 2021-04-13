@@ -29,9 +29,9 @@ Sie können [Ravensburger EXIT Puzzle Sternwarte  Puzzle Für Erwachsene Und Kin
 ℹ️:
 
 - Beim Ravensburger EXIT Puzzle "In der Sternwarte" mit 759 Teilen steht die Welt vor einer sehr großen Bedrohung Gelingt es dir diese Tragödie abzuwenden?
-- Innovatives Puzzle-Konzept für Puzzler und Gamer. Schwierigkeitslevel 2/5
-- Ravensburger Puzzle meets Exit Room: Puzzeln - Rätseln - Lösen
 - Spannendes Motiv auf dem es viel zu entdecken gibt umflochten von einer mysteriösen Geschichte
 - Detailreiches Puzzle-Motiv mit 759 Teilen in Ravensburger Qualität, mit Anleitung und Lösungsumschlag
+- Ravensburger Puzzle meets Exit Room: Puzzeln - Rätseln - Lösen
+- Innovatives Puzzle-Konzept für Puzzler und Gamer. Schwierigkeitslevel 2/5
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07F3GKDGP/?tag=tolees0ca-21)
