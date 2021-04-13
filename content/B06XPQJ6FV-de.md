@@ -28,11 +28,11 @@ Es gibt ein [HABA 302500 Terra Kids Frisbee-Set](https://www.amazon.de/dp/B06XPQ
 
 ℹ️:
 
+- Gut zu greifen für kleine Kinderhände
+- Optimale Flugeigenschaften
 - Optimale Flugeigenschaften
 - Terra Kids Frisbee-Set
-- Gut zu greifen für kleine Kinderhände
-- Gut zu greifen für kleine Kinderhände
 - Terra Kids Frisbee-Set
-- Optimale Flugeigenschaften
+- Gut zu greifen für kleine Kinderhände
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XPQJ6FV/?tag=tolees0ca-21)
