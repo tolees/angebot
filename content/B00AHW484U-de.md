@@ -30,8 +30,8 @@ Es gibt ein [ELBA rado plast Doppelordner A4  2 x A5 quer  7 5 cm breit  weiß  
 
 - Austauschbare Etiketten dank Etikettentasche am Rücken, Ersatz-Etiketten erhältlich, individuelle Gestaltung dank elbaprint.com
 - Rückenbreite 75mm - zur Ablage von ca. 2x 500 Blatt (80 g/m²) im A5 Format quer
-- Format: DIN A4 (2 x A5 quer), Farbe weiß - für eine geheftete Ablage von z.B. Kontoauszügen
 - Mit Premium-Mechanik, rado-Ösen, Tippklemmer, Kantenschutz & Greifloch
+- Format: DIN A4 (2 x A5 quer), Farbe weiß - für eine geheftete Ablage von z.B. Kontoauszügen
 - Vollfarbig mit strapazierfähigem PVC überzogen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00AHW484U/?tag=tolees0ca-21)
