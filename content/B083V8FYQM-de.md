@@ -28,12 +28,12 @@ Es gibt ein [AmazonCommercial – Kompaktes Digitalmultimeter  6.000 Counts  I
 
 ℹ️:
 
-- Lieferumfang: Messkabel, 9-V-Batterie, Transporttasche, wasserfester Stecker für Buchse, Benutzerhandbuch
 - Handliches Digitalmultimeter zur Spannungs- und Frequenzmessung
-- Hintergrundbeleuchtetes LCD-Display mit Speicherfunktion für Messwerte
-- Mit 6.000 Counts
 - Die Bedienungsanleitung ist in 6 Sprachen verfügbar: Englisch, Französisch, Deutsch, Italienisch, Spanisch, Niederländisch
+- Hintergrundbeleuchtetes LCD-Display mit Speicherfunktion für Messwerte
 - Kompakte Größe, kann problemlos in einer Tasche oder am Werkzeuggürtel verstaut werden
+- Lieferumfang: Messkabel, 9-V-Batterie, Transporttasche, wasserfester Stecker für Buchse, Benutzerhandbuch
 - Mit True RMS, CAT IV 600 V, Tiefpassfilter-Funktion (VFD), max./min. Wert, relativer Wert und Datenspeicherfunktion
+- Mit 6.000 Counts
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B083V8FYQM/?tag=tolees0ca-21)

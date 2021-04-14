@@ -28,9 +28,9 @@ Sie können [Ledlenser - LED Lenser 7311 Taschenlampe  Aluminium  silber  11 x 6
 
 ℹ️:
 
+- Reflektordurchmesser: 31, 8 mm - Batterie: 4x AAA 1, 5 V - Energietank: 7, 2 Wh - Leuchtdauer: 8 h - Leuchtweite: 140 m
 - Elegante Ladeanzeige - die Lampe leuchtet während des Ladevorgangs blau
 - Klein, leicht und edel
-- Reflektordurchmesser: 31, 8 mm - Batterie: 4x AAA 1, 5 V - Energietank: 7, 2 Wh - Leuchtdauer: 8 h - Leuchtweite: 140 m
 - Ökonomisch und ökologisch - wiederaufladbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01EVP9SKW/?tag=tolees0ca-21)
