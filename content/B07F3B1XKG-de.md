@@ -28,10 +28,10 @@ Sie können [Ravensburger 19952 Hexenküche 759 Teile Exit Puzzle](https://www.a
 
 ℹ️:
 
-- Beim Ravensburger EXIT Puzzle "In der Hexenküche" mit 759 Teilen muss ein Gegengift gefunden werden Bist du in der Lage diese Mission anzutreten?
 - Ravensburger Puzzle meets Exit Room: Puzzeln - Rätseln - Lösen
-- Spannendes Motiv auf dem es viel zu entdecken gibt umflochten von einer mysteriösen Geschichte
-- Detailreiches Puzzle-Motiv mit 759 Teilen in Ravensburger Qualität, mit Anleitung und Lösungsumschlag
 - Innovatives Puzzle-Konzept für Puzzler und Gamer. Schwierigkeitslevel 2/5
+- Detailreiches Puzzle-Motiv mit 759 Teilen in Ravensburger Qualität, mit Anleitung und Lösungsumschlag
+- Beim Ravensburger EXIT Puzzle "In der Hexenküche" mit 759 Teilen muss ein Gegengift gefunden werden Bist du in der Lage diese Mission anzutreten?
+- Spannendes Motiv auf dem es viel zu entdecken gibt umflochten von einer mysteriösen Geschichte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07F3B1XKG/?tag=tolees0ca-21)

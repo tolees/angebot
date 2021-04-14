@@ -28,10 +28,10 @@ Es gibt ein [Ravensburger Kinderpuzzle 09093 - Die kleine Biene Maja - 2 x 24 Te
 
 ℹ️:
 
-- Puzzlespaß im Doppelpack inkl. Mini-Postern als Motivvorlagen
+- Format: circa 26 x 18cm
 - Alter: ab 4 Jahren
 - Sicheres Spielen garantiert durch ausschließliche Verwendung geprüfter Materialien
 - Inhalt: 2 Puzzles mit je 24 Teilen, 2 Motivvorlagen
-- Format: circa 26 x 18cm
+- Puzzlespaß im Doppelpack inkl. Mini-Postern als Motivvorlagen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00CCO8F0Y/?tag=tolees0ca-21)
