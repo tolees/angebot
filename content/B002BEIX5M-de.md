@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walimex Ringleuchte 65 Watt  Innendurchm mit 53.37 % Rabatt'
-date: 2021-04-13 00:19:34
+date: 2021-04-14 01:02:24
 image: 'https://m.media-amazon.com/images/I/41q-18OEoRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Sie können [Walimex Ringleuchte 65 Watt  Innendurchmesser ca. 37 cm  Farbtemper
 ℹ️:
 
 - Geringe Erwärmung, Ideal für Portrait-, Makro- und Produktfotografie
-- Mit flexiblem Hals passt auf jedes handelsübliche Lampenstativ
 - Lieferumfang: Walimex Ringleuchte inklusive Leuchtmittel, Netzkabel und Schwanenhals
 - Dreh- und neigbarer Sockel
+- Mit flexiblem Hals passt auf jedes handelsübliche Lampenstativ
 - Robustes Kunststoffgehäuse vielfältige Einsatzmöglichkeiten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B002BEIX5M/?tag=tolees0ca-21)

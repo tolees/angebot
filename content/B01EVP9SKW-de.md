@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ledlenser - LED Lenser 7311 Taschenlampe mit 32.44 % Rabatt'
-date: 2021-04-13 00:20:17
+date: 2021-04-14 01:02:24
 image: 'https://m.media-amazon.com/images/I/31sLhB6T2-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Sie können [Ledlenser - LED Lenser 7311 Taschenlampe  Aluminium  silber  11 x 6
 
 ℹ️:
 
-- Ökonomisch und ökologisch - wiederaufladbar
 - Reflektordurchmesser: 31, 8 mm - Batterie: 4x AAA 1, 5 V - Energietank: 7, 2 Wh - Leuchtdauer: 8 h - Leuchtweite: 140 m
+- Ökonomisch und ökologisch - wiederaufladbar
 - Elegante Ladeanzeige - die Lampe leuchtet während des Ladevorgangs blau
 - Klein, leicht und edel
 
