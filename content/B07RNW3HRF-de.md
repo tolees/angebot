@@ -30,8 +30,8 @@ Sie können [Hot Wheels GFY47 - Mario Kart Piranhapflanzen Rutsche Trackset inkl
 
 - Eine tolle Geschenkidee für Jüngere Mario Kart-Fans
 - Das Set bietet stundenlangen Spielspaß beim Wettkampf um die schnellste runde
+- Das Piranhapflanzen-Rutsche-Spielset kommt mit einem Luigi die-Cast-Kart, das Thwomp-Ruinen-set mit einem Mario die-Cast-Kart
 - Kinder ab 3 Jahren können mit Ihren Freunden wie im Videospiel um die Wette fahren und spannende Abenteuer mit Ihren Lieblingscharakteren erleben
 - Kinder werden von diesen zwei Hot Wheels Mario Kart Tracksets begeistert sein
-- Das Piranhapflanzen-Rutsche-Spielset kommt mit einem Luigi die-Cast-Kart, das Thwomp-Ruinen-set mit einem Mario die-Cast-Kart
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RNW3HRF/?tag=tolees0ca-21)
