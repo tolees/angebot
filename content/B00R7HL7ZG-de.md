@@ -29,9 +29,9 @@ Sie können [Melitta AromaElegance Therm 1012-04  Filterkaffeemaschine mit Therm
 ℹ️:
 
 - Unkomplizierte Reinigung: Spülmaschinengeeigneter Schwenkfilter, 3-in-1 Kalkschutz mit programmierbarem Wasserhärtegrad, Anzeige des Verkalkungsgrads und automatischem Entkalkungsprogramm
-- Individueller Kaffeegenuss: Aroma Control für volles Aroma auf Knopfdruck auch bei kleineren Kaffeemengen
-- Hoher Komfort: Beleuchteter Ein- und Aussschalter, Herausnehmbarer, freistehender Schwenkfilter mit Tropfstopp, Unzerbrechliche Edelstahl-Thermkanne mit Durchbrühdeckel, Abnehmbarer Wassertank mit Skalierung, Automatische Endabschaltung
-- Modernes und elegantes Design: Filterkaffeemaschine mit hochwertigen Edelstahl-Applikationen für ca. 10 Tassen, Passend für Melitta Filtertüten Größe 1x4
 - Lieferumfang: 1 Melitta AromaElegance Therm 1012-04, Filterkaffeemaschine mit Thermkanne, Schwarz/Edelstahl, 1000 Watt
+- Individueller Kaffeegenuss: Aroma Control für volles Aroma auf Knopfdruck auch bei kleineren Kaffeemengen
+- Modernes und elegantes Design: Filterkaffeemaschine mit hochwertigen Edelstahl-Applikationen für ca. 10 Tassen, Passend für Melitta Filtertüten Größe 1x4
+- Hoher Komfort: Beleuchteter Ein- und Aussschalter, Herausnehmbarer, freistehender Schwenkfilter mit Tropfstopp, Unzerbrechliche Edelstahl-Thermkanne mit Durchbrühdeckel, Abnehmbarer Wassertank mit Skalierung, Automatische Endabschaltung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00R7HL7ZG/?tag=tolees0ca-21)

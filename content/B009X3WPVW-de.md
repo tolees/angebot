@@ -29,9 +29,9 @@ Sie können [Lexmark 52D2000 Standard Capacity Toner Cartridge](https://www.amaz
 ℹ️:
 
 - Kompatible Drucker: MS810DN
-- Toner
-- schwarz
-- Anzahl bedruckbarer Seiten: 6000
 - Lexmark
+- schwarz
+- Toner
+- Anzahl bedruckbarer Seiten: 6000
 
 [🛒 Hier!!](https://www.amazon.de/dp/B009X3WPVW/?tag=tolees0ca-21)
