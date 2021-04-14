@@ -30,8 +30,8 @@ Sie können [SONAX XTREME AutoInnenReiniger  500 ml  speziell für hygienische S
 
 - SONAX XTREME AutoInnenReiniger wurde speziell für die hygienische Sauberkeit im Auto und Haushalt entwickelt. Die kraftvolle Formel sorgt für Tiefenhygiene und neutralisiert unangenehme Gerüche
 - Lieferumfang: 1x SONAX 02212410 XTREME AutoInnenReiniger (500 ml)
-- Selbst hartnäckige Verschmutzungen von Innenverkleidungen, Polstersitzen, Fahrzeughimmel usw. werden sanft aber dennoch effektiv entfernt
 - SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt
 - Gleichzeitig beseitigt der enthaltene Geruchsvernichter schnell und langanhaltend Zigarettenrauch, Tier- und andere störende Gerüche. Für saubere Frische im Auto und im Haushalt
+- Selbst hartnäckige Verschmutzungen von Innenverkleidungen, Polstersitzen, Fahrzeughimmel usw. werden sanft aber dennoch effektiv entfernt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003AW3C7I/?tag=tolees0ca-21)
