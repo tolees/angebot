@@ -28,8 +28,8 @@ Es gibt ein [tavolaswiss - Tavola Swiss 5049031 Kapselspender Box für 60 Nespre
 
 ℹ️:
 
-- Für 60 Kapseln
 - Material: Kunststoff
+- Für 60 Kapseln
 - Zur Direktbefüllung mit Kapselstangen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HF42CUA/?tag=tolees0ca-21)

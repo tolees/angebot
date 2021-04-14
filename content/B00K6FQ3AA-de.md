@@ -28,10 +28,10 @@ Sie können [WENKO LED Standspiegel Aura - Kosmetikspiegel  mit hochwertigem Acr
 
 ℹ️:
 
-- 5-fach Vergrößerung für den kosmetischen Einsatz
 - Maße (B x H x T): 20 x 32 x 14 cm, Spiegelfläche (B/H): Ø 16,5 cm
 - Standspiegel mit sehr guter Leuchtkraft durch LEDs
-- Mit hochwertigem Acryl-Rahmen
 - LED-Technik mit hoher Lebensdauer, batteriebetrieben
+- Mit hochwertigem Acryl-Rahmen
+- 5-fach Vergrößerung für den kosmetischen Einsatz
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00K6FQ3AA/?tag=tolees0ca-21)
