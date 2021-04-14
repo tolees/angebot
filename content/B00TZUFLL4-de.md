@@ -28,10 +28,10 @@ Es gibt ein [Nostalgic-Art Retro Blechschild  Volkswagen Bulli T1 – Original R
 
 ℹ️:
 
-- Umgeschlagene Kanten und vorgebohrte Löcher
-- Aus extra starkem Stahlblech
-- Made in Germany
 - Format: 20x30cm
+- Made in Germany
+- Aus extra starkem Stahlblech
+- Umgeschlagene Kanten und vorgebohrte Löcher
 - Motivgeprägt auf mehreren Ebenen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00TZUFLL4/?tag=tolees0ca-21)

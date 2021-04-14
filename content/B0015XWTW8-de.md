@@ -28,10 +28,10 @@ Es gibt ein [Melissa & Doug Basic Skills Board | Developmental Toy | Motor Skill
 
 ℹ️:
 
-- Aktivitätenbrett zum Erlernen von Fertigkeiten
-- Mit Schnallen, Knopf, Schuhbänder, Druckknöpfe und Reißverschluss
 - Sechs Teile und ein Puzzlebrett
-- Ideal zum Üben feinmotorischer Fähigkeiten
+- Aktivitätenbrett zum Erlernen von Fertigkeiten
 - Fördert die Fertigkeit, sich allein anzuziehen
+- Mit Schnallen, Knopf, Schuhbänder, Druckknöpfe und Reißverschluss
+- Ideal zum Üben feinmotorischer Fähigkeiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0015XWTW8/?tag=tolees0ca-21)
