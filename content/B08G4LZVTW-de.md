@@ -1,39 +1,39 @@
 ---
 layout: post
-title: '20.00 % rabat auf LEGO 42122 Technic Jeep Wrangler 4x4 Spi'
-date: 2021-04-08 09:08:15
-image: 'https://m.media-amazon.com/images/I/51xSyRK6JtL._SL400_.jpg'
+title: '25.01 % rabat auf LEGO 42122 Technic Jeep Wrangler 4x4 Spi'
+date: 2021-04-14 07:51:31
+image: 'https://m.media-amazon.com/images/I/51xSyRK6JtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08G4LZVTW-de LEGO 42122 Technic Jeep Wrangler 4x4 Spielzeugauto...'
 sku: 'B08G4LZVTW-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 39.99 EUR
+actualPrice: 37.49 EUR
 currency: EUR
-price: 39.99
+price: 37.49
 comparePrice: 49.99 EUR
 prodname: 'LEGO 42122 Technic Jeep Wrangler 4x4 Spielzeugauto  Geländewagen  SUV Modell Bauset'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4LZVTW/?tag=tolees0ca-21'
-descuento: '20.00'
-average: '39.5412295081967'
+descuento: '25.01'
+average: '39.5245528455284'
 ---
 
-Es gibt ein [LEGO 42122 Technic Jeep Wrangler 4x4 Spielzeugauto  Geländewagen  SUV Modell Bauset](https://www.amazon.de/dp/B08G4LZVTW/?tag=tolees0ca-21) mit aktuellem Preis 39.99 EUR (original: 49.99 EUR) 20.00 % Rabatt hier:
+Es gibt ein [LEGO 42122 Technic Jeep Wrangler 4x4 Spielzeugauto  Geländewagen  SUV Modell Bauset](https://www.amazon.de/dp/B08G4LZVTW/?tag=tolees0ca-21) mit aktuellem Preis 37.49 EUR (original: 49.99 EUR) 25.01 % Rabatt hier:
 
-[![LEGO 42122 Technic Jeep Wrangler 4x4 Spi](https://m.media-amazon.com/images/I/51xSyRK6JtL._SL400_.jpg)](https://www.amazon.de/dp/B08G4LZVTW/?tag=tolees0ca-21)
+[![LEGO 42122 Technic Jeep Wrangler 4x4 Spi](https://m.media-amazon.com/images/I/51xSyRK6JtL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4LZVTW/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Dieses fantastische Modell enthält jede Menge authentische Details des Jeep Wrangler, etwa die klassischen runden Frontscheinwerfer, den 7-Slot-Kühlergrill, das vollwertige Ersatzrad und die umlegbaren Rücksitze
 - Kinder werden die auffällige schwarz-gelbe Lackierung des prestigeträchtigen Jeep Wrangler Rubicon lieben
-- Der LEGO Technic Jeep Wrangler (42122) ist das ideale Geschenk für Kinder, die coole Fahrzeuge lieben und gerne einen eigenen Geländewagen bauen würden, denn das Modell strotzt nur vor authentischen Details.
 - Die Frontlenkung, die leistungsstarke Radaufhängung, die eine enorme Achsverschränkung zulässt, und die Seilwinde lassen Kinder jede Menge Offroad-Abenteuer mit dem weltberühmten Jeep Wrangler erleben
-- Diese Version des Jeep Wrangler Rubicon ist ein tolles Geschenk für junge LEGO Fans, der gerne Spielzeugautos sammeln und sich schon auf die nächste Bauherausforderung freuen
-- Der Jeep Wrangler Rubicon ist 12 cm hoch, 24 cm lang und 13 cm breit. Die ideale Größe, um als Spielzeugauto oder Dekoelement zu begeistern
 - Türen und Motorhaube lassen sich öffnen, damit das detailreiche Interieur des Geländewagens gut zugänglich ist
+- Diese Version des Jeep Wrangler Rubicon ist ein tolles Geschenk für junge LEGO Fans, der gerne Spielzeugautos sammeln und sich schon auf die nächste Bauherausforderung freuen
+- Der LEGO Technic Jeep Wrangler (42122) ist das ideale Geschenk für Kinder, die coole Fahrzeuge lieben und gerne einen eigenen Geländewagen bauen würden, denn das Modell strotzt nur vor authentischen Details.
+- Dieses fantastische Modell enthält jede Menge authentische Details des Jeep Wrangler, etwa die klassischen runden Frontscheinwerfer, den 7-Slot-Kühlergrill, das vollwertige Ersatzrad und die umlegbaren Rücksitze
+- Der Jeep Wrangler Rubicon ist 12 cm hoch, 24 cm lang und 13 cm breit. Die ideale Größe, um als Spielzeugauto oder Dekoelement zu begeistern
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4LZVTW/?tag=tolees0ca-21)

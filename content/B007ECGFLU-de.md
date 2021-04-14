@@ -28,9 +28,9 @@ Sie können [Sony DVP-SR760H DVD-Player/CD Player  HDMI  1080p Upscaling  USB-Ei
 
 ℹ️:
 
+- Lieferumfang: Sony DVP-SR760H DVD-Player/CD Player schwarz
 - Wiedergabe von verschiedensten Formaten. Geben Sie verschiedenste Quellen wieder, darunter: CD-R/RW, DVD+RW/+R/+R DL, DVD-RW/-R/-R DL, JPEG, mp3, MPEG-4 WMA, AAC, Linear PCM und Xvid
 - Player und Fernseher mit nur einer Fernbedienung steuern. Die Wiedergabe und die Einstellungen an Ihrem System, darunter Ein- und Ausschalten, Kanal und Lautstärke, können über die Fernbedienung des Fernsehers gesteuert werden
-- Lieferumfang: Sony DVP-SR760H DVD-Player/CD Player schwarz
 - Geben Sie CDs in raumfüllender Audioqualität wieder, und speichern Sie diese auf USB, damit Sie sie auch unterwegs genießen können, Betriebsspannung: 220 - 240 V.
 - Freuen Sie sich auf klarere und brillantere Bild- und Klangqualität. Dank HDMI Ausgang werden Bild- und Klangqualität von DVDs optimiert und erreichen somit nahezu HD-Qualität
 
