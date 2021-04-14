@@ -28,10 +28,10 @@ Es gibt ein [distybox 300 Telefonadapter universal Adapter für analoge schnurge
 
 ℹ️:
 
+- Dank der vielseitigen Funktionsweise der DECT-Telefonsteckdose ist der Anschluss von vielen Anlagen mit RJ 11 Steckern wie Türfreisprechanlagen möglich
 - Die 12 x 10 x 3,8 cm kleine distybox 300 wird mit Steckernetzteil geliefert & kann durch 2 Haken auf der Rückseite einfach und stabil montiert werden
 - Die Telefonsteckdose kann mit Basisstationen innerhalb deren üblichen Reichweite, in geschlossenen Räumen 50 m, im Freien bis zu 300 m, kommunizieren
 - Mit der einfach zu montierenden distybox 300 kann der Standort für Geräte im Haushalt oder Büro unabhängig von Kabelverbindungen ausgewählt werden
 - Die distybox 300 ist ein universell einsetzbarer, schnurloser Adapter (DECT Standard) für den Betrieb analoger Endgeräte an GAP-fähigen DECT Systemen
-- Dank der vielseitigen Funktionsweise der DECT-Telefonsteckdose ist der Anschluss von vielen Anlagen mit RJ 11 Steckern wie Türfreisprechanlagen möglich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0034ARYUM/?tag=tolees0ca-21)
