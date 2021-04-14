@@ -28,10 +28,10 @@ Sie können [Melitta 1025-18 Look V Timer Filter-Kaffeemaschine mit Thermo-Kanne
 
 ℹ️:
 
+- Durch den AromaSelector stellen Sie ganz einfach ihre individuelle Kaffeestärke ein
+- Dank Warmhaltefunktion (20, 40 oder 60 Minuten) und Isolierkanne bleibt der Filterkaffee lange heiß
 - Passend für 1x4 Melitta Filtertüten, 10 Tassen (1, 25l) Fassungsvermögen, Automatische Endabschaltung
 - Lieferumfang: Look V Therm Timer 1025-18 Filterkaffeemaschine mit Thermkanne, schwarz
 - Kaffeemaschine mit Timer, abnehmbarem Wassertank und bruchsicherer edelstahl Thermkanne sowie integriertem Entkalkungsprogramm zur einfachen Reinigung
-- Durch den AromaSelector stellen Sie ganz einfach ihre individuelle Kaffeestärke ein
-- Dank Warmhaltefunktion (20, 40 oder 60 Minuten) und Isolierkanne bleibt der Filterkaffee lange heiß
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084ZJVY5K/?tag=tolees0ca-21)
