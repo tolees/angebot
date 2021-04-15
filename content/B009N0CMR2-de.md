@@ -28,9 +28,9 @@ Es gibt ein [Fackelmann 6-teiliges Set Dessertringe  professionell  Stahl  Silbe
 
 ℹ️:
 
-- Gewicht: 230 g.
-- Abmessungen: 5 cm x 23 cm x 15,5 cm.
-- -
 - Farbe: Silber.
+- Gewicht: 230 g.
+- -
+- Abmessungen: 5 cm x 23 cm x 15,5 cm.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009N0CMR2/?tag=tolees0ca-21)

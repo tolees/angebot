@@ -28,10 +28,10 @@ Sie können [Invicta Pro Diver 8932 uhr  375 mm](https://www.amazon.de/dp/B0006A
 
 ℹ️:
 
-- Dieses Modell ist von der Invicta Pro Diver Kollektion
 - 20 bar Wasserdichtigkeitszertifizierung
 - 2 Jahre Garantie
 - Das Invicta 8932 hat ein 375 mm Edelstahl gehäuse mit einem schwarzen Zifferblatt
 - Dieses Modell wird von einem präzisen Quarzuhrwerk angetrieben
+- Dieses Modell ist von der Invicta Pro Diver Kollektion
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0006AAS7E/?tag=tolees0ca-21)

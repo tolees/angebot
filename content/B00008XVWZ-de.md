@@ -28,10 +28,10 @@ Es gibt ein [WMF Gourmet Mokkakännchen 680 ml  Mokkakanne für 12 Tassen geeign
 
 ℹ️:
 
-- Material: Cromargan Edelstahl 18/10 poliert - rostfrei, spülmaschinengeeignet, pflegeleicht, geschmacksneutral und säurefest
 - Inhalt: 1x Mokkakanne für 12 Tassen (Volumen 680 ml, Höhe 11 cm, Ø 9,5 cm) - Artikelnummer: 0647126040
-- Der Schüttrand ermöglicht das tropffreie Gießen und selbstverständlich kann das Kännchen in der Spülmaschine gereinigt werden.
 - Ideal für das Zubereiten eines kräftigen Mokkas. Durch den langen Griff bleiben Sie mit den Händen immer aus der Gefahrenzone.
+- Der Schüttrand ermöglicht das tropffreie Gießen und selbstverständlich kann das Kännchen in der Spülmaschine gereinigt werden.
+- Material: Cromargan Edelstahl 18/10 poliert - rostfrei, spülmaschinengeeignet, pflegeleicht, geschmacksneutral und säurefest
 - Geeignet für Glaskeramik-, Gas- und Elektro-Herde - nicht induktionsgeeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00008XVWZ/?tag=tolees0ca-21)

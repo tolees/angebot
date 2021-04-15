@@ -28,10 +28,10 @@ Es gibt ein [HABA 300439 - Kugelbahn Kullerbü - Kringelbahn  Holzkugelbahn mit 
 
 ℹ️:
 
-- Domino- und Treppensteine lassen sich zu einem bunten Tor verbauen und sorgen für zusätzliches Spielvergnügen
 - Diese bunte Kringelbahn sorgt mit vielen Kurven für schwungvollen Kullerspaß
-- Die wilde Fahrt beginnt für Kugel Paul mit einer blitzschnellen Steilkurve und endet mit einem Klingeln im Glöckchen-Tor
 - Dank cleverem Klicksystem ist die Bahn schnell aufgebaut und steht stabil, ohne zu verrutschen
+- Domino- und Treppensteine lassen sich zu einem bunten Tor verbauen und sorgen für zusätzliches Spielvergnügen
+- Die wilde Fahrt beginnt für Kugel Paul mit einer blitzschnellen Steilkurve und endet mit einem Klingeln im Glöckchen-Tor
 - Alle Kullerbü-Bahnen sind miteinander verbaubar und können so ganz einfach erweitert werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00U4T5H0U/?tag=tolees0ca-21)
