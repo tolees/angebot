@@ -30,8 +30,8 @@ Es gibt ein [Gigaset E560  Schnurloses Seniorentelefon  Notruftaste für 4 SOS-N
 
 - LIEFERUMFANG: 1x Basisstation Gigaset E560, 1x Mobilteil Gigaset E560, 1x Steckernetzteil, 1x Telefonanschlusskabel, 2x AAA-Akku (NiMH), 1x Bedienungsanleitung
 - GROßER ANSPRUCH, EINFACHE BEDIENUNG: “Extra-Laut”-Taste zur Verdoppelung der Hörerlautstärke, exzellente Akustik im Freisprechmodus, Benutzerfreundlich dank extragroßen Tasten
-- EINFACHE INSTALLATION: einfach die Basisstation mit der Wandtelefondose verbinden und direkt los telefonieren, profitieren Sie von einer schnellen und leichten Einrichtung Ihres neuen Telefons
 - QUALITÄT MADE IN GERMANY: Design und Herstellung in Deutschland, die umweltfreundliche ECO DECT Technologie sorgt für einen reduzierten Energieverbrauch
 - FÜR MEHR SICHERHEIT: vier Direktwahltasten für besonders wichtige Rufnummern, Taste A dient als spezielle Notruftaste, speichern Sie auf dieser Taste bis zu vier SOS-Nummern gleichzeitig
+- EINFACHE INSTALLATION: einfach die Basisstation mit der Wandtelefondose verbinden und direkt los telefonieren, profitieren Sie von einer schnellen und leichten Einrichtung Ihres neuen Telefons
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01GGKMA00/?tag=tolees0ca-21)

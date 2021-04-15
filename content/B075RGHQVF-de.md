@@ -29,7 +29,7 @@ Sie können [AMERICAN CREW FIBER CREAM Stylingcreme 1er Pack  1 x 100 ml ](https
 ℹ️:
 
 - Einheitenanzahltyp: milliliter
-- Anzahl der einheiten: 100.0
 - high quality cosmetics product
+- Anzahl der einheiten: 100.0
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075RGHQVF/?tag=tolees0ca-21)
