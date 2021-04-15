@@ -28,10 +28,10 @@ Sie können [Bosch Professional Exzenterschleifer GEX 125-150 AVE  400 Watt  Sch
 
 ℹ️:
 
-- Gehäuse mit entkoppelter Schleifeinheit für konstanten Druck und Ergebnisse mit hoher Oberflächengüte
-- Lieferumfang: GEX 125-150 AVE, Schleifteller-Ø: 125/150 mm, L-BOXX
-- Exzenterschleifer mit erstklassigen Ergebnissen für die Oberflächengüte sowohl in der 125-mm- als auch 150-mm-Kategorie
 - Einzigartige Vibrationsdämpfung sorgt für sehr geringe Vibrationen und ermöglicht kontinuierliches Arbeiten
+- Exzenterschleifer mit erstklassigen Ergebnissen für die Oberflächengüte sowohl in der 125-mm- als auch 150-mm-Kategorie
+- Lieferumfang: GEX 125-150 AVE, Schleifteller-Ø: 125/150 mm, L-BOXX
+- Gehäuse mit entkoppelter Schleifeinheit für konstanten Druck und Ergebnisse mit hoher Oberflächengüte
 - Flexible Wahl zwischen Schleifplatten mit 150 mm oder 125 mm Durchmesser
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0050KAZ1O/?tag=tolees0ca-21)

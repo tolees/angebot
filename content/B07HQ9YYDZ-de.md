@@ -28,8 +28,8 @@ Sie können [Aioneus - USB Typ C Kabel  USB C Ladekabel [2 Stück 2M+2M] 3A Schn
 
 ℹ️:
 
-- 【Perfekt 2M Typ C Ladekabel】: Mit der Länge 2m USB C Kabel, können Sie auf der Couch oder dem Sofa liegen und Ihre Geräte verwenden, während Sie gleichzeitig laden. Und Sie können in Ihrem Schlafzimmer, im Büro und sogar auf dem Rücksitz Ihres Autos frei verwenden.
 - 【Sicheres und schnelles Ladekabel】: USB C Kabel unterstützen sicheres Hochladen mit 2,4 A (bitte stellen Sie sicher, dass Ihr Telefon und Adapter schnell aufgeladen werden) und schnelle Datenübertragung (480 Mbps).
+- 【Perfekt 2M Typ C Ladekabel】: Mit der Länge 2m USB C Kabel, können Sie auf der Couch oder dem Sofa liegen und Ihre Geräte verwenden, während Sie gleichzeitig laden. Und Sie können in Ihrem Schlafzimmer, im Büro und sogar auf dem Rücksitz Ihres Autos frei verwenden.
 - 【Garantie und Service】: Yosou 2 Stück 2M / 6FT USB C Kabel, garantierte 18-monatige Garantie und unser 24 Stunden freundlicher und einfach zu erreichender Kundendienst.
 - 【Perfekte Kompatibilität】: Das USB C kabel Kompatibel mit Samsung Galaxy S20FE/S10/ S10Plus/S9/S9+/S8/S8+/Note 9/Note8/A8s/A8 2018/A7 2017/A5 2017/A3 2017/A40/A41/A50/A51/A70/A71/A20E,Huawei ProP20 /P10/P9/P30Pro/ P30/Mate 20 Pro /Mate 20 RS/ Mate 20 XS /Honor 8 /10 /V10,Sony Xperia XZ/ Xa1 /Z5,Hero7/6/5,Nintendo Switch,Mi 5 /5X/ 5S /5S plus /Note2/ Max 2 /6,Google Nexus 5X / Nexus 6P / Pixel XL,LG G5 /G6 /V20 /V30,HTC 10/U11,OnePlus 2/3/ 3T und so weiter.
 - 【Ultra Haltbarkeit Typ C Ladekabel 】: Bis zu 10000+ Biegetest, dieses Typ C Kabel ist weitaus zuverlässiger als andere USB Ladekabel in seiner Preisklasse. Premium Nylon geflochtene USB Type C Ladekabel fügt zusätzliche Haltbarkeit und Tangle frei. Ladekabel USB C doppelseitige Design Konnektor können Sie Stecker und ziehen in jede Richtung um Zeit zu sparen
