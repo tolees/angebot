@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.17 % rabat auf LEGO 31114 Creator 3-in-1 Geländemotorra'
-date: 2021-04-14 16:35:33
+date: 2021-04-15 20:22:35
 image: 'https://m.media-amazon.com/images/I/51N36-wKiQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4RQ58V/?tag=tolees0ca-21'
 descuento: '33.17'
-average: '13.9520000000001'
+average: '13.9150000000001'
 ---
 
 Es gibt ein [LEGO 31114 Creator 3-in-1 Geländemotorrad  Superbike oder Hoverbike  Spielfahrzeug für Kinder](https://www.amazon.de/dp/B08G4RQ58V/?tag=tolees0ca-21) mit aktuellem Preis 13.36 EUR (original: 19.99 EUR) 33.17 % Rabatt hier:
