@@ -28,10 +28,10 @@ Es gibt ein [Portal Phoenix 55L Rucksack Tourenrucksack Trekkingrucksack Wanderr
 
 ℹ️:
 
-- Strapazierfähiges Material für perfekten Schutz auch bei extremer Beanspruchung
-- Rückenbelüftung und verstellbare Schulter- und Hüftgurte sorgen für ein angenehmes Tragegefühl und bestmögliche Gewichtsverteilung
-- leichtgewichtig und inkl. Regenschutz
-- Trekking Rucksack mit verstellbarem Rückensystem, passt sich der Körpergröße an
 - Trinksystem Vorrichtung
+- Trekking Rucksack mit verstellbarem Rückensystem, passt sich der Körpergröße an
+- Strapazierfähiges Material für perfekten Schutz auch bei extremer Beanspruchung
+- leichtgewichtig und inkl. Regenschutz
+- Rückenbelüftung und verstellbare Schulter- und Hüftgurte sorgen für ein angenehmes Tragegefühl und bestmögliche Gewichtsverteilung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XC1FS74/?tag=tolees0ca-21)

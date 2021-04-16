@@ -30,8 +30,8 @@ Sie können [BIC Kugelschreiber 4 Colours  5er Stifte Set in Metallbox mit 3 Col
 
 - Die Stifte werden in europäischen BIC-Fabriken mit einzigartigem Know-how gefertigt, was Ihnen eine unvergleichlich hohe Qualität garantiert
 - Dank ihrer mittlerer Schreibstärke eignen sie sich für sauberes, flüssiges Schreiben und Strukturieren Ihrer Notizen oder Kugelschreiber-Zeichnungen mit Farb-Codes
-- Das Design dieser Kugelschreiber ist ikonisch schlicht, eben typisch BIC: runder, zweifarbiger Schaft und Clip zum Anklemmen an Taschen und Hefte
-- Enthält 3 BIC 4 Colours Shine Stifte mit klassischen Schreibfarben (Blau, Schwarz, Rot und Grün) und 2 BIC 4 Colours Fun Kulis in Pastellfarben
 - Die BIC My 4 Colours Box ist ein Set von 5 BIC 4-Farb-Kugelschreibern in einer hübschen Blechdose, das alle Fans dieser BIC-Ikone begeistern wird
+- Enthält 3 BIC 4 Colours Shine Stifte mit klassischen Schreibfarben (Blau, Schwarz, Rot und Grün) und 2 BIC 4 Colours Fun Kulis in Pastellfarben
+- Das Design dieser Kugelschreiber ist ikonisch schlicht, eben typisch BIC: runder, zweifarbiger Schaft und Clip zum Anklemmen an Taschen und Hefte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GS3WQMS/?tag=tolees0ca-21)
