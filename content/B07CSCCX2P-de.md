@@ -30,8 +30,8 @@ Es gibt ein [Dove Strahlendes Ritual Body Lotion  4er Pack  4 x 400 ml ](https:/
 
 - Anregend blumiger Duft, der deine Sinne verwöhnt
 - Reichhaltige Formel versorgt die Haut mit Feuchtigkeit
+- Body Lotion mit Reismilch- und Lotusblütenduft
 - Geeignet für jeden Hauttyp
 - Inspiriert von den Schönheitsritualen japanischer Frauen
-- Body Lotion mit Reismilch- und Lotusblütenduft
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07CSCCX2P/?tag=tolees0ca-21)
