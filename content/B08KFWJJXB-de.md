@@ -28,9 +28,9 @@ Es gibt ein [Codemasters - DIRT 5 - Day One Edition  Playstation 5 ](https://www
 
 ℹ️:
 
-- DIRT 5 - Der brandneue Teil der beliebten Rennspielserie wird mutiger und frecher als je zuvor
 - Die Day One Edition enthält zusätzlich zum Spiel "DIRT 5" den "Ford F-150 Raptor PreRunner DeBerti Design" DLC
 - Lass sie Staub fressen: Setz Dich im story-basierten Karrieremodus gegen harte Rivalen durch und verdiene Dir einzigartige Belohnungen
+- DIRT 5 - Der brandneue Teil der beliebten Rennspielserie wird mutiger und frecher als je zuvor
 - Ultimative Racingerfahrung: Beeindruckende Nachbildung realer Orte, berauschende Farben, elektrisierender Soundtrack & dynamische Wetterverhältnisse
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KFWJJXB/?tag=tolees0ca-21)
