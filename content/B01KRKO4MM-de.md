@@ -28,10 +28,10 @@ Es gibt ein [Rankie Verbindungskabel  Mini HDMI auf HDMI  4K Hochgeschwindigkeit
 
 ℹ️:
 
-- Unterstützt Ethernet, 3D und Audio Return
 - 1.8m Schwarz. Hinweis: Diese Mini-HDMI ist. Es gibt eine andere kleineren Typ: Micro-HDMI. Bitte überprüfen Sie Ihr Gerät, um sicherzustellen, Sie Mini-HDMI-Anschluss verwenden
-- Schnelle Geschwindigkeit Mini-HDMI auf HDMI Kabel, A bis C-Typ
-- Kompatibel mit HDTV-Geräte, Digitalkameras / Camcordern, MP3-Playern und anderen HDMI-Geräten Unterstützt Ethernet, 3D und Audio Return (keine Notwendigkeit für separate Kabel)
 - Erfüllt die neuesten HDMI-Standards (4K Video bei 60 Hz, 2160p, 48 Bit / Pixel Farbtiefe ), die eine Bandbreite von bis zu 18Mbps unterstützt und rückwärtskompatibel mit früheren Versionen
+- Kompatibel mit HDTV-Geräte, Digitalkameras / Camcordern, MP3-Playern und anderen HDMI-Geräten Unterstützt Ethernet, 3D und Audio Return (keine Notwendigkeit für separate Kabel)
+- Unterstützt Ethernet, 3D und Audio Return
+- Schnelle Geschwindigkeit Mini-HDMI auf HDMI Kabel, A bis C-Typ
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01KRKO4MM/?tag=tolees0ca-21)

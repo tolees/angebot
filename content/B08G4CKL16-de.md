@@ -1,39 +1,39 @@
 ---
 layout: post
-title: '20.01 % rabat auf LEGO 42121 Technic Hydraulikbagger Bause'
-date: 2021-04-07 03:43:48
-image: 'https://m.media-amazon.com/images/I/51+4WDykM+L._SL400_.jpg'
+title: '25.01 % rabat auf LEGO 42121 Technic Hydraulikbagger Bause'
+date: 2021-04-16 08:02:45
+image: 'https://m.media-amazon.com/images/I/51VDY4xD7qS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08G4CKL16-de LEGO 42121 Technic Hydraulikbagger Bauset 2-in-1 Modell...'
 sku: 'B08G4CKL16-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 31.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 31.99
+price: 29.99
 comparePrice: 39.99 EUR
 prodname: 'LEGO 42121 Technic Hydraulikbagger Bauset  2-in-1 Modell  Baufahrzeug  Bagger Spielzeug ab 8 Jahren  Konstruktionsspielzeug'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4CKL16/?tag=tolees0ca-21'
-descuento: '20.01'
-average: '36.4204651162791'
+descuento: '25.01'
+average: '36.2743181818182'
 ---
 
-Es gibt ein [LEGO 42121 Technic Hydraulikbagger Bauset  2-in-1 Modell  Baufahrzeug  Bagger Spielzeug ab 8 Jahren  Konstruktionsspielzeug](https://www.amazon.de/dp/B08G4CKL16/?tag=tolees0ca-21) mit aktuellem Preis 31.99 EUR (original: 39.99 EUR) 20.01 % Rabatt hier:
+Es gibt ein [LEGO 42121 Technic Hydraulikbagger Bauset  2-in-1 Modell  Baufahrzeug  Bagger Spielzeug ab 8 Jahren  Konstruktionsspielzeug](https://www.amazon.de/dp/B08G4CKL16/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
 
-[![LEGO 42121 Technic Hydraulikbagger Bause](https://m.media-amazon.com/images/I/51+4WDykM+L._SL400_.jpg)](https://www.amazon.de/dp/B08G4CKL16/?tag=tolees0ca-21)
+[![LEGO 42121 Technic Hydraulikbagger Bause](https://m.media-amazon.com/images/I/51VDY4xD7qS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4CKL16/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Zahlreiche realistische Funktionen zeigen Kindern, wie Baumaschinen tatsächlich funktionieren. Die Schaufel und der Arm bewegen sich und die Ketten laufen. Genau wie bei einem echten Bagger.
-- Der Bagger ist mit aufgestelltem Arm 23 cm hoch und mit voll ausgefahrenem Arm 37 cm lang und 11 cm breit.
-- Kinder können die authentische Kabine und das Steuerpult erkunden, um den Alltag auf einer Baustelle mit diesem coolen Bagger nachzustellen.
-- Dieses coole Set inspiriert zu Rollenspielen. 4 Leitkegel markieren die Fahrspuren auf der Baustelle. Zusätzliche LEGO Teile dienen als Aushub für den Bagger.
 - Wenn Kinder dann für eine neue Herausforderung bereit sind, können sie das 2-in-1-Modell in einen Raupentraktor mit Heckbagger umbauen.
-- Das LEGO Technic 2-in-1-Spielset „Hydraulikbagger“ (42121) ist ein fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk. Junge Baumaschinenfans werden das Modell gerne bauen und alle Details erkunden.
+- Dieses coole Set inspiriert zu Rollenspielen. 4 Leitkegel markieren die Fahrspuren auf der Baustelle. Zusätzliche LEGO Teile dienen als Aushub für den Bagger.
 - Dieser coole Bagger ist das ideale Geschenk für Jungen und Mädchen ab 8 Jahren, die Baumaschinen lieben.
+- Das LEGO Technic 2-in-1-Spielset „Hydraulikbagger“ (42121) ist ein fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk. Junge Baumaschinenfans werden das Modell gerne bauen und alle Details erkunden.
+- Der Bagger ist mit aufgestelltem Arm 23 cm hoch und mit voll ausgefahrenem Arm 37 cm lang und 11 cm breit.
+- Zahlreiche realistische Funktionen zeigen Kindern, wie Baumaschinen tatsächlich funktionieren. Die Schaufel und der Arm bewegen sich und die Ketten laufen. Genau wie bei einem echten Bagger.
+- Kinder können die authentische Kabine und das Steuerpult erkunden, um den Alltag auf einer Baustelle mit diesem coolen Bagger nachzustellen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4CKL16/?tag=tolees0ca-21)
