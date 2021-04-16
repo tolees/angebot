@@ -28,10 +28,10 @@ Sie können [KS Tools 515.1003 1/2" Hand-Schlagschraubendreher-Satz  11-tlg.](ht
 
 ℹ️:
 
-- kein Herausrutschen der Bitklinge möglich
 - ideal einsetzbar im Kfz-Bereich
-- zum Lösen festsitzender Schraubverbindungen
 - 1/4 Umdrehung des Schraubers durch Hammerschlag (Parabelmechanismus)
+- zum Lösen festsitzender Schraubverbindungen
+- kein Herausrutschen der Bitklinge möglich
 - umschaltbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001NYZSTK/?tag=tolees0ca-21)

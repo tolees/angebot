@@ -28,10 +28,10 @@ Sie können [Invicta Speedway 9212 Herrenuhr  395 mm](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- Dieses Modell wird von einem präzisen Quarzuhrwerk angetrieben
-- 2 Jahre Garantie
-- 20 bar Wasserdichtigkeitszertifizierung
 - Dieses Modell ist von der Invicta Speedway Kollektion
 - Das Invicta 9212 hat ein 395 mm Edelstahl gehäuse mit einem weißen Zifferblatt
+- 2 Jahre Garantie
+- Dieses Modell wird von einem präzisen Quarzuhrwerk angetrieben
+- 20 bar Wasserdichtigkeitszertifizierung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0006AAS5Q/?tag=tolees0ca-21)
