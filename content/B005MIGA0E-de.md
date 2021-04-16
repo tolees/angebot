@@ -28,9 +28,9 @@ Es gibt ein [Hama TV-Wandhalterung Fullmotion  2 Arme  neigbar  schwenkbar  voll
 
 ℹ️:
 
-- Für alle VESA-Standards bis 400 x 400, extrem flaches Profil: ideal für ultraflache TV-Geräte
-- Easy-Fix-System zur schnellen und einfachen Einstellung der gewünschten Position: stufenlos um bis zu +5/-15° neigbar (nach oben/unten), bis zu 180° schwenkbar an 3 Gelenken (nach links/rechts), von 4 bis 53,8 cm nach vorne ausziehbar
 - Mit magnetischer Wasserwaage zur einfachen Installation und geraden Ausrichtung der Wandhalterung, nachträgliches waagerechtes Ausrichten möglich
+- Easy-Fix-System zur schnellen und einfachen Einstellung der gewünschten Position: stufenlos um bis zu +5/-15° neigbar (nach oben/unten), bis zu 180° schwenkbar an 3 Gelenken (nach links/rechts), von 4 bis 53,8 cm nach vorne ausziehbar
+- Für alle VESA-Standards bis 400 x 400, extrem flaches Profil: ideal für ultraflache TV-Geräte
 - Lieferumfang: 1 TV-Wandhalterung Fullmotion, Montagematerial, 1 magnetische Wasserwaage, 1 Montageanleitung
 - Vollbewegliche Halterung zur Installation von Flachbildschirmen mit einer Bildschirmdiagonale von 81 bis 142 cm (32 Zoll bis 56 Zoll)
 
