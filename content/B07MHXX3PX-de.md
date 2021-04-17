@@ -28,11 +28,11 @@ Sie können [Sharkoon SilentStorm Cool Zero  650W  80 Plus Gold  Vollmodular ](h
 
 ℹ️:
 
-- VOLLMODULAR UND RYZEN-KOMPATIBEL: Durch insgesamt zwei 4+4-pol. CPU-Anschlüsse können moderne AMD RYZEN Systeme ohne Adapter betrieben werden.
-- AUSGESTATTET MIT ALLEN SCHUTZFUNKTIONEN: Überstromschutz, Überspannungs- und Unterspannungsschutz, Kurzschlussschutz, Übertemperaturschutz sowie Überlastschutz werden allesamt unterstützt.
+- 80 PLUS GOLD-ZERTIFIZIERT: Das SilentStorm Cool Zero ist durch eine Effizienz von mindestens 90 % bei 50 % Last sowie 87 % Effizienz bei 20 % und 100 % Last 80 PLUS Gold zertifiziert.
 - HOCHWERTIGE KOMPONENTEN: Ausschließlich 105°C-zertifizierte japanische Kondensatoren und ein 135-mm-Lüfter mit hydrodynamischem Gleitlager sorgen für einen leisen und zuverlässigen Betrieb mit einer durchschnittlichen Lebensdauer von 100.000 Stunden.
 - ULTRA-STABILE SPANNUNGSREGULATION: Durch die moderne LLC-Resonanzwandler-Technologie liefert das Netzteil gleichbleibende und störungsarme Spannung bei minimaler Geräusch- und Hitzeentwicklung.
-- 80 PLUS GOLD-ZERTIFIZIERT: Das SilentStorm Cool Zero ist durch eine Effizienz von mindestens 90 % bei 50 % Last sowie 87 % Effizienz bei 20 % und 100 % Last 80 PLUS Gold zertifiziert.
+- AUSGESTATTET MIT ALLEN SCHUTZFUNKTIONEN: Überstromschutz, Überspannungs- und Unterspannungsschutz, Kurzschlussschutz, Übertemperaturschutz sowie Überlastschutz werden allesamt unterstützt.
+- VOLLMODULAR UND RYZEN-KOMPATIBEL: Durch insgesamt zwei 4+4-pol. CPU-Anschlüsse können moderne AMD RYZEN Systeme ohne Adapter betrieben werden.
 - HOCHANPASSBARES KÜHLVERHALTEN: Mit dem Fan-Delay-Modus kann der Netzteillüfter bei Bedarf für 60 Sekunden nach dem Herunterfahren weiterlaufen, um eine vollständige Abkühlung des Systems zu gewährleisten. Zusätzlich kann mittels Zero-RPM-Modus bei geringer bis mittlerer Last die Lüfterrotation ausgesetzt werden, um einen geräuschlosen Betrieb zu ermöglichen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MHXX3PX/?tag=tolees0ca-21)
