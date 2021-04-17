@@ -28,9 +28,9 @@ Es gibt ein [Atlus - Persona 5 Strikers Limited Edition  Nintendo Switch ](https
 
 ℹ️:
 
-- Steuern Sie ihr Team auf geschickte Weise in einem explosiven Kampfsystem
-- Erleben Sie Kämpfe bei einer Wahnsinnsreise durch ganz Japan
 - Digitale Bonus-App mit Soundtrack mit über 40 Songs, digitales Artbook und Blick-hinter-die-Kulissen-Video
 - Tauchen Sie ein in die stylishe Welt von Persona - mit einer komplett neuen Geschichte
+- Erleben Sie Kämpfe bei einer Wahnsinnsreise durch ganz Japan
+- Steuern Sie ihr Team auf geschickte Weise in einem explosiven Kampfsystem
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08PXD24PK/?tag=tolees0ca-21)
