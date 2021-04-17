@@ -30,8 +30,8 @@ Sie können [Braun Klassischer analoger Wecker mit Schlummerfunktion und Licht  
 
 - Ruhiges Präzisions-Quarzuhrwerk (neueste Generation)
 - Integrierte Schlummertaste/Lichtfunktion (das Intervall der Schlummerfunktion beträgt 5 Minuten/das Licht leuchtet nach der manuellen Aktivierung einmal 5 Sekunden auf)
-- Batterie: Dieser Wecker wird mit einer AAA-Batterie betrieben, die jedoch nicht im Lieferumfang enthalten ist
 - Crescendo-Alarm – wird der Alarm nicht abgeschaltet, ertönt der Piepton in kürzeren Abständen und wird lauter
 - Beleuchtete Zeiger und charakteristischer gelber Sekundenzeiger
+- Batterie: Dieser Wecker wird mit einer AAA-Batterie betrieben, die jedoch nicht im Lieferumfang enthalten ist
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CZYCXQC/?tag=tolees0ca-21)

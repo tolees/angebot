@@ -30,8 +30,8 @@ Es gibt ein [Cressi Thunder Goggles - Premium Erwachsene Schwimmbrille mit Antib
 
 - In Italien (seit 1946) von Cressi hergestellt
 - Idealer Schnellverschluss: Der Schnellverschluss am weichen Silikon-Brillenband garantiert ein leichtes Einstellen. Mit zwei Fingern kann das Band leicht nachjustiert werden und vor allem leicht entspannt werden, was für viele Schwimmer wichtig is
-- Schwimmbrille mit getrennten Linsen: Sie passt perfekt an die meisten Gesichtsprofile für Männer und Frauen an. Ideale im Handling, komfortable auf der Haut. Das Außenprofil ist leicht gewölbt, um eine weite Sicht zu ermöglichen
 - Einer Optimaler Schutz: Die Bruch- und kratzfesten Linsen mit UV- und Beschlagschutz bieten einen optimalen Schutz vor Sonnenlicht. Robuste Schnallen mit Feineinstellung. Möglichkeit, Schnalle und Band mit denen anderer Cressi-Modelle zu wechseln
 - Eine Perfekte Schwimmbrille für den täglichen Einsatz: Mit ihrem weiten Sichtfeld ist damit sogar für Triathlon und auch Wettkämpfe geeignet. Durch die Softframe Technologie besitzt diese Brille zudem ein sehr flaches Profil
+- Schwimmbrille mit getrennten Linsen: Sie passt perfekt an die meisten Gesichtsprofile für Männer und Frauen an. Ideale im Handling, komfortable auf der Haut. Das Außenprofil ist leicht gewölbt, um eine weite Sicht zu ermöglichen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0788Q4XYV/?tag=tolees0ca-21)
