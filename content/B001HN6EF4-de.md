@@ -28,8 +28,8 @@ Es gibt ein [Mattel Games MTLP1703 UNO H20 To Go  Kartenspiel  Mattel P1703 ](ht
 
 ℹ️:
 
-- Für 2-10 Spieler; Ab 7 Jahren
 - Der praktische Karabinerhaken hält die Karten zusammen und lässt sich an Gürtel, Rucksack oder Strandtasche anbringen, sodass dieses UNO-Spiel immer griffbereit ist
+- Für 2-10 Spieler; Ab 7 Jahren
 - Ab jetzt ist UNO auch im Wasser mit dabei
 - Die robusten 108 Kunststoffkarten sind wasserfest und schmutzabweisend und somit ideal geeignet für ein UNO- Spiel am Strand
 

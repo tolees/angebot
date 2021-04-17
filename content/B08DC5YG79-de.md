@@ -30,7 +30,7 @@ Sie können [Square Enix - Dragon Quest XI S: Streiter des Schicksals - Definiti
 
 - Lausche dem originalen Soundtrack oder einer Orchestral-Version und spiele mit englischer oder japanischer Sprachausgabe
 - LERNE DIE 16-BIT-WELT VON TICKLINGEN KENNEN - Reise mit zusätzlichen Nebenquests in altbekannte Welten der "DRAGON QUEST"-Reihe
-- GENIESSE DIE UMFANGREICHEN INHALTE des Basisspiels sowie neue, charakterspezifische Szenarien
 - SPIELE NACH DEINEM GESCHMACK, wechsle zwischen 3D-HD- und 2D-16-bit-Grafik
+- GENIESSE DIE UMFANGREICHEN INHALTE des Basisspiels sowie neue, charakterspezifische Szenarien
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08DC5YG79/?tag=tolees0ca-21)
