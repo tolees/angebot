@@ -28,15 +28,15 @@ Sie können [Samyang 135/2 2 Objektiv Video DSLR Canon EF manueller Fokus Videoo
 
 ℹ️:
 
-- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
+- Samyang 135mm T2.2 VDSLR ED UMC für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
+- Manuell fokussierendes Video-Objektiv 135mm T2.2
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 - Lieferumfang : Samyang 135mm T2.2 VDSLR ED UMC für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
 - Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
-- Samyang 135mm T2.2 VDSLR ED UMC für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
-- Samyang 135mm T2.2 VDSLR ED UMC für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
+- Manuell fokussierendes Video-Objektiv 135mm T2.2
 - Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- Manuell fokussierendes Video-Objektiv 135mm T2.2
 - Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
-- Manuell fokussierendes Video-Objektiv 135mm T2.2
+- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
+- Samyang 135mm T2.2 VDSLR ED UMC für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00SLP1CIA/?tag=tolees0ca-21)
