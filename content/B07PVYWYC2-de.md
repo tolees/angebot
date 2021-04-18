@@ -28,10 +28,10 @@ Es gibt ein [BEVA Externes CD DVD Laufwerk  USB 3.0 PC Laufwerk Tragabar CD Play
 
 ℹ️:
 
-- Einfach zu bedienen – einfach Plug-and-Play. Das externe DVD-Laufwerk wird über den USB-Anschluss mit Strom versorgt. Keine komplizierte Installation. Schließen Sie das Laufwerk mit einem USB-Kabel an Ihr Gerät an und lesen Sie die Festplatte automatisch
 - Hohe Geschwindigkeit – Das externe DVD-Laufwerk Diskette ist kompatibel mit USB 3.0 und abwärtskompatibel mit USB 2.0 USB 1.0, was Ihnen eine schnellere Datenübertragung (bis zu einem Maximum von 5 Gbit/s) und eine stabile Leistung mit starker Fehlertoleranz ermöglicht
+- Einfach zu bedienen – einfach Plug-and-Play. Das externe DVD-Laufwerk wird über den USB-Anschluss mit Strom versorgt. Keine komplizierte Installation. Schließen Sie das Laufwerk mit einem USB-Kabel an Ihr Gerät an und lesen Sie die Festplatte automatisch
 - Hervorragende Leistung – Es verfügt über eine starke Fehlerkorrektur-Fähigkeit, Anti-Schock- und Rauschunterdrückung, geringer Stromverbrauch und Stromversorgung über den USB-Port, kein externer AC-Adapter erforderlich
-- Breite Kompatibilität – BEVA USB-CD-Laufwerk unterstützt zum Lesen von CD, VCD, SVCD, CD-R/RW, DVD-R/RW und Brennen von CD+/-RW, etc. Fortschrittlicher Chip unterstützt das Abspielen von Musik, Filmen oder das Kopieren und Brennen von Filmen und Musik auf CD. Ideal für verschiedene Geräte, Windows XP/2003/Vista/7/8.1/10, Linux, alle Versionen Mac OS System Laptop, Notebook, PC, Desktop Computer
 - Ultradünnes tragbares Design – das leichte Gehäuse macht es einfach überall zu tragen, Sie können diesen externen DVD-Player in der Reisetasche oder auf Ihrem Schreibtisch verstauen.
+- Breite Kompatibilität – BEVA USB-CD-Laufwerk unterstützt zum Lesen von CD, VCD, SVCD, CD-R/RW, DVD-R/RW und Brennen von CD+/-RW, etc. Fortschrittlicher Chip unterstützt das Abspielen von Musik, Filmen oder das Kopieren und Brennen von Filmen und Musik auf CD. Ideal für verschiedene Geräte, Windows XP/2003/Vista/7/8.1/10, Linux, alle Versionen Mac OS System Laptop, Notebook, PC, Desktop Computer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07PVYWYC2/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Sie können [LEGO 41423 Friends Tiger-Rettung mit Heißluftballon  Spielset mit 
 
 ℹ️:
 
-- Enthält zwei baubare Spielfiguren, zwei Tigerbabys und weitere Tierfiguren
 - Kinder können so tun, als würden sie in einem Spielzeug-Heißluftballon losfliegen, um ein festsitzendes Spielzeug-Tigerbaby zu retten
 - Ein fantastisches Weihnachtsgeschenk für kleine Tierfreunde und alle Fans der LEGO Friends TV-Serie
+- Enthält zwei baubare Spielfiguren, zwei Tigerbabys und weitere Tierfiguren
 - Ein spektakuläres Schaustück, das sich auch wunderbar mit anderen LEGO Sets kombinieren lässt, um noch mehr Spielmöglichkeiten bieten
 - Dieses Tiger-Spielset ist bestens für Kinder geeignet, die Tiere und actionreichen Spielspaß lieben
 
