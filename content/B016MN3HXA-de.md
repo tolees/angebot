@@ -28,10 +28,10 @@ Sie können [Canon PowerShot G5 X Digitalkamera  20 2 MP  7 5cm  3 Zoll  WLAN  N
 
 ℹ️:
 
+- Lieferumfang: Canon Digitalkamera PowerShotG5 X; Umhängegurt NS-DC12; Gurt-Adapter; Akku NB-13L; AkkuladegerätCB-2LHE; Netzkabel; Anleitungen
+- 20,2 Megapixel CMOS-Sensor; Leistungsstarker DIGIC 6 Bildprozessor
+- Lichtstarkes 1:1,8-2,8 Objektiv und 4,2-fach optischer Zoom
 - Blende, Belichtung und ISO-Empfindlichkeit sind im Movie-Modus einstellbar
 - 7,5 cm (3,0 Zoll, 1.040.000 Bildpunkte) klappbaren Touchscreen
-- Lichtstarkes 1:1,8-2,8 Objektiv und 4,2-fach optischer Zoom
-- 20,2 Megapixel CMOS-Sensor; Leistungsstarker DIGIC 6 Bildprozessor
-- Lieferumfang: Canon Digitalkamera PowerShotG5 X; Umhängegurt NS-DC12; Gurt-Adapter; Akku NB-13L; AkkuladegerätCB-2LHE; Netzkabel; Anleitungen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B016MN3HXA/?tag=tolees0ca-21)
