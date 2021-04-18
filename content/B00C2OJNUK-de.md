@@ -28,10 +28,10 @@ Es gibt ein [folia 23309 - Kinderkronen  aus Pappe  in 3 Formen sortiert  6 Stü
 
 ℹ️:
 
-- Ideal für fantasievolles Spielen, für Kindergeburtstage, Jungen und Mädchen
 - Zum Bemalen, Bekleben und Verzieren
-- Inhalt: 6 Kronen sortiert in 3 verschiedenen Modellen
-- Mit vorgestanzten Konturen
 - Kronen aus Pappe zum selber Gestalten
+- Mit vorgestanzten Konturen
+- Ideal für fantasievolles Spielen, für Kindergeburtstage, Jungen und Mädchen
+- Inhalt: 6 Kronen sortiert in 3 verschiedenen Modellen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00C2OJNUK/?tag=tolees0ca-21)
