@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'LEGO 60242 City Polizei Festnahme auf de mit 28.66 % Rabatt'
-date: 2021-03-17 21:22:41
-image: 'https://m.media-amazon.com/images/I/51ncejaqW4L._SL400_.jpg'
+title: 'LEGO 60242 City Polizei Festnahme auf de mit 28.66 % Rabatt'
+date: 2021-04-18 12:45:11
+image: 'https://m.media-amazon.com/images/I/51ncejaqW4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -13,25 +13,27 @@ actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26
 comparePrice: 19.99 EUR
-prodname: 'LEGO 60242 City Polizei Festnahme auf der Autobahn mit 2 Spielzeugautos  Verfolgungsjagd Bausets für Kinder ab 5 Jahren'
+prodname: 'LEGO 60242 City Polizei Festnahme auf der Autobahn mit 2 Spielzeugautos  Verfolgungsjagd Bausets für Kinder ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21'
 descuento: '28.66'
-average: '15.0570666666667'
+average: '15.0465789473685'
 ---
 
-Sie können [LEGO 60242 City Polizei Festnahme auf der Autobahn mit 2 Spielzeugautos  Verfolgungsjagd Bausets für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21) mit Preis 14.26 EUR (original: 19.99 EUR) 28.66 % Rabatt hier:
+Sie können [LEGO 60242 City Polizei Festnahme auf der Autobahn mit 2 Spielzeugautos  Verfolgungsjagd Bausets für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21) mit Preis 14.26 EUR (original: 19.99 EUR) 28.66 % Rabatt hier:
 
-[![LEGO 60242 City Polizei Festnahme auf de](https://m.media-amazon.com/images/I/51ncejaqW4L._SL400_.jpg)](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21)
+[![LEGO 60242 City Polizei Festnahme auf de](https://m.media-amazon.com/images/I/51ncejaqW4L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Unterstützt Ihr Kind bei der Beherrschung der Feinmotorik und fördert die Fantasie und Kreativität mit diesem einfach zu bauenden Spielzeug, das für Kinder im Vorschulalter geeignet ist
-- Beinhaltet zwei schnelle Autos: Das Polizei-Auto und das Fluchtauto des Ganoven, zusammen bieten sie fantastische Verfolgungsjagden und unterhaltsame Autounfälle
-- Die digitale Anleitung Instructions PLUS über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
-- Beinhaltet zwei Minifiguren: Duke DeTain und den Ganoven Vito, um Szenen von Verfolgungsjagden aus der LEGO City Adventures TV-Serie nachzuspielen
-- Zum Set-Zubehör gehören ein gestohlener Tresor mit Goldbarren und einer Banknote, eine Kiste mit Fisch, Handschellen und eine Autobahnsperre, um die Autos anzuhalten
+- Das Set enthält den LEGO City TV-Helden Duke DeTain und den Ganoven Vito als Minifiguren, ein cooles Spielzeug-Polizeiauto, einen sportlichen Fluchtwagen sowie einen gestohlenen Tresor und ein Fischkiste. Einer wilden Verfolgungsjagd steht also nichts mehr im Weg!
+- Kinder können die Charaktere und Autos aus diesem Set mit anderen LEGO Spielsets kombinieren, um eigene Spielzeuge und Schaustücke zu erschaffen.
+- Dieses Bauspielzeug verspricht jede Menge Action und ist ein tolles Geschenk zu jedem Anlass für Jungen und Mädchen ab 5 Jahren, die beim Spielen gerne ihrer Fantasie freien Lauf lassen. Nur ganz grundlegende Baufähigkeiten sind erforderlich.
+- Dukes Polizeiauto ist 4 cm hoch, 12 cm lang und 5 cm breit. Vitos Cabrio ist dagegen 3 cm hoch, 11 cm lang und 5 cm breit.
+- Batterien werden nicht benötigt! Als Antrieb reicht diesem coolen Spielzeug die Fantasie der Kinder, damit der Spielspaß sofort beginnen kann!
+- Dieses coole LEGO City Polizei-Set „Festnahme auf der Autobahn“ (60242) inspiriert zu fantasievollen, realitätsnahen Rollenspielen und vermittelt Kindern den Nervenkitzel rasanter und actionreicher Autoverfolgungsjagden.
+- Zu diesem Polizei-Spielset gibt es eine gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung, die Kinder zu wahren Baumeistern werden lässt! Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W8Y1FS9/?tag=tolees0ca-21)

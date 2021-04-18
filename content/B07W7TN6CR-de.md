@@ -1,30 +1,30 @@
 ---
 layout: post
-title: '41.88 % rabat auf LEGO Classic Produkttitel fehlt - Wird n'
-date: 2021-04-12 08:19:55
-image: 'https://m.media-amazon.com/images/I/51G81dHbBPL._SL400_.jpg'
+title: '30.06 % rabat auf LEGO Classic Produkttitel fehlt - Wird n'
+date: 2021-04-18 12:45:33
+image: 'https://m.media-amazon.com/images/I/51G81dHbBPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07W7TN6CR-de LEGO Classic Produkttitel fehlt - Wird nachgereicht'
 sku: 'B07W7TN6CR-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego classic', ]
-actualPrice: 2.9 EUR
+actualPrice: 3.49 EUR
 currency: EUR
-price: 2.9
+price: 3.49
 comparePrice: 4.99 EUR
 prodname: 'LEGO Classic Produkttitel fehlt - Wird nachgereicht'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO Classic'
 buyurl: 'https://www.amazon.de/dp/B07W7TN6CR/?tag=tolees0ca-21'
-descuento: '41.88'
-average: '5.1864705882353'
+descuento: '30.06'
+average: '5.09222222222223'
 ---
 
-Es gibt ein [LEGO Classic Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W7TN6CR/?tag=tolees0ca-21) mit aktuellem Preis 2.9 EUR (original: 4.99 EUR) 41.88 % Rabatt hier:
+Es gibt ein [LEGO Classic Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W7TN6CR/?tag=tolees0ca-21) mit aktuellem Preis 3.49 EUR (original: 4.99 EUR) 30.06 % Rabatt hier:
 
-[![LEGO Classic Produkttitel fehlt - Wird n](https://m.media-amazon.com/images/I/51G81dHbBPL._SL400_.jpg)](https://www.amazon.de/dp/B07W7TN6CR/?tag=tolees0ca-21)
+[![LEGO Classic Produkttitel fehlt - Wird n](https://m.media-amazon.com/images/I/51G81dHbBPL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W7TN6CR/?tag=tolees0ca-21)
 
 ℹ️:
 

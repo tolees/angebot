@@ -28,10 +28,10 @@ Es gibt ein [OSRAM 64210-01B Glühlampe  Weiß  Weiß   HALOGEN ORIGINAL 12V](ht
 
 ℹ️:
 
-- Made in Germany: Unsere OSRAM ORIGINAL H7 unterliegt hohen Qualitätsrichtlinien, u.A. des Kraftfahrtbundesamtes, und wird in Deutschland mit ECE Zertifizierung gefertigt.
+- OSRAM ORIGINAL LINE: millionenfach in Fahrzeugen namhafter Hersteller bewährt!
 - Bei dieser Lampe handelt es sich um ein Originalersatzteil mit gutem Preis-Leistungs-Verhältnis.
+- Made in Germany: Unsere OSRAM ORIGINAL H7 unterliegt hohen Qualitätsrichtlinien, u.A. des Kraftfahrtbundesamtes, und wird in Deutschland mit ECE Zertifizierung gefertigt.
 - Überprüfen Sie bitte, ob diese Fassung mit Ihrem Auto kompatibel ist.
 - Die OSRAM ORIGINAL LINE umfasst eine große Produktpalette von Scheinwerfer- bis hin zu Mini-Wattlampen und bietet somit immer eine passende Ersatzlampe in Erstausrüsterqualität.
-- OSRAM ORIGINAL LINE: millionenfach in Fahrzeugen namhafter Hersteller bewährt!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001D6AJQA/?tag=tolees0ca-21)
