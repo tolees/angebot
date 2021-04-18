@@ -28,7 +28,7 @@ Es gibt ein [Lalique Le Parfum femme/women  Eau de Parfum Spray  1er Pack  1 x 1
 
 ℹ️:
 
-- Zeitlose Kreation und schon jetzt ein großer Klassiker
 - Modern, orientalisch, sinnlich
+- Zeitlose Kreation und schon jetzt ein großer Klassiker
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001KOTR54/?tag=tolees0ca-21)
