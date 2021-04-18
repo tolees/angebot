@@ -29,11 +29,11 @@ Sie können [BGS 8790 | Schlauchverbinder-Sortiment | 100-tlg. | kraftstoffbest�
 ℹ️:
 
 - zum Verbinden von Schlauchleitungen wie z.B. Unterdruck-, Rücklaufleitungen, etc.
-- 25 x I-Verbinder: 10 Stück 3 mm | 5 Stück 5 mm | 3 Stück 6 mm | 3 Stück 8 mm | 2 Stück 10 mm | 2 Stück 12 mm
-- Material POM (Polyoxymethylen)
-- 25 x Y-Verbinder: 10 Stück 3 mm | 5 Stück 5 mm | 3 Stück 6 mm | 3 Stück 8 mm | 2 Stück 10 mm | 2 Stück 12 mm
-- 25 x L-Verbinder: 10 Stück 3 mm | 5 Stück 5 mm | 3 Stück 6 mm | 3 Stück 8 mm | 2 Stück 10 mm | 2 Stück 12 mm
 - benzin- und ölbeständig
+- 25 x Y-Verbinder: 10 Stück 3 mm | 5 Stück 5 mm | 3 Stück 6 mm | 3 Stück 8 mm | 2 Stück 10 mm | 2 Stück 12 mm
 - 25 x T-Verbinder: 10 Stück 3 mm | 5 Stück 5 mm | 3 Stück 6 mm | 3 Stück 8 mm | 2 Stück 10 mm | 2 Stück 12 mm
+- 25 x L-Verbinder: 10 Stück 3 mm | 5 Stück 5 mm | 3 Stück 6 mm | 3 Stück 8 mm | 2 Stück 10 mm | 2 Stück 12 mm
+- Material POM (Polyoxymethylen)
+- 25 x I-Verbinder: 10 Stück 3 mm | 5 Stück 5 mm | 3 Stück 6 mm | 3 Stück 8 mm | 2 Stück 10 mm | 2 Stück 12 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00JSKBY9O/?tag=tolees0ca-21)

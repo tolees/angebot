@@ -28,10 +28,10 @@ Es gibt ein [JBL GO 3 kleine Bluetooth Box in Schwarz – Wasserfester  tragbare
 
 ℹ️:
 
-- Kompakt und leistungsstark: Die kleine Lautsprecherbox verfügt über den vollen JBL Sound und ist mit ihrem geringen Gewicht der ideale Begleiter für unterwegs
-- Musikgenuss immer und überall: Einfach den kleinen, kabellosen Speaker schnappen und dank des integrierten Lithium-Ionen-Akkus bis zu 5 Std. Musik hören - der Ort spielt dabei keine Rolle
 - Gemäß IP67 ist die GO 3 wasser- und staubfest und bereit für jedes Outdoor Abenteuer - sowohl bei Sonne als auch bei Regen
 - Via Bluetooth ganz easy den Laptop oder das Handy mit der Musikbox verbinden und die Lieblingsplaylist starten / Das handliche Gehäuse verschafft dem kleinen JBL Lautsprecher überall einen Platz
 - Lieferumfang: 1 x GO 3 von JBL / Tragbare Bluetoothbox in Schwarz / Inkl. Kurzanleitung und USB Kabel / Wasser- und staubfest gemäß IP67 / Bluetooth 5.1 / 5h Wiedergabezeit
+- Kompakt und leistungsstark: Die kleine Lautsprecherbox verfügt über den vollen JBL Sound und ist mit ihrem geringen Gewicht der ideale Begleiter für unterwegs
+- Musikgenuss immer und überall: Einfach den kleinen, kabellosen Speaker schnappen und dank des integrierten Lithium-Ionen-Akkus bis zu 5 Std. Musik hören - der Ort spielt dabei keine Rolle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08FB2H6Y4/?tag=tolees0ca-21)
