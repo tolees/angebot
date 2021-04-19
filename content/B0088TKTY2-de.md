@@ -28,10 +28,10 @@ Es gibt ein [TP-Link TL-WN823N WLAN USB Stick  300Mbit/s 2 4 GHz  Mini Größe A
 
 ℹ️:
 
-- Einfaches Einrichten einer Drahtlosverbindung durch Drücken der WPS-Taste
-- SoftAP-Modus - Machen Sie Ihren Computer zu einem WiFi-Hotspot
-- Lieferumfang: TL-WN823N WLAN USB Adapter, Software-CD inkl. Treibern, Schnellinstallationsanleitung
 - 300Mbps WLAN-Geschwindigkeit, ideal für die flüssige Wiedergabe von HD-Video, VoIP und Online-Gaming. Frequenz: 2,4GHz
+- Einfaches Einrichten einer Drahtlosverbindung durch Drücken der WPS-Taste
+- Lieferumfang: TL-WN823N WLAN USB Adapter, Software-CD inkl. Treibern, Schnellinstallationsanleitung
+- SoftAP-Modus - Machen Sie Ihren Computer zu einem WiFi-Hotspot
 - Kleiner Formfaktor für maximale Mobilität mit gewohnt verlässlicher Performance
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0088TKTY2/?tag=tolees0ca-21)
