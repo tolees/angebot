@@ -28,10 +28,10 @@ Es gibt ein [Exacompta 10508E Karteikarten  Packung mit 100  250g  in Folie eing
 
 ℹ️:
 
-- Top Qualität auf konstant hohem Niveau. Hergestellt aus Papiermasse, die aus nachhaltig bewirtschafteten Wäldern stammt. 100% PEFC zertifiziert und PH-neutral gefärbt
 - Inhalt: eine Packung mit 100 Blatt. Farbe: weiß
-- Eine Packung mit 100 Karteikarten von Exacompta. Die Karteikarten sind in Packung eingeschweißt. Aus kalibriertem Karton, 205 g. Verpackt zu 100 Stück. blanko DIN A5 100 St eingeschweißt weiß
 - Ideal für die Schule oder Ihre Notizen
+- Eine Packung mit 100 Karteikarten von Exacompta. Die Karteikarten sind in Packung eingeschweißt. Aus kalibriertem Karton, 205 g. Verpackt zu 100 Stück. blanko DIN A5 100 St eingeschweißt weiß
 - Format: DIN A5, 14,8 x 21 cm. Lineatur: blanco
+- Top Qualität auf konstant hohem Niveau. Hergestellt aus Papiermasse, die aus nachhaltig bewirtschafteten Wäldern stammt. 100% PEFC zertifiziert und PH-neutral gefärbt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00B30WPRW/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [Difuzed Unisex Casquette Nintendo- Manette NES Métal Visor  Mehrfa
 
 ℹ️:
 
-- Hergestellt aus 90% Baumwolle und 10% Polyester
 - Pflegehinweis: Maschinenwäsche kalt (30 max)
 - Unisex
 - One Size
+- Hergestellt aus 90% Baumwolle und 10% Polyester
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0741C6KMB/?tag=tolees0ca-21)

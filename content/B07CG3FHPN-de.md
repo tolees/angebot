@@ -28,9 +28,9 @@ Sie können [JACK & JONES Male Hemd Must-Have MMedium Blue Denim](https://www.am
 
 ℹ️:
 
-- Jeanshemd für Herren
 - Superbequem zu tragen
 - Das Model ist 184 cm groß und trägt Größe L
+- Jeanshemd für Herren
 - Materialzusammensetzung: 100% Baumwolle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CG3FHPN/?tag=tolees0ca-21)

@@ -28,7 +28,7 @@ Es gibt ein [Giorgio Armani Sì Passione  Eau de Parfum  100 ml](https://www.ama
 
 ℹ️:
 
-- Parfüm.
 - Aus dem Hause Armani.
+- Parfüm.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079BZNK8J/?tag=tolees0ca-21)

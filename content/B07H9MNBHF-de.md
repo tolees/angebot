@@ -28,9 +28,9 @@ Sie können [Zoch 601105125 Pechvogel  Würfelspiel](https://www.amazon.de/dp/B0
 
 ℹ️:
 
+- Ein rabenschwarzes Würfelspiel
+- Für 2-5 Spieler ab 8 n
 - Spieldauer: ca. 20 Minuten
 - mit echten Marmorsteinen
-- Für 2-5 Spieler ab 8 n
-- Ein rabenschwarzes Würfelspiel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07H9MNBHF/?tag=tolees0ca-21)

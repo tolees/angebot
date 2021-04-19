@@ -29,8 +29,8 @@ Sie können [BRUNNER All Inclusive Teller aus Melamin Blue Ocean - 36-tellig](ht
 ℹ️:
 
 - einer in den Tellerboden integrierten Antirutsch-Dichtung
-- 39 x 30 x 20 cm; 5.22 Kilogramm
 - 36-teiliges Geschirr im Maritim-Look als Komplett-Set in robuster Transportbox
+- 39 x 30 x 20 cm; 5.22 Kilogramm
 - Alle Melaminteile sind mit dem Anti-Slip-System ausgestattet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0049ACCYY/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Original MANN-FILTER Luftfilter C 3220 – Für PKW](https://www.am
 
 ℹ️:
 
-- MANN-FILTER Luftfilter C 3220 / Maße: H = 35 ; A = 313 ; B = 200 / Premium-Filter in Erstausrüstungsqualität
 - MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
-- Höchste Schmutzaufnahmekapazität und Schmutzabscheidegrad, geringer Durchströmungswiderstand und hohe Faltenstabilität sorgen für Funktionssicherheit während des gesamten Wartungsintervalls
 - Hochwertige MANN-FILTER Luftfilter für saubere Ansaugluft - optimaler Schutz für Motor, Luftmassenmesser & andere sensible Bauteile / Sie erfüllen die Anforderungen moderner Motorentechnologie
 - Finden Sie den passenden Filter: Ersatzteil über die Auswahl von Marke, Modell, Fahrzeugtyp & Motorisierung im oberen Bereich oder auch über die Schlüsselnummern (HSN/TSN) aus den Fahrzeugpapieren
+- Höchste Schmutzaufnahmekapazität und Schmutzabscheidegrad, geringer Durchströmungswiderstand und hohe Faltenstabilität sorgen für Funktionssicherheit während des gesamten Wartungsintervalls
+- MANN-FILTER Luftfilter C 3220 / Maße: H = 35 ; A = 313 ; B = 200 / Premium-Filter in Erstausrüstungsqualität
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B005NFZ1K6/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [TFA Dostmann Bingo 2.0 digitaler Funk-Wecker mit Temperaturanzeige 
 
 ℹ️:
 
-- Digitalwecker: Auf dem Display werden der Wochentag, Datum, Uhrzeit sowie die aktuelle Zimmertemperatur und die Alarmfunktionen angezeigt. Die Bedienung des Funkweckers erfolgt durch intuitive Bedienung mit geräuschlosen Tasten
 - Snooze-Funktion: Per Snooze Funktion können Sie das Aufstehen noch etwas hinauszögern. Nach dem ersten Alarm betätigen Sie einfach die Schlummertaste und der Alarm wiederholt sich in regelmäßigen Abständen
 - Temperaturanzeige: Mit eingebautem Temperatursensor kann die Digitaluhr die aktuelle Temperatur im Raum in °C genau anzeigen.
+- Digitalwecker: Auf dem Display werden der Wochentag, Datum, Uhrzeit sowie die aktuelle Zimmertemperatur und die Alarmfunktionen angezeigt. Die Bedienung des Funkweckers erfolgt durch intuitive Bedienung mit geräuschlosen Tasten
 - Zwei Weckzeiten: Mit diesem Wecker können Sie zwei getrennte Alarme sich stellen, diese sind durch die Nachtbeleuchtung auf den Display auch nachts sichtbar. Wahl zwischen ansteigender Weckton oder konstant lauter Alarmsignal
 - Hohe Genauigkeit: Anzeige der Zeit dank Funkübertragung und Funkuhrwerk in Hoher Präzision, so dass der Wecker nie umgestellt werden muss. Über die seitliche Farbmarke erkennen Sie, ob der Alarm aktiviert wurde
 

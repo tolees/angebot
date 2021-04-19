@@ -28,9 +28,9 @@ Sie können [A RECORDINGS - Revelation [Vinyl LP]](https://www.amazon.de/dp/B00J
 
 ℹ️:
 
-- Vad Hnde Med Dem?
 - What You Isnt
 - Memory Camp
+- Vad Hnde Med Dem?
 - days, weeks and moths
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00J587JKM/?tag=tolees0ca-21)
