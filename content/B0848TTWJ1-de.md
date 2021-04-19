@@ -28,9 +28,9 @@ Sie können [Tommy Hilfiger Sportuhr 1791740](https://www.amazon.de/dp/B0848TTWJ
 
 ℹ️:
 
-- Schwarzes Sonnenstrahlen-Zifferblatt
 - Multifunktions-Uhrwerk
 - Gehäusedicke 10 mm / Durchmesser des Gehäuses: 44 mm
+- Schwarzes Sonnenstrahlen-Zifferblatt
 - Schwarzes Lederarmband
 - Wasserabweisend bis Fünf bar
 

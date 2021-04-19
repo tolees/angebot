@@ -28,10 +28,10 @@ Es gibt ein [Goobay 96006 Mini Infrarot Bewegungsmelder Innen – Kleinstbauweis
 
 ℹ️:
 
-- Präzise Erkennung von Personen und größeren Tieren in der Dunkelheit oder im Zwielicht. Konzipiert für die einfache & schnelle Wand Unterputzmontage
-- Max. Erkennungsreichweite 6 m; max. Erfassungswinkel 180 Grad; Schaltleistung 200 W; Mindestlast 1 W; Betriebsspannung 230 V (AC)
 - Lichtempfindlichkeit regelbar 3 - 2000 lx; Abschaltverzögerung regelbar 10 - 420 s; empfohlene Installationshöhe 2,2 - 4 m
 - Mini IDU Bewegungsmelder für Unterputzmontagen mit einem Erfassungsbereich von 360° und 6 Meter Reichweite. Konzipiert für die einfache & schnelle Unterputz-Deckenmontage
+- Präzise Erkennung von Personen und größeren Tieren in der Dunkelheit oder im Zwielicht. Konzipiert für die einfache & schnelle Wand Unterputzmontage
+- Max. Erkennungsreichweite 6 m; max. Erfassungswinkel 180 Grad; Schaltleistung 200 W; Mindestlast 1 W; Betriebsspannung 230 V (AC)
 - Kleinstbauweise ermöglicht fast unsichtbare Montage in Hohlraumdecken. Optimal zur Schaltung von Lampen, Leuchten, LEDs im Innenbereich geeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00F8SDM8Q/?tag=tolees0ca-21)

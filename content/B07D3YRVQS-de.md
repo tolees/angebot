@@ -29,8 +29,8 @@ Sie können [CAT PHONES - Caterpillar CS61-DAB-ROW-EN Cat S61 Smartphone  13 21 
 ℹ️:
 
 - Integrierte FLIR-Wärmebildkamera mit HD-Darstellung - Erweiterter Temperaturbereich auf 400 °C und ein Upgrade auf HD-Detail von der normalen Kamera.
-- Robust und absolut Wasserdicht - Wasserdicht bis 3m für 1 Stunde, Staubdicht und sturzgetestet aus 1, 80 m Höhe auf Beton. Geschützt gegen Vibration, Sand, Salznebel und Druck, IP69 & MIL SPEC 810G
 - Sensor zur Messung der Raumluftqualität - Fähig Temperatur, Luftfeuchtigkeit und flüchtige organische Verbindungen zu messen.
+- Robust und absolut Wasserdicht - Wasserdicht bis 3m für 1 Stunde, Staubdicht und sturzgetestet aus 1, 80 m Höhe auf Beton. Geschützt gegen Vibration, Sand, Salznebel und Druck, IP69 & MIL SPEC 810G
 - Lasergestütze Entfernungsmessung - Entfernungen von bis zu 8 Metern, Berechnung der Fläche, Wechsel zwischen metrischer und imperialer Maßeinheit.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07D3YRVQS/?tag=tolees0ca-21)
