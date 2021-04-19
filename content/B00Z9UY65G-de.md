@@ -28,10 +28,10 @@ Sie können [Anker PowerCore 13000mAh Powerbank Externer Akku 2-Port 3A mit Powe
 
 ℹ️:
 
-- Federleicht und kompakt: Leistungsstark mit 13000mAh mit zwei blitzschnellen USB-Ports - und das kleiner als ein Geldbeutel!
-- Das Anker PLUS: Schließe dich den über 30 Millionen glücklichen Kunden an. Lade Anker
-- Was DU BEKOMMST: einen Anker PowerCore 13000 externen Akku, ein Mikro-USB-Kabel, einen Reisebeutel, eine Bedienungsanleitung, 18 Monate Garantie und immer freundlichen Kundenservice
-- Schnellladetechnologie: PowerIQ und VoltageBoost in Kombination liefern die schnellstmögliche Ladegeschwindigkeit von bis zu 2.4A pro Port oder 3A Gesamt. Input: 5V/ 2A
 - Enorme Kapazität: als Nachfolger des PowerCore 10400mAh kommt dieser Akku in der exakt selben Größe. Lädt ein iPhone 8 Fast fünf Mal, ein iPhone X oder Samsung Galaxy S8 drei Mal
+- Was DU BEKOMMST: einen Anker PowerCore 13000 externen Akku, ein Mikro-USB-Kabel, einen Reisebeutel, eine Bedienungsanleitung, 18 Monate Garantie und immer freundlichen Kundenservice
+- Federleicht und kompakt: Leistungsstark mit 13000mAh mit zwei blitzschnellen USB-Ports - und das kleiner als ein Geldbeutel!
+- Schnellladetechnologie: PowerIQ und VoltageBoost in Kombination liefern die schnellstmögliche Ladegeschwindigkeit von bis zu 2.4A pro Port oder 3A Gesamt. Input: 5V/ 2A
+- Das Anker PLUS: Schließe dich den über 30 Millionen glücklichen Kunden an. Lade Anker
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00Z9UY65G/?tag=tolees0ca-21)
