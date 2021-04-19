@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Anker PowerPort+ Atom III Kompaktes 60W  mit 28.58 % Rabatt'
-date: 2020-07-21 09:17:13
-image: 'https://m.media-amazon.com/images/I/31O8WWlIfmL._SL400_.jpg'
+title: 'Anker PowerPort+ Atom III Kompaktes 60W  mit 34.79 % Rabatt'
+date: 2021-04-19 18:24:39
+image: 'https://m.media-amazon.com/images/I/31O8WWlIfmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07QL5CXNR-de Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech...'
 sku: 'B07QL5CXNR-de'
-tags: [  ]
-actualPrice: 28.56 EUR
+tags: [ 'Computer & Zubehör','Ladegeräte & Adapter für Tablets','Zubehör','Zubehör für Tablets','anker', ]
+actualPrice: 29.99 EUR
 currency: EUR
-price: 28.56
-comparePrice: 39.99 EUR
+price: 29.99
+comparePrice: 45.99 EUR
 prodname: 'Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech USB-C-Wandladegerät  Doppel-Port mit PIQ 2.0 USB-A und 45W USB-C  USB-C Laptops  Macbook  iPad Pro  iPhone  Galaxy  Pixel und mehr'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Anker'
 buyurl: 'https://www.amazon.de/dp/B07QL5CXNR/?tag=tolees0ca-21'
-descuento: '28.58'
-average: '28.56'
+descuento: '34.79'
+average: '29.0366666666667'
 ---
 
-Sie können [Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech USB-C-Wandladegerät  Doppel-Port mit PIQ 2.0 USB-A und 45W USB-C  USB-C Laptops  Macbook  iPad Pro  iPhone  Galaxy  Pixel und mehr](https://www.amazon.de/dp/B07QL5CXNR/?tag=tolees0ca-21) mit Preis 28.56 EUR (original: 39.99 EUR) 28.58 % Rabatt hier:
+Sie können [Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech USB-C-Wandladegerät  Doppel-Port mit PIQ 2.0 USB-A und 45W USB-C  USB-C Laptops  Macbook  iPad Pro  iPhone  Galaxy  Pixel und mehr](https://www.amazon.de/dp/B07QL5CXNR/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 45.99 EUR) 34.79 % Rabatt hier:
 
-[![Anker PowerPort+ Atom III Kompaktes 60W ](https://m.media-amazon.com/images/I/31O8WWlIfmL._SL400_.jpg)](https://www.amazon.de/dp/B07QL5CXNR/?tag=tolees0ca-21)
+[![Anker PowerPort+ Atom III Kompaktes 60W ](https://m.media-amazon.com/images/I/31O8WWlIfmL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07QL5CXNR/?tag=tolees0ca-21)
 
 ℹ️:
 
+- WAS DU BEKOMMST: Ein PowerPort+ Atom III Wandladegerät mit zwei Ports, eine Bedienungsanleitung, 18 Monate Garantie sowie immer freundlichen Kundenservice.
+- EINER FÜR ALLE: Kompatibel mit all deinen USB-Geräten! Verlasse dich auf PowerIQ 3.0 mit USB-C sowie auf PowerIQ 2.0 mit USB-A.
+- GREATER WITH GaN: Silikon wurde erstmals mit Galliumnitrid (GaN) ersetzt. Das Ergebnis: Fantastische Effizienz bei weniger Wärmeerzeugung in einem kleinen, federleichten Design.
+- HIGH-SPEED UNIVERSELL: Von iPhone über Galaxy bis hin zu USB-C-Laptops und mehr. Ankers weltberühmte PowerIQ 3.0 Technologie garantiert blitzschnelle Ladungen für so gut wie jedes Gerät!
+- DER ULTIMATIVE REISEBEGLEITER: 15 Prozent kleiner als übliche Ladegeräte und gleichzeitig wahnsinnige Power!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QL5CXNR/?tag=tolees0ca-21)
