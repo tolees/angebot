@@ -28,9 +28,9 @@ Sie können [Anker PowerPort+ Atom III Kompaktes 60W PIQ 3.0 & GaN Tech USB-C-Wa
 
 ℹ️:
 
-- WAS DU BEKOMMST: Ein PowerPort+ Atom III Wandladegerät mit zwei Ports, eine Bedienungsanleitung, 18 Monate Garantie sowie immer freundlichen Kundenservice.
-- EINER FÜR ALLE: Kompatibel mit all deinen USB-Geräten! Verlasse dich auf PowerIQ 3.0 mit USB-C sowie auf PowerIQ 2.0 mit USB-A.
 - GREATER WITH GaN: Silikon wurde erstmals mit Galliumnitrid (GaN) ersetzt. Das Ergebnis: Fantastische Effizienz bei weniger Wärmeerzeugung in einem kleinen, federleichten Design.
+- EINER FÜR ALLE: Kompatibel mit all deinen USB-Geräten! Verlasse dich auf PowerIQ 3.0 mit USB-C sowie auf PowerIQ 2.0 mit USB-A.
+- WAS DU BEKOMMST: Ein PowerPort+ Atom III Wandladegerät mit zwei Ports, eine Bedienungsanleitung, 18 Monate Garantie sowie immer freundlichen Kundenservice.
 - HIGH-SPEED UNIVERSELL: Von iPhone über Galaxy bis hin zu USB-C-Laptops und mehr. Ankers weltberühmte PowerIQ 3.0 Technologie garantiert blitzschnelle Ladungen für so gut wie jedes Gerät!
 - DER ULTIMATIVE REISEBEGLEITER: 15 Prozent kleiner als übliche Ladegeräte und gleichzeitig wahnsinnige Power!
 
