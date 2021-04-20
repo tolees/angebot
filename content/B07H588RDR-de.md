@@ -31,7 +31,7 @@ Es gibt ein [Reolink Akku Überwachungskamera Aussen  WLAN IP Kamera Argus Pro m
 - 2-Wege-Audio und Live-Ansicht: Sehen, hören und sprechen Sie mit Familien, Freunden od. Postboten direkt über Ihr Handy(iOS/Android) od. PC(Mac/Windows). Sie können jederzeit das Live-Streaming betrachten, die Aufnahmen abspielen oder herunterladen.
 - Push- und Email-Alarme in Echtzeit: Mit dem PIR-Sensor entgehen Ihnen keine verdächtigen Bewegungen. Der integrierte microSD-Kartenslot (bis zu 64GB) für lokale Speicherung aller Ereignisse, die jederzeit via die kostenlose Reolink-App/Client abgerufen werden können. Kein pflichtiges Abo erfolgt.
 - Eine autarke Lösung mit Solarbetrieb: Der wiederaufladbare Akku lässt sich durch das mitgelieferte Solarpanel kontinuierlich betreiben. Umweltfreundlich und ohne Folgekosten.
-- 1080P Full HD und klare Nachtsicht bis zu 10 m: Mit einem 130° breiten Sichtfeld erfasst die Akku Überwachungskamera im Freien scharfe Bilder und Videos bis zu 10 Meter mit mehr Details, sogar in der Nacht auch.
 - Flexibel und überall einsetzbar: Diese kleine Solar IP Kamera ist etwas größer als ein Ei und liegt super in der Hand. Kabellos, wasserfest und robust. Man kann die WLAN Kamera nach Lust und Laune an jeglichem Ort aufstellen.
+- 1080P Full HD und klare Nachtsicht bis zu 10 m: Mit einem 130° breiten Sichtfeld erfasst die Akku Überwachungskamera im Freien scharfe Bilder und Videos bis zu 10 Meter mit mehr Details, sogar in der Nacht auch.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07H588RDR/?tag=tolees0ca-21)
