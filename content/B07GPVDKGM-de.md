@@ -28,8 +28,8 @@ Sie können [Christian Dior - Dior Parfümwasser für Frauen 1er Pack  1x 30 ml 
 
 ℹ️:
 
+- Marke Dior
 - Parfümwasser für Männer
 - Marke Beauty-Produkte
-- Marke Dior
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GPVDKGM/?tag=tolees0ca-21)
