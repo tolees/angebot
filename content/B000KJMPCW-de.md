@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '41.44 % rabat auf Faber-Castell 1549 63 - Refill für Textl'
-date: 2021-03-27 18:14:28
-image: 'https://m.media-amazon.com/images/I/51zXBzG77iL._SL400_.jpg'
+title: '20.13 % rabat auf Faber-Castell 1549 63 - Refill für Textl'
+date: 2021-04-20 07:58:02
+image: 'https://m.media-amazon.com/images/I/51zXBzG77iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -12,26 +12,26 @@ tags: [ 'Bürobedarf & Schreibwaren','Füllfederhalter & Kugelschreiber','Marker
 actualPrice: 4.96 EUR
 currency: EUR
 price: 4.96
-comparePrice: 8.47 EUR
+comparePrice: 6.21 EUR
 prodname: 'Faber-Castell 1549 63 - Refill für Textliner 1543  1546 und 1548  grün'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Faber-Castell'
 buyurl: 'https://www.amazon.de/dp/B000KJMPCW/?tag=tolees0ca-21'
-descuento: '41.44'
+descuento: '20.13'
 average: '4.96'
 ---
 
-Es gibt ein [Faber-Castell 1549 63 - Refill für Textliner 1543  1546 und 1548  grün](https://www.amazon.de/dp/B000KJMPCW/?tag=tolees0ca-21) mit aktuellem Preis 4.96 EUR (original: 8.47 EUR) 41.44 % Rabatt hier:
+Es gibt ein [Faber-Castell 1549 63 - Refill für Textliner 1543  1546 und 1548  grün](https://www.amazon.de/dp/B000KJMPCW/?tag=tolees0ca-21) mit aktuellem Preis 4.96 EUR (original: 6.21 EUR) 20.13 % Rabatt hier:
 
-[![Faber-Castell 1549 63 - Refill für Textl](https://m.media-amazon.com/images/I/51zXBzG77iL._SL400_.jpg)](https://www.amazon.de/dp/B000KJMPCW/?tag=tolees0ca-21)
+[![Faber-Castell 1549 63 - Refill für Textl](https://m.media-amazon.com/images/I/51zXBzG77iL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B000KJMPCW/?tag=tolees0ca-21)
 
 ℹ️:
 
 - mit Superleuchtkraft
 - lichtbeständige Tinte
-- Inhalt: 30 ml
-- mit selbstregulierendem Kappilarsystem
 - Farbe: grün
+- mit selbstregulierendem Kappilarsystem
+- Inhalt: 30 ml
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJMPCW/?tag=tolees0ca-21)
