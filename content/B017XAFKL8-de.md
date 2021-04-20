@@ -28,10 +28,10 @@ Es gibt ein [Kärcher Schmutzwasser-Tauchpumpe SP 7 Dirt  Fördermenge: max. 150
 
 ℹ️:
 
-- Anwendungsgebiete: Eignet sie sich für besonders anspruchsvolle Entwässerungsaufgaben wie zum Beispiel in großen Gartenteichen, überfluteten Kellern oder überschwemmten Baugruben (max. 100 m³)
 - Lieferumfang: Tauchpumpe, Schlauchanschlussstück 1 1/4, Anschlusskabel 10 m
 - Die keramische Gleitringdichtung sorgt für eine extra lange Lebensdauer
 - Zuverlässiges Abpumpen von Wasser mit bis zu 30 mm großen Schmutzpartikeln
+- Anwendungsgebiete: Eignet sie sich für besonders anspruchsvolle Entwässerungsaufgaben wie zum Beispiel in großen Gartenteichen, überfluteten Kellern oder überschwemmten Baugruben (max. 100 m³)
 - 15.000 Liter pro Stunde, robust und zuverlässig: Die Schmutzwasser-Tauchpumpe SP 7 Dirt mit integriertem Vorfilter und höhenverstellbarem Schwimmerschalter
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B017XAFKL8/?tag=tolees0ca-21)
