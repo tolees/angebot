@@ -28,10 +28,10 @@ Es gibt ein [K24 - Sicherungshalter 09398 Sicherungshalter - Sicherungsdose - Si
 
 ℹ️:
 
-- seitlich befinden sich Stifte zum verbinden mehrer Halter
-- Spritzwassergeschützt - Abmessung: 51,5 x 29,5 mm
-- Sicherungen NICHT im Lieferumfang enthalten
-- bis 200A - M5 Gewindebolzen und Sechskantmuttern
 - Sicherungshalter für Midi - Sicherungen
+- Sicherungen NICHT im Lieferumfang enthalten
+- seitlich befinden sich Stifte zum verbinden mehrer Halter
+- bis 200A - M5 Gewindebolzen und Sechskantmuttern
+- Spritzwassergeschützt - Abmessung: 51,5 x 29,5 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EOG6ODS/?tag=tolees0ca-21)
