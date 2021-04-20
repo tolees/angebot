@@ -28,11 +28,11 @@ Sie können [Falke Herren RU4 Short M SSO Laufsocken  Weiß  White-Mix 2020   39
 
 ℹ️:
 
+- Modellnummer FALKE Herren RU4 Short Laufsocken: 16705
 - Einzigartige FALKE-Qualität: Wir haben höchste Ansprüche an das, was Ihren Körper schützt und wärmt. FALKE: Traditionsunternehmen und höchste Qualität seit 1895
 - Joggingsocken, gepolstert und verstärkt, aus angenehm weicher Baumwolle ohne Motiv, bunt; atmungsaktiv, mit Kurzschaft, hochwertig und für jede Schuhe sowie zum Jogging gut geeignet; Die Zehen und die Ferse sind verstärkt; Kurze Socken aus Baumwolle; Allrounder Sneakersocken für draußen von FALKE in den Größen 39-48.
-- Outdoorsocken zum Walken, Laufen und Running, für die Arbeit, Outdoor Sport sowie für Halbschuhe und Sneaker; Leicht gepolsterte Baumwollsocken drücken nicht durch flache Naht an den Zehen; ideale Joggingsocken mit mittelstarker Polsterung für hohen Schutz und direkten Schuhkontakt ohne nasse Schweißfüße für den Fühling und Sommer; Baumwollstrümpfe für Männer, Jungen und Teenager
-- Modellnummer FALKE Herren RU4 Short Laufsocken: 16705
-- FALKE Laufsocken RU4 Short Herrenstrümpfe in Quarter Länge sind kurz, low, niedrig und fusselfrei. Sie bedecken den Knöchel; Passform und Farbe der Laufsocken bleiben erhalten auch nach mehrmaligem Waschen; Diese Herrensocken sind bei 30°C im Schonwaschgang zu waschen
 - Die Socken eignen sich auch sehr gut zum Verschenken wie zu Vatertag, Geburtstag oder Weihnachten. Materialzusammensetzung der Strümpfe für jedes Wetter und Jahreszeit: 45% Polypropylen, 35% Baumwolle, 20% Polyamid
+- FALKE Laufsocken RU4 Short Herrenstrümpfe in Quarter Länge sind kurz, low, niedrig und fusselfrei. Sie bedecken den Knöchel; Passform und Farbe der Laufsocken bleiben erhalten auch nach mehrmaligem Waschen; Diese Herrensocken sind bei 30°C im Schonwaschgang zu waschen
+- Outdoorsocken zum Walken, Laufen und Running, für die Arbeit, Outdoor Sport sowie für Halbschuhe und Sneaker; Leicht gepolsterte Baumwollsocken drücken nicht durch flache Naht an den Zehen; ideale Joggingsocken mit mittelstarker Polsterung für hohen Schutz und direkten Schuhkontakt ohne nasse Schweißfüße für den Fühling und Sommer; Baumwollstrümpfe für Männer, Jungen und Teenager
 
 [🛒 Hier!!](https://www.amazon.de/dp/B018K9LAQU/?tag=tolees0ca-21)
