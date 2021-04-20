@@ -28,10 +28,10 @@ Es gibt ein [Faber-Castell 1549 63 - Refill für Textliner 1543  1546 und 1548  
 
 ℹ️:
 
-- Farbe: grün
-- Inhalt: 30 ml
-- mit Superleuchtkraft
 - mit selbstregulierendem Kappilarsystem
+- Inhalt: 30 ml
 - lichtbeständige Tinte
+- mit Superleuchtkraft
+- Farbe: grün
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJMPCW/?tag=tolees0ca-21)
