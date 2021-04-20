@@ -29,9 +29,9 @@ Sie können [Tefal EY3018 Easy Fry Compact Heißluftfritteuse  1400 W  Kapazitä
 ℹ️:
 
 - Sechs automatische Programme: Pommes frites, Grill, Snacks, Hühnchen, Fisch, Kuchen; digitales Display mit Touchscreen Interface
-- Sehr kompakt: Bis zu zwei Portionen in einer ultra kompakten Größe (1,6 l), optimal für kleine Haushalte
-- Lieferumfang: Tefal EY3018 Easy Fry Compact Digital Heißluftfritteuse, Bedienungsanleitung
 - Easy Fry Compact Digital Heißluftfritteuse: Köstliches Essen für alle mit wenig bis gar keinem Öl
+- Lieferumfang: Tefal EY3018 Easy Fry Compact Digital Heißluftfritteuse, Bedienungsanleitung
+- Sehr kompakt: Bis zu zwei Portionen in einer ultra kompakten Größe (1,6 l), optimal für kleine Haushalte
 - Thermostat: Die Temperatur ist einstellbar von 80° C bis zu 200° C; Timer (bis zu 30 Minuten); abnehmbare Teile sind spülmaschinengeeignet (Grillrost im Garkorb)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07X7VRG7H/?tag=tolees0ca-21)

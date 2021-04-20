@@ -31,7 +31,7 @@ Es gibt ein [Brennenstuhl Zeitschaltuhr MZ 20  mechanische Timer-Steckdose  Tage
 - Lieferumfang: 1 x Zeitschaltuhr MZ 20 in der Farbe grau - in bester Qualität von brennenstuhl
 - Mit erhöhtem Berührungsschutz: Kunststoffplättchen verschließen die Kontakte der Steckdose
 - Mechanische Zeitschaltuhr mit 24 Stunden Programm und erhöhtem Berührungsschutz
-- Einfache Bedienung ermöglicht 96 Ein-/Ausschaltzeiten pro Tag
 - Der minimale Schaltabstand der Zeitschaltuhr beträgt 15 Minuten
+- Einfache Bedienung ermöglicht 96 Ein-/Ausschaltzeiten pro Tag
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJR5S6/?tag=tolees0ca-21)
