@@ -28,10 +28,10 @@ Sie können [Samsung G7  C27G73TQSU  68 58 cm  27 Zoll  QLED Curved Odyssey Gami
 
 ℹ️:
 
+- Kontrast 2.500:1, Helligkeit 350 cd/m²
+- Lieferumfang: Samsung C27G73TQSU 68,4 cm (27 Zoll) QLED Curved Monitor schwarz, Installations-CD, USB 3.0 Kabel, Stromkabel (1,5m)
+- HDMI, Display Port, USB Port
 - Eye Saver Mode, Flicker Free, Bildwiederholungsrate 240 Hz
 - 1000R Curved Monitor, 27 Zoll, 2.560 x 1.440 Pixel, 16:9 Format
-- HDMI, Display Port, USB Port
-- Lieferumfang: Samsung C27G73TQSU 68,4 cm (27 Zoll) QLED Curved Monitor schwarz, Installations-CD, USB 3.0 Kabel, Stromkabel (1,5m)
-- Kontrast 2.500:1, Helligkeit 350 cd/m²
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0859SVYN7/?tag=tolees0ca-21)

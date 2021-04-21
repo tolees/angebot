@@ -28,10 +28,10 @@ Sie können [Acer - Predator XB271HUA Gaming Monitor 27 Zoll  69 cm Bildschirm  
 
 ℹ️:
 
-- DESIGN: Zero-Frame-Monitore zeichnen sich durch minimale Rahmen aus. Bilder erscheinen auf dem Monitor größer und Übergänge bei Multi-Monitor-Setups sind nahezu nahtlos
 - HERSTELLERGARANTIE: 24 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. LIEFERUMFANG: Predator XB271HUA KABEL: DP, USB3.0
+- FEATURE SET: 16:9 Gaming Monitor mit einer Auflösung von 2560x1440dpi, TN Display, BILDWIEDERHOLUNGSRATEN: 165Hz(Overclock DP), 144Hz(DP), 60Hz(HDMI), Reaktionszeit: 1ms (G2G), Anschlüsse: HDMI 1.4, DP, USB 3.0 HUB
 - SYNC TECHNOLOGIE: NVIDIA GSync sorgt dafür, dass die Bildwiederholfrequenz (Hz) des Monitors an die des ausgebenden Gerätes angepasst wird und somit ruckelfreie, flüssige Spielesessions ermöglicht werden
 - DISPLAY-TYP: TN Displays bieten dem Nutzer hohe Reaktionszeiten, im Gegensatz zu anderen Displays ist die Farbtreue geringer und der Blickwinkel kleiner
-- FEATURE SET: 16:9 Gaming Monitor mit einer Auflösung von 2560x1440dpi, TN Display, BILDWIEDERHOLUNGSRATEN: 165Hz(Overclock DP), 144Hz(DP), 60Hz(HDMI), Reaktionszeit: 1ms (G2G), Anschlüsse: HDMI 1.4, DP, USB 3.0 HUB
+- DESIGN: Zero-Frame-Monitore zeichnen sich durch minimale Rahmen aus. Bilder erscheinen auf dem Monitor größer und Übergänge bei Multi-Monitor-Setups sind nahezu nahtlos
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01EN5JN5K/?tag=tolees0ca-21)
