@@ -28,8 +28,8 @@ Sie können [NIGRIN 74118 Rostprimer- Spray grau 400 ml](https://www.amazon.de/d
 
 ℹ️:
 
-- ohne blei- und chromhaltige Inhaltsstoffe
 - Langzeitschutz
+- ohne blei- und chromhaltige Inhaltsstoffe
 - patentiert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001BAQUGG/?tag=tolees0ca-21)

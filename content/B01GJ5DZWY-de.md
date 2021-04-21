@@ -28,10 +28,10 @@ Sie können [DeWalt DCD 796 N 18 V Akku Schlagbohrschrauber Brushless 70 Nm Solo
 
 ℹ️:
 
-- Leerlaufdrehzahl 1. Gang: 0-550 U/min
 - Leerlaufdrehzahl 2. Gang: 0-2000 U/min
-- Nennspannung: 18 V
-- Leerlaufschlagzahl 1. Gang: 0-9350 Schläge/min
 - Bohrfutterspannweite: 1,5-13mm
+- Leerlaufdrehzahl 1. Gang: 0-550 U/min
+- Leerlaufschlagzahl 1. Gang: 0-9350 Schläge/min
+- Nennspannung: 18 V
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01GJ5DZWY/?tag=tolees0ca-21)

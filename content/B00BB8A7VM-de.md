@@ -28,10 +28,10 @@ Sie können [UniLH x Thermostat  Weiß  1 Stück](https://www.amazon.de/dp/B00BB
 
 ℹ️:
 
-- Oventrop Thermostat Uni LH
-- Sollwertbereich: 7 - 28 Grad Celcius
-- Serie: Comfort
 - M30 x 1,5
+- Serie: Comfort
 - Mit Nullstellung
+- Sollwertbereich: 7 - 28 Grad Celcius
+- Oventrop Thermostat Uni LH
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00BB8A7VM/?tag=tolees0ca-21)
