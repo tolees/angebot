@@ -28,10 +28,10 @@ Sie können [AVM FRITZ!WLAN Mesh Repeater 2400  Dual-WLAN AC + N bis zu 1.733 MB
 
 ℹ️:
 
-- Lieferumfang: FRITZ!Repeater 2400, LAN-Kabel, Installationsanleitung, Schuko-Adapter
-- Einfache WLAN-Einrichtung per Knopfdruck über WPS (Wi-Fi Protected Setup), werkseitig sichere WLAN-Verschlüsselung
 - Mehr WLAN-Reichweite für alle verbundenen Geräte, ultraschnelle Übertragungen mit WLAN AC (1.733 MBit/s) und höchste Reichweite mit WLAN N (600 MBit/s)
-- WLAN Mesh: automatische Zusammenlegung der eingesetzten FRITZ!-Produkte zu einem intelligenten WLAN-Netz mit optimaler Leistung, kompatibel zu allen gängigen WLAN-Routern
+- Einfache WLAN-Einrichtung per Knopfdruck über WPS (Wi-Fi Protected Setup), werkseitig sichere WLAN-Verschlüsselung
+- Lieferumfang: FRITZ!Repeater 2400, LAN-Kabel, Installationsanleitung, Schuko-Adapter
 - Ultraschneller Gigabit-LAN-Anschluss für den Aufbau einer LAN-Brücke oder für Netzwerkgeräte ohne WLAN-Funktion
+- WLAN Mesh: automatische Zusammenlegung der eingesetzten FRITZ!-Produkte zu einem intelligenten WLAN-Netz mit optimaler Leistung, kompatibel zu allen gängigen WLAN-Routern
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XCRYSDT/?tag=tolees0ca-21)
