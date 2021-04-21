@@ -1,32 +1,37 @@
 ---
 layout: post
-title: '20.25 % rabat auf Durable 840500 Selbstklebe-Taben Quick T'
-date: 2020-10-11 06:24:09
-image: 'https://m.media-amazon.com/images/I/31tAZjYx2jL._SL400_.jpg'
+title: '29.51 % rabat auf Durable 840500 Selbstklebe-Taben Quick T'
+date: 2021-04-21 14:24:53
+image: 'https://m.media-amazon.com/images/I/31tAZjYx2jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B002BDVGK2-de Durable 840500 Selbstklebe-Taben Quick Tab wiederablösbar...'
 sku: 'B002BDVGK2-de'
-tags: [  ]
-actualPrice: 4.45 EUR
+tags: [ 'Bürobedarf & Schreibwaren','Büromaterial','Etiketten, Register & Stempel','Klebemarkierungen','Mappen, Ordner & Zubehör','Ordnerzubehör','Ringbücher & Zubehör','Trennblätter','durable', ]
+actualPrice: 3.87 EUR
 currency: EUR
-price: 4.45
-comparePrice: 5.58 EUR
-prodname: 'Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à 48 Stück farbig sortiert'
+price: 3.87
+comparePrice: 5.49 EUR
+prodname: 'Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à 48 Stück farbig Sortiert'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Durable'
 buyurl: 'https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21'
-descuento: '20.25'
-average: '4.45'
+descuento: '29.51'
+average: '4.25666666666667'
 ---
 
-Es gibt ein [Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à 48 Stück farbig sortiert](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21) mit aktuellem Preis 4.45 EUR (original: 5.58 EUR) 20.25 % Rabatt hier:
+Es gibt ein [Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à 48 Stück farbig Sortiert](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21) mit aktuellem Preis 3.87 EUR (original: 5.49 EUR) 29.51 % Rabatt hier:
 
-[![Durable 840500 Selbstklebe-Taben Quick T](https://m.media-amazon.com/images/I/31tAZjYx2jL._SL400_.jpg)](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21)
+[![Durable 840500 Selbstklebe-Taben Quick T](https://m.media-amazon.com/images/I/31tAZjYx2jL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Werkstoff: Papier
+- Breite des Kartenreiterkopfes: 40 mm
+- Ausführung des Aufdruckes beiliegender Einsteckschilder: blanko
+- Artikelbezeichnung: Tabe Quick Tab
+- Beschreibung der Besonderheiten: selbstklebend, wiederablösbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21)
