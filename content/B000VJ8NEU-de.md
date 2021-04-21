@@ -28,10 +28,10 @@ Es gibt ein [Lavazza Espresso - Italiano Cremoso - Aromatische Kaffeebohnen - 1e
 
 ℹ️:
 
-- 1er Pack, 1 kg
 - Espresso Cremoso ist die ideale Mischung für alle, die jeden Tag einen köstlichen Kaffee genießen möchten.
+- Arabica und Robusta
+- 1er Pack, 1 kg
 - Aussehen:Lang anhaltende Crema, Aroma: Schokoladennoten, Geschmack: Süß und aromatisch
 - Neue Verpackung, gleicher Ihhalt. Ein zarter Espresso mit lang anhaltender Crema und einem angenehmen Abgang mit Schokoladennoten.
-- Arabica und Robusta
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000VJ8NEU/?tag=tolees0ca-21)

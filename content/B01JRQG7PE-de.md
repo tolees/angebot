@@ -28,10 +28,10 @@ Sie können [Panama Jack Herren Panama 03 Kurzschaft Stiefel  Braun  Chesnut C52
 
 ℹ️:
 
+- Water Resistant
+- Principal Material: Nappa, Lining Material: Leather Sole Material: Natural Rubber InnerSole RemovableInsert: Yes
 - HeelHeight: 3, 00 cm
 - Hergestellt in Spain
-- Water Resistant
 - Panama Jack Men, Castaño / Chestnut Springer Boots
-- Principal Material: Nappa, Lining Material: Leather Sole Material: Natural Rubber InnerSole RemovableInsert: Yes
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01JRQG7PE/?tag=tolees0ca-21)

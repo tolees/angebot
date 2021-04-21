@@ -28,10 +28,10 @@ Es gibt ein [Caramba 609701 Ansaugsystem- und Drosselklappenreiniger 500 ml](htt
 
 ℹ️:
 
-- Entfernt Verbrennungsrückstände
-- Für Drosselklappen und Ventile
 - Für Vergaser- und Einspritzsysteme
 - Sonde im Deckel integriert
 - Made in Germany
+- Für Drosselklappen und Ventile
+- Entfernt Verbrennungsrückstände
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00FC2V0F0/?tag=tolees0ca-21)

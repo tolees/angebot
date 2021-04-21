@@ -28,9 +28,9 @@ Sie können [Nigrin Haftgrund-Spray  Grau  400 ml Sprühdose  für die Grundieru
 
 ℹ️:
 
-- Inhalt: 400ml
 - Überall möglich: Das Haftgrundspray kann auch für Holz, Beton oder andere Oberflächen verwendet werden und ist universell anwendbar
 - Wasserfest: Nigrin Haftgrund ist waschanlagen- und wetterfest und schützt so Ihr Auto vor Rost
+- Inhalt: 400ml
 - Flott: Nigrin Haftgrund-Spray ist schnelltrocknend
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001B4Q9WM/?tag=tolees0ca-21)

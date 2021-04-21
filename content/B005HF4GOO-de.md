@@ -28,10 +28,10 @@ Es gibt ein [HAN Schreibtischköcher RONDO – eleganter Köcher mit 9 Fächern 
 
 ℹ️:
 
-- Die hochglänzende und elegante Optik begeistert mit klarer Linienführung und funktionellem Design – bringt Glanz in jedes designorientierte Büro
-- Mit praktischem Kartenschlitz und möbelschonenden Gummifüßen. Ideal für die platzsparende Aufbewahrung von Schreib- oder Kleinutensilien – ob im Bad, Flur, Büro oder Küche
-- Lieferumfang: 1 x HAN 17460-13, Schreibtischköcher RONDO. Eleganter Köcher mit 9 Fächern. Original HAN-Markenware. Geschmacksmuster geschützt. Made in Germany. Außenmaße (BxTxH): 140x140x109 mm. Ohne Inhalt. Farbe: schwarz
-- Geschmeidige Form in hochwertiger Verarbeitung. Für alle Büroutensilien, Kleinteile oder auch Beautyprodukte wie z.B. Schminkpinsel super geeignet
 - Durchdacht, schwungvoll und dynamisch. 3 Fächer sind exakt auf Textmarker Maße abgestimmt. Für insgesamt z.B. 7 STABILO Boss Artikel Nr. 70 Textmarker
+- Lieferumfang: 1 x HAN 17460-13, Schreibtischköcher RONDO. Eleganter Köcher mit 9 Fächern. Original HAN-Markenware. Geschmacksmuster geschützt. Made in Germany. Außenmaße (BxTxH): 140x140x109 mm. Ohne Inhalt. Farbe: schwarz
+- Die hochglänzende und elegante Optik begeistert mit klarer Linienführung und funktionellem Design – bringt Glanz in jedes designorientierte Büro
+- Geschmeidige Form in hochwertiger Verarbeitung. Für alle Büroutensilien, Kleinteile oder auch Beautyprodukte wie z.B. Schminkpinsel super geeignet
+- Mit praktischem Kartenschlitz und möbelschonenden Gummifüßen. Ideal für die platzsparende Aufbewahrung von Schreib- oder Kleinutensilien – ob im Bad, Flur, Büro oder Küche
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B005HF4GOO/?tag=tolees0ca-21)

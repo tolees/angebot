@@ -29,7 +29,7 @@ Es gibt ein [Mahle Knecht Filter LAK888 Innenraumluft Filter](https://www.amazon
 ℹ️:
 
 - Länge über Alles [mm]: 253.0
-- Höhe [mm]: 30.0
 - Breite [mm]: 235.0
+- Höhe [mm]: 30.0
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00UAPEDLW/?tag=tolees0ca-21)

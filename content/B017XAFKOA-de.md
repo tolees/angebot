@@ -28,10 +28,10 @@ Sie können [Kärcher Schmutzwasser-Tauchpumpe SP 5 Dirt  Fördermenge: max. 950
 
 ℹ️:
 
-- Die Schmutzwasserpumpe SP 5 Dirt mit einer maximalen Förderleistung von 9.500 l/h pumpt zuverlässig verschmutztes Wasser mit bis zu 20 Millimeter großen Schmutzpartikeln
-- Der höhenverstellbare Schwimmerschalter erhöht die Flexibilität beim Einstellen des Ein- und Ausschaltpunkts der Pumpen und schützt vor Trockenlauf
-- Anwendungsgebiete: Eignet sie sich ideal für besonders anspruchsvolle Entwässerungsaufgaben wie zum Beispiel in großen Gartenteichen und überfluteten Kellern
 - Lieferumfang: Tauchpumpe, Schlauchanschlussstück 1 1/4, Anschlusskabel 10 m
+- Der höhenverstellbare Schwimmerschalter erhöht die Flexibilität beim Einstellen des Ein- und Ausschaltpunkts der Pumpen und schützt vor Trockenlauf
 - Die keramische Gleitringdichtung sorgt für eine extra lange Lebensdauer
+- Anwendungsgebiete: Eignet sie sich ideal für besonders anspruchsvolle Entwässerungsaufgaben wie zum Beispiel in großen Gartenteichen und überfluteten Kellern
+- Die Schmutzwasserpumpe SP 5 Dirt mit einer maximalen Förderleistung von 9.500 l/h pumpt zuverlässig verschmutztes Wasser mit bis zu 20 Millimeter großen Schmutzpartikeln
 
 [🛒 Hier!!](https://www.amazon.de/dp/B017XAFKOA/?tag=tolees0ca-21)

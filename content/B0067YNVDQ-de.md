@@ -28,10 +28,10 @@ Sie können [GROHE Wave Cosmopolitan | Badarmatur - Waschtischbatterie | 2320200
 
 ℹ️:
 
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
-- Lieferumfang: Waschtischarmatur, Zugstange, Ablaufstopfen, Befestigungsmaterial, Bedienungsanleitung
 - Samtweiche Leichtgängigkeit des Bedienhebels ein Leben lang
 - Strahlender Chromglanz mit langanhaltender Brillanz
+- Lieferumfang: Waschtischarmatur, Zugstange, Ablaufstopfen, Befestigungsmaterial, Bedienungsanleitung
 - Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0067YNVDQ/?tag=tolees0ca-21)
