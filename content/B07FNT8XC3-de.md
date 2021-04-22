@@ -28,10 +28,10 @@ Sie können [Lego Minecraft - Lego 21152 Minecraft Das Piratenschiff-Abenteuer  
 
 ℹ️:
 
+- Komm an Bord des Minecraft-Piratenschiffs. Ziele mit den Kanonen, um feindselige Kreaturen abzuwehren, und beschütze die Schildkröteneier vor der Attacke des Zombies.
 - Tausche die Schiffsmodule aus und erschaffe so ein Minecraft-Schiffswrack.
+- Versorge den niedlichen Papagei und füttere den Delfin.
 - Das Set enthält außerdem eine baubare Minecraft-Inselszene und ein Spielzeug-Piratenschiff mit funktionierenden Kanonen, goldenen Verzierungen, Piratenflagge, Steg und Ruderboot.
 - Das Set enthält 2 Minifiguren: einen Piraten und Alex sowie einen Minecraft-Zombie und je eine Delfin-, Papagei- und Schildkrötenfigur von Minecraft (neu ab Januar 2019).
-- Komm an Bord des Minecraft-Piratenschiffs. Ziele mit den Kanonen, um feindselige Kreaturen abzuwehren, und beschütze die Schildkröteneier vor der Attacke des Zombies.
-- Versorge den niedlichen Papagei und füttere den Delfin.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNT8XC3/?tag=tolees0ca-21)
