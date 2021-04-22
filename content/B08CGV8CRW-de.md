@@ -28,12 +28,12 @@ Es gibt ein [yeedi k650 Saugroboter mit Wischfunktion  2-in-1 Saug und Wischrobo
 
 ℹ️:
 
-- 【Sprach- und App-Steuerung】Staubsaugen war dank yeedi-App, Amazon Alexa und der Sprachsteuerung von Google Assistant per WLAN noch nie so einfach.
-- 【Mehr Leistung, weniger Lärm】Dank des verbesserten Stromversorgungssystems mit bis zu 2000 Pa Saugleistung ist der Roboter ideal für die Reinigung von Hartböden und Teppichen geeignet. Das verbesserte Design zur Geräuschreduzierung (56 dB im leisen Reinigungsmodus, vergleichbar mit einer eingeschalteten Mikrowelle), verhindert, dass Sie beim Arbeiten von zu Hause aus durch den Staubsauger gestört werden.
-- 【Tierisch hilfreich】Die neu entwickelte Bürste aus Silikon verhindert Haarverknotungen. Dank des nur 7,9 cm schlanken Gehäuses werden Haare Ihres Haustiers während des Fellwechsels selbst unter dem Sofa aufgesaugt. Gehäuse aus kratzfestem Hartglas.
 - 【Lieferumfang】1 yeedi k650 Saugroboter, 1 Ladestation mit Netzteiladapter, 2 Seitenbürsten, 1 Bürste, 1 waschbares Wischtuch, 5 Einweg-Wischtuch, 1 Multifunktions-Reinigungswerkzeug, 1 Hochleistungs-Staubbehälterfilter, 1 Bedienungsanleitung und unsere 24-monatige Rundum-Sorglos-Garantie.
-- 【Effizient und effektiv】 Der Roboter saugt und wischt gleichzeitig – genießen Sie eine gründliche Reinigung und nutzen Sie die Zeit für andere Dinge.
-- 【Smart-Funktionen】130 Minuten Akkulaufzeit und automatisches Aufladen. Kompatibel mit yeedi-Begrenzungsstreifen – stellen Sie sicher, dass Ihr Roboter nur die gewünschten Bereiche reinigt. (Nicht standardmäßig im Lieferumfang enthalten; erhältlich im yeedi-Shop.) Intelligente Sensoren verhindern Kollisionen und Stürze.
+- 【Tierisch hilfreich】Die neu entwickelte Bürste aus Silikon verhindert Haarverknotungen. Dank des nur 7,9 cm schlanken Gehäuses werden Haare Ihres Haustiers während des Fellwechsels selbst unter dem Sofa aufgesaugt. Gehäuse aus kratzfestem Hartglas.
 - 【Hinweis】Nachdem Sie den Roboter erneut aktivierten, müssen Sie in der APP nach unten scrollen um die Verbindung zu aktivieren.
+- 【Mehr Leistung, weniger Lärm】Dank des verbesserten Stromversorgungssystems mit bis zu 2000 Pa Saugleistung ist der Roboter ideal für die Reinigung von Hartböden und Teppichen geeignet. Das verbesserte Design zur Geräuschreduzierung (56 dB im leisen Reinigungsmodus, vergleichbar mit einer eingeschalteten Mikrowelle), verhindert, dass Sie beim Arbeiten von zu Hause aus durch den Staubsauger gestört werden.
+- 【Smart-Funktionen】130 Minuten Akkulaufzeit und automatisches Aufladen. Kompatibel mit yeedi-Begrenzungsstreifen – stellen Sie sicher, dass Ihr Roboter nur die gewünschten Bereiche reinigt. (Nicht standardmäßig im Lieferumfang enthalten; erhältlich im yeedi-Shop.) Intelligente Sensoren verhindern Kollisionen und Stürze.
+- 【Sprach- und App-Steuerung】Staubsaugen war dank yeedi-App, Amazon Alexa und der Sprachsteuerung von Google Assistant per WLAN noch nie so einfach.
+- 【Effizient und effektiv】 Der Roboter saugt und wischt gleichzeitig – genießen Sie eine gründliche Reinigung und nutzen Sie die Zeit für andere Dinge.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CGV8CRW/?tag=tolees0ca-21)
