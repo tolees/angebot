@@ -29,7 +29,7 @@ Es gibt ein [Mattel Games K0888 UNO Deluxe Kartenspiel  geeignet für 2 - 10 Spi
 ℹ️:
 
 - Das beliebte Kartenspiel kommt inklusive Wertungsblock und Stift
-- Für 2-10 Spieler; Ab 7 Jahren
 - UNO Deluxe kommt in einer exkl.usiven Verpackung und ist damit das ideale Geschenk
+- Für 2-10 Spieler; Ab 7 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000CFWFYM/?tag=tolees0ca-21)
