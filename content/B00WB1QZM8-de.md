@@ -28,8 +28,8 @@ Es gibt ein [Dewalt Hammerbohrer-Set Extreme  6-teilig  160 mm  SDS-plus  Ø 2x 
 
 ℹ️:
 
-- Lieferumfang: 1x Hammerbohrer-Set 160mm bestehend aus Ø 2x 6, 2x 8, 2x 10, in Kunststoffverpackung
 - OriginalDewalt-Zubehör
+- Lieferumfang: 1x Hammerbohrer-Set 160mm bestehend aus Ø 2x 6, 2x 8, 2x 10, in Kunststoffverpackung
 - Optimiertes Bohrkopfdesign mit starkem Kern
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00WB1QZM8/?tag=tolees0ca-21)
