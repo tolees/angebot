@@ -28,8 +28,8 @@ Sie können [Aeotec Smart Switch 7 Z-Wave Plus](https://www.amazon.de/dp/B07XFD9
 
 ℹ️:
 
-- Energiemessfunktion
 - Smart Start und S2 Sicherheitsstandard
+- Energiemessfunktion
 - Eingangsstrom: 230V, 50Hz
 - Ausgangslast: 10A
 - Ausgangsleistung: 2300W
