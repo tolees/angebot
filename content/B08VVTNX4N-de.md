@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.00 % rabat auf AX BOXING Freizeitschuhe Herren Sneaker '
-date: 2021-04-22 05:39:12
+date: 2021-04-23 06:09:25
 image: 'https://m.media-amazon.com/images/I/41+pUc1EhgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'AX BOXING'
 buyurl: 'https://www.amazon.de/dp/B08VVTNX4N/?tag=tolees0ca-21'
 descuento: '15.00'
-average: '35.14'
+average: '34.19'
 ---
 
 Es gibt ein [AX BOXING Freizeitschuhe Herren Sneaker Walkingschuhe Berufsschuhe Sneakers Wanderschuhe Trainers Größe 41-46  Schwarz  Numeric 41 ](https://www.amazon.de/dp/B08VVTNX4N/?tag=tolees0ca-21) mit aktuellem Preis 32.29 EUR (original: 37.99 EUR) 15.00 % Rabatt hier:
