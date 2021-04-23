@@ -29,8 +29,8 @@ Es gibt ein [Max Factor Miracle Prep Pore Minimising & Mattifying Primer – Mit
 ℹ️:
 
 - Mit Hyaluronsäure
-- Grün korrigiert Rötungen und lila wirkt mattierend
 - Leicht verblendbare Textur bildet die Basis für das Make-up, Grün korrigiert Rötungen und lila wirkt mattierend, Mit Hyaluronsäure, Verlängert den Halt des Make-ups
 - Verlängert den Halt des Make-ups
+- Grün korrigiert Rötungen und lila wirkt mattierend
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPW384C/?tag=tolees0ca-21)
