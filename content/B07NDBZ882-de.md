@@ -28,10 +28,10 @@ Es gibt ein [Transcend 960GB USB 3.1 Gen 2 USB Type-C ESD250C Portable SSD Solid
 
 ℹ️:
 
-- USB 3.1 Gen 2 Schnittstelle mit Unterstützung von UASP (USB Attached SCSI Protokoll)
 - Bis zu 520 MB/s lesen; 460 MB/s schreiben
-- robustes metallisches Gehäuse in einem stylischen grauen Farbton
-- enthält ein USB Type-C Kabel und ein USB Type-C zu Type-A Kabel
 - 3D NAND Flash Speicher
+- enthält ein USB Type-C Kabel und ein USB Type-C zu Type-A Kabel
+- USB 3.1 Gen 2 Schnittstelle mit Unterstützung von UASP (USB Attached SCSI Protokoll)
+- robustes metallisches Gehäuse in einem stylischen grauen Farbton
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07NDBZ882/?tag=tolees0ca-21)
