@@ -28,8 +28,8 @@ Es gibt ein [Schiesser Damen Starlet Taillenslip  2 Pack  Taillenslips  Rot  Aub
 
 ℹ️:
 
+- im Uni Design
 - Trocknen niedrige Temperatur, Bügeln heiß
 - Material: 100% Baumwolle
-- im Uni Design
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01M1ZCI94/?tag=tolees0ca-21)

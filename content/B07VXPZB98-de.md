@@ -28,9 +28,9 @@ Es gibt ein [Warner Bros. - LEGO Jurassic World - [Nintendo Switch]](https://www
 
 ℹ️:
 
-- Wählen Sie aus 20 Dinosauriern, die Angst und Schrecken verbreiten oder erschaffen Sie Ihre eigenen
-- Lego Jurassic World ist das erste Videospiel, in dem Spieler Schlüsselmomente und unvergessliche Szenen aus allen vier Jurassic-Filmen erleben können
 - Erkunden Sie die weitläufigen Gegenden von Isla Nublar und Isla Sorna indem Sie die eigenen Saurier auf die Weide stellen
 - Mit Zugriff auf sechs Charaktere, zwei Fahrzeuge, das Jurassic-Einsatzfahrzeug, das Jurassic world-Shuttle und mehr
+- Wählen Sie aus 20 Dinosauriern, die Angst und Schrecken verbreiten oder erschaffen Sie Ihre eigenen
+- Lego Jurassic World ist das erste Videospiel, in dem Spieler Schlüsselmomente und unvergessliche Szenen aus allen vier Jurassic-Filmen erleben können
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07VXPZB98/?tag=tolees0ca-21)
