@@ -30,8 +30,8 @@ Es gibt ein [Egeria 25001 Prestige Handtuch  Baumwolle  mauve  Größe 50 x 100 
 
 - Geprüfte Qualität - dieser Artikel untersteht laufenden Kontrollen und ist nach Öko-Tex-Standard 100 zertifiziert (Prüfnummer: 09.0.67812).
 - Pflegeleicht - 60°C Maschinenwäsche - Trocknergeeignet
-- Frottier, 100% Baumwolle, Flächengewicht in g/m²: ca. 600, Größe 50x100 cm
-- Das Uni Programm ist erhältlich in 20 verschieden Farben als Waschhandschuh, Seiftuch, Gästetuch, Handtuch und Duschtuch
 - 100% amerikanische SUPIMA Baumwolle, die aus feinen und extralangen Fasern besteht
+- Das Uni Programm ist erhältlich in 20 verschieden Farben als Waschhandschuh, Seiftuch, Gästetuch, Handtuch und Duschtuch
+- Frottier, 100% Baumwolle, Flächengewicht in g/m²: ca. 600, Größe 50x100 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007SN4YEK/?tag=tolees0ca-21)

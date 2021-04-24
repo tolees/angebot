@@ -28,8 +28,8 @@ Sie können [NUK Easy Learning Mini-Besteck  Kunststoff  ideal zum Essenlernen  
 
 ℹ️:
 
-- Passend zum NUK EASY LEARNING Geschirr
 - Abgerundete Ränder und Zinken für optimale Sicherheit
+- Passend zum NUK EASY LEARNING Geschirr
 - Gabel und Löffel aus Kunststoff, spülmaschinengeeignet
 - Besonders kindermundgerecht durch extra kleine Form
 - Ergonomisch geformte Anti-Rutsch-Griffe
