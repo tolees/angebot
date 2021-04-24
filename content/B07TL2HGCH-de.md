@@ -29,8 +29,8 @@ Es gibt ein [HUAWEI E5576-320 LTE Mobile Wi-Fi  bis zu 150 MBit/s  Weiß](https:
 ℹ️:
 
 - 1 x Mini-SIM-Steckplatz.
+- Lte Cat 4
 - Bis zu 16 WLAN-Geräte
 - Akku 1500 mAh
-- Lte Cat 4
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07TL2HGCH/?tag=tolees0ca-21)
