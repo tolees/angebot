@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.47 % rabat auf camel active Herren 488815/9524 Jeans  B'
-date: 2021-04-23 19:07:52
+date: 2021-04-24 19:29:33
 image: 'https://m.media-amazon.com/images/I/41Zk9Bdh-EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'camel active'
 buyurl: 'https://www.amazon.de/dp/B00K8OV6ZQ/?tag=tolees0ca-21'
 descuento: '44.47'
-average: '46.5833333333333'
+average: '47.425'
 ---
 
 Es gibt ein [camel active Herren 488815/9524 Jeans  Blau  Stone Blue Used 42   W33/ L34  Herstellergröße: 33/34 ](https://www.amazon.de/dp/B00K8OV6ZQ/?tag=tolees0ca-21) mit aktuellem Preis 49.95 EUR (original: 89.95 EUR) 44.47 % Rabatt hier:
