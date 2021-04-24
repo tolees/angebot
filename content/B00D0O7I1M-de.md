@@ -28,10 +28,10 @@ Sie können [WM aquatec Silbernetz zur autom. Wasserkonservierung für Frischwas
 
 ℹ️:
 
-- automatische Dosierung von Silberionen - bei jeder neuen Tankfüllung
-- Produktwechsel nur 1x jährlich (max. 2 Jahre)
-- Wasserkonservierung für Wohnwagen, Wohnmobile und Boote
 - effektiver Schutz vor Verkeimung des Wassers und des Frischwassersystems
+- Wasserkonservierung für Wohnwagen, Wohnmobile und Boote
 - für Tankgrößen bis 60 Liter (max. 7500 Liter Konservierungsleistung)
+- Produktwechsel nur 1x jährlich (max. 2 Jahre)
+- automatische Dosierung von Silberionen - bei jeder neuen Tankfüllung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00D0O7I1M/?tag=tolees0ca-21)

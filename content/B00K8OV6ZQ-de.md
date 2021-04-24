@@ -28,7 +28,7 @@ Es gibt ein [camel active Herren 488815/9524 Jeans  Blau  Stone Blue Used 42   W
 
 ℹ️:
 
-- camel active 5-Pocket "Houston" aus einem 11 oz Stretch-Denim
 - leichte 3D-Falten sowie eine Fußweite von 34cm
+- camel active 5-Pocket "Houston" aus einem 11 oz Stretch-Denim
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00K8OV6ZQ/?tag=tolees0ca-21)
