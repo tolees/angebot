@@ -1,38 +1,38 @@
 ---
 layout: post
-title: '28.08 % rabat auf LEGO 76384 Harry Potter Hogwarts Moment:'
-date: 2021-04-07 09:26:05
-image: 'https://m.media-amazon.com/images/I/51L-G72WnvL._SL400_.jpg'
+title: '28.24 % rabat auf LEGO 76384 Harry Potter Hogwarts Moment:'
+date: 2021-04-24 08:07:39
+image: 'https://m.media-amazon.com/images/I/51L-G72WnvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08G4KSBXK-de LEGO 76384 Harry Potter Hogwarts Moment:...'
 sku: 'B08G4KSBXK-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 21.57 EUR
+actualPrice: 21.52 EUR
 currency: EUR
-price: 21.57
+price: 21.52
 comparePrice: 29.99 EUR
 prodname: 'LEGO 76384 Harry Potter Hogwarts Moment: Kräuterkundeunterricht Set  Spielzeugkoffer mit Minifiguren  Sammlerstück'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4KSBXK/?tag=tolees0ca-21'
-descuento: '28.08'
-average: '25.2510638297871'
+descuento: '28.24'
+average: '25.2117894736841'
 ---
 
-Es gibt ein [LEGO 76384 Harry Potter Hogwarts Moment: Kräuterkundeunterricht Set  Spielzeugkoffer mit Minifiguren  Sammlerstück](https://www.amazon.de/dp/B08G4KSBXK/?tag=tolees0ca-21) mit aktuellem Preis 21.57 EUR (original: 29.99 EUR) 28.08 % Rabatt hier:
+Es gibt ein [LEGO 76384 Harry Potter Hogwarts Moment: Kräuterkundeunterricht Set  Spielzeugkoffer mit Minifiguren  Sammlerstück](https://www.amazon.de/dp/B08G4KSBXK/?tag=tolees0ca-21) mit aktuellem Preis 21.52 EUR (original: 29.99 EUR) 28.24 % Rabatt hier:
 
-[![LEGO 76384 Harry Potter Hogwarts Moment:](https://m.media-amazon.com/images/I/51L-G72WnvL._SL400_.jpg)](https://www.amazon.de/dp/B08G4KSBXK/?tag=tolees0ca-21)
+[![LEGO 76384 Harry Potter Hogwarts Moment:](https://m.media-amazon.com/images/I/51L-G72WnvL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4KSBXK/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Dieses magische Set aus der „Hogwarts Moment“ Reihe ist 12 cm hoch, 8 cm breit und 4 cm dick - die ideale Größe, um das Set mitzunehmen oder im Bücherregal aufzubewahren
+- Authentisches Zubehör wie der Silberspaten, die Gartenschere und die Gewächshauskulisse sind Kindern aus den Harry Potter Filmen vertraut
 - LEGO Harry Potter Hogwarts Moment: Kräuterkundeunterricht (76384) ist ein Bauset aus LEGO Steinen in Buchform, das beim Aufklappen das Gewächshaus auf Hogwarts preisgibt, in dem gerade Kräuterkunde unterrichtet wird
-- Schlag das Buch auf, um Professor Sprouts Kräuterkundeunterricht zu besuchen. Es gibt Gartengeräte und verwunschene Pflanzen zum Üben – sowie Hinweisschilder, die vor der unberechenbaren Alraune warnen
 - Für Kinder ab 8 Jahren. Tolles Geschenk für Fans, die Harry Potter Abenteuer einmal auf eine ganz andere Art und Weise erleben möchten
 - Enthält Cedric Diggory, Neville Longbottom und Professor Sprout als Minifiguren sowie ein Zauberbuch, ein Kürbisbeet, eine Zapfstelle mit Eimer und goldenem Wasserhahn sowie eine Gewächshauskulisse
-- Authentisches Zubehör wie der Silberspaten, die Gartenschere und die Gewächshauskulisse sind Kindern aus den Harry Potter Filmen vertraut
+- Schlag das Buch auf, um Professor Sprouts Kräuterkundeunterricht zu besuchen. Es gibt Gartengeräte und verwunschene Pflanzen zum Üben – sowie Hinweisschilder, die vor der unberechenbaren Alraune warnen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4KSBXK/?tag=tolees0ca-21)
