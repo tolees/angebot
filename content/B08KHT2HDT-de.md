@@ -28,11 +28,11 @@ Es gibt ein [Marshall Major IV Bluetooth Faltbar Kopfhörer - Schwarz](https://w
 
 ℹ️:
 
-- der major iv verbindet verbesserte benutzerfreundlichkeit mit klassischen marshall-elementen zu einem legendären und gleichzeitig innovativen design
+- der major iv kann ohne kabel aufgeladen werden – noch nie war das aufladen so einfach. Kabelloser Anschluss: Bluetooth 5.0
 - der major iv liefert mehr als 80 stunden kabellose spieldauer
-- das neue, verbesserte ergonomische design des major iv sorgt dafür, dass er nach zehn stunden noch genauso komfortabel ist wie am anfang
 - Welche komponenten sind im lieferumfang des produkts enthaltenen: Audio (3,5 mm), Micro-USB
 - ein einzelner bedienknopf räumt dir die volle kontrolle über deinen kopfhörer ein
-- der major iv kann ohne kabel aufgeladen werden – noch nie war das aufladen so einfach. Kabelloser Anschluss: Bluetooth 5.0
+- der major iv verbindet verbesserte benutzerfreundlichkeit mit klassischen marshall-elementen zu einem legendären und gleichzeitig innovativen design
+- das neue, verbesserte ergonomische design des major iv sorgt dafür, dass er nach zehn stunden noch genauso komfortabel ist wie am anfang
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KHT2HDT/?tag=tolees0ca-21)
