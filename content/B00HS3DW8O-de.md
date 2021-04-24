@@ -28,9 +28,9 @@ Es gibt ein [Sigma 18-200mm F3 5-6 3 DC Macro OS HSM Contemporary Objektiv  62mm
 
 ℹ️:
 
-- Einstiegsausstattung für digitale SLR-Kameras und für zahlreiche Bereiche der Fotografie z.b. Landschaften, Schnappschüsse, Straßenszenen, aber auch für die Makrofotografie geeignet
-- Universal Zoomobjektiv der Produktlinie C Leistungsstark und dennoch kompakt und leicht
 - OS (Optical Stabilizer) und HSM (Hyper Sonic Motor)
 - Lieferumfang Objektiv, Frontdeckel, Rückdeckel, Gegenlichtblende LH676-01, Garantiekarte, Bedienungsanleitung
+- Einstiegsausstattung für digitale SLR-Kameras und für zahlreiche Bereiche der Fotografie z.b. Landschaften, Schnappschüsse, Straßenszenen, aber auch für die Makrofotografie geeignet
+- Universal Zoomobjektiv der Produktlinie C Leistungsstark und dennoch kompakt und leicht
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HS3DW8O/?tag=tolees0ca-21)
