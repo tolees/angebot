@@ -28,11 +28,11 @@ Es gibt ein [AEG AEL06  2 Anti-Kalk-Patronen  Passend u.a. für AEG DBS 3340  DB
 
 ℹ️:
 
-- Passend u.a. für AEG DBS 3340, DBS 3350, DBS 3350-1
-- Inhalt: 2 Anti-Kalk-Patronen
 - Für eine optimale Leistung der Dampfbügelstation muss die Anti-Kalk-Patrone regelmäßig getauscht werden, abhängig von der lokalen Wasserhärte und dem Nutzungsverhalten
 - Verhindert den Aufbau einer Kalkschicht
-- Original Anti-Kalk-Patrone für Dampfbügelstation AEG DBS 3350, Electrolux EDBS 3350
 - Garantiert damit eine längere Lebensdauer der Dampfstation
+- Inhalt: 2 Anti-Kalk-Patronen
+- Original Anti-Kalk-Patrone für Dampfbügelstation AEG DBS 3350, Electrolux EDBS 3350
+- Passend u.a. für AEG DBS 3340, DBS 3350, DBS 3350-1
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JE4Z4A4/?tag=tolees0ca-21)

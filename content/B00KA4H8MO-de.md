@@ -28,10 +28,10 @@ Es gibt ein [daskeyboard - Das Keyboard 4 Ultimate Soft Tactile I Cherry MX Blue
 
 ℹ️:
 
-- Total unbeschrifet: Tippe schneller als du es jemals für möglich gehalten hast auf dieser unbeschrifteten mechanischen Tastatur. Das Keyboard 4 Ultimate ist eine total unbeschriftete Tastatur für Extrem-Tipper und Hardcore-Gamer
-- Ultradünnes und leichtes, schlankes und exquisites Design I Magnetische Fußleiste, um die Tastatur in einem perfekten 4-Grad-Winkel aufzustellen, dient gleichzeitig als Lineal I Das Keyboard bietet Komfort und vermeidet Belastungen beim Tippen
 - Top ausgestattet: SuperSpeed USB 3.0 Hub mit zwei Anschlüssen I Tastenschalter mit Goldkontakten I Dedizierte Mediensteuerungen mit besonders großem Lautstärkeregler
 - Höchste Qualität: Hochwertiges Gehäuse aus Aluminium und mattiertem Kunststoff in edlem und professionellem Design I Mechanische Tastatur mit langlebigen und präzisen Cherry MX Brown Schaltern, die beim Tastendruck für hohe Auslösegeschwindigkeit sorgen
+- Ultradünnes und leichtes, schlankes und exquisites Design I Magnetische Fußleiste, um die Tastatur in einem perfekten 4-Grad-Winkel aufzustellen, dient gleichzeitig als Lineal I Das Keyboard bietet Komfort und vermeidet Belastungen beim Tippen
 - Professionelles Arbeiten: N-Key Rollover (NKRO), damit du dich beim Spielen, Programmieren oder jeder anderen Tätigkeit noch schneller auf dem Spielfeld oder dem beruflichen Parkett behaupten kannst I Instant-Sleep-Knopf, um den Ruhezustand zu aktivieren und den Energieverbrauch zu senken
+- Total unbeschrifet: Tippe schneller als du es jemals für möglich gehalten hast auf dieser unbeschrifteten mechanischen Tastatur. Das Keyboard 4 Ultimate ist eine total unbeschriftete Tastatur für Extrem-Tipper und Hardcore-Gamer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00KA4H8MO/?tag=tolees0ca-21)

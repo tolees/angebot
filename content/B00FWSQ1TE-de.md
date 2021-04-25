@@ -28,10 +28,10 @@ Sie können [NUK Fresh Foods Frischebehälter zur Aufbewahrung von Babynahrung i
 
 ℹ️:
 
-- Auch zum Einfrieren geeignet
-- Stapelbar und platzsparend
-- BPA frei
-- Babykost einfach aufbewahren
 - Jede Packung enthält 6 Behälter: 2x 65ml, 2x 75ml und 2x 85ml
+- Babykost einfach aufbewahren
+- BPA frei
+- Stapelbar und platzsparend
+- Auch zum Einfrieren geeignet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00FWSQ1TE/?tag=tolees0ca-21)

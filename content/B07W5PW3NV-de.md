@@ -1,37 +1,40 @@
 ---
 layout: post
-title: 'LEGO Produkttitel fehlt - Wird nachgerei mit 25.51 % Rabatt'
-date: 2021-04-14 16:34:46
+title: 'LEGO 75268 Star Wars Snowspeeder  Vertei mit 25.61 % Rabatt'
+date: 2021-04-25 08:12:43
 image: 'https://m.media-amazon.com/images/I/51cpIc64bzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W5PW3NV-de LEGO Produkttitel fehlt - Wird nachgereicht'
+slug: 'B07W5PW3NV-de LEGO 75268 Star Wars Snowspeeder Verteidigungsstation und...'
 sku: 'B07W5PW3NV-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 14.89 EUR
+actualPrice: 14.87 EUR
 currency: EUR
-price: 14.89
+price: 14.87
 comparePrice: 19.99 EUR
-prodname: 'LEGO Produkttitel fehlt - Wird nachgereicht'
+prodname: 'LEGO 75268 Star Wars Snowspeeder  Verteidigungsstation und Speeder-Bike  Spielset mit Starter-Stein für Vorschulkinder ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21'
-descuento: '25.51'
-average: '17.4320224719102'
+descuento: '25.61'
+average: '17.4035555555556'
 ---
 
-Sie können [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21) mit Preis 14.89 EUR (original: 19.99 EUR) 25.51 % Rabatt hier:
+Sie können [LEGO 75268 Star Wars Snowspeeder  Verteidigungsstation und Speeder-Bike  Spielset mit Starter-Stein für Vorschulkinder ab 4 Jahren](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21) mit Preis 14.87 EUR (original: 19.99 EUR) 25.61 % Rabatt hier:
 
-[![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51cpIc64bzL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
+[![LEGO 75268 Star Wars Snowspeeder  Vertei](https://m.media-amazon.com/images/I/51cpIc64bzL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
+- Keine Batterien erforderlich; Als Antrieb reicht diesem Bau- und Lernspielzeug die Fantasie der Kinder, die bei unzähligen Abenteuern kreativ werden können
+- Der Snowspeeder verfügt über ein Starter-Fahrgestell, das Kindern das Bauen erleichtert; 2 Minifiguren-der Star Wars Rebellenpilot Wedge Antilles und ein Schneetruppler mit Ausrüstung-lassen die Kinder kreativ werden und eigene Rollenspiele erfinden
+- LEGO Star Wars 4+ Bauspielzeuge stellen jüngeren Kindern das Star Wars Universum mit seinen Helden und Bösewichten vor, helfen ihnen, die einzelnen Bauschritte zu verstehen und stärken ihr Selbstvertrauen
+- Das Bauspielzeug (75268) enthält einfach zu bauende Modelle (Snowspeeder, Speeder-Bike und Echo-Basis), um kleine Rebellen ab 4 Jahren behutsam an den LEGO Star Wars Actionspaß heranzuführen
+- Die Echo-Basis ist mit einem Laser-Scheibenshooter für Wedge Antilles ausgestattet; Die Kinder können die Steine aber auch mit anderen LEGO Star Wars Sets kombinieren, um eigene kreative Modelle entstehen zu lassen
+- Die 3 Modelle lassen sich einfach bauen und nach dem Actiongetümmel auch schnell wieder reparieren; Das 91-teilige LEGO Star Wars Starter-Set ist eine tolle Überraschung für Kinder ab 4 Jahren - zu Weihnachten, zum Geburtstag oder zu besonderen Anlässen
+- Der Snowspeeder ist 5 cm hoch, 11 cm lang und 9 cm breit; Das Bauspielzeug lässt sich leicht zusammen mit den anderen Star Wars Modellen und Minifiguren in einer Tasche verstauen, um Kinder überall zu beschäftigen
+- Instructions PLUS verschaffen Kindern ein tolles interaktives Bauerlebnis, denn diese digitale Bauanleitung enthält intuitive Funktionen zum Vergrößern und Drehen der Modellansicht, die das Bauen dieses LEGO Star Wars Spielsets erleichtern
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)

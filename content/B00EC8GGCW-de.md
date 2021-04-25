@@ -28,10 +28,10 @@ Es gibt ein [Maybelline New York Lippenpflege  Feuchtigkeitsspendender Pflegebal
 
 ℹ️:
 
-- Mit pflanzlichem Reparaturkonzentrat angereicherte, tiefenwirksame Formel und Lichtschutzfaktor 20, Herstellung entsprechend EU-Regulierungen
-- Ergebnis: Babyweiche Lippen in einem dezenten Rot-Ton, Deutlich gepflegtere und zartere Lippen nach 4 Wochen
 - Lieferumfang: 1x Maybelline New York Baby Lips Lippenpflegebalsam, Farbe: Cherry Me, Inhalt: 4,8 g, Made in France
-- Feuchtigkeitsspendender, intensiv pflegender Balsam mit leichtem Duft für die Reparatur spröder Lippen und zum Schutz vor UV-Strahlen
+- Mit pflanzlichem Reparaturkonzentrat angereicherte, tiefenwirksame Formel und Lichtschutzfaktor 20, Herstellung entsprechend EU-Regulierungen
 - Anwendung wie bei einem Lippenstift: Auftragen von innen nach außen, Nach Bedarf wiederholen
+- Feuchtigkeitsspendender, intensiv pflegender Balsam mit leichtem Duft für die Reparatur spröder Lippen und zum Schutz vor UV-Strahlen
+- Ergebnis: Babyweiche Lippen in einem dezenten Rot-Ton, Deutlich gepflegtere und zartere Lippen nach 4 Wochen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EC8GGCW/?tag=tolees0ca-21)

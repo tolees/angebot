@@ -28,8 +28,8 @@ Es gibt ein [La Roche-Posay - La Roche Posay Toleriane Ultra Creme  40 ml](https
 
 ℹ️:
 
-- Ref - 897-12486
 - Marke - La Roche Posay
 - Inhalt - 40ml
+- Ref - 897-12486
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004JKNYL4/?tag=tolees0ca-21)
