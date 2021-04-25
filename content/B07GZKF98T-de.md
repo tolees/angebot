@@ -28,10 +28,10 @@ Es gibt ein [12M Led Lichterkette OMERIL 120er USB Lichterkette Draht Wasserdich
 
 ℹ️:
 
-- ✨Premium-Qualität & Verbiegbar: Hergestellt aus hochwertigem Silberdraht mit guter Weichheit und Zähigkeit, können leicht gebogen und um Pflanzen, Schilder, Möbel und fast alles andere geformt werden. Unverzichtbar für Party, im Garten, ihrer Wohnräume, Außen-Dekoration, und vieles mehr.
+- ✨IP65 Wasserdicht: Versorgt Ihre Lichterkette mit einem guten Schutz gegen Spritzwasser oder Sprühwasser aus jedem Winkel. Ideal für den Innen- und Außenbereich.
 - ✨24 Monate Garantie: Wenn Sie nicht zu 100% zufrieden mit unser Lichterkette sind, können Sie sich jeder Zeit an uns wenden. Wir bieten Ihnen eine Rückerstattung oder einen kostenlosen Ersatzservice an.
 - ✨ Für Den Perfekten Moment: Der LED Lichterkette mit 120 Stück 2700-2900K warmweißen LEDs, schafft eine warme romantische entspannende Atmosphäre für Ihre Zimmer, Terrasse, Garten, Treppen, Hochzeit, Party usw. Es ist auch ein gutes Geschenk für Ihre Kinder, Freunde und Familien.
+- ✨Premium-Qualität & Verbiegbar: Hergestellt aus hochwertigem Silberdraht mit guter Weichheit und Zähigkeit, können leicht gebogen und um Pflanzen, Schilder, Möbel und fast alles andere geformt werden. Unverzichtbar für Party, im Garten, ihrer Wohnräume, Außen-Dekoration, und vieles mehr.
 - ✨USB Kabel, Sicher und Praktisch: Die Silberdraht besitzt ein 1.5M langes USB Kabel und funktioniert mit 5V Ladegerät, Powerbank, Laptop, usw., damit kein Stromschlagrisiko. Sehr geringer Stromverbrauch mit nur ca. 3W. Nach längerem Gebrauch werden die LEDs auch nie heiß. Sie können sie so auch an einen Vorhang oder Baum hängen, sehr sicher.
-- ✨IP65 Wasserdicht: Versorgt Ihre Lichterkette mit einem guten Schutz gegen Spritzwasser oder Sprühwasser aus jedem Winkel. Ideal für den Innen- und Außenbereich.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GZKF98T/?tag=tolees0ca-21)
