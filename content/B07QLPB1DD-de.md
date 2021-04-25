@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Voovix Herren Trekkingschuhe Damen Wande mit 15.00 % Rabatt'
-date: 2021-04-22 06:09:44
+date: 2021-04-25 06:47:26
 image: 'https://m.media-amazon.com/images/I/41+UkTTJhML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
