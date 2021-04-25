@@ -28,10 +28,10 @@ Es gibt ein [Layenberger 3K Protein Shake Beeren Mix   1 x 360 g ](https://www.a
 
 ℹ️:
 
-- Mit hochwertigem 3-Komponenten-Eiweiß (Milch-, Molken- und Sojaeiweiß), nur 4,3 Prozent Kohlenhydrate, zusätzlich mit Vitaminen, Calcium und BCAA versehen, glutenfrei. Ideal auch als Backzutat zu verwenden
-- Lieferumfang: 1 Dose Layenberger 3K Protein Shake, Inhalt: 360 g. Qualitätsprodukt "Made in Germany". Geschmacksrichtung Beeren-Mix
-- Durch die Weiterentwicklung unserer Produkte kann es im Vergleich zum gelieferten Produkt ggf. zu Abweichungen der dargestellten Verpackung und der Inhaltsangaben kommen
-- Der hohe Proteingehalt sorgt für eine langanhaltende Sättigung, eine optimale Regeneration, sowie Erhalt und Aufbau der Muskulatur. Die reduzierten Kohlenhydrate hingegen wirken entlastend auf den Blutzuckerspiegel und vermeiden so Heißhungerattacken
 - Der Turbo für den zusätzlichen Eiweißbedarf: mit 80 Prozent Eiweiß besonders empfehlenswert für sportlich Aktive und bei körperlicher Mehrbelastung
+- Lieferumfang: 1 Dose Layenberger 3K Protein Shake, Inhalt: 360 g. Qualitätsprodukt "Made in Germany". Geschmacksrichtung Beeren-Mix
+- Der hohe Proteingehalt sorgt für eine langanhaltende Sättigung, eine optimale Regeneration, sowie Erhalt und Aufbau der Muskulatur. Die reduzierten Kohlenhydrate hingegen wirken entlastend auf den Blutzuckerspiegel und vermeiden so Heißhungerattacken
+- Durch die Weiterentwicklung unserer Produkte kann es im Vergleich zum gelieferten Produkt ggf. zu Abweichungen der dargestellten Verpackung und der Inhaltsangaben kommen
+- Mit hochwertigem 3-Komponenten-Eiweiß (Milch-, Molken- und Sojaeiweiß), nur 4,3 Prozent Kohlenhydrate, zusätzlich mit Vitaminen, Calcium und BCAA versehen, glutenfrei. Ideal auch als Backzutat zu verwenden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00H96PXGE/?tag=tolees0ca-21)

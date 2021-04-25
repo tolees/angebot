@@ -28,9 +28,9 @@ Es gibt ein [Bosch Professional Säbelsägeblatt S 1156 XHM Progressor for Wood 
 
 ℹ️:
 
+- Progressiv ansteigende Zahnteilung ermöglicht schnelle Schnitte in Materialien mit unterschiedlichen Dichten
 - Breiter, verjüngter Körper (25 mm) und dicke Wandstärke (1,25 mm) bieten die für den Abriss notwendige Stabilität
 - Geschliffene Carbide-Zähne für das Schneiden von hochfestem Stahl in Holz. Carbide Technology für härteste Arbeiten
-- Progressiv ansteigende Zahnteilung ermöglicht schnelle Schnitte in Materialien mit unterschiedlichen Dichten
 - S 1156 XHM Progressor for Wood and Metal Säbelsägeblatt bietet ultimative Lebensdauer für Abrissarbeiten
 - Ultimative Blattlebensdauer für Abriss von dicken und dünnen Materialien
 
