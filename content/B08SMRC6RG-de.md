@@ -28,10 +28,10 @@ Es gibt ein [CALIYO - FFP2 Maske 20 STK mit CE2834 Zertifiziert  Partikelfiltrie
 
 ℹ️:
 
-- Jede Maske ist einzelverpackt. Dies sorgt für absolute Hygiene. HINWEIS: Bei der Anleitung Bild Nr. 4 auf der Verpackung ist ein Druckfehler. Es sind keine Clips für die Bänder vorhanden!
-- Atemschutzmasken in Übereinstimmung mit der Richtlinie 2016/425 / EU und EN 149: 2001 + A1: 2009
 - 100% atmungsaktiv! Mit weichen und elastischen Ohrschlaufen und einem biegsamen Nasenbügel passt sich die Maske an jeder Nase und jedem Gesicht ideal an.
-- 20 Stk Partikelfilterierende FFP2 Schutzmasken 5-Lagig
+- Atemschutzmasken in Übereinstimmung mit der Richtlinie 2016/425 / EU und EN 149: 2001 + A1: 2009
 - FFP2 Maske filtert über 95% der Wasserhaltiger und Ölhaltiger Aerisole, Partikel sowie Feinstaub
+- 20 Stk Partikelfilterierende FFP2 Schutzmasken 5-Lagig
+- Jede Maske ist einzelverpackt. Dies sorgt für absolute Hygiene. HINWEIS: Bei der Anleitung Bild Nr. 4 auf der Verpackung ist ein Druckfehler. Es sind keine Clips für die Bänder vorhanden!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08SMRC6RG/?tag=tolees0ca-21)
