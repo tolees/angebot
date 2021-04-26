@@ -29,7 +29,7 @@ Sie können [Bethesda - DOOM Eternal [PC]](https://www.amazon.de/dp/B07DNK55PG/?
 ℹ️:
 
 - Dank der Power der idTech 7-Engine und des packenden Soundtracks von Mick Gordon fühlen Sie sich in Doom Eternal in der Haut des unaufhaltsamen Doom-Slayers mächtiger denn je
-- Das nächste Level in Sachen knallharter First Person Action
 - Zerfetzen Sie mit Ihren mächtigen Waffen und bekannte Dämonen und besuchen Sie dabei unglaubliche, noch nie zuvor gesehene Welten
+- Das nächste Level in Sachen knallharter First Person Action
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DNK55PG/?tag=tolees0ca-21)

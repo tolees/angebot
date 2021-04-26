@@ -28,8 +28,8 @@ Sie können [Giorgio Armani Collezioni Eau de Toilette Stronger with you emporio
 
 ℹ️:
 
-- Marke Beauty-Produkte
-- Eau de Cologne für Männer
 - Marke Giorgio Armani
+- Eau de Cologne für Männer
+- Marke Beauty-Produkte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B071SGZ7CK/?tag=tolees0ca-21)

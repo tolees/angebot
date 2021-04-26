@@ -29,9 +29,9 @@ Es gibt ein [Philips AVENT SCF802/02 Trinklernbecher  violett](https://www.amazo
 ℹ️:
 
 - Trinkbecher aus BPA-freien Materialien
-- Auslaufsicherer Silikonschnabel, von Müttern bestätigt
-- Wenige Einzelteile erleichtern die Reinigung und den Zusammenbau. Alle Teile sind spülmaschinenfest
 - Rutschfeste Oberfläche und ergonomische Form für kleine Hände, die dabei helfen selbstständig zu trinken
 - Flexibler Silikonschnabel ist sanft für das Zahnfleisch von kleinen, wachsenden Zähnen
+- Wenige Einzelteile erleichtern die Reinigung und den Zusammenbau. Alle Teile sind spülmaschinenfest
+- Auslaufsicherer Silikonschnabel, von Müttern bestätigt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4MF2RL/?tag=tolees0ca-21)
