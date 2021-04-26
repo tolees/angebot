@@ -28,9 +28,9 @@ Es gibt ein [LEGO 10886 DUPLO Meine ersten Fahrzeuge  Bauset mit 4 baubaren Fahr
 
 ℹ️:
 
-- Das Set enthält zudem einen bedruckten Ampel-Stein sowie bedruckte Steine mit verschiedenen Fenstern, Fahrern und Passagieren.
 - Fördere die soziale und emotionale Entwicklung, während dein Kind mit den bedruckten Figuren, die in den niedlichen Spielzeug-Fahrzeugen für Kinder durch die Gegend fahren, Rollenspiele spielt.
 - Sei gemeinsam mit dem Kleinkind kreativ und fördere beim Bauen toller Fahrzeuge seine feinmotorischen Fähigkeiten.
+- Das Set enthält zudem einen bedruckten Ampel-Stein sowie bedruckte Steine mit verschiedenen Fenstern, Fahrern und Passagieren.
 - Das Set enthält 4 baubare LEGO DUPLOFahrzeuge: einen Feuerwehrwagen, einen Hubschrauber, ein Taxi und einen Müllwagen.
 - Rege die Fantasie deines Kindes an, während es verschiedenste wundervolle, bunte Autos gestaltet.
 
