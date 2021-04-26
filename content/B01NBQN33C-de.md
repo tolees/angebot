@@ -28,9 +28,9 @@ Sie können [SEIZ Mechanic 800185 Universeller Handschuh für Rettungskräfte  G
 
 ℹ️:
 
+- Innenhand aus robustem Spaltleder in Grau mit einer zusätzlichen Verstärkung zwischen Zeigefinger und Daumen
 - Stulpe mit Klettverschluss und einer Öse zur Befestigung der Handschuhe an der Einsatzjacke
 - Innenfutter aus Nylon-Fleece
 - Rückhand aus gelbem Nylon und einem Knöchelschutz aus schwarzem Neopren
-- Innenhand aus robustem Spaltleder in Grau mit einer zusätzlichen Verstärkung zwischen Zeigefinger und Daumen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NBQN33C/?tag=tolees0ca-21)

@@ -29,7 +29,7 @@ Sie können [PUMA Herren Boxershort Limited Statement Edition 6er Pack - Blue Po
 ℹ️:
 
 - Besonders elastischer Komfortbund.
-- 95% Baumwolle / 5% Elasthan
 - Der Bestseller von Puma im 6er-Pack.
+- 95% Baumwolle / 5% Elasthan
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08TB2VDH7/?tag=tolees0ca-21)
