@@ -28,8 +28,8 @@ Sie können [SEIZ Mechanic 800185 Universeller Handschuh für Rettungskräfte  G
 
 ℹ️:
 
-- Innenfutter aus Nylon-Fleece
 - Stulpe mit Klettverschluss und einer Öse zur Befestigung der Handschuhe an der Einsatzjacke
+- Innenfutter aus Nylon-Fleece
 - Rückhand aus gelbem Nylon und einem Knöchelschutz aus schwarzem Neopren
 - Innenhand aus robustem Spaltleder in Grau mit einer zusätzlichen Verstärkung zwischen Zeigefinger und Daumen
 
