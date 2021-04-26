@@ -28,10 +28,10 @@ Es gibt ein [De Longhi Nespresso Vertuo Next ENV 120.W Kaffeekapselmaschine  wei
 
 ℹ️:
 
-- 6 Tassengrößen voreingestellt: Espresso (40 ml), Double Espresso (80 ml), Gran Lungo (150 ml), Mug (230 ml), Alto (414 ml) und Vertuo Carafe (535 ml)
-- Lieferumfang: DeLonghi Nespresso Vertuo Next ENV 120.W Kaffeekapselmaschine, weiß
-- Premium-Kaffee zum Teilen: Bis zu 535 ml Kaffee auf Knopfdruck (mit spezieller Vertuo Carafe Kapsel) - Glaskararaffe als Zubehör erhältlich
-- Automatische Erkennung der Kaffeesorte durch die eingelegte Kapsel dank Barcode-Erfassung bei der Zubereitung
 - Nespresso Vertuo Kapselsystem
+- Premium-Kaffee zum Teilen: Bis zu 535 ml Kaffee auf Knopfdruck (mit spezieller Vertuo Carafe Kapsel) - Glaskararaffe als Zubehör erhältlich
+- Lieferumfang: DeLonghi Nespresso Vertuo Next ENV 120.W Kaffeekapselmaschine, weiß
+- 6 Tassengrößen voreingestellt: Espresso (40 ml), Double Espresso (80 ml), Gran Lungo (150 ml), Mug (230 ml), Alto (414 ml) und Vertuo Carafe (535 ml)
+- Automatische Erkennung der Kaffeesorte durch die eingelegte Kapsel dank Barcode-Erfassung bei der Zubereitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08DRKVSBJ/?tag=tolees0ca-21)

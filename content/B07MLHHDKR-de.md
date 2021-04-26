@@ -32,7 +32,7 @@ Sie können [Sony SRS-XB12 Bluetooth Lautsprecher  tragbar  kabellos  Extra Bass
 - Kompaktes, tragbares Design
 - Wasserabweisendes Design für sorgenfreien Einsatz (IP67)
 - Freisprechfunktion für Anrufe via Bluetooth
-- Extra Bass für satten, kraftvollen Sound
 - One-touch listening per Bluetooth Technologie und NFC
+- Extra Bass für satten, kraftvollen Sound
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MLHHDKR/?tag=tolees0ca-21)

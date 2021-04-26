@@ -28,10 +28,10 @@ Es gibt ein [Beurer FT 95 Bluetooth  kontaktloses Infrarot-Fieberthermometer mit
 
 ℹ️:
 
-- Berührungsfreie Infrarot-Messtechnik ohne Hautkontakt zur hygienischen und sicheren Fiebermessung an der Stirn, besonders geeignet für Babys und Kleinkinder
 - Innovative Vernetzung zwischen Smartphone und Thermometer via Bluetooth mit den kostenlosen Apps beurer HealthManager und beurer BabyCare
-- Anzeige der Messwerte in °C oder °F auf dem gut lesbaren Display, auch Objekt- oder Raumtemperaturmessung möglich
 - Lieferumfang: Beurer FT 95, eine Aufbewahrungsbox, 2x 1,5 V AAA Batterien, eine Gebrauchsanweisung
+- Berührungsfreie Infrarot-Messtechnik ohne Hautkontakt zur hygienischen und sicheren Fiebermessung an der Stirn, besonders geeignet für Babys und Kleinkinder
+- Anzeige der Messwerte in °C oder °F auf dem gut lesbaren Display, auch Objekt- oder Raumtemperaturmessung möglich
 - Integrierter LED-Fieberalarm zur schnellen Erkennung von erhöhter Temperatur oder Fieber, zusätzlich 60 Speicherplätze für die Nachverfolgung der Temperatur
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07H8HW1S8/?tag=tolees0ca-21)
