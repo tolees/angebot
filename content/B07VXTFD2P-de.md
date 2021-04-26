@@ -28,10 +28,10 @@ Es gibt ein [CALIDA Herren Remix 2 Schlafanzugoberteil  Grün  cool Mint 633   L
 
 ℹ️:
 
-- Modern Fit
 - T-Shirt, V-Neck
-- aus 100% Baumwolle
 - CALIDA-Logo-Fahne links in der Seitennaht
+- aus 100% Baumwolle
+- Modern Fit
 - weiches Single Jersey
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07VXTFD2P/?tag=tolees0ca-21)
