@@ -28,10 +28,10 @@ Sie können [Anker NEBULA Capsule Max  Mini Projektor in Pint-Größe  Beamer mi
 
 ℹ️:
 
-- DAS ENTERTAINMENT FÜR ZU HAUSE: Nebula Capsule Max mit 720p Auflösung, 200 ANSI Lumen und 100 Zoll verwandelt dein Zuhause im Nullkommanichts in einen Kinosaal. Ideal für Online-Schulungen, Unterricht für Kinder, Seminare sowie gemütliche Filmabende mit der Familie!
-- ANDROID 8.1: Müheloses Streaming deiner Lieblingsshows auf Youtube, Netflix, Hulu und mehr.
-- AUTOFOKUS: Der Projektor kann wenn notwendig mühelos umpositioniert werden - mit sofortiger Bildschärfe aus jeder Entfernung und einer automatischen Trapezkorrektur.
 - ERSTKLASSIGE AUSDAUER: Gönn dir jeden Tag einen kompletten Film von bis zu 4 Stunden Länge nach nur einem Ladeprozess! (Hinweis: Bei aktivem WLAN hält der Akku ca. 3 Stunden lang.)
 - HINWEIS: Urheberrechtlich geschütztes Material von Hulu, Netflix u.A. kann NICHT wiedergegeben werden. Die Apps sollten direkt auf Capsule Max heruntergeladen und geöffnet werden, um urheberrechtlich geschützte Inhalte anzuzeigen. Chromecast wird nicht unterstützt. Zur Steuerung von Netflix die Nebula Connect App auf dem Smartphone verwenden.
+- ANDROID 8.1: Müheloses Streaming deiner Lieblingsshows auf Youtube, Netflix, Hulu und mehr.
+- DAS ENTERTAINMENT FÜR ZU HAUSE: Nebula Capsule Max mit 720p Auflösung, 200 ANSI Lumen und 100 Zoll verwandelt dein Zuhause im Nullkommanichts in einen Kinosaal. Ideal für Online-Schulungen, Unterricht für Kinder, Seminare sowie gemütliche Filmabende mit der Familie!
+- AUTOFOKUS: Der Projektor kann wenn notwendig mühelos umpositioniert werden - mit sofortiger Bildschärfe aus jeder Entfernung und einer automatischen Trapezkorrektur.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07V29NTNX/?tag=tolees0ca-21)

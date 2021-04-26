@@ -28,10 +28,10 @@ Sie können [Deluxe Lumunu Aqua Gleitgel Gleitfreude  Langzeitwirkung auf Wasser
 
 ℹ️:
 
-- ✅ DISC-TOP-VERSCHLUSS: Auch für Latex- und Silikon Toys geeignet. In edler Flasche mit praktischen Verschluss (easy- Dosierungsverschluss), sehr leicht und kontrolliert zu dosieren!
-- ✅ SEHR HAUTFREUNDLICH: Fühlt sich sehr angenehm auf der Haut an, klebt nicht und bietet höchste Ergiebigkeit
-- ✅ WASSERBASIERT: Hinterlässt keinerlei Spuren ist absolut fettfrei und zudem wasserlöslich. Es lässt sich leicht und einfach mit Wasser abwaschen. Kann mit Latex-Kondomen verwendet werden!
 - ✅ LANGZEIT GLEITWIRKUNG: Hautverträglichkeit dermatologisch bestätigt, sehr ergiebig und hochwirksam. Auch für Intimmassagen geeignet
 - ✅ MADE IN GERMANY QUALITÄT: Deluxe medizinisches Gleitmittel auf Wasserbasis mit Langzeit- Gleiteigenschaft. Qualität aus Deutschland, in Deutschland entwickelt und produziert
+- ✅ WASSERBASIERT: Hinterlässt keinerlei Spuren ist absolut fettfrei und zudem wasserlöslich. Es lässt sich leicht und einfach mit Wasser abwaschen. Kann mit Latex-Kondomen verwendet werden!
+- ✅ DISC-TOP-VERSCHLUSS: Auch für Latex- und Silikon Toys geeignet. In edler Flasche mit praktischen Verschluss (easy- Dosierungsverschluss), sehr leicht und kontrolliert zu dosieren!
+- ✅ SEHR HAUTFREUNDLICH: Fühlt sich sehr angenehm auf der Haut an, klebt nicht und bietet höchste Ergiebigkeit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00JF11E5A/?tag=tolees0ca-21)
