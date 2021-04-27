@@ -28,10 +28,10 @@ Sie können [PUMA Herren Badehose Badeshorts Summer Deluxe Swim Shorts - schwarz
 
 ℹ️:
 
-- Produktdetails: Schnelltrocknend, dehnbares und bequemes Material - zwei Seitentaschen - Verstellbarer Außennkordelzug - Material: Polyester - Länge: Midi
+- Pflegehinweis: Maschinenwäsche kalt (30° max) Mesh Innenslip, alle Nähte sind gesäumt, atmungsaktiv und schnelltrocknend, weich, ohne Reibung oder Reizung, Wasserabweisend und schnelltrocknend, geeignet für alle Wassersportarten oder Ferienstrandaktivitäten
 - Cool und lässig am Strand oder im Schwimmbad mit der sportlichen Bermuda Bade-Short aus schnelltrocknendem Polyester Material mit Mesh-Innenslip, 100% Polyester, schnell trocknend leichter Stoff, hoher Tragekomfort
 - schwarze Bade-Short mit ELASTISCHEM Bund, Verschluss: Tunnelzug - dehnbarer Bund, angenehme Passform, einfach zum Festziehen
-- Pflegehinweis: Maschinenwäsche kalt (30° max) Mesh Innenslip, alle Nähte sind gesäumt, atmungsaktiv und schnelltrocknend, weich, ohne Reibung oder Reizung, Wasserabweisend und schnelltrocknend, geeignet für alle Wassersportarten oder Ferienstrandaktivitäten
+- Produktdetails: Schnelltrocknend, dehnbares und bequemes Material - zwei Seitentaschen - Verstellbarer Außennkordelzug - Material: Polyester - Länge: Midi
 - Größe: XL - schwarze Badeshort, leichtes elastisches Material Ideal, um den ganzen tag bei heißem Wetter zu tragen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0849T5JRR/?tag=tolees0ca-21)
