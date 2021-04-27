@@ -28,8 +28,8 @@ Es gibt ein [Triumph Damen Hipster Amourette 300 Maxi  schwarz  black   Gr. 36](
 
 ℹ️:
 
-- Schmale Bündchen an Bund und Beinausschnitt für den optimalen Sitz
 - Klassischer Fit mit hohem Bund und breiten Seiten
+- Schmale Bündchen an Bund und Beinausschnitt für den optimalen Sitz
 - Transparente Blütenspitze im oberen Bereich im Vorder- und Rückteil
 - In modischen Farbtönen
 

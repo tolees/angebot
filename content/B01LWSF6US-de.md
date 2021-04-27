@@ -28,10 +28,10 @@ Es gibt ein [NSV - 4042 - QWIXX - Das Duell - Würfelspiel](https://www.amazon.d
 
 ℹ️:
 
-- Autor: Steffen Benndorf
 - Qwixx Variante - Qwixx Das Duell - Taktikspiel für 2
-- Sprache: Deutsch
+- Autor: Steffen Benndorf
 - Spieler: 2, Alter: ab 8 Jahren, Dauer: ca. 15 Minuten
 - Inhalt: 1 Spielplan, 6 Würfel, 44 Spielsteine, Anleitung
+- Sprache: Deutsch
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01LWSF6US/?tag=tolees0ca-21)

@@ -28,11 +28,11 @@ Es gibt ein [LYRA 3941181 Farb-Riesen Metalletui mit 18 Farbstiften  farbig sort
 
 ℹ️:
 
-- Der Buntstift mit der dicksten Mine
-- Hexagonale Form
-- Dickkernfarbstifte, lackiert, 6-kant, Minendurchmesser 6,25 mm
-- Geeignet für jede Altersklasse
 - Verfügbar in 35 Einzelfarben
+- Der Buntstift mit der dicksten Mine
+- Geeignet für jede Altersklasse
 - Super weiche Mine mit hoher Farbbrillanz
+- Dickkernfarbstifte, lackiert, 6-kant, Minendurchmesser 6,25 mm
+- Hexagonale Form
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00524DZWO/?tag=tolees0ca-21)
