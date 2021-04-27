@@ -29,9 +29,9 @@ Es gibt ein [Bosch Professional - Bosch 26tlg. Schrauberbit- und Ratschen-Set  E
 ℹ️:
 
 - Kompatibilität: Für alle Elektrowerkzeugmarken und Handschraubendreher geeignet.
-- Farbcodierte Bits für den schnellen Überblick und rascheren Zugriff auf den passenden Bit.
-- Schrauberbit und Ratschen-Set mit farbcodierten Schrauberbits geeignet für alle gängigen Schraub- und Montagearbeiten.
 - Abmessung: 125 x 90 x 35 mm
 - Lieferumfang: 19 Schrauberbits mit Farbcodierung L = 25 mm (PH 1/2/2/3, PZ 1/2/3, S 4/5/6, T 10/15/20/25/30, HEX 3/4/5/6), 4 Steckschlüssel Ø 6/8/10/13 mm, 1 Ratsche (Rechts-/Linkslauf), 1 Universalhalter, 1 Adapter für Steckschlüssel
+- Schrauberbit und Ratschen-Set mit farbcodierten Schrauberbits geeignet für alle gängigen Schraub- und Montagearbeiten.
+- Farbcodierte Bits für den schnellen Überblick und rascheren Zugriff auf den passenden Bit.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HY7LV6E/?tag=tolees0ca-21)
