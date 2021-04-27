@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 21163 Minecraft Das Redstone-Kräfte mit 29.10 % Rabatt'
-date: 2021-04-12 08:21:45
-image: 'https://m.media-amazon.com/images/I/51tfz2t1E3L._SL400_.jpg'
+date: 2021-04-27 12:16:22
+image: 'https://m.media-amazon.com/images/I/51tfz2t1E3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B082BR5JG3/?tag=tolees0ca-21'
 descuento: '29.10'
-average: '38.8716'
+average: '38.8739215686275'
 ---
 
 Sie können [LEGO 21163 Minecraft Das Redstone-Kräftemessen Set mit Figuren: Golem und Monster  Spielzeug für Kinder ab 8 Jahren](https://www.amazon.de/dp/B082BR5JG3/?tag=tolees0ca-21) mit Preis 38.99 EUR (original: 54.99 EUR) 29.10 % Rabatt hier:
 
-[![LEGO 21163 Minecraft Das Redstone-Kräfte](https://m.media-amazon.com/images/I/51tfz2t1E3L._SL400_.jpg)](https://www.amazon.de/dp/B082BR5JG3/?tag=tolees0ca-21)
+[![LEGO 21163 Minecraft Das Redstone-Kräfte](https://m.media-amazon.com/images/I/51tfz2t1E3L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B082BR5JG3/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Enthält 4 Minecraft Helden sowie ein Redstone-Monster und einen Redstone-Golem
-- Das Spielset bringt das unterhaltsame Onlinespiel „Minecraft Dungeons“ in die echte Welt
 - Das bewegliche Redstone-Monster ist 16 cm groß
 - Das vielseitige Spielset ist ein tolles Geburtstagsgeschenk für Kinder ab 8 Jahren
+- Das Spielset bringt das unterhaltsame Onlinespiel „Minecraft Dungeons“ in die echte Welt
 - Ein riesiges Redstone-Monster und ein Redstone-Golem bieten spannende Action
 
 [🛒 Hier!!](https://www.amazon.de/dp/B082BR5JG3/?tag=tolees0ca-21)
