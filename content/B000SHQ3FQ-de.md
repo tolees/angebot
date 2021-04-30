@@ -28,10 +28,10 @@ Sie können [Post-it 2028NB Haftnotiz Würfel  70 g/qm  76 x 76 mm  450 Blatt ne
 
 ℹ️:
 
-- Leuchtende Farben: Auffällig leuchtende Neontöne stechen sofort ins Auge und lassen garantiert keine Notiz in Vergessenheit geraten.
-- Immer griffbereit: Im Würfelformat haben Sie Ihre Post-it Notes stets griffbereit und genügend Blätter auf Vorrat.
-- Der Umwelt zuliebe: PEFC zertifiziertes Papier
 - Unglaublich praktisch: Als Gedankenstütze zum Strukturieren und Organisieren von Projekten - in Büro, Schule und Alltag sind sie nicht mehr wegzudenken.
+- Der Umwelt zuliebe: PEFC zertifiziertes Papier
+- Immer griffbereit: Im Würfelformat haben Sie Ihre Post-it Notes stets griffbereit und genügend Blätter auf Vorrat.
 - Haften immer wieder: Post-it Haftnotizen sind ohne Rückstände ablösbar und haften immer.
+- Leuchtende Farben: Auffällig leuchtende Neontöne stechen sofort ins Auge und lassen garantiert keine Notiz in Vergessenheit geraten.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000SHQ3FQ/?tag=tolees0ca-21)
