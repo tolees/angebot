@@ -28,10 +28,10 @@ Sie können [Sylvanian Families 5480 Stadthaus mit Licht - Puppenhaus](https://w
 
 ℹ️:
 
-- Haus mit Türen zum Öffnen, Bodenplatte und Treppe
-- kombinierbar mit anderen Gebäuden der Sylvanian Families
 - mit Balkon, 4 Zimmern und echtem Licht (Batterien 2x AA im Set nicht enthalten)
-- Süßes Puppenhaus für Kinder
+- kombinierbar mit anderen Gebäuden der Sylvanian Families
 - Haus aufklappbar und in verschiedenen Kombinationen aufbaubar
+- Haus mit Türen zum Öffnen, Bodenplatte und Treppe
+- Süßes Puppenhaus für Kinder
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WVD15QP/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Es gibt ein [Goobay 68502 CAT 5e Patchkabel  U/UTP  Weiß    10.00 m Kabellänge
 ℹ️:
 
 - Paarfolge nach EIA/TIA 568B
-- Ungeschirmtes LAN/Netzwerkkabel zum Anschluss Ihrer Netzwerkkomponenten mit 2x RJ45 Steckern
-- Längenangabe auf Slimline-Knickschutztülle
 - Mit Rastnasenschutz
 - Gigabit (10/100/1000 Mbit) Netzwerk geeignet
+- Ungeschirmtes LAN/Netzwerkkabel zum Anschluss Ihrer Netzwerkkomponenten mit 2x RJ45 Steckern
+- Längenangabe auf Slimline-Knickschutztülle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000NWUVX6/?tag=tolees0ca-21)

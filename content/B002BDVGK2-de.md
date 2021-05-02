@@ -28,10 +28,10 @@ Es gibt ein [Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à
 
 ℹ️:
 
-- Werkstoff: Papier
+- Breite des Kartenreiterkopfes: 40 mm
 - Artikelbezeichnung: Tabe Quick Tab
 - Ausführung des Aufdruckes beiliegender Einsteckschilder: blanko
+- Werkstoff: Papier
 - Beschreibung der Besonderheiten: selbstklebend, wiederablösbar
-- Breite des Kartenreiterkopfes: 40 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21)

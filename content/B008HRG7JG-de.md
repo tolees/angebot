@@ -29,9 +29,9 @@ Sie können [Bosch Professional 13tlg. Flachfräsbohrer-Set Self Cut Speed mit 1
 ℹ️:
 
 - Lieferumfang: Bohrer-Ø 10/12/13/14/16/18/20/22/24/25/28/30/32 mm
-- Flachfräsbohrer-Set zum professionellen Bearbeiten von Weichholz, Hartholz und Leichtbaustoffen
-- Hergestellt nach eigener Bosch-Werksnorm aus besonders vergütetem Stahl
-- Sehr schneller Bohrfortschritt durch optimierte Schneidengeometrie mit zwei Nebenschneiden und innovative selbsteinziehende Gewindespitze
 - Kompatibilität: Für alle Bohrmaschinen mit Sechskantschaftbohreraufnahme
+- Sehr schneller Bohrfortschritt durch optimierte Schneidengeometrie mit zwei Nebenschneiden und innovative selbsteinziehende Gewindespitze
+- Hergestellt nach eigener Bosch-Werksnorm aus besonders vergütetem Stahl
+- Flachfräsbohrer-Set zum professionellen Bearbeiten von Weichholz, Hartholz und Leichtbaustoffen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B008HRG7JG/?tag=tolees0ca-21)
