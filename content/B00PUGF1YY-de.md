@@ -28,10 +28,10 @@ Sie können [Wahl 9818-116 Stainless Steel Lithium Ion plus Edelstahl-Bartschnei
 
 ℹ️:
 
-- Revolutionäre Lithium-Ion+ Technologie: Bis zu 4 Stunden Akkulaufzeit bei nur 1 Stunde Ladezeit
-- Die Verwendung des mitgelieferten Klingenöls garantiert einen guten Betrieb und eine lange Lebensdauer des Trimmers
 - 3x verschiedene Bart-Aufsteckkämme für 3-Tage-Bart, Kurzbart und Vollbart. Ein 6fach verstellbarer Aufsteckkamm für Bartlängen von 2-12mm (ohne Kamm ca. 0,5mm)
-- Eleganter Trimmer im hochwertig verarbeiteteten und gebürstetetem Edelstahlgehäuse inklusive Designständer
+- Revolutionäre Lithium-Ion+ Technologie: Bis zu 4 Stunden Akkulaufzeit bei nur 1 Stunde Ladezeit
 - Schnellladung: 1 Minute laden - 3 Minuten einsatzbereit. Gewicht: 204 g
+- Eleganter Trimmer im hochwertig verarbeiteteten und gebürstetetem Edelstahlgehäuse inklusive Designständer
+- Die Verwendung des mitgelieferten Klingenöls garantiert einen guten Betrieb und eine lange Lebensdauer des Trimmers
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00PUGF1YY/?tag=tolees0ca-21)
