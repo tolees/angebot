@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.51 % rabat auf Durable 840500 Selbstklebe-Taben Quick T'
-date: 2021-04-21 14:24:53
+date: 2021-05-02 17:46:33
 image: 'https://m.media-amazon.com/images/I/31tAZjYx2jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Durable'
 buyurl: 'https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21'
 descuento: '29.51'
-average: '4.25666666666667'
+average: '4.16'
 ---
 
 Es gibt ein [Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à 48 Stück farbig Sortiert](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21) mit aktuellem Preis 3.87 EUR (original: 5.49 EUR) 29.51 % Rabatt hier:
@@ -29,9 +29,9 @@ Es gibt ein [Durable 840500 Selbstklebe-Taben Quick Tab  wiederablösbar Btl. à
 ℹ️:
 
 - Werkstoff: Papier
-- Breite des Kartenreiterkopfes: 40 mm
-- Ausführung des Aufdruckes beiliegender Einsteckschilder: blanko
 - Artikelbezeichnung: Tabe Quick Tab
+- Ausführung des Aufdruckes beiliegender Einsteckschilder: blanko
 - Beschreibung der Besonderheiten: selbstklebend, wiederablösbar
+- Breite des Kartenreiterkopfes: 40 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002BDVGK2/?tag=tolees0ca-21)
