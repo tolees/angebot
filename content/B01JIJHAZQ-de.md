@@ -28,10 +28,10 @@ Sie können [OMRON M700 Intelli IT – Oberarm-Blutdruckmessgerät mit Bluetooth
 
 ℹ️:
 
-- Drei Anzeigen: Das M700 Intelli IT signalisiert anhand seiner Manschettensitzkontrolle, ob die Manschette bei der Messung korrekt angelegt ist. Außerdem weist es nicht nur auf einen zu hohen Blutdruck, sondern auch auf einen unregelmäßigen Herzschlag hin.
-- Intelli Wrap-Manschette: Die unkomplizierte, vorgeformte Oberarm-Manschette für einen Armumfang von 22 bis 42 cm erleichtert das Anlegen und ermöglicht präzise Messungen in praktisch jeder Position.
-- Automatisches Blutdruckmessgerät mit Intelli Wrap-Manschette (22 – 42 cm) und automatischer Übermittlung der Werte ans Smartphone mithilfe der OMRON connect-App.
-- Lieferumfang: 1 OMRON M700 Intelli IT Oberarm-Blutdruckmessgerät, mittelgroße Manschette (22 – 32 cm), 4 AA-Batterien, Gebrauchsanweisung
 - OMRON connect-App: Nachverfolgung der Blutdruckwerte im zeitlichen Verlauf an ein und derselben Stelle. Nachverfolgung der Veränderungen dieser Werte im zeitlichen Verlauf und problemloser Export zur Übermittlung an den Arzt.
+- Lieferumfang: 1 OMRON M700 Intelli IT Oberarm-Blutdruckmessgerät, mittelgroße Manschette (22 – 32 cm), 4 AA-Batterien, Gebrauchsanweisung
+- Drei Anzeigen: Das M700 Intelli IT signalisiert anhand seiner Manschettensitzkontrolle, ob die Manschette bei der Messung korrekt angelegt ist. Außerdem weist es nicht nur auf einen zu hohen Blutdruck, sondern auch auf einen unregelmäßigen Herzschlag hin.
+- Automatisches Blutdruckmessgerät mit Intelli Wrap-Manschette (22 – 42 cm) und automatischer Übermittlung der Werte ans Smartphone mithilfe der OMRON connect-App.
+- Intelli Wrap-Manschette: Die unkomplizierte, vorgeformte Oberarm-Manschette für einen Armumfang von 22 bis 42 cm erleichtert das Anlegen und ermöglicht präzise Messungen in praktisch jeder Position.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01JIJHAZQ/?tag=tolees0ca-21)

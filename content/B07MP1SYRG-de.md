@@ -28,10 +28,10 @@ Sie können [Lenco LBT-188 Plattenspieler - Bluetooth Plattenspieler - Riemenant
 
 ℹ️:
 
-- Digitalisieren: Mit dem integrierten USB Anschluss können LPs und Singles direkt digitalisiert werden ohne das eine PC verwendet werden müsste
-- Riemenantrieb: Der Antrieb kann auf 33 U/min und 45 U/min geregelt werden. So können wie gewohnt Langspielplatten und Singles abgespielt werden.
-- Bluetooth Plattenspieler: Der Lenco LBT-120 ist der Plattenspieler für das 21. Jahrhundert. Der LBT-188 kann einfach mit externen Bluetooth Lautsprechern und Kopfhörern verbunden werden. Kabelloses Audio Streaming via Bluetooth
-- Vorverstärker: Der integrierte Vorverstärker ermöglicht es, das der LBT-120 auch an existierende Anlagen angeschlossen werden kann
 - Qualität: Der Lenco LBT-188 Bluetooth Plattenspieler ist ein durchdachtes und qualitativ hochwertiges Produkt eines Europäischen Unternehmens. Im Lieferumfang befindet sich der Lenco LBT-188 Bluetooth Plattenspieler, eine passende Staubschutzhaube, Tonabnehmer und die notwendige Dokumentation
+- Vorverstärker: Der integrierte Vorverstärker ermöglicht es, das der LBT-120 auch an existierende Anlagen angeschlossen werden kann
+- Digitalisieren: Mit dem integrierten USB Anschluss können LPs und Singles direkt digitalisiert werden ohne das eine PC verwendet werden müsste
+- Bluetooth Plattenspieler: Der Lenco LBT-120 ist der Plattenspieler für das 21. Jahrhundert. Der LBT-188 kann einfach mit externen Bluetooth Lautsprechern und Kopfhörern verbunden werden. Kabelloses Audio Streaming via Bluetooth
+- Riemenantrieb: Der Antrieb kann auf 33 U/min und 45 U/min geregelt werden. So können wie gewohnt Langspielplatten und Singles abgespielt werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MP1SYRG/?tag=tolees0ca-21)
