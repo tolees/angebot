@@ -28,11 +28,11 @@ Es gibt ein [Nigrin 74113 Lackspray  schwarz glänzender Autolack  400 ml  schü
 
 ℹ️:
 
-- Der Autolack ist schnell trocknend, waschanlagen- und wetterfest
-- Ideal für die Lackierung von Karosserie und Felgen
-- Das Nigrin Autolack Spray erzeugt eine schwarzglänzende Oberfläche
 - Das Nigrin Lackspray ist universell verwendbar und verfügt über hervorragende Hafteigenschaften
-- Inhalt: 400 ml
+- Ideal für die Lackierung von Karosserie und Felgen
 - Der Schutzlack schützt zuverlässig vor Korrosion und Steinschlag
+- Der Autolack ist schnell trocknend, waschanlagen- und wetterfest
+- Inhalt: 400 ml
+- Das Nigrin Autolack Spray erzeugt eine schwarzglänzende Oberfläche
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001B4TK2S/?tag=tolees0ca-21)

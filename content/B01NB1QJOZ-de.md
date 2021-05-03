@@ -28,9 +28,9 @@ Sie können [Paper Mate Flair Candy POP-Filzstifte  mittlere Spitze  24er-Packun
 
 ℹ️:
 
-- Die mittlere Spitze sorgt für gleichmäßige, kräftige Linien und ist ideal zum Ausmalen großer Flächen.
 - Die zuverlässige Filzspitze hält auch starkem Druck stand und eignet sich für den häufigen Gebrauch.
 - 24er-Packung enthält Filzstifte in den Farben: Rot, Guave, Papaya, Ringelblume, Olivgrün, Blau, Türkis, Lila, Passionsfrucht, Orchidee, Kürbis, Schiefergrau, Schwarz, Mandarine, Gelb, Limone, Strawberry Lollipop, Raspberry Fizz, Salted Caramel, Gummy Green, Blueberry Bubblegum, Grape Gumdrop, Marineblau und Mokka
+- Die mittlere Spitze sorgt für gleichmäßige, kräftige Linien und ist ideal zum Ausmalen großer Flächen.
 - Die schnell trocknende Tinte auf Wasserbasis verschmiert nicht und drückt sich nicht durch das Papier.
 - Perfekt für Kreative, die Spaß am Scrapbooking und an Erwachsenenmalbüchern haben.
 
