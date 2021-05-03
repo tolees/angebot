@@ -28,9 +28,9 @@ Es gibt ein [Nike Herren Club19 T-Shirt  Obsidian/Obsidian/Obsidian/ White   L](
 
 ℹ️:
 
-- Herkunftsland:- China
 - Material: Baumwolle
 - Verpackungsgewicht: 200 g
 - Verpackungsabmessungen (L x B x H): 3.0 zm x 20.4 zm x 27.6 zm
+- Herkunftsland:- China
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KL24ZJS/?tag=tolees0ca-21)
