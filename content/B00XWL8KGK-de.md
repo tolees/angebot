@@ -28,12 +28,12 @@ Es gibt ein [FISCHER Kinder Fahrradhelm Eule Fahrrad Rad Rollerhelm  Eule  S M E
 
 ℹ️:
 
-- Mit Insektengitter
-- Prüfzeichen: TÜV Rheinland GS / Standard EN 1078:2012+A1; AfPS GS 2014:01
-- Optimale Passform durch verstellbares Innenring-System
-- Kinderhelm in der Größe XS/S (48-54 cm)
 - Hochfeste EPS-Innenschale für optimale Dämpfung
+- Mit Insektengitter
+- Kinderhelm in der Größe XS/S (48-54 cm)
 - Mit beleuchtetem Innenring-System
+- Optimale Passform durch verstellbares Innenring-System
 - Sehr gute Belüftung durch 14 große Lufteinlässe
+- Prüfzeichen: TÜV Rheinland GS / Standard EN 1078:2012+A1; AfPS GS 2014:01
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00XWL8KGK/?tag=tolees0ca-21)
