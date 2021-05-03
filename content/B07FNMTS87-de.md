@@ -29,8 +29,8 @@ Sie können [LEGO 10903 DUPLO Feuerwehrwache mit Feuerwehrauto und 2 Feuerwehrma
 ℹ️:
 
 - Als Zubehörelemente sind eine Leiter, ein Schlauch, ein Feuerlöscher, eine Axt und ein Lagerfeuer enthalten.
-- Mach mit beim Training der Feuerwehrleute in der Feuerwehrwache und eile bei einem Notruf im roten Spielzeug-Feuerwehrwagen zum Einsatzort.
 - Auf Knopfdruck kann man die Sirene und das Blaulicht des Feuerwehrwagens aktivieren.
+- Mach mit beim Training der Feuerwehrleute in der Feuerwehrwache und eile bei einem Notruf im roten Spielzeug-Feuerwehrwagen zum Einsatzort.
 - Enthält 2 LEGO DUPLOFeuerwehr-Figuren und eine Hundefigur.
 - Mit einfach zu bauender Spielzeug-Feuerwehrwache mit Turm und einem Spielzeug-Feuerwehrwagen mit Licht- und Geräuscheffekten für Kinder.
 
