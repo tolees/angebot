@@ -28,9 +28,9 @@ Es gibt ein [Welly 22441FVW Zurück in die Zukunft II Fahrzeugmodell im Maßstab
 
 ℹ️:
 
-- Fahrzeugmodell der berühmten Zeitmaschine DeLorean, bekannt aus der Trilogie Zurück in die Zukunft II.
-- Verpackungsgewicht: 420 g
 - Verpackungsabmessungen (L x B x H): 10.2 zm x 11.4 zm x 23.3 zm
+- Verpackungsgewicht: 420 g
 - Besonderheit: Die Falträder machen das Modell zur fliegenden Version des kultigen Fahrzeugs.
+- Fahrzeugmodell der berühmten Zeitmaschine DeLorean, bekannt aus der Trilogie Zurück in die Zukunft II.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B072M72FHZ/?tag=tolees0ca-21)

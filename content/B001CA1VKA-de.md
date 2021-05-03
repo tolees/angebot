@@ -28,7 +28,7 @@ Sie können [HAZET 900-17 Sechskant Steckschlüssel-Einsatz](https://www.amazon.
 
 ℹ️:
 
-- Innenvierkant Antrieb 12,5 = 1/2 Zoll. Mit Tractionsprofil. Griffig, gerändelt. Für Handbetätigung. Oberfläche: verchromt, poliert. DIN 3124, ISO 2725-1. Made In Germany.
 - HAZET 900-17 6KT.-STECKSCHLUESSEL-EINSATZ Material: Chrom-Vanadium Oberfläche: verchromt, poliert Länge mm: 38 Schlüsselweite mm: 17 mm Durchmesser d1 (am Abtrieb) mm: 24.1 mm Durchmesser d2 (am Antrieb) mm: 22 mm Antrieb: Innenvierkant 12,5 mm (
+- Innenvierkant Antrieb 12,5 = 1/2 Zoll. Mit Tractionsprofil. Griffig, gerändelt. Für Handbetätigung. Oberfläche: verchromt, poliert. DIN 3124, ISO 2725-1. Made In Germany.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001CA1VKA/?tag=tolees0ca-21)

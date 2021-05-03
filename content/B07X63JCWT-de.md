@@ -28,13 +28,13 @@ Sie können [Nokia 800 Tough Outdoor Handy  6 1cm  2 4 Zoll   Dual-SIM  4G LTE  
 
 ℹ️:
 
-- Starke LED-Taschenlampe (207 Lumen): Lässt sich durch zweimaliges Drücken der oberen Taste ein- und ausschalten
-- Ultra-robust: Das Mobiltelefon ist staubdicht und wasserdicht bis zu 1,5m für 30 Minuten, stoßfest und sturzsicher bis 1,80m Höhe
-- Dual-SIM und Konnektivität - 2 Nano-SIM + 1 MicroSD-Kartenslot bis zu 32 GB, WLAN 802.11 b/g/n, Bluetooth, GPS/AGPS, FM Radio
 - Smart Feature Phone: Vereint Retro-Design und Basis-Smartphone-Funktionen wie Google Assistant und Apps (WhatsApp und Facebook bereits vorinstalliert)
 - Sicher in der Hand: Das Tastenhandy ist kompakt, hat eine rutschfeste Rückseite und gummierte Kanten
 - Leistungsstarke Lautsprecher (bis 103dB): Um auch bei lauter Umgebung das Gespräch per Freisprechfunktion fortsetzen zu können
-- Ausdauernd: 2100mAh Akku für bis zu 28 Tage Akkulaufzeit
 - Große Tasten: Perfekt für den täglichen Gebrauch oder als Baustellenhandy, auch mit Handschuhen leicht bedienbar
+- Starke LED-Taschenlampe (207 Lumen): Lässt sich durch zweimaliges Drücken der oberen Taste ein- und ausschalten
+- Ultra-robust: Das Mobiltelefon ist staubdicht und wasserdicht bis zu 1,5m für 30 Minuten, stoßfest und sturzsicher bis 1,80m Höhe
+- Ausdauernd: 2100mAh Akku für bis zu 28 Tage Akkulaufzeit
+- Dual-SIM und Konnektivität - 2 Nano-SIM + 1 MicroSD-Kartenslot bis zu 32 GB, WLAN 802.11 b/g/n, Bluetooth, GPS/AGPS, FM Radio
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07X63JCWT/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [GORE WEAR Herren C3 GORE-TEX Active Hose  black  S](https://www.ama
 
 ℹ️:
 
+- GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
+- Herren Hose für alle Wetterbedingungen
 - Komfortable Passform/Bike-Spezifischer Schnitt
 - GORE C3 GORE-TEX Active Pants, Größe: S, Farbe: Schwarz, 100035
-- Herren Hose für alle Wetterbedingungen
-- GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
 - Gesäßverstärkung mit Abriebschutz, Vorgeformter Knie-Bereich, Reißverschlusstasche hinten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075RX43FL/?tag=tolees0ca-21)
