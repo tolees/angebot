@@ -28,8 +28,8 @@ Sie können [A Little Lovely Company Girlande für Banner  Schwarz](https://www.
 
 ℹ️:
 
-- Robustes Material
 - Leicht zu reinigen.
+- Robustes Material
 - Lustiges und modernes Design.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01533PXWI/?tag=tolees0ca-21)
