@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO 75273 Star Wars Poe Damerons X-Wing mit 26.00 % Rabatt'
-date: 2021-04-27 12:13:34
-image: 'https://m.media-amazon.com/images/I/51rk3T57GML._SL500_._SL400_.jpg'
+date: 2021-05-03 12:22:19
+image: 'https://m.media-amazon.com/images/I/51DUXPIDw1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TMLFY/?tag=tolees0ca-21'
 descuento: '26.00'
-average: '78.2511550151977'
+average: '78.2382424242426'
 ---
 
 Sie können [LEGO 75273 Star Wars Poe Damerons X-Wing Starfighter Bauset  Serie Der Aufstieg Skywalkers](https://www.amazon.de/dp/B07W7TMLFY/?tag=tolees0ca-21) mit Preis 73.99 EUR (original: 99.99 EUR) 26.00 % Rabatt hier:
 
-[![LEGO 75273 Star Wars Poe Damerons X-Wing](https://m.media-amazon.com/images/I/51rk3T57GML._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W7TMLFY/?tag=tolees0ca-21)
+[![LEGO 75273 Star Wars Poe Damerons X-Wing](https://m.media-amazon.com/images/I/51DUXPIDw1S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W7TMLFY/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Die verstellbaren Flügel des X-Wing-Jägers gehen für Flug- und Angriffsmodi nach oben oder unten und feuern mit Bolzen geladene Geschütze und federbelastete Raketen ab
 - Kinder können in diesem Raumschiff mit Poe Dameron gegen die Erste Ordnung in die Schlacht ziehen oder mit Jannahs coolen Waffen auf dem Boden gegen den Ritter von Ren kämpfen
-- Enthält drei Minifiguren - Poe Dameron, einen Ritter von Ren, Jannah – mit neuen Features und Waffen sowie einen R2-Dzwei LEGO-Droiden
 - Dieses Set lässt sich hervorragend mit anderen aus der Der Aufstieg Skywalkers -Reihe kombinieren: Sith TIE Fighter (75272) für epische Kämpfe zwischen Erster Ordnung und Widerstand
+- Enthält drei Minifiguren - Poe Dameron, einen Ritter von Ren, Jannah – mit neuen Features und Waffen sowie einen R2-Dzwei LEGO-Droiden
 - Verfügt über ein Minifiguren-Cockpit zum Öffnen, Platz für R2-D2, verstellbare Tragflächen, mit Bolzen geladene Geschütze sowie ein einziehbares Fahrwerk
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7TMLFY/?tag=tolees0ca-21)
