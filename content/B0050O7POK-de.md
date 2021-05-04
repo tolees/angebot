@@ -28,10 +28,10 @@ Sie können [Royal Thai THAI Langkorn Duftreis  ganz  [ 4 5kg ] DE LUXE / Jasmin
 
 ℹ️:
 
+- Herkunft: Thailand
+- JASMIN WHITE SCENTED RICE AAA
 - Langkorn Duftreis (ganz) DE LUXE
 - THAI HOM MALI RICE
-- JASMIN WHITE SCENTED RICE AAA
-- Herkunft: Thailand
 - Nettogewicht: 4,5 kg
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0050O7POK/?tag=tolees0ca-21)
