@@ -28,10 +28,10 @@ Es gibt ein [Invicta Pro Diver  SCUBA 6983 Herrenuhr  48 mm](https://www.amazon.
 
 ℹ️:
 
-- 10 bar Wasserdichtigkeitszertifizierung
-- Dieses Modell ist von der Invicta Pro Diver, SCUBA Kollektion
-- Dieses Modell wird von einem präzisen Quarzuhrwerk angetrieben
-- 2 Jahre Garantie
 - Das Invicta 6983 hat ein 48 mm Edelstahl gehäuse mit einem blauen Zifferblatt
+- 2 Jahre Garantie
+- Dieses Modell ist von der Invicta Pro Diver, SCUBA Kollektion
+- 10 bar Wasserdichtigkeitszertifizierung
+- Dieses Modell wird von einem präzisen Quarzuhrwerk angetrieben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003KRP0P0/?tag=tolees0ca-21)

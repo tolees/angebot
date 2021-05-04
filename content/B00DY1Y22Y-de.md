@@ -28,10 +28,10 @@ Es gibt ein [Stanley STHT0-70885 Multibit- Schraubendreher-Set  34 teilig  7 5 x
 
 ℹ️:
 
-- Praktischer Bithalter: Magnetischer Halter für zugehörige Bits
-- Lieferumfang: 1x Multibit-Schraubendreher, 1x Bit-Organizer, 33x Bit
-- Umfangreiches Set: 34-teilig mit Multibit-Schraubendreher, Bit-Organizer und 33 Bits (1 Zoll/25mm)
 - Schraubenzieher für vielseitige Anwendung: Die Bits passen für sehr viele Schraubenarten und eignen sich beispielsweise ideal zum Möbelaufbau
+- Lieferumfang: 1x Multibit-Schraubendreher, 1x Bit-Organizer, 33x Bit
+- Praktischer Bithalter: Magnetischer Halter für zugehörige Bits
+- Umfangreiches Set: 34-teilig mit Multibit-Schraubendreher, Bit-Organizer und 33 Bits (1 Zoll/25mm)
 - Robust und langlebig: Bits bestehen aus hochwertigem Chrom-Vanadium-Stahl
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DY1Y22Y/?tag=tolees0ca-21)
