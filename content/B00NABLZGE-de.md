@@ -29,8 +29,8 @@ Es gibt ein [Beurer BS 89 LED Kosmetikspiegel  beleuchtet  zur Wandmontage  5-fa
 ℹ️:
 
 - Mit der 5-fach Vergrößerung ist er der ideale Make-Up Spiegel, besonders geeignet zum Schminken, aber auch zur Hautpflege oder zum Frisieren
-- Durch den Batteriebetrieb kann der BS 89 überall angebracht werden und benötigt keinen Stromanschluss, mit Abschaltautomatik nach 10 Minuten
 - Lieferumfang: Beurer BS 89 LED Kosmetikspiegel, 3 x 1,5V Batterie AA
+- Durch den Batteriebetrieb kann der BS 89 überall angebracht werden und benötigt keinen Stromanschluss, mit Abschaltautomatik nach 10 Minuten
 - Der hochwertig verchromte Spiegel mit einer Fläche von 16 x 16 cm hat die optimale Größe für Ihre Beauty Anwendungen, Produktmaße (LxBxH): 36,4 x 20 x 23,75 cm
 - Der Schminkspiegel kann an der Wand montiert werden, durch den praktischen Gelenkarm ist der Spiegel flexibel einsetzbar und kann platzsparend eingeklappt werden
 - Der Wandspiegel mit extra hellem LED-Licht (in drei Stufen einstellbar) ermöglicht Ihre tägliche Gesichtspflege auch in schlecht beleuchteten Badezimmern

@@ -29,9 +29,9 @@ Es gibt ein [Tassimo Kapseln Jacobs Caffè Crema Classico XL  80 Kaffeekapseln  
 ℹ️:
 
 - Lieferumfang 5 Packungen à 132,8 g
+- Jacobs Caffè Crema classico XL - Perfekter Kaffeegenuss in der XL Becherportion
 - Einfache Zubereitung - Caffè T DISC einlegen, Knopf drücken und genießen
 - Sie haben Ihre Lieblingssorte gefunden? Dann empfehlen wir Ihnen das Amazon Spar-Abo für Tassimo. Ohne Verpflichtung erhalten Sie regelmäßig und portofrei Ihre T DISCs.
 - Mit vollmundigem Geschmack des Jacobs Verwöhnaromas und samtiger, goldener Crema
-- Jacobs Caffè Crema classico XL - Perfekter Kaffeegenuss in der XL Becherportion
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0095FMJE6/?tag=tolees0ca-21)

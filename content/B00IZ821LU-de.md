@@ -29,9 +29,9 @@ Sie können [Tassimo Kapseln Jacobs Caffè Crema Mild XL  80 Kaffeekapseln  5er 
 ℹ️:
 
 - Mit dem Geschmack des Jacobs Verwöhnaromas und samtiger, goldener Crema
-- Einfache Zubereitung - Caffè T DISC einlegen, Knopf drücken und genießen
+- Lieferumfang 5 Packungen à 128 g
 - Jacobs Caffè Crema mild XL - Perfekter, sanfter Kaffeegenuss in der XL Becherportion
 - Sie haben Ihre Lieblingssorte gefunden? Dann empfehlen wir Ihnen das Amazon Spar-Abo für Tassimo. Ohne Verpflichtung erhalten Sie regelmäßig und portofrei Ihre T DISCs.
-- Lieferumfang 5 Packungen à 128 g
+- Einfache Zubereitung - Caffè T DISC einlegen, Knopf drücken und genießen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00IZ821LU/?tag=tolees0ca-21)
