@@ -28,10 +28,10 @@ Es gibt ein [Philips Hue - Hue White & Col. Amb. Go Tischleuchte weiß 300lm Blu
 
 ℹ️:
 
-- Die intelligente Bluetooth-Beleuchtung von Philips Hue ist kompatibel mit dem Amazon Echo Dot (3. Generation), Echo Plus und Echo Show (2. Generation)
-- Einfache Einrichtung per Bluetooth: Tischleuchte mit integriertem Leuchtmittel platzieren, Hue Bluetooth App downloaden und schon können Sie Ihr Licht in einem Raum dimmen oder Lichtszenen einstellen
-- Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
 - Sofort einsatzbereit: Über die Taste auf der Unterseite können Sie auf zwei statische und fünf dynamische Farbeffekte zurückgreifen. Alternativ ist die Steuerung über Hue Bluetooth App möglich
+- Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
+- Einfache Einrichtung per Bluetooth: Tischleuchte mit integriertem Leuchtmittel platzieren, Hue Bluetooth App downloaden und schon können Sie Ihr Licht in einem Raum dimmen oder Lichtszenen einstellen
 - Wählen Sie in der Hue App aus 16 Mio. Farben und verschiedensten Weißtönen vom kühlen bis warmen Licht, um so einem Raum die gewünschte Farbe zu verleihen
+- Die intelligente Bluetooth-Beleuchtung von Philips Hue ist kompatibel mit dem Amazon Echo Dot (3. Generation), Echo Plus und Echo Show (2. Generation)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07SQ2FZTK/?tag=tolees0ca-21)
