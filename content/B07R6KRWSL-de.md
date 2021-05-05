@@ -28,10 +28,10 @@ Es gibt ein [TaoTronics Schreibtischlampe LED  Memory Funktion Tischlampe  3 Far
 
 ℹ️:
 
+- 【Komfortable Zweifache Stromversorgung】Kann per USB-Kabel oder Netzstecker betrieben und so überall und jederzeit benutzt werden
 - 【Energieeffiziente, langlebige Birne】Die LED der Energiesparklasse A hält bei normaler Nutzung bis zu 50.000 Stunden durch
-- 【Ergonomischer Touch Button】Wechseln Sie problemlos zwischen 3 Farbmodi (weiß, warmweiß und naturweiß) und 5 Helligkeitsstufen
 - 【Leicht und Anpassbar】Multi-Gelenk-Arm für ultimative Funktionalität; elegante, kompakte Form für einfaches Positionieren in jedem Umfeld
 - 【Automatische Speicherfunktion】Behalten Sie Ihre Lieblingseinstellungen einfach bei; die Lampe wählt automatisch die Helligkeitsstufe, für die Sie sich beim letzten Mal entschieden hatten
-- 【Komfortable Zweifache Stromversorgung】Kann per USB-Kabel oder Netzstecker betrieben und so überall und jederzeit benutzt werden
+- 【Ergonomischer Touch Button】Wechseln Sie problemlos zwischen 3 Farbmodi (weiß, warmweiß und naturweiß) und 5 Helligkeitsstufen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07R6KRWSL/?tag=tolees0ca-21)
