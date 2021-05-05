@@ -28,11 +28,11 @@ Es gibt ein [SHARP HT-SBW182  2.1 Slim Soundbar System mit kabellosem Subwoofer 
 
 ℹ️:
 
-- Passt unter Bildschirm der meisten Fernseher und Monitore dank schlankem und niedrigem Profil, LED-Anzeige zeigt deutlich ausgewählten Modus an
-- Bluetooth-In-Funktion: Abspielen von Audioinhalte Ihres Smartphones/ Mobiltelefons, Smart TV oder Tablets, Voreingestellter Equalizer
-- Anschluss an jedes Fernsehgerät mit HDMI, Digital Optical Audio, 3, 5-mm-Aux-Ausgang möglich, Maximale Ausgangsleistung 160 W
-- Leistungsstarkes Bluetooth-Soundbar-System mit kabellosem Subwoofer: TV-Heimkino- oder Gaming-Entertainment-Erlebnis, Optimal für das Wohnzimmer, die Küche, das Esszimmer und sogar fürs Schlafzimmer, Ideal geeignet für Fernseher und Monitore mit einer Bildschirmdiagonale von 43 "und darüber
-- Einfache Bedienung dank der mitgelieferten Fernbedienung oder Verwendung der TV-Fernbedienung (Verbindung HDMI ARC/ CEC-Funktion), Befestigung an der Wand oder Verwendung als Tisch-/TV-Standregal möglich
 - Lieferumfang: HT-SBW182, Netzteil, Fernbedienung inkl. Batterie, Bedienungsanleitung, Kurzanleitung
+- Anschluss an jedes Fernsehgerät mit HDMI, Digital Optical Audio, 3, 5-mm-Aux-Ausgang möglich, Maximale Ausgangsleistung 160 W
+- Passt unter Bildschirm der meisten Fernseher und Monitore dank schlankem und niedrigem Profil, LED-Anzeige zeigt deutlich ausgewählten Modus an
+- Leistungsstarkes Bluetooth-Soundbar-System mit kabellosem Subwoofer: TV-Heimkino- oder Gaming-Entertainment-Erlebnis, Optimal für das Wohnzimmer, die Küche, das Esszimmer und sogar fürs Schlafzimmer, Ideal geeignet für Fernseher und Monitore mit einer Bildschirmdiagonale von 43 "und darüber
+- Bluetooth-In-Funktion: Abspielen von Audioinhalte Ihres Smartphones/ Mobiltelefons, Smart TV oder Tablets, Voreingestellter Equalizer
+- Einfache Bedienung dank der mitgelieferten Fernbedienung oder Verwendung der TV-Fernbedienung (Verbindung HDMI ARC/ CEC-Funktion), Befestigung an der Wand oder Verwendung als Tisch-/TV-Standregal möglich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XY6NTZ4/?tag=tolees0ca-21)
