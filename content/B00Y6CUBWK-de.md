@@ -29,9 +29,9 @@ Es gibt ein [Philips Sonicare EasyClean Zahnbürste HX6512/45 - elektrische Scha
 ℹ️:
 
 - Mühelos Zähne putzen: Schwer erreichbare Stellen wie Backenzähne sind mithilfe des einzigartig angewinkelten Bürstenkopfes kein Problem mehr
-- Stets einsatzbereit für bis zu 2 Wochen Akkulaufzeit dank Lithium-Ionen-Akku
+- Lieferumfang: 1x Schallzahnbürste, 2x ProResults Plaque Standard Aufsteckbürste, 1x Ladestation / Farbe: Weiß
 - Der 2-Minuten-Timer vereinfacht die Einhaltung der empfohlenen Putzdauer & der 4-Quadranten-Timer sorgt für eine gleichmäßige Reinigung, indem er zeigt, wann ein Bereich vollständig gereinigt ist
 - Die elektrische Zahnbürste mit Schalltechnologie entfernt bis zu 6 Mal mehr Plaque als eine Handzahnbürste & sorgt mit dem Clean-Programm für eine ausgezeichnete tägliche Reinigung
-- Lieferumfang: 1x Schallzahnbürste, 2x ProResults Plaque Standard Aufsteckbürste, 1x Ladestation / Farbe: Weiß
+- Stets einsatzbereit für bis zu 2 Wochen Akkulaufzeit dank Lithium-Ionen-Akku
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00Y6CUBWK/?tag=tolees0ca-21)
