@@ -28,11 +28,11 @@ Sie können [LEGO Speed Champions - Lego 76897 Speed Champions 1985 Audi Sport Q
 
 ℹ️:
 
-- Die zahlreichen Teile in diesem Modellbausatz für Kinder sind kein Anlass zur Sorge. Dem Set liegt eine einfache Bauanleitung bei, damit der Spielspaß rasch beginnen kann.
-- Für dieses Spielset werden keinen Batterien benötigt! Nach dem Bauen kann sofort damit gespielt werden. Dem Auto reicht die Fantasie der Kinder als Antrieb.
-- Die LEGO Speed Champions Flitzer sind jetzt um 25 Prozent größer und sogar noch realistischer. Das Modell-Rallyeauto „1985 Audi Sport quattro S1“ ist 6 cm hoch, 16 cm lang und 7 cm breit. Folglich ist es kompakt genug, um überall mitgenommen zu werden.
-- Fans des „1985 Audi Sport quattro S1“ werden diese Mini-Version aus LEGO Steinen mit großer Begeisterung bauen. Sie können das Modell stolz präsentieren oder in Rennen gegen andere Flitzer schicken.
 - Dieses 250-teilige Bauset für Jungen und Mädchen ab 8 Jahren ist ein wunderbares Geschenk für leidenschaftliche Fans des berühmten Autos und alle, die gerne mit Spielzeug-Rennwagen spielen.
+- Die LEGO Speed Champions Flitzer sind jetzt um 25 Prozent größer und sogar noch realistischer. Das Modell-Rallyeauto „1985 Audi Sport quattro S1“ ist 6 cm hoch, 16 cm lang und 7 cm breit. Folglich ist es kompakt genug, um überall mitgenommen zu werden.
+- Die zahlreichen Teile in diesem Modellbausatz für Kinder sind kein Anlass zur Sorge. Dem Set liegt eine einfache Bauanleitung bei, damit der Spielspaß rasch beginnen kann.
+- Fans des „1985 Audi Sport quattro S1“ werden diese Mini-Version aus LEGO Steinen mit großer Begeisterung bauen. Sie können das Modell stolz präsentieren oder in Rennen gegen andere Flitzer schicken.
+- Für dieses Spielset werden keinen Batterien benötigt! Nach dem Bauen kann sofort damit gespielt werden. Dem Auto reicht die Fantasie der Kinder als Antrieb.
 - Das Baumodell „1985 Audi Sport quattro S1“ basiert auf dem Original und enthält eine Minifigur zum Sammeln, die einen authentischen Audi-Rennanzug trägt. Dieses Spielset wird Kinder fesseln, wenn sie ihrer Fantasie bei spannenden Rennen freien Lauf lassen.
 - Der Bausatz „1985 Audi Sport quattro S1“ enthält eine detailreiche LEGO Nachbildung des Rennwagens sowie eine Rennfahrer-Minifigur. Ein tolles Sammlerstück und das perfekte LEGO Geschenk für die vielen treuen Fans dieser Rallye-Ikone.
 
