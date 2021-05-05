@@ -28,8 +28,8 @@ Es gibt ein [Carrera 20020588 - Randstreifen 1/3 Gerade  2 ](https://www.amazon.
 
 ℹ️:
 
-- Ideales Carrera Zubehör für ihre Rennbahn
-- Verwendbar mit allen Carrera Evolution, Digital 132 und Digital 124 Rennbahnen
 - Randstreifen für 1/3 Gerade, 2 Stück
+- Verwendbar mit allen Carrera Evolution, Digital 132 und Digital 124 Rennbahnen
+- Ideales Carrera Zubehör für ihre Rennbahn
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KSLL64/?tag=tolees0ca-21)

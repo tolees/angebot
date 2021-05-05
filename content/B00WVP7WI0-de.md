@@ -28,9 +28,9 @@ Es gibt ein [Ultra Pro Ultra ProACCPRO044-Blue Standard Divers Abysse 100 Stück
 
 ℹ️:
 
+- Maße (B x H): 6,6 x 9,1 cm.
+- Hergestellt in China.
 - In Blau erhältlich
 - Offizielles Lizenzprodukt von Divers
-- Hergestellt in China.
-- Maße (B x H): 6,6 x 9,1 cm.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00WVP7WI0/?tag=tolees0ca-21)

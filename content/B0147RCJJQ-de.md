@@ -28,9 +28,9 @@ Sie können [InLine 99201I AmpEQ Hi-Res AUDIO Kopfhörer-Verstärker und Equaliz
 
 ℹ️:
 
+- Kopfhörer-Verstärker mit 3-Band Equalizer
 - 1x 3,5mm Stereo Klinken-Ausgang Kopfhörer
 - 2x 3,5mm Stereo Klinken-Eingang Line-IN
 - Loudness-Schalter und Schalter für den Equalizer
-- Kopfhörer-Verstärker mit 3-Band Equalizer
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0147RCJJQ/?tag=tolees0ca-21)
