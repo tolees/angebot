@@ -28,14 +28,14 @@ Sie können [Nokia 8000 4G Dual-SIM Mobiltelefon in edlem Look  2.8" QVGA Displa
 
 ℹ️:
 
-- Anzeige größe: 2.8 inches
-- moderne essentials wie whatsapp, facebook oder youtube, optimiert durch 4g technologie
-- Anzeige typ: LCD
-- Steckertyp: Micro-USB
-- fm radio und mp3-player
-- dank langer akkulaufzeit und 4g prädestiniert für den einsatz als wifi-hotspot für laptop oder tablet
-- nano dual-sim und microsd steckplatz für bis zu 128 gb speicherplatz
-- Welche komponenten sind im lieferumfang des produkts enthaltenen: Nokia 8000 4G Gerät, Netzteil, Kurzanleitung
 - 2 mp kamera
+- Anzeige größe: 2.8 inches
+- nano dual-sim und microsd steckplatz für bis zu 128 gb speicherplatz
+- dank langer akkulaufzeit und 4g prädestiniert für den einsatz als wifi-hotspot für laptop oder tablet
+- Anzeige typ: LCD
+- Welche komponenten sind im lieferumfang des produkts enthaltenen: Nokia 8000 4G Gerät, Netzteil, Kurzanleitung
+- moderne essentials wie whatsapp, facebook oder youtube, optimiert durch 4g technologie
+- fm radio und mp3-player
+- Steckertyp: Micro-USB
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08N1FV9NB/?tag=tolees0ca-21)

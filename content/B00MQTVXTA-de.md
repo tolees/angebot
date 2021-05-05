@@ -29,9 +29,9 @@ Es gibt ein [Kreul 49980 - Foto Transfer Potch Set  mit Potch  Überzugslack  Pi
 ℹ️:
 
 - Inhalt: 50 ml Foto Transfer Potch, 50 ml glänzender Überzuglack, Synthetikpinsel und Rakel
+- ideal für den Einstieg mit Anleitung und Step-by-Step-Abbildungen
 - für Ausdrucke aus Laserdrucker, Zeitungsausschnitte und Zeitschriftenbilder geeignet
 - Umfangreiches Foto Transfer Potch Set
-- ideal für den Einstieg mit Anleitung und Step-by-Step-Abbildungen
 - zum Übertragen von eigenen Motiven auf Keilrahmen, Holz, Keramik, Metall, Glas und Porzellan
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MQTVXTA/?tag=tolees0ca-21)
