@@ -28,10 +28,10 @@ Es gibt ein [super.natural Dünnes Herren Kurzarm T-Shirt  Mit Merinowolle  M BA
 
 ℹ️:
 
+- Materialmix: 50% Merinowolle und 50% strapazierfähiges Polyester, Pflegeleicht: Waschbar bis 40°C im Schonwaschgang, Trockner geeignet
+- Geruchshemmend durch antibakterielle Wirkung, Sehr weiche nicht kratzende Merinowolle für einen angenehmen Tragekomfort
 - Leichtes, unifarbenes Herren T-Shirt für milde Tage, Tragbar als Unterzieh-Shirt oder Herren T-Shirt im Alltag, beim Sport und auf Reisen, Körperbetonte Passform
 - Lieferumfang: 1 super.natural Herren Kurzarm T-Shirt, M Base Tee 140, Größe: M, Farbe: Dunkelblau
 - Temperaturregulierende Merinowolle mit natürlichem UV-Schutz: Kühlend bei Hitze und wärmend bei Kälte, Optimaler Feuchtigkeitstransport
-- Materialmix: 50% Merinowolle und 50% strapazierfähiges Polyester, Pflegeleicht: Waschbar bis 40°C im Schonwaschgang, Trockner geeignet
-- Geruchshemmend durch antibakterielle Wirkung, Sehr weiche nicht kratzende Merinowolle für einen angenehmen Tragekomfort
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4L3H4B/?tag=tolees0ca-21)

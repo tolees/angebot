@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional 7tlg. Flachfräsbohrer Set Self Cut Speed mit 1/
 
 ℹ️:
 
-- Hergestellt nach eigener Bosch-Werksnorm aus besonders vergütetem Stahl
-- Kompatibilität: Für alle Bohrmaschinen mit Sechskantschaftbohreraufnahme
 - Sehr schneller Bohrfortschritt durch optimierte Schneidengeometrie mit zwei Nebenschneiden und innovative selbsteinziehende Gewindespitze
 - Lieferumfang: Bohrer-Ø 16 / 18 / 20 / 22 / 25 / 32 mm
+- Hergestellt nach eigener Bosch-Werksnorm aus besonders vergütetem Stahl
 - Einsatzgebiete: Flachfräsbohrer zum professionellen Bearbeiten von Weichholz, Hartholz und Leichtbaustoffen
+- Kompatibilität: Für alle Bohrmaschinen mit Sechskantschaftbohreraufnahme
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008HRESU6/?tag=tolees0ca-21)

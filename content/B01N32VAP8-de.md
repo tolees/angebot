@@ -28,10 +28,10 @@ Es gibt ein [Robomow - Mähroboter RX 20u - für 200 m²](https://www.amazon.de/
 
 ℹ️:
 
+- Sobald er den Mähvorgang abgeschlossen hat oder der Akkustand zu niedrig ist, fährt er automatisch zu seiner Ladestation zurück und lädt sich wieder auf
+- Die hintere Gleitfläche sorgt zudem für eine hervorragende Wendigkeit, sodass der Rasenroboter jegliche Hindernisse problemlos umfahren kann
 - Mit einer Mähdauer von 90 120 Minuten erledigt er seine Arbeit absolut präzise
 - Der Mähroboter RX20 von Robomow wird für eine Rasenfläche von bis zu 200m² empfohlen
-- Die hintere Gleitfläche sorgt zudem für eine hervorragende Wendigkeit, sodass der Rasenroboter jegliche Hindernisse problemlos umfahren kann
-- Sobald er den Mähvorgang abgeschlossen hat oder der Akkustand zu niedrig ist, fährt er automatisch zu seiner Ladestation zurück und lädt sich wieder auf
 - Denn dank dieses Sensors wird die Klinge unverzüglich angehalten, sobald der Roboter hochgehoben wird
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N32VAP8/?tag=tolees0ca-21)
