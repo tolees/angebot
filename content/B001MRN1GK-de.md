@@ -28,8 +28,8 @@ Sie können [KNIPEX Justierzange  135 mm  32 21 135](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Polierte Greifflächen
 - Zum Greifen von Bauteilen und Drähten mit kleinem Durchmesser sowie zum Biegen von Kontakt- und Relaisfedern
+- Polierte Greifflächen
 - Kanten sorgfältig entgratet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001MRN1GK/?tag=tolees0ca-21)

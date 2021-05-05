@@ -28,10 +28,10 @@ Es gibt ein [ESPRIT Herren Solid 5-Pack M SN Socken  Schwarz  Black 3000   40-47
 
 ℹ️:
 
-- Geschlechtsspezifische Passform durch den Einsatz spezieller Strickverfahren und unterschiedlicher Strickzylinder zur Berücksichtigung geschlechtsspezifischer Proportionen für eine optimale faltenfreie Passform und höchsten Tragekomfort. Dank des One-size-fits-all-Größen Konzepts passen Burlington-Socken jedem Fuß und eignen sich daher auch ideal als Geschenk
 - Herrensneakersocken im Mehrfachpack verstärkt, knöchelfrei und aus weichem Material ohne Muster und für Schuhe wie Sneaker geeignet; Sneaker kurz, knöchelhoch, fusselfrei und fast unsichtbar im Schuh; 5 Paar Socken von ESPRIT
+- Geschlechtsspezifische Passform durch den Einsatz spezieller Strickverfahren und unterschiedlicher Strickzylinder zur Berücksichtigung geschlechtsspezifischer Proportionen für eine optimale faltenfreie Passform und höchsten Tragekomfort. Dank des One-size-fits-all-Größen Konzepts passen Burlington-Socken jedem Fuß und eignen sich daher auch ideal als Geschenk
+- Modellnummer Esprit Herren Solid 5-Pack Sneaker: 17990; Einheitsgröße: 40-46
 - Esprit Solid 5-Pack Herrenstrümpfe sind tief und fusselfrei; Passform und Farbe bleiben erhalten auch nach mehrmaligem Waschen; Diese Männersocken sind bei 40°C im Schonwaschgang zu waschen.
 - Blickdichte, einfarbige Herrensocken im Mehrpack zur Arbeit, beim Laufen, zum Sport oder für die Freizeit; Kurzsocken drücken nicht durch flache Naht an den Zehen; Die Ferse und Hacke ist bedeckt und die Sneakersocken enden unter dem Knöchel; idealer Artikel für den Sommer; Halbsocken für Männer, Jungen und Teenager
-- Modellnummer Esprit Herren Solid 5-Pack Sneaker: 17990; Einheitsgröße: 40-46
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01EZVMQ4W/?tag=tolees0ca-21)

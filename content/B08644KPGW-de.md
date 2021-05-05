@@ -30,8 +30,8 @@ Es gibt ein [Apple iPad Pro  12 9"  4. Generation  Wi-Fi  256 GB  - Space Grau 
 
 - 12 Megapixel Weitwinkelkamera, 10 Megapixel Ultraweitwinkel-Kamera und LiDAR Scanner
 - Face ID für sicheres Authentifizieren und Apple Pay
+- 12,9" All‑Screen Liquid Retina Display mit ProMotion, True Tone und großem P3 Farbraum
 - 7 Megapixel TrueDepth Frontkamera
 - A12Z Bionic Chip mit Neural Engine
-- 12,9" All‑Screen Liquid Retina Display mit ProMotion, True Tone und großem P3 Farbraum
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08644KPGW/?tag=tolees0ca-21)
