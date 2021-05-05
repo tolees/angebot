@@ -28,10 +28,10 @@ Es gibt ein [Honeywell Howard Leight - Honeywell 1018953 Howard Leight Auswirku
 
 ℹ️:
 
-- Sprachverstärkung für verbesserte Kommunikation
-- Saugfähige Pads für mehr Komfort
 - Anschluss für MP3-Player und Smartphone
-- Verbesserte Batterielebensdauer durch automatisches Ausschalten nach 4 Stunden
+- Sprachverstärkung für verbesserte Kommunikation
 - Externes Batteriefach
+- Verbesserte Batterielebensdauer durch automatisches Ausschalten nach 4 Stunden
+- Saugfähige Pads für mehr Komfort
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00D3FG2SS/?tag=tolees0ca-21)

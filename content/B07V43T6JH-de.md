@@ -28,9 +28,9 @@ Es gibt ein [POC Orb Clarity  Lead Blue/Spektris Orange  ONE SIZE](https://www.a
 
 ℹ️:
 
+- Maximiertes Blickfeld durch die neue, innovative Rahmenform
 - Clarity Scheibe von Zeiss
 - Einzigartige Spektris Verspiegelung
 - Rahmenzusammensetzung aus Grilamid und TPU für Widerstandsfähigkeit und Flexibilität
-- Maximiertes Blickfeld durch die neue, innovative Rahmenform
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07V43T6JH/?tag=tolees0ca-21)

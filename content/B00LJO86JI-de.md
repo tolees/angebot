@@ -29,9 +29,9 @@ Es gibt ein [Transcend 240GB JetDrive 725 SATA III 6Gb/s SSD Upgrade Kit für Ma
 ℹ️:
 
 - Kompatibel mit MacBook Pro Retina 15” (Mitte 2012 - Anfang 2013)
-- SATA III 6Gb/s Schnittstelle
-- Installationswerkzeuge inklusive
 - Kostenloser Download der JetDrive Toolbox Software
 - Bis zu 570 MB/s Lesen; 460 MB/s Schreiben
+- Installationswerkzeuge inklusive
+- SATA III 6Gb/s Schnittstelle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00LJO86JI/?tag=tolees0ca-21)
