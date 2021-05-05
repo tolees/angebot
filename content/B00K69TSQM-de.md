@@ -28,10 +28,10 @@ Sie können [Max Factor Facefinity All Day Primer – Mattierende Make-Up Base f
 
 ℹ️:
 
-- Eine sichere Grundlage: Der Make-up Primer verlängert den Halt der Lieblingsfoundation und verleiht ein vollkommenes Finish - den ganzen Tag lang
-- Lieferumfang: 1 x 30 ml Facefinity All Day Primer von Max Factor / Für jeden Hauttyp geeignet / Foundation Primer mit LSF 20
-- Der integrierte Lichtschutzfaktor 20 wirkt durch Sonneneinstrahlung beanspruchter Haut entgegen - für sorglose, spontane Spaziergänge bei Sonnenschein oder ein Treffen mit Freunden im Park
 - Mit dem Face Primer bleibt der Teint makellos schön, da Talg und überschüssiger Glanz absorbiert werden - für einen matten, natürlichen Look
 - Der Primer bereitet die Haut perfekt auf das Make-up vor und hält es dank Flexihold-Technologie an Ort und Stelle - ein Auffrischen des Make-ups ist nicht mehr nötig
+- Lieferumfang: 1 x 30 ml Facefinity All Day Primer von Max Factor / Für jeden Hauttyp geeignet / Foundation Primer mit LSF 20
+- Eine sichere Grundlage: Der Make-up Primer verlängert den Halt der Lieblingsfoundation und verleiht ein vollkommenes Finish - den ganzen Tag lang
+- Der integrierte Lichtschutzfaktor 20 wirkt durch Sonneneinstrahlung beanspruchter Haut entgegen - für sorglose, spontane Spaziergänge bei Sonnenschein oder ein Treffen mit Freunden im Park
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00K69TSQM/?tag=tolees0ca-21)
