@@ -28,13 +28,13 @@ Es gibt ein [Amazon - Der neue Echo  4. Generation   Anthrazit + Philips Hue Whi
 
 ℹ️:
 
-- Smart Home leicht gemacht – Richten Sie kompatible Zigbee-Produkte ganz einfach mit dem integrierten Smart Home-Hub ein und steuern Sie Lampen, Türschlösser und Sensoren mit Ihrer Stimme.
 - Bleiben Sie in Verbindung – Tätigen Sie Anrufe ganz einfach per Sprachsteuerung. Verbinden Sie sich direkt über Drop In mit anderen Räumen oder verkünden Sie im gesamten Haushalt, dass das Abendessen fertig ist.
-- Entwickelt, um Datenschutz zu gewährleisten – Umfasst Datenschutz- und Kontrollmaßnahmen auf mehreren Ebenen, darunter eine Mikrofon-aus-Taste, mit der Sie die Stromzufuhr zu den Mikrofonen unterbrechen und sie somit deaktivieren können.
-- Ein Klangerlebnis für das gesamte Zuhause – Mit Multiroom Musik können Sie Musik auf mehreren Echo-Geräten gleichzeitig in verschiedenen Räumen abspielen. Außerdem können Sie Ihr Echo-Gerät mit Fire TV verknüpfen, um Szenen mit Klang in Heimkino-Qualität zum Leben zu erwecken.
-- Stets bereit – Alexa kann Musik abspielen, Fragen beantworten, die Nachrichten und den Wetterbericht vorlesen, Wecker stellen, kompatible Smart Home-Geräte steuern und vieles mehr.
-- Neuer Look, neuer Sound – Echo bietet satten, detailgetreuen Klang, der sich automatisch an jeden Raum anpasst. Genießen Sie klare Höhen, dynamische Mitten und tiefe Bässe.
-- Dieses Bundle enthält Echo (4. Gen.) und eine Philips Hue-Glühlampe – alles, was Sie benötigen, um mit Ihrem Smart Home loszulegen.
 - Sprachsteuerung für Ihre Unterhaltung – Streamen Sie Songs von Amazon Music, Apple Music, Spotify, Deezer und mehr. Hören Sie zudem Radiosender, Podcasts und Audible-Hörbücher.
+- Ein Klangerlebnis für das gesamte Zuhause – Mit Multiroom Musik können Sie Musik auf mehreren Echo-Geräten gleichzeitig in verschiedenen Räumen abspielen. Außerdem können Sie Ihr Echo-Gerät mit Fire TV verknüpfen, um Szenen mit Klang in Heimkino-Qualität zum Leben zu erwecken.
+- Dieses Bundle enthält Echo (4. Gen.) und eine Philips Hue-Glühlampe – alles, was Sie benötigen, um mit Ihrem Smart Home loszulegen.
+- Neuer Look, neuer Sound – Echo bietet satten, detailgetreuen Klang, der sich automatisch an jeden Raum anpasst. Genießen Sie klare Höhen, dynamische Mitten und tiefe Bässe.
+- Stets bereit – Alexa kann Musik abspielen, Fragen beantworten, die Nachrichten und den Wetterbericht vorlesen, Wecker stellen, kompatible Smart Home-Geräte steuern und vieles mehr.
+- Smart Home leicht gemacht – Richten Sie kompatible Zigbee-Produkte ganz einfach mit dem integrierten Smart Home-Hub ein und steuern Sie Lampen, Türschlösser und Sensoren mit Ihrer Stimme.
+- Entwickelt, um Datenschutz zu gewährleisten – Umfasst Datenschutz- und Kontrollmaßnahmen auf mehreren Ebenen, darunter eine Mikrofon-aus-Taste, mit der Sie die Stromzufuhr zu den Mikrofonen unterbrechen und sie somit deaktivieren können.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08H6K2SPR/?tag=tolees0ca-21)
