@@ -28,10 +28,10 @@ Sie können [Tommy Hilfiger JOHNSON TRIFOLD AM0AM00665 Herren Geldbörsen 13x10x
 
 ℹ️:
 
-- Außenmaße (LxBxH): 12.5cm x 10cm x 3cm
-- Material: Leder
-- Anzahl Kreditkartenfächer: 10
 - Serie: Johnson
+- Anzahl Kreditkartenfächer: 10
 - Verschlussart: offen
+- Material: Leder
+- Außenmaße (LxBxH): 12.5cm x 10cm x 3cm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00X0W9J5W/?tag=tolees0ca-21)

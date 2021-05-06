@@ -28,10 +28,10 @@ Sie können [Intex 66642 Luftpumpe Quick Fill 230 V](https://www.amazon.de/dp/B0
 
 ℹ️:
 
+- 12 Volt Anschluss z.b. für Zigarettenanzünder im Auto gedacht
+- für den Innen- und Außenbereich geeignet
+- durch den AC power Adapter das Aufladen im Haus möglich
 - automatischer Aufladestopp zu ihrer Sicherheit
 - 3 verschiedene Düsen; kann zum Aufblasen und Absaugen verwendet werden
-- 12 Volt Anschluss z.b. für Zigarettenanzünder im Auto gedacht
-- durch den AC power Adapter das Aufladen im Haus möglich
-- für den Innen- und Außenbereich geeignet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FBJ1KXF/?tag=tolees0ca-21)
