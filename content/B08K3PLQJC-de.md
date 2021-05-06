@@ -28,9 +28,9 @@ Sie können [be quiet! Watercooling Be Quiet Pure Loop Wasserkühlung  120 mm  S
 
 ℹ️:
 
-- Hohe Kühlleistung
-- Refill Port ist leicht zu erreichen und vereinfacht so das Nachfüllen
 - Verpackungsgewicht : 1.633 kg
+- Hohe Kühlleistung
 - Doppelt entkoppelte Pumpe für leisen Betrieb und minimale Vibrationen
+- Refill Port ist leicht zu erreichen und vereinfacht so das Nachfüllen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08K3PLQJC/?tag=tolees0ca-21)
