@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '36.29 % rabat auf Universal Pictures - E.T. - Der Außerird'
-date: 2021-05-04 07:42:49
+date: 2021-05-06 01:45:51
 image: 'https://m.media-amazon.com/images/I/51Eh1kGK2SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.de/dp/B00BMGKHWC/?tag=tolees0ca-21'
 descuento: '36.29'
-average: '8.0701449275362'
+average: '8.05237410071939'
 ---
 
 Es gibt ein [Universal Pictures - E.T. - Der Außerirdische [Blu-ray]](https://www.amazon.de/dp/B00BMGKHWC/?tag=tolees0ca-21) mit aktuellem Preis 5.6 EUR (original: 8.79 EUR) 36.29 % Rabatt hier:
