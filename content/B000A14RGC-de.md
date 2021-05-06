@@ -31,7 +31,7 @@ Es gibt ein [WMF Classic Line Messerblock mit Messerset 6-teilig  bestückt  5 M
 - Material: Klinge aus rostfreiem und säurebeständigem Spezialklingenstahl. Fugenlos vernieteter Griff aus hochwertigem Kunststoff. Messerblock aus Birkenholz. Reinigung Messer: Handwäsche empfohlen
 - Sichere und übersichtliche Aufbewahrung. Nur abgetrocknete Messer in den Messerblock stecken
 - Ergonomisch geformter Griff und ideal ausbalanciertes Gewicht von Klinge und Griff für angenehme Handhabung
-- Inhalt: 1x Messerblock, 1x Gemüsemesser 18,5 cm, 1x Steakmesser 22 cm, 1x Fleischmesser 34,5 cm, 1x Zubereitungsmesser 27 cm, 1x Brotmesser mit Wellenschliff 34 cm - Artikelnummer: 1874699990
 - Langanhaltende Schärfe dank gehärteter Klinge - deutlich robuster als herkömmlicher Edelstahl. Brotmesser mit Wellenschliff: Schneidet völlig gerade, ohne dass die Klinge schräg abgleitet
+- Inhalt: 1x Messerblock, 1x Gemüsemesser 18,5 cm, 1x Steakmesser 22 cm, 1x Fleischmesser 34,5 cm, 1x Zubereitungsmesser 27 cm, 1x Brotmesser mit Wellenschliff 34 cm - Artikelnummer: 1874699990
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000A14RGC/?tag=tolees0ca-21)
