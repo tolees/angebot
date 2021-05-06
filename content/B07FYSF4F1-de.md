@@ -28,10 +28,10 @@ Sie können [tado° Smartes Heizkörper-Thermostat - Starter Kit V3+ - Intellige
 
 ℹ️:
 
-- Mit der tado° App auf ihrem Smartphone können Sie ihre Heizung von überall bedienen und haben die Aktivität und die Einsparung immer im Blick
+- Smart Home Integration und Sprachsteuerung der Heizung mit Amazon Alexa, Apple HomeKit und Google Assistant
 - Ideal für Zentralheizung und Fernwärme. Passt auf gängige Heizkörper mit thermostatischen Heizkörperventilen
 - Auto-Assist: Für noch mehr Komfort können Sie die Ortsabhängige Steuerung und Fenster-Offen-Erkennung automatisieren und bekommen Zugriff zu Care & Protect (in der App für 2,99€/Monat, 24,99€/Jahr buchbar, jederzeit kündbar)
 - Reduzieren Sie ihren Energieverbrauch, sparen Sie Geld und genießen Sie die ideale Raumtemperatur zur jeder Zeit mithilfe intelligenter Skills: Ortsabhängige Steuerung, Fenster-Offen-Erkennung, Wettervorhersage-Steuerung und Intelligenter Zeitplan
-- Smart Home Integration und Sprachsteuerung der Heizung mit Amazon Alexa, Apple HomeKit und Google Assistant
+- Mit der tado° App auf ihrem Smartphone können Sie ihre Heizung von überall bedienen und haben die Aktivität und die Einsparung immer im Blick
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FYSF4F1/?tag=tolees0ca-21)
