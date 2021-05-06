@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.60 % rabat auf Concorde Video - Ein Sommer in der Prove'
-date: 2021-05-05 02:47:40
+date: 2021-05-06 02:52:40
 image: 'https://m.media-amazon.com/images/I/51ddN8gMypL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
