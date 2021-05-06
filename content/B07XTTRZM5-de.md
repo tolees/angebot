@@ -28,10 +28,10 @@ Sie können [AEG KF 7700 Kaffeemaschine  Programmierbarer Timer  LCD-Display  Ar
 
 ℹ️:
 
-- Befüllen: Nach Öffnen des Deckels kann ganz bequem Wasser eingefüllt, der Filterhalter entnommen und befüllt bzw. entleert werden
 - Praktisch: Automatische Sicherheitsabschaltung nach 40 min - Warmhaltefunktion (40 min) - hochwertiges LCD-Display
-- Programmierbar: Bis zu 24 Stunden im Voraus programmieren - Aroma-Funktion für optimalen Geschmack - verlängert den Brühvorgang für ein außergewöhnliches Aroma
-- Dosierung: Von außen gut sichtbare Wasserstands- und Kaffee-Dosierungs-Anzeige
 - Lieferumfang: 1x Kaffeemaschine KF 7700 mit 1,375 l Glaskanne (10 Tassen) // Zubehör-Empfehlung: Universal Entkalker ECF5
+- Befüllen: Nach Öffnen des Deckels kann ganz bequem Wasser eingefüllt, der Filterhalter entnommen und befüllt bzw. entleert werden
+- Dosierung: Von außen gut sichtbare Wasserstands- und Kaffee-Dosierungs-Anzeige
+- Programmierbar: Bis zu 24 Stunden im Voraus programmieren - Aroma-Funktion für optimalen Geschmack - verlängert den Brühvorgang für ein außergewöhnliches Aroma
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XTTRZM5/?tag=tolees0ca-21)
