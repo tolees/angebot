@@ -28,9 +28,9 @@ Es gibt ein [Philips Hue White & Color Ambiance E14 LED Lampe Doppellpack dimmba
 
 ℹ️:
 
-- Einfache Einrichtung per Bluetooth: E14 LED Lampe in die fassung drehen, Hue Bluetooth App downloaden und schon können Sie Ihr Licht in einem Raum dimmen oder Lichtszenen einstellen
-- Diffuse Beleuchtung: Setzen Sie mit der Hue Iris farbige Akzente an Wänden und Möbeln oder nutzen Sie die Deep dimming Funktion (<1 % Helligkeit) für das ideale Nachtlicht
 - Personalisierte Beleuchtung: Wählen Sie aus 16 Mio. Farben oder verschiedensten Weißtönen, vom kühlen bis warmen Licht, um so einem Raum die gewünschte Farbe zu verleihen.
+- Diffuse Beleuchtung: Setzen Sie mit der Hue Iris farbige Akzente an Wänden und Möbeln oder nutzen Sie die Deep dimming Funktion (<1 % Helligkeit) für das ideale Nachtlicht
+- Einfache Einrichtung per Bluetooth: E14 LED Lampe in die fassung drehen, Hue Bluetooth App downloaden und schon können Sie Ihr Licht in einem Raum dimmen oder Lichtszenen einstellen
 - Für die Bedienung im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und erleben Sie das volle Smart-Home-Erlebnis mit zahlreichen Funktionen.
 - Die intelligente Bluetooth-Beleuchtung von Philips Hue ist kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation).
 
