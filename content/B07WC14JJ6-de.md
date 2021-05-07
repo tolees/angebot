@@ -28,9 +28,9 @@ Es gibt ein [LEGO 41392 Friends Camping in Heartlake City  Spielset mit Olivia &
 
 ℹ️:
 
-- Enthält zwei Mini-Spielfiguren Mia und Olivia und ein Spielzeug-Eichhörnchen, das im Baumhaus lebt. Auch ein Fahrrad mit Helm und einem Lautsprecher zum Chillen sind da
-- Dieses Camping-Spielzeug enthält ein LEGO Zelt mit weichem Plastikdach, ein Lagerfeuer, ein Teleskop und sogar einen Whirlpool unter einem Baum
 - Das Spielzeuglager mit den Mini-Spielzeugfiguren ist mit einer Lichterkette geschmückt, damit das niedliche Zelt mit einem Smartphone fotografiert werden kann, um Bilder an Freunde schicken zu können
+- Dieses Camping-Spielzeug enthält ein LEGO Zelt mit weichem Plastikdach, ein Lagerfeuer, ein Teleskop und sogar einen Whirlpool unter einem Baum
+- Enthält zwei Mini-Spielfiguren Mia und Olivia und ein Spielzeug-Eichhörnchen, das im Baumhaus lebt. Auch ein Fahrrad mit Helm und einem Lautsprecher zum Chillen sind da
 - Das Spielset beinhaltet Betten, Hocker, einen Schrank mit Haarbürste und Lippenstiftständer, eine Laterne, eine Taschenlampe, ein Fernglas, sogar Kirschen in Getränken
 - Nach dem Herunterladen der LEGO Life App haben die Kinder Zugriff auf die digitale Anleitung Instructions PLUS, um eine Ansicht ihres Spielzeug-Zeltlagers im Geistmodus heranzoomen, drehen und anzeigen zu können
 
