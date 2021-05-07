@@ -28,10 +28,10 @@ Sie können [Pioneer S6 Wireless ANC Kopfhörer  faltbar  Geräuschunterdrückun
 
 ℹ️:
 
-- Langlebiger Akku mit bis zu 20/30 (ANC aus/ein) Stunden Bluetooth Wiedergabe und 3 Stunden Wiedergabe nach 10-minütiger Schellladung
 - Dank Mehrpunktfunktion können zwei Geräte gleichzeitig verbunden werden (Musik/Anrufe von jew. einem der Geräte aus)
-- Multifunktionstaste für Zugang zum Sprachassistenten und freihändige Steuerung von Anrufen und Musik
+- Langlebiger Akku mit bis zu 20/30 (ANC aus/ein) Stunden Bluetooth Wiedergabe und 3 Stunden Wiedergabe nach 10-minütiger Schellladung
 - Mit ANC (Active Noise Cancelling) werden ungebetene Umgebungsgeräusche ganz einfach ausgeblendet
+- Multifunktionstaste für Zugang zum Sprachassistenten und freihändige Steuerung von Anrufen und Musik
 - Zusammenklappbares Design für einfachen Transport
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ZHR8X3Y/?tag=tolees0ca-21)
