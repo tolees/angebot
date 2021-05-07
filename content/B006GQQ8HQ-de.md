@@ -28,10 +28,10 @@ Es gibt ein [GROHE | Zubehör - Thermostat-Kompaktkartusche | 1/2 Zoll | 4743900
 
 ℹ️:
 
-- Robust und Passgenau
-- Original Ersatzteil
 - Langlebig
+- Robust und Passgenau
 - Lieferumfang: Thermostat - Komptaktkartusche
 - Herstellergarantie: 5 Jahre. Die Garantiebedingungen finden Sie unter Weitere technische Informationen. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Original Ersatzteil
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006GQQ8HQ/?tag=tolees0ca-21)

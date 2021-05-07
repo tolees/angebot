@@ -28,9 +28,9 @@ Sie können [Philips FC8054/02 Aquatrio Austausch-Bürste  Doppelpack](https://w
 
 ℹ️:
 
-- Mikrofaser-Bürsten zum gleichzeitigen Wischen, Saugen und Trocknen in einem Durchgang
-- Nur durch regelmäßigen Austausch der Mikrofaserbürsten wird volle Hygiene und perfekte Leistung des AquaTrio sichergestellt.
-- kompatibel für FC7070 und FC7080
 - Durch die hohe Produktqualität kann die Bürste auch bei intensiven Einsatz bis zu 6 Monate genutzt werden.
+- Mikrofaser-Bürsten zum gleichzeitigen Wischen, Saugen und Trocknen in einem Durchgang
+- kompatibel für FC7070 und FC7080
+- Nur durch regelmäßigen Austausch der Mikrofaserbürsten wird volle Hygiene und perfekte Leistung des AquaTrio sichergestellt.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00M9ANGVY/?tag=tolees0ca-21)
