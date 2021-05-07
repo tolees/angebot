@@ -28,10 +28,10 @@ Es gibt ein [MVPower 3000L/H Wasserpumpe Tauchpumpe Amphibisch Teichpumpe Aquari
 
 ℹ️:
 
-- Füße mit 4 Saugnapf
 - Energieeffiziente Pumpe für Brunnen, Teiche, Aquarien
-- Die Fördermenge beträgt 3000L/h bei einer Leistungsaufnahme von 40W
-- In Meerwasser und Süßwasser zu gebrauchen
 - Die Förderhöhe ist 2.8m, das Anschlusskabel ist 2.3m lang（Der markierte Förderhöhe kann nur erreicht werden, wenn der Wasserdruck relativ stark ist und der Schlauch verwendet wird，Aufgrund unterschiedlicher Wasserdrücke ist der tatsächliche Förderhöhe normalerweise kleiner als der markierte Förderhöhe.）
+- In Meerwasser und Süßwasser zu gebrauchen
+- Füße mit 4 Saugnapf
+- Die Fördermenge beträgt 3000L/h bei einer Leistungsaufnahme von 40W
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07B8MHYCP/?tag=tolees0ca-21)

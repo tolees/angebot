@@ -28,9 +28,9 @@ Es gibt ein [Compo Ortiva Spezial Pilz-frei AF  Bekämpfung von Pilzkrankheiten 
 
 ℹ️:
 
-- Hochwirksames, nicht bienengefährliches Pilzmittel zur Bekämpfung von Kraut- und Braunfäule, Echten und Falschen Mehltau, Rost, Blattflecken und anderen Pilzkrankheiten an Zierpflanzen, Ziergehölzen, Rosen und Gemüse
-- Zuverlässige und heilende Wirkung: Breites Wirkungsspektrum mit Schwerpunkt auf Mehltau und Blattfleckenkrankheiten, Verteilung in den Blättern und Wirkung von innen heraus, Auch gegen Sporen wirksam, Nicht bienengefährlich
-- Hochwirksames Pilzmittel zur Bekämpfung von Blattflecken, Echten Mehltau, Sternrußtau und anderen Pilzkrankheiten an Zierpflanzen, Gemüse und Kräutern, Speziell für kleinere Anwendungen im Garten und für Pflanzen auf Balkon und Terrasse
 - Vorbeugende und heilende Wirkung: Schutz vor beginnendem und Stopp von vorhandenem Befall, Auch Schutz des Neuaustriebs, Ideale Sofort- und Dauerwirkung dank optimaler Aufnahme des Wirkstoffs, Nicht bienengefährlich, Gut pflanzenverträglich
+- Hochwirksames Pilzmittel zur Bekämpfung von Blattflecken, Echten Mehltau, Sternrußtau und anderen Pilzkrankheiten an Zierpflanzen, Gemüse und Kräutern, Speziell für kleinere Anwendungen im Garten und für Pflanzen auf Balkon und Terrasse
+- Zuverlässige und heilende Wirkung: Breites Wirkungsspektrum mit Schwerpunkt auf Mehltau und Blattfleckenkrankheiten, Verteilung in den Blättern und Wirkung von innen heraus, Auch gegen Sporen wirksam, Nicht bienengefährlich
+- Hochwirksames, nicht bienengefährliches Pilzmittel zur Bekämpfung von Kraut- und Braunfäule, Echten und Falschen Mehltau, Rost, Blattflecken und anderen Pilzkrankheiten an Zierpflanzen, Ziergehölzen, Rosen und Gemüse
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07PYD6RLD/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [EBL Akku Ladegerät - für AA AAA NI-MH NI-CD Akkubatterien  8 Stec
 
 ℹ️:
 
+- 🔋【LED Anzeige】: Die vier kleinen LEDs spielen beim Laden eine wichtige Rolle und geben Ihnen die Signale: Die orange LED zeigt an, dass die Batterien noch aufgeladen werden müssen, die grüne LED ist vollständig aufgeladen.
 - 🔋【Sicherheitsaufladung】Dank fortschrittlicher Technik hat EBL Batterieladegerät eine außergewöhnliche Wärmeableitung, hervorragende Überlast- / Überspannungs- / Überstrom- / Überhitzungs- / Kurzschlussschutzleistung.
 - 🔋【16er pack EBL Akku】16pcs Ni-MH AAA Akku - EBL aufladbare AAA Batterien geeignet alle Geräte, die AAA Akkus benötigen und können bei vollständiger oder teilweiser Aufladung bis zu 1,200 Mal aufgeladen werden.
 - 🔋【Erhaltungsladung】Das Ladegerät erkennt automatisch den Akkustatus und wählt den passenden Lademodus nach Erhaltungsladung, um eine optimale Performance und eine lange Lebensdauer der Akkus zu garantieren.
 - 🔋【8 Steckplätze Smart Akkuladegerät】8-Ladeschacht zum gleichzeitigen Laden von Mignon AA oder Micro AAA NiMh/NiCd Akkus in Paaren 2/4/6/8. Hohe Leistungsfähigkeit und leicht zu verwenden.
-- 🔋【LED Anzeige】: Die vier kleinen LEDs spielen beim Laden eine wichtige Rolle und geben Ihnen die Signale: Die orange LED zeigt an, dass die Batterien noch aufgeladen werden müssen, die grüne LED ist vollständig aufgeladen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085NVWWDN/?tag=tolees0ca-21)
