@@ -28,9 +28,9 @@ Es gibt ein [beaphar - Zahnpasta 100 g](https://www.amazon.de/dp/B00JJS264M/?tag
 
 ℹ️:
 
+- Ohne Fluorid
 - Paste mit Leber-Geschmack
 - Zur Bekämpfung von Plaque
-- Ohne Fluorid
 - Zur Zahnpflege bei Hunden & Katzen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JJS264M/?tag=tolees0ca-21)
