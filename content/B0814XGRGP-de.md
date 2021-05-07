@@ -28,10 +28,10 @@ Es gibt ein [Orient Automatische Uhr RA-AC0H01L10B](https://www.amazon.de/dp/B08
 
 ℹ️:
 
-- Automatik
-- Blau und Metallig
 - lässig
+- Blau und Metallig
 - Wasserfest auf 100m
 - Herren Edelstahl Analog
+- Automatik
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0814XGRGP/?tag=tolees0ca-21)

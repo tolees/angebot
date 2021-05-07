@@ -29,9 +29,9 @@ Es gibt ein [Ledlenser  MT10  LED Taschenlampe  1000 Lumen  mit Akku  wiederaufl
 ℹ️:
 
 - Mit der praktischen Speed Charging-Funktion ist die Ledlenser MT10 in 6 Stunden wieder komplett aufgeladen.
-- Sehr leichte (156g), hochwertige LED-Taschenlampe mit Akku für Jagd-, Angel- und Campingausflüge mit hohen Ansprüchen an Material und Ausrüstung
 - Individuelle Programmierung der Lampe für optimale Anpassung an die jeweilige Einsatzsituation möglich (Smart Light Technology)
 - Einfache Bedienung durch Frontschalter und schnelles Fokussieren mit einer Hand (Rapid Focus) für einen stufenlosen Übergang von homogenem, kreisrundem Nahlicht zu scharf gebündeltem Fernlicht (Advanced Focus Technology)
+- Sehr leichte (156g), hochwertige LED-Taschenlampe mit Akku für Jagd-, Angel- und Campingausflüge mit hohen Ansprüchen an Material und Ausrüstung
 - Mit bis zu 1000 Lumen bietet sie enorme Leuchtkraft bei geringen Abmessungen und langer Leuchtdauer (bis zu 144h)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XD6V62N/?tag=tolees0ca-21)

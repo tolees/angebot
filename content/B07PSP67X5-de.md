@@ -29,9 +29,9 @@ Sie können [Bakugan Starter Pack mit 3 Bakugan  1 Ultra & 2 Basic Balls   unter
 ℹ️:
 
 - Sammeln, tauschen, battlen: Starte deine Bakugan-Sammlung mit dem Paket bestehend aus 3 sich transformierenden Bakugan den dazugehörigen BakuCores, Charakterkarten und Fähigkeitskarten. Tausche sie oder ziehe direkt ins Battle
-- Inhalt: 1 Ultra Bakugan, 2 Basic Bakugan, 6 BakuCores, 3 Charakterkarten, 3 Fähigkeitskarten (für das erweiterte Spielprinzip)
-- 3 transformierende Bakugan: Für ein offizielles Bakugan Battle werden 3 Bakugan benötigt. Entscheide dich, welchen du zuerst wählst, deinen Bakugan Ultra, der aufspringt, das BakuCore aufnimmt und die verborgene B-Power zeigt oder einen von zwei Basic Bakugan, die auf den BakuCores stehen bleiben. Rolle deine Bakugan für überraschende Transformationen
 - HINWEIS: Online ist keine Auswahl einer bestimmten Variante möglich. Das gelieferte Produkt kann von den Abbildungen abweichen
+- 3 transformierende Bakugan: Für ein offizielles Bakugan Battle werden 3 Bakugan benötigt. Entscheide dich, welchen du zuerst wählst, deinen Bakugan Ultra, der aufspringt, das BakuCore aufnimmt und die verborgene B-Power zeigt oder einen von zwei Basic Bakugan, die auf den BakuCores stehen bleiben. Rolle deine Bakugan für überraschende Transformationen
+- Inhalt: 1 Ultra Bakugan, 2 Basic Bakugan, 6 BakuCores, 3 Charakterkarten, 3 Fähigkeitskarten (für das erweiterte Spielprinzip)
 - Startklar: Das Starter Pack enthält alles, was du benötigst, um sofort loszulegen. Stell dich deinen Freunden im Battle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PSP67X5/?tag=tolees0ca-21)

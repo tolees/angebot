@@ -28,10 +28,10 @@ Es gibt ein [Lupus Electronics - LUPUSEC Hitzemelder für die XT Smarthome Alarm
 
 ℹ️:
 
-- Schützen Sie sich und Ihre Familie zuverlässig vor Bränden. Seien Sie frühzeitig informiert und vermeiden Sie einen Totalschaden in Ihrer Abwesenheit.
-- Der Funk-Hitzemelder für die LUPUSEC Smarthome Alarmanlage wird dort eingesetzt, wo ein Rauchmelder aufgrund von zu erwartender Partickelentwicklung nicht eingesetzt werden kann (z. B. Küchen oder Bäder).
-- Meldet Feuer über internen Hitzesensor, Alarmiert ab einer Temperatur von über 57°C oder zu schnellem Temperaturanstieg
 - Im Alarmfall werden Sie von Ihrer LUPUSEC Smarthome Alarmanlage jederzeit über Push-Nachricht, Telefonanruf, SMS, E-Mail oder ein Wachschutzunternehmen informiert, das selbst dann die nötigen Schritte einleiten kann, wenn Sie mobil gerade nicht erreichbar sind.
 - Batterielebensdauer über 3 Jahre Batteriestatusanzeige in der Zentrale, Alarmierung via. SMS, E-Mail oder Contact-ID
+- Der Funk-Hitzemelder für die LUPUSEC Smarthome Alarmanlage wird dort eingesetzt, wo ein Rauchmelder aufgrund von zu erwartender Partickelentwicklung nicht eingesetzt werden kann (z. B. Küchen oder Bäder).
+- Meldet Feuer über internen Hitzesensor, Alarmiert ab einer Temperatur von über 57°C oder zu schnellem Temperaturanstieg
+- Schützen Sie sich und Ihre Familie zuverlässig vor Bränden. Seien Sie frühzeitig informiert und vermeiden Sie einen Totalschaden in Ihrer Abwesenheit.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00KRDJ0NI/?tag=tolees0ca-21)

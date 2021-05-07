@@ -29,8 +29,8 @@ Sie können [Samsung Galaxy Note 9 Smartphone  128GB  Dual SIM  - Deutsche Versi
 ℹ️:
 
 - Erweiterbarer Speicherplatz mit microSD-Karte bis zu 512 GB
-- Intelligente Dual-Kamera mit automatischer Szenenoptimierung und variabler Blende
 - Ausdauernder Akku mit 4.000 mAh und induktiver Schnellladefunktion
+- Intelligente Dual-Kamera mit automatischer Szenenoptimierung und variabler Blende
 - S-Pen Steuerung aus der Ferne per Bluetooth
 - Großes Super AMOLED-Display und Dolby Atmos für atemberaubende Multimediaerlebnisse
 

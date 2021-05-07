@@ -28,9 +28,9 @@ Sie können [Brennenstuhl Vario Line Kabelbox 3-fach mit USB / Mini-Kabeltrommel
 
 ℹ️:
 
-- Handliche und standfeste Mini-Kabeltrommel mit 3 Schutzkontakt-Steckdosen mit selbstschließenden Deckeln und Überhitzungsschutz
-- Indoor-Kabeltrommel mit ergonomisch geformten Tragegriff und einer guten Standfestigkeit durch stabilen Doppelfuß
 - Mini-Kabeltrommel mit 2 USB Ladebuchsen, welche staub- und schmutzgeschützt sind - Gesamtladestrom max. 2100 mA für schnelles Aufladen (z. B. für Ihr Smartphone)
+- Indoor-Kabeltrommel mit ergonomisch geformten Tragegriff und einer guten Standfestigkeit durch stabilen Doppelfuß
+- Handliche und standfeste Mini-Kabeltrommel mit 3 Schutzkontakt-Steckdosen mit selbstschließenden Deckeln und Überhitzungsschutz
 - Kabeltrommel für innen mit einem schlagfesten Gehäuse aus Spezial-Kunststoff und Steckdosen mit erhöhtem Berührungsschutz
 - Lieferumfang: 1 x Vario-Line Kabelbox mit USB und 10 m Kabellänge - in netter Qualität von brennenstuhl
 
