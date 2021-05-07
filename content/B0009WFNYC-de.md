@@ -30,8 +30,8 @@ Sie können [Besuchen Sie den Faber-Castell-Store - Faber-Castell 183801 - Dosen
 
 - ergonomische Dreikantform
 - Farbe rot oder blau
-- für Stifte mit einem Durchmesser von 8-10 mm geeignet
-- mit Lochverschluss
 - mit Dreifachspitzer
+- mit Lochverschluss
+- für Stifte mit einem Durchmesser von 8-10 mm geeignet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0009WFNYC/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [Faller FA 180820 - 20 Container Maersk  Zubehör für die Modelleis
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H): 14.0 x 12.5 x 3.0 Zm
+- Herkunftsland:- Deutschland
 - Für die Modelleisenbahn oder zum individuellen Bauen und gestalten.
 - Für den Zusammenbau empfehlen wir den FALLER-Kleber 170490 oder 170492.
-- Herkunftsland:- Deutschland
+- Verpackungsabmessungen (L x B x H): 14.0 x 12.5 x 3.0 Zm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00YUMT0QO/?tag=tolees0ca-21)
