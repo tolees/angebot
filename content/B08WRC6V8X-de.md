@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Measurement - Bosch Professional Laser-Entfernun
 
 ℹ️:
 
-- LIEFERUMFANG: Laser-Entfernungsmesser GLM 50-27 CG, App, 2 AA-Batterien, Schlaufe und Tasche
-- ÄUSSERST ROBUST: Der Laser-Entfernungsmesser ist äußerst robust dank Schutzart IP65 und für raue Baustellen somit immer einsatzbereit. Er übersteht Stürze aus 1,5 m Höhe auf harten Beton.
 - STARKE SICHTBARKEIT: Sein grüner Laserpunkt ist besser sichtbar als ein roter und daher besonders gut für große Entfernungen in hellen Räumen geeignet.
-- KONNEKTIVITÄT + MEASUREON APP: Einfache Vor-Ort-Dokumentation von Grundrissen, Messungen, Fotos und Notizen in Verbindung mit Projektzugang über die Cloud an jedem Ort und auf allen Geräten.
 - SMARTES USER INTERFACE: Das Gerät verfügt über Farbdisplay und Vibrationsmotor zur Rückmeldung beim Messen. Hinzu kommt eine Hilfefunktion mit intuitiven Animationen für jeden Modus.
+- LIEFERUMFANG: Laser-Entfernungsmesser GLM 50-27 CG, App, 2 AA-Batterien, Schlaufe und Tasche
+- KONNEKTIVITÄT + MEASUREON APP: Einfache Vor-Ort-Dokumentation von Grundrissen, Messungen, Fotos und Notizen in Verbindung mit Projektzugang über die Cloud an jedem Ort und auf allen Geräten.
+- ÄUSSERST ROBUST: Der Laser-Entfernungsmesser ist äußerst robust dank Schutzart IP65 und für raue Baustellen somit immer einsatzbereit. Er übersteht Stürze aus 1,5 m Höhe auf harten Beton.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WRC6V8X/?tag=tolees0ca-21)

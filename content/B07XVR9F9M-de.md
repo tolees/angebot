@@ -28,10 +28,10 @@ Sie können [Microsoft Bluetooth Keyboard](https://www.amazon.de/dp/B07XVR9F9M/?
 
 ℹ️:
 
-- Dedizierte Office 365 Taste und Shortcuts, integrierte emoji-taste
-- Angenehmes Tipperlebnis
-- Individuell anpassbare Sondertasten für einfachen Zugang zu bevorzugten Apps
 - Drahtlose Verbindung dank Bluetooth-Kopplung
 - Schlankes, modernes Design zum kleinen Preis
+- Angenehmes Tipperlebnis
+- Individuell anpassbare Sondertasten für einfachen Zugang zu bevorzugten Apps
+- Dedizierte Office 365 Taste und Shortcuts, integrierte emoji-taste
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XVR9F9M/?tag=tolees0ca-21)

@@ -29,8 +29,8 @@ Sie können [IRIS 135515  3er-Set Aufbewahrungsboxen / Kisten mit Deckel / Stape
 ℹ️:
 
 - Stapelbares, modulares system
-- Einfaches, aber starkes Design
 - Große Auswahl an Größen
+- Einfaches, aber starkes Design
 - Abmessungen (LxBxH): 39,5 x 34 x 19,9 cm
 - Integrierter Stopper für sicheres Stapeln
 
