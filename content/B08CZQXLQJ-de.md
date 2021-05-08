@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '43.37 % rabat auf Sennheiser CX 400BT True Wireless Earbud'
-date: 2021-05-06 09:49:44
+date: 2021-05-08 08:45:35
 image: 'https://m.media-amazon.com/images/I/31mbgIYdurL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sennheiser'
 buyurl: 'https://www.amazon.de/dp/B08CZQXLQJ/?tag=tolees0ca-21'
 descuento: '43.37'
-average: '100.7125'
+average: '102.044444444444'
 ---
 
 Es gibt ein [Sennheiser CX 400BT True Wireless Earbuds - Bluetooth In-Ear Kopfhörer zum Musik hören und Telefonieren - Noise Cancellation und anpassbare Touch-Control  schwarz](https://www.amazon.de/dp/B08CZQXLQJ/?tag=tolees0ca-21) mit aktuellem Preis 112.7 EUR (original: 199.0 EUR) 43.37 % Rabatt hier:

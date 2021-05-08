@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NETGEAR GS305 Switch 5 Port Gigabit Ethe mit 15.46 % Rabatt'
-date: 2021-05-07 05:48:39
+date: 2021-05-08 07:19:15
 image: 'https://m.media-amazon.com/images/I/41OCHZUYneL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Netgear'
 buyurl: 'https://www.amazon.de/dp/B07PTMXBDK/?tag=tolees0ca-21'
 descuento: '15.46'
-average: '19.0412500000001'
+average: '19.0285798816569'
 ---
 
 Sie können [NETGEAR GS305 Switch 5 Port Gigabit Ethernet LAN Switch  Plug-and-Play Netzwerk Switch  LAN Verteiler  Hub energieffizient  lüfterlos  robustes Metallgehäuse ](https://www.amazon.de/dp/B07PTMXBDK/?tag=tolees0ca-21) mit Preis 16.9 EUR (original: 19.99 EUR) 15.46 % Rabatt hier:
@@ -28,12 +28,12 @@ Sie können [NETGEAR GS305 Switch 5 Port Gigabit Ethernet LAN Switch  Plug-and-P
 
 ℹ️:
 
-- NETZWERKANSCHLUSSKONFIGURATION: 5 Gigabit Port (10/100/1000 MBit/s) RJ45 LAN Splitter Ethernet Switch mit Auto-MDI/MDIX, Non-Blocking Architektur und 802.1p DSCP QoS
-- LAN SWITCH MIT VIELSEITIGEN MONTAGEMÖGLICHKEITEN: 5 Ports Gigabit Switch Layer 2 für Desktop oder Wandmontage geeignet
-- LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
-- ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
 - SWITCH 5 PORT MIT PLUG-AND-PLAY: Einfache Einrichtung des LAN Verteiler Gigabit Switch, keine Software und keine Konfiguration erforderlich
-- SORGENFREIHEIT: Abgedeckt durch branchenführende 3-jährige eingeschränkte Hardware-Garantie für Ethernet Switch
 - LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
+- SORGENFREIHEIT: Abgedeckt durch branchenführende 3-jährige eingeschränkte Hardware-Garantie für Ethernet Switch
+- NETZWERKANSCHLUSSKONFIGURATION: 5 Gigabit Port (10/100/1000 MBit/s) RJ45 LAN Splitter Ethernet Switch mit Auto-MDI/MDIX, Non-Blocking Architektur und 802.1p DSCP QoS
+- ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
+- LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
+- LAN SWITCH MIT VIELSEITIGEN MONTAGEMÖGLICHKEITEN: 5 Ports Gigabit Switch Layer 2 für Desktop oder Wandmontage geeignet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PTMXBDK/?tag=tolees0ca-21)

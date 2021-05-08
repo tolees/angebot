@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAOLESEM S3 Sicherheitsschuhe Herren Dam mit 15.02 % Rabatt'
-date: 2021-05-07 05:47:31
+date: 2021-05-08 07:14:22
 image: 'https://m.media-amazon.com/images/I/41jMC0sL0hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
