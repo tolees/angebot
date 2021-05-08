@@ -28,10 +28,10 @@ Sie können [Aqua Lung Sport Combo Mix Tauchset  Blue  Einheitsgröße](https://
 
 ℹ️:
 
-- Weiches und widerstandsfähiges Softeril-Material
-- Zweiteiliges Tauchset für Kinder
 - Anti-Beschlag-, Kratz-
 - Plexisol-Sichtscheiben mit gutem Sichtfeld
+- Weiches und widerstandsfähiges Softeril-Material
 - Marke: Aqua Lung Sport
+- Zweiteiliges Tauchset für Kinder
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01CI7U93K/?tag=tolees0ca-21)
