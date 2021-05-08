@@ -28,10 +28,10 @@ Es gibt ein [Anker SoundCore Bluetooth Lautsprecher  Tragbarer Lautsprecher mit 
 
 ℹ️:
 
-- ERSTKLASSIGER SOUND: Gönn dir Musik mit starkem Stereo Sound, ermöglicht durch die Dual-3-Watt-Treiber und dedizierten Bass Port. Unterstützt Advanced Audio Distribution Profile (A2DP)
-- BLUETOOTH 4.0: Verbinde deinen Soundcore mühelos via Bluetooth mit deinem Smartphone oder Tablet bei einer Entfernung von bis zu 20m. Außerdem mit eingebautem Mikrofon - für flexible Telefonanrufe jederzeit
-- WAS DU BEKOMMST: Einen Anker Soundcore Bluetooth Lautsprecher, ein Mikro-USB-Kabel, eine Bedienungsanleitung
-- DAS ANKER PLUS: Schließe dich den über 30 Millionen glücklichen Kunden an. Lade Anker
 - UNGLAUBLICHE AKKULAUFZEIT: Genieße 24 Stunden Non-Stop Musik. Das entspricht 500 Liedern am Stück. Dank dem leistungsstarken 4400mAh Li-Ion Akku mit Ankers fortschrittlicher Ladetechnologie ist das ein Kinderspiel
+- WAS DU BEKOMMST: Einen Anker Soundcore Bluetooth Lautsprecher, ein Mikro-USB-Kabel, eine Bedienungsanleitung
+- ERSTKLASSIGER SOUND: Gönn dir Musik mit starkem Stereo Sound, ermöglicht durch die Dual-3-Watt-Treiber und dedizierten Bass Port. Unterstützt Advanced Audio Distribution Profile (A2DP)
+- DAS ANKER PLUS: Schließe dich den über 30 Millionen glücklichen Kunden an. Lade Anker
+- BLUETOOTH 4.0: Verbinde deinen Soundcore mühelos via Bluetooth mit deinem Smartphone oder Tablet bei einer Entfernung von bis zu 20m. Außerdem mit eingebautem Mikrofon - für flexible Telefonanrufe jederzeit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016MO90GW/?tag=tolees0ca-21)
