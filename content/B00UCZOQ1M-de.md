@@ -28,10 +28,10 @@ Sie können [Durex Play Prickelnd Gleitgel auf Wasserbasis – Gleitgel mit pric
 
 ℹ️:
 
-- Lieferumfang: 1 x 50ml "Play Prickelnd" Erlebnis Gel von Durex / Für vaginalen, analen oder oralen Geschlechtsverkehr geeignet / Wasserbasiertes Gleitmittel, frei von Farbstoffen
-- Play Prickelnd kann die Linderung von vaginaler Trockenheit und Intimbeschwerden unterstützen / Wasserlösliches Intim Gel: Nicht klebend, leicht abwaschbar, fettfrei und kondomgeeignet
-- Alle Gleit-Gele der Play-Serie eignen sich perfekt für die Verwendung mit Vibratoren oder Stimulatoren und können zudem bedenkenlos mit Durex Kondomen verwendet werden
-- Das Erlebnisgel enthält einen speziellen Inhaltsstoff, welcher zugleich prickelt, wärmt und kühlt - für aufregende Abenteuer beim Liebesspiel und magische Momente in Zweisamkeit
 - Entspannen, genießen und ausprobieren: Das Durex Gel lädt zum Experimentieren ein und kann für mehr Abwechslung und Spaß im Liebesleben sorgen - ohne Flecken zu hinterlassen!
+- Alle Gleit-Gele der Play-Serie eignen sich perfekt für die Verwendung mit Vibratoren oder Stimulatoren und können zudem bedenkenlos mit Durex Kondomen verwendet werden
+- Play Prickelnd kann die Linderung von vaginaler Trockenheit und Intimbeschwerden unterstützen / Wasserlösliches Intim Gel: Nicht klebend, leicht abwaschbar, fettfrei und kondomgeeignet
+- Das Erlebnisgel enthält einen speziellen Inhaltsstoff, welcher zugleich prickelt, wärmt und kühlt - für aufregende Abenteuer beim Liebesspiel und magische Momente in Zweisamkeit
+- Lieferumfang: 1 x 50ml "Play Prickelnd" Erlebnis Gel von Durex / Für vaginalen, analen oder oralen Geschlechtsverkehr geeignet / Wasserbasiertes Gleitmittel, frei von Farbstoffen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00UCZOQ1M/?tag=tolees0ca-21)
