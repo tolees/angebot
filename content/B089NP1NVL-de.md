@@ -28,10 +28,10 @@ Sie können [Fisher-Price GRF33 - Fisher-Price Lernspaß Hantel  Musikspielzeug 
 
 ℹ️:
 
-- Lichter, eingängige Hits fürs Fitnessstudio sowie Lern-Lieder und -Melodien zu Nummern, Gegensätzen und einem gesunden Lebensstil lassen sich über Knöpfe aktivieren
-- Kinderhantel mit lustiger Musik und Geräuschen sowie farbenfrohen Lichtern für jede Menge Spaß beim frühen Rollenspiel
 - Für Babys und Kleinkinder von 6 bis 36 Monaten
 - Wenn ein Baby die Hantel „stemmt“, dann werden deren Lichter durch die Bewegung aktiviert
 - Rasselperlen, fröhliche Musik und bunte Lichter unterstützen die Kleinen dabei, sich körperlich zu betätigen
+- Lichter, eingängige Hits fürs Fitnessstudio sowie Lern-Lieder und -Melodien zu Nummern, Gegensätzen und einem gesunden Lebensstil lassen sich über Knöpfe aktivieren
+- Kinderhantel mit lustiger Musik und Geräuschen sowie farbenfrohen Lichtern für jede Menge Spaß beim frühen Rollenspiel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B089NP1NVL/?tag=tolees0ca-21)

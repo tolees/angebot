@@ -28,8 +28,8 @@ Es gibt ein [Fisher-Price P4326 Meine erste Toilette Töpfchen und Toilettensitz
 
 ℹ️:
 
-- Mit lustigen Sätzen, Musik und Soundeffekten wird selbst der Toilettengang zum Vergnügen
-- Sitzhöhe ca 18 cm Auch auf einem normalen Toilettensitz benutzbar Einfach zu reinigen
 - Durch die kleine Toilette mit realistischen Elementen fühlen sich die Kleinen schon ganz groß
+- Sitzhöhe ca 18 cm Auch auf einem normalen Toilettensitz benutzbar Einfach zu reinigen
+- Mit lustigen Sätzen, Musik und Soundeffekten wird selbst der Toilettengang zum Vergnügen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001KQ0UI0/?tag=tolees0ca-21)
