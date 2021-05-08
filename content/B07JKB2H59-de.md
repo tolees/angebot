@@ -28,10 +28,10 @@ Sie können [Mattel Games GDR44 - UNO FLIP  Kartenspiele ab 7 Jahren](https://ww
 
 ℹ️:
 
-- Hat ein Spieler nur noch eine Karte übrig, muss er „UNO“ rufen.
 - UNO FLIP! umfasst witzige neue Aktionskarten, wie „Zieh 5“ oder „Alle aussetzen“.
-- Das beidseitig bedruckte Deck und die spezielle FLIP-Karte machen dieses klassische Kartenspiel noch aufregender.
 - Wird die spezielle FLIP-Karte gespielt, dürfen alle Karten in der Hand des Spielers, auch auf dem Ablegestapel, umgedreht werden. So zeigen sie völlig neue Zahlen und Farben!
+- Das beidseitig bedruckte Deck und die spezielle FLIP-Karte machen dieses klassische Kartenspiel noch aufregender.
 - UNO FLIP! verleiht dem bekannten Kartenspiel einen neuen Twist.
+- Hat ein Spieler nur noch eine Karte übrig, muss er „UNO“ rufen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JKB2H59/?tag=tolees0ca-21)

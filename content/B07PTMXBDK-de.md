@@ -28,11 +28,11 @@ Sie können [NETGEAR GS305 Switch 5 Port Gigabit Ethernet LAN Switch  Plug-and-P
 
 ℹ️:
 
-- SWITCH 5 PORT MIT PLUG-AND-PLAY: Einfache Einrichtung des LAN Verteiler Gigabit Switch, keine Software und keine Konfiguration erforderlich
 - LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
 - SORGENFREIHEIT: Abgedeckt durch branchenführende 3-jährige eingeschränkte Hardware-Garantie für Ethernet Switch
-- NETZWERKANSCHLUSSKONFIGURATION: 5 Gigabit Port (10/100/1000 MBit/s) RJ45 LAN Splitter Ethernet Switch mit Auto-MDI/MDIX, Non-Blocking Architektur und 802.1p DSCP QoS
+- SWITCH 5 PORT MIT PLUG-AND-PLAY: Einfache Einrichtung des LAN Verteiler Gigabit Switch, keine Software und keine Konfiguration erforderlich
 - ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
+- NETZWERKANSCHLUSSKONFIGURATION: 5 Gigabit Port (10/100/1000 MBit/s) RJ45 LAN Splitter Ethernet Switch mit Auto-MDI/MDIX, Non-Blocking Architektur und 802.1p DSCP QoS
 - LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
 - LAN SWITCH MIT VIELSEITIGEN MONTAGEMÖGLICHKEITEN: 5 Ports Gigabit Switch Layer 2 für Desktop oder Wandmontage geeignet
 
