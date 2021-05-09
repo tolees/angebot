@@ -30,8 +30,8 @@ Es gibt ein [Clarks Herren Un Costa Lace Derbys  Schwarz  Black   42.5 EU](https
 
 - Rutschhemmend
 - Gepolsterter Schaftrand
-- Griffige Laufsohle
 - 6-Loch-Schnürung
 - Profilsohle
+- Griffige Laufsohle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07MLSSWC6/?tag=tolees0ca-21)

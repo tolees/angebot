@@ -28,10 +28,10 @@ Sie können [Brennenstuhl Bremounta Steckdosenleiste 5-fach mit USB-Ladefunktion
 
 ℹ️:
 
+- Steckdosenleiste mit zwei USB Ladebuchsen - Gesamtladestrom max. 2100mA für schnelles Aufladen Ihrer Geräte (z. B. Smartphone)
 - Lieferumfang: 1x Bremounta-Steckdosenleiste mit USB-Ladefunktion und 3m Kabel in der Farbe weiß - in bester Qualität von brennenstuhl
+- Mehrfachsteckdose mit beleuchtetem Sicherheitschalter zum Ein- und Ausschlaten (zweipolig)
 - Steckerleiste 5-fach USB mit erhöhtem Berührungsschutz - sorgt für noch mehr Sicherheit im Haushalt
 - Steckdosenleiste 5-fach mit einer 4-Punkt Auflage zur optimalen Befestigung z. B. an der Wand - Ideal geeignet für Winkelstecker und den Betrieb von Netzgeräten, da 90° Winkel Anordnung der Steckdose
-- Steckdosenleiste mit zwei USB Ladebuchsen - Gesamtladestrom max. 2100mA für schnelles Aufladen Ihrer Geräte (z. B. Smartphone)
-- Mehrfachsteckdose mit beleuchtetem Sicherheitschalter zum Ein- und Ausschlaten (zweipolig)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07K785MZN/?tag=tolees0ca-21)
