@@ -28,10 +28,10 @@ Sie können [LEGO Hidden Side 70423 Paranormaler Abfang-Bus 3000  Spielzeug für
 
 ℹ️:
 
-- Kinder können die LEGO Hidden Side App herunterladen und ihre Smartphones auf das Modell „Spezialbus Geisterschreck 3000“ richten, um das Schulbus-Bauset zum Leben zu erwecken.
-- Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
 - LEGO Hidden Side spielt in der fiktiven Stadt Newbury, in der Menschen und Häuser von Geistern besessen sind. Kinder können mit dem Spielset aufregende Geisterjagd-Abenteuer erleben.
-- Das Spielzeug enthält 6 Figuren: Die männliche Minifigur Jack Davids mit Smartphone und die weibliche Minifigur Parker L. Jackson mit Smartphone, Technik-Genie J.B., Nanna und Bill, Jacks Geisterhund
 - Das Schulbus-Spielzeug verfügt über eine ausziehbare Kommandostation, ausklappbare Kanonen zum „Entfluchen“, Scanner auf dem Dach und Platz für 4 Minifiguren im Bus.
+- Das Spielzeug enthält 6 Figuren: Die männliche Minifigur Jack Davids mit Smartphone und die weibliche Minifigur Parker L. Jackson mit Smartphone, Technik-Genie J.B., Nanna und Bill, Jacks Geisterhund
+- Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
+- Kinder können die LEGO Hidden Side App herunterladen und ihre Smartphones auf das Modell „Spezialbus Geisterschreck 3000“ richten, um das Schulbus-Bauset zum Leben zu erwecken.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ND99DMY/?tag=tolees0ca-21)

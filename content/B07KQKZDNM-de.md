@@ -29,9 +29,9 @@ Sie können [Eve Light Strip - Smarter LED-Lichtstreifen  Dt. Markenqualität   
 ℹ️:
 
 - Entwickelt in Deutschland. Unser deutscher Produkt Support steht Ihnen bei Rückfragen zur Verfügung.
-- Unterstützt HomeKit Adaptives Licht für eine automatische Anpassung der Farbtemperatur nach Tageszeit
-- Brillante Weiß- und Farbspektren dank Tri-Dioden-Architektur und raumfüllende Helligkeit durch 1800 Lumen (900 lm pro m bei 4200K)
-- Ihr iPhone oder iPad wird zur smarten Fernbedienung: einfache Lichtsteuerung via App oder Siri (Farbauswahl, ein- und ausschalten oder dimmen)
 - Einfache Installation & Längenanpassung von 30 cm - 10 m dank separat erhältlichem 2-m-Erweiterungsstreifen. Eignet sich für Schränke, Sockelleisten, Regale, Treppen oder jede andere feste Oberfläche.
+- Unterstützt HomeKit Adaptives Licht für eine automatische Anpassung der Farbtemperatur nach Tageszeit
+- Ihr iPhone oder iPad wird zur smarten Fernbedienung: einfache Lichtsteuerung via App oder Siri (Farbauswahl, ein- und ausschalten oder dimmen)
+- Brillante Weiß- und Farbspektren dank Tri-Dioden-Architektur und raumfüllende Helligkeit durch 1800 Lumen (900 lm pro m bei 4200K)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KQKZDNM/?tag=tolees0ca-21)
