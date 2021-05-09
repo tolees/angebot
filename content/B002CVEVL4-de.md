@@ -28,10 +28,10 @@ Es gibt ein [LEUCHTTURM1917 334821 Notizbuch Pocket  A6   Hardcover  liniert  sc
 
 ℹ️:
 
-- Verschlussgummi und 2 Lesezeichenbänder
-- 80g/m² Papier, säurefrei
-- Hardcover, 185 nummerierte Seiten
 - Inhaltsverzeichnis und Etiketten zum Archivieren
 - Falttasche im Einband
+- 80g/m² Papier, säurefrei
+- Verschlussgummi und 2 Lesezeichenbänder
+- Hardcover, 185 nummerierte Seiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002CVEVL4/?tag=tolees0ca-21)

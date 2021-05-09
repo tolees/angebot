@@ -28,10 +28,10 @@ Sie können [LG Electronics - LG Magic Remote-Fernbedienung MR20GA](https://www.
 
 ℹ️:
 
+- Schnellzugriff auf Amazon Prime und Netflix
 - Sprachsteuerung mittels Mikrofontaste
-- Kalibrierungsfunktion für TV Sound
 - Ideal für Google Assistant und Alexa
 - Mauszeigerfunktion, Gestensteuerung
-- Schnellzugriff auf Amazon Prime und Netflix
+- Kalibrierungsfunktion für TV Sound
 
 [🛒 Hier!!](https://www.amazon.de/dp/B088LY8R1H/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Intimina Lily Cup Compact Größe B – Zusammenklappbare Menstruat
 
 ℹ️:
 
-- BALANCIERTE INTIMPFLEGE – Die Menstruationstasse Lily Cup Compact stört Ihr natürliches intimes Gleichgewicht nicht, weil sie den Menstruationsfluss sammelt und nicht absorbiert. Das dünne medizinische Silikon verursacht keine Trockenheit, Reizungen oder Unwohlsein.
-- IM EINKLANG MIT DEM KÖRPER – Der kürzere und griffige Stiel ist ideal für Frauen mit niedrigem Muttermund. Diese weiche Menstruationstasse mit schwappsicherem Rand ist geeignet für leichte bis mittelstarke Monatsblutungen und bietet einfaches Einbringen und Komfort den ganzen Tag lang.
-- WIE FÜR SIE GESCHAFFEN - Größe A wird für Frauen, die keine Kinder haben oder für Frauen nach einem Kaiserschnitt empfohlen. Größe B wird für Frauen nach vaginaler Geburt oder mit schwachem Beckenboden empfohlen.
 - EINS MIT DER NATUR – Die umweltfreundliche Tasse aus körperverträglichem Silikon enthält keine Toxine. Durch das wiederverwendbare und dauerhafte Design ist die Tasse eine kostengünstige einmalige Investition, die viele Jahre währt.
+- BALANCIERTE INTIMPFLEGE – Die Menstruationstasse Lily Cup Compact stört Ihr natürliches intimes Gleichgewicht nicht, weil sie den Menstruationsfluss sammelt und nicht absorbiert. Das dünne medizinische Silikon verursacht keine Trockenheit, Reizungen oder Unwohlsein.
+- WIE FÜR SIE GESCHAFFEN - Größe A wird für Frauen, die keine Kinder haben oder für Frauen nach einem Kaiserschnitt empfohlen. Größe B wird für Frauen nach vaginaler Geburt oder mit schwachem Beckenboden empfohlen.
 - KOMPAKTER SCHUTZ – Diese zusammenklappbare Menstruationstasse kann flach in das Kompaktgehäuse geklappt werden. Sie können sie überall mit sich nehmen, damit Sie von der Menstruation nie überrascht werden. Die komfortable und wiederverwendbare Tasse bietet bis zu 12 Stunden stressfreien Schutz – Tag und Nacht.
+- IM EINKLANG MIT DEM KÖRPER – Der kürzere und griffige Stiel ist ideal für Frauen mit niedrigem Muttermund. Diese weiche Menstruationstasse mit schwappsicherem Rand ist geeignet für leichte bis mittelstarke Monatsblutungen und bietet einfaches Einbringen und Komfort den ganzen Tag lang.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00STLACTQ/?tag=tolees0ca-21)

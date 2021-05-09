@@ -29,8 +29,8 @@ Es gibt ein [NSV - 4076 - QWANTUM - Würfelspiel](https://www.amazon.de/dp/B07HC
 ℹ️:
 
 - ab 8 Jahren - 2-4 Spieler - ca. 15 Minuten
-- Autor: Anna Oppolzer, Stefan Kloß, Reinhard Staupe
 - Aller guten Dinge sind drei!
+- Autor: Anna Oppolzer, Stefan Kloß, Reinhard Staupe
 - 7 Holzwürfel, 4 Bleistifte, 1 Spielblock, 1 Anleitung
 - Sprache: Deutsch
 
