@@ -28,7 +28,7 @@ Sie können [Lacoste Herren DH2881 Polohemd  Noir/Noir  L](https://www.amazon.de
 
 ℹ️:
 
-- Baumwoll-Ottomanmischung
 - Knopfleiste aus Diamant-Taft
+- Baumwoll-Ottomanmischung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083FGRCFP/?tag=tolees0ca-21)

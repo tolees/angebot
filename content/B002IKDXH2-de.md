@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Bohrhammer GBH 3-28 DFR  800 Watt  Schlagenergie
 
 ℹ️:
 
-- Müheloses und dauerhaftes Arbeiten dank L-förmiger Bauweise und Vibration Control
-- Vielseitigste Leistung im SDS plus-Bohrhammer-Segment
 - Hohes Verhältnis zwischen Leistung und Gewicht dank 800-Watt-Motor und einem Gewicht von nur 3,6 kg
-- Lieferumfang: Maschinentuch, Schnellwechselbohrfutter 13 mm, Wechselfutter SDS plus, Zusatzhandgriff, Fetttube, Handwerkerkoffer
 - Das kompakte Gehäuse ermöglicht vielfältige Anwendungen bei begrenzten Platzverhältnissen
+- Vielseitigste Leistung im SDS plus-Bohrhammer-Segment
+- Lieferumfang: Maschinentuch, Schnellwechselbohrfutter 13 mm, Wechselfutter SDS plus, Zusatzhandgriff, Fetttube, Handwerkerkoffer
+- Müheloses und dauerhaftes Arbeiten dank L-förmiger Bauweise und Vibration Control
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002IKDXH2/?tag=tolees0ca-21)
