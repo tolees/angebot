@@ -28,7 +28,7 @@ Es gibt ein [DC Shoes Herren TONIK Low-Top  Schwarz  Black/White/Black XKWK   44
 
 ℹ️:
 
-- Gender: Men
 - Material: Obermaterial: Leder / Innenfutter: Textil / Laufsohle: Gummi
+- Gender: Men
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ZSARX4I/?tag=tolees0ca-21)
