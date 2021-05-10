@@ -28,10 +28,10 @@ Sie können [Razer Basilisk V2 - Kabelgebundene Gaming Maus mit 11 programmierba
 
 ℹ️:
 
-- ANPASSBARER MAUSRAD-WIDERSTAND: Der Mausrad-Widerstand lässt sich mithilfe eines Reglers an der Unterseite der Maus nach Belieben anpassen; Dank individuell angepasster Empfindlichkeit ist eine Kontrolle möglich, die absolute Bestleistungen ermöglicht
 - 11 PROGRAMMIERBARE TASTEN: Makros und Sekundärfunktionen lassen sich 11 programmierbaren Tasten zuweisen, inklusive unserer berühmten Multifunktionstaste, um gleich mehrere Moves blitzschnell auszuführen
+- ANPASSBARER MAUSRAD-WIDERSTAND: Der Mausrad-Widerstand lässt sich mithilfe eines Reglers an der Unterseite der Maus nach Belieben anpassen; Dank individuell angepasster Empfindlichkeit ist eine Kontrolle möglich, die absolute Bestleistungen ermöglicht
+- RAZER SPEEDFLEX-KABEL: Noch elastischer und praktisch ohne Zugwiderstand für ungehinderte Bewegungsfreiheit – für ungehinderte Entfaltung in jeder Partie
 - 5 PROFILE IM INTEGRIERTEN SPEICHER: Bis zu 5 Profil-Konfigurationen lassen sich in der Maus speichern, damit auf individuelle Tastenzuweisungen und Makros auch ohne Internetverbindung oder Razer Synapse 3 zugegriffen werden kann
 - OPTISCHER RAZER FOCUS+ 20K SENSOR: Ein Sensor mit 20.000 DPI garantiert, dass selbst die kleinsten Bewegungen der Maus erkannt werden, damit spielentscheidende Headshots und spektakuläre Manöver gelingen
-- RAZER SPEEDFLEX-KABEL: Noch elastischer und praktisch ohne Zugwiderstand für ungehinderte Bewegungsfreiheit – für ungehinderte Entfaltung in jeder Partie
 
 [🛒 Hier!!](https://www.amazon.de/dp/B081QXJLDN/?tag=tolees0ca-21)
