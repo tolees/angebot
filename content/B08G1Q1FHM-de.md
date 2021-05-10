@@ -29,8 +29,8 @@ Sie können [Corsair iCUE H115i ELITE CAPELLIX CPU-Flüssigkeitskühlung  33 Ult
 ℹ️:
 
 - Inklusive Corsair iCUE Commander CORE: Mit dem intelligenten Controller für RGB-Beleuchtung und Lüfterdrehzahl lassen sich bis zu sechs RGB-Lüfter präzise einstellen
-- Zero RPM-Modus: Die „Zero RPM“-Kühlprofile der Corsair iCUE-Software ermöglichen das komplette Anhalten der Lüfter bei niedrigen Temperaturen, um Lüftergeräusche zu eliminieren
 - RGB-Lüfter mit Magnetschwebelager: Zwei 140-mm-PWM-Lüfter der Corsair ML RGB Series, jeweils mit vier RGB-LEDs ausgestattet, liefern einen starken Luftstrom für extreme Kühlleistung
+- Zero RPM-Modus: Die „Zero RPM“-Kühlprofile der Corsair iCUE-Software ermöglichen das komplette Anhalten der Lüfter bei niedrigen Temperaturen, um Lüftergeräusche zu eliminieren
 - Extreme CPU-Kühlleistung: Unglaubliche Lüfterkühlleistung mit Drehzahlregelung von 400 bis 2.000 U/min im Betrieb via PWM-Steuerung
 - Hochleistungs-RGB-Pumpenkopf: Leistungsstarke, leise Kühlung für Ihre CPU, beleuchtet von 33 ultrahellen CAPELLIX RGB-LEDs
 
