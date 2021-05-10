@@ -28,10 +28,10 @@ Sie können [Lioncast LM60 Pro Gaming Maus für FPS  MMO und MOBAs  RGB  PMW3389
 
 ℹ️:
 
+- 🔴RGB-BELEUCHTUNG: Du kannst das Logo, das Mausrad, die DPI-Anzeige und den unteren LED-Ring in 16,8 mio. verschiedenen Farben erstrahlen lassen.
+- 🔴PRO GAMING MAUS mit hochpräzisem, optischen PMW-3389-Sensor und Omron-Switches für mindestens 50 Mio. Klicks.
+- 🔴PROGRAMMIERBAR für deine individuellen Bedürfnisse. Egal ob freie Tastenbelegung oder Makros mit bis zu 500 Aktionen dank On-Board-Speicher – Du kannst die LM60 ganz nach deinen Wünschen via Software konfigurieren.
 - 🔴RASANTER ALS DER GEGNER: Dank der geringen Reaktionszeit von 1ms und der performanten Pollingrate von bis zu 1000 Hz bist Du immer ein Klick schneller!
 - 🔴HÖCHSTE QUALITÄT & ZUVERLÄSSIGKEIT: Hochwertigste Materialien und Komponenten bringen Dir maximalen Spielspaß und eine optimale Haltbarkeit.
-- 🔴RGB-BELEUCHTUNG: Du kannst das Logo, das Mausrad, die DPI-Anzeige und den unteren LED-Ring in 16,8 mio. verschiedenen Farben erstrahlen lassen.
-- 🔴PROGRAMMIERBAR für deine individuellen Bedürfnisse. Egal ob freie Tastenbelegung oder Makros mit bis zu 500 Aktionen dank On-Board-Speicher – Du kannst die LM60 ganz nach deinen Wünschen via Software konfigurieren.
-- 🔴PRO GAMING MAUS mit hochpräzisem, optischen PMW-3389-Sensor und Omron-Switches für mindestens 50 Mio. Klicks.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MFXGNTZ/?tag=tolees0ca-21)

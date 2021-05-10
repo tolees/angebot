@@ -28,10 +28,10 @@ Es gibt ein [DOCKIN® D FINE+ 2 Hi-Fi Bluetooth Lautsprecher 50W  Stereo HiFi Sp
 
 ℹ️:
 
-- ▶️DSP EQUALIZER BASS BOOST: Man kann zw. 3 unterschiedlichen DSP Equalizer Bass Boost Stufen wählen, in perfekter Klangabstimmung. Egal ob Elektro, Hip Hop, Rock, Jazz, Klassik, Hörbuch oder Radio.
 - ▶️NACHHALTIG & AUSDAUERND: Neue Features! Der starke Akku liefert bis zu 16h Sound & zusätzlich Power fürs Handy (Powerbank-Funktion - einfaches Aufladen von Smartphone und Tablet ist durch die Lautsprecher Box möglich).
 - ▶️IDEAL ZUHAUSE: Der Bluetooth Lautsprecher in kraftvoller und feiner Klangabstimmung - optimal für Zuhause, als kleine HiFi Anlage oder stylischer Regal-Lautsprecher. 2-Wege Stereo für breite Abstrahlung & besten Klang in den Tiefen & Höhen.
 - ▶️TOP UNTERWEGS: Der tragbare D FINE+ 2 ist dank seiner Robustheit und IPX5 Schutzklasse (wasserfest) variabel einsetzbar & für Outdoor bestens geeignet z.B. für Camping, Zelten & Grillen. Einfacher Transport der portablen Soundbox durch den mitgelieferten Tragegurt.
+- ▶️DSP EQUALIZER BASS BOOST: Man kann zw. 3 unterschiedlichen DSP Equalizer Bass Boost Stufen wählen, in perfekter Klangabstimmung. Egal ob Elektro, Hip Hop, Rock, Jazz, Klassik, Hörbuch oder Radio.
 - ▶️DER NEUE D FINE+2: Nochmals verbesserter Spitzenklang, Bluetooth Musik-Box mit drei auswählbaren DSP Equalizer Bass Boost Stufen, bis zu 16 Std Laufzeit & Mobilität durch den mitgelieferten Tragegurt.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B083DY2LT4/?tag=tolees0ca-21)
