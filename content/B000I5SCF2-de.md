@@ -28,10 +28,10 @@ Es gibt ein [BIC Kugelschreiber Cristal Medium  50 Kulis in Rot  Kugelschreibers
 
 ℹ️:
 
+- Lieferumfang: 50 Kugelschreiber von BIC Cristal Medium / Strichstärke: 1,0 mm / Kugeldurchmesser: 1,0mm / BIC Kugelschreiber Rot / Nachhaltige Begleiter - ausgezeichnet mit dem NF-Umweltzertifikat
 - Mit dem praktischen Clip Deckel, kann der Kuli ideal an Kleidung, Notizblock oder bspw. am Klemmbrett befestigt werden / Die hochwertigen Kugel Schreiber trocknen dank der Schutzkappe nicht aus
+- Die Kulis überzeugen durch den transparenten Schaft, zur Kontrolle des Minenfüllstandes / Kappe und Endstück zeigen Schreibfarbe an / Starke Wolframkarbid Kugel - für ergiebiges Schreiben!
 - Das Stifte Set mit 50 BIC Kugelschreibern vereint hochwertige Qualität mit durchdachtem Design und eignet sich optimal als Vorrat für beispielsweise Büro oder Schule
 - Dank der wasserfesten Tinte trocknet Geschriebenes schnell und verschmiert nicht - schreibt 2x länger als herkömmliche Kugelschreiber
-- Die Kulis überzeugen durch den transparenten Schaft, zur Kontrolle des Minenfüllstandes / Kappe und Endstück zeigen Schreibfarbe an / Starke Wolframkarbid Kugel - für ergiebiges Schreiben!
-- Lieferumfang: 50 Kugelschreiber von BIC Cristal Medium / Strichstärke: 1,0 mm / Kugeldurchmesser: 1,0mm / BIC Kugelschreiber Rot / Nachhaltige Begleiter - ausgezeichnet mit dem NF-Umweltzertifikat
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000I5SCF2/?tag=tolees0ca-21)
