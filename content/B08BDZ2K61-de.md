@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EDEL - Die Wicherts von nebenan  Komplet mit 25.00 % Rabatt'
-date: 2021-05-06 01:50:59
+date: 2021-05-11 02:01:03
 image: 'https://m.media-amazon.com/images/I/51Dz-ZWCN-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'EDEL'
 buyurl: 'https://www.amazon.de/dp/B08BDZ2K61/?tag=tolees0ca-21'
 descuento: '25.00'
-average: '52.4185714285715'
+average: '51.4900000000001'
 ---
 
 Sie können [EDEL - Die Wicherts von nebenan  Komplette Serie ](https://www.amazon.de/dp/B08BDZ2K61/?tag=tolees0ca-21) mit Preis 44.99 EUR (original: 59.99 EUR) 25.00 % Rabatt hier:
