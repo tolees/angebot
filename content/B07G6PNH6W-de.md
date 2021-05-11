@@ -28,10 +28,10 @@ Es gibt ein [HUAWEI MediaPad M5 lite WiFi Tablet-PC 25 6 cm  10 1 Zoll   Full HD
 
 ℹ️:
 
-- Einfaches Entsperren per Fingerabdruck
-- 4 Lautsprecher mit beeindruckendem Klang, Harman Kardon zertifiziert
-- Akku mit 7500mAh und Schnellladefunktion Quick Charge
 - Konnektivität: Bluetooth; WiFi; USB-Type C
+- Akku mit 7500mAh und Schnellladefunktion Quick Charge
+- 4 Lautsprecher mit beeindruckendem Klang, Harman Kardon zertifiziert
+- Einfaches Entsperren per Fingerabdruck
 - Ultraschneller Octa-Core-Prozessor: HUAWEI Kirin 659 (4 x 2,4 GHz (A53), 4 x 1,7 GHz (A53))
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07G6PNH6W/?tag=tolees0ca-21)
