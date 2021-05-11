@@ -28,10 +28,10 @@ Sie können [Bosch Professional Schleifrolle für Weichholz  Breite: 93 mm Läng
 
 ℹ️:
 
-- Geeignet für Handschleifarbeiten und für alle Schwingschleifer gängiger Elektrowerkzeugmarken mit Spannsystem
 - Die Schleifrolle Standard für Weichholz - zur professionellen Bearbeitung von Weichholz
-- Individuell zuschneidbar auf die benötigte Länge, in der Breite vorgeschnitten auf gängige Schwingschleifer
-- Lieferumfang: Schleifrolle Körnung 120, Verpackung (3165140180702)
 - Rollenbreite 93 mm; Rollenlänge 5 m; Körnung 120
+- Individuell zuschneidbar auf die benötigte Länge, in der Breite vorgeschnitten auf gängige Schwingschleifer
+- Geeignet für Handschleifarbeiten und für alle Schwingschleifer gängiger Elektrowerkzeugmarken mit Spannsystem
+- Lieferumfang: Schleifrolle Körnung 120, Verpackung (3165140180702)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00141BMJC/?tag=tolees0ca-21)
