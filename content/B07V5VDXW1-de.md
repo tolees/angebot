@@ -28,10 +28,10 @@ Sie können [Razer Huntsman Tournament Edition  Red Switch  - Kompakte TKL Gamin
 
 ℹ️:
 
-- INTEGRIERTER SPEICHER: Im Handumdrehen einsatzbereit, entweder mit 5 Profil-Konfigurationen im integrierten Speicher oder benutzerdefinierten Einstellungen in der Cloud.1000 Hz Ultrapolling
 - ABNEHMBARES USB-TYP-C-KABEL: Ganz einfach auspacken, verbinden und spielen – und von einem Turnier zum nächsten ziehen. Die Kabelsicherung sorgt dafür, dass das Kabel während des gesamten Gameplays immer fest verbunden bleibt
+- RAZER LINEAR OPTICAL SWITCHES: Sofortige Reaktion dank eines optischen Tastenhubs von nur 1,0 mm, denn jeder Tastenanschlag wird per Licht registriert — der augenblickliche Vorteil bei jedem Wettbewerb
+- INTEGRIERTER SPEICHER: Im Handumdrehen einsatzbereit, entweder mit 5 Profil-Konfigurationen im integrierten Speicher oder benutzerdefinierten Einstellungen in der Cloud.1000 Hz Ultrapolling
 - DOUBLESHOT PBT-TASTENKAPPEN: Diese Tastenkappen sind dank zwei Schichten PBT noch robuster und behalten auch bei intensivem Training und Turniereinsätzen ihre Texturierung
 - KOMPAKTES FORMAT: Dank des Designs ohne Ziffernblock und der kompakten Abmessungen findet die Tastatur so gut wie überall Platz und lässt sich bequem mitnehmen
-- RAZER LINEAR OPTICAL SWITCHES: Sofortige Reaktion dank eines optischen Tastenhubs von nur 1,0 mm, denn jeder Tastenanschlag wird per Licht registriert — der augenblickliche Vorteil bei jedem Wettbewerb
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07V5VDXW1/?tag=tolees0ca-21)

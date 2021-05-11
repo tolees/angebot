@@ -28,12 +28,12 @@ Sie können [Corsair K68 RGB Mechanische Gaming Tastatur  Cherry MX Red: Leichtg
 
 ℹ️:
 
-- Mit der lebendigen RGB-Hintergrundbeleuchtung entstehen nahezu unbegrenzte Anpassungsmöglichkeiten. Alternativ stehen zahlreiche vorinstallierte Optionen für sofortige Lichteffekte zur Verfügung
-- Vollständig programmierbar mit CUE: Die intuitive und leistungsstarke Corsair Utility Engine (CUE) erlaubt eine komplexe Makro- und Lichtprogrammierung
-- Deutsche Cherry MX red Schalter - Leichtgängig und Schnell mit linearer Schaltcharakteristik ohne hörbaren Klick
-- Lieferumfang: Corsair K68 RGB Mechanische Gaming Tastatur schwarz
-- Die lineare Schaltcharakteristik kombiniert mit geringem Federwiderstand erlaubt unglaublich schnelle Reaktionsfähigkeit und sanfte Auslösung
 - Staub- und spritzwassergeschützt bis IP32. Dedizierte Steuerung für Lautstärke und Medienwiedergabe: Passen Sie die Audioeinstellungen ohne Spielunterbrechung an
+- Lieferumfang: Corsair K68 RGB Mechanische Gaming Tastatur schwarz
 - 100% Anti-Ghosting und Tasten-Rollover: Ganz gleich, wie schnell Sie spielen – jeder Tastendruck wird korrekt erkannt
+- Mit der lebendigen RGB-Hintergrundbeleuchtung entstehen nahezu unbegrenzte Anpassungsmöglichkeiten. Alternativ stehen zahlreiche vorinstallierte Optionen für sofortige Lichteffekte zur Verfügung
+- Deutsche Cherry MX red Schalter - Leichtgängig und Schnell mit linearer Schaltcharakteristik ohne hörbaren Klick
+- Vollständig programmierbar mit CUE: Die intuitive und leistungsstarke Corsair Utility Engine (CUE) erlaubt eine komplexe Makro- und Lichtprogrammierung
+- Die lineare Schaltcharakteristik kombiniert mit geringem Federwiderstand erlaubt unglaublich schnelle Reaktionsfähigkeit und sanfte Auslösung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0799CKVZJ/?tag=tolees0ca-21)
