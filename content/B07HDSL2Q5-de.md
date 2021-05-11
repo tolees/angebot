@@ -28,10 +28,10 @@ Sie können [HyperX HX-KB1SS2-DE Alloy FPS RGB Gaming Tastatur  Kailh Silver Spe
 
 ℹ️:
 
-- Robuster Vollstahlrahmen
 - RGB-Tasten mit Hintergrundbeleuchtung und strahlenden Beleuchtungseffekten
-- Erweiterte Personalisierungsmöglichkeiten mit der HyperX NGenuity Software und internem Speicher für 3 Profile
 - Mechanische Kailh Silver Speed Switches und Gaming-Mode, 100% Anti-Ghosting und N-Key Rollover-Funktionen
+- Erweiterte Personalisierungsmöglichkeiten mit der HyperX NGenuity Software und internem Speicher für 3 Profile
+- Robuster Vollstahlrahmen
 - Kompaktes, ultramobiles Design mit abnehmbarem Kabel und praktischem USB-Ladeanschluss
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HDSL2Q5/?tag=tolees0ca-21)
