@@ -28,9 +28,9 @@ Es gibt ein [Sony WH-CH510 kabellose Bluetooth Kopfhörer  kraftvoller Klang  ei
 
 ℹ️:
 
+- Akkulaufzeit: bis zu 35 Std abhängig vom verwendeten Modus
 - Integrierte Headset-Funktion für handfreies Telefonieren
 - Quick Charge: 10 Minuten Aufladen für 1, 5 Std Audiowiedergabe
-- Akkulaufzeit: bis zu 35 Std abhängig vom verwendeten Modus
 - Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtungen mehr Dank eingebautem Sprachassistent
 - 30 mm Treiber mit Neodymium Magnet liefert einen kraftvollen Klang
 
