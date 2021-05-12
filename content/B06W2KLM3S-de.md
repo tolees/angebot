@@ -30,8 +30,8 @@ Sie können [Elgato Stream Deck Live Content Creation Controller  mit personalis
 
 - Direkte Integration: Game Capture, OBS, TipeeeStream, Twitch und mehr steuern
 - Komplett anpassbar: Personalisierung der Tasten mit eigenen Icons oder Auswahl aus mehreren Hundert vorhandenen Icons
-- Sofortige Initiative: genau im richtigen Moment tweeten
-- 15 LCD-Tasten: Szenen wechseln, Medien starten, Ton anpassen, und vieles mehr
 - Einfaches Setup: die gewünschten Aktionen auf die Tasten in der App ziehen und fertig
+- 15 LCD-Tasten: Szenen wechseln, Medien starten, Ton anpassen, und vieles mehr
+- Sofortige Initiative: genau im richtigen Moment tweeten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06W2KLM3S/?tag=tolees0ca-21)
