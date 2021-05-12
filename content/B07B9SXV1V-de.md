@@ -28,10 +28,10 @@ Sie können [Qedertek Solar Lichterkette Lampion Außen 6 Meter 30 LED Laternen 
 
 ℹ️:
 
-- Keine Stromkosten, aufgeladen durch Solarpanel ohne Batteriewechsel.
-- Zwei Lichtarten, Blitzlicht und Dauerlicht.
-- Einfach zu installieren, Keine Verkabelung erforderlich.
 - Die Lichterketten ist die beste Dekoration für Hause / Gartenbeleuchtung oder jeder besonderen Feier. z.B. Hochzeit / Weihnachten / Party / BBQ / Garten / irgendwo Indoor oder Outdoor / alle speziellen Feste.
 - Lichterkette Länge: 8 Meter (2m Anschlusskabel im Lieferumfang enthalten), Abstand der LEDs: 20CM
+- Keine Stromkosten, aufgeladen durch Solarpanel ohne Batteriewechsel.
+- Einfach zu installieren, Keine Verkabelung erforderlich.
+- Zwei Lichtarten, Blitzlicht und Dauerlicht.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07B9SXV1V/?tag=tolees0ca-21)
