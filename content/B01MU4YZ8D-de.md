@@ -28,8 +28,8 @@ Es gibt ein [Ravensburger Kinderpuzzle 06136 - Tiere Afrikas - Rahmenpuzzle](htt
 
 ℹ️:
 
+- 15 Teile
 - 3 Jahren
 - Format: 25 x 145 cm
-- 15 Teile
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MU4YZ8D/?tag=tolees0ca-21)

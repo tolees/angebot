@@ -28,10 +28,10 @@ Es gibt ein [Razer Mouse Grip Tape für Razer Basilisk Ultimate  Basilisk X Hype
 
 ℹ️:
 
-- Auch verfügbar für folgende Razer Mäuse: Razer DeathAdder Essential, Razer DeathAdder Elite, Razer DeathAdder V2, Razer Viper, Razer Viper Ultimate, Razer Viper Mini, Razer DeathAdder V2 Mini
-- SELBSTKLEBENDES DESIGN: Einfach abziehen und aufkleben. Der Klebstoff* von 3M ist so stark, dass selbst bei intensivem Gaming alles an Ort und Stelle bleibt, aber gleichzeitig so sanft zur Maus, dass sich das Grip-Tape entfernen und wieder aufbringen lässt, ohne die Maus dabei zu beschädigen.
-- Als Zubehör für wahre Gaming-Enthusiasten hilft unser rutschfestes Maus-Grip-Tape dabei, das Spiel noch besser im Griff zu behalten. Es ist optimiert für die meisten beliebten Razer Mäuse, praktischerweise schon vorgeschnitten.
 - VORGESCHNITTEN: Das Maus-Grip-Tape ist nur 0,5 mm dünn und wird in 4 Teilen ausgeliefert, welche die linke und rechte Maustaste sowie die Handflächenseite oder die Seitengriffen abdecken — die jeweilige Form variiert je nach Maus-Modell (siehe Technische Daten).
+- Auch verfügbar für folgende Razer Mäuse: Razer DeathAdder Essential, Razer DeathAdder Elite, Razer DeathAdder V2, Razer Viper, Razer Viper Ultimate, Razer Viper Mini, Razer DeathAdder V2 Mini
+- Als Zubehör für wahre Gaming-Enthusiasten hilft unser rutschfestes Maus-Grip-Tape dabei, das Spiel noch besser im Griff zu behalten. Es ist optimiert für die meisten beliebten Razer Mäuse, praktischerweise schon vorgeschnitten.
 - RUTSCHFESTES GRIP-TAPE: Ob Palm-, Claw- oder Finger-Grip, ganz gleich, mit welchem Griffstil die Maus auch festgehalten wird, die schweißabsorbierende Oberfläche rutscht niemals aus der Hand, auch wenn sie feucht werden sollte.
+- SELBSTKLEBENDES DESIGN: Einfach abziehen und aufkleben. Der Klebstoff* von 3M ist so stark, dass selbst bei intensivem Gaming alles an Ort und Stelle bleibt, aber gleichzeitig so sanft zur Maus, dass sich das Grip-Tape entfernen und wieder aufbringen lässt, ohne die Maus dabei zu beschädigen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CY2BJQ4/?tag=tolees0ca-21)

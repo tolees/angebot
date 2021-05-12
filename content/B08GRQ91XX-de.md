@@ -28,9 +28,9 @@ Sie können [Atlus - Puyo Puyo Tetris 2  Nintendo Switch ](https://www.amazon.de
 
 ℹ️:
 
-- Zusätzlich zum Spiel gibt es das exklusive "Talentkampf-Booster-Pack" inklusive
 - Verrückte Charaktere in einem neuen Abenteuer bringen Tiefe in das fesselnde Arcade-Puzzel-Spiel
-- Verbesserter Online Modus bring neue herausferderungen in Ligen und Freiem Spiel mit bis zu 4 Spielern
 - Der brandneue Talentkampf Modus bring Charakter basierende Skills, die in kurzer Zeit ein Match auf den Kopf stellen können
+- Zusätzlich zum Spiel gibt es das exklusive "Talentkampf-Booster-Pack" inklusive
+- Verbesserter Online Modus bring neue herausferderungen in Ligen und Freiem Spiel mit bis zu 4 Spielern
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08GRQ91XX/?tag=tolees0ca-21)

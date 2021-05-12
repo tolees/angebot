@@ -28,11 +28,11 @@ Es gibt ein [Logitech G305 LIGHTSPEED kabellose Gaming-Maus mit HERO 12K DPI Sen
 
 ℹ️:
 
-- HERO-Sensor: Der HERO-Sensor der nächsten Generation bietet gegenüber früheren Generationen eine um bis zu 10-mal höhere Energieeffizienz. Dieser optische Sensor ist mit einer Genauigkeit von 400 IPS und einer Empfindlichkeit von bis zu 12.000 DPI außerordentlich präzise und schnell.
-- Kabellos bedeutet nicht zwangsläufig ein hohes Gewicht. Die G305 besitzt ein geringes Gewicht, um eine hohe Manövrierfähigkeit zu gewährleisten: Dank des effizienten mechanischen Designs und der Energieeffizienz wiegt sie nur 99 Gramm.
-- Flexibel: Das robuste und kompakte Design der G305 Gaming Maus, mit einem eingebauten Slot für den USB-Nano Empfänger, lässt die PC-Maus einfach transportieren
 - KEINE KABEL. KEINE LIMITS. Weltweit die #1: Die meistverkaufte Marke für kabelloses Gaming Zubehör - Basierend auf unabhängigen aggregierten Verkaufsdaten (Feb 19 bis Feb 20) für drahtlose Gaming-Keyboards, Mäuse und PC-Headsets in Einheiten
-- Die extrem schnelle kabellose LIGHTSPEED-Technologie gewährleistet ein verzögerungsfreies Gaming-Erlebnis. Die G305 besticht durch eine unglaubliche Reaktionszeit und Zuverlässigkeit mit einer superschnellen Signalrate von 1 Millisekunde für turniertaugliche Performance.
+- HERO-Sensor: Der HERO-Sensor der nächsten Generation bietet gegenüber früheren Generationen eine um bis zu 10-mal höhere Energieeffizienz. Dieser optische Sensor ist mit einer Genauigkeit von 400 IPS und einer Empfindlichkeit von bis zu 12.000 DPI außerordentlich präzise und schnell.
+- Flexibel: Das robuste und kompakte Design der G305 Gaming Maus, mit einem eingebauten Slot für den USB-Nano Empfänger, lässt die PC-Maus einfach transportieren
 - Ultralange Batterielaufzeit: Spielen mit maximaler Leistung, ohne sich Sorgen machen zu müssen, dass die Energie ausgeht. Die G305 ermöglicht im Performance-Modus mit einer einzigen Batterie vom Typ AA unglaubliche 250 Stunden ununterbrochenes Spielen bei einer Signalrate von 1 Millisekunde.
+- Kabellos bedeutet nicht zwangsläufig ein hohes Gewicht. Die G305 besitzt ein geringes Gewicht, um eine hohe Manövrierfähigkeit zu gewährleisten: Dank des effizienten mechanischen Designs und der Energieeffizienz wiegt sie nur 99 Gramm.
+- Die extrem schnelle kabellose LIGHTSPEED-Technologie gewährleistet ein verzögerungsfreies Gaming-Erlebnis. Die G305 besticht durch eine unglaubliche Reaktionszeit und Zuverlässigkeit mit einer superschnellen Signalrate von 1 Millisekunde für turniertaugliche Performance.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W6HMCFK/?tag=tolees0ca-21)

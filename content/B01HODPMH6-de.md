@@ -28,8 +28,8 @@ Es gibt ein [Philips GC023/00 Bügelzubehör  Artikelgewicht: 322 g  blau](https
 
 ℹ️:
 
-- Hält Wasser stand
 - Ideal für Dampfstationen
+- Hält Wasser stand
 - Passt auf Bügelbretter mit 110 - 125 cm Länge und 30 - 45 cm Breite
 - Vierlagiger Bügelbrettbezug
 

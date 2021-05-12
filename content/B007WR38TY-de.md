@@ -28,10 +28,10 @@ Es gibt ein [Comma BG2500G Lagerfett  500 g](https://www.amazon.de/dp/B007WR38T
 
 ℹ️:
 
-- Dose mit 500 g
-- BG2500G-Lagerfett von Comma, 500 g
 - Exzellente Verschleißbeständigkeit und extreme Druckeigenschaften für eine längere Lebenszeit der Lager
 - Optimaler Schutz in einem breiten Temperaturbereich
 - Hochwertiges, leistungsstark Fett mit Lithiumkomplex für alle Radlager
+- Dose mit 500 g
+- BG2500G-Lagerfett von Comma, 500 g
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007WR38TY/?tag=tolees0ca-21)

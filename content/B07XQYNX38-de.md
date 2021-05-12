@@ -28,14 +28,14 @@ Es gibt ein [Apple Silikon Case  für iPhone 11 Pro Max  - Schwarz](https://www.
 
 ℹ️:
 
-- Die glatte, weiche Außenseite aus Silikon fühlt sich gut an und liegt genauso in der Hand.
-- Und zum kabellosen Laden musst du das Case nicht abnehmen.
-- So bleibt alles schön dünn.
 - Wie jedes von Apple entwickelte Case muss es im Laufe des Design- und Fertigungs­prozesses Tausende von Teststunden durchlaufen.
-- Innen schützt ein weiches Futter aus Mikrofaser dein iPhone.
-- Das Silikon Case wurde von Apple genau für dein iPhone 11 Pro Max entwickelt.
+- So bleibt alles schön dünn.
 - Deshalb sieht es nicht nur großartig aus, sondern ist auch dafür gemacht, dein iPhone vor Kratzern und Stürzen zu schützen.
-- Kompatibilität: iPhone 11 Pro Max
 - Darum passt es exakt zur Form deines Geräts, über die Lautstärketasten und die Seitentaste.
+- Die glatte, weiche Außenseite aus Silikon fühlt sich gut an und liegt genauso in der Hand.
+- Das Silikon Case wurde von Apple genau für dein iPhone 11 Pro Max entwickelt.
+- Innen schützt ein weiches Futter aus Mikrofaser dein iPhone.
+- Kompatibilität: iPhone 11 Pro Max
+- Und zum kabellosen Laden musst du das Case nicht abnehmen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XQYNX38/?tag=tolees0ca-21)
