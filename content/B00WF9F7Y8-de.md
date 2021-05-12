@@ -28,7 +28,7 @@ Es gibt ein [HPE 24p 10/100/1000BASE-T PoE+ v3 zl2 Mod](https://www.amazon.de/dp
 
 ℹ️:
 
-- Leistung : 240 V
 - Herkunftsland:- Vereinigte Staaten
+- Leistung : 240 V
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00WF9F7Y8/?tag=tolees0ca-21)

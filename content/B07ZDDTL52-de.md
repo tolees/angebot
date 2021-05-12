@@ -28,11 +28,11 @@ Es gibt ein [Duracell Plus AA Mignon Alkaline Batterien LR6  36er Pack [Amazon e
 
 ℹ️:
 
+- Die Duracell Plus Batterien sind Alkaline-Mehrzweckbatterien und eignen sich für elektronische Alltagsgeräte
+- In den Größen AAA, AA, C, D, 4,5V und 9V lieferbar
 - *bei Batterien der Größe AA im Vergleich zur durchschnittlichen Mindest-Lebensdauer im „IEC Digital Kamera 2015“ Test. Die Ergebnisse können je nach Gerät oder Nutzungsverhalten variieren
 - Die Duracell Plus AA Batterien erbringen bis zu 50% mehr Power*
 - Die Superior Nylon Abdeckung dient dazu, dem Auslaufen der Batterien vorzubeugen
 - Die Duralock-Technologie erhält eingelagerte, unbenutzte Duracell Batterien bis zu 10 Jahre lang im frischen, geladenen und einsatzbereitem Zustand
-- Die Duracell Plus Batterien sind Alkaline-Mehrzweckbatterien und eignen sich für elektronische Alltagsgeräte
-- In den Größen AAA, AA, C, D, 4,5V und 9V lieferbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZDDTL52/?tag=tolees0ca-21)
