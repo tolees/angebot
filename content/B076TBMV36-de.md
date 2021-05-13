@@ -28,7 +28,7 @@ Es gibt ein [Skechers Damen 12980 Sneaker  Weiß Silber  39 EU](https://www.amaz
 
 ℹ️:
 
-- flexible Sohle
 - Geringes Gewicht
+- flexible Sohle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076TBMV36/?tag=tolees0ca-21)

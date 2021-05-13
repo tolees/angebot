@@ -28,7 +28,7 @@ Sie können [BGS 3215 | Druckluft-Ausblaspistole | Alu-Druckguss | mit 3 Düsen 
 
 ℹ️:
 
-- Material: Aluminiumdruckguss
 - mit 3 Düsen: 25 - 100 - 200 mm
+- Material: Aluminiumdruckguss
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000VWT71K/?tag=tolees0ca-21)

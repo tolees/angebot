@@ -29,8 +29,8 @@ Sie können [SMLT EB-80TS/NTB Authentic Line A4 Skizzenblock  braun Kraftpapier 
 ℹ️:
 
 - 135gsm braunes Kraftpapier
-- Matte Oberfläche des inneren Papier
 - 100% Recycelter Deckel und Innenpapier
 - 80 Blatt mit Perforation
+- Matte Oberfläche des inneren Papier
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LZUVCF7/?tag=tolees0ca-21)

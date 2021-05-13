@@ -28,8 +28,8 @@ Sie können [SPICE - 2er Set Pizzaschaufel aus Aluminium Ø 30 cm für Pizzaöfe
 
 ℹ️:
 
-- Ø 30 cm
 - Pizzaschaufel aus Aluminium
+- Ø 30 cm
 - Praktisch und funktional für runde Pizzaöfen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08J7XDQNP/?tag=tolees0ca-21)
