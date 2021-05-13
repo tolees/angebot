@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.02 % rabat auf Boss Level'
-date: 2021-05-11 02:00:26
+date: 2021-05-13 04:08:01
 image: 'https://m.media-amazon.com/images/I/51WmE7Q98aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
