@@ -28,10 +28,10 @@ Sie können [NYX Professional Makeup You Make Me Feel Like a Millionaire Makeup 
 
 ℹ️:
 
-- 1x Foil Play Cream Pigment und 1x Glitter Goals Liquid Eyeliner für glitzernde, goldene Augen, 1x Love Lust Disco Epic Ink Liner für klassische, wasserfeste Linien
-- 1x Makeup Setting Spray mit mattem Finish für ein Makeup, das nicht nachgibt, 1x Love Lust Disco Illuminating Puff mit schimmerndem Puder für Gesicht und Körper
 - 9-teiliges Makeup-Set, 1x Honey Dew Me Up Primer zum Verringern von Rötungen und als leichte Makeup-Grundierung, 1x A Bit Jelly Gel Illuminator für einen himmlisch-festlichen Glanz
+- 1x Makeup Setting Spray mit mattem Finish für ein Makeup, das nicht nachgibt, 1x Love Lust Disco Illuminating Puff mit schimmerndem Puder für Gesicht und Körper
 - 1x Love Lust Disco Satin Sparkle Lipstick für gewagte Farben mit schillerndem Finish, 1x Filler Instinct Plumping Lip Polish für glänzende Effekte
+- 1x Foil Play Cream Pigment und 1x Glitter Goals Liquid Eyeliner für glitzernde, goldene Augen, 1x Love Lust Disco Epic Ink Liner für klassische, wasserfeste Linien
 - Lieferumfang: 1x NYX Professional Makeup You Make Me Feel Like a Millionaire Makeup Set, 9-teilig, Maße (LxBxH): 52 x 22,5 x 5,7 cm, Gewicht: 566 g
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08F3CDQZB/?tag=tolees0ca-21)
