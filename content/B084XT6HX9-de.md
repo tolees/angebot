@@ -29,8 +29,8 @@ Sie können [LG Electronics - LG OLED65CX9LA 164 cm  65 Zoll  OLED Fernseher  4K
 ℹ️:
 
 - α9 Gen3 4K AI Prozessor mit AI Sound Pro, AI Picture Pro und AI Brightness Control
+- Gutes Bild und guter Ton durch Filmmaker Mode, Dolby Vision IQ und Dolby Atmos sowie optimale HDR Unterstützung mit Cinema HDR
 - Smart TV (web OS 5.0) mit Google Assistant, Alexa
 - 4K Oled TV für Schwarz und satte Farben
-- Gutes Bild und guter Ton durch Filmmaker Mode, Dolby Vision IQ und Dolby Atmos sowie optimale HDR Unterstützung mit Cinema HDR
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084XT6HX9/?tag=tolees0ca-21)

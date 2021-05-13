@@ -29,9 +29,9 @@ Sie können [LG Electronics - LG 82UN85006LA 207 cm  82 Zoll  UHD Fernseher  4K 
 ℹ️:
 
 - Bild und Ton: Optimale HDR-Unterstützung durch Cinema HDR mit Dolby Vision IQ, HDR10 Pro und HLG, 4K Upscaler, Dolby Atmos-fähiges 2.0 Soundsystem mit 20 WattTon durch Filmmaker Mode, Dolby Vision IQ und Dolby Atmos sowie optimale HDR-Unterstützung mit Cinema HDR
-- Prozessor: α7 Gen3 Prozessor 4K mit AI Sound, AI Picture und AI Brightness optimiert die Bilddarstellung auf Basis von Deep-Learning-Algorithmen
 - 4K UHD Smart TV mit 207 cm (82 Zoll) Bildschirmdiagonale, Außenmaße 185,0 cm x 112,8 cm, VESA Norm: 600 x 400 mm
-- Tunertyp und Konnektivität: Single Triple Tuner: 1x (DVB-T2 HD/-C/-S2), CI+ 1. 4, WLAN (802. 11ac), LAN, Bluetooth
 - Smart TV: webOS 5.0 (LG ThinQ) mit Google Assistant und Alexa-Integration, Apple AirPlay 2-kompatibel, Home Dashboard, Magic Remote-Fernbedienung
+- Tunertyp und Konnektivität: Single Triple Tuner: 1x (DVB-T2 HD/-C/-S2), CI+ 1. 4, WLAN (802. 11ac), LAN, Bluetooth
+- Prozessor: α7 Gen3 Prozessor 4K mit AI Sound, AI Picture und AI Brightness optimiert die Bilddarstellung auf Basis von Deep-Learning-Algorithmen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084XT2D3C/?tag=tolees0ca-21)
