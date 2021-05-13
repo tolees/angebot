@@ -28,9 +28,9 @@ Es gibt ein [Sony KD48A9 BRAVIA 121cm  48 Zoll  Fernseher  Android TV  OLED  4K 
 
 ℹ️:
 
+- Mit Acoustic Surface Audio ist der Bildschirm gleichzeitig der Lautsprecher. Der Sound kommt genau von der richtigen Stelle auf dem Bildschirm – für ein authentisches Kinoerlebnis.
 - Der gleiche leistungsstarke Prozessor wie bei unseren 8K Fernsehern analysiert Bilddaten präzise und sorgt für intensiven OLED-Kontrast und unverfälschte Bilder.
 - Mit einfachem Zugriff auf all Ihre Lieblingsinhalte, Dienste und Geräte vereinfachen unsere Android Smart TVs Ihren Alltag.
-- Mit Acoustic Surface Audio ist der Bildschirm gleichzeitig der Lautsprecher. Der Sound kommt genau von der richtigen Stelle auf dem Bildschirm – für ein authentisches Kinoerlebnis.
 - Inhalte lassen sich mit den einzigartigen Funktionen von Sony zu lebensechter 4K Auflösung hochkonvertieren. Unser X1 Ultimate ist doppelt so schnell wie der X1 Extreme und analysiert und verarbeitet Daten präzise, um 4K Bilder mit lebensechten Details und Texturen zu optimieren.
 - Unser schlankes, elegantes One Slate Design lenkt nicht vom Geschehen auf dem Bildschirm ab und fügt sich harmonisch in jeden Raum ein.
 

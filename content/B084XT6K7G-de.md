@@ -28,10 +28,10 @@ Sie können [LG Electronics - LG 49NANO806NA 123 cm  49 Zoll  NanoCell Fernseher
 
 ℹ️:
 
-- HDMI 2.1 und HGiG-Unterstützung* (* Per Software-Update im Laufe des Jahres.)
-- Bild wie vom Regisseur gewollt mit dem Filmmaker Mode sowie HDR-Unterstützung mit Active HDR (HDR10 Pro und HLG)
-- 4K NanoCell IPS TV mit Local Dimming für reine Farben und weite Blickwinkel
-- Quad Core 4K Prozessor mit zweistufiger Rauschreduzierung und AI Sound
 - Smart TV (webOS 5.0) mit Google Assistant, Alexa, AirPlay 2/HomeKit
+- Bild wie vom Regisseur gewollt mit dem Filmmaker Mode sowie HDR-Unterstützung mit Active HDR (HDR10 Pro und HLG)
+- Quad Core 4K Prozessor mit zweistufiger Rauschreduzierung und AI Sound
+- HDMI 2.1 und HGiG-Unterstützung* (* Per Software-Update im Laufe des Jahres.)
+- 4K NanoCell IPS TV mit Local Dimming für reine Farben und weite Blickwinkel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084XT6K7G/?tag=tolees0ca-21)
