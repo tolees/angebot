@@ -28,12 +28,12 @@ Sie können [Oxford Collegeblock A4 liniert  80 Blatt  orange  10er Pack](https:
 
 ℹ️:
 
+- Die mikroperforierten, 4-fach gelochten Blätter lassen sich einfach an der Abreißhilfe heraustrennen und in Ordnern und Ringbüchern Abheften
 - Lineatur 27 - der Schreibblock ist liniert (Linienabstand 9 mm) und hat einen Rand an der rechten und linken Seite jedes Blattes
 - Hoher Schreibkomfort durch das seidenglatte, hochweiße 90g/m² Optik Paper - kein Verlaufen der Tinte und "Schönschreibeffekt"
-- Die Notizblöcke tragen das EU Ecolabel und sind damit gut für die Umwelt
-- Hochwertiger DIN A4 Collegeblock im 10er Pack, die einzelnen Seiten lassen sich durch die seitliche Spirale umblättern
-- Mit 80 Blatt, das bedeutet 160 beschreibbare Seiten je Block, mit spezieller Abreißhilfe sowie einer extra-feinen Mikroperforation lassen sich Seiten einfach und sauber heraustrennen
 - Mithilfe der vier Eckmarkierungen auf dem Papier können die Notizen originalgetreu gescannt, gespeichert und organisiert werden mit der kostenlosen App SCRIBZEE
-- Die mikroperforierten, 4-fach gelochten Blätter lassen sich einfach an der Abreißhilfe heraustrennen und in Ordnern und Ringbüchern Abheften
+- Hochwertiger DIN A4 Collegeblock im 10er Pack, die einzelnen Seiten lassen sich durch die seitliche Spirale umblättern
+- Die Notizblöcke tragen das EU Ecolabel und sind damit gut für die Umwelt
+- Mit 80 Blatt, das bedeutet 160 beschreibbare Seiten je Block, mit spezieller Abreißhilfe sowie einer extra-feinen Mikroperforation lassen sich Seiten einfach und sauber heraustrennen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B008V79KJQ/?tag=tolees0ca-21)

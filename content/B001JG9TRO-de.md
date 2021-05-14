@@ -28,10 +28,10 @@ Sie können [Wiha Bithalter Stubby 281-01 / Schraubendreher mit Bitaufnahme / Bi
 
 ℹ️:
 
-- Kompakter Schraubendreher ist ideal geeignet für Bits mit 1/4" Zoll Sechskantantrieb und ist mit Wiha Kegelsenker Bits als Handentgrater einsetzbar
 - Der flexible Bit-Handhalter mit einem starken Neodym Magneten ist besonders langlebig und robust
-- Dank des ergonomischen SoftFinish Mehrkomponentengriffs mit Abrollschutz liegt der Bit-Halter gut in der Hand und unterstützt das einfache Eindrehen und Lösen von Schrauben
 - Der magnetische Bithalter von Wiha ist flexibel einsetzbar und dank seiner handlichen Größe ideal geeignet für Arbeiten auf engstem Raum und für unterwegs
+- Dank des ergonomischen SoftFinish Mehrkomponentengriffs mit Abrollschutz liegt der Bit-Halter gut in der Hand und unterstützt das einfache Eindrehen und Lösen von Schrauben
+- Kompakter Schraubendreher ist ideal geeignet für Bits mit 1/4" Zoll Sechskantantrieb und ist mit Wiha Kegelsenker Bits als Handentgrater einsetzbar
 - Lieferumfang: 1 x Bithalter, Gesamtlänge: 57mm (65mm mit Bits), geeignet für Bits mit 1/4" Sechskantantrieb
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001JG9TRO/?tag=tolees0ca-21)

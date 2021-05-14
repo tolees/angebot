@@ -28,11 +28,11 @@ Es gibt ein [Neato Robotics - Neato 205-0012 Akku für Botvac D-Serie](https://w
 
 ℹ️:
 
-- Neato Robotics: Der intelligente Roboterstaubsauger mit absoluter Spitzentechnologie
 - Staub, Allergene & sogar Hundehaare werden mit dem navigierenden Robotersauger rückstandlos entfernt - Das smarte Design in D-Form reinigt - im Gegensatz zu runden Geräten - auch in den Ecken präzise
+- 3600 mAh
+- Neato Robotics: Der intelligente Roboterstaubsauger mit absoluter Spitzentechnologie
 - Halten Sie Ihren Neato Botvac in Höchstleistung, indem Sie Original Neato Robotics Zubehör und Ersatzteile speziell für Neato Botvacs verwenden.
 - 12 V NiMH
 - Hochleistungsakku
-- 3600 mAh
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JA17MR4/?tag=tolees0ca-21)

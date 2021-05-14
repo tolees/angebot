@@ -29,8 +29,8 @@ Es gibt ein [Lexar Play 1TB microSDXC UHS-I Karte  Bis Zu 150MB/s Lesegeschwindi
 ℹ️:
 
 - Kompatibel mit Nintendo Switch, tragbaren Spielkonsolen, Smartphones und Tablets
-- Speichern Sie mehr Videos, Filme, Spiele, Musik und Ihre Lieblingsinhalte
 - Schnelle Übertragungsgeschwindigkeiten für schnelle Ladezeiten mit bis zu 150 MB/s Lesegeschwindigkeit
+- Speichern Sie mehr Videos, Filme, Spiele, Musik und Ihre Lieblingsinhalte
 - Fünf Jahre lebenslange Garantie
 - Lädt Apps schneller mit A2 Leistung
 

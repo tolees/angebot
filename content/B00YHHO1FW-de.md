@@ -28,10 +28,10 @@ Sie können [Camry CR 1239 Elektrischer Wasserkocher  Metall  1 7 l  Edelstahl](
 
 ℹ️:
 
-- Wasserstandsanzeige / herausnehmbarer und waschbarer Kalkfilter / Leistung: 2000 Watt / Trockenlaufschutz /
-- Automatische und manuelle Abschaltung / Glasbehälter garantiert geschmacks- und geruchsneutral
-- Fassungsvermögen: 1,7 l – r; verdeckte Standorte aus Edelstahl; Heizsystem
 - Wasserkocher aus hochwertigem Edelstahl mit LED-Beleuchtung
+- Fassungsvermögen: 1,7 l – r; verdeckte Standorte aus Edelstahl; Heizsystem
 - 360° drehbarer Sockel für Rechts- und Linkshänder / einfache Handhabung durch kabelloses Design
+- Automatische und manuelle Abschaltung / Glasbehälter garantiert geschmacks- und geruchsneutral
+- Wasserstandsanzeige / herausnehmbarer und waschbarer Kalkfilter / Leistung: 2000 Watt / Trockenlaufschutz /
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00YHHO1FW/?tag=tolees0ca-21)
