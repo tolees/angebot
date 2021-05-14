@@ -28,11 +28,11 @@ Sie können [Corsair K60 RGB PRO LOW PROFILE Mechanische Gaming-Tastatur  CHERRY
 
 ℹ️:
 
-- Die dynamische RGB-Hintergrundbeleuchtung der einzelnen Tasten ist vollständig anpassbar und erhellt Ihren Desktop mit fast unendlich vielen Farben und Effekten.
-- Die leistungsstarke CORSAIR iCUE-Software ermöglicht die Steuerung der dynamischen RGB-Beleuchtung, die Neubelegung der Tasten und die Programmierung von Makros sowie die systemweite Beleuchtungssynchronisierung aller iCUE-kompatiblen CORSAIR-Produkte.
-- Das erstaunlich dünne und elegante Design mit seinem robusten, schwarz eloxierten Rahmen aus gebürstetem Aluminium fügt sich zu einem modernen Look von außergewöhnlicher Langlebigkeit
-- Die 100 % mechanischen CHERRY MX Low Profile RGB SPEED-Tastenschalter verfügen über einen unglaublich geringen Betätigungsabstand von nur 1,0 mm und erlauben so unvergleichlich schnelles Gameplay bei weicherem Tastendruckton und garantierten 50 Mio. Tastenanschlägen.
-- Information zum Tastatur-Layout Bitte beachten Sie die Hinweise im Titel und den Produktinformationen zur Tastatur-Version. In der Regel erhalten Sie unabhängig von abweichenden Abbildungen das deutschsprachige QWERTZ-Layout, sofern die weiteren Angaben nicht davon abweichen.
 - Volles N-Tasten-Rollover (NKRO) mit 100 % Anti-Ghosting sorgt dafür, dass auch bei höchstem Spieltempo jede Tasteneingabe registriert wird.
+- Die leistungsstarke CORSAIR iCUE-Software ermöglicht die Steuerung der dynamischen RGB-Beleuchtung, die Neubelegung der Tasten und die Programmierung von Makros sowie die systemweite Beleuchtungssynchronisierung aller iCUE-kompatiblen CORSAIR-Produkte.
+- Information zum Tastatur-Layout Bitte beachten Sie die Hinweise im Titel und den Produktinformationen zur Tastatur-Version. In der Regel erhalten Sie unabhängig von abweichenden Abbildungen das deutschsprachige QWERTZ-Layout, sofern die weiteren Angaben nicht davon abweichen.
+- Die 100 % mechanischen CHERRY MX Low Profile RGB SPEED-Tastenschalter verfügen über einen unglaublich geringen Betätigungsabstand von nur 1,0 mm und erlauben so unvergleichlich schnelles Gameplay bei weicherem Tastendruckton und garantierten 50 Mio. Tastenanschlägen.
+- Die dynamische RGB-Hintergrundbeleuchtung der einzelnen Tasten ist vollständig anpassbar und erhellt Ihren Desktop mit fast unendlich vielen Farben und Effekten.
+- Das erstaunlich dünne und elegante Design mit seinem robusten, schwarz eloxierten Rahmen aus gebürstetem Aluminium fügt sich zu einem modernen Look von außergewöhnlicher Langlebigkeit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KHPYT9Y/?tag=tolees0ca-21)
