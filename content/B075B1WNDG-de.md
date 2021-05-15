@@ -28,10 +28,10 @@ Sie können [Fantasy Flight Games FFGZX02 Fallout Das Brettspiel - Englisch](htt
 
 ℹ️:
 
-- Fallout ist ein postnukleares Abenteuer-Brettspiel für ein bis vier Spieler, das auf der beliebten Videospiel-Serie von Bethesda Softworks basiert.
 - 2 bis 3 Stunden Spieldauer.
-- Die Spieler müssen die versteckte Karte finden, furchtbare Feinde bekämpfen, und die Fähigkeiten ihres Überlebenden erweitern.
+- Fallout ist ein postnukleares Abenteuer-Brettspiel für ein bis vier Spieler, das auf der beliebten Videospiel-Serie von Bethesda Softworks basiert.
 - Für 1 bis 4 Spieler.
+- Die Spieler müssen die versteckte Karte finden, furchtbare Feinde bekämpfen, und die Fähigkeiten ihres Überlebenden erweitern.
 - Für Kinder ab 14 Jahren geeignet.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075B1WNDG/?tag=tolees0ca-21)

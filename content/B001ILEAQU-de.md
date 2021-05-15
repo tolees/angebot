@@ -29,7 +29,7 @@ Sie können [BGS 7782 | Parallel-Abzieher  Feingewinde  2-armig | 50 - 150 mm](h
 ℹ️:
 
 - geschmiedet
-- in jeder Position parallele Abzughaken, durch Umstecken der Abzughaken für Innen- und Außenabzug verwendbar
 - mechanischer Abzieher mit Standardhaken
+- in jeder Position parallele Abzughaken, durch Umstecken der Abzughaken für Innen- und Außenabzug verwendbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001ILEAQU/?tag=tolees0ca-21)
