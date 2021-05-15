@@ -28,10 +28,10 @@ Sie können [Microsoft Surface Pro 7  12 3 Zoll 2-in-1 Tablet  Intel Core i5  8G
 
 ℹ️:
 
-- Kamera für die Windows Hello-Authentifizierung per Gesichtserkennung (vorne), 5-MP-Frontkamera für Full-HD-Videoaufnahmen und -Videotelefonie (1080p), 8,0-MP-Rückkamera mit Autofokus für Full-HD-Videoaufnahmen (1080p)
 - Ein leistungsfähigeres Pro: Schneller als Surface Pro 6, mit einem Intel Core-Prozessor der Laptop-Klasse und verbesserter Grafik
 - Mehr Verbindungsmöglichkeiten: USB-C- und USB-A-Anschlüsse zum Verbinden an externe Displays, Dockingstationen und andere Geräte sowie zum Laden von Zubehör
 - Erstklassiger Laptop der nächsten Generation: Mit der Vielfalt eines Studios und Tablets, mit dem Sie natürlicher tippen, zeichnen, schreiben, arbeiten, spielen und den Touch Screen verwenden können. "Tastatur separat erhältlich und nicht im Lieferumfang beinhaltet"
+- Kamera für die Windows Hello-Authentifizierung per Gesichtserkennung (vorne), 5-MP-Frontkamera für Full-HD-Videoaufnahmen und -Videotelefonie (1080p), 8,0-MP-Rückkamera mit Autofokus für Full-HD-Videoaufnahmen (1080p)
 - Außergewöhnliches Design, an dem Sie nicht schwer zu Tragen haben: Ultradünnes und leichtes Surface Pro 7 mit einem Gewicht ab nur 776 Gramm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XBRYWGZ/?tag=tolees0ca-21)
