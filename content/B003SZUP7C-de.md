@@ -29,7 +29,7 @@ Sie können [Tektro RX4.1-Silver Bremshebel  Silber  400 mm](https://www.amazon.
 ℹ️:
 
 - Marke: Tektro
-- Größe: 400mm
 - Farbe: Silber
+- Größe: 400mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003SZUP7C/?tag=tolees0ca-21)

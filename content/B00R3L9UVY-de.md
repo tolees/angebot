@@ -28,10 +28,10 @@ Sie können [Salvatore Ferragamo Emozione femme/women  Eau de Parfum Vaporsiateu
 
 ℹ️:
 
-- Eau de Parfum
+- sinnlich
 - ein Duft voller Emotionen
 - Damen
-- sinnlich
+- Eau de Parfum
 - elegant
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00R3L9UVY/?tag=tolees0ca-21)

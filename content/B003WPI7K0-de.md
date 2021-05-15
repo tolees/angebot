@@ -28,8 +28,8 @@ Es gibt ein [Beco Unisex – Erwachsene Aqua-Hanteln-96042 Aqua-Hanteln  Sortie
 
 ℹ️:
 
-- Marke: Beco
-- Für jedes Alter, Fitnesslevel un für Tief- und Flachwasser geeignet
 - Ideales Trainingsgerät für Gelenk- und Bänderschonenendes Krafttraining
+- Für jedes Alter, Fitnesslevel un für Tief- und Flachwasser geeignet
+- Marke: Beco
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003WPI7K0/?tag=tolees0ca-21)

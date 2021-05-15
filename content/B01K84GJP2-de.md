@@ -28,9 +28,9 @@ Es gibt ein [Anita Sport-BH 5544  90 C  pink/anthrazit](https://www.amazon.de/dp
 
 ℹ️:
 
-- <b>Sport BH</b>
-- <b> C</b>
 - <b>pink/anthrazit</b>
+- <b>Sport BH</b>
 - <b>ANITA 5544</b>
+- <b> C</b>
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01K84GJP2/?tag=tolees0ca-21)
