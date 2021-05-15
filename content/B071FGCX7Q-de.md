@@ -28,10 +28,10 @@ Sie können [Demel Augenoptik - 𝗔𝗞𝗧𝗜𝗢𝗡: Ultraschallreiniger Ko
 
 ℹ️:
 
-- ✔ 𝗔𝗨𝗚𝗘𝗡𝗢𝗣𝗧𝗜𝗞 – Als lokaler Augenoptiker haben wir unsere Erfahrung der letzten 10 Jahre in das Produkt einfließen lassen. Jetzt neu mit praktischem Flaschenausgießer für ein einfaches Dosieren.
-- ✔ 𝗕𝗥𝗜𝗟𝗟𝗘𝗡 – Mit diesem Ultraschallreiniger lassen sich alle Brillen und Sonnenbrillen im Ultraschallbad reinigen. Das Reinigungskonzentrat ist je nach Verschmutzungsgrad zu verdünnen und kann in jedem Ultraschallgerät verwendet werden.
-- ✔ 𝗛𝗔𝗨𝗧𝗙𝗥𝗘𝗨𝗡𝗗𝗟𝗜𝗖𝗛 – Unser Konzentrat ist frei von aggressiven und umweltbelastenden Inhaltsstoffen, alkoholfrei und nicht brennbar. Die Herstellung erfolgt mit dem Ziel, hochwertige Reinigungsmittel für den Deutschen Markt zu entwickeln.
 - ✔ 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗘𝗟𝗟 – Auch kann das Konzentrat für die Reinigung von Uhren (Armbänder), e-Zigaretten, Verdampfer, Kaffeepad Filter und andere Gegenstände im Ultraschallbad verwendet werden.
+- ✔ 𝗕𝗥𝗜𝗟𝗟𝗘𝗡 – Mit diesem Ultraschallreiniger lassen sich alle Brillen und Sonnenbrillen im Ultraschallbad reinigen. Das Reinigungskonzentrat ist je nach Verschmutzungsgrad zu verdünnen und kann in jedem Ultraschallgerät verwendet werden.
 - ✔ 𝗥𝗘𝗜𝗡𝗜𝗚𝗨𝗡𝗚 – Es reinigt porentief Fassungsmaterialien, Mineral- und Kunststoffgläser, empfindliche Glasvergütungen, Bügelscharniere und Nasenauflagen und kann in jedem Ultraschallgerät / Ultraschallbad verwendet werden.
+- ✔ 𝗛𝗔𝗨𝗧𝗙𝗥𝗘𝗨𝗡𝗗𝗟𝗜𝗖𝗛 – Unser Konzentrat ist frei von aggressiven und umweltbelastenden Inhaltsstoffen, alkoholfrei und nicht brennbar. Die Herstellung erfolgt mit dem Ziel, hochwertige Reinigungsmittel für den Deutschen Markt zu entwickeln.
+- ✔ 𝗔𝗨𝗚𝗘𝗡𝗢𝗣𝗧𝗜𝗞 – Als lokaler Augenoptiker haben wir unsere Erfahrung der letzten 10 Jahre in das Produkt einfließen lassen. Jetzt neu mit praktischem Flaschenausgießer für ein einfaches Dosieren.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B071FGCX7Q/?tag=tolees0ca-21)
