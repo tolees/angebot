@@ -28,12 +28,12 @@ Es gibt ein [Logitech G502 HERO High-Performance Gaming-Maus mit HERO 25K DPI op
 
 ℹ️:
 
-- Mechanische Switches mit Tastenfederspannung: Ein Spannungssystem mit Federn und Drehgelenken aus Metall ist in die linke und rechte Maustaste integriert und sorgt für ein promptes und klares Klickgefühl mit sofortiger Rückmeldung an den PC
-- Anpassbare Gewichte: Bis zu fünf 3,6-g-Gewichte ermöglichen eine personalisierte Konfiguration von Gewicht und Balance
-- LIGHTSYNC Technologie: Die Logitech G LIGHTSYNC Technologie bietet ein vollständig anpassbare RGB-Beleuchtung, die sich auch mit dem Geschehen im Spiel synchronisieren lässt.
-- Weltweit die #1: Die meistverkaufte Marke für Gaming Zubehör - Basierend auf unabhängigen aggregierten Verkaufsdaten (Februar 2019 bis Februar 2020) für Gaming-Keyboards, Mäuse und PC-Headsets in Einheiten
+- HERO-Sensor: Der HERO Sensor der nächsten Generation für präzise Abtastung (bis zu 25 600 DPI) ohne Glättung, Filterung oder Beschleunigung
 - 11 programmierbare Tasten: Individuelle Tasteneinstellungen und ein ultraschnelles Scrollrad mit zwei Bildlaufmodi ermöglichen eine vollständig anpassbare Steuerung beim Spielen und sind die ideale Kombination zur Gaming Tastatur
 - Sensor der nächsten Generation: Erkennt Bewegungen kleiner als ein Mikron, kann Bewegungen, die kleiner sind als ein Millionstel Meter, haarscharf abtasten
-- HERO-Sensor: Der HERO Sensor der nächsten Generation für präzise Abtastung (bis zu 25 600 DPI) ohne Glättung, Filterung oder Beschleunigung
+- Anpassbare Gewichte: Bis zu fünf 3,6-g-Gewichte ermöglichen eine personalisierte Konfiguration von Gewicht und Balance
+- LIGHTSYNC Technologie: Die Logitech G LIGHTSYNC Technologie bietet ein vollständig anpassbare RGB-Beleuchtung, die sich auch mit dem Geschehen im Spiel synchronisieren lässt.
+- Mechanische Switches mit Tastenfederspannung: Ein Spannungssystem mit Federn und Drehgelenken aus Metall ist in die linke und rechte Maustaste integriert und sorgt für ein promptes und klares Klickgefühl mit sofortiger Rückmeldung an den PC
+- Weltweit die #1: Die meistverkaufte Marke für Gaming Zubehör - Basierend auf unabhängigen aggregierten Verkaufsdaten (Februar 2019 bis Februar 2020) für Gaming-Keyboards, Mäuse und PC-Headsets in Einheiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GS6ZS8J/?tag=tolees0ca-21)
