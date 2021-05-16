@@ -29,8 +29,8 @@ Sie können [LG Electronics - LG Beamer HF65LS Adagio 2.0 bis 254cm  100 Zoll  C
 ℹ️:
 
 - Magic Remote Control + Smart TV Funktion: Die intuitive Magic Remote Fernbedienung bietet Ihnen maximalen Bedienkomfort und lässt Sie spielend leicht durch SmartTV Apps wie Mediatheken und Streamingdienste navigieren
-- Mit LED Technologie: 30.000 Stunden Lebensdauer Lampenwechsel überflüssig
 - Ultrakuzdistanzoptik für direkte Platzierung des Projektors vor einer Wand/Leinwand, z.B. auf einem Sideboard
+- Mit LED Technologie: 30.000 Stunden Lebensdauer Lampenwechsel überflüssig
 - 1080p HD Auflösung Full HD (1.920 x 1.080) Auflösung
 - Hohe Helligkeit von max. 1.000 Lumen und hoher Kontrast von 150.000:1 sowie naturgetreue Farbwiedergabe durch LED mit 110% NTSC Farbraum
 
