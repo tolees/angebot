@@ -28,10 +28,10 @@ Es gibt ein [Razer Basilisk Ultimate mit Ladestation - Kabellose Gaming Maus mit
 
 ℹ️:
 
-- OPTISCHER RAZER FOCUS+ 20K SENSOR: Ein Sensor mit 20.000 DPI garantiert, dass selbst die kleinsten Bewegungen Ihrer Maus erkannt werden, damit dir spielentscheidende Headshots und spektakuläre Manöver gelingen
+- ULTRA-SCHNELLE KABELLOSE RAZER HYPERSPEED TECHNOLOGIE: Mit extrem niedrigen Latenzen, bis zu 100 Stunden Akku-Laufzeit und übergangslosem Frequenzwechsel in stark ausgelasteten Bereichen. Inklusive einer exklusiven Razer Chroma Maus-Ladestation
 - OPTISCHE MAUS-SWITCHES VON RAZER: Jeder Ihrer Klicks wird mit Lichtgeschwindigkeit ausgeführt, ganz ohne Entprell-Verzögerung, damit Sie immer als Erster den Abzug durchziehen. Die Switches zeichnen sich durch eine Haltbarkeit von bis zu 70 Millionen Klicks aus
 - 14 ANPASSBARE RAZER CHROMA RGB-BELEUCHTUNGSZONEN: Die Razer Basilisk Ultimate verfügt über 14 Razer Chroma-Beleuchtungzonen mit 16,8 Millionen Farben, die Ihr Gameplay perfekt ins rechte Licht rücken. Jede Beleuchtungszone können Sie individuell per Razer Chroma Studio programmieren
+- OPTISCHER RAZER FOCUS+ 20K SENSOR: Ein Sensor mit 20.000 DPI garantiert, dass selbst die kleinsten Bewegungen Ihrer Maus erkannt werden, damit dir spielentscheidende Headshots und spektakuläre Manöver gelingen
 - 11 PROGRAMMIERBARE TASTEN: Sie können Makros und Sekundärfunktionen bis zu 11 programmierbaren Tasten zuweisen, inklusive unserer berühmten Multifunktionstaste, um gleich mehrere Moves blitzschnell auszuführen
-- ULTRA-SCHNELLE KABELLOSE RAZER HYPERSPEED TECHNOLOGIE: Mit extrem niedrigen Latenzen, bis zu 100 Stunden Akku-Laufzeit und übergangslosem Frequenzwechsel in stark ausgelasteten Bereichen. Inklusive einer exklusiven Razer Chroma Maus-Ladestation
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07Y8SF6ZY/?tag=tolees0ca-21)
