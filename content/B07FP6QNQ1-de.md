@@ -30,8 +30,8 @@ Sie können [Lego Creator - Lego 31089 Creator Rennwagen  Speedboot oder klassis
 
 - Dieses LEGO Creator 3-in-1-Set bietet 3 verschiedene Baumöglichkeiten: Nachdem man den Rennwagen gebaut hat, kann man ihn in einen offenen klassischen Rennwagen oder ein leistungsstarkes LEGO Speedboot umbauen, um hinter dem Steuer noch mehr rasante Motorsportaction zu erleben.
 - Öffne das Dach, um in das Cockpit des Rennwagens zu gelangen.
-- Der Rennwagen verfügt über eine aerodynamische Karosserie mit großen Lufteinlässen, eine abgerundete, getönte Windschutzscheibe, ein zugängliches Cockpit, einen sichtbaren Heckmotor, einen großen Heckspoiler und griffige Reifen.
 - Sieh nur einmal die sportliche Farbgebung des Rennwagens in Orange, Weiß und Dunkelblau an.
 - Fahre bei Höchstgeschwindigkeit mit quietschenden Reifen durch die Kurven und entscheide das Rennen für dich.
+- Der Rennwagen verfügt über eine aerodynamische Karosserie mit großen Lufteinlässen, eine abgerundete, getönte Windschutzscheibe, ein zugängliches Cockpit, einen sichtbaren Heckmotor, einen großen Heckspoiler und griffige Reifen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FP6QNQ1/?tag=tolees0ca-21)
