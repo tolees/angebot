@@ -29,9 +29,9 @@ Sie können [Norjews Reisenthel BA0135 Carrybag barock navy](https://www.amazon.
 ℹ️:
 
 - Füllvolumen 25 Liter
-- Einkaufskorb Carrybag
 - Farbe: blau/navy
-- Material: strapazierfähiges Polyestergewebe
 - Innenmaße 46 x 26 x 24 cm
+- Einkaufskorb Carrybag
+- Material: strapazierfähiges Polyestergewebe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0013KAIEY/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.01 % rabat auf LEGO Hidden Side 70418 J.B.’s Geisterlab'
-date: 2021-04-21 11:58:42
+date: 2021-05-17 12:09:31
 image: 'https://m.media-amazon.com/images/I/51hqlv1NSSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CGGP/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '14.2'
+average: '14.2138596491228'
 ---
 
 Es gibt ein [LEGO Hidden Side 70418 J.B.’s Geisterlabor  Spielzeug für Kinder mit Augmented Reality Funktionen](https://www.amazon.de/dp/B07ND6CGGP/?tag=tolees0ca-21) mit aktuellem Preis 14.99 EUR (original: 19.99 EUR) 25.01 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEGO Hidden Side 70418 J.B.’s Geisterlabor  Spielzeug für Kinder
 
 ℹ️:
 
+- LEGO Hidden Side spielt in der fiktiven Stadt Newbury, in der Menschen und Häuser von Geistern besessen sind. Kinder können mit dem Spielset aufregende Geisterjagd-Abenteuer erleben.
+- Dieses Spielzeug mit Augmented Reality Funktionen für Kinder enthält 3 Minifiguren: Jack Davids, J.B. und Douglas Elton sowie Jacks Geisterhund Spencer für das actionreiche Rollenspiel-Abenteuer
 - Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
 - Lade die LEGO Hidden Side App herunter und richte dein Smartphone auf J.B.s Geisterlabor, um das LEGO Modell zum Leben zu erwecken und die Tür zur Hidden Side zu öffnen.
-- Dieses Spielzeug mit Augmented Reality Funktionen für Kinder enthält 3 Minifiguren: Jack Davids, J.B. und Douglas Elton sowie Jacks Geisterhund Spencer für das actionreiche Rollenspiel-Abenteuer
 - Das Spielset „J.B.’s Geisterlabor“ umfasst ein cooles Labor, das von einem verrückten Wissenschaftler inspiriert wurde, mit einer „Tesla-betriebenen“ Kammer, um die Geister loszuwerden.
-- LEGO Hidden Side spielt in der fiktiven Stadt Newbury, in der Menschen und Häuser von Geistern besessen sind. Kinder können mit dem Spielset aufregende Geisterjagd-Abenteuer erleben.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND6CGGP/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [Lisle 24680 Überlauffreier Trichter](https://www.amazon.de/dp/B00A
 
 ℹ️:
 
-- Der spritzfreie Trichter entfernt eingeschlossene Luftblasen, die gewöhnlich zu einer sprunghaften Kühl- und Heizleistung führen
 - Der 45° Ellenbogen ermöglicht den Einsatz mit Kühlerkappen, die in einem Winkel platziert sind
-- Die Erweiterung erlaubt den Zugriff auf die Schutzkappen unter Abdeckungen oder in Kotflügeln.
+- Der spritzfreie Trichter entfernt eingeschlossene Luftblasen, die gewöhnlich zu einer sprunghaften Kühl- und Heizleistung führen
 - Der E-Adapter wird bei Überspannungstanks in vielen Ford Anwendungen verwendet
+- Die Erweiterung erlaubt den Zugriff auf die Schutzkappen unter Abdeckungen oder in Kotflügeln.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00A6AS6LY/?tag=tolees0ca-21)
