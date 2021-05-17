@@ -28,10 +28,10 @@ Es gibt ein [Unicorn Premier Natural Michael  Bully Boy  Smith Steel Dart  90% T
 
 ℹ️:
 
-- Die Barrels haben eine Gravur mit dem Unicorn Logo und der Unterschrift des Premier League Spielers Michael Smith und zusätzlich der Aufschrift "Bully Boy".
+- Michael "Bully Boy" Smith gehört zu den aufkommenden Stars in der PDC und gewann 2013 die World Youth Championship und 2015 die PDC International Darts Open.
 - Die Darts in der Steel Variante mit 22g ist das von Michael Smith bevorzugte Modell.
 - Das Gewicht der Darts ist mit einer Toleranz von +/- 0, 1g garantiert und die Darts sind in hoher 90% Tungsten Qualität gefertigt.
 - Das Set wird mir dem neuen Unicorn ICON-Case geliefert. Barrelmaße 22g: Länge= 49, 6 mm D1= 6, 35 mm
-- Michael "Bully Boy" Smith gehört zu den aufkommenden Stars in der PDC und gewann 2013 die World Youth Championship und 2015 die PDC International Darts Open.
+- Die Barrels haben eine Gravur mit dem Unicorn Logo und der Unterschrift des Premier League Spielers Michael Smith und zusätzlich der Aufschrift "Bully Boy".
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XHP2X4C/?tag=tolees0ca-21)

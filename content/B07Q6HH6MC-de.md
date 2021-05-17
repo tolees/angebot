@@ -28,10 +28,10 @@ Es gibt ein [Under Armour Herren Kurze Hose Rush HeatGear Long  Grün  LG  13516
 
 ℹ️:
 
-- Netzstoff-Einsätze für strategische Belüftung
-- Powered by Celliant
-- Rush Heatgear Long
 - Innenbeinlänge: 28 cm
+- Powered by Celliant
+- Netzstoff-Einsätze für strategische Belüftung
 - Eingefasster Elastikbund mit Jacquard-Textur
+- Rush Heatgear Long
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q6HH6MC/?tag=tolees0ca-21)
