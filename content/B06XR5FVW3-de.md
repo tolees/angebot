@@ -28,10 +28,10 @@ Sie können [Bosch Home and Garden - Bosch Schlagbohrmaschine UniversalImpact 80
 
 ℹ️:
 
-- Die Universal Werkzeuge/Gartengeräte von Bosch – flexibel und leistungsstark mit intelligenten Lösungen für vielfältige Projekte
-- Lieferumfang: UniversalImpact 800, Zusatzhandgriff, Tiefenanschlag, Koffer
-- Präzise Ergebnisse dank konstanter Leistung
-- Mitgelieferter Zusatzhandgriff ermöglicht komfortable Anwendung der Bohrmaschine
 - Sicheres Arbeiten durch automatisches Abschalten des Motors bei blockierendem Werkzeug (Kickback Control)
+- Die Universal Werkzeuge/Gartengeräte von Bosch – flexibel und leistungsstark mit intelligenten Lösungen für vielfältige Projekte
+- Mitgelieferter Zusatzhandgriff ermöglicht komfortable Anwendung der Bohrmaschine
+- Präzise Ergebnisse dank konstanter Leistung
+- Lieferumfang: UniversalImpact 800, Zusatzhandgriff, Tiefenanschlag, Koffer
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XR5FVW3/?tag=tolees0ca-21)
