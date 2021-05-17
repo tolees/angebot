@@ -28,14 +28,14 @@ Es gibt ein [Neues Apple iPhone 12 Mini  64 GB  - Blau](https://www.amazon.de/d
 
 ℹ️:
 
+- 5G für superschnelle Downloads und Streaming in höchster Qualität
 - Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
-- A14 Bionic, der schnellste Chip in einem Smartphone
-- 12 MP TrueDepth Frontkamera mit Nachtmodus, 4K Dolby Vision HDR Aufnahme
-- iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
-- Branchenführender IP68 Wasserschutz
 - Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
 - 5,4" Super Retina XDR Display (13,7 cm Diagonale)
-- 5G für superschnelle Downloads und Streaming in höchster Qualität
+- iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
+- A14 Bionic, der schnellste Chip in einem Smartphone
+- Branchenführender IP68 Wasserschutz
 - Ceramic Shield, der mehr aushält als jedes Smartphone Glas
+- 12 MP TrueDepth Frontkamera mit Nachtmodus, 4K Dolby Vision HDR Aufnahme
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08L5RK6FN/?tag=tolees0ca-21)

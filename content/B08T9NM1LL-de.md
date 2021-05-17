@@ -28,10 +28,10 @@ Sie können [bamb FFP 2 Maske CE Zertifiziert | 5 Stück | CE 1463  EN149:2001+A
 
 ℹ️:
 
-- ✅ ZERTIFIZIERTE FFP2 MASKE - Unsere Mund und Nasenschutz Masken sind zertifiziert nach CE 1463 (EN149:2001+A1:2009) und entsprechen somit den aktuellen gesetzlichen Voraussetzungen
-- ✅ AUSGIEBIGER SCHUTZ - Diese FFP2-Masken sind dichter als herkömmliche Masken und wurden extra konzipiert und ausgiebig getestet zum Schutz gegen Staub, Bakterien sowie Pollen
 - ✅ ALLTAGSTAUGLICHES DESIGN – Dank des verstellbaren Nasenclips und durch elastische, weiche Träger schmiegt sich die FFP2 Maske optimal an Ihr Gesicht und passt sich der individuellen Form optimal an
-- ✅ ANGENEHMER TRAGEKOMFORT – Die Masken bieten einen sehr niedrigen Atemwiderstand, wodurch Feuchtigkeits- & Wärmeansammlungen reduziert werden und das Tragegefühl angenehmer wird
+- ✅ AUSGIEBIGER SCHUTZ - Diese FFP2-Masken sind dichter als herkömmliche Masken und wurden extra konzipiert und ausgiebig getestet zum Schutz gegen Staub, Bakterien sowie Pollen
+- ✅ ZERTIFIZIERTE FFP2 MASKE - Unsere Mund und Nasenschutz Masken sind zertifiziert nach CE 1463 (EN149:2001+A1:2009) und entsprechen somit den aktuellen gesetzlichen Voraussetzungen
 - ✅ SICHERER SELBSTSCHUTZ – FFP2 Masken stehen für „filtering face pieces“, also partikelfiltrierende Halbmasken mit einer speziellen, elektrostatischen Filterschicht. Ein idealer Eigenschutz für den Träger
+- ✅ ANGENEHMER TRAGEKOMFORT – Die Masken bieten einen sehr niedrigen Atemwiderstand, wodurch Feuchtigkeits- & Wärmeansammlungen reduziert werden und das Tragegefühl angenehmer wird
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08T9NM1LL/?tag=tolees0ca-21)

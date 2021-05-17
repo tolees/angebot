@@ -30,8 +30,8 @@ Sie können [idea-station Straight Schnapsgläser 6 Stück  bis max. 4 2 cl gera
 
 - Abmessungen (H x Ø) 7 x 4 cm
 - Modernes, geradliniges und zeitloses Design - Passt einfach immer, egal zu welchem Anlass
-- Für eine Vielzahl von Spirituosen jeglicher Art geeignet - Sie haben die Wahl
 - 6tlg. Schnapsglas-Set mit je 4,2 cl / Spülmaschinenfest
 - Schwerer Glasboden für einen guten, sicheren Stand der Stamper
+- Für eine Vielzahl von Spirituosen jeglicher Art geeignet - Sie haben die Wahl
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01M05SOLS/?tag=tolees0ca-21)
