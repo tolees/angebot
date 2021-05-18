@@ -28,11 +28,11 @@ Sie können [Logitech MK710 Kabelloses Tastatur-Maus-Set  2.4 GHz Verbindung via
 
 ℹ️:
 
+- Alles im Blick: Ein LCD-Dashboard auf der Tastatur verrät jederzeit den Status von Akku, Caps Lock, Scroll Lock und Num Lock
 - Einfach komfortabel: Die PC-Tastatur ist mit flachen Logitech Incurve Tasten und einer gepolsterten Handballenauflage ausgestattet
+- Scrollen in zwei Modi: Die kabellose Maus ermöglicht hyperschnelle Bildläufe und Punkt-für-Punkt-Präzision
 - Wir empfehlen auch: Unsere Logitech MK850 Combo für erweiterte Produktivität mit Bluetooth/USB-Konnektivität und Steuerung mehrerer Computer über die FLOW-Technologie
 - Kabellose Freiheit: Der Logitech Unifying USB-Empfänger ist so winzig, dass er ständig im Rechner verbleiben kann
-- Alles im Blick: Ein LCD-Dashboard auf der Tastatur verrät jederzeit den Status von Akku, Caps Lock, Scroll Lock und Num Lock
-- Scrollen in zwei Modi: Die kabellose Maus ermöglicht hyperschnelle Bildläufe und Punkt-für-Punkt-Präzision
 - Power und Verlässlichkeit: Bis zu drei Jahre Batterielebensdauer für die Logitech MK710 Maus und Tastatur dank effizienter Energieverwaltung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0055ZWQUW/?tag=tolees0ca-21)
