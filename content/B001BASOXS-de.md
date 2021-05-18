@@ -28,10 +28,10 @@ Sie können [NIGRIN 73904 Performance Felgen-Versiegelung 300 ml  für alle Alum
 
 ℹ️:
 
+- Die Felgen-Versiegelung ist für alle Aluminium-, Stahl-, verchromten, und polierten Felgen geeignet. Schützt vor Öl, Schmutz und Bremsstaub
 - Der Felgenreiniger arbeitet mit einer Kombination hochwertiger natürlicher und synthetischer Wachse
 - Hinweis: Nicht in praller Sonne anwenden. Vor Frost schützen
-- Die Felgen-Versiegelung ist für alle Aluminium-, Stahl-, verchromten, und polierten Felgen geeignet. Schützt vor Öl, Schmutz und Bremsstaub
-- Felgen mit NIGRIN - EvoTec - Felgen-Reiniger säubern, Versiegelung auf NIGRIN Profi-Poliertuch geben und dünn auftragen, nach dem Antrocknen auspolieren
 - NIGRIN 73904 PERFORMANCE FELGEN-VERSIEGELUNG 300 ml
+- Felgen mit NIGRIN - EvoTec - Felgen-Reiniger säubern, Versiegelung auf NIGRIN Profi-Poliertuch geben und dünn auftragen, nach dem Antrocknen auspolieren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001BASOXS/?tag=tolees0ca-21)
