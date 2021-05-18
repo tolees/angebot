@@ -28,8 +28,8 @@ Es gibt ein [Herbaria Tellicherry Urwaldpfeffer  1er Pack  1 x 50 g Glasmühle  
 
 ℹ️:
 
-- Tellicherry-Pfefferkörner aus den traditionellen, aromatischen Sorten
 - Karimunda und Devamunda von der indischen Malabarküste
+- Tellicherry-Pfefferkörner aus den traditionellen, aromatischen Sorten
 - Bio-Feinschmecker Pfeffer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003TJA4HI/?tag=tolees0ca-21)

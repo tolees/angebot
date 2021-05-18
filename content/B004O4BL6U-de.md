@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Diamanttrennscheibe Standard for Ceramic Keramik
 
 ℹ️:
 
-- Die preiswerte Problemlösung für den Allroundeinsatz in Fliesen
-- Gesinterter Schneidrand
 - Durchmesser: 125 mm; Bohrungsdurchmesser: 22,23 mm; Schnittbreite: 1,6 mm; Segmenthöhe: 7 mm
+- Die preiswerte Problemlösung für den Allroundeinsatz in Fliesen
 - Passend zu handgeführten Winkelschleifern
 - Professionelle, saubere Schnittkanten in Keramikfliesen
+- Gesinterter Schneidrand
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004O4BL6U/?tag=tolees0ca-21)

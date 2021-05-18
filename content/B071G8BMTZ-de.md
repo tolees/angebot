@@ -28,9 +28,9 @@ Es gibt ein [Hape E1621 Fühlpuzzle Waldtiere](https://www.amazon.de/dp/B071G8BM
 
 ℹ️:
 
+- Fühlpuzzle
 - mit verschiedenen Fühlmaterialien
 - Stufe 3
-- Fühlpuzzle
 - mit Waldtieren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B071G8BMTZ/?tag=tolees0ca-21)
