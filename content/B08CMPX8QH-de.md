@@ -28,9 +28,9 @@ Es gibt ein [ASUS TUF Gaming VG27AQL1A 68 58 cm  27 Zoll  Monitor  WQHD  170Hz  
 
 ℹ️:
 
+- G-SYNC Kompatibel bereit, bietet ein nahtloses, reißfreies Spielerlebnis, indem standardmäßig VRR (variable Aktualisierungsrate) aktiviert wird.
 - 27-Zoll-WQHD-IPS-Gaming-Monitor (2560 x 1440) mit ultraschneller Bildwiederholfrequenz von 170 Hz (Übertaktung) für professionelle Gamer und beeindruckendes Gameplay
 - Die ELMB SYNC-Technologie (ASUS Extreme Low Motion Blur Sync) ermöglicht ELMB zusammen mit G-SYNC Compatible, wodurch Geisterbilder und Risse für scharfe Gaming-Grafiken mit hohen Bildraten vermieden werden.
-- G-SYNC Kompatibel bereit, bietet ein nahtloses, reißfreies Spielerlebnis, indem standardmäßig VRR (variable Aktualisierungsrate) aktiviert wird.
 - Unterstützt sowohl Adaptive-Sync mit NVIDIA GeForce * -Grafikkarten als auch FreeSync mit AMD Radeon-Grafikkarten * Kompatibel mit NVIDIA GeForce GTX 10-Serie, GTX 16-Serie, RTX 20-Serie und neueren Grafikkarten
 - Die HDR-Technologie (High Dynamic Range) mit professionellem Farbumfang bietet Kontrast und Farbleistung, die die DisplayHDR 400-Zertifizierung erfüllen.
 
