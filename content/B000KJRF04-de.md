@@ -28,10 +28,10 @@ Es gibt ein [HERMA 4623 Universal Etiketten DIN A4  97 x 42 3 mm  200 Blatt  Pap
 
 ℹ️:
 
-- Rundum-Sicherheitskante und optimale Planlage schützt Druckertrommel und Walzen vor Klebstoffresten
-- Lieferumfang: 2400 x HERMA PREMIUM Etiketten, DIN A4 Format, 9,7 x 4,23 cm, rechteckig, weiß (200 Blatt je 12 Etiketten)
-- TÜV Zertifizierung garantiert staufreies und konturenscharfes Druckergebnis dank extrem hohem Weißegrad
 - Umweltschonend und nachhaltig: lösemittelfreier Haftkleber, chlorfrei gebleicht und FSC-zertifiziert
 - Ideal für alle Laserdrucker, Inkjet- / Tintenstrahldrucker, Kopierer und zum Beschriften von Hand
+- TÜV Zertifizierung garantiert staufreies und konturenscharfes Druckergebnis dank extrem hohem Weißegrad
+- Lieferumfang: 2400 x HERMA PREMIUM Etiketten, DIN A4 Format, 9,7 x 4,23 cm, rechteckig, weiß (200 Blatt je 12 Etiketten)
+- Rundum-Sicherheitskante und optimale Planlage schützt Druckertrommel und Walzen vor Klebstoffresten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJRF04/?tag=tolees0ca-21)

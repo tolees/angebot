@@ -28,10 +28,10 @@ Es gibt ein [GROHE Eurostyle Einhand-Waschtischbatterie  L-Size  moon white  235
 
 ℹ️:
 
-- Pflegeleicht durch langlebige GROHE StarLight Chrombeschichtung
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
+- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
 - One-Click Showering – wechseln Sie ganz leicht die Strahlarten Ihrer GROHE Brause
 - Sicherer Brausegriff durch InnerWater Guide
-- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
+- Pflegeleicht durch langlebige GROHE StarLight Chrombeschichtung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016ZPOD92/?tag=tolees0ca-21)

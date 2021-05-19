@@ -28,10 +28,10 @@ Sie können [Bosch Home and Garden - Bosch Akku Fenstersauger GlassVAC  3 6 Volt
 
 ℹ️:
 
-- Der Akku Fensterreiniger GlassVAC eignet sich optimal für die Reinigung von Fenstern, Dusche, Fliesen und Spiegel, ohne dabei Schlieren zu hinterlassen
-- Lange Laufzeit und unterbrechungsfreie Anwendung - Reinigung von bis zu 35 Fenstern pro Ladung
 - Lieferumfang: GlassVAC, Reinigungsmittel (500 ml), USB Ladegerät, Sprühflasche mit Mikrofasertuch, 2x Aufsatz mit Abziehlippe (266 mm/133 mm), Handschlaufe, Karton
-- Reinigungsmittel: Das Konzentrat ermöglicht es, hartnäckigen Schmutz auf allen nicht-porösen und glasigen Oberflächen zu entfernen
 - Schnelle und streifenfreie Fensterreinigung dank dem Know-how der Bosch Wischblätter Technologie aus dem Automobilbereich
+- Lange Laufzeit und unterbrechungsfreie Anwendung - Reinigung von bis zu 35 Fenstern pro Ladung
+- Reinigungsmittel: Das Konzentrat ermöglicht es, hartnäckigen Schmutz auf allen nicht-porösen und glasigen Oberflächen zu entfernen
+- Der Akku Fensterreiniger GlassVAC eignet sich optimal für die Reinigung von Fenstern, Dusche, Fliesen und Spiegel, ohne dabei Schlieren zu hinterlassen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HZR33LM/?tag=tolees0ca-21)

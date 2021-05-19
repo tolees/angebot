@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden - Starter Set 18 V  1 Akku 4 0 Ah  1 Ladeger�
 
 ℹ️:
 
-- Power for ALL 18 Volt: Der mitgelieferte Akku ist kompatibel mit allen Geräten des grünen Bosch Home & Garden 18 Volt Systems und den Bosch Unlimited Staubsaugern
 - Hohe Akkuleistung : Ideal für umfangreiche Projekte, wie Heckenschnitt und Schleifarbeiten
 - Hohe Kompatibilität: Akku und Ladegerät können für die meisten 18V – Werkzeuge aus dem Bereich Bosch Home und Garden verwendet werden
 - Ladekompatibilität: Das Ladegerät AL 1815 CV ist mit allen 18-V-Akkus von Bosch Home und Garden kompatibel
 - Hervorragende Laufzeit: Durchführung von sehr großen und anspruchsvollen DIY-Projekten mit einer Akkuladung
+- Power for ALL 18 Volt: Der mitgelieferte Akku ist kompatibel mit allen Geräten des grünen Bosch Home & Garden 18 Volt Systems und den Bosch Unlimited Staubsaugern
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07BYL392H/?tag=tolees0ca-21)
