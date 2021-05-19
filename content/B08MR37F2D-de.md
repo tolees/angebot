@@ -28,13 +28,13 @@ Es gibt ein [realme 7 5g Smartphone ohne Vertrag  6 5 Zoll 120Hz Display  5000mA
 
 ℹ️:
 
-- Dimensity 5G + 5G DSDSDS
+- 48 MP Quad Kamera, Unterstützt Nightscape
 - 6GB ROM+128GB ROM,NFC,GPS
 - realme UI
 - 30W Dart Charge:0-100 % in 65 Minuten
 - Ausdauernder 5000-mAh-AkkuMit 5 % Akku sind 28 Stunden Standby möglich
-- Audio: Dolby Atmos & Hi-Res
+- Dimensity 5G + 5G DSDSDS
 - 120Hz Display Ultra Smooth Display, Ultrahohe Bildschirmabtastrate: 180 Hz
-- 48 MP Quad Kamera, Unterstützt Nightscape
+- Audio: Dolby Atmos & Hi-Res
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08MR37F2D/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [H hefumei - G9 Halogenlampen 28W 230V 2800K Warmweiß Dimmbar 10er-
 
 ℹ️:
 
-- 2000 Stunden
-- 28 Watt Halogen
 - Sockel G9
 - Dimmbar
+- 2000 Stunden
 - 370 LUMEN
+- 28 Watt Halogen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08NZNH7XS/?tag=tolees0ca-21)
