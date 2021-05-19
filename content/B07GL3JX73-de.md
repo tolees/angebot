@@ -28,11 +28,11 @@ Sie können [Bosch Schlagbohrmaschine UniversalImpact 800  800 Watt  Zusatzhandg
 
 ℹ️:
 
-- Sicheres Arbeiten durch automatisches Abschalten des Motors bei blockierendem Werkzeug (Kickback Control)
-- Bohrer-Ø 4/5/6/6/7/8/10 mm
-- Betonbohrer-Set zum professionellen Bearbeiten von Beton, Mauerwerk und Kalksandsetin
-- Einsetzbar in allen Schlagbohrmaschinen
 - Die Schlagbohrmaschine UniversalImpact 800 - vielseitig und kraftvoll
+- Betonbohrer-Set zum professionellen Bearbeiten von Beton, Mauerwerk und Kalksandsetin
+- Bohrer-Ø 4/5/6/6/7/8/10 mm
+- Einsetzbar in allen Schlagbohrmaschinen
 - Mitgelieferter Zusatzhandgriff ermöglicht komfortable Anwendung
+- Sicheres Arbeiten durch automatisches Abschalten des Motors bei blockierendem Werkzeug (Kickback Control)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GL3JX73/?tag=tolees0ca-21)

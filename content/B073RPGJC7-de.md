@@ -29,9 +29,9 @@ Sie können [Eberhard Faber 577540 - Tabaluga Schüleretui 40 teilig befüllt  m
 ℹ️:
 
 - Motiv: Tabaluga
-- Sortierter Artikel, Auswahl leider nicht möglich
 - Gefülltes Schüleretui
-- Maße: ca. 19,5 x 3,5 x 13 cm
 - Inhalt: 14x Buntstifte, Bleistift, 16x Tintenpatronen, Radierer, Spitzer, Lineal, Stundenplan, Stiftverlängerer und 3x Büroklammern
+- Sortierter Artikel, Auswahl leider nicht möglich
+- Maße: ca. 19,5 x 3,5 x 13 cm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B073RPGJC7/?tag=tolees0ca-21)
