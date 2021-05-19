@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '35.65 % rabat auf LEGO 41392 Friends Camping in Heartlake '
-date: 2021-05-07 08:07:14
+title: '31.18 % rabat auf LEGO 41392 Friends Camping in Heartlake '
+date: 2021-05-19 16:12:41
 image: 'https://m.media-amazon.com/images/I/51Nto2IK9XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07WC14JJ6-de LEGO 41392 Friends Camping in Heartlake City Spielset mit...'
+slug: 'B07WC14JJ6-de LEGO 41392 Friends Camping in Heartlake City Set mit Mini...'
 sku: 'B07WC14JJ6-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 19.3 EUR
+actualPrice: 20.64 EUR
 currency: EUR
-price: 19.3
+price: 20.64
 comparePrice: 29.99 EUR
-prodname: 'LEGO 41392 Friends Camping in Heartlake City  Spielset mit Olivia & Mia Mini Puppen und Zelt'
+prodname: 'LEGO 41392 Friends Camping in Heartlake City Set mit Mini Puppen Olivia & Mia und Zelt  Spielzeug ab 6 Jahren für Mädchen und Jungen'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07WC14JJ6/?tag=tolees0ca-21'
-descuento: '35.65'
-average: '23.626883116883'
+descuento: '31.18'
+average: '23.6743037974682'
 ---
 
-Es gibt ein [LEGO 41392 Friends Camping in Heartlake City  Spielset mit Olivia & Mia Mini Puppen und Zelt](https://www.amazon.de/dp/B07WC14JJ6/?tag=tolees0ca-21) mit aktuellem Preis 19.3 EUR (original: 29.99 EUR) 35.65 % Rabatt hier:
+Es gibt ein [LEGO 41392 Friends Camping in Heartlake City Set mit Mini Puppen Olivia & Mia und Zelt  Spielzeug ab 6 Jahren für Mädchen und Jungen](https://www.amazon.de/dp/B07WC14JJ6/?tag=tolees0ca-21) mit aktuellem Preis 20.64 EUR (original: 29.99 EUR) 31.18 % Rabatt hier:
 
 [![LEGO 41392 Friends Camping in Heartlake ](https://m.media-amazon.com/images/I/51Nto2IK9XL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07WC14JJ6/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Dieses Camping-Spielzeug enthält ein LEGO Zelt mit weichem Plastikdach, ein Lagerfeuer, ein Teleskop und sogar einen Whirlpool unter einem Baum
-- Das Spielset beinhaltet Betten, Hocker, einen Schrank mit Haarbürste und Lippenstiftständer, eine Laterne, eine Taschenlampe, ein Fernglas, sogar Kirschen in Getränken
-- Enthält zwei Mini-Spielfiguren Mia und Olivia und ein Spielzeug-Eichhörnchen, das im Baumhaus lebt. Auch ein Fahrrad mit Helm und einem Lautsprecher zum Chillen sind da
-- Nach dem Herunterladen der LEGO Life App haben die Kinder Zugriff auf die digitale Anleitung Instructions PLUS, um eine Ansicht ihres Spielzeug-Zeltlagers im Geistmodus heranzoomen, drehen und anzeigen zu können
-- Das Spielzeuglager mit den Mini-Spielzeugfiguren ist mit einer Lichterkette geschmückt, damit das niedliche Zelt mit einem Smartphone fotografiert werden kann, um Bilder an Freunde schicken zu können
+- Laden Sie die LEGO App herunter, um die Instructions Plus zu benutzen und die digitale Konstruktion zu drehen und zoomen! Dieses Set ist ein tolles Spielzeug für Mädchen und Jungen ab 6 Jahren!
+- Verfügt über 3 Spielbereiche: ein voll ausgestattetes LEGO Zelt mit einem weichen Kunststoffdach, ein Lagerfeuer mit einem Teleskop und ein Heißwassersprudelbecken
+- Enthält 2 Mini Puppen Mia und Olivia sowie eine Eichhörnchenfigur, die im Baumhaus lebt! Auch ein Fahrrad mit Fahrradhelm und einen Lautsprecher
+- Das Spielset umfasst Betten, Hocker, einen Schrank mit Haarbürste und Lippenstiftständer, eine Laterne, eine Taschenlampe, ein Fernglas und sogar Kirschen in Getränken!
+- Das Camping-Set ist mit einer Girlande aus Lichtern geschmückt. Kinder können ein Foto des niedlichen Zeltes mit einem Smartphone machen und an Freunde schicken
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WC14JJ6/?tag=tolees0ca-21)

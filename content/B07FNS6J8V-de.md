@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.00 % rabat auf LEGO 60216 City Feuerwehr in der Stadt  '
-date: 2021-05-18 16:39:45
+date: 2021-05-19 16:59:58
 image: 'https://m.media-amazon.com/images/I/61SNKZAf6AS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNS6J8V/?tag=tolees0ca-21'
 descuento: '26.00'
-average: '76.2437600000003'
+average: '76.2377659574471'
 ---
 
 Es gibt ein [LEGO 60216 City Feuerwehr in der Stadt  Bauset mit Feuerwehrauto  Kran  Hubschrauber  Motorrad und 7 Minifiguren  Feuerwehrspielzeuge für Kinder](https://www.amazon.de/dp/B07FNS6J8V/?tag=tolees0ca-21) mit aktuellem Preis 73.99 EUR (original: 99.99 EUR) 26.00 % Rabatt hier:
