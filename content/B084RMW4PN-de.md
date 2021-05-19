@@ -28,8 +28,8 @@ Es gibt ein [Salewa Herren STERNAI TWR M JKT  Isolationsjacke mit Wolle gefütte
 
 ℹ️:
 
-- Rückenlänge: 70 cm
-- Gewicht: 320 g
 - Passform: Athletic Fit
+- Gewicht: 320 g
+- Rückenlänge: 70 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084RMW4PN/?tag=tolees0ca-21)

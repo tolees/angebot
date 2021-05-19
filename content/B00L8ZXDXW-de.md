@@ -28,11 +28,11 @@ Es gibt ein [Eisbär Unisex Mütze Trop Mütze  anthrazit  Einheitsgröße](http
 
 ℹ️:
 
-- [ZUSATZFUNKTION] atmungsaktives, wärmendes Innenfleece
-- [EISBÄR VERSPRECHEN] optimale Passform und angenehmes Tragegefühl
-- [PFLEGE] 30° C Schonwaschgang, Nicht bleichen, Nicht im Trockner trocken, Nicht heiß bügeln, Nicht trockenreinigen
 - [MERINOWOLLE] Materialmix mit weicher Merinowolle (mulesingfrei) - perfekte Temperatur- und Feuchtigkeitsregulierung
-- [GRÖSSE] one size: perfekt für Kopfumfang 56 – 58 cm
+- [ZUSATZFUNKTION] atmungsaktives, wärmendes Innenfleece
+- [PFLEGE] 30° C Schonwaschgang, Nicht bleichen, Nicht im Trockner trocken, Nicht heiß bügeln, Nicht trockenreinigen
 - [EISBÄR MÜTZE] klassische, melierte Mütze von Eisbär
+- [GRÖSSE] one size: perfekt für Kopfumfang 56 – 58 cm
+- [EISBÄR VERSPRECHEN] optimale Passform und angenehmes Tragegefühl
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00L8ZXDXW/?tag=tolees0ca-21)
