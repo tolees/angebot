@@ -29,9 +29,9 @@ Sie können [Bosch Home and Garden - Bosch Heißluftgebläse EasyHeat 500  1600 
 ℹ️:
 
 - Lieferumfang: EasyHeat 500; Karton
-- Die Easy Werkzeuge von Bosch handliche Helfer, für alle kleinen Projekte
-- Zwei selbsterklärende Symbole zur Darstellung der beiden benutzerfreundlichen Einstellungen sowie kompakte Bauweise für einfache, kontrollierte Handhabung
-- Zahlreiche aufgabenspezifische Zusatzdüsen erhältlich, die ideale auf verschiedene Anwendungen zugeschnitten sind vom Schrumpfen von Elektrokabeln bis zu kreativen Kunstprojekten
 - Rutschfeste gummierte Oberfläche für sichere Handhabung in der aufgestellten 90 grad Position
+- Zahlreiche aufgabenspezifische Zusatzdüsen erhältlich, die ideale auf verschiedene Anwendungen zugeschnitten sind vom Schrumpfen von Elektrokabeln bis zu kreativen Kunstprojekten
+- Zwei selbsterklärende Symbole zur Darstellung der beiden benutzerfreundlichen Einstellungen sowie kompakte Bauweise für einfache, kontrollierte Handhabung
+- Die Easy Werkzeuge von Bosch handliche Helfer, für alle kleinen Projekte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BWS1KT5/?tag=tolees0ca-21)
