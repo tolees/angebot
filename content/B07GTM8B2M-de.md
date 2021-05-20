@@ -28,10 +28,10 @@ Es gibt ein [Jack Wolfskin Herren ARGON STORM JACKET M wasserdichte Winterjacke 
 
 ℹ️:
 
-- Bluesign-zertifiziert
-- Sehr wasserdicht, winddicht, sehr atmungsaktiv
-- Pfc-frei
-- Sehr warm gefüttert, leicht
 - Winterwanderjacke, mit Kapuze
+- Sehr wasserdicht, winddicht, sehr atmungsaktiv
+- Bluesign-zertifiziert
+- Sehr warm gefüttert, leicht
+- Pfc-frei
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GTM8B2M/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Sie können [Amazon Basics Licensing - Amazon Basics Kunststoff-Organizer  Brief
 ℹ️:
 
 - Zur Verwendung in einer Schublade oder einem Schrank oder auf einem Schreibtisch oder Regal
+- Modulares Design; stapelbar mit der Briefablage, Zubehörablage und Halb-Zubehörablage aus der Kunststoff-Organizer-Kollektion von Amazon Basics (zusätzliche Artikel sind nicht im Lieferumfang enthalten)
+- Maße: 33 x 24,6 x 5,6 cm
 - Briefablage (2 Stück) zum übersichtlichen und ordentlichen Aufbewahren von Dokumenten, Akten und mehr
 - Hergestellt aus robustem Hartkunststoff für hohe Langlebigkeit und Stabilität; erhältlich in Schwarz und Weiß (jeweils separat erhältlich)
-- Maße: 33 x 24,6 x 5,6 cm
-- Modulares Design; stapelbar mit der Briefablage, Zubehörablage und Halb-Zubehörablage aus der Kunststoff-Organizer-Kollektion von Amazon Basics (zusätzliche Artikel sind nicht im Lieferumfang enthalten)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RY2ZKT5/?tag=tolees0ca-21)
