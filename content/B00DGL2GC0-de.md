@@ -28,10 +28,10 @@ Es gibt ein [M&M S | Peanut | Schokolinsen mit Erdnusskern | Eine Packung  1 x 1
 
 ℹ️:
 
-- GROSSPACKUNG: Mit der 1kg Packung ist der schokoladig-knackiger Genuss und Spaß vorprogrammiert. Auch beim Backen, im Dessert oder einfach als süßer Snack für zwischendurch geeignet
 - KINOABEND: Ob für den gemütlichen Filmabend auf der Couch mit den Liebsten oder beim nächsten Kinoabend mit Freunden - Die bunten M&MS Schokolinsen sind der ideale Snack
-- M&MS PEANUT: Bunter Knabberspaß auf jeder Party - denn bekanntlich schmecken die unverwechselbaren Schokonüsse geteilt immer besser
-- LIEFERUMFANG: 1 x 1 kg Beutel M&MS Peanut, beste Qualität durch ausgewählte Zutaten - nur original mit dem "m"
+- GROSSPACKUNG: Mit der 1kg Packung ist der schokoladig-knackiger Genuss und Spaß vorprogrammiert. Auch beim Backen, im Dessert oder einfach als süßer Snack für zwischendurch geeignet
 - GENUSS PUR: Zarte Milchschokolade mit knackigem Erdnusskern in zarter Zuckerglasur - so schmelzen die Schokolinsen erst im Mund und nicht in der Hand
+- LIEFERUMFANG: 1 x 1 kg Beutel M&MS Peanut, beste Qualität durch ausgewählte Zutaten - nur original mit dem "m"
+- M&MS PEANUT: Bunter Knabberspaß auf jeder Party - denn bekanntlich schmecken die unverwechselbaren Schokonüsse geteilt immer besser
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DGL2GC0/?tag=tolees0ca-21)

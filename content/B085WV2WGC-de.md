@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.50 % rabat auf LEGO 75318 Star Wars The Mandalorian  Da'
-date: 2021-05-10 08:27:17
+date: 2021-05-20 20:04:14
 image: 'https://m.media-amazon.com/images/I/518BDEgmS2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B085WV2WGC/?tag=tolees0ca-21'
 descuento: '27.50'
-average: '72.4132098765431'
+average: '72.3515918367346'
 ---
 
 Es gibt ein [LEGO 75318 Star Wars The Mandalorian  Das Kind  Bauset  Bauspielzeug zum Sammeln für Fans ab 10 Jahren](https://www.amazon.de/dp/B085WV2WGC/?tag=tolees0ca-21) mit aktuellem Preis 57.99 EUR (original: 79.99 EUR) 27.50 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEGO 75318 Star Wars The Mandalorian  Das Kind  Bauset  Bauspielzeu
 
 ℹ️:
 
-- Fans können ihre eigene Version des Spielzeugs „Das Kind“ (75318) zur TV-Serie „Star Wars: The Mandalorian“ aus LEGO Steinen bauen und authentische Details nach LEGO Art nachbilden, um ein tolles Deko Modell erschaffen
+- Das Baumodell aus LEGO Steinen ist 19 cm hoch, 21 cm breit und 13 cm tief. Obwohl das Deko Modell nur wenig Platz beansprucht, beeindruckt das Kind überall, ganz gleich wo es aufgestellt wird
 - Dieses Baumodell (neu ab November 2020) stellt all die niedlichen Details dieser enorm beliebten Star Wars Figur dar. Kopf, Ohren und Mund lassen sich zum Beispiel bewegen, um den Gesichtsausdruck zu verändern
 - Dieses coole 1.073-teilige LEGO Star Wars Bauspielzeug ist ein wunderbares Geburtstags oder Weihnachtsgeschenk und eine tolle Überraschung für Kinder ab 10 Jahren und alle Fans der TV-Serie „Star Wars: The Mandalorian“
+- Fans können ihre eigene Version des Spielzeugs „Das Kind“ (75318) zur TV-Serie „Star Wars: The Mandalorian“ aus LEGO Steinen bauen und authentische Details nach LEGO Art nachbilden, um ein tolles Deko Modell erschaffen
 - Zum Set gehören auch ein Schaltknauf, das Lieblingsspielzeug des Kindes, den die Figur in der Hand halten kann, sowie eine Info-Plakette und das Kind als LEGO Minifigur, um das sehenswerte Deko Modell zu vervollständigen
-- Das Baumodell aus LEGO Steinen ist 19 cm hoch, 21 cm breit und 13 cm tief. Obwohl das Deko Modell nur wenig Platz beansprucht, beeindruckt das Kind überall, ganz gleich wo es aufgestellt wird
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B085WV2WGC/?tag=tolees0ca-21)
