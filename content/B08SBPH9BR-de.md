@@ -28,9 +28,9 @@ Sie können [Bosch Home and Garden - Bosch Elektro Vertikutierer UniversalVertic
 
 ℹ️:
 
+- Kompakte Lagerung dank doppelt klappbarem Holm und zusammenlegbarer Fangbox
 - Effektives Rasenlüften und Moosentfernen dank Messern aus Kohlenstoffstahl
 - Lieferumfang: UniversalVerticut 1100, Karton
-- Kompakte Lagerung dank doppelt klappbarem Holm und zusammenlegbarer Fangbox
 - Selteneres Entleeren durch große 50-Liter-Fangbox
 - Ideal zum Vertikutieren und Lüften, mit 4 Höheneinstellungen von +5 mm bis -10 mm
 
