@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '25.01 % rabat auf LEGO 60253 City Eiswagen Spielzeug mit S'
-date: 2021-04-27 12:12:36
+title: '38.47 % rabat auf LEGO 60253 City Eiswagen Spielzeug mit S'
+date: 2021-05-21 16:00:01
 image: 'https://m.media-amazon.com/images/I/51b5Hj2140L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: 'tole.es'
 slug: 'B07W4KSKXZ-de LEGO 60253 City Eiswagen Spielzeug mit Skater- und...'
 sku: 'B07W4KSKXZ-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 14.99 EUR
+actualPrice: 12.3 EUR
 currency: EUR
-price: 14.99
+price: 12.3
 comparePrice: 19.99 EUR
 prodname: 'LEGO 60253 City Eiswagen Spielzeug mit Skater- und Hundefigur  Bauset für Kinder ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21'
-descuento: '25.01'
-average: '18.0147959183672'
+descuento: '38.47'
+average: '17.9570707070706'
 ---
 
-Es gibt ein [LEGO 60253 City Eiswagen Spielzeug mit Skater- und Hundefigur  Bauset für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21) mit aktuellem Preis 14.99 EUR (original: 19.99 EUR) 25.01 % Rabatt hier:
+Es gibt ein [LEGO 60253 City Eiswagen Spielzeug mit Skater- und Hundefigur  Bauset für Kinder ab 5 Jahren](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21) mit aktuellem Preis 12.3 EUR (original: 19.99 EUR) 38.47 % Rabatt hier:
 
 [![LEGO 60253 City Eiswagen Spielzeug mit S](https://m.media-amazon.com/images/I/51b5Hj2140L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Dieses Bauset für Kinder enthält einen farbenfrohen Eiswagen, eine Eisverkäuferin und einen Skateboarder als Minifiguren sowie eine Hundefigur. Perfekt für ein fantasievolles, selbstständiges Spielerlebnis.
-- Mit diesem Bauset ist das Bauen wirklich kinderleicht. Zu dem Set gibt es eine einfache gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung für Kinder. Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
-- Batterien werden nicht benötigt. Als Antrieb reicht dem LEGO City Eiswagen die Fantasie kleiner Kinder. Der Spielspaß kann also sofort beginnen!
-- Der fertig gebaute Eiswagen ist 11 cm hoch, 15 cm lang und 6 cm breit. Die Eisverkäuferin hat reichlich Platz, um den Eiswagen zu fahren und Kunden zu bedienen.
 - Welches Kind läuft nicht begeistert zum Eiswagen? Kinder vergnügen sich gerne mit dem LEGO City Bauset „Eiswagen“, das echten Sommerspaß verspricht und unzählige kreative Alltags-Rollenspiele ermöglicht.
-- Das LEGO City Spielset „Eiswagen“ (60253) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Grundlegende Baufähigkeiten reichen völlig.
+- Mit diesem Bauset ist das Bauen wirklich kinderleicht. Zu dem Set gibt es eine einfache gedruckte Bauanleitung sowie Instructions PLUS – eine interaktive Bauanleitung für Kinder. Verfügbar in der kostenlosen LEGO Life App für Smartphones und Tablets.
 - Kinder helfen der Eisverkäuferin, den Eiswagen zu fahren und an der Eistheke Eiswaffeln und Eis am Stiel zu verkaufen, und dem Skateboarder, tolle Tricks zu zeigen. Dieser farbenfrohe Eiswagen ist auch ein tolles Schaustück.
+- Der fertig gebaute Eiswagen ist 11 cm hoch, 15 cm lang und 6 cm breit. Die Eisverkäuferin hat reichlich Platz, um den Eiswagen zu fahren und Kunden zu bedienen.
+- Das LEGO City Spielset „Eiswagen“ (60253) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Spielzeug-Fahrzeuge lieben. Grundlegende Baufähigkeiten reichen völlig.
+- Dieses Bauset für Kinder enthält einen farbenfrohen Eiswagen, eine Eisverkäuferin und einen Skateboarder als Minifiguren sowie eine Hundefigur. Perfekt für ein fantasievolles, selbstständiges Spielerlebnis.
+- Batterien werden nicht benötigt. Als Antrieb reicht dem LEGO City Eiswagen die Fantasie kleiner Kinder. Der Spielspaß kann also sofort beginnen!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W4KSKXZ/?tag=tolees0ca-21)
