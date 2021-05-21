@@ -28,10 +28,10 @@ Es gibt ein [Meguiar s G3626EU Ultimate Waterless Wash & Wax Trockenwäsche  768
 
 ℹ️:
 
+- Waschen & Wachsen - ohne Wasser
 - Auch zur schnellen Auffrischung von Zweirädern geeignet
 - Glanz und Sauberkeit, wenns schnell gehen muss
-- Schnelle Reinigung - überall und gefahrlos
-- Waschen & Wachsen - ohne Wasser
 - Ideal im urbanen Umfeld ohne nahegelegenen Waschplatz
+- Schnelle Reinigung - überall und gefahrlos
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006FUT0CS/?tag=tolees0ca-21)
