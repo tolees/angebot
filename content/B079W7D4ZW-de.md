@@ -28,10 +28,10 @@ Es gibt ein [Jacobs Kaffeebohnen Barista Editions Espresso Bohnen  1 kg Bohnenka
 
 ℹ️:
 
-- Jacobs Barista Editions Espresso, Kaffee Ganze Bohne, 1er Pack (1 x 1000 g)
-- Erste Wahl für Espresso, Cappuccino oder Latte Macchiato
 - Kaffee vom Barista inspiriert: kraftvolle Mischung südamerikanischer und asiatischer Kaffees
-- Sorgfältig und schonend im Trommelröster geröstet
 - Intensiver Geschmack mit leichter würziger Note- ideal für die Zubereitung mit Kaffeevollautomat, Siebträger oder French Press
+- Sorgfältig und schonend im Trommelröster geröstet
+- Erste Wahl für Espresso, Cappuccino oder Latte Macchiato
+- Jacobs Barista Editions Espresso, Kaffee Ganze Bohne, 1er Pack (1 x 1000 g)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079W7D4ZW/?tag=tolees0ca-21)
