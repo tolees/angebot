@@ -28,10 +28,10 @@ Sie können [ZTE Smartphone Axon 20  17.58 cm  6.92 Zoll  AMOLED Display  128GB 
 
 ℹ️:
 
-- Prozessor: Unisoc Octa-Core (A75(2,0 GHz * 2) + A55 (2,0 GHz * 6))
+- AndroidTM 10
+- Hauptkamera: "64MP AF + 8MP FF + 2MP FF + 2MP FF AI Quad-Kamera
 - Speicher: 6GB RAM + 128GB interner Speicher (microSDTM erweiterbar um bis zu 2TB)
 - 6.92" FHD+ Under Display Camera, 16 Mio. Farben
-- Hauptkamera: "64MP AF + 8MP FF + 2MP FF + 2MP FF AI Quad-Kamera
-- AndroidTM 10
+- Prozessor: Unisoc Octa-Core (A75(2,0 GHz * 2) + A55 (2,0 GHz * 6))
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08MWD6W5R/?tag=tolees0ca-21)
