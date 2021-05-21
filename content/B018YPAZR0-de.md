@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Diamanttrennscheibe Best for Ceramic  für Keram
 
 ℹ️:
 
-- Der durchgehende Schneiderand ermöglicht glatte Schnitte bei minimaler Splitterbildung
-- Einsatzgebiete: Perfekt geeignet für hartes Feinsteinzeug, Fliesen, Keramikfliesen (auch glasiert), Marmor und Steinzeug
-- Bosch Professional Diamanttrennscheibe - Best for Ceramic
-- Lieferumfang: 1 x Diamanttrennscheibe − Ø 76 mm, Bohrungsdurchmesser: 10 mm, Schnittbreite: 1,9 mm, Segmenthöhe: 10 mm
 - Kompatibel mit Winkelschleifern mit 10mm Aufnahme wie z.B. GWS 12V-76
+- Einsatzgebiete: Perfekt geeignet für hartes Feinsteinzeug, Fliesen, Keramikfliesen (auch glasiert), Marmor und Steinzeug
+- Lieferumfang: 1 x Diamanttrennscheibe − Ø 76 mm, Bohrungsdurchmesser: 10 mm, Schnittbreite: 1,9 mm, Segmenthöhe: 10 mm
+- Bosch Professional Diamanttrennscheibe - Best for Ceramic
+- Der durchgehende Schneiderand ermöglicht glatte Schnitte bei minimaler Splitterbildung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B018YPAZR0/?tag=tolees0ca-21)
