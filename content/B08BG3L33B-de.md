@@ -28,10 +28,10 @@ Sie können [POC Obex Spin Ski-und Snowboardhelm mit robuster ABC Deckschale und
 
 ℹ️:
 
-- LEICHT & ANPASSBAR_Der Helm bietet ein 360°-Größeneinstellsystem für eine personalisierte, sichere und komfortable Passform sowie eine optimale Belüftung.
 - POC SPIN_Die neuen SPIN Pads sorgen dafür, dass die Energie, die bei einem Sturz mit schrägem Aufprall auf das Gehirn einwirkt, reduziert wird. Der Druck wird besser auf eine größere Fläche verteilt und bietet einen besseren Schutz bei harten Einschlägen.
+- LEICHT & ANPASSBAR_Der Helm bietet ein 360°-Größeneinstellsystem für eine personalisierte, sichere und komfortable Passform sowie eine optimale Belüftung.
+- VERBESSERTER SCHUTZ_ Leichte In-Mold-Konstruktion mit EPS-Innenfutter, verstärkt mit einer robusten ABS-Deckschale, machen den Helm zu einem sicheren und komfortablen Ganztagshelm.
 - FIXER BRILLENCLIP_ Bietet zusätzliche Sicherheit und Luftkanäle im Helm leiten Feuchtigkeit aus POC Brillen ab. POC Helme für Damen und Herren werden so designed, um eine nahtlose Kompatibilität mit POC-Brillen zu gewährleisten.
 - MADE FOR THE MOUNTAINS_ Leichter, gut belüfteter und anpassungsfähiger Ganztagshelm für alle Ski- und Snowboardaktivitäten und Freeriden in den Bergen, auf und abseits der Piste.
-- VERBESSERTER SCHUTZ_ Leichte In-Mold-Konstruktion mit EPS-Innenfutter, verstärkt mit einer robusten ABS-Deckschale, machen den Helm zu einem sicheren und komfortablen Ganztagshelm.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08BG3L33B/?tag=tolees0ca-21)

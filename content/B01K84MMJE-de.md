@@ -28,9 +28,9 @@ Es gibt ein [Anita Sport-BH 5544  80 E  pink/anthrazit](https://www.amazon.de/dp
 
 ℹ️:
 
+- <b>pink/anthrazit</b>
+- <b> E</b>
 - <b>Sport BH</b>
 - <b>ANITA 5544</b>
-- <b> E</b>
-- <b>pink/anthrazit</b>
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01K84MMJE/?tag=tolees0ca-21)
