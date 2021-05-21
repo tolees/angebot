@@ -28,11 +28,11 @@ Sie können [Rademacher 9496-2 HomePilot®2 - Das Herzstück für Ihr Smart Home
 
 ℹ️:
 
+- Komfortable Bedienung auch per Sprachsteuerung. Mit dem HomePilot Alexa Skill oder Google Assistant Dienst wird ihr Zuhause noch smarter.
+- Alle kompatiblen Smart Home Geräte können automatisch oder manuell über den HomePilot gesteuert werden. Umfangreiche Home-Automation möglich über eingerichtete Szenen/Routinen (Zeit-, Wetter-, Sensor-gesteuert).
 - Sofern gewünscht, ist es möglich mit Hilfe des DuoFern Umweltsensors (ASIN: B001ZVWF42) die Hausautomation ans Wetter anzupassen. Dabei reicht bereits ein Umweltsensor pro HomePilot vollkommen aus.
 - So, wie Sie es wünschen: Ganz einfach via Smartphone App, Tablet, PC oder Laptop auf den HomePilot zugreifen.
 - Neu seit Software-Update Ende 2019: Integration & Steuerung von Philips Hue Lampen möglich (Hue Bridge erforderlich).
 - Zentrale Steuereinheit Ihres Rademacher Smart Homes für DuoFern Geräte z. B. Gurtwickler, Rolladenmotor, Universal-Aktor, Rohrmotor-Aktor, Raumthermostat, Heizkörperstellantrieb uvm.
-- Alle kompatiblen Smart Home Geräte können automatisch oder manuell über den HomePilot gesteuert werden. Umfangreiche Home-Automation möglich über eingerichtete Szenen/Routinen (Zeit-, Wetter-, Sensor-gesteuert).
-- Komfortable Bedienung auch per Sprachsteuerung. Mit dem HomePilot Alexa Skill oder Google Assistant Dienst wird ihr Zuhause noch smarter.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005SALGLE/?tag=tolees0ca-21)

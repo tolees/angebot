@@ -28,10 +28,10 @@ Sie können [Odlo Herren Langarm Tshirt Crew Neck Warm  weiß white   XL](https:
 
 ℹ️:
 
-- Lieferumfang: 1 x ODLO Active Warm Funktionsshirt / Hinten länger geschnitten / Langärmliges Thermoshirt für den Wintersport / Farbe: Weiß / Größe: XL / Material: 100% Polyester
-- Der hinten längere Schnitt und das weiche, elastische Material sorgen stets für einen angenehm anliegenden Sitz und optimale Bewegungsfreiheit im Training
+- Dank der "Effect by ODLO"-Technologie wird die Vermehrung von Bakterien gestoppt und die Entstehung von unangenehmen Gerüchen verhindert - für ein angenehmes Tragegefühl auf der Haut
 - Raus auf die Piste: Das ODLO Active Warm Langarm-Shirt sorgt auch bei eisigen Temperaturen dank Thermo-Material für ein angenehm warmes und trockenes Hautgefühl während des Trainings
 - Das Polyestermaterial ist atmungsaktiv, schnelltrocknend und unterstützt den Temperaturausgleich beim Sport - so ist das Shirt die ideale Wahl als Baselayer unter der Winterkleidung
-- Dank der "Effect by ODLO"-Technologie wird die Vermehrung von Bakterien gestoppt und die Entstehung von unangenehmen Gerüchen verhindert - für ein angenehmes Tragegefühl auf der Haut
+- Der hinten längere Schnitt und das weiche, elastische Material sorgen stets für einen angenehm anliegenden Sitz und optimale Bewegungsfreiheit im Training
+- Lieferumfang: 1 x ODLO Active Warm Funktionsshirt / Hinten länger geschnitten / Langärmliges Thermoshirt für den Wintersport / Farbe: Weiß / Größe: XL / Material: 100% Polyester
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003NFBZSU/?tag=tolees0ca-21)

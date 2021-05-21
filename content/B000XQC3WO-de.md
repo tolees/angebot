@@ -28,7 +28,7 @@ Sie können [Bosch Home and Garden - Bosch Ersatz-Trimmerfadenspule „Pro-Tap�
 
 ℹ️:
 
-- Durchmesser: 1,6 mm
 - Länge: 8 m
+- Durchmesser: 1,6 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000XQC3WO/?tag=tolees0ca-21)
