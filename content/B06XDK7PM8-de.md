@@ -28,8 +28,8 @@ Es gibt ein [WOLF Garten - WOLF-Garten - Saatgut  LR 250 Turbo-Nachsaat für 250
 
 ℹ️:
 
-- Extrem belastbar
 - Dicht wachsend
 - Schließt besonders schnell flächige Lücken im Rasen
+- Extrem belastbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XDK7PM8/?tag=tolees0ca-21)
