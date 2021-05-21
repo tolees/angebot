@@ -28,10 +28,10 @@ Sie können [LEDVANCE LED Smartes LED Lichtband mit WiFi Technologie für Innen 
 
 ℹ️:
 
-- Steuerung über Google Assistant oder Amazon Alexa möglich
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
-- RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
 - Dimmbar
 - Flexible, biegsame LED-Lichtstreifen
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
+- Steuerung über Google Assistant oder Amazon Alexa möglich
+- RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KYBMR9M/?tag=tolees0ca-21)
