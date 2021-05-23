@@ -28,9 +28,9 @@ Es gibt ein [GLORIA Stahldraht-Fugenbürste | Zubehör für MultiBrush- und Weed
 
 ℹ️:
 
-- EINFACHE MONTAGE: Die Bürste kann einfach mit Hilfe eines Sechskantschlüssels ausgetauscht werden
-- SAUBERE FUGEN: Die 1,5 cm breite Drahtbürste ermöglicht tiefes und fugengenaues Arbeiten und säubert die Fugen im Handumdrehen von festsitzenden Verschmutzungen und Unkraut. Für eine unkrautfreie Hofeinfahrt und Terrasse
 - KOMPATIBILIÄT: Die messingbeschichtete Stahldraht-Fugenbürste passt auf folgende GLORIA BrushSystem-Geräte: MultiBrush li-on, MultiBrush speedcontrol, WeedBrush li-on und WeedBrush
+- EINFACHE MONTAGE: Die Bürste kann einfach mit Hilfe eines Sechskantschlüssels ausgetauscht werden
 - HARTES MATERIAL: Die Borsten sind aus unnachgiebigem Stahldraht gefertigt. Dadurch ist die Bürste besonders gut für hartnäckige Verschmutzungen geeignet und sollte nur zwischen Steinplatten verwendet werden, die robust sind, wie zum Beispiel Waschbetonplatten. Die Fugenbürste hält einer Belastungsdauer von über 3 Stunden auf Betonstein stand
+- SAUBERE FUGEN: Die 1,5 cm breite Drahtbürste ermöglicht tiefes und fugengenaues Arbeiten und säubert die Fugen im Handumdrehen von festsitzenden Verschmutzungen und Unkraut. Für eine unkrautfreie Hofeinfahrt und Terrasse
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0142XPHAS/?tag=tolees0ca-21)
