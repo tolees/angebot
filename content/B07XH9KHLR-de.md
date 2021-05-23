@@ -28,12 +28,12 @@ Sie können [HUAWEI 55024316 WATCH GT 2  46 mm ](https://www.amazon.de/dp/B07XH9
 
 ℹ️:
 
+- „Finden my phone“-suchfunktion
+- Gps und GLONASS Positionsbestimmung, höhenbarometer zum Bergsteigen
+- Kontinuierliches herzfrequenz-monitoring, unterstützt ruheherzfrequenz, einzelherzfrequenz, andere Messfunktionen
 - Bluetooth-telefonie, Kontakte, gesprächsaufnahme
 - Lokale Musikwiedergabe auf der Uhr und vom verbundenen Smartphone
-- Gps und GLONASS Positionsbestimmung, höhenbarometer zum Bergsteigen
-- Trusleep, automatische schlaferkennung, datenstatistik, stresstest, Atemübungen
-- Kontinuierliches herzfrequenz-monitoring, unterstützt ruheherzfrequenz, einzelherzfrequenz, andere Messfunktionen
 - Monitoring der Sauerstoff Aufnahme, trainingsstatus, Trainingsbelastung, Datenanalyse der Regenerationszeit, professionelle trainingsanleitungen
-- „Finden my phone“-suchfunktion
+- Trusleep, automatische schlaferkennung, datenstatistik, stresstest, Atemübungen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XH9KHLR/?tag=tolees0ca-21)

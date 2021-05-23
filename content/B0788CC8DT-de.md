@@ -28,8 +28,8 @@ Es gibt ein [Tommy Hilfiger Damen Legging  Blau  Navy Blazer 416   Large  Herste
 
 ℹ️:
 
-- Material: 95% Baumwolle, 5% Elasthan
 - Pflegehinweise: Bügeln mit geringer Temperatur; Trommeltrockner normal; Trockenreinigung mit Perchlorethylen und Kohlenwasserstoffen; Spezialschonwaschgang 40 Grad; Nur Sauerstoffbleiche erlaubt
+- Material: 95% Baumwolle, 5% Elasthan
 - Teile tierischen Ursprungs: Nein
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0788CC8DT/?tag=tolees0ca-21)

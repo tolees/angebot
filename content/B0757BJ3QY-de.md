@@ -29,8 +29,8 @@ Sie können [Lezyne Minipumpe CNC Micro Floor Drive Digital HVG  Silber-glänzen
 ℹ️:
 
 - Mit Druckanzeige
-- ABS Flip Thread Chuck Ventilaufsatz
 - Material: Aluminium
+- ABS Flip Thread Chuck Ventilaufsatz
 - Maximaler Druck: 90psi/ 6, 2 Bar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0757BJ3QY/?tag=tolees0ca-21)

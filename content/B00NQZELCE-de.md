@@ -28,10 +28,10 @@ Es gibt ein [Original MANN-FILTER Innenraumfilter CU 24 009 – Für PKW](https:
 
 ℹ️:
 
-- Exakte Passform und perfekte Dichtheit sorgen für gleichbleibende Filtrationsleistung während des gesamten Serviceintervalls / Optimale Fahrzeuginnenraum-Belüftung durch sehr hohen Luftdurchsatz
 - Finden Sie den passenden Filter: Ersatzteil über die Auswahl von Marke, Modell, Fahrzeugtyp & Motorisierung im oberen Bereich oder auch über die Schlüsselnummern (HSN/TSN) aus den Fahrzeugpapieren
+- MANN-FILTER Innenraumfilter CU 24 009 / Maße: H = 28 ; A = 235 ; B = 214 / Premium-Filter in Erstausrüstungsqualität
+- Exakte Passform und perfekte Dichtheit sorgen für gleichbleibende Filtrationsleistung während des gesamten Serviceintervalls / Optimale Fahrzeuginnenraum-Belüftung durch sehr hohen Luftdurchsatz
 - Hochwertige MANN-FILTER Innenraumfilter bieten nahezu 100%igen Schutz vor Partikeln wie Pollen, Dieselruß & Reifenabrieb - für ein Wohlfühlklima im Fahrzeuginnenraum & Schutz der Klimaanlage
 - MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
-- MANN-FILTER Innenraumfilter CU 24 009 / Maße: H = 28 ; A = 235 ; B = 214 / Premium-Filter in Erstausrüstungsqualität
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NQZELCE/?tag=tolees0ca-21)

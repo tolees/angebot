@@ -28,9 +28,9 @@ Sie können [Reality Leuchten Stehleuchte Windu R40153001  Metall Nickel Matt  S
 
 ℹ️:
 
-- Die Leuchte hat eine max. Höhe von 175cm, ein Schirm hat einen Durchmesser von 15cm
-- Durch die Flexarme können die drei Schirme individuell ausgerichtet werden
-- Leuchte exklusive Leuchtmittel. Passendes Leuchtmittel 3xE27 max. 42 Watt
 - Stehleuchte Windu 3-flammig in Nickel matt mit Stoffschirmen in der Farbe Weiß
+- Die Leuchte hat eine max. Höhe von 175cm, ein Schirm hat einen Durchmesser von 15cm
+- Leuchte exklusive Leuchtmittel. Passendes Leuchtmittel 3xE27 max. 42 Watt
+- Durch die Flexarme können die drei Schirme individuell ausgerichtet werden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RB25KLJ/?tag=tolees0ca-21)
