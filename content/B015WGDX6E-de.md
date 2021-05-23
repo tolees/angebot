@@ -29,9 +29,9 @@ Es gibt ein [Bosch Professional 12V System Akku-Bohrschrauber GSR 12V-15  inkl. 
 ℹ️:
 
 - Starke Leistung: 2-Gang-Getriebe sorgt für kraftvolle 30 Nm beim Bohren und Schrauben
-- Kompakt: Mit nur 169 mm Kopflänge liefert der GSR 12V-15 eine optimale Handhabung, vor allem bei Bohr- und Schraubanwendungen über Kopf und an engen Stellen
 - Lieferumfang: GSR 12V-15, 2x 2.0Ah Akku, Ladegerät GAL 12V-20, 25 tlg. Schrauberbitset, 7 tlg. Holzbohrerset, 7 tlg. Metallbohrerset, Tasche
 - Hohe Sicherheit: Die Bosch Electronic Cell Protection (ECP) schützt den Akku vor Überlastung, Überhitzung und Tiefenentladung
+- Kompakt: Mit nur 169 mm Kopflänge liefert der GSR 12V-15 eine optimale Handhabung, vor allem bei Bohr- und Schraubanwendungen über Kopf und an engen Stellen
 - Professional 12V System: Kompakte Performance. Maximale Freiheit. Das Gerät ist mit allen Bosch Professional 12V und 10.8V Akkus und Ladegeräten kompatibel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B015WGDX6E/?tag=tolees0ca-21)
