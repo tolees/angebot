@@ -28,10 +28,10 @@ Es gibt ein [TP-Link TL-Smart WiFi-Glühbirne  KL50  E27  7 W  Warmweiß  UK Ver
 
 ℹ️:
 
-- Dimmbar Soft Warm White - Mit Dimmbereich von 1% bis 100%, stellen Sie die richtige Helligkeit für jede Stimmung oder Aktivität ein;
-- Szenen und Zeitpläne - Legen Sie Zeitpläne fest, um automatisch ein- und auszuschalten, wenn Sie zu Hause oder unterwegs sind. Kombinieren Sie Ihre Lichter mit anderen TP-Link Smart-Geräten in einer Szene und steuern Sie sie mit einem einzigen Knopf.
 - Kompatibilität – Funktioniert mit Amazon Alexa und Google Assistant für Sprachsteuerung und IFTTT;
-- Fernzugriff – Steuern Sie Ihre Lichter von überall mit Ihrem Tablet oder Smartphone mit der kostenlosen Kasa-App (Android 4.1 oder höher/iOS 8 oder höher);
 - Kein Hub erforderlich - Funktioniert mit jedem WLAN-Router ohne separate Hub oder kostenpflichtige Abonnement-Dienste;
+- Dimmbar Soft Warm White - Mit Dimmbereich von 1% bis 100%, stellen Sie die richtige Helligkeit für jede Stimmung oder Aktivität ein;
+- Fernzugriff – Steuern Sie Ihre Lichter von überall mit Ihrem Tablet oder Smartphone mit der kostenlosen Kasa-App (Android 4.1 oder höher/iOS 8 oder höher);
+- Szenen und Zeitpläne - Legen Sie Zeitpläne fest, um automatisch ein- und auszuschalten, wenn Sie zu Hause oder unterwegs sind. Kombinieren Sie Ihre Lichter mit anderen TP-Link Smart-Geräten in einer Szene und steuern Sie sie mit einem einzigen Knopf.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07S8XTVQT/?tag=tolees0ca-21)

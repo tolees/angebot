@@ -30,10 +30,10 @@ Es gibt ein [Logitech GROUP Videokonferenz-System  Bestehend aus Webcam  Freispr
 
 - Kompatibel: Zertifiziert und kompatibel mit gängigen Anwendungen wie Skype for Business, BlueJeans, Broadsoft, Fuze, Lifesize Cloud, Vidyo und Zoom
 - Hub: 94 mm x 34 mm x 74 mm; Gewicht: 83 g
-- Professionell: HD-Videoqualität in 1080p, 90°-Blickfeld mit mechanischer 260°-Schwenk- und 130°-Neigefunktion und ein verlustfreier 10-fach-HD-Zoom
+- Automatische Updates: Verbessern regelmäßig die Videokonferenzerfahrung mit Updates wie automatischer Echounterdrückung und Verstärkungsregelung
 - Full-Duplex-Freisprecheinrichtung: Ermöglicht eine 360°-Raumabdeckung mit vier omnidirektionalen Mikrofonen und einen Spracherfassungsradius von 6 m
 - Zusatzmikrofone erhältlich: Halten Sie Konferenzen mit bis zu 20 Teilnehmern in einem Raum ab und stellen Sie sicher, dass jeder Teilnehmer einwandfrei gehört werden kann
 - Praktische Dockingstation: LCD-Status-Bildschirm und taktile Tasten zum Stummschalten der Klangausgabe, Einstellen der Lautstärke, Bewegen der Kamera und mehr
-- Automatische Updates: Verbessern regelmäßig die Videokonferenzerfahrung mit Updates wie automatischer Echounterdrückung und Verstärkungsregelung
+- Professionell: HD-Videoqualität in 1080p, 90°-Blickfeld mit mechanischer 260°-Schwenk- und 130°-Neigefunktion und ein verlustfreier 10-fach-HD-Zoom
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BL9JAQ8/?tag=tolees0ca-21)
