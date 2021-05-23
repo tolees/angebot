@@ -28,10 +28,10 @@ Sie können [Fuba FMQ 908 Profi Sat-Multischalter 9/8 | 8 Teilnehmer  2 Satellit
 
 ℹ️:
 
+- rückkanaltauglich, dadurch können DVB-C Signale inklusive Internet Signalen eingespeist und verteilt werden
+- 8 Sat-Eingänge (8 SAT-ZF-Ebenen), ein terrestrischer Eingang, 8 Teilnehmer Ausgänge
 - vollständige SMD-Bestückung der Platinen und leistungsfähiges ecoline-Netzteil mit Stromsparkonzept sorgen für besonders hohe Betriebssicherheit
 - HDTV-, 4K- und 3D-kompatibel, DiSEqC-kompatibel
 - SAT und Terrestrik aktiv, hohe Entkopplung zwischen den Ein- und Ausgängen, hohe Ausgangspegel
-- 8 Sat-Eingänge (8 SAT-ZF-Ebenen), ein terrestrischer Eingang, 8 Teilnehmer Ausgänge
-- rückkanaltauglich, dadurch können DVB-C Signale inklusive Internet Signalen eingespeist und verteilt werden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B007QVGSWA/?tag=tolees0ca-21)

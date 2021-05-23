@@ -28,12 +28,12 @@ Es gibt ein [NBA 2K21 Standard Edition - [PlayStation 5]](https://www.amazon.de/
 
 ℹ️:
 
+- 9 Mein SPIELER-BOOSTS
+- Pre Order DLC (exklusiv bei Amazon.de): 1 Mein TEAM Promo Pack, 6 Mein SPIELER-BOOSTS, 3 Gatorade BOOSTS
+- ZION WILLIAMSON DIGITAL GOODS-BUNDLE
 - 5.000 VC + 5.000 Mein TEAM-PUNKTE
 - DIGITALE SCHUHKOLLEKTION
-- Pre Order DLC (exklusiv bei Amazon.de): 1 Mein TEAM Promo Pack, 6 Mein SPIELER-BOOSTS, 3 Gatorade BOOSTS
-- 9 Mein SPIELER-BOOSTS
-- 10 WÖCHENTLICHE PACK-DROPS
 - VORBESTELLER INHALTE:
-- ZION WILLIAMSON DIGITAL GOODS-BUNDLE
+- 10 WÖCHENTLICHE PACK-DROPS
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08D78SHTQ/?tag=tolees0ca-21)

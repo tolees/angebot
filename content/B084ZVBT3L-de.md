@@ -28,9 +28,9 @@ Sie können [Panama Jack Damen Julia Basics Keilsandale  Rostbraun  42 EU](https
 
 ℹ️:
 
-- HeelHeight:6,00 cm
 - Made in Spain
-- Principal Material: Nubuck, Sole Material: EVA Foam
+- HeelHeight:6,00 cm
 - Panama Jack Women, Teja / Tile Sandalen
+- Principal Material: Nubuck, Sole Material: EVA Foam
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084ZVBT3L/?tag=tolees0ca-21)
