@@ -28,10 +28,10 @@ Es gibt ein [Durable 241623 Rollkartei Telindex Flip Vegas  mit 500 Karteikarten
 
 ℹ️:
 
-- Mit 500 beidseitig bedruckten Karteikarten im Format 104 x 72 mm für Telefon- und Adresseinträge
 - Rotationskartei silber TELINDEX FLIP VEGAS, Maße: 215 x 120 x 185 mm (B x H x T)
-- Rotationskartei aus hochwertigem Kunststoff im zweifarbigen Design | schneller Zugriff durch Rollmechanismus
 - Inkl. 25-teiliges Register A–Z zur übersichtlichen Sortierung von Kontakten
+- Mit 500 beidseitig bedruckten Karteikarten im Format 104 x 72 mm für Telefon- und Adresseinträge
 - Leichtes Entnehmen und Einstecken der Karten
+- Rotationskartei aus hochwertigem Kunststoff im zweifarbigen Design | schneller Zugriff durch Rollmechanismus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000JTPFCA/?tag=tolees0ca-21)

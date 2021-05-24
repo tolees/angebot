@@ -28,10 +28,10 @@ Sie können [Sigma 24-35mm F2 0 DG HSM Art Objektiv  82mm Filtergewinde  für Ca
 
 ℹ️:
 
-- Lieferumfang:Objektiv, Frontdeckel, Rückdeckel, Gegenlichtblende LH876-03, Köcher, Bedienungsanleitung, Garantiekarte
-- Kategorie A-Art
-- Weitwinkel-Zoom-Objektiv mit einer Anfangslichtstärke von F2
 - Größter Abbildungsmaßstab 1:4,4
+- Lieferumfang:Objektiv, Frontdeckel, Rückdeckel, Gegenlichtblende LH876-03, Köcher, Bedienungsanleitung, Garantiekarte
 - Naheinstellgrenze: 28 cm
+- Weitwinkel-Zoom-Objektiv mit einer Anfangslichtstärke von F2
+- Kategorie A-Art
 
 [🛒 Hier!!](https://www.amazon.de/dp/B011QXQ5OY/?tag=tolees0ca-21)

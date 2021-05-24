@@ -28,9 +28,9 @@ Es gibt ein [Croll & Denecke Naturschwamm  Natur](https://www.amazon.de/dp/B006L
 
 ℹ️:
 
-- auch für empfindliche Hauttypen geeignet
-- wunderbar weich, ein luxuriöses Badeerlebnis
-- Größe ca. 14 cm
 - nachhaltiges reines Naturprodukt, zu 100% biologisch abbaubar
+- wunderbar weich, ein luxuriöses Badeerlebnis
+- auch für empfindliche Hauttypen geeignet
+- Größe ca. 14 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006LRA4NY/?tag=tolees0ca-21)

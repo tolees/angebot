@@ -28,8 +28,8 @@ Sie können [KNIPEX Greifzange  Nadelzange   160 mm  31 15 160](https://www.amaz
 
 ℹ️:
 
-- Präzisionszangen für feinste Montage-, Biege- und Justierarbeiten
 - Glatt geschliffene Greifflächen
+- Präzisionszangen für feinste Montage-, Biege- und Justierarbeiten
 - Mit besonders langen Backen: Backenlänge 55,0 mm
 - Kanten sorgfältig entgratet
 

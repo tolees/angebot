@@ -28,10 +28,10 @@ Es gibt ein [Twelve South BookArc für MacBook | Platzsparender vertikaler Tisch
 
 ℹ️:
 
-- Drei beilegende austauschbare Silikon-Einsätze schaffen den Sitz, von 11 bis 15 Zoll
-- Designed für MacBook 12, MacBook Pro 13 und 15 (2016er Modelle, mit / ohne Touch Bar), MacBook Air (2010 - aktuell), und MacBook Pro 13 und 15 mit Retina Display
-- Zum Benutzen mit externer Tastatur und Display
 - Weiche Fußpads schützen Arbeitsplatzoberfläche; Aussparung unter den Gummi-Füßen für Kabelführung
+- Zum Benutzen mit externer Tastatur und Display
+- Drei beilegende austauschbare Silikon-Einsätze schaffen den Sitz, von 11 bis 15 Zoll
 - Hält das MacBook platzsparend und schonend vertikal auf dem Schreibtisch.
+- Designed für MacBook 12, MacBook Pro 13 und 15 (2016er Modelle, mit / ohne Touch Bar), MacBook Air (2010 - aktuell), und MacBook Pro 13 und 15 mit Retina Display
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016EWLDTE/?tag=tolees0ca-21)
