@@ -28,10 +28,10 @@ Es gibt ein [Substral Celaflor Schädlingsfrei Careo Konzentrat für Zierpflanze
 
 ℹ️:
 
-- Bekämpft zuverlässig saugende und beißende Insekten wie Rüsselkäfer, Blattkäfer, Raupen, Minierer, Buchsbaumzünsler, Eichenprozessionsspinner, uvm
 - Hochwirksames vollsystemisches Mittel mit schneller und breiter Wirkung - nicht bienengefährlich
-- Bekämpft zuverlässig saugende Insekten wie Blattläuse, Thripse, Weiße Fliege, Zikaden, Wollläuse, Schmierläuse, Schildläuse, Wanzen, Spinnmilben
 - Insekten werden auch dann bekämpft, wenn sie beim Besprühen nicht getroffen werden
+- Bekämpft zuverlässig saugende Insekten wie Blattläuse, Thripse, Weiße Fliege, Zikaden, Wollläuse, Schmierläuse, Schildläuse, Wanzen, Spinnmilben
+- Bekämpft zuverlässig saugende und beißende Insekten wie Rüsselkäfer, Blattkäfer, Raupen, Minierer, Buchsbaumzünsler, Eichenprozessionsspinner, uvm
 - Die vollsystemische Wirkung ermöglicht eine Verbreitung des Wirkstoffes über den Saftstrom in der ganzen Pflanze.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B005K88GGM/?tag=tolees0ca-21)
