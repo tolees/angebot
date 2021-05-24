@@ -28,10 +28,10 @@ Sie können [TP-Link Tapo L510E smarte WLAN Glühbirne E27  dimmbar 8.7 W  kein 
 
 ℹ️:
 
+- Abläufe und Zeitpläne – Planen Sie bestimmte Zeiten zum Ein- oder Ausschalten Ihrer Glühbirnen
 - Lieferumfang - Tapo L510E, Schnellinstallationsanleitung
 - Abwesenheitsmodus – Lassen Sie Ihre Beleuchtung zu unterschiedlichen Zeiten automatisch an- und ausgehen, um die Anwesenheit einer Person zu simulieren
 - Dimmbares Licht – Wählen Sie mit individuell einstellbarer Helligkeit die Beleuchtung, die zur Situation passt
-- Abläufe und Zeitpläne – Planen Sie bestimmte Zeiten zum Ein- oder Ausschalten Ihrer Glühbirnen
 - Sprachsteuerung – Kompatibel mit Amazon Alexa oder Google Assistant
 - Fernzugriff – Steuern Sie Ihre Smarte Glühbirne bequem übers Smartphone mit Tapo App – überall und zu jeder Zeit
 
