@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42118 Technic Monster Jam Grave Dig mit 28.16 % Rabatt'
-date: 2021-05-20 08:18:04
+title: 'LEGO 42118 Technic Monster Jam Grave Dig mit 26.41 % Rabatt'
+date: 2021-05-24 20:24:38
 image: 'https://m.media-amazon.com/images/I/516C2Mxln0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: 'tole.es'
 slug: 'B08G4K8Y1F-de LEGO 42118 Technic Monster Jam Grave Digger Truck-...'
 sku: 'B08G4K8Y1F-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 14.36 EUR
+actualPrice: 14.71 EUR
 currency: EUR
-price: 14.36
+price: 14.71
 comparePrice: 19.99 EUR
 prodname: 'LEGO 42118 Technic Monster Jam Grave Digger Truck-Spielzeug oder Geländewagen Buggy  2-in-1 Bauset'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4K8Y1F/?tag=tolees0ca-21'
-descuento: '28.16'
-average: '19.1237404580152'
+descuento: '26.41'
+average: '19.090303030303'
 ---
 
-Sie können [LEGO 42118 Technic Monster Jam Grave Digger Truck-Spielzeug oder Geländewagen Buggy  2-in-1 Bauset](https://www.amazon.de/dp/B08G4K8Y1F/?tag=tolees0ca-21) mit Preis 14.36 EUR (original: 19.99 EUR) 28.16 % Rabatt hier:
+Sie können [LEGO 42118 Technic Monster Jam Grave Digger Truck-Spielzeug oder Geländewagen Buggy  2-in-1 Bauset](https://www.amazon.de/dp/B08G4K8Y1F/?tag=tolees0ca-21) mit Preis 14.71 EUR (original: 19.99 EUR) 26.41 % Rabatt hier:
 
 [![LEGO 42118 Technic Monster Jam Grave Dig](https://m.media-amazon.com/images/I/516C2Mxln0L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4K8Y1F/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Die biegsame Flagge und die roten Scheinwerfer zählen zu den coolen Details, die auch den echten Grave Digger Monstertruck auszeichnen
+- Der Monster Jam ist 11 cm hoch, mit Flagge 24 cm lang und 11 cm breit
 - Der LEGO Technic Monster Jam Grave Digger (42118) lässt Monstertruckfans ihre Lieblingsstunts nachstellen. Riesige Reifen und Aufkleber mit tollen Grafiken zählen zu authentischen Details
 - Doppelter Spaß. Der Spielzeug-Monstertruck lässt sich auch in einen Gelände-Buggy umbauen, um Kindern zwei Bauherausforderungen und jede Menge Actionspaß zu bieten
-- Der Monster Jam ist 11 cm hoch, mit Flagge 24 cm lang und 11 cm breit
+- Eine Bauanleitung für den Grave Digger liegt bei. Digitale Instructions PLUS gibt es in der kostenlosen LEGO Building Instructions App. Die Bauanleitung für den Gelände-Buggy ist online verfügbar
 - Ist das Set als tolles Geschenk für ein Kind gedacht, das Monstertrucks liebt? Dieses Set ist die ideale Wahl für Kinder ab 7 Jahren, die sich für Monster Jam Shows und megastarke Spielzeugflitzer begeistern
 - Der Rückziehmotor beschleunigt den Monstertruck und den Gelände-Buggy genau wie die echten Fahrzeuge
-- Eine Bauanleitung für den Grave Digger liegt bei. Digitale Instructions PLUS gibt es in der kostenlosen LEGO Building Instructions App. Die Bauanleitung für den Gelände-Buggy ist online verfügbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4K8Y1F/?tag=tolees0ca-21)
