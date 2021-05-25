@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions - Lego 76898 Speed  mit 25.01 % Rabatt'
-date: 2021-05-03 12:21:58
+title: 'LEGO Speed Champions - Lego 76898 Speed  mit 26.98 % Rabatt'
+date: 2021-05-25 08:27:10
 image: 'https://m.media-amazon.com/images/I/5139RVTFC5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: 'tole.es'
 slug: 'B07W5PXDYZ-de LEGO Speed Champions - Lego 76898 Speed Champions Formula...'
 sku: 'B07W5PXDYZ-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego speed champions', ]
-actualPrice: 29.99 EUR
+actualPrice: 29.2 EUR
 currency: EUR
-price: 29.99
+price: 29.2
 comparePrice: 39.99 EUR
 prodname: 'LEGO Speed Champions - Lego 76898 Speed Champions Formula E Panasonic Jaguar Racing GEN2 car & Jaguar I-PACE eTROPHY  Rennwagen-Set'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO Speed Champions'
 buyurl: 'https://www.amazon.de/dp/B07W5PXDYZ/?tag=tolees0ca-21'
-descuento: '25.01'
-average: '32.6332173913043'
+descuento: '26.98'
+average: '32.6232947976878'
 ---
 
-Sie können [LEGO Speed Champions - Lego 76898 Speed Champions Formula E Panasonic Jaguar Racing GEN2 car & Jaguar I-PACE eTROPHY  Rennwagen-Set](https://www.amazon.de/dp/B07W5PXDYZ/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 39.99 EUR) 25.01 % Rabatt hier:
+Sie können [LEGO Speed Champions - Lego 76898 Speed Champions Formula E Panasonic Jaguar Racing GEN2 car & Jaguar I-PACE eTROPHY  Rennwagen-Set](https://www.amazon.de/dp/B07W5PXDYZ/?tag=tolees0ca-21) mit Preis 29.2 EUR (original: 39.99 EUR) 26.98 % Rabatt hier:
 
 [![LEGO Speed Champions - Lego 76898 Speed ](https://m.media-amazon.com/images/I/5139RVTFC5L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W5PXDYZ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Das Set „Formula E Panasonic Jaguar Racing Gen2 Car & Jaguar I-PACE eTROPHY“ enthält 2 LEGO Baumodelle, 2 Minifiguren in Rennanzügen sowie eine Startlinie mit drei Ampeln für spannende Renn-Action.
 - Für dieses Spielset werden keine Batterien benötigt. Als Antrieb reicht die Fantasie der Kinder. Boxenstopps sind folglich überflüssig!
-- Dieses 565-teilige Bauset stellt Jungen und Mädchen ab 8 Jahren vor eine spannenden Bauaufgabe. Mit den fertigen Jaguar-Rennwagen können die Kinder wunderbar allein oder zusammen mit Freunden spielen.
-- Beide Spielzeug-Rennwagen sind kompakt genug, um auch überall mitgenommen zu werden. Das Jaguar I-PACE eTROPHY Car ist 6 cm hoch, 16 cm lang und 6 cm breit.
-- Fantastisches Bauset mit originalgetreuen Nachbildungen der beiden Jaguar-Elektrorennwagen aus den Rennserien Formula E und I-PACE eTROPHY. Ein perfektes LEGO Geschenk für alle, die gerne Spielzeugautos bauen und spannende Geschichten zu diesen Modellen erfinden.
-- Diesem Modellauto-Bausatz liegen einfache Bauanleitungen bei, damit auch ungeübte LEGO Baumeister die Autos sofort mit den Steinen bauen können.
 - Ab Januar 2020 sind die neuen LEGO Speed Champions Autos um 25 Prozent größer als zuvor. Diese Jaguar-Modelle sind tolle Schaustücke und Spielzeug-Rennwagen, um Meisterschaften im eigenen Zimmer auszutragen.
+- Dieses 565-teilige Bauset stellt Jungen und Mädchen ab 8 Jahren vor eine spannenden Bauaufgabe. Mit den fertigen Jaguar-Rennwagen können die Kinder wunderbar allein oder zusammen mit Freunden spielen.
+- Diesem Modellauto-Bausatz liegen einfache Bauanleitungen bei, damit auch ungeübte LEGO Baumeister die Autos sofort mit den Steinen bauen können.
+- Das Set „Formula E Panasonic Jaguar Racing Gen2 Car & Jaguar I-PACE eTROPHY“ enthält 2 LEGO Baumodelle, 2 Minifiguren in Rennanzügen sowie eine Startlinie mit drei Ampeln für spannende Renn-Action.
+- Fantastisches Bauset mit originalgetreuen Nachbildungen der beiden Jaguar-Elektrorennwagen aus den Rennserien Formula E und I-PACE eTROPHY. Ein perfektes LEGO Geschenk für alle, die gerne Spielzeugautos bauen und spannende Geschichten zu diesen Modellen erfinden.
+- Beide Spielzeug-Rennwagen sind kompakt genug, um auch überall mitgenommen zu werden. Das Jaguar I-PACE eTROPHY Car ist 6 cm hoch, 16 cm lang und 6 cm breit.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W5PXDYZ/?tag=tolees0ca-21)
