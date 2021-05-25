@@ -29,8 +29,8 @@ Es gibt ein [Reef Herren J-Bay Iii Flipflop  Dark Brown/Dark Brown  45 EU](https
 ℹ️:
 
 - Responsibly sourced waterproof leather strap
-- ISA L.I.T.E Leather
-- Water proof leather footbed
 - Non Marking rubber Outsole from 25% recycled rubber
+- Water proof leather footbed
+- ISA L.I.T.E Leather
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07CZB2LGX/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [Hama Funk-Wandschalter für Hama-Funksteckdosen  10 m Reichweite  2
 
 ℹ️:
 
-- 2 programmierbare Kanäle für 2 einzelne Funk-Empfänger oder 2 Funk-Empfängergruppen
 - Bequem erreichbar, weil direkt neben der Couch oder der Tür platzierbar, für Aufputzmontage
+- 2 programmierbare Kanäle für 2 einzelne Funk-Empfänger oder 2 Funk-Empfängergruppen
 - Kompatibel mit allen selbstlernenden Hama Funksteckdosen (nicht im Lieferumfang), z.B. als Erweiterung zum Hama-Funksteckdosen-Set
 - Wandfunkschalter für bis zu 2 Hama Funksteckdosen, zum Schalten von Licht etc., ohne neue Kabel verlegen zu müssen
 - Lieferumfang: 1 Funk-Wandschalter, 1 Batterie 12V/23A, Montagematerial

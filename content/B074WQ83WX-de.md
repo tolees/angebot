@@ -29,9 +29,9 @@ Sie können [Steinel LED Außenleuchte L 244 LED Edelstahl  7.5 W  180° Bewegun
 ℹ️:
 
 - Dämmerungswert (2 - 2000 Lux) und Zeiteinstellung (8 Sek. – 35 Min.) lassen sich stufenlos an der Unterseite des Sensors justieren
-- Der Infrarot-Bewegungsmelder der Außenlampe mit einem 180° Erfassungswinkel und max. 10 m Reichweite lässt sich vertikal um 90° schwenken
-- Ideale Außenbeleuchtung für Hauswand, Eingang, Einfahrt und Terasse, inkl. Abdeckblenden (zum Einschränken des Erfassungsbereichs) und Montagezubehör
 - Die schlagfeste LED Wandleuchte für außen setzt mit seiner Edelstahlblende und Ambientelicht für stilvolle Akzente an jeder Hauswand
+- Ideale Außenbeleuchtung für Hauswand, Eingang, Einfahrt und Terasse, inkl. Abdeckblenden (zum Einschränken des Erfassungsbereichs) und Montagezubehör
+- Der Infrarot-Bewegungsmelder der Außenlampe mit einem 180° Erfassungswinkel und max. 10 m Reichweite lässt sich vertikal um 90° schwenken
 - Bei nur 7,5 W Verbrauch erzeugt das eingebaute LED-Lichtsystem eine Helligkeit von 500 lm und das bei einer LED-Lebensdauer von bis zu 30 Jahren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B074WQ83WX/?tag=tolees0ca-21)
