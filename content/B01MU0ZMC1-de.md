@@ -29,8 +29,8 @@ Sie können [find. Culottes Damen mit kurzem und weitem Bein  Sporthosen-Design 
 ℹ️:
 
 - Lockere Passform
-- Schnüre und elastischer Bund
 - Weites Bein
+- Schnüre und elastischer Bund
 - Verkürzt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MU0ZMC1/?tag=tolees0ca-21)

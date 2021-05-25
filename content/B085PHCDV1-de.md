@@ -29,8 +29,8 @@ Sie können [Funko 50656 POP&Buddy Holiday DC Comics Holidays S1 Harley Quinn w/
 ℹ️:
 
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
+- Von DC Holiday Harley Quinn w/Helper zur stilisierten POP-Vinyl Figur von Funko!
 - Schauen Sie sich jetzt die anderen DC Holiday-Figuren von Funko an! Sammeln Sie alle!
 - Funko POP! ist das Spielzeug des Jahres 2018
-- Von DC Holiday Harley Quinn w/Helper zur stilisierten POP-Vinyl Figur von Funko!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085PHCDV1/?tag=tolees0ca-21)

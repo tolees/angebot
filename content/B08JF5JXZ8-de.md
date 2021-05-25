@@ -28,9 +28,9 @@ Es gibt ein [Square Enix - BALAN WONDERWORLD  Playstation 5 ](https://www.amazon
 
 ℹ️:
 
-- Zwölf verschiedene Geschichten erwarten unsere Stars in dieser Wunderwelt und jede hat ihre ganz eigenen Merkmale
-- Zwei legendäre Schöpfer kommen erneut zusammen! Zum ersten Mal seit 20 Jahren arbeiten Naka Yuji und Oshima Naoto im Team der BALAN COMPANY zusammen
 - Mehr als 80 verschiedene Kostüme sorgen für all die Action, die du dir nur vorstellen kannst
+- Zwei legendäre Schöpfer kommen erneut zusammen! Zum ersten Mal seit 20 Jahren arbeiten Naka Yuji und Oshima Naoto im Team der BALAN COMPANY zusammen
+- Zwölf verschiedene Geschichten erwarten unsere Stars in dieser Wunderwelt und jede hat ihre ganz eigenen Merkmale
 - BALAN WONDERWORLD ist ein wundersames, actionreiches Plattformspiel rund um Motive des Balan-Theaters
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08JF5JXZ8/?tag=tolees0ca-21)
