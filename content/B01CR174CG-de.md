@@ -28,10 +28,10 @@ Es gibt ein [Rockstar Energy Drink Original - Koffeinhaltiges Erfrischungsgeträ
 
 ℹ️:
 
-- Rockstar Klassiker: Der originale Energy Geschmack des Softdrinks sorgt für einen erfrischenden Energie Kick / Am besten eiskalt genießen
-- In dem Energy Drink von Rockstar steckt das Lebensgefühl aller, die es extrem lieben - immer genug Energie haben, um das Leben zu nehmen wie es kommt und nichts verpassen zu müssen
-- Party, Festival oder Sportveranstaltung: Der geschmacksreiche Power Boost darf nicht fehlen / Das perfekte Getränk für lange Nächte & energiegeladene Tage - für alle, die auf nichts verzichten möchten
 - Lieferumfang: 12 x 0,5l Rockstar Energy Drink in der Geschmacksrichtung Original / Mit Taurin, Koffein, Ginseng-Aromaextrakt und Guarana-Extrakt / Mit Kohlensäure, ohne Alkohol
+- Party, Festival oder Sportveranstaltung: Der geschmacksreiche Power Boost darf nicht fehlen / Das perfekte Getränk für lange Nächte & energiegeladene Tage - für alle, die auf nichts verzichten möchten
+- In dem Energy Drink von Rockstar steckt das Lebensgefühl aller, die es extrem lieben - immer genug Energie haben, um das Leben zu nehmen wie es kommt und nichts verpassen zu müssen
+- Rockstar Klassiker: Der originale Energy Geschmack des Softdrinks sorgt für einen erfrischenden Energie Kick / Am besten eiskalt genießen
 - Wachmacher to go: Der koffeinhaltige Softdrink von Rockstar eignet sich zum Trinken zuhause, kann aber durch seine leichte Dose auch bequem unterwegs verzehrt werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01CR174CG/?tag=tolees0ca-21)

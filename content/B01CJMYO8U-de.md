@@ -30,8 +30,8 @@ Es gibt ein [kk Kinderkraft - Kinderkraft Kinderautositz COMFORT UP  Autokinders
 
 - ✅BEQUEM: Der Kindersitz passt sogar in ein kleines Auto. Er hat einen weichen, tiefen Sitz in der Größe: Höhe: 66-74 cm, Breite: 42 cm, Tiefe: 37 cm. Daher wird auch eine lange Reise für Ihr Kind komfortabel sein
 - ✅VIELSEITIG: Ein Kindersitz für Kinder mit einem Gewicht von 9-36 kg (ECE: I/II/III), für Kinder mit einer maximalen Größe von 150 cm. Er wird in Fahrtrichtung angebracht. Er entspricht dem europäischen Sicherheitsstandard ECE R44/04, und seine Sicherheit wurde im TASS INTERNATIONAL Institut bestätigt
-- ✅SICHER: Eine einfache Montage mit dem Autogurt; der Kindersitz hat einen internen, auf 2 Höhen angebrachten 5-Punkt-Sciherheitsgurt mit weichen Polstern und einem Schrittpolster. Der Gurtverschluss ist sicher und wurde von der renommierten, italienischen Marke Sabelt hergestellt
 - ✅PRAKTISCH: Er hat eine weiche und bequeme Einlage für die Jüngsten (ab 9 kg), so dass Sie den Sitz noch einfacher an Ihr Kind anpassen können. Er hat zudem einen abnehmbaren Bezug, der leicht gewaschen werden kann
+- ✅SICHER: Eine einfache Montage mit dem Autogurt; der Kindersitz hat einen internen, auf 2 Höhen angebrachten 5-Punkt-Sciherheitsgurt mit weichen Polstern und einem Schrittpolster. Der Gurtverschluss ist sicher und wurde von der renommierten, italienischen Marke Sabelt hergestellt
 - ✅ERGONOMISCH: Der Kindersitz hat einen zusätzlichen Seitenschutz, der die Aufprallenergie absorbiert – er schützt den Kopf und die Schultern. Die Kopfstütze hat eine 7-stufige Regulation. Der Neigungswinkel des Kinderwitzes kann verstellt und an den Autositz angepasst werden. Der Sitz hat eine zusätzliche Verstärkung im Lendenbereich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01CJMYO8U/?tag=tolees0ca-21)

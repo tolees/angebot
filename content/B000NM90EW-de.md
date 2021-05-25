@@ -28,10 +28,10 @@ Es gibt ein [LINEX 100411018 Roll-Lineal 30 cm lang 180 Grad Winkelmesser  Einte
 
 ℹ️:
 
-- In das Roll-Lineal ist eine Walze integriert, welche die Möglichkeit bietet, das Werkzeug parallel zu verschieben ohne zu verrutschen
-- Universelles Zeichenwerkzeug für parallele Linien, Schraffierungen, Kreise etc., mit 180 Grad Winkelmesser
-- Lineal-Länge: 30 cm
-- Einteilung in mm und Zoll, enthält verschiedene Umrechnungsformeln und -Zahlen
 - Aus transparentem Polystyrol (Kunststoff)
+- Lineal-Länge: 30 cm
+- In das Roll-Lineal ist eine Walze integriert, welche die Möglichkeit bietet, das Werkzeug parallel zu verschieben ohne zu verrutschen
+- Einteilung in mm und Zoll, enthält verschiedene Umrechnungsformeln und -Zahlen
+- Universelles Zeichenwerkzeug für parallele Linien, Schraffierungen, Kreise etc., mit 180 Grad Winkelmesser
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000NM90EW/?tag=tolees0ca-21)

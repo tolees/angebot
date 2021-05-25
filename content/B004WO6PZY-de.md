@@ -28,9 +28,9 @@ Es gibt ein [Bosch Home and Garden - Bosch 2609255712 DIY Wasserpumpe 1/2 Zoll  
 
 ℹ️:
 
-- Förderleistung 1500, 2000 oder 2500 l/h Nicht mit brennbaren Flüssigkeiten verwenden Nicht ohne Fehlstrom(FI)-Schutzschalter verwenden
+- Wasserpumpenhalter zur Fixierung von Bohrmaschine und Wasserpumpe z. B. auf einer Tischplatte.
 - Universalpumpen für Bohrmaschinen mit einem schlagfesten Kunststoffgehäuse
 - Die selbstansaugenden und selbstkühlenden Wasserpumpen werden einfach mit dem Bohrfutter an einer Bohrmaschine befestigt und durch diese angetrieben.
-- Wasserpumpenhalter zur Fixierung von Bohrmaschine und Wasserpumpe z. B. auf einer Tischplatte.
+- Förderleistung 1500, 2000 oder 2500 l/h Nicht mit brennbaren Flüssigkeiten verwenden Nicht ohne Fehlstrom(FI)-Schutzschalter verwenden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004WO6PZY/?tag=tolees0ca-21)

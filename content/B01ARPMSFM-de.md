@@ -28,8 +28,8 @@ Sie können [Sony - Beyond Two Souls + Heavy Rain PS4 [](https://www.amazon.de/d
 
 ℹ️:
 
-- pielen Sie das bewegte Leben von jodie holmes (gespielt von ellen page), einem Mädchen, das übernatürliche Kräfte durch ihre Verbindung zu einer unsichtbaren macht besitzt
-- jede noch so Kleine Entscheidung kann alles verändern
 - Swie sich diese Geschichten verzweigen und Enden, hängt ganz von den Entscheidungen ab, die Sie treffen, und von den Aktionen, die Sie ausführen
+- jede noch so Kleine Entscheidung kann alles verändern
+- pielen Sie das bewegte Leben von jodie holmes (gespielt von ellen page), einem Mädchen, das übernatürliche Kräfte durch ihre Verbindung zu einer unsichtbaren macht besitzt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01ARPMSFM/?tag=tolees0ca-21)

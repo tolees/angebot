@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon - Fire 7 Kids-Tablet | Ab dem Vor mit 30.00 % Rabatt'
-date: 2021-05-23 07:17:03
+date: 2021-05-25 06:24:58
 image: 'https://m.media-amazon.com/images/I/31GINA7wGpS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Amazon'
 buyurl: 'https://www.amazon.de/dp/B07H8RV3K7/?tag=tolees0ca-21'
 descuento: '30.00'
-average: '65.5916666666667'
+average: '66.22'
 ---
 
 Sie können [Amazon - Fire 7 Kids-Tablet | Ab dem Vorschulalter | 7-Zoll-Display  16 GB  blaue kindgerechte Hülle](https://www.amazon.de/dp/B07H8RV3K7/?tag=tolees0ca-21) mit Preis 69.99 EUR (original: 99.99 EUR) 30.00 % Rabatt hier:

@@ -28,9 +28,9 @@ Sie können [Buffalo Technology Deutschland - Buffalo LinkStation LS220 2-Bay-De
 
 ℹ️:
 
+- NAS mit zwei Einschüben, erhältlich als plattenloses Gehäuse oder voll bestückt mit 2, 4, 6 oder 8 TB Kapazität
 - Lesegeschwindigkeit bis zu 100 MB / s, Schreibgeschwindigkeit bis zu 50 MB / s
 - Hochleistungs-Dual-Issue-CPU: Marvell Armada 370, 800 MHz, 256 MB DDR3 Ram
 - Neue einfach zu bedienende, für Mobilgeräte optimierte Schnittstelle erleichtert die Einrichtung mit Smartphones
-- NAS mit zwei Einschüben, erhältlich als plattenloses Gehäuse oder voll bestückt mit 2, 4, 6 oder 8 TB Kapazität
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00ISM5ERG/?tag=tolees0ca-21)
