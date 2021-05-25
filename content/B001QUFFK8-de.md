@@ -28,9 +28,9 @@ Es gibt ein [Fischer & Honsel - Honsel Leuchten 22153 Deckenleuchte rostfarbig a
 
 ℹ️:
 
-- geeignet für 15 Watt ESL
-- Glas alabasterfarbig weiß
-- H 19cm Ø 44cm
 - Deckenleuchte "Como"
+- H 19cm Ø 44cm
+- Glas alabasterfarbig weiß
+- geeignet für 15 Watt ESL
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001QUFFK8/?tag=tolees0ca-21)
