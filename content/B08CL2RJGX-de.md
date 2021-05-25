@@ -28,8 +28,8 @@ Es gibt ein [HUAWEI Sound X Lautsprecher  Devialet Dual Woofers  drahtloser Blue
 
 ℹ️:
 
-- Sechs 1,5 Zoll (3,81 cm) Vollfrequenz-Lautsprecher (30 W) ermöglichen 360 Grad Raumklang
 - Hoher Frequenzbereich: 40 Hz bis 40 kHz
+- Sechs 1,5 Zoll (3,81 cm) Vollfrequenz-Lautsprecher (30 W) ermöglichen 360 Grad Raumklang
 - Zwei 3,5 Zoll (8,89 cm) Devialet Dual-Woofer (60 W) mit SAM-Technologie
 - Eindrucksvolles Sounderlebins dank Push-Push Woofer-Konfiguration
 - Einfache Übertragung mit HUAWEI Share
