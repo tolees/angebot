@@ -28,10 +28,10 @@ Es gibt ein [tesa moll D-Profil Gummi Fenster und Türdichtung weiss 6m](https:/
 
 ℹ️:
 
-- Haltbarkeit: 8 Jahre
-- Versiegelt alle Räume von 3 bis 7 mm
-- Wetterfest, UV- und Ozonbeständig
 - Sparen Sie bis zu 40% der Energiekosten
 - Selbstklebendes und haltbares Gummiprofil
+- Versiegelt alle Räume von 3 bis 7 mm
+- Haltbarkeit: 8 Jahre
+- Wetterfest, UV- und Ozonbeständig
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0024NKDFS/?tag=tolees0ca-21)
