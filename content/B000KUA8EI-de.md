@@ -28,10 +28,10 @@ Es gibt ein [Behringer C-3 Studio Kondensator Mikrofon](https://www.amazon.de/dp
 
 ℹ️:
 
-- Ideal für akustische Instrumente oder Overhead Anwendungen
 - Professionelles Doppelmembran Studio Kondensatormikrofon
-- Ideal als Haupt- oder Supportmikrofon für Studio- und Live-Anwendungen
 - Drehbarer Mikrofonständeradapter und Plastiktransportkoffer inklusive
 - Drei wählbare Richtcharakteristiken (Kugel, Niere, Acht)
+- Ideal als Haupt- oder Supportmikrofon für Studio- und Live-Anwendungen
+- Ideal für akustische Instrumente oder Overhead Anwendungen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KUA8EI/?tag=tolees0ca-21)
