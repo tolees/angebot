@@ -28,10 +28,10 @@ Sie können [FeiyuTech G6-Plus 3-Achs Stabilisator Handgimbal  Zubehör inklusiv
 
 ℹ️:
 
-- Das Fitnessstudio ist spritzwassergeschützt, sodass Sie Fotos und Videos mit voller Freiheit aufnehmen können.
 - Neue APP zur Steuerung aller Funktionen des Stabilisators, Kalibrierung, Aktualisierung der Firmware oder zum Lieferumfang des Fitnessstudios über Ihr Smartphone.
-- [Integrierte OLED-Display] Ein innovatives OLED-Display zeigt die Spezifikationen des Fitnessstudios und der Kamera, die Arbeitsmodi, die Akku-Lebensdauer, die Bluetooth-Verbindung usw. an.
+- Das Fitnessstudio ist spritzwassergeschützt, sodass Sie Fotos und Videos mit voller Freiheit aufnehmen können.
 - Ausgestattet mit einer leistungsstarken Batterie, kann die Betriebszeit bis zu 12 Stunden betragen.
+- [Integrierte OLED-Display] Ein innovatives OLED-Display zeigt die Spezifikationen des Fitnessstudios und der Kamera, die Arbeitsmodi, die Akku-Lebensdauer, die Bluetooth-Verbindung usw. an.
 - Das Gym G6 ist kompatibel mit GoPro HERO 6 / HERO 5 / YI etc. und anderen Action-Kameras mit ähnlicher Größe und Form.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FQVK53W/?tag=tolees0ca-21)

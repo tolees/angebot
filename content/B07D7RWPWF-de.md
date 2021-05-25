@@ -30,7 +30,7 @@ Sie können [Amazon Basics - Verbindungskabel  USB Typ C auf USB Typ C  USB-3.1-
 
 - Das Kabel ist umkehrbar, weshalb der USB-Typ-C-Stecker in jedes USB-Typ-C-fähige Gerät eingesteckt werden kann (unabhängig davon, welche Seite nach oben zeigt); Datenübertragungsgeschwindigkeit: bis zu 5 Gbit/s; Ausgangsleistung: bis zu 5 V, 3 A
 - Das Kabel ist perfekt für den Betrieb/das Aufladen von USB-Typ-C-Geräten und zur Synchronisation von Fotos und Musik geeignet; ein USB-Typ-C-Anschluss ist halb so breit und nur ein Drittel so hoch wie ein Standard-USB-Typ-A-Stecker (geringfügig größer als ein Lightning-/Micro-USB-Anschluss).
-- Das Kabel ist USB-IF-zertifiziert für den USB-3.1-Standard der 1. Generation; abwärtskompatibel mit USB 3.0 und USB 2.0;
 - Zum Verbinden von USB-Typ-C-Geräten (MacBook, Chromebook Pixel, Samsung Galaxy Note 7, etc.) mit einem USB-3.1- oder USB-3.0-Typ-C (Smartphones, Kfz-/Wand-Ladegeräten, Adaptern mit mehreren Anschlüssen, etc.)
+- Das Kabel ist USB-IF-zertifiziert für den USB-3.1-Standard der 1. Generation; abwärtskompatibel mit USB 3.0 und USB 2.0;
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07D7RWPWF/?tag=tolees0ca-21)

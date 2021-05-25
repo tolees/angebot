@@ -28,10 +28,10 @@ Es gibt ein [Sangean DAB+ Kofferradio DPR-76 UKW wiederaufladbar Weiß  Stein](h
 
 ℹ️:
 
-- Ladefunktion mit LED-Anzeige
-- Automatische Sendersuche
 - DAB+ und UKW
 - Leicht lesbares LCD mit Hintergrundbeleuchtung
 - 40 station Speicherplatze (20 DAB+. 20 UKW)
+- Automatische Sendersuche
+- Ladefunktion mit LED-Anzeige
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KCMRLM2/?tag=tolees0ca-21)

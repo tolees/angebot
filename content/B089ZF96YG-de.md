@@ -28,8 +28,8 @@ Es gibt ein [Electronic Arts - STAR WARS SQUADRONS  VR-fähig  - [Playstation 4]
 
 ℹ️:
 
+- Planen Sie zusammen mit Ihrer Staffel im Besprechungsraum Gefechte, bevor Sie sich auf die sich stetig im Wandel befindlichen Schlachtfelder der Galaxis stürzen
 - Nutzen Sie das Armaturenbrett Ihres Schiffs zu Ihrem Vorteil und fühlen Sie die Hitze des Gefechts aus der First Person-Perspektive
 - Übernehmen Sie die Kontrolle über verschiedene Sternenjägerklassen der Flotten der Neuen Republik und des Imperiums
-- Planen Sie zusammen mit Ihrer Staffel im Besprechungsraum Gefechte, bevor Sie sich auf die sich stetig im Wandel befindlichen Schlachtfelder der Galaxis stürzen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B089ZF96YG/?tag=tolees0ca-21)
