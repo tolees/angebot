@@ -29,8 +29,8 @@ Es gibt ein [O de Oliva Extra Virgen Olive Oil Picual  Natives Olivenöl von der
 ℹ️:
 
 - Es hat eine starke Persönlichkeit und weisst spezifische geschmackliche Einzelmarkmale auf, die es leicht von anderen Sorten Olivenölen unterscheidbar macht.
+- Auch besonders schmackhaft auf einer Scheibe getoastetem Brot, statt Butter oder Margarine.
 - Es ist ein fruchtiges, duftendes Öl mit positiven bitteren und pfeffrigen Atrributen.
 - Ein erstklassiges, natives Extra kaltgepresstes Olivenöl aus der ersten Pressung - ein kulinarisches Highlight, rein aus köstlichen Picual Oliven gewonnen.
-- Auch besonders schmackhaft auf einer Scheibe getoastetem Brot, statt Butter oder Margarine.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002RQQ0MW/?tag=tolees0ca-21)
