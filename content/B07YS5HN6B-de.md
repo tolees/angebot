@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '40.54 % rabat auf AVIWIS USB Typ C Kabel [4Pack 0.5M 1M 2M'
-date: 2021-05-23 07:10:09
+title: '30.03 % rabat auf AVIWIS USB Typ C Kabel [4Pack 0.5M 1M 2M'
+date: 2021-05-26 11:45:46
 image: 'https://m.media-amazon.com/images/I/41HksvTfZ6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07YS5HN6B-de AVIWIS USB Typ C Kabel [4Pack 0.5M 1M 2M 3M] 3A USB C...'
 sku: 'B07YS5HN6B-de'
 tags: [ 'Computer & Zubehör','Kabel','Kabel & Zubehör','USB-Kabel','Zubehör','aviwis', ]
-actualPrice: 5.94 EUR
+actualPrice: 6.99 EUR
 currency: EUR
-price: 5.94
+price: 6.99
 comparePrice: 9.99 EUR
 prodname: 'AVIWIS USB Typ C Kabel [4Pack 0.5M 1M 2M 3M] 3A USB C Ladekabel und Datenkabel Fast Charge Sync Schnellladekabel Kompatibel für Samsung Galaxy S10/ S9/ S8  Huawei P20/ Mate20 OnePlus  Google -Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'AVIWIS'
 buyurl: 'https://www.amazon.de/dp/B07YS5HN6B/?tag=tolees0ca-21'
-descuento: '40.54'
-average: '6.38875'
+descuento: '30.03'
+average: '6.45555555555556'
 ---
 
-Es gibt ein [AVIWIS USB Typ C Kabel [4Pack 0.5M 1M 2M 3M] 3A USB C Ladekabel und Datenkabel Fast Charge Sync Schnellladekabel Kompatibel für Samsung Galaxy S10/ S9/ S8  Huawei P20/ Mate20 OnePlus  Google -Schwarz](https://www.amazon.de/dp/B07YS5HN6B/?tag=tolees0ca-21) mit aktuellem Preis 5.94 EUR (original: 9.99 EUR) 40.54 % Rabatt hier:
+Es gibt ein [AVIWIS USB Typ C Kabel [4Pack 0.5M 1M 2M 3M] 3A USB C Ladekabel und Datenkabel Fast Charge Sync Schnellladekabel Kompatibel für Samsung Galaxy S10/ S9/ S8  Huawei P20/ Mate20 OnePlus  Google -Schwarz](https://www.amazon.de/dp/B07YS5HN6B/?tag=tolees0ca-21) mit aktuellem Preis 6.99 EUR (original: 9.99 EUR) 30.03 % Rabatt hier:
 
 [![AVIWIS USB Typ C Kabel [4Pack 0.5M 1M 2M](https://m.media-amazon.com/images/I/41HksvTfZ6L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07YS5HN6B/?tag=tolees0ca-21)
 
