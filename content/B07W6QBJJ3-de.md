@@ -31,7 +31,7 @@ Sie können [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/
 - Das Spielset umfasst eine Tankstelle mit Laden, Octan E-Ladestation und Zapfsäule sowie einen SUV und ein Wohnmobil mit Surfbrettern
 - Kinder können an dieser Spielzeug-Tankstelle mit Solarzellen Fahrzeuge mit Benzin und Octan E tanken und Snacks servieren
 - Die Ladestation für Autospielzeug und die Benzinpumpe verfügen über flexible Schläuche für die Verbindung mit den Fahrzeugen, und der SUV und der Camper haben abnehmbare Dächer
-- Das Spielset enthält 4 Minifiguren: einen Tankstellenangestellten, einen Fahrer und 2 Surfer-Minifiguren sowie eine Chihuahua-Hundefigur
 - Die digitale Anleitung Instructions Plus über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
+- Das Spielset enthält 4 Minifiguren: einen Tankstellenangestellten, einen Fahrer und 2 Surfer-Minifiguren sowie eine Chihuahua-Hundefigur
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W6QBJJ3/?tag=tolees0ca-21)
