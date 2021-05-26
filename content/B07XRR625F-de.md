@@ -28,10 +28,10 @@ Sie können [Krups Dolce Gusto - Krups Nescafé Dolce Gusto Infinissima KP173B K
 
 ℹ️:
 
-- Schnell: Dank unseres Aluminium-Thermoblocks können Sie schnell und ohne lange Wartezeiten unsere leckeren Nescafé Dolce Gusto Heißgetränke einfach und praktisch sofort genießen
 - Einfach: Die Infinissima ist dank des magnetischen Kapselhalters nicht nur komfortabel in der Bedienung, sondern durch die spülmaschinengeeignete und höhenverstellbare Abtropfschale auch besonders einfach und schnell zu reinigen
-- Individuell: Mit Hilfe des Wahlhebels können Sie Ihr persönliches Lieblingsgetränk mit bis zu 15 bar Pumpendruck zubereiten; das Gerät schaltet sich 5 Minuten nach der Benutzung von allein ab
-- Kompakt: Die Kaffeekapselmaschine passt mit ihrer kompakten Größe besonders gut in kleine Küchen/Büros/Räume, ohne auf Leistung und Kaffeegenuss verzichten zu müssen; der extra große und leicht befüllbare Wassertrank garantiert langen Kaffeegenuss
 - Vielfältig: Genießen Sie dank unseres intelligenten Nescafé Dolce Gusto Kapselsystems eine große Vielfalt an heißen und kalten Getränken in über 30 verschiedenen leckeren Sorten
+- Kompakt: Die Kaffeekapselmaschine passt mit ihrer kompakten Größe besonders gut in kleine Küchen/Büros/Räume, ohne auf Leistung und Kaffeegenuss verzichten zu müssen; der extra große und leicht befüllbare Wassertrank garantiert langen Kaffeegenuss
+- Schnell: Dank unseres Aluminium-Thermoblocks können Sie schnell und ohne lange Wartezeiten unsere leckeren Nescafé Dolce Gusto Heißgetränke einfach und praktisch sofort genießen
+- Individuell: Mit Hilfe des Wahlhebels können Sie Ihr persönliches Lieblingsgetränk mit bis zu 15 bar Pumpendruck zubereiten; das Gerät schaltet sich 5 Minuten nach der Benutzung von allein ab
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XRR625F/?tag=tolees0ca-21)
