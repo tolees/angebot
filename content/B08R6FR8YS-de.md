@@ -1,30 +1,30 @@
 ---
 layout: post
-title: '75.01 % rabat auf Tradeforth GmbH 100x FFP2 Schutzmaske - '
-date: 2021-05-17 14:18:03
+title: '81.26 % rabat auf Tradeforth GmbH 100x FFP2 Schutzmaske  e'
+date: 2021-05-26 14:42:43
 image: 'https://m.media-amazon.com/images/I/41HgDtIpYaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08R6FR8YS-de Tradeforth GmbH 100x FFP2 Schutzmaske - 5 Lagig - CE0370 -...'
+slug: 'B08R6FR8YS-de Tradeforth GmbH 100x FFP2 Schutzmaske einzeln verpackt 5...'
 sku: 'B08R6FR8YS-de'
 tags: [ 'Arbeitsschutzausrüstung','Atemschutzmasken','Baumarkt','Sicherheitstechnik','Staub- & Atemschutzmasken','tradeforth gmbh', ]
-actualPrice: 19.99 EUR
+actualPrice: 14.99 EUR
 currency: EUR
-price: 19.99
+price: 14.99
 comparePrice: 79.99 EUR
-prodname: 'Tradeforth GmbH 100x FFP2 Schutzmaske - 5 Lagig - CE0370 - Dermatest: SEHR GUT'
+prodname: 'Tradeforth GmbH 100x FFP2 Schutzmaske  einzeln verpackt  5 Lagig - Zertifiziert CE0370 - Dermatest: SEHR GUT'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Tradeforth GmbH'
 buyurl: 'https://www.amazon.de/dp/B08R6FR8YS/?tag=tolees0ca-21'
-descuento: '75.01'
-average: '19.99'
+descuento: '81.26'
+average: '18.3233333333333'
 ---
 
-Es gibt ein [Tradeforth GmbH 100x FFP2 Schutzmaske - 5 Lagig - CE0370 - Dermatest: SEHR GUT](https://www.amazon.de/dp/B08R6FR8YS/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 79.99 EUR) 75.01 % Rabatt hier:
+Es gibt ein [Tradeforth GmbH 100x FFP2 Schutzmaske  einzeln verpackt  5 Lagig - Zertifiziert CE0370 - Dermatest: SEHR GUT](https://www.amazon.de/dp/B08R6FR8YS/?tag=tolees0ca-21) mit aktuellem Preis 14.99 EUR (original: 79.99 EUR) 81.26 % Rabatt hier:
 
-[![Tradeforth GmbH 100x FFP2 Schutzmaske - ](https://m.media-amazon.com/images/I/41HgDtIpYaL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08R6FR8YS/?tag=tolees0ca-21)
+[![Tradeforth GmbH 100x FFP2 Schutzmaske  e](https://m.media-amazon.com/images/I/41HgDtIpYaL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08R6FR8YS/?tag=tolees0ca-21)
 
 ℹ️:
 
