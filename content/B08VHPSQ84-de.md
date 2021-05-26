@@ -28,10 +28,10 @@ Es gibt ein [UK58 FFP2 Maske 20 Stück | 5-lagiger medizinischer Mundschutz | At
 
 ℹ️:
 
-- ✅Verstellbarer Nasenbügel und reißfeste maskenhalterung für ein angenehmes Tragekomfort
 - ✅ Staubschutzmaske filtert sowohl die eingeatmete als auch die ausgeatmete Luft
+- ✅ 5-Lagiger Aufbau: Die Einwegmasken filtern 95% aller Partikel aus der Luft. Sie ist sehr atmungsaktiv
+- ✅Verstellbarer Nasenbügel und reißfeste maskenhalterung für ein angenehmes Tragekomfort
 - ✅20 Gesichtsmasken, jede hygienisch und einzeln in einer Folienverpackung eingeschweißt, Verpackung und Anleitung auf Deutsch
 - ✅Getestet, und CE 2163 zertifiziert mit der europäischen Norm EN149:2001+A1:2009
-- ✅ 5-Lagiger Aufbau: Die Einwegmasken filtern 95% aller Partikel aus der Luft. Sie ist sehr atmungsaktiv
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08VHPSQ84/?tag=tolees0ca-21)
