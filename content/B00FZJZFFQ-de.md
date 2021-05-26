@@ -28,10 +28,10 @@ Es gibt ein [REV 0037329012 Batteriemessgerät  Batterietester 1 2V 1 5V 3V 9V -
 
 ℹ️:
 
-- Das Batterie Prüfgerät ist für 1,2V, 1,5V, 3V und 9V Batterien ausgelegt. Die Batteriegrössen sind: AAA, AA, C, D, Knopfzellen und PP3. Geeignet für NiMH-, NiCd-, Zink-Kohle und wiederaufl. Batterien
-- Technische Details des Akku Testers: Arbeitstemperatur: 0°C bis +40°C, max. 75% Luftfeuchtigkeit, Abmessungen (BxTxH): 90 x 45 x 22 mm, Gewicht: 44g
-- Das Batterieprüfgerät hat an der Seite die Prüfkontakte für die 9V Blockbatterien. Mit dem Funktionswahlschalter kann die Batterie Spannung ausgewählt werden. Grosses LCD Display
-- Der Messbereich liegt bei 0,2V -10,5V. Die Auflösung der Messwerte bei 0,1V. Für den Betrieb sind zwei 1,5V LR03 Micro AAA Batterien erforderlich (nicht im Lieferumfang)
 - Testen Sie Ihre Batterien ganz einfach mit diesem Batterie Tester. Das Oberteil des Batterietesters ist ausziehbar u. an die Grösse d. Batterie anpassbar. Pluskontakte im Oberteil, Minus im Unterteil
+- Das Batterieprüfgerät hat an der Seite die Prüfkontakte für die 9V Blockbatterien. Mit dem Funktionswahlschalter kann die Batterie Spannung ausgewählt werden. Grosses LCD Display
+- Technische Details des Akku Testers: Arbeitstemperatur: 0°C bis +40°C, max. 75% Luftfeuchtigkeit, Abmessungen (BxTxH): 90 x 45 x 22 mm, Gewicht: 44g
+- Der Messbereich liegt bei 0,2V -10,5V. Die Auflösung der Messwerte bei 0,1V. Für den Betrieb sind zwei 1,5V LR03 Micro AAA Batterien erforderlich (nicht im Lieferumfang)
+- Das Batterie Prüfgerät ist für 1,2V, 1,5V, 3V und 9V Batterien ausgelegt. Die Batteriegrössen sind: AAA, AA, C, D, Knopfzellen und PP3. Geeignet für NiMH-, NiCd-, Zink-Kohle und wiederaufl. Batterien
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00FZJZFFQ/?tag=tolees0ca-21)
