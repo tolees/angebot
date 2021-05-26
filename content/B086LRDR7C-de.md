@@ -28,7 +28,7 @@ Sie können [Richter Kinderschuhe Snow 2789-8172 Schneestiefel  7202atlant/silv/
 
 ℹ️:
 
-- Sympatex
 - Blinklicht
+- Sympatex
 
 [🛒 Hier!!](https://www.amazon.de/dp/B086LRDR7C/?tag=tolees0ca-21)
