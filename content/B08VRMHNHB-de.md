@@ -28,9 +28,9 @@ Es gibt ein [Atlus - Judgment  Playstation 5 ](https://www.amazon.de/dp/B08VRMHN
 
 ℹ️:
 
-- Die aktualisierte Version von Judgment enthält alle zuvor veröffentlichten DLCs
 - Jetzt mit flüssigen 60 FPS und aufpolierter Grafik. Tauche ein in die dramatische Geschichte eines Anwalts mit ruiniertem Ruf
 - Irre Kampfszenen und Blockbuster-würdige Plottwists halten dich auf der Suche nach des Rätsels Lösung garantiert immer auf Trab
+- Die aktualisierte Version von Judgment enthält alle zuvor veröffentlichten DLCs
 - Verfolge Verdächtige, stelle Ermittlungen an und präsentiere deine Beweise vor Gericht
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08VRMHNHB/?tag=tolees0ca-21)

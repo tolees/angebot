@@ -29,7 +29,7 @@ Es gibt ein [Ubisoft - Watch Dogs Legion - Standard Edition | Uncut - [PlayStati
 ℹ️:
 
 - Erleben Sie eine bahnbrechende Gameplay-Innovation, in der jeder Charakter den Sie treffen, sich Ihrem Team anschließen kann und über eine eigene Hintergrundgeschichte, Persönlichkeit und besondere Fähigkeiten verfügt
-- Hacking als Waffe: Verwenden Sie Londons technische Infrastruktur, um die Kontrolle über bewaffnete Kampfdrohnen und getarnte Spinnen-Roboter zu erlangen. Mit dem neuen Augmented-Reality-Umhang schalten Sie Ihre Gegner wirkungsvoll aus
 - Nehmen Sie Ihr Team mit in den Online-Modus und kombinieren Sie Ihre Kräfte mit denen von drei weiteren Freunden. Erkunden Sie gemeinsam die Welt, stellen Sie sich neuen Koop-Einsätzen oder herausfordernden Endspiel-Inhalten
+- Hacking als Waffe: Verwenden Sie Londons technische Infrastruktur, um die Kontrolle über bewaffnete Kampfdrohnen und getarnte Spinnen-Roboter zu erlangen. Mit dem neuen Augmented-Reality-Umhang schalten Sie Ihre Gegner wirkungsvoll aus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08FXZD6G8/?tag=tolees0ca-21)
