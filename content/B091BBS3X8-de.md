@@ -28,12 +28,12 @@ Es gibt ein [Clungene Corona Schnelltest Selbsttest  5 Stück](https://www.amazo
 
 ℹ️:
 
-- Antigentest auf SARS-CoV-2 zur Eigenanwendung durch Laien, Sonderzulassung nach §11 Absatz 1 Medizinproduktegesetz (MPG)
-- Weitere Informationen zu Verfügbarkeit, Zuverlässigkeit und mehr finden Sie auf unserer FAQ-Seite zu Corona-Selbsttests
 - Amazon verkauft nur vom BfArM zugelassene Selbsttests
-- Bitte beachten Sie, dass ein negatives Ergebnis eine Infektion nie vollständig ausschließt, auch dann nicht, wenn der Test an einer Person ohne Krankheitssymptome durchgeführt wird
-- Geprüfte Qualität durch das Paul-Ehrlich-Institut und das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)
 - Besonders hohe Sensitivität von 97.5% (Ct <33); Spezifität: 99.4%
 - Sehr einfache Anwendung durch einen Abstrich im vorderen Nasenbereich (Anterior Nasal)
+- Antigentest auf SARS-CoV-2 zur Eigenanwendung durch Laien, Sonderzulassung nach §11 Absatz 1 Medizinproduktegesetz (MPG)
+- Geprüfte Qualität durch das Paul-Ehrlich-Institut und das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)
+- Weitere Informationen zu Verfügbarkeit, Zuverlässigkeit und mehr finden Sie auf unserer FAQ-Seite zu Corona-Selbsttests
+- Bitte beachten Sie, dass ein negatives Ergebnis eine Infektion nie vollständig ausschließt, auch dann nicht, wenn der Test an einer Person ohne Krankheitssymptome durchgeführt wird
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B091BBS3X8/?tag=tolees0ca-21)
