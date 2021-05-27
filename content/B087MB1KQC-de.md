@@ -28,9 +28,9 @@ Sie können [WHITIN Sicherheitsschuhe Herren Arbeitsschuhe mit Stahlkappe rutsch
 
 ℹ️:
 
-- Schafthöhe: Kurzschaft
+- Materialzusammensetzung: Gummi
 - Plattformhöhe: 3 cm
 - Sohlenmaterial: Gummi+EVA
-- Materialzusammensetzung: Gummi
+- Schafthöhe: Kurzschaft
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087MB1KQC/?tag=tolees0ca-21)
