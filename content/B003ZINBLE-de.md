@@ -28,11 +28,11 @@ Sie können [Maker s Mark Handgemachter Kentucky Straight Bourbon Whisky  45% Vo
 
 ℹ️:
 
+- Kräftige Aromen von gerösteter Eiche, Vanille und Karamell
+- Mit Liebe hergestellt. Perfekt gekleidet. Makers Mark das perfekte Weihnachtsgeschenk
+- Nach altem Familienrezept in der ältesten Bourbon-Destillerie der Welt hergestellt, wo Handarbeit und Tradition noch großgeschrieben werden
 - Mit seinem besonders weichen und vollmundigen Geschmacksprofil, gehört Makers Mark zu den mildesten Premium Bourbons weltweit
 - Die Etiketten werden noch heute per Hand gestanzt und jede Flasche wird in rotes Wachs getaucht und versiegelt
-- Kräftige Aromen von gerösteter Eiche, Vanille und Karamell
-- Nach altem Familienrezept in der ältesten Bourbon-Destillerie der Welt hergestellt, wo Handarbeit und Tradition noch großgeschrieben werden
-- Mit Liebe hergestellt. Perfekt gekleidet. Makers Mark das perfekte Weihnachtsgeschenk
 - Geschmack von Toffee, Nuancen von Gebäck und frischen Früchten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003ZINBLE/?tag=tolees0ca-21)
