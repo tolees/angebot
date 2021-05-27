@@ -28,10 +28,10 @@ Sie können [TECKNET Bluetooth Maus  Kompakte Wireless Kabellose Bluetooth Mouse
 
 ℹ️:
 
-- Bis zu 8 Millionen Klicks über die Lebensdauer des Produkts Bis zu 24-monate Batterielebensdauer mit Batterieanzeigelampe.
+- Bluetooth Drahtlose Version 3,0 Elegante Maus mit einer schnellen und kabellosen Bluetooth Verbindung zu Computern, Reichweite bis zu 15 Meter.
 - Arbeitet mit Bluetooth-fähigen Computern unter Windows 2000, XP, VISTA, 7, 8, 10(Hinweis: Seitentasten können nicht in Mac verwendet werden).
 - TruWave-Technologie zur präzisen und intelligenten Cursorsteuerung für viele Oberflächentypen. Auswahl mit 5 DPI: 2600/2000/1600/1200/800.
-- Bluetooth Drahtlose Version 3,0 Elegante Maus mit einer schnellen und kabellosen Bluetooth Verbindung zu Computern, Reichweite bis zu 15 Meter.
 - Batterie: 2 x AAA-Batterie (NICHT ENTHALTEN). Lieferumfang: 1 x kabellose Bluetooth-Maus, 1 x Benutzerhandbuch, 1 x Garantiekarte.
+- Bis zu 8 Millionen Klicks über die Lebensdauer des Produkts Bis zu 24-monate Batterielebensdauer mit Batterieanzeigelampe.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001IABWYO/?tag=tolees0ca-21)
