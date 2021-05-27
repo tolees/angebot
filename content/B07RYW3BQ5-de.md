@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Entertainment - Game of Thro mit 15.38 % Rabatt'
-date: 2021-05-26 00:30:19
+date: 2021-05-27 00:37:35
 image: 'https://m.media-amazon.com/images/I/51T0llJDqjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros Entertainment'
 buyurl: 'https://www.amazon.de/dp/B07RYW3BQ5/?tag=tolees0ca-21'
 descuento: '15.38'
-average: '19.9876470588235'
+average: '19.9492307692307'
 ---
 
 Sie können [Warner Bros Entertainment - Game of Thrones - Staffel 8 [4 DVDs]](https://www.amazon.de/dp/B07RYW3BQ5/?tag=tolees0ca-21) mit Preis 17.99 EUR (original: 21.26 EUR) 15.38 % Rabatt hier:

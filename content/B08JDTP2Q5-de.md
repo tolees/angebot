@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gott  du kannst ein Arsch sein! mit 33.69 % Rabatt'
-date: 2021-05-26 00:09:18
+date: 2021-05-27 00:16:14
 image: 'https://m.media-amazon.com/images/I/51Kz66Se18L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08JDTP2Q5/?tag=tolees0ca-21'
 descuento: '33.69'
-average: '9.33363636363638'
+average: '9.27347826086958'
 ---
 
 Sie können [Gott  du kannst ein Arsch sein!](https://www.amazon.de/dp/B08JDTP2Q5/?tag=tolees0ca-21) mit Preis 7.95 EUR (original: 11.99 EUR) 33.69 % Rabatt hier:

@@ -28,10 +28,10 @@ Sie können [KIQO Coffee & Tea - LUCIFER S ROAST Espresso by KIQO aus Italien - 
 
 ℹ️:
 
-- ☕️ Röstung - Durch das Rösten von Hand in kleinen Mengen können wir sicherstellen, dass jede Bohne eine gleichmäßige Röstung erfährt. Dieser Prozess dauert zwar länger, hilft aber bei jeder Bohne die individuellen Aromen freizusetzen.
 - ☕️ Handverlesene Bohnen ohne Brüche - Garantieren den vollen Kaffeegeschmack.
 - ☕️ Zubereitung - Baristas schätzen diesen Kaffee für seinen vollmundigen und kräftigen Geschmack mit seiner feinen Crema. Somit ideal geeignet für Espresso oder auch als Americano.
-- ☕️ Nachhaltigkeit - Sowohl beim Anbau der Bohnen als auch bei der anschließenden Veredelung wird gänzlich auf die Verwendung von Zusatzstoffen oder Geschmacksverstärkern verzichtet. Die gesamte Produktion ist somit biologisch nachhaltig und letztlich vegan. Unsere Bohnen beziehen wir direkt von den Kaffeebauern, ohne Umwege und teure Mittelsmänner.
+- ☕️ Röstung - Durch das Rösten von Hand in kleinen Mengen können wir sicherstellen, dass jede Bohne eine gleichmäßige Röstung erfährt. Dieser Prozess dauert zwar länger, hilft aber bei jeder Bohne die individuellen Aromen freizusetzen.
 - ☕️ Echt italienisch - 100% Robusta-Bohnen sorgen zwar für eine extreme Stärke, jedoch ist der Kaffee nahezu säurefrei durch den fehlenden Arabica-Anteil. Damit perfekt geeignet für Kaffee-Vieltrinker.
+- ☕️ Nachhaltigkeit - Sowohl beim Anbau der Bohnen als auch bei der anschließenden Veredelung wird gänzlich auf die Verwendung von Zusatzstoffen oder Geschmacksverstärkern verzichtet. Die gesamte Produktion ist somit biologisch nachhaltig und letztlich vegan. Unsere Bohnen beziehen wir direkt von den Kaffeebauern, ohne Umwege und teure Mittelsmänner.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HJRYSTF/?tag=tolees0ca-21)
