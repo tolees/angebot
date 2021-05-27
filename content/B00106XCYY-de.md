@@ -28,8 +28,8 @@ Es gibt ein [Samsonite Aeris Upright L Koffer  78 cm  118 5 L  Schwarz  Black ](
 
 ℹ️:
 
-- Aeris Upright 78 (Zweiwöchige Reise): 59x34x78 cm - 118,5 L - 5,08 kg
 - Made in Europe
 - Hergestellt aus leichtem und doch widerstandsfähigem Polypropylen
+- Aeris Upright 78 (Zweiwöchige Reise): 59x34x78 cm - 118,5 L - 5,08 kg
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00106XCYY/?tag=tolees0ca-21)
