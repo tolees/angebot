@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WHITIN Sicherheitsschuhe Herren Arbeitss mit 15.00 % Rabatt'
-date: 2021-05-26 05:49:29
+date: 2021-05-27 05:52:14
 image: 'https://m.media-amazon.com/images/I/41AmLTKnXJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,5 +28,9 @@ Sie können [WHITIN Sicherheitsschuhe Herren Arbeitsschuhe mit Stahlkappe rutsch
 
 ℹ️:
 
+- Schafthöhe: Kurzschaft
+- Plattformhöhe: 3 cm
+- Sohlenmaterial: Gummi+EVA
+- Materialzusammensetzung: Gummi
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087MB1KQC/?tag=tolees0ca-21)
