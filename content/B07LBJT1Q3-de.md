@@ -28,8 +28,8 @@ Sie können [Medela Swing Flex elektrische Milchpumpe – Kompaktes Design – M
 
 ℹ️:
 
-- Passende Form: Die PersonalFit Flex Brusthauben mit weichem, glattem, flexiblem Rand und ovaler Form können um 360° gedreht werden, sodass die Position leicht an die Brustform angepasst werden kann
 - Kompakt, mobil und einfach zu handhaben: Die elektrische Milchpumpe ist tragbar und es kann bequem zwischen Phasen und Vakuumstufen gewechselt werden, um die angenehmste Einstellung zu finden
+- Passende Form: Die PersonalFit Flex Brusthauben mit weichem, glattem, flexiblem Rand und ovaler Form können um 360° gedreht werden, sodass die Position leicht an die Brustform angepasst werden kann
 - Komfortables, effizientes Abpumpen: Swing Flex wird mit den Medela PersonalFit Flex Brusthauben geliefert, die für zusätzlichen Komfort und verbesserten Milchfluss sorgen
 - Lieferumfang: 1 x Swing Motoreinheit, 1 x Netzadapter, 1 x 150 ml Flasche mit Deckel, 1 x Flaschenhalter, 2 x PersonalFit Flex Brusthauben (1 x 21 mm, 1 x 24 mm), 1 x Quick Card, Gebrauchsanweisung
 - Ein natürliches Abpump-Erlebnis: Die Medela 2-Phasen-Expression-Technologie ahmt den instinktiven Saugrhythmus nach und sorgt so für ein natürlicheres und komfortableres Abpumpen
