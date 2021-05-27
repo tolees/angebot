@@ -28,9 +28,9 @@ Es gibt ein [LEGO 71371 Super Mario Propeller-Mario - Anzug  Power-Up Pack Erwei
 
 ℹ️:
 
+- Weitere coole LEGO Mario Upgrades lassen sich ebenfalls mit dem Starterset und den Erweiterungssets kombinieren, zum Beispiel die Anzüge „Feuer-Mario“ (71370), „Katzen-Mario“ (71372) und „Baumeister-Mario“ (71373)
 - Kleine Baumeister schaffen es auch ohne die Kräfte eines Superstars, die LEGO Steine zusammenzustecken oder zu trennen! Bereits seit 1958 entsprechen die Steine den höchsten Branchenstandards, damit sie stets einheitlich und kompatibel sind
 - Für dieses LEGO Set werden keine Batterien benötigt. Um das Outfit zu aktivieren, muss es nur zur LEGO Mario Figur aus dem Starterset hinzugefügt werden. Dem Set liegt eine illustrierte Bauanleitung bei, um Kinder in eigener Regie bauen zu lassen
-- Weitere coole LEGO Mario Upgrades lassen sich ebenfalls mit dem Starterset und den Erweiterungssets kombinieren, zum Beispiel die Anzüge „Feuer-Mario“ (71370), „Katzen-Mario“ (71372) und „Baumeister-Mario“ (71373)
 - Dieses Outfit ist passgenau auf die LEGO Mario Figur aus dem Starterset „Abenteuer mit Mario“ (71360) zugeschnitten. Wenn LEGO Mario dieses baubare Zubehör trägt und dann hochgehoben wird, sind Propellergeräusche zu hören
 - Der Anzug „Propeller-Mario“ (71371) enthält ein baubares Kostüm, das der LEGO Mario Figur (nicht im Set enthalten) die Fähigkeit verleiht, im Flug noch mehr Münzen zu sammeln, was dem LEGO Super Mario Spielerlebnis eine völlig neue Dimension verleiht
 - Wenn Propeller-Mario losfliegt, können Spieler weitere digitale Münzen sammeln, um ihren Punktestand zu erhöhen. Kinder werden Mario mit großer Begeisterung herumfliegen lassen und das Wohnzimmer in ein echtes LEGO Mario Spiellevel verwandeln
