@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gott  du kannst ein Arsch sein! [Blu-ray mit 24.95 % Rabatt'
-date: 2021-05-27 00:11:42
+date: 2021-05-28 13:00:19
 image: 'https://m.media-amazon.com/images/I/51IyWP7ofYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08JF8B3LY/?tag=tolees0ca-21'
 descuento: '24.95'
-average: '13.4734782608696'
+average: '13.3495833333334'
 ---
 
 Sie können [Gott  du kannst ein Arsch sein! [Blu-ray]](https://www.amazon.de/dp/B08JF8B3LY/?tag=tolees0ca-21) mit Preis 10.5 EUR (original: 13.99 EUR) 24.95 % Rabatt hier:
