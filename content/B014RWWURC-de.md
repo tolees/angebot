@@ -28,11 +28,11 @@ Es gibt ein [Amazon Basics  DisplayPort-auf-DVI-Kabel  mit vergoldeten Anschlüs
 
 ℹ️:
 
-- Länge: 1,8 Meter; mit einer einjährigen, eingeschränkten Garantie von Amazon Basics
-- Perfekt für Video-Streams, für Gaming oder zur Erweiterung des Arbeitsplatzes
-- Geeignet für DP, DP++ und DisplayPort++; unterstützt Video-Auflösungen bis zu 1920 x 1200 / 1080p (Full HD)
-- Das DisplayPort-zu-DVI-Kabel überträgt HD-Video-Signale vom Computer auf einen Bildschirm
-- Vergoldete Stecker; Konduktoren aus blankem Kupfer; folien- und geflechtgeschirmt für Robustheit und eine verlässliche Verbindung
 - Aktualisierungsrate: bis zu 1080/60 Hz
+- Geeignet für DP, DP++ und DisplayPort++; unterstützt Video-Auflösungen bis zu 1920 x 1200 / 1080p (Full HD)
+- Vergoldete Stecker; Konduktoren aus blankem Kupfer; folien- und geflechtgeschirmt für Robustheit und eine verlässliche Verbindung
+- Das DisplayPort-zu-DVI-Kabel überträgt HD-Video-Signale vom Computer auf einen Bildschirm
+- Perfekt für Video-Streams, für Gaming oder zur Erweiterung des Arbeitsplatzes
+- Länge: 1,8 Meter; mit einer einjährigen, eingeschränkten Garantie von Amazon Basics
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B014RWWURC/?tag=tolees0ca-21)
