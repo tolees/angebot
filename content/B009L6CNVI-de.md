@@ -28,10 +28,10 @@ Es gibt ein [Kensington K72427EU Presenter Expert Green Laser  2 4GHz  4 Tasten 
 
 ℹ️:
 
-- Austauschbares 8GB-Dongle zum Speichern Ihrer Präsentationen
-- Geeignet für Keynote und PowerPoint
-- Zwei Modi - blitzschneller Wechsel zwischen Präsentationsmodus und Cursorsteuerung
 - Tasten mit Hintergrundbeleuchtung
+- Zwei Modi - blitzschneller Wechsel zwischen Präsentationsmodus und Cursorsteuerung
 - Grüner Laser ist zehn Mal heller als roter Laser
+- Geeignet für Keynote und PowerPoint
+- Austauschbares 8GB-Dongle zum Speichern Ihrer Präsentationen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009L6CNVI/?tag=tolees0ca-21)
