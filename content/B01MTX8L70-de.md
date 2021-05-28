@@ -28,9 +28,9 @@ Es gibt ein [Sony Interactive Entertainment - The Last of Us Part II - Standard 
 
 ℹ️:
 
+- Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
 - Dank modernster Motion-Capturing werden die Emotionen noch realistischer transportiert
 - Unberechenbare Begegnungen mit Feinden durch das erstklassige KI-System
-- Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
 - Eine intensive, von starken Charakteren getragene Geschichte, durch das Erfolgsstudio Naughty Dog perfekt inszeniert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MTX8L70/?tag=tolees0ca-21)

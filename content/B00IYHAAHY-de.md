@@ -28,10 +28,10 @@ Es gibt ein [Ankerkraut Pull that Piggy  Pulled Pork BBQ Rub Gewürzmischung  Ma
 
 ℹ️:
 
-- [GESCHMACK] Die leicht scharfe Trockenmarinade ist genau das richtige für den amerikanischen Low&Slow BBQ Hammer
 - [ANWENDUNG] Rubs sind primär eine würzige Trockenmarinade, die gerne beim BBQ bzw. Grillen verwendet werden; Dabei beschreibt der Name Rub bereits die Zubereitungsweise, nämlich das Einmassieren der Gewürzzutaten, hauptsächlich von Fleisch. Sie bilden auf dem Fleisch zunächst eine leckere Marinade und anschließend während des Garens eine schmackhafte Kruste; Durch die Zugabe von Ölen können sie zu einer flüssigen Grillmarinade angereichert werden
-- [PASST ZU] Entwickelt für Pulled Pork, die heißeste Versuchung des Low&Slow-Garens
-- [ALLROUNDER] Die Mischung kann auch zum Grillen von Lamm und Wild sowie zum Kochen und Zubereiten von Gemüse oder anderen vegetarischen und veganen Alternativen, wie z.B. Tofu oder Halloumi, verwendet werden
 - [BESTE QUALITÄT] Ohne Geschmacksverstärker und künstliche Farbstoffe; Die Zutaten werden frisch bezogen, in den praktischem, UV-lichtgeschützten und aromadichten Ankerkraut Beutel umgefüllt und nach sehr kurzer Lagerzeit an die Kunden versandt
+- [GESCHMACK] Die leicht scharfe Trockenmarinade ist genau das richtige für den amerikanischen Low&Slow BBQ Hammer
+- [ALLROUNDER] Die Mischung kann auch zum Grillen von Lamm und Wild sowie zum Kochen und Zubereiten von Gemüse oder anderen vegetarischen und veganen Alternativen, wie z.B. Tofu oder Halloumi, verwendet werden
+- [PASST ZU] Entwickelt für Pulled Pork, die heißeste Versuchung des Low&Slow-Garens
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00IYHAAHY/?tag=tolees0ca-21)

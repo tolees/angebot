@@ -28,14 +28,14 @@ Es gibt ein [Apple Leder Case  für iPhone XS Max  - Taupe](https://www.amazon.d
 
 ℹ️:
 
-- Deshalb sieht es nicht nur großartig aus
-- Die Tasten aus Aluminium passen zur Farbe deines Leder Case
 - Und zum kabellosen Laden musst du das Case nicht abnehmen.
-- Kompatibilität: iPhone XS Max
-- Diese von Apple designten Cases passen sich perfekt der Form deines iPhone an.
 - Wie jedes von Apple entwickelte Case muss es im Laufe des Design- und Fertigungs­prozesses Tausende von Teststunden durchlaufen.
-- Die Cases werden aus speziell gegerbtem
+- Diese von Apple designten Cases passen sich perfekt der Form deines iPhone an.
+- Kompatibilität: iPhone XS Max
 - So bleibt alles schön dünn.
 - Dadurch fühlt sich die Außenseite weich an und bekommt mit der Zeit eine schöne
+- Die Cases werden aus speziell gegerbtem
+- Die Tasten aus Aluminium passen zur Farbe deines Leder Case
+- Deshalb sieht es nicht nur großartig aus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07H9W54QZ/?tag=tolees0ca-21)
