@@ -28,9 +28,9 @@ Es gibt ein [TP-Link TL-WPA4220T KIT AV600 WLAN N300 WiFi Powerline  max. 600Mbi
 
 ℹ️:
 
-- Der Standard "HomePlug AV" erlaubt Datenübertragungsraten von bis zu 600 Mbps über die bestehende elektrische Verkabelung in Ihrer Wohnung,
-- Ideal für ruckelfreies HD- oder 3D-Videostreaming und Onlinegaming
 - Lieferumfang: Powerline-Ethernet-Adapter TL-WPA4220 (2 Stück) und TL-PA4010 (1 Stück), 2m-RJ45-Ethernetkabel, Software-CD, Schnellinstallationsanleitung
+- Ideal für ruckelfreies HD- oder 3D-Videostreaming und Onlinegaming
+- Der Standard "HomePlug AV" erlaubt Datenübertragungsraten von bis zu 600 Mbps über die bestehende elektrische Verkabelung in Ihrer Wohnung,
 - Erweitern Sie Ihr 300 Mbps-WLAN, sodass es nun auch zuvor nicht abgedeckte Bereiche versorgt
 - Reichweitenvergrößerung auf Tastendruck - die WiFi-Clone-Taste erleichtert die WLAN-Konfiguration und erstellt Ihnen in wenigen Momenten ein nahtlos benutzbares großes WLAN
 

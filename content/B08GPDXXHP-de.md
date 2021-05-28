@@ -29,10 +29,10 @@ Es gibt ein [LEGO 10949 DUPLO Tierpflege auf dem Bauernhof Kleinkinder Spielzeug
 ℹ️:
 
 - Bereite einem kleinen Tierfreund große Freude mit dem LEGO DUPLO Spielset „Tierpflege auf dem Bauernhof“ (10949). Die 4 niedlichen Bauernhoftiere lassen Kleinkinder viele Stunden fantasievoll spielen und spielerisch lernen
-- Das Umsorgen der Tiere, beispielsweise das Füttern oder das Aufräumen der Scheune vor dem Schlafengehen, fördert sowohl die feinmotorische als auch sozial-emotionale Entwicklung der Kinder
+- Kleinkinder können das Schwein, das Schaf, die Ente und die Katze gut greifen. Eine baubare Scheune und ein Heuballen sind ebenfalls enthalten
 - Die Bauanleitung beinhaltet eine lustige Bildergeschichte mit Modellen aus dem Set. Das Vergnügen beschränkt sich also nicht nur auf kreatives Bauen und fantasievolles Spielen
+- Das Umsorgen der Tiere, beispielsweise das Füttern oder das Aufräumen der Scheune vor dem Schlafengehen, fördert sowohl die feinmotorische als auch sozial-emotionale Entwicklung der Kinder
 - Das robuste Spielset ist ein tolles Geburtstags- oder Weihnachtsgeschenk und eine schöne spontane Belohnung für Kinder ab 2 Jahren
 - Das Modell ist 10 cm hoch, 9 cm breit und 6 cm tief. Das Spielset lässt sich vielseitig anordnen und mit anderen LEGO DUPLO Bauernhof-Spielzeugen kombinieren
-- Kleinkinder können das Schwein, das Schaf, die Ente und die Katze gut greifen. Eine baubare Scheune und ein Heuballen sind ebenfalls enthalten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GPDXXHP/?tag=tolees0ca-21)
