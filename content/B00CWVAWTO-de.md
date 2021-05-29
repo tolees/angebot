@@ -28,11 +28,11 @@ Es gibt ein [Vaude Herren Farley Stretch T-Zip Hose II  Schwarz  48/S lang    04
 
 ℹ️:
 
+- Sehr bequeme Wanderhose: Äußerst bequeme Wander- und Trekkinghose mit abnehmbaren Beinen aus umweltfreundlichem, bluesign zertifiziertem Material
+- Das VAUDE Green Shape-Label steht für ein umweltfreundliches, funktionelles Produkt aus nachhaltigen Materialien.
 - Mens Farley Stretch T-Zip Pants II
-- Elastische, abzippbare Hose zum Wandern: pflegeleicht, trocknet schnell
 - Hoher Tragekomfort: Der bequeme Hosenbund, der hohe Stretchanteil und die vorgeformten Kniepartien bieten sehr hohen Tragekomfort
 - Zuverlässige Funktionalität: Der pflegeleichte, schnelltrocknende Stoff sorgt für zuverlässige Funktionalität
-- Das VAUDE Green Shape-Label steht für ein umweltfreundliches, funktionelles Produkt aus nachhaltigen Materialien.
-- Sehr bequeme Wanderhose: Äußerst bequeme Wander- und Trekkinghose mit abnehmbaren Beinen aus umweltfreundlichem, bluesign zertifiziertem Material
+- Elastische, abzippbare Hose zum Wandern: pflegeleicht, trocknet schnell
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00CWVAWTO/?tag=tolees0ca-21)
