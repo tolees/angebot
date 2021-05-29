@@ -28,10 +28,10 @@ Es gibt ein [Buff Erwachsene Multifunktionstuch Thermal Merino Neckwarmer Schlau
 
 ℹ️:
 
+- Pflegehinweis: Do not machine wash
+- Modellnummer: 110963
 - 100% Wolle
 - Heavyweight Merino Wool Neckwarmer
-- Modellnummer: 110963
 - Passform: Universelle Passform
-- Pflegehinweis: Do not machine wash
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00V3HV6OS/?tag=tolees0ca-21)

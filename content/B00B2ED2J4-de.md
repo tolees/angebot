@@ -28,8 +28,8 @@ Es gibt ein [Herschel Retreat Classics Rucksack Unisex  Grey/Tan Synthetic Leath
 
 ℹ️:
 
-- 2 Jahre
-- Retreat Backpack
 - Maße: 42 x 30,5 x 14 Â cm
+- Retreat Backpack
+- 2 Jahre
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00B2ED2J4/?tag=tolees0ca-21)

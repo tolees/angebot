@@ -28,10 +28,10 @@ Es gibt ein [FALKE Herren SB2 M KH Snowboard-Socken  Schwarz  Black-Mix 3010   4
 
 ℹ️:
 
+- FALKE Snowboardsocken SB2 Herrenstrümpfe und Stiefelsocken sind hoch, lang und fusselfrei; Passform und Farbe der Bergsocken bleiben erhalten auch nach mehrmaligem Waschen; Diese Herrensocken sind bei 30°C im Wollwaschgang zu waschen
 - Modellnummer FALKE Herren SB2 Snowboardsocken: 16575; Größen: 39-41, 42-43, 44-45, 46-48
 - Thermosocken aus angenehm weicher Wolle ohne Motiv und bunt halten den Fuß warm; verstärkt, atmungsaktiv, gefüttert, hochwertig, wärmend und für jeden Snowboardschuh geeignet; Warme Thermostrümpfe aus Merinowolle mit Innenfrottee, Polster; Allrounder Snowboardstrumpf mit Bund aus Gummi zum Snowboard fahren von FALKE
 - Blickdichte Thermo Socken für den Freizeit Snowboardfahrer, auf Arbeit, Jagd, Angeln, Fahrrad, Outdoor Sport sowie für Gummistiefel; Socke gepolstert mit Gummibund und Frottee drückt nicht durch flache Naht an den Zehen; ideale Kniestrümpfe mit mittelstarker Polsterung für hohen Schutz und ausgewogenen Schuhkontakt ohne nasse Füße für den Winter; Snowboardstrumpf für Männer, Jungen und Teenager
-- FALKE Snowboardsocken SB2 Herrenstrümpfe und Stiefelsocken sind hoch, lang und fusselfrei; Passform und Farbe der Bergsocken bleiben erhalten auch nach mehrmaligem Waschen; Diese Herrensocken sind bei 30°C im Wollwaschgang zu waschen
 - Einzigartige FALKE-Qualität: Wir haben höchste Ansprüche an das, was Ihren Körper schützt und wärmt. FALKE: Traditionsunternehmen und höchste Qualität seit 1895
 - Geschlechtsspezifische Proportionen und Passform durch spezielle Strickverfahren und Zylinder; Fußspitze und Fußbett sind an die anatomischen Unterschiede von R/L Fuß angepasst. Diese Innovation garantiert einen optimalen, faltenfreien Sitz mit hohem Tragekomfort, schützt vor Druckstellen und erhöht die Haltbarkeit der Strümpfe
 

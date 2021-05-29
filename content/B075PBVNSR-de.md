@@ -28,9 +28,9 @@ Sie können [Vanguard Alta BH-100 Kugelkopf – Anthrazit  Standard](https://
 
 ℹ️:
 
+- Kugelkopf mit Tragkraft von 10 kg
 - Höhe 115 mm, Gewicht 470 g
 - - Arca-Swiss "Quick Release System kompatibel mit D-Ring und eine integrierte Sicherheitsnadel (qs-60 V2-Platte im Lieferumfang enthalten)
-- Kugelkopf mit Tragkraft von 10 kg
 - Alta BH-100 Kugelkopf & qs-60 V2 Schnellwechselplatte
 - Oversized Arretierungsknopf für einfache Nutzung, auch in kalten und feuchten Bedingungen, und mit zusätzlichem Reibung Control wissen zu helfen die perfekte Aufnahme zu komponieren.
 

@@ -29,9 +29,9 @@ Es gibt ein [VITAdisplays DIN A4 Buchständer  Buchstütze  Buchhalter als Waren
 ℹ️:
 
 - Hergestellt in Deutschland aus original PLEXIGLAS - mit diamantpolierten Kanten - Original PLEXIGLAS ist Lichtecht / UV stabil
-- Format: DIN A4 (Hochformat) - Breite: 21.0 cm - Höhe: 28.0 cm - Fülltiefe: 4.3 cm
-- Einsatzbereich Tresen, Tisch, Verkaufsstand, Schaufenster, Vitrine. Der Buchaufsteller kann auch zur Präsentation von Verpackungen und Waren aller Art genutzt werden
-- Materialstärke: 3.0 mm - mit diamantpolierte Kanten
 - Bitte beachten Sie, dass die Acrylglas-Aufsteller von VITAdisplays mit einer beidseitigen Schutzfolie geliefert werden, die vor Gebrauch abgezogen werden muss.
+- Einsatzbereich Tresen, Tisch, Verkaufsstand, Schaufenster, Vitrine. Der Buchaufsteller kann auch zur Präsentation von Verpackungen und Waren aller Art genutzt werden
+- Format: DIN A4 (Hochformat) - Breite: 21.0 cm - Höhe: 28.0 cm - Fülltiefe: 4.3 cm
+- Materialstärke: 3.0 mm - mit diamantpolierte Kanten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00CSPLZRM/?tag=tolees0ca-21)
