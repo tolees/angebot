@@ -28,10 +28,10 @@ Sie können [Demeyere 417419 Multimedia Eckschreibtisch ANGUS  84 x 74 x 84 cm  
 
 ℹ️:
 
-- Hergestellt in Europa
 - Durch sein äußerst kompaktes Maß können Sie dieses Möbelstück auch in kleineren Räumen aufstellen ohne Platzmangel für Ordner befürchten zu müssen.
-- Abmessung: 84 x 84 x 74 cm (BxTxH)
 - Funktionelle Möbelkombination aus Schreibtisch und Aktenregal
 - Große Arbeitsfläche mit praktischer Eckaufbewahrung
+- Abmessung: 84 x 84 x 74 cm (BxTxH)
+- Hergestellt in Europa
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00H1PWBFY/?tag=tolees0ca-21)

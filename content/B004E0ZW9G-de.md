@@ -30,8 +30,8 @@ Sie können [AVERY Zweckform L4785-20 Namensetiketten  80x50 mm auf DIN A4  selb
 
 - Weiße selbstklebende Namensetiketten aus Acetatseide im Format 80x50 mm, 200 Textiletiketten auf 20 DIN-A4 Bogen in einer Packung
 - Wiederablösbaren Namensaufkleber halten zuverlässig auf Kleidung, leicht wieder abzulösen ohne Kleberückstände zu hinterlassen, Nicht geeignet für Leder, Seide, Samt und andere empfindliche Textilien
-- Druckereignung: Laserdrucker und Farblaserdrucker, Garantiert staufreier Druckerdurchlauf ohne Klebstoffablagerungen im Drucker mit gestochen scharfen Druckbild ohne Verwischen, nicht für Tintenstrahldrucker (Inkjet) geeignet
 - Blanko Namensschilder zum selbst gestalten und bedrucken mit kostenlosen Online-Vorlagen von AVERY Zweckform. Den Link hierzu finden Sie auf der Produktverpackung oder auf der AVERY Zweckform Website
 - Ideal für Seminare, Konferenzen, Veranstaltungen, Messen, große und kleine Events, Workshops aber auch für den privaten Zweck z.B. auf Hochzeiten
+- Druckereignung: Laserdrucker und Farblaserdrucker, Garantiert staufreier Druckerdurchlauf ohne Klebstoffablagerungen im Drucker mit gestochen scharfen Druckbild ohne Verwischen, nicht für Tintenstrahldrucker (Inkjet) geeignet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004E0ZW9G/?tag=tolees0ca-21)

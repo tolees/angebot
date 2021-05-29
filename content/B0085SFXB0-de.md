@@ -28,10 +28,10 @@ Es gibt ein [JACK & JONES Herren T-Shirt JJEBasic O-Neck Tee Herrenshirt Black S
 
 ℹ️:
 
-- ein tolles Modell für viele Anlässe, perfekt im Job oder in der Freizeit, für drunter oder einfach nur so, super angenehm zu tragen
-- modernes Basicshirt des angesagten Labels Jack & Jones
-- Top Preis-Leistungs-Verhältnis, beste Qualität, hervorragende Verarbeitung
-- Rundhals-Ausschnitt, hüftlang, gerader Schnitt, einfarbig
 - Passform: Regular Fit – normale Passform
+- ein tolles Modell für viele Anlässe, perfekt im Job oder in der Freizeit, für drunter oder einfach nur so, super angenehm zu tragen
+- Rundhals-Ausschnitt, hüftlang, gerader Schnitt, einfarbig
+- Top Preis-Leistungs-Verhältnis, beste Qualität, hervorragende Verarbeitung
+- modernes Basicshirt des angesagten Labels Jack & Jones
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0085SFXB0/?tag=tolees0ca-21)
