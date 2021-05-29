@@ -28,11 +28,11 @@ Es gibt ein [LEGO 10274 Creator Expert Ghostbusters ECTO-1 Auto großes 
 
 ℹ️:
 
+- Sind Ihnen Details besonders wichtig? Dieses detailgetreue Modell verfügt über eine gekrümmte Windschutzscheibe, ein modulares Lenkrad und einen Stein mit Ghostbusters-Logo, um jedes Zuhause oder Büro zu bereichern.
+- Dieses Bauset kommt völlig ohne Batterien aus – als Antrieb für stundenlanges Bauvergnügen reicht reines Ektoplasma! ;-)
 - Der Bildband enthält neben einer Schritt-für-Schritt-Bauanleitung auch Details zum Design sowie die Hintergrundgeschichte des ECTO-1 (Nur in englischer Sprache. Anderssprachige Versionen können auf LEGO.com/ecto-1-book heruntergeladen werden).
 - Der ECTO-1 ist 22,5 cm hoch, 47 cm lang und 16,5 cm breit und strotzt nur so vor authentischen Details, die ihn zu einem spektakulären Schaustück machen.
 - Das Modell ist kein normales Ghostbusters-Spielzeug. Das Auto ist ein Modellbausatz für Erwachsene und verfügt über eine funktionierende Lenkung, eine Falltür mit Geisterfalle, einen ausfahrbaren Hecksitz sowie über ein bewegliches Geisterspürgerät und weitere Ausrüstung zum Feststellen paranormaler Aktivitäten.
-- Dieses Bauset kommt völlig ohne Batterien aus – als Antrieb für stundenlanges Bauvergnügen reicht reines Ektoplasma! ;-)
-- Sind Ihnen Details besonders wichtig? Dieses detailgetreue Modell verfügt über eine gekrümmte Windschutzscheibe, ein modulares Lenkrad und einen Stein mit Ghostbusters-Logo, um jedes Zuhause oder Büro zu bereichern.
 - Der ECTO-1 als Modellauto spricht erwachsene Fans der Ghostbusters-Filme und der LEGO Steine an. Und er vermittelt stundenlanges Vergnügen und ein fesselndes Bauerlebnis. Ein tolles Geschenk für jeden, der gerne Modellautos baut.
 - Dieses Modell des ECTO-1 ist das ultimative Bauset für Fans der LEGO Steine und der Ghostbusters-Filme, die schon dem nächsten fesselnden Modellbauprojekt entgegenfiebern.
 
