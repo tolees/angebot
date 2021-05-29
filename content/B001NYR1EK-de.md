@@ -28,9 +28,9 @@ Sie können [KS Tools 150.2023 Hutkappenzange  200mm](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- problemloses Abziehen durch spezielles Zangenmaul
 - Chrom Vanadium
-- für die Montage und Demontage von Hutkappen
 - mit 2-Komponentengriff
+- für die Montage und Demontage von Hutkappen
+- problemloses Abziehen durch spezielles Zangenmaul
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001NYR1EK/?tag=tolees0ca-21)
