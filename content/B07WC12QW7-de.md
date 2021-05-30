@@ -28,7 +28,7 @@ Sie können [Lego 10701 Classic Graue Bauplatte  38 cm x 38 cm  Lernspielzeug  k
 
 ℹ️:
 
-- Eine echte Bereicherung für jede LEGO Sammlung
 - Die Graue Grundbauplatte (Modulgröße: 48x48) ist 38 cm breit und 38 cm lang
+- Eine echte Bereicherung für jede LEGO Sammlung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WC12QW7/?tag=tolees0ca-21)

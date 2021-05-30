@@ -28,10 +28,10 @@ Es gibt ein [ARCTIC F12 PWM - 120 mm PWM Gehäuselüfter  Case Fan mit Standardg
 
 ℹ️:
 
-- REGULIERUNG DURCH PWM: Die PWM-Funktion signalisiert über das Motherboard mit welcher Geschwindigkeit der Lüfter laufen muss. Dies garantiert eine maximale Kühlleistung bei minimalem Geräuschpegel
 - LANGE BETRIEBSDAUER: Das hydrodynamische Gleitlager ist mit einer Öl-Kapsel ausgestattet, so dass ein Verlust des Schmiermittels vermieden wird
 - INNOVATIVES DESIGN FÜR LEISE UND EFFIZIENTE BELÜFTUNG: Das innovative Design der Lüfterblätter verbessert den Luftfluss und die Möglichkeiten für eine deutlich effizientere Belüftung
-- TECHNISCHE DATEN: Lüftergeschwindigkeit: 230-1350 U/min., Luftstrom: 53 CFM/90.1 m³/h (@ 1350 U/min.), Geräuschpegel: 0,3 Sone (@ 1350 U/min.), Pin: 4 Pin
+- REGULIERUNG DURCH PWM: Die PWM-Funktion signalisiert über das Motherboard mit welcher Geschwindigkeit der Lüfter laufen muss. Dies garantiert eine maximale Kühlleistung bei minimalem Geräuschpegel
 - INDIVIDUELLE INSTALLATION: Warme Luft wird aus dem Gehäuse herausgepustet. Kalte Luft wird von außen in das Gehäuse eingezogen
+- TECHNISCHE DATEN: Lüftergeschwindigkeit: 230-1350 U/min., Luftstrom: 53 CFM/90.1 m³/h (@ 1350 U/min.), Geräuschpegel: 0,3 Sone (@ 1350 U/min.), Pin: 4 Pin
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08PZJNKWD/?tag=tolees0ca-21)
