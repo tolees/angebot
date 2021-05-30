@@ -28,10 +28,10 @@ Sie können [HOMCOM Kindersessel mit Fußhocker  Kindercouch mit Hocker  Kinders
 
 ℹ️:
 
-- ✅2-teiliger Satz: Dieses 2-teilige Set enthält 1 Kindersofa und 1 passenden Hocker, perfekt für 2 Kinder im Alter von 3 bis 7 Jahren.
-- ✅Modernes Design: Dieses Kindersofa im modernen und eleganten Stil mit glatter Oberfläche und gerollter Armlehne ist ein luxuriöser Sitzplatz für Ihr liebes Kind und ein Blickfang unter Ihren Möbeln.
-- ✅Stabile Struktur: Dieses Kindersofa besteht aus einem stabilen Holzrahmen und hält 60 kg aus, ideal für einen langen Gebrauch. 4 abnehmbare Beine an der Unterseite des Sofas bieten zusätzliche Stabilität.
-- ✅Weich und bequem: Mit PVC-Material bezogen, ist diese Garnitur verschleißfest und leicht zu reinigen. Der Sitz, die Rückenlehne und die Armlehne sind mit Schaumstoff gepolstert und sorgen so für den Komfort Ihres Kleinen.
 - ✅Produktdaten: Abmessung des Sofas: 83L x 42B x 41H cm; Abmessung des Hockers: 54L x 25B x 18H cm; Belastbarkeit des Sofas: 60 kg; Belastbarkeit des Hockers: 40kg. Geeignetes Alter: 3-7 Jahre alt.
+- ✅Modernes Design: Dieses Kindersofa im modernen und eleganten Stil mit glatter Oberfläche und gerollter Armlehne ist ein luxuriöser Sitzplatz für Ihr liebes Kind und ein Blickfang unter Ihren Möbeln.
+- ✅2-teiliger Satz: Dieses 2-teilige Set enthält 1 Kindersofa und 1 passenden Hocker, perfekt für 2 Kinder im Alter von 3 bis 7 Jahren.
+- ✅Weich und bequem: Mit PVC-Material bezogen, ist diese Garnitur verschleißfest und leicht zu reinigen. Der Sitz, die Rückenlehne und die Armlehne sind mit Schaumstoff gepolstert und sorgen so für den Komfort Ihres Kleinen.
+- ✅Stabile Struktur: Dieses Kindersofa besteht aus einem stabilen Holzrahmen und hält 60 kg aus, ideal für einen langen Gebrauch. 4 abnehmbare Beine an der Unterseite des Sofas bieten zusätzliche Stabilität.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LCHSDOY/?tag=tolees0ca-21)
