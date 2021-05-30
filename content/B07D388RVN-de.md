@@ -28,10 +28,10 @@ Es gibt ein [RÖSLE ELEGANCE Butter-/Saucenpfännchen  Hochwertige Stielkasserol
 
 ℹ️:
 
-- RÖSLE ELEGANCE Butter-/Saucenpfännchen: Hochwertige Stielkasserolle für kleine Mengen, Saucen oder geschmolzener Butter - ein Pfännchen für alle die Wert auf die Qualität ihrer Küchenausstattung legen
-- Der rundumlaufende Schüttrand bietet ein tropffreies Gießen - durch die Innenskalierung im Saucenpfännchen kann die Flüssigkeitsmenge genau abgemessen werden
 - Länge 27,5 cm - Breite 13,2 cm - Höhe 8 cm - Füllmenge 650 ml - Durchmesser 12 cm - Material Edelstahl 18/10, silberfarben/hochglänzend
 - Für alle Herdarten geeignet: Die Pfanne ist auf einem Elektro-, Keramik-, Gas-, und Induktionsherd nutzbar sowie für den Backofen geeignet
+- RÖSLE ELEGANCE Butter-/Saucenpfännchen: Hochwertige Stielkasserolle für kleine Mengen, Saucen oder geschmolzener Butter - ein Pfännchen für alle die Wert auf die Qualität ihrer Küchenausstattung legen
+- Der rundumlaufende Schüttrand bietet ein tropffreies Gießen - durch die Innenskalierung im Saucenpfännchen kann die Flüssigkeitsmenge genau abgemessen werden
 - Das Butterpfännchen hat einen gekapselten Edelstahlboden mit Aluminiumkern für optimale Wärmeverteilung, -speicherung und -leitung - so kann der Inhalt der Topfes im Handumdrehen erhitzt werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07D388RVN/?tag=tolees0ca-21)

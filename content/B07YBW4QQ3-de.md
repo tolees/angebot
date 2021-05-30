@@ -28,10 +28,10 @@ Sie können [Twelve South BookBook Hülle für iPad Mini 5 | Hardcover Leder-Etu
 
 ℹ️:
 
-- HALTEN SIE ALLES ZUSAMMEN: Das Innenfach hat Platz für einen Apple Pencil oder ein iPad-Stift, um den "Wo ist den jetzt schon wieder mein Apple Pencil?" -Moment zu verhindern.
-- VERSTECKEN SIE IHR IPAD: Das einzigartige Aussehen von BookBook wird oft nachgeahmt, aber keines kommt dem Original nahe. Wir verwenden traditionelle Buchbindungstechniken und Handveredelung, damit es seinem Namensvetter so nahe wie möglich kommt. So werden Diebe nie Ihr iPad finden.
-- Machen Sie viele Notizen oder kritzeln gerne? Ihr Chef wird es nie erfahren - ein iPad mit integriertem Stand zum bequemen Skizzieren und Tippen, während es in der H ülle sitzt.
 - PREMIUM-MATERIALIEN UND HANDWERK: Das Äußere des BookBook besteht aus handgefertigtem Vollnarbenleder, das mit der Zeit patiniert und mit dem Alter weicher wird. Ein separater Lederinnenrahmen ermöglicht den einfachen Zugang zu allen Anschlüssen, während ein Mikrofaserfutter Kratzer verhindert
+- VERSTECKEN SIE IHR IPAD: Das einzigartige Aussehen von BookBook wird oft nachgeahmt, aber keines kommt dem Original nahe. Wir verwenden traditionelle Buchbindungstechniken und Handveredelung, damit es seinem Namensvetter so nahe wie möglich kommt. So werden Diebe nie Ihr iPad finden.
 - 3-IN-1-DESIGN: Hardcover-Schutzhülle, Standfunktion und mit Freisprech-Anzeigemodus, um das Anzeigen von Videos oder FaceTime zu vereinfachen.
+- Machen Sie viele Notizen oder kritzeln gerne? Ihr Chef wird es nie erfahren - ein iPad mit integriertem Stand zum bequemen Skizzieren und Tippen, während es in der H ülle sitzt.
+- HALTEN SIE ALLES ZUSAMMEN: Das Innenfach hat Platz für einen Apple Pencil oder ein iPad-Stift, um den "Wo ist den jetzt schon wieder mein Apple Pencil?" -Moment zu verhindern.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07YBW4QQ3/?tag=tolees0ca-21)
