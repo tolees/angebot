@@ -28,8 +28,8 @@ Es gibt ein [Square Enix - Kingdom Hearts Melody of Memory  Playstation 4 ](http
 
 ℹ️:
 
+- Spiele alleine, zusammen im Ko-op-Modus oder kämpfe online im Mehrspielermodus
 - Erlebe die Geschichte von KINGDOM HEARTS mit einem komplett neuen Kapitel
 - Über 140 Lieder und 20 Charakteren
-- Spiele alleine, zusammen im Ko-op-Modus oder kämpfe online im Mehrspielermodus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GVHW2RT/?tag=tolees0ca-21)
