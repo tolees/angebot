@@ -28,9 +28,9 @@ Sie können [Alessi Bunny & Carrot ASG42W Design Küchenrollhalter  Thermoplasti
 
 ℹ️:
 
-- Verfügbare Farben: Weiß, Grün
 - Design Küchenrollhalter in Karottenform mit Hasenrollenhalter
 - Materialen: Termoplaschiches Harz
+- Verfügbare Farben: Weiß, Grün
 - Dimensionen: Höhe 29,40 cm, Länge 20,20 cm, Breite 16 cm
 - Designer: Stefano Giovannoni
 
