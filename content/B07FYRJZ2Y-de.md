@@ -28,10 +28,10 @@ Es gibt ein [San Pellegrino - Sanpellegrino | Zitrone-Minze Limonade | Limone E 
 
 ℹ️:
 
-- NATÜRLICH: Wir verwenden ausschließlich natürliche Zutaten und sind frei von künstlichen Farbstoffen - unsere sonnengereifte Früchte machen unseren Softdrink zu einem prickelnden Erlebnis
 - FRUCHTIG: Mit 16 Prozent Fruchtanteil verleihen wir unserer Limo den unnachahmlich italienischen Geschmack hausgemachter Limonade aus Mineralwasser und einem Schuss spritziger Zitrone und Pfefferminzaufguss
-- SPRITZIG: Angenehm prickelnd entfaltet unsere Limonade seine säuerlich süße Note gefolgt von aromatischer Minze – ein Genuss für sich allein oder auch als Mixgetränk
-- ZITRONE MINZE: Eine geniale Kombination aus spritzigen Zitronen und aromatischer Minze - die perfekte Balance zwischen säuerlich und süß
+- NATÜRLICH: Wir verwenden ausschließlich natürliche Zutaten und sind frei von künstlichen Farbstoffen - unsere sonnengereifte Früchte machen unseren Softdrink zu einem prickelnden Erlebnis
 - PRAKTISCH: Die 0,33 L- Dosen sind dank abziehbaren Foliendeckels ideal für unterwegs und bleiben immer schön sauber – der 24er Pack garantiert langanhaltenden Trinkgenuss
+- ZITRONE MINZE: Eine geniale Kombination aus spritzigen Zitronen und aromatischer Minze - die perfekte Balance zwischen säuerlich und süß
+- SPRITZIG: Angenehm prickelnd entfaltet unsere Limonade seine säuerlich süße Note gefolgt von aromatischer Minze – ein Genuss für sich allein oder auch als Mixgetränk
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FYRJZ2Y/?tag=tolees0ca-21)

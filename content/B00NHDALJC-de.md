@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '23.03 % rabat auf devolo dLAN 1200+ WiFi ac Powerline  120'
-date: 2021-05-29 18:52:17
+title: '22.12 % rabat auf devolo dLAN 1200+ WiFi ac Powerline  120'
+date: 2021-05-31 19:38:47
 image: 'https://m.media-amazon.com/images/I/31D606iQ-eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B00NHDALJC-de devolo dLAN 1200+ WiFi ac Powerline 1200 Mbit/s WLAN ac 2...'
 sku: 'B00NHDALJC-de'
 tags: [ 'Computer & Zubehör','Netzwerkgeräte','PowerLAN-Adapter','devolo', ]
-actualPrice: 99.99 EUR
+actualPrice: 101.16 EUR
 currency: EUR
-price: 99.99
+price: 101.16
 comparePrice: 129.9 EUR
 prodname: 'devolo dLAN 1200+ WiFi ac Powerline  1200 Mbit/s WLAN ac  2 4 und 5 GHz gleichzeitig  2x LAN Ports  1x Powerlan Adapter ideal für Online Gaming und HD-Streaming  WLAN Booster  WiFi Move  weiß'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21'
-descuento: '23.03'
-average: '101.779045643154'
+descuento: '22.12'
+average: '101.776487603306'
 ---
 
-Es gibt ein [devolo dLAN 1200+ WiFi ac Powerline  1200 Mbit/s WLAN ac  2 4 und 5 GHz gleichzeitig  2x LAN Ports  1x Powerlan Adapter ideal für Online Gaming und HD-Streaming  WLAN Booster  WiFi Move  weiß](https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21) mit aktuellem Preis 99.99 EUR (original: 129.9 EUR) 23.03 % Rabatt hier:
+Es gibt ein [devolo dLAN 1200+ WiFi ac Powerline  1200 Mbit/s WLAN ac  2 4 und 5 GHz gleichzeitig  2x LAN Ports  1x Powerlan Adapter ideal für Online Gaming und HD-Streaming  WLAN Booster  WiFi Move  weiß](https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21) mit aktuellem Preis 101.16 EUR (original: 129.9 EUR) 22.12 % Rabatt hier:
 
 [![devolo dLAN 1200+ WiFi ac Powerline  120](https://m.media-amazon.com/images/I/31D606iQ-eL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21)
 
 ℹ️:
 
 - WLAN aus jeder Steckdose mit ac-Geschwindigkeit von bis zu 1200 Mbit/s für Smartphone, Tablet, Laptop, etc.
+- Der Ergänzungsadapter erweitert Ihr vorhandenes Heimnetzwerk (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
 - Mit der integrierten Steckdose inklusive Kindersicherung geht kein Stromanschluss im Raum verloren
 - Lieferumfang:- 1x dLAN 1200+ WiFi ac mit Steckdose, 2 X Gigabit LAN
 - Mit zwei integrierten Fast-Ethernet-LAN Anschlüssen für Ihre internetfähigen Geräte (Smart-TV, Spielekonsole, PC, etc.)
-- Der Ergänzungsadapter erweitert Ihr vorhandenes Heimnetzwerk (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21)

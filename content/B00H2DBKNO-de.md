@@ -28,10 +28,10 @@ Es gibt ein [San Pellegrino - Sanpellegrino | Grapefruit Limonade | Pompelmo | H
 
 ℹ️:
 
-- GRAPEFRUIT: Saftige Grapefruits machen unsere Limonade zu einem wahrhaftig frischen Durstlöscher zu jeder Tageszeit, ob bei der Arbeit, in der Uni oder einfach unterwegs – der einzigartige Geschmack erfrischt rund um die Uhr, ohne dabei zu süß zu sein
-- NATÜRLICH: Wir verwenden ausschließlich natürliche Zutaten für unsere Limo und sind frei von künstlichen Farbstoffen – unsere sonnengereiften Früchte verleihen unserem Softdrink einen herb-fruchtigen Geschmack und machen ihn zu einem prickelnden Erlebnis
-- FRUCHTIG: Mit 16% Fruchtanteil verleihen wir unserer Limo den unnachahmlich italienischen Geschmack eines bitter-süßen Erfrischungsgetränks hausgemachter Limonade aus Mineralwasser und einem Schuss frisch gepresster Grapefruits
 - SPRITZIG: Angenehm prickelnd entfaltet unsere Grapefruit-Limonade seine süßliche Note gefolgt vom bitter-süßen Aroma und lang anhaltenden Geschmack ausgepresster Grapefruits – ein Genuss für sich allein oder auch als Mixgetränk
+- NATÜRLICH: Wir verwenden ausschließlich natürliche Zutaten für unsere Limo und sind frei von künstlichen Farbstoffen – unsere sonnengereiften Früchte verleihen unserem Softdrink einen herb-fruchtigen Geschmack und machen ihn zu einem prickelnden Erlebnis
+- GRAPEFRUIT: Saftige Grapefruits machen unsere Limonade zu einem wahrhaftig frischen Durstlöscher zu jeder Tageszeit, ob bei der Arbeit, in der Uni oder einfach unterwegs – der einzigartige Geschmack erfrischt rund um die Uhr, ohne dabei zu süß zu sein
 - PRAKTISCH: Die 0,33 L-Dosen sehen nicht nur richtig schick aus, sondern sind dank abziehbaren Foliendeckels ideal für unterwegs und bleiben immer schön sauber – der 24er Pack garantiert langanhaltenden Trinkgenuss
+- FRUCHTIG: Mit 16% Fruchtanteil verleihen wir unserer Limo den unnachahmlich italienischen Geschmack eines bitter-süßen Erfrischungsgetränks hausgemachter Limonade aus Mineralwasser und einem Schuss frisch gepresster Grapefruits
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00H2DBKNO/?tag=tolees0ca-21)
