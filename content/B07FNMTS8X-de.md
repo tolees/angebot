@@ -28,10 +28,10 @@ Es gibt ein [LEGO 60210 City Polizei Fliegerstützpunkt  Flugzeug mit Fallschirm
 
 ℹ️:
 
-- Enthält eine dreistöckige Polizeistation mit Kontrollturm, Lager für den Raketenrucksack, Büro, drehbarer Radarschüssel auf dem Dach, einem angeschlossenen Werkzeuglager und einer Gefängniszelle mit Bett und einreißbarer Wand.
 - Drehe die Radarschüssel auf der Polizeistation, um den Flugverkehr zu überwachen.
+- Als Zubehör sind eine Kaffeemaschine samt Tasse, ein PC-Monitor, 2 Kontrollturmmonitore, 3 Paar Handschellen, 2 Funkgeräte, 3 Helme mit Visier zum Öffnen, eine Polizeimütze und eine Überwachungskamera enthalten.
+- Enthält eine dreistöckige Polizeistation mit Kontrollturm, Lager für den Raketenrucksack, Büro, drehbarer Radarschüssel auf dem Dach, einem angeschlossenen Werkzeuglager und einer Gefängniszelle mit Bett und einreißbarer Wand.
 - Enthält 6 LEGO City Minifiguren: 2 Fliegerpolizisten, 2 Polizisten und 2 Ganoven.
 - Enthält außerdem ein Polizeiflugzeug-Spielzeug mit abnehmbarer Nase und einer Bodenklappe als Ausgang für den inbegriffenen dünnen Fallschirm aus beschichtetem Gewebe, einen Spielzeug-Raketenrucksack mit ausklappbaren Flügeln, ein Spielzeug-Polizeimotorrad und das Spielzeug-Fluchtauto der Ganoven mit Kette und Haken.
-- Als Zubehör sind eine Kaffeemaschine samt Tasse, ein PC-Monitor, 2 Kontrollturmmonitore, 3 Paar Handschellen, 2 Funkgeräte, 3 Helme mit Visier zum Öffnen, eine Polizeimütze und eine Überwachungskamera enthalten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNMTS8X/?tag=tolees0ca-21)
