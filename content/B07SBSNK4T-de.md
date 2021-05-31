@@ -28,10 +28,10 @@ Es gibt ein [RENPHO Digitale Personenwaage  Ultraschlanke Körperwaage mit Hochp
 
 ℹ️:
 
-- Hochpräzise Sensoren: Die Waage ist ausgestattet mit vier hochwertigen Sensoren und zeigt das Gewicht bis zu 180kg/400lbs in präzisen 50g-Schritten an.
-- Schlicht und Robust: Kompaktes Design mit abgerundeten Ecken verleiht der Waage ein modernes und elegantes Aussehen. Wiegefläche besteht aus 5mm dickem gehärtetem Sicherheitsglas. Vier Rutschhemmende Füße sorgen für hohe Standsicherheit.
-- Step-On-Technik: Beim Betreten der Wiegefläche schaltet sich die Waage direkt ein und nach dem Wiegen automatisch wieder aus.
 - Multifunktionen: Hinterleuchtetes LED-Display ist bei schwierigen Lichtverhältnissen auch gut lesbar, Automatische Ein-/Ausschaltfunktion, schwache Batterieanzeige und Überlastanzeige.
 - 2 x AAA Batterien im Lieferumfang enthalten, bruchsicher verpackt.
+- Schlicht und Robust: Kompaktes Design mit abgerundeten Ecken verleiht der Waage ein modernes und elegantes Aussehen. Wiegefläche besteht aus 5mm dickem gehärtetem Sicherheitsglas. Vier Rutschhemmende Füße sorgen für hohe Standsicherheit.
+- Hochpräzise Sensoren: Die Waage ist ausgestattet mit vier hochwertigen Sensoren und zeigt das Gewicht bis zu 180kg/400lbs in präzisen 50g-Schritten an.
+- Step-On-Technik: Beim Betreten der Wiegefläche schaltet sich die Waage direkt ein und nach dem Wiegen automatisch wieder aus.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07SBSNK4T/?tag=tolees0ca-21)
