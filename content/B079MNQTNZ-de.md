@@ -28,10 +28,10 @@ Sie können [Playmobil City Action 9464 Feuerwehr-Rüstfahrzeug mit Licht und So
 
 ℹ️:
 
-- Spielspaß für kleine Feuerwehrmänner: PLAYMOBIL Feuerwehr-Rüstfahrzeug mit coolen Licht- & Soundeffekten, Viel Zubehör für detailgetreues Nachspielen
 - 2 Figuren, Abnehmbares Dach, Führerhaus platzbietend für 4 Figuren, Stauraum für Ausrüstung, uvm., Passend zu Feuerwehrmännern mit Löschpumpe (9468)
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Lieferumfang: 1x PLAYMOBIL City Action Feuerwehr-Rüstfahrzeug, 138-teiliges Spielfiguren-Set mit Anleitung: 1 Feuerwehr-Rüstfahrzeug, 2 Figuren, 135 Zubehörteile (wird ohne 2 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 28x13x16 cm, Art.-Nr. 9464
+- Spielspaß für kleine Feuerwehrmänner: PLAYMOBIL Feuerwehr-Rüstfahrzeug mit coolen Licht- & Soundeffekten, Viel Zubehör für detailgetreues Nachspielen
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079MNQTNZ/?tag=tolees0ca-21)
