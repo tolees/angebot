@@ -28,8 +28,8 @@ Sie können [adidas Herren E 3S TT TRIC Sweatshirt  Black/White  L](https://www.
 
 ℹ️:
 
-- Full Zip; ribbed hem
-- High neck
 - Regular Fit
+- High neck
+- Full Zip; ribbed hem
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KN69DLL/?tag=tolees0ca-21)
