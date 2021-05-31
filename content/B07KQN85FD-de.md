@@ -28,9 +28,9 @@ Sie können [adidas Herren Varilite Ho JKT Sport Jacket  Legend Ink  S](https://
 
 ℹ️:
 
-- Lange Ärmel mit elastischen Manschetten
 - Gewebe-Art: Außenmaterial: 100% Polyester
-- Hoher Hals
 - Schlanke Passform liegt eng am Körper und an den Armen an
+- Hoher Hals
+- Lange Ärmel mit elastischen Manschetten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KQN85FD/?tag=tolees0ca-21)
