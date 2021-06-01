@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'JBL LIVE 300TWS In-Ear Bluetooth Kopfhör mit 34.91 % Rabatt'
-date: 2021-05-24 17:59:27
+title: 'JBL LIVE 300TWS In-Ear Bluetooth Kopfhör mit 33.62 % Rabatt'
+date: 2021-06-01 01:26:42
 image: 'https://m.media-amazon.com/images/I/31B1I7u9GAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: 'tole.es'
 slug: 'B07XRYDQRQ-de JBL LIVE 300TWS In-Ear Bluetooth Kopfhörer in Schwarz –...'
 sku: 'B07XRYDQRQ-de'
 tags: [ 'Elektronik & Foto','HiFi-Kopfhörer','Kopfhörer','Kopfhörer & Zubehör','jbl', ]
-actualPrice: 96.99 EUR
+actualPrice: 98.9 EUR
 currency: EUR
-price: 96.99
+price: 98.9
 comparePrice: 149.0 EUR
 prodname: 'JBL LIVE 300TWS In-Ear Bluetooth Kopfhörer in Schwarz – True Wireless Ohrhörer mit Freisprecheinrichtung – Bis zu 6 Stunden Akkulaufzeit mit einer Ladung – Inkl. Ladecase'
 country: 'de'
 flag: '🇩🇪'
 brand: 'JBL'
 buyurl: 'https://www.amazon.de/dp/B07XRYDQRQ/?tag=tolees0ca-21'
-descuento: '34.91'
-average: '99.5365384615392'
+descuento: '33.62'
+average: '99.5245283018875'
 ---
 
-Sie können [JBL LIVE 300TWS In-Ear Bluetooth Kopfhörer in Schwarz – True Wireless Ohrhörer mit Freisprecheinrichtung – Bis zu 6 Stunden Akkulaufzeit mit einer Ladung – Inkl. Ladecase](https://www.amazon.de/dp/B07XRYDQRQ/?tag=tolees0ca-21) mit Preis 96.99 EUR (original: 149.0 EUR) 34.91 % Rabatt hier:
+Sie können [JBL LIVE 300TWS In-Ear Bluetooth Kopfhörer in Schwarz – True Wireless Ohrhörer mit Freisprecheinrichtung – Bis zu 6 Stunden Akkulaufzeit mit einer Ladung – Inkl. Ladecase](https://www.amazon.de/dp/B07XRYDQRQ/?tag=tolees0ca-21) mit Preis 98.9 EUR (original: 149.0 EUR) 33.62 % Rabatt hier:
 
 [![JBL LIVE 300TWS In-Ear Bluetooth Kopfhör](https://m.media-amazon.com/images/I/31B1I7u9GAL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07XRYDQRQ/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Echte Freiheit spüren: Die komplett kabellosen In-Ear-Kopfhörer bieten alle Freiheiten, die auch ohne Kopfhörer genossen werden können - jedoch untermalt von erstklassigem Sound
 - Ein leistungsstarker Lithium-Akku ermöglicht bis zu 6 Stunden Wiedergabezeit / Über die Ladebox sind 14 weitere Stunden Musikgenuss möglich
 - Dank Ambient Aware-Funktion können relevante Umgebungsgeräusche trotz Kopfhörer wahrgenommen werden / Die TalkThru-Technologie ermöglicht die Unterhaltung ohne die Hörer abnehmen zu müssen
-- Echte Freiheit spüren: Die komplett kabellosen In-Ear-Kopfhörer bieten alle Freiheiten, die auch ohne Kopfhörer genossen werden können - jedoch untermalt von erstklassigem Sound
-- Der ideale Trainingspartner: Dank IPX5 Schutzklasse ist der JBL LIVE 300 der perfekte Entertainer beim Sport, egal bei welchem Wetter - Schweiß und Wasser haben keine Chance.
+- Der ideale Trainingspartner: Dank IPX5 Schutzklasse ist der JBL LIVE 300 der perfekte Entertainer beim Sport, egal bei welchem Wetter - Schweiß und Wasser haben keine Chance. Bluetooth-Version: 5.0, Bluetooth-Profile: A2DP 1.3, AVRCP 1.5, HFP 1.6.
 - Lieferumfang: 1 x JBL LIVE 300TWS Bluetooth Kopfhörer in Schwarz inkl. Ladekabel, Ladebox, 3 Ohrstöpseln (S,M,L) & 4 Ohrpassstücken (SS,S,M,L) / Kompatibel mit Alex und Google Assistant
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XRYDQRQ/?tag=tolees0ca-21)
