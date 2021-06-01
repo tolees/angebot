@@ -29,10 +29,10 @@ Sie können [De’Longhi - De Longhi Dinamica ECAM 350.55.B Kaffeevollautomat mi
 ℹ️:
 
 - EINFACHE BEDIENUNG: Die DeLonghi Kaffeemaschine verfügt über Direktwahltasten für Espresso, Kaffee, Cappuccino und Latte Macchiato
+- STIFTUNG WARENTEST: Bester Milchschaum im Test (Ausgabe 12/2017)
 - LATTECREMA-SYSTEM: Patentiertes Milchaufschäumsystem für besonders cremigen, feinporigen Milchschaum für den idealen Cappuccino – die Reinigung erfolgt automatisch per Drehregler
 - INDIVIDUELL: Speichern Sie Ihre persönlichen Vorlieben von Aroma, Kaffee- und Milchmenge für alle Getränke
 - HOCHWERTIGES MAHLWERK: Das 13-stufige Kegelmahlwerk kann individuell eingestellt werden, es passen 200 g Kaffeebohnen in den Behälter – der Vollautomat eignet auch für die Nutzung mit Kaffeepulver
-- STIFTUNG WARENTEST: Bester Milchschaum im Test (Ausgabe 12/2017)
 - LEICHTE REINIGUNG: Die kompakte Brühgruppe ist wartungsarm, lässt sich vollständig aus der Kaffeemaschine herausnehmen und ermöglicht so eine einfache Reinigung des Maschineninnenraums
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01JOYVGFK/?tag=tolees0ca-21)
