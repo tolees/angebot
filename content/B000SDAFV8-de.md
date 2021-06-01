@@ -28,10 +28,10 @@ Es gibt ein [TFA Dostmann Diva Plus Funk-Wetterstation  Raumklimakontrolle  Wett
 
 ℹ️:
 
-- bis zu 3 Sender anschließbar
+- modernes Design
 - inkl. Batterie
 - Wettervorhersage
+- bis zu 3 Sender anschließbar
 - Luftdruckanzeige
-- modernes Design
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000SDAFV8/?tag=tolees0ca-21)

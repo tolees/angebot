@@ -28,10 +28,10 @@ Es gibt ein [Träumeland TT12501 Bettset Krönchen  4-teilig  rosa](https://www.
 
 ℹ️:
 
-- 4-teiliges Bettset: Kopfkissenbezug (40 x 60 cm) + Deckenbezug (100 x 135 cm) + Himmel + Nestchen (180 x 36 cm)
-- Deckenbezug und Kissen: 100% feinste Baumwolle, bei 60°C waschbar und trocknergeeignet
-- Himmel aus Voile, bis 30°C waschbar
 - passend für Gitterbetten der Größe 70x140cm und 60x120 cm
+- 4-teiliges Bettset: Kopfkissenbezug (40 x 60 cm) + Deckenbezug (100 x 135 cm) + Himmel + Nestchen (180 x 36 cm)
+- Himmel aus Voile, bis 30°C waschbar
+- Deckenbezug und Kissen: 100% feinste Baumwolle, bei 60°C waschbar und trocknergeeignet
 - Nestchen mit Bindfäden, bis 40°C waschbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009S3NZ8O/?tag=tolees0ca-21)
