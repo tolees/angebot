@@ -28,7 +28,7 @@ Sie können [BALLISTOL 82174 21150  Mehrfarbig  500 ml](https://www.amazon.de/dp
 
 ℹ️:
 
-- BALLISTOL wird in Deutschland seit über vier Generationen hergestellt und weltweit vertrieben.
 - Ursprünglich als Waffenöl für das kaiserliche Heer entwickelt, wurde es bald ein geschätztes Hausmittel in Deutschland, Österreich und in der Schweiz.
+- BALLISTOL wird in Deutschland seit über vier Generationen hergestellt und weltweit vertrieben.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003OAOY5K/?tag=tolees0ca-21)

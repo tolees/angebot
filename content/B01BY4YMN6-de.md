@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.59 % rabat auf Lavazza Kaffeebohnen - Caffè Crema Dolce'
-date: 2021-05-28 13:36:01
+date: 2021-06-01 11:29:55
 image: 'https://m.media-amazon.com/images/I/41KVSZDZXVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Lavazza'
 buyurl: 'https://www.amazon.de/dp/B01BY4YMN6/?tag=tolees0ca-21'
 descuento: '28.59'
-average: '9.86333333333333'
+average: '9.895'
 ---
 
 Es gibt ein [Lavazza Kaffeebohnen - Caffè Crema Dolce - 1er Pack  1 x 1.1 kg ](https://www.amazon.de/dp/B01BY4YMN6/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 13.99 EUR) 28.59 % Rabatt hier:
@@ -29,8 +29,8 @@ Es gibt ein [Lavazza Kaffeebohnen - Caffè Crema Dolce - 1er Pack  1 x 1.1 kg ](
 ℹ️:
 
 - Bohne für Vollautomaten und Siebträger
+- Ideal als großer Caffè
 - Der besonders milde Geschmack: jetzt auch mit 10% mehr Inhalt
 - Weich und mild
-- Ideal als großer Caffè
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BY4YMN6/?tag=tolees0ca-21)
