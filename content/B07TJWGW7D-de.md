@@ -28,8 +28,8 @@ Sie können [Skechers Herren Oxford  Blau  Navy   44 EU](https://www.amazon.de/d
 
 ℹ️:
 
-- Zielgeschlecht: männlich
 - Klassische Passform
+- Zielgeschlecht: männlich
 - Goga Matte Arch
 - Luftgekühlter Memory-Schaumstoff
 
