@@ -28,10 +28,10 @@ Sie können [3M - Nexcare N15710D ColdHot Kalt-/Warmkompresse Flexibel](https://
 
 ℹ️:
 
-- Warm lindert die Kompresse Beschwerden wie z.B. Rückenschmerzen, Menstruationsschmerzen, usw.. Die Kalt-/Warmkompresse ist wiederverwendbar.
-- Passt sie sich leicht an den Körper an und kann mittels des Verschlusses einfach fixiert werden.Das Produkt ist zu 99,9% biologisch abbaubar
 - Für Kaltanwendungen: Kalt hilft die Kompresse z.B. bei Prellungen, Kopfschmerzen, Zahnschmerzen, Insektenstichen oder akuten Entzündungen
-- Die Nexcare ColdHot Flexible Kalt-/Warmkompresse ist die praktische Lösung für eine medikamentenfreie Behandlung - sie kühlt oder wärmt
+- Warm lindert die Kompresse Beschwerden wie z.B. Rückenschmerzen, Menstruationsschmerzen, usw.. Die Kalt-/Warmkompresse ist wiederverwendbar.
 - Für die Kaltanwendung bewahren Sie die Kompresse in der Tiefkühltruhe auf. Für die Wärmetherapie erhitzen Sie sie im Wasserbad, 235mmx110mm.
+- Passt sie sich leicht an den Körper an und kann mittels des Verschlusses einfach fixiert werden.Das Produkt ist zu 99,9% biologisch abbaubar
+- Die Nexcare ColdHot Flexible Kalt-/Warmkompresse ist die praktische Lösung für eine medikamentenfreie Behandlung - sie kühlt oder wärmt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00HLVY9MQ/?tag=tolees0ca-21)

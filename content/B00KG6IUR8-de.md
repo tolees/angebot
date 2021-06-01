@@ -28,10 +28,10 @@ Es gibt ein [Outdoorchef LEON 570 G schwarz BBQ Gasgrill Kugelgrill  18.127.72](
 
 ℹ️:
 
-- Integriertes Deckelscharnier und Thermometer.
-- Drehbarer porzellanemaillierter EASY FLIP Trichter für direktes und indirektes Grillen.
-- Nivellierbare Kugel
 - Gasflasche bis 5 kg auf Bodenablage platzierbar
 - 1-Ring Brennersystem mit elektrischer Mehrfachzündung.
+- Nivellierbare Kugel
+- Integriertes Deckelscharnier und Thermometer.
+- Drehbarer porzellanemaillierter EASY FLIP Trichter für direktes und indirektes Grillen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00KG6IUR8/?tag=tolees0ca-21)

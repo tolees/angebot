@@ -28,11 +28,11 @@ Sie können [Duracell Ultra Power Typ D Alkaline Batterien  2er Pack](https://ww
 
 ℹ️:
 
-- Die Duralock-Technologie erhält eingelagerte unbenutzte Duracell Batterien bis zu 10 Jahre lang im frischen und geladenen Zustand.
 - Unsere beste Batterie, für Alltagsgeräte geeignet, mit mehr Leistung für energieintensive Geräte.
-- Hinweis: Die Verpackung kann variieren
-- In der Duracell Ultra Power Batterie wird die einzigartige Powercheck Technologie verwendet, mit der die in jeder Batterie noch vorhandene Power geprüft werden kann.
-- Unsere fortschrittlichsten Batterien (im Vergleich zu Alkaline AAA/C/D Zellen)
 - in den Größen AAA, AA, C, D und 9 V lieferbar
+- In der Duracell Ultra Power Batterie wird die einzigartige Powercheck Technologie verwendet, mit der die in jeder Batterie noch vorhandene Power geprüft werden kann.
+- Hinweis: Die Verpackung kann variieren
+- Die Duralock-Technologie erhält eingelagerte unbenutzte Duracell Batterien bis zu 10 Jahre lang im frischen und geladenen Zustand.
+- Unsere fortschrittlichsten Batterien (im Vergleich zu Alkaline AAA/C/D Zellen)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00443UQLC/?tag=tolees0ca-21)
