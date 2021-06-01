@@ -28,10 +28,10 @@ Sie können [Brennenstuhl Eco-Line  Steckdosenleiste 3-fach  Steckerleiste mit e
 
 ℹ️:
 
+- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 - Lieferumfang: 1 x Eco-Line Steckdosenleiste in der Farbe lichtgrau - in bester Qualität von brennenstuhl
 - 3er Schutzkontakt-Steckdosenleiste mit 1,5 m Kabellänge H05VV-F 3G1,5
-- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
-- Schutzkontakt-Steckdosen in 45°-Anordnung, auch für Winkelstecker
 - Steckerleiste mit erhöhtem Berührungsschutz: Kunststoffplättchen verschließen die Kontakte der Steckdose
+- Schutzkontakt-Steckdosen in 45°-Anordnung, auch für Winkelstecker
 
 [🛒 Hier!!](https://www.amazon.de/dp/B002OI55EC/?tag=tolees0ca-21)
