@@ -29,11 +29,11 @@ Sie können [JVC KD-X472DBT USB-Autoradio mit DAB+ und Bluetooth Freisprecheinri
 ℹ️:
 
 - Mit optionalem Adapter lässt sich das Radio über die Original-Lenkradfernbedienung steuern
-- Alexa built-in; deutsches Menü einstellbar; BT-Freisprechfunktion (HFP1. 7) und Audiostreaming mit AVRCP 1. 6 für alle Smartphones; Easy Pairing via USB für iPhone; 2 Telefone gleichzeitig koppelbar; einfacher Einbau durch geringere Gerätetiefe
-- Lieferumfang: Einbaurahmen, Frontblende, Entriegelungswerkzeug, Freisprechmikrofon, ISO-Adapterkabel, DAB+ Antenne*
-- Parametrischer 13 Band iEQ und digitaler Soundprozessor mit Laufzeitkorrektur; Helligkeitsanpassung (Display/Tasten); Remote App zur umfangreichen Fernsteuerung via Smartphone; Audiostreaming für bis zu 5 Geräte parallel
 - DAB+ für störungsfreies Digitalradio; unterbrechungsfreie Umschaltung zwischen DAB/UKW („Seamless Blending“); USB-Anschluss (MP3/WMA/WAV/FLAC) mit iPhone/iPod-Steuerung und 1, 5A-Ladefunktion
+- Parametrischer 13 Band iEQ und digitaler Soundprozessor mit Laufzeitkorrektur; Helligkeitsanpassung (Display/Tasten); Remote App zur umfangreichen Fernsteuerung via Smartphone; Audiostreaming für bis zu 5 Geräte parallel
 - MOS-FET Verstärker 4 x 50 W für kraftvollen Sound; 3 Vorverstärkerausgänge mit 2. 5 V (Front+Rear+Subwoofer); abnehmbares Bedienteil, 13-stelliges LC-VA-Display mit guter Ablesbarkeit
+- Alexa built-in; deutsches Menü einstellbar; BT-Freisprechfunktion (HFP1. 7) und Audiostreaming mit AVRCP 1. 6 für alle Smartphones; Easy Pairing via USB für iPhone; 2 Telefone gleichzeitig koppelbar; einfacher Einbau durch geringere Gerätetiefe
 - *** Bitte beachten: Einige Anbieter liefern dieses Modell ohne DAB+ Antenne aus. Bitte vorher beim Verkäufer anfragen! ***
+- Lieferumfang: Einbaurahmen, Frontblende, Entriegelungswerkzeug, Freisprechmikrofon, ISO-Adapterkabel, DAB+ Antenne*
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083WKFJ9G/?tag=tolees0ca-21)

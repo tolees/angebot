@@ -28,10 +28,10 @@ Sie können [GORE WEAR Herren Lauf-Tights  R5  GORE-TEX INFINIUM  L  Schwarz](ht
 
 ℹ️:
 
-- Enganliegende Passform für minimalen Luftwiderstand und optimale Performance/Läuferspezifischer Schnitt
 - Herren Tights für Läufer zum Schutz vor Wind und leichtem Regen
-- GORE WINDSTOPPER Laminat für Windschutz an kälteexponierten Stellen (z. B. Gesäß- und Kniebereich), Media-Tasche am linken Oberschenkel
-- GORE R5 GORE-TEX INFINIUM Tights, Größe: L, Farbe: Schwarz, 100659
 - GORE-TEX INFINIUM mit WINDSTOPPER Produkttechnologie: Winddicht, stark wasserabweisend und extrem atmungsaktiv
+- GORE WINDSTOPPER Laminat für Windschutz an kälteexponierten Stellen (z. B. Gesäß- und Kniebereich), Media-Tasche am linken Oberschenkel
+- Enganliegende Passform für minimalen Luftwiderstand und optimale Performance/Läuferspezifischer Schnitt
+- GORE R5 GORE-TEX INFINIUM Tights, Größe: L, Farbe: Schwarz, 100659
 
 [🛒 Hier!!](https://www.amazon.de/dp/B082YD33BZ/?tag=tolees0ca-21)
