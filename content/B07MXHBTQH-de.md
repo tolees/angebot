@@ -28,10 +28,10 @@ Sie können [Enermax RGB-Wasserkühlung Liqfusion 360mm  ELC-LF360-RGB ](https:/
 
 ℹ️:
 
-- Die hocheffiziente Keramikpumpe mit einer Gummiummantelung ist an den Schläuchen befestigt, um eine optimale Schwingungsdämpfung und einen geräuscharmen Betrieb zu gewährleisten.
-- Die ENERMAX T.B. RGB Lüfter unterstützen die neueste adressierbare RGB-Sync-Technologie für ein einzigartiges RGB Erlebnis. Die Lüfterblätter vom T.B. RGB sind für einen geräuscharmen Betrieb optimiert und die Drehzahl kann über PWM auf 500 U/min abgesenkt werden.
 - Die Synchronisierbare RGB-Beleuchtung ist über adressierbare RGB-Header der Motherboards von Asrock, MSI und Gigabyte möglich. Programmierbare Lichteffekte über die Motherboardsoftware.
 - Die hochwertigen gewebten Schläuche besteht aus flexiblem und langlebigem Polyamidgummi mit mehreren Schichten, die einen wasserundurchlässigen und langlebigen Betrieb gewährleisten. Die Schläuche bieten durch eine Länge von 400mm eine einfache Systemmontage.
+- Die ENERMAX T.B. RGB Lüfter unterstützen die neueste adressierbare RGB-Sync-Technologie für ein einzigartiges RGB Erlebnis. Die Lüfterblätter vom T.B. RGB sind für einen geräuscharmen Betrieb optimiert und die Drehzahl kann über PWM auf 500 U/min abgesenkt werden.
+- Die hocheffiziente Keramikpumpe mit einer Gummiummantelung ist an den Schläuchen befestigt, um eine optimale Schwingungsdämpfung und einen geräuscharmen Betrieb zu gewährleisten.
 - Der RGB-Wasserblock mit adressierbarem LED-Ring und patentierter Durchflussanzeige ermöglicht die Überwachung von Kühlkreislauf und Kühlmittelstand.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MXHBTQH/?tag=tolees0ca-21)
