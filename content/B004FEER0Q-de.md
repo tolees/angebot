@@ -28,9 +28,9 @@ Es gibt ein [Intex Pool Maintenance Kit - Poolzubehör - Pool Reinigungsset - 2-
 
 ℹ️:
 
+- Aluminium Teleskopstange mit einer Länge von 239 cm
+- Bestehend aus Laub- bzw. Bodenkescher
 - Lieferumfang: Intex Pool Reinigungsset, Teleskopstiel 239 cm, Kescher für Boden und Oberfläche, Bodensauger
 - Bodensauger funktioniert nach Venturi-Prinzip (einfach an den Gartenschlauch anschließen)
-- Bestehend aus Laub- bzw. Bodenkescher
-- Aluminium Teleskopstange mit einer Länge von 239 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004FEER0Q/?tag=tolees0ca-21)

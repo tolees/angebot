@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Brennenstuhl Eco-Line  Steckdosenleiste  mit 41.03 % Rabatt'
-date: 2020-10-02 13:03:54
-image: 'https://m.media-amazon.com/images/I/31YwFeXxuOL._SL400_.jpg'
+title: 'Brennenstuhl Eco-Line  Steckdosenleiste  mit 20.32 % Rabatt'
+date: 2021-06-01 18:13:44
+image: 'https://m.media-amazon.com/images/I/31YwFeXxuOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B002OI55EC-de Brennenstuhl Eco-Line Steckdosenleiste 3-fach...'
 sku: 'B002OI55EC-de'
-tags: [  ]
-actualPrice: 3.42 EUR
+tags: [ 'Baumarkt','Elektroinstallation','Mehrfachsteckdosen','brennenstuhl', ]
+actualPrice: 5.49 EUR
 currency: EUR
-price: 3.42
-comparePrice: 5.8 EUR
+price: 5.49
+comparePrice: 6.89 EUR
 prodname: 'Brennenstuhl Eco-Line  Steckdosenleiste 3-fach  Steckerleiste mit erhöhtem Berührungsschutz  Schalter und 1 5m Kabel  lichtgrau'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Brennenstuhl'
 buyurl: 'https://www.amazon.de/dp/B002OI55EC/?tag=tolees0ca-21'
-descuento: '41.03'
-average: '3.533333333333333'
+descuento: '20.32'
+average: '3.81285714285714'
 ---
 
-Sie können [Brennenstuhl Eco-Line  Steckdosenleiste 3-fach  Steckerleiste mit erhöhtem Berührungsschutz  Schalter und 1 5m Kabel  lichtgrau](https://www.amazon.de/dp/B002OI55EC/?tag=tolees0ca-21) mit Preis 3.42 EUR (original: 5.8 EUR) 41.03 % Rabatt hier:
+Sie können [Brennenstuhl Eco-Line  Steckdosenleiste 3-fach  Steckerleiste mit erhöhtem Berührungsschutz  Schalter und 1 5m Kabel  lichtgrau](https://www.amazon.de/dp/B002OI55EC/?tag=tolees0ca-21) mit Preis 5.49 EUR (original: 6.89 EUR) 20.32 % Rabatt hier:
 
-[![Brennenstuhl Eco-Line  Steckdosenleiste ](https://m.media-amazon.com/images/I/31YwFeXxuOL._SL400_.jpg)](https://www.amazon.de/dp/B002OI55EC/?tag=tolees0ca-21)
+[![Brennenstuhl Eco-Line  Steckdosenleiste ](https://m.media-amazon.com/images/I/31YwFeXxuOL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B002OI55EC/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Lieferumfang: 1 x Eco-Line Steckdosenleiste in der Farbe lichtgrau - in bester Qualität von brennenstuhl
+- 3er Schutzkontakt-Steckdosenleiste mit 1,5 m Kabellänge H05VV-F 3G1,5
+- Schutzkontakt-Steckdosen in 45°-Anordnung, auch für Winkelstecker
+- Steckerleiste mit erhöhtem Berührungsschutz: Kunststoffplättchen verschließen die Kontakte der Steckdose
+- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B002OI55EC/?tag=tolees0ca-21)

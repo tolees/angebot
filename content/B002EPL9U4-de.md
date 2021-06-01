@@ -28,10 +28,10 @@ Es gibt ein [Brüder Mannesmann Werkzeug - Mannesmann Profi-Steinbohrersatz  8-t
 
 ℹ️:
 
-- Größen von: 3 - 10 mm
-- Eingelötete Hartmetall-Platte aus Wolframkarbid
 - In praktischer Aufbewahrungskassette
 - 8-teiliger Steinbohrersatz
+- Größen von: 3 - 10 mm
+- Eingelötete Hartmetall-Platte aus Wolframkarbid
 - Bohrer aus Spezial-legiertem Stahl mit gefrästen Nuten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002EPL9U4/?tag=tolees0ca-21)
