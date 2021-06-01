@@ -28,9 +28,9 @@ Es gibt ein [Lavazza Kaffeebohnen - Caffè Crema Dolce - 1er Pack  1 x 1.1 kg ](
 
 ℹ️:
 
-- Bohne für Vollautomaten und Siebträger
-- Ideal als großer Caffè
 - Der besonders milde Geschmack: jetzt auch mit 10% mehr Inhalt
+- Ideal als großer Caffè
 - Weich und mild
+- Bohne für Vollautomaten und Siebträger
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BY4YMN6/?tag=tolees0ca-21)
