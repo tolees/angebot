@@ -28,10 +28,10 @@ Es gibt ein [Candela Stimmungsleuchte | EU-Version | Yeelight](https://www.amazo
 
 ℹ️:
 
-- Lieferumfang: Yeelight Candela Stimmungsleuchte, Micro-USB-Kabel, Benutzerhandbuch (DE/EN)
-- Ausgestattet mit der BLE-Mesh-Technologie können bis zu 30.000 Candelas miteinander verbunden und simultan gesteuert werden.
-- Steuerung über Yeelight App und Bluetooth Mesh
-- Die Yeelight Candela Stimmungsleuchte sorgt mit modernem Design und kerzengleichem Licht für die perfekte Stimmung und ermöglicht Ihnen dadurch pure Entspannung.
 - Jede Candela besitzt einen leistungsstarken Akku. Die Helligkeit ist einstellbar und die warme Farbtemperatur sorgt für kerzengleiches Licht.
+- Lieferumfang: Yeelight Candela Stimmungsleuchte, Micro-USB-Kabel, Benutzerhandbuch (DE/EN)
+- Die Yeelight Candela Stimmungsleuchte sorgt mit modernem Design und kerzengleichem Licht für die perfekte Stimmung und ermöglicht Ihnen dadurch pure Entspannung.
+- Steuerung über Yeelight App und Bluetooth Mesh
+- Ausgestattet mit der BLE-Mesh-Technologie können bis zu 30.000 Candelas miteinander verbunden und simultan gesteuert werden.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084BV46RH/?tag=tolees0ca-21)

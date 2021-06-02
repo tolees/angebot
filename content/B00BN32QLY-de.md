@@ -29,9 +29,9 @@ Es gibt ein [Chupa Chups Crazy Dips  24er Thekendisplay  Cola-Lollis mit Brausep
 ℹ️:
 
 - Optimale Präsentation Das 24er Thekendisplay eignet sich perfekt als Familienvorrat oder als Give-Away und ist auf jeder Party und auf Kindergeburtstagen ein echter Hingucker.
-- Kultige Lutscher Die Fußlollis zum Dippen sind der Klassiker unter den Brauselollis. Dank dem praktischen Beutel sind sie immer zur Hand, wenn ein prickelnder Moment gefragt ist.
-- Coole Abwechslung Die Lutscher mit dem Brause-Effekt bieten eine Extraportion Abwechslung im Gegensatz zu herkömmlichen Lutschern und sind ideal für die Pause oder für unterwegs.
 - Leckere Knisterbrause Mit ihrem spritzig-intensiven Flavour, sind Crazy Dips ein echter Gaumenschmaus. Einfach in die Tüte mit dem Knistergranulat stecken und sofort vernaschen.chtungen erhältlich
 - Verrückte Versuchung Die leckeren Lollis in Fußform kommen mit einem leckeren Colageschmack daher. Das Brausepulver sorgt für den Knistereffekt und erfrischt auf köstliche Weise.
+- Kultige Lutscher Die Fußlollis zum Dippen sind der Klassiker unter den Brauselollis. Dank dem praktischen Beutel sind sie immer zur Hand, wenn ein prickelnder Moment gefragt ist.
+- Coole Abwechslung Die Lutscher mit dem Brause-Effekt bieten eine Extraportion Abwechslung im Gegensatz zu herkömmlichen Lutschern und sind ideal für die Pause oder für unterwegs.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BN32QLY/?tag=tolees0ca-21)

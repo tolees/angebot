@@ -28,9 +28,9 @@ Sie können [BRITA Wasserfilter Marella graphit inkl. 6 MAXTRA+ Filterkartuschen
 
 ℹ️:
 
-- Perfekter Geschmack: Für ein volles Aroma von Kaffee und Tee reduziert die BRITA Wasserfilter-Kartusche zuverlässig Kalk und geschmacksstörende Stoffe wie Chlor im Leitungswasser
 - Schutz vor Verkalkung: Die MAXTRA+ Filterkartusche verlängert die Lebensdauer von Kaffeemaschinen und Wasserkochern, indem sie Kalk im Wasser reduziert – für optimalen Geräteschutz
 - Praktische Einfüllklappe für einhändiges Befüllen der Filterkanne / Kanne ist spülmaschinengeeignet (Ausnahme: Deckel) / Alle mit Wasser in Berührung kommenden Teile sind BPA-frei
+- Perfekter Geschmack: Für ein volles Aroma von Kaffee und Tee reduziert die BRITA Wasserfilter-Kartusche zuverlässig Kalk und geschmacksstörende Stoffe wie Chlor im Leitungswasser
 - Lieferumfang: 1 x BRITA Wasserfilter Marella graphit inkl. 6 MAXTRA+ Filterkartuschen / Tischwasserfilter mit einem Gesamtvolumen von 2,4l und einem Filtervolumen von 1,4l
 - Wenn die praktische BRITA Memo Anzeige nach 4 Wochen aufblinkt, kann einfach zur nächsten Nachfüllkartusche gegriffen werden, da im Starterpaket bereits 3 Kartuschen enthalten sind
 
