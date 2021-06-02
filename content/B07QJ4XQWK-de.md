@@ -28,10 +28,10 @@ Es gibt ein [Ugvmn - G9 LED Glühbirne 5W Entspricht 28W 30W 40W Halogenlampen  
 
 ℹ️:
 
+- ⭐【GESUNDE UND ROMANTISCHE UMGEBUNG】- Die G9 Energiespar lampe enthält kein Blei und schädliches Quecksilber. Keine schädliche Strahlung, keine UV oder IR Strahlung. Sorgen Sie für ein weiches und warmes Licht ohne Blendung und harte Schatten, schaffen Sie eine romantische Atmosphäre. Beleuchten Sie Ihr Zuhause mit außergewöhnlicher Farbkonsistenz.
 - ⭐【UMWELTFREUNDLICH】- Diese G9 LEDs flackern nicht. Diese warmweiße G9 LED Glühbirne mit einem Standard G9 Stift passt leicht in alle G9 Lampen fassungen, ohne sich auf volle Helligkeit aufzuwärmen. 2700K Warmweiß ist sehr nah an Halogenlampen, die in Tischlampen, Kristall Lampen, Wandleuchten, Fensterbeleuchtungen, G9 Kronleuchtern usw. weit verbreitet sind.
+- ⭐【 100%ige ZUFRIEDENHEIT】- Wenn Sie defekte Glühbirnen erhalten oder Vorschläge zu unseren G9 LED Glühbirnen haben, wenden Sie sich bitte direkt an den Verkäufer. Der Ersatz oder die Rückerstattung des vollen Betrags wird nach Bestätigung der Situation für Sie arrangiert.
 - ⭐【ENERGIEEINSPARUNG】- Diese G9 LED Lampen sind der perfekte Ersatz für 33W, 35W, 40W Halogenbirnen mit nur 5W G9 Glühbirnen. Sparen Sie über 90% Ihrer Stromrechnung. 30.000 Stunden Lebensdauer, geringe Wartungskosten.
 - ⭐【WICHTIGER WARNHINWEIS】- Bitte prüfen Sie vor dem Kauf sorgfältig die Abmessungen, damit sie zu Ihrer Lampe passen. (Maße: 51 mm x 15,5 mm) ; Sie sind nicht dimmbar, bitte verwenden Sie sie nicht mit einem Dimmer, sonst können die Glühbirnen flackern oder rauschen.
-- ⭐【 100%ige ZUFRIEDENHEIT】- Wenn Sie defekte Glühbirnen erhalten oder Vorschläge zu unseren G9 LED Glühbirnen haben, wenden Sie sich bitte direkt an den Verkäufer. Der Ersatz oder die Rückerstattung des vollen Betrags wird nach Bestätigung der Situation für Sie arrangiert.
-- ⭐【GESUNDE UND ROMANTISCHE UMGEBUNG】- Die G9 Energiespar lampe enthält kein Blei und schädliches Quecksilber. Keine schädliche Strahlung, keine UV oder IR Strahlung. Sorgen Sie für ein weiches und warmes Licht ohne Blendung und harte Schatten, schaffen Sie eine romantische Atmosphäre. Beleuchten Sie Ihr Zuhause mit außergewöhnlicher Farbkonsistenz.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07QJ4XQWK/?tag=tolees0ca-21)
