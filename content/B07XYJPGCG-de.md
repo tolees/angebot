@@ -28,10 +28,10 @@ Sie können [OnePlus 8 Pro  5G  Smartphone ohne Vertrag  8 GB RAM + 128 GB Speic
 
 ℹ️:
 
-- Ultraklare Vierfach-Kamera - 48MP Hauptkamera, 30x Hybrid Zoom, 48MP Ultraweitwinkelkamera, 8MP Teleobjektiv, 5MP IR Linse und 16MP Frontkamera. Super Slow Motion (960 FPS) machen das Unsichtbare sichtbar. Zusätzliche Funktionen: UltraShot, Nachtsichtmodus, Studio Pro-Modus, HDR, AI-Szenenerkennung,
-- Power Akku 4510 mAh für noch mehr Laufzeit – Wireless Fast Charging und WARP Charge 30T Schnelllade-Technologie (ready-to-go in 20 Minuten) / OxygenOS Betriebssystem (Android 10)
 - Super Smooth 3D Fluid AMOLED Display – hohe Auflösung mit einer 120Hz Bildwiederholrate – das Scrollen, Wischen und Wechseln durch Apps ist flüssiger als jemals zuvor (keine Verzögerungen) 17. 5 cm AMOLED Power Screen – Für ein atemberaubendes Multimedia-Erlebnis, sofortige Touch-Reaktion, mehr Geschwindigkeit und eine faszinierende Klarheit
-- 8 GB RAM und 128 GB interner Speicher für mehr Geschwindigkeit und größere Datenmengen / High-Performance Prozessor Qualcomm Snapdragon 865 mit 5G-Konnektivität
+- Power Akku 4510 mAh für noch mehr Laufzeit – Wireless Fast Charging und WARP Charge 30T Schnelllade-Technologie (ready-to-go in 20 Minuten) / OxygenOS Betriebssystem (Android 10)
 - OnePlus mit integriertem Alexa bietet Freisprechzugriff auf Alexa. Sagen Sie einfach „Alexa“, um Musik abzuspielen, einen Anruf zu tätigen, Ihr Smart Home zu steuern, das Wetter zu überprüfen und vieles mehr, indem Sie nur Ihre Stimme verwenden. Bleiben Sie auf dem Laufenden und erledigen Sie jeden Tag Ihre Aufgaben, während Sie unterwegs sind. Fragen Sie einfach - und Alexa wird sofort antworten. Laden Sie die Alexa-App auf Ihr OnePlus-Gerät herunter, um Alexa noch heute freihändig zu verwenden.
+- 8 GB RAM und 128 GB interner Speicher für mehr Geschwindigkeit und größere Datenmengen / High-Performance Prozessor Qualcomm Snapdragon 865 mit 5G-Konnektivität
+- Ultraklare Vierfach-Kamera - 48MP Hauptkamera, 30x Hybrid Zoom, 48MP Ultraweitwinkelkamera, 8MP Teleobjektiv, 5MP IR Linse und 16MP Frontkamera. Super Slow Motion (960 FPS) machen das Unsichtbare sichtbar. Zusätzliche Funktionen: UltraShot, Nachtsichtmodus, Studio Pro-Modus, HDR, AI-Szenenerkennung,
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XYJPGCG/?tag=tolees0ca-21)
