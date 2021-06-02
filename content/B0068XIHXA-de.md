@@ -1,32 +1,37 @@
 ---
 layout: post
-title: '34.76 % rabat auf Tassimo Kapseln Jacobs Krönung XL  80 Ka'
-date: 2020-09-28 06:27:56
-image: 'https://m.media-amazon.com/images/I/416lV9qLmML._SL400_.jpg'
+title: '32.76 % rabat auf Tassimo Kapseln Jacobs Krönung XL  80 Ka'
+date: 2021-06-02 00:51:48
+image: 'https://m.media-amazon.com/images/I/416lV9qLmML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0068XIHXA-de Tassimo Kapseln Jacobs Krönung XL 80 Kaffeekapseln 5er...'
 sku: 'B0068XIHXA-de'
-tags: [  ]
-actualPrice: 16.93 EUR
+tags: [ 'Getränke, Kaffee & Tee','Kaffee & Espresso','Kaffeekapseln & Pads','Lebensmittel','Lebensmittel & Getränke','tassimo', ]
+actualPrice: 17.45 EUR
 currency: EUR
-price: 16.93
+price: 17.45
 comparePrice: 25.95 EUR
 prodname: 'Tassimo Kapseln Jacobs Krönung XL  80 Kaffeekapseln  5er Pack  5 x 16 Getränke'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Tassimo'
 buyurl: 'https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21'
-descuento: '34.76'
-average: '17.17'
+descuento: '32.76'
+average: '17.226'
 ---
 
-Es gibt ein [Tassimo Kapseln Jacobs Krönung XL  80 Kaffeekapseln  5er Pack  5 x 16 Getränke](https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21) mit aktuellem Preis 16.93 EUR (original: 25.95 EUR) 34.76 % Rabatt hier:
+Es gibt ein [Tassimo Kapseln Jacobs Krönung XL  80 Kaffeekapseln  5er Pack  5 x 16 Getränke](https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21) mit aktuellem Preis 17.45 EUR (original: 25.95 EUR) 32.76 % Rabatt hier:
 
-[![Tassimo Kapseln Jacobs Krönung XL  80 Ka](https://m.media-amazon.com/images/I/416lV9qLmML._SL400_.jpg)](https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21)
+[![Tassimo Kapseln Jacobs Krönung XL  80 Ka](https://m.media-amazon.com/images/I/416lV9qLmML._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Erlesener Kaffee für hochwertige Getränkequalität und unnachahmlichen Geschmack
+- Einfache Zubereitung - Caffè T DISC einlegen, Knopf drücken und genießen
+- Lieferumfang 5 Packungen à 144 g
+- Sie haben Ihre Lieblingssorte gefunden? Dann empfehlen wir Ihnen das Amazon Spar-Abo für Tassimo. Ohne Verpflichtung erhalten Sie regelmäßig und portofrei Ihre T DISCs.
+- Jacobs Krönung XL - Das einzigartige Jacobs Verwöhnaroma auch von TASSIMO in der XL-Becherportion
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21)
