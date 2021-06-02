@@ -28,10 +28,10 @@ Es gibt ein [Tassimo Kapseln Jacobs Krönung XL  80 Kaffeekapseln  5er Pack  5 x
 
 ℹ️:
 
-- Erlesener Kaffee für hochwertige Getränkequalität und unnachahmlichen Geschmack
-- Einfache Zubereitung - Caffè T DISC einlegen, Knopf drücken und genießen
 - Lieferumfang 5 Packungen à 144 g
 - Sie haben Ihre Lieblingssorte gefunden? Dann empfehlen wir Ihnen das Amazon Spar-Abo für Tassimo. Ohne Verpflichtung erhalten Sie regelmäßig und portofrei Ihre T DISCs.
 - Jacobs Krönung XL - Das einzigartige Jacobs Verwöhnaroma auch von TASSIMO in der XL-Becherportion
+- Erlesener Kaffee für hochwertige Getränkequalität und unnachahmlichen Geschmack
+- Einfache Zubereitung - Caffè T DISC einlegen, Knopf drücken und genießen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0068XIHXA/?tag=tolees0ca-21)

@@ -30,8 +30,8 @@ Es gibt ein [Philips WhiteVision Xenon-Effekt H3 Scheinwerferlampe 12336WHVB1  E
 
 - Mehr Kontrast für eine bessere Sicht und sichereres Fahren
 - WhiteVision ist ECE-zertifiziert und vollständig zugelassen für den Straßenverkehr
-- Bis zu 60 % mehr Sicht im Straßenverkehr
 - Unübertroffene Lebensdauer in ihrer Klasse für langen Fahrkomfort
 - Weißer Xenon-Effekt für eine hochwertige Optik Ihrer Autoscheinwerfer
+- Bis zu 60 % mehr Sicht im Straßenverkehr
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00OH4WEOA/?tag=tolees0ca-21)

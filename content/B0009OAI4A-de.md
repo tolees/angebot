@@ -28,10 +28,10 @@ Es gibt ein [Elizabeth Arden 5th Avenue femme/women  Eau de Parfum Spray  1er Pa
 
 ℹ️:
 
-- Herznote: Bulgarische Rose, Pfirsich und Muskatnuss
-- Basisnote: Amber, Moschus und Vanille
-- Damenduft
 - 30 ml 5th Avenue Eau de Parfum Spray
+- Damenduft
+- Basisnote: Amber, Moschus und Vanille
+- Herznote: Bulgarische Rose, Pfirsich und Muskatnuss
 - Kopfnote: Magnolie und Mandarine
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0009OAI4A/?tag=tolees0ca-21)
