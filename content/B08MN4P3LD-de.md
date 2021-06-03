@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Tenet mit 31.29 % Rabatt'
-date: 2021-06-02 01:32:50
+date: 2021-06-03 08:24:48
 image: 'https://m.media-amazon.com/images/I/51AIV9oBNEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B08MN4P3LD/?tag=tolees0ca-21'
 descuento: '31.29'
-average: '14.0666666666667'
+average: '12.955'
 ---
 
 Sie können [Warner Bros  Universal Pictures  - Tenet  + Bonus-Blu-ray ](https://www.amazon.de/dp/B08MN4P3LD/?tag=tolees0ca-21) mit Preis 9.62 EUR (original: 14.0 EUR) 31.29 % Rabatt hier:
