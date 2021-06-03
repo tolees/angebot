@@ -28,10 +28,10 @@ Es gibt ein [Sony SEL-075UWC Ultra Weitwinkel Vorsatzkonverter  Vollformat  geei
 
 ℹ️:
 
-- Einfach zu befestigender Bajonettmechanismus mit Verschluss
-- Staub- und feuchtigkeitsgeschützt
 - Mindestfokussierabstand: 0,24 (AF)²,0,20 (MF)², Maximale Vergrößerung: 0,15 (AF)²,0,20 (MF)²
-- Geeignet für das Objektiv Sony SEL-28F20
 - Lieferumfang: Sony SEL075UWC, Ultra-Weitwinkel-Vorsatzkonverter, E-Mount Vollformat, Schutztasche und Schutzkappen (vorne und hinten)
+- Einfach zu befestigender Bajonettmechanismus mit Verschluss
+- Geeignet für das Objektiv Sony SEL-28F20
+- Staub- und feuchtigkeitsgeschützt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00UJRSM40/?tag=tolees0ca-21)

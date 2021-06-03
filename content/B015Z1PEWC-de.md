@@ -28,8 +28,8 @@ Sie können [BB  4 A D   - Not to Disappaer [Vinyl LP]](https://www.amazon.de/dp
 
 ℹ️:
 
+- herausgegeben 2016 in Europa von 4AD (CAD 3604)
 - Musikstil: Alternative Rock
 - Vinyl-LP im 12"-Format (30,48 cm Durchmesser)
-- herausgegeben 2016 in Europa von 4AD (CAD 3604)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B015Z1PEWC/?tag=tolees0ca-21)

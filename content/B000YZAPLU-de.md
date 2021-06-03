@@ -28,8 +28,8 @@ Es gibt ein [Olfa Handwerk Geräte](https://www.amazon.de/dp/B000YZAPLU/?tag=tol
 
 ℹ️:
 
-- Rasterlinien sind im Abstand von 1/8, 1/4 und 1/2 Zoll
 - Aus mattem Acryl mit schwarzen Zahlen und Linien um diese besser auf hellen und dunklen farbigen Stoffen sehen zu koennen
+- Rasterlinien sind im Abstand von 1/8, 1/4 und 1/2 Zoll
 - Rutschfeste Oberfläche für stabiles und sicheres Schneiden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000YZAPLU/?tag=tolees0ca-21)
