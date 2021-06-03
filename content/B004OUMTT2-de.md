@@ -28,9 +28,9 @@ Es gibt ein [Celestron Powerseeker Zubehör-Set](https://www.amazon.de/dp/B004OU
 
 ℹ️:
 
-- Voll vergütete Okulare für höhere Vergrößerung. Planetenfilter verbessern Details von Jupiter, Saturn, Mars und Venus
-- Die Tragetasche passt zu allen im gestanzten Schaumstoffinneren enthaltenen Gegenständen
-- Mikrofasertuch reinigt Optiken sicher, ohne zu zerkratzen oder Rückstände zu hinterlassen
 - Mondfilter ermöglichen die detaillierte Sicht auf den Mond vor allem während der helleren Phasen
+- Voll vergütete Okulare für höhere Vergrößerung. Planetenfilter verbessern Details von Jupiter, Saturn, Mars und Venus
+- Mikrofasertuch reinigt Optiken sicher, ohne zu zerkratzen oder Rückstände zu hinterlassen
+- Die Tragetasche passt zu allen im gestanzten Schaumstoffinneren enthaltenen Gegenständen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004OUMTT2/?tag=tolees0ca-21)

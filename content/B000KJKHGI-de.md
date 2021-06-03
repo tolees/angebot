@@ -30,8 +30,8 @@ Es gibt ein [Durable 480323 Info Sign Türschild  149 x 210 5 mm  metallic silbe
 
 - Türschild mit stabilem Alurahmen, Acrylscheibe und auswechselbarer Kartoneinlage
 - Türschild Info Sign, Maße: 149 x 210,5 mm (B x H); Ersatzkappen Art. 481601 separat erhältlich
-- Passende Einsteckschilder: Durable Art. 485302 zur professionellen Beschriftung mit kostenloser Software DURAPRINT
 - Namensschild zum Anschrauben, inkl. Montageset, Bohrschablone und Anleitung
+- Passende Einsteckschilder: Durable Art. 485302 zur professionellen Beschriftung mit kostenloser Software DURAPRINT
 - Schild zur Türbeschriftung in Büros, Unternehmen, öffentlichen Gebäuden und medizinischen Einrichtungen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJKHGI/?tag=tolees0ca-21)
