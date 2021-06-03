@@ -28,8 +28,8 @@ Es gibt ein [adidas Herren Shorts Parma 16 SHO  blau  Dark Blue/White   XS](http
 
 ℹ️:
 
-- Elastisch Taillenbund
-- Funktionelle Shorts ohne Innenslip
 - Funktionelle Shorts aus Climalite für erhöhten Feuchtigkeitstransport
+- Funktionelle Shorts ohne Innenslip
+- Elastisch Taillenbund
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016QALRL8/?tag=tolees0ca-21)
