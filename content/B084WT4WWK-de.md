@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.95 % rabat auf Xiaomi Mi WiFi Range Extender Pro WLAN R'
-date: 2021-06-01 19:50:47
+date: 2021-06-03 01:59:12
 image: 'https://m.media-amazon.com/images/I/31i9ntn9-4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B084WT4WWK/?tag=tolees0ca-21'
 descuento: '19.95'
-average: '15.1433333333332'
+average: '15.1019736842104'
 ---
 
 Es gibt ein [Xiaomi Mi WiFi Range Extender Pro WLAN Repeater  bis zu 300 Mbit/s  2 4GHz  2 Externe Antennen  bis zu 24 Geräte an einem Range Extender  IEEE 802.11 b/g/n  WPA-PSK/WPA2-PSK ](https://www.amazon.de/dp/B084WT4WWK/?tag=tolees0ca-21) mit aktuellem Preis 12.0 EUR (original: 14.99 EUR) 19.95 % Rabatt hier:
