@@ -31,7 +31,7 @@ Sie können [Rohde Herren Brunello Pantoletten  Grün  Olive 61   44 EU](https:/
 - Schuhtyp:Pantolette
 - Hersteller-Farbangabe:Olive
 - Innenfutter:Leder
-- Obermaterial:Leder (Velour/Grainnappa)
 - Decksohle:Leder (Grainnappa)
+- Obermaterial:Leder (Velour/Grainnappa)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WVBRJPB/?tag=tolees0ca-21)

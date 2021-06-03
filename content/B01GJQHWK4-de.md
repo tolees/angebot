@@ -29,9 +29,9 @@ Es gibt ein [POC Fornix - Leichter  sicherer und gut belüfteter Ski- und Snowbo
 ℹ️:
 
 - POC SPIN_Die neuen SPIN Pads sorgen dafür, dass die Energie, die bei einem Sturz mit schrägem Aufprall auf das Gehirn einwirkt, reduziert wird. Der Druck wird besser auf eine größere Fläche verteilt und bietet einen besseren Schutz bei harten Einschlägen
-- MADE FOR THE MOUNTAINS_ Leichter, gut belüfteter und mit Aramid verstärkter Helm für alle Ski- und Snowboardaktivitäten und Freeriden in den Bergen, auf und abseits der Piste
 - LEICHT & ANPASSBAR_Der Helm bietet ein 360°-Größeneinstellsystem für eine personalisierte, sichere und komfortable Passform sowie eine optimale Belüftung
-- VERBESSERTE HALTBARKEIT_Der Helm hat eine Polycarbonat-Schale und EPS-Innenschale. Aramid-Brückenverstärkungen sorgen für zusätzlichen Durchbruchschutz und strukturelle Stabilität
 - FIXER BRILLENCLIP_ Bietet zusätzliche Sicherheit und Luftkanäle im Helm leiten Feuchtigkeit aus POC Brillen ab. POC Helme für Damen und Herren werden so designed, um eine nahtlose Kompatibilität mit POC-Brillen zu gewährleisten
+- VERBESSERTE HALTBARKEIT_Der Helm hat eine Polycarbonat-Schale und EPS-Innenschale. Aramid-Brückenverstärkungen sorgen für zusätzlichen Durchbruchschutz und strukturelle Stabilität
+- MADE FOR THE MOUNTAINS_ Leichter, gut belüfteter und mit Aramid verstärkter Helm für alle Ski- und Snowboardaktivitäten und Freeriden in den Bergen, auf und abseits der Piste
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01GJQHWK4/?tag=tolees0ca-21)
