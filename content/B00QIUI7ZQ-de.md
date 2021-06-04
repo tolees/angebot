@@ -28,10 +28,10 @@ Sie können [GROHE Eurodisc Joy Badarmaturen - Einhand-Waschtischbatterie  DN 15
 
 ℹ️:
 
-- Lieferumfang: Brausestange, Handbrause, Brauseschlauch, EasyReach Ablage, Wandhalter, Pflegeanleitung
-- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
-- Die Handbrause hat eine innere Wasserführung. So kommt kein heißes Wasser an die Chromoberfläche. Das Schützt den Benutzer vor Verbrühungen und den Chrom vor Haarrissen
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
+- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
+- Lieferumfang: Brausestange, Handbrause, Brauseschlauch, EasyReach Ablage, Wandhalter, Pflegeanleitung
+- Die Handbrause hat eine innere Wasserführung. So kommt kein heißes Wasser an die Chromoberfläche. Das Schützt den Benutzer vor Verbrühungen und den Chrom vor Haarrissen
 - Das Wasser strömt aus Silikon-Nippeln- ein Wisch mit dem Finger und die Handbrause ist entkalkt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00QIUI7ZQ/?tag=tolees0ca-21)
