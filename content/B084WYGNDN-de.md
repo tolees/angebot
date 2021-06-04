@@ -28,9 +28,9 @@ Es gibt ein [Useber - [2 Stück]Solar Lichterkette Außen  12M 120 LED Lichterke
 
 ℹ️:
 
+- Premium-Qualität Höhere Akkukapazität: Die Solar-Lichterketten bestehen aus einem speziellen PC-Material. Es ist feuerfest, schlagfest, langlebig und sicher. Mit einer hohen Akkukapazität, die auf 800 mA ansteigt, muss diese Solarleuchte tagsüber nur 6 bis 8 Stunden aufladen und kann nachts 8 bis 14 Stunden arbeiten.
 - Wasserdicht und einfach zu installieren: Mit der wasserdichten IP65-Funktion können Sie Ihr Haus und Ihren Garten ganz einfach dekorieren. Flexible Lichterketten können einfach in die gewünschten Formen eingebaut und um Baumstämme oder Pavillons gewickelt werden. Es schafft eine warme, süße und romantische Atmosphäre, besonders auf Festivals.
 - Lange Lebensdauer: Unsere LED-Lichterkette kann bis zu 20.000 Stunden dauern. Wir bemühen uns, Ihnen das beste Produkt und den besten Kundendienst anzubieten. Alle E-Mails werden innerhalb von 12 Stunden beantwortet. Wir können Ihnen 1 Jahr Garantie gewähren.
-- Premium-Qualität Höhere Akkukapazität: Die Solar-Lichterketten bestehen aus einem speziellen PC-Material. Es ist feuerfest, schlagfest, langlebig und sicher. Mit einer hohen Akkukapazität, die auf 800 mA ansteigt, muss diese Solarleuchte tagsüber nur 6 bis 8 Stunden aufladen und kann nachts 8 bis 14 Stunden arbeiten.
 - Solarbetriebene Lichterketten: Zu den energiesparenden Solar-Lichterketten gehört eine wiederaufladbare Solarzelle mit einer höheren Energieumwandlungsrate, die das Licht tagsüber für 6-8 Stunden auflädt und nachts für 8-14 Stunden Licht sorgt.
 - Intelligente Steuerung und 8 Modi: Automatisches Einschalten bei Dunkelheit und Ausschalten bei Sonnenaufgang, automatisches Laden während des Tages. 8 Lichtmodi zur Auswahl, um verschiedene Stimmungen für Garten, Balkon, Terrasse, Rasen, Veranda, Tor, Garten usw. zu erzeugen.
 
