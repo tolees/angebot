@@ -28,10 +28,10 @@ Es gibt ein [Brüder Mannesmann Werkzeug - Mannesmann Wapuzange schwarz DIN  300
 
 ℹ️:
 
-- Mit doppelt wirksamem Klemmschutz und getauchten Griffen
 - Wasserpumpenzange 300 mm
-- Durchgestecktes, verstärktes Gewerbe
 - 7-fach verstellbar
+- Durchgestecktes, verstärktes Gewerbe
 - Aus Chrom-Vanadium Stahl geschmiedet
+- Mit doppelt wirksamem Klemmschutz und getauchten Griffen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003RRWMT0/?tag=tolees0ca-21)

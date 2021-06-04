@@ -28,10 +28,10 @@ Es gibt ein [Dahle 166 Bleistiftspitzmaschine  für Stiftdurchmesser bis 12 mm  
 
 ℹ️:
 
-- Spitzenform einstellbar
-- Gehäuse grau/schwarz
-- Einfache Leerung durch Entnahme von Auffangbehälter
 - Automatischer Spitzstopp
+- Einfache Leerung durch Entnahme von Auffangbehälter
+- Spitzenform einstellbar
 - Für Stiftedurchmesser bis 12mm
+- Gehäuse grau/schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0012SCWKU/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Sie können [GROHE | Zubehör - Skalengriff | für Grohmix-UP-Thermostate  1/2 Z
 ℹ️:
 
 - Langlebig
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- Robust
 - Original Ersatzteil
+- Robust
 - Lieferumfang: UP-Thermostat
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 
 [🛒 Hier!!](https://www.amazon.de/dp/B007RMOKBY/?tag=tolees0ca-21)
