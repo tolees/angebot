@@ -28,9 +28,9 @@ Sie können [Leselampe Buch OMERIL Buchlampe mit 6 LEDs  3 Helligkeit  USB Wiede
 
 ℹ️:
 
-- ✅【Paket & Versicherung】Es wird die OMERIL-Leselampe, ein USB-Kabel und eine Bedienungsanleitung geliefert. Außerdem haben Sie eine 24-monatige Garantie. Falls Sie Fragen oder ein anderes Anliegen haben, zögern Sie nicht uns zu kontaktieren.
 - ✅【USB-Ladegerät mit LED-Ladeanzeige】 Unsere Lampe ist . Es ist eine wiederaufladbare Lithium Batterie eingebaut und kann jederzeit mit dem mitgelieferten USB-Kabel aufgeladen werden. Sie ist klein und leicht zu tragen. Eine Akkuladung reicht für 6-8 Stunden.
 - ✅【Kein flackerndes Licht- und Augenschutz-LED-Lichtquellen】 Natürliches und nicht flackerndes Licht kann Ihre Augen vor Lichtschäden schützen. Sie können die Einstellung verwenden, welche sich für ihre Augen am besten eignet.
+- ✅【Paket & Versicherung】Es wird die OMERIL-Leselampe, ein USB-Kabel und eine Bedienungsanleitung geliefert. Außerdem haben Sie eine 24-monatige Garantie. Falls Sie Fragen oder ein anderes Anliegen haben, zögern Sie nicht uns zu kontaktieren.
 - ✅【Leichte und tragbare Multifunktionsklemme】 Die Klemme ist bis zu 4 cm verstellbar. Sie eignet sich hervorragen für Buch, Computer, Bett, Schreibtisch usw. Die Leselampe wiegt 45g und eignet sich somit auch für Camping oder Reisen.
 - ✅【6 LEDs mit 3 Helligkeitsmodi】 Die Omeril-Leselampe verfügt über eine 3-stufige Helligkeit (3 weiße LED-Lichter, 3 warme LED-Lichter und 6 gemischte LED-Lichter), die sich zum Arbeiten, Schlafen und Lesen eignen (Einfach klicken Sie das obere Schalter).
 

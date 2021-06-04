@@ -28,9 +28,9 @@ Es gibt ein [[2 Stück] Solar Lichterkette Aussen  Litogo 12M 120 LED Lichterket
 
 ℹ️:
 
+- 【Wasserdicht】Sowoh die Lichterketten als auch das Solarpanel sind IP55 wasserdicht.Keine Sorge, sie im Regen zu benutzen.
 - 【Energiesparend und umweltfreundlich】 Überspringen Sie die höheren Stromrechnungen. Tagsüber wandelt das effiziente Solarpanel das Sonnenlicht in elektrische Energie um, die im eingebauten Akku gespeichert ist. Nachts leuchten die Lichterketten automatisch auf.
 - 【8 Modi & 800mAh Akku】 Wählen Sie den gewünschten Lichteffekt und schaffen Sie eine romantische Atmosphäre. Mit einer hohen Akkukapazität, die auf 800 mA ansteigt, muss diese Solarleuchte tagsüber nur 6 bis 8 Stunden aufladen und kann nachts 8 bis 14 Stunden arbeiten.
-- 【Wasserdicht】Sowoh die Lichterketten als auch das Solarpanel sind IP55 wasserdicht.Keine Sorge, sie im Regen zu benutzen.
 - 【Was Sie bekommen】 2er-Pack solarbetriebene 120-LED-Lichterketten aus Kupfer, 60 Tage Geld-zurück-Garantie, 1 Jahr sorgenfreie Garantie, 24 Stunden freundlicher Kundenservice.
 - 【Mehrfachanwendungsszenarien】 Diese Lichterketten sind ein großartiges dekoratives Accessoire zur Beleuchtung von Innen- und Außenbereichen wie Gärten, Terrassen, Zäunen, Toren, Gärten, Hochzeiten, Partys, Weihnachtsbäumen usw. Und der Kupferdraht ist recht flexibel und leicht in jede beliebige Form gebogen.
 
