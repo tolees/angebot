@@ -28,10 +28,10 @@ Es gibt ein [Dual IR 2A Internetradio-Adapter für Stereoanlage  WiFi  UKW  UPnP
 
 ℹ️:
 
-- WiFi-Internetradio-Adapter zum Nachrüsten Ihrer Stereoanlage - Zugriff auf mehr als 10.000 Internetradiosender.
-- Uhrzeitanzeige und Weckfunktion.
-- Line-Out (3,5 mm Klinke) zum Anschluss externer Audio-Quellen, z.B. MP3 Player.
-- UKW-Radio mit 10 Sender-Speicherplätzen.
 - Lieferumfang:Lieferumfang: Haupteinheit, Fernbedienung (inkl. Batterien), UKW-Wurfantenne, Audio-Verbindungskabel, Steckernetzteil, Bedienungsanleitung.
+- Uhrzeitanzeige und Weckfunktion.
+- WiFi-Internetradio-Adapter zum Nachrüsten Ihrer Stereoanlage - Zugriff auf mehr als 10.000 Internetradiosender.
+- UKW-Radio mit 10 Sender-Speicherplätzen.
+- Line-Out (3,5 mm Klinke) zum Anschluss externer Audio-Quellen, z.B. MP3 Player.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MFDLAEU/?tag=tolees0ca-21)

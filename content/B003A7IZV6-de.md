@@ -29,10 +29,10 @@ Es gibt ein [UNITEC Drehmomentschlüssel  Einstellbar von 40 bis 210 Nm  Antrieb
 ℹ️:
 
 - Der Drehmomentschlüssel ist vom TÜV und GS geprüft
-- Der Antrieb ist 1/2" (12,7 mm) Vierkant
-- Bei dem UNITEC Drehmomentschlüssel sind eine 17mm und eine 19mm Stecknuss sowie eine Verlängerung inklusive
-- Der UNITEC Drehmomentschlüssel ist das Werkzeug für den professionellen Wartungs- und Reparatureinsatz am Auto, bestens geeignet für das Anziehen von Radmuttern, Zylinderkopfschrauben, usw.
-- Der Einstellungsbereich reicht von 40 bis 210 Nm, die Einstellungsskala ist in das Werkzeug eingeprägt und kann daher nicht verblassen
 - Eine Plastikbox zum sicheren Aufbewahren vom Drehmomentschlüssel wird mitgeliefert
+- Der Einstellungsbereich reicht von 40 bis 210 Nm, die Einstellungsskala ist in das Werkzeug eingeprägt und kann daher nicht verblassen
+- Der UNITEC Drehmomentschlüssel ist das Werkzeug für den professionellen Wartungs- und Reparatureinsatz am Auto, bestens geeignet für das Anziehen von Radmuttern, Zylinderkopfschrauben, usw.
+- Bei dem UNITEC Drehmomentschlüssel sind eine 17mm und eine 19mm Stecknuss sowie eine Verlängerung inklusive
+- Der Antrieb ist 1/2" (12,7 mm) Vierkant
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003A7IZV6/?tag=tolees0ca-21)
