@@ -28,9 +28,9 @@ Es gibt ein [Sony SEL-18200 Zoom-Objektiv  18-200 mm  F3.5-6.3  OSS  APS-C  geei
 
 ℹ️:
 
-- Hochleistungs-Zoomobjektiv für den ausschließlichen Einsatz an NEX-Kameras. Das Objektiv ist universell einsetzbar und ermöglicht Ultraweitwinkel bis Teleaufnahmen ohne Objektivwechsel
 - Asphärische Linsen: 4, Bildwinkel: 76° - 8°, Nahgrenze: 0,3-0,5m, Vergrößerungsfaktor: x0,35 (APS-C), Filtergewinde: 67mm, AF für Videoaufnahme
-- Brennweite: 18 - 200mm (entspricht Kleinbildformat: 27mm - 300mm), Blende: F3,5-6,3 (kleinste Blende: F22 - F40), Anzahl der Blendenlamellen: 7 (kreisförmige Anordnung)
 - Lieferumfang: Sony SEL-18200
+- Brennweite: 18 - 200mm (entspricht Kleinbildformat: 27mm - 300mm), Blende: F3,5-6,3 (kleinste Blende: F22 - F40), Anzahl der Blendenlamellen: 7 (kreisförmige Anordnung)
+- Hochleistungs-Zoomobjektiv für den ausschließlichen Einsatz an NEX-Kameras. Das Objektiv ist universell einsetzbar und ermöglicht Ultraweitwinkel bis Teleaufnahmen ohne Objektivwechsel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003OUX6NG/?tag=tolees0ca-21)

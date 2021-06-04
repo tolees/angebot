@@ -28,10 +28,10 @@ Es gibt ein [Schmidt Spiele 10V60402680V10 49270 Qwirkle Travel  Spiel des Jahre
 
 ℹ️:
 
-- Empfohlenes Alter: ab 6 Jahren
 - Spieldauer: 30 bis 45 Minuten
+- Empfohlenes Alter: ab 6 Jahren
 - Hochwertigen Reiseausgabe vom Spiel des Jahres 2011
-- Legespiel, welches taktisches und strategisches Denken erfordert
 - Spieleranzahl: 2 - 4
+- Legespiel, welches taktisches und strategisches Denken erfordert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00AOZVKR8/?tag=tolees0ca-21)

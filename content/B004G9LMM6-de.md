@@ -28,10 +28,10 @@ Es gibt ein [hjh OFFICE 657100 Profi Bürostuhl Venus Base Stoff/Netz Schwarz er
 
 ℹ️:
 
-- Abmessungen (H x B x T): 148 x 63 x 48 cm; Sitzhöhe: 47 – 58 cm; Sitzbreite: 53 cm; Sitztiefe: 43 – 48 cm; Höhe Rückenlehne: 60 – 66 cm; Höhe Armlehnen: 16 – 23 cm; Belastbar bis: 120 kg
-- Die ergonomisch geformte, höhenverstellbare Rückenlehne mit flexibler Lordosenstütze unterstützt bei einer gesunden und aufrechten Sitzhaltung; Stufenlose Sitzhöhenverstellung
+- Profi Bürodrehstuhl mit bequem gepolsterter Sitzfläche und atmungsaktivem Netzrücken; Sämtliche Teile und Mechaniken sind robust gefertigt und auf einen dauerhaften Gebrauch ausgelegt
 - Mehrfach arretierbare Synchronmechanik - zur Verstellung der Sitz- und Rückenneigung, individuell auf das Körpergewicht einstellbar, besonders großer Öffnungswinkel
 - Breite Sitzfläche mit verstellbarer Sitztiefe; Höhenverstellbare Armlehnen mit mittelharter Softpadauflage; Kopfstütze in Höhe und Neigung verstellbar
-- Profi Bürodrehstuhl mit bequem gepolsterter Sitzfläche und atmungsaktivem Netzrücken; Sämtliche Teile und Mechaniken sind robust gefertigt und auf einen dauerhaften Gebrauch ausgelegt
+- Abmessungen (H x B x T): 148 x 63 x 48 cm; Sitzhöhe: 47 – 58 cm; Sitzbreite: 53 cm; Sitztiefe: 43 – 48 cm; Höhe Rückenlehne: 60 – 66 cm; Höhe Armlehnen: 16 – 23 cm; Belastbar bis: 120 kg
+- Die ergonomisch geformte, höhenverstellbare Rückenlehne mit flexibler Lordosenstütze unterstützt bei einer gesunden und aufrechten Sitzhaltung; Stufenlose Sitzhöhenverstellung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004G9LMM6/?tag=tolees0ca-21)

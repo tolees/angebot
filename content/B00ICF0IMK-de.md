@@ -28,7 +28,7 @@ Es gibt ein [Pegasus Spiele 18114G - Port Royal](https://www.amazon.de/dp/B00ICF
 
 ℹ️:
 
-- Push-Your-Luck-Spielprinzip bringt Nervenkitzel
 - Stimmungsvolles Seefahrer-Flair
+- Push-Your-Luck-Spielprinzip bringt Nervenkitzel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ICF0IMK/?tag=tolees0ca-21)

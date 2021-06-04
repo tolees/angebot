@@ -28,9 +28,9 @@ Es gibt ein [ANSMANN 5044443 A-Can LP-E5 Li-Ion Digicam Akku 7 4V/1000mAh für C
 
 ℹ️:
 
+- Geeignet für: Canon EOS 450D/ 500D/ 1000D
 - Schutzelektronik mit umfassendem Schutz vor Überladung, Überspannung, Kurzschlüssen | Beste Passgenauigkeit
 - Der perfekte Ersatzakku oder Zweitakku für Ihre Kamera mit einer besonders langen Lebensdauer und bester Performance
-- Geeignet für: Canon EOS 450D/ 500D/ 1000D
 - Akkukapazität: 1000mAh / Zellenspannung: 7,4V / Zellenchemie: Lithium-Ion
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00180LKEQ/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Sie können [Olympus - Oympus ME-31 Richtmikrofon  geeignet für VN-Serie/WS-Ser
 
 ℹ️:
 
-- Lieferumfang: Oympus ME-31 Richtmikrofon
-- Standfuß mit abnehmbarem Griff
 - Für Vorträge und Außenaufnahmen
+- Standfuß mit abnehmbarem Griff
 - Solide Metallkonstruktion
+- Lieferumfang: Oympus ME-31 Richtmikrofon
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001MBU5LU/?tag=tolees0ca-21)

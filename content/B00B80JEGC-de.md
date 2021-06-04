@@ -28,10 +28,10 @@ Es gibt ein [Beurer PO 30 Pulsoximeter  Grau / Weiß  Ermittlung der Herzfrequen
 
 ℹ️:
 
-- Leicht ablesbares Farbdisplay
-- Ermittlung der arteriellen Sauerstoffsättigung (SpO2) und der Herzfrequenz (Pulsfrequenz)
 - Inkl. Halteband und Gürtel-Tasche
+- Ermittlung der arteriellen Sauerstoffsättigung (SpO2) und der Herzfrequenz (Pulsfrequenz)
 - Klein und leicht für zu Hause und unterwegs
+- Leicht ablesbares Farbdisplay
 - einfache und vollkommen schmerzfreie Messung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00B80JEGC/?tag=tolees0ca-21)

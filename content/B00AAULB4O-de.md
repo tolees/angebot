@@ -29,8 +29,8 @@ Es gibt ein [NSV - 4015 - Qwixx - nominiert zum Spiel des Jahres 2013 - Würfels
 ℹ️:
 
 - Sprache: Deutsch
+- QWIXX von Steffen Benndorf - Nominiert zum Spiel des Jahres 2013
 - Taktisches Würfelspiel , Klassisch einfach - einfach klasse!
 - Alter: ab 8 Jahren, Spieler: 2-5, Dauer: ca. 15Min
-- QWIXX von Steffen Benndorf - Nominiert zum Spiel des Jahres 2013
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00AAULB4O/?tag=tolees0ca-21)
