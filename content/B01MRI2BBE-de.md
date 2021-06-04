@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.25 % rabat auf Euro Video - Die Poenichen-Edition [6 DV'
-date: 2021-06-03 07:59:33
+date: 2021-06-04 14:31:07
 image: 'https://m.media-amazon.com/images/I/51PEeB+eTNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

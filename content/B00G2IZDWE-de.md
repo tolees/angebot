@@ -28,9 +28,9 @@ Es gibt ein [Trixie 40475 Streuschaufel mit Halter  L](https://www.amazon.de/dp/
 
 ℹ️:
 
+- Größe: Large
+- Für Fresh n easy Silikatstreu Granulat
 - Kunststoff Streuschaufel
 - Ständer ist leicht zu reinigen durch abnehmbaren Boden
-- Für Fresh n easy Silikatstreu Granulat
-- Größe: Large
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00G2IZDWE/?tag=tolees0ca-21)

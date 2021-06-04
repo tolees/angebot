@@ -28,7 +28,7 @@ Sie können [Trixie 24499 Keramiknapf  Katze  0 25 l/ø 13 cm  weiß](https://ww
 
 ℹ️:
 
-- Größe: 0,35 l (13 cm Durchmesser).
 - Keramik Schüssel.
+- Größe: 0,35 l (13 cm Durchmesser).
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LSKKJNS/?tag=tolees0ca-21)

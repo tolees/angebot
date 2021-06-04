@@ -28,10 +28,10 @@ Es gibt ein [Sera shrimps Nature 100 ml das Granulat mit u.a. Spirunlina und Erl
 
 ℹ️:
 
-- Für Garnelen im Süß- und Meerwasser für gutes Wachstum und regelmäßige Häutung
-- Die runde Form ermöglicht ein leichtes Greifen und Abweiden des Granulats
-- Schnell absinkendes und formstabiles Futter mit hochwertigen Spirulina und Seealgen
 - Gelegentlich kann sera marin gourmet nori zugefüttert werden
+- Schnell absinkendes und formstabiles Futter mit hochwertigen Spirulina und Seealgen
 - Hochwertige Rohstoffe wie z. B. Brennnessel, Weidenrinde, Paprika bieten eine artgerechte Nährstoffkombination für Vitalität, Fruchtbarkeit und brillante Färbung
+- Die runde Form ermöglicht ein leichtes Greifen und Abweiden des Granulats
+- Für Garnelen im Süß- und Meerwasser für gutes Wachstum und regelmäßige Häutung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001R5K6GU/?tag=tolees0ca-21)
