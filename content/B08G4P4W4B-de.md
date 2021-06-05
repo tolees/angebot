@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '65.03 % rabat auf LEGO 43104 VIDIYO Alien DJ Beatbox Music'
-date: 2021-06-03 08:54:09
+title: '65.33 % rabat auf LEGO 43104 VIDIYO Alien DJ Beatbox Music'
+date: 2021-06-05 08:34:50
 image: 'https://m.media-amazon.com/images/I/510baZixvbS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: 'tole.es'
 slug: 'B08G4P4W4B-de LEGO 43104 VIDIYO Alien DJ Beatbox Music Video Maker Musik...'
 sku: 'B08G4P4W4B-de'
 tags: [ 'Actionfiguren-Spielsets für Kinder','Kinderspielfiguren & -fahrzeuge','Spielfiguren- & Fahrzeugsets für Kinder','Spielzeug','lego', ]
-actualPrice: 6.99 EUR
+actualPrice: 6.93 EUR
 currency: EUR
-price: 6.99
+price: 6.93
 comparePrice: 19.99 EUR
 prodname: 'LEGO 43104 VIDIYO Alien DJ Beatbox Music Video Maker Musik Spielzeug für Kinder  AR Set App mit Minifigur'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4P4W4B/?tag=tolees0ca-21'
-descuento: '65.03'
-average: '10.9327777777777'
+descuento: '65.33'
+average: '10.7221052631578'
 ---
 
-Es gibt ein [LEGO 43104 VIDIYO Alien DJ Beatbox Music Video Maker Musik Spielzeug für Kinder  AR Set App mit Minifigur](https://www.amazon.de/dp/B08G4P4W4B/?tag=tolees0ca-21) mit aktuellem Preis 6.99 EUR (original: 19.99 EUR) 65.03 % Rabatt hier:
+Es gibt ein [LEGO 43104 VIDIYO Alien DJ Beatbox Music Video Maker Musik Spielzeug für Kinder  AR Set App mit Minifigur](https://www.amazon.de/dp/B08G4P4W4B/?tag=tolees0ca-21) mit aktuellem Preis 6.93 EUR (original: 19.99 EUR) 65.33 % Rabatt hier:
 
 [![LEGO 43104 VIDIYO Alien DJ Beatbox Music](https://m.media-amazon.com/images/I/510baZixvbS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4P4W4B/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Dieses Musikspielzeug enthält eine Alien DJ Minifigur, Zubehör für die Schallplatte, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
-- BeatBits, die auf der Bühne platziert werden, schalten Spezialeffekte in der App frei, wenn sie gescannt werden, um jedes Mal einzigartige, neue Musikvideos zu erstellen
 - Prüfe die Kompatibilität deines Geräts - lade die kostenlose App herunter und nimm vor dem Kauf dein erstes Musikvideo mit einem kostenlosen digitalen Bandmate auf. Suche im App Store oder bei Google Play nach "LEGO VIDIYO"
+- Dieses Musikspielzeug enthält eine Alien DJ Minifigur, Zubehör für die Schallplatte, 14 zufällige BeatBits, 2 spezielle BeatBits und eine Szene, die das Erstellen von Musikvideos ermöglicht
+- Entdecke weitere Spezialeffekte, Herausforderungen & Anpassungen, wähle aus und teile sie dann online mit Freunden in einem sicheren, kinderfreundlichen sozialen Feed
 - Mit über 90 BeatBits und 12 Figuren zum Sammeln, die alle von verschiedenen Musikgenres inspiriert sind, werden Kinder es lieben, ihre Sammlung zu erweitern und mit Freunden zu teilen.
 - Nutze die App, um den Alien DJ zum Leben zu erwecken, mit außerirdischen Vibes und Leuchtstäben, die Lichtspuren hinterlassen, wenn die Figur sie schwenkt!
 - Mit der kostenlosen LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
-- Entdecke weitere Spezialeffekte, Herausforderungen & Anpassungen, wähle aus und teile sie dann online mit Freunden in einem sicheren, kinderfreundlichen sozialen Feed
+- BeatBits, die auf der Bühne platziert werden, schalten Spezialeffekte in der App frei, wenn sie gescannt werden, um jedes Mal einzigartige, neue Musikvideos zu erstellen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4P4W4B/?tag=tolees0ca-21)

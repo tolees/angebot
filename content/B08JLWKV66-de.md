@@ -29,8 +29,8 @@ Es gibt ein [s simplecase - Simplecase 40 Stück FFP2 Maske  CE Zertifiziert von
 ℹ️:
 
 - Justierhilfe an den Ohrenschlaufen sorgt für perfekten Halt
-- Nach EN149:2001+A1:2009 CE Zertifiziert von EU Benannter Stelle CE 2834
-- FFP2 Maske, Filtert über 94% der Wasserhaltiger und Ölhaltiger Aerisole sowie Feinstaub
 - Schaumstoff under dem Nasenbügel sorgt für optimale Abdichtung und Komfort
+- FFP2 Maske, Filtert über 94% der Wasserhaltiger und Ölhaltiger Aerisole sowie Feinstaub
+- Nach EN149:2001+A1:2009 CE Zertifiziert von EU Benannter Stelle CE 2834
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08JLWKV66/?tag=tolees0ca-21)

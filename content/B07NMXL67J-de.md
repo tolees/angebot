@@ -28,13 +28,13 @@ Sie können [Amazon - Kindle Kids Edition – mit Zugriff auf mehr als tausend B
 
 ℹ️:
 
-- Die Bibliothek einfach mitnehmen. Der Kindle Kids Edition kann Tausende von Titeln speichern und verfügt über eine wochenlange Akkulaufzeit.
-- Kinder können ihre Lesefertigkeiten verbessern und neue Wörter lernen mit dem integrierten Wörterbuch und Vokabeltrainer.
 - Jetzt auch mit Audible. Verbinden Sie Kopfhörer oder Lautsprecher über Bluetooth, um Ihre Geschichte weiterzuhören.
 - Amazon Kids+ umfasst die gesamte Harry-Potter-Reihe sowie ausgewählte Titel weiterer beliebter Buchreihen, zum Beispiel Gregs Tagebuch.
-- Mit dem Abonnement für Amazon Kids+ (für 1 Jahr ohne zusätzliche Kosten) können Kinder über tausend beliebte Bücher und Reihen entdecken, darunter Harry Potter, Die drei ??? und viele weitere.
-- Kindle Kids Edition wurde eigens für das Lesen entwickelt und verfügt über ein Schwarzweißdisplay ohne Spiegeleffekte sowie eine wochenlange Akkulaufzeit. Anders als bei einem Tablet gibt es keine Ablenkung durch Spiele, Werbung oder Videos.
 - 2 Jahre Sorglos-Garantie: Sollte das Gerät kaputtgehen, ersetzen wir es kostenlos.
+- Kinder können ihre Lesefertigkeiten verbessern und neue Wörter lernen mit dem integrierten Wörterbuch und Vokabeltrainer.
 - Enthält einen Kindle (10. Generation), eine kindgerechte Hülle, 2 Jahre Sorglos-Garantie sowie 1 Jahr lang Zugriff auf Amazon Kids+ (FreeTime Unlimited) mit mehr als tausend Büchern ohne zusätzliche Kosten.
+- Kindle Kids Edition wurde eigens für das Lesen entwickelt und verfügt über ein Schwarzweißdisplay ohne Spiegeleffekte sowie eine wochenlange Akkulaufzeit. Anders als bei einem Tablet gibt es keine Ablenkung durch Spiele, Werbung oder Videos.
+- Die Bibliothek einfach mitnehmen. Der Kindle Kids Edition kann Tausende von Titeln speichern und verfügt über eine wochenlange Akkulaufzeit.
+- Mit dem Abonnement für Amazon Kids+ (für 1 Jahr ohne zusätzliche Kosten) können Kinder über tausend beliebte Bücher und Reihen entdecken, darunter Harry Potter, Die drei ??? und viele weitere.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NMXL67J/?tag=tolees0ca-21)
