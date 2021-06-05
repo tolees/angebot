@@ -29,9 +29,9 @@ Es gibt ein [GROHE Rainshower Icon Handbrause moon white/eco green  1 Strahlart 
 ℹ️:
 
 - Handbrause hat doppelte Wandung- dadurch keine extremen Temperaturschwankungen am Chrom- kein Verbrennen- keine Risse im Chrom
-- Wasserspar-Brause
-- Mit einem Wisch entkalkt
-- Lieferumfang: Handbrause, Dichtungsringe, Pflegeanleitung
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Wasserspar-Brause
+- Lieferumfang: Handbrause, Dichtungsringe, Pflegeanleitung
+- Mit einem Wisch entkalkt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002BG9TF8/?tag=tolees0ca-21)

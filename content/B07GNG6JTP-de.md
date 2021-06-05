@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.40 % rabat auf Auxmir Handtuchhaken 7 Stück Handtuchhal'
-date: 2021-06-03 06:08:49
+date: 2021-06-05 06:22:44
 image: 'https://m.media-amazon.com/images/I/41LfQUEgyYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

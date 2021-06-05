@@ -28,8 +28,8 @@ Es gibt ein [Lexmark 0E360H11E Tonerpatrone  9000 Seiten  für E360/460](https:/
 
 ℹ️:
 
+- Kartusche
 - Laser
 - Original-Kartusche
-- Kartusche
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001KJ8H4G/?tag=tolees0ca-21)
