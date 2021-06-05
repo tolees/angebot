@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '42.38 % rabat auf Philips LED WarmGlow Lampe ersetzt 50W  '
-date: 2021-05-13 14:30:31
+date: 2021-06-05 13:56:24
 image: 'https://m.media-amazon.com/images/I/41+QICexJMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Philips'
 buyurl: 'https://www.amazon.de/dp/B073FT1QT2/?tag=tolees0ca-21'
 descuento: '42.38'
-average: '22.32'
+average: '20.485'
 ---
 
 Es gibt ein [Philips LED WarmGlow Lampe ersetzt 50W  GU10  warmweiß  2200-2700 Kelvin   350 Lumen  Reflektor  dimmbar  6er Pack](https://www.amazon.de/dp/B073FT1QT2/?tag=tolees0ca-21) mit aktuellem Preis 14.98 EUR (original: 26.0 EUR) 42.38 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [Philips LED WarmGlow Lampe ersetzt 50W  GU10  warmweiß  2200-2700 
 
 ℹ️:
 
+- Hohe Farbwiedergabe für lebendige Farben (CRI > 80)
 - Wärmer werdender Lichteffekt beim Herunterdimmen - Für jede Stimmung das richtige Licht dank stufenloser Dimmbarkeit ohne Flackern
-- Produkt mit EyeComfort Siegel: Entwickelt, um Ihre Augen zu schonen
 - Geringer Energieverbrauch: Bis zu 90 Prozent Energieeinsparung im Vergleich zu herkömmlichen Leuchtmitteln
 - Genießen Sie angenehmes, warmweißes Licht wie bei herkömmlichen Glühlampen/ Halogenlampen
-- Hohe Farbwiedergabe für lebendige Farben (CRI > 80)
+- Produkt mit EyeComfort Siegel: Entwickelt, um Ihre Augen zu schonen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B073FT1QT2/?tag=tolees0ca-21)
