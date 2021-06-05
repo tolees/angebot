@@ -28,9 +28,9 @@ Sie können [tesamoll STANDARD Türdichtschiene für glatte Böden - Selbstklebe
 
 ℹ️:
 
-- Nach Bedarf kürzbar: Die Länge von 1 m lässt sich bedarfsgerecht anpassen - Schiene einfach mit einer Handsäge und Seitenschneider einkürzen und ankleben - fertig
-- Montage ohne Schrauben und Nägel: Da selbstklebend lässt sich der Zugluftstopper mühelos an der Tür anbringen - ganz ohne Bohren und Hämmern
 - Der zuverlässige Schutz vor Zugluft und Kälte: Selbstklebende Türdichtung für glatte Parkett-, Laminat-, Holzdielen- oder PVC-Böden schützt nicht nur vor Zug, sondern auch vor Staub und Lärm
+- Montage ohne Schrauben und Nägel: Da selbstklebend lässt sich der Zugluftstopper mühelos an der Tür anbringen - ganz ohne Bohren und Hämmern
+- Nach Bedarf kürzbar: Die Länge von 1 m lässt sich bedarfsgerecht anpassen - Schiene einfach mit einer Handsäge und Seitenschneider einkürzen und ankleben - fertig
 - Für eine bessere Raumatmosphäre: Kälte und Luftzug bleiben draußen - Wärme bleibt drinnen - zudem schützt die Dichtung vor Schall - unterstützt beim Energiesparen und sorgt für mehr Behaglichkeit
 - Türbodendichtung aus Kunststoff mit Bürste aus Nylonborsten: Maße: 1 m x 37 mm - geeignet für Spaltenbreiten bis zu 12 mm - mit bis zu 4 Jahren Lebensdauer nachhaltig und langlebig
 

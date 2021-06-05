@@ -28,12 +28,12 @@ Es gibt ein [Einhell Akku-Winkelschleifer TC-AG 18/115 Li-Solo Power X-Change  L
 
 ℹ️:
 
-- Einfache und bequeme Handhabung geht mit der Sicherheit Hand in Hand: Der Winkelschleifer verfügt über Softstart und Wiederanlaufschutz für erhöhte Anwendersicherheit und über einen Überlastschutz für die Langlebigkeit des Gerätes
-- Die schlanke Bauform mit dem ergonomischen Softgrip in Verbindung mit dem geringen Gewicht knapp über ein Kilo macht den Winkelschleifer einfach zu handhaben. Zusätzlich kann der Zusatzhandgriff flexibel in drei Positionen montiert werden
-- Die Lieferung erfolgt ohne Akku und Ladegerät, diese können, zum Beispiel als praktisches Starter-Set, separat erworben werden. Empfohlen für optimale Ergebnisse ist der Power X-Change 2, 6 Ah Plus-Akku und leistungsstärker
 - Das robuste Aluminium-Getriebegehäuse und die geänderte Luftführung für eine bessere Kühlung während des Einsatzes erhöhen die Lebensdauer des Akku-Winkelschleifers
+- Der Winkelschleifer ist Mitglied der Lithium-Ionen-Technologie von Einhell. Die Power X-Change-Reihe punktet mit starker Leistung und maximaler Flexibilität: Die Lithium-Ionen-Akkus können grenzenlos in allen Geräten der Reihe angewendet werden
+- Die Lieferung erfolgt ohne Akku und Ladegerät, diese können, zum Beispiel als praktisches Starter-Set, separat erworben werden. Empfohlen für optimale Ergebnisse ist der Power X-Change 2, 6 Ah Plus-Akku und leistungsstärker
 - Der leichteste Winkelschleifer seiner Klasse punktet durch eine hohe Laufruhe durch die Entkoppelung von Motor und Getriebe. Der Akku-Winkelschleifer bringt eine max. Leerlaufdrehzahl von 8.500 Umdrehungen/Minute und schneidet bis maximal 28 mm tief
 - Die Lieferung erfolgt ohne Trennscheibe. Passend für den Akku-Winkelschleifer sind Trennscheiben mit dem Durchmesser 115 mm
-- Der Winkelschleifer ist Mitglied der Lithium-Ionen-Technologie von Einhell. Die Power X-Change-Reihe punktet mit starker Leistung und maximaler Flexibilität: Die Lithium-Ionen-Akkus können grenzenlos in allen Geräten der Reihe angewendet werden
+- Einfache und bequeme Handhabung geht mit der Sicherheit Hand in Hand: Der Winkelschleifer verfügt über Softstart und Wiederanlaufschutz für erhöhte Anwendersicherheit und über einen Überlastschutz für die Langlebigkeit des Gerätes
+- Die schlanke Bauform mit dem ergonomischen Softgrip in Verbindung mit dem geringen Gewicht knapp über ein Kilo macht den Winkelschleifer einfach zu handhaben. Zusätzlich kann der Zusatzhandgriff flexibel in drei Positionen montiert werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079H2ZRVD/?tag=tolees0ca-21)

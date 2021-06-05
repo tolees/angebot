@@ -28,10 +28,10 @@ Sie können [Grohe Eurostyle Cosmopolitan | Badarmatur - Waschtischarmatur | mit
 
 ℹ️:
 
-- GROHE SILKMOVE BEDIENKOMFORT: Stellen Sie stufenlos die Temperatur und Wassermenge ein: Durch das hochwertige Innenleben der Armatur können Sie den Hebel ganz leicht bewegen – auch nach Jahren der Benutzung.
-- Lieferumfang: Waschtischarmatur, Zugstange, Ablaufstopfen, Befestigungsmaterial, Bedienungsanleitung
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
-- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
 - Flexible Anschlussschläuche für eine komfortable Installation
+- Lieferumfang: Waschtischarmatur, Zugstange, Ablaufstopfen, Befestigungsmaterial, Bedienungsanleitung
+- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
+- GROHE SILKMOVE BEDIENKOMFORT: Stellen Sie stufenlos die Temperatur und Wassermenge ein: Durch das hochwertige Innenleben der Armatur können Sie den Hebel ganz leicht bewegen – auch nach Jahren der Benutzung.
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B008HD5BZQ/?tag=tolees0ca-21)
