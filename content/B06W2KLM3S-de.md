@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Elgato Stream Deck Live Content Creation mit 17.33 % Rabatt'
-date: 2021-06-04 16:36:20
+title: 'Elgato Stream Deck Live Content Creation mit 34.67 % Rabatt'
+date: 2021-06-05 18:57:55
 image: 'https://m.media-amazon.com/images/I/41W-HxPBjHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B06W2KLM3S-de Elgato Stream Deck Live Content Creation Controller mit...'
 sku: 'B06W2KLM3S-de'
 tags: [ '72353031','Elektronik & Foto','Hifi & Audio','Media-Streaming','Media-Streaming-Clients','Produkte','Recording und Studio','Software','elgato', ]
-actualPrice: 123.99 EUR
+actualPrice: 97.99 EUR
 currency: EUR
-price: 123.99
+price: 97.99
 comparePrice: 149.99 EUR
 prodname: 'Elgato Stream Deck Live Content Creation Controller  mit personaliserbaren LCD-Tasten  einstellbaren Ständer  für Windows 10 und macOS 10.13 '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Elgato'
 buyurl: 'https://www.amazon.de/dp/B06W2KLM3S/?tag=tolees0ca-21'
-descuento: '17.33'
-average: '125.595624999999'
+descuento: '34.67'
+average: '123.971764705881'
 ---
 
-Sie können [Elgato Stream Deck Live Content Creation Controller  mit personaliserbaren LCD-Tasten  einstellbaren Ständer  für Windows 10 und macOS 10.13 ](https://www.amazon.de/dp/B06W2KLM3S/?tag=tolees0ca-21) mit Preis 123.99 EUR (original: 149.99 EUR) 17.33 % Rabatt hier:
+Sie können [Elgato Stream Deck Live Content Creation Controller  mit personaliserbaren LCD-Tasten  einstellbaren Ständer  für Windows 10 und macOS 10.13 ](https://www.amazon.de/dp/B06W2KLM3S/?tag=tolees0ca-21) mit Preis 97.99 EUR (original: 149.99 EUR) 34.67 % Rabatt hier:
 
 [![Elgato Stream Deck Live Content Creation](https://m.media-amazon.com/images/I/41W-HxPBjHL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B06W2KLM3S/?tag=tolees0ca-21)
 
@@ -30,8 +30,8 @@ Sie können [Elgato Stream Deck Live Content Creation Controller  mit personalis
 
 - Direkte Integration: Game Capture, OBS, TipeeeStream, Twitch und mehr steuern
 - Komplett anpassbar: Personalisierung der Tasten mit eigenen Icons oder Auswahl aus mehreren Hundert vorhandenen Icons
-- Einfaches Setup: die gewünschten Aktionen auf die Tasten in der App ziehen und fertig
-- 15 LCD-Tasten: Szenen wechseln, Medien starten, Ton anpassen, und vieles mehr
 - Sofortige Initiative: genau im richtigen Moment tweeten
+- 15 LCD-Tasten: Szenen wechseln, Medien starten, Ton anpassen, und vieles mehr
+- Einfaches Setup: die gewünschten Aktionen auf die Tasten in der App ziehen und fertig
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06W2KLM3S/?tag=tolees0ca-21)
