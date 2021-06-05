@@ -28,10 +28,10 @@ Es gibt ein [NSV - 4049 - THE GAME - Face to Face - Kartenspiel](https://www.ama
 
 ℹ️:
 
-- The Game Face to Face - Erweiterung zu The Game ( Spiel des Jahres 2015)
 - Alter: ab 8 Jahren, Spieler: 2, Dauer: ca. 20 Min
-- Sprache: Deutsch
 - 120 Spielkarten, Anleitung - Autor: Steffen Benndorf, Reinhard Staupe
+- The Game Face to Face - Erweiterung zu The Game ( Spiel des Jahres 2015)
 - Das Original Spiel "The Game" wird NICHT zusätzlich benötigt
+- Sprache: Deutsch
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076BZB2ZD/?tag=tolees0ca-21)

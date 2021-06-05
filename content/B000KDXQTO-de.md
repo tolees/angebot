@@ -28,11 +28,11 @@ Es gibt ein [GORE WEAR R5 2in1 Herren Laufhose  S  schwarz](https://www.amazon.d
 
 ℹ️:
 
+- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
+- Enganliegende Innenhose, Stretchmaterial für Bewegungsfreiheit, Gesäßtasche mit Reißverschluss
 - GORE R5 2in1 Shorts, Größe: S, Farbe: schwarz, 100621
 - Schmale Passform/Läuferspezifischer Schnitt, Reflektierende Details
-- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
 - Kurze Herren Laufhose (12,5 cm Schrittlänge) für warme Wetterbedingungen
 - Material: Oberstoff: 100% Polyamid Backing: 100% Polyester Stretch Panels: 84% Polyamid, 16% Elasthan Futter: 100% Polyester
-- Enganliegende Innenhose, Stretchmaterial für Bewegungsfreiheit, Gesäßtasche mit Reißverschluss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KDXQTO/?tag=tolees0ca-21)

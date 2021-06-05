@@ -28,8 +28,8 @@ Sie können [HITACHI HiKOKI Knickschrauber DB3DL2WCZ 3 6 Volt - inkl. 2x 1 5 Ah 
 
 ℹ️:
 
-- Mechanisches 2-Gang Getriebe
-- Ein/Ausschalter mit Rechts/ Links Funktion
 - 21-fach verstellbare Drehmomenteinrichtung
+- Ein/Ausschalter mit Rechts/ Links Funktion
+- Mechanisches 2-Gang Getriebe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07J147DJY/?tag=tolees0ca-21)

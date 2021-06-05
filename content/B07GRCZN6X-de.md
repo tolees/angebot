@@ -28,10 +28,10 @@ Es gibt ein [ABACUSSPIELE 38183 - Deckscape - Das Geheimnis von Eldorado  Escape
 
 ℹ️:
 
-- Zugängliche Spielregel
-- Das 4. Spiel der erfolgreichen Deckscape-Reihe
 - Keine Spielregeln lesen, sondern sofort losspielen
 - Angenehme Spieldauer
+- Zugängliche Spielregel
+- Das 4. Spiel der erfolgreichen Deckscape-Reihe
 - Die Spannung eines echten Escape Rooms in einem Kartenspiel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GRCZN6X/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Technaxx Mini-LED HD Beamer TX-127 - Heimkino|TX-127|1-20|0-1000|Ka
 
 ℹ️:
 
-- Wiedergabe von Video-, Foto- und Audiodateien über USB, MicroSD oder externe Festplatte
 - HD Mini-Projektor mit Multimedia-Player / Projektionsgröße von 27” bis 150"
-- Lange LED-Lebensdauer 40.000 Stunden / Kann über AV, VGA oder HDMI mit Computer/Notebook, Tablet, Smartphone und Spielekonsolen verbunden werden
 - Integrierter 3Watt Lautsprecher / Manuelle Fokuseinstellung
+- Wiedergabe von Video-, Foto- und Audiodateien über USB, MicroSD oder externe Festplatte
+- Lange LED-Lebensdauer 40.000 Stunden / Kann über AV, VGA oder HDMI mit Computer/Notebook, Tablet, Smartphone und Spielekonsolen verbunden werden
 - Fernbedienung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CRSJ5N7/?tag=tolees0ca-21)

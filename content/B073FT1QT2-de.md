@@ -28,10 +28,10 @@ Es gibt ein [Philips LED WarmGlow Lampe ersetzt 50W  GU10  warmweiß  2200-2700 
 
 ℹ️:
 
-- Hohe Farbwiedergabe für lebendige Farben (CRI > 80)
-- Wärmer werdender Lichteffekt beim Herunterdimmen - Für jede Stimmung das richtige Licht dank stufenloser Dimmbarkeit ohne Flackern
 - Geringer Energieverbrauch: Bis zu 90 Prozent Energieeinsparung im Vergleich zu herkömmlichen Leuchtmitteln
-- Genießen Sie angenehmes, warmweißes Licht wie bei herkömmlichen Glühlampen/ Halogenlampen
+- Wärmer werdender Lichteffekt beim Herunterdimmen - Für jede Stimmung das richtige Licht dank stufenloser Dimmbarkeit ohne Flackern
+- Hohe Farbwiedergabe für lebendige Farben (CRI > 80)
 - Produkt mit EyeComfort Siegel: Entwickelt, um Ihre Augen zu schonen
+- Genießen Sie angenehmes, warmweißes Licht wie bei herkömmlichen Glühlampen/ Halogenlampen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B073FT1QT2/?tag=tolees0ca-21)

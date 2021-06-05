@@ -28,9 +28,9 @@ Sie können [Codemasters - DiRT Rally 2.0 GOTY  Playstation 4 ](https://www.amaz
 
 ℹ️:
 
-- Beinhaltet das Hauptspiel, sowie Colin McRae Bonus
-- Das offizielle Spiel der FIA World Rallycross Championship
-- Über 60 Original-Fahrzeuge aus unterschiedlichen Fahrzeugklassen
 - Fahre den legendären SUBARU Impreza S4 Rally & SUBARU Legacy RS von Colin McRae
+- Das offizielle Spiel der FIA World Rallycross Championship
+- Beinhaltet das Hauptspiel, sowie Colin McRae Bonus
+- Über 60 Original-Fahrzeuge aus unterschiedlichen Fahrzeugklassen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085RNL5CR/?tag=tolees0ca-21)

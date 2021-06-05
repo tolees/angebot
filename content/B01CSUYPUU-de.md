@@ -28,10 +28,10 @@ Sie können [HABA 301939 - Greifpuzzle Bauernhof-Tierkinder  4-teiliges Holzpuzz
 
 ℹ️:
 
-- Ein farbenfrohes erstes Puzzle für Kinder ab 12 Monaten
-- Das liebevoll gestaltete Steckpuzzle fördert spielerisch das Erkennen und Benennen von Tieren und das Nachahmen von Tiergeräuschen
 - Die robusten Puzzleteile aus Holz lassen sich dank großer, griffiger Knöpfe einfach greifen und einsetzen
-- Kuh, Schwein, Schaf und Pferd – dieses bunte Holzpuzzle zeigt kleinen Tierfreunden, welche Tiere es auf dem Bauernhof zu entdecken gibt
 - Trainiert die Feinmotorik und das Unterscheiden von Größen und Formen
+- Das liebevoll gestaltete Steckpuzzle fördert spielerisch das Erkennen und Benennen von Tieren und das Nachahmen von Tiergeräuschen
+- Kuh, Schwein, Schaf und Pferd – dieses bunte Holzpuzzle zeigt kleinen Tierfreunden, welche Tiere es auf dem Bauernhof zu entdecken gibt
+- Ein farbenfrohes erstes Puzzle für Kinder ab 12 Monaten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01CSUYPUU/?tag=tolees0ca-21)
