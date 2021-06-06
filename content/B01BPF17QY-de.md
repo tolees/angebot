@@ -29,9 +29,9 @@ Sie können [Schleich 42301 Farm World Spielset - Fütterung der Bauernhoftiere 
 ℹ️:
 
 - Geeignet ist das Spielset für Kinder ab 3 Jahren - ideal als Geschenk für Jungen und Mädchen zum Geburtstag oder zu Weihnachten sowie für Fans der Schleich FARM WORLD
-- Die Schleich Figuren sind detailgetreu modelliert, liebevoll bemalt und stehen für pädagogisch wertvolles, fantasievolles Spielen. Hochwertig verarbeitet und mit einer tollen Oberflächengestaltung lassen sich Schleich Figuren mit Augen und Händen erleben
-- Mit den Spielzeugen von Schleich werden Kinder ermuntert sich kreative Geschichten auszudenken, deshalb ist dieses Spielset mit allen anderen Figuren und Spielsets aus der Schleich Familie kompatibel - für unbegrenzten Spielspaß
 - Das Zubehörset umfasst neben zwei Futtersäcken und einer Futterkiste, einen Salatkopf, eine Futterrübe, eine Kartoffel, eine Milchkanne, einen Eimer, eine Schubkarre sowie eine Heugabel mit aufspießbarem Heu
 - Bei diesem Set handelt es sich um passendes Futter- und Pflegezubehör zur Schleich Bauernhofwelt FARM WORLD. Damit können Kinder alle ihre Bauernhoftiere versorgen
+- Die Schleich Figuren sind detailgetreu modelliert, liebevoll bemalt und stehen für pädagogisch wertvolles, fantasievolles Spielen. Hochwertig verarbeitet und mit einer tollen Oberflächengestaltung lassen sich Schleich Figuren mit Augen und Händen erleben
+- Mit den Spielzeugen von Schleich werden Kinder ermuntert sich kreative Geschichten auszudenken, deshalb ist dieses Spielset mit allen anderen Figuren und Spielsets aus der Schleich Familie kompatibel - für unbegrenzten Spielspaß
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01BPF17QY/?tag=tolees0ca-21)
