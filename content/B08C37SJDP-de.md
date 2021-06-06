@@ -28,10 +28,10 @@ Sie können [EasyCHEE Powstay PM01A Partikelfiltrierende Schutzmaske FFP2 NR  CE
 
 ℹ️:
 
-- Mit CE-Kennzeichnung, EU-Konformitätserklärung, EG-Baumusterprüfbescheinigung. Deutschsprachige Verpackung sowie darin enthaltene Informationsbroschüre auf Deutsch, Englisch, Französisch, Italienisch, Spanisch und Niederländisch.
 - Erfüllt die Anforderungen der Europäischen Norm EN149:2001 + A1:2009 "Atemschutzgeräte / Partikelfiltrierende Halbmasken" zum Schutz gegen Partikel und entspricht den Anforderungen der Schutzklasse FFP2 in dieser Norm.
-- Europäisch zertifizierte partikelfiltrierende Halbmaske Powstay PM01A von EasyCHEE bietet sicheren Tragekomfort durch flexible Bänder, gepolsterte Nasenbügel und optional verwendbare Halteklammer zur Entlastung der Ohren.
-- 5-lagige Filterung, davon drei innere Lagen aus feinstem schmelzgeblasenem ("meltblown") Filtervlies.
 - In der Verkaufsverpackung befinden sich zwei hygienisch einzelverpackte, für den sicheren Dauereinsatz optimierte Schutzmasken. Erhältlich auch in der großen Verpackung mit 10 St!
+- Europäisch zertifizierte partikelfiltrierende Halbmaske Powstay PM01A von EasyCHEE bietet sicheren Tragekomfort durch flexible Bänder, gepolsterte Nasenbügel und optional verwendbare Halteklammer zur Entlastung der Ohren.
+- Mit CE-Kennzeichnung, EU-Konformitätserklärung, EG-Baumusterprüfbescheinigung. Deutschsprachige Verpackung sowie darin enthaltene Informationsbroschüre auf Deutsch, Englisch, Französisch, Italienisch, Spanisch und Niederländisch.
+- 5-lagige Filterung, davon drei innere Lagen aus feinstem schmelzgeblasenem ("meltblown") Filtervlies.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08C37SJDP/?tag=tolees0ca-21)

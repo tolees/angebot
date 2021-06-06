@@ -28,9 +28,9 @@ Es gibt ein [HOMCOM Kinder Klavier Mini-Klavier Piano Keyboard Musikinstrument M
 
 ℹ️:
 
-- ✅FÜR KINDER AB 3 JAHREN: Das Klavier für Kinder ist für 3-9 Jahren geeignet
-- ✅VIELE FUNKTIONEN: 3 Führungsmodelle; 8 Rhythmen; 8 Arten von Musikinstrumenten; 4 Schlagzeugfunktionen; 22 Demo-Lieder; Musik abspielen mit USB-Stick/MP3-Player; Aufnahme/Wiedergabe-Funktion; Karaoke mit Mikrofon
 - ✅ZERTIFIKATE: EN71, 7P, EN62115 zertifiziert
+- ✅VIELE FUNKTIONEN: 3 Führungsmodelle; 8 Rhythmen; 8 Arten von Musikinstrumenten; 4 Schlagzeugfunktionen; 22 Demo-Lieder; Musik abspielen mit USB-Stick/MP3-Player; Aufnahme/Wiedergabe-Funktion; Karaoke mit Mikrofon
+- ✅FÜR KINDER AB 3 JAHREN: Das Klavier für Kinder ist für 3-9 Jahren geeignet
 - ✅SPIELEN WIE DIR GROßEN: Auf 37 Tasten können Ihre Kinder ganze Lieder komponieren
 - ✅MIT LICHTEFFEKTEN: Mit LED-Leuchten, die beim Spielen flimmern
 
