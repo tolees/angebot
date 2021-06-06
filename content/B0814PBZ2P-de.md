@@ -28,10 +28,10 @@ Es gibt ein [Yamaha TW-E3A Bluetooth-Kopfhörer – Kabellose In-Ear-Kopfhörer 
 
 ℹ️:
 
+- Weder Regen noch Schweiß können den Kopfhörern etwas anhaben - mit dem IPX5 Wasserschutz können sie beim Sport oder beim Entspannen am See getragen werden
 - Die Kopfhörer, die sich der Umgebung anpassen: Dank einzigartiger Technologien von Yamaha und elegantem Design passen sich die kabellosen Ear Buds jeder Umgebung und jedem Lifestyle an
 - Die Steuerung aller Grundfunktionen wie Wiedergabe, Pause und Lautstärke erfolgt einfach über die Kopfhörer, sodass das Handy in der Tasche bleiben kann
 - Klarer, nicht lauter: Die Listening-Care-Technologie optimiert Audiofrequenzen, damit das Gehör nicht geschädigt wird - so geht die Musik schon bei niedriger Lautstärke besser ins Ohr
-- Weder Regen noch Schweiß können den Kopfhörern etwas anhaben - mit dem IPX5 Wasserschutz können sie beim Sport oder beim Entspannen am See getragen werden
 - Lieferumfang: Yamaha TW-E3A Wireless Headphones in Weiss / Inkl. Ladecase & Tragetasche / Ohrstöpsel aus Silikon in S/M/L / USB A-C Ladekabel / Wiedergabe: Max. 24h (6h + 3 Ladungen im Ladecase)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0814PBZ2P/?tag=tolees0ca-21)

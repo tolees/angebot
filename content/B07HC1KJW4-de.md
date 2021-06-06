@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '45.36 % rabat auf NSV - 4076 - QWANTUM - Würfelspiel'
-date: 2021-05-09 07:52:47
+date: 2021-06-06 10:16:49
 image: 'https://m.media-amazon.com/images/I/51QWy0AfdtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'NSV'
 buyurl: 'https://www.amazon.de/dp/B07HC1KJW4/?tag=tolees0ca-21'
 descuento: '45.36'
-average: '5.02333333333333'
+average: '4.99'
 ---
 
 Es gibt ein [NSV - 4076 - QWANTUM - Würfelspiel](https://www.amazon.de/dp/B07HC1KJW4/?tag=tolees0ca-21) mit aktuellem Preis 4.89 EUR (original: 8.95 EUR) 45.36 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [NSV - 4076 - QWANTUM - Würfelspiel](https://www.amazon.de/dp/B07HC
 
 ℹ️:
 
+- Sprache: Deutsch
+- ab 8 Jahren - 2-4 Spieler - ca. 15 Minuten
+- 7 Holzwürfel, 4 Bleistifte, 1 Spielblock, 1 Anleitung
 - Aller guten Dinge sind drei!
 - Autor: Anna Oppolzer, Stefan Kloß, Reinhard Staupe
-- ab 8 Jahren - 2-4 Spieler - ca. 15 Minuten
-- Sprache: Deutsch
-- 7 Holzwürfel, 4 Bleistifte, 1 Spielblock, 1 Anleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07HC1KJW4/?tag=tolees0ca-21)
