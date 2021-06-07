@@ -28,10 +28,10 @@ Es gibt ein [Olympus MCON-P02 Makro Konverter  geeignet für EZ-M1442 IIR  EZ-M1
 
 ℹ️:
 
+- Lieferumfang:Olympus MCON-P02 Makro Konverter
+- für die perfekte Ausleuchtung kombinieren Sie es mit dem Marko Arm Light
 - aus hochwertigen Materialien (Glas/Metal)
 - Reduziert den minimalen Aufnahmeabstand
-- Lieferumfang:Olympus MCON-P02 Makro Konverter
 - für tolle Nahaufnahmen
-- für die perfekte Ausleuchtung kombinieren Sie es mit dem Marko Arm Light
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00I1CP2QQ/?tag=tolees0ca-21)

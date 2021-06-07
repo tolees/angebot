@@ -28,11 +28,11 @@ Es gibt ein [FALKE Damen Softmerino W TI Strumpfhose  Blickdicht  Schwarz  Black
 
 ℹ️:
 
-- Einzigartige FALKE-Qualität: Wir haben höchste Ansprüche an das, was Ihren Körper schützt und wärmt. FALKE: Traditionsunternehmen und höchste Qualität seit 1895
-- Modellnummer FALKE Damen Softmerino Strumpfhose: 48425; Größen: S (DE 36-38), S-M (DE 38-40), M (DE 40-42), M-L (DE 42-44), L (DE 44-46), XL (DE 48-50). Dieser Artikel entspricht der Oeko-Tex Klasse 1 Standard 100, dem höchsten Qualitätsstandard in Deutschland
-- Blickdichte Strumpfhose verstärkt und warm; ohne Plüsch und aus weichem Material; Uni mit weichem Bund für druckfreien Halt und für Zuhause, zum Fasching, Karneval, Ballett, sowie zum Turnen sehr gut geeignet; 1 Strumpfhose einfarbig ohne Motiv von FALKE
-- FALKE Softmerino Strumpfhose ist nicht glänzend und für Schuhe wie Ballerina, Sneaker, Halbschuhe und Steifel geeignet; Passform und Farbe bleiben auch nach mehrmaligem Waschen erhalten; Diese Strumpfhosen sind bei 40°C im Schonwaschgang zu waschen
 - Strumpfhose elastisch, wärmend, nicht gemustert und nicht durchsichtig; Unsere Strumpfhosen liegen angenehm auf der Haut sowie bequem am Fuß; Damenstrumpfhosen zum Rock oder Kleid für Frauen, Teenager und Mädchen für den Frühling, Herbst und Winter in vielen Farben
+- Blickdichte Strumpfhose verstärkt und warm; ohne Plüsch und aus weichem Material; Uni mit weichem Bund für druckfreien Halt und für Zuhause, zum Fasching, Karneval, Ballett, sowie zum Turnen sehr gut geeignet; 1 Strumpfhose einfarbig ohne Motiv von FALKE
 - Perfekte Proportionen und Passform durch spezielle Strickverfahren. Hohe Qualität mit weicher Naht an den Zehen und Zehenverstärkung, welche vor Druckstellen schützt und die Haltbarkeit erhöht. Mit geformter und verstärkter Ferse für einen optimalen, faltenfreien Sitz am Fuß
+- Modellnummer FALKE Damen Softmerino Strumpfhose: 48425; Größen: S (DE 36-38), S-M (DE 38-40), M (DE 40-42), M-L (DE 42-44), L (DE 44-46), XL (DE 48-50). Dieser Artikel entspricht der Oeko-Tex Klasse 1 Standard 100, dem höchsten Qualitätsstandard in Deutschland
+- FALKE Softmerino Strumpfhose ist nicht glänzend und für Schuhe wie Ballerina, Sneaker, Halbschuhe und Steifel geeignet; Passform und Farbe bleiben auch nach mehrmaligem Waschen erhalten; Diese Strumpfhosen sind bei 40°C im Schonwaschgang zu waschen
+- Einzigartige FALKE-Qualität: Wir haben höchste Ansprüche an das, was Ihren Körper schützt und wärmt. FALKE: Traditionsunternehmen und höchste Qualität seit 1895
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000WKY70M/?tag=tolees0ca-21)

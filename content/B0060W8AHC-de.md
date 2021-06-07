@@ -28,10 +28,10 @@ Es gibt ein [Leitz Qualitäts-Ordner  Wolkenmarmor-Papier  A4  5 2 cm Rückenbre
 
 ℹ️:
 
-- 3x Qualitäts-Ordner mit blauem Rücken und Wolkenmarmor-Papier-Cover, 5,2 cm Rückenbreite, Zur Ablage von bis zu 350 (80 g/m²) Blatt, Für den täglichen Gebrauch Zuhause oder im Büro
 - 50% weiteres Öffnen und 20 % schnelleres, beidseitiges Abheften dank stabiler, patentierter 180°-Präzisionsmechanik, Hohe Schließkraft, auf Präzisionsmechanik
-- Geklebtes Rückenschild, Einfache Beschriftung mit Leitz-Easyprint, Individuelle Gestaltung der Etiketten auf der Leitz-Homepage
+- 3x Qualitäts-Ordner mit blauem Rücken und Wolkenmarmor-Papier-Cover, 5,2 cm Rückenbreite, Zur Ablage von bis zu 350 (80 g/m²) Blatt, Für den täglichen Gebrauch Zuhause oder im Büro
 - Lieferumfang: 3x Leitz Qualitäts-Ordner, Wolkenmarmor-Papier in grau mit blauem Rücken, 310315035, Abmessungen 55x318x285 mm, A4, zwei fach Lochung
+- Geklebtes Rückenschild, Einfache Beschriftung mit Leitz-Easyprint, Individuelle Gestaltung der Etiketten auf der Leitz-Homepage
 - FSC-Zertifizierung, GS-geprüft, Blauer Engel, Griffloch, Zusammenhalt und Standfestigkeit dank festem Einrasten der Schlitze, Hohe Langlebigkeit dank unempfindlichem Wolkenmarmor-Papierüberzug, Metall- Kantenschutz,
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0060W8AHC/?tag=tolees0ca-21)
