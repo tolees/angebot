@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elgato Stream Deck Live Content Creation mit 34.67 % Rabatt'
-date: 2021-06-05 18:57:55
+date: 2021-06-07 02:44:35
 image: 'https://m.media-amazon.com/images/I/41W-HxPBjHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Elgato'
 buyurl: 'https://www.amazon.de/dp/B06W2KLM3S/?tag=tolees0ca-21'
 descuento: '34.67'
-average: '123.971764705881'
+average: '122.528333333332'
 ---
 
 Sie können [Elgato Stream Deck Live Content Creation Controller  mit personaliserbaren LCD-Tasten  einstellbaren Ständer  für Windows 10 und macOS 10.13 ](https://www.amazon.de/dp/B06W2KLM3S/?tag=tolees0ca-21) mit Preis 97.99 EUR (original: 149.99 EUR) 34.67 % Rabatt hier:
@@ -28,10 +28,10 @@ Sie können [Elgato Stream Deck Live Content Creation Controller  mit personalis
 
 ℹ️:
 
+- Einfaches Setup: die gewünschten Aktionen auf die Tasten in der App ziehen und fertig
 - Direkte Integration: Game Capture, OBS, TipeeeStream, Twitch und mehr steuern
 - Komplett anpassbar: Personalisierung der Tasten mit eigenen Icons oder Auswahl aus mehreren Hundert vorhandenen Icons
 - Sofortige Initiative: genau im richtigen Moment tweeten
 - 15 LCD-Tasten: Szenen wechseln, Medien starten, Ton anpassen, und vieles mehr
-- Einfaches Setup: die gewünschten Aktionen auf die Tasten in der App ziehen und fertig
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06W2KLM3S/?tag=tolees0ca-21)
