@@ -28,14 +28,14 @@ Sie können [FISCHER Twin Fahrrad-Rücklicht mit 360° Bodenleuchte für mehr Si
 
 ℹ️:
 
+- AKKU: Aufladbarer Li-Ionen- Akku (700mAh) per Micro-USB Ladebuchse aufladbar
 - RÜCKLICHT: 5 High-Power-LEDs nach hinten mit 360° Bodenbeleuchtung für eine höhere Sichtbarkeit
+- StVZO zugelassen, mit KBA-Zulassung der Front- und Rückleuchte
+- LEUCHTDAUER: Bis zu ca. 4 Stunden
+- PASSEND: Universalhalterungen für Front- und Rücklicht, mit Schnellverschluss, jeweils 90° drehbar
 - LADEN: Das Ladekabel ist im Lieferumfang enthalten. Die Ladedauer beträgt ca. 2 Stunden
 - MONTAGE: Einfache, werkzeuglose Montage durch elastische Schnellbefestigung
-- [Lieferung der Beleuchtung ohne abgebildetes E-Bike. Dies dient nur zur Dekoration]
 - SICHER: Spritzwassergeschütztes Gehäuse nach IP44 Standard
-- LEUCHTDAUER: Bis zu ca. 4 Stunden
-- StVZO zugelassen, mit KBA-Zulassung der Front- und Rückleuchte
-- PASSEND: Universalhalterungen für Front- und Rücklicht, mit Schnellverschluss, jeweils 90° drehbar
-- AKKU: Aufladbarer Li-Ionen- Akku (700mAh) per Micro-USB Ladebuchse aufladbar
+- [Lieferung der Beleuchtung ohne abgebildetes E-Bike. Dies dient nur zur Dekoration]
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07T1CFJ9Z/?tag=tolees0ca-21)
