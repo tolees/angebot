@@ -28,7 +28,7 @@ Es gibt ein [Wrigley s Spearmint Kaugummi | Minz-Geschmack | 8 Packungen  8 x 15
 
 ℹ️:
 
-- Wrigleys Klassiker
 - Der Klassiker Kaugummi
+- Wrigleys Klassiker
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0057DWZ0S/?tag=tolees0ca-21)
