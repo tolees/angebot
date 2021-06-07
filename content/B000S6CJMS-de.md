@@ -28,10 +28,10 @@ Es gibt ein [Ponal Express Holzleim  transparent und schnell trocknender Holzkle
 
 ℹ️:
 
-- Transparent trocknend – Der Bastelleim trocknet transparent für professionelle und natürliche Ergebnisse. Frische Leimreste können einfach mit Wasser entfernt werden.
 - Schnell belastbar – Der Ponal Holzleim trocknet in 5 Minuten und ist ideal für diverse Montage-, Fugen- & Flächenverleimungen sowie für jegliche Bastelarbeiten geeignet.
-- Wasserfester Kleber– Dank seiner Formel ist der Holzleim wasserfest und hat eine hohe Verleimungsfestigkeit bei geringer Abbindezeit (Beanspruchungsgruppe D2, DIN EN 204).
 - Praktische Dosierung – Durch die praktische und wiederverschließbare Leimflasche mit feiner Spitze kann der Klebstoff einfach und präzise dosiert werden.
+- Transparent trocknend – Der Bastelleim trocknet transparent für professionelle und natürliche Ergebnisse. Frische Leimreste können einfach mit Wasser entfernt werden.
 - Praktischer Lieferumfang – Ponal Express Holzleim, wasserfester Weißleim in Dosierflasche, ideal als Bastelkleber & Montagekleber, trocknet transparent, 5 Min. Abbindezeit, lösemittelfrei, 1x550g
+- Wasserfester Kleber– Dank seiner Formel ist der Holzleim wasserfest und hat eine hohe Verleimungsfestigkeit bei geringer Abbindezeit (Beanspruchungsgruppe D2, DIN EN 204).
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000S6CJMS/?tag=tolees0ca-21)
