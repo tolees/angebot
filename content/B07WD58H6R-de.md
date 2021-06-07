@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.90 % rabat auf Sony WH-CH510 kabellose Bluetooth Kopfhö'
-date: 2021-06-05 20:42:13
+date: 2021-06-07 14:31:11
 image: 'https://m.media-amazon.com/images/I/41SNAhNcaDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07WD58H6R/?tag=tolees0ca-21'
 descuento: '41.90'
-average: '34.2764640883979'
+average: '34.2474175824177'
 ---
 
 Es gibt ein [Sony WH-CH510 kabellose Bluetooth Kopfhörer  kraftvoller Klang  eingebauter Sprachassistent  Quick Charge  bis zu 35 Stunden Akkulaufzeit  wireless  Schwarz](https://www.amazon.de/dp/B07WD58H6R/?tag=tolees0ca-21) mit aktuellem Preis 28.99 EUR (original: 49.9 EUR) 41.90 % Rabatt hier:
@@ -29,10 +29,10 @@ Es gibt ein [Sony WH-CH510 kabellose Bluetooth Kopfhörer  kraftvoller Klang  ei
 ℹ️:
 
 - Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtungen mehr Dank eingebautem Sprachassistent
-- Integrierte Headset-Funktion für handfreies Telefonieren
-- Bluetooth Version 5.0, Effektiver Bereich: Sichtverbindung ca. 10 m, Frequenzbereich: 2,4-GHz-Band (2,4–2,4835 GHz).
 - 30 mm Treiber mit Neodymium Magnet liefert einen kraftvollen Klang
+- Integrierte Headset-Funktion für handfreies Telefonieren
 - Akkulaufzeit: bis zu 35 Std abhängig vom verwendeten Modus
+- Bluetooth Version 5.0, Effektiver Bereich: Sichtverbindung ca. 10 m, Frequenzbereich: 2,4-GHz-Band (2,4–2,4835 GHz).
 - Quick Charge: 10 Minuten Aufladen für 1, 5 Std Audiowiedergabe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WD58H6R/?tag=tolees0ca-21)

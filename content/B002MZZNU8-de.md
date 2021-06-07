@@ -28,10 +28,10 @@ Es gibt ein [SONAX 340000 GummiPfleger mit Schwammapplikator  100 ml  reinigt  p
 
 ℹ️:
 
-- Reifen lassen sich mühelos reinigen und erhalten ihren ursprünglichen Glanz zurück.
-- Im Sommer reinigt und pflegt der SONAX GummiPfleger den Gummi, hält ihn geschmeidig, frischt die Farben auf, schützt vor Austrocknen und Brüchigwerden und beugt vorzeitiger Alterung vor. Auch für den Haushalt geeignet.
-- SONAX GummiPfleger reinigt und pflegt alle Gummiteile am Auto und hält sie weich und elastisch. Verhindert im Winter das Festkleben und Festfrieren von Gummidichtungen an Türen, Scheiben, Kofferraumdeckeln, Schiebedächern und Cabriodächern.
 - SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt.
+- Reifen lassen sich mühelos reinigen und erhalten ihren ursprünglichen Glanz zurück.
+- SONAX GummiPfleger reinigt und pflegt alle Gummiteile am Auto und hält sie weich und elastisch. Verhindert im Winter das Festkleben und Festfrieren von Gummidichtungen an Türen, Scheiben, Kofferraumdeckeln, Schiebedächern und Cabriodächern.
+- Im Sommer reinigt und pflegt der SONAX GummiPfleger den Gummi, hält ihn geschmeidig, frischt die Farben auf, schützt vor Austrocknen und Brüchigwerden und beugt vorzeitiger Alterung vor. Auch für den Haushalt geeignet.
 - Lieferumfang: 1x SONAX 03400000 GummiPfleger mit Schwammapplikator in Blisterverpackung (100 ml)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002MZZNU8/?tag=tolees0ca-21)
