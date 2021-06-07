@@ -28,10 +28,10 @@ Sie können [Ravensburger Kinderpuzzle 06768 - Rettungseinsatz - Rahmenpuzzle](h
 
 ℹ️:
 
-- Format: circa 32,5 x 24,5cm
 - Alter: ab 4 Jahren
-- Sicheres Spielen garantiert durch ausschließliche Verwendung geprüfter Materialien
 - Konturlinien auf der Unterlage unterstützen beim Puzzeln
 - Rahmenpuzzle – Puzzle und praktische Unterlage in einem
+- Format: circa 32,5 x 24,5cm
+- Sicheres Spielen garantiert durch ausschließliche Verwendung geprüfter Materialien
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000MDOD3U/?tag=tolees0ca-21)

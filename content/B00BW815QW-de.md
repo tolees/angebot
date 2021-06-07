@@ -28,10 +28,10 @@ Sie können [Label-the-cable Kabelschlauch / Kabelschutz / Kabelkanal: Gewebter 
 
 ℹ️:
 
-- Kabelmantel: Durch einen kleinen Einschnitt können Kabel in die Kabelsocke ein­ und ausgeführt werden, ohne den Schlauch zu unterbrechen. Ideal geeignet für Nischen, Ecken, spitze Winkel.
-- Design-Kabelschutz: Selbstschließender Kabelschlauch / Kabelstrumpf für schnelles Bündeln, Verstecken und Aufräumen von Kabeln in Haushalt, Büro, Agentur, Praxis und Werkstatt.
 - Einfaches Verstauen: seitliches Öffnen für müheloses Einführen und Entnehmen von Kabeln, Kabelhülle kann ohne Abstecken der Geräte angebracht werden.
-- LTC CABLE TUBE: Kabelführung ROHS-­konform, temperaturbeständig von -50 bis +150 °C, feuerbeständig, waschbar bis 60°C, Lieferumfang Kabelmanagement: 1 x 2 m Kabelschlauch LTC CABLE TUBE
 - Einfaches Zuschneiden auf individuelle Länge, ohne dass sich das Gewebe auftrennt. Der flexible und robuste Kabelkanal passt sich optimal an die Kabelmenge an (Durchmesser 2,5­ - 4 cm)
+- LTC CABLE TUBE: Kabelführung ROHS-­konform, temperaturbeständig von -50 bis +150 °C, feuerbeständig, waschbar bis 60°C, Lieferumfang Kabelmanagement: 1 x 2 m Kabelschlauch LTC CABLE TUBE
+- Design-Kabelschutz: Selbstschließender Kabelschlauch / Kabelstrumpf für schnelles Bündeln, Verstecken und Aufräumen von Kabeln in Haushalt, Büro, Agentur, Praxis und Werkstatt.
+- Kabelmantel: Durch einen kleinen Einschnitt können Kabel in die Kabelsocke ein­ und ausgeführt werden, ohne den Schlauch zu unterbrechen. Ideal geeignet für Nischen, Ecken, spitze Winkel.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00BW815QW/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Sie können [SIGEL GL120 Premium Glas-Magnetboard 60 x 40 cm schwarz / Magnettaf
 ℹ️:
 
 - 25 Jahre Garantie auf die Glasoberfläche bei Verwendung von Sigel-Zubehör (weitere Infos im anhängenden PDF unter "Technische Details"). Bitte beachten: es werden starke Neodym- / SuperDym-Magnete benötigt (normale Magnete, z. B. für Kühlschränke halten auf Glas-Magnettafeln nicht).
-- Beschreibbar mit Glasboard- und Whiteboard-Markern, trocken und feucht abwischbar. Tipp: Für komfortables Schreiben empfehlen wir Sigel Glasboardmarker (weißes 2er Set GL715).
-- Stylische Alternative zur Pinnwand: designprämierte Glas-Magnettafel, die als Memoboard in Küche, Flur oder Homeoffice die Organisation übernimmt – magnethaftend und beschreibbar.
 - Einfache Montage, Lieferung incl. drei extra starke SuperDym- / Neodym-Magnete im Cube-Design (Art.-Nr. GL705), Befestigungsmaterial, Montageanleitung (auch hier zum Download) und Bohrschablone.
+- Stylische Alternative zur Pinnwand: designprämierte Glas-Magnettafel, die als Memoboard in Küche, Flur oder Homeoffice die Organisation übernimmt – magnethaftend und beschreibbar.
 - Schwebender 3D-Look durch rahmenlose Aufhängung. Platzierung im Hoch- und Querformat möglich. Glasboard aus Sicherheitsglas / Tempered Glas (ESG, EN 12150-1), Produkt TÜV- und GS-geprüft (SGS TÜV Saar). Feucht und trocken abwischbar.
+- Beschreibbar mit Glasboard- und Whiteboard-Markern, trocken und feucht abwischbar. Tipp: Für komfortables Schreiben empfehlen wir Sigel Glasboardmarker (weißes 2er Set GL715).
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003QGMH3S/?tag=tolees0ca-21)
