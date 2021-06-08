@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '43.48 % rabat auf LEGO Produkttitel fehlt - Wird nachgerei'
-date: 2021-06-06 12:01:59
+title: '48.52 % rabat auf LEGO Produkttitel fehlt - Wird nachgerei'
+date: 2021-06-08 08:47:39
 image: 'https://m.media-amazon.com/images/I/51MxKMjgEFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07W5PTR8N-de LEGO Produkttitel fehlt - Wird nachgereicht'
 sku: 'B07W5PTR8N-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 16.95 EUR
+actualPrice: 15.44 EUR
 currency: EUR
-price: 16.95
+price: 15.44
 comparePrice: 29.99 EUR
 prodname: 'LEGO Produkttitel fehlt - Wird nachgereicht'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W5PTR8N/?tag=tolees0ca-21'
-descuento: '43.48'
-average: '19.6073972602739'
+descuento: '48.52'
+average: '19.551081081081'
 ---
 
-Es gibt ein [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W5PTR8N/?tag=tolees0ca-21) mit aktuellem Preis 16.95 EUR (original: 29.99 EUR) 43.48 % Rabatt hier:
+Es gibt ein [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07W5PTR8N/?tag=tolees0ca-21) mit aktuellem Preis 15.44 EUR (original: 29.99 EUR) 48.52 % Rabatt hier:
 
 [![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51MxKMjgEFL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W5PTR8N/?tag=tolees0ca-21)
 
