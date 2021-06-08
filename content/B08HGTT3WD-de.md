@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Entertainment - Wizarding Wo mit 20.03 % Rabatt'
-date: 2021-06-07 02:19:33
+date: 2021-06-08 02:50:16
 image: 'https://m.media-amazon.com/images/I/41-Drd87M3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08HGTT3WD/?tag=tolees0ca-21'
 descuento: '20.03'
-average: '37.3299999999998'
+average: '37.2202040816325'
 ---
 
 Sie können [Warner Bros Entertainment - Wizarding World 10-Film Collection [10 DVDs]](https://www.amazon.de/dp/B08HGTT3WD/?tag=tolees0ca-21) mit Preis 31.95 EUR (original: 39.95 EUR) 20.03 % Rabatt hier:
