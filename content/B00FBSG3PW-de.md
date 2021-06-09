@@ -28,9 +28,9 @@ Sie können [Cooler Master NotePal A200 Notebook-Kühler  2 x Leise 140mm Lüfte
 
 ℹ️:
 
-- ergonomisches Design für den besten Betrachtungs und Schreibwinkel
 - nur 23mm ultra dünn
 - 2 USB-Ausgänge
+- ergonomisches Design für den besten Betrachtungs und Schreibwinkel
 - leiser 140mm Notebook- Kühler
 - Geschwindigkeitsregler
 

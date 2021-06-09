@@ -28,10 +28,10 @@ Sie können [10M LED Strip  COOLAPA RGB LED Streifen mit 40-Tasten Fernbedienung
 
 ℹ️:
 
-- Einfache Installation: Im Lieferumfang gibt es 2 Rollen 5m LED-Streifen (insgesamt 10 m). Der gut verdrahtete Stecker bringt Ihnen ein besseres Erlebnis. Auch die Installation ist einfach. Der Streifen lässt sich fest auf einer trockenen und glatten Oberfläche anbringen. (Bitte reinigen Sie die Oberfläche vor der Installation)
-- Lieferumfang: 2 x 5m LED-Streifen, 1 x IR-Empfänger, 1 x Fernbedienung, 1 x AC/DC-Adapter, 1 x Bedienungsanleitung (bitte vor Gebrauch sorgfältig lesen). Bei Fragen bitte kontaktieren Sie uns direkt.
-- LED-Strip: Dieser RGB-LED-Streifen Helligkeit kann per Fernbedienung eingestellt werden. 28 dynamische Modi sind verfügbar, wie z.B. SCHNELL, LANGSAM, SPRINGEN, BLINKEN usw. Sie können die Farbe frei steuern.
 - Breiter Einsatz: Der LED-Streifen kann als Dekoration für Schlafzimmer, Treppe, TV, Balkon, Schreibtisch, Wohnzimmer, Garten, Bar, Restaurant und Hotel verwendet werden.HINWEIS: Dieser LED-Strip ist nicht wasserdicht.
+- Lieferumfang: 2 x 5m LED-Streifen, 1 x IR-Empfänger, 1 x Fernbedienung, 1 x AC/DC-Adapter, 1 x Bedienungsanleitung (bitte vor Gebrauch sorgfältig lesen). Bei Fragen bitte kontaktieren Sie uns direkt.
 - Steuerung durch APP & Musiksynchronisation: Der LED-Strip kann per IR-Fernbedienung oder APP gesteuert werden. Er verfügt über ein Mikrofon mit einstellbarer Empfindlichkeit. Mithilfe des intelligenten Musikmodus ändert sich der Lichteffekt mit der Musik.
+- LED-Strip: Dieser RGB-LED-Streifen Helligkeit kann per Fernbedienung eingestellt werden. 28 dynamische Modi sind verfügbar, wie z.B. SCHNELL, LANGSAM, SPRINGEN, BLINKEN usw. Sie können die Farbe frei steuern.
+- Einfache Installation: Im Lieferumfang gibt es 2 Rollen 5m LED-Streifen (insgesamt 10 m). Der gut verdrahtete Stecker bringt Ihnen ein besseres Erlebnis. Auch die Installation ist einfach. Der Streifen lässt sich fest auf einer trockenen und glatten Oberfläche anbringen. (Bitte reinigen Sie die Oberfläche vor der Installation)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08B3C1TQR/?tag=tolees0ca-21)
