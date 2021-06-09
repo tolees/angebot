@@ -28,11 +28,11 @@ Es gibt ein [OSRAM Lamps - OSRAM Smart+ LED Streifen  ZigBee  warmweiß  tagesli
 
 ℹ️:
 
-- Individuelle Lichtatmosphäre -> Steuern der Farbtemperatur von warmweiß (2000 K) bis tageslichtweiß (6500 K), Dimmen und RGB Farbwechsel - ganz einfach über die App, per Sprachkommando oder auch aus der Ferne
-- Geringer Stromverbrauch -> energiesparende 11 W LED mit Energieeffizienzklasse A und einer Lichtleistung von 600 Lumen
-- ZigBee Produkt -> Erweitern Sie Ihr Smart Home mit dem Flex 3P Multicolor: Sie können das Leuchtmittel mit ZigBee Gateway und App steuern, direkt mit Echo Plus oder mit Amazon Echo und Amazon Echo fähigem Gateway
-- Lange Lebensdauer und sofort volles Licht -> Der LED Streifen leuchtet bis zu 20000 Stunden (ca. 20 Jahre), hat keine Aufwärmzeit und nur eine geringe Wärmeentwicklung
-- Flexible, einfache Montage -> selbstklebender, trennbarer und erweiterbarer Streifen für eine indirekte Beleuchtung ganz nach Ihren Wünschen
 - Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
+- Geringer Stromverbrauch -> energiesparende 11 W LED mit Energieeffizienzklasse A und einer Lichtleistung von 600 Lumen
+- Lange Lebensdauer und sofort volles Licht -> Der LED Streifen leuchtet bis zu 20000 Stunden (ca. 20 Jahre), hat keine Aufwärmzeit und nur eine geringe Wärmeentwicklung
+- Individuelle Lichtatmosphäre -> Steuern der Farbtemperatur von warmweiß (2000 K) bis tageslichtweiß (6500 K), Dimmen und RGB Farbwechsel - ganz einfach über die App, per Sprachkommando oder auch aus der Ferne
+- Flexible, einfache Montage -> selbstklebender, trennbarer und erweiterbarer Streifen für eine indirekte Beleuchtung ganz nach Ihren Wünschen
+- ZigBee Produkt -> Erweitern Sie Ihr Smart Home mit dem Flex 3P Multicolor: Sie können das Leuchtmittel mit ZigBee Gateway und App steuern, direkt mit Echo Plus oder mit Amazon Echo und Amazon Echo fähigem Gateway
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07482ZJLY/?tag=tolees0ca-21)

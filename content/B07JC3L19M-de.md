@@ -28,10 +28,10 @@ Sie können [LEGO 75975 Overwatch Watchpoint: Gibraltar  Vom Hersteller Nicht me
 
 ℹ️:
 
-- Das Overwatch-Modell verfügt über eine Startrampe für die Rakete – genau wie auf der Karte Watchpoint: Gibraltar
-- Anzahl der Teile: 730
-- Vom Hersteller empfohlenes Alter: 9+
-- Watchpoint: Gibraltar
 - Die Overwatch-Rakete teilt sich in zwei Raketen mit jeweils einem Cockpit. Der Laderaum der kleineren Rakete ist groß genug für die große Winston-Figur sowie einige Bananen- und Erdnussbutter-Elemente
+- Das Overwatch-Modell verfügt über eine Startrampe für die Rakete – genau wie auf der Karte Watchpoint: Gibraltar
+- Vom Hersteller empfohlenes Alter: 9+
+- Anzahl der Teile: 730
+- Watchpoint: Gibraltar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JC3L19M/?tag=tolees0ca-21)

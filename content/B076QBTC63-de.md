@@ -28,9 +28,9 @@ Sie können [VAUDE Zubehoer Protection Cover for Backpacks  black  one size  128
 
 ℹ️:
 
-- abnehmbarer Schultergurt
 - Tragegriff
 - Adressfach
 - komplett verstaubar in Innenbeutel
+- abnehmbarer Schultergurt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076QBTC63/?tag=tolees0ca-21)

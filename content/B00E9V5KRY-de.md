@@ -29,9 +29,9 @@ Sie können [Samyang 300mm F6.3 Objektiv für Anschluss Canon M - schwarz](https
 ℹ️:
 
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- Ideal für dieLandschafts - und Astrofotografie
 - Manuelle Fokusierung
 - Spiegel-Objektiv 300mm F6.3
+- Ideal für dieLandschafts - und Astrofotografie
 - Lieferumfang:Samyang 300mm F6.3 Objektiv für Anschluss Canon M - schwarz; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00E9V5KRY/?tag=tolees0ca-21)

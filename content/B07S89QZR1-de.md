@@ -28,10 +28,10 @@ Sie können [Hugo Boss - Boss Scent Absolute Him Edp V 100ml](https://www.amazon
 
 ℹ️:
 
-- Brandneu
-- Originalartikel
-- Qualitätsprodukt
-- Nie benutzt
 - Originalverpackt
+- Originalartikel
+- Nie benutzt
+- Brandneu
+- Qualitätsprodukt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07S89QZR1/?tag=tolees0ca-21)

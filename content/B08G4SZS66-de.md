@@ -28,11 +28,11 @@ Es gibt ein [LEGO 21164 Minecraft Das Korallenriff Bauset mit Alex  2 Kugelfisch
 
 ℹ️:
 
-- Kinder begleiten Alex, die mutige Minecraft Heldin, in die Tiefen des Ozeans, um im farbenfrohen Korallenriff nach einem verborgenen Schatz zu suchen und einen Ertrunkenen zu verscheuchen
-- Das LEGO Minecraft Spielset „Das Korallenriff“ (21164) bietet Minecraft Spielern ein aktives Spielerlebnis und erweckt die Unterwasserabenteuer des Onlinespiels mit den vielseitigen LEGO Steinen zum Leben
-- Die farbenfrohe Kulisse des Korallenriffs enthält jede Menge authentische Minecraft Details und tolles Zubehör wie die verborgene Schatzkiste, die einen Fisch und eine Perle preisgibt
 - Für Kinder ab 7 Jahren. Das aktive Spielerlebnis mit dem Minecraft Bau- und Spielset bereitet Minecraft Spielern riesigen Spaß. Die ideale Überraschung für Fans des Onlinespiels, die Minecraft mal ganz anders erleben möchten
 - Dieses LEGO Minecraft Set ist besonders robust und lässt sich leicht umgestalten und mit anderen LEGO Minecraft Spielzeugen kombinieren
+- Das LEGO Minecraft Spielset „Das Korallenriff“ (21164) bietet Minecraft Spielern ein aktives Spielerlebnis und erweckt die Unterwasserabenteuer des Onlinespiels mit den vielseitigen LEGO Steinen zum Leben
+- Die farbenfrohe Kulisse des Korallenriffs enthält jede Menge authentische Minecraft Details und tolles Zubehör wie die verborgene Schatzkiste, die einen Fisch und eine Perle preisgibt
+- Kinder begleiten Alex, die mutige Minecraft Heldin, in die Tiefen des Ozeans, um im farbenfrohen Korallenriff nach einem verborgenen Schatz zu suchen und einen Ertrunkenen zu verscheuchen
 - Das Set ist 7 cm hoch, 10 cm breit und 10 cm tief und somit kompakt genug für kleine Hände und groß genug, um als Schaustück zu begeistern
 - Das LEGO Minecraft Set enthält Alex, die beliebte Heldin des Onlinespiels, mit Taucherhelm, magischer Hose und Schwert sowie einen Ertrunkenen, zwei Kugelfische (einmal aufgebläht, einmal normal) und Zubehör
 

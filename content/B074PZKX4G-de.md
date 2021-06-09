@@ -28,10 +28,10 @@ Es gibt ein [OSRAM Lamps - OSRAM Smart+ Mini Switch Grau  ZigBee Lichtschalter  
 
 ℹ️:
 
-- Flexible Lichtsteuerung -> Mit dem Switch können Sie Licht dimmen, Farben (RGB) und Farbtemperaturen (Tunable White) wechseln, Gruppen ansteuern und zwischen verschiedenen Szenen wechseln
 - Individuell anpassbare Tastenfunktionen -> Programmieren Sie pro Taste zwei Funktionen Ihrer Wahl (jeweils für den kurzen und langen Tastendruck) - insgesamt 6 Konfigurationen möglich
-- Smart ohne Smartphone -> Steuern Sie Ihr Smart Home direkt mit diesem kleinen, handlichen Schalter
 - ZigBee Switch -> Bitte verwenden Sie die aktuellsten Versionen der Betriebssoftware der Hersteller für alle beteiligten Produkte
 - Klein und handlich -> Der Schalter ist als mobile Fernbedienung oder für die Wandmontage geeignet
+- Smart ohne Smartphone -> Steuern Sie Ihr Smart Home direkt mit diesem kleinen, handlichen Schalter
+- Flexible Lichtsteuerung -> Mit dem Switch können Sie Licht dimmen, Farben (RGB) und Farbtemperaturen (Tunable White) wechseln, Gruppen ansteuern und zwischen verschiedenen Szenen wechseln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074PZKX4G/?tag=tolees0ca-21)
