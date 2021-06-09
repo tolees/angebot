@@ -28,8 +28,8 @@ Es gibt ein [Salewa Damen Alp Trainer 20 Ws ALP TRAINER 20 WS   Salewa Damen Alp
 
 ℹ️:
 
-- Größe: 55x24x22cm
-- Verstaubare Regenhülle
 - Gewicht: 1055 g
+- Verstaubare Regenhülle
+- Größe: 55x24x22cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07T2KZPTB/?tag=tolees0ca-21)

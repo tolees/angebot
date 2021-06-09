@@ -29,9 +29,9 @@ Sie können [Schmidt Spiele 75051 Tippi Toppi  Familienkartenspiel  bunt](https:
 ℹ️:
 
 - Spieldauer: ca. 20 Minuten
+- Spieleranzahl: 1 bis 4 Spieler
 - Mit Solo Variante
 - Zielgruppe: Spieler ab 8 Jahren
-- Spieleranzahl: 1 bis 4 Spieler
 - Kooperatives Kartenspiel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MFQX1MQ/?tag=tolees0ca-21)

@@ -30,7 +30,7 @@ Sie können [Salewa Herren MS Mountain Trainer Lite Trekking-& Wanderstiefel  Om
 
 - Empfohlene Verwendung: auch auf schlechten Wegen, Steige
 - Geeignet für: Klettersteig, Trekking, Bergwandern
-- Wanderschuh Kategorie: B Trekking und Hiking
 - Achtung Größenauswahl: Bitte achten Sie für die Wahl der passenden Schuhgröße auf unsere Größentabelle und -Hinweise
+- Wanderschuh Kategorie: B Trekking und Hiking
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07YB8LF63/?tag=tolees0ca-21)
