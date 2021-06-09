@@ -29,9 +29,9 @@ Es gibt ein [STAEDTLER Ersatzspitzen für Stylus Noris digital  Set mit 5 Spitze
 ℹ️:
 
 - Farbe der Spitzen: Schwarz
+- Lieferumfang: 5 Ersatzspitzen, 1 Werkzeug
 - Ersatzspitzen für Noris digital Styli
 - Einfacher Tausch der abgenutzten oder beschädigten Spitze mithilfe des Werkzeuges
-- Lieferumfang: 5 Ersatzspitzen, 1 Werkzeug
 - Originalzubehör mit hoher Qualität
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07QZ3XZ4Y/?tag=tolees0ca-21)
