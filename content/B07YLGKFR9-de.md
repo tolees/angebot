@@ -30,8 +30,8 @@ Sie können [Joseph Joseph Extend Steel Ausziehbarer Geschirrkorb mit Ablaufstut
 
 - Ablaufstutzen mit drei verschiedenen Positionen
 - Herausnehmbarer Besteckabtropfer mit Messerfach
-- Nichtkratzende Abtropfzinken und Schneidbrettleiste
-- Erhöhte Rippen verhindern, dass Wasser unter Gläsern und Schalen eingeschlossen wird.
 - Erweiterbar, um bei Bedarf weitere Utensilien zu halten
+- Erhöhte Rippen verhindern, dass Wasser unter Gläsern und Schalen eingeschlossen wird.
+- Nichtkratzende Abtropfzinken und Schneidbrettleiste
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07YLGKFR9/?tag=tolees0ca-21)

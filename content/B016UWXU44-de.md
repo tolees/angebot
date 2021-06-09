@@ -29,11 +29,11 @@ Es gibt ein [iRobot Braava 390t Wischroboter  intelligente Navigation  2 in 1: T
 ℹ️:
 
 - Wählen Sie den Einmaldurchgang zum Fegen von Schmutz, Staub, Tierhaaren und Allergenen (für bis zu 92 m2) oder den Dreifachdurchgang zum Wischen (für bis zu 33 m2)
-- Vier wiederverwendbare Mikrofaser-Reinigungstücher im Lieferumfang enthalten – ein Trockenwischtuch und ein Feuchtwischtuch
 - Die ist ein reiner Wischroboter und hat keine Staubsaugfunktion wie die Roombas
-- Reinigt größere Bereiche durch dreifaches Wischen. Durch iAdapt 2.0 mit Navigation Cube weiß der Braava, wo er bereits gewischt hat
-- Armonia Deutschland GmbH - Juli 2020 - kundenservicedesjahres.de
 - iRobot verfügt über mehr als 30 Jahre Erfahrung mit Robotertechnologien und hat weltweit bislang mehr als 30 Millionen Hausroboter verkauft. Ob Sie sich für Roomba, Braava oder beide entscheiden - Ihre Böden erhalten die besondere Pflege, die sie brauchen
+- Vier wiederverwendbare Mikrofaser-Reinigungstücher im Lieferumfang enthalten – ein Trockenwischtuch und ein Feuchtwischtuch
+- Armonia Deutschland GmbH - Juli 2020 - kundenservicedesjahres.de
+- Reinigt größere Bereiche durch dreifaches Wischen. Durch iAdapt 2.0 mit Navigation Cube weiß der Braava, wo er bereits gewischt hat
 - Reinigt größere Bereiche durch dreifaches Wischen. Durch iAdapt 2.0 mit Navigation Cube weiß der Braava, wo er bereits gewischt hat
 - Für alle harten Bodenoberflächen, darunter Laminat, Holz, Fliesen und Stein
 - Wischroboter für größere Räume oder Bereiche, von der Marke, die auf mehr als 30 Jahre Erfahrung mit in der Robotertechnologie zurückblickt

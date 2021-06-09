@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '28.62 % rabat auf LEGO 41443 Friends Olivias Elektroauto S'
-date: 2021-05-26 16:16:14
-image: 'https://m.media-amazon.com/images/I/51HxXyslPgL._SL500_._SL400_.jpg'
+title: '38.03 % rabat auf LEGO 41443 Friends Olivias Elektroauto S'
+date: 2021-06-09 08:33:31
+image: 'https://m.media-amazon.com/images/I/51SP7KHcg6S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08G4BMD2K-de LEGO 41443 Friends Olivias Elektroauto Set Spielzeug ab 6...'
 sku: 'B08G4BMD2K-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 10.7 EUR
+actualPrice: 9.29 EUR
 currency: EUR
-price: 10.7
+price: 9.29
 comparePrice: 14.99 EUR
 prodname: 'LEGO 41443 Friends Olivias Elektroauto Set  Spielzeug ab 6 Jahren mit Mini Puppen Olivia & Mia und Spielzeugauto  Lernspielzeug'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4BMD2K/?tag=tolees0ca-21'
-descuento: '28.62'
-average: '13.221515151515'
+descuento: '38.03'
+average: '13.105882352941'
 ---
 
-Es gibt ein [LEGO 41443 Friends Olivias Elektroauto Set  Spielzeug ab 6 Jahren mit Mini Puppen Olivia & Mia und Spielzeugauto  Lernspielzeug](https://www.amazon.de/dp/B08G4BMD2K/?tag=tolees0ca-21) mit aktuellem Preis 10.7 EUR (original: 14.99 EUR) 28.62 % Rabatt hier:
+Es gibt ein [LEGO 41443 Friends Olivias Elektroauto Set  Spielzeug ab 6 Jahren mit Mini Puppen Olivia & Mia und Spielzeugauto  Lernspielzeug](https://www.amazon.de/dp/B08G4BMD2K/?tag=tolees0ca-21) mit aktuellem Preis 9.29 EUR (original: 14.99 EUR) 38.03 % Rabatt hier:
 
-[![LEGO 41443 Friends Olivias Elektroauto S](https://m.media-amazon.com/images/I/51HxXyslPgL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4BMD2K/?tag=tolees0ca-21)
+[![LEGO 41443 Friends Olivias Elektroauto S](https://m.media-amazon.com/images/I/51SP7KHcg6S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4BMD2K/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Mit 2 Mini Puppen Mia und Olivia, Mini Tierfgur Elliot, Spielzeugauto und Ladestation mit Windturbine. Dazu ein Picknickplatz! Eignet sich perfekt als Lernspielzeug
-- Die Räder des Elektroautos drehen sich, damit Kinder „fahren" können. An einem Picknickplatz wird das Auto mit einem Kabel an die Ladestation angeschlossen
+- LEGO Friends Sets enthalten farbenfrohe Gebäude und coole Spielzeugfahrzeuge, um die spielerischen Leidenschaften der Kinder in realistischen Umgebungen zu stimulieren
 - Dieses Spielzeug ab 6 Jahren verfügt über eine Ladestation mit einer Spielzeugwindkraftanlage und einem Solarpanel. Kinder können die Turbinensegel drehen, um dadurch den Strom zu „erzeugen“
 - Ein Spielzeugauto für alle Kinder, die Fahrzeuge und die Umwelt lieben, und eine Leidenschaft für eine umweltfreundliche, moderne Lebensweise haben
-- LEGO Friends Sets enthalten farbenfrohe Gebäude und coole Spielzeugfahrzeuge, um die spielerischen Leidenschaften der Kinder in realistischen Umgebungen zu stimulieren.
+- Die Räder des Elektroautos drehen sich, damit Kinder „fahren" können. An einem Picknickplatz wird das Auto mit einem Kabel an die Ladestation angeschlossen
+- Mit 2 Mini Puppen Mia und Olivia, Mini Tierfgur Elliot, Spielzeugauto und Ladestation mit Windturbine. Dazu ein Picknickplatz Eignet sich perfekt als Lernspielzeug
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4BMD2K/?tag=tolees0ca-21)

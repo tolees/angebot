@@ -28,11 +28,11 @@ Es gibt ein [Amazon Basics USB-Schnellladegerät  Schwarz](https://www.amazon.de
 
 ℹ️:
 
-- Dreifarbige LED-Anzeigen zur Anzeige des Akkuzustands und des Ladestatus
+- Leichtes und kompaktes Design für den täglichen Gebrauch und unterwegs
 - Intelligentes Aufladen mit einzelnen Kanälen lädt 1 - 4 NiMH-Akkus auf; Batteriekapazitätsprüfung, Anzeigen für fehlerhafte oder Einwegbatterien
 - Eingangsspannung: 5 V Gleichstrom / 2,1 A; Ausgangsspannung: 1,4 V Gleichstrom / 3,6 A, 1,4 V Gleichstrom / 1,5 A
 - Kompatibel mit AA- und AAA-NiMH-Akkus; Ladezeit für 4 Akkus beträgt 2,7 Std.
-- Leichtes und kompaktes Design für den täglichen Gebrauch und unterwegs
+- Dreifarbige LED-Anzeigen zur Anzeige des Akkuzustands und des Ladestatus
 - USB-Schnittstelle für die schnelle, bequeme Verwendung an jedem Ort
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07QH7F8NM/?tag=tolees0ca-21)

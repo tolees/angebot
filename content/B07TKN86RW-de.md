@@ -28,9 +28,9 @@ Es gibt ein [Clarks Un Rio Lace  Damen Niedrig  Grau  Stone Leather Stone Leathe
 
 ℹ️:
 
-- Passform: (d) Standard
-- Oberteile: Leder
 - Sohle: Gummi
+- Oberteile: Leder
+- Passform: (d) Standard
 - Futter: Leder
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07TKN86RW/?tag=tolees0ca-21)
