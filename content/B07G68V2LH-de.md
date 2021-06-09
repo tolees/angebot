@@ -28,10 +28,10 @@ Es gibt ein [AEG ASKVX8 Performance Kit für VX6-8  Beutel & Filter  4 original 
 
 ℹ️:
 
-- Original s-fresh Duftgranulat Abendrose (AS RO): 4 Sachets - einfach auf den Boden streuen und aufsaugen für einen wohltuenden Geruch
 - Motorfilter: wir empfehlen, den Filter mindenstens 1x jährlich oder bei deutlicher Verschmutzung auszutauschen um die Lebensdauer Ihres Staubsaugers zu verlängern
-- Praktischer Lieferumfang: 4x original Staubbeutel GR201S, 1x Motorfilter, 1x Hygienefilter, 4x s-fresh Abendrose Duftgranulat - passend für über 70 Staubsauger-Baureihen der Marken AEG, Electrolux, Progress, Philips
+- Original s-fresh Duftgranulat Abendrose (AS RO): 4 Sachets - einfach auf den Boden streuen und aufsaugen für einen wohltuenden Geruch
 - Hygienefilter: Waschbar - der Allergy Plus Filter sorgt für spürbar bessere Luft - dauerhaft anhaltende Saugleistung, Anstieg der Saugkraft bei Filterwechsel
 - Original s-bag GR201S: Leistungsfähiger Synthetik Staubbeutel - Patentierter Hygieneverschluss, Seitenfaltung für mehr Volumen - TÜV geprüft auf Saugleistung, Nutzungsdauer, Filterwirkung
+- Praktischer Lieferumfang: 4x original Staubbeutel GR201S, 1x Motorfilter, 1x Hygienefilter, 4x s-fresh Abendrose Duftgranulat - passend für über 70 Staubsauger-Baureihen der Marken AEG, Electrolux, Progress, Philips
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07G68V2LH/?tag=tolees0ca-21)

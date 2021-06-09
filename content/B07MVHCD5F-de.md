@@ -28,10 +28,10 @@ Sie können [Kare Design Bunny Tre Schale](https://www.amazon.de/dp/B07MVHCD5F/?
 
 ℹ️:
 
+- Aus hochglänzendem Aluminium
+- Aluminium vernickelt, nicht spülmaschinenfest
+- Toll als Gastgeschenk - statt Blumen
 - Origineller Akzent auf dem Buffet oder auf dem Coffee-Table
 - Serviert Süßes und Salziges
-- Aluminium vernickelt, nicht spülmaschinenfest
-- Aus hochglänzendem Aluminium
-- Toll als Gastgeschenk - statt Blumen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MVHCD5F/?tag=tolees0ca-21)

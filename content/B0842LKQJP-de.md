@@ -28,10 +28,10 @@ Es gibt ein [Schmidt Spiele 49369 Wikinger Saga  Kennerspiel  bunt](https://www.
 
 ℹ️:
 
-- Für Spieler ab 12 Jahren
-- Für 2 bis 4 Spieler
 - Große Varianz, jedes Spiel ist anders, Über 200 von Michael Menzel illustrierte Karten
+- Für 2 bis 4 Spieler
 - Spieldauer ca 60 Minuten
 - Leichter Einstig, langer Spielreiz
+- Für Spieler ab 12 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0842LKQJP/?tag=tolees0ca-21)

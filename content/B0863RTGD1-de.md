@@ -28,11 +28,11 @@ Sie können [KOSMOS 680442 Paris - Die Stadt der Lichter  Das Duell um die beste
 
 ℹ️:
 
-- Leichte Regeln ermöglichen einen schnellen Einstieg ins Spiel
-- Atmosphärische Illustrationen und Karten entführen ins Paris des 19. Jahrhunderts
 - Beliebt, bewährt und erfolgreich: die Zweierspiele von KOSMOS
+- Ab 10 Jahren
 - Für 2 Spieler
 - Strategiespiel mit umfangreichem Spielmaterial
-- Ab 10 Jahren
+- Atmosphärische Illustrationen und Karten entführen ins Paris des 19. Jahrhunderts
+- Leichte Regeln ermöglichen einen schnellen Einstieg ins Spiel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0863RTGD1/?tag=tolees0ca-21)
