@@ -28,10 +28,10 @@ Es gibt ein [Gardena Classic Schlauch 13 mm  1/2 Zoll   30 m: Universeller Garte
 
 ℹ️:
 
-- Lieferumfang beinhaltet: 1x GARDENA Classic Schlauch 13 mm (1/2") 30 m
-- Schadstofffrei und UV-beständig: Der druckfeste und formstabile GARDENA Classic Schlauch ist UV-beständig und frei von giftigen Weichmachern (Phthalaten) und Schwermetallen
 - Robust und widerstandsfähig: Der Classic Schlauch aus hochwertigem PVC-Kreuzgewebe ist bis zu einem Wasserdruck von 22 bar einsetzbar
-- Vielseitiger Einsatz: Der GARDENA Classic Schlauch kann mit den Original GARDENA Systemteilen und Anschlussgeräten ergänzt werden, für einen einfachen und universellen Einsatz im Garten
+- Lieferumfang beinhaltet: 1x GARDENA Classic Schlauch 13 mm (1/2") 30 m
 - GARDENA Qualität: Hochwertige Materialien machen den Schlauch extrem langlebig
+- Schadstofffrei und UV-beständig: Der druckfeste und formstabile GARDENA Classic Schlauch ist UV-beständig und frei von giftigen Weichmachern (Phthalaten) und Schwermetallen
+- Vielseitiger Einsatz: Der GARDENA Classic Schlauch kann mit den Original GARDENA Systemteilen und Anschlussgeräten ergänzt werden, für einen einfachen und universellen Einsatz im Garten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HPXVE2S/?tag=tolees0ca-21)
