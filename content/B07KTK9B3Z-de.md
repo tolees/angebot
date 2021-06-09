@@ -28,13 +28,13 @@ Sie können [Lego Architecture - Lego 21045 Architecture Trafalgar Square  Bause
 
 ℹ️:
 
-- Mit der National Gallery, der Nelsonsäule (bewacht von 4 Löwen), 2 Brunnen, 4 Statuensockeln, 10 Bäumen, 6 Laternen und einer mit Platten besetzten Grundplatte, die den Platz und die Straßenabschnitte darstellt und 2 Londoner Busse und 2 schwarze Taxis aufweist.
-- Das Set enthält über 1.190 Teile.
-- Die Produktlinie LEGO Architecture ist eine Hommage an die Welt der Architektur in Gestalt von LEGO Steinen und spricht jeden an, der sich für Reisen, Architektur, Geschichte und Design interessiert.
-- Das LEGO Architecture Set bietet ein anspruchsvolles und lohnendes Bauerlebnis.
 - Enthält ein dekoratives Trafalgar-Square-Namensschild.
-- Das Modell ist 12 cm hoch, 24 cm breit und 20 cm tief.
-- Das beiliegende Heft enthält Informationen über die Architektur und die Geschichte der einzelnen Bauwerke sowie historische Fakten zum Trafalgar Square und architektonischen Erbe dieses berühmten Platzes (nur in englischer Sprache, das Heft kann in anderen Sprachen auf LEGO.com/architecture heruntergeladen werden).
+- Mit der National Gallery, der Nelsonsäule (bewacht von 4 Löwen), 2 Brunnen, 4 Statuensockeln, 10 Bäumen, 6 Laternen und einer mit Platten besetzten Grundplatte, die den Platz und die Straßenabschnitte darstellt und 2 Londoner Busse und 2 schwarze Taxis aufweist.
 - LEGO Architecture Interpretation des Trafalgar Square, einem realen Wahrzeichen von London.
+- Die Produktlinie LEGO Architecture ist eine Hommage an die Welt der Architektur in Gestalt von LEGO Steinen und spricht jeden an, der sich für Reisen, Architektur, Geschichte und Design interessiert.
+- Das Modell ist 12 cm hoch, 24 cm breit und 20 cm tief.
+- Das LEGO Architecture Set bietet ein anspruchsvolles und lohnendes Bauerlebnis.
+- Das Set enthält über 1.190 Teile.
+- Das beiliegende Heft enthält Informationen über die Architektur und die Geschichte der einzelnen Bauwerke sowie historische Fakten zum Trafalgar Square und architektonischen Erbe dieses berühmten Platzes (nur in englischer Sprache, das Heft kann in anderen Sprachen auf LEGO.com/architecture heruntergeladen werden).
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KTK9B3Z/?tag=tolees0ca-21)
