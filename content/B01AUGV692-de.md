@@ -28,11 +28,11 @@ Es gibt ein [Arlo Q Überwachungskamera & Alarmanlage  1080p HD  2-Wege-Audio  B
 
 ℹ️:
 
-- Bis zu drei Aktivitätszonen einstellbar; Netzbetrieb, keine Batterien erforderlich
-- Die Arlo Q IP Kamera ermöglicht eine leistungsfähige 24/7 Videoüberwachung mit Geräusch- und Bewegungsalarm
-- Datenschutz und -Sicherheit: Ihre Aufzeichnungen werden sicher gespeichert und sind nur für Sie zugänglich
-- 1080p HD Überwachungskamera: Gestochen scharfe Videoaufnahmen mit Ton, 130 Grad Blickwinkel, 8-fach Digitalzoom
 - Bewegungserkennung bis zu 15m; 2-Wege-Audio (Hören und Sprechen); Nachtsicht mit bis zu 8,3m Sichtweite
+- Datenschutz und -Sicherheit: Ihre Aufzeichnungen werden sicher gespeichert und sind nur für Sie zugänglich
 - Lieferumfang: Arlo Q 1080p Smart Home HD-Überwachungskamera, Netzteil und Micro-USB-Kabel, Wandmontageplatte, 4x Befestigungsschrauben, Arlo Videoüberwachung Fensteraufkleber, Quick-Start-Anleitung
+- 1080p HD Überwachungskamera: Gestochen scharfe Videoaufnahmen mit Ton, 130 Grad Blickwinkel, 8-fach Digitalzoom
+- Die Arlo Q IP Kamera ermöglicht eine leistungsfähige 24/7 Videoüberwachung mit Geräusch- und Bewegungsalarm
+- Bis zu drei Aktivitätszonen einstellbar; Netzbetrieb, keine Batterien erforderlich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01AUGV692/?tag=tolees0ca-21)

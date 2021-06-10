@@ -28,9 +28,9 @@ Es gibt ein [Bodum BISTRO 2-teiliges  Doppelwandig  Isoliert  Spülmaschinengeei
 
 ℹ️:
 
-- Aus doppelwandigem Borosilikatglas für bessere Isolierleistung: heiße Getränke bleiben länger heiß und kalte länger kalt
 - Keine Verbrennungsgefahr für die Finger bei heißen Getränken
-- Es bildet sich kein Kondenswasser bei Kaltgetränken und somit hinterlässt das Glas auch keine unschönen Wasserkränze
 - Mundgeblasenes Glas mit Henkel
+- Es bildet sich kein Kondenswasser bei Kaltgetränken und somit hinterlässt das Glas auch keine unschönen Wasserkränze
+- Aus doppelwandigem Borosilikatglas für bessere Isolierleistung: heiße Getränke bleiben länger heiß und kalte länger kalt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000S6N4BI/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Es gibt ein [Nitecore LiIon-Akku IMR 18350  700mAh](https://www.amazon.de/dp/B00
 ℹ️:
 
 - Voltage: 3.7V
-- Amperage: 7A
 - Kompositionen: Lithium-Ion
-- Style: 18350
 - Characteristics: Ungeschützt (unprotected)
+- Amperage: 7A
+- Style: 18350
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NUCR98Q/?tag=tolees0ca-21)

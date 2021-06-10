@@ -28,13 +28,13 @@ Es gibt ein [NETGEAR GS308P 8 Port Gigabit Ethernet LAN PoE Switch  mit 4x PoE 5
 
 ℹ️:
 
-- POWER-OVER-ETHERNET: 4 PoE-Ports mit 53W Gesamtleistungsbudget
-- LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
-- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
 - PLUG-AND-PLAY: Einfache Einrichtung des LAN Verteiler Gigabit Switch, keine Software und keine Konfiguration erforderlich
-- VIELSEITIGE MONTAGEMÖGLICHKEITEN: Desktop oder Wandmontage möglich, erforderliche Befestigungsteile sind im Lieferumfang enthalten
-- SORGENFREIHEIT: Abgedeckt durch branchenführende 3-jährige eingeschränkte Hardware-Garantie
 - NETZWERKANSCHLUSSKONFIGURATION: 8 Gigabit Port (10/100/1000 MBit/s) RJ45 LAN Splitter Ethernet Switch
 - ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
+- SORGENFREIHEIT: Abgedeckt durch branchenführende 3-jährige eingeschränkte Hardware-Garantie
+- VIELSEITIGE MONTAGEMÖGLICHKEITEN: Desktop oder Wandmontage möglich, erforderliche Befestigungsteile sind im Lieferumfang enthalten
+- LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
+- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
+- POWER-OVER-ETHERNET: 4 PoE-Ports mit 53W Gesamtleistungsbudget
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016XK94FM/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Caran d Ache  - Caran d´Ache Metal-Minenhalter 0 7 mm  Weiß](http
 
 ℹ️:
 
-- Der Druckbleistift besteht aus Leichtmetall mit weißer Glanzlackierung
-- Minenhalter 844 aus dem Hause Caran dAche
-- Das Radierköpfchen ist versteckt unter der Kappe. Es ist nachfüllbar mit den CDA Radierköpfchen
-- Er hat einen Minendurchmesser von 0,7mm und Minenschub per Druckmechanik. Nachfüllbar mit CDA Bleistift-Minen 0,7mm, in unterschiedlichen Härtegraden
 - Er besitzt die typische sechseckige Form für optimalen Schreibkomfort
+- Er hat einen Minendurchmesser von 0,7mm und Minenschub per Druckmechanik. Nachfüllbar mit CDA Bleistift-Minen 0,7mm, in unterschiedlichen Härtegraden
+- Der Druckbleistift besteht aus Leichtmetall mit weißer Glanzlackierung
+- Das Radierköpfchen ist versteckt unter der Kappe. Es ist nachfüllbar mit den CDA Radierköpfchen
+- Minenhalter 844 aus dem Hause Caran dAche
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000WFZ7SS/?tag=tolees0ca-21)
