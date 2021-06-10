@@ -28,10 +28,10 @@ Sie können [Audio-Technica - Bed Head by Tigi Urban Antidotes Resurrection Sham
 
 ℹ️:
 
-- Das tiefenreinigende Shampoo repariert Schäden und kräftigt das Haar
-- Das Bed Head by Tigi Urban Antidotes Resurrection Shampoo ist ideal für geschädigtes Haar und ist auch für coloriertes Haar geeignet
 - Pflegt geschädigtes Haar und spendet ihm Feuchtigkeit
+- Das Bed Head by Tigi Urban Antidotes Resurrection Shampoo ist ideal für geschädigtes Haar und ist auch für coloriertes Haar geeignet
 - Professionelles Shampoo für geschädigtes Haar
 - Sorgt dafür, dass sich das Haar geschmeidig und gesund anfühlt
+- Das tiefenreinigende Shampoo repariert Schäden und kräftigt das Haar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004T19PAC/?tag=tolees0ca-21)

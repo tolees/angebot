@@ -28,9 +28,9 @@ Sie können [Fellowes Konzepthalter mit Memoboard hält bis zu 150 Blatt schwarz
 
 ℹ️:
 
+- Verstellbarer Clip hält bis zu 100 Blätter
 - Mit höhenverstellbarem Lineal
 - Neigungswinkel einstellbar (bis zu 45°)
-- Verstellbarer Clip hält bis zu 100 Blätter
 - 3-in-1 Konzepthalter: Als Konzepthalter, Memoboard und Clipboard verwendbar
 - Entspricht den ergonomischen Anforderungen für Bürotätigkeiten mit Bildschirmgeräten bestätigt durch FIRA Int. Ltd, einer unabhängigen Ergonomie Akkreditierungsstelle (ISO 9241-5:1998)
 

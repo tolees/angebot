@@ -28,9 +28,9 @@ Es gibt ein [LIQUI MOLY 1145 Lenkgetriebeöl 3100 1 l](https://www.amazon.de/dp/
 
 ℹ️:
 
-- Servolenkungsöl
-- Enthält 1-(tert-Dodecylthio)propan-2-ol. Kann allergische Reaktionen hervorrufen.
-- Spezifikationen/Freigaben:Dexron IID, MB 236.3, ZF TE-ML 09, 11, 14A, 03D, 04D, 17C
 - Lieferumfang: Liqui Moly 1145 Lenkgetriebe-Öl 3100 1 Liter
+- Spezifikationen/Freigaben:Dexron IID, MB 236.3, ZF TE-ML 09, 11, 14A, 03D, 04D, 17C
+- Enthält 1-(tert-Dodecylthio)propan-2-ol. Kann allergische Reaktionen hervorrufen.
+- Servolenkungsöl
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004FPUMD6/?tag=tolees0ca-21)
