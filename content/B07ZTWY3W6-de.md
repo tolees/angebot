@@ -28,10 +28,10 @@ Es gibt ein [PLAYMOBIL Top Agents 70230 Spy Team Kommandoschlitten mit Licht- un
 
 ℹ️:
 
-- 2 Agenten, 1 Rebell, Leuchtendes Eisportal, Funktionierende Waffen uvm., Erweiterbar mit PLAYMOBIL Top Agents Arctic Rebels Eistrike (70232)
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Lieferumfang: 1x PLAYMOBIL Top Agents Spy Team Kommandoschlitten, 73-teiliges Spielfiguren-Set mit Anleitung: 1 Kommandoschlitten, 3 Figuren, 69 Zubehörteile (wird ohne 2 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 58x20,5x15 cm, 70230
+- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- 2 Agenten, 1 Rebell, Leuchtendes Eisportal, Funktionierende Waffen uvm., Erweiterbar mit PLAYMOBIL Top Agents Arctic Rebels Eistrike (70232)
 - Spielspaß für abenteuerlustige Agenten: PLAYMOBIL Spy Team Kommandoschlitten mit coolen Licht- und Soundeffekten für detailgetreues Nachspielen
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZTWY3W6/?tag=tolees0ca-21)
