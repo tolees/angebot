@@ -28,10 +28,10 @@ Sie können [ASUS ROG Thor-850P Platinum Netzteil  Aura Sync  OLED Display  0dB-
 
 ℹ️:
 
-- ROG-Thermal-Lösung: 0dB-Kühlung mit staubdichten IP5X-Wing-Blade-Lüftern und ROG-Kühlkörper-Design
-- AURA Sync: Fortschrittliche Anpassungsmöglichkeiten mit adressierbaren RGB-LEDs und Aura-Sync-Kompatibilität
-- OLED-Power-Display: Echtzeit-Anzeige des Stromverbrauchs über ein OLED-Display
-- Ummantelte Kabel: Für einen einfachen Einbau und eine exzellente Optik
 - 80 PLUS Platinum: Verbaut wurden ausschließlich japanische Kondensatoren und andere Premium-Komponenten
+- AURA Sync: Fortschrittliche Anpassungsmöglichkeiten mit adressierbaren RGB-LEDs und Aura-Sync-Kompatibilität
+- Ummantelte Kabel: Für einen einfachen Einbau und eine exzellente Optik
+- ROG-Thermal-Lösung: 0dB-Kühlung mit staubdichten IP5X-Wing-Blade-Lüftern und ROG-Kühlkörper-Design
+- OLED-Power-Display: Echtzeit-Anzeige des Stromverbrauchs über ein OLED-Display
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HZ9JKN7/?tag=tolees0ca-21)

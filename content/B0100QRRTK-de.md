@@ -28,10 +28,10 @@ Es gibt ein [EVGA 600 W1  80+ WHITE 600W  3 Year Warranty  Power Supply 100-W1-0
 
 ℹ️:
 
-- EVGA 600W – “Unbeatable Value”
-- Lüftergröße / Lager: 120mm / Gleitlager
-- beispielloser EVGA Kundensupport
-- 80 PLUS zertifiziert mit einer Effizienz von 80%+ unter normaler Belastung.
 - Hochleistungsschutzfunktionen, einschließlich OVP (Überspannungsschutz); UVP (Unterspannungsschutz, OCP (Überstromschutz), OPP (Überstromschutz) und SCP (Kurzschlussschutz)
+- Lüftergröße / Lager: 120mm / Gleitlager
+- 80 PLUS zertifiziert mit einer Effizienz von 80%+ unter normaler Belastung.
+- EVGA 600W – “Unbeatable Value”
+- beispielloser EVGA Kundensupport
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0100QRRTK/?tag=tolees0ca-21)
