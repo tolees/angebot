@@ -28,10 +28,10 @@ Es gibt ein [Wera Bit-Sortiment  Bit-Check 6 Universal 1  6-teilig  05056474001]
 
 ℹ️:
 
-- Durch die Torsionsform werden Drehmomentspitzen abgefedert
-- Zähharte Bits, für den universellen Einsatz
 - Aufstellbarer, mehrkomponentiger Bit-Check
+- Durch die Torsionsform werden Drehmomentspitzen abgefedert
 - Kunststoff des Mini-Checks garantiert hohe Robustheit und lange Lebensdauer
 - Verhindert vorzeitigen Bruch der Abtriebsspitze
+- Zähharte Bits, für den universellen Einsatz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004CJ8MDM/?tag=tolees0ca-21)

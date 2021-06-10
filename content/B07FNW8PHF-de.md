@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.73 % rabat auf LEGO 60239 City Polizei Streifenwagen  S'
-date: 2021-06-09 08:29:08
+date: 2021-06-10 12:07:42
 image: 'https://m.media-amazon.com/images/I/51cDIksjLzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNW8PHF/?tag=tolees0ca-21'
 descuento: '27.73'
-average: '8.58160714285715'
+average: '8.55771929824562'
 ---
 
 Es gibt ein [LEGO 60239 City Polizei Streifenwagen  Spielzeugauto mit Polizisten-Minifigur  Verfolgungsjagd Sets für Kinder](https://www.amazon.de/dp/B07FNW8PHF/?tag=tolees0ca-21) mit aktuellem Preis 7.22 EUR (original: 9.99 EUR) 27.73 % Rabatt hier:
@@ -28,9 +28,9 @@ Es gibt ein [LEGO 60239 City Polizei Streifenwagen  Spielzeugauto mit Polizisten
 
 ℹ️:
 
-- Das Set enthält außerdem ein Lego Polizeiauto mit abnehmbaren Dach, Platz für eine Minifigur im Inneren des Wagens und coole Verzierungen
-- Des Weiteren enthält das Set zwei Polizei-Pylone
 - Der Streifenwagen ist 4 cm hoch, 12 cm lang und 5 cm breit
+- Des Weiteren enthält das Set zwei Polizei-Pylone
 - Zu dem Set gehört eine Lego Polizist-Minifigur
+- Das Set enthält außerdem ein Lego Polizeiauto mit abnehmbaren Dach, Platz für eine Minifigur im Inneren des Wagens und coole Verzierungen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNW8PHF/?tag=tolees0ca-21)
