@@ -28,10 +28,10 @@ Sie können [Intex Schwimmhilfe - My Baby Float - Schwimmring mit Sitz - Ø 70 c
 
 ℹ️:
 
-- Approx deflated product size: 70cm( Diameter)
-- 4 air chambers
-- L ring with smaller inner ring for stability
 - Pillow backrest;Diaper style seat
+- L ring with smaller inner ring for stability
+- 4 air chambers
 - 25lb( 11kg) maximum weight limit
+- Approx deflated product size: 70cm( Diameter)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004H3XB7U/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [synmixx WLAN Stick WLAN Adapter USB 3.0 WiFi Adapter 1200 Mbit/s Du
 
 ℹ️:
 
-- 【Breite Kompatibilität】Einfache Installation, Windows 10 unterstützt Plug und Play, unser Wlan Stick kompatibel mit Windows XP / Vista / Win 7/ Win 8, Linux 2.6 oder höher, Mac OS X 10.6 - 10.14 Betrieb System.
-- 【Superschnelle 1200 Mbit/s】Dank dieses USB WLAN Adapter mit DualBand Verbindung 2,4GHz (300 Mbit/s) und 5,8GHz (867 Mbit/s), Sie Online-Video-Streaming und mehrere Datenübertragungen mit höherer Geschwindigkeit genießen können bequem.
 - 【Starkes Signal】Der WLAN Stick hat zwei 5dBi hoher Verstärkung Antenne mit einer stärkeren Signalempfangs und übertragungsfunktion ausgestattet, einer größeren Signalbereich, um 90° oder 360°drehbare, um die Signalreichweite entsprechend des Raumauswahlwinkels zu erhöhen.
+- 【Superschnelle 1200 Mbit/s】Dank dieses USB WLAN Adapter mit DualBand Verbindung 2,4GHz (300 Mbit/s) und 5,8GHz (867 Mbit/s), Sie Online-Video-Streaming und mehrere Datenübertragungen mit höherer Geschwindigkeit genießen können bequem.
+- 【Breite Kompatibilität】Einfache Installation, Windows 10 unterstützt Plug und Play, unser Wlan Stick kompatibel mit Windows XP / Vista / Win 7/ Win 8, Linux 2.6 oder höher, Mac OS X 10.6 - 10.14 Betrieb System.
 - 【Ultra-Geschwindigkeit USB 3.0】Der Wlan Stick mit USB 3.0 hat eine maximale Geschwindigkeit von 5 Gbit/s, um dass dual wlan antenne die beste Leistung und eine stabilere Internetverbindung sicherzustellen. Dies ist zehnmal schneller als bei herkömmlichem USB 2.0 und ist abwärtskompatibel mit USB2.0 / 1.1.
 - 【Empfangen und Sende WiFi】Dieser Wlan Stick kann als Signal Empfänger bei Station Modus am Computer und Laptop benutzen, Abschied von Kabelverbindung. Den Modus ins AP wechseln,assen Sie Ihren Computer als Wifi-Router das Signal senden, um Wifi gemeinsames Nutzen zu erreichen, lhr ipad, Telefon mit WLan verbinden sich lassen.
 
