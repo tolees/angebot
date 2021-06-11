@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '38.27 % rabat auf LEGO 60288 City Rennbuggy-Transporter Tr'
-date: 2021-06-10 20:04:11
+title: '37.97 % rabat auf LEGO 60288 City Rennbuggy-Transporter Tr'
+date: 2021-06-11 20:46:55
 image: 'https://m.media-amazon.com/images/I/517BGkJx-BS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,31 +9,31 @@ author: 'tole.es'
 slug: 'B08G4LMHB4-de LEGO 60288 City Rennbuggy-Transporter Truck mit Anhänger...'
 sku: 'B08G4LMHB4-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 12.34 EUR
+actualPrice: 12.4 EUR
 currency: EUR
-price: 12.34
+price: 12.4
 comparePrice: 19.99 EUR
 prodname: 'LEGO 60288 City Rennbuggy-Transporter Truck mit Anhänger und lenkbarem Baja-Rennwagen  Konstruktionsspielzeug'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4LMHB4/?tag=tolees0ca-21'
-descuento: '38.27'
-average: '14.9157894736842'
+descuento: '37.97'
+average: '14.8724137931034'
 ---
 
-Es gibt ein [LEGO 60288 City Rennbuggy-Transporter Truck mit Anhänger und lenkbarem Baja-Rennwagen  Konstruktionsspielzeug](https://www.amazon.de/dp/B08G4LMHB4/?tag=tolees0ca-21) mit aktuellem Preis 12.34 EUR (original: 19.99 EUR) 38.27 % Rabatt hier:
+Es gibt ein [LEGO 60288 City Rennbuggy-Transporter Truck mit Anhänger und lenkbarem Baja-Rennwagen  Konstruktionsspielzeug](https://www.amazon.de/dp/B08G4LMHB4/?tag=tolees0ca-21) mit aktuellem Preis 12.4 EUR (original: 19.99 EUR) 37.97 % Rabatt hier:
 
 [![LEGO 60288 City Rennbuggy-Transporter Tr](https://m.media-amazon.com/images/I/517BGkJx-BS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G4LMHB4/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Neben einer gedruckten Bauanleitung sind in der kostenlosen LEGO Building Instructions App auch Instructions PLUS verfügbar. Diese interaktive Bauanleitung enthält Dreh- und Vergrößerungsfunktionen für junge Baumeister
 - Im Geländewagen finden 2 Minifiguren Platz. Gelenkt wird der Buggy, indem die Kinder ihn zur Seite neigen. Für noch mehr Action lassen sich die Modelle mit anderen LEGO Sets kombinieren
 - Dieses Spielset enthält mehrere Modelle für ein besonders kreatives Spielerlebnis. Was für eine eindrucksvolle Einführung in die LEGO City Welt der „Starken Fahrzeuge“
-- Mit Anhänger und aufgeladenem Rennbuggy ist der Rennbuggy-Transporter 7 cm hoch, 30 cm lang und 6 cm breit
-- Das LEGO Zubehör beinhaltet einen Rennfahrerhelm, einen Feuerlöscher, einen Schraubenschlüssel und einen Hammer
 - Inhalt des Sets: Alles was Kinder brauchen, um einen Geländewagen mit Anhänger zu bauen. Über die herunterklappbaren Rampen lässt sich der lenkbare Rennbuggy aufladen. 2 Minifiguren als Rennfahrer und cooles Zubehör sind ebenfalls enthalten
-- Neben einer gedruckten Bauanleitung sind in der kostenlosen LEGO Building Instructions App auch Instructions PLUS verfügbar. Diese interaktive Bauanleitung enthält Dreh- und Vergrößerungsfunktionen für junge Baumeister
+- Mit Anhänger und aufgeladenem Rennbuggy ist der Rennbuggy-Transporter 7 cm hoch, 30 cm lang und 6 cm breit
 - Der LEGO City „Rennbuggy-Transporter“ (60288) ist ein tolles Weihnachts-, Geburtstags- oder Überraschungsgeschenk für Jungen und Mädchen ab 5 Jahren
+- Das LEGO Zubehör beinhaltet einen Rennfahrerhelm, einen Feuerlöscher, einen Schraubenschlüssel und einen Hammer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4LMHB4/?tag=tolees0ca-21)
