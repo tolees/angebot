@@ -28,10 +28,10 @@ Es gibt ein [Solar Lichterkette Aussen 30 LED Kugeln Lichterkette Bunt BrizLabs 
 
 ℹ️:
 
-- ☀【Solar energie】Solar Kugeln Lichterkette mit 2V 200mA Sonnenkollektor, eingebaute wiederaufladbare 1.2 V 1000 mAh Ni-MH-Batterie, Vorrat in Akku und liefern Energie für LED Licht zum Leuchten. Langlebig, tragbar, umweltfreundlich, hohe Qualität und lange Lebensdauer.
 - ☀【Einfach zu Heimwerken und weit verbreitet】Flexible Lichterkette, keine Werkzeuge erforderlich, einfache Installation, leicht zu biegen. Das grüne Kabel ist perfekt für Gras, Bäume, Gärten, Einfach zu zerlegen, gebrauchsfertig. Solar Kristall Lichterkette sind in Ihrer Anlage, in Gräsern, im Garten, in der Halle, in Wänden, in Fenstern, in Türen, in Decken weit verbreitet.
+- ☀【8 Beleuchtungs modi】Sie können die Lichterkette mit 8 Modi und unterschiedlichen Helligkeitsstufen einfach über die beiden Tasten an der Rückseite des Solarmoduls steuern, mit speicherfunktion, Die Lichterkette leuchten jeden Abend im gleichen Modus.
+- ☀【Solar energie】Solar Kugeln Lichterkette mit 2V 200mA Sonnenkollektor, eingebaute wiederaufladbare 1.2 V 1000 mAh Ni-MH-Batterie, Vorrat in Akku und liefern Energie für LED Licht zum Leuchten. Langlebig, tragbar, umweltfreundlich, hohe Qualität und lange Lebensdauer.
 - ☀【Wasserdichte】IP44 Vollständig wasserdicht kugeln lichterkette, Diese solare Lichterkette erzeugen nachts eine romantische und fantastische Lichtstimmung. Sie müssen sich keine Sorgen um das Wetter machen, Solar lichterkette entsprechen einem Leuchtturm am Meer am Regentag.
 - ☀【30 LEDs Kugeln Lichterkette】Eingebaut Sie 30 hochwertige wasserdicht LEDs, 15cm Abstand zwischen LED Lampen, plus 6.5 Meter dunkelgrüne kabel. Die LED Solar lichterkette eignet sich perfekt für Feiern und Partys im Sommer, die eine wunderschöne, feenhafte Welt bilden werden.
-- ☀【8 Beleuchtungs modi】Sie können die Lichterkette mit 8 Modi und unterschiedlichen Helligkeitsstufen einfach über die beiden Tasten an der Rückseite des Solarmoduls steuern, mit speicherfunktion, Die Lichterkette leuchten jeden Abend im gleichen Modus.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07TM8PZTV/?tag=tolees0ca-21)
