@@ -28,9 +28,9 @@ Es gibt ein [STAEDTLER 2360 Wandtafelkreide  hervorragende Farbabgabe  staubfrei
 
 ℹ️:
 
-- Staubfrei
 - Lieferumfang: Kartonetui mit 12 farblich sortierte Tafelkreiden
 - Wandtafelkreide mit hervorragender Farbabgabe
 - Leicht abwischbar
+- Staubfrei
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJKGB4/?tag=tolees0ca-21)
