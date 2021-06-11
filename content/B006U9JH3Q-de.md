@@ -30,8 +30,8 @@ Sie können [Ballistol 29845 Spray 400 ml](https://www.amazon.de/dp/B006U9JH3Q/?
 
 - lebensmittelecht
 - verwendbar für alle Materialien, wie Metall, Holz, Leder u.s.w.
-- medizinisch rein und voll biologisch abbaubar
 - harz- und säurefrei
 - kriecht in feinste Risse und Winkel, verharzt auch nach Jahren nicht
+- medizinisch rein und voll biologisch abbaubar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B006U9JH3Q/?tag=tolees0ca-21)

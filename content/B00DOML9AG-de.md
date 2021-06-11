@@ -29,9 +29,9 @@ Sie können [Outdoor Edge - Outdoormesser - Replacement Blade Pack  6 Pieces  - 
 ℹ️:
 
 - Klingenlänge: 8.89 cm
-- Gewicht: 31,36 g
-- Schneide: Glatt
-- Gesamtlänge: 8.89 cm - Gewicht: 31,36 g
 - Klingenmaterial: Rostfreier Edelstahl - 420J2
+- Schneide: Glatt
+- Gewicht: 31,36 g
+- Gesamtlänge: 8.89 cm - Gewicht: 31,36 g
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00DOML9AG/?tag=tolees0ca-21)

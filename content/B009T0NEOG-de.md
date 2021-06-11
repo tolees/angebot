@@ -28,10 +28,10 @@ Es gibt ein [Lacoste Herren T-Shirt Blau  Navy Blau  Large](https://www.amazon.d
 
 ℹ️:
 
-- Normale Passform
 - V-Ausschnitt.
-- Kurzärmelig.
-- Schlichtes T-Shirt für Herren von Lacoste.
 - 100 % Baumwolle.
+- Normale Passform
+- Schlichtes T-Shirt für Herren von Lacoste.
+- Kurzärmelig.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009T0NEOG/?tag=tolees0ca-21)
