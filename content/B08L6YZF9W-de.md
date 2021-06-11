@@ -28,14 +28,14 @@ Sie können [Apple iPhone 11  128 GB  -  Product  RED](https://www.amazon.de/dp
 
 ℹ️:
 
-- 12MP True Depth Frontkamera mit Porträtmodus, 4K Video und Zeitlupe
-- A13 Bionic Chip mit Neural Engine der 3.Generation
-- Kabelloses Laden
 - Als Teil der Bemühungen von Apple, seine Umweltziele zu erreichen, kommt das iPhone 11 ohne Netzteil und EarPods. Verwende bitte ein vorhandenes Apple Netzteil und vorhandene Kopfhörer oder kaufe dieses Zubehör separat.
+- 12MP Zwei-Kamera-System mit Ultraweitwinkel‑ und Weitwinkelobjektiv, Nachtmodus, Porträtmodus und 4K Video bis zu 60 fps
+- A13 Bionic Chip mit Neural Engine der 3.Generation
+- 12MP True Depth Frontkamera mit Porträtmodus, 4K Video und Zeitlupe
+- Face ID für sicheres Authentifizieren und Apple Pay
+- 6,1" Liquid Retina HD LCD Display (15,5cm Diagonale)
+- Kabelloses Laden
 - Schnelles Aufladen
 - Wasser‑ und Staubschutz (2 Meter für bis zu 30 Minuten, IP68)
-- 6,1" Liquid Retina HD LCD Display (15,5cm Diagonale)
-- Face ID für sicheres Authentifizieren und Apple Pay
-- 12MP Zwei-Kamera-System mit Ultraweitwinkel‑ und Weitwinkelobjektiv, Nachtmodus, Porträtmodus und 4K Video bis zu 60 fps
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08L6YZF9W/?tag=tolees0ca-21)
