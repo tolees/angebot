@@ -28,8 +28,8 @@ Es gibt ein [Cayro 946180 - Master Mind Spiel mit Farben](https://www.amazon.de/
 
 ℹ️:
 
-- Ref - 946180
-- Marke - Cayro
 - Kategorie - Schreibwaren
+- Marke - Cayro
+- Ref - 946180
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00B2O4A0E/?tag=tolees0ca-21)

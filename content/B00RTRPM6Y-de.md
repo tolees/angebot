@@ -29,9 +29,9 @@ Es gibt ein [beaphar - Protecto FOGGER Vernebler 2 x 75 ml](https://www.amazon.d
 ℹ️:
 
 - 6 Monate Langzeitschutz
-- Jeweils für ca. 25m²
-- Ungeziefer Vernebler
-- Mittel gegen Flöhe, Zecken, Läuse, Herbstgrasmilben etc.
 - Selbstständig entleerend
+- Ungeziefer Vernebler
+- Jeweils für ca. 25m²
+- Mittel gegen Flöhe, Zecken, Läuse, Herbstgrasmilben etc.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00RTRPM6Y/?tag=tolees0ca-21)

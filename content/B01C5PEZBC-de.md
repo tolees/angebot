@@ -28,10 +28,10 @@ Sie können [Tchibo Cafissimo Pure Kapselmaschine  schwarz](https://www.amazon.d
 
 ℹ️:
 
-- Integrierter Kapselauffangbehälter für bis zu 6 Kapseln, abnehmbarer 1 Liter Wassertank
-- Maße: ca. 15,4 x 36 x 27,2 cm (B x T x H)
 - Einfachste Bedienung per Knopfdruck - Frei programmierbare Getränkemenge, verstellbarer Kaffeeauslauf und abnehmbarer Tassentisch
-- Schnelles Aufheizen in 45 Sekunden und energieeffizient durch die automatische Abschaltfunktion nach 9 Minuten
+- Maße: ca. 15,4 x 36 x 27,2 cm (B x T x H)
 - Patentiertes Drei-Druck-Brühsystem für eine intensive Aromafülle Ihres Espressos, Caffé Cremas, Filterkaffees und Tees
+- Integrierter Kapselauffangbehälter für bis zu 6 Kapseln, abnehmbarer 1 Liter Wassertank
+- Schnelles Aufheizen in 45 Sekunden und energieeffizient durch die automatische Abschaltfunktion nach 9 Minuten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01C5PEZBC/?tag=tolees0ca-21)

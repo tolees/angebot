@@ -28,10 +28,10 @@ Sie können [Garnier Color Intense dauerhafte Cremecoloration  6.0 Dunkelblond /
 
 ℹ️:
 
+- In weiteren, strahlenden und natürlichen Farben erhältlich – von hellem Blond über Schokobraun bis hin zu intensivem Blauschwarz
+- Die Creme-Coloration lässt sich angenehm und bequem auftragen – einfach direkt auf dem trockenen Haar verteilen
 - Für langanhaltende Farbe: Die anti-oxidative Wirkung der Kur schützt vor dem Verblassen
 - Die reichhaltige Pflegekur mit frischem Duft ist mit Perlmutt und Rosen-Öl angereichert und sorgt für seidig weiches und glänzendes Haar
-- In weiteren, strahlenden und natürlichen Farben erhältlich – von hellem Blond über Schokobraun bis hin zu intensivem Blauschwarz
 - Dauerhafte Coloration in einem dunklen Blond-Ton für ein intensives, strahlendes Farbergebnis mit 100% Grauabdeckung
-- Die Creme-Coloration lässt sich angenehm und bequem auftragen – einfach direkt auf dem trockenen Haar verteilen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00M88UM7S/?tag=tolees0ca-21)

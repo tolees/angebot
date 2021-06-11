@@ -28,9 +28,9 @@ Sie können [Wera 05057404001 Sortiment  Bit-Check 6 PH Diamond 1  6-teilig  St�
 
 ℹ️:
 
-- BiTorsion Bits für lange Lebensdauer
+- Diamantbeschichtung für sicheren Sitz in der Schraube
 - Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Profilen und Größenstempelung
 - Die aufstellbaren Bit-Checks überzeugen durch ihre Funktionalität auf kleinstem Raum
-- Diamantbeschichtung für sicheren Sitz in der Schraube
+- BiTorsion Bits für lange Lebensdauer
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01BNGH1DI/?tag=tolees0ca-21)

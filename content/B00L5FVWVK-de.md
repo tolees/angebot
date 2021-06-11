@@ -28,8 +28,8 @@ Sie können [KabelDirekt – Klinken-Verlängerungskabel – 10m  für Aux Eing�
 
 ℹ️:
 
-- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
-- Zertifizierte Produktion mit abschließender Qualitätskontrolle (weitere Informationen finden Sie in der untenstehenden Herstellerbeschreibung)
 - KabelDirekt Klinkenverlängerungskabel- Ideal, um bestehende 3.5mm Verbindungen zu erweitern (Kopfhörer, Smartphones u.v.m.)
+- Zertifizierte Produktion mit abschließender Qualitätskontrolle (weitere Informationen finden Sie in der untenstehenden Herstellerbeschreibung)
+- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00L5FVWVK/?tag=tolees0ca-21)

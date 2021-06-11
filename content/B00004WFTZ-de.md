@@ -28,10 +28,10 @@ Es gibt ein [DMT DiaFold Diamantschärfstab - konische Form - rot/fein  600  - f
 
 ℹ️:
 
-- Feiner Diamant für eine rasiermesserscharfe Schneide
 - Tragbare, leichte und handliche faltbare Griffe, die den Diamantschärfer für Wellenschliff schützen, wenn er nicht verwendet wird
-- Kein Öl erforderlich, trocken schärfen oder mit Wasser
 - Schnelleres Schärfen als mit herkömmlichen Steinen dank der mikronisierten monokristallinen Diamantoberfläche
+- Kein Öl erforderlich, trocken schärfen oder mit Wasser
 - Solide Bauweise für jahrelange Leistung und zuverlässigen Service
+- Feiner Diamant für eine rasiermesserscharfe Schneide
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00004WFTZ/?tag=tolees0ca-21)
