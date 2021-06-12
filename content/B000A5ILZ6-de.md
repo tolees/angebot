@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '38.26 % rabat auf Warner Home - Curly Sue - Ein Lockenkopf'
-date: 2021-06-10 19:46:07
+date: 2021-06-12 00:05:49
 image: 'https://m.media-amazon.com/images/I/518A9ZGHYFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
