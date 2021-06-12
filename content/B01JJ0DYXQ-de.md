@@ -28,9 +28,9 @@ Es gibt ein [Sizzix Big Shot Manuelle Stanz- und Prägemaschine 661545  mit 15 2
 
 ℹ️:
 
+- Die Big Shot Stanz- und Prägemaschine ist das perfekte Werkzeug für eine Vielzahl von kreativen Aktivitäten und richtet sich an alle, vom Anfänger bis zum Experten! Mit dem Starter-Kit mit einer Auswahl an Bigz- und Thinlits-Schablonen, einem 13,97 x 15,24 cm großen Papierblock und einem schönen Stück Baumwollstoff von My Life Handmade können Sie direkt aus der Box herausarbeiten.
 - Der Lieferumfang umfasst 1 Big Shot-Maschine, 1 Plattform, 1 Adapter, 1 Paar Standardschneidplatten, 1 Anleitung, 1 Bigz-Schablone, 14 Thinlits Schablonen, 10 doppelseitige 14 cm x 15,24 cm Cardstockblätter und 1 Stoffstück 100 % Baumwolle (45 cm x 55 cm) von My Life Handmade. 1 Jahr eingeschränkte Garantie. Registrieren Sie Ihre Maschine für 2 weitere Jahre auf der Sizzix-Website.
 - Die Big Shot-Maschine misst ungefähr 36.20 x 31.43 x 16.83 cm und wiegt 4.52 Kg.
-- Die Big Shot Stanz- und Prägemaschine ist das perfekte Werkzeug für eine Vielzahl von kreativen Aktivitäten und richtet sich an alle, vom Anfänger bis zum Experten! Mit dem Starter-Kit mit einer Auswahl an Bigz- und Thinlits-Schablonen, einem 13,97 x 15,24 cm großen Papierblock und einem schönen Stück Baumwollstoff von My Life Handmade können Sie direkt aus der Box herausarbeiten.
 - Mit einer breiten und ständig wachsenden Kollektion an Designs gibt es unbegrenzte Möglichkeiten für Wohnkultur, Papercrafting, Quilten, Applikationen, modische Verzierungen und vieles mehr!
 - Stanzt und prägt viele verschiedene Materialien mit einer Breite von bis zu 15,24 cm. Kompatibel mit dem gesamten Sizzix-Produktsortiment, einschließlich Bigz-, Thinlits- und Framelits-Schablonen und Textured Impressions, Texture Fades und Impresslits Prägeschablonen (mit Ausnahme von Plus und Pro Schablonen).
 
