@@ -28,11 +28,11 @@ Es gibt ein [RADEMACHER - RolloTube C-line Medium  20 Nm  SW60 - Rohrmotor Rolll
 
 ℹ️:
 
-- Einfachste Inbetriebnahme: Unter Verwendung von starren Wellenverbindern und Stoppern/Stopperleiste müssen keine Endpunkte eingelernt werden. Selbstlernend mit vollautomatischer Endpunkteinstellung. Sanftanschlag schont das ganze System.
-- Der RolloTube C-line hat ein steckbares Kabel und wird mit einem PVC-Anschlusskabel mit einer Länge von 2, 5 m ausgeliefert. Weitere Anschlusskabel (5 m, 10 m) sind als Zubehör erhältlich.
-- Einfacher Betrieb des Rollladenantriebs über Zeitschaltuhren, Funk-Aktoren oder handelsüblichen Rollladenschalter. Lieferung inkl. Lager.
-- Der Motor ist zudem parallel schaltbar und verfügt über einen rastbaren Universal-Motorkopf, welcher eine Montage ohne Werkzeug ermöglicht sowie eine hohe Kompatibilität zu anderen Systemen gewährleistet.
 - Alternativ sind Endpunkte manuell einstellbar: Einstellung über Setztaste und Zuleitung möglich.
+- Der RolloTube C-line hat ein steckbares Kabel und wird mit einem PVC-Anschlusskabel mit einer Länge von 2, 5 m ausgeliefert. Weitere Anschlusskabel (5 m, 10 m) sind als Zubehör erhältlich.
+- Der Motor ist zudem parallel schaltbar und verfügt über einen rastbaren Universal-Motorkopf, welcher eine Montage ohne Werkzeug ermöglicht sowie eine hohe Kompatibilität zu anderen Systemen gewährleistet.
 - Der Motor hat eine exakte Positionserfassung und Drehmomentüberwachung und schützt dank integrierter Blockiererkennung in beide Laufrichtungen den Behang vor Schäden.
+- Einfacher Betrieb des Rollladenantriebs über Zeitschaltuhren, Funk-Aktoren oder handelsüblichen Rollladenschalter. Lieferung inkl. Lager.
+- Einfachste Inbetriebnahme: Unter Verwendung von starren Wellenverbindern und Stoppern/Stopperleiste müssen keine Endpunkte eingelernt werden. Selbstlernend mit vollautomatischer Endpunkteinstellung. Sanftanschlag schont das ganze System.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZDJPMR6/?tag=tolees0ca-21)
