@@ -28,10 +28,10 @@ Es gibt ein [Balinco Sonnenbrille UV400 CAT 3 CE Rubber - mit Federscharnier fü
 
 ℹ️:
 
-- ✅ wunderschöne Farbkombinationen (Smoke, verspiegelt, Klarglas) egal welche Sonnenbrille - jede einzelne ist besonders und passend zu jedem Outfit zu tragen!
 - ✅ Pflegehinweis: - bitte immer in einem sauberen Etui aufbewahren - mit einem sauberen, weichen Tuch reinigen - Gläser aus Polycarbonat bitte mit Spiritus/Alkohol reinigen - nicht mit Benzin oder anderen Lösungsmitteln reinigen - nicht tragen, wenn die Brille beschädigt ist - nicht in einen UV Strahler oder direkt in die Sonne oder Höhensonne mit der Brille schauen - nicht nachts oder bei Dämmerung im Straßenverkehr aufsetzen
-- ✅ CE zertifiziert - 100% UVA / UVB Abwehr
 - ✅ Sunglasses / Sonnenbrille mit Federscharnieren für Herren & Damen!
+- ✅ wunderschöne Farbkombinationen (Smoke, verspiegelt, Klarglas) egal welche Sonnenbrille - jede einzelne ist besonders und passend zu jedem Outfit zu tragen!
+- ✅ CE zertifiziert - 100% UVA / UVB Abwehr
 - ✅ klassische, zeitlose Sonnenbrille - sehr gute Qualität & hochwertige Verarbeitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MUAJ8KZ/?tag=tolees0ca-21)
