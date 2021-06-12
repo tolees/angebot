@@ -28,9 +28,9 @@ Es gibt ein [Lacoste Herren Langarmshirt  Einfarbig  Gr. X-Large  Herstellergrö
 
 ℹ️:
 
-- Maschinenwäsche warm (40° +)
 - Klassisches Lacoste Basic Langarm T-Shirt mit Rundhals-Ausschnitt
 - 100% Baumwolle
 - Regular Fit - normale Passform
+- Maschinenwäsche warm (40° +)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EDNLOHI/?tag=tolees0ca-21)

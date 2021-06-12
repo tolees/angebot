@@ -28,8 +28,8 @@ Es gibt ein [LogiLink mSATA SSD to 2 5" SATA Adapter  UA0223](https://www.amazon
 
 ℹ️:
 
-- Keine Treiberinstallation erforderlich
 - Unterstützt externe USB Anwendung
+- Keine Treiberinstallation erforderlich
 - mSATA (mini SATA) SSD zu 2,5" SATA Adapter
 - Kann als primäres Bootgerät mit dem enthaltenen OS genutzt werden (abhängig von der mSATA SSD und BIOS)
 
