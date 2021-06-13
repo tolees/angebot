@@ -28,11 +28,11 @@ Sie können [LG Electronics - LG Beamer PF50KS bis 254 cm  100 Zoll  CineBeam LE
 
 ℹ️:
 
-- Full HD Auflösung 1920x1080
+- Hohe Helligkeit von max. 600 Lumen (High Mode) und hoher Kontrast von 100.000: 1 sowie naturgetreue Farbwiedergabe durch LED mit 110 % NTSC Farbraum
+- Mit LED Technologie: 30.000 Stunden Lebensdauer - Lampenwechsel überflüssig!
 - Integrierter Akku für bis zu 2, 5 Stunden Laufzeit
 - Dmd DLP Chip der neuesten Generation
-- Mit LED Technologie: 30.000 Stunden Lebensdauer - Lampenwechsel überflüssig!
-- Hohe Helligkeit von max. 600 Lumen (High Mode) und hoher Kontrast von 100.000: 1 sowie naturgetreue Farbwiedergabe durch LED mit 110 % NTSC Farbraum
+- Full HD Auflösung 1920x1080
 - Smarte Bedienung durch webOS 3.5 und Infrarot Fernbedienung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07B51SR9Y/?tag=tolees0ca-21)

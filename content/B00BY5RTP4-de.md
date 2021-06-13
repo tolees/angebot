@@ -28,8 +28,8 @@ Es gibt ein [Samsonite Termo Young Upright M Koffer  67 cm  69 L  Blau  Dark Blu
 
 ℹ️:
 
-- Made in Europe
 - Termo Young Spinner 85 (> Zweiwöchige Reise): 56 x 34 x 85 cm - 120 L - 5,70 kg
+- Made in Europe
 - Hergestellt aus leichtem und doch widerstandsfähigem Polypropylen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BY5RTP4/?tag=tolees0ca-21)

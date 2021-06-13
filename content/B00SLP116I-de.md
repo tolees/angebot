@@ -28,15 +28,15 @@ Es gibt ein [SAMYANG 13016T2.2N T2.2 VDLSR ED UMC CS II Objektiv für Anschluss 
 
 ℹ️:
 
-- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
-- Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
-- Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
-- Manuell fokussierendes Video-Objektiv 16mm T2.2
-- Manuell fokussierendes Video-Objektiv 16mm T2.2
-- Lieferumfang : Samyang 16mm T2.2 VDLSR ED AS UMC CS II für Anschluss Nikon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
-- Samyang 16mm T2.2 VDLSR ED AS UMC CS II für Anschluss Nikon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
-- Samyang 16mm T2.2 VDLSR ED AS UMC CS II für Anschluss Nikon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
-- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
+- Manuell fokussierendes Video-Objektiv 16mm T2.2
+- Samyang 16mm T2.2 VDLSR ED AS UMC CS II für Anschluss Nikon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
+- Samyang 16mm T2.2 VDLSR ED AS UMC CS II für Anschluss Nikon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
+- Manuell fokussierendes Video-Objektiv 16mm T2.2
+- Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
+- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
+- Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
+- Lieferumfang : Samyang 16mm T2.2 VDLSR ED AS UMC CS II für Anschluss Nikon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00SLP116I/?tag=tolees0ca-21)

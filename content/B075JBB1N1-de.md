@@ -28,9 +28,9 @@ Sie können [Pandora 791725NSG Grüner Strahlenkranz der Herzen Charm](https://w
 
 ℹ️:
 
-- Green crystal
-- Clear cubic zirconia
 - Charm
+- Clear cubic zirconia
+- Green crystal
 - Green Radiant Hearts
 - Sterling silver
 

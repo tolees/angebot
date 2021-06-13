@@ -29,9 +29,9 @@ Sie können [CYBEX Silver 2-in-1 Kinder-Autositz Pallas M-Fix SL  Für Autos mit
 ℹ️:
 
 - Lieferumfang: 1 Autositz Pallas M-Fix SL mit ISOFIX Connect System, Inkl. ISOFIX Einbauhilfen, Material Bezug: 100% Polyester, Maße (LxBxH): 42 x 54 x 63 cm, Gewicht: 6,86 kg, Farbe: Blue Moon
-- Stabiler und hochwertiger Kinder-Autositz mit langer Nutzungsdauer - Für Kinder im Alter von ca. 9 Monaten bis ca. 12 Jahren (9-36 kg), Geeignet für Autos mit und ohne ISOFIX - Testsieger Stiftung Warentest 06/2017: gut (Lizenz: 17QK36)
 - Einfache Befestigung im Auto mit Fahrzeug-Sicherheitsgurt und optional zusätzlich mit ISOFIX für extra Stabilität, Abnehmbarer Bezug - Waschmaschinengeeignet (30°C)
-- Maximale Sicherheit - Tiefenverstellbarer Fangkörper, 3-fach verstellbare Kopfstütze, Integrierter Seitenaufprallschutz (L.S.P. System), Energieabsorbierende Schale
 - 12-fach verstellbare Komfortkopfstütze, Einfacher Umbau zu Kinder-Autositz Solution M-Fix SL für Kinder ab 3 Jahren (Gruppe 2/3) durch Entfernung von Fangkörper und Basis, verstellbare Rückenlehne, Belüftungssystem, Herausnehmbare Sitzeinlage
+- Maximale Sicherheit - Tiefenverstellbarer Fangkörper, 3-fach verstellbare Kopfstütze, Integrierter Seitenaufprallschutz (L.S.P. System), Energieabsorbierende Schale
+- Stabiler und hochwertiger Kinder-Autositz mit langer Nutzungsdauer - Für Kinder im Alter von ca. 9 Monaten bis ca. 12 Jahren (9-36 kg), Geeignet für Autos mit und ohne ISOFIX - Testsieger Stiftung Warentest 06/2017: gut (Lizenz: 17QK36)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B073HC9S1L/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Foscam C1 HD 720P Funk-Plug-and-Play IP WLAN Kamera / Überwachungs
 
 ℹ️:
 
-- Verfügt über Steckplatz für die microSD in einer Weise, dass die Registrierung ohne ein NAS Netzwerkkabel, Motion-Detection-Erkennung der Person und sendet die Fotos per Email
 - P2P für einfache Konfiguration mit qr-code
-- Erkennt Bewegung durch PIR (passive infrared Detector)
-- 720p HD-Videos Kompression H264; Wireless mit microSD-Slot
 - Die Audio bidirektional, unterstützt die wichtigsten Betriebssystemen wie Explorer, Mozilla, Chrome, Safari und kann es auch zu kontrollieren Fernsteuerung durch Ladegeräte für Android oder iPhone
+- 720p HD-Videos Kompression H264; Wireless mit microSD-Slot
+- Verfügt über Steckplatz für die microSD in einer Weise, dass die Registrierung ohne ein NAS Netzwerkkabel, Motion-Detection-Erkennung der Person und sendet die Fotos per Email
+- Erkennt Bewegung durch PIR (passive infrared Detector)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00T7NX6SY/?tag=tolees0ca-21)
