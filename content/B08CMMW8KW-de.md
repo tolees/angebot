@@ -29,9 +29,9 @@ Es gibt ein [#DoYourFitness x World Fitness Yogamatte »Yamuna« - 183 x 61 x 1 
 ℹ️:
 
 - ANGENEHM WEICH Durch die weiche Oberflächenstruktur sorgt unsere Yogamatte für optimale Dämpfung und Komfort während des Trainings. Gleichzeitig bietet die Fitnessmatte ausreichenden Halt für Stand- und Balanceübungen.
+- RUTSCH- & ABRIEBFEST Die phthalat- und schwermetallfreie Trainingsmatte ist besonders hautfreundlich und sorgt durch ihre hohe Materialdichte für eine besonders lange Lebensdauer.
+- FLEXIBEL EINSETZBAR Die hochwertige Trainingsmatte aus NBR Schaumstoff ist die perfekte Trainingsunterlage für Pilates, Fitness & Workouts. Bestens geeignet für Reha, Schwangerschafts-Turnen oder Rückbildungsgymnastik.
 - PFLEGELEICHT Die 183 x 61 x 1,5 cm Turnmatte lässt sich problemlos mit einem feuchten Tuch mit kaltem Wasser abwischen, flach trocknen. Vermeiden Sie hohe und niedrige Temperaturen sowie starke Sonneneinstrahlung.
 - UNSER QUALITÄTSANSPRUCH Qualität und die Zufriedenheit unserer Kunden stehen für uns im Mittelpunkt. In dem ausgewählten Sortiment von #DoYourSports finden Sie neben Yogamatten und Yogazubehör auch Gewichte, Gymnastikbälle und vieles mehr.
-- FLEXIBEL EINSETZBAR Die hochwertige Trainingsmatte aus NBR Schaumstoff ist die perfekte Trainingsunterlage für Pilates, Fitness & Workouts. Bestens geeignet für Reha, Schwangerschafts-Turnen oder Rückbildungsgymnastik.
-- RUTSCH- & ABRIEBFEST Die phthalat- und schwermetallfreie Trainingsmatte ist besonders hautfreundlich und sorgt durch ihre hohe Materialdichte für eine besonders lange Lebensdauer.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CMMW8KW/?tag=tolees0ca-21)
