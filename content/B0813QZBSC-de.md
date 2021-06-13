@@ -28,10 +28,10 @@ Sie können [LEGO 41909 DOTS Meerjungfrauen Freundschaftsarmbänder  2 x Kindera
 
 ℹ️:
 
-- Die über 20 cm langen Armbänder eignen sich perfekt für junge Designer, um neue Ideen auszuprobieren und dann ihre beste Version zu teilen oder zu tragen
-- Kinderarmband ist eine tolle Weihnachts- oder Geburtstagsidee Ein Bastelset für Mädchen und Jungen ab 6 Jahren. Voller Spaß zum Mitnehmen
-- Kinder können andere LEGO DOTS Extra Sets hinzufügen und spielen: Serie 1 (41908), Serie 2 (41916) und Serie 3 (41921) mit Überraschungssteinchen
 - Kinder können die Armbänder dekorieren und teilen, die vorhandenen Musterideen folgen oder sich einen ganz besonderen Look einfallen lassen und selbst bearbeiten
+- Kinder können andere LEGO DOTS Extra Sets hinzufügen und spielen: Serie 1 (41908), Serie 2 (41916) und Serie 3 (41921) mit Überraschungssteinchen
+- Kinderarmband ist eine tolle Weihnachts- oder Geburtstagsidee Ein Bastelset für Mädchen und Jungen ab 6 Jahren. Voller Spaß zum Mitnehmen
+- Die über 20 cm langen Armbänder eignen sich perfekt für junge Designer, um neue Ideen auszuprobieren und dann ihre beste Version zu teilen oder zu tragen
 - Jeder Basteln-Fan wird dieses kreative Set von Kinderschmuck lieben Im Pastelfarben, mit Deko-Muscheln, und im Meerjungfrau-Stil dekorativ versiert
 - Das Bastelset für Mädchen und Jungen (limitierte Auflage) enthält 2 Freundschaftsarmbänder und 32 Teile. Ein einfacher und tragbarer Spaß für alle Freunde
 
