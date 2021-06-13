@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.11 % rabat auf TP-Link TL-WA850RE WLAN Verstärker Repea'
-date: 2021-06-11 21:17:52
+date: 2021-06-13 09:35:15
 image: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21'
 descuento: '28.11'
-average: '16.9599115044249'
+average: '16.968157894737'
 ---
 
 Es gibt ein [TP-Link TL-WA850RE WLAN Verstärker Repeater 300 Mbit/s  WLAN Verstärker  App Steuerung  Ethernet-Port  WPS  AP Modus  LED abschaltbar  kompatibel zu allen WLAN Geräten  weiß](https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21) mit aktuellem Preis 17.9 EUR (original: 24.9 EUR) 28.11 % Rabatt hier:
@@ -28,12 +28,12 @@ Es gibt ein [TP-Link TL-WA850RE WLAN Verstärker Repeater 300 Mbit/s  WLAN Verst
 
 ℹ️:
 
-- Verpackungsinhalt: TL-WA850RE, Schnellinstallationsanleitung
-- Tether App ermöglicht einfachen Zugriff und Verwaltung mit jedem mobilen Gerät
 - 1-2 Zimmer Wohnung, Internet-Geschwindigkeit unter 100Mbit/s
-- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
-- Energieverbrauch - 3W
-- Ein LAN-Port zur Integration kabelgebundener Netzwerkgeräte wie Spielekonsolen, Smart-TVs in ein WLAN
+- Tether App ermöglicht einfachen Zugriff und Verwaltung mit jedem mobilen Gerät
+- Verpackungsinhalt: TL-WA850RE, Schnellinstallationsanleitung
 - High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
+- Ein LAN-Port zur Integration kabelgebundener Netzwerkgeräte wie Spielekonsolen, Smart-TVs in ein WLAN
+- Energieverbrauch - 3W
+- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21)
