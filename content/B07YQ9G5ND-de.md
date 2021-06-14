@@ -28,8 +28,8 @@ Sie können [NIVEA MEN Sensitive After Shave Balsam  Hautpflege nach der Rasur m
 
 ℹ️:
 
-- Für sensible Haut – Mit der sanften Formel ohne Alkohol* (*Ethylalkohol) beruhigt das After Shave Balsam die Haut und pflegt mit Kamille und Vitamin E
 - Reduziert Hautirritationen – Die 5 Anzeichen von Hautirritationen werden vom Aftershave gelindert: Brennen, Rötung, Trockenheit, Spannungsgefühl und Juckreiz
+- Für sensible Haut – Mit der sanften Formel ohne Alkohol* (*Ethylalkohol) beruhigt das After Shave Balsam die Haut und pflegt mit Kamille und Vitamin E
 - Praktischer Lieferumfang – NIVEA MEN Sensitive After Shave Balsam im 1er Pack, 1 x 100 ml Flasche, Artikelnummer 81306
 - Spendet Feuchtigkeit – Die beruhigende NIVEA MEN After Shave Lotion spendet langanhaltende und intensive Feuchtigkeit und sorgt so für besonders sanfte Haut
 - Zur Gesichtspflege – Das Rasierwasser pflegt und regeneriert die Haut und die Verträglichkeit ist bei Männern mit empfindlicher Haut dermatologisch bestätigt

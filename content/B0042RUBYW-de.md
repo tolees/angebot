@@ -28,7 +28,7 @@ Es gibt ein [Canon 3500B002 CRG-728 Tonerkartusche schwarz](https://www.amazon.d
 
 ℹ️:
 
-- Kompatibilität: i-SENSYS MF4870dn, i-SENSYS MF4410, i-SENSYS MF4750, i-SENSYS MF4580dn, i-SENSYS MF4430, i-SENSYS MF4450, i-SENSYS MF4550d, i-SENSYS MF4730, i-SENSYS MF4570dn, i-SENSYS MF4780w, i-SENSYS MF4890dw
 - Der Canon 728 Toner Schwarz ist auf Basis des Magnetic Spherical (MS) Systems konzipiert. Dieses System bedeutet, dass die Tonertexte und Bilder stark gedruckt werden. Infolgedessen eignet sich dieser Toner zum Drucken, zum Beispiel Berichte
+- Kompatibilität: i-SENSYS MF4870dn, i-SENSYS MF4410, i-SENSYS MF4750, i-SENSYS MF4580dn, i-SENSYS MF4430, i-SENSYS MF4450, i-SENSYS MF4550d, i-SENSYS MF4730, i-SENSYS MF4570dn, i-SENSYS MF4780w, i-SENSYS MF4890dw
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0042RUBYW/?tag=tolees0ca-21)
