@@ -28,10 +28,10 @@ Es gibt ein [Amazon Basics Vorgeladene Ni-MH-Akkus  AAA  8 Stück  und AA  16 St
 
 ℹ️:
 
+- Improved low self discharge
 - Improved high recovery type
 - Pre-charged and prepared to use out of the pack
 - Pack of 8 Rechargeable 800 mAh AAA Batteries
-- Improved low self discharge
 - Pack of 16 Ni-Mh 2,000 mAh rechargeable AA batteries for digital cameras, remotes, and more
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0161KEC2E/?tag=tolees0ca-21)

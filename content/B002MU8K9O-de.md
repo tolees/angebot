@@ -28,8 +28,8 @@ Sie können [Prosperplast - Stapelbox In-Box Größe 5 290 x 200 x 150 mm PP sch
 
 ℹ️:
 
-- Anzahl der Packungen: 1
 - Farbe: Schwarz
+- Anzahl der Packungen: 1
 - Verpackungsabmessungen: 14.8 L x 28.7 H x 19.6 W (Zm)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B002MU8K9O/?tag=tolees0ca-21)

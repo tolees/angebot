@@ -29,9 +29,9 @@ Es gibt ein [Herlitz 11208360 Sichtbuch PP A4/20 Zeugnisse blau](https://www.ama
 ℹ️:
 
 - dokumentenecht
-- opak blau
-- mit Aufdruck Zeugnisse
-- 20 Klarsichthüllen
 - PP-Folie, PP-Einband
+- opak blau
+- 20 Klarsichthüllen
+- mit Aufdruck Zeugnisse
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006HYLMTG/?tag=tolees0ca-21)
