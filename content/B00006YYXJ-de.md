@@ -28,9 +28,9 @@ Es gibt ein [AMIGO Spiel + Freizeit - Amigo Spiele 990 - Rage](https://www.amazo
 
 ℹ️:
 
-- Sprache Spielanleitung: DE
-- Spiel Gut Auszeichnung: Ja
 - Spieldauer: ca. 50 Min, ca. 40 Min
+- Spiel Gut Auszeichnung: Ja
+- Sprache Spielanleitung: DE
 - Warnhinweis: Achtung! Nicht für Kinder unter 36 Monaten geeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00006YYXJ/?tag=tolees0ca-21)

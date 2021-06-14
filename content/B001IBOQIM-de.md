@@ -28,8 +28,8 @@ Sie können [Bosch Professional 2607010545 Rundschaftbohrer 7 tlg. Silver Percus
 
 ℹ️:
 
-- Durchmesser: 4/5/6/6/8/10/12mm
 - Inhalt: 7-teilig
+- Durchmesser: 4/5/6/6/8/10/12mm
 - Farbe: silber
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001IBOQIM/?tag=tolees0ca-21)

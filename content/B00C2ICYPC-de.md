@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.48 % rabat auf TP-Link TL-WPA4220 KIT AV600 WLAN N300 W'
-date: 2021-06-13 09:40:10
+date: 2021-06-14 15:11:18
 image: 'https://m.media-amazon.com/images/I/41B3X5nFnWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B00C2ICYPC/?tag=tolees0ca-21'
 descuento: '28.48'
-average: '50.0677941176471'
+average: '50.0672262773723'
 ---
 
 Es gibt ein [TP-Link TL-WPA4220 KIT AV600 WLAN N300 WiFi Powerline  max. 600Mbit/s Powerline  max. 300Mbit/s WLAN 2 4GHz   Plug und Play  kompatibel zu allen Powerline Adaptern  2er Set  weiß](https://www.amazon.de/dp/B00C2ICYPC/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 69.9 EUR) 28.48 % Rabatt hier:

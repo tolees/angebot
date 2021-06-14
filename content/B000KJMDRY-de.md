@@ -29,9 +29,9 @@ Es gibt ein [Durable 366003 Leitregister A - Z  A6 quer  1 Stück rot](https://w
 ℹ️:
 
 - Artikelbezeichnung: Register
-- Werkstoff: PP
 - Beschreibung der Besonderheiten: mit glasklaren umschweißten Taben und Einsteckschildern, beschriftbar mit Duraprint-Beschriftungssoftware
 - Beschriftungsschild auswechselbar: Ja
 - Lochung: Universallochung
+- Werkstoff: PP
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJMDRY/?tag=tolees0ca-21)

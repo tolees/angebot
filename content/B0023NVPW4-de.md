@@ -29,9 +29,9 @@ Es gibt ein [Heidelberger Spieleverlag - Asmodee Erwischt!  Partyspiel  Deduktio
 ℹ️:
 
 - Erwischt! ist ein lockeres, spaßiges Partyspiel, das nebenbei mit anderen Aktivitäten gespielt werden kann, wie ein gesellschaftlicher Abend, ein Abendessen oder sogar ein anderes Spiel
-- 4-50 Spieler | Ab 12+ Jahren | Bis zu 60+ Minuten Spielzeit je Partie | Spiel in Deutsch
-- Nach abgelaufener Zeit endet das Kartenspiel und die Punkte werden zusammen gezählt. Wer die meisten Punkte hat, gewinnt, aber eigentlich sind alle Gewinner
-- Erfülle deine Aufgaben diskret vor Zeugen, enttarne und erwische auffällige Versuche die Aufgaben zu meistern und sammel den ganzen Abend über Pluspunkte oder Minuspunkte
 - Im Laufe einer Partie müssen die Spieler 3 lustige Aufgaben erledigen, die sie spontan oder kreativ im Gespräch einbinden oder auch Bluffs verwenden, um die Aufgaben unentdeckt zu erfüllen
+- Nach abgelaufener Zeit endet das Kartenspiel und die Punkte werden zusammen gezählt. Wer die meisten Punkte hat, gewinnt, aber eigentlich sind alle Gewinner
+- 4-50 Spieler | Ab 12+ Jahren | Bis zu 60+ Minuten Spielzeit je Partie | Spiel in Deutsch
+- Erfülle deine Aufgaben diskret vor Zeugen, enttarne und erwische auffällige Versuche die Aufgaben zu meistern und sammel den ganzen Abend über Pluspunkte oder Minuspunkte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0023NVPW4/?tag=tolees0ca-21)

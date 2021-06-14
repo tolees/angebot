@@ -28,10 +28,10 @@ Es gibt ein [Wera 350 SK PH Kreuzschlitz-Schraubendreher  PH 1 x 80 mm  05008751
 
 ℹ️:
 
-- Schraubendreher für Kreuzschlitzschrauben Phillips
 - Lasertip-Spitze für mehr Halt im Schraubenkopf
-- Harte Griffzonen für hohe Arbeitsgeschwindigkeit, weiche Griffzonen für hohe Drehmomentübertragung
 - Mit Griffkennzeichnung zum leichteren Finden und Sortieren des Werkzeugs
+- Harte Griffzonen für hohe Arbeitsgeschwindigkeit, weiche Griffzonen für hohe Drehmomentübertragung
 - Mit Sechskantklinge und Schlüsselhilfe zur Übertragung höherer Drehmomente
+- Schraubendreher für Kreuzschlitzschrauben Phillips
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000XJ4MSO/?tag=tolees0ca-21)

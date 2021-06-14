@@ -28,11 +28,11 @@ Sie können [Duracell Ultra C Baby Alkaline Batterien LR14  2er Pack](https://ww
 
 ℹ️:
 
-- Die Duralock-Technologie erhält eingelagerte, unbenutzte Duracell Batterien bis zu 10 Jahre lang im frischen, geladenen und einsatzbereitem Zustand
+- gewerbliche Garantie im Vergleich zur durchschnittlichen Mindest-Lebensdauer im "IEC C-Batterietest 2015". Die Ergebnisse können je nach Gerät oder Nutzungsverhalten variieren
 - Mit der einzigartigen Powercheck Technologie können Sie die noch vorhandene Leistung der Duracell Ultra Batterie überprüfen
 - Unsere beste Batterie mit extra Leistung für energieintensive Alltagsgeräte
 - 100% Leistung garantiert
 - in den Größen AAA, AA, C, D und 9 V erhältlich
-- gewerbliche Garantie im Vergleich zur durchschnittlichen Mindest-Lebensdauer im "IEC C-Batterietest 2015". Die Ergebnisse können je nach Gerät oder Nutzungsverhalten variieren
+- Die Duralock-Technologie erhält eingelagerte, unbenutzte Duracell Batterien bis zu 10 Jahre lang im frischen, geladenen und einsatzbereitem Zustand
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00443YFUU/?tag=tolees0ca-21)

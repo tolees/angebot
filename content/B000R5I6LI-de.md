@@ -28,8 +28,8 @@ Es gibt ein [Bosch Professional Adapter für Staubbeutel für Exzenter-  Schwing
 
 ℹ️:
 
-- Sorgt für einen sauberen Arbeitsplatz
-- Adapter zu Exzenter-, Schwing- und Multischleifern
 - Kompatibilität: GAS 35 L AFC, GAS 35 L SFC+, GAS 35 M AFC, GAS 55 M AFC, GEX 125, GEX 150 AC, GSS 140, GSS 140 A, GSS 230, GSS 230 A, GSS 230 AE, GSS 280 A, GSS 280 AE Professional, PEX 11, PEX 12, PEX 15 AE, PEX 115 A-1, PEX 270 A, PEX 270 AE, PEX 400 A, PEX 400 AE, PEX 420 AE, PSB 7, PSB 7 AE, PSM 160 A, PSS 180 und PSS 240 AE
+- Adapter zu Exzenter-, Schwing- und Multischleifern
+- Sorgt für einen sauberen Arbeitsplatz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000R5I6LI/?tag=tolees0ca-21)

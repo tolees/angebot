@@ -28,12 +28,12 @@ Es gibt ein [Bodum CREMA Kaffeebereiter  French Press System  Permanent Edelstah
 
 ℹ️:
 
-- Der Rahmen bietet einen zusätzlichen Schutz für das hitzebeständige Borosilikatglas.
 - Plastikgriff und -boden schützen den Anwender und jede Oberfläche vor Verbrennungen und Hitzeschäden
+- Fassungsvermögen: 0,5 l
 - Der patentierte Sicherheits-Deckel verhindert, dass Flüssigkeit aus dem Kaffeebereiter spritzt.
 - Mit Bodums traditionellem French Press System für eine perfekte Zubereitung von vollmundigem und aromatischem Kaffee
-- Fassungsvermögen: 0,5 l
 - Kaffeebereiter
+- Der Rahmen bietet einen zusätzlichen Schutz für das hitzebeständige Borosilikatglas.
 - Die Kanne ist hergestellt aus geschmacksneutralem Borosilikatglas und made in Europe
 - Farbe: Schwarz
 - Für 4 Tassen

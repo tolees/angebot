@@ -28,8 +28,8 @@ Es gibt ein [Albert Turk - Turk Pfanne  Eisen  Schwarz  24 cm](https://www.amazo
 
 ℹ️:
 
-- schmiedeisern
 - zeichnet sich durch hervorragende Brateigenschaften aus
+- schmiedeisern
 - Spitzenqualität für den professionellen Einsatz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KKLZG8/?tag=tolees0ca-21)
