@@ -28,11 +28,11 @@ Es gibt ein [Amazon Basics HL-007342 Hochgeschwindigkeits-HDMI-Kabel  Typ Mini-H
 
 ℹ️:
 
+- Kabellänge: 1,83 Meter; mit Garantie durch Amazon Basics
 - Hochgeschwindigkeits-HDMI-Kabel; Mini-HDMI (Typ A) auf HDMI (Typ C)
 - Entspricht dem HDMI-Standard 2.0 (4K-Videowiedergabe bei 60 Hz, 2160p, 48 bbp Farbtiefe), der Bandbreiten bis 18 Gbit/s unterstützt und abwärtskompatibel mit den vorherigen HDMI-Standards ist
-- Kabellänge: 1,83 Meter; mit Garantie durch Amazon Basics
+- Dies ist KEIN bidirektionales Kabel. Es unterstützt nur die Signalübertragung vom Mini-HDMI-Eingang zum HDMI-Ausgang
 - Unterstützt Ethernet, 3D und Audio Return (keine separaten Kabel nötig)
 - Geeignet für HDTVs, Digitalkameras / Camcorder, MP3-Player und andere HDMI-fähige Geräte
-- Dies ist KEIN bidirektionales Kabel. Es unterstützt nur die Signalübertragung vom Mini-HDMI-Eingang zum HDMI-Ausgang
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B014I8UEGY/?tag=tolees0ca-21)
