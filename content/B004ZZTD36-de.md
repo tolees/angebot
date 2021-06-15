@@ -29,8 +29,8 @@ Es gibt ein [ABUS Aluminium-Vorhangschloss "myLock" T65AL/40  blau  50867](https
 ℹ️:
 
 - Vorhangschloss "my Lock" zur individuellen Sicherung von Spinden und Schränken
-- Größe 40mm, Farbe blau
 - inkl. zwei Schlüssel
+- Größe 40mm, Farbe blau
 - Bügel aus gehärtetem Stahl, doppelte Verriegelung
 - farbiger Kunststoffmantel, Innenteile aus rostfreien Materialien
 

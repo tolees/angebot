@@ -28,10 +28,10 @@ Es gibt ein [AMIGO 04703 - Honigbienchen](https://www.amazon.de/dp/B00J5ZBW4Y/?t
 
 ℹ️:
 
-- Honigbienchen - ein pfiffiges Spiel für kleine Gedächtniskünstler, mit tollem 3D Material!
 - Findest du die Bienen in ihren Bienenkörben? Sei dir nicht zu sicher, denn sie wechseln immer wieder ihre Plätze. Wer am Ende den meisten Honig sammeln konnte, gewinnt das Spiel
+- Honigbienchen - ein pfiffiges Spiel für kleine Gedächtniskünstler, mit tollem 3D Material!
 - Tolles Spielmaterial
-- Inhalt: 36 Spielkarten 6 Bienenkörbe 6 Bienen 1 Spielanleitung
 - Memo-Spiel vom Erfolgsautor Reiner Knizia
+- Inhalt: 36 Spielkarten 6 Bienenkörbe 6 Bienen 1 Spielanleitung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00J5ZBW4Y/?tag=tolees0ca-21)
