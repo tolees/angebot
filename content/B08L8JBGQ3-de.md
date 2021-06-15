@@ -28,11 +28,11 @@ Sie können [VAUDE Herren Hose Men s Farley ZO Pants V  black  48-Long  42172](h
 
 ℹ️:
 
-- Mens Farley ZO Pants V
-- Inklusive UV-Schutz: Dank der natürlichen Geraniol-Ausrüstung kann die Hose mit mückenabwehrenden Eigenschaften auftrumpfen und bewahrt mit einem UV-Schutz von 40+ (UPF) die Haut vor Sonnenbrand
-- Hohe Bewegungsfreiheit: Die vorgeformten Knie und die elastischen Einsätze am Bund geben ein Plus an Bewegungsfreiheit
-- Schmälerer Schnitt: Die universell einsetzbare Mens Farley ZO Pants V kommt in ihrer Neuauflage etwas schmaler geschnitten
-- Zip-Off Hose zum Wandern, schnelltrocknendes Material: wehrt Mücken und UV-Strahlen ab
 - Bequeme Hose: Rundum bequeme, klein verpackbare Zipp-Off Hose, die sich auf Trekking-Touren und Wanderungen in feucht-warmen Regionen oder für die nordischen Mückenreviere im Frühsommer bestens bewährt
+- Hohe Bewegungsfreiheit: Die vorgeformten Knie und die elastischen Einsätze am Bund geben ein Plus an Bewegungsfreiheit
+- Zip-Off Hose zum Wandern, schnelltrocknendes Material: wehrt Mücken und UV-Strahlen ab
+- Schmälerer Schnitt: Die universell einsetzbare Mens Farley ZO Pants V kommt in ihrer Neuauflage etwas schmaler geschnitten
+- Inklusive UV-Schutz: Dank der natürlichen Geraniol-Ausrüstung kann die Hose mit mückenabwehrenden Eigenschaften auftrumpfen und bewahrt mit einem UV-Schutz von 40+ (UPF) die Haut vor Sonnenbrand
+- Mens Farley ZO Pants V
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08L8JBGQ3/?tag=tolees0ca-21)
