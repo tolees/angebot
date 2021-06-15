@@ -28,10 +28,10 @@ Sie können [LEGO 60214 City Feuerwehreinsatz im Burger-Restaurant  Bauset mit L
 
 ℹ️:
 
-- Enthält ein Feuerwehrspielzeug mit einer Fahrerkabine für Minifiguren, drehbarer Einheit im hinteren Fahrzeugteil, einer ausrichtbaren Wasserpumpe mit „Wasserstrahl“-Funktion (Neuheit ab Januar 2019) und zwei Staufächern sowie ein Motorrad.
 - Als Zubehör sind eine Feuerwehraxt (Neuheit ab Januar 2019), 2 Helme mit Visier zum Öffnen, eine Sauerstoffflasche, eine Mülltone, ein Motorradhelm, ein kleiner Feuerlöscher und 5 baubare Elemente enthalten.
-- Platziere ein oder alle Flammenelemente auf dem Schild des Burger-Restaurants und der Mülltonne, um entweder einen kleinen Brand oder ein riesiges Flammeninferno zu löschen.
-- Enthält 3 LEGO City Minifiguren: einen Feuerwehrmann, eine Feuerwehrfrau und einen Burger-Koch.
 - Umfasst zudem ein Burger-Restaurant mit Burger-Schild, einem Schiebefenster für Mitnehm-Service zum Öffnen und eine Mülltonne.
+- Enthält 3 LEGO City Minifiguren: einen Feuerwehrmann, eine Feuerwehrfrau und einen Burger-Koch.
+- Platziere ein oder alle Flammenelemente auf dem Schild des Burger-Restaurants und der Mülltonne, um entweder einen kleinen Brand oder ein riesiges Flammeninferno zu löschen.
+- Enthält ein Feuerwehrspielzeug mit einer Fahrerkabine für Minifiguren, drehbarer Einheit im hinteren Fahrzeugteil, einer ausrichtbaren Wasserpumpe mit „Wasserstrahl“-Funktion (Neuheit ab Januar 2019) und zwei Staufächern sowie ein Motorrad.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNMXFPZ/?tag=tolees0ca-21)

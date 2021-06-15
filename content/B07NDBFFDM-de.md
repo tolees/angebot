@@ -29,12 +29,12 @@ Sie können [LEGO 41166 Disney Princess Frozen Die Eiskönigin 2 ELSA und die Re
 ℹ️:
 
 - Zu den Zubehör-Elementen gehört ein Porträt und eine Staffelei, eine Schatztruhe, eine Krone, ein Teleskop, eine Büste mit Standfuß, ein Vogelhaus, ein Laternenmast, eine Geschenkbox, ein Geschenk, Fisch, Krabben, Brot, Gemüse, ein Besen und ein Schwert.
-- Die Möbel-Elemente könnten einfach zwischen den einzelnen Räumen hin und her bewegt werden.
-- Durch den modularen Aufbau können die 3 Stockwerke auseinander genommen und neu zugeordnet werden, um somit einen einfachen Zugang zu den verschiedenen Teilen des Palasts zu ermöglichen
-- Die Bettdecke kann angehoben werden, sodass eine LEGO Minidoll ins Bett gelegt und mit der Bettdecke zugedeckt werden kann.
-- Mit diesem LEGO | Disney Set aus „Die Eiskönigin 2“ wird die Fantasie der Kinder angeregt, um neue Teile der Geschichte mit den LEGOSteinen zu erschaffen.
-- Enthält einen 3-stöckigen Palast mit Thronsall, Schlafzimmer und Dachboden, Bäckerstand, Fischhändlerstand mit kleinem Anlegesteg und ein Ruderboot mit Rudern.
 - Umfasst 3 LEGO Minidolls: Elsa, Anna und Kristoff sowie 2 LEGO Tierfiguren: eine Katze und zwei Vögel.
 - Dieses LEGO | Disney Set aus „Die Eiskönigin 2“ ist ein ideales Geschenk zum Geburtstag oder zu Weihnachten.
+- Die Bettdecke kann angehoben werden, sodass eine LEGO Minidoll ins Bett gelegt und mit der Bettdecke zugedeckt werden kann.
+- Enthält einen 3-stöckigen Palast mit Thronsall, Schlafzimmer und Dachboden, Bäckerstand, Fischhändlerstand mit kleinem Anlegesteg und ein Ruderboot mit Rudern.
+- Die Möbel-Elemente könnten einfach zwischen den einzelnen Räumen hin und her bewegt werden.
+- Durch den modularen Aufbau können die 3 Stockwerke auseinander genommen und neu zugeordnet werden, um somit einen einfachen Zugang zu den verschiedenen Teilen des Palasts zu ermöglichen
+- Mit diesem LEGO | Disney Set aus „Die Eiskönigin 2“ wird die Fantasie der Kinder angeregt, um neue Teile der Geschichte mit den LEGOSteinen zu erschaffen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NDBFFDM/?tag=tolees0ca-21)
