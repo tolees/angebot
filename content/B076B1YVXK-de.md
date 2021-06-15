@@ -28,10 +28,10 @@ Sie können [Sena - 30K  30K-01 Bluetooth-Kommunikationssystem Motorräder für 
 
 ℹ️:
 
+- Bluetooth Intercom hat eine Reichweite von bis zu 2 km in freier Umgebung
+- Zwei Mesh-Modi: Open Mesh Intercom ermöglicht die Kommunikation mit einer praktisch unbegrenzten Anzahl an Teilnehmern; Group Mesh hingegen ermöglicht die Kommunikation innerhalb einer privaten Gruppe von bis zu 24 Teilnehmern
+- Mesh 2.0 Intercom-Reichweite kann auf bis zu 8km ausgeweitet werden, wenn mindestens 6 Fahrer miteinander verbunden sind
 - Advanced Noise Control, Integriertes FM-Radio mit RDS AF (Alternative Frequenzen des Funkdatensystems), Erweitertes Ausgabeprofil (A2DP)
 - Verbinden Sie Ihr 30K über Bluetooth mit dem Smartphone um zu telefonieren, Musik zu hören und GPS-Ansagen entgegen zu nehmen
-- Zwei Mesh-Modi: Open Mesh Intercom ermöglicht die Kommunikation mit einer praktisch unbegrenzten Anzahl an Teilnehmern; Group Mesh hingegen ermöglicht die Kommunikation innerhalb einer privaten Gruppe von bis zu 24 Teilnehmern
-- Bluetooth Intercom hat eine Reichweite von bis zu 2 km in freier Umgebung
-- Mesh 2.0 Intercom-Reichweite kann auf bis zu 8km ausgeweitet werden, wenn mindestens 6 Fahrer miteinander verbunden sind
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076B1YVXK/?tag=tolees0ca-21)
