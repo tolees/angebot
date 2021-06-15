@@ -28,10 +28,10 @@ Es gibt ein [Hama Steckdosenleiste 6-fach Mehrfachsteckdose aus Aluminium  inkl.
 
 ℹ️:
 
-- Lieferumfang: 1x Steckdosenleiste "Pro-S 60S", 6-fach, Schwarz/Silber, 3 m
-- Sechs Steckdosen im 45° Winkel angeordnet: gedrehte Steckdosenplätze ideal auch für Winkelstecker und Schutzkontaktstecker
-- Steckdosenleiste 6-fach zum Strom sparen auf Knopfdruck: beleuchteter, zweipoliger Ein-/Ausschalter, Verteilersteckdose individuell im Haushalt/Büro einsetzbar (erhöhter Berührungsschutz)
-- Hitzebeständig: die Steckerleise ist aus unempfindlichem Aluminium und mit hitzebeständigen Kunstoffeinsätzen ausgestattet, Max. Anschlussleistung 3.500 W
 - Geeignet zur Wandmontage: Integrierte Aufhängeösen zum Anschrauben des Steckdosenverteilers an die Wand
+- Hitzebeständig: die Steckerleise ist aus unempfindlichem Aluminium und mit hitzebeständigen Kunstoffeinsätzen ausgestattet, Max. Anschlussleistung 3.500 W
+- Sechs Steckdosen im 45° Winkel angeordnet: gedrehte Steckdosenplätze ideal auch für Winkelstecker und Schutzkontaktstecker
+- Lieferumfang: 1x Steckdosenleiste "Pro-S 60S", 6-fach, Schwarz/Silber, 3 m
+- Steckdosenleiste 6-fach zum Strom sparen auf Knopfdruck: beleuchteter, zweipoliger Ein-/Ausschalter, Verteilersteckdose individuell im Haushalt/Büro einsetzbar (erhöhter Berührungsschutz)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00A44OCCY/?tag=tolees0ca-21)

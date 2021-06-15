@@ -28,8 +28,8 @@ Es gibt ein [adidas Damen Runfalcon 2.0 Running Shoe  Cloud White/Cloud White/Sc
 
 ℹ️:
 
-- Optimaler Grip dank Gummiaußensohle
-- Atmungsaktives Obermaterial aus Textil
 - Besonders leicht und bequem
+- Atmungsaktives Obermaterial aus Textil
+- Optimaler Grip dank Gummiaußensohle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08PVRQ8PM/?tag=tolees0ca-21)

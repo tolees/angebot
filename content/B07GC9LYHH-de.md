@@ -28,10 +28,10 @@ Sie können [CAMPER Herren Atom Work Derbys  Schwarz  Black 1   42 EU](https://w
 
 ℹ️:
 
-- Farbe: Schwarz
+- Futter:
 - 75% Polyester 10% Textil (65% Nylon - 35% Polyurethan) 10% Synthetisch (70% Polyurethan - 30% Polyester) 5% Synthetisch
+- Farbe: Schwarz
 - Laufsohle/Eigenschaften: EVA-Laufsohle für geringes Gewicht
 - Obermaterial: Leder (Rindsleder)
-- Futter:
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GC9LYHH/?tag=tolees0ca-21)

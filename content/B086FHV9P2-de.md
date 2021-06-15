@@ -28,10 +28,10 @@ Es gibt ein [OtterBox für Apple iPad Pro 11"  2nd & 1st gen   Hochwertige  robu
 
 ℹ️:
 
-- ABDECKUNG/KLAPPSTÄNDER IM LIEFERUMFANG ENTHALTEN
 - DURCHDACHTER SCHUTZ
-- DISPLAYSCHUTZ
 - DREISCHICHTIGER SCHUTZ
 - PORTABDECKUNGEN
+- DISPLAYSCHUTZ
+- ABDECKUNG/KLAPPSTÄNDER IM LIEFERUMFANG ENTHALTEN
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086FHV9P2/?tag=tolees0ca-21)

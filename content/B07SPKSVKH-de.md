@@ -28,11 +28,11 @@ Sie können [Philips Hue White E27 LED Lampe Doppelpack  dimmbar  warmweißes Li
 
 ℹ️:
 
-- Steuern Sie Ihre Philips Hue Bluetooth Lampen einfach mit Ihrer Stimme: funktioniert mit allen Echo und Google Nest Geräten. (Hue Bridge erforderlich für Echo (1st Gen) und Echo Dot (1st Gen))
-- Einfache Einrichtung per Bluetooth: Hue Lampe eindrehen, Hue Bluetooth App downloaden und bis zu 10 Lampen in einem Raum steuern
-- Erleben Sie warmweißes Licht und verleihen Sie Ihrem Raum durch stufenloses Dimmen das gewünschte Ambiente. Auch für mehrere Benutzer gleichzeitig steuerbar
-- Zertifiziert für Menschen – Schluss mit aufwendiger, komplizierter und stressiger Installation. Keine Geduld erforderlich – es ist ganz einfach
-- Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
 - Kreieren Sie Ihr individuelles Licht für jeden Anlass: Ob für eine Dinnerparty, Ihre täglichen Routinen oder einem entspannten Tagesausklang, mit Philips Hue erschaffen Sie die ideale Atmosphäre
+- Einfache Einrichtung per Bluetooth: Hue Lampe eindrehen, Hue Bluetooth App downloaden und bis zu 10 Lampen in einem Raum steuern
+- Steuern Sie Ihre Philips Hue Bluetooth Lampen einfach mit Ihrer Stimme: funktioniert mit allen Echo und Google Nest Geräten. (Hue Bridge erforderlich für Echo (1st Gen) und Echo Dot (1st Gen))
+- Zertifiziert für Menschen – Schluss mit aufwendiger, komplizierter und stressiger Installation. Keine Geduld erforderlich – es ist ganz einfach
+- Erleben Sie warmweißes Licht und verleihen Sie Ihrem Raum durch stufenloses Dimmen das gewünschte Ambiente. Auch für mehrere Benutzer gleichzeitig steuerbar
+- Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SPKSVKH/?tag=tolees0ca-21)

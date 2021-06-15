@@ -28,9 +28,9 @@ Sie können [Goobay 50030 2x Cinch Stecker auf 2x Cinch Stecker Cinchkabel 5m  s
 
 ℹ️:
 
-- Für viele Geräte CD-, DVD-, Blu-Ray-Player, Verstärker, Receiver, Spielkonsole, Home-Entertainment-Center uvm., die das Audiosignal per Cinchausgang weitergeben
-- 5 Meter geschirmtes Cinch Audiokabel mit der typischen Stereo Rechts / Links (R/L) bzw. Rot / Weiß Kennzeichnung
 - Anschluss 2: 2x Cinchstecker (Audio links/rechts)
+- 5 Meter geschirmtes Cinch Audiokabel mit der typischen Stereo Rechts / Links (R/L) bzw. Rot / Weiß Kennzeichnung
 - Anschluss 1: 2x Cinchstecker (Audio links/rechts)
+- Für viele Geräte CD-, DVD-, Blu-Ray-Player, Verstärker, Receiver, Spielkonsole, Home-Entertainment-Center uvm., die das Audiosignal per Cinchausgang weitergeben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000LB9Z7M/?tag=tolees0ca-21)

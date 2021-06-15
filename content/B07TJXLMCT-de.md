@@ -28,10 +28,10 @@ Sie können [Anon Herren Raider 3 Snowboard Helm  Black  M](https://www.amazon.d
 
 ℹ️:
 
-- Innenbereich und Ohrenpolster aus klassischem Fleece
 - Auto-Adjust Fit System; Kompatibel für Audio-Accessoires
-- Gewicht: 595 g; Zertifizierung: CE 1077B, ASTM 2040, CE 1078:2012 +A1:2012, CPSC
 - Größe: 57-59
+- Gewicht: 595 g; Zertifizierung: CE 1077B, ASTM 2040, CE 1078:2012 +A1:2012, CPSC
+- Innenbereich und Ohrenpolster aus klassischem Fleece
 - Endura-Shell-Konstruktion; Passive Belüftung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TJXLMCT/?tag=tolees0ca-21)

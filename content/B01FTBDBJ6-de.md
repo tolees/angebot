@@ -28,9 +28,9 @@ Es gibt ein [REVLON PROFESSIONAL Equave Hydro Nutritive Conditioner - Sprühkur 
 
 ℹ️:
 
+- Leichte Zwei-Phasen-Formel für Pflege und Schutz
 - Enthält UVA/B-Filter, die das Haar vor sonnenbedingtem Farbverlust schützt
 - Spendet Feuchtigkeit und macht das Haar glänzend
 - Das Haar ist geschmeidig, pflegeleicht und voller Vitalität
-- Leichte Zwei-Phasen-Formel für Pflege und Schutz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01FTBDBJ6/?tag=tolees0ca-21)
