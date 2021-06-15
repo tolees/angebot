@@ -28,10 +28,10 @@ Es gibt ein [Maybelline New York Mascara Volum  Express Turbo Boost Black / Wimp
 
 ℹ️:
 
-- Mehr Volumen, Länge und Schwung dank der patentierten Turbo-Boost-Wimpernbürste
 - Exklusive Wachs-Volumenformel mit verdichtenden Mikro-Luftbläschen sorgt für 5-fache Wimpernfülle
 - Die Wimperntusche zaubert spektakuläres Wimpernvolumen in Turbo-Geschwindigkeit
 - Kein Verklumpen oder Verkleben
+- Mehr Volumen, Länge und Schwung dank der patentierten Turbo-Boost-Wimpernbürste
 - Ultra-leichtes Tragegefühl – ganz ohne Beschweren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0013BE8YY/?tag=tolees0ca-21)

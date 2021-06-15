@@ -28,10 +28,10 @@ Es gibt ein [DSP Memory 32GB Speicherkarte für Sony DSC-H300](https://www.amazo
 
 ℹ️:
 
-- Kompatibel nach Standard SDHC UHS-I und Class 10
-- Geprüfte Class 10 Geschwindigkeit
 - Anbieter mit TOP-Bewertung
+- Geprüfte Class 10 Geschwindigkeit
 - Speicherkarte für Ihre besten Bilder und Videos in Full HD
+- Kompatibel nach Standard SDHC UHS-I und Class 10
 - Kompatibel mit SDHC UHS-I und Class 10
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00U14JMUO/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Fellowes Kohlefilter für Luftreiniger AeraMax DX95  Ersatzfilter  
 
 ℹ️:
 
-- Markenfilter gewährleisten die uneingeschränkte Leistungsfähigkeit Ihres Fellowes AeraMax Luftreinigungsgeräts
 - Aktivkohlefilter entfernen Gerüche, VOCs und groben Schwebstaub aus der Raumluft und sind Teil des 4-stufigen Reinigungssystems der Fellowes AeraMax Luftreiniger
+- Markenfilter gewährleisten die uneingeschränkte Leistungsfähigkeit Ihres Fellowes AeraMax Luftreinigungsgeräts
 - Ersatzfilter für Ihren Fellowes AeraMax DX95 Luftreiniger
-- Fellowes AeraMax Luftfilter eignen sich je nach Modell (DX5/DB5, DX55/DB55, DX95) für Räume zwischen 8 und 42m² bei 3-5 Luftwechseln pro Stunde
 - Set bestehend aus 4 Aktivkohlefiltern ausreichend für 1 ganzes Jahr (ausgehend von einem Filterwechsel alle 3 Monate)
+- Fellowes AeraMax Luftfilter eignen sich je nach Modell (DX5/DB5, DX55/DB55, DX95) für Räume zwischen 8 und 42m² bei 3-5 Luftwechseln pro Stunde
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00D8Y1YIM/?tag=tolees0ca-21)

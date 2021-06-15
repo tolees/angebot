@@ -28,9 +28,9 @@ Es gibt ein [PHILIPS myGarden  Wandleuchte June mit 12W  inklusive Leuchtmittel 
 
 ℹ️:
 
-- Zeitgenössisches Design aus hochwertigem Aluminium
-- Energiesparend inkl. Leuchtmittel
 - Gleichmäßger Lichteffekt zu allen Seiten
+- Energiesparend inkl. Leuchtmittel
+- Zeitgenössisches Design aus hochwertigem Aluminium
 - Mehr Informationen zu der Produktfamilie finden Sie weiter unten auf dieser Seite
 - Mit Bewegungsmelder
 

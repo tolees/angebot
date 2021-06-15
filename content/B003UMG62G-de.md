@@ -28,9 +28,9 @@ Es gibt ein [FANTEC DB-ALU3 Externes Festplattengehäuse  für den Einbau einer 
 
 ℹ️:
 
-- Lieferumfang: DB-ALU3, USB 3.0 Kabel, Externes Netzteil, Standfuß, Garantiekarte
 - Externes 8,89 cm (3,5 Zoll) Festplatten Gehäuse für den Einbau einer 8,89 cm (3,5 Zoll) SATA I/II/III Festplatte. Mit USB 3.0 SUPERSPEED Anschluss. HDD Kapazität ohne Limit.
 - Speichern Sie blitzschnell Daten über den USB 3.0 SUPERSPEED Anschluss mit einer Datentransferrate von bis zu 5 Gbit/s.
+- Lieferumfang: DB-ALU3, USB 3.0 Kabel, Externes Netzteil, Standfuß, Garantiekarte
 - Blaue Status LED Anzeige für Schreib- und Lesezugriff. Hauptschalter rückseitig. Installation via Plug & Play. Kompatibel mit Windows, Mac OS X und höher, Linux.
 - Gehäuse aus Aluminium im gebürsteten Design mit hochglanz Front für den idealen Schutz der Daten bei mobilem Einsatz und passive Kühlung der Festplatte.
 

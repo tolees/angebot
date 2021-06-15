@@ -28,10 +28,10 @@ Es gibt ein [RITZENHOFF Red Rotweinglas von Nicole Winter  aus Kristallglas  580
 
 ℹ️:
 
-- Verpackt in einer hochwertig veredelten Geschenkverpackung
-- Design 2014, Nicole Winter, 3000012
 - Inhalt 580 ml, Höhe 24 cm; Durchmesser 9,4 cm
-- Design Rotweinglas von Ritzenhoff mit Leporello, Made in Germany
+- Design 2014, Nicole Winter, 3000012
 - Ritzenhoff Markenqualität mit außergewöhnlichen Motiven internationaler und namenhafter Designer
+- Design Rotweinglas von Ritzenhoff mit Leporello, Made in Germany
+- Verpackt in einer hochwertig veredelten Geschenkverpackung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00IKDQKWG/?tag=tolees0ca-21)
