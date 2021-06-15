@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA MEN Sensitive After Shave Balsam   mit 30.78 % Rabatt'
-date: 2021-06-14 09:34:33
+date: 2021-06-15 13:30:17
 image: 'https://m.media-amazon.com/images/I/41zOl94IhdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
