@@ -28,10 +28,10 @@ Es gibt ein [SUPER NOVA Unisex – Erwachsene M99 Pro Fahrradlicht  schwarz  11
 
 ℹ️:
 
+- Der M99 PRO brilliert mit seinem 1.600 Lumen starken automotiven Fernlicht und ebenfalls ECE zugelassenen Abblendlicht.
 - Auch ohne Softwareanbindung steuern die integrierten Sensoren den Scheinwerfer intelligent, so dass er an allen gängigen E-Bike Systemen funktioniert.
 - Die Elektronik kann unter anderem mit modernen E-Bikes kommunizieren.
 - Das ebenfalls ECE konforme, automotive Tagfahrlicht sorgt für gleichberechtigte Sicherheit im Straßenverkehr.
 - Leistung: 16 W - 30 W | L x B x H: 67 x 87 x 57.5 mm | Gewicht: 220 g
-- Der M99 PRO brilliert mit seinem 1.600 Lumen starken automotiven Fernlicht und ebenfalls ECE zugelassenen Abblendlicht.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06WVLXNGH/?tag=tolees0ca-21)

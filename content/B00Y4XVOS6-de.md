@@ -28,7 +28,7 @@ Es gibt ein [Lacoste Herren Polo T-shirt Ph4012  Blau  Marine   Small  Herstelle
 
 ℹ️:
 
-- Vollzwirn-Baumwoll-Petit-Piqué
 - Rippbündchen an Kragen und Ärmeln
+- Vollzwirn-Baumwoll-Petit-Piqué
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00Y4XVOS6/?tag=tolees0ca-21)
