@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.41 % rabat auf devolo dLAN 1200+ WiFi ac Powerline  120'
-date: 2021-06-15 09:21:13
+date: 2021-06-16 15:19:12
 image: 'https://m.media-amazon.com/images/I/31D606iQ-eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21'
 descuento: '18.41'
-average: '101.896071428571'
+average: '101.912252964426'
 ---
 
 Es gibt ein [devolo dLAN 1200+ WiFi ac Powerline  1200 Mbit/s WLAN ac  2 4 und 5 GHz gleichzeitig  2x LAN Ports  1x Powerlan Adapter ideal für Online Gaming und HD-Streaming  WLAN Booster  WiFi Move  weiß](https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21) mit aktuellem Preis 105.99 EUR (original: 129.9 EUR) 18.41 % Rabatt hier:
