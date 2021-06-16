@@ -28,10 +28,10 @@ Es gibt ein [LEGO 41925 DOTS Geheimbox mit Schlüsselhalter  Schreibtischdeko  B
 
 ℹ️:
 
+- Das Kreativset verfügt über eine buchförmige Box mit Schloss und Aufbewahrungsraum, eine kleine Box mit Bilderrahmen, 2 Schlüsseln sowie ein Ablagefach
+- Die zum Set gehörenden Steinchen eignen sich hervorragend für einzigartige Designs. Die Box bietet eine offene, spielerische Inspiration zum kreiern
 - Weitere künstlerische Möglichkeiten finden Sie in anderen LEGO DOTS Sets: Extra DOTS Serie 1 (41908), Serie 2 (41916) und Serie 3 (41921)
 - Fördern Sie die Kreativität Ihrer Kinder durch LEGO DOTS Sets - anpassbaren Schmuck oder Raumdekor und bringen Sie den Jugendlichen die Freude am LEGO-Spiel
-- Die zum Set gehörenden Steinchen eignen sich hervorragend für einzigartige Designs. Die Box bietet eine offene, spielerische Inspiration zum kreiern
-- Das Kreativset verfügt über eine buchförmige Box mit Schloss und Aufbewahrungsraum, eine kleine Box mit Bilderrahmen, 2 Schlüsseln sowie ein Ablagefach
 - Die Box lässt sich leicht zusammensetzen und abschließen, um kleine Geheimnisse und Schätze sicher aufzubewahren. Das Set kann dann als Schreibtischdeko benutzt werden
 - Das Bastelset für Kinder ist ein ideales Geburtstags- oder Weihnachtseschenk für junge Designer die gerne basteln, und sich durch Design und Kreation ausdrücken möchten
 
