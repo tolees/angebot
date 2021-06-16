@@ -28,9 +28,9 @@ Sie können [Philips NanoProtect-HEPA-Filter für Luftreiniger AC2882/10 und AC2
 
 ℹ️:
 
-- Hohe Filtrationseffizienz, da die Luft gleichmäßig durch den Filter geführt wird
-- Lange Lebensdauer ca. 2 Jahre, je nach Nutzungsintensität
-- NanoProtect-HEPA-Filter, passend für Luftreiniger AC2882/10, AC2887/10
 - Filtert ultrafeine Partikel bis zu 0,02μm aus der Luft, einschließlich Bakterien, Staub, Allergenen und einigen Viren.
+- Hohe Filtrationseffizienz, da die Luft gleichmäßig durch den Filter geführt wird
+- NanoProtect-HEPA-Filter, passend für Luftreiniger AC2882/10, AC2887/10
+- Lange Lebensdauer ca. 2 Jahre, je nach Nutzungsintensität
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LYEJ3YL/?tag=tolees0ca-21)

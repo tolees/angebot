@@ -28,10 +28,10 @@ Es gibt ein [Geox Herren U Wells Sneaker  Blau 01  45 EU](https://www.amazon.de/
 
 ℹ️:
 
-- He_Schuhe_Schnuerschuhe_T
-- Mesh
 - Leder und Textil
 - material: Obermaterial: Leder und Textil , Innenmaterial: Mesh , Sohle: Gummi
+- Mesh
+- He_Schuhe_Schnuerschuhe_T
 - closing: keine Angabe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076X64PJX/?tag=tolees0ca-21)
