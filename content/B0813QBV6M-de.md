@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '31.00 % rabat auf LEGO 21054 Architecture Das Weiße Haus B'
-date: 2021-06-14 21:39:35
-image: 'https://m.media-amazon.com/images/I/51GQAij0NFS._SL500_._SL400_.jpg'
+date: 2021-06-16 21:39:26
+image: 'https://m.media-amazon.com/images/I/51rnlk6oAWS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21'
 descuento: '31.00'
-average: '72.8259477124183'
+average: '72.8176086956522'
 ---
 
 Es gibt ein [LEGO 21054 Architecture Das Weiße Haus Bauset für Erwachsene  Geschenkidee für Sammler](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21) mit aktuellem Preis 68.99 EUR (original: 99.99 EUR) 31.00 % Rabatt hier:
 
-[![LEGO 21054 Architecture Das Weiße Haus B](https://m.media-amazon.com/images/I/51GQAij0NFS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21)
+[![LEGO 21054 Architecture Das Weiße Haus B](https://m.media-amazon.com/images/I/51rnlk6oAWS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0813QBV6M/?tag=tolees0ca-21)
 
 ℹ️:
 
