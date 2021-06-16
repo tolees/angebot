@@ -28,10 +28,10 @@ Es gibt ein [Lego Friends - Lego 41368 Friends Andreas Talentshow  Vom Herstelle
 
 ℹ️:
 
-- Vom Hersteller empfohlenes Alter: 7+
+- Zum Zubehör gehören ein Mikrofon, ein Zaubertrick-Set, eine Kamera, eine Haarbürste, ein Lippenstift, eine Tasse, ein Mobiltelefon-Ständer und ein Wechsel-Stoffrock für Andrea
 - Mit einer Hauptbühne mit drehbaren Lautsprechern, 3 einzelnen auswechselbaren Mini-Sets, 2 Backstage-Bereichen, einem Jurorentisch mit Bewertungsknopf und Fähnchenfunktionen, einem Ständer zum Befestigen eines Mobiltelefons, Feuerwerksfunktionen und einem Zauberkasten
+- Vom Hersteller empfohlenes Alter: 7+
 - Anzahl der Teile: 492
 - Andreas Talentshow
-- Zum Zubehör gehören ein Mikrofon, ein Zaubertrick-Set, eine Kamera, eine Haarbürste, ein Lippenstift, eine Tasse, ein Mobiltelefon-Ständer und ein Wechsel-Stoffrock für Andrea
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNT8XCD/?tag=tolees0ca-21)
