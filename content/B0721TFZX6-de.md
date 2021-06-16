@@ -29,9 +29,9 @@ Es gibt ein [Berliner Bags Federmappe Federmäppchen Stifte Mäppchen Etui Feder
 ℹ️:
 
 - 💓 LANGLEBIGES PRODUKT: Es handelt sich um ein Lederprodukt mit einem qualitativ hochwertigen Reißverschluss und gutem Futter. Beste Materialien sorgen dafür, dass Ihnen die Federmappe viele Jahre lang dienen wird.
-- ❤️ TOP REISSVERSCHLUSS – Bei Berliner Bags werden ausschließlich solide YKK-Metall-Reißverschlüsse höchster Qualität verwendet, die sehr einfach und schnell geöffnet und geschlossen werden können. Das heißt, dass Sie die Federmappe lange Zeit sicher und bequem nutzen können.
-- ❤️ HANDGEFERTIGT: Bei Berliner Bags werden alle Taschen mit großer Liebe und besonderer Sorgfalt hergestellt und von Hand genäht.
-- ❤️ ABMESSUNGEN & MATERIAL. Federmappe Größe: 20x12x1 cm (L x B x H), GEWICHT: 0,1 kg Das Innenleben besteht aus Baumwolle. Bei Berliner Bags werden ausschließlich solide YKK-Reißverschlüsse verarbeitet.
 - ❤️ KAUF OHNE RISIKO: Ihre Zufriedenheit liegt uns bei Berliner Bags besonders am Herzen, daher garantieren wir eine schnelle Lieferung, problemlose Kommunikation und einwandfreie Qualität. Als Beweis für unsere Qualität und Leidenschaft bieten wir Ihnen 100 Tage Rückgaberecht & 1 Jahr Garantie* (*Garantiebestimmungen und weitere Informationen zur Produktgarantie finden Sie unter berliner-bags.com/1year/)
+- ❤️ HANDGEFERTIGT: Bei Berliner Bags werden alle Taschen mit großer Liebe und besonderer Sorgfalt hergestellt und von Hand genäht.
+- ❤️ TOP REISSVERSCHLUSS – Bei Berliner Bags werden ausschließlich solide YKK-Metall-Reißverschlüsse höchster Qualität verwendet, die sehr einfach und schnell geöffnet und geschlossen werden können. Das heißt, dass Sie die Federmappe lange Zeit sicher und bequem nutzen können.
+- ❤️ ABMESSUNGEN & MATERIAL. Federmappe Größe: 20x12x1 cm (L x B x H), GEWICHT: 0,1 kg Das Innenleben besteht aus Baumwolle. Bei Berliner Bags werden ausschließlich solide YKK-Reißverschlüsse verarbeitet.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0721TFZX6/?tag=tolees0ca-21)
