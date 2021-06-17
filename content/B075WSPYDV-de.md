@@ -28,10 +28,10 @@ Sie können [Solar LED Lampion Lichterkette  ALED LIGHT 30 Lampion Wasserdicht L
 
 ℹ️:
 
-- ❤ Solar Laternen - Diese LED Lichterkette Lampions Lichter sind mit SOLAR Panel angetrieben. Es könnte automatisch aufgeladen werden, setzen Sie frei vom Aufladen mit Elektrizität. Hohe Leistung Umwandlungsrate machen die Lichter länger arbeiten.
-- ❤ Wasserdicht Lichterkette Lampions - Diese Outdoor-dekorativen Laternen sind aus Plane, die ein 100% wasserdichtes, Tuch-Material ist! Das Solarpanel ist IP65 wasserdicht, perfekt für Ihre Gartenparty, Outdoor-Feier oder Dekoration.
 - ❤ Genug Länge und Led Laterne - Diese wasserdichten Laternen Lichterketten verfügen über 30 LED-Glühlampen. Es gibt 15 cm Abstand zwischen zwei Laternen. Lange Schnur und 30 LED machen die Dekoration leichter und heller.
-- ❤ Einfache Installation - Diese Globus Laternen Lichter sind zusammenklappbar, müssen Sie nur die Stoff Laternen zu erweitern und legen Sie den Halter und Lichter. Abnehmbare Bodenstange helfen Ihnen, Solarpanel und Ihre DIY Dekoration zu reparieren.
 - ❤ Zwei Optionale Modi - Diese Solarlaternen Lichter sind mit 2 verschiedenen Modus, Steady-Mode und Blitz-Modus konzipiert, bringen Sie mehr reiche Erfahrung und Glück.
+- ❤ Wasserdicht Lichterkette Lampions - Diese Outdoor-dekorativen Laternen sind aus Plane, die ein 100% wasserdichtes, Tuch-Material ist! Das Solarpanel ist IP65 wasserdicht, perfekt für Ihre Gartenparty, Outdoor-Feier oder Dekoration.
+- ❤ Einfache Installation - Diese Globus Laternen Lichter sind zusammenklappbar, müssen Sie nur die Stoff Laternen zu erweitern und legen Sie den Halter und Lichter. Abnehmbare Bodenstange helfen Ihnen, Solarpanel und Ihre DIY Dekoration zu reparieren.
+- ❤ Solar Laternen - Diese LED Lichterkette Lampions Lichter sind mit SOLAR Panel angetrieben. Es könnte automatisch aufgeladen werden, setzen Sie frei vom Aufladen mit Elektrizität. Hohe Leistung Umwandlungsrate machen die Lichter länger arbeiten.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075WSPYDV/?tag=tolees0ca-21)
