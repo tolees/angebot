@@ -28,10 +28,10 @@ Es gibt ein [Gardena Grundausstattung mit Anschlussteilen für 13 mm  1/2 Zoll -
 
 ℹ️:
 
-- Werkzeuglose Montage: Der Schlauch kann sofort in Gebrauch genommen werden
-- Lieferumfang beinhaltet: 1x GARDENA Reinigungsspritze, 1x Wasserstop, 1x Schlauchverbinder, 1x Hahnverbinder, 1x Adapter, Made in Germany
-- Wasserstrahl regulierbar: Er ist stufenlos einstellbar, der Wasserdurchfluss durch Drehung absperrbar
 - Power Grip: Dank den Griffmulden an Schlauchverbinder und Wasserstop sitzt jeder Handgriff sicher
+- Werkzeuglose Montage: Der Schlauch kann sofort in Gebrauch genommen werden
 - Praktische Handhabung: Der Wasserstop am Schlauchende ermöglicht einen Gerätewechsel ohne Abdrehen des Wassers
+- Wasserstrahl regulierbar: Er ist stufenlos einstellbar, der Wasserdurchfluss durch Drehung absperrbar
+- Lieferumfang beinhaltet: 1x GARDENA Reinigungsspritze, 1x Wasserstop, 1x Schlauchverbinder, 1x Hahnverbinder, 1x Adapter, Made in Germany
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00PNUCE60/?tag=tolees0ca-21)

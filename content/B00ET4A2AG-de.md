@@ -28,10 +28,10 @@ Es gibt ein [Nipponart  AV Visionen  - Noir - Gesamtausgabe - [DVD]](https://www
 
 ℹ️:
 
-- Noir
 - komplette Serie
 - Noir Anime
 - Box
 - Noir  komplett
+- Noir
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ET4A2AG/?tag=tolees0ca-21)

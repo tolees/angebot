@@ -28,10 +28,10 @@ Sie können [ELBA 100421089 Hängeregistratur-Box tric system Standard 6 Stück 
 
 ℹ️:
 
-- Größe: 18,5 x 33,3 x 30,8 cm (BxTxH)
-- Perfekt zur Archivierung von Systemregistraturen mit Reitern
-- Flachliegend im Transportkarton verpackt, Einfacher Aufbau
-- Aus extrem stabiler, säurefreier Wellpappe
 - Mit Verschlusslasche & Aufdruck für Beschriftungen
+- Größe: 18,5 x 33,3 x 30,8 cm (BxTxH)
+- Aus extrem stabiler, säurefreier Wellpappe
+- Flachliegend im Transportkarton verpackt, Einfacher Aufbau
+- Perfekt zur Archivierung von Systemregistraturen mit Reitern
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00E0HW9KS/?tag=tolees0ca-21)
