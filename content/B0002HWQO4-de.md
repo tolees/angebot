@@ -28,10 +28,10 @@ Es gibt ein [Ravensburger 20764 - Dumm gelaufen! Kartenspiel für 2-6 Spieler  f
 
 ℹ️:
 
-- Das Kartenspiel für 2-6 Spieler ist kurzweilig, macht jede Menge Spaß und nimmt einen unvorhersehbaren Lauf. Es ist durch das praktische Reiseformat super zum Mitnehmen geeignet
-- Auch der fiktive Mitspieler Mac und die Aktionskarten mischen mit und bringen Abwechslung in die Runde. Gefragt sind gute Nerven und eine große Portion Glück
-- Dumm gelaufen! ist ideal für jeden Spieleabend mit der Familie oder Freunden und auch ein tolles Geschenk für Kinder und Erwachsene ab 10 Jahren zu Anlässen wie Weinachten, Geburtstag oder Ostern
 - Das Kartenspiel Dumm gelaufen! folgt erbarmungslos Murphys Gesetz: Was schiefgehen kann, geht schief! Ziel ist es, möglichst schnell die Aufträge auf den Murphy-Spielkarten zu erfüllen
+- Das Kartenspiel für 2-6 Spieler ist kurzweilig, macht jede Menge Spaß und nimmt einen unvorhersehbaren Lauf. Es ist durch das praktische Reiseformat super zum Mitnehmen geeignet
+- Dumm gelaufen! ist ideal für jeden Spieleabend mit der Familie oder Freunden und auch ein tolles Geschenk für Kinder und Erwachsene ab 10 Jahren zu Anlässen wie Weinachten, Geburtstag oder Ostern
+- Auch der fiktive Mitspieler Mac und die Aktionskarten mischen mit und bringen Abwechslung in die Runde. Gefragt sind gute Nerven und eine große Portion Glück
 - Mal sind nur grüne Karten gefragt, mal nur solche mit dem Wert 5. Doch wer glaubt, das sei einfach und seine Aufgabe so gut wie gelöst, wird eines Besseren belehrt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0002HWQO4/?tag=tolees0ca-21)

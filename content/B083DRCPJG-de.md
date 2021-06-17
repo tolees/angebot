@@ -28,11 +28,11 @@ Sie können [BOSON Corona Schnelltest Selbsttest  5 Stück](https://www.amazon.d
 
 ℹ️:
 
-- Geprüfte Qualität durch das Paul-Ehrlich-Institut und das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)
-- Weitere Informationen zu Verfügbarkeit, Zuverlässigkeit und mehr finden Sie auf unserer FAQ-Seite zu Corona-Selbsttests
 - Antigentest auf SARS-CoV-2 zur Eigenanwendung durch Laien, Sonderzulassung nach §11 Absatz 1 Medizinproduktegesetz (MPG)
 - Bitte beachten Sie, dass ein negatives Ergebnis eine Infektion nie vollständig ausschließt, auch dann nicht, wenn der Test an einer Person ohne Krankheitssymptome durchgeführt wird
-- Amazon verkauft nur vom BfArM zugelassene Selbsttests
 - Einfache Anwendug durch einen Abstrich in der vorderen Nase
+- Amazon verkauft nur vom BfArM zugelassene Selbsttests
+- Geprüfte Qualität durch das Paul-Ehrlich-Institut und das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)
+- Weitere Informationen zu Verfügbarkeit, Zuverlässigkeit und mehr finden Sie auf unserer FAQ-Seite zu Corona-Selbsttests
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083DRCPJG/?tag=tolees0ca-21)

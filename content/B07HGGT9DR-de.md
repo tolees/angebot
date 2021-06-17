@@ -28,12 +28,12 @@ Sie können [Tepro Grillwagen Toronto Click Holzkohlegrill  Anthrazit/Edelstahl]
 
 ℹ️:
 
-- Durch die Räder lässt er sich leicht bewegen und gut ausrichten. Dank der robusten Standbeinen steht der Wagen sicher an seinem Platz.
-- Der größte Vorteil des Holzkohlegrillwagens ist die zusätzliche Ablagefläche an der Seite um z. B. Grillgut sicher abzulegen.
-- Im Gegensatz zu einem stationären Gartengrill, hat unser Holzkohlegrill 2 Räder. Dadurch bietet er mehr Mobilität und kann sehr leicht an jeden beliebigen Ort gefahren werden.
-- Größe der Grillfläche ist ca. 56 x 41,5 cm; Warmhaltefläche beträgt ca. 53,9 x 24,1 cm
 - Die Besonderheit der Grillfläche ist der herausnehmbare Grillrosteinsatz, welcher den Einsatz verschiedener Elemente ermöglicht.
 - Emaillierter Grillrost, Warmhalterost sowie Holzkohlenwanne, die ganz leicht mittels Kurbel höhenverstellbar ist.
+- Durch die Räder lässt er sich leicht bewegen und gut ausrichten. Dank der robusten Standbeinen steht der Wagen sicher an seinem Platz.
+- Größe der Grillfläche ist ca. 56 x 41,5 cm; Warmhaltefläche beträgt ca. 53,9 x 24,1 cm
+- Im Gegensatz zu einem stationären Gartengrill, hat unser Holzkohlegrill 2 Räder. Dadurch bietet er mehr Mobilität und kann sehr leicht an jeden beliebigen Ort gefahren werden.
 - Innovatives Design ermöglicht einen einfachen und schnellen Aufbau in weniger als 30 Minuten
+- Der größte Vorteil des Holzkohlegrillwagens ist die zusätzliche Ablagefläche an der Seite um z. B. Grillgut sicher abzulegen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HGGT9DR/?tag=tolees0ca-21)
