@@ -28,10 +28,10 @@ Es gibt ein [Gardena combisystem-Kunststoff-Verstellbesen: Laubbesen mit verstel
 
 ℹ️:
 
+- Bedarfsorientierte Anpassung: Der Abstand der Kunststoffzinken lässt sich mühelos verstellen, die Arbeitsbreite kann somit für ein feines oder grobes Kehren von 35 bis 52 cm eingestellt werden
 - Wackelfreies Stecksystem: Das Gartengerät passt zu allen Gardena combisystem-Stielen und lässt sich ganz leicht aufstecken und festschrauben - Die bewährte Technik garantiert ein wackelfreies Arbeiten
 - Perfekt kombinierbar: Der Rechen-Aufsatz passt zu allen Gardena combisystem-Stielen, egal ob aus Holz oder Aluminium, zusätzlich sind Spezial-Stiele für rückenschonendes Arbeiten erhältlich
 - Lieferumfang beinhaltet: 1x Gardena combisystem-Rasenrechen 73 cm (Stiel nicht im Lieferumfang enthalten, separat erhältlich)
-- Bedarfsorientierte Anpassung: Der Abstand der Kunststoffzinken lässt sich mühelos verstellen, die Arbeitsbreite kann somit für ein feines oder grobes Kehren von 35 bis 52 cm eingestellt werden
 - Optimaler Korrosionsschutz: Der Rasenrechen besteht aus Qualitätsstahl und ist zusätzlich mit Duroplast beschichtet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B018E0KW8C/?tag=tolees0ca-21)
