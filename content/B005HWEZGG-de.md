@@ -28,11 +28,11 @@ Sie können [Sennheiser PC 8 USB Headset](https://www.amazon.de/dp/B005HWEZGG/?t
 
 ℹ️:
 
-- Störungsfreie Klarheit dank des geräuschunterdrückenden Mikrofons; Ihre Stimme ist mühelos zu verstehen, ohne dass Sie laut werden müssen
-- Übertragungsbereich für Kopfhörer: 42-17.000 Hz, Impedanz: 32 Ω. Kabellänge: 2 m.
-- USB-Plug&Play; einfach am USB-Port Ihres PCs oder Macs anschließen und via Internet telefonieren
-- Stereosound; Sennheiser Qualität, perfekt für viele Anwendungsbereiche, wie z. B. Musik und Gaming
-- Lieferumfang: Sennheiser PC 8 USB Headset
 - Leicht und komfortabel, mit leichtem Kopfbügel; da vergessen Sie schnell, dass Sie ein Headset tragen; Bequeme Lautstärkeeinstellung, die in-Line-Lautstärkeregelung/Stummschaltung erlaubt Ihnen schnelle Einstellungsänderungen, ohne in Ihre Computer-Einstellungen gehen zu müssen
+- USB-Plug&Play; einfach am USB-Port Ihres PCs oder Macs anschließen und via Internet telefonieren
+- Übertragungsbereich für Kopfhörer: 42-17.000 Hz, Impedanz: 32 Ω. Kabellänge: 2 m.
+- Störungsfreie Klarheit dank des geräuschunterdrückenden Mikrofons; Ihre Stimme ist mühelos zu verstehen, ohne dass Sie laut werden müssen
+- Lieferumfang: Sennheiser PC 8 USB Headset
+- Stereosound; Sennheiser Qualität, perfekt für viele Anwendungsbereiche, wie z. B. Musik und Gaming
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005HWEZGG/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [STAEDTLER FIMO 8101 0 8101-0 Modelliermasse Fimo air basic  1000 g 
 
 ℹ️:
 
-- Lieferumfang: 1000Gramm Modelliermasse, weiß
-- Min. 95% natürliche Rohstoffe
-- Tonähnlich, sofort modellierfähig, formstabil, geruchsneutral, lufthärtend - kein Brennvorgang notwendig
 - Ausgehärtete Modelle können nachbearbeitet werden (Feilen,Schleifen, Bohren, Bemalen,Lackieren)
+- Tonähnlich, sofort modellierfähig, formstabil, geruchsneutral, lufthärtend - kein Brennvorgang notwendig
 - Angenehme Haptik, klebt nicht, hohe Qualität Made in Germany
+- Min. 95% natürliche Rohstoffe
+- Lieferumfang: 1000Gramm Modelliermasse, weiß
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KSJCJW/?tag=tolees0ca-21)
