@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '28.01 % rabat auf LEGO 10920 DUPLO Princess Frozen II Elsa'
-date: 2021-06-03 08:53:03
-image: 'https://m.media-amazon.com/images/I/51P84hLVmcL._SL500_._SL400_.jpg'
+title: '26.56 % rabat auf LEGO 10920 DUPLO Princess Frozen II Elsa'
+date: 2021-06-17 16:00:41
+image: 'https://m.media-amazon.com/images/I/515SOuUIJvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07W7TM7S8-de LEGO 10920 DUPLO Princess Frozen II Elsas und Olafs EIS-...'
 sku: 'B07W7TM7S8-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 14.39 EUR
+actualPrice: 14.68 EUR
 currency: EUR
-price: 14.39
+price: 14.68
 comparePrice: 19.99 EUR
 prodname: 'LEGO 10920 DUPLO Princess Frozen II Elsas und Olafs EIS-Café Spielset mit großen Steinen  Cupcakes und Einer Teekanne  für Kleinkinder ab 2 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TM7S8/?tag=tolees0ca-21'
-descuento: '28.01'
-average: '15.5894736842103'
+descuento: '26.56'
+average: '15.5737931034481'
 ---
 
-Es gibt ein [LEGO 10920 DUPLO Princess Frozen II Elsas und Olafs EIS-Café Spielset mit großen Steinen  Cupcakes und Einer Teekanne  für Kleinkinder ab 2 Jahren](https://www.amazon.de/dp/B07W7TM7S8/?tag=tolees0ca-21) mit aktuellem Preis 14.39 EUR (original: 19.99 EUR) 28.01 % Rabatt hier:
+Es gibt ein [LEGO 10920 DUPLO Princess Frozen II Elsas und Olafs EIS-Café Spielset mit großen Steinen  Cupcakes und Einer Teekanne  für Kleinkinder ab 2 Jahren](https://www.amazon.de/dp/B07W7TM7S8/?tag=tolees0ca-21) mit aktuellem Preis 14.68 EUR (original: 19.99 EUR) 26.56 % Rabatt hier:
 
-[![LEGO 10920 DUPLO Princess Frozen II Elsa](https://m.media-amazon.com/images/I/51P84hLVmcL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W7TM7S8/?tag=tolees0ca-21)
+[![LEGO 10920 DUPLO Princess Frozen II Elsa](https://m.media-amazon.com/images/I/515SOuUIJvS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W7TM7S8/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Disneys Elsa und ihr bezaubernder Schneemann-Freund Olaf aus den Eiskönigin-Filmen bauen ein Eishaus, in dem eine Teeparty stattfinden soll
-- Beinhaltet eine Elsa- und eine Schneemann-Spielfigur. Zum Zubehör gehören eine Teekanne, heiße Schokolade und ein Kuchen auf dem Tisch sowie 2 köstliche Cupcakes für eine Party
 - Alle Steine und Teile erfüllen höchste Sicherheits- und Qualitätsstandards, sie eignen sich ideal für kleine Finger zum Aufnehmen, Platzieren und Auseinanderziehen
 - Während sie endlose Abenteuer spielen, bauen Vorschulkinder auch ihre kreativen, feinmotorischen, visuellen und emotionalen Fähigkeiten auf
 - Ein großartiges Starter Set für angehende Baumeister und kleine Fans von Disney Prinzessin Elsa mit sicheren, kinderfreundlichen und einfach zu bauenden großen Elementen
+- Disneys Elsa und ihr bezaubernder Schneemann-Freund Olaf aus den Eiskönigin-Filmen bauen ein Eishaus, in dem eine Teeparty stattfinden soll
+- Beinhaltet eine Elsa- und eine Schneemann-Spielfigur. Zum Zubehör gehören eine Teekanne, heiße Schokolade und ein Kuchen auf dem Tisch sowie 2 köstliche Cupcakes für eine Party
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W7TM7S8/?tag=tolees0ca-21)
