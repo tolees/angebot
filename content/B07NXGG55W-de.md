@@ -28,10 +28,10 @@ Sie können [Amazon Basics AA-Batterien  wiederaufladbar  2000 mAh  24 Stück  v
 
 ℹ️:
 
-- Vorgeladen und sofort einsatzbereit
-- Lieferung in zertifizierter frustfreier Verpackung
-- Kombiniert die besten Eigenschaften von AA-Alkaline-Batterien (sofort einsatzbereit) und Akkus (Wiederverwendbarkeit)
 - 24er-Pack wiederaufladbare AA-Batterien mit 2000 mAh für Digitalkameras, Fernbedienungen und mehr
+- Lieferung in zertifizierter frustfreier Verpackung
+- Vorgeladen und sofort einsatzbereit
+- Kombiniert die besten Eigenschaften von AA-Alkaline-Batterien (sofort einsatzbereit) und Akkus (Wiederverwendbarkeit)
 - Extrem niedrige Selbstentladungsrate, sodass 80 % der Kapazität erhalten bleiben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NXGG55W/?tag=tolees0ca-21)
