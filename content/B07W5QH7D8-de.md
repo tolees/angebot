@@ -28,11 +28,11 @@ Es gibt ein [LEGO 41251 Trolls Poppys Wohnblüte](https://www.amazon.de/dp/B07W5
 
 ℹ️:
 
-- Anzahl der Teile: 103
-- Poppys Wohnblüte
-- Lässt sich mit dem LEGO TROLLS WORLD TOUR Spielset „Party in Pop City“ (41255) kombinieren.
-- Bewegliche Funktionen, Zubehör und vieles mehr ermöglichen ein fantasievolles Spielerlebnis.
-- Vom Hersteller nicht mehr verkauft
 - Vom Hersteller empfohlenes Alter: 4+
+- Vom Hersteller nicht mehr verkauft
+- Lässt sich mit dem LEGO TROLLS WORLD TOUR Spielset „Party in Pop City“ (41255) kombinieren.
+- Poppys Wohnblüte
+- Bewegliche Funktionen, Zubehör und vieles mehr ermöglichen ein fantasievolles Spielerlebnis.
+- Anzahl der Teile: 103
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W5QH7D8/?tag=tolees0ca-21)
