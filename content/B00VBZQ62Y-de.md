@@ -29,8 +29,8 @@ Es gibt ein [Gollnest & Kiesel GmbH & - Goki 58530 - Zahnradspiel](https://www.a
 ℹ️:
 
 - Goki Zahnradspiel
-- 8-teilig (1 Set)
 - Holz
 - 0,5 x 20,5 cm
+- 8-teilig (1 Set)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00VBZQ62Y/?tag=tolees0ca-21)

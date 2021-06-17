@@ -28,9 +28,9 @@ Sie können [Gardena Comfort Reinigungsspritze: Wasserspritze zum Reinigen und S
 
 ℹ️:
 
-- Praktische Handhabung: Für einen konstanten Wasserdurchfluss kann der Impulsauslöser arretiert werden
-- Benutzerfreundlich: Der Wasserstrahl ist stufenlos einstellbar, der Wasserdurchfluss abstellbar
 - Langlebige Qualität: Durch Weichkunststoffring am Kopf zum Schutz vor Beschädigung
 - Ergonomisches Design: Durch die Weichkunststoffelemente ist die Spritze besonders griffig
+- Praktische Handhabung: Für einen konstanten Wasserdurchfluss kann der Impulsauslöser arretiert werden
+- Benutzerfreundlich: Der Wasserstrahl ist stufenlos einstellbar, der Wasserdurchfluss abstellbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MFGL1VE/?tag=tolees0ca-21)

@@ -28,12 +28,12 @@ Es gibt ein [Thrustmaster TX Servo Base - 900° Force Feedback Basis mit Einem b
 
 ℹ️:
 
-- Funktioniert mit Xbox Series X
 - Extrem glattes und nahtloses Force Feedback; hochansprechende und realistische Force-Effekte ohne Verzögerung. Neuer reibungsfreier und optimierter Doppelgut-Mechanismus.
-- 900 Grad Force Feedback Rennsimulator-Basis der nächsten Generation für Xbox One und PC (enthält kein Lenkrad oder Pedalset). Rotationswinkel bis zu 900 Grad anpassbar.
+- Funktioniert mit Xbox Series X
 - uer optimierter und reibungsfreier Doppelgurt-Mechanismus Glatte und nahtlose Action – extrem leises System; H.E.A.R.T HallEffect AccuRate Technology mit kontaktlosem Magnetsensor; Thrustmaster Schnellkupplungs-System: Ermöglicht das schnelle Wechseln der Rennlenkrâder und ist das zentrale Element des Eco-Produktsystems; Eco-System-Ready: Das TX Racing Wheel Servo Base ist vollständig mit dem Eco-Produktsystem kompatibel. Spieler können aus einer vielfältigen Auswahl von Add-ons ihr ureigenes Rennlenkrad zusammenstellen
+- Mit zentralem Befestigungssystem aus Metall. Kompatibel mit allen Schreibtischen und Tischen. Zusätzliche Schraubgewinde für den Einbau in alle Cockpits.
 - Interner Speicher und aufrüstbare Firmware (via PC-Kompatibilität), Xbox Guide Button.
 - Kompatibel mit dem Eco-Produktsystem von Thrustmaster (Lenkräder, Pedalsets und Gangschaltungen sind separat erhältlich).
-- Mit zentralem Befestigungssystem aus Metall. Kompatibel mit allen Schreibtischen und Tischen. Zusätzliche Schraubgewinde für den Einbau in alle Cockpits.
+- 900 Grad Force Feedback Rennsimulator-Basis der nächsten Generation für Xbox One und PC (enthält kein Lenkrad oder Pedalset). Rotationswinkel bis zu 900 Grad anpassbar.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B013WB0OL8/?tag=tolees0ca-21)
