@@ -28,10 +28,10 @@ Sie können [Ravensburger 24735 - Hase hüpf! - Bewegungsspiel für die Kleinen 
 
 ℹ️:
 
-- Die Reihe „Spielend Erstes Lernen“ ist mit besonders stabilen Materialien ausgestattet und unterstützt das riesige Lernpotential der Kinder in den ersten 3 Jahren. Jedes Spiel enthält mehrere abwechslungsreiche Spielformen, die alle Sinne ansprechen
 - Ein lustiges Bewegungsspiel für die Kleinen: Wer kann hüpfen wie ein Hase oder stampfen wie eine Elefant? Die liebevoll illustrierten Puzzlekarten zeigen acht unterschiedliche Tierarten, die die Kinder nachahmen dürfen
-- Der bunte Farbball wird geworfen, bestimmt die Farbe der nächsten Tierkarte und macht das Spiel zu etwas Besonderem. Gleichzeitig lernen die Kinder vier Farben kennen und es kommt Bewegung ins Spiel
 - Das Spiel eignet sich perfekt für 1-4 Spieler ab 2 Jahren und bringt Spaß in jedes Kinderzimmer. Das ideale Geschenk mit kindgerechtem schönem Design zum Geburtstag oder Weihnachten
 - Mit der spielerischen Bewegung wird die Grobmotorik gefördert, beim Zuordnen und Puzzeln der Tierkarten ist viel Geschick gefragt und durch die unterschiedlichen Schwierigkeitsstufen ist es für jedes Alter geeignet
+- Die Reihe „Spielend Erstes Lernen“ ist mit besonders stabilen Materialien ausgestattet und unterstützt das riesige Lernpotential der Kinder in den ersten 3 Jahren. Jedes Spiel enthält mehrere abwechslungsreiche Spielformen, die alle Sinne ansprechen
+- Der bunte Farbball wird geworfen, bestimmt die Farbe der nächsten Tierkarte und macht das Spiel zu etwas Besonderem. Gleichzeitig lernen die Kinder vier Farben kennen und es kommt Bewegung ins Spiel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00ATY5WDC/?tag=tolees0ca-21)

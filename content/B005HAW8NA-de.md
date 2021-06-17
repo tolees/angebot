@@ -29,9 +29,9 @@ Es gibt ein [Haba 4928 - Zahlendino Dinostarkes Zahlen- und Memospiel  für 1-4 
 ℹ️:
 
 - Der lustige Zahlendino aus Holz hilft beim Gewinnen
-- Zu jeder Karte mit einer Ziffer muss die Karte mit der passenden Menge gefunden werden
 - Wer kann dem Zahlendino beim Zählen helfen? Mit diesem Lernspiel entdecken bis zu vier Kinder von drei bis acht Jahren spielerisch den Zahlenraum von 1 bis 10
-- Schönes Mitbringspiel und tolles Geschenk für Jungen und Mädchen
 - Die Spieler lernen nicht nur das Lesen von Zahlen, sondern auch das Erkennen von Mengen
+- Schönes Mitbringspiel und tolles Geschenk für Jungen und Mädchen
+- Zu jeder Karte mit einer Ziffer muss die Karte mit der passenden Menge gefunden werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B005HAW8NA/?tag=tolees0ca-21)
