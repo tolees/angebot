@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NETGEAR GS305 Switch 5 Port Gigabit Ethe mit 15.46 % Rabatt'
-date: 2021-06-16 06:28:17
+date: 2021-06-17 06:31:12
 image: 'https://m.media-amazon.com/images/I/41OCHZUYneL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Netgear'
 buyurl: 'https://www.amazon.de/dp/B07PTMXBDK/?tag=tolees0ca-21'
 descuento: '15.46'
-average: '18.9439204545456'
+average: '18.9323728813561'
 ---
 
 Sie können [NETGEAR GS305 Switch 5 Port Gigabit Ethernet LAN Switch  Plug-and-Play Netzwerk Switch  LAN Verteiler  Hub energieffizient  lüfterlos  robustes Metallgehäuse ](https://www.amazon.de/dp/B07PTMXBDK/?tag=tolees0ca-21) mit Preis 16.9 EUR (original: 19.99 EUR) 15.46 % Rabatt hier:
@@ -29,11 +29,11 @@ Sie können [NETGEAR GS305 Switch 5 Port Gigabit Ethernet LAN Switch  Plug-and-P
 ℹ️:
 
 - LEISER BETRIEB: Lüfterloses Design sorgt unabhängig vom Aufstellort für einen leisen Betrieb – ideal für geräuschempfindliche Umgebungen
+- NETZWERKANSCHLUSSKONFIGURATION: 5 Gigabit Port (10/100/1000 MBit/s) RJ45 LAN Splitter Ethernet Switch mit Auto-MDI/MDIX, Non-Blocking Architektur und 802.1p DSCP QoS
+- LAN SWITCH MIT VIELSEITIGEN MONTAGEMÖGLICHKEITEN: 5 Ports Gigabit Switch Layer 2 für Desktop oder Wandmontage geeignet
 - SWITCH 5 PORT MIT PLUG-AND-PLAY: Einfache Einrichtung des LAN Verteiler Gigabit Switch, keine Software und keine Konfiguration erforderlich
 - SORGENFREIHEIT: Abgedeckt durch branchenführende 3-jährige eingeschränkte Hardware-Garantie für Ethernet Switch
-- LAN SWITCH MIT VIELSEITIGEN MONTAGEMÖGLICHKEITEN: 5 Ports Gigabit Switch Layer 2 für Desktop oder Wandmontage geeignet
-- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
 - ENERGIEEFFIZIENT: Optimiert Energieverbrauch und senkt Betriebskosten, da mit energieeffizientem Ethernet-Modus IEEE802.3az kompatibel
-- NETZWERKANSCHLUSSKONFIGURATION: 5 Gigabit Port (10/100/1000 MBit/s) RJ45 LAN Splitter Ethernet Switch mit Auto-MDI/MDIX, Non-Blocking Architektur und 802.1p DSCP QoS
+- LANGE LEBENSDAUER: Jeder NETGEAR Netzwerk-Switch wird nach strengen Kriterien auf Zuverlässigkeit, Qualität und Leistung getestet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PTMXBDK/?tag=tolees0ca-21)
