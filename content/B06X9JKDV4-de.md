@@ -28,8 +28,8 @@ Es gibt ein [HEAD Herren Quarter 3p Sportsocken  Weiß  White 300   35/38  Herst
 
 ℹ️:
 
-- Vorgeformte Ferse.
 - 1x1-Rippenbündchen für mehr Dehnbarkeit.
 - Flache, nicht scheuernde Zehennaht.
+- Vorgeformte Ferse.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06X9JKDV4/?tag=tolees0ca-21)
