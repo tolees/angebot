@@ -28,10 +28,10 @@ Es gibt ein [Uvex Ultrasonic Supravision Excellence Schutzbrille - Transparent/G
 
 ℹ️:
 
+- Innen beschlagfrei, außen extrem kratzfest & chemikalienbeständig dank uvex supravision excellence
 - Die uvex ultrasonic ist sowohl als Sportbrille als auch als modische Arbeitsbrille perfekt geeignet
+- Entspricht EN 166 & EN 170, UV-400-Schutz, Kennzeichnung W 166 34 B CE - 2-1,2 W 1 B KN DIN CE
 - Made in Germany - Diese hochwertige Schutzbrille wird in den bayerischen uvex-Werken gefertigt
 - Kombinierbar mit Korrekturbrillen & daher perfekt als Überbrille für Brillenträger geeignet
-- Innen beschlagfrei, außen extrem kratzfest & chemikalienbeständig dank uvex supravision excellence
-- Entspricht EN 166 & EN 170, UV-400-Schutz, Kennzeichnung W 166 34 B CE - 2-1,2 W 1 B KN DIN CE
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0013B4FJC/?tag=tolees0ca-21)

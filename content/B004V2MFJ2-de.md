@@ -29,9 +29,9 @@ Es gibt ein [Lena 5410 Sandset Kochen 14tlg.  Mehrfarbig](https://www.amazon.de/
 ℹ️:
 
 - Sandset Kochen 14tlg. aus Kunststoff im Netz zusammengesteckt
-- 3 Gemüsesorten (Paprika, Tomate, Pilz)
 - Hergestellt in der EU. TÜV zertifiziert!
-- Kochtopf Ø 18mm mit Füllmenge 2L mit Sieb als Deckel
+- 3 Gemüsesorten (Paprika, Tomate, Pilz)
 - Salz-Pfefferstreuer, Schneidebrettchen, Messer, Kelle, Pfannenheber, Pfanne, Messbecher, Eislöffel, 1 Eiswaffel
+- Kochtopf Ø 18mm mit Füllmenge 2L mit Sieb als Deckel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004V2MFJ2/?tag=tolees0ca-21)

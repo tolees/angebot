@@ -28,10 +28,10 @@ Sie können [Schwarzkopf Professional - Schwarzkopf OSiS Rock Hard Styling-Gel T
 
 ℹ️:
 
-- Für extravagante Styles
-- Tube mit 150 ml
 - Marke: Schwarzkopf Professional
 - Leicht zu verarbeiten und auszuwaschen
+- Für extravagante Styles
 - Felsenfeste, extrem starke Kontrolle
+- Tube mit 150 ml
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003NU1RQU/?tag=tolees0ca-21)

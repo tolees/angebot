@@ -28,9 +28,9 @@ Es gibt ein [Case Logic - Festplatten-Tasche](https://www.amazon.de/dp/B004CJ8DN
 
 ℹ️:
 
-- Elastische Innenschlaufe zur Sicherung & Fixierung der Festplatte
 - Netztasche innen zur Aufbewahrung von Kabeln und Zubehör
-- Kompaktes Hatschalen-Etui zum Schutz von tragbaren 2,5 Zoll Festplatten
 - Innenmaße: 8.5 x 3.1 x 13 cm
+- Kompaktes Hatschalen-Etui zum Schutz von tragbaren 2,5 Zoll Festplatten
+- Elastische Innenschlaufe zur Sicherung & Fixierung der Festplatte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004CJ8DNG/?tag=tolees0ca-21)
