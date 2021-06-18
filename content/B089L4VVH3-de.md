@@ -28,10 +28,10 @@ Sie können [Colgate Zahnpasta Max Fresh Cooling Crystals  12 x 75 ml - Zahncrem
 
 ℹ️:
 
-- Überraschendes Frischegefühl dank kleiner Kristalle, die den Mundraum reinigen und erfrischen
+- Hält die Zähne weiß, mit Cool Mint - Geschmack
 - Bekämpft Karies
 - 10x längerer Frische - Effekt im Vergleich herkömmlicher Zahnpasta mit Fluorid
 - Lieferumfang: Colgate Max Fresh Cooling Crystals Zahnpasta 12 x 75ml
-- Hält die Zähne weiß, mit Cool Mint - Geschmack
+- Überraschendes Frischegefühl dank kleiner Kristalle, die den Mundraum reinigen und erfrischen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B089L4VVH3/?tag=tolees0ca-21)
