@@ -28,10 +28,10 @@ Sie können [Ladegerät für NS Switch/ Switch Lite  innoAura Type-C AC Adapter 
 
 ℹ️:
 
-- Safety und Reliable - Professionell hergestellt. Das NS Switch/Switch Lite AC-Ladegerät wird mit UL/CE/FCC//ROHS-Zertifizierungen geliefert besitzt Kurzschlussschutz, Überstromschutz, Überspannungsschutz, Überlastschutz etc. Kein Schaden für Ihre Switch, auch wenn Sie diese über Nacht aufgeladen haben.
-- Einfache Handhabung - Kompatibel mit der NS Switch/Switch Lite Dockingstation und dem Pro-Controller, klein und tragbar, leicht und passt in Ihre Handtasche oder einen Rucksack. Haben Sie Ihre Switch überall dabei. Mit 1,8m Netzkabel, ist es hervorragend als Ersatzladegerät für die NS Switch/Switch Lite geeignet.
-- Unterstützt den TV Mode - Dieses Netzteil unterstützt TV-Dock und TV-Modus, so dass Sie die Switch/Switch Lite andocken können, um es auf dem Fernseher wiederzugeben. So können Sie jederzeit und überall ein komplettes Heimkonsolen-Erlebnis genießen. Das Ladegerät ist handlich, um es mit dem Switch-Zubehör unterwegs zu verwenden, wenn das Dock keine Option ist.
-- Universelle Kompatibilität - Das NS Switch Charger kann nicht nur in Switch / Switch Lite und Switch Dock verwendet werden, sondern auch in Smartphones und Laptops vom Typ C.
 - Schnelles Laden - Schnelllade AC Adapter für die NS Switch/Switch Lite Dock und Pro Controller. Komplett geladen innerhalb von 3 Stunden. Das Switch-Netzteil wird mit einem Typ-C-Kabel geliefert, mit dem Sie die Switch rasch aufladen können. Während der Wiedergabe im Docked-Modus und im Handheld-Modus wird sie ausreichend mit Strom versorgt.
+- Einfache Handhabung - Kompatibel mit der NS Switch/Switch Lite Dockingstation und dem Pro-Controller, klein und tragbar, leicht und passt in Ihre Handtasche oder einen Rucksack. Haben Sie Ihre Switch überall dabei. Mit 1,8m Netzkabel, ist es hervorragend als Ersatzladegerät für die NS Switch/Switch Lite geeignet.
+- Safety und Reliable - Professionell hergestellt. Das NS Switch/Switch Lite AC-Ladegerät wird mit UL/CE/FCC//ROHS-Zertifizierungen geliefert besitzt Kurzschlussschutz, Überstromschutz, Überspannungsschutz, Überlastschutz etc. Kein Schaden für Ihre Switch, auch wenn Sie diese über Nacht aufgeladen haben.
+- Universelle Kompatibilität - Das NS Switch Charger kann nicht nur in Switch / Switch Lite und Switch Dock verwendet werden, sondern auch in Smartphones und Laptops vom Typ C.
+- Unterstützt den TV Mode - Dieses Netzteil unterstützt TV-Dock und TV-Modus, so dass Sie die Switch/Switch Lite andocken können, um es auf dem Fernseher wiederzugeben. So können Sie jederzeit und überall ein komplettes Heimkonsolen-Erlebnis genießen. Das Ladegerät ist handlich, um es mit dem Switch-Zubehör unterwegs zu verwenden, wenn das Dock keine Option ist.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07X6M6V3W/?tag=tolees0ca-21)
