@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAOLESEM Unisex Sicherheitsschuhe S3 Lei mit 15.02 % Rabatt'
-date: 2021-06-17 06:23:29
+date: 2021-06-18 06:40:57
 image: 'https://m.media-amazon.com/images/I/41oH0N9YHXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

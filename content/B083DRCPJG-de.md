@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSON Corona Schnelltest Selbsttest  5 S mit 80.25 % Rabatt'
-date: 2021-06-17 06:24:55
+date: 2021-06-18 06:44:20
 image: 'https://m.media-amazon.com/images/I/41eU1y1k0aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Boson'
 buyurl: 'https://www.amazon.de/dp/B083DRCPJG/?tag=tolees0ca-21'
 descuento: '80.25'
-average: '14.1994444444444'
+average: '13.6494736842105'
 ---
 
 Sie können [BOSON Corona Schnelltest Selbsttest  5 Stück](https://www.amazon.de/dp/B083DRCPJG/?tag=tolees0ca-21) mit Preis 3.75 EUR (original: 18.99 EUR) 80.25 % Rabatt hier:
@@ -28,11 +28,11 @@ Sie können [BOSON Corona Schnelltest Selbsttest  5 Stück](https://www.amazon.d
 
 ℹ️:
 
-- Antigentest auf SARS-CoV-2 zur Eigenanwendung durch Laien, Sonderzulassung nach §11 Absatz 1 Medizinproduktegesetz (MPG)
 - Bitte beachten Sie, dass ein negatives Ergebnis eine Infektion nie vollständig ausschließt, auch dann nicht, wenn der Test an einer Person ohne Krankheitssymptome durchgeführt wird
 - Einfache Anwendug durch einen Abstrich in der vorderen Nase
-- Amazon verkauft nur vom BfArM zugelassene Selbsttests
 - Geprüfte Qualität durch das Paul-Ehrlich-Institut und das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM)
 - Weitere Informationen zu Verfügbarkeit, Zuverlässigkeit und mehr finden Sie auf unserer FAQ-Seite zu Corona-Selbsttests
+- Amazon verkauft nur vom BfArM zugelassene Selbsttests
+- Antigentest auf SARS-CoV-2 zur Eigenanwendung durch Laien, Sonderzulassung nach §11 Absatz 1 Medizinproduktegesetz (MPG)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083DRCPJG/?tag=tolees0ca-21)
