@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '43.04 % rabat auf Warner Bros  Universal Pictures  - Tenet'
-date: 2021-06-16 15:21:58
+date: 2021-06-18 03:42:03
 image: 'https://m.media-amazon.com/images/I/511mk+txyAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B08MMT8GXY/?tag=tolees0ca-21'
 descuento: '43.04'
-average: '6.4'
+average: '6.33545454545455'
 ---
 
 Es gibt ein [Warner Bros  Universal Pictures  - Tenet](https://www.amazon.de/dp/B08MMT8GXY/?tag=tolees0ca-21) mit aktuellem Preis 5.69 EUR (original: 9.99 EUR) 43.04 % Rabatt hier:
