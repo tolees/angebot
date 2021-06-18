@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch Ersatz-Tri mit 39.98 % Rabatt'
-date: 2021-05-21 00:32:19
+date: 2021-06-17 22:46:15
 image: 'https://m.media-amazon.com/images/I/41LI2yaDTkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
