@@ -28,10 +28,10 @@ Sie können [GROHE Tempesta System 210 | Brause- & Duschsystem - mit Brausebatte
 
 ℹ️:
 
-- Leichtgängige Bedienung der Armatur durch GROHE SilkMove Kartuschentechnologie
-- GROHE DreamSpray – Für ein Wellness-Duscherlebnis
+- Lieferumfang: Grohe Duschsystem bestehend aus: Brausebatterie, Kopfbrause, Handbrause, Brauseschlauch, Brausearm, Befestigungsmaterial, Bedienungsanleitung
 - Herstellergarantie: 5 Jahre. Die Garantiebedingungen finden Sie unter Weitere technische Informationen. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
-- Lieferumfang: Grohe Duschsystem bestehend aus: Brausebatterie, Kopfbrause, Handbrause, Brauseschlauch, Brausearm, Befestigungsmaterial, Bedienungsanleitung
+- Leichtgängige Bedienung der Armatur durch GROHE SilkMove Kartuschentechnologie
+- GROHE DreamSpray – Für ein Wellness-Duscherlebnis
 
 [🛒 Hier!!](https://www.amazon.de/dp/B074PDS5D3/?tag=tolees0ca-21)
