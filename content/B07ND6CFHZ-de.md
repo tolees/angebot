@@ -1,37 +1,40 @@
 ---
 layout: post
-title: '26.96 % rabat auf LEGO Produkttitel fehlt - Wird nachgerei'
-date: 2021-06-14 21:46:27
+title: '26.96 % rabat auf LEGO 42099 Technic Control+ 4 x 4 Allrad'
+date: 2021-06-18 22:19:55
 image: 'https://m.media-amazon.com/images/I/51zvv2htPoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07ND6CFHZ-de LEGO Produkttitel fehlt - Wird nachgereicht'
+slug: 'B07ND6CFHZ-de LEGO 42099 Technic Control+ 4 x 4 Allrad Xtreme-...'
 sku: 'B07ND6CFHZ-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 167.99 EUR
 currency: EUR
 price: 167.99
 comparePrice: 229.99 EUR
-prodname: 'LEGO Produkttitel fehlt - Wird nachgereicht'
+prodname: 'LEGO 42099 Technic Control+ 4 x 4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren für Kinder und Erwachsene'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
 descuento: '26.96'
-average: '168.47526205451'
+average: '168.474246861927'
 ---
 
-Es gibt ein [LEGO Produkttitel fehlt - Wird nachgereicht](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) mit aktuellem Preis 167.99 EUR (original: 229.99 EUR) 26.96 % Rabatt hier:
+Es gibt ein [LEGO 42099 Technic Control+ 4 x 4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren für Kinder und Erwachsene](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) mit aktuellem Preis 167.99 EUR (original: 229.99 EUR) 26.96 % Rabatt hier:
 
-[![LEGO Produkttitel fehlt - Wird nachgerei](https://m.media-amazon.com/images/I/51zvv2htPoS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
+[![LEGO 42099 Technic Control+ 4 x 4 Allrad](https://m.media-amazon.com/images/I/51zvv2htPoS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
-- Bulletpoint fehlt - wird nachgereicht
+- Herausforderungen und Erfolge: Meistere Herausforderungen um Belohnungen zu erhalten
+- Benutzerdefinierte Bewegungen: Verwende voreingestellte Kommandos oder speichere die Aktionen, die der Bagger ausführt, für noch komplexere Bewegungsabläufe
+- One-Touch-Steuerung: Wähle auf dem Touch-Bildschirm Befehle aus und sieh dir an, wie der Bagger diese ausführt
+- Der App-gesteuerte LEGO Technic Liebherr Bagger R 9800 wird über ein Mobilgerät und 4 verschiedene Kontrollbildschirme gesteuert. Auf LEGO.com/devicecheck kannst du prüfen, ob dein Gerät kompatibel ist
+- Für ein fesselndes und realistisches Spielerlebnis sowie stundenlangen Spaß ist das Bagger-Modell mit der LEGO TECHNIC CONTROL+ App kombinierbar
+- Multifunktionale Steuerung: Fahre vor und zurück, lenke, rotiere den Aufbau, hebe und senke den ausfahrbaren Ausleger, öffne und kippe die Schaufel und erhalte eine Rückmeldung über das Modell, z. B. über die Position von Ausleger und Aufbau, Stromverbrauch und Entfernung
+- Enthält 3 XL Motoren, 4 L Motoren und 2 Bluetooth-gesteuerte Smarthubs
+- Nachbildung des Liebherr Baggers R 9800 mit einer Reihe realitätsgetreuer Merkmale und Funktionen, abgerundet durch ein authentisches Farbmuster und coole Aufkleber-Details
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
