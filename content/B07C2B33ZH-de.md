@@ -29,8 +29,8 @@ Sie können [JACK & JONES Male Strickpullover V-Ausschnitt MBlack](https://www.a
 ℹ️:
 
 - -Ganz klassisch – und passend für jeden Tag
-- Materialzusammensetzung: 100% Baumwolle
 - Strickteil in regulärer Passform für Herren
 - Aus bequemer Baumwolle
+- Materialzusammensetzung: 100% Baumwolle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07C2B33ZH/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [Desigual Womens CAM FILADELFIA T-Shirt  Blue  XL](https://www.amazo
 
 ℹ️:
 
+- Verstärkung an der Ferse und Schuhspitze
 - Bestickte Laufschuhe
 - blumiges Camouflage-Muster
-- Verstärkung an der Ferse und Schuhspitze
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CN5Q8RN/?tag=tolees0ca-21)
