@@ -29,9 +29,9 @@ Es gibt ein [Lillet Blanc Aperitif / Fruchtiger französischer Weinaperitif aus 
 ℹ️:
 
 - Lieferumfang: 1x Flasche Lillet Blanc französischer Aperitif (0,75 L, 17 Vol.-%) / Ideal als leichter Aperitif, Cocktail-Zutat oder einfach pur auf Eis
+- Die so entstandene Komposition wird anschließend mit ausgewählten Orangenlikören verfeinert, die dem Lillet Aperitif seine einmalig liquide Textur sowie seinen unverwechselbaren Geschmack verleihen
 - Im Lillet Blanc, dem klassischen Aperitifwein, verbindet sich die brilliant goldene Farbe und das Bouquet von Orangenblüten, Zitrusfrüchten, frischer Minze und Vanille zu einem Erlebnis für alle Sinne
 - Die Weine, die zur Herstellung von Lillet Blanc verwendet werden, sind aus den besten weißen Trauben der Region gewonnen: Sémillon für die Struktur, Sauvignon Blanc für das fruchtige Aroma
 - Der weiße Wein-Aperitif von Lillet besticht durch seinen frischen, klaren und fruchtigen Geschmack, der eine gute Länge am Gaumen hat / Serviervorschlag: Gut gekühlt auf Eis mit Orangenzeste
-- Die so entstandene Komposition wird anschließend mit ausgewählten Orangenlikören verfeinert, die dem Lillet Aperitif seine einmalig liquide Textur sowie seinen unverwechselbaren Geschmack verleihen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004EAMAKA/?tag=tolees0ca-21)

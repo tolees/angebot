@@ -28,10 +28,10 @@ Es gibt ein [WC-Ente - WC Ente Total Aktiv Gel Flüssiger WC Reiniger  mit Enten
 
 ℹ️:
 
+- Duftspüler für die tägliche Anwendung, mit langanhaltender Wirkung
+- Mit der praktischen Entenhals-Flasche reinigen Sie ihre Toilette gründlich bis unter den Rand, beugt bei regelmäßiger Anwendung Urinstein und Kalk vor
+- WC-Ente Gele hinterlassen nach dem Reinigen einen angenehm frischen Duft, in verschiedenen Duftvarianten erhältlich
 - Lieferumfang: WC-Ente Total Aktiv Gel Reiniger, Citrus Duft, 5 Stück, Inhalt 5 x 750 ml
 - Das WC-Ente Total Aktiv Gel macht Ihre Toilette hygienisch rein und beseitigt 99,9 % der Keime und Bakterien
-- WC-Ente Gele hinterlassen nach dem Reinigen einen angenehm frischen Duft, in verschiedenen Duftvarianten erhältlich
-- Mit der praktischen Entenhals-Flasche reinigen Sie ihre Toilette gründlich bis unter den Rand, beugt bei regelmäßiger Anwendung Urinstein und Kalk vor
-- Duftspüler für die tägliche Anwendung, mit langanhaltender Wirkung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08FGTMDGD/?tag=tolees0ca-21)
