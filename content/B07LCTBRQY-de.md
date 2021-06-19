@@ -28,10 +28,10 @@ Sie können [GP Batteries Powerbank MP10MA 10000 mAh  externer Akku mit 3 USB-An
 
 ℹ️:
 
-- Sicherheit auf die Sie zählen können, 6 eingebaute Schutzvorrichtungen schützen Sie und Ihre Geräte, Überlade- & Tiefentladungs Schutz, Kurzschlußschutz, Überlastungsschutz, Überspannungsschutz, Temperatur-Kontrolle, Loop-Back Schutz , 5 Jahre Hersteller-Garantie
 - Maximaler Komfort durch Durchgangsladung Pass-Trough. Laden Sie Ihre Powerbank auch dann auf wenn gleichzeitig bis zu 3 Geräte geladen werden. Eingebauter Smart-IC - intelligentes, effizientes Laden mit optimaler Geschwindigkeit für jedes angeschlossene Gerät
 - Universell und vielseitig verwendbar, Genügend Power für Tablet, Smartphone, Spielekonsolen etc. Kompatibel mit Android, Windows und Apple Geräten. 2-in-1 Ladekabel USB-C/Micro-USB im Lieferumfang enthalten
-- Testsieger Computer Bild 1/2019 Testurteil: gut Note: 1,7
+- Sicherheit auf die Sie zählen können, 6 eingebaute Schutzvorrichtungen schützen Sie und Ihre Geräte, Überlade- & Tiefentladungs Schutz, Kurzschlußschutz, Überlastungsschutz, Überspannungsschutz, Temperatur-Kontrolle, Loop-Back Schutz , 5 Jahre Hersteller-Garantie
 - Powerbank USB Typ C - lädt bis zu 3 Geräte gleichzeitig. Hohe Ladegeschwindigkeit mit bis zu 5V / 3A über USB Typ C
+- Testsieger Computer Bild 1/2019 Testurteil: gut Note: 1,7
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07LCTBRQY/?tag=tolees0ca-21)

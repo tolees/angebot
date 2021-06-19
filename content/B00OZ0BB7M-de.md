@@ -28,9 +28,9 @@ Sie können [Xilence Performance C Serie | PC Netzteil | XN041 | 400 Watt | Peak
 
 ℹ️:
 
-- Erfüllt die ErP2014 Ökodesignrichtlinie
 - Ausgestattet mit folgenden Sicherheitsschaltungen: OVP (Überspannungsschutz), UVP (Unterspannungsschutz), SCP (Kurzschlussschutz), OLP (Überlastungsschutz) Niedriger Stand-By Stromverbrauch
 - Flüsterleiser 120mm-Lüfter
+- Erfüllt die ErP2014 Ökodesignrichtlinie
 - Lieferumfang: ATX PC-Netzteil, ein Netzkabel, Befestigungsschrauben, Bedienungsanleitung (EN, DE, FR, ES, PL, RU)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00OZ0BB7M/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [BRIO 00003 - Puppenwagen Combi  grau mit Punkten](https://www.amazo
 
 ℹ️:
 
-- Der Puppenwagen kann sowohl als klassischer Kinderwagen als auch als Buggy genutzt werden. Der Wagen besitzt eine herausnehmbare Softtasche und einen großen Einkaufskorb
-- Mitwachsend: Der Knickschieber ist verstellbar und kann somit an verschiedene Kindergrößen angepasst werden
-- Leichtes und stabiles Metallgestell sowie breite vollgummierte Speichenräder. Sitz und Fußstütze verstellbar
-- Ein Gefährt, das auffällt: Der stylische Puppenwagen im modernen Design ist das perfekte Transportmittel für die geliebte Puppe
 - Empfohlen für Kinder ab 3 Jahren
+- Leichtes und stabiles Metallgestell sowie breite vollgummierte Speichenräder. Sitz und Fußstütze verstellbar
+- Mitwachsend: Der Knickschieber ist verstellbar und kann somit an verschiedene Kindergrößen angepasst werden
+- Der Puppenwagen kann sowohl als klassischer Kinderwagen als auch als Buggy genutzt werden. Der Wagen besitzt eine herausnehmbare Softtasche und einen großen Einkaufskorb
+- Ein Gefährt, das auffällt: Der stylische Puppenwagen im modernen Design ist das perfekte Transportmittel für die geliebte Puppe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00VNY6WGI/?tag=tolees0ca-21)
