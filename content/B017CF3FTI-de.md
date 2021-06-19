@@ -29,8 +29,8 @@ Sie können [Swiss Eye Sportbrille Freeride  Red Matt](https://www.amazon.de/dp/
 ℹ️:
 
 - Zubehör: Mikrofaserbeutel zur Reinigung
-- Das beliebte Modell Freeride von Swisseye ist als Sportbrille sowie auch als Sport-Fashionbrille für viele Sportarten geeignet
 - optimaler Augenschutz und starker Durchblick durch einen gummierten Nasenbereich und gummierte Bügelenden, welche ein angenehmes und sicheres Tragegefühl bieten
+- Das beliebte Modell Freeride von Swisseye ist als Sportbrille sowie auch als Sport-Fashionbrille für viele Sportarten geeignet
 - bei Bedarf zur optischen Verglasung durch Ihren Optiker geeignet
 - leichte, trendige Vollrandbrille (siehe Bildmaterial)
 
