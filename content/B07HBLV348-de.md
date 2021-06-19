@@ -28,10 +28,10 @@ Es gibt ein [Mad Catz - MadCatz R.A.T. 8+ Optical Gaming Mouse  Black](https://w
 
 ℹ️:
 
-- Dynamische Ergonomie – passen sie ihre R.A.T. an, um ihren Spielstil zu verbessern
-- Flux-Schnittstelle – Leistungsstarke Software zur Leistungsanpassung
 - Chamäleon RBG Beleuchtung – intelligente Lichtsteuerung mit 16,8 Millionen Farben
+- Flux-Schnittstelle – Leistungsstarke Software zur Leistungsanpassung
 - Optischer 16.000 DPI Sensor
 - Hand- und Daumenauflage, zusätzliche Teile und Gewichte
+- Dynamische Ergonomie – passen sie ihre R.A.T. an, um ihren Spielstil zu verbessern
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07HBLV348/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [BRUBAKER Cosmetics Bade- und Dusch Set Kokosnuss & Erdbeer Duft - 1
 
 ℹ️:
 
+- 🍓🥥 Das Set aus 300 ml Duschgel, 300 ml Schaumbad, 140 ml Body Spray, 120 ml Body Lotion, 200 g Badesalz, vier Badebomben à 20 g, einem weichen Badeschwamm und einem dekorativen Badezuber versüßt zart duftend Ihr Badeerlebnis.
+- 🐰 Tierversuche für Kosmetik? Wir sagen Nein!❌ Deshalb testen wir alle BRUBAKER Beautyprodukte ausschließlich an uns selbst.
+- 💝 Das liebevoll gestaltete Geschenkset punktet mit seinem Vintage-Badezuber! Die dekorative Wanne kann zur Aufbewahrung für Kosmetikutensilien oder zur Bepflanzung mit Kräutern oder Blumen wiederverwendet werden.
 - 🍓🥥 Sie lieben fruchtige Erdbeeren und den Duft von Kokosmilch? Dann sind diese süßen Früchtchen genau das Richtige für Sie …
 - 🍓🥥 Spritzig sprudelnder Badespaß und ein betörendes Bad für alle Sinne: Die duftigen BRUBAKER Beautyprodukte verwöhnen mit viel Feuchtigkeit und pflegen normale und trockene Haut streichelzart.
-- 🐰 Tierversuche für Kosmetik? Wir sagen Nein!❌ Deshalb testen wir alle BRUBAKER Beautyprodukte ausschließlich an uns selbst.
-- 🍓🥥 Das Set aus 300 ml Duschgel, 300 ml Schaumbad, 140 ml Body Spray, 120 ml Body Lotion, 200 g Badesalz, vier Badebomben à 20 g, einem weichen Badeschwamm und einem dekorativen Badezuber versüßt zart duftend Ihr Badeerlebnis.
-- 💝 Das liebevoll gestaltete Geschenkset punktet mit seinem Vintage-Badezuber! Die dekorative Wanne kann zur Aufbewahrung für Kosmetikutensilien oder zur Bepflanzung mit Kräutern oder Blumen wiederverwendet werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B073Q2JRF1/?tag=tolees0ca-21)

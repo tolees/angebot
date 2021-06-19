@@ -28,10 +28,10 @@ Sie können [Trust Trino HD Webcam mit Mikrofone für PC/Mac  1280x720  30 FPS  
 
 ℹ️:
 
-- Video mit einer 1280x720 HD-Auflösung bei 30 Bildern pro Sekunde
 - Integrierte Mikrofone für die klare Aufnahme Ihrer Stimme. Schnelle Standbildaufnahmen mit Fototaste
-- Funktioniert mit jeder Videokonferenz-Software, wie etwa Skype, Teams und Zoom
 - Automatischer Weißabgleich und Gegenlichtkompensation für bestmögliche Bildqualität
+- Video mit einer 1280x720 HD-Auflösung bei 30 Bildern pro Sekunde
 - Universalständer für Aufstellung auf Ihrem Schreibtisch oder einem Monitor
+- Funktioniert mit jeder Videokonferenz-Software, wie etwa Skype, Teams und Zoom
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0093LON9Q/?tag=tolees0ca-21)
