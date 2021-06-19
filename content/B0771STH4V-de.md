@@ -28,8 +28,8 @@ Es gibt ein [Eastpak Tranverz M Koffer  67 cm  78 L  Schwarz  Black ](https://ww
 
 ℹ️:
 
+- Höhe: 67 cm, Breite: 35,5 cm, Tiefe: 30 cm
 - Geräumige Doppelabteile mit einer Vordertasche mit Reißverschluss für Reisedokumente
 - Aus 100 Prozent Nylon
-- Höhe: 67 cm, Breite: 35,5 cm, Tiefe: 30 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0771STH4V/?tag=tolees0ca-21)

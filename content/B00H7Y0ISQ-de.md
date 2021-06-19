@@ -29,9 +29,9 @@ Es gibt ein [DeWalt Multi-Tool/ Multifunktionswerkzeug  18 Volt  4 Ah Oszilliere
 ℹ️:
 
 - 35-teiliges Zubehörset: Eine breite Auswahl für die wichtigsten Schleif- und Säge-Anwendungen; Schneller und werkzeugloser Wechsel durch spezielle Werkzeugaufnahme
-- Herstellergarantie: 3 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- Verbesserte Anwendungskontrolle: Durch großdimensionierten Gasgebeschalter und duale Griffposition
-- Lieferumfang: 1x Multitool, 2x Akkus, 1x Ladegerät, 1x T STAK Box II, 5x Sägeblatt, 1x Spachtel, 1x Platte, 2x Schleifpapier, 1x Absaugung, 1x Tiefenanschlag, 1x Adapter
 - Generation mit höherer Leistung: Bürstenlose Motor-Technologie ermöglicht 57% längere Laufzeit je Akkuladung, sowie mehr Leistung und höhere Lebensdauer
+- Herstellergarantie: 3 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Lieferumfang: 1x Multitool, 2x Akkus, 1x Ladegerät, 1x T STAK Box II, 5x Sägeblatt, 1x Spachtel, 1x Platte, 2x Schleifpapier, 1x Absaugung, 1x Tiefenanschlag, 1x Adapter
+- Verbesserte Anwendungskontrolle: Durch großdimensionierten Gasgebeschalter und duale Griffposition
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00H7Y0ISQ/?tag=tolees0ca-21)
