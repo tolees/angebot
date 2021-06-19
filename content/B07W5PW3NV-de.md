@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 75268 Star Wars Snowspeeder  Vertei mit 25.61 % Rabatt'
-date: 2021-06-09 16:22:33
+title: 'LEGO 75268 Star Wars Snowspeeder  Vertei mit 25.11 % Rabatt'
+date: 2021-06-19 20:05:02
 image: 'https://m.media-amazon.com/images/I/51Tekr4glaS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,32 +9,32 @@ author: 'tole.es'
 slug: 'B07W5PW3NV-de LEGO 75268 Star Wars Snowspeeder Verteidigungsstation und...'
 sku: 'B07W5PW3NV-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 14.87 EUR
+actualPrice: 14.97 EUR
 currency: EUR
-price: 14.87
+price: 14.97
 comparePrice: 19.99 EUR
 prodname: 'LEGO 75268 Star Wars Snowspeeder  Verteidigungsstation und Speeder-Bike  Spielset mit Starter-Stein für Vorschulkinder ab 4 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21'
-descuento: '25.61'
-average: '17.4171739130435'
+descuento: '25.11'
+average: '17.4313829787234'
 ---
 
-Sie können [LEGO 75268 Star Wars Snowspeeder  Verteidigungsstation und Speeder-Bike  Spielset mit Starter-Stein für Vorschulkinder ab 4 Jahren](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21) mit Preis 14.87 EUR (original: 19.99 EUR) 25.61 % Rabatt hier:
+Sie können [LEGO 75268 Star Wars Snowspeeder  Verteidigungsstation und Speeder-Bike  Spielset mit Starter-Stein für Vorschulkinder ab 4 Jahren](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21) mit Preis 14.97 EUR (original: 19.99 EUR) 25.11 % Rabatt hier:
 
 [![LEGO 75268 Star Wars Snowspeeder  Vertei](https://m.media-amazon.com/images/I/51Tekr4glaS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Die 3 Modelle lassen sich einfach bauen und nach dem Actiongetümmel auch schnell wieder reparieren; Das 91-teilige LEGO Star Wars Starter-Set ist eine tolle Überraschung für Kinder ab 4 Jahren - zu Weihnachten, zum Geburtstag oder zu besonderen Anlässen
+- LEGO Star Wars 4+ Bauspielzeuge stellen jüngeren Kindern das Star Wars Universum mit seinen Helden und Bösewichten vor, helfen ihnen, die einzelnen Bauschritte zu verstehen und stärken ihr Selbstvertrauen
+- Keine Batterien erforderlich; Als Antrieb reicht diesem Bau- und Lernspielzeug die Fantasie der Kinder, die bei unzähligen Abenteuern kreativ werden können
+- Das Bauspielzeug (75268) enthält einfach zu bauende Modelle (Snowspeeder, Speeder-Bike und Echo-Basis), um kleine Rebellen ab 4 Jahren behutsam an den LEGO Star Wars Actionspaß heranzuführen
 - Die Echo-Basis ist mit einem Laser-Scheibenshooter für Wedge Antilles ausgestattet; Die Kinder können die Steine aber auch mit anderen LEGO Star Wars Sets kombinieren, um eigene kreative Modelle entstehen zu lassen
 - Der Snowspeeder ist 5 cm hoch, 11 cm lang und 9 cm breit; Das Bauspielzeug lässt sich leicht zusammen mit den anderen Star Wars Modellen und Minifiguren in einer Tasche verstauen, um Kinder überall zu beschäftigen
-- LEGO Star Wars 4+ Bauspielzeuge stellen jüngeren Kindern das Star Wars Universum mit seinen Helden und Bösewichten vor, helfen ihnen, die einzelnen Bauschritte zu verstehen und stärken ihr Selbstvertrauen
 - Der Snowspeeder verfügt über ein Starter-Fahrgestell, das Kindern das Bauen erleichtert; 2 Minifiguren-der Star Wars Rebellenpilot Wedge Antilles und ein Schneetruppler mit Ausrüstung-lassen die Kinder kreativ werden und eigene Rollenspiele erfinden
 - Instructions PLUS verschaffen Kindern ein tolles interaktives Bauerlebnis, denn diese digitale Bauanleitung enthält intuitive Funktionen zum Vergrößern und Drehen der Modellansicht, die das Bauen dieses LEGO Star Wars Spielsets erleichtern
-- Das Bauspielzeug (75268) enthält einfach zu bauende Modelle (Snowspeeder, Speeder-Bike und Echo-Basis), um kleine Rebellen ab 4 Jahren behutsam an den LEGO Star Wars Actionspaß heranzuführen
-- Keine Batterien erforderlich; Als Antrieb reicht diesem Bau- und Lernspielzeug die Fantasie der Kinder, die bei unzähligen Abenteuern kreativ werden können
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W5PW3NV/?tag=tolees0ca-21)
