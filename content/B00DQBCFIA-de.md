@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40.19 % rabat auf Panasonic DVD-S500EG-K Eleganter DVD-Pla'
-date: 2021-06-10 08:47:25
+date: 2021-06-19 22:52:07
 image: 'https://m.media-amazon.com/images/I/21yI4wu1yOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Panasonic'
 buyurl: 'https://www.amazon.de/dp/B00DQBCFIA/?tag=tolees0ca-21'
 descuento: '40.19'
-average: '32.405'
+average: '31.904'
 ---
 
 Es gibt ein [Panasonic DVD-S500EG-K Eleganter DVD-Player  Multiformat Wiedergabe mit xvid  MP3 und JPEG  USB 2.0  schwarz](https://www.amazon.de/dp/B00DQBCFIA/?tag=tolees0ca-21) mit aktuellem Preis 29.9 EUR (original: 49.99 EUR) 40.19 % Rabatt hier:
@@ -28,11 +28,11 @@ Es gibt ein [Panasonic DVD-S500EG-K Eleganter DVD-Player  Multiformat Wiedergabe
 
 ℹ️:
 
-- Multiformat Wiedergabe mit xvid, MP3 und JPEG
-- DVD, CD Player mit hervorragender Bild- und Tonqualität
+- Video D/A Converter: 108MHz/12bit, Audio D/A Converter: 192kHz/24bit.
 - USB-Eingang mit CD Ripping Funktion
 - JPEG Slideshow
-- Video D/A Converter: 108MHz/12bit, Audio D/A Converter: 192kHz/24bit.
+- DVD, CD Player mit hervorragender Bild- und Tonqualität
+- Multiformat Wiedergabe mit xvid, MP3 und JPEG
 - Komponentenausgang (YUV) und Scart
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DQBCFIA/?tag=tolees0ca-21)
