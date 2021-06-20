@@ -28,11 +28,11 @@ Es gibt ein [Rosense Rosenwasser 100% natürlich vegan  1er Pack  1 x 300 ml ](h
 
 ℹ️:
 
-- Enthält keine Konservierungsstoffe, Farbstoffe oder Duftstoffe
-- Tierversuchfreie Kosmetik
-- 100%-iges Naturprodukt aus echtem Rosenwasser
-- Vegane Kosmetik
-- Destillat aus reinen handverlesenen Rosenblüten
 - 100% naturreines Gesichtswasser
+- Vegane Kosmetik
+- 100%-iges Naturprodukt aus echtem Rosenwasser
+- Enthält keine Konservierungsstoffe, Farbstoffe oder Duftstoffe
+- Destillat aus reinen handverlesenen Rosenblüten
+- Tierversuchfreie Kosmetik
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001BEFO0K/?tag=tolees0ca-21)
