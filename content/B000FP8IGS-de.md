@@ -28,10 +28,10 @@ Es gibt ein [DEWALT - De Walt Sicherheitsbrille Rauch DPG54-2D](https://www.amaz
 
 ℹ️:
 
-- 99, 9 % UVA- u. UVB-Schutz
-- Originalzubehör von DeWalt
 - Stromlinienförmiges Design für Männer und Frauen
-- Alle DeWalt -Brillen wurden getestet und erfüllen die EN166-Norm.
 - Härtebeschichtet
+- 99, 9 % UVA- u. UVB-Schutz
+- Alle DeWalt -Brillen wurden getestet und erfüllen die EN166-Norm.
+- Originalzubehör von DeWalt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000FP8IGS/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [BRYDGE 12.9 Pro  Hochwertige Bluetooth Tastatur aus Aluminium  deut
 
 ℹ️:
 
-- Die patentierten Scharniere ermöglichen ein flexibles Sichtfeld von 0-180° - den perfekten Blickwinkel für hohe Produktivität und Komfort ganz einfach selbst einstellen. Die Brydge Tastatur nur mit einem Bildschirmschutz mit einer Dicke von max. 3mm benutzen.
-- Das BRYDGE 12. 9 wird aus hochwertigem Aluminium gefertigt und passt optimal zum Touch & Feel des iPads. Die neuen iPad pro-tastaturen sorgen für ein ultimatives ipad-erlebnis und lassen die Grenze zwischen einem MacBook und einem iPad verschwimmen. Auch optimal fürs Home Office geeignet.
-- Durch die 3-stufige LED-Hintergrundbeleuchtung der Tastatur, erlebt man bei allen Lichtverhältnissen eine unvergleichliche Schreiberfahrung - sogar im Dunkeln
 - Leicht, kompakt & ausdauernd - profitieren Sie mit Brydge von bis zu 12 Monaten Akkulaufzeit – und das mit nur einer Ladung
+- Das BRYDGE 12. 9 wird aus hochwertigem Aluminium gefertigt und passt optimal zum Touch & Feel des iPads. Die neuen iPad pro-tastaturen sorgen für ein ultimatives ipad-erlebnis und lassen die Grenze zwischen einem MacBook und einem iPad verschwimmen. Auch optimal fürs Home Office geeignet.
+- Die patentierten Scharniere ermöglichen ein flexibles Sichtfeld von 0-180° - den perfekten Blickwinkel für hohe Produktivität und Komfort ganz einfach selbst einstellen. Die Brydge Tastatur nur mit einem Bildschirmschutz mit einer Dicke von max. 3mm benutzen.
+- Durch die 3-stufige LED-Hintergrundbeleuchtung der Tastatur, erlebt man bei allen Lichtverhältnissen eine unvergleichliche Schreiberfahrung - sogar im Dunkeln
 - Für ein angenehmes Tippen ganz ohne Verzögerung, Verbinde das iPad via Bluetooth 4. 1 oder über das mitgelieferte USB-C Kabel um das BRYDGE gleichzeitig auch zu laden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07PJVC38T/?tag=tolees0ca-21)
