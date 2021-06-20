@@ -28,10 +28,10 @@ Es gibt ein [Rokitta s Rostschreck - Rost-Magnet gegen Flugrost im Geschirrspül
 
 ℹ️:
 
-- FÜR 600 SPÜLGÄNGE - Je mehr Spülgänge Sie machen desto mehr Rost lagert sich auf Ihrem Geschirr ab. So war es! Rokittas Rostschreck zieht Rost förmlich an. Mit Aluminium und einem Neodym Magnet hält der Rostschutz etwa 600 Spülgänge.
-- AUCH KÜCHENSCHRANK GEEIGNET - Um auch im Besteckkasten des Küchenschrankes für eine rostfreie Umgebung zu sorgen, lässt sich der Rostschreck auch dort platzieren. Für ein perfektes Schutzergebnis lassen Sie bitte 10 cm Abstand zu dem Besteck.
-- GEGEN ROST IN DER SPÜLMASCHINE - Fast überall wo Wasser ist, ist auch Rost. Für langfristig sauberes und rostfreies Geschirr gibt es nun "Rokittas Rostschreck". Sorgen Sie so für strahlendes Geschirr.
 - METALLSCHUTZ OHNE CHEMIE - Viele konventionelle Lösungen greifen zu aggressiven Chemikalien. Dies beschädigt Spülmaschinen und Abflussanlagen! Rokittas Rostschreck ist geruchsneutral und benötigt keine schädliche Chemie um Rost zu verhindern.
+- AUCH KÜCHENSCHRANK GEEIGNET - Um auch im Besteckkasten des Küchenschrankes für eine rostfreie Umgebung zu sorgen, lässt sich der Rostschreck auch dort platzieren. Für ein perfektes Schutzergebnis lassen Sie bitte 10 cm Abstand zu dem Besteck.
 - EINLEGEN IN SPÜLMASCHINE - Der Rostschutz stört nicht. Er eignet sich perfekt zum Einlegen in den Besteckkorb und verhindert sofort bei jedem Spülgang effektiv Rostflecken auf Bestecken, Töpfen und Pfannen.
+- GEGEN ROST IN DER SPÜLMASCHINE - Fast überall wo Wasser ist, ist auch Rost. Für langfristig sauberes und rostfreies Geschirr gibt es nun "Rokittas Rostschreck". Sorgen Sie so für strahlendes Geschirr.
+- FÜR 600 SPÜLGÄNGE - Je mehr Spülgänge Sie machen desto mehr Rost lagert sich auf Ihrem Geschirr ab. So war es! Rokittas Rostschreck zieht Rost förmlich an. Mit Aluminium und einem Neodym Magnet hält der Rostschutz etwa 600 Spülgänge.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0789SYYT8/?tag=tolees0ca-21)

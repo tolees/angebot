@@ -28,9 +28,9 @@ Sie können [Be Mammy Damen Schlafanzug Stillpyjama H2L2N2  Minze  L ](https://w
 
 ℹ️:
 
-- Hergestellt in der EU
 - Natürliches, atmungsaktives und bequemes Material. Färbt nicht ab und behält die Form nach dem Waschen.
 - Pyjama mit kurzen Ärmeln und 3/4 Hose; Knopfleiste für unkompliziertes Stillen
 - Stillmode / Sehr bequem und elegant
+- Hergestellt in der EU
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00X7VQLQQ/?tag=tolees0ca-21)
