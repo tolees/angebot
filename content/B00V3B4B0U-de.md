@@ -28,10 +28,10 @@ Es gibt ein [KNIPEX Siphon- und Connectorenzange "SpeedGrip"  250 mm  81 13 250]
 
 ℹ️:
 
-- Zum schonenden Lösen von Schläuchen auf Rohrstutzen und von Filterpatronen
-- ideal zum Anziehen und Lösen von Siphon-Verschraubungen, Kunststoff-Rohrverbindungen und runden Überwurfmuttern
-- Für Stecker und Kupplungen mit Schraubverschluss (wie z. B. Cannon-Rundsteckverbinder)
-- Feinverstellung für optimale Anpassung an unterschiedlichste Durchmesser bis 75 mm
 - Für Connectoren, Ölfilter, Kunststoffrohre und Siphons
+- ideal zum Anziehen und Lösen von Siphon-Verschraubungen, Kunststoff-Rohrverbindungen und runden Überwurfmuttern
+- Zum schonenden Lösen von Schläuchen auf Rohrstutzen und von Filterpatronen
+- Feinverstellung für optimale Anpassung an unterschiedlichste Durchmesser bis 75 mm
+- Für Stecker und Kupplungen mit Schraubverschluss (wie z. B. Cannon-Rundsteckverbinder)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00V3B4B0U/?tag=tolees0ca-21)

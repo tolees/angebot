@@ -28,7 +28,7 @@ Es gibt ein [Eichhorn 100001411 - Bahn  lange gerade Schienen 20 5 cm  4-tlg. FS
 
 ℹ️:
 
-- Zielgruppe: Kindergarten
 - Geschlecht: Mädchen und Jungen
+- Zielgruppe: Kindergarten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007DC6H6E/?tag=tolees0ca-21)

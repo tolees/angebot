@@ -29,7 +29,7 @@ Sie können [G-STAR RAW Herren Hose Rovic Zip 3D Straight Tapered  Grau  34W/36L
 ℹ️:
 
 - Schmal zulaufendes Bein vom Oberschenkel bis zum Saum
-- Normaler Bund
 - Normale Leibhöhe
+- Normaler Bund
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01BGTW49I/?tag=tolees0ca-21)
