@@ -28,10 +28,10 @@ Es gibt ein [DEWALT DWST1-70703 TStak II Aufbewahrungsbox für Elektrowerkzeuge 
 
 ℹ️:
 
-- Breite: 440 mm
 - Keine Schaumstoffeinlage im Lieferumfang enthalten
-- Tragkraft: 30 kg
-- Höhe: 331 mm
 - Tiefe: 176 mm
+- Höhe: 331 mm
+- Breite: 440 mm
+- Tragkraft: 30 kg
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B013DT1Z8K/?tag=tolees0ca-21)
