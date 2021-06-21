@@ -28,7 +28,7 @@ Es gibt ein [Dometic 9102600001 Fernbedienung MCR 7 für Wechselrichter MSI und 
 
 ℹ️:
 
-- für den Tafeleinbau geeignet
 - Für Sinus Wechselrichter WAECO SinePower MSI 912 bis MSI 3524, MSP 702 - MSP 2524
+- für den Tafeleinbau geeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00I4S4J8E/?tag=tolees0ca-21)

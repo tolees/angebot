@@ -29,9 +29,9 @@ Sie können [OnePlus 8T Lunar Silver | 6.55" 120Hz FHD+ Fluid Display | 8GB RAM 
 ℹ️:
 
 - Die schnellste Ladung, die es gibt, mit 65 W Warp Charge, so dass du in nur 15 Minuten für einen ganzen Tag bereit bist | 4500 mAh Akku
+- Fotografieren wie ein Profi mit dem Quad-Kamerasystem vom 8T und der 16MP-Frontkamera 48MP Primärer Rückseitensensor mit optischer Bildstabilisierung (OIS) + 16MP Ultraweitwinkel, 5MP Makro und 2MP Monochromlinse.
 - Ultra-flüssiges 6.55" 120Hz DisplayOnePlus 8T läuft reibungslos mit einem 120Hz-Fluid Display, das Spielen, Swipen und Scrollen so flüssig wie nie zuvor macht. Erlebe lebendige Farben und atemberaubende Details mit einem für HDR10+ Inhalte optimierten Display.
 - 8 GB RAM + 128 GB interner Speicher, betrieben mit Qualcomm Snapdragon 865 5G Mobile Plattform für ultrastarke Spitzenleistung
 - OxygenOS 11 für immersive Erlebnisse
-- Fotografieren wie ein Profi mit dem Quad-Kamerasystem vom 8T und der 16MP-Frontkamera 48MP Primärer Rückseitensensor mit optischer Bildstabilisierung (OIS) + 16MP Ultraweitwinkel, 5MP Makro und 2MP Monochromlinse.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08HJGQ9ZS/?tag=tolees0ca-21)

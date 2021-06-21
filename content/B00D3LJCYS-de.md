@@ -28,10 +28,10 @@ Sie können [Samyang 24mm F3.5 T/S Objektiv für Anschluss Sony Alpha](https://w
 
 ℹ️:
 
-- Manuelle Fokusierung; Bildwinkel (VF/APSC/MFT): 83,5° / 59,9° / -
-- Lieferumfang:Samyang 24mm F3.5 T/S Objektiv für Anschluss Sony Alpha; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel
 - Tilt-Shift-Funktion, um eine Miniatureffekt zu simulieren
+- Lieferumfang:Samyang 24mm F3.5 T/S Objektiv für Anschluss Sony Alpha; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel
 - Tilt-Shift-Objektiv 24mm F3.5 T/S
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Manuelle Fokusierung; Bildwinkel (VF/APSC/MFT): 83,5° / 59,9° / -
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00D3LJCYS/?tag=tolees0ca-21)
