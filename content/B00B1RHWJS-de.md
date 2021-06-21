@@ -28,10 +28,10 @@ Sie können [Bosch Home and Garden - Bosch Sägehandgriff für Säbelsägeblätt
 
 ℹ️:
 
+- Ersatzsägeblätter sind überall im Fachhandel und in Baumärkten erhältlich.
 - Mit Sägeblättern für unterschiedliche Materialien wie Holz, Metall und Kunststoff verwendbar.
+- Mit Stauraum für zwei Sägeblätter im Handgriff.
 - Universalschaft ermöglicht Verwendung der Sägeblätter bei Handsägen und elektrischen Sägen.
 - Für kraftvolle Schnitte beim Renovieren, Ausbauen oder Arbeiten im Garten.
-- Mit Stauraum für zwei Sägeblätter im Handgriff.
-- Ersatzsägeblätter sind überall im Fachhandel und in Baumärkten erhältlich.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00B1RHWJS/?tag=tolees0ca-21)

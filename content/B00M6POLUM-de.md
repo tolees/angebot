@@ -28,10 +28,10 @@ Es gibt ein [Philips Avent Aufbewahrungsbecher für Babynahrung 20er Pack  10x 1
 
 ℹ️:
 
-- Das Philips Avent Aufbewahrungssystem ist ideal zur Aufbewahrung von Babynahrung und Snacks geeignet. Sie können die Becher im Kühl- oder Gefrierschrank verwenden.
 - Lieferumfang: 20x Aufbewahrungsbecher (je 10x 180 ml und 240 ml), 20x Schraubdeckel, 1x Fütterlöffel, 1x Rezeptheft
-- Die Becher und Deckel sind beschreibbar, sodass Sie Datum und Inhalt jederzeit darauf notieren können, Schlafphasen :ab 6 Monate
+- Das Philips Avent Aufbewahrungssystem ist ideal zur Aufbewahrung von Babynahrung und Snacks geeignet. Sie können die Becher im Kühl- oder Gefrierschrank verwenden.
 - Die auslaufsicheren Deckel sorgen dafür, dass die Becher sowohl beim Verstauen als auch beim Transport sicher verschlossen sind.
 - Die Aufbewahrungsbecher können ohne Bedenken im Flaschenwärmer, in der Mikrowelle, in der Spülmaschine und im Sterilisator verwendet werden.
+- Die Becher und Deckel sind beschreibbar, sodass Sie Datum und Inhalt jederzeit darauf notieren können, Schlafphasen :ab 6 Monate
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00M6POLUM/?tag=tolees0ca-21)

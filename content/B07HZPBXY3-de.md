@@ -28,10 +28,10 @@ Sie können [Panasonic eneloop pro  Ready-to-Use Ni-MH Akku  AA Mignon  4er Pack
 
 ℹ️:
 
+- eneloop pro Akkus haben eine äußerst geringe Selbstentladung und sind dadurch immer einsatzbereit. Auch nach 1 Jahr Lagerung verfügt eneloop über 85% der Anfangsladung.
+- eneloop pro Akkus sind universell einsetzbar und können in allen Geräten herkömmliche Akkus oder Batterien ersetzen. Sie können mit handelsüblichen NiMH-Ladegeräten aufgeladen werden.
+- Bis zu 500 Mal wiederaufladbar - das schont die Umwelt und Ihren Geldbeutel. Die hochwertige Verpackung ist wiederverwendbar und aus recyceltem Plastik - ideal zum Aufbewahren und Reisen
 - eneloop pro Akkus sind mit Solarstrom vorgeladen und somit sofort einsetzbar. Sie eignen sich für Geräte mit mittlerem bis hohem Energiebedarf (Blitzgeräte, ferngesteuertes Spielzeug, Game Controller, Tastatur & Maus, kabellose Geräte...)
 - Lieferumfang: 4 Stück eneloop pro AA Mignon Akkus in stabiler, wiederverwendbarer Verpackung aus recyceltem Plastik (Storage Case)
-- eneloop pro Akkus haben eine äußerst geringe Selbstentladung und sind dadurch immer einsatzbereit. Auch nach 1 Jahr Lagerung verfügt eneloop über 85% der Anfangsladung.
-- Bis zu 500 Mal wiederaufladbar - das schont die Umwelt und Ihren Geldbeutel. Die hochwertige Verpackung ist wiederverwendbar und aus recyceltem Plastik - ideal zum Aufbewahren und Reisen
-- eneloop pro Akkus sind universell einsetzbar und können in allen Geräten herkömmliche Akkus oder Batterien ersetzen. Sie können mit handelsüblichen NiMH-Ladegeräten aufgeladen werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HZPBXY3/?tag=tolees0ca-21)
