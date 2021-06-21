@@ -28,9 +28,9 @@ Sie können [Black+Decker Autosense Akku-Bohrschrauber  Akkubohrer mit Autoselec
 
 ℹ️:
 
-- Intelligentes Arbeiten: Der Bohrschrauber mit Autoselect-Technologie ermöglicht eine automatisierte Anpassung an den Widerstand und einen intuitiven Wechsel zwischen Schraub- und Bohrmodus
 - Zuverlässige Leistung: Der Akkubohrer überzeugt mit Hochleistungsmotor, variabler Geschwindigkeit und 10mm-Schnellspannbohrfutter und eignet sich auch bestens für anspruchsvolles Arbeiten
 - Maximaler Komfort: Dank des ergonomischen Softgriffs liegt der Bohrer perfekt in der Hand und sorgt für ermüdungsfreies Arbeiten / Schrauber mit praktischer Akku-Ladezustandsanzeige
+- Intelligentes Arbeiten: Der Bohrschrauber mit Autoselect-Technologie ermöglicht eine automatisierte Anpassung an den Widerstand und einen intuitiven Wechsel zwischen Schraub- und Bohrmodus
 - Der kabellose Akkuschrauber von Black+Decker eignet sich zum Bohren in Holz und Metall sowie für alle üblichen Schraubanwendungen und sorgt dank Autosense Technologie für perfekte Schraubergebnisse
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00LO5F7VC/?tag=tolees0ca-21)

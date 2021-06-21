@@ -28,9 +28,9 @@ Sie können [Uvex g.gl 300 TOP Skibrille  Black  One Size](https://www.amazon.de
 
 ℹ️:
 
-- Direkte Rahmenbelüftung für dauerhaft beschlagfreie Sicht
-- 100 Prozent UVA, UVB, UVC Schutz
-- Reduzierte Reflektionen durch polavision. Die Scheibe absorbiert diffuse Lichteinstrahlung und schützt die Augen vor Überanstrengung
 - Beschlagfreie Scheibe durch die uvex supravision Beschichtung. Die optische Qualität der Scheibe wird nicht beeinflusst und die Norm EN 174 für das Beschlagen von Scheiben sogar um 100 Prozent übertroffen
+- Reduzierte Reflektionen durch polavision. Die Scheibe absorbiert diffuse Lichteinstrahlung und schützt die Augen vor Überanstrengung
+- 100 Prozent UVA, UVB, UVC Schutz
+- Direkte Rahmenbelüftung für dauerhaft beschlagfreie Sicht
 
 [🛒 Hier!!](https://www.amazon.de/dp/B014K9VOVA/?tag=tolees0ca-21)

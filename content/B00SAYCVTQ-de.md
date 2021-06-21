@@ -30,8 +30,8 @@ Es gibt ein [HyperX KHX-HSCP-GM Cloud II - Gaming Kopfhörer  für PS4/Mac-PC/Xb
 
 - Lieferumfang: HyperX Cloud II Gaming Kopfhörer gun metal
 - Kompatibilität: USB-Anschluss für PC und Mac. Klinkenstecker für PS4/Mac-PC/Xbox One/Mobile (Controlleradapter erforderlich) und Mobilgeräte
+- Von TeamSpeak zertifiziert und für Skype und andere führende Chatprogramme optimiert
 - Audioerlebnis: hardwaregesteuerter virtueller surround-Sound; Komfortabel: 100 % Memoryschaum am Bügel und Kunstlederohrpolster
 - Optimal für Pro spieler: passive Geräuscheliminierung durch geschlossene Kopfhörermuscheln
-- Von TeamSpeak zertifiziert und für Skype und andere führende Chatprogramme optimiert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00SAYCVTQ/?tag=tolees0ca-21)

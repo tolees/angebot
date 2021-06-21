@@ -28,11 +28,11 @@ Sie können [Logitech G Saitek Pro Flight Instrumenten-Panel  Steuerpanel für F
 
 ℹ️:
 
-- Individuell anpassbar: Die modularen und austauschbaren Instrumententafeln von Saitek lassen sich nach Wunsch aufeinander oder nebeneinander anordnen
-- Zeitnah: Die Instrumententafel wird automatisch entsprechend den Ereignissen in der Software aktualisiert, sodass Ihnen immer alle wichtigen Informationen zur Verfügung stehen
 - Die Anzeige: Das 3,5"-LCD-Farbdisplay lässt sich nahtlos in Flugsimulator-Software integrieren
+- Individuell anpassbar: Die modularen und austauschbaren Instrumententafeln von Saitek lassen sich nach Wunsch aufeinander oder nebeneinander anordnen
+- Ausbaufähig: Erweitern Sie Ihr Cockpit stückweise, bis Sie über alle Instrumentenanzeigen verfügen, die Sie für Ihr virtuelles Flugzeug benötigen
 - Professionell: Integrieren Sie die Instrumente in Ihr Simulations-Cockpit und fliegen Sie auch bei widrigen Wetterbedingungen und schlechter Sicht wie ein Profi
 - Die Anzeige: Das 3,5"-LCD-Farbdisplay lässt sich nahtlos in Flugsimulator-Software integrieren
-- Ausbaufähig: Erweitern Sie Ihr Cockpit stückweise, bis Sie über alle Instrumentenanzeigen verfügen, die Sie für Ihr virtuelles Flugzeug benötigen
+- Zeitnah: Die Instrumententafel wird automatisch entsprechend den Ereignissen in der Software aktualisiert, sodass Ihnen immer alle wichtigen Informationen zur Verfügung stehen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01M3TTXMY/?tag=tolees0ca-21)

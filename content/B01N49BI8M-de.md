@@ -28,12 +28,12 @@ Es gibt ein [AVM FRITZ!Powerline 1220E Set  1 200 MBit/s  2x Gigabit-LAN je Adap
 
 ℹ️:
 
-- 2 Powerline-Adapter mit maximaler Übertragungsgeschwindigkeit von 1200 Mbit/s, ideal für das Mitführen des Internet-Signals über das Stromnetz, 2 x Gigabit-LAN pro Adapter
-- Kompatibel mit Powerline-Adaptern der Kategorien 1200, 500 und 200 Mbit/s und IEEE P1901 und HomePlug AV2, kann zusammen mit älteren Powerline-Adaptern verwendet werden.
 - Schnelle und sichere Integration anderer Adapter auf Knopfdruck sichere Übertragungstaste dank moderner, individueller 128-Bit-AES-Kodierung
-- ACHTUNG! Bitte überprüfen Sie vor dem Kauf die Kompatibilität des Produkts mit Ihren Systemen.
-- Erweiterte Funktionen mit dem FRITZ!Powerline Programm für Windows 10, 8, 7, Vista und XP
 - Inhalt: 2x FRITZ!Powerline 1220 Adapter, 2x Netzkabel, Installationsanleitung
 - Zusammenfassung der Verbindungen und Sicherheits- und Betriebs-Updates im FRITZ!Powerline Programm
+- 2 Powerline-Adapter mit maximaler Übertragungsgeschwindigkeit von 1200 Mbit/s, ideal für das Mitführen des Internet-Signals über das Stromnetz, 2 x Gigabit-LAN pro Adapter
+- ACHTUNG! Bitte überprüfen Sie vor dem Kauf die Kompatibilität des Produkts mit Ihren Systemen.
+- Erweiterte Funktionen mit dem FRITZ!Powerline Programm für Windows 10, 8, 7, Vista und XP
+- Kompatibel mit Powerline-Adaptern der Kategorien 1200, 500 und 200 Mbit/s und IEEE P1901 und HomePlug AV2, kann zusammen mit älteren Powerline-Adaptern verwendet werden.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N49BI8M/?tag=tolees0ca-21)
