@@ -28,7 +28,7 @@ Sie können [Raphaela by Brax Damen Style Silvia Slim Hose  Black  W29/L32  Hers
 
 ℹ️:
 
-- Klassische Wollhose mit Comfortbund in schlanker Silhouette
 - Diese Damenhose aus einem hochwertigen und feinen Wollmix ist ein idealer Ganzjahresartikel mit hohem Tragekomfort. Die gepflegte Wollhose präsentiert sich betont klassisch sowohl in der Farbigkeit als auch im Design und natürlich in bewährt gelungener Passform. Ob für Freizeit oder Business - mit dieser edlen Hose sind Sie jederzeit perfekt angezogen.
+- Klassische Wollhose mit Comfortbund in schlanker Silhouette
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00QYWH3FS/?tag=tolees0ca-21)
