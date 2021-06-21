@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42096 Technic Porsche 911 RSR  Renn mit 30.20 % Rabatt'
-date: 2021-06-19 22:58:45
+date: 2021-06-20 23:17:26
 image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21'
 descuento: '30.20'
-average: '116.088333333335'
+average: '116.064928131418'
 ---
 
 Sie können [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortgeschrittene  exklusives Sammlerstück](https://www.amazon.de/dp/B07FP6QNQ7/?tag=tolees0ca-21) mit Preis 104.69 EUR (original: 149.99 EUR) 30.20 % Rabatt hier:
@@ -28,9 +28,9 @@ Sie können [LEGO 42096 Technic Porsche 911 RSR  Rennauto Bausatz für Fortgesch
 
 ℹ️:
 
-- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
-- Dieses Spielzeugauto zum Sammeln überzeugt mit einer authentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details; Das Modell egnet sich ideal als Geschenk zum Vatertag oder zu anderen Anlässen
 - Dieses Set enthält 1.580 Teile; Das Modell verfügt außerdem über ein detailreiches Cockpit, ein sichtbares funktionstüchtiges Differential, Einzelradaufhängung und einen Sechszylinder-Boxermotor mit beweglichen, vor der Hinterachse platzierten Kolben
+- Dieses Spielzeugauto zum Sammeln überzeugt mit einer authentischen Farbgebung in Weiß, Rot und Schwarz sowie einem Aufkleberbogen für weitere Details; Das Modell egnet sich ideal als Geschenk zum Vatertag oder zu anderen Anlässen
+- Öffne die Türen und greife auf das Cockpit zu, das mit vielen realistischen Details wie einer Radarüberwachung, einer funktionstüchtigen Lenkung, Feuerlöschanlage und Streckenkarte der Leguna Seca Rennstrecke auf der Innenseite der Fahrertür besticht
 - Sieh dir den Sechszylinder-Boxermotor mit beweglichen Kolben an
 - Die Nachbildung des Porsche 911 RSR besticht durch eine Fülle auThentischer Eigenschaften wie den Heckflügel mit Schwanenhalsanbindung, den Heckdiffuser und die aerodynamischen Seitenspiegel sowie schwarze Felgen und realistische Vorder und Rücklichter
 
