@@ -28,8 +28,8 @@ Sie können [Ring Fit Adventure - [Nintendo Switch]](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Ring Fit Adventure - Bewegungsgesteuerter Nintendo Switch-Titel verbindet Abenteuerspiel mit Fitness-Übungen
 - Ring-Con und Beingurt: Neues, von Fitnessgeräten inspiriertes Zubehör, erkennt die Bewegungen der SpielerInnen und überträgt sie ins Spiel
+- Ring Fit Adventure - Bewegungsgesteuerter Nintendo Switch-Titel verbindet Abenteuerspiel mit Fitness-Übungen
 - Abenteuermodus: Virtuelle Gegner werden mit tatsächlich ausgeführten Fitness-Übungen besiegt
 - Die Intensität der Übungen ist individuell bestimmbar – für jedes Alter und jeden Fitness-Grad: für Kinder ebenso wie für Erwachsene
 
