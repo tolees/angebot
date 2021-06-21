@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '27.17 % rabat auf LEGO 43187 Disney Princess Rapunzels Tur'
-date: 2021-06-16 08:12:00
+title: '25.14 % rabat auf LEGO 43187 Disney Princess Rapunzels Tur'
+date: 2021-06-21 08:32:42
 image: 'https://m.media-amazon.com/images/I/51I0uRMZHjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B084W8PQL4-de LEGO 43187 Disney Princess Rapunzels Turm Set mit 2 Mini...'
 sku: 'B084W8PQL4-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 43.69 EUR
+actualPrice: 44.91 EUR
 currency: EUR
-price: 43.69
+price: 44.91
 comparePrice: 59.99 EUR
 prodname: 'LEGO 43187 Disney Princess Rapunzels Turm Set mit 2 Mini Puppen aus dem Film „Rapunzel – Neu verföhnt“  kreatives Spielzeug für Kinder ab 6 Jahre'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B084W8PQL4/?tag=tolees0ca-21'
-descuento: '27.17'
-average: '41.1704716981132'
+descuento: '25.14'
+average: '41.2054205607477'
 ---
 
-Es gibt ein [LEGO 43187 Disney Princess Rapunzels Turm Set mit 2 Mini Puppen aus dem Film „Rapunzel – Neu verföhnt“  kreatives Spielzeug für Kinder ab 6 Jahre](https://www.amazon.de/dp/B084W8PQL4/?tag=tolees0ca-21) mit aktuellem Preis 43.69 EUR (original: 59.99 EUR) 27.17 % Rabatt hier:
+Es gibt ein [LEGO 43187 Disney Princess Rapunzels Turm Set mit 2 Mini Puppen aus dem Film „Rapunzel – Neu verföhnt“  kreatives Spielzeug für Kinder ab 6 Jahre](https://www.amazon.de/dp/B084W8PQL4/?tag=tolees0ca-21) mit aktuellem Preis 44.91 EUR (original: 59.99 EUR) 25.14 % Rabatt hier:
 
 [![LEGO 43187 Disney Princess Rapunzels Tur](https://m.media-amazon.com/images/I/51I0uRMZHjL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B084W8PQL4/?tag=tolees0ca-21)
 
