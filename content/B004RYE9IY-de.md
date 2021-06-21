@@ -28,11 +28,11 @@ Sie können [Talisker Skye Single Malt Scotch Whisky - in maritimer Geschenkbox 
 
 ℹ️:
 
-- Eine Ode an die kontrastreiche Landschaft der Isle of Skye: Der Talisker Skye macht den bekannten schroffen Charakter der Destillerie etwas weicher - ohne seine rauchig-süßen Wurzeln zu vergessen
-- Unsere Flaschen erhalten gerade ein neues Design. Es kann also sein, dass Sie bereits eine Flasche im neuen Design erhalten. Aber seien Sie versichert: der Inhalt ist und bleibt die selbe, großartige Qualität, wie Sie es von Talisker Whisky gewohnt sind
-- Seit 2015 wird der Whisky in der ältesten Destillerie der Isle of Skye gebrannt und in amerikanischen Refill sowie gerösteten Eichenfässern gereift - das ideal Geschenk für Single Malt Liebhaber
 - Der Scotch vereint Aromen von süßem Rauch und pfeffriger Würze mit Noten frischer Zitrusfrüchte zu einem lebendigen Whisky Erlebnis, das in einen lang anhaltenden, wärmenden Abgang mündet
 - So tiefgründig und rau wie seine stürmische Heimatinsel: Mit seinem zugänglichen und abgerundet weichen Geschmack entführt der Talisker Single Malt Whisky geradewegs in seine maritime Heimat
+- Unsere Flaschen erhalten gerade ein neues Design. Es kann also sein, dass Sie bereits eine Flasche im neuen Design erhalten. Aber seien Sie versichert: der Inhalt ist und bleibt die selbe, großartige Qualität, wie Sie es von Talisker Whisky gewohnt sind
+- Eine Ode an die kontrastreiche Landschaft der Isle of Skye: Der Talisker Skye macht den bekannten schroffen Charakter der Destillerie etwas weicher - ohne seine rauchig-süßen Wurzeln zu vergessen
+- Seit 2015 wird der Whisky in der ältesten Destillerie der Isle of Skye gebrannt und in amerikanischen Refill sowie gerösteten Eichenfässern gereift - das ideal Geschenk für Single Malt Liebhaber
 - Lieferumfang: 1 x 0,7 l Flasche Talisker Skye Single Malt Scotch Whisky mit 45,8 Prozent Alkohol / Mehrfach ausgezeichneter schottischer Whisky mit süßen und rauchigen Noten sowie weichem Geschmack
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004RYE9IY/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Gardena Wasserverteiler automatic: 6-Wege-Verteiler  einfache Bedie
 
 ℹ️:
 
+- Einfache Bedienung: Über einen Stellhebel können nicht benötigte Ausgänge einfach abgeschaltet werden
+- Intelligente Programmierung: Unterschiedliche Gießdauer über entsprechende Programmierung eines Bewässerungscomputers MasterControl (nicht enthalten) für jeden Ausgang
 - Auch bei niedrigem Wasserdruck: Ideal, wenn der vorhandene Wasserdruck nicht ausreicht, um alles gleichzeitig zu bewässern
 - Automatische Bewässerung: Über einen Bewässerungscomputer können bis zu 6 Bereiche Ihres Gartens nacheinander automatisch bewässert werden
 - Lieferumfang beinhaltet: 1x GARDENA Wasserverteiler automatic, 6x 26.5 mm (G¾")-Anschlussgewinde, 5x Hahnverbinder (Art.-Nr. 18201), 3x Endkappe
-- Intelligente Programmierung: Unterschiedliche Gießdauer über entsprechende Programmierung eines Bewässerungscomputers MasterControl (nicht enthalten) für jeden Ausgang
-- Einfache Bedienung: Über einen Stellhebel können nicht benötigte Ausgänge einfach abgeschaltet werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006MWDQGA/?tag=tolees0ca-21)
