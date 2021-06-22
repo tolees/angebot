@@ -28,12 +28,12 @@ Sie können [Philips Avent Audio Babyphone SCD733/26 - DECT-Technologie  Eco-Mod
 
 ℹ️:
 
+- Sternenhimmelprojektor und Einschlaflieder: Beruhigt Ihr Baby und wiegt es sanft in den Schlaf
 - Maximale Reichweite: In Innenräumen bis zu 50m Reichweite, in Außenbereichen sogar bis zu 330m
+- Sichere, stabile und störungsfreie Verbindung: Dank der DECT Technologie
+- LED-Benachrichtigung: Fünf Geräuschpegelanzeigen und eine Verbindungsanzeige sowie Nachtruhe-Modus
+- Smart Eco Mode: Errechnet automatisch den effizientesten und niedrigsten Gebrauch von Energie und Sendeleistung
 - Überwachung die ganze Nacht: Kabellose Überwachung von bis zu 18 Stunden möglich
 - Lieferumfang: 1x Elterneinheit, 1x Babyeinheit, 2x Netzteil, 1x Ladestation, 1x Gürtel-Clip, 2x AA-Batterie.
-- Sternenhimmelprojektor und Einschlaflieder: Beruhigt Ihr Baby und wiegt es sanft in den Schlaf
-- Sichere, stabile und störungsfreie Verbindung: Dank der DECT Technologie
-- Smart Eco Mode: Errechnet automatisch den effizientesten und niedrigsten Gebrauch von Energie und Sendeleistung
-- LED-Benachrichtigung: Fünf Geräuschpegelanzeigen und eine Verbindungsanzeige sowie Nachtruhe-Modus
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07F2H7F7R/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Pioneer DEH-S320BT   1DIN Autoradio   CD-Tuner mit RDS   Bluetooth 
 
 ℹ️:
 
-- Menu Deutsch/Englisch/Französisch/Russisch/Türkisch
 - 2 Paar High Volt-Vorverstärkerausgänge, MOSFET 50: 4x50W max., 4x22W DIN sinusHoch- und Tiefpassfilter
-- Memory Backup: Die Einstellungen und die Senderspeicher werdenauch dann beibehalten, wenn eine komplette Trennung von derStromversorgung erfolgt.
 - Kompatibel mit Smart Sync-App für Android per USB und Bluetooth
+- Menu Deutsch/Englisch/Französisch/Russisch/Türkisch
+- Memory Backup: Die Einstellungen und die Senderspeicher werdenauch dann beibehalten, wenn eine komplette Trennung von derStromversorgung erfolgt.
 - Autoradio mit roter Tastenbeleuchtung, Display weiß, RDS, USB-Anschluss, kompatibelCD-Tuner mit RDS, USB-Anschluss, CD-Laufwerk – für MP3, WMA, WAV, FLAC,
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07X6KG3W1/?tag=tolees0ca-21)

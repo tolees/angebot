@@ -28,11 +28,11 @@ Sie können [Acer H6521BD DLP Projektor  Native Full HD 1.920 x 1.200 Pixel  Kon
 
 ℹ️:
 
-- Anschlüsse: 1x HDMI 1.4a mit HDCP Unterstützung, 1x 15-Pin D-Sub (VGA/Component/HDTV), 1x 3,5 mm Audio Mini, 1x Composite Video, 1x DC Out USB A
-- Typ: DLP Beamer Anwendungsbereich: Heimkino
 - Lieferumfang: Acer H6521BD, EURO Stromkabel, IR-Fernbedienung, Batterien für die Fernbedienung, gedruckte Schnellstartanleitung, PIN Sicherheitskarte, Linsenklappe, Tragetasche, keine Bedienungsanleitung auf CD, kein VGA Kabel
-- Lumen: 3.500 Lumen Kontrast: 10.000:1
-- Auflösung: 1.920 x 1.200 (Native Full HD)
 - Brandspecific Features: Streamingfähig mit optionalem Zubehör, NVIDIA 3DTV Play Unterstützung, 3D-Unterstützung, 24p Wiedergabe
+- Typ: DLP Beamer Anwendungsbereich: Heimkino
+- Auflösung: 1.920 x 1.200 (Native Full HD)
+- Lumen: 3.500 Lumen Kontrast: 10.000:1
+- Anschlüsse: 1x HDMI 1.4a mit HDCP Unterstützung, 1x 15-Pin D-Sub (VGA/Component/HDTV), 1x 3,5 mm Audio Mini, 1x Composite Video, 1x DC Out USB A
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079HJBXXW/?tag=tolees0ca-21)

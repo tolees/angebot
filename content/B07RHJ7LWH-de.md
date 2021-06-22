@@ -29,10 +29,10 @@ Sie können [DJI Osmo Mobile 3 - Handgeführter Smartphone-Gimbal mit Stabili
 ℹ️:
 
 - Szenewechsel - Nimm mit der M-Taste oder dem Auslöser aus jedem nur denklichen Winkel auf und nutz die intuitiven Funktionen. Mit Quick Roll kannst du schnell vom Hoch- zum Querformat wechseln
-- Faltbar - Mit dem schlanken, faltbaren Design kannst du Osmo Mobile 3 überall hin mitnehmen. Dieser 3-Achsen-Stabilisator ist ein unverzichtbarer handgeführter Gimbal für Videografen
-- Videos wie vom Profi - Teil deine einzigartigen Momente vom Außergewöhnlichen bis zum Alltäglichen einfach und kreativ im Story-Modus
+- Aktivier den Sportmodus - Verpass keinen Moment, egal ob du ein dynamisches Basketballspiels einfängst oder deinen Hund aufnimmst wenn er ein Eichhörnchen verfolgt
 - Reibungsloses und nahtloses Tracking - Folgen von Motiven kann so einfach sein. ActiveTrack 3.0 erkennt Personen und Haustiere mit höherer Genauigkeit
 - Gestensteuerung - Videoaufnahmen und Selfies können jetzt per Handgesten gemacht werden. Sowohl Front- also auch Rückkamera sind in der Lage die Gestensteuerung zu verwenden und machen Selfie- und Gruppenaufnahmen leichter denn je
-- Aktivier den Sportmodus - Verpass keinen Moment, egal ob du ein dynamisches Basketballspiels einfängst oder deinen Hund aufnimmst wenn er ein Eichhörnchen verfolgt
+- Faltbar - Mit dem schlanken, faltbaren Design kannst du Osmo Mobile 3 überall hin mitnehmen. Dieser 3-Achsen-Stabilisator ist ein unverzichtbarer handgeführter Gimbal für Videografen
+- Videos wie vom Profi - Teil deine einzigartigen Momente vom Außergewöhnlichen bis zum Alltäglichen einfach und kreativ im Story-Modus
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RHJ7LWH/?tag=tolees0ca-21)
