@@ -28,10 +28,10 @@ Sie können [Pegasus Spiele 51310G - Der Kartograph](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Nominiert zum Kennerspiel des Jahres 2020
-- Eingängiges Spielprinzip mit Stift und Papier
-- Kennerspiel ab 10 Jahren
 - Ein Spiel aus dem "Roll Player"-Universum
+- Nominiert zum Kennerspiel des Jahres 2020
+- Kennerspiel ab 10 Jahren
+- Eingängiges Spielprinzip mit Stift und Papier
 - Für bis zu 100 Spieler
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ZQPY1TX/?tag=tolees0ca-21)
