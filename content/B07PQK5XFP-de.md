@@ -28,10 +28,10 @@ Sie können [G-STAR RAW Herren T-Shirt Graphic Logo 4  Schwarz  Dk Black Schwarz
 
 ℹ️:
 
+- Gewebtes G-Star Originals Label unten an der Seitennaht
+- G-Star RAW Grafikprint auf der Brust
+- Kurze Ärmel, gerade eingesetzt
 - Gerippter runder Ausschnitt
 - Gerader Saum
-- G-Star RAW Grafikprint auf der Brust
-- Gewebtes G-Star Originals Label unten an der Seitennaht
-- Kurze Ärmel, gerade eingesetzt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PQK5XFP/?tag=tolees0ca-21)
