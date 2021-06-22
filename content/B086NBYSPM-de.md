@@ -30,7 +30,7 @@ Es gibt ein [Microsoft Office 2019 Home & Student multilingual | 1 PC  Windows 1
 
 - Dauerlizenz
 - Funktioniert auf Windows oder MacOS
-- 1 Person
 - Word, Excel und PowerPoint
+- 1 Person
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086NBYSPM/?tag=tolees0ca-21)

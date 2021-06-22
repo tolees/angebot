@@ -28,10 +28,10 @@ Es gibt ein [Razer BlackWidow V3  Green Switch  - Gaming Tastatur mit mechanisch
 
 ℹ️:
 
-- POWERED BY RAZER CHROMA RGB: Mit 16,8 Millionen Farben und einer Vielzahl von Effekten lässt sich die Tastatur individuell anpassen und eine noch größere Immersion durch dynamische Beleuchtungseffekte genießen, die bei Spielen mit Razer Chroma-Unterstützung ausgelöst werden.
-- DOUBLESHOT-ABS-TASTENKAPPEN: Dank eines Doubleshot-Gussverfahrens kann sich die Beschriftung niemals abnutzen und die Tastenkappen haben extra dicke Seiten, wodurch sie extrem robust sind und auch ständiges Spamming locker wegstecken.
 - TRANSPARENTES SWITCH-GEHÄUSE: Das vollkommen durchsichtige Design zeigt die wahre Leuchtkraft von Razer Chroma RGB — von detaillierten Beleuchtungsanpassungen bis hin zu noch mehr Immersion, denn die Tastatur reagiert dynamisch auf über 150 kompatible Spiele.
+- DOUBLESHOT-ABS-TASTENKAPPEN: Dank eines Doubleshot-Gussverfahrens kann sich die Beschriftung niemals abnutzen und die Tastenkappen haben extra dicke Seiten, wodurch sie extrem robust sind und auch ständiges Spamming locker wegstecken.
 - MECHANISCHE RAZER GREEN SWITCHES: Mit jedem Tastenanschlag ist das satte Feedback zu hören und zu spüren und das klassische Design verwöhnt mit optimierter Auslösung und Rückschaltepunkten, die eine noch bessere Performance beim Gaming ermöglichen.
+- POWERED BY RAZER CHROMA RGB: Mit 16,8 Millionen Farben und einer Vielzahl von Effekten lässt sich die Tastatur individuell anpassen und eine noch größere Immersion durch dynamische Beleuchtungseffekte genießen, die bei Spielen mit Razer Chroma-Unterstützung ausgelöst werden.
 - DIGITALER MULTIFUNKTIONSREGLER UND MEDIEN-TASTE: Diese Tasten lassen sich so konfigurieren, dass sich mit ihnen Musikstücke pausieren, wiedergeben und überspringen lassen. Auch Lautstärke oder Helligkeit lassen sich anpassen — so geht perfektes Entertainment.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G58LVNF/?tag=tolees0ca-21)
