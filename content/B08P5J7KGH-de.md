@@ -28,15 +28,15 @@ Sie können [Xiaomi Mi Watch Smartwatch  1 39" AMOLED-HD-Display; Messung und Ü
 
 ℹ️:
 
-- 17 Modi für Profi-Workouts und 100 unterstützte Übungen & Bewegungsalgorithmus von Firstbeat
+- Fernbedienungsfunktion für die Telefonkamera
 - Eingebautes GPS (GPS, Galileo, BDS, Glonass), geomagnetischer Kompass, Luftdruck und Höhenmesser
+- > 100 detailreiche Ziffernblätter; Personalisierung des Ziffernblatts mit eigenem Lieblingsfotos möglich
 - 1,39 Zoll großes AMOLEDHD-Display (450 Nits) mit Gorilla Glass 3 von Corning
 - Messung vielfältiger Gesundheits- und Fitnessdaten: Überwachung des Sauerstoffgehalts im Blut und der Belastungslevel, Atemübungen, Überwachung der Körperenergie, Echtzeitüberwachung der Herzfrequenz, Überwachung des Schlafzyklus (Aufzeichnung des REM-, Tief- und Leichtschlafs)
-- Fernbedienungsfunktion für die Telefonkamera
-- > 100 detailreiche Ziffernblätter; Personalisierung des Ziffernblatts mit eigenem Lieblingsfotos möglich
-- 5 ATM Wasserfestigkeit (bis zu 50 m)
-- Sehr leicht, nur 32 g
 - Native Emoji-Unterstützung
+- Sehr leicht, nur 32 g
+- 5 ATM Wasserfestigkeit (bis zu 50 m)
 - 16 Tage Batterielaufzeit pro Ladezyklus (2 Stunden Ladezeit) bei durchschnittlichem Gebrauch; 22 Tage im Modus für lange Batterielaufzeit; > 50 Stunden Batterielaufzeit im Sports-Modus mit GPS-Nutzung
+- 17 Modi für Profi-Workouts und 100 unterstützte Übungen & Bewegungsalgorithmus von Firstbeat
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08P5J7KGH/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 76900 Speed Champions Koenigsegg Je mit 17.51 % Rabatt'
-date: 2021-06-21 00:22:56
+title: 'LEGO 76900 Speed Champions Koenigsegg Je mit 26.56 % Rabatt'
+date: 2021-06-22 09:44:01
 image: 'https://m.media-amazon.com/images/I/51ZyEtwvlSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: 'tole.es'
 slug: 'B08W8W71HC-de LEGO 76900 Speed Champions Koenigsegg Jesko Rennauto...'
 sku: 'B08W8W71HC-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego', ]
-actualPrice: 16.49 EUR
+actualPrice: 14.68 EUR
 currency: EUR
-price: 16.49
+price: 14.68
 comparePrice: 19.99 EUR
 prodname: 'LEGO 76900 Speed Champions Koenigsegg Jesko Rennauto  Spielzeugauto  Modellauto zum selber Bauen'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08W8W71HC/?tag=tolees0ca-21'
-descuento: '17.51'
-average: '16.49'
+descuento: '26.56'
+average: '15.8866666666667'
 ---
 
-Sie können [LEGO 76900 Speed Champions Koenigsegg Jesko Rennauto  Spielzeugauto  Modellauto zum selber Bauen](https://www.amazon.de/dp/B08W8W71HC/?tag=tolees0ca-21) mit Preis 16.49 EUR (original: 19.99 EUR) 17.51 % Rabatt hier:
+Sie können [LEGO 76900 Speed Champions Koenigsegg Jesko Rennauto  Spielzeugauto  Modellauto zum selber Bauen](https://www.amazon.de/dp/B08W8W71HC/?tag=tolees0ca-21) mit Preis 14.68 EUR (original: 19.99 EUR) 26.56 % Rabatt hier:
 
 [![LEGO 76900 Speed Champions Koenigsegg Je](https://m.media-amazon.com/images/I/51ZyEtwvlSS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08W8W71HC/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Dieser LEGO Rennwagen verfügt über ein breites 8-Bolzen-Chassis, das Platz für ein 2-sitziges Cockpit mit Platz bietet, somit haben 2 Minifiguren im Modellauto Platz
-- Mit den Spielzeugautos von LEGO Speed Champions können Kinder und auch Auto-Fans Mini-Versionen der führenden Autos der Welt sammeln und konstruieren
 - Die im Set enthaltene LEGO Spielzeug-Rennfahrer-Minifigur Koenigsegg wird durch einen Rennanzug, einen Schutzhelm und einen Schraubenschlüssel ergänzt
-- Die vielen originalgetreuen Details am Auto als auch am Fahrer machen es zum dem perfekten Modellauto zum selber Bauen und auch Liebhaber sind begeistert
 - Kinder können mit ihrem eigenen LEGO Speed Champions Koenigsegg Jesko Rennwagen Spielzeugmodell einen der ersten 300 mph Supercars der Welt erkunden
 - Die Kinder können den Aufbau des Spielzeugautos genau erkunden, während sie bauen, bevor sie es ausstellen - ein perfektes LEGO Geschenk für Jungen und Mädchen
+- Die vielen originalgetreuen Details am Auto als auch am Fahrer machen es zum dem perfekten Modellauto zum selber Bauen und auch Liebhaber sind begeistert
+- Mit den Spielzeugautos von LEGO Speed Champions können Kinder und auch Auto-Fans Mini-Versionen der führenden Autos der Welt sammeln und konstruieren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08W8W71HC/?tag=tolees0ca-21)

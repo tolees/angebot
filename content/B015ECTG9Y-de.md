@@ -28,12 +28,12 @@ Sie können [Thrustmaster TX Racing Wheel Leather Edition - Force-Feedback-Renns
 
 ℹ️:
 
-- Handvernähtes Leder-Lenkrad für ultimativen Racing-Komfort; Funktioniert mit Xbox Series X|S; T3PA 3-Pedal-Set : Umfassend justierbar, Inklusive Conical Rubber Brake Mod; TX SERVO BASE: 900° Force-Feedback der nächsten Generation, Bürstenloser Servomotor, Doppelriemen Mechanismus, H.E.A.R.T*-Technologie;
-- 900° Force Feedback Basis MIT BÜRSTENLOSEM INDUSTRIEMOTOR
-- Robustes UND VIELSEITIGES BEFESTIGUNGSSYSTEM
-- Abnehmbares, handgenähtes Leder-Lenkrad mit 28 cm Durchmesser im GT-Design
-- Im Verpackungsumfang enthalten: 3-PEDALSET - Pedale und interne Struktur zu 100% aus Metall - Vollständig justierbar
 - Kompatibilität: Xbox One und PC
 - Funktioniert mit Xbox Series X
+- Abnehmbares, handgenähtes Leder-Lenkrad mit 28 cm Durchmesser im GT-Design
+- Im Verpackungsumfang enthalten: 3-PEDALSET - Pedale und interne Struktur zu 100% aus Metall - Vollständig justierbar
+- 900° Force Feedback Basis MIT BÜRSTENLOSEM INDUSTRIEMOTOR
+- Robustes UND VIELSEITIGES BEFESTIGUNGSSYSTEM
+- Handvernähtes Leder-Lenkrad für ultimativen Racing-Komfort; Funktioniert mit Xbox Series X|S; T3PA 3-Pedal-Set : Umfassend justierbar, Inklusive Conical Rubber Brake Mod; TX SERVO BASE: 900° Force-Feedback der nächsten Generation, Bürstenloser Servomotor, Doppelriemen Mechanismus, H.E.A.R.T*-Technologie;
 
 [🛒 Hier!!](https://www.amazon.de/dp/B015ECTG9Y/?tag=tolees0ca-21)

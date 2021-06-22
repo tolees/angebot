@@ -28,9 +28,9 @@ Es gibt ein [LEGO 60252 City Bagger auf der Baustelle  Spielzeug mit Starter-Ste
 
 ℹ️:
 
+- Mit speziellen Starter-Steinen und einfachen gedruckten Bauanleitungen, mit denen Kinder Schritt für Schritt ihr Selbstvertrauen und ihre Fähigkeiten steigern können
 - Auf dieser Baustelle befinden sich ein Spielzeug-Bagger mit Arbeitseimer, ein Spielzeugkran mit Abrissbirne und ein Betonmischer
 - Kinder können die Baustelle absperren, die Abrissbirne schwingen, um die Mauer niederzuschlagen, dann mit dem Bagger Ziegelsteine ​​aufheben und den Betonmischer drehen
-- Mit speziellen Starter-Steinen und einfachen gedruckten Bauanleitungen, mit denen Kinder Schritt für Schritt ihr Selbstvertrauen und ihre Fähigkeiten steigern können
 - Beinhaltet 2 Arbeiter-Minifiguren und Zubehör: ein Verkehrszeichen und einen Straßenkegel, eine Druckluftbohrmaschine, einen Hammer und eine Schaufel, Zementsteine ​​und einen Haken zum Anheben
 - Die digitale Anleitung Instructions Plus über die kostenlose LEGO Life-App für Smart-Geräte hilft Kindern, das Modell heranzuzoomen, zu drehen und anzuzeigen, während sie bauen
 
