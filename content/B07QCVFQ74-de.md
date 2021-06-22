@@ -28,9 +28,9 @@ Es gibt ein [Orient Unisex Erwachsene Analog Quarz Uhr mit Leder Armband RA-SP00
 
 ℹ️:
 
-- Blau und Blau
 - Unisex Leder Analog
 - Lässig
+- Blau und Blau
 - Wasserfest auf 50m
 - Quarz
 

@@ -28,10 +28,10 @@ Es gibt ein [CITIZEN Damen Analog Quarz Uhr mit Edelstahl Armband EQ0608-55EE](h
 
 ℹ️:
 
-- Wasserdichtigkeit: 3 bar
-- Gehäusematerial: Edelstahl Silber
-- Armbandmaterial: Edelstahl Silber/Gold
-- Gehäusedurchmesser: 28mm
 - Ziffernblatt: schwarz mit Leuchtzeigern und goldenen Indizes
+- Armbandmaterial: Edelstahl Silber/Gold
+- Gehäusematerial: Edelstahl Silber
+- Wasserdichtigkeit: 3 bar
+- Gehäusedurchmesser: 28mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0117DM4MA/?tag=tolees0ca-21)
