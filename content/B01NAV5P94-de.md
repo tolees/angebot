@@ -28,10 +28,10 @@ Es gibt ein [Philips HR3655/00 Standmixer  1400 Watt  ProBlend 6 3D Technologie 
 
 ℹ️:
 
-- Leichte Reinigung: Abnehmbare Messereinheit für eine gründlichere Reinigung. Alle abnehmbaren Teile sind zudem spülmaschinengeeignet.
 - Leistungsstarker 1. 400 Watt Motor mit 35. 000 Umdrehungen pro Minute.
-- 1, 8L Glasbehälter, 2x 600ml BPA-freie Trinkflaschen für unterwegs
 - ProBlend 6 3D Technologie für 50% feinere Mixergebnisse als beim HR2195
+- 1, 8L Glasbehälter, 2x 600ml BPA-freie Trinkflaschen für unterwegs
 - 3 Voreinstellungen: Pulse, Ice-Crush- und Smoothiefunktion
+- Leichte Reinigung: Abnehmbare Messereinheit für eine gründlichere Reinigung. Alle abnehmbaren Teile sind zudem spülmaschinengeeignet.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01NAV5P94/?tag=tolees0ca-21)

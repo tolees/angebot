@@ -28,7 +28,7 @@ Es gibt ein [ESPRIT Damen 998Ee1K812 Langarmshirt  Grau  Gunmetal 4 018   X-Smal
 
 ℹ️:
 
-- Hoher Tragekomfort dank Baumwollmischgewebe
 - Longsleeve mit 3/4 Arm und femininem Halsausschnitt
+- Hoher Tragekomfort dank Baumwollmischgewebe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07RXLX8TG/?tag=tolees0ca-21)
