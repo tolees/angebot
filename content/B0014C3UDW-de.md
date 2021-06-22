@@ -28,7 +28,7 @@ Sie können [Crocs Unisex Classic Clog Army Green 41/42 EU](https://www.amazon.d
 
 ℹ️:
 
-- Größen auf der Sohle sind US-amerikanische Größen. Label zeigt UK-Größe. M = Herren, W = Damen.
 - Die Größenangaben der Crocs-Schuhe erfolgen in US-amerikanischen Schuhgrößen.
+- Größen auf der Sohle sind US-amerikanische Größen. Label zeigt UK-Größe. M = Herren, W = Damen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0014C3UDW/?tag=tolees0ca-21)

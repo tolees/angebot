@@ -28,11 +28,11 @@ Es gibt ein [ESPRIT Herren Classic Rundhals Pullover  001/BLACK 4  M](https://ww
 
 ℹ️:
 
-- Klassischer Strickpullover in körpernaher Passform und aus zertifiziertem Material
-- Neue Versionen aus 100% Organci Cotton
 - Regular Fit (normaler Schnitt)
 - Breite Top-Abschlüsse am Ärmelenden und Saum
-- Leicht melierte Struktur
 - Runder Halsausschnitt mit Ripp-Blende, im Nacken kontrastfarbig verstärkt
+- Leicht melierte Struktur
+- Klassischer Strickpullover in körpernaher Passform und aus zertifiziertem Material
+- Neue Versionen aus 100% Organci Cotton
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07VHVR82V/?tag=tolees0ca-21)
