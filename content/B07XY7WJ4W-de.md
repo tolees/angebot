@@ -28,11 +28,11 @@ Es gibt ein [TP-Link Deco P9 Powerline WLAN Mesh Set  Dualband 1200Mbit/s + Home
 
 ℹ️:
 
-- Dualband-AC1200 + HomePlug AV1000, WLAN + PLC-Hybrid-Mesh zur Erhöhung der Bandbreitengeschwindigkeit
-- Starke Prozessor-Leistung dank Qualcomm CPU. Betriebstemperatur- 0 ℃ ~ 40 ℃
-- Keine Funklöcher mehr, die WLAN-Abdeckung erreicht mit 3 Einheiten bis zu 560 m²
-- Einfache Installation und zentrales Management per Deco-App (kostenfrei für IOs und Android)
 - Kompatibel mit Amazon Alexa
+- Starke Prozessor-Leistung dank Qualcomm CPU. Betriebstemperatur- 0 ℃ ~ 40 ℃
+- Dualband-AC1200 + HomePlug AV1000, WLAN + PLC-Hybrid-Mesh zur Erhöhung der Bandbreitengeschwindigkeit
 - Lieferumgang: 3 Deco-Einheiten, 1 RJ45-LAN-Kabel, 3 Netzteile, 1 Schnellinstallationsleitung
+- Einfache Installation und zentrales Management per Deco-App (kostenfrei für IOs und Android)
+- Keine Funklöcher mehr, die WLAN-Abdeckung erreicht mit 3 Einheiten bis zu 560 m²
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07XY7WJ4W/?tag=tolees0ca-21)
