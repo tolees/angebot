@@ -28,9 +28,9 @@ Sie können [Microsoft Office 2019 Home & Student multilingual | 1 Gerät | Daue
 
 ℹ️:
 
+- Für Windows 10 oder macOS
 - Office 2019 Dauerlizenz
 - Word, Excel, PowerPoint, OneNote
 - 1 PC/Mac
-- Für Windows 10 oder macOS
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HQJ98L1/?tag=tolees0ca-21)
