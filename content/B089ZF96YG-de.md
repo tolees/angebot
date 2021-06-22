@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.01 % rabat auf Electronic Arts - STAR WARS SQUADRONS  V'
-date: 2021-05-25 13:45:35
+date: 2021-06-22 15:57:16
 image: 'https://m.media-amazon.com/images/I/51cu5+l3OVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.de/dp/B089ZF96YG/?tag=tolees0ca-21'
 descuento: '50.01'
-average: '25.7042857142857'
+average: '24.99'
 ---
 
 Es gibt ein [Electronic Arts - STAR WARS SQUADRONS  VR-fähig  - [Playstation 4]](https://www.amazon.de/dp/B089ZF96YG/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 39.99 EUR) 50.01 % Rabatt hier:
@@ -28,8 +28,8 @@ Es gibt ein [Electronic Arts - STAR WARS SQUADRONS  VR-fähig  - [Playstation 4]
 
 ℹ️:
 
-- Planen Sie zusammen mit Ihrer Staffel im Besprechungsraum Gefechte, bevor Sie sich auf die sich stetig im Wandel befindlichen Schlachtfelder der Galaxis stürzen
 - Nutzen Sie das Armaturenbrett Ihres Schiffs zu Ihrem Vorteil und fühlen Sie die Hitze des Gefechts aus der First Person-Perspektive
 - Übernehmen Sie die Kontrolle über verschiedene Sternenjägerklassen der Flotten der Neuen Republik und des Imperiums
+- Planen Sie zusammen mit Ihrer Staffel im Besprechungsraum Gefechte, bevor Sie sich auf die sich stetig im Wandel befindlichen Schlachtfelder der Galaxis stürzen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B089ZF96YG/?tag=tolees0ca-21)
