@@ -28,11 +28,11 @@ Es gibt ein [Garmin DriveSmart 65 mit Amazon Alexa Sprachassistenz – Navigatio
 
 ℹ️:
 
+- Integriertes Alexa Modul: Erstellen Sie mit Alexa Aufgabenlisten, fragen Sie Ihre Termine, Nachrichten, Wetter- und Verkehrsdaten ab und steuern Sie Ihre Smart-Home-Geräte per Sprachbefehle; Alexa gibt Ihnen Musik von Amazon Music wieder
+- Haben Sie Ihre Route optimal im Blick: Das Navi mit großem, rahmenlosen 6,95 Zoll (17,7 cm) Multitouch-Glasdisplay zeigt Karten und Hinweise in Hochauflösung; Geeignet für Garmin BC 30 und 40 Rückfahrkamera
 - Reagieren Sie schneller auf Ereignisse: Mit Live Traffic Verkehrsinfos in Echtzeit über die Garmin Drive App; Lassen Sie sich bei Verkehrsbehinderungen den Zeitverlust anzeigen und Alternativrouten vorschlagen
 - Fahren Sie bewusster und sicherer: Die Fahrerassistenz warnt Sie je nach Einstellung vor scharfen Kurven. Bahnübergängen. Wildwechsel. Schulen in der Nähe und mehr; Mit Pausenerinnerung
-- Haben Sie Ihre Route optimal im Blick: Das Navi mit großem, rahmenlosen 6,95 Zoll (17,7 cm) Multitouch-Glasdisplay zeigt Karten und Hinweise in Hochauflösung; Geeignet für Garmin BC 30 und 40 Rückfahrkamera
-- Integriertes Alexa Modul: Erstellen Sie mit Alexa Aufgabenlisten, fragen Sie Ihre Termine, Nachrichten, Wetter- und Verkehrsdaten ab und steuern Sie Ihre Smart-Home-Geräte per Sprachbefehle; Alexa gibt Ihnen Musik von Amazon Music wieder
-- Navigieren Sie souverän: Mit Detailkarten von 46 europäischen Ländern, vielen Gebäuden und Geländemerkmalen in 3D sowie TripAdvisor POIs; Inklusive Karten-Updates über das integrierte WLAN
 - Finden Sie Parkplätze am Zielort; Und mehr: Stellen Sie sich auf das Wetter unterwegs und am Fahrziel ein und lassen Sie sich auf Wunsch mobile Radarkontrollen anzeigen; Bei gekoppeltem Smartphone
+- Navigieren Sie souverän: Mit Detailkarten von 46 europäischen Ländern, vielen Gebäuden und Geländemerkmalen in 3D sowie TripAdvisor POIs; Inklusive Karten-Updates über das integrierte WLAN
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07SJ27R8H/?tag=tolees0ca-21)

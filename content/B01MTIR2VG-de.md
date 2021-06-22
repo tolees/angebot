@@ -28,10 +28,10 @@ Es gibt ein [Victorinox Swiss Tool Spirit XBS Multifunktionswerkzeug  27 Funktio
 
 ℹ️:
 
+- Schraubendreher 4 mm, Kapselheber, Schraubendreher 6 mm, Kistenöffner, Drahtbieger, Schere, Holzsäge, Metallsäge, Metallfeile, Schraubenzieher 2.5 mm, Holzmeissel 7 mm
+- Multitool mit 27 feststellbaren Werkzeugen, hergestellt in der Schweiz: Spitzzange, Drahtschneider, Grosse Klinge, Phillips-Schraubendreher 1/2, Stech-Reib-Ahle, Mehrzweckhaken, Dosenöffner
+- Multifunktionswerkzeug aus brüniertem Stahl mit einem elegant geschwärztem Finish inkl. Nylon Etui.
 - Abmessungen: Höhe 16 mm, Länge 105 mm, Gewicht 208 g. Schalenmaterial: Rostfreier Stahl. Artikelnummer: 3.0224.3CN. Artikelname: Swiss Tool Spirit XBS
 - Schaber, Drahtabisolierer, Drahtschaber, Kabelmantel-Längsschneider, Kabelmantel-Querschneider
-- Multitool mit 27 feststellbaren Werkzeugen, hergestellt in der Schweiz: Spitzzange, Drahtschneider, Grosse Klinge, Phillips-Schraubendreher 1/2, Stech-Reib-Ahle, Mehrzweckhaken, Dosenöffner
-- Schraubendreher 4 mm, Kapselheber, Schraubendreher 6 mm, Kistenöffner, Drahtbieger, Schere, Holzsäge, Metallsäge, Metallfeile, Schraubenzieher 2.5 mm, Holzmeissel 7 mm
-- Multifunktionswerkzeug aus brüniertem Stahl mit einem elegant geschwärztem Finish inkl. Nylon Etui.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MTIR2VG/?tag=tolees0ca-21)
