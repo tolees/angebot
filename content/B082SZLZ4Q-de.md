@@ -28,10 +28,10 @@ Es gibt ein [Eve Water Guard - Smarter Wassermelder  2m Sensorkabel  verlängerb
 
 ℹ️:
 
-- Beugen sie teuren Wasserschäden vor: Der Wassermelder erkennt auslaufendes Wasser und warnt sie sofort
 - Idealer Wassersensor für Badezimmer, Hauswirtschaftsräume, Keller, unter Spülen und hinter Sockelblenden in der Küche
 - HomeKit-Unterstützung für ungeahnten Bedienkomfort und hohe Sicherheit
-- 2 m-Sensorkabel dient in voller Länge als Sensor und überwacht großflächig ihre Räume (verlängerbar bis 150 m)
 - Alarmiert sie akustisch mit 100 dB, visuell über rotes blinken und per Mitteilung auf Apple iPhone, iPad oder Apple Watch
+- 2 m-Sensorkabel dient in voller Länge als Sensor und überwacht großflächig ihre Räume (verlängerbar bis 150 m)
+- Beugen sie teuren Wasserschäden vor: Der Wassermelder erkennt auslaufendes Wasser und warnt sie sofort
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082SZLZ4Q/?tag=tolees0ca-21)

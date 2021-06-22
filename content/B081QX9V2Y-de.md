@@ -28,10 +28,10 @@ Es gibt ein [Razer DeathAdder V2 - Kabelgebundene Gaming Maus mit ergonomischem 
 
 ℹ️:
 
-- Maximale Empfindlichkeit (DPI): 20000
-- OPTISCHE MAUS-SWITCHES VON RAZER: Jeder Klick wird mit Lichtgeschwindigkeit ausgeführt, ganz ohne Entprell-Verzögerung, damit der eigene Schuss immer der erste ist. Die Switches zeichnen sich durch eine Haltbarkeit von bis zu 70 Millionen Klicks aus
-- RAZER SPEEDFLEX-KABEL: Noch elastischer und praktisch ohne Zugwiderstand für ungehinderte Bewegungsfreiheit – ungehinderte Entfaltung in jeder Partie
 - KLASSENBESTE ERGONOMISCHE FORM: Mithilfe zahlloser Prototypen und Tests konnten unsere Ergonomie-Experten und Designer das griffigste und leichteste Gehäuse entwickeln, mit dem noch länger Bestleistungen im Spiel möglich sind
+- RAZER SPEEDFLEX-KABEL: Noch elastischer und praktisch ohne Zugwiderstand für ungehinderte Bewegungsfreiheit – ungehinderte Entfaltung in jeder Partie
+- OPTISCHE MAUS-SWITCHES VON RAZER: Jeder Klick wird mit Lichtgeschwindigkeit ausgeführt, ganz ohne Entprell-Verzögerung, damit der eigene Schuss immer der erste ist. Die Switches zeichnen sich durch eine Haltbarkeit von bis zu 70 Millionen Klicks aus
+- Maximale Empfindlichkeit (DPI): 20000
 - 5 PROFILE IM INTEGRIERTEN SPEICHER: Bis zu 5 Profil-Konfigurationen lassen sich in ihrem integrierten Speicher unterbringen und die eigenen Einstellungen so überallhin mitnehmen, damit immer die bevorzugte Steuerung zum Einsatz kommen kann
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B081QX9V2Y/?tag=tolees0ca-21)

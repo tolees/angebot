@@ -28,10 +28,10 @@ Es gibt ein [Microsoft 365 Single | 1 Nutzer | Mehrere PCs/Macs  Tablets und mob
 
 ℹ️:
 
+- Kontinuierlicher technischer Support
+- Funktioniert auf Windows, MacOS, iOS und Android (iOS und Android erfordern eine separate App-Installation)
 - Erweiterte Sicherheit für E-Mails und Dateien
 - Premium-Versionen von Word, Excel, PowerPoint und Outlook und 1 TB OneDrive-Cloud-Speicher zum Sichern von Dateien und Fotos
-- Funktioniert auf Windows, MacOS, iOS und Android (iOS und Android erfordern eine separate App-Installation)
 - Jahresabonnement
-- Kontinuierlicher technischer Support
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086QBLNVZ/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Sie können [Razer Kraken - Gaming Headset  Kabelgebundene Headphones für PC  P
 ℹ️:
 
 - Individuell Abgestimmte 50-Mm-Treiber: Überlegen Klare Höhen Und Ein Tiefer, Durchschlagender Bass Erschaffen Eine Epische Klangkulisse. Jedes Detail Ist Zu Hören, Von Fast Unhörbaren Schritten, Die Sich Von Hinten Anschleichen, Bis Hin Zu Unglaublichen Explosionen, Die Alles Mit Sich Reißen
+- Einziehbares Unidirektionales Mikrofon: Das Unidirektionale Mikrofon Garantiert Eine Kristallklare Kommunikation Im Team. Es Ist Sehr Beweglich Und Bei Bedarf Ganz Leicht Aus Der Linken Ohrmuschel Ausziehbar, Und Auch Die Position Und Der Abstand Zum Mund Lassen Sich Anpassen
 - Bauxit-Aluminium-Rahmen Mit Dickerer Polsterung: Der Aus Bauxit-Aluminium Gefertigte Rahmen Des Razer Kraken Ist Leicht, Biegsam Und Unglaublich Robust. Die Noch Dickere Polsterung Des Kopfbands Entlastet Den Kopf Und Sorgt Für Langanhaltenden Tragekomfort
 - 3,5-Mm-Audiokabel Mit In-Line-Fernbedienung: Lautstärke Und Stummschaltung Des Mikrofons Lassen Sich Leicht Anpassen, Damit Die Volle Konzentration Immer Dem Eigentlichen Spielgeschehen Gilt. Dank Des Splitter-Verlängerungskabels Lassen Sich Auch Systeme Verwenden, Die Einen Separaten Audio-Ausgang Und Mikrofon-Eingang Haben
-- Einziehbares Unidirektionales Mikrofon: Das Unidirektionale Mikrofon Garantiert Eine Kristallklare Kommunikation Im Team. Es Ist Sehr Beweglich Und Bei Bedarf Ganz Leicht Aus Der Linken Ohrmuschel Ausziehbar, Und Auch Die Position Und Der Abstand Zum Mund Lassen Sich Anpassen
 - Mit Kältegel Gefüllte Ovale Ohrpolster: Die Mit Kühlendem Gel Gefüllten Ohrpolster Verringern Die Wärmeentwicklung Und Die Einfassung Aus Kunstleder Sorgt Für Eine Überlegene Schallisolierung. Das Ovale Design Stellt Sicher, Dass Das Headset Stets Bequem Auf Den Ohren Sitzt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MST9Y5K/?tag=tolees0ca-21)

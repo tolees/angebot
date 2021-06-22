@@ -28,10 +28,10 @@ Sie können [Philips HD9318/20 Wasserkocher Series 3000  Klappdeckel  Leuchtanze
 
 ℹ️:
 
-- Kabelloser Wasserkocher mit 360°-Pirouettenbasis
 - Leicht ablesbare Wasserstandsanzeige, Tassenanzeige
-- Flaches Heizelement für kochend heißes Wasser in Sekundenschnelle
+- Kabelloser Wasserkocher mit 360°-Pirouettenbasis
 - Mikro-Sieb-Filter erfasst winzige Kalkpartikel
 - Betriebsanzeige leuchtet bei eingeschaltetem Wasserkocher
+- Flaches Heizelement für kochend heißes Wasser in Sekundenschnelle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CXTZF5H/?tag=tolees0ca-21)

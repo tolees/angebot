@@ -28,10 +28,10 @@ Sie können [Eve Door & Window - Smarter Kontaktsensor für Türen/Fenster  Dt. 
 
 ℹ️:
 
-- Informiert per Mitteilung, sobald sich der Status ändert und aktiviert automatisch andere HomeKit-fähige Geräte – dank HomePod mini, HomePod oder Apple TV als Steuerzentrale.
-- Gemacht für HomeKit: Ungeahnter Bedienkomfort, nahtlose Integration und hohe Sicherheit; Kinderleichte, schnelle Einrichtung ohne Bridge oder Gateway.
+- Unterstützt Bluetooth und Thread, und integriert sich automatisch in ein Thread-Netzwerk. Thread benötigt einen HomePod mini als Border Router
 - Erkennt, ob Türen oder Fenster offen oder geschlossen sind.
 - Strengster Datenschutz: keine Datenübertragung in eine herstellereigene Cloud, keine Registrierung, kein Tracking. Unser deutscher Produkt-Support steht Ihnen bei Rückfragen zur Verfügung.
-- Unterstützt Bluetooth und Thread, und integriert sich automatisch in ein Thread-Netzwerk. Thread benötigt einen HomePod mini als Border Router
+- Gemacht für HomeKit: Ungeahnter Bedienkomfort, nahtlose Integration und hohe Sicherheit; Kinderleichte, schnelle Einrichtung ohne Bridge oder Gateway.
+- Informiert per Mitteilung, sobald sich der Status ändert und aktiviert automatisch andere HomeKit-fähige Geräte – dank HomePod mini, HomePod oder Apple TV als Steuerzentrale.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CDV2RY9/?tag=tolees0ca-21)

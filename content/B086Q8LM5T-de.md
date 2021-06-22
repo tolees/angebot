@@ -28,10 +28,10 @@ Sie können [Microsoft 365 Family | 6 Nutzer | Mehrere PCs/Macs  Tablets und mob
 
 ℹ️:
 
-- Jahresabonnement
-- Premium-Versionen von Word, Excel, PowerPoint und Outlook und 1 TB OneDrive-Cloud-Speicher zum Sichern von Dateien und Fotos
 - Kontinuierlicher technischer Support
-- Erweiterte Sicherheit für E-Mails und Dateien
+- Premium-Versionen von Word, Excel, PowerPoint und Outlook und 1 TB OneDrive-Cloud-Speicher zum Sichern von Dateien und Fotos
+- Jahresabonnement
 - Funktioniert auf Windows, MacOS, iOS und Android (iOS und Android erfordern eine separate App-Installation)
+- Erweiterte Sicherheit für E-Mails und Dateien
 
 [🛒 Hier!!](https://www.amazon.de/dp/B086Q8LM5T/?tag=tolees0ca-21)

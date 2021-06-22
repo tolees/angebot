@@ -28,15 +28,15 @@ Sie können [Arlo Pro3 WLAN Überwachungskamera & Alarmanlage  2K UHD  Zusatzkam
 
 ℹ️:
 
+- KABELLOS UND WETTERFEST: 100% kabellos und wetterfest für sofortigen Schutz, auf den Sie sich verlassen können
+- 2-WEGE-AUDIO: Mit 2-Wege-Audio können Sie Besucher hören und mit ihnen sprechen. So haben Sie die volle Kontrolle über den Schutz Ihres Eigentums
+- INTEGRIERTES SPOTLIGHT: Ein leistungsstarker Scheinwerfer beleuchtet wichtige Bereiche, damit Sie bei Nacht oder Tag immer einen klaren Überblick darüber haben, was vor sich geht
 - 2K-VIDEO CCTV MIT HDR: Überragende Bildqualität mit 2K HDR Videoüberwachung​, mit der Sie Details klar festhalten können
+- 160-GRAD-BLICKWINKEL: Konzentrieren Sie sich mit einem 160-Grad-Weitwinkel auf die gefährlichsten Bereiche Ihres Grundstücks
+- MINDESTANFORDERUNG: Für eine problemlose Videoüberwachung ist eine Upload-Geschwindigkeit von mindestens 2 Mbit/s pro Indoor / Outdoor IP Kamera nötig
+- NACHTSICHT IN FARBE: Erfassen Sie wichtige Informationen mit Ihrer WLAN Kamera, selbst bei Nacht, mit klarer Nachtsicht in Farbe
 - SMART HOME INTEGRATION: Steuern Sie Ihre Arlo Pro3 Sicherheitskamera mit Amazon Alexa, Google Assistant oder Apple Homekit
 - INTEGRIERTE SIRENE: Übernehmen Sie die Kontrolle über Ihre Sicherheit aus der Ferne und lösen Sie die Sirene Ihrer Außenkamera aus, um unerwünschte Eindringlinge abzuschrecken
 - KONFIGURATION: Die Arlo Pro3-Zusatzkamera erfordert einen separat erhältlichen SmartHub
-- KABELLOS UND WETTERFEST: 100% kabellos und wetterfest für sofortigen Schutz, auf den Sie sich verlassen können
-- NACHTSICHT IN FARBE: Erfassen Sie wichtige Informationen mit Ihrer WLAN Kamera, selbst bei Nacht, mit klarer Nachtsicht in Farbe
-- INTEGRIERTES SPOTLIGHT: Ein leistungsstarker Scheinwerfer beleuchtet wichtige Bereiche, damit Sie bei Nacht oder Tag immer einen klaren Überblick darüber haben, was vor sich geht
-- 2-WEGE-AUDIO: Mit 2-Wege-Audio können Sie Besucher hören und mit ihnen sprechen. So haben Sie die volle Kontrolle über den Schutz Ihres Eigentums
-- 160-GRAD-BLICKWINKEL: Konzentrieren Sie sich mit einem 160-Grad-Weitwinkel auf die gefährlichsten Bereiche Ihres Grundstücks
-- MINDESTANFORDERUNG: Für eine problemlose Videoüberwachung ist eine Upload-Geschwindigkeit von mindestens 2 Mbit/s pro Indoor / Outdoor IP Kamera nötig
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XZQWVG7/?tag=tolees0ca-21)
