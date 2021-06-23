@@ -28,10 +28,10 @@ Es gibt ein [Caterpillar - CAT S42 Robustes Outdoor Smartphone  13.97cm  5.5 Zol
 
 ℹ️:
 
-- Corning Gorilla Glass 5 Display - kratzfest und ultrahell zum Lesen auch bei direkter Sonneneinstrahlung; funktioniert auch bei Nässe oder sogar mit Handschuhen
-- Zuverlässig und robust - IP68 und Mil Spec 810H - sturzsicher, staub- und stoßfest - unsere Smartphones werden aus robustem Material gefertigt, innen und außen
-- Lautes, High-Quality Audio - ein wesentlicher Vorteil beim Arbeiten in lauten Umgebungen
-- Immer sauber - Sie können es mit heißem Wasser und Seife bedenkenlos reinigen - sehr wertvoll in Zeiten erhöhter Hygieneamforderungen
 - Akku mit außerordentlicher Kapazität (4200mAh) - dieser ermöglicht eine Nutzung über bis zu zwei Tage mit einer Ladung. Bleiben Sie immer in Verbindung.
+- Immer sauber - Sie können es mit heißem Wasser und Seife bedenkenlos reinigen - sehr wertvoll in Zeiten erhöhter Hygieneamforderungen
+- Lautes, High-Quality Audio - ein wesentlicher Vorteil beim Arbeiten in lauten Umgebungen
+- Zuverlässig und robust - IP68 und Mil Spec 810H - sturzsicher, staub- und stoßfest - unsere Smartphones werden aus robustem Material gefertigt, innen und außen
+- Corning Gorilla Glass 5 Display - kratzfest und ultrahell zum Lesen auch bei direkter Sonneneinstrahlung; funktioniert auch bei Nässe oder sogar mit Handschuhen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08C35RBC8/?tag=tolees0ca-21)

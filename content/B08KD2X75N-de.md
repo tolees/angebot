@@ -28,10 +28,10 @@ Sie können [Lintelek 10 Zoll Ringlicht mit einziehbarem Stativ Make-up Licht mi
 
 ℹ️:
 
-- 【Dimmbares Ringlicht】Der Farbtemperatur liegt zwischen 2900k und 5700k. Es gibt drei Beleuchtungsmodi (kühles Weiß, warmes Weiß und warmes Gelb mit 10-stufiger Helligkeit). Erfüllen Sie die Bedürfnisse verschiedener Charaktere in verschiedenen Szenen und bringen Sie verschiedene fotogene Effekte.
-- 【Bluetooth-Fernbedienung und USB-Ladelkabel】Die Bluetooth-Fernbedienung kann das Smartphone für Aufnahmen innerhalb von 10 Metern nach dem Anschließen des Smartphones steuern. Das Ringlicht verwendet USB-Ladelkabel, das für alle Geräte mit USB-Schnittstelle geeignet ist.
-- 【Doppelte Handyhalter】Das Zubehör enthält zwei Handyhalter, mit denen zwei Handys gleichzeitig auf verschiedenen Plattformen angemeldet. Dies ermöglicht die Live-Übertragung auf mehreren Plattformen gleichzeitig. Es ist geeignet für die meisten Smartphone mit einer Bildschirmbreite von 5,1 bis 8,5 cm.
-- 【Einstellbare Höhe und Drehbares Winkel】Die Höhe kann von 18,5 Zoll bis 47,2 Zoll eingestellt werden. Sowohl das Ringlicht als auch der Handyhalter können 360°gedreht werden. Es ist praktisch für Sie, den am besten geeigneten Winkel für die Aufnahme zu finden.
 - 【Breites Einsatzspektrum】Ringlichte haben breitere Anwendungen. Sowohl im Innen- als auch im Außenbereich können Sie das Ringlicht verwenden. Das Ringlicht eignet sich für Online-Kurse, YouTube, Vlog, Schminken, Selfie, Videos und andere Szenen.
+- 【Bluetooth-Fernbedienung und USB-Ladelkabel】Die Bluetooth-Fernbedienung kann das Smartphone für Aufnahmen innerhalb von 10 Metern nach dem Anschließen des Smartphones steuern. Das Ringlicht verwendet USB-Ladelkabel, das für alle Geräte mit USB-Schnittstelle geeignet ist.
+- 【Einstellbare Höhe und Drehbares Winkel】Die Höhe kann von 18,5 Zoll bis 47,2 Zoll eingestellt werden. Sowohl das Ringlicht als auch der Handyhalter können 360°gedreht werden. Es ist praktisch für Sie, den am besten geeigneten Winkel für die Aufnahme zu finden.
+- 【Doppelte Handyhalter】Das Zubehör enthält zwei Handyhalter, mit denen zwei Handys gleichzeitig auf verschiedenen Plattformen angemeldet. Dies ermöglicht die Live-Übertragung auf mehreren Plattformen gleichzeitig. Es ist geeignet für die meisten Smartphone mit einer Bildschirmbreite von 5,1 bis 8,5 cm.
+- 【Dimmbares Ringlicht】Der Farbtemperatur liegt zwischen 2900k und 5700k. Es gibt drei Beleuchtungsmodi (kühles Weiß, warmes Weiß und warmes Gelb mit 10-stufiger Helligkeit). Erfüllen Sie die Bedürfnisse verschiedener Charaktere in verschiedenen Szenen und bringen Sie verschiedene fotogene Effekte.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KD2X75N/?tag=tolees0ca-21)
