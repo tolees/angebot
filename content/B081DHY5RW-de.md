@@ -29,9 +29,9 @@ Sie können [Lavazza Kaffeebohnen - Qualita Oro Mountain Grown - 1er Pack  1 x 5
 ℹ️:
 
 - 100 % Arabica Kaffeebohnen aus dem Hochgebirge von bis zu 2000m
-- Ausgewogener Kaffee mit einer mittleren Röstung
 - Ideal für alle Espresso-Kaffeemaschine Packung: 500 g
-- Goldene Crema und eine florale, fruchtige Note runden das italienische Kaffee-Erlebnis ab
 - Qualità Oro steht für Lavazzas Kunst, vielfältige und außergewöhnliche Kaffees zu mischen
+- Goldene Crema und eine florale, fruchtige Note runden das italienische Kaffee-Erlebnis ab
+- Ausgewogener Kaffee mit einer mittleren Röstung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B081DHY5RW/?tag=tolees0ca-21)
