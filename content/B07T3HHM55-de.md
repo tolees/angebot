@@ -29,11 +29,11 @@ Sie können [Sony WF-1000XM3 vollkommen kabellose Bluetooth Kopfhörer / Earbuds
 ℹ️:
 
 - True Wireless Kopfhörer mit branchenführendem Noise Cancelling. Frequency Response :20 Hz–20,000 Hz
-- *Stand: 1. Juni 2019. Gemäß Untersuchungen der Sony Corporation basierend auf den JEITA-konformen Richtlinien auf dem Markt für komplett kabellose Kopfhörer mit Noise Cancelling.
-- Stabile Bluetooth Verbindung, Ergonomische Passform für sicheren Halt
 - Sony empfiehlt immer die neueste verfügbare Software auf Ihrem Gerät zu installieren. Update Benachrichtigungen für WF-1000XM3 und die Updates selbst, werden über die Sony Headphones Connect App bereitgestellt. Die App ist kostenlos im Google Play Store und im Apple Store verfügbar
-- Bis zu 8 Std. Akkulaufzeit + 3 zusätzliche Aufladungen durch die mitgelieferte Ladestation
 - Manchmal können sich die kabellosen Kopfhörer mit Geräuschunterdrückung sofort ausschalten, nachdem Sie sie in das Ladeetui gelegt haben. Dies kann passieren, wenn die verbleibende Akkuladung im Ladekoffer niedrig ist. Laden Sie das Ladeetui mit dem mitgelieferten USB Typ-C auf. HINWEIS: Der WF-1000XM3-Kopfhörer erfordert die Firmware-Version 2.0.2 oder höher
+- Bis zu 8 Std. Akkulaufzeit + 3 zusätzliche Aufladungen durch die mitgelieferte Ladestation
+- Stabile Bluetooth Verbindung, Ergonomische Passform für sicheren Halt
 - Da Amazon Alexa Cloud-basiert ist, lernt sie kontinuierlich dazu. Bitten Sie Alexa, Musik abzuspielen, Nachrichten vorzulesen, das Wetter zu überprüfen, Ihr Smart Home zu steuern und vieles mehr.
+- *Stand: 1. Juni 2019. Gemäß Untersuchungen der Sony Corporation basierend auf den JEITA-konformen Richtlinien auf dem Markt für komplett kabellose Kopfhörer mit Noise Cancelling.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07T3HHM55/?tag=tolees0ca-21)

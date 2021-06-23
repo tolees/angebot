@@ -28,10 +28,10 @@ Es gibt ein [Sony SRS-XB13 Bluetooth-Lautsprecher  kompakt  robust  wasserabweis
 
 ℹ️:
 
-- Der SRS-XB13 ist kompakt, leicht und einfach zu transportieren. Er verfügt über einen praktischen, abnehmbaren Gurt, mit dem Sie Ihren kabellosen Lautsprecher tragen oder aufhängen können, wo immer Sie möchten. Er ist in 6 tollen Farben erhältlich.
-- Nehmen Sie ihn überall mit! Dieser tragbare Lautsprecher ist wasser- und staubdicht (IP67). Er ist sogar vor UV-Strahlen geschützt. Mit einer Akkulaufzeit von bis zu 16 Stunden und einer Akkulaufzeit-Anzeige auf Ihrem Smartphone müssen Sie sich keine Sorgen machen, dass die Musik plötzlich aufhört.
 - Erzeugen Sie weitreichenden Stereo-Surround-Sound, indem Sie zwei SRS-XB13 Extra Bass-Lautsprechermodelle miteinander verbinden.
-- Genießen Sie kraftvollen Surround-Sound, tiefe, satte Bässe und klaren Gesang, dank des Prozessors zur Sound-Verteilung mit Extra Bass, Breitbandlautsprecher und Passivradiator.
 - Bleiben Sie in Verbindung und genießen Sie qualitativ hochwertige Freisprechanrufe mit Ihrem SRS-XB13.
+- Genießen Sie kraftvollen Surround-Sound, tiefe, satte Bässe und klaren Gesang, dank des Prozessors zur Sound-Verteilung mit Extra Bass, Breitbandlautsprecher und Passivradiator.
+- Nehmen Sie ihn überall mit! Dieser tragbare Lautsprecher ist wasser- und staubdicht (IP67). Er ist sogar vor UV-Strahlen geschützt. Mit einer Akkulaufzeit von bis zu 16 Stunden und einer Akkulaufzeit-Anzeige auf Ihrem Smartphone müssen Sie sich keine Sorgen machen, dass die Musik plötzlich aufhört.
+- Der SRS-XB13 ist kompakt, leicht und einfach zu transportieren. Er verfügt über einen praktischen, abnehmbaren Gurt, mit dem Sie Ihren kabellosen Lautsprecher tragen oder aufhängen können, wo immer Sie möchten. Er ist in 6 tollen Farben erhältlich.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08YF1T4SW/?tag=tolees0ca-21)
