@@ -28,10 +28,10 @@ Es gibt ein [HUMMEL GO COTTON ZIP HOODIE Sweatshirt  India Ink  S](https://www.a
 
 ℹ️:
 
+- Sportliche Schulterpartien Logo
 - Sportliche Schulterchevrons
 - Durchgehender Reißverschluss
 - Roll-Top-Tunnelzugkragen
-- Sportliche Schulterpartien Logo
 - Ein subtil gedrucktes hummel Logo
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08DL8MXPW/?tag=tolees0ca-21)
