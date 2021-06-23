@@ -29,9 +29,9 @@ Es gibt ein [Corsair 5000D Mid-Tower-ATX-PC-Gehäuse mit Gehärtetem Glas  Front
 ℹ️:
 
 - Geradlinig und cool: Das 5000D ermöglicht einen eindrucksvollen PC, der sich nicht nur einfach bauen, sondern dank der Geräumigkeit und Flexibilität für den Einbau mehrerer Radiatoren
+- Frontverkleidung aus robustem Stahl: Sorgt für hohe Langlebigkeit und eine coole Optik, während breite Lüftungskanäle zu einem optimalen Luftstrom beitragen
 - Zwei im Lieferumfang enthaltene 120-mm-Lüfter: CORSAIR AirGuide-Lüfter sind mit wirbelbildungsverhindernden Flügeln ausgestattet, die zu einem konzentrierten Luftstrom
 - Mainboard-Tray mit anpassbaren Lüfterhalterungen: An der Seite lassen sich bis zu drei 120-mm-Lüfter oder ein 360-mm-Radiator montieren und somit flexible Kühlungsoptionen erzielen
 - CORSAIR RapidRoute-Kabelführungssystem: Dieses System bietet Ihnen eine schnelle und einfache Möglichkeit, Ihre wichtigsten Kabel durch einen einzelnen verborgenen Kanal zu verlegen
-- Frontverkleidung aus robustem Stahl: Sorgt für hohe Langlebigkeit und eine coole Optik, während breite Lüftungskanäle zu einem optimalen Luftstrom beitragen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08M49W6NX/?tag=tolees0ca-21)
