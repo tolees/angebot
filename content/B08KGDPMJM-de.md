@@ -28,10 +28,10 @@ Es gibt ein [LEDVANCE Smarte LED Gartenleuchte mit WiFi Technologie  Basispaket 
 
 ℹ️:
 
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
-- RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
-- Steuerung über Google Assistant oder Amazon Alexa möglich
 - Schutzklasse (Dots): IP65
+- RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
+- Steuerung über Google Assistant oder Amazon Alexa möglich
 - Dimmbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KGDPMJM/?tag=tolees0ca-21)
