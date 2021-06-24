@@ -28,10 +28,10 @@ Es gibt ein [Gigandet Herrenuhr Chronograph Quarzwerk Analog mit Lederarmband Vo
 
 ℹ️:
 
-- Gehärtetes, kratzfestes Mineralglas
-- Sportlicher Chronograph mit einer Wasserdichtigkeit von 10atm (100m)
 - Tachymeter-Skala zur Ermittlung der Durchschnittsgeschwindigkeit
 - Massives Edelstahlgehäuse (316L), das Höchsten Ansprüchen genügtMassives Edelstahlgehäuse (316L), das Höchsten Ansprüchen genügt
+- Sportlicher Chronograph mit einer Wasserdichtigkeit von 10atm (100m)
 - Chronographen-Uhrwerk von Citizen-Miyota, Kaliber JS25
+- Gehärtetes, kratzfestes Mineralglas
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DHMQZE8/?tag=tolees0ca-21)
