@@ -28,9 +28,9 @@ Sie können [STONELINE® XXL Bräter 43 x 26 cm | mit Aluguss-Deckel | Deckel al
 
 ℹ️:
 
-- LEICHTE REINIGUNG - Der Easy-Clean-Effekt erlaubt es, das Kochgeschirr durch einfaches Auswischen mit einem nassen Tuch zu reinigen, natürlich ist das Kochgeschirr auch spülmaschinengeeignet.
 - KRATZFESTE STONELINE - ANTIHAFTBESCHICHTUNG - Weltweit einzige Antihaft-Beschichtung mit echten Steinpartikeln. Die speziell entwickelte STONELINE Beschichtung, zeichnet sich durch optimale Antihaft-Eigenschaften bei gleichzeitig robuster und kratzfester Oberfläche aus.
 - FÜR ALLE HERDARTEN GEEIGNET - Einsetzbar für Gas-, Glaskeramik-, Induktion- und Elektrokochfelder, extra starker, verzugsfreier Boden, backofengeeignet bis 260 °C, induktionsgeeignet
+- LEICHTE REINIGUNG - Der Easy-Clean-Effekt erlaubt es, das Kochgeschirr durch einfaches Auswischen mit einem nassen Tuch zu reinigen, natürlich ist das Kochgeschirr auch spülmaschinengeeignet.
 - LIEFERUMFANG - 1 x STONELINE XXL Rechteck-Bräter, 42,8 x 26,2 cm; Höhe ca. 12,2 cm; Fassungsvermögen ca. 7,8 L; Induktionsboden: ca. 24 x 12,5 cm; 1 x Aluguss-Deckel, 42,8 x 26,2 cm; Höhe ca. 5,6 cm; Fassungsvermögen ca. 3,4 L; Material: Aluminium
 - OHNE FETT & ÖL KOCHEN UND BRATEN - STONELINE Kochgeschirr ermöglicht ein fett- und ölfreies Braten von Fleisch und Fisch, kann aber auch wie gewohnt zum Braten mit Fett oder Öl genutzt werden.
 

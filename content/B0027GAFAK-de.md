@@ -28,10 +28,10 @@ Sie können [TFA Dostmann Analoges Backofenthermometer  14.1004.60  aus Metall  
 
 ℹ️:
 
-- klein
-- Bi-Metall-Fühler
-- handlich
-- Farbe: Silber
 - Edelstahlgehäuse
+- klein
+- handlich
+- Bi-Metall-Fühler
+- Farbe: Silber
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0027GAFAK/?tag=tolees0ca-21)

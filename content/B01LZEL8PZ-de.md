@@ -28,10 +28,10 @@ Es gibt ein [Panasonic Schallzahnbürste EW-DM81 mit Soft-Start-Funktion](https:
 
 ℹ️:
 
-- 2-Minuten-Putz-Timer mit 30-Sekunden-Intervallen
-- Soft-Start-Funktion
-- Ca. 30 Min. Dauerbetrieb für 1 Woche Anwendung
 - Reinigung der Zahnfleischtaschen durch extra-feine weiche Borstenspitzen
 - Schallzahnbürste mit 31.000 Schwingungen pro Minute
+- Ca. 30 Min. Dauerbetrieb für 1 Woche Anwendung
+- Soft-Start-Funktion
+- 2-Minuten-Putz-Timer mit 30-Sekunden-Intervallen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01LZEL8PZ/?tag=tolees0ca-21)

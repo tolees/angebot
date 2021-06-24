@@ -29,7 +29,7 @@ Es gibt ein [Vulli Sophie La Giraffe Fresh Touch 516910 Dose](https://www.amazon
 ℹ️:
 
 - Gewicht: 82 g.
-- 100% Naturkautschuk.
 - Maße: 3 x 9 x 18 cm.
+- 100% Naturkautschuk.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BEDAVH4/?tag=tolees0ca-21)
