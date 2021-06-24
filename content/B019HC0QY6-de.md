@@ -29,8 +29,8 @@ Es gibt ein [Yankee Candle Matrix Brushed Illumalid  silber](https://www.amazon.
 ℹ️:
 
 - hält Zugluft ab
-- Material: Metall
 - Accessoire Linie: Matrix Brushed Silver
 - gewährleistet ein ruhiges abbrennen der Kerze
+- Material: Metall
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B019HC0QY6/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [LIQUI MOLY 3530 LM 47 Langzeitfett + MoS2 1 kg](https://www.amazon.
 
 ℹ️:
 
+- Für homokinetische Antriebsgelenke.
 - Für hoch belastete Lager und Gelenke, Keilwellen, Gewinde und Führungen.
 - Zur Montage, Wartung und Reparatur von Fahrzeugen, Werkzeug-, Bau-, Land- und Druckmaschinen.
-- Für homokinetische Antriebsgelenke.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004GWSY38/?tag=tolees0ca-21)
