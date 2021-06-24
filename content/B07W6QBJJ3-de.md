@@ -28,11 +28,11 @@ Sie können [LEGO 60257 City Nitro Wheels Tankstelle](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- Vom Hersteller nicht mehr verkauft
 - Diese LEGO Tankstelle strotzt nur so vor coolen Details und Funktionen.
-- Vom Hersteller empfohlenes Alter: 5+
+- Vom Hersteller nicht mehr verkauft
 - Anzahl der Teile: 354
 - Coole Gebäude, Fahrzeuge und Charaktere ermöglichen ein Spielerlebnis ohne Grenzen.
+- Vom Hersteller empfohlenes Alter: 5+
 - Tankstelle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W6QBJJ3/?tag=tolees0ca-21)
