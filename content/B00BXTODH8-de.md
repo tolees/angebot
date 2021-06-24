@@ -28,11 +28,11 @@ Es gibt ein [Vtech 80-145054 - Kidizoom Touch Digitalkamera  pink](https://www.a
 
 ℹ️:
 
-- Für Kinder von fünf bis zwölf Jahren
-- Weiterentwicklung des Top-Sellers Kidizoom
-- Hinweis -Die Kamera hat keinen Akku, sondern wird mit Batterien betrieben
-- Modellnummer 80-145054
 - Gelegentlich kann es hier zu einem Hänger kommen
+- Hinweis -Die Kamera hat keinen Akku, sondern wird mit Batterien betrieben
 - Der Kunde sollte die Batterien einmal für etwa zwei Stunden herausnehmen, damit sich die Kamera zurücksetzen kann
+- Weiterentwicklung des Top-Sellers Kidizoom
+- Für Kinder von fünf bis zwölf Jahren
+- Modellnummer 80-145054
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BXTODH8/?tag=tolees0ca-21)

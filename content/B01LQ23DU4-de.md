@@ -28,12 +28,12 @@ Es gibt ein [Netgear WAC104 WLAN Access Point AC1200 Dual Band 802.11ac 2x2 mit 
 
 ℹ️:
 
-- Maximierte Abdeckung für Einsatz von WLAN Access Points in SOHO-Umgebungen (Small Office und Home Office), einfache schnelle Installation mit intuitiver Benutzeroberfläche
-- WAC104 Access Point bietet allen Nutzern in kleineren Unternehmen, Büro- und Heimnetzwerken Zuverlässigkeit, eine hohe Leistung sowie Kosteneffizienz
 - Herstellergarantie: 3 Jahre. Garantiebedingungen finden Sie unter "Weitere technische Informationen", Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- Dual-Band Parallelbetrieb auf Frequenzbereichen 2,4 GHz + 5 GHz und aktuelle Wireless-Sicherheitsfunktionen (WPA/WPA2)
-- 4x LAN-Anschlüsse mit Auto-Uplink (Auto MDI-X): Computer und andere kabelgebundene Geräte in der Nähe mit 4x 1 Gigabit Ethernet-Ports anschließen
 - Umfassende Systemüberwachung mit webbasiertem Zugriff, unterstützt aktuelle 802.11ac Wireless Clients für maximale Geschwindigkeiten
+- WAC104 Access Point bietet allen Nutzern in kleineren Unternehmen, Büro- und Heimnetzwerken Zuverlässigkeit, eine hohe Leistung sowie Kosteneffizienz
+- Maximierte Abdeckung für Einsatz von WLAN Access Points in SOHO-Umgebungen (Small Office und Home Office), einfache schnelle Installation mit intuitiver Benutzeroberfläche
 - Lieferumfang: Netgear WAC104 Wireless Access Point AC1200, Netzwerkkabel, Netzteil, Installationsanleitung
+- 4x LAN-Anschlüsse mit Auto-Uplink (Auto MDI-X): Computer und andere kabelgebundene Geräte in der Nähe mit 4x 1 Gigabit Ethernet-Ports anschließen
+- Dual-Band Parallelbetrieb auf Frequenzbereichen 2,4 GHz + 5 GHz und aktuelle Wireless-Sicherheitsfunktionen (WPA/WPA2)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01LQ23DU4/?tag=tolees0ca-21)

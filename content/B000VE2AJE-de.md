@@ -28,10 +28,10 @@ Es gibt ein [Metabo Tiefbrunnenpumpe TBP 5000 M  0250500050  Karton  Nennaufnahm
 
 ℹ️:
 
-- Speziell geeignet für große Tiefen wie in Bohrbrunnen und Schächten
-- Zur Gartenbewässerung und Grundwasserförderung, sowie zum Fördern, Auspumpen, Leerpumpen und Umwälzen von Klarwasser
-- Integriertes Rückschlagventil verhindert Leerlaufen der Pumpe beim Abschalten für kurze Wiederanlaufzeit bei erneutem Start
 - Überlastschutz: schützt den Motor vor Überhitzung
 - Lieferumfang:
+- Zur Gartenbewässerung und Grundwasserförderung, sowie zum Fördern, Auspumpen, Leerpumpen und Umwälzen von Klarwasser
+- Integriertes Rückschlagventil verhindert Leerlaufen der Pumpe beim Abschalten für kurze Wiederanlaufzeit bei erneutem Start
+- Speziell geeignet für große Tiefen wie in Bohrbrunnen und Schächten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000VE2AJE/?tag=tolees0ca-21)

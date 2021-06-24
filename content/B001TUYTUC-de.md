@@ -28,10 +28,10 @@ Sie können [Metabo Klarwasser-Tauchpumpe TPF 6600 SN  0250660006  Karton  Nenna
 
 ℹ️:
 
-- Flachsaugend bis zu einem Restwasserstand von 2-3 mm
+- Lieferumfang: Winkelanschlussstück mit Multiadapter, Schwimmerschalter
 - Überlastschutz: schützt den Motor vor Überhitzung
 - Für die Gartenbewässerung aus Wasserreservoirs
-- Lieferumfang: Winkelanschlussstück mit Multiadapter, Schwimmerschalter
+- Flachsaugend bis zu einem Restwasserstand von 2-3 mm
 - Zum Auspumpen, Leerpumpen und Umwälzen von Klarwasser aus Behältern, Wasserbecken oder überschwemmten Kellern
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001TUYTUC/?tag=tolees0ca-21)

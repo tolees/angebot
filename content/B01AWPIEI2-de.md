@@ -28,9 +28,9 @@ Es gibt ein [bkitchen Mini 150 Kompakt-Mikrowelle mit Auftau- und Diamond Cavity
 
 ℹ️:
 
-- FEATURES: Mikrowellenherd 600 Watt mit Glasdrehteller (Ø 25,5 cm), 7 Leistungsstufen
-- ABMESSUNGEN INNEN (B x H x T): 27,5 x 17,8 x 27,9 cm
 - FUNKTIONEN: Auftau Funktion und Diamond Cavity Funktion für gleichmäßiges Erwärmen der Speisen
 - LIEFERUMFANG: Mikrowelle, Glasdrehteller, unfangreiche Bedienungsanleitung mit Aufwärm- , Auftautabelle und 10+1 Rezepten
+- FEATURES: Mikrowellenherd 600 Watt mit Glasdrehteller (Ø 25,5 cm), 7 Leistungsstufen
+- ABMESSUNGEN INNEN (B x H x T): 27,5 x 17,8 x 27,9 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01AWPIEI2/?tag=tolees0ca-21)

@@ -28,7 +28,7 @@ Es gibt ein [Original Einhell Ersatzmesser-Set Rasentrimmer-Zubehör  20 Stück 
 
 ℹ️:
 
-- Inhalt: 20 Stück
 - Passend zu Akku-Rasentrimmer BG-CT 18 Li, RG-CT 18/1 Li, GE-CT 18 Li, GC-CT 18/24 und GC-CT 18/24 P
+- Inhalt: 20 Stück
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0051F8EZW/?tag=tolees0ca-21)

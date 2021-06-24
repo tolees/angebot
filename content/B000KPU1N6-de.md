@@ -29,9 +29,9 @@ Es gibt ein [TechniSat 2-Wege Sat-Verteiler  diodenentkoppelter 2-Wege Verteiler
 ℹ️:
 
 - Lieferumfang: 2-Wege Sat-Verteiler
-- Zur 2-fachen Verteilung oder Zusammenführung von Sat-Signalen
 - Der Verteiler arbeitet im Frequenzbereich 5 - 2150 MHz und besitzt ein- und ausgangsseitig jeweils F-Buchsen
 - Einsetzbar in allen TechniRouter-Anlagen
+- Zur 2-fachen Verteilung oder Zusammenführung von Sat-Signalen
 - Breitbandiger, passiver Verteiler mit Diodenentkopplung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000KPU1N6/?tag=tolees0ca-21)
