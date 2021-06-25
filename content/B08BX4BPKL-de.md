@@ -28,10 +28,10 @@ Es gibt ein [Razer DeathAdder V2 Mini - Kabelgebundene Gaming Maus mit rutschfes
 
 ℹ️:
 
-- ULTRA LEICHTES ERGONOMISCHES DESIGN (62 G): Unsere leichteste Maus ermöglicht schnelle, flüssige Bewegungen bei voller Kontrolle, ohne Abstriche bei der Verarbeitung – mit 6 programmierbaren Tasten für einen noch höheren praktischen Nutzen
-- OPTISCHE MAUS-SWITCHES VON RAZER: Jeder Klick wird mit Lichtgeschwindigkeit ausgeführt, ganz ohne Entprell-Verzögerung, damit der eigener Schuss immer der erste ist. Die Switches zeichnen sich durch eine Haltbarkeit von bis zu 70 Millionen Klicks aus
-- OPTISCHER SENSOR MIT 8.500 DPI: Ultimative Präzision und Zielgenauigkeit für Gaming auf Turnierniveau, dank eines optischen Sensors, der die perfekte Mischung aus Geschwindigkeit und Kontrolle bietet
-- RUTSCHFESTES GRIP-TAPE: Ob Palm-, Claw- oder Finger-Grip, ganz gleich, mit welchem Griffstil die Maus auch festgehalten wird, die schweißabsorbierende Oberfläche rutscht niemals aus der Hand, auch wenn sie feucht werden sollte
 - RAZER SPEEDFLEX-KABEL: Das Kabel der Razer DeathAdder V2 Mini ist noch elastischer und hat nur einen minimalen Zugwiderstand, damit sie sich noch schneller und sauberer bei maximaler Kontrolle bewegen lässt
+- ULTRA LEICHTES ERGONOMISCHES DESIGN (62 G): Unsere leichteste Maus ermöglicht schnelle, flüssige Bewegungen bei voller Kontrolle, ohne Abstriche bei der Verarbeitung – mit 6 programmierbaren Tasten für einen noch höheren praktischen Nutzen
+- OPTISCHER SENSOR MIT 8.500 DPI: Ultimative Präzision und Zielgenauigkeit für Gaming auf Turnierniveau, dank eines optischen Sensors, der die perfekte Mischung aus Geschwindigkeit und Kontrolle bietet
+- OPTISCHE MAUS-SWITCHES VON RAZER: Jeder Klick wird mit Lichtgeschwindigkeit ausgeführt, ganz ohne Entprell-Verzögerung, damit der eigener Schuss immer der erste ist. Die Switches zeichnen sich durch eine Haltbarkeit von bis zu 70 Millionen Klicks aus
+- RUTSCHFESTES GRIP-TAPE: Ob Palm-, Claw- oder Finger-Grip, ganz gleich, mit welchem Griffstil die Maus auch festgehalten wird, die schweißabsorbierende Oberfläche rutscht niemals aus der Hand, auch wenn sie feucht werden sollte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08BX4BPKL/?tag=tolees0ca-21)
