@@ -28,11 +28,11 @@ Es gibt ein [Withings ScanWatch mit Zusatzarmband im Bundle - Hybrid Smartwatch 
 
 ℹ️:
 
-- ELEKTROKARDIOGRAMM – Erkennen Sie Vorhofflimmern oder normalen Herzrhythmus und überwachen Sie niedrige und hohe Herzfrequenz in nur 30 Sekunden per EKG
 - SCHLAFTRACKING – Liefert einen Schlaf-Index basierend auf Ihren leichten und tiefen Schlafphasen, der Schlafdauer und den Wachphasen
-- ÜBERWACHUNG DER HERZFREQUENZ – Verfolgen Sie die Herzfrequenz kontinuierlich während eines Workouts, um Ihr Training zu optimieren, und überwachen Sie die Herzfrequenz sowohl tagsüber als auch nachts, um Ihre Gesundheit im Laufe der Zeit zu verbessern
 - ERKENNUNG VON ATMUNGSSTÖRUNGEN – Überwachen Sie nächtliche Atmungsstörungen um ein mögliches Risiko für Schlafapnoe zu erkennen
-- HANDGELENK-OXIMETRIE – Liefert auf Abruf einen Sauerstoffsättigungsgrad (SpO2) in medizinischer Qualität in nur 30 Sekunden
 - HERZ-SCAN – Überprüfen Sie den Herzschlag und erhalten Sie Benachrichtigungen, wenn die Herzfrequenz atypisch ist (niedrig oder hoch) und wenn unregelmäßige Rhythmen festgestellt werden
+- ÜBERWACHUNG DER HERZFREQUENZ – Verfolgen Sie die Herzfrequenz kontinuierlich während eines Workouts, um Ihr Training zu optimieren, und überwachen Sie die Herzfrequenz sowohl tagsüber als auch nachts, um Ihre Gesundheit im Laufe der Zeit zu verbessern
+- ELEKTROKARDIOGRAMM – Erkennen Sie Vorhofflimmern oder normalen Herzrhythmus und überwachen Sie niedrige und hohe Herzfrequenz in nur 30 Sekunden per EKG
+- HANDGELENK-OXIMETRIE – Liefert auf Abruf einen Sauerstoffsättigungsgrad (SpO2) in medizinischer Qualität in nur 30 Sekunden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08M6NP12T/?tag=tolees0ca-21)

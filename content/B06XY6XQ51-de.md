@@ -29,9 +29,9 @@ Sie können [Jumbo Spiele 19498 Spiele - Spiel des Wissens - Gesellschaftsspiel 
 ℹ️:
 
 - Das Spiel enthält 2000 Fragen in 2 Schwierigkeitsstufen und aus 6 verschiedenen Kategorien.
-- Galaktischer Spiel- und Ratespaß für die ganze Familie: Ein Quizspiel mit leichten Fragen für die Kinder und schwerere Fragen für die Erwachsenen.
-- Inhalt: 1 Spielbrett, 1 Kartenspender, 6 Spielfiguren, 36 Planetenringe, 126 Fragekarten Allgemeinwissen, 126 Fragekarten Spezialwissen, 1 Würfel
 - Das Spiel eignet sich für 2 bis 6 Spieler ab einem Alter von 8 Jahren!
+- Inhalt: 1 Spielbrett, 1 Kartenspender, 6 Spielfiguren, 36 Planetenringe, 126 Fragekarten Allgemeinwissen, 126 Fragekarten Spezialwissen, 1 Würfel
+- Galaktischer Spiel- und Ratespaß für die ganze Familie: Ein Quizspiel mit leichten Fragen für die Kinder und schwerere Fragen für die Erwachsenen.
 - Fliege durch das Weltall, beantworte die Fragen richtig und sammle alle Planetenringe. Wer als Erster den Planeten Galaxia erreicht, gewinnt!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XY6XQ51/?tag=tolees0ca-21)
