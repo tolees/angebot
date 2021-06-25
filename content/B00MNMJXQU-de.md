@@ -28,10 +28,10 @@ Es gibt ein [Roccat Elo 7.1 USB - Surround-Sound RGB PC Gaming Headset](https://
 
 ℹ️:
 
-- Ein selbstjustierender Metallkopfbügel und die drehbaren Scharniere der Hörmuschel sorgen für einen schwerelosen, dynamischen Sitz, der speziell auf dich abgestimmt ist.
-- Dank eines abnehmbaren Mikrofons mit TruSpeak-Technologie werden Nebengeräusche unterdrückt, was eine kristallklare Kommunikation mit den Teamkollegen gewährleistet.
-- Herausragender 7.1-Surround-Sound mit feinabgestimmten 50-mm-Treibern zur Ortung feindlicher Positionen.
-- Erstklassige Memory-Schaumpolsterung mit ProSpecs Glasses Relief System entlastet den Druck auf die Brille.
 - Das AIMO-Beleuchtungssystem lässt sich leicht mit anderen AIMO-kompatiblen Geräten kombinieren, um eine lebendige Lichtästhetik zu schaffen.
+- Dank eines abnehmbaren Mikrofons mit TruSpeak-Technologie werden Nebengeräusche unterdrückt, was eine kristallklare Kommunikation mit den Teamkollegen gewährleistet.
+- Erstklassige Memory-Schaumpolsterung mit ProSpecs Glasses Relief System entlastet den Druck auf die Brille.
+- Herausragender 7.1-Surround-Sound mit feinabgestimmten 50-mm-Treibern zur Ortung feindlicher Positionen.
+- Ein selbstjustierender Metallkopfbügel und die drehbaren Scharniere der Hörmuschel sorgen für einen schwerelosen, dynamischen Sitz, der speziell auf dich abgestimmt ist.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MNMJXQU/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Heller Bionic Hammerbohrer SDS-plus 12mm x 160mm](https://www.amazo
 
 ℹ️:
 
+- Twinmax 3D Wendel für hochwirksamen Bohrmehltransport und minimale Staubverpuffung auch in tiefen Bohrlöchern
 - Mit eingelassenem Hartmetallkopf für äußerste Widerstandsfähigkeit in Armierung und kraftvollen Bohrfortschritt Bester Bohrfortschritt durch optimierte Hartmetallschneide
 - Erfolgreichster Heller Hammerbohrer aller Zeiten mit patentiertem Hartmetall Bohrkopf und geringe Vibration
-- Zweischneider für Beton und Armierung Extrem robust mit hohen Standzeiten durch patentierten Bohrkopf
 - 1 Stück
-- Twinmax 3D Wendel für hochwirksamen Bohrmehltransport und minimale Staubverpuffung auch in tiefen Bohrlöchern
+- Zweischneider für Beton und Armierung Extrem robust mit hohen Standzeiten durch patentierten Bohrkopf
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000VKK0IG/?tag=tolees0ca-21)
