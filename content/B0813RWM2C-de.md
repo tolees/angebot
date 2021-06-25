@@ -28,8 +28,8 @@ Es gibt ein [LEGO 41429 Friends Heartlake City Flugzeug Spielzeug ab 7 Jahren  S
 
 ℹ️:
 
-- Beinhaltet auch bewegliche Einstiegsstufen, TV-Bildschirme, einen Check-in-Schalter mit Röntgenstrahlung sowie einen Gepäckraum, wo das Gepäck aufbewahrt werden kann
 - Das Set enthält ein Flugzeug Spielzeug mit 3 abnehmbaren Dachteilen, offenen Gepäckräum sowie detaillierten Cockpit- und Passagierbereich
+- Beinhaltet auch bewegliche Einstiegsstufen, TV-Bildschirme, einen Check-in-Schalter mit Röntgenstrahlung sowie einen Gepäckraum, wo das Gepäck aufbewahrt werden kann
 - Kinder können einchecken, um in den Urlaub zu fahren, sowie Koffer einpacken, Flugzeugessen servieren, Filme anschauen oder den Pilot im Kokpit besuchen
 - Ein tolles Spielzeug für Mädchen und Jungen ab 7 Jahren, perfekt als Weihnachts- oder auch Geburtstagsgeschenk Die Teile sind auch mit anderen LEGO-Sets kompatibel
 - Enthält Mini Puppen Stephanie, Olivia und Captain Ashley, eine Hundefigur, sowie jede Menge lustiges Flugzeug- und Urlaubszubehör
