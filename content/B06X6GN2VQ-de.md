@@ -28,8 +28,8 @@ Es gibt ein [LEGO 17101 Boost Programmierbares Roboticset  5-in-1 App-gesteuerte
 
 ℹ️:
 
-- LEGO Boost Bauspielzeug ist kompatibel mit allen LEGO Bausets für kreatives Bauen
 - Einen von fünf multifunktionalen Robotern bauen und ihn mithilfe der intuitiv bedienbaren LEGO Boost App spannende Aktivitäten ausführen
+- LEGO Boost Bauspielzeug ist kompatibel mit allen LEGO Bausets für kreatives Bauen
 - Roboter 27 cm hoch Katze 17 cm groß MTR4 12 cm hoch, 23 cm lang, 14 cm breit
 - Guitar4000 5 cm hoch, 42 cm lang, 14 cm breit
 - 847 Teile - Für Jungen und Mädchen zwischen 7 und 12 Jahren
