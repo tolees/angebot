@@ -28,9 +28,9 @@ Sie können [HP F6V97AA#ABB Externes USB Laufwerk  für CD  DVD  schwarz](https:
 
 ℹ️:
 
-- Lieferumfang: HP Externes Laufwerk schwarz
 - Abmessungen: 144 x 137.5 x 14 mm
 - Laufwerk passend für Microsoft Windows XP SP3/ Vista/ 7 / 8; Mac OS 10.5.4 oder höher
+- Lieferumfang: HP Externes Laufwerk schwarz
 - Das mobile Laufwerk mit USB Schnittschnelle und 9,5 mm Höhe ist kompakt, elegant und schnell
 - Schnelles Beschreiben, Löschen und Neubeschreiben von CD oder DVD
 
