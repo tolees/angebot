@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '26.56 % rabat auf Lego Minecraft - Lego 21151 Minecraft Da'
-date: 2021-06-20 12:05:28
+title: '25.01 % rabat auf Lego Minecraft - Lego 21151 Minecraft Da'
+date: 2021-06-26 08:22:09
 image: 'https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07FNN12PH-de Lego Minecraft - Lego 21151 Minecraft Das letzte Gefecht...'
 sku: 'B07FNN12PH-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego minecraft', ]
-actualPrice: 14.68 EUR
+actualPrice: 14.99 EUR
 currency: EUR
-price: 14.68
+price: 14.99
 comparePrice: 19.99 EUR
 prodname: 'Lego Minecraft - Lego 21151 Minecraft Das letzte Gefecht  Bauset'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Lego Minecraft'
 buyurl: 'https://www.amazon.de/dp/B07FNN12PH/?tag=tolees0ca-21'
-descuento: '26.56'
-average: '15.5783333333332'
+descuento: '25.01'
+average: '15.7161363636362'
 ---
 
-Es gibt ein [Lego Minecraft - Lego 21151 Minecraft Das letzte Gefecht  Bauset](https://www.amazon.de/dp/B07FNN12PH/?tag=tolees0ca-21) mit aktuellem Preis 14.68 EUR (original: 19.99 EUR) 26.56 % Rabatt hier:
+Es gibt ein [Lego Minecraft - Lego 21151 Minecraft Das letzte Gefecht  Bauset](https://www.amazon.de/dp/B07FNN12PH/?tag=tolees0ca-21) mit aktuellem Preis 14.99 EUR (original: 19.99 EUR) 25.01 % Rabatt hier:
 
 [![Lego Minecraft - Lego 21151 Minecraft Da](https://m.media-amazon.com/images/I/51Mb8HGOLvL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07FNN12PH/?tag=tolees0ca-21)
 
