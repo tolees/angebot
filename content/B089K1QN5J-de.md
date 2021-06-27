@@ -28,10 +28,10 @@ Sie können [AISITIN Solar Springbrunnen mit 3.0W Solar Panel  Solar Teichpumpe 
 
 ℹ️:
 
-- ☀ 【3.0W Solar panel】: Diese schwimmende Solarbrunnen wasserpumpe wird auf 3W hochwertige Solarpanele erhöht, damit die Wasserpumpe auch bei schwachem Sonnenlicht kontinuierlich arbeiten kann.
 - ☀ 【Mehrfachanwendung】: Diese Solarpumpe ist perfekt für Vogelbad, Aquarium, kleinen Teich, Pool, Garten, Wasserkreislauf für Sauerstoff. Ihr Garten würde auf jeden Fall die Aufmerksamkeit der Passanten auf sich ziehen. Lassen Sie Ihren Garten von der Solarwasserpumpe so amüsant dekoriert aussehen.
-- ☀【 Hilfreiche Tipps】: Das Produkt verfügt über einen automatischen Abschaltschutz und stoppt automatisch, wenn es das Wasser verlässt. Längere Lebensdauer. Sie sollten die Pumpe regelmäßig reinigen, um zu verhindern, dass die Pumpe durch Staub verstopft wird.
 - ☀【 6 verschiedene Wassersprühgeräte】: 6 verschiedene Düsen können Ihre unterschiedlichen Anforderungen an die Wassersäule Höhe oder Wassersäule Form. Die Höhe kann durch Wechseln der Düsen eingestellt werden, um ein Verschütten aus dem Becken zu vermeiden. Sie können den Sprühkopf leicht wechseln.
 - ☀ 【 Umweltfreundliche Batterie】: Diese Solar-Schwimmbrunnen Wasserpumpe eingebaute Batterie, automatische Speicherung von Sonnenenergie, echte grüne Solarwasserpumpe. Es nutzt die Sonnenenergiequelle voll aus, es wird noch für eine Stunde nach Einbruch der Dunkelheit verwendet, was sehr ist umweltfreundlich.
+- ☀ 【3.0W Solar panel】: Diese schwimmende Solarbrunnen wasserpumpe wird auf 3W hochwertige Solarpanele erhöht, damit die Wasserpumpe auch bei schwachem Sonnenlicht kontinuierlich arbeiten kann.
+- ☀【 Hilfreiche Tipps】: Das Produkt verfügt über einen automatischen Abschaltschutz und stoppt automatisch, wenn es das Wasser verlässt. Längere Lebensdauer. Sie sollten die Pumpe regelmäßig reinigen, um zu verhindern, dass die Pumpe durch Staub verstopft wird.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B089K1QN5J/?tag=tolees0ca-21)

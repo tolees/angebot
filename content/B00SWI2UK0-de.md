@@ -28,11 +28,11 @@ Es gibt ein [TP-Link TL-PA8030P KIT 1300Mbit/s 6x Gigabit Ports Passthrough Stec
 
 ℹ️:
 
-- Einfache Installation dank Plug & Play, keine Konfiguration erforderlich; kompatibel mit anderen Adaptern (auch zu der AV1200 Serie)
-- 3 Gigabit-LAN-Ports zum Einbinden von Netzwerkgeraten wie Fernseher, Spielekonsolen oder Laptops ins Internet. Die integrierte Frontsteckdose sorgt dafür, dass kein Steckplatz verloren geht
-- Powerline-Geschwindigkeit bis zu 1,3 Gbit/s nach dem derzeit schnell Standard Homeplug AV2 über bestehende Stromleitungen, ideal für unterbrechungsfreies HD-Videostreaming und Onlinegaming
-- Die maximale theoretisch erreichbare Datentransferrate ist von Homeplug-AV2-Spezifikationen abgleitet. Die tatsächliche Datentransferrate kann je nach Umgebungsfaktoren und Qualität der Elektroinstallationssysteme variieren
-- Lieferumfang: 2x Powerline-Adapter TL-PA8030P, 2m-RJ45-Ethernetkabel, CD, Schnellinstallationsanleitung
 - Patentierter Energiesparmodus senk den Stromverbrauch automatisch um bis zu 85%. Betriebstemperatur: 0°C ~ 40°C
+- Powerline-Geschwindigkeit bis zu 1,3 Gbit/s nach dem derzeit schnell Standard Homeplug AV2 über bestehende Stromleitungen, ideal für unterbrechungsfreies HD-Videostreaming und Onlinegaming
+- Lieferumfang: 2x Powerline-Adapter TL-PA8030P, 2m-RJ45-Ethernetkabel, CD, Schnellinstallationsanleitung
+- Die maximale theoretisch erreichbare Datentransferrate ist von Homeplug-AV2-Spezifikationen abgleitet. Die tatsächliche Datentransferrate kann je nach Umgebungsfaktoren und Qualität der Elektroinstallationssysteme variieren
+- 3 Gigabit-LAN-Ports zum Einbinden von Netzwerkgeraten wie Fernseher, Spielekonsolen oder Laptops ins Internet. Die integrierte Frontsteckdose sorgt dafür, dass kein Steckplatz verloren geht
+- Einfache Installation dank Plug & Play, keine Konfiguration erforderlich; kompatibel mit anderen Adaptern (auch zu der AV1200 Serie)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00SWI2UK0/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Sie können [PUMA Sneakersocken 18 Paar Pack Statement Edition - Damen und Herre
 
 ℹ️:
 
-- Ideal geeignet für alle sportlichen und Freizeit-Aktivitäten.
 - Flache Zehennaht zur Vermeidung von Reizungen.
+- Ideal geeignet für alle sportlichen und Freizeit-Aktivitäten.
 - Material: 80% Baumwolle, 16% Polyester, 3% Polyamid, 1% Elasthan
 - DER Bestseller von PUMA als Special 18-Paar-Pack Edition.
 

@@ -28,10 +28,10 @@ Sie können [Oxford Collegeblock A4 kariert  80 Blatt  Rot  5er Pack](https://ww
 
 ℹ️:
 
-- Mit 80 Blatt, das bedeutet 160 beschreibbare Seiten je Block, mit spezieller Abreißhilfe sowie einer extra-feinen Mikroperforation lassen sich Seiten einfach und sauber heraustrennen
-- Lineatur 28 - der Schreibblock ist kariert (5 x 5 mm) und hat einen Rand an der rechten und linken Seite jedes Blattes
-- Hochwertiger DIN A4 Collegeblock im 5er Pack, die einzelnen Seiten lassen sich durch die seitliche Spirale umblättern
-- Mithilfe der vier Eckmarkierungen auf dem Papier können die Notizen originalgetreu gescannt, gespeichert und organisiert werden mit der kostenlosen App SCRIBZEE
 - Hoher Schreibkomfort durch das seidenglatte, hochweiße 90g/m² Optik Paper - kein Verlaufen der Tinte und "Schönschreibeffekt"
+- Lineatur 28 - der Schreibblock ist kariert (5 x 5 mm) und hat einen Rand an der rechten und linken Seite jedes Blattes
+- Mit 80 Blatt, das bedeutet 160 beschreibbare Seiten je Block, mit spezieller Abreißhilfe sowie einer extra-feinen Mikroperforation lassen sich Seiten einfach und sauber heraustrennen
+- Mithilfe der vier Eckmarkierungen auf dem Papier können die Notizen originalgetreu gescannt, gespeichert und organisiert werden mit der kostenlosen App SCRIBZEE
+- Hochwertiger DIN A4 Collegeblock im 5er Pack, die einzelnen Seiten lassen sich durch die seitliche Spirale umblättern
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08BCNFY7J/?tag=tolees0ca-21)
