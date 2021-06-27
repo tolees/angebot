@@ -28,10 +28,10 @@ Sie können [BIC Kugelschreiber 4 Colours Pro  mit schwarzem Schafft  12er Pack 
 
 ℹ️:
 
-- Lieferumfang: BIC Kugelschreiber mehrfarbig / Kuli Set mit 12 Vierfarbenstiften / 4 Farben in einem Stift / BIC 4 Colours / Druckkugelschreiber perfekt zum Schreiben und Strukturieren!
-- Vierfarbiger Stift mit Schafft in edlem Schwarz bietet eine feine Strichstärke von 0,4mm / Langlebiger 4 Farben Stift mit 8 Kilometern Schriftlänge
 - Der 4 in 1 Stift überzeugt mit farbigen Drückern für eine einfache Farbauswahl zwischen den vier Farben / Kuli nachfüllbar mit dokumentenechter Tinte (ISO 12757-2, Blau, Schwarz, Rot)
-- Der Vierfarben Kuli in schwarzem Design vereint hochwertige Qualität mit durchdachtem Design und ist ideal für eine Strukturierung von Dokumenten - für Büro, Schule oder unterwegs!
+- Lieferumfang: BIC Kugelschreiber mehrfarbig / Kuli Set mit 12 Vierfarbenstiften / 4 Farben in einem Stift / BIC 4 Colours / Druckkugelschreiber perfekt zum Schreiben und Strukturieren!
 - Die dokumentenechte Tinte ISO 12757-2 trocknet sehr schnell und verschmiert nicht - hoher Schreibkomfort auf jeder Papierart, ohne zu kratzen
+- Der Vierfarben Kuli in schwarzem Design vereint hochwertige Qualität mit durchdachtem Design und ist ideal für eine Strukturierung von Dokumenten - für Büro, Schule oder unterwegs!
+- Vierfarbiger Stift mit Schafft in edlem Schwarz bietet eine feine Strichstärke von 0,4mm / Langlebiger 4 Farben Stift mit 8 Kilometern Schriftlänge
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00ARAE33S/?tag=tolees0ca-21)

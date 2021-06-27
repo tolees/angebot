@@ -28,9 +28,9 @@ Sie können [Square Enix - Final Fantasy XII The Zodiac Age [Nintendo Switch]](h
 
 ℹ️:
 
-- HD-Grafik & -Sound - Charaktere, Monster und die Umgebung, als auch die Filmsequenzen wurden komplett überarbeitet
-- Das Zodiac Job-System - Erweiterte Charakter-Klassen und ein verbessertes System zum Leveln
 - Turbomodus - Reise mit erhöhter Geschwindigkeit durch die riesige Welt von Ivalice
+- Das Zodiac Job-System - Erweiterte Charakter-Klassen und ein verbessertes System zum Leveln
+- HD-Grafik & -Sound - Charaktere, Monster und die Umgebung, als auch die Filmsequenzen wurden komplett überarbeitet
 - Prüfungsmodus - Nimm es mit Gegnern in bis zu 100 aufeinanderfolgenden Kämpfen auf
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MCW5S7R/?tag=tolees0ca-21)

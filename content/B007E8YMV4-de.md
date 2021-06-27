@@ -28,10 +28,10 @@ Es gibt ein [SuperB TB-CC 50 Kettennieter  für Fahrradketten  für 5-10-Fach Ke
 
 ℹ️:
 
-- ergonomisch geformter Griff
-- mit Ersatzstift
 - aus CR-V-Stahl
-- für alle 5 - 10-fach Ketten
+- ergonomisch geformter Griff
 - patentiertes Design für höchste Präszision beim Heraus- und Hineindrücken der Bolzen
+- für alle 5 - 10-fach Ketten
+- mit Ersatzstift
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007E8YMV4/?tag=tolees0ca-21)
