@@ -28,10 +28,10 @@ Sie können [Caran d ACHE - Kugelschreiber 849 "GOLDBAR" mit Etui](https://www.a
 
 ℹ️:
 
-- Metallteile vergoldet
 - gefüllt mit Goliath-Mine blau M
-- Minenschub per Druckmechanik Flexibler Clip
+- Metallteile vergoldet
 - Flexibler Clip
 - Sechseckiger Schaft aus Aluminium 
+- Minenschub per Druckmechanik Flexibler Clip
 
 [🛒 Hier!!](https://www.amazon.de/dp/B007HZXPNA/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [KNIPEX Selbsteinstellende Crimpzange für Aderendhülsen mit Fronte
 
 ℹ️:
 
-- Gleichbleibend hohe Crimpqualität durch Zwangssperre (entriegelbar)
-- Selbsteinstellende Anpassung auf die gewünschte Aderendhülsengröße: keine Crimpfehler durch Verwendung des falschen Crimpeinsatzes
+- Zum Verpressen von Aderendhülsen nach DIN 46228 Teil 1 + 4
 - Frontale Einführung der Aderendhülsen in das Werkzeug
 - SB-Karte/Blister
-- Zum Verpressen von Aderendhülsen nach DIN 46228 Teil 1 + 4
+- Selbsteinstellende Anpassung auf die gewünschte Aderendhülsengröße: keine Crimpfehler durch Verwendung des falschen Crimpeinsatzes
+- Gleichbleibend hohe Crimpqualität durch Zwangssperre (entriegelbar)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000XUMXMK/?tag=tolees0ca-21)
