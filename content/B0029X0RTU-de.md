@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '22.25 % rabat auf AnySharp Messerschaerfer mit Saugnapf  S'
-date: 2021-06-20 11:22:53
+title: '18.84 % rabat auf AnySharp Messerschaerfer mit Saugnapf  S'
+date: 2021-06-27 05:12:18
 image: 'https://m.media-amazon.com/images/I/41GYpIv4WPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Besteck','Camping & Outdoor','Geschirr, Besteck & Gläser','Küche, Hau
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82
-comparePrice: 12.63 EUR
+comparePrice: 12.1 EUR
 prodname: 'AnySharp Messerschaerfer mit Saugnapf  Silber'
 country: 'de'
 flag: '🇩🇪'
 brand: 'AnySharp'
 buyurl: 'https://www.amazon.de/dp/B0029X0RTU/?tag=tolees0ca-21'
-descuento: '22.25'
-average: '10.055'
+descuento: '18.84'
+average: '9.97666666666667'
 ---
 
-Es gibt ein [AnySharp Messerschaerfer mit Saugnapf  Silber](https://www.amazon.de/dp/B0029X0RTU/?tag=tolees0ca-21) mit aktuellem Preis 9.82 EUR (original: 12.63 EUR) 22.25 % Rabatt hier:
+Es gibt ein [AnySharp Messerschaerfer mit Saugnapf  Silber](https://www.amazon.de/dp/B0029X0RTU/?tag=tolees0ca-21) mit aktuellem Preis 9.82 EUR (original: 12.1 EUR) 18.84 % Rabatt hier:
 
 [![AnySharp Messerschaerfer mit Saugnapf  S](https://m.media-amazon.com/images/I/41GYpIv4WPL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0029X0RTU/?tag=tolees0ca-21)
 
