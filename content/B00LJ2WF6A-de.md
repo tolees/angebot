@@ -28,10 +28,10 @@ Es gibt ein [Mattel Games - CCX97 Rock Em Sock Em Robots  Boxkampf geeignet für
 
 ℹ️:
 
-- Für 2 Spieler.
-- RockEm SockEm Robots sorgt seit über 40 Jahren für schlagkräftigen Spaß!
 - Spaß rt!
-- Ziel des Spiels ist es, den Gegner zu besiegen!
+- Für 2 Spieler.
 - Bei dem klassischen Boxkampf treten der rote Rocker und der blaue Bomber gegeneinander an.
+- RockEm SockEm Robots sorgt seit über 40 Jahren für schlagkräftigen Spaß!
+- Ziel des Spiels ist es, den Gegner zu besiegen!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00LJ2WF6A/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Huawei Watch GT2  42mm  - Smartwatch Sport Lake Cyan](https://www.a
 
 ℹ️:
 
-- Armbandlänge: 130 - 200 mm
-- Kommunikation: Bluetooth
-- mit Mikrofon: mit Mikrofon
 - Touchscreen: mit Touchscreen
+- Kommunikation: Bluetooth
 - Display: 3 cm (1, 2 Zoll)
+- mit Mikrofon: mit Mikrofon
+- Armbandlänge: 130 - 200 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XL3QD7L/?tag=tolees0ca-21)

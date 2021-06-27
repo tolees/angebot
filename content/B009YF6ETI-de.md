@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden - Bosch 19tlg. Metallbohrer-Set HSS-TiN titan
 
 ℹ️:
 
-- Metallbohrer mit Titanium-Nitrid-Beschichtung zeichnen sich durch eine lange Lebensdauer sowie hohe Beanspruchbarkeit aus. Hinweis: Verwendung von Kühlmittel oder Bosch Universalschneideöl 2 607 001 409 empfohlen.
-- Metallbohrer-Set geeignet für Eisen, unlegierten Stahl, Nichteisenmetalle, Grauguss oder Hartkunststoffe. Nicht in Aluminium verwenden.
 - Bohrer-Ø 1/1,5/2/2,5/3/3,5/4/4,5/5/5,5/6/6,5/7/7,5/8/8,5/9/9,5/10 mm
+- Metallbohrer-Set geeignet für Eisen, unlegierten Stahl, Nichteisenmetalle, Grauguss oder Hartkunststoffe. Nicht in Aluminium verwenden.
 - Abmessung: 164 x 88 x 35
+- Metallbohrer mit Titanium-Nitrid-Beschichtung zeichnen sich durch eine lange Lebensdauer sowie hohe Beanspruchbarkeit aus. Hinweis: Verwendung von Kühlmittel oder Bosch Universalschneideöl 2 607 001 409 empfohlen.
 - Für alle Bohrmaschinen im handgeführten und stationären Einsatz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009YF6ETI/?tag=tolees0ca-21)

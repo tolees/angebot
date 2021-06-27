@@ -28,10 +28,10 @@ Sie können [ARMAF Club De Nuit Duft  105 ml  schwarz  106 ml](https://www.amazo
 
 ℹ️:
 
-- 105 ml – für den Mann
-- Kopfnote: Kopfnote: Apfel, Bergamotte, schwarze Johannisbeere, Ananas, Zitrone.
 - Club de Nuit Intense für Herren von Armaf
 - Herznote: Rose, Birke, Jasmin.
 - Basisnote: Moschus, Ambra, Patschuli, Vanille.
+- Kopfnote: Kopfnote: Apfel, Bergamotte, schwarze Johannisbeere, Ananas, Zitrone.
+- 105 ml – für den Mann
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00M3IFUMK/?tag=tolees0ca-21)

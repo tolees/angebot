@@ -28,10 +28,10 @@ Sie können [WMF Gourmet Nudelmaschine Edelstahl 19 5x 12 5x 12 5 cm  9 Teigstuf
 
 ℹ️:
 
-- Der fertig hergestellte Nudelteig wird mit Hilfe eines Kurbelantriebs durch die 3 unterschiedlichen Walzen gedreht
-- Nudeln selber machen - Pasta Maker für Teigplatten (Lasagne), schmale (Spaghetti) und breite Nudel (Bandnudeln). Die Teigstärke ist in 9 Stufen einstellbar (kräftig 3,0mm bis hauchdünn 0,2 mm)
 - Inhalt: 1x Nudelmaschine (19,5x 12,5x 12,5 cm) - Artikelnummer: 0687766040
 - Mit der Tischklammer kann die Nudelmaschine einfach am Tisch oder der Arbeitsplatte angebracht werden und gibt festen Halt während der Herstellung der Nudeln
+- Nudeln selber machen - Pasta Maker für Teigplatten (Lasagne), schmale (Spaghetti) und breite Nudel (Bandnudeln). Die Teigstärke ist in 9 Stufen einstellbar (kräftig 3,0mm bis hauchdünn 0,2 mm)
+- Der fertig hergestellte Nudelteig wird mit Hilfe eines Kurbelantriebs durch die 3 unterschiedlichen Walzen gedreht
 - Material: Edelstahl rostfrei 18/10, - leicht zureinigen. Die Kurbel, sowie die Aufsätze sind abnehmbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075VCF27N/?tag=tolees0ca-21)

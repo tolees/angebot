@@ -28,8 +28,8 @@ Es gibt ein [Fjällräven Tasche Foldsack No. 3  Navy  30 x 25 x 7 cm  6 Liter  
 
 ℹ️:
 
-- Gepolsterter Rücken
 - Hauptfach-Öffnung unter dem Deckel durch zwei Druckknöpfe vergrößerbar
+- Gepolsterter Rücken
 - Leicht gepolsterte Schultertragegurte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00F18TOG2/?tag=tolees0ca-21)
