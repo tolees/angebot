@@ -28,12 +28,12 @@ Es gibt ein [Optimum Nutrition Gold Standard BCAA Pulver  Aminosäuren Komplex H
 
 ℹ️:
 
-- 374 mg ELEKTROLYTE und 200 mg RHODIOLA in jeder Portion
 - 5 g BCAA in jeder Portion ergeben ein Verhältnis von 2:1:1 Aminosäuren
 - VERPACKUNG KANN VARIIEREN — neue Verpackung, dieselbe Anzahl an Portionen
+- Eine einfach zu mischende Optimum Nutrition Erschöpfungsreduzierung-Formel* bietet ein erfrischendes Supplement, das sich ideal für SCHWERE WORKOUTS eignet
+- 374 mg ELEKTROLYTE und 200 mg RHODIOLA in jeder Portion
+- Vitamin C unterstützt das IMMUNSYSTEM*, während du optimale Fitness erreichst
 - Einzigartige Formel aus Vitamin C und Magnesium, die entwickelt wurde, um MÜDIGKEIT und ERSCHÖPFUNG* zu reduzieren, damit du länger trainieren kannst
 - *Vitamin C und Zink trägen zur normalen Funktion des Immunsystems. Vitamin C und Magnesium trägen Verringerung von Müdigkeit und Erschöpfung bei. Quelle: VERORDNUNG DER KOMMISSION (EU) Nr. 432/2012 vom 16. Mai 2012
-- Eine einfach zu mischende Optimum Nutrition Erschöpfungsreduzierung-Formel* bietet ein erfrischendes Supplement, das sich ideal für SCHWERE WORKOUTS eignet
-- Vitamin C unterstützt das IMMUNSYSTEM*, während du optimale Fitness erreichst
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01DYO232G/?tag=tolees0ca-21)
