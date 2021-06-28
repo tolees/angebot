@@ -28,8 +28,8 @@ Es gibt ein [DeBeukelaer Prinzen Rolle  400g](https://www.amazon.de/dp/B0140GSEE
 
 ℹ️:
 
+- Knackiger Keks
 - Feinste Kakaofüllung
 - Einzigartiger Genuss seit 60 Jahren
-- Knackiger Keks
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0140GSEE8/?tag=tolees0ca-21)
