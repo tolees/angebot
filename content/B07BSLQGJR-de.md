@@ -28,11 +28,11 @@ Sie können [Airwaves Kaugummi | Cool Cassis | Lila  zuckerfrei | 6 Dosen  6 x 5
 
 ℹ️:
 
+- Für noch mehr Frische und besonders lang anhaltenden Geschmack
 - Der Frische-Kick mit dem Geschmack kühler Johannisbeere
-- Für noch mehr Frische und besonders lang anhaltenden Geschmack
-- Für noch mehr Frische und besonders lang anhaltenden Geschmack
 - Zuckerfreier Kaugummi
 - Zuckerfreier Kaugummi
+- Für noch mehr Frische und besonders lang anhaltenden Geschmack
 - Das original starke Geschmackserlebnis für den einzigartigen Airwaves Frische-Kick.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BSLQGJR/?tag=tolees0ca-21)
