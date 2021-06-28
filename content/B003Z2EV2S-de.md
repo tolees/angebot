@@ -29,9 +29,9 @@ Es gibt ein [Gigaset DL500A - schnurgebundenes DECT Telefon mit Anrufbeantworter
 ℹ️:
 
 - Lieferumfang - 1x Gigaset DL500A, 1x Steckernetzteil, 1x Telefonkabel, 1x LAN-Kabel, 1x CD ROM mit PC-Software, 1x Bedienungsanleitung
-- Das perfekte Home-Office Telefon - Das Tischtelefon lässt sich, dank Ethernet-Anschluss, mit dem PC Verbinden - So können wichtige Kontakte synchronisiert werden und Sie auch von Zuhause aus arbeiten
 - Schnell und einfach installiert - Damit Sie gleich mit dem Telefonieren loslegen können, müssen Sie das Schnurtelefon einfach an Ihre Telefonanlage anschließen
 - Erweiterbares Schnurtelefon - Um Ihnen bestmöglichen Komfort zu bieten und Sie nicht immer nur an einem Ort telefonieren müssen, lässt sich das DL500A mit bis zu 6 Gigaset Mobilteilen erweitern
+- Das perfekte Home-Office Telefon - Das Tischtelefon lässt sich, dank Ethernet-Anschluss, mit dem PC Verbinden - So können wichtige Kontakte synchronisiert werden und Sie auch von Zuhause aus arbeiten
 - Keine Anrufe mehr verpassen - Mit dem Bürotelefon erhalten Sie einen integrierten Anrufbeantworter, mit bis zu 55 Minuten Aufnahmezeit - So lassen sich wichtige Business Gespräche aufzeichen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003Z2EV2S/?tag=tolees0ca-21)

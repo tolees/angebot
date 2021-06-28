@@ -28,9 +28,9 @@ Es gibt ein [Makita A-87579 HM-Saegeb. 78Z INOX](https://www.amazon.de/dp/B000UZ
 
 ℹ️:
 
-- Verpackungsabmessungen (L × B × H) : 30.8 zm 30.4 zm 1.6 zm
 - Passend zu Makita Geräten und auch mit Geräten von anderen Herstellenern kompatibel
-- Verpackungsgewicht : 1.119 kg
+- Verpackungsabmessungen (L × B × H) : 30.8 zm 30.4 zm 1.6 zm
 - Herkunftsland:- Japan
+- Verpackungsgewicht : 1.119 kg
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000UZ0ZP0/?tag=tolees0ca-21)
