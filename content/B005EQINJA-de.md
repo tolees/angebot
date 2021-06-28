@@ -28,9 +28,9 @@ Sie können [Proxxon 28128 Akku-Trockenbauschrauber SE 18 LTX 6000  620049840  M
 
 ℹ️:
 
-- Herkunftsland:- Luxemburg
+- 3/8" Gewinde zum Einschrauben von Zahnkranzbohrfutter
 - Farbe: Grün, Gelb
 - Leerlaufdrehzahl 1.800, 4.700 und 8.500/min
-- 3/8" Gewinde zum Einschrauben von Zahnkranzbohrfutter
+- Herkunftsland:- Luxemburg
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005EQINJA/?tag=tolees0ca-21)

@@ -28,12 +28,12 @@ Es gibt ein [Melitta Caffeo Solo E950-103 Schlanker Kaffeevollautomat mit Vorbr�
 
 ℹ️:
 
-- Kaffeestärke 3-stufig einstellbar, Wassermenge stufenlos regelbar, Abnehmbarer Wassertank mit automatischer Wassermengenerkennung, Höhenverstellbare Auslauf bis 135 mm, 2-Tassen-Zubereitung, Passive Tassenwarmhaltefläche
-- Kein Stromverbrauch durch 0 Watt-Schalter zur kompletten Abschaltung des Gerätes, Programmierbare automatische Abschaltung, Einstellbarer Energiesparmodus
-- Puristisch und kompakt: Einer der kleinsten Kaffeevollautomaten mit nur 20 cm Breite, Schlichtes Design mit verchromten Elementen
+- Lieferumfang: 1 Melitta Caffeo Solo E950-103, Kaffeevollautomat, Silber, Pumpendruck 15 bar, Leistung max. 1.400W
 - Tipps und Tricks für leckere Genussmomente mit der Companion App: Zahlreiche Servicefeatures wie bebilderte Schritt-für-Schritt-Anweisungen, Tutorials etc.
 - Maximaler Kaffeegenuss dank Vorbrühfunktion, Zubereitung der zwei Klassiker Espresso und Café Crème mit nur einer Berührung
+- Kaffeestärke 3-stufig einstellbar, Wassermenge stufenlos regelbar, Abnehmbarer Wassertank mit automatischer Wassermengenerkennung, Höhenverstellbare Auslauf bis 135 mm, 2-Tassen-Zubereitung, Passive Tassenwarmhaltefläche
+- Kein Stromverbrauch durch 0 Watt-Schalter zur kompletten Abschaltung des Gerätes, Programmierbare automatische Abschaltung, Einstellbarer Energiesparmodus
 - Schnelle, hygienische Reinigung und Entkalkung per Knopfdruck, Herausnehmbare Brühgruppe, Leicht zu reinigende Oberflächen und Materialien
-- Lieferumfang: 1 Melitta Caffeo Solo E950-103, Kaffeevollautomat, Silber, Pumpendruck 15 bar, Leistung max. 1.400W
+- Puristisch und kompakt: Einer der kleinsten Kaffeevollautomaten mit nur 20 cm Breite, Schlichtes Design mit verchromten Elementen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002NKR4VI/?tag=tolees0ca-21)
