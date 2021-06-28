@@ -28,11 +28,11 @@ Es gibt ein [TP-Link RE365 AC1200 WLAN Repeater mit Steckdose  1200 Mbit/s  Dual
 
 ℹ️:
 
-- 2-4 Zimmer Wohnung
-- Lieferumfang: Range-Extender RE365, Schnellinstallationsanleitung
 - Vernetzen Sie Ihr ganzes Zuhause mit extremer Reichweite und Gesamtgeschwindigkeiten bis zu 1,2 GB
+- Lieferumfang: Range-Extender RE365, Schnellinstallationsanleitung
 - Praktische Signalstärkeanzeige hilft bei der optimalen Platzierung des Geräts
 - Mit der integrierten Steckdose geht Ihnen kein Steckplatz verloren
 - Kompatibel zu allen WLAN Router oder Accesspoints; mit dem einzigartigen Design passt das Gerät in jeden Haushalt
+- 2-4 Zimmer Wohnung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FY5X9P6/?tag=tolees0ca-21)
