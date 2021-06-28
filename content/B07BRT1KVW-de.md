@@ -28,8 +28,8 @@ Sie können [funny-frisch Chipsfrisch ungarisch  10er Pack  10 x 175 g ](https:/
 
 ℹ️:
 
-- Glutenfrei. Ohne künstliche Geschmacksverstärker, künstliche Farbstoffe. Mit reinem Sonnenblumenöl
 - Hauchdünn geschnitten und extra knusprige Kartoffelchips
+- Glutenfrei. Ohne künstliche Geschmacksverstärker, künstliche Farbstoffe. Mit reinem Sonnenblumenöl
 - Oft kopiert, nie erreicht: Der einzigartige Geschmack der ungarischen Paprika
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BRT1KVW/?tag=tolees0ca-21)
