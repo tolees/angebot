@@ -28,10 +28,10 @@ Sie können [Silky F180 180mm Klappsäge](https://www.amazon.de/dp/B0014C7WGS/?t
 
 ℹ️:
 
-- konische, induktiv gehärtete Zähne ; gummiverkleideter Handgriff
-- F180 – eine günstige japanische Klappsäge in bewährter Silky Qualität
-- schnelle, saubere Schnitte bei geringem Kraftaufwand; schonend gegenüber den Holzzellen
-- einstellbarer Winkel zwischen Griff und Sägeblatt
 - 180mm Klinge mit grober Mirai-Me Verzahnung (7,5 Zähne/30mm) – geeignet für frisches Holz
+- F180 – eine günstige japanische Klappsäge in bewährter Silky Qualität
+- konische, induktiv gehärtete Zähne ; gummiverkleideter Handgriff
+- einstellbarer Winkel zwischen Griff und Sägeblatt
+- schnelle, saubere Schnitte bei geringem Kraftaufwand; schonend gegenüber den Holzzellen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0014C7WGS/?tag=tolees0ca-21)
