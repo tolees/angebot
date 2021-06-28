@@ -29,7 +29,7 @@ Sie können [G-STAR RAW Herren Hose Rovic Zip 3D Straight Tapered  Grau  Raven  
 ℹ️:
 
 - Normaler Bund
-- Normale Leibhöhe
 - Schmal zulaufendes Bein vom Oberschenkel bis zum Saum
+- Normale Leibhöhe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01BGTW49I/?tag=tolees0ca-21)
