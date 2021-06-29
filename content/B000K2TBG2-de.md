@@ -28,9 +28,9 @@ Es gibt ein [Brüder Mannesmann Werkzeug - Mannesmann Elektro-Schraubendrehersat
 
 ℹ️:
 
-- 10 Jahre Garantie
-- für Arbeiten an unter Spannung stehenden Teilen oder in deren Nähe
 - 7-teilig
 - TÜV/GS geprüft
+- für Arbeiten an unter Spannung stehenden Teilen oder in deren Nähe
+- 10 Jahre Garantie
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000K2TBG2/?tag=tolees0ca-21)
