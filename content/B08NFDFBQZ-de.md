@@ -28,9 +28,9 @@ Es gibt ein [Dell Alienware 25Monitor - AW2521H - 62.2cm  24.5   ](https://www.a
 
 ℹ️:
 
-- Farbe: Schwarz
-- Verpackungsabmessungen: 27.0 L x 73.0 H x 51.0 W (Zm)
 - Dell Alienware 25Monitor - AW2521H - 62.2cm (24.5)
 - Verpackungsgewicht: 12.26 Kg
+- Farbe: Schwarz
+- Verpackungsabmessungen: 27.0 L x 73.0 H x 51.0 W (Zm)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08NFDFBQZ/?tag=tolees0ca-21)
