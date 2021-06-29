@@ -28,10 +28,10 @@ Sie können [Barbie GFH60 - Dreamtopia Regenbogen Einhorn mit magischer Bürste 
 
 ℹ️:
 
-- Es gibt zwei Spielmöglichkeiten: Entweder die lange pinke Mähne des Einhorns mit der enthaltenen Bürste kämmen oder die Taste am Körper des Einhorns drücken. Welche Variante auch gewählt wird, der Effekt ist stets magisch
 - Das Barbie Dreamtopia Magisches Haarspiel-Einhorn erzeugt mit den vier verschiedenen Licht- und Geräuscheffekten magische Spielmomente und sorgt für Überraschung und Spielspaß
 - Die bunt umrahmten Sterne auf dem schimmernd weißen Körper des Einhorns erleuchten, wenn die pinke Mähne und der Schweif gekämmt werden, und die blauen Hufe sorgen für noch mehr fantasievollen Spielspaß
 - Dank der einfachen Aktivierung können Kinder die Handlungen beliebig oft wiederholen und Geschichten voller Überraschungen erzählen sowie zauberhafte Momente erleben
 - Aufgrund der zahlreichen Spielmöglichkeiten ist das Einhorn von Barbie das Ideale Geschenk für Kinder, insbesondere für Einhorn-, Pferde- und Tierliebhaber, ob in der echten Welt oder in der Fantasie.
+- Es gibt zwei Spielmöglichkeiten: Entweder die lange pinke Mähne des Einhorns mit der enthaltenen Bürste kämmen oder die Taste am Körper des Einhorns drücken. Welche Variante auch gewählt wird, der Effekt ist stets magisch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FDFBZVR/?tag=tolees0ca-21)
