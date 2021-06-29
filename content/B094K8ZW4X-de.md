@@ -28,10 +28,10 @@ Es gibt ein [Electronic Arts - STAR WARS JEDI: FALLEN ORDER - [Playstation 5]](h
 
 ℹ️:
 
-- Deutlich kürzere Ladezeiten
 - Verbesserte Leistung mit 60 FPS
-- 4K/HDR-Auflösung
-- Die Next-Gen-Version von Star Wars Jedi: Fallen Order bietet das bestmögliche Spielerlebnis auf Konsolen mit folgenden technischen Verbesserungen:
 - Texturen mit höherer Auflösung und überarbeitete Lichteffekte
+- Die Next-Gen-Version von Star Wars Jedi: Fallen Order bietet das bestmögliche Spielerlebnis auf Konsolen mit folgenden technischen Verbesserungen:
+- 4K/HDR-Auflösung
+- Deutlich kürzere Ladezeiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B094K8ZW4X/?tag=tolees0ca-21)

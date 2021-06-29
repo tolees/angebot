@@ -28,9 +28,9 @@ Es gibt ein [JACK & JONES Male Hoodie Basic Reißverschluss LNavy Blazer](https:
 
 ℹ️:
 
+- JACK & JONES ESSENTIALS
+- Materialzusammensetzung: 85% Baumwolle, 15% Polyester
 - Bequemer Hoodie mit Reißverschluss
 - Das Model ist 189 cm groß und trägt Größe L
-- Materialzusammensetzung: 85% Baumwolle, 15% Polyester
-- JACK & JONES ESSENTIALS
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KXYKSFZ/?tag=tolees0ca-21)

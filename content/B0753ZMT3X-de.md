@@ -28,10 +28,10 @@ Sie können [Trust Nado Ultra Slim Kabellose Bluetooth Tastatur  für alle iOS  
 
 ℹ️:
 
-- Ultraschlank und leicht. Tasten mit schneller Reaktion (Scherentyp).
-- Ein-/Ausschalter
-- Bluetooth 3.0, Funkreichweite bis zu 10 m
-- Niedrige, isolierte Tasten
 - 13 Multimedia-Funktionstasten für iPhone und iPad, inklusive 8 Tasten mit Windows-Funktion
+- Bluetooth 3.0, Funkreichweite bis zu 10 m
+- Ein-/Ausschalter
+- Ultraschlank und leicht. Tasten mit schneller Reaktion (Scherentyp).
+- Niedrige, isolierte Tasten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0753ZMT3X/?tag=tolees0ca-21)

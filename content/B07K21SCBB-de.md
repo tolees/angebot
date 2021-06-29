@@ -28,10 +28,10 @@ Sie können [Ravensburger 21437 - Mein erstes memory Fahrzeuge  der Spieleklassi
 
 ℹ️:
 
+- Kaum ein anderes Spiel vermag es mehr, Jung und Alt an einen Tisch zusammenzubringen. Memory hat bestechend einfache Regeln, verbindet Generationen, schafft Gemeinsamkeit und macht immer wieder aufs Neue Spaß
 - Die 24 Karten sind aus extradickem Karton und bereits für kleinere Kinder geeignet. Gewonnen hat, wer die meisten Bildpaare gesammelt hat
 - Das Kartenspiel bringt Unterhaltung und Spannung in jedes Kinderzimmer. Das ideale Geschenk zum Geburtstag oder Weihnachten
-- Kaum ein anderes Spiel vermag es mehr, Jung und Alt an einen Tisch zusammenzubringen. Memory hat bestechend einfache Regeln, verbindet Generationen, schafft Gemeinsamkeit und macht immer wieder aufs Neue Spaß
-- Das schöne Merkspiel mit tollen Bildern fördert spielerisch die Wiedererkennung, das Sprechvermögen und die Konzentration. Das Entdecken macht ab 2 Jahren großen Spaß
 - Memory - ein Spiel für die ganze Familie: Hier entdecken die Spieler Motive rund um das Thema Fahrzeuge und versuchen das passende Kärtchen zu finden
+- Das schöne Merkspiel mit tollen Bildern fördert spielerisch die Wiedererkennung, das Sprechvermögen und die Konzentration. Das Entdecken macht ab 2 Jahren großen Spaß
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07K21SCBB/?tag=tolees0ca-21)
