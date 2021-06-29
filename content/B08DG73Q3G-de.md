@@ -28,11 +28,11 @@ Sie können [DJI Osmo Pocket Prime Combo - 3-Achsen Gimbal Stabilisator mit Zube
 
 ℹ️:
 
+- EXPRESS-OPTION: Das Schutzpaket bietet, für eine kleine zusätzliche Gebühr, bis zu zwei Ersatzgeräte innerhalb eines Jahres. Egal ob Wasserschäden, Zusammenstöße oder Abstürze - wir kümmern uns darum
 - FOTO UND VIDEO: Videoaufnahmen können mit bis zu 4K Ultra HD bei 60 fps und 100 MBit/s erstellt werden. Daneben halten Fotos mit 12 MP bei einer Pixelgröße von 1,55 μm beeindruckend jeden Moment fest
 - KLEIN, KOMPAKT: Der Osmo Pocket verfügt über den kleinsten motorisiert stabilisierten Gimbal, den wir bei DJI jemals geschaffen haben. Teile die schönsten Augenblicke des Lebens, immer und überall
-- FERNSTEUERUNG: Das Funkmodul erweitert den Osmo Pocket um eine Bluetooth- und Wi-Fi-Verbindung und ermöglicht es somit den Osmo Pocket fernzusteuern. Geladen wird der Osmo Pocket weiterhin über den USB-C-Anschluss
-- EXPRESS-OPTION: Das Schutzpaket bietet, für eine kleine zusätzliche Gebühr, bis zu zwei Ersatzgeräte innerhalb eines Jahres. Egal ob Wasserschäden, Zusammenstöße oder Abstürze - wir kümmern uns darum
-- SMART CAMERA: Der Osmo Pocket erlaubt nicht nur die Aufnahme von kinoreifen Videos. Mit intelligenten Funktionen wie ActiveTrack, bewegten Zeitraffern und Panoramen, entfesselt der Osmo Pocket ganz neue kreative Möglichkeiten
 - LIEFERUMFANG: Osmo Pocket, Hülle, Smartphone-Adapter (Lightning), Smartphone-Adapter (USB-C), Netzkabel, Funkmodul + Osmo Pocket Care Refresh
+- SMART CAMERA: Der Osmo Pocket erlaubt nicht nur die Aufnahme von kinoreifen Videos. Mit intelligenten Funktionen wie ActiveTrack, bewegten Zeitraffern und Panoramen, entfesselt der Osmo Pocket ganz neue kreative Möglichkeiten
+- FERNSTEUERUNG: Das Funkmodul erweitert den Osmo Pocket um eine Bluetooth- und Wi-Fi-Verbindung und ermöglicht es somit den Osmo Pocket fernzusteuern. Geladen wird der Osmo Pocket weiterhin über den USB-C-Anschluss
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08DG73Q3G/?tag=tolees0ca-21)
