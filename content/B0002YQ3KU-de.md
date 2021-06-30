@@ -30,8 +30,8 @@ Sie können [Titebond® - Titebond ZL-141/5 Ultimate Holzleim für den Innen und
 
 - Einsetzbar ab 8 Grad Celsius
 - Leimrückstände abwischbar (mit Wasser)
-- Lösungsmittelfrei
 - Lösungsmittelbeständig im trockenen Zustand
+- Lösungsmittelfrei
 - Schleif- und überlackbierbar im trockenen Zustand
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0002YQ3KU/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [6M LED Streifen OMERIL USB LED Strip Wasserdicht LED Band RGBW mit 
 
 ℹ️:
 
-- 👍【USB LED Strip】Die LED Streifen verfügen über 180 RGB 5050 SMD LEDs in 6 Meter und ist super hell. Es schafft eine perfekte Stimmungsbeleuchtung für Sie. Geeignet für Wohnzimmer, Schlafzimmer, Terrasse, Garten, Küche, Party usw
-- 👍【Sichere und einfache Installation】 Das stärkere Selbstklebeband bietet eine sichere und starke Installation an, damit sich die Leiste mit der Zeit nicht löst. Nur die Folie entzufernen und zu kleben, super einfach! Bitte reinigen Sie die Oberfläche, bevor sie den Strip anbringen
-- 👍【16 Farben und 4 dynamische Modi】Die LED Strip mit 16 Farben, 4 Modi (FLASH, STROBE, FADE, SMOOTH), Sie können auch die Helligkeit und die Geschwindigkeit einstellen. Über die mitgelieferte Fernbedienung lassen sich unterschiedliche Farben und Lichteffekte inszenieren
-- 👍【Sicher und Haltbarer】CE- Zertifizierung für Sicherheit. Dieser LED Streifen hat eine Betriebsspannung von nur 5V und besteht aus IP67 wasserdichtem Silikon. Er ist somit für Kinder sicher und berührbar. Es kann im Innen- und Außenbereich verwendet werden
 - 👍【Breite Anwendungen】Der LED Streifen ist 1cm breit. Sie können die beiden 3m-Lichtleiste separat verwenden oder sie miteinander verbinden, um einen 6m-Streifen zu erhalten
+- 👍【Sicher und Haltbarer】CE- Zertifizierung für Sicherheit. Dieser LED Streifen hat eine Betriebsspannung von nur 5V und besteht aus IP67 wasserdichtem Silikon. Er ist somit für Kinder sicher und berührbar. Es kann im Innen- und Außenbereich verwendet werden
+- 👍【16 Farben und 4 dynamische Modi】Die LED Strip mit 16 Farben, 4 Modi (FLASH, STROBE, FADE, SMOOTH), Sie können auch die Helligkeit und die Geschwindigkeit einstellen. Über die mitgelieferte Fernbedienung lassen sich unterschiedliche Farben und Lichteffekte inszenieren
+- 👍【Sichere und einfache Installation】 Das stärkere Selbstklebeband bietet eine sichere und starke Installation an, damit sich die Leiste mit der Zeit nicht löst. Nur die Folie entzufernen und zu kleben, super einfach! Bitte reinigen Sie die Oberfläche, bevor sie den Strip anbringen
+- 👍【USB LED Strip】Die LED Streifen verfügen über 180 RGB 5050 SMD LEDs in 6 Meter und ist super hell. Es schafft eine perfekte Stimmungsbeleuchtung für Sie. Geeignet für Wohnzimmer, Schlafzimmer, Terrasse, Garten, Küche, Party usw
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MXZGRFY/?tag=tolees0ca-21)
