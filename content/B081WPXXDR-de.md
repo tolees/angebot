@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Films - Die tödliche Box des Shaoli mit 36.44 % Rabatt'
-date: 2021-06-29 01:51:51
+date: 2021-06-30 06:34:42
 image: 'https://m.media-amazon.com/images/I/51WHssJvtbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
