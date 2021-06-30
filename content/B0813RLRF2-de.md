@@ -28,11 +28,11 @@ Es gibt ein [LEGO 41410 Friends Andreas Sommer Würfel - Tauchschule](https://w
 
 ℹ️:
 
-- Andreas Sommer Würfel - Tauchschule
+- Anzahl der Teile: 43
 - Dieses LEGO Friends Set enthält eine Spielfigur und einen Meeresbewohner als Überraschungstier.
+- Vom Hersteller nicht mehr verkauft
 - Vom Hersteller empfohlenes Alter: 6+
 - Kinder können die LEGO Friends Würfel ganz flexibel teilen, stapeln und zusammenstecken.
-- Vom Hersteller nicht mehr verkauft
-- Anzahl der Teile: 43
+- Andreas Sommer Würfel - Tauchschule
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0813RLRF2/?tag=tolees0ca-21)
