@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '62.30 % rabat auf WVG Medien GmbH - Jillian Michaels - 30 '
-date: 2021-06-19 06:45:20
+date: 2021-06-30 14:17:59
 image: 'https://m.media-amazon.com/images/I/51Q7ENpkQRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
