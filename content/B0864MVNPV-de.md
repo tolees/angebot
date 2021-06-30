@@ -28,12 +28,12 @@ Es gibt ein [HUAWEI P40 Pro 5G 8GB RAM 256GB Dual  Without GBogle Play Store  Si
 
 ℹ️:
 
+- Lieferumfang: HUAWEI P40 Pro, Headset, Akku (fest verbaut), Ladegerät, USBType-C Kabel, SIM-Werkzeug, Schnellstartanleitung, karte, TP Schutzfilm, +5 EUR Gutschein
+- Um Ihre persönlichen Daten und Anwendungen von Ihrem alten Gerät auf das neue zu übertragen, empfehlen wir Ihnen, die HUAWEI Phone Clone App zu verwenden, die bereits auf Ihrem HUAWEI Gerät vorinstalliert ist
+- HUAWEI Kirin 990 5G - Android 10. 0 + EMUI 10. 1
+- 4200 mAh Akku; 8 GB RAM + 256 GB ROM erweiterbar um bis zu 256 GB durch NM-Card
 - Über die vorinstallierte HUAWEI AppGallery und die Suchfunktion hat die HUAWEI P40-Serie Zugriff auf viele Top-Apps. Die Suchfunktion ist eine Suchleiste, die Ihnen unter anderem hilft, Apps zu finden, die derzeit nicht in der AppGallery verfügbar sind
 - Die HUAWEI P40-Serie basiert auf dem Android Open Source Project unter Verwendung der HUAWEI Mobile Services (HMS) und EMUI 10.1. Google Apps sowie Google Mobile Services sind für die HUAWEI P40-Serie nicht verfügbar. So können einzelne Apps aktuell nicht erhältlich oder nicht kompatibel sein
-- HUAWEI Kirin 990 5G - Android 10. 0 + EMUI 10. 1
-- Um Ihre persönlichen Daten und Anwendungen von Ihrem alten Gerät auf das neue zu übertragen, empfehlen wir Ihnen, die HUAWEI Phone Clone App zu verwenden, die bereits auf Ihrem HUAWEI Gerät vorinstalliert ist
 - Hauptkamera mit 50 MP + 40 MP + 12 MP AUTOFOKUS + 3D -TIEFENKAMERA
-- 4200 mAh Akku; 8 GB RAM + 256 GB ROM erweiterbar um bis zu 256 GB durch NM-Card
-- Lieferumfang: HUAWEI P40 Pro, Headset, Akku (fest verbaut), Ladegerät, USBType-C Kabel, SIM-Werkzeug, Schnellstartanleitung, karte, TP Schutzfilm, +5 EUR Gutschein
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0864MVNPV/?tag=tolees0ca-21)
