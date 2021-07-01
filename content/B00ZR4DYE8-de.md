@@ -28,10 +28,10 @@ Es gibt ein [Canon PowerShot G3 X Digitalkamera - mit Ultra-Weitwinkelobjektiv  
 
 ℹ️:
 
-- SETTINGS - Blende, Belichtung und ISO-Empfindlichkeit der Digital-Kamera sind im Movie-Modus einstellbar; Optischer Bildstabilisator
+- IM FOKUS - 25-fach optischer Zoom, Ultra-Weitwinkelobjektiv
 - DISPLAY - Ein großer, hochauflösender (1.620.000 Bildpunkte) und klappbarer LCD-Touchscreen
 - LIEFERUMFANG - Canon PowerShot G3 X Digitalkamera; Objektivdeckel; Umhängegurt NS-DC11; Akku NB-10L; Akkuladegerät CB-2LCE; Netzkabel; Anleitungen
 - HOHE BILDQUALITÄT - 20,2 Megapixel CMOS-Sensor; Leistungsstarker DIGIC6 Bildprozessor
-- IM FOKUS - 25-fach optischer Zoom, Ultra-Weitwinkelobjektiv
+- SETTINGS - Blende, Belichtung und ISO-Empfindlichkeit der Digital-Kamera sind im Movie-Modus einstellbar; Optischer Bildstabilisator
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ZR4DYE8/?tag=tolees0ca-21)

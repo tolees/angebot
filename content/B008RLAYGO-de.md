@@ -28,11 +28,11 @@ Es gibt ein [sebamed Unreine Haut Pflege-Gel  glättet die Haut mit Hyaluron Com
 
 ℹ️:
 
-- sebamed Produkte sind in über 120 Studien dermatologisch-klinisch getestet. Ohne Mikroplastik
-- Pflegende Wirkstoff-Kombination – Die Wirkstoffkombination mit Allantoin und Panthenol beruhigt und pflegt die Haut und macht sie glatter und geschmeidiger
+- Qualität Made In Germany: unsere Produkte werden in Deutschland entwickelt, getestet und hergestellt. Die Qualität ist durch ausgewählte Rohstoffe und kontrollierte Fertigungsprozesse garantiert
 - Feuchtigkeit– Der Hyaluron Complex versorgt die Haut reichhaltig mit Feuchtigkeit
 - pH-Wert 5,5 – Der hauteigene pH-Wert 5,5 stabilisiert den natürlichen Hautschutzmantel, schützt biologisch gegen Bakterien und trägt so zur Vorbeugung gegen Pickel und Mitesser bei
-- Qualität Made In Germany: unsere Produkte werden in Deutschland entwickelt, getestet und hergestellt. Die Qualität ist durch ausgewählte Rohstoffe und kontrollierte Fertigungsprozesse garantiert
+- Pflegende Wirkstoff-Kombination – Die Wirkstoffkombination mit Allantoin und Panthenol beruhigt und pflegt die Haut und macht sie glatter und geschmeidiger
 - Beruhigendes Aloe Barbadensis - Die Pflegeformel mit Aloe barbadensis wirkt auf natürliche Weise reizlindernd und erhält die hauteigene Feuchtigkeitsbalance.
+- sebamed Produkte sind in über 120 Studien dermatologisch-klinisch getestet. Ohne Mikroplastik
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008RLAYGO/?tag=tolees0ca-21)
