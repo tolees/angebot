@@ -28,10 +28,10 @@ Es gibt ein [Electronic Arts - Die Sims 4 - Standard Edition - [PC]](https://www
 
 ℹ️:
 
-- Erschaffen und erforschen Sie ein Leben voller bedeutender Möglichkeiten.
-- Nutzen Sie brandneue intuitive Kreativtools, die Spaß machen.
-- Cover-Bild kann abweichen.
 - SIMS 4 auch für Mac.
 - Erstellen und steuern Sie intelligentere, glaubhaftere und gefühlsbetonte Sims.
+- Nutzen Sie brandneue intuitive Kreativtools, die Spaß machen.
+- Erschaffen und erforschen Sie ein Leben voller bedeutender Möglichkeiten.
+- Cover-Bild kann abweichen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00KPY3KV2/?tag=tolees0ca-21)

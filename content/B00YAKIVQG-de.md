@@ -28,10 +28,10 @@ Es gibt ein [Black+Decker Pivot Akku-Schrauber  3.6V 1.5Ah Li-Ion  2-Positionen-
 
 ℹ️:
 
+- Schnelles Laden: Micro-USB kompatibel, zum Laden über USB-Ports
 - Lieferumfang: 1x 3.6V Akku-Schrauber, 1x Micro-USB-Ladekabel, 5x Bits: H4, H5, Pz1, Pz2, Sl4
 - Flexibel: Ob als Stabschrauber oder im Pistolengriff - unschlagbar bei eingeschränkten Platzverhältnissen, Winkelaufsatz kompatibel
 - Komfortabel: LED-Leuchte zum Ausleuchten von dunklen Arbeitsbereichen; magnetische Bitaufbewahrung
-- Schnelles Laden: Micro-USB kompatibel, zum Laden über USB-Ports
 - Anwenderfreundlich: Ladestandsanzeige -den aktuellen Akku-Ladestand jederzeit im Blick
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00YAKIVQG/?tag=tolees0ca-21)

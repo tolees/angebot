@@ -28,10 +28,10 @@ Es gibt ein [Guerlain HABIT ROUGE 100 ml Eau de Toilette Spray](https://www.amaz
 
 ℹ️:
 
-- <b>Produktlinie: </b>Habit Rouge
 - <b>Produktart: </b>Eau de Toilette (EDT)
-- <b>Inhalt: </b>100ml
+- <b>Produktlinie: </b>Habit Rouge
 - <b>Geschlecht: </b>für Ihn / for Him / pour Homme
 - <b>Designer - Hersteller: </b>Guerlain
+- <b>Inhalt: </b>100ml
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0018NPTUY/?tag=tolees0ca-21)

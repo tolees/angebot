@@ -28,10 +28,10 @@ Sie können [Ravensburger 24731 - Mein Tier zu mir - Puzzelspiel für die Kleine
 
 ℹ️:
 
-- Welches Tier passt hier? Die speziell für Kleinkinder gestalteten Spielbücher zeigen niedliche Tiere und deren Familien, welche eingepuzzelt werden müssen
-- Die Reihe „Spielend Erstes Lernen“ ist mit besonders stabilen Materialien ausgestattet und unterstützt das riesige Lernpotential der Kinder in den ersten 3 Jahren. Jedes Spiel enthält mehrere abwechslungsreiche Spielformen, die alle Sinne ansprechen
 - Die liebevolle Aufmachung macht Mein Tier zu mir zu einem beliebten Kinderspiel. Es kann in vielen verschiedenen Varianten gespielt werden. Der Kreativität sind dabei keine Grenzen gesetzt
-- Beim Einpuzzeln der Tierfiguren wird spielerisch die Feinmotorik gefördert. Die Tiere auf den Lotto-Karten laden zum Nachahmen von lustigen Bewegungen ein und auf den Rückseiten der Bücher wird gemeinsam Lotto gespielt
 - Das Spiel eignet sich ideal für 1-4 Spieler ab 1 und 1/2 Jahren und bringt Spaß in jedes Kinderzimmer. Das ideale Geschenk mit kindgerechtem schönem Design zum Geburtstag oder Weihnachten
+- Die Reihe „Spielend Erstes Lernen“ ist mit besonders stabilen Materialien ausgestattet und unterstützt das riesige Lernpotential der Kinder in den ersten 3 Jahren. Jedes Spiel enthält mehrere abwechslungsreiche Spielformen, die alle Sinne ansprechen
+- Welches Tier passt hier? Die speziell für Kleinkinder gestalteten Spielbücher zeigen niedliche Tiere und deren Familien, welche eingepuzzelt werden müssen
+- Beim Einpuzzeln der Tierfiguren wird spielerisch die Feinmotorik gefördert. Die Tiere auf den Lotto-Karten laden zum Nachahmen von lustigen Bewegungen ein und auf den Rückseiten der Bücher wird gemeinsam Lotto gespielt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00741BOQC/?tag=tolees0ca-21)
