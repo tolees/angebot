@@ -28,10 +28,10 @@ Sie können [Logitech H650e Kopfhörer mit Mikrofon  Mono-Headset  Rauschunterdr
 
 ℹ️:
 
-- Flaches, wickelfreies Kabel: Vermeiden Sie verwickelte Kabel, damit Sie das Headset schnell und problemlos aufsetzen können
+- Akustische Echounterdrückung und Mikrofon mit Rauschunterdrückung: So optimiert, dass Sie selbst an geräuschvollen Arbeitsplätzen gut zu hören sind und den Gesprächspartner ebenfalls gut hören
+- Rote LED-Anzeige: Die rote Leuchte befindet sich auf der Rückseite des Headset-Bügels, sodass man wahrnimmt wenn Sie sich in einem Gespräch befinden und nicht gestört werden möchten
 - Kompatibel: Die H650e On-Ear-Kopfhörer sorgen für Audio der Unternehmensklasse und eine integrierte Erfahrung mit den meisten Business-UC-Plattformen
 - Leicht zugängliche Bedienelemente am Kabel: Tasten zum Annehmen/Beenden des Anrufs, zur Regelung der Lautstärke und zum Stummschalten des Mikrofons
-- Rote LED-Anzeige: Die rote Leuchte befindet sich auf der Rückseite des Headset-Bügels, sodass man wahrnimmt wenn Sie sich in einem Gespräch befinden und nicht gestört werden möchten
-- Akustische Echounterdrückung und Mikrofon mit Rauschunterdrückung: So optimiert, dass Sie selbst an geräuschvollen Arbeitsplätzen gut zu hören sind und den Gesprächspartner ebenfalls gut hören
+- Flaches, wickelfreies Kabel: Vermeiden Sie verwickelte Kabel, damit Sie das Headset schnell und problemlos aufsetzen können
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00C7INSWU/?tag=tolees0ca-21)

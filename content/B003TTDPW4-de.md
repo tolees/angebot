@@ -28,11 +28,11 @@ Es gibt ein [KAI Shun Premier Tim Mälzer Santoku  Klinge 18 0 cm  TDM-1702](htt
 
 ℹ️:
 
-- Shun Premier Tim Mälzer
-- handbearbeitete Hammerschlagoberfläche, zeitlose Ästhetik und ultimative Schärfe
-- Klinge 18,0 cm ; Klingenhöhe: 4,8 cm; Klingenstärke: 2 mm; Grifflänge: 12 cm; Gesamtlänge: 31,6 cm
-- VG MAX Stahl mit einem Härtegrad von 61±1 HRC
 - 32 Lagen korrosions­beständigem Damaszenerstahl, Walnuss-Griff, präzise Schnittleistungen
+- handbearbeitete Hammerschlagoberfläche, zeitlose Ästhetik und ultimative Schärfe
+- VG MAX Stahl mit einem Härtegrad von 61±1 HRC
+- Klinge 18,0 cm ; Klingenhöhe: 4,8 cm; Klingenstärke: 2 mm; Grifflänge: 12 cm; Gesamtlänge: 31,6 cm
 - Getreu Tim Mälzers Prämisse: „Ein gutes Messer erleichtert nicht nur die Arbeit, sondern hilft auch beim Gelingen“ wurde jedes der sorgfältig hergestellten Damastmesser von den japanischen Schmiedekünstlern aus Seki City minuziös auf seinen jeweiligen Anwendungsbereich abgestimmt. Alle Formen garantieren außerdem auf Grund der besonders symmetrischen Form ihres Walnuss-Griffes sowohl Rechts- als auch Linkshändern präzise Schnittleistungen.
+- Shun Premier Tim Mälzer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003TTDPW4/?tag=tolees0ca-21)

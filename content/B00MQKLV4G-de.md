@@ -28,8 +28,8 @@ Es gibt ein [Grundfos 96848693 Start-/Stopp-Pumpe pm1-1 5 1 2 kW](https://www.am
 
 ℹ️:
 
+- Verpackungsgewicht: 1.82 Kg
 - Verpackungsabmessungen (L x B x H): 19.0 zm x 22.6 zm x 23.0 zm
 - Anzahl der Packung: 1
-- Verpackungsgewicht: 1.82 Kg
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MQKLV4G/?tag=tolees0ca-21)

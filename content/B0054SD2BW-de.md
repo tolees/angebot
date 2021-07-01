@@ -28,10 +28,10 @@ Es gibt ein [Lunette Menstruationstasse - Lila - Model 1 für leichte Blutung �
 
 ℹ️:
 
-- Hergestellt in Finnland mit den höchsten Qualitätsstandards und Liebe. Alle Lunette Menstruationskappen sind bei der FDA und der Vegan Society registriert und sind frei von Chemikalien, Latex und BPA.
-- Einfach zu bedienen und beliebt bei Teenagern, jungen Anwender*innen und Menschen mit einem aktiven Lebensstil oder einer empfindlichen Blase. Alle Lunette Menstruationskappen kommen mit einem Aufbewahrungsbeutel und einer Schritt-für-Schritt-Bedienungsanleitung.
-- Lunette Menstruationskappen sind eine Zero Waste Alternative zu Tampons und Binden, und können bis zu zwei Jahre lang verwendet werden.
 - Triff die neue beste Freundin deiner Vagina. Lunette Menstruationskappen bieten eine sichere, komfortable und geruchslose Periode für bis zu 12 Stunden.
+- Lunette Menstruationskappen sind eine Zero Waste Alternative zu Tampons und Binden, und können bis zu zwei Jahre lang verwendet werden.
+- Hergestellt in Finnland mit den höchsten Qualitätsstandards und Liebe. Alle Lunette Menstruationskappen sind bei der FDA und der Vegan Society registriert und sind frei von Chemikalien, Latex und BPA.
 - Unsere Modell 1 Kappe besteht aus weichem, medizinischem Silikon und eignet sich perfekt für einen leichte bis normale Blutung.
+- Einfach zu bedienen und beliebt bei Teenagern, jungen Anwender*innen und Menschen mit einem aktiven Lebensstil oder einer empfindlichen Blase. Alle Lunette Menstruationskappen kommen mit einem Aufbewahrungsbeutel und einer Schritt-für-Schritt-Bedienungsanleitung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0054SD2BW/?tag=tolees0ca-21)

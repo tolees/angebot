@@ -28,7 +28,7 @@ Sie können [FESTOOL 500066 Einsatzboxen Box 60x60x71/6 SYS-SB](https://www.amaz
 
 ℹ️:
 
-- Geeignet für SYS-Storage Box SYS-SB
 - 6 Stück
+- Geeignet für SYS-Storage Box SYS-SB
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00F9T79DI/?tag=tolees0ca-21)

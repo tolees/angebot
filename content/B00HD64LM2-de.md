@@ -28,10 +28,10 @@ Es gibt ein [Breville VKJ813X Wasserkocher  2.400 W  silberfarben](https://www.a
 
 ℹ️:
 
-- Leuchtanzeige für kochendes Wasser
 - Verborgene Heizstäbe für leichte Reinigung, 2.400 W
+- Basis um 360 Grad drehbar, rutschfest
+- Leuchtanzeige für kochendes Wasser
 - Glaskrug 1,7 lÖffnung auf der Rückseite für leichteres Einfüllen
 - Herausnehmbarer Kalkfilter
-- Basis um 360 Grad drehbar, rutschfest
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HD64LM2/?tag=tolees0ca-21)
