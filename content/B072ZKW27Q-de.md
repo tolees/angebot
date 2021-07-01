@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Augsburger Puppenkiste - Klassiker Kolle mit 28.42 % Rabatt'
-date: 2020-09-13 06:59:59
-image: 'https://m.media-amazon.com/images/I/513lVcGf8oL._SL400_.jpg'
+title: 'LEONINE Distribution GmbH - Augsburger P mit 30.12 % Rabatt'
+date: 2021-07-01 11:42:49
+image: 'https://m.media-amazon.com/images/I/513lVcGf8oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B072ZKW27Q-de Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]'
+slug: 'B072ZKW27Q-de LEONINE Distribution GmbH - Augsburger Puppenkiste -...'
 sku: 'B072ZKW27Q-de'
-tags: [  ]
-actualPrice: 13.93 EUR
+tags: [ 'Box-Sets','DVD & Blu-ray','Featured Categories','Kinder & Familie','Serien & TV-Produktionen','leonine distribution gmbh', ]
+actualPrice: 13.97 EUR
 currency: EUR
-price: 13.93
-comparePrice: 19.46 EUR
-prodname: 'Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]'
+price: 13.97
+comparePrice: 19.99 EUR
+prodname: 'LEONINE Distribution GmbH - Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21'
-descuento: '28.42'
-average: '13.93'
+descuento: '30.12'
+average: '13.9433333333333'
 ---
 
-Sie können [Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]](https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21) mit Preis 13.93 EUR (original: 19.46 EUR) 28.42 % Rabatt hier:
+Sie können [LEONINE Distribution GmbH - Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]](https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21) mit Preis 13.97 EUR (original: 19.99 EUR) 30.12 % Rabatt hier:
 
-[![Augsburger Puppenkiste - Klassiker Kolle](https://m.media-amazon.com/images/I/513lVcGf8oL._SL400_.jpg)](https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21)
+[![LEONINE Distribution GmbH - Augsburger P](https://m.media-amazon.com/images/I/513lVcGf8oL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21)
 
 ℹ️:
 
