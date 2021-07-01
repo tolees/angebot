@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Raya und der letzte Drache [Blu-ray] mit 18.25 % Rabatt'
-date: 2021-06-29 04:47:54
+date: 2021-07-01 05:50:38
 image: 'https://m.media-amazon.com/images/I/51heXa5CE8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B092FDZH3P/?tag=tolees0ca-21'
 descuento: '18.25'
-average: '16.746'
+average: '16.61'
 ---
 
 Sie können [Raya und der letzte Drache [Blu-ray]](https://www.amazon.de/dp/B092FDZH3P/?tag=tolees0ca-21) mit Preis 13.89 EUR (original: 16.99 EUR) 18.25 % Rabatt hier:
