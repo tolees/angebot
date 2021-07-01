@@ -29,10 +29,10 @@ Es gibt ein [WOLF Garten - WOLF-Garten - 2-in-1: Unkrautvernichter plus Rasendü
 ℹ️:
 
 - Enthält 2,4-D (ISO), 2,4-Dichlorphenoxyessigsäure. Kan allergische Reaktionen hervorrufen.
-- Gegen Unkräuter
-- Schafft gesunden und dichten Rasen
-- 22 % Stickstoff, 5 % Phosphat, 5 % Kaliumoxid, 0,8 % 2,4 D und 0,12 % Dicamba
-- Wirkt zweifach über Blätter und Wurzeln innerhalb von 2 – 3 Wochen
 - Düngerwirkung: bis zu 100 Tage
+- Gegen Unkräuter
+- Wirkt zweifach über Blätter und Wurzeln innerhalb von 2 – 3 Wochen
+- 22 % Stickstoff, 5 % Phosphat, 5 % Kaliumoxid, 0,8 % 2,4 D und 0,12 % Dicamba
+- Schafft gesunden und dichten Rasen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00RQSNYXE/?tag=tolees0ca-21)
