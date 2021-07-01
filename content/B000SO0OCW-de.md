@@ -28,10 +28,10 @@ Es gibt ein [Rössler 1316452700 - S.O.H.O. Ringbuch für DIN A4  2 -Ring-Mechan
 
 ℹ️:
 
-- schmales Ringbuch
 - Füllhöhe 2,5cm
 - mit rundem Rücken
-- DIN A4
+- schmales Ringbuch
 - 2-Ring-Mechanik
+- DIN A4
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000SO0OCW/?tag=tolees0ca-21)

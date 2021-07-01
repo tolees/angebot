@@ -28,8 +28,8 @@ Es gibt ein [Lexmark C540X74G C540  C543  C544  X543  X544 Toner Drumkartusche u
 
 ℹ️:
 
-- Kartusche
-- Laser
 - Original-Kartusche
+- Laser
+- Kartusche
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001J8FAEI/?tag=tolees0ca-21)
