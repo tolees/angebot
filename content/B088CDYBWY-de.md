@@ -28,11 +28,11 @@ Es gibt ein [Wild River - Streets of Rage 4 - [Xbox One]](https://www.amazon.de/
 
 ℹ️:
 
-- Wundervolle, komplett handgezeichnete Grafiken, animiert von dem Studio, das hinter Wonder Boy: The Dragon’s Trap steht.
+- Schließe dich mit 4 Leuten offline zusammen zum ersten Mal, um die Stadt zurückzuerobern!
 - Soundtrack von einer großen All-Star-Besetzung von Musikern der Weltklasse.
 - Säubere Wood Oak City allein oder online mit einem Freund!
+- Wundervolle, komplett handgezeichnete Grafiken, animiert von dem Studio, das hinter Wonder Boy: The Dragon’s Trap steht.
 - Die Rückkehr der legendären Streets of Rage-Reihe
 - Klassisches Gameplay, verbessert mit brandneuer Mechanik.
-- Schließe dich mit 4 Leuten offline zusammen zum ersten Mal, um die Stadt zurückzuerobern!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B088CDYBWY/?tag=tolees0ca-21)
