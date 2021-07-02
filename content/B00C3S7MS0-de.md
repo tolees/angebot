@@ -28,10 +28,10 @@ Es gibt ein [Ravensburger Kinderpuzzle 10009 - Unterwasserparadies - 150 Teile](
 
 ℹ️:
 
-- Sicheres Spielen garantiert durch ausschließliche Verwendung geprüfter Materialien
-- Alter: ab 7 Jahren
-- Inhalt: 150 XXL Puzzleteile
-- Format: circa 49 x 36cm
 - Puzzlespaß im XXL-Format
+- Inhalt: 150 XXL Puzzleteile
+- Alter: ab 7 Jahren
+- Format: circa 49 x 36cm
+- Sicheres Spielen garantiert durch ausschließliche Verwendung geprüfter Materialien
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00C3S7MS0/?tag=tolees0ca-21)

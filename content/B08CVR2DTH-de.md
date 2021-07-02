@@ -28,10 +28,10 @@ Es gibt ein [Beko TSE1284N - Tischkühlschrank mit 4-Sterne-Gefrierfach/unterbau
 
 ℹ️:
 
-- Wechselbarer Türanschlag
-- Unterbaufähig
-- HxBxT: 84 x 54,5 x 60 cm
 - 4 Sterne Gefrierfach
+- Unterbaufähig
 - 36 dB
+- HxBxT: 84 x 54,5 x 60 cm
+- Wechselbarer Türanschlag
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CVR2DTH/?tag=tolees0ca-21)
