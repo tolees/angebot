@@ -28,10 +28,10 @@ Es gibt ein [LEGO 31107 Creator 3-in-1 Planeten Erkundungs-Rover  Raumstation un
 
 ℹ️:
 
-- Das Set lässt sich auch mit einem anderen Modell kombinieren, um weitere Spieloptionen zu bieten
-- Die Fantasie der Kinder wird durch unzählige Bauoptionen und Abenteuer geweckt
-- Das 3-in-1-Set inspiriert mit den 3 Modellen und der Minifigur zu kreativen Rollenspielen ohne Grenzen
 - Dieses unterhaltsame 3-in-1-Set inspiriert Weltraumfans zu fantasievollen Spielerlebnissen
+- Das 3-in-1-Set inspiriert mit den 3 Modellen und der Minifigur zu kreativen Rollenspielen ohne Grenzen
+- Die Fantasie der Kinder wird durch unzählige Bauoptionen und Abenteuer geweckt
 - Robuste, megastarke Actionspielzeuge voller Details, die Kinder nur allzu gerne entdecken
+- Das Set lässt sich auch mit einem anderen Modell kombinieren, um weitere Spieloptionen zu bieten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0813R6HZV/?tag=tolees0ca-21)
