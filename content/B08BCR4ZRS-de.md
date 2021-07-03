@@ -28,8 +28,8 @@ Es gibt ein [MSI B550M PRO-VDH WiFi AMD AM4 DDR4 M.2 USB 3.2 Gen 1 WLAN HDMI M-A
 
 ℹ️:
 
-- PCIe- und M.2- Lightning Gen4 für schnellste Datenübertragungen
 - Kompatibel mit AMD Ryzen 9, Ryzen 7 und Ryzen 5 AM4 Prozessoren der 3. Generation
+- PCIe- und M.2- Lightning Gen4 für schnellste Datenübertragungen
 - Hochwertiges Power Design mit Core Boost und DDR4 Boost
 - Optimiertes Power Design mit Core Boost und DDR4 Boost
 
