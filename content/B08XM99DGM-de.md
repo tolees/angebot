@@ -28,10 +28,10 @@ Sie können [KEAYO Baumhaus Modell  Mould King 16033  Treehouse Model mit Licht 
 
 ℹ️:
 
-- Es ist eine farbig gedruckte Anleitung sehr detailreich mit dabei. Das nummerieren der einzelnen Schritte ist sehr deutlich und übersichtlich. Die Anleitung ist auch ohne Kenntnisse einfach nachzuvollziehen. Während des Bauens können Sie praktische Fertigkeiten ausüben, Ihre Kreativität und Phantasie fördern.
-- Lieferung mit luxuriösen Originalverpackung Box. Ein lohnendes Bauprojekt für dich - oder ein ganz besonderes Geburtstags- oder Weihnachtsgeschenk für einen Menschen, der dir sehr am Herzen liegt. Für Sammler ein tolles Set und ein wirklich hübsches Display. Mit den Bausatz als Geschenk kann man absolut nichts falsch machen (empfohlen 8+).
-- Artikel-Nr: Mould King 16033 (Upgrade-Kit: Mould King 16033D). Groß Baumhaus Bausatz: 3958 Teile. Alle Teile waren von bester Qualität und vollständig, Perfekt kompatibel mit Lego Originalteilen.
 - Der Baumhaus selbst ist sehr stabil und konstruktiv sehr ansprechend. Das Baumhaus ist 57 cm lang, 44cm breit und 53 cm hoch. Das Baumhaus hat Lichteffekte und ist sehr auffällig!
+- Es ist eine farbig gedruckte Anleitung sehr detailreich mit dabei. Das nummerieren der einzelnen Schritte ist sehr deutlich und übersichtlich. Die Anleitung ist auch ohne Kenntnisse einfach nachzuvollziehen. Während des Bauens können Sie praktische Fertigkeiten ausüben, Ihre Kreativität und Phantasie fördern.
+- Artikel-Nr: Mould King 16033 (Upgrade-Kit: Mould King 16033D). Groß Baumhaus Bausatz: 3958 Teile. Alle Teile waren von bester Qualität und vollständig, Perfekt kompatibel mit Lego Originalteilen.
+- Lieferung mit luxuriösen Originalverpackung Box. Ein lohnendes Bauprojekt für dich - oder ein ganz besonderes Geburtstags- oder Weihnachtsgeschenk für einen Menschen, der dir sehr am Herzen liegt. Für Sammler ein tolles Set und ein wirklich hübsches Display. Mit den Bausatz als Geschenk kann man absolut nichts falsch machen (empfohlen 8+).
 - Powered by Passion! Für dieses Set werden keine Batterien benötigt, damit du dich sofort an das fesselnde Bauprojekt heranwagen kannst.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08XM99DGM/?tag=tolees0ca-21)

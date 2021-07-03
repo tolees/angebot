@@ -28,10 +28,10 @@ Sie können [Barilla Pesto alla Genovese – 12er Pack  12 x 190g ](https://www.
 
 ℹ️:
 
-- Für jede Situation: Pesto eignet sich für ein schnelles Mittagessen oder Abendessen ebenso gut wie für aufwendigere Gerichte - das Pesto kann einfach kalt auf die heiße Pasta gegeben werden
-- Italienische Küche erleben: Das klassische Pesto alla Genovese von Barilla verleiht jedem Pasta-Gericht ein einzigartiges, intensives Aroma - für echt italienische Geschmackserlebnisse
-- Wunderbar vielseitig: Das Pesto harmoniert nicht nur mit den verschiedensten Pastasorten, sondern schmeckt auch köstlich zu Kartoffeln, Fleisch und vielem mehr
-- Lieferumfang: Barilla Pesto alla Genovese im Glas / Vegetarisch genießen: Pesto glutenfrei verfeinert mit frischem Basilikum und italienischem Käse
 - Erlesene Zutaten: Das Pesto beinhaltet Basilikum, Pecorino, Grana Padano, Cashewnüsse und einen Hauch Knoblauch - und kommt dabei ganz ohne zusätzliche Konservierungsstoffe aus
+- Wunderbar vielseitig: Das Pesto harmoniert nicht nur mit den verschiedensten Pastasorten, sondern schmeckt auch köstlich zu Kartoffeln, Fleisch und vielem mehr
+- Für jede Situation: Pesto eignet sich für ein schnelles Mittagessen oder Abendessen ebenso gut wie für aufwendigere Gerichte - das Pesto kann einfach kalt auf die heiße Pasta gegeben werden
+- Lieferumfang: Barilla Pesto alla Genovese im Glas / Vegetarisch genießen: Pesto glutenfrei verfeinert mit frischem Basilikum und italienischem Käse
+- Italienische Küche erleben: Das klassische Pesto alla Genovese von Barilla verleiht jedem Pasta-Gericht ein einzigartiges, intensives Aroma - für echt italienische Geschmackserlebnisse
 
 [🛒 Hier!!](https://www.amazon.de/dp/B011KWUJPC/?tag=tolees0ca-21)
