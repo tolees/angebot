@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.49 % rabat auf Universum Film GmbH - Lego Ninjago Kompl'
-date: 2021-07-01 11:43:04
+date: 2021-07-03 05:55:32
 image: 'https://m.media-amazon.com/images/I/51i9DdhXtuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
