@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Greenland mit 44.44 % Rabatt'
-date: 2021-07-01 05:49:15
+title: 'Greenland mit 40.86 % Rabatt'
+date: 2021-07-02 23:49:46
 image: 'https://m.media-amazon.com/images/I/51LO21UJKPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Action & Abenteuer','DVD & Blu-ray','Drama','Featured Categories','Film
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5
-comparePrice: 11.7 EUR
+comparePrice: 10.99 EUR
 prodname: 'Greenland'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08KQY93CR/?tag=tolees0ca-21'
-descuento: '44.44'
-average: '10.8090140845071'
+descuento: '40.86'
+average: '10.7491666666667'
 ---
 
-Sie können [Greenland](https://www.amazon.de/dp/B08KQY93CR/?tag=tolees0ca-21) mit Preis 6.5 EUR (original: 11.7 EUR) 44.44 % Rabatt hier:
+Sie können [Greenland](https://www.amazon.de/dp/B08KQY93CR/?tag=tolees0ca-21) mit Preis 6.5 EUR (original: 10.99 EUR) 40.86 % Rabatt hier:
 
 [![Greenland](https://m.media-amazon.com/images/I/51LO21UJKPL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08KQY93CR/?tag=tolees0ca-21)
 
