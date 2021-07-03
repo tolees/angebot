@@ -29,8 +29,8 @@ Sie können [SMART Toys and Games GmbH 51752993 An Die Nüsse](https://www.amazo
 ℹ️:
 
 - Verpackungsgewicht: 385 g
-- Verpackungabmessungen (L x B x H): 4.9 zm x 17.2 zm x 24.3 zm
 - Altersbereich beschreibung: Kind
 - Anzahl der Packung: 1
+- Verpackungabmessungen (L x B x H): 4.9 zm x 17.2 zm x 24.3 zm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BLHMWZT/?tag=tolees0ca-21)
