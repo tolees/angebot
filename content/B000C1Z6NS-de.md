@@ -28,9 +28,9 @@ Es gibt ein [Jesus del Pozo Halloween Eau De Toilette Zerstauber  eau de toilett
 
 ℹ️:
 
-- Der Duft einer bezaubernden und verführerischen Frau. Der Zauber Ihres Parfüms zieht an, als wäre es ein magisches Elixier
-- 100 ml
 - Lang anhaltendes Parfüm
 - Eau de Toilette
+- 100 ml
+- Der Duft einer bezaubernden und verführerischen Frau. Der Zauber Ihres Parfüms zieht an, als wäre es ein magisches Elixier
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000C1Z6NS/?tag=tolees0ca-21)
