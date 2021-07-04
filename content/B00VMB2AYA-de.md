@@ -28,7 +28,7 @@ Es gibt ein [Microsoft Surface 3 Docking Station NOT compatible with Pro 3](http
 
 ℹ️:
 
-- NICHT zu Pro 3 kompatibel
 - Microsoft - Docking Station - GigE - für Surface 3
+- NICHT zu Pro 3 kompatibel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00VMB2AYA/?tag=tolees0ca-21)
