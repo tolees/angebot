@@ -31,7 +31,7 @@ Es gibt ein [Soehnle Design Aroma Diffuser Ravenna in Weiß mit Ultraschallverne
 - Praktischer Lieferumfang - Soehnle Design Aroma Diffuser Ravenna, Duftspender in Weiß für Duftöle, mit 80 ml Wassertank für 3,5 Stunden, Farbwechsel mit Colour-Stopp-Funktion, Artikelnummer 68026
 - Lange Beduftungszeit - Dank des großzügigen und leicht auffüllbaren Wassertanks von 80 ml ermöglicht der Lufterfrischer eine Raumbeduftung von bis zu 3,5 Stunden
 - Einfache Anwendung - Der moderne Raumerfrischer ermöglicht eine Beduftung mit Wasser sowie Duftöl, wobei die Intensität des Duftes individuell dosiert werden kann
-- Dezentes Farbspiel - Der Duft Diffuser verfügt über einen automatischen Farbwechsel, dabei kann die gewünschte Farbe mit der Colour-Stopp-Funktion ausgewählt werden
 - Gleichmäßige Verteilung - Der Duftöl Diffuser sorgt dank Ultraschallvernebelungstechnik für eine feine Vernebelung und damit für eine optimale Duftverteilung im Raum
+- Dezentes Farbspiel - Der Duft Diffuser verfügt über einen automatischen Farbwechsel, dabei kann die gewünschte Farbe mit der Colour-Stopp-Funktion ausgewählt werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007TJE2OA/?tag=tolees0ca-21)
