@@ -28,10 +28,10 @@ Sie können [GROHE Concetto Küchenarmatur  flacher Auslauf  Schwenkbereich 140�
 
 ℹ️:
 
-- Grohe SilkMove Keramikkartusche- dauerhafte Leichtgängigkeit
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Grohe SilkMove Keramikkartusche- dauerhafte Leichtgängigkeit
 - Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 - S-Anschlüsse mit modernen attraktiven Rosetten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B007PM3CME/?tag=tolees0ca-21)

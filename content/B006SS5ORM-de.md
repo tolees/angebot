@@ -30,8 +30,8 @@ Sie können [Rössler 1329452905 - S.O.H.O. Wire-O Fotoalbum 180 x 180 mm  30 Bl
 
 - Maße: 18 x 18 cm
 - praktisch als Geschenk
+- 30 Blatt schwarzer Fotokarton
 - Farbe: navy
 - zum selber Gestalten
-- 30 Blatt schwarzer Fotokarton
 
 [🛒 Hier!!](https://www.amazon.de/dp/B006SS5ORM/?tag=tolees0ca-21)
