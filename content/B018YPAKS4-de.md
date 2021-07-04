@@ -28,11 +28,11 @@ Es gibt ein [Bosch Professional Winkelschleifer GWS 7-125  720 Watt  Scheiben-Ø
 
 ℹ️:
 
-- Hinweis:Die Spindel ist aus Konservierungsgründen leicht gefettet, z.B. Rostschutz.
-- Hohe Anwendersicherheit durch Wiederanlaufschutz und sichere Schutzhaube
-- Lieferumfang: GWS 7-125, Zusatzhandgriff, Aufnahmeflansch, Schutzhaube, Spannmutter, Zweilochschlüssel, Karton
 - Der Winkelschleifer GWS 7-125 von Bosch Professional - mit 720 Watt und 125 mm Scheibendurchmesser
 - Angenehmes Arbeiten dank dem geringem Gewicht des Schleifers (1,9 kg) und kleinstem Griffumfang (176 mm)
+- Hinweis:Die Spindel ist aus Konservierungsgründen leicht gefettet, z.B. Rostschutz.
 - Komfortable Anwendung auch an engen Stellen durch flachen Getriebekopf
+- Hohe Anwendersicherheit durch Wiederanlaufschutz und sichere Schutzhaube
+- Lieferumfang: GWS 7-125, Zusatzhandgriff, Aufnahmeflansch, Schutzhaube, Spannmutter, Zweilochschlüssel, Karton
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B018YPAKS4/?tag=tolees0ca-21)
