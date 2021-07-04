@@ -29,8 +29,8 @@ Es gibt ein [Makita M9203 Schwingschleifer  Türkis](https://www.amazon.de/dp/B0
 ℹ️:
 
 - Staubabsaugung durch die Grundplatte
-- Fremdabsaugung anschließbar
 - Gummiabdichtungen am Schalter verhindern das Eindringen von Staub
+- Fremdabsaugung anschließbar
 - Bequemer Papierwechsel über Spannhebel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01E6MVC4K/?tag=tolees0ca-21)

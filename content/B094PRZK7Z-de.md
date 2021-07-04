@@ -28,10 +28,10 @@ Sie können [MAGATI - 25x Impfpasshülle - Schutzhülle für neuen Impfpass  Int
 
 ℹ️:
 
-- ✅ 𝗣𝗔𝗦𝗦𝗚𝗘𝗡𝗔𝗨 - die Schutzhülle inklusive praktischer Faltlinie und Einstecklaschen hat eine hohe Passgenauigkeit und ist nicht zu groß und nicht zu klein - mit Maßen von 100 mm x 137 mm zusammengeklappt oder 200 mm x 137 mm ausgeklappt passt der neue Impfpass optimal in die Hülle
-- ✅ 𝗦𝗖𝗛Ü𝗧𝗭𝗧 𝗭𝗨𝗩𝗘𝗥𝗟Ä𝗦𝗦𝗜𝗚 - besten Schutz für eines deiner wichtigsten Dokumente vor Abnutzung, Schmutz und Spritzwasser - die Hülle ist flexibel biegsam, fettabweisend und beständig gegen Lösungsmittel
 - ✅ 𝗚𝗟𝗔𝗦𝗞𝗟𝗔𝗥 & 𝗧𝗥𝗔𝗡𝗦𝗣𝗔𝗥𝗘𝗡𝗧 - durch das durchsichtige Material ist es sofort klar, um welches Dokument es sich handelt, ohne lange suchen zu müssen
 - ✅ 𝗠𝗔𝗗𝗘 𝗜𝗡 𝗚𝗘𝗥𝗠𝗔𝗡𝗬 - hergestellt in Deutschland aus reißfester, glasklarer und starker PP-Folie
+- ✅ 𝗣𝗔𝗦𝗦𝗚𝗘𝗡𝗔𝗨 - die Schutzhülle inklusive praktischer Faltlinie und Einstecklaschen hat eine hohe Passgenauigkeit und ist nicht zu groß und nicht zu klein - mit Maßen von 100 mm x 137 mm zusammengeklappt oder 200 mm x 137 mm ausgeklappt passt der neue Impfpass optimal in die Hülle
+- ✅ 𝗦𝗖𝗛Ü𝗧𝗭𝗧 𝗭𝗨𝗩𝗘𝗥𝗟Ä𝗦𝗦𝗜𝗚 - besten Schutz für eines deiner wichtigsten Dokumente vor Abnutzung, Schmutz und Spritzwasser - die Hülle ist flexibel biegsam, fettabweisend und beständig gegen Lösungsmittel
 - ✅ 𝗦𝗖𝗛𝗨𝗧𝗭𝗛Ü𝗟𝗟𝗘 - für die neue gelbe "Internationale Bescheinigung über Impfungen und Impfbuch" - auch Impfausweis oder Impfbuch genannt mit den Abmessungen 93 mm x 130 mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B094PRZK7Z/?tag=tolees0ca-21)
