@@ -28,10 +28,10 @@ Es gibt ein [MICHELIN 92421 Fußpumpe mit digitalem Manometer  2 Zylinder](https
 
 ℹ️:
 
-- Doppelzylinder-Ausführung für eine starke Pumpleistung. Praktische Aufbewahrungsmöglichkeit für die diversen Adapter, direkt am Gerät.
-- Schlauchlänge: ca. 67 cm. Genauigkeit: +/- 0,007 bar (bis 3,4 bar). Inklusive Batterie.
+- Große Trittfläche mit rutschfester Gummibeschichtung. Robuste und qualitativ hochwertige Ausführung. Gummiüberzogene Füße, für einen sicheren Stand.
 - Ideal zum komfortablen Aufpumpen von Auto- und Fahrradreifen sowie Bällen und Spielzeug
 - Digitale Druckanzeige von bar, psi und kPa
-- Große Trittfläche mit rutschfester Gummibeschichtung. Robuste und qualitativ hochwertige Ausführung. Gummiüberzogene Füße, für einen sicheren Stand.
+- Schlauchlänge: ca. 67 cm. Genauigkeit: +/- 0,007 bar (bis 3,4 bar). Inklusive Batterie.
+- Doppelzylinder-Ausführung für eine starke Pumpleistung. Praktische Aufbewahrungsmöglichkeit für die diversen Adapter, direkt am Gerät.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00K5QZNI8/?tag=tolees0ca-21)

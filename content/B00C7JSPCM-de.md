@@ -28,9 +28,9 @@ Sie können [Lalique L Amour femme/women  Eau de Parfum Spray  1er Pack  1 x 50 
 
 ℹ️:
 
-- Duftnoten: blumig, sinnlich
-- Kopfnote: Bergamotte, Neroli, Rose
 - Herznote: Tuberose, Gardenie, Jasmin
 - Basisnote: Zedernholz, Moschus
+- Duftnoten: blumig, sinnlich
+- Kopfnote: Bergamotte, Neroli, Rose
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00C7JSPCM/?tag=tolees0ca-21)
