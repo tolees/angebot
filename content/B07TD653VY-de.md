@@ -29,8 +29,8 @@ Sie können [MSI Mpg X570 Gaming Pro Carbon WiFi AMD AM4 DDR4 CF m.2 USB 3.2 Gen
 ℹ️:
 
 - Pcie und M.2 Lightning Gen4 für schnelle Datenübertragungen
-- Kompatibel mit AMD Ryzen 9, Ryzen 7 und Ryzen 5 AM4 Prozessoren der 3. Generation
 - Die vorinstallierte i/o-blende bietet mehr Schutz vor elektromagnetischer Interferenzen und mehr Komfort beim Einbau des Motherboards.
+- Kompatibel mit AMD Ryzen 9, Ryzen 7 und Ryzen 5 AM4 Prozessoren der 3. Generation
 - Wlan 6 (802.11AX) Technik mit MU-MIMO für problemfreies Online-Gaming
 - Frozr-kühlkörper mit patentiertem Lüfter und Doppelkugellager für optimale Kühlleistung
 
