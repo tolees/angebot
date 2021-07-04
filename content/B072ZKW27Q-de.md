@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Augsburger P mit 30.12 % Rabatt'
-date: 2021-07-02 23:49:29
+date: 2021-07-04 00:23:41
 image: 'https://m.media-amazon.com/images/I/513lVcGf8oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21'
 descuento: '30.12'
-average: '13.95'
+average: '13.954'
 ---
 
 Sie können [LEONINE Distribution GmbH - Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]](https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21) mit Preis 13.97 EUR (original: 19.99 EUR) 30.12 % Rabatt hier:
