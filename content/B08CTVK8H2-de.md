@@ -28,10 +28,10 @@ Es gibt ein [Alexa Rolladen Zeitschaltuhr  meross WLAN Rolladenschalter  Smart L
 
 ℹ️:
 
+- ⚠️Neutraler Draht erforderlich: WLAN Rolladenschalter für die Installation ist der Neutralleiter erforderlich. Alexa Rolladen ist 8.6*8.6*3.5cm. 2021 aktualisierte Version, löste das Geräuschproblem.
 - ✔Sicherheit & Service: Achtung: Neutraler Draht erfordlich. Der Smart Rolladenschalter besteht aus PC-Flammschutzmaterial und hat die Sicherheits- und Qualitätssicherung (CE&RoHS) bestanden. Überlastschutzschaltung. Wir bieten Ihnen lebenslangen Online-Support.
-- ✔Ausgezeichnete Qualität: Der Chipsatz ist den gleichen wie amazon Gerät Chip, wodurch die WiFi-Stabilität erheblich verbessert und Signalstörungen verringert werden. Der IoT-Chipsatz von Mediatek ermöglicht es unserem Smart LED Jalousien Schalter, einen längeren WLAN-Verbindungsbereich und eine niedrigere Abschaltrate als die meisten seiner Mitbewerber zu bieten. Es funktioniert NUR mit 2,4-GHz-WLAN.
 - ✔Sprachsteuerungssystem: “ Alexa, öffnen die Jalousien.” Der WLAN Touch-Rolladenschalter können mit Alexa, Google Assistant und SmartThings verwendet werden, um Ihr Gerät mit Sprachsteuerung zu verwalten.
 - ✔Zeitplan und Zeiteinstellung: Sie können den LED Jalousien Schalter so einstellen, dass er automatisch ein- und ausgeschaltet wird. WLAN Rolladenschalter schaltet am Samstag um 10:00 Uhr ein und am 18:00 Uhr aus. Unterstützungssonnenaufgang und Sonnenuntergangeinstellung.
-- ⚠️Neutraler Draht erforderlich: WLAN Rolladenschalter für die Installation ist der Neutralleiter erforderlich. Alexa Rolladen ist 8.6*8.6*3.5cm. 2021 aktualisierte Version, löste das Geräuschproblem.
+- ✔Ausgezeichnete Qualität: Der Chipsatz ist den gleichen wie amazon Gerät Chip, wodurch die WiFi-Stabilität erheblich verbessert und Signalstörungen verringert werden. Der IoT-Chipsatz von Mediatek ermöglicht es unserem Smart LED Jalousien Schalter, einen längeren WLAN-Verbindungsbereich und eine niedrigere Abschaltrate als die meisten seiner Mitbewerber zu bieten. Es funktioniert NUR mit 2,4-GHz-WLAN.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CTVK8H2/?tag=tolees0ca-21)
