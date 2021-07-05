@@ -29,9 +29,9 @@ Sie können [Minoura Unisex-Adult Zentrierständer FT-1  Silber  M](https://www.
 ℹ️:
 
 - Geeignet für Laufradgrößen von 12“ bis zu 29“
+- Symmetrische Bewegung der Zentriereinheit mit Schnellöffnung der seitlichen Abnehmer; Arbeiten am bereiften und unbereiften Laufrad problemlos möglich
 - Optimierte Bodenplatte sorgt für erhöhte Standfestigkeit; Platzsparend zusammenlegbar
 - Verbesserte Achsenaufnahme zum Vorgängermodell sorgt für noch mehr Stabilität; Die mechanisch gekoppelten Arme bewegen sich immer symmetrisch
 - Die perfekte Ergänzung für jede Hobbywerkstatt
-- Symmetrische Bewegung der Zentriereinheit mit Schnellöffnung der seitlichen Abnehmer; Arbeiten am bereiften und unbereiften Laufrad problemlos möglich
 
 [🛒 Hier!!](https://www.amazon.de/dp/B008ENQ39W/?tag=tolees0ca-21)
