@@ -28,8 +28,8 @@ Sie können [Joseph Joseph IntelligentWaste Totem Compact 40 Mülltrennsystem - 
 
 ℹ️:
 
-- Einzigartiges vertikales Design maximiert die Kapazitä auf kompaktem Raum
 - Maße (geöffnet): 30 x 36,6 x 76 cm
+- Einzigartiges vertikales Design maximiert die Kapazitä auf kompaktem Raum
 - integrierte Geruchskontrolle mit austauschbarem Kohlefilter
 - 2 x 20 Liter-Fächer zur Trennung von Abfall und Recycling
 - Biomüllfach mit 3 Liter Fassungsvermögen und Deckel

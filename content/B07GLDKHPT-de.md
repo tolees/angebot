@@ -28,10 +28,10 @@ Sie können [Cybex Gold Pallas S-fix/Urban Black](https://www.amazon.de/dp/B07GL
 
 ℹ️:
 
-- Maximale Sicherheit - Tiefenverstellbarer Fangkörper, 3-fach neigungsverstellbare Kopfstütze, Integrierter Seitenaufprallschutz (L.S.P. System), Energieabsorbierende Schale
-- Lieferumfang: 1 Autositz Pallas S-Fix mit ISOFIX Connect System, Inkl. ISOFIX Einbauhilfen, Material Bezug: 100% Polyester, Maße (LxBxH): 43 x 50 x 68,5 cm, Gewicht: 10,1 kg, Farbe: Urban Black
 - Stabiler und hochwertiger Kinder-Autositz mit langer Nutzungsdauer - Für Kinder im Alter von ca. 9 Monaten bis ca. 12 Jahren (9-36 kg), Geeignet für Autos mit und ohne ISOFIX - Test ADAC 10/2018: gut, Testsieger Stiftung Warentest 11/2018: gut 2,1 (Lizenz: 18PN30)
-- 12-fach verstellbare Komfortkopfstütze, Einhändig einstellbare Liegeposition, Einfacher Umbau zu Kinder-Autositz Solution S-Fix für Kinder ab 3 Jahren (Gruppe 2/3) durch Entfernung von Fangkörper und Basis
+- Lieferumfang: 1 Autositz Pallas S-Fix mit ISOFIX Connect System, Inkl. ISOFIX Einbauhilfen, Material Bezug: 100% Polyester, Maße (LxBxH): 43 x 50 x 68,5 cm, Gewicht: 10,1 kg, Farbe: Urban Black
+- Maximale Sicherheit - Tiefenverstellbarer Fangkörper, 3-fach neigungsverstellbare Kopfstütze, Integrierter Seitenaufprallschutz (L.S.P. System), Energieabsorbierende Schale
 - Einfache Befestigung im Auto mit Fahrzeug-Sicherheitsgurt und optional zusätzlich mit ISOFIX für extra Stabilität, Abnehmbarer Bezug - Waschmaschinengeeignet (30°C), Optional erhältliches Zubehör: Sommerbezug und Getränkehalter
+- 12-fach verstellbare Komfortkopfstütze, Einhändig einstellbare Liegeposition, Einfacher Umbau zu Kinder-Autositz Solution S-Fix für Kinder ab 3 Jahren (Gruppe 2/3) durch Entfernung von Fangkörper und Basis
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GLDKHPT/?tag=tolees0ca-21)

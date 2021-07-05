@@ -28,9 +28,9 @@ Es gibt ein [Relaxdays Gewürzregal  mit 12 tlg. Streuer-Set  Edelstahl  drehbar
 
 ℹ️:
 
-- Platzsparend: Komfortable Drehfunktion und kompakter Aufbau über drei Etagen
-- Dekorativ: Modernes Design in Silberoptik als Blickfang auf der Küchenzeile
 - Leichte Reinigung: Das Gewürzkarussell ist für die Spülmaschine geeignet
+- Dekorativ: Modernes Design in Silberoptik als Blickfang auf der Küchenzeile
+- Platzsparend: Komfortable Drehfunktion und kompakter Aufbau über drei Etagen
 - Hochwertig: Das Material aus Edelstahl und Glas ist rostfrei und kratzfest
 - Funktional: 12 Dosen mit Streueinsatz verschließen Gewürze (nicht enthalten) luftdicht
 

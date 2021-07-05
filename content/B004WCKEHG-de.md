@@ -28,9 +28,9 @@ Es gibt ein [Kärcher Bewässerungsautomat WT 4](https://www.amazon.de/dp/B004WC
 
 ℹ️:
 
-- Einfach programmierbarer Bewässerungsautomat zur bedarfsgerechten Bewässerung
 - Bewässerung startet und stoppt zu voreingestellter Zeit
 - Anwendungsgebiete: Zur Bewässerung kleiner bis großer Flächen und Gärten, unter Bäumen und Sträuchern, großflächiger Nutzgärten, zum Gießen von Nutzpflanzen und Zierpflanzen
+- Einfach programmierbarer Bewässerungsautomat zur bedarfsgerechten Bewässerung
 - Lieferumfang: Bewässerungscomputer WT 5 mit Hahnanschluss & Vorfilter
 - Mit abnehmbarem Bedienteil
 
