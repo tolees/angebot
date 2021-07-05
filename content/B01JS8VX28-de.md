@@ -28,10 +28,10 @@ Es gibt ein [DIADERMINE LIFT+ Augenpflege SUPER FILLER Augencreme Faltenfüllend
 
 ℹ️:
 
-- Falten werden von innen aufgepolstert, die Haut ist aufgefüllt.
-- Transparente Formeln: 86 % Inhaltsstoffe natürlichen Ursprungs (inkl. Wasser). Hohe Hautverträglichkeit.
-- Die Haut um die Augen wirkt verjüngt.
-- Dunkle Augenringe werden reduziert.
 - tiefenwirksame Hyaluron Augencreme füllt Falten auf, strafft & wirkt abschwellend kombiniert 2 Arten von Hyaluronsäure: Die mikro-injizierte Hyaluronsäure (HA) besteht aus Mikrokapseln die wie eine Injektion in die Haut eindringen, um Falten von innen wieder auf zu polstern. 5 % Hyaluron-Aktivstoffe versorgen die Hautoberfläche bis zu 24 Stunden lang und aktivieren die Hyaluronsäure-Synthese in der Haut
+- Falten werden von innen aufgepolstert, die Haut ist aufgefüllt.
+- Die Haut um die Augen wirkt verjüngt.
+- Transparente Formeln: 86 % Inhaltsstoffe natürlichen Ursprungs (inkl. Wasser). Hohe Hautverträglichkeit.
+- Dunkle Augenringe werden reduziert.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01JS8VX28/?tag=tolees0ca-21)
