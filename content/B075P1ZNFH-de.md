@@ -28,8 +28,8 @@ Sie können [IMS-CAROLINE INT. LI - Add Violence  Vinyl  [Vinyl Single]](https:/
 
 ℹ️:
 
-- Vinyl-Maxi-Single im 12"-Format (30,48 cm Durchmesser)
 - herausgegeben 2017 in Europa von Capitol Records (B002726701)
 - Musikstil: Alternative Rock / Industrial
+- Vinyl-Maxi-Single im 12"-Format (30,48 cm Durchmesser)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B075P1ZNFH/?tag=tolees0ca-21)
