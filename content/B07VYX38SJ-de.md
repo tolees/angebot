@@ -30,8 +30,8 @@ Es gibt ein [Kohree G4 LED Lampen  2W LED Glühbirne Birnen ersetzt 20W Halogenl
 
 - ★ Tiefe Betriebstemperatur & flackerfrei: Ganz tiefe Betriebstemperatur, keine Sorge, dass die Leuchten wegen langer Betriebszeit geschmolzen werden. Flackerfrei. Keine elektromagnetische Störung gegen Ihr Radio & Fernseher. Konstantstrom-IC-Schaltkreis eingebaut, der Leistungsschwankungen standhält und eine lange Lebensdauer der LED-Chips gewährleistet.
 - ★ Breiter Anwendungsbereich: Ideale Beleuchtung für Schrank, Wandschrank, Kabine und anderen Hausgebrauch. Kann auch als Mini Einbauleuchte, Leselampe, Downlight usw. verwendet werden.
-- ★ Niedriger Energieverbrauch: 4er Pack Glühlampen, bloß 2 Watt pro Birne, idealer Ersatz für Halogen Birnen um Energie zu sparen. Mit LED 12V AC/DC kompatibel.
-- ★ 2-jährige Garantie: Wir übernehmen volle Verantwortung für die Unzufriedenheit von allen Kunden mit unseren Produkten. Wenn es ein Qualitätsproblem gibt oder Sie mit Ihrem Kauf in unserem Geschäft nicht zufrieden sind, kontaktieren Sie uns bitte und wir sind immer bereit zu helfen.
 - ★ Heller & länger leuchten: Die Lichtfarbe ist gemütliches Warmweiß. Viel heller im Vergleich zu Halogenlampen, besitzen eine Lebensdauer jedoch von bis zu 25,000 Stunden. Reduzieren daher die Instandhaltungskosten, die für den Ersatz der Halogen Birnen und anderen Glühlampe sind.
+- ★ 2-jährige Garantie: Wir übernehmen volle Verantwortung für die Unzufriedenheit von allen Kunden mit unseren Produkten. Wenn es ein Qualitätsproblem gibt oder Sie mit Ihrem Kauf in unserem Geschäft nicht zufrieden sind, kontaktieren Sie uns bitte und wir sind immer bereit zu helfen.
+- ★ Niedriger Energieverbrauch: 4er Pack Glühlampen, bloß 2 Watt pro Birne, idealer Ersatz für Halogen Birnen um Energie zu sparen. Mit LED 12V AC/DC kompatibel.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07VYX38SJ/?tag=tolees0ca-21)

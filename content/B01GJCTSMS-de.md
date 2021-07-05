@@ -29,7 +29,7 @@ Sie können [Tasmanian Tiger Tactical Belt MKII Black Gürtel Schwarz 105  90-10
 ℹ️:
 
 - [1] Vier Größen
-- [2] In der Länge einstellbar: Größe S von min. 80 - max. 90cm/ Größe M von min. 95 - max. 105cm/ Größe L von min. 110 - max. 120cm/ Größe XL von min. 125 - max. 135cm
 - [3] Innenseite mit sicherer Reißverschlusstasche für Geld o.ä
+- [2] In der Länge einstellbar: Größe S von min. 80 - max. 90cm/ Größe M von min. 95 - max. 105cm/ Größe L von min. 110 - max. 120cm/ Größe XL von min. 125 - max. 135cm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01GJCTSMS/?tag=tolees0ca-21)

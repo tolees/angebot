@@ -28,13 +28,13 @@ Sie können [BGS 621 | Umschaltknarren-Satz | 3-tlg. | feinverzahnt | 6 3 mm  1/
 
 ℹ️:
 
-- Umschaltknarre | feinverzahnt | 10 mm (3/8") , Länge: 200 mm (Art. 619)
-- Umschaltknarre | feinverzahnt | 12,5 mm (1/2"), Länge: 250 mm (Art. 620)
-- rutschfester ergonomisch geformter 2-Komponenten-Griff
-- mit Einsatz-Schnelllöser
-- Umschaltknarre | feinverzahnt | 6,3 mm (1/4"), Länge: 150 mm (Art. 618)
-- feinverzahnt mit 72 Zähnen
-- gekröpfte Ausführung
 - gefertigt aus Chrom-Vanadium-Stahl
+- mit Einsatz-Schnelllöser
+- gekröpfte Ausführung
+- feinverzahnt mit 72 Zähnen
+- Umschaltknarre | feinverzahnt | 10 mm (3/8") , Länge: 200 mm (Art. 619)
+- Umschaltknarre | feinverzahnt | 6,3 mm (1/4"), Länge: 150 mm (Art. 618)
+- rutschfester ergonomisch geformter 2-Komponenten-Griff
+- Umschaltknarre | feinverzahnt | 12,5 mm (1/2"), Länge: 250 mm (Art. 620)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W6PF5RS/?tag=tolees0ca-21)
