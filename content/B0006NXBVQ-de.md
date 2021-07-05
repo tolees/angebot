@@ -28,10 +28,10 @@ Es gibt ein [OHROPAX Geraeuschschuetzer 12 St](https://www.amazon.de/dp/B0006NXB
 
 ℹ️:
 
-- Hersteller: Ohropax GmbH, Deutschland (Originalprodukt)
 - zum Schutz des Gehörs
-- Ohrstöpsel
 - zur Anwendung im Ohr
 - Hilfsmittel aus der Apotheke (PZN: 00740091)
+- Ohrstöpsel
+- Hersteller: Ohropax GmbH, Deutschland (Originalprodukt)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0006NXBVQ/?tag=tolees0ca-21)
