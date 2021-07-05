@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '35.12 % rabat auf Logitech G502 HERO High-Performance Gami'
-date: 2021-07-02 10:00:32
+title: '35.19 % rabat auf Logitech G502 HERO High-Performance Gami'
+date: 2021-07-05 03:42:40
 image: 'https://m.media-amazon.com/images/I/4189N8RLVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,28 +12,28 @@ tags: [ 'Games','Games, Hardware & Zubehör für PC','Games, Hardware & Zubehör
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99
-comparePrice: 53.93 EUR
+comparePrice: 53.99 EUR
 prodname: 'Logitech G502 HERO High-Performance Gaming-Maus mit HERO 25K DPI optischem Sensor  RGB-Beleuchtung  Gewichtstuning  11 programmierbare Tasten  anpassbare Spielprofile  PC/Mac - Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.de/dp/B07GS6ZS8J/?tag=tolees0ca-21'
-descuento: '35.12'
-average: '52.0375'
+descuento: '35.19'
+average: '50.7261538461538'
 ---
 
-Es gibt ein [Logitech G502 HERO High-Performance Gaming-Maus mit HERO 25K DPI optischem Sensor  RGB-Beleuchtung  Gewichtstuning  11 programmierbare Tasten  anpassbare Spielprofile  PC/Mac - Schwarz](https://www.amazon.de/dp/B07GS6ZS8J/?tag=tolees0ca-21) mit aktuellem Preis 34.99 EUR (original: 53.93 EUR) 35.12 % Rabatt hier:
+Es gibt ein [Logitech G502 HERO High-Performance Gaming-Maus mit HERO 25K DPI optischem Sensor  RGB-Beleuchtung  Gewichtstuning  11 programmierbare Tasten  anpassbare Spielprofile  PC/Mac - Schwarz](https://www.amazon.de/dp/B07GS6ZS8J/?tag=tolees0ca-21) mit aktuellem Preis 34.99 EUR (original: 53.99 EUR) 35.19 % Rabatt hier:
 
 [![Logitech G502 HERO High-Performance Gami](https://m.media-amazon.com/images/I/4189N8RLVYL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07GS6ZS8J/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Mechanische Switches mit Tastenfederspannung: Ein Spannungssystem mit Federn und Drehgelenken aus Metall ist in die linke und rechte Maustaste integriert und sorgt für ein promptes und klares Klickgefühl mit sofortiger Rückmeldung an den PC
-- Weltweit die #1: Die meistverkaufte Marke für Gaming Zubehör - Basierend auf unabhängigen aggregierten Verkaufsdaten (Februar 2019 bis Februar 2020) für Gaming-Keyboards, Mäuse und PC-Headsets in Einheiten
-- 11 programmierbare Tasten: Individuelle Tasteneinstellungen und ein ultraschnelles Scrollrad mit zwei Bildlaufmodi ermöglichen eine vollständig anpassbare Steuerung beim Spielen und sind die ideale Kombination zur Gaming Tastatur
 - Anpassbare Gewichte: Bis zu fünf 3,6-g-Gewichte ermöglichen eine personalisierte Konfiguration von Gewicht und Balance
 - HERO-Sensor: Der HERO Sensor der nächsten Generation für präzise Abtastung (bis zu 25 600 DPI) ohne Glättung, Filterung oder Beschleunigung
+- Weltweit die #1: Die meistverkaufte Marke für Gaming Zubehör - Basierend auf unabhängigen aggregierten Verkaufsdaten (Februar 2019 bis Februar 2020) für Gaming-Keyboards, Mäuse und PC-Headsets in Einheiten
 - LIGHTSYNC Technologie: Die Logitech G LIGHTSYNC Technologie bietet ein vollständig anpassbare RGB-Beleuchtung, die sich auch mit dem Geschehen im Spiel synchronisieren lässt.
+- Mechanische Switches mit Tastenfederspannung: Ein Spannungssystem mit Federn und Drehgelenken aus Metall ist in die linke und rechte Maustaste integriert und sorgt für ein promptes und klares Klickgefühl mit sofortiger Rückmeldung an den PC
 - Sensor der nächsten Generation: Erkennt Bewegungen kleiner als ein Mikron, kann Bewegungen, die kleiner sind als ein Millionstel Meter, haarscharf abtasten
+- 11 programmierbare Tasten: Individuelle Tasteneinstellungen und ein ultraschnelles Scrollrad mit zwei Bildlaufmodi ermöglichen eine vollständig anpassbare Steuerung beim Spielen und sind die ideale Kombination zur Gaming Tastatur
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GS6ZS8J/?tag=tolees0ca-21)
