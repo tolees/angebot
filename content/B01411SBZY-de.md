@@ -28,10 +28,10 @@ Sie können [Amazon Basics Fitted Sheet  Baumwolle  Grau  180 x 200 x 30 cm](htt
 
 ℹ️:
 
+- Knitterarmes Material aus 100% Baumwolle mit einer Fadenzahl von 400, mit edlem Satin-Finish
 - Enthält 1 Spannbetttuch
 - Mit elastischem Rundumgummi für eine verbesserte Passform der Matratze
 - Maße: 180 x 200 x 30 cm
-- Knitterarmes Material aus 100% Baumwolle mit einer Fadenzahl von 400, mit edlem Satin-Finish
 - Maschinenwaschbar mit ähnlichen Farben bei bis zu 60⁰C
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01411SBZY/?tag=tolees0ca-21)
