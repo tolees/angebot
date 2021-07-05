@@ -29,9 +29,9 @@ Sie können [Bosch Professional Exzenterschleifer GEX 125-1 AE  125 mm Schleifte
 ℹ️:
 
 - Lieferumfang: GEX 125-1 AE, 125 mm Schleifteller, Staubbox mit integriertem Bosch Microfilter-System, Schleifpapier G80, im Karton
-- Kompaktes und ergonomisches Design mit variablen Griffpositionen bietet hervorragenden Komfort auch bei Arbeiten über Kopf
 - Staubbox mit integriertem Bosch Microfilter-System für nahezu staubfreies Arbeiten
-- Exzenterschleifer-Einstiegsmodell mit 125 mm Schleiftellerdurchmesser für kleine Flächen und kleinere Reparaturarbeiten
+- Kompaktes und ergonomisches Design mit variablen Griffpositionen bietet hervorragenden Komfort auch bei Arbeiten über Kopf
 - Drehzahlvorwahl ermöglicht eine Verwendung in verschiedensten Materialien
+- Exzenterschleifer-Einstiegsmodell mit 125 mm Schleiftellerdurchmesser für kleine Flächen und kleinere Reparaturarbeiten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00SPB9TXK/?tag=tolees0ca-21)

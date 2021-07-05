@@ -28,9 +28,9 @@ Es gibt ein [iCES ICR-210 White Uhrenradio  2X Weckzeiten  Schlummerfunktion  Sl
 
 ℹ️:
 
-- UKW Uhrenradio mit 0,6" LED Display, übersichtliche Platzierung der Bedienknöpfe
-- 3 V Speicherbatterie (nicht enthalten)
 - Weckfunktion wählbar zwischen Radio oder Summer
+- 3 V Speicherbatterie (nicht enthalten)
+- UKW Uhrenradio mit 0,6" LED Display, übersichtliche Platzierung der Bedienknöpfe
 - 2 Weckzeiten und Schlummerfunktion, Sleeptimer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00VFP2T62/?tag=tolees0ca-21)

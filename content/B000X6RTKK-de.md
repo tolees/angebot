@@ -28,9 +28,9 @@ Es gibt ein [Swiss Eye Unisex Outbreak Sportbrille  clear/white  S 129mm EU](htt
 
 ℹ️:
 
-- minimales Gewicht (26g) bei maximaler Rundumsicht
 - optimaler Augenschutz auf höchstem Niveau
 - Zubehör: Mikrofaserbeutel zur Reinigung
+- minimales Gewicht (26g) bei maximaler Rundumsicht
 - stabil, flexibel und absolut pflegeleicht
 - Das sehr beliebte Modell Outbreak S (für schmale Gesichter) von Swisseye ist als Sportbrille für viele Sportarten geeignet
 

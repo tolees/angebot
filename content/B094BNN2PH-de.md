@@ -28,11 +28,11 @@ Es gibt ein [Bosch Professional 19tlg. ProBox Metallbohrer Set HSS-G + 7tlg. Bet
 
 ℹ️:
 
-- Lieferumfang: Bohrer-Ø 3 / 4 / 5 / 6 / 7 / 8 / 10 mm
 - Metallbohrer-Set zum professionellen Bearbeiten von legiertem und unlegiertem Stahl, Stahlguss, Grauguss, Sintereisen, Temperguss, Nichteisenmetallen und Hartkunststoffen
+- Betonbohrer-Set zum professionellen Bearbeiten von Beton, Mauerwerk und Kalksandsetin
 - Holzspiralbohrer-Set zum professionellen bearbeiten von Weich- und Hartholz
 - Lieferumfang: Bohrer-Ø 4 / 5 / 6 / 6 / 7 / 8 / 10 mm
-- Betonbohrer-Set zum professionellen Bearbeiten von Beton, Mauerwerk und Kalksandsetin
 - Lieferumfang: Bohrer-Ø 1/1,5/2/2,5/3/3,5/4/4,5/5/5,5/6/6,5/7/7,5/8/8,5/9/9,5/10 mm, nach DIN 338
+- Lieferumfang: Bohrer-Ø 3 / 4 / 5 / 6 / 7 / 8 / 10 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B094BNN2PH/?tag=tolees0ca-21)
