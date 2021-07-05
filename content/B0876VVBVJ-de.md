@@ -29,8 +29,8 @@ Es gibt ein [ABACUSSPIELE 03211 - Rolling Dice  Familienspiel  Würfelspiel](htt
 ℹ️:
 
 - Rolling Dice kombiniert Geschicklichkeit mit Würfelglück und ein wenig Taktik
-- Die Spielschachtel wird zur Würfelarena
 - Spieldauer: 30 min
 - Autoren: Peter Wichmann, Karl-Heinz Schmiel, Albrecht Werstein, Klaus Zoch
+- Die Spielschachtel wird zur Würfelarena
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0876VVBVJ/?tag=tolees0ca-21)
