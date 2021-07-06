@@ -28,11 +28,11 @@ Es gibt ein [Lenovo Tab M10 Full HD Plus 26 2 cm  10 3 Zoll  1920x1200  Full HD 
 
 ℹ️:
 
-- Individuelle Familien-Konten, sicherer Kindermodus 4.0 mit Augenschutz und Kontrolle der gesunden Körperhaltung
-- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- Akku: 5100 mAh Li-Polymer, bis zu 9 Stunden Akkulaufzeit (Surfen)
 - Lieferumfang: Lenovo Tab M10 Plus, Platinsilber, Reise-Netzteil, USB Typ-C-Kabel, Dokumentation
+- Individuelle Familien-Konten, sicherer Kindermodus 4.0 mit Augenschutz und Kontrolle der gesunden Körperhaltung
 - Prozessor: MediaTek Helio P22T Octa-Core (4x 2,3 GHz und 4x 1,8 GHz)
+- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Nach vorne gerichtete Stereo-Lautsprecher mit Dolby Atmos, schicke schmale Displayränder
+- Akku: 5100 mAh Li-Polymer, bis zu 9 Stunden Akkulaufzeit (Surfen)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B086WMCH4T/?tag=tolees0ca-21)

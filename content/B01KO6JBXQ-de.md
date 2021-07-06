@@ -28,10 +28,10 @@ Es gibt ein [De’Longhi - De Longhi PrimaDonna Elite ECAM 656.55.MS Kaffeevolla
 
 ℹ️:
 
+- HOCHWERTIGES MAHLWERK: Das 13-stufige Kegelmahlwerk kann individuell eingestellt werden, es passen 200 g Kaffeebohnen in den Behälter – der Vollautomat eignet auch für die Nutzung mit Kaffeepulver
+- INDIVIDUELL: Speichern Sie Ihre persönlichen Vorlieben von Aroma, Kaffee- und Milchmenge für alle Getränke
 - EINFACHE BEDIENUNG: Großes TFT Farbdisplay und alle Kaffeespezialitäten auf Knopfdruck
 - LEICHTE REINIGUNG: Die kompakte Brühgruppe ist wartungsarm, lässt sich vollständig aus der Kaffeemaschine herausnehmen und ermöglicht so eine einfache Reinigung des Maschineninnenraums
 - LATTECREMA-SYSTEM: Patentiertes Milchaufschäumsystem für besonders cremigen, feinporigen Milchschaum für den idealen Cappuccino – die Reinigung erfolgt automatisch per Drehregler
-- HOCHWERTIGES MAHLWERK: Das 13-stufige Kegelmahlwerk kann individuell eingestellt werden, es passen 200 g Kaffeebohnen in den Behälter – der Vollautomat eignet auch für die Nutzung mit Kaffeepulver
-- INDIVIDUELL: Speichern Sie Ihre persönlichen Vorlieben von Aroma, Kaffee- und Milchmenge für alle Getränke
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01KO6JBXQ/?tag=tolees0ca-21)

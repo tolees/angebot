@@ -28,8 +28,8 @@ Es gibt ein [Bosch Hausgeräte - Bosch HSG636XS6 Serie 8 Einbau-Dampfbackofen / 
 
 ℹ️:
 
-- Bedienung mit TFT-Touchdisplay: einfache Bedienung dank Bedienring mit Klartext und Abbildungen
 - Assist-Funktion: automatische Einstellung von optimaler Heizart, Temperatur und Dauer für unzählige Gerichte
+- Bedienung mit TFT-Touchdisplay: einfache Bedienung dank Bedienring mit Klartext und Abbildungen
 - Dampfbacken: durch Zugabe von Wasserdampf werden Speisen außen knusprig und innen saftig
 - Home Connect: Vernetzte Hausgeräte von Bosch für einen leichteren Alltag
 - Artikelabmessungen (ohne Verpackung) H x B x T (cm): 59,5 x 59,4 x 54,8

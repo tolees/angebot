@@ -28,10 +28,10 @@ Sie können [Addi Express-Kingsize 46 Nadeln Strickmaschine  Kunststoff  Schwarz
 
 ℹ️:
 
-- Maße Rundstrick: ø ca. 35 cm
 - Maße Flachstick: ca. 45 cm
 - inkl. Zubehör
-- empfohlene Garnstärke ist 3, 5 - 8
+- Maße Rundstrick: ø ca. 35 cm
 - mit 46 Nadeln
+- empfohlene Garnstärke ist 3, 5 - 8
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004HS7T7S/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [tesa Signal Markierungs- und Warnklebeband  rot-weiß  66m x 50mm](
 
 ℹ️:
 
-- Markierungsband zum Kennzeichnen von Hindernissen und Gefahren
-- Gleichmäßig und leise abrollbar, Sehr gut mit allen tesapack Handabrollern zu verarbeiten
 - Farbgebung entsprechend der EU Empfehlung für Markierungen
 - Das Markierungsklebeband ist in gelb/schwarz oder rot/weiß erhältlich
+- Gleichmäßig und leise abrollbar, Sehr gut mit allen tesapack Handabrollern zu verarbeiten
+- Markierungsband zum Kennzeichnen von Hindernissen und Gefahren
 - Robuste und widerstandsfähige PVC Qualtiät, Besonders klebstark und reißfest
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003A6HTIM/?tag=tolees0ca-21)
