@@ -28,10 +28,10 @@ Es gibt ein [Löwenbräu Original Helles Flaschenbier  MEHRWEG  20 x 0.5 l  im K
 
 ℹ️:
 
-- Beste Rohstoffe und ein feinherber Geschmack machen dieses helle Bier zu einem echt bayerischen Trinkgenuss
-- 20 x 0.5 l Löwenbräu in Glasflaschen
 - Löwenbräu Original Helles - Unser typisches Original aus München. Herrlich erfrischender und feinherber Geschmack
+- Beste Rohstoffe und ein feinherber Geschmack machen dieses helle Bier zu einem echt bayerischen Trinkgenuss
 - Wird im Mehrweg-Kasten geliefert
+- 20 x 0.5 l Löwenbräu in Glasflaschen
 - München hat viele Originale. Doch nur ein typisches Original aus München hat einen so erfrischenden und feinherben Geschmack, wie dieses traditionsreiche Löwenbräu, das zu jeder Gelegenheit schmeckt
 - Gebraut nach deutschem Reinheitsgebot
 - Lieferumfang: 20 x 0,5 l Löwenbräu Original Helles Flaschen-Bier (Mehrweg im Kasten) / 3,10 € Pfand zuzüglich zum Kaufpreis / Pfand wie üblich überall einlösbar
