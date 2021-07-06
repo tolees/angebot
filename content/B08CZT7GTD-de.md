@@ -28,11 +28,11 @@ Sie können [Philips HD9339/80 Wasserkocher aus Glas  2200 Watt  1 7 Liter](http
 
 ℹ️:
 
-- Behälter aus langlebigem, kristallklarem Glas mit blauer Betriebsanzeige im Sockel
-- Mehrstufiges Sicherheitssystem mit Trockenlaufschutz
 - Flaches Heizelement für kochend heißes Wasser in Sekundenschnelle
+- Mehrstufiges Sicherheitssystem mit Trockenlaufschutz
 - Fassungsvermögen: 1,7 l
 - Mikro-Sieb-Filter erfasst winzige Kalkpartikel
+- Behälter aus langlebigem, kristallklarem Glas mit blauer Betriebsanzeige im Sockel
 - Wasserkocher mit 360°-Pirouettenbasis
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CZT7GTD/?tag=tolees0ca-21)
