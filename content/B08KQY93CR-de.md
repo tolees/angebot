@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Greenland mit 34.93 % Rabatt'
-date: 2021-07-04 00:29:49
+date: 2021-07-06 06:41:18
 image: 'https://m.media-amazon.com/images/I/51LO21UJKPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08KQY93CR/?tag=tolees0ca-21'
 descuento: '34.93'
-average: '10.6909589041096'
+average: '10.6343243243243'
 ---
 
 Sie können [Greenland](https://www.amazon.de/dp/B08KQY93CR/?tag=tolees0ca-21) mit Preis 6.5 EUR (original: 9.99 EUR) 34.93 % Rabatt hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.05 % rabat auf LEONINE Distribution GmbH - Babylon Berl'
-date: 2021-07-01 05:48:42
+date: 2021-07-06 06:28:52
 image: 'https://m.media-amazon.com/images/I/51qguiN2Y-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B08BWFKFQB/?tag=tolees0ca-21'
 descuento: '24.05'
-average: '25.2125'
+average: '24.56'
 ---
 
 Es gibt ein [LEONINE Distribution GmbH - Babylon Berlin - Collection Staffel 1-3 [8 DVDs]](https://www.amazon.de/dp/B08BWFKFQB/?tag=tolees0ca-21) mit aktuellem Preis 21.95 EUR (original: 28.9 EUR) 24.05 % Rabatt hier:
