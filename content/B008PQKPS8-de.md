@@ -28,7 +28,7 @@ Es gibt ein [3M Peltor Schutzhelm G3000  G30NUO  mit 3M Uvicator Sensor  ABS  mi
 
 ℹ️:
 
-- Uvicator Sensor zeigt an, wann der Helm aufgrund zu starker UV-Strahlung ausgetauscht werden muss;Kopfband mit Ratschensystem zur einfachen und präzisen Passeinstellung
 - Kurzer Schirm gewährt eine optimale Sicht;Mehr Lüftungsschlitze als bei konventionellen Schutzhelmen mit Lüftung;Innenausstattung lässt sich um 180° drehen, sodass der Helm mit dem Schirm im Nacken getragen werden kann
+- Uvicator Sensor zeigt an, wann der Helm aufgrund zu starker UV-Strahlung ausgetauscht werden muss;Kopfband mit Ratschensystem zur einfachen und präzisen Passeinstellung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008PQKPS8/?tag=tolees0ca-21)

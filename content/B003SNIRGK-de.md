@@ -28,10 +28,10 @@ Sie können [Seeberger Sonnenblumenkerne  5er Pack  5 x 1000 g Beutel ](https://
 
 ℹ️:
 
-- schöne und große Sonnenblumenkerne
 - aus Südamerika
-- Richtig fit laut Deutschem Sportbund
 - Sonnenblumenkerne
+- schöne und große Sonnenblumenkerne
 - Naturprodukt
+- Richtig fit laut Deutschem Sportbund
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003SNIRGK/?tag=tolees0ca-21)
