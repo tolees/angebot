@@ -29,9 +29,9 @@ Sie können [KabelDirekt – 10 m – Kopfhörer-Verlängerungskabel  3 5-mm-Kli
 ℹ️:
 
 - Die hochreinen Kupferleitungen sind durch einen flexiblen PVC-Mantel bestens geschützt – für höchste Stabilität und maximale Flexibilität zugleich
-- Perfekt geeignet für Kopfhörer mit 2- oder 3-poligem Klinkenstecker. Weiteres Zubehör auf amazon.de/kabeldirekt
 - 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Die Lötstellen des hochwertigen Steckers sind von einer zusätzlichen Metallhülse umgeben – für höchste Robustheit und Bruchsicherheit. Die durchgängige Abschirmung und die vergoldeten Kontakte garantieren unverfälschte Signalqualität
+- Perfekt geeignet für Kopfhörer mit 2- oder 3-poligem Klinkenstecker. Weiteres Zubehör auf amazon.de/kabeldirekt
 - Die Aux-Verlängerung mit 3,5-Millimeter-Verbindern (Stecker auf Buchse) verlängert Klinkenkabel und überträgt Stereo-Tonsignale in brillanter Qualität – von Smartphones, Notebooks, Audio-Playern und anderen Geräten mit 3,5-mm-Aux-Anschluss
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00L5FVWVK/?tag=tolees0ca-21)
