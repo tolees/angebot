@@ -28,10 +28,10 @@ Sie können [AOC Gaming Q27G2U - 27 Zoll QHD Monitor  144 Hz  1ms  FreeSync Prem
 
 ℹ️:
 
+- Helligkeit/Kontrast: 250 cd/m², 1.000:1, Anschlüsse: 2 x HDMI 1,4, 1 x Displayport 1,2, USB Hub x 4
+- VA Panel, Quad HD, mattes Display, 130 mm höhenverstellbar, Headphone out, Vesa 100 x 100, Standfuss abnehmbar, schlanker Rahmen, USB Hub (3.0)
 - 27 Zoll WQHD Gamingdisplay mit FlickerFree und Low-Blue-Light Technologie für unbegrenzten Spiele Spaß
 - Lieferumfang: AOC Q27G2U/BK Monitor 80 cm (27 Zoll) schwarz/rot, Stromkabel, HDMI-Kabel, Displayport-Kabel, Treiber-CD, Garantiekarte
-- VA Panel, Quad HD, mattes Display, 130 mm höhenverstellbar, Headphone out, Vesa 100 x 100, Standfuss abnehmbar, schlanker Rahmen, USB Hub (3.0)
 - Herstellergarantie: 3 Jahre Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- Helligkeit/Kontrast: 250 cd/m², 1.000:1, Anschlüsse: 2 x HDMI 1,4, 1 x Displayport 1,2, USB Hub x 4
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083QQ6V1N/?tag=tolees0ca-21)
