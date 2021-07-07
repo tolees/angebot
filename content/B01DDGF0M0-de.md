@@ -28,9 +28,9 @@ Es gibt ein [Philips myGarden LED Wandaussenleuchte Grass 2-flammig  Bewegungsme
 
 ℹ️:
 
-- Minimalistisches Design für eine moderne Athomsphäre
-- Bewegungssensor für mehr Komfort und Sicherheit
 - Energiesparendes und leistungsstarkes Licht
+- Bewegungssensor für mehr Komfort und Sicherheit
+- Minimalistisches Design für eine moderne Athomsphäre
 - Wetterfest: Speziell für feuchte Umgebungen im Freien entwickelt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01DDGF0M0/?tag=tolees0ca-21)

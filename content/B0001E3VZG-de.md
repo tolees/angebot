@@ -28,10 +28,10 @@ Sie können [Gardena combisystem-Kultivator: Ideales Gartenzubehör zum Lockern 
 
 ℹ️:
 
-- Korrosionsbeständig: Der Kultivator besteht aus hochwertigem Qualitätsstahl und ist zusätzlich mit Duroplast beschichtet
-- Zur Bodenlockerung: Der Gardena combisystem-Kultivator verfügt über drei lanzenförmig geprägte Zinken, die sich ideal zum mühelosen Lockern von leichten bis mittelschweren Böden eignen
 - Perfekt kombinierbar: Der Aufsatz zum Rasenkantenstechen passt zu allen Gardena cs-Stielen, egal ob aus Holz oder Aluminium, zusätzlich erhältlich sind auch Spezial-Stiele für rückenschonendes Arbeiten
+- Korrosionsbeständig: Der Kultivator besteht aus hochwertigem Qualitätsstahl und ist zusätzlich mit Duroplast beschichtet
 - Lieferumfang beinhaltet: 1x Gardena combisystem-Kultivator, Stiel nicht im Lieferumfang enthalten, separat erhältlich
 - Wackelfreies Stecksystem: Das Gartengerät passt zu allen Gardena cs-Stielen und lässt sich leicht aufstecken und festschrauben
+- Zur Bodenlockerung: Der Gardena combisystem-Kultivator verfügt über drei lanzenförmig geprägte Zinken, die sich ideal zum mühelosen Lockern von leichten bis mittelschweren Böden eignen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0001E3VZG/?tag=tolees0ca-21)

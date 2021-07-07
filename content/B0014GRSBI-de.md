@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Handtacker HT 14  Holz  Klammertyp 53 ](https://
 
 ℹ️:
 
+- Der Handtacker HT 14 von Bosch Professional - geeignet für Stoffe, Dachpappe, Folien, Isoliermaterialien, Drahtgeflechte und leichte Polsterarbeiten
 - Lieferumfang: 1 x Handtacker HT 14
 - Passender Klammertyp 53: Länge 4/6/8/10/12/14 mm, Passender Stifttyp 4: Länge 14 mm
-- Der Tacker ist ein Allroundtacker in robuster Ganzstahlausführung
-- Der Handtacker HT 14 von Bosch Professional - geeignet für Stoffe, Dachpappe, Folien, Isoliermaterialien, Drahtgeflechte und leichte Polsterarbeiten
 - Mit stufenloser Schlagkraftregulierung, gepolsterter Griffmulde und Griffarretierung
+- Der Tacker ist ein Allroundtacker in robuster Ganzstahlausführung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0014GRSBI/?tag=tolees0ca-21)
