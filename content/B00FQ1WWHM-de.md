@@ -28,9 +28,9 @@ Sie können [Scholl Expert Care  Hornhaut Entfernung für seidig weiche Füße  
 
 ℹ️:
 
-- STARKE HORNHAUTENTFERNUNG: Die mit Meeresmineralien versehene Rolloberfläche mit starker Körnung entfernt mühelos und sorgfältig Hornhaut - für zarte und gepflegte Haut in nur wenigen Minuten
 - ANWENDUNG: Die elektrische Fußfeile kreisend über die verhornten Stellen am Fuß bewegen - effektives Entfernen auch von starker Hornhaut / Auf nassen, feuchten oder trockenen Füßen anwendbar
 - TROCKENE, RISSIGE FÜSSE UND KEINE RETTUNG IN SICHT? Der elektrische Hornhautentferner von Scholl sorgt für seidig weiche Füße und ein angenehmes Hautgefühl ab der ersten Anwendung
+- STARKE HORNHAUTENTFERNUNG: Die mit Meeresmineralien versehene Rolloberfläche mit starker Körnung entfernt mühelos und sorgfältig Hornhaut - für zarte und gepflegte Haut in nur wenigen Minuten
 - EIGENSCHAFTEN: Das Gerät ist batteriebetrieben mit einer Leistungsdauer von bis zu 90 Minuten und verfügt zudem über eine Sicherheitsstopp-Funktion, die bei zu starkem Druck ausgelöst wird
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00FQ1WWHM/?tag=tolees0ca-21)
