@@ -30,7 +30,7 @@ Sie können [Dunlop Sports - Dunlop A442031 S5 ACIF. KNIE ZWART 43  Unisex-Erwac
 
 - Stahlkappe & Stahlzwischensohle
 - Zusätzlicher Knöchelschutz für optimalen Schutz
-- Sehr haltbarer, verschleiß- und reißfester Schaft
 - Ölbeständig, ausgezeichnete Griffigkeit durch SRA-zertifizierte Außensohle
+- Sehr haltbarer, verschleiß- und reißfester Schaft
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00B78VZ3K/?tag=tolees0ca-21)
