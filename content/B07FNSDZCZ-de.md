@@ -28,10 +28,10 @@ Sie können [LEGO 10895 DUPLO Movie 2 Besucher DUPLO Planeten  Vom Hersteller N
 
 ℹ️:
 
-- Anzahl der Teile: 53
-- Besucher vom LEGO DUPLO Planeten
 - Im Zubehör sind eine Schaufel, ein Becher und ein Stoppschild enthalten
-- Das Spielset umfasst vier baubare Alien-Eindringlinge aus THE LEGO MOVIE 2
+- Besucher vom LEGO DUPLO Planeten
 - Vom Hersteller empfohlenes Alter: 2+
+- Das Spielset umfasst vier baubare Alien-Eindringlinge aus THE LEGO MOVIE 2
+- Anzahl der Teile: 53
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNSDZCZ/?tag=tolees0ca-21)
