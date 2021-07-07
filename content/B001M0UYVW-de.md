@@ -28,8 +28,8 @@ Es gibt ein [Trio Leuchten - Trio-Leuchten 5914011-02 Tischleuchte Touch ME 1xE1
 
 ℹ️:
 
-- Leuchte exklusive Leuchtmittel. Empfohlenes Leuchtmittel 1xE14 max. 28 Watt
 - 4-fach Touch-Dimmer, durch eine einfache Berührung am Sockel kann die Leuchte in drei verschiedene Helligkeitsstufen geschaltet sowie ausgeschaltet werden
+- Leuchte exklusive Leuchtmittel. Empfohlenes Leuchtmittel 1xE14 max. 28 Watt
 - Tischleuchte mit Sockel in Nickel matt und Stoffschirm in der Farbe schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001M0UYVW/?tag=tolees0ca-21)
