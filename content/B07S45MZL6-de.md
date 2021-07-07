@@ -28,10 +28,10 @@ Es gibt ein [Govee RGBIC LED Strip 5m  LED Streifen Sync mit Musik  steuerbar vi
 
 ℹ️:
 
-- Mehrere Szenenmodi: Wählen Sie 44 Szenenmodi auf der App aus, z.B. Dating, Romantik, Blinken, Kerzenlicht, Energetisch, Atmen, Schneeflocke, usw.
-- App-steuerung: Verwenden Sie die Govee Home App, um verschiedene Modi auszuwählen, die Ihren Beleuchtungsanforderungen entsprechen.
-- Musiksynchronisation: Dank des eingebauten Mikrofons kann das Licht nach Musik oder Umgebungsgeräusch die Farbe und Geschwindigkeit ändern.
 - Vielfältige Lichteffekte: Der eingebaute RGBIC-Chip ermöglicht das gleichzeitige Zeigen mehrerer Farben auf einem LED-Streifen. Die Farben des Segements können individuell gesteuert werden.
 - Einfache Installation: Reinigen Sie die Installationsfläche und kleben Sie den Lichtstreifen ein. Geeignet für Innen- und Außenbereich. (Hinweis: Der Adapter ist nicht wasserdicht.)
+- Musiksynchronisation: Dank des eingebauten Mikrofons kann das Licht nach Musik oder Umgebungsgeräusch die Farbe und Geschwindigkeit ändern.
+- Mehrere Szenenmodi: Wählen Sie 44 Szenenmodi auf der App aus, z.B. Dating, Romantik, Blinken, Kerzenlicht, Energetisch, Atmen, Schneeflocke, usw.
+- App-steuerung: Verwenden Sie die Govee Home App, um verschiedene Modi auszuwählen, die Ihren Beleuchtungsanforderungen entsprechen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07S45MZL6/?tag=tolees0ca-21)

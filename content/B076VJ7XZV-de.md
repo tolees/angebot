@@ -29,9 +29,9 @@ Sie können [HDMI Switch  Techole HDMI Splitter Bidirektional 2 In 1 Out oder Sc
 ℹ️:
 
 - 【Einfach zu bedienen】Plug und Play, kein externer Treiber erforderlich, drücken Sie einfach die Taste auf der HDMI-Box, um die Eingabe- oder Ausgabequelle zu verschieben. Mit 2 LED-Anzeigen können Sie leicht erkennen, welches angeschlossene HDMI-Gerät läuft.
-- 【Hohe Auflösung】Unterstützt 3D, 1080P, 4K x 2K Auflösung und HD-Audio. Bitte verbinden Sie HDMI-Quelle (wie XBox und PS4), Ihre Anzeigegerät und HDMI-Switch mit Standard-HDMI-2.0-Kabel, wenn die Auflösung Ihrer HDMI-Quelle 4K（4096 * 2160）unterstützt.
-- 【Bidirektionaler HDMI Verteiler】Sie können zwei HDMI-Quellen an ein HDMI-Display anschließen oder eine HDMI-Quelle anschließen, um zwischen zwei Displays umzuschalten. (nur ein Monitor wird angezeigt)
-- 【Schnelle und stabile Übertragung】Dieser HDMI AB Switcher unterstützt nicht nur die Übertragung von Daten mit einer hohen Bandbreite von 3,4 Gbit / s, sondern gewährleistet auch eine stabile und hochauflösende Anzeige von Audio und Video. Input und Output AWG26 HDMI-Standardkabel kann bis zu 5m erreichen.
 - 【Breite Kompatibilität】Geeignet für die meisten Geräte mit Standard-HDMI-Schnittstelle. Eingabe: Computer, XBox 360, Xbox One, PS3 / PS4, Blu-Ray DVD-Player usw. Ausgabe: HD-Ready oder Full HD-Fernseher, Monitore, Projektoren usw.
+- 【Bidirektionaler HDMI Verteiler】Sie können zwei HDMI-Quellen an ein HDMI-Display anschließen oder eine HDMI-Quelle anschließen, um zwischen zwei Displays umzuschalten. (nur ein Monitor wird angezeigt)
+- 【Hohe Auflösung】Unterstützt 3D, 1080P, 4K x 2K Auflösung und HD-Audio. Bitte verbinden Sie HDMI-Quelle (wie XBox und PS4), Ihre Anzeigegerät und HDMI-Switch mit Standard-HDMI-2.0-Kabel, wenn die Auflösung Ihrer HDMI-Quelle 4K（4096 * 2160）unterstützt.
+- 【Schnelle und stabile Übertragung】Dieser HDMI AB Switcher unterstützt nicht nur die Übertragung von Daten mit einer hohen Bandbreite von 3,4 Gbit / s, sondern gewährleistet auch eine stabile und hochauflösende Anzeige von Audio und Video. Input und Output AWG26 HDMI-Standardkabel kann bis zu 5m erreichen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076VJ7XZV/?tag=tolees0ca-21)
