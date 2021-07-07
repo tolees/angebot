@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soundcore Liberty Air Bluetooth Kopfhöre mit 39.69 % Rabatt'
-date: 2021-07-06 03:55:06
+date: 2021-07-07 04:35:02
 image: 'https://m.media-amazon.com/images/I/31fBBo8jeKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
