@@ -28,8 +28,8 @@ Es gibt ein [Trio Leuchten Wandleuchte Marta in Nickel matt  Glas alabasterfarbi
 
 ℹ️:
 
-- Glas hat die Maße 20x20cm
 - Leuchte exklusive Leuchtmittel. Passendes Leuchtmittel 1xE14 max. 40 Watt
 - Wandleuchte mit Glas in alabasterfarbig weiß mit Glashaltern in Nickel matt
+- Glas hat die Maße 20x20cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007I7H4MU/?tag=tolees0ca-21)

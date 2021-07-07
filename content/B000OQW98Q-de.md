@@ -28,9 +28,9 @@ Es gibt ein [Exo Terra Terrarium aus Glas  mit einzigartiger Front Belüftung  3
 
 ℹ️:
 
+- Wasserdichter Boden
 - Zwei Türen für einen ausbruchsicheren Zugang
 - Netzgitterabdeckung kann leicht befestigt werden
-- Wasserdichter Boden
 - 30 x 30 x 45 cm / 12” x 12” x 18” (WxDxH)
 - Ventilation durch das vordere Fenster
 

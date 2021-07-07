@@ -29,8 +29,8 @@ Sie können [Kingston SDC4/32GB Micro SDHC Speicherkarte](https://www.amazon.de/
 ℹ️:
 
 - Verwendung als Full-Size SDHC Speicherkarte dank mitgelieferten Adapter
-- Klasse 4: mindestens 4MB/s Datenübertragungsrate
 - 32GB microSDHC Karte
+- Klasse 4: mindestens 4MB/s Datenübertragungsrate
 - Lieferumfang: Kingston SDC4/32GB Micro SDHC Speicherkarte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00D9OQ1JS/?tag=tolees0ca-21)

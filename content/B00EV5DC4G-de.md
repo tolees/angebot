@@ -28,10 +28,10 @@ Es gibt ein [Umbra Showcase Wandregal – Kleine Regale und Wandablagen zur Prä
 
 ℹ️:
 
-- VON DESIGNER THOMAS VINCENT FÜR UMBRA ENTWORFEN: Diese schlichten und doch auffälligen Mini-Wandablagen garantieren eine ansprechende Inszenierung aller Objekte, die darauf platziert werden
 - GALERIE LOOK: Die kleinen Schweberegale sind ideal zur Präsentation von Pokalen, kleinen Figuren, Sammlerobjekten, Kerzen, kleinen Blumentöpfen, Deko-Artikeln und vielem mehr; jedes Mini Regal ist 10 x 2,5 x 7,5 cm groß und kann mit bis zu 1 kg belastet werden
 - ZUFRIEDENHEIT GARANTIERT ODER SIE BEKOMMEN IHR GELD ZURÜCK: Umbra verpflichtet sich für höchste Qualität und Güte und steht hinter jedem Produkt was wir machen. Wir wissen, dass Sie Ihren Einkauf lieben werden aber wenn Sie aus irgendeinem Grund oder sogar grundlos nicht absolut begeistert sind, dann kontaktieren Sie uns einfach innerhalb von 30 Tagen nach Erhalt Ihrer Bestellung und wir helfen Ihnen gerne dabei, die Situation zu lösen oder Ihr Geld zu erstatten.
-- FREISCHWEBENDES DESIGN: Dank ihrer verdeckten Anbringung sehen die Showcase Wandboards aus, als würden Sie an der Wand schweben
 - EINFACH ZU REINIGEN: Die aus lackiertem Holz gefertigten Wandregale lassen sich einfach mit einem feuchten Tuch reinigen; die benötigten Anbringungsmaterialien sind im Lieferumfang enthalten
+- FREISCHWEBENDES DESIGN: Dank ihrer verdeckten Anbringung sehen die Showcase Wandboards aus, als würden Sie an der Wand schweben
+- VON DESIGNER THOMAS VINCENT FÜR UMBRA ENTWORFEN: Diese schlichten und doch auffälligen Mini-Wandablagen garantieren eine ansprechende Inszenierung aller Objekte, die darauf platziert werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EV5DC4G/?tag=tolees0ca-21)
