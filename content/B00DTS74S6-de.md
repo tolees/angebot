@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.67 % rabat auf SONY Deutschland GmbH - Eine schrecklich'
-date: 2021-06-26 05:01:19
+date: 2021-07-08 12:49:49
 image: 'https://m.media-amazon.com/images/I/61mxkx8U-zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'SONY Deutschland GmbH'
 buyurl: 'https://www.amazon.de/dp/B00DTS74S6/?tag=tolees0ca-21'
 descuento: '16.67'
-average: '40.6940909090908'
+average: '40.4460869565216'
 ---
 
 Es gibt ein [SONY Deutschland GmbH - Eine schrecklich nette Familie - Die komplette Serie [33 DVDs]](https://www.amazon.de/dp/B00DTS74S6/?tag=tolees0ca-21) mit aktuellem Preis 34.99 EUR (original: 41.99 EUR) 16.67 % Rabatt hier:
