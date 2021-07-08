@@ -28,10 +28,10 @@ Sie können [febi bilstein 15394 Ventildeckeldichtung   1 Stück](https://www.am
 
 ℹ️:
 
+- Material: Gummi, Gewicht: 0,02 kg
 - u.a. geeignet für: Seat: Ibiza II (6K), Arosa (6H), Cordoba (6K), Skoda: Felicia (6U), Octavia I (1U), VW: Polo 3 (6N), Golf 3 (1H), Polo 3 (6V), Lupo (6X), Caddy 2 (9K)
 - Bitte verwenden Sie die Fahrzeugidentifikation oben auf der Seite, um die Kompatibilität mit Ihrem Fahrzeug zu bestätigen. Sämtliche Einschränkungen sind zu beachten!
-- OE Nummern (nur zu Vergleichszwecken): Seat: 030 103 483 K, Skoda: 030 103 483 K, VW: 030 103 483 K
-- Material: Gummi, Gewicht: 0,02 kg
 - Original febi bilstein Ersatzteil - Solutions „Made in Germany"
+- OE Nummern (nur zu Vergleichszwecken): Seat: 030 103 483 K, Skoda: 030 103 483 K, VW: 030 103 483 K
 
 [🛒 Hier!!](https://www.amazon.de/dp/B006DHU1VW/?tag=tolees0ca-21)

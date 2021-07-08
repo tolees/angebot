@@ -29,7 +29,7 @@ Sie können [Milwaukee 4933451430 M18 CHX-0 18V Akku-Kombihammer  2 5J  ohne Akk
 ℹ️:
 
 - Robustes Metallgetriebegehäuse
-- Kompaktes, ergonomisches Design für hohen Anwenderkomfort
 - längere Lebensdauer des Motors und mehr Leistung
+- Kompaktes, ergonomisches Design für hohen Anwenderkomfort
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01DKTWXSE/?tag=tolees0ca-21)

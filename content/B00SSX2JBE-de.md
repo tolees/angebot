@@ -28,10 +28,10 @@ Es gibt ein [Casio Edifice Herren Massives Edelstahlgehäuse und Edelstahlarmban
 
 ℹ️:
 
+- Wasserdicht bis 10 Bar
+- Neo Display
 - Mineralglas
 - Massives Edelstahlarmband
 - Massives Edelstahlgehäuse
-- Wasserdicht bis 10 Bar
-- Neo Display
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00SSX2JBE/?tag=tolees0ca-21)

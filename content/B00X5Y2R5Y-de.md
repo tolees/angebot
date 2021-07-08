@@ -28,15 +28,15 @@ Sie können [Samyang 100/3 1 Objektiv Makro Video DSLR Canon EF manueller Fokus 
 
 ℹ️:
 
-- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
-- Samyang 100mm T3.1 VDSLR ED UMC MACRO für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
+- Manuell fokussierendes Video-Objektiv 100mm T3.1
 - Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
-- Manuell fokussierendes Video-Objektiv 100mm T3.1
+- Samyang 100mm T3.1 VDSLR ED UMC MACRO für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
+- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
+- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
 - Manuell fokussierendes Video-Objektiv 100mm T3.1
 - Samyang 100mm T3.1 VDSLR ED UMC MACRO für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
-- Lieferumfang : Samyang 100mm T3.1 VDSLR ED UMC MACRO für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
-- Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 - Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz (0,8 mm)
+- Lieferumfang : Samyang 100mm T3.1 VDSLR ED UMC MACRO für Anschluss Canon; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00X5Y2R5Y/?tag=tolees0ca-21)
