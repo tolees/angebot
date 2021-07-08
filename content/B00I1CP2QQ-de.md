@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.32 % rabat auf Olympus MCON-P02 Makro Konverter  geeign'
-date: 2021-07-06 20:31:56
+date: 2021-07-08 04:49:48
 image: 'https://m.media-amazon.com/images/I/412HdigWreL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Olympus'
 buyurl: 'https://www.amazon.de/dp/B00I1CP2QQ/?tag=tolees0ca-21'
 descuento: '23.32'
-average: '54.95'
+average: '54.5'
 ---
 
 Es gibt ein [Olympus MCON-P02 Makro Konverter  geeignet für EZ-M1442 IIR  EZ-M1442EZ  ES-M2518  Et-M4518  EW-M1718  EW-M1221 ](https://www.amazon.de/dp/B00I1CP2QQ/?tag=tolees0ca-21) mit aktuellem Preis 53.6 EUR (original: 69.9 EUR) 23.32 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [Olympus MCON-P02 Makro Konverter  geeignet für EZ-M1442 IIR  EZ-M1
 
 ℹ️:
 
-- Lieferumfang:Olympus MCON-P02 Makro Konverter
-- für tolle Nahaufnahmen
-- aus hochwertigen Materialien (Glas/Metal)
 - Reduziert den minimalen Aufnahmeabstand
+- für tolle Nahaufnahmen
+- Lieferumfang:Olympus MCON-P02 Makro Konverter
+- aus hochwertigen Materialien (Glas/Metal)
 - für die perfekte Ausleuchtung kombinieren Sie es mit dem Marko Arm Light
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00I1CP2QQ/?tag=tolees0ca-21)
