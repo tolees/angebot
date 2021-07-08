@@ -28,9 +28,9 @@ Es gibt ein [Breville VTT755X 2 Scheiben Toaster  Metall  weiß](https://www.ama
 
 ℹ️:
 
-- Brotanhebung zur Entnahme kleinerer Brotscheiben ohne verbrannte Finger
-- Beleuchtete Bedienungstasten zur leichten Erkennung der Funktionen
 - Auftau-, Aufwärm- und Abbruchfunktion sowie entnehmbare Krümelschalen für die leichte Reinigung
 - Variable Bräunungssteuerung und Toasterschlitze für dicke und dünne Brotscheiben
+- Brotanhebung zur Entnahme kleinerer Brotscheiben ohne verbrannte Finger
+- Beleuchtete Bedienungstasten zur leichten Erkennung der Funktionen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01DKR9GG8/?tag=tolees0ca-21)

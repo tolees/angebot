@@ -28,10 +28,10 @@ Sie können [Samyang 20/1 9 Objektiv Video DSLR Canon EF manueller Fokus Videoob
 
 ℹ️:
 
-- Manuell fokussierendes Video Objektiv 20mm T1.9
 - Entkoppelte stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz
-- Speziell für APSC Kameras bis hin zu Vollformat Kameras
-- Herstellergarantie 5 Jahre bei Verkauf und Versand durch de Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Manuell fokussierendes Video Objektiv 20mm T1.9
 - Lieferumfang Samyang 20mm T1.9 VDSLR ED AS UMC Objektiv für Anschluss Canon Sonnenblende Schutzdeckel für Linse und Anschlussgewinde Objektivschutzbeutel Anleitung
+- Herstellergarantie 5 Jahre bei Verkauf und Versand durch de Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Speziell für APSC Kameras bis hin zu Vollformat Kameras
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LX5ISNK/?tag=tolees0ca-21)

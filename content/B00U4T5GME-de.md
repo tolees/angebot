@@ -28,10 +28,10 @@ Sie können [Haba 300438 - Kugelbahn Kullerbü - Windradbahn](https://www.amazon
 
 ℹ️:
 
-- Dank cleverem Klicksystem ist die Kugelbahn einfach aufgebaut, steht stabil und ist mit allen Kullerbü-Kugelbahnen kominierbar
-- Die Windradbahn aus der beliebten Kullerbü Kugelbahn-Spielwelt von HABA bringt noch mehr Abwechslung ins Kullervergnügen
 - HABA bietet Vorlese-Geschichten, DIY-Inhalte, Informationen für Eltern und Spiele in der Themenwelt Kullerbü
-- Mit Windrad, Glöckchen-Tor und Steilkurve sorgt die Holzkugelbahn für tolle Effekte
 - Mit ihren großen Kugeln ist die Bahn schon für Kinder ab 2 Jahren geeignet
+- Dank cleverem Klicksystem ist die Kugelbahn einfach aufgebaut, steht stabil und ist mit allen Kullerbü-Kugelbahnen kominierbar
+- Mit Windrad, Glöckchen-Tor und Steilkurve sorgt die Holzkugelbahn für tolle Effekte
+- Die Windradbahn aus der beliebten Kullerbü Kugelbahn-Spielwelt von HABA bringt noch mehr Abwechslung ins Kullervergnügen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00U4T5GME/?tag=tolees0ca-21)
