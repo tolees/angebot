@@ -28,11 +28,11 @@ Sie können [Kappa Polo Peleot Shirt  001 weiß  S  303173](https://www.amazon.d
 
 ℹ️:
 
-- Klassisches Poloshirt von Kappa
-- Ideal für Sport und Freizeit
-- Sporttyp: Laufen
-- Mit kurzer Knopfleiste
-- Kleine Logostickerei über der Brust
 - Hochwertige Piqué-Qualität aus 100% Baumwolle
+- Ideal für Sport und Freizeit
+- Mit kurzer Knopfleiste
+- Klassisches Poloshirt von Kappa
+- Kleine Logostickerei über der Brust
+- Sporttyp: Laufen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00GPJXK7K/?tag=tolees0ca-21)

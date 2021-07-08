@@ -28,8 +28,8 @@ Es gibt ein [Magnat Monitor Supreme 1002  Mocca](https://www.amazon.de/dp/B00GTL
 
 ℹ️:
 
-- Das schlanke MDF-Resonanzgehäuse (215 x 990 x 313 mm) in optisch ansprechendem Esche-Dekor in Mocca gewährleistet ein hohes Leistungsspektrum und eine beeindruckende Bassqualität.
-- Konzipiert für eine ideale und natürliche Surround-Klangqualität, z. B. als Front oder Rear Speaker.
 - Hohe Kontaktsicherheit durch vergoldete Schraubanschlüsse sowie Spikes zur Minderung der Bodenresonanz.
+- Konzipiert für eine ideale und natürliche Surround-Klangqualität, z. B. als Front oder Rear Speaker.
+- Das schlanke MDF-Resonanzgehäuse (215 x 990 x 313 mm) in optisch ansprechendem Esche-Dekor in Mocca gewährleistet ein hohes Leistungsspektrum und eine beeindruckende Bassqualität.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00GTLTMIA/?tag=tolees0ca-21)
