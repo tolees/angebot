@@ -28,12 +28,12 @@ Es gibt ein [Samsung Galaxy Watch Active2  Fitnesstracker aus Aluminium  großes
 
 ℹ️:
 
-- Dank Wasserschutz bis 5 ATM2 kann die Smartwatch auch beim Schwimmen am Handgelenk bleiben.
-- Der integrierte Pulsmesser überwacht den Herzschlag und misst den Stresslevel.
-- Mit einer riesigen Auswahl an unterschiedlichen Armbändern1 und Zifferblättern wird ein ganz persönlicher Look möglich.
-- Das schlanke, leichte und fast rahmenlose Design ist in vielen Varianten erhältlich und passt zu jedem Anlass.
 - Vielseitige Fitnessfunktionen erkennen bis zu 7 typische Aktivitäten ganz automatisch und der integrierte Laufcoach gibt Trainingstipps in Echtzeit.
-- Mit der weltweit ersten digitalen Lünette können Funktionen schnell und intuitiv aufgerufen werden.
 - Die LTE-Version der Galaxy Watch Active2 mit integrierter eSIM-Karte bleibt auch ohne Smartphone immer in Verbindung. Konnektivität: Wi-Fi b/g/n, NFC, A-GPS/GLONASS/Beidou1
+- Dank Wasserschutz bis 5 ATM2 kann die Smartwatch auch beim Schwimmen am Handgelenk bleiben.
+- Mit einer riesigen Auswahl an unterschiedlichen Armbändern1 und Zifferblättern wird ein ganz persönlicher Look möglich.
+- Mit der weltweit ersten digitalen Lünette können Funktionen schnell und intuitiv aufgerufen werden.
+- Der integrierte Pulsmesser überwacht den Herzschlag und misst den Stresslevel.
+- Das schlanke, leichte und fast rahmenlose Design ist in vielen Varianten erhältlich und passt zu jedem Anlass.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07VMH5VD2/?tag=tolees0ca-21)

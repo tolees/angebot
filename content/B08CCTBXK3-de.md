@@ -28,9 +28,9 @@ Sie können [JBL Charge Essential Bluetooth Bluetooth-Lautsprecher – Wasserfes
 
 ℹ️:
 
-- Kraftpaket für unterwegs: Die JBL Box kombiniert gewaltigen Sound mit sattem Bass und überzeugt so auf ganzer Linie - der Hingucker auf jeder Party, sowohl zuhause als auch outdoor in Garten und Co
 - Waterproof und portable - Tragbarer Bluetooth Speaker für jede Gelegenheit - Musik für die nächste Poolparty oder den Tag am Strand? Für die mobile und wasserdichte Soundbox kein Problem
 - Lieferumfang: 1 x Musikbox Charge Essential von JBL inkl. Mikro-USB-Kabel Typ A / Wasserdicht gemäß IPX7 / Integrierte Powerbank / Bis zu 20h Akkulaufzeit / 22,2 Watt
+- Kraftpaket für unterwegs: Die JBL Box kombiniert gewaltigen Sound mit sattem Bass und überzeugt so auf ganzer Linie - der Hingucker auf jeder Party, sowohl zuhause als auch outdoor in Garten und Co
 - Die kabellose Lautsprecherbox kann mit bis zu zwei Geräten verbunden werden - abwechselnd Musik in top Soundqualität hören / Widerstandsfähiges Material und beständiges Gummi-Gehäuse
 - Power gefällig? 6.000 mAh Akku-Kapazität für bis zu 20 Std. Wireless Streaming - bei Bedarf kann sogar zeitgleich der Dual-USB-Anschluss zum Aufladen von Smartphone oder Tablet genutzt werden
 
