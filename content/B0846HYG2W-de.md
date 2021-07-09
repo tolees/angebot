@@ -28,8 +28,8 @@ Es gibt ein [Superfit Baby Jungen Icebird Schneestiefel  Grau Blau 2000  33 EU W
 
 ℹ️:
 
-- leichte Laufsohle
 - Wasserdicht
 - Herausnehmbare Einlegesohle
+- leichte Laufsohle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0846HYG2W/?tag=tolees0ca-21)

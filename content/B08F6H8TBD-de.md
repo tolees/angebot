@@ -28,15 +28,15 @@ Es gibt ein [PowerA MOGA XP5-X Plus Bluetooth-Controller für mobiles und Cloud-
 
 ℹ️:
 
-- Laden des Smartphones während des Spielens oder zwischen Spielesitzungen mit der integrierten Powerbank
-- Ergonomisches Design mit Standardtastenlayout für Komfort und Vertrautheit
-- Abnehmbarer Smartphone-Clip mit einstellbarem Arm für Geräte mit einer Breite bis zu 79 mm
-- Unterstützung von Controller-kompatiblen Spielen auf Android-Geräten und PCs
-- Verbindung von Android-Smartphone/Tablet oder Laptop/PC kabellos über Bluetooth oder kabelgebunden über USB*
-- Fester Griff beim Spielen durch bequeme eingelassene Gummigriffe auf der Rückseite
-- Sichere Kontrolle und sicherer Griff dank präzise abgestimmter analoger Daumensticks
-- Steuerung kompatibler Xbox-Spiele in der Cloud oder auf Mobilgeräten
-- Vorteile im Wettkampf mit zwei programmierbaren Tasten für erweiterte Spielfunktionen
 - Präzision von Controller-Eingaben für das Spielen auf Mobilgeräten, statt auf Touchscreens angewiesen zu sein
+- Laden des Smartphones während des Spielens oder zwischen Spielesitzungen mit der integrierten Powerbank
+- Steuerung kompatibler Xbox-Spiele in der Cloud oder auf Mobilgeräten
+- Sichere Kontrolle und sicherer Griff dank präzise abgestimmter analoger Daumensticks
+- Fester Griff beim Spielen durch bequeme eingelassene Gummigriffe auf der Rückseite
+- Abnehmbarer Smartphone-Clip mit einstellbarem Arm für Geräte mit einer Breite bis zu 79 mm
+- Ergonomisches Design mit Standardtastenlayout für Komfort und Vertrautheit
+- Verbindung von Android-Smartphone/Tablet oder Laptop/PC kabellos über Bluetooth oder kabelgebunden über USB*
+- Unterstützung von Controller-kompatiblen Spielen auf Android-Geräten und PCs
+- Vorteile im Wettkampf mit zwei programmierbaren Tasten für erweiterte Spielfunktionen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08F6H8TBD/?tag=tolees0ca-21)
