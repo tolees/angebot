@@ -28,11 +28,11 @@ Sie können [Sony SF-G64T SD-Speicherkarte  64 GB  UHS-II  SD Tough  G Serie ](h
 
 ℹ️:
 
-- Schutz gegen Staub und Wasser mit hoher Klassifizierung (IP68)
-- Das rippen- und schalterlose Design erhöht die Zuverlässigkeit und verringert das Bruchrisiko
 - Klasse 10 (Geschwindigkeitsklasse SD), Klasse 3 (Geschwindigkeitsklasse UHS), V90 (Videogeschwindigkeit)
-- SD Scan Utility überwacht den Zustand Ihrer Karte und zeigt Ihnen an, wenn die maximale Anzahl an Schreibzyklen bald erreicht ist
+- Schutz gegen Staub und Wasser mit hoher Klassifizierung (IP68)
 - Hohe Schreibgeschwindigkeit mit bis zu 299 MB/s für Serien- und hochauflösende Aufnahmen
+- SD Scan Utility überwacht den Zustand Ihrer Karte und zeigt Ihnen an, wenn die maximale Anzahl an Schreibzyklen bald erreicht ist
 - Tough-Spezifikation mit bruchsicherem und stoßfestem Design
+- Das rippen- und schalterlose Design erhöht die Zuverlässigkeit und verringert das Bruchrisiko
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07H9FVN3B/?tag=tolees0ca-21)
