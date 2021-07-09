@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.00 % rabat auf SUADEX Sicherheitsschuhe Herren Leicht A'
-date: 2021-07-08 06:19:58
+date: 2021-07-09 08:04:26
 image: 'https://m.media-amazon.com/images/I/51eScHhSIgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
