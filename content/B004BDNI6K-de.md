@@ -28,10 +28,10 @@ Es gibt ein [Fiskars Laubbesen  Werkzeugkopf  25 Zinken  Breite: 50 cm  Kunststo
 
 ℹ️:
 
-- Lieferumfang: 1x Fiskars QuikFit Laubbesen, Werkzeugkopf, Länge: 32 cm, Breite: 50 cm, Gewicht: 290 Gramm, Material: Kunststoff, Farbe: Schwarz/Orange, 1000642
-- Müheloses und schnelles Arbeiten in Zugrichtung dank 25 weicher Zinken aus Kunststoff und einer optimaler Breite von 50 cm
-- Hohe Langlebigkeit dank stabilen, weichen Kunststoff-Zinken, Finnisches Design
-- Werkzeugkopf zum Verbinden mit den QuikFit-Stielen: 156 cm Länge (Art.-Nr.:1000661) oder 84 cm Länge (Art.-Nr.:1000664), Platzsparend verstaubar
 - Laubbesen zum Zusammenharken von Blüten, Blättern, Laub, Unkraut und Grasschnitt auf Wegen, Rasenflächen sowie in Beeten
+- Hohe Langlebigkeit dank stabilen, weichen Kunststoff-Zinken, Finnisches Design
+- Müheloses und schnelles Arbeiten in Zugrichtung dank 25 weicher Zinken aus Kunststoff und einer optimaler Breite von 50 cm
+- Lieferumfang: 1x Fiskars QuikFit Laubbesen, Werkzeugkopf, Länge: 32 cm, Breite: 50 cm, Gewicht: 290 Gramm, Material: Kunststoff, Farbe: Schwarz/Orange, 1000642
+- Werkzeugkopf zum Verbinden mit den QuikFit-Stielen: 156 cm Länge (Art.-Nr.:1000661) oder 84 cm Länge (Art.-Nr.:1000664), Platzsparend verstaubar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004BDNI6K/?tag=tolees0ca-21)
