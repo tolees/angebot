@@ -29,7 +29,7 @@ Es gibt ein [Tommy Hilfiger Herren 1985 Regular Polo Polohemd  Yale Marineblau  
 ℹ️:
 
 - Stretch-Piqué aus Bio-Baumwolle
-- Polokragen
 - Knopfleiste mit zwei Knöpfen
+- Polokragen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CVQGZQF/?tag=tolees0ca-21)

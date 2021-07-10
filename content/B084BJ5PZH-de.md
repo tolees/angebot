@@ -28,10 +28,10 @@ Sie können [Acer VG240YS Gaming Monitor 23 8 Zoll  60 cm Bildschirm  Full HD  1
 
 ℹ️:
 
-- DESIGN: Zero-Frame-Monitore zeichnen sich durch minimale Rahmen aus. Bilder erscheinen auf dem Monitor größer und Übergänge bei Multi-Monitor-Setups sind nahezu nahtlos.
+- FEATURE SET: 16:9 Gaming Monitor mit einer Auflösung von 1920x1080dpi, IPS Display BILDWIEDERHOLUNGSRATEN: 165Hz Overclock, 144Hz, HDR10, Reaktionszeit: 2ms (G2G) ANSCHLÜSSE: 2xHDMI 2.0, DP 1.2, Audio Out
 - HERSTELLERGARANTIE: 24 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Hinweis: Bei IPS-Panels kann trotz Einhaltung höchster Standards produktionsbedingt Backlight-Bleeding auftreten. Infos dazu finden Sie hier: de. answers. acer/app/answers/detail/a_id/38233 LIEFERUMFANG: VG240YS KABEL: DP
 - SYNC TECHNOLOGIE: AMD FreeSync sorgt dafür, dass die Bildwiederholfrequenz (Hz) des Monitors an die des ausgebenden Gerätes angepasst wird und somit ruckelfreie, flüssige Spielesessions ermöglicht werden.
+- DESIGN: Zero-Frame-Monitore zeichnen sich durch minimale Rahmen aus. Bilder erscheinen auf dem Monitor größer und Übergänge bei Multi-Monitor-Setups sind nahezu nahtlos.
 - DISPLAY-TYP: IPS Displays bieten dank moderner Technologie dem Benutzer ein präzises Farberlebnis und stärkere Kontraste. Dank stabilem Blickwinkel bleibt die Farbtreue aus verschiedensten Perspektiven erhalten. Die HDR Technologie bietet im Vergleich zu normalen Bildern eine gleichmäßige Helligkeit, starke Kontraste und intensive Farben.
-- FEATURE SET: 16:9 Gaming Monitor mit einer Auflösung von 1920x1080dpi, IPS Display BILDWIEDERHOLUNGSRATEN: 165Hz Overclock, 144Hz, HDR10, Reaktionszeit: 2ms (G2G) ANSCHLÜSSE: 2xHDMI 2.0, DP 1.2, Audio Out
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084BJ5PZH/?tag=tolees0ca-21)
