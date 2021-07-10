@@ -28,8 +28,8 @@ Sie können [Nike Erwachsene Sportswear Heritage86 Schirmmütze  Black/Metallic 
 
 ℹ️:
 
-- 100% Recycled Polyester
 - Adjustable closure
+- 100% Recycled Polyester
 - Embroidered eyelets
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077SWWTRG/?tag=tolees0ca-21)

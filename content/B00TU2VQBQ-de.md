@@ -29,9 +29,9 @@ Es gibt ein [Cartrend 80320 Mobile Reinigungsstation 15 Liters  Druckreiniger 3-
 ℹ️:
 
 - PVC-Schlauch mit 6m und Kfz-Netzkabel mit 3m (12 Volt Anschluss). Zubehörteile: Spritzpistole, Düsenkopf, Bürstenkopf, Duschkopf
-- .Technische Daten: 12V, 4,5A - 7 A (max.), 60W, Arbeitsdruck von 43,5 bis 130,5 PSI (3-9 BAR), abhängig von der Düseneinstellung
-- Geringer Wasser- und Stromverbrauch. Großer Wassertank mit 15 Liter. Einfache und intuitive Bedienung. Rollbar und tragbar
-- Geringe Abmessungen und geringes Gewicht. Flexible Räder für eine einfache Anwendung
 - Multifunktionale mobile Reinigungsstation für unterwegs. Viele Anwendungsgebiete z.B.: Auto, Camping, Haustier, Garten usw.
+- .Technische Daten: 12V, 4,5A - 7 A (max.), 60W, Arbeitsdruck von 43,5 bis 130,5 PSI (3-9 BAR), abhängig von der Düseneinstellung
+- Geringe Abmessungen und geringes Gewicht. Flexible Räder für eine einfache Anwendung
+- Geringer Wasser- und Stromverbrauch. Großer Wassertank mit 15 Liter. Einfache und intuitive Bedienung. Rollbar und tragbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00TU2VQBQ/?tag=tolees0ca-21)
