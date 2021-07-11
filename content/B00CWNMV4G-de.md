@@ -28,11 +28,11 @@ Es gibt ein [Amazon Basics AA-Batterien  wiederaufladbar  vorgeladen  8 Stück  
 
 ℹ️:
 
-- Vorgeladen und gebrauchsfertig; kann 1000 Mal mit minimalem Stromverlust wiederaufgeladen werden
-- Gleiches Produkt, neue Optik. Das Aussehen der Batterien, die Sie erhalten, kann variieren
 - Die Batterien können recycelt werden, wenn sie nicht mehr wiederaufgeladen werden können; um einen Recycling-Standort in Ihrer Nähe zu finden, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/locator/
 - AA-Akku (8er-Packung, 2000 mAh); ideal für Digitalkameras, Fernbedienungen, Spielzeug und mehr
 - Lange Akkulaufzeit; die extrem langsame schrittweise Selbstentladung hält die Kapazität für 24 Monate bei 80 %
+- Gleiches Produkt, neue Optik. Das Aussehen der Batterien, die Sie erhalten, kann variieren
 - Lieferung in zertifizierter frustfreier Verpackung; recycelbar; mit eingeschränkter einjähriger Garantie durch Amazon Basics
+- Vorgeladen und gebrauchsfertig; kann 1000 Mal mit minimalem Stromverlust wiederaufgeladen werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00CWNMV4G/?tag=tolees0ca-21)

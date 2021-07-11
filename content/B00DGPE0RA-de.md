@@ -29,9 +29,9 @@ Es gibt ein [SANTE Naturkosmetik Haarwachs Natural Wax  Mit Kokosöl & Bienenwac
 ℹ️:
 
 - Bio-Jojobaöl revitalisiert das Haar und hinterlässt ein gepflegtes Gefühl. Bio-Kokosöl schenkt dem Haar Glanz und Feuchtigkeit.
-- Das natürliche Haarwachs von SANTE bringt kurzes Haar natürlich in Form, pflegt die Haarspitzen und ist sehr ergiebig.
-- Anwendung: Eine kleine Menge Wax in den Handflächen verteilen, ins trockene Haar einarbeiten und stylen.
-- Die wertvolle Formulierung mit Bio-Kokosöl, Bio-Jojobaöl und Bienenwachs pflegt das Haar schon beim Stylen und versorgt es mit wichtigen Nährstoffen.
 - Natural Power Inside! NATRUE zertifizierte Naturkosmetik, Glutenfrei, Gegen Tierversuche, ohne Silikone, Mineralölfrei, Paraffinfrei.
+- Das natürliche Haarwachs von SANTE bringt kurzes Haar natürlich in Form, pflegt die Haarspitzen und ist sehr ergiebig.
+- Die wertvolle Formulierung mit Bio-Kokosöl, Bio-Jojobaöl und Bienenwachs pflegt das Haar schon beim Stylen und versorgt es mit wichtigen Nährstoffen.
+- Anwendung: Eine kleine Menge Wax in den Handflächen verteilen, ins trockene Haar einarbeiten und stylen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DGPE0RA/?tag=tolees0ca-21)

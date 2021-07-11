@@ -29,8 +29,8 @@ Sie können [CITIZEN Herren Analog Quarz Uhr mit Edelstahl Armband AW1231-58E](h
 ℹ️:
 
 - Kein Batteriewechsel erforderlich. Eco-Drive eliminiert den Ärger und die Kosten des regelmäßigen Batteriewechsels
-- Läuft über sechs Monate im Dunkeln. Eine volle Ladung reicht aus, um die meisten Eco-Drive-Modelle länger als sechs Monate im Dunkeln laufen zu lassen
-- Eco-Drive Antrieb: Eco-Drive ist eine Kerntechnologie von CITIZEN, die selbst bei schwachem Licht Strom erzeugt und es ermöglicht, dass Uhren auch bei Dunkelheit über sechs Monate laufen
 - Kaliber Nummer: J810
+- Eco-Drive Antrieb: Eco-Drive ist eine Kerntechnologie von CITIZEN, die selbst bei schwachem Licht Strom erzeugt und es ermöglicht, dass Uhren auch bei Dunkelheit über sechs Monate laufen
+- Läuft über sechs Monate im Dunkeln. Eine volle Ladung reicht aus, um die meisten Eco-Drive-Modelle länger als sechs Monate im Dunkeln laufen zu lassen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00R7PSW7O/?tag=tolees0ca-21)

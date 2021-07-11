@@ -28,8 +28,8 @@ Es gibt ein [Lamy T10: Vier Päckchen mit 5 Tintenpatronen  Farbe: schwarz](http
 
 ℹ️:
 
-- Vier Päckchen mit 5 Lamy-Tintenpatronen T10
-- Farbe: schwarz.
 - Verwendbar für die meisten Lamy-Füllfederhalter.
+- Farbe: schwarz.
+- Vier Päckchen mit 5 Lamy-Tintenpatronen T10
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008PPEC6U/?tag=tolees0ca-21)

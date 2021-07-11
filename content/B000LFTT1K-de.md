@@ -28,9 +28,9 @@ Sie können [Silverline 633509 Diamant-Nadelfeilen 10-tlg.](https://www.amazon.d
 
 ℹ️:
 
-- Griffige Vinylhefte
-- 140 x 3 mm
-- Mit Aufbewahrungstasche
 - Flach-, Flachrund-, Rund-, Messer-, Halbrund-, Dreikant- und Vierkantfeile
+- Mit Aufbewahrungstasche
+- 140 x 3 mm
+- Griffige Vinylhefte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000LFTT1K/?tag=tolees0ca-21)

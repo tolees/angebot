@@ -28,7 +28,7 @@ Sie können [Fischer & Honsel - Honsel Leuchten 21382 Honsel Deckenleuchte Opalg
 
 ℹ️:
 
-- Deckenleuchte 2 flammig der Serie Valor aus dem Hause Honsel Schutzart IP 44, Glas opal, Ø 34 cm, Hö
 - he 11 cm, 2 x E27-60 Watt, geeignet für ESL 15 Watt, Leuchtmittel nicht inklusive!
+- Deckenleuchte 2 flammig der Serie Valor aus dem Hause Honsel Schutzart IP 44, Glas opal, Ø 34 cm, Hö
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00487QWDK/?tag=tolees0ca-21)

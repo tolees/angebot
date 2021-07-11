@@ -28,10 +28,10 @@ Sie können [Lip Smacker - Markwins Coca Cola Geschenk-Dose](https://www.amazon.
 
 ℹ️:
 
+- Coca Cola Lip Smacker sind ideal für unterwegs
+- Für Kinder ab 6 Jahren empfohlen.
+- Lip Smacker Coca-Cola – für alle Coca Cola Fans!
 - Coca Cola Geschenk-Box mit 6 Lippenpflegestiften in den Geschmacksrichtungen Coca-Cola Classic, Coca-Cola Vanilla, Fanta Orange, Coca-Cola Cherry, Fanta Strawberry und Sprite
 - Diese tollen Lippenpflegestifte spenden Feuchtigkeit für die Lippen und sind nur für die äußere Anwendung bestimmt
-- Coca Cola Lip Smacker sind ideal für unterwegs
-- Lip Smacker Coca-Cola – für alle Coca Cola Fans!
-- Für Kinder ab 6 Jahren empfohlen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005YWEMQM/?tag=tolees0ca-21)

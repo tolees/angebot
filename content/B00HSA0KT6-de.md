@@ -29,9 +29,9 @@ Es gibt ein [Gardena Premium SuperFLEX Schlauch 13 mm  1/2 Zoll   50 m: Gartens
 ℹ️:
 
 - Hochwertiges Spiralgewebe: Der Schlauch aus PVC-Spiralgewebe hält einem Wasserdruck bis 35 bar stand
-- Schadstofffrei: Der Premium SuperFLEX Schlauch ist UV-beständig und frei von Weichmachern und Schwermetallen
-- Power-Grip-Profil: Die spezielle Profilierung sorgt für optimale Haltekraft und eine sichere Verbindung zwischen Schlauch und Schlauchstück
 - Original GARDENA System: Der Premium SuperFLEX Schlauch passt zu allen Original GARDENA Systemteilen
 - Lieferumfang beinhaltet: 1x GARDENA Premium SuperFLEX Schlauch 13 mm (1/2") 50 m
+- Power-Grip-Profil: Die spezielle Profilierung sorgt für optimale Haltekraft und eine sichere Verbindung zwischen Schlauch und Schlauchstück
+- Schadstofffrei: Der Premium SuperFLEX Schlauch ist UV-beständig und frei von Weichmachern und Schwermetallen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HSA0KT6/?tag=tolees0ca-21)

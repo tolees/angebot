@@ -28,9 +28,9 @@ Es gibt ein [Oregon Scientific UVR 128 UV-Sensor Basic](https://www.amazon.de/dp
 
 ℹ️:
 
+- Fernbedienung UV-Sensor
 - Sammelt und zeigt UV-Daten an.
 - Anzeige von UV-Index-Lesungen und Gefahrenmeldungen
 - Überträgt drahtlose Daten an verschiedene Wetterstationen.
-- Fernbedienung UV-Sensor
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000PE9U6Q/?tag=tolees0ca-21)

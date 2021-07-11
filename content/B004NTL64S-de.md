@@ -28,10 +28,10 @@ Es gibt ein [WESTFALIA Automotive - Westfalia Transportplattform für Fahrradtr�
 
 ℹ️:
 
-- Kinderleichte Montage auf Körperhöhe ohne jegliches Werkzeug innerhalb weniger Sekunden - die Plattform einfach auf die kompatiblen Radträger bikelander, bikelander classic & BC 60 setzen & einrasten!
 - Da die Wildwanne auch beladen abklappbar ist, kann der Kofferraum jederzeit problemlos geöffnet werden / Praktische Ausschnitte ermöglichen die Fixierung des Transportguts durch Spanngurte
+- Die ideale Alternative zur herkömmlichen Dachbox: Die Westfalia Plattform ist verbrauchs- & CO² effizient, versperrt keine Sicht & erzeugt kaum Fahrgeräusche - Effizienz & Qualität im Windschatten
+- Kinderleichte Montage auf Körperhöhe ohne jegliches Werkzeug innerhalb weniger Sekunden - die Plattform einfach auf die kompatiblen Radträger bikelander, bikelander classic & BC 60 setzen & einrasten!
 - Der Wildträger ist der perfekte Begleiter für jede Lebenslage - ob zum Transport von Getränkekisten, sperrigen Baumaterialien oder von erlegtem Wild / 54kg Zuladegewicht problemlos verstauen!
 - Lieferumfang: 1 x Westfalia Transportplattform für die Anhängerkupplung / Einfach am Heck des Autos befestigen / 5 Jahre Garantie - der nützliche Wegbegleiter für jedes Abenteuer
-- Die ideale Alternative zur herkömmlichen Dachbox: Die Westfalia Plattform ist verbrauchs- & CO² effizient, versperrt keine Sicht & erzeugt kaum Fahrgeräusche - Effizienz & Qualität im Windschatten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004NTL64S/?tag=tolees0ca-21)
