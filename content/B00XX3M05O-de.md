@@ -28,10 +28,10 @@ Sie können [Powerbank POWERADD Pilot X7 20000mAh PD 18W Externer Akku USB C Pow
 
 ℹ️:
 
-- ⚡【PD 18W 20000mAh große Kapazität】Mit der 20000mAh USB C Powerbank PD 18W können Sie Ihr Gerät mehrmals unterwegs aufladen. Es gibt ausreichende Kapazität für Ihre Reise.
-- ⚡【Automatische Erkennungstechnologie】 Diese Power Bank mit zwei 5V/3A, 9V/2A, 12V/1.5A Ausgänge erkennen automatisch die Stromstärke Ihres Gerätes und bieten Ihrem Gerät anpassende sowie möglichst schnelle Aufladungsgeschwindigkeit.
 - ⚡ 【Breite Kompatibilität】 Mit einer Kapazität von 20000mAh ist der externe Akku nahezu kompatibel mit allen Handys auf dem Markt, iPhone, Huawei, Samsung, Xiaomi, Nokia usw. Es reagiert auf Ihre täglichen Anforderungen.
 - ⚡ 【Intelligenter Ladevorgang】Es gibt diese Funktionen der Powerbank: automatischer Beginn des Ladevorganges nach dem Anschluss eines mobilen Gerätes, ablesbarer Ladezustand des Akkus an den blauen LEDs auf der Oberseite, automatische Beengdigung des Ladevorganges nach der Vollladung des mobilen Gerätes.
+- ⚡【PD 18W 20000mAh große Kapazität】Mit der 20000mAh USB C Powerbank PD 18W können Sie Ihr Gerät mehrmals unterwegs aufladen. Es gibt ausreichende Kapazität für Ihre Reise.
 - ⚡【Schnellladen Technologie】Die Ausgabe der 20000mAh Powerbank wurde 1 + 2.1A auf 5V/3A, 9V/2A aktualisiert. Ermöglichen Sie ein schnelles Aufladen Ihres Geräts und sparen Sie Zeit.
+- ⚡【Automatische Erkennungstechnologie】 Diese Power Bank mit zwei 5V/3A, 9V/2A, 12V/1.5A Ausgänge erkennen automatisch die Stromstärke Ihres Gerätes und bieten Ihrem Gerät anpassende sowie möglichst schnelle Aufladungsgeschwindigkeit.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00XX3M05O/?tag=tolees0ca-21)
