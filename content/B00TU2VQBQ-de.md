@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.87 % rabat auf Cartrend 80320 Mobile Reinigungsstation '
-date: 2021-07-10 09:37:24
+date: 2021-07-11 14:01:04
 image: 'https://m.media-amazon.com/images/I/51c047LCulL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [Cartrend 80320 Mobile Reinigungsstation 15 Liters  Druckreiniger 3-
 
 ℹ️:
 
-- PVC-Schlauch mit 6m und Kfz-Netzkabel mit 3m (12 Volt Anschluss). Zubehörteile: Spritzpistole, Düsenkopf, Bürstenkopf, Duschkopf
+- Geringe Abmessungen und geringes Gewicht. Flexible Räder für eine einfache Anwendung
 - Geringer Wasser- und Stromverbrauch. Großer Wassertank mit 15 Liter. Einfache und intuitive Bedienung. Rollbar und tragbar
+- PVC-Schlauch mit 6m und Kfz-Netzkabel mit 3m (12 Volt Anschluss). Zubehörteile: Spritzpistole, Düsenkopf, Bürstenkopf, Duschkopf
 - Multifunktionale mobile Reinigungsstation für unterwegs. Viele Anwendungsgebiete z.B.: Auto, Camping, Haustier, Garten usw.
 - .Technische Daten: 12V, 4,5A - 7 A (max.), 60W, Arbeitsdruck von 43,5 bis 130,5 PSI (3-9 BAR), abhängig von der Düseneinstellung
-- Geringe Abmessungen und geringes Gewicht. Flexible Räder für eine einfache Anwendung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00TU2VQBQ/?tag=tolees0ca-21)
