@@ -28,13 +28,13 @@ Es gibt ein [Club Petz - IMC Toys 94802IM - Plüschtier Lola Hundewelpe  braun/w
 
 ℹ️:
 
-- Achtung - Nur bei Kauf und Versand über Amazon.de erhalten Sie die deutsche Sprachversion
-- Interagiert mit "Lucy" mit 10 verschiedenen Aktionen
-- Sie reagiert auf 5 Befehle und du kannst ihr auch einen neuen Namen geben
+- Sie frisst, läuft und zeigt dir mit einem zuckersüßen Küsschen, wie lieb sie dich hat
+- Hört auf 5 verschiedene Kommandos
 - Lola ist ein kleiner Welpe, der mit Sprachbefehlen funktioniert
 - Aus hochwertigem Plüsch. Ab 3 Jahren, 3 Batterien AAA enthalten
 - Lola ist ein verspielter kleiner Welpe. Sie ist nicht nur kuschelig weich sondern freut sich auch deine Stimme zu hören
-- Hört auf 5 verschiedene Kommandos
-- Sie frisst, läuft und zeigt dir mit einem zuckersüßen Küsschen, wie lieb sie dich hat
+- Achtung - Nur bei Kauf und Versand über Amazon.de erhalten Sie die deutsche Sprachversion
+- Sie reagiert auf 5 Befehle und du kannst ihr auch einen neuen Namen geben
+- Interagiert mit "Lucy" mit 10 verschiedenen Aktionen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B018OCJS12/?tag=tolees0ca-21)

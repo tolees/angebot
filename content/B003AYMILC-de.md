@@ -28,13 +28,13 @@ Sie können [Steinbach Solardusche Flexible  Kunststofftank 20 l  217 cm Höhe  
 
 ℹ️:
 
-- Stabiler Standfuß 215 x 215 mm
-- Höhe: 217 cm
-- Max. Betriebsdruck drei bar
 - Anschluss für Gartenschlauch
-- Einhebel-Handmischbatterie
-- 20 Liter Tankinhalt
 - Teilbar für platzsparende Einlagerung
+- Stabiler Standfuß 215 x 215 mm
+- 20 Liter Tankinhalt
 - Großer, selbstentkalkender Monsunduschkopf
+- Höhe: 217 cm
+- Einhebel-Handmischbatterie
+- Max. Betriebsdruck drei bar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003AYMILC/?tag=tolees0ca-21)

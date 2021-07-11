@@ -28,8 +28,8 @@ Sie können [Seltmann Weiden 001.718873 Compact Blaurand Tafelservice 12 tlg. 10
 
 ℹ️:
 
-- Mit Diamanten glatt polierte Füße der Artikel gegen wackeln und zerkratzen von glatten und empfindlichen Oberflächen
 - Qualitätssiegel für eine grüne Umwelt
+- Mit Diamanten glatt polierte Füße der Artikel gegen wackeln und zerkratzen von glatten und empfindlichen Oberflächen
 - Hergestellt in Deutschland
 - Bei 1450 Grad gebrannt, dadurch eine hohe Kantenschlagfestigkeit und bis zu 5-fach verschleißfestere Oberfläche
 - Geeignet für Kühlschrank, Gefrierschrank und Salamanderöfen

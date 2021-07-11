@@ -28,7 +28,7 @@ Es gibt ein [Calvin Klein Damen MODERN Cotton-Short Panties  Grau  Grey Heather 
 
 ℹ️:
 
-- Mittlere Taille
 - Baumwoll-Modal
+- Mittlere Taille
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00SX0TOOW/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [Gibraltar GI806604 Schlagzeughocker 6000 Serie 6608 Moto Seat](http
 
 ℹ️:
 
-- Dreibein-Stativ
 - Moto Seat
 - Memory Lock zur Höheneinstellung
+- Dreibein-Stativ
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000UJE6UG/?tag=tolees0ca-21)

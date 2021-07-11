@@ -30,8 +30,8 @@ Es gibt ein [Kaweco SPECIAL Druckbleistift 0.5 I Minenbleistift aus hochwertigem
 
 - QUALITÄT SEIT 1883 Die Herstellung erfolgt in Handmontage und Einzelkontrolle in der Bleistiftstadt Nürnberg. Seit jeher stehen erstklassige Güte Funktionalität & bester Service im Vordergrund
 - ÜBERZEUGENDER SCHREIBKOMFORT - Durch den angenehmen Durchmesser von 10 mm liegt der Minenstift ausgesprochen gut in der Hand und lässt diese beim Schreiben nicht ermüden
-- ZUVERLÄSSIGER MINEN BLEISTIFT FÜR JEDEN TAG - Unser mechanischer Bleistift ist ebenso ideal für grafisches wie technisches Zeichnen I Seine hochwertige und präzise Mechanik stammt aus Japan
 - DAS PERFEKTE SCHREIBWERKZEUG finden Sie garantiert in unserem umfangreichen Sortiment - angefangen vom Bleistift über Füllfederhalter bis hin zum Kugelschreiber
 - MARKANTER KAWECO MINEN-STIFT aus hochwertigem Aluminium besticht dank besonderer Haptik durch unser charakteristisches oktogonales Acht Kant Format und die seidenglänzende Oberfläche
+- ZUVERLÄSSIGER MINEN BLEISTIFT FÜR JEDEN TAG - Unser mechanischer Bleistift ist ebenso ideal für grafisches wie technisches Zeichnen I Seine hochwertige und präzise Mechanik stammt aus Japan
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006WTXLXQ/?tag=tolees0ca-21)
