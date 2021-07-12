@@ -28,10 +28,10 @@ Sie können [AEG Expert Touch Ultraschall-Fleckenentferner-Stift / Tragbares Ult
 
 ℹ️:
 
-- Nachdem Wasser und Waschmittel auf den Fleck aufgetragen und der Fleckentferner über die Stelle geführt wurde, setzen Schwingungen den Schmutz frei - danach kann einfach wie gewohnt gewaschen werden
-- Mit Kaffee, Rotwein oder Tinte gekleckert? Der Fleckenlöser nimmt es mit fast allem auf: Auch mit Kinderkleidung, die beim Spielen mit Erde, Harz oder Gras in Kontakt kommt, hat AEG die Lösung parat
-- Handwäsche kann anstrengend und gewebeschädigend sein: Der Ultraschallreiniger-Pen schont die Fasern und lässt Kleidung länger schön aussehen / Passt in jede Tasche und eignet sich ideal für Reisen
 - Hartnäckige Flecken aus der Kleidung entfernen: Ist die liebste Bluse oder das liebste Hemd verschmutzt, kommt der Fleckenstift von AEG zum Einsatz - das innovative Reinigungsgerät
 - Lieferumfang: 1 x AEG Expert touch Ultraschall-Flecklöser-Gerät + Netzkabel / Fleckenvorbehandlung mit Zubehör von AEG / Universal Ultraschallreinigungsgerät für saubere Wäsche - auch unterwegs
+- Mit Kaffee, Rotwein oder Tinte gekleckert? Der Fleckenlöser nimmt es mit fast allem auf: Auch mit Kinderkleidung, die beim Spielen mit Erde, Harz oder Gras in Kontakt kommt, hat AEG die Lösung parat
+- Nachdem Wasser und Waschmittel auf den Fleck aufgetragen und der Fleckentferner über die Stelle geführt wurde, setzen Schwingungen den Schmutz frei - danach kann einfach wie gewohnt gewaschen werden
+- Handwäsche kann anstrengend und gewebeschädigend sein: Der Ultraschallreiniger-Pen schont die Fasern und lässt Kleidung länger schön aussehen / Passt in jede Tasche und eignet sich ideal für Reisen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NCRZBZ7/?tag=tolees0ca-21)

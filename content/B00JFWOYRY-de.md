@@ -28,10 +28,10 @@ Es gibt ein [RÖSLE Frischhaltedeckel aus Glas  Glasdeckel mit Silikonrand zum V
 
 ℹ️:
 
-- Hygienisch, geruchs- und geschmacksneutral sowie pflegeleicht - dank hochwertiger Materialien spülmaschinengeeignet
-- Ideal für die Aufbewahrung von Speisen im Kühlschrank - der flexible Silikonrand sitzt luftdicht an der Gefäßwand - das transparente Glas ermöglicht den Einblick in die Schüssel, ohne den Behälter öffnen zu müssen
-- Funktionsteil Durchmesser 12 cm - gehärtetes Glas, Silikon - Farben: Glas transparent, Silikon schwarz - ideal in Kombination mit den passenden Schüsseln, Töpfen und Pfannen von RÖSLE
-- Der praktische Frischhaltedeckel ist wahlweise in 8 verschiedenen Größen zwischen 5 cm und 28 cm erhältlich
 - RÖSLE Frischhaltedeckel aus Glas: Der Deckel aus gehärtetem Glas mit Silikonrand macht herkömmliche Schüsseln oder Töpfe zu praktischen Frischhaltebehältern - ein Umfüllen ist somit nicht nötig
+- Ideal für die Aufbewahrung von Speisen im Kühlschrank - der flexible Silikonrand sitzt luftdicht an der Gefäßwand - das transparente Glas ermöglicht den Einblick in die Schüssel, ohne den Behälter öffnen zu müssen
+- Hygienisch, geruchs- und geschmacksneutral sowie pflegeleicht - dank hochwertiger Materialien spülmaschinengeeignet
+- Der praktische Frischhaltedeckel ist wahlweise in 8 verschiedenen Größen zwischen 5 cm und 28 cm erhältlich
+- Funktionsteil Durchmesser 12 cm - gehärtetes Glas, Silikon - Farben: Glas transparent, Silikon schwarz - ideal in Kombination mit den passenden Schüsseln, Töpfen und Pfannen von RÖSLE
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JFWOYRY/?tag=tolees0ca-21)

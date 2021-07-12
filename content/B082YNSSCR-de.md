@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional 18V System Akku-Bohrschrauber GSR 18V-28  max. D
 
 ℹ️:
 
-- Vielseitige Anwendungen dank 13 mm Spannfutter mit Metallmuffe
-- Ergonomisch: Komfortable Handhabung durch die kompakte Bauweise
-- Lieferumfang: GSR 18V-28, 2x4. 0 Ah Akku, Ladegerät GAL 18 V-40, L-BOXX
-- Langlebig: Reduziertes Risiko einer Motorüberlastung und lange Lebensdauer dank elektronischem Motorschutz (EMP)
 - Professional 18V System. Ultimative Performance. Maximale Freiheit. Alle unsere Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel
+- Ergonomisch: Komfortable Handhabung durch die kompakte Bauweise
+- Vielseitige Anwendungen dank 13 mm Spannfutter mit Metallmuffe
+- Langlebig: Reduziertes Risiko einer Motorüberlastung und lange Lebensdauer dank elektronischem Motorschutz (EMP)
+- Lieferumfang: GSR 18V-28, 2x4. 0 Ah Akku, Ladegerät GAL 18 V-40, L-BOXX
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082YNSSCR/?tag=tolees0ca-21)

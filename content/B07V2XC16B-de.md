@@ -28,10 +28,10 @@ Es gibt ein [LEDVANCE SMART+ Smartes LED Band mit Bluetooth Technologie  3x60cm 
 
 ℹ️:
 
-- Direkte Einbindung in die Sprachassistenten Google Assistant und Alexa: Steuern Sie die smarten LEDVANCE SMART+ Bluetooth Produkte einfach per Sprachbefehl
+- Einfache Einbindung in Alexa per Sprache möglich: Bluetooth Produkt in die Nähe des Lautsprechers bringen, anschalten und mit dem Kommando "Finde meine Geräte" integrieren (Hinweis: ggf. muss über die LEDVANCE SMART+ Bluetooth App ein Firmwareupdate gemacht werden)
+- Kompatibel mit Siri: Steuern Sie dank der Einbindung in der Apple Home App Ihre SMART+ Bluetooth Produkte per Sprachbefehl
 - Geringer Stromverbrauch -> energiesparende 10 W LED mit Energieeffizienzklasse A und einer Lichtleistung von 600 Lumen
 - Flexible, einfache Montage -> selbstklebender, trennbarer und ausziehbarer Streifen für eine indirekte Beleuchtung ganz nach Ihren Wünschen.
-- Kompatibel mit Siri: Steuern Sie dank der Einbindung in der Apple Home App Ihre SMART+ Bluetooth Produkte per Sprachbefehl
-- Einfache Einbindung in Alexa per Sprache möglich: Bluetooth Produkt in die Nähe des Lautsprechers bringen, anschalten und mit dem Kommando "Finde meine Geräte" integrieren (Hinweis: ggf. muss über die LEDVANCE SMART+ Bluetooth App ein Firmwareupdate gemacht werden)
+- Direkte Einbindung in die Sprachassistenten Google Assistant und Alexa: Steuern Sie die smarten LEDVANCE SMART+ Bluetooth Produkte einfach per Sprachbefehl
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07V2XC16B/?tag=tolees0ca-21)

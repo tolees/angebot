@@ -28,9 +28,9 @@ Sie können [InLine DC Verlängerungskabel  DC Stecker/Buchse 5 5x2 1mm  0 5m  2
 
 ℹ️:
 
-- Innenleiter 2x AWG24
-- InLine DC Stecker Verlängerungskabel, 0,5m
 - Farbe schwarz
 - DC Stecker/Buchse: 5,5x2,1mm
+- Innenleiter 2x AWG24
+- InLine DC Stecker Verlängerungskabel, 0,5m
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08WXCY7ZN/?tag=tolees0ca-21)

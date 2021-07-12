@@ -28,10 +28,10 @@ Sie können [Pentel C279-2BO Ain Stein Feinmine  Strichstärke 0.9 mm  Härtegra
 
 ℹ️:
 
-- Farbenfrohes Minendöschen mit extra viel Inhalt (36 Minen) und drehbarem Verschluss
-- Sanfter Abrieb: satter Strich ganz ohne Kratzen
 - Minendöschen besteht aus 92% recyceltem Material
 - Extrem bruchsicher und dank Keramik-Honigwaben-Struktur eine der stärksten Minen der Welt
+- Farbenfrohes Minendöschen mit extra viel Inhalt (36 Minen) und drehbarem Verschluss
 - Feinmine mit 0,9mm Strichstärke und Härtegrad 2B
+- Sanfter Abrieb: satter Strich ganz ohne Kratzen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00CN3M9GU/?tag=tolees0ca-21)
