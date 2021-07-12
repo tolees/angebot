@@ -28,10 +28,10 @@ Sie können [Topstar Sitness High Bob  ergonomische Stehhilfe  Arbeitshocker  Fi
 
 ℹ️:
 
+- Produkt sowohl für die private als auch für die gewerbliche Nutzung geeignet; Sitzzeitempfehlung max. 3 - 4 Stunden; GS-geprüft und EN 1335 1-3 konform
+- Herstellergarantie: 3 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 - Fitness-Stehhilfe für ergonomisches und bewegliches Sitzen; Vielfältiger Einsatz an Stehpulte, höhenverstellbare Schreibtische, Werkstatt, Küche und Haushalt, Hobbyraum etc.
 - Stufenlose Sitzhöhenverstellung; Standfußring in Aluminium poliert
 - Horizontaler Schwingeffekt durch ein bewegliches Reifenelement
-- Herstellergarantie: 3 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- Produkt sowohl für die private als auch für die gewerbliche Nutzung geeignet; Sitzzeitempfehlung max. 3 - 4 Stunden; GS-geprüft und EN 1335 1-3 konform
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00WI6HP3Y/?tag=tolees0ca-21)

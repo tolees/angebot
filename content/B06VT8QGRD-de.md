@@ -28,10 +28,10 @@ Es gibt ein [ORIGINAL KAISER - Kaiser Inspiration Springform 26 cm rund  Flachbo
 
 ℹ️:
 
+- Material: Antihaftbeschichteter Stahl. Keramische Antihaftbeschichtung - backofenfest, auslaufsicher, hitzebeständig bis 230°C. Made in Germany
 - Inhalt: 1x Kuchenform rund mit Flachboden, für Kuchen/Tortenböden (Ø 26 cm, Füllmenge 2,7l, Höhe 7 cm innen / 8 cm außen) - Artikelnummer: 2300659565
+- Herstellergarantie: 3 Jahre auf die Antihaftbeschichtung. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Einfache Herauslösbarkeit und leichte Reinigung durch die sehr gute keramisch verstärkte Antihaftbeschichtung. Gleichmäßige Bräunung durch Einfache Wärmeleitung des Stahls
 - Kein Auslaufen durch auslaufsicheren Rand. Einfaches Verschließen durch den ergonomischen Edelstahlverschluss und den komplett zu öffnenden Rand
-- Herstellergarantie: 3 Jahre auf die Antihaftbeschichtung. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- Material: Antihaftbeschichteter Stahl. Keramische Antihaftbeschichtung - backofenfest, auslaufsicher, hitzebeständig bis 230°C. Made in Germany
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06VT8QGRD/?tag=tolees0ca-21)

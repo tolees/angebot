@@ -28,10 +28,10 @@ Sie können [LEDVANCE LED Spotlight  3-flammiger hochwertiger Spotstrahler aus A
 
 ℹ️:
 
-- Für die unterschiedlichsten anwendungsgebiete bestens geeignet: als Wand- oder Deckenleuchte in Wohn-, Schlaf- oder Kinderzimmer, Küche oder Flur
-- Die ideale Alternative für herkömmliche Spotleuchten mit Hochvolt-Halogenlampen
 - im Lieferumfang bereits enthalten: OSRAM LED Lampen mit 3 Watt leistungsaufnahme, 230 Lumen (entspricht 35 Watt Halogen) und 120° Abstrahlwinkel
+- Für die unterschiedlichsten anwendungsgebiete bestens geeignet: als Wand- oder Deckenleuchte in Wohn-, Schlaf- oder Kinderzimmer, Küche oder Flur
 - Dank austauschbarer LED-Lampe besonders energiesparend und nachhaltig
+- Die ideale Alternative für herkömmliche Spotleuchten mit Hochvolt-Halogenlampen
 - Leuchtenköpfe flexibel, den Räumlichkeiten entsprechend, ausrichtbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TZDCJ3F/?tag=tolees0ca-21)

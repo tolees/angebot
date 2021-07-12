@@ -28,8 +28,8 @@ Sie können [G-STAR RAW Herren Jeans 3301 Slim Fit  Medium Aged 6090-071  32W / 
 
 ℹ️:
 
-- Normale Leibhöhe
-- Anliegender Bund
 - Schmales Bein vom Oberschenkel bis zum Saum
+- Anliegender Bund
+- Normale Leibhöhe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00SF9BKSY/?tag=tolees0ca-21)

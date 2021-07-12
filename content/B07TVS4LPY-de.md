@@ -28,10 +28,10 @@ Es gibt ein [LEDVANCE LED Panel-Leuchte  Leuchte für Innenanwendungen  Aufbaule
 
 ℹ️:
 
-- Lieferumfang: Vorgefertigtes Montageset, Schrauben, Dübel, Fernbedienung inkl. Batterien
-- Farbtemperaturwechsel und Dimmung über die mitgelieferte Fernbedienung möglich
 - Fernbedienung steuert bis zu 4 Panels
-- Sehr lange Lebensdauer bis zu 25000 Stunden
 - Einzigartiges und einfaches Montagekonzept (Erforder nur eine Person und bis 5 Minuten Zeit)
+- Sehr lange Lebensdauer bis zu 25000 Stunden
+- Farbtemperaturwechsel und Dimmung über die mitgelieferte Fernbedienung möglich
+- Lieferumfang: Vorgefertigtes Montageset, Schrauben, Dübel, Fernbedienung inkl. Batterien
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07TVS4LPY/?tag=tolees0ca-21)
