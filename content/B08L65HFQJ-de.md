@@ -28,9 +28,9 @@ Sie können [VAUDE Kinder Minnie 5 Rucksäcke5-9L  Blue/Eclipse  Einheitsgröße
 
 ℹ️:
 
-- Umweltfreundliche Herstellung: Dieser Rucksack besteht anteilig aus Recycling-Material und ist mit Eco Finish umweltfreundlich wasserabweisend ohne Fluorcarbone (PFC) hergestellt
-- Kompakte Größe: Durch seine kompakte Größe ist der Minnie 5 der ideale Begleiter für die ganz kleinen Abenteurer
 - Optimale Ausstattung: Dazu kommt eine Außentasche, reflektierende Druckelemente und eine Fronttasche mit Reißverschluss, in der wichtige Utensilien schnell ihren Platz finden
+- Kompakte Größe: Durch seine kompakte Größe ist der Minnie 5 der ideale Begleiter für die ganz kleinen Abenteurer
+- Umweltfreundliche Herstellung: Dieser Rucksack besteht anteilig aus Recycling-Material und ist mit Eco Finish umweltfreundlich wasserabweisend ohne Fluorcarbone (PFC) hergestellt
 - Innovatives Tragesystem: Der kompakte, umweltfreundlich erstellte Rucksack hat weich gepolsterte, anatomisch geformte Easy Fit-Schultergurte, die gekreuzt getragen und per Klett fixiert werden
 - Kompakter Kinderrucksack: komfortabler Sitz und reflektierende Elemente
 
