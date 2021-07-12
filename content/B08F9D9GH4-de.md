@@ -28,15 +28,15 @@ Es gibt ein [2020 Apple iMac Retina 5K Display  27"  8 GB RAM  256 GB SSD Lager
 
 ℹ️:
 
-- 1080p FaceTime HD Kamera
-- 27 Zoll Retina 5K Display (68,58cm Diagonale) mit 5120 x 2880 Auflösung
-- Gigabit Ethernet Anschluss
-- 802.11ac WLAN und Bluetooth 5.0
-- Zwei Thunderbolt 3 (USB‐C) Anschlüsse
-- iMac mit Retina 5K Display, Magic Keyboard, Magic Mouse 2, Netzkabel, Lightning auf USB Kabel, Poliertuch
-- AMD Radeon Pro 5300XT Grafik
-- 3.1 GHz 6‐Core Intel Core i5 Prozessor der 10. Generation
 - Vier USB‐A Anschlüsse
 - Ultraschneller SSD Speicher
+- iMac mit Retina 5K Display, Magic Keyboard, Magic Mouse 2, Netzkabel, Lightning auf USB Kabel, Poliertuch
+- AMD Radeon Pro 5300XT Grafik
+- 27 Zoll Retina 5K Display (68,58cm Diagonale) mit 5120 x 2880 Auflösung
+- Gigabit Ethernet Anschluss
+- 1080p FaceTime HD Kamera
+- Zwei Thunderbolt 3 (USB‐C) Anschlüsse
+- 802.11ac WLAN und Bluetooth 5.0
+- 3.1 GHz 6‐Core Intel Core i5 Prozessor der 10. Generation
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08F9D9GH4/?tag=tolees0ca-21)
