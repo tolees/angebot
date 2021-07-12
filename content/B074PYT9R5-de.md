@@ -28,11 +28,11 @@ Sie können [OSRAM Lamps - OSRAM Smart+ LED  ZigBee Lampe mit B22d Sockel  warmw
 
 ℹ️:
 
-- Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
-- Lange Lebensdauer und sofort volles Licht -> Die Lampe leuchtet bis zu 20000 Stunden (ca. 20 Jahre), hat keine Aufwärmzeit und nur eine geringe Wärmeentwicklung
-- Echter Ersatz für eine 60 Watt Glühbirne -> LED in Kolbenform mit matter Oberfläche und B22d Sockel für den gewohnten einfachen Austausch
 - Individuelle Lichtatmosphäre -> Steuern der Farbtemperatur von warmweiß (2000 K) bis tageslichtweiß (6500 K), Dimmen und RGB Farbwechsel - ganz einfach über die App, per Sprachkommando oder auch aus der Ferne
-- ZigBee Produkt -> Erweitern Sie Ihr Smart Home: Direkt steuerbar über Amazon Echo Show und Amazon Echo Plus. Für die Nutzung mit Amazon Echo, Amazon Echo Dot und Amazon Echo Spot ist ein zusätzliches Gateway nötig
+- Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
+- Echter Ersatz für eine 60 Watt Glühbirne -> LED in Kolbenform mit matter Oberfläche und B22d Sockel für den gewohnten einfachen Austausch
 - Geringer Stromverbrauch -> energiesparende 10 W LED mit Energieeffizienzklasse A und einer Lichtleistung von 806 Lumen
+- ZigBee Produkt -> Erweitern Sie Ihr Smart Home: Direkt steuerbar über Amazon Echo Show und Amazon Echo Plus. Für die Nutzung mit Amazon Echo, Amazon Echo Dot und Amazon Echo Spot ist ein zusätzliches Gateway nötig
+- Lange Lebensdauer und sofort volles Licht -> Die Lampe leuchtet bis zu 20000 Stunden (ca. 20 Jahre), hat keine Aufwärmzeit und nur eine geringe Wärmeentwicklung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B074PYT9R5/?tag=tolees0ca-21)

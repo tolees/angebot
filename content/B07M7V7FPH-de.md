@@ -28,10 +28,10 @@ Sie können [LEDVANCE Smart+ LED Streifen  ZigBee  warmweiß bis tageslicht  270
 
 ℹ️:
 
-- ZigBee Produkt -> Erweitern Sie Ihr Smart Home mit dem Flex 3P Multicolor: Sie können das Leuchtmittel mit ZigBee Gateway und App steuern, direkt mit Echo Plus oder mit Echo und Echo fähigem Gateway.
 - Individuelle Lichtatmosphäre -> Steuern der Farbtemperatur von warmweiß (2700 K) bis tageslichtweiß (6500 K), Dimmen und RGB Farbwechsel - ganz einfach über die App, per Sprachkommando oder auch aus der Ferne
-- geringer Stromverbrauch -> energiesparende 11 W LED mit A und einer Lichtleistung von 600 Lumen
-- Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
 - Flexible, einfache Montage -> selbstklebender, trennbarer und erweiterbarer Streifen für eine indirekte Beleuchtung ganz nach Ihren Wünschen.
+- Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
+- geringer Stromverbrauch -> energiesparende 11 W LED mit A und einer Lichtleistung von 600 Lumen
+- ZigBee Produkt -> Erweitern Sie Ihr Smart Home mit dem Flex 3P Multicolor: Sie können das Leuchtmittel mit ZigBee Gateway und App steuern, direkt mit Echo Plus oder mit Echo und Echo fähigem Gateway.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07M7V7FPH/?tag=tolees0ca-21)
