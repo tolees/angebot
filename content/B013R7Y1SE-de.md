@@ -29,9 +29,9 @@ Sie können [Amazon Basics – Mikrofaser-Reinigungstücher  12 Stück](https://
 ℹ️:
 
 - Zur Reinigung mit oder ohne chemische Reinigungsmittel geeignet. Für flusen- und streifenfreie Ergebnisse
-- Besonders weich, greift Farben, Lacke und andere Oberflächen nicht an
-- Maschinenwaschbar und kann hunderte Male wiederverwendet werden
 - Im Set sind Tücher in 3 verschiedenen Farben (Blau, Gelb und Weiß)
+- Maschinenwaschbar und kann hunderte Male wiederverwendet werden
 - Kann das 8-fache seines Eigengewichts aufsaugen
+- Besonders weich, greift Farben, Lacke und andere Oberflächen nicht an
 
 [🛒 Hier!!](https://www.amazon.de/dp/B013R7Y1SE/?tag=tolees0ca-21)

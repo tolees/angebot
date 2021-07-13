@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Segmentsägeblatt Holz  für Multifunktionswerkz
 
 ℹ️:
 
-- Spitze Kanten für präzises Arbeiten bis in die Ecken. HCS Schneide für saubere Schnitte
 - Für alle Starlock, Starlock Plus, Starlock Max und weitere Multifunktionswerkzeuge geeignet
 - Segmentsägeblatt ACZ85 EC für professionelles Bearbeiten von Weichholz, Hartholz, Sperrholz, Parkett und Kunststoff Rohren
-- Durchmesser: 85 mm, Zahnabstand: 1,4 mm
 - Besonders gut geeignet um Holz flächenbündig abzulängen und Aussparungen zu schneiden
+- Durchmesser: 85 mm, Zahnabstand: 1,4 mm
+- Spitze Kanten für präzises Arbeiten bis in die Ecken. HCS Schneide für saubere Schnitte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001IBKRA8/?tag=tolees0ca-21)
