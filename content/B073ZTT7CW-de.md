@@ -28,10 +28,10 @@ Sie können [edding Colour Happy Big Box - 70er Set - Pinselstifte  Fasermaler  
 
 ℹ️:
 
+- Perfekt abgestimmte Stifte in vielen Strichbreiten und harmonischen Farben in einer praktischen Stiftebox; ideal als Geschenk; zum Gestalten von Grußkarten
 - 12 x edding 55 Fineliner mit feiner Spitze für präzise Details, 1 x edding 1800 permanenter Feinschreiber mit extra feiner Spitze zum Skizzieren
 - 20 x edding 1340 Pinselstifte mit weicher, flexibler Pinselspitze fürs Hand-Lettering, perfekt in Kombination mit dem Farbmixer
 - 1 x edding 1500 Pastellstift weiß für helle Akzente und Pastelltöne in Kombination mit den Fasermalern; 1 x Pinselstift-Farbmixer für 190 Farbverläufe
-- Perfekt abgestimmte Stifte in vielen Strichbreiten und harmonischen Farben in einer praktischen Stiftebox; ideal als Geschenk; zum Gestalten von Grußkarten
 - 30 x edding 1300 Fasermaler mit runder Spitze zum gleichmäßigen Ausmalen; 5 x edding 2185 Gelroller Metallic (inkl. gold und silber) für Highlights und Akzente
 
 [🛒 Hier!!](https://www.amazon.de/dp/B073ZTT7CW/?tag=tolees0ca-21)
