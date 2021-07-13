@@ -28,10 +28,10 @@ Es gibt ein [Bormioli Rocco Weindekanter aus Glas für Spirituosen  Dedalo –�
 
 ℹ️:
 
+- Bormioli Rocco Karaffe
 - Kristallglas/absolut klar
+- 800 ml; Höhe: 24 cm
 - Teil der fantastischen Kollektion Bormioli Rocco - Italienisches Design
 - Moderne, hochwertige Gläser im italienischen Stil
-- 800 ml; Höhe: 24 cm
-- Bormioli Rocco Karaffe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0077SFZ4Y/?tag=tolees0ca-21)

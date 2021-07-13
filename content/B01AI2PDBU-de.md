@@ -28,12 +28,12 @@ Es gibt ein [Bosch Home and Garden - Bosch Akku Heckenschere AHS 55-20 LI  1 Akk
 
 ℹ️:
 
-- Lieferumfang: AHS 55,20 LI, Akku (am Ende des Kartons), Ladegerät, Karton
-- Die Akku-Heckenschere AHS 55-20 LI - für mehr Mobilität in Ihrem Garten
-- Komfortables Arbeiten in jeder Position dank Frontgriff mit neuer Schalteranordnung
-- Unterbrechungsfreies Schneiden dank Anti-Blockier-System
-- Schnitte entlang von Mauern und Boden dank Messerschutz möglich
 - Sägefunktion: Spezielle Zähne an der Vorderseite des Messers schneiden problemlos Äste bis zu 25 mm Durchmesser
+- Lieferumfang: AHS 55,20 LI, Akku (am Ende des Kartons), Ladegerät, Karton
+- Komfortables Arbeiten in jeder Position dank Frontgriff mit neuer Schalteranordnung
+- Die Akku-Heckenschere AHS 55-20 LI - für mehr Mobilität in Ihrem Garten
 - Mit nur 2,6 kg optimal für längere Arbeiten
+- Schnitte entlang von Mauern und Boden dank Messerschutz möglich
+- Unterbrechungsfreies Schneiden dank Anti-Blockier-System
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01AI2PDBU/?tag=tolees0ca-21)
