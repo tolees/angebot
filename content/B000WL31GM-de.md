@@ -29,8 +29,8 @@ Sie können [Bachmann - 19" Steckdosenleiste 8-fach 2300W  IEC320 C14 Stecker  S
 ℹ️:
 
 - 19" Steckdosenleiste 1HE zum Einbau in 19" Schränke, incl. Einbauwinkel
+- Einsatz: Zum Anschluß von Geräten mit Schutzkontaktstecker an den Kaltgeräteanschlüssen einer USV
 - Schutzkontakt-Einsätze: rot
 - Anordnung der Steckdosen: 35°
-- Einsatz: Zum Anschluß von Geräten mit Schutzkontaktstecker an den Kaltgeräteanschlüssen einer USV
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000WL31GM/?tag=tolees0ca-21)

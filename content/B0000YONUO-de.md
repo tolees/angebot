@@ -28,10 +28,10 @@ Es gibt ein [Rösle Spitzsieb  Hochwertiges Sieb zum Passieren von Saucen und Su
 
 ℹ️:
 
-- Das formschöne Sieb ist aus einem Stück und durchgängig in einer Materialhärte hergestellt
-- Pflegeleicht: Hygienisch, geruchs- und geschmacksneutral dank rostfreiem Edelstahl - eine mühelose Reinigung in der Spülmaschine ist möglich
 - Rösle Spitzsieb: Hochwertiges Passiersieb von Rösle zum Abpassieren von Saucen und Suppen sowie zum schnellen Abschrecken oder Aufwärmen - ein Küchensieb das durch seine Funktion und Qualität überzeugt sowie optisch ein Hingucker ist
-- Durch die feine Rundum-Lochung kann effektiv passiert werden - der stabile Griff und die breite Auflage bieten festen Halt bei der Anwendung
 - Länge 41 cm - Breite 19,5 cm - Höhe 16 cm - Grifflänge 10,8 cm - Bodendurchmesser 2,9 cm - Funktionsteildurchmesser 18 cm - Füllmenge 1,5 l - Edelstahl 18/10 hochglänzend
+- Durch die feine Rundum-Lochung kann effektiv passiert werden - der stabile Griff und die breite Auflage bieten festen Halt bei der Anwendung
+- Pflegeleicht: Hygienisch, geruchs- und geschmacksneutral dank rostfreiem Edelstahl - eine mühelose Reinigung in der Spülmaschine ist möglich
+- Das formschöne Sieb ist aus einem Stück und durchgängig in einer Materialhärte hergestellt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0000YONUO/?tag=tolees0ca-21)

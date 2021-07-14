@@ -28,11 +28,11 @@ Sie können [Amazon Basics AAA-Batterien Micro/ wiederaufladbar  vorgeladen  12 
 
 ℹ️:
 
-- Lieferung in zertifizierter frustfreier Verpackung; recycelbar; mit eingeschränkter einjähriger Garantie durch Amazon Basics
+- Gleiches Produkt, neue Optik. Das Aussehen der Batterien, die Sie erhalten, kann variieren
 - AAA-Akku (12er-Packung, 800 mAh); ideal für Digitalkameras, Fernbedienungen, Spielzeug und mehr
 - Vorgeladen und gebrauchsfertig; kann 1000 Mal mit minimalem Stromverlust wiederaufgeladen werden
-- Die Batterien können recycelt werden, wenn sie nicht mehr wiederaufgeladen werden können; um einen Recycling-Standort in Ihrer Nähe zu finden, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/locator/
-- Gleiches Produkt, neue Optik. Das Aussehen der Batterien, die Sie erhalten, kann variieren
 - Lange Akkulaufzeit; die extrem langsame schrittweise Selbstentladung hält die Kapazität für 24 Monate bei 80 %
+- Die Batterien können recycelt werden, wenn sie nicht mehr wiederaufgeladen werden können; um einen Recycling-Standort in Ihrer Nähe zu finden, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/locator/
+- Lieferung in zertifizierter frustfreier Verpackung; recycelbar; mit eingeschränkter einjähriger Garantie durch Amazon Basics
 
 [🛒 Hier!!](https://www.amazon.de/dp/B007B9NXAC/?tag=tolees0ca-21)

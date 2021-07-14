@@ -29,9 +29,9 @@ Es gibt ein [RÖSLE Hobel mit Drahtgriff  Hochwertige Reibe für Gemüse wie Gur
 ℹ️:
 
 - Länge 42 cm - Breite 12,5 cm - Höhe 4,2 cm - Standfüße Silikon glatt schwarz - Platine und Griff Edelstahl 18/10
-- RÖSLE Hobel mit Drahtgriff: Hochwertiger Hobel für Gemüse wie Gurken, Karotten oder Pilzen, auch für für hauchdünn geschnittenes Gemüse-Carpaccio oder zum Hobeln von Kartoffeln für Gratin bestens geeignet - ein edles Küchenwerkzeug mit bester Performance
 - Die speziell geschärfte sowie auswechselbare Klinge ermöglicht schnelles, zügiges Reiben und sorgt für beste Reibeergebnisse ohne starken Kraftaufwand - mit dem seitlichen Verstellrad können 5 unterschiedliche Schnittstärken eingestellt werden
-- Pflegeleicht: Durch eine einfache Reinigung bleiben keine Schmutzecken vorhanden, einfach unter fließendem Wasser abspülen - zum Aufbewahren kann der Hobel in die schützende Nullstellung gebracht werden
 - Praktisch: Die abgerundeten Silikonstandfüße ermöglichen rutschfreies Arbeiten in jeder Position - zudem kann die Reibe direkt über einer Schüssel verwendet werden - der hochwertige, ergonomische Edelstahldrahtgriff liegt perfekt in der Hand
+- RÖSLE Hobel mit Drahtgriff: Hochwertiger Hobel für Gemüse wie Gurken, Karotten oder Pilzen, auch für für hauchdünn geschnittenes Gemüse-Carpaccio oder zum Hobeln von Kartoffeln für Gratin bestens geeignet - ein edles Küchenwerkzeug mit bester Performance
+- Pflegeleicht: Durch eine einfache Reinigung bleiben keine Schmutzecken vorhanden, einfach unter fließendem Wasser abspülen - zum Aufbewahren kann der Hobel in die schützende Nullstellung gebracht werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00008WVAV/?tag=tolees0ca-21)
