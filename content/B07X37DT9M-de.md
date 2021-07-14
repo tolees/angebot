@@ -28,12 +28,12 @@ Sie können [Blink Home Security - Blink Mini – eine kompakte  intelligente Pl
 
 ℹ️:
 
-- Um die Benutzung noch einfacher zu machen, können Sie die Blink Mini mit einem unterstützten Alexa-fähigen Gerät koppeln, um Live-Video zu starten, aufgezeichnete Videos abzuspielen und das System allein über Ihre Stimme zu aktivieren und zu deaktivieren.
-- Mit Live-Video und dem Zwei-Wege-Audio der Blink Mini können Sie über Ihr Smartphone Menschen und Haustiere in Ihrem Heim sehen, hören und mit ihnen sprechen (Live-Video wird nicht kontinuierlich aufgezeichnet).
-- Lässt sich innerhalb von Minuten einrichten – schließen Sie einfach die Kamera an, verbinden Sie sie mit dem WLAN, und fügen Sie sie zu Ihrer Blink Home Monitor App hinzu.
 - Kabelgebundene 1080p HD-Überwachungskamera für den Innenbereich mit Bewegungserkennung und Zwei-Wege-Audio, über die Sie Ihr Heim Tag und Nacht überwachen können.
-- Die Blink Mini funktioniert auch mit einem lokalen Videospeicher, Sie können Videos aufzeichnen und lokal bei sich zu Hause speichern – Blink Sync-Modul 2 erforderlich, separat erhältlich. In Kürze verfügbar.
 - Lassen Sie sich über Ihr Smartphone benachrichtigen, sobald eine Bewegung erfasst wird. Oder richten Sie die Bewegungserfassungszonen individuell ein, damit Sie genau das sehen, was Ihnen wichtig ist.
+- Lässt sich innerhalb von Minuten einrichten – schließen Sie einfach die Kamera an, verbinden Sie sie mit dem WLAN, und fügen Sie sie zu Ihrer Blink Home Monitor App hinzu.
+- Mit Live-Video und dem Zwei-Wege-Audio der Blink Mini können Sie über Ihr Smartphone Menschen und Haustiere in Ihrem Heim sehen, hören und mit ihnen sprechen (Live-Video wird nicht kontinuierlich aufgezeichnet).
+- Um die Benutzung noch einfacher zu machen, können Sie die Blink Mini mit einem unterstützten Alexa-fähigen Gerät koppeln, um Live-Video zu starten, aufgezeichnete Videos abzuspielen und das System allein über Ihre Stimme zu aktivieren und zu deaktivieren.
 - Zusätzlich zur Blink Mini gewähren wir Kunden eine kostenlose Probe des Blink-Abonnementplans bis September 2021.
+- Die Blink Mini funktioniert auch mit einem lokalen Videospeicher, Sie können Videos aufzeichnen und lokal bei sich zu Hause speichern – Blink Sync-Modul 2 erforderlich, separat erhältlich. In Kürze verfügbar.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07X37DT9M/?tag=tolees0ca-21)

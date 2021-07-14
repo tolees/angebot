@@ -28,10 +28,10 @@ Es gibt ein [JVC LT-50VA6955 127 cm / 50 Zoll Fernseher  Android TV inkl. Prime 
 
 ℹ️:
 
-- Typ: LED Fernseher mit 127 cm (50 Zoll) Bildschirmdiagonale
 - Lieferumfang: JVC LT-50VA6955 schwarz, Fernbedienung inkl. 2x AAA Batterien, Bedienungsanleitung
-- Auflösung: 3840 x 2160 Pixel (4K Ultra HD) / Dolby Vision HDR + HDR 10 inkl. HLG
+- Typ: LED Fernseher mit 127 cm (50 Zoll) Bildschirmdiagonale
 - Empfang: Integrierter Triple-Tuner DVB-T2 (Codec H.265/HEVC), DVB-C- (Kabel) und DVB-S2 (Satellit) – Digitales Fernsehen terrestrisch über Satellit oder Kabel empfangen ohne zusätzlichen Receiver
+- Auflösung: 3840 x 2160 Pixel (4K Ultra HD) / Dolby Vision HDR + HDR 10 inkl. HLG
 - Smart TV mit Android 9.0, Bluetooth, WLAN, USB Media-Players/ Unterstützte Streaming-Dienste: Prime Video, Netflix, YouTube und viele weitere Highlights im Android App Store / Dolby Digital Plus & DTS für verbesserten Sound / Google Assistent Sprachsteuerung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084ZPXNLB/?tag=tolees0ca-21)
