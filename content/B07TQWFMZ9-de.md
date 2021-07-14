@@ -28,8 +28,8 @@ Sie können [Clarks Herren Sunder Cross Geschlossene Sandalenn  Braun  British T
 
 ℹ️:
 
-- Obermaterial: Leder
 - Sohle: EVA
+- Obermaterial: Leder
 - Innenmaterial: Synthetik
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TQWFMZ9/?tag=tolees0ca-21)
