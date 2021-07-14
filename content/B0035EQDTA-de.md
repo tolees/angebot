@@ -28,10 +28,10 @@ Sie können [Learning Resources LER0808 Anfänger Stoppuhr ](https://www.amazon.
 
 ℹ️:
 
-- Die große Digitalanzeige zeigt Minuten, Sekunden und 1/1000 Sekunden an.
-- Ideal Größe für kleine Kinderhände.
-- Drei einfache Knöpfe, um die Zeitmessung zu starten, zu beenden und auf null zu stellen.
 - Farben können von Abbildung abweichen.
+- Die große Digitalanzeige zeigt Minuten, Sekunden und 1/1000 Sekunden an.
+- Drei einfache Knöpfe, um die Zeitmessung zu starten, zu beenden und auf null zu stellen.
+- Ideal Größe für kleine Kinderhände.
 - Benötigt eine 1,5V Knopfzellenbatterie (enthalten).
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0035EQDTA/?tag=tolees0ca-21)
