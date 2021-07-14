@@ -28,12 +28,12 @@ Es gibt ein [LEGO 41664 Friends Magische Würfel Mias Mops-Würfel Mini-Set Seri
 
 ℹ️:
 
-- Der Würfel ist 8 cm hoch und 7 cm breit. Mit den Stoffohren und dem Mopsgesicht eignet sich diese kompakte Tragebox ideal dafür, einen Kinderschreibtisch mit einem niedlichen Deko-Element zu verzieren
 - Das LEGO Friends Geschenk „Mias Mops-Würfel“ (41664) zum Mitnehmen sorgt auch unterwegs für beste Beschäftigung, denn mit dem niedlichen Würfel im Hundedesign können Kinder einen Welpen umsorgen.
-- Die robuste Tragebox macht den Würfel zum idealen Reisespielzeug
 - Eine bezaubernde spontane Belohnung für Kinder ab 6 Jahren, die Spielzeug-Tiere lieben. Diese einfachen Modelle sind ein toller erster Schritt in die faszinierende LEGO Bau- und Spielwelt
 - Die farbenfrohen Spielsets enthalten vertraute Charaktere, mit denen Kinder in die Welt von LEGO Friends eintauchen und sich stundenlang beschäftigen können - ob alleine oder mit der besten Freundin
 - Kinder können die Elemente herausnehmen, um ungehindert mit ihnen zu spielen, oder sicher im Würfel verstauen, um sie überallhin mitzunehme
+- Die robuste Tragebox macht den Würfel zum idealen Reisespielzeug
 - Enthält die LEGO Friends Heldin Mia als Spielfigur, einen Spielzeug-Mops in einer Überraschungsfarbe sowie einen baubaren Schrank für den Kauknochen und den Hundekuchen
+- Der Würfel ist 8 cm hoch und 7 cm breit. Mit den Stoffohren und dem Mopsgesicht eignet sich diese kompakte Tragebox ideal dafür, einen Kinderschreibtisch mit einem niedlichen Deko-Element zu verzieren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4SJHDQ/?tag=tolees0ca-21)

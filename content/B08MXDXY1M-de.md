@@ -28,9 +28,9 @@ Sie können [Samsung GU65TU6979UXZG 163cm  65 Zoll  LED Fernseher  Ultra HD 4K  
 
 ℹ️:
 
-- HDR
 - UHD Dimming
-- SmartTV
 - Crystal Prozessor 4K
+- HDR
+- SmartTV
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08MXDXY1M/?tag=tolees0ca-21)
