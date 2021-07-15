@@ -28,10 +28,10 @@ Es gibt ein [NEMAXX Professional Carbon Speed Paddel 3-teilig für SUP - Stand U
 
 ℹ️:
 
-- EXTRA LEICHT - Das geringe Gewicht. Carbon SUP-Paddel wiegt nur 702,5g
-- 3-TEILIGES PADDEL - Ausziehbares Teleskop-Paddel, Anti-Twist Comfort System
 - PROFI BLATT - Nylon (Polyamid), optimal geformt. Inklusive Blade Tasche
-- CARBON - Sehr robust, widerstandsfähig und langlebig. Sink-Stop-Funktion
+- EXTRA LEICHT - Das geringe Gewicht. Carbon SUP-Paddel wiegt nur 702,5g
 - VIELSEITIG - Ob für das Kajak, Schlauchboot, Kanu oder Paddle-Board, dieses Paddel passt zu vielen verschiedenen Bootstypen
+- CARBON - Sehr robust, widerstandsfähig und langlebig. Sink-Stop-Funktion
+- 3-TEILIGES PADDEL - Ausziehbares Teleskop-Paddel, Anti-Twist Comfort System
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07TSH5J58/?tag=tolees0ca-21)
