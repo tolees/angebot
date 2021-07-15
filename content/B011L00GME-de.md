@@ -28,10 +28,10 @@ Es gibt ein [Barilla grünes Pesto Basilico e Rucola – Pesto 12er Pack  12x190
 
 ℹ️:
 
-- Für jede Situation: Pesto eignet sich für ein schnelles Mittagessen oder Abendessen ebenso gut wie für aufwendigere Gerichte - das Pesto kann einfach kalt auf die heiße Pasta gegeben werden.
-- Wunderbar vielseitig: Das Pesto harmoniert nicht nur mit den verschiedensten Pastasorten, sondern schmeckt auch köstlich zu Kartoffeln, Fleisch und vielem mehr.
-- Erlesene Zutaten: Das Pesto beinhaltet frischen Basilikum und Rucola, verfeinert durch Pecorino Romano, Petersilie und Majoran - und kommt dabei ganz ohne zusätzliche Konservierungsstoffe aus!
-- Lieferumfang: Barilla Pesto Basilico e Rucola im Multipack / Glutenfrei genießen: Grünes Pesto verfeinert mit einem mediterranem Kräutermix aus frischem Basilikum und Rucola.
 - Italienische Küche erleben: Das klassische Pesto Basilico e Rucola von Barilla verleiht jedem Pasta-Gericht ein einzigartiges, intensives Aroma - für echt italienische Geschmackserlebnisse!
+- Wunderbar vielseitig: Das Pesto harmoniert nicht nur mit den verschiedensten Pastasorten, sondern schmeckt auch köstlich zu Kartoffeln, Fleisch und vielem mehr.
+- Lieferumfang: Barilla Pesto Basilico e Rucola im Multipack / Glutenfrei genießen: Grünes Pesto verfeinert mit einem mediterranem Kräutermix aus frischem Basilikum und Rucola.
+- Für jede Situation: Pesto eignet sich für ein schnelles Mittagessen oder Abendessen ebenso gut wie für aufwendigere Gerichte - das Pesto kann einfach kalt auf die heiße Pasta gegeben werden.
+- Erlesene Zutaten: Das Pesto beinhaltet frischen Basilikum und Rucola, verfeinert durch Pecorino Romano, Petersilie und Majoran - und kommt dabei ganz ohne zusätzliche Konservierungsstoffe aus!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B011L00GME/?tag=tolees0ca-21)

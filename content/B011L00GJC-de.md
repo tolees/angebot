@@ -28,10 +28,10 @@ Es gibt ein [Barilla rotes Pesto Pomodori Secchi – Pesto 12er Pack  12x200g ](
 
 ℹ️:
 
-- Wunderbar vielseitig: Das Pesto harmoniert nicht nur mit den verschiedensten Pastasorten, sondern schmeckt auch köstlich zu Kartoffeln, Fleisch und vielem mehr.
 - Italienische Küche erleben: Das klassische Pesto Pomodori Secchi von Barilla verleiht jedem Pasta-Gericht ein einzigartiges, intensives Aroma - für echt italienische Geschmackserlebnisse!
+- Für jede Situation: Pesto eignet sich für ein schnelles Mittagessen oder Abendessen ebenso gut wie für aufwendigere Gerichte - das Pesto kann einfach kalt auf die heiße Pasta gegeben werden.
 - Lieferumfang: Barilla Pesto Pomodori Secchi im Multipack / Vegetarisch genießen: Rotes Pesto glutenfrei verfeinert mit frischen Tomatenstückchen.
 - Erlesene Zutaten: Das Pesto beinhaltet von der Sonne Italiens getrocknete Tomaten und verleiht so jedem Gericht ein mediterranes Aroma - und kommt dabei ganz ohne zusätzliche Konservierungsstoffe aus!
-- Für jede Situation: Pesto eignet sich für ein schnelles Mittagessen oder Abendessen ebenso gut wie für aufwendigere Gerichte - das Pesto kann einfach kalt auf die heiße Pasta gegeben werden.
+- Wunderbar vielseitig: Das Pesto harmoniert nicht nur mit den verschiedensten Pastasorten, sondern schmeckt auch köstlich zu Kartoffeln, Fleisch und vielem mehr.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B011L00GJC/?tag=tolees0ca-21)

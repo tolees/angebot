@@ -28,10 +28,10 @@ Es gibt ein [Clinique Take The Day Off femme/women  Make-up Entferner  1er Pack 
 
 ℹ️:
 
-- Angenehm riechende Duftstoffe beleben und verleihen ein angenehmes Frischegefühl.
-- Die Pflege entfernt selbst wasserfestes Make-up, ohne die Haut zu beschweren.
 - Ein supergründlicher und sanfter Make Up Entferner.
 - Der Make-up Entfernen eignet sich besonderes, dank sanft entwickelter Formel, für empfindliche Augen und Kontaktlinsenträger.
+- Angenehm riechende Duftstoffe beleben und verleihen ein angenehmes Frischegefühl.
 - Die Augen- und Lippenpartie wird schnell und effektiv gereinigt. Extrakte der Kamille beruhigen Ihre Haut.
+- Die Pflege entfernt selbst wasserfestes Make-up, ohne die Haut zu beschweren.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00VODRK64/?tag=tolees0ca-21)
