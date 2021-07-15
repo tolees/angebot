@@ -28,10 +28,10 @@ Es gibt ein [Barilla rotes Pesto alla Calabrese – Pesto 12er Pack  12x190g ](h
 
 ℹ️:
 
-- Wunderbar vielseitig: Das Pesto harmoniert nicht nur mit den verschiedensten Pastasorten, sondern schmeckt auch köstlich zu Kartoffeln, Fleisch und vielem mehr.
-- Italienische Küche erleben: Das klassische Pesto alla Calabrese von Barilla verleiht jedem Pasta-Gericht ein einzigartiges, intensives Aroma - für echt italienische Geschmackserlebnisse!
 - Für jede Situation: Pesto eignet sich für ein schnelles Mittagessen oder Abendessen ebenso gut wie für aufwendigere Gerichte - das Pesto kann einfach kalt auf die heiße Pasta gegeben werden.
-- Erlesene Zutaten: Das leicht pikante Pesto beinhaltet rote Paprika, Pecorino, Grana Padano, Ricotta und die lebhafte Note des Peperoncino - und kommt dabei ohne zusätzliche Konservierungsstoffe aus!
+- Italienische Küche erleben: Das klassische Pesto alla Calabrese von Barilla verleiht jedem Pasta-Gericht ein einzigartiges, intensives Aroma - für echt italienische Geschmackserlebnisse!
 - Lieferumfang: Barilla Pesto alla Calabrese im Multipack / Glutenfrei genießen: Rotes Pesto verfeinert mit roter Paprika und italienischem Käse.
+- Erlesene Zutaten: Das leicht pikante Pesto beinhaltet rote Paprika, Pecorino, Grana Padano, Ricotta und die lebhafte Note des Peperoncino - und kommt dabei ohne zusätzliche Konservierungsstoffe aus!
+- Wunderbar vielseitig: Das Pesto harmoniert nicht nur mit den verschiedensten Pastasorten, sondern schmeckt auch köstlich zu Kartoffeln, Fleisch und vielem mehr.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B011KZZK30/?tag=tolees0ca-21)
