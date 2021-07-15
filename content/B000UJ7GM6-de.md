@@ -28,8 +28,8 @@ Es gibt ein [Schwalbe Schlauch SV17/60  Schwarz  27/28 x 1 1/8-1.75 28/47-622/63
 
 ℹ️:
 
-- Farbe: schwarz
 - Größe: 27/28x1 1/8-1.75 28/47-622/635 SV60mm
 - Marke: Schwalbe
+- Farbe: schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000UJ7GM6/?tag=tolees0ca-21)
