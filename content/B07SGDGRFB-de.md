@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ulogu - Sandalen Damen Sommer Flip Flops mit 15.01 % Rabatt'
-date: 2021-07-01 06:23:14
+date: 2021-07-15 06:29:44
 image: 'https://m.media-amazon.com/images/I/4148qDZItAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
