@@ -28,9 +28,9 @@ Sie können [MSI MPG B550 Gaming Edge WiFi AMD AM4 DDR4 M.2 USB 3.2 Gen 2 WLAN 6
 
 ℹ️:
 
-- Optimiertes Power Design mit Core Boost und DDR4 Boost
 - PCIe- und M.2- Lightning Gen4 für schnellste Datenübertragungen
 - Kompatibel mit AMD Ryzen 9, Ryzen 7 und Ryzen 5 AM4 Prozessoren der 3. Generation
+- Optimiertes Power Design mit Core Boost und DDR4 Boost
 - WLAN 6 (802.11AX) Technik mit MU-MIMO für schnelles Online-Gaming
 - Hochwertiges Power Design mit Core Boost und DDR4 Boost
 

@@ -28,9 +28,9 @@ Sie können [Logitech G815 Gaming US/INT-Layout / GL Tactile Switches / schwarz]
 
 ℹ️:
 
-- Die schlanke und ausgereifte G815 bietet Spitzenleistung mit allen Funktionen, die für eine totale Kontrolle nötig sind.
-- Alle Tasten können mit ca. 16,8 Millionen Farben personalisiert werden.
 - Herkunftsland:- China
 - Mehr Geräte bequem und schnell anschließen und betreiben.
+- Die schlanke und ausgereifte G815 bietet Spitzenleistung mit allen Funktionen, die für eine totale Kontrolle nötig sind.
+- Alle Tasten können mit ca. 16,8 Millionen Farben personalisiert werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07VWFKTK7/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [G-STAR RAW Herren 3301 Slim Fit Tapered    Dk Aged 5245-89  32W / 3
 
 ℹ️:
 
-- Normale Leibhöhe
 - Schmales Bein vom Oberschenkel bis zum Saum
 - Anliegender Bund
+- Normale Leibhöhe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00SF9CLB4/?tag=tolees0ca-21)

@@ -30,8 +30,8 @@ Es gibt ein [Naturino Jungen Unisex Kinder Cocoon Vl Gymnastikschuhe  Rot  Rosso
 
 - Obermaterial: Leder
 - Innenmaterial: Leder
+- Außensohle: Gummi
 - Innensohle: Leder
 - Verschlussart: Klettverschluss
-- Außensohle: Gummi
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07MQ9N1Y8/?tag=tolees0ca-21)

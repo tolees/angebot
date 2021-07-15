@@ -28,10 +28,10 @@ Sie können [LED Discokugel SOLMORE 51LEDs 12W Discolampe Partyleuchte RGB Licht
 
 ℹ️:
 
-- ✔ 【51 RGB LED】: Diese Discokugel adoptierte 51pcs hohe Leistung RGB LED, super helles, 48pcs auf der Unterseite und 3 in der Mitte, 2 Beleuchtungmodi: Selbstmodus oder Tonmodus, wenn dort Musik oder Stimme, Effekt automatisch zu ändert Rhythmus der Musik.
-- ✔ 【Empfindlicher】: Neue 12W Licht, geringe Hitzearbeit, Sound-Kontrolle (Sound-aktiviert), empfindlicher auf den Rhythmus der Musik oder Stimme, RGB-Beleuchtung Lichtspiele heller, hell und schön in weiten Bereich für Wohnzimmer, Schlafzimmer, Büro usw.
 - ✔ 【EU Easy Socket & Installation】: Dieses DJ-Licht mit EU-Stecker, Spannung AC220V, kann direkt in Europa verwendet werden, es hat 2 Löcher auf der Rückseite der Lampe, kann auf Tisch, Boden oder an der Wand oder Decke an der Schraube befestigen Hilfe (Schraube nicht mitgeliefert), sehr einfach zu verwenden, wo immer Sie wollen.
+- ✔ 【51 RGB LED】: Diese Discokugel adoptierte 51pcs hohe Leistung RGB LED, super helles, 48pcs auf der Unterseite und 3 in der Mitte, 2 Beleuchtungmodi: Selbstmodus oder Tonmodus, wenn dort Musik oder Stimme, Effekt automatisch zu ändert Rhythmus der Musik.
 - ✔ 【Large Use】: Diese Bühne Lampe ist sicher, stabil, sicher und tragbar, ideal zum Feiern Geburtstagsparty Hochzeitsfeier im Haus Disco-Büro KTV Bar Club Reisen zwischen Freunden, Kindern oder Familien.Auch ein ideales Geschenk, um eine glückliche Atmosphäre zu schaffen animiere und gib deinen Liebsten mehr Freude.
+- ✔ 【Empfindlicher】: Neue 12W Licht, geringe Hitzearbeit, Sound-Kontrolle (Sound-aktiviert), empfindlicher auf den Rhythmus der Musik oder Stimme, RGB-Beleuchtung Lichtspiele heller, hell und schön in weiten Bereich für Wohnzimmer, Schlafzimmer, Büro usw.
 - ✔ 【Effect & Life Garantie】: Dieses Abendlicht hat einen schönen Effekt, produziert in hoher Qualität und gut verpackt.Gute After-Sales-Service und mit langer Garantiezeit (1 Jahr) (bitte kontaktieren Sie den Verkäufer per E-Mail).
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0747JBC1X/?tag=tolees0ca-21)

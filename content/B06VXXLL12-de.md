@@ -28,8 +28,8 @@ Es gibt ein [Aquaplay 8700001516 - Wasserbahn Set "Schleusenbox"  25-teilig](htt
 
 ℹ️:
 
-- Empfohlenes Alter: Ab 3 Jahren
-- Box zusammenklappbar
 - Wasserspielspaß mit Lerneffekt
+- Box zusammenklappbar
+- Empfohlenes Alter: Ab 3 Jahren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06VXXLL12/?tag=tolees0ca-21)
