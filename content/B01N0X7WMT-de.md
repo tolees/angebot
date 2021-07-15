@@ -28,10 +28,10 @@ Sie können [Kosmos Spiele 692827 Lucky Lachs Spiel](https://www.amazon.de/dp/B0
 
 ℹ️:
 
-- Autoren: Ken Gruhl & Quentin Weir
-- Für 3 - 6 Spieler ab 8 Jahren
+- Handliches Format: als Reisespiel für unterwegs
 - Cool verpackt im Fisch
 - Der turbulente Kartenspaß für flinke Flossen
-- Handliches Format: als Reisespiel für unterwegs
+- Für 3 - 6 Spieler ab 8 Jahren
+- Autoren: Ken Gruhl & Quentin Weir
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N0X7WMT/?tag=tolees0ca-21)

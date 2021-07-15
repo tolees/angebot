@@ -29,9 +29,9 @@ Sie können [Huawei P smart Z Dual-Sim Smartphone BUNDLE  16 74 cm  6 59 Zoll   
 ℹ️:
 
 - Smartphone mit Auto Pop-Up Selfie-Kamera, inkl. 16GB Speicherkarte
-- 16MP (PDAF) + 2MP PDAF Hauptkamera, 16MP, F2.2 Frontkamera
-- 4000 mAh Lithium-Polymer-Akku; 4GB RAM + 64GB ROM, erweiterbar bis zu 512 GB durch micro-SD Speicherkarte
-- Lieferumfang: HUAWEI P Smart Z, Akku (fest verbaut), Headset, Ladegerät, USB-Kabel, SIM-Werkzeug, Schnellstartanleitung, Garantiekarte, 16GB Speicherkarte
 - Hisilicon Kirin 710F Octa-Core-Prozessor; Android 9.0, EMUI 9.0.1
+- 16MP (PDAF) + 2MP PDAF Hauptkamera, 16MP, F2.2 Frontkamera
+- Lieferumfang: HUAWEI P Smart Z, Akku (fest verbaut), Headset, Ladegerät, USB-Kabel, SIM-Werkzeug, Schnellstartanleitung, Garantiekarte, 16GB Speicherkarte
+- 4000 mAh Lithium-Polymer-Akku; 4GB RAM + 64GB ROM, erweiterbar bis zu 512 GB durch micro-SD Speicherkarte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07R17Y5PZ/?tag=tolees0ca-21)
