@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kosmos Spiele 692827 Lucky Lachs Spiel mit 53.89 % Rabatt'
-date: 2021-06-24 20:37:44
+date: 2021-07-15 19:27:49
 image: 'https://m.media-amazon.com/images/I/51TWTm52BOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Sie können [Kosmos Spiele 692827 Lucky Lachs Spiel](https://www.amazon.de/dp/B0
 ℹ️:
 
 - Cool verpackt im Fisch
-- Autoren: Ken Gruhl & Quentin Weir
+- Der turbulente Kartenspaß für flinke Flossen
 - Für 3 - 6 Spieler ab 8 Jahren
 - Handliches Format: als Reisespiel für unterwegs
-- Der turbulente Kartenspaß für flinke Flossen
+- Autoren: Ken Gruhl & Quentin Weir
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N0X7WMT/?tag=tolees0ca-21)
