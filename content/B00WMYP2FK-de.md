@@ -28,10 +28,10 @@ Es gibt ein [BOSS Herren Barnabie Gürtel aus Nappaleder mit Dornschließe](http
 
 ℹ️:
 
-- Gürtelverschluss: Dornschließe
 - Gürtelbreite: 3cm
+- Gürtelverschluss: Dornschließe
+- Gürtelverschluss: Dornschließe
 - Material: Leder
 - Gürtelbreite: 3cm
-- Gürtelverschluss: Dornschließe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00WMYP2FK/?tag=tolees0ca-21)

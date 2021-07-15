@@ -28,13 +28,13 @@ Sie können [TEFAL TRATTORIA E21853 Schmortopf 28 cm| Aluguss | Gussdeckel | Ant
 
 ℹ️:
 
+- **Quelle: Euromonitor International Limited, Ausgabe Home and Garden 2019, Wert der Marke im Handel (Verkaufspreis), Daten von 2018
+- WELTWEIT Nr. 1*: Mit Tefal, der weltweiten Nr. 1 für Töpfe und Pfannen, sind beste Kochergebnisse garantiert
 - GRIFFE: Robuste und langlebige Griffe aus gegossenem Aluminium, inklusive Griffschutz aus Silikon
-- Antihaft-Beschichtung: Titanium Extra Beschichtung: einfache Nutzung und mühelose Reinigung der Schmortöpfe
+- DECKEL: Gussdeckel aus Aluminium
 - HERDKOMPATIBILITÄT: Für alle Herdarten geeignet, einschließlich Induktionsherde
 - DIE UMWELTFREUNDLICHE PFANNE: Recycelbare Produkte mit sicherer Antihaftversiegelung (frei von PFOA, Blei und Cadmium)
-- WELTWEIT Nr. 1*: Mit Tefal, der weltweiten Nr. 1 für Töpfe und Pfannen, sind beste Kochergebnisse garantiert
-- DECKEL: Gussdeckel aus Aluminium
-- **Quelle: Euromonitor International Limited, Ausgabe Home and Garden 2019, Wert der Marke im Handel (Verkaufspreis), Daten von 2018
 - HERVORRAGENDE WÄRMESPEICHERUNG:  Die elegante Aluguss-Form und der kompakte Boden besitzen eine ausgezeichnete Wärmespeicherung, dank der Sie mühelos geschmackvolle Gerichte zubereiten können
+- Antihaft-Beschichtung: Titanium Extra Beschichtung: einfache Nutzung und mühelose Reinigung der Schmortöpfe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PSV53R3/?tag=tolees0ca-21)

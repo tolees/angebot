@@ -28,9 +28,9 @@ Sie können [ABACUSSPIELE 38182 - Deckscape - Raub in Venedig  Escape Room Spiel
 
 ℹ️:
 
-- gleich losspielen, ohne Regel lesen
-- ideal für große Spielgruppen
-- auch alleine spielbar
 - Escape Room Spiel mit extra großen Karten
+- auch alleine spielbar
+- ideal für große Spielgruppen
+- gleich losspielen, ohne Regel lesen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079SQVWLR/?tag=tolees0ca-21)
