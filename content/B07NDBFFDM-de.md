@@ -29,12 +29,12 @@ Sie können [LEGO 41166 Disney Princess Frozen Die Eiskönigin 2 ELSA und die Re
 ℹ️:
 
 - Mit diesem LEGO | Disney Set aus „Die Eiskönigin 2“ wird die Fantasie der Kinder angeregt, um neue Teile der Geschichte mit den LEGOSteinen zu erschaffen.
-- Zu den Zubehör-Elementen gehört ein Porträt und eine Staffelei, eine Schatztruhe, eine Krone, ein Teleskop, eine Büste mit Standfuß, ein Vogelhaus, ein Laternenmast, eine Geschenkbox, ein Geschenk, Fisch, Krabben, Brot, Gemüse, ein Besen und ein Schwert.
 - Die Bettdecke kann angehoben werden, sodass eine LEGO Minidoll ins Bett gelegt und mit der Bettdecke zugedeckt werden kann.
-- Umfasst 3 LEGO Minidolls: Elsa, Anna und Kristoff sowie 2 LEGO Tierfiguren: eine Katze und zwei Vögel.
-- Enthält einen 3-stöckigen Palast mit Thronsall, Schlafzimmer und Dachboden, Bäckerstand, Fischhändlerstand mit kleinem Anlegesteg und ein Ruderboot mit Rudern.
-- Dieses LEGO | Disney Set aus „Die Eiskönigin 2“ ist ein ideales Geschenk zum Geburtstag oder zu Weihnachten.
 - Die Möbel-Elemente könnten einfach zwischen den einzelnen Räumen hin und her bewegt werden.
 - Durch den modularen Aufbau können die 3 Stockwerke auseinander genommen und neu zugeordnet werden, um somit einen einfachen Zugang zu den verschiedenen Teilen des Palasts zu ermöglichen
+- Zu den Zubehör-Elementen gehört ein Porträt und eine Staffelei, eine Schatztruhe, eine Krone, ein Teleskop, eine Büste mit Standfuß, ein Vogelhaus, ein Laternenmast, eine Geschenkbox, ein Geschenk, Fisch, Krabben, Brot, Gemüse, ein Besen und ein Schwert.
+- Enthält einen 3-stöckigen Palast mit Thronsall, Schlafzimmer und Dachboden, Bäckerstand, Fischhändlerstand mit kleinem Anlegesteg und ein Ruderboot mit Rudern.
+- Dieses LEGO | Disney Set aus „Die Eiskönigin 2“ ist ein ideales Geschenk zum Geburtstag oder zu Weihnachten.
+- Umfasst 3 LEGO Minidolls: Elsa, Anna und Kristoff sowie 2 LEGO Tierfiguren: eine Katze und zwei Vögel.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NDBFFDM/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Panama Jack Damen Bambina Igloo Stiefel  Grau  Nobuck Gris/Grey   4
 
 ℹ️:
 
+- HeelHeight: 3, 00 cm
 - Water Resistant
 - Panama Jack Women, Gris / Grey Klassisch Boots
-- Principal Material: Nobuck, Lining Material: Natural Fur/Real Fur Sole Material: Natural Rubber InnerSole RemovableInsert: Yes
 - Made in Spain
-- HeelHeight: 3, 00 cm
+- Principal Material: Nobuck, Lining Material: Natural Fur/Real Fur Sole Material: Natural Rubber InnerSole RemovableInsert: Yes
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01H1X88MA/?tag=tolees0ca-21)
