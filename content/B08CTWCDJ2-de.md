@@ -28,9 +28,9 @@ Es gibt ein [LE 5M RGB LED Strip Set  5050 SMD LED Streifen  12V  Selbstklebend 
 
 ℹ️:
 
-- [ Breites Anwendungsspektrum ]: Perfekt LED Lichterkette für Fernseher, Garten, Weihnachten, Club, Party, Theateraufführungen, Innen- und Außendekoration usw. und festliche Atmosphäre (Hochzeit / Geburtstag / Party / Bar-Bar).
-- [ Mehr Farben, Mehr Modi ]: Mit der 44-Tasten Fernbedienung verfügt die LED Strip über insgesamt 34 Grundfarben, 20 statische Farbe, 6 DIY-Modi, 2 Sprungmodi, 2 Überblendmodi. Es hat Gedächtnisfunktion.
 - [ Duale Steuerungsmöglichkeiten ]: Die Fernbedienung ermöglicht es Ihnen, das LED Band weit entfernt von ihm zu steuern. Praktisches Steuerbox: eine Taste zum Ein- und Ausschalten.
+- [ Mehr Farben, Mehr Modi ]: Mit der 44-Tasten Fernbedienung verfügt die LED Strip über insgesamt 34 Grundfarben, 20 statische Farbe, 6 DIY-Modi, 2 Sprungmodi, 2 Überblendmodi. Es hat Gedächtnisfunktion.
+- [ Breites Anwendungsspektrum ]: Perfekt LED Lichterkette für Fernseher, Garten, Weihnachten, Club, Party, Theateraufführungen, Innen- und Außendekoration usw. und festliche Atmosphäre (Hochzeit / Geburtstag / Party / Bar-Bar).
 - [ Starkes 3M Klebe]: Das LED Streifen selbstklebend kann auf eine trockene, flache Oberfläche geklebt werden. Sie können der zusätzliche Lichtstreifen abschneiden. Hinweis: Kann nur an den Controller angeschlossene Teil des LED Strip weiterarbeiten.
 - [ Sicherheit & Lange Lebensdauer ]: Die Betriebsspannung beträgt 12V, mehr Sicherheit und stabile extrem niedrige Hitze, Dieses LED-Band ist weder giftig noch emittiert keine UV-Strahlen und LED Leiste haben einen Kurzschlussschutz.
 
