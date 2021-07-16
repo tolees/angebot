@@ -1,32 +1,37 @@
 ---
 layout: post
-title: '42.86 % rabat auf WOLF-Garten - Amboss Astschere »Comfort '
-date: 2020-03-14 04:56:59
-image: 'https://m.media-amazon.com/images/I/31XmQIwyPAL._SL400_.jpg'
+title: '34.23 % rabat auf WOLF Garten - WOLF-Garten - Amboss Astsc'
+date: 2021-07-16 09:49:46
+image: 'https://m.media-amazon.com/images/I/31XmQIwyPAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00AZYPDY4-de WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT**...'
+slug: 'B00AZYPDY4-de WOLF Garten - WOLF-Garten - Amboss Astschere »Comfort...'
 sku: 'B00AZYPDY4-de'
-tags: [  ]
-actualPrice: 31.99 EUR
+tags: [ 'Astscheren','Garten','Garten- & Bewässerungsgeräte','Gartengeräte','Regular Stores','Shops','wolf garten', ]
+actualPrice: 26.3 EUR
 currency: EUR
-price: 31.99
-comparePrice: 55.99 EUR
-prodname: 'WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT** RS 750; 73AGA007650'
+price: 26.3
+comparePrice: 39.99 EUR
+prodname: 'WOLF Garten - WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT** RS 750; 73AGA007650'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'WOLF Garten'
 buyurl: 'https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21'
-descuento: '42.86'
-average: '31.99'
+descuento: '34.23'
+average: '29.145'
 ---
 
-Es gibt ein [WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT** RS 750; 73AGA007650](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21) mit aktuellem Preis 31.99 EUR (original: 55.99 EUR) 42.86 % Rabatt hier:
+Es gibt ein [WOLF Garten - WOLF-Garten - Amboss Astschere »Comfort Plus« POWER CUT** RS 750; 73AGA007650](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21) mit aktuellem Preis 26.3 EUR (original: 39.99 EUR) 34.23 % Rabatt hier:
 
-[![WOLF-Garten - Amboss Astschere »Comfort ](https://m.media-amazon.com/images/I/31XmQIwyPAL._SL400_.jpg)](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21)
+[![WOLF Garten - WOLF-Garten - Amboss Astsc](https://m.media-amazon.com/images/I/31XmQIwyPAL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Flachverschraubte Gelenke
+- Grifflänge ca. 750 mm
+- Ergonomische 2-K Griffe mit Softeinlage
+- Um bis zu 3-fache Kraftübertragung dank der Schneidkopftechnologie
+- Klingen antihaftbeschichtet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00AZYPDY4/?tag=tolees0ca-21)
