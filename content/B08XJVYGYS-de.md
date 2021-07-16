@@ -28,11 +28,11 @@ Es gibt ein [Corsair K65 RGB MINI 60% Mechanische Gaming-Tastatur  Anpassbare RG
 
 ℹ️:
 
-- Personalisiertes Gaming: Beweisen Sie Stil mit dynamischer RGB-Hintergrundbeleuchtung einzelner Tasten sowie einer optionalen leuchtenden Leertaste und einer Taste mit CORSAIR-Logo
 - Kleine Größe, herausragende Funktionen: Die K65 RGB MINI bietet großartige Funktionen bei einem Formfaktor von 60 % und ermöglicht damit komfortables Gaming auf kleinstem Raum
-- PBT-Double-Shot-Tastenkappen: Ein präzisionsgeformter Tastenkappensatz verhindert ein Abnutzen, Verblassen und unerwünschtes Glänzen – mit einer Stärke von 1,5 mm für lange Beständigkeit
-- 100 % mechanische CHERRY MX SPEED RGB Silver-Tastenschalter: Ermöglichen blitzschnelle Reaktionen mit einem Betätigungsabstand von 1,2 mm, garantieren 100 Millionen Tastenanschläge
-- Abnehmbares USB-Typ-C-Kabel mit Textilummantelung: Die mobile K65 RGB MINI kann problemlos mitgenommen und überall an ein beliebiges System angeschlossen werden
 - Powered by CORSAIR AXON Hyper-Processing-Technologie: Überträgt Eingaben mit 8.000-Hz-Hyper-Polling bis zu achtmal schneller an Ihren PC als konventionelle Gaming-Tastaturen
+- 100 % mechanische CHERRY MX SPEED RGB Silver-Tastenschalter: Ermöglichen blitzschnelle Reaktionen mit einem Betätigungsabstand von 1,2 mm, garantieren 100 Millionen Tastenanschläge
+- Personalisiertes Gaming: Beweisen Sie Stil mit dynamischer RGB-Hintergrundbeleuchtung einzelner Tasten sowie einer optionalen leuchtenden Leertaste und einer Taste mit CORSAIR-Logo
+- Abnehmbares USB-Typ-C-Kabel mit Textilummantelung: Die mobile K65 RGB MINI kann problemlos mitgenommen und überall an ein beliebiges System angeschlossen werden
+- PBT-Double-Shot-Tastenkappen: Ein präzisionsgeformter Tastenkappensatz verhindert ein Abnutzen, Verblassen und unerwünschtes Glänzen – mit einer Stärke von 1,5 mm für lange Beständigkeit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08XJVYGYS/?tag=tolees0ca-21)

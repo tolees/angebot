@@ -30,8 +30,8 @@ Es gibt ein [Callaway Golf Thermo-Handschuh  2 Stück](https://www.amazon.de/dp/
 
 - Beschichtetes Obermaterial - 100 Prozent wasserdicht
 - Opti Therm-Fleece-Innenfutter - hält die Hände warm
-- Einheitsgröße
-- Opti Shield-Mikrofaser-Obermaterial - schützt vor Regen und Wind
 - Kleine Tasche mit Reißverschluss - für einen Handwärmer (nicht enthalten)
+- Opti Shield-Mikrofaser-Obermaterial - schützt vor Regen und Wind
+- Einheitsgröße
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00OTHZVGS/?tag=tolees0ca-21)
