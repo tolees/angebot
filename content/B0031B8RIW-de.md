@@ -28,9 +28,9 @@ Es gibt ein [Bosch Professional Metallbohrer HSS-G geschliffen  10 Stück  Ø 5 
 
 ℹ️:
 
-- Für alle Bohrmaschinen mit Rundschaftbohreraufnahme
 - Durchmesser x Arbeitslänge x Gesamtlänge: 5 x 52 x 86 mm, nach DIN 338
 - Präzisionsgeschliffener Profibohrer für schnellen Bohrfortschritt bei geringer Anpresskraft ohne Vorkörnen oder Vorbohren. Verwendung von Universalschneideöl 2607001409 empfohlen.
+- Für alle Bohrmaschinen mit Rundschaftbohreraufnahme
 - Rechtsschneidender Spiralbohrer Typ N, selbstzentrierende 135° Bohrspitze mit Durchmessertoleranz h 8, Kreuzschliff nach DIN 1412 C
 - Professionelles Bearbeiten von legiertem und unlegiertem Stahl, Stahlguss, Grauguss, Sintereisen, Temperguss, Nichteisenmetallen und Hartkunststoffen
 
