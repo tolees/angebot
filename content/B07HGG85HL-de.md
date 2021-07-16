@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Tune500BT On-Ear Bluetooth-Kopfhörer mit 40.01 % Rabatt'
-date: 2021-07-15 13:29:56
+date: 2021-07-16 13:48:15
 image: 'https://m.media-amazon.com/images/I/31tC+Zx88kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'JBL'
 buyurl: 'https://www.amazon.de/dp/B07HGG85HL/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '32.9'
+average: '32.838085106383'
 ---
 
 Sie können [JBL Tune500BT On-Ear Bluetooth-Kopfhörer in Schwarz – Faltbarer  kabelloser Ohrhörer mit integriertem Headset – Musik Streaming bis zu 16 Stunden mit nur einer Akku-Ladung](https://www.amazon.de/dp/B07HGG85HL/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 49.99 EUR) 40.01 % Rabatt hier:

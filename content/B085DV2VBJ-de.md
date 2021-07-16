@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.77 % rabat auf Universal Pictures Germany GmbH - 1917  '
-date: 2021-07-15 13:36:37
+date: 2021-07-16 13:47:26
 image: 'https://m.media-amazon.com/images/I/515LePRXu5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B085DV2VBJ/?tag=tolees0ca-21'
 descuento: '16.77'
-average: '27.7870588235294'
+average: '27.63'
 ---
 
 Es gibt ein [Universal Pictures Germany GmbH - 1917  4K Ultra HD   + Blu-ray 2D ](https://www.amazon.de/dp/B085DV2VBJ/?tag=tolees0ca-21) mit aktuellem Preis 24.96 EUR (original: 29.99 EUR) 16.77 % Rabatt hier:
