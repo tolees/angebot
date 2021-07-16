@@ -28,10 +28,10 @@ Es gibt ein [Columbia Herren Windbreaker Flashback  Black  S](https://www.amazon
 
 ℹ️:
 
-- 1 x Columbia Herren Windbreaker, Flashback, Synthetische Faser, Schwarz/Schwarz (Black/Black), S, Art.-Nr. 1589325
-- Praktischer, durchgehender Reißverschluss, 2 Seitentaschen für warme sichere Hände
 - Windbreaker mit Kapuze und wasserabweisendem Material, Tags- und nachtsüber tragbar, Wandern, Outdoor-Aktivitäten und Alltagserledigungen, Aktive Passform
-- Jacke für den ganzjährigen Gebrauch: Wasserabweisendes Material, Mit Tunnelzug verstellbare Kapuze und elastische Bündchen
+- Praktischer, durchgehender Reißverschluss, 2 Seitentaschen für warme sichere Hände
 - Tunnelzug-Saum für perfekten Tragekomfort, Strapazierfähiges leichtes Polyester
+- Jacke für den ganzjährigen Gebrauch: Wasserabweisendes Material, Mit Tunnelzug verstellbare Kapuze und elastische Bündchen
+- 1 x Columbia Herren Windbreaker, Flashback, Synthetische Faser, Schwarz/Schwarz (Black/Black), S, Art.-Nr. 1589325
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B017WHA4PO/?tag=tolees0ca-21)
