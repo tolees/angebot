@@ -28,10 +28,10 @@ Es gibt ein [GW Kabelbinder-Technik  Schraubsockel 14.9 x 9.5 x 6.9 mm  schwarz 
 
 ℹ️:
 
-- &Oslash; Schraube: 4mm
 - Industriequalität direkt vom Hersteller
+- &Oslash; Schraube: 4mm
+- Schraubbarer Befestigungssockel. Ermöglicht in Verbindung mit Kabelbindern eine sichere Führung von Leitungen und Kabelbäumen.
 - max. Kabelbinderbreite: 4,8mm
 - GW Schraubsockel für Kabelbinder, GSM-2BC
-- Schraubbarer Befestigungssockel. Ermöglicht in Verbindung mit Kabelbindern eine sichere Führung von Leitungen und Kabelbäumen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00O0NGOJO/?tag=tolees0ca-21)

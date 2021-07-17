@@ -28,10 +28,10 @@ Sie können [GROHE Essence | Badarmatur - Waschtischarmatur  S-Size | chrom | 23
 
 ℹ️:
 
-- GROHE SILKMOVE BEDIENKOMFORT: Stellen Sie stufenlos die Temperatur und Wassermenge ein: Durch das hochwertige Innenleben der Armatur können Sie den Hebel ganz leicht bewegen – auch nach Jahren der Benutzung.
-- Lieferumfang: Waschtischarmatur, Dichtungsringe, Zugstange, Ablaufstopfen, Pflegeanleitung,
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
 - GROHE ECOJOY: Sparfunktion für reduzierten Wasserverbrauch. Mit GROHE EcoJoy fließt bis zu 50 % weniger Wasser durch die Armatur – und das bei 100 % Leistung.
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
+- GROHE SILKMOVE BEDIENKOMFORT: Stellen Sie stufenlos die Temperatur und Wassermenge ein: Durch das hochwertige Innenleben der Armatur können Sie den Hebel ganz leicht bewegen – auch nach Jahren der Benutzung.
 - Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
+- Lieferumfang: Waschtischarmatur, Dichtungsringe, Zugstange, Ablaufstopfen, Pflegeanleitung,
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01A5VIWSU/?tag=tolees0ca-21)
