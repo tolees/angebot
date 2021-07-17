@@ -28,9 +28,9 @@ Sie können [Fjällräven Damen Kiruna Padded Parka  Blau  Dark Navy 555   Mediu
 
 ℹ️:
 
-- Pflegehinweise: Maschinenwäsche warm (40° +) ; Nicht chemisch reinigen ; Nicht bleichen ; Nicht trocknen ; Bügeln Stufe 1 – max. 110 °C
-- Long Everyday Parka
 - Lightly padded
+- Long Everyday Parka
 - Two-way Front Zipper, Press Buttons at the collar, waist and hem, two hand pockets, One chest Pocket and one inside pocket, all Zippered
+- Pflegehinweise: Maschinenwäsche warm (40° +) ; Nicht chemisch reinigen ; Nicht bleichen ; Nicht trocknen ; Bügeln Stufe 1 – max. 110 °C
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01E5WD1PE/?tag=tolees0ca-21)

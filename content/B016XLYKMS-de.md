@@ -28,10 +28,10 @@ Es gibt ein [Black+Decker Ultra-Kompakt-Bohrer  Akkubohrer  7.2V  1.5Ah Li-Ion A
 
 ℹ️:
 
-- Schnelles Aufladen: Micro USB kompatibel, zum Laden über USB Ports
-- Lieferumfang: 1x 7.2V Akkubohrer, 1x 3.6V Li-Ion Akku (integriert), 1x 600mA Micro USB Ladekabel
-- Ultrakompakt und leicht: Optimale Produktmaße und geringes Gewicht
 - Immer einsatzbereit: Geeignet für leichte Bohr- und Befestigungsarbeiten
+- Ultrakompakt und leicht: Optimale Produktmaße und geringes Gewicht
+- Lieferumfang: 1x 7.2V Akkubohrer, 1x 3.6V Li-Ion Akku (integriert), 1x 600mA Micro USB Ladekabel
 - Neues Design: Kompakter, schlanker und ausgestattet mit ergonomisch gummierten Griffbereichen
+- Schnelles Aufladen: Micro USB kompatibel, zum Laden über USB Ports
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016XLYKMS/?tag=tolees0ca-21)

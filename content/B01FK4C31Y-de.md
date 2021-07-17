@@ -29,9 +29,9 @@ Sie können [Feuchtmann 628.1513 - MEINE LIEBLINGSKNETE aus besten Rohstoffen  a
 ℹ️:
 
 - Hinweis für Allergiker: Glutenfrei (mehlfrei), eiweißfrei, erdnussfrei, laktosefrei
-- Qualität "Made in Germany"
 - Inhalt: 4 Dosen à ca. 150 g Knete in Blau, Rot, Grün und Gelb
-- Für Kinder ab 2 Jahren geeignet
+- Qualität "Made in Germany"
 - Lufttrocknende und bemalbare Knete für Kinder
+- Für Kinder ab 2 Jahren geeignet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01FK4C31Y/?tag=tolees0ca-21)
