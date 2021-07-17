@@ -28,9 +28,9 @@ Sie können [WHITIN Laufschuhe Damen Joggingschuhe Straßenlaufschuhe Turnschuhe
 
 ℹ️:
 
-- Sohlenmaterial: EVA + Gummi
+- Plattformhöhe: 2 cm
 - Außenmaterial: Gummi
 - Materialzusammensetzung: Mesh-Gewebe
-- Plattformhöhe: 2 cm
+- Sohlenmaterial: EVA + Gummi
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08CB1N83G/?tag=tolees0ca-21)
