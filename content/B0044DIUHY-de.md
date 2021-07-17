@@ -28,10 +28,10 @@ Es gibt ein [Makita Schlagbohrmaschine   im Koffer inkl. Bohrerkassette   HP1641
 
 ℹ️:
 
-- Optimale Leistungsausbeute im Rechts- und im Links-Lauf durch drehbare Kohlebürstenbrücke
 - Starker 680 Watt-Motor mit hohen Leistungsreserven
 - Im Koffer inkl. Bohrerkassette
-- Profi-Maschine für den universellen Einsatz mit hoher Bohrleistung bei wenig Vibrationen
 - Kompakte Bauform
+- Profi-Maschine für den universellen Einsatz mit hoher Bohrleistung bei wenig Vibrationen
+- Optimale Leistungsausbeute im Rechts- und im Links-Lauf durch drehbare Kohlebürstenbrücke
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0044DIUHY/?tag=tolees0ca-21)

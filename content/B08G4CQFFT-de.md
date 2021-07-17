@@ -28,11 +28,11 @@ Es gibt ein [LEGO 41934 DOTS Sternen Freundschaftsarmbänder  2 x Kinderarmband 
 
 ℹ️:
 
-- Kinder können Steinchen aus anderen LEGO DOTS Extra DOTS Sets mit Überraschungssteinchen hinzufügen: Serie 1 (41908), Serie 2 (41916) und Serie 3 (41921)
+- Dies ist ein perfektes Geschenk für kleine Designer, die ihre Kreationen üben und dann ihre Lieblingsversion tragen möchten. Langweile kommt nie
 - Dieses Set zum Basteln für Kinder enthält 2 Armbänder und 32 Steinchen, mit denen Kinder alleine oder mit Freunden spielen können und ihre Kreativität dabei entwickeln
+- Selbstgemachtes Kinderarmband fördert offene Gestaltungsideen, um die Kreativität und das Selbstvertrauen der Kinder durch Spaß zu entwickeln
+- Kinder können Steinchen aus anderen LEGO DOTS Extra DOTS Sets mit Überraschungssteinchen hinzufügen: Serie 1 (41908), Serie 2 (41916) und Serie 3 (41921)
 - Beim Spielen kannst du nichts falsch machen Dieses Set ermöglicht Kindern eine freie Selbstentfaltung und ganz eigene Entwürfe
 - Das Set mit Kinderschmuck enthält 2 anpassbare Armbänder in blaugrün und violett, und 32 farbenfrohe Steinchen, darunter auch spezielle runde und schimmernde Sternsteinchen
-- Dies ist ein perfektes Geschenk für kleine Designer, die ihre Kreationen üben und dann ihre Lieblingsversion tragen möchten. Langweile kommt nie
-- Selbstgemachtes Kinderarmband fördert offene Gestaltungsideen, um die Kreativität und das Selbstvertrauen der Kinder durch Spaß zu entwickeln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4CQFFT/?tag=tolees0ca-21)
