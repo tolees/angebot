@@ -28,10 +28,10 @@ Es gibt ein [LEGO 31118 Creator 3 in 1 Surfer-Strandhaus  Leuchtturm und Poolhau
 
 ℹ️:
 
-- Sowohl das Surfer-Strandhaus als auch das Poolhaus lassen sich in verschiedenen Konfigurationen öffnen, um Kindern unterhaltsamere Spielmöglichkeiten zu bieten
-- Entdecke auch die anderen LEGO-Creator-3-in-1-Sets: Cyber-Drohne (31111), Wilder Löwe (31112), Rennwagentransporter (31113) und Geländemotorrad (31114)
-- Enthält 3 Meeresbewohner aus LEGOsteinen: Delfin, Meeresschildkröte und Meeresschildkrötenbaby sowie einen Teufelsrochen; der Leuchtturm enthält außerdem ein kleines Boot
 - Enthält 3-in-1-Modell: eine Surfer-Hütte, ein Leuchtturm und ein Poolhaus, außerdem 2 LEGO-Minifiguren (Mann und Frau) für lustige Strandabenteuer
+- Enthält 3 Meeresbewohner aus LEGOsteinen: Delfin, Meeresschildkröte und Meeresschildkrötenbaby sowie einen Teufelsrochen; der Leuchtturm enthält außerdem ein kleines Boot
+- Entdecke auch die anderen LEGO-Creator-3-in-1-Sets: Cyber-Drohne (31111), Wilder Löwe (31112), Rennwagentransporter (31113) und Geländemotorrad (31114)
+- Sowohl das Surfer-Strandhaus als auch das Poolhaus lassen sich in verschiedenen Konfigurationen öffnen, um Kindern unterhaltsamere Spielmöglichkeiten zu bieten
 - Das Strandhaus hat 2 Geschosse mit Scharnieren zum Aufklappen, das 2-geschossige Poolhaus enthält Surfbretter und einen Swimmingpool aus LEGOsteinen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G56RDFY/?tag=tolees0ca-21)

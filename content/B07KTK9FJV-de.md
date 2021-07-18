@@ -28,10 +28,10 @@ Sie können [Lego Friends - Lego 41388 Friends Mias sommerliche Herzbox  Vom Her
 
 ℹ️:
 
-- Mias sommerliche Herzbox
-- Mit baubarer Box in Mias Farben, Mia-Schriftzug als Dekoration und einer baubaren Sandburg
-- Zum LEGO Friends Zubehör in diesem Set gehören eine Muschel und eine Flagge
 - Anzahl der Teile: 85
 - Vom Hersteller empfohlenes Alter: 6+
+- Mias sommerliche Herzbox
+- Zum LEGO Friends Zubehör in diesem Set gehören eine Muschel und eine Flagge
+- Mit baubarer Box in Mias Farben, Mia-Schriftzug als Dekoration und einer baubaren Sandburg
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KTK9FJV/?tag=tolees0ca-21)
