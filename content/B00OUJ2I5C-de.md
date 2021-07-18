@@ -28,7 +28,7 @@ Sie können [ESPRIT Bodywear Damen LISMORE BH  Weiß  WHITE 100   75B](https://w
 
 ℹ️:
 
-- multifunktionale Träger können am Rücken parallel, überkreuzt oder als Neckholder getragen werden; softe Wattierung mit formgebenden Bügeln verstellbarer, 2-reihiger Hakenverschluss am Rücken
 - Glatter Multifunktions-BH; wattierter T-Shirt BH mit Spitzenbordüre am Ausschnitt
+- multifunktionale Träger können am Rücken parallel, überkreuzt oder als Neckholder getragen werden; softe Wattierung mit formgebenden Bügeln verstellbarer, 2-reihiger Hakenverschluss am Rücken
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00OUJ2I5C/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [JAMARA 405213 - Betonmischer Mercedes-Benz Arocs 1:24 2 4GHz A - ma
 
 ℹ️:
 
-- Manuell drehbare Mischtrommel
-- Fahr- und Rückfahrlicht
-- 2,4 GHz für Mehrspielerbetrieb
 - Mischtrommel als Spardose nutzbar
+- Fahr- und Rückfahrlicht
+- Manuell drehbare Mischtrommel
+- 2,4 GHz für Mehrspielerbetrieb
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07YYKM4JW/?tag=tolees0ca-21)

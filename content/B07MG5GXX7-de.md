@@ -29,9 +29,9 @@ Sie können [adidas Damen Continental 80 Sneaker  Footwear White/Footwear White/
 ℹ️:
 
 - Obermaterial aus strapazierfähigem Leder
-- Profilierte Gummi-Außensohle
-- Perforationen an den Seiten für Atmungsaktivität
 - Futter aus Textil
+- Perforationen an den Seiten für Atmungsaktivität
+- Profilierte Gummi-Außensohle
 - EVA-Mittelsohle für optimale Dämpfung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MG5GXX7/?tag=tolees0ca-21)
