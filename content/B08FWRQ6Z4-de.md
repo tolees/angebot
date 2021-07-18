@@ -28,10 +28,10 @@ Es gibt ein [De’Longhi - De Longhi PrimaDonna Class ECAM 550.65.W Kaffeevollau
 
 ℹ️:
 
-- HOCHWERTIGES MAHLWERK: Das 13-stufige Kegelmahlwerk kann individuell eingestellt werden, es passen 360 g Kaffeebohnen in den Behälter – der Vollautomat eignet auch für die Nutzung mit Kaffeepulver
 - EINFACHE BEDIENUNG: Großes 3,5 Zoll TFT Farbdisplay und 6 Kaffeespezialitäten auf Knopfdruck: Espresso, Kaffee, Long Coffee, Cappuccino, Latte Macchiato und heiße Milch
 - LONG-COFFEE-FUNKTION: Für den traditionellen Frühstückskaffee - im Schwallbrühverfahren bei niedrigem Druck zubereitet
-- LATTECREMA-SYSTEM: Patentiertes Milchaufschäumsystem für besonders cremigen, feinporigen Milchschaum für den perfekten Cappuccino – die Reinigung erfolgt automatisch per Drehregler
 - LEICHTE REINIGUNG: Die kompakte Brühgruppe ist wartungsarm, lässt sich vollständig aus der Kaffeemaschine herausnehmen und ermöglicht so eine einfache Reinigung des Maschineninnenraums
+- HOCHWERTIGES MAHLWERK: Das 13-stufige Kegelmahlwerk kann individuell eingestellt werden, es passen 360 g Kaffeebohnen in den Behälter – der Vollautomat eignet auch für die Nutzung mit Kaffeepulver
+- LATTECREMA-SYSTEM: Patentiertes Milchaufschäumsystem für besonders cremigen, feinporigen Milchschaum für den perfekten Cappuccino – die Reinigung erfolgt automatisch per Drehregler
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08FWRQ6Z4/?tag=tolees0ca-21)
