@@ -28,10 +28,10 @@ Es gibt ein [LED Strip 20M  COOLAPA LED Streifen  LED Band Steuerbar mit 44-Tast
 
 ℹ️:
 
-- Einfache Installation: Dieser LED-Strip kann mit dem mitgelieferten Kleber auf einer sauberen und trockenen Oberfläche montiert werden. Keine zusätzlichen Schritte erforderlich. (LED-Streifen ist nicht wasserdicht)
-- IR-Fernbedienung: Die IR-Fernbedienung enthält 44 Tasten und hat eine Reichweite von ca. 5 - 10 Metern, wodurch die Farbe und der Rhythmus des Streifens einfach geändert werden können. In jeder Szene gibt es geeignete Farben.
-- Lieferumfang: 2 x 10m LED-Streifen, 1 x IR-Empfänger, 1 x Fernbedienung, 1 x AC/DC-Adapter, 1 x Bedienungsanleitung (bitte vor Gebrauch sorgfältig lesen).
-- Breite Anwendungsbereiche: Dieser LED-Strip kann in Schlafzimmern, Zimmern, Decken, Küchen verwendet werden und ist perfekt für Urlaubsfeiern, Treffen mit Freunden, Weihnachten und Hochzeiten.
 - Mehrere Farbmodi: Die Helligkeit kann nach Bedarf eingestellt werden. 28 dynamische Modi sind verfügbar, wie z.B. SCHNELL, LANGSAM, SPRINGEN, BLINKEN usw.
+- Breite Anwendungsbereiche: Dieser LED-Strip kann in Schlafzimmern, Zimmern, Decken, Küchen verwendet werden und ist perfekt für Urlaubsfeiern, Treffen mit Freunden, Weihnachten und Hochzeiten.
+- IR-Fernbedienung: Die IR-Fernbedienung enthält 44 Tasten und hat eine Reichweite von ca. 5 - 10 Metern, wodurch die Farbe und der Rhythmus des Streifens einfach geändert werden können. In jeder Szene gibt es geeignete Farben.
+- Einfache Installation: Dieser LED-Strip kann mit dem mitgelieferten Kleber auf einer sauberen und trockenen Oberfläche montiert werden. Keine zusätzlichen Schritte erforderlich. (LED-Streifen ist nicht wasserdicht)
+- Lieferumfang: 2 x 10m LED-Streifen, 1 x IR-Empfänger, 1 x Fernbedienung, 1 x AC/DC-Adapter, 1 x Bedienungsanleitung (bitte vor Gebrauch sorgfältig lesen).
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08NJNK8JN/?tag=tolees0ca-21)
