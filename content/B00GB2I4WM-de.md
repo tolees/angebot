@@ -28,10 +28,10 @@ Es gibt ein [Pedro`s - Pedros Ice Wax 2.0 Kettenschmiermittel  100ml](https://ww
 
 ℹ️:
 
-- Umweltverträgliches, biologisch abbaubares Kettenschmiermittel auf Bienenwachsbasis
-- Inhalt: 100ml
-- Schmutzabweisend dank Wachsschicht und extrem beständig
-- Wasserfest
 - Perfekt für trockene und feuchte Bedingungen
+- Schmutzabweisend dank Wachsschicht und extrem beständig
+- Umweltverträgliches, biologisch abbaubares Kettenschmiermittel auf Bienenwachsbasis
+- Wasserfest
+- Inhalt: 100ml
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00GB2I4WM/?tag=tolees0ca-21)

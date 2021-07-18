@@ -28,10 +28,10 @@ Sie können [Lee Herren Extreme Motion Straight Jeans  Maddox  34W / 34L](https:
 
 ℹ️:
 
+- Normaler Bund
+- Maschinenwäsche kalt (30° max)
 - Knopf und Reißverschluss
 - Tapered
-- Normaler Bund
 - 97% Baumwolle, 3% Elasthan
-- Maschinenwäsche kalt (30° max)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JC42R1Q/?tag=tolees0ca-21)
