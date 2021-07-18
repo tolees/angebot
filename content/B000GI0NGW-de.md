@@ -28,8 +28,8 @@ Es gibt ein [CLINIQUE Feuchtigkeitsspendende und verjüngende Masken  200 ml](ht
 
 ℹ️:
 
-- Beauty-Produkte
 - Marke CLINIQUE
+- Beauty-Produkte
 - Feuchtigkeitsspendende und verjüngende Masken
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000GI0NGW/?tag=tolees0ca-21)
