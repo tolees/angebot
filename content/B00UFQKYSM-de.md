@@ -28,10 +28,10 @@ Es gibt ein [LG Electronics - LG BP350 2D Blu-ray-Player  Smart TV  DNLA  Upscal
 
 ℹ️:
 
+- Blu-ray-Player mit integriertem DLNA und Smart TV-Funktionen
 - Lieferumfang: Bedienungsanleitung, Fernbedienung (inkl. Batterien), Netzteil
 - Vorinstallierte Apps: Youtube, Maxdome, Internetradio uvm.; Smartphone als Fernbedienung nutzbar (iPhone/Android)
-- Anschlüsse: WLAN, USB, HDMI-Out
 - Wiedergabe von Blu-Rays, DVDs und CDs möglich
-- Blu-ray-Player mit integriertem DLNA und Smart TV-Funktionen
+- Anschlüsse: WLAN, USB, HDMI-Out
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00UFQKYSM/?tag=tolees0ca-21)
