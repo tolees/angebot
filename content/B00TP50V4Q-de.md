@@ -28,8 +28,8 @@ Es gibt ein [Rubie s Offizielle Stormtrooper-Maske  2-teilig  Einheitsgröße](h
 
 ℹ️:
 
-- Rubies offiziell lizenziertes Produkt; getestet nach EU-Verordnungen
 - Entworfen in den USA
 - 2-teilige Maske, Erwachsenengröße
+- Rubies offiziell lizenziertes Produkt; getestet nach EU-Verordnungen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00TP50V4Q/?tag=tolees0ca-21)
