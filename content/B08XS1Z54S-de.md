@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.67 % rabat auf Die wilden Kerle - Die wildeste Kinofilm'
-date: 2021-07-17 20:19:54
+date: 2021-07-19 09:06:48
 image: 'https://m.media-amazon.com/images/I/41DRaIN0dfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08XS1Z54S/?tag=tolees0ca-21'
 descuento: '19.67'
-average: '14.7'
+average: '14.5375'
 ---
 
 Es gibt ein [Die wilden Kerle - Die wildeste Kinofilmreihe aller Zeiten! [5 DVDs]](https://www.amazon.de/dp/B08XS1Z54S/?tag=tolees0ca-21) mit aktuellem Preis 14.05 EUR (original: 17.49 EUR) 19.67 % Rabatt hier:

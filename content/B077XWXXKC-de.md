@@ -28,10 +28,10 @@ Sie können [GORE Wear Atmungsaktives Herren Thermo-Unterzieh-Shirt  GORE M Base
 
 ℹ️:
 
-- Lieferumfang: 1 GORE Wear Herren Thermo-Unterzieh-Shirt, GORE M Base Layer Thermo Long Sleeve Shirt, Größe: XXL, Farbe: Schwarz, 100318
-- Angenehmes Tragegefühl dank Thermo-Stretch-Funktionsmaterial, Optimale Kombination unter jedem GORE Wear Herren Jersey oder Jacke
-- Minimierte Reibung durch optimierten Flachnahtverlauf, Verlängerte Rückenpartie
 - Ganzjährig geeignet, Rascher Feuchtigkeitstransport durch sehr atmungsaktive GORE Selected Fabrics Stoffe
+- Angenehmes Tragegefühl dank Thermo-Stretch-Funktionsmaterial, Optimale Kombination unter jedem GORE Wear Herren Jersey oder Jacke
 - Warmes Herren Thermo-Unterzieh-Shirt für alle sportlichen Aktivitäten geeignet - Enganliegende Passform
+- Lieferumfang: 1 GORE Wear Herren Thermo-Unterzieh-Shirt, GORE M Base Layer Thermo Long Sleeve Shirt, Größe: XXL, Farbe: Schwarz, 100318
+- Minimierte Reibung durch optimierten Flachnahtverlauf, Verlängerte Rückenpartie
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077XWXXKC/?tag=tolees0ca-21)
