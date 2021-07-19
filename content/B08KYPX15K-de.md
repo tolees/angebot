@@ -28,10 +28,10 @@ Sie können [ASUS VivoBook S17 S712JA  90NB0SZ1-M01300  43 9 cm  17 3 Zoll  Full
 
 ℹ️:
 
-- Prozessor: Uneingeschränktes Surfen, Streamen, Arbeiten dank Intel Core i3-1005G1 Prozessor 1.2 GHz (bis zu 3.4 GHz, 4MB Cache) - Der i3 Prozessor 10. Generation von Intel bietet zu jeder Zeit eine extrem hohe ultramobile Leistung
-- Akku: Bis zu 6 Stunden Akkulaufzeit (2-Zellen 32 Wh)
-- Besonderheiten: 17,3 Zoll Full HD Wide-View NanoEdge-Display, leichtes (2300g) und dünnes (21.4mm) Lifestyle-Book, ErgoLift-Kippscharnier, HDMI, USB 3.2 Typ-C, Chiclet Tastatur
-- Lieferumfang: ASUS VivoBook S17 S712JA (90NB0SZ1-M01300) 43,9 cm (17,3 Zoll, Full HD, Non-Glare) Notebook
 - Herstellergarantie: 2 Jahre. Die Garantiebedingungen finden Sie unter Weitere technische Informationen. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Prozessor: Uneingeschränktes Surfen, Streamen, Arbeiten dank Intel Core i3-1005G1 Prozessor 1.2 GHz (bis zu 3.4 GHz, 4MB Cache) - Der i3 Prozessor 10. Generation von Intel bietet zu jeder Zeit eine extrem hohe ultramobile Leistung
+- Lieferumfang: ASUS VivoBook S17 S712JA (90NB0SZ1-M01300) 43,9 cm (17,3 Zoll, Full HD, Non-Glare) Notebook
+- Besonderheiten: 17,3 Zoll Full HD Wide-View NanoEdge-Display, leichtes (2300g) und dünnes (21.4mm) Lifestyle-Book, ErgoLift-Kippscharnier, HDMI, USB 3.2 Typ-C, Chiclet Tastatur
+- Akku: Bis zu 6 Stunden Akkulaufzeit (2-Zellen 32 Wh)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KYPX15K/?tag=tolees0ca-21)

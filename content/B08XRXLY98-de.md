@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.40 % rabat auf Crime Game [Blu-ray]'
-date: 2021-07-18 02:20:23
+date: 2021-07-19 08:57:19
 image: 'https://m.media-amazon.com/images/I/510VfEHpJoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08XRXLY98/?tag=tolees0ca-21'
 descuento: '15.40'
-average: '13.0766666666667'
+average: '13.295'
 ---
 
 Es gibt ein [Crime Game [Blu-ray]](https://www.amazon.de/dp/B08XRXLY98/?tag=tolees0ca-21) mit aktuellem Preis 13.95 EUR (original: 16.49 EUR) 15.40 % Rabatt hier:

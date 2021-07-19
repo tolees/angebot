@@ -28,10 +28,10 @@ Es gibt ein [HOMCOM Kinderauto Kinderwagen Elektroauto Kinderfahrzeug Kindermoto
 
 ℹ️:
 
-- Sicherer Fahrspaß: Die Stützräder sichern gegen Umfallen. Damit werden auch sportliche Fahrmanöver souverän gemeistert. Das Motorrad ist zudem stabil verarbeitet.
 - Mit E-Antrieb: Der eingebaute 6V Elektromotor beschleunigt das Motorrad auf bis zu 2,5km/h. Schnell für die Kleinen, gut für Sie als Eltern. Bequemes Nebenherlaufen ist kein Problem. Und obendrauf, hält der Akku für bis zu 45 Minuten Fahrtzeit.
-- Echtes Fahrgefühl: Die Bedienung ist intuitiv und sicher. Gasknopf am Lenker drücken und beschleunigen. Beim Loslassen bremst das Kinderfahrzeug automatisch ab. Licht und Soundeffekte kann Ihr Kind einfach per Knofpdruck am Amaturenbrett steuern.
+- Sicherer Fahrspaß: Die Stützräder sichern gegen Umfallen. Damit werden auch sportliche Fahrmanöver souverän gemeistert. Das Motorrad ist zudem stabil verarbeitet.
 - Einfacher Aufbau: Das Zusammensetzen ist kinderleicht. Lediglich die Stützräder, Lenker, Reifen und Elektronik müssen montiert werden. Akku laden, und schon kann die erste Spritztour losgehen.
+- Echtes Fahrgefühl: Die Bedienung ist intuitiv und sicher. Gasknopf am Lenker drücken und beschleunigen. Beim Loslassen bremst das Kinderfahrzeug automatisch ab. Licht und Soundeffekte kann Ihr Kind einfach per Knofpdruck am Amaturenbrett steuern.
 - Für kleine Biker: Wecken Sie die Begeisterung für die Faszination Motorrad bei Ihrem Kind! Bei schnittigem Cross-Design und der vielseitigen Farbauswahl ist für jeden Geschmack Etwas dabei.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00GSIFIPU/?tag=tolees0ca-21)

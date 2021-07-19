@@ -28,10 +28,10 @@ Sie können [Sonos Playbase WLAN Soundbase  weiß – Fernsehlautsprecher mit kr
 
 ℹ️:
 
-- Lieferumfang: 1 x Sonos Soundbase, 1 x Stromkabel, 1 x Ethernetkabel, 1 x optisches Audiokabel / Soundbase mit umwerfendem Sound für das 5.1 Heimkinosystem / Amazon Echo- & AirPlay kompatibel
-- Das Multiroom Heimkinosystem fürs ganze Haus: Die Soundbase lässt sich mit anderen Sonos Speakern & dem Sub oder weiteren Sonos Speakern in anderen Räumen zu einem 5.1 Lautsprechersystem verbinden
-- Fügt sich dezent in jedes Zuhause ein: Mit seinem unaufdringlichen Design passt das TV Soundsystem in jedes Wohnzimmer & trägt mühelos Fernseher bis 35 kg / Einfaches Setup mit nur zwei Kabeln
 - Mit zehn verstärkten internen Treibern liefert die Sonos Playbase umwerfenden Heimkino Sound für TV, Filme oder Games & streamt alle Musikdienste
 - Satter Bass & kristallklare Dialoge: Die Sprachverbesserung des Multiroom Lautsprechers gibt Dialoge mit gleichbleibender Lautstärke wieder & im Nachtmodus werden laute Geräusche leicht gedämpft. Systemanforderungen: Fernseher mit optischem Audioausgang. Breitband-Internet bei Ihnen zu Hause. Sonos Controller App
+- Fügt sich dezent in jedes Zuhause ein: Mit seinem unaufdringlichen Design passt das TV Soundsystem in jedes Wohnzimmer & trägt mühelos Fernseher bis 35 kg / Einfaches Setup mit nur zwei Kabeln
+- Lieferumfang: 1 x Sonos Soundbase, 1 x Stromkabel, 1 x Ethernetkabel, 1 x optisches Audiokabel / Soundbase mit umwerfendem Sound für das 5.1 Heimkinosystem / Amazon Echo- & AirPlay kompatibel
+- Das Multiroom Heimkinosystem fürs ganze Haus: Die Soundbase lässt sich mit anderen Sonos Speakern & dem Sub oder weiteren Sonos Speakern in anderen Räumen zu einem 5.1 Lautsprechersystem verbinden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XGCF4C7/?tag=tolees0ca-21)

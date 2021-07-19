@@ -29,7 +29,7 @@ Sie können [BEQAB - be Quiet! Shadow Wings 2 PWM 120mm Gehäuselüfter](https:/
 ℹ️:
 
 - Lautstärke: 15, 9 dB
-- Drehzahl: 1.100 U/min
 - Art: Gehäuselüfter
+- Drehzahl: 1.100 U/min
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MCHLGC5/?tag=tolees0ca-21)
