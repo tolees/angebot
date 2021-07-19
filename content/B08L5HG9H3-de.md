@@ -28,14 +28,14 @@ Sie können [Neues Apple iPhone 12  128 GB  - Weiß](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
-- 6,1" Super Retina XDR Display (15,5 cm Diagonale)
+- A14 Bionic, der schnellste Chip in einem Smartphone
 - 5G für superschnelle Downloads und Streaming in höchster Qualität
+- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
 - Branchenführender IP68 Wasserschutz
+- 6,1" Super Retina XDR Display (15,5 cm Diagonale)
 - iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
 - 12 MP TrueDepth Frontkamera mit Nachtmodus, 4K Dolby Vision HDR Aufnahme
-- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
-- A14 Bionic, der schnellste Chip in einem Smartphone
+- Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
 - Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08L5HG9H3/?tag=tolees0ca-21)

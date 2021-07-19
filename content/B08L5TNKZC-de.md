@@ -28,14 +28,14 @@ Sie können [Neues Apple iPhone 12  64 GB  - Schwarz](https://www.amazon.de/dp/
 
 ℹ️:
 
-- 6,1" Super Retina XDR Display (15,5 cm Diagonale)
-- Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
-- Branchenführender IP68 Wasserschutz
-- 12 MP TrueDepth Frontkamera mit Nachtmodus, 4K Dolby Vision HDR Aufnahme
-- iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
 - Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
+- 12 MP TrueDepth Frontkamera mit Nachtmodus, 4K Dolby Vision HDR Aufnahme
+- 6,1" Super Retina XDR Display (15,5 cm Diagonale)
 - A14 Bionic, der schnellste Chip in einem Smartphone
-- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
+- Branchenführender IP68 Wasserschutz
+- Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
 - 5G für superschnelle Downloads und Streaming in höchster Qualität
+- iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
+- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08L5TNKZC/?tag=tolees0ca-21)
