@@ -29,9 +29,9 @@ Sie können [SONAX SX90 Plus Multifunktionsöl  400 ml  extreme Schmierwirkung  
 ℹ️:
 
 - SONAX Technik & Professional - Made in Germany - gepflegte Technik, die lange begeistert.
-- Lieferumfang: 1x SONAX 04743000 SX90 Plus Multifunktionsöl (400 ml)
-- Das universell einsetzbare, geruchsneutrale & transparente Multifunktionsöl löst festgerostete oder festsitzende Teile (z.B. Muttern, Schrauben und Schalter) und schützt vor erneuter Korrosion. Löst und entfernt Teer, Klebstoffreste und Preisetiketten.
-- Auch zur Reinigung und Pflege von feinmechanischen Geräten und Maschinen einsetzbar. Eignet sich als Kontaktspray für Zündanlagen, verdrängt Feuchtigkeit, hält elektronische Kontakte sauber und verhindert Kriechströme. Mit langem Wechselsprührohr für gezielten Strahl.
 - Macht Schlösser, Schließzylinder, Rollen, Federn und Metallführungen leichtgängig. Beseitigt Quietsch- und Knarrgeräusche. Schützt, schmiert und konserviert empfindliche Teile von Elektrowerkzeugen und Motoren.
+- Das universell einsetzbare, geruchsneutrale & transparente Multifunktionsöl löst festgerostete oder festsitzende Teile (z.B. Muttern, Schrauben und Schalter) und schützt vor erneuter Korrosion. Löst und entfernt Teer, Klebstoffreste und Preisetiketten.
+- Lieferumfang: 1x SONAX 04743000 SX90 Plus Multifunktionsöl (400 ml)
+- Auch zur Reinigung und Pflege von feinmechanischen Geräten und Maschinen einsetzbar. Eignet sich als Kontaktspray für Zündanlagen, verdrängt Feuchtigkeit, hält elektronische Kontakte sauber und verhindert Kriechströme. Mit langem Wechselsprührohr für gezielten Strahl.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001RNNJ7K/?tag=tolees0ca-21)
