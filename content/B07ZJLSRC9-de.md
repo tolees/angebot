@@ -29,8 +29,8 @@ Sie können [JACK & JONES Male Sweathose Gordon MBlack](https://www.amazon.de/dp
 ℹ️:
 
 - Baumwollstoff für weichen, bequemen Tragekomfort
-- Materialzusammensetzung: 100% Baumwolle
 - Sweathose mit gerippten Bündchen
 - Elastischer Bund mit Kordelzug
+- Materialzusammensetzung: 100% Baumwolle
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ZJLSRC9/?tag=tolees0ca-21)
