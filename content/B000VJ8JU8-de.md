@@ -28,10 +28,10 @@ Es gibt ein [ANSMANN Akku AA Mignon 2100mAh 1 2V NiMH - wiederaufladbare Batteri
 
 ℹ️:
 
-- Langlebig & sicher: Die bereits vorgeladene Batterie AA ist schnellladefähig & gegen Tiefenentladung & Überladung geschützt / Auch bei mehrmaligen Teilaufladungen zeigt sich kein Memory-Effekt
-- Umweltfreundlich: Die Akku Batterien AA sind schwermetallfrei & bestechen durch eine besonders hohe Zyklenfestigkeit, die Langlebigkeit garantiert / Kälte- & Hitzebeständigkeit für längeren Halt
-- Geld sparen: Die NiMH AA Akkus sind mehr als 1000 Mal wiederaufladbar & überzeugen mit konstanter Leistungsabgabe bei geringer Selbstentladung - überall, wo sonst Einwegbatterien zum Einsatz kommen
 - Lieferumfang: 2x AA Akku 1.2V 2100mAh HR6 / Mignon Batterie AA mit maxE Technologie bis zu 1000 mal wiederaufladbar / Ideal für Stirnlampe, Spielzeug, Nachtlicht, Fahrradlicht, Wii & Xbox One Zubehör
+- Langlebig & sicher: Die bereits vorgeladene Batterie AA ist schnellladefähig & gegen Tiefenentladung & Überladung geschützt / Auch bei mehrmaligen Teilaufladungen zeigt sich kein Memory-Effekt
 - Dank der maxE-Technologie ist die Selbstentladung in den AA Batteries 10 mal geringer als in gewöhnlichen NiMH Akkus / Nach einem Jahr stehen noch einzigartige 80% der Anfangskapazität zur Verfügung
+- Geld sparen: Die NiMH AA Akkus sind mehr als 1000 Mal wiederaufladbar & überzeugen mit konstanter Leistungsabgabe bei geringer Selbstentladung - überall, wo sonst Einwegbatterien zum Einsatz kommen
+- Umweltfreundlich: Die Akku Batterien AA sind schwermetallfrei & bestechen durch eine besonders hohe Zyklenfestigkeit, die Langlebigkeit garantiert / Kälte- & Hitzebeständigkeit für längeren Halt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000VJ8JU8/?tag=tolees0ca-21)
