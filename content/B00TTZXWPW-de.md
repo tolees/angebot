@@ -29,9 +29,9 @@ Es gibt ein [Bosch Home and Garden - Bosch Akkuschrauber IXO Set  Winkelaufsatz 
 ℹ️:
 
 - Akku-Schrauber Ixo Set - Mit dem erfolgreichen Elektrowerkzeug jetzt noch besser arbeiten
+- Mit Winkel- und Exzenteraufsatz, damit auch an randnahen Stellen und in Ecken geschraubt werden kann
+- Mit verbessertem Design: neuer Bedien- und Drehrichtungsschalter für eine komfortable Handhabung
 - Mit Mikro-USB-Lader für schnelles Laden und LED-Ladezustandsanzeige
 - Lieferumfang: IXO, Winkelaufsatz, Exzenteraufsatz, 10 Schrauberbits, Mikro USB Ladegerät, Schaumstoffbox
-- Mit verbessertem Design: neuer Bedien- und Drehrichtungsschalter für eine komfortable Handhabung
-- Mit Winkel- und Exzenteraufsatz, damit auch an randnahen Stellen und in Ecken geschraubt werden kann
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00TTZXWPW/?tag=tolees0ca-21)
