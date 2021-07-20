@@ -28,10 +28,10 @@ Sie können [LECHUZA QUADRO Premium LS 50  Anthrazit Metallic  Hochwertiger Kuns
 
 ℹ️:
 
-- Lieferumfang: 1x LECHUZA QUADRO Premium LS 50, Inkl. Bewässerungssystem, Material: Kunststoff, Farbe: Anthrazit Metallic, Maße: 50 x 50 x 47 cm, Pflanzeinsatz: 43 x 43 cm, Pflanzvolumen: 53 l, Max. Pflanzhöhe: 120 cm, 16283
-- Keine Staunässe: Kontrolle der Füllmenge über mitgelieferten Wasserstandsanzeiger, Herausnehmbarer Pflanzeinsatz mit stabilen Griffen für einfaches Wechseln der Bepflanzung
 - Made in Germany: Hochwertig verarbeitetes, UV-beständiges Pflanzgefäß aus Kunststoff, Metallic Optik
-- Stilvolles Pflanzgefäß aus der Premium Collection mit lackierter Oberfläche, Perfekt auf jeder Stellfläche im Haus, Nutzung in einzelner Anordnung oder in einer Gruppe
+- Keine Staunässe: Kontrolle der Füllmenge über mitgelieferten Wasserstandsanzeiger, Herausnehmbarer Pflanzeinsatz mit stabilen Griffen für einfaches Wechseln der Bepflanzung
 - Seltener gießen: Einfache Befüllung des Reservoirs für selbstständige Versorgung der Pflanzen mit Wasser, LECHUZA-PON inkl. Langzeitdünger als Drainageschicht für optimale Dosierung der Wasserzufuhr und Nährstoffe
+- Stilvolles Pflanzgefäß aus der Premium Collection mit lackierter Oberfläche, Perfekt auf jeder Stellfläche im Haus, Nutzung in einzelner Anordnung oder in einer Gruppe
+- Lieferumfang: 1x LECHUZA QUADRO Premium LS 50, Inkl. Bewässerungssystem, Material: Kunststoff, Farbe: Anthrazit Metallic, Maße: 50 x 50 x 47 cm, Pflanzeinsatz: 43 x 43 cm, Pflanzvolumen: 53 l, Max. Pflanzhöhe: 120 cm, 16283
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00BF9WDBY/?tag=tolees0ca-21)
