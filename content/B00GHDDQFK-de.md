@@ -29,11 +29,11 @@ Es gibt ein [Gardena Anschlussgarnitur Comfort FLEX 13 mm  1/2 Zoll   1.5 m: Sch
 ℹ️:
 
 - Gartenbewässerung mit System: Die Original Gardena System-Anschlussgarnitur lässt sich ideal mit anderen Gardena Systemteilen kombinieren und erweitern
-- Ideales Gartenzubehör: Mit der Gardena Anschlussgarnitur verbinden Sie mühelos und schnell den Schlauchwagen oder die Schlauchtrommel mit der Wasserquelle
 - Lieferumfang beinhaltet: 1x Gardena Comfort Flex Anschlussschlauch 13 mm (1/2 Zoll) 1.5 m mit 2x Schlauchverbinder, Hahnverbinder für 1/2 Zoll, 3/4 Zoll und 1 Zoll Gewinde
 - Hochwertiges Gewebe: Der Comfort Flex Schlauchadapter aus PVC-Spiralgewebe ist bis zu einem Wasserdruck von 25 bar einsetzbar
+- Ideales Gartenzubehör: Mit der Gardena Anschlussgarnitur verbinden Sie mühelos und schnell den Schlauchwagen oder die Schlauchtrommel mit der Wasserquelle
 - einfacher und schneller Anschluss
-- 1,5m Schlauchlänge
 - Schadstofffrei und robust: Der druckfeste und formstabile Gardena Comfort Flex Schlauch ist UV-beständig und frei von giftigen Weichmachern (Phthalaten) und Schwermetallen
+- 1,5m Schlauchlänge
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00GHDDQFK/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Winsor & Newton Aquarellfarbe  12 Farben  Field Box](https://www.am
 
 ℹ️:
 
-- Gute Transparez, sehr gute Farbkraft und Lichtechtheit.
-- Mischbar mit allen Aquarellprodukten von Winsor & Newton.
-- Hochwertige Farbe zu einem ökonomischen Preis, durch die Verwendung preiswerter Pigmente.
 - Enthält zusätzlich 1 Cotman Taschenpinsel, 1 Aquarellschwamm, 1 Wasserflasche.
+- Hochwertige Farbe zu einem ökonomischen Preis, durch die Verwendung preiswerter Pigmente.
+- Gute Transparez, sehr gute Farbkraft und Lichtechtheit.
 - Field Box mit 12 halben Näpfen Cotman Aquarellfarbe.
+- Mischbar mit allen Aquarellprodukten von Winsor & Newton.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000N9B3WM/?tag=tolees0ca-21)

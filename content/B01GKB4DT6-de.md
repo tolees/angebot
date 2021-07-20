@@ -28,10 +28,10 @@ Es gibt ein [Philips 5624431P0 myLiving Spot Star Warmglow 4 Flammig  500 lm  Me
 
 ℹ️:
 
-- Hochwertiges warmweißes LED Licht
-- click!FIX-System für eine leichte Montage
+- Warme Lichteffekte dank WarmGlow: Je mehr Sie dimmen, desto wärmer wird das Licht und erzeugt die Wirkung einer gedimmten Halogen- oder Glühlampe oder einer gemütlichen Kerze
 - Dieser Einbauspot ist mit den meisten Dimmern kompatibel, sodass Sie sie ganz einfach mit Ihrem aktuellen Dimmer oder einem beliebigen anderen Dimmer verwenden können.
 - Richten Sie das Licht exakt dorthin, wo Sie es benötigen, indem Sie den Spotkopf der Leuchte einfach verstellen, drehen oder neigen.
-- Warme Lichteffekte dank WarmGlow: Je mehr Sie dimmen, desto wärmer wird das Licht und erzeugt die Wirkung einer gedimmten Halogen- oder Glühlampe oder einer gemütlichen Kerze
+- Hochwertiges warmweißes LED Licht
+- click!FIX-System für eine leichte Montage
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01GKB4DT6/?tag=tolees0ca-21)

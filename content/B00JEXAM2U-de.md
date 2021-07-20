@@ -28,10 +28,10 @@ Es gibt ein [Payot Expert Purete Moisturising Matifying Care Creme  50 ml](https
 
 ℹ️:
 
-- geeignet für Mischhaut bis fettige Haut
-- Feuchtigkeitspflege für die Gesichtshaut
-- mit chilenischer Minze, Hagebuttenextrakt sowie Tapiokapuder
-- für eine frische Ausstrahlung
 - Damen
+- geeignet für Mischhaut bis fettige Haut
+- mit chilenischer Minze, Hagebuttenextrakt sowie Tapiokapuder
+- Feuchtigkeitspflege für die Gesichtshaut
+- für eine frische Ausstrahlung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JEXAM2U/?tag=tolees0ca-21)
