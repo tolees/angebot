@@ -28,11 +28,11 @@ Es gibt ein [Krups F203 Kaffeemühle und Gewürzmühle  Schwarz](https://www.ama
 
 ℹ️:
 
-- Leistungsstarker Motor: Hitzefreies, schnelles Mahlen, um das volle Aroma des Kaffees zu erhalten
 - Ganz nach Ihrem Geschmack: Mahlgrad variabel von ultrafein bis grob
 - Sicherheitsdeckel: Betrieb nur mit aufgesetztem Deckel möglich
 - Einzigartige Klingenform und Edelstahlschale: Schnelles und regelmäßiges Mahlen
 - Elegantes, ovales Design mit hochwertigen Messern: Effizientes Mahlen und einfaches Ausschütten des Mahlguts dank des Behälters
 - Vielseitig: Zum Zerkleinern von Kaffeebohnen, Körnern, Samen, Gewürzen und Trockenfrüchten
+- Leistungsstarker Motor: Hitzefreies, schnelles Mahlen, um das volle Aroma des Kaffees zu erhalten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00004SPEU/?tag=tolees0ca-21)
