@@ -29,9 +29,9 @@ Es gibt ein [De’Longhi - De Longhi PrimaDonna Elite Experience ECAM 656.85.MS 
 ℹ️:
 
 - TRINKSCHOKOLADENFUNKTION: Auf Knopfdruck aus Milch und Schokolade leckeren, heißen Kakao zaubern
-- EINFACHE BEDIENUNG: Großes TFT Farbdisplay und alle Kaffeespezialitäten auf Knopfdruck
-- LEICHTE REINIGUNG: Die kompakte Brühgruppe ist wartungsarm, lässt sich vollständig aus der Kaffeemaschine herausnehmen und ermöglicht so eine einfache Reinigung des Maschineninnenraums
 - HOCHWERTIGES MAHLWERK: Das 13-stufige Kegelmahlwerk kann individuell eingestellt werden, es passen 200 g Kaffeebohnen in den Behälter – der Vollautomat eignet auch für die Nutzung mit Kaffeepulver
 - LATTECREMA-SYSTEM: Patentiertes Milchaufschäumsystem für besonders cremigen, feinporigen Milchschaum für den idealen Cappuccino – die Reinigung erfolgt automatisch per Drehregler
+- EINFACHE BEDIENUNG: Großes TFT Farbdisplay und alle Kaffeespezialitäten auf Knopfdruck
+- LEICHTE REINIGUNG: Die kompakte Brühgruppe ist wartungsarm, lässt sich vollständig aus der Kaffeemaschine herausnehmen und ermöglicht so eine einfache Reinigung des Maschineninnenraums
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MY9KA4Y/?tag=tolees0ca-21)
