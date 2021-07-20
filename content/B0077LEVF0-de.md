@@ -28,11 +28,11 @@ Es gibt ein [Rolson 18589 Einhand-Rohrzange 61 cm](https://www.amazon.de/dp/B00
 
 ℹ️:
 
-- Länge: 450 mm
+- Aus Karbonstahl
 - Aus gehärtetem Stahl
 - Backen poliert
-- Aus Karbonstahl
-- Matrix; Backen und Mutter Verträge, hitzebeständig; intensiven Gebrauch; Komfort-gepolsterter Tragegriff; Länge: 600 mm
 - verchromt;
+- Länge: 450 mm
+- Matrix; Backen und Mutter Verträge, hitzebeständig; intensiven Gebrauch; Komfort-gepolsterter Tragegriff; Länge: 600 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0077LEVF0/?tag=tolees0ca-21)

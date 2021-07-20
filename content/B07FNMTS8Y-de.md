@@ -29,12 +29,12 @@ Es gibt ein [LEGO 76125 Super Heroes Marvel Avengers Iron Mans Werkstatt  Set mi
 ℹ️:
 
 - Das Set enthält sechs Figuren aus dem Marvel Universum: Iron Man MK 1, Iron Man MK 5, Iron Man MK 41, Iron Man MK 50 und zwei Outrider.
-- Mit den Modulen kann ein Screen Room oder ein Gefängnis für die Bösewichte gebaut werden, indem die einzelnen Module zu einem Kreis verbunden werden.
+- Die Werkstatt von Iron Man umfasst ein rotierendes Podium mit zwei beweglichen Armen, einen Tisch mit einem transparent-blauen Bildschirm, einen Minifiguren-Stuhl und Tassenelemente, ein Küchenmodul mit baubarem Smoothie-Maker und Tasse, ein Ausrüstungslagermodul mit Shooter, Jetpack und Energiestrahlelement für die Minifiguren, ein Werkzeugaufbewahrungsmodul mit Schraubenschlüssel, Aufbewahrungsmodule für die Iron Man Uniformen, eine Radarschüssel, Sicherheitsbarrieren, einen Feuerlöscher sowie Flammenelemente.
 - Dieses Superhelden-Spieleset enthält außerdem einen Igor-Rüstung-Mech mit einem Cockpit für Minifiguren, das sich öffnen lässt, bewegbare Arme und Beine und einen beweglichen Roboter auf Rädern, die das fantasievolle Spielen anregen.
+- Mit den Modulen kann ein Screen Room oder ein Gefängnis für die Bösewichte gebaut werden, indem die einzelnen Module zu einem Kreis verbunden werden.
+- Das Superheldenspielzeug umfasst die Werkstatt von Iron Man, die aus einzelnen Werkstattmodulen besteht, welche auf unterschiedlichste Weise miteinander kombiniert und aufeinander gestapelt werden können, sodass das Spielen niemals langweilig wird.
 - Im Zubehör sind außerdem Gesicht- und Haarelemente von Tony Stark enthalten, die an den Minifguren befestigt werden können.
 - Stelle mit diesem coolen LEGO Bauset für Kinder actionreiche Szenen aus den Marvel Avengers Filmen nach.
 - Die Iron Man MK 1, Iron Man MK 5 and Iron Man MK 41 Minifiguren kommen im März 2019 auf den Markt.
-- Das Superheldenspielzeug umfasst die Werkstatt von Iron Man, die aus einzelnen Werkstattmodulen besteht, welche auf unterschiedlichste Weise miteinander kombiniert und aufeinander gestapelt werden können, sodass das Spielen niemals langweilig wird.
-- Die Werkstatt von Iron Man umfasst ein rotierendes Podium mit zwei beweglichen Armen, einen Tisch mit einem transparent-blauen Bildschirm, einen Minifiguren-Stuhl und Tassenelemente, ein Küchenmodul mit baubarem Smoothie-Maker und Tasse, ein Ausrüstungslagermodul mit Shooter, Jetpack und Energiestrahlelement für die Minifiguren, ein Werkzeugaufbewahrungsmodul mit Schraubenschlüssel, Aufbewahrungsmodule für die Iron Man Uniformen, eine Radarschüssel, Sicherheitsbarrieren, einen Feuerlöscher sowie Flammenelemente.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNMTS8Y/?tag=tolees0ca-21)
