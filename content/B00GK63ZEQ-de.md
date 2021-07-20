@@ -28,10 +28,10 @@ Sie können [Linksys LGS124P-EU 24 Port Unmanaged Gigabit Netzwerk Switch  12 Po
 
 ℹ️:
 
+- Lieferumfang: Linksys LGS124P-EU Unmanaged Switch
 - 12 PoE+-Anschlüsse
+- Unterstützung für Power over Ethernet Plus (PoE+)
 - Einfache Plug & Play-Verbindung; QoS - Quality of Service; Entspricht dem Standard EEE (Energy Efficient Ethernet) 802.3az
 - Maximale Geschwindigkeit bis zu 1000Mbit/s
-- Unterstützung für Power over Ethernet Plus (PoE+)
-- Lieferumfang: Linksys LGS124P-EU Unmanaged Switch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00GK63ZEQ/?tag=tolees0ca-21)

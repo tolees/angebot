@@ -28,10 +28,10 @@ Es gibt ein [Tefal Raclette Ambiance RE4588 | für 10 Personen | inklusive Tisch
 
 ℹ️:
 
-- Stiftung Warentest sagt "GUT (2,5)" im Raclette Test 12/2019
-- 2 Meter langes, abnehmbares Kabel, Ein-/Ausschalter am Gerät und Betriebskontrollleuchte sorgen für Sicherheit und Komfort
-- BBQ / Tischgrill-Funktion dank gerillter, antihaftbeschichteter Grillplatte (abnehmbar und spülmaschinengeeignet)
 - 1350 Watt für schnellen Raclette und Grill-Spaß
 - Elektrisches Raclette und Grill für 10 Personen, inklusive 10 antihaftbeschichtete Pfännchen
+- 2 Meter langes, abnehmbares Kabel, Ein-/Ausschalter am Gerät und Betriebskontrollleuchte sorgen für Sicherheit und Komfort
+- Stiftung Warentest sagt "GUT (2,5)" im Raclette Test 12/2019
+- BBQ / Tischgrill-Funktion dank gerillter, antihaftbeschichteter Grillplatte (abnehmbar und spülmaschinengeeignet)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MIKJ9K2/?tag=tolees0ca-21)

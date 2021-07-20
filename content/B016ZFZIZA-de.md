@@ -28,7 +28,7 @@ Es gibt ein [Sortimo 1000004447 WorkMo 24-750 ink. 8 Kofferschienen](https://www
 
 ℹ️:
 
-- Die WorkMo ist durch beliebig viel Zubehör erweiterbar
 - Ein Helfer erledigt drei Jobs: ORDNUNG SCHAFFEN, SICHER TRANSPORTIEREN UND MOBIL ARBEITEN. Das ist das Sortimo WorkMo Prinzip.
+- Die WorkMo ist durch beliebig viel Zubehör erweiterbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016ZFZIZA/?tag=tolees0ca-21)

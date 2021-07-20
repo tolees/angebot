@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Kreissägeblatt Optiline Wood  für Holz  160 x 
 
 ℹ️:
 
-- Hohe Zähnezahl sorgt für einen sauberen und präzisen Schnitt
-- Körper- und Dehnungsschlitze im Sägeblatt vermindern Schwingungen, wirken geräuschdämpfend und reduzieren die Hitzeentwicklung
-- Blattdurchmesser: 160 mm; Bohrung/ Bohrung mit Reduktionsring: 20/16 mm; Schnittbreite; 2,6 mm; Zähnezahl: 48
 - Passend zu Handkreissägen der meisten Elektrowerkzeugmarken
 - Geeignet für sehr feine Querschnitte in Weichholz, Hartholz, Sperrholz, Tischlerplatte, Parkett, Faserwerkstoffen und MDF
+- Hohe Zähnezahl sorgt für einen sauberen und präzisen Schnitt
+- Blattdurchmesser: 160 mm; Bohrung/ Bohrung mit Reduktionsring: 20/16 mm; Schnittbreite; 2,6 mm; Zähnezahl: 48
+- Körper- und Dehnungsschlitze im Sägeblatt vermindern Schwingungen, wirken geräuschdämpfend und reduzieren die Hitzeentwicklung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000XJ4TLY/?tag=tolees0ca-21)

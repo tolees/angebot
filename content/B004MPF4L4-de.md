@@ -28,10 +28,10 @@ Es gibt ein [WAGNER Pflanzenroller Maxigrip Ø 38 x 11 cm I Kübelroller für Au
 
 ℹ️:
 
-- INDOOR & OUTDOOR: Der runde, wetterfeste Blumenroller ist für innen & außen geeignet. Er schützt robuste Böden vor Kratzern, Dellen & Druckstellen und verhindert Staunässe, Schmutz und Bodenfrost unter dem Pflanzkübel. Die 2 Bremsen bieten einen sicheren Stand.
-- WAGNER: Nennen Sie es Blumenrolli, Pflanzentaxi oder Rollbrett. Ganz gleich - Hauptsache Qualität, Form & Funktion stimmen. Darauf gibt Ihnen WAGNER Brief & Siegel.
 - QUALITÄT: Der hochwertige Kübelroller ist verantwortungsvoll nach ökologischen Standards gefertigt. Er bewegt Topfpflanzen mühelos & flexibel, was das Verschieben beim Putzen oder Umplanen vereinfacht.
+- INDOOR & OUTDOOR: Der runde, wetterfeste Blumenroller ist für innen & außen geeignet. Er schützt robuste Böden vor Kratzern, Dellen & Druckstellen und verhindert Staunässe, Schmutz und Bodenfrost unter dem Pflanzkübel. Die 2 Bremsen bieten einen sicheren Stand.
 - MULTI ROLLER: Das Pflanzen-Rollbrett aus FSC-zertifiziertem Multiplex (Schichtholz) mit rutschfester Tragfläche & mit 4 hochbelastbaren Transportgeräterollen, davon 2 mit Bremsen mit Totalfeststeller (sperrt das Rad in beide Richtungen), ermöglicht leichtes & rückenschonendes Verschieben schwerer Blumentöpfe.
 - DESIGN: Schön, praktisch & dekorativ - WAGNER-Pflanzenroller sind Markenprodukte und auf Qualität, Sicherheit und Langlebigkeit geprüft.
+- WAGNER: Nennen Sie es Blumenrolli, Pflanzentaxi oder Rollbrett. Ganz gleich - Hauptsache Qualität, Form & Funktion stimmen. Darauf gibt Ihnen WAGNER Brief & Siegel.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004MPF4L4/?tag=tolees0ca-21)

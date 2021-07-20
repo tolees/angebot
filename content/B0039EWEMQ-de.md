@@ -28,10 +28,10 @@ Sie können [Söll 15169 TeichFit Grundpflegemittel für den Teich 10 kg - ganzj
 
 ℹ️:
 
-- EMPFOHLENE DOSIERUNG: 100 g auf 1.000 Liter geben - der Teichwasseraufbereiter ist nicht überdosierbar und ungefährlich für Mensch und Tier (Teichfische, Vögel, Hunde, Katzen, Amphibien)
 - STABILES, ÖKOLOGISCHES GLEICHGEWICHT IM TEICH: Das Teichmittel erhöht die biologische Selbstreinigungskraft des Wassers und schafft ideale Lebensbedingungen für Pflanzen und Teichbewohner
-- ANWENDUNG: Ab Beginn der Teichsaison als Dauerpflege einsetzbares Mittel zur Wasseraufbereitung flächig in Teich einstreuen - speziell beim Auftreten von Algenblüten (grünes, trübes Wasser) oder nach Regen
 - WASSER STABILISIEREN: Das Teichpflegemittel fügt dem Wasser lebenswichtiges Calcium zu, neutralisiert giftige Schwermetalle sowie fischschädliches Ammoniak und reichert den Teich mit Kohlendioxid an
 - BEWÄHRTE TEICHPFLEGE: Das Grundpflegemittel Söll TeichFit (10 kg für 100.000 Liter) für den Teich schafft innerhalb weniger Minuten ideale Wasserwerte (KH, GH, pH) und sorgt für eine optimale Wasserqualität
+- ANWENDUNG: Ab Beginn der Teichsaison als Dauerpflege einsetzbares Mittel zur Wasseraufbereitung flächig in Teich einstreuen - speziell beim Auftreten von Algenblüten (grünes, trübes Wasser) oder nach Regen
+- EMPFOHLENE DOSIERUNG: 100 g auf 1.000 Liter geben - der Teichwasseraufbereiter ist nicht überdosierbar und ungefährlich für Mensch und Tier (Teichfische, Vögel, Hunde, Katzen, Amphibien)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0039EWEMQ/?tag=tolees0ca-21)
