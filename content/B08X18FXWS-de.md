@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.13 % rabat auf TP-Link Kasa Smart WLAN Steckdose KP115 '
-date: 2021-07-12 06:35:11
+date: 2021-07-21 06:22:06
 image: 'https://m.media-amazon.com/images/I/31FxYC-RN1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -30,10 +30,10 @@ Es gibt ein [TP-Link Kasa Smart WLAN Steckdose KP115 Smart Home WiFi Steckdose m
 
 - Kein Hub erforderlich - funktioniert mit jedem WLAN-Router
 - Fernzugriff - Steuern Sie jederzeit und überall die verbundene Geräte
-- Abläufe und Zeitpläne - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten ein und aus
-- TP-Link Kasa WLAN Smart Steckdose KP115, Stromaufzeichnung Amazon Alexa Zubehör, funktioniert mit Google Home, SmartThings, Kasa App, Sprachsteuerung, Fernzugriff, Kein Hub notwendig, Mini
-- Kompatibilität - Funktioniert mit Amazon Alexa und Google Assistant für Sprachsteuerung (Alexa-Gerät und Google Home-Gerät separat erhältlich)
 - Energieverbrauchskontrolle - Analysieren Sie den Echtzeit- und den historischen Stromverbrauch des angeschlossenen Geräts.
+- Kompatibilität - Funktioniert mit Amazon Alexa und Google Assistant für Sprachsteuerung (Alexa-Gerät und Google Home-Gerät separat erhältlich)
+- TP-Link Kasa WLAN Smart Steckdose KP115, Stromaufzeichnung Amazon Alexa Zubehör, funktioniert mit Google Home, SmartThings, Kasa App, Sprachsteuerung, Fernzugriff, Kein Hub notwendig, Mini
 - Umfassende Sicherheit - Überhitzungsschutz und Feuerfestes Material zur Minimierung einer Brandgefahr, Sicherheitsabdeckung zur Vermeidung von elektrischen Schlägen
+- Abläufe und Zeitpläne - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten ein und aus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08X18FXWS/?tag=tolees0ca-21)
