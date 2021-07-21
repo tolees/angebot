@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minions - Lego 75549 Minions Unaufh mit 25.01 % Rabatt'
-date: 2021-07-12 20:21:53
+date: 2021-07-21 08:31:14
 image: 'https://m.media-amazon.com/images/I/51ZaJ3ZSoFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO Minions'
 buyurl: 'https://www.amazon.de/dp/B07X9TZQCJ/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '15.786'
+average: '15.6533333333333'
 ---
 
 Sie können [LEGO Minions - Lego 75549 Minions Unaufhaltsame Motorrad-Jagd  Spielzeug für Kinder ab 6 Jahre mit Figuren: Bob und Stuart](https://www.amazon.de/dp/B07X9TZQCJ/?tag=tolees0ca-21) mit Preis 14.99 EUR (original: 19.99 EUR) 25.01 % Rabatt hier:
