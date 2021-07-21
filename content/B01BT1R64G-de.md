@@ -29,9 +29,9 @@ Es gibt ein [Third of Life - Reisekissen VOLAR | Nackenkissen aus Visco-Schaum |
 ℹ️:
 
 - ➤ LEICHT & PLATZSPAREND - Kaum schwerer als ein halber Liter Wasser und mit extra schwarzem Baumwoll-Bezug. Dank praktischem Reisebeutel lässt es sich überall hin mitnehmen.
-- ✪ TESTSIEGER 09/2019 in der Kategorie Reisekissen!
-- ➤ PERFEKT FÜR UNTERWEGS - Ob auf Reisen, im Hotel oder für einen „Power Nap“ im Büro oder auf der Couch. Mit dem kleinen Visco-Kopfkissen VOLAR ist für erholsamen Schlaf stets gesorgt.
 - ➤ WÄRME- & FEUCHTIGKEITSMANAGEMENT - Thermoregulierende Mikrokapseln im speziellen Thermic-Bezug, sowie in das Visco-Kissen eingearbeitete Ventilationskanäle, sorgen für optimale Belüftung und halten Sie in einem gesunden Mikroklima während des Schlafes. Das bedeutet weniger Schwitzen, weniger Frieren.
 - ➤ ERGONOMISCH, ORTHOPÄDISCH & FÜR ALLERGIKER- Der viscoelastische Memory-Schaum bietet optimale Stützkraft für Nacken und Halswirbelsäule (HWS) und beugt somit Nackenproblemen und Verspannungen vor. Außerdem ist er von Natur aus resistent gegen Staubmilben und somit bestens für Allergiker und Asthmatiker geeignet.
+- ✪ TESTSIEGER 09/2019 in der Kategorie Reisekissen!
+- ➤ PERFEKT FÜR UNTERWEGS - Ob auf Reisen, im Hotel oder für einen „Power Nap“ im Büro oder auf der Couch. Mit dem kleinen Visco-Kopfkissen VOLAR ist für erholsamen Schlaf stets gesorgt.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01BT1R64G/?tag=tolees0ca-21)

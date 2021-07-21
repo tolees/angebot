@@ -28,8 +28,8 @@ Es gibt ein [Be Mammy 3/4 Umstandsleggings aus Viskose BE20-161  Schwarz  L ](ht
 
 ℹ️:
 
-- Der hohe Bund ermöglicht eine ideale Anpassung der Leggings an den wachsenden Bauch
 - Hauptmaterial ist weiche, atmungsaktive und angenehme Viskose
 - In der EU hergestellt; Umstandsleggings; ¾ Länge; Hosenbein mit weicher Spitze verarbeitet; Sehr bequem und elegant
+- Der hohe Bund ermöglicht eine ideale Anpassung der Leggings an den wachsenden Bauch
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B071JLV4YR/?tag=tolees0ca-21)
