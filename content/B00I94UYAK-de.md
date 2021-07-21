@@ -30,7 +30,7 @@ Es gibt ein [Trio Leuchten Deckenleuchte  nickel matt  Stoffschirm schwarz 60390
 
 - Leuchte exklusive Leuchtmittel. Passendes Leuchtmittel 3xE27 max. 60 Watt
 - Der Schirm ist nach unten mit einem Diffusor geschlossen, sodass das Licht blendfrei im Raum verteilt wird
-- Deckenleuchte mit Sockel in Nickel matt und Stoffschirm in der Farbe schwarz
 - Schirm hat einen Durchmesser von 50cm. Die Höhe des Schirms beträgt 12,2cm
+- Deckenleuchte mit Sockel in Nickel matt und Stoffschirm in der Farbe schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00I94UYAK/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [Taurus TF780 – Turmventilator  weiß Ohne Fernbedienung grau](h
 
 ℹ️:
 
-- Leistung: 45 W
-- , schwenkbar,
 - 3 Geschwindigkeiten
+- , schwenkbar,
 - Timer: 2 Stunden
+- Leistung: 45 W
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007PS4WJ0/?tag=tolees0ca-21)

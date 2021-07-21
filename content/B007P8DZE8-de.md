@@ -30,8 +30,8 @@ Es gibt ein [folia 12950 - Nylonfaden auf Spule  transparent  ca. 0 5 mm x 100 m
 
 - Transparent, fast unsichtbar
 - Spule mit Nylonfaden
-- Tragkraft: 7,5 kg
 - Ideal für Mobiles, Traumfänger, Schmuck und zur Dekoration
+- Tragkraft: 7,5 kg
 - Maße: 0,5 mm x 100 m
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007P8DZE8/?tag=tolees0ca-21)

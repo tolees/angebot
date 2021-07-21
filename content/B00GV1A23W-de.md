@@ -28,10 +28,10 @@ Sie können [Schmidt Spiele 75024 Skull King  Kartenspiel](https://www.amazon.de
 
 ℹ️:
 
-- Stichspiel mit hohen Spassfaktor
 - Spannend bis zum Schluss
-- Empfohlenes Alter: ab 8 Jahren
 - Spieldauer: ca. 30 Minuten
+- Stichspiel mit hohen Spassfaktor
 - Spieler: 2 bis 6
+- Empfohlenes Alter: ab 8 Jahren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00GV1A23W/?tag=tolees0ca-21)
