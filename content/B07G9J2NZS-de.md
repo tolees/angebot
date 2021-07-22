@@ -30,8 +30,8 @@ Es gibt ein [Briloner Leuchten 7195-016 Deckenleuchte-Panel  dimmbar  Farbsteuer
 
 - Abmessungen: 59.5 x 59.5 x 5 cm
 - Leistung: die große quadratische Lichtquelle mit 36 Watt und 3800 Lumen verteilt das Licht gleichmäßig im Raum
-- Puristische Schönheit: neueste LED-Technologie gepaart mit einem klaren schlanken Design – eine große Lichtquelle ummantelt mit einem dezenten weißen Rahmen
 - Material: gefertigt aus Kunststoff und Metall in der Farbe weiß
 - Besonderheiten: mit der mitgelieferten Fernbedienung, kann die Wohnzimmerleuchte gedimmt und die Farbtemperatur (warm weiß bis kalt weiß, 3.000 - 6.400 Kelvin) gesteuert werden (bei Steuerung der Leuchte über die Fernbedienung ist eine Memoryfunktion gegeben)
+- Puristische Schönheit: neueste LED-Technologie gepaart mit einem klaren schlanken Design – eine große Lichtquelle ummantelt mit einem dezenten weißen Rahmen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07G9J2NZS/?tag=tolees0ca-21)

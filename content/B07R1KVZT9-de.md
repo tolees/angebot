@@ -28,10 +28,10 @@ Sie können [Tokina FiRIN 100mm F2.8 FE Makroobjektiv Vollformatobjektiv für So
 
 ℹ️:
 
+- Anspruchsvolles Design
+- 1: 1 Abbildungsmaßstab (natürliche Größe auf dem Sensor) bei 30 cm Motivabstand
+- Perfekte Kompatibilität mit Sony E-Mount Kameras
 - Nahezu Verzeichnungsfrei, bei höchster Schärfe
 - Großartiges Bokeh für Portraits
-- 1: 1 Abbildungsmaßstab (natürliche Größe auf dem Sensor) bei 30 cm Motivabstand
-- Anspruchsvolles Design
-- Perfekte Kompatibilität mit Sony E-Mount Kameras
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07R1KVZT9/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [RÖSLE Dose mit Frischhaltedeckel  Hochwertige Dose zum Aufbewahren
 
 ℹ️:
 
-- Die Speisen werden platzsparend aufbewahrt - durch den flachen Deckel können die Dosen gut gestapelt werden und tragen so zu einer perfekt organisierten Küche bei - dabei ermöglicht das transparente Glas den Einblick in die Vorratsdose, ohne den Behälter öffnen zu müssen
-- RÖSLE Dose mit Frischhaltedeckel: Hochwertige Frischhaltedose aus Edelstahl, dem idealen Material zum Aufbewahren von Lebensmitteln: geschmacksneutral, einfach zu reinigen und langlebig
 - Aromadicht verschlossen - durch den Silikonrand des Glasdeckels werden alle Lebensmittel fest verschlossen - durch das Loch im Silikon können praktisch kleine Kaffeelöffel eingehängt werden
 - Länge 14,6 cm - Breite 13,3 cm, - Höhe 12,5 cm - Gewicht 0,461 kg - Material Edelstahl 18/10 - Silikon und Glas - Temperaturbeständigkeit 180 °C - Füllmenge 1,4 l - Spülmaschinengeeignet
+- RÖSLE Dose mit Frischhaltedeckel: Hochwertige Frischhaltedose aus Edelstahl, dem idealen Material zum Aufbewahren von Lebensmitteln: geschmacksneutral, einfach zu reinigen und langlebig
 - Die Vorratsbox ist in verschiedenen Größen erhältlich - die kleineren Dosen sind für Gewürze und Kräuter ideal, die größeren Dosen eignen sich sowohl als Vorratsbehälter als auch für die Aufbewahrung von gegarten Speisen - andere Lebensmittel als Beispiele: Nüsse, Gummibärchen, Müsli, Kakao-Pulver, Kaffeepulver, loser Tee, Nudeln, Reis, kleine Reste von Mahlzeiten, Käse und viele andere Speisen, welche sauber verpackt im Kühlschrank oder Vorratsregal gelagert werden
+- Die Speisen werden platzsparend aufbewahrt - durch den flachen Deckel können die Dosen gut gestapelt werden und tragen so zu einer perfekt organisierten Küche bei - dabei ermöglicht das transparente Glas den Einblick in die Vorratsdose, ohne den Behälter öffnen zu müssen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JFWPJDM/?tag=tolees0ca-21)
