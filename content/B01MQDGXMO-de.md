@@ -29,8 +29,8 @@ Sie können [Gardena Premium Gießstab: Robuste Gartenbrause zur Bewässerung un
 ℹ️:
 
 - Frostsicher: Der integrierte Frostschutz bewahrt die Brause vor Beschädigungen durch Kälte
-- Robuste Ausführung: Dank der Metallelemente an Stab, Brausekopf und Anschlussstück äußerst widerstandsfähig
 - Variable Bewässerung: Wassermenge ist regulierbar und mit Impulsauslösung oder Dauerarretierung einsetzbar
+- Robuste Ausführung: Dank der Metallelemente an Stab, Brausekopf und Anschlussstück äußerst widerstandsfähig
 - Lieferumfang beinhaltet: 1 x Gardena Premium Gießstab, Made in Germany
 - Einfach verstellbar: Wässert optional mit einem weichen Brausestrahl, mit Stechstrahl oder Sprühnebel
 

@@ -29,8 +29,8 @@ Es gibt ein [Gardena Premium Reinigungsspritze: Robuste Wasserspritze zum Reinig
 ℹ️:
 
 - Besonders robust: Spritzenkopf und Anschlussstück bestehen aus extrem widerstandsfähigen Metallelementen
-- Praktische Handhabung: Für einen konstanten Wasserdurchfluss kann der Impulsauslöser arretiert werden
-- Benutzerfreundlich: Der Wasserstrahl ist stufenlos einstellbar, der Wasserdurchfluss abstellbar
 - Ergonomisches Design: Durch die Weichkunststoffelemente ist sie besonders griffig und liegt fest in der Hand
+- Benutzerfreundlich: Der Wasserstrahl ist stufenlos einstellbar, der Wasserdurchfluss abstellbar
+- Praktische Handhabung: Für einen konstanten Wasserdurchfluss kann der Impulsauslöser arretiert werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01M5K4YSW/?tag=tolees0ca-21)
