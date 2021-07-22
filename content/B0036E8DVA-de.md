@@ -28,10 +28,10 @@ Es gibt ein [UHU 47805 Universal Montagekleber  Kartusche mit 440 g](https://www
 
 ℹ️:
 
-- Universell einsetzbarer Montageklebstoff, ideal geeignet für verschiedene Anwendungen im Innenbereich
-- Einfach aufzutragen
-- Sehr hohe Endfestigkeit und sehr hohe Anfangshaftung: 130 kg/m²
-- Fugenfüllend und auch für unebene Oberflächen geeignet
 - Feuchtigkeits- und Temperaturbeständig
+- Sehr hohe Endfestigkeit und sehr hohe Anfangshaftung: 130 kg/m²
+- Einfach aufzutragen
+- Fugenfüllend und auch für unebene Oberflächen geeignet
+- Universell einsetzbarer Montageklebstoff, ideal geeignet für verschiedene Anwendungen im Innenbereich
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0036E8DVA/?tag=tolees0ca-21)
