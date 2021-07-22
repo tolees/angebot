@@ -28,10 +28,10 @@ Sie können [Krups Dolce Gusto - Krups KP1301 Nescafé Dolce Gusto Lumio Kapsel 
 
 ℹ️:
 
-- Schnell: Dank unseres besonderen Aluminium-Thermoblocks können Sie schnell und ohne lange Wartezeiten unsere leckeren Nescafé Dolce Gusto Heißgetränke einfach und sofort genießen
-- Intelligent: Mit Hilfe des LED-Bedienfeldes mit Wählrad die Wassermenge einstellen und Ihr Lieblingsgetränk bis zum großen XL-Kaffeebecher mit bis zu 15 bar Pumpendruck ganz einfach zubereiten
 - Vielfältig: Genießen Sie dank unseres intelligenten Nescafé Dolce Gusto Kapselsystems eine große Vielfalt an heißen und kalten Getränken in über 30 verschiedenen leckeren Sorten
 - Einfach: Der Kapselautomat ist dank der magnetischen Kapselhalterung nicht nur komfortabel in der Bedienung, sondern durch die spülmaschinengeeignete und höhenverstellbare Abtropfschale auch besonders einfach und schnell zu reinigen
+- Intelligent: Mit Hilfe des LED-Bedienfeldes mit Wählrad die Wassermenge einstellen und Ihr Lieblingsgetränk bis zum großen XL-Kaffeebecher mit bis zu 15 bar Pumpendruck ganz einfach zubereiten
 - Kompakt: Die Lumio ist mit ihren kleinen Maßen eine der platzsparendsten Kaffeekapselmaschinen von Nescafé Dolce Gusto; sie passt damit besonders gut in kleine Küchen, Büros und Räume, ohne auf Leistung und Kaffeegenuss verzichten zu müssen
+- Schnell: Dank unseres besonderen Aluminium-Thermoblocks können Sie schnell und ohne lange Wartezeiten unsere leckeren Nescafé Dolce Gusto Heißgetränke einfach und sofort genießen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0757QKZV3/?tag=tolees0ca-21)
