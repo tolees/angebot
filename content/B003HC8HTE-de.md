@@ -28,8 +28,8 @@ Es gibt ein [JOOLA Tischtennis-Set Family   4 Tischtennisschläger + 10 Tischten
 
 ℹ️:
 
-- Optimales Set für den Familien- und Freizeitspaß
 - Ideal auch für den Einsatz im Schulalltag
 - Lieferumfang: 4 Tischtennischläger, 5 weiße und 5 orangene Bälle, Aufbewahrungstasche
+- Optimales Set für den Familien- und Freizeitspaß
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B003HC8HTE/?tag=tolees0ca-21)

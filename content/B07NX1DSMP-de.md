@@ -29,8 +29,8 @@ Sie können [Amazon Basics AAA-Batterien mit hoher Kapazität  wiederaufladbar  
 ℹ️:
 
 - Kapazität: 850 mAh (Milliamperstunden), mindestens 800 mAh
-- 12er-Pack (AAA) wiederaufladbare Batterien mit hoher Kapazität
 - Verfügt auch nach 3 Jahren Lagerung noch über 65 Prozent des ursprünglichen Ladestands
 - Vorgeladen mit Solarenergie
+- 12er-Pack (AAA) wiederaufladbare Batterien mit hoher Kapazität
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NX1DSMP/?tag=tolees0ca-21)
