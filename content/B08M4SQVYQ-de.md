@@ -28,13 +28,13 @@ Es gibt ein [De’Longhi - De Longhi ECAM 23.466.S Kaffeevollautomat mit Milchsy
 
 ℹ️:
 
-- Produkt 1: LATTECREMA-SYSTEM: Patentiertes Milchaufschäumsystem für besonders cremigen, feinporigen Milchschaum für den idealen Cappuccino – die Reinigung erfolgt automatisch per Drehregler
-- Produkt 1: EINFACHE BEDIENUNG: Die DeLonghi Kaffeemaschine verfügt über Direktwahltasten für Cappuccino, Espresso und Latte Machiato mit 5 voreingestellte Kaffeestärken von sehr mild bis sehr kräftig
-- Produkt 2: ERHÖHT DIE LEBENSDAUER IHRER MASCHINE: Die richtige Reinigung und Pflege von Kaffeemaschine & Kaffeevollautomaten sorgt für eine lange Lebensdauer der Maschine
-- Produkt 2: VERBESSERTE KAFFEEQUALITÄT: Der DeLonghi Wasserfilter verbessert den Kaffee-Geschmack durch die Reduzierung von geruchs- und geschmacksstörenden Verunreinigungen im Wasser
-- Produkt 2: WIRKUNG: Der DeLonghi Wasserfilter reduziert Kalkablagerungen und verlängert bei regelmäßiger Anwendung die Lebensdauer der Maschine
 - Produkt 1: HOCHWERTIGES MAHLWERK: Das 13-stufige Kegelmahlwerk kann individuell eingestellt werden, es passen 200 g Kaffeebohnen in den Behälter – der Vollautomat eignet auch für die Nutzung mit Kaffeepulver
 - Produkt 1: LEICHTE REINIGUNG: Die kompakte Brühgruppe ist wartungsarm, lässt sich vollständig aus der Kaffeemaschine herausnehmen und ermöglicht so eine einfache Reinigung des Maschineninnenraums
 - Produkt 2: REGELMÄßIGES ERSETZEN: Für beste Ergebnisse wird empfohlen, den Filter alle 2 Monate auszutauschen (abhängig von der Wasserqualität)
+- Produkt 2: WIRKUNG: Der DeLonghi Wasserfilter reduziert Kalkablagerungen und verlängert bei regelmäßiger Anwendung die Lebensdauer der Maschine
+- Produkt 2: VERBESSERTE KAFFEEQUALITÄT: Der DeLonghi Wasserfilter verbessert den Kaffee-Geschmack durch die Reduzierung von geruchs- und geschmacksstörenden Verunreinigungen im Wasser
+- Produkt 1: EINFACHE BEDIENUNG: Die DeLonghi Kaffeemaschine verfügt über Direktwahltasten für Cappuccino, Espresso und Latte Machiato mit 5 voreingestellte Kaffeestärken von sehr mild bis sehr kräftig
+- Produkt 2: ERHÖHT DIE LEBENSDAUER IHRER MASCHINE: Die richtige Reinigung und Pflege von Kaffeemaschine & Kaffeevollautomaten sorgt für eine lange Lebensdauer der Maschine
+- Produkt 1: LATTECREMA-SYSTEM: Patentiertes Milchaufschäumsystem für besonders cremigen, feinporigen Milchschaum für den idealen Cappuccino – die Reinigung erfolgt automatisch per Drehregler
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08M4SQVYQ/?tag=tolees0ca-21)

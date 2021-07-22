@@ -28,9 +28,9 @@ Es gibt ein [WHITIN Sicherheitsschuhe S3 mit Stahlkappe Leicht Indestructible Sh
 
 ℹ️:
 
-- Schafthöhe; Kurzschaft
-- Sohlenmaterial; Gummi+EVA
 - Plattformhöhe; 4 cm
+- Sohlenmaterial; Gummi+EVA
 - Materialzusammensetzung; Gummi
+- Schafthöhe; Kurzschaft
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082XRKYNS/?tag=tolees0ca-21)
