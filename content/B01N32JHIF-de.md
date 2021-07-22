@@ -29,8 +29,8 @@ Es gibt ein [FISCHER Pedale mit Anti-Rutsch und Reflektoren  passend für alle F
 ℹ️:
 
 - Anti-Rutsch
-- Mit Reflektoren
-- Passend für alle Fahrrad-Typen
 - Zugelassen im Bereich der StVZO
+- Passend für alle Fahrrad-Typen
+- Mit Reflektoren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N32JHIF/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Vivere Doppel Baumwolle Hängematte mit Hängemattengestell 250 cm 
 
 ℹ️:
 
+- Standard abmessungen: 244 x 112 x 107 cm
 - In diese Baumwollhängematten finden bequem zwei Personen oder eine Person mit Haustier Platz.
 - Hängematten bed is 211 x 150 cm, eine Gesamtlänge von 120 cm, 204 kg Kapazität
 - Dank der leicht anzupassenden Hängemattenhaken bestimmen Sie selbst, wie hoch oder niedrig Sie liegen möchten.
 - Dank der prachtvollen Farben wird diese Hängematte zum Highlight in Ihrem Garten.
-- Standard abmessungen: 244 x 112 x 107 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00PITYCX4/?tag=tolees0ca-21)
