@@ -29,9 +29,9 @@ Es gibt ein [LG Electronics - LG 55UP75009LF 139 cm  55 Zoll  UHD Fernseher  4K 
 ℹ️:
 
 - Smart TV: webOS 6.0 (LG ThinQ) mit Apple Airplay 2, Home Dashboard, Google Assistant & Amazon Alexa verfügbar via Magic Remote-Fernbedienung (nicht enthalten), inkl. LG Fernbedienung
-- Prozessor: Quad Core Processor 4K mit AI Sound
 - Bild und Ton: Active HDR (HDR10 Pro, HLG), 2.0 ch Soundsystem (20W) mit HGiG-Kompatibilität
-- Tunertyp und Konnektivität: Triple Tuner (DVB-T2 HD/-C/-S2), LAN, ac-WLAN, Bluetooth 5.0, 2x HDMI 2.0 (eARC, ALLM), 1x USB, Optischer Ausgang, CI+ 1.4
 - 4K UHD Smart TV mit 139 cm (55 Zoll) Bildschirmdiagonale, Außenmaße 124,4 x 78,3 cm, VESA Norm: 300 x 300 mm
+- Prozessor: Quad Core Processor 4K mit AI Sound
+- Tunertyp und Konnektivität: Triple Tuner (DVB-T2 HD/-C/-S2), LAN, ac-WLAN, Bluetooth 5.0, 2x HDMI 2.0 (eARC, ALLM), 1x USB, Optischer Ausgang, CI+ 1.4
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08VDBF52P/?tag=tolees0ca-21)
