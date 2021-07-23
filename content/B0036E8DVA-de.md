@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.03 % rabat auf UHU 47805 Universal Montagekleber  Kartu'
-date: 2021-07-22 14:51:41
+date: 2021-07-23 14:54:02
 image: 'https://m.media-amazon.com/images/I/41LPrpCQVkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [UHU 47805 Universal Montagekleber  Kartusche mit 440 g](https://www
 
 ℹ️:
 
+- Sehr hohe Endfestigkeit und sehr hohe Anfangshaftung: 130 kg/m²
 - Universell einsetzbarer Montageklebstoff, ideal geeignet für verschiedene Anwendungen im Innenbereich
 - Feuchtigkeits- und Temperaturbeständig
 - Einfach aufzutragen
 - Fugenfüllend und auch für unebene Oberflächen geeignet
-- Sehr hohe Endfestigkeit und sehr hohe Anfangshaftung: 130 kg/m²
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0036E8DVA/?tag=tolees0ca-21)
