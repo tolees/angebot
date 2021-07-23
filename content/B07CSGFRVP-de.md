@@ -28,10 +28,10 @@ Sie können [tint von Müller-Licht Smarte LED Lampe GU10  Reflektor  white  Wei
 
 ℹ️:
 
-- tint LED Reflektor GU10 white: Weißtöne von warmweißem Licht (2700 K) bis hin zu aktivierendem Tageslicht (6500 K)
 - Intuitiv steuerbar über tint-Fernbedienung (zusätzlich erhältlich) - 3 voreingestellte Lichtszenen von "Arbeiten" über "Sonnenuntergang" bis "Schlafen", individuell einstellbare Lichtgruppen
-- Sprachsteuerung per Amazon Alexa über alle Echo-Geräte mit integriertem Zigbee Smart Home Hub, zum Beispiel Echo Plus oder Echo Studio
-- Smarthome ready: Einbindbar in viele gängige Smarthome-Systeme mit Zigbee-Gateway*, z. B. Philips Hue*, Magenta SmartHome*, Osram Lightify*, Samsung SmartThings* oder Amazon Alexa über Echo Plus*
 - Stufenlos dimmbar, z. B. per tint-Fernbedienung (nicht mit herkömmlichen Dimmern steuerbar)
+- tint LED Reflektor GU10 white: Weißtöne von warmweißem Licht (2700 K) bis hin zu aktivierendem Tageslicht (6500 K)
+- Smarthome ready: Einbindbar in viele gängige Smarthome-Systeme mit Zigbee-Gateway*, z. B. Philips Hue*, Magenta SmartHome*, Osram Lightify*, Samsung SmartThings* oder Amazon Alexa über Echo Plus*
+- Sprachsteuerung per Amazon Alexa über alle Echo-Geräte mit integriertem Zigbee Smart Home Hub, zum Beispiel Echo Plus oder Echo Studio
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CSGFRVP/?tag=tolees0ca-21)

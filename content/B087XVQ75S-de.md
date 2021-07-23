@@ -28,8 +28,8 @@ Sie können [hummel Herren Classic Chevron Hoodie Hood  schwarz  M](https://www.
 
 ℹ️:
 
+- Sports Apparel
 - Hoodie
 - Multisport
-- Sports Apparel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087XVQ75S/?tag=tolees0ca-21)
