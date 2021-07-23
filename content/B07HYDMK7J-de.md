@@ -28,12 +28,12 @@ Sie können [Lékué Quinoa-  Reis und y Getreidekocher  1 Liter](https://www.am
 
 ℹ️:
 
-- Inklusive Kochtabelle für Getreide und Reis im Trend: Quinoa, Amaranth, Weizen, Hirse, Bulgur, Vollkornreis
 - Besonders schnell: Das Wasser muss nicht vorher aufkochen; bis zu 4 Portionen in 12 Minuten
-- Neues Sieb/Deckel-Design, um Quinoa und andere kleine Getreidearten leichter abzugießen
 - Designt, um direkt am Tisch zu servieren
-- Mit Rezeptbuch
-- Geeignet für: Mikrowelle, Spülmaschine, Kühlschrank
 - In Zusammenarbeit mit der Alícia-Stiftung haben wissenschaftliche Untersuchungen ergeben, das dieses Design die beste Art und Weise darstellt Quinoa und Reis zu kochen
+- Geeignet für: Mikrowelle, Spülmaschine, Kühlschrank
+- Inklusive Kochtabelle für Getreide und Reis im Trend: Quinoa, Amaranth, Weizen, Hirse, Bulgur, Vollkornreis
+- Neues Sieb/Deckel-Design, um Quinoa und andere kleine Getreidearten leichter abzugießen
+- Mit Rezeptbuch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HYDMK7J/?tag=tolees0ca-21)

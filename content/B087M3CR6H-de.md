@@ -28,8 +28,8 @@ Es gibt ein [Reolink Go PT 3G/4G LTE Überwachungskamera Aussen + Solarpanel  Ka
 
 ℹ️:
 
-- Akkubetrieb oder Solarbetrieb: Mit einem wiederaufladbaren Akku kann diese Kamera über einen universellen 5V/2A Netzadapter oder das mitgelieferte Solarpanel kontinuierlich aufgeladen werden, was Folgekosten spart und umweltschonend ist.
 - 355° Schwenk & 140° Neige und 10m Sternenlicht-Nachtsicht: Mit Pan&Tilt können Sie diese IP-Kamera über die Reolink-App/Client fernsteuern, um jeden Bereich des Raums zu überwachen. Dank des CMOS-Sensors werden tags und nachts scharfe Bilder (bis zu 10m) erfasst.
+- Akkubetrieb oder Solarbetrieb: Mit einem wiederaufladbaren Akku kann diese Kamera über einen universellen 5V/2A Netzadapter oder das mitgelieferte Solarpanel kontinuierlich aufgeladen werden, was Folgekosten spart und umweltschonend ist.
 - Zwei-Wege-Audio, Live-Ansicht und Videowiedergabe: Eine 32GB microSD-Karte für die lokale Speicherung ist im Lieferumfang enthalten. Sehen Sie sich das Live-Streaming oder aufgezeichnete Clips an, um jederzeit und überall auf dem Laufenden zu bleiben. Drücken Sie einfach auf die Gesprächstaste, um interaktiv zu sprechen.
 - 3G/4G-LTE Netzwerk: 100% kabellose Überwachungskamera mit 4G LTE Netzwerk und Solarpanel für flexible Installation. Ideal für Innen- und Außenbereich mit eingeschränktem Internet oder ohne WLAN-Zugriff. Eine zusätzliche Nano-SIM-Karte mit Mobilfunk-Datentarif ist erforderlich.
 - PIR-Bewegungserkennung: Der hochempfindliche PIR-Bewegungssensor mit PIR-Zeitplan und Empfindlichkeitsanpassung löst fast keine Fehlalarme aus. Bei Ereignissen erhalten Sie sofortige Push-Nachrichten, E-Mails, Sirene od. Ihre individuelle Alarm-Ansage.

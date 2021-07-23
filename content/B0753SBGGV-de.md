@@ -29,9 +29,9 @@ Sie können [LIFX Mini Day & Dusk Wi-Fi Smart LED Light Bulb E27-4 Pack](https:/
 ℹ️:
 
 - Einstellbare Dimmersteuerung.
-- Tages- und Dämmerlicht passen sich Ihrem Rhythmus an, 800 Lumen.
-- Einfache Installation, Kompaktes, unkompliziertes Design. Integrierte WLAN- und LIFX-Cloud-Anbindung.
 - 22,8 Jahre Lebensdauer bei einer täglichen Nutzung von 3 Stunden, Verbraucht nur 9 Watt.
+- Einfache Installation, Kompaktes, unkompliziertes Design. Integrierte WLAN- und LIFX-Cloud-Anbindung.
+- Tages- und Dämmerlicht passen sich Ihrem Rhythmus an, 800 Lumen.
 - Intuitive App für iOS, Android und Windows 10, Kompatibel mit Amazon Alexa, Apple HomeKit, Google Assistant, Nest, Samsung SmartThings, IFTTT, Flic, Scout und andere.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0753SBGGV/?tag=tolees0ca-21)

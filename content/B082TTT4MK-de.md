@@ -28,9 +28,9 @@ Es gibt ein [Tineco Smart kabelloser Nass-Trocken-Sauger Floor One S3 Aufladbare
 
 ℹ️:
 
-- INNOVATIV – Die iLoop Smart Sensor Technologie erkennt Verschmutzungen und passt die Saugleistung und den Wasserdurchfluss für eine optimale Reinigung automatisch an; zwei Tanks halten sauberes und schmutziges Wasser getrennt, um eine bessere Reinigung zu ermöglichen.
-- SOLIDE – Dieses kabellose und tragbare Gerät ist für eine lange Nutzung und eine optimale Lebensdauer ausgelegt, auch bei täglichem Gebrauch; es ist das perfekte Reinigungswerkzeug, um überall jeden hartnäckigen Schmutz zu beseitigen, für Ihren absoluten Komfort.
 - EINFACH – Die automatische Selbstreinigungsfunktion arbeitet selbstständig; alle Funktionen werden per Knopfdruck gesteuert, das LED-Display ist intuitiv bedienbar und die angeschlossene sprach-gestützte App hilft bei der Funktionsüberwachung.
+- SOLIDE – Dieses kabellose und tragbare Gerät ist für eine lange Nutzung und eine optimale Lebensdauer ausgelegt, auch bei täglichem Gebrauch; es ist das perfekte Reinigungswerkzeug, um überall jeden hartnäckigen Schmutz zu beseitigen, für Ihren absoluten Komfort.
+- INNOVATIV – Die iLoop Smart Sensor Technologie erkennt Verschmutzungen und passt die Saugleistung und den Wasserdurchfluss für eine optimale Reinigung automatisch an; zwei Tanks halten sauberes und schmutziges Wasser getrennt, um eine bessere Reinigung zu ermöglichen.
 - ALLES IN EINEM DESIGN – Hochwertige kabellose Kombination aus Nass-Trocken-Sauger und Wischmopp für Fliesen-, Laminat-, Marmor- und Hartholzböden; leicht und bequem, geräuscharm und saugstark.
 - EMPFOHLEN – Der Lithium-Ionen-Akku ist in ca. 2 Stunden vollständig aufgeladen, die Laufzeit beträgt bis zu 35 Minuten; genießen Sie das schnellste, leiseste, bequemste und beste Reinigungserfahrung, mit einem Gerät, das die Arbeit von zwei leistet.
 
