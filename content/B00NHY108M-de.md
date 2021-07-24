@@ -29,8 +29,8 @@ Es gibt ein [Technoline - Mobile Alerts Zusatzsensor MA 10200 - Thermo - Hygro-S
 ℹ️:
 
 - Abrufung der Messdaten per App, weltweit und dauerhaft kostenlos
-- Temperatur- und Luftfeuchtigkeitssender Für Innen und Außen
 - Alarmierung bei der Überschreitung von eingestellten Alarmgrenzen
+- Temperatur- und Luftfeuchtigkeitssender Für Innen und Außen
 - Mit vielen weiteren Sendern erweiterbar Für die Inbetriebnahme des MA 10200 benötigen Sie ein Smartphone (mit Betriebssystem iOS oder Android), eine Internetverbindung, und das Gateway
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NHY108M/?tag=tolees0ca-21)
