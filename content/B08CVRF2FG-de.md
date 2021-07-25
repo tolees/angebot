@@ -29,10 +29,10 @@ Es gibt ein [Tommy Hilfiger Herren 1985 Regular Polo Polohemd  Gletscherrosa  S]
 ℹ️:
 
 - Knopfleiste mit zwei Knöpfen
-- Hoch-tiefer Saum
-- Tommy Hilfiger Flaggenstickerei auf der Brust
-- Stretch-Piqué aus Bio-Baumwolle
-- Polokragen
 - Tommy Hilfiger-Logo
+- Hoch-tiefer Saum
+- Polokragen
+- Stretch-Piqué aus Bio-Baumwolle
+- Tommy Hilfiger Flaggenstickerei auf der Brust
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CVRF2FG/?tag=tolees0ca-21)
