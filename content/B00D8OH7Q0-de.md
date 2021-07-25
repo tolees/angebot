@@ -28,9 +28,9 @@ Es gibt ein [Steiff 239557 Schlaf-gut-Bär Greifring mit Rassel Plüschtier  ros
 
 ℹ️:
 
-- rosa
-- mit Rassel
-- waschmaschinenfest bei 30C
 - Plüsch für babysanfte Haut
+- mit Rassel
+- rosa
+- waschmaschinenfest bei 30C
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00D8OH7Q0/?tag=tolees0ca-21)

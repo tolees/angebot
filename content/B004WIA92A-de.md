@@ -28,10 +28,10 @@ Es gibt ein [Eberhard Faber 579900 - Wasserbox mit 2 Tanks  blau](https://www.am
 
 ℹ️:
 
-- mit 2 Wassertanks
 - Wasserbox
-- Größe: ca. 10 x 7,3 x 9 cm
 - Wasser läuft bei Umfallen nicht aus
+- mit 2 Wassertanks
 - Farbe: blau
+- Größe: ca. 10 x 7,3 x 9 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004WIA92A/?tag=tolees0ca-21)
