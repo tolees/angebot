@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Yazubi Jeans Herren Akon Slim - Jeans Ho mit 46.69 % Rabatt'
-date: 2020-08-22 07:41:24
-image: 'https://m.media-amazon.com/images/I/414rCP8bzhL._SL400_.jpg'
+title: 'Yazubi Herren Jeanshose Slim Fit Männer  mit 25.01 % Rabatt'
+date: 2021-07-25 06:01:50
+image: 'https://m.media-amazon.com/images/I/414rCP8bzhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07TMCQHKR-de Yazubi Jeans Herren Akon Slim - Jeans Hosen für Männer -...'
+slug: 'B07TMCQHKR-de Yazubi Herren Jeanshose Slim Fit Männer Jeans Dunkelblau...'
 sku: 'B07TMCQHKR-de'
-tags: [  ]
-actualPrice: 31.96 EUR
+tags: [ 'Bekleidung','Herren-Jeanshosen','Herrenbekleidung','yazubi', ]
+actualPrice: 29.96 EUR
 currency: EUR
-price: 31.96
-comparePrice: 59.95 EUR
-prodname: 'Yazubi Jeans Herren Akon Slim - Jeans Hosen für Männer - dunkel Blaue Denim Stretch Hose Jeanshose Regular  Blau  Dark Denim 194118   W29/L30'
+price: 29.96
+comparePrice: 39.95 EUR
+prodname: 'Yazubi Herren Jeanshose Slim Fit Männer Jeans Dunkelblau Akon  Blau  Dark Denim 194118   W29/L30'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Yazubi'
 buyurl: 'https://www.amazon.de/dp/B07TMCQHKR/?tag=tolees0ca-21'
-descuento: '46.69'
-average: '31.96'
+descuento: '25.01'
+average: '31.2933333333333'
 ---
 
-Sie können [Yazubi Jeans Herren Akon Slim - Jeans Hosen für Männer - dunkel Blaue Denim Stretch Hose Jeanshose Regular  Blau  Dark Denim 194118   W29/L30](https://www.amazon.de/dp/B07TMCQHKR/?tag=tolees0ca-21) mit Preis 31.96 EUR (original: 59.95 EUR) 46.69 % Rabatt hier:
+Sie können [Yazubi Herren Jeanshose Slim Fit Männer Jeans Dunkelblau Akon  Blau  Dark Denim 194118   W29/L30](https://www.amazon.de/dp/B07TMCQHKR/?tag=tolees0ca-21) mit Preis 29.96 EUR (original: 39.95 EUR) 25.01 % Rabatt hier:
 
-[![Yazubi Jeans Herren Akon Slim - Jeans Ho](https://m.media-amazon.com/images/I/414rCP8bzhL._SL400_.jpg)](https://www.amazon.de/dp/B07TMCQHKR/?tag=tolees0ca-21)
+[![Yazubi Herren Jeanshose Slim Fit Männer ](https://m.media-amazon.com/images/I/414rCP8bzhL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07TMCQHKR/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Bund und Leibhöhe sind in Passform ?Normal?, somit sitzt die Jeans Hose nicht nur genau richtig, sondern kombiniert sich perfekt mit Hemd oder Tshirt
+- Das lederne Logopatch am rückseitigen Bund verleihen der Jeans Hose Akon im 5-Pocket Style den nötigen Akzent
+- Dank extra weichem Baumwollmaterial ist die Jeanshose sehr bequem und atmungsaktiv, der hervorragende Elasthan sorgt für den Stretch und bringt die Bewegungsfreiheit, die du im Alltag brauchst
+- Trendige Yazubi Jeans in brandaktueller Used-Waschung, superbequem und Garanten für stylische Day-Night-Outfits
+- Pflegehinweis: Maschinenwäsche
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TMCQHKR/?tag=tolees0ca-21)
