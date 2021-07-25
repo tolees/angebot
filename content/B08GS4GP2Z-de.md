@@ -28,12 +28,12 @@ Es gibt ein [LEGO 41927 DOTS Taschenanhänger Hund Bastelset für Kinder  Schlü
 
 ℹ️:
 
-- Der tolle Taschenanhänger (oder auch Schlüsselanhänger) ist 4 cm hoch und 3 cm breit und wird mit einem kleinen, schlüsselförmigen Steinchenlöser zum Entfernen der Steinchen geliefert
-- Helfen Sie Ihren Kindern, ihre kreativen Fähigkeiten zu erweitern und den Spaß abzurunden mit der Extra DOTS - Serie 4 (41931) Ergänzungsset Tiergesichter
-- Kinder können die Steinchen auch mit einem der anderen LEGO DOTS Taschenahänger Sets austauschen: Narwal 41928, Leopard 41929, oder Panda 41930 für noch mehr Designspaß!
-- Der Schlüsselanhänger für Kinder kann mit den Design-Ideen von der Verpackung dekoriert werden oder Kinder können ihre eigene Kreativität nutzen
-- Enthalten sind ein kleiner, aber stabiler Würfel mit Platz für viele lustige Welpen- und Hundedesigns und ein Silikonring, um ihn an jeder Tasche zu befestigen
 - Dieser bezaubernde Taschenanhänger bietet Kindern coole Anpassungsmöglichkeiten für ihre Dekorations und Accessoires, während sie Spaß beim Basteln haben
+- Helfen Sie Ihren Kindern, ihre kreativen Fähigkeiten zu erweitern und den Spaß abzurunden mit der Extra DOTS - Serie 4 (41931) Ergänzungsset Tiergesichter
+- Der Schlüsselanhänger für Kinder kann mit den Design-Ideen von der Verpackung dekoriert werden oder Kinder können ihre eigene Kreativität nutzen
+- Kinder können die Steinchen auch mit einem der anderen LEGO DOTS Taschenahänger Sets austauschen: Narwal 41928, Leopard 41929, oder Panda 41930 für noch mehr Designspaß!
+- Der tolle Taschenanhänger (oder auch Schlüsselanhänger) ist 4 cm hoch und 3 cm breit und wird mit einem kleinen, schlüsselförmigen Steinchenlöser zum Entfernen der Steinchen geliefert
 - Das Bastelset für Kinder wird mit vielen bunten Steinchen geliefert und ist so ein abwechslungsreiches Spielzeug, welches man immer wieder neu dekorieren kann
+- Enthalten sind ein kleiner, aber stabiler Würfel mit Platz für viele lustige Welpen- und Hundedesigns und ein Silikonring, um ihn an jeder Tasche zu befestigen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GS4GP2Z/?tag=tolees0ca-21)

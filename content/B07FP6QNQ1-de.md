@@ -28,14 +28,14 @@ Sie können [LEGO 31089 Creator Rennwagen  Speedboot oder klassischer Rennwagen 
 
 ℹ️:
 
-- Öffne das Dach, um in das Cockpit des Rennwagens zu gelangen.
-- Der klassische offene Rennwagen ist 4 cm hoch, 14 cm lang und 7 cm breit.
-- Das Speedboot ist 4 cm hoch, 14 cm lang und 7 cm breit.
 - Dieses LEGO Creator 3-in-1-Set bietet 3 verschiedene Baumöglichkeiten: Nachdem du den Rennwagen gebaut hast, kannst du ihn in einen offenen klassischen Rennwagen oder ein leistungsstarkes LEGO Speedboot umbauen, um hinter dem Steuer noch mehr rasante Motorsportaction zu erleben.
 - Das Cockpit bietet Platz für eine Minifigur mit Helm (separat erhältlich).
-- Sieh dir nur einmal die sportliche Farbgebung des Rennwagens in Orange, Weiß und Dunkelblau an.
-- Der Rennwagen ist 5 cm hoch, 16 cm lang und 7 cm breit.
-- Fahre bei Höchstgeschwindigkeit mit quietschenden Reifen durch die Kurven und entscheide das Rennen für dich!
+- Der klassische offene Rennwagen ist 4 cm hoch, 14 cm lang und 7 cm breit.
 - Der Rennwagen verfügt über eine aerodynamische Karosserie mit großen Lufteinlässen, eine abgerundete, getönte Windschutzscheibe, ein zugängliches Cockpit, einen sichtbaren Heckmotor, einen großen Heckspoiler und griffige Reifen.
+- Sieh dir nur einmal die sportliche Farbgebung des Rennwagens in Orange, Weiß und Dunkelblau an.
+- Fahre bei Höchstgeschwindigkeit mit quietschenden Reifen durch die Kurven und entscheide das Rennen für dich!
+- Das Speedboot ist 4 cm hoch, 14 cm lang und 7 cm breit.
+- Der Rennwagen ist 5 cm hoch, 16 cm lang und 7 cm breit.
+- Öffne das Dach, um in das Cockpit des Rennwagens zu gelangen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FP6QNQ1/?tag=tolees0ca-21)

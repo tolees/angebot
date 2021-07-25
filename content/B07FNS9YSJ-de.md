@@ -28,10 +28,10 @@ Sie können [LEGO 10884 DUPLO Meine erste Wippe mit Tieren  Vorschulspielzeug f�
 
 ℹ️:
 
-- Staple die Tiere auf dieses Balancier-Spielzeug für Kleinkinder und bewege sie hin und her, um zu sehen, wie die Wippe kippt.
-- Verwende die zusätzlichen Steine, um die Wippe im Gleichgewicht zu halten und dieses farbenfrohe Tier-Spielzeug für Kinder zu präsentieren.
-- Die endlosen kreativen Spielmöglichkeiten der LEGO DUPLOSpielzeuge bilden die Grundlage, um Kleinkinder zu kreativen Denkern zu machen.
 - Das Set enthält ein Wippen-Element zum Balancieren und 4 baubare Tierfiguren: einen Affen, einen Tiger, einen Elefanten und einen Panda sowie 2 zusätzliche Steine.
+- Die endlosen kreativen Spielmöglichkeiten der LEGO DUPLOSpielzeuge bilden die Grundlage, um Kleinkinder zu kreativen Denkern zu machen.
 - Viel Spaß beim Bauen der 3-D-Tierfiguren mit deinem Kind. Sprecht über verschiedene Dschungeltiere und fördere so die Sprachfähigkeit deines Kindes.
+- Verwende die zusätzlichen Steine, um die Wippe im Gleichgewicht zu halten und dieses farbenfrohe Tier-Spielzeug für Kinder zu präsentieren.
+- Staple die Tiere auf dieses Balancier-Spielzeug für Kleinkinder und bewege sie hin und her, um zu sehen, wie die Wippe kippt.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNS9YSJ/?tag=tolees0ca-21)
