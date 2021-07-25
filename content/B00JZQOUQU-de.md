@@ -28,10 +28,10 @@ Es gibt ein [850W Silent Flüsterkompressor Druckluftkompressor nur 55dB leise �
 
 ℹ️:
 
-- 850W (1 1/8PS) / 220-230V (50HZ) / 150L/min / Nur ca. 55dB
-- Flüster-Lautstärke von nur ca. 50-55dB! (ca. 90-98% leiser als handelsübliche Kompressoren gleicher Leistung)
 - Automatische Abschaltung bei 8 bar, Wiedereinschaltung bei 6 bar
-- Hochwertiges, ölfreies Aggregat (wartungsfrei) - mit Motorschutz und Anlaufentlastung
+- Flüster-Lautstärke von nur ca. 50-55dB! (ca. 90-98% leiser als handelsübliche Kompressoren gleicher Leistung)
 - Kessel: 30l außen und innen pulverbeschichtet / max 8bar / Gummisaugfüße / Maße: ca. 400x400x620mm / ca. 29KG
+- Hochwertiges, ölfreies Aggregat (wartungsfrei) - mit Motorschutz und Anlaufentlastung
+- 850W (1 1/8PS) / 220-230V (50HZ) / 150L/min / Nur ca. 55dB
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JZQOUQU/?tag=tolees0ca-21)
