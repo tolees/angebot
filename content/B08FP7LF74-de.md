@@ -28,10 +28,10 @@ Es gibt ein [Buhl Data Service - WISO Steuer-Mac 2021  für Steuerjahr 2020 | St
 
 ℹ️:
 
+- Steuererklärung als Ausdruck und via Internet (ELSTER) Sofortige Anzeige: Erstattung und Nachzahlung Kostenloser Telefonsupport
+- Für alle Einkunftsarten: sämtliche Formulare und Erklärungen: N, R, Kind, KAP, so, G, S, L, 34a, EÜR, FW, V, AV, aus, N-AUS, N-Gre, K, u, etc. Import-assistent
 - Eür, Umsatzsteuer-Voranmeldung; Lohnsteuer-Anmeldung, Fahrtenbuch Automatischer Vergleich von amtlichem Steuerbescheid mit Programmberechnung Praxisnahes Bedienbuch (als PDF)
 - Software zur Steuererklärung 2020 am Mac Musterschreiben für Finanzamt-Korrespondenz Systemvoraussetzungen: OS X ab Version 10.13
 - Systemvoraussetzungen: Mac OS 10.13, Internet-Zugang
-- Steuererklärung als Ausdruck und via Internet (ELSTER) Sofortige Anzeige: Erstattung und Nachzahlung Kostenloser Telefonsupport
-- Für alle Einkunftsarten: sämtliche Formulare und Erklärungen: N, R, Kind, KAP, so, G, S, L, 34a, EÜR, FW, V, AV, aus, N-AUS, N-Gre, K, u, etc. Import-assistent
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08FP7LF74/?tag=tolees0ca-21)

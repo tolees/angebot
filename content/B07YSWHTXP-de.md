@@ -28,10 +28,10 @@ Sie können [Inqua 502G0050 Inhalationslösung  50 x 2.5 ml](https://www.amazon.
 
 ℹ️:
 
-- Befeuchtet die Atemwege und ist einfach anzuwenden
-- Sterile, isotonische Kochsalzlösung für die Inhalation
 - 50 Ampullen mit je 2, 5 ml
 - Enthält keine Konservierungsstoffe
 - Passend für Ihr Inhalationsgerät
+- Befeuchtet die Atemwege und ist einfach anzuwenden
+- Sterile, isotonische Kochsalzlösung für die Inhalation
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07YSWHTXP/?tag=tolees0ca-21)

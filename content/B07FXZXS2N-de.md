@@ -30,8 +30,8 @@ Es gibt ein [Osram Night Breaker Silver H7  +100% mehr Helligkeit  Halogen-Schei
 
 - OSRAM NIGHT BREAKER SILVER H7: Die leistungsstarke und langlebige Halogen-Scheinwerferlampe in der praktischen Duo Box
 - Bis zu 100 % mehr Helligkeit für mehr Licht auf der Straße
-- Premium Qualität Made in Germany: Verfügbar als H1, H4, H7, H11
 - Starke und helle Halogen-Autolampe mit einem hervorragenden Lebensdauer-Leistungs-Verhältnis
+- Premium Qualität Made in Germany: Verfügbar als H1, H4, H7, H11
 - Bis zu 130 m langer Lichtkegel für bessere Sicht vor allem bei Dunkelheit oder ungünstigem Wetter
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FXZXS2N/?tag=tolees0ca-21)
