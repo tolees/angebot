@@ -28,10 +28,10 @@ Sie können [Columbia Herren Sun Ridge II Poloshirt  Graugrün  Sage   M  193201
 
 ℹ️:
 
-- Optimale Passform und optimaler Komfort dank angenehmem 4-Wege-Stretchmaterial
-- Lieferumfang: 1 x Columbia Herren Sun Ridge II Poloshirt, Material: 71  Prozent Tencel (Lyocell), 29  Prozent Polyester, Farbe: Graugrün (Sage), Größe: M, Art.-Nr.: 1932011
-- In verschiedenen trendigen Farben erhältlich
 - Ideal als Kleidung für den Alltag
+- Lieferumfang: 1 x Columbia Herren Sun Ridge II Poloshirt, Material: 71  Prozent Tencel (Lyocell), 29  Prozent Polyester, Farbe: Graugrün (Sage), Größe: M, Art.-Nr.: 1932011
 - Stylishes Polohemd für Herren, Ein absolutes Muss im Sommer
+- In verschiedenen trendigen Farben erhältlich
+- Optimale Passform und optimaler Komfort dank angenehmem 4-Wege-Stretchmaterial
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07YYL653H/?tag=tolees0ca-21)
