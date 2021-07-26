@@ -28,10 +28,10 @@ Es gibt ein [Brennenstuhl Qualitäts-Gummi-Verlängerungskabel 5m  IP44  Kabel f
 
 ℹ️:
 
-- Fremdkörper- und spritzwassergeschützt, da Schutzart IP44
 - 5m Gummi-Verlängerungskabel (H05RR-F 3G1,5) eignet sich bestens für diverse Arbeiten im Außenbereich
-- Verlängerungskabel für den kurzfristigen Einsatz im Freien
 - Lieferumfang: 1 x Qualitäts-Gummi-Verlängerungskabel 5m - in bester Qualität von brennenstuhl
 - Extra robuste Schutzkontaktstecker und Schutzkontaktkupplung mit Verschlusskappe
+- Fremdkörper- und spritzwassergeschützt, da Schutzart IP44
+- Verlängerungskabel für den kurzfristigen Einsatz im Freien
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004AQWRME/?tag=tolees0ca-21)
