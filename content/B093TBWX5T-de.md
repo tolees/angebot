@@ -28,10 +28,10 @@ Sie können [Bosch Professional digitales Ortungsgerät GMS 120  Bohrlochmarker 
 
 ℹ️:
 
-- GEEIGNET ZUM: Orten von elektr. Leitungen, z.B. beim Einbau einer Heizungsanlage. Zusätzlich geeignet zum Finden geeigneter Stellen zum Setzen von Bohrungen z.B. bei Montage von Trockenbauwänden
-- BOHRLOCHMARKER: Der mitgelieferte Markierstift für Bohrlöcher ist besonders nützlich, um die genaue Stelle zu markieren, an der gebohrt werden soll. Er verfügt über eine extra lange und dünne Edelstahlspitze für schwer zugängliche Stellen.
 - 3 ORTUNGSEINSTELLUNGEN: „Metall“ ist für den Einsatz als Metallortungsgerät, während „Trockenbauwand“ und „Spannungsführende Leitungen“ für den Einsatz als Balkensucher bzw. Leitungssucher
-- LIEFERUMFANG: Ortungsgerät GMS 120, Bohrlochmarker, Handschlaufe, Schutztasche, 1× Batterie 9V
 - DREIFARBIGE ANZEIGE: Der LED-Ring um die Zentrieröffnung leuchtet rot wenn ein Objekt detektiert wurde, bei Annäherung an ein Objekt gelb und grün, wenn kein Objekt gefunden wurde
+- LIEFERUMFANG: Ortungsgerät GMS 120, Bohrlochmarker, Handschlaufe, Schutztasche, 1× Batterie 9V
+- BOHRLOCHMARKER: Der mitgelieferte Markierstift für Bohrlöcher ist besonders nützlich, um die genaue Stelle zu markieren, an der gebohrt werden soll. Er verfügt über eine extra lange und dünne Edelstahlspitze für schwer zugängliche Stellen.
+- GEEIGNET ZUM: Orten von elektr. Leitungen, z.B. beim Einbau einer Heizungsanlage. Zusätzlich geeignet zum Finden geeigneter Stellen zum Setzen von Bohrungen z.B. bei Montage von Trockenbauwänden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B093TBWX5T/?tag=tolees0ca-21)
