@@ -28,10 +28,10 @@ Es gibt ein [meross WLAN Wechselschalter  benötigt Nullleiter  Smart 2 Weg Lich
 
 ℹ️:
 
+- Smart Lichtschalter: Chip von Mediatek für eine stabilere WLAN-Verbindung. Richten Sie Zeitpläne, Szenen und mehr mit der meross-App ein. ios und Android unterstützen Widgets. Verwenden Sie den gleichen meross-Account mit Ihrer Familie und teilen Sie Geräte.
+- Sprachsteuerung: Der intelligente Wandschalter von Meross funktioniert mit Alexa, Google Home / Assistant, direkt für die Sprachsteuerung. Zeit für ein intelligentes Zuhause und individuelle Zeitpläne für Ihre Leuchten.
+- Installation: Wenn sie den schalter nicht selbst installieren können, wird empfohlen, dies mit hilfe eines elektrotechnikers zu tun. Eine installationsanleitung finden sie in der meross APP. Das Suppport unterstützt sie bei der installation. Die Produktgarantie beträgt 2 Jahre.
 - Kostengünstig: Sie müssen nur 1 der ursprünglich 2 Schalter durch meross wlan Wechselschalter ersetzen, geeignet für 8.6*8.6*3.5cm. Komplette Vernetzung von smarten Geräten, gesteuert per App und Sprache.
 - Neutralleiter erforderlich: Die Installation des Schalters setzt voraus, dass Sie einen Nullleiter in Ihre Abzweigdose haben. Für 2-Wege-Wechselschalter Installation geeignet.
-- Installation: Wenn sie den schalter nicht selbst installieren können, wird empfohlen, dies mit hilfe eines elektrotechnikers zu tun. Eine installationsanleitung finden sie in der meross APP. Das Suppport unterstützt sie bei der installation. Die Produktgarantie beträgt 2 Jahre.
-- Sprachsteuerung: Der intelligente Wandschalter von Meross funktioniert mit Alexa, Google Home / Assistant, direkt für die Sprachsteuerung. Zeit für ein intelligentes Zuhause und individuelle Zeitpläne für Ihre Leuchten.
-- Smart Lichtschalter: Chip von Mediatek für eine stabilere WLAN-Verbindung. Richten Sie Zeitpläne, Szenen und mehr mit der meross-App ein. ios und Android unterstützen Widgets. Verwenden Sie den gleichen meross-Account mit Ihrer Familie und teilen Sie Geräte.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08NNZ388X/?tag=tolees0ca-21)
