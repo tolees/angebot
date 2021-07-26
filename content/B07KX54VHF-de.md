@@ -28,10 +28,10 @@ Es gibt ein [LEGO 75957 Harry Potter Der Fahrende Ritter Spielzeug  Dreifachdeck
 
 ℹ️:
 
-- Enthält 3x LEGO Harry Potter Minifiguren: Harry Potter, Stan Shunpike und Ernie Prang
-- Der vorlaute Schrumpfkopf und Harry Potters Truhe mit Zauberstab, Brief, Schokoriegel und einem Zaubertrankflasche sorgen für noch mehr Action und regen zu fantasievollem Spielspaß an
-- Dieser LEGO Dreifachdeckerbus verfügt über eine aufklappbare Seitenwand und ein abnehmbares Dach für maximales Spielvergnügen
 - Der Fahrende Ritter ist 16 cm hoch, 16 cm lang und 6 cm breit
+- Enthält 3x LEGO Harry Potter Minifiguren: Harry Potter, Stan Shunpike und Ernie Prang
+- Dieser LEGO Dreifachdeckerbus verfügt über eine aufklappbare Seitenwand und ein abnehmbares Dach für maximales Spielvergnügen
+- Der vorlaute Schrumpfkopf und Harry Potters Truhe mit Zauberstab, Brief, Schokoriegel und einem Zaubertrankflasche sorgen für noch mehr Action und regen zu fantasievollem Spielspaß an
 - Enthält zudem ein bewegliches Bett und einen Kronleuchter, der umherwirbelt, wenn der Bus wilde Fahrmanöver ausführt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KX54VHF/?tag=tolees0ca-21)
