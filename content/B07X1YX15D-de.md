@@ -28,8 +28,8 @@ Sie können [Bosch Home and Garden - Bosch Akkuschrauber IXO  6. Generation  int
 
 ℹ️:
 
-- Zweifache Lademöglichkeit: Der IXO kann einfach über seine Ladestation oder direkt über Micro-USB-Kabel aufgeladen werden
 - Der IXO - das erfolgreiche Elektrowerkzeug in der 6. Generation
+- Zweifache Lademöglichkeit: Der IXO kann einfach über seine Ladestation oder direkt über Micro-USB-Kabel aufgeladen werden
 - Stufenlose Drehzahlregelung: Je mehr Druck auf den Geschwindigkeitsschalter ausgeübt wird, desto schneller die Umdrehungen – Schluss mit beschädigten Materialien und verschlissenen Schrauben
 - Breites Anwendungsspektrum: Der Schrauber verfügt über eine Schnittstelle für verschiedene Zubehör Aufsätze für vielfältige Aufgaben im und um das Haus herum
 - Ladezustandsanzeige: Unser Akku Schrauber informiert dank der Drei LED-Akkuanzeige detailliert über den Ladezustand
