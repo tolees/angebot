@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch Akkuschrau mit 26.15 % Rabatt'
-date: 2021-07-26 06:13:08
+date: 2021-07-27 07:44:30
 image: 'https://m.media-amazon.com/images/I/41n2E5tamwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.de/dp/B07X1YX15D/?tag=tolees0ca-21'
 descuento: '26.15'
-average: '52.49'
+average: '48.3233333333333'
 ---
 
 Sie können [Bosch Home and Garden - Bosch Akkuschrauber IXO  6. Generation  integrierter Akku mit Ladestation und Micro-USB-Lader  variable Drehzahlregelung  im Karton  grün](https://www.amazon.de/dp/B07X1YX15D/?tag=tolees0ca-21) mit Preis 39.99 EUR (original: 54.15 EUR) 26.15 % Rabatt hier:
@@ -29,9 +29,9 @@ Sie können [Bosch Home and Garden - Bosch Akkuschrauber IXO  6. Generation  int
 ℹ️:
 
 - Der IXO - das erfolgreiche Elektrowerkzeug in der 6. Generation
-- Zweifache Lademöglichkeit: Der IXO kann einfach über seine Ladestation oder direkt über Micro-USB-Kabel aufgeladen werden
-- Stufenlose Drehzahlregelung: Je mehr Druck auf den Geschwindigkeitsschalter ausgeübt wird, desto schneller die Umdrehungen – Schluss mit beschädigten Materialien und verschlissenen Schrauben
 - Breites Anwendungsspektrum: Der Schrauber verfügt über eine Schnittstelle für verschiedene Zubehör Aufsätze für vielfältige Aufgaben im und um das Haus herum
+- Zweifache Lademöglichkeit: Der IXO kann einfach über seine Ladestation oder direkt über Micro-USB-Kabel aufgeladen werden
 - Ladezustandsanzeige: Unser Akku Schrauber informiert dank der Drei LED-Akkuanzeige detailliert über den Ladezustand
+- Stufenlose Drehzahlregelung: Je mehr Druck auf den Geschwindigkeitsschalter ausgeübt wird, desto schneller die Umdrehungen – Schluss mit beschädigten Materialien und verschlissenen Schrauben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07X1YX15D/?tag=tolees0ca-21)
