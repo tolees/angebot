@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.29 % rabat auf Universal Pictures - Miami Vice - Die ko'
-date: 2021-07-26 15:51:24
+date: 2021-07-27 15:57:18
 image: 'https://m.media-amazon.com/images/I/51omRn8eg7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.de/dp/B0150QGRDW/?tag=tolees0ca-21'
 descuento: '16.29'
-average: '41.9855555555556'
+average: '41.637'
 ---
 
 Es gibt ein [Universal Pictures - Miami Vice - Die komplette Serie [30 DVDs]](https://www.amazon.de/dp/B0150QGRDW/?tag=tolees0ca-21) mit aktuellem Preis 38.5 EUR (original: 45.99 EUR) 16.29 % Rabatt hier:

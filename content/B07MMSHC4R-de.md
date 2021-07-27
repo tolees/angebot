@@ -28,10 +28,10 @@ Es gibt ein [Philips 2200 Serie EP2220/10 Kaffeevollautomat  2 Kaffeespezialitä
 
 ℹ️:
 
-- Einstellung des Mahlgrades, der Intensität, der Kaffeemenge und der Temperatur.
-- Aroma Seal: bewahrt die Aromen der Kaffeebohnen
-- AquaClean Technologie
 - Leckere Kaffeespezialitäten aus frischen Bohnen im Handumdrehen
+- AquaClean Technologie
 - Mahlwerk aus 100 % Keramik
+- Aroma Seal: bewahrt die Aromen der Kaffeebohnen
+- Einstellung des Mahlgrades, der Intensität, der Kaffeemenge und der Temperatur.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07MMSHC4R/?tag=tolees0ca-21)
