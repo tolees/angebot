@@ -28,9 +28,9 @@ Es gibt ein [Schmidt Spiele Sorgenfresser 42373 - Dante  Magnetplüsch  21 cm](h
 
 ℹ️:
 
-- Mit Reißverschlussmund. Eignet sich auch vortrefflich als Einkaufszettel-Zwischenlager, Meckerbeutel oder als farbenfroher Briefkasten für Familienmemos und Liebesbriefe
-- Je ein Magnet in den Flügeln
 - Magnetplüsch
 - Softplüsch
+- Je ein Magnet in den Flügeln
+- Mit Reißverschlussmund. Eignet sich auch vortrefflich als Einkaufszettel-Zwischenlager, Meckerbeutel oder als farbenfroher Briefkasten für Familienmemos und Liebesbriefe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XY6XP6R/?tag=tolees0ca-21)
