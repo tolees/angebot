@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Prinzessin F mit 41.66 % Rabatt'
-date: 2021-06-30 14:18:08
+date: 2021-07-28 19:33:31
 image: 'https://m.media-amazon.com/images/I/51N7wB0PeOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B01I7FU79S/?tag=tolees0ca-21'
 descuento: '41.66'
-average: '13.7166666666666'
+average: '13.4284615384615'
 ---
 
 Sie können [LEONINE Distribution GmbH - Prinzessin Fantaghirò - Komplettbox [5 DVDs]  Verbesserte Bildqualität ](https://www.amazon.de/dp/B01I7FU79S/?tag=tolees0ca-21) mit Preis 9.97 EUR (original: 17.09 EUR) 41.66 % Rabatt hier:
