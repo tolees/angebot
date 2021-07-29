@@ -29,9 +29,9 @@ Sie können [Bosch Professional Kapp- und Gehrungssäge GCM 12 GDL  Sägeblatt-�
 ℹ️:
 
 - Ein innovativer und robuster Führungsarm sorgt für dauerhafte Präzision beim Sägen
-- Reibungsfreier Zugmechanismus sorgt für sehr leichtes Sägen ohne Kraftverlust
-- Dauerhafte Präzision durch innovativen, wartungsfreien und extrem robusten Führungsarm
 - Lieferumfang: GCM 12 GDL, Sägeblatt-Ø: 305 mm, Doppellinienlaser, Kreissägeblatt, Spannzange, Karton
 - Akkurate Schnitte und höchste Schnittqualität durch integrierten Doppellinienlaser und Sägeblatt Expert for Wood
+- Reibungsfreier Zugmechanismus sorgt für sehr leichtes Sägen ohne Kraftverlust
+- Dauerhafte Präzision durch innovativen, wartungsfreien und extrem robusten Führungsarm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005ZMLKFW/?tag=tolees0ca-21)

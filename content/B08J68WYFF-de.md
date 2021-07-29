@@ -29,13 +29,13 @@ Es gibt ein [2020 Apple iPad Air  10 9"  Wi-Fi  64 GB  - Silber  4. Generation
 ℹ️:
 
 - Breites Stereoaudio
-- Touch ID für sicheres Authentifizieren und Apple Pay
-- A14 Bionic Chip mit Neural Engine
-- Fantastisches 10,9" Liquid Retina Display mit True Tone und großem P3 Farbraum
-- Erhältlich in Silber, SpaceGrau, Roségold, Grün und SkyBlau
-- Bis zu 10S td. Batterielaufzeit
-- USB‑C Anschluss zum Aufladen und für Zubehör
 - WLAN6 (802.11ax) und LTE Advanced Mobilfunkdaten
+- Erhältlich in Silber, SpaceGrau, Roségold, Grün und SkyBlau
+- Touch ID für sicheres Authentifizieren und Apple Pay
+- USB‑C Anschluss zum Aufladen und für Zubehör
+- A14 Bionic Chip mit Neural Engine
+- Bis zu 10S td. Batterielaufzeit
+- Fantastisches 10,9" Liquid Retina Display mit True Tone und großem P3 Farbraum
 - 12 MP Rückkamera, 7 MP FaceTime HD Frontkamera
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08J68WYFF/?tag=tolees0ca-21)

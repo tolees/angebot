@@ -29,9 +29,9 @@ Sie können [Bosch Professional 18V System Akku Starterset  2x4.0Ah Akku + Ladeg
 ℹ️:
 
 - Lieferumfang: 2x Akku GBA 18V 4.0Ah, Ladegerät GAL 18V-40, Karton
-- Professional 18V System. Ultimative Leistung. Maximale Freiheit. Alle Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel.
-- 18V-/4,0-Ah-Akku mit höherer Laufleistung für alle Werkzeuge der 18V-Klasse
 - Kompatibel seit 2008: Alle unsere Akkus passen innerhalb der jeweiligen Voltklasse in die neuen und die bereits vorhandenen Bosch Professional Werkzeuge.
 - Extrem schnelle Aufladezeit für alle 18V-Akkus, beispielsweise Aufladen eines 18V-/4,0-Ah-Standardakkus in nur 48 Minuten zu 80 %
+- Professional 18V System. Ultimative Leistung. Maximale Freiheit. Alle Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel.
+- 18V-/4,0-Ah-Akku mit höherer Laufleistung für alle Werkzeuge der 18V-Klasse
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RCJ5VRV/?tag=tolees0ca-21)
