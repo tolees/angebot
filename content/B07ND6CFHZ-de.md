@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.96 % rabat auf LEGO 42099 Technic Control 4x4 Allrad Xt'
-date: 2021-07-26 04:43:25
+date: 2021-07-29 05:22:00
 image: 'https://m.media-amazon.com/images/I/51zvv2htPoS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
 descuento: '26.96'
-average: '168.444754420436'
+average: '168.442974559691'
 ---
 
 Es gibt ein [LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren für Kinder und Erwachsene](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21) mit aktuellem Preis 167.99 EUR (original: 229.99 EUR) 26.96 % Rabatt hier:
@@ -28,15 +28,15 @@ Es gibt ein [LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen  App-ges
 
 ℹ️:
 
-- Die App ermöglicht es den Nutzern, mehrere Hubs anzuschließen und so präzise und realitätsgetreue Bewegungen ausführen zu können.
-- Der Smarthub verfügt über eine Bluetooth Low Energie (BLE) Verbindung, eine Aktivierungstaste, 6 Achsensensoren (3 Kreiselsensoren und 3 Sensoren für die Beschleunigungsmessung) und 4 Anschlussmöglichkeiten.
+- Enthält 3 XL Motoren, 4 L Motoren und 2 Bluetooth-gesteuerte Smarthubs.
 - Multifunktionale Steuerung: Fahre vor und zurück, lenke, rotiere den Aufbau, hebe und senke den ausfahrbaren Ausleger, öffne und kippe die Schaufel und erhalte eine Rückmeldung über das Modell, z. B. über die Position von Ausleger und Aufbau, Stromverbrauch und Entfernung.
-- Nachbildung des Liebherr Baggers R 9800 mit einer Reihe realitätsgetreuer Merkmale und Funktionen, abgerundet durch ein authentisches Farbmuster und coole Aufkleber-Details.
 - Für ein fesselndes und realistisches Spielerlebnis sowie stundenlangen Spaß ist das Bagger-Modell mit der LEGO TECHNIC CONTROL+ App kombinierbar.
 - Benutzerdefinierte Bewegungen: Verwende voreingestellte Kommandos oder speichere die Aktionen, die der Bagger ausführt, für noch komplexere Bewegungsabläufe.
-- Herausforderungen und Erfolge: Meistere Herausforderungen um Belohnungen zu erhalten.
-- Enthält 3 XL Motoren, 4 L Motoren und 2 Bluetooth-gesteuerte Smarthubs.
-- Der App-gesteuerte LEGO Technic Liebherr Bagger R 9800 wird über ein Mobilgerät und 4 verschiedene Kontrollbildschirme gesteuert. Auf LEGO.com/devicecheck kannst du prüfen, ob dein Gerät kompatibel ist.
+- Nachbildung des Liebherr Baggers R 9800 mit einer Reihe realitätsgetreuer Merkmale und Funktionen, abgerundet durch ein authentisches Farbmuster und coole Aufkleber-Details.
 - One-Touch-Steuerung: Wähle auf dem Touch-Bildschirm Befehle aus und sieh dir an, wie der Bagger diese ausführt.
+- Herausforderungen und Erfolge: Meistere Herausforderungen um Belohnungen zu erhalten.
+- Der App-gesteuerte LEGO Technic Liebherr Bagger R 9800 wird über ein Mobilgerät und 4 verschiedene Kontrollbildschirme gesteuert. Auf LEGO.com/devicecheck kannst du prüfen, ob dein Gerät kompatibel ist.
+- Die App ermöglicht es den Nutzern, mehrere Hubs anzuschließen und so präzise und realitätsgetreue Bewegungen ausführen zu können.
+- Der Smarthub verfügt über eine Bluetooth Low Energie (BLE) Verbindung, eine Aktivierungstaste, 6 Achsensensoren (3 Kreiselsensoren und 3 Sensoren für die Beschleunigungsmessung) und 4 Anschlussmöglichkeiten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)
