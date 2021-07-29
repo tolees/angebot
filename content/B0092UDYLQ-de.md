@@ -29,9 +29,9 @@ Es gibt ein [HARIO Kaffeezubereiter  Glas  Holz  2 Tassen](https://www.amazon.de
 ℹ️:
 
 - Ausgezeichnete Wärmeisolierung durch doppelwandiges Glas
-- Sehr edle Stabfilterkanne von Hario
 - Holz- und Lederteile können entfernt werden und sollten nicht in der Spülmaschine gewaschen werden
-- Kein Kunststoff - alle Einzelteile sind entweder aus Stahl, Olivenholz, Leder oder Glas
 - Mit einem Fassungsvermögen von 400ml eignet sie sich für die Zubereitung von Kaffee für 1 bis 2 Personen
+- Sehr edle Stabfilterkanne von Hario
+- Kein Kunststoff - alle Einzelteile sind entweder aus Stahl, Olivenholz, Leder oder Glas
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0092UDYLQ/?tag=tolees0ca-21)
