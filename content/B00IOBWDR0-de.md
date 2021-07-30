@@ -28,8 +28,8 @@ Es gibt ein [Jako Kinder Hose Copa  Schwarz/Weiss  116  9283](https://www.amazon
 
 ℹ️:
 
-- Beinabschluss mit Reißverschluss und Ripp
-- Elastischer Bund mit Kordelzug
 - Seitentaschen mit Reißverschluss
+- Elastischer Bund mit Kordelzug
+- Beinabschluss mit Reißverschluss und Ripp
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00IOBWDR0/?tag=tolees0ca-21)
