@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '17.99 % rabat auf LEGO STAR WARS - Lego 75256 Star Wars Ky'
-date: 2021-07-29 05:24:19
+title: '18.84 % rabat auf LEGO STAR WARS - Lego 75256 Star Wars Ky'
+date: 2021-07-31 05:16:10
 image: 'https://m.media-amazon.com/images/I/51O0YgPeC7S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07ND9TJF6-de LEGO STAR WARS - Lego 75256 Star Wars Kylo Rens Shuttle...'
 sku: 'B07ND9TJF6-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego star wars', ]
-actualPrice: 98.4 EUR
+actualPrice: 97.38 EUR
 currency: EUR
-price: 98.4
+price: 97.38
 comparePrice: 119.99 EUR
 prodname: 'LEGO STAR WARS - Lego 75256 Star Wars Kylo Rens Shuttle  Raumschiff-Bauset mit 2 Spring Shootern  Der Aufstieg Skywalkers Kollektion'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO STAR WARS'
 buyurl: 'https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21'
-descuento: '17.99'
-average: '94.9355172413792'
+descuento: '18.84'
+average: '94.9404655870444'
 ---
 
-Es gibt ein [LEGO STAR WARS - Lego 75256 Star Wars Kylo Rens Shuttle  Raumschiff-Bauset mit 2 Spring Shootern  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21) mit aktuellem Preis 98.4 EUR (original: 119.99 EUR) 17.99 % Rabatt hier:
+Es gibt ein [LEGO STAR WARS - Lego 75256 Star Wars Kylo Rens Shuttle  Raumschiff-Bauset mit 2 Spring Shootern  Der Aufstieg Skywalkers Kollektion](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21) mit aktuellem Preis 97.38 EUR (original: 119.99 EUR) 18.84 % Rabatt hier:
 
 [![LEGO STAR WARS - Lego 75256 Star Wars Ky](https://m.media-amazon.com/images/I/51O0YgPeC7S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21)
 
@@ -30,8 +30,8 @@ Es gibt ein [LEGO STAR WARS - Lego 75256 Star Wars Kylo Rens Shuttle  Raumschiff
 
 - Kylo Rens Shuttle aus dem fantastischen Star-Wars-Universum der Konstruktionsspielzeuge regt Kinder dazu an, tolle LEGO Abenteuer zu erleben
 - Dieses beeindruckende Bauspielzeug enthält 6 LEGO Minifiguren: Kylo Ren mit seinem Lichtschwert, General Pryde, einen Sith-Truppler, einen Sturmtruppler der Ersten Ordnung und 2 Ritter von Ren
-- Spiele actiongeladene Szenen aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nach – mit Kylo Rens Shuttle und weiteren tollen Bauspielzeugen von LEGO Star Wars
 - Mit diesem Spielzeug von LEGO Star Wars können Jungen und Mädchen ab 10 Jahren Abenteuer erleben
 - Unter anderem weist es klappbare Flügel, ein Cockpit mit Platz für 3 Minifiguren sowie 2 Shooter auf. Mit ausgeklappten Flügeln ist dieses 1.005-teilige Set 35 cm hoch, 21 cm lang, 50 cm breit
+- Spiele actiongeladene Szenen aus dem Blockbuster Star Wars: Der Aufstieg Skywalkers nach – mit Kylo Rens Shuttle und weiteren tollen Bauspielzeugen von LEGO Star Wars
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND9TJF6/?tag=tolees0ca-21)
