@@ -28,12 +28,12 @@ Sie können [LEGO 60254 City Rennboot-Transporter LKW-Spielzeug mit Anhän
 
 ℹ️:
 
+- Das LEGO City Spielset „Rennboot-Transporter“ (60254) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Rollenspiele und Modellfahrzeuge lieben.
+- Kinder werden von dem coolen Lastwagen mit Kabine, aufklappbaren Türen, abnehmbarem Dach und Transportsicherungen begeistert sein. Das rasante Rennboot hat ein aufklappbares Cockpit für den Piloten des Xtreme-Rennteams – und es schwimmt!
+- Mit aufgeladenem Rennboot ist der Transporter 9 cm hoch, 36 cm lang und 6 cm breit. Das Rennboot selbst ist 6 cm hoch, 24 cm lang und 6 cm breit.
 - Dieses Bauset enthält einen Lastwagen mit Auflieger und ein schwimmendes Rennboot sowie einen Lkw-Fahrer und einen Piloten als Minifiguren. Es ist also alles vorhanden, um ein Kind kreativ und selbstständig spielen zu lassen.
 - Ein cooles Bauset für actionbegeisterte Kinder, die Bauspielzeug mögen. Das LEGO City Set „Rennboot-Transporter“ enthält einen coolen Lastwagen und ein schwimmendes Boot. Der Actionspaß beginnt bereits mit dem Öffnen der Box.
 - Batterien werden nicht benötigt. Als Antrieb reicht diesem schwimmenden Rennboot die Fantasie kleiner Kinder!
-- Kinder werden von dem coolen Lastwagen mit Kabine, aufklappbaren Türen, abnehmbarem Dach und Transportsicherungen begeistert sein. Das rasante Rennboot hat ein aufklappbares Cockpit für den Piloten des Xtreme-Rennteams – und es schwimmt!
-- Mit aufgeladenem Rennboot ist der Transporter 9 cm hoch, 36 cm lang und 6 cm breit. Das Rennboot selbst ist 6 cm hoch, 24 cm lang und 6 cm breit.
-- Das LEGO City Spielset „Rennboot-Transporter“ (60254) ist ein tolles Geschenk zu Weihnachten, zum Geburtstag oder zu anderen Anlässen – und zwar für Jungen und Mädchen ab 5 Jahren, die Rollenspiele und Modellfahrzeuge lieben.
 - Dem Set liegt eine einfache gedruckte Bauanleitung bei. Online können aber auch Instructions PLUS heruntergeladen werden, die Teil der kostenlose LEGO Life App sind. Diese interaktive Bauanleitung mit Funktionen zum Vergrößern, Drehen und näheren Betrachten der digitalen Modellansicht macht das Bauen zum Kinderspiel.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WLMSVCV/?tag=tolees0ca-21)

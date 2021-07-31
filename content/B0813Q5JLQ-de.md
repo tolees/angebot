@@ -29,8 +29,8 @@ Sie können [LEGO 76152 Super Heroes Marvel 4+ Avengers – Lokis Rache Set  Sup
 ℹ️:
 
 - Dieses coole Set enthält jede Menge witzige Funktionen und starke Zubehörelemente für ein fantasievolles Spielerlebnis und spannende Superhelden-Action. Deshalb eignet es sich ideal als Weihnachts- oder Geburtstagsgeschenk für Kinder ab 4 Jahren
-- Der Avengers Tower aus dem Spielset ist 16 cm hoch. Das Bauspielzeug zum Sammeln inspiriert zu aufregenden Superhelden-Abenteuern und erweist sich nach dem Actionvergnügen als ein spektakuläres Schaustück in jedem Kinderzimmer
 - Das LEGO Marvel Avengers Set inspiriert zu fantasievollen Rollenspielen und kreativem Denken, denn es lässt Kinder mit den Superhelden Minifiguren und den coolen Fahrzeugen unendliche Spielmöglichkeiten in einer faszinierenden Kulisse entdecken
+- Der Avengers Tower aus dem Spielset ist 16 cm hoch. Das Bauspielzeug zum Sammeln inspiriert zu aufregenden Superhelden-Abenteuern und erweist sich nach dem Actionvergnügen als ein spektakuläres Schaustück in jedem Kinderzimmer
 - Mit den Minifiguren Iron Man, Thor, Hulk, Captain Marvel und Loki sowie mit dem Avengers Tower, dem Quinjet und Lokis Gleiter können Kinder Szenen aus Marvel-Filmen nachstellen und sich eigene actionreiche Superheldengeschichten ausdenken
 - LEGO 4+ Sets enthalten einen speziellen Starterstein, um Kinder sofort mit dem Bauen beginnen zu lassen. Beim Bauen gewinnen sie Selbstvertrauen und entdecken ein Universum voller fantastischer Figuren und kreativer Spielmöglichkeiten
 
