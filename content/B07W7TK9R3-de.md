@@ -29,14 +29,14 @@ Sie können [LEGO 10915 DUPLO Mein erster ABC-Lastwagen  Spielzeug für Kleinkin
 ℹ️:
 
 - Nach dem Öffnen der Box kann das Bauen, Spielen und Lernen sofort beginnen. Eine einfache Bauanleitung liefert Eltern und Kleinkindern tolle Ideen für sofortigen Bau- und Spielspaß
-- Die 26 kleinkindgerechten Steine stellen alle Buchstaben des Alphabets dar und können auf den Lkw geladen werden. Ein Junge, ein Mädchen und ein Teddybär ermöglichen außerdem viele fantasievolle Rollenspiele
-- Regt Kleinkinder im Vorschulalter zum kreativen Spielen und zur freien Selbstentfaltung an. Mit den vertrauten Kulissen, witzigen Figuren und kindgerechten Teilen erweisen sich LEGO DUPLO Lernsets als tolles entwicklungsförderndes Spielzeug
 - Dieses Lernspielzeug mit Buchstabensteinen lässt Kleinkinder das ABC erlernen. Dieses vielseitige Geschenk für Kleinkinder inspiriert zum kreativen Bauen, fantasievollen Spielen und zum Erlernen des ABC mit dem coolen Lkw!
-- Die niedlichen Figuren und die bunten kindgerechten Steine machen dieses Lernspielzeug zu einem tollen Geschenk für Jungen und Mädchen ab 18 Monaten – zu Weihnachten, zum Geburtstag und zu anderen Anlässen
+- Als Antrieb für den LEGO DUPLO ABC-Lastwagen reicht die Fantasie der Kleinkinder. Mit diesem Spielzeug ohne Batterie können Kleinkinder aktiv und kreativ spielen und dabei ihre räumliche Wahrnehmung und ihre Feinmotorik verbessern
 - Der Lkw ist 12 cm hoch und 7 cm lang und ermöglicht mit den großen Buchstaben das spielerische Erlernen des ABC. Zusätzlich lässt sich dieses Set perfekt mit anderen LEGO DUPLO Sets kombinieren
+- Bei der LEGO Gruppe werden die LEGO DUPLO Steine und Elemente strengen Fall-, Druck-, Torsions-, Hitze-, Biss-, Biege-, Kratz- und Zugtests unterzogen, damit jedes Bauset die höchsten globalen Sicherheits- und Qualitätsstandards erfüllt
+- Die niedlichen Figuren und die bunten kindgerechten Steine machen dieses Lernspielzeug zu einem tollen Geschenk für Jungen und Mädchen ab 18 Monaten – zu Weihnachten, zum Geburtstag und zu anderen Anlässen
+- Regt Kleinkinder im Vorschulalter zum kreativen Spielen und zur freien Selbstentfaltung an. Mit den vertrauten Kulissen, witzigen Figuren und kindgerechten Teilen erweisen sich LEGO DUPLO Lernsets als tolles entwicklungsförderndes Spielzeug
 - Wenn Kleinkinder die Buchstaben auf den Lkw stapeln, verbessern sie ihre Feinmotorik. Dabei lernen sie auch die wichtigsten Buchstaben des Alphabets kennen und können bald einfache Wörter buchstabieren!
 - LEGO DUPLO Spielsets erfüllen die höchsten Branchenstandards und stellen sicher, dass kleine Finger die Steine leicht greifen, zusammenstecken und wieder trennen können – und das schon seit 1969!
-- Bei der LEGO Gruppe werden die LEGO DUPLO Steine und Elemente strengen Fall-, Druck-, Torsions-, Hitze-, Biss-, Biege-, Kratz- und Zugtests unterzogen, damit jedes Bauset die höchsten globalen Sicherheits- und Qualitätsstandards erfüllt
-- Als Antrieb für den LEGO DUPLO ABC-Lastwagen reicht die Fantasie der Kleinkinder. Mit diesem Spielzeug ohne Batterie können Kleinkinder aktiv und kreativ spielen und dabei ihre räumliche Wahrnehmung und ihre Feinmotorik verbessern
+- Die 26 kleinkindgerechten Steine stellen alle Buchstaben des Alphabets dar und können auf den Lkw geladen werden. Ein Junge, ein Mädchen und ein Teddybär ermöglichen außerdem viele fantasievolle Rollenspiele
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W7TK9R3/?tag=tolees0ca-21)
