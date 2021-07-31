@@ -28,9 +28,9 @@ Sie können [LLOYD Herren Osmond Derbys  Schwarz  Schwarz   40.5 EU](https://www
 
 ℹ️:
 
-- material: Obermaterial: Glattleder , Innenmaterial: Leder und Textil , Sohle: Gummi
-- Leder und Textil
-- Glattleder
 - closing: keine Angabe
+- Glattleder
+- Leder und Textil
+- material: Obermaterial: Glattleder , Innenmaterial: Leder und Textil , Sohle: Gummi
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XRR9YLH/?tag=tolees0ca-21)
