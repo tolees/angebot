@@ -28,9 +28,9 @@ Sie können [Dickie Toys 203153002 Toy Story Flying Buzz  fliegender Buzz Lighty
 
 ℹ️:
 
-- Diese einmalige Spielidee mit vielen Erlebnisfaktoren zur Physik und der Fliegerei kann bereits von Kindern ab vier Jahren bedient werden.
-- Die liebevoll gestaltete Figur mit Kabelfernsteuerung fliegt auf Knopfdruck auf und ab.
-- Toy Story Flying Buzz: schwerelos zur Unendlichkeit Fan-Liebling Buzz Lightyear aus der Toy-Story-Reihe hat immer den gleichen Traum: bis zur Unendlichkeit fliegen.
 - Der Toy Story Flying Buzz von Dickie Toys kommt diesem Traum im Kinderzimmer ziemlich nahe.
+- Toy Story Flying Buzz: schwerelos zur Unendlichkeit Fan-Liebling Buzz Lightyear aus der Toy-Story-Reihe hat immer den gleichen Traum: bis zur Unendlichkeit fliegen.
+- Die liebevoll gestaltete Figur mit Kabelfernsteuerung fliegt auf Knopfdruck auf und ab.
+- Diese einmalige Spielidee mit vielen Erlebnisfaktoren zur Physik und der Fliegerei kann bereits von Kindern ab vier Jahren bedient werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QJC97DY/?tag=tolees0ca-21)
