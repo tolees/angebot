@@ -30,8 +30,8 @@ Sie können [Bosch Home and Garden - Bosch elektrisches Farbsprühsystem PFS 500
 
 - 1000 ml
 - Die vielseitige Farb- und Lackierpistole PFS 5000 E ermöglicht es schneller und einfacher zu lackieren, lasieren und streichen als mit Pinsel und Farbrolle
-- für Bosch Feinsprühsysteme PFS 3000-2 und PFS 5000E
-- Gleichbleibende Farbversorgung der Spritzpistole mit bis zu 500ml/min auch bei Arbeiten über Kopf oder in Bodennähe
 - Einfache und angenehme Anwendung dank Rollen und An/Aus Schalter mit Fußbedienfunktion direkt am Gerät
+- Gleichbleibende Farbversorgung der Spritzpistole mit bis zu 500ml/min auch bei Arbeiten über Kopf oder in Bodennähe
+- für Bosch Feinsprühsysteme PFS 3000-2 und PFS 5000E
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0842RP1QG/?tag=tolees0ca-21)
