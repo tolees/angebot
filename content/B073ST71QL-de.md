@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Walt Disney - Die Schöne und das Biest   mit 25.03 % Rabatt'
-date: 2021-07-30 16:13:21
+title: 'Walt Disney - Die Schöne und das Biest   mit 26.28 % Rabatt'
+date: 2021-07-31 22:47:53
 image: 'https://m.media-amazon.com/images/I/51eOIfyzqyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B073ST71QL-de Walt Disney - Die Schöne und das Biest Disney Classics'
 sku: 'B073ST71QL-de'
 tags: [ 'DVD & Blu-ray','Featured Categories','Filme','Kinder & Familie','Zeichentrick','walt disney', ]
-actualPrice: 5.99 EUR
+actualPrice: 5.89 EUR
 currency: EUR
-price: 5.99
+price: 5.89
 comparePrice: 7.99 EUR
 prodname: 'Walt Disney - Die Schöne und das Biest  Disney Classics '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B073ST71QL/?tag=tolees0ca-21'
-descuento: '25.03'
-average: '5.99'
+descuento: '26.28'
+average: '5.94'
 ---
 
-Sie können [Walt Disney - Die Schöne und das Biest  Disney Classics ](https://www.amazon.de/dp/B073ST71QL/?tag=tolees0ca-21) mit Preis 5.99 EUR (original: 7.99 EUR) 25.03 % Rabatt hier:
+Sie können [Walt Disney - Die Schöne und das Biest  Disney Classics ](https://www.amazon.de/dp/B073ST71QL/?tag=tolees0ca-21) mit Preis 5.89 EUR (original: 7.99 EUR) 26.28 % Rabatt hier:
 
 [![Walt Disney - Die Schöne und das Biest  ](https://m.media-amazon.com/images/I/51eOIfyzqyL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B073ST71QL/?tag=tolees0ca-21)
 
