@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.92 % rabat auf Sony Pictures Home Entertainment - The B'
-date: 2021-07-31 22:58:01
+date: 2021-08-02 10:42:58
 image: 'https://m.media-amazon.com/images/I/51zFnM00U0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B089TNV7B8/?tag=tolees0ca-21'
 descuento: '23.92'
-average: '24.985'
+average: '23.182'
 ---
 
 Es gibt ein [Sony Pictures Home Entertainment - The Blacklist - Die komplette siebte Season [Blu-ray]](https://www.amazon.de/dp/B089TNV7B8/?tag=tolees0ca-21) mit aktuellem Preis 15.97 EUR (original: 20.99 EUR) 23.92 % Rabatt hier:
