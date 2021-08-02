@@ -28,10 +28,10 @@ Sie können [PJ Masks - Deluxe Gatauto Kätzchen  Bandai 24621 ](https://www.ama
 
 ℹ️:
 
+- Sammeln Sie sie alle.
+- Ihre Scheinwerfer leuchten
 - Ihr Schwanz bewegt sich wie in der Serie
 - Mit Musik aus der Serie (internationale Version)
 - Inklusive Gekko-Figur, 7,5 cm.
-- Ihre Scheinwerfer leuchten
-- Sammeln Sie sie alle.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LZ8X3VI/?tag=tolees0ca-21)

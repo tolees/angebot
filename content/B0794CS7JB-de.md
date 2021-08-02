@@ -28,10 +28,10 @@ Sie können [Tether Tools USB-C auf 3.0 Micro-B 4 60m orange](https://www.amazon
 
 ℹ️:
 
-- Stabiler, robuster Sockel bietet sichere Montage der Tether Tabellen, Monitoren, Leuchten und andere Werkzeuge
-- Angebot ist für einen Stand. Tisch und Computer separat erhältlich.
 - Einstellbar für niedrige oder hohe Taille, um Overhead zu unterstützen (min. Höhe 37.5 & # x2033; (0.95 m)/max. 71 & # x2033; (1.8 m)
 - Zusammenklappbare Beine für schnelle und einfache Lagerung und Transport.
+- Angebot ist für einen Stand. Tisch und Computer separat erhältlich.
 - Glatte Rollrollen machen diese Studio-Halterung mobil
+- Stabiler, robuster Sockel bietet sichere Montage der Tether Tabellen, Monitoren, Leuchten und andere Werkzeuge
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0794CS7JB/?tag=tolees0ca-21)

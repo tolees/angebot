@@ -29,9 +29,9 @@ Sie können [BED HEAD by TIGI - TIGI Manipulator Styling-Creme  1er Pack  57 g](
 ℹ️:
 
 - Für alle Haarlängen und -texturen
-- Flexibel und wasserlöslich
-- Maximale Definition und Textur mit einem halbmatten Finish
 - Separation und Bändigung fliegender Haare
+- Flexibel und wasserlöslich
 - Texturgebende Styling-Creme
+- Maximale Definition und Textur mit einem halbmatten Finish
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0015PGFQW/?tag=tolees0ca-21)

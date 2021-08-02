@@ -28,10 +28,10 @@ Sie können [Metabo Akku-Bohrmaschine BE 18 LTX 6  600261840  18V ; MetaLoc  Akk
 
 ℹ️:
 
-- Integriertes Arbeitslicht zum Ausleuchten der Arbeitsstelle
-- Lieferumfang: Schnellspannbohrfutter Futuro Plus mit Metallhülse, Maulschlüssel, MetaLoc Koffer, ohne Akkupack, ohne Ladegerät
 - Robustes Aluminiumdruckguss-Getriebegehäuse für optimale Wärmeableitung und Langlebigkeit
+- Lieferumfang: Schnellspannbohrfutter Futuro Plus mit Metallhülse, Maulschlüssel, MetaLoc Koffer, ohne Akkupack, ohne Ladegerät
 - Schnelldrehende Akku-Bohrmaschine mit handlicher Bauform und hoher Präzision zum Bohren in Metall
+- Integriertes Arbeitslicht zum Ausleuchten der Arbeitsstelle
 - Spannhals (Ø 43 mm) für vielfältigen Einsatz
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00YH9LYSC/?tag=tolees0ca-21)

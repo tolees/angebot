@@ -28,10 +28,10 @@ Sie können [Zéfal Unisex – Erwachsene Adventure R11 Satteltasche  schwarz  
 
 ℹ️:
 
-- Fassungsvermögen: 11 Liter
+- Maße: 560 x 150 x 170 mm
+- Universelle Montage
 - Gewicht: 520 g.
 - Wasserdichtes Material
-- Universelle Montage
-- Maße: 560 x 150 x 170 mm
+- Fassungsvermögen: 11 Liter
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GWF1THK/?tag=tolees0ca-21)

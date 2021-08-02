@@ -30,7 +30,7 @@ Es gibt ein [Autosol 11 001800 Aluminium Kraftreiniger  500 ml](https://www.amaz
 
 - Lieferant namhafter Automobilhersteller
 - regelmäßige Testsiege, überzeugen Sie sich selbst
-- natürliche Inhaltsstoffe für umweltgerechte Autopflege
 - mehr als 80 Jahre Erfahrung - garantierte Qualität
+- natürliche Inhaltsstoffe für umweltgerechte Autopflege
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001DIF6MA/?tag=tolees0ca-21)
