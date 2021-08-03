@@ -29,12 +29,12 @@ Es gibt ein [LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen  App-ges
 ℹ️:
 
 - Benutzerdefinierte Bewegungen: Verwende voreingestellte Kommandos oder speichere die Aktionen, die der Bagger ausführt, für noch komplexere Bewegungsabläufe
-- Multifunktionale Steuerung: Fahre vor und zurück, lenke, rotiere den Aufbau, hebe und senke den ausfahrbaren Ausleger, öffne und kippe die Schaufel und erhalte eine Rückmeldung über das Modell, z. B. über die Position von Ausleger und Aufbau, Stromverbrauch und Entfernung
-- Für ein fesselndes und realistisches Spielerlebnis sowie stundenlangen Spaß ist das Bagger-Modell mit der LEGO TECHNIC CONTROL+ App kombinierbar
-- Herausforderungen und Erfolge: Meistere Herausforderungen um Belohnungen zu erhalten
 - Enthält 3 XL Motoren, 4 L Motoren und 2 Bluetooth-gesteuerte Smarthubs
+- Für ein fesselndes und realistisches Spielerlebnis sowie stundenlangen Spaß ist das Bagger-Modell mit der LEGO TECHNIC CONTROL+ App kombinierbar
+- Der App-gesteuerte LEGO Technic Liebherr Bagger R 9800 wird über ein Mobilgerät und 4 verschiedene Kontrollbildschirme gesteuert. Auf LEGO.com/devicecheck kannst du prüfen, ob dein Gerät kompatibel ist
+- Herausforderungen und Erfolge: Meistere Herausforderungen um Belohnungen zu erhalten
 - One-Touch-Steuerung: Wähle auf dem Touch-Bildschirm Befehle aus und sieh dir an, wie der Bagger diese ausführt
 - Nachbildung des Liebherr Baggers R 9800 mit einer Reihe realitätsgetreuer Merkmale und Funktionen, abgerundet durch ein authentisches Farbmuster und coole Aufkleber-Details
-- Der App-gesteuerte LEGO Technic Liebherr Bagger R 9800 wird über ein Mobilgerät und 4 verschiedene Kontrollbildschirme gesteuert. Auf LEGO.com/devicecheck kannst du prüfen, ob dein Gerät kompatibel ist
+- Multifunktionale Steuerung: Fahre vor und zurück, lenke, rotiere den Aufbau, hebe und senke den ausfahrbaren Ausleger, öffne und kippe die Schaufel und erhalte eine Rückmeldung über das Modell, z. B. über die Position von Ausleger und Aufbau, Stromverbrauch und Entfernung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)

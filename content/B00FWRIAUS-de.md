@@ -28,8 +28,8 @@ Es gibt ein [LEUCHTTURM1917 344809 Notizbuch Medium  A5   Hardcover  251 nummeri
 
 ℹ️:
 
-- von LEUCHTTURM1917
 - Notizbuch Hardcover A5, Maße: 145 x 210 mm
+- von LEUCHTTURM1917
 - 251 nummerierte Seiten, Fadenheftung, Index, 2 Lesezeichen, Gummibandverschluss, erweiterbare Tasche, Aufkleber, säurefreies Papier, hochwertiges tintenfestes Papier 80 g/qm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00FWRIAUS/?tag=tolees0ca-21)
