@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.68 % rabat auf Universum Film - The Quest - Die Serie -'
-date: 2021-08-03 01:36:16
+date: 2021-08-04 09:54:11
 image: 'https://m.media-amazon.com/images/I/51yhHJZzbeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
