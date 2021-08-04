@@ -29,9 +29,9 @@ Sie können [Axing TVS 16-00 6 fach Verteilverstärker für kleine BK  Kabelfern
 ℹ️:
 
 - Integrierter 6-Wege-Verteiler zum Anschluss von 6 Endgeräten (z.B. Fernseher, Kabelreceiver, Radio)
-- Verstärkung 6 x 10 dB (max. 93 dBµV), Eingang IEC-Buchse, Ausgänge IEC-Stecker
 - Lieferumfang: Verteilverstärker
 - Verstärker für kleinere Antennenanlagen 47…862 MHz (UKW, DAB+, DVB-T, DVB-T2) oder BK-Netze / Kabelfernsehen (DVB-C)
 - Eingebautes Netzteil mit LED-Betriebsanzeige (Leistungsaufnahme 2,3 W), zum direkten Aufstecken auf die Netzsteckdose
+- Verstärkung 6 x 10 dB (max. 93 dBµV), Eingang IEC-Buchse, Ausgänge IEC-Stecker
 
 [🛒 Hier!!](https://www.amazon.de/dp/B002PWO9AI/?tag=tolees0ca-21)
