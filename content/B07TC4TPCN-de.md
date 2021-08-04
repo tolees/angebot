@@ -30,8 +30,8 @@ Es gibt ein [Corsair Vengeance RGB Pro 16GB  2x8GB  3600MHz C18 - Black](https:/
 
 - Eine speziell entwickelte Platine ermöglicht höchste Signalqualität für optimale Leistung und Zuverlässigkeit
 - Für Spitzenleistung auf den Intel- und AMD-DDR4-Mainboards optimiert. Sorgfältig geprüfte Speicherchips sorgen für ein hohes Übertaktungspotenzial
+- Mit der Corsair iCUE-Software kontrollieren und synchronisieren Sie die 10 individuell ansteuerbaren, leuchtstarken RGB-LEDs pro Modul mit anderen Corsair RGB-Produkten, einschließlich CPU-Kühler, Tastaturen und Lüfter
 - Vengeance RGB Pro wird unterstützt von Gigabyte RGB Fusion und MSI Mystic Light
 - Kommt ohne zusätzliche Kabel und Leitungen aus und ermöglicht dadurch eine ordentliche und saubere Installation.Spd-latenz 15-15-15-36
-- Mit der Corsair iCUE-Software kontrollieren und synchronisieren Sie die 10 individuell ansteuerbaren, leuchtstarken RGB-LEDs pro Modul mit anderen Corsair RGB-Produkten, einschließlich CPU-Kühler, Tastaturen und Lüfter
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07TC4TPCN/?tag=tolees0ca-21)
