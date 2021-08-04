@@ -28,10 +28,10 @@ Sie können [SodaStream Sirup Pepsi Max - 1x Flasche ergibt 9 Liter Fertiggeträ
 
 ℹ️:
 
-- EINFACHE DOSIERUNG: 1 Teil Sirup + 19 Teile Wasser im Glas oder in der Flasche mischen Praktische Dosierkappe mit Linien für 0,5 L und 1 L Getränk
 - LIEFERUMFANG: 1x SodaStream Getränkesirup Pepsi Max 440ml
-- NIE MEHR SCHLEPPEN: 1 Flasche Sirup ergibt bis zu 9 Liter Fertiggetränk - Kein Flaschenpfand - kein Leergut - weniger Plastikmüll! (1 Flasche Sirup ersetzt bis zu 9 Pfandflaschen)
+- EINFACHE DOSIERUNG: 1 Teil Sirup + 19 Teile Wasser im Glas oder in der Flasche mischen Praktische Dosierkappe mit Linien für 0,5 L und 1 L Getränk
 - EINFACH SPRUDELN - FRISCH GENIESSEN: Geniessen Sie Ihr Lieblingsgetränk immer frisch und selbst gesprudelt !
 - ORIGINAL TASTE: Original Pepsi Max mit selbst gesprudeltem oder Mineralwasser kinderleicht zu mischen - immer frisch genießen
+- NIE MEHR SCHLEPPEN: 1 Flasche Sirup ergibt bis zu 9 Liter Fertiggetränk - Kein Flaschenpfand - kein Leergut - weniger Plastikmüll! (1 Flasche Sirup ersetzt bis zu 9 Pfandflaschen)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084GPXJ47/?tag=tolees0ca-21)

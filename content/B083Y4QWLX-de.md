@@ -28,9 +28,9 @@ Es gibt ein [WRIGLEY S EXTRA Professional White | Zuckerfrei | Eine Dose  1 x 50
 
 ℹ️:
 
-- Zuckerfreier Kaugummi zur Zahnpflege
 - Für weissere Zähne
-- Bekämpft eine Karies-Ursache
 - Unterstützt die Neutralisierung der plaquesäuren, die ein Risikofaktor bei der Entstehung von Zahnkaries sind
+- Zuckerfreier Kaugummi zur Zahnpflege
+- Bekämpft eine Karies-Ursache
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B083Y4QWLX/?tag=tolees0ca-21)
