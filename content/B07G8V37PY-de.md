@@ -28,11 +28,11 @@ Sie können [Amazon Basics - Spannbetttuch  Jersey  Hellblau - 160 x 200 cm](htt
 
 ℹ️:
 
-- Größe: 160 x 200 cm
-- Spannbetttuch aus 100 % Baumwolljersey
-- Hergestellt in einer OEKO-TEX Standard 100 Fabrik: einem unabhängigen Zertifizierungssystem, das sicherstellt, dass Textilien hohe Sicherheits- und Umweltstandards erfüllen
-- Weiches, angenehmes Material; atmungsaktiv
 - Maschinenwaschbar bei 60 °C sowie trocknergeeignet auf niedriger Stufe
+- Größe: 160 x 200 cm
+- Weiches, angenehmes Material; atmungsaktiv
+- Spannbetttuch aus 100 % Baumwolljersey
 - 100 % gekämmte Baumwolle und feine Webung (150 g/m²)
+- Hergestellt in einer OEKO-TEX Standard 100 Fabrik: einem unabhängigen Zertifizierungssystem, das sicherstellt, dass Textilien hohe Sicherheits- und Umweltstandards erfüllen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07G8V37PY/?tag=tolees0ca-21)

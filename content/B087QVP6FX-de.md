@@ -28,8 +28,8 @@ Es gibt ein [Levi s Herren 514 Straight Jeans  Florida Light Mid LTWT  33W / 34L
 
 ℹ️:
 
-- 96% Baumwolle, 2% Elasthan, 2% Polyester
-- Verschluss: Knopfleiste
 - Jeans mit klassisch gerader Passform
+- Verschluss: Knopfleiste
+- 96% Baumwolle, 2% Elasthan, 2% Polyester
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B087QVP6FX/?tag=tolees0ca-21)

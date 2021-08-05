@@ -28,10 +28,10 @@ Es gibt ein [Exustar E-PM222Ti Klickpedal  CNC-aluminiumkörper Und Cnc-6a4v-tit
 
 ℹ️:
 
-- Mit Industriekugellagern und selbst schmierenden Nadellagern
 - Nur 259 g/Paar, mit austauschbarer Staubkappe, max. Fahrergewicht 85 kg
 - CNC-gefräster Aluminiumkörper - hervorragende Haltbarkeit durch austauschbare Stahl-Schutzauflagen
 - Gedichtete, massive CNC-gefräste 6A4V-Titanium-Achse - sehr leichter Lauf und hohe Verschleißfestigkeit
 - Sehr gute Einstellbarkeit der Auslösehärte durch CrMo-Klickmechanismus
+- Mit Industriekugellagern und selbst schmierenden Nadellagern
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00OJWVZWC/?tag=tolees0ca-21)
