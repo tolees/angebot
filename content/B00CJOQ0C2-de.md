@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.25 % rabat auf LEONINE Distribution GmbH - Astrid Lindg'
-date: 2021-08-04 22:48:16
+date: 2021-08-06 17:15:20
 image: 'https://m.media-amazon.com/images/I/51P8xXqqZQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
