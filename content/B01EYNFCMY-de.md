@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Biosolis Bio Sonnencreme Spray LSF 50+   mit 16.55 % Rabatt'
-date: 2021-08-04 21:59:57
+date: 2021-08-06 06:40:00
 image: 'https://m.media-amazon.com/images/I/31+iWra9D9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
