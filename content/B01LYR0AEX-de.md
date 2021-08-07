@@ -28,9 +28,9 @@ Es gibt ein [GoPro Akku für HERO7 Black  HERO6 Black  HERO5 Black oder HERO 201
 
 ℹ️:
 
-- Zusatz- oder Ersatzakku für deine GoPro
-- 1220-mAh-Lithium-Ionen-Akku
-- Offizielles GoPro-Zubehör
 - Kompatibilität: HERO7 Black, HERO6 Black, HERO5 Black, HERO (2018)
+- Zusatz- oder Ersatzakku für deine GoPro
+- Offizielles GoPro-Zubehör
+- 1220-mAh-Lithium-Ionen-Akku
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01LYR0AEX/?tag=tolees0ca-21)

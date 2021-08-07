@@ -28,8 +28,8 @@ Es gibt ein [Hummel Unisex Slimmer Stadil High-Top  White/Blue/Red/Gum  40 EU](h
 
 ℹ️:
 
-- High-top
-- Hummel
 - Herren
+- Hummel
+- High-top
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00FLR4XDM/?tag=tolees0ca-21)

@@ -29,7 +29,7 @@ Sie können [M + R - M+R 706010000 Spitzer Pollux einfach Messing Geschenkverpac
 ℹ️:
 
 - konkave Spitze
-- aus Messing
 - Geschenkverpackung
+- aus Messing
 
 [🛒 Hier!!](https://www.amazon.de/dp/B071GNXLBC/?tag=tolees0ca-21)

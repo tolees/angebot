@@ -28,12 +28,12 @@ Es gibt ein [Steinel Klebesticks Ultra Power  7 mm Durchmesser  40 Sticks  240g 
 
 ℹ️:
 
-- Wiederverschließbarer Easy-Pack mit 40 Klebesticks á 150 mm Länge
-- Geeignet für Steinel Akku-Heiklebestift neo1 und Akku-Heißklebepistole neo2
 - Der Kleber ist Lösemittelfrei und somit ungiftig
+- Wiederverschließbarer Easy-Pack mit 40 Klebesticks á 150 mm Länge
 - Hält nach 10 Sekunden, belastbar schon nach 2 Minuten
-- Mit Heißluft wieder problemlos ablösbar
 - Steinel Klebesticks Ø 7 mm ULTRA Power - Ideal zum Basteln, Heimwerken, Modellbau
 - Besonders kraftvoller Universalklebstoff für die Verklebung von verschiedenen Materialien
+- Mit Heißluft wieder problemlos ablösbar
+- Geeignet für Steinel Akku-Heiklebestift neo1 und Akku-Heißklebepistole neo2
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00KPSFCY6/?tag=tolees0ca-21)
