@@ -29,10 +29,10 @@ Sie können [Airwaves Kaugummi | Menthol & Eucalyptus | Blau  zuckerfrei | 6 Dos
 ℹ️:
 
 - Zuckerfreier Kaugummi
-- Das original starke Geschmackserlebnis für den einzigartigen Airwaves Frische-Kick.
 - Zuckerfreier Kaugummi
 - Für noch mehr Frische und besonders lang anhaltenden Geschmack
-- Für noch mehr Frische und besonders lang anhaltenden Geschmack
+- Das original starke Geschmackserlebnis für den einzigartigen Airwaves Frische-Kick.
 - Der Frische-Kick mit Menthol Geschmack
+- Für noch mehr Frische und besonders lang anhaltenden Geschmack
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07C9QR83N/?tag=tolees0ca-21)

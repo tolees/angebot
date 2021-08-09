@@ -28,10 +28,10 @@ Es gibt ein [Famex Werkzeuge - Famex 10672 Spezial Gelenk-Drehgriff extra lang  
 
 ℹ️:
 
-- Gelenkkopf aus spezieller Chrom-Molybdän-Legierung, Griff aus Chrom-Vanadium-Stahl, über Nickel verchromt matt
-- High-End Qualität für den gewerblichen Einsatz
 - Spezielle Ausführung für besonders hohe Drehmomente bis ca. 770 Nm
-- 1/2"-Antrieb, Grifflänge 600 mm
+- High-End Qualität für den gewerblichen Einsatz
 - ideal z.B. für Radschrauben von Vans oder Kleintransportern oder für andere festsitende Verschraubungen
+- Gelenkkopf aus spezieller Chrom-Molybdän-Legierung, Griff aus Chrom-Vanadium-Stahl, über Nickel verchromt matt
+- 1/2"-Antrieb, Grifflänge 600 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000NRUZFK/?tag=tolees0ca-21)

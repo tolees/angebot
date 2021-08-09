@@ -28,8 +28,8 @@ Es gibt ein [Lee Herren Slim Jeanshose DAREN  Blau  RINSE 36   W32 / 32L](https:
 
 ℹ️:
 
-- 5 Taschen
-- Herren Jeans
 - Sie haben ein Leder-Patch auf der Rückseite mit dem Markenlogo Lee.
+- Herren Jeans
+- 5 Taschen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00GMEP3Y6/?tag=tolees0ca-21)

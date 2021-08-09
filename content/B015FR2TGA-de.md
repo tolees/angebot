@@ -29,9 +29,9 @@ Es gibt ein [Tassimo Kapseln Jacobs Typ Latte Macchiato Caramel  40 Kaffeekapsel
 ℹ️:
 
 - Einfache Zubereitung - Zuerst die Milchkomposition T DISC schütteln und verwenden, dann die Espresso T DISC einlegen, Knopf drücken und genießen
-- Sie haben Ihre Lieblingssorte gefunden? Dann empfehlen wir Ihnen das Amazon Spar-Abo für Tassimo. Ohne Verpflichtung erhalten Sie regelmäßig und portofrei Ihre T DISCs.
 - Jacobs Latte Macchiato caramel - verführerische Komposition in drei eindrucksvollen Schichten
 - Lieferumfang 5 Packungen à 268 g
+- Sie haben Ihre Lieblingssorte gefunden? Dann empfehlen wir Ihnen das Amazon Spar-Abo für Tassimo. Ohne Verpflichtung erhalten Sie regelmäßig und portofrei Ihre T DISCs.
 - Milchkomposition mit Karamellgeschmack, Espresso und feinem Schaum
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B015FR2TGA/?tag=tolees0ca-21)
