@@ -29,8 +29,8 @@ Es gibt ein [Connex Schraubendrehersatz Sortiert 6-teilig  COX310206](https://ww
 ℹ️:
 
 - Klinge aus Chrom-Vanadium-Molybdän-Stahl
-- Mehr-Komponentengriff
-- Abrutschschutz
 - Ergonomische Griffform
+- Abrutschschutz
+- Mehr-Komponentengriff
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00L44EUG6/?tag=tolees0ca-21)

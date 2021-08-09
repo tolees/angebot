@@ -28,10 +28,10 @@ Es gibt ein [SanDisk Ultra 64GB USB-Flash-Laufwerk USB 3.0 bis zu 130MB/s](https
 
 ℹ️:
 
-- Passwort- und Verschlüsselungsschutz für private Dateien mit der SanDisk SecureAccess Software
-- Übertragungsgeschwindigkeiten von bis zu 130MB/Sek; Verfügbare Kapazitäten: 16GB, 32GB, 64GB und 128GB
 - USB-3.0-fähig (USB-2.0-kompatibel)- Bis zu 10 Mal schneller als Standard USB 2.0
-- Übertragen von Spielfilmen in voller Länge in weniger als 40 Sekunden
+- Passwort- und Verschlüsselungsschutz für private Dateien mit der SanDisk SecureAccess Software
 - Lieferumfang: SanDisk Ultra 64GB USB Flash Drive USB 3.0 up to 130MB/s Read (SDCZ48-064G-U46)
+- Übertragen von Spielfilmen in voller Länge in weniger als 40 Sekunden
+- Übertragungsgeschwindigkeiten von bis zu 130MB/Sek; Verfügbare Kapazitäten: 16GB, 32GB, 64GB und 128GB
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DQGBYDC/?tag=tolees0ca-21)
