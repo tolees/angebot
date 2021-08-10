@@ -28,10 +28,10 @@ Es gibt ein [Kneipp Sauna-Aufguss Auszeit Pur Zeder  Nelke & Orange  1er Pack  1
 
 ℹ️:
 
-- Sehr ergiebig
-- Ohne Konservierungsstoffe
 - Ohne tierische Bestandteile
+- Sehr ergiebig
 - Ohne Paraffin-, Silikon- und Mineralöle
 - Mit natürlichen ätherischen Ölen
+- Ohne Konservierungsstoffe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002PAQUBG/?tag=tolees0ca-21)

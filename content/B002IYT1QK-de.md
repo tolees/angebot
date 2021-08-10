@@ -28,10 +28,10 @@ Sie können [Pentel LR7-AX Nachfüllmine für EnerGel-Stifte  0 7 mm Kugelspitze
 
 ℹ️:
 
-- ausgestattet mit einer Metallspitze in 0,35mm Strichstärke und Schreibfarbe schwarz
-- Nachfüllmine u.a. für Pentel Produkte BL57, BL77, BL107, BL407, BL407B, TRL91, TRL92 und TRL93
-- Pentel Nachfülllmine für Standard EnerGel-Tintenroller mit 0,35mm Strichstärke
-- Lieferumfang: 12 Minen, einzeln verpackt
 - die besonders weich schreibende Gel-Tinte trocknet schnell und überzeugt mit ihrem unvergleichbar leichtem Schreibgefühl Vielschreiber und auch Linkshänder
+- Lieferumfang: 12 Minen, einzeln verpackt
+- ausgestattet mit einer Metallspitze in 0,35mm Strichstärke und Schreibfarbe schwarz
+- Pentel Nachfülllmine für Standard EnerGel-Tintenroller mit 0,35mm Strichstärke
+- Nachfüllmine u.a. für Pentel Produkte BL57, BL77, BL107, BL407, BL407B, TRL91, TRL92 und TRL93
 
 [🛒 Hier!!](https://www.amazon.de/dp/B002IYT1QK/?tag=tolees0ca-21)

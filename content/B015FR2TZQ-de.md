@@ -28,10 +28,10 @@ Es gibt ein [Tassimo Kapseln Jacobs Typ Latte Macchiato Classico  40 Kaffeekapse
 
 ℹ️:
 
-- Einfache Zubereitung - Zuerst die Milchkomposition T DISC schütteln und verwenden, dann die Espresso T DISC einlegen, Knopf drücken und genießen
-- Lieferumfang 5 Packungen à 264 g
 - Sie haben Ihre Lieblingssorte gefunden? Dann empfehlen wir Ihnen das Amazon Spar-Abo für Tassimo. Ohne Verpflichtung erhalten Sie regelmäßig und portofrei Ihre T DISCs.
 - Milchkomposition mit Espresso und feinem Schaum
 - Jacobs Typ Latte Macchiato Classico - verführerische Komposition in drei eindrucksvollen Schichten
+- Einfache Zubereitung - Zuerst die Milchkomposition T DISC schütteln und verwenden, dann die Espresso T DISC einlegen, Knopf drücken und genießen
+- Lieferumfang 5 Packungen à 264 g
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B015FR2TZQ/?tag=tolees0ca-21)

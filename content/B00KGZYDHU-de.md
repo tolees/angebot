@@ -28,11 +28,11 @@ Es gibt ein [Angerer Klemmmarkise Dralon Nr. 2800  Grau  400 cm](https://www.ama
 
 ℹ️:
 
+- Material: 100% Polyacryl
 - Made in Germany
 - Mit Handkurbel und Kettenantrieb
-- Ideal für Mietwohnungen
 - Einfache Montage, ohne Bohren und Dübeln
-- Material: 100% Polyacryl
+- Ideal für Mietwohnungen
 - Einbauhöhe stufenlos verstellbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00KGZYDHU/?tag=tolees0ca-21)

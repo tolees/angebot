@@ -28,9 +28,9 @@ Es gibt ein [HYLO EYE CARE - HYLO COMOD  2x10 ml  2er Pack ](https://www.amazon.
 
 ℹ️:
 
-- Mit Kontaktlinsen verträglich
-- HYLO-COMOD befeuchtende Augentropfen bieten trockenen Augen die Feuchtigkeit, die sie benötigen.
 - Gibt der Hornhaut ihre natürliche Schutzbarriere zurück
+- HYLO-COMOD befeuchtende Augentropfen bieten trockenen Augen die Feuchtigkeit, die sie benötigen.
+- Mit Kontaktlinsen verträglich
 - Mit 0,1% Natriumhyaluronat
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00E5A4BQ0/?tag=tolees0ca-21)

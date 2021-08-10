@@ -28,9 +28,9 @@ Sie können [Amazon Basics Rucksack - Grau](https://www.amazon.de/dp/B013TGESIQ/
 
 ℹ️:
 
-- Hauptfach mit Doppel-Reißverschluss; kleines Reißverschlussfach hinten im Rucksack; gepolstertes Laptop-Fach
-- Reißverschlusstasche für kleine Gegenstände auf der Vorderseite; Flaschenhalterungen mit Klettverschluss auf beiden Seiten
-- Leichter und doch robuster Rucksack für die Schule und den täglichen Gebrauch
 - Verstellbare, gepolsterte Schultergurte sorgen für zusätzlichen Tragekomfort
+- Hauptfach mit Doppel-Reißverschluss; kleines Reißverschlussfach hinten im Rucksack; gepolstertes Laptop-Fach
+- Leichter und doch robuster Rucksack für die Schule und den täglichen Gebrauch
+- Reißverschlusstasche für kleine Gegenstände auf der Vorderseite; Flaschenhalterungen mit Klettverschluss auf beiden Seiten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B013TGESIQ/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Bosch ProfessionalTauchsägeblatt Metall für Multifunktionswerkzeu
 
 ℹ️:
 
-- Für alle Starlock, Starlock Plus, Starlock Max und weitere Multifunktionswerkzeuge geeignet.
-- Hochwerteige Carbite Hartmetall-Zähne für eine besonders lange Lebensdauer.
-- Besonders gut geeignet um gehärtete Nägel und Schrauben zu trennen. Der verjüngte Grundkörper verringert das Verklemmen im Material.
 - Schneidekante: 32 mm , Eintauchtiefe: 40 mm, Zahnabstand: 1,1 mm
 - Tauchsägeblatt AIZ32 AT für professionelles Bearbeiten von dünnwandigen Aluminiumprofilen, Buntmetall-Profilen, Bechen bis 10 mm, rostfreien Blechen (Inox), Porenbeton und weichem Backstein, Gipskarton, zementgebundene Platten, Faserplatten und Faserbundwerkstoffen.
+- Für alle Starlock, Starlock Plus, Starlock Max und weitere Multifunktionswerkzeuge geeignet.
+- Besonders gut geeignet um gehärtete Nägel und Schrauben zu trennen. Der verjüngte Grundkörper verringert das Verklemmen im Material.
+- Hochwerteige Carbite Hartmetall-Zähne für eine besonders lange Lebensdauer.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00CPGXM9S/?tag=tolees0ca-21)

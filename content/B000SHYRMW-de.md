@@ -28,10 +28,10 @@ Es gibt ein [Drano  Mr Muscle  Power Gel Rohrfrei Abflussreiniger  Rohrreiniger 
 
 ℹ️:
 
-- Nicht in der Toilette anwenden, Nicht geeignet für Aluminium, vergoldete Armaturen, Emaille oder andere empfindliche Oberflächen, Mit kindergesichertem Verschluss
-- Empfohlene wöchentliche Anwendung: 250 ml zur Vorbeugung von Rohrverstopfungen und schlechten Gerüchen im Abfluss, Sicher für alle Rohre, Die Nr. 1 Rohrreiniger Marke Europas (Nielsen Daten Juni 2018)
-- Für eine effektive Rohrreinigung 500 ml Drano Power-Gel langsam in den Abfluss gießen, mindestens 5 Minuten einwirken lassen und dann mit warmem Wasser nachspülen - bei Bedarf maximal einmal wiederholen
 - Lieferumfang: 1 Kunststoff-Flasche Drano Power-Gel Rohrfrei, Volumen: 1000 ml
+- Für eine effektive Rohrreinigung 500 ml Drano Power-Gel langsam in den Abfluss gießen, mindestens 5 Minuten einwirken lassen und dann mit warmem Wasser nachspülen - bei Bedarf maximal einmal wiederholen
 - Flüssiger Gel Rohr-Reiniger zum effektiven Befreien von verstopften Abflüssen in Küche und Bad, Löst Verstopfungen durch Haare und Seifenreste chemisch auf, Sinkt durch stehendes Wasser
+- Empfohlene wöchentliche Anwendung: 250 ml zur Vorbeugung von Rohrverstopfungen und schlechten Gerüchen im Abfluss, Sicher für alle Rohre, Die Nr. 1 Rohrreiniger Marke Europas (Nielsen Daten Juni 2018)
+- Nicht in der Toilette anwenden, Nicht geeignet für Aluminium, vergoldete Armaturen, Emaille oder andere empfindliche Oberflächen, Mit kindergesichertem Verschluss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000SHYRMW/?tag=tolees0ca-21)

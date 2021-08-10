@@ -28,10 +28,10 @@ Es gibt ein [Invicta Specialty 6621 Herrenuhr  45 mm](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- 10 bar Wasserdichtigkeitszertifizierung
-- 2 Jahre Garantie
-- Dieses Modell wird von einem präzisen Quarzuhrwerk angetrieben
 - Dieses Modell ist von der Invicta Specialty Kollektion
+- 2 Jahre Garantie
+- 10 bar Wasserdichtigkeitszertifizierung
 - Das Invicta 6621 hat ein 45 mm Edelstahl gehäuse mit einem blauen Zifferblatt
+- Dieses Modell wird von einem präzisen Quarzuhrwerk angetrieben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002PAPT22/?tag=tolees0ca-21)

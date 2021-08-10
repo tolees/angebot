@@ -28,10 +28,10 @@ Sie können [eufy Saugroboter  RoboVac 11S  Slim  mit BoostIQ  Superschlank  Sta
 
 ℹ️:
 
-- WAS SIE BEKOMMEN: Einen RoboVac 11S, eine Fernbedienung (2 AAA Batterien werden mitgeliefert), eine Ladestation, ein AC-Ladegerät, ein Reinigungswerkzeug, ein zusätzliches Filter-Set, 4 Seitenbürsten, 5 Kabelbinder, eine Bedienungsanleitung und 12 Monate Herstellergarantie.
-- LEISTUNGSSTARKE LI-ION BATTERIE: Die fantastische Kapazität garantiert enorme Leistung bis zu 100 Minuten** lang Non-Stop Reinigung.
-- PREMIUM FUNKTIONEN: Dazu gehört die Anti-Kratzer Oberfläche aus Hartglas, ein Infrarot-Sensor für effektive Hindernis-Erkennung sowie die hochmoderne Höheneinschätzung für die Vermeidung von Stürzen. Wiederaufladung wird automatisch durchgeführt. Somit ist RoboVac immer einsatzbereit!
 - DER GANZ NEUE ROBOVAC: Rekonstruiert zum niedrigsten* (nur 72 mm hohen) RoboVac und zugleich mit verstärkter 1300Pa Saugkraft und geräuscharmer Funktion. Laut Digital Trends der "Beste Roboterstaubsauger des Jahres 2018"!
+- WAS SIE BEKOMMEN: Einen RoboVac 11S, eine Fernbedienung (2 AAA Batterien werden mitgeliefert), eine Ladestation, ein AC-Ladegerät, ein Reinigungswerkzeug, ein zusätzliches Filter-Set, 4 Seitenbürsten, 5 Kabelbinder, eine Bedienungsanleitung und 12 Monate Herstellergarantie.
+- PREMIUM FUNKTIONEN: Dazu gehört die Anti-Kratzer Oberfläche aus Hartglas, ein Infrarot-Sensor für effektive Hindernis-Erkennung sowie die hochmoderne Höheneinschätzung für die Vermeidung von Stürzen. Wiederaufladung wird automatisch durchgeführt. Somit ist RoboVac immer einsatzbereit!
+- LEISTUNGSSTARKE LI-ION BATTERIE: Die fantastische Kapazität garantiert enorme Leistung bis zu 100 Minuten** lang Non-Stop Reinigung.
 - BOOSTIQ™ TECHNOLOGIE: Erhöht automatisch die Saugkraft auf sehr verschmutzten oder schwer zu reinigenden Stellen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07D7SZPXL/?tag=tolees0ca-21)
