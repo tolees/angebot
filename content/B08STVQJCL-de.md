@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.59 % rabat auf Concorde Home Entertainment - Honest Thi'
-date: 2021-08-08 23:25:33
+date: 2021-08-10 05:38:47
 image: 'https://m.media-amazon.com/images/I/51wavRsi33L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Concorde Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08STVQJCL/?tag=tolees0ca-21'
 descuento: '21.59'
-average: '13.5300000000002'
+average: '13.4020000000002'
 ---
 
 Es gibt ein [Concorde Home Entertainment - Honest Thief [Blu-ray]](https://www.amazon.de/dp/B08STVQJCL/?tag=tolees0ca-21) mit aktuellem Preis 10.97 EUR (original: 13.99 EUR) 21.59 % Rabatt hier:

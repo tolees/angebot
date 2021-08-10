@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universum - Eis am Stiel - Box - Teil 1- mit 33.41 % Rabatt'
-date: 2021-08-09 05:25:55
+date: 2021-08-10 05:54:14
 image: 'https://m.media-amazon.com/images/I/51DduKH5HbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universum'
 buyurl: 'https://www.amazon.de/dp/B000NIN07O/?tag=tolees0ca-21'
 descuento: '33.41'
-average: '20.97'
+average: '20.77'
 ---
 
 Sie können [Universum - Eis am Stiel - Box - Teil 1-8 [9 DVDs]](https://www.amazon.de/dp/B000NIN07O/?tag=tolees0ca-21) mit Preis 19.97 EUR (original: 29.99 EUR) 33.41 % Rabatt hier:

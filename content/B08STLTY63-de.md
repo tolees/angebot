@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Honest Thief mit 22.23 % Rabatt'
-date: 2021-08-08 23:28:37
+date: 2021-08-10 05:42:57
 image: 'https://m.media-amazon.com/images/I/513HsfvVVsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08STLTY63/?tag=tolees0ca-21'
 descuento: '22.23'
-average: '12.6842105263159'
+average: '12.5485000000001'
 ---
 
 Sie können [Honest Thief](https://www.amazon.de/dp/B08STLTY63/?tag=tolees0ca-21) mit Preis 9.97 EUR (original: 12.82 EUR) 22.23 % Rabatt hier:
