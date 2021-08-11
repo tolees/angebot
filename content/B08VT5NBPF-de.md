@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney - Soul mit 19.25 % Rabatt'
-date: 2021-08-10 05:33:21
+date: 2021-08-11 05:47:39
 image: 'https://m.media-amazon.com/images/I/41PmWBflDlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B08VT5NBPF/?tag=tolees0ca-21'
 descuento: '19.25'
-average: '12.4900000000001'
+average: '12.4100000000001'
 ---
 
 Sie können [Walt Disney - Soul](https://www.amazon.de/dp/B08VT5NBPF/?tag=tolees0ca-21) mit Preis 10.49 EUR (original: 12.99 EUR) 19.25 % Rabatt hier:

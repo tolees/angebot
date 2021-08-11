@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.75 % rabat auf Der Mann in den Bergen   37 Episoden auf'
-date: 2021-08-10 05:55:54
+date: 2021-08-11 06:02:40
 image: 'https://m.media-amazon.com/images/I/61OYDrMh9PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B07FJKT4NM/?tag=tolees0ca-21'
 descuento: '15.75'
-average: '34.95'
+average: '34.74'
 ---
 
 Es gibt ein [Der Mann in den Bergen   37 Episoden auf 10 DVDs ](https://www.amazon.de/dp/B07FJKT4NM/?tag=tolees0ca-21) mit aktuellem Preis 33.69 EUR (original: 39.99 EUR) 15.75 % Rabatt hier:
