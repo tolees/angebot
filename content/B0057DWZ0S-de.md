@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.97 % rabat auf Wrigley s Spearmint Kaugummi | Minz-Gesc'
-date: 2021-07-14 07:33:31
+date: 2021-08-12 13:27:17
 image: 'https://m.media-amazon.com/images/I/51r-wfGNUaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Wrigleys'
 buyurl: 'https://www.amazon.de/dp/B0057DWZ0S/?tag=tolees0ca-21'
 descuento: '33.97'
-average: '4.76272727272727'
+average: '4.74'
 ---
 
 Es gibt ein [Wrigley s Spearmint Kaugummi | Minz-Geschmack | 8 Packungen  8 x 15 Streifen ](https://www.amazon.de/dp/B0057DWZ0S/?tag=tolees0ca-21) mit aktuellem Preis 4.49 EUR (original: 6.8 EUR) 33.97 % Rabatt hier:
