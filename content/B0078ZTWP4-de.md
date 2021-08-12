@@ -29,9 +29,9 @@ Es gibt ein [LE LED Campinglampe  Ultra Hell 1000 Lumen  4 LeuchtmodiI Dimmbar S
 ℹ️:
 
 - HOHE HELLIGKEIT CAMPINGLAMPE: Mit einer Helligkeit von bis zu 1000 Lumen (max) und einem 360-Grad-Strahlwinkel kann diese Laterne ausreichende Helligkeit für Outdoor-Aktivitäten oder plötzliche Stromausfälle liefern. Das semitransparente Plattengehäuse ermöglicht es der Laterne, ein glattes Licht ohne Blendung abzustrahlen.
-- HÄNGELAMPE UND WASSERDICHT: Es kann an beiden Enden mit oder ohne Lampenschirm aufgehängt werden. Es gibt einen Haken an der Basis und Metallgriffe an der Spitze. IPX4-Schutzklasse, daher sehr gut geeignet für Camping, Wandern, Angeln, Spaziergänge mit Hund usw.
-- BATTERIEBETRIEBEN CAMPINGLEUCHTE: Diese Laterne wird mit 3pcs D-Batterien (nicht im Lieferumfang enthalten) betrieben, so dass Sie die Batterien verwenden können, wenn der Strom ausfällt. Es ist nicht nötig, ein paar Stunden zu warten und Zeit zu sparen.
 - WAS SIE BEKOMMEN: 1 LED Campinglampe. Wir sind überzeugt, dass Sie die LE Camping Laterne lieben werden.
 - MIT 4 LEUCHTMODI DIMMBAR Laterne: Kaltweiß, Warmweiß, Kombiniert und Blinklicht sind verfügbar. Außer Blinklicht sind alles dimmbar.
+- HÄNGELAMPE UND WASSERDICHT: Es kann an beiden Enden mit oder ohne Lampenschirm aufgehängt werden. Es gibt einen Haken an der Basis und Metallgriffe an der Spitze. IPX4-Schutzklasse, daher sehr gut geeignet für Camping, Wandern, Angeln, Spaziergänge mit Hund usw.
+- BATTERIEBETRIEBEN CAMPINGLEUCHTE: Diese Laterne wird mit 3pcs D-Batterien (nicht im Lieferumfang enthalten) betrieben, so dass Sie die Batterien verwenden können, wenn der Strom ausfällt. Es ist nicht nötig, ein paar Stunden zu warten und Zeit zu sparen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0078ZTWP4/?tag=tolees0ca-21)

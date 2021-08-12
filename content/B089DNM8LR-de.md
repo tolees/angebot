@@ -28,9 +28,9 @@ Es gibt ein [Crucial P2 CT1000P2SSD8 1TB Internes SSD  Bis zu 2400 MB/s  3D NAND
 
 ℹ️:
 
+- Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovatio
 - Unterstützt durch eine eingeschränkte fünfjährige Garantie oder bis zum Erreichen der angegebenen maximalen Lebensdauer von 300 TBW
 - Kapazitäten bis zu 2TB mit sequentiellen Lese/Schreibvorgängen bis zu 2.400/1.900 MB/s
 - Mit SSD-Verwaltungssoftware für Leistungsoptimierung, Datensicherheit und FirmwareUpdates
-- Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovatio
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B089DNM8LR/?tag=tolees0ca-21)

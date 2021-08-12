@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional 20tlg. Schrauberbit Set  Extra Hard  Zubehör f�
 
 ℹ️:
 
-- Überdurchschnittliche Materialhärte durch S2 modifizierten Stahl
-- Für Aufgaben aller Art durch integrierte konische Torsionszone im Bit
-- Lieferumfang: Bits - 2x PH2, 1x PZ2, 1x S5, 1x HEX4, 1x HEX5, 1x T15, 1x T20, 1x T25 - HSS Spiralbohrer: 16/20/24/30mm Länge, Werkzeughalter, Hülse mit Senker, Aufnahme, Schraubenschlüssel
 - Bosch Professional 20 tlg. Zubehör Set mit HSS Spiralbohrern und Schrauberbits
+- Lieferumfang: Bits - 2x PH2, 1x PZ2, 1x S5, 1x HEX4, 1x HEX5, 1x T15, 1x T20, 1x T25 - HSS Spiralbohrer: 16/20/24/30mm Länge, Werkzeughalter, Hülse mit Senker, Aufnahme, Schraubenschlüssel
+- Überdurchschnittliche Materialhärte durch S2 modifizierten Stahl
 - Besonders geeignet für kleinere Bohr- und Schraubanwendungen
+- Für Aufgaben aller Art durch integrierte konische Torsionszone im Bit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B017TNA3Q6/?tag=tolees0ca-21)
