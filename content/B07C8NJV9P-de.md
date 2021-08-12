@@ -28,11 +28,11 @@ Sie können [Tanqueray Flor De Sevilla Gin – Fruchtiger und mediterraner Gin m
 
 ℹ️:
 
-- Tanqueray Flor de Sevilla wird aus bittersüßen Orangen aus Sevilla hergestellt, um einen fruchtigen und pikanten Geschmack zu erzielen, der mit den vier Pflanzenextrakten unseres klassischen London Dry Gin harmoniert.
-- Tanqueray flor de Sevilla – serviert mit erstklassigem Tonic Water und garniert mit einem ausgepressten und ins Glas gelegten Stück frischer Orange.
 - Der ultimative Gin,Der ultimative G&T - ideal als Geschenk für Freunde und Familie.
 - Ein unverwechselbarer und köstlicher Premium-Gin. Erweitert die Tanqueray-Familie um ein ansprechendes Geschmacksprofil.
 - Tanqueray Flor de Sevilla wird aus bittersüßen Orangen aus Sevilla hergestellt, die einen fruchtigen und pikanten Geschmack erschaffen, der mit den vier Pflanzenextrakten unseres klassischen London Dry Gin harmoniert. Dieser Geschmack des sonnendurchfluteten Mittelmeerraumes resultiert in einem einzigartig genussvollen und doch komplexen Gin.
+- Tanqueray Flor de Sevilla wird aus bittersüßen Orangen aus Sevilla hergestellt, um einen fruchtigen und pikanten Geschmack zu erzielen, der mit den vier Pflanzenextrakten unseres klassischen London Dry Gin harmoniert.
 - Tanqueray ist laut dem Brands Report 2018 der weltweit beliebteste Gin von Barkeepern.
+- Tanqueray flor de Sevilla – serviert mit erstklassigem Tonic Water und garniert mit einem ausgepressten und ins Glas gelegten Stück frischer Orange.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07C8NJV9P/?tag=tolees0ca-21)
