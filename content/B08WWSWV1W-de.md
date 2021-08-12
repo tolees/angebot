@@ -28,10 +28,10 @@ Sie können [LEGO 71388 Super Mario Kippturm mit Sumo-Bruder-Boss – Erweiterun
 
 ℹ️:
 
+- Enthält 2 legendäre Super-Mario-Feind-Charaktere – Sumo-Bruder-Boss, inklusive auf die Brust klopfenden Armen, und eine Krähenfigur
+- Enthält einen Turm, der von einer LEGO-Mario-Figur- oder LEGO-Luigi-Figur (nicht enthalten) ins Wanken gebracht wird, indem sie auf die Hebel an seinem Sockel stampft
+- Das Erweiterungsset „LEGO Super Mario Kippturm mit Sumo-Bruder-Boss“ bringt dein Action-geladenes Super-Mario-Spiel, bei dem du Münzen sammeln kannst, auf ein neues Level
 - Eine wundervolle Geschenkidee für kreative Kinder ab 6 Jahren, die bereits ein LEGO-Super-Mario-Starterset (71360 oder 71387) haben, das für das Spiel benötigt wird
 - Die LEGO-Super-Mario-Sets bieten grenzenlose Möglichkeiten, eigene anspruchsvolle Level zu erstellen – für das Spiel allein oder in der Gruppe.
-- Das Erweiterungsset „LEGO Super Mario Kippturm mit Sumo-Bruder-Boss“ bringt dein Action-geladenes Super-Mario-Spiel, bei dem du Münzen sammeln kannst, auf ein neues Level
-- Enthält einen Turm, der von einer LEGO-Mario-Figur- oder LEGO-Luigi-Figur (nicht enthalten) ins Wanken gebracht wird, indem sie auf die Hebel an seinem Sockel stampft
-- Enthält 2 legendäre Super-Mario-Feind-Charaktere – Sumo-Bruder-Boss, inklusive auf die Brust klopfenden Armen, und eine Krähenfigur
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08WWSWV1W/?tag=tolees0ca-21)
