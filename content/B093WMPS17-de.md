@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paramount Home Entertainment - Yellowsto mit 16.56 % Rabatt'
-date: 2021-08-10 05:40:49
+date: 2021-08-12 05:25:13
 image: 'https://m.media-amazon.com/images/I/41Sqx+0je+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
