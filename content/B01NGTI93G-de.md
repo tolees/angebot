@@ -28,12 +28,12 @@ Sie können [Einhell Gartenpumpe GC-GP 1250 N  1200 W  max. 5.000 Liter pro Stun
 
 ℹ️:
 
-- Der hochwertige Sauganschluss mit 42 mm (1 1/4") AG und der Druckanschluss mit 33,3 mm (1") IG sind aus hochwertigem Metall und sorgen somit für eine längere Lebensdauer
-- Separate Wassereinfüllöffnung - Die Inbetriebnahme der Gartenpumpe ist durch die separate Wassereinfüllöffnung denkbar einfach
 - Ein- und Ausschalter - Einfaches und zentrales Ein- oder Ausschalten der Pumpe ist möglich, was bei Vergleichsmodellen oftmals nur über das Entfernen/ Einstecken des Netzsteckers möglich ist
+- Der hochwertige Sauganschluss mit 42 mm (1 1/4") AG und der Druckanschluss mit 33,3 mm (1") IG sind aus hochwertigem Metall und sorgen somit für eine längere Lebensdauer
 - Bestes Wasser für die Pflanzen – unschlagbar günstig und mit vielen Vorteilen. Eine leistungsstarke, Jet-Pumpe mit 1.200 Watt und 5.000 Liter Förderleistung pro Stunde
-- Praktischer Tragegriff - Mittels des komfortablen Tragegriffs lässt sich die Gartenpumpe einfach und bequem zu jedem Einsatzort transportieren
 - Integrierte Wasserablassschraube - Dank der im Behälter integrierten Wasserablassschraube lässt sich das Restwasser in der Gartenpumpe einfach ablassen - und die Gartenpumpe damit winterfest machen
+- Separate Wassereinfüllöffnung - Die Inbetriebnahme der Gartenpumpe ist durch die separate Wassereinfüllöffnung denkbar einfach
+- Praktischer Tragegriff - Mittels des komfortablen Tragegriffs lässt sich die Gartenpumpe einfach und bequem zu jedem Einsatzort transportieren
 - Bohrungen am Pumpenfuß - Für einen optimalen Stand kann die Pumpe am Einsatzort durch Bohrungen am Pumpenfuß fest montiert werden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NGTI93G/?tag=tolees0ca-21)

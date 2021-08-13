@@ -28,10 +28,10 @@ Es gibt ein [Enders® Terrassenheizer Elektro FLORENZ  Infrarot Heizstrahler 492
 
 ℹ️:
 
-- horizontale und vertikale Ausrichtung möglich
-- zuschaltbare Oszillationsfunktion (ca. 60°)
-- mit Transportgriff und Kippsicherung
 - 2 Leistungseinstellungen möglich: 450 W und 900 W
+- horizontale und vertikale Ausrichtung möglich
+- mit Transportgriff und Kippsicherung
+- zuschaltbare Oszillationsfunktion (ca. 60°)
 - Infrarotröhre erzeugt eine angenehm beleuchtete Atmosphäre und sorgt für sofortige wohlige Wärme
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01LY2RVCF/?tag=tolees0ca-21)

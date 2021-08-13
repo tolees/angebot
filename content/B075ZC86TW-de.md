@@ -28,10 +28,10 @@ Es gibt ein [Haba 303485 - Würfelkönig  kniffeliges Zockerspiel für 2-5 Spiel
 
 ℹ️:
 
-- Kleine Schachtel, großes Spiel: Hübsch illustrierte Spielkarten regen die Fantasie an
-- Die Spieler wollen Bürger für ihre Königreiche gewinnen, indem sie mit drei Würfen die unterschiedlichsten Aufgaben auf den Karten erfüllen
-- Aber Achtung vor dem Schurken und dem Drachen. Wer am Schluss die guten Bürger hat, gewinnt und bringt sein Königreich zum Blühen
 - Das Brettspiel entführt die Spieler in eine fantastische Welt mit Elfen und Orks, Drachen und Schurken
+- Aber Achtung vor dem Schurken und dem Drachen. Wer am Schluss die guten Bürger hat, gewinnt und bringt sein Königreich zum Blühen
+- Die Spieler wollen Bürger für ihre Königreiche gewinnen, indem sie mit drei Würfen die unterschiedlichsten Aufgaben auf den Karten erfüllen
 - Großer Unterhaltungswert: Gesellschaftsspiel mit verständlichen Spielregeln und abwechslungsreichen Spielverläufen
+- Kleine Schachtel, großes Spiel: Hübsch illustrierte Spielkarten regen die Fantasie an
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B075ZC86TW/?tag=tolees0ca-21)

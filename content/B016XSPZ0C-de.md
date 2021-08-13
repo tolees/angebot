@@ -28,10 +28,10 @@ Es gibt ein [WOLF Garten - WOLF-Garten - Trocken Rasen Premium](https://www.amaz
 
 ℹ️:
 
-- für 100 m²
 - Premium Mischung aus getestetem Saatgut
-- Widerstandsfähigkeit gegen Frost, sehr schöner wintergrüner, strapazierfähiger Rasen.
-- sehr gute Hitze- und Trockenverträglichkeit
+- für 100 m²
 - Wassersparend und ressourcenschonend
+- sehr gute Hitze- und Trockenverträglichkeit
+- Widerstandsfähigkeit gegen Frost, sehr schöner wintergrüner, strapazierfähiger Rasen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016XSPZ0C/?tag=tolees0ca-21)

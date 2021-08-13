@@ -28,10 +28,10 @@ Es gibt ein [Amazon Basics Abdeckung für 3-Sitzer-Sofamodell Griffen](https://w
 
 ℹ️:
 
-- 100 % gewebtes Polyestermaterial
-- Die Abdeckung für ein 3-Sitzer-Loungesofa schützt vor Regen, Schnee und anderen Umwelteinflüssen
 - Maße: ca. 86,4 x 204,5 x 73,7 cm (L x B x H)
 - Gurte mit Click-Verschluss auf der Unterseite sorgen dafür, dass die Abdeckung an windigen Tagen sicher hält
+- Die Abdeckung für ein 3-Sitzer-Loungesofa schützt vor Regen, Schnee und anderen Umwelteinflüssen
+- 100 % gewebtes Polyestermaterial
 - Ein schützender Spritzschutz befindet sich an der Unterseite; robuste Interlock-Nähte machen die Abdeckung robust und langlebig
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00LFIZ6W8/?tag=tolees0ca-21)

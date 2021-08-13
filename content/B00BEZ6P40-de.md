@@ -29,9 +29,9 @@ Es gibt ein [HAN Lernkartei CROCO – genial einfach Vokabeln lernen dank 5-Fäc
 ℹ️:
 
 - Der Karteikasten hat ein Fassungsvermögen von 500 DIN A8 quer Karten, die auf 5 Bereiche aufgeteilt werden – ideal für den Grundwortschatz. Inklusive 100 linierter Karteikarten
-- CROCO ist der ideale Karteikasten für Vokabeln – ob Englisch in der Grundschule, für Französisch oder Latein in der Unterstufe – für das Lernen jeder Sprache geeignet
 - Ergonomisch konstruiert, praktisch in der Anwendung: Beim Öffnen verschwindet der stabile Deckel unter der Box, im geschlossenem Zustand sind die Stützen arretiert
-- Fremdsprachen lernen, nicht nur für Schüler mit der "5-Fächer-Lernmethode": Dank regelmäßiger Lernintervalle werden neue Vokabeln gelernt und alte wiederholt – für motivierende Lernerfolge
 - Lieferumfang: 1 x HAN 998-673 Lernkartei CROCO. Inklusive 100 linierten Karteikarten DIN A8 (Art.-Nr. 9812), 5 variablen Stützplatten (Art.-Nr. 9028) und Beschriftungsfeld. Original HAN-Markenware. Gebrauchsmuster geschützt. Außenmaße (BxTxH): 97x191x67 mm. Farbe: transluzent-lila
+- Fremdsprachen lernen, nicht nur für Schüler mit der "5-Fächer-Lernmethode": Dank regelmäßiger Lernintervalle werden neue Vokabeln gelernt und alte wiederholt – für motivierende Lernerfolge
+- CROCO ist der ideale Karteikasten für Vokabeln – ob Englisch in der Grundschule, für Französisch oder Latein in der Unterstufe – für das Lernen jeder Sprache geeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BEZ6P40/?tag=tolees0ca-21)
