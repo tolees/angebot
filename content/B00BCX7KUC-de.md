@@ -29,8 +29,8 @@ Sie können [CND Shellac Grapefruit Sparkle  1er Pack  1 x 7 3 ml ](https://www.
 ℹ️:
 
 - UV Nagellack - Das Original von CND
-- Perfektes Hochglanz-Finish
 - Der einzig wahre 100% kratzfeste Nagellack der Welt: CND Shellac
+- Perfektes Hochglanz-Finish
 - Garantiert 14 Tage kratzfester Halt - in Verbindung mit dem Original CND Shellac Base & Top Coat
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00BCX7KUC/?tag=tolees0ca-21)
