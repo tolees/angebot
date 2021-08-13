@@ -29,10 +29,10 @@ Es gibt ein [Amazon Basics AAA-Alkalibatterien  leistungsstark  1 5 V  20 Stüc
 ℹ️:
 
 - Hinweis: Diese Batterien sind nicht wiederaufladbar. Sehen Sie sich Amazon Basics Wiederaufladbare Batterien für wiederaufladbare Optionen an
-- Lieferung in zertifizierter frustfreier Verpackung; mit eingeschränkter einjähriger Garantie durch Amazon Basics
-- 10 Jahre leckagefreie Haltbarkeit; dank des verbesserten Designs, das zwei Klemmen, eine neue Zinkzusammensetzung und Korrosionsschutzkomponenten umfasst, wird die Leistung durch luft- und flüssigkeitsdichte Abdichtung so lange gespeichert, bis sie benötigt wird
-- Um mehr über das Recycling von Einwegbatterien zu erfahren, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/what-can-i-recycle
 - Eine 20er-Packung AAA-1,5-V-Alkalibatterien, ideal für eine Vielzahl von Geräten, einschließlich Gamecontroller, Spielzeug, Taschenlampen, Digitalkameras und Uhren
 - Liefert die für ein bestimmtes Gerät benötigte Energiemenge; ideal für Gamecontroller, Spielzeug, Taschenlampen, Digitalkameras, Uhren und mehr
+- Um mehr über das Recycling von Einwegbatterien zu erfahren, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/what-can-i-recycle
+- Lieferung in zertifizierter frustfreier Verpackung; mit eingeschränkter einjähriger Garantie durch Amazon Basics
+- 10 Jahre leckagefreie Haltbarkeit; dank des verbesserten Designs, das zwei Klemmen, eine neue Zinkzusammensetzung und Korrosionsschutzkomponenten umfasst, wird die Leistung durch luft- und flüssigkeitsdichte Abdichtung so lange gespeichert, bis sie benötigt wird
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NTCHCU2/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Panasonic H-NS043E LEICA DG NOCTICRON 42 5 mm/F1.2 ASPH. Objektiv  
 
 ℹ️:
 
-- Lieferumfang: Panasonic H-NS043E Leica DG Nocticron F1.2/42,5 mm ASPH. Objektiv schwarz
-- Dual I.S. kompatibel
+- Herausragende Lichtstärke F1.2 - geringe Schärfentiefe
 - Brennweite 42,5mm (KB: 85mm)
 - LEICA DG Objektiv - höchste Auflösung und geringste Verzeichnung
-- Herausragende Lichtstärke F1.2 - geringe Schärfentiefe
+- Lieferumfang: Panasonic H-NS043E Leica DG Nocticron F1.2/42,5 mm ASPH. Objektiv schwarz
+- Dual I.S. kompatibel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00I1BXD7M/?tag=tolees0ca-21)
