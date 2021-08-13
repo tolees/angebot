@@ -29,7 +29,7 @@ Sie können [EVA SOLO Serviertablett  Kunststoff  Schwarz  50 x 34 x 7 1 cm](htt
 ℹ️:
 
 - Material: Kunststoff, Edelstahl, Gummi
-- Farbe: schwarz
 - Artikel: Serviertablett
+- Farbe: schwarz
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00B2LE9VM/?tag=tolees0ca-21)
