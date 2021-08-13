@@ -28,11 +28,11 @@ Sie können [LEGO 60255 City Nitro Wheels Stunt-Team](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- Vom Hersteller empfohlenes Alter: 5+
-- Stunt-Team
 - Das Spielset enthält ein Stuntbike, ein Quad, eine brennende Rampe und 2 Minifiguren.
-- Vom Hersteller nicht mehr verkauft
+- Stunt-Team
+- Vom Hersteller empfohlenes Alter: 5+
 - Dieses Stuntshow-Set lässt sich für noch mehr Action mit anderen LEGO Sets kombinieren.
+- Vom Hersteller nicht mehr verkauft
 - Anzahl der Teile: 62
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WLJJXC1/?tag=tolees0ca-21)
