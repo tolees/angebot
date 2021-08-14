@@ -29,9 +29,9 @@ Sie können [Lupus – LE202 3MP WLAN IP Kamera für draußen  SD Slot  100° Bl
 ℹ️:
 
 - Die Kamera hat 100° Blickwinkel, 3MP Auflösung (2048×1536 Pixel), 30 Meter Nachtsicht, WLAN und Kabel und ist wetterfest.
+- Hierzu einfach den Baracode auf der Kameraunterseite per LUPUS-APP abfotografieren und schon können Sie von überall zugreifen.
 - Die LUPUS LE202 vom deutschen Hersteller LUPUS-Electronics ist im handumdrehen per iOS oder Android APP eingerichtet.
 - Sollten Sie Fragen oder Probleme haben, stehen Ihnen kompetente Mitarbeiter telefonisch zur Verfügung.
-- Hierzu einfach den Baracode auf der Kameraunterseite per LUPUS-APP abfotografieren und schon können Sie von überall zugreifen.
 - Eingebunden in unsere prämierte Smarthome Alarmanlage können Sie Alarme verifizieren und automatisieren, Unterstützt die Touchscreen-Steuerung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HCH7XHP/?tag=tolees0ca-21)

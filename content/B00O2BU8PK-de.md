@@ -28,11 +28,11 @@ Es gibt ein [Kodak Digital Film Scanner  Konvertiert Negative und Filmdias 35mm 
 
 ℹ️:
 
-- Konvertiert Negative und Dias in 35 mm, 126, 110 und Super 8 und 8 mm in JPEG in Sekundenschnelle, 14/22 Megapixel Auflösung
-- Intuitive Benutzerschnittstelle – Enthält eine nützliche Ablage und ein Verzeichnis; einfache Änderung des RGB- und Auflösungsbilders; durchsuchen Sie die Galerie [inkl Scables und Bonus] – Kompatibel mit Mac und PC Konverter wird mit USB-Stromkabel, HDMI-Kabel, Netzteil, Videokabel und einer nicht im Lieferumfang enthaltenen Reinigungsfolie, unterstützt bis zu 128 GB] und mehr geliefert
-- Ein Adapter für alles – an der Gruppe W/mehrere Einsätze für Folie und Karten für einen schnellen und flexiblen Betrieb; große Tasten ermöglichen das Scannen und Speichern in einem Schritt
 - Großes, helles 8,9 cm TFT LCD – integriertes hochauflösendes Farbdisplay Einstellbare Helligkeit und praktische Neigung für einfache Bedienung und Bildanzeige
+- Ein Adapter für alles – an der Gruppe W/mehrere Einsätze für Folie und Karten für einen schnellen und flexiblen Betrieb; große Tasten ermöglichen das Scannen und Speichern in einem Schritt
 - Kabel und Zubehör im Lieferumfang enthalten – Kompatibel mit Mac und PC Konverter wird mit USB-Stromkabel, HDMI-Kabel, Netzteil, Videokabel und Reinigungsbürste geliefert
 - Das Gerät spielt nicht die 8 mm und Super 8 Filme ab, sondern konvertiert diese Filme in Jpeg-Bild. Hinweis: Das Qualität des Scans ist abhängig von der Auflösung und Qualität der Negative und Dias
+- Intuitive Benutzerschnittstelle – Enthält eine nützliche Ablage und ein Verzeichnis; einfache Änderung des RGB- und Auflösungsbilders; durchsuchen Sie die Galerie [inkl Scables und Bonus] – Kompatibel mit Mac und PC Konverter wird mit USB-Stromkabel, HDMI-Kabel, Netzteil, Videokabel und einer nicht im Lieferumfang enthaltenen Reinigungsfolie, unterstützt bis zu 128 GB] und mehr geliefert
+- Konvertiert Negative und Dias in 35 mm, 126, 110 und Super 8 und 8 mm in JPEG in Sekundenschnelle, 14/22 Megapixel Auflösung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00O2BU8PK/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Crocs Jaunt Shorty Boot Women  Damen Gummistiefel  Schwarz  Black  
 
 ℹ️:
 
-- Schuhweite: extra weit; Waterproof
-- Schaftweite: Weit
 - Verschluss: Ohne Verschluss; Absatzform: Flach
-- Innenmaterial: Ohne Futter; Sohle: Gummi
 - Obermaterial: Synthetik
+- Innenmaterial: Ohne Futter; Sohle: Gummi
+- Schaftweite: Weit
+- Schuhweite: extra weit; Waterproof
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DU93P6E/?tag=tolees0ca-21)
