@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.10 % rabat auf Universum Film - Edgar Wallace Gesamtedi'
-date: 2021-07-26 21:53:26
+date: 2021-08-14 18:07:04
 image: 'https://m.media-amazon.com/images/I/51eKh8Cb8dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universum Film'
 buyurl: 'https://www.amazon.de/dp/B01LYP1W0L/?tag=tolees0ca-21'
 descuento: '23.10'
-average: '80.4825'
+average: '79.3144444444444'
 ---
 
 Es gibt ein [Universum Film - Edgar Wallace Gesamtedition  1959-1972  [33 DVDs]](https://www.amazon.de/dp/B01LYP1W0L/?tag=tolees0ca-21) mit aktuellem Preis 69.97 EUR (original: 90.99 EUR) 23.10 % Rabatt hier:
