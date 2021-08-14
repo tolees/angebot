@@ -28,10 +28,10 @@ Sie können [LEGO 43196 Disney Princess Belles Schloss  Schöne und das Biest  P
 
 ℹ️:
 
-- Enthalten sind zehn Figuren zum Spielen: zwei Belle Mini Puppen und das Biest mit zusätzlichem Kopf des Prinzen, Philippe, das Pferd und sechs weitere Figuren
-- Mit diesem Schloss aus Die Schöne und das Biest bauen Kinder ein Gebäude mit einer sich drehenden Tanzfläche, einen rotierenden Kleiderschrank, eine Bibliothek und ein Esszimmer
 - Das hübsche, detaillierte LEGO Disney Prinzessin Schloss ist vollgepackt mit Zubehör, darunter ein zerrissenes Porträt des Prinzen und eine verzauberte Rose
-- Das Spielzeug ab 6 Jahre lässt sich ganz einfach erweitern mit zuätzlichen Spielbereich wie Reiten, Planwagenfahren oder einem Fest in der Schlossküche
+- Mit diesem Schloss aus Die Schöne und das Biest bauen Kinder ein Gebäude mit einer sich drehenden Tanzfläche, einen rotierenden Kleiderschrank, eine Bibliothek und ein Esszimmer
+- Enthalten sind zehn Figuren zum Spielen: zwei Belle Mini Puppen und das Biest mit zusätzlichem Kopf des Prinzen, Philippe, das Pferd und sechs weitere Figuren
 - Mit der digitalen Bauanleitung Instructions PLUS in der kostenlosen LEGO App können Kinder anhand der Bilder auch ohne elterliche Hilfe eigenständig bauen
+- Das Spielzeug ab 6 Jahre lässt sich ganz einfach erweitern mit zuätzlichen Spielbereich wie Reiten, Planwagenfahren oder einem Fest in der Schlossküche
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08WWTQG33/?tag=tolees0ca-21)
