@@ -29,9 +29,9 @@ Es gibt ein [LG Electronics - Monitor LG 68 58 cm  27 Zoll  IPS-Display mit FHD-
 ℹ️:
 
 - Anschlüsse: 3 x USB 3.0 (1 upstream / 2 downstream), DisplayPort 1.4, 2 x HDMI (HDCP), Kopfhörerausgang
-- 68,58 cm (27 Zoll) IPS-Display mit FHD-Auflösung (1.920 x 1.080 px) und 99% sRGB; Bildformat: 16:9
-- Gaming Features: NVIDIA G-Sync kompatibel, Adaptive Sync, Black Stabilizer, Game Modi und Dynamic Action Sync bieten entscheidende Vorteile im Spiel
 - Lieferumfang: 27GN750-B, Netzkabel, HDMI-Kabel, DisplayPort-Kabel, USB-Kabel, externes Netzteil
 - Bildschirm mit HDR10, Bildwiederholrate von 240 Hz und 1ms (GtG); inkl. Reader Mode, augenschonende Flicker Safe Backlight Technologie, Mega Kontrast und Smart Energy Saving
+- Gaming Features: NVIDIA G-Sync kompatibel, Adaptive Sync, Black Stabilizer, Game Modi und Dynamic Action Sync bieten entscheidende Vorteile im Spiel
+- 68,58 cm (27 Zoll) IPS-Display mit FHD-Auflösung (1.920 x 1.080 px) und 99% sRGB; Bildformat: 16:9
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082P1BJ6C/?tag=tolees0ca-21)
