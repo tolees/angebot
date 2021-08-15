@@ -28,10 +28,10 @@ Es gibt ein [Vallejo 26219 Erde  200 ml](https://www.amazon.de/dp/B0044LDRGU/?ta
 
 ℹ️:
 
-- Nicht entflammbar.
 - Konzipiert für Dioramen.
-- Ungiftig.
-- 200 ml.
 - Acrylfarbe auf Wasserbasis.
+- Ungiftig.
+- Nicht entflammbar.
+- 200 ml.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0044LDRGU/?tag=tolees0ca-21)
