@@ -28,8 +28,8 @@ Es gibt ein [Eastpak Springer Gürteltasche  23 cm  2 L  Grau  Black Denim ](htt
 
 ℹ️:
 
-- Hauptfach mit separatem Abteil für Bargeld oder Karten, das mit Reißverschluss verschließbar ist
-- Aus 100 Prozent Nylon
 - Höhe: 16,5 cm, Breite: 23 cm, Tiefe: 8,5 cm
+- Aus 100 Prozent Nylon
+- Hauptfach mit separatem Abteil für Bargeld oder Karten, das mit Reißverschluss verschließbar ist
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MGOP4KO/?tag=tolees0ca-21)
