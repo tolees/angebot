@@ -28,12 +28,12 @@ Sie können [Amazon Basics Everyday Alkalibatterien  9 V  8 Stück  Aussehen ka
 
 ℹ️:
 
-- Das verbesserte Design bietet eine leckagefreie Haltbarkeitsdauer von 5 Jahren; bewahren Sie sie für Notfälle auf oder verwenden Sie sie sofort
-- Um mehr über das Recycling von Einwegbatterien zu erfahren, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/what-can-i-recycle
+- Hinweis: Diese Batterien sind nicht wiederaufladbar. Sehen Sie sich Amazon Basics Wiederaufladbare Batterien für wiederaufladbare Optionen an
+- Lieferung in zertifizierter frustfreier Verpackung; mit eingeschränkter einjähriger Garantie durch Amazon Basics
 - Eine 8er-Packung 9-Volt-Alkalibatterien für zuverlässige Leistung bei einer Vielzahl von Geräten
 - Ideal für Haushaltsgegenstände wie Garagentoröffner, Rauchmelder, Radios, Spielzeug und mehr
-- Hinweis: Diese Batterien sind nicht wiederaufladbar. Sehen Sie sich Amazon Basics Wiederaufladbare Batterien für wiederaufladbare Optionen an
+- Um mehr über das Recycling von Einwegbatterien zu erfahren, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/what-can-i-recycle
+- Das verbesserte Design bietet eine leckagefreie Haltbarkeitsdauer von 5 Jahren; bewahren Sie sie für Notfälle auf oder verwenden Sie sie sofort
 - Gleiches Produkt, neue Optik. Das Aussehen der Batterien, die Sie erhalten, kann variieren.
-- Lieferung in zertifizierter frustfreier Verpackung; mit eingeschränkter einjähriger Garantie durch Amazon Basics
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00MH4QM1S/?tag=tolees0ca-21)

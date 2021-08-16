@@ -28,11 +28,11 @@ Es gibt ein [LEGO 71749 NINJAGO Flug mit dem Ninja-Flugsegler  Set mit Schiff un
 
 ℹ️:
 
-- Enthalten sind ein LEGO NINJAGO Schiff, ein Jet-Ski, ein Spielzeugdrachen mit beweglichen Flügeln, eine Schatztruhe und eine Insel mit einem aus Steinchen gebauten Gefängnis
 - Enthalten sind 4 LEGO NINJAGO Figuren: Kai, Zane, Jay und ihr Feind Ghost Ninja Karenn, inklusive Waffen (ein Schwert, Dreizack und 2 Goldene Waffen von Spinjitzu)
-- Der Ninja-Flugsegler verfügt über ein Foliensegel, rotierende Booster, ein Steuerrad, ein abnehmbares Jet-Ski-Spielzeug und einen Anker an einer Kette
-- Dieses LEGO NINJAGO Set für Vorschulkinder ab 4 Jahren führt die Jüngsten mit einem Startbaustein in das Bauen ein, damit der Spaß schnell beginnt
 - Verbessern Sie das Spielerlebnis für Ihre Kinder mit der digitalen Bauanleitung Instructions PLUS mit Vergrößerungs- und Drehfunktionen sowie einem Geistermodus
+- Der Ninja-Flugsegler verfügt über ein Foliensegel, rotierende Booster, ein Steuerrad, ein abnehmbares Jet-Ski-Spielzeug und einen Anker an einer Kette
 - Die Drachen-Figur hat Flügel, die flattern, wenn Kinder Druck auf seinen Rücken ausüben. Außerdem gibt es einen Sattel für die Ninja-Minifiguren, in dem sie reiten können
+- Dieses LEGO NINJAGO Set für Vorschulkinder ab 4 Jahren führt die Jüngsten mit einem Startbaustein in das Bauen ein, damit der Spaß schnell beginnt
+- Enthalten sind ein LEGO NINJAGO Schiff, ein Jet-Ski, ein Spielzeugdrachen mit beweglichen Flügeln, eine Schatztruhe und eine Insel mit einem aus Steinchen gebauten Gefängnis
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08W9KLR4K/?tag=tolees0ca-21)
