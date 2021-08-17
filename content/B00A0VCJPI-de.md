@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.59 % rabat auf TP-Link TL-WA850RE WLAN Verstärker Repea'
-date: 2021-08-15 12:07:46
+date: 2021-08-17 06:55:22
 image: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21'
 descuento: '26.59'
-average: '17.1099236641223'
+average: '17.118787878788'
 ---
 
 Es gibt ein [TP-Link TL-WA850RE WLAN Verstärker Repeater 300 Mbit/s  WLAN Verstärker  App Steuerung  Ethernet-Port  WPS  AP Modus  LED abschaltbar  kompatibel zu allen WLAN Geräten  weiß](https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21) mit aktuellem Preis 18.28 EUR (original: 24.9 EUR) 26.59 % Rabatt hier:
@@ -28,11 +28,11 @@ Es gibt ein [TP-Link TL-WA850RE WLAN Verstärker Repeater 300 Mbit/s  WLAN Verst
 
 ℹ️:
 
+- Verpackungsinhalt: TL-WA850RE, Schnellinstallationsanleitung
 - Tether App ermöglicht einfachen Zugriff und Verwaltung mit jedem mobilen Gerät
 - 1-2 Zimmer Wohnung, Internet-Geschwindigkeit unter 100Mbit/s
-- High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
 - Energieverbrauch - 3W
-- Verpackungsinhalt: TL-WA850RE, Schnellinstallationsanleitung
+- High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
 - Ein LAN-Port zur Integration kabelgebundener Netzwerkgeräte wie Spielekonsolen, Smart-TVs in ein WLAN
 - Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
 
