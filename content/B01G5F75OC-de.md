@@ -28,11 +28,11 @@ Sie können [Amazon Basics Batterieladegerät für Ni-MH AA / AAA Akkus mit USB-
 
 ℹ️:
 
+- Verbesserte niedrige Selbstentladung
 - 4-Stunden-Ni-MH-Batterieladegerät mit USB-Port
-- Ausgezeichnete Überladungsleistung
-- Zum gleichzeitigen Aufladen von 2 oder 4 AA / AAA Ni-MH Akkus
 - Verpolungs- und Überladungsschutz
 - Verbesserte hohe Wiederaufladung
-- Verbesserte niedrige Selbstentladung
+- Ausgezeichnete Überladungsleistung
+- Zum gleichzeitigen Aufladen von 2 oder 4 AA / AAA Ni-MH Akkus
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01G5F75OC/?tag=tolees0ca-21)

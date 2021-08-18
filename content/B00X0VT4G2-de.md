@@ -28,10 +28,10 @@ Es gibt ein [Brunnen 104470323 Schulheft A4 Vivendi  16 Blatt  liniert  mit Rand
 
 ℹ️:
 
-- Tintenfestes 90 g/m² Schreibpapier für hohen Schreibkomfort; Abgerundeten Ecken; Extrastarker Hochglanzumschlag
 - Lineatur 3R, liniert mit Rand, für 3. Klasse
-- Mit großem Beschriftungsfeld vorne; Inhaltsübersicht und Klassenspiegel im Innenteil
-- Mit dem Umweltsiegel FSC ausgezeichnet
+- Tintenfestes 90 g/m² Schreibpapier für hohen Schreibkomfort; Abgerundeten Ecken; Extrastarker Hochglanzumschlag
 - Brunnen Premium-Schulheft DIN A4, 16 Blatt (einfaches Heft), 1 Stück
+- Mit dem Umweltsiegel FSC ausgezeichnet
+- Mit großem Beschriftungsfeld vorne; Inhaltsübersicht und Klassenspiegel im Innenteil
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00X0VT4G2/?tag=tolees0ca-21)
