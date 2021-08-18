@@ -29,9 +29,9 @@ Es gibt ein [devolo Magic 1 - 1200 Wifi AC Gaming Kit dLAN 2.0: Ideal für Gamin
 ℹ️:
 
 - Lieferumfang: Gaming Kit mit drei Powerline-Adaptern: 1x Magic 1 WiFi (mit 2x Fast-Ethernet LAN-Anschlüssen) + 2x Magic 1 LAN (mit insgesamt 2x Fast-Ethernet LAN-Anschlüssen), WiFi 5
-- Neueste G.hn-Generation, nicht abwärtskompatibel. Kombinierbar mit allen Adaptern der devolo Magic-Reihe. Adapter der dLAN-Reihe werden nicht unterstützt
 - Powerline-Set mit 3 Adaptern für das beste Gaming-Erlebnis: Bis zu 1.200 Mbit/s Übertragungsrate für Ihr gesamtes Zuhause
-- Bewährte Qualität vom Powerline-Pionier: International sind über 40 Millionen Adapter im Einsatz
 - Die ideale Vernetzung ihrer Konsole oder ihres PCs. So erkunden Sie endlose Spielwelten mit Ihren Freunden online und das ganz ohne Lags
+- Bewährte Qualität vom Powerline-Pionier: International sind über 40 Millionen Adapter im Einsatz
+- Neueste G.hn-Generation, nicht abwärtskompatibel. Kombinierbar mit allen Adaptern der devolo Magic-Reihe. Adapter der dLAN-Reihe werden nicht unterstützt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B088CFD4BF/?tag=tolees0ca-21)
