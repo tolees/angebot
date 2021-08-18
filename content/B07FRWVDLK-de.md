@@ -28,8 +28,8 @@ Sie können [Ubisoft - Anno 1800 Sonderausgabe  inkl. Soundtrack und Lithographi
 
 ℹ️:
 
+- Die Anno 1800 Sonderausgabe enthält neben dem Hauptspiel einen ausgewählten Spiel-Soundtrack sowie drei hochwertige Lithographien
 - Beweisen Sie sich im 19. Jahrhundert, dem Zeitalter der Industrialisierung, Diplomatie und Entdeckungen
 - Anno 1800 kombiniert beliebte Funktonen aus der 20-jährigen Geschichte von Anno
-- Die Anno 1800 Sonderausgabe enthält neben dem Hauptspiel einen ausgewählten Spiel-Soundtrack sowie drei hochwertige Lithographien
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FRWVDLK/?tag=tolees0ca-21)

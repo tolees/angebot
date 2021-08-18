@@ -28,9 +28,9 @@ Es gibt ein [Ubisoft - ANNO 1800 Königsedition [Code in a box - enthält keine 
 
 ℹ️:
 
-- Hören Sie den digitalen Soundtrack, blättern Sie durch das digitale Artbook und dekorieren Ihr Heim mit 3 Lithografien für ein ultimatives Anno-Feeling
-- Inklusive digitaler Inhalte aus Season 1 + 2: Gesunkene Schätze, Botanica, Die Passage, Paläste der Macht, Reiche Ernte, Land der Löwen und Der Anarchist-DLC
 - Spielen Sie jetzt das ausgezeichnete PC-Strategiespiel, das bereits über eine Million Spieler überzeugen konnte
 - Ausgezeichnet durch den Deutschen Entwicklerpreis 2019 und Deutschen Computerspielpreis 2020 als Gutes Deutsches Spiel
+- Hören Sie den digitalen Soundtrack, blättern Sie durch das digitale Artbook und dekorieren Ihr Heim mit 3 Lithografien für ein ultimatives Anno-Feeling
+- Inklusive digitaler Inhalte aus Season 1 + 2: Gesunkene Schätze, Botanica, Die Passage, Paläste der Macht, Reiche Ernte, Land der Löwen und Der Anarchist-DLC
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B085R2TVKQ/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [FLYTE Manhattan - Original  Echte Schwebende LED Glühbirne Lampe 
 
 ℹ️:
 
-- Die Stromversorgung erfolgt drahtlos durch Induktion von der Basis zur Birne
-- Ein perfektes Geschenk für Haus und Büro
 - Der Lampensockel besteht aus viertelgesägten Eichen-, Esche- und Nussholz-Ausführungen
-- Nachhaltige Beleuchtung. Energieeffiziente LEDs mit ca. 50.000 Stunden Betriebsdauer.
+- Ein perfektes Geschenk für Haus und Büro
+- Die Stromversorgung erfolgt drahtlos durch Induktion von der Basis zur Birne
 - Die Original schwebende Glühbirne
+- Nachhaltige Beleuchtung. Energieeffiziente LEDs mit ca. 50.000 Stunden Betriebsdauer.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N97ZEXA/?tag=tolees0ca-21)
