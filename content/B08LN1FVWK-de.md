@@ -29,9 +29,9 @@ Sie können [TOPK Externer Akku Universal Power Bank 10000mah PD 18W Schnellladu
 ℹ️:
 
 - 10000mAh Kapazität mit Lithium Polymer Akkuzellen, schlank & portabel: Li-Po Akkuzellen geben mehr Sicherheit und eine kleinere dünnere Figur. Lässt sich das Gerät gut in die Aktentasche oder Handtasche stecken.
-- Aluminium Gehäuse: Hochwertiges stilvolles Aluminium Gehäuse, feste aluminiumlegierung mit eloxierter verarbeitung, komfortable und luxuriöse tasteindruck. Das vermeidet einen inneren Komponentenschaden aus Fall und vor Stoß und lässt das Produkt zudem Optisch gut aussehen.
 - Ultra Kompakt：Die Größe ist 13.5 x 6.6 x 1.5cm und das Gewicht ist 233.6g. leicht zu halten und zu tragen.Die intelligenten LCD sind großartig und ziemlich genau, um den Status der verbleibenden Akkuladung anzuzeigen.
-- Schnelles Aufladen: Dank der Power Delivery Technologie ist die Powerbank in 3 Stunden voll aufzuladen. Hinweis: Dafür ein PD 18W Adapter nötig (nicht mitgeliefert).
 - 2 Eingangsanschlüsse und 2 Ausgangsanschlüsse: Verlasse dich auf 18W Power Delivery mit dem USB-C Port, Der USB-A-Anschluss unterstützt das Schnellladen von QC3.0. Außerdem hast du zwei USB-Ports für gleichzeitiges Laden. Sie können den Typ C- oder Micro-USB-Anschluss wählen, um den Externe Handyakkus aufzuladen.
+- Aluminium Gehäuse: Hochwertiges stilvolles Aluminium Gehäuse, feste aluminiumlegierung mit eloxierter verarbeitung, komfortable und luxuriöse tasteindruck. Das vermeidet einen inneren Komponentenschaden aus Fall und vor Stoß und lässt das Produkt zudem Optisch gut aussehen.
+- Schnelles Aufladen: Dank der Power Delivery Technologie ist die Powerbank in 3 Stunden voll aufzuladen. Hinweis: Dafür ein PD 18W Adapter nötig (nicht mitgeliefert).
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08LN1FVWK/?tag=tolees0ca-21)
