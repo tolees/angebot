@@ -28,11 +28,11 @@ Es gibt ein [Eastpak Chester Rucksack  43 cm  20 L  Schwarz  Black ](https://www
 
 ℹ️:
 
-- Verstellbare Schulterriemen
 - Hergestellt aus 100 % Nylon
 - Gepolstertes Laptopfach zum Verstauen der meisten 13-Zoll-Geräte
-- Höhe: 43 cm, Breite: 27,5 cm, Tiefe: 13 cm
 - Hauptfach, Rollverschluss, Reißverschlusstaschen
+- Verstellbare Schulterriemen
+- Höhe: 43 cm, Breite: 27,5 cm, Tiefe: 13 cm
 - Kartensteckfach am Schulterriemen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08BCSRB62/?tag=tolees0ca-21)

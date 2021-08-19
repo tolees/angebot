@@ -28,8 +28,8 @@ Es gibt ein [Eastpak Stand + Reisetasche  53 cm  34 L  Schwarz  Black ](https://
 
 ℹ️:
 
-- Höhe: 25 cm, Breite: 53 cm, Tiefe: 24 cm
-- Großes Hauptfach, mit einer zusätzlichen Reißverschlusstasche auf der Vorderseite und im Inneren
 - Hergestellt aus Polyester, ideal für Reisen
+- Großes Hauptfach, mit einer zusätzlichen Reißverschlusstasche auf der Vorderseite und im Inneren
+- Höhe: 25 cm, Breite: 53 cm, Tiefe: 24 cm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07DP12NFQ/?tag=tolees0ca-21)
