@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.31 % rabat auf LEGO 10946 DUPLO® Familienabenteuer mit '
-date: 2021-08-19 12:37:16
+date: 2021-08-20 16:07:23
 image: 'https://m.media-amazon.com/images/I/51fuQqsNUSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08W5F98KZ/?tag=tolees0ca-21'
 descuento: '33.31'
-average: '19.84'
+average: '19.88'
 ---
 
 Es gibt ein [LEGO 10946 DUPLO® Familienabenteuer mit Campingbus](https://www.amazon.de/dp/B08W5F98KZ/?tag=tolees0ca-21) mit aktuellem Preis 20.0 EUR (original: 29.99 EUR) 33.31 % Rabatt hier:
