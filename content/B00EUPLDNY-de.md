@@ -28,11 +28,11 @@ Es gibt ein [Lavazza Kaffeebohnen - Crema e Gusto Tradizione Italiana - 1er Pack
 
 ℹ️:
 
-- Perfekt als Caffé Crema, als Basis für puren Espresso-Genuss oder für alle Caffé-Milch-Variationen
-- Aromatischer und harmonischer Geschmack
-- Hinweis Intensität 9/10.
-- Original italienisch von der Numero Uno aus Italien
 - Geeignet für alle Vollautomaten
+- Aromatischer und harmonischer Geschmack
+- Original italienisch von der Numero Uno aus Italien
+- Hinweis Intensität 9/10.
 - Der beliebte Klassiker basierend auf über 100-jähriger Erfahrung aus dem Hause Lavazza
+- Perfekt als Caffé Crema, als Basis für puren Espresso-Genuss oder für alle Caffé-Milch-Variationen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EUPLDNY/?tag=tolees0ca-21)
