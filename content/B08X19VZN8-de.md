@@ -28,10 +28,10 @@ Es gibt ein [TP-Link RE330 WLAN Verstärker Repeater AC1200  867MBit/s 5GHz + 30
 
 ℹ️:
 
-- Eingebauter AP Modus zur Erweiterung des kabelgebundenen Netzwerks
-- Praktische Signalstärkeanzeige hilft bei der optimalen Platzierung
-- WLAN-Erweiterung auf Knopfdruck zur Beseitigung von Funklöchern
 - Dualband-WLAN für eine schnellere und stabilere Verbindung (300Mbit/s auf 2, 4GHz und 867Mbit/s auf 5GHz)
+- Praktische Signalstärkeanzeige hilft bei der optimalen Platzierung
 - WPS-Taste für eine kinderleichte Installation, einfache Kontrolle durch Tether-App oder Web UI
+- WLAN-Erweiterung auf Knopfdruck zur Beseitigung von Funklöchern
+- Eingebauter AP Modus zur Erweiterung des kabelgebundenen Netzwerks
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08X19VZN8/?tag=tolees0ca-21)
