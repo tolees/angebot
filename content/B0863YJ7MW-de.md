@@ -28,14 +28,14 @@ Sie können [2020 Apple MacBook Air  13"  1 1 GHz Quad-core Intel Core i5 Proz
 
 ℹ️:
 
-- Zwei Thunderbolt 3 (USB‑C) Anschlüsse
-- Brillantes 13,3" Retina Display (33,78 cm Diagonale) mit True Tone Technologie
+- 8 GB Arbeitsspeicher
 - Stereo-Lautsprecher mit breiterem Stereosound
+- Intel Core i5 Prozessor der 10. Generation
 - Intel Iris Plus Graphics
 - Bis zu 11 Std. Batterielaufzeit
-- 8 GB Arbeitsspeicher
-- Schneller SSD Speicher
 - Beleuchtetes Magic Keyboard und Touch ID
-- Intel Core i5 Prozessor der 10. Generation
+- Brillantes 13,3" Retina Display (33,78 cm Diagonale) mit True Tone Technologie
+- Zwei Thunderbolt 3 (USB‑C) Anschlüsse
+- Schneller SSD Speicher
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0863YJ7MW/?tag=tolees0ca-21)
