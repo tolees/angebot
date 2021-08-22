@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung T970N Galaxy Tab S7+ 256 GB WiFi mit 27.49 % Rabatt'
-date: 2021-08-20 00:19:55
+date: 2021-08-22 00:15:43
 image: 'https://m.media-amazon.com/images/I/41I58HCMZbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
