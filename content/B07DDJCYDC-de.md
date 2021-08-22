@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PASTAZA Badeschuhe Damen Herren Schwimms mit 17.92 % Rabatt'
-date: 2021-08-19 07:52:24
+date: 2021-08-22 08:26:54
 image: 'https://m.media-amazon.com/images/I/41SOUukfsSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
