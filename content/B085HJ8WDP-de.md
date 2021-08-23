@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.13 % rabat auf WVG Medien GmbH - Jane Austen: Sanditon '
-date: 2021-08-22 00:14:12
+date: 2021-08-23 06:21:23
 image: 'https://m.media-amazon.com/images/I/51EBHLsPMGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'WVG Medien GmbH'
 buyurl: 'https://www.amazon.de/dp/B085HJ8WDP/?tag=tolees0ca-21'
 descuento: '21.13'
-average: '16.6616129032258'
+average: '16.5596875'
 ---
 
 Es gibt ein [WVG Medien GmbH - Jane Austen: Sanditon [2 DVDs]](https://www.amazon.de/dp/B085HJ8WDP/?tag=tolees0ca-21) mit aktuellem Preis 13.4 EUR (original: 16.99 EUR) 21.13 % Rabatt hier:
