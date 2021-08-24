@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney - Soul [Blu-ray] mit 24.80 % Rabatt'
-date: 2021-08-23 06:24:24
+date: 2021-08-24 12:24:23
 image: 'https://m.media-amazon.com/images/I/51sQThdhKNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B08VSYZ1WR/?tag=tolees0ca-21'
 descuento: '24.80'
-average: '15.276'
+average: '15.1961111111111'
 ---
 
 Sie können [Walt Disney - Soul [Blu-ray]](https://www.amazon.de/dp/B08VSYZ1WR/?tag=tolees0ca-21) mit Preis 12.4 EUR (original: 16.49 EUR) 24.80 % Rabatt hier:
