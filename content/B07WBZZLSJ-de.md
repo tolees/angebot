@@ -28,11 +28,11 @@ Sie können [LEGO 70427 Hidden Side Hidden Side Portal](https://www.amazon.de/d
 
 ℹ️:
 
-- Anzahl der Teile: 189
-- Enthält ein interaktives Modell das Hidden Side Portal sowie 4 Minifiguren.
 - In Kombination mit der App vermittelt das LEGO Hidden Side Spielzeug ein tolles AR-Erlebnis.
+- Enthält ein interaktives Modell das Hidden Side Portal sowie 4 Minifiguren.
+- Vom Hersteller empfohlenes Alter: 7+
+- Anzahl der Teile: 189
 - Vom Hersteller nicht mehr verkauft
 - Hidden Side Portal
-- Vom Hersteller empfohlenes Alter: 7+
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07WBZZLSJ/?tag=tolees0ca-21)
