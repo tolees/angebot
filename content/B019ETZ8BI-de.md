@@ -28,10 +28,10 @@ Es gibt ein [fischer DUOPOWER 5 x 25  Universaldübel  leistungsstarker 2-Kompon
 
 ℹ️:
 
-- Absolut leistungsstark: Durch die kompakte und kurze Form sind deutlich weniger Bohraufwand und somit kürzere Schrauben erforderlich, beim Einschlagen des Dübels verhindert der schmale Rand das Durchrutschen ins Bohrloch, die Mitdrehsicherung verhindert das Mitdrehen des Dübels und dank der bestmöglichen Rückmeldung spüren Sie sofort, wenn er perfekt sitzt.
 - Lieferumfang: 100 x DUOPOWER 5 x 25 (Art.-Nr. 535452) von fischer.
 - Ein Dübel für alle Baustoffe: Als intelligenter 2-Komponenten-Dübel ist er mit Schrauben Ø 3 - 4 mm verwendbar und bietet er sehr gute Haltewerte – die graue Komponente aktiviert je nach Baustoff automatisch das optimale Funktionsprinzip, während die Expansionsflügel der roten Komponente die sichere Verspreizung unterstützen.
-- Anwendungsgebiete: Der kraftvolle Dübel eignet sich zur Anbringung von leichten Gegenständen wie Sockelleisten, Kabelkanälen, Bildern, Dekorationen, Seifenschalen oder Toilettenpapierhaltern in zahlreichen Baustoffen wie Beton, Voll- und Hochlochziegeln, Naturstein, Kalksand-Voll- und Lochstein, Gipskarton, Gipsbau und -faserplatten, Hohldecken und Spanplatten.
+- Absolut leistungsstark: Durch die kompakte und kurze Form sind deutlich weniger Bohraufwand und somit kürzere Schrauben erforderlich, beim Einschlagen des Dübels verhindert der schmale Rand das Durchrutschen ins Bohrloch, die Mitdrehsicherung verhindert das Mitdrehen des Dübels und dank der bestmöglichen Rückmeldung spüren Sie sofort, wenn er perfekt sitzt.
 - Beste Lastwerte & intelligente Funktion: Der DUOPOWER ist der erste Dübel, der selbst entscheidet, ob er spreizt, klappt oder knotet – so passt er sich automatisch an den jeweiligen Untergrund an und ermöglicht dadurch ein breites Anwendungsspektrum in Voll-, Loch- und Plattenbaustoffen.
+- Anwendungsgebiete: Der kraftvolle Dübel eignet sich zur Anbringung von leichten Gegenständen wie Sockelleisten, Kabelkanälen, Bildern, Dekorationen, Seifenschalen oder Toilettenpapierhaltern in zahlreichen Baustoffen wie Beton, Voll- und Hochlochziegeln, Naturstein, Kalksand-Voll- und Lochstein, Gipskarton, Gipsbau und -faserplatten, Hohldecken und Spanplatten.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B019ETZ8BI/?tag=tolees0ca-21)

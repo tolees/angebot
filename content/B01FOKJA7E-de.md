@@ -29,9 +29,9 @@ Sie können [fischer MEISTER-BOX DUOPOWER  Dübelbox mit 132 Dübeln  60 Stk. 6 
 ℹ️:
 
 - Das ist drin: Die praktische MEISTER-BOX beinhaltet insgesamt 132 DUOPOWER Dübel in 6 verschieden großen Fächern: 60 x DUOPOWER 6 x 30, 60 x DUOPOWER 8 x 40, 12 x DUOPOWER 10 x 50 – der erste Dübel, der selbst entscheidet, ob er spreizt, klappt oder knotet.
-- Absolut leistungsstark: Durch die kompakte und kurze Form sind deutlich weniger Bohraufwand und somit kürzere Schrauben erforderlich, beim Einschlagen des Dübels verhindert der schmale Rand das Durchrutschen ins Bohrloch, die Mitdrehsicherung verhindert das Mitdrehen des Dübels und dank der bestmöglichen Rückmeldung spüren Sie sofort, wenn er perfekt sitzt.
 - Ein Dübel für alle Baustoffe: Als intelligenter 2-Komponenten-Dübel passt sich der DUOPOWER automatisch den Erfordernissen des Baustoffs an und erreicht durch die drei Funktionsprinzipien klappen (Lochbaustoffe), spreizen (Vollbaustoffe) und knoten (Plattenbaustoffe) höchste Lastwerte.
-- Lieferumfang: 1 x MEISTER-BOX DUOPOWER (Art.-Nr. 535971), Dübelkiste mit 132DUOPOWER (DP) Dübeln (60 Stk. DP 6 x 30, 60 Stk. DP 8 x 40, 12 Stk. DP 10 x 50) von fischer.
+- Absolut leistungsstark: Durch die kompakte und kurze Form sind deutlich weniger Bohraufwand und somit kürzere Schrauben erforderlich, beim Einschlagen des Dübels verhindert der schmale Rand das Durchrutschen ins Bohrloch, die Mitdrehsicherung verhindert das Mitdrehen des Dübels und dank der bestmöglichen Rückmeldung spüren Sie sofort, wenn er perfekt sitzt.
 - Anwendungsgebiete: Der kraftvolle Dübel eignet sich zur Anbringung von leichten und schweren Gegenständen wie Bilder, Leuchten, Konsolen, Spiegel- und Hängeschränke, Waschbeckenbefestigungen, Wandregale, Sanitär/Heizung/Klima-Befestigungen, Bad- und WC-Einrichtungen sowie Dunstabzugshauben in zahlreichen Baustoffen wie (Leicht)-Beton, Voll- und Hochlochziegel, Natur-, Voll- und Lochstein, Gipskarton, Gipsbau und -faserplatten, Hohldecken und Spanplatten.
+- Lieferumfang: 1 x MEISTER-BOX DUOPOWER (Art.-Nr. 535971), Dübelkiste mit 132DUOPOWER (DP) Dübeln (60 Stk. DP 6 x 30, 60 Stk. DP 8 x 40, 12 Stk. DP 10 x 50) von fischer.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01FOKJA7E/?tag=tolees0ca-21)

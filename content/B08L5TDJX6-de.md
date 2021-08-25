@@ -28,14 +28,14 @@ Es gibt ein [Neues Apple iPhone 12 Mini  64 GB  - Schwarz](https://www.amazon.d
 
 ℹ️:
 
-- 5G für superschnelle Downloads und Streaming in höchster Qualität
-- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
-- Branchenführender IP68 Wasserschutz
-- 5,4" Super Retina XDR Display (13,7 cm Diagonale)
 - Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
-- Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
 - A14 Bionic, der schnellste Chip in einem Smartphone
+- Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
+- 5,4" Super Retina XDR Display (13,7 cm Diagonale)
+- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
 - iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
 - 12 MP TrueDepth Frontkamera mit Nachtmodus, 4K Dolby Vision HDR Aufnahme
+- 5G für superschnelle Downloads und Streaming in höchster Qualität
+- Branchenführender IP68 Wasserschutz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08L5TDJX6/?tag=tolees0ca-21)
