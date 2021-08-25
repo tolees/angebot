@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '24.67 % rabat auf Marshall Major IV Bluetooth Faltbar Kopf'
-date: 2021-08-18 12:18:49
+date: 2021-08-25 06:21:50
 image: 'https://m.media-amazon.com/images/I/41e+UJN2d3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Marshall'
 buyurl: 'https://www.amazon.de/dp/B08KHT2HDT/?tag=tolees0ca-21'
 descuento: '24.67'
-average: '116.49'
+average: '115.323333333333'
 ---
 
 Es gibt ein [Marshall Major IV Bluetooth Faltbar Kopfhörer - Schwarz](https://www.amazon.de/dp/B08KHT2HDT/?tag=tolees0ca-21) mit aktuellem Preis 112.99 EUR (original: 149.99 EUR) 24.67 % Rabatt hier:
