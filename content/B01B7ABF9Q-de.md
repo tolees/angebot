@@ -28,9 +28,9 @@ Sie können [Sony BDP-S6700 Blu-ray-Player  Wireless Multiroom  Super WiFi  3D  
 
 ℹ️:
 
-- Schnelles, stabiles Streaming von diversen Internetvideo-Diensten
-- Integriertes Dualband-Wi-Fi für ein starkes WLAN-Signal
 - Atemberaubende Bildqualität dank 4K Upscaling (24p)
+- Integriertes Dualband-Wi-Fi für ein starkes WLAN-Signal
+- Schnelles, stabiles Streaming von diversen Internetvideo-Diensten
 - Audiogenuss über kabellose Lautsprecher oder Kopfhörer dank Bluetooth mit LDAC-Qualität
 - Kabellose Wiedergabe von Musik in der ganzen Wohnung mit SongPal Link
 
