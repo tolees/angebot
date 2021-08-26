@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Valerian - D mit 44.19 % Rabatt'
-date: 2021-08-24 20:42:13
+date: 2021-08-26 00:30:49
 image: 'https://m.media-amazon.com/images/I/51bCygqXClL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
