@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WR841N N300 WLAN Router  für  mit 34.93 % Rabatt'
-date: 2021-08-26 00:29:17
+date: 2021-08-27 00:36:26
 image: 'https://m.media-amazon.com/images/I/41Sm+swaTWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B001FWYGJS/?tag=tolees0ca-21'
 descuento: '34.93'
-average: '15.5016551724138'
+average: '15.4975342465754'
 ---
 
 Sie können [TP-Link TL-WR841N N300 WLAN Router  für Anschluss an Kabel-/ DSL-/ Glasfaser-Modem  300 Mbit/s  2 4 GHz   WPS  Print/ Media/ FTP Server  Schwarz/Weiß](https://www.amazon.de/dp/B001FWYGJS/?tag=tolees0ca-21) mit Preis 14.9 EUR (original: 22.9 EUR) 34.93 % Rabatt hier:
@@ -28,13 +28,13 @@ Sie können [TP-Link TL-WR841N N300 WLAN Router  für Anschluss an Kabel-/ DSL-/
 
 ℹ️:
 
+- Kompatibel zu IPv6, Systemanforderungen: Microsoft Windows 98SE, NT, 2000, XP, Vista, 7, 8 oder 10, MacOS, NetWare, UNIX, Linux
 - Einfache WLAN-Sicherheitsverschlüsselung mit einem einfachen Druck auf die WPS-Taste
 - Lieferumfang: Wireless-N-Router TL-WR841N, Spannungsadapter, Schnellinstallationsanleitung
 - Betriebstemperatur : 0°C - 40°C
+- 300 Mbit/s WLAN-Geschwindigkeit; ideal für unterbrechungsgefährdete Anwendungen wie HD-Videostreaming
 - Zwei Antennen erhöhen die Robustheit und die Stabilität des WLAN erheblich
 - Die IP-basierte Datenratensteuerung ermöglicht es Ihnen zu bestimmen, wie viel Datenrate jedem PC zugeteilt wird
 - TP-LINK Tether App zur einfachen Installation und Management aller mobilen Netzwerkgeräte
-- Kompatibel zu IPv6, Systemanforderungen: Microsoft Windows 98SE, NT, 2000, XP, Vista, 7, 8 oder 10, MacOS, NetWare, UNIX, Linux
-- 300 Mbit/s WLAN-Geschwindigkeit; ideal für unterbrechungsgefährdete Anwendungen wie HD-Videostreaming
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001FWYGJS/?tag=tolees0ca-21)
