@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.26 % rabat auf Spider-Man 1-3 [Blu-ray]'
-date: 2021-08-25 11:38:20
+date: 2021-08-27 19:44:27
 image: 'https://m.media-amazon.com/images/I/61-9PCUZszL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B074JP6FCH/?tag=tolees0ca-21'
 descuento: '19.26'
-average: '7.65666666666667'
+average: '7.84428571428572'
 ---
 
 Es gibt ein [Spider-Man 1-3 [Blu-ray]](https://www.amazon.de/dp/B074JP6FCH/?tag=tolees0ca-21) mit aktuellem Preis 8.97 EUR (original: 11.11 EUR) 19.26 % Rabatt hier:
