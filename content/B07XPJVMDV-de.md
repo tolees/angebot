@@ -28,10 +28,10 @@ Sie können [Puma Uni rucksack  Puma Black  OSFA](https://www.amazon.de/dp/B07XP
 
 ℹ️:
 
-- Zwei-Wege-Reißverschluss zum großen Hauptfach
+- Großes PUMA Cat Logo in der linken unteren Ecke
 - Verborgene, vertikale Reißverschlusstasche vorne
 - Gewebter Tragegriff oben
-- Großes PUMA Cat Logo in der linken unteren Ecke
 - Gepolsterte, verstellbare Schultergurte
+- Zwei-Wege-Reißverschluss zum großen Hauptfach
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XPJVMDV/?tag=tolees0ca-21)
