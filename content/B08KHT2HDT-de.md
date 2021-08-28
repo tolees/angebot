@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '24.67 % rabat auf Marshall Major IV Bluetooth Faltbar Kopf'
-date: 2021-08-25 06:21:50
+title: '23.33 % rabat auf Marshall Major IV Bluetooth Faltbar Kopf'
+date: 2021-08-28 07:21:19
 image: 'https://m.media-amazon.com/images/I/41e+UJN2d3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08KHT2HDT-de Marshall Major IV Bluetooth Faltbar Kopfhörer - Schwarz'
 sku: 'B08KHT2HDT-de'
 tags: [ 'Bluetooth-Kopfhörer','Elektronik & Foto','Kopfhörer','Kopfhörer & Zubehör','marshall', ]
-actualPrice: 112.99 EUR
+actualPrice: 114.99 EUR
 currency: EUR
-price: 112.99
+price: 114.99
 comparePrice: 149.99 EUR
 prodname: 'Marshall Major IV Bluetooth Faltbar Kopfhörer - Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Marshall'
 buyurl: 'https://www.amazon.de/dp/B08KHT2HDT/?tag=tolees0ca-21'
-descuento: '24.67'
-average: '115.323333333333'
+descuento: '23.33'
+average: '115.24'
 ---
 
-Es gibt ein [Marshall Major IV Bluetooth Faltbar Kopfhörer - Schwarz](https://www.amazon.de/dp/B08KHT2HDT/?tag=tolees0ca-21) mit aktuellem Preis 112.99 EUR (original: 149.99 EUR) 24.67 % Rabatt hier:
+Es gibt ein [Marshall Major IV Bluetooth Faltbar Kopfhörer - Schwarz](https://www.amazon.de/dp/B08KHT2HDT/?tag=tolees0ca-21) mit aktuellem Preis 114.99 EUR (original: 149.99 EUR) 23.33 % Rabatt hier:
 
 [![Marshall Major IV Bluetooth Faltbar Kopf](https://m.media-amazon.com/images/I/41e+UJN2d3L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08KHT2HDT/?tag=tolees0ca-21)
 

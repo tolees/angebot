@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'ChayChax Kinder Leicht Laufschuhe Atmung mit 15.01 % Rabatt'
-date: 2021-08-06 06:15:16
+date: 2021-08-28 08:21:48
 image: 'https://m.media-amazon.com/images/I/51O61z1TlZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08QDL1P23-de ChayChax Kinder Leicht Laufschuhe Atmungsaktive Turnschuhe...'
 sku: 'B08QDL1P23-de'
-tags: [ 'Jungenschuhe','Laufschuhe für Jungen','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','Sneaker & Sportschuhe für Jungen','Sport- & Outdoorschuhe für Jungen','Straßenlaufschuhe für Jungen','chaychax', ]
+tags: [ 'Fashion','Jungenmode','Jungenschuhe','Laufschuhe für Jungen','Sneaker & Sportschuhe für Jungen','Sport- & Outdoorschuhe für Jungen','Straßenlaufschuhe für Jungen','chaychax', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94
