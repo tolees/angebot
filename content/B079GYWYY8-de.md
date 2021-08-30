@@ -28,12 +28,12 @@ Es gibt ein [Philips Grind und Brew HD7767/00 Filterkaffeemaschine  mit Mahlwerk
 
 ℹ️:
 
-- Für ein optimales Aroma verteilt der Aroma Twister den einfließenden Kaffee gleichmäßig in der Kanne
 - AromaSeal Deckel für langanhaltend frische Bohnen
-- Langlebiges Kegelmahlwerk mit wählbarem Mahlgrad für bis zu 30.000 Tassen Kaffee
 - Automatische Abschaltfunktion nach 30 Minuten (EU Richtlinie), einstellbare Warmhaltefunktion 10 - 120 Minuten
 - Mit Baristas entwickelt, Bohnenbehälter für jederzeit frisch gemahlene Bohnen
-- Einfache Bedienung durch Multi-Bedienknopf (Auswahl der Kaffeestärke, Tassenanzahl, Mahlwerk)
+- Langlebiges Kegelmahlwerk mit wählbarem Mahlgrad für bis zu 30.000 Tassen Kaffee
 - Innovative Wasserstandsanzeige mit LightGuide, Brühzeit für eine Kanne (1,2 L / 10 Tassen) - 10 Min.
+- Einfache Bedienung durch Multi-Bedienknopf (Auswahl der Kaffeestärke, Tassenanzahl, Mahlwerk)
+- Für ein optimales Aroma verteilt der Aroma Twister den einfließenden Kaffee gleichmäßig in der Kanne
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079GYWYY8/?tag=tolees0ca-21)
