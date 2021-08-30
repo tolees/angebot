@@ -29,9 +29,9 @@ Sie können [AVM FRITZ!Box 4040 WLAN Router  für den Betrieb an einem Modem am 
 ℹ️:
 
 - WLAN AC + N mit bis zu 866 MBit/s (5 GHz) und 400 Mbit/s (2,4 GHz), WLAN- oder LAN-Gastzugang zum Internet für Besucher ohne Zugriff auf das private Heimnetz
-- NAS-Funktion ermöglicht USB- und Online-Speicher als Netzwerkspeicher zu verwenden, Zugriff auch aus der Ferne, z.B. über MyFRITZ!
 - 4x Gigabit-Ethernet zum Anschluss von Computern, Fernsehern, Spielekonsolen, 1x USB 3.0, 1 x USB 2.0 für Drucker und Speicher im Netzwerk, Vielseitiges FRITZ!OS mit MyFRITZ!, FRITZ!NAS, FRITZ!Apps und fritz.box-Benutzeroberfläche - intuitiv über den Browser zu bedienen
 - Lieferumfang: AVM FRITZ!Box 4040 WLAN-Router, Netzteil, Servicekarte (FRITZ! Notiz), Netzwerkkabel (1,8 m, weiß), Kurzanleitung
+- NAS-Funktion ermöglicht USB- und Online-Speicher als Netzwerkspeicher zu verwenden, Zugriff auch aus der Ferne, z.B. über MyFRITZ!
 - WLAN-Router für den Betrieb an ein Modem am Kabel-/DSL-/Glasfaser-Anschluss, an ein vorhandenes Netzwerk, oder UMTS-/HSPA-/LTE-Stick (USB)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01L27NNAI/?tag=tolees0ca-21)
