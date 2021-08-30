@@ -29,10 +29,10 @@ Sie können [Speedlink DRIFT O.Z. Racing Wheel - USB-Gaming-Lenkrad für PC/Comp
 ℹ️:
 
 - Wenn Sie das Gefühl haben, dass das Lenkrad verzögert reagiert. Bitte beachten: Eine leichte Verzögerung ist normal, diese beträgt etwa 15°. Diese Totzone existiert, weil es Spiele gibt, die eine negative Totzone verwenden. Ohne Verzögerung würde sich das Lenkrad zunächst in die entgegengesetzte Richtung zur gewünschten Richtung drehen
-- Ausgestattet mit Schaltwippen und Schaltknüppel sowie fein dosierbaren Pedal und Bremse (frei belegbar).
-- Überlegene Kontrolle in Rennen dank perfekter Lenkpräzision und einem Lenkbereich von 180°. Gummierter Lenkkranz für beste Griffigkeit, starke Saugnäpfe für sicheren Halt auch bei extremen Fahrmanövern.
 - Verbindung über USB-A, Kabellänge 2 m, Kabellänge der Pedaleinheit 1,6 m.
+- Überlegene Kontrolle in Rennen dank perfekter Lenkpräzision und einem Lenkbereich von 180°. Gummierter Lenkkranz für beste Griffigkeit, starke Saugnäpfe für sicheren Halt auch bei extremen Fahrmanövern.
 - Kompatibilität mit allen Windows-Betriebssystemen ab XP. Hochpräzises digitales Steuerkreuz, 12 Funktionstasten und Umschalter für Analog- und Digitalmodus (XInput, DirectInput).
 - Regulierbare Empfindlichkeit und Vibrationsstärke. Die Vibrationseffekte sorgen für ein realistisches Spielgefühl.
+- Ausgestattet mit Schaltwippen und Schaltknüppel sowie fein dosierbaren Pedal und Bremse (frei belegbar).
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00ANHE7CW/?tag=tolees0ca-21)
