@@ -28,10 +28,10 @@ Es gibt ein [M&M S | Peanut | Schokolinsen mit Erdnusskern | Eine Packung  1 x 1
 
 ℹ️:
 
-- Beste Qualität durch ausgewählte Zutaten - nur original mit dem "m"!
-- Ob mit Freunden oder der Familie - mit M&Ms kommt Spaß in die Runde
-- Im 1 Kg-Beutel ideal für die Party
 - Sonderformat - nur für kurze Zeit!
+- Ob mit Freunden oder der Familie - mit M&Ms kommt Spaß in die Runde
 - Der unwiderstehliche Knabberspaß, der einfach jedem schmeckt
+- Beste Qualität durch ausgewählte Zutaten - nur original mit dem "m"!
+- Im 1 Kg-Beutel ideal für die Party
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DGL2GC0/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.40 % rabat auf Paramount - NCIS: Los Angeles - Die zehn'
-date: 2021-08-29 00:48:06
+date: 2021-08-30 12:51:36
 image: 'https://m.media-amazon.com/images/I/519z+GbldSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Paramount'
 buyurl: 'https://www.amazon.de/dp/B084DFQRPC/?tag=tolees0ca-21'
 descuento: '18.40'
-average: '15.1716666666667'
+average: '15.1014285714286'
 ---
 
 Es gibt ein [Paramount - NCIS: Los Angeles - Die zehnte Season [6 DVDs]](https://www.amazon.de/dp/B084DFQRPC/?tag=tolees0ca-21) mit aktuellem Preis 14.68 EUR (original: 17.99 EUR) 18.40 % Rabatt hier:
