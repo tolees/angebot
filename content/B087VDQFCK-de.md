@@ -30,7 +30,7 @@ Sie können [Ubisoft - Assassin s Creed Valhalla Standard Edition | Uncut - [PC]
 
 - Schreiben Sie Ihre eigene Wikingersaga und formen Sie Ihren Charakter dank umfangreicher RPG-Elemente
 - Führen Sie Ihren Clan Nordmänner vom eisigen Norwegen über aufgepeitschtes Meer bis zu den zerbrochenen Königreichen Englands
-- Wählen Sie zwischen der weiblichen oder dem männlichen Eivor und individualisieren Sie Ihren Charakter umfassend
 - Jede Entscheidung zählt und beeinflusst das Schicksal des eigenen Clans und der riesigen, wunderschönen Spielwelt maßgeblich
+- Wählen Sie zwischen der weiblichen oder dem männlichen Eivor und individualisieren Sie Ihren Charakter umfassend
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087VDQFCK/?tag=tolees0ca-21)
