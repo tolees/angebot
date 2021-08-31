@@ -28,9 +28,9 @@ Es gibt ein [WRIGLEY S EXTRA Professional White Citrus | Zuckerfrei | Eine Dose 
 
 ℹ️:
 
-- Bekämpft eine Karies-Ursache
-- Unterstützt die Neutralisierung der plaquesäuren, die ein Risikofaktor bei der Entstehung von Zahnkaries sind.
-- Für weissere Zähne
 - Zuckerfreier Kaugummi zur Zahnpflege
+- Bekämpft eine Karies-Ursache
+- Für weissere Zähne
+- Unterstützt die Neutralisierung der plaquesäuren, die ein Risikofaktor bei der Entstehung von Zahnkaries sind.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B083Y4CLWQ/?tag=tolees0ca-21)

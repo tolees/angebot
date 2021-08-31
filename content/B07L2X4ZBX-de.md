@@ -28,11 +28,11 @@ Es gibt ein [Corsair Harpoon Kabellose RGB Wiederaufladbare Optisch Gaming-Maus 
 
 ℹ️:
 
-- Dynamische RGB-Rückbeleuchtung mit Dutzenden anpassbaren Voreinstellungen und Effekten. Die intuitive und leistungsstarke CORSAIR iCUE-Software ermöglicht eine lebendige dynamische RGB
-- Lebensdauer der Batterie: 2,4 GHz SLIPSTREAM: Bis zu 30 Stunden bei Standardbeleuchtung oder 45 Stunden bei ausgeschalteter Beleuchtung Bluetooth: Bis zu 40 Stunden bei Standardbeleuchtung oder 60 Stunden bei ausgeschalteter Beleuchtung.
-- Sechs vollständig programmierbare Tasten warten auf leistungsstarke Makros oder Neubelegungen, die einen Vorteil im Spiel verschaffen. Extrem robuste mechanische Omron-Maus-Schalter
 - Federleichte Konstruktion von nur 99 g für längeres, ermüdungsfreies Gaming. Die profilierte Form, die gummierten Seitengriffe sorgen für langfristigen Komfort, optimalen Grip in allen Situationen
-- Optischer Sensor mit 10.000 dpi für hochgenaues Tracking auch der leichtesten Bewegung
 - Kabellose Performance in Gaming-Qualität. Hyperschnelle 2,4-GHz Sub-1-ms-Slipstream Corsair Wireless-Technologie, um eine Datenübertragung von der Gaming-Maus zum System ohne Lags zu ermöglichen
+- Sechs vollständig programmierbare Tasten warten auf leistungsstarke Makros oder Neubelegungen, die einen Vorteil im Spiel verschaffen. Extrem robuste mechanische Omron-Maus-Schalter
+- Dynamische RGB-Rückbeleuchtung mit Dutzenden anpassbaren Voreinstellungen und Effekten. Die intuitive und leistungsstarke CORSAIR iCUE-Software ermöglicht eine lebendige dynamische RGB
+- Optischer Sensor mit 10.000 dpi für hochgenaues Tracking auch der leichtesten Bewegung
+- Lebensdauer der Batterie: 2,4 GHz SLIPSTREAM: Bis zu 30 Stunden bei Standardbeleuchtung oder 45 Stunden bei ausgeschalteter Beleuchtung Bluetooth: Bis zu 40 Stunden bei Standardbeleuchtung oder 60 Stunden bei ausgeschalteter Beleuchtung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07L2X4ZBX/?tag=tolees0ca-21)
