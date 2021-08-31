@@ -30,8 +30,8 @@ Es gibt ein [Acer Chromebook Convertible 14 Zoll  CP514-1H-R79Q   ChromeOS  FHD 
 
 - Schnell. Einfach. Sicher: Mit Chromebooks werden Laptops dank ChromeOS einfach und intuitiv wie Smartphones. Sie starten in wenigen Sekunden und dank integriertem Virenschutz sind Sie immer sicher unterwegs
 - HERSTELLERGARANTIE: 24 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- Dieses Premium Chromebook ist extrem leistungsfähig mit noch mehr Speicherplatz und somit perfekt für Multitasking und komplexe Aufgaben geeignet. Zugriff auf Millionen von Apps im Google Play Store und 12 Monate kostenlos 100 GB Speicherplatz bei Google One
-- AKKU: bis zu 10 Stunden Tastatur: beleuchtet, Chromebook Design mit Qwertz Layout LIEFERUMFANG: CP514-1H-R79Q, 45W AC-Netzteil (USB Type C Adapter)
 - ANSCHLÜSSE: Displayport (über USB-C ), 2xUSB 3.2 , Kartenleser, Audio Anschluss: 3,5 mm Port KABELLOS: WLAN, Bluetooth 4.0
+- AKKU: bis zu 10 Stunden Tastatur: beleuchtet, Chromebook Design mit Qwertz Layout LIEFERUMFANG: CP514-1H-R79Q, 45W AC-Netzteil (USB Type C Adapter)
+- Dieses Premium Chromebook ist extrem leistungsfähig mit noch mehr Speicherplatz und somit perfekt für Multitasking und komplexe Aufgaben geeignet. Zugriff auf Millionen von Apps im Google Play Store und 12 Monate kostenlos 100 GB Speicherplatz bei Google One
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08VWM468N/?tag=tolees0ca-21)

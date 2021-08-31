@@ -28,10 +28,10 @@ Sie können [ALCLEAR Mikrofaser Handschuh zum Auto waschen mit Shampoo: besser a
 
 ℹ️:
 
-- Der Waschhandschuh arbeitet sauber und schonend. Besser als ein Auto Wasch Schwamm, Poliertuch oder Microfasertuch; ideal mit Autoshampoo für Kfz, Motorrad, Wohnmobil und Fahrrad - reinigt den Dreck und schafft Glanz
-- Hochflorig, flauschig ohne Kratzer Auto waschen; ideal für Lack in schwarz und blau; ersetzt Ihren Autowaschschwamm; perfekte Voraussetzung für anschließende Lack-Versiegelung; Größe: ca. 27x17 cm; Zusammensetzung: 70% Polyester, 30% Polyamid
 - Mit Bündchen: verhindert Abrutschen und Verletzungen an der Hand; so geht Profi Autowäsche für Felgen, Lack, Fenster und Scheiben ohne Mikrofasertuch; auch im Haushalt für Fensterreinigung
-- Spitzen Saugkraft, bis zu 12-fache Aufnahme an Wasser – mehr als Microfasertücher, Poliertücher, Trockentücher oder Putz-Lappen; für beste Pkw Aufbereitung; unterstützt die Schaumbildung mit Shampoo für super Glanz-Wäsche
 - Perfekt Auto waschen per Handwäsche: Microfaser Handschuh für die Autowäsche und Lackpflege ohne Kratzer, Flusen oder Fussel; idealer Putzhandschuh; entfernt Schmutz, Staub, Pollen und Insekten wie ein Insektenentferner
+- Hochflorig, flauschig ohne Kratzer Auto waschen; ideal für Lack in schwarz und blau; ersetzt Ihren Autowaschschwamm; perfekte Voraussetzung für anschließende Lack-Versiegelung; Größe: ca. 27x17 cm; Zusammensetzung: 70% Polyester, 30% Polyamid
+- Der Waschhandschuh arbeitet sauber und schonend. Besser als ein Auto Wasch Schwamm, Poliertuch oder Microfasertuch; ideal mit Autoshampoo für Kfz, Motorrad, Wohnmobil und Fahrrad - reinigt den Dreck und schafft Glanz
+- Spitzen Saugkraft, bis zu 12-fache Aufnahme an Wasser – mehr als Microfasertücher, Poliertücher, Trockentücher oder Putz-Lappen; für beste Pkw Aufbereitung; unterstützt die Schaumbildung mit Shampoo für super Glanz-Wäsche
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00AFRQ3UY/?tag=tolees0ca-21)

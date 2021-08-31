@@ -28,10 +28,10 @@ Es gibt ein [Casio - GRAPH25+EII](https://www.amazon.de/dp/B08V8QRN76/?tag=tolee
 
 ℹ️:
 
-- Statistiken mit 1 und 2 variablen, komplexen Zahlen, Derivaten und Integralen
-- Der Grafikrechner Graph 25+E ist der am besten geeignete Grafikrechner für die beruflichen und nicht wissenschaftlichen Abschnitte in der Schule
-- Programmiersprache Typ Basic, Berechnung von Brüchen und Werte Tabellen
 - Anschluss an einen anderen Grafikrechner (über 3-poliges Kabel), Prüfungsmodus: Einschränkung des Benutzerspeichers während der Prüfung
+- Programmiersprache Typ Basic, Berechnung von Brüchen und Werte Tabellen
 - Display 8 Zeilen x 21 Zeichen, 20 KB Benutzerspeicher, Symbolmenü, Programmiersprache Typ Basic, Schiebedeckel Schutzabdeckung
+- Der Grafikrechner Graph 25+E ist der am besten geeignete Grafikrechner für die beruflichen und nicht wissenschaftlichen Abschnitte in der Schule
+- Statistiken mit 1 und 2 variablen, komplexen Zahlen, Derivaten und Integralen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08V8QRN76/?tag=tolees0ca-21)

@@ -28,12 +28,12 @@ Es gibt ein [Lenovo IdeaPad Gaming 3i Laptop 39 6 cm  15 6 Zoll  1920x1080  Full
 
 ℹ️:
 
-- Full-HD IPS-Display mit 120 Hz, Gamingoptimierte Tastatur
-- Akku: Li-Ion 45 Wh, Laufzeit bis zu 7 Stunden (MobileMark 2014)
 - Intel Core i5-10300H Prozessor (bis zu 4,50 GHz mit Intel Turbo-Boost-Technik 2.0, 8 MB Intel Cache)
-- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt.
 - NVIDIA GeForce GTX 1650 4GB GDDR6, Dolby Audio Soundoptimierung, RapidCharge Schnell-Ladefunktion
-- Lieferumfang: Lenovo IdeaPad Gaming 3i 15IMH05, Onyx Schwarz, Netzteil, Dokumentation
 - Coole blaue Tastaturbeleuchtung, PrivacyShutter mechanische Kameraabdeckung
+- Lieferumfang: Lenovo IdeaPad Gaming 3i 15IMH05, Onyx Schwarz, Netzteil, Dokumentation
+- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt.
+- Akku: Li-Ion 45 Wh, Laufzeit bis zu 7 Stunden (MobileMark 2014)
+- Full-HD IPS-Display mit 120 Hz, Gamingoptimierte Tastatur
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0868YPMBQ/?tag=tolees0ca-21)
