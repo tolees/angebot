@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.12 % rabat auf LEONINE Distribution GmbH - Die große Pl'
-date: 2021-08-31 12:48:00
+date: 2021-09-01 13:45:28
 image: 'https://m.media-amazon.com/images/I/51D5v-ZN-2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [LEONINE Distribution GmbH - Die große Plattfuß-Box [4 DVDs]](http
 
 ℹ️:
 
-- Angaben: laut Hersteller
-- Ausführung: Langfassung
-- Ausführung: Schuber
-- Ausführung: Kinofassung
 - Anzahl Datenträger: 4
+- Ausführung: Kinofassung
+- Ausführung: Schuber
+- Ausführung: Langfassung
+- Angaben: laut Hersteller
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008ZKAQB0/?tag=tolees0ca-21)
