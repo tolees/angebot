@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony BDP-S6700 Blu-ray-Player  Wireless  mit 32.82 % Rabatt'
-date: 2021-08-26 00:32:42
+date: 2021-09-01 00:41:43
 image: 'https://m.media-amazon.com/images/I/21BkyafioZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B01B7ABF9Q/?tag=tolees0ca-21'
 descuento: '32.82'
-average: '98.5806172839504'
+average: '98.5524539877298'
 ---
 
 Sie können [Sony BDP-S6700 Blu-ray-Player  Wireless Multiroom  Super WiFi  3D  Screen Mirroring  4K Upscaling  schwarz](https://www.amazon.de/dp/B01B7ABF9Q/?tag=tolees0ca-21) mit Preis 93.99 EUR (original: 139.9 EUR) 32.82 % Rabatt hier:
