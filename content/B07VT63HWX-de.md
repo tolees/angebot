@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HKR Damen Turnschuhe Atmungsaktiv Laufsc mit 15.02 % Rabatt'
-date: 2021-08-31 05:32:59
+date: 2021-09-01 06:01:23
 image: 'https://m.media-amazon.com/images/I/41XKq-CeKpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
