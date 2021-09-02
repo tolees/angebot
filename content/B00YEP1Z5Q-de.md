@@ -28,10 +28,10 @@ Sie können [Sony XDR-C1DBP Uhrenradio  DAB/DAB+  digitalem Radioempfang  große
 
 ℹ️:
 
+- Große Uhranzeige und zwei Zeilen mit je 16 Zeichen zur Anzeige von Textinformationen; Zwei Weckmodi: Werktage, Wochenenede
+- Lieferumfang: Sony XDR-C1DBP Uhrenradio
+- DAB/DAB+ Stylisches Uhrenradio im Würfeldesign mit digitalem Radioempfang
 - Ladefunktion für das Smartphone
 - Fünf Preset Tasten (5 DAB, 5 UKW)
-- Große Uhranzeige und zwei Zeilen mit je 16 Zeichen zur Anzeige von Textinformationen; Zwei Weckmodi: Werktage, Wochenenede
-- DAB/DAB+ Stylisches Uhrenradio im Würfeldesign mit digitalem Radioempfang
-- Lieferumfang: Sony XDR-C1DBP Uhrenradio
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00YEP1Z5Q/?tag=tolees0ca-21)
