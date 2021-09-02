@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AV Visionen - Saber Rider and the Star S mit 20.39 % Rabatt'
-date: 2021-08-25 00:48:17
+date: 2021-09-02 06:59:34
 image: 'https://m.media-amazon.com/images/I/51eBXA-lb1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
