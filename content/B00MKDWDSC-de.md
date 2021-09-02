@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.37 % rabat auf LEONINE Distribution GmbH - Karl May Kla'
-date: 2021-09-01 13:30:45
+date: 2021-09-02 19:04:00
 image: 'https://m.media-amazon.com/images/I/51RqffQOoAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
