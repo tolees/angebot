@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ND6CFHZ-de LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen...'
 sku: 'B07ND6CFHZ-de'
-tags: [  ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
 actualPrice: 169.89 EUR
 currency: EUR
 price: 169.89
@@ -16,7 +16,7 @@ comparePrice: 229.99 EUR
 prodname: 'LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen  App-gesteuertes Konstruktionsspielzeug mit Smarthub und interaktiven Motoren für Kinder und Erwachsene'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21'
 descuento: '26.13'
 average: '168.473277153562'
@@ -28,13 +28,13 @@ Es gibt ein [LEGO 42099 Technic Control 4x4 Allrad Xtreme-Geländewagen  App-ges
 
 ℹ️:
 
-- Das coole Geländewagen-Modell wird mit der LEGO TECHNIC CONTROL+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben – für ein noch fesselnderes Spielerlebnis, realistische Bewegungen und stundenlangen Spaß
 - Mehrzwecksteuerung: Du kannst vorwärts und rückwärts fahren, lenken, beschleunigen, bremsen, Hindernisse umfahren, Geräuscheffekte abspielen und in Echtzeit Rückmeldungen zu Geschwindigkeit und Neigung bekommen
+- Das coole Geländewagen-Modell wird mit der LEGO TECHNIC CONTROL+ App gesteuert und mit einem Smarthub mit zwei XL-Motoren und einem L-Motor angetrieben – für ein noch fesselnderes Spielerlebnis, realistische Bewegungen und stundenlangen Spaß
+- Lade die LEGO TECHNIC CONTROL+ App im App Store oder bei Google Play herunter. Bitte deine Eltern um Erlaubnis, bevor du online gehst
 - Der App-gesteuerte Allrad Xtreme-Geländewagen von LEGO wird über drei auswählbare Bildschirme auf einem Mobilgerät gesteuert. Auf LEGO.com/devicecheck kannst du prüfen, ob dein Gerät kompatibel ist
-- One-Touch-Steuerung: Ziehe den Bildschirm in eine Richtung und sieh dir an, wie der 4x4 die Bewegung ausführt
 - Robuster App-gesteuerter LEGO Geländewagen mit extra hoher Einzelradaufhängung, riesigen Rädern und wuchtigen Reifen
 - Der Smarthub verfügt über Bluetooth Low Energie (BLE), Aktivierungstaste, 6 Achsensensoren (3 Kreiselsensoren und 3 Sensoren für die Beschleunigungsmessung) und 4 Anschlussmöglichkeiten
-- Lade die LEGO TECHNIC CONTROL+ App im App Store oder bei Google Play herunter. Bitte deine Eltern um Erlaubnis, bevor du online gehst
+- One-Touch-Steuerung: Ziehe den Bildschirm in eine Richtung und sieh dir an, wie der 4x4 die Bewegung ausführt
 - Herausforderungen & Erfolge: Meistere Herausforderungen, um Belohnungen zu erhalten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND6CFHZ/?tag=tolees0ca-21)

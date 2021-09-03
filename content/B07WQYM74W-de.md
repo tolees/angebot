@@ -28,12 +28,12 @@ Es gibt ein [Seasonic FOCUS GX-550 Vollmodulares PC-Netzteil 80PLUS Gold 550 Wat
 
 ℹ️:
 
-- Vergoldete Anschlüsse
-- 80 PLUS Gold
-- Enge Spannungsregelung
 - Das FOCUS GX-550, ist der Nachfolgeartikel vom FOCUS PLUS 550 Gold (SSR-550FX)
+- Vergoldete Anschlüsse
 - Intel ATX 12 V
 - Größe: 140 mm (L) x 150 mm (B) x 86 mm (H)
+- Enge Spannungsregelung
+- 80 PLUS Gold
 - Vollmodulares Netzteil
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WQYM74W/?tag=tolees0ca-21)
