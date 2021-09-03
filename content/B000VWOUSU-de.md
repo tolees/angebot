@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.69 % rabat auf Queen - Rock Montreal & Live Aid [Blu-ra'
-date: 2021-09-02 00:54:37
+date: 2021-09-03 00:58:03
 image: 'https://m.media-amazon.com/images/I/413cPQfAoBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

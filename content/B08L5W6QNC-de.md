@@ -28,14 +28,14 @@ Es gibt ein [Neues Apple iPhone 12  256 GB  - Grün](https://www.amazon.de/dp/B
 
 ℹ️:
 
+- A14 Bionic, der schnellste Chip in einem Smartphone
+- Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
+- Branchenführender IP68 Wasserschutz
+- Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
 - 12 MP TrueDepth Frontkamera mit Nachtmodus, 4K Dolby Vision HDR Aufnahme
 - 6,1" Super Retina XDR Display (15,5 cm Diagonale)
 - 5G für superschnelle Downloads und Streaming in höchster Qualität
 - Ceramic Shield, der mehr aushält als jedes Smartphone Glas
 - iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
-- Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
-- A14 Bionic, der schnellste Chip in einem Smartphone
-- Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
-- Branchenführender IP68 Wasserschutz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08L5W6QNC/?tag=tolees0ca-21)
