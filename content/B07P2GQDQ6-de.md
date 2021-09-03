@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.89 % rabat auf LEGO 42110 Technic Land Rover Defender  '
-date: 2021-09-01 13:27:52
+date: 2021-09-03 13:13:26
 image: 'https://m.media-amazon.com/images/I/51Tfnj8fJlS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,25 +13,30 @@ actualPrice: 136.99 EUR
 currency: EUR
 price: 136.99
 comparePrice: 179.99 EUR
-prodname: 'LEGO 42110 Technic Land Rover Defender  4x4 Geländewagen  Exklusives Sammlerstück  Bauset für Fortgeschrittene'
+prodname: 'LEGO 42110 Technic Land Rover Defender  4x4 Geländewagen  Exklusives Sammlerstück für Kinder und Erwachsene  Bauset für Fortgeschrittene'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21'
 descuento: '23.89'
-average: '136.731268382351'
+average: '136.731743119264'
 ---
 
-Es gibt ein [LEGO 42110 Technic Land Rover Defender  4x4 Geländewagen  Exklusives Sammlerstück  Bauset für Fortgeschrittene](https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21) mit aktuellem Preis 136.99 EUR (original: 179.99 EUR) 23.89 % Rabatt hier:
+Es gibt ein [LEGO 42110 Technic Land Rover Defender  4x4 Geländewagen  Exklusives Sammlerstück für Kinder und Erwachsene  Bauset für Fortgeschrittene](https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21) mit aktuellem Preis 136.99 EUR (original: 179.99 EUR) 23.89 % Rabatt hier:
 
 [![LEGO 42110 Technic Land Rover Defender  ](https://m.media-amazon.com/images/I/51Tfnj8fJlS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21)
 
 ℹ️:
 
-- Der Innenraum ist mit einem detailreichen Armaturenbrett, einer Gangschaltung mit 2 Stellhebeln zum Einlegen hoher oder niedriger Übersetzungsverhältnisse und einem Wählhebel zum Wechseln des Gangs
-- Das Set Land Rover Defender (42110) mit 2.573 Teilen bietet ein Bauerlebnis und ist damit das ideale Geschenk für Baumeister ab 11 Jahren; Das Modell ist 22 cm hoch, 42 cm lang und 20 cm breit
-- Fans der Sets von LEGO Technic sowie der Fahrzeuge von Land Rover kommen mit dieser Nachbildung des Land Rover Defender in den Genuss eines Bauerlebnisses voller realistischer Funktionen
-- Das Bauspielzeug verfügt über eine Lenkung, ein sequenzielles 4-Gang-Getriebe, einen Allradantrieb mit 3 Differenzialen, Einzelradaufhängung, einen 6-Zylinder-Reihenmotor und eine Seilwinde
-- Dieses Sammlermodell des ultimativen Land Rover Defender 2019 fängt die gesamte Raffinesse des Geländewagens ein – mit seinen klaren, modernen Linien und plastischen Oberflächen
+- Dieses LEGO Technic Set bietet ein beeindruckendes Bauerlebnis.
+- Drehe am hinten montierten Ersatzrad, um die Heckklappe zu öffnen.
+- Umfasst eine realitätsgetreue Karosserie mit dem Logo von Land Rover, Felgen im Originaldesign mit griffigen Reifen, einen abnehmbaren Dachträger mit Aufbewahrungsbox, Tasche, Leiter und Bodenmatten, Türen zum Öffnen, Motorhaube und Heckklappe sowie einen detaillierten Innenraum.
+- Öffne die Türen, um Zugang zum Innenraum zu erhalten.
+- Farbmuster in olivgrün, grau und schwarz.
+- Eine Gangschaltung mit 2 Hebeln zum Einlegen hoher oder niedriger Übersetzungsverhältnisse und einen Wählhebel zum Wechseln des Gangs (neu ab Oktober 2019), machen es zum bisher ausgefeitlesten LEGO Technic Getriebe!
+- Öffne die Motorhaube, um dir den detaillierten 6-Zylinder-Reihenmotor mit beweglichen Kolben anzusehen.
+- Im Innenraum gibt es ein detailliertes Armaturenbrett, ein funktionierendes Lenkrad und nach vorne klappbare Rücksitze, die den Blick auf das sequenzielle 4-Gang-Getriebe freigeben.
+- Enthält eine Sammlung authentischer Aufkleber.
+- Zu den Funktionen zählen das sequenzielle 4-Gang-Getriebe, Allradantrieb mit 3 Differenzialen, Einzelradaufhängung an beiden Achsen, ein detaillierter 6-Zylinder-Reihenmotor und eine funktionierende Winde.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07P2GQDQ6/?tag=tolees0ca-21)
