@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '15.02 % rabat auf Nasonberg Arbeitsschuhe Herren Sicherhei'
-date: 2021-08-15 08:39:12
+date: 2021-09-03 07:00:51
 image: 'https://m.media-amazon.com/images/I/41wWzCEeB2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08YVBJXRS-de Nasonberg Arbeitsschuhe Herren Sicherheitsschuhe Herren...'
 sku: 'B08YVBJXRS-de'
-tags: [ 'Herren Arbeits- & Berufsschuhe','Herren Industrie & Handwerk Schuhe','Herren Industrie- & Handwerksschuhe','Herrenschuhe','Schuhe','Schuhe & Handtaschen','Schuhe, Handtaschen & Accessoires','nasonberg', ]
+tags: [ 'Fashion','Herren Arbeits- & Berufsschuhe','Herren Industrie & Handwerk Schuhe','Herren Industrie- & Handwerksschuhe','Herrenmode','Herrenschuhe','nasonberg', ]
 actualPrice: 39.05 EUR
 currency: EUR
 price: 39.05
