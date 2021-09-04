@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universum Film - Captain Future - Komple mit 33.62 % Rabatt'
-date: 2021-08-29 12:51:21
+date: 2021-09-04 00:59:51
 image: 'https://m.media-amazon.com/images/I/61KekIA-bgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universum Film'
 buyurl: 'https://www.amazon.de/dp/B01JOCMU7K/?tag=tolees0ca-21'
 descuento: '33.62'
-average: '46.67'
+average: '45.77'
 ---
 
 Sie können [Universum Film - Captain Future - Komplettbox [Blu-ray]](https://www.amazon.de/dp/B01JOCMU7K/?tag=tolees0ca-21) mit Preis 34.97 EUR (original: 52.68 EUR) 33.62 % Rabatt hier:
