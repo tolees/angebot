@@ -28,10 +28,10 @@ Sie können [Bosch Home and Garden - Bosch Akku Rasentrimmer EasyGrassCut 18-230
 
 ℹ️:
 
-- Bequeme Handhabung: Leichte Bauweise und kraftvoller Motor für einfaches, müheloses Trimmen
+- Kontinuierliches Schneiden: Unterbrechungsfreies Schneiden mit dem Bosch Rasentrimmer mit Akku durch Nachführen des Fadens bei jedem Loslassen des Schalters
 - Trimmen und Kantenschneiden: Einfacher Wechsel auf Kantenschneiden ohne Bücken durch einfachen Knopfdruck und Drehen des Handgriffs. Akkuladezeit: 124 min.
 - Die Easy Gartengeräte von Bosch – für kleine und mittelgroße Gärten
 - Power for ALL 18 V: Der enthaltene Akku ist mit allen Produkten des grünen Bosch Home & Garden 18 Volt Systems und Bosch Unlimited Staubsaugern kompatibel
-- Kontinuierliches Schneiden: Unterbrechungsfreies Schneiden mit dem Bosch Rasentrimmer mit Akku durch Nachführen des Fadens bei jedem Loslassen des Schalters
+- Bequeme Handhabung: Leichte Bauweise und kraftvoller Motor für einfaches, müheloses Trimmen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KWFCWG7/?tag=tolees0ca-21)
