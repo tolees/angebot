@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '32.50 % rabat auf LEONINE Distribution GmbH - Das Boot - C'
-date: 2021-09-04 19:16:22
+date: 2021-09-05 19:28:29
 image: 'https://m.media-amazon.com/images/I/514NB9BDocL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B07J35TB8S/?tag=tolees0ca-21'
 descuento: '32.50'
-average: '33.985'
+average: '33.4547058823529'
 ---
 
 Es gibt ein [LEONINE Distribution GmbH - Das Boot - Complete Edition  + Bonus-BD   + Soundtrack CD   Hörbuch  [Blu-ray]](https://www.amazon.de/dp/B07J35TB8S/?tag=tolees0ca-21) mit aktuellem Preis 24.97 EUR (original: 36.99 EUR) 32.50 % Rabatt hier:
