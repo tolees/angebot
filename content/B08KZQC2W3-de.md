@@ -28,10 +28,10 @@ Sie können [SANODESK EQ Höhenverstellbarer Schreibtisch Elektrisch höhenverst
 
 ℹ️:
 
-- ELEKTRISCH HÖHENVERSTELLBARES HEBESYSTEM: Der motorische Hebemechanismus bietet eine sanftere Höhenverstellung von 62 cm bis 127 cm bei einer Geschwindigkeit von 3,5 cm/s mit geringem Geräuschpegel (unter 50 dB) im Betrieb.
 - BITTE BEACHTEN SIE: Für einige Schritte ist möglicherweise ein Bohrer erforderlich, der nicht im Lieferumfang enthalten ist.
-- 2 Motoren plus 3-Fach-Teleskop: Die leistungsstarke Kombination gewährleistet dieTragfähigkeit von 100 kg und eine stabile, ausgewogene und reibungslose Einstellung.
+- ELEKTRISCH HÖHENVERSTELLBARES HEBESYSTEM: Der motorische Hebemechanismus bietet eine sanftere Höhenverstellung von 62 cm bis 127 cm bei einer Geschwindigkeit von 3,5 cm/s mit geringem Geräuschpegel (unter 50 dB) im Betrieb.
 - DIE NEUESTE VERBESSERTE ALL-IN-ONE-TOUCH-BILDSCHIRM-TASTATUR: Mit vier programmierbaren Voreinstellungen können Sie vier gewünschte Höhen speichern.
 - HOCH ANPASSBARER RAHMEN: Rahmenbreite von 110 cm bis 170 cm erweiterbar. Geeignet für Tischplatten mit einer Breite von 120 cm bis 180 cm und einer Tiefe von 60 cm bis 80 cm.
+- 2 Motoren plus 3-Fach-Teleskop: Die leistungsstarke Kombination gewährleistet dieTragfähigkeit von 100 kg und eine stabile, ausgewogene und reibungslose Einstellung.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KZQC2W3/?tag=tolees0ca-21)
