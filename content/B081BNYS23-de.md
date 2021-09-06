@@ -28,13 +28,13 @@ Sie können [Amazon - Kindle Kids – mit Zugriff auf mehr als tausend Bücher  
 
 ℹ️:
 
-- Kinder können ihre Lesefertigkeiten verbessern und neue Wörter lernen mit dem integrierten Wörterbuch und Vokabeltrainer.
-- Mit dem Abonnement für Amazon Kids+ (für 1 Jahr ohne zusätzliche Kosten) können Kinder über tausend beliebte Bücher und Reihen entdecken, darunter Harry Potter, Die drei ??? und viele weitere.
-- Amazon Kids+ umfasst die gesamte Harry-Potter-Reihe sowie ausgewählte Titel weiterer beliebter Buchreihen, zum Beispiel Gregs Tagebuch.
 - Kindle Kids wurde eigens für das Lesen entwickelt und verfügt über ein Schwarzweißdisplay ohne Spiegeleffekte sowie eine wochenlange Akkulaufzeit. Anders als bei einem Tablet gibt es keine Ablenkung durch Spiele, Werbung oder Videos.
 - 2 Jahre Sorglos-Garantie: Sollte das Gerät kaputtgehen, ersetzen wir es kostenlos.
-- Jetzt auch mit Audible. Verbinden Sie Kopfhörer oder Lautsprecher über Bluetooth, um Ihre Geschichte weiterzuhören.
-- Enthält einen Kindle (10. Generation), eine kindgerechte Hülle, 2 Jahre Sorglos-Garantie sowie 1 Jahr lang Zugriff auf Amazon Kids+ (FreeTime Unlimited) mit mehr als tausend Büchern ohne zusätzliche Kosten.
 - Die Bibliothek einfach mitnehmen. Der Kindle Kids kann Tausende von Titeln speichern und verfügt über eine wochenlange Akkulaufzeit.
+- Enthält einen Kindle (10. Generation), eine kindgerechte Hülle, 2 Jahre Sorglos-Garantie sowie 1 Jahr lang Zugriff auf Amazon Kids+ (FreeTime Unlimited) mit mehr als tausend Büchern ohne zusätzliche Kosten.
+- Amazon Kids+ umfasst die gesamte Harry-Potter-Reihe sowie ausgewählte Titel weiterer beliebter Buchreihen, zum Beispiel Gregs Tagebuch.
+- Kinder können ihre Lesefertigkeiten verbessern und neue Wörter lernen mit dem integrierten Wörterbuch und Vokabeltrainer.
+- Mit dem Abonnement für Amazon Kids+ (für 1 Jahr ohne zusätzliche Kosten) können Kinder über tausend beliebte Bücher und Reihen entdecken, darunter Harry Potter, Die drei ??? und viele weitere.
+- Jetzt auch mit Audible. Verbinden Sie Kopfhörer oder Lautsprecher über Bluetooth, um Ihre Geschichte weiterzuhören.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B081BNYS23/?tag=tolees0ca-21)

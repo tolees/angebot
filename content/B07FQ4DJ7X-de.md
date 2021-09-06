@@ -28,11 +28,11 @@ Sie können [Amazon - Kindle  jetzt mit integriertem Frontlicht – mit Werbung 
 
 ℹ️:
 
-- Lesen ohne Ablenkung. Heben Sie Textstellen hervor, schlagen Sie Definitionen nach, übersetzen Sie Wörter und passen Sie die Schriftgröße an – alles direkt von der Seite aus, die Sie gerade lesen.
-- Wählen Sie aus Millionen von Büchern, Zeitungen sowie Hörbüchern aus. Auf dem Gerät können Sie Tausende von Titeln abspeichern, damit Sie Ihre Bibliothek immer bei sich haben.
-- Eigens für das Lesen entwickelt, mit einem 167-ppi-Display ohne Spiegeleffekte. Lesen wie auf bedrucktem Papier, sogar in hellem Sonnenlicht.
 - Eine einzige Akkuladung hält Wochen, nicht Stunden.
+- Eigens für das Lesen entwickelt, mit einem 167-ppi-Display ohne Spiegeleffekte. Lesen wie auf bedrucktem Papier, sogar in hellem Sonnenlicht.
+- Wählen Sie aus Millionen von Büchern, Zeitungen sowie Hörbüchern aus. Auf dem Gerät können Sie Tausende von Titeln abspeichern, damit Sie Ihre Bibliothek immer bei sich haben.
 - Genießen Sie mehr Bücher mit Audible. Verbinden Sie Ihren Kindle mit Bluetooth-Kopfhörern oder -Lautsprechern und wechseln Sie nahtlos zwischen Lesen und Hören.
+- Lesen ohne Ablenkung. Heben Sie Textstellen hervor, schlagen Sie Definitionen nach, übersetzen Sie Wörter und passen Sie die Schriftgröße an – alles direkt von der Seite aus, die Sie gerade lesen.
 - Prime-Mitglieder lesen kostenlos und erhalten Zugriff auf eine wechselnde Auswahl mit Hunderten Büchern.
 - Mit dem verstellbaren Frontlicht können Sie stundenlang bequem lesen – drinnen und draußen, bei Tag und bei Nacht.
 
