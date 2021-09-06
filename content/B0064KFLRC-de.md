@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden - Bosch Bohrhammer PBH 2100 RE  550 Watt  im 
 
 ℹ️:
 
-- Problemloses Abschlagen von Fliesen und einfaches Ziehen von Kabelschlitzen
-- Der Bohrhammer PBH 2100 RE - Müheloses Hämmern in Beton und Mauerwerk, Meißeln, Bohren und Schrauben mit 550 Watt Leistung
-- Abschaltung der Schlagbewegung möglich, um in Holz oder Stahl bohren zu können
 - Lieferumfang: PBH 2100 RE, Tiefenanschlag, Zusatzhandgriff, Koffer
+- Abschaltung der Schlagbewegung möglich, um in Holz oder Stahl bohren zu können
 - Schneller und werkzeugloser Wechsel des Einsatzwerkzeuges dank SDS-plus
+- Der Bohrhammer PBH 2100 RE - Müheloses Hämmern in Beton und Mauerwerk, Meißeln, Bohren und Schrauben mit 550 Watt Leistung
+- Problemloses Abschlagen von Fliesen und einfaches Ziehen von Kabelschlitzen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0064KFLRC/?tag=tolees0ca-21)
