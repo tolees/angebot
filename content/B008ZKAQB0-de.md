@@ -29,9 +29,9 @@ Es gibt ein [LEONINE Distribution GmbH - Die große Plattfuß-Box [4 DVDs]](http
 ℹ️:
 
 - Anzahl Datenträger: 4
-- Ausführung: Schuber
-- Ausführung: Langfassung
-- Ausführung: Kinofassung
 - Angaben: laut Hersteller
+- Ausführung: Kinofassung
+- Ausführung: Langfassung
+- Ausführung: Schuber
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008ZKAQB0/?tag=tolees0ca-21)
