@@ -28,12 +28,12 @@ Sie können [Razer Blade Gaming Laptop 15 Base Edition Full HD 144 Hz GeForce RT
 
 ℹ️:
 
-- 15,6 Zoll (39,6 cm) großes Edge-to-Edge-Display, 144 Hz, Full HD, werksseitig kalibriert
+- NVIDIA GeForce RTX 2060 (6 GB GDDR6 VRAM, Optimus-Technologie)
+- Erweiterbarer 16 GB Dual-Channel-Arbeitsspeicher und 512 GB PCIe SSD
 - Kompaktes, 1,98 cm flaches, Gehäuse aus CNC-Aluminium
 - Umfangreiche Konnektivitätsoptionen mit Thunderbolt 3 (USB-C), HDMI, Gigabit-Ethernet, 1x USB 3.2 und 2x USB 3.1
-- Erweiterbarer 16 GB Dual-Channel-Arbeitsspeicher und 512 GB PCIe SSD
-- Intel Core i7-10750H Prozessor der 10. Generation, 6 Kerne
 - Tastatur mit individuell anpassbarer RGB-Einzelzonen-Beleuchtung mit 16,8 Millionen Farboptionen
-- NVIDIA GeForce RTX 2060 (6 GB GDDR6 VRAM, Optimus-Technologie)
+- Intel Core i7-10750H Prozessor der 10. Generation, 6 Kerne
+- 15,6 Zoll (39,6 cm) großes Edge-to-Edge-Display, 144 Hz, Full HD, werksseitig kalibriert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0873SN7BF/?tag=tolees0ca-21)

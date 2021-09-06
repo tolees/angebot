@@ -28,14 +28,14 @@ Sie können [2020 Apple Mac Mini mit Apple M1 Chip  8 GB RAM  512 GB SSD ](htt
 
 ℹ️:
 
-- Superschneller SSD Speicher startet Apps und öffnet Dateien sofort
-- 8‑Core GPU mit bis zu 6x schnellerer Grafik für grafikintensive Apps und Games
-- 8 GB gemeinsamer Arbeitsspeicher, damit alles, was du machst, schnell und flüssig geht
 - Zwei Thunderbolt / USB 4 Anschlüsse, ein HDMI 2.0 Anschluss, zwei USB‑A Anschlüsse und Gigabit Ethernet
-- Die 8‑Core CPU liefert eine bis zu 3x schnellere Performance, mit der Workflows schneller als je zuvor werden
-- WLAN 6 der nächsten Generation für schnellere Verbindungen
-- Von Apple designter M1 Chip für einen gigantischen Leistungssprung bei CPU und GPU und maschinellem Lernen
 - 16‑Core Neural Engine für fortschrittliches maschinelles Lernen
+- Von Apple designter M1 Chip für einen gigantischen Leistungssprung bei CPU und GPU und maschinellem Lernen
 - Fortschrittliches Kühlsystem für eine durchgehend unglaubliche Leistung
+- 8 GB gemeinsamer Arbeitsspeicher, damit alles, was du machst, schnell und flüssig geht
+- 8‑Core GPU mit bis zu 6x schnellerer Grafik für grafikintensive Apps und Games
+- WLAN 6 der nächsten Generation für schnellere Verbindungen
+- Die 8‑Core CPU liefert eine bis zu 3x schnellere Performance, mit der Workflows schneller als je zuvor werden
+- Superschneller SSD Speicher startet Apps und öffnet Dateien sofort
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08N5PL7YV/?tag=tolees0ca-21)
