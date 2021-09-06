@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Captain Futu mit 32.77 % Rabatt'
-date: 2021-09-04 00:59:01
+date: 2021-09-06 19:20:35
 image: 'https://m.media-amazon.com/images/I/511EX4mtz-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B01JOCMU7A/?tag=tolees0ca-21'
 descuento: '32.77'
-average: '39.47'
+average: '39.2776923076923'
 ---
 
 Sie können [LEONINE Distribution GmbH - Captain Future - Komplettbox [8 DVDs]](https://www.amazon.de/dp/B01JOCMU7A/?tag=tolees0ca-21) mit Preis 36.97 EUR (original: 54.99 EUR) 32.77 % Rabatt hier:
