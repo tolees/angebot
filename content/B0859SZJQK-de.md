@@ -28,10 +28,10 @@ Sie können [Samsung G7  C32G73TQSU  80 01 cm  32 Zoll  QLED Curved Odyssey Gami
 
 ℹ️:
 
-- Eye Saver Mode, Flicker Free, Bildwiederholungsrate 240 Hz
-- Lieferumfang: Samsung C32G73TQSU 80,01 cm (32 Zoll) QLED Curved Monitor schwarz, Installations-CD, USB 3.0 Kabel, Stromkabel (1,5m)
 - HDMI, Display Port, USB Port
-- Kontrast 2.500:1, Helligkeit 350 cd/m². VESA Wandmontage: 100 x 100 mm.
 - 1000R Curved Monitor, 32 Zoll, 2.560 x 1.440 Pixel, 16:9 Format
+- Lieferumfang: Samsung C32G73TQSU 80,01 cm (32 Zoll) QLED Curved Monitor schwarz, Installations-CD, USB 3.0 Kabel, Stromkabel (1,5m)
+- Eye Saver Mode, Flicker Free, Bildwiederholungsrate 240 Hz
+- Kontrast 2.500:1, Helligkeit 350 cd/m². VESA Wandmontage: 100 x 100 mm.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0859SZJQK/?tag=tolees0ca-21)
