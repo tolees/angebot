@@ -28,10 +28,10 @@ Sie können [Sony WF-SP900 True Wireless Sport Kopfhörer  kabellos  IPX8 wasser
 
 ℹ️:
 
-- Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtigungen mehr dank eingebautem Google Assistant
-- Salzwassergeschützt gemäß IPX8: Dank des IPX8 Designs können Sie selbst im Meer schwimmen
 - Ambient Sound Modus: kontinuierliche Analyse der Umgebungsgeräusche.Frequenzgang (Bluetooth Kommunikation): 20 Hz–20.000 Hz (Sampling 44,1 kHz)
+- Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtigungen mehr dank eingebautem Google Assistant
 - Elegantes Etui als Ladestation und zur Aufbewahrung nutzbar
 - Bluetooth Streaming oder über internen 4GB Speicher. Bluetooth 4.0 via NFC für kabelloses Musikhören
+- Salzwassergeschützt gemäß IPX8: Dank des IPX8 Designs können Sie selbst im Meer schwimmen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GFXDNLX/?tag=tolees0ca-21)
