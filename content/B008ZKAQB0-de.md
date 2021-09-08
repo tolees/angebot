@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.12 % rabat auf LEONINE Distribution GmbH - Die große Pl'
-date: 2021-09-07 13:32:37
+date: 2021-09-08 19:23:12
 image: 'https://m.media-amazon.com/images/I/51D5v-ZN-2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B008ZKAQB0/?tag=tolees0ca-21'
 descuento: '35.12'
-average: '12.9722222222222'
+average: '12.972'
 ---
 
 Es gibt ein [LEONINE Distribution GmbH - Die große Plattfuß-Box [4 DVDs]](https://www.amazon.de/dp/B008ZKAQB0/?tag=tolees0ca-21) mit aktuellem Preis 12.97 EUR (original: 19.99 EUR) 35.12 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEONINE Distribution GmbH - Die große Plattfuß-Box [4 DVDs]](http
 
 ℹ️:
 
-- Anzahl Datenträger: 4
-- Ausführung: Kinofassung
 - Ausführung: Langfassung
+- Anzahl Datenträger: 4
 - Ausführung: Schuber
+- Ausführung: Kinofassung
 - Angaben: laut Hersteller
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008ZKAQB0/?tag=tolees0ca-21)
