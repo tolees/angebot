@@ -28,8 +28,8 @@ Es gibt ein [Gigabyte Ga-B450M DS3H Micro ATX 4 DIMM Motherboard 1 x DVI-D Port 
 
 ℹ️:
 
-- 4x SATA 6Gb/s Stecker
 - 1 x M.2-Stecker.
 - Unterstützt RAID 0, RAID 1, und RAID 10
+- 4x SATA 6Gb/s Stecker
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FKNM8FQ/?tag=tolees0ca-21)
