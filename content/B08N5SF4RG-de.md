@@ -28,14 +28,14 @@ Es gibt ein [2020 Apple MacBook Pro mit Apple M1 Chip  13"  8 GB RAM  256 GB SS
 
 ℹ️:
 
-- 8 GB gemeinsamer Arbeitsspeicher, damit alles, was du machst, schnell und flüssig geht
-- Aktives Kühlsystem für eine durchgehend unglaubliche Leistung
-- Superschneller SSD Speicher startet Apps und öffnet Dateien sofort
-- Die 8‑Core CPU liefert eine bis zu 2,8x schnellere Performance, mit der Workflows schneller als je zuvor werden
-- Erledige mehr mit bis zu 20 Std. Batterielaufzeit, der längsten, die es je bei einem Mac gab
-- 16‑Core Neural Engine für fortschrittliches maschinelles Lernen
 - Von Apple designter M1 Chip für einen gigantischen Leistungssprung bei CPU und GPU und maschinellem Lernen
+- Superschneller SSD Speicher startet Apps und öffnet Dateien sofort
+- 16‑Core Neural Engine für fortschrittliches maschinelles Lernen
+- Aktives Kühlsystem für eine durchgehend unglaubliche Leistung
 - 13,3" Retina Display (33,78 cm Diagonale) mit 500 Nits Helligkeit für brillante Farben und unglaubliche Details in Bildern
 - 8‑Core GPU mit bis zu 5x schnellerer Grafik für grafikintensive Apps und Games
+- Erledige mehr mit bis zu 20 Std. Batterielaufzeit, der längsten, die es je bei einem Mac gab
+- 8 GB gemeinsamer Arbeitsspeicher, damit alles, was du machst, schnell und flüssig geht
+- Die 8‑Core CPU liefert eine bis zu 2,8x schnellere Performance, mit der Workflows schneller als je zuvor werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08N5SF4RG/?tag=tolees0ca-21)
