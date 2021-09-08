@@ -28,10 +28,10 @@ Es gibt ein [LEGO 41938 DOTS Ultimatives Designer-Set mit Kinderzimmer-Deko zum 
 
 ℹ️:
 
-- Dieses Bastelset für Kinder enthält außerdem ein Inspirationsmagazin mit weiteren LEGO DOTS Designideen sowie eine Webseite für viele weitere Inspirationen
-- Umfasst verschiedenste Kinderzimmerdekoration: ein Schreibtischset, eine Box mit 2 Schubladen, eine Pinnwand zum Aufhängen, ein Bilderrahmen und eine kleine Schale
-- Mit 5 Modellen, mehr als 650 Steinchen, darunter 72 mit dem Alphabet bedruckt, zum Erstellen von Botschaften auf den Modellen oder anderen Sets für Kinderzimmer-Deko
-- Um noch mehr eigene Unikate zu schaffen und noch größeren Spielspaß, kombinieren Sie dieses Set mit einer Extra DOTS - Serie 5 (41932) Ergänzungsset Urlaub
 - Das LEGO DOTS Ultimatives Design-Set mit seiner großen Auswahl an verschiedenen Steinchen ist das kreative und abwechslungsreiche Set zum Basteln für Kinder ab 7 Jahre
+- Um noch mehr eigene Unikate zu schaffen und noch größeren Spielspaß, kombinieren Sie dieses Set mit einer Extra DOTS - Serie 5 (41932) Ergänzungsset Urlaub
+- Umfasst verschiedenste Kinderzimmerdekoration: ein Schreibtischset, eine Box mit 2 Schubladen, eine Pinnwand zum Aufhängen, ein Bilderrahmen und eine kleine Schale
+- Dieses Bastelset für Kinder enthält außerdem ein Inspirationsmagazin mit weiteren LEGO DOTS Designideen sowie eine Webseite für viele weitere Inspirationen
+- Mit 5 Modellen, mehr als 650 Steinchen, darunter 72 mit dem Alphabet bedruckt, zum Erstellen von Botschaften auf den Modellen oder anderen Sets für Kinderzimmer-Deko
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WWTMGCQ/?tag=tolees0ca-21)
