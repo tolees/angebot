@@ -28,12 +28,12 @@ Es gibt ein [LEGO 76389 Harry Potter Schloss Hogwarts Kammer des Schreckens Spie
 
 ℹ️:
 
-- Dieses Harry Potter Set gehört zu einer Reihe von detaillierten modularen Sets, die zusammengebaut und kombiniert werden können, um ein eigenes Modell des Hogwarts-Schlosses für Kinder zu erstellen
-- Die Basilisk-Schlange hat einen aufklappbaren Kiefer, einen Kopfteil mit 2 drehbaren Gelenken und einen Schwanz, der aus 3 rekonfigurierbaren Teilen besteht
-- Des Weiteren sind auch Gilderoy Lockhart, Albus Dumbledore und der fast kopflosen Nick dabei sowie 6 von 16 zufällig ausgewählten Zauberer-Karten zum Sammeln
-- Dieses einfach zu bauende 2-stöckige Schloss umfasst die Kammer des Schreckens und die Große Halle mit leicht zugänglichem Turm und Dachboden
-- Dieses Harry Potter Set hat einen unverkennbaren runden Eingang & eine große Statue mit einem sich öffnenden Mund, der einen Korridor offenbart, durch den Basilisk eintreten kann
 - Das Harry Potter-Sammelset enthält eine exklusive, goldene Minifigur im Miniaturformat von Voldemort, um das 20-jährige Jubiläum von Harrys Magie zu feiern
+- Die Basilisk-Schlange hat einen aufklappbaren Kiefer, einen Kopfteil mit 2 drehbaren Gelenken und einen Schwanz, der aus 3 rekonfigurierbaren Teilen besteht
+- Dieses Harry Potter Set gehört zu einer Reihe von detaillierten modularen Sets, die zusammengebaut und kombiniert werden können, um ein eigenes Modell des Hogwarts-Schlosses für Kinder zu erstellen
 - Enthalten sind folgende 10 Minifiguren: Harry Potter, Ginny Weasley, Tom Riddle, Colin Creevey, Justin Finch-Fletchley, Luna Lovegood & Professor Sinistra
+- Dieses Harry Potter Set hat einen unverkennbaren runden Eingang & eine große Statue mit einem sich öffnenden Mund, der einen Korridor offenbart, durch den Basilisk eintreten kann
+- Dieses einfach zu bauende 2-stöckige Schloss umfasst die Kammer des Schreckens und die Große Halle mit leicht zugänglichem Turm und Dachboden
+- Des Weiteren sind auch Gilderoy Lockhart, Albus Dumbledore und der fast kopflosen Nick dabei sowie 6 von 16 zufällig ausgewählten Zauberer-Karten zum Sammeln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WWRJ2QJ/?tag=tolees0ca-21)

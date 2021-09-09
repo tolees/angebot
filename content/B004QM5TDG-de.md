@@ -28,10 +28,10 @@ Sie können [Autan Multi Insect Pumpspray  Multi-Insektenschutz vor Mücken  Ste
 
 ℹ️:
 
-- Mosquito Repellent mit Icaridin wirkt gegen Mücken, die Gelbfieber oder Malaria übertragen können
-- Autan Multi Insect Pumpspray kann nach Gebrauchsanweisung bereits bei Kindern ab 2 Jahren angewendet werden, frei von Konservierungsstoffen
-- Lieferumfang: Autan Multi Insect Pumpspray, 100 ml (Wirkstoff Icaridin 20 %)
 - Autan Mückenspray schützt schützt bis zu 8 Stunden vor Mücken, wirkt außerdem gegen Stechfliegen, Zecken und Tigermücken
 - Der in Autan enthaltene Wirkstoff beeinflusst den Orientierungssinn der Insekten und bildet um die Haut einen wirksamen Schutzmantel
+- Autan Multi Insect Pumpspray kann nach Gebrauchsanweisung bereits bei Kindern ab 2 Jahren angewendet werden, frei von Konservierungsstoffen
+- Lieferumfang: Autan Multi Insect Pumpspray, 100 ml (Wirkstoff Icaridin 20 %)
+- Mosquito Repellent mit Icaridin wirkt gegen Mücken, die Gelbfieber oder Malaria übertragen können
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004QM5TDG/?tag=tolees0ca-21)
