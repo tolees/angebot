@@ -1,30 +1,30 @@
 ---
 layout: post
-title: '49.94 % rabat auf Lost - Die komplette Serie  37 Discs '
-date: 2020-02-20 19:59:05
-image: 'https://m.media-amazon.com/images/I/61NXC0GYBrL._AC_._SL400_.jpg'
+title: '27.46 % rabat auf Disney Interactive Studios - Lost - Die '
+date: 2021-09-09 07:40:01
+image: 'https://m.media-amazon.com/images/I/61NXC0GYBrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00GU40HTE-de Lost - Die komplette Serie 37 Discs'
+slug: 'B00GU40HTE-de Disney Interactive Studios - Lost - Die komplette Serie 37...'
 sku: 'B00GU40HTE-de'
-tags: [  ]
-actualPrice: 29.99 EUR
+tags: [ 'Action & Abenteuer','Box-Sets','DVD & Blu-ray','Drama','Featured Categories','Komödie & Unterhaltung','Serien & TV-Produktionen','disney interactive studios', ]
+actualPrice: 44.97 EUR
 currency: EUR
-price: 29.99
-comparePrice: 59.91 EUR
-prodname: 'Lost - Die komplette Serie  37 Discs '
+price: 44.97
+comparePrice: 61.99 EUR
+prodname: 'Disney Interactive Studios - Lost - Die komplette Serie  37 Discs '
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Disney Interactive Studios'
 buyurl: 'https://www.amazon.de/dp/B00GU40HTE/?tag=tolees0ca-21'
-descuento: '49.94'
-average: '29.99'
+descuento: '27.46'
+average: '37.48'
 ---
 
-Es gibt ein [Lost - Die komplette Serie  37 Discs ](https://www.amazon.de/dp/B00GU40HTE/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 59.91 EUR) 49.94 % Rabatt hier:
+Es gibt ein [Disney Interactive Studios - Lost - Die komplette Serie  37 Discs ](https://www.amazon.de/dp/B00GU40HTE/?tag=tolees0ca-21) mit aktuellem Preis 44.97 EUR (original: 61.99 EUR) 27.46 % Rabatt hier:
 
-[![Lost - Die komplette Serie  37 Discs ](https://m.media-amazon.com/images/I/61NXC0GYBrL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00GU40HTE/?tag=tolees0ca-21)
+[![Disney Interactive Studios - Lost - Die ](https://m.media-amazon.com/images/I/61NXC0GYBrL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B00GU40HTE/?tag=tolees0ca-21)
 
 ℹ️:
 
