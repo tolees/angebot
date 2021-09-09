@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '34.35 % rabat auf LEONINE Distribution GmbH - Das Boot - C'
-date: 2021-09-08 01:16:29
+date: 2021-09-09 01:19:44
 image: 'https://m.media-amazon.com/images/I/51lHrdV84HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
