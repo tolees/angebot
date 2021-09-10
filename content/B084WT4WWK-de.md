@@ -28,9 +28,9 @@ Es gibt ein [Xiaomi Mi WiFi Range Extender Pro WLAN Repeater  bis zu 300 Mbit/s 
 
 ℹ️:
 
-- 2 externe Antennen für bessere Ausrichtungsmöglichkeit und flexible Platzierung im Haus
-- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards IEEE 802.11 b/g/n) Situation auf Geschwindigkeit verzichten
 - Hohe Reichweite und High-Speed-WLAN mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
+- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards IEEE 802.11 b/g/n) Situation auf Geschwindigkeit verzichten
 - Maximale WLAN-Sicherheit mit WPA-PSK und WPA2-PSK. Betriebstemperatur: 0°C - 40°C
+- 2 externe Antennen für bessere Ausrichtungsmöglichkeit und flexible Platzierung im Haus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084WT4WWK/?tag=tolees0ca-21)
