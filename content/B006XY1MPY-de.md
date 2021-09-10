@@ -29,9 +29,9 @@ Sie können [LECHUZA CUBICO Color 30  Weiß  Hochwertiger Kunststoff  Inkl. Bew�
 ℹ️:
 
 - Made in Germany: Hochwertig verarbeitetes, UV-beständiges Pflanzgefäß aus Kunststoff, Seidenmatte Optik, CUBICO Rolluntersetzer zum einfachen Verschieben des Pflanzgefäß separat erhältlich
-- Lieferumfang: 1x LECHUZA CUBICO Color 30, Inkl. Bewässerungssystem, Material: Kunststoff, Farbe: Weiß, Maße: 30 x 30 x 56 cm, Pflanzeinsatz: 25,3 x 25,3 cm, Pflanzvolumen: 14 l, Max. Pflanzhöhe: 60 cm, 13130
 - Stilvolles Pflanzgefäß aus der Color-Serie mit seidenmatter Oberfläche für Pflanzen und Kräuter, Perfekt auf jeder Stellfläche im Haus oder Garten, Nutzung in einzelner Anordnung oder in einer Gruppe
 - Keine Staunässe: Kontrolle der Füllmenge über mitgelieferten Wasserstandsanzeiger, Bodenschraube für Ablauf überflüssigen Wassers bei Regen, Herausnehmbarer Pflanzeinsatz mit stabilen Griffen für einfaches Überwintern oder Wechseln der Bepflanzung
 - Seltener gießen: Einfache Befüllung des Reservoir für selbstständige Versorgung der Pflanzen mit Wasser, LECHUZA-PON inkl. Langzeitdünger als Drainageschicht für optimale Dosierung der Wasserzufuhr und Nährstoffe
+- Lieferumfang: 1x LECHUZA CUBICO Color 30, Inkl. Bewässerungssystem, Material: Kunststoff, Farbe: Weiß, Maße: 30 x 30 x 56 cm, Pflanzeinsatz: 25,3 x 25,3 cm, Pflanzvolumen: 14 l, Max. Pflanzhöhe: 60 cm, 13130
 
 [🛒 Hier!!](https://www.amazon.de/dp/B006XY1MPY/?tag=tolees0ca-21)

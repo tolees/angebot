@@ -28,10 +28,10 @@ Sie können [LECHUZA BALCONERA Stone 50 hochwertiges Pflanzgefäß mit Erd-Bewä
 
 ℹ️:
 
-- Farbe: Steingrau
-- Item: Ein
-- Item shape: Rechteckig
-- Packungage Weight: 3.039 kg
 - Packungage die Größe: 19.558 L x 50.8 H x 20.32 W (cm)
+- Item shape: Rechteckig
+- Item: Ein
+- Packungage Weight: 3.039 kg
+- Farbe: Steingrau
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MLXHH95/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Lechuza CANTO Stone low 30  graphitschwarz  Hochwertiger Kunststoff
 
 ℹ️:
 
-- Stilvolles Pflanzgefäß aus der Stone Collection in Naturstein-Optik für Pflanzen und Gräser, Ideal im Haus oder Garten, Nutzung in einzelner Anordnung oder in einer Gruppe
-- Made in Germany: Hochwertig verarbeitetes, UV-beständiges Pflanzgefäß aus Kunststoff, Naturstein-Optik
-- Keine Staunässe: Kontrolle der Füllmenge über mitgelieferten Wasserstandsanzeiger, Bodenschraube für Ablauf überflüssigen Wassers, Herausnehmbarer Pflanzeinsatz für einfaches Wechseln der Bepflanzung
-- Lieferumfang: 1x Lechuza CANTO Stone low 30, Inkl. Bewässerungssystem, Kunststoff, graphitschwarz, Maße: 30 x 30 x 30,8 cm, Pflanzeinsatz: 25,3 x 25,3 cm, Pflanzvolumen: 12 l, Max. Pflanzhöhe: 60 cm, 13702
 - Seltener gießen: Einfache Befüllung des Reservoir für selbstständige Versorgung der Pflanzen mit Wasser, Lechuza-Pon inkl. Langzeitdünger für optimale Dosierung der Wasserzufuhr und Nährstoffe
+- Made in Germany: Hochwertig verarbeitetes, UV-beständiges Pflanzgefäß aus Kunststoff, Naturstein-Optik
+- Lieferumfang: 1x Lechuza CANTO Stone low 30, Inkl. Bewässerungssystem, Kunststoff, graphitschwarz, Maße: 30 x 30 x 30,8 cm, Pflanzeinsatz: 25,3 x 25,3 cm, Pflanzvolumen: 12 l, Max. Pflanzhöhe: 60 cm, 13702
+- Stilvolles Pflanzgefäß aus der Stone Collection in Naturstein-Optik für Pflanzen und Gräser, Ideal im Haus oder Garten, Nutzung in einzelner Anordnung oder in einer Gruppe
+- Keine Staunässe: Kontrolle der Füllmenge über mitgelieferten Wasserstandsanzeiger, Bodenschraube für Ablauf überflüssigen Wassers, Herausnehmbarer Pflanzeinsatz für einfaches Wechseln der Bepflanzung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MS8OMUL/?tag=tolees0ca-21)
