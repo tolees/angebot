@@ -29,10 +29,10 @@ Es gibt ein [Russell Hobbs Crêpes Maker Fiesta  Ø 30cm  antihaftbeschichtete P
 ℹ️:
 
 - Zubehör – Im Lieferumfang ist ein praktischer Teigverteiler aus Holz und ein Crêpe-Wender aus Kunststoff enthalten
-- Einfache Reinigung – Dank der antihaftbeschichteten Crêpes-Platten kann das Gerät schnell und leicht gereinigt werden. Ebenfalls ist der mitgelieferte Crêpe-Wender spülmaschinenfest
-- Temperatur - Mit Hilfe der stufenlosen Temperaturregelung kann der Bräunungsgrad individuell angepasst werden. Die Betriebs- und Temperaturkontrollleuchte zeigt an, sobald das Gerät einsatzbereit ist
-- Süss oder Herzhaft – Ganz einfach, schnell und lecker können im Handumdrehen, mit dem multifunktionalen Crêpes Maker, süße und herzhafte Crêpes, Pancakes sowie Galettes hergestellten werden
 - Ein-/Aus Schalter – Für ein sicheres Kocherlebnis verfügt der Crêpe-Maker über einen Ein-/Ausschalter
+- Süss oder Herzhaft – Ganz einfach, schnell und lecker können im Handumdrehen, mit dem multifunktionalen Crêpes Maker, süße und herzhafte Crêpes, Pancakes sowie Galettes hergestellten werden
+- Temperatur - Mit Hilfe der stufenlosen Temperaturregelung kann der Bräunungsgrad individuell angepasst werden. Die Betriebs- und Temperaturkontrollleuchte zeigt an, sobald das Gerät einsatzbereit ist
+- Einfache Reinigung – Dank der antihaftbeschichteten Crêpes-Platten kann das Gerät schnell und leicht gereinigt werden. Ebenfalls ist der mitgelieferte Crêpe-Wender spülmaschinenfest
 - Ausstattung – Dank der leistungsstarken 1.000W und der ca.Ø 30cm großen antihaftbeschichteten Platten können in kurzer Zeit köstliche Crepes und Pfannkuchen ganz nach Ihrem Geschmack zubereitet werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EZML6HU/?tag=tolees0ca-21)
