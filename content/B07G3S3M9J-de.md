@@ -29,9 +29,9 @@ Sie können [LEGO 75948 Harry Potter Hogwarts Uhrenturm Spielzeug kompatibel mit
 ℹ️:
 
 - Der Hogwarts Uhrenturm ist 35 cm hoch, 34 cm breit und 18 cm tief
-- Enthält 8x Harry-Potter-Minifiguren: Harry Potter, Ron Weasley, Hermine Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore und Madame Maxime
-- Die Uhr kann für tolle Abenteuer mit dem Zeitumkehrer verstellt werden. Die Tanzfunktion bringt den Weihnachtsball erst richtig in Schwung
-- Alle Figuren besitzen einen Zauberstab und Festumhänge
 - Dieses Set enthält den dreistöckigen Hogwarts Uhrenturm, die Eingangshalle, das Klassenzimmer für Verteidigung gegen die Dunklen Künste, den Krankenflügel, Dumbledores Büro und vieles mehr
+- Alle Figuren besitzen einen Zauberstab und Festumhänge
+- Die Uhr kann für tolle Abenteuer mit dem Zeitumkehrer verstellt werden. Die Tanzfunktion bringt den Weihnachtsball erst richtig in Schwung
+- Enthält 8x Harry-Potter-Minifiguren: Harry Potter, Ron Weasley, Hermine Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore und Madame Maxime
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07G3S3M9J/?tag=tolees0ca-21)
