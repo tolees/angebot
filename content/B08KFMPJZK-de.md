@@ -29,9 +29,9 @@ Es gibt ein [HUAWEI P smart 2021 Dual SIM Smartphone  16 94 cm - 6 67 Zoll  128 
 ℹ️:
 
 - Lieferumfang: HUAWEI P smart 2021 Dual SIM, Akku (fest verbaut), Ladegerät, USB Kabel, SIM-Werkzeug, Garantiekarte, TP Schutzfilm, Headset + 5 EUR Amazon Gutschein
-- Hauptkamera mit 48MP + 8MP + 2MP + 2MP
 - Smartphone P smart 2021; 48 MP Hauptkamera
-- 5000 mAh Akku; 4 GB RAM + 128 GB ROM erweiterbar um bis zu 512 GB
 - HUAWEI Kirin 710A - Android 10 + EMUI 10.1. Größe - Breite: 76,88 mm, Höhe: 165,65 mm, Tiefe: 9,26 mm
+- 5000 mAh Akku; 4 GB RAM + 128 GB ROM erweiterbar um bis zu 512 GB
+- Hauptkamera mit 48MP + 8MP + 2MP + 2MP
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KFMPJZK/?tag=tolees0ca-21)
