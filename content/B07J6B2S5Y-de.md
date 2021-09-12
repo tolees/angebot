@@ -29,9 +29,9 @@ Sie können [LEGO Disney Pixar’s Toy Story - LEGO 10768 - Disney Pixar’s 
 ℹ️:
 
 - Das Set enthält 3x Minifiguren: Buzz Lightyear, Porzellinchen und Gabby Gabby
-- Das Spielhaus ist 17 cm hoch, 25 cm breit und 12 cm tief. Das Karussell ist 6 cm breit und 7 cm tief. Das Stinktiermobil ist 14 cm lang und 3 cm breit
-- Die leicht verständliche Bau- und Spielanleitung hilft Kindern dabei, die Bauschritte zu verstehen und steigert das Selbstbewusstsein.
-- 139 Teile – Toy Story Bauset für Mädchen und Jungen ab 4 Jahren, für Fans und für große Kinder jeden Alters
 - Mit dem speziellen Starter-Stein können alle kleinen Baumeister ein lustiges Spielplatzset mit zweistöckigem Spielhaus, Zimmer mit Blasenfenster, Karussell und Stinktiermobil bauen
+- Das Spielhaus ist 17 cm hoch, 25 cm breit und 12 cm tief. Das Karussell ist 6 cm breit und 7 cm tief. Das Stinktiermobil ist 14 cm lang und 3 cm breit
+- 139 Teile – Toy Story Bauset für Mädchen und Jungen ab 4 Jahren, für Fans und für große Kinder jeden Alters
+- Die leicht verständliche Bau- und Spielanleitung hilft Kindern dabei, die Bauschritte zu verstehen und steigert das Selbstbewusstsein.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07J6B2S5Y/?tag=tolees0ca-21)
