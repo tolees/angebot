@@ -29,10 +29,10 @@ Es gibt ein [Tempo Taschentücher Original Trio-Box  4-lagige Tempos in praktisc
 ℹ️:
 
 - Immer zur Hand, dank Quick & Easy Öffnung
-- Waschmaschinenfest
-- CO2 reduzierte recycelbare Taschentuch-Box mit Papieröffnung* *Die Verpackung ist recycelbar gemäß den Vorgaben der EN 13430 (CH: SN EN 13430). Es verbleibt eine geringe Menge an nicht recycelbaren Rückständen. Reduzierung des CO2-Fußabdrucks der Verpackung aufgrund von Verbesserungen des CO2-Fußabdrucks der Lieferanten in der Produktion, basierend auf von Essity durchgeführten und von einer dritten Partei verifizierten Lebenszyklusanalysen, 2020.
-- Attraktives Taschentuch-Box-Design für jeden Raum
 - Extra starke und einmalig weiche Taschentücher
+- Waschmaschinenfest
+- Attraktives Taschentuch-Box-Design für jeden Raum
 - Dermatologisch getestet
+- CO2 reduzierte recycelbare Taschentuch-Box mit Papieröffnung* *Die Verpackung ist recycelbar gemäß den Vorgaben der EN 13430 (CH: SN EN 13430). Es verbleibt eine geringe Menge an nicht recycelbaren Rückständen. Reduzierung des CO2-Fußabdrucks der Verpackung aufgrund von Verbesserungen des CO2-Fußabdrucks der Lieferanten in der Produktion, basierend auf von Essity durchgeführten und von einer dritten Partei verifizierten Lebenszyklusanalysen, 2020.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B014SYOMES/?tag=tolees0ca-21)

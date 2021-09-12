@@ -28,15 +28,15 @@ Sie können [LEGO 60281 City Feuerwehrhubschrauber  Helikopter Spielzeug für Ki
 
 ℹ️:
 
-- Der fertige Feuerwehrhubschrauber ist 10 cm hoch, 26 cm lang und 9 cm breit
-- Alle LEGO Teile werden gründlich getestet, damit jedes Bauset strengen globalen Sicherheitsstandards entspricht
-- Dieses Feuerwehrset ist ein tolles Geschenk zu jedem Anlass und bietet Kindern ab 5 Jahren, die gerne fantasievoll spielen, und allen LEGO City Fans stundenlangen Spielspaß. Grundlegende Baufähigkeiten reichen völlig
-- Zu diesem Set gibt es neben einer einfachen gedruckten Bauanleitung auch Instructions PLUS. Diese interaktive Bauanleitung in der kostenlosen LEGO Building Instructions App für Smartphones und Tablets lässt Kinder zu wahren Baumeistern werden
-- Alle LEGO City Elemente entsprechen strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets mühelos zusammenstecken und wieder trennen lassen
-- Kinder können die LEGO Flammen zu großen Bränden stapeln, das Feuer dann mit den Löschkanonen am Hubschrauber löschen und mit den 3 lustigen Minifiguren spannende Geschichten aus der TV-Serie „LEGO City – Abenteuer“ nachstellen
 - LEGO City Feuerwehrsets regen mit detailreichen Gebäuden, coolen Fahrzeugen und lustigen Figuren und Kulissen, die Alltagssituationen realistisch darstellen, zu fantasievollen Rollenspielen an
-- Enthält eine Trage (im Frachtraum verstaut), einen Feuerwehrhelm, einen Schraubenschlüssel und einen Schutzhelm als LEGO Zubehör
+- Alle LEGO City Elemente entsprechen strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets mühelos zusammenstecken und wieder trennen lassen
+- Zu diesem Set gibt es neben einer einfachen gedruckten Bauanleitung auch Instructions PLUS. Diese interaktive Bauanleitung in der kostenlosen LEGO Building Instructions App für Smartphones und Tablets lässt Kinder zu wahren Baumeistern werden
+- Dieses Feuerwehrset ist ein tolles Geschenk zu jedem Anlass und bietet Kindern ab 5 Jahren, die gerne fantasievoll spielen, und allen LEGO City Fans stundenlangen Spielspaß. Grundlegende Baufähigkeiten reichen völlig
 - Das Spielset „Feuerwehrhubschrauber“ (60281) ist eine tolle Belohnung für Kinder ab 5 Jahren, die coole Löschfahrzeuge lieben, sowie für Fans der TV-Serie „LEGO City – Abenteuer“
+- Alle LEGO Teile werden gründlich getestet, damit jedes Bauset strengen globalen Sicherheitsstandards entspricht
+- Kinder können die LEGO Flammen zu großen Bränden stapeln, das Feuer dann mit den Löschkanonen am Hubschrauber löschen und mit den 3 lustigen Minifiguren spannende Geschichten aus der TV-Serie „LEGO City – Abenteuer“ nachstellen
+- Der fertige Feuerwehrhubschrauber ist 10 cm hoch, 26 cm lang und 9 cm breit
 - Inhalt des Sets: Alle Elemente, um einen Hubschrauber, ein Motorrad, ein Kraftwerk und LEGO Feuer zu bauen, sowie 3 Minifiguren, darunter auch Clemmons aus der TV-Serie „LEGO City – Abenteuer“
+- Enthält eine Trage (im Frachtraum verstaut), einen Feuerwehrhelm, einen Schraubenschlüssel und einen Schutzhelm als LEGO Zubehör
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4D3P1T/?tag=tolees0ca-21)
