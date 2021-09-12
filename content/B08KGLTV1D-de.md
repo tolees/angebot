@@ -28,11 +28,11 @@ Sie können [LEDVANCE Smarte LED Aussenleuchte mit WiFi Technologie  Flutstrahle
 
 ℹ️:
 
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
 - Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
-- Steuerung über Google Assistant oder Amazon Alexa möglich
-- Dimmbar
 - Farbtemperatur: 3.000 K (Warm White)
+- Dimmbar
 - RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
+- Steuerung über Google Assistant oder Amazon Alexa möglich
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KGLTV1D/?tag=tolees0ca-21)
