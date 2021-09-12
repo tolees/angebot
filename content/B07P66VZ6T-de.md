@@ -28,9 +28,9 @@ Es gibt ein [Sharkoon WPM Gold Zero 650W  80 Plus Gold  Semimodular](https://www
 
 ℹ️:
 
-- RYZEN-BEREIT UND SEMIMODULAR: Für ein aufgeräumtes Gehäuseinnere kann der Kabelbaum an die jeweiligen Bedürfnisse angepasst werden. Lediglich das immer benötigte ATX-Kabel und der 4+4-polige CPU-Anschluss sind fest mit dem Netzteil verbunden. Dank des zweiten 4+4-poligen CPUKabels können auch stromhungrige Systeme wie RYZEN ohne Adapter mit Energie versorgt werden. Hierbei nutzt dieses einen der beiden PCIe-/CPU-Steckplätze, mit denen auch Grafikkarten versorgt werden können.
 - ZERO-RPM-FUNKTION: Die ZERO-RPM-Funktion sorgt dafür, dass bei leichter bis mittlerer Last die Lüfterrotation für einen geräuschlosen Betrieb ausgesetzt wird. Wenn vom System wieder eine aktive Kühlleistung benötigt wird, setzt das System die Lüfterrotation automatisch fort.
 - MODERNE LLC-TECHNOLOGIE: Das WPM Gold ZERO ist mit modernster LLC-Resonanzwandler- Technologie ausgestattet. Durch diese liefert das Netzteil gleichbleibende und störungsarme Spannung. Die Geräuschund Hitzeentwicklung ist dabei weitestmöglich minimiert.
+- RYZEN-BEREIT UND SEMIMODULAR: Für ein aufgeräumtes Gehäuseinnere kann der Kabelbaum an die jeweiligen Bedürfnisse angepasst werden. Lediglich das immer benötigte ATX-Kabel und der 4+4-polige CPU-Anschluss sind fest mit dem Netzteil verbunden. Dank des zweiten 4+4-poligen CPUKabels können auch stromhungrige Systeme wie RYZEN ohne Adapter mit Energie versorgt werden. Hierbei nutzt dieses einen der beiden PCIe-/CPU-Steckplätze, mit denen auch Grafikkarten versorgt werden können.
 - AUSGEZEICHNET ENERGIEEFFIZIENT: Mit einer Effizienz von mindestens 90 % bei 50 % Last sowie 87 % Effizienz bei 20 % und 100 % Last ist das WPM Gold ZERO 80 PLUS Gold zertifiziert.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07P66VZ6T/?tag=tolees0ca-21)
