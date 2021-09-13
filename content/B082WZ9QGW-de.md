@@ -29,9 +29,9 @@ Sie können [meross Smart Wechselschalter WLAN Lichtschalter  benötigt Nullleit
 ℹ️:
 
 - ✔Sicherheit & Service: Achtung: Neutraler Draht erfordlich. Der Smart Lichtschalter besteht aus PC-Flammschutzmaterial und hat die Sicherheits- und Qualitätssicherung (CE&RoHS) bestanden. Überlastschutzschaltung. CE, RoHS, WEEE bestanden. Meross hat immer großen Wert auf die Produktsicherheit gelegt. Wir bieten Ihnen lebenslangen Online-Support.
-- 👍Kostengünstige Lösung: Sie müssen nur einen Switch auf Meross MSS550X umstellen, um Ihren vorhandenen 2 Wege Wandschalter "smart" zu machen. Sie installieren den MSS550X einfach in eine Kassette mit einem Neutralkabel. Bei fast allen anderen müssen Sie zwei Schalter wechseln, was viel mehr Geld und Zeit kostet.
-- ✔Zeitplan und Zeiteinstellung: Sie können den 2 Wege Wandschalter so einstellen, dass er automatisch ein- und ausgeschaltet wird. Zusätzlicher Vorteil der Energieeinsparung, wenn Lichter nicht benötigt werden oder versehentlich eingeschaltet bleiben. Unterstützungssonnenaufgang und Sonnenuntergangeinstellung.
 - ⚠️Neutraler Draht erforderlich: Für die Installation ist der Neutralleiter erforderlich. Die meisten alten Häuser haben keinen neutralen Draht. Wenn Ihr Switch nur aus zwei Drähten besteht, nehmen Sie bitte ein Foto über Ihre Switch-Drähte mit.
+- ✔Zeitplan und Zeiteinstellung: Sie können den 2 Wege Wandschalter so einstellen, dass er automatisch ein- und ausgeschaltet wird. Zusätzlicher Vorteil der Energieeinsparung, wenn Lichter nicht benötigt werden oder versehentlich eingeschaltet bleiben. Unterstützungssonnenaufgang und Sonnenuntergangeinstellung.
+- 👍Kostengünstige Lösung: Sie müssen nur einen Switch auf Meross MSS550X umstellen, um Ihren vorhandenen 2 Wege Wandschalter "smart" zu machen. Sie installieren den MSS550X einfach in eine Kassette mit einem Neutralkabel. Bei fast allen anderen müssen Sie zwei Schalter wechseln, was viel mehr Geld und Zeit kostet.
 - ✔Sprachsteuerungssystem: Steuern Sie Ihr Licht von überall aus, unterstützen Sie NUR die Meross-App. Der Lichtschalter können mit Alexa, Google Assistant und SmartThings verwendet werden, um Ihr Gerät mit Sprachsteuerung zu verwalten.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B082WZ9QGW/?tag=tolees0ca-21)

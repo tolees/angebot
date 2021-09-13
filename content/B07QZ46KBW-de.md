@@ -29,9 +29,9 @@ Es gibt ein [Bosch Professional 12V System Akkuschrauber GSR 12V-35  2x 3 0 Ah A
 ℹ️:
 
 - Vielzahl an Einstellungen: Variable Geschwindigkeitsauswahl, 20+1 Kupplungseinstellungen für individuelle Drehmomenteinstellungen, LED Arbeitslicht
-- Flexibilität beim Arbeiten: Integrierte Verbrauchsanzeige des Akkuladezustands, integrierter Gürtelclip und kompaktes Design mit nur 154 mm Kopflänge
-- Der Akkubohrschrauber GSR 12V-35 von Bosch Professional - längere Lebensdauer und höhere Effizienz dank des bürstenlosen Motors, 2-Gang-Getriebe und höherem Drehmoment
-- Schnelles Arbeiten selbst bei kleinen Durchmessern durch hohe Drehzahl und starkes Drehmoment
 - Lieferumfang: GSR 12V-35, 2x Akku (GBA 12V 3,0 Ah), Schnellladegerät (GAL 12V-40), L-BOXX 102
+- Der Akkubohrschrauber GSR 12V-35 von Bosch Professional - längere Lebensdauer und höhere Effizienz dank des bürstenlosen Motors, 2-Gang-Getriebe und höherem Drehmoment
+- Flexibilität beim Arbeiten: Integrierte Verbrauchsanzeige des Akkuladezustands, integrierter Gürtelclip und kompaktes Design mit nur 154 mm Kopflänge
+- Schnelles Arbeiten selbst bei kleinen Durchmessern durch hohe Drehzahl und starkes Drehmoment
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07QZ46KBW/?tag=tolees0ca-21)

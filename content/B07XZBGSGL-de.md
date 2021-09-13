@@ -28,10 +28,10 @@ Sie können [NIVEA Pflegendes Reinigungsöl im 1er Pack  1 x 150 ml   sanfte Ges
 
 ℹ️:
 
-- Natürliches Macadamiaöl – Der Gesichtsreiniger sorgt mit wertvollem Macadamiaöl für eine sanfte Hautpflege und angenehm gereinigte, weiche Gesichtshaut.
 - Gesicht & Augen – Das Gesichtspflege Öl sorgt für eine perfekte Gesichtsreinigung und ist ideal zum Abschminken von wasserfestem Make-up und Mascara.
-- Praktischer Lieferumfang – NIVEA Pflegendes Reinigungsöl im 1er Pack, 1 x 150 ml Spender, Artikelnummer 84918
-- Sensible Haut – Mit seiner pflegenden Öl-zu-Milch-Formel spendet das Reinigungsöl langanhaltende Feuchtigkeit und eignet sich für trockene und sensible Haut.
 - Reinigt sanft – Das NIVEA Reinigungsöl lässt sich einfach mit Wasser abwaschen. Es reinigt das Gesicht sanft und entfernt dabei gleichzeitig das Make-up.
+- Sensible Haut – Mit seiner pflegenden Öl-zu-Milch-Formel spendet das Reinigungsöl langanhaltende Feuchtigkeit und eignet sich für trockene und sensible Haut.
+- Praktischer Lieferumfang – NIVEA Pflegendes Reinigungsöl im 1er Pack, 1 x 150 ml Spender, Artikelnummer 84918
+- Natürliches Macadamiaöl – Der Gesichtsreiniger sorgt mit wertvollem Macadamiaöl für eine sanfte Hautpflege und angenehm gereinigte, weiche Gesichtshaut.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XZBGSGL/?tag=tolees0ca-21)

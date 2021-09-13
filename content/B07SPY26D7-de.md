@@ -28,10 +28,10 @@ Sie können [Philips Hue Smart Plug  smarte Steckdose  kompatibel mit Amazon Ale
 
 ℹ️:
 
-- Durch sein unauffälliges, kompaktes Design passt der Philips Hue Smart Plug in jedes Interieur
-- Keine Neuverkabelung notwendig: Einfach Plug in beliebige Steckdose einstecken und jede herkömmliche Lampe mit Ihrem Hue System verbinden
-- Für erweiterte Funktionen, wie die Einbindung der Leuchten in Timer oder die Kopplung mit Sensoren und Schaltern, vernetzen Sie den Smart Plug mit der Hue Bridge
-- Erleben Sie unbegrenzte Flexibilität für Ihr Hue System: Der Smart Plug macht jede Lampe mit Hue steuerbar und komplettiert das Zigbee und Bluetooth Netzwerk
 - Steuern Sie die smarte Steckdose per Bluetooth, um Ihre Leuchten komfortabel ein- und auszuschalten. Zusätzlich ist die Sprachsteuerung über Amazon Echo/Echo Dot möglich
+- Keine Neuverkabelung notwendig: Einfach Plug in beliebige Steckdose einstecken und jede herkömmliche Lampe mit Ihrem Hue System verbinden
+- Durch sein unauffälliges, kompaktes Design passt der Philips Hue Smart Plug in jedes Interieur
+- Erleben Sie unbegrenzte Flexibilität für Ihr Hue System: Der Smart Plug macht jede Lampe mit Hue steuerbar und komplettiert das Zigbee und Bluetooth Netzwerk
+- Für erweiterte Funktionen, wie die Einbindung der Leuchten in Timer oder die Kopplung mit Sensoren und Schaltern, vernetzen Sie den Smart Plug mit der Hue Bridge
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SPY26D7/?tag=tolees0ca-21)

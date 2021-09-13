@@ -28,10 +28,10 @@ Sie können [SanDisk Extreme Pro 128GB microSDXC Memory Card + SD Adapter with A
 
 ℹ️:
 
-- Konzipiert für und getestet unter extremen Bedingungen; temperaturbeständig, wasserdicht, stoßfest und röntgensicher
-- Ideal für Android-basierte Smartphones und Tablets sowie Actionkameras und Drohnen
-- Einstufung A2 für schnelleres Laden und schnellere In-App-Performance
 - Bis zu 170 MB/Sek. Lesegeschwindigkeit und 90 MB/Sek. Schreibgeschwindigkeit für schnelles Aufnehmen und Übertragen
+- Einstufung A2 für schnelleres Laden und schnellere In-App-Performance
+- Konzipiert für und getestet unter extremen Bedingungen; temperaturbeständig, wasserdicht, stoßfest und röntgensicher
 - 4K UHD-fähig mit UHS Speed Class 3 (U3) und Video Speed Class 30 (V30). Betriebstemperatur: -25 °C bis 85 °C (-13 °F bis 185°F); Lagertemperatur: -40 °F bis 185 °F (-40 °C bis 85 °C)
+- Ideal für Android-basierte Smartphones und Tablets sowie Actionkameras und Drohnen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07G3H5RBT/?tag=tolees0ca-21)

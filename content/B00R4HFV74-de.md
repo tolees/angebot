@@ -28,10 +28,10 @@ Es gibt ein [Textmarker - STABILO swing cool - 8er Pack - mit 8 verschiedenen Fa
 
 ℹ️:
 
+- Praktischer Clip und extra schlanke Stiftform - ideal für unterwegs
 - STABILO Anti-Dry-Out Technology: 4 Stunden Schutz vor dem Austrocknen
 - Rutschfeste Oberfläche in transluzenter Optik
-- Erhältlich in 6 Leuchtfarben
-- Praktischer Clip und extra schlanke Stiftform - ideal für unterwegs
 - 2 Strichstärken: 1 + 4 mm
+- Erhältlich in 6 Leuchtfarben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00R4HFV74/?tag=tolees0ca-21)
