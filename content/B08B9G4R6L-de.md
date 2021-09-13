@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.63 % rabat auf Sony BMG Music Entertainm - Outlander - '
-date: 2021-09-12 14:07:43
+date: 2021-09-13 19:51:20
 image: 'https://m.media-amazon.com/images/I/516oWKuq0VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony BMG Music Entertainm'
 buyurl: 'https://www.amazon.de/dp/B08B9G4R6L/?tag=tolees0ca-21'
 descuento: '15.63'
-average: '21.5247619047619'
+average: '21.39921875'
 ---
 
 Es gibt ein [Sony BMG Music Entertainm - Outlander - Die komplette fünfte Season](https://www.amazon.de/dp/B08B9G4R6L/?tag=tolees0ca-21) mit aktuellem Preis 13.49 EUR (original: 15.99 EUR) 15.63 % Rabatt hier:
