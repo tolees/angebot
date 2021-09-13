@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WR841N N300 WLAN Router  für  mit 38.86 % Rabatt'
-date: 2021-09-12 01:59:09
+date: 2021-09-13 07:52:58
 image: 'https://m.media-amazon.com/images/I/41Sm+swaTWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B001FWYGJS/?tag=tolees0ca-21'
 descuento: '38.86'
-average: '15.4756000000001'
+average: '15.4658278145696'
 ---
 
 Sie können [TP-Link TL-WR841N N300 WLAN Router  für Anschluss an Kabel-/ DSL-/ Glasfaser-Modem  300 Mbit/s  2 4 GHz   WPS  Print/ Media/ FTP Server  Schwarz/Weiß](https://www.amazon.de/dp/B001FWYGJS/?tag=tolees0ca-21) mit Preis 14.0 EUR (original: 22.9 EUR) 38.86 % Rabatt hier:
@@ -28,12 +28,12 @@ Sie können [TP-Link TL-WR841N N300 WLAN Router  für Anschluss an Kabel-/ DSL-/
 
 ℹ️:
 
-- Zwei Antennen erhöhen die Robustheit und die Stabilität des WLAN erheblich
-- Betriebstemperatur : 0°C - 40°C
+- TP-LINK Tether App zur einfachen Installation und Management aller mobilen Netzwerkgeräte
 - Lieferumfang: Wireless-N-Router TL-WR841N, Spannungsadapter, Schnellinstallationsanleitung
 - Kompatibel zu IPv6, Systemanforderungen: Microsoft Windows 98SE, NT, 2000, XP, Vista, 7, 8 oder 10, MacOS, NetWare, UNIX, Linux
+- Betriebstemperatur : 0°C - 40°C
+- Zwei Antennen erhöhen die Robustheit und die Stabilität des WLAN erheblich
 - Die IP-basierte Datenratensteuerung ermöglicht es Ihnen zu bestimmen, wie viel Datenrate jedem PC zugeteilt wird
-- TP-LINK Tether App zur einfachen Installation und Management aller mobilen Netzwerkgeräte
 - 300 Mbit/s WLAN-Geschwindigkeit; ideal für unterbrechungsgefährdete Anwendungen wie HD-Videostreaming
 - Einfache WLAN-Sicherheitsverschlüsselung mit einem einfachen Druck auf die WPS-Taste
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '53.44 % rabat auf LEDVANCE Smart+ Schaltbare Steckdose für'
-date: 2021-09-12 01:57:31
+date: 2021-09-13 07:49:41
 image: 'https://m.media-amazon.com/images/I/418bm3A5ySL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ledvance'
 buyurl: 'https://www.amazon.de/dp/B08DVFJB4R/?tag=tolees0ca-21'
 descuento: '53.44'
-average: '9.31833333333333'
+average: '8.98428571428571'
 ---
 
 Es gibt ein [LEDVANCE Smart+ Schaltbare Steckdose für WiFi  mit Strom Vermessung  Kompatibel mit Google and Alexa Voice Control  1er-Pack](https://www.amazon.de/dp/B08DVFJB4R/?tag=tolees0ca-21) mit aktuellem Preis 6.98 EUR (original: 14.99 EUR) 53.44 % Rabatt hier:
