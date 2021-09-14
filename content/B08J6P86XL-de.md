@@ -28,14 +28,14 @@ Es gibt ein [2020 Apple iPad Air  10 9"  Wi-Fi + Cellular  256 GB  - Himmelbla
 
 ℹ️:
 
-- Bis zu 10S td. Batterielaufzeit
-- Erhältlich in Silber, SpaceGrau, Roségold, Grün und SkyBlau
-- USB‑C Anschluss zum Aufladen und für Zubehör
-- Fantastisches 10,9" Liquid Retina Display mit True Tone und großem P3 Farbraum
-- A14 Bionic Chip mit Neural Engine
 - 12 MP Rückkamera, 7 MP FaceTime HD Frontkamera
-- Touch ID für sicheres Authentifizieren und Apple Pay
-- WLAN6 (802.11ax) und LTE Advanced Mobilfunkdaten
+- Erhältlich in Silber, SpaceGrau, Roségold, Grün und SkyBlau
 - Breites Stereoaudio
+- USB‑C Anschluss zum Aufladen und für Zubehör
+- Touch ID für sicheres Authentifizieren und Apple Pay
+- Fantastisches 10,9" Liquid Retina Display mit True Tone und großem P3 Farbraum
+- Bis zu 10S td. Batterielaufzeit
+- A14 Bionic Chip mit Neural Engine
+- WLAN6 (802.11ax) und LTE Advanced Mobilfunkdaten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08J6P86XL/?tag=tolees0ca-21)
