@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.68 % rabat auf Constantin Film  Universal Pictures  - A'
-date: 2021-09-13 19:48:24
+date: 2021-09-14 19:59:21
 image: 'https://m.media-amazon.com/images/I/51+7V41ZJeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Constantin Film (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B08H6JSXT8/?tag=tolees0ca-21'
 descuento: '16.68'
-average: '13.1256097560973'
+average: '13.0878313253009'
 ---
 
 Es gibt ein [Constantin Film  Universal Pictures  - After Truth [Blu-ray]](https://www.amazon.de/dp/B08H6JSXT8/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 11.99 EUR) 16.68 % Rabatt hier:
