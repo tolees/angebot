@@ -28,11 +28,11 @@ Es gibt ein [NETGEAR WLAN Repeater EX6120 WLAN Verstärker  AC1200 Dual Band WiF
 
 ℹ️:
 
-- LAN-NETZWERKANSCHLUSS: Schließen Sie Spielkonsolen, Streaming-Player oder andere kabelgebundene Geräte einfach an den vorhandenen 10/100M Ethernet-Port an, um maximale Geschwindigkeiten zu erzielen
-- HOHE SICHERHEIT: WiFi Repeater unterstützt die drahtlosen WLAN-Sicherheitsprotokolle WEP und WPA/WPA2
-- AC1200 WLAN-GESCHWINDIGKEIT: Leistung von bis zu 1200 Mbit/s mit Dual-Band und patentierter FastLane-Technologie für Video-Streaming und entspanntes Gaming
 - EINFACHE EINRICHTUNG: Drücken Sie die WPS-Taste, um eine Verbindung zu Ihrem bestehenden Router herzustellen, mit der NETGEAR App WiFi Analyzer finden Sie den optimalen Standort
 - UNIVERSELLE KOMPATIBILITÄT: WLAN Verstärker funktioniert mit jedem gängigen WLAN-Router, Gateway oder Kabelmodem
 - MEHR WLAN-ABDECKUNG: Bietet eine WLAN-Abdeckung von bis zu 60 m² und verbindet bis zu 20 Geräte wie Laptops, Smartphones, Lautsprecher, IP-Kameras, Tablets, IoT-Geräte und mehr
+- HOHE SICHERHEIT: WiFi Repeater unterstützt die drahtlosen WLAN-Sicherheitsprotokolle WEP und WPA/WPA2
+- AC1200 WLAN-GESCHWINDIGKEIT: Leistung von bis zu 1200 Mbit/s mit Dual-Band und patentierter FastLane-Technologie für Video-Streaming und entspanntes Gaming
+- LAN-NETZWERKANSCHLUSS: Schließen Sie Spielkonsolen, Streaming-Player oder andere kabelgebundene Geräte einfach an den vorhandenen 10/100M Ethernet-Port an, um maximale Geschwindigkeiten zu erzielen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B013SCBJ10/?tag=tolees0ca-21)
