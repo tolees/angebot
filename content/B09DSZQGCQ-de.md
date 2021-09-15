@@ -29,9 +29,9 @@ Sie können [Sony Interactive Entertainment - DualSense Wireless Controller + NB
 ℹ️:
 
 - Der DualSense Wireless-Controller bietet immersives haptisches Feedback, dynamische adaptive Trigger und ein integriertes Mikrofon – und das alles in einem ikonischen, komfortablen Design
+- NBA 2K22 Amazon Standard Plus - [Playstation 5]
 - Mit einem Gutschein* für 3 MyTEAM-Packs und 2.500 MyTEAM-Punkte ohne zusätzliche Kosten
 - Standard Plus DLC (exklusiv bei amazon.de): 2.000 VC + 1 x MyTEAM Promo Pack
 - Entdecke ein noch intensiveres und fesselnderes Gaming-Erlebnis1, mit dem die Action in deinen Händen zum Leben erwacht
-- NBA 2K22 Amazon Standard Plus - [Playstation 5]
 
 [🛒 Hier!!](https://www.amazon.de/dp/B09DSZQGCQ/?tag=tolees0ca-21)

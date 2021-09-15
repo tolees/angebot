@@ -28,12 +28,12 @@ Es gibt ein [Amazon - Neu: das Fire HD 10 Kids Pro-Tablet | Ab dem Grundschulalt
 
 ℹ️:
 
-- Octa-Core-Prozessor, 3 GB RAM, 25,6 cm (10,1 Zoll) großes Full-HD-Display mit brillanter Farbdarstellung, zwei Kameras, USB-C-Anschluss (2.0) und bis zu 1 TB erweiterbarer Speicherplatz. Der Bildschirm wurde aus verstärktem Aluminium-Silikat-Glas hergestellt.
-- Zusätzlich zu Inhalten von Amazon Kids+ bieten Kids Pro-Tablets Zugriff auf einen digitalen Shop. Dort können Kinder den Kauf oder Download von Apps wie ANTON, Minecraft oder Netflix anfragen und diesen von Eltern bestätigen lassen.
-- In Verbindung bleiben: Eltern können Kindern erlauben, Sprach- und Videoanrufe mit ausgewählten Kontakten zu tätigen und Ankündigungen über das WLAN zu senden. Kontakte müssen über ein Alexa-fähiges Gerät oder die Alexa App verfügen.
-- 2 Jahre Sorglos-Garantie: Sollte das Gerät kaputtgehen, ersetzen wir es kostenlos.
-- Ein vollwertiges 10,1-Zoll-Tablet (kein Spielzeug), eine kindgerechte Hülle, Kindersicherung, 2 Jahre Sorglos-Garantie und 1 Jahr Amazon Kids+.
-- Kinder ab dem Grundschulalter erhalten dank der einjährigen Mitgliedschaft bei Amazon Kids+ Zugriff auf Tausende Apps, Spiele, Bücher, Videos, Songs und Audible-Hörbücher und -Hörspiele. Enthalten sind auch über 100 Lern-Apps wie Blitzrechnen, Lernerfolg Grundschule und Conni Englisch.
 - Webbrowser: Eingebaute Filter helfen dabei, nicht altersgerechte Inhalte zu blockieren. Eltern können zudem bestimmte Websites gezielt sperren.
+- 2 Jahre Sorglos-Garantie: Sollte das Gerät kaputtgehen, ersetzen wir es kostenlos.
+- Kinder ab dem Grundschulalter erhalten dank der einjährigen Mitgliedschaft bei Amazon Kids+ Zugriff auf Tausende Apps, Spiele, Bücher, Videos, Songs und Audible-Hörbücher und -Hörspiele. Enthalten sind auch über 100 Lern-Apps wie Blitzrechnen, Lernerfolg Grundschule und Conni Englisch.
+- Zusätzlich zu Inhalten von Amazon Kids+ bieten Kids Pro-Tablets Zugriff auf einen digitalen Shop. Dort können Kinder den Kauf oder Download von Apps wie ANTON, Minecraft oder Netflix anfragen und diesen von Eltern bestätigen lassen.
+- Octa-Core-Prozessor, 3 GB RAM, 25,6 cm (10,1 Zoll) großes Full-HD-Display mit brillanter Farbdarstellung, zwei Kameras, USB-C-Anschluss (2.0) und bis zu 1 TB erweiterbarer Speicherplatz. Der Bildschirm wurde aus verstärktem Aluminium-Silikat-Glas hergestellt.
+- In Verbindung bleiben: Eltern können Kindern erlauben, Sprach- und Videoanrufe mit ausgewählten Kontakten zu tätigen und Ankündigungen über das WLAN zu senden. Kontakte müssen über ein Alexa-fähiges Gerät oder die Alexa App verfügen.
+- Ein vollwertiges 10,1-Zoll-Tablet (kein Spielzeug), eine kindgerechte Hülle, Kindersicherung, 2 Jahre Sorglos-Garantie und 1 Jahr Amazon Kids+.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08H3P9CR2/?tag=tolees0ca-21)

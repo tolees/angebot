@@ -28,10 +28,10 @@ Sie können [AUPROTEC 40 Stück FFP2 Maske Aupromask AM-101 Atemschutzmaske EU C
 
 ℹ️:
 
-- Mundschutz und Nasenschutz Bedeckung ist überall vorgeschrieben wo der Mindestabstand nicht eingehalten werden kann. So z.B. Supermarkt, Bus und Bahn, öffentlichen Einrichtungen etc.
-- FFP2 Schutzmaske AUPROMASK-AM 101 - zertifiziert CE 0598, partikelfiltrierende Atemschutzmaske PFE 94%
-- Lieferumfang: 1 Pack = 40 Stück einzeln verpackt im PE Beutel. | Farbe: weiß
 - Sie fügt sich exakt an das Gesicht und an die Haut an, daher sehr dicht an Mund und Nase. Der zusätzlich innen liegende Metallstreifen dient zur exakten Anpassung am Nasenrücken und zur Abdichtung.
+- FFP2 Schutzmaske AUPROMASK-AM 101 - zertifiziert CE 0598, partikelfiltrierende Atemschutzmaske PFE 94%
 - 5-lagige Atemmaske mit speziellem super Soft Vlies für angenehmen Tragekomfort. Sehr atmungsaktiv und hohe Feuchtigkeitsaufnahme zugleich. Keine Durchfeuchtung auch nach langer Tragezeit. Beschlagen der Brille wird dadurch sehr gut vermieden.
+- Lieferumfang: 1 Pack = 40 Stück einzeln verpackt im PE Beutel. | Farbe: weiß
+- Mundschutz und Nasenschutz Bedeckung ist überall vorgeschrieben wo der Mindestabstand nicht eingehalten werden kann. So z.B. Supermarkt, Bus und Bahn, öffentlichen Einrichtungen etc.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B092R9WVGQ/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [4K DisplayPort Kabel 1M  iVANKY Display Port Kabel  4K@60Hz und 2K@
 
 ℹ️:
 
-- Stabile Datenübertragung – Der 24K-vergoldete Stecker bietet zuverlässige Konnektivität und bewahrt die Reinheit der Signale. 28 AWG verzinnter Kupferdraht sorgt für unterbrechungsfreie Übertragung. Die Premium-Aluminium-Hülse bietet eine bessere Wärmeableitung.
-- Latch-freies Design: Zuverlässige Verbindung durch das Einzigartiges Latch-freies Design. Sie brauchen sich nicht um Verbindungsunterbrechungen zu sorgen. Die verstärkte Verbindung kann Korrosion und 5000+ mal Biegen und 10000+ mal Ein- und Ausstecken widerstehen.
 - 4K@60Hz-Auflösung - Unterstützt eine hohe Auflösung von bis zu 4K Ultra-HD (3840x2160 @60Hz), 2K@165Hz, 2K@144Hz, 1080p Full-HD. Es arbeitet vollständig mit DP, DP++ und DisplayPort++.
-- Ausschließliche Garantie - Alle iVANKY-Produkte unterstützen eine 18-monatige Garantie! Setzen Sie sich mit uns in Verbindung, wenn Sie beim Verwenden unserer Produkte Probleme haben. Wir helfen Ihnen gerne!
 - Breite Kompatibilität - Verbinden Sie Ihren Desktop/Laptop mit einem HD-Fernseher, Monitor, Display, Gaming-Grafikkarte für High-Definition-Video und Ultra-Clear-Audio. Einfach einen Desktop erweitern oder ein gespiegeltes Display schaffen. Die optimale Wahl für Ihr Spielerlebnis, Home Entertainment und Konferenzen.
+- Latch-freies Design: Zuverlässige Verbindung durch das Einzigartiges Latch-freies Design. Sie brauchen sich nicht um Verbindungsunterbrechungen zu sorgen. Die verstärkte Verbindung kann Korrosion und 5000+ mal Biegen und 10000+ mal Ein- und Ausstecken widerstehen.
+- Ausschließliche Garantie - Alle iVANKY-Produkte unterstützen eine 18-monatige Garantie! Setzen Sie sich mit uns in Verbindung, wenn Sie beim Verwenden unserer Produkte Probleme haben. Wir helfen Ihnen gerne!
+- Stabile Datenübertragung – Der 24K-vergoldete Stecker bietet zuverlässige Konnektivität und bewahrt die Reinheit der Signale. 28 AWG verzinnter Kupferdraht sorgt für unterbrechungsfreie Übertragung. Die Premium-Aluminium-Hülse bietet eine bessere Wärmeableitung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B081YNX8PK/?tag=tolees0ca-21)
