@@ -28,10 +28,10 @@ Sie können [Honor Watch GS Pro - Smartwatch Charcoal Black](https://www.amazon.
 
 ℹ️:
 
-- 25 Tage Akkulaufzeit
 - Rückgabepfadfunktion mit Breadcrumb-Navigation
-- Eingebautes GPS, bis zu 48 Stunden Akkulaufzeit bei aktivem GPS
 - SpO2-Monitor
+- Eingebautes GPS, bis zu 48 Stunden Akkulaufzeit bei aktivem GPS
+- 25 Tage Akkulaufzeit
 - 100+ Trainingsmodi
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08GRJRM39/?tag=tolees0ca-21)
