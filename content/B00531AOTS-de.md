@@ -28,10 +28,10 @@ Sie können [Bosch Professional Säbelsäge GSA 1100 E  1100 Watt  inkl. 1 x Sä
 
 ℹ️:
 
-- Metallhaken zum Einhängen des Säge während einer Arbeitsunterbrechung
 - Bessere Sicht auf die Säbelsäge dank des integrierten LED-Lichts
-- Lieferumfang: GSA 1100 E, 1x Säbelsägeblatt S 2345 X für Holz, 1x Säbelsägeblatt S 123 XF für Metall, Handwerkerkoffer (2610956923)
 - Schneller Sägefortschritt durch kraftvollen 1.100-W-Motor
 - Die GSA 1100 E bietet optimale Sicht in jeder Arbeitssituation
+- Metallhaken zum Einhängen des Säge während einer Arbeitsunterbrechung
+- Lieferumfang: GSA 1100 E, 1x Säbelsägeblatt S 2345 X für Holz, 1x Säbelsägeblatt S 123 XF für Metall, Handwerkerkoffer (2610956923)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00531AOTS/?tag=tolees0ca-21)
