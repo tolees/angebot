@@ -28,10 +28,10 @@ Es gibt ein [De’Longhi - De Longhi DeLonghi Dedica EC 685.M Espresso Siebträg
 
 ℹ️:
 
-- THERMOBLOCK-HEIZSYSTEM: Immer die richtige Temperatur für geschmackvollen Espresso, Kaffee oder Cappuccino
-- EINSTELLBARE MILCHAUFSCHÄUMDÜSE: Für die Zubereitung von cremigem Milchschaum, heißer Milch oder Heißwasser für Tee
-- SEHR KOMPAKTES DESIGN: Die Espresso Maschine ist nur 15 cm breit
 - FLEXIBLER SIEBTRÄGERHALTER: Mit Einsätzen für 1 oder 2 Tassen sowie für Kaffeepads – das Sieb ist herausnehmbar
 - HEIZT SCHNELL AUF: In 40 Sekunden ist die Kaffeemaschine betriebsbereit
+- SEHR KOMPAKTES DESIGN: Die Espresso Maschine ist nur 15 cm breit
+- THERMOBLOCK-HEIZSYSTEM: Immer die richtige Temperatur für geschmackvollen Espresso, Kaffee oder Cappuccino
+- EINSTELLBARE MILCHAUFSCHÄUMDÜSE: Für die Zubereitung von cremigem Milchschaum, heißer Milch oder Heißwasser für Tee
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06WGTZ874/?tag=tolees0ca-21)

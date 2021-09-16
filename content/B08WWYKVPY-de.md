@@ -28,11 +28,11 @@ Es gibt ein [LEGO 43113 VIDIYO K-Pawp Concert Beatbox Music Video Maker  Musik S
 
 ℹ️:
 
-- Suchen Sie im App Store oder bei Google Play nach LEGO VIDIYO, um die App herunterzuladen, um vor dem Kauf die Kompatibilität Ihres Geräts zu prüfen
-- Laden Sie die App des Music Video Makers herunter, um die Minifiguren Hase, Kätzchen und fliegendes Einhorn zu scannen und mit Spezialeffekten zum Leben zu erwecken
-- Das Musik Spielzeug für Kinder lässt sich unkompliziert zusammenklappen und ist daher ein cooles Spielzeug für Reisen und zum Mitnehmen zu Freunden
 - Enthalten sind 3 Minifiguren mit Musikubehör, 14 zufällige BeatBits und 3 spezielle BeatBits zum Scannen in der AR App, um Optionen zur Videoerstellung freizuschalten
+- Das Musik Spielzeug für Kinder lässt sich unkompliziert zusammenklappen und ist daher ein cooles Spielzeug für Reisen und zum Mitnehmen zu Freunden
 - Das LEGO VIDIYO Set K-Pawp Concert ist das ultimative Spielzeug für alle Kinder, die davon träumen Stars zu werden und ihren Traum früh verwirklichen möchten
+- Laden Sie die App des Music Video Makers herunter, um die Minifiguren Hase, Kätzchen und fliegendes Einhorn zu scannen und mit Spezialeffekten zum Leben zu erwecken
+- Suchen Sie im App Store oder bei Google Play nach LEGO VIDIYO, um die App herunterzuladen, um vor dem Kauf die Kompatibilität Ihres Geräts zu prüfen
 - Kinder können die Szenerie in den Videos verändern, indem sie den Einhornkopf gegen einen Katzenkopf austauschen und damit die Hintergründe im Video variieren
 - Überprüfen Sie die Kompatibilität Ihres Geräts, indem Sie die kostenlose App herunterladen und das erste Musikvideo Ihres Kindes mit dem kostenlosen digitalen Bandmate aufnehmen
 
