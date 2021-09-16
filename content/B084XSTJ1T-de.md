@@ -28,10 +28,10 @@ Sie können [LG Electronics - LG 55NANO806NA 139 cm  55 Zoll  NanoCell Fernseher
 
 ℹ️:
 
+- 4K NanoCell IPS TV mit Local Dimming für reine Farben und weite Blickwinkel
+- HDMI 2.1 und HGiG-Unterstützung* (* Per Software-Update im Laufe des Jahres.)
 - Bild wie vom Regisseur gewollt mit dem Filmmaker Mode sowie HDR-Unterstützung mit Active HDR (HDR10 Pro und HLG)
 - Smart TV (webOS 5.0) mit Google Assistant, Alexa, AirPlay 2/HomeKit
 - Quad Core 4K Prozessor mit zweistufiger Rauschreduzierung und AI Sound
-- 4K NanoCell IPS TV mit Local Dimming für reine Farben und weite Blickwinkel
-- HDMI 2.1 und HGiG-Unterstützung* (* Per Software-Update im Laufe des Jahres.)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084XSTJ1T/?tag=tolees0ca-21)
