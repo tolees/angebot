@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Constantin Film  Universal Pictures  - A mit 28.12 % Rabatt'
-date: 2021-09-15 20:21:31
+date: 2021-09-16 20:24:24
 image: 'https://m.media-amazon.com/images/I/51Agbp9H7zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Constantin Film (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B08H6M8H9M/?tag=tolees0ca-21'
 descuento: '28.12'
-average: '10.7358064516128'
+average: '10.6907936507935'
 ---
 
 Sie können [Constantin Film  Universal Pictures  - After Truth](https://www.amazon.de/dp/B08H6M8H9M/?tag=tolees0ca-21) mit Preis 7.9 EUR (original: 10.99 EUR) 28.12 % Rabatt hier:
