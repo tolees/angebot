@@ -28,10 +28,10 @@ Es gibt ein [devolo WLAN Powerline Adapter  dLAN 1200+ WiFi ac Erweiterungsadapt
 
 ℹ️:
 
+- Der Ergänzungsadapter erweitert Ihr vorhandenes Heimnetzwerk (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
+- Lieferumfang:- 1x dLAN 1200+ WiFi ac mit Steckdose, 2 X Gigabit LAN
+- Mit der integrierten Steckdose inklusive Kindersicherung geht kein Stromanschluss im Raum verloren
 - WLAN aus jeder Steckdose mit ac-Geschwindigkeit von bis zu 1200 Mbit/s für Smartphone, Tablet, Laptop, etc.
 - Mit zwei integrierten Fast-Ethernet-LAN Anschlüssen für Ihre internetfähigen Geräte (Smart-TV, Spielekonsole, PC, etc.)
-- Der Ergänzungsadapter erweitert Ihr vorhandenes Heimnetzwerk (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
-- Mit der integrierten Steckdose inklusive Kindersicherung geht kein Stromanschluss im Raum verloren
-- Lieferumfang:- 1x dLAN 1200+ WiFi ac mit Steckdose, 2 X Gigabit LAN
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00NHDALJC/?tag=tolees0ca-21)
