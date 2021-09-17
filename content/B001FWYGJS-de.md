@@ -28,13 +28,13 @@ Sie können [TP-Link TL-WR841N N300 WLAN Router  für Anschluss an Kabel-/ DSL-/
 
 ℹ️:
 
+- Kompatibel zu IPv6, Systemanforderungen: Microsoft Windows 98SE, NT, 2000, XP, Vista, 7, 8 oder 10, MacOS, NetWare, UNIX, Linux
+- Einfache WLAN-Sicherheitsverschlüsselung mit einem einfachen Druck auf die WPS-Taste
+- Zwei Antennen erhöhen die Robustheit und die Stabilität des WLAN erheblich
+- TP-LINK Tether App zur einfachen Installation und Management aller mobilen Netzwerkgeräte
+- 300 Mbit/s WLAN-Geschwindigkeit; ideal für unterbrechungsgefährdete Anwendungen wie HD-Videostreaming
 - Betriebstemperatur : 0°C - 40°C
 - Lieferumfang: Wireless-N-Router TL-WR841N, Spannungsadapter, Schnellinstallationsanleitung
 - Die IP-basierte Datenratensteuerung ermöglicht es Ihnen zu bestimmen, wie viel Datenrate jedem PC zugeteilt wird
-- Zwei Antennen erhöhen die Robustheit und die Stabilität des WLAN erheblich
-- TP-LINK Tether App zur einfachen Installation und Management aller mobilen Netzwerkgeräte
-- Kompatibel zu IPv6, Systemanforderungen: Microsoft Windows 98SE, NT, 2000, XP, Vista, 7, 8 oder 10, MacOS, NetWare, UNIX, Linux
-- 300 Mbit/s WLAN-Geschwindigkeit; ideal für unterbrechungsgefährdete Anwendungen wie HD-Videostreaming
-- Einfache WLAN-Sicherheitsverschlüsselung mit einem einfachen Druck auf die WPS-Taste
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001FWYGJS/?tag=tolees0ca-21)
