@@ -28,10 +28,10 @@ Es gibt ein [TT ESPORTS Challenger Edge Gaming Tastatur schwarz komplette Hinter
 
 ℹ️:
 
-- Membrane Tasten
-- Herstellergarantie: 2 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- QWERTZ, DE Layout
-- Komplette RGB Hintergrundbeleuchtung (8 Farben)
 - Minimale Anschläge der Tasten: 20 Millionen
+- QWERTZ, DE Layout
+- Herstellergarantie: 2 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Membrane Tasten
+- Komplette RGB Hintergrundbeleuchtung (8 Farben)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01KPVGDK4/?tag=tolees0ca-21)
