@@ -28,10 +28,10 @@ Sie können [Toshiba Canvio Gaming 4TB Externe Festplatte  2 5 Zoll  USB 3.2  Sc
 
 ℹ️:
 
-- Funktioniert mit PlayStation/Xbox/PC
-- exFAT-formatiert für: PlayStation/Xbox (siehe Kompatibilitätsliste) - Windows 10 , Windows 8.1 - macOS v10.15, macOS v10.14, macOS v10.13
 - Elegantes Design in Schwarz
-- Externe 2,5"-Festplatte
+- Funktioniert mit PlayStation/Xbox/PC
 - Speichert über 25 Spiele pro TB*
+- Externe 2,5"-Festplatte
+- exFAT-formatiert für: PlayStation/Xbox (siehe Kompatibilitätsliste) - Windows 10 , Windows 8.1 - macOS v10.15, macOS v10.14, macOS v10.13
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08J4DSV3Q/?tag=tolees0ca-21)
