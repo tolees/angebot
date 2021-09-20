@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden - Bosch 70tlg. X-Line Titanium-Bohrer und Sch
 
 ℹ️:
 
-- 11 Metallbohrer Ø 1,5-6,5 mm (für Metall, Plexiglas und Hartkunststoffe). 6 Steinbohrer Ø 4-10 mm (für Mauerwerk, Kalk-, Natur- und Kunststein). 5 Holzbohrer Ø 4-10 mm (für Hartholz, Weichholz und Kunststoff). 3 Flachfräsenbohrer, Titanium Ø 16/22/32 mm.
-- X-Line Bohrer- und Schrauber-Set geeignet für vielseitige Anwendungsmöglichkeiten in Holz, Stein und Metall.
-- 24 Schrauberbits L = 25 mm (PH 0/1/1/2/2/3, PZ 0/1/1/2/2/3, S 4/6/7, HEX 3/4/5/6, T 10/15/20/25/40), 10 Schrauberbits L = 50 mm (PH 1/2/3, PZ 1/2/3, S 4/6, T 20/25), 7 Steckschlüssel Ø 4/5/6/7/8/9/10 mm, 1 Adapter für Steckschlüssel.
-- Kompatibilität: Für alle Bohrmaschinen im handgeführten und stationären Einsatz
 - Praktischer Bosch X-Line Koffer (236 x 259 x 64 mm) mit übersichtlicher Anordnung des Inhalts
+- X-Line Bohrer- und Schrauber-Set geeignet für vielseitige Anwendungsmöglichkeiten in Holz, Stein und Metall.
+- Kompatibilität: Für alle Bohrmaschinen im handgeführten und stationären Einsatz
+- 24 Schrauberbits L = 25 mm (PH 0/1/1/2/2/3, PZ 0/1/1/2/2/3, S 4/6/7, HEX 3/4/5/6, T 10/15/20/25/40), 10 Schrauberbits L = 50 mm (PH 1/2/3, PZ 1/2/3, S 4/6, T 20/25), 7 Steckschlüssel Ø 4/5/6/7/8/9/10 mm, 1 Adapter für Steckschlüssel.
+- 11 Metallbohrer Ø 1,5-6,5 mm (für Metall, Plexiglas und Hartkunststoffe). 6 Steinbohrer Ø 4-10 mm (für Mauerwerk, Kalk-, Natur- und Kunststein). 5 Holzbohrer Ø 4-10 mm (für Hartholz, Weichholz und Kunststoff). 3 Flachfräsenbohrer, Titanium Ø 16/22/32 mm.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000P4IQN4/?tag=tolees0ca-21)

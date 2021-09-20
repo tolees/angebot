@@ -28,9 +28,9 @@ Sie können [hansgrohe Ecostat Aufputz Duschthermostat  für 1 Funktion  Chrom](
 
 ℹ️:
 
-- Sicherheitsfunktion: Einstellen einer Höchsttemperatur von bspw. 40°C, schützt vor versehentlich zu heißen Temperaturen
-- Gut für die Umwelt: Mit der Ecostop-Taste können Sie den Wasserverbrauch auf 10 l/min begrenzen
-- Ein Verbraucher, Durchflussmenge Anschluss Handbrause (bei 3 bar): 17 l/min, Konstante Wassertemperatur auch bei schwankendem Wasserdruck
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „Garantiehinweise“.
+- Ein Verbraucher, Durchflussmenge Anschluss Handbrause (bei 3 bar): 17 l/min, Konstante Wassertemperatur auch bei schwankendem Wasserdruck
+- Gut für die Umwelt: Mit der Ecostop-Taste können Sie den Wasserverbrauch auf 10 l/min begrenzen
+- Sicherheitsfunktion: Einstellen einer Höchsttemperatur von bspw. 40°C, schützt vor versehentlich zu heißen Temperaturen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MG2DCK9/?tag=tolees0ca-21)
