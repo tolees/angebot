@@ -28,10 +28,10 @@ Es gibt ein [Corsair Ironclaw Wireless RGB  Wiederaufladbare Optisch Gaming Maus
 
 ℹ️:
 
-- Ultrarobuste Omron-Schalter für mehr als 50 Millionen Klicks
-- Konturierte Form, die speziell für Handflächen und größere Hände geformt ist und für Komfort sorgt, wenn es gezählt wird
-- Drei Verbindungsmodi: Hyper-fast, Sub-1ms SLIPSTREAM CORSAIR WIRELESS TECHNOLOGIY, Bluetooth mit niedriger Latenz oder USB verkabelt
-- Zehn vollständig programmierbare Tasten zur Anpassung der Spielweise mit leistungsstarken Makros und Schlüsselumplänen für einen Vorteil im Spiel
 - Custom Pixart PMW3391 nativer optischer Sensor mit 18 000 DPI Auflösung und 1 DPI Schritte für extrem genaue Tracking und Genauigkeit
+- Drei Verbindungsmodi: Hyper-fast, Sub-1ms SLIPSTREAM CORSAIR WIRELESS TECHNOLOGIY, Bluetooth mit niedriger Latenz oder USB verkabelt
+- Ultrarobuste Omron-Schalter für mehr als 50 Millionen Klicks
+- Zehn vollständig programmierbare Tasten zur Anpassung der Spielweise mit leistungsstarken Makros und Schlüsselumplänen für einen Vorteil im Spiel
+- Konturierte Form, die speziell für Handflächen und größere Hände geformt ist und für Komfort sorgt, wenn es gezählt wird
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07QD1FP24/?tag=tolees0ca-21)
