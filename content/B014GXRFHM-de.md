@@ -28,10 +28,10 @@ Es gibt ein [devolo WLAN Powerline Adapter  dLAN 550 WiFi Starter Kit -bis zu 50
 
 ℹ️:
 
+- Überall voller Empfang und starke Datenraten: Bis zu 500 Mbit/s über Powerline und 300 Mbit/s über WLAN
+- Die WiFi Move Technology verbindet automatisch mehrere Adapter zu einem WLAN-Netzwerk: Optimaler WLAN-Empfang, im gesamten Haus, voll automatisch
+- Das Starter Kit stellt die Verbindung zwischen zwei Netzwerkgeräten her (z.B. Router zu einem PC)und kann mit weiteren Adaptern erweitert werden (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
 - Dank range+ Technologie noch mehr Leistung und höhere Reichweite
 - Lieferumfang: 1x dLAN 550 WiFi Powerline Adapter, 1x dLAN 550 duo+ powerline Adapter, 1x Ethernet Kabel (2m), 1x Installationsanleitung
-- Überall voller Empfang und starke Datenraten: Bis zu 500 Mbit/s über Powerline und 300 Mbit/s über WLAN
-- Das Starter Kit stellt die Verbindung zwischen zwei Netzwerkgeräten her (z.B. Router zu einem PC)und kann mit weiteren Adaptern erweitert werden (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
-- Die WiFi Move Technology verbindet automatisch mehrere Adapter zu einem WLAN-Netzwerk: Optimaler WLAN-Empfang, im gesamten Haus, voll automatisch
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B014GXRFHM/?tag=tolees0ca-21)
