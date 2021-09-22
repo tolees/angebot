@@ -29,9 +29,9 @@ Sie können [Mike s Hard Seltzer 12er-Mixpack  4x Lime / 4x Raspberry / 4x Passi
 ℹ️:
 
 - Lieferumfang: 12 x 0, 33 l Mikes Hard seltzer (4x Lime/ 4x Raspberry/ 4x Passion fruit) in Dosen (Einweg)/ 3, 00 Pfand zuzüglich zum Kaufpreis/ Pfand wie üblich überall einlösbar
-- Water - Alcohol - Bubbles - natural flavours - Its alcoholic Sparkling Water
 - Mikes Hard seltzer ist das alkoholische Trendgetränk aus den USA: erfrischend, mit wenig Kalorien (99 kcal/Dose) und nur 1 Gramm Zucker - perfekt für den Sommer
-- Mikes Hard seltzer schmeckt nicht nach Wein oder sauer wie viele andere hard seltzer, sondern wie das Original aus den USA - ausgewogen und erfrischend
+- Water - Alcohol - Bubbles - natural flavours - Its alcoholic Sparkling Water
 - Mikes Hard seltzer 12er-mixpack/ variety-pack, Alkoholhaltiges Mineralwasser (5%) mit leichtem Fruchtgeschmack von Limette, Himbeere und Passionsfrucht
+- Mikes Hard seltzer schmeckt nicht nach Wein oder sauer wie viele andere hard seltzer, sondern wie das Original aus den USA - ausgewogen und erfrischend
 
 [🛒 Hier!!](https://www.amazon.de/dp/B091N3DWHV/?tag=tolees0ca-21)
