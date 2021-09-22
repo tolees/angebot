@@ -29,9 +29,9 @@ Es gibt ein [LEGO 60301 City Wildlife Tierrettungs-Geländewagen Spielzeugauto  
 ℹ️:
 
 - Dieses Spielzeug ab 4 Jahren wird mit einer einfachen Bauanleitung und einem Starterelement geliefert, damit die Kleinen selbstbewusst mit dem Bauen beginnen können
-- Das LEGO Zubehör umfasst ein Spielzeug-Schlangenei, einen Schlangengreifer, 2 Kisten, ein Fernglas, ein Walkie-Talkie, eine Kamera, Knochen, eine Flasche, eine Wurst und eine Haarbürste
 - Kinder können die Klappbrückenfunktion aktivieren, die Seilwinde des Offroaders bedienen oder die Freizeit auf dem Campingplatz genießen
 - Enthalten sind eine Minifigur der TV-Heldin aus der Serie LEGO City – Abenteuer, eine Ranger- und eine Entdecker-Minifigur, sowie Tierfiguren, nämlich ein Löwen, ein Löwenjunges und eine Schlangenfigur
 - Dieses LEGO City Wildlife Tierrettungs-Geländewagen für Fans der Tierrettung enthält ein Spielzeugauto, einen Wasserscooter und eine realistische Savannenlandschaft
+- Das LEGO Zubehör umfasst ein Spielzeug-Schlangenei, einen Schlangengreifer, 2 Kisten, ein Fernglas, ein Walkie-Talkie, eine Kamera, Knochen, eine Flasche, eine Wurst und eine Haarbürste
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WWQ6TK4/?tag=tolees0ca-21)
