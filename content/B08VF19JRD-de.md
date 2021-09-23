@@ -29,9 +29,9 @@ Sie können [Microsoft 365 Family 12+3 Monate | 6 Nutzer | Mehrere PCs/Macs  Tab
 ℹ️:
 
 - Dieses Microsoft 365 Family Abonnement für bis zu 6 Personen bietet 12 Monate + 3 Monate extra Laufzeit (Aktivierungscode per Email)
-- Für Windows 10, macOS, iOS und Android
 - Schützen Sie bis zu 5 Geräte vor Malware, Phishing und Ransomware mit zusätzlichem Schutz durch Norton
-- NORTON 360 Deluxe Prepaid-Abonnement für 15 Monate mit automatischer Verlängerung (Aktivierungscode per Email)
 - Enthält Premium-Office-Anwendungen: Word, Excel, PowerPoint, OneNote und Outlook sowie bis zu 6 TB OneDrive Cloud-Speicher (1 TB pro Person)
+- Für Windows 10, macOS, iOS und Android
+- NORTON 360 Deluxe Prepaid-Abonnement für 15 Monate mit automatischer Verlängerung (Aktivierungscode per Email)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08VF19JRD/?tag=tolees0ca-21)
