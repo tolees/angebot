@@ -28,11 +28,11 @@ Sie können [MSI MAG CORELIQUID 360R  CPU-Wasserkühlung  360 mm  3 Lüfter  Int
 
 ℹ️:
 
-- Die Leitungsführung innerhalb des Radiators ist darauf ausgelegt, Wärme so schnell wie möglich abzuleiten und die Flüssigkeit abzukühlen. Die kühle Flüssigkeit wird dann wieder zurück in den Kreislauf gepumpt.
-- Die Pumpe wurde in den Radiator integriert um die Geräuschentwicklung zu redzuzieren.
-- Der Geräuschpegel der MAG CORELIQUID 360R ist um 10% niedriger als bei ähnlichen Produkten anderer Hersteller.
-- Drei Schichten Kunststoff im Netzeinsatz sowie ein verstärktes Außennetz schützen die Flüssigkeitsleitungen.
 - Kompatible Sockel und Prozessoren: Intel Sockel LGA 1150, 1151, 1155, 1156, LGA1200, LGA1366, LGA2011, LGA2011-3, LGA2066 / AMD Sockel AM4, FM2+, FM2, FM1, AM3+, AM3, AM2+, AM2
+- Der Geräuschpegel der MAG CORELIQUID 360R ist um 10% niedriger als bei ähnlichen Produkten anderer Hersteller.
+- Die Pumpe wurde in den Radiator integriert um die Geräuschentwicklung zu redzuzieren.
+- Die Leitungsführung innerhalb des Radiators ist darauf ausgelegt, Wärme so schnell wie möglich abzuleiten und die Flüssigkeit abzukühlen. Die kühle Flüssigkeit wird dann wieder zurück in den Kreislauf gepumpt.
+- Drei Schichten Kunststoff im Netzeinsatz sowie ein verstärktes Außennetz schützen die Flüssigkeitsleitungen.
 - Montiere den Wasserblock in jede beliebige Richung und drehe den LED-Aufsatz bis zu 270 Grad.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B089QYGNFK/?tag=tolees0ca-21)
