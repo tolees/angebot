@@ -28,11 +28,11 @@ Es gibt ein [Schneider Schirme Sonnenschirm Rhodos Twist  anthrazit  ca. 300 x 3
 
 ℹ️:
 
-- 360° drehbar, 50° neigbar, 45° beidseitig kippbar
+- anthrazitgrau pulverbeschichtetes Aluminiumgestell, Stock 53 x 80 mm, Streben 26 x 18 mm
 - verrottungsfest, wasserabstoßend imprägniert, hoch lichtecht, ohne Volant, mit air-vent, inkl. Schutzhülle mit Reißverschluss und Stab
+- Material Schirm: 100% Polyester, Material Gestell: Alu/Stahl
+- 360° drehbar, 50° neigbar, 45° beidseitig kippbar
 - inkl. Plattenständer für Wegeplatten 50 x 50 x 5 cm (Lieferung ohne Platten)
 - 100 % Polyester, ca. 200 g/m² mit Lichtschutzfaktor 50+ nach australisch/neuseeländischem Standard AS/NZS4399:1996
-- Material Schirm: 100% Polyester, Material Gestell: Alu/Stahl
-- anthrazitgrau pulverbeschichtetes Aluminiumgestell, Stock 53 x 80 mm, Streben 26 x 18 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N0ZTK2K/?tag=tolees0ca-21)
