@@ -29,9 +29,9 @@ Es gibt ein [Enders® Terrassenheizer Gas ECOLINE PURE  Gas-Heizstrahler 5640  T
 ℹ️:
 
 - 2 unabhängig arbeitende Gas-Heizstrahl-Brenner aus legiertem Edelstahl für langlebige Qualität
-- Brennersysteme im Winkel frei justierbar für individuelle Einstellungen
 - zielgerichtete Wärmestrahlung im 90 Grad-Winkel ist einzigartig und hocheffizient
-- 11 kg Gasflasche kann sicher und platzsparend verstaut werden
+- Brennersysteme im Winkel frei justierbar für individuelle Einstellungen
 - neues, modernes Design durch Materialmix aus eloxiertem Aluminium und beschichtetem Stahl
+- 11 kg Gasflasche kann sicher und platzsparend verstaut werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01M0OF6WM/?tag=tolees0ca-21)

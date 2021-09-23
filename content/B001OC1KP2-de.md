@@ -28,9 +28,9 @@ Es gibt ein [LANCASTER Crème Déodorant 50ml](https://www.amazon.de/dp/B001OC1K
 
 ℹ️:
 
-- Langanhaltend
+- Cremig
 - Frisch
 - Deodorant
-- Cremig
+- Langanhaltend
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001OC1KP2/?tag=tolees0ca-21)
