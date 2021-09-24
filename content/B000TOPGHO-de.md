@@ -28,10 +28,10 @@ Es gibt ein [Philips Transkriptions-Kopfhörer LFH0334](https://www.amazon.de/dp
 
 ℹ️:
 
-- Kompatibilität: Philips Wiedergabe-Sets LFH7277 und LFH7177. Digitale Diktiergeräte der Serien LFH96xx, LFH95xx, LFH93xx, DPM8xxx, DPM7xxx, DPM6xxx (jeweils mit 3,5mm Klinkenstecker).
 - Vergoldeter Stecker: Die wertvolle Goldbeschichtung des Steckers gewährleistet eine verlässlichere Verbindung für bessere Audioqualität.
 - 3-Meter-Kabel: Das 3 m lange Kabel verleiht Ihnen Bewegungsfreiheit an Ihrem Arbeitsplatz, ohne dass Sie die Kopfhörer abnehmen müssen.
 - Schlankes Design: Die langlebigen, leichten, hochqualitativen Materialien erhöhen den Komfort bei längerem Tragen unter dem Kinn.
 - 14mm Lautsprecherdurchmesser: Der Lautsprecher ist klein genug für optim. Tragekomfort und dennoch groß genug für einen klaren, unverzerrten Ton und besitzt damit die ideale Größe für einen Top-Sound.
+- Kompatibilität: Philips Wiedergabe-Sets LFH7277 und LFH7177. Digitale Diktiergeräte der Serien LFH96xx, LFH95xx, LFH93xx, DPM8xxx, DPM7xxx, DPM6xxx (jeweils mit 3,5mm Klinkenstecker).
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000TOPGHO/?tag=tolees0ca-21)

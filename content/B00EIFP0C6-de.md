@@ -28,10 +28,10 @@ Es gibt ein [Makita LD080P Entfernungsmesser 80 m](https://www.amazon.de/dp/B00E
 
 ℹ️:
 
-- Reichweite: 5 cm - 80 m
-- Genauigkeit: ± 1,5 mm
-- Display: 4-zeilig
 - Schutzklasse: IP54
 - Original Makita-Qualität, langlebig und robust
+- Reichweite: 5 cm - 80 m
+- Display: 4-zeilig
+- Genauigkeit: ± 1,5 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00EIFP0C6/?tag=tolees0ca-21)
