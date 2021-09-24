@@ -28,7 +28,7 @@ Sie können [TOM TAILOR Herren Doppelpack Crew Neck T Shirt  Schwarz  Black   XL
 
 ℹ️:
 
-- Angenehm weicher Stoff
 - Doppelpack
+- Angenehm weicher Stoff
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07M7X5KRV/?tag=tolees0ca-21)

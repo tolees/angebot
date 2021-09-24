@@ -29,9 +29,9 @@ Es gibt ein [LEGO 42128 Technic Schwerlast-Abschleppwagen  Modellbauset  Technik
 ℹ️:
 
 - Lenke den Abschleppwagen, indem du das Rad auf dem Dach drehst, oder öffne die Motorhaube, um den 6-Zylinder-Reihenmotor mit beweglichen Kolben zu betrachten
-- Wie der echte Schwerlast-Abschleppwagen hat auch dieses Modell eine Liftachse, die zusätzliche Räder für unebene Lasten herunterzieht – eine Premiere für LEGO Technic
 - Enthält einen Schwerlast-Abschleppwagen mit vielen Funktionen – ideal, um Kindern, die mechanische Spielzeuge lieben, die Welt der Technik näherzubringen
-- Das Modell verfügt über pneumatische Pump-Funktionen, inklusive eines ausfahrbaren Hebeauslegers, eines hebenden Kranauslegers und eines ausfahrbaren Kranauslegers
+- Wie der echte Schwerlast-Abschleppwagen hat auch dieses Modell eine Liftachse, die zusätzliche Räder für unebene Lasten herunterzieht – eine Premiere für LEGO Technic
 - Entdecke die technische Brillanz dieses klassischen Modells mit mechanischen Funktionen wie den rotierenden Kran, die herausziehbare Winde und die Fußstützen
+- Das Modell verfügt über pneumatische Pump-Funktionen, inklusive eines ausfahrbaren Hebeauslegers, eines hebenden Kranauslegers und eines ausfahrbaren Kranauslegers
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WWPQJTN/?tag=tolees0ca-21)
