@@ -28,10 +28,10 @@ Es gibt ein [Philips Sonicare DiamondClean Smart Schallzahnbürste HX9924/03 mit
 
 ℹ️:
 
-- 5 Putzprogramme: Clean - tägliche Reinigung, White+ - entfernt Verfärbungen, Deep Clean+ - gründliche Reinigung, Gum Health+ - sanfte Reinigung am Zahnfleischrand, Tongue Care - Zungenreinigung
 - Leicht & elegant aufladen - zuhause & auf Reisen: Induktives Laden mit dem edlen Ladeglas oder unterwegs mit dem Ladeetui - einfach per USB mit der Steckdose oder dem Laptop verbinden
-- Lieferumfang: 1x elektrische Schallzahnbürste, 4 Aufsätze (Premium Plaque Defense, Premium Gum Care, Premium White, TongueCare+), 1x Ladeglas, 1x Etui, 1x 60ml Zungen-Spray antibakteriell / Weiß
 - Wenn beim Zähne putzen zu viel Druck ausgeübt wird, blinkt der Leuchtring am Ende des Handstücks auf und das Handstück vibriert sanft
 - Elektrische Zahnbürste mit 4 Aufsätzen: Für Zahnfleisch-Pflege, Tiefenreinigung, weißere Zähne & frischen Atem - die Bürstenköpfe wählen automatisch die optimalen Einstellungen aus
+- 5 Putzprogramme: Clean - tägliche Reinigung, White+ - entfernt Verfärbungen, Deep Clean+ - gründliche Reinigung, Gum Health+ - sanfte Reinigung am Zahnfleischrand, Tongue Care - Zungenreinigung
+- Lieferumfang: 1x elektrische Schallzahnbürste, 4 Aufsätze (Premium Plaque Defense, Premium Gum Care, Premium White, TongueCare+), 1x Ladeglas, 1x Etui, 1x 60ml Zungen-Spray antibakteriell / Weiß
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074D18GHB/?tag=tolees0ca-21)

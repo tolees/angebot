@@ -28,9 +28,9 @@ Es gibt ein [Saugroboter Tesvor M1 mit 4000PA Powerleistung Roboterstaubsauger W
 
 ℹ️:
 
-- Reinigungsinnovation: Der neu entwickelte TESVOR M1 hat eine One-Key-Steuerung und erkennt automatisch, wo bereits gereinigt wurde und wo Hindernisse waren. Daher keine doppelte Reinigung und keine Kollision mit im Wege stehenden Gegenständen. (siehe die deutsche Bedienungsanleitung)
 - Praktische Haushaltshilfe in modernstem Design: Der M1 unterstützt Sie bei der täglichen Bodenreinigung mit maximaler Kraft und hochwertigem Powerakku. Maximale Arbeitszeiten von 80 – 150 Minuten je nach individueller Modusauswahl. Die große Staubbox von 0,6 ltr. kann enorm viel Staubvolumen aufnehmen und die 3fache HEPA Filtertechnik verhindert die Abgabe von Mikro- Staubpartikel zurück in die Raumluft.
 - Extra starke Saugleistung: Der M1 ist das aller neueste TESVOR Produkt mit der innovativen Supclean-Technik und einer megahohen Saugkraft von 4000PA ! Diese hohe Saugkraft hat bisher kein einziger Staubsaugerroboter aller existierender Marken und in mittleren und hohen Preissegmenten geschafft. Der M1 saugt 70% Staub und 30% groben Schmutz besser auf,  als ein Staubsaugerroboter der wesentlich teureren Marken. TESVOR. Zukunft schon heute !
 - Kompatibel mit kostenloser APP + ALEXA: Der Roboter kann entweder durch die kostenlose Smartphone APP oder durch die Sprachanweisungen per ALEXA oder Google Home gesteuert und die Reinigungsarbeiten in Echtzeit beobachtet werden. Beachten Sie jedoch, Umfangreiche Bedienungsanweisungen liegen dem Paket bei.
+- Reinigungsinnovation: Der neu entwickelte TESVOR M1 hat eine One-Key-Steuerung und erkennt automatisch, wo bereits gereinigt wurde und wo Hindernisse waren. Daher keine doppelte Reinigung und keine Kollision mit im Wege stehenden Gegenständen. (siehe die deutsche Bedienungsanleitung)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B083J6TTPL/?tag=tolees0ca-21)

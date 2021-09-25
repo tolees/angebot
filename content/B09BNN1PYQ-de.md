@@ -28,10 +28,10 @@ Sie können [MEDION Saugroboter mit Ladestation E32  Modell 2021  120 Min. Laufz
 
 ℹ️:
 
-- Flexible Putzkraft: Sie geben Ihrem neuen Haushaltshelfer mit der Timer-Funktion genau vor, an welchen Tagen und zu welchen Zeiten geputzt wird.
-- Reinigungsmodi: Durch die flexible Wahl zwischen unterschiedlichen Reinigungsmodi arbeitet der Roboter immer exakt so, wie Sie möchten.
-- Lieferumfang: Saugroboter E32 (MD 18510) mit integriertem Li-Ion Akkublock, Fernbedienung, 2 Ersatz-Seitenbürsten & 2 Seitenbürsten, Filter & Ersatzfilter, Staubbehälter, Reinigungspinsel, Ladestation & Netzteil
 - Saugroboter E32 (MD 18510) zur Reinigung von Staub, Haaren und Pollen, mit Programmierfunktion, 120 Min. Laufzeit und automatischer Aufladung.
+- Lieferumfang: Saugroboter E32 (MD 18510) mit integriertem Li-Ion Akkublock, Fernbedienung, 2 Ersatz-Seitenbürsten & 2 Seitenbürsten, Filter & Ersatzfilter, Staubbehälter, Reinigungspinsel, Ladestation & Netzteil
 - Akkulaufzeit: Mit bis zu 120 Minuten Betriebszeit pro Aufladung ist der Roboter besonders effizient und reinigt auch große Flächen ohne Ladepause. (30 % mehr als sein Vorgänger)
+- Reinigungsmodi: Durch die flexible Wahl zwischen unterschiedlichen Reinigungsmodi arbeitet der Roboter immer exakt so, wie Sie möchten.
+- Flexible Putzkraft: Sie geben Ihrem neuen Haushaltshelfer mit der Timer-Funktion genau vor, an welchen Tagen und zu welchen Zeiten geputzt wird.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B09BNN1PYQ/?tag=tolees0ca-21)
