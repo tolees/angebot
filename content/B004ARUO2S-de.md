@@ -28,10 +28,10 @@ Es gibt ein [KRK Rokit KNS 8400 Studio headphone](https://www.amazon.de/dp/B004A
 
 ℹ️:
 
-- Transparent reproduction of high-frequencies, resulting in highly accurate imaging
-- Extended low frequency definition, ensures the bass component of your music is accurately reproduced, and is not lost
-- Large dynamic range with extremely consistent low-distortion detail and clarity
 - Exceedingly accurate, natural and wide frequency response
 - High-efficiency Neodymium 40mm driver
+- Extended low frequency definition, ensures the bass component of your music is accurately reproduced, and is not lost
+- Transparent reproduction of high-frequencies, resulting in highly accurate imaging
+- Large dynamic range with extremely consistent low-distortion detail and clarity
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004ARUO2S/?tag=tolees0ca-21)

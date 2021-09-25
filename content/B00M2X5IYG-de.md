@@ -29,9 +29,9 @@ Sie können [Intenso Slim Line 64 GB USB-Stick USB 3.0 schwarz](https://www.amaz
 ℹ️:
 
 - Optimal für Autoradio und Notebook aufgrund der minimalen Größe
-- SuperSpeed USB 3.0 (abwärtskompatibel) - Die angegebene Geschwindigkeit ist nur mit einer USB 3.0 Schnittstelle möglich
-- Max. Daten- transferrate: bis zu 100 MB/s
-- Lieferumfang: Intenso USB-Stick mit praktischem Schlüsselband
 - Gewicht: federleichte 2 g; Abmessungen: 20 x 15 x 7 mm
+- Max. Daten- transferrate: bis zu 100 MB/s
+- SuperSpeed USB 3.0 (abwärtskompatibel) - Die angegebene Geschwindigkeit ist nur mit einer USB 3.0 Schnittstelle möglich
+- Lieferumfang: Intenso USB-Stick mit praktischem Schlüsselband
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00M2X5IYG/?tag=tolees0ca-21)

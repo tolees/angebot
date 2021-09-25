@@ -28,11 +28,11 @@ Es gibt ein [Thrustmaster T16000 FCS Hotas - Hands On Throttle And Stick - HOTAS
 
 ℹ️:
 
-- Der T.16000M FCS verfügt durch seine H.E.A.R.T-Technologie (U.S. patent US08471815) über mehr Präzision als andere verfügbare Systeme.
-- Die S.M.A.R.T (Sliding Motion Advanced Rail Tracks)-Technologie des Schubreglers
-- Der T.16000M FCS HOTAS besteht aus dem T.16000M FCS (Flight Control System) Flight-Stick und dem TWCS. Kompatibel mit Windows.
-- Die T.A.R.G.E.T Programmier Software erlaubt es dem Nutzer, spezielle Mappings für jedes Spiel zu kreieren und hochzuladen
-- Der Joystick hat 16 Action-Tasten, die ähnlich der Blindenschrift durch Fühlen eindeutig zu identifizieren sind einen 8-Wege-“Rundumblick”-Schalter.
 - Der T.16000M FCS HOTAS besteht aus dem T.16000M FCS (Flight Control System) Flight-Stick und dem TWCS (Thrustmaster Weapon Control System) Schubregler. Das System ist kompatibel mit dem PC via USB für Windows; Der T.16000M FCS verfügt durch seine H.E.A.R.T-Technologie über mehr Präzision als andere verfügbare Systeme. Diese Technologie bedingt ebenfalls, dass diese Präzision bei längerem Gebrauch nicht nachlässt; Die S.M.A.R.T (Sliding Motion Advanced Rail Tracks)-Technologie des Schubreglers ermöglicht es, dass die verbauten Gleitschienen eine extrem genaue Bewegung und präzise Steuerung erlauben; Der Joystick hat 16 Action-Tasten, die ähnlich der Blindenschrift durch Fühlen eindeutig zu identifizieren sind; Die T.A.R.G.E.T Programmier Software erlaubt es dem Nutzer, spezielle Mappings für jedes Spiel zu kreieren und hochzuladen.
+- Die T.A.R.G.E.T Programmier Software erlaubt es dem Nutzer, spezielle Mappings für jedes Spiel zu kreieren und hochzuladen
+- Der T.16000M FCS HOTAS besteht aus dem T.16000M FCS (Flight Control System) Flight-Stick und dem TWCS. Kompatibel mit Windows.
+- Der Joystick hat 16 Action-Tasten, die ähnlich der Blindenschrift durch Fühlen eindeutig zu identifizieren sind einen 8-Wege-“Rundumblick”-Schalter.
+- Die S.M.A.R.T (Sliding Motion Advanced Rail Tracks)-Technologie des Schubreglers
+- Der T.16000M FCS verfügt durch seine H.E.A.R.T-Technologie (U.S. patent US08471815) über mehr Präzision als andere verfügbare Systeme.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01H6KXGDY/?tag=tolees0ca-21)

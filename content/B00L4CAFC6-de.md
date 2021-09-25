@@ -28,12 +28,12 @@ Es gibt ein [hansgrohe Waschtischarmatur Logis  Wasserhahn Bad mit Auslauf Höhe
 
 ℹ️:
 
-- Spart Geld und schont die Umwelt: Die Durchflussmenge wird automatisch auf max. 5 l/min begrenzt – auch bei unterschiedlichem Wasserdruck (EcoSmart)
-- Fülligere, leichtere und weichere Tropfen: Diese Armatur reichert Wasser mit Luft an – für ein angenehmes Wassergefühl (AirPower)
-- Für Durchlauferhitzer geeignet: Diese Armatur ist vielseitig einsetzbar
-- Einfache Installation: Die Armatur wird über flexible Anschlussschläuche (G ⅜) mit den vorhandenen Wasseranschlüssen verbunden. (Anschlussgröße: DN15)
 - Schnell und einfach: Temperatur und Wassermenge werden über den flachen, sanft abgerundeten Griff leicht und präzise eingestellt
-- Herstellergarantie: 5 Jahre. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Waschtischarmatur bestehend aus: Grundkörper, Griff, Anschlussschläuchen, Luftsprudler, Zugstangen-Ablaufgarnitur, Keramikkartusche und Temperaturbegrenzer
+- Fülligere, leichtere und weichere Tropfen: Diese Armatur reichert Wasser mit Luft an – für ein angenehmes Wassergefühl (AirPower)
+- Herstellergarantie: 5 Jahre. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Einfache Installation: Die Armatur wird über flexible Anschlussschläuche (G ⅜) mit den vorhandenen Wasseranschlüssen verbunden. (Anschlussgröße: DN15)
+- Für Durchlauferhitzer geeignet: Diese Armatur ist vielseitig einsetzbar
+- Spart Geld und schont die Umwelt: Die Durchflussmenge wird automatisch auf max. 5 l/min begrenzt – auch bei unterschiedlichem Wasserdruck (EcoSmart)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00L4CAFC6/?tag=tolees0ca-21)

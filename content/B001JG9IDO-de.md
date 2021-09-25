@@ -28,8 +28,8 @@ Sie können [Wiha Wechselklinge SYSTEM 6 1/4" Vierkantadapter für Steckschlüss
 
 ℹ️:
 
+- Klinge: Chrom-Vanadium Stahl, durchgehend gehärtet, Titansilber.1/4" Vierkantaufnahme mit gefederter Kugel für perfekten Halt.
 - Wiha ist ein seit über 75 Jahren inhabergeführtes Familienunternehmen aus dem Schwarzwald. Qualität und Innovation stehen hier im Fokus. Wiha bietet dem Profi ein umfangreiches Sortiment hochwertiger Premium Werkzeuge, die sich durch den Einsatz modernster Fertigungstechnologien, durch anwendungsorientierte Innovationen, ergonomische Überlegenheit, höchste Qualität, absolute Zuverlässigkeit und lange Lebensdauer auszeichnen.
 - Kaufen Sie Werkzeuge, die Ihre Effizienz erhöhen, Ihre Kosten senken und Ihre Gesundheit bewahren. Deshalb entwickelt, konstruiert und fertigt Wiha Produkte mit höchsten Ansprüchen an Funktionalität, Langlebigkeit und Ergonomie. Werkzeuge, die Ihnen Ihre Arbeit spürbar erleichtern – tools that work for you.
-- Klinge: Chrom-Vanadium Stahl, durchgehend gehärtet, Titansilber.1/4" Vierkantaufnahme mit gefederter Kugel für perfekten Halt.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001JG9IDO/?tag=tolees0ca-21)
