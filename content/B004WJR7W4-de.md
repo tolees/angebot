@@ -28,10 +28,10 @@ Es gibt ein [Wera Bit-Sortiment  Bit-Check 6 Impaktor 1  6-teilig  05057695001](
 
 ℹ️:
 
-- Impaktor-Technologie für überdurchschnittliche Standzeiten
+- Diamantbeschichtung für sicheren Sitz in der Schraube
 - Aufstellbarer, mehrkomponentiger Bit-Check
 - Besonders geeignet für den Einsatz mit handelsüblichen Impakt-/Schlagschraubern
 - Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Profilen und Größenstempelung
-- Diamantbeschichtung für sicheren Sitz in der Schraube
+- Impaktor-Technologie für überdurchschnittliche Standzeiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004WJR7W4/?tag=tolees0ca-21)
