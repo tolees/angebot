@@ -28,15 +28,15 @@ Sie können [LEGO 60244 City Polizeihubschrauber-Transport  Bauset mit LKW  Quad
 
 ℹ️:
 
-- Mit Auflieger ist der Hubschraubertransporter 9 cm hoch, 39 cm lang und 6 cm breit. Der Hubschrauber mit dem Zugriemen ist 6 cm hoch, 19 cm lang und 12 cm breit
+- Batterien werden nicht benötigt. Als Antrieb reicht diesem Spielset die Fantasie kleiner Kinder. Der Spielspaß kann also sofort beginnen!
 - Bei der LEGO Gruppe werden die LEGO City Spielsets auf Herz und Nieren geprüft, damit jedes dieser einzigartigen Spielzeuge den höchsten globalen Sicherheits- und Qualitätsstandards entspricht
 - Dieses Polizei-Set enthält einen Hubschrauber mit Zugriemen, einen Transporter und vieles mehr, um junge Action-Fans für die LEGO City Themenwelt zu begeistern. Der Spaß beginnt bereits mit dem Öffnen der Box
-- Der Box liegt eine Bauanleitung für das Bauset bei. Online können aber auch Instructions PLUS heruntergeladen werden, die über die kostenlose LEGO Life App verfügbar sind. Durch Vergrößern, Drehen und näheres Betrachten der Modellansicht lässt sich der Bauprozess zum Leben erwecken
-- LEGO Steine entsprechen den höchsten Branchenstandards, sodass sich die LEGO City Sets stets mühelos kombinieren, fest zusammenstecken und wieder leicht zerlegen lassen
-- Batterien werden nicht benötigt. Als Antrieb reicht diesem Spielset die Fantasie kleiner Kinder. Der Spielspaß kann also sofort beginnen!
-- Das LEGO City Bauset „Polizeihubschrauber-Transport“ (60244) ist ein tolles Actionspielzeug und ein cooles Geschenk für Kinder ab 5 Jahren. Kinder, die Spielzeug-Lastwagen, Hubschrauber, Motorräder und Actionspielzeug mögen, werden begeistert sein
-- Kinder können den Polizeihubschrauber mit dem Zugriemen (neu ab Januar 2020) abheben lassen. Der Transporter verfügt über eine detailreiche Fahrerkabine, eine mobile Gefängniszelle, einen Computer und Absperrungen – sehr zur Freude der Fans der LEGO City Polizei
-- Polizeispielzeug mit Transporter, Motorrad, Quad und Hubschrauber mit Zugriemen. Außerdem sind Rocky Partnur und Frankie Lupelli aus der LEGO City TV-Serie sowie ein Polizist und ein Ganove als Minifiguren enthalten, um actionreichen Spielspaß zu bieten
 - LEGO City Polizei-Sets enthalten detailreiche Gebäude, realistische Fahrzeuge und witzige Charaktere, die Kinder zu kreativem Spielspaß inspirieren, der ihr Selbstvertrauen stärkt und ihre Fingerfertigkeit verbessert
+- Polizeispielzeug mit Transporter, Motorrad, Quad und Hubschrauber mit Zugriemen. Außerdem sind Rocky Partnur und Frankie Lupelli aus der LEGO City TV-Serie sowie ein Polizist und ein Ganove als Minifiguren enthalten, um actionreichen Spielspaß zu bieten
+- LEGO Steine entsprechen den höchsten Branchenstandards, sodass sich die LEGO City Sets stets mühelos kombinieren, fest zusammenstecken und wieder leicht zerlegen lassen
+- Kinder können den Polizeihubschrauber mit dem Zugriemen (neu ab Januar 2020) abheben lassen. Der Transporter verfügt über eine detailreiche Fahrerkabine, eine mobile Gefängniszelle, einen Computer und Absperrungen – sehr zur Freude der Fans der LEGO City Polizei
+- Das LEGO City Bauset „Polizeihubschrauber-Transport“ (60244) ist ein tolles Actionspielzeug und ein cooles Geschenk für Kinder ab 5 Jahren. Kinder, die Spielzeug-Lastwagen, Hubschrauber, Motorräder und Actionspielzeug mögen, werden begeistert sein
+- Mit Auflieger ist der Hubschraubertransporter 9 cm hoch, 39 cm lang und 6 cm breit. Der Hubschrauber mit dem Zugriemen ist 6 cm hoch, 19 cm lang und 12 cm breit
+- Der Box liegt eine Bauanleitung für das Bauset bei. Online können aber auch Instructions PLUS heruntergeladen werden, die über die kostenlose LEGO Life App verfügbar sind. Durch Vergrößern, Drehen und näheres Betrachten der Modellansicht lässt sich der Bauprozess zum Leben erwecken
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W6Q9JXK/?tag=tolees0ca-21)
