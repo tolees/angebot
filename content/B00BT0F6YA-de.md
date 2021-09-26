@@ -28,10 +28,10 @@ Es gibt ein [Wera Joker Maul-Ringratschen-Schlüssel  12 mm  05073272001](https:
 
 ℹ️:
 
-- Kein Abrutschen durch Endanschlag
 - Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Größen
-- Mit praktischer Haltefunktion durch Metallplatte im Maul
-- Doppelsechskantgeometrie verringert die Abrutschgefahr
 - Rückschwenkwinkel von nur 30°
+- Doppelsechskantgeometrie verringert die Abrutschgefahr
+- Kein Abrutschen durch Endanschlag
+- Mit praktischer Haltefunktion durch Metallplatte im Maul
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BT0F6YA/?tag=tolees0ca-21)
