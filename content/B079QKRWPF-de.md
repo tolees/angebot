@@ -29,9 +29,9 @@ Sie können [Wacom Intuos S Stift-Tablett  mit druckempfindlichem Stift & Blueto
 ℹ️:
 
 - Lieferumfang: 1 x Wacom Intuos Small Stift-Tablett Black für Mac/PC mit Stift und Bluetooth / Wählen Sie 2 von 3 aus: Corel Painter Essentials 7, Corel AfterShot Pro3 (beide 90 Tage Lizenz), Clip Studio Paint Pro (2-Jahres Lizenz)
-- Kreativität ohne Hindernisse: Anpassbare ExpressKeys, ergonomisches Design und 4.096 Druckempfindlichkeit sorgen für einen beschleunigten Arbeitsablauf und Kontrolle - für Links- und Rechtshänder
 - Mit dem Intuos Grafiktablett in flachem und kompaktem Design und mit Bluetooth, Funktion neue kreative Möglichkeiten entdecken, kompaktes Zeichen Pad für das Bearbeiten von Bildern, Zeichnen und Malen
 - Das Intuos unterstützt dank unserer neuen, für 3 Monate kostenlosen pädagogischen Testsoftware von Collaboard, Explain Everything, Kami, Limnu und Pear Deck das HomeSchooling bzw. Remote Working.
 - Wacom Intuos mit Mac oder PC via USB oder Bluetooth verbinden, kostenlose herunterladbare Software nach Produktregistrierung und Online-Training nutzen und schnell kreative Gedanken individuell festhalten
+- Kreativität ohne Hindernisse: Anpassbare ExpressKeys, ergonomisches Design und 4.096 Druckempfindlichkeit sorgen für einen beschleunigten Arbeitsablauf und Kontrolle - für Links- und Rechtshänder
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079QKRWPF/?tag=tolees0ca-21)
