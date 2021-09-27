@@ -28,12 +28,12 @@ Es gibt ein [LEDVANCE LED Arbeitslicht  Leuchte für Außenanwendungen  Kaltwei�
 
 ℹ️:
 
-- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
-- Bedenkenlose Außenanwendung durch IP65-Schutzklasse
-- Gehäusematerial aus hochwertigem Aluminium
 - Integrierte Schnellöffnungskammer um Abstrahlwinkel abzustimmen
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 - Stromzufuhr über 2 Meter langes Kabel mit Schuko Stecker
+- Gehäusematerial aus hochwertigem Aluminium
+- Bedenkenlose Außenanwendung durch IP65-Schutzklasse
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 - Sofort volles Licht, keine Aufwärmzeit durch das integrierte und stromsparende LED-Modul
+- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07TS96S2W/?tag=tolees0ca-21)

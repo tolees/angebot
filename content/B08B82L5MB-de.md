@@ -28,10 +28,10 @@ Sie können [YAPMOR - Smart Lichtschalter  1-Weg Wifi Lichtschalter arbeitet mit
 
 ℹ️:
 
+- Installations Tipps --- Neutrale Leitung Ist Sehr Wichtig, Switch 8,6 Und 8,6 cm, Nur 2.4 ghz Netzwerk Kann Verwendet Werden.
 - Timing Funktion --- Sie Den Smart Switch Entsprechend Ihren Reiseeinstellungen Steuern.
 - Hervorragendes Design --- Mit Flammhemmendem ABS Material Und Glasscheibe Ist Das Erscheinungsbild In Mode.
-- Installations Tipps --- Neutrale Leitung Ist Sehr Wichtig, Switch 8,6 Und 8,6 cm, Nur 2.4 ghz Netzwerk Kann Verwendet Werden.
-- Kundendienst --- WEEE, CE, FCC, ROSH Und Andere Zertifizierungen, 1 Jahr Garantie.
 - Alexa Sprachsteuerung --- Der Switch Kann Mit Amazon Alexa Und Smart Life App Und Die Ferngesteuert Werden.
+- Kundendienst --- WEEE, CE, FCC, ROSH Und Andere Zertifizierungen, 1 Jahr Garantie.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08B82L5MB/?tag=tolees0ca-21)

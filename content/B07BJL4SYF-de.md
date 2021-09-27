@@ -28,10 +28,10 @@ Es gibt ein [Geomag 00774 Gravity Konstruktionsspielzeug  Mehrfarbig](https://ww
 
 ℹ️:
 
-- Magnetisches Konstruktionsspielzeug
 - Serie Gravity aus der bekannten und beliebten GEOMAG-Reihe
-- Empfohlenes Alter: ab 7 Jahren
-- 243-teilig
 - Made in Switzerland
+- Empfohlenes Alter: ab 7 Jahren
+- Magnetisches Konstruktionsspielzeug
+- 243-teilig
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07BJL4SYF/?tag=tolees0ca-21)

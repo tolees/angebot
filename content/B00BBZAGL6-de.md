@@ -28,10 +28,10 @@ Es gibt ein [Van Vliet Holländische Lakritze dreifach gesalzen 1kg  1er Pack  1
 
 ℹ️:
 
+- Ein holländisches Produkt
+- 1kg lose dreifach gesalzene Lakritz-Münzen
 - Dreifach gesalzene Lakritze
 - Natürliche Zutaten
-- Ein holländisches Produkt
 - Lakritz in Münzform
-- 1kg lose dreifach gesalzene Lakritz-Münzen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BBZAGL6/?tag=tolees0ca-21)

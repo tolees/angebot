@@ -28,9 +28,9 @@ Sie können [Brilliant Riley Wandleuchte schwarz 42382/06  23 x 21 x 23.5 cm](ht
 
 ℹ️:
 
-- IP-Schutzart: 44 - spritzwassergeschützt
-- 23,5 cm in der Höhe
-- Brilliant
 - Für LED-Leuchtmittel geeignet
+- Brilliant
+- 23,5 cm in der Höhe
+- IP-Schutzart: 44 - spritzwassergeschützt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01C89OBLE/?tag=tolees0ca-21)
