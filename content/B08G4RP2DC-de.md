@@ -28,12 +28,12 @@ Es gibt ein [LEGO 71384 Super Mario Pinguin-Mario Anzug Power Up Pack  Erweiteru
 
 ℹ️:
 
-- Dieses Bauset zum Sammeln ist ein witziges Geburtstags- oder Weihnachtsgeschenk für kreative Kinder ab 6 Jahren. Mit dem Anzug können die Fans das LEGO Super Mario Starterset und die Erweiterungssets aufpeppen
-- Wenn LEGO Mario diesen Anzug trägt, können Spieler zusätzliche digitale Münzen sammeln, indem sie ihn wie einen Pinguin auf dem Bauch rutschen lassen
 - Die kostenlose LEGO Super Mario App enthält unter anderem Bauanleitungen und verschiedene Bau- und Spielideen. Eine Liste der kompatiblen Android- und iOS-Geräte finden Sie auf unsere website
-- Andere LEGO Mario Upgrades wie den „Tanooki-Mario-Anzug“ (71385) lassen sich ebenfalls mit Erweiterungssets in Kombination mit dem Startersetkombinieren
+- Dieses Outfit aus LEGO Steinen ist passgenau auf die LEGO Mario Figur aus dem Starterset „Abenteuer mit Mario“ (71360) zugeschnitten
+- Wenn LEGO Mario diesen Anzug trägt, können Spieler zusätzliche digitale Münzen sammeln, indem sie ihn wie einen Pinguin auf dem Bauch rutschen lassen
+- Dieses Bauset zum Sammeln ist ein witziges Geburtstags- oder Weihnachtsgeschenk für kreative Kinder ab 6 Jahren. Mit dem Anzug können die Fans das LEGO Super Mario Starterset und die Erweiterungssets aufpeppen
 - Dem Paket liegt eine illustrierte Bauanleitung bei, um Kinder eigenständig bauen zu lassen
 - Das Power-Up-Paket „Pinguin-Mario-Anzug“ (71384) beinhaltet einen interaktiven Anzug für die LEGO Mario Figur (nicht enthalten). Wenn LEGO Super Mario den Anzug trägt, können die Kinder ihn auf dem Bauch rutschen lassen und noch mehr Münzen sammeln
-- Dieses Outfit aus LEGO Steinen ist passgenau auf die LEGO Mario Figur aus dem Starterset „Abenteuer mit Mario“ (71360) zugeschnitten
+- Andere LEGO Mario Upgrades wie den „Tanooki-Mario-Anzug“ (71385) lassen sich ebenfalls mit Erweiterungssets in Kombination mit dem Startersetkombinieren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4RP2DC/?tag=tolees0ca-21)

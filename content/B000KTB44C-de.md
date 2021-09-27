@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '53.78 % rabat auf Brennenstuhl Qualitäts-Kunststoff-Verlän'
-date: 2021-09-25 20:52:13
+date: 2021-09-27 10:53:09
 image: 'https://m.media-amazon.com/images/I/417Tz7J5GJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Brennenstuhl'
 buyurl: 'https://www.amazon.de/dp/B000KTB44C/?tag=tolees0ca-21'
 descuento: '53.78'
-average: '6.438'
+average: '6.31454545454545'
 ---
 
 Es gibt ein [Brennenstuhl Qualitäts-Kunststoff-Verlängerungskabel 5 m  schwarz  H05VV-F 3G1.5 1165440](https://www.amazon.de/dp/B000KTB44C/?tag=tolees0ca-21) mit aktuellem Preis 5.08 EUR (original: 10.99 EUR) 53.78 % Rabatt hier:

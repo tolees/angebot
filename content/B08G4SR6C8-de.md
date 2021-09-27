@@ -28,13 +28,13 @@ Es gibt ein [LEGO 42120 Technic Luftkissenboot für Rettungseinsätze  2-in-1 Mo
 
 ℹ️:
 
-- LEGO Technic Elemente entsprechen bereits seit 1958 strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich jedes Mal fest zusammenstecken lassen
-- Das LEGO Technic Luftkissenboot für Rettungseinsätze (42120) ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 8 Jahren, die sich für Rettungsfahrzeuge begeistern
-- LEGO Technic Elemente werden Fall-, Hitze-, Druck- und Torsionstests unterzogen und analysiert, damit sie strenge globale Sicherheitsstandards erfüllen
-- Dieses starke Luftkissenboot ist eine tolle Belohnung für Kinder, die Rettungsfahrzeuge lieben. Mit seinen unzähligen authentischen Details eignet sich das Modell perfekt für spannende Rollenspiele
 - Das LEGO Technic Universum enthält komplexere Modelle für junge LEGO Fans, die schon der nächsten Bauherausforderung entgegenfiebern
-- Sieh dir all die coolen Funktionen an. Das Modell mit Cockpit, rotierendem Warnlicht und drehenden Luftschrauben scheint zu schweben – genau wie ein echtes Luftkissenfahrzeug
+- LEGO Technic Elemente entsprechen bereits seit 1958 strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich jedes Mal fest zusammenstecken lassen
 - Das Luftkissenboot ist 12 cm hoch, 24 cm lang und 13 cm breit
+- LEGO Technic Elemente werden Fall-, Hitze-, Druck- und Torsionstests unterzogen und analysiert, damit sie strenge globale Sicherheitsstandards erfüllen
+- Das LEGO Technic Luftkissenboot für Rettungseinsätze (42120) ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Kinder ab 8 Jahren, die sich für Rettungsfahrzeuge begeistern
+- Dieses starke Luftkissenboot ist eine tolle Belohnung für Kinder, die Rettungsfahrzeuge lieben. Mit seinen unzähligen authentischen Details eignet sich das Modell perfekt für spannende Rollenspiele
+- Sieh dir all die coolen Funktionen an. Das Modell mit Cockpit, rotierendem Warnlicht und drehenden Luftschrauben scheint zu schweben – genau wie ein echtes Luftkissenfahrzeug
 - Das 2-in-1-Design ermöglicht jungen Helden noch mehr spannende Rollenspiele. Das Luftkissenboot lässt sich auch in ein zweimotoriges Flugzeug mit beweglichen Seiten- und Querrudern umbauen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4SR6C8/?tag=tolees0ca-21)
