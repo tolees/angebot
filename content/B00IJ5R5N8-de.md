@@ -28,10 +28,10 @@ Es gibt ein [Garnier Color Intense  3.16 Aubergine/Dauerhafte Intensive Creme Co
 
 ℹ️:
 
-- Lieferumfang : 3er Pack Haar Coloration für die Haare, inkl. Colorationscreme, Auftragflasche mit Entwicklermilch, Haarkur, Handschuhe, Gebrauchsanweisung. Farbe: Aubergine (3.16) - Ein neues Erlebnis des Haarefärbens!
-- Reichhaltige Haar-Pflege durch die Color Intense Pflegekur mit Traubenkernöl für ein besonders weiches und geschmeidiges Haargefühl und ein geruchsneutrales, angenehmes Colorieren
 - Die Haar Coloration sorgt dank kräftiger Farbpigmente für intensive, langanhaltende Farbe und 100% Grauhaarabdeckung
 - Diese Kur mit anti-oxidativer Wirkung lässt die neue Farbe prachtvoll erstrahlen und schützt sie vor dem Verblassen
+- Reichhaltige Haar-Pflege durch die Color Intense Pflegekur mit Traubenkernöl für ein besonders weiches und geschmeidiges Haargefühl und ein geruchsneutrales, angenehmes Colorieren
+- Lieferumfang : 3er Pack Haar Coloration für die Haare, inkl. Colorationscreme, Auftragflasche mit Entwicklermilch, Haarkur, Handschuhe, Gebrauchsanweisung. Farbe: Aubergine (3.16) - Ein neues Erlebnis des Haarefärbens!
 - Färbung für Haare ist eine dauerhafte Cremecoloration
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00IJ5R5N8/?tag=tolees0ca-21)

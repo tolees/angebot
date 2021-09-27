@@ -28,8 +28,8 @@ Es gibt ein [BGS 1177 | Halter für Maul-/Ringschlüssel | 15 Auflagen | für Wa
 
 ℹ️:
 
-- für Wandmontage geeignet
 - Material: Kunststoff
+- für Wandmontage geeignet
 - Farbe: schwarz
 - Länge: 297 mm | Breite: 180 mm | Höhe: 28 mm
 

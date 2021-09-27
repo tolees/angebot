@@ -29,10 +29,10 @@ Es gibt ein [Roberts Radio - solarDABII portable  DAB+ / UKW / Solarradio mit ei
 ℹ️:
 
 - DAB+ / UKW - RDS, programmierbare Stationstasten
+- Für Solar- Batterie- und Netzbetrieb geeignet
 - Stromadapter und Batterie-Ladefunktion durch Solarenergie oder Netz
-- Solartechnologie zum unabhängigen Betrieb von herkömmlichen Stromquellen
 - Lieferumfang: Roberts solarDAB II, aufladbare LR6 Batterien, 230 V Netzteil, Kurzanleitung
 - Welche komponenten sind im lieferumfang des produkts enthaltenen: Netzadapter
-- Für Solar- Batterie- und Netzbetrieb geeignet
+- Solartechnologie zum unabhängigen Betrieb von herkömmlichen Stromquellen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0056S2VFS/?tag=tolees0ca-21)
