@@ -28,10 +28,10 @@ Sie können [Melitta 1015-03 Aromaboy Filter-Kaffeemaschine  Beige/Braun](https:
 
 ℹ️:
 
-- Platzsparendes Design: Besonders schlanke Filterkaffeemaschine mit Glaskanne für ca. 2 Tassen, Ideal für Singlehaushalte, Wohnwagen oder Ferienwohnung, Passend für Melitta Filtertüten Größe 100
 - Lieferumfang: 1 Melitta Aromaboy 1015-03, Filterkaffeemaschine mit Glaskanne, Beige/Braun, 500 Watt
 - Einfache Handhabung: Beleuchteter Ein-und Ausschalter, Glaskanne mit Filtereinsatz, Transparenter Wassertank mit Skalierung, Automatische Endabschaltung
-- Unkomplizierte Reinigung: Filtereinsatz, Glaskanne und Deckel spülmaschinengeeignet, Einfache Reinigung des Wassertanks per Hand
 - Individueller Kaffeegenuss: Volle Aromaentfaltung dank optimaler Brühtemperatur, Für vollen Genuss und optimale Kaffeetemperatur auch bei kleinen Mengen
+- Unkomplizierte Reinigung: Filtereinsatz, Glaskanne und Deckel spülmaschinengeeignet, Einfache Reinigung des Wassertanks per Hand
+- Platzsparendes Design: Besonders schlanke Filterkaffeemaschine mit Glaskanne für ca. 2 Tassen, Ideal für Singlehaushalte, Wohnwagen oder Ferienwohnung, Passend für Melitta Filtertüten Größe 100
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00JM069MW/?tag=tolees0ca-21)

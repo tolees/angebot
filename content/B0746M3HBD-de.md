@@ -28,11 +28,11 @@ Sie können [HP Autozubehör 10039 KFZ-Verbandtasche in Rot](https://www.amazon.
 
 ℹ️:
 
-- Gemäß DIN13164+2014
-- Kleine, handliche KFZ-Verbandtasche
-- Mit Reißverschluss
-- Tasche aus wasserabweisendem Nylon
 - Abmessungen 22,5 x 14 x 6,5 cm
+- Mit Reißverschluss
+- Gemäß DIN13164+2014
+- Tasche aus wasserabweisendem Nylon
 - Qualität aus dem Hause HP-Autozubehör - Ihr Fachhandelspartner seit 1925
+- Kleine, handliche KFZ-Verbandtasche
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0746M3HBD/?tag=tolees0ca-21)
