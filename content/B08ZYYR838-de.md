@@ -29,9 +29,9 @@ Es gibt ein [Frentree 20x Bunte Mini FFP2 Masken in kleiner Größe  CE zertifiz
 ℹ️:
 
 - 20 bunte FFP2 Masken in Mini-Größe, für mehr Farbe im Alltag! 20x hygienische Einzelverpackungen.
-- Zertifizierung: CE Prüfstellennummer 1463 nach EU Norm EN149: 2001 + A1: 2009
-- Angenehmes Tragen ohne Drücken: Extra weiche Ohrschlaufen und flexibler Nasenbügel
 - Es handelt sich um kleine FFP2 Masken, die ideal für kleine Köpfe geeignet sind
 - Hocheffiziente Filterleistung: Filtert über 95% der Aerosole und Feinstaub, Pollen und andere Schadstoffe
+- Zertifizierung: CE Prüfstellennummer 1463 nach EU Norm EN149: 2001 + A1: 2009
+- Angenehmes Tragen ohne Drücken: Extra weiche Ohrschlaufen und flexibler Nasenbügel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08ZYYR838/?tag=tolees0ca-21)

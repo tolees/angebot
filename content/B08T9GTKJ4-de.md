@@ -28,10 +28,10 @@ Es gibt ein [AUPROTEC 50 Stück FFP2 Maske Atemschutzmaske EU CE 0370 Zertifizie
 
 ℹ️:
 
-- 5-lagige Atemmaske mit speziellem super Soft Vlies für angenehmen Tragekomfort. Sehr atmungsaktiv und hohe Feuchtigkeitsaufnahme zugleich. Keine Durchfeuchtung auch nach langer Tragezeit. Beschlagen der Brille wird dadurch sehr gut vermieden.
+- FFP2 Schutzmaske - zertifiziert CE 0370, partikelfiltrierende Atemschutzmaske PFE 94%
 - Sie fügt sich exakt an das Gesicht an, und an die Haut daher sehr dicht an Mund und Nase. Der zusätzlich innen liegende Metallstreifen dient zur exakten Anpassung am Nasenrücken und zur Abdichtung.
 - Mundschutz und Nasenschutz Bedeckung ist überall vorgeschrieben wo der Mindestabstand von 1,5 Metern nicht eingehalten werden kann. So z.B. Supermarkt, Bus und Bahn, öffentlichen Einrichtungen etc.
-- FFP2 Schutzmaske - zertifiziert CE 0370, partikelfiltrierende Atemschutzmaske PFE 94%
 - Lieferumfang: 1 Pack = 50 Stück einzeln verpackt im PE Beutel. | Farbe: weiß
+- 5-lagige Atemmaske mit speziellem super Soft Vlies für angenehmen Tragekomfort. Sehr atmungsaktiv und hohe Feuchtigkeitsaufnahme zugleich. Keine Durchfeuchtung auch nach langer Tragezeit. Beschlagen der Brille wird dadurch sehr gut vermieden.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08T9GTKJ4/?tag=tolees0ca-21)
