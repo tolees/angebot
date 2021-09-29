@@ -28,10 +28,10 @@ Es gibt ein [SIGEL GL409 Premium Glas-Magnetboard 91 x 46 cm mit LED-Beleuchtung
 
 ℹ️:
 
+- Einfache Montage, Lieferung incl. drei extra starke SuperDym- / Neodym-Magnete im Cube-Design (Art.-Nr. GL705), Befestigungsmaterial, Montageanleitung (auch hier zum Download) und Bohrschablone.
+- Glas-Magnetboard Artverum LED - einzigartiges Raum-Objekt im Design World-Map mit attraktivem LED-Stimmungslicht. Inklusive Leuchtmittel: LED-Band im Aluminiumprofil auf der Rückseite des Glas-Magnetboards fest installiert, mit weißem Kabel (2 m) inkl. Kabelschalter und Eurostecker
 - LED Wandbild aus Sicherheitsglas: hochwertiges Tempered Glas (ESG, EN 12150-1), Produkt TÜV- und GS-geprüft (SGS TÜV Saar), magnethaftend und beschreibbar. Warmweißes Licht durch LED-Band, Brenndauer: ca. 25.000 h, Lichtstrom: 795 lm; Lichtleistung 12,7 Watt
 - 25 Jahre Garantie auf die Glasoberfläche bei Verwendung von Sigel-Zubehör (weitere Infos im anhängenden PDF unter "Technische Details")
-- Einfache Montage, Lieferung incl. drei extra starke SuperDym- / Neodym-Magnete im Cube-Design (Art.-Nr. GL705), Befestigungsmaterial, Montageanleitung (auch hier zum Download) und Bohrschablone.
 - Bitte beachten: es werden starke Neodym- / SuperDym-Magnete benötigt (normale Magnete, z. B. für Kühlschränke halten auf Glas-Magnettafeln nicht).
-- Glas-Magnetboard Artverum LED - einzigartiges Raum-Objekt im Design World-Map mit attraktivem LED-Stimmungslicht. Inklusive Leuchtmittel: LED-Band im Aluminiumprofil auf der Rückseite des Glas-Magnetboards fest installiert, mit weißem Kabel (2 m) inkl. Kabelschalter und Eurostecker
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074QVKB6Y/?tag=tolees0ca-21)
