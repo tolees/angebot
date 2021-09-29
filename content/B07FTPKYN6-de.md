@@ -28,9 +28,9 @@ Es gibt ein [Optimus Tactical Brennstoffflasche M Brennstoffbehälter  0.6 Liter
 
 ℹ️:
 
-- Brennstoff ist nicht im Lieferumfang enthalten!
+- Optimus Brennstoff-Flaschen eignen sich für den Transport und die Druckaufbereitung aller Arten von Flüssigbrennstoff
 - Mit kindersicherem Verschlussdeckel
 - Dank des einzigartigen Härtungsprozesses sind diese Flaschen druckbeständig und stabil und dennoch überraschend leicht
-- Optimus Brennstoff-Flaschen eignen sich für den Transport und die Druckaufbereitung aller Arten von Flüssigbrennstoff
+- Brennstoff ist nicht im Lieferumfang enthalten!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FTPKYN6/?tag=tolees0ca-21)

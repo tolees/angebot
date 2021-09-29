@@ -29,9 +29,9 @@ Sie können [WENKO Power-Loc® Seifenspender Elegance Duschlotion-Spender Badezi
 ℹ️:
 
 - Dauerhaft hoch belastbar (mit einer Zugkraft bis zu 80 kg pro Befestigungselement) und rückstandslos entfernbar
+- Extrem fester Halt auf allen tragfähigen Oberflächen, z.B. Fliesen, Naturstein, Beton, Holz, Kunststoff
+- Maße (B x H x T): 7 x 19,5 x 9 cm
 - Power-Loc Wandbefestigung - Kammer-Klebesystem aus der Hightech-Forschung (Spezial-Klebstoff inklusive)
 - Nachfüllbarer Pumpspender (ca. 190 ml Füllmenge) für portionierte Seifenabgabe aus rostfreiem Edelstahl
-- Maße (B x H x T): 7 x 19,5 x 9 cm
-- Extrem fester Halt auf allen tragfähigen Oberflächen, z.B. Fliesen, Naturstein, Beton, Holz, Kunststoff
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001B6T3LO/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [CALVIN KLEIN Eternity After Shave Balm for men  holzig-aromatischer
 
 ℹ️:
 
+- Ingredients: Aqua
 - Packungage die Größe: 4.8 L X 12.2 H X 7.4 W (Centimeters)
 - 100 Ml Aftershave
-- Ingredients: Aqua
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000C1VTK2/?tag=tolees0ca-21)

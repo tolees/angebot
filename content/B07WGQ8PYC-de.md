@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional Bohrhammer GBH 2-28 F  880 Watt  Bohr-Ø Beton m
 
 ℹ️:
 
-- Müheloses Arbeiten bei zeitintensiven und lang anhaltenden Anwendungen durch Vibration Control
-- Das SDS Plus Wechselfutter ermöglicht Hammerbohren bis max. 28 mm in Beton und mit einer Hohlbohrkrone bis zu 68 mm
 - Der Bohrhammer GBH 2-28 F - höchste Bohrleistung dank 880-Watt-Motor und 3, 2 J Schlagenergie
+- Müheloses Arbeiten bei zeitintensiven und lang anhaltenden Anwendungen durch Vibration Control
 - Ideale Kontrolle über das Gerät: Kickback Control erkennt plötzliches Blockieren des Bohrers und stoppt den Motor umgehend
 - Lieferumfang Amazon Exclusive: GBH 2-28 F, Zusatzhandgriff, Schnellspannbohrfutter, Schnellwechselfutter, 6tlg. Bohr- und Meißel-Set, Tiefenanschlag, Reinigungstuch, L-Case
+- Das SDS Plus Wechselfutter ermöglicht Hammerbohren bis max. 28 mm in Beton und mit einer Hohlbohrkrone bis zu 68 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WGQ8PYC/?tag=tolees0ca-21)
