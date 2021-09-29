@@ -28,10 +28,10 @@ Es gibt ein [HUHETA FFP2 Maske Rot  25 Stück  CE 0598 Zertifiziert  5-Lagen-Ate
 
 ℹ️:
 
-- Hergestellt aus hocheffizientem, schmelzgeblasenem Tuch, ≥ 95 % Filtrationsrate bietet.
-- Sicherheitsdesign: Der eingebaute weiche, verstellbare Nasenclip kann die Maske fest am Gesicht haften lassen, mit gutem Komfort und Sicherheit. Flexible Ohrbügel sind bequem und praktisch für die meisten Männer und Frauen -HUHETA & J. RENEÉ Shop
+- Einzelverpackung: Jede unserer FFP2-Masken ist einzeln verpackt, um den Kontakt zwischen unbenutzten Masken und Luft zu reduzieren. 1 Packung mit 30 Stück einzeln verpackt
 - 5 Schutzschichten: Atmungsaktive Masken sind aus hochwertigen Vliesstoffen hergestellt. 2 hautfreundliche Vliesstoff-Außenschichten machen sie atmungsaktiv und komfortabel. Zwei Schichten aus Meltblown-Tuch-Innenfiltern wirken als Filter, eine Schicht aus Baumwollvlies absorbiert Feuchtigkeit aus Ihrem Atem. Das fünfschichtige FFP2-Maskendesign bietet mehr Schutz als die standardmäßige dreischichtige Einwegmaske
 - Konform mit den Weltstandards: Partikel-Atemschutzgeräte entsprechen EN 149: 2001 + A 1: 2009, der Europäischen Norm FFP2.
-- Einzelverpackung: Jede unserer FFP2-Masken ist einzeln verpackt, um den Kontakt zwischen unbenutzten Masken und Luft zu reduzieren. 1 Packung mit 30 Stück einzeln verpackt
+- Hergestellt aus hocheffizientem, schmelzgeblasenem Tuch, ≥ 95 % Filtrationsrate bietet.
+- Sicherheitsdesign: Der eingebaute weiche, verstellbare Nasenclip kann die Maske fest am Gesicht haften lassen, mit gutem Komfort und Sicherheit. Flexible Ohrbügel sind bequem und praktisch für die meisten Männer und Frauen -HUHETA & J. RENEÉ Shop
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08MHYRVWT/?tag=tolees0ca-21)

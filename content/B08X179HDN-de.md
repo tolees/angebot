@@ -28,12 +28,12 @@ Sie können [EUROPAPA 20x Mini FFP2 Maske Model S in Kleiner Größe Mundschutz 
 
 ℹ️:
 
+- ✔️ Schutzklasse: Filterhalbmasken filtern sowohl eingeatmete als auch ausgeatmete Luft und dienen somit als interner und externer Schutz
+- ✔️ Weitere Option 1: Schaumstiff für mehr Dichtung, insbesondere geeignet für Brillentragene um den Brillenschlag zu vermindern.
+- ✔️Hygienische Einzelverpackung: FFP2-Masken werden einzeln verpackt und verhindern so, dass Masken vor dem Gebrauch kontaminiert werden. Aus Sicherheits- und Hygienegründen müssen die Masken für den EINZELNEN Gebrauch geeignet sein
 - ✔️ Effizientes Filtersystem: Spunbond, Meltbond, Nonwoven - Hochwertige Filterung von 94% aller Partikel in der Luft
 - ✔️ Hoher Tragekomfort: Das optimierte Design der Gesichtsmaskenform sorgt für eine bessere Passform im Gesicht und ein hohes Maß an Komfort mit elastischen latexfreien Ohrriemen und flexiblem Objektivrevolver.
-- ✔️Hygienische Einzelverpackung: FFP2-Masken werden einzeln verpackt und verhindern so, dass Masken vor dem Gebrauch kontaminiert werden. Aus Sicherheits- und Hygienegründen müssen die Masken für den EINZELNEN Gebrauch geeignet sein
-- ✔️ Weitere Option 1: Schaumstiff für mehr Dichtung, insbesondere geeignet für Brillentragene um den Brillenschlag zu vermindern.
 - ✔️5 Lagen, optimale Schutz
 - ✔️ Weitere Option 2: Mit den Hacken kann Man die Ohrschlaufen hinter Kopf je nach Wunscn 3 Möglichkeit verbinden, ohne mit Ohren zu tragen.
-- ✔️ Schutzklasse: Filterhalbmasken filtern sowohl eingeatmete als auch ausgeatmete Luft und dienen somit als interner und externer Schutz
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08X179HDN/?tag=tolees0ca-21)
