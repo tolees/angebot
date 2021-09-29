@@ -28,10 +28,10 @@ Sie können [TFA Dostmann Elektrisches Stabfeuerzeug mit Lichtbogen  Kunststoff 
 
 ℹ️:
 
-- Lieferumfang: Lichtbogen-Stabfeuerzeug, Micro-USB Kabel, Bedienungsanleitung
-- Einfache Bedienung: LED Kontrollleuchte zeigt wenn der Akku aufgeladen werden soll, Ladezeit beträgt circa 1, 5 bis 2 Stunden mit USB (Computer, Power Bank, Auto), automatische Abschaltung nach 10 Sekunden
-- Hohe Qualität: Lichtbogen wird elektrisch erzeugt, keine Verwendung von Gas oder Benzin, zündet bei Wind und Wetter ohne offene Flamme
-- Flexibel: Beweglicher Hals des Feuerzeuges für jeden Winkel geeignet, auch für schwer erreichbare Dochte von Kerzen geeignet, immer griffbereit
 - Hohe Sicherheit: Das Stabfeuerzeug mit langen flexiblen Hals ermöglicht das Anzünden von Kerzen, Gasherd, Laternen, Grill, Teelichter, Kamin, Feuer aus sicherer Entfernung. Sicherheitsabdeckung verhindert ungewolltes zünden
+- Flexibel: Beweglicher Hals des Feuerzeuges für jeden Winkel geeignet, auch für schwer erreichbare Dochte von Kerzen geeignet, immer griffbereit
+- Hohe Qualität: Lichtbogen wird elektrisch erzeugt, keine Verwendung von Gas oder Benzin, zündet bei Wind und Wetter ohne offene Flamme
+- Einfache Bedienung: LED Kontrollleuchte zeigt wenn der Akku aufgeladen werden soll, Ladezeit beträgt circa 1, 5 bis 2 Stunden mit USB (Computer, Power Bank, Auto), automatische Abschaltung nach 10 Sekunden
+- Lieferumfang: Lichtbogen-Stabfeuerzeug, Micro-USB Kabel, Bedienungsanleitung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07MJ5YBW5/?tag=tolees0ca-21)

@@ -28,11 +28,11 @@ Sie können [OSRAM Lamps - Osram LED Star+ Classic A RGBW Lampe  in Kolbenform m
 
 ℹ️:
 
-- Sofort volles Licht, keine Aufwärmzeit
+- Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 - Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt)
 - Energieverbrauch 9 kWh/1000h bei 806 lm
-- Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 - Sehr lange Lebensdauer – bis zu 25000 Stunden und bis zu 100000 Schaltzyklen
 - Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 60-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
+- Sofort volles Licht, keine Aufwärmzeit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B073QT5KDD/?tag=tolees0ca-21)

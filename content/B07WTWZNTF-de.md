@@ -28,9 +28,9 @@ Sie können [BISSELL 2602N Icon 25V Akku-Staubsauger  2-in-1 Stab-und Handstaubs
 
 ℹ️:
 
+- Vielfältige Reinigungsmodi
 - Digitaler Hochleistungs-Motor
 - Kann ganz einfach als Handstaubsauger oder als Handstaubsauger mit Aufsatz für schwer erreichbare Stellen genutzt werden
-- Vielfältige Reinigungsmodi
 - Einfach zu entleerender Schmutzfangbehälter
 - Motorisierte Düse mit Bürstenwalze, die das Umwickeln von Haaren verhindert
 

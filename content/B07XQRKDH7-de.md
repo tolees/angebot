@@ -28,12 +28,12 @@ Sie können [Apple Leder Folio  für iPhone 11 Pro Max  - Aubergine](https://www
 
 ℹ️:
 
-- Wie jedes von Apple entwickelte Case muss es im Laufe des Design- und Fertigungs­prozesses Tausende von Teststunden durchlaufen.
-- Das Leder Folio für das iPhone 11 Pro ist aus speziell gegerbtem, veredeltem europäischen Leder und fühlt sich besonders hochwertig an.
-- Und zum kabellosen Laden musst du das Case nicht abnehmen.
-- Schließe es und es geht in den Ruhezustand. Innen bietet ein weiches Futter aus Mikrofaser zusätzlichen Schutz und Platz für Geldscheine, kleine Notizen und mehrere Karten.
-- Deshalb sieht es nicht nur großartig aus, sondern ist auch dafür gemacht, dein iPhone vor Kratzern und Stürzen zu schützen.
-- Es passt exakt zur Form deines iPhone. Öffne es und dein iPhone 11 Pro wacht auf.
 - Kompatibilität: iPhone 11 Pro Max
+- Und zum kabellosen Laden musst du das Case nicht abnehmen.
+- Wie jedes von Apple entwickelte Case muss es im Laufe des Design- und Fertigungs­prozesses Tausende von Teststunden durchlaufen.
+- Schließe es und es geht in den Ruhezustand. Innen bietet ein weiches Futter aus Mikrofaser zusätzlichen Schutz und Platz für Geldscheine, kleine Notizen und mehrere Karten.
+- Das Leder Folio für das iPhone 11 Pro ist aus speziell gegerbtem, veredeltem europäischen Leder und fühlt sich besonders hochwertig an.
+- Es passt exakt zur Form deines iPhone. Öffne es und dein iPhone 11 Pro wacht auf.
+- Deshalb sieht es nicht nur großartig aus, sondern ist auch dafür gemacht, dein iPhone vor Kratzern und Stürzen zu schützen.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XQRKDH7/?tag=tolees0ca-21)
