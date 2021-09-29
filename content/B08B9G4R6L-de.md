@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '15.63 % rabat auf Sony BMG Music Entertainm - Outlander - '
-date: 2021-09-13 19:51:20
+title: '19.80 % rabat auf Sony BMG Music Entertainm - Outlander - '
+date: 2021-09-28 23:36:14
 image: 'https://m.media-amazon.com/images/I/516oWKuq0VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08B9G4R6L-de Sony BMG Music Entertainm - Outlander - Die komplette...'
 sku: 'B08B9G4R6L-de'
 tags: [ 'Action & Abenteuer','Box-Sets','DVD & Blu-ray','Drama','Fantasy','Featured Categories','Komödie & Unterhaltung','Serien & TV-Produktionen','sony bmg music entertainm', ]
-actualPrice: 13.49 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 13.49
-comparePrice: 15.99 EUR
+price: 11.99
+comparePrice: 14.95 EUR
 prodname: 'Sony BMG Music Entertainm - Outlander - Die komplette fünfte Season'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Sony BMG Music Entertainm'
 buyurl: 'https://www.amazon.de/dp/B08B9G4R6L/?tag=tolees0ca-21'
-descuento: '15.63'
-average: '21.39921875'
+descuento: '19.80'
+average: '21.0217910447762'
 ---
 
-Es gibt ein [Sony BMG Music Entertainm - Outlander - Die komplette fünfte Season](https://www.amazon.de/dp/B08B9G4R6L/?tag=tolees0ca-21) mit aktuellem Preis 13.49 EUR (original: 15.99 EUR) 15.63 % Rabatt hier:
+Es gibt ein [Sony BMG Music Entertainm - Outlander - Die komplette fünfte Season](https://www.amazon.de/dp/B08B9G4R6L/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 14.95 EUR) 19.80 % Rabatt hier:
 
 [![Sony BMG Music Entertainm - Outlander - ](https://m.media-amazon.com/images/I/516oWKuq0VL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08B9G4R6L/?tag=tolees0ca-21)
 
