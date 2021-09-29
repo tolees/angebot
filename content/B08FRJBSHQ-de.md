@@ -28,8 +28,8 @@ Es gibt ein [Dell S2721HGF  27 Zoll  Gaming Monitor  Curved  Full HD 1920x1080  
 
 ℹ️:
 
-- Reaktionszeit: 1ms, 16:9, 350cd/m², 1000:1
 - Full HD (1080p) 1920 x 1080 at 144 Hz
+- Reaktionszeit: 1ms, 16:9, 350cd/m², 1000:1
 - VESA-Halterung
 - Anschlüsse: HDMI, DisplayPort
 
