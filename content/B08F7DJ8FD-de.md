@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional 18V System Akku Bohrhammer GBH 18V-21  max. Schl
 
 ℹ️:
 
-- Längere Lebensdauer: der bürstenlose Motor sorgt für geringeren Wartungsbedarf und eine längere Laufzeit pro Akkuladung
-- Ideales Verhältnis Leistung-Gewicht: Mit einem Gewicht von nur 2,4 kg Gewicht und einer Schlagenergie von 2,0 J ist der Bohrhammer sogar für leichtes Meißeln geeignet
 - Professional 18V System; Ultimative Performance; Maximale Freiheit; Alle unsere Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel
+- Längere Lebensdauer: der bürstenlose Motor sorgt für geringeren Wartungsbedarf und eine längere Laufzeit pro Akkuladung
 - Vielseitiger Einsatz: dank drei verschiedenen Betriebsarten für Bohren, Hammerbohren und Meißeln
+- Ideales Verhältnis Leistung-Gewicht: Mit einem Gewicht von nur 2,4 kg Gewicht und einer Schlagenergie von 2,0 J ist der Bohrhammer sogar für leichtes Meißeln geeignet
 - Lieferumfang: GBH 18V-21, 2x GBA 18V 5.0 Ah Akku, Ladegerät GAL 18V-40, 6-tlg.-Bohrmeißel-Set, Handwerkerkoffer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08F7DJ8FD/?tag=tolees0ca-21)
