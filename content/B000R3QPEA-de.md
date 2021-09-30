@@ -28,11 +28,11 @@ Sie können [Vans Unisex UA Old Skool Sneaker  Black White  42 EU](https://www.a
 
 ℹ️:
 
-- Schaftweite: Normal
-- Innenmaterial: Textil
 - Obermaterial: Leder
+- Materialzusammensetzung: Canvas/Leder
+- Schaftweite: Normal
 - Verschluss: Schnürband
 - Sohle: Gummi
-- Materialzusammensetzung: Canvas/Leder
+- Innenmaterial: Textil
 
 [🛒 Hier!!](https://www.amazon.de/dp/B000R3QPEA/?tag=tolees0ca-21)
