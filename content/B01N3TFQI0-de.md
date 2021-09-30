@@ -28,10 +28,10 @@ Es gibt ein [Kyocera Klimaschutz-System Ecosys M2540dn Multifunktionsdrucker Sch
 
 ℹ️:
 
-- Zuverlässig: Der Ecosys M2540dn Schwarz-Weiß Multifunktionsdrucker dient dem schnellen Drucken, Kopieren, Scannen und Faxen und überzeugt dank 1200 dpi Auflösung mit höchster Druckqualität
-- Praktisch: Via Mobile Print App für iOS und Android können Fotos und Dokumente vom Smartphone gedruckt bzw. auf diese gescannt werden. AirPrint und Google Cloud Print werden unterstützt.
-- Umweltfreundlich: Klimaschutz-System = klimafreundlich drucken und kopieren. Weitere Infos zur Kyocera Klimaschutz Initiative finden Sie unter dem Suchbegriff printgreen bei Kyocera in Ihrem Browser
-- Langlebigkeit: Die Drucker bestehen aus hochwertigen Materialen mit einer extrem hohen Lebensdauer und sind für den Einsatz in Geschäftsumgebungen konzipiert
 - Effizient: Das Multifunktionssystem druckt bis zu 40 Seiten pro Minute und liefert gestochen scharfe Druckergebnisse Die Funktion "leiser Betrieb" ermöglicht geräuscharmes Drucken
+- Praktisch: Via Mobile Print App für iOS und Android können Fotos und Dokumente vom Smartphone gedruckt bzw. auf diese gescannt werden. AirPrint und Google Cloud Print werden unterstützt.
+- Langlebigkeit: Die Drucker bestehen aus hochwertigen Materialen mit einer extrem hohen Lebensdauer und sind für den Einsatz in Geschäftsumgebungen konzipiert
+- Umweltfreundlich: Klimaschutz-System = klimafreundlich drucken und kopieren. Weitere Infos zur Kyocera Klimaschutz Initiative finden Sie unter dem Suchbegriff printgreen bei Kyocera in Ihrem Browser
+- Zuverlässig: Der Ecosys M2540dn Schwarz-Weiß Multifunktionsdrucker dient dem schnellen Drucken, Kopieren, Scannen und Faxen und überzeugt dank 1200 dpi Auflösung mit höchster Druckqualität
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N3TFQI0/?tag=tolees0ca-21)
