@@ -28,10 +28,10 @@ Es gibt ein [Stanley FatMax Dämmstoffmesser  350 mm  FMHT0-10327](https://www.a
 
 ℹ️:
 
-- Klinge aus rostfreiem Edelstahl. Länge 350mm. Breite 2mm für langanhaltende Nutzung und effizientes Arbeiten
-- Sägeschliff - für dichtes und hartes Material, z.B. Styropor
-- Wellenschliff - für leichtes, weiches Material, z.B. Steinwoll
 - Zum Schneiden von Glasfaser, Styropor, Dämm- und Schaumstoffen, Mineralwolle, Fasermaterial, Filz, Polystyrol, Pappe, Platten- oder Rollenware
+- Wellenschliff - für leichtes, weiches Material, z.B. Steinwoll
+- Klinge aus rostfreiem Edelstahl. Länge 350mm. Breite 2mm für langanhaltende Nutzung und effizientes Arbeiten
 - Lieferumfang: 1 x Dämmstoffmesser 350mm
+- Sägeschliff - für dichtes und hartes Material, z.B. Styropor
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B074HCH68T/?tag=tolees0ca-21)

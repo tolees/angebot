@@ -28,7 +28,7 @@ Es gibt ein [GoPro Kopfband Plus Quick-Clip - geeignet für alle GoPro Kameras  
 
 ℹ️:
 
-- Packungage die Größe: 8.2 L x 20.0 H x 14.6 W
 - Farbe: Schwarz
+- Packungage die Größe: 8.2 L x 20.0 H x 14.6 W
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00F19PYR4/?tag=tolees0ca-21)
