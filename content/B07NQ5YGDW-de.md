@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link UB400 Nano USB Bluetooth 4.0 Ada mit 26.43 % Rabatt'
-date: 2021-09-29 10:13:58
+date: 2021-09-30 10:23:25
 image: 'https://m.media-amazon.com/images/I/41-yq-gC6uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21'
 descuento: '26.43'
-average: '9.65653985507244'
+average: '9.65623869801083'
 ---
 
 Sie können [TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop Desktop Computer  unterstützt Windows 10/8.1/8/7/XP  Plug & Play für Windows 10/8.1/8 ](https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21) mit Preis 9.49 EUR (original: 12.9 EUR) 26.43 % Rabatt hier:
