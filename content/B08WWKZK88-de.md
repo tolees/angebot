@@ -28,11 +28,11 @@ Es gibt ein [LEGO 76390 Harry Potter Adventskalender 2021 Spielzeugset  Weihnach
 
 ℹ️:
 
-- Der Spielzeug-Adventskalender für Kinder enthält 2 zufällige Zaubererkarten, von denen insgesamt 16 gesammelt werden können. Für eine zauberhafte Vorweihnachtszeit!
+- Der Harry Potter Kalender lässt sich kinderleicht mit anderen LEGO Sets kombinieren und ist eine ideale Weihnachtsgeschenkidee für junge Hexen & Zauberer ab 7 Jahren.
 - Enthält 6 LEGO Minifiguren: Harry Potter, Ron Weasley, Hermine Granger, Draco Malfoy, Dudley Dursley und Griphook sowie Zubehör
-- Der LEGO Harry Potter Weihnachts-Adventskalender für Kinder besitzt 24 Türchen zum Öffnen, hinter denen sich je ein Überraschungsspielzeug verbirgt.
 - Hinter Türchen 24 befindet sich ein farbenfroher Kreisel, der den Kalender in ein Brettspiel verwandelt.
 - Kinder können die Briefe aus Hogwarts, die durch den Kamin hineinflattern, das Abholen der Goldstücke aus Gringotts’ Tresor, die Begegnung mit der Eule Hedwig und mehr nachspielen!
-- Der Harry Potter Kalender lässt sich kinderleicht mit anderen LEGO Sets kombinieren und ist eine ideale Weihnachtsgeschenkidee für junge Hexen & Zauberer ab 7 Jahren.
+- Der Spielzeug-Adventskalender für Kinder enthält 2 zufällige Zaubererkarten, von denen insgesamt 16 gesammelt werden können. Für eine zauberhafte Vorweihnachtszeit!
+- Der LEGO Harry Potter Weihnachts-Adventskalender für Kinder besitzt 24 Türchen zum Öffnen, hinter denen sich je ein Überraschungsspielzeug verbirgt.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WWKZK88/?tag=tolees0ca-21)

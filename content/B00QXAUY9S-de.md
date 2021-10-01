@@ -28,7 +28,7 @@ Sie können [Bosch Professional Kreissägeblatt Expert für Wood  Holz  216 x 30
 
 ℹ️:
 
-- Energiequelle: Handbetrieben
 - Maße: 216x30mm
+- Energiequelle: Handbetrieben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00QXAUY9S/?tag=tolees0ca-21)

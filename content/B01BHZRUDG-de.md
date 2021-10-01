@@ -28,10 +28,10 @@ Sie können [EVA SOLO 567483 Wasserkaraffe mit Fruchtspieß  Edelstahl  1 L  Gla
 
 ℹ️:
 
-- Individuelle Geschmacksentfaltung durch Deckel mit abnehmbaren Spieß bis zum Flaschenboden, 100% tropffreies Ausschenken dank patentiertem Ausgießer, Kein Verlust von Eiswürfel, Zitronenscheiben oder ähnlichem möglich durch integriertes Sieb
 - Hohe Qualität: Hitzebeständiges Borosilikat-Glas (-70° bis +530°C), Für heiße und kalte Getränke geeignet
 - Spülmaschinenfest: Einfache Reinigung von Karaffe und Verschluss, Leichte Entfernung des Gummipfropfens (trotz optimaler Dichtung), Passend in alle gängigen Kühlschranktüren
 - Lieferumfang: 1 Eva Solo Glaskaraffe mit Fruchtspieß, Fassungsvermögen: 1 Liter, Boden-Durchmesser: 8,1 cm, Höhe: 28,2 cm, Material: Borosilikat-Glas, Edelstahl, Silikon
 - Wasser mit persönlicher Geschmacksnote - Moderne Glaskaraffe (1 l) mit abnehmbarem Spieß im Deckel für ein besonderes Aroma und einen tollen Look – Ideal zum Servieren von Wasser, Auch geeignet zur Zubereitung von frischem Eistee
+- Individuelle Geschmacksentfaltung durch Deckel mit abnehmbaren Spieß bis zum Flaschenboden, 100% tropffreies Ausschenken dank patentiertem Ausgießer, Kein Verlust von Eiswürfel, Zitronenscheiben oder ähnlichem möglich durch integriertes Sieb
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01BHZRUDG/?tag=tolees0ca-21)

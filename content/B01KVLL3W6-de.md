@@ -28,10 +28,10 @@ Es gibt ein [Wera Joker Switch Maul-Ringratschen-Schlüssel  umschaltbar  10 x 1
 
 ℹ️:
 
+- Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Größen
+- Um 15° abgewinkelte Ratschenseite
 - Mit hoher Feinverzahnung und robustem Rast-Element
 - Mit praktischer Haltefunktion durch Metallplatte im Maul
 - Kein Abrutschen durch Endanschlag
-- Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Größen
-- Um 15° abgewinkelte Ratschenseite
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01KVLL3W6/?tag=tolees0ca-21)

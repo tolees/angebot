@@ -28,10 +28,10 @@ Es gibt ein [ABUS Faltschloss Bordo Combo 6100/90 mit Schlosstasche - Fahrradsch
 
 ℹ️:
 
-- Faltbar und kompakt: Die Spezialnieten erlauben flexibles Zusammenfalten des Schlosses zu einer handlichen Größe und somit den leichten und platzsparenden Transport
-- Das Zahlenschloss mit ABUS-Sicherheitslevel 9: Faltschloss mit 5 mm starken Stäben aus gehärtetem Stahl und individuell einstellbarem Zahlencode, z. B. wenn Sie sich mit Freunden ein Rad teilen
-- Zuverlässiges Schloss: Länge 90 cm, Gewicht 1250 g, ABUS-Sicherheitslevel 9, inkl. Tasche zum Transport des Schlosses
-- Attraktives Design: Die extra weiche 2-Komponenten-Ummantelung überzeugt optisch und schützt zuverlässig vor Lackschäden wie z. B. Kratzern am Fahrrad
 - ST-Schlosstasche: Befestigung mit Anti-Rutsch-Klettbändern oder Schrauben an der Flaschenhalterung - Schloss muss nach oben aus der Halterung gezogen werden
+- Zuverlässiges Schloss: Länge 90 cm, Gewicht 1250 g, ABUS-Sicherheitslevel 9, inkl. Tasche zum Transport des Schlosses
+- Faltbar und kompakt: Die Spezialnieten erlauben flexibles Zusammenfalten des Schlosses zu einer handlichen Größe und somit den leichten und platzsparenden Transport
+- Attraktives Design: Die extra weiche 2-Komponenten-Ummantelung überzeugt optisch und schützt zuverlässig vor Lackschäden wie z. B. Kratzern am Fahrrad
+- Das Zahlenschloss mit ABUS-Sicherheitslevel 9: Faltschloss mit 5 mm starken Stäben aus gehärtetem Stahl und individuell einstellbarem Zahlencode, z. B. wenn Sie sich mit Freunden ein Rad teilen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0046RZFK8/?tag=tolees0ca-21)

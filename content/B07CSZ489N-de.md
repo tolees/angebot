@@ -28,10 +28,10 @@ Sie können [wolfcraft I 3D-Gehrungswinkel I 5208000 I zum Bearbeiten von dreidi
 
 ℹ️:
 
-- Der 3D-Gehrungswinkel besteht aus hochwertigem Kunststoff und ist mit seiner Zentimeter- und Winkel-Skala vielseitig einsetzbar
-- Er eignet sich für: dreidimensionale Markierungen; das Messen und Übertragen von Winkelmaßen; 45°- und 90°-Anschlag; Streichmaß für parallele Linien; Bohrergröße bestimmen mit der Bohrlehre
 - Maße: L=212 mm, H=62 mm, T=74 mm
 - Insbesondere eignet sich der praktische Helfer von wolfcraft für dreidimensionale Werkstücke wie z.B. Balken, Kanthölzer, Rohre usw.
+- Der 3D-Gehrungswinkel besteht aus hochwertigem Kunststoff und ist mit seiner Zentimeter- und Winkel-Skala vielseitig einsetzbar
+- Er eignet sich für: dreidimensionale Markierungen; das Messen und Übertragen von Winkelmaßen; 45°- und 90°-Anschlag; Streichmaß für parallele Linien; Bohrergröße bestimmen mit der Bohrlehre
 - Der 3D-Gehrungswinkel hat eine integrierte Bohrlehre zur Bestimmung des Bohrdurchmessers
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CSZ489N/?tag=tolees0ca-21)

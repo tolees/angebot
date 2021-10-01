@@ -28,9 +28,9 @@ Es gibt ein [CND Shellac Top Coat Original  15 ml](https://www.amazon.de/dp/B004
 
 ℹ️:
 
+- Garantiert 14 Tage kratzfester Halt - in Verbindung mit dem Original CND SHELLAC Base & Top Coat
 - CND SHELLAC UV Nagellack - das Original von CND
 - Perfektes Hochglanz-Finish
 - Der einzig wahre 100% kratzfeste Nagellack der Welt:
-- Garantiert 14 Tage kratzfester Halt - in Verbindung mit dem Original CND SHELLAC Base & Top Coat
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004GJCN8I/?tag=tolees0ca-21)

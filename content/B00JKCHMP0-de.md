@@ -28,10 +28,10 @@ Es gibt ein [Transcend 960GB JetDrive 720 SATA III 6Gb/s SSD Upgrade Kit für Ma
 
 ℹ️:
 
-- Bis zu 570 MB/s Lesen; 460 MB/s Schreiben
 - SATA III 6Gb/s Schnittstelle
+- Bis zu 570 MB/s Lesen; 460 MB/s Schreiben
 - Kompatibel mit MacBook Pro Retina 13” (Ende 2012 - Anfang 2013)
-- Kostenloser Download der JetDrive Toolbox Software
 - Installationswerkzeuge inklusive
+- Kostenloser Download der JetDrive Toolbox Software
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JKCHMP0/?tag=tolees0ca-21)

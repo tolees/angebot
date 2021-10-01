@@ -28,10 +28,10 @@ Es gibt ein [TecTake - Thermostat Raumthermostat Unterputz Funkempfänger Steckd
 
 ℹ️:
 
+- Kindersicherung – Tastensperre
 - Information über Betriebsstunden
 - Schnelle Änderung der geforderten Temperatur
-- 7 Wochenprogramme mit 6 Temperaturänderungen pro Tag
 - Betriebsmodule: AUTO/MANU/OFF/URLAUB
-- Kindersicherung – Tastensperre
+- 7 Wochenprogramme mit 6 Temperaturänderungen pro Tag
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00F1UE6CC/?tag=tolees0ca-21)

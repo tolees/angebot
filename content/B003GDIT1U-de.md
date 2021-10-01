@@ -28,10 +28,10 @@ Sie können [Wera 05028160001 x177 392 Bit-Handhalter mit flexiblem Schaft  1/4 
 
 ℹ️:
 
+- Für Bits mit 1/4" Außensechskantantrieb
+- Bits-Handhalter mit flexiblem Schaft und Schnellwechselfutter
+- Mehrkomponentiger Kraftform Griff für schnelles und ergonomisches Verschrauben
 - Mit biegsamer Rundklinge
 - Mit Sechskantabrollschutz gegen Wegrollen
-- Für Bits mit 1/4" Außensechskantantrieb
-- Mehrkomponentiger Kraftform Griff für schnelles und ergonomisches Verschrauben
-- Bits-Handhalter mit flexiblem Schaft und Schnellwechselfutter
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003GDIT1U/?tag=tolees0ca-21)
