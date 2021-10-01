@@ -29,9 +29,9 @@ Sie können [Connex Schraubzwinge  800 x 120 mm  COX865800](https://www.amazon.d
 ℹ️:
 
 - Packungsgewicht: 4.321 Lb
-- Packung die Größe: 89.1 L x 3.0 H x 17.8 W (cm)
-- Druckteller mit Kunststoff-Schutzkappe
 - Vernickelte, flache Stahlschiene
 - Aus Temperguss
+- Druckteller mit Kunststoff-Schutzkappe
+- Packung die Größe: 89.1 L x 3.0 H x 17.8 W (cm)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00NA3TFHS/?tag=tolees0ca-21)
