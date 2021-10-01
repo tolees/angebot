@@ -30,8 +30,8 @@ Sie können [LEGO 43105 VIDIYO Party Llama Beatbox Music Video Maker Musik Spiel
 
 - Inspirieren Sie Kinder mit dem LEGO VIDIYO Candy Castle Stage Music Video Maker zur Gestaltung und Aufnahme ihres ganz persönlichen Video mithilfe der AR App
 - Die Kinder werden es lieben, Änderungen an ihren Videos vorzunehmen, z. B. die Köpfe zu wechseln, damit ein virtueller Eiscremewald oder eine Schokoladenschlucht im Hintergrund erscheint
+- Die BeatBox lässt sich zusammenklappen und im Inneren ist Platz für die Bühne aus LEGO-Steinen, daher ist dieses Musik Spielzeug ideal zum Mitnehmen
 - Enthalten sind 2 Minifiguren mit Musikzubehör, 14 zufällige BeatBits und 2 spezielle BeatBits, die das Modell und die Minifiguren in der AR App zum Leben erwecken
 - Scannen Sie die BeatBits des LEGO VIDIYO Sets in der App, um Spezialeffekte für Kinder freizuschalten, etwa den, der Karussellpferde in Kindermusikvideos erscheinen lässt
-- Die BeatBox lässt sich zusammenklappen und im Inneren ist Platz für die Bühne aus LEGO-Steinen, daher ist dieses Musik Spielzeug ideal zum Mitnehmen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G49DCMC/?tag=tolees0ca-21)

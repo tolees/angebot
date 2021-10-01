@@ -28,14 +28,14 @@ Es gibt ein [Xbox Series S 512GB](https://www.amazon.de/dp/B087VM5XC6/?tag=tolee
 
 ℹ️:
 
-- Der brandneue Xbox Wireless Controller zeichnet sich durch höchste Präzision, eine neue Share-Taste und verbesserte Ergonomie aus
+- Ultra-niedrige Latenz verbessert die Reaktionszeit von Controller zum Fernseher
 - Minimiere Ladezeiten mit einer speziell entwickelten 512GB NVMe SSD und wechsle mit Quick Resume nahtlos zwischen mehreren Spielen.
+- Hardware-beschleunigtes Raytracing macht dein Spiel noch realistischer
 - Xbox Smart Delivery stellt sicher, dass du die beste Version deines Spiels spielst, egal, auf welcher Konsole du spielst
 - Verwende dein Xbox One-Gaming-Zubehör -einschließlich Controller, Headsets und mehr
-- Spiele Games mit bis zu 120 Bilder pro Sekunde
-- Hardware-beschleunigtes Raytracing macht dein Spiel noch realistischer
 - Erweitere deinen Speicher mit der Seagate 1 TB-Erweiterungskarte für Xbox Series X (separat erhältlich) und streame 4K-Videos von Disney+, Netflix, Amazon, Microsoft Movies & TV und mehr
-- Ultra-niedrige Latenz verbessert die Reaktionszeit von Controller zum Fernseher
+- Spiele Games mit bis zu 120 Bilder pro Sekunde
+- Der brandneue Xbox Wireless Controller zeichnet sich durch höchste Präzision, eine neue Share-Taste und verbesserte Ergonomie aus
 - Erwecke deine Spiele und Filme mit innovativem 3D Raumklang zum Leben
 - Spiele deine Xbox One-Spiele auf deiner Xbox Series S weiter. Deine Fortschritte, Erfolge und Freundesliste werden automatisch auf das neue System übertragen.
 
