@@ -28,10 +28,10 @@ Sie können [Becton Dickinson - Sanit DuschBlitz 2 Flaschen á 750ml](https://ww
 
 ℹ️:
 
+- Reiniger mit Kalklösekraft
 - auch geeignet für Fliesen und Armaturen
 - Speziell empfohlen für Duschkabinen und Badewannen
-- Reiniger mit Kalklösekraft
-- Artikel Paket Gewicht:- 1.76 kilograms
 - Enthält (R)-p-Mentha-1,8-dien. Kann allergische Reaktionen hervorrufen.
+- Artikel Paket Gewicht:- 1.76 kilograms
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N1WHB65/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [BGS 1823 | Schlauchklemmen-Sortiment | 4-tlg.](https://www.amazon.d
 
 ℹ️:
 
-- 4 Größen für unterschiedliche Durchmesser
 - zum Abklemmen von Benzinschläuchen und Kunststoff-Leitungen
 - mit schwenkbarem Klemmbügel aus Metall
+- 4 Größen für unterschiedliche Durchmesser
 - stoppt Flüssigkeit im Schlauch
 - bis Ø 10 - 15 - 25 - 45 mm
 

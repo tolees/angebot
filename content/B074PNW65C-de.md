@@ -28,10 +28,10 @@ Sie können [Stölzle Lausitz Power Weinbecher ohne Stiel I 380 ml I 6er Set Wei
 
 ℹ️:
 
-- TRINKGLÄSER MODERN - die bleifreien Kristallgläser sind ein Hingucker in Bars & Restaurants oder auf Partys - Die saubere Glasverteilung sorgt für höchste Brillianz und eine tolle Haptik
-- HOHES FÜLLVOLUMEN mit 380ml / 520ml - Die Kristallgläser sind spülmaschinenfest und äußerst bruchresistent
-- PURISTISCHES DESIGN - Das ausdrucksstarke Design mit dem flachen Kelchboden gibt dem Wein ein Maximum an Fläche zum Atmen - das kommt der Aromen- und Geschmacksentfaltung des Weins zugute
-- STÖLZLE LAUSITZ - Bruchsichere u. schnelle Lieferung I besondere Qualitätssicherung I Deutsche Herstellung I Deutschlands Nr. 1 bei Wein- u. Sektgläsern I Glasmacher-Tradition seit 1889
 - UNIVERSAL-GLAS perfekt für die Erstausstattung - alltagstaugliche Gläser sind für vieles gut geeignet - als moderne Saftbecher oder schöne Wassergläser - als Cocktail- oder Wein Gläser
+- STÖLZLE LAUSITZ - Bruchsichere u. schnelle Lieferung I besondere Qualitätssicherung I Deutsche Herstellung I Deutschlands Nr. 1 bei Wein- u. Sektgläsern I Glasmacher-Tradition seit 1889
+- TRINKGLÄSER MODERN - die bleifreien Kristallgläser sind ein Hingucker in Bars & Restaurants oder auf Partys - Die saubere Glasverteilung sorgt für höchste Brillianz und eine tolle Haptik
+- PURISTISCHES DESIGN - Das ausdrucksstarke Design mit dem flachen Kelchboden gibt dem Wein ein Maximum an Fläche zum Atmen - das kommt der Aromen- und Geschmacksentfaltung des Weins zugute
+- HOHES FÜLLVOLUMEN mit 380ml / 520ml - Die Kristallgläser sind spülmaschinenfest und äußerst bruchresistent
 
 [🛒 Hier!!](https://www.amazon.de/dp/B074PNW65C/?tag=tolees0ca-21)

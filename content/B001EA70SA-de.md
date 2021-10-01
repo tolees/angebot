@@ -28,10 +28,10 @@ Es gibt ein [GEDORE Vierkant-Steckgriff mit T-Griff  1/4   6 3 mm Antrieb  für 
 
 ℹ️:
 
-- GEDORE QUALITÄT SEIT ÜBER 100 JAHREN: Das Sortiment mit über 17.000 Werkzeugen übertrifft Industrie-Ansprüche. Nutzen Sie als Profi Hammer, Zange oder ganze Werkzeugkoffer für ein sicheres Arbeiten
-- EINFACHE HANDHABUNG: Das Werkzeug schont mit dem ergonomischen 2-Komponenten-Griff Sehnen und Gelenke. Zudem reduziert die mittige Anordnung des Antriebsvierkants die Verkantungsgefahr
-- LIEFERUMFANG: 1 x GEDORE T-Steckgriff 1/4", Länge: 300 mm, Gewicht: 150 g, Artikelnummer: 2098 T
 - PASSENDE AUSRÜSTUNG: Der T-Griff mit einem 1/4 Zoll Antriebsvierkant eignet sich für handbetätigte Steckschlüsseleinsätze. Mit dem GEDORE Bit-Adapter No. 620 ist er auch für 1/4" Bits geeignet
 - HOCHWERTIGE VERARBEITUNG: Die Klinge ist besonders robust und langlebig. GEDORE verwendet für die Herstellung hochwertigen Stahl, sodass eine sichere Verwendung stets gewährleistet ist
+- EINFACHE HANDHABUNG: Das Werkzeug schont mit dem ergonomischen 2-Komponenten-Griff Sehnen und Gelenke. Zudem reduziert die mittige Anordnung des Antriebsvierkants die Verkantungsgefahr
+- LIEFERUMFANG: 1 x GEDORE T-Steckgriff 1/4", Länge: 300 mm, Gewicht: 150 g, Artikelnummer: 2098 T
+- GEDORE QUALITÄT SEIT ÜBER 100 JAHREN: Das Sortiment mit über 17.000 Werkzeugen übertrifft Industrie-Ansprüche. Nutzen Sie als Profi Hammer, Zange oder ganze Werkzeugkoffer für ein sicheres Arbeiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001EA70SA/?tag=tolees0ca-21)
