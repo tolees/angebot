@@ -28,8 +28,8 @@ Es gibt ein [AMIGO Spiel + Freizeit Amigo 01658 Bohnanza Duell  Spiel](https://w
 
 ℹ️:
 
-- Zu Zweit spielen und handeln
 - Vom Autor Uwe Rosenberg
 - Neuheit in der Bohanza-Reihe
+- Zu Zweit spielen und handeln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01FH06UNS/?tag=tolees0ca-21)

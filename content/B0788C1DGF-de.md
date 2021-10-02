@@ -28,9 +28,9 @@ Sie können [WOLF Garten - WOLF-Garten - Alu-Stiel 150 cm multi-star® ZM-A 150"
 
 ℹ️:
 
-- 150 cm
 - Leicht und stabil aus hochwertigem Aluminium
-- Für alle multi-star Geräte geeignet
 - Hergestellt in Deutschland
+- 150 cm
+- Für alle multi-star Geräte geeignet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0788C1DGF/?tag=tolees0ca-21)
