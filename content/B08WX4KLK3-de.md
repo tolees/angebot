@@ -29,9 +29,9 @@ Sie können [LEGO 41685 Friends Magische Jahrmarktachterbahn  Freizeit und Vergn
 ℹ️:
 
 - Enthalten sind 4 LEGO Mini-Puppen mit vielen Rollen zum Spielen - sie können Popcorn kaufen, beim Feuerspucken spielen oder sich im Badezimmer erfrischen
-- Der LEGO Friends Freizeitpark -Bausatz enthält 2 Fahrgeschäfte, einen Popcorn-Stand, eine Fotokabine und ein stoffüberdachtes Zirkuszelt, in dem die Show stattfindet
+- Zum Zubehör des Spielzeugs ab 8 Jahren gehören Jonglierkeulen, Bühnenschminke und Luftballons.Die im Dunkeln leuchtenden Steine erwachen zum Leben, wenn die Lichter ausgeschaltet werden!
 - Der LEGO Friends Vergnügungspark bietet auch Zaubertricks - eine Schachtel lässt eine Mini-Puppe verschwinden, und ein weiterer verschwindender Akt mit Magie
 - Mit den Zaubertricks für Kinder können die kleinen Magier ihre Familie und Freunde mit der funktionsreichen Achterbahn fahren oder eine Runde auf der Pendelbahn drehen
-- Zum Zubehör des Spielzeugs ab 8 Jahren gehören Jonglierkeulen, Bühnenschminke und Luftballons.Die im Dunkeln leuchtenden Steine erwachen zum Leben, wenn die Lichter ausgeschaltet werden!
+- Der LEGO Friends Freizeitpark -Bausatz enthält 2 Fahrgeschäfte, einen Popcorn-Stand, eine Fotokabine und ein stoffüberdachtes Zirkuszelt, in dem die Show stattfindet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08WX4KLK3/?tag=tolees0ca-21)
