@@ -28,9 +28,9 @@ Es gibt ein [OSRAM AirZing UV-Compact Pro  tragbarer Luftreiniger mit HEPA Filte
 
 ℹ️:
 
-- UV-Convenient: Dieses kleine, batteriebetriebene Gerät ist wiederaufladbar. Es passt bequem in die meisten Handtaschen und Becherhalter in Fahrzeugen – optimal zu transportieren
-- UV-Clean 2 in 1: UV-C-Reinigung und -filterung mit austauschbarem Filter und Ventilator mit zwei Geschwindigkeiten
-- UV-Clever: Die automatische Ausschaltfunktion spart Batterieleistung und durch das intelligente, gut verdeckte Lampendesign kann der AirZing UV-Compact Pro auch in der Nähe von Menschen und Haustieren betrieben werden
 - UV-Confidence: UV-C-Desinfektion beseitigt nachweislich bis zu 99,9% der Viren, Bakterien, Sporen, Schimmelpilze und sonstiger gesundheitsschädlicher Mikroorganismen in der Luft
+- UV-Convenient: Dieses kleine, batteriebetriebene Gerät ist wiederaufladbar. Es passt bequem in die meisten Handtaschen und Becherhalter in Fahrzeugen – optimal zu transportieren
+- UV-Clever: Die automatische Ausschaltfunktion spart Batterieleistung und durch das intelligente, gut verdeckte Lampendesign kann der AirZing UV-Compact Pro auch in der Nähe von Menschen und Haustieren betrieben werden
+- UV-Clean 2 in 1: UV-C-Reinigung und -filterung mit austauschbarem Filter und Ventilator mit zwei Geschwindigkeiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08P54WDHM/?tag=tolees0ca-21)
