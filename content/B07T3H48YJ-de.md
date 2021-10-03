@@ -28,10 +28,10 @@ Es gibt ein [Kosmos 620066 Nuna - Dein Igel-Roboter  Rückwärtsrollen durch kla
 
 ℹ️:
 
-- Stecken, klicken, schrauben – der hochwertige Modellbausatz mit 170 Einzelteilen von KOSMOS fördert die Feinmotorik und planvolles Vorgehen.
-- Eine Comic-Geschichte lässt Nuna lebendig werden und die spannenden Hintergrundinfos vermitteln erste Einblicke in das Innenleben von Robotern.
 - Nuna wird dank Sound-Sensoren durch Klatsch-Kommandos gesteuert. Seine LED Augen zeigen dabei an, in welchem Modus er sich befindet.
+- Eine Comic-Geschichte lässt Nuna lebendig werden und die spannenden Hintergrundinfos vermitteln erste Einblicke in das Innenleben von Robotern.
 - Der Experimentierkasten ist bestens geeignet für Kinder von 8 bis 12 Jahren, die sich für komplexe technische Abläufe interessieren.
 - Roboter zusammenbauen und seine Spezial-Funktionen entdecken: Rolle rückwärts, Stacheln aufstellen oder laufen, all das kann der schlaue Igel-Roboter.
+- Stecken, klicken, schrauben – der hochwertige Modellbausatz mit 170 Einzelteilen von KOSMOS fördert die Feinmotorik und planvolles Vorgehen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07T3H48YJ/?tag=tolees0ca-21)

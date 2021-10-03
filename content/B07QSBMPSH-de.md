@@ -28,11 +28,11 @@ Sie können [Astragon - Bus Simulator - [PlayStation 4]](https://www.amazon.de/d
 
 ℹ️:
 
-- Unterschiedliche Wetterverhältnisse und Tag- und Nachtfahrten
-- Für Einsteiger und Profis: Spielen Sie im vereinfachten oder realistischen Modus
-- Inklusive umfangreichen Managementpart und Progressionsystem
 - Eine ca. 15 km² große Karte mit 12 authentischen Stadtteilen
-- Asynchroner und synchroner Multiplayer-Modus (für bis zu 4 Spieler)
+- Unterschiedliche Wetterverhältnisse und Tag- und Nachtfahrten
+- Inklusive umfangreichen Managementpart und Progressionsystem
 - 8 offiziell lizenzierte Busse von 4 namhaften Herstellern
+- Asynchroner und synchroner Multiplayer-Modus (für bis zu 4 Spieler)
+- Für Einsteiger und Profis: Spielen Sie im vereinfachten oder realistischen Modus
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QSBMPSH/?tag=tolees0ca-21)

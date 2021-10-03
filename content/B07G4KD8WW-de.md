@@ -28,10 +28,10 @@ Es gibt ein [Razer - Kraken Tournament Ed. Black](https://www.amazon.de/dp/B07G4
 
 ℹ️:
 
-- Spiel/Chat-Balance: Nie wieder übertönt der Sound im Spiel die Kommunikation innerhalb des Teams. Mithilfe der Spiel/Chat-Balance lässt sich ganz leicht feinabstimmen, was wann zu hören sein soll. Oder mit dem Regler in der Mitte bleibt dank Standard-Mix alles beim Alten.
-- Individuell eingestellte 50-mm-Treiber: Mit seinen 50 mm großen, individuell abgestimmten Treibern bietet das Razer Kraken Tournament Edition ein noch breiteres Klangspektrum, von fast unhörbaren Schritten, die sich von hinten anschleichen, bis hin zu unglaublichen Explosionen, die alles mit sich reißen.
 - Plattformübergreifende Kompatibilität: Dank seinem 3,5-mm-Audio-Anschluss ist das Razer Kraken Tournament Edition plattformübergreifend kompatibles funktioniert mit PC, Mac, PS4, Xbox One, Switch und sogar mobilen Geräten.
-- Komplette Audio-Kontrolle: THX Spatial Audio sorgt für noch mehr Immersion, und Lautstärke, Bass-Stufen und sogar die Spiel/Chat-Balance lassen sich präzise nach den eigenen Vorlieben anpassen. Optimaler, individueller Gaming-Sound und totale Kontrolle über jeden Aspekt des Klang-Erlebnisses.
+- Spiel/Chat-Balance: Nie wieder übertönt der Sound im Spiel die Kommunikation innerhalb des Teams. Mithilfe der Spiel/Chat-Balance lässt sich ganz leicht feinabstimmen, was wann zu hören sein soll. Oder mit dem Regler in der Mitte bleibt dank Standard-Mix alles beim Alten.
 - Ergonomisches Design: Die mit kühlendem Gel gefüllten Ohrpolster verringern die Wärmeentwicklung und die Kombination aus weichem Stoff und Kunstleder sorgt sowohl für Tragekomfort als auch für Schallisolierung.
+- Komplette Audio-Kontrolle: THX Spatial Audio sorgt für noch mehr Immersion, und Lautstärke, Bass-Stufen und sogar die Spiel/Chat-Balance lassen sich präzise nach den eigenen Vorlieben anpassen. Optimaler, individueller Gaming-Sound und totale Kontrolle über jeden Aspekt des Klang-Erlebnisses.
+- Individuell eingestellte 50-mm-Treiber: Mit seinen 50 mm großen, individuell abgestimmten Treibern bietet das Razer Kraken Tournament Edition ein noch breiteres Klangspektrum, von fast unhörbaren Schritten, die sich von hinten anschleichen, bis hin zu unglaublichen Explosionen, die alles mit sich reißen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07G4KD8WW/?tag=tolees0ca-21)

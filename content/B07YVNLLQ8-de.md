@@ -28,10 +28,10 @@ Es gibt ein [JAMARA 460545 - My Little Racer - Hupe  Motorgeräusch  Musik  Bbli
 
 ℹ️:
 
-- Motorgeräusch
-- Hupe
-- Rückzugmotor
 - Musik
+- Motorgeräusch
 - Blinkende Lichter
+- Rückzugmotor
+- Hupe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07YVNLLQ8/?tag=tolees0ca-21)

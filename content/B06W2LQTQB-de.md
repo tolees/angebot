@@ -28,11 +28,11 @@ Es gibt ein [Tepro Gasgrill  Brookfield   3 Edelstahl-Brenner  je ca. 2 9 kW  1 
 
 ℹ️:
 
-- 1 Seitenbrenner, ca. 2, 9 kW
 - Grillfläche mit herausnehmbarem Grillrosteinsatz
-- Grillfläche: ca. 58 x 42 cm
+- 1 Seitenbrenner, ca. 2, 9 kW
 - Eingebauter Thermometer
 - 2 emaillierte Guss-Grillroste, je ca. 30, 5 x 42 cm
+- Grillfläche: ca. 58 x 42 cm
 - 3 Edelstahl-Brenner, je ca. 2, 9 kW
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06W2LQTQB/?tag=tolees0ca-21)
