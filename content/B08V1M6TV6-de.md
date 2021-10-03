@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.05 % rabat auf CALIYO Medizinischen OP Masken blau 50 S'
-date: 2021-09-29 06:07:54
+date: 2021-10-03 11:59:48
 image: 'https://m.media-amazon.com/images/I/41REE7tiJKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Es gibt ein [CALIYO Medizinischen OP Masken blau 50 Stk  Mund-Nasenschutz Masken
 
 ℹ️:
 
+- Masse: 17,5x9,5 CM, elastische Ohrschlaufen und extra weicher Vliesstoff.
+- 50x medizischen Masken 3-Lagig aus Vlies und Meltblown blau (innenste Seite weiß).
 - Ein Nasenbügel aus sehr dünnem und biegsamem Metaldraht ist eingearbeitet.
 - Weiche Ohrschlaufen sind angenehm zu tragen.
 - MNS Masken genügt medizinischer EU Norm EN14683 Typ I.
-- 50x medizischen Masken 3-Lagig aus Vlies und Meltblown blau (innenste Seite weiß).
-- Masse: 17,5x9,5 CM, elastische Ohrschlaufen und extra weicher Vliesstoff.
 - OP Masken 3-Lagig aus 65% Vlies und 35% Meltlown, nicht sterile und Glasfaserfrei.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08V1M6TV6/?tag=tolees0ca-21)

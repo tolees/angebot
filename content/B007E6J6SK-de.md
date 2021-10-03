@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.61 % rabat auf BLANCO FAVOS Mini'
-date: 2021-09-30 11:39:32
+date: 2021-10-03 11:50:50
 image: 'https://m.media-amazon.com/images/I/51XRmW2ImvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [BLANCO FAVOS Mini](https://www.amazon.de/dp/B007E6J6SK/?tag=tolees0
 
 ℹ️:
 
-- Außen-Abmessungen 780 x 435 mm/ Ausschnitt 762 x 417 mm
 - funktionale Abtropffläche, die sich auch als Arbeitsfläche nutzen lässt
-- reversible Granitspüle, d. h. Tropffläche kann nach rechts oder links ausgerichtet werden - beachten Sie auch das Ratgebervideo Zusätzliche Lochbohrungen auf der Website des Herstellers
 - Hochwertige Einbauspüle für 45 cm breite Unterschränke- ohne Ablauffernbedienung
 - komfortables Spülbecken (Tiefe 180 mm) - incl. 3 1/2" Korbventil und Ablaufgarnitur mit Raumsparrohr
+- reversible Granitspüle, d. h. Tropffläche kann nach rechts oder links ausgerichtet werden - beachten Sie auch das Ratgebervideo Zusätzliche Lochbohrungen auf der Website des Herstellers
+- Außen-Abmessungen 780 x 435 mm/ Ausschnitt 762 x 417 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007E6J6SK/?tag=tolees0ca-21)
