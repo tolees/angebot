@@ -28,8 +28,8 @@ Es gibt ein [Schümli Crema Ganze Kaffeebohnen  1kg  Stärkegrad 2/5  Premium Ar
 
 ℹ️:
 
-- Umweltfreundlich: Unserer Bohnenkaffee ist UTZ-zertifiziert. Wir setzten uns für eine verantwortungsbewusste, umweltfreundliche Kaffeeproduktion ein
 - Schweizer Premiumkaffee: Unsere Leidenschaft sind hochwertige Kaffeeprodukte. Wir beschaffen, veredeln und verpacken Kaffee seit 1954
+- Umweltfreundlich: Unserer Bohnenkaffee ist UTZ-zertifiziert. Wir setzten uns für eine verantwortungsbewusste, umweltfreundliche Kaffeeproduktion ein
 - Deine Schümli Crema: Edle Mischung aus hochwertigen Arabicabohnen. Eine ausgewogene, delikate Aroma und eine feine, köstliche Crema zeichnen diesen Kaffee aus
 - Dein Kaffee im Detail: Röstkaffee in ganzen Bohnen - Verpackung 1 kg - Intensität 2 von 5 - 100 Prozent Arabica - Empfohlene Tassengrösse: 110 ml Lungo
 - Kompatibilität: Ideal für Vollautomaten mit integriertem Mahlwerk, Espresso-Kolbenmaschine und klassischen Filteraufguss
