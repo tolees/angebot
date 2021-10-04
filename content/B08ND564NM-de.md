@@ -30,8 +30,8 @@ Es gibt ein [iiyama G-MASTER Red Eagle G2770HSU-B1 68 6 cm  27"  Fast IPS LED Ga
 
 - Der Black Tuner lässt dich selbst kleinste Details in schwach ausgeleuchteten Spielumgebungen erkennen.. Zudem garantiert dir die IPS Panel Technologie eine hervorragende Bildqualität.
 - Mit der FreeSync Premium Technologie kannst du Entscheidungen in Sekundenbruchteilen treffen und Ghosting-Effekte oder unerwünschte Artefakte wie Tearing oder Stuttering vergessen.
-- Mit nur 0.8 ms MPRT Reaktionszeit und 165 Hz Bildwiederholfrequenz erhältst du den Wettbewerbsvorteil, den du benötigst, um dein volles Spielpotenzial auszuschöpfen.
 - Erwecke dein volles Spielpotenzial mit dem 165 Hz 27“ (68.6 cm) Fast IPS Panel Monitor G-Master GB2770HSU Red Eagle.
+- Mit nur 0.8 ms MPRT Reaktionszeit und 165 Hz Bildwiederholfrequenz erhältst du den Wettbewerbsvorteil, den du benötigst, um dein volles Spielpotenzial auszuschöpfen.
 - Signaleingang HDMI, DisplayPort, 2 x USB2.0, Lautsprecher 2x2W, Kophörer Anschluss, Gaming Modi, Flicker Free LED, Blaulicht Filter, FreeSync Premium, Black Tuner
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08ND564NM/?tag=tolees0ca-21)

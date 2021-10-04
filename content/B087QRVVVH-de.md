@@ -30,8 +30,8 @@ Sie können [Crucial P5 CT1000P5SSD8 1 TB Solid State Laufwerk  3D NAND  NVMe  P
 
 - Optimieren Sie Leistung und Haltbarkeit mit dynamischer Schreibbeschleunigung, Fehlerkorrektur und adaptivem Temperaturschutz
 - Innovatives 3D-NAND und modernste Controller-Technologie mit einer Lese-und Schreibleistung von bis zu 3400/3000 MB/s, die die Grenzen von PCIe Gen3 NVMe durchbrechen–perfekt für Technik-Enthusiasten, professionelle Designer und ernsthafte Gamer
-- Betriebssysteme starten fast augenblicklich, Anwendungen stehen in Sekundenschnelle zur Verfügung und Spiele werden geladen,bevor Sie bereit sind, loszulegen
 - Unterstützt durch eine eingeschränkte fünfjährige Garantie oder bis zum Erreichen der angegebenen maximalen Lebensdauer von 600 TBW
+- Betriebssysteme starten fast augenblicklich, Anwendungen stehen in Sekundenschnelle zur Verfügung und Spiele werden geladen,bevor Sie bereit sind, loszulegen
 - Kann die Datensicherheit und-verwaltung mit schneller, vollständiger Laufwerksverschlüsselung verbessern und so Ihre Daten ohne Leistungseinbußen schützen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087QRVVVH/?tag=tolees0ca-21)
