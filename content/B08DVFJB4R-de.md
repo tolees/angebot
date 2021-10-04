@@ -29,9 +29,9 @@ Es gibt ein [LEDVANCE Smart+ Schaltbare Steckdose für WiFi  mit Strom Vermessun
 ℹ️:
 
 - Ermöglicht das Schalten von herkömmlichen Leuchtmitteln und anderen elektrischen Geräten und somit das Integrieren in ein kompatibles Smart Home System
-- Steuerung über Google Assistant oder Amazon Alexa möglich
-- Integriert konventionelle Elektrogeräte in kompatible Smart-Home-Systeme
 - Einfacher Anschluss elektrischer Geräte über Standardsteckdose
 - Steuerung über LEDVANCE SMART + WiFi App (ab Android 6.0) oder iPhone (ab iOS 10); nicht kompatibel mit der LEDVANCE WiFi Fernbedienung
+- Steuerung über Google Assistant oder Amazon Alexa möglich
+- Integriert konventionelle Elektrogeräte in kompatible Smart-Home-Systeme
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08DVFJB4R/?tag=tolees0ca-21)

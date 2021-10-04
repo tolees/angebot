@@ -28,10 +28,10 @@ Sie können [LEGO 41167 Disney Frozen ll Schloss Arendelle  Elsas Schloss aus Ei
 
 ℹ️:
 
-- Mit der Schlossfunktion kann die Schublade verriegelt werden.
-- Umfasst die LEGO Minidoll: Elsa und die LEGO Spielfigur: Nokk aus dem Film „Die Eiskönigin 2“.
-- Das Schmuckkästchen ist 23 cm hoch, 15 cm breit und 12 cm tief.
 - Das wunderschöne Schmuckkästchen ist ein ideales Geschenk zum Geburtstag oder zu Weihnachten und für Fans der Disney Filme mit der Eiskönigin.
+- Umfasst die LEGO Minidoll: Elsa und die LEGO Spielfigur: Nokk aus dem Film „Die Eiskönigin 2“.
 - Enthält ein Schmuckkästchen mit verschließbarer Schublade, einen Spiegel, eine Drehfunktion für Elsa und den Nokk und 2 LEGO Ringe.
+- Das Schmuckkästchen ist 23 cm hoch, 15 cm breit und 12 cm tief.
+- Mit der Schlossfunktion kann die Schublade verriegelt werden.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07ND9RDRV/?tag=tolees0ca-21)
