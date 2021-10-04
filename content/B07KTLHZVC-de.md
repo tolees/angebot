@@ -28,14 +28,14 @@ Sie können [LEGO 21046 Architecture Empire State Building  Wahrzeichen von New 
 
 ℹ️:
 
-- Die LEGO Architecture Produktlinie ist eine Hommage an die Welt der Architektur in Gestalt von LEGO Steinen und spricht jeden an, der sich für Reisen, Architektur, Geschichte und Design interessiert.
-- Das beiliegende Heft enthält Informationen über den Architekten, die Architektur und die Geschichte des Bauwerks sowie historische Fakten zum Empire State Building und architektonischen Erbe dieses berühmten Gebäudes (nur in englischer Sprache, das Heft kann in anderen Sprachen auf LEGO.com/architecture heruntergeladen werden).
-- Das Set enthält über 1.750 Teile.
-- Mit einer Höhe von 55 cm ist das Modell des Empire State Building das bisher höchste LEGO Architecture Modell (Stand Juli 2019).
-- Das von allen Seiten präsentierbare Modell verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie eine mit Platten besetzte Grundplatte, die die Fifth Avenue und die umliegenden Straßen darstellt und 6 gelbe Taxis aufweist.
-- Umfasst ein dekoratives Empire-State-Building-Namensschild.
 - Das Modell ist 55 cm hoch, 20 cm breit und 12 cm tief.
+- Das beiliegende Heft enthält Informationen über den Architekten, die Architektur und die Geschichte des Bauwerks sowie historische Fakten zum Empire State Building und architektonischen Erbe dieses berühmten Gebäudes (nur in englischer Sprache, das Heft kann in anderen Sprachen auf LEGO.com/architecture heruntergeladen werden).
+- Das von allen Seiten präsentierbare Modell verfügt über 4 hochdetaillierte Fassaden, eine silberfarbene Antenne sowie eine mit Platten besetzte Grundplatte, die die Fifth Avenue und die umliegenden Straßen darstellt und 6 gelbe Taxis aufweist.
+- Die LEGO Architecture Produktlinie ist eine Hommage an die Welt der Architektur in Gestalt von LEGO Steinen und spricht jeden an, der sich für Reisen, Architektur, Geschichte und Design interessiert.
 - Das LEGO Architecture Set bietet ein anspruchsvolles und lohnendes Bauerlebnis.
 - LEGO Architecture Interpretation eines echten Wahrzeichens von New York – dem Empire State Building.
+- Umfasst ein dekoratives Empire-State-Building-Namensschild.
+- Mit einer Höhe von 55 cm ist das Modell des Empire State Building das bisher höchste LEGO Architecture Modell (Stand Juli 2019).
+- Das Set enthält über 1.750 Teile.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07KTLHZVC/?tag=tolees0ca-21)

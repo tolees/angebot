@@ -29,9 +29,9 @@ Sie können [Corsair - Corsar Harpoon PRO RGB FPS/MOBA-Optisch-Gaming-Maus  12.0
 ℹ️:
 
 - Profilierte Form und gummierte Seitengriffe: Anhaltender Spielkomfort mit einem sicheren Griff
-- Leichte Konstruktion: Ein Gewicht von nur 85g garantiert eine lange Spieldauer
+- Leistungsstarker optischer Sensor mit 12.000dpi: Tracking mit hoher Genauigkeit für eine präzise Steuerung im Spiel
 - Einfache Plug-and-Play-Konfiguration: Einsatzbereit direkt nach dem Auspacken–einfach über den USB-Anschluss verbinden und die Gegner besiegen
 - Sechs vollständig programmierbare Tasten: Verschaffen Sie sich mit Funktionen wie Tastenneubelegungen und komplexen benutzerdefinierten Makros einen Vorteil im Spiel
-- Leistungsstarker optischer Sensor mit 12.000dpi: Tracking mit hoher Genauigkeit für eine präzise Steuerung im Spiel
+- Leichte Konstruktion: Ein Gewicht von nur 85g garantiert eine lange Spieldauer
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RDQBFXY/?tag=tolees0ca-21)
