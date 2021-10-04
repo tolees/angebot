@@ -28,10 +28,10 @@ Sie können [Lacoste Watch 2011046](https://www.amazon.de/dp/B084K7LSVD/?tag=tol
 
 ℹ️:
 
+- Braunes Lederarmband
 - Blaues Sonnenstrahlen-Zifferblatt
 - Gehäusedicke 8.4 mm / Durchmesser des Gehäuses: 42 mm
-- Drei-Zeiger-Uhrwerk
-- Braunes Lederarmband
 - Wasserabweisend bis Fünf bar
+- Drei-Zeiger-Uhrwerk
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084K7LSVD/?tag=tolees0ca-21)

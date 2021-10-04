@@ -28,11 +28,11 @@ Es gibt ein [Astragon - Landwirtschafts-Simulator 19 - Premium Edition - [PC]](h
 
 ℹ️:
 
-- Anderson Group Equipment Pack und John Deere Cotton DLC
-- Alpine Landwirtschaft Add-On
-- CLAAS DOMINATOR 108 SL MAXI DLC und CLAAS TORION 1914 Dev Mule DLC
-- Kverneland & Vicon Equipment Pack
-- Modding Video Tutorials 4.0 + Farming Simulator C64 Edition (Emulator version for Windows)
 - John Deere XUV865M Gator DLC, HOLMER Terra Variant DLC
+- CLAAS DOMINATOR 108 SL MAXI DLC und CLAAS TORION 1914 Dev Mule DLC
+- Alpine Landwirtschaft Add-On
+- Modding Video Tutorials 4.0 + Farming Simulator C64 Edition (Emulator version for Windows)
+- Kverneland & Vicon Equipment Pack
+- Anderson Group Equipment Pack und John Deere Cotton DLC
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08D9R8GQD/?tag=tolees0ca-21)
