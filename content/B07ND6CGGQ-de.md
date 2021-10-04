@@ -28,15 +28,15 @@ Es gibt ein [LEGO 10899 DUPLO Princess Frozen Elsas Eispalast  Bauset mit einem 
 
 ℹ️:
 
+- Als Zubehör ist unter anderem eine Schere zum Scheren der Schafe enthalten.
+- Baue 1 von 3 Modellen oder deine eigenen Kreationen und verleihe deiner Farm einen persönlichen Touch.
+- Schnapp dir deine Schere und mach dich auf der Schaffarm an die Arbeit.
+- Dieses LEGO Minecraft Spielset umfasst mehr als 250 Teile.
 - Die Farm ist 12 cm hoch, 19 cm breit und 14 cm tief.
 - Das Set beinhaltet eine LEGO Minecraft Farmkulisse mit einer Birke, einem Zaun, einem Bach, Trittsteinen, Getreide, Blumen, 2 gefärbten Minecraft-Schafen und einem Lamm sowie farbige LEGO Steine zum Bauen von einem von 3 tollen Modellen zum Dekorieren der Farm.
-- Dieses LEGO Minecraft Spielzeug enthält außerdem zusätzliche LEGO Steine für kreatives Bauvergnügen.
-- Als Zubehör ist unter anderem eine Schere zum Scheren der Schafe enthalten.
-- Schnapp dir deine Schere und mach dich auf der Schaffarm an die Arbeit.
-- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
 - Enthält eine Steve-Minifigur, eine rote und eine gelbe Schaffigur und eine Lammfigur (neu ab August 2019).
 - Das modulare Design ermöglicht ein schnelles und einfaches Umbauen.
-- Baue 1 von 3 Modellen oder deine eigenen Kreationen und verleihe deiner Farm einen persönlichen Touch.
-- Dieses LEGO Minecraft Spielset umfasst mehr als 250 Teile.
+- Dieses LEGO Minecraft Spielzeug enthält außerdem zusätzliche LEGO Steine für kreatives Bauvergnügen.
+- Lass deiner Fantasie freien Lauf und baue aus dem Set weitere LEGO Minecraft Kreationen!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ND6CGGQ/?tag=tolees0ca-21)
