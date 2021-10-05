@@ -29,7 +29,7 @@ Es gibt ein [Tommy Hilfiger Herren Hüft-Shorts 3p Lr Trunk  3er Pack  Schwarz  
 ℹ️:
 
 - Trunk Hüft Shorts in normaler Größe
-- Dreier pack in schwarz
 - Signatur Tommy Hilfiger Logo Bund
+- Dreier pack in schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00UBOL4HI/?tag=tolees0ca-21)
