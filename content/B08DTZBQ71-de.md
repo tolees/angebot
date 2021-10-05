@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE Smarte Security LED Leuchte mit mit 15.14 % Rabatt'
-date: 2021-10-04 12:19:23
+date: 2021-10-05 12:42:00
 image: 'https://m.media-amazon.com/images/I/418LkUkB8hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ledvance'
 buyurl: 'https://www.amazon.de/dp/B08DTZBQ71/?tag=tolees0ca-21'
 descuento: '15.14'
-average: '101.19'
+average: '101.09'
 ---
 
 Sie können [LEDVANCE Smarte Security LED Leuchte mit integrierter Kamera  Flutstrahler für Außen mit WiFi Technologie  Steuerung über Handy App möglich  Warmweiß  3000K   Kompatibel mit Google Voice und Alexa](https://www.amazon.de/dp/B08DTZBQ71/?tag=tolees0ca-21) mit Preis 100.69 EUR (original: 118.65 EUR) 15.14 % Rabatt hier:
@@ -28,12 +28,12 @@ Sie können [LEDVANCE Smarte Security LED Leuchte mit integrierter Kamera  Fluts
 
 ℹ️:
 
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- Lichtstrom: 1.800 lm
-- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
-- Dimmbar
-- Einstellbarer Kopf
 - Farbtemperatur: 3.000 K (Warm White)
+- Dimmbar
+- Lichtstrom: 1.800 lm
+- Einstellbarer Kopf
+- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08DTZBQ71/?tag=tolees0ca-21)
