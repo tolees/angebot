@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '21.88 % rabat auf Fenix  PD35 Tac  039-225'
-date: 2021-09-29 20:51:29
+title: '21.77 % rabat auf Fenix  PD35 Tac  039-225'
+date: 2021-10-05 15:46:15
 image: 'https://m.media-amazon.com/images/I/31wicoDalDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Camping & Outdoor','Camping & Outdoor Lampen & Laternen','Sport','Sport
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99
-comparePrice: 63.99 EUR
+comparePrice: 63.9 EUR
 prodname: 'Fenix  PD35 Tac  039-225'
 country: 'de'
 flag: '🇩🇪'
 brand: 'fenix'
 buyurl: 'https://www.amazon.de/dp/B010ESCLHW/?tag=tolees0ca-21'
-descuento: '21.88'
+descuento: '21.77'
 average: '49.99'
 ---
 
-Es gibt ein [Fenix  PD35 Tac  039-225](https://www.amazon.de/dp/B010ESCLHW/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 63.99 EUR) 21.88 % Rabatt hier:
+Es gibt ein [Fenix  PD35 Tac  039-225](https://www.amazon.de/dp/B010ESCLHW/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 63.9 EUR) 21.77 % Rabatt hier:
 
 [![Fenix  PD35 Tac  039-225](https://m.media-amazon.com/images/I/31wicoDalDL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B010ESCLHW/?tag=tolees0ca-21)
 
