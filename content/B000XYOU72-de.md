@@ -29,9 +29,9 @@ Es gibt ein [ABUS Schlaufenkabel Cobra 10/500 - Stahlseil mit Kunststoff ummante
 ℹ️:
 
 - PRODUKTDETAILS: Gewicht 850 g, Länge 500 cm (=5 Meter), Stärke des Stahlkabels 10 mm, Farbe Schwarz/Rot
-- HANDHABUNG: Kabel durch den zu schützenden Gegenstand (z.B. einen Helm) und das Fahrrad ziehen, Schloss durch die Schlaufenenden fädeln, verschließen und fertig
-- ZUSATZSICHERUNG: Sicherungskabel für Gegenstände ist in Verbindung mit Vorhängeschlössern, Motorradschlössern oder Fahrradschlössern zu verwenden
-- UMMANTELUNG: Mit Kunststoff ummanteltes Stahlseil, um Kratzer am Lack zu vermeiden
 - EINSATZBEREICH: vielseitig - je nach Länge des Kabels, z.B. zur Absicherung des Helmes am Fahrrad oder als Sicherung des Rades auf dem Fahrradträger
+- UMMANTELUNG: Mit Kunststoff ummanteltes Stahlseil, um Kratzer am Lack zu vermeiden
+- ZUSATZSICHERUNG: Sicherungskabel für Gegenstände ist in Verbindung mit Vorhängeschlössern, Motorradschlössern oder Fahrradschlössern zu verwenden
+- HANDHABUNG: Kabel durch den zu schützenden Gegenstand (z.B. einen Helm) und das Fahrrad ziehen, Schloss durch die Schlaufenenden fädeln, verschließen und fertig
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000XYOU72/?tag=tolees0ca-21)

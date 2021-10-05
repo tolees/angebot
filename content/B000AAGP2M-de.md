@@ -28,10 +28,10 @@ Es gibt ein [Kenwood AT 910 Spritzgebäckvorsatz](https://www.amazon.de/dp/B000A
 
 ℹ️:
 
-- Mit vier Formen
 - Abmessungen (cm): 1,4H x 4,4B x 4,4T
+- Mit vier Formen
 - Anschluss: Niedrigdrehzahl-Anschluss
-- Material: Bronze / Metall
 - Lieferumfang: Kenwood Spritzgebäckvorsatz
+- Material: Bronze / Metall
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000AAGP2M/?tag=tolees0ca-21)
