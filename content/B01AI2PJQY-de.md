@@ -29,9 +29,9 @@ Es gibt ein [Bosch Home and Garden - Bosch Elektro Freischneider Motorsense AFS 
 ℹ️:
 
 - Optimale Balance für jeden Benutzer durch verstellbaren Gurt und Handgriff
+- Lieferumfang: Bosch Freischneider 3-Flügel-Messer, Spule für Schneidfäden, 3 Schneidfäden, Zusatzgriff, Schutzhaube, Karton
 - Beeindruckende Schnittergebnisse durch leistungsstarken 950 W Motor
 - Der Freischneider AFS 23-37 für außergewöhnliche Schnittergebnisse
 - Einfacher Wechsel zwischen Messer und Schneidfaden für große Flächen oder hartnäckigen Wildwuchs
-- Lieferumfang: Bosch Freischneider 3-Flügel-Messer, Spule für Schneidfäden, 3 Schneidfäden, Zusatzgriff, Schutzhaube, Karton
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01AI2PJQY/?tag=tolees0ca-21)
