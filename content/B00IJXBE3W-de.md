@@ -28,9 +28,9 @@ Sie können [Walther design HO040N Home Holzrahmen  30x40 cm  nussbaum](https://
 
 ℹ️:
 
-- Der Holzrahmen Home ist zusätzlich mit einem echten Schrägschnitt-Passepartout ausgestattet und verleiht dem Bild entsprechend eine besondere Wirkung
-- Der Rahmen ist zusätzlich mit Aufhängeösen für hoch- und querformatige Bilder ausgestattet
-- Modernes Blockprofil mit 29 mm Breite mit einer säherauhen Oberfläche, die dadurch besonders natürlich wirkt
 - Aufsteller bis Format 18 x 24 cm
+- Der Holzrahmen Home ist zusätzlich mit einem echten Schrägschnitt-Passepartout ausgestattet und verleiht dem Bild entsprechend eine besondere Wirkung
+- Modernes Blockprofil mit 29 mm Breite mit einer säherauhen Oberfläche, die dadurch besonders natürlich wirkt
+- Der Rahmen ist zusätzlich mit Aufhängeösen für hoch- und querformatige Bilder ausgestattet
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00IJXBE3W/?tag=tolees0ca-21)
