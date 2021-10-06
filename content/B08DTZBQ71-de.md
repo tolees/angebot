@@ -28,12 +28,12 @@ Sie können [LEDVANCE Smarte Security LED Leuchte mit integrierter Kamera  Fluts
 
 ℹ️:
 
-- Lichtstrom: 1.800 lm
 - Einstellbarer Kopf
-- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
-- Farbtemperatur: 3.000 K (Warm White)
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
+- Lichtstrom: 1.800 lm
+- Farbtemperatur: 3.000 K (Warm White)
 - Dimmbar
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
+- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08DTZBQ71/?tag=tolees0ca-21)
