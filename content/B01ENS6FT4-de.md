@@ -28,9 +28,9 @@ Es gibt ein [Bruno Banani Fragrance - bruno banani Magic Man Deodorant Spray  1e
 
 ℹ️:
 
+- Frisch, holzig, ambriert
 - Die verbindliche Angabe der Inhaltsstoffe entnehmen Sie bitte der Verpackung des gelieferten Produktes
 - Der magisch-anziehende Duft für den selbstbewussten Mann, der sich selber nicht zu ernst nimmt
-- Frisch, holzig, ambriert
 - Packung die Größe: 50 L x 160 H x 50 W (cm)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01ENS6FT4/?tag=tolees0ca-21)

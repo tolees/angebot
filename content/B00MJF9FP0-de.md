@@ -28,10 +28,10 @@ Es gibt ein [OMRON Gentle Temp 720  digitales kontaktloses Fieberthermometer fü
 
 ℹ️:
 
-- Geeignet zum Fiebermessen an der Stirn des Kindes sowie zum Messen der Raum- oder Oberflächentemperatur, beispielsweise von Milchflaschen oder Breibehältern.
-- Lieferumfang: 1 Gentle Temp 720 Thermometer, Sensorkappe, 1 CR2032-Batterie, Gebrauchsanweisung
-- Leicht ablesbare Ergebnisse in nur einer Sekunde, angezeigt in einem großen Display mit Hintergrundbeleuchtung.
 - Digitales kontaktloses Thermometer zum problemlosen Fiebermessen bei Kindern – sogar im Schlaf.
+- Lieferumfang: 1 Gentle Temp 720 Thermometer, Sensorkappe, 1 CR2032-Batterie, Gebrauchsanweisung
 - Ein und dasselbe Thermometer für drei unterschiedliche, hochpräzise Messungen mit Umschaltung zwischen Celsius/Fahrenheit. Speicherung der letzten 25 Messwerte zur Nachverfolgung im zeitlichen Verlauf.
+- Geeignet zum Fiebermessen an der Stirn des Kindes sowie zum Messen der Raum- oder Oberflächentemperatur, beispielsweise von Milchflaschen oder Breibehältern.
+- Leicht ablesbare Ergebnisse in nur einer Sekunde, angezeigt in einem großen Display mit Hintergrundbeleuchtung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MJF9FP0/?tag=tolees0ca-21)

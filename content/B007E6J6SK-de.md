@@ -28,10 +28,10 @@ Es gibt ein [BLANCO FAVOS Mini](https://www.amazon.de/dp/B007E6J6SK/?tag=tolees0
 
 ℹ️:
 
+- Hochwertige Einbauspüle für 45 cm breite Unterschränke- ohne Ablauffernbedienung
+- reversible Granitspüle, d. h. Tropffläche kann nach rechts oder links ausgerichtet werden - beachten Sie auch das Ratgebervideo Zusätzliche Lochbohrungen auf der Website des Herstellers
 - Außen-Abmessungen 780 x 435 mm/ Ausschnitt 762 x 417 mm
 - funktionale Abtropffläche, die sich auch als Arbeitsfläche nutzen lässt
-- reversible Granitspüle, d. h. Tropffläche kann nach rechts oder links ausgerichtet werden - beachten Sie auch das Ratgebervideo Zusätzliche Lochbohrungen auf der Website des Herstellers
 - komfortables Spülbecken (Tiefe 180 mm) - incl. 3 1/2" Korbventil und Ablaufgarnitur mit Raumsparrohr
-- Hochwertige Einbauspüle für 45 cm breite Unterschränke- ohne Ablauffernbedienung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007E6J6SK/?tag=tolees0ca-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.02 % rabat auf SanDisk Extreme microSDXC 64GB + SD Adap'
-date: 2021-10-05 14:44:30
+date: 2021-10-06 17:00:56
 image: 'https://m.media-amazon.com/images/I/41mjR9U-MDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.de/dp/B07FCMBLV6/?tag=tolees0ca-21'
 descuento: '50.02'
-average: '10.74'
+average: '10.79'
 ---
 
 Es gibt ein [SanDisk Extreme microSDXC 64GB + SD Adapter + Rescue Pro Deluxe 160MB/s A2 C10 V30 UHS-I U3](https://www.amazon.de/dp/B07FCMBLV6/?tag=tolees0ca-21) mit aktuellem Preis 10.99 EUR (original: 21.99 EUR) 50.02 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [SanDisk Extreme microSDXC 64GB + SD Adapter + Rescue Pro Deluxe 160
 
 ℹ️:
 
-- 4K UHD-fähig mit UHS Speed Class 3 (U3) und Video Speed Class 30 (V30)
 - Einstufung A2 für schnelleres Laden und schnellere In-App-Performance
-- Ideal für Android-basierte Smartphones und Tablets sowie Actionkameras und Drohnen
+- 4K UHD-fähig mit UHS Speed Class 3 (U3) und Video Speed Class 30 (V30)
 - Konzipiert für und getestet unter extremen Bedingungen; temperaturbeständig, wasserdicht, stoßfest und röntgensicher. Betriebstemperatur: -25 ºC bis 85 ºC
+- Ideal für Android-basierte Smartphones und Tablets sowie Actionkameras und Drohnen
 - Bis zu 160 MB/Sek. Lesegeschwindigkeit und 60 MB/Sek. Schreibgeschwindigkeit für schnelles Aufnehmen und Übertragen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FCMBLV6/?tag=tolees0ca-21)
