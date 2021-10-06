@@ -28,10 +28,10 @@ Sie können [EZVIZ WLAN IP Kamera  1080p FHD Indoor Überwachungskameras mit Zwe
 
 ℹ️:
 
-- Zwei-Wege-Audio: Dank des integrierten Mikrofons und Lautsprechers können Sie ganz einfach mit Ihren Familienmitgliedern oder Haustieren sprechen und den Einbrecher auch somit abschrecken
+- 12 Meter Nachtsicht: Anhand der Infrarot LEDs ist der ganze Raum trotz der Dunkelheit einzusehen
 - Alarme in Echtzeit: Sobald die Kamera einen Eindringling erkennt, wird die Benachrichtigung an Ihr Smartphone sofort gesandt. Irgendwann und Irgendwo werden Sie informiert
+- Zwei-Wege-Audio: Dank des integrierten Mikrofons und Lautsprechers können Sie ganz einfach mit Ihren Familienmitgliedern oder Haustieren sprechen und den Einbrecher auch somit abschrecken
 - 1080p FHD mit 130° Sichtwinkel: Mit einem Sichtwinkel von 130° bietet die WLAN IP Kamera Ihnen ein bereites Sichtfeld. Dank der 2MP scharfen Auflösung sehen Sie alles in Detail
 - Einfache Installation in 3 Schritten: 1) App herunterladen und anmelden. 2) Kamera einschalten. 3) QR Code einscannen
-- 12 Meter Nachtsicht: Anhand der Infrarot LEDs ist der ganze Raum trotz der Dunkelheit einzusehen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07RBZS7WC/?tag=tolees0ca-21)

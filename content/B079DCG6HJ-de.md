@@ -28,10 +28,10 @@ Es gibt ein [Diesel Herren Analog Quarz Uhr mit Edelstahl Armband DZ1865](https:
 
 ℹ️:
 
-- Gehäusehöhe: 12 mm; Gehäusegröße: 44 mm x 49 mm
 - Bandbreite: 22 mm; Bandumfang: 200 +/-5 mm
-- Bandmaterial: Edelstahl
 - Wasserdichtigkeit: 5 ATM
 - Verpackt in Diesel Geschenkbox
+- Gehäusehöhe: 12 mm; Gehäusegröße: 44 mm x 49 mm
+- Bandmaterial: Edelstahl
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B079DCG6HJ/?tag=tolees0ca-21)

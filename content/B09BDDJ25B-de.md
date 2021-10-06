@@ -28,10 +28,10 @@ Sie können [Dreame VTE1  Vacuum Cleaner](https://www.amazon.de/dp/B09BDDJ25B/?t
 
 ℹ️:
 
-- Gewicht ca. 2,7 kg
 - 0,6 Liter Schmutzbehälter, der einfach per Knopfdruck entleert werden kann
-- Bürstenloser Motor mit 450 W Leistung
-- Laufzeit von bis zu 70 Minuten
+- Gewicht ca. 2,7 kg
 - Ladestation mit Zubehörhalterung
+- Laufzeit von bis zu 70 Minuten
+- Bürstenloser Motor mit 450 W Leistung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B09BDDJ25B/?tag=tolees0ca-21)
