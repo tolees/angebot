@@ -28,12 +28,12 @@ Sie können [Russell Hobbs Kaffeemaschine mit Mahlwerk  Thermokanne 10 Tassen  d
 
 ℹ️:
 
-- Digitales Bedienelement mit programmierbarem Timer, Brühstärkeneinstellung und Uhrzeit, 3-stufige Mahlgradeinstellung: grob, medium, fein
-- Herausnehmbarer Vorratsbehälter für Kaffeebohnen mit einem Fassungsvermögen von 250g, einstellbare Mahlmenge von 2-10 Tassen
-- Mahlt die gewünschte Menge an Kaffeebohnen und transportiert den gemahlenen Kaffee in den Filterträger, brüht auch bereits gemahlenen Kaffee
-- Außenliegende Wasserstandsanzeige mit Füllmengenmarkierung, automatische Abschaltung, Tropf-Stopp bei Kannenentnahme, Selbstreinigungsfunktion
-- Wassertank leicht zu befüllen, ausschwenkbare Filterträgereinheit mit herausnehmbarem, waschbarem Filterträger, brüht auch bereits gemahlenen Kaffee
 - Thermo-Kaffeemaschine mit integriertem konischen Kegelmahlwerk, hochwertige Thermokanne mit einem Fassungsvermögen von 10 Tassen (1, 25l)
+- Herausnehmbarer Vorratsbehälter für Kaffeebohnen mit einem Fassungsvermögen von 250g, einstellbare Mahlmenge von 2-10 Tassen
+- Digitales Bedienelement mit programmierbarem Timer, Brühstärkeneinstellung und Uhrzeit, 3-stufige Mahlgradeinstellung: grob, medium, fein
+- Wassertank leicht zu befüllen, ausschwenkbare Filterträgereinheit mit herausnehmbarem, waschbarem Filterträger, brüht auch bereits gemahlenen Kaffee
+- Außenliegende Wasserstandsanzeige mit Füllmengenmarkierung, automatische Abschaltung, Tropf-Stopp bei Kannenentnahme, Selbstreinigungsfunktion
+- Mahlt die gewünschte Menge an Kaffeebohnen und transportiert den gemahlenen Kaffee in den Filterträger, brüht auch bereits gemahlenen Kaffee
 - Motorschutz zum Verhindern dass harte Bohnen oder Steine das Mahlwerk beschädigen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W4KXHY1/?tag=tolees0ca-21)
