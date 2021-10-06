@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.77 % rabat auf Fenix  PD35 Tac  039-225'
-date: 2021-10-05 15:46:15
+date: 2021-10-06 18:50:21
 image: 'https://m.media-amazon.com/images/I/31wicoDalDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
