@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '38.47 % rabat auf Corsair SABRE PRO CHAMPION SERIES Gaming'
-date: 2021-10-05 21:45:06
+date: 2021-10-07 12:54:14
 image: 'https://m.media-amazon.com/images/I/21CxJxTuwKS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Es gibt ein [Corsair SABRE PRO CHAMPION SERIES Gaming-Maus  Ergonomische Form un
 
 ℹ️:
 
-- CORSAIR AXON Hyper-Processing-Technologie: Überträgt Ihre Bewegungen und Klicks mit 8.000-Hz-Hyper-Polling bis zu achtmal schneller an Ihren PC als konventionelle Gaming-Mäuse
-- CORSAIR QUICKSTRIKE-Tasten: Verfügen über eine Federung, und zwischen den primären Maustasten und ihren Switches ist kein Abstand vorhanden, sodass Ihre Klicks, Schüsse
-- Zugreduzierendes Paracord-Kabel: Ein extrem leichtes und flexibles Kabel mit Paracord-Gewebe reduziert den Zug, damit Ihre Mausbewegungen flüssig und agil bleiben
 - Ultraleicht, ultraschnell: Mit einem Gewicht von nur 69 g zur Unterstützung schneller Bewegungen und Reaktionen ist die SABRE PRO mit ihrem robusten Design selbst
+- Zugreduzierendes Paracord-Kabel: Ein extrem leichtes und flexibles Kabel mit Paracord-Gewebe reduziert den Zug, damit Ihre Mausbewegungen flüssig und agil bleiben
+- CORSAIR QUICKSTRIKE-Tasten: Verfügen über eine Federung, und zwischen den primären Maustasten und ihren Switches ist kein Abstand vorhanden, sodass Ihre Klicks, Schüsse
 - Geschaffen für Champions: Produkte der CORSAIR CHAMPION SERIES wurden für führende Esport-Profis entwickelt und von diesen getestet – für echte Sieger mit einer Maus auf Turnierniveau
 - Nativer optischer Sensor mit 18.000 DPI: Ein einstellbarer PixArt PMW3392-Sensor mit 450 IPS Tracking bei bis zu 50 G Beschleunigung, lässt sich in Auflösungsschritten von 1 DPI anpassen
+- CORSAIR AXON Hyper-Processing-Technologie: Überträgt Ihre Bewegungen und Klicks mit 8.000-Hz-Hyper-Polling bis zu achtmal schneller an Ihren PC als konventionelle Gaming-Mäuse
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ILQJBZK/?tag=tolees0ca-21)
