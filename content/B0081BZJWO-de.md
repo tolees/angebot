@@ -29,10 +29,10 @@ Sie können [NESTLÉ KITKAT CHUNKY Classic Schokoriegel  Knusper-Riegel mit Milc
 ℹ️:
 
 - Lieferumfang: Die Großpackung enthält 24 einzeln verpackte KITKAT CHUNKY Classic Riegel, ideal zum Verschenken oder als Thekendisplay einsetzbar
-- Knusper-Genuss: Die perfekte Balance aus Milchschokolade und knuspriger Waffel lässt die Herzen aller Schoko-Liebhaber höher schlagen
-- Pausen-Snack: Der KITKAT CHUNKY Classic Schokoriegel ist der perfekte Begleiter für die wohlverdiente Pause zwischendurch
 - Schokoriegel Großpackung machts möglich: Teilen Sie die Schokoladen-Box voller Knusper-Riegel aus Milchschokolade mit Freunden, Familie oder Kollegen
-- 100% nachhaltig erzeugter Kakao: Für unsere Schokolade beziehen wir Kakao von Rainforest Alliance-zertifizierten Farmen
+- Pausen-Snack: Der KITKAT CHUNKY Classic Schokoriegel ist der perfekte Begleiter für die wohlverdiente Pause zwischendurch
 - Have a break, have a KITKAT: Der beliebte Schokoladen-Klassiker lässt mit Milch & Kakao keine Wünsche offen und beschert als Multi-Pack viele unvergessliche Pausen
+- Knusper-Genuss: Die perfekte Balance aus Milchschokolade und knuspriger Waffel lässt die Herzen aller Schoko-Liebhaber höher schlagen
+- 100% nachhaltig erzeugter Kakao: Für unsere Schokolade beziehen wir Kakao von Rainforest Alliance-zertifizierten Farmen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0081BZJWO/?tag=tolees0ca-21)
