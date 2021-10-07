@@ -29,9 +29,9 @@ Es gibt ein [Schümli Crema Ganze Kaffeebohnen  1kg  Stärkegrad 2/5  Premium Ar
 ℹ️:
 
 - Dein Kaffee im Detail: Röstkaffee in ganzen Bohnen - Verpackung 1 kg - Intensität 2 von 5 - 100 Prozent Arabica - Empfohlene Tassengrösse: 110 ml Lungo
-- Kompatibilität: Ideal für Vollautomaten mit integriertem Mahlwerk, Espresso-Kolbenmaschine und klassischen Filteraufguss
 - Umweltfreundlich: Unserer Bohnenkaffee ist UTZ-zertifiziert. Wir setzten uns für eine verantwortungsbewusste, umweltfreundliche Kaffeeproduktion ein
-- Deine Schümli Crema: Edle Mischung aus hochwertigen Arabicabohnen. Eine ausgewogene, delikate Aroma und eine feine, köstliche Crema zeichnen diesen Kaffee aus
+- Kompatibilität: Ideal für Vollautomaten mit integriertem Mahlwerk, Espresso-Kolbenmaschine und klassischen Filteraufguss
 - Schweizer Premiumkaffee: Unsere Leidenschaft sind hochwertige Kaffeeprodukte. Wir beschaffen, veredeln und verpacken Kaffee seit 1954
+- Deine Schümli Crema: Edle Mischung aus hochwertigen Arabicabohnen. Eine ausgewogene, delikate Aroma und eine feine, köstliche Crema zeichnen diesen Kaffee aus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008CYEUZW/?tag=tolees0ca-21)
