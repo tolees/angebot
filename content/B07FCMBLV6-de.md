@@ -28,10 +28,10 @@ Es gibt ein [SanDisk Extreme microSDXC 64GB + SD Adapter + Rescue Pro Deluxe 160
 
 ℹ️:
 
-- Bis zu 160 MB/Sek. Lesegeschwindigkeit und 60 MB/Sek. Schreibgeschwindigkeit für schnelles Aufnehmen und Übertragen
 - 4K UHD-fähig mit UHS Speed Class 3 (U3) und Video Speed Class 30 (V30)
 - Einstufung A2 für schnelleres Laden und schnellere In-App-Performance
-- Konzipiert für und getestet unter extremen Bedingungen; temperaturbeständig, wasserdicht, stoßfest und röntgensicher. Betriebstemperatur: -25 ºC bis 85 ºC
+- Bis zu 160 MB/Sek. Lesegeschwindigkeit und 60 MB/Sek. Schreibgeschwindigkeit für schnelles Aufnehmen und Übertragen
 - Ideal für Android-basierte Smartphones und Tablets sowie Actionkameras und Drohnen
+- Konzipiert für und getestet unter extremen Bedingungen; temperaturbeständig, wasserdicht, stoßfest und röntgensicher. Betriebstemperatur: -25 ºC bis 85 ºC
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FCMBLV6/?tag=tolees0ca-21)
