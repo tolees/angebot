@@ -28,10 +28,10 @@ Es gibt ein [Roccat Kone AIMO Gaming Maus  hohe Präzision  Optischer Owl-Eye Se
 
 ℹ️:
 
-- Einzigartige Form mit außergewöhnlicher Ergonomie, angepasst an deine Hand
 - Optischer ROCCAT Owl-Eye Sensor mit 16.000 dpi
 - Aimo Beleuchtung – rgba-hintergrundbeleuchtung und LED-Lichteffekte
 - 5 unabhängig konfigurierbare Beleuchtungszonen; Systemvoraussetzungen: USB 2.0 (oder höher), Internetverbindung (für Treibersoftware) Betriebssystem: Windows 7, Windows 8
+- Einzigartige Form mit außergewöhnlicher Ergonomie, angepasst an deine Hand
 - Griffige, langlebige und schmutzabweisende Beschichtung, die sich weich anfühlt | easy-shift[+]-technologie für 24 mögliche Funktionen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07YCFZJN4/?tag=tolees0ca-21)
