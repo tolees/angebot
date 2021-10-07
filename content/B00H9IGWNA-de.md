@@ -28,9 +28,9 @@ Sie können [Bruno Banani Fragrance - bruno banani Man Deodorant Spray  1er Pack
 
 ℹ️:
 
-- Sternanis, Kaffee, Edelhölzer
-- Aromatisch-frische Duft selbstbewusster Männer, die sich selber nicht zu ernst nehmen
-- Frisch, aromatisch
 - Packung die Größe: 5.0 L x 16.0 H x 5.0 W (cm)
+- Aromatisch-frische Duft selbstbewusster Männer, die sich selber nicht zu ernst nehmen
+- Sternanis, Kaffee, Edelhölzer
+- Frisch, aromatisch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00H9IGWNA/?tag=tolees0ca-21)
