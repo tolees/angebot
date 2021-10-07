@@ -28,14 +28,14 @@ Sie können [Weber 46415079 Gasgrill Spirit E-320 Classic  Schwarz  flexible Gri
 
 ℹ️:
 
-- Flavorizer Bars Aromaschienen: aus emailliertem Stahl, schützen die Brenner
-- 3 Edelstahlbrenner: stufenlos regelbar
-- 2 feste Seitentische mit je 3 Besteckhaken
-- Warmhalterost: vergrößert die nutzbare Fläche des Grills
-- 4 Lenkrollen, 2 davon mit Stoppfunktion
-- Versenkt eingebauter Seitenkocher mit 3,5 kW: zum Zubereiten von Beilagen
-- Emaillierter Deckel mit Deckelthermometer: zur optimalen Temperaturkontrolle beim Grillen
 - Crossover Zündsystem: Zuschalten des zweiten und dritten Brenners ohne weiteres Zünden
+- 2 feste Seitentische mit je 3 Besteckhaken
 - 2-geteilter Grillrost aus emailliertem Stahl
+- 4 Lenkrollen, 2 davon mit Stoppfunktion
+- 3 Edelstahlbrenner: stufenlos regelbar
+- Emaillierter Deckel mit Deckelthermometer: zur optimalen Temperaturkontrolle beim Grillen
+- Warmhalterost: vergrößert die nutzbare Fläche des Grills
+- Versenkt eingebauter Seitenkocher mit 3,5 kW: zum Zubereiten von Beilagen
+- Flavorizer Bars Aromaschienen: aus emailliertem Stahl, schützen die Brenner
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00R01EJOA/?tag=tolees0ca-21)

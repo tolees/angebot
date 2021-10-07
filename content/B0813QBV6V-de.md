@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.00 % rabat auf LEGO 75969 Harry Potter Astronomieturm a'
-date: 2021-10-06 00:57:14
+date: 2021-10-07 04:50:52
 image: 'https://m.media-amazon.com/images/I/51GYY-xXleL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813QBV6V/?tag=tolees0ca-21'
 descuento: '27.00'
-average: '76.5017263157889'
+average: '76.4943487394952'
 ---
 
 Es gibt ein [LEGO 75969 Harry Potter Astronomieturm auf Schloss Hogwarts  Spielzeug kompatibel mit der Großen Halle von Hogwarts und der Peitschenden Weide](https://www.amazon.de/dp/B0813QBV6V/?tag=tolees0ca-21) mit aktuellem Preis 72.99 EUR (original: 99.99 EUR) 27.00 % Rabatt hier:

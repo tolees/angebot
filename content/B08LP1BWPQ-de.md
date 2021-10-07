@@ -28,12 +28,12 @@ Sie können [tado° Smartes Heizkörper-Thermostat - Starter Kit V3+ – Intelli
 
 ℹ️:
 
-- Steuern Sie Ihre Heizung von überall aus mit der tado° App, reduzieren Sie Ihren Energieverbrauch und sparen Sie Geld mit den intelligenten Funktionen von tado°
+- Wenn niemand zuhause ist oder ein offenes Fenster erkannt wurde, erinnert Sie die tado° App per Push-Nachricht daran, die Heizung herunterzuregeln
 - Dank Intelligenter Zeitpläne stellt tado° individuell für jeden Raum, zu jeder Zeit die perfekte Temperatur ein – natürlich nur, wenn jemand zuhause ist; Ein- und Ausschalten auch per Kurzbefehl
 - Raumluft-Komfort: Erhalten Sie Einblicke in die Qualität der Raumluft und Hinweise, wenn z.B. die Luft zu feucht ist und Schimmel droht
-- Wenn niemand zuhause ist oder ein offenes Fenster erkannt wurde, erinnert Sie die tado° App per Push-Nachricht daran, die Heizung herunterzuregeln
 - Weitere Features: Einbeziehung der Wettervorhersage, Auswertungen & Statistiken, Energiesparreport; Aufheiz-Funktion, Kindersicherung, Frostschutz
-- Mehr Vorteile mit Auto Assist (optional): Ist keiner zuhause oder wurden offene Fenster erkannt, regelt tado° die Heizung automatisch herunter; Care & Protect hilft, Heizungsprobleme zu lösen (In-App buchbar, monatlich kündbar; 2,99€/Monat)
 - Für Zentralheizung und Fernwärme; passt auf die meisten Heizkörper mit thermostatischen Heizkörperventilen (verschiedene Adapter sind enthalten)
+- Mehr Vorteile mit Auto Assist (optional): Ist keiner zuhause oder wurden offene Fenster erkannt, regelt tado° die Heizung automatisch herunter; Care & Protect hilft, Heizungsprobleme zu lösen (In-App buchbar, monatlich kündbar; 2,99€/Monat)
+- Steuern Sie Ihre Heizung von überall aus mit der tado° App, reduzieren Sie Ihren Energieverbrauch und sparen Sie Geld mit den intelligenten Funktionen von tado°
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08LP1BWPQ/?tag=tolees0ca-21)

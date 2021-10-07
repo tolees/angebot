@@ -28,10 +28,10 @@ Sie können [Hama Outdoor Steckdosenleiste mit Schalter  2-fach  2m  spritzwasse
 
 ℹ️:
 
-- Geeignet zur Wandmontage: Integrierte Aufhängeösen zum Anschrauben des Steckdosenverteilers an die Wand
-- Steckdoseneinsätze um 45° gedreht: Ideal für Winkelstecker, Schutzkontaktstecker, Euro- und Konturenstecker, Kabellänge: 2,0 m, Adernquerschnitt: 1,5 mm², Betriebsspannung: 230 V, Max. Anschlussleistung: 3500 W
 - Lieferumfang: 1 Steckdosenleiste
 - Robuste Verteiler-Steckdose für Draußen: Zum Anschluss von bis zu zwei elektrischen Verbrauchern im Außen-Bereich, mit beleuchtetem 2-poligen Ein-/Ausschalter und selbstschließenden Deckeln, GS-geprüft
 - Schutz nach IP44: Geschützt gegen Spritzwasser und feste Fremdkörper mit Durchmesser ab >1,0 mm, ideal zum Dauereinsatz in Garten, Garage, Baustelle, etc., H07RN-F Kabel für hohe mechanische Belastung
+- Geeignet zur Wandmontage: Integrierte Aufhängeösen zum Anschrauben des Steckdosenverteilers an die Wand
+- Steckdoseneinsätze um 45° gedreht: Ideal für Winkelstecker, Schutzkontaktstecker, Euro- und Konturenstecker, Kabellänge: 2,0 m, Adernquerschnitt: 1,5 mm², Betriebsspannung: 230 V, Max. Anschlussleistung: 3500 W
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06ZXTZ519/?tag=tolees0ca-21)
