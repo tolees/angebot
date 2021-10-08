@@ -28,10 +28,10 @@ Sie können [Philips Kabelloser Akkusauger  360 Grad-Saugdüse](https://www.amaz
 
 ℹ️:
 
-- Die LED-Beleuchtung an der Düse zeigt selbst den versteckten Staub und sorgt für ein komplettes Ergebnis
-- Der Handstaubsauger mit Fugendüse und die integrierte Bürste ermöglichen müheloses Reinigen von schwer zu erreichenden Bereichen
 - Der leistungsstarke 25, 2V Li-Ion-Akku bietet eine Laufzeit bis zu 65 Minuten (Turbo: 21 Min. ); das digitale Display zeigt die Geschwindigkeitsstufe und den Batterieverbrauch an
 - Die 360°-Saugdüse ist für Hart- und Teppichboden geeignet und nimmt selbst rückwärts und von den Seiten Schmutz und Staub auf
 - Die PowerCyclone 8 Technologie sorgt für eine langanhaltende und kraftvolle Saugleistung
+- Die LED-Beleuchtung an der Düse zeigt selbst den versteckten Staub und sorgt für ein komplettes Ergebnis
+- Der Handstaubsauger mit Fugendüse und die integrierte Bürste ermöglichen müheloses Reinigen von schwer zu erreichenden Bereichen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079SPVQFN/?tag=tolees0ca-21)
