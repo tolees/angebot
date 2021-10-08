@@ -28,8 +28,8 @@ Sie können [Sony KD-49XH9505 Bravia 124 cm   49 Zoll  Fernseher  Android TV  LE
 
 ℹ️:
 
-- Mit Google Chromecast und Apple AirPlay können Sie Video und Audio direkt von Ihrem iPhone, iPad oder Android Gerät auf Ihren Fernseher streamen.
 - X-Motion Clarity & X-Wide Angle bieten eine gestochen scharfe Wiedergabe und natürliche Farben aus jedem Betrachtungswinkel, selbst in schnellen Szenen.
+- Mit Google Chromecast und Apple AirPlay können Sie Video und Audio direkt von Ihrem iPhone, iPad oder Android Gerät auf Ihren Fernseher streamen.
 - Full Array LED beeindruckt durch überragende Bildqualität dank intelligenter und präziser LED-Ansteuerung.
 - Bildprozessor X1 Ultimate für eine unübertroffen realistische Bildqualität.
 - Das flache, durchgängige Design mit separatem Standfuß und dünnem Rahmen lässt Ihnen die Freiheit, sich auf das Wichtigste zu konzentrieren – das Bild.
