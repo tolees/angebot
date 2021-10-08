@@ -28,8 +28,8 @@ Es gibt ein [Fenix  PD35 Tac  039-225](https://www.amazon.de/dp/B010ESCLHW/?tag=
 
 ℹ️:
 
+- 137mm (Länge) x 25.4mm (Durchmesser)
 - Leuchtweite: max. 200 Meter
 - Cree XP-L (V5) LEDOutdoor-Modus mit 5 Stufen & Strobe:8 Lumen 140 Std.60 Lumen 29 Std. 15 Min.200 Lumen 8 Std. 30 Min.500 Lumen 2 Std. 55 min.max. 1.000 Lumen 1 Std. 10 Min.*max. 1.000 Lumen Strobe
-- 137mm (Länge) x 25.4mm (Durchmesser)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B010ESCLHW/?tag=tolees0ca-21)

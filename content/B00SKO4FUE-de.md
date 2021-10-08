@@ -29,9 +29,9 @@ Es gibt ein [Pentax AD 8x25 WP Fernglas Schwarz](https://www.amazon.de/dp/B00SKO
 ℹ️:
 
 - Lieferumfang: Pentax AD 8 x 25 WP Fernglas
-- Durchgehende Gummiarmierung zum Schutz und für sicheren Halt
-- Innenfokussierung; Enhanced Light Transmission Vergütung
 - Wasserdicht (JIS 6 Klassifizierung) mit Stickstofffüllung
+- Innenfokussierung; Enhanced Light Transmission Vergütung
 - Mehrfach Vergütung auf allen Linsen; Kurzer Mindestabstand
+- Durchgehende Gummiarmierung zum Schutz und für sicheren Halt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00SKO4FUE/?tag=tolees0ca-21)

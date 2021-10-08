@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.42 % rabat auf ABUS 517969 Faltschloss Bordo Combo 6100'
-date: 2021-10-06 20:16:56
+date: 2021-10-07 23:32:44
 image: 'https://m.media-amazon.com/images/I/318pL38nzML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'ABUS'
 buyurl: 'https://www.amazon.de/dp/B0046RZFK8/?tag=tolees0ca-21'
 descuento: '44.42'
-average: '65.11'
+average: '62.086'
 ---
 
 Es gibt ein [ABUS 517969 Faltschloss Bordo Combo 6100/90 mit Schlosstasche - Fahrradschloss aus gehärtetem Stahl - mit Zahlencode - ABUS-Sicherheitslevel 9 - 90 cm - Schwarz](https://www.amazon.de/dp/B0046RZFK8/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 89.95 EUR) 44.42 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [ABUS 517969 Faltschloss Bordo Combo 6100/90 mit Schlosstasche - Fah
 
 ℹ️:
 
-- Faltbar und kompakt: Die Spezialnieten erlauben flexibles Zusammenfalten des Schlosses zu einer handlichen Größe und somit den leichten und platzsparenden Transport
-- Das Zahlenschloss mit ABUS-Sicherheitslevel 9: Faltschloss mit 5 mm starken Stäben aus gehärtetem Stahl und individuell einstellbarem Zahlencode, z. B. wenn Sie sich mit Freunden ein Rad teilen
 - Attraktives Design: Die extra weiche 2-Komponenten-Ummantelung überzeugt optisch und schützt zuverlässig vor Lackschäden wie z. B. Kratzern am Fahrrad
-- Zuverlässiges Schloss: Länge 90 cm, Gewicht 1250 g, ABUS-Sicherheitslevel 9, inkl. Tasche zum Transport des Schlosses
 - ST-Schlosstasche: Befestigung mit Anti-Rutsch-Klettbändern oder Schrauben an der Flaschenhalterung - Schloss muss nach oben aus der Halterung gezogen werden
+- Das Zahlenschloss mit ABUS-Sicherheitslevel 9: Faltschloss mit 5 mm starken Stäben aus gehärtetem Stahl und individuell einstellbarem Zahlencode, z. B. wenn Sie sich mit Freunden ein Rad teilen
+- Zuverlässiges Schloss: Länge 90 cm, Gewicht 1250 g, ABUS-Sicherheitslevel 9, inkl. Tasche zum Transport des Schlosses
+- Faltbar und kompakt: Die Spezialnieten erlauben flexibles Zusammenfalten des Schlosses zu einer handlichen Größe und somit den leichten und platzsparenden Transport
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0046RZFK8/?tag=tolees0ca-21)
