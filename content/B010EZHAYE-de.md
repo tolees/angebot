@@ -28,10 +28,10 @@ Es gibt ein [POLTI PVEU0085 FAV80 Dampfsauger  tötet und beseitigt 99 99%* der 
 
 ℹ️:
 
-- System: Ständige Nachfüllbarkeit des Wassers für die Dampfreinigung. Aufheizdauer: 6 Min.
 - Der Dampf von Polti Vaporetto Lecoaspira tötet und beseitigt 99,99%* der Viren, Keime und Bakterien.
 - Das Heizkesselmaterial ist eine Aluminiumlegierung Extra Alp
-- Anzeigen für: Druckkontrolle/ Dampf bereit/ Signal bei fehlendem Wasser
 - 4-Stufige Dampfregulierung (bis zu 120 gr/min) und maximalen Dampfdruck von 6.0 BAR / 4-stufige Saugleistungsregulierung
+- Anzeigen für: Druckkontrolle/ Dampf bereit/ Signal bei fehlendem Wasser
+- System: Ständige Nachfüllbarkeit des Wassers für die Dampfreinigung. Aufheizdauer: 6 Min.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B010EZHAYE/?tag=tolees0ca-21)

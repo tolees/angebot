@@ -28,9 +28,9 @@ Es gibt ein [Premium-Filzstift - STABILO Pen 68 ColorParade - 20er Tischset in r
 
 ℹ️:
 
-- Robuste Spitze (Strichstärke: 1 mm)
 - Farbintensiver Premium-Filzstift
 - Bis zu 24 Stunden Austrocknungsschutz ohne Kappe
+- Robuste Spitze (Strichstärke: 1 mm)
 - In vielen brillanten Farben erhältlich
 - Hohe Farbbrillanz und Leuchtkraft
 
