@@ -28,8 +28,8 @@ Es gibt ein [Bounty Zartherb  24er Pack  24 x 57 g ](https://www.amazon.de/dp/B0
 
 ℹ️:
 
+- Kokos und zartherbe Schokolade führen dich in neue Geschmackswelten
 - Bounty Zartherb - Exotische Frische für paradiesische Momente
 - Ideal für unterwegs
-- Kokos und zartherbe Schokolade führen dich in neue Geschmackswelten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00XJLJXDC/?tag=tolees0ca-21)
