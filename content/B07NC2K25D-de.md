@@ -28,9 +28,9 @@ Sie können [Razer Seiren X Streaming Microphone Built-In Shock Mount Quartz Pin
 
 ℹ️:
 
+- Integrierte Stoßdämpferhalterung zur Dämpfung von Vibrationen
 - Supernieren-Pick-up-Muster zur Reduzierung von Hintergrundgeräuschen
 - Stummschalttaste
-- Integrierte Stoßdämpferhalterung zur Dämpfung von Vibrationen
 - 3, 5-mm-Kopfhörer-Monitoring-Anschluss ohne Latenz
 - Kondensatormikrofon für Streaming
 

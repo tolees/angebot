@@ -28,11 +28,11 @@ Es gibt ein [Kingston FURY Impact 32GB  2x16GB  3200MHz DDR4 CL20 Laptop Speiche
 
 ℹ️:
 
-- Hohe Leistung trifft geringen Stromverbrauch
 - Intel XMP-Ready Profile
-- Leistungsstarke SODIMM-Performance
 - AMD Ryzen-Ready
 - Schlanke Form, elegantes Design
+- Leistungsstarke SODIMM-Performance
 - Plug-and-Play Funktionalität für eine automatische Übertaktung¹
+- Hohe Leistung trifft geringen Stromverbrauch
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B097TM4C4S/?tag=tolees0ca-21)
