@@ -28,13 +28,13 @@ Sie können [Somfy 2401507 - Innenkamera | Motorisierte Blende | Bewegungsmelder
 
 ℹ️:
 
-- Kostenlose Videoaufzeichnungen, die Sie herunterladen können (10sec Clips bei Erkennung)
-- Sehen Sie sich das Video live auf Ihrem Smartphone aus an, egal wo Sie sich befinden
-- Intelligente Bewegungserkennung durch eine Kombination aus Infrarot- und Bildanalyse
-- Arbeitet autonom oder als Ergänzung zu einem Somfy-Protect-Sicherheitssystem: Somfy Home Alarm, Somfy One(+) oder Myfox Home Alarm. Nicht kompatibel mit Protexiom, Myfox Home Control, Evology und Domotag Alarmanlagen
-- Automatische motorisierte Blende, die das Objektiv abdeckt, wenn Sie zu Hause sind, und Ihre Privatsphäre schützt
 - Inkl. Lautsprecher und Mikrofon
-- Full-HD 1080p Überwachungskamera mit Nachtsicht, 130° Weitwinkel und 8x Zoom
 - Sofortige Benachrichtigung auf Ihren Smartphones bei Bewegungserkennung
+- Kostenlose Videoaufzeichnungen, die Sie herunterladen können (10sec Clips bei Erkennung)
+- Automatische motorisierte Blende, die das Objektiv abdeckt, wenn Sie zu Hause sind, und Ihre Privatsphäre schützt
+- Intelligente Bewegungserkennung durch eine Kombination aus Infrarot- und Bildanalyse
+- Sehen Sie sich das Video live auf Ihrem Smartphone aus an, egal wo Sie sich befinden
+- Arbeitet autonom oder als Ergänzung zu einem Somfy-Protect-Sicherheitssystem: Somfy Home Alarm, Somfy One(+) oder Myfox Home Alarm. Nicht kompatibel mit Protexiom, Myfox Home Control, Evology und Domotag Alarmanlagen
+- Full-HD 1080p Überwachungskamera mit Nachtsicht, 130° Weitwinkel und 8x Zoom
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07D7JKSMJ/?tag=tolees0ca-21)

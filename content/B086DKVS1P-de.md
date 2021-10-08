@@ -28,13 +28,13 @@ Sie können [Blink Home Security - Blink Outdoor – kabellose  witterungsbestä
 
 ℹ️:
 
+- Blink Outdoor ist eine kabellose, batteriebetriebene HD-Überwachungskamera, mit der Sie Ihr Zuhause am Tag und mit Infrarot-Nachtsicht bei Dunkelheit überwachen können.
 - Bei Bewegungserfassung können Sie Benachrichtigungen auf Ihr Telefon erhalten, mit der Option, Bewegungszonen in der Blink Home Monitor App so anzupassen, dass Sie nur bei wichtigen Ereignissen benachrichtigt werden.
-- Einfach in wenigen Minuten selbst einzurichten. Keine Verdrahtung oder professionelle Installation erforderlich.
-- Sehen und hören Sie Besucher und sprechen Sie mit ihnen in Echtzeit über die Blink Home Monitor App, dank Live-Video und Zwei-Wege-Audio (Live-Video wird nicht kontinuierlich aufgezeichnet).
 - Funktioniert mit Alexa – überwachen Sie Ihr Zuhause per Sprachbefehl über unterstützte Alexa-fähige Geräte.
+- Sehen und hören Sie Besucher und sprechen Sie mit ihnen in Echtzeit über die Blink Home Monitor App, dank Live-Video und Zwei-Wege-Audio (Live-Video wird nicht kontinuierlich aufgezeichnet).
 - Videoclips können mit einem Blink-Abo in der Cloud und lokal über einen USB-Stick (separat erhältlich) auf dem mitgelieferten Blink Sync Module 2 gespeichert werden. Für die Nutzung der lokalen Videospeicherung fallen keine monatlichen Gebühren an.
 - Dank der langen Batterielebensdauer läuft die Outdoor-Kamera bis zu zwei Jahre mit zwei AA-Lithiumbatterien (im Lieferumfang enthalten).
-- Blink Outdoor ist eine kabellose, batteriebetriebene HD-Überwachungskamera, mit der Sie Ihr Zuhause am Tag und mit Infrarot-Nachtsicht bei Dunkelheit überwachen können.
+- Einfach in wenigen Minuten selbst einzurichten. Keine Verdrahtung oder professionelle Installation erforderlich.
 - Blink Outdoor ist darauf ausgelegt, den Elementen standzuhalten, damit Sie Ihr Zuhause innen oder außen bei jeder Witterung schützen können.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B086DKVS1P/?tag=tolees0ca-21)
