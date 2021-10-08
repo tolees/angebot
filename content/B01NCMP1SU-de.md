@@ -29,9 +29,9 @@ Sie können [VON HEESEN® Regenschirm sturmfest bis 140 km/h - inkl. Schirm-Tasc
 ℹ️:
 
 - ✔ RAHMENKONSTRUKTION – große Regenschirme sind im Alltag unpraktisch. Dank der stabilen Rahmenkonstruktion und der 9-fach Verstrebung ist der Taschenschirm kompakt (32 cm) & leicht zugleich (400 Gramm).
-- ✔ AUF-ZU-AUTOMATIK – Egal ob Regen, Wind oder Sturm, mit nur einem Knopfdruck öffnet und schließt der Regenschirm (95 cm Spannweite) jederzeit schnell, bequem und zuverlässig.
-- ✔ TEFLON BESCHICHTUNG – Windstärke 12 und Windgeschwindigkeiten bis zu 140 km/h sind kein Problem, denn die 210T Schirm-Bespannung ist extrem robust und dank DuPont Teflon-Beschichtung schnelltrocknend & schimmelresistent.
 - ✔ ERGONOMISCHER GRIFF – Bei nasskaltem Wetter sorgt die Anti-Rutsch-Beschichtung für ein warmes Griffgefühl. Dank Trageschlaufe lässt sich der Schirm bequem am Handgelenk tragen oder zum Trocknen aufhängen.
+- ✔ TEFLON BESCHICHTUNG – Windstärke 12 und Windgeschwindigkeiten bis zu 140 km/h sind kein Problem, denn die 210T Schirm-Bespannung ist extrem robust und dank DuPont Teflon-Beschichtung schnelltrocknend & schimmelresistent.
 - ✔ REISEETUI UND HARDCASE – Schirmhüllen sind oft zu eng, doch dank des seitlichen Reißverschlusses lässt sich der Reiseschirm kinderleicht verpacken und ist durch das stabile Hard-Case bestens geschützt.
+- ✔ AUF-ZU-AUTOMATIK – Egal ob Regen, Wind oder Sturm, mit nur einem Knopfdruck öffnet und schließt der Regenschirm (95 cm Spannweite) jederzeit schnell, bequem und zuverlässig.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NCMP1SU/?tag=tolees0ca-21)
