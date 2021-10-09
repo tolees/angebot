@@ -28,9 +28,9 @@ Sie können [FIBARO FGBHFS-101 Wassermelder  Apple HomeKit   Weiß](https://www.
 
 ℹ️:
 
-- Kompatibel mit Apple Home Kit-Technologie
 - Integrierte LED-Anzeige
-- Erkennt Überschwemmungen und Manipulationen
 - Mit Bluetooth Low Energie Technologie
+- Erkennt Überschwemmungen und Manipulationen
+- Kompatibel mit Apple Home Kit-Technologie
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01NAL7MIV/?tag=tolees0ca-21)

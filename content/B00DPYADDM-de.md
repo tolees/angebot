@@ -28,9 +28,9 @@ Es gibt ein [HIGHLIFE  - DAX High Life Pomade Medium](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- Lässt sich gut fomen
 - Mittelfeste Pomade mit Kokosduft
 - Mit Avocado-, Jojoba- und Teebaum-Öl
+- Lässt sich gut fomen
 - Perfekt für normales Haar
 - ACHTUNG: Schwer auswaschbar!
 

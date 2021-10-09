@@ -28,10 +28,10 @@ Es gibt ein [Fiskars Unkrautstecher  Länge: 1 m  Rostfreie Stahl-Arme/Kunststof
 
 ℹ️:
 
-- Rückenschonende Arbeitshaltung ohne Bücken, Entlastung der Schulter- sowie Rückenmuskulatur durch langen Stiel, Ergonomischer Griff für angenehme und schonende Position der Hand und Finger
-- Unkrautstecher für langfristiges, umweltfreundliches Entfernen von Unkraut mit einem Stängeldurchmesser bis 4 cm, Ideal für Löwenzahn, Disteln, Brennnesseln und andere Wurzelgewächse in weichen, steinarmen Böden, Beeten oder im Rasen
+- Umgreifen des Unkrauts von 4 Seiten durch 10 cm tief in den Boden reichende Arme, Herausziehen der Pflanze mitsamt ihrer Wurzel dank des patentierten Greifmechanismus, Einfaches Lösen des Unkrauts aus den Greifarmen durch Schieben des Griffs
 - Lieferumfang: 1x Fiskars Xact Unkrautstecher, Länge: 1 m, Durchmesser: 3 cm, Gewicht: 950 g, Material: Rostfreier Stahl/Kunststoff, Farbe: Schwarz/Orange, 1020126
 - Verbessertes Pedaldesign für 30% höhere Belastbarkeit, Hohe Langlebigkeit der vier rostfreien Stahl-Arme und des Kunststoffgriffs, Leichtes Reinigen mit Wasser, Finnisches Design
-- Umgreifen des Unkrauts von 4 Seiten durch 10 cm tief in den Boden reichende Arme, Herausziehen der Pflanze mitsamt ihrer Wurzel dank des patentierten Greifmechanismus, Einfaches Lösen des Unkrauts aus den Greifarmen durch Schieben des Griffs
+- Rückenschonende Arbeitshaltung ohne Bücken, Entlastung der Schulter- sowie Rückenmuskulatur durch langen Stiel, Ergonomischer Griff für angenehme und schonende Position der Hand und Finger
+- Unkrautstecher für langfristiges, umweltfreundliches Entfernen von Unkraut mit einem Stängeldurchmesser bis 4 cm, Ideal für Löwenzahn, Disteln, Brennnesseln und andere Wurzelgewächse in weichen, steinarmen Böden, Beeten oder im Rasen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B017D2JDS2/?tag=tolees0ca-21)
