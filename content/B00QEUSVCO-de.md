@@ -28,11 +28,11 @@ Es gibt ein [Persil Color Pulver  100 Waschladungen   Colorwaschmittel mit Tiefe
 
 ℹ️:
 
-- Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen.
-- Nachhaltige Verpackung – Das Pulverwaschmittel für eine saubere Welt: Das Persil Waschmittel kommt in einer Verpackung aus 100 % recycelten Papierfasern und ist recycelbar. Bitte den Karton nach Gebrauch recyceln.
-- Leuchtende Farben – Nach dem Waschgang sorgt das Waschpulver für strahlende Leuchtkraft bei Buntwäsche und schützt auch nach wiederholtem Waschen vor Vergrauung.
 - Langanhaltende Frische – Mit aktivem Frische-Effekt bekämpft das Color Waschmittel Gerüche und sorgt für eine angenehme, langanhaltende Frische für die Kleidung.
-- Optimale Faserschonung – Mit dem Waschmittel werden die Fasern beim Wäschewaschen vor Flusenbildung geschützt – moderne Pflege für alle Lieblingstextilien.
 - Kraftvolle Fleckentfernung – Das Waschmittel Pulver mit Tiefenrein-Plus Technologie dringt tief in die Fasern ein und entfernt selbst hartnäckigste Flecken.
+- Optimale Faserschonung – Mit dem Waschmittel werden die Fasern beim Wäschewaschen vor Flusenbildung geschützt – moderne Pflege für alle Lieblingstextilien.
+- Nachhaltige Verpackung – Das Pulverwaschmittel für eine saubere Welt: Das Persil Waschmittel kommt in einer Verpackung aus 100 % recycelten Papierfasern und ist recycelbar. Bitte den Karton nach Gebrauch recyceln.
+- Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen.
+- Leuchtende Farben – Nach dem Waschgang sorgt das Waschpulver für strahlende Leuchtkraft bei Buntwäsche und schützt auch nach wiederholtem Waschen vor Vergrauung.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00QEUSVCO/?tag=tolees0ca-21)
