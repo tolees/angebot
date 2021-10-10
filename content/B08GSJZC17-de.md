@@ -28,13 +28,13 @@ Sie können [instax Mini 11 Camera  Sky Blue & Mini Instant Film  2X 10 Blatt  2
 
 ℹ️:
 
-- Produkt 2: Die lebhaften, brillanten Farben entsprechen genau dem natürlichen Eindruck
 - Produkt 2: Lieferumfang:2x Instax Mini Film
-- Produkt 1: Automatikblitz für perfekte Aufnahmen
-- Produkt 2: Durch die Freifläche am unteren Rand des Bildes können Bilder individuell beschriftet werden - So wird das Foto zur Grußkarte
-- Produkt 1: instax mini film, Bildgröße 54 (b) x 86 (H), Aufnahmengröße 46 (b) x 62 (H) mm
-- Produkt 1: instax mini 11 Camera, Handschlaufe, 2 x Auslöseknöpfe, Bedienungsanleitung und AA Batterien x 2
-- Produkt 1: eingebaute Selfielinse mit Selfi-Spiegel
 - Produkt 2: Bei ISO 800 und superfeinem Korn erscheinen die Hauttöne besonders gleichmäßig
+- Produkt 1: instax mini film, Bildgröße 54 (b) x 86 (H), Aufnahmengröße 46 (b) x 62 (H) mm
+- Produkt 1: Automatikblitz für perfekte Aufnahmen
+- Produkt 1: eingebaute Selfielinse mit Selfi-Spiegel
+- Produkt 1: instax mini 11 Camera, Handschlaufe, 2 x Auslöseknöpfe, Bedienungsanleitung und AA Batterien x 2
+- Produkt 2: Durch die Freifläche am unteren Rand des Bildes können Bilder individuell beschriftet werden - So wird das Foto zur Grußkarte
+- Produkt 2: Die lebhaften, brillanten Farben entsprechen genau dem natürlichen Eindruck
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08GSJZC17/?tag=tolees0ca-21)

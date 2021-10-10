@@ -28,10 +28,10 @@ Sie können [GP Lithium Knopfzellen CR2032 3V  Knopfbatterien CR 2032 / DL2032  
 
 ℹ️:
 
-- CR2032 3V Batterien CR 2032 Knopfzelle (Lithium Knopfbatterien CR2032 der Marke GP Batteries)
-- Primär Lithium: Li-Mn Kapazitat: 230 mAh Spannung: 3Volt. Maße: Durchmesser 32 mm x Höhe 2 mm. 20 Stück Multipack (4mal 5 Stück, einzeln entnehmbar)
 - Original Neuware vom Hersteller GP Batteries. GP - der Marktführer für wiederaufladbare Produkte in Europa. Über 50 Jahre Erfahrung garantieren Ihnen hochwertige Produkte und umfassende Sicherheit für Ihre Geräte. Interne Entwicklung und eigene Produktionsstätten garantieren eine gleichbleibende Qualität unserer Batterien und Akkus. Bei Verkauf durch GP Batteries und Versand durch Amazon handelt es sich um Original GP Markenware
-- Hohe Energiedichte und geringe Selbstentladung. Beste Qualität und Langlebigkeit
 - Für verschiedenste Geräte- und Verbraucheranwendungen wie z.B. Auto-Schlüssel, Taschenrechner, Fernbedienungen, Film- und Fotogeräte, eBooks, digitale Thermometer, Blutdruckmessgeräte, medizinische Geräte, Kameras, Uhren, Fahrrad-Computer, TAN-Generatoren, elektrische LED Teelichter, Votivkerzen, Sport-Equipment, , u.v.m
+- Primär Lithium: Li-Mn Kapazitat: 230 mAh Spannung: 3Volt. Maße: Durchmesser 32 mm x Höhe 2 mm. 20 Stück Multipack (4mal 5 Stück, einzeln entnehmbar)
+- CR2032 3V Batterien CR 2032 Knopfzelle (Lithium Knopfbatterien CR2032 der Marke GP Batteries)
+- Hohe Energiedichte und geringe Selbstentladung. Beste Qualität und Langlebigkeit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LZWDCVN/?tag=tolees0ca-21)

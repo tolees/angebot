@@ -28,13 +28,13 @@ Es gibt ein [instax Mini 11 Camera  Sky Blue & Mini Star WW1 Film  Rosa](https:/
 
 ℹ️:
 
-- Produkt 2: Bildränder im Sternen-Design
-- Produkt 1: instax mini 11 Camera, Handschlaufe, 2 x Auslöseknöpfe, Bedienungsanleitung und AA Batterien x 2
 - Produkt 2: für alle Instax Mini Kameras und Instax Share SP1 / SP2
-- Produkt 1: eingebaute Selfielinse mit Selfi-Spiegel
-- Produkt 1: Automatikblitz für perfekte Aufnahmen
+- Produkt 2: Bildränder im Sternen-Design
 - Produkt 2: 10 Bilder
-- Produkt 2: Lieferumfang : Film
 - Produkt 1: instax mini film, Bildgröße 54 (b) x 86 (H), Aufnahmengröße 46 (b) x 62 (H) mm
+- Produkt 1: eingebaute Selfielinse mit Selfi-Spiegel
+- Produkt 2: Lieferumfang : Film
+- Produkt 1: instax mini 11 Camera, Handschlaufe, 2 x Auslöseknöpfe, Bedienungsanleitung und AA Batterien x 2
+- Produkt 1: Automatikblitz für perfekte Aufnahmen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GSLW2BY/?tag=tolees0ca-21)
