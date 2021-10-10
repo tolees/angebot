@@ -28,8 +28,8 @@ Es gibt ein [PQube - Kitaria Fables](https://www.amazon.de/dp/B09698HKZJ/?tag=to
 
 ℹ️:
 
-- Mit Schwert, Bogen und Zauberbuch bewaffnet, kämpfst du gegen eine aufsteigende Dunkelheit, die die Welt bedroht.
 - Kitaria Fables ist ein entzückend süßes Action-Abenteuer-Rollenspiel mit Landwirtschaft und Handwerk!
+- Mit Schwert, Bogen und Zauberbuch bewaffnet, kämpfst du gegen eine aufsteigende Dunkelheit, die die Welt bedroht.
 - Entdecke verschiedene Regionen auf der Suche nach Relikten und Ressourcen, kümmere dich um deine Farm, um deine eigenen Vorräte anzubauen, und übernehme Quests alleine oder mit einem Freund im lokalen Koop-Modus!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B09698HKZJ/?tag=tolees0ca-21)
