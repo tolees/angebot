@@ -28,10 +28,10 @@ Es gibt ein [Philips 48OLED806 48 Zoll 4K Smart TV UHD OLED Android TV mit Ambil
 
 ℹ️:
 
-- HDR BILDQUALITÄT: Das Dolby Vision + Sound System sorgt für Klang und Bild wie im Kino, erleben Sie die Inhalte auf dem Bildschirm noch heller und realistischer mit der P5 Engine ! Passen Sie Ihren Startbildschirm an, wählen Sie Ihre Apps aus und starten Sie das Streaming!
-- KINOREIFES SOUND SYSTEM: Da es für Philips von zentraler Bedeutung ist, Ihnen ein optimales Filmerlebnis zu bieten, unterstützt dieses Fernsehgerät das erstklassige Bild- und Tonsystem von Dolby und ermöglicht Ihnen ein mehrdimensionales, klares und tiefes Klangerlebnis mit DTS Play-Fi
 - LIEFERUMFANG: Mattgrauer OLED Philips 48-Zoll Android 4k UHD Smart TV mit vorinstallierten Apps: Amazon Prime Video, Disney+, Netflix & YouTube, Keilförmiger Standfuß aus dunklem, verchromtem Metall, Philips TV-Fernbedienung, Bildschirmdiagonale: 121 cm
 - MAGISCHES AMBILIGHT: Mit intelligenten LEDs am Rand des Bildschirms, die zeitgleich auf Aktionen auf dem Bildschirm reagieren, verfügt dieser Philips Fernseher über ein einzigartiges 4-seitiges Ambilight-System für die magischsten Filmerlebnisse
 - ELEGANTES SCHLANKES DESIGN: Dieser 4K-Fernseher kommt mit einem mattschwarzen Rahmen, der zu jedem Einrichtungsdesign passt und alles enthält, was Sie brauchen, um Ihre Filme und Serien in bester Qualität zu sehen
+- HDR BILDQUALITÄT: Das Dolby Vision + Sound System sorgt für Klang und Bild wie im Kino, erleben Sie die Inhalte auf dem Bildschirm noch heller und realistischer mit der P5 Engine ! Passen Sie Ihren Startbildschirm an, wählen Sie Ihre Apps aus und starten Sie das Streaming!
+- KINOREIFES SOUND SYSTEM: Da es für Philips von zentraler Bedeutung ist, Ihnen ein optimales Filmerlebnis zu bieten, unterstützt dieses Fernsehgerät das erstklassige Bild- und Tonsystem von Dolby und ermöglicht Ihnen ein mehrdimensionales, klares und tiefes Klangerlebnis mit DTS Play-Fi
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B096Y6PYXR/?tag=tolees0ca-21)
