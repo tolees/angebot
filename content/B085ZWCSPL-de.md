@@ -28,9 +28,9 @@ Sie können [Casio Collection 2](https://www.amazon.de/dp/B085ZWCSPL/?tag=tolees
 
 ℹ️:
 
+- 8-digit calculator
 - Water resistance classification (WR) to ISO 22810
 - 5 Years - 1 Battery
 - Daily alarm
-- 8-digit calculator
 
 [🛒 Hier!!](https://www.amazon.de/dp/B085ZWCSPL/?tag=tolees0ca-21)

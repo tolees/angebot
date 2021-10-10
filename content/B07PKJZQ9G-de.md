@@ -28,10 +28,10 @@ Sie können [KLASK - Preisgekröntes Geschicklichkeitsspiel für 2 Spieler - Bre
 
 ℹ️:
 
-- Anzahl Spieler: 2
-- Empfohlenes Alter: ab 8 Jahre
-- Das rasante Action- und Geschicklichkeitsspiel
-- Spieldauer: ca. 10 Minuten
 - Aus dem Hause GAME FACTORY - SPIELE FÜR FAMILY & FRIENDS
+- Empfohlenes Alter: ab 8 Jahre
+- Spieldauer: ca. 10 Minuten
+- Anzahl Spieler: 2
+- Das rasante Action- und Geschicklichkeitsspiel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PKJZQ9G/?tag=tolees0ca-21)
