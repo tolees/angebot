@@ -28,10 +28,10 @@ Es gibt ein [Alessi "GIROTONDO" Serviettenring  durchbrochen aus Edelstahl glän
 
 ℹ️:
 
+- Italien
+- Design
 - Original
 - h. 5 cm
 - A di Alessi
-- Design
-- Italien
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000FV8JG6/?tag=tolees0ca-21)

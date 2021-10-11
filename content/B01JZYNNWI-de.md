@@ -28,10 +28,10 @@ Sie können [DEWALT Kreissägeblatt-Set DT1962  für Stationärsägen  Sägeblat
 
 ℹ️:
 
-- Stabiler Blattkörper absorbiert härteste Schläge und sorgt für eine verlängerte Lebensdauer des Blattes
-- Für Universal-Einsatz in Bauholz, Holz mit Nägeln, weichem Holz, Verbundmaterialien sowie Schalhaut
 - Lieferumfang: 3-teiliges Sägeblatt-Set für Stationärsagen aus 2 Blättern DT1952 und 1 Blatt DT1953 , für schnelle Schnitte und Universal-Einsatz, Blattdurchmesser aller Blätter: 216/30 mm, 24 und 40 Zähne, Zahngeometrie: Wechselzahn mit -5 Grad Zahnwinkel
 - Schneller Sägefortschritt durch extrem robuste Hartmetallzähne, beste Blattschärfe durch verstärkte Blattschultern
+- Für Universal-Einsatz in Bauholz, Holz mit Nägeln, weichem Holz, Verbundmaterialien sowie Schalhaut
+- Stabiler Blattkörper absorbiert härteste Schläge und sorgt für eine verlängerte Lebensdauer des Blattes
 - 3-teiliges, extrem robustes, nagelfestes Baustellen-Kreissägeblatter Set
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01JZYNNWI/?tag=tolees0ca-21)
