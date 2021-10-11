@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76160 Super Heroes DC Batman Mobile mit 22.77 % Rabatt'
-date: 2021-10-10 00:43:32
+date: 2021-10-11 00:50:39
 image: 'https://m.media-amazon.com/images/I/519CwyKGPvS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0813QWS7K/?tag=tolees0ca-21'
 descuento: '22.77'
-average: '67.6165075921905'
+average: '67.620584415584'
 ---
 
 Sie können [LEGO 76160 Super Heroes DC Batman Mobile Batbasis  Truck Spielzeug mit Batjet  Batquad  Motorrad und Wasserflitzer](https://www.amazon.de/dp/B0813QWS7K/?tag=tolees0ca-21) mit Preis 69.5 EUR (original: 89.99 EUR) 22.77 % Rabatt hier:
