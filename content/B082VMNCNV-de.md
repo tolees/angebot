@@ -28,10 +28,10 @@ Es gibt ein [Neutrogena Anti-Pickel Gesichtsreinigung  2-in-1 Reinigung und Mask
 
 ℹ️:
 
-- Clevere Kombination aus ölfreier Reinigung und Gesichtsmaske mit klärender Salicylsäure, Geeignet für unreine und auch sensible Haut, Hilft bei der Bekämpfung und Vorbeugung von Pickeln
-- Anwendung als Anti-Pickel Maske: Einmal wöchentlich eine dünne Schicht auf dem Gesicht auftragen, 5 Minuten Einwirkzeit, gründlich mit lauwarmem Wasser abwaschen
 - Anwendung als Anti-Pickel Reinigung: Auf dem feuchten Gesicht aufschäumen und einmassieren, Augenpartie aussparen, gründlich mit lauwarmem Wasser abwaschen
+- Anwendung als Anti-Pickel Maske: Einmal wöchentlich eine dünne Schicht auf dem Gesicht auftragen, 5 Minuten Einwirkzeit, gründlich mit lauwarmem Wasser abwaschen
 - Ergebnisse ab den ersten Anwendungen: Verbessertes Hautbild und Entfernung von überschüssgigem Talg, Hilft, selbst hartnäckige Pickel zu beseitigen – für einen reineren, ebenmäßigeren Teint
 - Lieferumfang: 1 x Neutrogena Anti-Pickel 2-in-1 Reinigung und Maske, Mit klärender Salicylsäure, 150 ml
+- Clevere Kombination aus ölfreier Reinigung und Gesichtsmaske mit klärender Salicylsäure, Geeignet für unreine und auch sensible Haut, Hilft bei der Bekämpfung und Vorbeugung von Pickeln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082VMNCNV/?tag=tolees0ca-21)

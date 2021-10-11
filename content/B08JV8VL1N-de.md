@@ -28,10 +28,10 @@ Sie können [yeedi 2 hybrid Saugroboter mit Wischfunktion  Visual-SLAM-Navigatio
 
 ℹ️:
 
-- 【Visual-SLAM-Navigation】Die intelligente Visual-SLAM-Navigation ermöglicht dem yeedi Saugroboter, den Grundriss Ihrer Wohnfläche zu erfassen und den optimalen Reinigungsweg zu planen, sodass er ein ganzes Geschoss lückenlos reinigt.
-- 【Reinigt den gewünschten Bereich】Dank der yeedi App mit konfigurierbaren Cleaning Schedules, Virtual Boundary, Area Cleaning, Customize Cleaning sowie der selektiven Reinigung einzelner Zimmer können Sie Ihrem Roboter einfach über Ihr Smartphone befehlen, wo, wann und wie er reinigen soll.
 - 【Ununterbrochene Reinigung über 200 min】Dank seines Hochleistungsfähigen 5200-mAh-Akku kann der yeedi 2 Hybrid Roboterstaubsauger mit jeder Akkuladung bis zu 200 Minuten arbeiten. Nach einer Pause zum Aufladen setzt er die Arbeit genau am gleichen Punkt fort. So ist immer eine komplette Reinigung sichergestellt.
-- 【Was Sie erhalten】 1 Saugroboter yeedi 2 Hybrid, 1 Ladestation mit Netzteil, 2 Seitenbürsten, 1 Hauptbürste für unterschiedliche Böden, 1 waschbares Wischtuch, 5 Einwegtücher, 1 Multifunktions-Reinigungstool, 1 Hochleistungsfilter, 1 Bedienungsanleitung, 24-Monaten-Garantie
+- 【Reinigt den gewünschten Bereich】Dank der yeedi App mit konfigurierbaren Cleaning Schedules, Virtual Boundary, Area Cleaning, Customize Cleaning sowie der selektiven Reinigung einzelner Zimmer können Sie Ihrem Roboter einfach über Ihr Smartphone befehlen, wo, wann und wie er reinigen soll.
 - 【Gleichzeitiges Saugen und Wischen】Das verbesserte Saugsystem mit bis zu 2500 Pa Saugkraft erfasst Schmutz, Steinchen und Tierhaare auch in schwer erreichbaren Ecken. Das intelligente Moppsystem mit 3 Wassermengesstufen entfernt gleichzeitig selbst hartnäckige Flecken. (Hinweis: wir empfehlen Ihnen, vor dem Wischen die Wischtücher zu befeuchten.)
+- 【Was Sie erhalten】 1 Saugroboter yeedi 2 Hybrid, 1 Ladestation mit Netzteil, 2 Seitenbürsten, 1 Hauptbürste für unterschiedliche Böden, 1 waschbares Wischtuch, 5 Einwegtücher, 1 Multifunktions-Reinigungstool, 1 Hochleistungsfilter, 1 Bedienungsanleitung, 24-Monaten-Garantie
+- 【Visual-SLAM-Navigation】Die intelligente Visual-SLAM-Navigation ermöglicht dem yeedi Saugroboter, den Grundriss Ihrer Wohnfläche zu erfassen und den optimalen Reinigungsweg zu planen, sodass er ein ganzes Geschoss lückenlos reinigt.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08JV8VL1N/?tag=tolees0ca-21)

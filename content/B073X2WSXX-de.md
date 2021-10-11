@@ -28,10 +28,10 @@ Es gibt ein [Smartwares 4er Pack TÜV geprüfter Rauchmelder/Feuermelder  DIN EN
 
 ℹ️:
 
-- Brandmelder inkl. Bedienungsanleitung, Montagematerial und Batterien
 - TÜV zertifizierte Rauchwarnmelder: Fast in jedem Bundesland Pflicht/ Rauchmelder mit großer komfortabler Prüftaste
+- Brandmelder inkl. Bedienungsanleitung, Montagematerial und Batterien
 - Eine Batteriewarnung teilt mit, wann die Batterie des Feuermelders gewechselt werden muss
-- Einfach zu installieren und zu reinigen/ Wir empfehlen die Magnethalterung RMAG60/ B074F32W9H
 - Rauchwarnmelder entspricht Norm EN14604/ Sensor mit 10 Jahren Lebensdauer
+- Einfach zu installieren und zu reinigen/ Wir empfehlen die Magnethalterung RMAG60/ B074F32W9H
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B073X2WSXX/?tag=tolees0ca-21)
