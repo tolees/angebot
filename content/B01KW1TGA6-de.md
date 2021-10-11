@@ -28,12 +28,12 @@ Es gibt ein [Fjällräven Damen Singi Jacke  Black  M](https://www.amazon.de/dp/
 
 ℹ️:
 
-- Hergestellt aus G 1000, gepolstert mit ethisch vertretbar gewonnenen Daunen
-- Windabweisend
+- Funktionelle Kapuze mit Kunstfellbesatz
+- Warme, strapazierfähige Daunenjacke
 - Atmungsaktiv
 - langem Schnitt
-- Funktionelle Kapuze mit Kunstfellbesatz
+- Windabweisend
+- Hergestellt aus G 1000, gepolstert mit ethisch vertretbar gewonnenen Daunen
 - Wasserabweisend
-- Warme, strapazierfähige Daunenjacke
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01KW1TGA6/?tag=tolees0ca-21)

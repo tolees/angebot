@@ -28,10 +28,10 @@ Es gibt ein [BRYDGE 12.9 Pro  Hochwertige Bluetooth Tastatur aus Aluminium  deut
 
 ℹ️:
 
-- Durch die 3-stufige LED-Hintergrundbeleuchtung der Tastatur, erlebt man bei allen Lichtverhältnissen eine unvergleichliche Schreiberfahrung - sogar im Dunkeln
-- Die patentierten Scharniere ermöglichen ein flexibles Sichtfeld von 0-180° - den perfekten Blickwinkel für hohe Produktivität und Komfort ganz einfach selbst einstellen. Die Brydge Tastatur nur mit einem Bildschirmschutz mit einer Dicke von max. 3mm benutzen.
-- Das BRYDGE 12. 9 wird aus hochwertigem Aluminium gefertigt und passt optimal zum Touch & Feel des iPads. Die neuen iPad pro-tastaturen sorgen für ein ultimatives ipad-erlebnis und lassen die Grenze zwischen einem MacBook und einem iPad verschwimmen. Auch optimal fürs Home Office geeignet.
 - Leicht, kompakt & ausdauernd - profitieren Sie mit Brydge von bis zu 12 Monaten Akkulaufzeit – und das mit nur einer Ladung
 - Für ein angenehmes Tippen ganz ohne Verzögerung, Verbinde das iPad via Bluetooth 4. 1 oder über das mitgelieferte USB-C Kabel um das BRYDGE gleichzeitig auch zu laden , für Modelle : Modelle der 4. Generation (2020) - A2229 ; A2069 ; A2232 ; A2233. Modelle der 3. Generation (2018) - A1876 ; A2014 ; A1895 ; A1983
+- Die patentierten Scharniere ermöglichen ein flexibles Sichtfeld von 0-180° - den perfekten Blickwinkel für hohe Produktivität und Komfort ganz einfach selbst einstellen. Die Brydge Tastatur nur mit einem Bildschirmschutz mit einer Dicke von max. 3mm benutzen.
+- Durch die 3-stufige LED-Hintergrundbeleuchtung der Tastatur, erlebt man bei allen Lichtverhältnissen eine unvergleichliche Schreiberfahrung - sogar im Dunkeln
+- Das BRYDGE 12. 9 wird aus hochwertigem Aluminium gefertigt und passt optimal zum Touch & Feel des iPads. Die neuen iPad pro-tastaturen sorgen für ein ultimatives ipad-erlebnis und lassen die Grenze zwischen einem MacBook und einem iPad verschwimmen. Auch optimal fürs Home Office geeignet.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07PJVC38T/?tag=tolees0ca-21)

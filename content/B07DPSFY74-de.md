@@ -28,12 +28,12 @@ Es gibt ein [Corsair K70 RGB MK.2 Mechanische Gaming Tastatur  Cherry MX Blue: P
 
 ℹ️:
 
-- Die lebendige dynamische, mehrfarbige RGB-Hintergrundbeleuchtung einzelner Tasten bietet nahezu unbegrenzte Anpassungs- und Steuerungsoptionen
-- QWERTZ Deutschland
-- Leichtgängige, lineare Tastenreaktion für superschnelle Doppel- und Dreifachtaps ohne Klickgeräusch
-- Deutsche Cherry MX Blue Schalter - Präzise und Hörbar mit spürbarem Widerstand und akustischen Klick
 - 100 Prozent Anti-Ghosting mit vollem Tasten-Rollover: Ganz gleich, wie schnell Sie spielen - jeder Tastendruck wird korrekt erkannt
+- Die lebendige dynamische, mehrfarbige RGB-Hintergrundbeleuchtung einzelner Tasten bietet nahezu unbegrenzte Anpassungs- und Steuerungsoptionen
+- Deutsche Cherry MX Blue Schalter - Präzise und Hörbar mit spürbarem Widerstand und akustischen Klick
+- QWERTZ Deutschland
 - Optimiert für sattes Gaming und Schreiben mit absoluter Präzision
 - Die abnehmbare Soft-Touch-Handballenauflage bietet optimalen Komfort
+- Leichtgängige, lineare Tastenreaktion für superschnelle Doppel- und Dreifachtaps ohne Klickgeräusch
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07DPSFY74/?tag=tolees0ca-21)

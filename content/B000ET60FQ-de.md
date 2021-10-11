@@ -29,8 +29,8 @@ Es gibt ein [Brüder Mannesmann Werkzeug Schnellschleif-Gerät 135 W  mit flexib
 ℹ️:
 
 - Reichhaltiges, 50-teiliges Zubehör
-- Kleinbohrmaschine 135 Watt
 - Im praktischen Aufbewahrungskoffer
+- Kleinbohrmaschine 135 Watt
 - Mit ansetzbarer, flexibler Welle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000ET60FQ/?tag=tolees0ca-21)

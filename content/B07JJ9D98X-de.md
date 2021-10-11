@@ -28,8 +28,8 @@ Es gibt ein [KabelDirekt – Mini DisplayPort  Thunderbolt  auf DisplayPort Kabe
 
 ℹ️:
 
-- Ein echtes Leistungspaket: Dank DisplayPort 1.2 können alle Auflösungen bis 4K/60Hz wiedergegeben werden, abhängig von Grafikkarte bzw. Treiber sowie verwendetem Monitor.
 - 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
+- Ein echtes Leistungspaket: Dank DisplayPort 1.2 können alle Auflösungen bis 4K/60Hz wiedergegeben werden, abhängig von Grafikkarte bzw. Treiber sowie verwendetem Monitor.
 - Plug & Play: Verbinden Sie Ihr Notebook oder MacBook über den Mini DisplayPort oder Thunderbolt 1 bzw. 2 Anschluss mit dem DisplayPort Anschluss eines Monitors oder Beamers
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07JJ9D98X/?tag=tolees0ca-21)
