@@ -29,9 +29,9 @@ Es gibt ein [Razer Viper Ultimate Wireless Gaming Mouse with Charging Dock](http
 ℹ️:
 
 - Razer Chroma-Maus Ladestation: Inklusive einer Maus-Ladestation powered by Razer Chroma — mit 16,8 Millionen Farben und unseren berühmten Beleuchtungseffekten. 5 Stunden kabellose Spielzeit für jeweils 10 Minuten Ladezeit.
-- Ultra-schnelle kabellose Razer HyperSpeed Technologie: Blitzschnelle Datenübertragung, extrem niedrige Latenzen und übergangslose Frequenzwechsel in stark ausgelasteten Bereichen – es ist nicht mal zu merken, dass mit einer kabellosen Maus gespielt wird.
-- Bis zu 70 Stunden Akku-Laufzeit: Dank verbesserter kabelloser Energieeffizienz bietet die Maus bis zu 70 Stunden am Stück eine optimale Performance — also nur einmal pro Woche aufladen, um Tag für Tag 10 Stunden Gameplay zu genießen.
 - 74 g leicht – entwickelt für E-Sport: Die Razer Viper Ultimate ist die leichteste kabellose Gaming-Maus – ohne Kompromisse bei der Verarbeitung und mit einem Gehäuse, das für Rechts- und Linkshänder ideal ist. Dank des optimalen Gewichts lässt sich noch schneller und flüssiger spielen.
+- Ultra-schnelle kabellose Razer HyperSpeed Technologie: Blitzschnelle Datenübertragung, extrem niedrige Latenzen und übergangslose Frequenzwechsel in stark ausgelasteten Bereichen – es ist nicht mal zu merken, dass mit einer kabellosen Maus gespielt wird.
 - Optischer Razer Focus+ 20K Sensor: Ein Sensor mit 20.000 DPI und einer Auflösungsgenauigkeit von 99,6 % garantiert, dass selbst die kleinsten Bewegungen der Maus erkannt werden, damit spielentscheidende Headshots und spektakuläre Manöver gelingen.
+- Bis zu 70 Stunden Akku-Laufzeit: Dank verbesserter kabelloser Energieeffizienz bietet die Maus bis zu 70 Stunden am Stück eine optimale Performance — also nur einmal pro Woche aufladen, um Tag für Tag 10 Stunden Gameplay zu genießen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07Y8M4BCW/?tag=tolees0ca-21)
