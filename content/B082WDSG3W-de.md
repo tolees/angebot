@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 71365 Super Mario Piranha-Pflanze-P mit 33.38 % Rabatt'
-date: 2021-10-04 16:29:52
+title: 'LEGO 71365 Super Mario Piranha-Pflanze-P mit 48.35 % Rabatt'
+date: 2021-10-12 08:54:21
 image: 'https://m.media-amazon.com/images/I/51KWOHKkw2S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: 'tole.es'
 slug: 'B082WDSG3W-de LEGO 71365 Super Mario Piranha-Pflanze-Powerwippe –...'
 sku: 'B082WDSG3W-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego', ]
-actualPrice: 19.98 EUR
+actualPrice: 15.49 EUR
 currency: EUR
-price: 19.98
+price: 15.49
 comparePrice: 29.99 EUR
 prodname: 'LEGO 71365 Super Mario Piranha-Pflanze-Powerwippe – Erweiterungsset  Bauspiel'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B082WDSG3W/?tag=tolees0ca-21'
-descuento: '33.38'
-average: '23.3893548387098'
+descuento: '48.35'
+average: '23.3456250000001'
 ---
 
-Sie können [LEGO 71365 Super Mario Piranha-Pflanze-Powerwippe – Erweiterungsset  Bauspiel](https://www.amazon.de/dp/B082WDSG3W/?tag=tolees0ca-21) mit Preis 19.98 EUR (original: 29.99 EUR) 33.38 % Rabatt hier:
+Sie können [LEGO 71365 Super Mario Piranha-Pflanze-Powerwippe – Erweiterungsset  Bauspiel](https://www.amazon.de/dp/B082WDSG3W/?tag=tolees0ca-21) mit Preis 15.49 EUR (original: 29.99 EUR) 48.35 % Rabatt hier:
 
 [![LEGO 71365 Super Mario Piranha-Pflanze-P](https://m.media-amazon.com/images/I/51KWOHKkw2S._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B082WDSG3W/?tag=tolees0ca-21)
 
 ℹ️:
 
 - Die LEGO Super Mario Bau- und Spielsets holen einen kultverdächtigen Videospielcharakter in die echte Welt und bieten Kindern und Fans jede Menge Optionen zum Erweitern, Umgestalten und Anpassen sowie für unzählige neue Herausforderungen
-- Die kostenlose LEGO Super Mario App enthält zum Beispiel digitale Bauanleitungen, coole Anzeigefunktionen und Ideen für kreative Spielmöglichkeiten. Eine Liste der kompatiblen Android- und iOS-Geräte gibt es auf LEGO.com/devicecheck
-- Kinder können das fantastische Erweiterungsset „Piranha-Pflanze-Powerwippe“ (71365) zu ihrem LEGO Super Mario Starterset „Abenteuer mit Mario“ (71360) hinzufügen, um sich mit Freunden zu messen und die Herausforderung auf der rutschenden Wippe zu meistern
 - Dieses Spielset zum Sammeln enthält eine Wippe mit einer auf Schienen rutschenden Plattform, auf der die LEGO Mario Figur (nicht im Set enthalten) platziert werden kann. Spieler müssen schnell wippen, ohne die an beiden Enden befindlichen Piranha-Pflanzen zu berühren, um Münzen zu gewinnen
 - Der Zeitblock in diesem Erweiterungsset bietet Spielern die Chance, mehr Zeit für dieses Spiellevel zu gewinnen. Dieses Modul enthält auch einen Gumba und einen Koopa als Spielzeugfiguren, mit denen sich LEGO Mario messen muss, um weitere Münzen zu gewinnen
 - LEGO Steine und Teile werden strengen Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit jedes LEGO Set den höchsten Sicherheitsstandards entspricht
+- Die kostenlose LEGO Super Mario App enthält zum Beispiel digitale Bauanleitungen, coole Anzeigefunktionen und Ideen für kreative Spielmöglichkeiten. Eine Liste der kompatiblen Android- und iOS-Geräte gibt es auf LEGO.com/devicecheck
+- Kinder können das fantastische Erweiterungsset „Piranha-Pflanze-Powerwippe“ (71365) zu ihrem LEGO Super Mario Starterset „Abenteuer mit Mario“ (71360) hinzufügen, um sich mit Freunden zu messen und die Herausforderung auf der rutschenden Wippe zu meistern
 
 [🛒 Hier!!](https://www.amazon.de/dp/B082WDSG3W/?tag=tolees0ca-21)
