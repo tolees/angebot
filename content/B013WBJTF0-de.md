@@ -28,9 +28,9 @@ Es gibt ein [Sharpie Permanent Marker | Marker Stifte mit feiner Spitze | gemisc
 
 ℹ️:
 
-- Permanente Tinte zur Verwendung auf Papier, Kunststoff, Metall und den meisten anderen Oberflächen
-- Die Packung enthält 5 Sharpie Permanentmarker in Electro Pop-Farben und 19 Sharpie Permanentmarker in Originalfarben
 - Intensiv leuchtende Farben für ein beeindruckendes, lebendiges Ergebnis
+- Die Packung enthält 5 Sharpie Permanentmarker in Electro Pop-Farben und 19 Sharpie Permanentmarker in Originalfarben
+- Permanente Tinte zur Verwendung auf Papier, Kunststoff, Metall und den meisten anderen Oberflächen
 - Feine Spitze für perfekte Linien, höchste Präzision und einen geschmeidigen Tintenfluss
 - Äußerst robuste Tinte, schnell trocknend, wasserfest, verblasst nicht
 

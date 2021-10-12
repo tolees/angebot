@@ -28,11 +28,11 @@ Sie können [Makita Lochsägen  14-teilig  D-47298](https://www.amazon.de/dp/B00
 
 ℹ️:
 
-- BiM-Lochsägen je 1x19,22,25,29,35,38,44,51,57,68,75
-- Aufnahme mit Zentrierbohrer je 1x 9,5/11
-- Packungage Weight: 4.806 Lb
 - Energiequelle: Handbetrieben
 - Sechskantschlüssel
+- Aufnahme mit Zentrierbohrer je 1x 9,5/11
 - Original Makita-Qualität,Langlebig und robust
+- BiM-Lochsägen je 1x19,22,25,29,35,38,44,51,57,68,75
+- Packungage Weight: 4.806 Lb
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00G4R5P1M/?tag=tolees0ca-21)

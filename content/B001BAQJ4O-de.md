@@ -28,9 +28,9 @@ Es gibt ein [Tiger Boston Wannengriff  Haltegriff aus poliertem Edelstahl](https
 
 ℹ️:
 
-- Maße (B x H x T): 310 x 50 x 85 mm
+- Material: Edelstahl poliert
 - Formschöner und stabiler Wannengriff der Badserie Boston
 - Auch in der Version "gebürstet" erhältlich
-- Material: Edelstahl poliert
+- Maße (B x H x T): 310 x 50 x 85 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001BAQJ4O/?tag=tolees0ca-21)
