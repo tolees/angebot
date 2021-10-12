@@ -28,10 +28,10 @@ Es gibt ein [devolo Magic 1 WiFi Gaming Kit  WLAN Powerline Adapter -bis zu 1.20
 
 ℹ️:
 
+- Powerline-Set mit 3 Adaptern für das beste Gaming-Erlebnis: Bis zu 1.200 Mbit/s Übertragungsrate für Ihr gesamtes Zuhause
+- Neueste G.hn-Generation, nicht abwärtskompatibel. Kombinierbar mit allen Adaptern der devolo Magic-Reihe. Adapter der dLAN-Reihe werden nicht unterstützt
 - Lieferumfang: Gaming Kit mit drei Powerline-Adaptern: 1x Magic 1 WiFi (mit 2x Fast-Ethernet LAN-Anschlüssen) + 2x Magic 1 LAN (mit insgesamt 2x Fast-Ethernet LAN-Anschlüssen), WiFi 5
 - Bewährte Qualität vom Powerline-Pionier: International sind über 40 Millionen Adapter im Einsatz. Betriebstemperatur: 0°C bis 40°C
-- Powerline-Set mit 3 Adaptern für das beste Gaming-Erlebnis: Bis zu 1.200 Mbit/s Übertragungsrate für Ihr gesamtes Zuhause
 - Die ideale Vernetzung ihrer Konsole oder ihres PCs. So erkunden Sie endlose Spielwelten mit Ihren Freunden online und das ganz ohne Lags
-- Neueste G.hn-Generation, nicht abwärtskompatibel. Kombinierbar mit allen Adaptern der devolo Magic-Reihe. Adapter der dLAN-Reihe werden nicht unterstützt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B088CFD4BF/?tag=tolees0ca-21)

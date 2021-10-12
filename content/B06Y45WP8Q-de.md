@@ -28,9 +28,9 @@ Es gibt ein [JBL Außenfilter für Aquarien von 200-800 Litern  CristalProfi e19
 
 ℹ️:
 
+- Lieferumfang: 1 x JBL CristalProfi e1902 greenline, Außenfilteranlage für Aquarien, Inkl. 19/27 Schläuchen & Rohren, Ansaugkorb, Winkel, Saughaltern, Filtermassen, 20 x 23,5 x 56,4 cm
 - Außenfilter für sauberes und gesundes Aquarienwasser: Geschlossenes Wasserkreislaufsystem für Aquarien von 200-800 Litern (120-150 cm)
 - Extreme Laufruhe bei 1900 l/h Pumpenleistung, Patentiertes Vorfiltersystem mit 100 Prozent mehr Fläche als beim Model 1901, Hohe Filterleistung mit 15 l Volumen, Wasserstopp, Schlauchanschlüsse 360° drehbar
-- Lieferumfang: 1 x JBL CristalProfi e1902 greenline, Außenfilteranlage für Aquarien, Inkl. 19/27 Schläuchen & Rohren, Ansaugkorb, Winkel, Saughaltern, Filtermassen, 20 x 23,5 x 56,4 cm
 - Komplett ausgestattet und anschlussfertig: Eingebaute Schnellstart-Einrichtung, Filterstart ohne Wasseransaugen, Einfacher Zusammenbau
 - TÜV geprüft, Sicher und Energieeffizient: Enorme Energieersparnis
 

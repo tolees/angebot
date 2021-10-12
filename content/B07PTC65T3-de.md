@@ -30,10 +30,10 @@ Sie können [Steiff 113512 Soft Cuddly Friends Jimmy Teddybär Bär  Hellbraun  
 
 - PFLEGELEICHT: Da echte Kuschelfreunde auch mal dreckig werden, kann der Plüschteddy dank unbedenklicher Füllung und besonderer Nahtverarbeitung einfach bei 30°C in der Waschmaschine gewaschen werden
 - Original Steiff Plüschtier - Der „KNOPF IM OHR“ steht für unser Versprechen an Sie: Plüschtiere mit höchsten Anforderungen an Qualität, Sicherheit, Verarbeitung & Materialbeschaffenheit. Diese Tradition erhalten wir stolz seit 1880
-- WEICH & KUSCHELIG: Stoff Bär Jimmy verzaubert alle mit seinem kuschelweichen Fell aus Plüsch und Kunststoff Knopfaugen. Einfach zum Verlieben. Ein großartiges Geschenk für Kinder in jedem Alter
 - BESTER FREUND: Der kleine Plüsch Teddybär Jimmy ist ein treuer Kuschel- und Spielkamerad für jedes Kind. Mit seinem niedlichen Aussehen verleiht er jedem Kind ein Lächeln ins Gesicht
 - BESONDERES SPIEL ERLEBNIS: Dank der Füllung mit Granulat-Säckchen kann Plüschteddy Jimmy eigenständig sitzen. Die flexiblen Gliedmaßen fördern den Spielspaß zusätzlich
-- FÜR KINDER IST NUR DAS BESTE GUT GENUG: Unsere Teddybären überzeugen mit geprüfter Qualität, unbedenklichen Materialien und einer hochwertigen Verarbeitung. Unsere Teddybären sind die Freunde fürs Leben
 - MAßE: Mit einer Gesamtlänge von 40 cm ist der kleine Kuschelbär der ideale Begleiter für den Alltag. Er ist bereit für jedes Abenteuer
+- FÜR KINDER IST NUR DAS BESTE GUT GENUG: Unsere Teddybären überzeugen mit geprüfter Qualität, unbedenklichen Materialien und einer hochwertigen Verarbeitung. Unsere Teddybären sind die Freunde fürs Leben
+- WEICH & KUSCHELIG: Stoff Bär Jimmy verzaubert alle mit seinem kuschelweichen Fell aus Plüsch und Kunststoff Knopfaugen. Einfach zum Verlieben. Ein großartiges Geschenk für Kinder in jedem Alter
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PTC65T3/?tag=tolees0ca-21)

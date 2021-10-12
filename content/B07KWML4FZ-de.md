@@ -28,10 +28,10 @@ Es gibt ein [Makita DHR281ZJ Akku-Kombihammer 2x18V  ohne Akku/ohne Ladegerät ]
 
 ℹ️:
 
-- Mit Anti-Vibrations-Technologie AVT
-- Bürstenloser Motor für mehr Ausdauer, längere Lebensdauer und kompaktere Bauweise
 - XPT - Xtreme Protect Technology. Optimaler Schutz gegen Staub und Spritzwasser auch unter harten Bedingungen
 - SoftNoLoad für weniger Vibrationen und punktgenaues Ansetzen des Meißels oder Bohrers
 - Umweltfreundlicher und kostensparender 2 x 18 V-Antrieb
+- Mit Anti-Vibrations-Technologie AVT
+- Bürstenloser Motor für mehr Ausdauer, längere Lebensdauer und kompaktere Bauweise
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KWML4FZ/?tag=tolees0ca-21)

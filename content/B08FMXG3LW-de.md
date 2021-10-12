@@ -28,10 +28,10 @@ Sie können [Yale 05/101200/SI Linus Smart Lock 05/101200/MB-Linus Matt Schwarz-
 
 ℹ️:
 
-- Sofortige Warnhinweise - Wenn sich am Status Ihrer Tür etwas ändert, erfahren Sie als Erster davon
-- SMART LOCKING" - Machen Sie Ihr Smartphone oder Apple Watch zu Ihrem Schlüssel. Mit dem Linus Smart Lock können Sie Ihre Tür ver- und entriegeln - ganz gleich, wo Sie sich befinden, mit der Yale Access App. erfordert Yale Connect Wi-Fi-Brücke für Remote-Funktionalität
 - BATTERIELAUFZEIT - Benachrichtigungen, wenn Ihre Batterie schwach wird, damit diese vorzeitig ersetzt werden kann. Die Batterielaufzeit ist abhängig von der Anzahl der Schließvorgänge, der Leichtigkeit der Türöffnung und der Anzahl der Öffnungen pro Tag. Bei normalem Gebrauch haben die Batterien eine Laufzeit von 6 bis 9 Monaten
-- AUTOMATISCHE VERRIEGELUNG UND ENTRIEGELUNG - Wenn Sie nach Hause zurückkehren und zu Ihrer Tür gehen, wird Ihre Tür dank Geo-Fencing automatisch entriegelt ( sobald Sie und Ihr Telefon in der Nähe der Tür sind), sodass Sie sich nicht mehr mit Schlüsseln herumschlagen müssen. Möglichkeit, die automatische Verriegelung zu aktivieren, wenn sich die Tür schließt
+- Sofortige Warnhinweise - Wenn sich am Status Ihrer Tür etwas ändert, erfahren Sie als Erster davon
 - SICHER UND GESICHERT - Das Yale Access Konto ist durch eine 2-Faktor-Authentifizierung geschützt, d. h. Benutzer müssen ihre Identität entweder per E-Mail oder per Telefonnummer verifizieren. Zusätzlich zu der von Bluetooth gebotenen Sicherheit verwenden wir AES- und TLS-Verschlüsselung, die üblicherweise als Sicherheit auf Bank-Ebene bezeichnet wird. Wenn Sie Ihr Telefon verlieren, können Sie Ihre Yale Access App und alle virtuellen Schlüssel jederzeit deaktivieren
+- AUTOMATISCHE VERRIEGELUNG UND ENTRIEGELUNG - Wenn Sie nach Hause zurückkehren und zu Ihrer Tür gehen, wird Ihre Tür dank Geo-Fencing automatisch entriegelt ( sobald Sie und Ihr Telefon in der Nähe der Tür sind), sodass Sie sich nicht mehr mit Schlüsseln herumschlagen müssen. Möglichkeit, die automatische Verriegelung zu aktivieren, wenn sich die Tür schließt
+- SMART LOCKING" - Machen Sie Ihr Smartphone oder Apple Watch zu Ihrem Schlüssel. Mit dem Linus Smart Lock können Sie Ihre Tür ver- und entriegeln - ganz gleich, wo Sie sich befinden, mit der Yale Access App. erfordert Yale Connect Wi-Fi-Brücke für Remote-Funktionalität
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08FMXG3LW/?tag=tolees0ca-21)

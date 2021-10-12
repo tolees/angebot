@@ -28,10 +28,10 @@ Es gibt ein [Marder Sicher - MarderSICHER Active | Marderschreck fürs Auto | Ho
 
 ℹ️:
 
-- ⭐ Aktiviert und deaktiviert sich selbstständig. Kein Anschluss an Klemme 15 nötig.
 - ⭐ Für jedes Auto passend (inkl. Montagesatz und Anleitung). Sensoren-Anzahl erweiterbar.
-- ⭐ Weidezaun-Prinzip: Ein leichter Stromschlag hindert den Marder beim eindringen und vertreibt ihn.
 - ⭐ Made in Germany — Wir sind ein Familienbetrieb aus Baden-Württemberg und entwickeln, testen und produzieren unsere MarderSICHER-Systeme seit 2003 in Deutschland.
 - ⭐TÜV geprüft. CAN und Datenbus geeignet. Witterungsbeständig und wartungsfrei.
+- ⭐ Aktiviert und deaktiviert sich selbstständig. Kein Anschluss an Klemme 15 nötig.
+- ⭐ Weidezaun-Prinzip: Ein leichter Stromschlag hindert den Marder beim eindringen und vertreibt ihn.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004IUJMYS/?tag=tolees0ca-21)

@@ -28,7 +28,7 @@ Es gibt ein [Güde Sägeblattschärfgerät GSS 400 94217](https://www.amazon.de/
 
 ℹ️:
 
-- Neu & Originalverpackt
 - Direkt vom Fachhändler
+- Neu & Originalverpackt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0032ARDRI/?tag=tolees0ca-21)
