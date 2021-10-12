@@ -30,8 +30,8 @@ Sie können [Pearhead 40002 - fun friends Holz Spardose  moby whale](https://www
 
 - diese Spardose ist auch als Vogel, Elefant, Alligator, Giraffe, Schwein und Hase erhältlich
 - Geschenkartikel mit besonderem Design
-- eine niedliche Figur als Deko oder für kleine Kinder zum Spielen
-- passen in jedes Kinderzimmer
 - sehr schöne Spardose aus stabilem Holz
+- passen in jedes Kinderzimmer
+- eine niedliche Figur als Deko oder für kleine Kinder zum Spielen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00499CGXM/?tag=tolees0ca-21)

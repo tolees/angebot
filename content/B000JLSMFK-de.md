@@ -28,10 +28,10 @@ Es gibt ein [Bessey LM30/8 Druckguss-Schraubzwinge LM 300/80](https://www.amazon
 
 ℹ️:
 
+- Ober- und Unterteil aus bruchfestem, schwarz beschichtetem Zink-Druckguss
+- Spannkraft bis zu 2.000 N
 - Geringes Gewicht
 - Klein und handlich
-- Ober- und Unterteil aus bruchfestem, schwarz beschichtetem Zink-Druckguss
 - Mit Schutzkappe
-- Spannkraft bis zu 2.000 N
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000JLSMFK/?tag=tolees0ca-21)

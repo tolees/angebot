@@ -29,9 +29,9 @@ Es gibt ein [rOtring rapid Pro Kugelschreiber  matt schwarz](https://www.amazon.
 ℹ️:
 
 - Massiver Metallschaft (Mattschwarz pulverbeschichtet) für höchste Präzision
+- Intensiv blaue Tinte
+- Kugelschreiber Minen, Dokumentenecht nach ISO-Norm 12757-2
 - Sechskant-Design für bequemen Halt
 - Gekordelter Griffbereich für viel Benutzerkomfort
-- Kugelschreiber Minen, Dokumentenecht nach ISO-Norm 12757-2
-- Intensiv blaue Tinte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00JEV99J4/?tag=tolees0ca-21)

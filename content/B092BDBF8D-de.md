@@ -28,10 +28,10 @@ Es gibt ein [LG Electronics - LG 27GN880-B 68 5 cm  27 Zoll  UltraGear Gaming Mo
 
 ℹ️:
 
-- Anschlüsse: 2 x HDMI, DisplayPort 1.4, Kopfhörerausgang
 - 27 Zoll (68,5 cm) Nano IPS-Display mit QHD-Auflösung (2.560 x 1.440 px) und DCI-P3 98%; Bildformat: 16:9
-- Gaming Features: NVIDIA G-Sync Compatible-Verifizierung, AMD FreeSync, integriertes Fadenkreuz, Black Stabilizer und Dynamic Action Sync; Ergo-Standfuß ermöglicht durch verschiedene Einstellungsmöglichkeiten eine ideale Positionierung des Bildschirms
 - Lieferumfang: 27GN880-B, Netzkabel, DisplayPort-Kabel, externes Netzteil
 - Bildschirm mit HDR10; inkl. Smart Energy Saving Funktion, My Display Presets, Reader Mode, augenschonender Flicker Safe Backlight Technologie, Motion Blur Reduction und verschiedene Bildmodi
+- Anschlüsse: 2 x HDMI, DisplayPort 1.4, Kopfhörerausgang
+- Gaming Features: NVIDIA G-Sync Compatible-Verifizierung, AMD FreeSync, integriertes Fadenkreuz, Black Stabilizer und Dynamic Action Sync; Ergo-Standfuß ermöglicht durch verschiedene Einstellungsmöglichkeiten eine ideale Positionierung des Bildschirms
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B092BDBF8D/?tag=tolees0ca-21)

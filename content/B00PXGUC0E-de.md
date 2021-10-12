@@ -28,10 +28,10 @@ Es gibt ein [Yankee Candle Duftkerze im Glas  groß  | Shea Butter | Brenndauer 
 
 ℹ️:
 
-- 100% bleifreier Baumwolldocht; gerade gezogen und zentriert für ein gleichmäßiges Abbrennen
+- Brenndauer der Duftkerze: 110 bis 150 Stunden; Gewicht: 623 g
 - Ausgewählte Zutaten und Premiumwachs sorgen für ein angenehmes, dauerhaftes Dufterlebnis in jedem Raum
 - Jede große Kerze befindet sich in einem klassischen Glas mit Deckel, der dafür sorgt, dass der Duft erhalten bleibt
 - Verwöhnen Sie sich mit diesem cremig-zarten Duft mit wunderschönen Fruchtblüten-Akzenten
-- Brenndauer der Duftkerze: 110 bis 150 Stunden; Gewicht: 623 g
+- 100% bleifreier Baumwolldocht; gerade gezogen und zentriert für ein gleichmäßiges Abbrennen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00PXGUC0E/?tag=tolees0ca-21)
