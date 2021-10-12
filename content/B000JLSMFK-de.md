@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.51 % rabat auf Bessey LM30/8 Druckguss-Schraubzwinge LM'
-date: 2021-10-11 11:05:31
+date: 2021-10-12 11:22:48
 image: 'https://m.media-amazon.com/images/I/41sJHhYxHTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [Bessey LM30/8 Druckguss-Schraubzwinge LM 300/80](https://www.amazon
 
 ℹ️:
 
-- Spannkraft bis zu 2.000 N
-- Ober- und Unterteil aus bruchfestem, schwarz beschichtetem Zink-Druckguss
 - Geringes Gewicht
-- Mit Schutzkappe
 - Klein und handlich
+- Ober- und Unterteil aus bruchfestem, schwarz beschichtetem Zink-Druckguss
+- Mit Schutzkappe
+- Spannkraft bis zu 2.000 N
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000JLSMFK/?tag=tolees0ca-21)

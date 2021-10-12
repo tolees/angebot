@@ -1,32 +1,36 @@
 ---
 layout: post
-title: '23.40 % rabat auf uvex Unisex – Erwachsene  plug-in LED fü'
-date: 2020-03-21 04:54:15
-image: 'https://m.media-amazon.com/images/I/41G8KWWsi0L._SL400_.jpg'
+title: '38.49 % rabat auf Uvex Unisex - Erwachsene  plug-in LED fü'
+date: 2021-10-12 11:26:31
+image: 'https://m.media-amazon.com/images/I/41G8KWWsi0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00OXWN70Q-de uvex Unisex – Erwachsene plug-in LED für i-vo/airwing...'
+slug: 'B00OXWN70Q-de Uvex Unisex - Erwachsene plug-in LED für...'
 sku: 'B00OXWN70Q-de'
-tags: [  ]
-actualPrice: 9.95 EUR
+tags: [ 'Fahrradhelme & Zubehör','Fahrradhelmzubehör','Helmlampen','Kinder- & Jugendhelme','Radsport','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','uvex', ]
+actualPrice: 7.99 EUR
 currency: EUR
-price: 9.95
+price: 7.99
 comparePrice: 12.99 EUR
-prodname: 'uvex Unisex – Erwachsene  plug-in LED für i-vo/airwing Zusatzbehör    one size'
+prodname: 'Uvex Unisex - Erwachsene  plug-in LED für i-vo/airwing/finale junior Zubehör  one size'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Uvex'
 buyurl: 'https://www.amazon.de/dp/B00OXWN70Q/?tag=tolees0ca-21'
-descuento: '23.40'
-average: '9.95'
+descuento: '38.49'
+average: '8.97'
 ---
 
-Es gibt ein [uvex Unisex – Erwachsene  plug-in LED für i-vo/airwing Zusatzbehör    one size](https://www.amazon.de/dp/B00OXWN70Q/?tag=tolees0ca-21) mit aktuellem Preis 9.95 EUR (original: 12.99 EUR) 23.40 % Rabatt hier:
+Es gibt ein [Uvex Unisex - Erwachsene  plug-in LED für i-vo/airwing/finale junior Zubehör  one size](https://www.amazon.de/dp/B00OXWN70Q/?tag=tolees0ca-21) mit aktuellem Preis 7.99 EUR (original: 12.99 EUR) 38.49 % Rabatt hier:
 
-[![uvex Unisex – Erwachsene  plug-in LED fü](https://m.media-amazon.com/images/I/41G8KWWsi0L._SL400_.jpg)](https://www.amazon.de/dp/B00OXWN70Q/?tag=tolees0ca-21)
+[![Uvex Unisex - Erwachsene  plug-in LED fü](https://m.media-amazon.com/images/I/41G8KWWsi0L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B00OXWN70Q/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Zwei Modi mit wahlweise Dauer- oder Blinklicht
+- Für mehr Sichtbarkeit und Sicherheit zu jeder Tageszeit, sowohl in der Stadt als auch auf Landstraßen
+- Passend für die Modelle uvex i-vo, uvex i-vo c, uvex i-vo cc, uvex city i-vo, uvex i-vo cc MIPS, uvex city i-vo MIPS, uvex air wing, uvex air wing cc, uvex finale junior LED
+- Rot leuchtende LED Fahrradhelmlampe mit garantiert sicherem Halt durch eine Klippbefestigung mit Widerhaken
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00OXWN70Q/?tag=tolees0ca-21)
