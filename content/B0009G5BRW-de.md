@@ -28,10 +28,10 @@ Sie können [Beurer FT9 Digital- und Körperthermometer  wasserdicht  LCD-Displa
 
 ℹ️:
 
-- Kunststoffkoffer im Lieferumfang enthalten
-- Temperaturmessung +/- ,1 ° C Genauigkeit
-- Kann leicht desinfiziert werden.
 - Akustisches Signal
+- Temperaturmessung +/- ,1 ° C Genauigkeit
+- Kunststoffkoffer im Lieferumfang enthalten
+- Kann leicht desinfiziert werden.
 - Speicherfunktion
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0009G5BRW/?tag=tolees0ca-21)

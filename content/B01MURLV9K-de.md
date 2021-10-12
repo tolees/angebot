@@ -28,9 +28,9 @@ Sie können [Sharpie Permanent Marker | Marker Stifte mit feiner Spitze | schwar
 
 ℹ️:
 
-- Intensiv leuchtende Farben für ein beeindruckendes, lebendiges Ergebnis
-- Permanente Tinte zur Verwendung auf Papier, Kunststoff, Metall und den meisten anderen Oberflächen
 - Enthält 12 schwarze Wasserfeste Stifte für intensive und langanhaltende Farbe
+- Permanente Tinte zur Verwendung auf Papier, Kunststoff, Metall und den meisten anderen Oberflächen
+- Intensiv leuchtende Farben für ein beeindruckendes, lebendiges Ergebnis
 - Äußerst robuste Tinte, schnelltrocknend und resistent gegen Verblassen und Wasser
 - Unendliche Möglichkeiten dank feiner Spitze für beeindruckende Details
 

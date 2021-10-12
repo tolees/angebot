@@ -28,9 +28,9 @@ Sie können [Vigor V1138 Spannungsprüfer  Schlitz-Spannungsprüfer mit Clip ](h
 
 ℹ️:
 
-- Vigor V1138 Spannungsprüfer
 - Energiequelle: Handbetrieben
-- Original vigor Qualität
 - Für Schlitzschrauben 3 x 0,5 x 140 mm
+- Vigor V1138 Spannungsprüfer
+- Original vigor Qualität
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001C9UVNE/?tag=tolees0ca-21)

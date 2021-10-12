@@ -29,10 +29,10 @@ Es gibt ein [Sidolin Pro Nature  Glasreiniger  Sprühflasche  500ml  pH-neutral 
 ℹ️:
 
 - Einfache Anwendung: Durch die praktische Schaum- und Sprühfunktion lässt sich Sidolin ganz einfach anwenden. Einsprühen, einwirken lassen, abwischen - fertig!
-- Die Formel des Reinigers ist zertifiziert durch das Umweltsiegel Blauer Engel und besteht zu 99,9 Prozent aus naturbasierten Inhaltsstoffen mit nachwachsenden Rohstoffen aus nachhaltigem Anbau
 - Das Sidolin Pro Nature Glasreiniger Spray ist für sämtliche Oberflächen wie Spiegel, Fenster, Autoscheiben oder Arbeitsflächen geeignet
-- Sidolin Pro Nature Glas Reiniger sorgt mit der pH-neutralen Formel für streifenfreien Glanz auf sämtlichen Oberflächen und besticht durch einen milden Duft für eine angenehme Reinigung
+- Die Formel des Reinigers ist zertifiziert durch das Umweltsiegel Blauer Engel und besteht zu 99,9 Prozent aus naturbasierten Inhaltsstoffen mit nachwachsenden Rohstoffen aus nachhaltigem Anbau
 - Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen
 - Der Flaschenkörper besteht aus 100% recyceltem Plastik, davon sind 50% Social Plastic. Hierdurch wird die Umwelt weniger belastet und Menschen in Armut werden unterstützt
+- Sidolin Pro Nature Glas Reiniger sorgt mit der pH-neutralen Formel für streifenfreien Glanz auf sämtlichen Oberflächen und besticht durch einen milden Duft für eine angenehme Reinigung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084HGL2VK/?tag=tolees0ca-21)
