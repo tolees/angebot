@@ -28,9 +28,9 @@ Es gibt ein [KNIPEX Kombizange  160 mm  03 02 160  Mehrfarbig](https://www.amazo
 
 ℹ️:
 
+- Mit Greifzonen für Flach- und Rundmaterial für vielseitigen Einsatz
 - Lange Schneiden für dickere Kabel
 - Schneiden zusätzlich induktiv gehärtet, Schneidenhärte ca. 60 HRC
-- Mit Greifzonen für Flach- und Rundmaterial für vielseitigen Einsatz
 - Mit Schneiden für weichen und harten Draht
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0001P0BXU/?tag=tolees0ca-21)

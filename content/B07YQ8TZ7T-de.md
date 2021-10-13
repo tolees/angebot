@@ -29,9 +29,9 @@ Sie können [bebe Sanftschimmernd Lippenpflege  Lippenpflegestift mit Perlglanz 
 ℹ️:
 
 - Für glänzende Lippen: bebe Sanftschimmernd Perlglanz Lippenpflege Lippenbalsam mit Perlglanzpigmenten und Vitamin E
-- Lieferumfang: 1 x bebe Sanftschimmernd Lippenpflege, Lippenpflegestift mit Perlglanz, 4,9 g
 - Verträglichkeit dermatologisch getestet – für natürlich schöne Lippen mit einem Hauch Perlglanz
 - Einfache Handhabung: Lippenbalsam gleichmäßig auf Ober- und Unterlippe verteilen, Anwendung bei Bedarf regelmäßig wiederholen
+- Lieferumfang: 1 x bebe Sanftschimmernd Lippenpflege, Lippenpflegestift mit Perlglanz, 4,9 g
 - Die sanfte Formel mit Vitamin E hilft, Feuchtigkeit zu speichern, und schützt die Lippen vor dem Austrocknen – für natürlich schimmernde Lippen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07YQ8TZ7T/?tag=tolees0ca-21)
