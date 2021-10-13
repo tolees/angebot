@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.11 % rabat auf 25 verstärkte Hängemappen in A4 mit Sich'
-date: 2021-10-11 19:14:23
+date: 2021-10-13 07:29:53
 image: 'https://m.media-amazon.com/images/I/41az5gKpgkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Es gibt ein [25 verstärkte Hängemappen in A4 mit Sichttrenner von Esselte Clas
 
 ℹ️:
 
+- Format: A4
+- Öffnung: seitlich offen
 - Ausstattung: mit Sichtreiter
 - Grammatur: 230 g/m²
-- Öffnung: seitlich offen
-- Format: A4
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000NJUT68/?tag=tolees0ca-21)
