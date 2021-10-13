@@ -28,10 +28,10 @@ Sie können [Columbia Herren Pike Lake Jacke  Dark Amber  Black  XL](https://www
 
 ℹ️:
 
-- Der wasserabweisende Stoff schützt Sie vor leichten Regenschauern und Feuchtigkeit bei Nebel
-- Winterjacke, Ideal für gemütliche Spaziergänge durch die Stadt oder zum Entdecken neuer Wanderrouten
 - Thermoreflektierende Auskleidung, um Ihren Kern temperiert zu halten, ohne ihn zu überhitzen
 - Die Reißverschlusstaschen bieten Ihnen Vielseitigkeit. Für warme Hände und zum sicheren Verstauen Ihrer Wertsachen wie Smartphone oder Geld
+- Winterjacke, Ideal für gemütliche Spaziergänge durch die Stadt oder zum Entdecken neuer Wanderrouten
 - Lieferumfang: 1 x Columbia Mens Pike Lake Jacke, Außenmaterial: Storm-Lite DP II 100% Polyester; Futter: Omni-Heat Reflective Microtex Light 100% Polyester; Isolierung: Thermarator 100% Polyester, Farbe: Dark Amber, Schwarz, Größe: XL, Art.Nr. 1738022
+- Der wasserabweisende Stoff schützt Sie vor leichten Regenschauern und Feuchtigkeit bei Nebel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087VH6B1X/?tag=tolees0ca-21)
