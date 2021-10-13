@@ -29,10 +29,10 @@ Sie können [Corsair Crystal 280X PC-Gehäuse  Micro ATX mit gehärtetem Glas   
 ℹ️:
 
 - Enorme Kühlleistung dank Platz für bis zu sechs 120-mm-Lüfter oder je einen 240-mm-Radiator an der Ober-, Vorder- und Unterseite.
-- Dem Gehäuse beiliegendes Zubehör befindet sich im Festplatten-Laufwerksschacht.
-- Zwei integrierte CORSAIR LL120 RGB 120-mm-Lüfter und das CORSAIR Direct Airflow Path-Design leiten kühle Luft direkt zu den hitzigen Komponenten Ihres PCs.
-- Drei atemberaubende Sichtfenster aus gehärtetem Glas machen Ihr System zu einem Hingucker – das schafft kein anderes Micro-ATX-Gehäuse.
 - Ein spezielles Fach für bis zu zwei 3,5-Zoll-Laufwerk und drei 2,5-Zoll-Laufwerke sorgt für ein aufgeräumtes System ohne Verlust von Speicherkapazität.
+- Dem Gehäuse beiliegendes Zubehör befindet sich im Festplatten-Laufwerksschacht.
 - Das Zwei-Kammer-Design sorgt dafür, dass Kabel, Laufwerke und Netzteil unsichtbar in einem speziellen Fach auf der Rückseite verstaut werden.
+- Drei atemberaubende Sichtfenster aus gehärtetem Glas machen Ihr System zu einem Hingucker – das schafft kein anderes Micro-ATX-Gehäuse.
+- Zwei integrierte CORSAIR LL120 RGB 120-mm-Lüfter und das CORSAIR Direct Airflow Path-Design leiten kühle Luft direkt zu den hitzigen Komponenten Ihres PCs.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CL9WFWC/?tag=tolees0ca-21)

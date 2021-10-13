@@ -28,9 +28,9 @@ Es gibt ein [25 verstärkte Hängemappen in A4 mit Sichttrenner von Esselte Clas
 
 ℹ️:
 
-- Format: A4
-- Öffnung: seitlich offen
 - Ausstattung: mit Sichtreiter
 - Grammatur: 230 g/m²
+- Format: A4
+- Öffnung: seitlich offen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000NJUT68/?tag=tolees0ca-21)

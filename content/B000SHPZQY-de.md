@@ -28,10 +28,10 @@ Es gibt ein [rOtring 699380 Isograph College-Set](https://www.amazon.de/dp/B000S
 
 ℹ️:
 
-- B20-Radierer radiert schlieren- und streifenfrei und dank Zirkelansatz ist der Stift vielseitig verwendbar
-- Set mit drei technischen Zeichengeräten hoher Präzision mit 0,25 mm, 0,35 mm und 0,5 mm Spitzen
-- 23 ml Tusche mit hoher Dichte an Pigmentpartikeln für Deckkraft und Lichtbeständigkeit
-- Der 0,5 mm Tikky Druckbleistift ist leicht, geeignet, um den ganzen Tag lang zu schreiben, und verfügt über robuste und flexible High-Polymer-Minen
 - Die verschleißfeste, robuste, verchromte dünne Spitze ermöglicht hochwertige und detaillierte Arbeit
+- B20-Radierer radiert schlieren- und streifenfrei und dank Zirkelansatz ist der Stift vielseitig verwendbar
+- Der 0,5 mm Tikky Druckbleistift ist leicht, geeignet, um den ganzen Tag lang zu schreiben, und verfügt über robuste und flexible High-Polymer-Minen
+- 23 ml Tusche mit hoher Dichte an Pigmentpartikeln für Deckkraft und Lichtbeständigkeit
+- Set mit drei technischen Zeichengeräten hoher Präzision mit 0,25 mm, 0,35 mm und 0,5 mm Spitzen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000SHPZQY/?tag=tolees0ca-21)

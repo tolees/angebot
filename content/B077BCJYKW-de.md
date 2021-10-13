@@ -28,9 +28,9 @@ Sie können [Lavazza Tierra Organic Bohne  1000 g](https://www.amazon.de/dp/B077
 
 ℹ️:
 
-- Ganze Bohne, nach dem Mahlen für alle Kaffee-Zubereitungen geeignet
 - Italienische Espresso-Leidenschaft in Bio-Qualität
-- 100% Arabica / fruchtig und floral / Intensität 6
+- Ganze Bohne, nach dem Mahlen für alle Kaffee-Zubereitungen geeignet
 - Bio-und UTZ-zertifiziert / aus nachhaltigem Anbau
+- 100% Arabica / fruchtig und floral / Intensität 6
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077BCJYKW/?tag=tolees0ca-21)

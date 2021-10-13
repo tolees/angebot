@@ -28,12 +28,12 @@ Es gibt ein [OSRAM Lamps - Osram LED SuperStar Special Line  mit R7S-Sockel  dim
 
 ℹ️:
 
-- Energieverbrauch 15 kWh/1000h bei 2000 lm
-- Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
-- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt)
-- Stufenlos dimmbar - schaffen Sie Ihre persönliche Lichtatmosphäre
-- Sofort volles Licht, keine Aufwärmzeit
 - Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 125-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
+- Sofort volles Licht, keine Aufwärmzeit
+- Stufenlos dimmbar - schaffen Sie Ihre persönliche Lichtatmosphäre
+- Energieverbrauch 15 kWh/1000h bei 2000 lm
+- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt)
+- Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 - Sehr lange Lebensdauer – bis zu 25000 Stunden und bis zu 100000 Schaltzyklen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B072JZHGDJ/?tag=tolees0ca-21)

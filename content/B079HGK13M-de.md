@@ -28,10 +28,10 @@ Sie können [KATADYN 8019670 Wasserfilter Hiker Pro-Transparent](https://www.ama
 
 ℹ️:
 
-- Wirksam gegen Mikroorganismen, schlechten Geschmack, Chemikalien, Leichter und kompakter Filter für den häufigen Gebrauch, Für leicht trübes Wasser geeignet
-- Reinigbarer Filterschutz – verlängert die Lebensdauer der Filterkartusche
-- Aktivkohle-Granulat – verbessert den Wassergeschmack
-- Glasfaser-Filterelement – entfernt Bakterien, Giardia und Cryptosporidium
 - Schnellanschluss-Kupplungen – einfaches Befestigen / Abnehmen der Schläuche
+- Aktivkohle-Granulat – verbessert den Wassergeschmack
+- Reinigbarer Filterschutz – verlängert die Lebensdauer der Filterkartusche
+- Wirksam gegen Mikroorganismen, schlechten Geschmack, Chemikalien, Leichter und kompakter Filter für den häufigen Gebrauch, Für leicht trübes Wasser geeignet
+- Glasfaser-Filterelement – entfernt Bakterien, Giardia und Cryptosporidium
 
 [🛒 Hier!!](https://www.amazon.de/dp/B079HGK13M/?tag=tolees0ca-21)

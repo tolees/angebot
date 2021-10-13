@@ -28,10 +28,10 @@ Sie können [Mirka Roundy Handschleifer mit Absaugung Starter-Set / Schleifklotz
 
 ℹ️:
 
-- Mirka Roundy Handschleifer: Praktischer kleiner und flacher Schleifblock mit Absaugfunktion für Ø 150 mm Schleifscheiben. Geeignet zum Schleifen im Trockenbaubereich, von Holzoberflächen, Lack, alter Farbe und Kunststoff. Die seitenumschließende Scheibe ermöglicht das Schleifen an schwer zu erreichenden Flächen und Kanten. Die Klett-Verbindung an der Unterseite lässt einen schnellen Wechsel des Schleifmittels zu
-- Gesundes & Staubfreies Schleifen mit Abranet Netzschleifmittel: Mirkas einzigartiges Schleifmittel ermöglicht durch seinen Gitternetz-Aufbau nahezu staubfreies Schleifen. Die vielen kleinen Löcher gewährleisten eine optimale Staubabsaugung und eine längere Haltbarkeit des Schleifmittels
-- So macht Schleifen Spaß: Mit dem Professionellen Mirka Roundy Handblock Starter-Set können Sie gleich mit dem Staubfreien Schleifen loslegen. Das Einatmen gesundheitsgefährdeter Stäube so wie die Reinigungsarbeiten werden deutlich reduziert
 - Absaugschlauch: Im Lieferumfang enthalten ist ein flexibler 4m langer Mirka Absaugschlauch für Handblöcke mit 20 mm Durchmesser. Der konische Adapter am Ende des Schlauches passt für alle gängigen Industriesauger mit einer Schlauchöffnung von 35-58mm
+- Gesundes & Staubfreies Schleifen mit Abranet Netzschleifmittel: Mirkas einzigartiges Schleifmittel ermöglicht durch seinen Gitternetz-Aufbau nahezu staubfreies Schleifen. Die vielen kleinen Löcher gewährleisten eine optimale Staubabsaugung und eine längere Haltbarkeit des Schleifmittels
+- Mirka Roundy Handschleifer: Praktischer kleiner und flacher Schleifblock mit Absaugfunktion für Ø 150 mm Schleifscheiben. Geeignet zum Schleifen im Trockenbaubereich, von Holzoberflächen, Lack, alter Farbe und Kunststoff. Die seitenumschließende Scheibe ermöglicht das Schleifen an schwer zu erreichenden Flächen und Kanten. Die Klett-Verbindung an der Unterseite lässt einen schnellen Wechsel des Schleifmittels zu
 - Lieferumfang: 1 x Mirka Roundy Schleifblock, 1 x Absaugschlauch für Handblöcke 4m x Ø 20 mm, Abranet Gitternetz-Schleifscheiben Ø 150mm Korn: 5 x P120, 5 x P180, 5 x P240
+- So macht Schleifen Spaß: Mit dem Professionellen Mirka Roundy Handblock Starter-Set können Sie gleich mit dem Staubfreien Schleifen loslegen. Das Einatmen gesundheitsgefährdeter Stäube so wie die Reinigungsarbeiten werden deutlich reduziert
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MRSCX05/?tag=tolees0ca-21)
