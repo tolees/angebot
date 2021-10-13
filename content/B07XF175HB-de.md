@@ -28,11 +28,11 @@ Sie können [LEGO 41901 DOTS Tiere Armband](https://www.amazon.de/dp/B07XF175HB/
 
 ℹ️:
 
-- Die Steinchen können für coole Designs benutzt und mit anderen DOTS Sets kombiniert werden!
-- Designspaß ohne Grenzen fördert die Kreativität.
-- Anzahl der Teile: 33
 - Vom Hersteller nicht mehr verkauft
 - Vom Hersteller empfohlenes Alter: 6+
 - Tiere Armband
+- Designspaß ohne Grenzen fördert die Kreativität.
+- Die Steinchen können für coole Designs benutzt und mit anderen DOTS Sets kombiniert werden!
+- Anzahl der Teile: 33
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XF175HB/?tag=tolees0ca-21)
