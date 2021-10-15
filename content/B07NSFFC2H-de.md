@@ -28,10 +28,10 @@ Es gibt ein [Dickie Toys 203749017 Toys City Liner  Straßenbahn  Spielzeug-Stra
 
 ℹ️:
 
-- Das Innere wurde sehr sorgfältig ausgearbeitet und entspricht den großen Vorbildern auf den Straßen der Stadt
-- Mit der City Liner Straßenbahn bietet Dickie Toys eine spannend gestaltete Ergänzung für die abwechslungsreiche Sammlung junger Fahrzeugfans
+- Dieser Artikel ist in verschiedenen Versionen erhältlich. Es erfolgt die zufällige Auswahl aus dem Lager. Die Vorauswahl bei der Bestellung ist leider nicht möglich
 - Damit erhalten Kinder ab drei Jahren einen Einblick in ein faszinierendes Fahrzeug, das sie sicher selbst oft nutzen
 - Die Spielzeug-Straßenbahn in zwei Ausführungen besitzt Türen zum Öffnen und braucht dank Freilauf auf dem Spielteppich keine Schienen
-- Dieser Artikel ist in verschiedenen Versionen erhältlich. Es erfolgt die zufällige Auswahl aus dem Lager. Die Vorauswahl bei der Bestellung ist leider nicht möglich
+- Mit der City Liner Straßenbahn bietet Dickie Toys eine spannend gestaltete Ergänzung für die abwechslungsreiche Sammlung junger Fahrzeugfans
+- Das Innere wurde sehr sorgfältig ausgearbeitet und entspricht den großen Vorbildern auf den Straßen der Stadt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07NSFFC2H/?tag=tolees0ca-21)
