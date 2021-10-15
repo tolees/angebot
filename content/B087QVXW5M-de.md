@@ -29,9 +29,9 @@ Sie können [Bosch Thermotechnik - Bosch Komfort Badlüfter Fan 1500 DH W 100 - 
 ℹ️:
 
 - Einfachste Bedienung durch An- und Ausschalten mit dem Lichtschalter - Wartungsarmes Gerät - Unkomplizierte Ein-Mann-Installation mit handelsüblichem Werkzeug. 5 Jahre Gewährleistung
-- Hochwertiger Badezimmerlüfter mit einstellbarer Nachlaufzeit zwischen 3 und 30 Minuten
+- Bosch Fan 1500 DH W 100: Der leise, leistungsstarke Abluftventilator mit Feuchtesensor und einstellbarer Nachlaufzeit - die komfortable Lösung gegen Feuchtigkeit, unangenehme Gerüche und Schimmelpilze
 - Die Badezimmerlüftung mit Feuchtigkeitssensor passt sich der Luftfeuchtigkeit im Raum an - Einmaliges Einstellen des Schwellenwertes zwischen 40 % und 90 % relative Luftfeuchtigkeit
 - Attraktives Bosch Design mit eleganter Frontplatte aus hochwertigem Kunststoff - Neutrales Weiß, kompatibel mit jedem Badezimmer-Einrichtungsstil
-- Bosch Fan 1500 DH W 100: Der leise, leistungsstarke Abluftventilator mit Feuchtesensor und einstellbarer Nachlaufzeit - die komfortable Lösung gegen Feuchtigkeit, unangenehme Gerüche und Schimmelpilze
+- Hochwertiger Badezimmerlüfter mit einstellbarer Nachlaufzeit zwischen 3 und 30 Minuten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B087QVXW5M/?tag=tolees0ca-21)

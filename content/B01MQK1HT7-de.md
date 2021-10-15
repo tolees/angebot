@@ -29,9 +29,9 @@ Sie können [Stanley FatMax Gripzange / Feststellzange  250 mm  gebogene Backen 
 ℹ️:
 
 - Regulierung: Spannkraft und Backenaufnahme justierbar - komfortabel in der Handhabung und praktikabel im Gebrauch
-- TRULOCK-Zugmechanismus: Kontrolliertes Lösen der Gripzange durch innovativen TRULOCK-Zugmechanismus
 - Bedienungsfreundlichkeit: Maschinell bearbeitete und induktionsgehärtete Greifflächen für höchste Stabilität und Haltbarkeit
-- Maximale Leistung: Schneidleistung 100kg/mm² bei 180mm
 - Lieferumfang: 1x Gripzange 250mm
+- TRULOCK-Zugmechanismus: Kontrolliertes Lösen der Gripzange durch innovativen TRULOCK-Zugmechanismus
+- Maximale Leistung: Schneidleistung 100kg/mm² bei 180mm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MQK1HT7/?tag=tolees0ca-21)

@@ -28,7 +28,7 @@ Sie können [PLAYMOBIL Country 70137 Kleintiere im Freigehege  ab 4 Jahren](http
 
 ℹ️:
 
-- Packungage die Größe: 6.9 L x 14.4 H x 14.4 W
 - Farbe: Bunt
+- Packungage die Größe: 6.9 L x 14.4 H x 14.4 W
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JLS11JY/?tag=tolees0ca-21)

@@ -28,14 +28,14 @@ Sie können [Lacoste Herren 39SFA0048 Sneaker  Blanc  Wht/NVY/Red   39.5 EU](htt
 
 ℹ️:
 
-- Absatzform: Flach
+- Innenmaterial: Synthetic
 - Absatzhöhe: 2 cm
+- Nicht wasserdicht
+- Absatzform: Flach
+- Schuhweite: Schmal
 - Sohle: Synthetic
 - Obermaterial: Synthetik
-- Verschluss: Schnürsenkel
-- Schuhweite: Schmal
 - Materialzusammensetzung: Leder
-- Innenmaterial: Synthetic
-- Nicht wasserdicht
+- Verschluss: Schnürsenkel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07SQZWRXC/?tag=tolees0ca-21)
