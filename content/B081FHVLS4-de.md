@@ -28,12 +28,12 @@ Es gibt ein [winSIM Handyvertrag LTE All 10 GB – ohne Vertragslaufzeit  FLAT I
 
 ℹ️:
 
-- Handyvertrag winSIM All 10 GB für nur 9,99 EUR pro Monat im Netzverbund der Telefónica. Bitte beachten Sie, dass es sich beim Amazon-Verkaufspreis nicht um die monatliche Grundgebühr handelt
 - winSIM ist eine Marke der Drillisch Online GmbH, Wilhelm-Röntgen-Str. 1-5, 63477 Maintal
-- Monatlich FLAT Telefonie und FLAT SMS in alle dt. Netze (ausgenommen Service- und Sonderrufnummern, Rückrufe aus der Mailbox sowie Anrufumleitungen) und EU-Ausland inklusive
-- Lieferumfang: Booklet. Aktivierungscode erhalten Sie von amazon.de per E-Mail
-- *Nach Verbrauch der 10 GB wird automatisch bis zu 3 x pro Monat 300 MB Datenvolumen für jeweils 2 EUR aufgebucht. Deaktivierung schriftlich, telefonisch oder in der persönlichen Servicewelt möglich.
-- Ohne Vertragslaufzeit. Der Vertrag kann jederzeit durch eine Partei mit einer Frist von drei (3) Monaten in Textform (per Brief, E-Mail oder Fax) gekündigt werden
 - Monatlich inklusive FLAT Internet 10 GB LTE mit max. 50 MBit/s danach deaktivierbare Datenautomatik* + EU-Ausland inklusive
+- Lieferumfang: Booklet. Aktivierungscode erhalten Sie von amazon.de per E-Mail
+- Handyvertrag winSIM All 10 GB für nur 9,99 EUR pro Monat im Netzverbund der Telefónica. Bitte beachten Sie, dass es sich beim Amazon-Verkaufspreis nicht um die monatliche Grundgebühr handelt
+- *Nach Verbrauch der 10 GB wird automatisch bis zu 3 x pro Monat 300 MB Datenvolumen für jeweils 2 EUR aufgebucht. Deaktivierung schriftlich, telefonisch oder in der persönlichen Servicewelt möglich.
+- Monatlich FLAT Telefonie und FLAT SMS in alle dt. Netze (ausgenommen Service- und Sonderrufnummern, Rückrufe aus der Mailbox sowie Anrufumleitungen) und EU-Ausland inklusive
+- Ohne Vertragslaufzeit. Der Vertrag kann jederzeit durch eine Partei mit einer Frist von drei (3) Monaten in Textform (per Brief, E-Mail oder Fax) gekündigt werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B081FHVLS4/?tag=tolees0ca-21)

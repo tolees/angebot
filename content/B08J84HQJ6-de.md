@@ -28,12 +28,12 @@ Es gibt ein [handyvertrag.de LTE All 3 GB - monatlich kündbar  Flat Internet 3 
 
 ℹ️:
 
-- *Nach Verbrauch der 3 GB wird automatisch bis zu 3x pro Monat 200 MB Datenvolumen für jeweils 2 EUR aufgebucht. Deaktivierung schriftlich, telefonisch oder in der persönlichen Servicewelt möglich.
 - handyvertrag. de ist ein Angebot der Drillisch Online GmbH, Wilhelm-Röntgen-Str. 1-5, 63477 Maintal
+- Monatlich FLAT Telefonie und FLAT SMS in alle dt. Netze (ausgenommen Service- und Sonderrufnummern, Rückrufe aus der Mailbox sowie Anrufumleitungen) und EU-Ausland inklusive
+- *Nach Verbrauch der 3 GB wird automatisch bis zu 3x pro Monat 200 MB Datenvolumen für jeweils 2 EUR aufgebucht. Deaktivierung schriftlich, telefonisch oder in der persönlichen Servicewelt möglich.
+- Lieferumfang: Booklet. Aktivierungscode erhalten Sie von amazon.de per E-Mail
+- Monatlich inklusive FLAT Internet 3 GB LTE mit max. 50 MBit/s danach deaktivierbare Datenautomatik* + EU-Ausland inklusive
 - Monatlich kündbar. Kündigung in Textform 30 Tage zum Ende des Kalendermonats, sonst Verlängerung um je 1 Monat.
 - handyvertrag. de LTE All 3 GB für nur 4,99 EUR pro Monat im Netzverbund der Telefónica. Bitte beachten Sie, dass es sich beim Amazon-Verkaufspreis nicht um die monatliche Grundgebühr handelt.
-- Monatlich inklusive FLAT Internet 3 GB LTE mit max. 50 MBit/s danach deaktivierbare Datenautomatik* + EU-Ausland inklusive
-- Lieferumfang: Booklet. Aktivierungscode erhalten Sie von amazon.de per E-Mail
-- Monatlich FLAT Telefonie und FLAT SMS in alle dt. Netze (ausgenommen Service- und Sonderrufnummern, Rückrufe aus der Mailbox sowie Anrufumleitungen) und EU-Ausland inklusive
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08J84HQJ6/?tag=tolees0ca-21)
