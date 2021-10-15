@@ -29,9 +29,9 @@ Es gibt ein [Naturtotal - Natur Total hCG C30 Globuli | Globuli hCG Stoffwechsel
 ℹ️:
 
 - 🌱 21-TAGE-STOFFWECHSELKUR: Die hCG Diät nach Dr. Simeons basiert auf Täuschung des Stoffwechsels. Erfolgreiche Ergebnisse, auch in den Wechseljahren, können dabei besonders bei den Fettreserven an Hüften und Oberschenkeln erzielt werden.
-- 🌱 HORMONFREIE GLOBULI: hCG Globuli C30 von Natur Total sind 100% vegan und hormonfrei. Die natürliche Herstellung erfolgt im Bioresonanzverfahren, welches die Globuli radionisch/ bioenergetisch informiert.
-- 🌱 EINFACHE DOSIERUNG: Nehmen Sie 3 x täglich 5 Globuli – Potenz C30. 100g Globuli aus Saccharose enthalten 0g Fett, 0g Eiweiß, 0g Salz und 100g Kohlenhydrate (davon 100% Zucker).
-- 🌱 APOTHEKENQUALITÄT: Die hCG Globuli sind weder verschreibungs- noch apothekenpflichtig. Die zertifizierte Produktion in Deutschland erfolgt unter ständiger Kontrolle – herausragende Nahrungsergänzungsmittel in Natur Total Qualität.
 - 🌱 PRAKTISCHE ERGÄNZUNG: OPC Leptin ist ein appetitzügelndes Hormon und scheint eine entscheidende Rolle bei Übergewicht zu spielen. Unsere hCG C30 Globuli wirken ergänzend und unterstützend.
+- 🌱 HORMONFREIE GLOBULI: hCG Globuli C30 von Natur Total sind 100% vegan und hormonfrei. Die natürliche Herstellung erfolgt im Bioresonanzverfahren, welches die Globuli radionisch/ bioenergetisch informiert.
+- 🌱 APOTHEKENQUALITÄT: Die hCG Globuli sind weder verschreibungs- noch apothekenpflichtig. Die zertifizierte Produktion in Deutschland erfolgt unter ständiger Kontrolle – herausragende Nahrungsergänzungsmittel in Natur Total Qualität.
+- 🌱 EINFACHE DOSIERUNG: Nehmen Sie 3 x täglich 5 Globuli – Potenz C30. 100g Globuli aus Saccharose enthalten 0g Fett, 0g Eiweiß, 0g Salz und 100g Kohlenhydrate (davon 100% Zucker).
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00B5VBX72/?tag=tolees0ca-21)

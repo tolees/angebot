@@ -28,10 +28,10 @@ Es gibt ein [LOGONA Naturkosmetik Anti-Schuppen Shampoo Bio-Wacholderöl  Effekt
 
 ℹ️:
 
-- LOGONA Von Natur aus schön. Steht für mehr als 40 Jahre Erfahrung in der Naturkosmetik. NATRUE zertifizierte Naturkosmetik mit Bio-Pflanzenextrakten aus eigener Herstellung in Deutschland - CO2-neutraler Produktionsstandort
-- Reinigt und verwöhnt die aus dem Gleichgewicht geratene Kopfhaut besonders sanft. Verringert die Neubildung von Schuppen nachhaltig! Ganz ohne Silikone, Paraffine oder Mineralöle
 - Bio-Wacholderhöl wird traditionell zur Bekämpfung von Schuppen genutzt und ist auch für seine antimikrobielle Wirkung bekannt
-- Durch die Verwendung milder, nicht reizender Zuckertenside sowie waschaktiven ph-neutralen Aminosäuren, wird das Irritationspotenzial verringert
+- Reinigt und verwöhnt die aus dem Gleichgewicht geratene Kopfhaut besonders sanft. Verringert die Neubildung von Schuppen nachhaltig! Ganz ohne Silikone, Paraffine oder Mineralöle
 - Das Anti-Schuppen Shampoo pflegt dein Haar und befreit die Kopfhaut sanft von Schuppen. Hilft bei regelmäßiger Anwendung die Neubildung zu verhindern. In 100% recycelter & recylbarer Flasche
+- Durch die Verwendung milder, nicht reizender Zuckertenside sowie waschaktiven ph-neutralen Aminosäuren, wird das Irritationspotenzial verringert
+- LOGONA Von Natur aus schön. Steht für mehr als 40 Jahre Erfahrung in der Naturkosmetik. NATRUE zertifizierte Naturkosmetik mit Bio-Pflanzenextrakten aus eigener Herstellung in Deutschland - CO2-neutraler Produktionsstandort
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0029FLWM4/?tag=tolees0ca-21)

@@ -28,11 +28,11 @@ Sie können [LANCASTER Sun Beauty Satin Dry Oil Fast Tan Optimizer LSF 50  Sonne
 
 ℹ️:
 
-- Packungage die Größe: 17.8 L X 4.8 H X 5.4 W (Centimeters)
-- Skin typ: Alle
-- Sun Protection: 50.0
-- Das Pflegende Sonnenöl ist ein Umfassender Sonnenschutz
 - Directions: vor Dem Sonnenbaden Anwenden
+- Skin typ: Alle
+- Packungage die Größe: 17.8 L X 4.8 H X 5.4 W (Centimeters)
+- Sun Protection: 50.0
 - Marke-Produkte Lancaster
+- Das Pflegende Sonnenöl ist ein Umfassender Sonnenschutz
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00TYQAW5Y/?tag=tolees0ca-21)

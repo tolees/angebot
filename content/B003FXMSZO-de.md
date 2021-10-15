@@ -28,9 +28,9 @@ Sie können [TOPEAK Mini 20 Pro Mini-Werkzeug  60102536GD  Gold  Einheitsgröß
 
 ℹ️:
 
-- Insgesamt 20 Werkzeuge – gehärteter Stahl.
 - Größe (L x B x H) 7,6 x 4,2 x 1,8 cm.
-- Gewicht: 150 g.
 - Körper aus geschmiedetem Aluminium.
+- Gewicht: 150 g.
+- Insgesamt 20 Werkzeuge – gehärteter Stahl.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B003FXMSZO/?tag=tolees0ca-21)

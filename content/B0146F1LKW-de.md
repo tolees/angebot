@@ -29,9 +29,9 @@ Sie können [Hugo Boss The Scent homme/men  After Shave Lotion  1er Pack  1 x 10
 ℹ️:
 
 - After Shave Lotion
+- maskulin
 - sinnlich
 - eine außergewöhnliche Duftkomposition
 - Herren
-- maskulin
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0146F1LKW/?tag=tolees0ca-21)

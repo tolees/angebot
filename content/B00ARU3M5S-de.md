@@ -28,12 +28,12 @@ Sie können [CTEK MXS 5.0 Test & Charge  Batterieladegerät 12V 5A  Batteriepfle
 
 ℹ️:
 
-- Fünf Jahre Garantie
-- Sicher und einfach zu bedienen: Geschützt gegen Spritzwasser und Staub, kurzschlussfest und mit Schutz der Fahrzeugelektronik. Funkengeschützte und verpolungssichere Klemmen
 - Connect and Forget: Schnelle, vollautomatische Ladeprogramme. Über die Modustaste das Programm wählen – das Ladegerät erledigt den Rest
-- Testet Batterie und Lichtmaschine: Drei einzigartige und einfach durchzuführende Tests, um den Zustand und die Leistung von Batterie und Fahrzeugladesystem zu ermitteln
+- Fünf Jahre Garantie
 - Perfekt für anspruchsvolle 12-V Blei-Säure-Batterien: Hochleistungsbatterien mit Leichtigkeit pflegen. Geeignet für alle Blei-Säure-Batterien einschließlich AGM mit 12 V
+- Sicher und einfach zu bedienen: Geschützt gegen Spritzwasser und Staub, kurzschlussfest und mit Schutz der Fahrzeugelektronik. Funkengeschützte und verpolungssichere Klemmen
 - Schützt empfindliche Geräte: Im Gegensatz zu weniger durchdachten Ladegeräten muss die Batterie nicht abgeklemmt werden. Alle Ladegeräte von CTEK werden speziell daraufhin entwickelt, elektronische Systeme zu schützen und Batterien nicht zu überladen oder zu unterladen
+- Testet Batterie und Lichtmaschine: Drei einzigartige und einfach durchzuführende Tests, um den Zustand und die Leistung von Batterie und Fahrzeugladesystem zu ermitteln
 - Patentierte Erhaltungs/Puls-Wartung: Ideal für das langfristige Warten von Batterien
 - Patentierte Entsulfatierungsfunktion: Ungenutzte Batterien verlieren durch Sulfatierung an Leistung und Lebensdauer. Das Ladegerät analysiert den Zustand der Batterie und versucht, den Zustand zu verbessern und die Leistungsfähigkeit wiederherzustellen
 

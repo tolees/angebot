@@ -28,9 +28,9 @@ Sie können [Elizabeth Arden Eight Hour Cream – Intensive Lip Repair Balm  11 
 
 ℹ️:
 
-- spendet intensiv Feuchtigkeit
 - stärkt die Feuchtigkeitsbarriere der Haut
-- regeneriert trockene, rissige Lippen
 - Eight Hour Cream Intensive Lip Repair Balm
+- spendet intensiv Feuchtigkeit
+- regeneriert trockene, rissige Lippen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00EU8A49K/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Sie können [Yankee Candle Duftkerze im Glas  groß  | Vanilla Cupcake | Brennda
 ℹ️:
 
 - Das reichhaltig-cremige Aroma von Vanilleküchlein mit einem Hauch von Zitrone und Buttercreme
-- Jede große Kerze befindet sich in einem klassischen Glas mit Deckel, der dafür sorgt, dass der Duft erhalten bleibt
-- Ausgewählte Zutaten und Premiumwachs sorgen für ein angenehmes, dauerhaftes Dufterlebnis in jedem Raum
 - 100% bleifreier Baumwolldocht; gerade gezogen und zentriert für ein gleichmäßiges Abbrennen
+- Ausgewählte Zutaten und Premiumwachs sorgen für ein angenehmes, dauerhaftes Dufterlebnis in jedem Raum
+- Jede große Kerze befindet sich in einem klassischen Glas mit Deckel, der dafür sorgt, dass der Duft erhalten bleibt
 - Brenndauer der Duftkerze: 110 bis 150 Stunden; Gewicht: 623 g
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0037EEK7A/?tag=tolees0ca-21)

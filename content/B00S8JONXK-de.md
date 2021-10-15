@@ -28,10 +28,10 @@ Es gibt ein [Paco Home Designer Teppich Wohnzimmer Teppich Bordüre in Grau Schw
 
 ℹ️:
 
-- STANDARD 100 by OEKO-TEX
 - Material: 100 % Polypropylen
-- Fußbodenheizung geeignet
-- Florhöhe: 9 mm / Gewicht: 1350 g/m²
+- STANDARD 100 by OEKO-TEX
 - Pflegeleicht und schmutzresistent
+- Florhöhe: 9 mm / Gewicht: 1350 g/m²
+- Fußbodenheizung geeignet
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00S8JONXK/?tag=tolees0ca-21)
