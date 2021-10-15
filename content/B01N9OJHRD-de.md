@@ -28,9 +28,9 @@ Sie können [Pentel Gel-Tintenroller  Metallic  irisierend  1 mm Pochette de 6
 
 ℹ️:
 
-- Gel-Tinte, metallisch schimmernder, 2 verschiedene Farb-Effekt auf dem Papier, hell oder dunkel
 - - Effekt Farbe ändert je nach Betrachtungswinkel
 - 12 Stück Tintenroller Pentel Hybrid Dual Metallic
 - Tasche mit 6 Farben (blau + grün metallic, schwarz + rot metallic, lila + orange + gelb metallic, blau metallic, silber und gold)
+- Gel-Tinte, metallisch schimmernder, 2 verschiedene Farb-Effekt auf dem Papier, hell oder dunkel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01N9OJHRD/?tag=tolees0ca-21)
