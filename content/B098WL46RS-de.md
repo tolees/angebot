@@ -29,9 +29,9 @@ Es gibt ein [Crucial P5 Plus CT1000P5PSSD8 1TB Solid State Laufwerk  PCIe 4.0  3
 ℹ️:
 
 - Entwickelt für Hardcore-Gamer, Profis und Kreative, die Hochleistungs-Computing verlangen
-- Aufbauend auf unserer führenden Micron Advanced 3D-NAND- und innovativen Controller-Technologie
 - Mit einer MTTF von mehr als 2 Millionen Stunden für verlängerte Lebensdauer und Zuverlässigkeit
-- Unterstützt durch eine eingeschränkte fünfjährige Garantie oder bis zum Erreichen der angegebenen maximalen Lebensdauer von 600 TBW
 - PCIe 4.0 NVMe-Technologie mit einer sequenziellen Lesegeschwindigkeit von bis zu 6.600 MB/s
+- Unterstützt durch eine eingeschränkte fünfjährige Garantie oder bis zum Erreichen der angegebenen maximalen Lebensdauer von 600 TBW
+- Aufbauend auf unserer führenden Micron Advanced 3D-NAND- und innovativen Controller-Technologie
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B098WL46RS/?tag=tolees0ca-21)
