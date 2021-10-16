@@ -28,10 +28,10 @@ Sie können [LEGO 60213 City Feuerwehr am Hafen Set mit Wasserkanone und Feuerwe
 
 ℹ️:
 
+- Umfasst ein Feuerwehrboot mit Mehrfachschuss-Wasserkanone (Neuheit ab Januar 2019) und einen hochklappbaren Motor.
 - Als Zubehör sind ein Funkgerät, eine Sackkarre, 3 Wasserelemente, ein Warnschild, ein baubares Feuerelement und 2 baubare Fässer enthalten.
 - Enthält 2 LEGO City Minifiguren: einen Feuerwehrmann und einen Hafenarbeiter.
-- Umfasst ein Feuerwehrboot mit Mehrfachschuss-Wasserkanone (Neuheit ab Januar 2019) und einen hochklappbaren Motor.
-- Enthält zudem eine Hafenszene samt Leiter.
 - Das Boot schwimmt wirklich auf dem Wasser.
+- Enthält zudem eine Hafenszene samt Leiter.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNN17DW/?tag=tolees0ca-21)
