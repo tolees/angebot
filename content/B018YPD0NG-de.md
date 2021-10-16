@@ -30,8 +30,8 @@ Es gibt ein [Bosch Professional 5 Stück Trennscheibe Expert for Inox  für Edel
 
 - Scheibendurchmesser: 76 mm, Bohrungsdurchmesser: 10,00 mm, Scheibendicke: 1,0 mm
 - Bosch Professional Trennscheibe Expert for Inox (A 60 R Inox BF)
-- Für max. Umfanggeschwindigkeit bis zu 80 m/s
-- Geeignet für Anwendungen in Edelstahl/Inox und Stahl
 - Kompatibel mit Winkelschleifern mit 10mm Aufnahme wie z.B. GWS 12V-76
+- Geeignet für Anwendungen in Edelstahl/Inox und Stahl
+- Für max. Umfanggeschwindigkeit bis zu 80 m/s
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B018YPD0NG/?tag=tolees0ca-21)
