@@ -30,8 +30,8 @@ Es gibt ein [Element System 4 Stück Stahlrohrfüße rund  Tischbeine  Möbelfü
 
 - ABMESSUNG / LIEFERUMFANG / FARBE: Länge 800 mm, Durchmesser 30 mm, maximale Belastung pro Möbelfuß 50 kg, Set bestehend aus 4 Möbelfüßen, schwarz
 - SCHAFFEN SIE PLATZ: Als europäischer Marktführer stehen die Original-Produkte von Element System seit über 60 Jahren für „Made in Germany“ und eine hervorragende Qualität.
-- FLEXIBEL EINSETZBAR: Schaffen Sie Platz und Ordnung im Büro, Heimwerkstatt, Keller, Garage und vielen anderen Räumen. Wer sich für Element System entscheidet, trifft immer die richtige Wahl.
 - HOCHWERTIGE QUALITÄT: Element Produkte werden in hochwertiger Qualität gefertigt und sind daher äußert stabil und belastbar. TÜV geprüft.
 - EINFACHE MONTAGE: die Möbelfüße werden mit den passenden Dübeln und Schrauben an die Tischplatte montiert.
+- FLEXIBEL EINSETZBAR: Schaffen Sie Platz und Ordnung im Büro, Heimwerkstatt, Keller, Garage und vielen anderen Räumen. Wer sich für Element System entscheidet, trifft immer die richtige Wahl.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00LFK4EVU/?tag=tolees0ca-21)

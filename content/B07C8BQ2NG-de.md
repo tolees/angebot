@@ -29,9 +29,9 @@ Es gibt ein [Corsair RM550x PC-Netzteil  Voll-Modulares Kabelmanagement  80 Plus
 ℹ️:
 
 - 550 Watt, 80 PLUS Gold-Zertifikat: Sehr hoher Wirkungsgrad
-- Zero-RPM-Lüftermodus: Bei niedriger und mittlerer Belastung praktisch geräuschloser Betrie; Vollmodularer Kabelsatz: Für einen einfachen und optischen PC-Bau
 - Lieferumfang: Corsair CP-9020177-EU RMX Serie RM550X ATX/EPS Voll Modular 80 PLUS Gold 550W Netzteil, EU
 - 100% japanische 105-Grad-Kondensatorer: Erstklassige interne Komponenten gewährleisten eine solide Stromversorgung
 - : 10 bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Zero-RPM-Lüftermodus: Bei niedriger und mittlerer Belastung praktisch geräuschloser Betrie; Vollmodularer Kabelsatz: Für einen einfachen und optischen PC-Bau
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07C8BQ2NG/?tag=tolees0ca-21)

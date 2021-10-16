@@ -28,10 +28,10 @@ Es gibt ein [Asmodee DE - Asmodee Trial by Trolley  Partyspiel  Kartenspiel  Deu
 
 ℹ️:
 
-- Bei Trial by Trolley handelt sich um ein moralisches Entscheidungsspiel im Cyanide and Happiness-Style mit einer großen Portion Galgenhumor
+- 3-13 Spieler | Ab 16+ Jahren | Bis zu 15+ Minuten Spielzeit je Partie | Spiel in Deutsch
 - Zeigt euer wahres Gesicht und lernt viel über die Moral eurer Mitspieler. Während ihr euch entscheidet, legen die anderen Mitspieler weitere unschuldige Opfer oder böse Charaktere auf die Gleise
 - Bei diesem Partyspiel seid ihr ein Schaffner eines unaufhaltsamen Zuges und fahrt auf eine Weiche zu. Aber Achtung: auf den Gleisen stehen Personen, Dinge oder Tiere
 - Trial by Trolley ist ein Spiel, in dem ein bekanntes Gedanken-Experiment am Spieltisch für viele Lacher sorgt: Welches Gleis mit welchen Leuten darauf würdest du überfahren, wenn du müsstest
-- 3-13 Spieler | Ab 16+ Jahren | Bis zu 15+ Minuten Spielzeit je Partie | Spiel in Deutsch
+- Bei Trial by Trolley handelt sich um ein moralisches Entscheidungsspiel im Cyanide and Happiness-Style mit einer großen Portion Galgenhumor
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08LQM6QVN/?tag=tolees0ca-21)
