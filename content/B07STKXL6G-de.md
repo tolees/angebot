@@ -28,11 +28,11 @@ Es gibt ein [Roccat Kain 100 AIMO RGB Gaming Maus ohne Mauspad  8.500 Dpi Pro-Op
 
 ℹ️:
 
-- AIMO Lichtsystem – RGB-Hintergrundbeleuchtung und LED-Lichteffekte
 - Puristisches Shape mit hochkomfortabler Ergonomie
-- Titan-Click-Technologie für außergewöhnliche Klick-Präzision
 - ROCCAT-exklusiver Omron-Switch mit einer Lebensdauer von 50 Millionen Clicks
-- ROCCAT Pro-Optic (R8) optischer Sensor mit 8.500 dpi
 - cable length: 1.8 m
+- ROCCAT Pro-Optic (R8) optischer Sensor mit 8.500 dpi
+- Titan-Click-Technologie für außergewöhnliche Klick-Präzision
+- AIMO Lichtsystem – RGB-Hintergrundbeleuchtung und LED-Lichteffekte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07STKXL6G/?tag=tolees0ca-21)

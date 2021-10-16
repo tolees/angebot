@@ -28,10 +28,10 @@ Sie können [Bosch Home and Garden - Bosch Hochdruckreiniger EasyAquatak 110  3x
 
 ℹ️:
 
-- Vielseitigste Einsatzmöglichkeiten durch das umfangreiche mitgelieferte Zubehör
+- Lieferumfang: Aquatak 110, Hochdruckpistole, Roto-Punkt-Düse, Hochdruck-Schaumdüse, Flachstrahl-Düse, transparenter Wasserfilter, Karton
+- Der kompakte Hochdruckreiniger Aquatak 110 für eine flexible und mühelose Reinigung
 - Die Werkzeuge von Bosch – Die handlichen Helfer, für alle kleinen Projekte
 - Energieeffizient durch Auto-Stopp-Funktion: Die Pumpe läuft nur, wenn Leistung abgerufen wird
-- Der kompakte Hochdruckreiniger Aquatak 110 für eine flexible und mühelose Reinigung
-- Lieferumfang: Aquatak 110, Hochdruckpistole, Roto-Punkt-Düse, Hochdruck-Schaumdüse, Flachstrahl-Düse, transparenter Wasserfilter, Karton
+- Vielseitigste Einsatzmöglichkeiten durch das umfangreiche mitgelieferte Zubehör
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077ZKKBFM/?tag=tolees0ca-21)
