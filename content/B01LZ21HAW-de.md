@@ -28,9 +28,9 @@ Sie können [Philips Aktivkohlefilter für Luftreiniger AC2882/10 und AC2287/10 
 
 ℹ️:
 
+- Große Filteroberfläche für hohe Filterleistung und lange Lebensdauer
+- Lange Lebensdauer ca. 12 Monate, je nach Nutzungsintensität
 - Aktivkohlefilter, passend für Luftreiniger AC2882/10, AC2887/10
 - Filtert effektiv schädliche Gase wie Benzol, Formaldehyd und weitere flüchtiche organische Verbindungen sowie schlechte Gerüchte heraus
-- Lange Lebensdauer ca. 12 Monate, je nach Nutzungsintensität
-- Große Filteroberfläche für hohe Filterleistung und lange Lebensdauer
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LZ21HAW/?tag=tolees0ca-21)

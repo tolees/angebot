@@ -28,10 +28,10 @@ Sie können [tonies Hörfiguren für Toniebox - Unter Meinem Bett 2 - ca. 45 Min
 
 ℹ️:
 
-- Stell den Tonie auf die Toniebox und alles ist möglich. Lausche, lerne, lache - oder tanze, bis die Wände wackeln! Jeder Tonie bringt seine eigene Geschichte mit.
-- Mitwirkende: Laing, Das Bo & Co, Erdmöbel, Bela B, Enno Bunger, Cäthe, Deniz Jaspersen, Albrecht Schrader u.v.m / Altersempfehlung ab 4 Jahren
-- Auf dem zweiten Teil des Supersamplers kommt erneut zusammen, was zusammengehört: Starke Songs, die mit intelligenten Texten, mit handgemachter und authentischer Musik überzeugen.
 - Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
+- Stell den Tonie auf die Toniebox und alles ist möglich. Lausche, lerne, lache - oder tanze, bis die Wände wackeln! Jeder Tonie bringt seine eigene Geschichte mit.
+- Auf dem zweiten Teil des Supersamplers kommt erneut zusammen, was zusammengehört: Starke Songs, die mit intelligenten Texten, mit handgemachter und authentischer Musik überzeugen.
+- Mitwirkende: Laing, Das Bo & Co, Erdmöbel, Bela B, Enno Bunger, Cäthe, Deniz Jaspersen, Albrecht Schrader u.v.m / Altersempfehlung ab 4 Jahren
 - Eine wundervolle Sammlung von emotionalen Songs, die Herz, Hirn und Tanzbeine gleichermaßen ansprechen. / Laufzeit ca. 45 min
 
 [🛒 Hier!!](https://www.amazon.de/dp/B06XY7Q5P5/?tag=tolees0ca-21)
