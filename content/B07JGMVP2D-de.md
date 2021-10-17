@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden 0603977005 Akkuschrauber PSR Select  1 5 Ah  
 
 ℹ️:
 
-- Überraschend kraftvoll und somit ideal für „DIY“ Anwendungen
+- Lieferumfang: PSR Select, MicroUSB Ladegerät, 12 Bit Set (inclusive IKEA bit), Bedienungsanleitung, Handwerkskoffer
 - Komfortabel dank Akkustandanzeige und Richtungslicht
+- Überraschend kraftvoll und somit ideal für „DIY“ Anwendungen
 - Der Bosch EasySelect Mechanismus mit 12 integrierten Standardbits in einer tranparenten, drehbaren Box mit einem Knopfdruck immer das richtige Bit zur Hand
 - Der Akkuschrauber PSR Select ist dank Micro USB Schnittstelle einfach aufzuladen
-- Lieferumfang: PSR Select, MicroUSB Ladegerät, 12 Bit Set (inclusive IKEA bit), Bedienungsanleitung, Handwerkskoffer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07JGMVP2D/?tag=tolees0ca-21)

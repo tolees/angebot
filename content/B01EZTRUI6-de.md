@@ -28,10 +28,10 @@ Es gibt ein [Bosch Hausgeräte - Bosch PIF645BB1E Serie 6 Induktionskochfeld  au
 
 ℹ️:
 
-- Gerätemaße H x B x T (cm): 12.6 x 60.3 x 75.3
-- Glaskeramik
-- Induktion
-- Artikelabmessungen (ohne Verpackung) H x B x T (cm): 5,5 x 58,3 x 51,3
 - Einbaugerät
+- Glaskeramik
+- Artikelabmessungen (ohne Verpackung) H x B x T (cm): 5,5 x 58,3 x 51,3
+- Induktion
+- Gerätemaße H x B x T (cm): 12.6 x 60.3 x 75.3
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01EZTRUI6/?tag=tolees0ca-21)

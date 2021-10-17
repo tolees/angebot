@@ -28,10 +28,10 @@ Es gibt ein [essence mattifying compact powder  Puder  Nr. 04 perfect beige  nud
 
 ℹ️:
 
-- Für Mischhaut, für trockene Haut, für unreine Haut, für reife Haut, vegan, Nanopartikel frei, entspricht unserem CLEAN BEAUTY Standard, ölfrei, ohne Alkohol, ohne Parabene, glutenfrei, ohne Aceton.
-- Durch seine seidige Textur lässt sich das Powder einfach mit einem Puderpinsel auftragen und sorgt für ein natürliches Make-up mit einem makellosen, mattierten Finish.
-- Ob ein heller Hautton oder ein sonnengeküsster Teint - das Puder bitete die perfekte Auswahl für jeden.
-- Wir sagen Nein zu Tierversuchen. cosnova ist mit essence und CATRICE sowohl bei PETA Deutschland als auch bei PETA international gelistet.
 - Mit seiner seidig-glatten Textur lässt der Puder sich wunderbar auftragen. Für ein makelloses, mattiertes Finish wie vom Profi. Der Puder fixiert das Make-up.
+- Ob ein heller Hautton oder ein sonnengeküsster Teint - das Puder bitete die perfekte Auswahl für jeden.
+- Durch seine seidige Textur lässt sich das Powder einfach mit einem Puderpinsel auftragen und sorgt für ein natürliches Make-up mit einem makellosen, mattierten Finish.
+- Wir sagen Nein zu Tierversuchen. cosnova ist mit essence und CATRICE sowohl bei PETA Deutschland als auch bei PETA international gelistet.
+- Für Mischhaut, für trockene Haut, für unreine Haut, für reife Haut, vegan, Nanopartikel frei, entspricht unserem CLEAN BEAUTY Standard, ölfrei, ohne Alkohol, ohne Parabene, glutenfrei, ohne Aceton.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004LXHMH6/?tag=tolees0ca-21)

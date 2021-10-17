@@ -28,10 +28,10 @@ Es gibt ein [Axing SSD 4-00 Sat Twin-Dose 4-Loch Antennen-Steckdose  SAT / SAT /
 
 ℹ️:
 
-- Inklusive abnehmbaren Aufputzrahmen und Abdeckung, auch zur Unterputzmontage geeignet
-- Anschlüsse: Sat1 (F-Buchse) 950-2200 MHz, Sat2 (F-Buchse) 5-2200 MHz, TV (IEC-M) 125-862 / 5-65 MHz (Rückkanaltauglich), Radio (IEC-F) 87,5-108 MHz
 - Lieferumfang: Sat-Steckdose; Rahmen; Deckel
 - 4-Loch Sat-Twin-Stichleitungsdose zum Anschluss an 2 Ausgänge von Multischalter oder LNB
+- Anschlüsse: Sat1 (F-Buchse) 950-2200 MHz, Sat2 (F-Buchse) 5-2200 MHz, TV (IEC-M) 125-862 / 5-65 MHz (Rückkanaltauglich), Radio (IEC-F) 87,5-108 MHz
+- Inklusive abnehmbaren Aufputzrahmen und Abdeckung, auch zur Unterputzmontage geeignet
 - Zum Anschluss an Twin-Receiver, Twin-Tuner oder 2 Satellitenreceiver
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002BZI84M/?tag=tolees0ca-21)
