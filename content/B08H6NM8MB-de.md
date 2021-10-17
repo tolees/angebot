@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.30 % rabat auf Warner Bros Entertainment - Supernatural'
-date: 2021-10-16 13:04:46
+date: 2021-10-17 13:45:34
 image: 'https://m.media-amazon.com/images/I/41NjGQCwrKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros Entertainment'
 buyurl: 'https://www.amazon.de/dp/B08H6NM8MB/?tag=tolees0ca-21'
 descuento: '37.30'
-average: '28.6454545454545'
+average: '28.3320588235294'
 ---
 
 Es gibt ein [Warner Bros Entertainment - Supernatural: Staffel 14 [Blu-ray]](https://www.amazon.de/dp/B08H6NM8MB/?tag=tolees0ca-21) mit aktuellem Preis 17.99 EUR (original: 28.69 EUR) 37.30 % Rabatt hier:

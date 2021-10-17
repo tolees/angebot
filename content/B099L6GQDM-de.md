@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.43 % rabat auf Walt Disney - Cruella [Blu-ray]'
-date: 2021-10-16 13:37:32
+date: 2021-10-17 13:45:19
 image: 'https://m.media-amazon.com/images/I/51aLKgzo69L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B099L6GQDM/?tag=tolees0ca-21'
 descuento: '29.43'
-average: '15.7254545454545'
+average: '15.4141666666666'
 ---
 
 Es gibt ein [Walt Disney - Cruella [Blu-ray]](https://www.amazon.de/dp/B099L6GQDM/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 16.99 EUR) 29.43 % Rabatt hier:
