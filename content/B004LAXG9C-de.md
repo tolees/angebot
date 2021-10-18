@@ -28,9 +28,9 @@ Sie können [TUGA Chemie 5712088 Sprühflasche Alu-Teufel Spezial Sprayer 1000 m
 
 ℹ️:
 
-- durch die gelartige konsistenz haftet der alu-teufel-spezial hervorragend an der felge und kann somit den schmutz außerordentlich gut anlösen. der reiniger arbeitet absolut selbsttätig, so dass eine manuelle/mechanische bearbeitung der felge in der regel nicht mehr notwendig ist.
-- Inhaltsstoffe gemäß Detergenzienrichtlinie Anhang VII D, EC -648/2004 : AQUA, SODIUM THIOGLYCOLATE, SODIUM LAURETH SULFATE, CAPRYL GLUCOSIDE, XANTHAM GUM, COUMARIN, COLOR
-- der neue alu-teufel-spezial ist ein moderner hochleistungs-felgenreiniger. die neue, säurefreie rezeptur ermöglicht die problemlose reinigung von stahl- und aluminiumfelgen sowie radkappen.
 - er entfernt zuverlässig mittlere bis starke verschmutzungen, insbesondere bremsbelagabrieb. dies ist vor allem im bereich der vorderräder akut. das produkt besticht durch ein exzellentes preis-leistungsverhältnis.
+- durch die gelartige konsistenz haftet der alu-teufel-spezial hervorragend an der felge und kann somit den schmutz außerordentlich gut anlösen. der reiniger arbeitet absolut selbsttätig, so dass eine manuelle/mechanische bearbeitung der felge in der regel nicht mehr notwendig ist.
+- der neue alu-teufel-spezial ist ein moderner hochleistungs-felgenreiniger. die neue, säurefreie rezeptur ermöglicht die problemlose reinigung von stahl- und aluminiumfelgen sowie radkappen.
+- Inhaltsstoffe gemäß Detergenzienrichtlinie Anhang VII D, EC -648/2004 : AQUA, SODIUM THIOGLYCOLATE, SODIUM LAURETH SULFATE, CAPRYL GLUCOSIDE, XANTHAM GUM, COUMARIN, COLOR
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004LAXG9C/?tag=tolees0ca-21)
