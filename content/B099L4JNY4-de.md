@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.10 % rabat auf Cruella 4K UHD [Blu-ray]'
-date: 2021-10-17 13:43:41
+date: 2021-10-18 19:57:37
 image: 'https://m.media-amazon.com/images/I/51Lbdyt965L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B099L4JNY4/?tag=tolees0ca-21'
 descuento: '15.10'
-average: '28.3425'
+average: '28.3169230769231'
 ---
 
 Es gibt ein [Cruella 4K UHD [Blu-ray]](https://www.amazon.de/dp/B099L4JNY4/?tag=tolees0ca-21) mit aktuellem Preis 28.01 EUR (original: 32.99 EUR) 15.10 % Rabatt hier:
