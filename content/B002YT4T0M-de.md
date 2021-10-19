@@ -28,10 +28,10 @@ Es gibt ein [Atlantic Mineralölwerk GmbH - Atlantic Kettenfett mit PTFE 500 ml 
 
 ℹ️:
 
-- Art.-Nr. 3597 - 500 ml Spraydose mit Schnorchel
-- ATLANTIC Kettenfett mit PTFE bildet einen intensiv haftenden durchsichtigen Schutzfilm, der Staub und Schmutz von der Kette fernhält.
-- Reinigungs- und Schmierintervalle verlängern sich. Besonders kriech- und haftfähig.
 - Dadurch ist ein extrem hoher Verschleißschutz garantiert.
+- Art.-Nr. 3597 - 500 ml Spraydose mit Schnorchel
+- Reinigungs- und Schmierintervalle verlängern sich. Besonders kriech- und haftfähig.
 - Das enthaltene PTFE (Teflon®) besitzt Notschmiereigenschaften und sorgt über die Schmierwirkung des Fettes hinaus für einen ruhigen Lauf der Kette.
+- ATLANTIC Kettenfett mit PTFE bildet einen intensiv haftenden durchsichtigen Schutzfilm, der Staub und Schmutz von der Kette fernhält.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002YT4T0M/?tag=tolees0ca-21)
