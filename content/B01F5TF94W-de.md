@@ -28,10 +28,10 @@ Es gibt ein [tonies Hörfiguren für Toniebox: Benjamin BLÜMCHEN Hörspiel - Be
 
 ℹ️:
 
-- Autor: Vincent Andreas / Eingesprochen wurden Sie von den Sprechern J. Kluckert u.a. / Altersempfehlung ab 3 Jahren
+- Da staunen Benjamin, Otto und Stella: Ein Transporter bringt neue Tiere für den Zoo. Aber viel zu früh – die Gehege sind noch nicht fertig! Und Karl ist im Urlaub. Was nun?
 - Stell den Tonie auf die Toniebox und alles ist möglich. Lausche, lerne, lache - oder tanze, bis die Wände wackeln! Jeder Tonie bringt seine eigene Geschichte mit.
+- Autor: Vincent Andreas / Eingesprochen wurden Sie von den Sprechern J. Kluckert u.a. / Altersempfehlung ab 3 Jahren
 - Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
 - Ganz einfach: Die drei Freunde bauen selbst drauflos. Leider hat der Bürgermeister etwas dagegen. Aber Benjamin lässt sich nicht das Baggern verbieten! Laufzeit ca. 41 min
-- Da staunen Benjamin, Otto und Stella: Ein Transporter bringt neue Tiere für den Zoo. Aber viel zu früh – die Gehege sind noch nicht fertig! Und Karl ist im Urlaub. Was nun?
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01F5TF94W/?tag=tolees0ca-21)

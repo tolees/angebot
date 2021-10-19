@@ -28,11 +28,11 @@ Es gibt ein [DeWalt Ersatz-Akku 18 0 Volt/ 4 0 Ah XR Li-Ion  kompatibel mit alle
 
 ℹ️:
 
-- Herstellergarantie: 3 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- Lange Laufzeit und hohe Lebensdauer
-- Innovative Lithium-Ionen Technologie für eine sehr lange Lebensdauer und optimierte Ladezyklen
-- Kompatibel mit allen 18,0 Volt XR Akku-Maschinen von DeWalt
 - LED Akku Ladestandsanzeige
 - Lieferumfang: 1x Ersatzakku
+- Herstellergarantie: 3 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Innovative Lithium-Ionen Technologie für eine sehr lange Lebensdauer und optimierte Ladezyklen
+- Kompatibel mit allen 18,0 Volt XR Akku-Maschinen von DeWalt
+- Lange Laufzeit und hohe Lebensdauer
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B008LAFV32/?tag=tolees0ca-21)

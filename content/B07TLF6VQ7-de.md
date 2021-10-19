@@ -28,12 +28,12 @@ Sie können [Einhell Akkuschrauber TC-CD 18/35 Li-Solo Power X-Change  Li-Ion  1
 
 ℹ️:
 
-- Ergonomisches Design mit Softgrip-Flächen - Der ergonomische Handgriff mit integrierten Softgrip-Flächen schont Handflächen und Gelenke bei längeren Einsätzen
-- Unendlicher Aktionsradius dank Power X-Change - Nie mehr nach Steckdosen suchen, nie mehr Ärger mit dem Verlängerungskabel. Der leistungsstarke Lithium-Ionen-Akku sorgt für kabellose Freiheit
 - Lieferung ohne Akku und Ladegerät - Die Lieferung erfolgt ohne Akku und Ladegerät, diese können separat erworben werden. Alle Power X-Change Akkus sind mit allen Geräten der Systemreihe kompatibel
 - Drehzahlelektronik mit 21 Drehmomentstufen - Die 21 Drehmomentstufen ermöglichen kraftvolles Schrauben und Bohren. Die Drehzahlelektronik garantiert material- und anwendungsfreundliches Arbeiten
-- Doppelhülsiges Schnellspannbohrfutter - Das 10 Millimeter Schnellspannbohrfutter ist doppelhülsig und nimmt das entsprechende Werkzeugzubehör im Handumdrehen auf
 - Inklusive LED-Licht - Durch das integrierte LED-Licht lassen sich auch dunkle oder schwer zugängliche Arbeitsbereiche optimal ausleuchten
+- Unendlicher Aktionsradius dank Power X-Change - Nie mehr nach Steckdosen suchen, nie mehr Ärger mit dem Verlängerungskabel. Der leistungsstarke Lithium-Ionen-Akku sorgt für kabellose Freiheit
 - Technische Daten - Leerlaufdrehzahl (Gang 1): 0-550 U/min; Max. Drehmoment hart: 35 Nm; Drehmomentstufen: 21 Stufen; Bohrfutter: 10 mm / Doppelhülsig
+- Doppelhülsiges Schnellspannbohrfutter - Das 10 Millimeter Schnellspannbohrfutter ist doppelhülsig und nimmt das entsprechende Werkzeugzubehör im Handumdrehen auf
+- Ergonomisches Design mit Softgrip-Flächen - Der ergonomische Handgriff mit integrierten Softgrip-Flächen schont Handflächen und Gelenke bei längeren Einsätzen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TLF6VQ7/?tag=tolees0ca-21)

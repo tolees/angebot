@@ -28,10 +28,10 @@ Sie können [Corsair Dominator Platinum RGB 32GB  2x16GB  DDR4 4000MHz C19 - sch
 
 ℹ️:
 
-- Das markante Corsair Dominator Platinum-Design ergänzt perfekt die weltweit besten Systeme und ermöglicht unverwechselbare High-End-Builds
 - Durch die Kombination aus Präzisionsdruckguss und Eloxierung entstehen absolute Premium-Speicher mit enormer Haltbarkeit
-- Ein direkt in die Platine eingebetteter Heatspreader führt die Abwärme der Module ab und ermöglicht, dass der Dominator Platinum RGB auch bei hohe Beanspruchung besonders kühl bleibt
 - Beleuchten Sie Ihren PC mit spektakulären Lichteffekten ausgehend von 12 individuell ansteuerbaren RGB-LEDs. SPD-Latenzzeit: 15-15-15-36
+- Das markante Corsair Dominator Platinum-Design ergänzt perfekt die weltweit besten Systeme und ermöglicht unverwechselbare High-End-Builds
+- Ein direkt in die Platine eingebetteter Heatspreader führt die Abwärme der Module ab und ermöglicht, dass der Dominator Platinum RGB auch bei hohe Beanspruchung besonders kühl bleibt
 - Handverlesene, streng selektierte Speicherchips sorgen für hohe Taktfrequenzen, niedrige Latenzen sowie maximalen Overclocking-Spielraum
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07S1YL7NM/?tag=tolees0ca-21)

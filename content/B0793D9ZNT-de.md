@@ -28,10 +28,10 @@ Sie können [Razer Mamba + Firefly Hyperflux  Bundle  - Kabellose Gaming Maus mi
 
 ℹ️:
 
-- Ultra leichte kabellose Gaming-Maus ohne Akku
-- Optischer 5G-Sensor mit echten 16.000 DPI
-- Razer HyperFlux-Technologie für kabellose Stromversorgung
 - Optimierte Oberflächenbeschichtung für perfekte Abtastung
+- Ultra leichte kabellose Gaming-Maus ohne Akku
+- Razer HyperFlux-Technologie für kabellose Stromversorgung
 - Mauspad mit Oberflächen aus Hartplastik und Stoff
+- Optischer 5G-Sensor mit echten 16.000 DPI
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0793D9ZNT/?tag=tolees0ca-21)

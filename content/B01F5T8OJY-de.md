@@ -28,10 +28,10 @@ Es gibt ein [tonies Hörfigur für Toniebox - Conni Hörspiel Conni kommt in den
 
 ℹ️:
 
-- Conni lernt schwimmen. Es ist gar nicht so leicht, Arme und Beine so zu bewegen, dass man nicht untergeht. Aber Conni schafft das alles und macht sogar ihr Seepferdchenabzeichen / Laufzeit ca. 46 min
+- Conni ist drei Jahre alt geworden und endlich alt genug für den Kindergarten. Darauf freut sich Conni schon lange. Im Kindergarten kann sie nämlich jeden Tag mit anderen Kindern spielen.
 - Autor: Liane Schneider / Eingesprochen wurden Sie von den Sprechern Wolf Frass u.a. / Altersempfehlung ab 3 Jahren
 - Stell den Tonie auf die Toniebox und alles ist möglich. Lausche, lerne, lache - oder tanze, bis die Wände wackeln! Jeder Tonie bringt seine eigene Geschichte mit.
-- Conni ist drei Jahre alt geworden und endlich alt genug für den Kindergarten. Darauf freut sich Conni schon lange. Im Kindergarten kann sie nämlich jeden Tag mit anderen Kindern spielen.
 - Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
+- Conni lernt schwimmen. Es ist gar nicht so leicht, Arme und Beine so zu bewegen, dass man nicht untergeht. Aber Conni schafft das alles und macht sogar ihr Seepferdchenabzeichen / Laufzeit ca. 46 min
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01F5T8OJY/?tag=tolees0ca-21)

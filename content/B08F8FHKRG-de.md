@@ -28,10 +28,10 @@ Es gibt ein [Astragon - The Bluecoats - North and South - [Nintendo Switch]](htt
 
 ℹ️:
 
-- Planen Sie Ihre Strategie, verschieben Sie Ihre Truppen und behalten Sie die Übersicht
-- 2-Spieler-Modus (lokal), in dem Kampfphasen automatisiert ablaufen
-- 4 verschiedene Spielgenres: Taktische Karte, Echtzeitschlachten, Fort Angriff/Verteidigung, Training
 - Erleben Sie den amerikanischen Bürgerkrieg in „The Bluecoats: North & South“.
 - Spiel in deutscher Sprache
+- 2-Spieler-Modus (lokal), in dem Kampfphasen automatisiert ablaufen
+- Planen Sie Ihre Strategie, verschieben Sie Ihre Truppen und behalten Sie die Übersicht
+- 4 verschiedene Spielgenres: Taktische Karte, Echtzeitschlachten, Fort Angriff/Verteidigung, Training
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08F8FHKRG/?tag=tolees0ca-21)
