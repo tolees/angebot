@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '26.21 % rabat auf Verbene Körpermilch - 250 ml - L OCCITAN'
-date: 2021-10-06 22:11:17
+title: '42.97 % rabat auf Verbene Körpermilch - 250 ml - L OCCITAN'
+date: 2021-10-19 21:20:58
 image: 'https://m.media-amazon.com/images/I/31DtIxeTTsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B00DTVBYE8-de Verbene Körpermilch - 250 ml - L OCCITANE'
 sku: 'B00DTVBYE8-de'
 tags: [ 'Beauty','Hautpflege','Körper-Feuchtigkeitspflege','Körperlotionen','Körperpflege','loccitane', ]
-actualPrice: 16.75 EUR
+actualPrice: 12.29 EUR
 currency: EUR
-price: 16.75
-comparePrice: 22.7 EUR
+price: 12.29
+comparePrice: 21.55 EUR
 prodname: 'Verbene Körpermilch - 250 ml - L OCCITANE'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LOCCITANE'
 buyurl: 'https://www.amazon.de/dp/B00DTVBYE8/?tag=tolees0ca-21'
-descuento: '26.21'
-average: '15.9633333333333'
+descuento: '42.97'
+average: '15.045'
 ---
 
-Es gibt ein [Verbene Körpermilch - 250 ml - L OCCITANE](https://www.amazon.de/dp/B00DTVBYE8/?tag=tolees0ca-21) mit aktuellem Preis 16.75 EUR (original: 22.7 EUR) 26.21 % Rabatt hier:
+Es gibt ein [Verbene Körpermilch - 250 ml - L OCCITANE](https://www.amazon.de/dp/B00DTVBYE8/?tag=tolees0ca-21) mit aktuellem Preis 12.29 EUR (original: 21.55 EUR) 42.97 % Rabatt hier:
 
 [![Verbene Körpermilch - 250 ml - L OCCITAN](https://m.media-amazon.com/images/I/31DtIxeTTsL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B00DTVBYE8/?tag=tolees0ca-21)
 
