@@ -28,10 +28,10 @@ Es gibt ein [adidas Herren CORE18 PES JKT Sport Jacket  Black/White  18-20  Gr. 
 
 ℹ️:
 
-- Seitentaschen für kleine Gegenstände
 - Raglanärmel
 - Gerippter Saum und gerippte Bündchen
-- Reguläre Passform
 - Hoher Kragen
+- Reguläre Passform
+- Seitentaschen für kleine Gegenstände
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076HQPPMZ/?tag=tolees0ca-21)

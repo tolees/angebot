@@ -28,11 +28,11 @@ Sie können [Logitech M185 Kabellose Maus  2.4 GHz Verbindung via Nano-USB-Empf�
 
 ℹ️:
 
-- Der Empfänger kann ständig eingesteckt bleiben: Falls Sie ihn entfernen müssen, findet er Platz in der schnurlosen Maus und geht so nicht verloren
-- Logitechs bewährte Zuverlässigkeit: Die M185 PC-Maus zeichnet sich durch hohe Qualität und Zuverlässigkeit aus
-- Universelle Kompatibilität: Diese Logitech Maus ist mit Windows PCs genauso wie mit Macs kompatibel. Auch wenn Sie Ihr Gerät wechseln, die Maus bleibt Ihnen erhalten
 - Kabellose Plug & Play-Verbindung: Die Bewegungsfreiheit einer Wireless Verbindung mit der Zuverlässigkeit einer Maus mit Kabel – im Büro, beim Gaming, mit und ohne Mauspad, auf Windows wie Mac Rechnern
 - Ein Jahr Batterielebensdauer: Der Ein-/Ausschalter und ein intelligenter Sleep-Modus helfen zusätzlich beim Energiesparen
+- Logitechs bewährte Zuverlässigkeit: Die M185 PC-Maus zeichnet sich durch hohe Qualität und Zuverlässigkeit aus
+- Universelle Kompatibilität: Diese Logitech Maus ist mit Windows PCs genauso wie mit Macs kompatibel. Auch wenn Sie Ihr Gerät wechseln, die Maus bleibt Ihnen erhalten
+- Der Empfänger kann ständig eingesteckt bleiben: Falls Sie ihn entfernen müssen, findet er Platz in der schnurlosen Maus und geht so nicht verloren
 - Winziger USB-Nano-Empfänger: Kann im Notebook eingesteckt bleiben. Einfaches Einrichten – nur einstecken und loslegen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0056I3IDW/?tag=tolees0ca-21)
