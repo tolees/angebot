@@ -28,10 +28,10 @@ Es gibt ein [Bosch Professional 12V System Akku Baustrahler GLI 12V-330  330 Lum
 
 ℹ️:
 
-- Flexibles und schnelles Aufstellen am Arbeitsplatz durch starken Magnet, Karabiner und Haken
-- Extrem hell: 10 LEDs mit zwei Helligkeitsstufen sorgen für eine ideale Ausleuchtung
-- Lieferumfang: GLI 12V-330, Karton
 - Die LED Akku Arbeitsleuchte GLI 12V-330 ermöglicht vielseitiges Arbeitslicht
+- Flexibles und schnelles Aufstellen am Arbeitsplatz durch starken Magnet, Karabiner und Haken
 - Professional 12V System; Kompakte Performance; Maximale Freiheit; Alle unsere Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel
+- Lieferumfang: GLI 12V-330, Karton
+- Extrem hell: 10 LEDs mit zwei Helligkeitsstufen sorgen für eine ideale Ausleuchtung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00MIUZAZA/?tag=tolees0ca-21)
