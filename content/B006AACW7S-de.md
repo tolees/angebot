@@ -28,9 +28,9 @@ Sie können [goki 55928 - Traktor](https://www.amazon.de/dp/B006AACW7S/?tag=tole
 
 ℹ️:
 
-- Material: Holz
 - Verpackungsabmessungen (L x B x H): 13.0 zm x 14.0 zm x 15.8 zm
-- Verpackungsgewicht: 600 g
 - Farbe: Blau
+- Material: Holz
+- Verpackungsgewicht: 600 g
 
 [🛒 Hier!!](https://www.amazon.de/dp/B006AACW7S/?tag=tolees0ca-21)

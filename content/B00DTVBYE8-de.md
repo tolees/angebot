@@ -28,8 +28,8 @@ Es gibt ein [Verbene Körpermilch - 250 ml - L OCCITANE](https://www.amazon.de/d
 
 ℹ️:
 
+- Feuchtigkeitsspendende, nach Verbene duftende Körpermilch.
 - ANWENDUNG: Diese Körpermilch ist reich an Sheabutter und Traubenkernöl, spendet Feuchtigkeit und pflegt die Haut. Verwenden Sie die Körpermilch nach dem Baden oder Duschen, um dem austrocknenden Effekt des Wassers auf die Haut entgegen zu wirken.
 - INHALTSSTOFFE: Extrakt von Verbene aus der Provence, Sheabutter, Traubenkernöl, Glycerin. Für eine gepflegte, zart duftende Haut.
-- Feuchtigkeitsspendende, nach Verbene duftende Körpermilch.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DTVBYE8/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Bosch Home and Garden - Bosch Akku Heckenschere EasyHedgeCut 18-45 
 
 ℹ️:
 
-- Leichte und gut ausbalancierte Heckenschere zum Trimmen kleinerer Hecken
-- Lieferumfang: EasyHedgeCut 18-45, 1 Akku 18V 2,0 Ah, Ladegerät GAL 1810 CV, Karton
 - Kabellose Mobilität für schnelle und saubere Schnitte im ganzen Garten
-- Bosch Anti-Blockier-System sorgt für unterbrechungsfreies Schneiden
+- Leichte und gut ausbalancierte Heckenschere zum Trimmen kleinerer Hecken
 - 45 cm Messerlänge und 15 mm Zahnabstand für leichte Trimmarbeiten
+- Bosch Anti-Blockier-System sorgt für unterbrechungsfreies Schneiden
+- Lieferumfang: EasyHedgeCut 18-45, 1 Akku 18V 2,0 Ah, Ladegerät GAL 1810 CV, Karton
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08SHWN9KH/?tag=tolees0ca-21)

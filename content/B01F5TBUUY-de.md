@@ -29,9 +29,9 @@ Sie können [tonies Hörfiguren für Toniebox - Bibi Blocksberg - Hexen gibt es 
 ℹ️:
 
 - Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
-- Erst seit kurzer Zeit wohnen die Blocksbergs in Neustadt. Doch schon bald merken die Nachbarn: Das ist keine normale Familie.
-- Autor: Elfie Donnelly / Eingesprochen wurden Sie von den Sprechern S. Bonasewicz u.a. / Altersempfehlung ab 4 Jahren
-- Stell den Tonie auf die Toniebox und alles ist möglich. Lausche, lerne, lache - oder tanze, bis die Wände wackeln! Jeder Tonie bringt seine eigene Geschichte mit.
 - Herr Müller behauptet sogar, die kleine Bibi fliege manchmal auf einem Besen durch die Luft. Bald munkeln alle Leute in der Stadt: Mutter und Tochter Blocksberg sind Hexen. / Laufzeit ca. 33 min
+- Stell den Tonie auf die Toniebox und alles ist möglich. Lausche, lerne, lache - oder tanze, bis die Wände wackeln! Jeder Tonie bringt seine eigene Geschichte mit.
+- Autor: Elfie Donnelly / Eingesprochen wurden Sie von den Sprechern S. Bonasewicz u.a. / Altersempfehlung ab 4 Jahren
+- Erst seit kurzer Zeit wohnen die Blocksbergs in Neustadt. Doch schon bald merken die Nachbarn: Das ist keine normale Familie.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01F5TBUUY/?tag=tolees0ca-21)

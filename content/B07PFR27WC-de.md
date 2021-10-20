@@ -28,10 +28,10 @@ Sie können [LG Electronics - LG SL4Y Soundbar  300 Watt  mit kabellosem Subwoof
 
 ℹ️:
 
-- 2.1-Soundbar mit kabellosem Subwoofer
-- Unterstützt LPCM, Dolby Digital und DTS Digital Surround; mit Adaptive Sound Control
-- Kompatibel zu Rücklautsprechern SPK8 für einen 4.1 Raumklang, inkl. Handbuch, Fernbedienung inkl. Batterien, Garantiekarte, Wandhalterung
-- Leistung: 300 Watt (2 x 50 Watt Front, 200 Watt Subwoofer)
 - Konnektivität: LG Sound Sync via Bluetooth und optischem Kabel; USB-Anschluss
+- Leistung: 300 Watt (2 x 50 Watt Front, 200 Watt Subwoofer)
+- Unterstützt LPCM, Dolby Digital und DTS Digital Surround; mit Adaptive Sound Control
+- 2.1-Soundbar mit kabellosem Subwoofer
+- Kompatibel zu Rücklautsprechern SPK8 für einen 4.1 Raumklang, inkl. Handbuch, Fernbedienung inkl. Batterien, Garantiekarte, Wandhalterung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07PFR27WC/?tag=tolees0ca-21)

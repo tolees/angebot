@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden - Bosch Feuchtemessgerät UniversalHumid  Hol
 
 ℹ️:
 
-- Schnelles Messen: Prüfen des Feuchtigkeitsgehalts von Holz per Stifttechnik als Orientierung für den Benutzer; Stifte leicht in das Holz steckbar
 - Lieferumfang: UniversalHumid, Holzgruppenaufkleber in 12 Sprachen, Handgelenkband, 3 AAA-Batterien, Anleitung
-- Bequeme, einfache Bedienung: Interpretation der Messergebnisse mit LED-Ampel für die aktuelle Messung: rotes Licht – Verwendung nicht empfohlen, gelb – Verwendung bedenklich, grün – bereit zur Verwendung
-- Leichte Handhabung mit 2 Tasten: Holzauswahltaste zur Auswahl der Holzgruppe, Messtaste zum Ein-/Ausschalten des Werkzeugs und Abspeichern des aktuellen Messwerts auf dem Display
 - Verwendung mit verschiedenen Holzarten: Präzisere Ergebnisse durch die Möglichkeit, zwischen zwei Holzgruppen zu wählen; der Aufkleber mit einigen Beispielen für jede Holzgruppe in 12 Sprachen kann am Werkzeug angebracht werden
+- Bequeme, einfache Bedienung: Interpretation der Messergebnisse mit LED-Ampel für die aktuelle Messung: rotes Licht – Verwendung nicht empfohlen, gelb – Verwendung bedenklich, grün – bereit zur Verwendung
+- Schnelles Messen: Prüfen des Feuchtigkeitsgehalts von Holz per Stifttechnik als Orientierung für den Benutzer; Stifte leicht in das Holz steckbar
+- Leichte Handhabung mit 2 Tasten: Holzauswahltaste zur Auswahl der Holzgruppe, Messtaste zum Ein-/Ausschalten des Werkzeugs und Abspeichern des aktuellen Messwerts auf dem Display
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08FG4MCDZ/?tag=tolees0ca-21)
