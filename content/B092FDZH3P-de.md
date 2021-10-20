@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney - Raya und der letzte Drache mit 18.19 % Rabatt'
-date: 2021-10-18 19:58:34
+date: 2021-10-20 14:01:48
 image: 'https://m.media-amazon.com/images/I/51heXa5CE8S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B092FDZH3P/?tag=tolees0ca-21'
 descuento: '18.19'
-average: '15.9633663366336'
+average: '15.9391176470588'
 ---
 
 Sie können [Walt Disney - Raya und der letzte Drache [Blu-ray]](https://www.amazon.de/dp/B092FDZH3P/?tag=tolees0ca-21) mit Preis 13.49 EUR (original: 16.49 EUR) 18.19 % Rabatt hier:
