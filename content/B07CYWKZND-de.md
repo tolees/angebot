@@ -28,10 +28,10 @@ Sie können [Bosch Professional 060119C801 Schlagbohrmaschine GSB 24-2  1.100 Wa
 
 ℹ️:
 
-- Sicher: Erhöhter Benutzerschutz dank integriertem KickBack Control, einem Sensor, der den Motor bei plötzlicher Rotation des Bohrhammers augenblicklich abschaltet
-- Lieferumfang: GSB 24-2, Schnellspannbohrfutter, Zusatzhandgriff, Tiefenanschlag, L-Case
-- Robust: Dank Getriebegehäuse aus Metall
 - Vielseitig einsetzbar: Geeignet für Schlagbohrarbeiten in Beton und Ziegel, zum Bohren in Metall, Holz, Kunststoff und Fliesen, sowie zur Verwendung im Bohrständer und zum Rühren und Mischen
+- Sicher: Erhöhter Benutzerschutz dank integriertem KickBack Control, einem Sensor, der den Motor bei plötzlicher Rotation des Bohrhammers augenblicklich abschaltet
+- Robust: Dank Getriebegehäuse aus Metall
+- Lieferumfang: GSB 24-2, Schnellspannbohrfutter, Zusatzhandgriff, Tiefenanschlag, L-Case
 - Kraftvoll: Hohe Leistungsfähigkeit der Bohrmaschine dank bärenstarkem 1100-Watt-Motor und hohem Drehmoment
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07CYWKZND/?tag=tolees0ca-21)

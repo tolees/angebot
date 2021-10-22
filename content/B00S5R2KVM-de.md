@@ -28,12 +28,12 @@ Es gibt ein [Kosmos 693602 CATAN Das Spiel  neue Edition  Strategiespiel](https:
 
 ℹ️:
 
-- Das Brettspiel, das in keiner Spielesammlung fehlen darf. Ideal für den Spieleabend mit Freunden oder der Familie
-- CATAN – Das Spiel erschien 1995 erstmals unter dem Namen Die Siedler von Catan
-- Das Basisspiel kann durch verschiedene Erweiterungen ausgebaut sowie die Spieleranzahl durch Ergänzungen auf bis zu 6 Spieler erhöht werden
-- Spaß für die ganze Familie: Es können Groß und Klein ab 10 Jahren um die Herrschaft auf Catan spielen – geeignet für 3 bis 4 Spieler
 - Unkomplizierter Spielmechanismus mit großer Vielfalt: Verhandle und tausche Rohstoffe, um erfolgreich Siedlungen zu gründen und Straßen zu bauen. Jedes Mal entsteht eine ganz neue Welt auf dem Spielbrett. CATAN ist anders, und das immer
+- Spaß für die ganze Familie: Es können Groß und Klein ab 10 Jahren um die Herrschaft auf Catan spielen – geeignet für 3 bis 4 Spieler
+- Das Basisspiel kann durch verschiedene Erweiterungen ausgebaut sowie die Spieleranzahl durch Ergänzungen auf bis zu 6 Spieler erhöht werden
 - Leichte Regeln und einfacher Einstieg. Für ein Spiel ohne dabei Regeln zu lesen kann optional die kostenlose KOSMOS-Erklär-App genutzt werden
+- Das Brettspiel, das in keiner Spielesammlung fehlen darf. Ideal für den Spieleabend mit Freunden oder der Familie
 - Preisgekrönter Spiele-Bestseller: Spiel des Jahres 1995, Goldene Feder 1995, Deutscher Spielepreis 1995
+- CATAN – Das Spiel erschien 1995 erstmals unter dem Namen Die Siedler von Catan
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00S5R2KVM/?tag=tolees0ca-21)

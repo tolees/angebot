@@ -28,11 +28,11 @@ Es gibt ein [LEGO 76185 Marvel Spider-Man in der Sanctum Werkstatt  Spielzeug f�
 
 ℹ️:
 
+- Es gibt eine tolle Auswahl an Zubehör: Cooles Werkzeug, Gefäße, einen Gamecontroller, einen Kerzenleuchter, einen Ghettoblaster, einen geheimnisvoll leuchtenden Stein uvm.
 - Mit den digitalen Instructions PLUS in der kostenlosen LEGO App können Kinder das Spielset beim Bauen vergrößern, drehen und visualisieren
 - Dieses 355 Teile umfassende Spider-Man-Spielzeug für Kinder ab 7 Jahren bietet ein anspruchsvolles Bauerlebnis und eignet sich prima als Geschenk für Spider-Man-Fans
 - Das LEGO-Marvel-Spider-Man-Set enthält das Hauptquartier von Doctor Strange, vollgepackt mit spannendem Zubehör und bedroht von einem riesigem Monsterinsekt mit Greifklauen
-- Es gibt eine tolle Auswahl an Zubehör: Cooles Werkzeug, Gefäße, einen Gamecontroller, einen Kerzenleuchter, einen Ghettoblaster, einen geheimnisvoll leuchtenden Stein uvm.
-- Kinder werden zu Superhelden: der schwebende Doctor Strange, Spidey, der seine Netze verschießt, MJ, der mit dem Kerzenleuchter kämpft, während das Monster Wong attackiert
 - Enthält 4 LEGO-Minifiguren: Spider-Man, Doctor Strange mit Stoffumhang, MJ und Wong sowie ein Spielzeugmotorrad und Spinnen- sowie Skorpion-Figuren
+- Kinder werden zu Superhelden: der schwebende Doctor Strange, Spidey, der seine Netze verschießt, MJ, der mit dem Kerzenleuchter kämpft, während das Monster Wong attackiert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08W9X8HZG/?tag=tolees0ca-21)
