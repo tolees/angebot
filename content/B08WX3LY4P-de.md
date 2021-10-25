@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '22.00 % rabat auf LEGO 31117 Creator 3 in 1 Spaceshuttle-A'
-date: 2021-10-12 16:14:07
+title: '30.01 % rabat auf LEGO 31117 Creator 3 in 1 Spaceshuttle-A'
+date: 2021-10-25 19:48:57
 image: 'https://m.media-amazon.com/images/I/51uXZkdImgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08WX3LY4P-de LEGO 31117 Creator 3 in 1 Spaceshuttle-Abenteuer Weltraum...'
 sku: 'B08WX3LY4P-de'
 tags: [ 'Experimentieren & Forschen','Experimentierkästen','Spielzeug','lego', ]
-actualPrice: 38.99 EUR
+actualPrice: 34.99 EUR
 currency: EUR
-price: 38.99
+price: 34.99
 comparePrice: 49.99 EUR
 prodname: 'LEGO 31117 Creator 3 in 1 Spaceshuttle-Abenteuer Weltraum Spielzeug für Kinder ab 8 Jahre mit Astronauten Figur'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WX3LY4P/?tag=tolees0ca-21'
-descuento: '22.00'
-average: '34.3233333333333'
+descuento: '30.01'
+average: '36.092'
 ---
 
-Es gibt ein [LEGO 31117 Creator 3 in 1 Spaceshuttle-Abenteuer Weltraum Spielzeug für Kinder ab 8 Jahre mit Astronauten Figur](https://www.amazon.de/dp/B08WX3LY4P/?tag=tolees0ca-21) mit aktuellem Preis 38.99 EUR (original: 49.99 EUR) 22.00 % Rabatt hier:
+Es gibt ein [LEGO 31117 Creator 3 in 1 Spaceshuttle-Abenteuer Weltraum Spielzeug für Kinder ab 8 Jahre mit Astronauten Figur](https://www.amazon.de/dp/B08WX3LY4P/?tag=tolees0ca-21) mit aktuellem Preis 34.99 EUR (original: 49.99 EUR) 30.01 % Rabatt hier:
 
 [![LEGO 31117 Creator 3 in 1 Spaceshuttle-A](https://m.media-amazon.com/images/I/51uXZkdImgS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08WX3LY4P/?tag=tolees0ca-21)
 
@@ -30,9 +30,9 @@ Es gibt ein [LEGO 31117 Creator 3 in 1 Spaceshuttle-Abenteuer Weltraum Spielzeug
 
 - Kreative Kinder können Weltraum-Spaß haben, indem sie mit der Rakete mit coolen Motordetails fliegen oder in einer 4-beinigen Mondlandefähre Planeten erkunden
 - Seit 2021 ist auch eine neue LEGO Astronauten Figur mit Helm und Ausrüstung enthalten, die in allen 3 Raumfahrzeugen fahren kann und für zusätzlichen Spaß sorgt
-- Seien Sie gespannt auf weiteren tolle neuen LEGO Creator 3in1-Sets für 2021, darunter zum Beispiel Riesenrad (31119) und Mittelalterliche Burg (31120)
 - Dieses LEGO Weltraum Spielzeug für Kinder ab 8 Jahre bietet 3in1-Fahrzeuge: ein Space Shuttle, das sich in ein Raketenspielzeug oder eine Mondlandefähre umbauen lässt
 - Kinder können mit der Rakete und dem Space Shuttle die Weiten der Galaxie erforschen oder mit einer Mondlandefähre auf der Oberfläche des Mondes reisen
+- Seien Sie gespannt auf weiteren tolle neuen LEGO Creator 3in1-Sets für 2021, darunter zum Beispiel Riesenrad (31119) und Mittelalterliche Burg (31120)
 - Das Shuttle verfügt über einen ausfahrbaren Arm mit Satelliten und einziehbaren Rädern, die Mondlandefähre hat ein abnehmbares Akzentmodul, so wirken die Fahrzeuge realistisch
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WX3LY4P/?tag=tolees0ca-21)
