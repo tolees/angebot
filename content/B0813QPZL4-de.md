@@ -28,15 +28,15 @@ Es gibt ein [LEGO 41426 Friends Heartlake City Waffelhaus  Spielset mit Eisdiele
 
 ℹ️:
 
-- Das Spielset „Heartlake City Waffelhaus“ (41426) macht Lust auf stundenlanges Spielvergnügen. Kinder können als Bedienung eine Spielzeug-Speisekarte an den Tisch bringen, die Spielzeug-Speisen zubereiten oder in die Rolle eines Gastes schlüpfen, der einen Snack isst
-- Dieses Café-Spielset enthält zwei Spielfiguren, eine Eichhörnchenfigur, eine Küche mit Spielzeug-Waffeleisen und Mixer, sowie jede Menge Waffelhaus-Utensilien, die Kinder in eine fesselnde Spielwelt eintauchen lassen und zu fantasievollen Geschichten inspirieren
-- LEGO Bausets entsprechen den höchsten Branchenstandards. Bereits seit 1958 sind die Sets einheitlich und kompatibel und lassen sich stets mühelos zusammenbauen
 - LEGO Friends Sets werden strengen Test unterzogen, damit jedes Bauset den höchsten globalen Sicherheits- und Qualitätsstandards entspricht
-- Kinder können so tun, als würden sie Speisen zubereiten und servieren oder in die Rolle des Gastes schlüpfen. Und weil das LEGO Waffelhaus mit allen LEGO Sets und Steinen kompatibel ist, bieten sich unzählige Anpassungsmöglichkeiten
+- LEGO Bausets entsprechen den höchsten Branchenstandards. Bereits seit 1958 sind die Sets einheitlich und kompatibel und lassen sich stets mühelos zusammenbauen
 - Das Waffelhaus ist 11 cm hoch und 14 cm lang. Als Schaustück beansprucht es also nur wenig Platz. Dieses hübsche Lokal im Stil der Pariser Cafés verfügt sogar über Fenstertüren und sollte unbedingt einen Ehrenplatz erhalten
+- Dieses Café-Spielset enthält zwei Spielfiguren, eine Eichhörnchenfigur, eine Küche mit Spielzeug-Waffeleisen und Mixer, sowie jede Menge Waffelhaus-Utensilien, die Kinder in eine fesselnde Spielwelt eintauchen lassen und zu fantasievollen Geschichten inspirieren
+- Das Spielset „Heartlake City Waffelhaus“ (41426) macht Lust auf stundenlanges Spielvergnügen. Kinder können als Bedienung eine Spielzeug-Speisekarte an den Tisch bringen, die Spielzeug-Speisen zubereiten oder in die Rolle eines Gastes schlüpfen, der einen Snack isst
+- Die farbenfrohen LEGO Friends Heartlake City Spielsets lassen Kinder eigene Interessen entwickeln. Mit den Sets können Kinder Szenen aus der TV-Serie nachzustellen oder sich eigene Geschichten auszudenken
 - Kinder werden rasch mit diesem kreativen Spielzeug-Café spielen wollen. Da dieses Spielset völlig ohne Batterien auskommt, steht dem Spielvergnügen nichts im Weg
 - Genau wie all den anderen tollen LEGO Friends Spielzeugen liegt auch dem Set „Heartlake City Waffelhaus“ eine bestens verständliche Bauanleitung bei, der Kinder ab 6 Jahren leicht folgen können. Kleine Baumeister bewältigen dieses Bauprojekt in eigener Regie!
+- Kinder können so tun, als würden sie Speisen zubereiten und servieren oder in die Rolle des Gastes schlüpfen. Und weil das LEGO Waffelhaus mit allen LEGO Sets und Steinen kompatibel ist, bieten sich unzählige Anpassungsmöglichkeiten
 - Ein großartiges Weihnachts- oder Geburtstagsgeschenk oder eine tolle spontane Belohnung für Kinder ab 6 Jahren. Das 224-teilige Set begeistert Kinder, die noch keine LEGO Bauspielzeuge haben, mit einem ebenso anspruchsvollen wie machbaren Bauprojekt
-- Die farbenfrohen LEGO Friends Heartlake City Spielsets lassen Kinder eigene Interessen entwickeln. Mit den Sets können Kinder Szenen aus der TV-Serie nachzustellen oder sich eigene Geschichten auszudenken
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0813QPZL4/?tag=tolees0ca-21)

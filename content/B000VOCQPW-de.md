@@ -28,8 +28,8 @@ Es gibt ein [illy Kaffeebohnen Classico  ganze Bohne  klassisch-samtige Röstung
 
 ℹ️:
 
-- Sie können den einzigartigen illy Blend als Kaffeebohnen in 2 unterschiedlichen Geschmacksintensitäten genießen: CLASSICO (rotes Band), wenn Sie einen zarten und samtigen Kaffee lieben; INTENSO (Band in burgunderrot), wenn Sie einen runden und vollmundigen Geschmack bevorzugen
 - illy Kaffeebohnen Blend zu 100% aus Arabica-Sorten. Für die Liebhaber eines zarten und samtigen Geschmacks
+- Sie können den einzigartigen illy Blend als Kaffeebohnen in 2 unterschiedlichen Geschmacksintensitäten genießen: CLASSICO (rotes Band), wenn Sie einen zarten und samtigen Kaffee lieben; INTENSO (Band in burgunderrot), wenn Sie einen runden und vollmundigen Geschmack bevorzugen
 - Perfekt ausbalanciert zwischen Säure und Bitterkeit verleiht der KLASSISCHE Geschmack dem einzigartigen 100% Arabica illy Blend Noten von Orangenblüte und Jasmin, die sich mit einem Hauch von Karamell verbinden
 - Der Kaffeeduft wird beibehalten und breitet sich beim Öffnen wie eine perfekte und berauschende Symphonie aus
 - Dank des Überdruckverfahrens werden die Aromen des Blends in der illy Dose bewahrt, wo sie im Laufe der Zeit verfeinert und hervorgehoben werden
