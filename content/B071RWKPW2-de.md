@@ -28,10 +28,10 @@ Es gibt ein [Innokin Prism T20 Heads 1 5 Ohm  5 Stück pro Packung ](https://www
 
 ℹ️:
 
+- Wichtiger Zubehörartikel für das T20 E Zigarette von Innokin
 - Wichtige Merkmale/key facts: Widerstand von 1,5 Ohm | Mund zu Lunge geeignet
 - Vertrauen Sie nur dem Original! Original Innokin branding! Das Produkt enthält kein Nikotin!
 - Lieferumfang: 5x Prism T20 Verdampferköpfe
 - Nur das Original der Firma Innokin hält was es verspricht! 100%tige Zuverlässigkeit, Top-Verarbeitung und beste Qualität!
-- Wichtiger Zubehörartikel für das T20 E Zigarette von Innokin
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B071RWKPW2/?tag=tolees0ca-21)

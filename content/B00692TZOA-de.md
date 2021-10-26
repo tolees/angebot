@@ -28,10 +28,10 @@ Es gibt ein [Original MANN-FILTER Luftffilter C 29 012 – Für PKW](https://www
 
 ℹ️:
 
-- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
 - MANN-FILTER Luftffilter C 2912 / Maße (mm): H = 53 ; A = 290 ; B = 258 / Premium-Filter in Erstausrüstungsqualität
 - Finden Sie den passenden Filter: Ersatzteil über die Auswahl von Marke, Modell, Fahrzeugtyp & Motorisierung im oberen Bereich oder auch über die Schlüsselnummern (HSN/TSN) aus den Fahrzeugpapieren
 - Höchste Schmutzaufnahmekapazität und Schmutzabscheidegrad, geringer Durchströmungswiderstand und hohe Faltenstabilität sorgen für Funktionssicherheit während des gesamten Wartungsintervalls
+- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- & Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung & Entsorgung
 - Hochwertige MANN-FILTER Luftfilter für saubere Ansaugluft - optimaler Schutz für Motor, Luftmassenmesser & andere sensible Bauteile / Sie erfüllen die Anforderungen moderner Motorentechnologie
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00692TZOA/?tag=tolees0ca-21)

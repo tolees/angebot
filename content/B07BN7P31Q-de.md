@@ -28,10 +28,10 @@ Sie können [GROHE Start Küchenarmaturen - Einhand-Spültischbatterie  DN 15  E
 
 ℹ️:
 
-- Lieferumfang: Grohe Spültischarmatur mit ausziehbaren Auslauf, keramik Kartusche, Hebel, Sicherungs- und Dichtungsringe, Bedienungsanleitung
-- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
 - Die herausziehbare Dual-Spülbrause vereinfacht den Abwasch von Töpfen und Geschirr.
 - Dank getrennter, innenliegender Wasserwege wird Kontakt mit Blei oder Nickel vermieden.
+- Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Lieferumfang: Grohe Spültischarmatur mit ausziehbaren Auslauf, keramik Kartusche, Hebel, Sicherungs- und Dichtungsringe, Bedienungsanleitung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BN7P31Q/?tag=tolees0ca-21)
