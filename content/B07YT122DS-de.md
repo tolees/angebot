@@ -28,9 +28,9 @@ Es gibt ein [Razer - Kraken X USB](https://www.amazon.de/dp/B07YT122DS/?tag=tole
 
 ℹ️:
 
-- Das Nierenaufnahmemuster zeichnet Geräusche aus einem engeren Winkel auf. Es stellt sicher, dass die Stimme beim Sprechen deutlich gehört wird und nimmt Geräusche von den Seiten oder der Rückseite des Mikrofons nicht auf
-- Entwickelt, um mit nur 275 g extrem leicht zu sein, liefert es erstklassigen Klang und stundenlangen Spielspaß, ohne das der Gamer vom Headset eingeschränkt wird
-- Das ovale Design mit Kunstleder sorgt für eine bequeme Passform. Ein verstellbarer Kopfband bietet mehr Flexibilität und ist gleichzeitig langlebig gegen Verdrehen und Biegen im Laufe der Zeit
 - Erlebe 7.1 Surround-Sound für präzises, positionsgenaues Audio in jeder Spielumgebung - von explosiven All-Out-Kriegen bis hin zu verdeckten Einsätzen. *Nur verfügbar unter Windows 10 64-bit
+- Entwickelt, um mit nur 275 g extrem leicht zu sein, liefert es erstklassigen Klang und stundenlangen Spielspaß, ohne das der Gamer vom Headset eingeschränkt wird
+- Das Nierenaufnahmemuster zeichnet Geräusche aus einem engeren Winkel auf. Es stellt sicher, dass die Stimme beim Sprechen deutlich gehört wird und nimmt Geräusche von den Seiten oder der Rückseite des Mikrofons nicht auf
+- Das ovale Design mit Kunstleder sorgt für eine bequeme Passform. Ein verstellbarer Kopfband bietet mehr Flexibilität und ist gleichzeitig langlebig gegen Verdrehen und Biegen im Laufe der Zeit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07YT122DS/?tag=tolees0ca-21)

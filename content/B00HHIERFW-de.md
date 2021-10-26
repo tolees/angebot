@@ -29,9 +29,9 @@ Es gibt ein [Brennenstuhl Premium-Line  Steckdosenleiste 6-Fach  Steckerleiste m
 ℹ️:
 
 - Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
-- Lieferumfang: 1 x Premium-Line Steckdosenleiste in der Farbe schwarz - in bester Qualität von brennenstuhl
-- 6er Schutzkontakt-Steckdosenleiste mit 3m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
-- Mehrfachstecker mit innovativer Aufhänge-Vorrichtung zur Wandmontage und praktischer Kabelaufnahme
 - Stabile, schlichte Steckerleiste aus hochbruchfestem Spezial-Kunststoff
+- 6er Schutzkontakt-Steckdosenleiste mit 3m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
+- Lieferumfang: 1 x Premium-Line Steckdosenleiste in der Farbe schwarz - in bester Qualität von brennenstuhl
+- Mehrfachstecker mit innovativer Aufhänge-Vorrichtung zur Wandmontage und praktischer Kabelaufnahme
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HHIERFW/?tag=tolees0ca-21)
