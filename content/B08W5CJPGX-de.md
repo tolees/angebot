@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10774 Mickys und Minnies Weltraumra mit 26.56 % Rabatt'
-date: 2021-10-09 12:17:44
+date: 2021-10-25 22:13:38
 image: 'https://m.media-amazon.com/images/I/51tkoKXJ5FS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08W5CJPGX/?tag=tolees0ca-21'
 descuento: '26.56'
-average: '16.7125'
+average: '16.4866666666667'
 ---
 
 Sie können [LEGO 10774 Mickys und Minnies Weltraumrakete Spielzeug zum Bauen für Kinder ab 4 Jahre  Raketenspielzeug](https://www.amazon.de/dp/B08W5CJPGX/?tag=tolees0ca-21) mit Preis 14.68 EUR (original: 19.99 EUR) 26.56 % Rabatt hier:
