@@ -28,10 +28,10 @@ Sie können [LEGO 41924 DOTS Geheimbox Katze mit 2 Verstecken und Notizhalter  S
 
 ℹ️:
 
-- Diese Schreibtischdeko stellt eine coole Katze dar, in deren Pfoten eine Notiz oder ein kleines Fotos passt. Der Körper der Katze dient als Stiftehalter mit zwei Geheimfächer.
-- Das Bastelset für Kinder kann nach dem Bauen als ein Kinderzimmer-Deko oder Schreibtischdeko dienen. Die Teile aus anderen Sets passen sehr gut dazu.
 - Gesicht, Augen und Beine lassen sich umgestalten, um der Katze einen anderen Ausdruck zu verleihen. Dazu dient ein schlüsselförmiger Steinchenentferner.
-- Mädchen und Jungen ab 6 Jahren können ihre Designfähigkeiten entwickeln und beim Dekorieren ihre Persönlichkeit zeigen. Kreativität zum Bewundern!
 - LEGO Sets fördern die freie Kreativität. Kinder können dabei Fähgikeiten wie ihre Vorstellungskraft und das problemlösende Denken weiterentwickeln
+- Das Bastelset für Kinder kann nach dem Bauen als ein Kinderzimmer-Deko oder Schreibtischdeko dienen. Die Teile aus anderen Sets passen sehr gut dazu.
+- Diese Schreibtischdeko stellt eine coole Katze dar, in deren Pfoten eine Notiz oder ein kleines Fotos passt. Der Körper der Katze dient als Stiftehalter mit zwei Geheimfächer.
+- Mädchen und Jungen ab 6 Jahren können ihre Designfähigkeiten entwickeln und beim Dekorieren ihre Persönlichkeit zeigen. Kreativität zum Bewundern!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08G4HF1SX/?tag=tolees0ca-21)
