@@ -29,9 +29,9 @@ Sie können [Amazon Basics - Farbschutz  30.48 cm  Edelstahl](https://www.amazon
 ℹ️:
 
 - Sehr handlich: Länge von 30.48 cm ist sehr handlich und auch auf engem Raum verwendbar
-- Robuste Konstruktion: geeignet für eine professionelle Verwendung; besteht aus 20 % Edelstahl und 80 % Polyethylen
-- Praktisch: erleichtert das Malen am Übergang zu Zierleisten, Decken und Böden (kann anstatt Malerkreppband verwendet werden)
-- Pflege und Garantie: einfach zu reinigen
 - Edelstahl-Kante: dient als Führung zum Malen einer geraden Linie
+- Robuste Konstruktion: geeignet für eine professionelle Verwendung; besteht aus 20 % Edelstahl und 80 % Polyethylen
+- Pflege und Garantie: einfach zu reinigen
+- Praktisch: erleichtert das Malen am Übergang zu Zierleisten, Decken und Böden (kann anstatt Malerkreppband verwendet werden)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08D9PXLRF/?tag=tolees0ca-21)
