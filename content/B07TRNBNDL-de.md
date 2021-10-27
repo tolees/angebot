@@ -30,8 +30,8 @@ Sie können [Xavax Kaffeedose für 1kg Kaffeebohnen  luftdichter Kaffeebohnen-Be
 
 - Lieferumfang: 1x Edelstahldose für 1000g Inhalt, 1x Bohnenschaufel/Kaffelöffel
 - Praktische Bohnenschaufel: Ideal zum Schöpfen des Doseninhalts. Lässt sich direkt am Dosengriff einhängen und spart wertvollen Platz in der Küche
-- Langanhaltend frisches Aroma: luftdichter Vorratsbehälter inkl. Aromadeckel mit Datumsanzeige zum aufbewahren von Kaffeepulver oder 1 kg ganzen Bohnen
 - Auch als mottensichere Aufbewahrungsdose für andere Lebensmittel geeignet: z.B. loser Tee/Teebeutel, Nüsse, Müsli, Gewürze, Kakao-Pulver, Nudeln, Reis
+- Langanhaltend frisches Aroma: luftdichter Vorratsbehälter inkl. Aromadeckel mit Datumsanzeige zum aufbewahren von Kaffeepulver oder 1 kg ganzen Bohnen
 - Aromaverschluss-Deckel mit Stauraum: Schließt sicher durch Drehverschluss. Fach im Inneren des Deckels z.B. für feuchtigkeitsregulierendes Granulat
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TRNBNDL/?tag=tolees0ca-21)

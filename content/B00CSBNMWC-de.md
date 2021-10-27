@@ -28,11 +28,11 @@ Es gibt ein [Bauknecht ExtraSpace MF 203 SB /Kombination Grill und Mikrowelle/ M
 
 ℹ️:
 
-- Garraum-Innenabmessungen LxBxH: 32,1x29,1x21,2 cm
-- Joghurt Funktion einfache Zubereitung eines gesunden Snacks
 - Brot-auftaufunktion: knusprig warmes Brot wie frisch vom Bäcker
-- Kombination Grill und Mikrowelle
+- Joghurt Funktion einfache Zubereitung eines gesunden Snacks
 - Außenmaße LxBxH: 38,4x47,3x30,3 cm
+- Kombination Grill und Mikrowelle
+- Garraum-Innenabmessungen LxBxH: 32,1x29,1x21,2 cm
 - Extraspace – Maximale Flexibilität im Innenraum dank der neuen Technologie ohne Drehteller
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00CSBNMWC/?tag=tolees0ca-21)

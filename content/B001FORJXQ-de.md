@@ -28,9 +28,9 @@ Sie können [Lalique Encre Noire homme/men  Eau de Toilette Natural Spray  1er P
 
 ℹ️:
 
-- Kopfnote: Zypresse
-- Basisnote: Moschus, Cashmere-Holz
-- Holzig aromatischer Duft
 - Herznote: Vetiver aus Haiti, Bourbon-Vetiver
+- Basisnote: Moschus, Cashmere-Holz
+- Kopfnote: Zypresse
+- Holzig aromatischer Duft
 
 [🛒 Hier!!](https://www.amazon.de/dp/B001FORJXQ/?tag=tolees0ca-21)

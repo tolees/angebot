@@ -28,13 +28,13 @@ Es gibt ein [LEGO 42128 Technic Schwerlast-Abschleppwagen  Modellbauset  Technik
 
 ℹ️:
 
-- Ein klassisches Abschleppwagen-Design mit authentischem Kühlergrill, Luftfiltern und frischem Farbschema.
+- Das Modell verfügt über pneumatische Pump-Funktionen, inklusive eines ausfahrbaren Hebeauslegers, eines hebenden Kranauslegers und eines ausfahrbaren Kranauslegers
+- Dieses Set ist eine coole Geschenkidee für Kinder und Teenager ab 11 Jahren und kann auch zusammen mit den Eltern erkundet werden
 - Lenke den Abschleppwagen, indem du das Rad auf dem Dach drehst, oder öffne die Motorhaube, um den 6-Zylinder-Reihenmotor mit beweglichen Kolben zu betrachten
 - Entdecke die technische Brillanz dieses klassischen Modells mit mechanischen Funktionen wie den rotierenden Kran, die herausziehbare Winde und die Fußstützen
-- Das Modell verfügt über pneumatische Pump-Funktionen, inklusive eines ausfahrbaren Hebeauslegers, eines hebenden Kranauslegers und eines ausfahrbaren Kranauslegers
+- Ein klassisches Abschleppwagen-Design mit authentischem Kühlergrill, Luftfiltern und frischem Farbschema.
 - Enthält einen Schwerlast-Abschleppwagen mit vielen Funktionen – ideal, um Kindern, die mechanische Spielzeuge lieben, die Welt der Technik näherzubringen
-- Optimierte Versandverpackung. Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
 - Wie der echte Schwerlast-Abschleppwagen hat auch dieses Modell eine Liftachse, die zusätzliche Räder für unebene Lasten herunterzieht – eine Premiere für LEGO Technic
-- Dieses Set ist eine coole Geschenkidee für Kinder und Teenager ab 11 Jahren und kann auch zusammen mit den Eltern erkundet werden
+- Optimierte Versandverpackung. Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0984TCV6M/?tag=tolees0ca-21)

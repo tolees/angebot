@@ -28,10 +28,10 @@ Es gibt ein [Acer ED323QURA Monitor 31 5 Zoll  80 cm Bildschirm  WQHD  144Hz HDM
 
 ℹ️:
 
-- DISPLAY-TYP: VA Displays bieten dem Nutzer hohe Kontraste und stabile Blickwinkel aus verschiedensten Perspektiven
-- FEATURE SET: 16:9 Design Monitor mit einer Auflösung von 2560x1440dpi, VA Display, BILDWIEDERHOLUNGSRATEN: 144Hz HDMI/DP, 75Hz DVI, Reaktionszeit: 4ms (G2G), ANSCHLÜSSE: HDMI 2.0, DP 1.2a, DVI DL, Audio Out
 - SYNC TECHNOLOGIE: AMD FreeSync Premium passt die Framerate des Monitors an die Grafikarte an, gewährleistet min. 120 Hz bei FHD und Mindestbildraten (LFC). LFC sorgt bei einem Framerate Abfall unter das unterstützte Minimum des Displays, dass dieses Minimum des Bildschirms gewährleistet wird und das Spiel flüssig bleibt
-- HERSTELLERGARANTIE: 24 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. LIEFERUMFANG: ED323QURA KABEL: DP
 - DESIGN: Zero-Frame-Curved-Monitore kombinieren die Vorteile des natürlichen Blickfeldes und breiteren Sichtfeldes. Sie bieten dem Nutzer mehr Übersicht und in Kombination mit weiteren Geräten können sie Multi-Monitor-Setups nahezu randlos möglich machen
+- FEATURE SET: 16:9 Design Monitor mit einer Auflösung von 2560x1440dpi, VA Display, BILDWIEDERHOLUNGSRATEN: 144Hz HDMI/DP, 75Hz DVI, Reaktionszeit: 4ms (G2G), ANSCHLÜSSE: HDMI 2.0, DP 1.2a, DVI DL, Audio Out
+- DISPLAY-TYP: VA Displays bieten dem Nutzer hohe Kontraste und stabile Blickwinkel aus verschiedensten Perspektiven
+- HERSTELLERGARANTIE: 24 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. LIEFERUMFANG: ED323QURA KABEL: DP
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FTJY8VT/?tag=tolees0ca-21)
