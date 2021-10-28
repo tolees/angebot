@@ -28,10 +28,10 @@ Sie können [Stanley FatMax Bit-Schraubendreher  kurze Ausführung mit Ratsche u
 
 ℹ️:
 
-- Knarre mit 40 Zähnen für Schnelligkeit beim Verschrauben, Genauigkeit und hohes Drehmoment
-- Im Lieferumfang enthalten: Bit-Schraubendreher mit 6 Bits - 5 mm; 6,5 mm; PH1; PH2; PZ1; PZ2
-- Ergonomisches Bi-Material-Heft für komfortables und kraftvolles Schrauben
-- 3-fach verstellbarer Ring (Schrauben, Lösen, Blockieren)
 - Bit-Schraubendreher, kurze Ausführung, mit Ratschenfunktion und 6 Bits - die ideale Lösung für kraftvolles Anziehen in engen Räumen
+- Im Lieferumfang enthalten: Bit-Schraubendreher mit 6 Bits - 5 mm; 6,5 mm; PH1; PH2; PZ1; PZ2
+- 3-fach verstellbarer Ring (Schrauben, Lösen, Blockieren)
+- Knarre mit 40 Zähnen für Schnelligkeit beim Verschrauben, Genauigkeit und hohes Drehmoment
+- Ergonomisches Bi-Material-Heft für komfortables und kraftvolles Schrauben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00SVDJ7AW/?tag=tolees0ca-21)
