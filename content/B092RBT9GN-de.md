@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roccat Kone Pro Air - Ergonomic Performa mit 30.77 % Rabatt'
-date: 2021-10-26 21:47:49
+date: 2021-10-28 05:10:04
 image: 'https://m.media-amazon.com/images/I/31FrPtnLt-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [Roccat Kone Pro Air - Ergonomic Performance Wireless Gaming Maus  s
 
 ℹ️:
 
-- Titan Switch Optical - taktil und schnell
-- Stellar Wireless + Bluetooth und Schnellladefunktion (USB-C-Ladekabel)
 - Optischer Roccat Owl-Eye 19K DPI Sensor
 - Hitzebehandelte Mausfüße aus reinem PTFE – sofort extrem gleitfähig
+- Titan Switch Optical - taktil und schnell
+- Stellar Wireless + Bluetooth und Schnellladefunktion (USB-C-Ladekabel)
 - Ultraleichtes Roccat Bionic Shell in charakteristischer Form – nur 75 g
 
 [🛒 Hier!!](https://www.amazon.de/dp/B092RBT9GN/?tag=tolees0ca-21)

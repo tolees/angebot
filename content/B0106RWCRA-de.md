@@ -28,10 +28,10 @@ Es gibt ein [Emsa 515668 Glaskaraffe  mit Kühlelement  1 Liter  Automatische Ve
 
 ℹ️:
 
-- 4h kühler Trinkgenuss durch in Edelstahlfuß (mit Kunststoffinnenverkleidung) optional einsetzbares Kühlelement (Gefrierschrank)
-- Tropffreier Klapp-Verschluss, Automatisches Öffnen und Schließen beim Ausgießen
-- Spülmaschinenfest: Einfache Reinigung von Glas und Verschluss, Hochwertige Kombination aus mundgeblasenem Glas und gebürstetem Edelstahl
 - Formschöne Glaskaraffe (1 l) mit innovativer Kühlstation – ideal zum Servieren und Kühlen von Wasser, Saft, Eistee, Wellness-Drinks oder Wein
+- 4h kühler Trinkgenuss durch in Edelstahlfuß (mit Kunststoffinnenverkleidung) optional einsetzbares Kühlelement (Gefrierschrank)
+- Spülmaschinenfest: Einfache Reinigung von Glas und Verschluss, Hochwertige Kombination aus mundgeblasenem Glas und gebürstetem Edelstahl
 - Lieferumfang: 1 Emsa Glaskaraffe, Boden-Durchmesser: 10,5 cm, Flow Classic mit Edelstahl Kühlstation, Material: Glas, 18/10 Edelstahl
+- Tropffreier Klapp-Verschluss, Automatisches Öffnen und Schließen beim Ausgießen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0106RWCRA/?tag=tolees0ca-21)

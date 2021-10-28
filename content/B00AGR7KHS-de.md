@@ -28,8 +28,8 @@ Sie können [Burberry Eau De Toilette London Fabric  M Edt 100Ml](https://www.am
 
 ℹ️:
 
-- Notes of spicy black pepper and smoky guaiac complemented
 - opoponax and lavender add a touch of distinction
 - spicy black pepper and sweet resinous opoponax.
+- Notes of spicy black pepper and smoky guaiac complemented
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00AGR7KHS/?tag=tolees0ca-21)

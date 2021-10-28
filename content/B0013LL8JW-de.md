@@ -28,10 +28,10 @@ Es gibt ein [DeWalt Rapid-Holz/ Forstnerbohrer  35 mm ø  geeignet für den Eins
 
 ℹ️:
 
-- Ausgestattet mit zwei und extra scharfen Schneidkanten für einen besonders schnellen Bohrfortschritt
 - Extra scharfer Bohrer für sauberste Bohrlochergebnisse mit sehr schnellem Bohrfortschritt
-- Durchrutschsicherern Schaft für optimalen Halt im Bohrfutter, garantiert ein komfortables Bohren
-- Aggressiven selbsteinziehenden Zentrierspitze für ein schnelles Eindringen ins Material
 - Inhalt: 1x Holz-Rapidbohrer
+- Aggressiven selbsteinziehenden Zentrierspitze für ein schnelles Eindringen ins Material
+- Ausgestattet mit zwei und extra scharfen Schneidkanten für einen besonders schnellen Bohrfortschritt
+- Durchrutschsicherern Schaft für optimalen Halt im Bohrfutter, garantiert ein komfortables Bohren
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0013LL8JW/?tag=tolees0ca-21)

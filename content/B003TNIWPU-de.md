@@ -28,9 +28,9 @@ Sie können [khadi Pflanzenhaarfarbe Reines Henna I Haarfarbe Orangerot  Kupfer 
 
 ℹ️:
 
-- 100% NATÜRLICH UND VEGAN: Ohne Tenside, Silikate und Co.
 - GRAUABDECKUNG: Hohe Deckkraft selbst bei grauen Haaren
 - KRÄFTIGE FARBE: Färbt Dein Haar in einem lebendigen Orange-Rot bis Tief-Rot
+- 100% NATÜRLICH UND VEGAN: Ohne Tenside, Silikate und Co.
 - GESUNDES HAAR: Schonende Pflanzenpigmente legen sich um jede einzelne Strähne
 - ZERTIFIZIERTE NATURKOSMETIK: kräftigt und pflegt Dein Haar ohne synthetische Inhaltsstoffe
 

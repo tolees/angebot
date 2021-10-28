@@ -30,8 +30,8 @@ Es gibt ein [Kryptonite Kabelschloss KryptoLok series 2 Integrated Chain 955 min
 
 - 9 mm starke viereckige Kettenglieder aus extrahartem 3t Mangan-Stahl Wetterfester Nylonüberzug schützt Ihr Rad vor Kratzern und ermöglicht ein kompaktes zusammenlegen der Kette
 - Patent angemeldeter KryptoLok Series 2 Verschlusskopf mit „Talon“-Bolzen
-- Neue, Patent angemeldete Verschlusstechnik. Arbeitet ohne einen separaten Verschlusskopf, wodurch kein Schwachpunkt entsteht. Das letzte Kettenglied bildet hierbei den Verschlußkopf und bildet somit den starken Abschluss.
-- Inklusive 2 neuer ”I” keys aus stabilem Edelstahl Verstärktes Hochsicherheits-Scheibenzylinderschloss gegen Picking und Aufbohren gesichert.
 - Gehärteter Verschlusskopf, liefert zusätzliche Sicherheit gegen Hebelattacken
+- Inklusive 2 neuer ”I” keys aus stabilem Edelstahl Verstärktes Hochsicherheits-Scheibenzylinderschloss gegen Picking und Aufbohren gesichert.
+- Neue, Patent angemeldete Verschlusstechnik. Arbeitet ohne einen separaten Verschlusskopf, wodurch kein Schwachpunkt entsteht. Das letzte Kettenglied bildet hierbei den Verschlußkopf und bildet somit den starken Abschluss.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B006QN0MK8/?tag=tolees0ca-21)

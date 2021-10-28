@@ -28,10 +28,10 @@ Es gibt ein [Tommy Hilfiger Damen-Ohrklemme 333 Gelbgold Emaille 1 cm-2700753](h
 
 ℹ️:
 
-- Ohrstecker
-- Größe: 9,5 mm x 2,2 mm
 - Verschlussrückseite: Durchstochen
+- Größe: 9,5 mm x 2,2 mm
 - Verziert mit einem Kristall
 - Vergoldet
+- Ohrstecker
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B012G6BN0Q/?tag=tolees0ca-21)
