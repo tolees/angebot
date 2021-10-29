@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Cubi 5 10M-009BEU Barebone Mini-PC   mit 34.10 % Rabatt'
-date: 2021-10-23 07:46:59
+date: 2021-10-29 16:34:25
 image: 'https://m.media-amazon.com/images/I/31eBKK0DrQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [MSI Cubi 5 10M-009BEU Barebone Mini-PC  Comet Lake i3-10110U  schwa
 
 ℹ️:
 
-- Ausgestattet mit USB 3.2 Gen1 (Typ C)
-- Intel Core i3 U-Processor der 10. Generation
-- Unterstützt Wifi 6
-- Unterstützt Standard-VESA-Mounts für eine unsichtbare Montage
 - Unterstützt Dual-Monitor-Setups
+- Unterstützt Wifi 6
+- Intel Core i3 U-Processor der 10. Generation
+- Unterstützt Standard-VESA-Mounts für eine unsichtbare Montage
+- Ausgestattet mit USB 3.2 Gen1 (Typ C)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0824ZJ3SZ/?tag=tolees0ca-21)
