@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Bose SoundSport  kabellose Sport-Earbuds mit 24.65 % Rabatt'
-date: 2021-10-29 21:45:08
+date: 2021-10-30 22:39:22
 image: 'https://m.media-amazon.com/images/I/41rbSoLwtWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01L7PSJFO-de Bose SoundSport kabellose Sport-Earbuds schweißresistente...'
 sku: 'B01L7PSJFO-de'
-tags: [ 'Bluetooth-Kopfhörer','Elektronik & Foto','Kopfhörer','Kopfhörer & Zubehör','bose', ]
+tags: [ 'Bluetooth-Kopfhörer','Elektronik & Foto','In-Ear Ohrhörer','Kopfhörer','Kopfhörer & Zubehör','bose', ]
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99
