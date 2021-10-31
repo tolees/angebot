@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '26.87 % rabat auf Walt Disney - Raya und der letzte Drache'
-date: 2021-10-30 15:52:43
+title: '38.49 % rabat auf Walt Disney - Raya und der letzte Drache'
+date: 2021-10-31 16:27:38
 image: 'https://m.media-amazon.com/images/I/510Nq9viWES._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B092FCXWH8-de Walt Disney - Raya und der letzte Drache'
 sku: 'B092FCXWH8-de'
 tags: [ 'DVD & Blu-ray','Featured Categories','Filme','Kinder & Familie','Zeichentrick','walt disney', ]
-actualPrice: 9.5 EUR
+actualPrice: 7.99 EUR
 currency: EUR
-price: 9.5
+price: 7.99
 comparePrice: 12.99 EUR
 prodname: 'Walt Disney - Raya und der letzte Drache'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B092FCXWH8/?tag=tolees0ca-21'
-descuento: '26.87'
-average: '12.2367289719624'
+descuento: '38.49'
+average: '12.1974074074072'
 ---
 
-Es gibt ein [Walt Disney - Raya und der letzte Drache](https://www.amazon.de/dp/B092FCXWH8/?tag=tolees0ca-21) mit aktuellem Preis 9.5 EUR (original: 12.99 EUR) 26.87 % Rabatt hier:
+Es gibt ein [Walt Disney - Raya und der letzte Drache](https://www.amazon.de/dp/B092FCXWH8/?tag=tolees0ca-21) mit aktuellem Preis 7.99 EUR (original: 12.99 EUR) 38.49 % Rabatt hier:
 
 [![Walt Disney - Raya und der letzte Drache](https://m.media-amazon.com/images/I/510Nq9viWES._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B092FCXWH8/?tag=tolees0ca-21)
 
