@@ -29,9 +29,9 @@ Sie können [LEGO 41677 LEGO Friends Wasserfall im Wald  Camping Spielzeug ab 5 
 ℹ️:
 
 - Ein großartiges LEGO Spielzeug ab 6 Jahre und das perfekte Geschenk für Geburtstage, Weihnachten oder wenn der Regen das Spielen im Freien stoppt
+- Das Abenteuerset enthält außerdem ein Lagerfeuer und eine Brücke, die über einen Fluss führt, einen Marshmallow am Stock und einen Spielzeug-Roller für die Mini Puppen
+- Enthalten sind die zwei LEGO Friends Mini Puppen Andrea und Olivia sowie eine Eichhörnchen Figur; Kinder können das Eichhörnchen in seinem Baumhaus mit einer Kastanie füttern
 - Das LEGO Friends Camping Set bietet eine Wasserfallszene mit einem aufklappbaren Element, durch welches Kinder Zugang zur Rückseite dieses Spielzeugs haben
 - Kinder werden es lieben, die Überraschungen selbst zu entdecken, etwa den Edelstein hinter dem aufklappbaren Wasserfall zu entdecken oder Wildtiere im Fernrohr zu beobachten
-- Enthalten sind die zwei LEGO Friends Mini Puppen Andrea und Olivia sowie eine Eichhörnchen Figur; Kinder können das Eichhörnchen in seinem Baumhaus mit einer Kastanie füttern
-- Das Abenteuerset enthält außerdem ein Lagerfeuer und eine Brücke, die über einen Fluss führt, einen Marshmallow am Stock und einen Spielzeug-Roller für die Mini Puppen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08WXB3GDR/?tag=tolees0ca-21)
