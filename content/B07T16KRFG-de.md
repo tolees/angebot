@@ -1,30 +1,30 @@
 ---
 layout: post
-title: '15.00 % rabat auf Ni no Kuni: Der Fluch der Weißen Königin'
-date: 2020-02-13 06:46:53
-image: 'https://m.media-amazon.com/images/I/51A7Ybj1xVL._AC_._SL400_.jpg'
+title: '20.01 % rabat auf BANDAI NAMCO Entertainment Germany - Ni '
+date: 2021-11-02 06:14:54
+image: 'https://m.media-amazon.com/images/I/51A7Ybj1xVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07T16KRFG-de Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]'
+slug: 'B07T16KRFG-de BANDAI NAMCO Entertainment Germany - Ni no Kuni: Der Fluch...'
 sku: 'B07T16KRFG-de'
-tags: [  ]
-actualPrice: 33.99 EUR
+tags: [ 'Games','Nintendo Switch','Spiele für Nintendo Switch','bandai namco entertainment germany', ]
+actualPrice: 23.99 EUR
 currency: EUR
-price: 33.99
-comparePrice: 39.99 EUR
-prodname: 'Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]'
+price: 23.99
+comparePrice: 29.99 EUR
+prodname: 'BANDAI NAMCO Entertainment Germany - Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'BANDAI NAMCO Entertainment Germany'
 buyurl: 'https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21'
-descuento: '15.00'
-average: '33.99'
+descuento: '20.01'
+average: '28.99'
 ---
 
-Es gibt ein [Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]](https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21) mit aktuellem Preis 33.99 EUR (original: 39.99 EUR) 15.00 % Rabatt hier:
+Es gibt ein [BANDAI NAMCO Entertainment Germany - Ni no Kuni: Der Fluch der Weißen Königin - [Nintendo Switch]](https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21) mit aktuellem Preis 23.99 EUR (original: 29.99 EUR) 20.01 % Rabatt hier:
 
-[![Ni no Kuni: Der Fluch der Weißen Königin](https://m.media-amazon.com/images/I/51A7Ybj1xVL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21)
+[![BANDAI NAMCO Entertainment Germany - Ni ](https://m.media-amazon.com/images/I/51A7Ybj1xVL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B07T16KRFG/?tag=tolees0ca-21)
 
 ℹ️:
 
