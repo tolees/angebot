@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Bose SoundLink Color II  Bluetooth - Out mit 23.52 % Rabatt'
-date: 2020-08-01 10:17:28
-image: 'https://m.media-amazon.com/images/I/51e3m5w6xWL._SL400_.jpg'
+title: 'Bose SoundLink Color Bluetooth speaker I mit 18.55 % Rabatt'
+date: 2021-11-02 00:41:59
+image: 'https://m.media-amazon.com/images/I/51e3m5w6xWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01HETFQKS-de Bose SoundLink Color II Bluetooth - Outdoor - Lautsprecher...'
+slug: 'B01HETFQKS-de Bose SoundLink Color Bluetooth speaker II - Tragbaren...'
 sku: 'B01HETFQKS-de'
-tags: [  ]
-actualPrice: 107.03 EUR
+tags: [ 'Elektronik & Foto','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Zubehör für tragbare Geräte','bose', ]
+actualPrice: 113.99 EUR
 currency: EUR
-price: 107.03
+price: 113.99
 comparePrice: 139.95 EUR
-prodname: 'Bose SoundLink Color II  Bluetooth - Outdoor - Lautsprecher   wasserdicht IPX4   Grau'
+prodname: 'Bose SoundLink Color Bluetooth speaker II - Tragbaren Bluetooth-Lautsprecher  Wasserabweisend   Grau'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Bose'
 buyurl: 'https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21'
-descuento: '23.52'
-average: '101.52'
+descuento: '18.55'
+average: '104.014'
 ---
 
-Sie können [Bose SoundLink Color II  Bluetooth - Outdoor - Lautsprecher   wasserdicht IPX4   Grau](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21) mit Preis 107.03 EUR (original: 139.95 EUR) 23.52 % Rabatt hier:
+Sie können [Bose SoundLink Color Bluetooth speaker II - Tragbaren Bluetooth-Lautsprecher  Wasserabweisend   Grau](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21) mit Preis 113.99 EUR (original: 139.95 EUR) 18.55 % Rabatt hier:
 
-[![Bose SoundLink Color II  Bluetooth - Out](https://m.media-amazon.com/images/I/51e3m5w6xWL._SL400_.jpg)](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21)
+[![Bose SoundLink Color Bluetooth speaker I](https://m.media-amazon.com/images/I/51e3m5w6xWL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21)
 
 ℹ️:
 
+- Die Bedienung ist ganz leicht - dank unterstützender Sprachansagen für das Koppeln per Bluetooth und mühelosem Verbinden mit NFC-fähigen Geräten
+- Der Lithium-Ionen-Akku ermöglicht eine Wiedergabedauer von bis zu acht Stunden und wird per USB-Anschluss aufgeladen
+- Dank der Schutzoberfläche aus angenehm griffigem Silikon und des robusten Designs jederzeit einsatzbereit
+- Integriertes Mikrofon für Freisprechfunktion oder Zugang zu digitalen Assistenten wie Siri oder Google Now
+- Bose Technologien sorgen für Spitzenklang durch einen kompakten, wasserabweisenden Lautsprecher.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21)
