@@ -28,10 +28,10 @@ Es gibt ein [Stella Trading Can Can 5 Wohnwand  Anbauwand  Holzdekor  Sonoma   B
 
 ℹ️:
 
-- Korpus und Front: Sonoma
-- inkl. Glaskantenbeleuchtung
 - besteht aus: Vitrine groß, TV-Unterteil, Aufsatzvitrine, Wandboard klein und Wandboard groß
-- Stellmaße B/H/T:284x 195x 45 cm
+- Korpus und Front: Sonoma
 - Wohnwand CanCan5
+- Stellmaße B/H/T:284x 195x 45 cm
+- inkl. Glaskantenbeleuchtung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HW022HK/?tag=tolees0ca-21)

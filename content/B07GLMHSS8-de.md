@@ -29,9 +29,9 @@ Es gibt ein [Barbie FWV25 Travel Puppe  blond  und Zubehör](https://www.amazon.
 ℹ️:
 
 - Mit ihrem Jeanskleid, dem farbenfrohen Gürtel und angesagten Sneakers ist die Barbie-Puppe bereit, nahe und ferne Orte zu bereisen. Eine Sonnenbrille komplettiert ihr Outfit
-- Das Barbie Reiseset mit den zahlreichen Zubehörteilen ist das perfekte Geschenk für kleine Entdecker und Fans der Serie, denn beim Spielen mit Barbie können Kinder in ihrer Fantasie alles sein
-- Die im Set enthaltenen typischen Reiseaccessoires – Nackenkissen, Kopfhörer, Schlafmaske, Wasserflasche, Zahnbürste, Zahnpasta, Kamera und Handy – sind farbenfroh und mit Liebe zum Detail gestaltet
 - Barbies pinkfarbener Koffer hat einen Ausziehgriff und lässt sich zum Ein- und Auspacken öffnen und schließen. Der Koffer kann nach Lust und Laune mit Stickern, wie Emojis oder einem Reisepass in Pink, dekoriert werden.
+- Die im Set enthaltenen typischen Reiseaccessoires – Nackenkissen, Kopfhörer, Schlafmaske, Wasserflasche, Zahnbürste, Zahnpasta, Kamera und Handy – sind farbenfroh und mit Liebe zum Detail gestaltet
+- Das Barbie Reiseset mit den zahlreichen Zubehörteilen ist das perfekte Geschenk für kleine Entdecker und Fans der Serie, denn beim Spielen mit Barbie können Kinder in ihrer Fantasie alles sein
 - Mit Barbie und ihrem von den Dreamhouse Adventures inspirierten Reiseset mit einem Hündchen als Reisebegleitung, Gepäck und mehr als zehn Zubehörteilen können kleine Abenteurer um die Welt reisen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07GLMHSS8/?tag=tolees0ca-21)
