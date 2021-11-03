@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schrödermedia - Hoffnung auf steinigen W mit 20.73 % Rabatt'
-date: 2021-11-02 14:36:52
+date: 2021-11-03 15:57:18
 image: 'https://m.media-amazon.com/images/I/51WvcKNCpZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Schrödermedia'
 buyurl: 'https://www.amazon.de/dp/B07S98JT5L/?tag=tolees0ca-21'
 descuento: '20.73'
-average: '3.47333333333333'
+average: '3.475'
 ---
 
 Sie können [Schrödermedia - Hoffnung auf steinigen Wegen](https://www.amazon.de/dp/B07S98JT5L/?tag=tolees0ca-21) mit Preis 3.48 EUR (original: 4.39 EUR) 20.73 % Rabatt hier:
