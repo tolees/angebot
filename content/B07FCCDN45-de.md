@@ -30,9 +30,9 @@ Sie können [Scholl GelActiv Einlegesohlen Work für Arbeitsschuhe in 40-46 5 �
 
 - EIGENSCHAFTEN: Die rutschfesten Komfortsohlen eignen sich besonders bei hartem, unebenem Untergrund / Durch geruchshemmendes Obermaterial fühlen sich die Füße den ganzen Tag lang frisch und trocken an / Entwickelt und bewertet mit Fußpflege Spezialisten
 - ANWENDUNG: Perfekt für für Arbeits- (keine Sicherheitsschuhe), Freizeit- und Turnschuhe. Die Einlagen lassen sich einfach auf die richtige Größe zuschneiden - geeignet für Schuhgrößen zwischen 40 und 46,5
-- LIEFERUMFANG: 1 x GelActiv Einlegesohle Work von Scholl / Gel Schuheinlagen für Männer & Jungs mit einer Schuhgröße zwischen 40 und 46,5
-- ENTLASTUNG FÜR FÜSSE UND BEINE: Das Gelkissen der Scholl GelActiv Technologie sorgt für bis zu 12 Stunden Stoßdämpfung und bietet den ganzen Tag Komfort in Arbeitsschuhen und -stiefeln
-- Schneiden Sie entlang der Umrisslinie, die zu Ihrer Schuhgröße passt oder richten Sie sich nach der Original-Einlegesohle Ihrer Schuhe. Für beste Ergebnisse entfernen Sie die vorhandenen Schuheinlagen und ersetzen Sie diese durch die Scholl GelActiv Einlegesohlen mit der GEL-Seite nach UNTEN. Wechseln Sie die Einlegesohlen, wenn sich Anzeichen von Abnutzung zeigen. Wir empfehlen einen Wechsel alle sechs Monate
 - MÜDE UND SCHMERZENDE FÜSSE NACH EINEM LANGEN ARBEITSTAG? Die Scholl Schuh-Einlegesohlen mindern Stöße sowie Druck und eignen sich besonders für Berufstätige mit stark beanspruchten Füßen
+- Schneiden Sie entlang der Umrisslinie, die zu Ihrer Schuhgröße passt oder richten Sie sich nach der Original-Einlegesohle Ihrer Schuhe. Für beste Ergebnisse entfernen Sie die vorhandenen Schuheinlagen und ersetzen Sie diese durch die Scholl GelActiv Einlegesohlen mit der GEL-Seite nach UNTEN. Wechseln Sie die Einlegesohlen, wenn sich Anzeichen von Abnutzung zeigen. Wir empfehlen einen Wechsel alle sechs Monate
+- ENTLASTUNG FÜR FÜSSE UND BEINE: Das Gelkissen der Scholl GelActiv Technologie sorgt für bis zu 12 Stunden Stoßdämpfung und bietet den ganzen Tag Komfort in Arbeitsschuhen und -stiefeln
+- LIEFERUMFANG: 1 x GelActiv Einlegesohle Work von Scholl / Gel Schuheinlagen für Männer & Jungs mit einer Schuhgröße zwischen 40 und 46,5
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FCCDN45/?tag=tolees0ca-21)
