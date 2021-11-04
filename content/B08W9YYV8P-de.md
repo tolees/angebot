@@ -28,15 +28,15 @@ Es gibt ein [LEGO 71387 Super Mario Abenteuer mit Luigi – Starterset  Spielzeu
 
 ℹ️:
 
-- Die LEGO Super Mario Spielsets holen legendäre Super Mario Charaktere in die echte Welt und bieten Fans unzählige Möglichkeiten zum Erweitern, Umbauen, Anpassen und Erstellen außergewöhnlicher Levels
 - Stell Kindern das LEGO Super Mario Universum mit dem Starterset „Abenteuer mit Luigi“ (71387) vor, das LEGO Luigi beinhaltet. Kinder können mit der Figur interagieren
+- Die LEGO Super Mario Spielsets holen legendäre Super Mario Charaktere in die echte Welt und bieten Fans unzählige Möglichkeiten zum Erweitern, Umbauen, Anpassen und Erstellen außergewöhnlicher Levels
+- Die hellbraunen Steine, die das Turm-Biom darstellen, lösen unterschiedliche Reaktionen bei LEGO Luigi aus
+- LEGO Luigi hat einen Farbsensor, einen LCD-Bildschirm, um viele spontane Reaktionen auf Bewegungen zeigen zu können, und einen Lautsprecher, der bekannte Sounds und Musikstücke aus dem Videospiel abspielt
+- 2 nicht enthaltene AAA-Batterien dienen LEGO Luigi als Stromquelle für ein interaktives Spielerlebnis. Die Spieler erhalten spontane Reaktionen und Belohnungen für ihre Kreativität
+- LEGO Steine und Teile erfüllen bereits seit 1958 höchste Branchenstandards, damit sie kompatibel sind und sich mühelos und sicher zusammenstecken lassen
 - Dieses 280-teilige LEGO Bauset aus Modulen ist ein witziges Geburtstags- oder Weihnachtsgeschenk für kreative Kinder ab 6 Jahren. Das Level kann vielseitig umgebaut und mit anderen LEGO Super Mario Sets kombiniert werden
+- Die kostenlose LEGO Super Mario App enthält Bauanleitungen und kreative Ideen und dient als sichere Plattform zum Teilen der eigenen Modelle. Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
 - LEGO Elemente werden jedem erdenklichen Test unterzogen, damit sie strenge globale Sicherheitsstandards erfüllen
 - Bewege LEGO Luigi von der Startröhre zum Zielpfahl, lass ihn digitale Münzen für Dreh-, Wipp- und Flugherausforderungen sammeln und mit dem ?-Block, dem Pinken Yoshi, Bumm Bumm und dem Knochen-Gumba interagieren
-- LEGO Luigi hat einen Farbsensor, einen LCD-Bildschirm, um viele spontane Reaktionen auf Bewegungen zeigen zu können, und einen Lautsprecher, der bekannte Sounds und Musikstücke aus dem Videospiel abspielt
-- Die kostenlose LEGO Super Mario App enthält Bauanleitungen und kreative Ideen und dient als sichere Plattform zum Teilen der eigenen Modelle. Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
-- LEGO Steine und Teile erfüllen bereits seit 1958 höchste Branchenstandards, damit sie kompatibel sind und sich mühelos und sicher zusammenstecken lassen
-- 2 nicht enthaltene AAA-Batterien dienen LEGO Luigi als Stromquelle für ein interaktives Spielerlebnis. Die Spieler erhalten spontane Reaktionen und Belohnungen für ihre Kreativität
-- Die hellbraunen Steine, die das Turm-Biom darstellen, lösen unterschiedliche Reaktionen bei LEGO Luigi aus
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08W9YYV8P/?tag=tolees0ca-21)

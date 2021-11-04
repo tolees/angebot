@@ -28,10 +28,10 @@ Es gibt ein [Seagate Expansion Desktop  externe Festplatte 10 TB  3.5 Zoll  USB 
 
 ℹ️:
 
-- Benutzerfreundliche Desktop-Festplatte – einfach Netzteil und USB-Kabel anschließen
+- Genießen Sie langfristige Sicherheit mit der im Lieferumfang enthaltenen beschränkten 2-Jahres-Garantie und den Rescue Data Recovery Services für 2 Jahre
 - Dateispeicherung per Drag-and-Drop unter Windows ohne Setup
 - Systemanforderungen: Betriebssystem Windows 7, Windows 8 oder höher
-- Genießen Sie langfristige Sicherheit mit der im Lieferumfang enthaltenen beschränkten 2-Jahres-Garantie und den Rescue Data Recovery Services für 2 Jahre
+- Benutzerfreundliche Desktop-Festplatte – einfach Netzteil und USB-Kabel anschließen
 - Zur Verwendung mit Mac muss diese Festplatte neu formatiert werden. Beim Neuformatieren der Festplatte gehen alle Inhalte verloren, sofern sie nicht auf einer anderen Festplatte gesichert werden. Weitere Informationen hierzu finden Sie im Anwendungshandbuch
 - Schnelle Datenübertragung mit USB 3.0/2.0
 
