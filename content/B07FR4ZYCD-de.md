@@ -28,10 +28,10 @@ Es gibt ein [Hama E27 Wi-Fi LED-Lampe  10W  ohne Hub  dimmbar  gesteuert via Ale
 
 ℹ️:
 
+- Klares, weißes Licht und intensive Farbwiedergabe: 2700K Farbtemperatur und freie Auswahl aus 16 Mio. Farben - ideal als Lichtspender für ein gemütliches Zuhause oder als Effektbeleuchtung
 - Ihr Weg zum Smart Home, komplett ohne Gateway (Bridge/Hub): Multifunktionale LED-Lampe mit warmweißem Licht zur Einbindung ins eigene WiFi-Netzwerk, ganz einfach per App (ab Android 4.3/ab iOS 8.0)
-- Verschiedene Einstellungsmöglichkeiten: z.B. Ein-/Ausschalten, stufenlos dimmen, Farben wechseln
 - Lieferumfang: 1 WiFi-LED-Lampe, 1 Schnellstartanleitung
 - Bedienung per gratis App "Hama Smart Home" oder Sprachsteuerung durch Amazon Alexa/Google Home: Steuerung mehrerer Lampen gleichzeitig möglich, durch App auch von unterwegs steuerbar
-- Klares, weißes Licht und intensive Farbwiedergabe: 2700K Farbtemperatur und freie Auswahl aus 16 Mio. Farben - ideal als Lichtspender für ein gemütliches Zuhause oder als Effektbeleuchtung
+- Verschiedene Einstellungsmöglichkeiten: z.B. Ein-/Ausschalten, stufenlos dimmen, Farben wechseln
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FR4ZYCD/?tag=tolees0ca-21)

@@ -28,11 +28,11 @@ Es gibt ein [TP-Link TL-WR902AC AC750 WLAN Nano Router  433Mbit/s  5GHz  +300Mbi
 
 ℹ️:
 
-- Ein Schalter für mehrere Modi – Perfekt für zu Hause, im Hotelzimmer oder für unterwegs. Betriebstemperatur: 0°C ~ 40°C
-- Flexibel speisbar – Über einen USB-Adapter, eine Powerbank oder ein Notebook
-- Vielseitiger USB-Einsatz – Für den Datenaustausch oder ein kompatibles 3G/4G-Modem geeignet
-- Dualband-WLAN-AC-Standard – Garantiert schnelle Verbindungen für ruckelfreies HD-Videostreaming auf allen Geräten
 - Kompaktes Design – Optimal für unterwegs; WLAN über LAN-Kabel, 3G/4G-USB-Surfstick oder WISP
+- Vielseitiger USB-Einsatz – Für den Datenaustausch oder ein kompatibles 3G/4G-Modem geeignet
+- Flexibel speisbar – Über einen USB-Adapter, eine Powerbank oder ein Notebook
 - Lieferumfang: AC750-Reise-WLAN-Router TL-WR902AC, Spannungsadapter, Ethernet-Kabel, Schnellinstallationsanleitung
+- Dualband-WLAN-AC-Standard – Garantiert schnelle Verbindungen für ruckelfreies HD-Videostreaming auf allen Geräten
+- Ein Schalter für mehrere Modi – Perfekt für zu Hause, im Hotelzimmer oder für unterwegs. Betriebstemperatur: 0°C ~ 40°C
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MY5JIJ0/?tag=tolees0ca-21)
