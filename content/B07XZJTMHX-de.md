@@ -29,9 +29,9 @@ Sie können [Huawei Mediapad T3 10 WiFi-Tablet  Qualcomm MSM8917 Quad-Core  2 GB
 ℹ️:
 
 - Konnektivität: IEEE 802. 11 a/b/g/n
-- 1280 x 800 px Auflösung
 - Quad-Core-Prozessor
 - 24, 38 cm (9, 6 Zoll) HD IPS Display mit Eye-Care-Modus
 - Einfach und effizient mit Android 7. 0 und EMUI 5. 1
+- 1280 x 800 px Auflösung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XZJTMHX/?tag=tolees0ca-21)
