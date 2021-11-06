@@ -28,10 +28,10 @@ Es gibt ein [Mattel Games T1882 Skip-Bo Junior Kartenspiel für Kinder  geeignet
 
 ℹ️:
 
-- Die Karten müssen in der richtigen Reihenfolge abgelegt werden
-- Das beliebte Skip-Bo jetzt auch als Junior-Variante
-- Eine erste Heranführung an Zahlen und Zahlenfolgen - mit schönen Tiermotiven
 - Wer als Erster alle seine Karten loswird, gewinnt
 - Für 2-4 Spieler; Ab 5 Jahren
+- Die Karten müssen in der richtigen Reihenfolge abgelegt werden
+- Eine erste Heranführung an Zahlen und Zahlenfolgen - mit schönen Tiermotiven
+- Das beliebte Skip-Bo jetzt auch als Junior-Variante
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B002YVYHW0/?tag=tolees0ca-21)
