@@ -29,9 +29,9 @@ Es gibt ein [Audio-Technica M50x Studio Kopfhörer in Schwarz. Kabelgebunden  ge
 ℹ️:
 
 - Außergewöhnlich detaillierte Abbildung über den gesamten erweiterten Frequenzbereich mit äußerst präziser Basswiedergabe
-- Herausragende Klangqualität, hochgelobt von professionellen Audioingenieuren und Pro-Audio-Fachstimmen
-- 45 mm Treiber, Neodym-Magnetsystem und CCAW- Schwingspulen
-- Abnehmbares Kabel (3 Verschiedene im Lieferumfang)
 - Um 90 Grad schwenkbare Ohrmuscheln für einfaches Einohrmonitoring; Zusammenklappbar
+- Abnehmbares Kabel (3 Verschiedene im Lieferumfang)
+- 45 mm Treiber, Neodym-Magnetsystem und CCAW- Schwingspulen
+- Herausragende Klangqualität, hochgelobt von professionellen Audioingenieuren und Pro-Audio-Fachstimmen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HVLUR86/?tag=tolees0ca-21)
