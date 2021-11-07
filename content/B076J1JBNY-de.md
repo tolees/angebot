@@ -28,10 +28,10 @@ Sie können [Thrustmaster T.16000M FCS Space Sim Duo - Kombiniere einen T.16000M
 
 ℹ️:
 
-- Das T.16000M FCS Space Sim Duo ist mit Thrustmaster’s exklusiver H.E.A.R.T (Hall Effect Accurate Technology) ausgestattet, durch eingebaute Magnetsensoren am Stick wird ein völlig neues Level an Genauigkeit erreicht
-- Insgesamt 32 Action-Buttons (16 pro Joystick), 24 (12 pro Basis) mit tastbarer Knopfidentifikation in Blindenschrift, damit Gamer spielen können, ohne die Hände von den Joysticks zu nehmen. Aktionen und Manöver können somit leichter ausgeführt werden, auch in der virtuellen Realität
 - T.A.R.G.E.T-Software zum Laden oder Kreieren spezifischer Mapping-Profile für jedes Spiel
-- Das T.16000M FCS Space Sim Duo ist komplett beidhändig! Drei abnehmbare Komponenten ermöglichen die vollständige Anpassung für Links- sowie Rechtshänder – in allen PC-Spielen
+- Insgesamt 32 Action-Buttons (16 pro Joystick), 24 (12 pro Basis) mit tastbarer Knopfidentifikation in Blindenschrift, damit Gamer spielen können, ohne die Hände von den Joysticks zu nehmen. Aktionen und Manöver können somit leichter ausgeführt werden, auch in der virtuellen Realität
 - Verbesserte Ergonomie: große Handablagen und beschwerte Basis bieten optimalen Komfort und Stabilität, sogar während intensiver Manöver und Luftkämpfe
+- Das T.16000M FCS Space Sim Duo ist komplett beidhändig! Drei abnehmbare Komponenten ermöglichen die vollständige Anpassung für Links- sowie Rechtshänder – in allen PC-Spielen
+- Das T.16000M FCS Space Sim Duo ist mit Thrustmaster’s exklusiver H.E.A.R.T (Hall Effect Accurate Technology) ausgestattet, durch eingebaute Magnetsensoren am Stick wird ein völlig neues Level an Genauigkeit erreicht
 
 [🛒 Hier!!](https://www.amazon.de/dp/B076J1JBNY/?tag=tolees0ca-21)
