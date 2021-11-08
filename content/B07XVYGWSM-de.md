@@ -28,9 +28,9 @@ Sie können [LG Electronics - LG 27GL83A-B 68 58 cm  27 Zoll  WQHD UltraGear Gam
 
 ℹ️:
 
-- 68,58 cm (27 Zoll) IPS-Display mit WQHD-Auflösung (2.560 x 1.440 px) und 99% sRGB Farbraum; Bildformat: 16:9
 - Bildschirm mit HDR10, Bildwiederholrate von 144 Hz und 1ms (GtG); inkl. Reader Mode, augenschonende Flicker Safe Backlight Technologie und My Display Presets
 - Anschlüsse: 2 x HDMI (HDCP 2.2), DisplayPort 1.4, Kopfhörerausgang
+- 68,58 cm (27 Zoll) IPS-Display mit WQHD-Auflösung (2.560 x 1.440 px) und 99% sRGB Farbraum; Bildformat: 16:9
 - Gaming Features: NVIDIA G-Sync und Adaptive Sync kompatibel, FreeSync, integriertes Fadenkreuz, Black Stabilizer, Game Modi und Dynamic Action Sync bieten entscheidende Vorteile im Spiel
 - Lieferumfang: 27GL83A-B, Netzkabel, HDMI-Kabel, Kurzbedienungsanleitung, Treiber-CD, Kabelhalter, externes Netzteil, DisplayPort-Kabel
 

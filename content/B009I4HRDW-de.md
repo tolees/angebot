@@ -29,8 +29,8 @@ Es gibt ein [Brüder Mannesmann Werkzeug - Brüder Mannesmann M29166 Steckschlü
 ℹ️:
 
 - In Kunststoffkoffer
+- Packung die Größe: 50 L x 257 H x 152 W (cm)
 - Aus Chrom-Vanadium Stahl
 - Packung Weight: 151 kg
-- Packung die Größe: 50 L x 257 H x 152 W (cm)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009I4HRDW/?tag=tolees0ca-21)

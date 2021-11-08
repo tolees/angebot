@@ -28,10 +28,10 @@ Sie können [Acer - Predator XB273UGS Gaming Monitor 27 Zoll  69 cm Bildschirm  
 
 ℹ️:
 
-- DISPLAY-TYP: Agile Splendor IPS Displays nutzen anders als übliche IPS-Displays eine schnelle Flüssigkristalltechnologie, um die native Reaktionszeit zu verkürzen. Zudem bilden Sie ein DCI-P3-Farbspektrum von 90 % oder besser ab. Das Ergebnis sind extrem flüssige Darstellungen und eine lebendige Farbwiedergabe. Die HDR Technologie bietet im Vergleich zu normalen Bildern eine gleichmäßige Helligkeit, starke Kontraste und intensive Farben
+- HERSTELLERGARANTIE: 24 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Hinweis: Bei IPS-Panels kann trotz Einhaltung höchster Standards produktionsbedingt Backlight-Bleeding auftreten. Infos dazu finden Sie hier: de. answers. acer/app/answers/detail/a_id/38233 LIEFERUMFANG: XB273UGS KABEL: HDMI, DP, USB3.0
 - DESIGN: Zero-Frame-Monitore zeichnen sich durch minimale Rahmen aus. Bilder erscheinen auf dem Monitor größer und Übergänge bei Multi-Monitor-Setups sind nahezu nahtlos
 - FEATURE SET: 16:9 Gaming Monitor mit einer Auflösung von 2560x1440dpi, Agile Splendor IPS Display, BILDWIEDERHOLUNGSRATEN: 165Hz DP, 144Hz HDMI, HDR400, Reaktionszeit: Fast LC 1ms (G2G), ANSCHLÜSSE: 2xHDMI 2.0, DP 1.4, USB 3.0 HUB, Audio Out
 - SYNC TECHNOLOGIE: NVIDIA G-Sync Compatible sind FreeSync (Adaptive Sync) Monitore, die sich vergleichbar wie G-Sync Monitore verhalten und somit ruckelfreie, flüssige Spielesessions ermöglichen. VESA-kompatibel: Ya, 100 x 100mm
-- HERSTELLERGARANTIE: 24 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Hinweis: Bei IPS-Panels kann trotz Einhaltung höchster Standards produktionsbedingt Backlight-Bleeding auftreten. Infos dazu finden Sie hier: de. answers. acer/app/answers/detail/a_id/38233 LIEFERUMFANG: XB273UGS KABEL: HDMI, DP, USB3.0
+- DISPLAY-TYP: Agile Splendor IPS Displays nutzen anders als übliche IPS-Displays eine schnelle Flüssigkristalltechnologie, um die native Reaktionszeit zu verkürzen. Zudem bilden Sie ein DCI-P3-Farbspektrum von 90 % oder besser ab. Das Ergebnis sind extrem flüssige Darstellungen und eine lebendige Farbwiedergabe. Die HDR Technologie bietet im Vergleich zu normalen Bildern eine gleichmäßige Helligkeit, starke Kontraste und intensive Farben
 
 [🛒 Hier!!](https://www.amazon.de/dp/B083WZL8C5/?tag=tolees0ca-21)
