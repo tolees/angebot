@@ -29,11 +29,11 @@ Sie können [HELLA 1GJ 958 040-501 LED-Arbeitsscheinwerfer - Light Bar LB350 - 1
 ℹ️:
 
 - Die Elektronik ist Multivolt tauglich und gewährleistet konstante Helligkeit selbst bei einer schwankenden Betriebsspannung.
+- Durch den Einsatz besonders effizienter Leuchtdioden ist die LED Light Bar 350 ein besonders energiesparender Scheinwerfer.
 - Die LED Light Bar 350 bietet eine sehr breite Lichtverteilung, wodurch der gesamte Arbeitsbereich gleichmäßig ausgeleuchtet wird.
-- Schutzart: IP6K9K
+- Zusätzlich schützen Temperatursensoren den Arbeitsscheinwerfer vor Überhitzung. Nur dadurch kann die lange Lebensdauer der LEDs und sicheres Arbeiten bei Nacht gewährleistet werden.
 - Das wärmeleitende Kunststoffgehäuse bietet unterschiedlichste Montagemöglichkeiten, ist besonders leicht und komplett korrosionsresistent.
 - Anzahl der LEDs: 12 - Leistungsaufnahme: 25W - Farbtemperatur: 5000K
-- Durch den Einsatz besonders effizienter Leuchtdioden ist die LED Light Bar 350 ein besonders energiesparender Scheinwerfer.
-- Zusätzlich schützen Temperatursensoren den Arbeitsscheinwerfer vor Überhitzung. Nur dadurch kann die lange Lebensdauer der LEDs und sicheres Arbeiten bei Nacht gewährleistet werden.
+- Schutzart: IP6K9K
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0199YI3QA/?tag=tolees0ca-21)

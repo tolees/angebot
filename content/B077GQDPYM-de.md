@@ -28,10 +28,10 @@ Sie können [rOtring 800 Kugelschreiber  mittlere Spitze  schwarze Tinte  schwar
 
 ℹ️:
 
-- Dank der sechseckigen Form bleibt der Stift dort liegen, wo Sie ihn brauchen
-- Ein langlebiger Kugelschreiber für ein präzises, angenehmes Schriftbild mit hochwertiger schwarze Tinte
-- Durch den geriffelten, rutschfesten Metallgriff liegt der Stift auch bei häufigem Gebrauch bequem in der Hand
-- Seine Langlebigkeit und den Taschen sicheren Transport verdankt er dem einzigartigen dreh-klick-mechanismus, mit dem die Mine Samt der Manschette eingezogen werden kann
 - Der massive Metallschaft verfügt über ein optimal ausgeglichenes Gewicht und sorgt für ein ermüdungsfreies schreiben und Zeichnen
+- Dank der sechseckigen Form bleibt der Stift dort liegen, wo Sie ihn brauchen
+- Seine Langlebigkeit und den Taschen sicheren Transport verdankt er dem einzigartigen dreh-klick-mechanismus, mit dem die Mine Samt der Manschette eingezogen werden kann
+- Durch den geriffelten, rutschfesten Metallgriff liegt der Stift auch bei häufigem Gebrauch bequem in der Hand
+- Ein langlebiger Kugelschreiber für ein präzises, angenehmes Schriftbild mit hochwertiger schwarze Tinte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B077GQDPYM/?tag=tolees0ca-21)
