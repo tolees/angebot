@@ -28,10 +28,10 @@ Es gibt ein [ALPHA-OUTHERE - Vivaldi: Jupiter - Arien; Concertos](https://www.am
 
 ℹ️:
 
-- Concerto RV 495 per fagotto n.23 in sol
-- Juditha triumphans RV 644 (1716) Veni me sequere
 - Farnace RV 711 (1727) Gelido in ogni vena
-- Nisi Dominus RV 608 (Cum dederit delectis)
+- Concerto RV 495 per fagotto n.23 in sol
 - Juditha triumphans RV 644 (1716) Armatae
+- Juditha triumphans RV 644 (1716) Veni me sequere
+- Nisi Dominus RV 608 (Cum dederit delectis)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07X4BN8GP/?tag=tolees0ca-21)

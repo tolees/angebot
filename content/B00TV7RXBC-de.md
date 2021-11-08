@@ -28,9 +28,9 @@ Sie können [FIREFLY Kugellager-Set Inlineskates-Rollen Unisex  Transparent  76]
 
 ℹ️:
 
-- Firefly-Set
 - Inklusive Spacer
-- Mit 16 Kugellagern
 - 8 Inlineskates-Rollen
+- Mit 16 Kugellagern
+- Firefly-Set
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00TV7RXBC/?tag=tolees0ca-21)

@@ -28,8 +28,8 @@ Es gibt ein [Dockers by Gerli Herren 23DA005 Brogue Schnürhalbschuhe  Braun  Ca
 
 ℹ️:
 
-- Weicher Gehcomfort
 - Echtes Leder
+- Weicher Gehcomfort
 - Flexible Laufsohle
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00XVT3RJ8/?tag=tolees0ca-21)
