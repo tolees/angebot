@@ -28,13 +28,13 @@ Es gibt ein [WAGNER 2359358 Heißluftpistole AA8FURNO 750- max. 630°C 2000W  Lu
 
 ℹ️:
 
-- Voltage: 230.0
-- Energiequelle: Elektrisch (kabelgebunden)
-- Packung die Größe: 12.1 L x 39.1 H x 28.9 W (cm)
 - Temperatur stufenlos regelbar für unterschiedlichste Projekte
+- Packungsgewicht: 2.64 kg
 - Kraftvolles Heizelement aus Keramik für schnelles Erhitzen
 - Wattage: 1600.0
+- Packung die Größe: 12.1 L x 39.1 H x 28.9 W (cm)
+- Voltage: 230.0
 - Spitzenmodell für vielseitige Anwendungen von z.B. Farbe ablösen, Rost lockern, Auftauen, Formen, Grill entzünden, Schrinken, Erwärmen, uvm
-- Packungsgewicht: 2.64 kg
+- Energiequelle: Elektrisch (kabelgebunden)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MQXZBJ4/?tag=tolees0ca-21)

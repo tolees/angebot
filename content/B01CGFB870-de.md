@@ -29,8 +29,8 @@ Es gibt ein [Pioneer Herren RANDO Jeanshose  Stone Used 06  36W / 32L](https://w
 ℹ️:
 
 - Fußweite 40 cm bei Größe 34/32
+- Regular Fit
 - superelastisches Baumwollmischgewebe
 - Basic 5-Pocket
-- Regular Fit
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01CGFB870/?tag=tolees0ca-21)

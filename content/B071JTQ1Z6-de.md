@@ -31,11 +31,11 @@ Es gibt ein [Tefal OptiGrill XL GC722D Kontaktgrill  mit Plus XL-Grillfläche  m
 - Automatische Anpassung der Grilltemperatur und Grillzyklen je nach Dicke und Art des Grillguts
 - Um 33% größere Grillfläche gegenüber dem klassischen Optigrill; Leistung: 2,000 Watt
 - Neun voreingestellte Grillprogramme: Burger, Rotes Fleisch, Sandwiches, Würstchen, Fisch, Geflügel, Meeresfrüchte, Schwein und Bacon
-- Lieferumfang: Tefal GC722D Optigrill+ XL schwarz/silber, Bedienungsanleitung, 4 Rezeptideen zum schnellen Start (weitere Rezepte in der kostenlosen Mein OptiGrill App), Quick-Start-Guide
-- Zwei Zusatzprogramme: Auftau-Funktion sowie ein manuelles Programm, Länge Netzkabel - 0,8 m
 - Lichtindikator zeigt Garzustand des Grillguts an: blutig, medium oder durchgebraten
-- Schaltet sich das Gerät während des Vorheizens oder Grillens ab, dies kann daran liegen, dass das Gerät beim Grillen zu lange geöffnet war oder das Gerät nach dem Vorheizen oder Warmhalten zu lange inaktiv war. Ziehen Sie den Stecker aus der Steckdose und warten Sie 2-3 Minuten; starten Sie den Vorgang erneut. Wenn Sie das Gerät das nächste Mal verwenden, öffnen und schließen Sie es schnell, um beste Grillergebnisse zu erzielen. Wenn das Problem erneut auftritt, wenden Sie sich an Ihren lokalen Tefal-Kundendienst
 - Ca. 800 cm² antihaftbeschichtete Grillfläche - bietet Platz für Mahlzeiten für bis zu acht Personen
+- Lieferumfang: Tefal GC722D Optigrill+ XL schwarz/silber, Bedienungsanleitung, 4 Rezeptideen zum schnellen Start (weitere Rezepte in der kostenlosen Mein OptiGrill App), Quick-Start-Guide
+- Schaltet sich das Gerät während des Vorheizens oder Grillens ab, dies kann daran liegen, dass das Gerät beim Grillen zu lange geöffnet war oder das Gerät nach dem Vorheizen oder Warmhalten zu lange inaktiv war. Ziehen Sie den Stecker aus der Steckdose und warten Sie 2-3 Minuten; starten Sie den Vorgang erneut. Wenn Sie das Gerät das nächste Mal verwenden, öffnen und schließen Sie es schnell, um beste Grillergebnisse zu erzielen. Wenn das Problem erneut auftritt, wenden Sie sich an Ihren lokalen Tefal-Kundendienst
 - Das manuelle Programm verfügt über vier einstellbare Temperaturlevel für die Zubereitung von Obst und Gemüse
+- Zwei Zusatzprogramme: Auftau-Funktion sowie ein manuelles Programm, Länge Netzkabel - 0,8 m
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B071JTQ1Z6/?tag=tolees0ca-21)

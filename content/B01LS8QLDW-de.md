@@ -28,10 +28,10 @@ Es gibt ein [Emsa 517478 Vogelhaus/Nistkasten Für Kleinsingvögel  altblau](htt
 
 ℹ️:
 
-- 100% witterungsbeständig: Regenundurchlässig, Robuster Kunststoff, UV-beständig und frostfest, Hygienisch: Leichte Reinigung durch herausziehbare Vorderfront, Made in Germany
+- Lieferumfang: 1 Emsa Vogel-Nistkasten, Maße (L x B x H): 15 x 16 x 24 cm, Material: Kunststoff, Farbe: Altblau, Inklusive Befestigungsmaterial
 - Einfache, vielfältige Anbringungsmöglichkeiten: Freihängend mit integrierter Schlaufe oder an der Wand mit Hakenloch im Giebel, Optional erhältliche Stab- oder Geländerhalterung
 - Dekorativ und funktional, Mit Ornithologen entwickelt, Be- und Entlüftung dank funktionalem Doppelboden sowie kleinen Schlitzen und Lüftungsöffnungen im Dachbereich, Erleichtertes Verlassen durch treppenartige Lamellen unter dem Ausflugloch
-- Lieferumfang: 1 Emsa Vogel-Nistkasten, Maße (L x B x H): 15 x 16 x 24 cm, Material: Kunststoff, Farbe: Altblau, Inklusive Befestigungsmaterial
+- 100% witterungsbeständig: Regenundurchlässig, Robuster Kunststoff, UV-beständig und frostfest, Hygienisch: Leichte Reinigung durch herausziehbare Vorderfront, Made in Germany
 - Altblauer Nistkasten im modernen Landhaus-Stil fürs ganze Jahr - Ideal geeignet für Kleinsingvögel (Einflugloch Ø 3 cm) wie Kleinmeisen, Kohlmeisen, Haussperlinge etc., Für Garten, Terrasse oder Balkon
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01LS8QLDW/?tag=tolees0ca-21)

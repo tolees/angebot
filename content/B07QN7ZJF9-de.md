@@ -28,10 +28,10 @@ Sie können [LEGO Education Spike Prime Set](https://www.amazon.de/dp/B07QN7ZJF9
 
 ℹ️:
 
-- Item Weight in kg: 2
-- Lego Education SPIKE Prime Set
 - LEGO Education SPIKE Prime ist auf die aktuellen Lehrpläne zugeschnitten
 - Die fertigen Lerneinheiten können innerhalb einer 45-minütigen Unterrichtsstunde bearbeitet werden
+- Lego Education SPIKE Prime Set
+- Item Weight in kg: 2
 - Das Bauen und Programmieren eines einfachen Modells dauert nur wenige Minuten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QN7ZJF9/?tag=tolees0ca-21)

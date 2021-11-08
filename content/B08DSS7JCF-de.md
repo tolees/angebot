@@ -29,7 +29,7 @@ Sie können [Koei Tecmo - Atelier Ryza 2: Lost Legends & the Secret Fairy  Ninte
 ℹ️:
 
 - Neue Techniken helfen Ryza durch die Welt zu schwimmen, klettern, schwingen und reiten
-- Erforsche antike Ruinen und entdecke die Wahrheit hinter den verlorenen Legenden und der mysteriösen Fee "Fi"
 - Schließe dich Ryza und ihren Freunden auf ihrem neuen Abenteuer in der Königlichen Hauptstadt Ashra-am Baird an
+- Erforsche antike Ruinen und entdecke die Wahrheit hinter den verlorenen Legenden und der mysteriösen Fee "Fi"
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08DSS7JCF/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Sie können ["Allibert by Keter" Gartenlounge Sofa California 3-Sitzer  graphit/
 ℹ️:
 
 - hergestellt aus UV- und wetterbeständigem, hochwertigen Polypropylen (Kunststoff)
-- durch Kombination mit dem California 2er Set Sessel und Tisch entsteht ein trendiges Set
 - Abmessungen (L/B/H): ca. 199 x 68 x 72 cm
-- einfacher Aufbau
+- durch Kombination mit dem California 2er Set Sessel und Tisch entsteht ein trendiges Set
 - 3-Sitzer-Sofa in runder naturgetreuer und offener Rattanoptik, inkl. bequemen Kissen: cool grey (panama), ca. 7,5 cm Stärke, Polyester
+- einfacher Aufbau
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MXYHNVQ/?tag=tolees0ca-21)
