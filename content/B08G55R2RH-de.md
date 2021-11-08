@@ -1,41 +1,38 @@
 ---
 layout: post
-title: '18.21 % rabat auf LEGO 43189 Disney Princess Frozen 2 Elsa'
-date: 2021-10-18 18:20:25
-image: 'https://m.media-amazon.com/images/I/51cdjEGOCeL._SL500_._SL400_.jpg'
+title: '25.01 % rabat auf LEGO 43189 Disney Frozen 2 Elsas Märchen'
+date: 2021-11-08 14:46:01
+image: 'https://m.media-amazon.com/images/I/51Y+voFJVOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08G55R2RH-de LEGO 43189 Disney Princess Frozen 2 Elsas Märchenbuch...'
+slug: 'B08G55R2RH-de LEGO 43189 Disney Frozen 2 Elsas Märchenbuch...'
 sku: 'B08G55R2RH-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','lego', ]
-actualPrice: 16.35 EUR
+actualPrice: 14.99 EUR
 currency: EUR
-price: 16.35
+price: 14.99
 comparePrice: 19.99 EUR
-prodname: 'LEGO 43189 Disney Princess Frozen 2 Elsas Märchenbuch  tragbares Spielset  Reisespielzeug für Kinder  Die Eiskönigin 2'
+prodname: 'LEGO 43189 Disney Frozen 2 Elsas Märchenbuch  Reisespielzeug mit Nokk und Olaf  mit Prinzessinnen Mini-Puppen  Eiskönigin Spielzeug ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21'
-descuento: '18.21'
-average: '16.3388888888888'
+descuento: '25.01'
+average: '16.2973846153845'
 ---
 
-Es gibt ein [LEGO 43189 Disney Princess Frozen 2 Elsas Märchenbuch  tragbares Spielset  Reisespielzeug für Kinder  Die Eiskönigin 2](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21) mit aktuellem Preis 16.35 EUR (original: 19.99 EUR) 18.21 % Rabatt hier:
+Es gibt ein [LEGO 43189 Disney Frozen 2 Elsas Märchenbuch  Reisespielzeug mit Nokk und Olaf  mit Prinzessinnen Mini-Puppen  Eiskönigin Spielzeug ab 5 Jahren](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21) mit aktuellem Preis 14.99 EUR (original: 19.99 EUR) 25.01 % Rabatt hier:
 
-[![LEGO 43189 Disney Princess Frozen 2 Elsa](https://m.media-amazon.com/images/I/51cdjEGOCeL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21)
+[![LEGO 43189 Disney Frozen 2 Elsas Märchen](https://m.media-amazon.com/images/I/51Y+voFJVOL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21)
 
 ℹ️:
 
-- LEGO Elemente entsprechen schon seit 1958 strengsten Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets zuverlässig zusammenstecken und wieder trennen lassen
-- Noch hilfreicher als die gedruckte Bauanleitung sind die digitalen Instructions PLUS in der LEGO Building Instructions App. Jüngere Baumeister können während des Bauens eine digitale Modellansicht vergrößern und näher betrachten
-- Dieses Set zum Disney Film „Die Eiskönigin 2“ enthält detailgetreue Mikro-Spielfiguren und bekannte Szenen, um Kinder kreativ spielen und wichtige Baufähigkeiten entwickeln zu lassen
-- Was erwartet Kinder im verwunschenen Wald? Dieses coole Set enthält ein aufschlagbares Buch mit 2-seitigem Modell in der Mitte. Aufkleber und jede Menge Elemente lassen Kinder fantasievoll spielen
-- Fans des Disney Films „Die Eiskönigin 2“ werden dieses Set lieben. Das aufgeschlagene Buch gibt eine komplette Mikro-Spielwelt preis. Ein tolles Weihnachts-, Geburtstags- oder Überraschungsgeschenk für Jungen und Mädchen ab 5 Jahren
-- Beliebte Mikro-Spielfiguren wie die Disney Helden Elsa, Olaf, der Erdriese, der Nokk und Iduna freuen sich auf spannende neue Abenteuer in diesem Buch oder zusammen mit anderen Sets
-- Das LEGO ǀ Disney Set „Elsas Märchenbuch“ (43189) macht Lust auf spannende Rollenspiele und kreative Abenteuer. Das Buch muss nur aufgeschlagen werden, um sofort spielen zu können!
-- Abenteuer zum Mitnehmen. Das aufgeschlagene Buch ist 23 cm breit und 12 cm tief. Das ist die perfekte Größe, um auch unterwegs spannende neue Geschichten zu erleben
-- LEGO Elemente werden Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit sie strikten globalen Sicherheitsstandards entsprechen
+- Die Reisespielzeuge aus Disneys „Die Eiskönigin 2“ mit Mini-Puppen und Disney-Minifiguren sind fantastische Geschenke zum Geburtstag oder zu Weihnachten für Kinder ab 5 Jahren
+- Dieses Prinzessinnen-Spielzeug enthält 3 Mini-Puppen: Iduna, 2 Versionen der Disney Mini-Puppe Elsa sowie 3 LEGO-Frozen-2-Minifiguren: Olaf, Nokk und den Erdriesen
+- Dieses Reisespielzeug aus Disneys „Die Eiskönigin 2“ enthält ein Buch zum Aufklappen mit einem 2-seitigen Modell in der Mitte, einem Stickerbogen und vielen Spielanregungen
+- Enthält eine gedruckte Bauanleitung und die digitalen Instructions PLUS in der LEGO Building Instructions App, die die Kinder durch den Bauprozess führen
+- Das Buch bietet eine vollständige Miniwelt mit Eispalast und steckt voller Funktionen und Spielideen, die die Fantasie anregen
+- Zusammen mit der Disney Mini-Puppe Elsa und Nokk, dem mythischen Pferde-Wassergeist können Kinder die Abenteuer von Arendelle im verwunschenen Wald nacherleben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G55R2RH/?tag=tolees0ca-21)
