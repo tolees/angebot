@@ -28,10 +28,10 @@ Es gibt ein [GARDENA smart Irrigation Control: Bewässerungssteuerung für bis z
 
 ℹ️:
 
-- Erweiterbar: Durch Kombination mit dem smart Sensor (optional erhältlich) wird die Bewässerung automatisch gestoppt oder gestartet
 - Intelligente Bewässerungssteuerung: 6 Ventile sind individuell programmierbar und bewässern je nach Bedarf
+- Lieferumfang beinhaltet: 1x GARDENA smart Irrigation Control
+- Erweiterbar: Durch Kombination mit dem smart Sensor (optional erhältlich) wird die Bewässerung automatisch gestoppt oder gestartet
 - Steuerung per smart App: Kostenloser Download und keine Abonnementgebühren (Voraussetzung: smart Gateway)
 - Kompatibel: Steuert Bewässerungsanlagen mit nahezu allen handelsüblichen 24 V Bewässerungsventilen. So werden auch bestehende Bewässerungsanlagen andere Anbieter smart
-- Lieferumfang beinhaltet: 1x GARDENA smart Irrigation Control
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B076WYHCRJ/?tag=tolees0ca-21)
