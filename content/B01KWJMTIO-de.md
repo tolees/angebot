@@ -29,9 +29,9 @@ Sie können [Bosch Professional 18V System Akku Kreissäge GKS 18V-57 G  Sägebl
 ℹ️:
 
 - Sicheres Arbeiten durch die integrierte elektrische Bremsfunktion
-- Lieferumfang: GKS 18V-57 G, Kreissägeblatt optilineWOOD, Parallelanschlag, Absaugadapter, Inbusschlüssel, L-BOXX
-- Effektiver Arbeitsfortschritt dank des rechtseitigen Sägeblattes mit 57 mm Schnitttiefe. Leerlaufdrehzahl: 3400 min-1
-- Professional 18V System; Ultimative Performance; Maximale Freiheit; Alle unsere Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel
 - Die leistungsstarke Akku Kreissäge GKS 18V-57 G von Bosch Professional mit 18 Volt
+- Professional 18V System; Ultimative Performance; Maximale Freiheit; Alle unsere Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel
+- Effektiver Arbeitsfortschritt dank des rechtseitigen Sägeblattes mit 57 mm Schnitttiefe. Leerlaufdrehzahl: 3400 min-1
+- Lieferumfang: GKS 18V-57 G, Kreissägeblatt optilineWOOD, Parallelanschlag, Absaugadapter, Inbusschlüssel, L-BOXX
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01KWJMTIO/?tag=tolees0ca-21)
