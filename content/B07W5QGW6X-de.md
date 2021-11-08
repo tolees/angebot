@@ -28,11 +28,11 @@ Es gibt ein [LEGO 41253 Trolls Floßabenteuer in Einsamshausen](https://www.amaz
 
 ℹ️:
 
-- Vom Hersteller empfohlenes Alter: 4+
-- Vom Hersteller nicht mehr verkauft
-- Enthält 3 Minifiguren und jede Menge Zubehör für fantasievolle Spielerlebnisse.
 - Anzahl der Teile: 159
+- Vom Hersteller nicht mehr verkauft
 - Floßabenteuer in Einsamshausen
+- Enthält 3 Minifiguren und jede Menge Zubehör für fantasievolle Spielerlebnisse.
 - Es gibt auch eine rotierende Tanzfläche und eine Musiksaite zum Sammeln, die es zu finden gilt.
+- Vom Hersteller empfohlenes Alter: 4+
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W5QGW6X/?tag=tolees0ca-21)

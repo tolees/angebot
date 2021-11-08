@@ -28,10 +28,10 @@ Es gibt ein [LEGO 10899 DUPLO Disney Princess Elsas Eispalast  Spielzeug für Ju
 
 ℹ️:
 
-- Dieses Spielzeugschloss aus Disneys „Die Eiskönigin“ für Jungen und Mädchen ab 2 Jahren enthält eine Rutsche, transparente „Eis“-Steine, einen Tisch, Stühle und Küchenausstattung
-- Begeistere dein Kind, indem du das Schloss mit einem speziellen Leuchtstein per Knopfdruck mehrfarbig beleuchtest
-- Das Bauen und Umgestalten der Bausteine fördert die Feinmotorik deines Kindes und sorgt für endlosen kreativen Spielspaß
 - Inklusive 3 Mini-Puppen: Prinzessin Elsa und Anna in ihren schönen Kleidern mit realistischen Details und Olaf, der Schneemann
+- Begeistere dein Kind, indem du das Schloss mit einem speziellen Leuchtstein per Knopfdruck mehrfarbig beleuchtest
 - Dieses Bauspielzeug aus „Die Eiskönigin“ regt zu fantasievollen Rollenspielen und Geschichten an, die die sprachlichen und emotionalen Fähigkeiten deines Kindes fördern
+- Dieses Spielzeugschloss aus Disneys „Die Eiskönigin“ für Jungen und Mädchen ab 2 Jahren enthält eine Rutsche, transparente „Eis“-Steine, einen Tisch, Stühle und Küchenausstattung
+- Das Bauen und Umgestalten der Bausteine fördert die Feinmotorik deines Kindes und sorgt für endlosen kreativen Spielspaß
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WLMV14S/?tag=tolees0ca-21)
