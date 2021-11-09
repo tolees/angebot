@@ -29,7 +29,7 @@ Es gibt ein [Sloggi - Damen Slip Kontrolle Maxi Unterhose Hoher Bund  Gr.40  2er
 ℹ️:
 
 - Klassischer Fit mit hüftigem Sitz und angenehm breiteren Seiten
-- Festes, weiches Gewebe mit hohem Baumwollantei
 - wird im 2er Pack geliefert
+- Festes, weiches Gewebe mit hohem Baumwollantei
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ANS1VD4/?tag=tolees0ca-21)

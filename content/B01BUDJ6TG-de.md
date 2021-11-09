@@ -29,8 +29,8 @@ Es gibt ein [WAGNER Farbsprühsystem W 590 FLEXiO für Dispersions-/Latexfarben 
 ℹ️:
 
 - Geringer Abdeckaufwand: Luftmantel umhüllt den Sprühstrahl"
-- Streifenfreie, homogene Oberfläche in einem Arbeitsgang
 - Teilbare Pistole für schnellen Wechsel des Sprühaufsatzes und bequeme Reinigung
+- Streifenfreie, homogene Oberfläche in einem Arbeitsgang
 - Kompaktes, handgehaltenes System für den flexiblen Einsatz
 - Schneller und einfacher Farbauftrag: kein Vorstreichen von Ecken und Kanten
 
