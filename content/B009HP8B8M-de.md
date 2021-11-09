@@ -28,10 +28,10 @@ Es gibt ein [Milka Naps Mix 1 x 1kg Dose  Zartschmelzende Mini-Schokoladentäfel
 
 ℹ️:
 
-- Die Täfelchen (1 x 1kg) mit einem Kakaoanteil von 30 Prozent können andere Nüsse und Weizen enthalten und sollten kühl und trocken gelagert werden
 - Die Schokotäfelchen aus zarter Alpenmilch-Schokolade mit einen Kakaoanteil von 30 Prozent
-- Milka Naps Mix sind kleine, zartschmelzende Schokoladentäfelchen in den Sorten Alpenmilch, Erdbeer, Haselnuss und Crème au Cacao
+- Die Täfelchen (1 x 1kg) mit einem Kakaoanteil von 30 Prozent können andere Nüsse und Weizen enthalten und sollten kühl und trocken gelagert werden
 - Milka Naps sind als Alpenmilch Variante oder im Mix mit 4 leckeren Sorten erhältlich / Die Anzahl der Täfelchen pro Sorte kann variieren
+- Milka Naps Mix sind kleine, zartschmelzende Schokoladentäfelchen in den Sorten Alpenmilch, Erdbeer, Haselnuss und Crème au Cacao
 - Alpenmilch Mix Mini Tafeln für schokoladigen Genuss egal ob zum Kaffee, Tee oder Kakao
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009HP8B8M/?tag=tolees0ca-21)
