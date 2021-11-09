@@ -28,12 +28,12 @@ Sie können [LEDVANCE LED Fluter  Leuchte für Außenanwendungen  Warmweiß  245
 
 ℹ️:
 
-- Stromzufuhr über ein 1 Meter langes und offenes Kabel
-- Bedenkenlose Außenanwendung durch IP65-Schutzklasse
-- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- Teilmattierte Abdeckung aus gehärtetem Glas, für eine gleichmäßige Beleuchtung
 - Gehäusematerial aus hochwertigem Aluminium
 - Sofort volles Licht, keine Aufwärmzeit durch das integrierte und stromsparende LED-Modul
+- Teilmattierte Abdeckung aus gehärtetem Glas, für eine gleichmäßige Beleuchtung
+- Bedenkenlose Außenanwendung durch IP65-Schutzklasse
+- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
+- Stromzufuhr über ein 1 Meter langes und offenes Kabel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TTRHMW3/?tag=tolees0ca-21)
