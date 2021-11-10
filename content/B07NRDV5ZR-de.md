@@ -28,12 +28,12 @@ Sie können [Head & Shoulders XXL Apple Fresh Anti Schuppen Shampoo  Pumpspender
 
 ℹ️:
 
+- Für beste Ergebnisse zusätzlich die H&S Pflegespülung verwenden, die das Haar und die Kopfhaut intensiv mit Feuchtigkeit versorgt - für wunderschönes Haar
+- Das Apple Fresh Anti-Schuppen Shampoo reinigt das Haar und sorgt für ein frisches Gefühl mit langanhaltendem Apfelduft
+- 72 Stunden Schutz vor Schuppen*, Juckreiz** und Trockenheit *bei regelmäßiger Anwendung; **Juckreiz aufgrund von Schuppen
+- Weltweit die Shampoo-Marke Nummer 1 (Berechnung von P&G, basierend auf dem jährlichen externen Verkaufsumsatz in der Kategorie Shampoo)
+- Bekämpft die Ursache von Schuppen für bis zu 100% schuppenfreies Haar (Bei regelmäßiger Anwendung)
 - Dermatologisch getestet, mit ausgewogenem pH-Wert und Antioxidantien für eine sanfte Pflege von Haar und Kopfhaut
 - 40% des für die Herstellung dieser Flasche verwendeten Plastik, mit Ausnahme der Kappe, ist recycelt
-- Für beste Ergebnisse zusätzlich die H&S Pflegespülung verwenden, die das Haar und die Kopfhaut intensiv mit Feuchtigkeit versorgt - für wunderschönes Haar
-- Bekämpft die Ursache von Schuppen für bis zu 100% schuppenfreies Haar (Bei regelmäßiger Anwendung)
-- 72 Stunden Schutz vor Schuppen*, Juckreiz** und Trockenheit *bei regelmäßiger Anwendung; **Juckreiz aufgrund von Schuppen
-- Das Apple Fresh Anti-Schuppen Shampoo reinigt das Haar und sorgt für ein frisches Gefühl mit langanhaltendem Apfelduft
-- Weltweit die Shampoo-Marke Nummer 1 (Berechnung von P&G, basierend auf dem jährlichen externen Verkaufsumsatz in der Kategorie Shampoo)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07NRDV5ZR/?tag=tolees0ca-21)

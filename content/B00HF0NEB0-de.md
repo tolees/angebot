@@ -28,10 +28,10 @@ Es gibt ein [WMF Ceramill Nature Salz und Pfeffer Mühle Set 2-teilig unbefüllt
 
 ℹ️:
 
-- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
+- Material: Eichenholz, Keramik-Mahlwerk, Glasbehälter (spülmaschinengeeignet). Keinen Schmutz auf der Arbeitsfläche da die Mahl-Öffnung der Salz- und Pfeffermühle oben liegt. Aromadicht verschließbar
 - Herstellergarantie: 10 Jahre auf das Keramikmahlwerk. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
 - Das Einstellrad ermöglicht die stufenlose Einstellung der Mahlstärke von grob bis fein. Bei jeder Drehung kommt das Mahlgut in gleichmäßiger Körnung heraus. Große Öffnung für problemloses Nachfüllen
 - Inhalt: 2x Gewürzmühle unbefüllt (Höhe 13,8 cm, Ø 6 cm) ohne Beschriftung - Artikelnummer: 0652314500
-- Material: Eichenholz, Keramik-Mahlwerk, Glasbehälter (spülmaschinengeeignet). Keinen Schmutz auf der Arbeitsfläche da die Mahl-Öffnung der Salz- und Pfeffermühle oben liegt. Aromadicht verschließbar
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HF0NEB0/?tag=tolees0ca-21)
