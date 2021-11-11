@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.26 % rabat auf ATE 24012202101 Bremsscheibe -  Paar '
-date: 2021-11-03 15:56:06
+date: 2021-11-11 17:26:36
 image: 'https://m.media-amazon.com/images/I/51uvj0nrLyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ Es gibt ein [ATE 24012202101 Bremsscheibe -  Paar ](https://www.amazon.de/dp/B00
 
 ℹ️:
 
-- Durchmesser [mm]: 280
-- Bohrung-Ø [mm]: 15,3
 - Ergänzungsartikel/Ergänzende Info 2: mit Schrauben
-- Bremsscheibendicke [mm]: 22
-- Innendurchmesser [mm]: 144
-- Lochanzahl 2: 9
 - Höhe [mm]: 49,9
+- Durchmesser [mm]: 280
+- Bremsscheibendicke [mm]: 22
+- Lochanzahl 2: 9
+- Bohrung-Ø [mm]: 15,3
 - Bremsscheibenart: belüftet
-- Lochanzahl: 5
 - Bearbeitung: hochgekohlt
+- Lochanzahl: 5
+- Innendurchmesser [mm]: 144
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0068MMNQI/?tag=tolees0ca-21)

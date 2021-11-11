@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Original MANN-FILTER Ölfilter HU 711/51  mit 45.70 % Rabatt'
-date: 2021-10-21 21:53:44
+title: 'Original MANN-FILTER Ölfilter HU 711/51  mit 55.11 % Rabatt'
+date: 2021-11-11 17:28:24
 image: 'https://m.media-amazon.com/images/I/41k6-7vVKbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B001DRLPOY-de Original MANN-FILTER Ölfilter HU 711/51 X – Ölfilter Satz...'
 sku: 'B001DRLPOY-de'
 tags: [ 'Auto & Motorrad','Auto-Ölfilter','Ersatz-, Tuning- & Verschleißteile','Filter für Autos','mann-filter', ]
-actualPrice: 4.1 EUR
+actualPrice: 3.34 EUR
 currency: EUR
-price: 4.1
-comparePrice: 7.55 EUR
+price: 3.34
+comparePrice: 7.44 EUR
 prodname: 'Original MANN-FILTER Ölfilter HU 711/51 X – Ölfilter Satz mit Dichtung / Dichtungssatz – Für PKW'
 country: 'de'
 flag: '🇩🇪'
 brand: 'MANN-FILTER'
 buyurl: 'https://www.amazon.de/dp/B001DRLPOY/?tag=tolees0ca-21'
-descuento: '45.70'
-average: '4.1'
+descuento: '55.11'
+average: '3.72'
 ---
 
-Sie können [Original MANN-FILTER Ölfilter HU 711/51 X – Ölfilter Satz mit Dichtung / Dichtungssatz – Für PKW](https://www.amazon.de/dp/B001DRLPOY/?tag=tolees0ca-21) mit Preis 4.1 EUR (original: 7.55 EUR) 45.70 % Rabatt hier:
+Sie können [Original MANN-FILTER Ölfilter HU 711/51 X – Ölfilter Satz mit Dichtung / Dichtungssatz – Für PKW](https://www.amazon.de/dp/B001DRLPOY/?tag=tolees0ca-21) mit Preis 3.34 EUR (original: 7.44 EUR) 55.11 % Rabatt hier:
 
 [![Original MANN-FILTER Ölfilter HU 711/51 ](https://m.media-amazon.com/images/I/41k6-7vVKbL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B001DRLPOY/?tag=tolees0ca-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.63 % rabat auf Philips Enneper Einbaustrahler  Fassung '
-date: 2021-11-10 04:42:31
+date: 2021-11-11 17:30:53
 image: 'https://m.media-amazon.com/images/I/31-oX4GYm3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Philips'
 buyurl: 'https://www.amazon.de/dp/B06X6KJBLT/?tag=tolees0ca-21'
 descuento: '16.63'
-average: '12.55'
+average: '11.24'
 ---
 
 Es gibt ein [Philips Enneper Einbaustrahler  Fassung GU10 Bianco](https://www.amazon.de/dp/B06X6KJBLT/?tag=tolees0ca-21) mit aktuellem Preis 8.62 EUR (original: 10.34 EUR) 16.63 % Rabatt hier:
