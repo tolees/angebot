@@ -28,10 +28,10 @@ Sie können [Ledvance SMART+ Schaltbare Steckdose für WiFi  mit Strom Vermessun
 
 ℹ️:
 
-- Steuerung über LEDVANCE SMART+ WiFi App möglich (ab Android 4.4 oder ab iOS 9.0)
-- Netzwerkprotokoll: WiFi
+- Steuerung über Google Assistant oder Amazon Alexa möglich
 - Steuerung über die LEDVANCE SMART+ WiFi Fernbedienung möglich
 - Hohe Schaltleistung: bis zu 2.300 W / 10 A
-- Steuerung über Google Assistant oder Amazon Alexa möglich
+- Netzwerkprotokoll: WiFi
+- Steuerung über LEDVANCE SMART+ WiFi App möglich (ab Android 4.4 oder ab iOS 9.0)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08THM9GNN/?tag=tolees0ca-21)
