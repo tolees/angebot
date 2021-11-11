@@ -28,10 +28,10 @@ Es gibt ein [LEDVANCE Smarte LED-Lampe mit WiFi Technologie  Sockel E27  Dimmbar
 
 ℹ️:
 
+- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 - Energieverbrauch 9 kWh/1000h bei 806 lm
 - Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
-- Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 60-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
 - Steuerung über LEDVANCE SMART + App (ab Android 6.0), einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
-- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
+- Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 60-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08KYBFBSZ/?tag=tolees0ca-21)
