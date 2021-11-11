@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE Smarte LED Aussenleuchte mit Wi mit 24.04 % Rabatt'
-date: 2021-11-10 11:53:43
+date: 2021-11-11 12:23:10
 image: 'https://m.media-amazon.com/images/I/41eiZ6uvf8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ledvance'
 buyurl: 'https://www.amazon.de/dp/B08KGLTV1D/?tag=tolees0ca-21'
 descuento: '24.04'
-average: '36.285'
+average: '35.5309090909091'
 ---
 
 Sie können [LEDVANCE Smarte LED Aussenleuchte mit WiFi Technologie  Flutstrahler für Außen  RGB-Farben änderbar  30W  aus dunkelgrauem Aluminium  Kompatibel mit Google und Alexa Voice Control  SMART+ WIFI FLOOD](https://www.amazon.de/dp/B08KGLTV1D/?tag=tolees0ca-21) mit Preis 27.99 EUR (original: 36.85 EUR) 24.04 % Rabatt hier:
@@ -28,12 +28,12 @@ Sie können [LEDVANCE Smarte LED Aussenleuchte mit WiFi Technologie  Flutstrahle
 
 ℹ️:
 
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- Dimmbar
-- Steuerung über Google Assistant oder Amazon Alexa möglich
 - Farbtemperatur: 3.000 K (Warm White)
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
+- Steuerung über Google Assistant oder Amazon Alexa möglich
 - Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 - RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
+- Dimmbar
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08KGLTV1D/?tag=tolees0ca-21)
