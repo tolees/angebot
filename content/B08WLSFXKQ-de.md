@@ -28,9 +28,9 @@ Es gibt ein [Michael Kors Damen Gen 5E Darci Touchscreen Smartwatch mit Lautspre
 
 ℹ️:
 
-- 24 Stunden bzw. mehrere Tage Akkulaufzeit im Erweiterten Akkumodus **Akkulaufzeit abhängig von der Nutzung und der Installation von Updates**. USB-Kabel mit Induktionsladegerät lässt sich an Ringen auf dem Gehäuseboden befestigen und um 360 Grad drehen. In 60 Minuten bis 80 % geladen.
 - Always-On Display mit tausenden Zifferblättern für Ihren persönlichen Look bei immer sichtbarer Zeitanzeige. Hunderte von Apps, z. B. Google Assistant, Fitness, Bezahlen, Musik, Social Media, News, Spiele, Stoppuhren und mehr. Ein wasserdichtes Design für alle Ihre Aktivitäten.
-- Kompatibel mit der Wear OS by Google App auf Smartphones mit Android 6.0 und höher (ausgenommen Go Edition) und iOS 12.0 und höher.
 - Automatisches Tracken von Aktivitätszielen, Schritten, Schlaf, Herzfrequenz, Cardio-Level und mehr. Aktivitätsmodus mit Tethered GPS zeichnet Ihre zurückgelegte Strecke und Ihren Weg auf. Fortschrittliche Sensoren sammeln Daten für alle Ihre Gesundheits- und Fitness-Apps.
+- 24 Stunden bzw. mehrere Tage Akkulaufzeit im Erweiterten Akkumodus **Akkulaufzeit abhängig von der Nutzung und der Installation von Updates**. USB-Kabel mit Induktionsladegerät lässt sich an Ringen auf dem Gehäuseboden befestigen und um 360 Grad drehen. In 60 Minuten bis 80 % geladen.
+- Kompatibel mit der Wear OS by Google App auf Smartphones mit Android 6.0 und höher (ausgenommen Go Edition) und iOS 12.0 und höher.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WLSFXKQ/?tag=tolees0ca-21)
