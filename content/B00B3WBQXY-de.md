@@ -28,10 +28,10 @@ Sie können [Bosch Automotive Scheibenwischer Rear A360H  Länge: 380mm – Sche
 
 ℹ️:
 
-- Lieferumfang: 1 Scheibenwischer für Heckscheibe, Länge: 380mm
 - Erhältlich als Bosch Aerotwin Flachblattwischer, als Design Kunststoff Wischer oder als Metallbügel Wischer: spezifische Lösungen für alle Fahrzeuge
 - Innovative Bosch Wischgummitechnik: für eine bessere, leisere und längere Wischleistung
 - Bitte verwenden Sie den Fahrzeugkonfigurator oben auf dieser Seite, um sicher zu stellen, dass der Scheibenwischer auf Ihr Fahrzeug passt, und beachten Sie alle Einschränkungen
+- Lieferumfang: 1 Scheibenwischer für Heckscheibe, Länge: 380mm
 - Vormontierte Adapter: ermöglichen einen schnellen und einfachen Einbau
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00B3WBQXY/?tag=tolees0ca-21)
