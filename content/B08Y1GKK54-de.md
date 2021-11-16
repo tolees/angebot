@@ -28,10 +28,10 @@ Es gibt ein [SodaStream QC-Reservepack mit 1x Quick Connect CO2-Zylinder  Ergieb
 
 ℹ️:
 
-- SODASTREAM GLASFLASCHE: Die formschöne Glaskaraffe garantiert einzigartige Frische und pure Qualität ihrer Getränke. Freuen Sie sich über stilvolle Individualität und Genuss in seiner besten Form
-- SPÜLMASCHINENFEST: Die hochwertigen Flaschen aus Glas sind spülmaschinengeeignet und somit auch einfach zu Reinigen
-- LIEFERUMFANG: 1x SodaStream QC CO2-Zylinder und 1x SodaStream 1L Glasflasche
-- SODASTREAM RESERVEZYLINDER: Mit einem zusätzlichen Zylinder aus dem Reservepack können Sie weiter sprudeln, während Sie den anderen Zylinder tauschen
 - ACHTUNG: Der CO2-Zylinder sowie die 1L Glasflasche passen nur in den Wassersprudler DUO. Alle anderen Sprudler können diese Glasflasche nicht verwenden
+- SPÜLMASCHINENFEST: Die hochwertigen Flaschen aus Glas sind spülmaschinengeeignet und somit auch einfach zu Reinigen
+- SODASTREAM GLASFLASCHE: Die formschöne Glaskaraffe garantiert einzigartige Frische und pure Qualität ihrer Getränke. Freuen Sie sich über stilvolle Individualität und Genuss in seiner besten Form
+- SODASTREAM RESERVEZYLINDER: Mit einem zusätzlichen Zylinder aus dem Reservepack können Sie weiter sprudeln, während Sie den anderen Zylinder tauschen
+- LIEFERUMFANG: 1x SodaStream QC CO2-Zylinder und 1x SodaStream 1L Glasflasche
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08Y1GKK54/?tag=tolees0ca-21)

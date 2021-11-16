@@ -29,10 +29,10 @@ Sie können [Persil Sensitive Megaperls  90 Waschladungen   ECARF-zertifiziertes
 ℹ️:
 
 - Für eine saubere Welt – Die Persil Megaperls sind bereits ab 20 °C wirksam, die Verpackung besteht zu 100 % aus recycelbarem Plastik. Bitte die Verpackung nach Gebrauch recyceln
-- Sanfte Formel – Dermatologisch getestet* und ECARF-zertifiziert** eignet sich die Formel auch als Baby Waschmittel und schützt sowohl Fasern als auch die sensible Haut und respektiert das Mikrobiom der Haut.
-- Naturbasierte Inhaltsstoffe – Die Inhaltsstoffe machen das Vollwaschmittel besonders hautfreundlich und sind ohne aggressive Chemikalien.
 - Frischer Duft – Dank hypoallergenem Parfüm sorgt das Persil Waschpulver für ein angenehmes Tragegefühl und duftet langanhaltend nach natürlicher Seife und Aloe Vera
 - Hinweis: Die Abbildungen können leichte Abweichungen zu dem gelieferten Artikel aufweisen
+- Sanfte Formel – Dermatologisch getestet* und ECARF-zertifiziert** eignet sich die Formel auch als Baby Waschmittel und schützt sowohl Fasern als auch die sensible Haut und respektiert das Mikrobiom der Haut.
+- Naturbasierte Inhaltsstoffe – Die Inhaltsstoffe machen das Vollwaschmittel besonders hautfreundlich und sind ohne aggressive Chemikalien.
 - Für sensible Haut – Das Sensitive Waschmittel vereint beste Persil Reinheit und beste Hautverträglichkeit für Allergiker und Babys dank seiner schonenden Formel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07Q18LPZ7/?tag=tolees0ca-21)

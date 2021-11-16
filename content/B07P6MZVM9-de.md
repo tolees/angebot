@@ -29,9 +29,9 @@ Sie können [MEGA Construx GKG96 - weiße Wanderer Schlacht  für Sammler und Sp
 ℹ️:
 
 - Die Figur von Jon Schnee ist mit dem nördlichen Outfit von Staffel 7 ausgestattet
-- Sammeln und mit anderen Bausets von Mega Construx verbinden
-- Set und Figuren mit authentischen Waffen und Zubehörteilen
-- Aufbaubare Felsformation, die die Erzfeinde von ihrem Schicksal trennt
 - 3 detailreiche, superbewegliche Mini-Actionfiguren (ca. 6,5 cm): Jon Schnee, Nachtkönig und Wiedergänger
+- Aufbaubare Felsformation, die die Erzfeinde von ihrem Schicksal trennt
+- Set und Figuren mit authentischen Waffen und Zubehörteilen
+- Sammeln und mit anderen Bausets von Mega Construx verbinden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07P6MZVM9/?tag=tolees0ca-21)

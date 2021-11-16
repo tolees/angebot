@@ -28,10 +28,10 @@ Sie können [Philips Avent Audio Babyphone SCD723/26 - DECT-Technologie  Kristal
 
 ℹ️:
 
-- Gegensprechfunktion, Schlaflieder, Nachtlicht und Nachtruhe-Modus
 - Energiesparende und Transmission reduzierende Verbindung mit dem Smart Eco-Mode
 - Eine sichere und private Verbindung dank DECT-Technologie
 - Hohe Reichweite bis zu 330m im Außen- und bis zu 50m im Innenbereich (Die Reichweite kann aufgrund baulicher Beschaffenheit und externen Faktoren variieren)
+- Gegensprechfunktion, Schlaflieder, Nachtlicht und Nachtruhe-Modus
 - Langanhaltende Betriebszeit - bis zu 18 Stunden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07F7TZD5D/?tag=tolees0ca-21)

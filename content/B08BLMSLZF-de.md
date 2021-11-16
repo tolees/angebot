@@ -28,9 +28,9 @@ Es gibt ein [Geox Baby-Jungen B Kilwi Boy C Sneaker  Navy/ROYAL  23 EU](https://
 
 ℹ️:
 
-- Obermaterial: Canvas
-- Innenmaterial: Canvas
 - Sohle: Gummi
+- Innenmaterial: Canvas
 - Verschluss: Gurt
+- Obermaterial: Canvas
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08BLMSLZF/?tag=tolees0ca-21)

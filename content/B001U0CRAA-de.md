@@ -28,8 +28,8 @@ Es gibt ein [Lancome - Douceur Eau Micellaire 200 Ml](https://www.amazon.de/dp/B
 
 ℹ️:
 
-- <b>Produktgruppe: </b>Parfümerie
-- <b>Designer - Hersteller: </b>Lancome
 - <b>Geschlecht: </b>für Sie / for Her / pour Femme
+- <b>Designer - Hersteller: </b>Lancome
+- <b>Produktgruppe: </b>Parfümerie
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B001U0CRAA/?tag=tolees0ca-21)

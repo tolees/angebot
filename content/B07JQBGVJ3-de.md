@@ -29,7 +29,7 @@ Sie können [JACK & JONES Herren Jjiglenn Jjoriginal Am 816 Noos Jeans  Black De
 ℹ️:
 
 - Slim Thigh
-- Low Rise
 - Slim Knee
+- Low Rise
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JQBGVJ3/?tag=tolees0ca-21)

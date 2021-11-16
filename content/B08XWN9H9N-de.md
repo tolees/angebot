@@ -28,10 +28,10 @@ Sie können [Bosch Professional Bohrhammer GBH 2-21  mit SDS plus  inkl. Zusatzh
 
 ℹ️:
 
-- Vielseitiger Einsatz: Drei Betriebsarten für Hammerbohren, Bohren und Meißeln sorgen für überzeugende Ergebnisse
 - Leistungsstarker 720-W-Motor und 2,0 J Schlagenergie für effektives Hammerbohren in Beton (bis zu 21 mm Durchmesser)
+- Kompakter Bohrhammer bietet professionelle Bosch-Hammerbohrleistung bei einem gleichzeitig geringen Gewicht von nur 2,3 Kg
+- Vielseitiger Einsatz: Drei Betriebsarten für Hammerbohren, Bohren und Meißeln sorgen für überzeugende Ergebnisse
 - Kompatibilität: Der GBH 2-21 kann mit den folgenden Staubabsaugungssystemen kombiniert werden: GDE 16 plus, GDE 68, und GDE 162
 - Lieferumfang: GBH 2-21, Zusatzhandgriff, Maschinentuch, Tiefenanschlag, Handwerkerkoffer
-- Kompakter Bohrhammer bietet professionelle Bosch-Hammerbohrleistung bei einem gleichzeitig geringen Gewicht von nur 2,3 Kg
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08XWN9H9N/?tag=tolees0ca-21)

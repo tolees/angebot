@@ -28,10 +28,10 @@ Sie können [Lavazza Kaffeebohnen - Caffè Crema Classico - 6er Pack  1 x 6 kg ]
 
 ℹ️:
 
-- Aussehen:Goldene Crema und eine warme Farbe, Aroma: Noten von Trockenfrüchten, Geschmack: Delikat
 - Damit schafft man ein reiches Trockenfrucht-Aroma, einen runden Körper und einen milden Geschmack.
-- 6er Pack, 1 kg
 - Arabica und Robusta
+- Aussehen:Goldene Crema und eine warme Farbe, Aroma: Noten von Trockenfrüchten, Geschmack: Delikat
 - Neue Verpackung, gleicher Ihhalt. Neue Verpackung, gleicher Ihhalt. Lavazza seit über einem Jahrhundert einhingebungsvolles und leidenschaftliches Unternehmen, wählt würzige Arabica und kräftige Robusta Bohnen für diese kostbare Mischung.
+- 6er Pack, 1 kg
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DM2R1DF/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Sie können [Bosch Smart Home Zwischenstecker mit App-Funktion  Variante für De
 
 ℹ️:
 
-- Ermöglicht das individuelle Einstellen von Betriebszeiten durch die Zeitschaltuhr Funktion in der App
-- Die Smarte Steckdose zur Integration aller nicht smarten Geräte bis zu 3680W in das Bosch Smart Home System
-- Vernetzt Ihre Elektrogeräte über den Bosch Smart Home Controller mit dem Bosch Smart Home System
-- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
 - Kompatibel mit Google Assistant, Amazon Alexa und Apple Homekit
+- Die Smarte Steckdose zur Integration aller nicht smarten Geräte bis zu 3680W in das Bosch Smart Home System
+- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
+- Ermöglicht das individuelle Einstellen von Betriebszeiten durch die Zeitschaltuhr Funktion in der App
+- Vernetzt Ihre Elektrogeräte über den Bosch Smart Home Controller mit dem Bosch Smart Home System
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MTSTDDN/?tag=tolees0ca-21)
