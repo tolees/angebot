@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures - Monster Hunter [Blu mit 16.06 % Rabatt'
-date: 2021-11-14 20:20:42
+date: 2021-11-16 04:30:16
 image: 'https://m.media-amazon.com/images/I/51iZrh2uAYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.de/dp/B098GYT4D7/?tag=tolees0ca-21'
 descuento: '16.06'
-average: '16.0842857142858'
+average: '16.0746666666667'
 ---
 
 Sie können [Universal Pictures - Monster Hunter [Blu-ray 2D und 3D]](https://www.amazon.de/dp/B098GYT4D7/?tag=tolees0ca-21) mit Preis 15.94 EUR (original: 18.99 EUR) 16.06 % Rabatt hier:
