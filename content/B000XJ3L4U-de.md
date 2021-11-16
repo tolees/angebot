@@ -29,8 +29,8 @@ Es gibt ein [Bosch Professional Accessories - Bosch Professional Zubehör 2 608 
 ℹ️:
 
 - Geeignet für weiche und harte Massivhölzer
-- Zur Herstellung von Scharnierverbindungen mit Hohlkehlprofilen
 - Maße: 8x12x40mm
 - Dekorativen Ziernuten, Saftrinnen und Strukturierung von Oberflächen
+- Zur Herstellung von Scharnierverbindungen mit Hohlkehlprofilen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000XJ3L4U/?tag=tolees0ca-21)

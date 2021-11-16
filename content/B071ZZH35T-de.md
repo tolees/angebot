@@ -29,8 +29,8 @@ Sie können [Panama Jack Herren Glasgow GTX Stiefelette  Braun  45 EU](https://w
 ℹ️:
 
 - Principal Material: Nappa, Lining Material: Gore-Tex Sole Material: TR InnerSole RemovableInsert: Yes
-- Panama Jack Men, Marron / Brown Wüste Boots
 - Made in Spain
+- Panama Jack Men, Marron / Brown Wüste Boots
 - Waterproof
 - HeelHeight: 2, 00 cm
 

@@ -28,10 +28,10 @@ Es gibt ein [Vallejo 30 ml Pigmentbinder](https://www.amazon.de/dp/B004GI1YW0/?t
 
 ℹ️:
 
-- Nicht entflammbar.
 - Ungiftig.
-- Entworfen für das Erstellen von Dioramen.
-- 30 ml Flasche.
 - Acrylfarben auf Wasserbasis.
+- 30 ml Flasche.
+- Nicht entflammbar.
+- Entworfen für das Erstellen von Dioramen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004GI1YW0/?tag=tolees0ca-21)

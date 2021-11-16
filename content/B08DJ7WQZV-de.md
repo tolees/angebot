@@ -28,7 +28,7 @@ Sie können [camel active Herren 4975105U75 Bermudas  ORANGE  32I](https://www.a
 
 ℹ️:
 
-- Packung Weight: 1.56 kg
 - Packung die Größe: 10.0 L x 27.0 H x 12.0 W (cm)
+- Packung Weight: 1.56 kg
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08DJ7WQZV/?tag=tolees0ca-21)
