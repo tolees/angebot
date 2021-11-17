@@ -28,10 +28,10 @@ Sie können [Mattel Games FWK72 - Escape Room In A Box Das Werwolf-Experiment  f
 
 ℹ️:
 
-- ​Spannendes Teamspiel – alle Teilnehmer verbindet ein Ziel: die Flucht
 - Mit unterschiedlichen Rätseln und drei Schlössern. Los geht’s
 - ​Zu lösen sind Denksport- und Geschicklichkeitsaufgaben, bevor die verrückte Wissenschaftlerin alle Spieler in Werwölfe verwandelt. Dafür haben sie allerdings nur eine Stunde Zeit
 - Strategiespiele ab 13 Jahren
+- ​Spannendes Teamspiel – alle Teilnehmer verbindet ein Ziel: die Flucht
 - Ein aufregendes Spiel, bei dem die Spieler in eine spannende Welt eintauchen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07DY1SJVJ/?tag=tolees0ca-21)
