@@ -28,11 +28,11 @@ Es gibt ein [Kyocera 1203RA0UN0 PF1100 Papierzuführung für 250 Blatt A4](https
 
 ℹ️:
 
-- Packungage Weight: 4.3 kg
-- Formate: A4, A5
 - Geeignet für: ECOSYS M2135dn, M2635dn, M2735dw, M2040dn, M2540dn, M2640idw
+- Formate: A4, A5
+- Packungage Weight: 4.3 kg
+- Farbe: Weiß
 - Aufnahmekapazität: 250 Blatt
 - Kyocera 1203RA0UN0 PF1100 Papierzuführung für 250 Blatt A4
-- Farbe: Weiß
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01N0BUS0U/?tag=tolees0ca-21)

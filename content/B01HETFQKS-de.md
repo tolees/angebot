@@ -28,10 +28,10 @@ Sie können [Bose SoundLink Color Bluetooth speaker II - Tragbaren Bluetooth-Lau
 
 ℹ️:
 
+- Bose Technologien sorgen für Spitzenklang durch einen kompakten, wasserabweisenden Lautsprecher.
 - Dank der Schutzoberfläche aus angenehm griffigem Silikon und des robusten Designs jederzeit einsatzbereit
 - Die Bedienung ist ganz leicht - dank unterstützender Sprachansagen für das Koppeln per Bluetooth und mühelosem Verbinden mit NFC-fähigen Geräten
-- Bose Technologien sorgen für Spitzenklang durch einen kompakten, wasserabweisenden Lautsprecher.
-- Der Lithium-Ionen-Akku ermöglicht eine Wiedergabedauer von bis zu acht Stunden und wird per USB-Anschluss aufgeladen
 - Integriertes Mikrofon für Freisprechfunktion oder Zugang zu digitalen Assistenten wie Siri oder Google Now
+- Der Lithium-Ionen-Akku ermöglicht eine Wiedergabedauer von bis zu acht Stunden und wird per USB-Anschluss aufgeladen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01HETFQKS/?tag=tolees0ca-21)
