@@ -28,9 +28,9 @@ Es gibt ein [The Last of Us Part II - Standard Edition [PlayStation 4]  Uncut ](
 
 ℹ️:
 
-- Eine intensive, von starken Charakteren getragene Geschichte, durch das Erfolgsstudio Naughty Dog perfekt inszeniert
 - Dank modernster Motion-Capturing werden die Emotionen noch realistischer transportiert
 - Unberechenbare Begegnungen mit Feinden durch das erstklassige KI-System
 - Langerwartete Fortsetzung von "The Last of Us" kommt endlich auf PS4
+- Eine intensive, von starken Charakteren getragene Geschichte, durch das Erfolgsstudio Naughty Dog perfekt inszeniert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01MTX8L70/?tag=tolees0ca-21)
