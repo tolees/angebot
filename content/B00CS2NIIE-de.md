@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden - Bosch Akku Klebepistole PKP 3 6 LI  Micro-U
 
 ℹ️:
 
-- Lieferumfang: PKP 3,6 LI, Micro-USB Ladegerät, 4x Klebestifte, Karton (3165140696715)
-- Akku-Klebepistole PKP 3,6 LI - sauberes und tropfarmes Arbeiten
 - Für kreative Bastel- und Dekoarbeiten oder kleinere Reparaturen im Haushalt geeignet
-- In nur 15 Sekunden ist das Gerät auf Betriebstemperatur aufgeheizt
 - Weniger Tropfen und Kleberrückstände dank automatischem Klebstoff-Rückzugmechanismus
+- Lieferumfang: PKP 3,6 LI, Micro-USB Ladegerät, 4x Klebestifte, Karton (3165140696715)
+- In nur 15 Sekunden ist das Gerät auf Betriebstemperatur aufgeheizt
+- Akku-Klebepistole PKP 3,6 LI - sauberes und tropfarmes Arbeiten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00CS2NIIE/?tag=tolees0ca-21)

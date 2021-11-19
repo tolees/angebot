@@ -30,12 +30,12 @@ Es gibt ein [LEGO 42121 Technic Hydraulikbagger Bauset  2-in-1 Modell  Baufahrze
 
 - Wenn Kinder dann für eine neue Herausforderung bereit sind, können sie das 2-in-1-Modell in einen Raupentraktor mit Heckbagger umbauen
 - Der Bagger ist mit aufgestelltem Arm 23 cm hoch und mit voll ausgefahrenem Arm 37 cm lang und 11 cm breit
-- Kinder können die authentische Kabine und das Steuerpult erkunden, um den Alltag auf einer Baustelle mit diesem coolen Bagger nachzustellen
 - Das LEGO Technic Universum verschafft jungen LEGO Fans, die schon ihrer nächsten Bauherausforderung entgegenfiebern, Zugang zur Welt der Technik
-- LEGO Elemente entsprechen bereits seit 1958 strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets zuverlässig zusammenstecken lassen
 - Dieser coole Bagger ist das ideale Geschenk für Jungen und Mädchen ab 8 Jahren, die Baumaschinen lieben
+- LEGO Elemente entsprechen bereits seit 1958 strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets zuverlässig zusammenstecken lassen
 - Zahlreiche realistische Funktionen zeigen Kindern, wie Baumaschinen tatsächlich funktionieren. Die Schaufel und der Arm bewegen sich und die Ketten laufen. Genau wie bei einem echten Bagger
 - Das LEGO Technic 2-in-1-Spielset „Hydraulikbagger“ (42121) ist ein fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk. Junge Baumaschinenfans werden das Modell gerne bauen und alle Details erkunden
+- Kinder können die authentische Kabine und das Steuerpult erkunden, um den Alltag auf einer Baustelle mit diesem coolen Bagger nachzustellen
 - LEGO Elemente werden Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit sie strikten globalen Sicherheitsstandards entsprechen
 - Dieses coole Set inspiriert zu Rollenspielen. 4 Leitkegel markieren die Fahrspuren auf der Baustelle. Zusätzliche LEGO Teile dienen als Aushub für den Bagger
 

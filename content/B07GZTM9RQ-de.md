@@ -31,7 +31,7 @@ Sie können [HP Tango X Smart Home Drucker  HP Instant Ink  WLAN  Bluetooth  int
 - Smarter leben: mitten im Wohnzimmer aufstellen, ohne ihn verstecken zu müssen – dank minimalistischem Design
 - Druckgeschwindigkeit: bis zu 11 S./Min (schwarz/weiß), bis zu 8 S./Min (Farbe); Druckqualität: bis zu 1200 x 1200 dpi, Anschlüsse: WLAN, Wireless Direct, Bleutooth, mobiles Drucken
 - Smarter sparen: Fotos direkt vom Smartphone drucken – kostenlos mit HP Instant Ink. Weitere Informationen in der Produktbeschreibung.
-- Smarter bedienen: einfach HP Smart App installieren und alle Funktionen des All-in-One-Druckers genießen – mit dem Smartphone
 - Lieferumfang: HP Tango X Drucker (3DP65B); HP 303 Schwarz, HP 303 Farbe; Setup Handbuch, Netzkabel
+- Smarter bedienen: einfach HP Smart App installieren und alle Funktionen des All-in-One-Druckers genießen – mit dem Smartphone
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GZTM9RQ/?tag=tolees0ca-21)

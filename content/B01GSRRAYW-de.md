@@ -28,11 +28,11 @@ Sie können [Logitech M170 Kabellose Maus  2.4 GHz Verbindung via Nano-USB-Empf�
 
 ℹ️:
 
-- Komfortabel und Mobil : Das Design ist gleichermaßen für Rechts- und Linkshänder optimiert, zusätzlich lassen sich rechter und linker Mausklick neu zuweisen
 - Handliche Größe : PC-Maus (Höhe x Breite x Tiefe) – 97,7 mm (3,85 in) x 61,5 mm (2,42 in) x 35,2 mm (1,39 in)
-- 16 Monate Batterielebensdauer : Bei Nichtbenutzung kann die Maus über den Ein-/Ausschalter ausgeschaltet werden, um die Batterie zu schonen und diese Dauer zu verlängern
-- Zuverlässige Wireless 2,4-GHz-Technologie : Leistungsstarke, stabile kabellose Verbindung mit einer Reichweite bis zu 10 Meter
+- Komfortabel und Mobil : Das Design ist gleichermaßen für Rechts- und Linkshänder optimiert, zusätzlich lassen sich rechter und linker Mausklick neu zuweisen
 - Plug und Play Verbindung : Den Logitech-Empfänger in einen USB-Anschluss Ihres Windows-Computers oder Mac stecken und loslegen
+- Zuverlässige Wireless 2,4-GHz-Technologie : Leistungsstarke, stabile kabellose Verbindung mit einer Reichweite bis zu 10 Meter
 - Wir empfehlen auch : Unsere Logitech M220 Silent Mouse für mehr Komfort - konturierte Form, leise Klicks und längere Batterielaufzeit (18 Monate)
+- 16 Monate Batterielebensdauer : Bei Nichtbenutzung kann die Maus über den Ein-/Ausschalter ausgeschaltet werden, um die Batterie zu schonen und diese Dauer zu verlängern
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01GSRRAYW/?tag=tolees0ca-21)

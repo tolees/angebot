@@ -28,9 +28,9 @@ Sie können [Bosch Home and Garden - Bosch Inspektionskamera UniversalInspect  K
 
 ℹ️:
 
-- 2, 31" Farbdisplay mit hoher 320 x 240 Pixel Bildschirmauflösung, Schwarzweißkontrast, 3-stufiger Beleuchtung und 3-stufiger Zoom-Funktion
 - Verfügt über ein festes Kamerakabel mit 0, 95 m Länge, welches um die Kamera gewickelt werden kann und IP 67 am Kamerakopf und Kabel
 - Kompakte Inspektionskamera mit hochwertiger Bildaufnahme
+- 2, 31" Farbdisplay mit hoher 320 x 240 Pixel Bildschirmauflösung, Schwarzweißkontrast, 3-stufiger Beleuchtung und 3-stufiger Zoom-Funktion
 - Lieferumfang: UniversalInspect, 4 x 1, 5 V Batterien, 1 Haken, 1 Spiegel, 1 Magnet, 2 Bügel, Softtasche, Karton
 - Die Universal Werkzeuge von Bosch – flexibel mit intelligenten Lösungen für vielfältige Einsatzmöglichkeiten
 

@@ -28,10 +28,10 @@ Es gibt ein [Bosch Home and Garden - Bosch Rasenmäher AdvancedRotak 650  1700 W
 
 ℹ️:
 
-- Bequemes und rückenschonendes Mähen: Die höhenverstellbaren ErgoSlide-Griffe ermöglichen eine gesunde Arbeitshaltung für jede Körpergröße
 - Die Advanced Gartengeräte von Bosch – die leistungsstärksten Produkte für anspruchsvollste Aufgaben
+- Sammeln und Zerkleinern von Blättern: Mit dem LeafCollect Blade können Blätter leicht gesammelt, zerkleinert und entsorgt werden
+- Bequemes und rückenschonendes Mähen: Die höhenverstellbaren ErgoSlide-Griffe ermöglichen eine gesunde Arbeitshaltung für jede Körpergröße
 - Leises Mähen: Angenehme Gartenarbeit mit dem elektrischen Rasenmäher durch bis zu 75 Prozent weniger Lärm und ausgewogener Akustik dank ProSilence-Technologie
 - Einfaches Einstellen der Schnitthöhe: Graslängen zwischen 25 und 80 mm in 7 Stufen mit nur einem Knopfdruck festlegen
-- Sammeln und Zerkleinern von Blättern: Mit dem LeafCollect Blade können Blätter leicht gesammelt, zerkleinert und entsorgt werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B082VMTCQF/?tag=tolees0ca-21)
