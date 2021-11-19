@@ -29,9 +29,9 @@ Es gibt ein [PLAYMOBIL Back to the Future 70634 Part II Verfolgung mit Hoverboar
 ℹ️:
 
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Auf Zeitreise: PLAYMOBIL Back to the Future Part II Verfolgung mit Hoverboard mit Marty McFly, Dr. Emmett Brown, Griff Tannen und Polizistin aus der Hoverboard-Szene
 - Lieferumfang: 1x PLAYMOBIL Back to the Future Part II Verfolgung mit Hoverboard, 80-teiliges Spielfiguren-Set mit Anleitung: 1 Bodenplatte, 4 Figuren, 1 Motorrad, 74 Zubehörteile, Material: Kunststoff, LxTxH Bodenplatte: ca. 22,5x26x19,5 cm, Gewicht: 320 g, 70634
-- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - 1 Platte mit Wasserfläche, Weg, Laterne als Kulisse, 2 Boards mit Fußklemmung, 2 transparente Sockel, 1 Postkarte, 2 Ergänzungsteile für 70317 DeLorean
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08PPQ5KJ8/?tag=tolees0ca-21)

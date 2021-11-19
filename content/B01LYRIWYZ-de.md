@@ -28,10 +28,10 @@ Sie können [Playmobil Ghostbusters 9221 Stay Puft Marshmallow Man  Ab 6 Jahren 
 
 ℹ️:
 
-- Marshmallow Man mit beweglichen Armen und drehbaren Handgelenken zum Greifen von PLAYMOBIL-Zubehör, 1 Geisterjäger mit Protonenpack & Protonenstrahler
-- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Lieferumfang: 1x PLAYMOBIL Ghostbusters Stay Puft Marshmallow Man, 9-teiliges Spielfiguren-Set mit Anleitung: 1 Marshmallow Man, 1 Figur, 7 Zubehörteile, Material: Kunststoff, LxBxH: 16x8,5x19 cm, Art.-Nr. 9221
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Spielspaß für kleine Geisterjäger: PLAYMOBIL Stay Puft Marshmallow Man & Ghostbusters-Held Ray Stantz mit Ecto-Goggles für detailgetreues Nachspielen
+- Marshmallow Man mit beweglichen Armen und drehbaren Handgelenken zum Greifen von PLAYMOBIL-Zubehör, 1 Geisterjäger mit Protonenpack & Protonenstrahler
+- Lieferumfang: 1x PLAYMOBIL Ghostbusters Stay Puft Marshmallow Man, 9-teiliges Spielfiguren-Set mit Anleitung: 1 Marshmallow Man, 1 Figur, 7 Zubehörteile, Material: Kunststoff, LxBxH: 16x8,5x19 cm, Art.-Nr. 9221
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LYRIWYZ/?tag=tolees0ca-21)

@@ -28,11 +28,11 @@ Sie können [Playmobil Ghostbusters 9219 Feuerwache  Ab 6 Jahren [Exklusiv bei A
 
 ℹ️:
 
-- Spielspaß für kleine Geisterjäger: PLAYMOBIL Ghostbusters Feuerwache mit vielen Figuren, Zubehörteilen und Funktionen für detailgetreues Nachspielen
 - Lieferumfang: 1x PLAYMOBIL Ghostbusters Feuerwache, 228-teiliges Spielfiguren-Set mit Anleitung: 1 Ghostbusters Feuerwache, 5 Figuren, 222 Zubehörteile, Material: Kunststoff, LxBxH: 45x27,5x45,5 cm, Art.-Nr. 9219
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
-- Warnhinweis: Nicht geeignet für Kinder unter 3 Jahren, wegen Erstickungsgefahr durch Kleinteile.
 - Aufklappbare Geisterfalle, abnehmbares Protonenpack, Rutschstange uvm., Zahlreiche Räume wie Labor, Büro & Garage für den Einsatzwagen Ecto-1 (9220)
+- Warnhinweis: Nicht geeignet für Kinder unter 3 Jahren, wegen Erstickungsgefahr durch Kleinteile.
 - Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Spielspaß für kleine Geisterjäger: PLAYMOBIL Ghostbusters Feuerwache mit vielen Figuren, Zubehörteilen und Funktionen für detailgetreues Nachspielen
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01LYRGY7M/?tag=tolees0ca-21)

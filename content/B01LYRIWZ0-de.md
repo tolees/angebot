@@ -28,10 +28,10 @@ Es gibt ein [Playmobil Ghostbusters 9220 Ecto-1 mit Licht- und Soundeffekten  Ab
 
 ℹ️:
 
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Lieferumfang: 1x PLAYMOBIL Ghostbusters Ecto-1, 79-teiliges Spielfiguren-Set mit Anleitung: 1 Ghostbusters Ecto-1, 2 Figuren, 76 Zubehörteile (wird ohne 3 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 33x12,5x13 cm, Art.-Nr. 9220
 - Abnehmbares Dach, Aufklappbarer Kofferraum, 2 Figuren, 4 Halterungen für Ausrüstung, Geisterfalle uvm., Ergänzend zur Ghostbusters Feuerwache (9219)
-- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Spielspaß für kleine Geisterjäger: PLAYMOBIL Ghostbusters Ecto-1 mit coolen Licht- und Soundeffekten für 4 Geisterjäger-Figuren und ihre Ausrüstung
+- Spielfiguren-Set für Kinder ab 6 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01LYRIWZ0/?tag=tolees0ca-21)
