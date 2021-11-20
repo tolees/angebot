@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'The Witcher 3: Wild Hunt - Game of the Y mit 33.70 % Rabatt'
-date: 2020-04-15 15:46:51
-image: 'https://m.media-amazon.com/images/I/51HF1pbxWiL._SL400_.jpg'
+title: 'BANDAI NAMCO Entertainment Germany - The mit 62.52 % Rabatt'
+date: 2021-11-20 16:48:00
+image: 'https://m.media-amazon.com/images/I/51HF1pbxWiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B010V93XVC-de The Witcher 3: Wild Hunt - Game of the Year Edition -...'
+slug: 'B010V93XVC-de BANDAI NAMCO Entertainment Germany - The Witcher 3: Wild...'
 sku: 'B010V93XVC-de'
-tags: [  ]
-actualPrice: 18.49 EUR
+tags: [ 'Games','Spiele für Xbox One','Xbox One','bandai namco entertainment germany', ]
+actualPrice: 14.99 EUR
 currency: EUR
-price: 18.49
-comparePrice: 27.89 EUR
-prodname: 'The Witcher 3: Wild Hunt - Game of the Year Edition - [Xbox One]'
+price: 14.99
+comparePrice: 39.99 EUR
+prodname: 'BANDAI NAMCO Entertainment Germany - The Witcher 3: Wild Hunt Game of the Year Edition - [Xbox One]'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'BANDAI NAMCO Entertainment Germany'
 buyurl: 'https://www.amazon.de/dp/B010V93XVC/?tag=tolees0ca-21'
-descuento: '33.70'
-average: '18.49'
+descuento: '62.52'
+average: '17.615'
 ---
 
-Sie können [The Witcher 3: Wild Hunt - Game of the Year Edition - [Xbox One]](https://www.amazon.de/dp/B010V93XVC/?tag=tolees0ca-21) mit Preis 18.49 EUR (original: 27.89 EUR) 33.70 % Rabatt hier:
+Sie können [BANDAI NAMCO Entertainment Germany - The Witcher 3: Wild Hunt Game of the Year Edition - [Xbox One]](https://www.amazon.de/dp/B010V93XVC/?tag=tolees0ca-21) mit Preis 14.99 EUR (original: 39.99 EUR) 62.52 % Rabatt hier:
 
-[![The Witcher 3: Wild Hunt - Game of the Y](https://m.media-amazon.com/images/I/51HF1pbxWiL._SL400_.jpg)](https://www.amazon.de/dp/B010V93XVC/?tag=tolees0ca-21)
+[![BANDAI NAMCO Entertainment Germany - The](https://m.media-amazon.com/images/I/51HF1pbxWiL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B010V93XVC/?tag=tolees0ca-21)
 
 ℹ️:
 
