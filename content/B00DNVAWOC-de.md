@@ -29,7 +29,7 @@ Es gibt ein [Playtex Damen  Taillenslip  Cherish High Leg Brief 3 Pack  Weiß  B
 ℹ️:
 
 - Model: Cherish High Leg Brief 3 Pack
-- Collection: Frühjahr-Sommer 17
 - Casual
+- Collection: Frühjahr-Sommer 17
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DNVAWOC/?tag=tolees0ca-21)

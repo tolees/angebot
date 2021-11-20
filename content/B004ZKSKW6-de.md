@@ -28,9 +28,9 @@ Es gibt ein [Pepe Jeans Damen Jeans Venus  Schwarz  Black 999-T41   28W/32L](htt
 
 ℹ️:
 
+- Hoher Bund
+- 98 Prozent Baumwolle, 2 Prozent Elasthan
 - No Changes made
 - Verschluss: Reißverschluss
-- 98 Prozent Baumwolle, 2 Prozent Elasthan
-- Hoher Bund
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004ZKSKW6/?tag=tolees0ca-21)

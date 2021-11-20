@@ -28,10 +28,10 @@ Es gibt ein [LEGO 41394 Friends Krankenhaus von Heartlake City  Spielzeug ab 6 J
 
 ℹ️:
 
-- Enthält Mini Puppen Emma, ​​Ethan und Dr. Maria, sowie einen baubaren Röntgenscanner, ein Mikroskop, Bandagen, ein Stethoskop, eine Spritze und ein Thermometer
-- Enthält auch Schokolade, Ballon und Banane. Oh je! Ethan ist gerade auf der Bananenschale ausgerutscht! Er hat sich das Bein gebrochen und muss ins Krankenhaus gebracht werden!
-- Mit diesem Spielzeug ab 6 Jahren können Kinder in die Rolle von Ärztin, Patientin oder Besucherin Emma schlüpfen und die Empathie entwickeln, indem sie reale Szenen nachspielen.
 - Umfasst ein 3-stöckiges Gebäude mit offenem Zugang und 3 Spielbereichen: eine Rezeption, einen Untersuchungsraum, ein Krankenzimmer mit Bett und einen Dachgarten
+- Enthält Mini Puppen Emma, ​​Ethan und Dr. Maria, sowie einen baubaren Röntgenscanner, ein Mikroskop, Bandagen, ein Stethoskop, eine Spritze und ein Thermometer
+- Mit diesem Spielzeug ab 6 Jahren können Kinder in die Rolle von Ärztin, Patientin oder Besucherin Emma schlüpfen und die Empathie entwickeln, indem sie reale Szenen nachspielen.
 - Das Spielset enthält einen Spielzeug Krankenwagen mit Platz für einen Patienten, einen Rollstuhl für Mini Puppen und medizinisches Zubehör
+- Enthält auch Schokolade, Ballon und Banane. Oh je! Ethan ist gerade auf der Bananenschale ausgerutscht! Er hat sich das Bein gebrochen und muss ins Krankenhaus gebracht werden!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07W8XYTQ8/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [Lacoste Damen Analog Quarz Armbanduhr mit Lederarmband 2000821](htt
 
 ℹ️:
 
+- Wasserabweisend bis 3 bar Wasserspritzer oder Regen richten keine Schäden an, solange das Gehäuse, die Krone und das Glas intakt bleiben
 - Weisses Lederarmband
-- Durchmesser des Gehäuses: 40 mm
 - Quarz-Uhrwerk mit drei Zeigern
 - Weisses Zifferblatt verziert mit dem legendären Lacoste Krokodillogo und Kristallen
-- Wasserabweisend bis 3 bar Wasserspritzer oder Regen richten keine Schäden an, solange das Gehäuse, die Krone und das Glas intakt bleiben
+- Durchmesser des Gehäuses: 40 mm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00ENWRPS6/?tag=tolees0ca-21)

@@ -29,9 +29,9 @@ Es gibt ein [Amazon Basics Zirkularer Polarisationsfilter - 67mm](https://www.am
 ℹ️:
 
 - Durchmesser: 67mm
-- Mehrfach-Beschichtung mindert Reflexionen
 - Verstärkt die Intensität von Himmelsblau; mindert Blendungen
 - Perfekt für die Outdoor-Fotografie; für Kameras mit und ohne Autofokus geeignet
 - Zirkulare Polarisationsfilter gehören zu den beliebtesten Effektfiltern
+- Mehrfach-Beschichtung mindert Reflexionen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00XNMY8BY/?tag=tolees0ca-21)
