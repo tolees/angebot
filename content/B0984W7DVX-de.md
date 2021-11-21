@@ -28,13 +28,13 @@ Sie können [LEGO 31119 Creator Riesenrad Konstruktionsspielzeug  Freizeitpark  
 
 ℹ️:
 
-- Dieser LEGO Freizeitpark ist ein 3in1-Modell mit einem Riesenrad, das sich nach und nach in einen Autoscooter oder eine Schiffschaukel umbauen lässt
-- Die Schiffschaukel wird mit einem Krallen- und einem Kaugummiautomaten geliefert, um mit diesem spektakulären LEGO Set den ultimativen Ausflug in den Freizeitpark zu erleben
-- Optimierte Versandverpackung. Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
 - Diese große LEGO-Set mit unglaublichen 1002 Teilen ist das ideale Spielzeug für Jungen und Mädchen ab 9 Jahre und kann auch in der Gruppe gespielt werden
 - Das große, sich drehende Riesenrad hat 8 Gondeln für die Minifiguren, einen Fahrkartenschalter, einen Ballonwagen mit Ballontieren und eine Hunde-Figur
+- Dieser LEGO Freizeitpark ist ein 3in1-Modell mit einem Riesenrad, das sich nach und nach in einen Autoscooter oder eine Schiffschaukel umbauen lässt
 - Das Konstruktionsspielzeug lässt sich mit weiteren tollen neuen LEGO Creator Sets erweitern, darunter Raketen Abenteuer (31117) und Mittelalterliches Schloss (31120)
-- In diesem Set sind folgende Figuren enthalten: Mama, Papa, Kind und 2 Schausteller, um den Kindern einen aufregenden Tag auf dem Spielplatz zu ermöglichen
+- Optimierte Versandverpackung. Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
+- Die Schiffschaukel wird mit einem Krallen- und einem Kaugummiautomaten geliefert, um mit diesem spektakulären LEGO Set den ultimativen Ausflug in den Freizeitpark zu erleben
 - Das Autoscooter-Fahrgeschäft verfügt über 3 Wagen und einen Fahrkartenschalter mit Ansagemikrofon, um in dem LEGO Freizeitpark um die Wette zu fahren
+- In diesem Set sind folgende Figuren enthalten: Mama, Papa, Kind und 2 Schausteller, um den Kindern einen aufregenden Tag auf dem Spielplatz zu ermöglichen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0984W7DVX/?tag=tolees0ca-21)
