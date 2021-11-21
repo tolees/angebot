@@ -28,9 +28,9 @@ Es gibt ein [CI Games - Sniper Ghost Warrior Contracts [Xbox One]](https://www.a
 
 ℹ️:
 
-- Hoher Wiederspielwert durch Verträge mit offenem Ende
-- Moderne Kampfszenarios, detailreiche Waffen & Gadgets
 - Realistisches & intensives Sniper-Gameplay
+- Hoher Wiederspielwert durch Verträge mit offenem Ende
 - Cinematic Gameplay
+- Moderne Kampfszenarios, detailreiche Waffen & Gadgets
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07SRF26JZ/?tag=tolees0ca-21)

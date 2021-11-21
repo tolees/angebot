@@ -28,8 +28,8 @@ Es gibt ein [Calvin Klein Damen Slip CAROUSEL - BIKINI  Gr. 38  Herstellergröß
 
 ℹ️:
 
-- 90% Baumwolle, 10% Elasthan
 - Maschinenwaschbar bei 30 °C.
+- 90% Baumwolle, 10% Elasthan
 - Elastische Baumwolle
 - Trocknen mit reduzierter thermischer Beanspruchung
 

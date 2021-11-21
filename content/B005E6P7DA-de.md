@@ -29,7 +29,7 @@ Sie können [Walther design CR050W Holzrahmen Barock  40 x 50 cm weiß](https://
 ℹ️:
 
 - 3.14 kg
-- Tischplatte
 - Anzahl der Stücke: Ein
+- Tischplatte
 
 [🛒 Hier!!](https://www.amazon.de/dp/B005E6P7DA/?tag=tolees0ca-21)

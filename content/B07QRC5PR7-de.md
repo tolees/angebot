@@ -29,7 +29,7 @@ Sie können [Electronic Arts - Star Wars Jedi: Fallen Order - Standard Edition -
 ℹ️:
 
 - Als Spieler müssen sie sich Ihren Gegnern strategisch nähern, ihre Stärken und Schwächen abschätzen und Ihre Jedi-Ausbildung geschickt einsetzen, um sie zu bezwingen und die Geheimnisse zu lüften, auf die sie im Laufe deiner Reise stößt
-- Um den Orden der Jedi wieder aufzubauen, müssen sie an die Fragmente Ihrer Vergangenheit anknüpfen, um Ihre Ausbildung abzuschließen, gewaltige neue Macht-Fähigkeiten zu entwickeln und die Kunst des legendären Lichtschwertes zu meistern – während sie dem Imperium und seinen tödlichen Inquisitoren immer einen Schritt voraus sein müssen
 - Während sie Ihre Fähigkeiten optimierst, erwarten sich filmisch umgesetzte Lichtschwert- und Macht-Kämpfe, deren Intensität den Lichtschwert-Schlachten aus den Star Wars-Filmen entspricht
+- Um den Orden der Jedi wieder aufzubauen, müssen sie an die Fragmente Ihrer Vergangenheit anknüpfen, um Ihre Ausbildung abzuschließen, gewaltige neue Macht-Fähigkeiten zu entwickeln und die Kunst des legendären Lichtschwertes zu meistern – während sie dem Imperium und seinen tödlichen Inquisitoren immer einen Schritt voraus sein müssen
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QRC5PR7/?tag=tolees0ca-21)

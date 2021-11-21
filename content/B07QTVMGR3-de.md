@@ -28,8 +28,8 @@ Sie können [Private Division - The Outer Worlds [PlayStation 4]](https://www.am
 
 ℹ️:
 
-- Herkunftsland:- Vereinigte Staaten
-- Verpackungsabmessungen (L x B x H): 169.0 x 134.0 x 11.0 mm
 - Verpackungsgewicht: 100.0 Gramm
+- Verpackungsabmessungen (L x B x H): 169.0 x 134.0 x 11.0 mm
+- Herkunftsland:- Vereinigte Staaten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QTVMGR3/?tag=tolees0ca-21)
