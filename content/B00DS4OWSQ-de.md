@@ -31,7 +31,7 @@ Es gibt ein [Yankee Candle Duftkerze im Glas  groß  | Snowflake Cookie | Brennd
 - 100% bleifreier Baumwolldocht; gerade gezogen und zentriert für ein gleichmäßiges Abbrennen
 - Brenndauer der Duftkerze: 110 bis 150 Stunden; Gewicht: 623 g
 - Ausgewählte Zutaten und Premiumwachs sorgen für ein angenehmes, dauerhaftes Dufterlebnis in jedem Raum
-- Diese neue Weihnachtstradition wird Sie sicherlich verzaubern - hübsch dekoriertes Weihnachtsgebäck mit rosa Zuckerguss
 - Jede große Kerze befindet sich in einem klassischen Glas mit Deckel, der dafür sorgt, dass der Duft erhalten bleibt
+- Diese neue Weihnachtstradition wird Sie sicherlich verzaubern - hübsch dekoriertes Weihnachtsgebäck mit rosa Zuckerguss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DS4OWSQ/?tag=tolees0ca-21)

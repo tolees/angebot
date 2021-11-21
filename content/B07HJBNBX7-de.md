@@ -28,10 +28,10 @@ Sie können [Rollei Rock Solid Alpha Mark II inkl. Kugelkopf T7S Carbon  profess
 
 ℹ️:
 
-- ✅ [Lieferumfang] Rock Solid Stativ Alpha Mark II, 360° Kugelkopf Rollei T7S, Spikes, Inbusschlüssel, Stativ Teller, Tasche und Anleitung
-- ✅ [360 Grad Kugelkopf] inkl. 360 Grad Kugelkopf mit Friktionseinstellung und Wasserwaage, Acra Swiss kompatibel
-- ✅ [Überall Einsetzbar] Dank der 8-lagigem Carbon Struktur ist der Einsatz im Sand, Salzwasser, bei extremer Hitze oder klirrender Kälte kein Problem
-- ✅ [Flexibel] Ob 20cm oder 165cm durch leichtgängige Beinverschlüsse jederzeit schnell verstellbar
 - ✅ [Hohe Stabilität] 30kg Tragkraft und die enthaltenen Spikes sowie Stativbeinteller ermöglichen einen absolut sicheren Stand auf jeden Untergrund
+- ✅ [Flexibel] Ob 20cm oder 165cm durch leichtgängige Beinverschlüsse jederzeit schnell verstellbar
+- ✅ [Überall Einsetzbar] Dank der 8-lagigem Carbon Struktur ist der Einsatz im Sand, Salzwasser, bei extremer Hitze oder klirrender Kälte kein Problem
+- ✅ [360 Grad Kugelkopf] inkl. 360 Grad Kugelkopf mit Friktionseinstellung und Wasserwaage, Acra Swiss kompatibel
+- ✅ [Lieferumfang] Rock Solid Stativ Alpha Mark II, 360° Kugelkopf Rollei T7S, Spikes, Inbusschlüssel, Stativ Teller, Tasche und Anleitung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07HJBNBX7/?tag=tolees0ca-21)

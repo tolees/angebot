@@ -28,10 +28,10 @@ Sie können [WOFI Pendelleuchte  1-flammig  Serie Vannes  1 x LED  40 W  Breite 
 
 ℹ️:
 
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- Modernes Design
-- Langlebiges Leuchtmittel
-- Dimmer steuerbar
 - Energiesparendes Leuchtmittel
+- Dimmer steuerbar
+- Modernes Design
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
+- Langlebiges Leuchtmittel
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00LUKG1PW/?tag=tolees0ca-21)
