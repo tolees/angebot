@@ -28,10 +28,10 @@ Es gibt ein [Bose Solo 5 TV-Soundsystem  Bluetooth-Soundbar](https://www.amazon.
 
 ℹ️:
 
-- Anschlüsse: 1x digitaler Audioeingang, 1x koaxialer Audioeingang, 1x analoger Audioeingang
-- Einfache Installation mit lediglich einer Verbindung zum TV-Gerät und einer Verbindung zu einer Steckdose.
-- Mehr Sound-Effekte, Musik und Dialoge, klar und naturgetreu, dank patentiertem Digital Signal Processing.
-- Breites, räumliches Klangbild dank Bose Speaker Array Technologie.
 - Der einzelne Lautsprecher passt nahtlos unter Ihren Flachbildfernseher, weiteres Zubehör ist nicht erforderlich.
+- Breites, räumliches Klangbild dank Bose Speaker Array Technologie.
+- Mehr Sound-Effekte, Musik und Dialoge, klar und naturgetreu, dank patentiertem Digital Signal Processing.
+- Einfache Installation mit lediglich einer Verbindung zum TV-Gerät und einer Verbindung zu einer Steckdose.
+- Anschlüsse: 1x digitaler Audioeingang, 1x koaxialer Audioeingang, 1x analoger Audioeingang
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0117RGXC8/?tag=tolees0ca-21)

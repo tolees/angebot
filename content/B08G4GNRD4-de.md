@@ -28,12 +28,12 @@ Es gibt ein [LEGO 75305 Star Wars Scout Trooper Helm Bauset für Erwach
 
 ℹ️:
 
+- Der markante Look eines Scout Trooper Helms wird nach LEGO Art nachgebildet. Eine Halterung mit Namensschild vervollständigt das coole Modell, das Szenen aus der Star Wars Saga in Erinnerung ruft.
 - LEGO Star Wars Sammlersets sind für Erwachsene, die Star Wars lieben und in ihrer Freizeit gerne kreativ sind.
+- Das baubare Modell ist 18 cm hoch, 11 cm breit und 12 cm tief. Mit diesen Abmessungen beansprucht der Helm kaum Platz, sticht aber trotzdem sofort ins Auge.
 - Dieses 471-teilige Set bietet ein anspruchsvolles Bauerlebnis. Der Helm ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für jeden Star Wars Fan oder erwachsenen LEGO Baumeister.
 - Nimm dir eine Auszeit, stell deine Baukünste auf die Probe und erschaffe eine detailgetreue LEGO Nachbildung eines Star Wars Scout Trooper Helms (75305).
-- Kaufst du das imposante Set für einen Star Wars Sammler, der noch keine LEGO Sets hat? Kein Problem. Dank der beiliegenden Schritt-für-Schritt-Anleitung kann sich jeder selbstbewusst ans Werk machen.
-- Das baubare Modell ist 18 cm hoch, 11 cm breit und 12 cm tief. Mit diesen Abmessungen beansprucht der Helm kaum Platz, sticht aber trotzdem sofort ins Auge.
-- Der markante Look eines Scout Trooper Helms wird nach LEGO Art nachgebildet. Eine Halterung mit Namensschild vervollständigt das coole Modell, das Szenen aus der Star Wars Saga in Erinnerung ruft.
 - Das hochwertige Set gehört zu einer Sammlerserie aus LEGO Star Wars Helmen zum Bauen und Ausstellen. Freu dich auch auf den Darth Vader Helm (75304), der ab Mai 2021 erhältlich ist.
+- Kaufst du das imposante Set für einen Star Wars Sammler, der noch keine LEGO Sets hat? Kein Problem. Dank der beiliegenden Schritt-für-Schritt-Anleitung kann sich jeder selbstbewusst ans Werk machen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4GNRD4/?tag=tolees0ca-21)
