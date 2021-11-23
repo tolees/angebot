@@ -28,10 +28,10 @@ Sie können [LEGO 60302 City Wildlife Tierrettungseinsatz Tierarzt Spielzeug ab 
 
 ℹ️:
 
-- Dieses Spielzeug für Jungen und Mädchen enthält viele Tierfiguren, darunter einen Elefanten, ein Kalb, ein Krokodil und 2 Affen-Tierfiguren, sowie 4 Tierrettungs-Minifiguren
-- Das Spielzeug ab 6 Jahren umfasst eine Spielzeuglupe, eine Banane, einen medizinischen Gipsabdruck eines Affen, eine Tasse, verschiedene Laborobjekte und ein Krokodil-Ei
 - Dieses LEGO City Set zur Rettung von Wildtieren enthält ein tolles Hubschrauber Spielzeug mit Winde, ein Kettenfahrzeug und eine Tierklinikstation
-- Außerdem gibt es eine Einstellung, die einen Erdrutsch simuliert - die Kinder drücken einen Hebel, um den Baum- und Erdrutsch-Unfall zu aktivieren.
+- Das Spielzeug ab 6 Jahren umfasst eine Spielzeuglupe, eine Banane, einen medizinischen Gipsabdruck eines Affen, eine Tasse, verschiedene Laborobjekte und ein Krokodil-Ei
+- Dieses Spielzeug für Jungen und Mädchen enthält viele Tierfiguren, darunter einen Elefanten, ein Kalb, ein Krokodil und 2 Affen-Tierfiguren, sowie 4 Tierrettungs-Minifiguren
 - Der Hubschrauber verfügt über eine Arbeitswinde, drehende Rotoren und einen Laderaum, das Raupenfahrzeug über eine abnehmbare Hebekette und ein Staufach
+- Außerdem gibt es eine Einstellung, die einen Erdrutsch simuliert - die Kinder drücken einen Hebel, um den Baum- und Erdrutsch-Unfall zu aktivieren.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08WWNBCC9/?tag=tolees0ca-21)
