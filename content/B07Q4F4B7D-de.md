@@ -29,12 +29,12 @@ Sie können [Bose Home Speaker 300 mit integrierter Amazon Alexa-Sprachsteuerung
 ℹ️:
 
 - Alexa ist integriert: Dank der integrierten Sprachsteuerung mit Amazon Alexa und Google Assistant lässt sich der Smart Speaker bequem per Sprachbefehl bedienen. Dabei erfasst das duale Mikrofonsystem Ihre Stimme aus jeder Richtung
-- Anrufe tätigen oder annehmen: Mit Alexa können Sie über diesen smarten Lautsprecher Nutzer von Bose Smart-Produkten, Amazon Echo-Produkten sowie beliebige Personen in Ihrer Kontaktliste anrufen oder Anrufe annehmen. Ohne Smartphone, ohne anfallende Kosten – nur per Sprachsteuerung
+- Steuerung: Es gibt drei Möglichkeiten, um die Musikwiedergabe auf Ihrem Home Speaker zu steuern: per Sprachbefehl, über die Bose Music App oder mit den sechs Preset-Tasten oben am Lautsprecher
+- Verbindungsmöglichkeiten: Koppeln Sie Ihr Mobilgerät mit diesem Home Speaker, um Ihre Lieblingsmusik und vieles mehr über Bluetooth, WLAN, Apple AirPlay 2 oder Spotify Connect zu streamen
 - Bose Music App: Einfache Einrichtung mit einer Schritt-für-Schritt-Anleitung in der Bose Music App
 - Kompatible Produkte: Als Teil der Bose Smart-Produktfamilie ist dieser Home Speaker mit anderen Smart Speakers und Soundbars von Bose kompatibel, um eine Multiroom-Wiedergabe zu ermöglichen
-- Verbindungsmöglichkeiten: Koppeln Sie Ihr Mobilgerät mit diesem Home Speaker, um Ihre Lieblingsmusik und vieles mehr über Bluetooth, WLAN, Apple AirPlay 2 oder Spotify Connect zu streamen
-- Steuerung: Es gibt drei Möglichkeiten, um die Musikwiedergabe auf Ihrem Home Speaker zu steuern: per Sprachbefehl, über die Bose Music App oder mit den sechs Preset-Tasten oben am Lautsprecher
 - Bose SimpleSync: Dank Bose SimpleSync-Technologie lässt sich ein Produkt der Bose Smart-Produktfamilie mit einem Bose Bluetooth- oder SoundTouch Lautsprecher für eine synchronisierte Musikwiedergabe koppeln
+- Anrufe tätigen oder annehmen: Mit Alexa können Sie über diesen smarten Lautsprecher Nutzer von Bose Smart-Produkten, Amazon Echo-Produkten sowie beliebige Personen in Ihrer Kontaktliste anrufen oder Anrufe annehmen. Ohne Smartphone, ohne anfallende Kosten – nur per Sprachsteuerung
 - Klangerlebnis: Raumfüllende Bässe und lebendiger 360°-Klang in einem kompakten Design
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07Q4F4B7D/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [LEGO 76939 Jurassic World Flucht des Stygimoloch Spielzeug  Starter
 
 ℹ️:
 
+- Das LEGO Jurassic World Spielzeugset ist vollgepackt mit lustigem Zubehör wie einer Betäubungspistole, einer Karotte, einer Schaufel und einem Dino-Haufen für noch mehr Spaß.
 - Das LEGO Jurassic World Dinosaurier-Spielzeug für Jungen und Mädchen ab 4 Jahren enthält 2 Dinosaurier-Figuren, einen Geländewagen und ein Baumhaus.
 - Das Spielzeug-Baumhaus/der Beobachtungsposten aus LEGO Bausteinen verfügt über ein Bett, ein Waschbecken, eine Toilette, eine Leiter und eine Rutsche für Baby-Dinosaurier Bumpy.
-- Der leicht aufzubauende Geländewagen besitzt ein Fahrgestell aus LEGO Bausteinen und einen ausbaubaren Käfig für das Stygimoloch-Dinosaurierspielzeug.
-- Das LEGO Jurassic World Spielzeugset ist vollgepackt mit lustigem Zubehör wie einer Betäubungspistole, einer Karotte, einer Schaufel und einem Dino-Haufen für noch mehr Spaß.
 - Beinhaltet 3 Minifiguren: Ben, Brooklynn und Claire Dearing sowie Dinosaurier-Spielfiguren des Stygimoloch und des Baby-Ankylosaurus Bumpy.
+- Der leicht aufzubauende Geländewagen besitzt ein Fahrgestell aus LEGO Bausteinen und einen ausbaubaren Käfig für das Stygimoloch-Dinosaurierspielzeug.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08W8D36GS/?tag=tolees0ca-21)
