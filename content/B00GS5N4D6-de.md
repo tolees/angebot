@@ -28,10 +28,10 @@ Es gibt ein [Hama TV Wandhalterung für große Fernseher 47 bis 90 Zoll  119 - 2
 
 ℹ️:
 
-- Wandaufhängung und Wandbefestigung für extreme Belastung geeignet, insbesondere für einen großen und schweren TV-Bildschirm
-- Die in der Aufhängung integrierten Schwingungsdämpfer dienen zur Soundoptimierung. Integriertes Kabelkanal Führungssystem für Ordnung / Zugentlastung
-- Lieferumfang: Fernsehhalterung, 1 Schraubensatz inkl. Original Fischer Dübel, Wasserwaage, Bohrschablone, Bleistift, Kabelbinder, Montageanleitung
-- Halterung für einfache und stufenlose Ausrichtung des Fernseh-Gerätes, für VESA Standards von 300x100 bis 800x600 Lochabstand, max. Traglast bis 75 kg
 - Wandhalter für große Fernseher und Flachbildschirme mit Bildschirmdiagonalen von 119 bis 229 cm (u.a. 47 | 49 | 50 | 55 | 65 | 75 | 80 | 88 | 90 Zoll)
+- Halterung für einfache und stufenlose Ausrichtung des Fernseh-Gerätes, für VESA Standards von 300x100 bis 800x600 Lochabstand, max. Traglast bis 75 kg
+- Lieferumfang: Fernsehhalterung, 1 Schraubensatz inkl. Original Fischer Dübel, Wasserwaage, Bohrschablone, Bleistift, Kabelbinder, Montageanleitung
+- Die in der Aufhängung integrierten Schwingungsdämpfer dienen zur Soundoptimierung. Integriertes Kabelkanal Führungssystem für Ordnung / Zugentlastung
+- Wandaufhängung und Wandbefestigung für extreme Belastung geeignet, insbesondere für einen großen und schweren TV-Bildschirm
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00GS5N4D6/?tag=tolees0ca-21)

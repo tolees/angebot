@@ -28,10 +28,10 @@ Es gibt ein [Vihado Grüner Tee Kapseln – natürliche Pflanzenstoffe ohne Zus�
 
 ℹ️:
 
-- Reine Pflanzenkraft: Grüner Tee gehört zu den hochwertigsten Teesorten und wird seit Jahrhunderten für seine vielfältigen Inhaltsstoffe auf der ganzen Welt geschätzt
-- Lieferumfang: Vihado Grüner Tee Kapseln, Nahrungsergänzung mit Grüner Tee Extrakt, mit den wertvollen Pflanzenstoffen EGCG und Polyphenol (50 %), 90 Kapseln (78,6 g)
+- Hohe Qualitätsstandards: Die Rohstoffe für alle Vihado Produkte werden mit größter Sorgfalt ausgewählt und unter stetiger Qualitätskontrolle in Deutschland verarbeitet
 - Ausgesuchte Anbaugebiete: Für den Grüntee Extrakt werden nur Sorten aus kontrolliertem Anbau verwendet, die eine hohe Konzentration der gewünschten Pflanzenstoffe aufweisen
 - Wertvolle Pflanzenstoffe: Die Grüntee Kapseln zeichnen sich durch einen hohen Anteil wertvoller Pflanzenstoffe aus, die in einem schonendem Verfahren extrahiert werden
-- Hohe Qualitätsstandards: Die Rohstoffe für alle Vihado Produkte werden mit größter Sorgfalt ausgewählt und unter stetiger Qualitätskontrolle in Deutschland verarbeitet
+- Reine Pflanzenkraft: Grüner Tee gehört zu den hochwertigsten Teesorten und wird seit Jahrhunderten für seine vielfältigen Inhaltsstoffe auf der ganzen Welt geschätzt
+- Lieferumfang: Vihado Grüner Tee Kapseln, Nahrungsergänzung mit Grüner Tee Extrakt, mit den wertvollen Pflanzenstoffen EGCG und Polyphenol (50 %), 90 Kapseln (78,6 g)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HZ500RG/?tag=tolees0ca-21)

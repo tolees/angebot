@@ -28,9 +28,9 @@ Es gibt ein [Crucial P2 CT2000P2SSD8 2TB Internes SSD  Bis zu 2400 MB/s  3D NAND
 
 ℹ️:
 
-- Unterstützt durch eine eingeschränkte fünfjährige Garantie oder bis zum Erreichen der angegebenen maximalen Lebensdauer von 600 TBW
+- Kapazitäten bis zu 2TB mit sequentiellen Lese/Schreibvorgängen bis zu 2.400/1.900 MB/s
 - Mit SSD-Verwaltungssoftware für Leistungsoptimierung, Datensicherheit und FirmwareUpdates
 - Die NVMe PCIe-Schnittstelle ist der nächste Schritt bei der Speicherinnovatio
-- Kapazitäten bis zu 2TB mit sequentiellen Lese/Schreibvorgängen bis zu 2.400/1.900 MB/s
+- Unterstützt durch eine eingeschränkte fünfjährige Garantie oder bis zum Erreichen der angegebenen maximalen Lebensdauer von 600 TBW
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08GVDNTGJ/?tag=tolees0ca-21)
