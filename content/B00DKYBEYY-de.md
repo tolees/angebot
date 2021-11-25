@@ -28,10 +28,10 @@ Es gibt ein [SONAX PremiumClass LederPflegeSet  3x 250 ml  inkl. 2x LederReinger
 
 ℹ️:
 
-- Spendet dem Leder Feuchtigkeit und schützt es lang anhaltend vor Wiederverschmutzungen und schädlicher UV-Strahlung
-- Effektive Reinigung und intensive Pflege für alle Glattleder
-- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt
 - Lieferumfang: 1x SONAX 02819410 LederPflegeSet inkl. 2x LederReinger (250 ml), 1x LederPflegeCreme (250 ml), 1x MicrofaserTuch; 1x MicrofaserPflegePad, 1x IntensivreinigungsBürste
+- Spendet dem Leder Feuchtigkeit und schützt es lang anhaltend vor Wiederverschmutzungen und schädlicher UV-Strahlung
+- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt
 - Entfernt gründlich und schonend selbst hartnäckige Verschmutzungen, ohne das Leder anzugreifen oder auszulaugen
+- Effektive Reinigung und intensive Pflege für alle Glattleder
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00DKYBEYY/?tag=tolees0ca-21)
