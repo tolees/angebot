@@ -28,10 +28,10 @@ Es gibt ein [NESCAFÉ Dolce Gusto Caffe Crema Grande  XXL-Vorratsbox  90 Kaffeek
 
 ℹ️:
 
-- ARABICA: Feinster Kaffeegenuss durch 100% fein gemahlene Arabica Bohnen, die ihr volles Aroma und feinsten Geschmack entfalten
-- ERFAHRUNG: Mit über 140 Jahren Nestlé Erfahrung in der Milchverarbeitung garantieren wir Ihnen immer frischesten Geschmack unserer Milchgetränke
 - SCHNELL: Einfach und blitzschnell ermöglichen wir Ihnen Ihren ganz persönlichen Coffee-Shop-Genuss für zu Hause mit über 30 verschiedenen leckeren Sorten
-- CREMA: Feinster, dichter und goldbrauner Milchschaum, der sich auf dem richtig zubereiteten Espresso der Arabica Bohnen bildet
+- ERFAHRUNG: Mit über 140 Jahren Nestlé Erfahrung in der Milchverarbeitung garantieren wir Ihnen immer frischesten Geschmack unserer Milchgetränke
 - NACHHALTIG: 70% unseres Kaffees stammen aus Anbaugebieten, die nach sozialen, ökologischen und wirtschaftlichen Prinzipien bewirtschaftet werden
+- CREMA: Feinster, dichter und goldbrauner Milchschaum, der sich auf dem richtig zubereiteten Espresso der Arabica Bohnen bildet
+- ARABICA: Feinster Kaffeegenuss durch 100% fein gemahlene Arabica Bohnen, die ihr volles Aroma und feinsten Geschmack entfalten
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B013W8QZOG/?tag=tolees0ca-21)

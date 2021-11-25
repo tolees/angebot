@@ -28,11 +28,11 @@ Es gibt ein [NETGEAR WAX214 WLAN Access Point PoE WiFi 6  Dualband 1800 MBit/s 
 
 ℹ️:
 
-- EINFACHE LOKALE VERWALTUNG: Einrichtung, Konfiguration und Verwaltung über den Schnell-Setup-Assistenten per deutscher/englischer Weboberfläche, kein Cloud-Abo notwendig
-- PRIVATES UND SICHERES WLAN-NETZWERK: Einfache Einrichtung in einem Arbeitszimmer, Konferenzraum oder an einem beliebigen Ort, an dem Sie ein dediziertes und sicheres WLAN-Netzwerk benötigen
-- SICHERHEIT AUF HÖCHSTEM NIVEAU: WiFi 6 Access Point unterstützt WPA3, sowie WPA/WPA2
-- HOHE WIFI 6 LEISTUNG: Geschwindigkeit und Kapazität von AX1800 Dualband 4-Streams unterstützen in Verbindung mit der MU-MIMO-Technologie bis zu 128 Endgeräte
-- FLEXIBLE MONTAGE: WLAN Access Points einfach und sicher an Wand oder Decke mit den mitgelieferten Befestigungsteilen montieren (Abmessung 16 x 16 x 3.5 cm)
 - POE ODER NETZTEIL: Einfache Bereitstellung per PoE Port (15,4 W) oder externem Netzteil (separat erhältlich, zB Netgear PAV12V)
+- HOHE WIFI 6 LEISTUNG: Geschwindigkeit und Kapazität von AX1800 Dualband 4-Streams unterstützen in Verbindung mit der MU-MIMO-Technologie bis zu 128 Endgeräte
+- PRIVATES UND SICHERES WLAN-NETZWERK: Einfache Einrichtung in einem Arbeitszimmer, Konferenzraum oder an einem beliebigen Ort, an dem Sie ein dediziertes und sicheres WLAN-Netzwerk benötigen
+- EINFACHE LOKALE VERWALTUNG: Einrichtung, Konfiguration und Verwaltung über den Schnell-Setup-Assistenten per deutscher/englischer Weboberfläche, kein Cloud-Abo notwendig
+- SICHERHEIT AUF HÖCHSTEM NIVEAU: WiFi 6 Access Point unterstützt WPA3, sowie WPA/WPA2
+- FLEXIBLE MONTAGE: WLAN Access Points einfach und sicher an Wand oder Decke mit den mitgelieferten Befestigungsteilen montieren (Abmessung 16 x 16 x 3.5 cm)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08NSM2GBJ/?tag=tolees0ca-21)

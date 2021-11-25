@@ -28,9 +28,9 @@ Es gibt ein [Plantronics USB Desktop Ladeständer für Voyager Legend  89031-01]
 
 ℹ️:
 
+- Verpackungsabmessungen (L × B × H) : 4.8 zm 15.4 zm 16.6 zm
 - Verpackungsgewicht : 220 g
 - Herkunftsland:- China
-- Verpackungsabmessungen (L × B × H) : 4.8 zm 15.4 zm 16.6 zm
 - Anzahl der Packungen: 1
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009UNGYK8/?tag=tolees0ca-21)

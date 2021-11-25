@@ -30,8 +30,8 @@ Es gibt ein [Hubelino GmbH 420169 Kugelbahn  45 Teile](https://www.amazon.de/dp/
 
 - grenzenloser Bauspaß
 - Made in Germany
-- 100% kombinierbar mit Duplobausteinen
-- Selbständiges bauen und konstruieren, fördert Kreativität
 - Bauideen zum Downloaden
+- Selbständiges bauen und konstruieren, fördert Kreativität
+- 100% kombinierbar mit Duplobausteinen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00U7LI2C0/?tag=tolees0ca-21)
