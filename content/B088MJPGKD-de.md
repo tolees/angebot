@@ -29,9 +29,9 @@ Es gibt ein [Hasbro 6E0066B459 Star Wars Das Kind Edition  Brettspiel für Famil
 ℹ️:
 
 - INSPIRIERT DURCH DIE TV-SERIE: Diese Star Wars Edition des Monopoly Brettspiels ist durch die Live-Action TV-Serie The Mandalorian inspiriert, die auf Disney Plus zu sehen ist
-- VERSTECKE UND ZUFLUCHTSORTE: Während die Spieler durch die Galaxis reisen, kaufen sie Gegenstände aus der abenteuerlich-galaktischen Welt des Kindes. Verstecke können in Gemeinschaftshäuser umgewandelt werden
-- FÜR FANS, DIE DAS KIND MÖGEN: Dieses Brettspiel eignet sich für Kinder ab 8 Jahren und ist sowohl ein galaktisches Geschenk für Fans der Star Wars The Mandalorian Serie als auch eine tolle Ergänzung zu einer Star Wars Spielzeug-Kollektion
-- MIT SPIELFIGUREN „DAS KIND“: Die Spieler ziehen mit dem Kind über den Spielplan, das von Fans liebevoll „Baby Yoda“ genannt wird. Das Kind erscheint in verschiedenen Posen, d.h. beim Froschessen, Suppeschlürfen, in der Machtpose oder der Schwebewiege
 - SPEZIELLER SPIELPLAN: Der Spielplan präsentiert Orte und Gegenstände aus der Serie The Mandalorian – z. B. Suppenschüssel, Frosch, Peilgerät, Razor Crest Cockpit und Razor Crest Lagerraum
+- VERSTECKE UND ZUFLUCHTSORTE: Während die Spieler durch die Galaxis reisen, kaufen sie Gegenstände aus der abenteuerlich-galaktischen Welt des Kindes. Verstecke können in Gemeinschaftshäuser umgewandelt werden
+- MIT SPIELFIGUREN „DAS KIND“: Die Spieler ziehen mit dem Kind über den Spielplan, das von Fans liebevoll „Baby Yoda“ genannt wird. Das Kind erscheint in verschiedenen Posen, d.h. beim Froschessen, Suppeschlürfen, in der Machtpose oder der Schwebewiege
+- FÜR FANS, DIE DAS KIND MÖGEN: Dieses Brettspiel eignet sich für Kinder ab 8 Jahren und ist sowohl ein galaktisches Geschenk für Fans der Star Wars The Mandalorian Serie als auch eine tolle Ergänzung zu einer Star Wars Spielzeug-Kollektion
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B088MJPGKD/?tag=tolees0ca-21)
