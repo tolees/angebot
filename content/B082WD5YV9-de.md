@@ -28,11 +28,11 @@ Sie können [LEGO 51515 MINDSTORMS Roboter-Erfinder  5-in-1-Robotik-Set mit App-
 
 ℹ️:
 
-- Außerdem verfügen sie über 4 mittelgroße Winkelmotoren, Entfernungs- und Farbsensoren, Bluetooth, Gyroskope und Beschleunigungsmesser mit konstanter Messgenauigkeit
-- „Tricky“ ist eine wahre Sportskanone, der vierbeinige „Gelo“ kann laufen und Hindernissen ausweichen und „M.V.P.“ kann zu einem Buggy, Kran oder LKW umgebaut werden! Mit den vielen Funktionen ist es ein spannendes Weihnachtsgeschenk für Mädchen und Jungen
-- „Blast“ kann seine Umgebung scannen und Pfeile abfeuern, wenn er eine Gefahr spürt, während „Charlie“ Highfives geben, tanzen, trommeln und lächeln kann
-- Mit den ferngesteuerten LEGO-Robotern, die Raketen verschießen, Ball spielen und herumfahren, können Kinder Programmieren lernen und wichtige MINT-Fähigkeiten erwerben!
 - Diese ferngesteuerten Lernspielzeuge enthalten einen aufladbaren intelligenten Hub, einen 5x5-LED-Bildschirm mit Smiley-Gesichtern und Lautsprecher für Nachrichten
 - Dieses Roboter-Spielzeug enthält 5 verschiedene Modelle mit unterschiedlichen Fähigkeiten, die über die Roboter-Erfinder-App von LEGO MINDSTORMS programmiert werden können
+- „Blast“ kann seine Umgebung scannen und Pfeile abfeuern, wenn er eine Gefahr spürt, während „Charlie“ Highfives geben, tanzen, trommeln und lächeln kann
+- Mit den ferngesteuerten LEGO-Robotern, die Raketen verschießen, Ball spielen und herumfahren, können Kinder Programmieren lernen und wichtige MINT-Fähigkeiten erwerben!
+- „Tricky“ ist eine wahre Sportskanone, der vierbeinige „Gelo“ kann laufen und Hindernissen ausweichen und „M.V.P.“ kann zu einem Buggy, Kran oder LKW umgebaut werden! Mit den vielen Funktionen ist es ein spannendes Weihnachtsgeschenk für Mädchen und Jungen
+- Außerdem verfügen sie über 4 mittelgroße Winkelmotoren, Entfernungs- und Farbsensoren, Bluetooth, Gyroskope und Beschleunigungsmesser mit konstanter Messgenauigkeit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B082WD5YV9/?tag=tolees0ca-21)
