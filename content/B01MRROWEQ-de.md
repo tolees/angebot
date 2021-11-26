@@ -28,10 +28,10 @@ Sie können [BRITA S0761 Wasserfilter Marella weiß inkl. 6 MAXTRA+ Filterkartus
 
 ℹ️:
 
+- Wenn die praktische BRITA Memo Anzeige nach 4 Wochen aufblinkt, kann einfach zur nächsten Nachfüllkartusche gegriffen werden, da im Starterpaket bereits 3 Kartuschen enthalten sind
 - Lieferumfang: 1 x BRITA Wasserfilter Marella weiß inkl. 6 MAXTRA+ Filterkartuschen / Tischwasserfilter mit einem Gesamtvolumen von 2,4l und einem Filtervolumen von 1,4l
 - Schutz vor Verkalkung: Die MAXTRA+ Filterkartusche verlängert die Lebensdauer von Kaffeemaschinen und Wasserkochern, indem sie Kalk im Wasser reduziert – für optimalen Geräteschutz
-- Praktische Einfüllklappe für einhändiges Befüllen der Filterkanne / Kanne ist spülmaschinengeeignet (Ausnahme: Deckel) / Alle mit Wasser in Berührung kommenden Teile sind BPA-frei
 - Perfekter Geschmack: Für ein volles Aroma von Kaffee und Tee reduziert die BRITA Wasserfilter-Kartusche zuverlässig Kalk und geschmacksstörende Stoffe wie Chlor im Leitungswasser
-- Wenn die praktische BRITA Memo Anzeige nach 4 Wochen aufblinkt, kann einfach zur nächsten Nachfüllkartusche gegriffen werden, da im Starterpaket bereits 3 Kartuschen enthalten sind
+- Praktische Einfüllklappe für einhändiges Befüllen der Filterkanne / Kanne ist spülmaschinengeeignet (Ausnahme: Deckel) / Alle mit Wasser in Berührung kommenden Teile sind BPA-frei
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MRROWEQ/?tag=tolees0ca-21)

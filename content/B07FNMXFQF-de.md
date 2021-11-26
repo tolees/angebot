@@ -28,13 +28,13 @@ Sie können [LEGO 42095 Technic Ferngesteuerter Stunt-Racer  ferngesteuertes Aut
 
 ℹ️:
 
-- Dieses motorisierte 2-in-1-Spielzeug kann in einen „Ferngesteuerten Racer“ umgebaut werden
-- Hat ein cooles Farbmuster in Gelb und Blau – mit coolen Aufklebern
 - Enthält die folgenden LEGO Power Functions Komponenten: 2 große Motoren, Empfänger, Batteriebox und Fernsteuerung
-- Der „Ferngesteuerter Stunt-Racer“ ist 17 cm hoch, 22 cm lang und 15 cm breit
-- Dieses LEGO Technic Set soll ein fesselndes und lohnendes Bauerlebnis vermitteln. Es bewegt sich wirklichkeitsgetreu, besitzt realistische Mechanismen und fördert so die motorischen Fähigkeiten, die Auge-Hand-Koordination sowie die Fantasie der jungen LEGO Baumeister und Baumeisterinnen
-- Brettere durch raues Gelände und über Hindernisse, fahre vorwärts, rückwärts, nach links oder rechts und vollführe 360-Grad-Wendungen oder coole Wheelies bei Höchstgeschwindigkeit
-- Der „Ferngesteuerter Racer“ ist 12 cm hoch, 20 cm lang und 19 cm breit
+- Hat ein cooles Farbmuster in Gelb und Blau – mit coolen Aufklebern
+- Dieses motorisierte 2-in-1-Spielzeug kann in einen „Ferngesteuerten Racer“ umgebaut werden
 - Enthält ein rasantes, voll motorisiertes ferngesteuertes Kettenfahrzeug mit großen hinteren Zahnkränzen für eine fantastische Beschleunigung
+- Der „Ferngesteuerter Stunt-Racer“ ist 17 cm hoch, 22 cm lang und 15 cm breit
+- Brettere durch raues Gelände und über Hindernisse, fahre vorwärts, rückwärts, nach links oder rechts und vollführe 360-Grad-Wendungen oder coole Wheelies bei Höchstgeschwindigkeit
+- Dieses LEGO Technic Set soll ein fesselndes und lohnendes Bauerlebnis vermitteln. Es bewegt sich wirklichkeitsgetreu, besitzt realistische Mechanismen und fördert so die motorischen Fähigkeiten, die Auge-Hand-Koordination sowie die Fantasie der jungen LEGO Baumeister und Baumeisterinnen
+- Der „Ferngesteuerter Racer“ ist 12 cm hoch, 20 cm lang und 19 cm breit
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07FNMXFQF/?tag=tolees0ca-21)

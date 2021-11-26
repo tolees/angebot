@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Hasbro Gaming B2176398 - Dr. Bibber Kind mit 28.58 % Rabatt'
-date: 2020-06-12 00:42:15
-image: 'https://m.media-amazon.com/images/I/510VILjYrfL._SL400_.jpg'
+title: 'Hasbro - Dr. Bibber - Das Duell Der Ruhi mit 50.02 % Rabatt'
+date: 2021-11-26 21:12:34
+image: 'https://m.media-amazon.com/images/I/512YbZB-iQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01FDIVD9A-de Hasbro Gaming B2176398 - Dr. Bibber Kinderspiel'
+slug: 'B01FDIVD9A-de Hasbro - Dr. Bibber - Das Duell Der Ruhigen Hände...'
 sku: 'B01FDIVD9A-de'
-tags: [  ]
-actualPrice: 19.99 EUR
+tags: [ 'Brettspiele','Spiele','Spielzeug','hasbro', ]
+actualPrice: 14.99 EUR
 currency: EUR
-price: 19.99
-comparePrice: 27.99 EUR
-prodname: 'Hasbro Gaming B2176398 - Dr. Bibber Kinderspiel'
+price: 14.99
+comparePrice: 29.99 EUR
+prodname: 'Hasbro - Dr. Bibber - Das Duell Der Ruhigen Hände  klassisches Vorschulspiel'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Hasbro'
 buyurl: 'https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21'
-descuento: '28.58'
-average: '20.532222222222224'
+descuento: '50.02'
+average: '19.978'
 ---
 
-Sie können [Hasbro Gaming B2176398 - Dr. Bibber Kinderspiel](https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21) mit Preis 19.99 EUR (original: 27.99 EUR) 28.58 % Rabatt hier:
+Sie können [Hasbro - Dr. Bibber - Das Duell Der Ruhigen Hände  klassisches Vorschulspiel](https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21) mit Preis 14.99 EUR (original: 29.99 EUR) 50.02 % Rabatt hier:
 
-[![Hasbro Gaming B2176398 - Dr. Bibber Kind](https://m.media-amazon.com/images/I/510VILjYrfL._SL400_.jpg)](https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21)
+[![Hasbro - Dr. Bibber - Das Duell Der Ruhi](https://m.media-amazon.com/images/I/512YbZB-iQL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21)
 
 ℹ️:
 
+- 12 LUSTIGE AUTSCHIS: Wer hilft Paul bei seinem gebrochenen Arm oder seinem Schreibkrampf? Das elektronische Spiel kommt mit den klassischen Wehwehchen wie Adampsapfel, Schmetterling im Bauch und einem vollen Bauch
+- DIE NASE LEUCHTET AUF: Bei diesem Geschicklichkeitsspiel darf man die Seiten der Wunden nicht mit der Pinzette berühren, denn sonst leuchtet Pauls Nase auf, autsch!
+- NUR NICHT DEN AUTSCH-ALARM AUSLÖSEN: Bei Doktor Bibber schlüpfen die Kinder in die Rolle eines Doktors und operieren Paul, den Patienten. Doch aufgepasst, der Autsch-Alarm darf nicht ausgelöst werden
+- ALLEINE ODER MIT FREUNDEN SPIELEN: Dieses Spiel eignet sich hervorragend, um es alleine oder mit Freunden zu spielen. Auch prima für einen Familienspieleabend oder eine Pause zwischendurch geeignet
+- WER DAS MEISTE GELD KASSIERT, GEWINNT: Die Kinder ziehen eine Doktorkarte, um herauszufinden, welches Autschi es zu entfernen gilt. Wer es schafft, das Autschi aus Paul herauszuoperieren, ohne den Alarm auszulösen, erhält die Karte mit dem Geldbetrag
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21)

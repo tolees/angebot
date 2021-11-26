@@ -28,10 +28,10 @@ Sie können [LEGO 41679 Friends Baumhaus im Wald  Spielzeug ab 6 Jahre  Haus mit
 
 ℹ️:
 
-- In dem LEGO Friends Haus sind zwei Mini Puppen enthalten: Mia und ihre Mama Ann, sowie eine LEGO Friends Ava Mikropuppe und eine Waschbär Figur
-- Ein großartiges LEGO Spielzeug ab 6 Jahre und das perfekte Geschenk für Geburtstage, Weihnachten oder wenn der Regen das Spielen im Freien stoppt
 - Das Puppenhaus hat ein zu öffnendes Dach für einfachen Zugang, einen Schlafbereich, eine Terrasse mit Puppenhausmöbeln und sogar eine Toilette für die Mini Puppen
 - Das LEGO Friends Set enthält zwei separate Szenen für vielseitiges Spielen: ein 2-stöckiges Baumhaus im Wald und eine separate Kajak-Szene mit Boot
+- In dem LEGO Friends Haus sind zwei Mini Puppen enthalten: Mia und ihre Mama Ann, sowie eine LEGO Friends Ava Mikropuppe und eine Waschbär Figur
 - Zum Zubehör gehören Ketchup- und Senfflaschen, ein Hotdog, eine Kamera, ein Kajak, eine Schwimmweste und Paddelelemente sowie ein Sofa und ein Grill
+- Ein großartiges LEGO Spielzeug ab 6 Jahre und das perfekte Geschenk für Geburtstage, Weihnachten oder wenn der Regen das Spielen im Freien stoppt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08W5FXSQJ/?tag=tolees0ca-21)
