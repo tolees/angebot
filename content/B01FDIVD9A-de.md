@@ -28,10 +28,10 @@ Sie können [Hasbro - Dr. Bibber - Das Duell Der Ruhigen Hände  klassisches Vor
 
 ℹ️:
 
-- DIE NASE LEUCHTET AUF: Bei diesem Geschicklichkeitsspiel darf man die Seiten der Wunden nicht mit der Pinzette berühren, denn sonst leuchtet Pauls Nase auf, autsch!
-- NUR NICHT DEN AUTSCH-ALARM AUSLÖSEN: Bei Doktor Bibber schlüpfen die Kinder in die Rolle eines Doktors und operieren Paul, den Patienten. Doch aufgepasst, der Autsch-Alarm darf nicht ausgelöst werden
 - WER DAS MEISTE GELD KASSIERT, GEWINNT: Die Kinder ziehen eine Doktorkarte, um herauszufinden, welches Autschi es zu entfernen gilt. Wer es schafft, das Autschi aus Paul herauszuoperieren, ohne den Alarm auszulösen, erhält die Karte mit dem Geldbetrag
-- ALLEINE ODER MIT FREUNDEN SPIELEN: Dieses Spiel eignet sich hervorragend, um es alleine oder mit Freunden zu spielen. Auch prima für einen Familienspieleabend oder eine Pause zwischendurch geeignet
+- NUR NICHT DEN AUTSCH-ALARM AUSLÖSEN: Bei Doktor Bibber schlüpfen die Kinder in die Rolle eines Doktors und operieren Paul, den Patienten. Doch aufgepasst, der Autsch-Alarm darf nicht ausgelöst werden
 - 12 LUSTIGE AUTSCHIS: Wer hilft Paul bei seinem gebrochenen Arm oder seinem Schreibkrampf? Das elektronische Spiel kommt mit den klassischen Wehwehchen wie Adampsapfel, Schmetterling im Bauch und einem vollen Bauch
+- ALLEINE ODER MIT FREUNDEN SPIELEN: Dieses Spiel eignet sich hervorragend, um es alleine oder mit Freunden zu spielen. Auch prima für einen Familienspieleabend oder eine Pause zwischendurch geeignet
+- DIE NASE LEUCHTET AUF: Bei diesem Geschicklichkeitsspiel darf man die Seiten der Wunden nicht mit der Pinzette berühren, denn sonst leuchtet Pauls Nase auf, autsch!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01FDIVD9A/?tag=tolees0ca-21)
