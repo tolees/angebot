@@ -28,11 +28,11 @@ Sie können [Yankee Candle Geschenkset | 8 Duftkerzen  Votivkerzenhalter  Docht
 
 ℹ️:
 
-- Im Set enthalten: Düfte Christmas Magic, Angels Wings, Snow in Love, Sparkling Cinnamon, Evergreen Mist, Warm Cashmere, All is Bright, Spiced Orange; Dochttrimmer; Illuma-Lid Fanciful Forest; Votivkerzenhalter
 - Dieses Kerzenset wird in einer elfenbeinfarbenen Box geliefert, die mit funkelnden Sternen verziert ist, und garantiert für glänzende Augen sorgen (jetzt vorverpackt in Amazon-Verpackung)
-- Der Illuma-Lid-Kerzenaufsatz sorgt für eine optimale Duftverteilung durch ein konstanteres Brennen der Flamme; der Dochttrimmer reduziert die Rußmenge, die sich beim Abbrennen von Kerzen entwickelt
+- Eine ausgewählte Kollektion aus 8 Weihnachtsduftkerzen mit Zubehör – so können Sie Ihrem Zuhause eine kuschelige, festliche Atmosphäre verleihen
+- Im Set enthalten: Düfte Christmas Magic, Angels Wings, Snow in Love, Sparkling Cinnamon, Evergreen Mist, Warm Cashmere, All is Bright, Spiced Orange; Dochttrimmer; Illuma-Lid Fanciful Forest; Votivkerzenhalter
 - Premium-Wachs und per Hand gerade gezogene Baumwolldochte garantieren ein perfektes, gleichmäßiges Abbrennen
 - Brenndauer der Kerze im mittelgroßen Glas: 65 – 75 Stunden; Brenndauer der Kerze im kleinen Glas: 20 - 30 Stunden; Votivkerze: 15 Stunden
-- Eine ausgewählte Kollektion aus 8 Weihnachtsduftkerzen mit Zubehör – so können Sie Ihrem Zuhause eine kuschelige, festliche Atmosphäre verleihen
+- Der Illuma-Lid-Kerzenaufsatz sorgt für eine optimale Duftverteilung durch ein konstanteres Brennen der Flamme; der Dochttrimmer reduziert die Rußmenge, die sich beim Abbrennen von Kerzen entwickelt
 
 [🛒 Hier!!](https://www.amazon.de/dp/B09GV8N99M/?tag=tolees0ca-21)
