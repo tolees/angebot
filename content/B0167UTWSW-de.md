@@ -28,10 +28,10 @@ Sie können [Repos Production - Asmodee 7 Wonders Duel  Grundspiel  Kennerspiel 
 
 ℹ️:
 
-- 2 Spieler | Ab 10+ Jahren | Bis zu 30+ Minuten Spielzeit je Partie | Spiel in Deutsch
-- Bei dem Kennerspiel 7 Wonders Duel entwickeln zwei Spieler ihre Zivilisation über 3 Zeitalter hinweg. Dabei ist 7 Wonders Duel schneller und taktischer als 7 Wonders
-- Das weltweit mehrfach ausgezeichnete Kennerspiel des Jahres 2011 wird durch 7 Wonders Duel auch für Spieleabende zu zweit mit dem Partner oder einem guten Freund spielbar
 - Bei diesem kompetitiven Strategiespiel sammeln 2 Spieler Siegpunkte durch den Ausbau ihrer Stadt, ihres Militärs, ihrem Geldvorrat und ihres Weltwunders
+- Bei dem Kennerspiel 7 Wonders Duel entwickeln zwei Spieler ihre Zivilisation über 3 Zeitalter hinweg. Dabei ist 7 Wonders Duel schneller und taktischer als 7 Wonders
+- 2 Spieler | Ab 10+ Jahren | Bis zu 30+ Minuten Spielzeit je Partie | Spiel in Deutsch
 - Messt euer taktisches Geschick in einem Duell der Weltwunder. Baut eure Stadt und euer Militär aus, sammelt Reichtümer und errichtet ein Weltwunder für die Ewigkeit, um zu triumphieren
+- Das weltweit mehrfach ausgezeichnete Kennerspiel des Jahres 2011 wird durch 7 Wonders Duel auch für Spieleabende zu zweit mit dem Partner oder einem guten Freund spielbar
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0167UTWSW/?tag=tolees0ca-21)
