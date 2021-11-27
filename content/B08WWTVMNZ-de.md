@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.35 % rabat auf LEGO 42129 Technic 4x4 Mercedes-Benz Zet'
-date: 2021-11-26 12:36:30
+date: 2021-11-27 13:43:21
 image: 'https://m.media-amazon.com/images/I/51c5A44omzS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WWTVMNZ/?tag=tolees0ca-21'
 descuento: '33.35'
-average: '208.351818181818'
+average: '207.651666666667'
 ---
 
 Es gibt ein [LEGO 42129 Technic 4x4 Mercedes-Benz Zetros Offroad-Truck  ferngesteuertes Auto  App-kontrolliertes LKW-Spielzeug](https://www.amazon.de/dp/B08WWTVMNZ/?tag=tolees0ca-21) mit aktuellem Preis 199.95 EUR (original: 299.99 EUR) 33.35 % Rabatt hier:
@@ -28,10 +28,10 @@ Es gibt ein [LEGO 42129 Technic 4x4 Mercedes-Benz Zetros Offroad-Truck  ferngest
 
 ℹ️:
 
-- Das Lkw-Spielzeug hat einen detailreichen Motor mit drehendem Kühlerlüfter, Federung an allen 4 Rädern und detailliertem Getriebe
-- Der 4x4 Mercedes-Benz Zetros Offroad-Truck wird über die App bedient und ist vollgepackt mit authentischen Details
 - Das Set enthält Aufkleber mit Rennmotiven, 2 Feuerlöscher und Flaggen für einen Hindernisparcours, um die Fähigkeiten des Trucks auf unterschiedlichem Untergrund zu testen
-- Als Premiere bei LEGO Technic hat das Modell eine Differentialsperre, die über die kostenlose LEGO-App kontrolliert wird, um den Truck über unebenes Terrain zu manövrieren
 - Der fern- und App-gesteuerte Truck wird angetrieben durch einen Bluethooth-kontrollierten Smart Hub, 3 große Motoren und einen mittelgroßen Motor
+- Der 4x4 Mercedes-Benz Zetros Offroad-Truck wird über die App bedient und ist vollgepackt mit authentischen Details
+- Als Premiere bei LEGO Technic hat das Modell eine Differentialsperre, die über die kostenlose LEGO-App kontrolliert wird, um den Truck über unebenes Terrain zu manövrieren
+- Das Lkw-Spielzeug hat einen detailreichen Motor mit drehendem Kühlerlüfter, Federung an allen 4 Rädern und detailliertem Getriebe
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WWTVMNZ/?tag=tolees0ca-21)
