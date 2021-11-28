@@ -28,10 +28,10 @@ Es gibt ein [LEGO 76186 Marvel Super Heroes Black Panthers Libelle Spielzeug  Av
 
 ℹ️:
 
-- Es verfügt über ein zu öffnendes Cockpit, in dem eine Black Panther Figur am Steuer sitzen und 2 Bolzenschützen abfeuern und den gegnerischen Blastern ausweichen kann
 - Das LEGO Avengers Set Black Panthers Libelle zeigt eines der kultigsten Flugzeuge, das futuristische Black Panther Flugzeug mit verstellbaren Flügeln
 - Kinder können die Action der Marvel-Filme nachspielen, indem sie die 4 Flügel in verschiedene Richtungen bewegen, um riskante Manöver mit maximaler Geschwindigkeit auszuführen
-- Das Avengers Spielzeug enthält 3 Minifiguren, die zum fantasievollen Spielen anregen: Black Panther, seine Schwester Shuri und ein böser Chitauri-Krieger, bewaffnet mit einem Power Blaster
+- Es verfügt über ein zu öffnendes Cockpit, in dem eine Black Panther Figur am Steuer sitzen und 2 Bolzenschützen abfeuern und den gegnerischen Blastern ausweichen kann
 - Dieses LEGO Superhelden Kinderspielzeug ist ein besonderes Geburtstags-, Weihnachts- und Urlaubsgeschenk für Fans von Marvel und viel Action ab 8 Jahren
+- Das Avengers Spielzeug enthält 3 Minifiguren, die zum fantasievollen Spielen anregen: Black Panther, seine Schwester Shuri und ein böser Chitauri-Krieger, bewaffnet mit einem Power Blaster
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08W8KPVKC/?tag=tolees0ca-21)
