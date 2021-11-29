@@ -28,10 +28,10 @@ Es gibt ein [Roccat Sense AIMO XXL Gaming Mauspad - AIMO LED Beleuchtung  Höchs
 
 ℹ️:
 
-- Behandelte Oberflächenschicht schützt vor verschütteten Flüssigkeiten
-- Speziell genäht für Haltbarkeit und Komfort
 - Intelligentes AIMO-Beleuchtungssystem
-- Rutschfeste Rückseite hält das Pad an seinem Platz
 - Präzises Tracking dank flexibler, beschichteter Oberfläche
+- Speziell genäht für Haltbarkeit und Komfort
+- Behandelte Oberflächenschicht schützt vor verschütteten Flüssigkeiten
+- Rutschfeste Rückseite hält das Pad an seinem Platz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08G4XBQBV/?tag=tolees0ca-21)

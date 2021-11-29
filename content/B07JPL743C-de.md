@@ -28,10 +28,10 @@ Sie können [Alessi Food à Porter | SA02 G - dreiteilige Brotbox aus Thermoplas
 
 ℹ️:
 
-- Material: thermoplastisches Harz
-- Farbe: grau
 - geeignet für z.B: Desserts, Snacks, belegte Brote, Obst oder Gemüse
-- Maße: (BxHxT) 19x13,5x10 cm
+- Material: thermoplastisches Harz
 - Hersteller: Alessi
+- Farbe: grau
+- Maße: (BxHxT) 19x13,5x10 cm
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07JPL743C/?tag=tolees0ca-21)

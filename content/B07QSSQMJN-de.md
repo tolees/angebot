@@ -28,10 +28,10 @@ Sie können [Trust 23415 Tecla-2 Kabellose Tastatur und Maus  Wireless Tastatur 
 
 ℹ️:
 
-- Optische 6-Tasten-Funkmaus mit ergonomischem Design. Ein verstaubarer USB-Mikro-Empfänger für beide Geräte.
-- Flache Tasten mit weichem, stillem Anschlag für komfortables Tippen. Ergonomisches Design mit komfortabler Handauflage.
-- Klappbare Füße zur Veränderung des Eingabewinkels
-- Geschwindigkeitsauswahltaste (800/1200/1600 dpi). 2 Daumentasten: Browser zurück und weiter.
 - Originalgroßes Layout mit Zehnertastatur und einzeln abgesetzten Tasten für einfache Reinigung. 11 Tasten für Direktzugriff und 12 Funktionstasten.
+- Geschwindigkeitsauswahltaste (800/1200/1600 dpi). 2 Daumentasten: Browser zurück und weiter.
+- Klappbare Füße zur Veränderung des Eingabewinkels
+- Flache Tasten mit weichem, stillem Anschlag für komfortables Tippen. Ergonomisches Design mit komfortabler Handauflage.
+- Optische 6-Tasten-Funkmaus mit ergonomischem Design. Ein verstaubarer USB-Mikro-Empfänger für beide Geräte.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QSSQMJN/?tag=tolees0ca-21)

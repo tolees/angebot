@@ -28,8 +28,8 @@ Sie können [Gears Tactics  Disc  - [Xbox Series X  Xbox One]](https://www.amazo
 
 ℹ️:
 
-- Bereiten Sie Ihren Trupp vor, um im Kampf auf alles gefasst zu sein. Verbessern Sie seine Fähigkeiten und rüsten ihn mit der in Missionen gesammelten Beute aus
 - spielbar auf Xbox Series X und Xbox One
+- Bereiten Sie Ihren Trupp vor, um im Kampf auf alles gefasst zu sein. Verbessern Sie seine Fähigkeiten und rüsten ihn mit der in Missionen gesammelten Beute aus
 - Schlüpfen Sie in die Rolle des Soldaten Gabe Diaz, retten Sie andere Kämpfer, um Ihren Trupp zusammenzustellen, und begeben Sie sich auf eine Reise voller erbitterter Kämpfe und Opfer
 - Besiegen Sie kolossale Boss Gegner, die Sie zum taktischen Umdenken zwingen und Ihnen das Ausmaß des Kampfes vergegenwärtigen
 - Übernehmen Sie in rasanten, rundenbasierten Gefechten, das Kommando über Ihren Trupp
