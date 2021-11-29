@@ -28,10 +28,10 @@ Es gibt ein [ASUS ROG Strix Z590-F Gaming WiFi Mainboard Sockel Intel LGA 1200  
 
 ℹ️:
 
-- Optimiertes Kühlungsdesign: VRM- und Aluminium-I/O-Kühlkörper, L-förmige Heatpipe, vier onboard M.2-Kühlkörper und eine M.2-Backplate für den PCIe 4.0-M.2-Slot
+- Intel LGA 1200 Sockel: Bereit für Intel Core Pentium Gold und Celeron Prozessoren der 10. und 11. Generation
+- Beste Gaming-Konnektivität: Unterstützt HDMI 2.0 und DisplayPort 1.4 Ausgabe, vier M.2-Slots sowie USB 3.2 Gen 2 Type-A- und Type-C-Anschlüsse
 - Leistungsstarkes Netzwerk: On-board Intel WiFi 6E AX210 (802.11ax) und Intel 2.5 Gb Ethernet mit ASUS LANGuard
 - Optimale Spannungsversorgung: 14+2 Power Stages mit ProCool II Stromanschluss, hochwertige Legierungsdrosseln und langlebige Kondensatoren zur Unterstützung von Multi-Core-Prozessoren
-- Beste Gaming-Konnektivität: Unterstützt HDMI 2.0 und DisplayPort 1.4 Ausgabe, vier M.2-Slots sowie USB 3.2 Gen 2 Type-A- und Type-C-Anschlüsse
-- Intel LGA 1200 Sockel: Bereit für Intel Core Pentium Gold und Celeron Prozessoren der 10. und 11. Generation
+- Optimiertes Kühlungsdesign: VRM- und Aluminium-I/O-Kühlkörper, L-förmige Heatpipe, vier onboard M.2-Kühlkörper und eine M.2-Backplate für den PCIe 4.0-M.2-Slot
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CDTJ1M8/?tag=tolees0ca-21)
