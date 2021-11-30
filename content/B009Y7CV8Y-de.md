@@ -28,10 +28,10 @@ Es gibt ein [Doctor Who Projizierender Wecker "Tardis"](https://www.amazon.de/dp
 
 ℹ️:
 
+- Geformtes TARDIS-Design
+- Die vordere LCD-Uhr leuchtet blau
 - Produkt-Abmessungen (H x B x T): 13 x 7 x 7 cm
 - Benötigt 3 x AAA Batterien [nicht enthalten]
-- Die vordere LCD-Uhr leuchtet blau
 - Projektionswecker ist etwa 4 1/2 Zoll groß
-- Geformtes TARDIS-Design
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B009Y7CV8Y/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Sie können [Spigen Ultra Hybrid Hülle Kompatibel mit iPhone 12 Mini -Crystal C
 
 ℹ️:
 
-- Eckschutz durch die Air Cushion Technologie
 - Maßgeschneidert für alle Anschlüsse
 - Schutzrand für das Display und die Kamera
 - Die Konstruktion aus PC Platte und Silikonrahmen
+- Eckschutz durch die Air Cushion Technologie
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08BGBTXM9/?tag=tolees0ca-21)
