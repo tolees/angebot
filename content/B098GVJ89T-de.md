@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures - Monster Hunter mit 22.15 % Rabatt'
-date: 2021-11-29 20:42:16
+date: 2021-11-30 20:50:28
 image: 'https://m.media-amazon.com/images/I/51W29OamZ2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.de/dp/B098GVJ89T/?tag=tolees0ca-21'
 descuento: '22.15'
-average: '11.8024999999999'
+average: '11.6923809523809'
 ---
 
 Sie können [Universal Pictures - Monster Hunter](https://www.amazon.de/dp/B098GVJ89T/?tag=tolees0ca-21) mit Preis 9.49 EUR (original: 12.19 EUR) 22.15 % Rabatt hier:

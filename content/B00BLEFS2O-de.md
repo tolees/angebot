@@ -29,9 +29,9 @@ Es gibt ein [Eichhorn 100028103 - Werkzeugkasten 11x22x12cm  inkl. Werkzeug  Sch
 ℹ️:
 
 - 30-teiliges Set - im Set ist eine Werkzeugbox aus Holz, Bauelemente, ein Schraubenzieher, ein Schraubenschlüssel, ein Hammer sowie Schrauben und Muttern enthalten. Geeignet für Kinder ab 3 Jahren
-- FSC 100% zertifiziertes Holz - für die Herstellung der Werkzeugbox wird ausschließlich zertifiziertes Buchenholz verwendet. Lizenznummer: FSC-C005308. Die Werkzeugbox wird in Deutschland gefertigt
-- Eichhorn - Holzspielzeug mit Tradition - seit über 70 Jahren fertigen wir Qualitäts-Holzspielzeug. Pädagogisch wertvoll fördern unsere Produkte durch Kombination von Fühlen, Stapeln, Stecken, Schieben und Schrauben die Motorik und Kreativität vom frühesten Kindesalter an
-- Praktisch - die 11x22x12cm große Werkzeugbox besitzt einen Griff, so dass sie leicht von den Kindern getragen werden kann. Im Inneren lässt sich das komplette Werkzeug praktisch verstauen
 - Für kleine Handwerker - an beiden Seiten des Kastens befinden sich jeweils fünf Löcher, an welchen die Kids ihre Bauelemente mit den Schrauben befestigen und erste Erfahrungen als kleine Handwerker sammeln können
+- Praktisch - die 11x22x12cm große Werkzeugbox besitzt einen Griff, so dass sie leicht von den Kindern getragen werden kann. Im Inneren lässt sich das komplette Werkzeug praktisch verstauen
+- Eichhorn - Holzspielzeug mit Tradition - seit über 70 Jahren fertigen wir Qualitäts-Holzspielzeug. Pädagogisch wertvoll fördern unsere Produkte durch Kombination von Fühlen, Stapeln, Stecken, Schieben und Schrauben die Motorik und Kreativität vom frühesten Kindesalter an
+- FSC 100% zertifiziertes Holz - für die Herstellung der Werkzeugbox wird ausschließlich zertifiziertes Buchenholz verwendet. Lizenznummer: FSC-C005308. Die Werkzeugbox wird in Deutschland gefertigt
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00BLEFS2O/?tag=tolees0ca-21)
