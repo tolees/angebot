@@ -29,11 +29,11 @@ Sie können [Einhell 4513935 Akkuschrauber TE-CD 18/48 Li-i Kit Power X-Change  
 ℹ️:
 
 - Technische Daten - Anzahl Gänge: 2; Drehzahl (G1): 400 U/min; Drehzahl (G2): 1500 U/min; Drehmoment: 48 Nm; Drehmomentstufen: 23; Schlagzahl (G1): 0-6400 1/min; Schlagzahl (G2): 0-24000 1/min
-- Inklusive Zubehör - Im Lieferumfang enthalten sind zwei 2.0 Ah Power X-Change Akku, ein Schnellladegerät und ein Gürtelclip. Die Lieferung erfolgt im praktischen Transport- und Aufbewahrungskoffer
-- Zwei-Gang Getriebe mit Drehzahlelektronik - Das Zwei-Gang Getriebe sorgt für kraftvolles Schrauben und Bohren. Die Drehzahlelektronik ermöglicht material- und anwendungsfreundliches Arbeiten
-- Unendlicher Aktionsradius dank Power X-Change - Nie mehr nach Steckdosen suchen, nie mehr Ärger mit dem Verlängerungskabel. Der leistungsstarke Lithium-Ionen-Akku sorgt für kabellose Freiheit
 - Schrauben, Bohren und Schlagbohren - Der Schlagbohrschrauber ist ein echter Allrounder. Dank Schlagbohrfunktion sind auch anspruchsvolle Bohrungen kein Problem
+- Unendlicher Aktionsradius dank Power X-Change - Nie mehr nach Steckdosen suchen, nie mehr Ärger mit dem Verlängerungskabel. Der leistungsstarke Lithium-Ionen-Akku sorgt für kabellose Freiheit
 - Zusatzhandgriff mit Softgrip-Flächen - Der Zusatzhandgriff gewährleistet bei anspruchsvollen Bohrarbeiten sicheren Halt und schont die Handgelenke
 - Schnellspannbohrfutter und Quick-Stop-Funktion - Einen schnellen und einfachen Werkzeugwechsel garantiert das einhülsige 13 mm Bohrfutter. Die Quick-Stop-Funktion verhindert lästiges Nachlaufen
+- Inklusive Zubehör - Im Lieferumfang enthalten sind zwei 2.0 Ah Power X-Change Akku, ein Schnellladegerät und ein Gürtelclip. Die Lieferung erfolgt im praktischen Transport- und Aufbewahrungskoffer
+- Zwei-Gang Getriebe mit Drehzahlelektronik - Das Zwei-Gang Getriebe sorgt für kraftvolles Schrauben und Bohren. Die Drehzahlelektronik ermöglicht material- und anwendungsfreundliches Arbeiten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07TJ9CBKY/?tag=tolees0ca-21)
