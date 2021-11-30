@@ -28,9 +28,9 @@ Sie können [LEGO 60294 City Stuntz Stuntshow-Truck-Set  Spielzeug-Set mit LKW  
 
 ℹ️:
 
-- Enthält 4 LEGO-Minifiguren, u. a. 3 Charaktere aus der „LEGO City Adventures“- TV-Serie – alles, was Kinder brauchen, um richtig loszulegen
 - Mit den Instructions PLUS in der kostenlosen LEGO App können Kinder ab 6 Jahren das Modell vergrößern, bewegen und visualisieren
 - Enthält einen großen Spielzeug-Truck mit Platz für die Start- und Landerampen, ein Stuntbike und tolle Hindernisse
+- Enthält 4 LEGO-Minifiguren, u. a. 3 Charaktere aus der „LEGO City Adventures“- TV-Serie – alles, was Kinder brauchen, um richtig loszulegen
 - Kinder aktivieren das schwungradbetriebene Stuntbike und lassen es von der Rampe starten, um die Zielscheibe zu treffen, damit der Clown ins Tauchbecken fällt
 - Der Spielzeug-Truck mit Anhänger verwandelt sich in ein funktionierendes Tauchbecken und hat coole Auspuffrohre und einen Kühlergrill mit Zähnen
 - Kombiniere das Set mit anderen Sets aus der „LEGO City Stuntz“-Reihe (separat erhältlich) für noch mehr Action, bekannte Charaktere und Stuntfahrer

@@ -29,9 +29,9 @@ Sie können [LEGO 41682 Friends Heartlake City Schule  Spielzeug ab 6 Jahre für
 ℹ️:
 
 - Enthalten ist ein 2-stöckiges Schulhaus-Spielzeug mit 3 Klassenzimmern zum Bauen und Erforschen sowie eine Kantine, Spinde, Toilette und einen Spielplatz im Freien
+- Das Spielzeug-Set beinhaltet drei LEGO Mini Puppen zum Spielen: Olivia, den neuen Junge Julian und eine Lehrerfigur zum Nachspielen des Schulalltags
 - Das Spielzeug für Mädchen und Jungen ab 6 Jahre enthält ein Wissenschaftslabor mit Mikroskop und einem Marienkäfer zum Studieren, um einen perfekten Schultag nachzustellen
 - In der Schule gibt es außerdem ein Spielzeugfahrrad mit Helm, einen Ball, einen Laptop und einen Stift mit Notizbuch, sowie Tische und Essenszubehör in der Kantine
 - Das LEGO Klassenzimmer für Kunst, Theater und Musik enthält eine Kiste mit kreativem Verkleidungsmaterial, eine Auswahl an Instrumenten, Pinseln, Farben und eine Staffelei
-- Das Spielzeug-Set beinhaltet drei LEGO Mini Puppen zum Spielen: Olivia, den neuen Junge Julian und eine Lehrerfigur zum Nachspielen des Schulalltags
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08WWPXGP5/?tag=tolees0ca-21)
