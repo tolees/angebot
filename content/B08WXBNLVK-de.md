@@ -28,10 +28,10 @@ Es gibt ein [LEGO 10956 DUPLO Erlebnispark  Kinderspielzeug ab 2 Jahre mit Jahrm
 
 ℹ️:
 
-- Das ganz besondere Highlight des Erlebnisparks ist das Regenbogenlicht mit den vielen, wechselnden Farben (drei LR44-Batterien sind enthalten)
 - Mit den insgesamt sieben DUPLO Figuren - 2 Frauen, 1 Mann und 4 Kinder können Kinder kreative Rollenspiele nachahmen und außerdem ihre sozialen Fähigkeiten erweitern
-- Enthalten ist außerdem ein Zug Spielzeug und weiteres Zubehör wie Hot Dogs, Eiscreme, Kamera, Luftballons, Cupcakes, Besen und einem Teddybär
 - Das LEGO DUPLO Town Kinderspielzeug ab 2 Jahre verfügt über 2 Rutschen, ein mechanisches Karussell und ein sich drehendes Riesenrad mit drei bunten Kabinen
+- Enthalten ist außerdem ein Zug Spielzeug und weiteres Zubehör wie Hot Dogs, Eiscreme, Kamera, Luftballons, Cupcakes, Besen und einem Teddybär
 - Der LEGO Jahrmarkt ist ein farbenfrohes und detailliertes Lernspielzeug für Kleinkinder, stärkt die Feinmotorik und ist ein ideales Geschenk für Kinder im Vorschulalter
+- Das ganz besondere Highlight des Erlebnisparks ist das Regenbogenlicht mit den vielen, wechselnden Farben (drei LR44-Batterien sind enthalten)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08WXBNLVK/?tag=tolees0ca-21)
