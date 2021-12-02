@@ -28,10 +28,10 @@ Es gibt ein [JBL Tune 125 TWS In-Ear Bluetooth-Kopfhörer in Blau – Kabellose 
 
 ℹ️:
 
-- Smart Akku sparen mit Dual Connect: Musik oder Telefonate können über die Kopfhörer auf einem oder beiden Ohren gehört werden - bei der Nutzung eines Earpods kann der zweite im Case geladen werden
+- Mit bis zu 8 Std. Wiedergabezeit hat der leistungsstarke Lithium-Ionen-Akku mehr Ausdauer als Spitzensportler - das Ladecase bietet zusätzlich bis zu 32 Std. Power / Wirklich kabellos Musik streamen
 - Lieferumfang: 1 x Tune 125 TWS Kopfhörer in Blau von JBL / 1 x kompakte Ladebox & USB-C-Ladekabel / Kabellose Earphones mit bis zu 8 Stunden Wiedergabezeit + bis zu 32h Akkulaufzeit im Ladecase
 - Die wireless Earbuds von JBL tunen den Alltag mit dem einzigartigen Pure Bass Sound - unvergleichliche Klangqualität beim Training im Fitnessstudio, beim Joggen oder auf dem Arbeitsweg genießen!
 - Schnelles Koppeln: Aus dem Case entnommen, sind die Kopfhörer direkt angeschaltet und verbinden sich sofort wireless beim Auswählen des Geräts in den Einstellungen
-- Mit bis zu 8 Std. Wiedergabezeit hat der leistungsstarke Lithium-Ionen-Akku mehr Ausdauer als Spitzensportler - das Ladecase bietet zusätzlich bis zu 32 Std. Power / Wirklich kabellos Musik streamen
+- Smart Akku sparen mit Dual Connect: Musik oder Telefonate können über die Kopfhörer auf einem oder beiden Ohren gehört werden - bei der Nutzung eines Earpods kann der zweite im Case geladen werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08CNPRFZF/?tag=tolees0ca-21)
