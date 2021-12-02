@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Sennheiser CX True Wireless Bluetooth-In mit 37.99 % Rabatt'
+date: 2021-12-02 06:17:34
+image: 'https://m.media-amazon.com/images/I/31y90k3e2SS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0949GFPV3-de Sennheiser CX True Wireless Bluetooth-In-Ear-Kopfhörer mit...'
+sku: 'B0949GFPV3-de'
+tags: [ 'Elektronik & Foto','In-Ear Ohrhörer','Kopfhörer','Kopfhörer & Zubehör','sennheiser', ]
+actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
+comparePrice: 129.0 EUR
+prodname: 'Sennheiser CX True Wireless Bluetooth-In-Ear-Kopfhörer mit passiver Noise Cancellation  anpassbarer Touch-Bedienung  Bass Boost  Spritzwasserschutz  IPX4  und 27 Stunden Akkulaufzeit  schwarz'
+country: 'de'
+flag: '🇩🇪'
+brand: 'Sennheiser'
+buyurl: 'https://www.amazon.de/dp/B0949GFPV3/?tag=tolees0ca-21'
+descuento: '37.99'
+average: '90.2057142857142'
+---
+
+Sie können [Sennheiser CX True Wireless Bluetooth-In-Ear-Kopfhörer mit passiver Noise Cancellation  anpassbarer Touch-Bedienung  Bass Boost  Spritzwasserschutz  IPX4  und 27 Stunden Akkulaufzeit  schwarz](https://www.amazon.de/dp/B0949GFPV3/?tag=tolees0ca-21) mit Preis 79.99 EUR (original: 129.0 EUR) 37.99 % Rabatt hier:
+
+[![Sennheiser CX True Wireless Bluetooth-In](https://m.media-amazon.com/images/I/31y90k3e2SS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0949GFPV3/?tag=tolees0ca-21)
+
+ℹ️:
+
+- Passive Noise Cancellation, geringes Gewicht und ergonomisches Design für höchsten Tragekomfort, die im Lieferumfang enthaltenen Ohradapter in vier unterschiedlichen Größen garantieren eine sichere Passform sowie eine hervorragende passive Noise Cancellation
+- Überdurchschnittlich lange Akkulaufzeit: Bis zu 27 Stunden Musikwiedergabe dank der hochwertigen im Lieferumfang enthaltenen Ladebox
+- Erlebe außergewöhnlichen Klang der Extraklasse: Der in Deutschland gefertigte dynamische 7-mm-Schallwandler mit TrueResponse-Technologie und umfassender Audiocodex-Unterstützung einschließlich AAC, aptX und SBC via Bluetooth garantiert eine exzellente Klangqualität
+- Bass-Boost: Mit dem integrierten Equalizer kannst du dich mit einem satten, dynamischen Bass in Stimmung bringen lassen. Jahrzehntelange Erfahrung hat Sennheiser zu einem einzigartigen Unternehmen gemacht, das neue Maßstäbe im Bereich der Audiotechnologie setzt
+- Digitale Steuerung via App: Mit unserer Smart Control App für iOS und Android kannst du alle Funktionen der Ohrhörer individuell an deine Bedürfnisse und Vorlieben anpassen. Sie ermöglicht eine schnelle, stabile Bluetooth-Verbindung und überzeugt durch vielfältige Optionen für die Musikwiedergabe, Anrufe sowie Konnektivität mit dem Sprachassistenten
+
+[🛒 Hier!!](https://www.amazon.de/dp/B0949GFPV3/?tag=tolees0ca-21)
