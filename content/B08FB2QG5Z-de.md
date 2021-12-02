@@ -28,9 +28,9 @@ Sie können [JBL Live Free NC+ TWS – Kabellose In-Ear-Kopfhörer mit Noise Can
 
 ℹ️:
 
+- Dank Ambient Aware-Funktion können relevante Umgebungsgeräusche trotz Kopfhörer wahrgenommen werden / Die TalkThru-Technologie ermöglicht die Unterhaltung, ohne die Hörer abnehmen zu müssen
 - Lieferumfang: 1 x Live Free NC+ TWS Bluetooth Kopfhörer in Schwarz von JBL / Inkl. Ladekabel, Ladebox, 3 Ohrstöpseln (S,M,L) & Gelkappen in 2 Größen / Kompatibel mit Alexa und Google Assistant
 - Der ideale Trainingspartner: Dank der IPX7-Schutzklasse ist der JBL LIVE Free NC+TWS der perfekte Entertainer beim Sport, egal bei welchem Wetter - Schweiß und Wasser haben keine Chance!
-- Dank Ambient Aware-Funktion können relevante Umgebungsgeräusche trotz Kopfhörer wahrgenommen werden / Die TalkThru-Technologie ermöglicht die Unterhaltung, ohne die Hörer abnehmen zu müssen
 - Frei von Ablenkungen Musik hören: Mit den komplett kabellosen In-Ear-Kopfhörer werden Umgebungsgeräusche und Ablenkungen ausgeblendet - hier steht die Musik mit erstklassigem Sound im Vordergrund
 - Der leistungsstarke Akku ermöglicht bis zu 7 Stunden Wiedergabezeit / Über die Ladebox sind 14 weitere Stunden Musikgenuss möglich / Mit Speed Charge und via Qi einfach kabellos unterwegs aufladen
 
