@@ -29,9 +29,9 @@ Sie können [Pelikan 817486 Roller Pura  Waldgrün  1 Stück inklusive Großraum
 ℹ️:
 
 - 100% recyclebares Metall, made in Germany
-- Farbe: Waldgrün; Mine: nach ISO 12757-2 dokumentenechte Paste
 - ergonomisch ausbalanciertes Gewicht
-- kratzfest veredeltes Aluminium, robuster Edelstahlclip
 - Laser- und Gravurfähig, 1 Stück
+- Farbe: Waldgrün; Mine: nach ISO 12757-2 dokumentenechte Paste
+- kratzfest veredeltes Aluminium, robuster Edelstahlclip
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08LDSJ5Y5/?tag=tolees0ca-21)

@@ -28,9 +28,9 @@ Es gibt ein [Pelikan 817462 Roller Pura  Bordeaux  1 Stück inklusive Großraumm
 
 ℹ️:
 
+- Laser- und Gravurfähig, 1 Stück
 - ergonomisch ausbalanciertes Gewicht
 - Farbe: Bordeaux; Mine: nach ISO 12757-2 dokumentenechte Paste
-- Laser- und Gravurfähig, 1 Stück
 - kratzfest veredeltes Aluminium, robuster Edelstahlclip
 - 100% recyclebares Metall, made in Germany
 
