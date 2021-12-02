@@ -29,8 +29,8 @@ Sie können [Tamaris Damen 1-1-25253-25 Stiefelette  braun  36 EU](https://www.a
 ℹ️:
 
 - Sohle: Synthetik
+- Obermaterial: Wildleder
 - Innenmaterial: Leder
 - Verschluss: Reißverschluss
-- Obermaterial: Wildleder
 
 [🛒 Hier!!](https://www.amazon.de/dp/B084FFL4L1/?tag=tolees0ca-21)

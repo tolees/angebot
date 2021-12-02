@@ -28,10 +28,10 @@ Sie können [Learning Resources LER6216 Super Sortierkuchen ](https://www.amazon
 
 ℹ️:
 
-- Perfekt zum Fördern früher Rechenfertigkeiten.
+- Regt Kinder zum Zählen an.
+- Unterstützt die Entwicklung feinmotorischer Fertigkeiten.
 - Mit Spielvorschlägen.
 - Fördert die Erkennung von Farben.
-- Unterstützt die Entwicklung feinmotorischer Fertigkeiten.
-- Regt Kinder zum Zählen an.
+- Perfekt zum Fördern früher Rechenfertigkeiten.
 
 [🛒 Hier!!](https://www.amazon.de/dp/B004DJ51WQ/?tag=tolees0ca-21)
