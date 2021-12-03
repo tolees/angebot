@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Your Name. - mit 21.93 % Rabatt'
-date: 2021-12-02 20:43:27
+date: 2021-12-03 21:49:56
 image: 'https://m.media-amazon.com/images/I/51p1LwYEt2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B0788XQ1HM/?tag=tolees0ca-21'
 descuento: '21.93'
-average: '10.02'
+average: '9.67'
 ---
 
 Sie können [LEONINE Distribution GmbH - Your Name. - Gestern  heute und für immer](https://www.amazon.de/dp/B0788XQ1HM/?tag=tolees0ca-21) mit Preis 8.97 EUR (original: 11.49 EUR) 21.93 % Rabatt hier:
