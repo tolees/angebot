@@ -28,12 +28,12 @@ Sie können [PocketBook e-Book Reader  Touch Lux 4   8 GB Speicher; 15 24 cm  6 
 
 ℹ️:
 
-- 6 Zoll (15,24 cm) großes E Ink Carta HD-Display mit 16 Graustufen
-- Unterstützung von 19 Buch- und vier Bildformate ohne Konvertierung (inkl. Comicformate CBR und CBZ)
-- Integriertes WLAN, um Inhalte direkt an das Gerät zu senden, ohne eine Verbindung zum PC herstellen zu müssen
-- Höchste Ergonomie für stundenlanges Lesen dank Touchscreen und Blättertasten
 - Integrierte Vordergrundbeleuchtung für ein komfortables Leseerlebnis jederzeit und überall
-- Freie Tastenkonfiguration, komfortables Blättern für Links- und Rechtshänder
+- Integriertes WLAN, um Inhalte direkt an das Gerät zu senden, ohne eine Verbindung zum PC herstellen zu müssen
 - Volle Unterstützung der ONLEIHE Ihrer öffentlichen Bibliothek
+- Unterstützung von 19 Buch- und vier Bildformate ohne Konvertierung (inkl. Comicformate CBR und CBZ)
+- 6 Zoll (15,24 cm) großes E Ink Carta HD-Display mit 16 Graustufen
+- Freie Tastenkonfiguration, komfortables Blättern für Links- und Rechtshänder
+- Höchste Ergonomie für stundenlanges Lesen dank Touchscreen und Blättertasten
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07GJVH9GN/?tag=tolees0ca-21)

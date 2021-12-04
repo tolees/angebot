@@ -30,8 +30,8 @@ Es gibt ein [Diesel Herren Mega Chief Chronograph  51 mm Gehäusegröße  Edelst
 
 - 51-mm-Gehäuse, Mineralglas, Quarzwerk, analoge Chronographenanzeige, 26-mm-Bandbreite
 - Rundes, silberfarbenes Edelstahlgehäuse mit schwarzem Zifferblatt
-- In einer Diesel Geschenkbox
 - Schwarz und grau, Nylonband
+- In einer Diesel Geschenkbox
 - Wasserdicht bis zu 100 m: Tragbar beim Baden, Schwimmen, Schnorcheln und Tauchen im flachen Wasser
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZDN4L2W/?tag=tolees0ca-21)

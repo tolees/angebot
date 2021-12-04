@@ -29,9 +29,9 @@ Es gibt ein [HUGO Mens Mintrax2041 Dress Coat  Dark Blue  405   98](https://www.
 ℹ️:
 
 - Schonende Reinigung P
-- Nicht waschen
 - Buegeln geringe Hitze Stufe 1
 - Nicht im Waeschetrockner trocknen
+- Nicht waschen
 - Nicht bleichen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0846JMHMK/?tag=tolees0ca-21)

@@ -28,11 +28,11 @@ Sie können [WELEDA Bio Arnika Massage-Öl 200 ml - pflegendes Naturkosmetik Kö
 
 ℹ️:
 
-- Angenehmer Duft: Angenehm aktivierend ist der natürliche Lavendel- und Rosmarinduft. Masseure und Sportler schätzen das Arnika-Massageöl
-- Hält die Haut elastisch: Die Komposition mit Auszügen aus Arnikablüten und Birkenblättern, sowie Sonnenblumen- und Olivenöl kräftigt die Hautfunktionen und hält die Haut elastisch
-- Lieferumfang: 1 x WELEDA Arnika Massage für Männer und Frauen
 - Verpackung Kann variieren
-- Fördert die Durchblutung: Eine wärmende Massage vor und nach dem Sport mit Weleda Arnika-Massage-Öl fördert die Durchblutung, lockert die Muskulatur und schützt so vor unangenehmen Muskelkater
 - Höchste WELEDA Qualität: Die Heilpflanze Arnika wirkt bei Prellungen und Verstauchungen und wird in den Höhenlagen der rumänischen Karpaten schonend gesammelt
+- Lieferumfang: 1 x WELEDA Arnika Massage für Männer und Frauen
+- Angenehmer Duft: Angenehm aktivierend ist der natürliche Lavendel- und Rosmarinduft. Masseure und Sportler schätzen das Arnika-Massageöl
+- Fördert die Durchblutung: Eine wärmende Massage vor und nach dem Sport mit Weleda Arnika-Massage-Öl fördert die Durchblutung, lockert die Muskulatur und schützt so vor unangenehmen Muskelkater
+- Hält die Haut elastisch: Die Komposition mit Auszügen aus Arnikablüten und Birkenblättern, sowie Sonnenblumen- und Olivenöl kräftigt die Hautfunktionen und hält die Haut elastisch
 
 [🛒 Hier!!](https://www.amazon.de/dp/B00D3HXGIA/?tag=tolees0ca-21)

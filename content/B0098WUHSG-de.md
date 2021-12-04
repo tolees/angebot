@@ -29,9 +29,9 @@ Es gibt ein [Elli Halskette Damen Basic Solitär mit Kristall in 925 Sterling Si
 ℹ️:
 
 - Ob festlich oder leger, der Silberschmuck wird begeistern. Ein perfekter Begleiter für den Alltag und ein Must-Have für jede moderne Frau
-- Das ideale Geschenk für die Frau oder Freundin. Das Schmuckstück eignet sich besonders gut als Geschenk für den Muttertag, zu Weihnachten, zum Geburtstag, zum Valentinstag, zur Verlobung oder zum Jahrestag. In türkiser Verpackung aus Samt geliefert
-- Dieses Silber Schmuckstück ist mit Kristallen besetzt und lässt jedes Herz höher schlagen
 - Klassische Halskette aus 925 Sterling Silber
+- Dieses Silber Schmuckstück ist mit Kristallen besetzt und lässt jedes Herz höher schlagen
 - Designed in Deutschland - Dieses handgefertigte Silber Schmuckstück ist anlaufgeschützt, hochglanzpoliert und in hochwertiger Juweliersqualität gefertigt. Traumhafter Echtschmuck für alle, die Wert auf hochwertige Qualität legen
+- Das ideale Geschenk für die Frau oder Freundin. Das Schmuckstück eignet sich besonders gut als Geschenk für den Muttertag, zu Weihnachten, zum Geburtstag, zum Valentinstag, zur Verlobung oder zum Jahrestag. In türkiser Verpackung aus Samt geliefert
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0098WUHSG/?tag=tolees0ca-21)

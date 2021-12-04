@@ -30,10 +30,10 @@ Es gibt ein [LEDVANCE Smart+ Outdoor LED Streifen  ZigBee  Warmweiß bis Kaltwei
 
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 - Individuelle Lichtatmosphäre -> Steuern der Farbtemperatur von warmweiß (2700 K) bis tageslichtweiß (6500 K), Dimmen und RGB Farbwechsel - ganz einfach über die App, per Sprachkommando oder auch aus der Ferne
-- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
-- ZigBee Produkt -> Erweitern Sie Ihr Smart Home: Direkt steuerbar über Echo Show und Echo Plus. Für die Nutzung mit Echo, Echo Dot und Echo Spot ist ein zusätzliches Gateway nötig.
-- Flexible, einfache Montage -> innen und außen - Befestigung mit anschraubbaren Halteklammern für eine indirekte Beleuchtung ganz nach Ihren Wünschen - dank Schutzart IP65 auch ideal für den Außenbereich geeignet
 - Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
+- ZigBee Produkt -> Erweitern Sie Ihr Smart Home: Direkt steuerbar über Echo Show und Echo Plus. Für die Nutzung mit Echo, Echo Dot und Echo Spot ist ein zusätzliches Gateway nötig.
+- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
+- Flexible, einfache Montage -> innen und außen - Befestigung mit anschraubbaren Halteklammern für eine indirekte Beleuchtung ganz nach Ihren Wünschen - dank Schutzart IP65 auch ideal für den Außenbereich geeignet
 - geringer Stromverbrauch -> energiesparende 21 W LED mit A und einer Lichtleistung von 1500 Lumen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07MJTJQP4/?tag=tolees0ca-21)
