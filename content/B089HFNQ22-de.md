@@ -28,9 +28,9 @@ Es gibt ein [ASUS Prime B550M-A  Wi-Fi  Gaming Mainboard Sockel AM4  micro ATX  
 
 ℹ️:
 
-- AMD-AM4-Sockel: Bereit für AMD-Ryzen- Prozessoren der 3. Generation
-- VRM-Kühler, PCH-Kühler, und Fan Xpert 2+
-- Aura Sync RGB: Integrierte, Adressierbare Gen-2-Header für RGB-LED-Leuchtstreifen, ganz einfach synchronisierbar mit Aura-Sync-fähiger Hardware
 - Zwei M.2-Steckplätze, PCIe 4.0, 1Gbit/s-Ethernet, USB 3.2 Gen 2 Typ-A
+- AMD-AM4-Sockel: Bereit für AMD-Ryzen- Prozessoren der 3. Generation
+- Aura Sync RGB: Integrierte, Adressierbare Gen-2-Header für RGB-LED-Leuchtstreifen, ganz einfach synchronisierbar mit Aura-Sync-fähiger Hardware
+- VRM-Kühler, PCH-Kühler, und Fan Xpert 2+
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B089HFNQ22/?tag=tolees0ca-21)
