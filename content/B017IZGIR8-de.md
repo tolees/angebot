@@ -28,9 +28,9 @@ Es gibt ein [Siemens EX845LYC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 79 
 
 ℹ️:
 
-- Farbe: Schwarz
-- Packung die Größe: 13.5 L x 95.5 H x 61.0 W (cm)
-- Material: Glaskeramik
 - Packung Weight: 19.8 kg
+- Material: Glaskeramik
+- Packung die Größe: 13.5 L x 95.5 H x 61.0 W (cm)
+- Farbe: Schwarz
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B017IZGIR8/?tag=tolees0ca-21)

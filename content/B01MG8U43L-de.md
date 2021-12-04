@@ -29,9 +29,9 @@ Sie können [Invicta Grand Diver 21867 Herrenuhr  47 mm](https://www.amazon.de/d
 ℹ️:
 
 - Dieses Modell ist von der Invicta Grand Diver Kollektion
-- Dieses Modell wird von einem präzisen Automatikuhr angetrieben
 - Das Invicta 21867 hat ein 47 mm Edelstahl gehäuse mit einem schwarzen Zifferblatt
-- 30 bar Wasserdichtigkeitszertifizierung
 - 2 Jahre Garantie
+- Dieses Modell wird von einem präzisen Automatikuhr angetrieben
+- 30 bar Wasserdichtigkeitszertifizierung
 
 [🛒 Hier!!](https://www.amazon.de/dp/B01MG8U43L/?tag=tolees0ca-21)
