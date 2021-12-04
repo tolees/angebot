@@ -28,10 +28,10 @@ Es gibt ein [Brennenstuhl Premium-Alu-Line  Steckdosenleiste 4-Fach - Steckerlei
 
 ℹ️:
 
-- Steckerleiste eignet sich ideal für Büro, Industrie, Handwerk, Privat um PC, Drucker, Modem, etc anzuschließen
-- 4er Schutzkontakt-Steckdosenleiste mit 1,8m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
 - Steckdosenleiste in formschönem, zeitlosem, stabilem Gehäuse aus Aluminium mit unempfindlicher, matt eloxierter Oberfläche - extra robust
-- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
+- 4er Schutzkontakt-Steckdosenleiste mit 1,8m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
 - Lieferumfang: 1 x Premium-Alu-Line Steckdosenleiste in der Farbe silber/schwarz - in bester Qualität von brennenstuhl
+- Steckerleiste eignet sich ideal für Büro, Industrie, Handwerk, Privat um PC, Drucker, Modem, etc anzuschließen
+- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000MQC8D4/?tag=tolees0ca-21)
