@@ -28,7 +28,7 @@ Es gibt ein [BOULEZ PIERRE/CHÉREAU PATRICE/OBF - Wagner: Der Ring des Nibelunge
 
 ℹ️:
 
-- Country Of Release: NLD
 - Year Of Release: 2005
+- Country Of Release: NLD
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0009F2EPU/?tag=tolees0ca-21)
