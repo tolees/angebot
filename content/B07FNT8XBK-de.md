@@ -28,13 +28,13 @@ Es gibt ein [LEGO 11001 Classic Bausteine - Erster Bauspaß  Baukasten mit LEGO 
 
 ℹ️:
 
-- Geh auf LEGO.com/classic, um dir noch mehr Bauanleitungen, Bauideen und Anregungen zu holen.
-- Lass deiner Kreativität mit den LEGO Classic Sets freien Lauf!
-- Mit bunten LEGO Elementen für grenzenlos kreatives Spielen.
-- Baue einen Dinosaurier, ein Keyboard, ein Haus, eine Eisenbahn oder was auch immer du dir vorstellen kannst!
-- Enthält LEGO Steine, Augen, Räder und Scharniere für einfache Modelle.
-- Dieses Set enthält über 120 Teile.
 - Dieses Set bietet Kindern ab 4 Jahren ein altersgerechtes Bau- und Spielerlebnis.
+- Lass deiner Kreativität mit den LEGO Classic Sets freien Lauf!
+- Enthält LEGO Steine, Augen, Räder und Scharniere für einfache Modelle.
+- Mit bunten LEGO Elementen für grenzenlos kreatives Spielen.
 - Ideales LEGO Starterset für kreative Kinder.
+- Geh auf LEGO.com/classic, um dir noch mehr Bauanleitungen, Bauideen und Anregungen zu holen.
+- Dieses Set enthält über 120 Teile.
+- Baue einen Dinosaurier, ein Keyboard, ein Haus, eine Eisenbahn oder was auch immer du dir vorstellen kannst!
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNT8XBK/?tag=tolees0ca-21)
