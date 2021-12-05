@@ -28,11 +28,11 @@ Sie können [LEGO 41904 DOTS Foto Würfel](https://www.amazon.de/dp/B07XCXPCL7/?
 
 ℹ️:
 
+- Vom Hersteller empfohlenes Alter: 6+
 - Anzahl der Teile: 423
 - Foto Würfel
-- Die Steinchen können für coole Designs benutzt und mit anderen DOTS Sets kombiniert werden!
-- Vom Hersteller empfohlenes Alter: 6+
 - Vom Hersteller nicht mehr verkauft
 - Designspaß ohne Grenzen fördert die Kreativität.
+- Die Steinchen können für coole Designs benutzt und mit anderen DOTS Sets kombiniert werden!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07XCXPCL7/?tag=tolees0ca-21)

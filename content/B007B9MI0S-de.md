@@ -28,11 +28,11 @@ Es gibt ein [Crocs Unisex Crocband Clogs  Charcoal Ocean  42/43 EU](https://www.
 
 ℹ️:
 
-- Verschluss: Ohne Verschluss; Größenhinweis: Fällt regulär aus
-- Obermaterial: Synthetik
-- Sohlengrößen sind US. Label zeigt UK. M = Herren W = Damen
 - Futter: ohne Futter
-- Sohlenmaterial: Gummi
 - Absatzform: Flach; Materialzusammensetzung: 100 % Croslite
+- Verschluss: Ohne Verschluss; Größenhinweis: Fällt regulär aus
+- Sohlenmaterial: Gummi
+- Sohlengrößen sind US. Label zeigt UK. M = Herren W = Damen
+- Obermaterial: Synthetik
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B007B9MI0S/?tag=tolees0ca-21)

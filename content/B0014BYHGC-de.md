@@ -28,9 +28,9 @@ Es gibt ein [Crocs Unisex Classic Clog  Black  42/43 EU](https://www.amazon.de/d
 
 ℹ️:
 
-- Obermaterial: Gummi
-- Sohle: Synthetische
 - Verschluss: Ohne Verschluss
 - Absatzhöhe: 1 Zoll
+- Obermaterial: Gummi
+- Sohle: Synthetische
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0014BYHGC/?tag=tolees0ca-21)

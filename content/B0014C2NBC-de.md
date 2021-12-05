@@ -28,9 +28,9 @@ Es gibt ein [Crocs Unisex Classic Clog  Black  38/39 EU](https://www.amazon.de/d
 
 ℹ️:
 
-- Obermaterial: Gummi
 - Innenmaterial: Ohne Futter
-- Verschluss: Ohne Verschluss
+- Obermaterial: Gummi
 - Sohle: Gummi
+- Verschluss: Ohne Verschluss
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B0014C2NBC/?tag=tolees0ca-21)
