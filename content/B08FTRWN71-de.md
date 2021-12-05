@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany GmbH - Duell  mit 24.04 % Rabatt'
-date: 2021-12-04 01:26:01
+date: 2021-12-05 05:46:20
 image: 'https://m.media-amazon.com/images/I/41VwrhKXrxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B08FTRWN71/?tag=tolees0ca-21'
 descuento: '24.04'
-average: '23.7383333333333'
+average: '23.2'
 ---
 
 Sie können [Universal Pictures Germany GmbH - Duell - LIMITED STEELBOOK  japanisches Artwork  deutscher Inhalt  [Blu-ray]  exklusiv bei Amazon.de ](https://www.amazon.de/dp/B08FTRWN71/?tag=tolees0ca-21) mit Preis 19.97 EUR (original: 26.29 EUR) 24.04 % Rabatt hier:
