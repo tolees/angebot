@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '70.02 % rabat auf Crocs Unisex Classic Clog  Black  46/47 '
-date: 2021-12-05 17:48:44
+date: 2021-12-06 18:01:35
 image: 'https://m.media-amazon.com/images/I/31pJitKrjTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Crocs'
 buyurl: 'https://www.amazon.de/dp/B0014C2NKS/?tag=tolees0ca-21'
 descuento: '70.02'
-average: '21.34'
+average: '20.6207692307692'
 ---
 
 Es gibt ein [Crocs Unisex Classic Clog  Black  46/47 EU](https://www.amazon.de/dp/B0014C2NKS/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 39.99 EUR) 70.02 % Rabatt hier:
