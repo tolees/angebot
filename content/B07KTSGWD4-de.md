@@ -29,9 +29,9 @@ Es gibt ein [Lego Friends - Lego 41381 Friends Boot für Rettungsaktionen und Le
 ℹ️:
 
 - 908 Teile – Für Mädchen und Jungen ab 7 Jahren, für Fans und für große Kinder jeden Alters
-- Das LEGO Boot ist 17 cm hoch, 40 cm lang und 12 cm breit. Das Schnellboot ist 3 cm hoch, 9 cm lang und 5 cm breit.
-- Für noch mehr kreativen Bauspaß kann das Bauspielzeug „Boot für Rettungsaktionen“ (41381) von LEGO Friends zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - Das Spielset enthält 3 Spielfiguren: Olivia, Andrea und Mia sowie Zobo, den Roboter, und eine Wal-Figur
+- Für noch mehr kreativen Bauspaß kann das Bauspielzeug „Boot für Rettungsaktionen“ (41381) von LEGO Friends zusammen mit allen anderen LEGO Originalsets und LEGO Steinen verwendet werden
 - Das ultimativen LEGO Rettungsboot bietet eine Menge interessanter Funktionen – z. B. einen schwenkbaren Kran, ein abnehmbares Deck und ein Schnellboot mit Startfunktion
+- Das LEGO Boot ist 17 cm hoch, 40 cm lang und 12 cm breit. Das Schnellboot ist 3 cm hoch, 9 cm lang und 5 cm breit.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07KTSGWD4/?tag=tolees0ca-21)

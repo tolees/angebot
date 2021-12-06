@@ -28,10 +28,10 @@ Es gibt ein [Rotbäckchen Immunstark  6er Pack  6 x 700ml ](https://www.amazon.d
 
 ℹ️:
 
-- Mehrfrucht-Direktsaft
-- Rohstoffe von höchster Qualität werden naturbelassen und besonders schonend verarbeitet.
-- Mit Zink und Vitamin C zur Unterstützung des Immunsystems.
-- vegan
 - Für Groß und Klein mit Liebe und Sorgfalt hergestellt.
+- Mit Zink und Vitamin C zur Unterstützung des Immunsystems.
+- Rohstoffe von höchster Qualität werden naturbelassen und besonders schonend verarbeitet.
+- vegan
+- Mehrfrucht-Direktsaft
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00HEBWM0E/?tag=tolees0ca-21)
