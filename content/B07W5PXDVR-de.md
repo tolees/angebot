@@ -28,10 +28,10 @@ Sie können [LEGO 41391 Friends Friseursalon von Heartlake City Set mit Mini Pup
 
 ℹ️:
 
+- Enthält Zubehörständer, Schere, Pinsel, Tiara, Schleife, Handfön, Shampooflasche und Haarspray, sowie Kaffee und Kekse für den Kunden!
+- Zu dem Zubehör von diesem Spielset gehören auch eine Kaffeemaschine und ein Besen, sowie ein Frisurenkatalog, genau wie in einem echten Salon
 - Dieses Spielzeug ab 6 Jahren ermöglicht den Kindern, die Mini Puppen bei dem Friseur zu beobachten und viel Spaß dabei zu haben, alleine oder mit Freunden!
 - Enthält 2 Mini Puppen – Emma und die Stylistin Nina, mit verschiedenen Perücken. Die Mini Puppen haben abnehmbare Köpfen und bewegliche Oberkörperteilen
-- Zu dem Zubehör von diesem Spielset gehören auch eine Kaffeemaschine und ein Besen, sowie ein Frisurenkatalog, genau wie in einem echten Salon
 - Das Friseur Spielzeug beinhaltet zwei Stühle, darunter ein mit dem Haartrockner, ein Haarwaschbecken, eine Kasse und ein Ständer für Friseurzubehör
-- Enthält Zubehörständer, Schere, Pinsel, Tiara, Schleife, Handfön, Shampooflasche und Haarspray, sowie Kaffee und Kekse für den Kunden!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07W5PXDVR/?tag=tolees0ca-21)

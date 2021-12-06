@@ -28,10 +28,10 @@ Sie können [Bosch Professional Winkelschleifer GWS 880  880 Watt  Scheiben-Ø: 
 
 ℹ️:
 
+- Lieferumfang: GWS 880, Karton
 - Einfache Anwendung an engen Stellen dank des kompakten Getriebegehäuses
+- Optimale Werkzeugkontrolle durch kleinen Griffumfang und ergonomisches Design
 - Die robuste Bauweise sorgt für besonders lange Lebensdauer des Winkelschleifers
 - Der Winkelschleifer GWS 880 von Bosch Professional mit 880 Watt und 125 mm Scheibendurchmesser
-- Lieferumfang: GWS 880, Karton
-- Optimale Werkzeugkontrolle durch kleinen Griffumfang und ergonomisches Design
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07BRS1KXS/?tag=tolees0ca-21)

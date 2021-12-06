@@ -28,9 +28,9 @@ Es gibt ein [Ghost of Tsushima - Standard Edition - [PlayStation 4]](https://www
 
 ℹ️:
 
-- In diesem Open-World-Action-Adventure durchstreifst du riesige Landschaften und weites Gelände, um komplexe Charaktere zu treffen, auf alte Sehenswürdigkeiten zu stoßen und die verborgene Schönheit von Tsushima zu entdecken.
 - Jetzt vorbestellen und Boni sichern:- Digitaler Mini-Soundtrack von Ghost of Tsushima, Dynamisches Design „Ghost of Tsushima – Jin“ und Avatar „Ghost of Tsushima – Jin“
-- Fordere Gegner in packenden Samuraikämpfen mit deinem Katana heraus, meistere den Bogen gegen ferne Bedrohungen und entwickle Tarntaktiken.
 - Jin Sakai muss mit den Samuraitraditionen brechen, den Weg des Geisteseinschlagen und einen unkonventionellen Krieg um die Freiheit von Tsushima führen.
+- Fordere Gegner in packenden Samuraikämpfen mit deinem Katana heraus, meistere den Bogen gegen ferne Bedrohungen und entwickle Tarntaktiken.
+- In diesem Open-World-Action-Adventure durchstreifst du riesige Landschaften und weites Gelände, um komplexe Charaktere zu treffen, auf alte Sehenswürdigkeiten zu stoßen und die verborgene Schönheit von Tsushima zu entdecken.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07DPJWRX8/?tag=tolees0ca-21)

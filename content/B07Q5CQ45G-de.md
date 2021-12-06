@@ -29,9 +29,9 @@ Sie können [Bethesda - Wolfenstein Youngblood - Deluxe Edition  Deutsche Versio
 ℹ️:
 
 - Youngblood ist das bisher freieste Wolfenstein-Spiel aller Zeiten!
-- Nutzen Sie die fortschrittlichsten Motorrüstungen, Waffen und Panzerungen, um den Nazis den Garaus zu machen!
-- Erleben Sie die 80er Jahre in einem von Nazis besetzten Paris!
-- Wolfenstein: Youngblood ist das erste moderne Koop-Wolfenstein-Abenteuer! Erleben Sie das Abenteuer mit einem Freund oder spielen Sie an der Seite eines KI-Begleiters.
 - Die Deluxe Edition beinhaltet u.a. den Buddy Pass, mit dem Sie und ein Freund das Spiel zusammen erleben können. Nur Sie benötigen dafür das Spiel!
+- Wolfenstein: Youngblood ist das erste moderne Koop-Wolfenstein-Abenteuer! Erleben Sie das Abenteuer mit einem Freund oder spielen Sie an der Seite eines KI-Begleiters.
+- Erleben Sie die 80er Jahre in einem von Nazis besetzten Paris!
+- Nutzen Sie die fortschrittlichsten Motorrüstungen, Waffen und Panzerungen, um den Nazis den Garaus zu machen!
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07Q5CQ45G/?tag=tolees0ca-21)
