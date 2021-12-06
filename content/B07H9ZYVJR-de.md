@@ -28,9 +28,9 @@ Sie können [JAKO Jungen Funktion Neckwarmer  Schwarz  Einheitsgröße](https://
 
 ℹ️:
 
-- Gewebeart: 90% Polyester, 10% Elasthan
 - Farbe: schwarz
-- Herkunftsland:- China
 - Verpackungsabmessungen (L x B x H): 13.0 x 20.0 x 2.0 Zm
+- Gewebeart: 90% Polyester, 10% Elasthan
+- Herkunftsland:- China
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07H9ZYVJR/?tag=tolees0ca-21)

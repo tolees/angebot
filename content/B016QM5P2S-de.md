@@ -28,7 +28,7 @@ Es gibt ein [Tommy Hilfiger Herren CORE DENTON STRAIGHT CHINO Hose  Beige  Batiq
 
 ℹ️:
 
-- Chino
 - Gerade
+- Chino
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016QM5P2S/?tag=tolees0ca-21)

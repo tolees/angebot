@@ -28,10 +28,10 @@ Es gibt ein [Western Digital - WD Elements Portable  externe Festplatte - 1 5 TB
 
 ℹ️:
 
-- Sichern Sie all ihren Fotos, Videos, Dokumente und Musikdateien an einem Ort und nehmen Sie diese überall hin mit. Die WD Elements externe Festplatte 1TB bietet Ihnen viel Platz für all ihre Daten.
 - Lieferumfang: WD Elements externe Festplatte 1, 5 TB (USB 3. 0-Schnittstelle, Plug-and-Play, kompakt und leicht) schwarz; 2 Jahre
-- Speziell bei USB 3. 0-Ports werden sehr schnelle Übertragungsraten erreicht. Die WD externe Festplatte ist für Windows vorformatiert. Für andere Betriebssysteme ist eventuell eine Umformatierung nötig.
+- Sichern Sie all ihren Fotos, Videos, Dokumente und Musikdateien an einem Ort und nehmen Sie diese überall hin mit. Die WD Elements externe Festplatte 1TB bietet Ihnen viel Platz für all ihre Daten.
 - Mit der WD Elements externen Festplatte müssen Sie sich nie wieder Sorgen um zu wenig Speicherplatz machen. Für Windows ausgelegt, für andere Systeme kann eine Umformatierung erforderlich sein.
 - Stößt der interne Speicher an seine Kapazitätsgrenzen wird der PC langsamer. Wenn Sie die Daten von ihren internen Speicher auf die HDD Festplatte übertragen können Sie die Leistung ihres PCs erhöhen.
+- Speziell bei USB 3. 0-Ports werden sehr schnelle Übertragungsraten erreicht. Die WD externe Festplatte ist für Windows vorformatiert. Für andere Betriebssysteme ist eventuell eine Umformatierung nötig.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06XDKWLJH/?tag=tolees0ca-21)

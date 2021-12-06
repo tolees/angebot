@@ -29,11 +29,11 @@ Es gibt ein [Netgear - MEURAL Canvas II MC327BL Smart Art Digitale HD-Leinwand 4
 ℹ️:
 
 - HORIZONTAL ODER VERTIKAL AUFHÄNGEN: Meural Canvas II erkennt automatisch die Ausrichtung -- mit der Schwenkhalterung (separat erhältlich) ist es einfach, zwischen einer horizontalen oder vertikalen Anzeige zu wechseln.
-- LEIDENSCHAFT FÜR DIE KUNST: Meural Canvas II vereint modernes Design, modernste Technologie und Leidenschaft für Kunst auf der ganzen Welt, wodurch Sie mehr von dem, was Sie lieben, in lebensechten Details entdecken und präsentieren können.
-- ENDLOSE DIGITALE BIBLIOTHEK: Mit einer Meural-Mitgliedschaft (separat erhältlich) bringen Sie Meurals endlose Bibliothek und mit ihr die Museen und Galerien der Welt mit ihren mehr als 30.000 ikonenhaften und neu entstehenden Kunstwerken an Ihre Wände.
-- MODERN TRIFFT KLASSISCHES DESIGN: Meural Canvas II ist in 2 Größen (21,5" / 54 cm Diagonale, Rahmenaußenmaße 41 x 61 x 3,5 cm oder 27" / 68 cm Diagonale, 48 x 74 x 3,5 cm) und 4 Farben (schwarz, dunkles Walnuß, Birke, weiß) erhältlich
-- PATENTIERTE TRUEART-TECHNOLOGIE: Mit der TrueArt-Technologie bietet Meural Canvas II ein mit WLAN verbundenes 1080p HD-Display mit blendfreier Oberfläche und einstellbarer Hintergrundbeleuchtung, um lebensechte Kunst in jeden Winkel zu liefern.
 - EINFACH ZU BEDIENEN: Es ist ganz einfach, schwenken Sie einfach die Hand oder tippen Sie auf die Meural App (verfügbar unter iOS oder Android), um Kunst zu entdecken, Ihre Leinwand zu personalisieren, die Präsentationszeiten zu planen oder die Einstellungen anzupassen. Oder entspannen Sie sich und nutzen Sie die unterstützten Sprachsteuerungen (wie etwa Alexa), um ein neues Meisterwerk zu finden.
 - PRÄSENTIEREN SIE IHRE EIGENEN FOTOS: Laden Sie einfach Ihr eigenes Foto vollständig und mit allen Details hoch, beschneiden und präsentieren Sie es und sparen Sie Druck- und Rahmenkosten.
+- PATENTIERTE TRUEART-TECHNOLOGIE: Mit der TrueArt-Technologie bietet Meural Canvas II ein mit WLAN verbundenes 1080p HD-Display mit blendfreier Oberfläche und einstellbarer Hintergrundbeleuchtung, um lebensechte Kunst in jeden Winkel zu liefern.
+- ENDLOSE DIGITALE BIBLIOTHEK: Mit einer Meural-Mitgliedschaft (separat erhältlich) bringen Sie Meurals endlose Bibliothek und mit ihr die Museen und Galerien der Welt mit ihren mehr als 30.000 ikonenhaften und neu entstehenden Kunstwerken an Ihre Wände.
+- MODERN TRIFFT KLASSISCHES DESIGN: Meural Canvas II ist in 2 Größen (21,5" / 54 cm Diagonale, Rahmenaußenmaße 41 x 61 x 3,5 cm oder 27" / 68 cm Diagonale, 48 x 74 x 3,5 cm) und 4 Farben (schwarz, dunkles Walnuß, Birke, weiß) erhältlich
+- LEIDENSCHAFT FÜR DIE KUNST: Meural Canvas II vereint modernes Design, modernste Technologie und Leidenschaft für Kunst auf der ganzen Welt, wodurch Sie mehr von dem, was Sie lieben, in lebensechten Details entdecken und präsentieren können.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07WC25S8B/?tag=tolees0ca-21)

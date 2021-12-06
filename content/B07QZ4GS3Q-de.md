@@ -28,10 +28,10 @@ Sie können [VAUDE Herren Jacke Idris Wool Parka  black  XXL  41562](https://www
 
 ℹ️:
 
+- Green Shape Label: Mit unserem Green Shape-Label bieten wir Ihnen funktionelle und umweltfreundliche Herrenparkajacken aus nachhaltigen Materialien und sorgen für faire Arbeitsbedingungen
 - Angenehm warm: Die Winterjacke für Herren ist mit einem wärmenden Futter aus Primaloft Black Insulation Eco ausgestattet, die beiden Handwärmetaschen mit Wollfutter sorgen an kalten Wintertagen für angenehm warme Hände
-- Wasserdicht, winddicht und atmungsaktiv: Die wasserdichte Herrenjacke ist mit einer wasser- und winddichten Membran ausgestattet, die zudem atmungsaktiv ist, damit Sie bei Winterregen nicht nass werden
 - Der ideale Partner an kalten Wintertagen: das saubere Design und der ausgezeichnete Komfort machen die Idris Herren-Winterjacke zu einer ausgezeichneten Wahl für kalte Wintertage
 - 2-Lagen Material: Unsere Wollwinterparkajacke für Herren ist nicht nur für kalte Wintertage geeignet, sondern sorgt auch für angenehme Wärme bei Winterwanderungen in der Natur
-- Green Shape Label: Mit unserem Green Shape-Label bieten wir Ihnen funktionelle und umweltfreundliche Herrenparkajacken aus nachhaltigen Materialien und sorgen für faire Arbeitsbedingungen
+- Wasserdicht, winddicht und atmungsaktiv: Die wasserdichte Herrenjacke ist mit einer wasser- und winddichten Membran ausgestattet, die zudem atmungsaktiv ist, damit Sie bei Winterregen nicht nass werden
 
 [🛒 Hier!!](https://www.amazon.de/dp/B07QZ4GS3Q/?tag=tolees0ca-21)

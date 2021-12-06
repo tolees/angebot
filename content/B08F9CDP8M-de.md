@@ -28,12 +28,12 @@ Es gibt ein [Bosch Hausgeräte - Bosch KIF81PFE0 Serie 8 Einbau-Kühlschrank  17
 
 ℹ️:
 
+- EasyAccess Shelf: ausziehbare Glasplatte für bequemes Be- und Entladen und perfekten Überblick.
 - VarioShelf: Platz für Flaschen und Schüsseln durch teilbare und unterschiebbare Glasplatte.
+- LED Beleuchtung: gleichmäßige und blendfreie Ausleuchtung des Kühlraums, mit langer Lebensdauer.
+- SuperKühlen: kühlt neu eingelegte Lebensmittel schneller und bietet so Schutz für bereits Gekühltes.
+- VitaFresh pro 0°C: hält frische Lebensmittel bis zu dreimal länger frisch - dank 0°C-Technik und optimaler Luftfeuchtigkeit
 - Artikelabmessungen (ohne Verpackung) H x B x T (cm): 177,2 x 55,8 x 54,5
 - Flachscharnier (Festtür): feste Verbindung zwischen Möbel- und Gerätetür
-- SuperKühlen: kühlt neu eingelegte Lebensmittel schneller und bietet so Schutz für bereits Gekühltes.
-- EasyAccess Shelf: ausziehbare Glasplatte für bequemes Be- und Entladen und perfekten Überblick.
-- VitaFresh pro 0°C: hält frische Lebensmittel bis zu dreimal länger frisch - dank 0°C-Technik und optimaler Luftfeuchtigkeit
-- LED Beleuchtung: gleichmäßige und blendfreie Ausleuchtung des Kühlraums, mit langer Lebensdauer.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08F9CDP8M/?tag=tolees0ca-21)

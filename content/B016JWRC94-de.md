@@ -28,10 +28,10 @@ Es gibt ein [Bosch Hausgeräte - Bosch TDA302401W Dampfbügeleisen großer Wasse
 
 ℹ️:
 
-- Großer transparenter Wassertank (320 ml) für schnelles und einfaches Befüllen
+- Dampfstoßmenge 150g
 - Dauerdampfmenge 40 g/min
 - Multidirektionale CeraniumGlissée Bügelsohle für schnelles und faltenfreies Bügeln in alle Richtungen
-- Dampfstoßmenge 150g
 - 3AntiCalc: dreifache Reinigungs-Funktion mit SelfClean, CalcnClean und eingebautem AntiCalc System
+- Großer transparenter Wassertank (320 ml) für schnelles und einfaches Befüllen
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B016JWRC94/?tag=tolees0ca-21)
