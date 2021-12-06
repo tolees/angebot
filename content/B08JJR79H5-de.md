@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany GmbH - Dreamw mit 29.71 % Rabatt'
-date: 2021-12-05 14:53:45
+date: 2021-12-06 15:28:16
 image: 'https://m.media-amazon.com/images/I/51dsK8-DoCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B08JJR79H5/?tag=tolees0ca-21'
 descuento: '29.71'
-average: '103.972222222222'
+average: '102.572'
 ---
 
 Sie können [Universal Pictures Germany GmbH - Dreamworks Classics Komplettbox - 40 Filme [40 DVDs]](https://www.amazon.de/dp/B08JJR79H5/?tag=tolees0ca-21) mit Preis 89.97 EUR (original: 127.99 EUR) 29.71 % Rabatt hier:
