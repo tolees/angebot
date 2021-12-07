@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KSM - Arpeggio of Blue Steel: Ars Nova - mit 30.36 % Rabatt'
-date: 2021-12-06 15:02:31
+date: 2021-12-07 15:19:21
 image: 'https://m.media-amazon.com/images/I/51TwPkCq9VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'KSM'
 buyurl: 'https://www.amazon.de/dp/B06XP9KGFH/?tag=tolees0ca-21'
 descuento: '30.36'
-average: '79.5866666666667'
+average: '75.1825'
 ---
 
 Sie können [KSM - Arpeggio of Blue Steel: Ars Nova - Limited Complete Edition  1.000 Stück mit Seriennummer   12 Folgen  [3 DVDs]](https://www.amazon.de/dp/B06XP9KGFH/?tag=tolees0ca-21) mit Preis 61.97 EUR (original: 88.99 EUR) 30.36 % Rabatt hier:
