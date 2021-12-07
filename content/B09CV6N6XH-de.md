@@ -28,9 +28,9 @@ Es gibt ein [NIVEA MEN Active Energy Multipack  erfrischendes Pflegeset für Mä
 
 ℹ️:
 
+- Energy-Kombi – Das Männer Pflegeset mit Gesichtscreme und Reinigungsgel sorgt mit koffeinhaltigen Pflegeprodukten für energiespendende Verwöhnmomente.
 - Mit Koffein – Mit Koffein 100 % natürlicher Quelle sorgt die neue Formel des erfrischenden Gesichtspflege Sets für ein natürliches und gesundes Aussehen.
 - Lieferumfang & Details – NIVEA MEN Active Energy Multipack, NIVEA MEN Active Energy Waschgel (100 ml), NIVEA MEN Active Energy Gesichtspflege Creme (50 ml), Artikelnummer 81390
-- Energy-Kombi – Das Männer Pflegeset mit Gesichtscreme und Reinigungsgel sorgt mit koffeinhaltigen Pflegeprodukten für energiespendende Verwöhnmomente.
 - 1. Gesichtsreinigung – Das NIVEA MEN Active Energy Waschgel reinigt die Haut gründlich, bekämpft Anzeichen von Müdigkeit und lässt die Haut frisch aussehen.
 - 2. Gesichtspflege – Die schnell einziehende NIVEA MEN Active Energy Gesichtspflege Creme erfrischt, spendet Feuchtigkeit und bekämpft Anzeichen von Müdigkeit.
 

@@ -28,9 +28,9 @@ Es gibt ein [Schleich 98270 Spielset - Horse Club Adventskalender 2021  Horse Cl
 
 ℹ️:
 
-- Die Schleich Figuren sind detailgetreu modelliert und stehen für pädagogisch wertvolles Spielen.
 - Der Artikel gehört zur Themenwelt Horse Club und ist für Kinder zwischen 5-12 Jahren geeignet.
 - Der Adventskalender Horse Club 2021 von Schleich Horse Club versüßt Pferdefans das Warten auf Weihnachten.
 - Hinter 24 Türchen verbergen sich tolle Schleich Horse Club Figuren und Zubehöre, die Kinderaugen zum Strahlen bringen! Immer mit sonderbemalten Figuren!
+- Die Schleich Figuren sind detailgetreu modelliert und stehen für pädagogisch wertvolles Spielen.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B08W4LWZ6Y/?tag=tolees0ca-21)
