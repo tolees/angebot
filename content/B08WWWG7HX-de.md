@@ -28,8 +28,8 @@ Sie können [LEGO 43195 Disney Princess Belles und Rapunzels königliche Ställe
 
 ℹ️:
 
-- Kinder können den Hauptstall mit der Trophäensammlung und den Lagerräumen erkunden, die Pferdeboxen reinigen oder dem gemütlichen Dachboden einen Besuch abstatten
 - Dieses LEGO-Disney-Princess-Set fördert wichtige Fähigkeiten des Kindes mit detailgetreuen Minipuppen-Spielfiguren und Pferdefiguren zum Reiten
+- Kinder können den Hauptstall mit der Trophäensammlung und den Lagerräumen erkunden, die Pferdeboxen reinigen oder dem gemütlichen Dachboden einen Besuch abstatten
 - Inklusive der 2 Disney-Princess-Figuren Belle und Rapunzel sowie 2 LEGO-Reitpferde-Figuren Maximus und Philippe
 - Sattel die Pferde, reite aus und versorge sie mit dem inkludiertem Zubehör wie Sattel, Heu, Stallwerkzeug und einem Pokal
 - Das Set enthält einen 3-geschossigen Stall mit 5 Räumen, 2 kleinere abtrennbare Pferdeboxen und Aufkleber
