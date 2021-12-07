@@ -28,10 +28,10 @@ Sie können [Asus RP-AX56 AiMesh Repeater  WiFi-6 AX1800  1x Gigabit LAN  extern
 
 ℹ️:
 
-- Einfach das vorhandene WLAN Netz erweitern mit dem unkompliziertem Setup per Asus App
+- Lieferumfang: Asus WLAN Repeater, Schnellstartanleitung, Garantiekarte
+- Exklusive Asus AiMesh Funktion zur Erweiterung der WLAN Reichweite mit intelligenten Mesh Features wie einheitlicher WLAN-Zugang und unterbrechungsfreier Client Übergabe, auch über WiFi-6
 - WLAN Repeater mit neuster WiFi-6 Technik zur Lösung von Empfangsproblemen im Heim-Netzwerk
 - AX1800 WLAN Gesamt-Geschwindigkeit (Simultane Dual-Band WLAN Bandbreite mit bis 1201 Mbits über 5 GHz & 574 Mbits über 2.4 GHz)
-- Exklusive Asus AiMesh Funktion zur Erweiterung der WLAN Reichweite mit intelligenten Mesh Features wie einheitlicher WLAN-Zugang und unterbrechungsfreier Client Übergabe, auch über WiFi-6
-- Lieferumfang: Asus WLAN Repeater, Schnellstartanleitung, Garantiekarte
+- Einfach das vorhandene WLAN Netz erweitern mit dem unkompliziertem Setup per Asus App
 
 [🛒 Hier!!](https://www.amazon.de/dp/B08L9PNJSG/?tag=tolees0ca-21)

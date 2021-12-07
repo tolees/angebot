@@ -29,8 +29,8 @@ Sie können [PARKER IM-Füllfederhalter  Matte Blue  Federstärke M  Nachfüllti
 ℹ️:
 
 - Die komfortable und ergonomische Form sowie die unverwechselbare PARKER-Handwerkskunst unterstreichen das herausragende Erbe der Marke.
-- Die bewährte, intelligente Ausführung vereint eine glänzende Oberfläche mit einer modernen, kegelförmigen Silhouette.
 - Der Füllfederhalter ist ein anspruchsvolles Geschenk zu einem erschwinglichen Preis und wird in einer PARKER-Geschenkbox mit einer langen Nachfülltintenpatrone mit blauer Quink-Tinte angeboten.
+- Die bewährte, intelligente Ausführung vereint eine glänzende Oberfläche mit einer modernen, kegelförmigen Silhouette.
 - Die mittelstarke Feder aus strapazierfähigem Edelstahl sorgt für ein verlässliches und individuelles Schreibgefühl.
 - Die auffallende mattblaue Lackierung wird durch markante Chromzierteile ergänzt. Zudem verfügt das Schreibgerät über den unverkennbaren PARKER-Pfeil-Clip.
 
