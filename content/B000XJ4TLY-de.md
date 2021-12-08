@@ -28,10 +28,10 @@ Es gibt ein [Bosch Accessories - Bosch Professional Kreissägeblatt Optiline Woo
 
 ℹ️:
 
-- Geeignet für sehr feine Querschnitte in Weichholz, Hartholz, Sperrholz, Tischlerplatte, Parkett, Faserwerkstoffen und MDF
-- Blattdurchmesser: 160 mm; Bohrung/ Bohrung mit Reduktionsring: 20/16 mm; Schnittbreite; 2,6 mm; Zähnezahl: 48
-- Passend zu Handkreissägen der meisten Elektrowerkzeugmarken
 - Körper- und Dehnungsschlitze im Sägeblatt vermindern Schwingungen, wirken geräuschdämpfend und reduzieren die Hitzeentwicklung
+- Geeignet für sehr feine Querschnitte in Weichholz, Hartholz, Sperrholz, Tischlerplatte, Parkett, Faserwerkstoffen und MDF
+- Passend zu Handkreissägen der meisten Elektrowerkzeugmarken
 - Hohe Zähnezahl sorgt für einen sauberen und präzisen Schnitt
+- Blattdurchmesser: 160 mm; Bohrung/ Bohrung mit Reduktionsring: 20/16 mm; Schnittbreite; 2,6 mm; Zähnezahl: 48
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000XJ4TLY/?tag=tolees0ca-21)
