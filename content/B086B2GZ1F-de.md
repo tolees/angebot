@@ -28,10 +28,10 @@ Sie können [devolo Magic 2 WiFi next Starter Kit  WLAN Powerline Adapter -bis 2
 
 ℹ️:
 
-- Flächendeckendes Multimedia-Vergnügen: Versorgen Sie dank Multi-User MIMO-Technologie gleichzeitig mehrere Endgeräte mit bestmöglichem WLAN. Unterstützte Betriebssysteme: ab Windows 7, ab Mac OS X 10.9, ab Ubuntu-Linux 14.04
 - Für ein raumübergreifendes Heimnetzwerk: Highspeed-Mesh-WLAN-ac mit Access Point Steering für die optimale Vernetzung Ihrer Endgeräte beim Streamen, Gamen und Surfen
 - Starter-Set für beste Performance: Das weltweit schnellste Powerline-Highspeed-Set mit bis zu 2400 Mbit/s über die Stromleitung, WLAN mit bis zu 1200 Mbit/s für Ihr gesamtes Zuhause
-- Lieferumfang: Starter Kit mit zwei Powerline-Adaptern: 1x Powerline-WiFi-Adapter (mit 2x Gigabit LAN-Anschlüssen) + 1x Verbindungsadapter (mit 1x Gigabit LAN-Anschluss), WiFi 5, inkl. Webcam Protector
+- Flächendeckendes Multimedia-Vergnügen: Versorgen Sie dank Multi-User MIMO-Technologie gleichzeitig mehrere Endgeräte mit bestmöglichem WLAN. Unterstützte Betriebssysteme: ab Windows 7, ab Mac OS X 10.9, ab Ubuntu-Linux 14.04
 - Neueste G.hn-Generation, nicht abwärtskompatibel. Kombinierbar mit allen Adaptern der devolo Magic-Reihe. Adapter der dLAN-Reihe werden nicht unterstützt.Temperatur (Lager Betrieb): -25°C to 70°C 0°C to 40°C
+- Lieferumfang: Starter Kit mit zwei Powerline-Adaptern: 1x Powerline-WiFi-Adapter (mit 2x Gigabit LAN-Anschlüssen) + 1x Verbindungsadapter (mit 1x Gigabit LAN-Anschluss), WiFi 5, inkl. Webcam Protector
 
 [🛒 Hier!!](https://www.amazon.de/dp/B086B2GZ1F/?tag=tolees0ca-21)
