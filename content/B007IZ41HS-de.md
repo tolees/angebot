@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paramount - John Wayne Jubiläums-Box [5  mit 26.82 % Rabatt'
-date: 2021-12-07 21:23:44
+date: 2021-12-08 21:41:24
 image: 'https://m.media-amazon.com/images/I/51HBpgpeTYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
