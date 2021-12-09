@@ -28,9 +28,9 @@ Es gibt ein [Walt Disney - Star Wars 1 - 9 - Die Skywalker Saga 4K Ultra HD [Blu
 
 ℹ️:
 
-- Anzahl Disks : 27
 - Alterseinstufung ‏:‎ Freigegeben ab 12 Jahren
-- Erscheinungstermin : 30. April 2020
+- Anzahl Disks : 27
 - Medienformat : 4K
+- Erscheinungstermin : 30. April 2020
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084ZQVSRM/?tag=tolees0ca-21)

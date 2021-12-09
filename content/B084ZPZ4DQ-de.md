@@ -28,8 +28,8 @@ Es gibt ein [Walt Disney - Star Wars 1 - 9 - Die Skywalker Saga [Blu-ray]](https
 
 ℹ️:
 
-- Die Skywalker Saga
-- Star Wars 1 bis 9
 - Ab 12 Jahren
+- Star Wars 1 bis 9
+- Die Skywalker Saga
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084ZPZ4DQ/?tag=tolees0ca-21)
