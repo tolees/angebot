@@ -28,11 +28,11 @@ Sie können [TP-Link Archer C80 Dualband WLAN Router  600 Mbit/s 2 4GHz  1300Mbi
 
 ℹ️:
 
-- 3×3 MIMO Technologie – Datentransfer- und Empfang auf drei Streams für Verbindungen zwischen 3x3 Clients
-- Erweitere WLAN-Abdeckung – Maximale Reichweite und zielgerichteter WLAN-Empfang
 - 802.11ac Wave2 WLAN – 1300Mbit/s auf 5 GHz und 600Mbit/s auf 2,4GHz
 - Lieferumfang - AC1900-Dualband-WLAN-Router Archer C80, Spannungsadapter, Ethernetkabel, Schnellinstallationsanleitung
+- 3×3 MIMO Technologie – Datentransfer- und Empfang auf drei Streams für Verbindungen zwischen 3x3 Clients
 - Personalisiertes Management – Fortgeschrittene Funktionen wie Jugendschutz, Zugriffskontrolle, Gastnetzwerk für personalisierte Verwaltung
 - MU-MIMO - Verbesserte Leistungsfähigkeit durch effiziente Kommunikation
+- Erweitere WLAN-Abdeckung – Maximale Reichweite und zielgerichteter WLAN-Empfang
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0859MHXXB/?tag=tolees0ca-21)
