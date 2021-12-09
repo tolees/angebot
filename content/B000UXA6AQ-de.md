@@ -28,10 +28,10 @@ Es gibt ein [Osram ORIGINAL H7  Halogen-Scheinwerferlampe  64210  12V PKW  Falts
 
 ℹ️:
 
-- Bei dieser Lampe handelt es sich um ein Originalersatzteil mit gutem Preis-Leistungs-Verhältnis.
-- Überprüfen Sie bitte, ob diese Fassung mit Ihrem Auto kompatibel ist.
 - Made in Germany: Unsere OSRAM ORIGINAL H7 unterliegt hohen Qualitätsrichtlinien, u.A. des Kraftfahrtbundesamtes, und wird in Deutschland mit ECE Zertifizierung gefertigt.
-- OSRAM ORIGINAL LINE: millionenfach in Fahrzeugen namhafter Hersteller bewährt!
 - Die OSRAM ORIGINAL LINE umfasst eine große Produktpalette von Scheinwerfer- bis hin zu Mini-Wattlampen und bietet somit immer eine passende Ersatzlampe in Erstausrüsterqualität.
+- OSRAM ORIGINAL LINE: millionenfach in Fahrzeugen namhafter Hersteller bewährt!
+- Überprüfen Sie bitte, ob diese Fassung mit Ihrem Auto kompatibel ist.
+- Bei dieser Lampe handelt es sich um ein Originalersatzteil mit gutem Preis-Leistungs-Verhältnis.
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B000UXA6AQ/?tag=tolees0ca-21)

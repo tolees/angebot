@@ -29,9 +29,9 @@ Es gibt ein [gb Gold Qbit+ All-City  Buggy  Velvet Black](https://www.amazon.de/
 ℹ️:
 
 - Optimaler Komfort für Groß und Klein: Einhändig verstellbare Rückenlehne und Beinauflage, Kopf- und Schulterpolster für extra Komfort, Leichtes Schieben auf ebenen Untergründen dank Single-Rädern vorne und hinten, Gefederte, schwenkbare sowie feststellbare Vorderräder
-- Einfaches Zusammenfalten mit Einhand-Faltmechanismus auf Reisefaltmaß L:27x B:43x H:58 cm, Auch nutzbar als 3-in-1 Reisesystem mit separat erhältlichem Adapter für gb oder CYBEX Babyschalen und dem Kinderwagenaufsatz Cot to Go
-- Hochwertiger und stabiler Buggy für Neugeborene bis ca. 22 kg (ca. 4 Jahre) mit Einhand-Faltmechanismus und vollständig flacher Liegeposition
 - Lieferumfang: 1 Buggy Qbit+ All-City, Material Rahmen: Aluminium, Material Bezug: Polyester, Maße (LxBxH): 84 x 42 x 106 cm, Gewicht: 7,5 kg, Farbe: Velvet Black
 - XXL Sonnenverdeck, Sichtfenster, Schutzbügel und 5-Punkt Gurt für extra Halt während der Fahrt, Geräumiger Einkaufskorb, Optional erhältliches Zubehör: Regenverdeck, Fußsack
+- Hochwertiger und stabiler Buggy für Neugeborene bis ca. 22 kg (ca. 4 Jahre) mit Einhand-Faltmechanismus und vollständig flacher Liegeposition
+- Einfaches Zusammenfalten mit Einhand-Faltmechanismus auf Reisefaltmaß L:27x B:43x H:58 cm, Auch nutzbar als 3-in-1 Reisesystem mit separat erhältlichem Adapter für gb oder CYBEX Babyschalen und dem Kinderwagenaufsatz Cot to Go
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B07P5HL8NY/?tag=tolees0ca-21)

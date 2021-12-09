@@ -28,10 +28,10 @@ Es gibt ein [Samyang 24/1 4 Objektiv DSLR Canon EF manueller Fokus Fotoobjektiv 
 
 ℹ️:
 
+- Weitwinkel-Objektiv 24mm F1.4
 - Lieferumfang:Samyang 24mm F1.4 Objektiv für Anschluss Canon EOS; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel
+- Manuelle Fokusierung
 - Blendenöffnug 1:1,4 für hochwertige Aufnahmen auch ohne Blitz
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- Weitwinkel-Objektiv 24mm F1.4
-- Manuelle Fokusierung
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B00746TSTM/?tag=tolees0ca-21)

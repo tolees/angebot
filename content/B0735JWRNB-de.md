@@ -29,8 +29,8 @@ Sie können [Amazon-Marke: Iris & Lilly Hipster Damen Jersey hoher Ausschnitt 5e
 ℹ️:
 
 - Hekelbündchen
+- 5er-Pack
 - Weiches Jersey
 - Eine Amazon-Marke
-- 5er-Pack
 
 [🛒 Hier!!](https://www.amazon.de/dp/B0735JWRNB/?tag=tolees0ca-21)
