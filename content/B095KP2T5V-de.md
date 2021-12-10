@@ -29,9 +29,9 @@ Sie können [PLAYMOBIL 70750 The A-Team Van - im ikonischen Design  Für A-Team 
 ℹ️:
 
 - Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel, Als A-Team Spielzeug für Kinder ab 5 Jahren geeignet
-- Megacooler Bus aus der Kultserie "The A-Team": PLAYMOBIL A-Team Van mit umfangreicher Innenausstattung und den A-Team Seriencharakteren
 - Lieferumfang: 1x PLAYMOBIL The A-Team Van, 69-teiliges Spielfiguren-Set mit Anleitung: 1 The A-Team Van, 4 A-Team-Figuren, 64 Zubehörteile, Material: Kunststoff, LxTxH Fahrzeug: 29x12,5x12,5 cm, Maßstab (A-Team Modellauto): ca. 1:17, Gewicht: 592 g, 70750
 - Abnehmbare Dächer, Öffenbare Heckklappe, Schwenkbare Seitentür, 5 Sitzplätze uvm., Hannibal, Sergant Bosco "B.A." Baracus, Faceman, Captain Murdock
 - A Team-Bus mit ikonischer Lackierung, verlängerter Sonnenblende und roten Felgen als Sammelauto im Kleinformat und auch als originelles Geschenk
+- Megacooler Bus aus der Kultserie "The A-Team": PLAYMOBIL A-Team Van mit umfangreicher Innenausstattung und den A-Team Seriencharakteren
 
 [🛒 Hier!!](https://www.amazon.de/dp/B095KP2T5V/?tag=tolees0ca-21)
