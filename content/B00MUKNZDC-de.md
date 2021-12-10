@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.50 % rabat auf JBL Horizon Radiowecker in Schwarz – Dua'
-date: 2021-12-09 03:33:39
+date: 2021-12-10 03:45:23
 image: 'https://m.media-amazon.com/images/I/41uMIWcdA8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'JBL'
 buyurl: 'https://www.amazon.de/dp/B00MUKNZDC/?tag=tolees0ca-21'
 descuento: '29.50'
-average: '77.0825'
+average: '77.4071428571429'
 ---
 
 Es gibt ein [JBL Horizon Radiowecker in Schwarz – Dual Wecksystem über Bluetooth  UKW-Radio und Weckton – LED Nachtlicht für gemütliches Aufstehen](https://www.amazon.de/dp/B00MUKNZDC/?tag=tolees0ca-21) mit aktuellem Preis 83.9 EUR (original: 119.0 EUR) 29.50 % Rabatt hier:
