@@ -28,10 +28,10 @@ Es gibt ein [Russell Hobbs Toaster Retro creme  Retro Countdown-Anzeige  inkl. B
 
 ℹ️:
 
-- Retro Countdown-Anzeige zeigt die verbleibende Röstdauer an
-- Sechs einstellbare Bräunungsstufen, automatische Brotzentrierung, Brötchenaufsatz, Krümelschublade
 - Lift and Look-Funktion ermöglicht ein Anschauen des Toastes während des Röstens ohne den Vorgang zu unterbrechen
 - Schnell-Toast-Technologie - bis zu 65% schnelleres Toasten (im Vergleich zum Russell Hobbs Chester Toaster 20720-56)
+- Retro Countdown-Anzeige zeigt die verbleibende Röstdauer an
+- Sechs einstellbare Bräunungsstufen, automatische Brotzentrierung, Brötchenaufsatz, Krümelschublade
 - Hebefunktion - für die sichere Entnahme der Brotscheiben
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B01J9LPS4S/?tag=tolees0ca-21)

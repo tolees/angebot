@@ -28,8 +28,8 @@ Es gibt ein [Estee Lauder - Estée Lauder Korrekturcreme und Anti-Imperfektionen
 
 ℹ️:
 
-- Marke Beauty-Produkte
 - Marke Estee Lauder
 - Korrekturcreme und Anti-Imperfektionen
+- Marke Beauty-Produkte
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B004KBETHU/?tag=tolees0ca-21)

@@ -28,10 +28,10 @@ Es gibt ein [PLAYMOBIL City Life 9267 Wohnzimmer  Mit Lichteffekten  Ab 4 Jahren
 
 ℹ️:
 
-- Lieferumfang: 1x PLAYMOBIL City Life Wohnzimmer, 37-teiliges Spielfiguren-Set mit Anleitung: 2 Figuren, 35 Zubehörteile (wird ohne 2 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 28.4x18.7x9.2 cm, Art.-Nr. 9267
 - Spielspaß für kleine Alltags-Helden: PLAYMOBIL Wohnzimmer, Spielset mit Figuren, echter Lampe und vielen Zubehörteilen für detailgetreues Nachspielen
+- Lieferumfang: 1x PLAYMOBIL City Life Wohnzimmer, 37-teiliges Spielfiguren-Set mit Anleitung: 2 Figuren, 35 Zubehörteile (wird ohne 2 x 1,5-V-Micro-Batterien geliefert), Material: Kunststoff, LxBxH: 28.4x18.7x9.2 cm, Art.-Nr. 9267
+- 2 Figuren, Funktionierende Tischlampe mit Farbwechseleffekten, Box zum Verstauen von Einzelteilen, uvm., Passend zu City Life Modernes Wohnhaus (9266)
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- 2 Figuren, Funktionierende Tischlampe mit Farbwechseleffekten, Box zum Verstauen von Einzelteilen, uvm., Passend zu City Life Modernes Wohnhaus (9266)
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B06X1GY4GG/?tag=tolees0ca-21)

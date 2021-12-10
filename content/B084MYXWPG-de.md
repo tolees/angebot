@@ -28,9 +28,9 @@ Es gibt ein [Hasbro Gaming Risiko Rustic  große Strategiespiel in Holz Edition 
 
 ℹ️:
 
-- Klassischer Risiko Spielablauf
-- Mit Armeen aus Holz
-- Die Risiko Karten können in der enthaltenen Kartenbox aufbewahrt werden
 - Die Holz Edition des Risiko Spiels ist für die Präsentation in einer Sammlung entworfen worden
+- Mit Armeen aus Holz
+- Klassischer Risiko Spielablauf
+- Die Risiko Karten können in der enthaltenen Kartenbox aufbewahrt werden
 
 [🛒 kauf es hier!!](https://www.amazon.de/dp/B084MYXWPG/?tag=tolees0ca-21)
