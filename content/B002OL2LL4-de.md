@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.42 % rabat auf Mannesmann Pneumatischer Türschließer  w'
+title: 'Mannesmann Pneumatischer Türschließer  weiß  M41115'
 date: 2020-10-04 08:52:50
 image: 'https://m.media-amazon.com/images/I/31Tq2-OgJbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.42'
 average: '9.93'
 ---
 
-Es gibt ein [Mannesmann Pneumatischer Türschließer  weiß  M41115](https://www.amazon.de/dp/B002OL2LL4/?tag=tolees0ca-21) mit aktuellem Preis 9.93 EUR (original: 12.8 EUR) 22.42 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Mannesmann Pneumatischer Türschließer  w](https://m.media-amazon.com/images/I/31Tq2-OgJbL._SL400_.jpg)](https://www.amazon.de/dp/B002OL2LL4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B002OL2LL4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

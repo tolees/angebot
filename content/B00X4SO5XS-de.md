@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G.I.G.A. DX Damen Madoka Parka  Dunkelna mit 56.45 % Rabatt'
+title: 'G.I.G.A. DX Damen Madoka Parka  Dunkelnavy  42'
 date: 2020-01-03 10:51:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HfNy73HyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.45'
 average: '69.66'
 ---
 
-Sie können [G.I.G.A. DX Damen Madoka Parka  Dunkelnavy  42](https://www.amazon.de/dp/B00X4SO5XS/?tag=tolees0ca-21) mit Preis 69.66 EUR (original: 159.95 EUR) 56.45 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![G.I.G.A. DX Damen Madoka Parka  Dunkelna](https://images-eu.ssl-images-amazon.com/images/I/41HfNy73HyL._SL400_.jpg)](https://www.amazon.de/dp/B00X4SO5XS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00X4SO5XS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

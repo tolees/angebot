@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gamory Controller für Nintendo Switch  B mit 26.10 % Rabatt'
+title: 'Gamory Controller für Nintendo Switch  Bluetooth Wireless Controller für Nintendo Switch Wiederaufladbarer Akku Controller Gamepad für Switch mit einstellbarem Turbo und Dual Shock Fernbedienungen'
 date: 2020-08-04 06:08:40
 image: 'https://m.media-amazon.com/images/I/41kH4Zc6ecL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.10'
 average: '19.99'
 ---
 
-Sie können [Gamory Controller für Nintendo Switch  Bluetooth Wireless Controller für Nintendo Switch Wiederaufladbarer Akku Controller Gamepad für Switch mit einstellbarem Turbo und Dual Shock Fernbedienungen](https://www.amazon.de/dp/B085ZXJTNZ/?tag=tolees0ca-21) mit Preis 16.99 EUR (original: 22.99 EUR) 26.10 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gamory Controller für Nintendo Switch  B](https://m.media-amazon.com/images/I/41kH4Zc6ecL._SL400_.jpg)](https://www.amazon.de/dp/B085ZXJTNZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B085ZXJTNZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

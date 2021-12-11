@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CMP Softshell Jungen Kapuzen Jacke  Schw mit 56.27 % Rabatt'
+title: 'CMP Softshell Jungen Kapuzen Jacke  Schwarz  U901   140'
 date: 2020-02-28 04:55:30
 image: 'https://m.media-amazon.com/images/I/31CPRaTOnhL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.27'
 average: '17.47'
 ---
 
-Sie können [CMP Softshell Jungen Kapuzen Jacke  Schwarz  U901   140](https://www.amazon.de/dp/B003Z0O5SA/?tag=tolees0ca-21) mit Preis 17.47 EUR (original: 39.95 EUR) 56.27 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![CMP Softshell Jungen Kapuzen Jacke  Schw](https://m.media-amazon.com/images/I/31CPRaTOnhL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B003Z0O5SA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B003Z0O5SA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

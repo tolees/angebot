@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '32.24 % rabat auf Samsung Galaxy Buds SM-R170NZYADBT I Kab'
+title: 'Samsung Galaxy Buds SM-R170NZYADBT I Kabellose Kopfhörer Gelb I Bluetooth I In-Ear I Stereo-Sport Headphones'
 date: 2020-09-24 19:58:02
 image: 'https://m.media-amazon.com/images/I/31OxU5pJXwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.24'
 average: '85.21'
 ---
 
-Es gibt ein [Samsung Galaxy Buds SM-R170NZYADBT I Kabellose Kopfhörer Gelb I Bluetooth I In-Ear I Stereo-Sport Headphones](https://www.amazon.de/dp/B07NQ8MBH4/?tag=tolees0ca-21) mit aktuellem Preis 85.21 EUR (original: 125.75 EUR) 32.24 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung Galaxy Buds SM-R170NZYADBT I Kab](https://m.media-amazon.com/images/I/31OxU5pJXwL._SL400_.jpg)](https://www.amazon.de/dp/B07NQ8MBH4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NQ8MBH4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

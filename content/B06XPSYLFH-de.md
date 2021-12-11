@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '56.65 % rabat auf Siemens EX801KYW1E iQ700 Kochfeld / 79 2'
+title: 'Siemens EX801KYW1E iQ700 Kochfeld / 79 2 cm / WLAN-fähig mit Home Connect / VarioInduktion Plus / varioMotion / Brat-Sensor Plus mit 5 Temperaturstufen / Schwarz'
 date: 2020-10-02 13:03:50
 image: 'https://m.media-amazon.com/images/I/31VgWNJjyPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.65'
 average: '1218.9566666666667'
 ---
 
-Es gibt ein [Siemens EX801KYW1E iQ700 Kochfeld / 79 2 cm / WLAN-fähig mit Home Connect / VarioInduktion Plus / varioMotion / Brat-Sensor Plus mit 5 Temperaturstufen / Schwarz](https://www.amazon.de/dp/B06XPSYLFH/?tag=tolees0ca-21) mit aktuellem Preis 1227.29 EUR (original: 2831.0 EUR) 56.65 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Siemens EX801KYW1E iQ700 Kochfeld / 79 2](https://m.media-amazon.com/images/I/31VgWNJjyPL._SL400_.jpg)](https://www.amazon.de/dp/B06XPSYLFH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XPSYLFH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '52.80 % rabat auf Yamaha Digital Piano P-45B  schwarz - El'
+title: 'Yamaha Digital Piano P-45B  schwarz - Elektronisches Klavier für Einsteiger für authentisches Klavierspielen - Kompaktes & leicht zu bedienendes Digital Piano'
 date: 2020-01-19 00:31:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311zYQnVHwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.80'
 average: '244'
 ---
 
-Es gibt ein [Yamaha Digital Piano P-45B  schwarz - Elektronisches Klavier für Einsteiger für authentisches Klavierspielen - Kompaktes & leicht zu bedienendes Digital Piano](https://www.amazon.de/dp/B00UBJ4L32/?tag=tolees0ca-21) mit aktuellem Preis 244 EUR (original: 517 EUR) 52.80 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Yamaha Digital Piano P-45B  schwarz - El](https://images-eu.ssl-images-amazon.com/images/I/311zYQnVHwL._SL400_.jpg)](https://www.amazon.de/dp/B00UBJ4L32/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00UBJ4L32/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

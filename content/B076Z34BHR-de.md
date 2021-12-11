@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.87 % rabat auf Sharplace Multifunktionale Erweiterungsk'
+title: 'Sharplace Multifunktionale Erweiterungskarte Shield Development Board Erweiterungskarten Kit für Arduino UNO R3'
 date: 2020-04-13 15:23:43
 image: 'https://m.media-amazon.com/images/I/51xSM+1MK+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.87'
 average: '4.21'
 ---
 
-Es gibt ein [Sharplace Multifunktionale Erweiterungskarte Shield Development Board Erweiterungskarten Kit für Arduino UNO R3](https://www.amazon.de/dp/B076Z34BHR/?tag=tolees0ca-21) mit aktuellem Preis 4.21 EUR (original: 7.12 EUR) 40.87 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sharplace Multifunktionale Erweiterungsk](https://m.media-amazon.com/images/I/51xSM+1MK+L._SL400_.jpg)](https://www.amazon.de/dp/B076Z34BHR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B076Z34BHR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

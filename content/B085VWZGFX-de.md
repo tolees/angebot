@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dittzz LED Licht-Set für Baustein Spielz mit 45.58 % Rabatt'
+title: 'Dittzz LED Licht-Set für Baustein Spielzeug  Beleuchtungsset Kompatibel mit Lego 42108 -Technic Kran-LKW  Lego-Modelle Nicht enthalten '
 date: 2020-04-16 17:48:41
 image: 'https://m.media-amazon.com/images/I/41YttmPy+1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.58'
 average: '42.99'
 ---
 
-Sie können [Dittzz LED Licht-Set für Baustein Spielzeug  Beleuchtungsset Kompatibel mit Lego 42108 -Technic Kran-LKW  Lego-Modelle Nicht enthalten ](https://www.amazon.de/dp/B085VWZGFX/?tag=tolees0ca-21) mit Preis 42.99 EUR (original: 78.99 EUR) 45.58 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dittzz LED Licht-Set für Baustein Spielz](https://m.media-amazon.com/images/I/41YttmPy+1L._SL400_.jpg)](https://www.amazon.de/dp/B085VWZGFX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B085VWZGFX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

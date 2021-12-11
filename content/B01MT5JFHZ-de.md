@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MDR-XB550AP Kopfhörer  Extrabass  M mit 42.61 % Rabatt'
+title: 'Sony MDR-XB550AP Kopfhörer  Extrabass  Mikrofon '
 date: 2020-03-07 21:38:34
 image: 'https://m.media-amazon.com/images/I/41vYFuDShNL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.61'
 average: '28.64'
 ---
 
-Sie können [Sony MDR-XB550AP Kopfhörer  Extrabass  Mikrofon ](https://www.amazon.de/dp/B01MT5JFHZ/?tag=tolees0ca-21) mit Preis 28.64 EUR (original: 49.9 EUR) 42.61 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony MDR-XB550AP Kopfhörer  Extrabass  M](https://m.media-amazon.com/images/I/41vYFuDShNL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01MT5JFHZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01MT5JFHZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

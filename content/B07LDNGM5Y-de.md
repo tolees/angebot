@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bumblebee [Blu-ray] mit 47.05 % Rabatt'
+title: 'Bumblebee [Blu-ray]'
 date: 2020-04-18 00:30:07
 image: 'https://m.media-amazon.com/images/I/51SaGcsSWfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.05'
 average: '5.29'
 ---
 
-Sie können [Bumblebee [Blu-ray]](https://www.amazon.de/dp/B07LDNGM5Y/?tag=tolees0ca-21) mit Preis 5.29 EUR (original: 9.99 EUR) 47.05 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bumblebee [Blu-ray]](https://m.media-amazon.com/images/I/51SaGcsSWfL._SL400_.jpg)](https://www.amazon.de/dp/B07LDNGM5Y/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07LDNGM5Y/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

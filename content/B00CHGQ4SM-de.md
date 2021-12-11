@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.75 % rabat auf Microsoft Sculpt Comfort Mouse  Maus  sc'
+title: 'Microsoft Sculpt Comfort Mouse  Maus  schwarz  ergonomisch  kabellos über Bluetooth '
 date: 2020-03-25 05:01:08
 image: 'https://m.media-amazon.com/images/I/313L9dVqX0L._SL500_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.75'
 average: '30.293333333333333'
 ---
 
-Es gibt ein [Microsoft Sculpt Comfort Mouse  Maus  schwarz  ergonomisch  kabellos über Bluetooth ](https://www.amazon.de/dp/B00CHGQ4SM/?tag=tolees0ca-21) mit aktuellem Preis 32.49 EUR (original: 39.99 EUR) 18.75 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Microsoft Sculpt Comfort Mouse  Maus  sc](https://m.media-amazon.com/images/I/313L9dVqX0L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B00CHGQ4SM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CHGQ4SM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

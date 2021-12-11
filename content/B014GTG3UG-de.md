@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Devolo dLAN pro 1200 DINrail Powerline H mit 29.43 % Rabatt'
+title: 'Devolo dLAN pro 1200 DINrail Powerline Hutschienenadapter'
 date: 2020-02-20 04:40:44
 image: 'https://m.media-amazon.com/images/I/31wga8Cud-L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.43'
 average: '119.9'
 ---
 
-Sie können [Devolo dLAN pro 1200 DINrail Powerline Hutschienenadapter](https://www.amazon.de/dp/B014GTG3UG/?tag=tolees0ca-21) mit Preis 119.9 EUR (original: 169.9 EUR) 29.43 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Devolo dLAN pro 1200 DINrail Powerline H](https://m.media-amazon.com/images/I/31wga8Cud-L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B014GTG3UG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B014GTG3UG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.33 % rabat auf KitchenCraft Living Nostalgia Küchenspül'
+title: 'KitchenCraft Living Nostalgia Küchenspülbeckenbehälter  17 x 14 x 11 cm  grau  French Grey '
 date: 2020-04-14 16:18:06
 image: 'https://m.media-amazon.com/images/I/31-PSL2dDyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.33'
 average: '14.18'
 ---
 
-Es gibt ein [KitchenCraft Living Nostalgia Küchenspülbeckenbehälter  17 x 14 x 11 cm  grau  French Grey ](https://www.amazon.de/dp/B00U1IN0KS/?tag=tolees0ca-21) mit aktuellem Preis 14.18 EUR (original: 18.99 EUR) 25.33 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![KitchenCraft Living Nostalgia Küchenspül](https://m.media-amazon.com/images/I/31-PSL2dDyL._SL400_.jpg)](https://www.amazon.de/dp/B00U1IN0KS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00U1IN0KS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

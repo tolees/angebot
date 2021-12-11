@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '53.78 % rabat auf Acer Aspire 5  A517-51-3666  43 9 cm  17'
+title: 'Acer Aspire 5  A517-51-3666  43 9 cm  17 3 Zoll Full-HD matt  Multimedia Laptop  Intel Core i3-7020U  8GB RAM  256GB SSD  Intel HD  Win 10  schwarz'
 date: 2020-01-28 16:33:13
 image: 'https://m.media-amazon.com/images/I/41OKjSFZxCL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.78'
 average: '300.0'
 ---
 
-Es gibt ein [Acer Aspire 5  A517-51-3666  43 9 cm  17 3 Zoll Full-HD matt  Multimedia Laptop  Intel Core i3-7020U  8GB RAM  256GB SSD  Intel HD  Win 10  schwarz](https://www.amazon.de/dp/B07JW4TQDY/?tag=tolees0ca-21) mit aktuellem Preis 300.0 EUR (original: 649.0 EUR) 53.78 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Acer Aspire 5  A517-51-3666  43 9 cm  17](https://m.media-amazon.com/images/I/41OKjSFZxCL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07JW4TQDY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JW4TQDY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

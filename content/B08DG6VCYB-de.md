@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.89 % rabat auf Medisana BU 570 connect Oberarmblutdruck'
+title: 'Medisana BU 570 connect Oberarmblutdruckmessgerät  Arrhythmie-Anzeige  Bluetooth  WHO-Ampel-Farbskala für präzise Blutdruckmessung und Pulsmessung mit Speicherfunktion während des Aufpumpens'
 date: 2020-09-24 01:49:43
 image: 'https://m.media-amazon.com/images/I/41wOqW5UGAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.89'
 average: '53.24'
 ---
 
-Es gibt ein [Medisana BU 570 connect Oberarmblutdruckmessgerät  Arrhythmie-Anzeige  Bluetooth  WHO-Ampel-Farbskala für präzise Blutdruckmessung und Pulsmessung mit Speicherfunktion während des Aufpumpens](https://www.amazon.de/dp/B08DG6VCYB/?tag=tolees0ca-21) mit aktuellem Preis 53.24 EUR (original: 69.95 EUR) 23.89 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Medisana BU 570 connect Oberarmblutdruck](https://m.media-amazon.com/images/I/41wOqW5UGAL._SL400_.jpg)](https://www.amazon.de/dp/B08DG6VCYB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DG6VCYB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

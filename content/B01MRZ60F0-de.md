@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.05 % rabat auf AVM FRITZ!DECT 210  intelligente Steckdo'
+title: 'AVM FRITZ!DECT 210  intelligente Steckdose für Smart Home  mit Spritzwasserschutz  IP 44  für Einsatz im Außenbereich '
 date: 2020-02-28 08:22:31
 image: 'https://m.media-amazon.com/images/I/41AkQIjYjmL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.05'
 average: '45.99'
 ---
 
-Es gibt ein [AVM FRITZ!DECT 210  intelligente Steckdose für Smart Home  mit Spritzwasserschutz  IP 44  für Einsatz im Außenbereich ](https://www.amazon.de/dp/B01MRZ60F0/?tag=tolees0ca-21) mit aktuellem Preis 45.99 EUR (original: 59.0 EUR) 22.05 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![AVM FRITZ!DECT 210  intelligente Steckdo](https://m.media-amazon.com/images/I/41AkQIjYjmL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01MRZ60F0/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MRZ60F0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

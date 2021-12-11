@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '31.32 % rabat auf Playmobil 6150 - Star-Shooting'
+title: 'Playmobil 6150 - Star-Shooting'
 date: 2020-03-24 13:10:57
 image: 'https://m.media-amazon.com/images/I/61hG5O2Pw+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.32'
 average: '3.07'
 ---
 
-Es gibt ein [Playmobil 6150 - Star-Shooting](https://www.amazon.de/dp/B00O4E3H0S/?tag=tolees0ca-21) mit aktuellem Preis 3.07 EUR (original: 4.47 EUR) 31.32 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 6150 - Star-Shooting](https://m.media-amazon.com/images/I/61hG5O2Pw+L._SL400_.jpg)](https://www.amazon.de/dp/B00O4E3H0S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00O4E3H0S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

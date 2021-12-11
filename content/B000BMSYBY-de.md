@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.52 % rabat auf Cisco CP-PWR-CUBE-3 IP Phone Power Suppl'
+title: 'Cisco CP-PWR-CUBE-3 IP Phone Power Supply Netzteil'
 date: 2020-02-22 13:08:29
 image: 'https://m.media-amazon.com/images/I/51g2ooJMSeL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.52'
 average: '15.629999999999999'
 ---
 
-Es gibt ein [Cisco CP-PWR-CUBE-3 IP Phone Power Supply Netzteil](https://www.amazon.de/dp/B000BMSYBY/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 23.29 EUR) 48.52 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Cisco CP-PWR-CUBE-3 IP Phone Power Suppl](https://m.media-amazon.com/images/I/51g2ooJMSeL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B000BMSYBY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000BMSYBY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

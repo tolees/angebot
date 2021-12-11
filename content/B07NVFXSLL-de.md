@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CRYSTAL ART Crystal Card Kits 18x18cm  M mit 33.37 % Rabatt'
+title: 'CRYSTAL ART Crystal Card Kits 18x18cm  Mulitcolor  18x18'
 date: 2020-04-10 00:02:35
 image: 'https://m.media-amazon.com/images/I/41k9rZw4MfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.37'
 average: '5.99'
 ---
 
-Sie können [CRYSTAL ART Crystal Card Kits 18x18cm  Mulitcolor  18x18](https://www.amazon.de/dp/B07NVFXSLL/?tag=tolees0ca-21) mit Preis 5.99 EUR (original: 8.99 EUR) 33.37 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![CRYSTAL ART Crystal Card Kits 18x18cm  M](https://m.media-amazon.com/images/I/41k9rZw4MfL._SL400_.jpg)](https://www.amazon.de/dp/B07NVFXSLL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07NVFXSLL/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

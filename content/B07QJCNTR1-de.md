@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zapf Creation 960202 Elli Smiles Puppe m mit 57.78 % Rabatt'
+title: 'Zapf Creation 960202 Elli Smiles Puppe mit Funktion und Emotionen  43 cm'
 date: 2020-04-02 18:04:46
 image: 'https://m.media-amazon.com/images/I/418Ez+SZgfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.78'
 average: '37.99'
 ---
 
-Sie können [Zapf Creation 960202 Elli Smiles Puppe mit Funktion und Emotionen  43 cm](https://www.amazon.de/dp/B07QJCNTR1/?tag=tolees0ca-21) mit Preis 37.99 EUR (original: 89.99 EUR) 57.78 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Zapf Creation 960202 Elli Smiles Puppe m](https://m.media-amazon.com/images/I/418Ez+SZgfL._SL400_.jpg)](https://www.amazon.de/dp/B07QJCNTR1/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07QJCNTR1/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

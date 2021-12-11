@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GODNECE Bausteine Classic  7692 Teile Kr mit 60.00 % Rabatt'
+title: 'GODNECE Bausteine Classic  7692 Teile Kran Modellbausatz mit RC und Motor MOC Bausteine Modellbau Technik Bausatz für Erwachsene'
 date: 2020-03-13 18:45:38
 image: 'https://m.media-amazon.com/images/I/514e4hjqEPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.00'
 average: '626.99'
 ---
 
-Sie können [GODNECE Bausteine Classic  7692 Teile Kran Modellbausatz mit RC und Motor MOC Bausteine Modellbau Technik Bausatz für Erwachsene](https://www.amazon.de/dp/B07WMRWNTF/?tag=tolees0ca-21) mit Preis 626.99 EUR (original: 1567.47 EUR) 60.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GODNECE Bausteine Classic  7692 Teile Kr](https://m.media-amazon.com/images/I/514e4hjqEPL._SL400_.jpg)](https://www.amazon.de/dp/B07WMRWNTF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07WMRWNTF/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

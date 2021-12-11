@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.82 % rabat auf Funko 5100 No POP Vinylfigur: Supernatur'
+title: 'Funko 5100 No POP Vinylfigur: Supernatural: Crowley'
 date: 2020-03-05 02:32:56
 image: 'https://m.media-amazon.com/images/I/415pEoWPT6L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.82'
 average: '8.0'
 ---
 
-Es gibt ein [Funko 5100 No POP Vinylfigur: Supernatural: Crowley](https://www.amazon.de/dp/B00ON4EZSM/?tag=tolees0ca-21) mit aktuellem Preis 8.0 EUR (original: 13.99 EUR) 42.82 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 5100 No POP Vinylfigur: Supernatur](https://m.media-amazon.com/images/I/415pEoWPT6L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00ON4EZSM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ON4EZSM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

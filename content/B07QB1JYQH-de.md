@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HERZ KRAFT WERKE  Deluxe Edition  mit 53.02 % Rabatt'
+title: 'HERZ KRAFT WERKE  Deluxe Edition '
 date: 2020-09-21 15:17:39
 image: 'https://m.media-amazon.com/images/I/51WPjm47HSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.02'
 average: '8.24'
 ---
 
-Sie können [HERZ KRAFT WERKE  Deluxe Edition ](https://www.amazon.de/dp/B07QB1JYQH/?tag=tolees0ca-21) mit Preis 8.24 EUR (original: 17.54 EUR) 53.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HERZ KRAFT WERKE  Deluxe Edition ](https://m.media-amazon.com/images/I/51WPjm47HSL._SL400_.jpg)](https://www.amazon.de/dp/B07QB1JYQH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07QB1JYQH/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

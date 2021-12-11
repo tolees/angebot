@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL DreamWorks Spirit 9479 Pferdeb mit 26.61 % Rabatt'
+title: 'PLAYMOBIL DreamWorks Spirit 9479 Pferdebox Pru & Chica Linda  Ab 4 Jahren'
 date: 2020-04-16 17:44:50
 image: 'https://m.media-amazon.com/images/I/41aCk2rEa+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.61'
 average: '14.67'
 ---
 
-Sie können [PLAYMOBIL DreamWorks Spirit 9479 Pferdebox Pru & Chica Linda  Ab 4 Jahren](https://www.amazon.de/dp/B079N37BLF/?tag=tolees0ca-21) mit Preis 14.67 EUR (original: 19.99 EUR) 26.61 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PLAYMOBIL DreamWorks Spirit 9479 Pferdeb](https://m.media-amazon.com/images/I/41aCk2rEa+L._SL400_.jpg)](https://www.amazon.de/dp/B079N37BLF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079N37BLF/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schleich 42370 - Mobile Tierärztin mit H mit 53.35 % Rabatt'
+title: 'Schleich 42370 - Mobile Tierärztin mit Hannoveraner Fohlen'
 date: 2020-04-02 12:51:44
 image: 'https://m.media-amazon.com/images/I/41GhMz1zYOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.35'
 average: '20.99'
 ---
 
-Sie können [Schleich 42370 - Mobile Tierärztin mit Hannoveraner Fohlen](https://www.amazon.de/dp/B06X3S11YM/?tag=tolees0ca-21) mit Preis 20.99 EUR (original: 44.99 EUR) 53.35 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Schleich 42370 - Mobile Tierärztin mit H](https://m.media-amazon.com/images/I/41GhMz1zYOL._SL400_.jpg)](https://www.amazon.de/dp/B06X3S11YM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B06X3S11YM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

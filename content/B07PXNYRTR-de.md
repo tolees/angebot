@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ravensburger 14973 Disney Museum mit 54.68 % Rabatt'
+title: 'Ravensburger 14973 Disney Museum'
 date: 2020-01-29 08:08:49
 image: 'https://m.media-amazon.com/images/I/51CTIrhx0UL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.68'
 average: '62.99'
 ---
 
-Sie können [Ravensburger 14973 Disney Museum](https://www.amazon.de/dp/B07PXNYRTR/?tag=tolees0ca-21) mit Preis 62.99 EUR (original: 139.0 EUR) 54.68 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger 14973 Disney Museum](https://m.media-amazon.com/images/I/51CTIrhx0UL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PXNYRTR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PXNYRTR/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

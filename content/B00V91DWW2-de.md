@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.44 % rabat auf Funko 021421 S2 No Actionfigur Sesame St'
+title: 'Funko 021421 S2 No Actionfigur Sesame Street: Grover  Multi'
 date: 2020-02-19 20:01:14
 image: 'https://m.media-amazon.com/images/I/51ECrTVxozL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.44'
 average: '10.99'
 ---
 
-Es gibt ein [Funko 021421 S2 No Actionfigur Sesame Street: Grover  Multi](https://www.amazon.de/dp/B00V91DWW2/?tag=tolees0ca-21) mit aktuellem Preis 10.99 EUR (original: 13.99 EUR) 21.44 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 021421 S2 No Actionfigur Sesame St](https://m.media-amazon.com/images/I/51ECrTVxozL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00V91DWW2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00V91DWW2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

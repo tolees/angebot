@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '57.70 % rabat auf GROHE Minta | Küchenarmatur - Einhand-Sp'
+title: 'GROHE Minta | Küchenarmatur - Einhand-Spültischbatterie  mit Schwenkbereich 360°  Einlochmontage| chrom | 30274000'
 date: 2020-09-18 15:04:26
 image: 'https://m.media-amazon.com/images/I/31HBp3IuTgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.70'
 average: '174.49'
 ---
 
-Es gibt ein [GROHE Minta | Küchenarmatur - Einhand-Spültischbatterie  mit Schwenkbereich 360°  Einlochmontage| chrom | 30274000](https://www.amazon.de/dp/B016ZPORIE/?tag=tolees0ca-21) mit aktuellem Preis 174.49 EUR (original: 412.55 EUR) 57.70 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GROHE Minta | Küchenarmatur - Einhand-Sp](https://m.media-amazon.com/images/I/31HBp3IuTgL._SL400_.jpg)](https://www.amazon.de/dp/B016ZPORIE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B016ZPORIE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Netgear GS728TP 28-Port Gigabit Ethernet mit 24.03 % Rabatt'
+title: 'Netgear GS728TP 28-Port Gigabit Ethernet LAN PoE Switch Smart Managed Pro  mit 24x PoE+ 190W  4x 1G-SFP  Desktop- oder Rack-Montage mit ProSAFE Lifetime-Garantie '
 date: 2020-07-16 04:52:04
 image: 'https://m.media-amazon.com/images/I/31bIIHCYz5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.03'
 average: '227.9'
 ---
 
-Sie können [Netgear GS728TP 28-Port Gigabit Ethernet LAN PoE Switch Smart Managed Pro  mit 24x PoE+ 190W  4x 1G-SFP  Desktop- oder Rack-Montage mit ProSAFE Lifetime-Garantie ](https://www.amazon.de/dp/B07C53XRYV/?tag=tolees0ca-21) mit Preis 227.9 EUR (original: 299.99 EUR) 24.03 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Netgear GS728TP 28-Port Gigabit Ethernet](https://m.media-amazon.com/images/I/31bIIHCYz5L._SL400_.jpg)](https://www.amazon.de/dp/B07C53XRYV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07C53XRYV/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

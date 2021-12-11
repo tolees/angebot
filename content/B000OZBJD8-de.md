@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.10 % rabat auf Park Tool Mini-Faltwerkzeug IB-2 I-Beam '
+title: 'Park Tool Mini-Faltwerkzeug IB-2 I-Beam  4000849'
 date: 2020-04-11 08:11:36
 image: 'https://m.media-amazon.com/images/I/41OItPZjUoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.10'
 average: '11.95'
 ---
 
-Es gibt ein [Park Tool Mini-Faltwerkzeug IB-2 I-Beam  4000849](https://www.amazon.de/dp/B000OZBJD8/?tag=tolees0ca-21) mit aktuellem Preis 11.95 EUR (original: 19.95 EUR) 40.10 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Park Tool Mini-Faltwerkzeug IB-2 I-Beam ](https://m.media-amazon.com/images/I/41OItPZjUoL._SL400_.jpg)](https://www.amazon.de/dp/B000OZBJD8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000OZBJD8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

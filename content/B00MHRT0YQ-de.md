@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.97 % rabat auf Sylvanian Families 5108 5108-Essen-Set i'
+title: 'Sylvanian Families 5108 5108-Essen-Set in der Schule  Mehrfarbig'
 date: 2020-04-11 16:31:31
 image: 'https://m.media-amazon.com/images/I/517LNy14SuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.97'
 average: '12.6'
 ---
 
-Es gibt ein [Sylvanian Families 5108 5108-Essen-Set in der Schule  Mehrfarbig](https://www.amazon.de/dp/B00MHRT0YQ/?tag=tolees0ca-21) mit aktuellem Preis 12.6 EUR (original: 19.99 EUR) 36.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sylvanian Families 5108 5108-Essen-Set i](https://m.media-amazon.com/images/I/517LNy14SuL._SL400_.jpg)](https://www.amazon.de/dp/B00MHRT0YQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00MHRT0YQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

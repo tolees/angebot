@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UGG Damen W Bailey Bow II Schlupfstiefel mit 45.74 % Rabatt'
+title: 'UGG Damen W Bailey Bow II Schlupfstiefel  Schwarz  Nero   40 EU'
 date: 2020-01-20 18:47:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bHcygK4nL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.74'
 average: '114.98'
 ---
 
-Sie können [UGG Damen W Bailey Bow II Schlupfstiefel  Schwarz  Nero   40 EU](https://www.amazon.de/dp/B01AIIOARC/?tag=tolees0ca-21) mit Preis 114.98 EUR (original: 211.92 EUR) 45.74 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![UGG Damen W Bailey Bow II Schlupfstiefel](https://images-eu.ssl-images-amazon.com/images/I/41bHcygK4nL._SL400_.jpg)](https://www.amazon.de/dp/B01AIIOARC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01AIIOARC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

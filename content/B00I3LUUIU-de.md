@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MDR-EX110APB In-Ear-Kopfhörer schwa mit 25.01 % Rabatt'
+title: 'Sony MDR-EX110APB In-Ear-Kopfhörer schwarz'
 date: 2020-03-07 05:05:04
 image: 'https://m.media-amazon.com/images/I/31F7gZjjkfL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.01'
 average: '14.99'
 ---
 
-Sie können [Sony MDR-EX110APB In-Ear-Kopfhörer schwarz](https://www.amazon.de/dp/B00I3LUUIU/?tag=tolees0ca-21) mit Preis 14.99 EUR (original: 19.99 EUR) 25.01 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony MDR-EX110APB In-Ear-Kopfhörer schwa](https://m.media-amazon.com/images/I/31F7gZjjkfL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00I3LUUIU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00I3LUUIU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

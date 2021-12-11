@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.78 % rabat auf HyperX Fury HX432C16FB3A/16 Arbeitsspeic'
+title: 'HyperX Fury HX432C16FB3A/16 Arbeitsspeicher DIMM DDR4 16GB 3200MHz CL16 RGB'
 date: 2020-07-18 12:21:03
 image: 'https://m.media-amazon.com/images/I/31s8aUIgftL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.78'
 average: '64.9'
 ---
 
-Es gibt ein [HyperX Fury HX432C16FB3A/16 Arbeitsspeicher DIMM DDR4 16GB 3200MHz CL16 RGB](https://www.amazon.de/dp/B07WCQRJM2/?tag=tolees0ca-21) mit aktuellem Preis 64.9 EUR (original: 80.9 EUR) 19.78 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HyperX Fury HX432C16FB3A/16 Arbeitsspeic](https://m.media-amazon.com/images/I/31s8aUIgftL._SL400_.jpg)](https://www.amazon.de/dp/B07WCQRJM2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WCQRJM2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

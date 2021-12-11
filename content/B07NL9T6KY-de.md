@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.12 % rabat auf VAUDE Herren Men s Active Pants Hose  Sc'
+title: 'VAUDE Herren Men s Active Pants Hose  Schwarz  Black Uni   M'
 date: 2020-02-19 05:05:00
 image: 'https://m.media-amazon.com/images/I/31Yk8zuO7qL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.12'
 average: '29.95'
 ---
 
-Es gibt ein [VAUDE Herren Men s Active Pants Hose  Schwarz  Black Uni   M](https://www.amazon.de/dp/B07NL9T6KY/?tag=tolees0ca-21) mit aktuellem Preis 29.95 EUR (original: 40.0 EUR) 25.12 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![VAUDE Herren Men s Active Pants Hose  Sc](https://m.media-amazon.com/images/I/31Yk8zuO7qL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07NL9T6KY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NL9T6KY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

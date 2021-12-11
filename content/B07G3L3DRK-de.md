@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crucial BX500 120GB CT120BX500SSD1 Z -bi mit 17.91 % Rabatt'
+title: 'Crucial BX500 120GB CT120BX500SSD1 Z -bis zu 540 MB/s Internes SSD  3D NAND  SATA  2 5-Zoll '
 date: 2020-09-24 01:47:48
 image: 'https://m.media-amazon.com/images/I/41eXT6YT+jL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.91'
 average: '20.33606557377049'
 ---
 
-Sie können [Crucial BX500 120GB CT120BX500SSD1 Z -bis zu 540 MB/s Internes SSD  3D NAND  SATA  2 5-Zoll ](https://www.amazon.de/dp/B07G3L3DRK/?tag=tolees0ca-21) mit Preis 19.99 EUR (original: 24.35 EUR) 17.91 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Crucial BX500 120GB CT120BX500SSD1 Z -bi](https://m.media-amazon.com/images/I/41eXT6YT+jL._SL400_.jpg)](https://www.amazon.de/dp/B07G3L3DRK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07G3L3DRK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

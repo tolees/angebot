@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD My Cloud Home persönlicher Cloudspeic mit 36.21 % Rabatt'
+title: 'WD My Cloud Home persönlicher Cloudspeicher 8 TB  zentraler Speicher  mobiler Zugriff unterwegs  automatische Backups  Dateisuchfunktion  einfache Installation '
 date: 2020-04-19 06:37:50
 image: 'https://m.media-amazon.com/images/I/31BwYe54vnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.21'
 average: '227.29166666666666'
 ---
 
-Sie können [WD My Cloud Home persönlicher Cloudspeicher 8 TB  zentraler Speicher  mobiler Zugriff unterwegs  automatische Backups  Dateisuchfunktion  einfache Installation ](https://www.amazon.de/dp/B074DXGB3V/?tag=tolees0ca-21) mit Preis 229.0 EUR (original: 359.0 EUR) 36.21 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![WD My Cloud Home persönlicher Cloudspeic](https://m.media-amazon.com/images/I/31BwYe54vnL._SL400_.jpg)](https://www.amazon.de/dp/B074DXGB3V/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B074DXGB3V/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional 12V System Akku Bohrs mit 53.83 % Rabatt'
+title: 'Bosch Professional 12V System Akku Bohrschrauber GSR 12V-15  ohne Akkus & Ladegerät  im Karton '
 date: 2020-03-13 11:07:33
 image: 'https://m.media-amazon.com/images/I/41RfKYnpvqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.83'
 average: '48.4'
 ---
 
-Sie können [Bosch Professional 12V System Akku Bohrschrauber GSR 12V-15  ohne Akkus & Ladegerät  im Karton ](https://www.amazon.de/dp/B003VEILMG/?tag=tolees0ca-21) mit Preis 48.9 EUR (original: 105.91 EUR) 53.83 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Professional 12V System Akku Bohrs](https://m.media-amazon.com/images/I/41RfKYnpvqL._SL400_.jpg)](https://www.amazon.de/dp/B003VEILMG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B003VEILMG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

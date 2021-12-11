@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG Beamer PF1500G bis 304 8 cm  120 Zoll mit 33.18 % Rabatt'
+title: 'LG Beamer PF1500G bis 304 8 cm  120 Zoll  CineBeam Full HD LED Projektor  1400 Lumen  Optischer Zoom  4-Punkt Trapezkorrektur   weiß'
 date: 2020-03-25 16:12:07
 image: 'https://m.media-amazon.com/images/I/31qyPZVInFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.18'
 average: '312.5'
 ---
 
-Sie können [LG Beamer PF1500G bis 304 8 cm  120 Zoll  CineBeam Full HD LED Projektor  1400 Lumen  Optischer Zoom  4-Punkt Trapezkorrektur   weiß](https://www.amazon.de/dp/B01FSPZDSK/?tag=tolees0ca-21) mit Preis 300.0 EUR (original: 449.0 EUR) 33.18 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LG Beamer PF1500G bis 304 8 cm  120 Zoll](https://m.media-amazon.com/images/I/31qyPZVInFL._SL400_.jpg)](https://www.amazon.de/dp/B01FSPZDSK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01FSPZDSK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

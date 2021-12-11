@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.48 % rabat auf Zassenhaus  Stirnholz  Braun  45 x 30 x '
+title: 'Zassenhaus  Stirnholz  Braun  45 x 30 x 4 5 cm'
 date: 2020-10-08 01:49:23
 image: 'https://m.media-amazon.com/images/I/41+UzU3M-eL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.48'
 average: '29.23'
 ---
 
-Es gibt ein [Zassenhaus  Stirnholz  Braun  45 x 30 x 4 5 cm](https://www.amazon.de/dp/B004SQSRSE/?tag=tolees0ca-21) mit aktuellem Preis 29.23 EUR (original: 49.95 EUR) 41.48 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Zassenhaus  Stirnholz  Braun  45 x 30 x ](https://m.media-amazon.com/images/I/41+UzU3M-eL._SL400_.jpg)](https://www.amazon.de/dp/B004SQSRSE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B004SQSRSE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

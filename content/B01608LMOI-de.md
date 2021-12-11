@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.60 % rabat auf Playmobil 6971 Schmück  Pony Schmetterli'
+title: 'Playmobil 6971 Schmück  Pony Schmetterling'
 date: 2020-02-15 15:27:39
 image: 'https://m.media-amazon.com/images/I/51U7bAlnwJL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.60'
 average: '2.99'
 ---
 
-Es gibt ein [Playmobil 6971 Schmück  Pony Schmetterling](https://www.amazon.de/dp/B01608LMOI/?tag=tolees0ca-21) mit aktuellem Preis 2.99 EUR (original: 4.95 EUR) 39.60 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 6971 Schmück  Pony Schmetterli](https://m.media-amazon.com/images/I/51U7bAlnwJL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01608LMOI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01608LMOI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

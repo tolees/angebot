@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.19 % rabat auf Nikon AF-P DX Nikkor 18-55 mm f/3.5-5.6G'
+title: 'Nikon AF-P DX Nikkor 18-55 mm f/3.5-5.6G VR Zoomobjektiv'
 date: 2020-03-30 14:59:49
 image: 'https://m.media-amazon.com/images/I/51QNUFrUb2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.19'
 average: '129.0'
 ---
 
-Es gibt ein [Nikon AF-P DX Nikkor 18-55 mm f/3.5-5.6G VR Zoomobjektiv](https://www.amazon.de/dp/B01AI8H58I/?tag=tolees0ca-21) mit aktuellem Preis 129.0 EUR (original: 249.0 EUR) 48.19 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Nikon AF-P DX Nikkor 18-55 mm f/3.5-5.6G](https://m.media-amazon.com/images/I/51QNUFrUb2L._SL400_.jpg)](https://www.amazon.de/dp/B01AI8H58I/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AI8H58I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

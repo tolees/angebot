@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '15.01 % rabat auf Stranger Things: Music From The Netflix '
+title: 'Stranger Things: Music From The Netflix Original Series [2 LP] [Vinyl LP]'
 date: 2020-02-06 04:59:21
 image: 'https://m.media-amazon.com/images/I/51HoUcv42ML._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.01'
 average: '16.99'
 ---
 
-Es gibt ein [Stranger Things: Music From The Netflix Original Series [2 LP] [Vinyl LP]](https://www.amazon.de/dp/B076MDDRGN/?tag=tolees0ca-21) mit aktuellem Preis 16.99 EUR (original: 19.99 EUR) 15.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Stranger Things: Music From The Netflix ](https://m.media-amazon.com/images/I/51HoUcv42ML._AC_._SL400_.jpg)](https://www.amazon.de/dp/B076MDDRGN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B076MDDRGN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

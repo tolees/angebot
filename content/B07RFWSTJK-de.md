@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salewa Puez Alphubel Wo Headband Stirnbä mit 61.20 % Rabatt'
+title: 'Salewa Puez Alphubel Wo Headband Stirnbänder  Carrot/4630  UNI58'
 date: 2020-09-17 11:02:37
 image: 'https://m.media-amazon.com/images/I/51+WK-Op1vL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.20'
 average: '11.64'
 ---
 
-Sie können [Salewa Puez Alphubel Wo Headband Stirnbänder  Carrot/4630  UNI58](https://www.amazon.de/dp/B07RFWSTJK/?tag=tolees0ca-21) mit Preis 11.64 EUR (original: 30.0 EUR) 61.20 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Salewa Puez Alphubel Wo Headband Stirnbä](https://m.media-amazon.com/images/I/51+WK-Op1vL._SL400_.jpg)](https://www.amazon.de/dp/B07RFWSTJK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07RFWSTJK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

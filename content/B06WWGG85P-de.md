@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GraviTrax 27590 Starter Set Konstruktion mit 41.81 % Rabatt'
+title: 'GraviTrax 27590 Starter Set Konstruktionsspielzeug  deutsche Version'
 date: 2020-03-27 13:25:59
 image: 'https://m.media-amazon.com/images/I/51-YCVx0T8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.81'
 average: '32.0'
 ---
 
-Sie können [GraviTrax 27590 Starter Set Konstruktionsspielzeug  deutsche Version](https://www.amazon.de/dp/B06WWGG85P/?tag=tolees0ca-21) mit Preis 32.0 EUR (original: 54.99 EUR) 41.81 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GraviTrax 27590 Starter Set Konstruktion](https://m.media-amazon.com/images/I/51-YCVx0T8L._SL400_.jpg)](https://www.amazon.de/dp/B06WWGG85P/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B06WWGG85P/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

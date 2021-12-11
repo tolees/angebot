@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer TravelMate P2  TMP215-51-83MD  39 6 mit 58.70 % Rabatt'
+title: 'Acer TravelMate P2  TMP215-51-83MD  39 6 cm  15 6 Zoll Full-HD IPS  Business-Laptop  Intel Core i7-8550U  8 GB RAM  512 GB PCIe SSD  Intel UHD  Win 10 Pro  schwarz'
 date: 2020-04-19 13:49:49
 image: 'https://m.media-amazon.com/images/I/41z13UmRsIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.70'
 average: '330.0'
 ---
 
-Sie können [Acer TravelMate P2  TMP215-51-83MD  39 6 cm  15 6 Zoll Full-HD IPS  Business-Laptop  Intel Core i7-8550U  8 GB RAM  512 GB PCIe SSD  Intel UHD  Win 10 Pro  schwarz](https://www.amazon.de/dp/B07T5VLWX3/?tag=tolees0ca-21) mit Preis 330.0 EUR (original: 799.0 EUR) 58.70 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Acer TravelMate P2  TMP215-51-83MD  39 6](https://m.media-amazon.com/images/I/41z13UmRsIL._SL400_.jpg)](https://www.amazon.de/dp/B07T5VLWX3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07T5VLWX3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

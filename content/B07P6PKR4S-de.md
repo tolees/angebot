@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.65 % rabat auf Bosch Professional 35-tlgs. Bohrer Bit S'
+title: 'Bosch Professional 35-tlgs. Bohrer Bit Set  Pick and Click  Zubehör für Schlagschrauber  mit Bits und Universalhalter '
 date: 2020-02-10 17:33:43
 image: 'https://m.media-amazon.com/images/I/511x5O8wk8L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.65'
 average: '24.99'
 ---
 
-Es gibt ein [Bosch Professional 35-tlgs. Bohrer Bit Set  Pick and Click  Zubehör für Schlagschrauber  mit Bits und Universalhalter ](https://www.amazon.de/dp/B07P6PKR4S/?tag=tolees0ca-21) mit aktuellem Preis 24.99 EUR (original: 31.1 EUR) 19.65 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Professional 35-tlgs. Bohrer Bit S](https://m.media-amazon.com/images/I/511x5O8wk8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07P6PKR4S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07P6PKR4S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

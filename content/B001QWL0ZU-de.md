@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.04 % rabat auf Durex Play Pflegend Sensitives Gleitgel '
+title: 'Durex Play Pflegend Sensitives Gleitgel  mit Aloe Vera  1er Pack  1 x 50 ml '
 date: 2020-03-09 04:52:35
 image: 'https://m.media-amazon.com/images/I/311y9Cf9n8L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.04'
 average: '4.49'
 ---
 
-Es gibt ein [Durex Play Pflegend Sensitives Gleitgel  mit Aloe Vera  1er Pack  1 x 50 ml ](https://www.amazon.de/dp/B001QWL0ZU/?tag=tolees0ca-21) mit aktuellem Preis 4.49 EUR (original: 5.99 EUR) 25.04 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Durex Play Pflegend Sensitives Gleitgel ](https://m.media-amazon.com/images/I/311y9Cf9n8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B001QWL0ZU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B001QWL0ZU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE NORTH FACE Borealis Rucksack  Flag B mit 50.00 % Rabatt'
+title: 'THE NORTH FACE Borealis Rucksack  Flag Blue Light Heather/TNF White  One Size'
 date: 2020-02-09 13:01:46
 image: 'https://m.media-amazon.com/images/I/41jUq4FDXRL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '50.0'
 ---
 
-Sie können [THE NORTH FACE Borealis Rucksack  Flag Blue Light Heather/TNF White  One Size](https://www.amazon.de/dp/B07D1B2ZJ5/?tag=tolees0ca-21) mit Preis 50.0 EUR (original: 100.0 EUR) 50.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![THE NORTH FACE Borealis Rucksack  Flag B](https://m.media-amazon.com/images/I/41jUq4FDXRL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07D1B2ZJ5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07D1B2ZJ5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

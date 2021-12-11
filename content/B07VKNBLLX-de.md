@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZTE Smartphone Blade 10  16 cm  6 3 Zoll mit 66.99 % Rabatt'
+title: 'ZTE Smartphone Blade 10  16 cm  6 3 Zoll  FHD+ Display  64 GB interner Speicher  32 MP AI-Selfie- und 16+5 MP Dual-Hauptkamera  Dual-SIM  Android 9  Blau'
 date: 2020-05-13 07:36:00
 image: 'https://m.media-amazon.com/images/I/41-AADxFqNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.99'
 average: '99.0'
 ---
 
-Sie können [ZTE Smartphone Blade 10  16 cm  6 3 Zoll  FHD+ Display  64 GB interner Speicher  32 MP AI-Selfie- und 16+5 MP Dual-Hauptkamera  Dual-SIM  Android 9  Blau](https://www.amazon.de/dp/B07VKNBLLX/?tag=tolees0ca-21) mit Preis 99.0 EUR (original: 299.9 EUR) 66.99 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ZTE Smartphone Blade 10  16 cm  6 3 Zoll](https://m.media-amazon.com/images/I/41-AADxFqNL._SL400_.jpg)](https://www.amazon.de/dp/B07VKNBLLX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07VKNBLLX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

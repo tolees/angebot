@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMEN 17-cb0221ng  17 3 Zoll / FHD IPS 14 mit 66.65 % Rabatt'
+title: 'OMEN 17-cb0221ng  17 3 Zoll / FHD IPS 144Hz  Gaming Laptop  Intel Core i7-9750H   16GB DDR4 RAM  512GB SSD  Nvidia GeForce RTX 2070 8GB GDDR6  Nvidia G-SYNC  Windows 10  schwarz'
 date: 2020-04-18 00:40:34
 image: 'https://m.media-amazon.com/images/I/41N3Dj+P+qL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.65'
 average: '847.0'
 ---
 
-Sie können [OMEN 17-cb0221ng  17 3 Zoll / FHD IPS 144Hz  Gaming Laptop  Intel Core i7-9750H   16GB DDR4 RAM  512GB SSD  Nvidia GeForce RTX 2070 8GB GDDR6  Nvidia G-SYNC  Windows 10  schwarz](https://www.amazon.de/dp/B07SB1Y89L/?tag=tolees0ca-21) mit Preis 600.0 EUR (original: 1799.0 EUR) 66.65 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![OMEN 17-cb0221ng  17 3 Zoll / FHD IPS 14](https://m.media-amazon.com/images/I/41N3Dj+P+qL._SL400_.jpg)](https://www.amazon.de/dp/B07SB1Y89L/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07SB1Y89L/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Microsoft Surface Book 2 38 1 cm  15 Zol mit 80.53 % Rabatt'
+title: 'Microsoft Surface Book 2 38 1 cm  15 Zoll  Laptop  Intel Core i7-8650U  16GB RAM  256 GB SSD  NVIDIA GeForce GTX 1060  Win 10 Pro  silber'
 date: 2020-05-10 07:19:11
 image: 'https://m.media-amazon.com/images/I/51CrdzF-bkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '80.53'
 average: '1096.3333333333333'
 ---
 
-Sie können [Microsoft Surface Book 2 38 1 cm  15 Zoll  Laptop  Intel Core i7-8650U  16GB RAM  256 GB SSD  NVIDIA GeForce GTX 1060  Win 10 Pro  silber](https://www.amazon.de/dp/B078YHD9BB/?tag=tolees0ca-21) mit Preis 545.0 EUR (original: 2799.0 EUR) 80.53 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Microsoft Surface Book 2 38 1 cm  15 Zol](https://m.media-amazon.com/images/I/51CrdzF-bkL._SL400_.jpg)](https://www.amazon.de/dp/B078YHD9BB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B078YHD9BB/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

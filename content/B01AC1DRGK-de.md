@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75148 - Encounter on Jakk mit 31.43 % Rabatt'
+title: 'LEGO Star Wars 75148 - Encounter on Jakku'
 date: 2020-04-16 17:42:26
 image: 'https://m.media-amazon.com/images/I/51Zbvk4x0jL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.43'
 average: '44.64923076923077'
 ---
 
-Sie können [LEGO Star Wars 75148 - Encounter on Jakku](https://www.amazon.de/dp/B01AC1DRGK/?tag=tolees0ca-21) mit Preis 47.99 EUR (original: 69.99 EUR) 31.43 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Star Wars 75148 - Encounter on Jakk](https://m.media-amazon.com/images/I/51Zbvk4x0jL._SL400_.jpg)](https://www.amazon.de/dp/B01AC1DRGK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01AC1DRGK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

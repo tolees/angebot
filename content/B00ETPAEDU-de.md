@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '55.56 % rabat auf Logitech G602 Wireless Gaming Maus  2500'
+title: 'Logitech G602 Wireless Gaming Maus  2500 DPI Sensor  11 Programmierbare Tasten  250 Stunden Akkulaufzeit  Benutzerdefinierte Spielprofile  Leichtgewicht  PC / Mac'
 date: 2020-02-01 17:43:14
 image: 'https://m.media-amazon.com/images/I/41tupVwdxtL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.56'
 average: '40.96666666666667'
 ---
 
-Es gibt ein [Logitech G602 Wireless Gaming Maus  2500 DPI Sensor  11 Programmierbare Tasten  250 Stunden Akkulaufzeit  Benutzerdefinierte Spielprofile  Leichtgewicht  PC / Mac](https://www.amazon.de/dp/B00ETPAEDU/?tag=tolees0ca-21) mit aktuellem Preis 39.99 EUR (original: 89.99 EUR) 55.56 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Logitech G602 Wireless Gaming Maus  2500](https://m.media-amazon.com/images/I/41tupVwdxtL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00ETPAEDU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ETPAEDU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

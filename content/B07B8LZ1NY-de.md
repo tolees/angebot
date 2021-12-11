@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Haustier-Küche® | Sepiaschalen 20 Stück  mit 44.14 % Rabatt'
+title: 'Haustier-Küche® | Sepiaschalen 20 Stück 8-12cm Größe – Kalzium  Nahrung  Futter für Reptilien – Schildkröten Zubehör | Sepia Schale für Bartagame'
 date: 2020-04-18 00:16:20
 image: 'https://m.media-amazon.com/images/I/41WdhrtzXwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.14'
 average: '9.49'
 ---
 
-Sie können [Haustier-Küche® | Sepiaschalen 20 Stück 8-12cm Größe – Kalzium  Nahrung  Futter für Reptilien – Schildkröten Zubehör | Sepia Schale für Bartagame](https://www.amazon.de/dp/B07B8LZ1NY/?tag=tolees0ca-21) mit Preis 9.49 EUR (original: 16.99 EUR) 44.14 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Haustier-Küche® | Sepiaschalen 20 Stück ](https://m.media-amazon.com/images/I/41WdhrtzXwL._SL400_.jpg)](https://www.amazon.de/dp/B07B8LZ1NY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07B8LZ1NY/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

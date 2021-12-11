@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.99 % rabat auf Guardians Of the Galaxy Legends Iron Man'
+title: 'Guardians Of the Galaxy Legends Iron Man Figure Standard'
 date: 2020-04-14 23:59:14
 image: 'https://m.media-amazon.com/images/I/41N+41vKszL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.99'
 average: '18.3'
 ---
 
-Es gibt ein [Guardians Of the Galaxy Legends Iron Man Figure Standard](https://www.amazon.de/dp/B00LPENFJ8/?tag=tolees0ca-21) mit aktuellem Preis 18.3 EUR (original: 26.14 EUR) 29.99 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Guardians Of the Galaxy Legends Iron Man](https://m.media-amazon.com/images/I/41N+41vKszL._SL400_.jpg)](https://www.amazon.de/dp/B00LPENFJ8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00LPENFJ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '49.08 % rabat auf The Luckiest Man'
+title: 'The Luckiest Man'
 date: 2020-03-05 04:44:05
 image: 'https://m.media-amazon.com/images/I/61HgbTD86uL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.08'
 average: '7.99'
 ---
 
-Es gibt ein [The Luckiest Man](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21) mit aktuellem Preis 7.99 EUR (original: 15.69 EUR) 49.08 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![The Luckiest Man](https://m.media-amazon.com/images/I/61HgbTD86uL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07668BTNV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

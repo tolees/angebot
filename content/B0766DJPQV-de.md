@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.86 % rabat auf PLAYMOBIL Knights 9340 Mobile Zwergenfes'
+title: 'PLAYMOBIL Knights 9340 Mobile Zwergenfestung  Ab 5 Jahren'
 date: 2020-03-27 13:32:49
 image: 'https://m.media-amazon.com/images/I/61eWaP0MI4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.86'
 average: '39.495400000000004'
 ---
 
-Es gibt ein [PLAYMOBIL Knights 9340 Mobile Zwergenfestung  Ab 5 Jahren](https://www.amazon.de/dp/B0766DJPQV/?tag=tolees0ca-21) mit aktuellem Preis 39.99 EUR (original: 69.99 EUR) 42.86 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PLAYMOBIL Knights 9340 Mobile Zwergenfes](https://m.media-amazon.com/images/I/61eWaP0MI4L._SL400_.jpg)](https://www.amazon.de/dp/B0766DJPQV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0766DJPQV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

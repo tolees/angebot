@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.00 % rabat auf ieGeek Überwachungskamera Aussen  WLAN I'
+title: 'ieGeek Überwachungskamera Aussen  WLAN IP Kamera 1080P WiFi Kamera mit 5dBi WiFi Antenne  Zweiwege-Audio  PIR Bewegungserkennung  Infrarot Nachtsicht 30m  Fernzugriff'
 date: 2020-08-30 06:03:30
 image: 'https://m.media-amazon.com/images/I/412dOwT1WLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.00'
 average: '59.99'
 ---
 
-Es gibt ein [ieGeek Überwachungskamera Aussen  WLAN IP Kamera 1080P WiFi Kamera mit 5dBi WiFi Antenne  Zweiwege-Audio  PIR Bewegungserkennung  Infrarot Nachtsicht 30m  Fernzugriff](https://www.amazon.de/dp/B08DHYZJCH/?tag=tolees0ca-21) mit aktuellem Preis 59.99 EUR (original: 79.99 EUR) 25.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ieGeek Überwachungskamera Aussen  WLAN I](https://m.media-amazon.com/images/I/412dOwT1WLL._SL400_.jpg)](https://www.amazon.de/dp/B08DHYZJCH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DHYZJCH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

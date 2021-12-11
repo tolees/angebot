@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hisense RB400N4EG3 Kühl-Gefrier-Kombinat mit 42.54 % Rabatt'
+title: 'Hisense RB400N4EG3 Kühl-Gefrier-Kombination/A+++/No-Frost/Invertermotor/Türanschlag rechts  wechselbar'
 date: 2020-01-26 11:09:17
 image: 'https://m.media-amazon.com/images/I/21-E5So+1PL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.54'
 average: '283.25'
 ---
 
-Sie können [Hisense RB400N4EG3 Kühl-Gefrier-Kombination/A+++/No-Frost/Invertermotor/Türanschlag rechts  wechselbar](https://www.amazon.de/dp/B071F15VDR/?tag=tolees0ca-21) mit Preis 283.25 EUR (original: 492.99 EUR) 42.54 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hisense RB400N4EG3 Kühl-Gefrier-Kombinat](https://m.media-amazon.com/images/I/21-E5So+1PL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B071F15VDR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B071F15VDR/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional  6tlg. Flachfräsbohre mit 22.73 % Rabatt'
+title: 'Bosch Professional  6tlg. Flachfräsbohrer-Set Self Cut Speed mit 1/4"-Sechskantschaft'
 date: 2020-09-15 16:44:20
 image: 'https://m.media-amazon.com/images/I/51uvb8gRqnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.73'
 average: '14.476666666666667'
 ---
 
-Sie können [Bosch Professional  6tlg. Flachfräsbohrer-Set Self Cut Speed mit 1/4"-Sechskantschaft](https://www.amazon.de/dp/B000R5LQWO/?tag=tolees0ca-21) mit Preis 16.22 EUR (original: 20.99 EUR) 22.73 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Professional  6tlg. Flachfräsbohre](https://m.media-amazon.com/images/I/51uvb8gRqnL._SL400_.jpg)](https://www.amazon.de/dp/B000R5LQWO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B000R5LQWO/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

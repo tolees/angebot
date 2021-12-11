@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dyson DYS-5028155 V 7 Motorhead Origin   mit 18.62 % Rabatt'
+title: 'Dyson DYS-5028155 V 7 Motorhead Origin  100 W  21.6 V  Grau  Violett'
 date: 2020-08-30 18:50:14
 image: 'https://m.media-amazon.com/images/I/31MARfgf0aL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.62'
 average: '284.0'
 ---
 
-Sie können [Dyson DYS-5028155 V 7 Motorhead Origin  100 W  21.6 V  Grau  Violett](https://www.amazon.de/dp/B076Z3QFFY/?tag=tolees0ca-21) mit Preis 284.0 EUR (original: 349.0 EUR) 18.62 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dyson DYS-5028155 V 7 Motorhead Origin  ](https://m.media-amazon.com/images/I/31MARfgf0aL._SL400_.jpg)](https://www.amazon.de/dp/B076Z3QFFY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B076Z3QFFY/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

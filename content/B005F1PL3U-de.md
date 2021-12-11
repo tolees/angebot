@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 2386 - Pop! Star Wars - Boba Fett  mit 25.83 % Rabatt'
+title: 'Funko 2386 - Pop! Star Wars - Boba Fett Spielfigur  Vinyl  10cm'
 date: 2020-03-23 21:00:48
 image: 'https://m.media-amazon.com/images/I/41Mokzj5AcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.83'
 average: '13.258571428571429'
 ---
 
-Sie können [Funko 2386 - Pop! Star Wars - Boba Fett Spielfigur  Vinyl  10cm](https://www.amazon.de/dp/B005F1PL3U/?tag=tolees0ca-21) mit Preis 16.31 EUR (original: 21.99 EUR) 25.83 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 2386 - Pop! Star Wars - Boba Fett ](https://m.media-amazon.com/images/I/41Mokzj5AcL._SL400_.jpg)](https://www.amazon.de/dp/B005F1PL3U/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B005F1PL3U/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

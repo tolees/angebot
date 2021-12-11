@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '32.03 % rabat auf Bosch Professional 7tlg. Betonbohrer Set'
+title: 'Bosch Professional 7tlg. Betonbohrer Set CYL-3  für Beton  Ø 4-10 mm  Zubehör Schlagbohrmaschine '
 date: 2020-09-22 07:44:27
 image: 'https://m.media-amazon.com/images/I/41Clf03x6nL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.03'
 average: '8.53'
 ---
 
-Es gibt ein [Bosch Professional 7tlg. Betonbohrer Set CYL-3  für Beton  Ø 4-10 mm  Zubehör Schlagbohrmaschine ](https://www.amazon.de/dp/B008HRFFJE/?tag=tolees0ca-21) mit aktuellem Preis 8.53 EUR (original: 12.55 EUR) 32.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Professional 7tlg. Betonbohrer Set](https://m.media-amazon.com/images/I/41Clf03x6nL._SL400_.jpg)](https://www.amazon.de/dp/B008HRFFJE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B008HRFFJE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

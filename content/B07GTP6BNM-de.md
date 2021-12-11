@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.58 % rabat auf Playmobil - Privatjet'
+title: 'Playmobil - Privatjet'
 date: 2020-01-28 01:42:22
 image: 'https://m.media-amazon.com/images/I/51iqTmcprAL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.58'
 average: '18.225'
 ---
 
-Es gibt ein [Playmobil - Privatjet](https://www.amazon.de/dp/B07GTP6BNM/?tag=tolees0ca-21) mit aktuellem Preis 17.22 EUR (original: 29.99 EUR) 42.58 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil - Privatjet](https://m.media-amazon.com/images/I/51iqTmcprAL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07GTP6BNM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GTP6BNM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

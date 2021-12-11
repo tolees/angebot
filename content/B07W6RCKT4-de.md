@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16.13 % rabat auf Funko POP! Icons MTV - Moon Person Spiel'
+title: 'Funko POP! Icons MTV - Moon Person Spielfigur'
 date: 2020-04-15 15:34:09
 image: 'https://m.media-amazon.com/images/I/51FJpvq0WnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.13'
 average: '13.538461538461538'
 ---
 
-Es gibt ein [Funko POP! Icons MTV - Moon Person Spielfigur](https://www.amazon.de/dp/B07W6RCKT4/?tag=tolees0ca-21) mit aktuellem Preis 12.74 EUR (original: 15.19 EUR) 16.13 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko POP! Icons MTV - Moon Person Spiel](https://m.media-amazon.com/images/I/51FJpvq0WnL._SL400_.jpg)](https://www.amazon.de/dp/B07W6RCKT4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W6RCKT4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

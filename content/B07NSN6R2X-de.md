@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.93 % rabat auf Funko 39547 POP Vinyl Squarepants S3: Sp'
+title: 'Funko 39547 POP Vinyl Squarepants S3: Spongebob w/Pineapple Sammelbares Spielzeug  Mehrfarben  Standard'
 date: 2020-04-13 23:47:12
 image: 'https://m.media-amazon.com/images/I/41ck+8-ktwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.93'
 average: '35.501111111111115'
 ---
 
-Es gibt ein [Funko 39547 POP Vinyl Squarepants S3: Spongebob w/Pineapple Sammelbares Spielzeug  Mehrfarben  Standard](https://www.amazon.de/dp/B07NSN6R2X/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 37.93 EUR) 20.93 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 39547 POP Vinyl Squarepants S3: Sp](https://m.media-amazon.com/images/I/41ck+8-ktwL._SL400_.jpg)](https://www.amazon.de/dp/B07NSN6R2X/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NSN6R2X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

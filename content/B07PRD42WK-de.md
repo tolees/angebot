@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '64.05 % rabat auf Samsung LS01R The Serif 108 cm  43 Zoll '
+title: 'Samsung LS01R The Serif 108 cm  43 Zoll  QLED Lifestyle Fernseher  Serif Ambient Mode  Ultra HD  HDR  Smart TV  Keramikweiß  [Modelljahr 2019]'
 date: 2020-01-10 13:23:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IaYK9H7lL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.05'
 average: '431'
 ---
 
-Es gibt ein [Samsung LS01R The Serif 108 cm  43 Zoll  QLED Lifestyle Fernseher  Serif Ambient Mode  Ultra HD  HDR  Smart TV  Keramikweiß  [Modelljahr 2019]](https://www.amazon.de/dp/B07PRD42WK/?tag=tolees0ca-21) mit aktuellem Preis 431 EUR (original: 1199 EUR) 64.05 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung LS01R The Serif 108 cm  43 Zoll ](https://images-eu.ssl-images-amazon.com/images/I/41IaYK9H7lL._SL400_.jpg)](https://www.amazon.de/dp/B07PRD42WK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PRD42WK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

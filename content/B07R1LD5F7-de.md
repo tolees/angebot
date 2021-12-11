@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Briksmax Led Beleuchtungsset für Creator mit 57.01 % Rabatt'
+title: 'Briksmax Led Beleuchtungsset für Creator Palace Cinema  Kompatibel Mit Lego 10232 Bausteinen Modell - Ohne Lego Set'
 date: 2020-03-08 10:30:00
 image: 'https://m.media-amazon.com/images/I/519CZMD0joL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.01'
 average: '42.99'
 ---
 
-Sie können [Briksmax Led Beleuchtungsset für Creator Palace Cinema  Kompatibel Mit Lego 10232 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07R1LD5F7/?tag=tolees0ca-21) mit Preis 42.99 EUR (original: 99.99 EUR) 57.01 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Briksmax Led Beleuchtungsset für Creator](https://m.media-amazon.com/images/I/519CZMD0joL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07R1LD5F7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07R1LD5F7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

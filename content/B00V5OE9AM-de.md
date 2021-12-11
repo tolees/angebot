@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Complete Studio Album  Limited Coloured  mit 24.70 % Rabatt'
+title: 'Complete Studio Album  Limited Coloured LP-Box  [Vinyl LP]'
 date: 2020-10-01 05:53:21
 image: 'https://m.media-amazon.com/images/I/41zuuFlWDzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.70'
 average: '301.21'
 ---
 
-Sie können [Complete Studio Album  Limited Coloured LP-Box  [Vinyl LP]](https://www.amazon.de/dp/B00V5OE9AM/?tag=tolees0ca-21) mit Preis 301.21 EUR (original: 399.99 EUR) 24.70 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Complete Studio Album  Limited Coloured ](https://m.media-amazon.com/images/I/41zuuFlWDzL._SL400_.jpg)](https://www.amazon.de/dp/B00V5OE9AM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00V5OE9AM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

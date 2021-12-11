@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.01 % rabat auf !Solid Dash Herren Lederjacke Bikerjacke'
+title: '!Solid Dash Herren Lederjacke Bikerjacke Echtleder Mit Stehkragen  Größe:L  Farbe:Cognac  5048 '
 date: 2020-09-27 08:37:58
 image: 'https://m.media-amazon.com/images/I/41mc7wMuPdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.01'
 average: '86.95'
 ---
 
-Es gibt ein [!Solid Dash Herren Lederjacke Bikerjacke Echtleder Mit Stehkragen  Größe:L  Farbe:Cognac  5048 ](https://www.amazon.de/dp/B005LMXP72/?tag=tolees0ca-21) mit aktuellem Preis 86.95 EUR (original: 149.95 EUR) 42.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![!Solid Dash Herren Lederjacke Bikerjacke](https://m.media-amazon.com/images/I/41mc7wMuPdL._SL400_.jpg)](https://www.amazon.de/dp/B005LMXP72/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B005LMXP72/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

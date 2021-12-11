@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Extreme PRO 64 GB SDXC-Speicherk mit 22.27 % Rabatt'
+title: 'SanDisk Extreme PRO 64 GB SDXC-Speicherkarte bis zu 300 MB/Sek  UHS-II  Class 10  U3'
 date: 2020-03-03 15:04:08
 image: 'https://m.media-amazon.com/images/I/51kNqUdmb3L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.27'
 average: '72.99'
 ---
 
-Sie können [SanDisk Extreme PRO 64 GB SDXC-Speicherkarte bis zu 300 MB/Sek  UHS-II  Class 10  U3](https://www.amazon.de/dp/B01JYUU1ZU/?tag=tolees0ca-21) mit Preis 72.99 EUR (original: 93.9 EUR) 22.27 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SanDisk Extreme PRO 64 GB SDXC-Speicherk](https://m.media-amazon.com/images/I/51kNqUdmb3L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01JYUU1ZU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01JYUU1ZU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

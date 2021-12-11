@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ECOVACS DEEBOT OZMO 950 Saug- & Wischrob mit 24.06 % Rabatt'
+title: 'ECOVACS DEEBOT OZMO 950 Saug- & Wischroboter – 2-in-1 Staubsauger-Roboter mit Wischfunktion & intelligenter Navigation – Mit Google Home  Alexa- & App-Steuerung'
 date: 2020-03-25 12:38:53
 image: 'https://m.media-amazon.com/images/I/41bmCUqF2uL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.06'
 average: '517.1433333333333'
 ---
 
-Sie können [ECOVACS DEEBOT OZMO 950 Saug- & Wischroboter – 2-in-1 Staubsauger-Roboter mit Wischfunktion & intelligenter Navigation – Mit Google Home  Alexa- & App-Steuerung](https://www.amazon.de/dp/B07WC1MXN7/?tag=tolees0ca-21) mit Preis 454.9 EUR (original: 599.0 EUR) 24.06 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ECOVACS DEEBOT OZMO 950 Saug- & Wischrob](https://m.media-amazon.com/images/I/41bmCUqF2uL._SL400_.jpg)](https://www.amazon.de/dp/B07WC1MXN7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07WC1MXN7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

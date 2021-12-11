@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'McFarlane Toys Cyberpunk 2077 Action Fig mit 15.99 % Rabatt'
+title: 'McFarlane Toys Cyberpunk 2077 Action Figure Johnny 18 cm Figuren'
 date: 2020-04-13 23:57:05
 image: 'https://m.media-amazon.com/images/I/41iVlV1vjPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.99'
 average: '27.9'
 ---
 
-Sie können [McFarlane Toys Cyberpunk 2077 Action Figure Johnny 18 cm Figuren](https://www.amazon.de/dp/B081J8WJR9/?tag=tolees0ca-21) mit Preis 27.9 EUR (original: 33.21 EUR) 15.99 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![McFarlane Toys Cyberpunk 2077 Action Fig](https://m.media-amazon.com/images/I/41iVlV1vjPL._SL400_.jpg)](https://www.amazon.de/dp/B081J8WJR9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B081J8WJR9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

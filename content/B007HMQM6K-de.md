@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.31 % rabat auf SEVERIN DK 1042 Doppel-Kochplatte  2 Mas'
+title: 'SEVERIN DK 1042 Doppel-Kochplatte  2 Massekochfelder  1x Ø 15 5 cm  1x Ø 18 5 cm  Stufenlose Temperatureinstellung  weiß'
 date: 2020-01-20 16:12:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dIZQDhjdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.31'
 average: '29.84'
 ---
 
-Es gibt ein [SEVERIN DK 1042 Doppel-Kochplatte  2 Massekochfelder  1x Ø 15 5 cm  1x Ø 18 5 cm  Stufenlose Temperatureinstellung  weiß](https://www.amazon.de/dp/B007HMQM6K/?tag=tolees0ca-21) mit aktuellem Preis 29.84 EUR (original: 49.99 EUR) 40.31 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SEVERIN DK 1042 Doppel-Kochplatte  2 Mas](https://images-eu.ssl-images-amazon.com/images/I/31dIZQDhjdL._SL400_.jpg)](https://www.amazon.de/dp/B007HMQM6K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B007HMQM6K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

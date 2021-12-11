@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 025596 Schlüsselanhänger Figur Har mit 42.78 % Rabatt'
+title: 'Funko 025596 Schlüsselanhänger Figur Harry Potter  Multi'
 date: 2020-03-03 14:14:41
 image: 'https://m.media-amazon.com/images/I/41iJzXu6H7L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.78'
 average: '4.0'
 ---
 
-Sie können [Funko 025596 Schlüsselanhänger Figur Harry Potter  Multi](https://www.amazon.de/dp/B017NQWKTW/?tag=tolees0ca-21) mit Preis 4.0 EUR (original: 6.99 EUR) 42.78 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 025596 Schlüsselanhänger Figur Har](https://m.media-amazon.com/images/I/41iJzXu6H7L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B017NQWKTW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B017NQWKTW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

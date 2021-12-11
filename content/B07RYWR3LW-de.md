@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolce & Gabbana K Eau de Toilette  100 m mit 20.29 % Rabatt'
+title: 'Dolce & Gabbana K Eau de Toilette  100 ml'
 date: 2020-03-11 04:57:05
 image: 'https://m.media-amazon.com/images/I/414kpXfG0lL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.29'
 average: '54.95'
 ---
 
-Sie können [Dolce & Gabbana K Eau de Toilette  100 ml](https://www.amazon.de/dp/B07RYWR3LW/?tag=tolees0ca-21) mit Preis 54.95 EUR (original: 68.94 EUR) 20.29 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dolce & Gabbana K Eau de Toilette  100 m](https://m.media-amazon.com/images/I/414kpXfG0lL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07RYWR3LW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07RYWR3LW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

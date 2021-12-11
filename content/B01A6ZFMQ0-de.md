@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.19 % rabat auf ONLY Damen Hose Einfarbige L34Black'
+title: 'ONLY Damen Hose Einfarbige L34Black'
 date: 2020-08-28 05:13:43
 image: 'https://m.media-amazon.com/images/I/31BLEca+w5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.19'
 average: '25.89'
 ---
 
-Es gibt ein [ONLY Damen Hose Einfarbige L34Black](https://www.amazon.de/dp/B01A6ZFMQ0/?tag=tolees0ca-21) mit aktuellem Preis 25.89 EUR (original: 39.95 EUR) 35.19 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ONLY Damen Hose Einfarbige L34Black](https://m.media-amazon.com/images/I/31BLEca+w5L._SL400_.jpg)](https://www.amazon.de/dp/B01A6ZFMQ0/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01A6ZFMQ0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

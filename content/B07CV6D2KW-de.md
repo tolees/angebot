@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.00 % rabat auf JACK & JONES Herren JFWALBANY Leather Br'
+title: 'JACK & JONES Herren JFWALBANY Leather Brown Stone STS Biker Boots  Braun  42 EU'
 date: 2020-03-06 12:37:58
 image: 'https://m.media-amazon.com/images/I/415x-j88YJL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '69.99'
 ---
 
-Es gibt ein [JACK & JONES Herren JFWALBANY Leather Brown Stone STS Biker Boots  Braun  42 EU](https://www.amazon.de/dp/B07CV6D2KW/?tag=tolees0ca-21) mit aktuellem Preis 69.99 EUR (original: 99.99 EUR) 30.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![JACK & JONES Herren JFWALBANY Leather Br](https://m.media-amazon.com/images/I/415x-j88YJL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07CV6D2KW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CV6D2KW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

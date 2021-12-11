@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.97 % rabat auf Kingdom Hearts III - [Xbox One]'
+title: 'Kingdom Hearts III - [Xbox One]'
 date: 2020-04-19 11:41:58
 image: 'https://m.media-amazon.com/images/I/515C38fHm0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.97'
 average: '11.49'
 ---
 
-Es gibt ein [Kingdom Hearts III - [Xbox One]](https://www.amazon.de/dp/B00DMZ4KG0/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 18.49 EUR) 45.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kingdom Hearts III - [Xbox One]](https://m.media-amazon.com/images/I/515C38fHm0L._SL400_.jpg)](https://www.amazon.de/dp/B00DMZ4KG0/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00DMZ4KG0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

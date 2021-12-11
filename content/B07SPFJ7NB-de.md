@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 44515 POP TV: Umbrella Academy-Ben mit 50.62 % Rabatt'
+title: 'Funko 44515 POP TV: Umbrella Academy-Ben Hargreeves Collectible Figure  Multicolour'
 date: 2020-04-07 13:09:22
 image: 'https://m.media-amazon.com/images/I/51uIn7r9PrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.62'
 average: '9.23375'
 ---
 
-Sie können [Funko 44515 POP TV: Umbrella Academy-Ben Hargreeves Collectible Figure  Multicolour](https://www.amazon.de/dp/B07SPFJ7NB/?tag=tolees0ca-21) mit Preis 8.39 EUR (original: 16.99 EUR) 50.62 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 44515 POP TV: Umbrella Academy-Ben](https://m.media-amazon.com/images/I/51uIn7r9PrL._SL400_.jpg)](https://www.amazon.de/dp/B07SPFJ7NB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07SPFJ7NB/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

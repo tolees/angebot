@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.27 % rabat auf The Very Best Of Diana Krall'
+title: 'The Very Best Of Diana Krall'
 date: 2020-09-27 18:07:17
 image: 'https://m.media-amazon.com/images/I/512Pk0q1YgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.27'
 average: '3.92'
 ---
 
-Es gibt ein [The Very Best Of Diana Krall](https://www.amazon.de/dp/B000SO7OL6/?tag=tolees0ca-21) mit aktuellem Preis 3.92 EUR (original: 6.79 EUR) 42.27 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![The Very Best Of Diana Krall](https://m.media-amazon.com/images/I/512Pk0q1YgL._SL400_.jpg)](https://www.amazon.de/dp/B000SO7OL6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000SO7OL6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

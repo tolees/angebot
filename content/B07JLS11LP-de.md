@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 70175 Figurenset Ghostbusters  mit 31.62 % Rabatt'
+title: 'Playmobil 70175 Figurenset Ghostbusters  bunt'
 date: 2020-04-07 21:45:55
 image: 'https://m.media-amazon.com/images/I/51WhL4D-F5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.62'
 average: '13.67'
 ---
 
-Sie können [Playmobil 70175 Figurenset Ghostbusters  bunt](https://www.amazon.de/dp/B07JLS11LP/?tag=tolees0ca-21) mit Preis 13.67 EUR (original: 19.99 EUR) 31.62 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 70175 Figurenset Ghostbusters ](https://m.media-amazon.com/images/I/51WhL4D-F5L._SL400_.jpg)](https://www.amazon.de/dp/B07JLS11LP/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JLS11LP/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

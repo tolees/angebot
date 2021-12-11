@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.60 % rabat auf Knauf Gartenbau Perlite Perligran 2-6 mm'
+title: 'Knauf Gartenbau Perlite Perligran 2-6 mm 100 L • zur Erden- und Substratverbesserung • für optimale Luft- und Wasserführung'
 date: 2020-02-21 18:24:32
 image: 'https://m.media-amazon.com/images/I/41C7bMnMJIL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.60'
 average: '20.02'
 ---
 
-Es gibt ein [Knauf Gartenbau Perlite Perligran 2-6 mm 100 L • zur Erden- und Substratverbesserung • für optimale Luft- und Wasserführung](https://www.amazon.de/dp/B01MYN5TQ8/?tag=tolees0ca-21) mit aktuellem Preis 20.02 EUR (original: 24.9 EUR) 19.60 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Knauf Gartenbau Perlite Perligran 2-6 mm](https://m.media-amazon.com/images/I/41C7bMnMJIL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01MYN5TQ8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MYN5TQ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

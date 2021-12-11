@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.97 % rabat auf Tchibo Cafissimo Pure Kaffee Kapselmasch'
+title: 'Tchibo Cafissimo Pure Kaffee Kapselmaschine  Rot'
 date: 2020-06-11 05:10:56
 image: 'https://m.media-amazon.com/images/I/41wGGIRUZrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.97'
 average: '48.99882352941177'
 ---
 
-Es gibt ein [Tchibo Cafissimo Pure Kaffee Kapselmaschine  Rot](https://www.amazon.de/dp/B01C5PEZ8K/?tag=tolees0ca-21) mit aktuellem Preis 49.0 EUR (original: 79.0 EUR) 37.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Tchibo Cafissimo Pure Kaffee Kapselmasch](https://m.media-amazon.com/images/I/41wGGIRUZrL._SL400_.jpg)](https://www.amazon.de/dp/B01C5PEZ8K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01C5PEZ8K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

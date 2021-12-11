@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.40 % rabat auf BRIKSMAX Led Beleuchtungsset für Lego St'
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kessel Run Millennium Falcon  Kompatibel Mit Lego 75212 Bausteinen Modell - Ohne Lego Set'
 date: 2020-04-11 16:20:55
 image: 'https://m.media-amazon.com/images/I/41BaRYBmAgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.40'
 average: '50.05818181818182'
 ---
 
-Es gibt ein [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kessel Run Millennium Falcon  Kompatibel Mit Lego 75212 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07TXVSWZ6/?tag=tolees0ca-21) mit aktuellem Preis 52.99 EUR (original: 72.99 EUR) 27.40 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego St](https://m.media-amazon.com/images/I/41BaRYBmAgL._SL400_.jpg)](https://www.amazon.de/dp/B07TXVSWZ6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TXVSWZ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

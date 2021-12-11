@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PC DESKTOP COMPLETE INTEL I3-8100 3.6 GH mit 30.35 % Rabatt'
+title: 'PC DESKTOP COMPLETE INTEL I3-8100 3.6 GHZ 8°GEN/LINDING WINDOWS 10 PRO 64 BIT/GRAFIK INTEL HD 630 1 GB 4K / WIFI 150 MBPS /HD 1TB SATA III/ RAM 8 GB DDR4 2133 MHZ /DVD-CD BATTERY/NETZTEIL 500WATT'
 date: 2020-01-07 15:43:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GgPdceeLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.35'
 average: '399.99'
 ---
 
-Sie können [PC DESKTOP COMPLETE INTEL I3-8100 3.6 GHZ 8°GEN/LINDING WINDOWS 10 PRO 64 BIT/GRAFIK INTEL HD 630 1 GB 4K / WIFI 150 MBPS /HD 1TB SATA III/ RAM 8 GB DDR4 2133 MHZ /DVD-CD BATTERY/NETZTEIL 500WATT](https://www.amazon.de/dp/B07BKBB1WX/?tag=tolees0ca-21) mit Preis 399.99 EUR (original: 574.27 EUR) 30.35 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PC DESKTOP COMPLETE INTEL I3-8100 3.6 GH](https://images-eu.ssl-images-amazon.com/images/I/41GgPdceeLL._SL400_.jpg)](https://www.amazon.de/dp/B07BKBB1WX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07BKBB1WX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

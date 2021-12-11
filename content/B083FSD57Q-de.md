@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego Ci mit 63.34 % Rabatt'
+title: 'BRIKSMAX Led Beleuchtungsset für Lego City Mars Forschungsshuttle Kompatibel Mit Lego 60226 Bausteinen Modell - Ohne Lego Set'
 date: 2020-02-04 05:01:12
 image: 'https://m.media-amazon.com/images/I/51dRwQYaKZL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.34'
 average: '21.99'
 ---
 
-Sie können [BRIKSMAX Led Beleuchtungsset für Lego City Mars Forschungsshuttle Kompatibel Mit Lego 60226 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B083FSD57Q/?tag=tolees0ca-21) mit Preis 21.99 EUR (original: 59.99 EUR) 63.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego Ci](https://m.media-amazon.com/images/I/51dRwQYaKZL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B083FSD57Q/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B083FSD57Q/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

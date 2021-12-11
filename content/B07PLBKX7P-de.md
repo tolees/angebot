@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Filofax Kalendereinlage Personal 1 Woche mit 53.78 % Rabatt'
+title: 'Filofax Kalendereinlage Personal 1 Woche auf 2 Seiten vertikal  deutsch 2020'
 date: 2020-03-19 10:16:59
 image: 'https://m.media-amazon.com/images/I/41IYvEgI8+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.78'
 average: '5.5'
 ---
 
-Sie können [Filofax Kalendereinlage Personal 1 Woche auf 2 Seiten vertikal  deutsch 2020](https://www.amazon.de/dp/B07PLBKX7P/?tag=tolees0ca-21) mit Preis 5.5 EUR (original: 11.9 EUR) 53.78 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Filofax Kalendereinlage Personal 1 Woche](https://m.media-amazon.com/images/I/41IYvEgI8+L._SL400_.jpg)](https://www.amazon.de/dp/B07PLBKX7P/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PLBKX7P/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

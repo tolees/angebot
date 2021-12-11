@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crucial Ballistix Sport LT BLS16G4D32AES mit 27.00 % Rabatt'
+title: 'Crucial Ballistix Sport LT BLS16G4D32AESB 3200 MHz  DDR4  DRAM  Desktop Gaming Speicher  16GB  CL16  Grau '
 date: 2020-02-04 05:25:24
 image: 'https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.00'
 average: '65.895'
 ---
 
-Sie können [Crucial Ballistix Sport LT BLS16G4D32AESB 3200 MHz  DDR4  DRAM  Desktop Gaming Speicher  16GB  CL16  Grau ](https://www.amazon.de/dp/B07M5RLSG1/?tag=tolees0ca-21) mit Preis 60.8 EUR (original: 83.29 EUR) 27.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Crucial Ballistix Sport LT BLS16G4D32AES](https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07M5RLSG1/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07M5RLSG1/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

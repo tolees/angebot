@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ersatz Fernbedienung for Philips TV 22PF mit 61.21 % Rabatt'
+title: 'Ersatz Fernbedienung for Philips TV 22PFL3403/60 22PFL3403S/10 22PFL3403S/60 26PFL3403 32PFL3403 32PFL3403/12'
 date: 2020-03-24 14:39:09
 image: 'https://m.media-amazon.com/images/I/41meoX9tRBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.21'
 average: '3.86'
 ---
 
-Sie können [Ersatz Fernbedienung for Philips TV 22PFL3403/60 22PFL3403S/10 22PFL3403S/60 26PFL3403 32PFL3403 32PFL3403/12](https://www.amazon.de/dp/B07NP6YX9D/?tag=tolees0ca-21) mit Preis 3.86 EUR (original: 9.95 EUR) 61.21 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ersatz Fernbedienung for Philips TV 22PF](https://m.media-amazon.com/images/I/41meoX9tRBL._SL400_.jpg)](https://www.amazon.de/dp/B07NP6YX9D/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07NP6YX9D/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

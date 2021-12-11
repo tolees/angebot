@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 45312 POP Movies: Devil Wears Prad mit 27.59 % Rabatt'
+title: 'Funko 45312 POP Movies: Devil Wears Prada - Andy Sachs Collectible Toy  Multicolour'
 date: 2020-04-18 00:45:52
 image: 'https://m.media-amazon.com/images/I/414CxokPoxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.59'
 average: '9.79'
 ---
 
-Sie können [Funko 45312 POP Movies: Devil Wears Prada - Andy Sachs Collectible Toy  Multicolour](https://www.amazon.de/dp/B07W69JTH9/?tag=tolees0ca-21) mit Preis 9.79 EUR (original: 13.52 EUR) 27.59 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 45312 POP Movies: Devil Wears Prad](https://m.media-amazon.com/images/I/414CxokPoxL._SL400_.jpg)](https://www.amazon.de/dp/B07W69JTH9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07W69JTH9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

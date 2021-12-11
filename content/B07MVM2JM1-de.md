@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'super.natural Bequemer Herren Pullover   mit 50.59 % Rabatt'
+title: 'super.natural Bequemer Herren Pullover  Mit Merinowolle  M KNIT SWEATER'
 date: 2020-01-03 13:43:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311jZigggTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.59'
 average: '84'
 ---
 
-Sie können [super.natural Bequemer Herren Pullover  Mit Merinowolle  M KNIT SWEATER](https://www.amazon.de/dp/B07MVM2JM1/?tag=tolees0ca-21) mit Preis 84 EUR (original: 170 EUR) 50.59 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![super.natural Bequemer Herren Pullover  ](https://images-eu.ssl-images-amazon.com/images/I/311jZigggTL._SL400_.jpg)](https://www.amazon.de/dp/B07MVM2JM1/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07MVM2JM1/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

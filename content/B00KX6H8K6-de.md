@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.97 % rabat auf Gorenje R6192FX Kühlschrank / A++ / Höhe'
+title: 'Gorenje R6192FX Kühlschrank / A++ / Höhe 185 cm / Kühlen: 368 L / Dynamic Cooling-Funktion / 7 Glasabstellflächen'
 date: 2020-01-26 04:40:44
 image: 'https://m.media-amazon.com/images/I/31uTRS3qvnL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.97'
 average: '225.0'
 ---
 
-Es gibt ein [Gorenje R6192FX Kühlschrank / A++ / Höhe 185 cm / Kühlen: 368 L / Dynamic Cooling-Funktion / 7 Glasabstellflächen](https://www.amazon.de/dp/B00KX6H8K6/?tag=tolees0ca-21) mit aktuellem Preis 225.0 EUR (original: 458.94 EUR) 50.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gorenje R6192FX Kühlschrank / A++ / Höhe](https://m.media-amazon.com/images/I/31uTRS3qvnL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00KX6H8K6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KX6H8K6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Herren Carson 2 Outdoor Fitnessschu mit 42.48 % Rabatt'
+title: 'Puma Herren Carson 2 Outdoor Fitnessschuhe  Blau  Blue Depths-Quiet Shade-White   44 EU'
 date: 2020-04-27 14:51:06
 image: 'https://m.media-amazon.com/images/I/41IWzk8w8jL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.48'
 average: '37.39'
 ---
 
-Sie können [Puma Herren Carson 2 Outdoor Fitnessschuhe  Blau  Blue Depths-Quiet Shade-White   44 EU](https://www.amazon.de/dp/B06XH3BV5B/?tag=tolees0ca-21) mit Preis 37.39 EUR (original: 65.0 EUR) 42.48 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Puma Herren Carson 2 Outdoor Fitnessschu](https://m.media-amazon.com/images/I/41IWzk8w8jL._SL400_.jpg)](https://www.amazon.de/dp/B06XH3BV5B/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B06XH3BV5B/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

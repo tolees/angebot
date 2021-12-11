@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS  512 GB  - Space Grau mit 35.44 % Rabatt'
+title: 'Apple iPhone XS  512 GB  - Space Grau'
 date: 2020-04-13 06:49:14
 image: 'https://m.media-amazon.com/images/I/51t9poOATPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.44'
 average: '1099.33'
 ---
 
-Sie können [Apple iPhone XS  512 GB  - Space Grau](https://www.amazon.de/dp/B07HBCSYLL/?tag=tolees0ca-21) mit Preis 999.99 EUR (original: 1549.0 EUR) 35.44 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Apple iPhone XS  512 GB  - Space Grau](https://m.media-amazon.com/images/I/51t9poOATPL._SL400_.jpg)](https://www.amazon.de/dp/B07HBCSYLL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HBCSYLL/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

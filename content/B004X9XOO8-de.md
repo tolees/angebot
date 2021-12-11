@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.89 % rabat auf Panasonic VW-PH80XE-K Robuste Softtasche'
+title: 'Panasonic VW-PH80XE-K Robuste Softtasche  geeignet für Camcorder schwarz '
 date: 2020-01-16 09:11:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418S%2BRv-CTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.89'
 average: '16.52'
 ---
 
-Es gibt ein [Panasonic VW-PH80XE-K Robuste Softtasche  geeignet für Camcorder schwarz ](https://www.amazon.de/dp/B004X9XOO8/?tag=tolees0ca-21) mit aktuellem Preis 16.52 EUR (original: 24.99 EUR) 33.89 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Panasonic VW-PH80XE-K Robuste Softtasche](https://images-eu.ssl-images-amazon.com/images/I/418S%2BRv-CTL._SL400_.jpg)](https://www.amazon.de/dp/B004X9XOO8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B004X9XOO8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

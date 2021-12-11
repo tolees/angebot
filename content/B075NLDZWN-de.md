@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer H277HK 69 cm  27 Zoll Ultra HD IPS  mit 26.65 % Rabatt'
+title: 'Acer H277HK 69 cm  27 Zoll Ultra HD IPS  Monitor  USB 3.1 Type-C  DisplayPort  HDMI 2.0  4 ms Reaktionszeit  AMD FreeSync  ZeroFrame  silber'
 date: 2020-05-27 17:34:59
 image: 'https://m.media-amazon.com/images/I/51MCXBeWwSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.65'
 average: '472.83000000000004'
 ---
 
-Sie können [Acer H277HK 69 cm  27 Zoll Ultra HD IPS  Monitor  USB 3.1 Type-C  DisplayPort  HDMI 2.0  4 ms Reaktionszeit  AMD FreeSync  ZeroFrame  silber](https://www.amazon.de/dp/B075NLDZWN/?tag=tolees0ca-21) mit Preis 366.0 EUR (original: 499.0 EUR) 26.65 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Acer H277HK 69 cm  27 Zoll Ultra HD IPS ](https://m.media-amazon.com/images/I/51MCXBeWwSL._SL400_.jpg)](https://www.amazon.de/dp/B075NLDZWN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B075NLDZWN/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '32.00 % rabat auf Fire HD 8 Kids Edition-Tablet  8-Zoll-HD'
+title: 'Fire HD 8 Kids Edition-Tablet  8-Zoll-HD-Display  32 GB  blaue kindgerechte Hülle'
 date: 2020-02-07 18:11:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51SIb3Ayd2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.00'
 average: '84.99'
 ---
 
-Es gibt ein [Fire HD 8 Kids Edition-Tablet  8-Zoll-HD-Display  32 GB  blaue kindgerechte Hülle](https://www.amazon.de/dp/B0794SNF6C/?tag=tolees0ca-21) mit aktuellem Preis 84.99 EUR (original: 124.99 EUR) 32.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Fire HD 8 Kids Edition-Tablet  8-Zoll-HD](https://images-eu.ssl-images-amazon.com/images/I/51SIb3Ayd2L._SL400_.jpg)](https://www.amazon.de/dp/B0794SNF6C/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0794SNF6C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

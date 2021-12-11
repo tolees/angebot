@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.46 % rabat auf Nintendo Gameboy Thermobecher  Edelstahl'
+title: 'Nintendo Gameboy Thermobecher  Edelstahl  Mehrfarbig  9 x 9 x 18 cm'
 date: 2020-08-19 11:19:15
 image: 'https://m.media-amazon.com/images/I/31fnefUu3RL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.46'
 average: '14.0475'
 ---
 
-Es gibt ein [Nintendo Gameboy Thermobecher  Edelstahl  Mehrfarbig  9 x 9 x 18 cm](https://www.amazon.de/dp/B079MH96GQ/?tag=tolees0ca-21) mit aktuellem Preis 13.9 EUR (original: 18.4 EUR) 24.46 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Nintendo Gameboy Thermobecher  Edelstahl](https://m.media-amazon.com/images/I/31fnefUu3RL._SL400_.jpg)](https://www.amazon.de/dp/B079MH96GQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B079MH96GQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

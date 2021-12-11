@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.12 % rabat auf Original Kingston MicroSD Karte Speicher'
+title: 'Original Kingston MicroSD Karte Speicherkarte 32 GB Für Huawei P8 / P8 LITE - 32GB'
 date: 2020-02-16 09:03:23
 image: 'https://m.media-amazon.com/images/I/51uon2gojsL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.12'
 average: '4.33'
 ---
 
-Es gibt ein [Original Kingston MicroSD Karte Speicherkarte 32 GB Für Huawei P8 / P8 LITE - 32GB](https://www.amazon.de/dp/B01HOY7S4U/?tag=tolees0ca-21) mit aktuellem Preis 4.33 EUR (original: 7.89 EUR) 45.12 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Original Kingston MicroSD Karte Speicher](https://m.media-amazon.com/images/I/51uon2gojsL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01HOY7S4U/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01HOY7S4U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

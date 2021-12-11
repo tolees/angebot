@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo Tab P10 25 5 cm  10 1 Zoll Full H mit 25.81 % Rabatt'
+title: 'Lenovo Tab P10 25 5 cm  10 1 Zoll Full HD IPS Touch  Tablet-PC  Qualcomm Snapdragon 450 Octa-Core  4GB RAM  64GB eMCP  Wi-Fi  Android 8.1  schwarz'
 date: 2020-03-15 17:32:25
 image: 'https://m.media-amazon.com/images/I/31S9S8YFrVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.81'
 average: '233.965'
 ---
 
-Sie können [Lenovo Tab P10 25 5 cm  10 1 Zoll Full HD IPS Touch  Tablet-PC  Qualcomm Snapdragon 450 Octa-Core  4GB RAM  64GB eMCP  Wi-Fi  Android 8.1  schwarz](https://www.amazon.de/dp/B07HRXF7RZ/?tag=tolees0ca-21) mit Preis 258.94 EUR (original: 349.0 EUR) 25.81 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Lenovo Tab P10 25 5 cm  10 1 Zoll Full H](https://m.media-amazon.com/images/I/31S9S8YFrVL._SL400_.jpg)](https://www.amazon.de/dp/B07HRXF7RZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HRXF7RZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

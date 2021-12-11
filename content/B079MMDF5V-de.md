@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL Magic 9473 Schneetroll mit Sch mit 50.03 % Rabatt'
+title: 'PLAYMOBIL Magic 9473 Schneetroll mit Schlitten und Lichteffekt  Ab 4 Jahren'
 date: 2020-04-07 13:21:30
 image: 'https://m.media-amazon.com/images/I/51AYzCF1umL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.03'
 average: '10.069473684210525'
 ---
 
-Sie können [PLAYMOBIL Magic 9473 Schneetroll mit Schlitten und Lichteffekt  Ab 4 Jahren](https://www.amazon.de/dp/B079MMDF5V/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 19.99 EUR) 50.03 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PLAYMOBIL Magic 9473 Schneetroll mit Sch](https://m.media-amazon.com/images/I/51AYzCF1umL._SL400_.jpg)](https://www.amazon.de/dp/B079MMDF5V/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079MMDF5V/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

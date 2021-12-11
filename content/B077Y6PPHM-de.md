@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.22 % rabat auf Ravensburger Spielen und Lernen 24920 - '
+title: 'Ravensburger Spielen und Lernen 24920 - Quips'
 date: 2020-09-11 08:27:56
 image: 'https://m.media-amazon.com/images/I/51qIamjqpQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.22'
 average: '14.14'
 ---
 
-Es gibt ein [Ravensburger Spielen und Lernen 24920 - Quips](https://www.amazon.de/dp/B077Y6PPHM/?tag=tolees0ca-21) mit aktuellem Preis 14.14 EUR (original: 28.99 EUR) 51.22 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger Spielen und Lernen 24920 - ](https://m.media-amazon.com/images/I/51qIamjqpQL._SL400_.jpg)](https://www.amazon.de/dp/B077Y6PPHM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B077Y6PPHM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

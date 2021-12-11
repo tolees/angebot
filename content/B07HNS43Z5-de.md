@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips 276E8VJSB/00 68 cm  27 Zoll  Mon mit 20.90 % Rabatt'
+title: 'Philips 276E8VJSB/00 68 cm  27 Zoll  Monitor  HDMI  5ms Reaktionszeit  DisplayPort  3840 x 2160  60 Hz  nicht Curved  4K  Adaptive Sync  schwarz'
 date: 2020-01-24 16:53:23
 image: 'https://m.media-amazon.com/images/I/41Ic0sWp7dL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.90'
 average: '228.61'
 ---
 
-Sie können [Philips 276E8VJSB/00 68 cm  27 Zoll  Monitor  HDMI  5ms Reaktionszeit  DisplayPort  3840 x 2160  60 Hz  nicht Curved  4K  Adaptive Sync  schwarz](https://www.amazon.de/dp/B07HNS43Z5/?tag=tolees0ca-21) mit Preis 228.61 EUR (original: 289.0 EUR) 20.90 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Philips 276E8VJSB/00 68 cm  27 Zoll  Mon](https://m.media-amazon.com/images/I/41Ic0sWp7dL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07HNS43Z5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HNS43Z5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

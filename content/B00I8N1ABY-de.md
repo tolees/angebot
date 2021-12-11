@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Makita Akku-Heckenschere  52 cm  18 V  o mit 59.10 % Rabatt'
+title: 'Makita Akku-Heckenschere  52 cm  18 V  ohne Akku  ohne Ladegerät  DUH523Z'
 date: 2020-01-27 08:02:31
 image: 'https://m.media-amazon.com/images/I/311Iz2JbsVL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.10'
 average: '53.99'
 ---
 
-Sie können [Makita Akku-Heckenschere  52 cm  18 V  ohne Akku  ohne Ladegerät  DUH523Z](https://www.amazon.de/dp/B00I8N1ABY/?tag=tolees0ca-21) mit Preis 53.99 EUR (original: 131.99 EUR) 59.10 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Makita Akku-Heckenschere  52 cm  18 V  o](https://m.media-amazon.com/images/I/311Iz2JbsVL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00I8N1ABY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00I8N1ABY/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

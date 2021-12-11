@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '49.68 % rabat auf Crosby  Stills & Nash - Greatest Hits'
+title: 'Crosby  Stills & Nash - Greatest Hits'
 date: 2020-09-24 09:44:53
 image: 'https://m.media-amazon.com/images/I/61f15LjfP-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.68'
 average: '3.92'
 ---
 
-Es gibt ein [Crosby  Stills & Nash - Greatest Hits](https://www.amazon.de/dp/B0002NUTSI/?tag=tolees0ca-21) mit aktuellem Preis 3.92 EUR (original: 7.79 EUR) 49.68 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Crosby  Stills & Nash - Greatest Hits](https://m.media-amazon.com/images/I/61f15LjfP-L._SL400_.jpg)](https://www.amazon.de/dp/B0002NUTSI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0002NUTSI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

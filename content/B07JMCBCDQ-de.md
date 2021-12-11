@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 70184 1.2.3 LKW mit Sortiergar mit 29.69 % Rabatt'
+title: 'Playmobil 70184 1.2.3 LKW mit Sortiergarage  bunt'
 date: 2020-03-11 18:41:19
 image: 'https://m.media-amazon.com/images/I/51d6i8UHaWL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.69'
 average: '17.4875'
 ---
 
-Sie können [Playmobil 70184 1.2.3 LKW mit Sortiergarage  bunt](https://www.amazon.de/dp/B07JMCBCDQ/?tag=tolees0ca-21) mit Preis 17.57 EUR (original: 24.99 EUR) 29.69 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 70184 1.2.3 LKW mit Sortiergar](https://m.media-amazon.com/images/I/51d6i8UHaWL._SL400_.jpg)](https://www.amazon.de/dp/B07JMCBCDQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JMCBCDQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

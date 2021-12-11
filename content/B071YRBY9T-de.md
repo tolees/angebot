@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer Swift 1 SF113-31-P2CP 33 8 cm  13 3 mit 58.26 % Rabatt'
+title: 'Acer Swift 1 SF113-31-P2CP 33 8 cm  13 3 Zoll Full-HD IPS matt  Ultrabook  Intel Pentium N4200  4GB RAM  256GB SSD  Intel HD  Win 10  silber'
 date: 2020-02-08 17:24:31
 image: 'https://m.media-amazon.com/images/I/414vJK2-f1L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.26'
 average: '250.0'
 ---
 
-Sie können [Acer Swift 1 SF113-31-P2CP 33 8 cm  13 3 Zoll Full-HD IPS matt  Ultrabook  Intel Pentium N4200  4GB RAM  256GB SSD  Intel HD  Win 10  silber](https://www.amazon.de/dp/B071YRBY9T/?tag=tolees0ca-21) mit Preis 250.0 EUR (original: 599.0 EUR) 58.26 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Acer Swift 1 SF113-31-P2CP 33 8 cm  13 3](https://m.media-amazon.com/images/I/414vJK2-f1L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B071YRBY9T/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B071YRBY9T/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

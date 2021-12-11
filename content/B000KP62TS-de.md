@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.95 % rabat auf Cookin   Rudy Van Gelder Remaster '
+title: 'Cookin   Rudy Van Gelder Remaster '
 date: 2020-09-24 09:46:50
 image: 'https://m.media-amazon.com/images/I/61JNuG5D6TL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.95'
 average: '4.41'
 ---
 
-Es gibt ein [Cookin   Rudy Van Gelder Remaster ](https://www.amazon.de/dp/B000KP62TS/?tag=tolees0ca-21) mit aktuellem Preis 4.41 EUR (original: 8.99 EUR) 50.95 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Cookin   Rudy Van Gelder Remaster ](https://m.media-amazon.com/images/I/61JNuG5D6TL._SL400_.jpg)](https://www.amazon.de/dp/B000KP62TS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000KP62TS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

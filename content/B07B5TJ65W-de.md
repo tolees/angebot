@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jurassic Park 2 - Vergessene Welt   4K U mit 15.02 % Rabatt'
+title: 'Jurassic Park 2 - Vergessene Welt   4K Ultra HD   + Blu-ray '
 date: 2020-02-15 04:57:56
 image: 'https://m.media-amazon.com/images/I/51UNs7mkgUL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.02'
 average: '16.97'
 ---
 
-Sie können [Jurassic Park 2 - Vergessene Welt   4K Ultra HD   + Blu-ray ](https://www.amazon.de/dp/B07B5TJ65W/?tag=tolees0ca-21) mit Preis 16.97 EUR (original: 19.97 EUR) 15.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Jurassic Park 2 - Vergessene Welt   4K U](https://m.media-amazon.com/images/I/51UNs7mkgUL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07B5TJ65W/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07B5TJ65W/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

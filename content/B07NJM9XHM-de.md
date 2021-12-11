@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tamaris Damen 1-1-25129-23 Stiefeletten  mit 40.68 % Rabatt'
+title: 'Tamaris Damen 1-1-25129-23 Stiefeletten  Schwarz  Black 1   38 EU'
 date: 2020-01-04 08:45:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31soHXSSebL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.68'
 average: '47.43'
 ---
 
-Sie können [Tamaris Damen 1-1-25129-23 Stiefeletten  Schwarz  Black 1   38 EU](https://www.amazon.de/dp/B07NJM9XHM/?tag=tolees0ca-21) mit Preis 47.43 EUR (original: 79.95 EUR) 40.68 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Tamaris Damen 1-1-25129-23 Stiefeletten ](https://images-eu.ssl-images-amazon.com/images/I/31soHXSSebL._SL400_.jpg)](https://www.amazon.de/dp/B07NJM9XHM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07NJM9XHM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

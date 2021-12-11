@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '82.04 % rabat auf Miss Marple Box  4 DVDs '
+title: 'Miss Marple Box  4 DVDs '
 date: 2020-04-17 23:28:51
 image: 'https://m.media-amazon.com/images/I/417X5KNRFJL._SL500_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '82.04'
 average: '8.98'
 ---
 
-Es gibt ein [Miss Marple Box  4 DVDs ](https://www.amazon.de/dp/B0000TLA6E/?tag=tolees0ca-21) mit aktuellem Preis 8.98 EUR (original: 49.99 EUR) 82.04 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Miss Marple Box  4 DVDs ](https://m.media-amazon.com/images/I/417X5KNRFJL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0000TLA6E/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0000TLA6E/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

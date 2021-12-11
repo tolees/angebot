@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 30773 Austin Powers POP Vinylfigur mit 18.00 % Rabatt'
+title: 'Funko 30773 Austin Powers POP Vinylfigur  Multi'
 date: 2020-04-13 07:44:41
 image: 'https://m.media-amazon.com/images/I/51FzGh4E7QL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.00'
 average: '8.515454545454546'
 ---
 
-Sie können [Funko 30773 Austin Powers POP Vinylfigur  Multi](https://www.amazon.de/dp/B07DFBSH5B/?tag=tolees0ca-21) mit Preis 7.61 EUR (original: 9.28 EUR) 18.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 30773 Austin Powers POP Vinylfigur](https://m.media-amazon.com/images/I/51FzGh4E7QL._SL400_.jpg)](https://www.amazon.de/dp/B07DFBSH5B/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DFBSH5B/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

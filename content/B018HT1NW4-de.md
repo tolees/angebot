@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '49.26 % rabat auf Krampus [Blu-ray]'
+title: 'Krampus [Blu-ray]'
 date: 2020-09-27 18:07:18
 image: 'https://m.media-amazon.com/images/I/51BV12NPXvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.26'
 average: '4.44'
 ---
 
-Es gibt ein [Krampus [Blu-ray]](https://www.amazon.de/dp/B018HT1NW4/?tag=tolees0ca-21) mit aktuellem Preis 4.44 EUR (original: 8.75 EUR) 49.26 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Krampus [Blu-ray]](https://m.media-amazon.com/images/I/51BV12NPXvL._SL400_.jpg)](https://www.amazon.de/dp/B018HT1NW4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B018HT1NW4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

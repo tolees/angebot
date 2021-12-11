@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '47.45 % rabat auf Playmobil 70052 City Life Rettungs-Balan'
+title: 'Playmobil 70052 City Life Rettungs-Balance-Roller  bunt'
 date: 2020-03-08 18:47:55
 image: 'https://m.media-amazon.com/images/I/61uNsHwMe-L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.45'
 average: '4.776666666666666'
 ---
 
-Es gibt ein [Playmobil 70052 City Life Rettungs-Balance-Roller  bunt](https://www.amazon.de/dp/B07JMD494D/?tag=tolees0ca-21) mit aktuellem Preis 5.25 EUR (original: 9.99 EUR) 47.45 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 70052 City Life Rettungs-Balan](https://m.media-amazon.com/images/I/61uNsHwMe-L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07JMD494D/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JMD494D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.74 % rabat auf Anna [Blu-ray]'
+title: 'Anna [Blu-ray]'
 date: 2020-09-21 15:28:10
 image: 'https://m.media-amazon.com/images/I/51c8Rqfv-LL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.74'
 average: '6.33'
 ---
 
-Es gibt ein [Anna [Blu-ray]](https://www.amazon.de/dp/B07TJKC8HV/?tag=tolees0ca-21) mit aktuellem Preis 6.33 EUR (original: 8.76 EUR) 27.74 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Anna [Blu-ray]](https://m.media-amazon.com/images/I/51c8Rqfv-LL._SL400_.jpg)](https://www.amazon.de/dp/B07TJKC8HV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TJKC8HV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

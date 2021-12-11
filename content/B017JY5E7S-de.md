@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hama Fotoalbum  28 x 24 cm  50 schwarze  mit 34.72 % Rabatt'
+title: 'Hama Fotoalbum  28 x 24 cm  50 schwarze Seiten  25 Blatt  mit Ausschnitt für Bildeinschub  Fotobuch kreide'
 date: 2020-04-16 08:08:25
 image: 'https://m.media-amazon.com/images/I/41Erh4PrtQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.72'
 average: '7.37'
 ---
 
-Sie können [Hama Fotoalbum  28 x 24 cm  50 schwarze Seiten  25 Blatt  mit Ausschnitt für Bildeinschub  Fotobuch kreide](https://www.amazon.de/dp/B017JY5E7S/?tag=tolees0ca-21) mit Preis 7.37 EUR (original: 11.29 EUR) 34.72 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hama Fotoalbum  28 x 24 cm  50 schwarze ](https://m.media-amazon.com/images/I/41Erh4PrtQL._SL400_.jpg)](https://www.amazon.de/dp/B017JY5E7S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B017JY5E7S/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

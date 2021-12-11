@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.00 % rabat auf OBEEII Mädchen Anna ELSA Prinzessin Kost'
+title: 'OBEEII Mädchen Anna ELSA Prinzessin Kostüm Eiskönigin Frozen Kleid Schneekönigin Umhang Prinzessinnenkleid Kinder Festlich Karneval Cosplay Party Halloween Festkleid 2-3 Jahre'
 date: 2020-01-28 10:26:33
 image: 'https://m.media-amazon.com/images/I/511X770RgQL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '13.07'
 ---
 
-Es gibt ein [OBEEII Mädchen Anna ELSA Prinzessin Kostüm Eiskönigin Frozen Kleid Schneekönigin Umhang Prinzessinnenkleid Kinder Festlich Karneval Cosplay Party Halloween Festkleid 2-3 Jahre](https://www.amazon.de/dp/B083TF4SNM/?tag=tolees0ca-21) mit aktuellem Preis 13.07 EUR (original: 26.14 EUR) 50.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![OBEEII Mädchen Anna ELSA Prinzessin Kost](https://m.media-amazon.com/images/I/511X770RgQL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B083TF4SNM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B083TF4SNM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

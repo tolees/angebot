@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Craft Damen Greatness Fahrradunterhose   mit 30.63 % Rabatt'
+title: 'Craft Damen Greatness Fahrradunterhose  Black  M'
 date: 2020-04-14 16:04:25
 image: 'https://m.media-amazon.com/images/I/41jX33gHUjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.63'
 average: '30.89'
 ---
 
-Sie können [Craft Damen Greatness Fahrradunterhose  Black  M](https://www.amazon.de/dp/B06W57WQDS/?tag=tolees0ca-21) mit Preis 34.65 EUR (original: 49.95 EUR) 30.63 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Craft Damen Greatness Fahrradunterhose  ](https://m.media-amazon.com/images/I/41jX33gHUjL._SL400_.jpg)](https://www.amazon.de/dp/B06W57WQDS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B06W57WQDS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

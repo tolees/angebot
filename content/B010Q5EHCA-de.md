@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic H-FS1442AEKA LUMIX G Vario Sta mit 29.06 % Rabatt'
+title: 'Panasonic H-FS1442AEKA LUMIX G Vario Stardzoom 14-42 mm F3.5-5.6 II ASPH. Objektiv  28-44 mm KB  O.I.S. Bildstabilisator  schwarz'
 date: 2020-09-28 00:01:47
 image: 'https://m.media-amazon.com/images/I/31AjIhwJKnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.06'
 average: '176.63'
 ---
 
-Sie können [Panasonic H-FS1442AEKA LUMIX G Vario Stardzoom 14-42 mm F3.5-5.6 II ASPH. Objektiv  28-44 mm KB  O.I.S. Bildstabilisator  schwarz](https://www.amazon.de/dp/B010Q5EHCA/?tag=tolees0ca-21) mit Preis 176.63 EUR (original: 249.0 EUR) 29.06 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Panasonic H-FS1442AEKA LUMIX G Vario Sta](https://m.media-amazon.com/images/I/31AjIhwJKnL._SL400_.jpg)](https://www.amazon.de/dp/B010Q5EHCA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B010Q5EHCA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

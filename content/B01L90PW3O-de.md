@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kapsel-Adapter für Dolce Gusto® Maschine mit 27.10 % Rabatt'
+title: 'Kapsel-Adapter für Dolce Gusto® Maschinen'
 date: 2020-01-20 04:36:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/519NLMh2bLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.10'
 average: '5.46'
 ---
 
-Sie können [Kapsel-Adapter für Dolce Gusto® Maschinen](https://www.amazon.de/dp/B01L90PW3O/?tag=tolees0ca-21) mit Preis 5.46 EUR (original: 7.49 EUR) 27.10 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kapsel-Adapter für Dolce Gusto® Maschine](https://images-eu.ssl-images-amazon.com/images/I/519NLMh2bLL._SL400_.jpg)](https://www.amazon.de/dp/B01L90PW3O/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01L90PW3O/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

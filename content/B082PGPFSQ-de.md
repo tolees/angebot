@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.20 % rabat auf s.Oliver Herren 130.11.899.12.130.203784'
+title: 's.Oliver Herren 130.11.899.12.130.2037840 T-Shirt  Blue  XL'
 date: 2020-08-25 10:53:19
 image: 'https://m.media-amazon.com/images/I/41DwQrqef6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.20'
 average: '12.44'
 ---
 
-Es gibt ein [s.Oliver Herren 130.11.899.12.130.2037840 T-Shirt  Blue  XL](https://www.amazon.de/dp/B082PGPFSQ/?tag=tolees0ca-21) mit aktuellem Preis 12.44 EUR (original: 15.99 EUR) 22.20 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![s.Oliver Herren 130.11.899.12.130.203784](https://m.media-amazon.com/images/I/41DwQrqef6L._SL400_.jpg)](https://www.amazon.de/dp/B082PGPFSQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B082PGPFSQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

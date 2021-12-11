@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony WH-H900N High-Resolution Kopfhörer  mit 18.25 % Rabatt'
+title: 'Sony WH-H900N High-Resolution Kopfhörer  Kabelloser  Noise Cancelling  blau'
 date: 2020-03-16 09:22:40
 image: 'https://m.media-amazon.com/images/I/41Ppl8zT5xL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.25'
 average: '169.495'
 ---
 
-Sie können [Sony WH-H900N High-Resolution Kopfhörer  Kabelloser  Noise Cancelling  blau](https://www.amazon.de/dp/B074VF1BW9/?tag=tolees0ca-21) mit Preis 129.99 EUR (original: 159.0 EUR) 18.25 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony WH-H900N High-Resolution Kopfhörer ](https://m.media-amazon.com/images/I/41Ppl8zT5xL._SL400_.jpg)](https://www.amazon.de/dp/B074VF1BW9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B074VF1BW9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

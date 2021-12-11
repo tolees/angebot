@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75974 - Overwatch Bastion  Bauset mit 23.34 % Rabatt'
+title: 'LEGO 75974 - Overwatch Bastion  Bauset'
 date: 2020-02-24 13:17:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51t7nosiYlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.34'
 average: '45.99'
 ---
 
-Sie können [LEGO 75974 - Overwatch Bastion  Bauset](https://www.amazon.de/dp/B07JC3L19N/?tag=tolees0ca-21) mit Preis 45.99 EUR (original: 59.99 EUR) 23.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO 75974 - Overwatch Bastion  Bauset](https://images-eu.ssl-images-amazon.com/images/I/51t7nosiYlL._SL400_.jpg)](https://www.amazon.de/dp/B07JC3L19N/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JC3L19N/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

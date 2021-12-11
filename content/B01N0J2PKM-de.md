@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '52.59 % rabat auf adidas Herren Essentials Basic Poloshirt'
+title: 'adidas Herren Essentials Basic Poloshirt  Black  L'
 date: 2020-03-15 04:42:26
 image: 'https://m.media-amazon.com/images/I/31XYyGQZZRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.59'
 average: '16.57'
 ---
 
-Es gibt ein [adidas Herren Essentials Basic Poloshirt  Black  L](https://www.amazon.de/dp/B01N0J2PKM/?tag=tolees0ca-21) mit aktuellem Preis 16.57 EUR (original: 34.95 EUR) 52.59 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![adidas Herren Essentials Basic Poloshirt](https://m.media-amazon.com/images/I/31XYyGQZZRL._SL400_.jpg)](https://www.amazon.de/dp/B01N0J2PKM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N0J2PKM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nestlé KITKAT ChunKy Salted Caramel Fudg mit 44.50 % Rabatt'
+title: 'Nestlé KITKAT ChunKy Salted Caramel Fudge  Schokoriegel aus Milchschokolade und Fudge-Füllung mit Salznote & knuspriger Waffel  Multi-Pack  24er Pack  24 x 42g '
 date: 2020-02-06 23:47:25
 image: 'https://m.media-amazon.com/images/I/51S6YUjhu5L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.50'
 average: '9.99'
 ---
 
-Sie können [Nestlé KITKAT ChunKy Salted Caramel Fudge  Schokoriegel aus Milchschokolade und Fudge-Füllung mit Salznote & knuspriger Waffel  Multi-Pack  24er Pack  24 x 42g ](https://www.amazon.de/dp/B07H52W3TZ/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 18.0 EUR) 44.50 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Nestlé KITKAT ChunKy Salted Caramel Fudg](https://m.media-amazon.com/images/I/51S6YUjhu5L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07H52W3TZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07H52W3TZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

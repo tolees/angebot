@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '53.56 % rabat auf BRIO Bahn 33204 - Parkhaus  Straßen&Schi'
+title: 'BRIO Bahn 33204 - Parkhaus  Straßen&Schienen'
 date: 2020-09-25 22:02:14
 image: 'https://m.media-amazon.com/images/I/51MSBGMWCQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.56'
 average: '32.5'
 ---
 
-Es gibt ein [BRIO Bahn 33204 - Parkhaus  Straßen&Schienen](https://www.amazon.de/dp/B0001WGI0I/?tag=tolees0ca-21) mit aktuellem Preis 32.5 EUR (original: 69.99 EUR) 53.56 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![BRIO Bahn 33204 - Parkhaus  Straßen&Schi](https://m.media-amazon.com/images/I/51MSBGMWCQL._SL400_.jpg)](https://www.amazon.de/dp/B0001WGI0I/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0001WGI0I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

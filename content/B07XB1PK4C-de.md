@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.03 % rabat auf Need for Speed Heat | Standard | PC Down'
+title: 'Need for Speed Heat | Standard | PC Download - Origin Code'
 date: 2020-03-27 21:16:40
 image: 'https://m.media-amazon.com/images/I/51Zu39-AvUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.03'
 average: '39.983333333333334'
 ---
 
-Es gibt ein [Need for Speed Heat | Standard | PC Download - Origin Code](https://www.amazon.de/dp/B07XB1PK4C/?tag=tolees0ca-21) mit aktuellem Preis 29.98 EUR (original: 59.99 EUR) 50.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Need for Speed Heat | Standard | PC Down](https://m.media-amazon.com/images/I/51Zu39-AvUL._SL400_.jpg)](https://www.amazon.de/dp/B07XB1PK4C/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XB1PK4C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

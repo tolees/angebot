@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS ZenBook Flip 15 UX562FA  90NB0LK1-M mit 49.95 % Rabatt'
+title: 'ASUS ZenBook Flip 15 UX562FA  90NB0LK1-M00360  39 6 cm  15 6 Zoll  FHD  WV  Touch  Convertible  Intel Core i5-8265U  8GB RAM  256GB SSD  Intel UHD-Grafik 620  Windows 10  Grey'
 date: 2020-02-18 12:22:02
 image: 'https://m.media-amazon.com/images/I/41-sqAU5qQL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.95'
 average: '500.0'
 ---
 
-Sie können [ASUS ZenBook Flip 15 UX562FA  90NB0LK1-M00360  39 6 cm  15 6 Zoll  FHD  WV  Touch  Convertible  Intel Core i5-8265U  8GB RAM  256GB SSD  Intel UHD-Grafik 620  Windows 10  Grey](https://www.amazon.de/dp/B07MSQHP71/?tag=tolees0ca-21) mit Preis 500.0 EUR (original: 999.0 EUR) 49.95 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ASUS ZenBook Flip 15 UX562FA  90NB0LK1-M](https://m.media-amazon.com/images/I/41-sqAU5qQL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07MSQHP71/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07MSQHP71/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

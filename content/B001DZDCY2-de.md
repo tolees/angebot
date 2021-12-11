@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.23 % rabat auf Original Motorola Reiselader Netzteil CH'
+title: 'Original Motorola Reiselader Netzteil CH700 für Motorola RAZR V3'
 date: 2020-04-18 11:33:21
 image: 'https://m.media-amazon.com/images/I/41eiWzEbsLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.23'
 average: '9.95'
 ---
 
-Es gibt ein [Original Motorola Reiselader Netzteil CH700 für Motorola RAZR V3](https://www.amazon.de/dp/B001DZDCY2/?tag=tolees0ca-21) mit aktuellem Preis 9.95 EUR (original: 19.99 EUR) 50.23 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Original Motorola Reiselader Netzteil CH](https://m.media-amazon.com/images/I/41eiWzEbsLL._SL400_.jpg)](https://www.amazon.de/dp/B001DZDCY2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B001DZDCY2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

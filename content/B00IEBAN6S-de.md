@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.71 % rabat auf TOTO: 35th Anniversary Tour-Live in Pola'
+title: 'TOTO: 35th Anniversary Tour-Live in Poland [Blu-ray]'
 date: 2020-09-18 05:59:40
 image: 'https://m.media-amazon.com/images/I/51oGEBAtzQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.71'
 average: '9.99'
 ---
 
-Es gibt ein [TOTO: 35th Anniversary Tour-Live in Poland [Blu-ray]](https://www.amazon.de/dp/B00IEBAN6S/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 18.07 EUR) 44.71 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![TOTO: 35th Anniversary Tour-Live in Pola](https://m.media-amazon.com/images/I/51oGEBAtzQL._SL400_.jpg)](https://www.amazon.de/dp/B00IEBAN6S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IEBAN6S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

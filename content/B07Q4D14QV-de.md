@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '53.02 % rabat auf Simba 6315877626 Disney Frozen 2  Chunky'
+title: 'Simba 6315877626 Disney Frozen 2  Chunky ELSA  43cm'
 date: 2020-01-22 10:14:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Js0%2BgJOtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.02'
 average: '15.008333333333333'
 ---
 
-Es gibt ein [Simba 6315877626 Disney Frozen 2  Chunky ELSA  43cm](https://www.amazon.de/dp/B07Q4D14QV/?tag=tolees0ca-21) mit aktuellem Preis 14.09 EUR (original: 29.99 EUR) 53.02 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Simba 6315877626 Disney Frozen 2  Chunky](https://images-eu.ssl-images-amazon.com/images/I/31Js0%2BgJOtL._SL400_.jpg)](https://www.amazon.de/dp/B07Q4D14QV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q4D14QV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

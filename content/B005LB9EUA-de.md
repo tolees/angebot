@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Green Toys Schulbus  Spielzeugauto mit 37.63 % Rabatt'
+title: 'Green Toys Schulbus  Spielzeugauto'
 date: 2020-04-08 13:21:48
 image: 'https://m.media-amazon.com/images/I/51FL5cAKadL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.63'
 average: '31.14'
 ---
 
-Sie können [Green Toys Schulbus  Spielzeugauto](https://www.amazon.de/dp/B005LB9EUA/?tag=tolees0ca-21) mit Preis 31.14 EUR (original: 49.93 EUR) 37.63 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Green Toys Schulbus  Spielzeugauto](https://m.media-amazon.com/images/I/51FL5cAKadL._SL400_.jpg)](https://www.amazon.de/dp/B005LB9EUA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B005LB9EUA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

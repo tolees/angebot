@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.64 % rabat auf Die Edelsteintrilogie  Rubinrot  Saphirb'
+title: 'Die Edelsteintrilogie  Rubinrot  Saphirblau  Smaragdgrün  [4 DVDs]'
 date: 2020-04-15 07:35:02
 image: 'https://m.media-amazon.com/images/I/5137549ZypL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.64'
 average: '17.12'
 ---
 
-Es gibt ein [Die Edelsteintrilogie  Rubinrot  Saphirblau  Smaragdgrün  [4 DVDs]](https://www.amazon.de/dp/B01LWZ3LE2/?tag=tolees0ca-21) mit aktuellem Preis 17.12 EUR (original: 23.99 EUR) 28.64 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Die Edelsteintrilogie  Rubinrot  Saphirb](https://m.media-amazon.com/images/I/5137549ZypL._SL400_.jpg)](https://www.amazon.de/dp/B01LWZ3LE2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LWZ3LE2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

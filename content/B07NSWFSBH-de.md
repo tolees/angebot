@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 40252 POP Vinyl: Animation: Rick & mit 30.46 % Rabatt'
+title: 'Funko 40252 POP Vinyl: Animation: Rick & Morty S6-Dr. Xenon Bloom Sammelbares Spielzeug  Mehrfarben  Standard'
 date: 2020-04-15 07:36:58
 image: 'https://m.media-amazon.com/images/I/41ztMefpcDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.46'
 average: '5.9275'
 ---
 
-Sie können [Funko 40252 POP Vinyl: Animation: Rick & Morty S6-Dr. Xenon Bloom Sammelbares Spielzeug  Mehrfarben  Standard](https://www.amazon.de/dp/B07NSWFSBH/?tag=tolees0ca-21) mit Preis 6.37 EUR (original: 9.16 EUR) 30.46 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 40252 POP Vinyl: Animation: Rick &](https://m.media-amazon.com/images/I/41ztMefpcDL._SL400_.jpg)](https://www.amazon.de/dp/B07NSWFSBH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07NSWFSBH/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

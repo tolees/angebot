@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.41 % rabat auf PLAYMOBIL Family Fun 9420 Sonnige Ferien'
+title: 'PLAYMOBIL Family Fun 9420 Sonnige Ferienvilla  Ab 4 Jahren'
 date: 2020-03-17 10:59:26
 image: 'https://m.media-amazon.com/images/I/613JYAWdUuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.41'
 average: '38.727647058823536'
 ---
 
-Es gibt ein [PLAYMOBIL Family Fun 9420 Sonnige Ferienvilla  Ab 4 Jahren](https://www.amazon.de/dp/B0766DJPRK/?tag=tolees0ca-21) mit aktuellem Preis 29.75 EUR (original: 59.99 EUR) 50.41 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PLAYMOBIL Family Fun 9420 Sonnige Ferien](https://m.media-amazon.com/images/I/613JYAWdUuL._SL400_.jpg)](https://www.amazon.de/dp/B0766DJPRK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0766DJPRK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

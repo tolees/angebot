@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'afri cola ohne Zucker 24er Pack  EINWEG  mit 24.13 % Rabatt'
+title: 'afri cola ohne Zucker 24er Pack  EINWEG  24 x 330 ml '
 date: 2020-09-15 18:58:26
 image: 'https://m.media-amazon.com/images/I/51ugSniyYvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.13'
 average: '12.89'
 ---
 
-Sie können [afri cola ohne Zucker 24er Pack  EINWEG  24 x 330 ml ](https://www.amazon.de/dp/B01D1J5VXW/?tag=tolees0ca-21) mit Preis 12.89 EUR (original: 16.99 EUR) 24.13 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![afri cola ohne Zucker 24er Pack  EINWEG ](https://m.media-amazon.com/images/I/51ugSniyYvL._SL400_.jpg)](https://www.amazon.de/dp/B01D1J5VXW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01D1J5VXW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

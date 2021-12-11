@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mobicool V30  tragbare thermo-elektrisch mit 40.61 % Rabatt'
+title: 'Mobicool V30  tragbare thermo-elektrische Kühlbox  29 Liter  12 V und 230 V für Auto  Lkw  Steckdose'
 date: 2020-04-02 12:06:04
 image: 'https://m.media-amazon.com/images/I/31JAvIp-cdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.61'
 average: '64.375'
 ---
 
-Sie können [Mobicool V30  tragbare thermo-elektrische Kühlbox  29 Liter  12 V und 230 V für Auto  Lkw  Steckdose](https://www.amazon.de/dp/B019PT5QOQ/?tag=tolees0ca-21) mit Preis 58.8 EUR (original: 99.0 EUR) 40.61 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Mobicool V30  tragbare thermo-elektrisch](https://m.media-amazon.com/images/I/31JAvIp-cdL._SL400_.jpg)](https://www.amazon.de/dp/B019PT5QOQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B019PT5QOQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

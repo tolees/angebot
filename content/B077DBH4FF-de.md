@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.02 % rabat auf Enders 5676 Wetterschutzhülle  Schwarz  '
+title: 'Enders 5676 Wetterschutzhülle  Schwarz  50 x 50 x 120 cm'
 date: 2020-01-16 09:07:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31r-pKqbvBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.02'
 average: '19.9'
 ---
 
-Es gibt ein [Enders 5676 Wetterschutzhülle  Schwarz  50 x 50 x 120 cm](https://www.amazon.de/dp/B077DBH4FF/?tag=tolees0ca-21) mit aktuellem Preis 19.9 EUR (original: 26.9 EUR) 26.02 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Enders 5676 Wetterschutzhülle  Schwarz  ](https://images-eu.ssl-images-amazon.com/images/I/31r-pKqbvBL._SL400_.jpg)](https://www.amazon.de/dp/B077DBH4FF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B077DBH4FF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

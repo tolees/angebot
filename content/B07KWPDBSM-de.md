@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TOM TAILOR Herren Jeanshosen Marvin Stra mit 46.15 % Rabatt'
+title: 'TOM TAILOR Herren Jeanshosen Marvin Straight Jeans Dark Stone wash Denim 32/32 10282 6000'
 date: 2020-09-26 09:18:11
 image: 'https://m.media-amazon.com/images/I/41clAYomfkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.15'
 average: '37.69'
 ---
 
-Sie können [TOM TAILOR Herren Jeanshosen Marvin Straight Jeans Dark Stone wash Denim 32/32 10282 6000](https://www.amazon.de/dp/B07KWPDBSM/?tag=tolees0ca-21) mit Preis 37.69 EUR (original: 69.99 EUR) 46.15 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![TOM TAILOR Herren Jeanshosen Marvin Stra](https://m.media-amazon.com/images/I/41clAYomfkL._SL400_.jpg)](https://www.amazon.de/dp/B07KWPDBSM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KWPDBSM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '31.31 % rabat auf POP! Animation: Masters of The Universe '
+title: 'POP! Animation: Masters of The Universe - Sorceress'
 date: 2020-07-18 18:06:12
 image: 'https://m.media-amazon.com/images/I/41lfgle7t+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.31'
 average: '11.67'
 ---
 
-Es gibt ein [POP! Animation: Masters of The Universe - Sorceress](https://www.amazon.de/dp/B07ZZNKGK8/?tag=tolees0ca-21) mit aktuellem Preis 11.67 EUR (original: 16.99 EUR) 31.31 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![POP! Animation: Masters of The Universe ](https://m.media-amazon.com/images/I/41lfgle7t+L._SL400_.jpg)](https://www.amazon.de/dp/B07ZZNKGK8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07ZZNKGK8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

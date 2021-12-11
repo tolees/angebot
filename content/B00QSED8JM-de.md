@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.95 % rabat auf Tuxedo'
+title: 'Tuxedo'
 date: 2020-09-24 09:49:46
 image: 'https://m.media-amazon.com/images/I/51inRME5DSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.95'
 average: '5.73'
 ---
 
-Es gibt ein [Tuxedo](https://www.amazon.de/dp/B00QSED8JM/?tag=tolees0ca-21) mit aktuellem Preis 5.73 EUR (original: 8.18 EUR) 29.95 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Tuxedo](https://m.media-amazon.com/images/I/51inRME5DSL._SL400_.jpg)](https://www.amazon.de/dp/B00QSED8JM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00QSED8JM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

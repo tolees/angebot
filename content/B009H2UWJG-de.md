@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.02 % rabat auf Russian Standard Original Vodka  1 x 0.7'
+title: 'Russian Standard Original Vodka  1 x 0.7 l '
 date: 2020-03-08 04:41:21
 image: 'https://m.media-amazon.com/images/I/31+xmI6UkfL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.02'
 average: '9.99'
 ---
 
-Es gibt ein [Russian Standard Original Vodka  1 x 0.7 l ](https://www.amazon.de/dp/B009H2UWJG/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 12.49 EUR) 20.02 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Russian Standard Original Vodka  1 x 0.7](https://m.media-amazon.com/images/I/31+xmI6UkfL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B009H2UWJG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B009H2UWJG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

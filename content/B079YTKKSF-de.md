@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech G513 mechanische Gaming-Tastatu mit 28.78 % Rabatt'
+title: 'Logitech G513 mechanische Gaming-Tastatur  mit RGB Tastenbeleuchtung und linearen Romer-G Tasten-Switches  Carbon - QWERTZ Deutsches Tastaturlayout '
 date: 2020-01-30 04:49:43
 image: 'https://m.media-amazon.com/images/I/41dl8bHl70L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.78'
 average: '99.0'
 ---
 
-Sie können [Logitech G513 mechanische Gaming-Tastatur  mit RGB Tastenbeleuchtung und linearen Romer-G Tasten-Switches  Carbon - QWERTZ Deutsches Tastaturlayout ](https://www.amazon.de/dp/B079YTKKSF/?tag=tolees0ca-21) mit Preis 99.0 EUR (original: 139.0 EUR) 28.78 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Logitech G513 mechanische Gaming-Tastatu](https://m.media-amazon.com/images/I/41dl8bHl70L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B079YTKKSF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079YTKKSF/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

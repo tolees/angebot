@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.73 % rabat auf STABILO OHPen 853/4 M non-permanent 4er '
+title: 'STABILO OHPen 853/4 M non-permanent 4er Etui '
 date: 2020-03-19 05:11:38
 image: 'https://m.media-amazon.com/images/I/41Fk2RWx5vL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.73'
 average: '3.08'
 ---
 
-Es gibt ein [STABILO OHPen 853/4 M non-permanent 4er Etui ](https://www.amazon.de/dp/B000K6ASZQ/?tag=tolees0ca-21) mit aktuellem Preis 3.08 EUR (original: 5.11 EUR) 39.73 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![STABILO OHPen 853/4 M non-permanent 4er ](https://m.media-amazon.com/images/I/41Fk2RWx5vL._SL400_.jpg)](https://www.amazon.de/dp/B000K6ASZQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000K6ASZQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

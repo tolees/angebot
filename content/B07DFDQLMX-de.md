@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 34460 Riverdale: Reggie in Footbal mit 46.38 % Rabatt'
+title: 'Funko 34460 Riverdale: Reggie in Football Uniform POP Vinylfigur  Multi  Standard'
 date: 2020-03-17 10:48:47
 image: 'https://m.media-amazon.com/images/I/41GX2QZY7xL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.38'
 average: '4.34'
 ---
 
-Sie können [Funko 34460 Riverdale: Reggie in Football Uniform POP Vinylfigur  Multi  Standard](https://www.amazon.de/dp/B07DFDQLMX/?tag=tolees0ca-21) mit Preis 4.29 EUR (original: 8.0 EUR) 46.38 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 34460 Riverdale: Reggie in Footbal](https://m.media-amazon.com/images/I/41GX2QZY7xL._SL400_.jpg)](https://www.amazon.de/dp/B07DFDQLMX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DFDQLMX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Das Schweigen der Lämmer  + Krabat Sonde mit 46.12 % Rabatt'
+title: 'Das Schweigen der Lämmer  + Krabat Sonder-Disc '
 date: 2020-04-15 23:32:40
 image: 'https://m.media-amazon.com/images/I/51B0QoExboL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.12'
 average: '4.3'
 ---
 
-Sie können [Das Schweigen der Lämmer  + Krabat Sonder-Disc ](https://www.amazon.de/dp/B001E1DDSU/?tag=tolees0ca-21) mit Preis 4.3 EUR (original: 7.98 EUR) 46.12 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Das Schweigen der Lämmer  + Krabat Sonde](https://m.media-amazon.com/images/I/51B0QoExboL._SL400_.jpg)](https://www.amazon.de/dp/B001E1DDSU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B001E1DDSU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

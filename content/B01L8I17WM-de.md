@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Supernatural - Staffel 10 [6 DVDs] mit 23.06 % Rabatt'
+title: 'Supernatural - Staffel 10 [6 DVDs]'
 date: 2020-07-14 13:30:03
 image: 'https://m.media-amazon.com/images/I/51dAYWtw1SL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.06'
 average: '9.74'
 ---
 
-Sie können [Supernatural - Staffel 10 [6 DVDs]](https://www.amazon.de/dp/B01L8I17WM/?tag=tolees0ca-21) mit Preis 9.74 EUR (original: 12.66 EUR) 23.06 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Supernatural - Staffel 10 [6 DVDs]](https://m.media-amazon.com/images/I/51dAYWtw1SL._SL400_.jpg)](https://www.amazon.de/dp/B01L8I17WM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01L8I17WM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

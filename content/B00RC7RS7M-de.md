@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ecco Damen SOFT7W Sneakers  Schwarz  BLA mit 35.01 % Rabatt'
+title: 'Ecco Damen SOFT7W Sneakers  Schwarz  BLACK 1001   40 EU'
 date: 2020-10-08 11:21:30
 image: 'https://m.media-amazon.com/images/I/31XcG4HlRVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.01'
 average: '77.99'
 ---
 
-Sie können [Ecco Damen SOFT7W Sneakers  Schwarz  BLACK 1001   40 EU](https://www.amazon.de/dp/B00RC7RS7M/?tag=tolees0ca-21) mit Preis 77.99 EUR (original: 120.0 EUR) 35.01 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ecco Damen SOFT7W Sneakers  Schwarz  BLA](https://m.media-amazon.com/images/I/31XcG4HlRVL._SL400_.jpg)](https://www.amazon.de/dp/B00RC7RS7M/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00RC7RS7M/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

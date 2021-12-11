@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.81 % rabat auf ASUS VivoBook S15 S532FA  90NB0MI2-M0039'
+title: 'ASUS VivoBook S15 S532FA  90NB0MI2-M00390  39 6 cm  15 6 Zoll  FHD  WV  matt  Notebook  Intel Core i5-8265U  8GB RAM  512GB SSD  Intel UHD-Grafik 620  Windows 10  Transparent Silver'
 date: 2020-03-03 13:13:33
 image: 'https://m.media-amazon.com/images/I/4116lQ-2JQL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.81'
 average: '528.5'
 ---
 
-Es gibt ein [ASUS VivoBook S15 S532FA  90NB0MI2-M00390  39 6 cm  15 6 Zoll  FHD  WV  matt  Notebook  Intel Core i5-8265U  8GB RAM  512GB SSD  Intel UHD-Grafik 620  Windows 10  Transparent Silver](https://www.amazon.de/dp/B07SJFYS4J/?tag=tolees0ca-21) mit aktuellem Preis 649.0 EUR (original: 899.0 EUR) 27.81 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ASUS VivoBook S15 S532FA  90NB0MI2-M0039](https://m.media-amazon.com/images/I/4116lQ-2JQL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07SJFYS4J/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SJFYS4J/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

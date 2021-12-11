@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 12921-PDQ POP Schlüsselanhänger Fi mit 42.78 % Rabatt'
+title: 'Funko 12921-PDQ POP Schlüsselanhänger Figur: Rick & Morty: Mr. Meeseeks'
 date: 2020-04-13 07:44:46
 image: 'https://m.media-amazon.com/images/I/31cmg59l1WL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.78'
 average: '4.0'
 ---
 
-Sie können [Funko 12921-PDQ POP Schlüsselanhänger Figur: Rick & Morty: Mr. Meeseeks](https://www.amazon.de/dp/B01N10LJN9/?tag=tolees0ca-21) mit Preis 4.0 EUR (original: 6.99 EUR) 42.78 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 12921-PDQ POP Schlüsselanhänger Fi](https://m.media-amazon.com/images/I/31cmg59l1WL._SL400_.jpg)](https://www.amazon.de/dp/B01N10LJN9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01N10LJN9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

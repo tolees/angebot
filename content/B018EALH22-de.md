@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '47.85 % rabat auf Mattel Games DPX25 - Mister Pups lustige'
+title: 'Mattel Games DPX25 - Mister Pups lustiges Kartenspiel und Kinderspiel geeignet für 2 - 6 Spieler  Kinderspiele ab 5 Jahren'
 date: 2020-03-29 13:02:00
 image: 'https://m.media-amazon.com/images/I/51K9W+nRcNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.85'
 average: '11.99'
 ---
 
-Es gibt ein [Mattel Games DPX25 - Mister Pups lustiges Kartenspiel und Kinderspiel geeignet für 2 - 6 Spieler  Kinderspiele ab 5 Jahren](https://www.amazon.de/dp/B018EALH22/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 22.99 EUR) 47.85 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Mattel Games DPX25 - Mister Pups lustige](https://m.media-amazon.com/images/I/51K9W+nRcNL._SL400_.jpg)](https://www.amazon.de/dp/B018EALH22/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B018EALH22/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vtech 80-520904 Switch & Go Dinos - Steg mit 15.05 % Rabatt'
+title: 'Vtech 80-520904 Switch & Go Dinos - Stegosaurus  Spielzeugdinosaurier  Mehrfarbig'
 date: 2020-04-18 00:34:59
 image: 'https://m.media-amazon.com/images/I/41cU1Ovmt1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.05'
 average: '18.68'
 ---
 
-Sie können [Vtech 80-520904 Switch & Go Dinos - Stegosaurus  Spielzeugdinosaurier  Mehrfarbig](https://www.amazon.de/dp/B07P5SKCRQ/?tag=tolees0ca-21) mit Preis 18.68 EUR (original: 21.99 EUR) 15.05 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Vtech 80-520904 Switch & Go Dinos - Steg](https://m.media-amazon.com/images/I/41cU1Ovmt1L._SL400_.jpg)](https://www.amazon.de/dp/B07P5SKCRQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07P5SKCRQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

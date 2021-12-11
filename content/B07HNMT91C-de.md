@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS ROG STRIX NVIDIA GeForce RTX 2080 T mit 63.22 % Rabatt'
+title: 'ASUS ROG STRIX NVIDIA GeForce RTX 2080 Ti OC 11G Gaming Grafikkarte  PCIe 3.0  11GB DDR6 Speicher  HDMI  Displayport  USB Type-C '
 date: 2020-03-29 06:08:49
 image: 'https://m.media-amazon.com/images/I/516DSMtIqwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.22'
 average: '959.995'
 ---
 
-Sie können [ASUS ROG STRIX NVIDIA GeForce RTX 2080 Ti OC 11G Gaming Grafikkarte  PCIe 3.0  11GB DDR6 Speicher  HDMI  Displayport  USB Type-C ](https://www.amazon.de/dp/B07HNMT91C/?tag=tolees0ca-21) mit Preis 520.0 EUR (original: 1413.62 EUR) 63.22 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ASUS ROG STRIX NVIDIA GeForce RTX 2080 T](https://m.media-amazon.com/images/I/516DSMtIqwL._SL400_.jpg)](https://www.amazon.de/dp/B07HNMT91C/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HNMT91C/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

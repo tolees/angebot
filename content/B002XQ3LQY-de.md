@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rosti Mepal Vorratsdose Modula Starterse mit 33.34 % Rabatt'
+title: 'Rosti Mepal Vorratsdose Modula Starterset  5-teilig'
 date: 2020-04-11 16:03:06
 image: 'https://m.media-amazon.com/images/I/41-36EQqt-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '19.99'
 ---
 
-Sie können [Rosti Mepal Vorratsdose Modula Starterset  5-teilig](https://www.amazon.de/dp/B002XQ3LQY/?tag=tolees0ca-21) mit Preis 19.99 EUR (original: 29.99 EUR) 33.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Rosti Mepal Vorratsdose Modula Starterse](https://m.media-amazon.com/images/I/41-36EQqt-L._SL400_.jpg)](https://www.amazon.de/dp/B002XQ3LQY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B002XQ3LQY/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

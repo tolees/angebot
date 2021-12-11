@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.59 % rabat auf Playmobil 9091 - RC-Rock n Roll-Racer'
+title: 'Playmobil 9091 - RC-Rock n Roll-Racer'
 date: 2020-04-07 21:45:26
 image: 'https://m.media-amazon.com/images/I/513NPDLh5UL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.59'
 average: '26.719375'
 ---
 
-Es gibt ein [Playmobil 9091 - RC-Rock n Roll-Racer](https://www.amazon.de/dp/B01LX4TJJJ/?tag=tolees0ca-21) mit aktuellem Preis 22.9 EUR (original: 28.48 EUR) 19.59 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 9091 - RC-Rock n Roll-Racer](https://m.media-amazon.com/images/I/513NPDLh5UL._SL400_.jpg)](https://www.amazon.de/dp/B01LX4TJJJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LX4TJJJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

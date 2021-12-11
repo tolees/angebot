@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garmin Edge Explore GPS-Fahrrad-Navi - V mit 40.02 % Rabatt'
+title: 'Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte Europakarte  Navigationsfunktionen  3“ Touchscreen  einfache Bedienung'
 date: 2020-03-01 07:41:38
 image: 'https://m.media-amazon.com/images/I/41Ksbd-bdXL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.02'
 average: '161.0975'
 ---
 
-Sie können [Garmin Edge Explore GPS-Fahrrad-Navi - Vorinstallierte Europakarte  Navigationsfunktionen  3“ Touchscreen  einfache Bedienung](https://www.amazon.de/dp/B07DX231ST/?tag=tolees0ca-21) mit Preis 149.95 EUR (original: 249.99 EUR) 40.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Garmin Edge Explore GPS-Fahrrad-Navi - V](https://m.media-amazon.com/images/I/41Ksbd-bdXL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07DX231ST/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DX231ST/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

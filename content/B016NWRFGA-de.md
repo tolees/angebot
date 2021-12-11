@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.04 % rabat auf Wrebbit 3D W3D-2014 Harry Potter 3D Puzz'
+title: 'Wrebbit 3D W3D-2014 Harry Potter 3D Puzzle  bunt'
 date: 2020-03-14 04:57:03
 image: 'https://m.media-amazon.com/images/I/51sv8uUWjBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.04'
 average: '27.99'
 ---
 
-Es gibt ein [Wrebbit 3D W3D-2014 Harry Potter 3D Puzzle  bunt](https://www.amazon.de/dp/B016NWRFGA/?tag=tolees0ca-21) mit aktuellem Preis 27.99 EUR (original: 35.45 EUR) 21.04 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Wrebbit 3D W3D-2014 Harry Potter 3D Puzz](https://m.media-amazon.com/images/I/51sv8uUWjBL._SL400_.jpg)](https://www.amazon.de/dp/B016NWRFGA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B016NWRFGA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

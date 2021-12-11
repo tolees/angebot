@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 70013 Western Westernkutsche   mit 44.11 % Rabatt'
+title: 'Playmobil 70013 Western Westernkutsche  bunt'
 date: 2020-04-18 00:25:51
 image: 'https://m.media-amazon.com/images/I/51dH3ieFZOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.11'
 average: '16.073174603174603'
 ---
 
-Sie können [Playmobil 70013 Western Westernkutsche  bunt](https://www.amazon.de/dp/B07JKWPRQL/?tag=tolees0ca-21) mit Preis 17.88 EUR (original: 31.99 EUR) 44.11 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 70013 Western Westernkutsche  ](https://m.media-amazon.com/images/I/51dH3ieFZOL._SL400_.jpg)](https://www.amazon.de/dp/B07JKWPRQL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JKWPRQL/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

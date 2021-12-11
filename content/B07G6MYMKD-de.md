@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.25 % rabat auf Ultimate Ears Megaboom 3 Bluetooth Lauts'
+title: 'Ultimate Ears Megaboom 3 Bluetooth Lautsprecher  Wasserdichter 360°-Sound  - Mitternachtsschwarz'
 date: 2020-03-10 04:44:42
 image: 'https://m.media-amazon.com/images/I/41QPpq8IhnL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.25'
 average: '99.0'
 ---
 
-Es gibt ein [Ultimate Ears Megaboom 3 Bluetooth Lautsprecher  Wasserdichter 360°-Sound  - Mitternachtsschwarz](https://www.amazon.de/dp/B07G6MYMKD/?tag=tolees0ca-21) mit aktuellem Preis 99.0 EUR (original: 199.0 EUR) 50.25 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ultimate Ears Megaboom 3 Bluetooth Lauts](https://m.media-amazon.com/images/I/41QPpq8IhnL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07G6MYMKD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G6MYMKD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

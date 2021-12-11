@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '52.53 % rabat auf camel active Herren 488845/9939 Jeans  D'
+title: 'camel active Herren 488845/9939 Jeans  Dark Blue Used  W33/ L34  Herstellergröße: 33/34 '
 date: 2020-09-26 22:49:09
 image: 'https://m.media-amazon.com/images/I/41Cvzz6pVKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.53'
 average: '37.95'
 ---
 
-Es gibt ein [camel active Herren 488845/9939 Jeans  Dark Blue Used  W33/ L34  Herstellergröße: 33/34 ](https://www.amazon.de/dp/B00K8OT6IK/?tag=tolees0ca-21) mit aktuellem Preis 37.95 EUR (original: 79.95 EUR) 52.53 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![camel active Herren 488845/9939 Jeans  D](https://m.media-amazon.com/images/I/41Cvzz6pVKL._SL400_.jpg)](https://www.amazon.de/dp/B00K8OT6IK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00K8OT6IK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

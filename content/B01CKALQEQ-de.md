@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickie Toys City Train  Zug  Spielzeugzu mit 42.88 % Rabatt'
+title: 'Dickie Toys City Train  Zug  Spielzeugzug  Bahn  Türen und Dach zum Öffnen  Interieur  Maßstab: 1:43  45 cm  ab 3 Jahren'
 date: 2020-04-11 08:09:57
 image: 'https://m.media-amazon.com/images/I/41XYDCObzLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.88'
 average: '9.99'
 ---
 
-Sie können [Dickie Toys City Train  Zug  Spielzeugzug  Bahn  Türen und Dach zum Öffnen  Interieur  Maßstab: 1:43  45 cm  ab 3 Jahren](https://www.amazon.de/dp/B01CKALQEQ/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 17.49 EUR) 42.88 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dickie Toys City Train  Zug  Spielzeugzu](https://m.media-amazon.com/images/I/41XYDCObzLL._SL400_.jpg)](https://www.amazon.de/dp/B01CKALQEQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01CKALQEQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

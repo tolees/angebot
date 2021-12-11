@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 42192 POP Vinyl: Harry Potter S7-P mit 38.43 % Rabatt'
+title: 'Funko 42192 POP Vinyl: Harry Potter S7-Professor Sybill Trelawney Sammelbares Spielzeug  Mehrfarben  Standard'
 date: 2020-04-16 08:10:05
 image: 'https://m.media-amazon.com/images/I/41-jWWuqrfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.43'
 average: '11.089999999999998'
 ---
 
-Sie können [Funko 42192 POP Vinyl: Harry Potter S7-Professor Sybill Trelawney Sammelbares Spielzeug  Mehrfarben  Standard](https://www.amazon.de/dp/B07P82NFF5/?tag=tolees0ca-21) mit Preis 9.79 EUR (original: 15.9 EUR) 38.43 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 42192 POP Vinyl: Harry Potter S7-P](https://m.media-amazon.com/images/I/41-jWWuqrfL._SL400_.jpg)](https://www.amazon.de/dp/B07P82NFF5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07P82NFF5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

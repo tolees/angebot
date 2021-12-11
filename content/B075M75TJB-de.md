@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kirby Battle Royale - [Nintendo 3DS] mit 56.45 % Rabatt'
+title: 'Kirby Battle Royale - [Nintendo 3DS]'
 date: 2020-08-14 13:35:48
 image: 'https://m.media-amazon.com/images/I/61bphIOQX0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.45'
 average: '9.99'
 ---
 
-Sie können [Kirby Battle Royale - [Nintendo 3DS]](https://www.amazon.de/dp/B075M75TJB/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 22.94 EUR) 56.45 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kirby Battle Royale - [Nintendo 3DS]](https://m.media-amazon.com/images/I/61bphIOQX0L._SL400_.jpg)](https://www.amazon.de/dp/B075M75TJB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B075M75TJB/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

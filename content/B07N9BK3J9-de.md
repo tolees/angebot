@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JBL Live 500BT kabellose Over-Ear Kopfhö mit 46.98 % Rabatt'
+title: 'JBL Live 500BT kabellose Over-Ear Kopfhörer - Bluetooth Ohrhörer mit 30 Stunden Akkulaufzeit und Alexa-Integration - Musik hören  streamen und telefonieren unterwegs  weiß'
 date: 2020-04-16 20:45:50
 image: 'https://m.media-amazon.com/images/I/318OvO0VvhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.98'
 average: '79.0'
 ---
 
-Sie können [JBL Live 500BT kabellose Over-Ear Kopfhörer - Bluetooth Ohrhörer mit 30 Stunden Akkulaufzeit und Alexa-Integration - Musik hören  streamen und telefonieren unterwegs  weiß](https://www.amazon.de/dp/B07N9BK3J9/?tag=tolees0ca-21) mit Preis 79.0 EUR (original: 149.0 EUR) 46.98 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![JBL Live 500BT kabellose Over-Ear Kopfhö](https://m.media-amazon.com/images/I/318OvO0VvhL._SL400_.jpg)](https://www.amazon.de/dp/B07N9BK3J9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07N9BK3J9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

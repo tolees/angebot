@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 41475 Action Figur: Dark Crystal - mit 17.94 % Rabatt'
+title: 'Funko 41475 Action Figur: Dark Crystal - Silk Sammelbares Spielzeug  Mehrfarben'
 date: 2020-02-20 03:58:42
 image: 'https://m.media-amazon.com/images/I/319txYgETUL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.94'
 average: '11.836666666666668'
 ---
 
-Sie können [Funko 41475 Action Figur: Dark Crystal - Silk Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07PBBW1MG/?tag=tolees0ca-21) mit Preis 11.48 EUR (original: 13.99 EUR) 17.94 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 41475 Action Figur: Dark Crystal -](https://m.media-amazon.com/images/I/319txYgETUL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PBBW1MG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PBBW1MG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

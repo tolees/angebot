@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Barilla Hartweizen Pasta Risoni n. 26 –  mit 66.89 % Rabatt'
+title: 'Barilla Hartweizen Pasta Risoni n. 26 – 1er Pack  1x500g '
 date: 2020-09-25 08:49:45
 image: 'https://m.media-amazon.com/images/I/51FIyFRbkJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.89'
 average: '0.99'
 ---
 
-Sie können [Barilla Hartweizen Pasta Risoni n. 26 – 1er Pack  1x500g ](https://www.amazon.de/dp/B007VJSL1I/?tag=tolees0ca-21) mit Preis 0.99 EUR (original: 2.99 EUR) 66.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Barilla Hartweizen Pasta Risoni n. 26 – ](https://m.media-amazon.com/images/I/51FIyFRbkJL._SL400_.jpg)](https://www.amazon.de/dp/B007VJSL1I/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B007VJSL1I/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

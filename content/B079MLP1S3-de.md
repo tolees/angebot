@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil Space 9487 Mars-Station  Ab 6  mit 28.52 % Rabatt'
+title: 'Playmobil Space 9487 Mars-Station  Ab 6 Jahren'
 date: 2020-08-04 23:50:02
 image: 'https://m.media-amazon.com/images/I/51Y3-6WD+WL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.52'
 average: '48.622222222222234'
 ---
 
-Sie können [Playmobil Space 9487 Mars-Station  Ab 6 Jahren](https://www.amazon.de/dp/B079MLP1S3/?tag=tolees0ca-21) mit Preis 52.25 EUR (original: 73.1 EUR) 28.52 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil Space 9487 Mars-Station  Ab 6 ](https://m.media-amazon.com/images/I/51Y3-6WD+WL._SL400_.jpg)](https://www.amazon.de/dp/B079MLP1S3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079MLP1S3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

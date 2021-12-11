@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 36659 POP Bobble: Avengers Endgame mit 63.84 % Rabatt'
+title: 'Funko 36659 POP Bobble: Avengers Endgame: Hulk Sammelfiguren  Multi  Standard'
 date: 2020-04-01 05:03:12
 image: 'https://m.media-amazon.com/images/I/41DZtMw+5vL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.84'
 average: '5.75'
 ---
 
-Sie können [Funko 36659 POP Bobble: Avengers Endgame: Hulk Sammelfiguren  Multi  Standard](https://www.amazon.de/dp/B07KPTNZRN/?tag=tolees0ca-21) mit Preis 5.75 EUR (original: 15.9 EUR) 63.84 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 36659 POP Bobble: Avengers Endgame](https://m.media-amazon.com/images/I/41DZtMw+5vL._SL400_.jpg)](https://www.amazon.de/dp/B07KPTNZRN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KPTNZRN/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

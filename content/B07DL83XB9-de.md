@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Landwirtschafts-Simulator 19 PS4 mit 24.00 % Rabatt'
+title: 'Landwirtschafts-Simulator 19 PS4'
 date: 2020-01-08 19:18:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51koWzp1eWL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.00'
 average: '37.99'
 ---
 
-Sie können [Landwirtschafts-Simulator 19 PS4](https://www.amazon.de/dp/B07DL83XB9/?tag=tolees0ca-21) mit Preis 37.99 EUR (original: 49.99 EUR) 24.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Landwirtschafts-Simulator 19 PS4](https://images-eu.ssl-images-amazon.com/images/I/51koWzp1eWL._SL400_.jpg)](https://www.amazon.de/dp/B07DL83XB9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DL83XB9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

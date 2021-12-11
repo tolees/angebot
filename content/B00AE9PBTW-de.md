@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ice Age 1  2  3 & 4  Limitierte Sonderbo mit 41.98 % Rabatt'
+title: 'Ice Age 1  2  3 & 4  Limitierte Sonderbox mit Ice Age Figuren!  [Blu-ray]'
 date: 2020-04-09 23:41:56
 image: 'https://m.media-amazon.com/images/I/51GlgeXMsML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.98'
 average: '22.04'
 ---
 
-Sie können [Ice Age 1  2  3 & 4  Limitierte Sonderbox mit Ice Age Figuren!  [Blu-ray]](https://www.amazon.de/dp/B00AE9PBTW/?tag=tolees0ca-21) mit Preis 22.04 EUR (original: 37.99 EUR) 41.98 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ice Age 1  2  3 & 4  Limitierte Sonderbo](https://m.media-amazon.com/images/I/51GlgeXMsML._SL400_.jpg)](https://www.amazon.de/dp/B00AE9PBTW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00AE9PBTW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

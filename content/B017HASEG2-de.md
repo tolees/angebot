@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '32.86 % rabat auf Hasbro B5286ES2 Disney Prinzessin Schimm'
+title: 'Hasbro B5286ES2 Disney Prinzessin Schimmerglanz Rapunzel'
 date: 2020-04-16 08:02:22
 image: 'https://m.media-amazon.com/images/I/41uRMQYfXdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.86'
 average: '12.75'
 ---
 
-Es gibt ein [Hasbro B5286ES2 Disney Prinzessin Schimmerglanz Rapunzel](https://www.amazon.de/dp/B017HASEG2/?tag=tolees0ca-21) mit aktuellem Preis 12.75 EUR (original: 18.99 EUR) 32.86 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hasbro B5286ES2 Disney Prinzessin Schimm](https://m.media-amazon.com/images/I/41uRMQYfXdL._SL400_.jpg)](https://www.amazon.de/dp/B017HASEG2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B017HASEG2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

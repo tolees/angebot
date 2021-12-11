@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.42 % rabat auf VAUDE Damen Hose Women s Farley Stretch '
+title: 'VAUDE Damen Hose Women s Farley Stretch Capri T-Zip II  Black  44  045770100440'
 date: 2020-08-30 12:26:51
 image: 'https://m.media-amazon.com/images/I/31m02kGXxuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.42'
 average: '73.972'
 ---
 
-Es gibt ein [VAUDE Damen Hose Women s Farley Stretch Capri T-Zip II  Black  44  045770100440](https://www.amazon.de/dp/B00BL9E4OW/?tag=tolees0ca-21) mit aktuellem Preis 73.24 EUR (original: 110.0 EUR) 33.42 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![VAUDE Damen Hose Women s Farley Stretch ](https://m.media-amazon.com/images/I/31m02kGXxuL._SL400_.jpg)](https://www.amazon.de/dp/B00BL9E4OW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BL9E4OW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

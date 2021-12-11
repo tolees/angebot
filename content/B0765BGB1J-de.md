@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City Arktis-Eiskran auf Stelzen 601 mit 18.96 % Rabatt'
+title: 'LEGO City Arktis-Eiskran auf Stelzen 60192 Kinderspielzeug'
 date: 2020-02-10 09:22:03
 image: 'https://m.media-amazon.com/images/I/516g3ynHbiL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.96'
 average: '16.2'
 ---
 
-Sie können [LEGO City Arktis-Eiskran auf Stelzen 60192 Kinderspielzeug](https://www.amazon.de/dp/B0765BGB1J/?tag=tolees0ca-21) mit Preis 16.2 EUR (original: 19.99 EUR) 18.96 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO City Arktis-Eiskran auf Stelzen 601](https://m.media-amazon.com/images/I/516g3ynHbiL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0765BGB1J/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0765BGB1J/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

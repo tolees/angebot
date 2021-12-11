@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grundig Multi-Zerkleinerer  0 5 L Plasti mit 45.66 % Rabatt'
+title: 'Grundig Multi-Zerkleinerer  0 5 L Plastic  Delisia'
 date: 2020-01-16 20:38:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gIQ5eTE1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.66'
 average: '32.6'
 ---
 
-Sie können [Grundig Multi-Zerkleinerer  0 5 L Plastic  Delisia](https://www.amazon.de/dp/B01NGTH95K/?tag=tolees0ca-21) mit Preis 32.6 EUR (original: 59.99 EUR) 45.66 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Grundig Multi-Zerkleinerer  0 5 L Plasti](https://images-eu.ssl-images-amazon.com/images/I/41gIQ5eTE1L._SL400_.jpg)](https://www.amazon.de/dp/B01NGTH95K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01NGTH95K/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

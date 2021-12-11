@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Siemens LZ10AFA00 Aktivkohlefilter mit 22.00 % Rabatt'
+title: 'Siemens LZ10AFA00 Aktivkohlefilter'
 date: 2020-04-02 17:04:17
 image: 'https://m.media-amazon.com/images/I/41ZbwqisajL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.00'
 average: '81.9'
 ---
 
-Sie können [Siemens LZ10AFA00 Aktivkohlefilter](https://www.amazon.de/dp/B01LXG7ILD/?tag=tolees0ca-21) mit Preis 81.9 EUR (original: 105.0 EUR) 22.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Siemens LZ10AFA00 Aktivkohlefilter](https://m.media-amazon.com/images/I/41ZbwqisajL._SL400_.jpg)](https://www.amazon.de/dp/B01LXG7ILD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01LXG7ILD/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

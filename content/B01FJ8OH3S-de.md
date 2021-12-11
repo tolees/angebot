@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional Schwingschleifer GSS  mit 49.09 % Rabatt'
+title: 'Bosch Professional Schwingschleifer GSS 160-1 A Multi  180 Watt  1 6 mm Schwingkreis-Ø  in L-BOXX '
 date: 2020-09-14 12:52:52
 image: 'https://m.media-amazon.com/images/I/51rO1ELyZCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.09'
 average: '106.995'
 ---
 
-Sie können [Bosch Professional Schwingschleifer GSS 160-1 A Multi  180 Watt  1 6 mm Schwingkreis-Ø  in L-BOXX ](https://www.amazon.de/dp/B01FJ8OH3S/?tag=tolees0ca-21) mit Preis 103.0 EUR (original: 202.3 EUR) 49.09 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Professional Schwingschleifer GSS ](https://m.media-amazon.com/images/I/51rO1ELyZCL._SL400_.jpg)](https://www.amazon.de/dp/B01FJ8OH3S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01FJ8OH3S/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

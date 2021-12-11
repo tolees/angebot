@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.01 % rabat auf Briksmax Led Beleuchtungsset für Ferris '
+title: 'Briksmax Led Beleuchtungsset für Ferris Wheel  Kompatibel Mit Lego 10247 Bausteinen Modell - Ohne Lego Set'
 date: 2020-03-03 04:01:55
 image: 'https://m.media-amazon.com/images/I/51ZE6LxZaaL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.01'
 average: '49.99'
 ---
 
-Es gibt ein [Briksmax Led Beleuchtungsset für Ferris Wheel  Kompatibel Mit Lego 10247 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07PT8XFHL/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 99.99 EUR) 50.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Briksmax Led Beleuchtungsset für Ferris ](https://m.media-amazon.com/images/I/51ZE6LxZaaL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PT8XFHL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PT8XFHL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

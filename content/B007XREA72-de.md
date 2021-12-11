@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.65 % rabat auf funny-frisch Chipsfrisch Currywurst Styl'
+title: 'funny-frisch Chipsfrisch Currywurst Style  10er Pack  10 x 175 g '
 date: 2020-02-21 08:32:00
 image: 'https://m.media-amazon.com/images/I/51plgCd0ozL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.65'
 average: '8.8'
 ---
 
-Es gibt ein [funny-frisch Chipsfrisch Currywurst Style  10er Pack  10 x 175 g ](https://www.amazon.de/dp/B007XREA72/?tag=tolees0ca-21) mit aktuellem Preis 8.8 EUR (original: 15.9 EUR) 44.65 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![funny-frisch Chipsfrisch Currywurst Styl](https://m.media-amazon.com/images/I/51plgCd0ozL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B007XREA72/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B007XREA72/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.50 % rabat auf Garmin Vivomove HR Sport Fitness-Tracker'
+title: 'Garmin Vivomove HR Sport Fitness-Tracker  Rosegold  M'
 date: 2020-04-11 13:43:11
 image: 'https://m.media-amazon.com/images/I/41BYH4XiwAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.50'
 average: '125.66666666666667'
 ---
 
-Es gibt ein [Garmin Vivomove HR Sport Fitness-Tracker  Rosegold  M](https://www.amazon.de/dp/B077KLG8QB/?tag=tolees0ca-21) mit aktuellem Preis 119.0 EUR (original: 199.99 EUR) 40.50 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Garmin Vivomove HR Sport Fitness-Tracker](https://m.media-amazon.com/images/I/41BYH4XiwAL._SL400_.jpg)](https://www.amazon.de/dp/B077KLG8QB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B077KLG8QB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Xperia 5 Bundle  6.1” FHD+ HDR OLED mit 24.46 % Rabatt'
+title: 'Sony Xperia 5 Bundle  6.1” FHD+ HDR OLED 21:9 Display  6GB RAM  128GB Speicher  Schwarz + gratis 64 GB Speicherkarte [Exklusiv bei Amazon DE]'
 date: 2020-09-18 15:06:10
 image: 'https://m.media-amazon.com/images/I/317vIDk5aoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.46'
 average: '636.7139999999999'
 ---
 
-Sie können [Sony Xperia 5 Bundle  6.1” FHD+ HDR OLED 21:9 Display  6GB RAM  128GB Speicher  Schwarz + gratis 64 GB Speicherkarte [Exklusiv bei Amazon DE]](https://www.amazon.de/dp/B07XZT3TJH/?tag=tolees0ca-21) mit Preis 603.55 EUR (original: 799.0 EUR) 24.46 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony Xperia 5 Bundle  6.1” FHD+ HDR OLED](https://m.media-amazon.com/images/I/317vIDk5aoL._SL400_.jpg)](https://www.amazon.de/dp/B07XZT3TJH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07XZT3TJH/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

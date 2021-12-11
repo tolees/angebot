@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '32.14 % rabat auf Tassimo Kapseln Jacobs Cappuccino Classi'
+title: 'Tassimo Kapseln Jacobs Cappuccino Classico  40 Kaffeekapseln  5er Pack  5 x 8 Getränke'
 date: 2020-09-28 08:55:19
 image: 'https://m.media-amazon.com/images/I/41+7LSmP19L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.14'
 average: '16.93'
 ---
 
-Es gibt ein [Tassimo Kapseln Jacobs Cappuccino Classico  40 Kaffeekapseln  5er Pack  5 x 8 Getränke](https://www.amazon.de/dp/B0093HNCV0/?tag=tolees0ca-21) mit aktuellem Preis 16.93 EUR (original: 24.95 EUR) 32.14 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Tassimo Kapseln Jacobs Cappuccino Classi](https://m.media-amazon.com/images/I/41+7LSmP19L._SL400_.jpg)](https://www.amazon.de/dp/B0093HNCV0/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0093HNCV0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

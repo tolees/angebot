@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smoby 311207 Tefal French Touch Bubble K mit 35.72 % Rabatt'
+title: 'Smoby 311207 Tefal French Touch Bubble Küche  rot'
 date: 2020-04-15 00:03:59
 image: 'https://m.media-amazon.com/images/I/412r5EwXehL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.72'
 average: '89.99'
 ---
 
-Sie können [Smoby 311207 Tefal French Touch Bubble Küche  rot](https://www.amazon.de/dp/B07CH1Q9XJ/?tag=tolees0ca-21) mit Preis 89.99 EUR (original: 139.99 EUR) 35.72 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Smoby 311207 Tefal French Touch Bubble K](https://m.media-amazon.com/images/I/412r5EwXehL._SL400_.jpg)](https://www.amazon.de/dp/B07CH1Q9XJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07CH1Q9XJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

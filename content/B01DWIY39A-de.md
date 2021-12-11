@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garmin Forerunner 735XT-GPS-Uhr  schwarz mit 45.01 % Rabatt'
+title: 'Garmin Forerunner 735XT-GPS-Uhr  schwarz/grau  M  010-01614-06'
 date: 2020-03-01 12:26:37
 image: 'https://m.media-amazon.com/images/I/41cFpVc6dqL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.01'
 average: '183.235'
 ---
 
-Sie können [Garmin Forerunner 735XT-GPS-Uhr  schwarz/grau  M  010-01614-06](https://www.amazon.de/dp/B01DWIY39A/?tag=tolees0ca-21) mit Preis 164.95 EUR (original: 299.99 EUR) 45.01 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Garmin Forerunner 735XT-GPS-Uhr  schwarz](https://m.media-amazon.com/images/I/41cFpVc6dqL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01DWIY39A/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01DWIY39A/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

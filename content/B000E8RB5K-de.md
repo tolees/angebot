@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Der Patriot - Extended Version mit 88.81 % Rabatt'
+title: 'Der Patriot - Extended Version'
 date: 2020-04-17 23:29:43
 image: 'https://m.media-amazon.com/images/I/51klK6TlXIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '88.81'
 average: '0.67'
 ---
 
-Sie können [Der Patriot - Extended Version](https://www.amazon.de/dp/B000E8RB5K/?tag=tolees0ca-21) mit Preis 0.67 EUR (original: 5.99 EUR) 88.81 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Der Patriot - Extended Version](https://m.media-amazon.com/images/I/51klK6TlXIL._SL400_.jpg)](https://www.amazon.de/dp/B000E8RB5K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B000E8RB5K/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

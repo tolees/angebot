@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'H0_V 407 Stück Custom Bausteine Halterun mit 50.00 % Rabatt'
+title: 'H0_V 407 Stück Custom Bausteine Halterung Ständer Kompatibel mit Lego Star Wars Millennium Falcon 75192'
 date: 2020-01-19 02:42:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AgDmVpOhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '25.99'
 ---
 
-Sie können [H0_V 407 Stück Custom Bausteine Halterung Ständer Kompatibel mit Lego Star Wars Millennium Falcon 75192](https://www.amazon.de/dp/B083DTYPJZ/?tag=tolees0ca-21) mit Preis 25.99 EUR (original: 51.98 EUR) 50.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![H0_V 407 Stück Custom Bausteine Halterun](https://images-eu.ssl-images-amazon.com/images/I/41AgDmVpOhL._SL400_.jpg)](https://www.amazon.de/dp/B083DTYPJZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B083DTYPJZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

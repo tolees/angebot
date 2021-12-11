@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '74.43 % rabat auf LEDVANCE LED Wand- und Deckenleuchte  Le'
+title: 'LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendungen  Warmweiß  Endura Style Updown Deco'
 date: 2020-07-09 22:34:28
 image: 'https://m.media-amazon.com/images/I/317bnmpHpsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '74.43'
 average: '12.77'
 ---
 
-Es gibt ein [LEDVANCE LED Wand- und Deckenleuchte  Leuchte für Außenanwendungen  Warmweiß  Endura Style Updown Deco](https://www.amazon.de/dp/B07V1BSX4G/?tag=tolees0ca-21) mit aktuellem Preis 12.77 EUR (original: 49.95 EUR) 74.43 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEDVANCE LED Wand- und Deckenleuchte  Le](https://m.media-amazon.com/images/I/317bnmpHpsL._SL400_.jpg)](https://www.amazon.de/dp/B07V1BSX4G/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07V1BSX4G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

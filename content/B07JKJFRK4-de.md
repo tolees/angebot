@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '54.20 % rabat auf HP Spectre x360 15-df0106ng  15 6 Zoll/ '
+title: 'HP Spectre x360 15-df0106ng  15 6 Zoll/ UHD Touchscreen  Convertible Laptop  Intel Core i7-8565U quad  16GB DDR RAM  512GB SSD  NVIDIA GeForce MX150  Windows 10 Home  schwarz/Dunkle grau'
 date: 2020-01-10 09:16:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RQPj0ZUhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.20'
 average: '824'
 ---
 
-Es gibt ein [HP Spectre x360 15-df0106ng  15 6 Zoll/ UHD Touchscreen  Convertible Laptop  Intel Core i7-8565U quad  16GB DDR RAM  512GB SSD  NVIDIA GeForce MX150  Windows 10 Home  schwarz/Dunkle grau](https://www.amazon.de/dp/B07JKJFRK4/?tag=tolees0ca-21) mit aktuellem Preis 824 EUR (original: 1799 EUR) 54.20 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HP Spectre x360 15-df0106ng  15 6 Zoll/ ](https://images-eu.ssl-images-amazon.com/images/I/41RQPj0ZUhL._SL400_.jpg)](https://www.amazon.de/dp/B07JKJFRK4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JKJFRK4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

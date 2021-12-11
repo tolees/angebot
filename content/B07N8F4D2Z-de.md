@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.82 % rabat auf Veganz BIO Protein Choc Bar Strawberry C'
+title: 'Veganz BIO Protein Choc Bar Strawberry Cake Style - Eiweißriegel Vegan Proteinreich Cremige Erdbeere Schokolade - 18 Vegane Proteinriegel je 50g'
 date: 2020-04-16 11:47:09
 image: 'https://m.media-amazon.com/images/I/51FeiKu0cgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.82'
 average: '23.9'
 ---
 
-Es gibt ein [Veganz BIO Protein Choc Bar Strawberry Cake Style - Eiweißriegel Vegan Proteinreich Cremige Erdbeere Schokolade - 18 Vegane Proteinriegel je 50g](https://www.amazon.de/dp/B07N8F4D2Z/?tag=tolees0ca-21) mit aktuellem Preis 23.9 EUR (original: 32.22 EUR) 25.82 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Veganz BIO Protein Choc Bar Strawberry C](https://m.media-amazon.com/images/I/51FeiKu0cgL._SL400_.jpg)](https://www.amazon.de/dp/B07N8F4D2Z/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07N8F4D2Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

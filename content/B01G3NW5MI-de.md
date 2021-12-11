@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sagrotan Handseife mit frischem Duft nac mit 34.42 % Rabatt'
+title: 'Sagrotan Handseife mit frischem Duft nach Aloe Vera – Antibakterielle Flüssigseife – 3 x 250 ml Seifenspender im praktischen Vorteilspack'
 date: 2020-08-26 22:47:25
 image: 'https://m.media-amazon.com/images/I/41QxqxrhBfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.42'
 average: '16.32777777777777'
 ---
 
-Sie können [Sagrotan Handseife mit frischem Duft nach Aloe Vera – Antibakterielle Flüssigseife – 3 x 250 ml Seifenspender im praktischen Vorteilspack](https://www.amazon.de/dp/B01G3NW5MI/?tag=tolees0ca-21) mit Preis 9.83 EUR (original: 14.99 EUR) 34.42 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sagrotan Handseife mit frischem Duft nac](https://m.media-amazon.com/images/I/41QxqxrhBfL._SL400_.jpg)](https://www.amazon.de/dp/B01G3NW5MI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01G3NW5MI/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

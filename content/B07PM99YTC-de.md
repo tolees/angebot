@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Mini Co mit 46.30 % Rabatt'
+title: 'BRIKSMAX Led Beleuchtungsset für Mini Cooper  Kompatibel Mit Lego 10242 Bausteinen Modell - Ohne Lego Set'
 date: 2020-03-27 13:27:44
 image: 'https://m.media-amazon.com/images/I/41FRJ09Y8dL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.30'
 average: '28.99'
 ---
 
-Sie können [BRIKSMAX Led Beleuchtungsset für Mini Cooper  Kompatibel Mit Lego 10242 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07PM99YTC/?tag=tolees0ca-21) mit Preis 28.99 EUR (original: 53.99 EUR) 46.30 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Mini Co](https://m.media-amazon.com/images/I/41FRJ09Y8dL._SL400_.jpg)](https://www.amazon.de/dp/B07PM99YTC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PM99YTC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

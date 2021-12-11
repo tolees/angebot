@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bomann VS 3171 Kühlschrank / A++ / 144 c mit 22.44 % Rabatt'
+title: 'Bomann VS 3171 Kühlschrank / A++ / 144 cm / 103 kWh/Jahr /245 L Kühlteil / Flaschenhalterung'
 date: 2020-02-19 05:04:27
 image: 'https://m.media-amazon.com/images/I/315MaknqT8L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.44'
 average: '245.0'
 ---
 
-Sie können [Bomann VS 3171 Kühlschrank / A++ / 144 cm / 103 kWh/Jahr /245 L Kühlteil / Flaschenhalterung](https://www.amazon.de/dp/B072FJWB43/?tag=tolees0ca-21) mit Preis 245.0 EUR (original: 315.89 EUR) 22.44 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bomann VS 3171 Kühlschrank / A++ / 144 c](https://m.media-amazon.com/images/I/315MaknqT8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B072FJWB43/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B072FJWB43/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

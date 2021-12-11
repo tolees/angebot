@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.98 % rabat auf AKASO Brave 6 Action Cam 4K 20MP WiFi Sp'
+title: 'AKASO Brave 6 Action Cam 4K 20MP WiFi Sprachsteuerung EIS Anti-Shake 30 Meters wasserdicht Unterwasserkamera Fernbedienung 6X Zoom Sports Helmkamera mit 2 Batterien und Helmzubehör-Kit'
 date: 2020-05-01 15:47:50
 image: 'https://m.media-amazon.com/images/I/51Zk0+J69JL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.98'
 average: '53.11'
 ---
 
-Es gibt ein [AKASO Brave 6 Action Cam 4K 20MP WiFi Sprachsteuerung EIS Anti-Shake 30 Meters wasserdicht Unterwasserkamera Fernbedienung 6X Zoom Sports Helmkamera mit 2 Batterien und Helmzubehör-Kit](https://www.amazon.de/dp/B07L66MYKV/?tag=tolees0ca-21) mit aktuellem Preis 53.11 EUR (original: 89.99 EUR) 40.98 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![AKASO Brave 6 Action Cam 4K 20MP WiFi Sp](https://m.media-amazon.com/images/I/51Zk0+J69JL._SL400_.jpg)](https://www.amazon.de/dp/B07L66MYKV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L66MYKV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

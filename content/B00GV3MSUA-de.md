@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CMP Damen Zipp Off Hose  Antracite  40 mit 26.61 % Rabatt'
+title: 'CMP Damen Zipp Off Hose  Antracite  40'
 date: 2020-08-30 18:35:22
 image: 'https://m.media-amazon.com/images/I/41SvlstaQ1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.61'
 average: '36.364999999999995'
 ---
 
-Sie können [CMP Damen Zipp Off Hose  Antracite  40](https://www.amazon.de/dp/B00GV3MSUA/?tag=tolees0ca-21) mit Preis 36.66 EUR (original: 49.95 EUR) 26.61 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![CMP Damen Zipp Off Hose  Antracite  40](https://m.media-amazon.com/images/I/41SvlstaQ1L._SL400_.jpg)](https://www.amazon.de/dp/B00GV3MSUA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00GV3MSUA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

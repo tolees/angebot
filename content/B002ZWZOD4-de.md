@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.93 % rabat auf Odlo Damen Traininghose X-Warm  Schwarz '
+title: 'Odlo Damen Traininghose X-Warm  Schwarz  black 15000   Gr.M'
 date: 2020-08-27 03:40:28
 image: 'https://m.media-amazon.com/images/I/31KMw3L5b1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.93'
 average: '34.11'
 ---
 
-Es gibt ein [Odlo Damen Traininghose X-Warm  Schwarz  black 15000   Gr.M](https://www.amazon.de/dp/B002ZWZOD4/?tag=tolees0ca-21) mit aktuellem Preis 34.11 EUR (original: 54.95 EUR) 37.93 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Odlo Damen Traininghose X-Warm  Schwarz ](https://m.media-amazon.com/images/I/31KMw3L5b1L._SL400_.jpg)](https://www.amazon.de/dp/B002ZWZOD4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B002ZWZOD4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XR  256GB  - Gelb mit 26.50 % Rabatt'
+title: 'Apple iPhone XR  256GB  - Gelb'
 date: 2020-03-30 09:58:02
 image: 'https://m.media-amazon.com/images/I/41vBMFd3EOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.50'
 average: '749.0'
 ---
 
-Sie können [Apple iPhone XR  256GB  - Gelb](https://www.amazon.de/dp/B07HBCB9JZ/?tag=tolees0ca-21) mit Preis 749.0 EUR (original: 1019.0 EUR) 26.50 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Apple iPhone XR  256GB  - Gelb](https://m.media-amazon.com/images/I/41vBMFd3EOL._SL400_.jpg)](https://www.amazon.de/dp/B07HBCB9JZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HBCB9JZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

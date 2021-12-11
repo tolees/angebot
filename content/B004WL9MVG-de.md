@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gordon & Bros Herren Levet Derby  Braun  mit 31.31 % Rabatt'
+title: 'Gordon & Bros Herren Levet Derby  Braun  tan   42 EU'
 date: 2020-05-22 16:44:46
 image: 'https://m.media-amazon.com/images/I/41nVivKcbyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.31'
 average: '82.43'
 ---
 
-Sie können [Gordon & Bros Herren Levet Derby  Braun  tan   42 EU](https://www.amazon.de/dp/B004WL9MVG/?tag=tolees0ca-21) mit Preis 82.43 EUR (original: 120.0 EUR) 31.31 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gordon & Bros Herren Levet Derby  Braun ](https://m.media-amazon.com/images/I/41nVivKcbyL._SL400_.jpg)](https://www.amazon.de/dp/B004WL9MVG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B004WL9MVG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

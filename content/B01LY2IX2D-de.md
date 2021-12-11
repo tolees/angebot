@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '49.60 % rabat auf Rogue One: A Star Wars Story  Original M'
+title: 'Rogue One: A Star Wars Story  Original Motion Picture Soundtrack '
 date: 2020-09-24 19:55:34
 image: 'https://m.media-amazon.com/images/I/51uUlnk4JkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.60'
 average: '5.04'
 ---
 
-Es gibt ein [Rogue One: A Star Wars Story  Original Motion Picture Soundtrack ](https://www.amazon.de/dp/B01LY2IX2D/?tag=tolees0ca-21) mit aktuellem Preis 5.04 EUR (original: 10.0 EUR) 49.60 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Rogue One: A Star Wars Story  Original M](https://m.media-amazon.com/images/I/51uUlnk4JkL._SL400_.jpg)](https://www.amazon.de/dp/B01LY2IX2D/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LY2IX2D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

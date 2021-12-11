@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Classic 10696 Mittelgroße Bausteine mit 16.84 % Rabatt'
+title: 'LEGO Classic 10696 Mittelgroße Bausteine-Box  Lernspielzeug'
 date: 2020-04-13 23:47:34
 image: 'https://m.media-amazon.com/images/I/51agpAhwo9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.84'
 average: '22.465'
 ---
 
-Sie können [LEGO Classic 10696 Mittelgroße Bausteine-Box  Lernspielzeug](https://www.amazon.de/dp/B00NVDP3ZU/?tag=tolees0ca-21) mit Preis 24.94 EUR (original: 29.99 EUR) 16.84 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Classic 10696 Mittelgroße Bausteine](https://m.media-amazon.com/images/I/51agpAhwo9L._SL400_.jpg)](https://www.amazon.de/dp/B00NVDP3ZU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00NVDP3ZU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

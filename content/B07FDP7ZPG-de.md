@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '195/im Reich der Ungeheuer mit 26.51 % Rabatt'
+title: '195/im Reich der Ungeheuer'
 date: 2020-02-28 04:55:29
 image: 'https://m.media-amazon.com/images/I/51PGBJZskgL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.51'
 average: '4.99'
 ---
 
-Sie können [195/im Reich der Ungeheuer](https://www.amazon.de/dp/B07FDP7ZPG/?tag=tolees0ca-21) mit Preis 4.99 EUR (original: 6.79 EUR) 26.51 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![195/im Reich der Ungeheuer](https://m.media-amazon.com/images/I/51PGBJZskgL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07FDP7ZPG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07FDP7ZPG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

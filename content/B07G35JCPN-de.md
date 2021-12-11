@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Match L.O.L. Surprise mit 39.90 % Rabatt'
+title: 'Match L.O.L. Surprise'
 date: 2020-01-28 10:27:08
 image: 'https://m.media-amazon.com/images/I/51YUL6auA0L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.90'
 average: '11.942380952380953'
 ---
 
-Sie können [Match L.O.L. Surprise](https://www.amazon.de/dp/B07G35JCPN/?tag=tolees0ca-21) mit Preis 11.99 EUR (original: 19.95 EUR) 39.90 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Match L.O.L. Surprise](https://m.media-amazon.com/images/I/51YUL6auA0L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07G35JCPN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07G35JCPN/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIQUI MOLY 1515 Marder-Schutz-Spray  200 mit 62.38 % Rabatt'
+title: 'LIQUI MOLY 1515 Marder-Schutz-Spray  200 ml'
 date: 2020-03-03 03:21:40
 image: 'https://m.media-amazon.com/images/I/410pMckuB9L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '62.38'
 average: '8.31'
 ---
 
-Sie können [LIQUI MOLY 1515 Marder-Schutz-Spray  200 ml](https://www.amazon.de/dp/B001CZODGO/?tag=tolees0ca-21) mit Preis 8.31 EUR (original: 22.09 EUR) 62.38 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LIQUI MOLY 1515 Marder-Schutz-Spray  200](https://m.media-amazon.com/images/I/410pMckuB9L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B001CZODGO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B001CZODGO/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

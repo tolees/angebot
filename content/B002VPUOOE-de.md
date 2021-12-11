@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.59 % rabat auf Johnnie Walker Red Label Blended Scotch '
+title: 'Johnnie Walker Red Label Blended Scotch Whisky - Rauchige Note mit frischen und süßen Akzenten - Aus den vier Ecken Schottlands direkt ins Glas - 1 x 0 7l'
 date: 2020-01-21 04:50:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LG%2B0LU2NL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.59'
 average: '9.99'
 ---
 
-Es gibt ein [Johnnie Walker Red Label Blended Scotch Whisky - Rauchige Note mit frischen und süßen Akzenten - Aus den vier Ecken Schottlands direkt ins Glas - 1 x 0 7l](https://www.amazon.de/dp/B002VPUOOE/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 13.99 EUR) 28.59 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Johnnie Walker Red Label Blended Scotch ](https://images-eu.ssl-images-amazon.com/images/I/41LG%2B0LU2NL._SL400_.jpg)](https://www.amazon.de/dp/B002VPUOOE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B002VPUOOE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

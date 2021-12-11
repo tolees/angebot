@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy Note 9 Smartphone  128GB  mit 37.31 % Rabatt'
+title: 'Samsung Galaxy Note 9 Smartphone  128GB  Dual SIM  - Deutsche Version'
 date: 2020-05-06 17:46:28
 image: 'https://m.media-amazon.com/images/I/31fAyDSJnDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.31'
 average: '626.25'
 ---
 
-Sie können [Samsung Galaxy Note 9 Smartphone  128GB  Dual SIM  - Deutsche Version](https://www.amazon.de/dp/B07G4P7MVG/?tag=tolees0ca-21) mit Preis 626.25 EUR (original: 999.0 EUR) 37.31 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung Galaxy Note 9 Smartphone  128GB ](https://m.media-amazon.com/images/I/31fAyDSJnDL._SL400_.jpg)](https://www.amazon.de/dp/B07G4P7MVG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07G4P7MVG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

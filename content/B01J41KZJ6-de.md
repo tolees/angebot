@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '49.98 % rabat auf LEGO Star Wars - Rogue One Actionfigur'
+title: 'LEGO Star Wars - Rogue One Actionfigur'
 date: 2020-04-11 08:03:59
 image: 'https://m.media-amazon.com/images/I/51lGyR+l5fL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.98'
 average: '16.352800000000006'
 ---
 
-Es gibt ein [LEGO Star Wars - Rogue One Actionfigur](https://www.amazon.de/dp/B01J41KZJ6/?tag=tolees0ca-21) mit aktuellem Preis 12.5 EUR (original: 24.99 EUR) 49.98 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Star Wars - Rogue One Actionfigur](https://m.media-amazon.com/images/I/51lGyR+l5fL._SL400_.jpg)](https://www.amazon.de/dp/B01J41KZJ6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01J41KZJ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

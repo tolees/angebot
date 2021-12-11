@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '38.19 % rabat auf Huawei Y7 2019 Dual-SIM Smartphone 15 9 '
+title: 'Huawei Y7 2019 Dual-SIM Smartphone 15 9 cm  6 26 Zoll   4000mAh Akku  32 GB interner Speicher  3GB RAM  Android 8.0  midnight black'
 date: 2020-03-01 03:21:17
 image: 'https://m.media-amazon.com/images/I/41FKpmm7LDL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.19'
 average: '123.0'
 ---
 
-Es gibt ein [Huawei Y7 2019 Dual-SIM Smartphone 15 9 cm  6 26 Zoll   4000mAh Akku  32 GB interner Speicher  3GB RAM  Android 8.0  midnight black](https://www.amazon.de/dp/B07MM2S6TQ/?tag=tolees0ca-21) mit aktuellem Preis 123.0 EUR (original: 199.0 EUR) 38.19 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Huawei Y7 2019 Dual-SIM Smartphone 15 9 ](https://m.media-amazon.com/images/I/41FKpmm7LDL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07MM2S6TQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MM2S6TQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

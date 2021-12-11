@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Villeroy & Boch Christmas Toy s Windlich mit 30.08 % Rabatt'
+title: 'Villeroy & Boch Christmas Toy s Windlicht Bescherung  dekorative Figur aus Hartporzellan  für Teelichter geeignet  Wachs  bunt  15 x 14 x 14 cm'
 date: 2020-04-10 16:24:40
 image: 'https://m.media-amazon.com/images/I/41Zm8YYncVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.08'
 average: '27.9'
 ---
 
-Sie können [Villeroy & Boch Christmas Toy s Windlicht Bescherung  dekorative Figur aus Hartporzellan  für Teelichter geeignet  Wachs  bunt  15 x 14 x 14 cm](https://www.amazon.de/dp/B07VM9XY7M/?tag=tolees0ca-21) mit Preis 27.9 EUR (original: 39.9 EUR) 30.08 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Villeroy & Boch Christmas Toy s Windlich](https://m.media-amazon.com/images/I/41Zm8YYncVL._SL400_.jpg)](https://www.amazon.de/dp/B07VM9XY7M/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07VM9XY7M/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

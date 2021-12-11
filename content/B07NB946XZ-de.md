@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.64 % rabat auf A Plague Tale Innocence [Xbox One]'
+title: 'A Plague Tale Innocence [Xbox One]'
 date: 2020-02-02 04:57:22
 image: 'https://m.media-amazon.com/images/I/51nX4S+XRCL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.64'
 average: '26.99'
 ---
 
-Es gibt ein [A Plague Tale Innocence [Xbox One]](https://www.amazon.de/dp/B07NB946XZ/?tag=tolees0ca-21) mit aktuellem Preis 26.99 EUR (original: 34.89 EUR) 22.64 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![A Plague Tale Innocence [Xbox One]](https://m.media-amazon.com/images/I/51nX4S+XRCL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07NB946XZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07NB946XZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

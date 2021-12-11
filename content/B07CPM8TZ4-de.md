@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.34 % rabat auf AKASO Action Cam/4K/30fps 20MP Action Ca'
+title: 'AKASO Action Cam/4K/30fps 20MP Action Camera mit Touchscreen  30m Unterwasserkamera/helmkamera Fernbedienung EIS LCD Zeitraffer Slow Motion Akku Zubehör'
 date: 2020-03-24 10:31:39
 image: 'https://m.media-amazon.com/images/I/51qpXvbXE6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '79.99'
 ---
 
-Es gibt ein [AKASO Action Cam/4K/30fps 20MP Action Camera mit Touchscreen  30m Unterwasserkamera/helmkamera Fernbedienung EIS LCD Zeitraffer Slow Motion Akku Zubehör](https://www.amazon.de/dp/B07CPM8TZ4/?tag=tolees0ca-21) mit aktuellem Preis 79.99 EUR (original: 119.99 EUR) 33.34 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![AKASO Action Cam/4K/30fps 20MP Action Ca](https://m.media-amazon.com/images/I/51qpXvbXE6L._SL400_.jpg)](https://www.amazon.de/dp/B07CPM8TZ4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CPM8TZ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

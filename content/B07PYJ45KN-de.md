@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hellboy – Call of Darkness BD  Ltd. Stee mit 40.05 % Rabatt'
+title: 'Hellboy – Call of Darkness BD  Ltd. Steelbook  [Blu-ray]'
 date: 2020-03-20 04:45:23
 image: 'https://m.media-amazon.com/images/I/51bTJRxZkUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.05'
 average: '10.3'
 ---
 
-Sie können [Hellboy – Call of Darkness BD  Ltd. Steelbook  [Blu-ray]](https://www.amazon.de/dp/B07PYJ45KN/?tag=tolees0ca-21) mit Preis 10.3 EUR (original: 17.18 EUR) 40.05 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hellboy – Call of Darkness BD  Ltd. Stee](https://m.media-amazon.com/images/I/51bTJRxZkUL._SL400_.jpg)](https://www.amazon.de/dp/B07PYJ45KN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PYJ45KN/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

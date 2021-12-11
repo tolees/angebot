@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy Tab A T515N 25  54 cm  10 mit 43.81 % Rabatt'
+title: 'Samsung Galaxy Tab A T515N 25  54 cm  10  1 Zoll  Tablet-PC  1  8 GHz Octa-Core  3 GB RAM  64 GB eMMC  LTE  Android 9.0  Schwarz'
 date: 2020-04-19 06:46:45
 image: 'https://m.media-amazon.com/images/I/31Ay56-IsuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.81'
 average: '214.125'
 ---
 
-Sie können [Samsung Galaxy Tab A T515N 25  54 cm  10  1 Zoll  Tablet-PC  1  8 GHz Octa-Core  3 GB RAM  64 GB eMMC  LTE  Android 9.0  Schwarz](https://www.amazon.de/dp/B07Q9BXNLW/?tag=tolees0ca-21) mit Preis 179.25 EUR (original: 319.0 EUR) 43.81 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung Galaxy Tab A T515N 25  54 cm  10](https://m.media-amazon.com/images/I/31Ay56-IsuL._SL400_.jpg)](https://www.amazon.de/dp/B07Q9BXNLW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07Q9BXNLW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

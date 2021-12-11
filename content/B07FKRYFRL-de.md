@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smart Steckdosenleiste Koogeek Intellige mit 40.00 % Rabatt'
+title: 'Smart Steckdosenleiste Koogeek Intelligent WiFi-stopcontact werkt mit Alexa/Echo mit Apple HomeKit mit Google Assistant mit Siri Remote Control op 2 4 GHz netwerk'
 date: 2020-04-16 14:33:11
 image: 'https://m.media-amazon.com/images/I/41QEASt-DPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '59.99'
 ---
 
-Sie können [Smart Steckdosenleiste Koogeek Intelligent WiFi-stopcontact werkt mit Alexa/Echo mit Apple HomeKit mit Google Assistant mit Siri Remote Control op 2 4 GHz netwerk](https://www.amazon.de/dp/B07FKRYFRL/?tag=tolees0ca-21) mit Preis 59.99 EUR (original: 99.99 EUR) 40.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Smart Steckdosenleiste Koogeek Intellige](https://m.media-amazon.com/images/I/41QEASt-DPL._SL400_.jpg)](https://www.amazon.de/dp/B07FKRYFRL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07FKRYFRL/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

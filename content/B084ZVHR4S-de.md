@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.50 % rabat auf FOSSIL Watch FS5697'
+title: 'FOSSIL Watch FS5697'
 date: 2020-09-26 22:49:10
 image: 'https://m.media-amazon.com/images/I/41-X1mbr7YL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.50'
 average: '118.12'
 ---
 
-Es gibt ein [FOSSIL Watch FS5697](https://www.amazon.de/dp/B084ZVHR4S/?tag=tolees0ca-21) mit aktuellem Preis 118.12 EUR (original: 189.0 EUR) 37.50 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![FOSSIL Watch FS5697](https://m.media-amazon.com/images/I/41-X1mbr7YL._SL400_.jpg)](https://www.amazon.de/dp/B084ZVHR4S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B084ZVHR4S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

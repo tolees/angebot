@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.03 % rabat auf Wedo 78722 Cutter Hobbymesser Set  inklu'
+title: 'Wedo 78722 Cutter Hobbymesser Set  inklusive 6 verschiedenen Klingen  silber'
 date: 2020-04-11 16:01:28
 image: 'https://m.media-amazon.com/images/I/31crgXhuuHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.03'
 average: '3.56'
 ---
 
-Es gibt ein [Wedo 78722 Cutter Hobbymesser Set  inklusive 6 verschiedenen Klingen  silber](https://www.amazon.de/dp/B001ALYPY0/?tag=tolees0ca-21) mit aktuellem Preis 3.56 EUR (original: 6.85 EUR) 48.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Wedo 78722 Cutter Hobbymesser Set  inklu](https://m.media-amazon.com/images/I/31crgXhuuHL._SL400_.jpg)](https://www.amazon.de/dp/B001ALYPY0/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B001ALYPY0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

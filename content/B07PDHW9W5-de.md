@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung HW-R530 Soundbar  Bluetooth  Sur mit 26.31 % Rabatt'
+title: 'Samsung HW-R530 Soundbar  Bluetooth  Surround Ready - Kompatibel mit SWA-8500S  Subwoofer  Schwarz'
 date: 2020-02-11 08:37:41
 image: 'https://m.media-amazon.com/images/I/21HK8x+2jAL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.31'
 average: '242.43'
 ---
 
-Sie können [Samsung HW-R530 Soundbar  Bluetooth  Surround Ready - Kompatibel mit SWA-8500S  Subwoofer  Schwarz](https://www.amazon.de/dp/B07PDHW9W5/?tag=tolees0ca-21) mit Preis 242.43 EUR (original: 329.0 EUR) 26.31 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung HW-R530 Soundbar  Bluetooth  Sur](https://m.media-amazon.com/images/I/21HK8x+2jAL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PDHW9W5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PDHW9W5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

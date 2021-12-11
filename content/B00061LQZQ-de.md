@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D-Link DGS-1024D Gigabit Ethernet Switch mit 25.24 % Rabatt'
+title: 'D-Link DGS-1024D Gigabit Ethernet Switch  24 Ports  10/100/1000 Mbit/s  einfache Plug & Play-Installation  lüfterlos '
 date: 2020-07-10 16:44:21
 image: 'https://m.media-amazon.com/images/I/41mzlUfW7OL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.24'
 average: '85.9'
 ---
 
-Sie können [D-Link DGS-1024D Gigabit Ethernet Switch  24 Ports  10/100/1000 Mbit/s  einfache Plug & Play-Installation  lüfterlos ](https://www.amazon.de/dp/B00061LQZQ/?tag=tolees0ca-21) mit Preis 85.9 EUR (original: 114.9 EUR) 25.24 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![D-Link DGS-1024D Gigabit Ethernet Switch](https://m.media-amazon.com/images/I/41mzlUfW7OL._SL400_.jpg)](https://www.amazon.de/dp/B00061LQZQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00061LQZQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

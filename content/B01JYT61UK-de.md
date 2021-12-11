@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gembird JPD-WDV-01 Kabelloses Gamepad mi mit 26.23 % Rabatt'
+title: 'Gembird JPD-WDV-01 Kabelloses Gamepad mit Vibration  PS2/PS3/PC schwarz'
 date: 2020-02-19 14:05:49
 image: 'https://m.media-amazon.com/images/I/41bgQs6-yaL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.23'
 average: '16.4'
 ---
 
-Sie können [Gembird JPD-WDV-01 Kabelloses Gamepad mit Vibration  PS2/PS3/PC schwarz](https://www.amazon.de/dp/B01JYT61UK/?tag=tolees0ca-21) mit Preis 16.4 EUR (original: 22.23 EUR) 26.23 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gembird JPD-WDV-01 Kabelloses Gamepad mi](https://m.media-amazon.com/images/I/41bgQs6-yaL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01JYT61UK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01JYT61UK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

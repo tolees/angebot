@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.75 % rabat auf Neff Z11TF36X0 Backofen- und Herdzubehör'
+title: 'Neff Z11TF36X0 Backofen- und Herdzubehör / Kochfeld / Teleskop-Vollauszug'
 date: 2020-02-04 15:44:23
 image: 'https://m.media-amazon.com/images/I/41Rc8qlIrSL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.75'
 average: '97.0'
 ---
 
-Es gibt ein [Neff Z11TF36X0 Backofen- und Herdzubehör / Kochfeld / Teleskop-Vollauszug](https://www.amazon.de/dp/B00ONA6VOW/?tag=tolees0ca-21) mit aktuellem Preis 97.0 EUR (original: 161.0 EUR) 39.75 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Neff Z11TF36X0 Backofen- und Herdzubehör](https://m.media-amazon.com/images/I/41Rc8qlIrSL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00ONA6VOW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ONA6VOW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

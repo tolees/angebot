@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone X  64GB  - Silber mit 44.18 % Rabatt'
+title: 'Apple iPhone X  64GB  - Silber'
 date: 2020-03-29 13:17:25
 image: 'https://m.media-amazon.com/images/I/415Ef7dzmOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.18'
 average: '578.2099999999999'
 ---
 
-Sie können [Apple iPhone X  64GB  - Silber](https://www.amazon.de/dp/B075LYDD7Z/?tag=tolees0ca-21) mit Preis 568.79 EUR (original: 1019.0 EUR) 44.18 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Apple iPhone X  64GB  - Silber](https://m.media-amazon.com/images/I/415Ef7dzmOL._SL400_.jpg)](https://www.amazon.de/dp/B075LYDD7Z/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B075LYDD7Z/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

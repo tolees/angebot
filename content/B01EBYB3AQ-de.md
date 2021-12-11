@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bruetting KANSAS  Unisex-Erwachsene Trek mit 24.47 % Rabatt'
+title: 'Bruetting KANSAS  Unisex-Erwachsene Trekking- & Wanderschuhe  Schwarz  Schwarz/anthrazit   36 EU  3 Erwachsene UK '
 date: 2020-10-07 11:09:49
 image: 'https://m.media-amazon.com/images/I/41T2IIdBizL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.47'
 average: '52.83'
 ---
 
-Sie können [Bruetting KANSAS  Unisex-Erwachsene Trekking- & Wanderschuhe  Schwarz  Schwarz/anthrazit   36 EU  3 Erwachsene UK ](https://www.amazon.de/dp/B01EBYB3AQ/?tag=tolees0ca-21) mit Preis 52.83 EUR (original: 69.95 EUR) 24.47 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bruetting KANSAS  Unisex-Erwachsene Trek](https://m.media-amazon.com/images/I/41T2IIdBizL._SL400_.jpg)](https://www.amazon.de/dp/B01EBYB3AQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01EBYB3AQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

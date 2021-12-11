@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'camel active Womenswear Damen 2R48 Weste mit 50.03 % Rabatt'
+title: 'camel active Womenswear Damen 2R48 Weste  Braun  Brown 27    Herstellergröße: 34 '
 date: 2020-02-07 21:05:49
 image: 'https://m.media-amazon.com/images/I/41cPLqPBDYL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.03'
 average: '49.95'
 ---
 
-Sie können [camel active Womenswear Damen 2R48 Weste  Braun  Brown 27    Herstellergröße: 34 ](https://www.amazon.de/dp/B07N5XHCLY/?tag=tolees0ca-21) mit Preis 49.95 EUR (original: 99.95 EUR) 50.03 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![camel active Womenswear Damen 2R48 Weste](https://m.media-amazon.com/images/I/41cPLqPBDYL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07N5XHCLY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07N5XHCLY/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

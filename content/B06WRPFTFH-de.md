@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.48 % rabat auf Swarovski Sparkling Dance Round Halskett'
+title: 'Swarovski Sparkling Dance Round Halskette für Frauen'
 date: 2020-03-15 04:45:06
 image: 'https://m.media-amazon.com/images/I/31xviWkkqPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.48'
 average: '65.85'
 ---
 
-Es gibt ein [Swarovski Sparkling Dance Round Halskette für Frauen](https://www.amazon.de/dp/B06WRPFTFH/?tag=tolees0ca-21) mit aktuellem Preis 65.85 EUR (original: 99.0 EUR) 33.48 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Swarovski Sparkling Dance Round Halskett](https://m.media-amazon.com/images/I/31xviWkkqPL._SL400_.jpg)](https://www.amazon.de/dp/B06WRPFTFH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WRPFTFH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

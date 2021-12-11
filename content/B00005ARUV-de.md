@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kult  Die besten Schlager  mit 44.93 % Rabatt'
+title: 'Kult  Die besten Schlager '
 date: 2020-09-25 22:01:48
 image: 'https://m.media-amazon.com/images/I/61o9nOxK2EL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.93'
 average: '4.220000000000001'
 ---
 
-Sie können [Kult  Die besten Schlager ](https://www.amazon.de/dp/B00005ARUV/?tag=tolees0ca-21) mit Preis 3.75 EUR (original: 6.81 EUR) 44.93 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kult  Die besten Schlager ](https://m.media-amazon.com/images/I/61o9nOxK2EL._SL400_.jpg)](https://www.amazon.de/dp/B00005ARUV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00005ARUV/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

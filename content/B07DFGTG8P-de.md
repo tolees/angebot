@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.22 % rabat auf Funko 33877 The Simpsons: Lisa w/Saxopho'
+title: 'Funko 33877 The Simpsons: Lisa w/Saxophone POP Vinylfigur  Multi'
 date: 2020-02-12 15:25:28
 image: 'https://m.media-amazon.com/images/I/41UcLrnympL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.22'
 average: '9.56'
 ---
 
-Es gibt ein [Funko 33877 The Simpsons: Lisa w/Saxophone POP Vinylfigur  Multi](https://www.amazon.de/dp/B07DFGTG8P/?tag=tolees0ca-21) mit aktuellem Preis 9.94 EUR (original: 12.78 EUR) 22.22 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 33877 The Simpsons: Lisa w/Saxopho](https://m.media-amazon.com/images/I/41UcLrnympL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07DFGTG8P/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DFGTG8P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

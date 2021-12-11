@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.75 % rabat auf Controller für Nintendo Switch 6-Achsen '
+title: 'Controller für Nintendo Switch 6-Achsen Einstellbarem Switch Pro Controller Double Shock rutschfest Kompatibel mit Switch  Switch Lite  Gelb '
 date: 2020-10-12 06:10:37
 image: 'https://m.media-amazon.com/images/I/41Rb9QKQDzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.75'
 average: '17.99'
 ---
 
-Es gibt ein [Controller für Nintendo Switch 6-Achsen Einstellbarem Switch Pro Controller Double Shock rutschfest Kompatibel mit Switch  Switch Lite  Gelb ](https://www.amazon.de/dp/B0899Z2PPF/?tag=tolees0ca-21) mit aktuellem Preis 17.99 EUR (original: 22.99 EUR) 21.75 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Controller für Nintendo Switch 6-Achsen ](https://m.media-amazon.com/images/I/41Rb9QKQDzL._SL400_.jpg)](https://www.amazon.de/dp/B0899Z2PPF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0899Z2PPF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

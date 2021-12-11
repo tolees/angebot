@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.11 % rabat auf 2er Set BRUBAKER Tisch- oder Nachttischl'
+title: '2er Set BRUBAKER Tisch- oder Nachttischlampen Anthrazit Grau  Keramikfüße in zweifarbigem  mattem Finish - 38 cm Höhe'
 date: 2020-10-04 08:58:30
 image: 'https://m.media-amazon.com/images/I/51esfzKou2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.11'
 average: '31.95'
 ---
 
-Es gibt ein [2er Set BRUBAKER Tisch- oder Nachttischlampen Anthrazit Grau  Keramikfüße in zweifarbigem  mattem Finish - 38 cm Höhe](https://www.amazon.de/dp/B01AT6NZ2Y/?tag=tolees0ca-21) mit aktuellem Preis 31.95 EUR (original: 39.99 EUR) 20.11 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![2er Set BRUBAKER Tisch- oder Nachttischl](https://m.media-amazon.com/images/I/51esfzKou2L._SL400_.jpg)](https://www.amazon.de/dp/B01AT6NZ2Y/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AT6NZ2Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

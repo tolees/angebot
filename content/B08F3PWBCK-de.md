@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DARLINGTON & Sohns Grauer Controller für mit 18.76 % Rabatt'
+title: 'DARLINGTON & Sohns Grauer Controller für Nintendo 64 N64 Joystick Grau Gamepad Joypad + Verlängerung Extansion Verlängerungskabel Gamepad'
 date: 2020-08-10 06:05:47
 image: 'https://m.media-amazon.com/images/I/41+KCvjXEpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.76'
 average: '17.75'
 ---
 
-Sie können [DARLINGTON & Sohns Grauer Controller für Nintendo 64 N64 Joystick Grau Gamepad Joypad + Verlängerung Extansion Verlängerungskabel Gamepad](https://www.amazon.de/dp/B08F3PWBCK/?tag=tolees0ca-21) mit Preis 17.75 EUR (original: 21.85 EUR) 18.76 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![DARLINGTON & Sohns Grauer Controller für](https://m.media-amazon.com/images/I/41+KCvjXEpL._SL400_.jpg)](https://www.amazon.de/dp/B08F3PWBCK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B08F3PWBCK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

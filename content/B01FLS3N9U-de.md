@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 39827 POP Vinyl: Football-Neymar d mit 40.68 % Rabatt'
+title: 'Funko 39827 POP Vinyl: Football-Neymar da Silva Santos Jr.  PSG  Collectible Figure  Multicolour'
 date: 2020-01-25 09:38:49
 image: 'https://m.media-amazon.com/images/I/41S+kfyNTrL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.68'
 average: '6.845'
 ---
 
-Sie können [Funko 39827 POP Vinyl: Football-Neymar da Silva Santos Jr.  PSG  Collectible Figure  Multicolour](https://www.amazon.de/dp/B01FLS3N9U/?tag=tolees0ca-21) mit Preis 5.92 EUR (original: 9.98 EUR) 40.68 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 39827 POP Vinyl: Football-Neymar d](https://m.media-amazon.com/images/I/41S+kfyNTrL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01FLS3N9U/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01FLS3N9U/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

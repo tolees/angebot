@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.23 % rabat auf SteelSeries Apex M750 Mechanische Gaming'
+title: 'SteelSeries Apex M750 Mechanische Gaming-Tastatur  RGB-Beleuchtung pro Taste  6 Makro-Tasten  Deutsches QWERTZ-Layout '
 date: 2020-05-14 21:03:01
 image: 'https://m.media-amazon.com/images/I/41R8RqxRl4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.23'
 average: '139.0'
 ---
 
-Es gibt ein [SteelSeries Apex M750 Mechanische Gaming-Tastatur  RGB-Beleuchtung pro Taste  6 Makro-Tasten  Deutsches QWERTZ-Layout ](https://www.amazon.de/dp/B07K3GKY16/?tag=tolees0ca-21) mit aktuellem Preis 139.0 EUR (original: 169.99 EUR) 18.23 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SteelSeries Apex M750 Mechanische Gaming](https://m.media-amazon.com/images/I/41R8RqxRl4L._SL400_.jpg)](https://www.amazon.de/dp/B07K3GKY16/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07K3GKY16/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

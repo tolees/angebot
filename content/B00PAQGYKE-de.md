@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.76 % rabat auf Pioneer GM D1004 Verstärker für Kfz'
+title: 'Pioneer GM D1004 Verstärker für Kfz'
 date: 2020-10-07 09:40:23
 image: 'https://m.media-amazon.com/images/I/41xstK7a81L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.76'
 average: '76.79'
 ---
 
-Es gibt ein [Pioneer GM D1004 Verstärker für Kfz](https://www.amazon.de/dp/B00PAQGYKE/?tag=tolees0ca-21) mit aktuellem Preis 76.79 EUR (original: 139.0 EUR) 44.76 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Pioneer GM D1004 Verstärker für Kfz](https://m.media-amazon.com/images/I/41xstK7a81L._SL400_.jpg)](https://www.amazon.de/dp/B00PAQGYKE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PAQGYKE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.34 % rabat auf LEGO 10881 Disney Mickys Boot  Bunt'
+title: 'LEGO 10881 Disney Mickys Boot  Bunt'
 date: 2020-01-04 09:25:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51IwrFwzc5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '22.656666666666666'
 ---
 
-Es gibt ein [LEGO 10881 Disney Mickys Boot  Bunt](https://www.amazon.de/dp/B0765BGB4B/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 29.99 EUR) 33.34 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO 10881 Disney Mickys Boot  Bunt](https://images-eu.ssl-images-amazon.com/images/I/51IwrFwzc5L._SL400_.jpg)](https://www.amazon.de/dp/B0765BGB4B/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0765BGB4B/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

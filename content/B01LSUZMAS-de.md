@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone 7  128 GB  - Gold mit 25.44 % Rabatt'
+title: 'Apple iPhone 7  128 GB  - Gold'
 date: 2020-01-22 04:33:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AfkHHdyCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.44'
 average: '469'
 ---
 
-Sie können [Apple iPhone 7  128 GB  - Gold](https://www.amazon.de/dp/B01LSUZMAS/?tag=tolees0ca-21) mit Preis 469 EUR (original: 629 EUR) 25.44 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Apple iPhone 7  128 GB  - Gold](https://images-eu.ssl-images-amazon.com/images/I/41AfkHHdyCL._SL400_.jpg)](https://www.amazon.de/dp/B01LSUZMAS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01LSUZMAS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

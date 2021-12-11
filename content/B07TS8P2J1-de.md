@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pop Fantastic Four Mister Fantastic Viny mit 26.50 % Rabatt'
+title: 'Pop Fantastic Four Mister Fantastic Vinyl Figure'
 date: 2020-04-15 23:36:07
 image: 'https://m.media-amazon.com/images/I/419oC8wgp7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.50'
 average: '8.82'
 ---
 
-Sie können [Pop Fantastic Four Mister Fantastic Vinyl Figure](https://www.amazon.de/dp/B07TS8P2J1/?tag=tolees0ca-21) mit Preis 8.82 EUR (original: 12.0 EUR) 26.50 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Pop Fantastic Four Mister Fantastic Viny](https://m.media-amazon.com/images/I/419oC8wgp7L._SL400_.jpg)](https://www.amazon.de/dp/B07TS8P2J1/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07TS8P2J1/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

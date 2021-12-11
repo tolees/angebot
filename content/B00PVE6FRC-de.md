@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.74 % rabat auf D-Link DAP-1365 N300 Wi-Fi Range Extende'
+title: 'D-Link DAP-1365 N300 Wi-Fi Range Extender  mit Power Passthrough  verstärkt Ihr Heim-WLAN  bis zu 300 Mbit/s '
 date: 2020-02-24 18:13:17
 image: 'https://m.media-amazon.com/images/I/41TX5vL84rL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.74'
 average: '17.85'
 ---
 
-Es gibt ein [D-Link DAP-1365 N300 Wi-Fi Range Extender  mit Power Passthrough  verstärkt Ihr Heim-WLAN  bis zu 300 Mbit/s ](https://www.amazon.de/dp/B00PVE6FRC/?tag=tolees0ca-21) mit aktuellem Preis 17.85 EUR (original: 32.9 EUR) 45.74 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![D-Link DAP-1365 N300 Wi-Fi Range Extende](https://m.media-amazon.com/images/I/41TX5vL84rL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00PVE6FRC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PVE6FRC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

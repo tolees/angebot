@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 33253 LOTR/Hobbit: Galadriel POP V mit 24.30 % Rabatt'
+title: 'Funko 33253 LOTR/Hobbit: Galadriel POP Vinylfigur  Multi  Standard'
 date: 2020-04-06 21:03:01
 image: 'https://m.media-amazon.com/images/I/41x4WWUrqrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.30'
 average: '9.802727272727273'
 ---
 
-Sie können [Funko 33253 LOTR/Hobbit: Galadriel POP Vinylfigur  Multi  Standard](https://www.amazon.de/dp/B07DFJ5XHM/?tag=tolees0ca-21) mit Preis 9.16 EUR (original: 12.1 EUR) 24.30 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 33253 LOTR/Hobbit: Galadriel POP V](https://m.media-amazon.com/images/I/41x4WWUrqrL._SL400_.jpg)](https://www.amazon.de/dp/B07DFJ5XHM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DFJ5XHM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

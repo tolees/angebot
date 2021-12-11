@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.75 % rabat auf Lexar High-Performance 633x 512GB microS'
+title: 'Lexar High-Performance 633x 512GB microSDXC UHS-I Karte'
 date: 2020-08-02 18:43:35
 image: 'https://m.media-amazon.com/images/I/51E9rqVEK6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.75'
 average: '57.95'
 ---
 
-Es gibt ein [Lexar High-Performance 633x 512GB microSDXC UHS-I Karte](https://www.amazon.de/dp/B07N77C6KY/?tag=tolees0ca-21) mit aktuellem Preis 57.95 EUR (original: 91.62 EUR) 36.75 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Lexar High-Performance 633x 512GB microS](https://m.media-amazon.com/images/I/51E9rqVEK6L._SL400_.jpg)](https://www.amazon.de/dp/B07N77C6KY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07N77C6KY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.91 % rabat auf Audio-Technica ATH-DSR9BT Wireless Over-'
+title: 'Audio-Technica ATH-DSR9BT Wireless Over-Ear Kopfhörer mit Pure Digital Drive™'
 date: 2020-07-10 22:46:28
 image: 'https://m.media-amazon.com/images/I/41rTmAWqLqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.91'
 average: '329.99'
 ---
 
-Es gibt ein [Audio-Technica ATH-DSR9BT Wireless Over-Ear Kopfhörer mit Pure Digital Drive™](https://www.amazon.de/dp/B06XYZB4VQ/?tag=tolees0ca-21) mit aktuellem Preis 329.99 EUR (original: 599.0 EUR) 44.91 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Audio-Technica ATH-DSR9BT Wireless Over-](https://m.media-amazon.com/images/I/41rTmAWqLqL._SL400_.jpg)](https://www.amazon.de/dp/B06XYZB4VQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XYZB4VQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

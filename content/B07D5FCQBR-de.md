@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP ENVY x360 13-ag0005ng  Touchdisplay 1 mit 49.95 % Rabatt'
+title: 'HP ENVY x360 13-ag0005ng  Touchdisplay 13 3 Zoll / Full HD IPS  Convertible Laptop  AMD Ryzen 5 2500U  512 GB SSD  16 GB RAM  AMD Radeon Vega  Windows 10 Home 64  Dark ash silber'
 date: 2020-02-18 07:38:18
 image: 'https://m.media-amazon.com/images/I/41DZMRAWSnL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.95'
 average: '469.0'
 ---
 
-Sie können [HP ENVY x360 13-ag0005ng  Touchdisplay 13 3 Zoll / Full HD IPS  Convertible Laptop  AMD Ryzen 5 2500U  512 GB SSD  16 GB RAM  AMD Radeon Vega  Windows 10 Home 64  Dark ash silber](https://www.amazon.de/dp/B07D5FCQBR/?tag=tolees0ca-21) mit Preis 500.0 EUR (original: 999.0 EUR) 49.95 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HP ENVY x360 13-ag0005ng  Touchdisplay 1](https://m.media-amazon.com/images/I/41DZMRAWSnL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07D5FCQBR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07D5FCQBR/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

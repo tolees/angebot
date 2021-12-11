@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.58 % rabat auf Red Bull Energy Drink Kokos-Blaubeere Do'
+title: 'Red Bull Energy Drink Kokos-Blaubeere Dosen Getränke White Edition 12er Palette  EINWEG  12 x 250 ml '
 date: 2020-07-22 14:47:59
 image: 'https://m.media-amazon.com/images/I/51TLPcy4AgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.58'
 average: '11.58'
 ---
 
-Es gibt ein [Red Bull Energy Drink Kokos-Blaubeere Dosen Getränke White Edition 12er Palette  EINWEG  12 x 250 ml ](https://www.amazon.de/dp/B07BGH6ZTZ/?tag=tolees0ca-21) mit aktuellem Preis 11.58 EUR (original: 16.68 EUR) 30.58 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Red Bull Energy Drink Kokos-Blaubeere Do](https://m.media-amazon.com/images/I/51TLPcy4AgL._SL400_.jpg)](https://www.amazon.de/dp/B07BGH6ZTZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BGH6ZTZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

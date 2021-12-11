@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sharkoon NIGHT SHARK RGB PC-Gehäuse Rgb mit 28.87 % Rabatt'
+title: 'Sharkoon NIGHT SHARK RGB PC-Gehäuse Rgb'
 date: 2020-09-13 23:35:46
 image: 'https://m.media-amazon.com/images/I/41aaOOl67xL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.87'
 average: '63.95'
 ---
 
-Sie können [Sharkoon NIGHT SHARK RGB PC-Gehäuse Rgb](https://www.amazon.de/dp/B07GSY1P55/?tag=tolees0ca-21) mit Preis 63.95 EUR (original: 89.9 EUR) 28.87 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sharkoon NIGHT SHARK RGB PC-Gehäuse Rgb](https://m.media-amazon.com/images/I/41aaOOl67xL._SL400_.jpg)](https://www.amazon.de/dp/B07GSY1P55/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07GSY1P55/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

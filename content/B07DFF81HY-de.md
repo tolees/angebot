@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 34691 Games: Don t Starve: Willow  mit 19.92 % Rabatt'
+title: 'Funko 34691 Games: Don t Starve: Willow & Bernie POP Vinylfigur  Multi'
 date: 2020-03-18 12:14:43
 image: 'https://m.media-amazon.com/images/I/51ZB1fwNa6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.92'
 average: '8.568571428571428'
 ---
 
-Sie können [Funko 34691 Games: Don t Starve: Willow & Bernie POP Vinylfigur  Multi](https://www.amazon.de/dp/B07DFF81HY/?tag=tolees0ca-21) mit Preis 8.0 EUR (original: 9.99 EUR) 19.92 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 34691 Games: Don t Starve: Willow ](https://m.media-amazon.com/images/I/51ZB1fwNa6L._SL400_.jpg)](https://www.amazon.de/dp/B07DFF81HY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DFF81HY/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

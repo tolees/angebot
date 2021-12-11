@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One Piece - Box 6: Season 6  Episoden 16 mit 25.00 % Rabatt'
+title: 'One Piece - Box 6: Season 6  Episoden 163-195  [6 DVDs]'
 date: 2020-03-13 12:53:10
 image: 'https://m.media-amazon.com/images/I/51IIAYfSMfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.00'
 average: '38.24'
 ---
 
-Sie können [One Piece - Box 6: Season 6  Episoden 163-195  [6 DVDs]](https://www.amazon.de/dp/B00AUDL1ZA/?tag=tolees0ca-21) mit Preis 38.24 EUR (original: 50.99 EUR) 25.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![One Piece - Box 6: Season 6  Episoden 16](https://m.media-amazon.com/images/I/51IIAYfSMfL._SL400_.jpg)](https://www.amazon.de/dp/B00AUDL1ZA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00AUDL1ZA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

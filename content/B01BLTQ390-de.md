@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.00 % rabat auf Echo Show  Vorherige Generation - 1. Gen'
+title: 'Echo Show  Vorherige Generation - 1. Gen.   Zertifiziert und generalüberholt - Weiß'
 date: 2020-05-09 13:43:10
 image: 'https://m.media-amazon.com/images/I/51KxqDY637L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '113.32333333333332'
 ---
 
-Es gibt ein [Echo Show  Vorherige Generation - 1. Gen.   Zertifiziert und generalüberholt - Weiß](https://www.amazon.de/dp/B01BLTQ390/?tag=tolees0ca-21) mit aktuellem Preis 119.99 EUR (original: 199.99 EUR) 40.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Echo Show  Vorherige Generation - 1. Gen](https://m.media-amazon.com/images/I/51KxqDY637L._SL400_.jpg)](https://www.amazon.de/dp/B01BLTQ390/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BLTQ390/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

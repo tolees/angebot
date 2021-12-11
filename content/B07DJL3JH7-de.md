@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jabra Elite 65t True Wireless Bluetooth  mit 59.41 % Rabatt'
+title: 'Jabra Elite 65t True Wireless Bluetooth In-Ear Kopfhörer  Musik und telefonieren  bis zu 15 Std. Akkulaufzeit mit Ladecase  Sprachsteuerung für Alexa  Siri  Google Assistant  gold beige'
 date: 2020-05-28 17:48:30
 image: 'https://m.media-amazon.com/images/I/416LzP+TrjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.41'
 average: '69.0'
 ---
 
-Sie können [Jabra Elite 65t True Wireless Bluetooth In-Ear Kopfhörer  Musik und telefonieren  bis zu 15 Std. Akkulaufzeit mit Ladecase  Sprachsteuerung für Alexa  Siri  Google Assistant  gold beige](https://www.amazon.de/dp/B07DJL3JH7/?tag=tolees0ca-21) mit Preis 69.0 EUR (original: 169.99 EUR) 59.41 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Jabra Elite 65t True Wireless Bluetooth ](https://m.media-amazon.com/images/I/416LzP+TrjL._SL400_.jpg)](https://www.amazon.de/dp/B07DJL3JH7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DJL3JH7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

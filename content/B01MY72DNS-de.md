@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.03 % rabat auf ÷ Divide  Deluxe Edition '
+title: '÷ Divide  Deluxe Edition '
 date: 2020-02-17 05:05:53
 image: 'https://m.media-amazon.com/images/I/618VVjlKb1L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.03'
 average: '5.99'
 ---
 
-Es gibt ein [÷ Divide  Deluxe Edition ](https://www.amazon.de/dp/B01MY72DNS/?tag=tolees0ca-21) mit aktuellem Preis 5.99 EUR (original: 7.99 EUR) 25.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![÷ Divide  Deluxe Edition ](https://m.media-amazon.com/images/I/618VVjlKb1L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01MY72DNS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MY72DNS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

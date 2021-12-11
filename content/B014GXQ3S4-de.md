@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '56.38 % rabat auf Logitech Harmony Companion Universalfern'
+title: 'Logitech Harmony Companion Universalfernbedienung schwarz'
 date: 2020-02-10 20:52:49
 image: 'https://m.media-amazon.com/images/I/41hjqNB5bAL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.38'
 average: '67.0'
 ---
 
-Es gibt ein [Logitech Harmony Companion Universalfernbedienung schwarz](https://www.amazon.de/dp/B014GXQ3S4/?tag=tolees0ca-21) mit aktuellem Preis 65.0 EUR (original: 149.0 EUR) 56.38 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Logitech Harmony Companion Universalfern](https://m.media-amazon.com/images/I/41hjqNB5bAL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B014GXQ3S4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B014GXQ3S4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

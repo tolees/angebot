@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars Minifigur Dengar mit 2 Bo mit 41.70 % Rabatt'
+title: 'LEGO Star Wars Minifigur Dengar mit 2 Bonus Waffen'
 date: 2020-02-14 07:29:21
 image: 'https://m.media-amazon.com/images/I/415ful0xpeL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.70'
 average: '6.99'
 ---
 
-Sie können [LEGO Star Wars Minifigur Dengar mit 2 Bonus Waffen](https://www.amazon.de/dp/B07B7PDJ19/?tag=tolees0ca-21) mit Preis 6.99 EUR (original: 11.99 EUR) 41.70 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Star Wars Minifigur Dengar mit 2 Bo](https://m.media-amazon.com/images/I/415ful0xpeL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07B7PDJ19/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07B7PDJ19/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

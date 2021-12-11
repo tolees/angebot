@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salewa WS WILD HIKER MID GTX  Damen Trek mit 68.06 % Rabatt'
+title: 'Salewa WS WILD HIKER MID GTX  Damen Trekking- & Wanderstiefel  Blau  French Blue/black 340   36 EU  3.5 UK '
 date: 2020-01-04 08:52:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kgT8wdewL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '68.06'
 average: '51.1'
 ---
 
-Sie können [Salewa WS WILD HIKER MID GTX  Damen Trekking- & Wanderstiefel  Blau  French Blue/black 340   36 EU  3.5 UK ](https://www.amazon.de/dp/B07B6V9HQD/?tag=tolees0ca-21) mit Preis 51.1 EUR (original: 160 EUR) 68.06 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Salewa WS WILD HIKER MID GTX  Damen Trek](https://images-eu.ssl-images-amazon.com/images/I/41kgT8wdewL._SL400_.jpg)](https://www.amazon.de/dp/B07B6V9HQD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07B6V9HQD/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

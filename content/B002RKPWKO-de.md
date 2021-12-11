@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.50 % rabat auf 135/Fluch des Piraten'
+title: '135/Fluch des Piraten'
 date: 2020-02-08 04:39:06
 image: 'https://m.media-amazon.com/images/I/51-uaT0YKLL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.50'
 average: '3.39'
 ---
 
-Es gibt ein [135/Fluch des Piraten](https://www.amazon.de/dp/B002RKPWKO/?tag=tolees0ca-21) mit aktuellem Preis 3.39 EUR (original: 6.99 EUR) 51.50 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![135/Fluch des Piraten](https://m.media-amazon.com/images/I/51-uaT0YKLL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B002RKPWKO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B002RKPWKO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

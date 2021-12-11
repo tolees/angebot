@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.01 % rabat auf Levi s Damen 310 Shaping Super Skinny Je'
+title: 'Levi s Damen 310 Shaping Super Skinny Jeans  Schwarz  Black Galaxy 0003   W28/L30'
 date: 2020-02-27 08:21:44
 image: 'https://m.media-amazon.com/images/I/31GTc5JDzeL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.01'
 average: '47.49'
 ---
 
-Es gibt ein [Levi s Damen 310 Shaping Super Skinny Jeans  Schwarz  Black Galaxy 0003   W28/L30](https://www.amazon.de/dp/B076X48LXJ/?tag=tolees0ca-21) mit aktuellem Preis 47.49 EUR (original: 95.0 EUR) 50.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Levi s Damen 310 Shaping Super Skinny Je](https://m.media-amazon.com/images/I/31GTc5JDzeL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B076X48LXJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B076X48LXJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

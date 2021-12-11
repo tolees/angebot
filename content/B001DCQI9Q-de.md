@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pariser & Londoner Sinfonien  Karajan-Ed mit 29.96 % Rabatt'
+title: 'Pariser & Londoner Sinfonien  Karajan-Edition '
 date: 2020-09-24 19:55:49
 image: 'https://m.media-amazon.com/images/I/412AV5Ves+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.96'
 average: '11.76'
 ---
 
-Sie können [Pariser & Londoner Sinfonien  Karajan-Edition ](https://www.amazon.de/dp/B001DCQI9Q/?tag=tolees0ca-21) mit Preis 11.76 EUR (original: 16.79 EUR) 29.96 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Pariser & Londoner Sinfonien  Karajan-Ed](https://m.media-amazon.com/images/I/412AV5Ves+L._SL400_.jpg)](https://www.amazon.de/dp/B001DCQI9Q/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B001DCQI9Q/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

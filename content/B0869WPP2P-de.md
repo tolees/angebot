@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '31.87 % rabat auf Xiaomi Mi 10 Smartphone + Kopfhörer  16 '
+title: 'Xiaomi Mi 10 Smartphone + Kopfhörer  16 94cm  6 67"  FHD+ Display  256GB interner Speicher + 8GB RAM  108MP Rückkamera  20MP Frontkamera  5G  Android 10  Grau  Deutsche Version - [Exklusiv bei Amazon]'
 date: 2020-08-09 06:13:50
 image: 'https://m.media-amazon.com/images/I/41iErLnXPXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.87'
 average: '702.923076923077'
 ---
 
-Es gibt ein [Xiaomi Mi 10 Smartphone + Kopfhörer  16 94cm  6 67"  FHD+ Display  256GB interner Speicher + 8GB RAM  108MP Rückkamera  20MP Frontkamera  5G  Android 10  Grau  Deutsche Version - [Exklusiv bei Amazon]](https://www.amazon.de/dp/B0869WPP2P/?tag=tolees0ca-21) mit aktuellem Preis 613.14 EUR (original: 899.9 EUR) 31.87 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Xiaomi Mi 10 Smartphone + Kopfhörer  16 ](https://m.media-amazon.com/images/I/41iErLnXPXL._SL400_.jpg)](https://www.amazon.de/dp/B0869WPP2P/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0869WPP2P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

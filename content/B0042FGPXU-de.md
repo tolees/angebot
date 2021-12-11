@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '31.64 % rabat auf Urban Classics TB207 Herren Jacke Beklei'
+title: 'Urban Classics TB207 Herren Jacke Bekleidung 2 Tone College Sweatjacket  Black/White  L'
 date: 2020-03-05 14:33:43
 image: 'https://m.media-amazon.com/images/I/31ZnqLG2yzL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.64'
 average: '34.11'
 ---
 
-Es gibt ein [Urban Classics TB207 Herren Jacke Bekleidung 2 Tone College Sweatjacket  Black/White  L](https://www.amazon.de/dp/B0042FGPXU/?tag=tolees0ca-21) mit aktuellem Preis 34.11 EUR (original: 49.9 EUR) 31.64 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Urban Classics TB207 Herren Jacke Beklei](https://m.media-amazon.com/images/I/31ZnqLG2yzL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0042FGPXU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0042FGPXU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

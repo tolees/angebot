@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.65 % rabat auf FALKE Damen Wandersocken TK1 - Merinowol'
+title: 'FALKE Damen Wandersocken TK1 - Merinowollmischung  1 Paar  Schwarz  Black-Mix 3010   Größe: 39-40'
 date: 2020-02-21 04:48:17
 image: 'https://m.media-amazon.com/images/I/41XvRtu28nL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.65'
 average: '14.57'
 ---
 
-Es gibt ein [FALKE Damen Wandersocken TK1 - Merinowollmischung  1 Paar  Schwarz  Black-Mix 3010   Größe: 39-40](https://www.amazon.de/dp/B004BTXHN8/?tag=tolees0ca-21) mit aktuellem Preis 14.57 EUR (original: 23.0 EUR) 36.65 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![FALKE Damen Wandersocken TK1 - Merinowol](https://m.media-amazon.com/images/I/41XvRtu28nL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B004BTXHN8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B004BTXHN8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

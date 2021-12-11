@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.54 % rabat auf Deadpool 2 [DVD]'
+title: 'Deadpool 2 [DVD]'
 date: 2020-09-29 08:43:58
 image: 'https://m.media-amazon.com/images/I/51vXnt8ALXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.54'
 average: '5.21'
 ---
 
-Es gibt ein [Deadpool 2 [DVD]](https://www.amazon.de/dp/B07D3JWN98/?tag=tolees0ca-21) mit aktuellem Preis 5.21 EUR (original: 6.64 EUR) 21.54 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Deadpool 2 [DVD]](https://m.media-amazon.com/images/I/51vXnt8ALXL._SL400_.jpg)](https://www.amazon.de/dp/B07D3JWN98/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D3JWN98/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

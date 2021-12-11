@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.78 % rabat auf Silverline 726040 Schleifwalzen  25-tlg.'
+title: 'Silverline 726040 Schleifwalzen  25-tlg. Satz 80er-Körnung'
 date: 2020-09-30 06:34:46
 image: 'https://m.media-amazon.com/images/I/51xhx7WGlKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.78'
 average: '8.99'
 ---
 
-Es gibt ein [Silverline 726040 Schleifwalzen  25-tlg. Satz 80er-Körnung](https://www.amazon.de/dp/B000LFU5I6/?tag=tolees0ca-21) mit aktuellem Preis 8.99 EUR (original: 14.22 EUR) 36.78 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Silverline 726040 Schleifwalzen  25-tlg.](https://m.media-amazon.com/images/I/51xhx7WGlKL._SL400_.jpg)](https://www.amazon.de/dp/B000LFU5I6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000LFU5I6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

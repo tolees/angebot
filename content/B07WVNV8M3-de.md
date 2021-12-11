@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Herren T-Shirt O-Neck Print mit 35.02 % Rabatt'
+title: 'JACK & JONES Herren T-Shirt O-Neck Print Shirt  L  Total Eclipse '
 date: 2020-01-19 11:32:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xg9un%2BSeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.02'
 average: '12.99'
 ---
 
-Sie können [JACK & JONES Herren T-Shirt O-Neck Print Shirt  L  Total Eclipse ](https://www.amazon.de/dp/B07WVNV8M3/?tag=tolees0ca-21) mit Preis 12.99 EUR (original: 19.99 EUR) 35.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![JACK & JONES Herren T-Shirt O-Neck Print](https://images-eu.ssl-images-amazon.com/images/I/41xg9un%2BSeL._SL400_.jpg)](https://www.amazon.de/dp/B07WVNV8M3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07WVNV8M3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

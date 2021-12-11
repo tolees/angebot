@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Star Wars Special Edition Nass-u mit 38.93 % Rabatt'
+title: 'Philips Star Wars Special Edition Nass-und Trockenrasierer SW9700/67'
 date: 2020-05-14 06:52:20
 image: 'https://m.media-amazon.com/images/I/51QdDqUzuuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.93'
 average: '190.80666666666667'
 ---
 
-Sie können [Philips Star Wars Special Edition Nass-und Trockenrasierer SW9700/67](https://www.amazon.de/dp/B074SPC3TJ/?tag=tolees0ca-21) mit Preis 183.21 EUR (original: 299.99 EUR) 38.93 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Philips Star Wars Special Edition Nass-u](https://m.media-amazon.com/images/I/51QdDqUzuuL._SL400_.jpg)](https://www.amazon.de/dp/B074SPC3TJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B074SPC3TJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

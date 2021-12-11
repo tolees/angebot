@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.96 % rabat auf The Polydor Years 1986-1992  Ltd Edt Box'
+title: 'The Polydor Years 1986-1992  Ltd Edt Boxset '
 date: 2020-09-25 22:02:18
 image: 'https://m.media-amazon.com/images/I/51yY3fdHe7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.96'
 average: '47.4'
 ---
 
-Es gibt ein [The Polydor Years 1986-1992  Ltd Edt Boxset ](https://www.amazon.de/dp/B00NPJYC98/?tag=tolees0ca-21) mit aktuellem Preis 47.4 EUR (original: 60.74 EUR) 21.96 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![The Polydor Years 1986-1992  Ltd Edt Box](https://m.media-amazon.com/images/I/51yY3fdHe7L._SL400_.jpg)](https://www.amazon.de/dp/B00NPJYC98/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NPJYC98/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

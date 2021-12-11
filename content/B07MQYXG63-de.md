@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'leanBonnie Compuesto Karbonfaser Hose LC mit 39.50 % Rabatt'
+title: 'leanBonnie Compuesto Karbonfaser Hose LCD Digital Indicador 0 – 150 mm Herramienta  Kalibrador Regla Con Umwandlung in Pulgadas A mm'
 date: 2020-04-07 21:32:02
 image: 'https://m.media-amazon.com/images/I/318GF9s0hUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.50'
 average: '4.58'
 ---
 
-Sie können [leanBonnie Compuesto Karbonfaser Hose LCD Digital Indicador 0 – 150 mm Herramienta  Kalibrador Regla Con Umwandlung in Pulgadas A mm](https://www.amazon.de/dp/B07MQYXG63/?tag=tolees0ca-21) mit Preis 4.58 EUR (original: 7.57 EUR) 39.50 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![leanBonnie Compuesto Karbonfaser Hose LC](https://m.media-amazon.com/images/I/318GF9s0hUL._SL400_.jpg)](https://www.amazon.de/dp/B07MQYXG63/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07MQYXG63/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

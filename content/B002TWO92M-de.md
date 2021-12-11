@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.61 % rabat auf Alessi "La Stanza dello Scirocco"  Korbs'
+title: 'Alessi "La Stanza dello Scirocco"  Korbschale'
 date: 2020-10-11 20:04:42
 image: 'https://m.media-amazon.com/images/I/41zuGKqQALL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.61'
 average: '42.14'
 ---
 
-Es gibt ein [Alessi "La Stanza dello Scirocco"  Korbschale](https://www.amazon.de/dp/B002TWO92M/?tag=tolees0ca-21) mit aktuellem Preis 42.14 EUR (original: 82.0 EUR) 48.61 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Alessi "La Stanza dello Scirocco"  Korbs](https://m.media-amazon.com/images/I/41zuGKqQALL._SL400_.jpg)](https://www.amazon.de/dp/B002TWO92M/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B002TWO92M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

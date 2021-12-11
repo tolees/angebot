@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Dead Don t Die [Blu-ray] mit 20.67 % Rabatt'
+title: 'The Dead Don t Die [Blu-ray]'
 date: 2020-01-30 04:50:10
 image: 'https://m.media-amazon.com/images/I/51LEpJRjNsL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.67'
 average: '10.94'
 ---
 
-Sie können [The Dead Don t Die [Blu-ray]](https://www.amazon.de/dp/B07SQBWZL3/?tag=tolees0ca-21) mit Preis 10.94 EUR (original: 13.79 EUR) 20.67 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![The Dead Don t Die [Blu-ray]](https://m.media-amazon.com/images/I/51LEpJRjNsL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07SQBWZL3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07SQBWZL3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

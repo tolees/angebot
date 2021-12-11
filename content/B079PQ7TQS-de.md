@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop Marvel: Avengers Infinity War  mit 30.02 % Rabatt'
+title: 'Funko Pop Marvel: Avengers Infinity War - Captain America Collectible Figur'
 date: 2020-04-14 23:58:32
 image: 'https://m.media-amazon.com/images/I/41RwZl34jrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.02'
 average: '9.506666666666666'
 ---
 
-Sie können [Funko Pop Marvel: Avengers Infinity War - Captain America Collectible Figur](https://www.amazon.de/dp/B079PQ7TQS/?tag=tolees0ca-21) mit Preis 9.79 EUR (original: 13.99 EUR) 30.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko Pop Marvel: Avengers Infinity War ](https://m.media-amazon.com/images/I/41RwZl34jrL._SL400_.jpg)](https://www.amazon.de/dp/B079PQ7TQS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079PQ7TQS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

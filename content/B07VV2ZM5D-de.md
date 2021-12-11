@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Krups Nescafé Dolce Gusto Piccolo XS  Ka mit 51.24 % Rabatt'
+title: 'Krups Nescafé Dolce Gusto Piccolo XS  Kapsel Kaffeemaschine  heiße und kalte Getränke  15 bar Pumpendruck  manuelle Wasserdosierung  Rot'
 date: 2020-03-27 18:16:18
 image: 'https://m.media-amazon.com/images/I/31WCmQJKWIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.24'
 average: '39.0'
 ---
 
-Sie können [Krups Nescafé Dolce Gusto Piccolo XS  Kapsel Kaffeemaschine  heiße und kalte Getränke  15 bar Pumpendruck  manuelle Wasserdosierung  Rot](https://www.amazon.de/dp/B07VV2ZM5D/?tag=tolees0ca-21) mit Preis 39.0 EUR (original: 79.99 EUR) 51.24 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Krups Nescafé Dolce Gusto Piccolo XS  Ka](https://m.media-amazon.com/images/I/31WCmQJKWIL._SL400_.jpg)](https://www.amazon.de/dp/B07VV2ZM5D/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07VV2ZM5D/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

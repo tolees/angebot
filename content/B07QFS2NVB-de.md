@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.69 % rabat auf Funko 40243 POP Vinyl Animation: BT21-RJ'
+title: 'Funko 40243 POP Vinyl Animation: BT21-RJ BT21 RJ Sammelbares Spielzeug  Mehrfarben'
 date: 2020-03-29 13:08:37
 image: 'https://m.media-amazon.com/images/I/313vHpEeWFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.69'
 average: '9.905600000000005'
 ---
 
-Es gibt ein [Funko 40243 POP Vinyl Animation: BT21-RJ BT21 RJ Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07QFS2NVB/?tag=tolees0ca-21) mit aktuellem Preis 9.59 EUR (original: 15.9 EUR) 39.69 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 40243 POP Vinyl Animation: BT21-RJ](https://m.media-amazon.com/images/I/313vHpEeWFL._SL400_.jpg)](https://www.amazon.de/dp/B07QFS2NVB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QFS2NVB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

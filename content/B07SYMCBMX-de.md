@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dragon Ball Z: Kakarot -Standard Edition mit 43.55 % Rabatt'
+title: 'Dragon Ball Z: Kakarot -Standard Edition [PlayStation 4]'
 date: 2020-05-25 15:17:41
 image: 'https://m.media-amazon.com/images/I/51a+J8JZahL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.55'
 average: '38.36666666666667'
 ---
 
-Sie können [Dragon Ball Z: Kakarot -Standard Edition [PlayStation 4]](https://www.amazon.de/dp/B07SYMCBMX/?tag=tolees0ca-21) mit Preis 30.48 EUR (original: 53.99 EUR) 43.55 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dragon Ball Z: Kakarot -Standard Edition](https://m.media-amazon.com/images/I/51a+J8JZahL._SL400_.jpg)](https://www.amazon.de/dp/B07SYMCBMX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07SYMCBMX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '56.12 % rabat auf Scotch 5501933 Klebeband 550  Polypropyl'
+title: 'Scotch 5501933 Klebeband 550  Polypropylenfolie  19 mm x 33 m  8 Rollen transparent'
 date: 2020-02-01 05:00:51
 image: 'https://m.media-amazon.com/images/I/41QKIjHnY8L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.12'
 average: '5.7'
 ---
 
-Es gibt ein [Scotch 5501933 Klebeband 550  Polypropylenfolie  19 mm x 33 m  8 Rollen transparent](https://www.amazon.de/dp/B000KJMN8I/?tag=tolees0ca-21) mit aktuellem Preis 5.7 EUR (original: 12.99 EUR) 56.12 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Scotch 5501933 Klebeband 550  Polypropyl](https://m.media-amazon.com/images/I/41QKIjHnY8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B000KJMN8I/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJMN8I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

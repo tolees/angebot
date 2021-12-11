@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yaogroo 208 Spiele in 1 NDS Game Pack-Ka mit 71.76 % Rabatt'
+title: 'Yaogroo 208 Spiele in 1 NDS Game Pack-Karte Super Combo Multi-Cartridge für DS NDS NDSL NDSi 3DS 2DS XL'
 date: 2020-05-20 19:52:28
 image: 'https://m.media-amazon.com/images/I/613WjtTBpxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '71.76'
 average: '9.0'
 ---
 
-Sie können [Yaogroo 208 Spiele in 1 NDS Game Pack-Karte Super Combo Multi-Cartridge für DS NDS NDSL NDSi 3DS 2DS XL](https://www.amazon.de/dp/B07QN67KN5/?tag=tolees0ca-21) mit Preis 9.0 EUR (original: 31.87 EUR) 71.76 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Yaogroo 208 Spiele in 1 NDS Game Pack-Ka](https://m.media-amazon.com/images/I/613WjtTBpxL._SL400_.jpg)](https://www.amazon.de/dp/B07QN67KN5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07QN67KN5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

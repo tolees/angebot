@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 70042 Dragons Raffnuss und Taf mit 46.45 % Rabatt'
+title: 'Playmobil 70042 Dragons Raffnuss und Taffnuss mit Fluganzug  bunt'
 date: 2020-02-03 21:28:22
 image: 'https://m.media-amazon.com/images/I/61zjIvilX1L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.45'
 average: '5.35'
 ---
 
-Sie können [Playmobil 70042 Dragons Raffnuss und Taffnuss mit Fluganzug  bunt](https://www.amazon.de/dp/B07JXJJ69P/?tag=tolees0ca-21) mit Preis 5.35 EUR (original: 9.99 EUR) 46.45 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 70042 Dragons Raffnuss und Taf](https://m.media-amazon.com/images/I/61zjIvilX1L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07JXJJ69P/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JXJJ69P/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

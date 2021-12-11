@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 28632 S4 Demogorgon POP Vinylfigur mit 35.74 % Rabatt'
+title: 'Funko 28632 S4 Demogorgon POP Vinylfigur: Stranger Things: Dart Demodog  Multi'
 date: 2020-01-20 02:21:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410GOyFmTuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.74'
 average: '8.99'
 ---
 
-Sie können [Funko 28632 S4 Demogorgon POP Vinylfigur: Stranger Things: Dart Demodog  Multi](https://www.amazon.de/dp/B0777TSSFW/?tag=tolees0ca-21) mit Preis 8.99 EUR (original: 13.99 EUR) 35.74 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 28632 S4 Demogorgon POP Vinylfigur](https://images-eu.ssl-images-amazon.com/images/I/410GOyFmTuL._SL400_.jpg)](https://www.amazon.de/dp/B0777TSSFW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0777TSSFW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

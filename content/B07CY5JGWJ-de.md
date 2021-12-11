@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung MB-ME128GA/EU EVO Select 128 GB  mit 15.42 % Rabatt'
+title: 'Samsung MB-ME128GA/EU EVO Select 128 GB microSDXC UHS-I U3 Speicherkarte inkl. SD-Adapter Weiß/Grun'
 date: 2020-03-15 15:19:28
 image: 'https://m.media-amazon.com/images/I/31Z3z2G1n-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.42'
 average: '26.393333333333334'
 ---
 
-Sie können [Samsung MB-ME128GA/EU EVO Select 128 GB microSDXC UHS-I U3 Speicherkarte inkl. SD-Adapter Weiß/Grun](https://www.amazon.de/dp/B07CY5JGWJ/?tag=tolees0ca-21) mit Preis 25.29 EUR (original: 29.9 EUR) 15.42 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung MB-ME128GA/EU EVO Select 128 GB ](https://m.media-amazon.com/images/I/31Z3z2G1n-L._SL400_.jpg)](https://www.amazon.de/dp/B07CY5JGWJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07CY5JGWJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

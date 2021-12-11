@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optoma LV130  LED Projektor  WVGA  100.0 mit 33.44 % Rabatt'
+title: 'Optoma LV130  LED Projektor  WVGA  100.000:1 Kontrast  300Lumen  HDMI  MHL  Schwarz'
 date: 2020-04-17 18:37:52
 image: 'https://m.media-amazon.com/images/I/21zXfe2DKOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.44'
 average: '199.0'
 ---
 
-Sie können [Optoma LV130  LED Projektor  WVGA  100.000:1 Kontrast  300Lumen  HDMI  MHL  Schwarz](https://www.amazon.de/dp/B07H7TFQCS/?tag=tolees0ca-21) mit Preis 199.0 EUR (original: 299.0 EUR) 33.44 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Optoma LV130  LED Projektor  WVGA  100.0](https://m.media-amazon.com/images/I/21zXfe2DKOL._SL400_.jpg)](https://www.amazon.de/dp/B07H7TFQCS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07H7TFQCS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

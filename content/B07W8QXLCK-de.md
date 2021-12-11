@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.40 % rabat auf Bose Portable Home Speaker – mit integri'
+title: 'Bose Portable Home Speaker – mit integrierter Alexa-Sprachsteuerung  in Schwarz'
 date: 2020-02-08 06:56:46
 image: 'https://m.media-amazon.com/images/I/41txTC26vSL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.40'
 average: '275.99'
 ---
 
-Es gibt ein [Bose Portable Home Speaker – mit integrierter Alexa-Sprachsteuerung  in Schwarz](https://www.amazon.de/dp/B07W8QXLCK/?tag=tolees0ca-21) mit aktuellem Preis 275.99 EUR (original: 369.95 EUR) 25.40 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bose Portable Home Speaker – mit integri](https://m.media-amazon.com/images/I/41txTC26vSL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07W8QXLCK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W8QXLCK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

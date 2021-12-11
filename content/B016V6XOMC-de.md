@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '47.81 % rabat auf Original HTC Micro USB Ladekabel für HTC'
+title: 'Original HTC Micro USB Ladekabel für HTC One M7 M8 M9 Smartphone 1m schwarz'
 date: 2020-04-25 11:20:44
 image: 'https://m.media-amazon.com/images/I/415jBODJjkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.81'
 average: '3.7649999999999997'
 ---
 
-Es gibt ein [Original HTC Micro USB Ladekabel für HTC One M7 M8 M9 Smartphone 1m schwarz](https://www.amazon.de/dp/B016V6XOMC/?tag=tolees0ca-21) mit aktuellem Preis 4.17 EUR (original: 7.99 EUR) 47.81 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Original HTC Micro USB Ladekabel für HTC](https://m.media-amazon.com/images/I/415jBODJjkL._SL400_.jpg)](https://www.amazon.de/dp/B016V6XOMC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B016V6XOMC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

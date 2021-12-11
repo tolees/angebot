@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.82 % rabat auf Kopfschutz / Schutzhelmkombination Yukon'
+title: 'Kopfschutz / Schutzhelmkombination Yukon   stoßfester und atmungsaktiver PP – Helm  bequemer Gehörschutz  breites und robuste Netzvisier aus Edelstahl für den Augenschutz   SNR-Wert: 25 9 dB'
 date: 2020-10-12 20:23:23
 image: 'https://m.media-amazon.com/images/I/51x2VTvd96L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.82'
 average: '19.75'
 ---
 
-Es gibt ein [Kopfschutz / Schutzhelmkombination Yukon   stoßfester und atmungsaktiver PP – Helm  bequemer Gehörschutz  breites und robuste Netzvisier aus Edelstahl für den Augenschutz   SNR-Wert: 25 9 dB](https://www.amazon.de/dp/B00FYRVFEE/?tag=tolees0ca-21) mit aktuellem Preis 19.75 EUR (original: 40.99 EUR) 51.82 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kopfschutz / Schutzhelmkombination Yukon](https://m.media-amazon.com/images/I/51x2VTvd96L._SL400_.jpg)](https://www.amazon.de/dp/B00FYRVFEE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FYRVFEE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

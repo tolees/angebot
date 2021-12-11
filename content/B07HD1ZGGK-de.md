@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mattel GGX34 - Toy Story 4 Woody Figur   mit 20.60 % Rabatt'
+title: 'Mattel GGX34 - Toy Story 4 Woody Figur  17 cm Spielzeug Actionfigur ab 3 Jahren'
 date: 2020-04-14 16:41:49
 image: 'https://m.media-amazon.com/images/I/4166s-OHjSL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.60'
 average: '13.49'
 ---
 
-Sie können [Mattel GGX34 - Toy Story 4 Woody Figur  17 cm Spielzeug Actionfigur ab 3 Jahren](https://www.amazon.de/dp/B07HD1ZGGK/?tag=tolees0ca-21) mit Preis 13.49 EUR (original: 16.99 EUR) 20.60 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Mattel GGX34 - Toy Story 4 Woody Figur  ](https://m.media-amazon.com/images/I/4166s-OHjSL._SL400_.jpg)](https://www.amazon.de/dp/B07HD1ZGGK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HD1ZGGK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

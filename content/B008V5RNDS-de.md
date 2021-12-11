@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ice Age 1-4 [4 DVDs] mit 16.64 % Rabatt'
+title: 'Ice Age 1-4 [4 DVDs]'
 date: 2020-04-09 23:42:13
 image: 'https://m.media-amazon.com/images/I/51NBo8k0FZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.64'
 average: '16.395'
 ---
 
-Sie können [Ice Age 1-4 [4 DVDs]](https://www.amazon.de/dp/B008V5RNDS/?tag=tolees0ca-21) mit Preis 25.0 EUR (original: 29.99 EUR) 16.64 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ice Age 1-4 [4 DVDs]](https://m.media-amazon.com/images/I/51NBo8k0FZL._SL400_.jpg)](https://www.amazon.de/dp/B008V5RNDS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B008V5RNDS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

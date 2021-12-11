@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.86 % rabat auf Tony Bennett & Lady Gaga - Cheek to Chee'
+title: 'Tony Bennett & Lady Gaga - Cheek to Cheek - Live! [Blu-ray]'
 date: 2020-09-24 09:49:45
 image: 'https://m.media-amazon.com/images/I/51E9Hka1PlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.86'
 average: '3.916666666666667'
 ---
 
-Es gibt ein [Tony Bennett & Lady Gaga - Cheek to Cheek - Live! [Blu-ray]](https://www.amazon.de/dp/B00P4IMXE4/?tag=tolees0ca-21) mit aktuellem Preis 3.43 EUR (original: 4.89 EUR) 29.86 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Tony Bennett & Lady Gaga - Cheek to Chee](https://m.media-amazon.com/images/I/51E9Hka1PlL._SL400_.jpg)](https://www.amazon.de/dp/B00P4IMXE4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00P4IMXE4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

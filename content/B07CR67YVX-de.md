@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Herren Daren Button Fly Jeans  Blau  mit 40.00 % Rabatt'
+title: 'Lee Herren Daren Button Fly Jeans  Blau  Light Daze Zx   36W / 32L'
 date: 2020-09-21 15:12:04
 image: 'https://m.media-amazon.com/images/I/31pHOKwcFbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '59.97'
 ---
 
-Sie können [Lee Herren Daren Button Fly Jeans  Blau  Light Daze Zx   36W / 32L](https://www.amazon.de/dp/B07CR67YVX/?tag=tolees0ca-21) mit Preis 59.97 EUR (original: 99.95 EUR) 40.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Lee Herren Daren Button Fly Jeans  Blau ](https://m.media-amazon.com/images/I/31pHOKwcFbL._SL400_.jpg)](https://www.amazon.de/dp/B07CR67YVX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07CR67YVX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

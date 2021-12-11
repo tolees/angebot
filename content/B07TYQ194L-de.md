@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.25 % rabat auf Pop Avengers Endgame Thanos in the Garde'
+title: 'Pop Avengers Endgame Thanos in the Garden Vinyl Figure'
 date: 2020-04-15 07:38:25
 image: 'https://m.media-amazon.com/images/I/31BRiyTGvaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.25'
 average: '7.696666666666668'
 ---
 
-Es gibt ein [Pop Avengers Endgame Thanos in the Garden Vinyl Figure](https://www.amazon.de/dp/B07TYQ194L/?tag=tolees0ca-21) mit aktuellem Preis 8.01 EUR (original: 12.0 EUR) 33.25 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Pop Avengers Endgame Thanos in the Garde](https://m.media-amazon.com/images/I/31BRiyTGvaL._SL400_.jpg)](https://www.amazon.de/dp/B07TYQ194L/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TYQ194L/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

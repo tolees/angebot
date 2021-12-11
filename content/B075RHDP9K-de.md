@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GORE Wear C3 kurze Herren Hose  XXL  Sch mit 26.89 % Rabatt'
+title: 'GORE Wear C3 kurze Herren Hose  XXL  Schwarz'
 date: 2020-08-27 03:43:35
 image: 'https://m.media-amazon.com/images/I/418pPicToqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.89'
 average: '65.76'
 ---
 
-Sie können [GORE Wear C3 kurze Herren Hose  XXL  Schwarz](https://www.amazon.de/dp/B075RHDP9K/?tag=tolees0ca-21) mit Preis 65.76 EUR (original: 89.95 EUR) 26.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GORE Wear C3 kurze Herren Hose  XXL  Sch](https://m.media-amazon.com/images/I/418pPicToqL._SL400_.jpg)](https://www.amazon.de/dp/B075RHDP9K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B075RHDP9K/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.03 % rabat auf LEGO Creator 31071 - Forschungsdrohne Ba'
+title: 'LEGO Creator 31071 - Forschungsdrohne Bauspielzeug'
 date: 2020-01-01 22:58:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BDaPLwhvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.03'
 average: '7.031666666666666'
 ---
 
-Es gibt ein [LEGO Creator 31071 - Forschungsdrohne Bauspielzeug](https://www.amazon.de/dp/B075SVNY76/?tag=tolees0ca-21) mit aktuellem Preis 6.99 EUR (original: 9.99 EUR) 30.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Creator 31071 - Forschungsdrohne Ba](https://images-eu.ssl-images-amazon.com/images/I/51%2BDaPLwhvL._SL400_.jpg)](https://www.amazon.de/dp/B075SVNY76/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B075SVNY76/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.50 % rabat auf Acer Swift 3 Pro  SF313-51-873X  33 78 c'
+title: 'Acer Swift 3 Pro  SF313-51-873X  33 78 cm  13 3 Zoll Full-HD  Ultrabook  Intel Core i7-8550U  8GB RAM  512GB PCIe SSD  Intel UHD  Win 10 Pro  LTE  silber'
 date: 2020-01-06 15:53:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lAImYqo2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.50'
 average: '533'
 ---
 
-Es gibt ein [Acer Swift 3 Pro  SF313-51-873X  33 78 cm  13 3 Zoll Full-HD  Ultrabook  Intel Core i7-8550U  8GB RAM  512GB PCIe SSD  Intel UHD  Win 10 Pro  LTE  silber](https://www.amazon.de/dp/B07H364VWV/?tag=tolees0ca-21) mit aktuellem Preis 533 EUR (original: 1099 EUR) 51.50 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Acer Swift 3 Pro  SF313-51-873X  33 78 c](https://images-eu.ssl-images-amazon.com/images/I/41lAImYqo2L._SL400_.jpg)](https://www.amazon.de/dp/B07H364VWV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07H364VWV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

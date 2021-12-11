@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.60 % rabat auf LEGO 21156 Minecraft BigFig Creeper und '
+title: 'LEGO 21156 Minecraft BigFig Creeper und Ozelot  Bauset'
 date: 2020-09-10 17:08:57
 image: 'https://m.media-amazon.com/images/I/51gKN5dE-NL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.60'
 average: '12.803333333333333'
 ---
 
-Es gibt ein [LEGO 21156 Minecraft BigFig Creeper und Ozelot  Bauset](https://www.amazon.de/dp/B07W7V6TKY/?tag=tolees0ca-21) mit aktuellem Preis 10.87 EUR (original: 14.61 EUR) 25.60 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO 21156 Minecraft BigFig Creeper und ](https://m.media-amazon.com/images/I/51gKN5dE-NL._SL400_.jpg)](https://www.amazon.de/dp/B07W7V6TKY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W7V6TKY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

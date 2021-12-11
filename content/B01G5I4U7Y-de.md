@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alice im Wunderland: Hinter den Spiegeln mit 57.22 % Rabatt'
+title: 'Alice im Wunderland: Hinter den Spiegeln'
 date: 2020-04-14 23:45:31
 image: 'https://m.media-amazon.com/images/I/51wij-YxTQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.22'
 average: '4.99'
 ---
 
-Sie können [Alice im Wunderland: Hinter den Spiegeln](https://www.amazon.de/dp/B01G5I4U7Y/?tag=tolees0ca-21) mit Preis 2.99 EUR (original: 6.99 EUR) 57.22 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Alice im Wunderland: Hinter den Spiegeln](https://m.media-amazon.com/images/I/51wij-YxTQL._SL400_.jpg)](https://www.amazon.de/dp/B01G5I4U7Y/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01G5I4U7Y/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Hue White and Color Ambiance GU1 mit 24.99 % Rabatt'
+title: 'Philips Hue White and Color Ambiance GU10 LED Lampe Doppelpack 2er x 5 7W Bluetooth'
 date: 2020-03-07 05:06:20
 image: 'https://m.media-amazon.com/images/I/41PRh2ifYrL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.99'
 average: '75.0'
 ---
 
-Sie können [Philips Hue White and Color Ambiance GU10 LED Lampe Doppelpack 2er x 5 7W Bluetooth](https://www.amazon.de/dp/B07SHVQCTJ/?tag=tolees0ca-21) mit Preis 75.0 EUR (original: 99.99 EUR) 24.99 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Philips Hue White and Color Ambiance GU1](https://m.media-amazon.com/images/I/41PRh2ifYrL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07SHVQCTJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07SHVQCTJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

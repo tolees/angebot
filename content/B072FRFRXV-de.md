@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.72 % rabat auf ONLY Damen Langarmshirt Onlelcos 4/5 Sol'
+title: 'ONLY Damen Langarmshirt Onlelcos 4/5 Solid Top Jrs Noos  Rosa  Mesa Rose Detail:Melange   40  Herstellergröße: L '
 date: 2020-10-02 21:23:45
 image: 'https://m.media-amazon.com/images/I/31e291RCITL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.72'
 average: '11.65'
 ---
 
-Es gibt ein [ONLY Damen Langarmshirt Onlelcos 4/5 Solid Top Jrs Noos  Rosa  Mesa Rose Detail:Melange   40  Herstellergröße: L ](https://www.amazon.de/dp/B072FRFRXV/?tag=tolees0ca-21) mit aktuellem Preis 11.65 EUR (original: 19.99 EUR) 41.72 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ONLY Damen Langarmshirt Onlelcos 4/5 Sol](https://m.media-amazon.com/images/I/31e291RCITL._SL400_.jpg)](https://www.amazon.de/dp/B072FRFRXV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B072FRFRXV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

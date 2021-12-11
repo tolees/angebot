@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '57.50 % rabat auf Pop Dirty Dancing Johnny Vinyl Figure'
+title: 'Pop Dirty Dancing Johnny Vinyl Figure'
 date: 2020-04-04 21:01:02
 image: 'https://m.media-amazon.com/images/I/41yJJwvj1JL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.50'
 average: '5.1'
 ---
 
-Es gibt ein [Pop Dirty Dancing Johnny Vinyl Figure](https://www.amazon.de/dp/B07HB3HKD6/?tag=tolees0ca-21) mit aktuellem Preis 5.1 EUR (original: 12.0 EUR) 57.50 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Pop Dirty Dancing Johnny Vinyl Figure](https://m.media-amazon.com/images/I/41yJJwvj1JL._SL400_.jpg)](https://www.amazon.de/dp/B07HB3HKD6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HB3HKD6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buss Kartoffel-Eintopf mit Rauchspeck un mit 21.69 % Rabatt'
+title: 'Buss Kartoffel-Eintopf mit Rauchspeck und Cocktailwürstchen  800 g'
 date: 2020-08-02 05:34:24
 image: 'https://m.media-amazon.com/images/I/515zMbpXHtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.69'
 average: '1.95'
 ---
 
-Sie können [Buss Kartoffel-Eintopf mit Rauchspeck und Cocktailwürstchen  800 g](https://www.amazon.de/dp/B01MQEE49C/?tag=tolees0ca-21) mit Preis 1.95 EUR (original: 2.49 EUR) 21.69 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Buss Kartoffel-Eintopf mit Rauchspeck un](https://m.media-amazon.com/images/I/515zMbpXHtL._SL400_.jpg)](https://www.amazon.de/dp/B01MQEE49C/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01MQEE49C/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

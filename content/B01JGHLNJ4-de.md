@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.58 % rabat auf Einhell Sägekettenschärfgerät GC-CS 85  '
+title: 'Einhell Sägekettenschärfgerät GC-CS 85  Schleifscheibe  Tiefenbegrenzung  Kettenspannvorrichtung  präzise Schleifwinkeleinstellung '
 date: 2020-01-16 19:33:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fXX31aapL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.58'
 average: '21.99'
 ---
 
-Es gibt ein [Einhell Sägekettenschärfgerät GC-CS 85  Schleifscheibe  Tiefenbegrenzung  Kettenspannvorrichtung  präzise Schleifwinkeleinstellung ](https://www.amazon.de/dp/B01JGHLNJ4/?tag=tolees0ca-21) mit aktuellem Preis 21.99 EUR (original: 29.95 EUR) 26.58 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Einhell Sägekettenschärfgerät GC-CS 85  ](https://images-eu.ssl-images-amazon.com/images/I/51fXX31aapL._SL400_.jpg)](https://www.amazon.de/dp/B01JGHLNJ4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01JGHLNJ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

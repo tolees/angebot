@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Revell Build & Play - Star Wars Resistan mit 44.02 % Rabatt'
+title: 'Revell Build & Play - Star Wars Resistance A-wing Fighter in blau - 06762  Maßstab 1:44  originalgetreue Nachbildung mit beweglichen Teilen  mit Light&Sound Effekten  robust zum Spielen'
 date: 2020-03-28 05:00:15
 image: 'https://m.media-amazon.com/images/I/616zCTx21zL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.02'
 average: '12.884615384615385'
 ---
 
-Sie können [Revell Build & Play - Star Wars Resistance A-wing Fighter in blau - 06762  Maßstab 1:44  originalgetreue Nachbildung mit beweglichen Teilen  mit Light&Sound Effekten  robust zum Spielen](https://www.amazon.de/dp/B01N39NBOU/?tag=tolees0ca-21) mit Preis 13.99 EUR (original: 24.99 EUR) 44.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Revell Build & Play - Star Wars Resistan](https://m.media-amazon.com/images/I/616zCTx21zL._SL400_.jpg)](https://www.amazon.de/dp/B01N39NBOU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01N39NBOU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

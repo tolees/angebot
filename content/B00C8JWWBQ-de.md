@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.23 % rabat auf D-Link DGS-1100-08 8-Port Layer2 Gigabit'
+title: 'D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart  10/100/1000 Mbit/s  lüfterlos  Metallgehäuse '
 date: 2020-08-15 05:57:12
 image: 'https://m.media-amazon.com/images/I/41nBvNvbVBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.23'
 average: '27.2'
 ---
 
-Es gibt ein [D-Link DGS-1100-08 8-Port Layer2 Gigabit Switch EasySmart  10/100/1000 Mbit/s  lüfterlos  Metallgehäuse ](https://www.amazon.de/dp/B00C8JWWBQ/?tag=tolees0ca-21) mit aktuellem Preis 27.2 EUR (original: 35.9 EUR) 24.23 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![D-Link DGS-1100-08 8-Port Layer2 Gigabit](https://m.media-amazon.com/images/I/41nBvNvbVBL._SL400_.jpg)](https://www.amazon.de/dp/B00C8JWWBQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00C8JWWBQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

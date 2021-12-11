@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 70059 Special Plus Elfe mit RE mit 25.56 % Rabatt'
+title: 'Playmobil 70059 Special Plus Elfe mit REH  bunt'
 date: 2020-01-16 06:10:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mlfQ-bpIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.56'
 average: '2.97'
 ---
 
-Sie können [Playmobil 70059 Special Plus Elfe mit REH  bunt](https://www.amazon.de/dp/B07JMCBR5B/?tag=tolees0ca-21) mit Preis 2.97 EUR (original: 3.99 EUR) 25.56 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 70059 Special Plus Elfe mit RE](https://images-eu.ssl-images-amazon.com/images/I/51mlfQ-bpIL._SL400_.jpg)](https://www.amazon.de/dp/B07JMCBR5B/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JMCBR5B/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

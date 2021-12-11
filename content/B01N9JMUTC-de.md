@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Akku Rasenmäher Rotak 430 LI  2 Ak mit 19.11 % Rabatt'
+title: 'Bosch Akku Rasenmäher Rotak 430 LI  2 Akku  36 Volt  Ladegerät  Karton  Grasfangkorb: 50 l  Schnittbreite/Schnitthöhe: 43 cm/2-7 cm '
 date: 2020-09-15 11:53:52
 image: 'https://m.media-amazon.com/images/I/41WLX19pvrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.11'
 average: '509.59'
 ---
 
-Sie können [Bosch Akku Rasenmäher Rotak 430 LI  2 Akku  36 Volt  Ladegerät  Karton  Grasfangkorb: 50 l  Schnittbreite/Schnitthöhe: 43 cm/2-7 cm ](https://www.amazon.de/dp/B01N9JMUTC/?tag=tolees0ca-21) mit Preis 509.59 EUR (original: 629.99 EUR) 19.11 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Akku Rasenmäher Rotak 430 LI  2 Ak](https://m.media-amazon.com/images/I/41WLX19pvrL._SL400_.jpg)](https://www.amazon.de/dp/B01N9JMUTC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01N9JMUTC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

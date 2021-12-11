@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.00 % rabat auf Predator XB273GXbmiiprzx Gaming G-SYNC C'
+title: 'Predator XB273GXbmiiprzx Gaming G-SYNC Compatible 27 Zoll IPS FHD Display  1920x1080  240Hz 400 cd/m2  Fast LC 1ms  G2G   0.1ms  G2G Min.   HDMI 1.4   DP  USB 3.0  integrierte Lautsprecher  ZeroFrame'
 date: 2020-08-25 08:55:48
 image: 'https://m.media-amazon.com/images/I/41lwjc47-LL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '319.2'
 ---
 
-Es gibt ein [Predator XB273GXbmiiprzx Gaming G-SYNC Compatible 27 Zoll IPS FHD Display  1920x1080  240Hz 400 cd/m2  Fast LC 1ms  G2G   0.1ms  G2G Min.   HDMI 1.4   DP  USB 3.0  integrierte Lautsprecher  ZeroFrame](https://www.amazon.de/dp/B082QFMK48/?tag=tolees0ca-21) mit aktuellem Preis 319.2 EUR (original: 399.0 EUR) 20.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Predator XB273GXbmiiprzx Gaming G-SYNC C](https://m.media-amazon.com/images/I/41lwjc47-LL._SL400_.jpg)](https://www.amazon.de/dp/B082QFMK48/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B082QFMK48/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

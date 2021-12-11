@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 21724 Actionfigur Disney Snow Whit mit 42.82 % Rabatt'
+title: 'Funko 21724 Actionfigur Disney Snow White: Sleepy  Multi'
 date: 2020-03-13 10:46:30
 image: 'https://m.media-amazon.com/images/I/41M65WGC7+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.82'
 average: '8.0'
 ---
 
-Sie können [Funko 21724 Actionfigur Disney Snow White: Sleepy  Multi](https://www.amazon.de/dp/B074NPMNY7/?tag=tolees0ca-21) mit Preis 8.0 EUR (original: 13.99 EUR) 42.82 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 21724 Actionfigur Disney Snow Whit](https://m.media-amazon.com/images/I/41M65WGC7+L._SL400_.jpg)](https://www.amazon.de/dp/B074NPMNY7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B074NPMNY7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

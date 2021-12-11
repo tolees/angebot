@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.38 % rabat auf Funko 14367 Actionfigur Westworld: Teddy'
+title: 'Funko 14367 Actionfigur Westworld: Teddy  Multi'
 date: 2020-03-18 02:39:18
 image: 'https://m.media-amazon.com/images/I/51b+cYL4eHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.38'
 average: '4.13'
 ---
 
-Es gibt ein [Funko 14367 Actionfigur Westworld: Teddy  Multi](https://www.amazon.de/dp/B06XBMG4JK/?tag=tolees0ca-21) mit aktuellem Preis 4.13 EUR (original: 8.0 EUR) 48.38 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 14367 Actionfigur Westworld: Teddy](https://m.media-amazon.com/images/I/51b+cYL4eHL._SL400_.jpg)](https://www.amazon.de/dp/B06XBMG4JK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XBMG4JK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

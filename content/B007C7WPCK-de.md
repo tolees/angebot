@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Martha Stewart Satin Acrylic Craft Paint mit 45.39 % Rabatt'
+title: 'Martha Stewart Satin Acrylic Craft Paint 2 Ounces-Seaweed'
 date: 2020-04-10 00:02:35
 image: 'https://m.media-amazon.com/images/I/4155zxJADAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.39'
 average: '4.74'
 ---
 
-Sie können [Martha Stewart Satin Acrylic Craft Paint 2 Ounces-Seaweed](https://www.amazon.de/dp/B007C7WPCK/?tag=tolees0ca-21) mit Preis 4.74 EUR (original: 8.68 EUR) 45.39 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Martha Stewart Satin Acrylic Craft Paint](https://m.media-amazon.com/images/I/4155zxJADAL._SL400_.jpg)](https://www.amazon.de/dp/B007C7WPCK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B007C7WPCK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

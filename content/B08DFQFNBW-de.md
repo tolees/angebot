@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.09 % rabat auf Aobp 50M Gummiband Weiß Gummilitze Elast'
+title: 'Aobp 50M Gummiband Weiß Gummilitze Elastische Schnur Gummikordel Rund Gummizug Elastisches Band für mundschutz und Nähen DIY Masken und Handwerk 0.3 cm'
 date: 2020-08-10 00:15:18
 image: 'https://m.media-amazon.com/images/I/411QFkXhfQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.09'
 average: '9.99'
 ---
 
-Es gibt ein [Aobp 50M Gummiband Weiß Gummilitze Elastische Schnur Gummikordel Rund Gummizug Elastisches Band für mundschutz und Nähen DIY Masken und Handwerk 0.3 cm](https://www.amazon.de/dp/B08DFQFNBW/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 12.99 EUR) 23.09 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Aobp 50M Gummiband Weiß Gummilitze Elast](https://m.media-amazon.com/images/I/411QFkXhfQL._SL400_.jpg)](https://www.amazon.de/dp/B08DFQFNBW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B08DFQFNBW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

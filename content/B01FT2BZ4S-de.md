@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.55 % rabat auf Levi s Emerson Herren Kurzschaft Stiefel'
+title: 'Levi s Emerson Herren Kurzschaft Stiefel  Schwarz  Black 59   42 EU'
 date: 2020-03-18 14:38:17
 image: 'https://m.media-amazon.com/images/I/41FZbrL1TZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.55'
 average: '62.99'
 ---
 
-Es gibt ein [Levi s Emerson Herren Kurzschaft Stiefel  Schwarz  Black 59   42 EU](https://www.amazon.de/dp/B01FT2BZ4S/?tag=tolees0ca-21) mit aktuellem Preis 62.99 EUR (original: 130.0 EUR) 51.55 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Levi s Emerson Herren Kurzschaft Stiefel](https://m.media-amazon.com/images/I/41FZbrL1TZL._SL400_.jpg)](https://www.amazon.de/dp/B01FT2BZ4S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01FT2BZ4S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.06 % rabat auf Playmobil 70010 SuperSet Familiengarten '
+title: 'Playmobil 70010 SuperSet Familiengarten  bunt'
 date: 2020-04-06 21:08:26
 image: 'https://m.media-amazon.com/images/I/51ar700UrsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.06'
 average: '13.395'
 ---
 
-Es gibt ein [Playmobil 70010 SuperSet Familiengarten  bunt](https://www.amazon.de/dp/B07JMD4SK8/?tag=tolees0ca-21) mit aktuellem Preis 15.58 EUR (original: 19.99 EUR) 22.06 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 70010 SuperSet Familiengarten ](https://m.media-amazon.com/images/I/51ar700UrsL._SL400_.jpg)](https://www.amazon.de/dp/B07JMD4SK8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JMD4SK8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

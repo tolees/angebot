@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple Silikon Case  für iPhone 11  - Sch mit 50.00 % Rabatt'
+title: 'Apple Silikon Case  für iPhone 11  - Schwarz'
 date: 2020-04-25 13:21:59
 image: 'https://m.media-amazon.com/images/I/21vYQEzAdrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '22.5'
 ---
 
-Sie können [Apple Silikon Case  für iPhone 11  - Schwarz](https://www.amazon.de/dp/B07XQSJ59F/?tag=tolees0ca-21) mit Preis 22.5 EUR (original: 45.0 EUR) 50.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Apple Silikon Case  für iPhone 11  - Sch](https://m.media-amazon.com/images/I/21vYQEzAdrL._SL400_.jpg)](https://www.amazon.de/dp/B07XQSJ59F/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07XQSJ59F/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

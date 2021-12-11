@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '52.01 % rabat auf PS4-Controller  Touchpanel-Gamepad mit V'
+title: 'PS4-Controller  Touchpanel-Gamepad mit Vibrations- und Audiofunktion  rutschfestem Griff  für Playstation 4 / Pro/Slim/PC-Laptop'
 date: 2020-08-10 14:46:51
 image: 'https://m.media-amazon.com/images/I/41R7a7YroVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.01'
 average: '36.99'
 ---
 
-Es gibt ein [PS4-Controller  Touchpanel-Gamepad mit Vibrations- und Audiofunktion  rutschfestem Griff  für Playstation 4 / Pro/Slim/PC-Laptop](https://www.amazon.de/dp/B086ZXZYGH/?tag=tolees0ca-21) mit aktuellem Preis 23.99 EUR (original: 49.99 EUR) 52.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PS4-Controller  Touchpanel-Gamepad mit V](https://m.media-amazon.com/images/I/41R7a7YroVL._SL400_.jpg)](https://www.amazon.de/dp/B086ZXZYGH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B086ZXZYGH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

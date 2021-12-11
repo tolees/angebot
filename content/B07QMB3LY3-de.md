@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickie Toys 203715011 Police Chase  Poli mit 50.95 % Rabatt'
+title: 'Dickie Toys 203715011 Police Chase  Polizeiauto  Spielzeugauto  Helikopter  Spielset  3er Set mit Licht & Sound  Mehrfarbig'
 date: 2020-04-07 21:42:39
 image: 'https://m.media-amazon.com/images/I/41sjGKHIp6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.95'
 average: '14.71'
 ---
 
-Sie können [Dickie Toys 203715011 Police Chase  Polizeiauto  Spielzeugauto  Helikopter  Spielset  3er Set mit Licht & Sound  Mehrfarbig](https://www.amazon.de/dp/B07QMB3LY3/?tag=tolees0ca-21) mit Preis 14.71 EUR (original: 29.99 EUR) 50.95 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dickie Toys 203715011 Police Chase  Poli](https://m.media-amazon.com/images/I/41sjGKHIp6L._SL400_.jpg)](https://www.amazon.de/dp/B07QMB3LY3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07QMB3LY3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

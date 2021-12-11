@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.71 % rabat auf Tumi Alpha Münzbörse 019246D  10 cm  Bla'
+title: 'Tumi Alpha Münzbörse 019246D  10 cm  Black Ballistic'
 date: 2020-10-05 11:38:13
 image: 'https://m.media-amazon.com/images/I/41PQvC+CW2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.71'
 average: '64.0'
 ---
 
-Es gibt ein [Tumi Alpha Münzbörse 019246D  10 cm  Black Ballistic](https://www.amazon.de/dp/B0756X8FWQ/?tag=tolees0ca-21) mit aktuellem Preis 64.0 EUR (original: 85.0 EUR) 24.71 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Tumi Alpha Münzbörse 019246D  10 cm  Bla](https://m.media-amazon.com/images/I/41PQvC+CW2L._SL400_.jpg)](https://www.amazon.de/dp/B0756X8FWQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0756X8FWQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

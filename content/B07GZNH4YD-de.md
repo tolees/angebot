@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.36 % rabat auf Bohrer Set  TACKLIFE 42tlg. Professionel'
+title: 'Bohrer Set  TACKLIFE 42tlg. Professionelles Set  Bohrer  Bit und Steckschlüssel  geeignet für alle Akkuschrauber Bohrschrauber - DNS02'
 date: 2020-01-21 11:16:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tH5M7A39L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.36'
 average: '24.99'
 ---
 
-Es gibt ein [Bohrer Set  TACKLIFE 42tlg. Professionelles Set  Bohrer  Bit und Steckschlüssel  geeignet für alle Akkuschrauber Bohrschrauber - DNS02](https://www.amazon.de/dp/B07GZNH4YD/?tag=tolees0ca-21) mit aktuellem Preis 24.99 EUR (original: 30.99 EUR) 19.36 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bohrer Set  TACKLIFE 42tlg. Professionel](https://images-eu.ssl-images-amazon.com/images/I/51tH5M7A39L._SL400_.jpg)](https://www.amazon.de/dp/B07GZNH4YD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GZNH4YD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.00 % rabat auf Samsung Galaxy S10+ Smartphone Bundle  1'
+title: 'Samsung Galaxy S10+ Smartphone Bundle  16.3 cm  6.4 Zoll  128GB interner Speicher  8GB RAM  Dual SIM  Android  Ceramic White  + 36 Monate Herstellergarantie [Exklusiv bei Amazon]  Deutsche Version'
 date: 2020-09-28 14:31:55
 image: 'https://m.media-amazon.com/images/I/31GDiTUHTfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.00'
 average: '629.0'
 ---
 
-Es gibt ein [Samsung Galaxy S10+ Smartphone Bundle  16.3 cm  6.4 Zoll  128GB interner Speicher  8GB RAM  Dual SIM  Android  Ceramic White  + 36 Monate Herstellergarantie [Exklusiv bei Amazon]  Deutsche Version](https://www.amazon.de/dp/B088MMRGRP/?tag=tolees0ca-21) mit aktuellem Preis 629.0 EUR (original: 827.6 EUR) 24.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung Galaxy S10+ Smartphone Bundle  1](https://m.media-amazon.com/images/I/31GDiTUHTfL._SL400_.jpg)](https://www.amazon.de/dp/B088MMRGRP/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B088MMRGRP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

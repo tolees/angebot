@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '47.93 % rabat auf TFA Dostmann 50.1002.01 Samba Körper-Ana'
+title: 'TFA Dostmann 50.1002.01 Samba Körper-Analysewaage mit Trittfläche'
 date: 2020-03-19 18:38:48
 image: 'https://m.media-amazon.com/images/I/413Q0ovwdKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.93'
 average: '24.99'
 ---
 
-Es gibt ein [TFA Dostmann 50.1002.01 Samba Körper-Analysewaage mit Trittfläche](https://www.amazon.de/dp/B00LN78VG4/?tag=tolees0ca-21) mit aktuellem Preis 24.99 EUR (original: 47.99 EUR) 47.93 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![TFA Dostmann 50.1002.01 Samba Körper-Ana](https://m.media-amazon.com/images/I/413Q0ovwdKL._SL400_.jpg)](https://www.amazon.de/dp/B00LN78VG4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00LN78VG4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

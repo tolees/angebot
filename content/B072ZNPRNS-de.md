@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.13 % rabat auf Transformers 5 - The Last Knight   + Blu'
+title: 'Transformers 5 - The Last Knight   + Blu-ray   + Bonus-Disc '
 date: 2020-09-23 17:36:26
 image: 'https://m.media-amazon.com/images/I/51xGPRyR0RL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.13'
 average: '10.24'
 ---
 
-Es gibt ein [Transformers 5 - The Last Knight   + Blu-ray   + Bonus-Disc ](https://www.amazon.de/dp/B072ZNPRNS/?tag=tolees0ca-21) mit aktuellem Preis 10.24 EUR (original: 13.15 EUR) 22.13 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Transformers 5 - The Last Knight   + Blu](https://m.media-amazon.com/images/I/51xGPRyR0RL._SL400_.jpg)](https://www.amazon.de/dp/B072ZNPRNS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B072ZNPRNS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

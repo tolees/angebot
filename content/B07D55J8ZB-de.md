@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '46.35 % rabat auf Harry Potter Fantastic Beasts 2 Pop! Vin'
+title: 'Harry Potter Fantastic Beasts 2 Pop! Vinyl Figur 17 Thestral aus Kunststoff  von Funko  in Geschenkbox.'
 date: 2020-03-18 21:05:44
 image: 'https://m.media-amazon.com/images/I/41R9hSD6SZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.35'
 average: '7.115'
 ---
 
-Es gibt ein [Harry Potter Fantastic Beasts 2 Pop! Vinyl Figur 17 Thestral aus Kunststoff  von Funko  in Geschenkbox.](https://www.amazon.de/dp/B07D55J8ZB/?tag=tolees0ca-21) mit aktuellem Preis 8.53 EUR (original: 15.9 EUR) 46.35 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Harry Potter Fantastic Beasts 2 Pop! Vin](https://m.media-amazon.com/images/I/41R9hSD6SZL._SL400_.jpg)](https://www.amazon.de/dp/B07D55J8ZB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D55J8ZB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

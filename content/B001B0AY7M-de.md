@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tödliche Versprechen - Eastern Promises  mit 43.86 % Rabatt'
+title: 'Tödliche Versprechen - Eastern Promises [Blu-ray]'
 date: 2020-02-03 04:51:51
 image: 'https://m.media-amazon.com/images/I/51OOlx5HZeL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.86'
 average: '5.99'
 ---
 
-Sie können [Tödliche Versprechen - Eastern Promises [Blu-ray]](https://www.amazon.de/dp/B001B0AY7M/?tag=tolees0ca-21) mit Preis 5.99 EUR (original: 10.67 EUR) 43.86 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Tödliche Versprechen - Eastern Promises ](https://m.media-amazon.com/images/I/51OOlx5HZeL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B001B0AY7M/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B001B0AY7M/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickie Toys 203715012 Prison Break  Poli mit 42.78 % Rabatt'
+title: 'Dickie Toys 203715012 Prison Break  Polizeistation  Spielstation  Set Polizei  Polizeiauto Spielzeug mit vielen Funktionen  Gefängnis inkl. 2 Autos  Mehrfarbig'
 date: 2020-04-09 07:56:29
 image: 'https://m.media-amazon.com/images/I/41Xills7j3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.78'
 average: '17.16'
 ---
 
-Sie können [Dickie Toys 203715012 Prison Break  Polizeistation  Spielstation  Set Polizei  Polizeiauto Spielzeug mit vielen Funktionen  Gefängnis inkl. 2 Autos  Mehrfarbig](https://www.amazon.de/dp/B07QN6TPC9/?tag=tolees0ca-21) mit Preis 17.16 EUR (original: 29.99 EUR) 42.78 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dickie Toys 203715012 Prison Break  Poli](https://m.media-amazon.com/images/I/41Xills7j3L._SL400_.jpg)](https://www.amazon.de/dp/B07QN6TPC9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07QN6TPC9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Borderlands 3 - Standard Edition Code in mit 33.34 % Rabatt'
+title: 'Borderlands 3 - Standard Edition Code in der Box - [PC]'
 date: 2020-03-01 04:52:21
 image: 'https://m.media-amazon.com/images/I/61vCgiPapyL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '19.99'
 ---
 
-Sie können [Borderlands 3 - Standard Edition Code in der Box - [PC]](https://www.amazon.de/dp/B07NTTHJ1X/?tag=tolees0ca-21) mit Preis 19.99 EUR (original: 29.99 EUR) 33.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Borderlands 3 - Standard Edition Code in](https://m.media-amazon.com/images/I/61vCgiPapyL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07NTTHJ1X/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07NTTHJ1X/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

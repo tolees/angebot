@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.52 % rabat auf GORE WEAR C3 Herren Fahrrad Kurzarmtriko'
+title: 'GORE WEAR C3 Herren Fahrrad Kurzarmtrikot  M  schwarz'
 date: 2020-09-23 20:05:22
 image: 'https://m.media-amazon.com/images/I/41l+fi3rKcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.52'
 average: '54.9'
 ---
 
-Es gibt ein [GORE WEAR C3 Herren Fahrrad Kurzarmtrikot  M  schwarz](https://www.amazon.de/dp/B07WCB8LQD/?tag=tolees0ca-21) mit aktuellem Preis 54.9 EUR (original: 69.95 EUR) 21.52 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GORE WEAR C3 Herren Fahrrad Kurzarmtriko](https://m.media-amazon.com/images/I/41l+fi3rKcL._SL400_.jpg)](https://www.amazon.de/dp/B07WCB8LQD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WCB8LQD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

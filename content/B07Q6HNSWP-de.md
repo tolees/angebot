@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.23 % rabat auf Monsieur Claude 2 [Blu-ray]'
+title: 'Monsieur Claude 2 [Blu-ray]'
 date: 2020-03-19 05:15:13
 image: 'https://m.media-amazon.com/images/I/5168ngg1VIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.23'
 average: '6.97'
 ---
 
-Es gibt ein [Monsieur Claude 2 [Blu-ray]](https://www.amazon.de/dp/B07Q6HNSWP/?tag=tolees0ca-21) mit aktuellem Preis 6.97 EUR (original: 9.99 EUR) 30.23 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Monsieur Claude 2 [Blu-ray]](https://m.media-amazon.com/images/I/5168ngg1VIL._SL400_.jpg)](https://www.amazon.de/dp/B07Q6HNSWP/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q6HNSWP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

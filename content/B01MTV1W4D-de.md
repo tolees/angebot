@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.26 % rabat auf Samsung CLT-P504C Multipack  schwarz  Cy'
+title: 'Samsung CLT-P504C Multipack  schwarz  Cyan  Magenta  Gelb  Original Toner'
 date: 2020-09-28 02:26:05
 image: 'https://m.media-amazon.com/images/I/414EXSgJmxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.26'
 average: '214.55'
 ---
 
-Es gibt ein [Samsung CLT-P504C Multipack  schwarz  Cyan  Magenta  Gelb  Original Toner](https://www.amazon.de/dp/B01MTV1W4D/?tag=tolees0ca-21) mit aktuellem Preis 214.55 EUR (original: 272.49 EUR) 21.26 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung CLT-P504C Multipack  schwarz  Cy](https://m.media-amazon.com/images/I/414EXSgJmxL._SL400_.jpg)](https://www.amazon.de/dp/B01MTV1W4D/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MTV1W4D/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL Ghostbusters 70170 Ecto-1A mit mit 46.66 % Rabatt'
+title: 'PLAYMOBIL Ghostbusters 70170 Ecto-1A mit Licht- und Soundeffekten  Ab 6 Jahren'
 date: 2020-03-19 13:27:46
 image: 'https://m.media-amazon.com/images/I/61dbwqJYarL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.66'
 average: '39.79375'
 ---
 
-Sie können [PLAYMOBIL Ghostbusters 70170 Ecto-1A mit Licht- und Soundeffekten  Ab 6 Jahren](https://www.amazon.de/dp/B07JM52FK1/?tag=tolees0ca-21) mit Preis 32.0 EUR (original: 59.99 EUR) 46.66 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PLAYMOBIL Ghostbusters 70170 Ecto-1A mit](https://m.media-amazon.com/images/I/61dbwqJYarL._SL400_.jpg)](https://www.amazon.de/dp/B07JM52FK1/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JM52FK1/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

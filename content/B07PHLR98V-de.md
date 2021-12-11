@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '61.46 % rabat auf Huawei Watch GT Active Smartwatch  46 mm'
+title: 'Huawei Watch GT Active Smartwatch  46 mm Amoled Touchscreen  GPS  Fitness Tracker  Herzfrequenzmessung  5 ATM wasserdicht  Orange'
 date: 2020-05-31 09:18:52
 image: 'https://m.media-amazon.com/images/I/41oaQRAnS+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.46'
 average: '95.27714285714285'
 ---
 
-Es gibt ein [Huawei Watch GT Active Smartwatch  46 mm Amoled Touchscreen  GPS  Fitness Tracker  Herzfrequenzmessung  5 ATM wasserdicht  Orange](https://www.amazon.de/dp/B07PHLR98V/?tag=tolees0ca-21) mit aktuellem Preis 95.97 EUR (original: 249.0 EUR) 61.46 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Huawei Watch GT Active Smartwatch  46 mm](https://m.media-amazon.com/images/I/41oaQRAnS+L._SL400_.jpg)](https://www.amazon.de/dp/B07PHLR98V/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PHLR98V/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

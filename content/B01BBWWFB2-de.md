@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.39 % rabat auf AVM FRITZ!Fon C5 DECT-Komforttelefon  ho'
+title: 'AVM FRITZ!Fon C5 DECT-Komforttelefon  hochwertiges Farbdisplay  HD-Telefonie  Internet-/Komfortdienste  Steuerung FRITZ!Box-Funktionen  schwarz  deutschsprachige Version'
 date: 2020-05-06 19:55:52
 image: 'https://m.media-amazon.com/images/I/31zdm6iVXsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.39'
 average: '54.99'
 ---
 
-Es gibt ein [AVM FRITZ!Fon C5 DECT-Komforttelefon  hochwertiges Farbdisplay  HD-Telefonie  Internet-/Komfortdienste  Steuerung FRITZ!Box-Funktionen  schwarz  deutschsprachige Version](https://www.amazon.de/dp/B01BBWWFB2/?tag=tolees0ca-21) mit aktuellem Preis 54.99 EUR (original: 79.0 EUR) 30.39 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![AVM FRITZ!Fon C5 DECT-Komforttelefon  ho](https://m.media-amazon.com/images/I/31zdm6iVXsL._SL400_.jpg)](https://www.amazon.de/dp/B01BBWWFB2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BBWWFB2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

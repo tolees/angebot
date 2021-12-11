@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Herren Trail Running Schuhe  ALP mit 54.11 % Rabatt'
+title: 'Salomon Herren Trail Running Schuhe  ALPHACROSS  Farbe: beige  Bleached Sand/Vanilla Ice/White  Größe: EU 42'
 date: 2020-06-09 03:32:57
 image: 'https://m.media-amazon.com/images/I/412SjfvzBfL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.11'
 average: '40.155'
 ---
 
-Sie können [Salomon Herren Trail Running Schuhe  ALPHACROSS  Farbe: beige  Bleached Sand/Vanilla Ice/White  Größe: EU 42](https://www.amazon.de/dp/B07RHPMYD9/?tag=tolees0ca-21) mit Preis 41.28 EUR (original: 89.95 EUR) 54.11 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Salomon Herren Trail Running Schuhe  ALP](https://m.media-amazon.com/images/I/412SjfvzBfL._SL400_.jpg)](https://www.amazon.de/dp/B07RHPMYD9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07RHPMYD9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

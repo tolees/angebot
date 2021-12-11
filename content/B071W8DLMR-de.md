@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.49 % rabat auf Netgear RR230400-100NES Ready-NAS Networ'
+title: 'Netgear RR230400-100NES Ready-NAS Network Attached Storage'
 date: 2020-02-13 17:49:05
 image: 'https://m.media-amazon.com/images/I/31DmtUm9VeL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.49'
 average: '313.0'
 ---
 
-Es gibt ein [Netgear RR230400-100NES Ready-NAS Network Attached Storage](https://www.amazon.de/dp/B071W8DLMR/?tag=tolees0ca-21) mit aktuellem Preis 313.0 EUR (original: 534.99 EUR) 41.49 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Netgear RR230400-100NES Ready-NAS Networ](https://m.media-amazon.com/images/I/31DmtUm9VeL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B071W8DLMR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B071W8DLMR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

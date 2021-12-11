@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eichhorn 109475850 - Schienenbahn Set Po mit 30.89 % Rabatt'
+title: 'Eichhorn 109475850 - Schienenbahn Set Porsche Racing  31-tlg.  inkl. Zubehör  Streckenlänge: 350cm  FSC 100% Zertifiziertes Buchenholz'
 date: 2020-05-11 19:24:58
 image: 'https://m.media-amazon.com/images/I/416gunHmgsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.89'
 average: '41.46'
 ---
 
-Sie können [Eichhorn 109475850 - Schienenbahn Set Porsche Racing  31-tlg.  inkl. Zubehör  Streckenlänge: 350cm  FSC 100% Zertifiziertes Buchenholz](https://www.amazon.de/dp/B07NR1NBJZ/?tag=tolees0ca-21) mit Preis 41.46 EUR (original: 59.99 EUR) 30.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Eichhorn 109475850 - Schienenbahn Set Po](https://m.media-amazon.com/images/I/416gunHmgsL._SL400_.jpg)](https://www.amazon.de/dp/B07NR1NBJZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07NR1NBJZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

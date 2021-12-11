@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.33 % rabat auf Rollei Actioncam 560 Touch - WiFi Action'
+title: 'Rollei Actioncam 560 Touch - WiFi Action-Cam wasserdicht 4k 60 FPS - Sports-Cam mit Touchscreen  Unterwasser-Filter  Fotointervallaufnahmen mit 160° Super-Weitwinkel-Objektiv mit viel Zubehör'
 date: 2020-01-22 08:38:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hy-ubugLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.33'
 average: '88.0'
 ---
 
-Es gibt ein [Rollei Actioncam 560 Touch - WiFi Action-Cam wasserdicht 4k 60 FPS - Sports-Cam mit Touchscreen  Unterwasser-Filter  Fotointervallaufnahmen mit 160° Super-Weitwinkel-Objektiv mit viel Zubehör](https://www.amazon.de/dp/B07KRSGJ2W/?tag=tolees0ca-21) mit aktuellem Preis 88 EUR (original: 149.99 EUR) 41.33 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Rollei Actioncam 560 Touch - WiFi Action](https://images-eu.ssl-images-amazon.com/images/I/41Hy-ubugLL._SL400_.jpg)](https://www.amazon.de/dp/B07KRSGJ2W/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KRSGJ2W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

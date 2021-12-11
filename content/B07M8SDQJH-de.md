@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '31.05 % rabat auf Frozen Disney Die Eiskönigin II Königlic'
+title: 'Frozen Disney Die Eiskönigin II Königliches Schloss von Arendelle E5495EU4'
 date: 2020-01-22 17:26:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518--wIriqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.05'
 average: '118.2576923076923'
 ---
 
-Es gibt ein [Frozen Disney Die Eiskönigin II Königliches Schloss von Arendelle E5495EU4](https://www.amazon.de/dp/B07M8SDQJH/?tag=tolees0ca-21) mit aktuellem Preis 137.9 EUR (original: 199.99 EUR) 31.05 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Frozen Disney Die Eiskönigin II Königlic](https://images-eu.ssl-images-amazon.com/images/I/518--wIriqL._SL400_.jpg)](https://www.amazon.de/dp/B07M8SDQJH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07M8SDQJH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

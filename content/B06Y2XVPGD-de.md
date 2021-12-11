@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '57.52 % rabat auf New Balance Herren 574v2 Core Sneaker  R'
+title: 'New Balance Herren 574v2 Core Sneaker  Rot  Burgundy   45 EU'
 date: 2020-04-13 15:31:44
 image: 'https://m.media-amazon.com/images/I/41fzbDkTKwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.52'
 average: '38.23'
 ---
 
-Es gibt ein [New Balance Herren 574v2 Core Sneaker  Rot  Burgundy   45 EU](https://www.amazon.de/dp/B06Y2XVPGD/?tag=tolees0ca-21) mit aktuellem Preis 38.23 EUR (original: 90.0 EUR) 57.52 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![New Balance Herren 574v2 Core Sneaker  R](https://m.media-amazon.com/images/I/41fzbDkTKwL._SL400_.jpg)](https://www.amazon.de/dp/B06Y2XVPGD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06Y2XVPGD/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

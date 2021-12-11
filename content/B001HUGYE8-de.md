@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '17.90 % rabat auf E-Mail für Dich [Special Edition]'
+title: 'E-Mail für Dich [Special Edition]'
 date: 2020-09-15 05:49:33
 image: 'https://m.media-amazon.com/images/I/51kOIz6saTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.90'
 average: '3.99'
 ---
 
-Es gibt ein [E-Mail für Dich [Special Edition]](https://www.amazon.de/dp/B001HUGYE8/?tag=tolees0ca-21) mit aktuellem Preis 3.99 EUR (original: 4.86 EUR) 17.90 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![E-Mail für Dich [Special Edition]](https://m.media-amazon.com/images/I/51kOIz6saTL._SL400_.jpg)](https://www.amazon.de/dp/B001HUGYE8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B001HUGYE8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

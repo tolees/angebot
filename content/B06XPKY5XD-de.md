@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spyderco Para 3 Taschenmesser Schwarz  K mit 18.13 % Rabatt'
+title: 'Spyderco Para 3 Taschenmesser Schwarz  Klingenlänge: 7 6 cm  01SP927'
 date: 2020-09-30 09:53:26
 image: 'https://m.media-amazon.com/images/I/315AQM5kcPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.13'
 average: '155.58999999999997'
 ---
 
-Sie können [Spyderco Para 3 Taschenmesser Schwarz  Klingenlänge: 7 6 cm  01SP927](https://www.amazon.de/dp/B06XPKY5XD/?tag=tolees0ca-21) mit Preis 163.7 EUR (original: 199.95 EUR) 18.13 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Spyderco Para 3 Taschenmesser Schwarz  K](https://m.media-amazon.com/images/I/315AQM5kcPL._SL400_.jpg)](https://www.amazon.de/dp/B06XPKY5XD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B06XPKY5XD/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

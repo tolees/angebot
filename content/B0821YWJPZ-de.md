@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer Aspire 3  A315-54-58ZK  39 6 cm  15 mit 43.24 % Rabatt'
+title: 'Acer Aspire 3  A315-54-58ZK  39 6 cm  15 6 Zoll Full-HD matt  Multimedia Laptop  Intel Core i5-10210U  8 GB RAM  1.000 GB PCIe SSD  Intel UHD  Win 10 Home  schwarz'
 date: 2020-04-13 16:11:47
 image: 'https://m.media-amazon.com/images/I/41nRQA40pUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.24'
 average: '340.0'
 ---
 
-Sie können [Acer Aspire 3  A315-54-58ZK  39 6 cm  15 6 Zoll Full-HD matt  Multimedia Laptop  Intel Core i5-10210U  8 GB RAM  1.000 GB PCIe SSD  Intel UHD  Win 10 Home  schwarz](https://www.amazon.de/dp/B0821YWJPZ/?tag=tolees0ca-21) mit Preis 340.0 EUR (original: 599.0 EUR) 43.24 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Acer Aspire 3  A315-54-58ZK  39 6 cm  15](https://m.media-amazon.com/images/I/41nRQA40pUL._SL400_.jpg)](https://www.amazon.de/dp/B0821YWJPZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0821YWJPZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

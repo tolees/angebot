@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Lego Movie 2 70837 Schimmerndes Glit mit 37.61 % Rabatt'
+title: 'The Lego Movie 2 70837 Schimmerndes Glitzer-Spa  Bauset'
 date: 2020-04-07 21:33:18
 image: 'https://m.media-amazon.com/images/I/51IzEDjhq-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.61'
 average: '41.81425000000001'
 ---
 
-Sie können [The Lego Movie 2 70837 Schimmerndes Glitzer-Spa  Bauset](https://www.amazon.de/dp/B07KQBXKVR/?tag=tolees0ca-21) mit Preis 43.67 EUR (original: 69.99 EUR) 37.61 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![The Lego Movie 2 70837 Schimmerndes Glit](https://m.media-amazon.com/images/I/51IzEDjhq-L._SL400_.jpg)](https://www.amazon.de/dp/B07KQBXKVR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KQBXKVR/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

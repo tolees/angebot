@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.94 % rabat auf Nitecore CU6 Taschenlampe  Schwarz  One '
+title: 'Nitecore CU6 Taschenlampe  Schwarz  One Size'
 date: 2020-03-18 04:51:47
 image: 'https://m.media-amazon.com/images/I/41WqCPp+Q7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.94'
 average: '98.12'
 ---
 
-Es gibt ein [Nitecore CU6 Taschenlampe  Schwarz  One Size](https://www.amazon.de/dp/B00H4NKO70/?tag=tolees0ca-21) mit aktuellem Preis 98.12 EUR (original: 129.0 EUR) 23.94 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Nitecore CU6 Taschenlampe  Schwarz  One ](https://m.media-amazon.com/images/I/41WqCPp+Q7L._SL400_.jpg)](https://www.amazon.de/dp/B00H4NKO70/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00H4NKO70/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

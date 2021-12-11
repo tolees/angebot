@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OUTXE Outdoor Powerbank Solar 10000mAh U mit 42.21 % Rabatt'
+title: 'OUTXE Outdoor Powerbank Solar 10000mAh USB C IP67 Wasserdicht Akkupack Solar Ladegerät mit Taschenlampe'
 date: 2020-03-23 15:23:51
 image: 'https://m.media-amazon.com/images/I/41Liz1qREiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.21'
 average: '17.33'
 ---
 
-Sie können [OUTXE Outdoor Powerbank Solar 10000mAh USB C IP67 Wasserdicht Akkupack Solar Ladegerät mit Taschenlampe](https://www.amazon.de/dp/B07QM7JQZC/?tag=tolees0ca-21) mit Preis 17.33 EUR (original: 29.99 EUR) 42.21 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![OUTXE Outdoor Powerbank Solar 10000mAh U](https://m.media-amazon.com/images/I/41Liz1qREiL._SL400_.jpg)](https://www.amazon.de/dp/B07QM7JQZC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07QM7JQZC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

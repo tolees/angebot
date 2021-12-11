@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SuperZings PSZ4D824IN00 Serie 4 Blaster  mit 48.33 % Rabatt'
+title: 'SuperZings PSZ4D824IN00 Serie 4 Blaster Jet'
 date: 2020-10-03 15:09:10
 image: 'https://m.media-amazon.com/images/I/511gBezRPYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.33'
 average: '3.67875'
 ---
 
-Sie können [SuperZings PSZ4D824IN00 Serie 4 Blaster Jet](https://www.amazon.de/dp/B07WT5MBBF/?tag=tolees0ca-21) mit Preis 2.17 EUR (original: 4.2 EUR) 48.33 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SuperZings PSZ4D824IN00 Serie 4 Blaster ](https://m.media-amazon.com/images/I/511gBezRPYL._SL400_.jpg)](https://www.amazon.de/dp/B07WT5MBBF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07WT5MBBF/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

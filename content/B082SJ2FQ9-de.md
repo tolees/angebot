@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K9CK LED Licht Set für Lego Modell - DIY mit 50.00 % Rabatt'
+title: 'K9CK LED Licht Set für Lego Modell - DIY Leuchtende Bausteine Beleuchtung Kit für Lego Ideas Friends Central Perk - Modell Nicht Enthalten'
 date: 2020-04-07 21:34:21
 image: 'https://m.media-amazon.com/images/I/51lziXF32LL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '27.99'
 ---
 
-Sie können [K9CK LED Licht Set für Lego Modell - DIY Leuchtende Bausteine Beleuchtung Kit für Lego Ideas Friends Central Perk - Modell Nicht Enthalten](https://www.amazon.de/dp/B082SJ2FQ9/?tag=tolees0ca-21) mit Preis 27.99 EUR (original: 55.98 EUR) 50.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![K9CK LED Licht Set für Lego Modell - DIY](https://m.media-amazon.com/images/I/51lziXF32LL._SL400_.jpg)](https://www.amazon.de/dp/B082SJ2FQ9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B082SJ2FQ9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

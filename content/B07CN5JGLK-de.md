@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GEDORE red Steckschlüsselsatz  94-teilig mit 24.35 % Rabatt'
+title: 'GEDORE red Steckschlüsselsatz  94-teilig  Mit Umschaltknarren  Ratschen  Steckschlüssel und Bitsatz'
 date: 2020-03-15 04:43:34
 image: 'https://m.media-amazon.com/images/I/51Zr1oLIN2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.35'
 average: '60.0'
 ---
 
-Sie können [GEDORE red Steckschlüsselsatz  94-teilig  Mit Umschaltknarren  Ratschen  Steckschlüssel und Bitsatz](https://www.amazon.de/dp/B07CN5JGLK/?tag=tolees0ca-21) mit Preis 60.0 EUR (original: 79.31 EUR) 24.35 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GEDORE red Steckschlüsselsatz  94-teilig](https://m.media-amazon.com/images/I/51Zr1oLIN2L._SL400_.jpg)](https://www.amazon.de/dp/B07CN5JGLK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07CN5JGLK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

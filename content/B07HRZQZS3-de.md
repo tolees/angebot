@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nokia 7.1  2018  32GB Blau Dual-SIM Andr mit 43.56 % Rabatt'
+title: 'Nokia 7.1  2018  32GB Blau Dual-SIM Android 8 Smartphone mit Zeiss-Kamera'
 date: 2020-03-24 17:28:22
 image: 'https://m.media-amazon.com/images/I/41YxQz8A0HL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.56'
 average: '117.96'
 ---
 
-Sie können [Nokia 7.1  2018  32GB Blau Dual-SIM Android 8 Smartphone mit Zeiss-Kamera](https://www.amazon.de/dp/B07HRZQZS3/?tag=tolees0ca-21) mit Preis 117.96 EUR (original: 209.0 EUR) 43.56 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Nokia 7.1  2018  32GB Blau Dual-SIM Andr](https://m.media-amazon.com/images/I/41YxQz8A0HL._SL400_.jpg)](https://www.amazon.de/dp/B07HRZQZS3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HRZQZS3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

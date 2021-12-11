@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Man lernt nie aus [Blu-ray] mit 43.15 % Rabatt'
+title: 'Man lernt nie aus [Blu-ray]'
 date: 2020-09-18 10:58:56
 image: 'https://m.media-amazon.com/images/I/51lwbnN-G2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.15'
 average: '4.98'
 ---
 
-Sie können [Man lernt nie aus [Blu-ray]](https://www.amazon.de/dp/B015CY5GRK/?tag=tolees0ca-21) mit Preis 4.98 EUR (original: 8.76 EUR) 43.15 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Man lernt nie aus [Blu-ray]](https://m.media-amazon.com/images/I/51lwbnN-G2L._SL400_.jpg)](https://www.amazon.de/dp/B015CY5GRK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B015CY5GRK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvel s Agents of S.H.I.E.L.D. - Die ko mit 23.06 % Rabatt'
+title: 'Marvel s Agents of S.H.I.E.L.D. - Die komplette erste Staffel [6 DVDs]'
 date: 2020-09-12 16:34:44
 image: 'https://m.media-amazon.com/images/I/51cx83jVqkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.06'
 average: '8.04'
 ---
 
-Sie können [Marvel s Agents of S.H.I.E.L.D. - Die komplette erste Staffel [6 DVDs]](https://www.amazon.de/dp/B00SU7GZVS/?tag=tolees0ca-21) mit Preis 8.04 EUR (original: 10.45 EUR) 23.06 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Marvel s Agents of S.H.I.E.L.D. - Die ko](https://m.media-amazon.com/images/I/51cx83jVqkL._SL400_.jpg)](https://www.amazon.de/dp/B00SU7GZVS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00SU7GZVS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

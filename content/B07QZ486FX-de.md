@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.61 % rabat auf HUAWEI Y5 2019 Dual SIM Smartphone  14  '
+title: 'HUAWEI Y5 2019 Dual SIM Smartphone  14  5 cm  5  71 Zoll   16GB ROM  2GB RAM  13MP Hauptkamera  5MP Frontkamera  Android 9.0  EMUI 9.0  Midnight Black'
 date: 2020-02-17 05:05:35
 image: 'https://m.media-amazon.com/images/I/41PRKR8w8JL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.61'
 average: '79.0'
 ---
 
-Es gibt ein [HUAWEI Y5 2019 Dual SIM Smartphone  14  5 cm  5  71 Zoll   16GB ROM  2GB RAM  13MP Hauptkamera  5MP Frontkamera  Android 9.0  EMUI 9.0  Midnight Black](https://www.amazon.de/dp/B07QZ486FX/?tag=tolees0ca-21) mit aktuellem Preis 79.0 EUR (original: 119.0 EUR) 33.61 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HUAWEI Y5 2019 Dual SIM Smartphone  14  ](https://m.media-amazon.com/images/I/41PRKR8w8JL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07QZ486FX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QZ486FX/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

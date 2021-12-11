@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.64 % rabat auf LEGO 71714 NINJAGO Avatar Kai – Tragbare'
+title: 'LEGO 71714 NINJAGO Avatar Kai – Tragbare Arcade Kapsel  Ninja-Spielzeug für Kinder'
 date: 2020-09-14 12:22:05
 image: 'https://m.media-amazon.com/images/I/51rU+mUO6CL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.64'
 average: '7.298'
 ---
 
-Es gibt ein [LEGO 71714 NINJAGO Avatar Kai – Tragbare Arcade Kapsel  Ninja-Spielzeug für Kinder](https://www.amazon.de/dp/B07W8XYZ2W/?tag=tolees0ca-21) mit aktuellem Preis 6.95 EUR (original: 9.74 EUR) 28.64 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO 71714 NINJAGO Avatar Kai – Tragbare](https://m.media-amazon.com/images/I/51rU+mUO6CL._SL400_.jpg)](https://www.amazon.de/dp/B07W8XYZ2W/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07W8XYZ2W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

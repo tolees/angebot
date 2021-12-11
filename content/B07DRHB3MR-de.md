@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jabra Elite Active 65t True Wireless Blu mit 37.37 % Rabatt'
+title: 'Jabra Elite Active 65t True Wireless Bluetooth Sport Kopfhörer  Musik und telefonieren  bis zu 15 Std. Akkulaufzeit mit Ladecase  Sprachsteuerung für Alexa  Siri  Google Assistant  titanium schwarz'
 date: 2020-02-25 08:37:35
 image: 'https://m.media-amazon.com/images/I/41yJ+ELrPgL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.37'
 average: '120.91333333333334'
 ---
 
-Sie können [Jabra Elite Active 65t True Wireless Bluetooth Sport Kopfhörer  Musik und telefonieren  bis zu 15 Std. Akkulaufzeit mit Ladecase  Sprachsteuerung für Alexa  Siri  Google Assistant  titanium schwarz](https://www.amazon.de/dp/B07DRHB3MR/?tag=tolees0ca-21) mit Preis 119.0 EUR (original: 189.99 EUR) 37.37 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Jabra Elite Active 65t True Wireless Blu](https://m.media-amazon.com/images/I/41yJ+ELrPgL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07DRHB3MR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DRHB3MR/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

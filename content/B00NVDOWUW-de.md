@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.68 % rabat auf LEGO Classic 10692 - Bausteine-Set  Spie'
+title: 'LEGO Classic 10692 - Bausteine-Set  Spielzeug mit Lerncharakter'
 date: 2020-04-09 07:38:41
 image: 'https://m.media-amazon.com/images/I/51Aq01LL9iL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.68'
 average: '10.99'
 ---
 
-Es gibt ein [LEGO Classic 10692 - Bausteine-Set  Spielzeug mit Lerncharakter](https://www.amazon.de/dp/B00NVDOWUW/?tag=tolees0ca-21) mit aktuellem Preis 10.99 EUR (original: 14.99 EUR) 26.68 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Classic 10692 - Bausteine-Set  Spie](https://m.media-amazon.com/images/I/51Aq01LL9iL._SL400_.jpg)](https://www.amazon.de/dp/B00NVDOWUW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NVDOWUW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.55 % rabat auf Syoss Colorist Tools Serum  2er Pack  2 '
+title: 'Syoss Colorist Tools Serum  2er Pack  2 x 30 ml '
 date: 2020-04-11 08:11:58
 image: 'https://m.media-amazon.com/images/I/411F8eFkCFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.55'
 average: '3.4'
 ---
 
-Es gibt ein [Syoss Colorist Tools Serum  2er Pack  2 x 30 ml ](https://www.amazon.de/dp/B07B4KPZHW/?tag=tolees0ca-21) mit aktuellem Preis 3.4 EUR (original: 4.39 EUR) 22.55 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Syoss Colorist Tools Serum  2er Pack  2 ](https://m.media-amazon.com/images/I/411F8eFkCFL._SL400_.jpg)](https://www.amazon.de/dp/B07B4KPZHW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07B4KPZHW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.33 % rabat auf Garmin Instinct – wasserdichte Sport-Sma'
+title: 'Garmin Instinct – wasserdichte Sport-Smartwatch mit Smartphone Benachrichtigungen und Sport-/Fitnessfunktionen mit GPS  14 Tage Akkulaufzeit  Gelb'
 date: 2020-02-21 04:46:41
 image: 'https://m.media-amazon.com/images/I/51ua1R+FlfL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.33'
 average: '188.0'
 ---
 
-Es gibt ein [Garmin Instinct – wasserdichte Sport-Smartwatch mit Smartphone Benachrichtigungen und Sport-/Fitnessfunktionen mit GPS  14 Tage Akkulaufzeit  Gelb](https://www.amazon.de/dp/B07PRPJYR2/?tag=tolees0ca-21) mit aktuellem Preis 188.0 EUR (original: 299.99 EUR) 37.33 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Garmin Instinct – wasserdichte Sport-Sma](https://m.media-amazon.com/images/I/51ua1R+FlfL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PRPJYR2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PRPJYR2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

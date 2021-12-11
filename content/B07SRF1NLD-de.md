@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wer Sagt Denn Das? mit 45.31 % Rabatt'
+title: 'Wer Sagt Denn Das?'
 date: 2020-09-21 15:26:55
 image: 'https://m.media-amazon.com/images/I/31lSA1WlTvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.31'
 average: '7.99'
 ---
 
-Sie können [Wer Sagt Denn Das?](https://www.amazon.de/dp/B07SRF1NLD/?tag=tolees0ca-21) mit Preis 7.99 EUR (original: 14.61 EUR) 45.31 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Wer Sagt Denn Das?](https://m.media-amazon.com/images/I/31lSA1WlTvL._SL400_.jpg)](https://www.amazon.de/dp/B07SRF1NLD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07SRF1NLD/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

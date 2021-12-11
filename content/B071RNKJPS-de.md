@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop! TV: Game of Thrones - Das Lie mit 38.49 % Rabatt'
+title: 'Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Tyrion Lannister Vinyl Figur'
 date: 2020-04-18 00:05:32
 image: 'https://m.media-amazon.com/images/I/41TLzp6Of+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.49'
 average: '12.029473684210526'
 ---
 
-Sie können [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Tyrion Lannister Vinyl Figur](https://www.amazon.de/dp/B071RNKJPS/?tag=tolees0ca-21) mit Preis 9.78 EUR (original: 15.9 EUR) 38.49 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko Pop! TV: Game of Thrones - Das Lie](https://m.media-amazon.com/images/I/41TLzp6Of+L._SL400_.jpg)](https://www.amazon.de/dp/B071RNKJPS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B071RNKJPS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.03 % rabat auf Sony KD-65XG7005 Bravia 65 Zoll  164cm  '
+title: 'Sony KD-65XG7005 Bravia 65 Zoll  164cm  Fernseher  Ultra HD  4K HDR  Smart TV  USB HDD Recording  schwarz'
 date: 2020-09-30 02:57:56
 image: 'https://m.media-amazon.com/images/I/415iBq11wUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.03'
 average: '701.1684615384615'
 ---
 
-Es gibt ein [Sony KD-65XG7005 Bravia 65 Zoll  164cm  Fernseher  Ultra HD  4K HDR  Smart TV  USB HDD Recording  schwarz](https://www.amazon.de/dp/B07P8NNNBH/?tag=tolees0ca-21) mit aktuellem Preis 719.0 EUR (original: 1199.0 EUR) 40.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony KD-65XG7005 Bravia 65 Zoll  164cm  ](https://m.media-amazon.com/images/I/415iBq11wUL._SL400_.jpg)](https://www.amazon.de/dp/B07P8NNNBH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07P8NNNBH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

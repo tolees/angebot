@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.06 % rabat auf Villeroy & Boch Toy s Delight Mittelgroß'
+title: 'Villeroy & Boch Toy s Delight Mittelgroße Vorratsdose  Premium Porzellan  Weiß/Rot'
 date: 2020-04-11 16:28:58
 image: 'https://m.media-amazon.com/images/I/316OItAT2zL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.06'
 average: '31.445'
 ---
 
-Es gibt ein [Villeroy & Boch Toy s Delight Mittelgroße Vorratsdose  Premium Porzellan  Weiß/Rot](https://www.amazon.de/dp/B00ZFXM2VC/?tag=tolees0ca-21) mit aktuellem Preis 34.9 EUR (original: 49.9 EUR) 30.06 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Villeroy & Boch Toy s Delight Mittelgroß](https://m.media-amazon.com/images/I/316OItAT2zL._SL400_.jpg)](https://www.amazon.de/dp/B00ZFXM2VC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ZFXM2VC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

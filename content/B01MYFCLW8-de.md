@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.19 % rabat auf Bones - Season Eleven [6 DVDs]'
+title: 'Bones - Season Eleven [6 DVDs]'
 date: 2020-03-05 04:45:49
 image: 'https://m.media-amazon.com/images/I/51pb3l-3fRL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.19'
 average: '9.97'
 ---
 
-Es gibt ein [Bones - Season Eleven [6 DVDs]](https://www.amazon.de/dp/B01MYFCLW8/?tag=tolees0ca-21) mit aktuellem Preis 9.97 EUR (original: 12.98 EUR) 23.19 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bones - Season Eleven [6 DVDs]](https://m.media-amazon.com/images/I/51pb3l-3fRL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01MYFCLW8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MYFCLW8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

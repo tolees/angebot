@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.03 % rabat auf LEGO DUPLO 10898 - Meine erste Micky Mau'
+title: 'LEGO DUPLO 10898 - Meine erste Micky Maus'
 date: 2020-09-29 12:11:59
 image: 'https://m.media-amazon.com/images/I/513jph9bQkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.03'
 average: '8.655'
 ---
 
-Es gibt ein [LEGO DUPLO 10898 - Meine erste Micky Maus](https://www.amazon.de/dp/B07FP6QRDK/?tag=tolees0ca-21) mit aktuellem Preis 6.99 EUR (original: 9.99 EUR) 30.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO DUPLO 10898 - Meine erste Micky Mau](https://m.media-amazon.com/images/I/513jph9bQkL._SL400_.jpg)](https://www.amazon.de/dp/B07FP6QRDK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP6QRDK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

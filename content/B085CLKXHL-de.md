@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Sportsocken Crew 18 Paar Pack State mit 43.70 % Rabatt'
+title: 'PUMA Sportsocken Crew 18 Paar Pack Statement Edition - Damen und Herren - grey-white-black - Gr. 39-42'
 date: 2020-03-16 14:30:34
 image: 'https://m.media-amazon.com/images/I/41fIhIQZDwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.70'
 average: '26.99'
 ---
 
-Sie können [PUMA Sportsocken Crew 18 Paar Pack Statement Edition - Damen und Herren - grey-white-black - Gr. 39-42](https://www.amazon.de/dp/B085CLKXHL/?tag=tolees0ca-21) mit Preis 26.99 EUR (original: 47.94 EUR) 43.70 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PUMA Sportsocken Crew 18 Paar Pack State](https://m.media-amazon.com/images/I/41fIhIQZDwL._SL400_.jpg)](https://www.amazon.de/dp/B085CLKXHL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B085CLKXHL/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

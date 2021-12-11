@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickie Toys RC Monster Flippy  RTR  Spie mit 33.34 % Rabatt'
+title: 'Dickie Toys RC Monster Flippy  RTR  Spielzeugauto mit Funkfernsteuerung  Rotations- und Flipfunktion  mit Licht  Hochleistungsgummireifen  Geschwindigkeit bis zu 10 km/h  ab 6 Jahren'
 date: 2020-04-09 15:53:25
 image: 'https://m.media-amazon.com/images/I/41YAH-fAO+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '39.99'
 ---
 
-Sie können [Dickie Toys RC Monster Flippy  RTR  Spielzeugauto mit Funkfernsteuerung  Rotations- und Flipfunktion  mit Licht  Hochleistungsgummireifen  Geschwindigkeit bis zu 10 km/h  ab 6 Jahren](https://www.amazon.de/dp/B06XCKXFB5/?tag=tolees0ca-21) mit Preis 39.99 EUR (original: 59.99 EUR) 33.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dickie Toys RC Monster Flippy  RTR  Spie](https://m.media-amazon.com/images/I/41YAH-fAO+L._SL400_.jpg)](https://www.amazon.de/dp/B06XCKXFB5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B06XCKXFB5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

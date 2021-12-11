@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Withings Steel HR Sport - Multisport Hyb mit 24.99 % Rabatt'
+title: 'Withings Steel HR Sport - Multisport Hybrid Smartwatch'
 date: 2020-04-08 12:17:29
 image: 'https://m.media-amazon.com/images/I/41RI1moWdKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.99'
 average: '149.99'
 ---
 
-Sie können [Withings Steel HR Sport - Multisport Hybrid Smartwatch](https://www.amazon.de/dp/B07GXW5DHV/?tag=tolees0ca-21) mit Preis 149.99 EUR (original: 199.95 EUR) 24.99 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Withings Steel HR Sport - Multisport Hyb](https://m.media-amazon.com/images/I/41RI1moWdKL._SL400_.jpg)](https://www.amazon.de/dp/B07GXW5DHV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07GXW5DHV/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

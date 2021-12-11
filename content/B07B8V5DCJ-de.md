@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JBL GO 2 kleine Musikbox - Wasserfester  mit 26.97 % Rabatt'
+title: 'JBL GO 2 kleine Musikbox - Wasserfester  portabler Bluetooth-Lautsprecher mit Freisprechfunktion - Bis zu 5 Stunden Musikgenuss mit nur einer Akku-Ladung Mint'
 date: 2020-02-10 10:00:33
 image: 'https://m.media-amazon.com/images/I/616Dp3nQstL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.97'
 average: '18.98'
 ---
 
-Sie können [JBL GO 2 kleine Musikbox - Wasserfester  portabler Bluetooth-Lautsprecher mit Freisprechfunktion - Bis zu 5 Stunden Musikgenuss mit nur einer Akku-Ladung Mint](https://www.amazon.de/dp/B07B8V5DCJ/?tag=tolees0ca-21) mit Preis 18.98 EUR (original: 25.99 EUR) 26.97 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![JBL GO 2 kleine Musikbox - Wasserfester ](https://m.media-amazon.com/images/I/616Dp3nQstL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07B8V5DCJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07B8V5DCJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Withings Steel HR Hybrid Smartwatch - Fi mit 31.57 % Rabatt'
+title: 'Withings Steel HR Hybrid Smartwatch - Fitnessuhr mit Herzfrequenz und Aktivitätsmessung  36mm - Weißes  Schwarz Silikonarmband'
 date: 2020-04-08 12:19:06
 image: 'https://m.media-amazon.com/images/I/31JFCBZQCjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.57'
 average: '154.49'
 ---
 
-Sie können [Withings Steel HR Hybrid Smartwatch - Fitnessuhr mit Herzfrequenz und Aktivitätsmessung  36mm - Weißes  Schwarz Silikonarmband](https://www.amazon.de/dp/B0711LKZKX/?tag=tolees0ca-21) mit Preis 129.99 EUR (original: 189.95 EUR) 31.57 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Withings Steel HR Hybrid Smartwatch - Fi](https://m.media-amazon.com/images/I/31JFCBZQCjL._SL400_.jpg)](https://www.amazon.de/dp/B0711LKZKX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0711LKZKX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.80 % rabat auf Funko POP! Bobble: Avengers Endgame: Neb'
+title: 'Funko POP! Bobble: Avengers Endgame: Nebula  Multi'
 date: 2020-10-03 15:47:35
 image: 'https://m.media-amazon.com/images/I/41AiwNzz9cL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.80'
 average: '8.98'
 ---
 
-Es gibt ein [Funko POP! Bobble: Avengers Endgame: Nebula  Multi](https://www.amazon.de/dp/B07KPK63Y8/?tag=tolees0ca-21) mit aktuellem Preis 8.69 EUR (original: 13.97 EUR) 37.80 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko POP! Bobble: Avengers Endgame: Neb](https://m.media-amazon.com/images/I/41AiwNzz9cL._SL400_.jpg)](https://www.amazon.de/dp/B07KPK63Y8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPK63Y8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

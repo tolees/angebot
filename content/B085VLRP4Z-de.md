@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.38 % rabat auf Gowind6 Video-Kabel für SNES Nintendo 64'
+title: 'Gowind6 Video-Kabel für SNES Nintendo 64 N64  1 8 m '
 date: 2020-04-15 00:18:35
 image: 'https://m.media-amazon.com/images/I/41nqdbq2aZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.38'
 average: '5.05'
 ---
 
-Es gibt ein [Gowind6 Video-Kabel für SNES Nintendo 64 N64  1 8 m ](https://www.amazon.de/dp/B085VLRP4Z/?tag=tolees0ca-21) mit aktuellem Preis 5.05 EUR (original: 7.58 EUR) 33.38 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gowind6 Video-Kabel für SNES Nintendo 64](https://m.media-amazon.com/images/I/41nqdbq2aZL._SL400_.jpg)](https://www.amazon.de/dp/B085VLRP4Z/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B085VLRP4Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

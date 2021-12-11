@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Finish Line Schmiermittel Keramik Ketten mit 37.81 % Rabatt'
+title: 'Finish Line Schmiermittel Keramik Kettenöl 120 ml  4002055'
 date: 2020-09-25 22:02:12
 image: 'https://m.media-amazon.com/images/I/314mnTwiW5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.81'
 average: '6.81'
 ---
 
-Sie können [Finish Line Schmiermittel Keramik Kettenöl 120 ml  4002055](https://www.amazon.de/dp/B001XRXZFG/?tag=tolees0ca-21) mit Preis 6.81 EUR (original: 10.95 EUR) 37.81 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Finish Line Schmiermittel Keramik Ketten](https://m.media-amazon.com/images/I/314mnTwiW5L._SL400_.jpg)](https://www.amazon.de/dp/B001XRXZFG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B001XRXZFG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

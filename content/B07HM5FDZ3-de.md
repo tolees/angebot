@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Legacy Vinyl Box Set [Vinyl LP] mit 16.93 % Rabatt'
+title: 'Legacy Vinyl Box Set [Vinyl LP]'
 date: 2020-03-23 05:07:51
 image: 'https://m.media-amazon.com/images/I/41ysiN5k1eL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.93'
 average: '134.26'
 ---
 
-Sie können [Legacy Vinyl Box Set [Vinyl LP]](https://www.amazon.de/dp/B07HM5FDZ3/?tag=tolees0ca-21) mit Preis 134.26 EUR (original: 161.63 EUR) 16.93 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Legacy Vinyl Box Set [Vinyl LP]](https://m.media-amazon.com/images/I/41ysiN5k1eL._SL400_.jpg)](https://www.amazon.de/dp/B07HM5FDZ3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HM5FDZ3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

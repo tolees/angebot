@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 30633 Actionfigur Marvel Unmasked  mit 16.65 % Rabatt'
+title: 'Funko 30633 Actionfigur Marvel Unmasked Spider-Man  Multi  Standard'
 date: 2020-04-16 17:21:31
 image: 'https://m.media-amazon.com/images/I/41wqgjVB00L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.65'
 average: '10.868888888888888'
 ---
 
-Sie können [Funko 30633 Actionfigur Marvel Unmasked Spider-Man  Multi  Standard](https://www.amazon.de/dp/B079YMPPCZ/?tag=tolees0ca-21) mit Preis 11.66 EUR (original: 13.99 EUR) 16.65 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 30633 Actionfigur Marvel Unmasked ](https://m.media-amazon.com/images/I/41wqgjVB00L._SL400_.jpg)](https://www.amazon.de/dp/B079YMPPCZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079YMPPCZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

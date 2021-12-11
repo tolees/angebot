@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naruto Naruto Vinyl Figure 71 Sammelfigu mit 42.82 % Rabatt'
+title: 'Naruto Naruto Vinyl Figure 71 Sammelfigur Standard'
 date: 2020-03-08 18:29:59
 image: 'https://m.media-amazon.com/images/I/415TuRoC1mL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.82'
 average: '8.0'
 ---
 
-Sie können [Naruto Naruto Vinyl Figure 71 Sammelfigur Standard](https://www.amazon.de/dp/B0198KU5KM/?tag=tolees0ca-21) mit Preis 8.0 EUR (original: 13.99 EUR) 42.82 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Naruto Naruto Vinyl Figure 71 Sammelfigu](https://m.media-amazon.com/images/I/415TuRoC1mL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0198KU5KM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0198KU5KM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

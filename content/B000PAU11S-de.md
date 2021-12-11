@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Die Rotkäppchen-Verschwörung mit 85.89 % Rabatt'
+title: 'Die Rotkäppchen-Verschwörung'
 date: 2020-04-16 17:31:27
 image: 'https://m.media-amazon.com/images/I/518MMgcAMuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '85.89'
 average: '2.68'
 ---
 
-Sie können [Die Rotkäppchen-Verschwörung](https://www.amazon.de/dp/B000PAU11S/?tag=tolees0ca-21) mit Preis 2.68 EUR (original: 18.99 EUR) 85.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Die Rotkäppchen-Verschwörung](https://m.media-amazon.com/images/I/518MMgcAMuL._SL400_.jpg)](https://www.amazon.de/dp/B000PAU11S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B000PAU11S/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beurer PO 40 Pulsoximeter  Ermittlung de mit 42.94 % Rabatt'
+title: 'Beurer PO 40 Pulsoximeter  Ermittlung der arteriellen Sauerstoffsättigung im Blut'
 date: 2020-08-04 15:11:27
 image: 'https://m.media-amazon.com/images/I/41mQpU3-5UL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.94'
 average: '46.78'
 ---
 
-Sie können [Beurer PO 40 Pulsoximeter  Ermittlung der arteriellen Sauerstoffsättigung im Blut](https://www.amazon.de/dp/B013JRKRSU/?tag=tolees0ca-21) mit Preis 46.78 EUR (original: 81.99 EUR) 42.94 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Beurer PO 40 Pulsoximeter  Ermittlung de](https://m.media-amazon.com/images/I/41mQpU3-5UL._SL400_.jpg)](https://www.amazon.de/dp/B013JRKRSU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B013JRKRSU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

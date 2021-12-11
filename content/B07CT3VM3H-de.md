@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Echo Plus  2. Gen.   mit Premiumklang un mit 33.34 % Rabatt'
+title: 'Echo Plus  2. Gen.   mit Premiumklang und integriertem Smart Home-Hub  Hellgrau Stoff'
 date: 2020-05-26 09:14:14
 image: 'https://m.media-amazon.com/images/I/51W6OKsYVlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '99.99'
 ---
 
-Sie können [Echo Plus  2. Gen.   mit Premiumklang und integriertem Smart Home-Hub  Hellgrau Stoff](https://www.amazon.de/dp/B07CT3VM3H/?tag=tolees0ca-21) mit Preis 99.99 EUR (original: 149.99 EUR) 33.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Echo Plus  2. Gen.   mit Premiumklang un](https://m.media-amazon.com/images/I/51W6OKsYVlL._SL400_.jpg)](https://www.amazon.de/dp/B07CT3VM3H/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07CT3VM3H/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

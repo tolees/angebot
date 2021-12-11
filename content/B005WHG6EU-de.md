@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.29 % rabat auf DeWalt Paneelsäge 1675W DWS780 inkl. Zub'
+title: 'DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30 mm HM-Sägeblatt ideal für den Innenausbau - Hohe Schnittkapazität & LED Schnittlinien Anzeige'
 date: 2020-01-01 13:29:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51j5fOeBgtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.29'
 average: '699.46'
 ---
 
-Es gibt ein [DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30 mm HM-Sägeblatt ideal für den Innenausbau - Hohe Schnittkapazität & LED Schnittlinien Anzeige](https://www.amazon.de/dp/B005WHG6EU/?tag=tolees0ca-21) mit aktuellem Preis 699.46 EUR (original: 1255.45 EUR) 44.29 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![DeWalt Paneelsäge 1675W DWS780 inkl. Zub](https://images-eu.ssl-images-amazon.com/images/I/51j5fOeBgtL._SL400_.jpg)](https://www.amazon.de/dp/B005WHG6EU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B005WHG6EU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

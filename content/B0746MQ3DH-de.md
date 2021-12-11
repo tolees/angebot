@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pegasus Spiele 18324G - Memoarrr  Editio mit 16.68 % Rabatt'
+title: 'Pegasus Spiele 18324G - Memoarrr  Edition Spielwiese '
 date: 2020-04-07 21:48:35
 image: 'https://m.media-amazon.com/images/I/51hOqcv3kZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.68'
 average: '8.29'
 ---
 
-Sie können [Pegasus Spiele 18324G - Memoarrr  Edition Spielwiese ](https://www.amazon.de/dp/B0746MQ3DH/?tag=tolees0ca-21) mit Preis 8.29 EUR (original: 9.95 EUR) 16.68 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Pegasus Spiele 18324G - Memoarrr  Editio](https://m.media-amazon.com/images/I/51hOqcv3kZL._SL400_.jpg)](https://www.amazon.de/dp/B0746MQ3DH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0746MQ3DH/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

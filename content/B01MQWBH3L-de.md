@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SHEKO Diät Shake Vanille | 25 Portionen  mit 20.00 % Rabatt'
+title: 'SHEKO Diät Shake Vanille | 25 Portionen Protein Pulver Vanille | Diät Shakes zum Abnehmen | Leckerer Mahlzeitenersatz Shake Abnehmen Männer'
 date: 2020-08-19 06:00:41
 image: 'https://m.media-amazon.com/images/I/318bTXuKHlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.00'
 average: '23.96'
 ---
 
-Sie können [SHEKO Diät Shake Vanille | 25 Portionen Protein Pulver Vanille | Diät Shakes zum Abnehmen | Leckerer Mahlzeitenersatz Shake Abnehmen Männer](https://www.amazon.de/dp/B01MQWBH3L/?tag=tolees0ca-21) mit Preis 23.96 EUR (original: 29.95 EUR) 20.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SHEKO Diät Shake Vanille | 25 Portionen ](https://m.media-amazon.com/images/I/318bTXuKHlL._SL400_.jpg)](https://www.amazon.de/dp/B01MQWBH3L/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01MQWBH3L/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

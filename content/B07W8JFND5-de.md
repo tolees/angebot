@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AMIGO Spiel + Freizeit 1951 6 Nimmt Bret mit 25.25 % Rabatt'
+title: 'AMIGO Spiel + Freizeit 1951 6 Nimmt Brettspiel'
 date: 2020-02-02 23:15:57
 image: 'https://m.media-amazon.com/images/I/51NKpn4IG8L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.25'
 average: '18.68'
 ---
 
-Sie können [AMIGO Spiel + Freizeit 1951 6 Nimmt Brettspiel](https://www.amazon.de/dp/B07W8JFND5/?tag=tolees0ca-21) mit Preis 18.68 EUR (original: 24.99 EUR) 25.25 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![AMIGO Spiel + Freizeit 1951 6 Nimmt Bret](https://m.media-amazon.com/images/I/51NKpn4IG8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07W8JFND5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07W8JFND5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

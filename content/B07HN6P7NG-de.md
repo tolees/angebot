@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ballon [Blu-ray] mit 32.15 % Rabatt'
+title: 'Ballon [Blu-ray]'
 date: 2020-09-23 20:04:22
 image: 'https://m.media-amazon.com/images/I/51MZdvxKLsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.15'
 average: '6.33'
 ---
 
-Sie können [Ballon [Blu-ray]](https://www.amazon.de/dp/B07HN6P7NG/?tag=tolees0ca-21) mit Preis 6.33 EUR (original: 9.33 EUR) 32.15 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ballon [Blu-ray]](https://m.media-amazon.com/images/I/51MZdvxKLsL._SL400_.jpg)](https://www.amazon.de/dp/B07HN6P7NG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HN6P7NG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

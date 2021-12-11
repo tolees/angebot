@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '49.97 % rabat auf PLAYMOBIL Magic 9472 Prachtvoller Phönix'
+title: 'PLAYMOBIL Magic 9472 Prachtvoller Phönix mit Schmucksteckern  Ab 4 Jahren'
 date: 2020-04-02 04:58:19
 image: 'https://m.media-amazon.com/images/I/5172IuxssYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.97'
 average: '9.556818181818182'
 ---
 
-Es gibt ein [PLAYMOBIL Magic 9472 Prachtvoller Phönix mit Schmucksteckern  Ab 4 Jahren](https://www.amazon.de/dp/B079MLJP48/?tag=tolees0ca-21) mit aktuellem Preis 9.0 EUR (original: 17.99 EUR) 49.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PLAYMOBIL Magic 9472 Prachtvoller Phönix](https://m.media-amazon.com/images/I/5172IuxssYL._SL400_.jpg)](https://www.amazon.de/dp/B079MLJP48/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B079MLJP48/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

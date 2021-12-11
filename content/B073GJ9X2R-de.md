@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.03 % rabat auf ALTRAD-FORT FO37990 Universal-Schubkarre'
+title: 'ALTRAD-FORT FO37990 Universal-Schubkarre 90 L Boxer-90 kartonverpackt'
 date: 2020-09-16 13:21:02
 image: 'https://m.media-amazon.com/images/I/41qas3932QL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.03'
 average: '62.9'
 ---
 
-Es gibt ein [ALTRAD-FORT FO37990 Universal-Schubkarre 90 L Boxer-90 kartonverpackt](https://www.amazon.de/dp/B073GJ9X2R/?tag=tolees0ca-21) mit aktuellem Preis 62.9 EUR (original: 76.74 EUR) 18.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ALTRAD-FORT FO37990 Universal-Schubkarre](https://m.media-amazon.com/images/I/41qas3932QL._SL400_.jpg)](https://www.amazon.de/dp/B073GJ9X2R/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B073GJ9X2R/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

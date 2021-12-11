@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.31 % rabat auf V-MODA Crossfade M-100 Over-Ear Kopfhöre'
+title: 'V-MODA Crossfade M-100 Over-Ear Kopfhörer - Weiß Silber'
 date: 2020-03-03 15:41:31
 image: 'https://m.media-amazon.com/images/I/41brL3ZOUvL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.31'
 average: '130.22'
 ---
 
-Es gibt ein [V-MODA Crossfade M-100 Over-Ear Kopfhörer - Weiß Silber](https://www.amazon.de/dp/B00A39PPI0/?tag=tolees0ca-21) mit aktuellem Preis 130.22 EUR (original: 161.38 EUR) 19.31 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![V-MODA Crossfade M-100 Over-Ear Kopfhöre](https://m.media-amazon.com/images/I/41brL3ZOUvL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00A39PPI0/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00A39PPI0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

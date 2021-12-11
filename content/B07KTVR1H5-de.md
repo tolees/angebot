@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City 60232 - Große Werkstatt mit 17.50 % Rabatt'
+title: 'LEGO City 60232 - Große Werkstatt'
 date: 2020-09-21 11:45:51
 image: 'https://m.media-amazon.com/images/I/519El592JDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.50'
 average: '29.42619047619047'
 ---
 
-Sie können [LEGO City 60232 - Große Werkstatt](https://www.amazon.de/dp/B07KTVR1H5/?tag=tolees0ca-21) mit Preis 32.16 EUR (original: 38.98 EUR) 17.50 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO City 60232 - Große Werkstatt](https://m.media-amazon.com/images/I/519El592JDL._SL400_.jpg)](https://www.amazon.de/dp/B07KTVR1H5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KTVR1H5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

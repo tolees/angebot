@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SUUNTO 3 Fitness all black mit 58.52 % Rabatt'
+title: 'SUUNTO 3 Fitness all black'
 date: 2020-03-12 09:55:00
 image: 'https://m.media-amazon.com/images/I/31HGfezgBhL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.52'
 average: '94.99'
 ---
 
-Sie können [SUUNTO 3 Fitness all black](https://www.amazon.de/dp/B07BDRNSB5/?tag=tolees0ca-21) mit Preis 94.99 EUR (original: 229.0 EUR) 58.52 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SUUNTO 3 Fitness all black](https://m.media-amazon.com/images/I/31HGfezgBhL._SL400_.jpg)](https://www.amazon.de/dp/B07BDRNSB5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07BDRNSB5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

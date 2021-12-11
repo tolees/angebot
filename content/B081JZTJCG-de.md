@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compo Bi 58 N gegen saugende und beißend mit 37.34 % Rabatt'
+title: 'Compo Bi 58 N gegen saugende und beißende Insekten an Zierpflanzen  Gemüse und Erdbeeren  Konzentrat  30 ml'
 date: 2020-09-13 06:59:55
 image: 'https://m.media-amazon.com/images/I/41W5Wnle2IL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.34'
 average: '6.26'
 ---
 
-Sie können [Compo Bi 58 N gegen saugende und beißende Insekten an Zierpflanzen  Gemüse und Erdbeeren  Konzentrat  30 ml](https://www.amazon.de/dp/B081JZTJCG/?tag=tolees0ca-21) mit Preis 6.26 EUR (original: 9.99 EUR) 37.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Compo Bi 58 N gegen saugende und beißend](https://m.media-amazon.com/images/I/41W5Wnle2IL._SL400_.jpg)](https://www.amazon.de/dp/B081JZTJCG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B081JZTJCG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

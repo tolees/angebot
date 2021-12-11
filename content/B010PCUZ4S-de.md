@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.61 % rabat auf Der Unbestechliche - Mörderisches Marsei'
+title: 'Der Unbestechliche - Mörderisches Marseille'
 date: 2020-04-16 17:32:05
 image: 'https://m.media-amazon.com/images/I/51tYP10dK7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.61'
 average: '4.99'
 ---
 
-Es gibt ein [Der Unbestechliche - Mörderisches Marseille](https://www.amazon.de/dp/B010PCUZ4S/?tag=tolees0ca-21) mit aktuellem Preis 4.99 EUR (original: 6.99 EUR) 28.61 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Der Unbestechliche - Mörderisches Marsei](https://m.media-amazon.com/images/I/51tYP10dK7L._SL400_.jpg)](https://www.amazon.de/dp/B010PCUZ4S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B010PCUZ4S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

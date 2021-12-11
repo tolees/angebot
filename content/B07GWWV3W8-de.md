@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.69 % rabat auf DT Swiss Unisex - Erwachsene VR E 1900 S'
+title: 'DT Swiss Unisex - Erwachsene VR E 1900 Spline DB Läufrad  schwarz  1size'
 date: 2020-01-08 15:58:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414mjk6sLLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.69'
 average: '121.37'
 ---
 
-Es gibt ein [DT Swiss Unisex - Erwachsene VR E 1900 Spline DB Läufrad  schwarz  1size](https://www.amazon.de/dp/B07GWWV3W8/?tag=tolees0ca-21) mit aktuellem Preis 121.37 EUR (original: 157 EUR) 22.69 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![DT Swiss Unisex - Erwachsene VR E 1900 S](https://images-eu.ssl-images-amazon.com/images/I/414mjk6sLLL._SL400_.jpg)](https://www.amazon.de/dp/B07GWWV3W8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GWWV3W8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

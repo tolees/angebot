@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '55.96 % rabat auf Kaspersky Internet Security 2020 Standar'
+title: 'Kaspersky Internet Security 2020 Standard | 3 Geräte | 1 Jahr | Windows/Mac/Android | Aktivierungscode in frustfreier Verpackung'
 date: 2020-06-03 14:13:58
 image: 'https://m.media-amazon.com/images/I/41FhaSx214L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.96'
 average: '22.0'
 ---
 
-Es gibt ein [Kaspersky Internet Security 2020 Standard | 3 Geräte | 1 Jahr | Windows/Mac/Android | Aktivierungscode in frustfreier Verpackung](https://www.amazon.de/dp/B07TKNG6JR/?tag=tolees0ca-21) mit aktuellem Preis 22.0 EUR (original: 49.95 EUR) 55.96 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kaspersky Internet Security 2020 Standar](https://m.media-amazon.com/images/I/41FhaSx214L._SL400_.jpg)](https://www.amazon.de/dp/B07TKNG6JR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07TKNG6JR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

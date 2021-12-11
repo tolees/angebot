@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.74 % rabat auf Hasbro Play-Doh B5520EU4 - Dr. Wackelzah'
+title: 'Hasbro Play-Doh B5520EU4 - Dr. Wackelzahn Knete  für fantasievolles und kreatives Spielen'
 date: 2020-04-17 23:52:24
 image: 'https://m.media-amazon.com/images/I/51ff6xkXKNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.74'
 average: '16.424'
 ---
 
-Es gibt ein [Hasbro Play-Doh B5520EU4 - Dr. Wackelzahn Knete  für fantasievolles und kreatives Spielen](https://www.amazon.de/dp/B019YJNT8C/?tag=tolees0ca-21) mit aktuellem Preis 16.33 EUR (original: 21.99 EUR) 25.74 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hasbro Play-Doh B5520EU4 - Dr. Wackelzah](https://m.media-amazon.com/images/I/51ff6xkXKNL._SL400_.jpg)](https://www.amazon.de/dp/B019YJNT8C/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B019YJNT8C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

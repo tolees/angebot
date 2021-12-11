@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch BBZ154HF HEPA Filter mit 78.82 % Rabatt'
+title: 'Bosch BBZ154HF HEPA Filter'
 date: 2020-10-02 09:06:24
 image: 'https://m.media-amazon.com/images/I/313gQ9kWqyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '78.82'
 average: '4.87'
 ---
 
-Sie können [Bosch BBZ154HF HEPA Filter](https://www.amazon.de/dp/B00387EZBM/?tag=tolees0ca-21) mit Preis 4.87 EUR (original: 22.99 EUR) 78.82 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch BBZ154HF HEPA Filter](https://m.media-amazon.com/images/I/313gQ9kWqyL._SL400_.jpg)](https://www.amazon.de/dp/B00387EZBM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00387EZBM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.70 % rabat auf Western Digital WD1003FBYX RE4 1TB inter'
+title: 'Western Digital WD1003FBYX RE4 1TB interne Festplatte  8 9 cm  3 5 Zoll   7200rpm  SATA 3Gb/s  64MB Cache '
 date: 2020-04-24 13:19:52
 image: 'https://m.media-amazon.com/images/I/41l2+NA2yaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.70'
 average: '67.42500000000001'
 ---
 
-Es gibt ein [Western Digital WD1003FBYX RE4 1TB interne Festplatte  8 9 cm  3 5 Zoll   7200rpm  SATA 3Gb/s  64MB Cache ](https://www.amazon.de/dp/B003SANWI6/?tag=tolees0ca-21) mit aktuellem Preis 41.95 EUR (original: 71.95 EUR) 41.70 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Western Digital WD1003FBYX RE4 1TB inter](https://m.media-amazon.com/images/I/41l2+NA2yaL._SL400_.jpg)](https://www.amazon.de/dp/B003SANWI6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B003SANWI6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gillette Fusion5 Rasierklingen für Männe mit 32.51 % Rabatt'
+title: 'Gillette Fusion5 Rasierklingen für Männer  14 Stück'
 date: 2020-03-07 17:08:12
 image: 'https://m.media-amazon.com/images/I/51oLZwcbP4L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.51'
 average: '26.99'
 ---
 
-Sie können [Gillette Fusion5 Rasierklingen für Männer  14 Stück](https://www.amazon.de/dp/B079X5QNXC/?tag=tolees0ca-21) mit Preis 26.99 EUR (original: 39.99 EUR) 32.51 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gillette Fusion5 Rasierklingen für Männe](https://m.media-amazon.com/images/I/51oLZwcbP4L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B079X5QNXC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079X5QNXC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

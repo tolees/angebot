@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.07 % rabat auf COMPO SAAT Vertikutier-Mix  Rasensamen  '
+title: 'COMPO SAAT Vertikutier-Mix  Rasensamen  Rasendünger und Bodenaktivator  2 kg  66 m²'
 date: 2020-09-13 06:23:39
 image: 'https://m.media-amazon.com/images/I/41ZYIojo0HL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.07'
 average: '12.94'
 ---
 
-Es gibt ein [COMPO SAAT Vertikutier-Mix  Rasensamen  Rasendünger und Bodenaktivator  2 kg  66 m²](https://www.amazon.de/dp/B018EITAKK/?tag=tolees0ca-21) mit aktuellem Preis 12.94 EUR (original: 17.99 EUR) 28.07 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![COMPO SAAT Vertikutier-Mix  Rasensamen  ](https://m.media-amazon.com/images/I/41ZYIojo0HL._SL400_.jpg)](https://www.amazon.de/dp/B018EITAKK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B018EITAKK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

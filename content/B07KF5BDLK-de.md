@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Herren 527 Slim Boot Cut Jeans  P mit 16.68 % Rabatt'
+title: 'Levi s Herren 527 Slim Boot Cut Jeans  Pulley T2 0563  32W / 30L'
 date: 2020-09-29 18:03:11
 image: 'https://m.media-amazon.com/images/I/41NsEusxvOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.68'
 average: '48.69'
 ---
 
-Sie können [Levi s Herren 527 Slim Boot Cut Jeans  Pulley T2 0563  32W / 30L](https://www.amazon.de/dp/B07KF5BDLK/?tag=tolees0ca-21) mit Preis 48.69 EUR (original: 58.44 EUR) 16.68 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Levi s Herren 527 Slim Boot Cut Jeans  P](https://m.media-amazon.com/images/I/41NsEusxvOL._SL400_.jpg)](https://www.amazon.de/dp/B07KF5BDLK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KF5BDLK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

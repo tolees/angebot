@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.25 % rabat auf Playmobil 70098 Magic Meerjungfrau mit S'
+title: 'Playmobil 70098 Magic Meerjungfrau mit Schneckengondel  bunt'
 date: 2020-02-10 16:14:51
 image: 'https://m.media-amazon.com/images/I/51unT8VsNfL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.25'
 average: '11.26090909090909'
 ---
 
-Es gibt ein [Playmobil 70098 Magic Meerjungfrau mit Schneckengondel  bunt](https://www.amazon.de/dp/B07JMCC8R4/?tag=tolees0ca-21) mit aktuellem Preis 10.57 EUR (original: 17.99 EUR) 41.25 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 70098 Magic Meerjungfrau mit S](https://m.media-amazon.com/images/I/51unT8VsNfL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07JMCC8R4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JMCC8R4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

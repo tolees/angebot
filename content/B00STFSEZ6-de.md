@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.12 % rabat auf Gift Company - Tang - Schmuckkasten  Sch'
+title: 'Gift Company - Tang - Schmuckkasten  Schmuckbox  Schmuckschatulle - mit Schloss - Größe: L - Farbe: Lavender  Violett'
 date: 2020-04-11 16:06:35
 image: 'https://m.media-amazon.com/images/I/41MITzc4JOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.12'
 average: '215.0'
 ---
 
-Es gibt ein [Gift Company - Tang - Schmuckkasten  Schmuckbox  Schmuckschatulle - mit Schloss - Größe: L - Farbe: Lavender  Violett](https://www.amazon.de/dp/B00STFSEZ6/?tag=tolees0ca-21) mit aktuellem Preis 215.0 EUR (original: 295.0 EUR) 27.12 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gift Company - Tang - Schmuckkasten  Sch](https://m.media-amazon.com/images/I/41MITzc4JOL._SL400_.jpg)](https://www.amazon.de/dp/B00STFSEZ6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00STFSEZ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

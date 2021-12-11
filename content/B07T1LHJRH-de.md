@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disgaea 4 Complete+  PS4  mit 25.44 % Rabatt'
+title: 'Disgaea 4 Complete+  PS4 '
 date: 2020-02-02 04:50:53
 image: 'https://m.media-amazon.com/images/I/51ZyCdKBfGL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.44'
 average: '29.99'
 ---
 
-Sie können [Disgaea 4 Complete+  PS4 ](https://www.amazon.de/dp/B07T1LHJRH/?tag=tolees0ca-21) mit Preis 29.99 EUR (original: 40.22 EUR) 25.44 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Disgaea 4 Complete+  PS4 ](https://m.media-amazon.com/images/I/51ZyCdKBfGL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07T1LHJRH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07T1LHJRH/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

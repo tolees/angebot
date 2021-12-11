@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.70 % rabat auf LG Electronics 65UM7050PLA  164 cm  65 Z'
+title: 'LG Electronics 65UM7050PLA  164 cm  65 Zoll   UHD  Fernseher  4K  Triple Tuner  DVB-T2/T -C -S2/S   Active HDR  50 Hz  Smart TV   [Modelljahr 2020]'
 date: 2020-08-04 01:26:12
 image: 'https://m.media-amazon.com/images/I/41fyDthEdRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.70'
 average: '549.0'
 ---
 
-Es gibt ein [LG Electronics 65UM7050PLA  164 cm  65 Zoll   UHD  Fernseher  4K  Triple Tuner  DVB-T2/T -C -S2/S   Active HDR  50 Hz  Smart TV   [Modelljahr 2020]](https://www.amazon.de/dp/B084XSVSR8/?tag=tolees0ca-21) mit aktuellem Preis 549.0 EUR (original: 749.0 EUR) 26.70 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LG Electronics 65UM7050PLA  164 cm  65 Z](https://m.media-amazon.com/images/I/41fyDthEdRL._SL400_.jpg)](https://www.amazon.de/dp/B084XSVSR8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B084XSVSR8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.33 % rabat auf Huawei Mate 9  14 9 cm  5 9 Zoll   64GB '
+title: 'Huawei Mate 9  14 9 cm  5 9 Zoll   64GB  12 Megapixel Kamera  Android 7.0  Schwarz'
 date: 2020-05-14 14:51:11
 image: 'https://m.media-amazon.com/images/I/41+17mEYqyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.33'
 average: '243.29333333333332'
 ---
 
-Es gibt ein [Huawei Mate 9  14 9 cm  5 9 Zoll   64GB  12 Megapixel Kamera  Android 7.0  Schwarz](https://www.amazon.de/dp/B01MT1CHE2/?tag=tolees0ca-21) mit aktuellem Preis 239.99 EUR (original: 309.0 EUR) 22.33 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Huawei Mate 9  14 9 cm  5 9 Zoll   64GB ](https://m.media-amazon.com/images/I/41+17mEYqyL._SL400_.jpg)](https://www.amazon.de/dp/B01MT1CHE2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01MT1CHE2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

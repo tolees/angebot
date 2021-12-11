@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schmidt Spiele 49365 Noch mal so gut  Wü mit 16.68 % Rabatt'
+title: 'Schmidt Spiele 49365 Noch mal so gut  Würfelspiel aus der Serie Klein & Fein  bunt'
 date: 2020-03-01 04:52:57
 image: 'https://m.media-amazon.com/images/I/51ET5dAXiJL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.68'
 average: '9.99'
 ---
 
-Sie können [Schmidt Spiele 49365 Noch mal so gut  Würfelspiel aus der Serie Klein & Fein  bunt](https://www.amazon.de/dp/B07WZFHDC7/?tag=tolees0ca-21) mit Preis 9.99 EUR (original: 11.99 EUR) 16.68 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Schmidt Spiele 49365 Noch mal so gut  Wü](https://m.media-amazon.com/images/I/51ET5dAXiJL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07WZFHDC7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07WZFHDC7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

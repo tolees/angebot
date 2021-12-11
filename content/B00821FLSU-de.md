@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ubbi 10006 Stahl Windeleimer  grau mit 27.49 % Rabatt'
+title: 'Ubbi 10006 Stahl Windeleimer  grau'
 date: 2020-01-31 05:19:56
 image: 'https://m.media-amazon.com/images/I/31fyiq++b8L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.49'
 average: '50.71'
 ---
 
-Sie können [Ubbi 10006 Stahl Windeleimer  grau](https://www.amazon.de/dp/B00821FLSU/?tag=tolees0ca-21) mit Preis 50.71 EUR (original: 69.94 EUR) 27.49 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ubbi 10006 Stahl Windeleimer  grau](https://m.media-amazon.com/images/I/31fyiq++b8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00821FLSU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00821FLSU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

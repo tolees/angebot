@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.44 % rabat auf Philips Hue LED 2-er Buratto Spot inkl. '
+title: 'Philips Hue LED 2-er Buratto Spot inkl. Dimmschalter  dimmbar  alle Weißschattierungen  steuerbar via App  weiß  kompatibel mit Amazon Alexa  Echo  Echo Dot '
 date: 2020-04-06 08:18:40
 image: 'https://m.media-amazon.com/images/I/311HvYNh6DL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.44'
 average: '109.985'
 ---
 
-Es gibt ein [Philips Hue LED 2-er Buratto Spot inkl. Dimmschalter  dimmbar  alle Weißschattierungen  steuerbar via App  weiß  kompatibel mit Amazon Alexa  Echo  Echo Dot ](https://www.amazon.de/dp/B0767BT4PB/?tag=tolees0ca-21) mit aktuellem Preis 109.98 EUR (original: 139.99 EUR) 21.44 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Philips Hue LED 2-er Buratto Spot inkl. ](https://m.media-amazon.com/images/I/311HvYNh6DL._SL400_.jpg)](https://www.amazon.de/dp/B0767BT4PB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0767BT4PB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

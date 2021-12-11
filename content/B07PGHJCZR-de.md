@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yamaha MCR-B370D Schwarz/Schwarz mit 19.07 % Rabatt'
+title: 'Yamaha MCR-B370D Schwarz/Schwarz'
 date: 2020-01-31 23:06:31
 image: 'https://m.media-amazon.com/images/I/31WrkHUzqwL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.07'
 average: '298.65'
 ---
 
-Sie können [Yamaha MCR-B370D Schwarz/Schwarz](https://www.amazon.de/dp/B07PGHJCZR/?tag=tolees0ca-21) mit Preis 298.65 EUR (original: 369.0 EUR) 19.07 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Yamaha MCR-B370D Schwarz/Schwarz](https://m.media-amazon.com/images/I/31WrkHUzqwL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PGHJCZR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PGHJCZR/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

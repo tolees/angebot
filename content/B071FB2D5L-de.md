@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kindergarten Cop [Blu-ray] mit 15.52 % Rabatt'
+title: 'Kindergarten Cop [Blu-ray]'
 date: 2020-03-01 04:52:30
 image: 'https://m.media-amazon.com/images/I/514lzB0GU7L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.52'
 average: '6.75'
 ---
 
-Sie können [Kindergarten Cop [Blu-ray]](https://www.amazon.de/dp/B071FB2D5L/?tag=tolees0ca-21) mit Preis 6.75 EUR (original: 7.99 EUR) 15.52 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kindergarten Cop [Blu-ray]](https://m.media-amazon.com/images/I/514lzB0GU7L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B071FB2D5L/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B071FB2D5L/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

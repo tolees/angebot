@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thames & Kosmos 692872 Zubehör mit 41.05 % Rabatt'
+title: 'Thames & Kosmos 692872 Zubehör'
 date: 2020-10-05 11:36:06
 image: 'https://m.media-amazon.com/images/I/51sFj3nq9yL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.05'
 average: '9.25'
 ---
 
-Sie können [Thames & Kosmos 692872 Zubehör](https://www.amazon.de/dp/B0742KCMF5/?tag=tolees0ca-21) mit Preis 9.25 EUR (original: 15.69 EUR) 41.05 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Thames & Kosmos 692872 Zubehör](https://m.media-amazon.com/images/I/51sFj3nq9yL._SL400_.jpg)](https://www.amazon.de/dp/B0742KCMF5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0742KCMF5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

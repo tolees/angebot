@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRITA Wasserfilter Style XL hellgrau ink mit 17.58 % Rabatt'
+title: 'BRITA Wasserfilter Style XL hellgrau inkl. 1 MAXTRA+ Filterkartusche – Großer BRITA Filter in modernem Design zur Reduzierung von Kalk  Chlor & geschmacksstörenden Stoffen'
 date: 2020-02-06 04:58:28
 image: 'https://m.media-amazon.com/images/I/415xcCJqx2L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.58'
 average: '28.875'
 ---
 
-Sie können [BRITA Wasserfilter Style XL hellgrau inkl. 1 MAXTRA+ Filterkartusche – Großer BRITA Filter in modernem Design zur Reduzierung von Kalk  Chlor & geschmacksstörenden Stoffen](https://www.amazon.de/dp/B077Y1RJFF/?tag=tolees0ca-21) mit Preis 28.84 EUR (original: 34.99 EUR) 17.58 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![BRITA Wasserfilter Style XL hellgrau ink](https://m.media-amazon.com/images/I/415xcCJqx2L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B077Y1RJFF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B077Y1RJFF/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

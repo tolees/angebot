@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.31 % rabat auf Bar Keepers Friend Allzweck Macht-Creme '
+title: 'Bar Keepers Friend Allzweck Macht-Creme 350ml  1 x 1 x 1 cm'
 date: 2020-09-16 06:19:16
 image: 'https://m.media-amazon.com/images/I/41RKQ3ZytDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.31'
 average: '5.85'
 ---
 
-Es gibt ein [Bar Keepers Friend Allzweck Macht-Creme 350ml  1 x 1 x 1 cm](https://www.amazon.de/dp/B00BSAA38K/?tag=tolees0ca-21) mit aktuellem Preis 5.85 EUR (original: 7.25 EUR) 19.31 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bar Keepers Friend Allzweck Macht-Creme ](https://m.media-amazon.com/images/I/41RKQ3ZytDL._SL400_.jpg)](https://www.amazon.de/dp/B00BSAA38K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BSAA38K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

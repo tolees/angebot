@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Makita DDF453Z Akku-Bohrschrauber  18 V  mit 25.63 % Rabatt'
+title: 'Makita DDF453Z Akku-Bohrschrauber  18 V  Blau  Silber'
 date: 2020-02-17 11:04:00
 image: 'https://m.media-amazon.com/images/I/418SYJCLmyL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.63'
 average: '53.55'
 ---
 
-Sie können [Makita DDF453Z Akku-Bohrschrauber  18 V  Blau  Silber](https://www.amazon.de/dp/B00JQE7OGO/?tag=tolees0ca-21) mit Preis 53.55 EUR (original: 72.0 EUR) 25.63 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Makita DDF453Z Akku-Bohrschrauber  18 V ](https://m.media-amazon.com/images/I/418SYJCLmyL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00JQE7OGO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00JQE7OGO/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

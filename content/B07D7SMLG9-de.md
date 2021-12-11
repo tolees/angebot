@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko POP My Hero Academia SHOTA AIZ mit 39.32 % Rabatt'
+title: 'Funko POP My Hero Academia SHOTA AIZ'
 date: 2020-03-30 13:15:24
 image: 'https://m.media-amazon.com/images/I/41T85XG7SxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.32'
 average: '8.91'
 ---
 
-Sie können [Funko POP My Hero Academia SHOTA AIZ](https://www.amazon.de/dp/B07D7SMLG9/?tag=tolees0ca-21) mit Preis 8.75 EUR (original: 14.42 EUR) 39.32 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko POP My Hero Academia SHOTA AIZ](https://m.media-amazon.com/images/I/41T85XG7SxL._SL400_.jpg)](https://www.amazon.de/dp/B07D7SMLG9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07D7SMLG9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

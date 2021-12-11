@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '47.64 % rabat auf Silverline FIXMAN 633499 Trockenbau-Abst'
+title: 'Silverline FIXMAN 633499 Trockenbau-Abstandhalter  100er-Pckg.'
 date: 2020-10-11 20:04:05
 image: 'https://m.media-amazon.com/images/I/41td2vH9BCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.64'
 average: '4.99'
 ---
 
-Es gibt ein [Silverline FIXMAN 633499 Trockenbau-Abstandhalter  100er-Pckg.](https://www.amazon.de/dp/B000LFTJBK/?tag=tolees0ca-21) mit aktuellem Preis 4.99 EUR (original: 9.53 EUR) 47.64 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Silverline FIXMAN 633499 Trockenbau-Abst](https://m.media-amazon.com/images/I/41td2vH9BCL._SL400_.jpg)](https://www.amazon.de/dp/B000LFTJBK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000LFTJBK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

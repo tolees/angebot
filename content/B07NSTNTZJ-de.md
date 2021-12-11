@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 36409 POP Vinyl: Pretty Woman: Viv mit 34.64 % Rabatt'
+title: 'Funko 36409 POP Vinyl: Pretty Woman: Vivian  red Dress  Sammelbares Spielzeug  Mehrfarben'
 date: 2020-03-13 10:47:29
 image: 'https://m.media-amazon.com/images/I/31hvNNZw2FL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.64'
 average: '10.742'
 ---
 
-Sie können [Funko 36409 POP Vinyl: Pretty Woman: Vivian  red Dress  Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07NSTNTZJ/?tag=tolees0ca-21) mit Preis 8.17 EUR (original: 12.5 EUR) 34.64 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 36409 POP Vinyl: Pretty Woman: Viv](https://m.media-amazon.com/images/I/31hvNNZw2FL._SL400_.jpg)](https://www.amazon.de/dp/B07NSTNTZJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07NSTNTZJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

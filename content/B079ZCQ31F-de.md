@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ravensburger 22334 Break Free mit 53.14 % Rabatt'
+title: 'Ravensburger 22334 Break Free'
 date: 2020-04-07 13:14:15
 image: 'https://m.media-amazon.com/images/I/61hLQx9JPcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.14'
 average: '14.99'
 ---
 
-Sie können [Ravensburger 22334 Break Free](https://www.amazon.de/dp/B079ZCQ31F/?tag=tolees0ca-21) mit Preis 14.99 EUR (original: 31.99 EUR) 53.14 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger 22334 Break Free](https://m.media-amazon.com/images/I/61hLQx9JPcL._SL400_.jpg)](https://www.amazon.de/dp/B079ZCQ31F/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079ZCQ31F/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

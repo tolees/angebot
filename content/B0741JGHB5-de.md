@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wahoo ELEMNT MINI Fahrradcomputer mit 33.34 % Rabatt'
+title: 'Wahoo ELEMNT MINI Fahrradcomputer'
 date: 2020-01-16 09:13:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-DBGS5T1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '59.99'
 ---
 
-Sie können [Wahoo ELEMNT MINI Fahrradcomputer](https://www.amazon.de/dp/B0741JGHB5/?tag=tolees0ca-21) mit Preis 59.99 EUR (original: 89.99 EUR) 33.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Wahoo ELEMNT MINI Fahrradcomputer](https://images-eu.ssl-images-amazon.com/images/I/41-DBGS5T1L._SL400_.jpg)](https://www.amazon.de/dp/B0741JGHB5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0741JGHB5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

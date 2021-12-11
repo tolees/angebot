@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'motorola one zoom mit Alexa Hands-Free S mit 30.23 % Rabatt'
+title: 'motorola one zoom mit Alexa Hands-Free Smartphone  6 4-Zoll-FHD+Display  Vierfach-Kamerasystem; 128 GB/4 GB  Android 9 Pie  Dual-SIM-Smartphone   Grau-Metallic + Headset + Schutzcover'
 date: 2020-05-28 19:39:05
 image: 'https://m.media-amazon.com/images/I/41hWgk4hegL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.23'
 average: '311.99'
 ---
 
-Sie können [motorola one zoom mit Alexa Hands-Free Smartphone  6 4-Zoll-FHD+Display  Vierfach-Kamerasystem; 128 GB/4 GB  Android 9 Pie  Dual-SIM-Smartphone   Grau-Metallic + Headset + Schutzcover](https://www.amazon.de/dp/B07VGLKHWP/?tag=tolees0ca-21) mit Preis 299.99 EUR (original: 429.99 EUR) 30.23 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![motorola one zoom mit Alexa Hands-Free S](https://m.media-amazon.com/images/I/41hWgk4hegL._SL400_.jpg)](https://www.amazon.de/dp/B07VGLKHWP/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07VGLKHWP/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

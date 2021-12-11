@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pontec Filter- und Bachlaufpumpe PondoMa mit 35.56 % Rabatt'
+title: 'Pontec Filter- und Bachlaufpumpe PondoMax Eco 1500'
 date: 2020-03-14 04:56:52
 image: 'https://m.media-amazon.com/images/I/41ArJcIfufL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.56'
 average: '37.99'
 ---
 
-Sie können [Pontec Filter- und Bachlaufpumpe PondoMax Eco 1500](https://www.amazon.de/dp/B007H5C3HE/?tag=tolees0ca-21) mit Preis 37.99 EUR (original: 58.95 EUR) 35.56 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Pontec Filter- und Bachlaufpumpe PondoMa](https://m.media-amazon.com/images/I/41ArJcIfufL._SL400_.jpg)](https://www.amazon.de/dp/B007H5C3HE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B007H5C3HE/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

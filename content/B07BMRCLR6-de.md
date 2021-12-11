@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.00 % rabat auf MEDION MD 18500 Saugroboter mit Ladestat'
+title: 'MEDION MD 18500 Saugroboter mit Ladestation  90 Min Laufzeit  Roboterstaubsauger für Hartböden  Teppiche  Fliesen  Laminat  Tierhaar optimiert  Direktabsaugung  autom. Rückkehr zur Ladestation  weiß'
 date: 2020-03-12 17:15:23
 image: 'https://m.media-amazon.com/images/I/41JSL+TJJFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.00'
 average: '149.99'
 ---
 
-Es gibt ein [MEDION MD 18500 Saugroboter mit Ladestation  90 Min Laufzeit  Roboterstaubsauger für Hartböden  Teppiche  Fliesen  Laminat  Tierhaar optimiert  Direktabsaugung  autom. Rückkehr zur Ladestation  weiß](https://www.amazon.de/dp/B07BMRCLR6/?tag=tolees0ca-21) mit aktuellem Preis 149.99 EUR (original: 199.99 EUR) 25.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![MEDION MD 18500 Saugroboter mit Ladestat](https://m.media-amazon.com/images/I/41JSL+TJJFL._SL400_.jpg)](https://www.amazon.de/dp/B07BMRCLR6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07BMRCLR6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

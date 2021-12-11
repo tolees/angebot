@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.65 % rabat auf adidas Bauchtrainer'
+title: 'adidas Bauchtrainer'
 date: 2020-06-05 20:16:56
 image: 'https://m.media-amazon.com/images/I/41eQFtH-WZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.65'
 average: '14.07'
 ---
 
-Es gibt ein [adidas Bauchtrainer](https://www.amazon.de/dp/B00EVNXN6K/?tag=tolees0ca-21) mit aktuellem Preis 14.07 EUR (original: 20.0 EUR) 29.65 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![adidas Bauchtrainer](https://m.media-amazon.com/images/I/41eQFtH-WZL._SL400_.jpg)](https://www.amazon.de/dp/B00EVNXN6K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00EVNXN6K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

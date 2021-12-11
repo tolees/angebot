@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Waterman S0110720 Füllfederhaltertinte i mit 42.81 % Rabatt'
+title: 'Waterman S0110720 Füllfederhaltertinte im 50 ml Tintenfass serenity blue'
 date: 2020-03-18 04:51:12
 image: 'https://m.media-amazon.com/images/I/41AC0U9a+sL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.81'
 average: '4.93'
 ---
 
-Sie können [Waterman S0110720 Füllfederhaltertinte im 50 ml Tintenfass serenity blue](https://www.amazon.de/dp/B000J3X9VU/?tag=tolees0ca-21) mit Preis 4.93 EUR (original: 8.62 EUR) 42.81 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Waterman S0110720 Füllfederhaltertinte i](https://m.media-amazon.com/images/I/41AC0U9a+sL._SL400_.jpg)](https://www.amazon.de/dp/B000J3X9VU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B000J3X9VU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

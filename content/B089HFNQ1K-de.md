@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'ASUS ROG Strix B550-F Gaming  Wi-Fi  Mai mit 15.49 % Rabatt'
-date: 2021-12-10 16:00:28
+title: 'ASUS ROG Strix B550-F Gaming  Wi-Fi  Mainboard Sockel AM4  ATX  Ryzen  PCIe 4.0  WiFi6  Intel 2 5 Gbit/s-Ethernet  2x M.2 mit Kühlern  SATA 6Gbit/s  USB 3.2 Gen 2  Aura Sync '
+date: 2021-12-11 16:28:06
 image: 'https://m.media-amazon.com/images/I/41R44if2Y8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,19 +19,19 @@ flag: '🇩🇪'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.de/dp/B089HFNQ1K/?tag=tolees0ca-21'
 descuento: '15.49'
-average: '179.906648648649'
+average: '179.889032258065'
 ---
 
-Sie können [ASUS ROG Strix B550-F Gaming  Wi-Fi  Mainboard Sockel AM4  ATX  Ryzen  PCIe 4.0  WiFi6  Intel 2 5 Gbit/s-Ethernet  2x M.2 mit Kühlern  SATA 6Gbit/s  USB 3.2 Gen 2  Aura Sync ](https://www.amazon.de/dp/B089HFNQ1K/?tag=tolees0ca-21) mit Preis 176.63 EUR (original: 209.0 EUR) 15.49 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ASUS ROG Strix B550-F Gaming  Wi-Fi  Mai](https://m.media-amazon.com/images/I/41R44if2Y8L._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B089HFNQ1K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Bereit für PCIe 4.0, zwei M.2-Steckplätze, USB 3.2 Gen 2 Typ-C plus HDMI-2.1- und DisplayPort 1.2-Ausgänge
-- AM4-Sockel: Bereit für AMD-Ryzen-Prozessoren der 3. Generation
 - Intel 2,5Gbit/s-Ethernet mit ASUS LANGuard
+- Bereit für PCIe 4.0, zwei M.2-Steckplätze, USB 3.2 Gen 2 Typ-C plus HDMI-2.1- und DisplayPort 1.2-Ausgänge
 - Teamed-Leistungsstufen mit ProCool-Stromanschluss, hochwertigen Alloy-Spulen und langlebigen Kondensatoren
 - Intuitive Dashboards für das UEFI BIOS und ASUS AI Networking machen die Konfiguration von Gaming-Systemen zum Kinderspiel
+- AM4-Sockel: Bereit für AMD-Ryzen-Prozessoren der 3. Generation
 
-[🛒 Hier!!](https://www.amazon.de/dp/B089HFNQ1K/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

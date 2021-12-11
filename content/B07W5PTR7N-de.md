@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 43170 - Vaianas Boot  Disney Prince mit 28.23 % Rabatt'
+title: 'LEGO 43170 - Vaianas Boot  Disney Princess  Bauset'
 date: 2020-08-24 17:19:12
 image: 'https://m.media-amazon.com/images/I/51Tri7+4QKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.23'
 average: '9.762857142857143'
 ---
 
-Sie können [LEGO 43170 - Vaianas Boot  Disney Princess  Bauset](https://www.amazon.de/dp/B07W5PTR7N/?tag=tolees0ca-21) mit Preis 6.99 EUR (original: 9.74 EUR) 28.23 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO 43170 - Vaianas Boot  Disney Prince](https://m.media-amazon.com/images/I/51Tri7+4QKL._SL400_.jpg)](https://www.amazon.de/dp/B07W5PTR7N/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07W5PTR7N/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.96 % rabat auf Onkyo CS-265 W  CD HiFi Minisystem  CD P'
+title: 'Onkyo CS-265 W  CD HiFi Minisystem  CD Player  MP3  Radio  2 x 20 W Ausgangsleistung  Zweiwege Lautsprecher  Bluetooth  NFC  Musik streamen  USB/Audio in  iPhone kompatibel   Weiss'
 date: 2020-04-28 08:20:02
 image: 'https://m.media-amazon.com/images/I/410t3Us22cL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.96'
 average: '147.0'
 ---
 
-Es gibt ein [Onkyo CS-265 W  CD HiFi Minisystem  CD Player  MP3  Radio  2 x 20 W Ausgangsleistung  Zweiwege Lautsprecher  Bluetooth  NFC  Musik streamen  USB/Audio in  iPhone kompatibel   Weiss](https://www.amazon.de/dp/B00O8LANLI/?tag=tolees0ca-21) mit aktuellem Preis 147.0 EUR (original: 249.0 EUR) 40.96 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Onkyo CS-265 W  CD HiFi Minisystem  CD P](https://m.media-amazon.com/images/I/410t3Us22cL._SL400_.jpg)](https://www.amazon.de/dp/B00O8LANLI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00O8LANLI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

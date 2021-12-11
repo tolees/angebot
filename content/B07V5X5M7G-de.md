@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'McFarlane Toys 15601-0 Actionfigur mit 15.99 % Rabatt'
+title: 'McFarlane Toys 15601-0 Actionfigur'
 date: 2020-04-15 00:20:17
 image: 'https://m.media-amazon.com/images/I/41hdMa-oZRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.99'
 average: '25.291999999999998'
 ---
 
-Sie können [McFarlane Toys 15601-0 Actionfigur](https://www.amazon.de/dp/B07V5X5M7G/?tag=tolees0ca-21) mit Preis 22.86 EUR (original: 27.21 EUR) 15.99 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![McFarlane Toys 15601-0 Actionfigur](https://m.media-amazon.com/images/I/41hdMa-oZRL._SL400_.jpg)](https://www.amazon.de/dp/B07V5X5M7G/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07V5X5M7G/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

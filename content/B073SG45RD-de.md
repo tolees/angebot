@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyperX HXK-DM01 Pulsefire FPS & FURY S G mit 28.70 % Rabatt'
+title: 'HyperX HXK-DM01 Pulsefire FPS & FURY S Gaming Maus mit Mauspad Bundle'
 date: 2020-01-30 18:56:56
 image: 'https://m.media-amazon.com/images/I/419ZSOkvJaL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.70'
 average: '49.9'
 ---
 
-Sie können [HyperX HXK-DM01 Pulsefire FPS & FURY S Gaming Maus mit Mauspad Bundle](https://www.amazon.de/dp/B073SG45RD/?tag=tolees0ca-21) mit Preis 49.9 EUR (original: 69.99 EUR) 28.70 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HyperX HXK-DM01 Pulsefire FPS & FURY S G](https://m.media-amazon.com/images/I/419ZSOkvJaL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B073SG45RD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B073SG45RD/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

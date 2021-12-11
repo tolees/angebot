@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.44 % rabat auf Samsung WW80K6404QW/EG Waschmaschine FL/'
+title: 'Samsung WW80K6404QW/EG Waschmaschine FL/A+++/116 kWh/Jahr/1400 UpM/8 kg/Add Wash/WiFi Smart Control/Super Speed Wash/Digital Inverter Motor'
 date: 2020-03-08 04:41:18
 image: 'https://m.media-amazon.com/images/I/3116PfxSIqL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.44'
 average: '554.4449999999999'
 ---
 
-Es gibt ein [Samsung WW80K6404QW/EG Waschmaschine FL/A+++/116 kWh/Jahr/1400 UpM/8 kg/Add Wash/WiFi Smart Control/Super Speed Wash/Digital Inverter Motor](https://www.amazon.de/dp/B01BC3TPB8/?tag=tolees0ca-21) mit aktuellem Preis 419.0 EUR (original: 649.0 EUR) 35.44 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung WW80K6404QW/EG Waschmaschine FL/](https://m.media-amazon.com/images/I/3116PfxSIqL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01BC3TPB8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BC3TPB8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

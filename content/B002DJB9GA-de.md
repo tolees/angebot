@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BEABA 912111 - Wippe Transat Up & Down n mit 19.15 % Rabatt'
+title: 'BEABA 912111 - Wippe Transat Up & Down noir gris'
 date: 2020-10-11 06:24:14
 image: 'https://m.media-amazon.com/images/I/41UDU3f3rgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.15'
 average: '89.99'
 ---
 
-Sie können [BEABA 912111 - Wippe Transat Up & Down noir gris](https://www.amazon.de/dp/B002DJB9GA/?tag=tolees0ca-21) mit Preis 89.99 EUR (original: 111.31 EUR) 19.15 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![BEABA 912111 - Wippe Transat Up & Down n](https://m.media-amazon.com/images/I/41UDU3f3rgL._SL400_.jpg)](https://www.amazon.de/dp/B002DJB9GA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B002DJB9GA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

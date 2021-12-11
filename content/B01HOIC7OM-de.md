@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NUBWO S2 V4.1 Bluetooth kabellose On-Ear mit 15.39 % Rabatt'
+title: 'NUBWO S2 V4.1 Bluetooth kabellose On-Ear HiFi Stereo Kopfhörer mit Mikrofon für Handys  Tablets  Laptops & PC - Schwarz'
 date: 2020-01-10 14:25:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QHQeEbgML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.39'
 average: '21.99'
 ---
 
-Sie können [NUBWO S2 V4.1 Bluetooth kabellose On-Ear HiFi Stereo Kopfhörer mit Mikrofon für Handys  Tablets  Laptops & PC - Schwarz](https://www.amazon.de/dp/B01HOIC7OM/?tag=tolees0ca-21) mit Preis 21.99 EUR (original: 25.99 EUR) 15.39 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![NUBWO S2 V4.1 Bluetooth kabellose On-Ear](https://images-eu.ssl-images-amazon.com/images/I/51QHQeEbgML._SL400_.jpg)](https://www.amazon.de/dp/B01HOIC7OM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01HOIC7OM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

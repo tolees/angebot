@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.97 % rabat auf Dickie Toys 203818000 Happy Farm House  '
+title: 'Dickie Toys 203818000 Happy Farm House  Bauernhof  Set für Kinder ab 1 Jahr  Traktor  mit Tieren  Licht & Sound  Mehrfarbig'
 date: 2020-04-08 13:23:02
 image: 'https://m.media-amazon.com/images/I/41OKXCFSy3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.97'
 average: '34.11'
 ---
 
-Es gibt ein [Dickie Toys 203818000 Happy Farm House  Bauernhof  Set für Kinder ab 1 Jahr  Traktor  mit Tieren  Licht & Sound  Mehrfarbig](https://www.amazon.de/dp/B07PHPFDY4/?tag=tolees0ca-21) mit aktuellem Preis 34.11 EUR (original: 54.99 EUR) 37.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dickie Toys 203818000 Happy Farm House  ](https://m.media-amazon.com/images/I/41OKXCFSy3L._SL400_.jpg)](https://www.amazon.de/dp/B07PHPFDY4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PHPFDY4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

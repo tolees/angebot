@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.78 % rabat auf Ravensburger Lotti Karotti'
+title: 'Ravensburger Lotti Karotti'
 date: 2020-04-01 21:06:23
 image: 'https://m.media-amazon.com/images/I/61cHHHgmOTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.78'
 average: '16.775'
 ---
 
-Es gibt ein [Ravensburger Lotti Karotti](https://www.amazon.de/dp/B0000TZ4XE/?tag=tolees0ca-21) mit aktuellem Preis 17.99 EUR (original: 25.99 EUR) 30.78 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger Lotti Karotti](https://m.media-amazon.com/images/I/61cHHHgmOTL._SL400_.jpg)](https://www.amazon.de/dp/B0000TZ4XE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0000TZ4XE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

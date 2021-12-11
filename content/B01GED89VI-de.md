@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kölln Müsli Schoko "30 % weniger Zucker" mit 25.03 % Rabatt'
+title: 'Kölln Müsli Schoko "30 % weniger Zucker"  1er Pack  1 x 2 kg '
 date: 2020-02-09 04:34:56
 image: 'https://m.media-amazon.com/images/I/51XhN32j7DL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.03'
 average: '5.99'
 ---
 
-Sie können [Kölln Müsli Schoko "30 % weniger Zucker"  1er Pack  1 x 2 kg ](https://www.amazon.de/dp/B01GED89VI/?tag=tolees0ca-21) mit Preis 5.99 EUR (original: 7.99 EUR) 25.03 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kölln Müsli Schoko "30 % weniger Zucker"](https://m.media-amazon.com/images/I/51XhN32j7DL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01GED89VI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01GED89VI/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

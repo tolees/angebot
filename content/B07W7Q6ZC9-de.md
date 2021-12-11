@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LABISTS Raspberry Pi 4 Model B 4 GB Ulti mit 15.39 % Rabatt'
+title: 'LABISTS Raspberry Pi 4 Model B 4 GB Ultimatives Kit mit 32GB Class10 Micro SD-Karte  5 1V 3 0A USB-C EIN/Aus-Schaltnetzteil  3 Premium Kupfer Kühlkörper  Micro HDMI-Kabel  Premium Schwarzes Gehäuse'
 date: 2020-04-16 15:43:14
 image: 'https://m.media-amazon.com/images/I/51xpSeIdw5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.39'
 average: '98.99'
 ---
 
-Sie können [LABISTS Raspberry Pi 4 Model B 4 GB Ultimatives Kit mit 32GB Class10 Micro SD-Karte  5 1V 3 0A USB-C EIN/Aus-Schaltnetzteil  3 Premium Kupfer Kühlkörper  Micro HDMI-Kabel  Premium Schwarzes Gehäuse](https://www.amazon.de/dp/B07W7Q6ZC9/?tag=tolees0ca-21) mit Preis 109.99 EUR (original: 129.99 EUR) 15.39 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LABISTS Raspberry Pi 4 Model B 4 GB Ulti](https://m.media-amazon.com/images/I/51xpSeIdw5L._SL400_.jpg)](https://www.amazon.de/dp/B07W7Q6ZC9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07W7Q6ZC9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

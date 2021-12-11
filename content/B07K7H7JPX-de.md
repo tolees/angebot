@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Kinder TIRO19 TR TOPY Sweatshirt  mit 72.86 % Rabatt'
+title: 'adidas Kinder TIRO19 TR TOPY Sweatshirt  Dark Blue/Bold Blue/White  1516'
 date: 2020-09-29 08:43:21
 image: 'https://m.media-amazon.com/images/I/41z-LKIAIzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '72.86'
 average: '12.2'
 ---
 
-Sie können [adidas Kinder TIRO19 TR TOPY Sweatshirt  Dark Blue/Bold Blue/White  1516](https://www.amazon.de/dp/B07K7H7JPX/?tag=tolees0ca-21) mit Preis 12.2 EUR (original: 44.95 EUR) 72.86 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![adidas Kinder TIRO19 TR TOPY Sweatshirt ](https://m.media-amazon.com/images/I/41z-LKIAIzL._SL400_.jpg)](https://www.amazon.de/dp/B07K7H7JPX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07K7H7JPX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Säge AdvancedCut 50  500 Watt  Nan mit 42.00 % Rabatt'
+title: 'Bosch Säge AdvancedCut 50  500 Watt  NanoBlade Technologie  im Koffer '
 date: 2020-01-27 17:18:11
 image: 'https://m.media-amazon.com/images/I/41NRoxpklZL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.00'
 average: '86.99'
 ---
 
-Sie können [Bosch Säge AdvancedCut 50  500 Watt  NanoBlade Technologie  im Koffer ](https://www.amazon.de/dp/B0713QQGR5/?tag=tolees0ca-21) mit Preis 86.99 EUR (original: 149.99 EUR) 42.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Säge AdvancedCut 50  500 Watt  Nan](https://m.media-amazon.com/images/I/41NRoxpklZL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0713QQGR5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0713QQGR5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

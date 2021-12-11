@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.75 % rabat auf Bosch Professional Kreuzlinienlaser GLL '
+title: 'Bosch Professional Kreuzlinienlaser GLL 2-10  roter Laser  Max. Reichweite: 10 m  3x AA Batterien  Schutztasche  im Karton '
 date: 2020-09-09 19:44:28
 image: 'https://m.media-amazon.com/images/I/51Xy02tjAkL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.75'
 average: '62.0'
 ---
 
-Es gibt ein [Bosch Professional Kreuzlinienlaser GLL 2-10  roter Laser  Max. Reichweite: 10 m  3x AA Batterien  Schutztasche  im Karton ](https://www.amazon.de/dp/B01LP4H22S/?tag=tolees0ca-21) mit aktuellem Preis 62.0 EUR (original: 79.23 EUR) 21.75 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Professional Kreuzlinienlaser GLL ](https://m.media-amazon.com/images/I/51Xy02tjAkL._SL400_.jpg)](https://www.amazon.de/dp/B01LP4H22S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LP4H22S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

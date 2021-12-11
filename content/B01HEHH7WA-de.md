@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer H6517ABD DLP Projektor  Full HD 192 mit 29.90 % Rabatt'
+title: 'Acer H6517ABD DLP Projektor  Full HD 1920 x 1080 Pixel  3200 ANSi Lumen  Kontrast 20.000:1 3D '
 date: 2020-04-19 13:50:11
 image: 'https://m.media-amazon.com/images/I/4178LB20wYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.90'
 average: '419.9'
 ---
 
-Sie können [Acer H6517ABD DLP Projektor  Full HD 1920 x 1080 Pixel  3200 ANSi Lumen  Kontrast 20.000:1 3D ](https://www.amazon.de/dp/B01HEHH7WA/?tag=tolees0ca-21) mit Preis 419.9 EUR (original: 599.0 EUR) 29.90 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Acer H6517ABD DLP Projektor  Full HD 192](https://m.media-amazon.com/images/I/4178LB20wYL._SL400_.jpg)](https://www.amazon.de/dp/B01HEHH7WA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01HEHH7WA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

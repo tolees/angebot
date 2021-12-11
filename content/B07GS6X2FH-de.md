@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.50 % rabat auf Garmin vivomove HR Sport Black/Sandstone'
+title: 'Garmin vivomove HR Sport Black/Sandstone Fitness-Tracker  Schwarz/Sandstein  M'
 date: 2020-04-25 12:19:41
 image: 'https://m.media-amazon.com/images/I/41zvTkxAI6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.50'
 average: '119.0'
 ---
 
-Es gibt ein [Garmin vivomove HR Sport Black/Sandstone Fitness-Tracker  Schwarz/Sandstein  M](https://www.amazon.de/dp/B07GS6X2FH/?tag=tolees0ca-21) mit aktuellem Preis 119.0 EUR (original: 199.99 EUR) 40.50 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Garmin vivomove HR Sport Black/Sandstone](https://m.media-amazon.com/images/I/41zvTkxAI6L._SL400_.jpg)](https://www.amazon.de/dp/B07GS6X2FH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GS6X2FH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

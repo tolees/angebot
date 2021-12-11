@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.35 % rabat auf NZXT KRAKEN G12 - GPU-Montagesatz für AI'
+title: 'NZXT KRAKEN G12 - GPU-Montagesatz für AIO-Kühler der Kraken X-Serie - Leistungsstärkere GPU-Kühlung - Kompatibilität mit AMD- und NVIDIA-GPUs - Aktive Kühlung für VRM - Schwarz'
 date: 2020-02-02 04:51:06
 image: 'https://m.media-amazon.com/images/I/41zwGrp5-5L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.35'
 average: '26.89'
 ---
 
-Es gibt ein [NZXT KRAKEN G12 - GPU-Montagesatz für AIO-Kühler der Kraken X-Serie - Leistungsstärkere GPU-Kühlung - Kompatibilität mit AMD- und NVIDIA-GPUs - Aktive Kühlung für VRM - Schwarz](https://www.amazon.de/dp/B06XXF4Q68/?tag=tolees0ca-21) mit aktuellem Preis 26.89 EUR (original: 35.08 EUR) 23.35 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![NZXT KRAKEN G12 - GPU-Montagesatz für AI](https://m.media-amazon.com/images/I/41zwGrp5-5L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B06XXF4Q68/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XXF4Q68/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

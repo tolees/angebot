@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.00 % rabat auf Dittzz Technic Sportwagen M-Benz C63   1'
+title: 'Dittzz Technic Sportwagen M-Benz C63   1:8 2.4Ghz RC Auto Bauset mit Motor und Fernbedienung  1989Stücke Bausteine Kompatibel mit Lego Technic'
 date: 2020-04-05 21:03:49
 image: 'https://m.media-amazon.com/images/I/51F6hLvI7YL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '118.99'
 ---
 
-Es gibt ein [Dittzz Technic Sportwagen M-Benz C63   1:8 2.4Ghz RC Auto Bauset mit Motor und Fernbedienung  1989Stücke Bausteine Kompatibel mit Lego Technic](https://www.amazon.de/dp/B085T4CLTT/?tag=tolees0ca-21) mit aktuellem Preis 118.99 EUR (original: 169.99 EUR) 30.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dittzz Technic Sportwagen M-Benz C63   1](https://m.media-amazon.com/images/I/51F6hLvI7YL._SL400_.jpg)](https://www.amazon.de/dp/B085T4CLTT/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B085T4CLTT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

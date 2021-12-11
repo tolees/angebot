@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.47 % rabat auf Einhell Bohrhammer TC-RH 900  900 W  3 J'
+title: 'Einhell Bohrhammer TC-RH 900  900 W  3 J  Bohrleistung in Beton 26 mm  SDS-Plus-Aufnahme  Metall-Tiefenanschlag  Koffer '
 date: 2020-09-12 10:49:13
 image: 'https://m.media-amazon.com/images/I/41mmAVD4pYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.47'
 average: '49.99'
 ---
 
-Es gibt ein [Einhell Bohrhammer TC-RH 900  900 W  3 J  Bohrleistung in Beton 26 mm  SDS-Plus-Aufnahme  Metall-Tiefenanschlag  Koffer ](https://www.amazon.de/dp/B00IYEEY0Q/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 79.95 EUR) 37.47 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Einhell Bohrhammer TC-RH 900  900 W  3 J](https://m.media-amazon.com/images/I/41mmAVD4pYL._SL400_.jpg)](https://www.amazon.de/dp/B00IYEEY0Q/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IYEEY0Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

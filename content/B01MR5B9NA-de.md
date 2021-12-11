@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'B.K.Licht I LED Pendelleuchte inkl. 4x 4 mit 25.00 % Rabatt'
+title: 'B.K.Licht I LED Pendelleuchte inkl. 4x 4W Platinen I 330lm I Höhenverstellbar I 3.000K warmweiß I Länge: 87cm I Echtglas I Matt-Nickel I Deckenlampe'
 date: 2020-09-15 06:49:55
 image: 'https://m.media-amazon.com/images/I/31NMi-p91RL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.00'
 average: '44.99'
 ---
 
-Sie können [B.K.Licht I LED Pendelleuchte inkl. 4x 4W Platinen I 330lm I Höhenverstellbar I 3.000K warmweiß I Länge: 87cm I Echtglas I Matt-Nickel I Deckenlampe](https://www.amazon.de/dp/B01MR5B9NA/?tag=tolees0ca-21) mit Preis 44.99 EUR (original: 59.99 EUR) 25.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![B.K.Licht I LED Pendelleuchte inkl. 4x 4](https://m.media-amazon.com/images/I/31NMi-p91RL._SL400_.jpg)](https://www.amazon.de/dp/B01MR5B9NA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01MR5B9NA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

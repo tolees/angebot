@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motorola TLKR T41 PMR Funkgerät mit LC-D mit 15.37 % Rabatt'
+title: 'Motorola TLKR T41 PMR Funkgerät mit LC-Display grün'
 date: 2020-02-24 20:34:33
 image: 'https://m.media-amazon.com/images/I/51WjkMIunjL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.37'
 average: '25.38'
 ---
 
-Sie können [Motorola TLKR T41 PMR Funkgerät mit LC-Display grün](https://www.amazon.de/dp/B01H3J25BM/?tag=tolees0ca-21) mit Preis 25.38 EUR (original: 29.99 EUR) 15.37 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Motorola TLKR T41 PMR Funkgerät mit LC-D](https://m.media-amazon.com/images/I/51WjkMIunjL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01H3J25BM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01H3J25BM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

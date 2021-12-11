@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kommissarin Lund - Die komplette Serie - mit 33.38 % Rabatt'
+title: 'Kommissarin Lund - Die komplette Serie - 10 Jahre Jubiläums-Edition  20 DVDs '
 date: 2020-02-23 05:05:05
 image: 'https://m.media-amazon.com/images/I/516gn-9Cm8L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.38'
 average: '17.98'
 ---
 
-Sie können [Kommissarin Lund - Die komplette Serie - 10 Jahre Jubiläums-Edition  20 DVDs ](https://www.amazon.de/dp/B01IUWFAMW/?tag=tolees0ca-21) mit Preis 17.98 EUR (original: 26.99 EUR) 33.38 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kommissarin Lund - Die komplette Serie -](https://m.media-amazon.com/images/I/516gn-9Cm8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01IUWFAMW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01IUWFAMW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

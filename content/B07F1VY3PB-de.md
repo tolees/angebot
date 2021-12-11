@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unique Party 79123 Taschen mit 36.14 % Rabatt'
+title: 'Unique Party 79123 Taschen'
 date: 2020-01-13 22:26:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51IHxMq9ZcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.14'
 average: '4.095'
 ---
 
-Sie können [Unique Party 79123 Taschen](https://www.amazon.de/dp/B07F1VY3PB/?tag=tolees0ca-21) mit Preis 2.81 EUR (original: 4.4 EUR) 36.14 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Unique Party 79123 Taschen](https://images-eu.ssl-images-amazon.com/images/I/51IHxMq9ZcL._SL400_.jpg)](https://www.amazon.de/dp/B07F1VY3PB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07F1VY3PB/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.04 % rabat auf Apple iPhone XS  64GB  - Space Grau'
+title: 'Apple iPhone XS  64GB  - Space Grau'
 date: 2020-01-08 23:41:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51t9poOATPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.04'
 average: '730.7833333333333'
 ---
 
-Es gibt ein [Apple iPhone XS  64GB  - Space Grau](https://www.amazon.de/dp/B07HBCCGY8/?tag=tolees0ca-21) mit aktuellem Preis 666 EUR (original: 1149 EUR) 42.04 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Apple iPhone XS  64GB  - Space Grau](https://images-eu.ssl-images-amazon.com/images/I/51t9poOATPL._SL400_.jpg)](https://www.amazon.de/dp/B07HBCCGY8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HBCCGY8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

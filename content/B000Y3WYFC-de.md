@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler Texas Herren Jeans  Blau  Stone mit 35.05 % Rabatt'
+title: 'Wrangler Texas Herren Jeans  Blau  Stonewash  Light blue   40W / 30L'
 date: 2020-03-21 04:54:17
 image: 'https://m.media-amazon.com/images/I/416-orNNs5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.05'
 average: '42.96'
 ---
 
-Sie können [Wrangler Texas Herren Jeans  Blau  Stonewash  Light blue   40W / 30L](https://www.amazon.de/dp/B000Y3WYFC/?tag=tolees0ca-21) mit Preis 51.93 EUR (original: 79.95 EUR) 35.05 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Wrangler Texas Herren Jeans  Blau  Stone](https://m.media-amazon.com/images/I/416-orNNs5L._SL400_.jpg)](https://www.amazon.de/dp/B000Y3WYFC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B000Y3WYFC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

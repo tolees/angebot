@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '34.18 % rabat auf Libratone ZIPP MINI 2 Smart Wireless kle'
+title: 'Libratone ZIPP MINI 2 Smart Wireless kleiner Lautsprecher  Alexa Integration  AirPlay 2  MultiRoom  360° Sound  Wlan  Bluetooth  Spotify Connect  12 Std. Akku  frosty grey'
 date: 2020-03-05 11:32:23
 image: 'https://m.media-amazon.com/images/I/41ZPO17hBPL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.18'
 average: '163.9'
 ---
 
-Es gibt ein [Libratone ZIPP MINI 2 Smart Wireless kleiner Lautsprecher  Alexa Integration  AirPlay 2  MultiRoom  360° Sound  Wlan  Bluetooth  Spotify Connect  12 Std. Akku  frosty grey](https://www.amazon.de/dp/B07H54TJ2M/?tag=tolees0ca-21) mit aktuellem Preis 163.9 EUR (original: 249.0 EUR) 34.18 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Libratone ZIPP MINI 2 Smart Wireless kle](https://m.media-amazon.com/images/I/41ZPO17hBPL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07H54TJ2M/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07H54TJ2M/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

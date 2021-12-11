@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dittzz Technic Offroader Bauset   1:8 2. mit 45.10 % Rabatt'
+title: 'Dittzz Technic Offroader Bauset   1:8 2.4Ghz RC Auto mit Motor und Fernbedienung  2343 Stücke Bausteine Kompatibel mit Lego Technic'
 date: 2020-04-15 07:45:54
 image: 'https://m.media-amazon.com/images/I/51WXSTr8lpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.10'
 average: '136.94238095238097'
 ---
 
-Sie können [Dittzz Technic Offroader Bauset   1:8 2.4Ghz RC Auto mit Motor und Fernbedienung  2343 Stücke Bausteine Kompatibel mit Lego Technic](https://www.amazon.de/dp/B085TB6L1S/?tag=tolees0ca-21) mit Preis 139.99 EUR (original: 254.99 EUR) 45.10 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dittzz Technic Offroader Bauset   1:8 2.](https://m.media-amazon.com/images/I/51WXSTr8lpL._SL400_.jpg)](https://www.amazon.de/dp/B085TB6L1S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B085TB6L1S/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

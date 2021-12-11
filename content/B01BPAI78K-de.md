@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.73 % rabat auf Hugo Boss Bottled Intense Eau De Parfum '
+title: 'Hugo Boss Bottled Intense Eau De Parfum   100 ml'
 date: 2020-03-20 04:45:32
 image: 'https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.73'
 average: '41.5'
 ---
 
-Es gibt ein [Hugo Boss Bottled Intense Eau De Parfum   100 ml](https://www.amazon.de/dp/B01BPAI78K/?tag=tolees0ca-21) mit aktuellem Preis 41.5 EUR (original: 62.62 EUR) 33.73 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hugo Boss Bottled Intense Eau De Parfum ](https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL400_.jpg)](https://www.amazon.de/dp/B01BPAI78K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BPAI78K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

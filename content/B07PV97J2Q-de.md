@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.91 % rabat auf NextBase S2RFCZ Rückfahrkamera Blickwink'
+title: 'NextBase S2RFCZ Rückfahrkamera Blickwinkel horizontal max.=30° Passend 322GW  422GW '
 date: 2020-02-11 12:18:21
 image: 'https://m.media-amazon.com/images/I/212eFti-9oL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.91'
 average: '58.06'
 ---
 
-Es gibt ein [NextBase S2RFCZ Rückfahrkamera Blickwinkel horizontal max.=30° Passend 322GW  422GW ](https://www.amazon.de/dp/B07PV97J2Q/?tag=tolees0ca-21) mit aktuellem Preis 58.06 EUR (original: 99.95 EUR) 41.91 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![NextBase S2RFCZ Rückfahrkamera Blickwink](https://m.media-amazon.com/images/I/212eFti-9oL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07PV97J2Q/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PV97J2Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

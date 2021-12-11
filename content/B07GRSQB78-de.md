@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '63.91 % rabat auf JOMARTO Smart LED Lampe  WIFI Lampe E27 '
+title: 'JOMARTO Smart LED Lampe  WIFI Lampe E27  9W  800LM Smart Lampe Wifi Smart Birne RGBW dimmbar Wlan Glühbirne  APP gesteuert  weißes und buntes Licht  kompatibel mit Google Home  Amazon Alexa'
 date: 2020-02-24 13:07:40
 image: 'https://m.media-amazon.com/images/I/41uVxRJXd-L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.91'
 average: '12.99'
 ---
 
-Es gibt ein [JOMARTO Smart LED Lampe  WIFI Lampe E27  9W  800LM Smart Lampe Wifi Smart Birne RGBW dimmbar Wlan Glühbirne  APP gesteuert  weißes und buntes Licht  kompatibel mit Google Home  Amazon Alexa](https://www.amazon.de/dp/B07GRSQB78/?tag=tolees0ca-21) mit aktuellem Preis 12.99 EUR (original: 35.99 EUR) 63.91 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![JOMARTO Smart LED Lampe  WIFI Lampe E27 ](https://m.media-amazon.com/images/I/41uVxRJXd-L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07GRSQB78/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07GRSQB78/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.58 % rabat auf Kärcher Hochdruckreiniger K 2 Basic  Dru'
+title: 'Kärcher Hochdruckreiniger K 2 Basic  Druck:110 bar  Fördermenge: 360 l/h  Dreckfräser  Hochdruckpistole '
 date: 2020-01-07 16:22:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kz8KQTPtL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.58'
 average: '49.99'
 ---
 
-Es gibt ein [Kärcher Hochdruckreiniger K 2 Basic  Druck:110 bar  Fördermenge: 360 l/h  Dreckfräser  Hochdruckpistole ](https://www.amazon.de/dp/B00HH9QAT2/?tag=tolees0ca-21) mit aktuellem Preis 49.99 EUR (original: 69.99 EUR) 28.58 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kärcher Hochdruckreiniger K 2 Basic  Dru](https://images-eu.ssl-images-amazon.com/images/I/41Kz8KQTPtL._SL400_.jpg)](https://www.amazon.de/dp/B00HH9QAT2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HH9QAT2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

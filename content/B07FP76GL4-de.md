@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.01 % rabat auf LEGO NINJAGO 70664 - Spinjitzu Lloyd vs.'
+title: 'LEGO NINJAGO 70664 - Spinjitzu Lloyd vs. Garmadon'
 date: 2020-03-13 09:12:56
 image: 'https://m.media-amazon.com/images/I/51YaiJl7PZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.01'
 average: '14.263333333333332'
 ---
 
-Es gibt ein [LEGO NINJAGO 70664 - Spinjitzu Lloyd vs. Garmadon](https://www.amazon.de/dp/B07FP76GL4/?tag=tolees0ca-21) mit aktuellem Preis 14.19 EUR (original: 19.99 EUR) 29.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO NINJAGO 70664 - Spinjitzu Lloyd vs.](https://m.media-amazon.com/images/I/51YaiJl7PZL._SL400_.jpg)](https://www.amazon.de/dp/B07FP76GL4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP76GL4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

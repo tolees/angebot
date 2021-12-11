@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.87 % rabat auf Funko Fortnite Pop! Vinyl Figur 459 Rave'
+title: 'Funko Fortnite Pop! Vinyl Figur 459 Raven aus Kunststoff   Geschenkbox.'
 date: 2020-02-18 04:02:34
 image: 'https://m.media-amazon.com/images/I/41NC8NyEcFL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.87'
 average: '12.1525'
 ---
 
-Es gibt ein [Funko Fortnite Pop! Vinyl Figur 459 Raven aus Kunststoff   Geschenkbox.](https://www.amazon.de/dp/B07L48JXFR/?tag=tolees0ca-21) mit aktuellem Preis 11.15 EUR (original: 15.9 EUR) 29.87 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko Fortnite Pop! Vinyl Figur 459 Rave](https://m.media-amazon.com/images/I/41NC8NyEcFL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07L48JXFR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07L48JXFR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

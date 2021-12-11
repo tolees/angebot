@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16.45 % rabat auf Philips TX1BK/00 In-Ear Kopfhörer mit Mi'
+title: 'Philips TX1BK/00 In-Ear Kopfhörer mit Mikrofon schwarz'
 date: 2020-04-26 10:29:05
 image: 'https://m.media-amazon.com/images/I/41ZPC9oRuAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.45'
 average: '14.98'
 ---
 
-Es gibt ein [Philips TX1BK/00 In-Ear Kopfhörer mit Mikrofon schwarz](https://www.amazon.de/dp/B00IFUWHZI/?tag=tolees0ca-21) mit aktuellem Preis 14.98 EUR (original: 17.93 EUR) 16.45 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Philips TX1BK/00 In-Ear Kopfhörer mit Mi](https://m.media-amazon.com/images/I/41ZPC9oRuAL._SL400_.jpg)](https://www.amazon.de/dp/B00IFUWHZI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IFUWHZI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

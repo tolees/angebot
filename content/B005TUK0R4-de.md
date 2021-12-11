@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '60.23 % rabat auf Intex Filteranlagenzubehör - Filterkartu'
+title: 'Intex Filteranlagenzubehör - Filterkartusche - Typ A - 3 Stück'
 date: 2020-09-13 11:12:01
 image: 'https://m.media-amazon.com/images/I/41kDR5Nc43L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.23'
 average: '7.95'
 ---
 
-Es gibt ein [Intex Filteranlagenzubehör - Filterkartusche - Typ A - 3 Stück](https://www.amazon.de/dp/B005TUK0R4/?tag=tolees0ca-21) mit aktuellem Preis 7.95 EUR (original: 19.99 EUR) 60.23 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Intex Filteranlagenzubehör - Filterkartu](https://m.media-amazon.com/images/I/41kDR5Nc43L._SL400_.jpg)](https://www.amazon.de/dp/B005TUK0R4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B005TUK0R4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

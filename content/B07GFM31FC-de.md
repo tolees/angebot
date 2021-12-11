@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'maisterkaio-de Figur Enfys Nest -- Star  mit 30.03 % Rabatt'
+title: 'maisterkaio-de Figur Enfys Nest -- Star Wars --  aus 75215  kompatibel mit anderem Lego '
 date: 2020-03-16 10:41:00
 image: 'https://m.media-amazon.com/images/I/31q5Gw+rMFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.03'
 average: '6.99'
 ---
 
-Sie können [maisterkaio-de Figur Enfys Nest -- Star Wars --  aus 75215  kompatibel mit anderem Lego ](https://www.amazon.de/dp/B07GFM31FC/?tag=tolees0ca-21) mit Preis 6.99 EUR (original: 9.99 EUR) 30.03 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![maisterkaio-de Figur Enfys Nest -- Star ](https://m.media-amazon.com/images/I/31q5Gw+rMFL._SL400_.jpg)](https://www.amazon.de/dp/B07GFM31FC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07GFM31FC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

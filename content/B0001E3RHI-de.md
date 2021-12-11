@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gardena Comfort Rückenspritzgerät 12 l:  mit 26.02 % Rabatt'
+title: 'Gardena Comfort Rückenspritzgerät 12 l: Drucksprühgerät zur Pflege von Pflanzen/Obstgehölzen  auch für Linkshänder  Teleskop-Sprühlanze  885-20 '
 date: 2020-09-12 17:04:52
 image: 'https://m.media-amazon.com/images/I/41i7e6IgV5L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.02'
 average: '79.45'
 ---
 
-Sie können [Gardena Comfort Rückenspritzgerät 12 l: Drucksprühgerät zur Pflege von Pflanzen/Obstgehölzen  auch für Linkshänder  Teleskop-Sprühlanze  885-20 ](https://www.amazon.de/dp/B0001E3RHI/?tag=tolees0ca-21) mit Preis 79.45 EUR (original: 107.4 EUR) 26.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gardena Comfort Rückenspritzgerät 12 l: ](https://m.media-amazon.com/images/I/41i7e6IgV5L._SL400_.jpg)](https://www.amazon.de/dp/B0001E3RHI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0001E3RHI/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

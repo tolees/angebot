@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.74 % rabat auf Ravensburger 24990" Entdecke die Welt Le'
+title: 'Ravensburger 24990" Entdecke die Welt Lernspiel'
 date: 2020-03-25 12:13:56
 image: 'https://m.media-amazon.com/images/I/51fTyeDv2+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.74'
 average: '8.29'
 ---
 
-Es gibt ein [Ravensburger 24990" Entdecke die Welt Lernspiel](https://www.amazon.de/dp/B077Y5JC6Y/?tag=tolees0ca-21) mit aktuellem Preis 8.29 EUR (original: 13.99 EUR) 40.74 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger 24990" Entdecke die Welt Le](https://m.media-amazon.com/images/I/51fTyeDv2+L._SL400_.jpg)](https://www.amazon.de/dp/B077Y5JC6Y/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B077Y5JC6Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

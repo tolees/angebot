@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei MateBook X Pro 35 31 cm  13 9 Zol mit 56.86 % Rabatt'
+title: 'Huawei MateBook X Pro 35 31 cm  13 9 Zoll 3K-FullView-Touchscreen-Display  Notebook  Intel Core i7-8550U  16 GB RAM  512GB SSD  NVIDIA GeForce MX150 mit 2GB GDDR5  Windows 10 Home  grau'
 date: 2020-01-10 13:38:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ObP1eJ%2BlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.86'
 average: '776.0'
 ---
 
-Sie können [Huawei MateBook X Pro 35 31 cm  13 9 Zoll 3K-FullView-Touchscreen-Display  Notebook  Intel Core i7-8550U  16 GB RAM  512GB SSD  NVIDIA GeForce MX150 mit 2GB GDDR5  Windows 10 Home  grau](https://www.amazon.de/dp/B07F8TLP9R/?tag=tolees0ca-21) mit Preis 776 EUR (original: 1799 EUR) 56.86 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Huawei MateBook X Pro 35 31 cm  13 9 Zol](https://images-eu.ssl-images-amazon.com/images/I/41ObP1eJ%2BlL._SL400_.jpg)](https://www.amazon.de/dp/B07F8TLP9R/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07F8TLP9R/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

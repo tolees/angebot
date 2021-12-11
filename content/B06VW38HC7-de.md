@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fossil Smartwatch FTW1203 mit 16.73 % Rabatt'
+title: 'Fossil Smartwatch FTW1203'
 date: 2020-04-27 18:13:33
 image: 'https://m.media-amazon.com/images/I/51ebVRUFASL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.73'
 average: '109.29666666666667'
 ---
 
-Sie können [Fossil Smartwatch FTW1203](https://www.amazon.de/dp/B06VW38HC7/?tag=tolees0ca-21) mit Preis 99.43 EUR (original: 119.4 EUR) 16.73 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Fossil Smartwatch FTW1203](https://m.media-amazon.com/images/I/51ebVRUFASL._SL400_.jpg)](https://www.amazon.de/dp/B06VW38HC7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B06VW38HC7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

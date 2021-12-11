@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.44 % rabat auf LEGO Duplo 10572 - Große Steinebox  Krea'
+title: 'LEGO Duplo 10572 - Große Steinebox  Kreatives Lernspielzeug'
 date: 2020-01-20 04:41:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51madyg7JjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.44'
 average: '19.96'
 ---
 
-Es gibt ein [LEGO Duplo 10572 - Große Steinebox  Kreatives Lernspielzeug](https://www.amazon.de/dp/B00F3B2TVO/?tag=tolees0ca-21) mit aktuellem Preis 19.96 EUR (original: 29.99 EUR) 33.44 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Duplo 10572 - Große Steinebox  Krea](https://images-eu.ssl-images-amazon.com/images/I/51madyg7JjL._SL400_.jpg)](https://www.amazon.de/dp/B00F3B2TVO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00F3B2TVO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

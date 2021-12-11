@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.15 % rabat auf LEGO Creator 31091 - Transporter für Spa'
+title: 'LEGO Creator 31091 - Transporter für Space Shuttle'
 date: 2020-09-17 16:09:04
 image: 'https://m.media-amazon.com/images/I/51lLVYAYurL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.15'
 average: '17.166999999999998'
 ---
 
-Es gibt ein [LEGO Creator 31091 - Transporter für Space Shuttle](https://www.amazon.de/dp/B07FNWD34S/?tag=tolees0ca-21) mit aktuellem Preis 17.99 EUR (original: 24.36 EUR) 26.15 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Creator 31091 - Transporter für Spa](https://m.media-amazon.com/images/I/51lLVYAYurL._SL400_.jpg)](https://www.amazon.de/dp/B07FNWD34S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNWD34S/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

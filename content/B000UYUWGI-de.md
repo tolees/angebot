@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.37 % rabat auf GEDORE E 620 H-1500 Ersatzstiel ROTBAND-'
+title: 'GEDORE E 620 H-1500 Ersatzstiel ROTBAND-Plus Hickory 280 mm'
 date: 2020-10-08 19:41:39
 image: 'https://m.media-amazon.com/images/I/311LUOvw+KL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.37'
 average: '9.99'
 ---
 
-Es gibt ein [GEDORE E 620 H-1500 Ersatzstiel ROTBAND-Plus Hickory 280 mm](https://www.amazon.de/dp/B000UYUWGI/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 15.7 EUR) 36.37 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GEDORE E 620 H-1500 Ersatzstiel ROTBAND-](https://m.media-amazon.com/images/I/311LUOvw+KL._SL400_.jpg)](https://www.amazon.de/dp/B000UYUWGI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000UYUWGI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

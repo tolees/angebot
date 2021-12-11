@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 30850 POP Vinyl Deadpool Parody  M mit 29.95 % Rabatt'
+title: 'Funko 30850 POP Vinyl Deadpool Parody  Multi  Standard'
 date: 2020-07-13 09:16:33
 image: 'https://m.media-amazon.com/images/I/41z59c47HUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.95'
 average: '10.353333333333332'
 ---
 
-Sie können [Funko 30850 POP Vinyl Deadpool Parody  Multi  Standard](https://www.amazon.de/dp/B079TJBCWR/?tag=tolees0ca-21) mit Preis 9.8 EUR (original: 13.99 EUR) 29.95 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 30850 POP Vinyl Deadpool Parody  M](https://m.media-amazon.com/images/I/41z59c47HUL._SL400_.jpg)](https://www.amazon.de/dp/B079TJBCWR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079TJBCWR/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

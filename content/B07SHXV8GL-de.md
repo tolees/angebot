@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.25 % rabat auf Samsung Galaxy S10e Smartphone Bundle  1'
+title: 'Samsung Galaxy S10e Smartphone Bundle  14.7cm  5.8 Zoll  128 GB interner Speicher  6 GB RAM  Dual SIM  Android  prism black  inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] Deutsche Version'
 date: 2020-05-21 06:44:24
 image: 'https://m.media-amazon.com/images/I/31-mJ1ArLzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.25'
 average: '522.9933333333333'
 ---
 
-Es gibt ein [Samsung Galaxy S10e Smartphone Bundle  14.7cm  5.8 Zoll  128 GB interner Speicher  6 GB RAM  Dual SIM  Android  prism black  inkl. 36 Monate Herstellergarantie [Exklusiv bei Amazon] Deutsche Version](https://www.amazon.de/dp/B07SHXV8GL/?tag=tolees0ca-21) mit aktuellem Preis 499.99 EUR (original: 749.0 EUR) 33.25 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung Galaxy S10e Smartphone Bundle  1](https://m.media-amazon.com/images/I/31-mJ1ArLzL._SL400_.jpg)](https://www.amazon.de/dp/B07SHXV8GL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SHXV8GL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

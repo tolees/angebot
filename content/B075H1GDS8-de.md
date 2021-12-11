@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.77 % rabat auf LEGO Duplo 10863 Meine erste Steinebox m'
+title: 'LEGO Duplo 10863 Meine erste Steinebox mit Ziehtieren  Kreatives Spielen'
 date: 2020-10-05 12:38:27
 image: 'https://m.media-amazon.com/images/I/51RwofF2H9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.77'
 average: '21.049473684210533'
 ---
 
-Es gibt ein [LEGO Duplo 10863 Meine erste Steinebox mit Ziehtieren  Kreatives Spielen](https://www.amazon.de/dp/B075H1GDS8/?tag=tolees0ca-21) mit aktuellem Preis 21.99 EUR (original: 29.23 EUR) 24.77 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Duplo 10863 Meine erste Steinebox m](https://m.media-amazon.com/images/I/51RwofF2H9L._SL400_.jpg)](https://www.amazon.de/dp/B075H1GDS8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B075H1GDS8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

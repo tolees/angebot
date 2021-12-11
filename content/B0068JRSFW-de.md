@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.35 % rabat auf Ravensburger – 22099 – Lernspiel – Memor'
+title: 'Ravensburger – 22099 – Lernspiel – Memory  Dinosaurier'
 date: 2020-04-15 00:09:24
 image: 'https://m.media-amazon.com/images/I/61MRch3s4QL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.35'
 average: '16.158'
 ---
 
-Es gibt ein [Ravensburger – 22099 – Lernspiel – Memory  Dinosaurier](https://www.amazon.de/dp/B0068JRSFW/?tag=tolees0ca-21) mit aktuellem Preis 20.99 EUR (original: 28.89 EUR) 27.35 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger – 22099 – Lernspiel – Memor](https://m.media-amazon.com/images/I/61MRch3s4QL._SL400_.jpg)](https://www.amazon.de/dp/B0068JRSFW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0068JRSFW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HUAWEI Cover PU Case P30 Pro  Schwarz mit 45.46 % Rabatt'
+title: 'HUAWEI Cover PU Case P30 Pro  Schwarz'
 date: 2020-05-31 11:27:04
 image: 'https://m.media-amazon.com/images/I/413Xa3igldL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.46'
 average: '13.63'
 ---
 
-Sie können [HUAWEI Cover PU Case P30 Pro  Schwarz](https://www.amazon.de/dp/B07PDSWKC3/?tag=tolees0ca-21) mit Preis 13.63 EUR (original: 24.99 EUR) 45.46 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HUAWEI Cover PU Case P30 Pro  Schwarz](https://m.media-amazon.com/images/I/413Xa3igldL._SL400_.jpg)](https://www.amazon.de/dp/B07PDSWKC3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PDSWKC3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

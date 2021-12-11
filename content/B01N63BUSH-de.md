@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Nexo Ritter macht Strandtuch mit 64.03 % Rabatt'
+title: 'LEGO Nexo Ritter macht Strandtuch'
 date: 2020-04-07 13:03:33
 image: 'https://m.media-amazon.com/images/I/51JmM-2IytL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.03'
 average: '8.99'
 ---
 
-Sie können [LEGO Nexo Ritter macht Strandtuch](https://www.amazon.de/dp/B01N63BUSH/?tag=tolees0ca-21) mit Preis 8.99 EUR (original: 24.99 EUR) 64.03 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Nexo Ritter macht Strandtuch](https://m.media-amazon.com/images/I/51JmM-2IytL._SL400_.jpg)](https://www.amazon.de/dp/B01N63BUSH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01N63BUSH/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

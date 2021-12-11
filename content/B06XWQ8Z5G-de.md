@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Live At Rockpalast mit 29.99 % Rabatt'
+title: 'Live At Rockpalast'
 date: 2020-09-16 05:46:55
 image: 'https://m.media-amazon.com/images/I/41-BdRwmOHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.99'
 average: '13.91'
 ---
 
-Sie können [Live At Rockpalast](https://www.amazon.de/dp/B06XWQ8Z5G/?tag=tolees0ca-21) mit Preis 13.91 EUR (original: 19.87 EUR) 29.99 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Live At Rockpalast](https://m.media-amazon.com/images/I/41-BdRwmOHL._SL400_.jpg)](https://www.amazon.de/dp/B06XWQ8Z5G/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B06XWQ8Z5G/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

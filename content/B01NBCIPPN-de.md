@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 4717 Movie S1 No Actionfigur The G mit 50.54 % Rabatt'
+title: 'Funko 4717 Movie S1 No Actionfigur The Godfather: Fredo Corleone  Multi'
 date: 2020-02-19 11:58:02
 image: 'https://m.media-amazon.com/images/I/51wJcGyrNaL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.54'
 average: '9.1975'
 ---
 
-Sie können [Funko 4717 Movie S1 No Actionfigur The Godfather: Fredo Corleone  Multi](https://www.amazon.de/dp/B01NBCIPPN/?tag=tolees0ca-21) mit Preis 6.92 EUR (original: 13.99 EUR) 50.54 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 4717 Movie S1 No Actionfigur The G](https://m.media-amazon.com/images/I/51wJcGyrNaL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01NBCIPPN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01NBCIPPN/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

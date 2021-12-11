@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dell Inspiron 13 7000 7370-9702 33 78 cm mit 46.11 % Rabatt'
+title: 'Dell Inspiron 13 7000 7370-9702 33 78 cm  13 3 Zoll FHD  Laptop  Intel Core i7  16GB RAM  512GB SSD  Intel HD Grafik  Windows 10  silber'
 date: 2020-01-13 20:26:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AFqakYs3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.11'
 average: '700'
 ---
 
-Sie können [Dell Inspiron 13 7000 7370-9702 33 78 cm  13 3 Zoll FHD  Laptop  Intel Core i7  16GB RAM  512GB SSD  Intel HD Grafik  Windows 10  silber](https://www.amazon.de/dp/B076HG1HC5/?tag=tolees0ca-21) mit Preis 700 EUR (original: 1299 EUR) 46.11 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dell Inspiron 13 7000 7370-9702 33 78 cm](https://images-eu.ssl-images-amazon.com/images/I/51AFqakYs3L._SL400_.jpg)](https://www.amazon.de/dp/B076HG1HC5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B076HG1HC5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

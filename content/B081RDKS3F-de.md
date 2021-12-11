@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego Te mit 33.34 % Rabatt'
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Technic Autotransporter Kompatibel Mit Lego 42098 Bausteinen Modell - Ohne Lego Set'
 date: 2020-03-04 02:55:46
 image: 'https://m.media-amazon.com/images/I/51rNEBLy9hL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.34'
 average: '99.99'
 ---
 
-Sie können [BRIKSMAX Led Beleuchtungsset für Lego Technic Autotransporter Kompatibel Mit Lego 42098 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B081RDKS3F/?tag=tolees0ca-21) mit Preis 99.99 EUR (original: 149.99 EUR) 33.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego Te](https://m.media-amazon.com/images/I/51rNEBLy9hL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B081RDKS3F/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B081RDKS3F/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

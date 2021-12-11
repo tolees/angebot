@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Damen Perfect Vneck T-Shirt  Weiß mit 22.40 % Rabatt'
+title: 'Levi s Damen Perfect Vneck T-Shirt  Weiß  White + 0002   Medium'
 date: 2020-10-06 17:53:44
 image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.40'
 average: '16.8'
 ---
 
-Sie können [Levi s Damen Perfect Vneck T-Shirt  Weiß  White + 0002   Medium](https://www.amazon.de/dp/B07RY9L9YW/?tag=tolees0ca-21) mit Preis 19.4 EUR (original: 25.0 EUR) 22.40 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Levi s Damen Perfect Vneck T-Shirt  Weiß](https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg)](https://www.amazon.de/dp/B07RY9L9YW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07RY9L9YW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

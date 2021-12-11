@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Herlitz  10999753  Schulfüllhalter  inkl mit 16.14 % Rabatt'
+title: 'Herlitz  10999753  Schulfüllhalter  inkl. Patrone  -Für Rechtshänder  Minze/Lila'
 date: 2020-09-18 06:00:27
 image: 'https://m.media-amazon.com/images/I/31t3oF+Y2ZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.14'
 average: '4.0'
 ---
 
-Sie können [Herlitz  10999753  Schulfüllhalter  inkl. Patrone  -Für Rechtshänder  Minze/Lila](https://www.amazon.de/dp/B001R8D5AG/?tag=tolees0ca-21) mit Preis 4.0 EUR (original: 4.77 EUR) 16.14 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Herlitz  10999753  Schulfüllhalter  inkl](https://m.media-amazon.com/images/I/31t3oF+Y2ZL._SL400_.jpg)](https://www.amazon.de/dp/B001R8D5AG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B001R8D5AG/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

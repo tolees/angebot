@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.38 % rabat auf TP-Link Kasa Amazon Alexa zubehör Smart '
+title: 'TP-Link Kasa Amazon Alexa zubehör Smart Home WLAN Steckdose HS100  EU  funktionieren mit Echo und Echo Dot  Google Home und IFTTT  Fernzugriff  Zeitpläne  Kein Hub erforderlich  Kasa App '
 date: 2020-09-16 16:22:44
 image: 'https://m.media-amazon.com/images/I/3179Pl-TRFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.38'
 average: '13.9'
 ---
 
-Es gibt ein [TP-Link Kasa Amazon Alexa zubehör Smart Home WLAN Steckdose HS100  EU  funktionieren mit Echo und Echo Dot  Google Home und IFTTT  Fernzugriff  Zeitpläne  Kein Hub erforderlich  Kasa App ](https://www.amazon.de/dp/B06W586CDZ/?tag=tolees0ca-21) mit aktuellem Preis 13.9 EUR (original: 24.99 EUR) 44.38 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![TP-Link Kasa Amazon Alexa zubehör Smart ](https://m.media-amazon.com/images/I/3179Pl-TRFL._SL400_.jpg)](https://www.amazon.de/dp/B06W586CDZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06W586CDZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DJI - Smart Battery für Mavic 2 Pro und  mit 16.63 % Rabatt'
+title: 'DJI - Smart Battery für Mavic 2 Pro und Mavic 2 Zoom | Flugzeiten Ihrer Drohne verlängern | Schützt vor Überlastung | Maximale Kapazität 59 29 Wh | Flugzeit 31 Minuten'
 date: 2020-01-30 08:48:11
 image: 'https://m.media-amazon.com/images/I/41P0zVDVUxL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.63'
 average: '115.89'
 ---
 
-Sie können [DJI - Smart Battery für Mavic 2 Pro und Mavic 2 Zoom | Flugzeiten Ihrer Drohne verlängern | Schützt vor Überlastung | Maximale Kapazität 59 29 Wh | Flugzeit 31 Minuten](https://www.amazon.de/dp/B07GND5TSJ/?tag=tolees0ca-21) mit Preis 115.89 EUR (original: 139.0 EUR) 16.63 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![DJI - Smart Battery für Mavic 2 Pro und ](https://m.media-amazon.com/images/I/41P0zVDVUxL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07GND5TSJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07GND5TSJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

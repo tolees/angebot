@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Pavilion Gaming 17-cd0228ng  17 3 Zol mit 48.89 % Rabatt'
+title: 'HP Pavilion Gaming 17-cd0228ng  17 3 Zoll / FHD IPS 144Hz  Notebook  Intel Core i7-9750H  16GB DDR4 RAM  1TB HDD  512GB SSD  Nvidia GeForce GTX 1660Ti Max-Q 6GB DDR6  Windows 10  schwarz/grün'
 date: 2020-04-13 07:49:44
 image: 'https://m.media-amazon.com/images/I/41xyYypYaKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.89'
 average: '585.0'
 ---
 
-Sie können [HP Pavilion Gaming 17-cd0228ng  17 3 Zoll / FHD IPS 144Hz  Notebook  Intel Core i7-9750H  16GB DDR4 RAM  1TB HDD  512GB SSD  Nvidia GeForce GTX 1660Ti Max-Q 6GB DDR6  Windows 10  schwarz/grün](https://www.amazon.de/dp/B07S6KP8P7/?tag=tolees0ca-21) mit Preis 715.0 EUR (original: 1399.0 EUR) 48.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HP Pavilion Gaming 17-cd0228ng  17 3 Zol](https://m.media-amazon.com/images/I/41xyYypYaKL._SL400_.jpg)](https://www.amazon.de/dp/B07S6KP8P7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07S6KP8P7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

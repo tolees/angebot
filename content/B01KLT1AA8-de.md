@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.00 % rabat auf Skagen Unisex Hybrid Smartwatch SKT1104'
+title: 'Skagen Unisex Hybrid Smartwatch SKT1104'
 date: 2020-02-05 12:05:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41q%2BH-veJgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '119.4'
 ---
 
-Es gibt ein [Skagen Unisex Hybrid Smartwatch SKT1104](https://www.amazon.de/dp/B01KLT1AA8/?tag=tolees0ca-21) mit aktuellem Preis 119.4 EUR (original: 199 EUR) 40.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Skagen Unisex Hybrid Smartwatch SKT1104](https://images-eu.ssl-images-amazon.com/images/I/41q%2BH-veJgL._SL400_.jpg)](https://www.amazon.de/dp/B01KLT1AA8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01KLT1AA8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

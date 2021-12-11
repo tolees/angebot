@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego St mit 41.67 % Rabatt'
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Star Wars Imperial Star Destroyer  Kompatibel Mit Lego 75055 Bausteinen Modell - Ohne Lego Set'
 date: 2020-04-16 08:23:28
 image: 'https://m.media-amazon.com/images/I/51oPpWZbERL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.67'
 average: '34.99'
 ---
 
-Sie können [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Imperial Star Destroyer  Kompatibel Mit Lego 75055 Bausteinen Modell - Ohne Lego Set](https://www.amazon.de/dp/B07SYJP3TR/?tag=tolees0ca-21) mit Preis 34.99 EUR (original: 59.99 EUR) 41.67 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![BRIKSMAX Led Beleuchtungsset für Lego St](https://m.media-amazon.com/images/I/51oPpWZbERL._SL400_.jpg)](https://www.amazon.de/dp/B07SYJP3TR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07SYJP3TR/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

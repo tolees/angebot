@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.35 % rabat auf Led Leuchtmittel E27 Warmweiß 12W  Lampe'
+title: 'Led Leuchtmittel E27 Warmweiß 12W  Lampe Licht 3000K 984 Lumen  Birnen Abstrahlwinkel 280 Grad Tropfen Energiesparlampe 5er Verpack'
 date: 2020-08-25 06:17:14
 image: 'https://m.media-amazon.com/images/I/412clAxpISL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.35'
 average: '11.19'
 ---
 
-Es gibt ein [Led Leuchtmittel E27 Warmweiß 12W  Lampe Licht 3000K 984 Lumen  Birnen Abstrahlwinkel 280 Grad Tropfen Energiesparlampe 5er Verpack](https://www.amazon.de/dp/B07D8KTZSK/?tag=tolees0ca-21) mit aktuellem Preis 11.19 EUR (original: 14.99 EUR) 25.35 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Led Leuchtmittel E27 Warmweiß 12W  Lampe](https://m.media-amazon.com/images/I/412clAxpISL._SL400_.jpg)](https://www.amazon.de/dp/B07D8KTZSK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07D8KTZSK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

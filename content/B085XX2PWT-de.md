@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.00 % rabat auf Dittzz Technic Auto Bausteine   Auto Bau'
+title: 'Dittzz Technic Auto Bausteine   Auto Bauset  3358 Teiles Bausteine Kompatibel mit Lego Technic'
 date: 2020-04-03 21:02:12
 image: 'https://m.media-amazon.com/images/I/515PDcckSyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '139.99'
 ---
 
-Es gibt ein [Dittzz Technic Auto Bausteine   Auto Bauset  3358 Teiles Bausteine Kompatibel mit Lego Technic](https://www.amazon.de/dp/B085XX2PWT/?tag=tolees0ca-21) mit aktuellem Preis 139.99 EUR (original: 199.99 EUR) 30.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dittzz Technic Auto Bausteine   Auto Bau](https://m.media-amazon.com/images/I/515PDcckSyL._SL400_.jpg)](https://www.amazon.de/dp/B085XX2PWT/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B085XX2PWT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

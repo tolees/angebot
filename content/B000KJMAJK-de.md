@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.74 % rabat auf AVERY Zweckform 1725 Auftrag  A5  2x40 B'
+title: 'AVERY Zweckform 1725 Auftrag  A5  2x40 Blatt  selbstdurchschreibend mit farbigem Durchschlag  zur systematischen Erfassung aller relevanten Auftragspositionen  weiß/gelb'
 date: 2020-07-16 05:06:07
 image: 'https://m.media-amazon.com/images/I/61yfCQ0MaxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.74'
 average: '5.35'
 ---
 
-Es gibt ein [AVERY Zweckform 1725 Auftrag  A5  2x40 Blatt  selbstdurchschreibend mit farbigem Durchschlag  zur systematischen Erfassung aller relevanten Auftragspositionen  weiß/gelb](https://www.amazon.de/dp/B000KJMAJK/?tag=tolees0ca-21) mit aktuellem Preis 5.35 EUR (original: 6.75 EUR) 20.74 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![AVERY Zweckform 1725 Auftrag  A5  2x40 B](https://m.media-amazon.com/images/I/61yfCQ0MaxL._SL400_.jpg)](https://www.amazon.de/dp/B000KJMAJK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000KJMAJK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

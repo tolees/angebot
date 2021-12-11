@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.89 % rabat auf Bosch Professional Diamant-Dosensenker m'
+title: 'Bosch Professional Diamant-Dosensenker mit Power-Change-Adapter  Ø 68 mm '
 date: 2020-10-05 11:36:07
 image: 'https://m.media-amazon.com/images/I/31wn66vQ8fL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.89'
 average: '23.49'
 ---
 
-Es gibt ein [Bosch Professional Diamant-Dosensenker mit Power-Change-Adapter  Ø 68 mm ](https://www.amazon.de/dp/B0014GQZTO/?tag=tolees0ca-21) mit aktuellem Preis 23.49 EUR (original: 33.99 EUR) 30.89 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Professional Diamant-Dosensenker m](https://m.media-amazon.com/images/I/31wn66vQ8fL._SL400_.jpg)](https://www.amazon.de/dp/B0014GQZTO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0014GQZTO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

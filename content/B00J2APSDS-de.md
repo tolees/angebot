@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.04 % rabat auf Birkenstock Madrid EVA  Damen Pantolette'
+title: 'Birkenstock Madrid EVA  Damen Pantoletten  Weiß  White   40 EU'
 date: 2020-10-12 16:19:39
 image: 'https://m.media-amazon.com/images/I/21rBE6El6hL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.04'
 average: '19.99'
 ---
 
-Es gibt ein [Birkenstock Madrid EVA  Damen Pantoletten  Weiß  White   40 EU](https://www.amazon.de/dp/B00J2APSDS/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 25.0 EUR) 20.04 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Birkenstock Madrid EVA  Damen Pantolette](https://m.media-amazon.com/images/I/21rBE6El6hL._SL400_.jpg)](https://www.amazon.de/dp/B00J2APSDS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00J2APSDS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

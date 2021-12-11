@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Intel BX80671I76950X Core i7-6950X Proze mit 30.89 % Rabatt'
+title: 'Intel BX80671I76950X Core i7-6950X Prozessor schwarz'
 date: 2020-02-13 13:18:07
 image: 'https://m.media-amazon.com/images/I/51xql2lzYgL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.89'
 average: '895.0'
 ---
 
-Sie können [Intel BX80671I76950X Core i7-6950X Prozessor schwarz](https://www.amazon.de/dp/B01FJLA9IM/?tag=tolees0ca-21) mit Preis 895.0 EUR (original: 1295.0 EUR) 30.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Intel BX80671I76950X Core i7-6950X Proze](https://m.media-amazon.com/images/I/51xql2lzYgL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01FJLA9IM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01FJLA9IM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hue White & Col. Amb. Sana Wandleuchte s mit 20.29 % Rabatt'
+title: 'Hue White & Col. Amb. Sana Wandleuchte schwarz 1500lm Bluetooth'
 date: 2020-03-03 04:56:34
 image: 'https://m.media-amazon.com/images/I/41zXvdLIpKL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.29'
 average: '135.5'
 ---
 
-Sie können [Hue White & Col. Amb. Sana Wandleuchte schwarz 1500lm Bluetooth](https://www.amazon.de/dp/B07ST67HFW/?tag=tolees0ca-21) mit Preis 135.5 EUR (original: 169.99 EUR) 20.29 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hue White & Col. Amb. Sana Wandleuchte s](https://m.media-amazon.com/images/I/41zXvdLIpKL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07ST67HFW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07ST67HFW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

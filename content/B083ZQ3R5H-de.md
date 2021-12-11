@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dittzz Acryl Vitrine  Staubdicht Schauka mit 30.00 % Rabatt'
+title: 'Dittzz Acryl Vitrine  Staubdicht Schaukasten Display Case für Lego 42096 Technic Porsche 911 RSR  Ohne Lego-Modelle '
 date: 2020-04-07 05:08:00
 image: 'https://m.media-amazon.com/images/I/411YAEKbe7L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.00'
 average: '125.99'
 ---
 
-Sie können [Dittzz Acryl Vitrine  Staubdicht Schaukasten Display Case für Lego 42096 Technic Porsche 911 RSR  Ohne Lego-Modelle ](https://www.amazon.de/dp/B083ZQ3R5H/?tag=tolees0ca-21) mit Preis 125.99 EUR (original: 179.99 EUR) 30.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dittzz Acryl Vitrine  Staubdicht Schauka](https://m.media-amazon.com/images/I/411YAEKbe7L._SL400_.jpg)](https://www.amazon.de/dp/B083ZQ3R5H/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B083ZQ3R5H/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

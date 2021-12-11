@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony HT-RT4  5.1 Soundbar System  600W   mit 42.61 % Rabatt'
+title: 'Sony HT-RT4  5.1 Soundbar System  600W  hohe Rücklautsprechern  HDMI  USB  NFC/Bluetooth  schwarz'
 date: 2020-01-28 20:29:22
 image: 'https://m.media-amazon.com/images/I/31D3vZ0T-QL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.61'
 average: '219.0'
 ---
 
-Sie können [Sony HT-RT4  5.1 Soundbar System  600W  hohe Rücklautsprechern  HDMI  USB  NFC/Bluetooth  schwarz](https://www.amazon.de/dp/B0725FTG7Y/?tag=tolees0ca-21) mit Preis 229.0 EUR (original: 399.0 EUR) 42.61 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony HT-RT4  5.1 Soundbar System  600W  ](https://m.media-amazon.com/images/I/31D3vZ0T-QL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0725FTG7Y/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0725FTG7Y/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

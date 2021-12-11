@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Laser Entfernungsmesser  Meterk Distanzm mit 30.56 % Rabatt'
+title: 'Laser Entfernungsmesser  Meterk Distanzmessgerät Messbereich: 0 05-40m Genauigkeit:±2 mm mit M/In/Ft Datenspeicherfunktion LCD Display Hintergrundbeleuchtung Elektronische Ebene'
 date: 2020-04-22 14:23:03
 image: 'https://m.media-amazon.com/images/I/51tFSxBVmUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.56'
 average: '25.24'
 ---
 
-Sie können [Laser Entfernungsmesser  Meterk Distanzmessgerät Messbereich: 0 05-40m Genauigkeit:±2 mm mit M/In/Ft Datenspeicherfunktion LCD Display Hintergrundbeleuchtung Elektronische Ebene](https://www.amazon.de/dp/B07CM1BNPQ/?tag=tolees0ca-21) mit Preis 24.99 EUR (original: 35.99 EUR) 30.56 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Laser Entfernungsmesser  Meterk Distanzm](https://m.media-amazon.com/images/I/51tFSxBVmUL._SL400_.jpg)](https://www.amazon.de/dp/B07CM1BNPQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07CM1BNPQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

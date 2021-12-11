@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '17.21 % rabat auf waytoplay  24 Autobahn  Building Set  Sc'
+title: 'waytoplay  24 Autobahn  Building Set  Schwarz mit Weiß Striping'
 date: 2020-03-03 04:55:27
 image: 'https://m.media-amazon.com/images/I/41AHVV-rHxL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.21'
 average: '50.19'
 ---
 
-Es gibt ein [waytoplay  24 Autobahn  Building Set  Schwarz mit Weiß Striping](https://www.amazon.de/dp/B076CWTFMH/?tag=tolees0ca-21) mit aktuellem Preis 50.19 EUR (original: 60.62 EUR) 17.21 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![waytoplay  24 Autobahn  Building Set  Sc](https://m.media-amazon.com/images/I/41AHVV-rHxL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B076CWTFMH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B076CWTFMH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

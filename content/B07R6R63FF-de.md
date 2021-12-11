@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WEB EYEWEAR Herren WE0261 Sonnenbrille   mit 48.30 % Rabatt'
+title: 'WEB EYEWEAR Herren WE0261 Sonnenbrille  Schwarz  60 EU'
 date: 2020-04-12 17:23:44
 image: 'https://m.media-amazon.com/images/I/31TcpAPigPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.30'
 average: '91.0'
 ---
 
-Sie können [WEB EYEWEAR Herren WE0261 Sonnenbrille  Schwarz  60 EU](https://www.amazon.de/dp/B07R6R63FF/?tag=tolees0ca-21) mit Preis 91.0 EUR (original: 176.0 EUR) 48.30 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![WEB EYEWEAR Herren WE0261 Sonnenbrille  ](https://m.media-amazon.com/images/I/31TcpAPigPL._SL400_.jpg)](https://www.amazon.de/dp/B07R6R63FF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07R6R63FF/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

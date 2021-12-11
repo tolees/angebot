@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.02 % rabat auf Multifunktionswerkzeug  GOXAWEE Drehwerk'
+title: 'Multifunktionswerkzeug  GOXAWEE Drehwerkzeug mit 140 Zubehör  Multipro Schnellspannbohrfutter und Biegsame Welle für Handwerker und Heimwerker'
 date: 2020-06-11 05:06:32
 image: 'https://m.media-amazon.com/images/I/5141JO1w7gL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.02'
 average: '44.98'
 ---
 
-Es gibt ein [Multifunktionswerkzeug  GOXAWEE Drehwerkzeug mit 140 Zubehör  Multipro Schnellspannbohrfutter und Biegsame Welle für Handwerker und Heimwerker](https://www.amazon.de/dp/B07M8LFKVS/?tag=tolees0ca-21) mit aktuellem Preis 44.98 EUR (original: 59.99 EUR) 25.02 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Multifunktionswerkzeug  GOXAWEE Drehwerk](https://m.media-amazon.com/images/I/5141JO1w7gL._SL400_.jpg)](https://www.amazon.de/dp/B07M8LFKVS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07M8LFKVS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

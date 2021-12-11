@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '47.39 % rabat auf OSOYOO Electricity Science Experiment Ki'
+title: 'OSOYOO Electricity Science Experiment Kit for Kids | Parallel Series Circuit Building Learning Project | Energy Problem Solving Set for Students | Stimulate Early STEM Intelligence IQ for Girl Boy'
 date: 2020-09-15 15:07:36
 image: 'https://m.media-amazon.com/images/I/512UB3AxC+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.39'
 average: '9.99'
 ---
 
-Es gibt ein [OSOYOO Electricity Science Experiment Kit for Kids | Parallel Series Circuit Building Learning Project | Energy Problem Solving Set for Students | Stimulate Early STEM Intelligence IQ for Girl Boy](https://www.amazon.de/dp/B07F486HVB/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 18.99 EUR) 47.39 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![OSOYOO Electricity Science Experiment Ki](https://m.media-amazon.com/images/I/512UB3AxC+L._SL400_.jpg)](https://www.amazon.de/dp/B07F486HVB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07F486HVB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

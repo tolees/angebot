@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '15.22 % rabat auf Darda 50251 - Darda Rennbahn DTM Speed C'
+title: 'Darda 50251 - Darda Rennbahn DTM Speed Champion  Fahrbahnlänge ca. 3 80 m  mit 2 Loopings  Steilkurve und DTM Rennwagen BMW M4 Farfus  Rennauto Spielset für Kinder ab 5 Jahre  1 Aufbauvarianten'
 date: 2020-04-15 00:04:59
 image: 'https://m.media-amazon.com/images/I/51mFiZrzilL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.22'
 average: '19.99'
 ---
 
-Es gibt ein [Darda 50251 - Darda Rennbahn DTM Speed Champion  Fahrbahnlänge ca. 3 80 m  mit 2 Loopings  Steilkurve und DTM Rennwagen BMW M4 Farfus  Rennauto Spielset für Kinder ab 5 Jahre  1 Aufbauvarianten](https://www.amazon.de/dp/B01720JOIO/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 23.58 EUR) 15.22 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Darda 50251 - Darda Rennbahn DTM Speed C](https://m.media-amazon.com/images/I/51mFiZrzilL._SL400_.jpg)](https://www.amazon.de/dp/B01720JOIO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01720JOIO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

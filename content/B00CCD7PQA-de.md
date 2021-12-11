@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Herren U SYMBOL D Derby  Schwarz  B mit 23.26 % Rabatt'
+title: 'Geox Herren U SYMBOL D Derby  Schwarz  BLACKC9999   42 EU'
 date: 2020-03-28 18:29:02
 image: 'https://m.media-amazon.com/images/I/31rc7-ooGJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.26'
 average: '76.7'
 ---
 
-Sie können [Geox Herren U SYMBOL D Derby  Schwarz  BLACKC9999   42 EU](https://www.amazon.de/dp/B00CCD7PQA/?tag=tolees0ca-21) mit Preis 76.7 EUR (original: 99.95 EUR) 23.26 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Geox Herren U SYMBOL D Derby  Schwarz  B](https://m.media-amazon.com/images/I/31rc7-ooGJL._SL400_.jpg)](https://www.amazon.de/dp/B00CCD7PQA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00CCD7PQA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.17 % rabat auf Samsung RB8000 RL36R8739S9/EG Kühl-/Gefr'
+title: 'Samsung RB8000 RL36R8739S9/EG Kühl-/Gefrierkombination  202 cm  A++  357 L  Premium Edelstahl Look  Kitchen Fit  Cool Select Plus  Grifflicht'
 date: 2020-04-15 00:03:57
 image: 'https://m.media-amazon.com/images/I/21W0sk-yaML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.17'
 average: '653.5799999999999'
 ---
 
-Es gibt ein [Samsung RB8000 RL36R8739S9/EG Kühl-/Gefrierkombination  202 cm  A++  357 L  Premium Edelstahl Look  Kitchen Fit  Cool Select Plus  Grifflicht](https://www.amazon.de/dp/B07PM6SDKK/?tag=tolees0ca-21) mit aktuellem Preis 687.45 EUR (original: 1149.0 EUR) 40.17 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung RB8000 RL36R8739S9/EG Kühl-/Gefr](https://m.media-amazon.com/images/I/21W0sk-yaML._SL400_.jpg)](https://www.amazon.de/dp/B07PM6SDKK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PM6SDKK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

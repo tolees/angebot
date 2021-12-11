@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.01 % rabat auf Die Sims 4 - Hunde & Katzen Edition DLC '
+title: 'Die Sims 4 - Hunde & Katzen Edition DLC [PC Download – Origin Code]'
 date: 2020-02-19 11:35:37
 image: 'https://m.media-amazon.com/images/I/513wjzqA3OL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.01'
 average: '19.99'
 ---
 
-Es gibt ein [Die Sims 4 - Hunde & Katzen Edition DLC [PC Download – Origin Code]](https://www.amazon.de/dp/B074WRN2PW/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 39.99 EUR) 50.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Die Sims 4 - Hunde & Katzen Edition DLC ](https://m.media-amazon.com/images/I/513wjzqA3OL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B074WRN2PW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B074WRN2PW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

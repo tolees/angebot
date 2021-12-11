@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.79 % rabat auf 10.000 Days'
+title: '10.000 Days'
 date: 2020-04-16 08:40:00
 image: 'https://m.media-amazon.com/images/I/51VxH5+HiYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.79'
 average: '12.383333333333333'
 ---
 
-Es gibt ein [10.000 Days](https://www.amazon.de/dp/B000EULJLU/?tag=tolees0ca-21) mit aktuellem Preis 9.77 EUR (original: 12.99 EUR) 24.79 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![10.000 Days](https://m.media-amazon.com/images/I/51VxH5+HiYL._SL400_.jpg)](https://www.amazon.de/dp/B000EULJLU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000EULJLU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

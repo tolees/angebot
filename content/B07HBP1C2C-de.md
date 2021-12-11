@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.65 % rabat auf Apple iPhone XS  64GB  - Silber'
+title: 'Apple iPhone XS  64GB  - Silber'
 date: 2020-04-22 06:54:12
 image: 'https://m.media-amazon.com/images/I/51aEaDIrljL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.65'
 average: '714.9725'
 ---
 
-Es gibt ein [Apple iPhone XS  64GB  - Silber](https://www.amazon.de/dp/B07HBP1C2C/?tag=tolees0ca-21) mit aktuellem Preis 659.0 EUR (original: 1149.0 EUR) 42.65 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Apple iPhone XS  64GB  - Silber](https://m.media-amazon.com/images/I/51aEaDIrljL._SL400_.jpg)](https://www.amazon.de/dp/B07HBP1C2C/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HBP1C2C/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

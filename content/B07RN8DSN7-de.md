@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 44154 POP Bobble Marvel: 80th-Firs mit 18.39 % Rabatt'
+title: 'Funko 44154 POP Bobble Marvel: 80th-First Appearance: Deadpool Actionfigur  Mehrfarben'
 date: 2020-03-18 21:06:47
 image: 'https://m.media-amazon.com/images/I/41sPQgZySVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.39'
 average: '9.139599999999998'
 ---
 
-Sie können [Funko 44154 POP Bobble Marvel: 80th-First Appearance: Deadpool Actionfigur  Mehrfarben](https://www.amazon.de/dp/B07RN8DSN7/?tag=tolees0ca-21) mit Preis 7.99 EUR (original: 9.79 EUR) 18.39 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 44154 POP Bobble Marvel: 80th-Firs](https://m.media-amazon.com/images/I/41sPQgZySVL._SL400_.jpg)](https://www.amazon.de/dp/B07RN8DSN7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07RN8DSN7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

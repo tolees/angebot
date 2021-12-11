@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.80 % rabat auf Crucial Ballistix Sport LT BLS8G4D30AESB'
+title: 'Crucial Ballistix Sport LT BLS8G4D30AESBK Desktop Gaming Speicher  3000 MHz  DDR4  DRAM  8GB  CL15  grau'
 date: 2020-02-03 00:00:27
 image: 'https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.80'
 average: '28.8'
 ---
 
-Es gibt ein [Crucial Ballistix Sport LT BLS8G4D30AESBK Desktop Gaming Speicher  3000 MHz  DDR4  DRAM  8GB  CL15  grau](https://www.amazon.de/dp/B07MNJN8BB/?tag=tolees0ca-21) mit aktuellem Preis 28.8 EUR (original: 40.45 EUR) 28.80 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Crucial Ballistix Sport LT BLS8G4D30AESB](https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07MNJN8BB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MNJN8BB/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

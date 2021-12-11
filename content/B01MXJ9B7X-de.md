@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maxi-Cosi CabrioFix Babyschale Gruppe 0+ mit 16.09 % Rabatt'
+title: 'Maxi-Cosi CabrioFix Babyschale Gruppe 0+  nutzbar ab der Geburt - 12 Monate  ca. 0 - 13 kg  schwarz'
 date: 2020-02-04 14:59:47
 image: 'https://m.media-amazon.com/images/I/413HzRsAU4L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.09'
 average: '109.0'
 ---
 
-Sie können [Maxi-Cosi CabrioFix Babyschale Gruppe 0+  nutzbar ab der Geburt - 12 Monate  ca. 0 - 13 kg  schwarz](https://www.amazon.de/dp/B01MXJ9B7X/?tag=tolees0ca-21) mit Preis 109.0 EUR (original: 129.9 EUR) 16.09 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Maxi-Cosi CabrioFix Babyschale Gruppe 0+](https://m.media-amazon.com/images/I/413HzRsAU4L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01MXJ9B7X/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01MXJ9B7X/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

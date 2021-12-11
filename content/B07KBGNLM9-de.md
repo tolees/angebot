@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VAUDE Damen Hose Women s Farley Stretch  mit 41.83 % Rabatt'
+title: 'VAUDE Damen Hose Women s Farley Stretch Pants II  abzippbare Wanderhose  eclipse  40/Short  045767504400'
 date: 2020-09-21 15:13:19
 image: 'https://m.media-amazon.com/images/I/31nnD6-SS9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.83'
 average: '58.17'
 ---
 
-Sie können [VAUDE Damen Hose Women s Farley Stretch Pants II  abzippbare Wanderhose  eclipse  40/Short  045767504400](https://www.amazon.de/dp/B07KBGNLM9/?tag=tolees0ca-21) mit Preis 58.17 EUR (original: 100.0 EUR) 41.83 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![VAUDE Damen Hose Women s Farley Stretch ](https://m.media-amazon.com/images/I/31nnD6-SS9L._SL400_.jpg)](https://www.amazon.de/dp/B07KBGNLM9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KBGNLM9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

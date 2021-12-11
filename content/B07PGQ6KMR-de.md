@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.04 % rabat auf Lenovo IdeaPad C340 35 6 cm  14 Zoll  19'
+title: 'Lenovo IdeaPad C340 35 6 cm  14 Zoll  1920x1080  FHD  IPS  Touch  Convertible Notebook  Intel Pentium 5405U  4GB RAM  128GB SSD  Intel UHD-Grafik 610  Windows 10 Home S  schwarz'
 date: 2020-04-10 23:52:17
 image: 'https://m.media-amazon.com/images/I/31lelDxJFBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.04'
 average: '399.0'
 ---
 
-Es gibt ein [Lenovo IdeaPad C340 35 6 cm  14 Zoll  1920x1080  FHD  IPS  Touch  Convertible Notebook  Intel Pentium 5405U  4GB RAM  128GB SSD  Intel UHD-Grafik 610  Windows 10 Home S  schwarz](https://www.amazon.de/dp/B07PGQ6KMR/?tag=tolees0ca-21) mit aktuellem Preis 399.0 EUR (original: 499.0 EUR) 20.04 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Lenovo IdeaPad C340 35 6 cm  14 Zoll  19](https://m.media-amazon.com/images/I/31lelDxJFBL._SL400_.jpg)](https://www.amazon.de/dp/B07PGQ6KMR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PGQ6KMR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

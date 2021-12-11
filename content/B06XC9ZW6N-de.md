@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.11 % rabat auf Olympus OM-D E-M10 Mark III Micro Four T'
+title: 'Olympus OM-D E-M10 Mark III Micro Four Thirds Systemkamera  16 Megapixel  Bildstabilisator  elektronischer Sucher  4K-Video  schwarz'
 date: 2020-04-12 08:30:44
 image: 'https://m.media-amazon.com/images/I/51iWeQh-7jL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.11'
 average: '499.0'
 ---
 
-Es gibt ein [Olympus OM-D E-M10 Mark III Micro Four Thirds Systemkamera  16 Megapixel  Bildstabilisator  elektronischer Sucher  4K-Video  schwarz](https://www.amazon.de/dp/B06XC9ZW6N/?tag=tolees0ca-21) mit aktuellem Preis 499.0 EUR (original: 649.0 EUR) 23.11 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Olympus OM-D E-M10 Mark III Micro Four T](https://m.media-amazon.com/images/I/51iWeQh-7jL._SL400_.jpg)](https://www.amazon.de/dp/B06XC9ZW6N/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XC9ZW6N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

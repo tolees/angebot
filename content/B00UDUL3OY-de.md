@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '5 Zimmer  Küche  Sarg mit 52.89 % Rabatt'
+title: '5 Zimmer  Küche  Sarg'
 date: 2020-04-17 23:48:08
 image: 'https://m.media-amazon.com/images/I/51GcEZqmHaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.89'
 average: '3.51'
 ---
 
-Sie können [5 Zimmer  Küche  Sarg](https://www.amazon.de/dp/B00UDUL3OY/?tag=tolees0ca-21) mit Preis 3.51 EUR (original: 7.45 EUR) 52.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![5 Zimmer  Küche  Sarg](https://m.media-amazon.com/images/I/51GcEZqmHaL._SL400_.jpg)](https://www.amazon.de/dp/B00UDUL3OY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00UDUL3OY/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

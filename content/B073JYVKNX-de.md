@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Ultra 64GB MicroSDXC Speicherkar mit 57.93 % Rabatt'
+title: 'SanDisk Ultra 64GB MicroSDXC Speicherkarte + SD-Adapter mit A1 App-Leistung bis zu 100 MB/s  Klasse 10  U1'
 date: 2020-08-17 04:56:19
 image: 'https://m.media-amazon.com/images/I/41pfhJozwqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '57.93'
 average: '10.882222222222223'
 ---
 
-Sie können [SanDisk Ultra 64GB MicroSDXC Speicherkarte + SD-Adapter mit A1 App-Leistung bis zu 100 MB/s  Klasse 10  U1](https://www.amazon.de/dp/B073JYVKNX/?tag=tolees0ca-21) mit Preis 7.99 EUR (original: 18.99 EUR) 57.93 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SanDisk Ultra 64GB MicroSDXC Speicherkar](https://m.media-amazon.com/images/I/41pfhJozwqL._SL400_.jpg)](https://www.amazon.de/dp/B073JYVKNX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B073JYVKNX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

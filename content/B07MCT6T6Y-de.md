@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '64.68 % rabat auf Hasbro Spiele E5804EU4 The Slow Motion R'
+title: 'Hasbro Spiele E5804EU4 The Slow Motion Race Game  Partyspiel  mit Langsamkeit zum Sieg  Multicolor'
 date: 2020-04-18 00:29:49
 image: 'https://m.media-amazon.com/images/I/510kbPdLCDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '64.68'
 average: '10.7'
 ---
 
-Es gibt ein [Hasbro Spiele E5804EU4 The Slow Motion Race Game  Partyspiel  mit Langsamkeit zum Sieg  Multicolor](https://www.amazon.de/dp/B07MCT6T6Y/?tag=tolees0ca-21) mit aktuellem Preis 10.24 EUR (original: 28.99 EUR) 64.68 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hasbro Spiele E5804EU4 The Slow Motion R](https://m.media-amazon.com/images/I/510kbPdLCDL._SL400_.jpg)](https://www.amazon.de/dp/B07MCT6T6Y/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MCT6T6Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

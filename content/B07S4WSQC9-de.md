@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Damen Ls Baby Tee T-Shirt  Caviar mit 31.71 % Rabatt'
+title: 'Levi s Damen Ls Baby Tee T-Shirt  Caviar 0014  Large'
 date: 2020-09-30 14:34:08
 image: 'https://m.media-amazon.com/images/I/41zVoBMtXgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.71'
 average: '21.325'
 ---
 
-Sie können [Levi s Damen Ls Baby Tee T-Shirt  Caviar 0014  Large](https://www.amazon.de/dp/B07S4WSQC9/?tag=tolees0ca-21) mit Preis 23.9 EUR (original: 35.0 EUR) 31.71 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Levi s Damen Ls Baby Tee T-Shirt  Caviar](https://m.media-amazon.com/images/I/41zVoBMtXgL._SL400_.jpg)](https://www.amazon.de/dp/B07S4WSQC9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07S4WSQC9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

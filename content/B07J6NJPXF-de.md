@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '52.39 % rabat auf Funko POP Hey Arnold Gerald JOHANSSE'
+title: 'Funko POP Hey Arnold Gerald JOHANSSE'
 date: 2020-03-13 02:28:20
 image: 'https://m.media-amazon.com/images/I/41LtQgM8kDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.39'
 average: '4.09'
 ---
 
-Es gibt ein [Funko POP Hey Arnold Gerald JOHANSSE](https://www.amazon.de/dp/B07J6NJPXF/?tag=tolees0ca-21) mit aktuellem Preis 4.09 EUR (original: 8.59 EUR) 52.39 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko POP Hey Arnold Gerald JOHANSSE](https://m.media-amazon.com/images/I/41LtQgM8kDL._SL400_.jpg)](https://www.amazon.de/dp/B07J6NJPXF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07J6NJPXF/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

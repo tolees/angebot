@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Original Einhell System Akku Power X-Cha mit 45.05 % Rabatt'
+title: 'Original Einhell System Akku Power X-Change  Lithium Ionen Akku  18 V  3 0 Ah  passend für alle Power X-Change Geräte '
 date: 2020-03-06 04:54:31
 image: 'https://m.media-amazon.com/images/I/413TEakn5fL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.05'
 average: '36.205'
 ---
 
-Sie können [Original Einhell System Akku Power X-Change  Lithium Ionen Akku  18 V  3 0 Ah  passend für alle Power X-Change Geräte ](https://www.amazon.de/dp/B00HT957YE/?tag=tolees0ca-21) mit Preis 35.69 EUR (original: 64.95 EUR) 45.05 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Original Einhell System Akku Power X-Cha](https://m.media-amazon.com/images/I/413TEakn5fL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00HT957YE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00HT957YE/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

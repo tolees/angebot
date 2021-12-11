@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brother ADS1700W Mobiler Scanner ADS1700 mit 15.84 % Rabatt'
+title: 'Brother ADS1700W Mobiler Scanner ADS1700WUN1 A4/Duplex/WLAN/Farbe'
 date: 2020-04-19 06:39:55
 image: 'https://m.media-amazon.com/images/I/415x8lke0SL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.84'
 average: '262.65'
 ---
 
-Sie können [Brother ADS1700W Mobiler Scanner ADS1700WUN1 A4/Duplex/WLAN/Farbe](https://www.amazon.de/dp/B07H3B9Z7Q/?tag=tolees0ca-21) mit Preis 262.65 EUR (original: 312.08 EUR) 15.84 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Brother ADS1700W Mobiler Scanner ADS1700](https://m.media-amazon.com/images/I/415x8lke0SL._SL400_.jpg)](https://www.amazon.de/dp/B07H3B9Z7Q/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07H3B9Z7Q/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

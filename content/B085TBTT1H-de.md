@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WiFi Smart E27 Led Lampe 9W 240v Aogled  mit 21.46 % Rabatt'
+title: 'WiFi Smart E27 Led Lampe 9W 240v Aogled 60w Halogen Glühbirnen Equivalent Dimmbare RGB WiFi Birne Kompatibel mit Alexa Google Home IFTTT Kein Hub Required 2.4GHz Wi-Fi A19 E27 2700K 6500K'
 date: 2020-06-04 09:31:06
 image: 'https://m.media-amazon.com/images/I/41eIw8x2nYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.46'
 average: '21.99'
 ---
 
-Sie können [WiFi Smart E27 Led Lampe 9W 240v Aogled 60w Halogen Glühbirnen Equivalent Dimmbare RGB WiFi Birne Kompatibel mit Alexa Google Home IFTTT Kein Hub Required 2.4GHz Wi-Fi A19 E27 2700K 6500K](https://www.amazon.de/dp/B085TBTT1H/?tag=tolees0ca-21) mit Preis 21.99 EUR (original: 28.0 EUR) 21.46 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![WiFi Smart E27 Led Lampe 9W 240v Aogled ](https://m.media-amazon.com/images/I/41eIw8x2nYL._SL400_.jpg)](https://www.amazon.de/dp/B085TBTT1H/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B085TBTT1H/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

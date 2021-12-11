@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TFA Dostmann Küchen-Chef Digitales Brate mit 52.79 % Rabatt'
+title: 'TFA Dostmann Küchen-Chef Digitales Bratenthermometer/Grillthermometer Funk  2 Einstechfühler zur Messung der Ofen- und Kerntemperatur'
 date: 2020-07-10 00:46:39
 image: 'https://m.media-amazon.com/images/I/41M9Bg3oSQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.79'
 average: '33.99'
 ---
 
-Sie können [TFA Dostmann Küchen-Chef Digitales Bratenthermometer/Grillthermometer Funk  2 Einstechfühler zur Messung der Ofen- und Kerntemperatur](https://www.amazon.de/dp/B079NLCK5T/?tag=tolees0ca-21) mit Preis 33.99 EUR (original: 71.99 EUR) 52.79 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![TFA Dostmann Küchen-Chef Digitales Brate](https://m.media-amazon.com/images/I/41M9Bg3oSQL._SL400_.jpg)](https://www.amazon.de/dp/B079NLCK5T/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079NLCK5T/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

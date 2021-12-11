@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Vinylfigur: Die Hard: John McClane mit 22.41 % Rabatt'
+title: 'POP! Vinylfigur: Die Hard: John McClane'
 date: 2020-09-15 15:01:12
 image: 'https://m.media-amazon.com/images/I/31q08Hda4IL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.41'
 average: '13.402800000000001'
 ---
 
-Sie können [POP! Vinylfigur: Die Hard: John McClane](https://www.amazon.de/dp/B07DFBFWWS/?tag=tolees0ca-21) mit Preis 11.63 EUR (original: 14.99 EUR) 22.41 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![POP! Vinylfigur: Die Hard: John McClane](https://m.media-amazon.com/images/I/31q08Hda4IL._SL400_.jpg)](https://www.amazon.de/dp/B07DFBFWWS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DFBFWWS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

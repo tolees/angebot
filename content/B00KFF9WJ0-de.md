@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '43.60 % rabat auf Timezone Herren Straight Leg Hose Benito'
+title: 'Timezone Herren Straight Leg Hose BenitoTZ cargo pants incl. belt  Gr. W34/L36  Beige  dirty sand 6166 '
 date: 2020-01-20 04:42:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DhaY9NZbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.60'
 average: '45.09'
 ---
 
-Es gibt ein [Timezone Herren Straight Leg Hose BenitoTZ cargo pants incl. belt  Gr. W34/L36  Beige  dirty sand 6166 ](https://www.amazon.de/dp/B00KFF9WJ0/?tag=tolees0ca-21) mit aktuellem Preis 45.09 EUR (original: 79.95 EUR) 43.60 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Timezone Herren Straight Leg Hose Benito](https://images-eu.ssl-images-amazon.com/images/I/41DhaY9NZbL._SL400_.jpg)](https://www.amazon.de/dp/B00KFF9WJ0/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00KFF9WJ0/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

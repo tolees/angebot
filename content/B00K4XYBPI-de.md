@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '58.61 % rabat auf ANSMANN 1400-0058 A-Oly BLN 1 Li-Ion Dig'
+title: 'ANSMANN 1400-0058 A-Oly BLN 1 Li-Ion Digicam Akku 7 4V/1140mAh für Olympus Foto Digitalkamera'
 date: 2020-10-11 06:24:04
 image: 'https://m.media-amazon.com/images/I/41jKllsnJDL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.61'
 average: '16.55'
 ---
 
-Es gibt ein [ANSMANN 1400-0058 A-Oly BLN 1 Li-Ion Digicam Akku 7 4V/1140mAh für Olympus Foto Digitalkamera](https://www.amazon.de/dp/B00K4XYBPI/?tag=tolees0ca-21) mit aktuellem Preis 16.55 EUR (original: 39.99 EUR) 58.61 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ANSMANN 1400-0058 A-Oly BLN 1 Li-Ion Dig](https://m.media-amazon.com/images/I/41jKllsnJDL._SL400_.jpg)](https://www.amazon.de/dp/B00K4XYBPI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00K4XYBPI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.83 % rabat auf Nikon BF-1B Gehäusedeckel'
+title: 'Nikon BF-1B Gehäusedeckel'
 date: 2020-02-13 10:12:47
 image: 'https://m.media-amazon.com/images/I/512y5v+RaKL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.83'
 average: '4.6'
 ---
 
-Es gibt ein [Nikon BF-1B Gehäusedeckel](https://www.amazon.de/dp/B002SXNXUG/?tag=tolees0ca-21) mit aktuellem Preis 4.6 EUR (original: 8.99 EUR) 48.83 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Nikon BF-1B Gehäusedeckel](https://m.media-amazon.com/images/I/512y5v+RaKL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B002SXNXUG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B002SXNXUG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Citizen Herren Chronograph Quarz Uhr mit mit 17.09 % Rabatt'
+title: 'Citizen Herren Chronograph Quarz Uhr mit Leder Armband CA0641-16X'
 date: 2020-02-24 09:05:30
 image: 'https://m.media-amazon.com/images/I/51VlgxaUBLL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.09'
 average: '165.0'
 ---
 
-Sie können [Citizen Herren Chronograph Quarz Uhr mit Leder Armband CA0641-16X](https://www.amazon.de/dp/B01MZAQ5OQ/?tag=tolees0ca-21) mit Preis 165.0 EUR (original: 199.0 EUR) 17.09 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Citizen Herren Chronograph Quarz Uhr mit](https://m.media-amazon.com/images/I/51VlgxaUBLL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01MZAQ5OQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01MZAQ5OQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

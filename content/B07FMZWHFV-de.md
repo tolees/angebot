@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'De Longhi EDG736.RM | NESCAFÉ Dolce Gust mit 44.45 % Rabatt'
+title: 'De Longhi EDG736.RM | NESCAFÉ Dolce Gusto Eclipse | Kapsel Kaffeemaschine | Für heiße und kalte Getränke | 15 bar Pumpendruck für samtige Crema | Sensor Touch Bedienung |Red Metallic'
 date: 2020-01-17 15:18:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RpUdjPPYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.45'
 average: '99.99'
 ---
 
-Sie können [De Longhi EDG736.RM | NESCAFÉ Dolce Gusto Eclipse | Kapsel Kaffeemaschine | Für heiße und kalte Getränke | 15 bar Pumpendruck für samtige Crema | Sensor Touch Bedienung |Red Metallic](https://www.amazon.de/dp/B07FMZWHFV/?tag=tolees0ca-21) mit Preis 99.99 EUR (original: 179.99 EUR) 44.45 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![De Longhi EDG736.RM | NESCAFÉ Dolce Gust](https://images-eu.ssl-images-amazon.com/images/I/41RpUdjPPYL._SL400_.jpg)](https://www.amazon.de/dp/B07FMZWHFV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07FMZWHFV/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

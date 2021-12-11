@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Ortungsgerät Truvo  3 x AAA Batter mit 24.08 % Rabatt'
+title: 'Bosch Ortungsgerät Truvo  3 x AAA Batterien  Erfassungstiefe Stahl/Kupfer/stromführende Leitungen max. 70/60/50 mm  in Tinbox '
 date: 2020-02-21 15:54:35
 image: 'https://m.media-amazon.com/images/I/41EsgXIg2LL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.08'
 average: '37.95'
 ---
 
-Sie können [Bosch Ortungsgerät Truvo  3 x AAA Batterien  Erfassungstiefe Stahl/Kupfer/stromführende Leitungen max. 70/60/50 mm  in Tinbox ](https://www.amazon.de/dp/B01LXFXMQN/?tag=tolees0ca-21) mit Preis 37.95 EUR (original: 49.99 EUR) 24.08 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Ortungsgerät Truvo  3 x AAA Batter](https://m.media-amazon.com/images/I/41EsgXIg2LL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01LXFXMQN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01LXFXMQN/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

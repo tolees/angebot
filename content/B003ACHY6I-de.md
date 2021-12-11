@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.79 % rabat auf hansgrohe Crometta 85 Duschkopf  3 Strah'
+title: 'hansgrohe Crometta 85 Duschkopf  3 Strahlarten  Chrom'
 date: 2020-09-12 10:49:08
 image: 'https://m.media-amazon.com/images/I/41yOXIkElBL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.79'
 average: '19.99'
 ---
 
-Es gibt ein [hansgrohe Crometta 85 Duschkopf  3 Strahlarten  Chrom](https://www.amazon.de/dp/B003ACHY6I/?tag=tolees0ca-21) mit aktuellem Preis 19.99 EUR (original: 28.07 EUR) 28.79 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![hansgrohe Crometta 85 Duschkopf  3 Strah](https://m.media-amazon.com/images/I/41yOXIkElBL._SL400_.jpg)](https://www.amazon.de/dp/B003ACHY6I/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B003ACHY6I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

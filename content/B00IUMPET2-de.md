@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.41 % rabat auf Flow-Mow für Zeitraffer-Fotografie  360 '
+title: 'Flow-Mow für Zeitraffer-Fotografie  360 Grad drehbar'
 date: 2020-02-25 04:58:15
 image: 'https://m.media-amazon.com/images/I/41MxWzIueKL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.41'
 average: '20.87'
 ---
 
-Es gibt ein [Flow-Mow für Zeitraffer-Fotografie  360 Grad drehbar](https://www.amazon.de/dp/B00IUMPET2/?tag=tolees0ca-21) mit aktuellem Preis 20.87 EUR (original: 29.99 EUR) 30.41 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Flow-Mow für Zeitraffer-Fotografie  360 ](https://m.media-amazon.com/images/I/41MxWzIueKL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00IUMPET2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IUMPET2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

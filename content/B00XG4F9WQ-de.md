@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Microsoft Wireless Mobile Mouse 1850  Ma mit 44.32 % Rabatt'
+title: 'Microsoft Wireless Mobile Mouse 1850  Maus  zyanblau  kabellos  für Rechts- und Linkshänder geeignet '
 date: 2020-05-30 09:05:19
 image: 'https://m.media-amazon.com/images/I/31h2PNE1CoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.32'
 average: '9.46'
 ---
 
-Sie können [Microsoft Wireless Mobile Mouse 1850  Maus  zyanblau  kabellos  für Rechts- und Linkshänder geeignet ](https://www.amazon.de/dp/B00XG4F9WQ/?tag=tolees0ca-21) mit Preis 9.46 EUR (original: 16.99 EUR) 44.32 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Microsoft Wireless Mobile Mouse 1850  Ma](https://m.media-amazon.com/images/I/31h2PNE1CoL._SL400_.jpg)](https://www.amazon.de/dp/B00XG4F9WQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00XG4F9WQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

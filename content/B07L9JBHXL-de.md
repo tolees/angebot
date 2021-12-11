@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Damen Play Up Shorts 3.0 at mit 15.88 % Rabatt'
+title: 'Under Armour Damen Play Up Shorts 3.0 atmungsaktive Sporthose  komfortable Sportshorts mit Loser Passform  Schwarz  MD'
 date: 2020-08-28 05:19:57
 image: 'https://m.media-amazon.com/images/I/410t0YN9etL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.88'
 average: '26.034'
 ---
 
-Sie können [Under Armour Damen Play Up Shorts 3.0 atmungsaktive Sporthose  komfortable Sportshorts mit Loser Passform  Schwarz  MD](https://www.amazon.de/dp/B07L9JBHXL/?tag=tolees0ca-21) mit Preis 21.83 EUR (original: 25.95 EUR) 15.88 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Under Armour Damen Play Up Shorts 3.0 at](https://m.media-amazon.com/images/I/410t0YN9etL._SL400_.jpg)](https://www.amazon.de/dp/B07L9JBHXL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07L9JBHXL/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

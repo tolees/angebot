@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.47 % rabat auf Flashpoint - Das Spezialkommando: Die ko'
+title: 'Flashpoint - Das Spezialkommando: Die komplette Serie [24 DVDs]'
 date: 2020-04-17 23:40:45
 image: 'https://m.media-amazon.com/images/I/51PZ9-4EkzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.47'
 average: '39.95'
 ---
 
-Es gibt ein [Flashpoint - Das Spezialkommando: Die komplette Serie [24 DVDs]](https://www.amazon.de/dp/B00HHO8WOS/?tag=tolees0ca-21) mit aktuellem Preis 39.95 EUR (original: 49.0 EUR) 18.47 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Flashpoint - Das Spezialkommando: Die ko](https://m.media-amazon.com/images/I/51PZ9-4EkzL._SL400_.jpg)](https://www.amazon.de/dp/B00HHO8WOS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00HHO8WOS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

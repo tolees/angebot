@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '43.75 % rabat auf Cellular Line TEMPGLASSIPH647 Displaysch'
+title: 'Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple iPhone 6'
 date: 2020-02-25 16:31:06
 image: 'https://m.media-amazon.com/images/I/41WSG+Zfu3L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.75'
 average: '6.21'
 ---
 
-Es gibt ein [Cellular Line TEMPGLASSIPH647 Displayschutzglas für Apple iPhone 6](https://www.amazon.de/dp/B00MXR6WUA/?tag=tolees0ca-21) mit aktuellem Preis 6.21 EUR (original: 11.04 EUR) 43.75 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Cellular Line TEMPGLASSIPH647 Displaysch](https://m.media-amazon.com/images/I/41WSG+Zfu3L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00MXR6WUA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00MXR6WUA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

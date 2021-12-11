@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Steins; Gate ELITE [Playstation 4] mit 25.21 % Rabatt'
+title: 'Steins; Gate ELITE [Playstation 4]'
 date: 2020-03-15 04:43:51
 image: 'https://m.media-amazon.com/images/I/51ooQ44JpUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.21'
 average: '13.495000000000001'
 ---
 
-Sie können [Steins; Gate ELITE [Playstation 4]](https://www.amazon.de/dp/B07HQ351PQ/?tag=tolees0ca-21) mit Preis 11.36 EUR (original: 15.19 EUR) 25.21 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Steins; Gate ELITE [Playstation 4]](https://m.media-amazon.com/images/I/51ooQ44JpUL._SL400_.jpg)](https://www.amazon.de/dp/B07HQ351PQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HQ351PQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

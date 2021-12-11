@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko B07DFCM5RX Marvel Studios 10: Iron mit 34.02 % Rabatt'
+title: 'Funko B07DFCM5RX Marvel Studios 10: Iron Man  Chrome  POP Bobble  Multi'
 date: 2020-04-07 13:08:30
 image: 'https://m.media-amazon.com/images/I/51w5bx7anNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.02'
 average: '10.4675'
 ---
 
-Sie können [Funko B07DFCM5RX Marvel Studios 10: Iron Man  Chrome  POP Bobble  Multi](https://www.amazon.de/dp/B07DFCM5RX/?tag=tolees0ca-21) mit Preis 7.64 EUR (original: 11.58 EUR) 34.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko B07DFCM5RX Marvel Studios 10: Iron](https://m.media-amazon.com/images/I/51w5bx7anNL._SL400_.jpg)](https://www.amazon.de/dp/B07DFCM5RX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DFCM5RX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.42 % rabat auf Kitchen Craft LOVELLO Brotkasten  42 x 2'
+title: 'Kitchen Craft LOVELLO Brotkasten  42 x 22 x 18 cm – Schwarz'
 date: 2020-04-07 21:38:40
 image: 'https://m.media-amazon.com/images/I/41Z9JsuoFpL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.42'
 average: '52.83'
 ---
 
-Es gibt ein [Kitchen Craft LOVELLO Brotkasten  42 x 22 x 18 cm – Schwarz](https://www.amazon.de/dp/B01AWN106W/?tag=tolees0ca-21) mit aktuellem Preis 52.83 EUR (original: 68.99 EUR) 23.42 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kitchen Craft LOVELLO Brotkasten  42 x 2](https://m.media-amazon.com/images/I/41Z9JsuoFpL._SL400_.jpg)](https://www.amazon.de/dp/B01AWN106W/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01AWN106W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

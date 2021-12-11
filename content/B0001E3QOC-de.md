@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gardena Raseneinfassung 20 cm hoch: Idea mit 47.85 % Rabatt'
+title: 'Gardena Raseneinfassung 20 cm hoch: Ideale Rasen-Abgrenzung  auch für Beete  9 m  verhindert Wurzelausbreitung  aus Kunststoff  braun  534-20 '
 date: 2020-03-13 05:04:38
 image: 'https://m.media-amazon.com/images/I/51XV75ifV+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.85'
 average: '11.99'
 ---
 
-Sie können [Gardena Raseneinfassung 20 cm hoch: Ideale Rasen-Abgrenzung  auch für Beete  9 m  verhindert Wurzelausbreitung  aus Kunststoff  braun  534-20 ](https://www.amazon.de/dp/B0001E3QOC/?tag=tolees0ca-21) mit Preis 11.99 EUR (original: 22.99 EUR) 47.85 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gardena Raseneinfassung 20 cm hoch: Idea](https://m.media-amazon.com/images/I/51XV75ifV+L._SL400_.jpg)](https://www.amazon.de/dp/B0001E3QOC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0001E3QOC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

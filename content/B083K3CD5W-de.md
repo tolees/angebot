@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DXX Acryl Schaukasten Vitrine  Schaukast mit 50.00 % Rabatt'
+title: 'DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Creator 10266 NASA Apollo 11 Mondlandefähre  Ohne Modell '
 date: 2020-04-07 21:34:33
 image: 'https://m.media-amazon.com/images/I/41sgFMb5CcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '36.99'
 ---
 
-Sie können [DXX Acryl Schaukasten Vitrine  Schaukasten Acryl Vitrine Display Case für Lego Creator 10266 NASA Apollo 11 Mondlandefähre  Ohne Modell ](https://www.amazon.de/dp/B083K3CD5W/?tag=tolees0ca-21) mit Preis 36.99 EUR (original: 73.98 EUR) 50.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![DXX Acryl Schaukasten Vitrine  Schaukast](https://m.media-amazon.com/images/I/41sgFMb5CcL._SL400_.jpg)](https://www.amazon.de/dp/B083K3CD5W/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B083K3CD5W/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

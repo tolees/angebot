@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Band of Gypsys mit 40.66 % Rabatt'
+title: 'Band of Gypsys'
 date: 2020-09-13 23:35:54
 image: 'https://m.media-amazon.com/images/I/61tg3VzLBCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.66'
 average: '5.59'
 ---
 
-Sie können [Band of Gypsys](https://www.amazon.de/dp/B005AZSYIA/?tag=tolees0ca-21) mit Preis 5.59 EUR (original: 9.42 EUR) 40.66 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Band of Gypsys](https://m.media-amazon.com/images/I/61tg3VzLBCL._SL400_.jpg)](https://www.amazon.de/dp/B005AZSYIA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B005AZSYIA/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

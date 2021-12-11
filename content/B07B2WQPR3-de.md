@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SAGE SES880 the Barista Touch  Siebträge mit 27.63 % Rabatt'
+title: 'SAGE SES880 the Barista Touch  Siebträger mit Touchscreen-Anzeige  15 Bar  Gebürsteter Edelstahl'
 date: 2020-03-28 08:27:16
 image: 'https://m.media-amazon.com/images/I/41YPBOQ4YoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.63'
 average: '873.725'
 ---
 
-Sie können [SAGE SES880 the Barista Touch  Siebträger mit Touchscreen-Anzeige  15 Bar  Gebürsteter Edelstahl](https://www.amazon.de/dp/B07B2WQPR3/?tag=tolees0ca-21) mit Preis 868.46 EUR (original: 1199.99 EUR) 27.63 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SAGE SES880 the Barista Touch  Siebträge](https://m.media-amazon.com/images/I/41YPBOQ4YoL._SL400_.jpg)](https://www.amazon.de/dp/B07B2WQPR3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07B2WQPR3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

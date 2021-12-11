@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.97 % rabat auf Funko 39697 POP Vinyl: Dragonball Z S6: '
+title: 'Funko 39697 POP Vinyl: Dragonball Z S6: Vegeta Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 date: 2020-04-01 05:03:54
 image: 'https://m.media-amazon.com/images/I/41Cc7b00cnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.97'
 average: '9.783333333333333'
 ---
 
-Es gibt ein [Funko 39697 POP Vinyl: Dragonball Z S6: Vegeta Sammelbares Spielzeug  Mehrfarben  Einheitsgröße](https://www.amazon.de/dp/B07MZPS562/?tag=tolees0ca-21) mit aktuellem Preis 8.75 EUR (original: 11.82 EUR) 25.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 39697 POP Vinyl: Dragonball Z S6: ](https://m.media-amazon.com/images/I/41Cc7b00cnL._SL400_.jpg)](https://www.amazon.de/dp/B07MZPS562/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MZPS562/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

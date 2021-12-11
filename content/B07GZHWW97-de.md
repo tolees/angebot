@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TechniSat DIGITRADIO 2 S - Tragbares DAB mit 23.21 % Rabatt'
+title: 'TechniSat DIGITRADIO 2 S - Tragbares DAB Stereo-Radio mit Akku  DAB+  UKW  Bluetooth Audiostreaming  OLED Display  Kopfhöreranschluss  Stereo 2 W RMS  schwarz/silber'
 date: 2020-09-02 06:13:42
 image: 'https://m.media-amazon.com/images/I/51dXw2qAYxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.21'
 average: '76.02'
 ---
 
-Sie können [TechniSat DIGITRADIO 2 S - Tragbares DAB Stereo-Radio mit Akku  DAB+  UKW  Bluetooth Audiostreaming  OLED Display  Kopfhöreranschluss  Stereo 2 W RMS  schwarz/silber](https://www.amazon.de/dp/B07GZHWW97/?tag=tolees0ca-21) mit Preis 76.02 EUR (original: 99.0 EUR) 23.21 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![TechniSat DIGITRADIO 2 S - Tragbares DAB](https://m.media-amazon.com/images/I/51dXw2qAYxL._SL400_.jpg)](https://www.amazon.de/dp/B07GZHWW97/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07GZHWW97/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

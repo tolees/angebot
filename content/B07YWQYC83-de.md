@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Park Tool Unisex – Erwachsene cm-5.3 Ket mit 27.34 % Rabatt'
+title: 'Park Tool Unisex – Erwachsene cm-5.3 Kettenreinigungsgerät  blau'
 date: 2020-04-15 23:54:54
 image: 'https://m.media-amazon.com/images/I/41i6SYf7jvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.34'
 average: '21.79'
 ---
 
-Sie können [Park Tool Unisex – Erwachsene cm-5.3 Kettenreinigungsgerät  blau](https://www.amazon.de/dp/B07YWQYC83/?tag=tolees0ca-21) mit Preis 21.79 EUR (original: 29.99 EUR) 27.34 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Park Tool Unisex – Erwachsene cm-5.3 Ket](https://m.media-amazon.com/images/I/41i6SYf7jvL._SL400_.jpg)](https://www.amazon.de/dp/B07YWQYC83/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07YWQYC83/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

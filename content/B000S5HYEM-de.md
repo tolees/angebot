@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Herlitz 8842700 Packbandabroller für Gro mit 38.21 % Rabatt'
+title: 'Herlitz 8842700 Packbandabroller für Grossrollen Ind. Abrisse'
 date: 2020-02-27 04:41:22
 image: 'https://m.media-amazon.com/images/I/41jgIwcjRRL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.21'
 average: '5.74'
 ---
 
-Sie können [Herlitz 8842700 Packbandabroller für Grossrollen Ind. Abrisse](https://www.amazon.de/dp/B000S5HYEM/?tag=tolees0ca-21) mit Preis 5.74 EUR (original: 9.29 EUR) 38.21 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Herlitz 8842700 Packbandabroller für Gro](https://m.media-amazon.com/images/I/41jgIwcjRRL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B000S5HYEM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B000S5HYEM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

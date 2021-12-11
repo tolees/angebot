@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Red Bull Energy Drink Heidelbeere Dosen  mit 30.58 % Rabatt'
+title: 'Red Bull Energy Drink Heidelbeere Dosen Getränke Blue Edition 12er Palette  EINWEG  12 x 250 ml '
 date: 2020-08-10 08:51:10
 image: 'https://m.media-amazon.com/images/I/51vh-4dDvUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.58'
 average: '11.58'
 ---
 
-Sie können [Red Bull Energy Drink Heidelbeere Dosen Getränke Blue Edition 12er Palette  EINWEG  12 x 250 ml ](https://www.amazon.de/dp/B013WY9YKW/?tag=tolees0ca-21) mit Preis 11.58 EUR (original: 16.68 EUR) 30.58 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Red Bull Energy Drink Heidelbeere Dosen ](https://m.media-amazon.com/images/I/51vh-4dDvUL._SL400_.jpg)](https://www.amazon.de/dp/B013WY9YKW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B013WY9YKW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

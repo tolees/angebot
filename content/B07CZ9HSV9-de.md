@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Herren XA PRO 3D GTX Traillaufsc mit 37.22 % Rabatt'
+title: 'Salomon Herren XA PRO 3D GTX Traillaufschuhe  Schwarz  Black/Lime Green/White   47 1/3 EU'
 date: 2020-03-23 11:49:22
 image: 'https://m.media-amazon.com/images/I/41w1WSTV7zL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.22'
 average: '100.41'
 ---
 
-Sie können [Salomon Herren XA PRO 3D GTX Traillaufschuhe  Schwarz  Black/Lime Green/White   47 1/3 EU](https://www.amazon.de/dp/B07CZ9HSV9/?tag=tolees0ca-21) mit Preis 100.41 EUR (original: 159.95 EUR) 37.22 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Salomon Herren XA PRO 3D GTX Traillaufsc](https://m.media-amazon.com/images/I/41w1WSTV7zL._SL400_.jpg)](https://www.amazon.de/dp/B07CZ9HSV9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07CZ9HSV9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

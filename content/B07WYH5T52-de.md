@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.12 % rabat auf WarGroove: Deluxe Edition - [Nintendo Sw'
+title: 'WarGroove: Deluxe Edition - [Nintendo Switch]'
 date: 2020-09-16 06:19:15
 image: 'https://m.media-amazon.com/images/I/51wCtDQSRiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.12'
 average: '19.77'
 ---
 
-Es gibt ein [WarGroove: Deluxe Edition - [Nintendo Switch]](https://www.amazon.de/dp/B07WYH5T52/?tag=tolees0ca-21) mit aktuellem Preis 19.77 EUR (original: 24.75 EUR) 20.12 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![WarGroove: Deluxe Edition - [Nintendo Sw](https://m.media-amazon.com/images/I/51wCtDQSRiL._SL400_.jpg)](https://www.amazon.de/dp/B07WYH5T52/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07WYH5T52/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Herren U Shark A Mokassin  Grau  St mit 52.60 % Rabatt'
+title: 'Geox Herren U Shark A Mokassin  Grau  Stone   46 EU'
 date: 2020-10-09 00:04:38
 image: 'https://m.media-amazon.com/images/I/41Ff+dPIDNL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.60'
 average: '47.38'
 ---
 
-Sie können [Geox Herren U Shark A Mokassin  Grau  Stone   46 EU](https://www.amazon.de/dp/B076X5FNJV/?tag=tolees0ca-21) mit Preis 47.38 EUR (original: 99.95 EUR) 52.60 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Geox Herren U Shark A Mokassin  Grau  St](https://m.media-amazon.com/images/I/41Ff+dPIDNL._SL400_.jpg)](https://www.amazon.de/dp/B076X5FNJV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B076X5FNJV/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

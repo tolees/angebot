@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Little Pony - Cuties Sammelfiguren  k mit 45.80 % Rabatt'
+title: 'My Little Pony - Cuties Sammelfiguren  kleines Pony in Überraschungshäuschen sortiert'
 date: 2020-02-29 12:07:00
 image: 'https://m.media-amazon.com/images/I/51jrvAB3kWL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.80'
 average: '2.0'
 ---
 
-Sie können [My Little Pony - Cuties Sammelfiguren  kleines Pony in Überraschungshäuschen sortiert](https://www.amazon.de/dp/B0792R1XMX/?tag=tolees0ca-21) mit Preis 2.0 EUR (original: 3.69 EUR) 45.80 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![My Little Pony - Cuties Sammelfiguren  k](https://m.media-amazon.com/images/I/51jrvAB3kWL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0792R1XMX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0792R1XMX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.26 % rabat auf BIC 811935 Marker mit abgeschrägter Spit'
+title: 'BIC 811935 Marker mit abgeschrägter Spitze  gelb  abgeschrägte Spitze  gelb  grau  rund  12 Stück'
 date: 2020-10-07 09:39:17
 image: 'https://m.media-amazon.com/images/I/41SrPDA1pyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.26'
 average: '5.9975000000000005'
 ---
 
-Es gibt ein [BIC 811935 Marker mit abgeschrägter Spitze  gelb  abgeschrägte Spitze  gelb  grau  rund  12 Stück](https://www.amazon.de/dp/B00006IQCV/?tag=tolees0ca-21) mit aktuellem Preis 5.28 EUR (original: 7.36 EUR) 28.26 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![BIC 811935 Marker mit abgeschrägter Spit](https://m.media-amazon.com/images/I/41SrPDA1pyL._SL400_.jpg)](https://www.amazon.de/dp/B00006IQCV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00006IQCV/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

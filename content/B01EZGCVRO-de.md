@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auferstanden mit 43.80 % Rabatt'
+title: 'Auferstanden'
 date: 2020-02-09 00:01:23
 image: 'https://m.media-amazon.com/images/I/519wNUOllaL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.80'
 average: '4.49'
 ---
 
-Sie können [Auferstanden](https://www.amazon.de/dp/B01EZGCVRO/?tag=tolees0ca-21) mit Preis 4.49 EUR (original: 7.99 EUR) 43.80 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Auferstanden](https://m.media-amazon.com/images/I/519wNUOllaL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01EZGCVRO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01EZGCVRO/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

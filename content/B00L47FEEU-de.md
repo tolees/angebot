@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'uRage "Illuminated" Gaming Keyboard Tast mit 41.53 % Rabatt'
+title: 'uRage "Illuminated" Gaming Keyboard Tastatur  QWERTZ  an- und ausschaltbare  dreifarbige LED Beleuchtung  Präzisionsanschlag  Anti-Ghosting-Effekt  integrierte Handballenauflage  schwarz/blau'
 date: 2020-09-30 06:00:57
 image: 'https://m.media-amazon.com/images/I/41W+A2kpO6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.53'
 average: '29.23'
 ---
 
-Sie können [uRage "Illuminated" Gaming Keyboard Tastatur  QWERTZ  an- und ausschaltbare  dreifarbige LED Beleuchtung  Präzisionsanschlag  Anti-Ghosting-Effekt  integrierte Handballenauflage  schwarz/blau](https://www.amazon.de/dp/B00L47FEEU/?tag=tolees0ca-21) mit Preis 29.23 EUR (original: 49.99 EUR) 41.53 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![uRage "Illuminated" Gaming Keyboard Tast](https://m.media-amazon.com/images/I/41W+A2kpO6L._SL400_.jpg)](https://www.amazon.de/dp/B00L47FEEU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00L47FEEU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

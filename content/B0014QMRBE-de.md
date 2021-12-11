@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.38 % rabat auf Theo Klein - Bosch 8429 - Tool Box  Spie'
+title: 'Theo Klein - Bosch 8429 - Tool Box  Spielzeug'
 date: 2020-04-11 16:33:53
 image: 'https://m.media-amazon.com/images/I/51h8rGckEuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.38'
 average: '33.51'
 ---
 
-Es gibt ein [Theo Klein - Bosch 8429 - Tool Box  Spielzeug](https://www.amazon.de/dp/B0014QMRBE/?tag=tolees0ca-21) mit aktuellem Preis 33.37 EUR (original: 42.99 EUR) 22.38 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Theo Klein - Bosch 8429 - Tool Box  Spie](https://m.media-amazon.com/images/I/51h8rGckEuL._SL400_.jpg)](https://www.amazon.de/dp/B0014QMRBE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0014QMRBE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

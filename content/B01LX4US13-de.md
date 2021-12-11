@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9078 - Einkaufspassage mit 52.13 % Rabatt'
+title: 'Playmobil 9078 - Einkaufspassage'
 date: 2020-04-07 13:21:00
 image: 'https://m.media-amazon.com/images/I/61XrE5P000L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.13'
 average: '42.966406250000006'
 ---
 
-Sie können [Playmobil 9078 - Einkaufspassage](https://www.amazon.de/dp/B01LX4US13/?tag=tolees0ca-21) mit Preis 35.9 EUR (original: 74.99 EUR) 52.13 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 9078 - Einkaufspassage](https://m.media-amazon.com/images/I/61XrE5P000L._SL400_.jpg)](https://www.amazon.de/dp/B01LX4US13/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01LX4US13/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

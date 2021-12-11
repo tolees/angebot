@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.91 % rabat auf LEGO Friends Das große Rennen 41352 Kind'
+title: 'LEGO Friends Das große Rennen 41352 Kinderspielzeug'
 date: 2020-04-06 13:06:57
 image: 'https://m.media-amazon.com/images/I/51wdMdTISrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.91'
 average: '37.54894736842106'
 ---
 
-Es gibt ein [LEGO Friends Das große Rennen 41352 Kinderspielzeug](https://www.amazon.de/dp/B0765C2PPR/?tag=tolees0ca-21) mit aktuellem Preis 38.45 EUR (original: 59.99 EUR) 35.91 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Friends Das große Rennen 41352 Kind](https://m.media-amazon.com/images/I/51wdMdTISrL._SL400_.jpg)](https://www.amazon.de/dp/B0765C2PPR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0765C2PPR/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

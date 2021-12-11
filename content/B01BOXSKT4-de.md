@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.86 % rabat auf NIVEA SUN Pflegendes After Sun Spray  20'
+title: 'NIVEA SUN Pflegendes After Sun Spray  200 ml Sprühflasche'
 date: 2020-04-17 23:53:35
 image: 'https://m.media-amazon.com/images/I/314rh89gyPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.86'
 average: '3.5'
 ---
 
-Es gibt ein [NIVEA SUN Pflegendes After Sun Spray  200 ml Sprühflasche](https://www.amazon.de/dp/B01BOXSKT4/?tag=tolees0ca-21) mit aktuellem Preis 3.5 EUR (original: 4.99 EUR) 29.86 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![NIVEA SUN Pflegendes After Sun Spray  20](https://m.media-amazon.com/images/I/314rh89gyPL._SL400_.jpg)](https://www.amazon.de/dp/B01BOXSKT4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BOXSKT4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

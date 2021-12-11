@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DXX Technik Bausteine Auto Benz G500  13 mit 50.00 % Rabatt'
+title: 'DXX Technik Bausteine Auto Benz G500  1343Teile 2.4G SUV Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic'
 date: 2020-01-16 18:39:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51D6gipVJAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '119.99'
 ---
 
-Sie können [DXX Technik Bausteine Auto Benz G500  1343Teile 2.4G SUV Bausteine Konstruktionsspielzeug Kompatibel mit Lego Technic](https://www.amazon.de/dp/B083DNTRKP/?tag=tolees0ca-21) mit Preis 119.99 EUR (original: 239.98 EUR) 50.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![DXX Technik Bausteine Auto Benz G500  13](https://images-eu.ssl-images-amazon.com/images/I/51D6gipVJAL._SL400_.jpg)](https://www.amazon.de/dp/B083DNTRKP/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B083DNTRKP/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

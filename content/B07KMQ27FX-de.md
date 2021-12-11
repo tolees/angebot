@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Hue White LED Welcome Flutlicht  mit 15.39 % Rabatt'
+title: 'Philips Hue White LED Welcome Flutlicht für den Aussenbereich  dimmbar  warmweißes Licht  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot '
 date: 2020-02-06 10:06:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JKTCXRo1L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.39'
 average: '109.99'
 ---
 
-Sie können [Philips Hue White LED Welcome Flutlicht für den Aussenbereich  dimmbar  warmweißes Licht  steuerbar via App  kompatibel mit Amazon Alexa  Echo  Echo Dot ](https://www.amazon.de/dp/B07KMQ27FX/?tag=tolees0ca-21) mit Preis 109.99 EUR (original: 129.99 EUR) 15.39 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Philips Hue White LED Welcome Flutlicht ](https://images-eu.ssl-images-amazon.com/images/I/31JKTCXRo1L._SL400_.jpg)](https://www.amazon.de/dp/B07KMQ27FX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KMQ27FX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

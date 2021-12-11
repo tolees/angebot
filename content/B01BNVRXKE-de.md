@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dakine Herren  Rucksack Duel  Schwarz  2 mit 21.82 % Rabatt'
+title: 'Dakine Herren  Rucksack Duel  Schwarz  26L'
 date: 2020-02-26 04:19:59
 image: 'https://m.media-amazon.com/images/I/412YmrHRWUL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.82'
 average: '49.99'
 ---
 
-Sie können [Dakine Herren  Rucksack Duel  Schwarz  26L](https://www.amazon.de/dp/B01BNVRXKE/?tag=tolees0ca-21) mit Preis 49.99 EUR (original: 63.94 EUR) 21.82 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dakine Herren  Rucksack Duel  Schwarz  2](https://m.media-amazon.com/images/I/412YmrHRWUL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01BNVRXKE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01BNVRXKE/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

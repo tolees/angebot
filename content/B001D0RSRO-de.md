@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.45 % rabat auf Wettsingen in Schwetzingen/MTV unplugged'
+title: 'Wettsingen in Schwetzingen/MTV unplugged'
 date: 2020-10-06 03:18:12
 image: 'https://m.media-amazon.com/images/I/61vCyjeuXnL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.45'
 average: '7.59'
 ---
 
-Es gibt ein [Wettsingen in Schwetzingen/MTV unplugged](https://www.amazon.de/dp/B001D0RSRO/?tag=tolees0ca-21) mit aktuellem Preis 7.55 EUR (original: 11.88 EUR) 36.45 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Wettsingen in Schwetzingen/MTV unplugged](https://m.media-amazon.com/images/I/61vCyjeuXnL._SL400_.jpg)](https://www.amazon.de/dp/B001D0RSRO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B001D0RSRO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

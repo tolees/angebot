@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickie Toys Happy Fendt Traktor  Trecker mit 41.41 % Rabatt'
+title: 'Dickie Toys Happy Fendt Traktor  Trecker  Bauernhof Spielzeug  keine verschluckbaren Teile  für Kinder ab 1 Jahr  25 cm'
 date: 2020-04-15 23:59:41
 image: 'https://m.media-amazon.com/images/I/41gLrVdWfEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.41'
 average: '8.865'
 ---
 
-Sie können [Dickie Toys Happy Fendt Traktor  Trecker  Bauernhof Spielzeug  keine verschluckbaren Teile  für Kinder ab 1 Jahr  25 cm](https://www.amazon.de/dp/B01MDNO7ZZ/?tag=tolees0ca-21) mit Preis 8.49 EUR (original: 14.49 EUR) 41.41 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dickie Toys Happy Fendt Traktor  Trecker](https://m.media-amazon.com/images/I/41gLrVdWfEL._SL400_.jpg)](https://www.amazon.de/dp/B01MDNO7ZZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01MDNO7ZZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

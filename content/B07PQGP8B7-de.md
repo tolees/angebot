@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carrera FIRST Nintendo Mario Kart™ 2 4 M mit 18.84 % Rabatt'
+title: 'Carrera FIRST Nintendo Mario Kart™ 2 4 Meter 20063026 Autorennbahn Set ab 3 Jahren'
 date: 2020-03-19 18:38:00
 image: 'https://m.media-amazon.com/images/I/516-Conqa0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.84'
 average: '24.34'
 ---
 
-Sie können [Carrera FIRST Nintendo Mario Kart™ 2 4 Meter 20063026 Autorennbahn Set ab 3 Jahren](https://www.amazon.de/dp/B07PQGP8B7/?tag=tolees0ca-21) mit Preis 24.34 EUR (original: 29.99 EUR) 18.84 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Carrera FIRST Nintendo Mario Kart™ 2 4 M](https://m.media-amazon.com/images/I/516-Conqa0L._SL400_.jpg)](https://www.amazon.de/dp/B07PQGP8B7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PQGP8B7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

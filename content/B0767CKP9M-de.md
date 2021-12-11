@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9339 - Waldelfe Spiel mit 49.83 % Rabatt'
+title: 'Playmobil 9339 - Waldelfe Spiel'
 date: 2020-03-14 02:37:16
 image: 'https://m.media-amazon.com/images/I/51VfQOm5GqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.83'
 average: '1.5'
 ---
 
-Sie können [Playmobil 9339 - Waldelfe Spiel](https://www.amazon.de/dp/B0767CKP9M/?tag=tolees0ca-21) mit Preis 1.5 EUR (original: 2.99 EUR) 49.83 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 9339 - Waldelfe Spiel](https://m.media-amazon.com/images/I/51VfQOm5GqL._SL400_.jpg)](https://www.amazon.de/dp/B0767CKP9M/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0767CKP9M/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

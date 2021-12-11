@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16.71 % rabat auf Fascinations Metal Earth ICX019 - 502830'
+title: 'Fascinations Metal Earth ICX019 - 502830  London Eye  Konstruktionsspielzeug  2 Metallplatinen  ab 14 Jahren'
 date: 2020-10-11 06:22:14
 image: 'https://m.media-amazon.com/images/I/51B9aEWzRPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.71'
 average: '16.65'
 ---
 
-Es gibt ein [Fascinations Metal Earth ICX019 - 502830  London Eye  Konstruktionsspielzeug  2 Metallplatinen  ab 14 Jahren](https://www.amazon.de/dp/B00R8EUQVE/?tag=tolees0ca-21) mit aktuellem Preis 16.65 EUR (original: 19.99 EUR) 16.71 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Fascinations Metal Earth ICX019 - 502830](https://m.media-amazon.com/images/I/51B9aEWzRPL._SL400_.jpg)](https://www.amazon.de/dp/B00R8EUQVE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00R8EUQVE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

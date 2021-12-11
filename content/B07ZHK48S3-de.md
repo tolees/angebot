@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DJI RoboMaster S1-Bildungsfördernder Rob mit 37.66 % Rabatt'
+title: 'DJI RoboMaster S1-Bildungsfördernder Roboter  Intelligente Funktionen und spannende Spielmodi bieten immersives Lernen  Bildungsfelder Mathematik  Physik etc'
 date: 2020-09-15 13:08:38
 image: 'https://m.media-amazon.com/images/I/319KWRlD+9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.66'
 average: '395.625'
 ---
 
-Sie können [DJI RoboMaster S1-Bildungsfördernder Roboter  Intelligente Funktionen und spannende Spielmodi bieten immersives Lernen  Bildungsfelder Mathematik  Physik etc](https://www.amazon.de/dp/B07ZHK48S3/?tag=tolees0ca-21) mit Preis 342.25 EUR (original: 549.0 EUR) 37.66 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![DJI RoboMaster S1-Bildungsfördernder Rob](https://m.media-amazon.com/images/I/319KWRlD+9L._SL400_.jpg)](https://www.amazon.de/dp/B07ZHK48S3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07ZHK48S3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

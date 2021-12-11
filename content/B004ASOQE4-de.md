@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.01 % rabat auf Jane s Journey - Die Lebensreise der Jan'
+title: 'Jane s Journey - Die Lebensreise der Jane Goodall'
 date: 2020-02-18 04:42:13
 image: 'https://m.media-amazon.com/images/I/51-mIVmiUFL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.01'
 average: '5.99'
 ---
 
-Es gibt ein [Jane s Journey - Die Lebensreise der Jane Goodall](https://www.amazon.de/dp/B004ASOQE4/?tag=tolees0ca-21) mit aktuellem Preis 5.99 EUR (original: 7.78 EUR) 23.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Jane s Journey - Die Lebensreise der Jan](https://m.media-amazon.com/images/I/51-mIVmiUFL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B004ASOQE4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B004ASOQE4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

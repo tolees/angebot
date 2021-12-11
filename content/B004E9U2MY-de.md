@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '53.01 % rabat auf GANT Herren Pullover 83072  Gr. Medium  '
+title: 'GANT Herren Pullover 83072  Gr. Medium  Grau  NAVY 405 '
 date: 2020-02-26 09:25:50
 image: 'https://m.media-amazon.com/images/I/31GUmZk2kWL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '53.01'
 average: '46.99'
 ---
 
-Es gibt ein [GANT Herren Pullover 83072  Gr. Medium  Grau  NAVY 405 ](https://www.amazon.de/dp/B004E9U2MY/?tag=tolees0ca-21) mit aktuellem Preis 46.99 EUR (original: 99.99 EUR) 53.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GANT Herren Pullover 83072  Gr. Medium  ](https://m.media-amazon.com/images/I/31GUmZk2kWL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B004E9U2MY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B004E9U2MY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

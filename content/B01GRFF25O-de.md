@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD 16 TB My Cloud Pro PR2100 Pro Serie 2 mit 66.57 % Rabatt'
+title: 'WD 16 TB My Cloud Pro PR2100 Pro Serie 2-Bay Network Attached Storage - NAS - WDBBCL0160JBK-EESN'
 date: 2020-04-06 14:45:56
 image: 'https://m.media-amazon.com/images/I/41LwFjgG8IL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.57'
 average: '526.2133333333333'
 ---
 
-Sie können [WD 16 TB My Cloud Pro PR2100 Pro Serie 2-Bay Network Attached Storage - NAS - WDBBCL0160JBK-EESN](https://www.amazon.de/dp/B01GRFF25O/?tag=tolees0ca-21) mit Preis 360.0 EUR (original: 1077.0 EUR) 66.57 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![WD 16 TB My Cloud Pro PR2100 Pro Serie 2](https://m.media-amazon.com/images/I/41LwFjgG8IL._SL400_.jpg)](https://www.amazon.de/dp/B01GRFF25O/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01GRFF25O/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

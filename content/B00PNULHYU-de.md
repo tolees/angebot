@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '38.85 % rabat auf Gardena Reinigungsspritze: Wasserspritze'
+title: 'Gardena Reinigungsspritze: Wasserspritze mit stufenlos einstellbarem Strahl  zum Reinigen und Sprühen  Aquastop  Frostschutz  verpackt  18300-20 '
 date: 2020-03-15 04:44:54
 image: 'https://m.media-amazon.com/images/I/41ZSEbelVwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.85'
 average: '4.035'
 ---
 
-Es gibt ein [Gardena Reinigungsspritze: Wasserspritze mit stufenlos einstellbarem Strahl  zum Reinigen und Sprühen  Aquastop  Frostschutz  verpackt  18300-20 ](https://www.amazon.de/dp/B00PNULHYU/?tag=tolees0ca-21) mit aktuellem Preis 4.03 EUR (original: 6.59 EUR) 38.85 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Gardena Reinigungsspritze: Wasserspritze](https://m.media-amazon.com/images/I/41ZSEbelVwL._SL400_.jpg)](https://www.amazon.de/dp/B00PNULHYU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PNULHYU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.47 % rabat auf THE LEGO MOVIE 2 70827 Ultrakatty & Krie'
+title: 'THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!'
 date: 2020-02-09 09:37:42
 image: 'https://m.media-amazon.com/images/I/51OzfNWS-VL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.47'
 average: '22.2475'
 ---
 
-Es gibt ein [THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!](https://www.amazon.de/dp/B07FNW8PF6/?tag=tolees0ca-21) mit aktuellem Preis 22.95 EUR (original: 29.99 EUR) 23.47 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![THE LEGO MOVIE 2 70827 Ultrakatty & Krie](https://m.media-amazon.com/images/I/51OzfNWS-VL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07FNW8PF6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNW8PF6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

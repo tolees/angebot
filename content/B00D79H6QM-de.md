@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.20 % rabat auf Stihl Original 36700000064 Kette 30 cm K'
+title: 'Stihl Original 36700000064 Kette 30 cm Klinge 1/4  64 Glieder MSA 160 ms'
 date: 2020-09-30 06:34:43
 image: 'https://m.media-amazon.com/images/I/31IFsw5WzHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.20'
 average: '12.65'
 ---
 
-Es gibt ein [Stihl Original 36700000064 Kette 30 cm Klinge 1/4  64 Glieder MSA 160 ms](https://www.amazon.de/dp/B00D79H6QM/?tag=tolees0ca-21) mit aktuellem Preis 12.65 EUR (original: 16.26 EUR) 22.20 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Stihl Original 36700000064 Kette 30 cm K](https://m.media-amazon.com/images/I/31IFsw5WzHL._SL400_.jpg)](https://www.amazon.de/dp/B00D79H6QM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00D79H6QM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

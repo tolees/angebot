@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.74 % rabat auf LG 38UC99-W 95 25 cm  37 5 Zoll  Curved '
+title: 'LG 38UC99-W 95 25 cm  37 5 Zoll  Curved 21:9 UltraWide™ IPS Monitor  QHD+  AMD Radeon FreeSync  DAS Mode   weiß'
 date: 2020-02-22 13:22:46
 image: 'https://m.media-amazon.com/images/I/41zmwl+RXsL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.74'
 average: '320.0'
 ---
 
-Es gibt ein [LG 38UC99-W 95 25 cm  37 5 Zoll  Curved 21:9 UltraWide™ IPS Monitor  QHD+  AMD Radeon FreeSync  DAS Mode   weiß](https://www.amazon.de/dp/B01LSRCQ14/?tag=tolees0ca-21) mit aktuellem Preis 320.0 EUR (original: 540.0 EUR) 40.74 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LG 38UC99-W 95 25 cm  37 5 Zoll  Curved ](https://m.media-amazon.com/images/I/41zmwl+RXsL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01LSRCQ14/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LSRCQ14/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

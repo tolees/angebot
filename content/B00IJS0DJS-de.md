@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.64 % rabat auf Maier sports Herren Nil Wanderhose  Fede'
+title: 'Maier sports Herren Nil Wanderhose  Feder grau  25'
 date: 2020-03-19 11:48:19
 image: 'https://m.media-amazon.com/images/I/41+gz4-0vzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.64'
 average: '68.69'
 ---
 
-Es gibt ein [Maier sports Herren Nil Wanderhose  Feder grau  25](https://www.amazon.de/dp/B00IJS0DJS/?tag=tolees0ca-21) mit aktuellem Preis 68.69 EUR (original: 89.95 EUR) 23.64 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Maier sports Herren Nil Wanderhose  Fede](https://m.media-amazon.com/images/I/41+gz4-0vzL._SL400_.jpg)](https://www.amazon.de/dp/B00IJS0DJS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00IJS0DJS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

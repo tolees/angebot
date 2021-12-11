@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '37.25 % rabat auf Sony Alpha 6300 E-Mount Systemkamera  24'
+title: 'Sony Alpha 6300 E-Mount Systemkamera  24.2 Megapixel  7 5 cm  3 Zoll  Display  XGA OLED Sucher  4K  inklusiv 16-50 mm Objektiv  Silber'
 date: 2020-03-12 10:13:44
 image: 'https://m.media-amazon.com/images/I/41vLfYX64AL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.25'
 average: '539.0'
 ---
 
-Es gibt ein [Sony Alpha 6300 E-Mount Systemkamera  24.2 Megapixel  7 5 cm  3 Zoll  Display  XGA OLED Sucher  4K  inklusiv 16-50 mm Objektiv  Silber](https://www.amazon.de/dp/B078VPCV74/?tag=tolees0ca-21) mit aktuellem Preis 539.0 EUR (original: 859.0 EUR) 37.25 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony Alpha 6300 E-Mount Systemkamera  24](https://m.media-amazon.com/images/I/41vLfYX64AL._SL400_.jpg)](https://www.amazon.de/dp/B078VPCV74/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B078VPCV74/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

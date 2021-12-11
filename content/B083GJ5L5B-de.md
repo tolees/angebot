@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K9CK Halterung für Lego Millenium Falcon mit 50.00 % Rabatt'
+title: 'K9CK Halterung für Lego Millenium Falcon 75192 - Modell Nicht Enthalten'
 date: 2020-03-08 10:31:03
 image: 'https://m.media-amazon.com/images/I/41AgDmVpOhL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '25.99'
 ---
 
-Sie können [K9CK Halterung für Lego Millenium Falcon 75192 - Modell Nicht Enthalten](https://www.amazon.de/dp/B083GJ5L5B/?tag=tolees0ca-21) mit Preis 25.99 EUR (original: 51.98 EUR) 50.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![K9CK Halterung für Lego Millenium Falcon](https://m.media-amazon.com/images/I/41AgDmVpOhL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B083GJ5L5B/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B083GJ5L5B/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

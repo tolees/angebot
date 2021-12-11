@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '55.00 % rabat auf Garmin 010-01597-11"vivomove Classic Led'
+title: 'Garmin 010-01597-11"vivomove Classic Lederarmband Rosegold'
 date: 2020-05-21 07:57:22
 image: 'https://m.media-amazon.com/images/I/51TAcROHbIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.00'
 average: '99.0'
 ---
 
-Es gibt ein [Garmin 010-01597-11"vivomove Classic Lederarmband Rosegold](https://www.amazon.de/dp/B01DWJP4UQ/?tag=tolees0ca-21) mit aktuellem Preis 99.0 EUR (original: 219.99 EUR) 55.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Garmin 010-01597-11"vivomove Classic Led](https://m.media-amazon.com/images/I/51TAcROHbIL._SL400_.jpg)](https://www.amazon.de/dp/B01DWJP4UQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01DWJP4UQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

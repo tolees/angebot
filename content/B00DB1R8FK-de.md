@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.51 % rabat auf Bio Granatapfel Muttersaft  6 x 1 Liter '
+title: 'Bio Granatapfel Muttersaft  6 x 1 Liter Granatapfelsaft Direktsaft'
 date: 2020-03-04 04:52:09
 image: 'https://m.media-amazon.com/images/I/41axi6QaURL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.51'
 average: '31.79'
 ---
 
-Es gibt ein [Bio Granatapfel Muttersaft  6 x 1 Liter Granatapfelsaft Direktsaft](https://www.amazon.de/dp/B00DB1R8FK/?tag=tolees0ca-21) mit aktuellem Preis 31.79 EUR (original: 39.99 EUR) 20.51 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bio Granatapfel Muttersaft  6 x 1 Liter ](https://m.media-amazon.com/images/I/41axi6QaURL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00DB1R8FK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00DB1R8FK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

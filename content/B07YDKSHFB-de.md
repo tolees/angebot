@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PITTMAN Cargo Hose Herren Darius - Männe mit 28.00 % Rabatt'
+title: 'PITTMAN Cargo Hose Herren Darius - Männer Chino by Pit Jeans - Schwarze Cargohosen - Jogginghose Hosen Pants  Schwarz  Black 194008   W29/L32'
 date: 2020-10-05 05:53:47
 image: 'https://m.media-amazon.com/images/I/31HKYJ5JAaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.00'
 average: '35.93'
 ---
 
-Sie können [PITTMAN Cargo Hose Herren Darius - Männer Chino by Pit Jeans - Schwarze Cargohosen - Jogginghose Hosen Pants  Schwarz  Black 194008   W29/L32](https://www.amazon.de/dp/B07YDKSHFB/?tag=tolees0ca-21) mit Preis 35.93 EUR (original: 49.9 EUR) 28.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PITTMAN Cargo Hose Herren Darius - Männe](https://m.media-amazon.com/images/I/31HKYJ5JAaL._SL400_.jpg)](https://www.amazon.de/dp/B07YDKSHFB/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07YDKSHFB/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

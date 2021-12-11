@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko B07HJ88F7J POP Vinyl: Movies: Jame mit 37.13 % Rabatt'
+title: 'Funko B07HJ88F7J POP Vinyl: Movies: James Bond: Le Chiffre Casino Royale 007-LeChiffre Sammelbares Spielzeug  Mehrfarben'
 date: 2020-03-24 13:09:24
 image: 'https://m.media-amazon.com/images/I/31LdXjUZ71L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.13'
 average: '7.67'
 ---
 
-Sie können [Funko B07HJ88F7J POP Vinyl: Movies: James Bond: Le Chiffre Casino Royale 007-LeChiffre Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07HJ88F7J/?tag=tolees0ca-21) mit Preis 7.67 EUR (original: 12.2 EUR) 37.13 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko B07HJ88F7J POP Vinyl: Movies: Jame](https://m.media-amazon.com/images/I/31LdXjUZ71L._SL400_.jpg)](https://www.amazon.de/dp/B07HJ88F7J/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HJ88F7J/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

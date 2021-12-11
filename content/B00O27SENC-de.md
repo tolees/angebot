@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'home3000 CD-Designregal in Weiß mit 16.68 % Rabatt'
+title: 'home3000 CD-Designregal in Weiß'
 date: 2020-04-15 23:56:33
 image: 'https://m.media-amazon.com/images/I/41G1-KtlGqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.68'
 average: '49.95'
 ---
 
-Sie können [home3000 CD-Designregal in Weiß](https://www.amazon.de/dp/B00O27SENC/?tag=tolees0ca-21) mit Preis 49.95 EUR (original: 59.95 EUR) 16.68 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![home3000 CD-Designregal in Weiß](https://m.media-amazon.com/images/I/41G1-KtlGqL._SL400_.jpg)](https://www.amazon.de/dp/B00O27SENC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00O27SENC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

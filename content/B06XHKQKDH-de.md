@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.03 % rabat auf GoPro Armband schwarz'
+title: 'GoPro Armband schwarz'
 date: 2020-09-21 15:20:00
 image: 'https://m.media-amazon.com/images/I/41eEzKPemFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.03'
 average: '29.95'
 ---
 
-Es gibt ein [GoPro Armband schwarz](https://www.amazon.de/dp/B06XHKQKDH/?tag=tolees0ca-21) mit aktuellem Preis 29.95 EUR (original: 46.1 EUR) 35.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GoPro Armband schwarz](https://m.media-amazon.com/images/I/41eEzKPemFL._SL400_.jpg)](https://www.amazon.de/dp/B06XHKQKDH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XHKQKDH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'moto g7 plus Dual-SIM Smartphone  6 2 Zo mit 40.33 % Rabatt'
+title: 'moto g7 plus Dual-SIM Smartphone  6 2 Zoll Display  16-MP-Dual-Kamera  64GB/4GB  Android 9.0  Deep Indigo'
 date: 2020-03-20 14:04:32
 image: 'https://m.media-amazon.com/images/I/417W3y-xS3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.33'
 average: '179.0'
 ---
 
-Sie können [moto g7 plus Dual-SIM Smartphone  6 2 Zoll Display  16-MP-Dual-Kamera  64GB/4GB  Android 9.0  Deep Indigo](https://www.amazon.de/dp/B07N4Q1W3J/?tag=tolees0ca-21) mit Preis 179.0 EUR (original: 299.99 EUR) 40.33 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![moto g7 plus Dual-SIM Smartphone  6 2 Zo](https://m.media-amazon.com/images/I/417W3y-xS3L._SL400_.jpg)](https://www.amazon.de/dp/B07N4Q1W3J/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07N4Q1W3J/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

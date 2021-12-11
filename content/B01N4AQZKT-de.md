@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.68 % rabat auf Starboy  2lp  [Vinyl LP]'
+title: 'Starboy  2lp  [Vinyl LP]'
 date: 2020-02-04 14:15:30
 image: 'https://m.media-amazon.com/images/I/51EyFpcKeJL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.68'
 average: '19.79'
 ---
 
-Es gibt ein [Starboy  2lp  [Vinyl LP]](https://www.amazon.de/dp/B01N4AQZKT/?tag=tolees0ca-21) mit aktuellem Preis 19.79 EUR (original: 26.99 EUR) 26.68 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Starboy  2lp  [Vinyl LP]](https://m.media-amazon.com/images/I/51EyFpcKeJL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01N4AQZKT/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N4AQZKT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

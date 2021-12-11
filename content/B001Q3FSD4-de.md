@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.03 % rabat auf 1/la-le-Lu'
+title: '1/la-le-Lu'
 date: 2020-09-25 22:01:59
 image: 'https://m.media-amazon.com/images/I/51t-15s0UuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.03'
 average: '2.37'
 ---
 
-Es gibt ein [1/la-le-Lu](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21) mit aktuellem Preis 2.37 EUR (original: 4.84 EUR) 51.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![1/la-le-Lu](https://m.media-amazon.com/images/I/51t-15s0UuL._SL400_.jpg)](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B001Q3FSD4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

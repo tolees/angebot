@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rekord mit 30.07 % Rabatt'
+title: 'Rekord'
 date: 2020-09-25 22:01:56
 image: 'https://m.media-amazon.com/images/I/51+n5MbMlxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.07'
 average: '2.86'
 ---
 
-Sie können [Rekord](https://www.amazon.de/dp/B00IYSP61S/?tag=tolees0ca-21) mit Preis 2.86 EUR (original: 4.09 EUR) 30.07 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Rekord](https://m.media-amazon.com/images/I/51+n5MbMlxL._SL400_.jpg)](https://www.amazon.de/dp/B00IYSP61S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00IYSP61S/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

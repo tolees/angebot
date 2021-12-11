@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.86 % rabat auf The Stage   Deluxe Edt. '
+title: 'The Stage   Deluxe Edt. '
 date: 2020-10-11 20:03:57
 image: 'https://m.media-amazon.com/images/I/514nyVD6KlL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.86'
 average: '6.99'
 ---
 
-Es gibt ein [The Stage   Deluxe Edt. ](https://www.amazon.de/dp/B076BJMG38/?tag=tolees0ca-21) mit aktuellem Preis 6.99 EUR (original: 12.91 EUR) 45.86 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![The Stage   Deluxe Edt. ](https://m.media-amazon.com/images/I/514nyVD6KlL._SL400_.jpg)](https://www.amazon.de/dp/B076BJMG38/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B076BJMG38/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

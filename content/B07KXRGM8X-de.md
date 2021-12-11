@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.18 % rabat auf SanDisk microSDXC UHS-I card for Nintend'
+title: 'SanDisk microSDXC UHS-I card for Nintendo Switch 64GB - Nintendo licensed Product  New '
 date: 2020-04-18 00:28:40
 image: 'https://m.media-amazon.com/images/I/41Ua8m10WjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.18'
 average: '16.13285714285714'
 ---
 
-Es gibt ein [SanDisk microSDXC UHS-I card for Nintendo Switch 64GB - Nintendo licensed Product  New ](https://www.amazon.de/dp/B07KXRGM8X/?tag=tolees0ca-21) mit aktuellem Preis 16.99 EUR (original: 23.99 EUR) 29.18 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SanDisk microSDXC UHS-I card for Nintend](https://m.media-amazon.com/images/I/41Ua8m10WjL._SL400_.jpg)](https://www.amazon.de/dp/B07KXRGM8X/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KXRGM8X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

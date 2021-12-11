@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Utopia mit 33.30 % Rabatt'
+title: 'Utopia'
 date: 2021-02-01 16:16:00
 image: 'https://m.media-amazon.com/images/I/41oSkgA+CoL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.30'
 average: '6.99'
 ---
 
-Sie können [Utopia](https://www.amazon.de/dp/B0761JP5PC/?tag=tolees0ca-21) mit Preis 6.99 EUR (original: 10.48 EUR) 33.30 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Utopia](https://m.media-amazon.com/images/I/41oSkgA+CoL._SL400_.jpg)](https://www.amazon.de/dp/B0761JP5PC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0761JP5PC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

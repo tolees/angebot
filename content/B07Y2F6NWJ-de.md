@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.29 % rabat auf Microsoft Surface Pro X  13 Zoll 2-in-1 '
+title: 'Microsoft Surface Pro X  13 Zoll 2-in-1 Tablet  Microsoft SQ1  16GB RAM  256GB SSD  Win 10 Home '
 date: 2020-02-24 06:54:47
 image: 'https://m.media-amazon.com/images/I/41j6PAxjyCL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.29'
 average: '1199.0'
 ---
 
-Es gibt ein [Microsoft Surface Pro X  13 Zoll 2-in-1 Tablet  Microsoft SQ1  16GB RAM  256GB SSD  Win 10 Home ](https://www.amazon.de/dp/B07Y2F6NWJ/?tag=tolees0ca-21) mit aktuellem Preis 1199.0 EUR (original: 1649.0 EUR) 27.29 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Microsoft Surface Pro X  13 Zoll 2-in-1 ](https://m.media-amazon.com/images/I/41j6PAxjyCL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07Y2F6NWJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Y2F6NWJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

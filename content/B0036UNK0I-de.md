@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.50 % rabat auf Park Tool Montageständer PRS-25 Team Iss'
+title: 'Park Tool Montageständer PRS-25 Team Issue  4000277'
 date: 2020-04-16 08:40:48
 image: 'https://m.media-amazon.com/images/I/31bCAmIybiL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.50'
 average: '289.95'
 ---
 
-Es gibt ein [Park Tool Montageständer PRS-25 Team Issue  4000277](https://www.amazon.de/dp/B0036UNK0I/?tag=tolees0ca-21) mit aktuellem Preis 289.95 EUR (original: 399.95 EUR) 27.50 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Park Tool Montageständer PRS-25 Team Iss](https://m.media-amazon.com/images/I/31bCAmIybiL._SL400_.jpg)](https://www.amazon.de/dp/B0036UNK0I/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0036UNK0I/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

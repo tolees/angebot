@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.03 % rabat auf Wissen ist Macht: Dekaden [PlayStation 4'
+title: 'Wissen ist Macht: Dekaden [PlayStation 4]'
 date: 2020-06-04 17:21:39
 image: 'https://m.media-amazon.com/images/I/51EPbpHrooL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.03'
 average: '9.99'
 ---
 
-Es gibt ein [Wissen ist Macht: Dekaden [PlayStation 4]](https://www.amazon.de/dp/B07FG4TZFK/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 19.99 EUR) 50.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Wissen ist Macht: Dekaden [PlayStation 4](https://m.media-amazon.com/images/I/51EPbpHrooL._SL400_.jpg)](https://www.amazon.de/dp/B07FG4TZFK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FG4TZFK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

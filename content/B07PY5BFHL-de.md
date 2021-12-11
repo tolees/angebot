@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG 60UM71007LB 151 cm  60 Zoll  Fernsehe mit 21.21 % Rabatt'
+title: 'LG 60UM71007LB 151 cm  60 Zoll  Fernseher  UHD  Triple Tuner  4K Active HDR  Smart TV '
 date: 2020-05-15 17:03:19
 image: 'https://m.media-amazon.com/images/I/51yFm+oJPaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.21'
 average: '529.0'
 ---
 
-Sie können [LG 60UM71007LB 151 cm  60 Zoll  Fernseher  UHD  Triple Tuner  4K Active HDR  Smart TV ](https://www.amazon.de/dp/B07PY5BFHL/?tag=tolees0ca-21) mit Preis 529.0 EUR (original: 671.43 EUR) 21.21 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LG 60UM71007LB 151 cm  60 Zoll  Fernsehe](https://m.media-amazon.com/images/I/51yFm+oJPaL._SL400_.jpg)](https://www.amazon.de/dp/B07PY5BFHL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PY5BFHL/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

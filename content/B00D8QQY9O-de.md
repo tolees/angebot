@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Herren Performance Poloshir mit 69.15 % Rabatt'
+title: 'Under Armour Herren Performance Poloshirt  Grau carbon heather  S'
 date: 2020-03-10 04:44:47
 image: 'https://m.media-amazon.com/images/I/41StjFf7xJL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '69.15'
 average: '15.42'
 ---
 
-Sie können [Under Armour Herren Performance Poloshirt  Grau carbon heather  S](https://www.amazon.de/dp/B00D8QQY9O/?tag=tolees0ca-21) mit Preis 15.42 EUR (original: 49.98 EUR) 69.15 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Under Armour Herren Performance Poloshir](https://m.media-amazon.com/images/I/41StjFf7xJL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00D8QQY9O/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00D8QQY9O/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

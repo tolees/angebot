@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.01 % rabat auf Big Spielwarenfabrik 57072 Bausteine  Mu'
+title: 'Big Spielwarenfabrik 57072 Bausteine  Multicolour'
 date: 2020-03-24 13:09:58
 image: 'https://m.media-amazon.com/images/I/41aRqwqmxxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.01'
 average: '5.77'
 ---
 
-Es gibt ein [Big Spielwarenfabrik 57072 Bausteine  Multicolour](https://www.amazon.de/dp/B00M0LWL0O/?tag=tolees0ca-21) mit aktuellem Preis 5.77 EUR (original: 9.95 EUR) 42.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Big Spielwarenfabrik 57072 Bausteine  Mu](https://m.media-amazon.com/images/I/41aRqwqmxxL._SL400_.jpg)](https://www.amazon.de/dp/B00M0LWL0O/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00M0LWL0O/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

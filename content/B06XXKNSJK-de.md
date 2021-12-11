@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.42 % rabat auf Philips YKF406-003 996596006068 Original'
+title: 'Philips YKF406-003 996596006068 Original-Fernbedienung für 32PHS5301  32PHT5301  32PHT5302  65PUT6121  65PUS6121 | Neuware'
 date: 2020-03-24 16:47:38
 image: 'https://m.media-amazon.com/images/I/41Z9pzUlcwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.42'
 average: '11.57'
 ---
 
-Es gibt ein [Philips YKF406-003 996596006068 Original-Fernbedienung für 32PHS5301  32PHT5301  32PHT5302  65PUT6121  65PUS6121 | Neuware](https://www.amazon.de/dp/B06XXKNSJK/?tag=tolees0ca-21) mit aktuellem Preis 13.84 EUR (original: 24.9 EUR) 44.42 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Philips YKF406-003 996596006068 Original](https://m.media-amazon.com/images/I/41Z9pzUlcwL._SL400_.jpg)](https://www.amazon.de/dp/B06XXKNSJK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XXKNSJK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Siemens EX645LXC1E iQ700 Kochfeld Elektr mit 63.59 % Rabatt'
+title: 'Siemens EX645LXC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 58 3 cm / Flexible Kochzonen - 2 varioInduktions-Kochzonen / schwarz'
 date: 2020-04-04 16:06:55
 image: 'https://m.media-amazon.com/images/I/510xzq0Hk3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '63.59'
 average: '599.0'
 ---
 
-Sie können [Siemens EX645LXC1E iQ700 Kochfeld Elektro / Ceran/Glaskeramik / 58 3 cm / Flexible Kochzonen - 2 varioInduktions-Kochzonen / schwarz](https://www.amazon.de/dp/B017IZGILE/?tag=tolees0ca-21) mit Preis 599.0 EUR (original: 1645.0 EUR) 63.59 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Siemens EX645LXC1E iQ700 Kochfeld Elektr](https://m.media-amazon.com/images/I/510xzq0Hk3L._SL400_.jpg)](https://www.amazon.de/dp/B017IZGILE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B017IZGILE/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.02 % rabat auf Funko 33881 The Simpsons: Abe POP Vinylf'
+title: 'Funko 33881 The Simpsons: Abe POP Vinylfigur  Multi'
 date: 2020-02-15 15:20:38
 image: 'https://m.media-amazon.com/images/I/318S649jJ9L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.02'
 average: '8.39'
 ---
 
-Es gibt ein [Funko 33881 The Simpsons: Abe POP Vinylfigur  Multi](https://www.amazon.de/dp/B07DFDK26N/?tag=tolees0ca-21) mit aktuellem Preis 8.39 EUR (original: 10.49 EUR) 20.02 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 33881 The Simpsons: Abe POP Vinylf](https://m.media-amazon.com/images/I/318S649jJ9L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07DFDK26N/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07DFDK26N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung DA29-10105J HAFEX / EXP Wasserfi mit 23.02 % Rabatt'
+title: 'Samsung DA29-10105J HAFEX / EXP Wasserfilter für Samsung Kühlschrank  3 Stück  '
 date: 2020-03-23 05:06:30
 image: 'https://m.media-amazon.com/images/I/51jKEV0McbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.02'
 average: '38.5'
 ---
 
-Sie können [Samsung DA29-10105J HAFEX / EXP Wasserfilter für Samsung Kühlschrank  3 Stück  ](https://www.amazon.de/dp/B018WN9VNI/?tag=tolees0ca-21) mit Preis 38.5 EUR (original: 50.01 EUR) 23.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung DA29-10105J HAFEX / EXP Wasserfi](https://m.media-amazon.com/images/I/51jKEV0McbL._SL400_.jpg)](https://www.amazon.de/dp/B018WN9VNI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B018WN9VNI/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

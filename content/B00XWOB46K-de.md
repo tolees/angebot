@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.87 % rabat auf Nike Herren Court Royale Sneaker Sneaker'
+title: 'Nike Herren Court Royale Sneaker Sneakers  Weiß  White / White   41 EU'
 date: 2020-10-08 19:43:39
 image: 'https://m.media-amazon.com/images/I/31PxNupRWIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.87'
 average: '34.72'
 ---
 
-Es gibt ein [Nike Herren Court Royale Sneaker Sneakers  Weiß  White / White   41 EU](https://www.amazon.de/dp/B00XWOB46K/?tag=tolees0ca-21) mit aktuellem Preis 34.72 EUR (original: 55.0 EUR) 36.87 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Nike Herren Court Royale Sneaker Sneaker](https://m.media-amazon.com/images/I/31PxNupRWIL._SL400_.jpg)](https://www.amazon.de/dp/B00XWOB46K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00XWOB46K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

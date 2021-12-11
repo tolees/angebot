@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch PST 700 ReadyToSaw Stichsäge inkl. mit 23.47 % Rabatt'
+title: 'Bosch PST 700 ReadyToSaw Stichsäge inkl. Koffer 500W'
 date: 2020-01-16 19:38:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iY5YWFXVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.47'
 average: '91.83'
 ---
 
-Sie können [Bosch PST 700 ReadyToSaw Stichsäge inkl. Koffer 500W](https://www.amazon.de/dp/B07FV3VBWJ/?tag=tolees0ca-21) mit Preis 91.83 EUR (original: 119.99 EUR) 23.47 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch PST 700 ReadyToSaw Stichsäge inkl.](https://images-eu.ssl-images-amazon.com/images/I/41iY5YWFXVL._SL400_.jpg)](https://www.amazon.de/dp/B07FV3VBWJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07FV3VBWJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tierisch wild  Disney Classics  mit 20.03 % Rabatt'
+title: 'Tierisch wild  Disney Classics '
 date: 2020-10-09 03:45:52
 image: 'https://m.media-amazon.com/images/I/51qGctAO6XL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.03'
 average: '6.23'
 ---
 
-Sie können [Tierisch wild  Disney Classics ](https://www.amazon.de/dp/B077BTMC5T/?tag=tolees0ca-21) mit Preis 6.23 EUR (original: 7.79 EUR) 20.03 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Tierisch wild  Disney Classics ](https://m.media-amazon.com/images/I/51qGctAO6XL._SL400_.jpg)](https://www.amazon.de/dp/B077BTMC5T/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B077BTMC5T/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

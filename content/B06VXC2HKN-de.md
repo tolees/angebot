@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '71.69 % rabat auf Fitbit Alta HR & Alta Classic Band'
+title: 'Fitbit Alta HR & Alta Classic Band'
 date: 2020-02-29 13:53:45
 image: 'https://m.media-amazon.com/images/I/314m-FtK9lL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '71.69'
 average: '8.48'
 ---
 
-Es gibt ein [Fitbit Alta HR & Alta Classic Band](https://www.amazon.de/dp/B06VXC2HKN/?tag=tolees0ca-21) mit aktuellem Preis 8.48 EUR (original: 29.95 EUR) 71.69 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Fitbit Alta HR & Alta Classic Band](https://m.media-amazon.com/images/I/314m-FtK9lL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B06VXC2HKN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06VXC2HKN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

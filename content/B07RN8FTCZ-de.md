@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.14 % rabat auf Funko 44270 POP NBA: OKC-Paul George Sam'
+title: 'Funko 44270 POP NBA: OKC-Paul George Sammelbares Spielzeug  Mehrfarben'
 date: 2020-03-17 10:49:55
 image: 'https://m.media-amazon.com/images/I/41v8MfakuuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.14'
 average: '9.49'
 ---
 
-Es gibt ein [Funko 44270 POP NBA: OKC-Paul George Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07RN8FTCZ/?tag=tolees0ca-21) mit aktuellem Preis 9.49 EUR (original: 16.99 EUR) 44.14 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 44270 POP NBA: OKC-Paul George Sam](https://m.media-amazon.com/images/I/41v8MfakuuL._SL400_.jpg)](https://www.amazon.de/dp/B07RN8FTCZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07RN8FTCZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

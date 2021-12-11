@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.85 % rabat auf Deadpool Life Size Vinyl Figur 543 Funko'
+title: 'Deadpool Life Size Vinyl Figur 543 Funko Pop! Standard'
 date: 2020-04-10 07:20:42
 image: 'https://m.media-amazon.com/images/I/51zNZK+ECcL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.85'
 average: '32.63'
 ---
 
-Es gibt ein [Deadpool Life Size Vinyl Figur 543 Funko Pop! Standard](https://www.amazon.de/dp/B0826CSQ8P/?tag=tolees0ca-21) mit aktuellem Preis 32.63 EUR (original: 42.85 EUR) 23.85 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Deadpool Life Size Vinyl Figur 543 Funko](https://m.media-amazon.com/images/I/51zNZK+ECcL._SL400_.jpg)](https://www.amazon.de/dp/B0826CSQ8P/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0826CSQ8P/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

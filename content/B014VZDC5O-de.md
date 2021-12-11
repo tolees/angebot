@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair Strafe RGB Mechanische Gaming Ta mit 23.89 % Rabatt'
+title: 'Corsair Strafe RGB Mechanische Gaming Tastatur  Cherry MX Silent: Leichtgängig und Flüsterleise  Multi-Color RGB Beleuchtung  QWERTZ  schwarz'
 date: 2020-01-11 12:06:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514%2B%2BADZ6iL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.89'
 average: '136.99'
 ---
 
-Sie können [Corsair Strafe RGB Mechanische Gaming Tastatur  Cherry MX Silent: Leichtgängig und Flüsterleise  Multi-Color RGB Beleuchtung  QWERTZ  schwarz](https://www.amazon.de/dp/B014VZDC5O/?tag=tolees0ca-21) mit Preis 136.99 EUR (original: 179.99 EUR) 23.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Corsair Strafe RGB Mechanische Gaming Ta](https://images-eu.ssl-images-amazon.com/images/I/514%2B%2BADZ6iL._SL400_.jpg)](https://www.amazon.de/dp/B014VZDC5O/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B014VZDC5O/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

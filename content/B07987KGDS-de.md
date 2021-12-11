@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 26713 Grumpy Bear Spielfigur  Mehr mit 42.89 % Rabatt'
+title: 'Funko 26713 Grumpy Bear Spielfigur  Mehrfarbig  10 Centimeters'
 date: 2020-03-26 13:02:48
 image: 'https://m.media-amazon.com/images/I/41zmdTMG-sL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.89'
 average: '7.99'
 ---
 
-Sie können [Funko 26713 Grumpy Bear Spielfigur  Mehrfarbig  10 Centimeters](https://www.amazon.de/dp/B07987KGDS/?tag=tolees0ca-21) mit Preis 7.99 EUR (original: 13.99 EUR) 42.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 26713 Grumpy Bear Spielfigur  Mehr](https://m.media-amazon.com/images/I/41zmdTMG-sL._SL400_.jpg)](https://www.amazon.de/dp/B07987KGDS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07987KGDS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One Piece World Seeker Standard - [PlayS mit 37.41 % Rabatt'
+title: 'One Piece World Seeker Standard - [PlayStation 4]'
 date: 2020-03-15 04:42:27
 image: 'https://m.media-amazon.com/images/I/51snQGGgzaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.41'
 average: '15.64'
 ---
 
-Sie können [One Piece World Seeker Standard - [PlayStation 4]](https://www.amazon.de/dp/B079PC9JQ5/?tag=tolees0ca-21) mit Preis 15.64 EUR (original: 24.99 EUR) 37.41 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![One Piece World Seeker Standard - [PlayS](https://m.media-amazon.com/images/I/51snQGGgzaL._SL400_.jpg)](https://www.amazon.de/dp/B079PC9JQ5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B079PC9JQ5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '56.39 % rabat auf LEGO Nexo Knights 70373 - Combo NEXO Krä'
+title: 'LEGO Nexo Knights 70373 - Combo NEXO Kräfte'
 date: 2020-03-30 13:09:45
 image: 'https://m.media-amazon.com/images/I/51SU4zYu63L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.39'
 average: '3.8200000000000003'
 ---
 
-Es gibt ein [LEGO Nexo Knights 70373 - Combo NEXO Kräfte](https://www.amazon.de/dp/B06WW3PSQ8/?tag=tolees0ca-21) mit aktuellem Preis 2.32 EUR (original: 5.32 EUR) 56.39 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Nexo Knights 70373 - Combo NEXO Krä](https://m.media-amazon.com/images/I/51SU4zYu63L._SL400_.jpg)](https://www.amazon.de/dp/B06WW3PSQ8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WW3PSQ8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

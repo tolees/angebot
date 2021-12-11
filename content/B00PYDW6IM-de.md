@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.33 % rabat auf Nike Md Runner 2  Herren Gymnastikschuhe'
+title: 'Nike Md Runner 2  Herren Gymnastikschuhe  Blau  Midnight Navy/White-Wolf Grey   42 EU'
 date: 2020-08-08 10:09:29
 image: 'https://m.media-amazon.com/images/I/414K992h9aL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.33'
 average: '53.9'
 ---
 
-Es gibt ein [Nike Md Runner 2  Herren Gymnastikschuhe  Blau  Midnight Navy/White-Wolf Grey   42 EU](https://www.amazon.de/dp/B00PYDW6IM/?tag=tolees0ca-21) mit aktuellem Preis 53.9 EUR (original: 66.0 EUR) 18.33 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Nike Md Runner 2  Herren Gymnastikschuhe](https://m.media-amazon.com/images/I/414K992h9aL._SL400_.jpg)](https://www.amazon.de/dp/B00PYDW6IM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00PYDW6IM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

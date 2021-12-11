@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.48 % rabat auf Talisker Single Malt Whisky 10 Jahre  Ge'
+title: 'Talisker Single Malt Whisky 10 Jahre  Geschenkpackung mit 2 Gläsern  1 x 0.7 l '
 date: 2020-01-27 17:29:55
 image: 'https://m.media-amazon.com/images/I/51kMiwyaSuL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.48'
 average: '28.31'
 ---
 
-Es gibt ein [Talisker Single Malt Whisky 10 Jahre  Geschenkpackung mit 2 Gläsern  1 x 0.7 l ](https://www.amazon.de/dp/B076JKSGMT/?tag=tolees0ca-21) mit aktuellem Preis 28.31 EUR (original: 37.99 EUR) 25.48 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Talisker Single Malt Whisky 10 Jahre  Ge](https://m.media-amazon.com/images/I/51kMiwyaSuL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B076JKSGMT/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B076JKSGMT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

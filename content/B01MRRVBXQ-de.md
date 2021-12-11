@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ergonomischer Dreikant-Bleistift für Rec mit 33.78 % Rabatt'
+title: 'Ergonomischer Dreikant-Bleistift für Rechtshänder -  STABILO EASYgraph in grün - Härtegrad HB - 2er Pack'
 date: 2020-03-05 04:45:14
 image: 'https://m.media-amazon.com/images/I/41U34C3nhNL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.78'
 average: '3.94'
 ---
 
-Sie können [Ergonomischer Dreikant-Bleistift für Rechtshänder -  STABILO EASYgraph in grün - Härtegrad HB - 2er Pack](https://www.amazon.de/dp/B01MRRVBXQ/?tag=tolees0ca-21) mit Preis 3.94 EUR (original: 5.95 EUR) 33.78 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ergonomischer Dreikant-Bleistift für Rec](https://m.media-amazon.com/images/I/41U34C3nhNL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01MRRVBXQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01MRRVBXQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

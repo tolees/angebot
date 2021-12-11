@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pop Fortnite Dark Voyager Vinyl Figure mit 66.47 % Rabatt'
+title: 'Pop Fortnite Dark Voyager Vinyl Figure'
 date: 2020-03-17 10:48:57
 image: 'https://m.media-amazon.com/images/I/41oMYMFxpYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.47'
 average: '4.99'
 ---
 
-Sie können [Pop Fortnite Dark Voyager Vinyl Figure](https://www.amazon.de/dp/B07JV7RKQK/?tag=tolees0ca-21) mit Preis 3.45 EUR (original: 10.29 EUR) 66.47 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Pop Fortnite Dark Voyager Vinyl Figure](https://m.media-amazon.com/images/I/41oMYMFxpYL._SL400_.jpg)](https://www.amazon.de/dp/B07JV7RKQK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JV7RKQK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

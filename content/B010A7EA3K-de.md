@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Icy Box IB-AC636 Tablet Halterung  22 9  mit 37.61 % Rabatt'
+title: 'Icy Box IB-AC636 Tablet Halterung  22 9 cm bis 27 9 cm  mit Doppelgelenkarm  drehbar um 360 Grad  Befestigung per Schraubklemme schwarz'
 date: 2020-10-12 13:54:53
 image: 'https://m.media-amazon.com/images/I/41vX9ajzPGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.61'
 average: '59.27'
 ---
 
-Sie können [Icy Box IB-AC636 Tablet Halterung  22 9 cm bis 27 9 cm  mit Doppelgelenkarm  drehbar um 360 Grad  Befestigung per Schraubklemme schwarz](https://www.amazon.de/dp/B010A7EA3K/?tag=tolees0ca-21) mit Preis 59.27 EUR (original: 95.0 EUR) 37.61 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Icy Box IB-AC636 Tablet Halterung  22 9 ](https://m.media-amazon.com/images/I/41vX9ajzPGL._SL400_.jpg)](https://www.amazon.de/dp/B010A7EA3K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B010A7EA3K/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

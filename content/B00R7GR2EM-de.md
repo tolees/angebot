@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '15.16 % rabat auf WOLF-Garten - Rasen-Langzeitdünger »Prem'
+title: 'WOLF-Garten - Rasen-Langzeitdünger »Premium« 120 Tage LE 450  3830045'
 date: 2020-02-01 12:36:17
 image: 'https://m.media-amazon.com/images/I/41dXA0HogDL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.16'
 average: '27.7'
 ---
 
-Es gibt ein [WOLF-Garten - Rasen-Langzeitdünger »Premium« 120 Tage LE 450  3830045](https://www.amazon.de/dp/B00R7GR2EM/?tag=tolees0ca-21) mit aktuellem Preis 27.7 EUR (original: 32.65 EUR) 15.16 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![WOLF-Garten - Rasen-Langzeitdünger »Prem](https://m.media-amazon.com/images/I/41dXA0HogDL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00R7GR2EM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00R7GR2EM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

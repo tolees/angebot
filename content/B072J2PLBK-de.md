@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.13 % rabat auf Lenovo L24q-10 60 45 cm  23 8 Zoll QHD I'
+title: 'Lenovo L24q-10 60 45 cm  23 8 Zoll QHD IPS matt  Monitor  HDMI  DisplayPort  4ms Reaktionszeit  silber'
 date: 2020-02-04 05:25:29
 image: 'https://m.media-amazon.com/images/I/41q+xS3BUVL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.13'
 average: '149.0'
 ---
 
-Es gibt ein [Lenovo L24q-10 60 45 cm  23 8 Zoll QHD IPS matt  Monitor  HDMI  DisplayPort  4ms Reaktionszeit  silber](https://www.amazon.de/dp/B072J2PLBK/?tag=tolees0ca-21) mit aktuellem Preis 149.0 EUR (original: 199.0 EUR) 25.13 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Lenovo L24q-10 60 45 cm  23 8 Zoll QHD I](https://m.media-amazon.com/images/I/41q+xS3BUVL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B072J2PLBK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B072J2PLBK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

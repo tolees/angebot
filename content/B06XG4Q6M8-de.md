@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '72.31 % rabat auf Fila Classic Logo Hoody  Sweatshirt Grau'
+title: 'Fila Classic Logo Hoody  Sweatshirt Grau XL'
 date: 2020-03-30 12:16:29
 image: 'https://m.media-amazon.com/images/I/412+SbWwWgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '72.31'
 average: '18.0'
 ---
 
-Es gibt ein [Fila Classic Logo Hoody  Sweatshirt Grau XL](https://www.amazon.de/dp/B06XG4Q6M8/?tag=tolees0ca-21) mit aktuellem Preis 18.0 EUR (original: 65.0 EUR) 72.31 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Fila Classic Logo Hoody  Sweatshirt Grau](https://m.media-amazon.com/images/I/412+SbWwWgL._SL400_.jpg)](https://www.amazon.de/dp/B06XG4Q6M8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XG4Q6M8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

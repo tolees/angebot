@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stubai Astbeil Nirolook Messing-Stielsch mit 16.50 % Rabatt'
+title: 'Stubai Astbeil Nirolook Messing-Stielschutz 1200 g'
 date: 2020-04-16 08:06:35
 image: 'https://m.media-amazon.com/images/I/31O-lHmbFbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.50'
 average: '78.82'
 ---
 
-Sie können [Stubai Astbeil Nirolook Messing-Stielschutz 1200 g](https://www.amazon.de/dp/B00TU4G1AK/?tag=tolees0ca-21) mit Preis 78.82 EUR (original: 94.4 EUR) 16.50 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Stubai Astbeil Nirolook Messing-Stielsch](https://m.media-amazon.com/images/I/31O-lHmbFbL._SL400_.jpg)](https://www.amazon.de/dp/B00TU4G1AK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00TU4G1AK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

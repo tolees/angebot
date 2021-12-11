@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yamaha WX-010 White MusicCast WX-010 Net mit 37.35 % Rabatt'
+title: 'Yamaha WX-010 White MusicCast WX-010 Netzwerklautsprecher weiß'
 date: 2020-04-18 16:16:00
 image: 'https://m.media-amazon.com/images/I/415NkrLHdKL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.35'
 average: '112.14'
 ---
 
-Sie können [Yamaha WX-010 White MusicCast WX-010 Netzwerklautsprecher weiß](https://www.amazon.de/dp/B01KHHC7NS/?tag=tolees0ca-21) mit Preis 112.14 EUR (original: 179.0 EUR) 37.35 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Yamaha WX-010 White MusicCast WX-010 Net](https://m.media-amazon.com/images/I/415NkrLHdKL._SL400_.jpg)](https://www.amazon.de/dp/B01KHHC7NS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01KHHC7NS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.76 % rabat auf DARLINGTON & Sohns Blauer Controller für'
+title: 'DARLINGTON & Sohns Blauer Controller für Nintendo 64 N64 Joystick Blau Gamepad Joypad + Verlängerung Extansion Verlängerungskabel Gamepad'
 date: 2020-08-09 12:05:30
 image: 'https://m.media-amazon.com/images/I/41xLtnh0tGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.76'
 average: '17.75'
 ---
 
-Es gibt ein [DARLINGTON & Sohns Blauer Controller für Nintendo 64 N64 Joystick Blau Gamepad Joypad + Verlängerung Extansion Verlängerungskabel Gamepad](https://www.amazon.de/dp/B08F3P72JT/?tag=tolees0ca-21) mit aktuellem Preis 17.75 EUR (original: 21.85 EUR) 18.76 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![DARLINGTON & Sohns Blauer Controller für](https://m.media-amazon.com/images/I/41xLtnh0tGL._SL400_.jpg)](https://www.amazon.de/dp/B08F3P72JT/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B08F3P72JT/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

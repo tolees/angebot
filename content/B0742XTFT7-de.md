@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pegasus Spiele 57104G - Kingdomino Spiel mit 24.75 % Rabatt'
+title: 'Pegasus Spiele 57104G - Kingdomino Spiel des Jahres 2017'
 date: 2020-09-11 08:31:16
 image: 'https://m.media-amazon.com/images/I/617GA1QWKyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.75'
 average: '11.85'
 ---
 
-Sie können [Pegasus Spiele 57104G - Kingdomino Spiel des Jahres 2017](https://www.amazon.de/dp/B0742XTFT7/?tag=tolees0ca-21) mit Preis 11.28 EUR (original: 14.99 EUR) 24.75 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Pegasus Spiele 57104G - Kingdomino Spiel](https://m.media-amazon.com/images/I/617GA1QWKyL._SL400_.jpg)](https://www.amazon.de/dp/B0742XTFT7/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0742XTFT7/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

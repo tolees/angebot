@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 32118 The Flash: Vibe POP Vinylfig mit 52.14 % Rabatt'
+title: 'Funko 32118 The Flash: Vibe POP Vinylfigur  Multi'
 date: 2020-03-18 02:40:05
 image: 'https://m.media-amazon.com/images/I/417f0rQhfJL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.14'
 average: '10.16375'
 ---
 
-Sie können [Funko 32118 The Flash: Vibe POP Vinylfigur  Multi](https://www.amazon.de/dp/B07DFDFZ63/?tag=tolees0ca-21) mit Preis 5.26 EUR (original: 10.99 EUR) 52.14 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 32118 The Flash: Vibe POP Vinylfig](https://m.media-amazon.com/images/I/417f0rQhfJL._SL400_.jpg)](https://www.amazon.de/dp/B07DFDFZ63/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DFDFZ63/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

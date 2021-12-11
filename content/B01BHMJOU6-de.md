@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.45 % rabat auf Funko 7295 No Actionfigur Disney: Alice '
+title: 'Funko 7295 No Actionfigur Disney: Alice Through Looking Glass: Kingsleigh'
 date: 2020-02-23 11:57:36
 image: 'https://m.media-amazon.com/images/I/41yw6tO5xoL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.45'
 average: '10.43'
 ---
 
-Es gibt ein [Funko 7295 No Actionfigur Disney: Alice Through Looking Glass: Kingsleigh](https://www.amazon.de/dp/B01BHMJOU6/?tag=tolees0ca-21) mit aktuellem Preis 10.43 EUR (original: 13.99 EUR) 25.45 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 7295 No Actionfigur Disney: Alice ](https://m.media-amazon.com/images/I/41yw6tO5xoL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01BHMJOU6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01BHMJOU6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

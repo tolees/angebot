@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony GTKXB60B.CEL GTK-XB60 Bluetooth Par mit 23.31 % Rabatt'
+title: 'Sony GTKXB60B.CEL GTK-XB60 Bluetooth Party Lautsprecher  Extra Bass  NFC  Lichteffekte  14 Stunden Akku  kompatibel mit Party Chain  schwarz'
 date: 2020-10-05 17:25:25
 image: 'https://m.media-amazon.com/images/I/31voM6xP-PL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.31'
 average: '214.48000000000002'
 ---
 
-Sie können [Sony GTKXB60B.CEL GTK-XB60 Bluetooth Party Lautsprecher  Extra Bass  NFC  Lichteffekte  14 Stunden Akku  kompatibel mit Party Chain  schwarz](https://www.amazon.de/dp/B074X1KZLF/?tag=tolees0ca-21) mit Preis 213.97 EUR (original: 279.0 EUR) 23.31 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony GTKXB60B.CEL GTK-XB60 Bluetooth Par](https://m.media-amazon.com/images/I/31voM6xP-PL._SL400_.jpg)](https://www.amazon.de/dp/B074X1KZLF/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B074X1KZLF/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

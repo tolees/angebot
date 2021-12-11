@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.09 % rabat auf Funko 30730 Marvel: Ant-Man & The Wasp w'
+title: 'Funko 30730 Marvel: Ant-Man & The Wasp w/Chase POP Bobble  Mehrfarbig'
 date: 2020-03-24 21:07:27
 image: 'https://m.media-amazon.com/images/I/413x-ibJPrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.09'
 average: '10.865882352941176'
 ---
 
-Es gibt ein [Funko 30730 Marvel: Ant-Man & The Wasp w/Chase POP Bobble  Mehrfarbig](https://www.amazon.de/dp/B07CKFY4V6/?tag=tolees0ca-21) mit aktuellem Preis 10.06 EUR (original: 13.99 EUR) 28.09 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 30730 Marvel: Ant-Man & The Wasp w](https://m.media-amazon.com/images/I/413x-ibJPrL._SL400_.jpg)](https://www.amazon.de/dp/B07CKFY4V6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07CKFY4V6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

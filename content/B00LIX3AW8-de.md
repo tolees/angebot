@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.11 % rabat auf 3 Sprouts Aufbewahrungskiste Elefant'
+title: '3 Sprouts Aufbewahrungskiste Elefant'
 date: 2020-03-05 04:43:40
 image: 'https://m.media-amazon.com/images/I/41WxYcAxp3L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.11'
 average: '20.95'
 ---
 
-Es gibt ein [3 Sprouts Aufbewahrungskiste Elefant](https://www.amazon.de/dp/B00LIX3AW8/?tag=tolees0ca-21) mit aktuellem Preis 20.95 EUR (original: 25.9 EUR) 19.11 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![3 Sprouts Aufbewahrungskiste Elefant](https://m.media-amazon.com/images/I/41WxYcAxp3L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00LIX3AW8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00LIX3AW8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.05 % rabat auf Elfcraft Lederarmband Herren Armband Met'
+title: 'Elfcraft Lederarmband Herren Armband Meteorite Schwarz mit Echtem Meteoritenstein Zertifiziert Verschluss Echt Silber 925 Made in Germany-S'
 date: 2020-04-14 23:56:28
 image: 'https://m.media-amazon.com/images/I/41HJLRTHKAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.05'
 average: '98.9'
 ---
 
-Es gibt ein [Elfcraft Lederarmband Herren Armband Meteorite Schwarz mit Echtem Meteoritenstein Zertifiziert Verschluss Echt Silber 925 Made in Germany-S](https://www.amazon.de/dp/B0814SGLMP/?tag=tolees0ca-21) mit aktuellem Preis 98.9 EUR (original: 198.0 EUR) 50.05 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Elfcraft Lederarmband Herren Armband Met](https://m.media-amazon.com/images/I/41HJLRTHKAL._SL400_.jpg)](https://www.amazon.de/dp/B0814SGLMP/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0814SGLMP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

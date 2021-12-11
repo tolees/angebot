@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '66.00 % rabat auf DeWalt Akku-Schnellladegerät/ Akkuladege'
+title: 'DeWalt Akku-Schnellladegerät/ Akkuladegerät  10 8- 18 Volt  lädt alle XR-Schiebe Akkus  schonendes Schnellladen  Wandmontage möglich  platzsparend  DCB115'
 date: 2020-01-16 09:10:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518kvC5jirL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.00'
 average: '36.82'
 ---
 
-Es gibt ein [DeWalt Akku-Schnellladegerät/ Akkuladegerät  10 8- 18 Volt  lädt alle XR-Schiebe Akkus  schonendes Schnellladen  Wandmontage möglich  platzsparend  DCB115](https://www.amazon.de/dp/B01E85JRZ6/?tag=tolees0ca-21) mit aktuellem Preis 36.82 EUR (original: 108.29 EUR) 66.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![DeWalt Akku-Schnellladegerät/ Akkuladege](https://images-eu.ssl-images-amazon.com/images/I/518kvC5jirL._SL400_.jpg)](https://www.amazon.de/dp/B01E85JRZ6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01E85JRZ6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

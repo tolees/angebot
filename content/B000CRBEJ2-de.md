@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '58.00 % rabat auf Eastpak Padded Pak r Rucksack  40 cm  24'
+title: 'Eastpak Padded Pak r Rucksack  40 cm  24 L  Schwarz  Black '
 date: 2020-08-04 09:13:33
 image: 'https://m.media-amazon.com/images/I/317kycTnnbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.00'
 average: '21.0'
 ---
 
-Es gibt ein [Eastpak Padded Pak r Rucksack  40 cm  24 L  Schwarz  Black ](https://www.amazon.de/dp/B000CRBEJ2/?tag=tolees0ca-21) mit aktuellem Preis 21.0 EUR (original: 50.0 EUR) 58.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Eastpak Padded Pak r Rucksack  40 cm  24](https://m.media-amazon.com/images/I/317kycTnnbL._SL400_.jpg)](https://www.amazon.de/dp/B000CRBEJ2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000CRBEJ2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

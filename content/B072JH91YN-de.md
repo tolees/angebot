@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Dimensions - Fun Pack - Teen Titans mit 55.70 % Rabatt'
+title: 'LEGO Dimensions - Fun Pack - Teen Titans Go!'
 date: 2020-03-08 04:41:26
 image: 'https://m.media-amazon.com/images/I/51Mmp+tfdDL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.70'
 average: '6.99'
 ---
 
-Sie können [LEGO Dimensions - Fun Pack - Teen Titans Go!](https://www.amazon.de/dp/B072JH91YN/?tag=tolees0ca-21) mit Preis 6.99 EUR (original: 15.78 EUR) 55.70 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Dimensions - Fun Pack - Teen Titans](https://m.media-amazon.com/images/I/51Mmp+tfdDL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B072JH91YN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B072JH91YN/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

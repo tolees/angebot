@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Glück mit 24.44 % Rabatt'
+title: 'Glück'
 date: 2020-09-13 06:23:43
 image: 'https://m.media-amazon.com/images/I/51cPH6TI7WL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.44'
 average: '7.36'
 ---
 
-Sie können [Glück](https://www.amazon.de/dp/B07XQXW4Z1/?tag=tolees0ca-21) mit Preis 7.36 EUR (original: 9.74 EUR) 24.44 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Glück](https://m.media-amazon.com/images/I/51cPH6TI7WL._SL400_.jpg)](https://www.amazon.de/dp/B07XQXW4Z1/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07XQXW4Z1/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

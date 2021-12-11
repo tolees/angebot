@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Multifunktionswerkzeug  TECCPO 170W Dreh mit 29.10 % Rabatt'
+title: 'Multifunktionswerkzeug  TECCPO 170W Drehwerkzeugsatz mit 80 Zubehör  Schnellspannbohrfutter  Biegsame Welle  Mini Drill mit Variabler Drehzahl  Ideal für Vatertagsgeschenke - TART04P'
 date: 2020-06-06 13:12:34
 image: 'https://m.media-amazon.com/images/I/51SNbi1ywrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.10'
 average: '38.99'
 ---
 
-Sie können [Multifunktionswerkzeug  TECCPO 170W Drehwerkzeugsatz mit 80 Zubehör  Schnellspannbohrfutter  Biegsame Welle  Mini Drill mit Variabler Drehzahl  Ideal für Vatertagsgeschenke - TART04P](https://www.amazon.de/dp/B07DKWTGB3/?tag=tolees0ca-21) mit Preis 38.99 EUR (original: 54.99 EUR) 29.10 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Multifunktionswerkzeug  TECCPO 170W Dreh](https://m.media-amazon.com/images/I/51SNbi1ywrL._SL400_.jpg)](https://www.amazon.de/dp/B07DKWTGB3/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DKWTGB3/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

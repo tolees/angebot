@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.25 % rabat auf Parker Jotter Kugelschreiber | Bond Stre'
+title: 'Parker Jotter Kugelschreiber | Bond Street Black | Mittlere Spitze | Blaue Tinte | Geschenkbox'
 date: 2020-09-14 17:08:33
 image: 'https://m.media-amazon.com/images/I/211kzCKunxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.25'
 average: '9.29'
 ---
 
-Es gibt ein [Parker Jotter Kugelschreiber | Bond Street Black | Mittlere Spitze | Blaue Tinte | Geschenkbox](https://www.amazon.de/dp/B01DJBH8SS/?tag=tolees0ca-21) mit aktuellem Preis 9.29 EUR (original: 17.95 EUR) 48.25 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Parker Jotter Kugelschreiber | Bond Stre](https://m.media-amazon.com/images/I/211kzCKunxL._SL400_.jpg)](https://www.amazon.de/dp/B01DJBH8SS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01DJBH8SS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

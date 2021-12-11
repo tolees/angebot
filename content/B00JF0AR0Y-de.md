@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.32 % rabat auf Microsoft Wireless Mobile Mouse 1850  Ma'
+title: 'Microsoft Wireless Mobile Mouse 1850  Maus  schwarz  kabellos  für Rechts- und Linkshänder geeignet '
 date: 2020-05-19 06:41:59
 image: 'https://m.media-amazon.com/images/I/31-5LLKOr2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.32'
 average: '9.46'
 ---
 
-Es gibt ein [Microsoft Wireless Mobile Mouse 1850  Maus  schwarz  kabellos  für Rechts- und Linkshänder geeignet ](https://www.amazon.de/dp/B00JF0AR0Y/?tag=tolees0ca-21) mit aktuellem Preis 9.46 EUR (original: 16.99 EUR) 44.32 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Microsoft Wireless Mobile Mouse 1850  Ma](https://m.media-amazon.com/images/I/31-5LLKOr2L._SL400_.jpg)](https://www.amazon.de/dp/B00JF0AR0Y/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00JF0AR0Y/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

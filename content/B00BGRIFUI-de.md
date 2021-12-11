@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.24 % rabat auf Dickie Toys Mega Crane  elektrischer Kra'
+title: 'Dickie Toys Mega Crane  elektrischer Kran mit Fernbedienung  für Kinder ab 3 Jahren  120 cm hoch  mit Greifarm  Seilwinde  Kabine  Ladeplattform'
 date: 2020-04-15 23:59:31
 image: 'https://m.media-amazon.com/images/I/516o056xnaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.24'
 average: '29.99'
 ---
 
-Es gibt ein [Dickie Toys Mega Crane  elektrischer Kran mit Fernbedienung  für Kinder ab 3 Jahren  120 cm hoch  mit Greifarm  Seilwinde  Kabine  Ladeplattform](https://www.amazon.de/dp/B00BGRIFUI/?tag=tolees0ca-21) mit aktuellem Preis 29.99 EUR (original: 42.99 EUR) 30.24 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Dickie Toys Mega Crane  elektrischer Kra](https://m.media-amazon.com/images/I/516o056xnaL._SL400_.jpg)](https://www.amazon.de/dp/B00BGRIFUI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00BGRIFUI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

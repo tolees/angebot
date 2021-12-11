@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.29 % rabat auf FIBARO Double Switch 2 / Z-Wave Plus Rel'
+title: 'FIBARO Double Switch 2 / Z-Wave Plus Relaisschalter  Drahtloser Ein-Aus-Auslöser  FGS-223'
 date: 2020-07-15 09:44:48
 image: 'https://m.media-amazon.com/images/I/41+7OlljXyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.29'
 average: '43.31666666666667'
 ---
 
-Es gibt ein [FIBARO Double Switch 2 / Z-Wave Plus Relaisschalter  Drahtloser Ein-Aus-Auslöser  FGS-223](https://www.amazon.de/dp/B01HM0MQAW/?tag=tolees0ca-21) mit aktuellem Preis 43.27 EUR (original: 59.51 EUR) 27.29 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![FIBARO Double Switch 2 / Z-Wave Plus Rel](https://m.media-amazon.com/images/I/41+7OlljXyL._SL400_.jpg)](https://www.amazon.de/dp/B01HM0MQAW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01HM0MQAW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

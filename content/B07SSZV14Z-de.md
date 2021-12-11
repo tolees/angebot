@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.63 % rabat auf Men in Black: International  Ltd. Steelb'
+title: 'Men in Black: International  Ltd. Steelbook  [Blu-ray]'
 date: 2020-08-22 21:15:42
 image: 'https://m.media-amazon.com/images/I/51F8bsBGtdL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.63'
 average: '9.81'
 ---
 
-Es gibt ein [Men in Black: International  Ltd. Steelbook  [Blu-ray]](https://www.amazon.de/dp/B07SSZV14Z/?tag=tolees0ca-21) mit aktuellem Preis 9.81 EUR (original: 12.36 EUR) 20.63 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Men in Black: International  Ltd. Steelb](https://m.media-amazon.com/images/I/51F8bsBGtdL._SL400_.jpg)](https://www.amazon.de/dp/B07SSZV14Z/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SSZV14Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

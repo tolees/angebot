@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '32.02 % rabat auf LEGO Classic 10701 - Graue Bauplatte  Le'
+title: 'LEGO Classic 10701 - Graue Bauplatte  Lernspielzeug'
 date: 2020-04-16 17:34:45
 image: 'https://m.media-amazon.com/images/I/51ZLbFjbzgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '32.02'
 average: '9.69'
 ---
 
-Es gibt ein [LEGO Classic 10701 - Graue Bauplatte  Lernspielzeug](https://www.amazon.de/dp/B00NVDJKN6/?tag=tolees0ca-21) mit aktuellem Preis 10.19 EUR (original: 14.99 EUR) 32.02 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Classic 10701 - Graue Bauplatte  Le](https://m.media-amazon.com/images/I/51ZLbFjbzgL._SL400_.jpg)](https://www.amazon.de/dp/B00NVDJKN6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00NVDJKN6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

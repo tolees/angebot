@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Monkey 47 Schwarzwald Dry Gin – Harmonis mit 20.23 % Rabatt'
+title: 'Monkey 47 Schwarzwald Dry Gin – Harmonischer Gin mit Wacholderaroma & frischen Zitronen- und Fruchtnoten – Britische Tradition  indische Exotik & Schwarzwälder Handwerk – 1 x 0 5 L'
 date: 2020-04-17 23:37:18
 image: 'https://m.media-amazon.com/images/I/41RthFNKNgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.23'
 average: '29.405'
 ---
 
-Sie können [Monkey 47 Schwarzwald Dry Gin – Harmonischer Gin mit Wacholderaroma & frischen Zitronen- und Fruchtnoten – Britische Tradition  indische Exotik & Schwarzwälder Handwerk – 1 x 0 5 L](https://www.amazon.de/dp/B008JAAT5Y/?tag=tolees0ca-21) mit Preis 31.9 EUR (original: 39.99 EUR) 20.23 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Monkey 47 Schwarzwald Dry Gin – Harmonis](https://m.media-amazon.com/images/I/41RthFNKNgL._SL400_.jpg)](https://www.amazon.de/dp/B008JAAT5Y/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B008JAAT5Y/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

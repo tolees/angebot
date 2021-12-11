@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '46.72 % rabat auf Thule Baby mit QR Achskupplung  silber  '
+title: 'Thule Baby mit QR Achskupplung  silber  One Size'
 date: 2020-10-07 09:39:23
 image: 'https://m.media-amazon.com/images/I/41dv6Lqri0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '46.72'
 average: '19.98'
 ---
 
-Es gibt ein [Thule Baby mit QR Achskupplung  silber  One Size](https://www.amazon.de/dp/B00FY2OJTM/?tag=tolees0ca-21) mit aktuellem Preis 19.98 EUR (original: 37.5 EUR) 46.72 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Thule Baby mit QR Achskupplung  silber  ](https://m.media-amazon.com/images/I/41dv6Lqri0L._SL400_.jpg)](https://www.amazon.de/dp/B00FY2OJTM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00FY2OJTM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

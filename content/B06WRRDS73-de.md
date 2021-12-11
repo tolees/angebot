@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cooler Master MasterLiquid Lite 120-CPU- mit 37.72 % Rabatt'
+title: 'Cooler Master MasterLiquid Lite 120-CPU-Wasserkühler - Dual-Dissipationspumpe und 120-mm-Luftausgleichslüfter'
 date: 2020-09-07 14:15:59
 image: 'https://m.media-amazon.com/images/I/51M7IL8DR9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.72'
 average: '34.25'
 ---
 
-Sie können [Cooler Master MasterLiquid Lite 120-CPU-Wasserkühler - Dual-Dissipationspumpe und 120-mm-Luftausgleichslüfter](https://www.amazon.de/dp/B06WRRDS73/?tag=tolees0ca-21) mit Preis 34.25 EUR (original: 54.99 EUR) 37.72 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Cooler Master MasterLiquid Lite 120-CPU-](https://m.media-amazon.com/images/I/51M7IL8DR9L._SL400_.jpg)](https://www.amazon.de/dp/B06WRRDS73/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B06WRRDS73/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

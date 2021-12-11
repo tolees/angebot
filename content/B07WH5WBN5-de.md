@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YxFlower Custom Bausteine   1:8 2.4GHz R mit 61.00 % Rabatt'
+title: 'YxFlower Custom Bausteine   1:8 2.4GHz RC Auto Sportwagen Modell Bausatz DIY Ferngesteuerter Auto Technic Block Building Fahrzeug  1989 Stück'
 date: 2020-01-01 23:03:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.00'
 average: '116.99'
 ---
 
-Sie können [YxFlower Custom Bausteine   1:8 2.4GHz RC Auto Sportwagen Modell Bausatz DIY Ferngesteuerter Auto Technic Block Building Fahrzeug  1989 Stück](https://www.amazon.de/dp/B07WH5WBN5/?tag=tolees0ca-21) mit Preis 116.99 EUR (original: 299.99 EUR) 61.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![YxFlower Custom Bausteine   1:8 2.4GHz R](https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL400_.jpg)](https://www.amazon.de/dp/B07WH5WBN5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07WH5WBN5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

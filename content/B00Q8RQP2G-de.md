@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.84 % rabat auf Magi: The Kingdom of Magic - Staffel 2 -'
+title: 'Magi: The Kingdom of Magic - Staffel 2 - Vol.2 - [Blu-ray]'
 date: 2020-09-27 18:07:21
 image: 'https://m.media-amazon.com/images/I/51DWXpIF8hL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.84'
 average: '12.98'
 ---
 
-Es gibt ein [Magi: The Kingdom of Magic - Staffel 2 - Vol.2 - [Blu-ray]](https://www.amazon.de/dp/B00Q8RQP2G/?tag=tolees0ca-21) mit aktuellem Preis 12.98 EUR (original: 22.71 EUR) 42.84 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Magi: The Kingdom of Magic - Staffel 2 -](https://m.media-amazon.com/images/I/51DWXpIF8hL._SL400_.jpg)](https://www.amazon.de/dp/B00Q8RQP2G/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00Q8RQP2G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

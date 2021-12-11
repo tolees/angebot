@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.91 % rabat auf LEGO Star Wars 75236 - Duell um die Star'
+title: 'LEGO Star Wars 75236 - Duell um die Starkiller-Basis  Bauset'
 date: 2020-07-20 08:38:05
 image: 'https://m.media-amazon.com/images/I/51bsQHys8QL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.91'
 average: '16.159000000000002'
 ---
 
-Es gibt ein [LEGO Star Wars 75236 - Duell um die Starkiller-Basis  Bauset](https://www.amazon.de/dp/B07FNSB9H4/?tag=tolees0ca-21) mit aktuellem Preis 14.61 EUR (original: 19.99 EUR) 26.91 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Star Wars 75236 - Duell um die Star](https://m.media-amazon.com/images/I/51bsQHys8QL._SL400_.jpg)](https://www.amazon.de/dp/B07FNSB9H4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FNSB9H4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

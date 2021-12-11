@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '24.59 % rabat auf Funko 13555 Herr der Ringe POP Vinylfigu'
+title: 'Funko 13555 Herr der Ringe POP Vinylfigur: LOTR/Hobbit: Saruman  Multi'
 date: 2020-04-09 07:25:29
 image: 'https://m.media-amazon.com/images/I/51MCU2ij8pL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.59'
 average: '8.84142857142857'
 ---
 
-Es gibt ein [Funko 13555 Herr der Ringe POP Vinylfigur: LOTR/Hobbit: Saruman  Multi](https://www.amazon.de/dp/B06XGWQNS6/?tag=tolees0ca-21) mit aktuellem Preis 10.55 EUR (original: 13.99 EUR) 24.59 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 13555 Herr der Ringe POP Vinylfigu](https://m.media-amazon.com/images/I/51MCU2ij8pL._SL400_.jpg)](https://www.amazon.de/dp/B06XGWQNS6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06XGWQNS6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

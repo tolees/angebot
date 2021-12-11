@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '61.31 % rabat auf Hasbro Spiele B5355100 - Honigklau im Bi'
+title: 'Hasbro Spiele B5355100 - Honigklau im Bienenbau  Vorschulspiel'
 date: 2020-04-17 23:55:05
 image: 'https://m.media-amazon.com/images/I/513hLG+SmAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '61.31'
 average: '12.440000000000001'
 ---
 
-Es gibt ein [Hasbro Spiele B5355100 - Honigklau im Bienenbau  Vorschulspiel](https://www.amazon.de/dp/B01FK4AGRM/?tag=tolees0ca-21) mit aktuellem Preis 11.99 EUR (original: 30.99 EUR) 61.31 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hasbro Spiele B5355100 - Honigklau im Bi](https://m.media-amazon.com/images/I/513hLG+SmAL._SL400_.jpg)](https://www.amazon.de/dp/B01FK4AGRM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01FK4AGRM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

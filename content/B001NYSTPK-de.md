@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KS Tools 917.1217 1/2" CLASSIC Sechskant mit 56.04 % Rabatt'
+title: 'KS Tools 917.1217 1/2" CLASSIC Sechskant-Stecknuss  17mm'
 date: 2020-04-11 08:10:59
 image: 'https://m.media-amazon.com/images/I/41nlY9-b4xL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.04'
 average: '3.13'
 ---
 
-Sie können [KS Tools 917.1217 1/2" CLASSIC Sechskant-Stecknuss  17mm](https://www.amazon.de/dp/B001NYSTPK/?tag=tolees0ca-21) mit Preis 3.13 EUR (original: 7.12 EUR) 56.04 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![KS Tools 917.1217 1/2" CLASSIC Sechskant](https://m.media-amazon.com/images/I/41nlY9-b4xL._SL400_.jpg)](https://www.amazon.de/dp/B001NYSTPK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B001NYSTPK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

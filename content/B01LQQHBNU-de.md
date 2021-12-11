@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD My Passport Mobile WDBYFT0040BWT-WESN mit 23.48 % Rabatt'
+title: 'WD My Passport Mobile WDBYFT0040BWT-WESN 4TB  Externe Festplatte  6 4 cm  2 5 Zoll   mit Kennwortschutz  Standard Oberfläche  Weiß'
 date: 2020-08-23 15:16:26
 image: 'https://m.media-amazon.com/images/I/31lCcpJLgCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.48'
 average: '117.08'
 ---
 
-Sie können [WD My Passport Mobile WDBYFT0040BWT-WESN 4TB  Externe Festplatte  6 4 cm  2 5 Zoll   mit Kennwortschutz  Standard Oberfläche  Weiß](https://www.amazon.de/dp/B01LQQHBNU/?tag=tolees0ca-21) mit Preis 117.08 EUR (original: 153.0 EUR) 23.48 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![WD My Passport Mobile WDBYFT0040BWT-WESN](https://m.media-amazon.com/images/I/31lCcpJLgCL._SL400_.jpg)](https://www.amazon.de/dp/B01LQQHBNU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01LQQHBNU/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

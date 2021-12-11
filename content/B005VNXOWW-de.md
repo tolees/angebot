@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eine ganz heisse Nummer mit 39.21 % Rabatt'
+title: 'Eine ganz heisse Nummer'
 date: 2020-03-13 05:06:06
 image: 'https://m.media-amazon.com/images/I/51vEhI8d8XL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.21'
 average: '4.59'
 ---
 
-Sie können [Eine ganz heisse Nummer](https://www.amazon.de/dp/B005VNXOWW/?tag=tolees0ca-21) mit Preis 4.59 EUR (original: 7.55 EUR) 39.21 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Eine ganz heisse Nummer](https://m.media-amazon.com/images/I/51vEhI8d8XL._SL400_.jpg)](https://www.amazon.de/dp/B005VNXOWW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B005VNXOWW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

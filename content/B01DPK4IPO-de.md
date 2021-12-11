@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '58.12 % rabat auf The North Face Unisex Rucksack Borealis '
+title: 'The North Face Unisex Rucksack Borealis Classic  tnf black/asphalt grey  34 5 x 18 5 x 48 cm  29 Liter  T0CF9CKT0'
 date: 2020-02-08 19:16:01
 image: 'https://m.media-amazon.com/images/I/41CXdfVpavL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.12'
 average: '44.233333333333334'
 ---
 
-Es gibt ein [The North Face Unisex Rucksack Borealis Classic  tnf black/asphalt grey  34 5 x 18 5 x 48 cm  29 Liter  T0CF9CKT0](https://www.amazon.de/dp/B01DPK4IPO/?tag=tolees0ca-21) mit aktuellem Preis 43.32 EUR (original: 103.45 EUR) 58.12 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![The North Face Unisex Rucksack Borealis ](https://m.media-amazon.com/images/I/41CXdfVpavL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01DPK4IPO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01DPK4IPO/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

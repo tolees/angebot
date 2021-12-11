@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Simple Minds - Street Fighting Years  Su mit 22.85 % Rabatt'
+title: 'Simple Minds - Street Fighting Years  Super Deluxe '
 date: 2020-10-12 16:19:38
 image: 'https://m.media-amazon.com/images/I/61MP-ifedrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.85'
 average: '30.45'
 ---
 
-Sie können [Simple Minds - Street Fighting Years  Super Deluxe ](https://www.amazon.de/dp/B07R5QWCYJ/?tag=tolees0ca-21) mit Preis 30.45 EUR (original: 39.47 EUR) 22.85 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Simple Minds - Street Fighting Years  Su](https://m.media-amazon.com/images/I/61MP-ifedrL._SL400_.jpg)](https://www.amazon.de/dp/B07R5QWCYJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07R5QWCYJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

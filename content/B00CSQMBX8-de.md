@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.66 % rabat auf The Complete Legendary 1938 Carnegie Hal'
+title: 'The Complete Legendary 1938 Carnegie Hall Concert'
 date: 2020-09-25 11:23:20
 image: 'https://m.media-amazon.com/images/I/61daFS1ZzCL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.66'
 average: '10.01'
 ---
 
-Es gibt ein [The Complete Legendary 1938 Carnegie Hall Concert](https://www.amazon.de/dp/B00CSQMBX8/?tag=tolees0ca-21) mit aktuellem Preis 10.01 EUR (original: 12.46 EUR) 19.66 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![The Complete Legendary 1938 Carnegie Hal](https://m.media-amazon.com/images/I/61daFS1ZzCL._SL400_.jpg)](https://www.amazon.de/dp/B00CSQMBX8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CSQMBX8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

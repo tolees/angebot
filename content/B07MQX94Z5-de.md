@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANT Jungen D1. Shield Logo Sweat Hoodie mit 40.01 % Rabatt'
+title: 'GANT Jungen D1. Shield Logo Sweat Hoodie Sportkapuzenpullover  Schwarz  Black 5    Herstellergröße: 122/128 '
 date: 2020-01-12 11:13:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31lv%2BbNe6hL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.01'
 average: '47.99'
 ---
 
-Sie können [GANT Jungen D1. Shield Logo Sweat Hoodie Sportkapuzenpullover  Schwarz  Black 5    Herstellergröße: 122/128 ](https://www.amazon.de/dp/B07MQX94Z5/?tag=tolees0ca-21) mit Preis 47.99 EUR (original: 79.99 EUR) 40.01 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GANT Jungen D1. Shield Logo Sweat Hoodie](https://images-eu.ssl-images-amazon.com/images/I/31lv%2BbNe6hL._SL400_.jpg)](https://www.amazon.de/dp/B07MQX94Z5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07MQX94Z5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

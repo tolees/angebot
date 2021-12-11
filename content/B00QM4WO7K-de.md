@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ravensburger 23402 - Disney Frozen Brett mit 24.03 % Rabatt'
+title: 'Ravensburger 23402 - Disney Frozen Brettspiele auf zum Eispalast - Mitbringspiel'
 date: 2020-01-03 22:56:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51KWtkrbGuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '24.03'
 average: '5.683333333333333'
 ---
 
-Sie können [Ravensburger 23402 - Disney Frozen Brettspiele auf zum Eispalast - Mitbringspiel](https://www.amazon.de/dp/B00QM4WO7K/?tag=tolees0ca-21) mit Preis 5.31 EUR (original: 6.99 EUR) 24.03 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger 23402 - Disney Frozen Brett](https://images-eu.ssl-images-amazon.com/images/I/51KWtkrbGuL._SL400_.jpg)](https://www.amazon.de/dp/B00QM4WO7K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00QM4WO7K/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

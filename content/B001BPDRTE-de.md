@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ABUS Zubehör Steel-O-Chain 880/85  Black mit 37.73 % Rabatt'
+title: 'ABUS Zubehör Steel-O-Chain 880/85  Black  7 mm/85 cm  43306'
 date: 2020-07-12 11:44:32
 image: 'https://m.media-amazon.com/images/I/41VgMlIsoZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.73'
 average: '27.99'
 ---
 
-Sie können [ABUS Zubehör Steel-O-Chain 880/85  Black  7 mm/85 cm  43306](https://www.amazon.de/dp/B001BPDRTE/?tag=tolees0ca-21) mit Preis 27.99 EUR (original: 44.95 EUR) 37.73 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ABUS Zubehör Steel-O-Chain 880/85  Black](https://m.media-amazon.com/images/I/41VgMlIsoZL._SL400_.jpg)](https://www.amazon.de/dp/B001BPDRTE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B001BPDRTE/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

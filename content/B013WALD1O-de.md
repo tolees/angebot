@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional Bohrmaschine GBM 13-2 mit 28.82 % Rabatt'
+title: 'Bosch Professional Bohrmaschine GBM 13-2 RE  Schnellspannbohrfutter 13 mm '
 date: 2020-10-06 03:17:56
 image: 'https://m.media-amazon.com/images/I/41qWB6wYtuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.82'
 average: '199.9'
 ---
 
-Sie können [Bosch Professional Bohrmaschine GBM 13-2 RE  Schnellspannbohrfutter 13 mm ](https://www.amazon.de/dp/B013WALD1O/?tag=tolees0ca-21) mit Preis 199.9 EUR (original: 280.84 EUR) 28.82 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Professional Bohrmaschine GBM 13-2](https://m.media-amazon.com/images/I/41qWB6wYtuL._SL400_.jpg)](https://www.amazon.de/dp/B013WALD1O/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B013WALD1O/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

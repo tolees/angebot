@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alpina Mädchen XIMO Flash Fahrradhelm  M mit 23.00 % Rabatt'
+title: 'Alpina Mädchen XIMO Flash Fahrradhelm  Mint Unicorn  49-54 cm'
 date: 2020-02-17 05:05:23
 image: 'https://m.media-amazon.com/images/I/413fIYHdiQL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.00'
 average: '34.61'
 ---
 
-Sie können [Alpina Mädchen XIMO Flash Fahrradhelm  Mint Unicorn  49-54 cm](https://www.amazon.de/dp/B07GZM1MGL/?tag=tolees0ca-21) mit Preis 34.61 EUR (original: 44.95 EUR) 23.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Alpina Mädchen XIMO Flash Fahrradhelm  M](https://m.media-amazon.com/images/I/413fIYHdiQL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07GZM1MGL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07GZM1MGL/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

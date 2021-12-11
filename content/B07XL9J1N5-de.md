@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Krups Nespresso XN110E Essenza Mini komp mit 34.16 % Rabatt'
+title: 'Krups Nespresso XN110E Essenza Mini kompakte Kaffee-Kapselmaschine  1260 Watt  19 bar Pumpendruck  automatische Abschaltung  Silber'
 date: 2020-03-13 17:25:57
 image: 'https://m.media-amazon.com/images/I/21lj1K12xaL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.16'
 average: '89.495'
 ---
 
-Sie können [Krups Nespresso XN110E Essenza Mini kompakte Kaffee-Kapselmaschine  1260 Watt  19 bar Pumpendruck  automatische Abschaltung  Silber](https://www.amazon.de/dp/B07XL9J1N5/?tag=tolees0ca-21) mit Preis 79.0 EUR (original: 119.99 EUR) 34.16 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Krups Nespresso XN110E Essenza Mini komp](https://m.media-amazon.com/images/I/21lj1K12xaL._SL400_.jpg)](https://www.amazon.de/dp/B07XL9J1N5/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07XL9J1N5/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

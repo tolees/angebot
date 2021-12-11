@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '59.11 % rabat auf Regal Schwerlastregal Regal 180x90x45 St'
+title: 'Regal Schwerlastregal Regal 180x90x45 Steckregal 875kg Lagerregal Werkstattregal Kellerregal MDF-Platten'
 date: 2020-04-15 00:28:15
 image: 'https://m.media-amazon.com/images/I/41tXnJvjc6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '59.11'
 average: '22.49'
 ---
 
-Es gibt ein [Regal Schwerlastregal Regal 180x90x45 Steckregal 875kg Lagerregal Werkstattregal Kellerregal MDF-Platten](https://www.amazon.de/dp/B078Y6HRYC/?tag=tolees0ca-21) mit aktuellem Preis 22.49 EUR (original: 55.0 EUR) 59.11 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Regal Schwerlastregal Regal 180x90x45 St](https://m.media-amazon.com/images/I/41tXnJvjc6L._SL400_.jpg)](https://www.amazon.de/dp/B078Y6HRYC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B078Y6HRYC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

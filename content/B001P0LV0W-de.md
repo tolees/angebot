@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '17.68 % rabat auf taymar® Prospekthalter/Flyerhalter 4 Fäc'
+title: 'taymar® Prospekthalter/Flyerhalter 4 Fächer DIN Lang  DL '
 date: 2020-02-20 20:43:44
 image: 'https://m.media-amazon.com/images/I/41PHIDDcq6L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.68'
 average: '11.3'
 ---
 
-Es gibt ein [taymar® Prospekthalter/Flyerhalter 4 Fächer DIN Lang  DL ](https://www.amazon.de/dp/B001P0LV0W/?tag=tolees0ca-21) mit aktuellem Preis 10.29 EUR (original: 12.5 EUR) 17.68 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![taymar® Prospekthalter/Flyerhalter 4 Fäc](https://m.media-amazon.com/images/I/41PHIDDcq6L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B001P0LV0W/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B001P0LV0W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

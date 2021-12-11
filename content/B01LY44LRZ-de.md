@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.85 % rabat auf PLAYMOBIL Ghostbusters 9222 Slimer mit H'
+title: 'PLAYMOBIL Ghostbusters 9222 Slimer mit Hot Dog Stand  Ab 6 Jahren'
 date: 2020-04-16 17:43:51
 image: 'https://m.media-amazon.com/images/I/61Q1XHMB7WL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.85'
 average: '12.0975'
 ---
 
-Es gibt ein [PLAYMOBIL Ghostbusters 9222 Slimer mit Hot Dog Stand  Ab 6 Jahren](https://www.amazon.de/dp/B01LY44LRZ/?tag=tolees0ca-21) mit aktuellem Preis 12.8 EUR (original: 17.99 EUR) 28.85 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PLAYMOBIL Ghostbusters 9222 Slimer mit H](https://m.media-amazon.com/images/I/61Q1XHMB7WL._SL400_.jpg)](https://www.amazon.de/dp/B01LY44LRZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01LY44LRZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Socken Herren Damen  6 Paar Wandersocken mit 27.19 % Rabatt'
+title: 'Socken Herren Damen  6 Paar Wandersocken Baumwolle Sportsocken Tennissocken Arbeitssocken mit Weicher Polsterung  12er pack S08 bequemere Wintersocken Business & Freizeit  Schwarz - S06  S: 35-38 '
 date: 2020-10-01 20:45:36
 image: 'https://m.media-amazon.com/images/I/41DVdDMsTHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.19'
 average: '16.74'
 ---
 
-Sie können [Socken Herren Damen  6 Paar Wandersocken Baumwolle Sportsocken Tennissocken Arbeitssocken mit Weicher Polsterung  12er pack S08 bequemere Wintersocken Business & Freizeit  Schwarz - S06  S: 35-38 ](https://www.amazon.de/dp/B08GPDV1WX/?tag=tolees0ca-21) mit Preis 16.74 EUR (original: 22.99 EUR) 27.19 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Socken Herren Damen  6 Paar Wandersocken](https://m.media-amazon.com/images/I/41DVdDMsTHL._SL400_.jpg)](https://www.amazon.de/dp/B08GPDV1WX/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B08GPDV1WX/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

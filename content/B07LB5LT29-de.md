@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SCHLEICH 42519 Spielset - Reiter-Café  H mit 37.01 % Rabatt'
+title: 'SCHLEICH 42519 Spielset - Reiter-Café  Horse Club '
 date: 2020-03-10 10:35:08
 image: 'https://m.media-amazon.com/images/I/51-wyDs1J1L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.01'
 average: '33.58166666666666'
 ---
 
-Sie können [SCHLEICH 42519 Spielset - Reiter-Café  Horse Club ](https://www.amazon.de/dp/B07LB5LT29/?tag=tolees0ca-21) mit Preis 31.49 EUR (original: 49.99 EUR) 37.01 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SCHLEICH 42519 Spielset - Reiter-Café  H](https://m.media-amazon.com/images/I/51-wyDs1J1L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07LB5LT29/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07LB5LT29/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

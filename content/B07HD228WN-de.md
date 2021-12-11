@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.52 % rabat auf Mattel GGX28 - Toy Story 4 Ducky  17 cm '
+title: 'Mattel GGX28 - Toy Story 4 Ducky  17 cm Spielzeug Actionfigur ab 3 Jahren'
 date: 2020-04-16 08:34:21
 image: 'https://m.media-amazon.com/images/I/41x98rM-nTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.52'
 average: '11.91'
 ---
 
-Es gibt ein [Mattel GGX28 - Toy Story 4 Ducky  17 cm Spielzeug Actionfigur ab 3 Jahren](https://www.amazon.de/dp/B07HD228WN/?tag=tolees0ca-21) mit aktuellem Preis 11.91 EUR (original: 15.99 EUR) 25.52 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Mattel GGX28 - Toy Story 4 Ducky  17 cm ](https://m.media-amazon.com/images/I/41x98rM-nTL._SL400_.jpg)](https://www.amazon.de/dp/B07HD228WN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HD228WN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

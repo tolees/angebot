@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'H0 V Minifiguren Schaukasten  3-Schicht  mit 50.00 % Rabatt'
+title: 'H0 V Minifiguren Schaukasten  3-Schicht Acryl Schaukasten Vitrine mit led Licht für Lego Minifiguren Ziegelstein-Block'
 date: 2020-04-08 05:26:54
 image: 'https://m.media-amazon.com/images/I/41CQHXnhuLL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '21.99'
 ---
 
-Sie können [H0 V Minifiguren Schaukasten  3-Schicht Acryl Schaukasten Vitrine mit led Licht für Lego Minifiguren Ziegelstein-Block](https://www.amazon.de/dp/B083TRJFKD/?tag=tolees0ca-21) mit Preis 21.99 EUR (original: 43.98 EUR) 50.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![H0 V Minifiguren Schaukasten  3-Schicht ](https://m.media-amazon.com/images/I/41CQHXnhuLL._SL400_.jpg)](https://www.amazon.de/dp/B083TRJFKD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B083TRJFKD/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

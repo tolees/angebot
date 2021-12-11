@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Die Rosenheim-Cops - Die komplette elfte mit 28.75 % Rabatt'
+title: 'Die Rosenheim-Cops - Die komplette elfte Staffel [6 DVDs]'
 date: 2020-02-04 05:20:33
 image: 'https://m.media-amazon.com/images/I/519q+2C1P9L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.75'
 average: '8.97'
 ---
 
-Sie können [Die Rosenheim-Cops - Die komplette elfte Staffel [6 DVDs]](https://www.amazon.de/dp/B01G5MG47O/?tag=tolees0ca-21) mit Preis 8.97 EUR (original: 12.59 EUR) 28.75 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Die Rosenheim-Cops - Die komplette elfte](https://m.media-amazon.com/images/I/519q+2C1P9L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01G5MG47O/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01G5MG47O/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '56.14 % rabat auf CASO F10 Design Küchenwaage  digitale Kü'
+title: 'CASO F10 Design Küchenwaage  digitale Küchenwaage  große verspiegelte Glasfläche  Wiegebereich bis 10 kg  Tara Funktion  großes LCD-Display  ideal für Küche und Büro'
 date: 2020-03-22 13:38:45
 image: 'https://m.media-amazon.com/images/I/41gqlIykUeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '56.14'
 average: '22.23'
 ---
 
-Es gibt ein [CASO F10 Design Küchenwaage  digitale Küchenwaage  große verspiegelte Glasfläche  Wiegebereich bis 10 kg  Tara Funktion  großes LCD-Display  ideal für Küche und Büro](https://www.amazon.de/dp/B004QC2BE6/?tag=tolees0ca-21) mit aktuellem Preis 14.47 EUR (original: 32.99 EUR) 56.14 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![CASO F10 Design Küchenwaage  digitale Kü](https://m.media-amazon.com/images/I/41gqlIykUeL._SL400_.jpg)](https://www.amazon.de/dp/B004QC2BE6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B004QC2BE6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

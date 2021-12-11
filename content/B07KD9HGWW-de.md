@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VAUDE Damen Escape Bike Light Jacke  Nic mit 55.05 % Rabatt'
+title: 'VAUDE Damen Escape Bike Light Jacke  Nickel Green  36'
 date: 2020-02-09 13:26:43
 image: 'https://m.media-amazon.com/images/I/31Y8eKv2GzL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '55.05'
 average: '44.95'
 ---
 
-Sie können [VAUDE Damen Escape Bike Light Jacke  Nickel Green  36](https://www.amazon.de/dp/B07KD9HGWW/?tag=tolees0ca-21) mit Preis 44.95 EUR (original: 100.0 EUR) 55.05 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![VAUDE Damen Escape Bike Light Jacke  Nic](https://m.media-amazon.com/images/I/31Y8eKv2GzL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07KD9HGWW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KD9HGWW/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.57 % rabat auf Graef CH502EU Zerkleinerer  Glas'
+title: 'Graef CH502EU Zerkleinerer  Glas'
 date: 2020-04-11 16:03:18
 image: 'https://m.media-amazon.com/images/I/41OsXyhgBgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.57'
 average: '42.03'
 ---
 
-Es gibt ein [Graef CH502EU Zerkleinerer  Glas](https://www.amazon.de/dp/B07MVHJ6JN/?tag=tolees0ca-21) mit aktuellem Preis 42.03 EUR (original: 54.99 EUR) 23.57 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Graef CH502EU Zerkleinerer  Glas](https://m.media-amazon.com/images/I/41OsXyhgBgL._SL400_.jpg)](https://www.amazon.de/dp/B07MVHJ6JN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MVHJ6JN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

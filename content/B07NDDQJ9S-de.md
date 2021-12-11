@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bresser Junior Schülermikroskop BIOLUX S mit 34.22 % Rabatt'
+title: 'Bresser Junior Schülermikroskop BIOLUX SEL mit Smartphonehalter  reichhaltigem Zubehör und Barlow-Zoom-System für Kinder  Einsteiger und Erwachsene  rot'
 date: 2020-05-15 11:32:19
 image: 'https://m.media-amazon.com/images/I/41st7Gcfj-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '34.22'
 average: '69.0'
 ---
 
-Sie können [Bresser Junior Schülermikroskop BIOLUX SEL mit Smartphonehalter  reichhaltigem Zubehör und Barlow-Zoom-System für Kinder  Einsteiger und Erwachsene  rot](https://www.amazon.de/dp/B07NDDQJ9S/?tag=tolees0ca-21) mit Preis 69.0 EUR (original: 104.9 EUR) 34.22 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bresser Junior Schülermikroskop BIOLUX S](https://m.media-amazon.com/images/I/41st7Gcfj-L._SL400_.jpg)](https://www.amazon.de/dp/B07NDDQJ9S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07NDDQJ9S/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

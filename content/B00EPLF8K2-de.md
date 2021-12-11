@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '42.06 % rabat auf SET-ERGÄNZUNG Gigaset Fenstersensor – fü'
+title: 'SET-ERGÄNZUNG Gigaset Fenstersensor – für große und kleine Fenster – Alarmsensor mit kostenfreier App – Smart Home Fenstersensor'
 date: 2020-04-25 06:10:00
 image: 'https://m.media-amazon.com/images/I/317zVHLgFzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '42.06'
 average: '21.2125'
 ---
 
-Es gibt ein [SET-ERGÄNZUNG Gigaset Fenstersensor – für große und kleine Fenster – Alarmsensor mit kostenfreier App – Smart Home Fenstersensor](https://www.amazon.de/dp/B00EPLF8K2/?tag=tolees0ca-21) mit aktuellem Preis 19.12 EUR (original: 33.0 EUR) 42.06 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SET-ERGÄNZUNG Gigaset Fenstersensor – fü](https://m.media-amazon.com/images/I/317zVHLgFzL._SL400_.jpg)](https://www.amazon.de/dp/B00EPLF8K2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00EPLF8K2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

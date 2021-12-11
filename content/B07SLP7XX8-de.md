@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '60.01 % rabat auf FIFA 20 | Xbox One - Download Code'
+title: 'FIFA 20 | Xbox One - Download Code'
 date: 2020-04-07 21:37:43
 image: 'https://m.media-amazon.com/images/I/41rh5VEQFOL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '60.01'
 average: '58.090999999999994'
 ---
 
-Es gibt ein [FIFA 20 | Xbox One - Download Code](https://www.amazon.de/dp/B07SLP7XX8/?tag=tolees0ca-21) mit aktuellem Preis 27.99 EUR (original: 69.99 EUR) 60.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![FIFA 20 | Xbox One - Download Code](https://m.media-amazon.com/images/I/41rh5VEQFOL._SL400_.jpg)](https://www.amazon.de/dp/B07SLP7XX8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07SLP7XX8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

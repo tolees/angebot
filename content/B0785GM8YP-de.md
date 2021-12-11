@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '81.01 % rabat auf Under Armour Herren Unstoppable Windbrea'
+title: 'Under Armour Herren Unstoppable Windbreaker Oberteil  Weiß  Small'
 date: 2020-01-27 14:53:41
 image: 'https://m.media-amazon.com/images/I/31bEOJXe2AL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '81.01'
 average: '18.99'
 ---
 
-Es gibt ein [Under Armour Herren Unstoppable Windbreaker Oberteil  Weiß  Small](https://www.amazon.de/dp/B0785GM8YP/?tag=tolees0ca-21) mit aktuellem Preis 18.99 EUR (original: 99.99 EUR) 81.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Under Armour Herren Unstoppable Windbrea](https://m.media-amazon.com/images/I/31bEOJXe2AL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0785GM8YP/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0785GM8YP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

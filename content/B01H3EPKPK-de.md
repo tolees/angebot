@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mario Party: Star Rush [3DS] mit 37.89 % Rabatt'
+title: 'Mario Party: Star Rush [3DS]'
 date: 2020-01-27 04:41:35
 image: 'https://m.media-amazon.com/images/I/61XtLDUVnGL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.89'
 average: '11.8'
 ---
 
-Sie können [Mario Party: Star Rush [3DS]](https://www.amazon.de/dp/B01H3EPKPK/?tag=tolees0ca-21) mit Preis 11.8 EUR (original: 19.0 EUR) 37.89 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Mario Party: Star Rush [3DS]](https://m.media-amazon.com/images/I/61XtLDUVnGL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01H3EPKPK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01H3EPKPK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

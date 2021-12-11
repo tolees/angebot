@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.67 % rabat auf Ostwind 1-3 [3 DVDs]'
+title: 'Ostwind 1-3 [3 DVDs]'
 date: 2020-09-23 17:03:55
 image: 'https://m.media-amazon.com/images/I/51+QTQNSYeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.67'
 average: '8.8'
 ---
 
-Es gibt ein [Ostwind 1-3 [3 DVDs]](https://www.amazon.de/dp/B07MWZ34GP/?tag=tolees0ca-21) mit aktuellem Preis 8.8 EUR (original: 12.0 EUR) 26.67 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ostwind 1-3 [3 DVDs]](https://m.media-amazon.com/images/I/51+QTQNSYeL._SL400_.jpg)](https://www.amazon.de/dp/B07MWZ34GP/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MWZ34GP/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

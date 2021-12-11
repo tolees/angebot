@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.05 % rabat auf ADATA SE800 - 1 TB  externe Solid-State-'
+title: 'ADATA SE800 - 1 TB  externe Solid-State-Drive mit USB 3.2 Gen.2 Typ-C  2.5 Zoll  blau'
 date: 2020-10-02 13:03:44
 image: 'https://m.media-amazon.com/images/I/41qoFHzNWUL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.05'
 average: '126.56666666666668'
 ---
 
-Es gibt ein [ADATA SE800 - 1 TB  externe Solid-State-Drive mit USB 3.2 Gen.2 Typ-C  2.5 Zoll  blau](https://www.amazon.de/dp/B07V1X8G4L/?tag=tolees0ca-21) mit aktuellem Preis 127.9 EUR (original: 199.99 EUR) 36.05 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ADATA SE800 - 1 TB  externe Solid-State-](https://m.media-amazon.com/images/I/41qoFHzNWUL._SL400_.jpg)](https://www.amazon.de/dp/B07V1X8G4L/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07V1X8G4L/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

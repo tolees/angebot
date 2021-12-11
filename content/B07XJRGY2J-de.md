@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.95 % rabat auf HP Pavilion Gaming TG01-0016ng Desktop  '
+title: 'HP Pavilion Gaming TG01-0016ng Desktop  Intel Core i5-9400F  16GB DDR4 RAM  1TB HDD  512GB SSD  Nvidia GeForce GTX 1660Ti 6GB GDDR6  Windows 10 Home  schwarz/grün'
 date: 2020-04-24 18:21:23
 image: 'https://m.media-amazon.com/images/I/41ZqbPQg-VL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.95'
 average: '510.0'
 ---
 
-Es gibt ein [HP Pavilion Gaming TG01-0016ng Desktop  Intel Core i5-9400F  16GB DDR4 RAM  1TB HDD  512GB SSD  Nvidia GeForce GTX 1660Ti 6GB GDDR6  Windows 10 Home  schwarz/grün](https://www.amazon.de/dp/B07XJRGY2J/?tag=tolees0ca-21) mit aktuellem Preis 510.0 EUR (original: 999.0 EUR) 48.95 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HP Pavilion Gaming TG01-0016ng Desktop  ](https://m.media-amazon.com/images/I/41ZqbPQg-VL._SL400_.jpg)](https://www.amazon.de/dp/B07XJRGY2J/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XJRGY2J/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.54 % rabat auf SanDisk 64GB Connect Wireless Stick'
+title: 'SanDisk 64GB Connect Wireless Stick'
 date: 2020-05-18 15:12:15
 image: 'https://m.media-amazon.com/images/I/41L9vnt6C3L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.54'
 average: '37.31666666666667'
 ---
 
-Es gibt ein [SanDisk 64GB Connect Wireless Stick](https://www.amazon.de/dp/B00ZCFYF2W/?tag=tolees0ca-21) mit aktuellem Preis 35.99 EUR (original: 48.99 EUR) 26.54 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SanDisk 64GB Connect Wireless Stick](https://m.media-amazon.com/images/I/41L9vnt6C3L._SL400_.jpg)](https://www.amazon.de/dp/B00ZCFYF2W/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00ZCFYF2W/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

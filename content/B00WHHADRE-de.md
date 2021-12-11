@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.41 % rabat auf ADAPTIL Express Tabletten  10 Stück  Erg'
+title: 'ADAPTIL Express Tabletten  10 Stück  Ergänzungsfuttermittel zur Beruhigung'
 date: 2020-09-12 20:54:39
 image: 'https://m.media-amazon.com/images/I/41MJGBfJN8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.41'
 average: '8.72'
 ---
 
-Es gibt ein [ADAPTIL Express Tabletten  10 Stück  Ergänzungsfuttermittel zur Beruhigung](https://www.amazon.de/dp/B00WHHADRE/?tag=tolees0ca-21) mit aktuellem Preis 8.72 EUR (original: 13.5 EUR) 35.41 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![ADAPTIL Express Tabletten  10 Stück  Erg](https://m.media-amazon.com/images/I/41MJGBfJN8L._SL400_.jpg)](https://www.amazon.de/dp/B00WHHADRE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00WHHADRE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

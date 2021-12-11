@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AMD – FirePro Radeon Pro WX 5100 8 GB PC mit 43.23 % Rabatt'
+title: 'AMD – FirePro Radeon Pro WX 5100 8 GB PCIe 3.0 16 x 4 x DP Retail in GPU-Speicher'
 date: 2020-02-17 17:19:46
 image: 'https://m.media-amazon.com/images/I/41YlO5rgSmL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.23'
 average: '231.5'
 ---
 
-Sie können [AMD – FirePro Radeon Pro WX 5100 8 GB PCIe 3.0 16 x 4 x DP Retail in GPU-Speicher](https://www.amazon.de/dp/B01N3MBSCJ/?tag=tolees0ca-21) mit Preis 225.0 EUR (original: 396.31 EUR) 43.23 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![AMD – FirePro Radeon Pro WX 5100 8 GB PC](https://m.media-amazon.com/images/I/41YlO5rgSmL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01N3MBSCJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01N3MBSCJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

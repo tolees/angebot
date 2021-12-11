@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.28 % rabat auf LEGO Classic 11003 - Bausteine - Witzige'
+title: 'LEGO Classic 11003 - Bausteine - Witzige Figuren'
 date: 2020-09-29 12:12:36
 image: 'https://m.media-amazon.com/images/I/51LLhfTbWAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.28'
 average: '20.63037037037037'
 ---
 
-Es gibt ein [LEGO Classic 11003 - Bausteine - Witzige Figuren](https://www.amazon.de/dp/B07FP2KPWS/?tag=tolees0ca-21) mit aktuellem Preis 20.38 EUR (original: 29.23 EUR) 30.28 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO Classic 11003 - Bausteine - Witzige](https://m.media-amazon.com/images/I/51LLhfTbWAL._SL400_.jpg)](https://www.amazon.de/dp/B07FP2KPWS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FP2KPWS/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '43.84 % rabat auf Yankee Candle Duftkerze im Glas  groß  |'
+title: 'Yankee Candle Duftkerze im Glas  groß  | Cranberry Ice | Brenndauer bis zu 150 Stunden'
 date: 2020-09-30 06:01:15
 image: 'https://m.media-amazon.com/images/I/41QF-d21W8L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.84'
 average: '14.99'
 ---
 
-Es gibt ein [Yankee Candle Duftkerze im Glas  groß  | Cranberry Ice | Brenndauer bis zu 150 Stunden](https://www.amazon.de/dp/B0094H8EAI/?tag=tolees0ca-21) mit aktuellem Preis 14.99 EUR (original: 26.69 EUR) 43.84 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Yankee Candle Duftkerze im Glas  groß  |](https://m.media-amazon.com/images/I/41QF-d21W8L._SL400_.jpg)](https://www.amazon.de/dp/B0094H8EAI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0094H8EAI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

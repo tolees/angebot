@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '52.29 % rabat auf Sony MDR-XB650BT kabelloser Extra-Bass K'
+title: 'Sony MDR-XB650BT kabelloser Extra-Bass Kopfhörer  Bluetooth  NFC  weiche On-Ear Ohrpolster  hohe Tragekomfort  gute Schallisolierung  Headset mit Mikrofon für Telefon & PC/Laptop  schwarz'
 date: 2020-10-12 11:58:33
 image: 'https://m.media-amazon.com/images/I/41lum+Hmm4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '52.29'
 average: '41.714999999999996'
 ---
 
-Es gibt ein [Sony MDR-XB650BT kabelloser Extra-Bass Kopfhörer  Bluetooth  NFC  weiche On-Ear Ohrpolster  hohe Tragekomfort  gute Schallisolierung  Headset mit Mikrofon für Telefon & PC/Laptop  schwarz](https://www.amazon.de/dp/B01CYL90EY/?tag=tolees0ca-21) mit aktuellem Preis 42.89 EUR (original: 89.9 EUR) 52.29 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony MDR-XB650BT kabelloser Extra-Bass K](https://m.media-amazon.com/images/I/41lum+Hmm4L._SL400_.jpg)](https://www.amazon.de/dp/B01CYL90EY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01CYL90EY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

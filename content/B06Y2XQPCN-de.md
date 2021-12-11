@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '58.49 % rabat auf New Balance Herren 574v2 Core Sneaker  G'
+title: 'New Balance Herren 574v2 Core Sneaker  Grau  Grau   46.5 EU'
 date: 2020-03-23 14:44:57
 image: 'https://m.media-amazon.com/images/I/41dl8oESB+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '58.49'
 average: '41.49'
 ---
 
-Es gibt ein [New Balance Herren 574v2 Core Sneaker  Grau  Grau   46.5 EU](https://www.amazon.de/dp/B06Y2XQPCN/?tag=tolees0ca-21) mit aktuellem Preis 41.49 EUR (original: 99.95 EUR) 58.49 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![New Balance Herren 574v2 Core Sneaker  G](https://m.media-amazon.com/images/I/41dl8oESB+L._SL400_.jpg)](https://www.amazon.de/dp/B06Y2XQPCN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06Y2XQPCN/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

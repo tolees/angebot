@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional 40-tlgs. Bohrer Bit S mit 20.76 % Rabatt'
+title: 'Bosch Professional 40-tlgs. Bohrer Bit Set  Pick and Click  extra harte Schrauber Bits  mit Universalhalter '
 date: 2020-07-22 08:25:46
 image: 'https://m.media-amazon.com/images/I/51yXkjWkcEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.76'
 average: '16.99'
 ---
 
-Sie können [Bosch Professional 40-tlgs. Bohrer Bit Set  Pick and Click  extra harte Schrauber Bits  mit Universalhalter ](https://www.amazon.de/dp/B07PC5WFLY/?tag=tolees0ca-21) mit Preis 16.99 EUR (original: 21.44 EUR) 20.76 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Bosch Professional 40-tlgs. Bohrer Bit S](https://m.media-amazon.com/images/I/51yXkjWkcEL._SL400_.jpg)](https://www.amazon.de/dp/B07PC5WFLY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PC5WFLY/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

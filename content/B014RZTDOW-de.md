@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.66 % rabat auf Eizo EV2750-BK 68 5 cm  27 Zoll  Monitor'
+title: 'Eizo EV2750-BK 68 5 cm  27 Zoll  Monitor  DVI-D  HDMI  USB 3.0  DisplayPort  5ms Reaktionszeit  Auflösung 2560 x 1440  schwarz'
 date: 2020-03-25 15:17:17
 image: 'https://m.media-amazon.com/images/I/41zoYvBb50L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.66'
 average: '383.0'
 ---
 
-Es gibt ein [Eizo EV2750-BK 68 5 cm  27 Zoll  Monitor  DVI-D  HDMI  USB 3.0  DisplayPort  5ms Reaktionszeit  Auflösung 2560 x 1440  schwarz](https://www.amazon.de/dp/B014RZTDOW/?tag=tolees0ca-21) mit aktuellem Preis 383.0 EUR (original: 634.77 EUR) 39.66 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Eizo EV2750-BK 68 5 cm  27 Zoll  Monitor](https://m.media-amazon.com/images/I/41zoYvBb50L._SL400_.jpg)](https://www.amazon.de/dp/B014RZTDOW/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B014RZTDOW/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

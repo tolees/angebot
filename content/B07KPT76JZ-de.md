@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '44.97 % rabat auf Funko 37743 POP Vinyl: Alien 40th: Xenom'
+title: 'Funko 37743 POP Vinyl: Alien 40th: Xenomorph Sammelbares Spielzeug  Mehrfarben  Einheitsgröße'
 date: 2020-03-29 21:08:10
 image: 'https://m.media-amazon.com/images/I/417mPSvqh-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '44.97'
 average: '8.75'
 ---
 
-Es gibt ein [Funko 37743 POP Vinyl: Alien 40th: Xenomorph Sammelbares Spielzeug  Mehrfarben  Einheitsgröße](https://www.amazon.de/dp/B07KPT76JZ/?tag=tolees0ca-21) mit aktuellem Preis 8.75 EUR (original: 15.9 EUR) 44.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 37743 POP Vinyl: Alien 40th: Xenom](https://m.media-amazon.com/images/I/417mPSvqh-L._SL400_.jpg)](https://www.amazon.de/dp/B07KPT76JZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07KPT76JZ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.00 % rabat auf H0_V Acryl Schaukasten Vitrine  Vitrine '
+title: 'H0_V Acryl Schaukasten Vitrine  Vitrine Acryl Schaukasten  Acryl Display Box für Lego Star Wars 75159 Death Star  Kein Lego Modell '
 date: 2020-02-05 03:18:46
 image: 'https://m.media-amazon.com/images/I/41eodup5NdL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '129.99'
 ---
 
-Es gibt ein [H0_V Acryl Schaukasten Vitrine  Vitrine Acryl Schaukasten  Acryl Display Box für Lego Star Wars 75159 Death Star  Kein Lego Modell ](https://www.amazon.de/dp/B083J2XC4X/?tag=tolees0ca-21) mit aktuellem Preis 129.99 EUR (original: 259.98 EUR) 50.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![H0_V Acryl Schaukasten Vitrine  Vitrine ](https://m.media-amazon.com/images/I/41eodup5NdL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B083J2XC4X/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B083J2XC4X/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

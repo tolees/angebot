@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.95 % rabat auf Nicht Von Dieser Welt/Re-release + Bonus'
+title: 'Nicht Von Dieser Welt/Re-release + Bonus'
 date: 2020-09-21 15:04:46
 image: 'https://m.media-amazon.com/images/I/51R3G4TgYbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.95'
 average: '5.26'
 ---
 
-Es gibt ein [Nicht Von Dieser Welt/Re-release + Bonus](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21) mit aktuellem Preis 5.26 EUR (original: 8.76 EUR) 39.95 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Nicht Von Dieser Welt/Re-release + Bonus](https://m.media-amazon.com/images/I/51R3G4TgYbL._SL400_.jpg)](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0018LMKXK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

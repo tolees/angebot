@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Theo Klein 2813 - Bosch Car Service Park mit 37.67 % Rabatt'
+title: 'Theo Klein 2813 - Bosch Car Service Parkhaus  5 Ebenen  Spielzeug'
 date: 2020-04-16 08:33:20
 image: 'https://m.media-amazon.com/images/I/51KakkMuhbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.67'
 average: '47.39833333333334'
 ---
 
-Sie können [Theo Klein 2813 - Bosch Car Service Parkhaus  5 Ebenen  Spielzeug](https://www.amazon.de/dp/B007CCQNXC/?tag=tolees0ca-21) mit Preis 47.99 EUR (original: 76.99 EUR) 37.67 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Theo Klein 2813 - Bosch Car Service Park](https://m.media-amazon.com/images/I/51KakkMuhbL._SL400_.jpg)](https://www.amazon.de/dp/B007CCQNXC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B007CCQNXC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

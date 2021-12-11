@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL City Life 70015 Mein Lieblings mit 25.28 % Rabatt'
+title: 'PLAYMOBIL City Life 70015 Mein Lieblingscafé  Ab 4 Jahren'
 date: 2020-04-18 00:26:30
 image: 'https://m.media-amazon.com/images/I/513KDtj4BjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.28'
 average: '26.0675'
 ---
 
-Sie können [PLAYMOBIL City Life 70015 Mein Lieblingscafé  Ab 4 Jahren](https://www.amazon.de/dp/B07JXJJ67S/?tag=tolees0ca-21) mit Preis 29.88 EUR (original: 39.99 EUR) 25.28 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PLAYMOBIL City Life 70015 Mein Lieblings](https://m.media-amazon.com/images/I/513KDtj4BjL._SL400_.jpg)](https://www.amazon.de/dp/B07JXJJ67S/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JXJJ67S/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

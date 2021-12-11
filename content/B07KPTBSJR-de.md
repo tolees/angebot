@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 38565 POP Vinyl 6" Jaws Sammelbare mit 18.98 % Rabatt'
+title: 'Funko 38565 POP Vinyl 6" Jaws Sammelbares Spielzeug  Mehrfarben  Standard'
 date: 2020-04-11 16:02:19
 image: 'https://m.media-amazon.com/images/I/41pDcMtx3sL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.98'
 average: '13.79'
 ---
 
-Sie können [Funko 38565 POP Vinyl 6" Jaws Sammelbares Spielzeug  Mehrfarben  Standard](https://www.amazon.de/dp/B07KPTBSJR/?tag=tolees0ca-21) mit Preis 13.79 EUR (original: 17.02 EUR) 18.98 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 38565 POP Vinyl 6" Jaws Sammelbare](https://m.media-amazon.com/images/I/41pDcMtx3sL._SL400_.jpg)](https://www.amazon.de/dp/B07KPTBSJR/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KPTBSJR/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

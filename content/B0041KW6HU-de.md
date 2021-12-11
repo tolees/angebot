@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.48 % rabat auf La leggenda del pianista sull oceano [Bl'
+title: 'La leggenda del pianista sull oceano [Blu-ray] [IT Import]'
 date: 2020-10-11 02:06:10
 image: 'https://m.media-amazon.com/images/I/61gZCsUtTeL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.48'
 average: '6.95'
 ---
 
-Es gibt ein [La leggenda del pianista sull oceano [Blu-ray] [IT Import]](https://www.amazon.de/dp/B0041KW6HU/?tag=tolees0ca-21) mit aktuellem Preis 6.95 EUR (original: 8.74 EUR) 20.48 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![La leggenda del pianista sull oceano [Bl](https://m.media-amazon.com/images/I/61gZCsUtTeL._SL400_.jpg)](https://www.amazon.de/dp/B0041KW6HU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0041KW6HU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

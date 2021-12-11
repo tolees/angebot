@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.00 % rabat auf Robin Hood / Gladiator  Director s Cut /'
+title: 'Robin Hood / Gladiator  Director s Cut / Extended Edition  1+1 Discs  [Blu-ray]'
 date: 2020-02-03 04:52:31
 image: 'https://m.media-amazon.com/images/I/51-xf16NA3L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.00'
 average: '6.1'
 ---
 
-Es gibt ein [Robin Hood / Gladiator  Director s Cut / Extended Edition  1+1 Discs  [Blu-ray]](https://www.amazon.de/dp/B004QNW0IC/?tag=tolees0ca-21) mit aktuellem Preis 6.1 EUR (original: 11.73 EUR) 48.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Robin Hood / Gladiator  Director s Cut /](https://m.media-amazon.com/images/I/51-xf16NA3L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B004QNW0IC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B004QNW0IC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '38.55 % rabat auf Ultimate Ears BOOM 3 Bluetooth Lautsprec'
+title: 'Ultimate Ears BOOM 3 Bluetooth Lautsprecher  wasserdichter 360°-Sound  inklusive Power up Ladestation  bengalrot'
 date: 2020-04-08 06:45:17
 image: 'https://m.media-amazon.com/images/I/4166upzkm2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.55'
 average: '109.99'
 ---
 
-Es gibt ein [Ultimate Ears BOOM 3 Bluetooth Lautsprecher  wasserdichter 360°-Sound  inklusive Power up Ladestation  bengalrot](https://www.amazon.de/dp/B07HRG6DSY/?tag=tolees0ca-21) mit aktuellem Preis 109.99 EUR (original: 179.0 EUR) 38.55 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ultimate Ears BOOM 3 Bluetooth Lautsprec](https://m.media-amazon.com/images/I/4166upzkm2L._SL400_.jpg)](https://www.amazon.de/dp/B07HRG6DSY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HRG6DSY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

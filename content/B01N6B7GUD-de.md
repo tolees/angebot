@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kenwood Chef Elite KVC5320S Küchenmaschi mit 35.33 % Rabatt'
+title: 'Kenwood Chef Elite KVC5320S Küchenmaschine  4 6 l Edelstahl Rührschüssel  Interlock-Sicherheitssystem  Metallgehäuse  1200 Watt  inkl. 3-Teiligem Patisserie-Set und Glas-Mixaufsatz  silber'
 date: 2020-08-30 23:51:31
 image: 'https://m.media-amazon.com/images/I/31GADwTs64L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.33'
 average: '458.175'
 ---
 
-Sie können [Kenwood Chef Elite KVC5320S Küchenmaschine  4 6 l Edelstahl Rührschüssel  Interlock-Sicherheitssystem  Metallgehäuse  1200 Watt  inkl. 3-Teiligem Patisserie-Set und Glas-Mixaufsatz  silber](https://www.amazon.de/dp/B01N6B7GUD/?tag=tolees0ca-21) mit Preis 387.35 EUR (original: 599.0 EUR) 35.33 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kenwood Chef Elite KVC5320S Küchenmaschi](https://m.media-amazon.com/images/I/31GADwTs64L._SL400_.jpg)](https://www.amazon.de/dp/B01N6B7GUD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01N6B7GUD/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

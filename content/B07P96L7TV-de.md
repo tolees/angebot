@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 42038 POP Vinyl: WWE-Undertaker  H mit 16.18 % Rabatt'
+title: 'Funko 42038 POP Vinyl: WWE-Undertaker  Hooded  Sammelbares Spielzeug  Mehrfarben'
 date: 2020-04-08 05:17:00
 image: 'https://m.media-amazon.com/images/I/41lTWYcuXQL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.18'
 average: '11.555'
 ---
 
-Sie können [Funko 42038 POP Vinyl: WWE-Undertaker  Hooded  Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B07P96L7TV/?tag=tolees0ca-21) mit Preis 10.52 EUR (original: 12.55 EUR) 16.18 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 42038 POP Vinyl: WWE-Undertaker  H](https://m.media-amazon.com/images/I/41lTWYcuXQL._SL400_.jpg)](https://www.amazon.de/dp/B07P96L7TV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07P96L7TV/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

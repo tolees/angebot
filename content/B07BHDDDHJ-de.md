@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HUAWEI P20 Pro Smartphone  15 5 cm  6 1  mit 41.46 % Rabatt'
+title: 'HUAWEI P20 Pro Smartphone  15 5 cm  6 1 Zoll   40/20/8 MP Leica Triple Kamera  128GB interner Speicher  6GB RAM  Android 8.1  EMUI 8.1  Twilight'
 date: 2020-04-29 06:29:27
 image: 'https://m.media-amazon.com/images/I/41rY-TRkzrL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.46'
 average: '526.25'
 ---
 
-Sie können [HUAWEI P20 Pro Smartphone  15 5 cm  6 1 Zoll   40/20/8 MP Leica Triple Kamera  128GB interner Speicher  6GB RAM  Android 8.1  EMUI 8.1  Twilight](https://www.amazon.de/dp/B07BHDDDHJ/?tag=tolees0ca-21) mit Preis 526.25 EUR (original: 899.0 EUR) 41.46 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HUAWEI P20 Pro Smartphone  15 5 cm  6 1 ](https://m.media-amazon.com/images/I/41rY-TRkzrL._SL400_.jpg)](https://www.amazon.de/dp/B07BHDDDHJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07BHDDDHJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

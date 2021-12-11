@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.25 % rabat auf Hasbro Game Night - [Nintendo Switch]'
+title: 'Hasbro Game Night - [Nintendo Switch]'
 date: 2020-04-18 00:25:11
 image: 'https://m.media-amazon.com/images/I/51Ab7lpG4EL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.25'
 average: '31.0'
 ---
 
-Es gibt ein [Hasbro Game Night - [Nintendo Switch]](https://www.amazon.de/dp/B07HSLVBN2/?tag=tolees0ca-21) mit aktuellem Preis 31.0 EUR (original: 40.39 EUR) 23.25 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hasbro Game Night - [Nintendo Switch]](https://m.media-amazon.com/images/I/51Ab7lpG4EL._SL400_.jpg)](https://www.amazon.de/dp/B07HSLVBN2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07HSLVBN2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SEVERIN KG 2388 Tischgrill  2.200 W  mit mit 16.82 % Rabatt'
+title: 'SEVERIN KG 2388 Tischgrill  2.200 W  mit Hotzone-Element  schwarz'
 date: 2020-02-26 14:17:53
 image: 'https://m.media-amazon.com/images/I/31Uozte-52L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.82'
 average: '23.3'
 ---
 
-Sie können [SEVERIN KG 2388 Tischgrill  2.200 W  mit Hotzone-Element  schwarz](https://www.amazon.de/dp/B003XNBQMM/?tag=tolees0ca-21) mit Preis 23.3 EUR (original: 28.01 EUR) 16.82 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SEVERIN KG 2388 Tischgrill  2.200 W  mit](https://m.media-amazon.com/images/I/31Uozte-52L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B003XNBQMM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B003XNBQMM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

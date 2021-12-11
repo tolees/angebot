@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mannesmann 232-tlg. Steckschlüsselsatz 1 mit 31.19 % Rabatt'
+title: 'Mannesmann 232-tlg. Steckschlüsselsatz 1/4" + 1/2"  M98450'
 date: 2020-05-23 07:04:57
 image: 'https://m.media-amazon.com/images/I/51ASk6Q3j9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '31.19'
 average: '95.06'
 ---
 
-Sie können [Mannesmann 232-tlg. Steckschlüsselsatz 1/4" + 1/2"  M98450](https://www.amazon.de/dp/B00DSIL7KS/?tag=tolees0ca-21) mit Preis 95.06 EUR (original: 138.14 EUR) 31.19 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Mannesmann 232-tlg. Steckschlüsselsatz 1](https://m.media-amazon.com/images/I/51ASk6Q3j9L._SL400_.jpg)](https://www.amazon.de/dp/B00DSIL7KS/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00DSIL7KS/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

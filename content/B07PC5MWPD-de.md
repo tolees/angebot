@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RITUALS The Ritual of Samurai Classic Du mit 18.95 % Rabatt'
+title: 'RITUALS The Ritual of Samurai Classic Duschschaum   200 ml'
 date: 2020-03-15 10:13:03
 image: 'https://m.media-amazon.com/images/I/31Ujc1iFxbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.95'
 average: '6.8'
 ---
 
-Sie können [RITUALS The Ritual of Samurai Classic Duschschaum   200 ml](https://www.amazon.de/dp/B07PC5MWPD/?tag=tolees0ca-21) mit Preis 6.8 EUR (original: 8.39 EUR) 18.95 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![RITUALS The Ritual of Samurai Classic Du](https://m.media-amazon.com/images/I/31Ujc1iFxbL._SL400_.jpg)](https://www.amazon.de/dp/B07PC5MWPD/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PC5MWPD/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

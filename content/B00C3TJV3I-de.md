@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ravensburger tiptoi Dein Körper und Du S mit 37.11 % Rabatt'
+title: 'Ravensburger tiptoi Dein Körper und Du Spiel  ab 4 Jahren  Das Wissensspiel rund um den menschlichen Körper'
 date: 2020-01-08 14:46:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51uspegdGsL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '37.11'
 average: '18.49'
 ---
 
-Sie können [Ravensburger tiptoi Dein Körper und Du Spiel  ab 4 Jahren  Das Wissensspiel rund um den menschlichen Körper](https://www.amazon.de/dp/B00C3TJV3I/?tag=tolees0ca-21) mit Preis 19.49 EUR (original: 30.99 EUR) 37.11 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger tiptoi Dein Körper und Du S](https://images-eu.ssl-images-amazon.com/images/I/51uspegdGsL._SL400_.jpg)](https://www.amazon.de/dp/B00C3TJV3I/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00C3TJV3I/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

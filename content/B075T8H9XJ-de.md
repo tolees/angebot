@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AUKEY Dashcam Dual 1080P Front und Rück  mit 16.67 % Rabatt'
+title: 'AUKEY Dashcam Dual 1080P Front und Rück Autokamera mit 170° Weitwinkel  Superkondensator  WDR Nachtsicht Dash Cam mit G-Sensor Bewegungserkennung  Loop-Aufnahme und Dual-Port Kfz-Ladegerä'
 date: 2020-03-03 13:18:31
 image: 'https://m.media-amazon.com/images/I/41plhz6SkRL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.67'
 average: '109.99'
 ---
 
-Sie können [AUKEY Dashcam Dual 1080P Front und Rück Autokamera mit 170° Weitwinkel  Superkondensator  WDR Nachtsicht Dash Cam mit G-Sensor Bewegungserkennung  Loop-Aufnahme und Dual-Port Kfz-Ladegerä](https://www.amazon.de/dp/B075T8H9XJ/?tag=tolees0ca-21) mit Preis 109.99 EUR (original: 131.99 EUR) 16.67 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![AUKEY Dashcam Dual 1080P Front und Rück ](https://m.media-amazon.com/images/I/41plhz6SkRL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B075T8H9XJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B075T8H9XJ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '90.45 % rabat auf Playmobil 70026 Figures Girls  Serie 15 '
+title: 'Playmobil 70026 Figures Girls  Serie 15   bunt'
 date: 2020-04-07 13:22:19
 image: 'https://m.media-amazon.com/images/I/5135q0LRvzL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '90.45'
 average: '1.43'
 ---
 
-Es gibt ein [Playmobil 70026 Figures Girls  Serie 15   bunt](https://www.amazon.de/dp/B07JM52FDH/?tag=tolees0ca-21) mit aktuellem Preis 0.19 EUR (original: 1.99 EUR) 90.45 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 70026 Figures Girls  Serie 15 ](https://m.media-amazon.com/images/I/5135q0LRvzL._SL400_.jpg)](https://www.amazon.de/dp/B07JM52FDH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07JM52FDH/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

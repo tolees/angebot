@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.02 % rabat auf Hpybest 10 Ps 12–60 mm HSS Lochsägenbohr'
+title: 'Hpybest 10 Ps 12–60 mm HSS Lochsägenbohrer HSS HSS Lochsäge Metallschneider Bohrmaschine Herramientas Para Carpinteria'
 date: 2020-04-13 07:41:57
 image: 'https://m.media-amazon.com/images/I/41MU2ujqORL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.02'
 average: '22.84'
 ---
 
-Es gibt ein [Hpybest 10 Ps 12–60 mm HSS Lochsägenbohrer HSS HSS Lochsäge Metallschneider Bohrmaschine Herramientas Para Carpinteria](https://www.amazon.de/dp/B07S1RDZ14/?tag=tolees0ca-21) mit aktuellem Preis 22.84 EUR (original: 45.7 EUR) 50.02 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hpybest 10 Ps 12–60 mm HSS Lochsägenbohr](https://m.media-amazon.com/images/I/41MU2ujqORL._SL400_.jpg)](https://www.amazon.de/dp/B07S1RDZ14/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07S1RDZ14/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.05 % rabat auf VARTA Day Light Multi LED F10 Taschenlam'
+title: 'VARTA Day Light Multi LED F10 Taschenlampe mit 5 LEDs  inkl. 1xAA Longlife Power Batterie  ideal für Haushalt  Camping  Angeln  Garage  Notfall  Stromausfall  Outdoor '
 date: 2020-10-12 08:13:43
 image: 'https://m.media-amazon.com/images/I/31nZDHiqV+L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.05'
 average: '4.31'
 ---
 
-Es gibt ein [VARTA Day Light Multi LED F10 Taschenlampe mit 5 LEDs  inkl. 1xAA Longlife Power Batterie  ideal für Haushalt  Camping  Angeln  Garage  Notfall  Stromausfall  Outdoor ](https://www.amazon.de/dp/B07PDR5G54/?tag=tolees0ca-21) mit aktuellem Preis 4.31 EUR (original: 5.99 EUR) 28.05 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![VARTA Day Light Multi LED F10 Taschenlam](https://m.media-amazon.com/images/I/31nZDHiqV+L._SL400_.jpg)](https://www.amazon.de/dp/B07PDR5G54/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PDR5G54/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

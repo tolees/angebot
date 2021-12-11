@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple MacBook Air  13"  Neuestes Modell  mit 20.02 % Rabatt'
+title: 'Apple MacBook Air  13"  Neuestes Modell  8GB RAM  128GB Speicherplatz  1 6GHz Intel Core i5  - Space Grau'
 date: 2020-01-24 19:34:35
 image: 'https://m.media-amazon.com/images/I/41ZbQwSSlvL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.02'
 average: '999.0'
 ---
 
-Sie können [Apple MacBook Air  13"  Neuestes Modell  8GB RAM  128GB Speicherplatz  1 6GHz Intel Core i5  - Space Grau](https://www.amazon.de/dp/B07V39KWXM/?tag=tolees0ca-21) mit Preis 999.0 EUR (original: 1249.0 EUR) 20.02 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Apple MacBook Air  13"  Neuestes Modell ](https://m.media-amazon.com/images/I/41ZbQwSSlvL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07V39KWXM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07V39KWXM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '65.88 % rabat auf SanDisk Extreme PRO 128 GB SDXC Speicher'
+title: 'SanDisk Extreme PRO 128 GB SDXC Speicherkarte bis zu 95 MB/Sek  Class 10  U3  V30'
 date: 2020-05-30 18:20:49
 image: 'https://m.media-amazon.com/images/I/51qelL-Lx4L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '65.88'
 average: '29.0'
 ---
 
-Es gibt ein [SanDisk Extreme PRO 128 GB SDXC Speicherkarte bis zu 95 MB/Sek  Class 10  U3  V30](https://www.amazon.de/dp/B01J5RH06K/?tag=tolees0ca-21) mit aktuellem Preis 29.0 EUR (original: 84.99 EUR) 65.88 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![SanDisk Extreme PRO 128 GB SDXC Speicher](https://m.media-amazon.com/images/I/51qelL-Lx4L._SL400_.jpg)](https://www.amazon.de/dp/B01J5RH06K/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01J5RH06K/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

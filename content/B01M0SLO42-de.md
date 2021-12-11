@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.93 % rabat auf Cullmann Neomax Reisestativ mit geringem'
+title: 'Cullmann Neomax Reisestativ mit geringem Packmaß  28 5 cm   leicht  schwarz'
 date: 2020-02-17 10:32:47
 image: 'https://m.media-amazon.com/images/I/41mwlBRA82L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.93'
 average: '36.96'
 ---
 
-Es gibt ein [Cullmann Neomax Reisestativ mit geringem Packmaß  28 5 cm   leicht  schwarz](https://www.amazon.de/dp/B01M0SLO42/?tag=tolees0ca-21) mit aktuellem Preis 36.96 EUR (original: 46.16 EUR) 19.93 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Cullmann Neomax Reisestativ mit geringem](https://m.media-amazon.com/images/I/41mwlBRA82L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01M0SLO42/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01M0SLO42/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

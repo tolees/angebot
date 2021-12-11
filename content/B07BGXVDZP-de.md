@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Xperia XZ2 Smartphone  14 5 cm  5 7 mit 36.80 % Rabatt'
+title: 'Sony Xperia XZ2 Smartphone  14 5 cm  5 7 Zoll  IPS Full HD+ Display  64 GB interner Speicher und 4 GB RAM  Single-SIM  IP68  Android 8.0  Liquid Black - Deutsche Version'
 date: 2020-04-19 06:39:55
 image: 'https://m.media-amazon.com/images/I/41HnOcjFs2L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.80'
 average: '249.0'
 ---
 
-Sie können [Sony Xperia XZ2 Smartphone  14 5 cm  5 7 Zoll  IPS Full HD+ Display  64 GB interner Speicher und 4 GB RAM  Single-SIM  IP68  Android 8.0  Liquid Black - Deutsche Version](https://www.amazon.de/dp/B07BGXVDZP/?tag=tolees0ca-21) mit Preis 249.0 EUR (original: 394.0 EUR) 36.80 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sony Xperia XZ2 Smartphone  14 5 cm  5 7](https://m.media-amazon.com/images/I/41HnOcjFs2L._SL400_.jpg)](https://www.amazon.de/dp/B07BGXVDZP/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07BGXVDZP/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '17.43 % rabat auf LEGO 8869 Power Functions Schalter für d'
+title: 'LEGO 8869 Power Functions Schalter für die Power Functions-Motoren'
 date: 2020-04-17 23:33:12
 image: 'https://m.media-amazon.com/images/I/416YBiWIcFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.43'
 average: '9.9'
 ---
 
-Es gibt ein [LEGO 8869 Power Functions Schalter für die Power Functions-Motoren](https://www.amazon.de/dp/B003HJM0K4/?tag=tolees0ca-21) mit aktuellem Preis 9.9 EUR (original: 11.99 EUR) 17.43 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO 8869 Power Functions Schalter für d](https://m.media-amazon.com/images/I/416YBiWIcFL._SL400_.jpg)](https://www.amazon.de/dp/B003HJM0K4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B003HJM0K4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

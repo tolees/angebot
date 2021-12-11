@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 34215 Rick & Morty: Tiny Rick w/Gu mit 48.50 % Rabatt'
+title: 'Funko 34215 Rick & Morty: Tiny Rick w/Guitar  Exc  POP Vinylfigur  Multi  Standard'
 date: 2020-02-06 19:15:27
 image: 'https://m.media-amazon.com/images/I/41XMJAQLi-L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.50'
 average: '7.72'
 ---
 
-Sie können [Funko 34215 Rick & Morty: Tiny Rick w/Guitar  Exc  POP Vinylfigur  Multi  Standard](https://www.amazon.de/dp/B07HJB43VK/?tag=tolees0ca-21) mit Preis 7.72 EUR (original: 14.99 EUR) 48.50 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 34215 Rick & Morty: Tiny Rick w/Gu](https://m.media-amazon.com/images/I/41XMJAQLi-L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07HJB43VK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07HJB43VK/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

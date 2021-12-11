@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '47.87 % rabat auf Duschdas Duschgel  für ein besseres Gefü'
+title: 'Duschdas Duschgel  für ein besseres Gefühl mit erfrischendem Kräuterduft  6 x 250 ml '
 date: 2020-03-13 09:08:58
 image: 'https://m.media-amazon.com/images/I/41E8Adu2EyL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '47.87'
 average: '3.91'
 ---
 
-Es gibt ein [Duschdas Duschgel  für ein besseres Gefühl mit erfrischendem Kräuterduft  6 x 250 ml ](https://www.amazon.de/dp/B01EUWE4BY/?tag=tolees0ca-21) mit aktuellem Preis 3.91 EUR (original: 7.5 EUR) 47.87 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Duschdas Duschgel  für ein besseres Gefü](https://m.media-amazon.com/images/I/41E8Adu2EyL._SL400_.jpg)](https://www.amazon.de/dp/B01EUWE4BY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01EUWE4BY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

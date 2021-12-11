@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kodak 32 GB Class 10 Microsd-Speicherkar mit 50.42 % Rabatt'
+title: 'Kodak 32 GB Class 10 Microsd-Speicherkarte mit SD-Adapter'
 date: 2020-01-11 11:16:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ibESdElqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.42'
 average: '6.44'
 ---
 
-Sie können [Kodak 32 GB Class 10 Microsd-Speicherkarte mit SD-Adapter](https://www.amazon.de/dp/B07CWRP99Q/?tag=tolees0ca-21) mit Preis 6.44 EUR (original: 12.99 EUR) 50.42 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Kodak 32 GB Class 10 Microsd-Speicherkar](https://images-eu.ssl-images-amazon.com/images/I/41ibESdElqL._SL400_.jpg)](https://www.amazon.de/dp/B07CWRP99Q/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07CWRP99Q/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

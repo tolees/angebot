@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '28.21 % rabat auf UHU 45450 Doppel-Strips Extrem  4 kg  26'
+title: 'UHU 45450 Doppel-Strips Extrem  4 kg  26 mm x 31 mm  16 Stück'
 date: 2020-03-07 05:05:20
 image: 'https://m.media-amazon.com/images/I/51exKSNKDIL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.21'
 average: '4.3'
 ---
 
-Es gibt ein [UHU 45450 Doppel-Strips Extrem  4 kg  26 mm x 31 mm  16 Stück](https://www.amazon.de/dp/B00CQILASA/?tag=tolees0ca-21) mit aktuellem Preis 4.3 EUR (original: 5.99 EUR) 28.21 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![UHU 45450 Doppel-Strips Extrem  4 kg  26](https://m.media-amazon.com/images/I/51exKSNKDIL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B00CQILASA/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CQILASA/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

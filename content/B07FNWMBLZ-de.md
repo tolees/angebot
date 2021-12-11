@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 76114 Spider Mans Spinnenkrabbler K mit 25.28 % Rabatt'
+title: 'LEGO 76114 Spider Mans Spinnenkrabbler Kinderspielzeug  Bunt'
 date: 2020-03-14 13:27:47
 image: 'https://m.media-amazon.com/images/I/513WmAWlCHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.28'
 average: '29.88'
 ---
 
-Sie können [LEGO 76114 Spider Mans Spinnenkrabbler Kinderspielzeug  Bunt](https://www.amazon.de/dp/B07FNWMBLZ/?tag=tolees0ca-21) mit Preis 29.88 EUR (original: 39.99 EUR) 25.28 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO 76114 Spider Mans Spinnenkrabbler K](https://m.media-amazon.com/images/I/513WmAWlCHL._SL400_.jpg)](https://www.amazon.de/dp/B07FNWMBLZ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07FNWMBLZ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

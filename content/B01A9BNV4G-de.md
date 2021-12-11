@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '25.70 % rabat auf Ravensburger Memory 21204 - Fireman Sam '
+title: 'Ravensburger Memory 21204 - Fireman Sam  Mein erstes Memory'
 date: 2020-04-13 00:06:41
 image: 'https://m.media-amazon.com/images/I/61foA7qmwgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '25.70'
 average: '13.745000000000001'
 ---
 
-Es gibt ein [Ravensburger Memory 21204 - Fireman Sam  Mein erstes Memory](https://www.amazon.de/dp/B01A9BNV4G/?tag=tolees0ca-21) mit aktuellem Preis 14.11 EUR (original: 18.99 EUR) 25.70 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger Memory 21204 - Fireman Sam ](https://m.media-amazon.com/images/I/61foA7qmwgL._SL400_.jpg)](https://www.amazon.de/dp/B01A9BNV4G/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01A9BNV4G/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '15.45 % rabat auf Funko 42474 5 Star: The Shining - Jack T'
+title: 'Funko 42474 5 Star: The Shining - Jack Torrance Sammelbares Spielzeug  Mehrfarben'
 date: 2020-02-25 04:07:05
 image: 'https://m.media-amazon.com/images/I/41z6OwFlXEL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.45'
 average: '10.915'
 ---
 
-Es gibt ein [Funko 42474 5 Star: The Shining - Jack Torrance Sammelbares Spielzeug  Mehrfarben](https://www.amazon.de/dp/B004TAKMJG/?tag=tolees0ca-21) mit aktuellem Preis 10.89 EUR (original: 12.88 EUR) 15.45 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 42474 5 Star: The Shining - Jack T](https://m.media-amazon.com/images/I/41z6OwFlXEL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B004TAKMJG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B004TAKMJG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

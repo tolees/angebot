@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '38.04 % rabat auf Brennenstuhl Eco-Line  Steckdosenleiste '
+title: 'Brennenstuhl Eco-Line  Steckdosenleiste 10-fach  Steckerleiste mit erhöhtem Berührungsschutz  Schalter und 3m Kabel  lichtgrau'
 date: 2020-10-09 03:46:34
 image: 'https://m.media-amazon.com/images/I/31iHe3MnUVL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.04'
 average: '9.496666666666666'
 ---
 
-Es gibt ein [Brennenstuhl Eco-Line  Steckdosenleiste 10-fach  Steckerleiste mit erhöhtem Berührungsschutz  Schalter und 3m Kabel  lichtgrau](https://www.amazon.de/dp/B000WKFQJI/?tag=tolees0ca-21) mit aktuellem Preis 9.79 EUR (original: 15.8 EUR) 38.04 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Brennenstuhl Eco-Line  Steckdosenleiste ](https://m.media-amazon.com/images/I/31iHe3MnUVL._SL400_.jpg)](https://www.amazon.de/dp/B000WKFQJI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000WKFQJI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

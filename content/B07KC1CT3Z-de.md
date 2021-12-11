@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Book Club - Das Beste kommt noch [Blu-ra mit 48.40 % Rabatt'
+title: 'Book Club - Das Beste kommt noch [Blu-ray]'
 date: 2020-08-27 11:52:34
 image: 'https://m.media-amazon.com/images/I/51jcLocaLZL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.40'
 average: '7.7'
 ---
 
-Sie können [Book Club - Das Beste kommt noch [Blu-ray]](https://www.amazon.de/dp/B07KC1CT3Z/?tag=tolees0ca-21) mit Preis 4.52 EUR (original: 8.76 EUR) 48.40 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Book Club - Das Beste kommt noch [Blu-ra](https://m.media-amazon.com/images/I/51jcLocaLZL._SL400_.jpg)](https://www.amazon.de/dp/B07KC1CT3Z/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KC1CT3Z/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

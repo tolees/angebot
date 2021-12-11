@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.97 % rabat auf Ravensburger 17956 - Roll your Puzzle Pu'
+title: 'Ravensburger 17956 - Roll your Puzzle Puzzlematte'
 date: 2020-01-14 12:54:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61586B6wVML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.97'
 average: '10.03'
 ---
 
-Es gibt ein [Ravensburger 17956 - Roll your Puzzle Puzzlematte](https://www.amazon.de/dp/B00QDWK4XM/?tag=tolees0ca-21) mit aktuellem Preis 10.03 EUR (original: 16.99 EUR) 40.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger 17956 - Roll your Puzzle Pu](https://images-eu.ssl-images-amazon.com/images/I/61586B6wVML._SL400_.jpg)](https://www.amazon.de/dp/B00QDWK4XM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00QDWK4XM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

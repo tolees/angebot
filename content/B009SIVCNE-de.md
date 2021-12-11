@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite S Cure - Spinner S Handgepäck  mit 40.00 % Rabatt'
+title: 'Samsonite S Cure - Spinner S Handgepäck  55 cm  34 L  Blau  Dark Blue '
 date: 2020-04-13 12:13:55
 image: 'https://m.media-amazon.com/images/I/31fxUygO-hL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.00'
 average: '107.4'
 ---
 
-Sie können [Samsonite S Cure - Spinner S Handgepäck  55 cm  34 L  Blau  Dark Blue ](https://www.amazon.de/dp/B009SIVCNE/?tag=tolees0ca-21) mit Preis 107.4 EUR (original: 179.0 EUR) 40.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsonite S Cure - Spinner S Handgepäck ](https://m.media-amazon.com/images/I/31fxUygO-hL._SL400_.jpg)](https://www.amazon.de/dp/B009SIVCNE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B009SIVCNE/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

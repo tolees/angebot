@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '35.88 % rabat auf MEDION P6645 39 5 cm  15 6 Zoll  Full HD'
+title: 'MEDION P6645 39 5 cm  15 6 Zoll  Full HD Notebook  Intel Core i7-8565U  8GB DDR4 RAM  1TB HDD  256GB SSD  Nvidia GeForce MX150  Akku Schnellladefunktion  Win 10 Home '
 date: 2020-04-16 08:17:36
 image: 'https://m.media-amazon.com/images/I/41ngbU4nq6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '35.88'
 average: '598.3333333333334'
 ---
 
-Es gibt ein [MEDION P6645 39 5 cm  15 6 Zoll  Full HD Notebook  Intel Core i7-8565U  8GB DDR4 RAM  1TB HDD  256GB SSD  Nvidia GeForce MX150  Akku Schnellladefunktion  Win 10 Home ](https://www.amazon.de/dp/B07XLTJ336/?tag=tolees0ca-21) mit aktuellem Preis 545.0 EUR (original: 849.99 EUR) 35.88 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![MEDION P6645 39 5 cm  15 6 Zoll  Full HD](https://m.media-amazon.com/images/I/41ngbU4nq6L._SL400_.jpg)](https://www.amazon.de/dp/B07XLTJ336/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07XLTJ336/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

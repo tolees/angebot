@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.78 % rabat auf Engtanz'
+title: 'Engtanz'
 date: 2020-03-18 04:51:54
 image: 'https://m.media-amazon.com/images/I/51GUB0j4F9L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.78'
 average: '6.09'
 ---
 
-Es gibt ein [Engtanz](https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21) mit aktuellem Preis 6.09 EUR (original: 7.99 EUR) 23.78 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Engtanz](https://m.media-amazon.com/images/I/51GUB0j4F9L._SL400_.jpg)](https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B019EN52WE/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

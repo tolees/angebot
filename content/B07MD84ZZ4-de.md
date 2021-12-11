@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.70 % rabat auf Akkuschrauber  GOXAWEE 12V Akku Bohrschr'
+title: 'Akkuschrauber  GOXAWEE 12V Akku Bohrschrauber mit 100 Zubehör  2 Akku  Drehmoment Max 30Nm  2-Gang  10mm Schnellspannbohrfutter  für Heimwerker und Bohrwände  Holz  Metall'
 date: 2020-03-17 11:59:25
 image: 'https://m.media-amazon.com/images/I/51Z5NyulUML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '23.70'
 average: '57.98'
 ---
 
-Es gibt ein [Akkuschrauber  GOXAWEE 12V Akku Bohrschrauber mit 100 Zubehör  2 Akku  Drehmoment Max 30Nm  2-Gang  10mm Schnellspannbohrfutter  für Heimwerker und Bohrwände  Holz  Metall](https://www.amazon.de/dp/B07MD84ZZ4/?tag=tolees0ca-21) mit aktuellem Preis 57.98 EUR (original: 75.99 EUR) 23.70 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Akkuschrauber  GOXAWEE 12V Akku Bohrschr](https://m.media-amazon.com/images/I/51Z5NyulUML._SL400_.jpg)](https://www.amazon.de/dp/B07MD84ZZ4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MD84ZZ4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

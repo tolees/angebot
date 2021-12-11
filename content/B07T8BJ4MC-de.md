@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39.26 % rabat auf Polaroid Originals OneStep 2 VF Camera -'
+title: 'Polaroid Originals OneStep 2 VF Camera - Coral'
 date: 2020-08-21 10:55:24
 image: 'https://m.media-amazon.com/images/I/31khTCuEpML._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '39.26'
 average: '78.95'
 ---
 
-Es gibt ein [Polaroid Originals OneStep 2 VF Camera - Coral](https://www.amazon.de/dp/B07T8BJ4MC/?tag=tolees0ca-21) mit aktuellem Preis 78.95 EUR (original: 129.99 EUR) 39.26 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Polaroid Originals OneStep 2 VF Camera -](https://m.media-amazon.com/images/I/31khTCuEpML._SL400_.jpg)](https://www.amazon.de/dp/B07T8BJ4MC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07T8BJ4MC/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

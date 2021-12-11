@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '33.33 % rabat auf VARTA Longlife 9V Block 6LP3146 Batterie'
+title: 'VARTA Longlife 9V Block 6LP3146 Batterie  Alkaline E-Block Batterien ideal für Feuermelder Rauchmelder Stimmgerät  1er Pack  '
 date: 2020-03-07 05:04:14
 image: 'https://m.media-amazon.com/images/I/41rbujx23pL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '33.33'
 average: '1.5'
 ---
 
-Es gibt ein [VARTA Longlife 9V Block 6LP3146 Batterie  Alkaline E-Block Batterien ideal für Feuermelder Rauchmelder Stimmgerät  1er Pack  ](https://www.amazon.de/dp/B000EGSGQK/?tag=tolees0ca-21) mit aktuellem Preis 1.5 EUR (original: 2.25 EUR) 33.33 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![VARTA Longlife 9V Block 6LP3146 Batterie](https://m.media-amazon.com/images/I/41rbujx23pL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B000EGSGQK/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000EGSGQK/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '22.23 % rabat auf Under Armour Herren Sporthose  Schwarz  '
+title: 'Under Armour Herren Sporthose  Schwarz  X-Large'
 date: 2020-01-31 00:48:36
 image: 'https://m.media-amazon.com/images/I/31mGNe9utvL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '22.23'
 average: '30.9'
 ---
 
-Es gibt ein [Under Armour Herren Sporthose  Schwarz  X-Large](https://www.amazon.de/dp/B01N90UVZQ/?tag=tolees0ca-21) mit aktuellem Preis 30.9 EUR (original: 39.73 EUR) 22.23 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Under Armour Herren Sporthose  Schwarz  ](https://m.media-amazon.com/images/I/31mGNe9utvL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01N90UVZQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N90UVZQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

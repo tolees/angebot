@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP LaserJet Enterprise M506x  F2A70A  Mo mit 68.78 % Rabatt'
+title: 'HP LaserJet Enterprise M506x  F2A70A  Mono Laserdrucker  Drucker  Duplex  LAN  ePrint  AirPrint  Cloud Print  NFC  USB  1200 x 1200 dpi  weiß'
 date: 2020-03-30 17:34:28
 image: 'https://m.media-amazon.com/images/I/4170tfuFG-L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '68.78'
 average: '245.0'
 ---
 
-Sie können [HP LaserJet Enterprise M506x  F2A70A  Mono Laserdrucker  Drucker  Duplex  LAN  ePrint  AirPrint  Cloud Print  NFC  USB  1200 x 1200 dpi  weiß](https://www.amazon.de/dp/B014VY6V1M/?tag=tolees0ca-21) mit Preis 212.0 EUR (original: 679.0 EUR) 68.78 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HP LaserJet Enterprise M506x  F2A70A  Mo](https://m.media-amazon.com/images/I/4170tfuFG-L._SL400_.jpg)](https://www.amazon.de/dp/B014VY6V1M/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B014VY6V1M/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Transport Fever 2 mit 15.57 % Rabatt'
+title: 'Transport Fever 2'
 date: 2020-03-05 09:46:36
 image: 'https://m.media-amazon.com/images/I/51+zTG+IUPL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.57'
 average: '31.23'
 ---
 
-Sie können [Transport Fever 2](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21) mit Preis 31.23 EUR (original: 36.99 EUR) 15.57 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Transport Fever 2](https://m.media-amazon.com/images/I/51+zTG+IUPL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07V83KSVM/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

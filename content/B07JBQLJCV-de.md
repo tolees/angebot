@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75971 - Overwatch Hanzo vs. Genji   mit 20.17 % Rabatt'
+title: 'LEGO 75971 - Overwatch Hanzo vs. Genji  Bauset'
 date: 2020-03-22 13:08:07
 image: 'https://m.media-amazon.com/images/I/51J4lv6WYgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '20.17'
 average: '18.693333333333335'
 ---
 
-Sie können [LEGO 75971 - Overwatch Hanzo vs. Genji  Bauset](https://www.amazon.de/dp/B07JBQLJCV/?tag=tolees0ca-21) mit Preis 19.95 EUR (original: 24.99 EUR) 20.17 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LEGO 75971 - Overwatch Hanzo vs. Genji  ](https://m.media-amazon.com/images/I/51J4lv6WYgL._SL400_.jpg)](https://www.amazon.de/dp/B07JBQLJCV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07JBQLJCV/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

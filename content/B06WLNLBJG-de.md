@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.09 % rabat auf Hasbro Star Wars C1439EU4 - Episode 8 fe'
+title: 'Hasbro Star Wars C1439EU4 - Episode 8 ferngesteuerter BB-8-Droide  elektronisches Spielzeug'
 date: 2020-04-11 16:20:16
 image: 'https://m.media-amazon.com/images/I/51Bhw042OAL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.09'
 average: '71.99103448275862'
 ---
 
-Es gibt ein [Hasbro Star Wars C1439EU4 - Episode 8 ferngesteuerter BB-8-Droide  elektronisches Spielzeug](https://www.amazon.de/dp/B06WLNLBJG/?tag=tolees0ca-21) mit aktuellem Preis 83.15 EUR (original: 169.99 EUR) 51.09 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Hasbro Star Wars C1439EU4 - Episode 8 fe](https://m.media-amazon.com/images/I/51Bhw042OAL._SL400_.jpg)](https://www.amazon.de/dp/B06WLNLBJG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06WLNLBJG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

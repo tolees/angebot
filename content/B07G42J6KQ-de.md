@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '54.98 % rabat auf Intel Wireless-AC 9560  M.2 2230  2x2 Ac'
+title: 'Intel Wireless-AC 9560  M.2 2230  2x2 Ac+Bt  Gigabit  ohne Vpro'
 date: 2020-02-01 02:17:55
 image: 'https://m.media-amazon.com/images/I/51aJSL7Jx1L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '54.98'
 average: '20.615000000000002'
 ---
 
-Es gibt ein [Intel Wireless-AC 9560  M.2 2230  2x2 Ac+Bt  Gigabit  ohne Vpro](https://www.amazon.de/dp/B07G42J6KQ/?tag=tolees0ca-21) mit aktuellem Preis 16.23 EUR (original: 36.05 EUR) 54.98 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Intel Wireless-AC 9560  M.2 2230  2x2 Ac](https://m.media-amazon.com/images/I/51aJSL7Jx1L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07G42J6KQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G42J6KQ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

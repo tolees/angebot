@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Lightning-auf-USB-A-Kabel mit 49.95 % Rabatt'
+title: 'AmazonBasics - Lightning-auf-USB-A-Kabel  Premium-Kollektion  1 8 m  1er-Pack - Silber'
 date: 2020-01-11 14:18:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31fSxVfG4KL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '49.95'
 average: '5.0'
 ---
 
-Sie können [AmazonBasics - Lightning-auf-USB-A-Kabel  Premium-Kollektion  1 8 m  1er-Pack - Silber](https://www.amazon.de/dp/B07DWFXRQH/?tag=tolees0ca-21) mit Preis 5 EUR (original: 9.99 EUR) 49.95 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![AmazonBasics - Lightning-auf-USB-A-Kabel](https://images-eu.ssl-images-amazon.com/images/I/31fSxVfG4KL._SL400_.jpg)](https://www.amazon.de/dp/B07DWFXRQH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07DWFXRQH/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

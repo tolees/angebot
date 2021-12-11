@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.38 % rabat auf Garmin vívosmart HR Fitness-Tracker - in'
+title: 'Garmin vívosmart HR Fitness-Tracker - integrierte Herzfrequenzmessung am Handgelenk  Smart Notifications  Schwarz  M - L  13 7-18 8 cm '
 date: 2020-04-24 12:05:35
 image: 'https://m.media-amazon.com/images/I/412xNVb-G0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.38'
 average: '89.0'
 ---
 
-Es gibt ein [Garmin vívosmart HR Fitness-Tracker - integrierte Herzfrequenzmessung am Handgelenk  Smart Notifications  Schwarz  M - L  13 7-18 8 cm ](https://www.amazon.de/dp/B0171NKAR6/?tag=tolees0ca-21) mit aktuellem Preis 89.0 EUR (original: 139.9 EUR) 36.38 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Garmin vívosmart HR Fitness-Tracker - in](https://m.media-amazon.com/images/I/412xNVb-G0L._SL400_.jpg)](https://www.amazon.de/dp/B0171NKAR6/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0171NKAR6/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

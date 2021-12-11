@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.02 % rabat auf Spieland Custom Battle Szene Set für Leg'
+title: 'Spieland Custom Battle Szene Set für Lego Mini Figuren Militär Soldaten SWAT Team Polizei'
 date: 2020-01-01 22:58:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ShLNKeLTL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.02'
 average: '13.99'
 ---
 
-Es gibt ein [Spieland Custom Battle Szene Set für Lego Mini Figuren Militär Soldaten SWAT Team Polizei](https://www.amazon.de/dp/B07MZR6WHM/?tag=tolees0ca-21) mit aktuellem Preis 13.99 EUR (original: 19.99 EUR) 30.02 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Spieland Custom Battle Szene Set für Leg](https://images-eu.ssl-images-amazon.com/images/I/51ShLNKeLTL._SL400_.jpg)](https://www.amazon.de/dp/B07MZR6WHM/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07MZR6WHM/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

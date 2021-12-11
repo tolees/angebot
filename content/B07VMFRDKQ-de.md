@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy Buds SM-R170 I Kabellose  mit 41.07 % Rabatt'
+title: 'Samsung Galaxy Buds SM-R170 I Kabellose Kopfhörer Silber I Bluetooth I In-Ear I Stereo-Sport Headphones'
 date: 2020-10-07 00:01:50
 image: 'https://m.media-amazon.com/images/I/31ePeMWY6gL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '41.07'
 average: '79.91384615384614'
 ---
 
-Sie können [Samsung Galaxy Buds SM-R170 I Kabellose Kopfhörer Silber I Bluetooth I In-Ear I Stereo-Sport Headphones](https://www.amazon.de/dp/B07VMFRDKQ/?tag=tolees0ca-21) mit Preis 74.1 EUR (original: 125.75 EUR) 41.07 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung Galaxy Buds SM-R170 I Kabellose ](https://m.media-amazon.com/images/I/31ePeMWY6gL._SL400_.jpg)](https://www.amazon.de/dp/B07VMFRDKQ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07VMFRDKQ/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

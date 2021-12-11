@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sylvanian Families - 5017 - Schokoladenh mit 15.94 % Rabatt'
+title: 'Sylvanian Families - 5017 - Schokoladenhasen Baby mit Babybett'
 date: 2020-07-11 20:01:24
 image: 'https://m.media-amazon.com/images/I/51FWitjdyqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.94'
 average: '13.527777777777779'
 ---
 
-Sie können [Sylvanian Families - 5017 - Schokoladenhasen Baby mit Babybett](https://www.amazon.de/dp/B00HRRC49E/?tag=tolees0ca-21) mit Preis 12.6 EUR (original: 14.99 EUR) 15.94 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sylvanian Families - 5017 - Schokoladenh](https://m.media-amazon.com/images/I/51FWitjdyqL._SL400_.jpg)](https://www.amazon.de/dp/B00HRRC49E/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B00HRRC49E/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

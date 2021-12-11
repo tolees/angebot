@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '36.71 % rabat auf PLAYMOBIL 70046 - FC Bayern München Fußb'
+title: 'PLAYMOBIL 70046 - FC Bayern München Fußballarena zum Mitnehmen'
 date: 2020-04-18 00:35:51
 image: 'https://m.media-amazon.com/images/I/51gkQxVujGL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.71'
 average: '37.97'
 ---
 
-Es gibt ein [PLAYMOBIL 70046 - FC Bayern München Fußballarena zum Mitnehmen](https://www.amazon.de/dp/B07PV4PYR4/?tag=tolees0ca-21) mit aktuellem Preis 37.97 EUR (original: 59.99 EUR) 36.71 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PLAYMOBIL 70046 - FC Bayern München Fußb](https://m.media-amazon.com/images/I/51gkQxVujGL._SL400_.jpg)](https://www.amazon.de/dp/B07PV4PYR4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07PV4PYR4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

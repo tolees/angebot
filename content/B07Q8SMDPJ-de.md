@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '66.64 % rabat auf HABA 304697 - Tal der Wikinger  Kindersp'
+title: 'HABA 304697 - Tal der Wikinger  Kinderspiel des Jahres 2019  Spiel ab 6 Jahren'
 date: 2020-04-07 13:00:13
 image: 'https://m.media-amazon.com/images/I/51fmDKlMcbL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '66.64'
 average: '10.746428571428572'
 ---
 
-Es gibt ein [HABA 304697 - Tal der Wikinger  Kinderspiel des Jahres 2019  Spiel ab 6 Jahren](https://www.amazon.de/dp/B07Q8SMDPJ/?tag=tolees0ca-21) mit aktuellem Preis 9.99 EUR (original: 29.95 EUR) 66.64 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![HABA 304697 - Tal der Wikinger  Kindersp](https://m.media-amazon.com/images/I/51fmDKlMcbL._SL400_.jpg)](https://www.amazon.de/dp/B07Q8SMDPJ/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07Q8SMDPJ/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

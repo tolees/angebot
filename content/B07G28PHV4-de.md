@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '48.02 % rabat auf Universal Music Vertrieb - A Division of'
+title: 'Universal Music Vertrieb - A Division of Universal Music GmbH - Irish Heart-Live  CD & Dvd '
 date: 2021-03-09 00:47:35
 image: 'https://m.media-amazon.com/images/I/51ywZGpmyqL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.02'
 average: '12.99'
 ---
 
-Es gibt ein [Universal Music Vertrieb - A Division of Universal Music GmbH - Irish Heart-Live  CD & Dvd ](https://www.amazon.de/dp/B07G28PHV4/?tag=tolees0ca-21) mit aktuellem Preis 12.99 EUR (original: 24.99 EUR) 48.02 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Universal Music Vertrieb - A Division of](https://m.media-amazon.com/images/I/51ywZGpmyqL._SL400_.jpg)](https://www.amazon.de/dp/B07G28PHV4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07G28PHV4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

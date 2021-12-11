@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.03 % rabat auf Playmobil 9283 - Schneeballschlacht'
+title: 'Playmobil 9283 - Schneeballschlacht'
 date: 2020-01-26 01:52:22
 image: 'https://m.media-amazon.com/images/I/61EhxGaIT3L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.03'
 average: '6.99'
 ---
 
-Es gibt ein [Playmobil 9283 - Schneeballschlacht](https://www.amazon.de/dp/B06W5X76ZY/?tag=tolees0ca-21) mit aktuellem Preis 6.99 EUR (original: 9.99 EUR) 30.03 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Playmobil 9283 - Schneeballschlacht](https://m.media-amazon.com/images/I/61EhxGaIT3L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B06W5X76ZY/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06W5X76ZY/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

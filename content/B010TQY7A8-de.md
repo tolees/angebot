@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '19.99 % rabat auf Asmodee Exploding Kittens: A Card Game A'
+title: 'Asmodee Exploding Kittens: A Card Game About Kittens and Explosions and Sometimes Goats  Englisch'
 date: 2020-09-18 06:00:46
 image: 'https://m.media-amazon.com/images/I/41OVE8YFMRL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '19.99'
 average: '19.49'
 ---
 
-Es gibt ein [Asmodee Exploding Kittens: A Card Game About Kittens and Explosions and Sometimes Goats  Englisch](https://www.amazon.de/dp/B010TQY7A8/?tag=tolees0ca-21) mit aktuellem Preis 19.49 EUR (original: 24.36 EUR) 19.99 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Asmodee Exploding Kittens: A Card Game A](https://m.media-amazon.com/images/I/41OVE8YFMRL._SL400_.jpg)](https://www.amazon.de/dp/B010TQY7A8/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B010TQY7A8/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '21.45 % rabat auf Spyderco Dragonfly 2 Zome Taschenmesser '
+title: 'Spyderco Dragonfly 2 Zome Taschenmesser Military Tan  Klingenlänge: 5 8 cm  01SP234'
 date: 2020-09-24 13:50:41
 image: 'https://m.media-amazon.com/images/I/311Z07M8LgL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.45'
 average: '73.01'
 ---
 
-Es gibt ein [Spyderco Dragonfly 2 Zome Taschenmesser Military Tan  Klingenlänge: 5 8 cm  01SP234](https://www.amazon.de/dp/B075DVV8HG/?tag=tolees0ca-21) mit aktuellem Preis 73.01 EUR (original: 92.95 EUR) 21.45 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Spyderco Dragonfly 2 Zome Taschenmesser ](https://m.media-amazon.com/images/I/311Z07M8LgL._SL400_.jpg)](https://www.amazon.de/dp/B075DVV8HG/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B075DVV8HG/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

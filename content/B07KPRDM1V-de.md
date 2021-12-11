@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANT Herren O1. The Panel Down Vest Outd mit 50.00 % Rabatt'
+title: 'GANT Herren O1. The Panel Down Vest Outdoor Weste  Blau  Poseidon Blue 448   Large  Herstellergröße: L '
 date: 2020-01-03 11:54:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.00'
 average: '100'
 ---
 
-Sie können [GANT Herren O1. The Panel Down Vest Outdoor Weste  Blau  Poseidon Blue 448   Large  Herstellergröße: L ](https://www.amazon.de/dp/B07KPRDM1V/?tag=tolees0ca-21) mit Preis 100 EUR (original: 199.99 EUR) 50.00 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![GANT Herren O1. The Panel Down Vest Outd](https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL400_.jpg)](https://www.amazon.de/dp/B07KPRDM1V/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07KPRDM1V/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

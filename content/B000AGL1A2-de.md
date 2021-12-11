@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.97 % rabat auf Sämtliche Sinfonien  Ga '
+title: 'Sämtliche Sinfonien  Ga '
 date: 2020-09-25 18:02:30
 image: 'https://m.media-amazon.com/images/I/51xvWxp62HL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.97'
 average: '8.82'
 ---
 
-Es gibt ein [Sämtliche Sinfonien  Ga ](https://www.amazon.de/dp/B000AGL1A2/?tag=tolees0ca-21) mit aktuellem Preis 8.82 EUR (original: 17.99 EUR) 50.97 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Sämtliche Sinfonien  Ga ](https://m.media-amazon.com/images/I/51xvWxp62HL._SL400_.jpg)](https://www.amazon.de/dp/B000AGL1A2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B000AGL1A2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Damen Syenite Slim Hemd  Blau mit 21.49 % Rabatt'
+title: 'G-STAR RAW Damen Syenite Slim Hemd  Blau  Mazarine Blue 4213    Herstellergröße:L '
 date: 2020-04-26 14:52:30
 image: 'https://m.media-amazon.com/images/I/41ulvt-KIvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '21.49'
 average: '16.48'
 ---
 
-Sie können [G-STAR RAW Damen Syenite Slim Hemd  Blau  Mazarine Blue 4213    Herstellergröße:L ](https://www.amazon.de/dp/B07NDPT3CL/?tag=tolees0ca-21) mit Preis 16.48 EUR (original: 20.99 EUR) 21.49 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![G-STAR RAW Damen Syenite Slim Hemd  Blau](https://m.media-amazon.com/images/I/41ulvt-KIvL._SL400_.jpg)](https://www.amazon.de/dp/B07NDPT3CL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07NDPT3CL/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

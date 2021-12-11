@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16.75 % rabat auf LaDicha 2ST LANTIAN LC Filter Module DC '
+title: 'LaDicha 2ST LANTIAN LC Filter Module DC Power Video Signal Wave Filter 1S-6er für FPV System RC Drohne'
 date: 2020-04-09 07:57:58
 image: 'https://m.media-amazon.com/images/I/31FVI7ndpuL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.75'
 average: '6.51'
 ---
 
-Es gibt ein [LaDicha 2ST LANTIAN LC Filter Module DC Power Video Signal Wave Filter 1S-6er für FPV System RC Drohne](https://www.amazon.de/dp/B07FCF914Q/?tag=tolees0ca-21) mit aktuellem Preis 6.51 EUR (original: 7.82 EUR) 16.75 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![LaDicha 2ST LANTIAN LC Filter Module DC ](https://m.media-amazon.com/images/I/31FVI7ndpuL._SL400_.jpg)](https://www.amazon.de/dp/B07FCF914Q/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07FCF914Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

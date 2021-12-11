@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.86 % rabat auf PDP Nintendo Switch The Legend of Zelda:'
+title: 'PDP Nintendo Switch The Legend of Zelda: Breath of the Wild Premium Reiseetui für Konsole und Spiele  500-006'
 date: 2020-02-08 04:39:36
 image: 'https://m.media-amazon.com/images/I/41x1Bo4nS8L._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '30.86'
 average: '11.76'
 ---
 
-Es gibt ein [PDP Nintendo Switch The Legend of Zelda: Breath of the Wild Premium Reiseetui für Konsole und Spiele  500-006](https://www.amazon.de/dp/B01N10SBT4/?tag=tolees0ca-21) mit aktuellem Preis 11.76 EUR (original: 17.01 EUR) 30.86 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![PDP Nintendo Switch The Legend of Zelda:](https://m.media-amazon.com/images/I/41x1Bo4nS8L._AC_._SL400_.jpg)](https://www.amazon.de/dp/B01N10SBT4/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B01N10SBT4/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

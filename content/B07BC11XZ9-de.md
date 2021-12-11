@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mario & Luigi: Abenteuer Bowser + Bowser mit 28.12 % Rabatt'
+title: 'Mario & Luigi: Abenteuer Bowser + Bowser Jr.s Reise - [Nintendo 3DS]'
 date: 2020-03-03 04:55:32
 image: 'https://m.media-amazon.com/images/I/51+j1WqVtyL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.12'
 average: '25.0'
 ---
 
-Sie können [Mario & Luigi: Abenteuer Bowser + Bowser Jr.s Reise - [Nintendo 3DS]](https://www.amazon.de/dp/B07BC11XZ9/?tag=tolees0ca-21) mit Preis 25.0 EUR (original: 34.78 EUR) 28.12 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Mario & Luigi: Abenteuer Bowser + Bowser](https://m.media-amazon.com/images/I/51+j1WqVtyL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07BC11XZ9/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07BC11XZ9/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

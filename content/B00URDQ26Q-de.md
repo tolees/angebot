@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '27.00 % rabat auf Original MANN-FILTER Innenraumfilter FP '
+title: 'Original MANN-FILTER Innenraumfilter FP 2442 – FreciousPlus Biofunktionaler Pollenfilter – Für PKW'
 date: 2020-10-02 00:51:27
 image: 'https://m.media-amazon.com/images/I/31eLATF3DPL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '27.00'
 average: '15.22'
 ---
 
-Es gibt ein [Original MANN-FILTER Innenraumfilter FP 2442 – FreciousPlus Biofunktionaler Pollenfilter – Für PKW](https://www.amazon.de/dp/B00URDQ26Q/?tag=tolees0ca-21) mit aktuellem Preis 15.22 EUR (original: 20.85 EUR) 27.00 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Original MANN-FILTER Innenraumfilter FP ](https://m.media-amazon.com/images/I/31eLATF3DPL._SL400_.jpg)](https://www.amazon.de/dp/B00URDQ26Q/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00URDQ26Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

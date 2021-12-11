@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '43.82 % rabat auf Logitech C930e Business-Webcam  Full-HD '
+title: 'Logitech C930e Business-Webcam  Full-HD 1080p  90° Blickfeld  4-fach Zoom  Autofokus  RightLight 2-Technologie  Abdeckblende  Für Skype Business  WebEx  Lync  Cisco  etc.  PC/Mac/ChromeOS - Schwarz'
 date: 2020-04-10 15:19:21
 image: 'https://m.media-amazon.com/images/I/41tJ6EHslxL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '43.82'
 average: '78.09'
 ---
 
-Es gibt ein [Logitech C930e Business-Webcam  Full-HD 1080p  90° Blickfeld  4-fach Zoom  Autofokus  RightLight 2-Technologie  Abdeckblende  Für Skype Business  WebEx  Lync  Cisco  etc.  PC/Mac/ChromeOS - Schwarz](https://www.amazon.de/dp/B00CES5A60/?tag=tolees0ca-21) mit aktuellem Preis 78.09 EUR (original: 139.0 EUR) 43.82 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Logitech C930e Business-Webcam  Full-HD ](https://m.media-amazon.com/images/I/41tJ6EHslxL._SL400_.jpg)](https://www.amazon.de/dp/B00CES5A60/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B00CES5A60/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

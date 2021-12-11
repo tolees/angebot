@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '50.85 % rabat auf Piatnik 6012 - Activity Junior'
+title: 'Piatnik 6012 - Activity Junior'
 date: 2020-01-20 16:15:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61Nb25Z-FHL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '50.85'
 average: '14.790000000000001'
 ---
 
-Es gibt ein [Piatnik 6012 - Activity Junior](https://www.amazon.de/dp/B0000TZ6HI/?tag=tolees0ca-21) mit aktuellem Preis 14.99 EUR (original: 30.5 EUR) 50.85 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Piatnik 6012 - Activity Junior](https://images-eu.ssl-images-amazon.com/images/I/61Nb25Z-FHL._SL400_.jpg)](https://www.amazon.de/dp/B0000TZ6HI/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0000TZ6HI/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

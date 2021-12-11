@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.68 % rabat auf Spieland 200St. Custom Waffen Set für SW'
+title: 'Spieland 200St. Custom Waffen Set für SWAT Team Polizei Soldaten Mini Figuren  passen zum Lego'
 date: 2020-04-16 17:43:15
 image: 'https://m.media-amazon.com/images/I/51OnwvTY39L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.68'
 average: '21.99'
 ---
 
-Es gibt ein [Spieland 200St. Custom Waffen Set für SWAT Team Polizei Soldaten Mini Figuren  passen zum Lego](https://www.amazon.de/dp/B07QNPHB8Q/?tag=tolees0ca-21) mit aktuellem Preis 21.99 EUR (original: 29.99 EUR) 26.68 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Spieland 200St. Custom Waffen Set für SW](https://m.media-amazon.com/images/I/51OnwvTY39L._SL400_.jpg)](https://www.amazon.de/dp/B07QNPHB8Q/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QNPHB8Q/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

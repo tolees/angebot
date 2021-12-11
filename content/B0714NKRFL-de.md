@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.01 % rabat auf Uglyfrog Bike-T Full Zip Herren Radtriko'
+title: 'Uglyfrog Bike-T Full Zip Herren Radtrikot Set  Atmungsaktiv Quick-Dry Kurzarm Radsport-Shirt + Gel Gepolsterte Shorts'
 date: 2020-02-02 05:04:35
 image: 'https://m.media-amazon.com/images/I/41phqjJXFcL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '45.01'
 average: '43.99'
 ---
 
-Es gibt ein [Uglyfrog Bike-T Full Zip Herren Radtrikot Set  Atmungsaktiv Quick-Dry Kurzarm Radsport-Shirt + Gel Gepolsterte Shorts](https://www.amazon.de/dp/B0714NKRFL/?tag=tolees0ca-21) mit aktuellem Preis 43.99 EUR (original: 79.99 EUR) 45.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Uglyfrog Bike-T Full Zip Herren Radtriko](https://m.media-amazon.com/images/I/41phqjJXFcL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B0714NKRFL/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0714NKRFL/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

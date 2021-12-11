@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '29.23 % rabat auf Tommy Hilfiger Herren CORE HILFIGER REGU'
+title: 'Tommy Hilfiger Herren CORE HILFIGER REGULAR POLO Poloshirt  Schwarz  Flag Black 060   X-Large'
 date: 2020-10-07 05:17:43
 image: 'https://m.media-amazon.com/images/I/31K67ZEd43L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '29.23'
 average: '40.61888888888888'
 ---
 
-Es gibt ein [Tommy Hilfiger Herren CORE HILFIGER REGULAR POLO Poloshirt  Schwarz  Flag Black 060   X-Large](https://www.amazon.de/dp/B018LLIX94/?tag=tolees0ca-21) mit aktuellem Preis 49.47 EUR (original: 69.9 EUR) 29.23 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Tommy Hilfiger Herren CORE HILFIGER REGU](https://m.media-amazon.com/images/I/31K67ZEd43L._SL400_.jpg)](https://www.amazon.de/dp/B018LLIX94/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B018LLIX94/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

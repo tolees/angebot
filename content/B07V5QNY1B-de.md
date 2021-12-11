@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Contra: Rogue Corps für Playstation 4 US mit 38.16 % Rabatt'
+title: 'Contra: Rogue Corps für Playstation 4 USK ab 16 Jahren Singleplayer- oder Multiplayer-Modus'
 date: 2020-08-27 23:48:09
 image: 'https://m.media-amazon.com/images/I/5117BivBTjL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.16'
 average: '9.01'
 ---
 
-Sie können [Contra: Rogue Corps für Playstation 4 USK ab 16 Jahren Singleplayer- oder Multiplayer-Modus](https://www.amazon.de/dp/B07V5QNY1B/?tag=tolees0ca-21) mit Preis 9.01 EUR (original: 14.57 EUR) 38.16 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Contra: Rogue Corps für Playstation 4 US](https://m.media-amazon.com/images/I/5117BivBTjL._SL400_.jpg)](https://www.amazon.de/dp/B07V5QNY1B/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07V5QNY1B/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

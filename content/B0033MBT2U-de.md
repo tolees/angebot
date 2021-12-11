@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '26.64 % rabat auf Ravensburger tiptoi Der interaktive Glob'
+title: 'Ravensburger tiptoi Der interaktive Globus Spiel  ab 7 Jahren  Wissen und Spiele rund um die Welt'
 date: 2020-04-11 00:05:46
 image: 'https://m.media-amazon.com/images/I/51eEJ2J7b0L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '26.64'
 average: '40.34'
 ---
 
-Es gibt ein [Ravensburger tiptoi Der interaktive Globus Spiel  ab 7 Jahren  Wissen und Spiele rund um die Welt](https://www.amazon.de/dp/B0033MBT2U/?tag=tolees0ca-21) mit aktuellem Preis 40.34 EUR (original: 54.99 EUR) 26.64 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Ravensburger tiptoi Der interaktive Glob](https://m.media-amazon.com/images/I/51eEJ2J7b0L._SL400_.jpg)](https://www.amazon.de/dp/B0033MBT2U/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B0033MBT2U/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy S10e Smartphone  128 GB I mit 36.72 % Rabatt'
+title: 'Samsung Galaxy S10e Smartphone  128 GB Interner Speicher  weiß'
 date: 2020-04-25 14:21:47
 image: 'https://m.media-amazon.com/images/I/317IxJaGSFL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '36.72'
 average: '474.0'
 ---
 
-Sie können [Samsung Galaxy S10e Smartphone  128 GB Interner Speicher  weiß](https://www.amazon.de/dp/B07MTYCG43/?tag=tolees0ca-21) mit Preis 474.0 EUR (original: 749.0 EUR) 36.72 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Samsung Galaxy S10e Smartphone  128 GB I](https://m.media-amazon.com/images/I/317IxJaGSFL._SL400_.jpg)](https://www.amazon.de/dp/B07MTYCG43/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07MTYCG43/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

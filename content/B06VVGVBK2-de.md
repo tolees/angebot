@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '18.40 % rabat auf Trefl 90604 - Puzzles 2-in-1 Spaß mit Fr'
+title: 'Trefl 90604 - Puzzles 2-in-1 Spaß mit Freunden Memory'
 date: 2020-04-15 00:09:58
 image: 'https://m.media-amazon.com/images/I/51xsEyWNZEL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '18.40'
 average: '6.52'
 ---
 
-Es gibt ein [Trefl 90604 - Puzzles 2-in-1 Spaß mit Freunden Memory](https://www.amazon.de/dp/B06VVGVBK2/?tag=tolees0ca-21) mit aktuellem Preis 6.52 EUR (original: 7.99 EUR) 18.40 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Trefl 90604 - Puzzles 2-in-1 Spaß mit Fr](https://m.media-amazon.com/images/I/51xsEyWNZEL._SL400_.jpg)](https://www.amazon.de/dp/B06VVGVBK2/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B06VVGVBK2/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

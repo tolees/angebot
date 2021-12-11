@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carrera GO!!! Nintendo Mario Kart 8 5 3  mit 15.08 % Rabatt'
+title: 'Carrera GO!!! Nintendo Mario Kart 8 5 3 Meter 20062491 Autorennbahn Set'
 date: 2020-08-22 13:44:29
 image: 'https://m.media-amazon.com/images/I/51+0b6f-kvL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '15.08'
 average: '49.07666666666667'
 ---
 
-Sie können [Carrera GO!!! Nintendo Mario Kart 8 5 3 Meter 20062491 Autorennbahn Set](https://www.amazon.de/dp/B07PP9BPVN/?tag=tolees0ca-21) mit Preis 46.12 EUR (original: 54.31 EUR) 15.08 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Carrera GO!!! Nintendo Mario Kart 8 5 3 ](https://m.media-amazon.com/images/I/51+0b6f-kvL._SL400_.jpg)](https://www.amazon.de/dp/B07PP9BPVN/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B07PP9BPVN/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

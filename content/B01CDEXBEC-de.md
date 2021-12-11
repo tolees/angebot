@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 9298 S1 No Actionfigur Games: Over mit 48.18 % Rabatt'
+title: 'Funko 9298 S1 No Actionfigur Games: Overwatch: Tracer  Multi'
 date: 2020-01-05 22:49:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fdzydcj6L._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '48.18'
 average: '8.74'
 ---
 
-Sie können [Funko 9298 S1 No Actionfigur Games: Overwatch: Tracer  Multi](https://www.amazon.de/dp/B01CDEXBEC/?tag=tolees0ca-21) mit Preis 8.24 EUR (original: 15.9 EUR) 48.18 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Funko 9298 S1 No Actionfigur Games: Over](https://images-eu.ssl-images-amazon.com/images/I/51fdzydcj6L._SL400_.jpg)](https://www.amazon.de/dp/B01CDEXBEC/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01CDEXBEC/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})

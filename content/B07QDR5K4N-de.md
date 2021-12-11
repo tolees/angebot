@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '51.73 % rabat auf Marc O Polo Damen 71143  Steppmantel mit'
+title: 'Marc O Polo Damen 71143  Steppmantel mit Daunen-Federn-Füllung  klassisch moderner Wintermantel aus wasserabweisendem Material  kurzer Daunenmantel mit Abnehmbarer Kapuze'
 date: 2020-03-09 11:41:23
 image: 'https://m.media-amazon.com/images/I/41EKM5aFrIL._AC_._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '51.73'
 average: '139.95'
 ---
 
-Es gibt ein [Marc O Polo Damen 71143  Steppmantel mit Daunen-Federn-Füllung  klassisch moderner Wintermantel aus wasserabweisendem Material  kurzer Daunenmantel mit Abnehmbarer Kapuze](https://www.amazon.de/dp/B07QDR5K4N/?tag=tolees0ca-21) mit aktuellem Preis 139.95 EUR (original: 289.95 EUR) 51.73 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
 
-[![Marc O Polo Damen 71143  Steppmantel mit](https://m.media-amazon.com/images/I/41EKM5aFrIL._AC_._SL400_.jpg)](https://www.amazon.de/dp/B07QDR5K4N/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B07QDR5K4N/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})
