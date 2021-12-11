@@ -22,7 +22,7 @@ descuento: '15.01'
 average: '30.204285714285717'
 ---
 
-Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 

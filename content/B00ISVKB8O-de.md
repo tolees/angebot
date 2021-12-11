@@ -22,15 +22,15 @@ descuento: '35.01'
 average: '25.99'
 ---
 
-Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Wasserspeicher: 5 Litre
-- Wechselbarer Pflanzeinsatz - die farbneutralen Pflanzeinsätze mit versenkbaren Tragegriffen können bei Bedarf einfach und schnell herausgenommen werden und ermöglichen ein leichteres Wechseln der Bepflanzung
 - Intelligentes Lechuza Erd-Bewässerungssystem - zuverlässige Versorgung der Pflanzen mit Wasser durch den integrierten Wasserspeicher. Ein Wasserstandsanzeiger zeigt dabei genau an, wann das Wasserreservoir nachgefüllt werden muss
 - Vielseitige Verwendungsmöglichkeiten - Balconera Color kann sowohl auf freien Flächen stehend oder auch mit entsprechenden Lechuza-Balkonkastenhaltern an Balkongeländern oder Gartenzäunen befestigt werden
+- Wechselbarer Pflanzeinsatz - die farbneutralen Pflanzeinsätze mit versenkbaren Tragegriffen können bei Bedarf einfach und schnell herausgenommen werden und ermöglichen ein leichteres Wechseln der Bepflanzung
+- Wasserspeicher: 5 Litre
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

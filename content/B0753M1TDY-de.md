@@ -22,16 +22,16 @@ descuento: '28.13'
 average: '22.99'
 ---
 
-Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- UBERLEBE IN EINER LEBENDIGEN OPEN-WORLD-UMGEBUNG
 - ENTWICKLE DEIN GAMEPLAY
 - DIE NACHSTE STUFE DES CRAFTING
-- EINE UNGEWOHNLICHE STORY MIT EINEM UNGEWOHNLICHEN ENDE
 - EINE NEUE HERANGEHENSWEISE AN KAMPFE IN THIRD-PERSON-PERSPEKTIVE
+- UBERLEBE IN EINER LEBENDIGEN OPEN-WORLD-UMGEBUNG
+- EINE UNGEWOHNLICHE STORY MIT EINEM UNGEWOHNLICHEN ENDE
 
 [🛒 Hier!!]({{< param buyurl >}})

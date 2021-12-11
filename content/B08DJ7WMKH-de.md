@@ -22,16 +22,16 @@ descuento: '53.29'
 average: '13.99'
 ---
 
-Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 - Regular Fit
-- Platzierter Fotoprint
-- Aus Organic Cotton
 - Kontrast-Besatz im Nacken
+- Aus Organic Cotton
 - Rundhals Kragen
+- Platzierter Fotoprint
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -22,17 +22,17 @@ descuento: '45.89'
 average: '8.09'
 ---
 
-Es gibt ein [{{< param title >}}]({{< param buyurl >}}) mit aktuellem Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Universelle Passform
 - Kein Stromverbrauch, keine Verpolung möglich
 - Wasserdichtes, vergossenes Gehäuse
 - Für permanenten Batterieanschluss geeignet
 - Enthaltene Komponenten: Spannungsspitzen-Killer
+- Universelle Passform
 - Schützt vor erhöhtem Glühlampenverschleiß durch Spannungsspitzen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

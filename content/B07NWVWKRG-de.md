@@ -22,15 +22,15 @@ descuento: '43.88'
 average: '15.35'
 ---
 
-Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Hohe Kapazität: 2400 mAh (Milliamperstunden)
 - Verfügt auch nach 3 Jahren Lagerung noch über 65 Prozent des ursprünglichen Ladestands
 - 16er-Pack (AA) wiederaufladbare Batterien mit hoher Kapazität
 - Vorgeladen mit Solarenergie
+- Hohe Kapazität: 2400 mAh (Milliamperstunden)
 
 [🛒 Hier!!]({{< param buyurl >}})

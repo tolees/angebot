@@ -22,16 +22,16 @@ descuento: '43.84'
 average: '123.24'
 ---
 
-Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- bietet Platz für 2 Personen, max. Tragkraft ca. 272 kg
 - Bank und Auflagenbox in Einem, Fassungsvolumen ca. 227 L
+- bietet Platz für 2 Personen, max. Tragkraft ca. 272 kg
+- wetter- und UV beständig
 - Abmessung (LxBxH): außen ca. 133 x 63,5 x 89,5 cm/ innen ca. 126 x 52 x 38 cm
 - in moderner Holzoptik
-- wetter- und UV beständig
 
 [🛒 Hier!!]({{< param buyurl >}})

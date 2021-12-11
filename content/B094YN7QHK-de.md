@@ -22,15 +22,15 @@ descuento: '28.58'
 average: '24.99'
 ---
 
-Sie können [{{< param title >}}]({{< param buyurl >}}) mit Preis {{< param actualPrice >}} (original: {{< param comparePrice>}}) {{< param descuento >}} % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 [![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 - Erleben Sie eine alien-invasion aus den 50Ern von Ihrer bösen Seite
+- originalgetreu in neuer galaktischer Pracht wiedererweckt
 - Erkunden Sie amerikanische Städte der 50er mit Ihrem jetpack
 - Enthält die sagenumwobene, bisher nie gesehene verlorene Mission in area 42
-- originalgetreu in neuer galaktischer Pracht wiedererweckt
 
 [🛒 Hier!!]({{< param buyurl >}})
