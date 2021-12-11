@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank der Schutzoberfläche aus angenehm griffigem Silikon und des robusten Designs jederzeit einsatzbereit
-- Bose Technologien sorgen für Spitzenklang durch einen kompakten, wasserabweisenden Lautsprecher.
-- Die Bedienung ist ganz leicht - dank unterstützender Sprachansagen für das Koppeln per Bluetooth und mühelosem Verbinden mit NFC-fähigen Geräten
-- Integriertes Mikrofon für Freisprechfunktion oder Zugang zu digitalen Assistenten wie Siri oder Google Now
 - Der Lithium-Ionen-Akku ermöglicht eine Wiedergabedauer von bis zu acht Stunden und wird per USB-Anschluss aufgeladen
+- Bose Technologien sorgen für Spitzenklang durch einen kompakten, wasserabweisenden Lautsprecher.
+- Integriertes Mikrofon für Freisprechfunktion oder Zugang zu digitalen Assistenten wie Siri oder Google Now
+- Die Bedienung ist ganz leicht - dank unterstützender Sprachansagen für das Koppeln per Bluetooth und mühelosem Verbinden mit NFC-fähigen Geräten
+- Dank der Schutzoberfläche aus angenehm griffigem Silikon und des robusten Designs jederzeit einsatzbereit
 
 [🛒 Hier!!]({{< param buyurl >}})
