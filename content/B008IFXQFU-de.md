@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '39.49 % rabat auf TP-Link TL-WN725N Nano USB WLAN Stick Ad'
-date: 2021-12-10 22:28:05
+title: 'TP-Link TL-WN725N Nano USB WLAN Stick Adapter  bis zu 150Mbit/s  Nano Größe  Soft AP  geeignet für Windows 10/8.x/7/XP  Mac OS 10.9~10.13  Linux  schwarz'
+date: 2021-12-11 22:30:09
 image: 'https://m.media-amazon.com/images/I/41WAS1QqFWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,20 +19,20 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B008IFXQFU/?tag=tolees0ca-21'
 descuento: '39.49'
-average: '5.95159999999999'
+average: '5.95307692307691'
 ---
 
-Es gibt ein [TP-Link TL-WN725N Nano USB WLAN Stick Adapter  bis zu 150Mbit/s  Nano Größe  Soft AP  geeignet für Windows 10/8.x/7/XP  Mac OS 10.9~10.13  Linux  schwarz](https://www.amazon.de/dp/B008IFXQFU/?tag=tolees0ca-21) mit aktuellem Preis 5.99 EUR (original: 9.9 EUR) 39.49 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
-[![TP-Link TL-WN725N Nano USB WLAN Stick Ad](https://m.media-amazon.com/images/I/41WAS1QqFWL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B008IFXQFU/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
-- Erhöhte WLAN Sicherheit: Unterstützt werden WEP mit 64 und 128 Bit, WPA/WPA2/WPA-PSK/WPA2-PSK (TKIP/AES)
 - Lieferumfang: TL-WN725N Wireless N Nano USB-Adapter, Resource CD, Quick Installation Guide
-- Umgebung: Betriebstemperatur: 0 ℃ ~ 40 ℃ (32 ℉ ~ 104 ℉), Lagertemperatur: -40 ℃ ~ 70 ℃ (-40 ℉ ~ 158 ℉), Betriebsfeuchtigkeit: 10% ~ 90% nicht kondensierend, Lagerfeuchtigkeit : 5% ~ 90% nicht kondensierend
+- Eine exzellente N-Geschwindigkeit mit bis zu 150 Mbps ermöglicht ein Optimum für Videostreaming und Internettelefonie
 - WLAN-USB-Stick im Nano-Design; so klein, dass der WLAN-USB-Stick sogar dauerhaft am USB-Anschluss Ihres Notebooks verbleiben kann
 - Einfache und schnelle Installation mittels Easy-Setup-Utility
-- Eine exzellente N-Geschwindigkeit mit bis zu 150 Mbps ermöglicht ein Optimum für Videostreaming und Internettelefonie
+- Umgebung: Betriebstemperatur: 0 ℃ ~ 40 ℃ (32 ℉ ~ 104 ℉), Lagertemperatur: -40 ℃ ~ 70 ℃ (-40 ℉ ~ 158 ℉), Betriebsfeuchtigkeit: 10% ~ 90% nicht kondensierend, Lagerfeuchtigkeit : 5% ~ 90% nicht kondensierend
+- Erhöhte WLAN Sicherheit: Unterstützt werden WEP mit 64 und 128 Bit, WPA/WPA2/WPA-PSK/WPA2-PSK (TKIP/AES)
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B008IFXQFU/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Bose SoundSport  kabellose Sport-Earbuds mit 26.65 % Rabatt'
-date: 2021-12-10 22:00:10
+title: 'Bose SoundSport  kabellose Sport-Earbuds   schweißresistente Bluetooth-Kopfhörer zum Joggen   Schwarz'
+date: 2021-12-11 22:18:31
 image: 'https://m.media-amazon.com/images/I/41rbSoLwtWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,12 +19,12 @@ flag: '🇩🇪'
 brand: 'Bose'
 buyurl: 'https://www.amazon.de/dp/B01L7PSJFO/?tag=tolees0ca-21'
 descuento: '26.65'
-average: '110.39851851852'
+average: '110.38392857143'
 ---
 
-Sie können [Bose SoundSport  kabellose Sport-Earbuds   schweißresistente Bluetooth-Kopfhörer zum Joggen   Schwarz](https://www.amazon.de/dp/B01L7PSJFO/?tag=tolees0ca-21) mit Preis 109.99 EUR (original: 149.95 EUR) 26.65 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
-[![Bose SoundSport  kabellose Sport-Earbuds](https://m.media-amazon.com/images/I/41rbSoLwtWL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B01L7PSJFO/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
@@ -33,4 +33,4 @@ Sie können [Bose SoundSport  kabellose Sport-Earbuds   schweißresistente Bluet
 - Die StayHear+ Ohreinsätze ergeben zusammen mit der einzigartige Form aus weichem Silikonmaterial eine angenehme Passform, die für optimalen Tragekomfort und sicheren Sitz sorgen
 - Schweiß- und wetterfest, um bei sportlichen Aktivitäten für Verlässlichkeit zu sorgen
 
-[🛒 Hier!!](https://www.amazon.de/dp/B01L7PSJFO/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})
