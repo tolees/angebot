@@ -28,10 +28,10 @@ Sie können [essie Adventskalender 2021 für Nagellack Liebhaber  Farbvielfalt m
 
 ℹ️:
 
-- Ideal als Geschenk für die Liebsten, die beste Freundin, die Schwester oder für sich selbst - schenken Sie zur Vorweihnachstzeit #essieliebe
-- 24 Türchen mit 3 Originalprodukten, 15 Miniaturgrößen und 6 limitierte Lacke rund um Maniküre und Nagelpflege - für das tägliche Verwöhnprogramm Ihrer Nägel
-- Farbintensive Nageltrends in der Vorweihnachtszeit: Abwechslungsreicher Weihnachtskalender mit Nagellacken der Klassik, expressie und gel couture Serie sowie Nagelpflege-Produkten
 - Lieferumfang: 1x essie Adventskalender 2021, inkl. 1 Kalenderbox mit Standhalterung, 24 hochwertige Überraschungen, u.a. klassische Nagellack-Farben, expressie Lack, gel couture Nagellack und Nagelpflege, Gewicht: 1,64 kg, LxBxH: 29x42x9,7 cm
+- Farbintensive Nageltrends in der Vorweihnachtszeit: Abwechslungsreicher Weihnachtskalender mit Nagellacken der Klassik, expressie und gel couture Serie sowie Nagelpflege-Produkten
+- 24 Türchen mit 3 Originalprodukten, 15 Miniaturgrößen und 6 limitierte Lacke rund um Maniküre und Nagelpflege - für das tägliche Verwöhnprogramm Ihrer Nägel
 - Weihnachtlicher Adventskalender in Lebkuchenhaus-Design, Mit Standfuß zum Aufstellen im Ankleidezimmer, Wohnzimmer, Schlafzimmer oder sogar im Büro
+- Ideal als Geschenk für die Liebsten, die beste Freundin, die Schwester oder für sich selbst - schenken Sie zur Vorweihnachstzeit #essieliebe
 
 [🛒 Hier!!](https://www.amazon.de/dp/B09C23FB9D/?tag=tolees0ca-21)
