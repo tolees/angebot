@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '26.01 % rabat auf Sony Pictures Home Entertainment - The C'
-date: 2021-12-11 09:53:23
+title: 'Sony Pictures Home Entertainment - The Crown - Die komplette vierte Season [4 DVDs]'
+date: 2021-12-12 10:04:30
 image: 'https://m.media-amazon.com/images/I/41z+QfaHgdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -22,11 +22,11 @@ descuento: '26.01'
 average: '19.97'
 ---
 
-Es gibt ein [Sony Pictures Home Entertainment - The Crown - Die komplette vierte Season [4 DVDs]](https://www.amazon.de/dp/B09G9J2B6Z/?tag=tolees0ca-21) mit aktuellem Preis 19.97 EUR (original: 26.99 EUR) 26.01 % Rabatt hier:
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
-[![Sony Pictures Home Entertainment - The C](https://m.media-amazon.com/images/I/41z+QfaHgdL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B09G9J2B6Z/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 kauf es hier!!](https://www.amazon.de/dp/B09G9J2B6Z/?tag=tolees0ca-21)
+[🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony Pictures Home Entertainment - The C mit 16.74 % Rabatt'
-date: 2021-12-11 09:53:04
+title: 'Sony Pictures Home Entertainment - The Crown - Die komplette vierte Season [Blu-ray]'
+date: 2021-12-12 10:03:40
 image: 'https://m.media-amazon.com/images/I/41d+Hl6l-bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -22,11 +22,11 @@ descuento: '16.74'
 average: '24.97'
 ---
 
-Sie können [Sony Pictures Home Entertainment - The Crown - Die komplette vierte Season [Blu-ray]](https://www.amazon.de/dp/B09G9FZMZV/?tag=tolees0ca-21) mit Preis 24.97 EUR (original: 29.99 EUR) 16.74 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
-[![Sony Pictures Home Entertainment - The C](https://m.media-amazon.com/images/I/41d+Hl6l-bL._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B09G9FZMZV/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B09G9FZMZV/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})
