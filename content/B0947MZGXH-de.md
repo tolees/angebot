@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Buena Vista Home Entertainment - Once Up mit 40.01 % Rabatt'
-date: 2021-12-10 22:41:00
+title: 'Buena Vista Home Entertainment - Once Upon a Time - Es war einmal ... Die komplette Serie  42 Discs '
+date: 2021-12-12 04:03:57
 image: 'https://m.media-amazon.com/images/I/51shEcOucVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,14 +19,14 @@ flag: '🇩🇪'
 brand: 'Buena Vista Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B0947MZGXH/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '45.8918181818182'
+average: '45.4613043478261'
 ---
 
-Sie können [Buena Vista Home Entertainment - Once Upon a Time - Es war einmal ... Die komplette Serie  42 Discs ](https://www.amazon.de/dp/B0947MZGXH/?tag=tolees0ca-21) mit Preis 35.99 EUR (original: 59.99 EUR) 40.01 % Rabatt hier:
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
-[![Buena Vista Home Entertainment - Once Up](https://m.media-amazon.com/images/I/51shEcOucVS._SL500_._SL400_.jpg)](https://www.amazon.de/dp/B0947MZGXH/?tag=tolees0ca-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Hier!!](https://www.amazon.de/dp/B0947MZGXH/?tag=tolees0ca-21)
+[🛒 Hier!!]({{< param buyurl >}})
