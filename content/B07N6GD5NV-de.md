@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Water Resistant
 - Hergestellt in Spain
-- HeelHeight: 6, 50 cm
 - Panama Jack Women, Cuero / Bark Springer Boots
+- Water Resistant
+- HeelHeight: 6, 50 cm
 - Principal Material: Nappa, Lining Material: Leather Sole Material: Rubber InnerSole RemovableInsert: Yes
 
 [🛒 Hier!!]({{< param buyurl >}})

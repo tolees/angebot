@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein großartiges LEGO Spielzeug ab 6 Jahre und das perfekte Geschenk für Geburtstage, Weihnachten oder wenn der Regen das Spielen im Freien stoppt
-- Das LEGO Friends Set enthält zwei separate Szenen für vielseitiges Spielen: ein 2-stöckiges Baumhaus im Wald und eine separate Kajak-Szene mit Boot
-- Das Puppenhaus hat ein zu öffnendes Dach für einfachen Zugang, einen Schlafbereich, eine Terrasse mit Puppenhausmöbeln und sogar eine Toilette für die Mini Puppen
 - Zum Zubehör gehören Ketchup- und Senfflaschen, ein Hotdog, eine Kamera, ein Kajak, eine Schwimmweste und Paddelelemente sowie ein Sofa und ein Grill
+- Das LEGO Friends Set enthält zwei separate Szenen für vielseitiges Spielen: ein 2-stöckiges Baumhaus im Wald und eine separate Kajak-Szene mit Boot
 - In dem LEGO Friends Haus sind zwei Mini Puppen enthalten: Mia und ihre Mama Ann, sowie eine LEGO Friends Ava Mikropuppe und eine Waschbär Figur
+- Das Puppenhaus hat ein zu öffnendes Dach für einfachen Zugang, einen Schlafbereich, eine Terrasse mit Puppenhausmöbeln und sogar eine Toilette für die Mini Puppen
+- Ein großartiges LEGO Spielzeug ab 6 Jahre und das perfekte Geschenk für Geburtstage, Weihnachten oder wenn der Regen das Spielen im Freien stoppt
 
 [🛒 Hier!!]({{< param buyurl >}})
