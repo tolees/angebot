@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: Es erwarten Sie 300g Hundeleckerlies im wiederverschließbarem Eimer. Bei Bedarf versorgen wir Sie im Spar-Abo gerne regelmäßig mit Hundesnacks
 - 100 Prozent HUND: Seit 20 Jahren schlägt unser Herz bei Chewies (made by Pets Nature in Germany) für Hunde und Katzen. Mit dieser langjährigen Erfahrung bieten wir beste Qualität und einen kompetenten Kundenservice für Sie - Aus Liebe zum Tier
-- MIT LIEBE GEMACHT: Unsere Trainingssnacks werden schonend aus den besten Zutaten hergestellt. Verwöhnen Sie Ihren Hund mit einem hochwertigen Leckerli ohne Getreide, Zucker und Geschmacksverstärker
 - ALLERGIE FREUNDLICH: Die Leckerchen werden besonders gut vertragen, da nur eine tierische Proteinquelle enthalten ist. Die Hundeleckerlies sind in 6 allergenarmen Fleischsorten erhältlich
 - GEHEIMTIPP: Hat Ihr Hund schon einmal Ente, Huhn, Känguru, Pferd oder Lamm Leckerlis probiert? Überraschen Sie Ihre Fellnase jetzt mit spannenden Geschmacksrichtungen aus unserem Sortiment
-- ERZIEHUNG LEICHT GEMACHT: Das weiche Hundeleckerli in handlicher Größe eignet sich ideal zur Belohnung beim Training mit dem Hund. Die schmackhaften Snacks motivieren und fördern den Trainingserfolg
 - HEISS BEGEHRT: Das Leckerlie mit Ziegenfleisch ist dank der weichen Textur für jeden Hund geeignet - vom Welpen bis zum Senior. Ihr Liebling wird ganz verrückt nach dem neuen Trainingsleckerli sein
+- MIT LIEBE GEMACHT: Unsere Trainingssnacks werden schonend aus den besten Zutaten hergestellt. Verwöhnen Sie Ihren Hund mit einem hochwertigen Leckerli ohne Getreide, Zucker und Geschmacksverstärker
+- LIEFERUMFANG: Es erwarten Sie 300g Hundeleckerlies im wiederverschließbarem Eimer. Bei Bedarf versorgen wir Sie im Spar-Abo gerne regelmäßig mit Hundesnacks
+- ERZIEHUNG LEICHT GEMACHT: Das weiche Hundeleckerli in handlicher Größe eignet sich ideal zur Belohnung beim Training mit dem Hund. Die schmackhaften Snacks motivieren und fördern den Trainingserfolg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

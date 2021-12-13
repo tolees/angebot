@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100% Wasserdicht: Einfache Reinigung nach der Verwendung unter fließendem Wasser
-- Kraftvolle Rasur am ganzen Körper, dabei trotzdem hautfreundlich
-- Akkubetrieb: 60 Minuten Rasierdauer / 1 Stunde Ladedauer
 - Extralanger Griffaufsatz für die Rasur am Rücken
+- Akkubetrieb: 60 Minuten Rasierdauer / 1 Stunde Ladedauer
 - Glattrasieren ohne Trimmeraufsatz oder Trimmen mit 3 verschiedenen Trimmeraufsätzen für jede gewünschte Haarlänge (3 / 5 / 7 mm)
+- Kraftvolle Rasur am ganzen Körper, dabei trotzdem hautfreundlich
+- 100% Wasserdicht: Einfache Reinigung nach der Verwendung unter fließendem Wasser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

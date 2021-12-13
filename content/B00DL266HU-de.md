@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die kleinen Knuspertaschen sind genau das, was Katzen wollen: Die crunchige Außenhülle verbindet sich mit einer cremigen Füllung und wird durch den unwiderstehlichen Geschmack nach Lachs abgerundet
 - Lieferumfang: 6 x 60g Dreamies Klassiker mit Lachs / Knusprige Katzenleckerlis mit cremiger Füllung / 2kcal pro Stück / Geeignet für Freigänger & Hauskatzen / Sorgt für eine zufriedene Katze
-- Dreamies sind frei von künstlichen Aromen, dafür aber randvoll gefüllt mit Vitaminen, Mineralstoffen, Spaß & Liebe - kein Wunder, dass Katzen so verrückt danach sind, egal ob Junior oder Senior
 - Sobald die Stubentiger den Beutel rascheln hören, gibt es kein Halten mehr - wir empfehlen max. 20 Snacks (Jungkatzen max. 6 Stk.) am Tag / Auf ausreichend Trinkwasser achten / Vollnahrung anpassen
 - Die Kombination aus crunchiger Textur & traumhaftem Lachsgeschmack lässt unsere niedlichen Freunde auf Wolke sieben schweben - einmal gekostet, werden sie sich immer wieder die Pfoten danach lecken!
+- Dreamies sind frei von künstlichen Aromen, dafür aber randvoll gefüllt mit Vitaminen, Mineralstoffen, Spaß & Liebe - kein Wunder, dass Katzen so verrückt danach sind, egal ob Junior oder Senior
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
