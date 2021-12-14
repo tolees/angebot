@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Netzrückenlehne mit Kopfstütze; Produkt sowohl für die private als auch für die gewerbliche Nutzung geeignet; Rückenlehne 3-Dimensional beweglich und höhenverstellbare Lendenwirbelstütze; Sitzzeitempfehlung max. 8 Stunden
+- Produkt sowohl für die private als auch für die gewerbliche Nutzung geeignet; Sitzzeitempfehlung max. 8 Stunden
 - Muldensitz mit abgerundeter Vorderkante; Relax-Synchronmechanik; GS geprüft und EN 1335 1-3 konform
 - Sitzhöhenverstellung
-- Produkt sowohl für die private als auch für die gewerbliche Nutzung geeignet; Sitzzeitempfehlung max. 8 Stunden
 
 [🛒 Hier!!]({{< param buyurl >}})

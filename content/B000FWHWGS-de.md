@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 50% Robusta Kaffeebohnen
-- 50% Arabica Kaffeebohnen
 - Kaffee in Bohnen
+- 50% Arabica Kaffeebohnen
+- 50% Robusta Kaffeebohnen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
