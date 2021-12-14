@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerader Beinverlauf
-- Enger Oberschenkel
+- niedrige Leibhöhe
 - Reißverschluß
 - der bekannteste Wrangler-Fit
-- niedrige Leibhöhe
+- Gerader Beinverlauf
+- Enger Oberschenkel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

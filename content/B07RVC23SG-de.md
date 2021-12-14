@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Digitale Geräuschunterdrückung auf Knopfdruck
-- Optimierbare Klangeinstellungen mit der Sony Headphones Connect App, Google Assistant und Alexa/Siri kompatibel
-- Bis zu 30 Stunden Akkulaufzeit
 - Extra Bass für satten, kraftvollen Sound
+- Digitale Geräuschunterdrückung auf Knopfdruck
+- Bis zu 30 Stunden Akkulaufzeit
 - Quick Attention Modus: blitzschnell die Umgebung durch intuitives Handauflegen wahrnehmen
+- Optimierbare Klangeinstellungen mit der Sony Headphones Connect App, Google Assistant und Alexa/Siri kompatibel
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enger Oberschenkel
 - Reißverschluß
-- niedrige Leibhöhe
+- Enger Oberschenkel
 - der bekannteste Wrangler-Fit
 - Gerader Beinverlauf
+- niedrige Leibhöhe
 
 [🛒 Hier!!]({{< param buyurl >}})

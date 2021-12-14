@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wenn du das Hinterrad drehst, siehst du, wie die Kolben des Milwaukee-Eight-Motors zum Leben erwachen.
-- Dieses LEGO Motorrad ist ein fantastisches Ausstellungsstück für zu Hause oder das Büro.
-- Authentische Farbgestaltung in Dunkelrot und Schwarz.
-- Die bedruckten Elemente (neu ab Juli 2019) umfassen 2 dunkelrote Fliesen (2x4) mit aufgedrucktem „Harley-Davidson Fat Boy“-Tank-Emblem.
 - Das Modell ist 20 cm hoch, 18 cm breit und 33 cm lang.
+- Dieses LEGO Motorrad ist ein fantastisches Ausstellungsstück für zu Hause oder das Büro.
 - Die Spezialsteine umfassen eine Hinterradfelge (neu ab Juli 2019) mit extrabreitem Reifen.
+- Authentische Farbgestaltung in Dunkelrot und Schwarz.
 - Mit Lakester-Rädern mit Bremsscheiben und massiven Rädern, tränenförmigem Tank mit Harley-Davidson-Logos und integriertem Tachometer, Milwaukee-Eight-Motor mit beweglichen Kolben, zwei Auspuffrohren, Lenker, beweglichem Schaltpedal und Bremshebeln, Motorradständer und einem robusten Präsentationsständer.
+- Wenn du das Hinterrad drehst, siehst du, wie die Kolben des Milwaukee-Eight-Motors zum Leben erwachen.
+- Die bedruckten Elemente (neu ab Juli 2019) umfassen 2 dunkelrote Fliesen (2x4) mit aufgedrucktem „Harley-Davidson Fat Boy“-Tank-Emblem.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

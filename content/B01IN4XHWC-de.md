@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Und die Spielzeugspritze piekst auch nicht
+- Mit dem Stethoskop hört es das Herz seiner Patienten ab, mit dem Thermometer misst es Fieber, mit dem Ohrenspiegel schaut es in die Ohren seiner Patienten oder es pumpt die Blutdruckmanschette auf, damit sich der Zeiger im Messgerät dreht
 - Mit der Spielzeugbandage sind alle Schmerzen schnell vergessen
 - Kleine Ärzte werden begeistert ihre ganze Familie untersuchen … und vielleicht auch ein paar Plüschtiere … und den Hund
 - Mit diesem Arztkoffer kann das Kind in die Rolle eines Arztes schlüpfen
-- Mit dem Stethoskop hört es das Herz seiner Patienten ab, mit dem Thermometer misst es Fieber, mit dem Ohrenspiegel schaut es in die Ohren seiner Patienten oder es pumpt die Blutdruckmanschette auf, damit sich der Zeiger im Messgerät dreht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
