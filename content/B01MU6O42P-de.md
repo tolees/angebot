@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Blauer Gin durch Infusion mit einer Blüte
-- In handarbeit destillierter Small Batch Gin aus München
-- Warme Aromen, von Macis, Süßholz, Rosmarin, Kardamom... Zitrusspitzen von Zitrone, Orange, Grapefruit, Zitronengras...
-- Tonic Water lässt ihn die Farbe in Rosa ändern. THE ILLUSIONIST GIN TONIC: Magisch!
 - Unfiltered Dry Gin, 16 Botanicals, Bio Zertifiziert
+- In handarbeit destillierter Small Batch Gin aus München
+- Tonic Water lässt ihn die Farbe in Rosa ändern. THE ILLUSIONIST GIN TONIC: Magisch!
+- Warme Aromen, von Macis, Süßholz, Rosmarin, Kardamom... Zitrusspitzen von Zitrone, Orange, Grapefruit, Zitronengras...
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

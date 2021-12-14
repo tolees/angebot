@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1-4 Spieler
-- Familienspiel ab 10 Jahren
-- 16 spannende Fälle mit verschiedenen Schwierigkeitsstufen
-- Riesiger Spielplan (75 x 110cm)
 - Spiel des Jahres 2021
-- Spieldauer: 15-45 Minuten
+- 1-4 Spieler
 - Detektivspiel als Wimmelbild-Suche
+- 16 spannende Fälle mit verschiedenen Schwierigkeitsstufen
+- Spieldauer: 15-45 Minuten
+- Riesiger Spielplan (75 x 110cm)
+- Familienspiel ab 10 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
