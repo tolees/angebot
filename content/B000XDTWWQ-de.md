@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 1 Stück
 - NWS 134-49-VDE-180 Seitenschneider 180mm
+- Inhalt: 1 Stück
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
