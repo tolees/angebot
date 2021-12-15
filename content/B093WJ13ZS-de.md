@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mortal Kombat'
-date: 2021-12-14 03:09:10
+date: 2021-12-15 17:16:09
 image: 'https://m.media-amazon.com/images/I/4111oD5YelS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B093WJ13ZS/?tag=tolees0ca-21'
 descuento: '29.16'
-average: '9.74'
+average: '9.49'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

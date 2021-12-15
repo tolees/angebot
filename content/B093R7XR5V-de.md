@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mortal Kombat  2021  [Blu-ray]'
-date: 2021-12-14 03:04:08
+date: 2021-12-15 17:16:24
 image: 'https://m.media-amazon.com/images/I/41puAx5lOaS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B093R7XR5V/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '12.485'
+average: '11.6533333333333'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
