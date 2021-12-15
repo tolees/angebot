@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EuroVideo - Kir Royal - 30 Jahre Jubiläums-Edition [Blu-ray]'
-date: 2021-12-13 04:45:02
+date: 2021-12-14 23:10:44
 image: 'https://m.media-amazon.com/images/I/51RWQDYk8mL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
