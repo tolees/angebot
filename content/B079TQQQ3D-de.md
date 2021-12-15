@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- elastischer Denim
 - Fußweite 40 cm
 - Regular Fit
+- elastischer Denim
 - Basic 5-Pocket
 
 [🛒 Hier!!]({{< param buyurl >}})

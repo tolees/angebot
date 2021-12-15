@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- aufgesetzte Gesäßtaschen
 - Herren Jeans mit normaler Leibhöhe und schmalem Bein, das zum Knöchel hin eng zusammenläuft
-- bewährte Lee Qualität
 - super Tragekomfort
 - Klassische 5-Pocket Jeans
+- aufgesetzte Gesäßtaschen
+- bewährte Lee Qualität
 
 [🛒 Hier!!]({{< param buyurl >}})

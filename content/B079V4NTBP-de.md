@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Basic 5-Pocket
 - Fußweite 40 cm
 - Regular Fit
-- Basic 5-Pocket
 - elastischer Denim
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

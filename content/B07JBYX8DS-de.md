@@ -31,7 +31,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Lee Regular/Straight-Jeans für Herren in Blue - eine Hose, die besonders schick und lässig ist
 - Zusammen siehts noch besser aus: Die Hose kann mit einem lässigen Pulli supergut kombiniert werden
 - Aktuelle Jeans für Herren mit normaler Leibhöhe und Reißverschluss
-- Hersteller: Lee - Passform: Regular/Straight - Geschlecht: Herren - Farbe: Blau - über 2% Stretchanteil - Verschluss: Reißverschluss
 - Was immer Sie den Tag über erfahren: Die Hose aus 98% Baumwolle/2% Elasthan ist ein echter Modestandard und aus keinem Kleiderschrank mehr wegzudenken
+- Hersteller: Lee - Passform: Regular/Straight - Geschlecht: Herren - Farbe: Blau - über 2% Stretchanteil - Verschluss: Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

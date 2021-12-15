@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Outriders ist ein wahrer Genre-Hybrid und kombiniert actiongeladene Feuergefechte mit tiefgehenden Rollenspiel-Elementen
+- Spiele einen Outrider, einer der Vorreiter der Kolonisationsbemühungen auf dem feindseligen Planeten Enoch
 - Erkunde den feindseligen Planeten Enoch auf deiner Suche nach dem Ursprung eines geheimnisvollen Signals
 - Erstelle und individualisiere deinen eigenen Outrider und wähle aus vier einzigartigen Klassen aus, um deine Feinde auszulöschen
-- Spiele einen Outrider, einer der Vorreiter der Kolonisationsbemühungen auf dem feindseligen Planeten Enoch
+- Outriders ist ein wahrer Genre-Hybrid und kombiniert actiongeladene Feuergefechte mit tiefgehenden Rollenspiel-Elementen
 
 [🛒 Hier!!]({{< param buyurl >}})
