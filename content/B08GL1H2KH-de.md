@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsgewicht: 200 g
 - Herkunftsland:- China
 - Verpackungsabmessungen (L x B x H): 5.2 zm x 7.8 zm x 14.0 zm
 - Farbe: Weiß
+- Verpackungsgewicht: 200 g
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
