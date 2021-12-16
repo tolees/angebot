@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- eneloop Akkus haben eine äußerst geringe Selbstentladung und sind dadurch immer einsatzbereit. Auch nach 10 Jahren Lagerung verfügt eneloop über bis zu 70 Prozent der Anfangsladung
-- Bis zu 2.100 Mal wiederaufladbar - das schont die Umwelt und Ihren Geldbeutel. Die hochwertige Verpackung ist wiederverwendbar und aus recyceltem Plastik - ideal zum Aufbewahren und Reisen
 - eneloop Akkus sind universell einsetzbar und können in allen Geräten herkömmliche Akkus oder Batterien ersetzen. Sie können mit handelsüblichen NiMH-Ladegeräten aufgeladen werden
+- Bis zu 2.100 Mal wiederaufladbar - das schont die Umwelt und Ihren Geldbeutel. Die hochwertige Verpackung ist wiederverwendbar und aus recyceltem Plastik - ideal zum Aufbewahren und Reisen
 - Lieferumfang: 4 Stück eneloop AAA Micro Akkus in stabiler, wiederverwendbarer Verpackung aus recyceltem Plastik (Storage Case)
+- eneloop Akkus haben eine äußerst geringe Selbstentladung und sind dadurch immer einsatzbereit. Auch nach 10 Jahren Lagerung verfügt eneloop über bis zu 70 Prozent der Anfangsladung
 - eneloop Akkus sind mit Solarstrom vorgeladen und somit sofort einsetzbar. Sie eignen sich ideal für Geräte mit häufiger Verwendung (Blitzgeräte, Spielzeug, Game Controller, Taschenlampe, Pflege und Gesundheit,
 
 [🛒 Hier!!]({{< param buyurl >}})
