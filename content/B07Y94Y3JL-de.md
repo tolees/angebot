@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - UNO Junior kann von 2 bis 4 Personen gespielt werden. Auch wenn es speziell für jüngere UNO Fans entworfen wurde, sorgen die lustig gezeichneten Tiere für Spaß bei Jung und Alt
-- Ganz wichtig: Wer nur noch eine Karte auf der Hand hat, muss „UNO!“ rufen
-- Für jeden der Zahlenwerte gibt es ein zugehöriges Tier, sodass auch Kinder, die noch keine Zahlen lesen können, problemlos mitspielen
 - Das allseits beliebte UNO Spiel in einer vereinfachten Version, das schon Kinder ab 3 Jahren spielen können
+- Ganz wichtig: Wer nur noch eine Karte auf der Hand hat, muss „UNO!“ rufen
 - Auf der ersten Schwierigkeitsstufe müssen nur passende Karten gefunden werden, auf der zweiten Stufe kommen die Aktionskarten dazu und auf der dritten Stufe sind auch Strafkarten dabei
+- Für jeden der Zahlenwerte gibt es ein zugehöriges Tier, sodass auch Kinder, die noch keine Zahlen lesen können, problemlos mitspielen
 
 [🛒 Hier!!]({{< param buyurl >}})

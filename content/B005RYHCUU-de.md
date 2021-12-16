@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Ideale Ausgewogenheit von vier Botanicals – Wacholder, Koriander, Angelika und Süßholz – bieten die klassische Basis für Cocktails
 - Ideal als Geschenk, für Partys sowie für den Genuss mit Freunden und Familie
 - Ein vielfach preisgekrönter Gin für einen Ideal ausbalancierten Gin Tonic und eine exzellente Basis für Cocktails
-- Die Ideale Ausgewogenheit von vier Botanicals – Wacholder, Koriander, Angelika und Süßholz – bieten die klassische Basis für Cocktails
-- Von den besten 50 Bars der Welt zur Nummer Eins der trendigsten Gins erwählt
 - Unverwechselbare Aromen, die Sie Eine gute mit Tonic, viel Eis und einer Zitronenspalte genießen
+- Von den besten 50 Bars der Welt zur Nummer Eins der trendigsten Gins erwählt
 
 [🛒 Hier!!]({{< param buyurl >}})

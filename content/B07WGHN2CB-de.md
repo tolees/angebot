@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Neue Herangehensweise an Kämpfe in der Third-Person-Perspektive
+- Atomic Edition: Das Spiel "Biomutant" in einer Premium Box, Steelbook, T-Shirt, Soundtrack, detailliertes Diorama + Stoff-Artwork
 - Uberlebe in einer lebendigen Open-World-Umgebung
 - Eine ungewöhnliche Story mit einem ungewöhnlichen Ende
-- Atomic Edition: Das Spiel "Biomutant" in einer Premium Box, Steelbook, T-Shirt, Soundtrack, detailliertes Diorama + Stoff-Artwork
+- Neue Herangehensweise an Kämpfe in der Third-Person-Perspektive
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

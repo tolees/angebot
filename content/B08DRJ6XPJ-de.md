@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Automatische Erkennung der Kaffeesorte durch die eingelegte Kapsel dank Barcode-Erfassung bei der Zubereitung
-- 6 Tassengrößen voreingestellt: Espresso (40 ml), Double Espresso (80 ml), Gran Lungo (150 ml), Mug (230 ml), Alto (414 ml) und Vertuo Carafe (535 ml)
 - Premium-Kaffee zum Teilen: Bis zu 535 ml Kaffee auf Knopfdruck (mit spezieller Vertuo Carafe Kapsel) - Glaskararaffe als Zubehör erhältlich
+- Automatische Erkennung der Kaffeesorte durch die eingelegte Kapsel dank Barcode-Erfassung bei der Zubereitung
 - Lieferumfang: DeLonghi Nespresso Vertuo Next ENV 120.GY Kaffeekapselmaschine, grau
+- 6 Tassengrößen voreingestellt: Espresso (40 ml), Double Espresso (80 ml), Gran Lungo (150 ml), Mug (230 ml), Alto (414 ml) und Vertuo Carafe (535 ml)
 - Nespresso Vertuo Kapselsystem
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

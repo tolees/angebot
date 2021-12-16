@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit geruchshemmendem Aegis Microbe Shield behandelt
 - Laufsohle mit schnittperforiertem Profil und 3 mm-Stollen
-- Waschbare Obermaterial aus Polyestergewebe
 - Futter: Wasserabweisendes, schnelltrocknendes Mesh-Material
 - Patentierter Zehenschutz von KEEN
+- Mit geruchshemmendem Aegis Microbe Shield behandelt
+- Waschbare Obermaterial aus Polyestergewebe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

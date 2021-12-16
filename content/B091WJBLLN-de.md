@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spiele die Geschichte als einer der drei Haupthelden, rette und baue deine Armee auf und stelle dich deinen Gegnern
-- Entdecke verborgene Orte in atemberaubender Grafik, beweise dich gegen unzählige Gegner und erlebe fesselnde Zwischensequenzen
 - Die Day One Edition enthält zusätzlich zum Spiel das "Premiumpaket Elitewache" DLC
 - Das Sequel der legendären Kings Bounty-Videospielserie, einem der ikonischsten Vertreter des rundenbasierten RPG-Genres
+- Spiele die Geschichte als einer der drei Haupthelden, rette und baue deine Armee auf und stelle dich deinen Gegnern
+- Entdecke verborgene Orte in atemberaubender Grafik, beweise dich gegen unzählige Gegner und erlebe fesselnde Zwischensequenzen
 
 [🛒 Hier!!]({{< param buyurl >}})

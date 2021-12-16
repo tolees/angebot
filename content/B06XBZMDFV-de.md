@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Automatische Anpassung der Grilltemperatur und Grillzyklen je nach Dicke und Art des Grillguts. Lichtindikator zeigt Garzustand des Grillguts an: Blutig, medium oder durchgebraten
-- Ca. 600 Quadratzentimeter antihaftbeschichtete Grillfläche - bietet Platz für Mahlzeiten für zwei bis vier Personen
-- Sechs voreingestellte Grillprogramme: Burger, Geflügel, Sandwiches, Würstchen, Steaks und Fisch + kontinuierliche kostenlose Updates über die App
-- Grillen mit App-Steuerung: Mit der "Mein OptiGrill"-App verfolgen Sie den Garverlauf per Remote-Verbindung, probieren immer wieder neue Rezepte aus und erhalten kontinuierlich Updates
 - Lieferumfang: Tefal GC730D Optigrill Smart mit App-Steuerung schwarz/silber, Bedienungsanleitung, 4 Rezeptideen zum schnellen Start (weitere Rezepte in der kostenlosen "Mein OptiGrill" App), Quick-Start-Guide
 - Zwei Zusatzprogramme: Auftau-Funktion sowie ein manuelles Programm mit vier einstellbaren Temperaturstufen, um auch Obst und Gemüse optimal zu grillen
+- Sechs voreingestellte Grillprogramme: Burger, Geflügel, Sandwiches, Würstchen, Steaks und Fisch + kontinuierliche kostenlose Updates über die App
+- Automatische Anpassung der Grilltemperatur und Grillzyklen je nach Dicke und Art des Grillguts. Lichtindikator zeigt Garzustand des Grillguts an: Blutig, medium oder durchgebraten
+- Grillen mit App-Steuerung: Mit der "Mein OptiGrill"-App verfolgen Sie den Garverlauf per Remote-Verbindung, probieren immer wieder neue Rezepte aus und erhalten kontinuierlich Updates
+- Ca. 600 Quadratzentimeter antihaftbeschichtete Grillfläche - bietet Platz für Mahlzeiten für zwei bis vier Personen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial: Synthetik
-- Innenmaterial: Mesh
 - Sohle: Synthetik
+- Innenmaterial: Mesh
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

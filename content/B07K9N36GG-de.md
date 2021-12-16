@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für sicheren Halt sorgen Moosgummi-Standfüße. Das Oberflächenmaterial ist aus Kunststoff. Verbindung: vergoldeter USB-A-Stecker (USB 1.1).
-- Das Design mit dem unverwechselbaren Arcade-Automaten-Stick und die Technik entsprechen dem originalen Competition Pro aus den Achtzigern, dem beliebten Joystick für Heimcomputer.
 - Geeignet für Arcade- und Retro-Spiele. Im Kauf enthalten sind zusätzlich 20 dieser Spiele zum Download, darunter neu interpretierte Retro-Perlen wie Summer Games sowie Arcade-Titel im Geiste großer Heimcomputer-Klassiker.
 - Dank DirectInput ist der Joystick schnell und treiberlos installiert und direkt einsatzbereit. Kompatibel ist er an PCs ab Windows 7 und an Android-Geräten via OTG-Adapter.
+- Für sicheren Halt sorgen Moosgummi-Standfüße. Das Oberflächenmaterial ist aus Kunststoff. Verbindung: vergoldeter USB-A-Stecker (USB 1.1).
+- Das Design mit dem unverwechselbaren Arcade-Automaten-Stick und die Technik entsprechen dem originalen Competition Pro aus den Achtzigern, dem beliebten Joystick für Heimcomputer.
 - Digitaler Retro-Joystick mit Mikroschaltern, zwei Achsen, 4 Feuertasten und Schnellfeuer-Modus.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

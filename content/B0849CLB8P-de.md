@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - water repellent
-- Menswear
-- Blouson
-- Camel Active
 - uni
+- Blouson
+- Menswear
+- Camel Active
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

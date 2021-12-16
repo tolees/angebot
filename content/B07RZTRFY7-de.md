@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Offizielles Abarth-Produkt, hergestellt in Italien.
-- Ausgezeichnete Beständigkeit und Haltbarkeit. Genaue Angaben und leuchtende Farben.
 - Verpackt mit holographischem Etikett mit fortlaufender Seriennummer zur Bestätigung der Echtheit.
+- Ausgezeichnete Beständigkeit und Haltbarkeit. Genaue Angaben und leuchtende Farben.
+- Offizielles Abarth-Produkt, hergestellt in Italien.
 
 [🛒 Hier!!]({{< param buyurl >}})

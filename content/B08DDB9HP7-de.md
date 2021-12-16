@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Rib Polo-Kragen mit zwei Knöpfen
+- Aus reiner Baumwolle
+- Basic Piqué Polo
 - camel active Logo Stickerei
 - Regular Fit
-- Basic Piqué Polo
-- Aus reiner Baumwolle
-- Rib Polo-Kragen mit zwei Knöpfen
 
 [🛒 Hier!!]({{< param buyurl >}})
