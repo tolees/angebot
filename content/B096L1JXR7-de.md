@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Wifi - Mesh-WLAN Router  3er pack  WLAN  das einfach funktioniert  Bis zu 85m² pro Zugangspunkt'
-date: 2021-12-12 22:40:31
+date: 2021-12-16 17:54:28
 image: 'https://m.media-amazon.com/images/I/21IgSa85GmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Computer & Zubehör','Netzwerkgeräte','Router','google', ]
 actualPrice: 146.99 EUR
 currency: EUR
 price: 146.99
-comparePrice: 177.57 EUR
+comparePrice: 199.99 EUR
 prodname: 'Google Wifi - Mesh-WLAN Router  3er pack  WLAN  das einfach funktioniert  Bis zu 85m² pro Zugangspunkt'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Google'
 buyurl: 'https://www.amazon.de/dp/B096L1JXR7/?tag=tolees0ca-21'
-descuento: '17.22'
-average: '167.403333333333'
+descuento: '26.50'
+average: '162.3'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
