@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erscheinungsjahr: 2011, Sprache: deutsch
 - Dauer: 90
-- Maße: 39,8*27,9*8,0
 - Alter: 13+
+- Maße: 39,8*27,9*8,0
+- Erscheinungsjahr: 2011, Sprache: deutsch
 - Anzahl der Spieler: 2-5
 
 [🛒 Hier!!]({{< param buyurl >}})

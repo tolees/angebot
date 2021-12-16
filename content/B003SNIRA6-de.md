@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- gleichmäßige Farbe
+- Natural Power
+- ständig kontrollierte Spitzenqualität
 - ohne Zusatz von Aromen
+- gleichmäßige Farbe
 - außergewöhnliche Größe der Aprikosen
 - fruchtiger Geschmack
-- ständig kontrollierte Spitzenqualität
-- Natural Power
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
