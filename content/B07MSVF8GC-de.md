@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Keilabsatz
-- Innenmaterial: Textil
-- Verschluss: Klettverschluss
 - Sohle: Synthetik
 - Obermaterial: Filz
+- Verschluss: Klettverschluss
+- Innenmaterial: Textil
+- Absatzform: Keilabsatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

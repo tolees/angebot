@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Haltbarkeit ohne Kompromisse. Diese Tastenkappen aus Doubleshot-PBT sind dicker und robuster und werden nicht mit der Zeit glänzend glatt. Und auf ihnen findet sich die eleganteste und dünnste Beschriftung, die es jemals auf einer PBT-Tastenkappe gegeben hat – ein schnörkelloses minimalistisches Design, das sich niemals abnutzt
+- Für ultimativen Komfort: Die Tastatur ist mit einer ergonomischen Handballenauflage ausgerüstet, die an der Vorderseite der Tastatur andockt und mit ihrem weichen Kunstleder für optimalen Komfort sorgt. Und die Unterbodenbeleuchtung powered by Razer Chroma setzt die Tastatur immer ins rechte Licht
 - Doubleshot-Guss mit ultra dünner Beschriftung: Mithilfe unseres einzigartig präzisen Doubleshot-Produktionsprozesses können wir die PBT-Tastenkappen mit einer unvergleichlich feinen Beschriftung versehen, die ideal für Hintergrundbeleuchtung ist und sich trotz intensiver Benutzung nicht abnutzt
 - Lichtgeschwindigkeit per Tastendruck: Die Razer Opto-Mechanical-Schalter setzen auf optische Technologie im Zusammenspiel mit einem Schalter-Design, um das Auslösen in Lichtgeschwindigkeit zu ermöglichen
-- Haltbarkeit ohne Kompromisse. Diese Tastenkappen aus Doubleshot-PBT sind dicker und robuster und werden nicht mit der Zeit glänzend glatt. Und auf ihnen findet sich die eleganteste und dünnste Beschriftung, die es jemals auf einer PBT-Tastenkappe gegeben hat – ein schnörkelloses minimalistisches Design, das sich niemals abnutzt
 - Mit eigener Mediensteuerung: Die Razer Huntsman Elite ermöglicht die direkte Anpassung von der Helligkeit bis hin zur Lautstärke per programmierbarem multifunktionalen digitalen Drehregler mit gleich drei taktilen Medientasten
-- Für ultimativen Komfort: Die Tastatur ist mit einer ergonomischen Handballenauflage ausgerüstet, die an der Vorderseite der Tastatur andockt und mit ihrem weichen Kunstleder für optimalen Komfort sorgt. Und die Unterbodenbeleuchtung powered by Razer Chroma setzt die Tastatur immer ins rechte Licht
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Top Qualität von Högl - The Austrian Quality Shoe Brand
 - Kein Verschluss
-- article number: 0-128000-0100
 - closing: Kein Verschluss
+- article number: 0-128000-0100
 - Pfennigabsatz mit Plateau (7,0 cm)
+- Top Qualität von Högl - The Austrian Quality Shoe Brand
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- gesteppt
 - Bund mit Tunnelzug am Stehkragen
-- seitliche Eingriffstaschen
+- gesteppt
 - Stehkragen
+- seitliche Eingriffstaschen
 
 [🛒 Hier!!]({{< param buyurl >}})

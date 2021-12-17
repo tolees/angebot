@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gehäuse: 44 mm, Mineralglas, Quarzwerk mit analoger Chronographenanzeige, Bandbreite: 22 mm
-- Rundes, roségoldfarbenes Edelstahlgehäuse mit blauem Zifferblatt
-- In einer Fossil Geschenkbox
-- Wasserdicht bis zu 50 m: Tragbar beim Schwimmen im flachen Wasser
 - Blau/Lederband
+- Wasserdicht bis zu 50 m: Tragbar beim Schwimmen im flachen Wasser
+- Gehäuse: 44 mm, Mineralglas, Quarzwerk mit analoger Chronographenanzeige, Bandbreite: 22 mm
+- In einer Fossil Geschenkbox
+- Rundes, roségoldfarbenes Edelstahlgehäuse mit blauem Zifferblatt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
