@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures - Harry Potter: The Complete Collection - Jubiläums-Edition [9 DVDs]'
-date: 2021-12-16 05:49:27
+date: 2021-12-17 12:05:57
 image: 'https://m.media-amazon.com/images/I/51rvOJSUSbS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.de/dp/B096CKK99Y/?tag=tolees0ca-21'
 descuento: '17.65'
-average: '32.747142857143'
+average: '32.6520000000001'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

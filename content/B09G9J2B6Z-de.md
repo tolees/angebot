@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Home Entertainment - The Crown - Die komplette vierte Season [4 DVDs]'
-date: 2021-12-16 11:32:54
+date: 2021-12-17 12:04:15
 image: 'https://m.media-amazon.com/images/I/41z+QfaHgdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B09G9J2B6Z/?tag=tolees0ca-21'
 descuento: '27.79'
-average: '19.874'
+average: '19.81'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
