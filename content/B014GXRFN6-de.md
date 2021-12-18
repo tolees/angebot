@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieser Ergänzungsadapter erweitert Ihr vorhandenes dLAN Netzwerk (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
-- Die WiFi Move Technology verbindet automatisch mehrere Adapter zu einem WLAN-Netzwerk: Optimaler WLAN-Empfang, im gesamten Haus, voll automatisch
 - Lieferumfang: 1x dLAN 550 WiFi Powerline Adapter, 1x Installationsanleitung
-- Dank range+ Technologie noch mehr Leistung und höhere Reichweite.Unterstützte Betriebssysteme von Windows XP; Mac OS X 10.6; Ubuntu - Linux 12.04
 - Powerline-Verbindung über die Stromleitung mit bis zu 500 Mbit/s und bester WLAN-Empfang für Smartphone, Tablet & Co. mit bis zu 300 Mbit/s
+- Dieser Ergänzungsadapter erweitert Ihr vorhandenes dLAN Netzwerk (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
+- Dank range+ Technologie noch mehr Leistung und höhere Reichweite.Unterstützte Betriebssysteme von Windows XP; Mac OS X 10.6; Ubuntu - Linux 12.04
+- Die WiFi Move Technology verbindet automatisch mehrere Adapter zu einem WLAN-Netzwerk: Optimaler WLAN-Empfang, im gesamten Haus, voll automatisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
