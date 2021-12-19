@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Herren 527 Slim Boot Cut Jeans  Feelin  Right  29W / 32L'
-date: 2021-12-18 17:55:34
+date: 2021-12-19 18:12:57
 image: 'https://m.media-amazon.com/images/I/41bU7sTPjPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08PF7NMKR-de Levi s Herren 527 Slim Boot Cut Jeans Feelin Right 29W / 32L'
 sku: 'B08PF7NMKR-de'
 tags: [ 'Bekleidung','Herren-Jeanshosen','Herrenbekleidung','levis', ]
-actualPrice: 64.96 EUR
+actualPrice: 61.71 EUR
 currency: EUR
-price: 64.96
+price: 61.71
 comparePrice: 100.0 EUR
 prodname: 'Levi s Herren 527 Slim Boot Cut Jeans  Feelin  Right  29W / 32L'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Levis'
 buyurl: 'https://www.amazon.de/dp/B08PF7NMKR/?tag=tolees0ca-21'
-descuento: '35.04'
-average: '64.96'
+descuento: '38.29'
+average: '63.335'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Model: 527 Slim Boot Cut
 - Low Rise
 - Fit: Loose
 - Standard
+- Model: 527 Slim Boot Cut
 - Fit: Loose
 - Low Rise
 - Model: 527 Slim Boot Cut
