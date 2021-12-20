@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der unwiderstehliche Knabberspaß, der einfach jedem schmeckt
-- Im 1 Kg-Beutel ideal für die Party
-- Sonderformat - nur für kurze Zeit!
 - Ob mit Freunden oder der Familie - mit M&Ms kommt Spaß in die Runde
+- Im 1 Kg-Beutel ideal für die Party
+- Der unwiderstehliche Knabberspaß, der einfach jedem schmeckt
+- Sonderformat - nur für kurze Zeit!
 - Beste Qualität durch ausgewählte Zutaten - nur original mit dem "m"!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
