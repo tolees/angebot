@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hawaii Five-0 - Die komplette Serie [61 DVDs]'
-date: 2021-12-18 18:43:34
+date: 2021-12-20 06:37:29
 image: 'https://m.media-amazon.com/images/I/51NiF4ObyyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B093R5TL2H/?tag=tolees0ca-21'
 descuento: '22.50'
-average: '86.0488888888889'
+average: '84.341'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
