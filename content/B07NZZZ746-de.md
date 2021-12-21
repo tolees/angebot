@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Schwarz
 - Verpackungsabmessungen (L x B x H): 146.0 x 170.0 x 283.0 mm
 - Frequenzbereich: 20Hz - 20kHz
 - Herkunftsland:- China
 - Vibrations- und stoßgeschützte Halterung mit Montageadapter im Lieferumfang enthaltenStummschalten durch Antippen mit LED-StatusanzeigeVier Richtcharakteristiken zur AuswahlKomfortable Lautstärkeregelung, Integrierter Popschutz und Integrierter KopfhöreranschlussMehrgeräte- und Chat-Programm-Kompatibilität.
+- Farbe: Schwarz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
