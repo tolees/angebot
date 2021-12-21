@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-1000XM3 vollkommen kabellose Bluetooth Kopfhörer / Earbuds mit aktiver Geräuschunterdrückung zum Telefonieren u. Musikhören  Amazon Alexa - incl. Ladecase für mehr Akku'
-date: 2021-12-20 06:38:12
+date: 2021-12-21 06:51:00
 image: 'https://m.media-amazon.com/images/I/31lGw0I5YZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07T2FGG2Z/?tag=tolees0ca-21'
 descuento: '60.24'
-average: '170.434050632909'
+average: '170.208706624603'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -30,11 +30,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Bis zu 8 Std. Akkulaufzeit + 3 zusätzliche Aufladungen durch die mitgelieferte Ladestation
 - True Wireless Kopfhörer mit branchenführendem Noise Cancelling. Kompatible Bluetooth Profile: A2DP, AVRCP, HFP
+- Wenn das kabellose Headset nicht aufgeladen werden kann oder sich nicht einschalten lässt, überprüfen Sie Folgendes und gehen Sie wie folgt vor: Überprüfen Sie nach jedem Schritt, ob das kabellose Headset aufgeladen oder eingeschaltet wird. Installieren Sie die neueste Firmware. Setzen Sie das Headset in das Ladeetui und schließen Sie den Deckel. Setzen Sie das Headset zurück. Laden Sie das Ladeetui mit dem mitgelieferten USB-Typ-C-Kabel auf. Wischen Sie den Anschluss des Headsets und das Ladeetui mit einem trockenen, weichen Tuch (wie bei handelsüblichen Brillen) ab. Laden Sie in einer Umgebung mit 5 °C - 35 °C (41 °F - 95 °F)
 - Ergonomische Passform für sicheren Halt
 - *Stand: 1. Juni 2019. Gemäß Untersuchungen der Sony Corporation basierend auf den JEITA-konformen Richtlinien auf dem Markt für komplett kabellose Kopfhörer mit Noise Cancelling.
-- Wenn das kabellose Headset nicht aufgeladen werden kann oder sich nicht einschalten lässt, überprüfen Sie Folgendes und gehen Sie wie folgt vor: Überprüfen Sie nach jedem Schritt, ob das kabellose Headset aufgeladen oder eingeschaltet wird. Installieren Sie die neueste Firmware. Setzen Sie das Headset in das Ladeetui und schließen Sie den Deckel. Setzen Sie das Headset zurück. Laden Sie das Ladeetui mit dem mitgelieferten USB-Typ-C-Kabel auf. Wischen Sie den Anschluss des Headsets und das Ladeetui mit einem trockenen, weichen Tuch (wie bei handelsüblichen Brillen) ab. Laden Sie in einer Umgebung mit 5 °C - 35 °C (41 °F - 95 °F)
-- Stabile Bluetooth Verbindung
 - Sony empfiehlt immer die neueste verfügbare Software auf Ihrem Gerät zu installieren. Update Benachrichtigungen für WF-1000XM3 und die Updates selbst, werden über die Sony Headphones Connect App bereitgestellt. Die App ist kostenlos im Google Play Store und im Apple Store verfügbar.
 - Da Amazon Alexa Cloud-basiert ist, lernt sie kontinuierlich dazu. Bitten Sie Alexa, Musik abzuspielen, Nachrichten vorzulesen, das Wetter zu überprüfen, Ihr Smart Home zu steuern und vieles mehr.
+- Stabile Bluetooth Verbindung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
