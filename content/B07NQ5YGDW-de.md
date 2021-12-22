@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'TP-Link UB400 Nano USB Bluetooth 4.0 Adapter Dongle  für PC Laptop Desktop Computer  unterstützt Windows 10/8.1/8/7/XP  Plug & Play für Windows 10/8.1/8 '
-date: 2021-12-21 00:49:29
-image: 'https://m.media-amazon.com/images/I/41-yq-gC6uL._SL500_._SL400_.jpg'
+date: 2021-12-22 01:07:18
+image: 'https://m.media-amazon.com/images/I/31mcJ5IR+bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B07NQ5YGDW/?tag=tolees0ca-21'
 descuento: '26.43'
-average: '9.63650406504063'
+average: '9.63626623376621'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marshall Acton II Bluetooth Lautsprecher - schwarz  EU '
-date: 2021-12-17 05:50:51
+date: 2021-12-22 01:09:06
 image: 'https://m.media-amazon.com/images/I/51kTNGYzwdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Marshall'
 buyurl: 'https://www.amazon.de/dp/B07HPP9BRP/?tag=tolees0ca-21'
 descuento: '25.65'
-average: '189.607599999997'
+average: '190.00692307692'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
