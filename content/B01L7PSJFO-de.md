@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose SoundSport  kabellose Sport-Earbuds   schweißresistente Bluetooth-Kopfhörer zum Joggen   Schwarz'
-date: 2021-12-21 19:26:08
+date: 2021-12-22 19:28:13
 image: 'https://m.media-amazon.com/images/I/41rbSoLwtWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bose'
 buyurl: 'https://www.amazon.de/dp/B01L7PSJFO/?tag=tolees0ca-21'
 descuento: '21.31'
-average: '111.268611111113'
+average: '111.450270270272'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
