@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Packung die Größe: 28.5 L x 40.79 H x 30.0 W (cm)
-- Packung Weight: 2.08 kg
 - Mit reinem Sonnenblumenöl
 - Herkunftsland:- Deutschland
+- Packung die Größe: 28.5 L x 40.79 H x 30.0 W (cm)
+- Packung Weight: 2.08 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WI-C310 kabelloser Bluetooth In-Ohr Kopfhörer  15 Stunden Akkulaufzeit  Voice Assistent  magnetische Ohrstöpsel  Behind-the-neck Design  integrierte Headset-Funktion  Headset mit Mikro  Schwarz'
-date: 2021-12-22 13:24:53
+date: 2021-12-23 13:51:25
 image: 'https://m.media-amazon.com/images/I/319ZA2EETPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07R37BSZ6/?tag=tolees0ca-21'
 descuento: '42.67'
-average: '28.528'
+average: '28.5354545454545'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Innovatives Design: Neckband ist leicht und angenehm zu tragen
 - Integrierte Headset-Funktion für handfreies Telefonieren
+- Bis zu 15 Stunden Akkulaufzeit in Abhängigkeit vom gewählten Modus
 - Kabellose Audioübertragung mit Bluetooth Technologie
 - Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtungen mehr dank eingebautem Google/Siri Assistant
-- Bis zu 15 Stunden Akkulaufzeit in Abhängigkeit vom gewählten Modus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
