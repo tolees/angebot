@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0), einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
-- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
-- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 - Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 100-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0), einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
 - Energieverbrauch 14 kWh/1000h bei 1521 lm
+- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
+- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
 
 [🛒 Hier!!]({{< param buyurl >}})

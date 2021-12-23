@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 1:32 Modell – Der liebevoll gestaltete Fluxkompensator, die Lackierung sowie die vielen kleinen anderen Details verleihen dem Modellauto aus Metall seinen absoluten Wiedererkennungswert
-- Viele Funktionen – Durch die klassischen Flügeltüre wird das Modellauto noch lebendiger und interaktiver
 - Die fliegende Legende – Der zur Zeitmaschine umgebaute DeLorean ist das Kernstück der erfolgreichen Film-Trilogie mit Marty McFly sowie Doc Brown und eines der ikonenhaftesten Fahrzeuge aus Hollywood
-- Jada Toys – Seit mehr als 20 Jahren bieten wir, als führender Hersteller für lizensierte Modell-Figuren und -Fahrzeuge, Detailtreue, Vielfalt und höchste Qualität in Perfektion
+- Viele Funktionen – Durch die klassischen Flügeltüre wird das Modellauto noch lebendiger und interaktiver
 - Ideales Geschenk – Die silbergraue Zeitmaschine ist ein ideales Geschenk für alle Modellliebhaber, welche gerne wieder in die Erinnerungen an die Kindheit und Jugend abschweifen wollen
+- Jada Toys – Seit mehr als 20 Jahren bieten wir, als führender Hersteller für lizensierte Modell-Figuren und -Fahrzeuge, Detailtreue, Vielfalt und höchste Qualität in Perfektion
 
 [🛒 Hier!!]({{< param buyurl >}})
