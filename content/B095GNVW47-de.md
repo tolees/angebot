@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'heylourb - WLAN Repeater WLAN Verstärker WiFi Booster 300 Mbit/s 2 4GHz mit Repeater Modus  AccessPoint  WPS  LAN-Port Funktion Kompatibel zu Allen WLAN Geräten'
-date: 2021-12-23 01:29:35
+date: 2021-12-24 02:02:24
 image: 'https://m.media-amazon.com/images/I/31dUZrfslES._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'heylourb'
 buyurl: 'https://www.amazon.de/dp/B095GNVW47/?tag=tolees0ca-21'
 descuento: '23.09'
-average: '17.3621428571428'
+average: '17.4527586206896'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
