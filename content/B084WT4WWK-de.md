@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Reichweite und High-Speed-WLAN mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
-- Maximale WLAN-Sicherheit mit WPA-PSK und WPA2-PSK. Betriebstemperatur: 0°C - 40°C
 - 2 externe Antennen für bessere Ausrichtungsmöglichkeit und flexible Platzierung im Haus
+- Hohe Reichweite und High-Speed-WLAN mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
 - Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards IEEE 802.11 b/g/n) Situation auf Geschwindigkeit verzichten
+- Maximale WLAN-Sicherheit mit WPA-PSK und WPA2-PSK. Betriebstemperatur: 0°C - 40°C
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
