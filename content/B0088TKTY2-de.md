@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 300Mbps WLAN-Geschwindigkeit, ideal für die flüssige Wiedergabe von HD-Video, VoIP und Online-Gaming. Frequenz: 2,4GHz
-- SoftAP-Modus - Machen Sie Ihren Computer zu einem WiFi-Hotspot
 - Lieferumfang: TL-WN823N WLAN USB Adapter, Software-CD inkl. Treibern, Schnellinstallationsanleitung
+- SoftAP-Modus - Machen Sie Ihren Computer zu einem WiFi-Hotspot
 - Einfaches Einrichten einer Drahtlosverbindung durch Drücken der WPS-Taste
 - Kleiner Formfaktor für maximale Mobilität mit gewohnt verlässlicher Performance
+- 300Mbps WLAN-Geschwindigkeit, ideal für die flüssige Wiedergabe von HD-Video, VoIP und Online-Gaming. Frequenz: 2,4GHz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
