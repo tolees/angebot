@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE Smarte LED-Lampe mit WiFi Technologie  Sockel E27  Dimmbar  Warmweiß  2700 K   ersetzt Glühlampen mit 100 W  SMART+ WiFi Classic Dimmable  3er-Pack'
-date: 2021-12-23 14:06:34
+date: 2021-12-27 02:56:33
 image: 'https://m.media-amazon.com/images/I/31RMMxHUcIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ledvance'
 buyurl: 'https://www.amazon.de/dp/B08KZ1BK5W/?tag=tolees0ca-21'
 descuento: '26.18'
-average: '17.565'
+average: '19.09'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 100-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0), einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
-- Energieverbrauch 14 kWh/1000h bei 1521 lm
 - Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 - Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0), einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
+- Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 100-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
+- Energieverbrauch 14 kWh/1000h bei 1521 lm
 
 [🛒 Hier!!]({{< param buyurl >}})
