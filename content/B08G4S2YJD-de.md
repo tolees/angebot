@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 43106 VIDIYO Unicorn DJ Beatbox Music Video Maker Musik Spielzeug für Kinder  AR App Set mit Einhorn Minifigur'
-date: 2021-12-26 09:05:22
+date: 2021-12-27 09:26:19
 image: 'https://m.media-amazon.com/images/I/51jlOcTjeMS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08G4S2YJD-de LEGO 43106 VIDIYO Unicorn DJ Beatbox Music Video Maker...'
 sku: 'B08G4S2YJD-de'
 tags: [ 'Hobbys','Model Büsten','Sammelfiguren','Sammelfiguren & Requisiten','Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','lego', ]
-actualPrice: 7.13 EUR
+actualPrice: 7.12 EUR
 currency: EUR
-price: 7.13
+price: 7.12
 comparePrice: 19.99 EUR
 prodname: 'LEGO 43106 VIDIYO Unicorn DJ Beatbox Music Video Maker Musik Spielzeug für Kinder  AR App Set mit Einhorn Minifigur'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4S2YJD/?tag=tolees0ca-21'
-descuento: '64.33'
-average: '10.2886585365855'
+descuento: '64.38'
+average: '10.250481927711'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das LEGO VIDIYO Set Robo HipHop Car erweckt die inkludierten Minifiguren in der kostenlosen LEGO AR App zum Leben und lässt Ihr Kind kreativ werden
-- Kinder können die Szenerie in ihrem Video verändern - wenn sie die Köpfe wechseln, erscheint eine virtuelle Hightech-Werkstatt oder ein mit Graffiti bemaltes Parkhaus im Hintergrund
 - Scannen Sie die BeatBits in der LEGO App und schalten Sie Spezialeffekte frei, um Songs und coole Robotergeräusche hinzufügen oder Ihre Videos mit Graffitis aufzupeppen
+- Das LEGO VIDIYO Set Robo HipHop Car erweckt die inkludierten Minifiguren in der kostenlosen LEGO AR App zum Leben und lässt Ihr Kind kreativ werden
 - Die BeatBox lässt sich zusammenklappen und im Inneren ist Platz für die Bühne aus LEGO-Steinen, daher ist dieses Musik Spielzeug ideal zum Mitnehmen
 - In diesem Musik Spielzeug für Kinder sind 2 Minifiguren mit Musikzubehör, 14 zufällige BeatBits und 2 spezielle BeatBits für Spezialeffekte enthalten
+- Kinder können die Szenerie in ihrem Video verändern - wenn sie die Köpfe wechseln, erscheint eine virtuelle Hightech-Werkstatt oder ein mit Graffiti bemaltes Parkhaus im Hintergrund
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
