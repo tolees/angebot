@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Video - Fast & Furious 9  Director s Cut + Kinofassung '
-date: 2021-12-21 13:10:49
+date: 2021-12-27 20:33:47
 image: 'https://m.media-amazon.com/images/I/51mLIbEQIBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B099C5NCYZ-de Universal Pictures Video - Fast & Furious 9 Director s Cut...'
 sku: 'B099C5NCYZ-de'
 tags: [ 'Action & Abenteuer','DVD & Blu-ray','Featured Categories','Filme','Krimi','Thriller','universal pictures video', ]
-actualPrice: 8.99 EUR
+actualPrice: 11.49 EUR
 currency: EUR
-price: 8.99
+price: 11.49
 comparePrice: 13.99 EUR
 prodname: 'Universal Pictures Video - Fast & Furious 9  Director s Cut + Kinofassung '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Universal Pictures Video'
 buyurl: 'https://www.amazon.de/dp/B099C5NCYZ/?tag=tolees0ca-21'
-descuento: '35.74'
-average: '12.9579487179487'
+descuento: '17.87'
+average: '12.92125'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

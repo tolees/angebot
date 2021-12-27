@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kräutern mit Zitrusnote
+- Frankreich
 - Packung die Größe: 7.4 L x 24.4 H x 7.4 W (cm)
 - Packung Weight: 1.07 kg
-- Frankreich
 
 [🛒 Hier!!]({{< param buyurl >}})
