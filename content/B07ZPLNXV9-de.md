@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NOKK: Die wunderschöne blau-weiße Figur des mythischen Wassergeists Nokk ist inspiriert von Disneys Die Eiskönigin 2
-- ELSA AUF FANTASTISCHEN ABENTEUERN: Elsa kann auf Nokks Rücken gesetzt werden, damit sich Kinder mit ihnen gemeinsam tolle Abenteuer ausdenken können
-- OUTFIT WIE IM FILM: Die Elsa Modepuppe trägt ihr majestätisches, hellblaues Kleid, das durch den Film Die Eiskönigin 2 inspiriert ist
-- NOCH MEHR DIE EISKÖNIGIN 2 SPIELZEUG: Es gibt noch weiteres Spielzeug zu Die Eiskönigin 2, wie die Anna und Olaf Puppen, um eine Sammlung von Disney Puppen zu vergrößern. Jeweils separat erhältlich. Je nach Verfügbarkeit
 - WASSERZAUBER UND LANDSPASS ELSA & NOKK: Enthält eine Elsa Puppe und die Wasser-Nokk Figur, die an Land laufen und im Wasser schwimmen kann. Kann am besten auf harten und flachen Oberflächen laufen
+- NOKK: Die wunderschöne blau-weiße Figur des mythischen Wassergeists Nokk ist inspiriert von Disneys Die Eiskönigin 2
+- NOCH MEHR DIE EISKÖNIGIN 2 SPIELZEUG: Es gibt noch weiteres Spielzeug zu Die Eiskönigin 2, wie die Anna und Olaf Puppen, um eine Sammlung von Disney Puppen zu vergrößern. Jeweils separat erhältlich. Je nach Verfügbarkeit
+- OUTFIT WIE IM FILM: Die Elsa Modepuppe trägt ihr majestätisches, hellblaues Kleid, das durch den Film Die Eiskönigin 2 inspiriert ist
+- ELSA AUF FANTASTISCHEN ABENTEUERN: Elsa kann auf Nokks Rücken gesetzt werden, damit sich Kinder mit ihnen gemeinsam tolle Abenteuer ausdenken können
 
 [🛒 Hier!!]({{< param buyurl >}})
