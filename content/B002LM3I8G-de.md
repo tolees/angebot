@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KSM - Wunder einer Winternacht - Die Weihnachtsgeschichte'
-date: 2021-12-26 14:09:59
+date: 2021-12-27 14:25:25
 image: 'https://m.media-amazon.com/images/I/517s2KcnH-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
