@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Phosphatfrei und pH-neutral.
-- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt.
-- Reinigt alle Lack-, Gummi-, Kunststoff-, Vinyl- und Glasflächen. Schont den Lack durch besonders sanfte Tenside.
 - Lieferumfang: 1x SONAX 03145410 AutoShampoo Konzentrat (2 Liter)
 - Durchdringt und löst den Schmutz gründlich, ohne die konservierende Wachs-Schutzschicht auf dem Lack anzugreifen.
+- Reinigt alle Lack-, Gummi-, Kunststoff-, Vinyl- und Glasflächen. Schont den Lack durch besonders sanfte Tenside.
+- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BJÖRKMAN HANNU- PEKKA - Wunder einer Winternacht - Die Weihnachtsgeschichte  Prädikat: Besonders Wertvoll  [Blu-ray]'
-date: 2021-12-27 14:30:17
+date: 2021-12-28 14:36:16
 image: 'https://m.media-amazon.com/images/I/61TCty7jQAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
