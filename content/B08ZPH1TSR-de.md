@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 12 x 0, 355 l Corona Extra Premium Lager flaschen-bier (Mehrweg) inklusive coolbox/ Kühltruhe aus Metall/ 0, 96 Pfand zuzüglich zum Kaufpreis/ Pfand wie üblich überall einlösbar
 - Hochwertige Corona Extra coolbox/ Kühltruhe aus Metall mit 12 Flaschen Corona Extra - erfrischend mildes internationales premium-lagerbier - perfekt als Geschenk
 - Corona hat dieses gewisse Etwas - kein anderes Bier bringt das Gefühl von Strand und mexikanischer Sonne in den Alltag
-- Lieferumfang: 12 x 0, 355 l Corona Extra Premium Lager flaschen-bier (Mehrweg) inklusive coolbox/ Kühltruhe aus Metall/ 0, 96 Pfand zuzüglich zum Kaufpreis/ Pfand wie üblich überall einlösbar
 - Corona sorgt für beach-feeling pur im Alltag. Am besten eiskalt mit einer Scheibe Limette genießen und die Sonne Mexikos nach Hause holen
 - Corona ist das erfolgreichste mexikanische Bier weltweit und ist bekannt durch seine hohe Qualität, typisch goldene Farbe und seinen einzigartigen Geschmack
 
