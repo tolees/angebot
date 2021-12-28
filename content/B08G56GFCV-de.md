@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält ein 3-In-1-Modell: Einen Autotransporter Spielzeug, einen Kranwagen und ein Boot mit Kran. Die Modelle haben die perfekte Größe, um sie zu Freunden mitzunehmen
 - Der Spielzeug-Kran kann um 360 Grad geschwenkt werden und Lasten heben und absetzen. An Bord des Mini-Boots befindet sich ebenfalls ein funktionierender Kran
+- Enthält ein 3-In-1-Modell: Einen Autotransporter Spielzeug, einen Kranwagen und ein Boot mit Kran. Die Modelle haben die perfekte Größe, um sie zu Freunden mitzunehmen
 - Entdecke auch die anderen LEGO-Creator-3-in-1-Sets: Cyber-Drohne 31111, Wilder Löwe 31112, Geländemotorrad 31114 und Surfer-Strandhaus 31118
 - Auf den Rennwagentransporter mit abkoppelbarem Anhänger passen 2 Spielzeugautos, die mit 2 Rampen auf- und abgeladen werden können. Dank eines Klappständers kann der Anhänger allein stehen
 - Renn-Action! Der perfekte Spielspaß für alle Adrenalin-Junkies, die stundenlange, fesselnde Action-Abenteuer in 3 coolen Fahrzeugen zu Land und Wasser lieben
