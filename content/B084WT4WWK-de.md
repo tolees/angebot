@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi WiFi Range Extender Pro WLAN Repeater  bis zu 300 Mbit/s  2 4GHz  2 Externe Antennen  bis zu 24 Geräte an einem Range Extender  IEEE 802.11 b/g/n  WPA-PSK/WPA2-PSK '
-date: 2021-12-27 14:33:55
+date: 2021-12-28 20:57:58
 image: 'https://m.media-amazon.com/images/I/31i9ntn9-4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.de/dp/B084WT4WWK/?tag=tolees0ca-21'
 descuento: '18.08'
-average: '12.9751886792453'
+average: '12.9719248826291'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Reichweite und High-Speed-WLAN mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
-- Maximale WLAN-Sicherheit mit WPA-PSK und WPA2-PSK. Betriebstemperatur: 0°C - 40°C
 - Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards IEEE 802.11 b/g/n) Situation auf Geschwindigkeit verzichten
+- Maximale WLAN-Sicherheit mit WPA-PSK und WPA2-PSK. Betriebstemperatur: 0°C - 40°C
 - 2 externe Antennen für bessere Ausrichtungsmöglichkeit und flexible Platzierung im Haus
+- Hohe Reichweite und High-Speed-WLAN mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
