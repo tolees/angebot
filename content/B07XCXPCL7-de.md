@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41904 DOTS Foto Würfel'
-date: 2021-12-24 10:16:48
+date: 2021-12-29 13:47:09
 image: 'https://m.media-amazon.com/images/I/51ur0iniatL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07XCXPCL7/?tag=tolees0ca-21'
 descuento: '40.03'
-average: '9.69526315789473'
+average: '9.65999999999999'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl der Teile: 423
-- Designspaß ohne Grenzen fördert die Kreativität.
-- Vom Hersteller nicht mehr verkauft
-- Foto Würfel
 - Vom Hersteller empfohlenes Alter: 6+
+- Vom Hersteller nicht mehr verkauft
 - Die Steinchen können für coole Designs benutzt und mit anderen DOTS Sets kombiniert werden!
+- Designspaß ohne Grenzen fördert die Kreativität.
+- Foto Würfel
+- Anzahl der Teile: 423
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufgesetzte Tommy Streifen am Taillen Bund
 - Taillen Bund mit sicher wiederholendem Tommy Hilfiger Logo
 - Dreierpack
+- Aufgesetzte Tommy Streifen am Taillen Bund
 - Stretch Baumwollmix
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

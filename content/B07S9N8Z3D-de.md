@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 9 x 125g Tüte Doritos Paprika / Doritos Paprika Nachos - die herzhaften Partychips
-- Bei der Ernte wird nur der beste Mais gewählt - ist der Mais zum Teig gemahlen, werden die einzigartigen Doritos-Dreiecke gebacken / Maximaler Crunch und aromatisch-intensiver Geschmack
-- Das Gold von Mexiko: Bei der Eroberung Mexikos im 15 Jh. war unklar welche Beute wertvoller war, das aztekische Gold oder die crunchigen Tortilla Chips - heute weiß man zumindest was besser schmeckt
 - Gemeinsam mit Freunden schöne Momente schaffen und dabei Maischips knabbern
+- Das Gold von Mexiko: Bei der Eroberung Mexikos im 15 Jh. war unklar welche Beute wertvoller war, das aztekische Gold oder die crunchigen Tortilla Chips - heute weiß man zumindest was besser schmeckt
+- Bei der Ernte wird nur der beste Mais gewählt - ist der Mais zum Teig gemahlen, werden die einzigartigen Doritos-Dreiecke gebacken / Maximaler Crunch und aromatisch-intensiver Geschmack
 - Der Gaumenschmaus auf jeder Party: Mit ihrem intensiven Geschmack, dem starken Crunch und der dreieckigen Form sind Doritos Paprika der perfekte Partysnack zum Spaß haben mit Freunden
+- Lieferumfang: 9 x 125g Tüte Doritos Paprika / Doritos Paprika Nachos - die herzhaften Partychips
 
 [🛒 Hier!!]({{< param buyurl >}})
