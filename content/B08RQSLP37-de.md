@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paramount Pictures  Universal Pictures  - NCIS - Season 17 [5 DVDs]'
-date: 2021-12-28 20:35:10
+date: 2021-12-29 21:00:26
 image: 'https://m.media-amazon.com/images/I/51DAl09niFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Paramount Pictures (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B08RQSLP37/?tag=tolees0ca-21'
 descuento: '16.70'
-average: '20.3964705882353'
+average: '20.1842857142857'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
