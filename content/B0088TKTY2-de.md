@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WN823N WLAN USB Stick  300Mbit/s 2 4 GHz  Mini Größe Adapter  WPS Taste für einfache Installation  kompatibel zu Windows 10/8.1/8/7/XP  Mac OS  Linux '
-date: 2021-12-28 08:32:40
+date: 2021-12-29 08:38:42
 image: 'https://m.media-amazon.com/images/I/41jxZkzNcnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B0088TKTY2/?tag=tolees0ca-21'
 descuento: '30.31'
-average: '8.61023809523811'
+average: '8.61248520710061'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfaches Einrichten einer Drahtlosverbindung durch Drücken der WPS-Taste
-- Lieferumfang: TL-WN823N WLAN USB Adapter, Software-CD inkl. Treibern, Schnellinstallationsanleitung
 - SoftAP-Modus - Machen Sie Ihren Computer zu einem WiFi-Hotspot
-- 300Mbps WLAN-Geschwindigkeit, ideal für die flüssige Wiedergabe von HD-Video, VoIP und Online-Gaming. Frequenz: 2,4GHz
+- Lieferumfang: TL-WN823N WLAN USB Adapter, Software-CD inkl. Treibern, Schnellinstallationsanleitung
+- Einfaches Einrichten einer Drahtlosverbindung durch Drücken der WPS-Taste
 - Kleiner Formfaktor für maximale Mobilität mit gewohnt verlässlicher Performance
+- 300Mbps WLAN-Geschwindigkeit, ideal für die flüssige Wiedergabe von HD-Video, VoIP und Online-Gaming. Frequenz: 2,4GHz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
