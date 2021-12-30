@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-1000XM3 kabellose Bluetooth Noise Cancelling Kopfhörer  30h Akku  Touch Sensor  Headphones Connect App  Schnellladefunktion  Amazon Alexa  wireless  Schwarz'
-date: 2021-12-29 21:06:38
+date: 2021-12-30 21:12:25
 image: 'https://m.media-amazon.com/images/I/31zwtZbSlXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07GDR2LYK/?tag=tolees0ca-21'
 descuento: '47.81'
-average: '228.54609649123'
+average: '228.41187772926'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Aktives Noise Cancelling: Optimierung der Geräuschminimierung an Bewegungsmuster sowie Anpassung an den Luftdruck
-- Optimierbare Klangeinstellungen mit der Headphones Connect App
-- Kompatibel mit Amazon Alexa. Perfekte Passform im Around-Ear Design. Mit Bluetooth 4.2 und One-Touch Verbindung via NFC für kabelloses Musikhören
-- Sony empfiehlt immer die aktuellste verfügbare Software auf Ihrem Gerät zu installieren. Update Benachrichtigungen für WH-1000XM3 und die Updates selbst, werden über die Sony Headphones Connect App bereitgestellt. Die App ist kostenlos im Google Play Store und im Apple Store verfügbar
 - Da Amazon Alexa Cloud-basiert ist, lernt sie kontinuierlich dazu. Bitten Sie Alexa, Musik abzuspielen, Nachrichten vorzulesen, das Wetter zu überprüfen, Ihr Smart Home zu steuern und vieles mehr. Effektiver Bereich: Sichtverbindung ca. 10 m.
-- Lange Akkulaufzeit: bis zu 30 Std. abhängig vom verwendeten Modus. Quick Charge: 10 Min. laden für 5 Std. Musik. Frequenzgang: 4 Hz - 40.000 Hz
 - Quick Attention Modus: blitzschnell die Umgebung durch intuitives Handauflegen wahrnehmen und Gestenkontrolle über Ohrmuschel zur Bedienung des Kopfhörers
+- Kompatibel mit Amazon Alexa. Perfekte Passform im Around-Ear Design. Mit Bluetooth 4.2 und One-Touch Verbindung via NFC für kabelloses Musikhören
+- Optimierbare Klangeinstellungen mit der Headphones Connect App
+- Lange Akkulaufzeit: bis zu 30 Std. abhängig vom verwendeten Modus. Quick Charge: 10 Min. laden für 5 Std. Musik. Frequenzgang: 4 Hz - 40.000 Hz
+- Sony empfiehlt immer die aktuellste verfügbare Software auf Ihrem Gerät zu installieren. Update Benachrichtigungen für WH-1000XM3 und die Updates selbst, werden über die Sony Headphones Connect App bereitgestellt. Die App ist kostenlos im Google Play Store und im Apple Store verfügbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
