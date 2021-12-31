@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media GmbH - Kampfstern Galactica - Die Spielfilm-Trilogie [3 DVDs]'
-date: 2021-12-30 15:07:43
+date: 2021-12-31 20:54:37
 image: 'https://m.media-amazon.com/images/I/51wTLM6VYcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Koch Media GmbH'
 buyurl: 'https://www.amazon.de/dp/B00CY6HKUQ/?tag=tolees0ca-21'
 descuento: '27.74'
-average: '13.6433333333333'
+average: '13.475'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
