@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stutzsystem im Knochelbereich
 - Wasserfeste Membran CLIMAPROTECT
-- Hinterer TPU-Einsatz in der Zwischensohle fur maximale Stabilitat
-- Breiter Streifen zum Schutz gegen Abrieb
-- Einlegesohle Ortholite mit Verstarkung aus EVA
-- PFC free
+- Stutzsystem im Knochelbereich
 - Echtes Leder
+- PFC free
+- Breiter Streifen zum Schutz gegen Abrieb
+- Hinterer TPU-Einsatz in der Zwischensohle fur maximale Stabilitat
+- Einlegesohle Ortholite mit Verstarkung aus EVA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

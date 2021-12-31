@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hergestellt in Spain
 - Principal Material: Nappa, Lining Material: Faux Shearling Sole Material: Natural Rubber InnerSole RemovableInsert: Yes
+- Hergestellt in Spain
 - Water Resistant
-- Panama Jack Women, Cuero / Bark Klassisch Boots
 - HeelHeight: 3, 00 cm
+- Panama Jack Women, Cuero / Bark Klassisch Boots
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

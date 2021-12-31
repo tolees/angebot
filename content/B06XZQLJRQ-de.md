@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ABMESSUNGEN: Außen: 46 x 29,7 x 25,7 cm (B x T x H) - Innen: 33,5 x 21,5 x 23,5 cm (B x T x H)
-- VERWENDUNG: Ideal für die Aufbewahrung von Heimwerkerzubehör und Werkzeug in der Garage oder im Keller
-- MATERIAL: Besonders robustes Kunststoff (Polypropylen)
 - PRODUKTBEINHALT: 3er-Set Aufbewahrungsboxen - Made in Holland
-- KAPAZITÄT : 21 L pro Box
 - DESIGN: Diese Kunststoffboxen sind stapelbar und können mit den 5 anderen Modellen der Serie verwendet werden. 2 Clips zur Sicherung des Verschlusses des Werkzeugkastens
+- ABMESSUNGEN: Außen: 46 x 29,7 x 25,7 cm (B x T x H) - Innen: 33,5 x 21,5 x 23,5 cm (B x T x H)
+- MATERIAL: Besonders robustes Kunststoff (Polypropylen)
+- KAPAZITÄT : 21 L pro Box
+- VERWENDUNG: Ideal für die Aufbewahrung von Heimwerkerzubehör und Werkzeug in der Garage oder im Keller
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

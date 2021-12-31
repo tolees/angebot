@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassische Regenmantel-Design
-- Eigenschaften: 60 g Isolierung PrimaLoft Black Eco, YKK-Reißverschluss vorne mit Sturmklappe für zusätzlichen Schutz, Eingrifftaschen mit Fleecefutter und YKK-Reißverschluss, verstellbare Kapuze, Handgelenkgamaschen für zusätzlichen Komfor
-- Gut für: Urban- und Stadtleben, Pendeln, Regenbekleidung, Regenschutz, Winter
-- Leichter Isolierung
-- Material: Polyester
 - Passform: Regular – weder schlank noch übergroß Regelmäßig anliegende Kleidungsstücke können über dickeren Zwischenschichten getragen werden. Die Hose hat eine Standard-Innennaht mit einem Schnitt, der direkt durch das Bein ist
+- Material: Polyester
+- Klassische Regenmantel-Design
+- Leichter Isolierung
+- Gut für: Urban- und Stadtleben, Pendeln, Regenbekleidung, Regenschutz, Winter
 - Handgelenkgamaschen für zusätzlichen Komfort
+- Eigenschaften: 60 g Isolierung PrimaLoft Black Eco, YKK-Reißverschluss vorne mit Sturmklappe für zusätzlichen Schutz, Eingrifftaschen mit Fleecefutter und YKK-Reißverschluss, verstellbare Kapuze, Handgelenkgamaschen für zusätzlichen Komfor
 
 [🛒 Hier!!]({{< param buyurl >}})

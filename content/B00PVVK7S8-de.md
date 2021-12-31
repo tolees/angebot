@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verstellbare Schulterriemen
 - Unterstützende Bügel
 - Doppelter Hakenverschluss am Rücken
-- Verstellbare Schulterriemen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
