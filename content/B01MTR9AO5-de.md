@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne Verschluss
+- Gummi
 - Gummi
 - Synthetik
-- Gummi
+- Ohne Verschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
