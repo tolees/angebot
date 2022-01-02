@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair CX450M PC-Netzteil  Teil-Modulares Kabelmanagement  80 Plus Bronze  450 Watt  EU '
-date: 2022-01-01 17:51:55
+date: 2022-01-02 18:10:17
 image: 'https://m.media-amazon.com/images/I/41UQY5TvwPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Halbmodulare Kabel: Durch die halbmodularen Kabel werden Systembauten und Upgrades zum Kinderspiel, deren Ergebnisse sich sehen lassen können
-- 80 PLUS-Bronze: Betrieb mit sehr hohem Wirkungsgrad, also weniger überschüssige Wärme und geringere Betriebskosten
 - Wärmegesteuerter Lüfter: Geräuschloser Betrieb bei niedrigen und mittleren Lasten
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Halbmodulare Kabel: Durch die halbmodularen Kabel werden Systembauten und Upgrades zum Kinderspiel, deren Ergebnisse sich sehen lassen können
 - Lieferumfang: Corsair CP-9020101-EU CXM Serie CX450M ATX/EPS Teil-Modular 80 Plus Bronze 450W, Netzteil
+- 80 PLUS-Bronze: Betrieb mit sehr hohem Wirkungsgrad, also weniger überschüssige Wärme und geringere Betriebskosten
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 
 [🛒 Hier!!]({{< param buyurl >}})
