@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 300 sort. Blatt
-- Sortiment, durchgefärbt, transparent - gute Qualität
 - Gewohnte Qualität von Creativ Company
-- Packung mit 30 Farben zu je 10 Blatt
 - Abmessungen der Liefereinheit (LxBxH): 51.00 x 36.00 x 2.50 cm
+- Sortiment, durchgefärbt, transparent - gute Qualität
+- Inhalt: 300 sort. Blatt
+- Packung mit 30 Farben zu je 10 Blatt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

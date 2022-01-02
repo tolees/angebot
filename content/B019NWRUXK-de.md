@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: Corsair CP-9020102-EU CXM Serie CX550M ATX/EPS Teil-Modular 80 Plus Bronze 550W, Netzteil
-- 80 PLUS-Bronze: Betrieb mit sehr hohem Wirkungsgrad, also weniger überschüssige Wärme und geringere Betriebskosten
-- Halbmodulare Kabel: Durch die halbmodularen Kabel werden Systembauten und Upgrades zum Kinderspiel, deren Ergebnisse sich sehen lassen können
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Halbmodulare Kabel: Durch die halbmodularen Kabel werden Systembauten und Upgrades zum Kinderspiel, deren Ergebnisse sich sehen lassen können
+- 80 PLUS-Bronze: Betrieb mit sehr hohem Wirkungsgrad, also weniger überschüssige Wärme und geringere Betriebskosten
 - Wärmegesteuerter Lüfter: Geräuschloser Betrieb bei niedrigen und mittleren Lasten
 
 [🛒 Hier!!]({{< param buyurl >}})

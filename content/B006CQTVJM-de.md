@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strichstärke: Medium
 - Gewicht: 20 g
 - aus hochwertigem Aluminium
 - Länge: geöffnet 12, 6 cm/geschlossen 9, 7 cm
 - Farbe: Schwarz
+- Strichstärke: Medium
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
