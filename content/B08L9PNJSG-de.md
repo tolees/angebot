@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS RP-AX56 AiMesh Repeater  WiFi-6 AX1800  1x Gigabit LAN  externe Antennen  App Steuerung   AX1800  bis zu 150m² '
-date: 2022-01-02 03:00:18
+date: 2022-01-02 03:00:40
 image: 'https://m.media-amazon.com/images/I/31T-FW4B7rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
