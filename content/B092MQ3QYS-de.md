@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leistungsstarker WLAN Außenstrahler 30 W eignet sich ideal zur automatischen Ausleuchtung von Eingangsbereichen, Einfahrten oder Carports sowie zur Abschreckung vor Einbruch und Diebstahl
-- Effizienter und langlebiger Fluter für außen mit superhellen Everlight SMD-LEDs lässt sich zudem über Sprache steuern, dank der Kompatibilität mit den Sprachassistenten Alexa und Google Assistant
-- Steuerung diverser Lichtfunktionen über App: Stufenlose Einstellung der Leuchtstärke und Lichttemperatur (von kaltweiß bis warmweiß), Timer und Countdown, Event Records, programmiertes Nachleuchten
 - Smarter LED Strahler für außen mit Bewegungsmelder (Reichweite bis 12m, Erfassungswinkel 120°) kann dank verbautem WIFI Modul (2,4 GHz) über die kostenfreie brennenstuhlConnect App gesteuert werden
 - Lieferumfang: 1x WLAN Wandstrahler mit Bewegungsmelder WFD 3050 P inklusive Montagematerial für eine einfache und schnelle Inbetriebnahme - in bester Qualität von brennenstuhl
+- Steuerung diverser Lichtfunktionen über App: Stufenlose Einstellung der Leuchtstärke und Lichttemperatur (von kaltweiß bis warmweiß), Timer und Countdown, Event Records, programmiertes Nachleuchten
+- Effizienter und langlebiger Fluter für außen mit superhellen Everlight SMD-LEDs lässt sich zudem über Sprache steuern, dank der Kompatibilität mit den Sprachassistenten Alexa und Google Assistant
 
 [🛒 Hier!!]({{< param buyurl >}})
