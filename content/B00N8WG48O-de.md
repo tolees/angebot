@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OSRAM LEDriving LG: Dimmbares Tagfahr- inklusive Positionslicht mit homogener Lichtverteilung, also keinen sichtbaren LED-Punkten.
-- Zertifiziert nach ECE-, SAE-, CCC-Zulassungen; auch für Hybrid-Fahrzeuge und Fahrzeuge mit Start-Stop-Automatik geeignet.
 - Ein komplettes Set enthält 2 Lampen, Halterungen, Kabel, intelligente Steuerbox und Montagezubehör und ist somit einfach selbst einzubauen.
-- Die Leuchte in Erstausrüster (OEM)-Technologie mit pixelfreie Brillianz und dynamischen Kurven ist für viele Fahrzeugmodelle geeignet.
+- Zertifiziert nach ECE-, SAE-, CCC-Zulassungen; auch für Hybrid-Fahrzeuge und Fahrzeuge mit Start-Stop-Automatik geeignet.
 - Automatischer Betrieb dank intelligenter Regelung und geringer Energieverbrauch bei gleichzeitig hoher Lebensdauer von bis zu 5.000 Std garantiert über 5 Jahre durch den Hersteller.
+- OSRAM LEDriving LG: Dimmbares Tagfahr- inklusive Positionslicht mit homogener Lichtverteilung, also keinen sichtbaren LED-Punkten.
+- Die Leuchte in Erstausrüster (OEM)-Technologie mit pixelfreie Brillianz und dynamischen Kurven ist für viele Fahrzeugmodelle geeignet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

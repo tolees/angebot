@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 200 wiederverwendbare Sticker in verschiedenen Formen und Farben
-- Besonders große Sticker, ideal für kleine Kinderhände
-- Kinder werden schon früh mit Formen und Farben vertraut gemacht
-- Empfohlen ab 12 Monaten
 - Speziell für kleine Hände
+- 200 wiederverwendbare Sticker in verschiedenen Formen und Farben
+- Empfohlen ab 12 Monaten
+- Kinder werden schon früh mit Formen und Farben vertraut gemacht
+- Besonders große Sticker, ideal für kleine Kinderhände
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
