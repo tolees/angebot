@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Constantin Film  Universal Pictures  - Wrong Turn 1-6 [Blu-ray]'
-date: 2022-01-02 21:11:20
+date: 2022-01-03 21:19:52
 image: 'https://m.media-amazon.com/images/I/51Jcn9m5ENL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

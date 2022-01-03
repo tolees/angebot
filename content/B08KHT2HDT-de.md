@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marshall 1005773 Major IV Bluetooth Faltbar Kopfhörer - Schwarz'
-date: 2022-01-02 20:54:03
+date: 2022-01-03 20:57:27
 image: 'https://m.media-amazon.com/images/I/41e+UJN2d3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Marshall'
 buyurl: 'https://www.amazon.de/dp/B08KHT2HDT/?tag=tolees0ca-21'
 descuento: '27.34'
-average: '107.162307692307'
+average: '107.196792452829'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
