@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Constantin Film  Universal Pictures  - Wrong Turn 1-6 [6 DVDs]'
-date: 2022-01-03 21:14:13
+date: 2022-01-04 21:16:48
 image: 'https://m.media-amazon.com/images/I/5197vIlIEkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
