@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Game of Thrones - Die komplette Serie [38 DVDs]'
-date: 2022-01-04 14:57:39
+date: 2022-01-05 15:59:14
 image: 'https://m.media-amazon.com/images/I/51D-JqcTS8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B084DGPQKD/?tag=tolees0ca-21'
 descuento: '26.19'
-average: '83.7976923076923'
+average: '83.4528571428571'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
