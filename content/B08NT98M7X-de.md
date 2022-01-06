@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Marine
-- Verpackungsabmessungen (L x B x H): 7.0 x 8.0 x 18.0 Zm
 - Herkunftsland:- Spanien
+- Farbe: Marine
 - Verpackungsgewicht: 450.0 Gramm
+- Verpackungsabmessungen (L x B x H): 7.0 x 8.0 x 18.0 Zm
 
 [🛒 Hier!!]({{< param buyurl >}})
