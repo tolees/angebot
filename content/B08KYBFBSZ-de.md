@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0), einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
+- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
 - Energieverbrauch 9 kWh/1000h bei 806 lm
 - Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 60-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
-- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
 - Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0), einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

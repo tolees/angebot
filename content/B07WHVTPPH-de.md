@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Zwei Wege Audio und PIR-Bewegungserkennung】 Eingebautes Babyphone und Lautsprecher für unkomplizierte und stabile Gespräche mit Ihrer Familie. Die Kamera ist mit einem PIR Sensor ausgestattet, der bei Bewegung von Mensch und Tier auslöst und automatisch eine Alarmmeldung via App auf Ihrem Smartphone anzeigt.
-- 【Schnelle und einfache Einrichtung】Scannen Sie den QR-Code im Handbuch, laden Sie die Cloudedge-APP herunter und folgen Sie den Anweisungen auf der APP. Nachdem Sie die Kamera mit Ihrem WLAN gekoppelt haben, können Sie Live-Videos in der APP anzeigen.
+- 【Batteriebetriebene und drahtlose Montage】HINWEIS: Das neu gestaltete A10 ist ein Upgrade der Originalversion A3 und wird auch mit der Cloudedge-App verwendet.Wifi Kamera mit integriertem 6400 mAh Akku, der bis zu 120 Tage nach dem vollständigen Aufladen funktioniert. Es wird mit einer super magnetischen Befestigungsschraube und einem doppelseitigen Klebeband geliefert. Sie können damit den für Sie besten Installationsort auswählen.
 - 【Garantieservice und Produktdetails】 Das Paket enthält Überwachungskamera, Gebrauchsanweisung, Ladekabel, Metallhalterung für den Außenbereich, Magnethalterung, doppelseitiges Klebeband und Expansionsschrauben. Wir bieten 1 Jahr Garantie und lebenslangen After-Sales-Service. Online-Benutzerhandbuch: https://bit.ly/2Z5duQe
 - 【Wasserdicht und Nachtsicht】 Die kabellose Überwachungskamera mit IP65 ist wasserdicht für den Innen- oder Außenbereich. Sie hat bis zu 10m Reichweite auch in der Nacht und ohne Licht.
-- 【Batteriebetriebene und drahtlose Montage】HINWEIS: Das neu gestaltete A10 ist ein Upgrade der Originalversion A3 und wird auch mit der Cloudedge-App verwendet.Wifi Kamera mit integriertem 6400 mAh Akku, der bis zu 120 Tage nach dem vollständigen Aufladen funktioniert. Es wird mit einer super magnetischen Befestigungsschraube und einem doppelseitigen Klebeband geliefert. Sie können damit den für Sie besten Installationsort auswählen.
+- 【Zwei Wege Audio und PIR-Bewegungserkennung】 Eingebautes Babyphone und Lautsprecher für unkomplizierte und stabile Gespräche mit Ihrer Familie. Die Kamera ist mit einem PIR Sensor ausgestattet, der bei Bewegung von Mensch und Tier auslöst und automatisch eine Alarmmeldung via App auf Ihrem Smartphone anzeigt.
+- 【Schnelle und einfache Einrichtung】Scannen Sie den QR-Code im Handbuch, laden Sie die Cloudedge-APP herunter und folgen Sie den Anweisungen auf der APP. Nachdem Sie die Kamera mit Ihrem WLAN gekoppelt haben, können Sie Live-Videos in der APP anzeigen.
 
 [🛒 Hier!!]({{< param buyurl >}})
