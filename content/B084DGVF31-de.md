@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Game of Thrones - Die komplette Serie [Blu-ray]'
-date: 2022-01-06 21:22:36
+date: 2022-01-07 22:09:27
 image: 'https://m.media-amazon.com/images/I/51U0Bo8OdlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Game of Thrones'
 buyurl: 'https://www.amazon.de/dp/B084DGVF31/?tag=tolees0ca-21'
 descuento: '28.47'
-average: '117.009571428574'
+average: '116.600563380284'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

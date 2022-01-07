@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS RP-AX56 AiMesh Repeater  WiFi-6 AX1800  1x Gigabit LAN  externe Antennen  App Steuerung   AX1800  bis zu 150m² '
-date: 2022-01-06 21:42:09
+date: 2022-01-07 22:14:37
 image: 'https://m.media-amazon.com/images/I/31T-FW4B7rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.de/dp/B08L9PNJSG/?tag=tolees0ca-21'
 descuento: '27.24'
-average: '83.4471428571429'
+average: '83.46'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,6 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- connectivity_technology; bluetooth
+- Optimale Asus AiMesh Funktion zur Erweiterung der Wlan Reichweite mit intelligenten Mesh Features wie einheitlicher Wlan-Zugang und unterbrechungsfreier Client Übergabe, auch über WiFi-6
+- Ax1800 Wlan Gesamt-Geschwindigkeit (Simultane Dual-Band Wlan Bandbreite mit bis 1201 Mbits über 5 Ghz und 574 Mbits über 2.4 Ghz)
+- Wlan Repeater mit neuster WiFi-6 Technik zur Lösung von Empfangsproblemen im Heim-Netzwerk
+- Asus Rp-Ax56 AiMesh Repeater (WiFi-6 Ax1800, 1x Gigabit Lan, externe Antennen, App Steuerung)
+- Lieferumfang: Asus Wlan Repeater, Schnellstartanleitung
+- Einfach das vorhandene Wlan Netz erweitern mit dem unkompliziertem Setup per Asus App
 
 [🛒 Hier!!]({{< param buyurl >}})

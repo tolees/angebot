@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marshall 1005773 Major IV Bluetooth Faltbar Kopfhörer - Schwarz'
-date: 2022-01-06 21:28:47
+date: 2022-01-07 22:11:47
 image: 'https://m.media-amazon.com/images/I/41e+UJN2d3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08KHT2HDT-de Marshall 1005773 Major IV Bluetooth Faltbar Kopfhörer -...'
 sku: 'B08KHT2HDT-de'
 tags: [ 'Bluetooth-Kopfhörer','Elektronik & Foto','Kopfhörer','Kopfhörer & Zubehör','marshall', ]
-actualPrice: 106.99 EUR
+actualPrice: 107.99 EUR
 currency: EUR
-price: 106.99
+price: 107.99
 comparePrice: 149.99 EUR
 prodname: 'Marshall 1005773 Major IV Bluetooth Faltbar Kopfhörer - Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Marshall'
 buyurl: 'https://www.amazon.de/dp/B08KHT2HDT/?tag=tolees0ca-21'
-descuento: '28.67'
-average: '107.239285714285'
+descuento: '28.00'
+average: '107.25245614035'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
