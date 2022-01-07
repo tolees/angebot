@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS RP-AX56 AiMesh Repeater  WiFi-6 AX1800  1x Gigabit LAN  externe Antennen  App Steuerung   AX1800  bis zu 150m² '
-date: 2022-01-05 21:22:09
+date: 2022-01-06 21:42:09
 image: 'https://m.media-amazon.com/images/I/31T-FW4B7rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.de/dp/B08L9PNJSG/?tag=tolees0ca-21'
 descuento: '27.24'
-average: '83.4323076923077'
+average: '83.4471428571429'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
