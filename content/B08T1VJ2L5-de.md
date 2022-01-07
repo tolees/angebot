@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält: 1 Marshall-Figur, 1 Feuerwehrwagen
 - Mit authentischen Details, funktionierenden Rädern und einer beweglichen Leiter ist Marshall mit seinem Feuerwehrauto bereit für spannende Abenteuer
-- Chase, Marshall, Skye, Rubble, Rocky, Zuma sowie Everest, Ryder und Tracker sind als Spielfiguren mit ihren Fahrzeugen einzeln erhältlich
+- Enthält: 1 Marshall-Figur, 1 Feuerwehrwagen
 - Marshalls Basis Fahrzeug mit individuellen beweglichen Action-Funktionen und einer Figur an Bord lässt die Abenteuer aus der TV-Serie PAW Patrol auch im Kinderzimmer aufleben
+- Chase, Marshall, Skye, Rubble, Rocky, Zuma sowie Everest, Ryder und Tracker sind als Spielfiguren mit ihren Fahrzeugen einzeln erhältlich
 - Alle Basic Vehicles/Basis Fahrzeuge beinhalten eine Hundefigur und sind mit dem Headquarter Playset, dem My Size Lookout Tower Spielset und dem Paw Patroller kompatibel - geeignet für Kinder ab 3 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})
