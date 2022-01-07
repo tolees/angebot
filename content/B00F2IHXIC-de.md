@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Gossip Girl - Die komplette Serie  exklusiv bei Amazon.de  [30 DVDs]'
-date: 2022-01-05 16:07:44
+date: 2022-01-07 03:15:17
 image: 'https://m.media-amazon.com/images/I/51n77UsxX7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
