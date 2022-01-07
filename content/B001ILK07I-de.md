@@ -30,7 +30,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Länge: 1 m
 - Überlegene Qualität
-- Farbe: weiß
 - Material: Kunststoff
+- Farbe: weiß
 
 [🛒 Hier!!]({{< param buyurl >}})
