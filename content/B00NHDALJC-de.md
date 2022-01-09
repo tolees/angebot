@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit zwei integrierten Fast-Ethernet-LAN Anschlüssen für Ihre internetfähigen Geräte (Smart-TV, Spielekonsole, PC, etc.)
+- Lieferumfang:- 1x dLAN 1200+ WiFi ac mit Steckdose, 2 X Gigabit LAN
 - WLAN aus jeder Steckdose mit ac-Geschwindigkeit von bis zu 1200 Mbit/s für Smartphone, Tablet, Laptop, etc.
 - Der Ergänzungsadapter erweitert Ihr vorhandenes Heimnetzwerk (kompatibel zu den dLAN 200/500/550/650/1200 Produktserien)
-- Lieferumfang:- 1x dLAN 1200+ WiFi ac mit Steckdose, 2 X Gigabit LAN
+- Mit zwei integrierten Fast-Ethernet-LAN Anschlüssen für Ihre internetfähigen Geräte (Smart-TV, Spielekonsole, PC, etc.)
 - Mit der integrierten Steckdose inklusive Kindersicherung geht kein Stromanschluss im Raum verloren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
