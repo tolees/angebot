@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media GmbH - Das 10te Königreich [Special Edition] [3 DVDs]'
-date: 2022-01-08 22:10:33
+date: 2022-01-09 22:19:14
 image: 'https://m.media-amazon.com/images/I/51rPkgMg+cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
