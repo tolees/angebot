@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Duschbad mit dermatologisch getesteter Hautverträglichkeit
 - Das 2-in-1 Duschgel ist leicht dosierbar und praktisch in der Anwendung
-- Duschdas 2-in-1 Duschgel & Shampoo Noire für Haut und Haar
-- Duschdas 2-in-1 Duschgel & Shampoo mit anregendem Zedernholzduft
-- Duschbad mit umweltfreundlicher Formel ohne Mikroplastik
 - pH-hautneutrales Duschgel
+- Duschbad mit umweltfreundlicher Formel ohne Mikroplastik
+- Duschdas 2-in-1 Duschgel & Shampoo mit anregendem Zedernholzduft
+- Duschdas 2-in-1 Duschgel & Shampoo Noire für Haut und Haar
 
 [🛒 Hier!!]({{< param buyurl >}})
