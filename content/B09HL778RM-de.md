@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Ice Road  Deutsch/OV '
-date: 2022-01-10 04:31:32
+date: 2022-01-11 04:53:07
 image: 'https://m.media-amazon.com/images/I/51sRij+U3qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B09HL778RM/?tag=tolees0ca-21'
 descuento: '16.68'
-average: '13.1622222222222'
+average: '13.095'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
