@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: Edelstahl
 - Sekundärmaterial: Glas
 - Farbe: Roségoldfarben
+- Material: Edelstahl
 - Finish: Poliert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

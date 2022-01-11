@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 40-mm-Gehäuse, Mineralglas, 3-Zeiger-Quarzwerk, analoge Anzeige, 20-mm-Bandbreite.
-- Rundes Edelstahlgehäuse mit schwarzem Zifferblatt.
 - Wasserdicht (IP67), vor Staub und Spritzwasser geschützt
+- Rundes Edelstahlgehäuse mit schwarzem Zifferblatt.
 - Schwarz, Lederband.
 
 [🛒 Hier!!]({{< param buyurl >}})

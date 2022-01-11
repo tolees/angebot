@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: Leder
-- Finish: Matt
-- Hauptfarbe: Gold
-- Verschluss: Klappverschluss
 - Verpackt in Emporio Armani Geschenkbox
+- Verschluss: Klappverschluss
+- Finish: Matt
+- Material: Leder
+- Hauptfarbe: Gold
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
