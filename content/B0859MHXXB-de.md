@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer C80 Dualband WLAN Router  600 Mbit/s 2 4GHz  1300Mbit/s 5GHz   4 Gigabit LAN Ports  Print/Media/FTP Server  App Steuerung  WPA3  IPv6  Gast-Netzwerk  schwarz'
-date: 2021-12-29 03:12:21
+date: 2022-01-11 23:20:54
 image: 'https://m.media-amazon.com/images/I/41FEtf9DOeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B0859MHXXB/?tag=tolees0ca-21'
 descuento: '34.43'
-average: '48.3775'
+average: '48.524'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MU-MIMO - Verbesserte Leistungsfähigkeit durch effiziente Kommunikation
-- Lieferumfang - AC1900-Dualband-WLAN-Router Archer C80, Spannungsadapter, Ethernetkabel, Schnellinstallationsanleitung
 - Personalisiertes Management – Fortgeschrittene Funktionen wie Jugendschutz, Zugriffskontrolle, Gastnetzwerk für personalisierte Verwaltung
 - Erweitere WLAN-Abdeckung – Maximale Reichweite und zielgerichteter WLAN-Empfang
 - 802.11ac Wave2 WLAN – 1300Mbit/s auf 5 GHz und 600Mbit/s auf 2,4GHz
+- Lieferumfang - AC1900-Dualband-WLAN-Router Archer C80, Spannungsadapter, Ethernetkabel, Schnellinstallationsanleitung
+- MU-MIMO - Verbesserte Leistungsfähigkeit durch effiziente Kommunikation
 - 3×3 MIMO Technologie – Datentransfer- und Empfang auf drei Streams für Verbindungen zwischen 3x3 Clients
 
 [🛒 Hier!!]({{< param buyurl >}})
