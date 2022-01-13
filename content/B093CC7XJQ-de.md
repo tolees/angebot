@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Duracell Plus Batterien sind Alkaline-Mehrzweckbatterien und eignen sich für elektronische Alltagsgeräte.
-- BIS ZU 100% ZUSÄTZLICHE LEBENSDAUER*
 - * bei Batterien der Größe AA im Vergleich zur durchschnittlichen Mindestlebensdauer im Digitalkamera-Test der IEC von 2015. Die Ergebnisse können je nach Gerät oder Nutzungsverhalten variieren (Website der IEC)).
 - SICHERHEIT: Die Superior Nylon Abdeckung verhindert das Auslaufen der Batterien.
 - HALTBARKEIT: Dank der Technologie von Duracell bleibt die Energie Ihrer unbenutzten Batterien in der Verpackung bis zu 10 Jahre lang erhalten (Lagerung bei Raumtemperatur).
+- BIS ZU 100% ZUSÄTZLICHE LEBENSDAUER*
 
 [🛒 Hier!!]({{< param buyurl >}})
