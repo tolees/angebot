@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jede große Kerze befindet sich in einem klassischen Glas mit Deckel, der dafür sorgt, dass der Duft erhalten bleibt
-- 100% bleifreier Baumwolldocht; gerade gezogen und zentriert für ein gleichmäßiges Abbrennen
-- Ausgewählte Zutaten und Premiumwachs sorgen für ein angenehmes, dauerhaftes Dufterlebnis in jedem Raum
 - Dieser wunderbar leichte Duft von Zuckerwatte, himmlisch zarten Blüten und göttlicher Vanille beflügelt die Sinne
+- 100% bleifreier Baumwolldocht; gerade gezogen und zentriert für ein gleichmäßiges Abbrennen
 - Brenndauer der Duftkerze: 110 bis 150 Stunden; Gewicht: 623 g
+- Ausgewählte Zutaten und Premiumwachs sorgen für ein angenehmes, dauerhaftes Dufterlebnis in jedem Raum
+- Jede große Kerze befindet sich in einem klassischen Glas mit Deckel, der dafür sorgt, dass der Duft erhalten bleibt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
