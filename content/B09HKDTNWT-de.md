@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Ice Road  Deutsch/OV   Blu-Ray '
-date: 2022-01-13 05:40:14
+date: 2022-01-14 11:47:36
 image: 'https://m.media-amazon.com/images/I/51UYoBn7RUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B09HKDTNWT/?tag=tolees0ca-21'
 descuento: '17.66'
-average: '14.8233333333333'
+average: '14.7592307692307'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
