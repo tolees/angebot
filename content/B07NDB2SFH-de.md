@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dieses Yoda-Modell ist das ideale Geschenk von LEGO Star Wars für Jungen und Mädchen ab 12 Jahren. Damit bildet sie das beeindruckende Herzstück einer jeden Star-Wars-Sammlung
-- Es verfügt über einen beweglichen Kopf, bewegliche Augenbrauen, Finger und Zehen sowie über ein großes grünes Lichtschwert, das einen jeden Star-Wars-Fan in Staunen versetzt
-- Die 1.771-teilige Sammelfigur basiert auf der Version des Jedi-Meisters aus dem Film Star Wars: Angriff der Klonkrieger; Mit Lichtschwert ist sie 41 cm hoch.
 - Yoda-Figur von LEGO Star Wars zum Ausstellen – eine detaillierte, baubare Version des unverwechselbaren Jedi-Meisters, der sich bei Kindern und Fans großer Beliebtheit erfreut
+- Es verfügt über einen beweglichen Kopf, bewegliche Augenbrauen, Finger und Zehen sowie über ein großes grünes Lichtschwert, das einen jeden Star-Wars-Fan in Staunen versetzt
 - Ergänzt wird dieser Fanliebling durch ein Infoschild und einen Präsentationsständer für die enthaltene Yoda-Minifigur
+- Die 1.771-teilige Sammelfigur basiert auf der Version des Jedi-Meisters aus dem Film Star Wars: Angriff der Klonkrieger; Mit Lichtschwert ist sie 41 cm hoch.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
