@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer C80 Dualband WLAN Router  600 Mbit/s 2 4GHz  1300Mbit/s 5GHz   4 Gigabit LAN Ports  Print/Media/FTP Server  App Steuerung  WPA3  IPv6  Gast-Netzwerk  schwarz'
-date: 2022-01-12 23:29:43
+date: 2022-01-14 05:28:54
 image: 'https://m.media-amazon.com/images/I/41FEtf9DOeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B0859MHXXB/?tag=tolees0ca-21'
 descuento: '34.43'
-average: '48.6216666666667'
+average: '48.6914285714286'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
