@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die PC Maus verfügt über ein ergonomisches Design, einem optischen 1.300 DPI Sensor und ist für Linkshänder sowohl Rechtshänder geeignet
-- Multi-Mode: Die Tastatur und Maus kann per Bluetooth 3.0, 4.0 (Smart / BLE) + 2.4 GHz Wireless Verbindung via USB verbunden werden
 - Ultraflaches 4,9 mm-Design macht diese PC Tastatur zu einem Hingucker, während das Gehäuse aus eloxiertem Aluminium Stabilität und Haltbarkeit bietet
-- Das Tastatur und Maus Set verbindet sich mit mehreren Geräten, Umschaltung per Knopfdruck zwischen den Geräten. Die Koppelung erfolgt automatisch
 - Deutsches Tastaturlayout QWERTZ
+- Multi-Mode: Die Tastatur und Maus kann per Bluetooth 3.0, 4.0 (Smart / BLE) + 2.4 GHz Wireless Verbindung via USB verbunden werden
+- Das Tastatur und Maus Set verbindet sich mit mehreren Geräten, Umschaltung per Knopfdruck zwischen den Geräten. Die Koppelung erfolgt automatisch
+- Die PC Maus verfügt über ein ergonomisches Design, einem optischen 1.300 DPI Sensor und ist für Linkshänder sowohl Rechtshänder geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
