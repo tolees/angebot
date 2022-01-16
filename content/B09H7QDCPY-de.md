@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devolo 8870 WLAN Repeater  WiFi 5 Repeater 1200 bis zu 1.2 Mbit/s; Mesh WLAN Verstärker  Access Point  WLAN Steckdose  WiFi Repeater 1x LAN Anschluss  weiß'
-date: 2022-01-14 17:32:38
+date: 2022-01-16 05:36:06
 image: 'https://m.media-amazon.com/images/I/31TWUMEd3dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09H7QDCPY-de Devolo 8870 WLAN Repeater WiFi 5 Repeater 1200 bis zu 1.2...'
 sku: 'B09H7QDCPY-de'
 tags: [ 'Computer & Zubehör','Netzwerkgeräte','Repeater','devolo', ]
-actualPrice: 40.95 EUR
+actualPrice: 41.11 EUR
 currency: EUR
-price: 40.95
+price: 41.11
 comparePrice: 59.9 EUR
 prodname: 'Devolo 8870 WLAN Repeater  WiFi 5 Repeater 1200 bis zu 1.2 Mbit/s; Mesh WLAN Verstärker  Access Point  WLAN Steckdose  WiFi Repeater 1x LAN Anschluss  weiß'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.de/dp/B09H7QDCPY/?tag=tolees0ca-21'
-descuento: '31.64'
-average: '40.95'
+descuento: '31.37'
+average: '41.03'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
