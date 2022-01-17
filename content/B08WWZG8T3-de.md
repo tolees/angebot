@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42131 Technic Appgesteuerter Cat D11 Bulldozer  Set für Erwachsene  ferngesteuertes Baufahrzeug'
-date: 2022-01-04 18:34:26
+date: 2022-01-17 10:35:43
 image: 'https://m.media-amazon.com/images/I/516kZvG+KTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WWZG8T3/?tag=tolees0ca-21'
 descuento: '25.33'
-average: '352.143636363636'
+average: '350.7975'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verwende die CONTROL+ App, um das Modell zu bedienen: Fahren, lenken, die Schaufel heben, senken und kippen oder den Heckaufreißer und die Leiter heben und senken
-- Das neue Schiebeelement (seit Oktober 2021) kann festgezogen und gelöst werden und sorgt für realistische Bewegungen des Bulldozers
 - Beim Zusammenbauen können sich Familie und Freunde, sowohl Frauen als auch Männer vom stressigen Alltag erholen - also ein ideales Weihnachtsgeschenk
-- Dieses LEGO-Cat-Modell ist dem Original detailgetreu nachempfunden mit authentischen Farben und Grafiken, die Cat-Liebhaber begeistern werden
+- Das neue Schiebeelement (seit Oktober 2021) kann festgezogen und gelöst werden und sorgt für realistische Bewegungen des Bulldozers
 - Enthält 2 Nr.-15-Motoren, 2 große Motoren, 1 Nabe und benötigt 6 AA-Batterien (nicht enthalten) zum Betrieb des ferngesteuerten Baufahrzeugs
+- Dieses LEGO-Cat-Modell ist dem Original detailgetreu nachempfunden mit authentischen Farben und Grafiken, die Cat-Liebhaber begeistern werden
 - Enthält ein per App ferngesteuertes Baufahrzeug – eine Nachbildung des größten Cat-Bulldozers
 
 [🛒 Hier!!]({{< param buyurl >}})

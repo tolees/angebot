@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Video - Fast & Furious 9 - Die Fast & Furious Saga  4K Ultra HD   + Blu-ray 2D '
-date: 2022-01-16 11:33:35
+date: 2022-01-17 12:08:50
 image: 'https://m.media-amazon.com/images/I/51QXgQKR-kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Video'
 buyurl: 'https://www.amazon.de/dp/B099C3GH7J/?tag=tolees0ca-21'
 descuento: '17.51'
-average: '27.6273333333333'
+average: '27.5286956521739'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
