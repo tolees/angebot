@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Handschellen, ein Motorradhelm, ein Schutzhelm und 2 Dynamitstangen sind als LEGO Zubehör enthalten
 - Das LEGO City Actionspielset „Polizei Gefangenentransporter“ (60276) ist ein eindrucksvolles Weihnachts-, Geburtstags- oder Überraschungsgeschenk für Jungen und Mädchen ab 5 Jahren
+- Handschellen, ein Motorradhelm, ein Schutzhelm und 2 Dynamitstangen sind als LEGO Zubehör enthalten
 - Bereits seit 1958 werden alle LEGO Steine und Teile nach den strengen Qualitätsstandards der Branche produziert, damit sie einheitlich und kompatibel sind – und größten Bauspaß bieten
-- Der fertige Gefangenentransporter ist 8 cm hoch, 13 cm lang und 6 cm breit
-- Neben einer gedruckten Bauanleitung gibt es in der kostenlosen LEGO Building Instructions App auch Instructions PLUS mit Dreh- und Vergrößerungsfunktonen, die den Bauprozess zum Leben erwecken
-- LEGO City Bauspielzeuge werden gründlich getestet, damit jedes Spielset strenge Sicherheitsstandards erfüllt
-- LEGO City Polizei-Spielsets enthalten detailreiche Gebäude, realistische Fahrzeuge und witzige Charaktere, die Kinder kreativ beschäftigen, das Selbstvertrauen stärken und die Fingerfertigkeit verbessern
-- Inhalt des Sets: Alle Elemente zum Bauen eines Gefangenentransporters, eines Abschleppwagens und eines Polizeimotorrads, sowie 4 Minifiguren, unter anderem die LEGO City TV-Charaktere Duke DeTain, Snake Rattler und Clara The Criminal
-- Dieses Spielset enthält mehrere Modelle, etwa den berühmten Gefangenentransporter, und witzige Charaktere aus der TV-Serie „LEGO City – Abenteuer“, damit Kinder ab 5 Jahren eigene LEGO City Actionszenen darstellen können
 - Kinder können die Gefängniszelle vom Transporter absprengen und an den Haken des aufgemotzten Abschleppwagens der Ganoven nehmen, um sich ihnen dann mit dem coolen Polizeimotorrad an die Fersen zu heften
+- LEGO City Bauspielzeuge werden gründlich getestet, damit jedes Spielset strenge Sicherheitsstandards erfüllt
+- Inhalt des Sets: Alle Elemente zum Bauen eines Gefangenentransporters, eines Abschleppwagens und eines Polizeimotorrads, sowie 4 Minifiguren, unter anderem die LEGO City TV-Charaktere Duke DeTain, Snake Rattler und Clara The Criminal
+- Der fertige Gefangenentransporter ist 8 cm hoch, 13 cm lang und 6 cm breit
+- Dieses Spielset enthält mehrere Modelle, etwa den berühmten Gefangenentransporter, und witzige Charaktere aus der TV-Serie „LEGO City – Abenteuer“, damit Kinder ab 5 Jahren eigene LEGO City Actionszenen darstellen können
+- Neben einer gedruckten Bauanleitung gibt es in der kostenlosen LEGO Building Instructions App auch Instructions PLUS mit Dreh- und Vergrößerungsfunktonen, die den Bauprozess zum Leben erwecken
+- LEGO City Polizei-Spielsets enthalten detailreiche Gebäude, realistische Fahrzeuge und witzige Charaktere, die Kinder kreativ beschäftigen, das Selbstvertrauen stärken und die Fingerfertigkeit verbessern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
