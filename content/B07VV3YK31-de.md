@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: FRITZ!Repeater 600, Schuko-Adapter, Installationsanleitung
+- Mehr WLAN-Reichweite für alle verbundenen Geräte, hohe Reichweite mit WLAN N (600 MBit/s / 2,4 GHz)
 - Unterstützt das Internetprotokoll IPv6
 - Einfache WLAN-Einrichtung per Knopfdruck über WPS (Wi-Fi Protected Setup), werkseitig sichere WLAN-Verschlüsselung
-- Mehr WLAN-Reichweite für alle verbundenen Geräte, hohe Reichweite mit WLAN N (600 MBit/s / 2,4 GHz)
+- Lieferumfang: FRITZ!Repeater 600, Schuko-Adapter, Installationsanleitung
 - WLAN Mesh: automatische Zusammenlegung der eingesetzten FRITZ!-Produkte zu einem intelligenten WLAN-Netz mit optimaler Leistung, kompatibel zu allen gängigen WLAN-Routern
 - Unauffällig an jeder beliebigen Steckdose, besonders kompakt und stromsparend
 

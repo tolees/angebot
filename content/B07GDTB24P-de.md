@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deutsche Telekom - Telekom Speed Home WiFi für Ihr starkes & stabiles Heimnetzwerk I WLAN Verstärker mit Mesh Technologie für optimale Internet-Abdeckung  1.733 Mbit/s I Plug & Play per WPS  2 LAN-Anschlüsse'
-date: 2022-01-16 23:53:26
+date: 2022-01-18 00:05:44
 image: 'https://m.media-amazon.com/images/I/31U1Ovz3GhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Deutsche Telekom'
 buyurl: 'https://www.amazon.de/dp/B07GDTB24P/?tag=tolees0ca-21'
 descuento: '22.62'
-average: '66.3660429447855'
+average: '66.3523853211012'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
