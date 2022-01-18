@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibel und steuerbar mit Alexa, Google und Apple HomeKit
+- Mit der Bluetooth-Option können Sie bis zu 10 Philips Hue Lichtpunkte innerhalb eines Raumes steuern
 - Durch die Hue Bridge hast du zusätzlich noch über: Verbinden Sie bis zu 50 Hue-Lichtpunkte, intelligente Steuerung auch unterwegs, schlafen und aufwachen Sie auf natürliche Weise
+- Kompatibel und steuerbar mit Alexa, Google und Apple HomeKit
+- Um die vollen Funktionen des Hue Smart Beleuchtungssystems zu erreichen, benötigen Sie stattdessen eine Hue Bridge (separat erhältlich)
 - Wechseln Sie zwischen kaltem und warmem Licht, schaffen Sie für jeden Moment die richtige Atmosphäre
 - Wählen Sie die Beleuchtungsrezepte je nach Tageszeit oder Aktivität. Wählen Sie zwischen Energie, Konzentration, Entspannung und Lesen; erhalten Sie jederzeit den optimalen Lichteffekt
-- Mit der Bluetooth-Option können Sie bis zu 10 Philips Hue Lichtpunkte innerhalb eines Raumes steuern
-- Um die vollen Funktionen des Hue Smart Beleuchtungssystems zu erreichen, benötigen Sie stattdessen eine Hue Bridge (separat erhältlich)
 
 [🛒 Hier!!]({{< param buyurl >}})

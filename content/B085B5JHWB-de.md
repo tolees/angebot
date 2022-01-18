@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UNO Showdown erleben – das allseits beliebte UNO mit zusätzlichen Überraschungsangriffen aus dem Showdown Gerät
-- Wie beim klassischen UNO geht es darum, so schnell wie möglich alle Karten so abzulegen, dass sie zu der Karte passen, die gerade oben auf dem Ablagestapel liegt
-- Sobald die Spieler nur noch eine Karte auf der Hand halten, müssen sie laut „UNO!“ rufen
 - Ein Spielenachmittag mit der Familie voller Überraschungen – für 2 bis 10 Spieler ab 7 Jahren
+- Sobald die Spieler nur noch eine Karte auf der Hand halten, müssen sie laut „UNO!“ rufen
+- Wie beim klassischen UNO geht es darum, so schnell wie möglich alle Karten so abzulegen, dass sie zu der Karte passen, die gerade oben auf dem Ablagestapel liegt
 - Achtung, fertig, los – wenn das Signal des UNO Showdown Geräts auslöst, heißt es schnell reagieren und die Taste drücken, um die Gegner mit Karten einzudecken! Ducken
+- UNO Showdown erleben – das allseits beliebte UNO mit zusätzlichen Überraschungsangriffen aus dem Showdown Gerät
 
 [🛒 Hier!!]({{< param buyurl >}})
