@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinder können das Studio im Obergeschoss entfernen, um einfachen Zugang zum darunter liegenden Modegeschäft zu erhalten
-- Kleine Mode-Fans können bauen und sich vorstellen, dass sie ein Designer sind, der Outfits herstellt und sie in einem Modegeschäft verkauft
 - Dieses Set ist ein 2-stöckiges Puppenhaus mit trennbarem Modegeschäft und ein Studio mit Nähbereich, dazu kommt Kleidung – für jeweils 2 Spieler!
+- Kleine Mode-Fans können bauen und sich vorstellen, dass sie ein Designer sind, der Outfits herstellt und sie in einem Modegeschäft verkauft
 - Schauen Sie sich andere LEGO Sets an: Wasserpark 41430, Olivias Blumengarten 41425, Waffelhaus 41426 und Strandhaus 41428
+- Kinder können das Studio im Obergeschoss entfernen, um einfachen Zugang zum darunter liegenden Modegeschäft zu erhalten
 - Dieses Spielzeug ab 6 Jahren enthält 2 Mini Puppen Emma und Andrea, einen stylischen Scooter, eine Kasse, eine Nähmaschine, eine Schere, eine Banknote und Kleider
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
