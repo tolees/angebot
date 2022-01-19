@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 17101 Boost Programmierbares RoboticsetApp-gesteuertes Modell mit Roboter-Spielzeug und Bluetooth Hub'
-date: 2022-01-18 11:53:49
+date: 2022-01-19 12:13:18
 image: 'https://m.media-amazon.com/images/I/51k07-cvIkS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B06X6GN2VQ/?tag=tolees0ca-21'
 descuento: '18.24'
-average: '125.602362068964'
+average: '125.625404475042'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Um die Grundlagen der Robotik zu lernen, können Kinder 5-in-1-Multifunktionsroboter bauen und sie mit unseren bedienerfreundlichen Programmierblöcken auf einem Tablet steuern
+- Sie können zwischen einem fahrenden/sprechenden Roboter, einem vielseitigen Rover, einem Musikinstrument, einem interaktiven Robo-Haustier oder einer autom. Fertigungslinie wählen
 - Reales Programmieren umgesetzt in einer intuitiven, bedienerfreundlichen Drag-and-drop-Programmieroberfläche für alle ab 7 Jahren, zur Förderung der technischen Fähigkeiten - als spannendes Weihnachtsgeschenk für Jungen und Mädchen
 - Das LEGO Boost 17101 Programmierbares Roboticset enthält einen LEGO Move Hub mit Bluetooth-Konnektivität, Motor und Farb- und Abstandssensor, um die Modelle zum Leben zu erwecken
-- Sie können zwischen einem fahrenden/sprechenden Roboter, einem vielseitigen Rover, einem Musikinstrument, einem interaktiven Robo-Haustier oder einer autom. Fertigungslinie wählen
+- Um die Grundlagen der Robotik zu lernen, können Kinder 5-in-1-Multifunktionsroboter bauen und sie mit unseren bedienerfreundlichen Programmierblöcken auf einem Tablet steuern
 - Kinder können bauen und programmieren sowie über 60 spannende Aktivitäten absolvieren, die in der LEGO-BOOST-App für ausgewählte iOS-, Android- und Kindle-Geräte enthalten sind
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
