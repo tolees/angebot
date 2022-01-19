@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SCHNELLERE GESCHWINDIGKEIT UND MEHR LEISTUNG: Optimal für vorhandene sowie neue WiFi6 Geräte wie Playstation 5, iPhone 12 & 13, MacBook Air, MacBook Pro 13, Samsung S10 & S20
 - GIGABIT LAN-PORTS: Computer, Spielkonsolen, Streaming-Player und andere kabelgebundene Geräte in der Nähe an die 4x Gigabit Ethernet-Ports anschließen
-- ERWEITERTER CYBERSCHUTZ: NETGEAR Armor (powered by BitDefender) schützt unbegrenzt viele Geräte vor Antiviren, Anti-Malware, Fraud/Phishing / Ransomware im gesamten Netzwerk und unterwegs (99,99 USD/Jahr inkl. 30 Tage Testphase)
-- WiFi 6 STREAMS MIT GIGANTISCHER GESCHWINDIGKEIT: Gleichzeitig Filme unterbrechungsfrei streamen, Online-Games spielen, Videoanrufe tätigen und Dateien mit bis zu 6,6 GBit/s WLAN-Geschwindigkeit übertragen
-- EINFACHES EINRICHTEN UND VERWALTEN: Minutenschnelle Einrichtung mit der kostenfreien Nighthawk App – ganz einfach WLAN-Einstellungen auf Geräte- und Netzwerkebene verwalten, Internetgeschwindigkeit testen und Datennutzung überwachen
 - KOMPATIBEL MIT ALLEN INTERNETANBIETERN: Vorhandenen WLAN-Router ersetzen (separates Modem-/Router erforderlich), mit allen Internet-Providern bis 1 GBit/s kompatibel, einschließlich Kabel, Satellit, Glasfaser, DSL und anderen
+- SCHNELLERE GESCHWINDIGKEIT UND MEHR LEISTUNG: Optimal für vorhandene sowie neue WiFi6 Geräte wie Playstation 5, iPhone 12 & 13, MacBook Air, MacBook Pro 13, Samsung S10 & S20
+- EINFACHES EINRICHTEN UND VERWALTEN: Minutenschnelle Einrichtung mit der kostenfreien Nighthawk App – ganz einfach WLAN-Einstellungen auf Geräte- und Netzwerkebene verwalten, Internetgeschwindigkeit testen und Datennutzung überwachen
+- WiFi 6 STREAMS MIT GIGANTISCHER GESCHWINDIGKEIT: Gleichzeitig Filme unterbrechungsfrei streamen, Online-Games spielen, Videoanrufe tätigen und Dateien mit bis zu 6,6 GBit/s WLAN-Geschwindigkeit übertragen
+- ERWEITERTER CYBERSCHUTZ: NETGEAR Armor (powered by BitDefender) schützt unbegrenzt viele Geräte vor Antiviren, Anti-Malware, Fraud/Phishing / Ransomware im gesamten Netzwerk und unterwegs (99,99 USD/Jahr inkl. 30 Tage Testphase)
 - FORTSCHRITTLICHE TECHNOLOGIE: WLAN Router WiFi 6 mit schnellem 1,5 GHz Quad-Core Prozessor, OFDMA, MU-MIMO, dyn. QoS, 1024 QAM, Smart Connect, Beamforming, Amazon Alexa und Google Assistant Sprachsteuerung, unterstützt WPA2/WPA3, Gast-WLAN-Zugang, DoS, Firewall, VPN uvm.
 - USB 3.0 PORT: Geben Sie über den USB 3.0-Anschluss ein Speicherlaufwerk für ein angeschlossene Geräte frei und erstellen Sie einen persönlichen Cloud-Speicher, auf den Sie von überall aus zugreifen können
 
