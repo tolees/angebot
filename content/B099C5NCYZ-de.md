@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Video - Fast & Furious 9  Director s Cut + Kinofassung '
-date: 2022-01-18 12:15:03
+date: 2022-01-19 17:59:50
 image: 'https://m.media-amazon.com/images/I/51mLIbEQIBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Video'
 buyurl: 'https://www.amazon.de/dp/B099C5NCYZ/?tag=tolees0ca-21'
 descuento: '27.76'
-average: '12.5804255319149'
+average: '12.524375'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

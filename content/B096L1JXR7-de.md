@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Wifi - Mesh-WLAN Router  3er pack  WLAN  das einfach funktioniert  Bis zu 85m² pro Zugangspunkt'
-date: 2022-01-18 12:14:34
+date: 2022-01-19 18:09:12
 image: 'https://m.media-amazon.com/images/I/21IgSa85GmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Google'
 buyurl: 'https://www.amazon.de/dp/B096L1JXR7/?tag=tolees0ca-21'
 descuento: '25.05'
-average: '160.036785714285'
+average: '159.68724137931'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
