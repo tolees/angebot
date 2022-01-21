@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbtemperatur: 3.000 K (Warm White)
-- Der maximale Abstand zwischen jedem Lichtpunkt beträgt 50cm
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
-- Dimmbar
 - Steuerung über LEDVANCE SMART + App (ab Android 6.0)
+- Dimmbar
+- Der maximale Abstand zwischen jedem Lichtpunkt beträgt 50cm
 - Steuerung über Google Assistant oder Amazon Alexa möglich
+- Farbtemperatur: 3.000 K (Warm White)
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 - RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
+- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

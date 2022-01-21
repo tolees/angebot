@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wlan-repeater im Steckernetzteil-Design Weiß
 - D-Link DAP-1610, Network Transmitter & Receiver, 1167 Mbit/s, 10, 100 MBit/s, extern, 10/100base-t(x), IEEE 802. 11A, IEEE 802. 11Ac, IEEE 802. 11b, IEEE 802. 11G, IEEE 802. 11N, IEEE 802. 3ab
 - Das kleine aber leistungsstarke Gerät unterstützt die neueste Wireless ac-technik mit kombinierten Übertragungsgeschwindigkeiten von bis zu 1200 Mbit/S1 sowie dualband-verbindungen.
+- Wlan-repeater im Steckernetzteil-Design Weiß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
