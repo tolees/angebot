@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ab 12 Jahren empfohlen
-- Made in Austria
+- Der Spieleklassiker in einer neuen Ausgabe
 - Jetzt Spielbar in 2 Varianten Solo & Team
 - Für 3 bis zu 10 Spielern!
-- Der Spieleklassiker in einer neuen Ausgabe
+- Made in Austria
+- Ab 12 Jahren empfohlen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

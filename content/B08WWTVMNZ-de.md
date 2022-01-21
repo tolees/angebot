@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Benötigt 6 AA-Batterien (nicht enthalten),Die Batteriebox lässt sich leicht abnehmen, sodass die Batterien bei Bedarf leicht ausgetauscht werden können
-- Optimierte Versandverpackung Ihr LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
-- Der fern- und App-gesteuerte Truck wird angetrieben durch einen Bluethooth-kontrollierten Smart Hub, 3 große Motoren und einen mittelgroßen Motor
-- Das Lkw-Spielzeug hat einen detailreichen Motor mit drehendem Kühlerlüfter, Federung an allen 4 Rädern und detailliertem Getriebe
-- Das Set enthält Aufkleber mit Rennmotiven, 2 Feuerlöscher und Flaggen für einen Hindernisparcours, um die Fähigkeiten des Trucks auf unterschiedlichem Untergrund zu testen
 - Als Premiere bei LEGO Technic hat das Modell eine Differentialsperre, die über die kostenlose LEGO-App kontrolliert wird, um den Truck über unebenes Terrain zu manövrieren
+- Optimierte Versandverpackung Ihr LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
 - Der 4x4 Mercedes-Benz Zetros Offroad-Truck wird über die App bedient und ist vollgepackt mit authentischen Details
+- Das Set enthält Aufkleber mit Rennmotiven, 2 Feuerlöscher und Flaggen für einen Hindernisparcours, um die Fähigkeiten des Trucks auf unterschiedlichem Untergrund zu testen
+- Das Lkw-Spielzeug hat einen detailreichen Motor mit drehendem Kühlerlüfter, Federung an allen 4 Rädern und detailliertem Getriebe
+- Der fern- und App-gesteuerte Truck wird angetrieben durch einen Bluethooth-kontrollierten Smart Hub, 3 große Motoren und einen mittelgroßen Motor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

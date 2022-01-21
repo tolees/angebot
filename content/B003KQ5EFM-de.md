@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Bit-Schraubendreher mit Ratsche, 6 Schraubeinsätze aus Chrom-Vanadium (PZ 1, 2; PH 1, 2; Schlitz 4.5, 6 mm), Bitfach im Heft
-- Kurzes, ergonommisches Bi-Material-Heft für komfortables, kraftvolles Schrauben
-- Kleiner und handlicher Bit Schraubendreher mit Ratschen-Mechanismus: Die ideale Lösung bei engen Raumverhältnissen
-- 3-fach verstellbarer Ring (Schrauben, Lösen, Blockieren), jeweils mit einer Hand verstellbar
 - Magnetische Spitze für sicheren Halt von Bit und Schraube
+- Lieferumfang: 1x Bit-Schraubendreher mit Ratsche, 6 Schraubeinsätze aus Chrom-Vanadium (PZ 1, 2; PH 1, 2; Schlitz 4.5, 6 mm), Bitfach im Heft
+- Kleiner und handlicher Bit Schraubendreher mit Ratschen-Mechanismus: Die ideale Lösung bei engen Raumverhältnissen
+- Kurzes, ergonommisches Bi-Material-Heft für komfortables, kraftvolles Schrauben
+- 3-fach verstellbarer Ring (Schrauben, Lösen, Blockieren), jeweils mit einer Hand verstellbar
 
 [🛒 Hier!!]({{< param buyurl >}})

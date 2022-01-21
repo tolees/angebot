@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DAP-1610 AC1200 Wi-Fi Range Extender  bis zu 1200 Mbit/S  Ausrichtbare Externe Antennen  WPS-Taste '
-date: 2022-01-20 17:50:38
+date: 2022-01-21 18:08:02
 image: 'https://m.media-amazon.com/images/I/31VNFeVSi3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.de/dp/B078PKX4QK/?tag=tolees0ca-21'
 descuento: '19.56'
-average: '30.7116666666667'
+average: '30.7942857142857'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- D-Link DAP-1610, Network Transmitter & Receiver, 1167 Mbit/s, 10, 100 MBit/s, extern, 10/100base-t(x), IEEE 802. 11A, IEEE 802. 11Ac, IEEE 802. 11b, IEEE 802. 11G, IEEE 802. 11N, IEEE 802. 3ab
 - Wlan-repeater im Steckernetzteil-Design Weiß
+- D-Link DAP-1610, Network Transmitter & Receiver, 1167 Mbit/s, 10, 100 MBit/s, extern, 10/100base-t(x), IEEE 802. 11A, IEEE 802. 11Ac, IEEE 802. 11b, IEEE 802. 11G, IEEE 802. 11N, IEEE 802. 3ab
 - Das kleine aber leistungsstarke Gerät unterstützt die neueste Wireless ac-technik mit kombinierten Übertragungsgeschwindigkeiten von bis zu 1200 Mbit/S1 sowie dualband-verbindungen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
