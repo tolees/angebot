@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dnt WiFi-Wetterstation WeatherScreen PRO + Zusatz-Thermo-/Hygrosensor'
-date: 2022-01-22 05:39:15
+date: 2022-01-23 12:46:13
 image: 'https://m.media-amazon.com/images/I/31qsTpH7GaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kinderleichte Inbetriebnahme via DIP-Schalter an der Geräterückseite
 - Displayanzeige mit der aktuellen Außentemperatur, Luftfeuchte und Kanalnummer
 - Zusätzlicher Sensor zum kabellosen Übertragen von Temperatur- und Luftfeuchtedaten an Ihre dnt RoomLogg PRO (ASIN B07XRQ8YSS) sowie WeatherScreen PRO (ASIN B083WZWM5T)
-- Leistungsfähige WiFi-Wetterstation für die Messung von Innen-/Außen-Temperatur Innen-/Außen-Luftfeuchtigkeit Regenmenge Windrichtung/-stärke Luftdruck und Helligkeit
 - Raumklimaerfassung von bis zu 9 Räumen möglich (mit Zusatzsensoren ASIN B081236911)
-- Kinderleichte Inbetriebnahme via DIP-Schalter an der Geräterückseite
 - WiFi-Wetterstation mit brillantem 17 8-cm-TFT-Farbdisplay
+- Leistungsfähige WiFi-Wetterstation für die Messung von Innen-/Außen-Temperatur Innen-/Außen-Luftfeuchtigkeit Regenmenge Windrichtung/-stärke Luftdruck und Helligkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
