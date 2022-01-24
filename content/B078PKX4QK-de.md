@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DAP-1610 AC1200 Wi-Fi Range Extender  bis zu 1200 Mbit/S  Ausrichtbare Externe Antennen  WPS-Taste '
-date: 2022-01-21 18:08:02
+date: 2022-01-24 18:05:42
 image: 'https://m.media-amazon.com/images/I/31VNFeVSi3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.de/dp/B078PKX4QK/?tag=tolees0ca-21'
 descuento: '19.56'
-average: '30.7942857142857'
+average: '30.85625'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
