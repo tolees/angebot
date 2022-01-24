@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buhl Data Service - WISO Steuer-Start 2022  für Steuerjahr 2021|PC Aktivierungscode per Email '
-date: 2022-01-20 16:51:07
+date: 2022-01-24 15:20:27
 image: 'https://m.media-amazon.com/images/I/41kt8+1nwRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Buhl Data Service'
 buyurl: 'https://www.amazon.de/dp/B09J7Z8VCK/?tag=tolees0ca-21'
 descuento: '39.15'
-average: '14.1566666666667'
+average: '14.1328571428572'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WISO Steuer-Start 2022 für die Einkommensteuer-Erklärung 2021 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2021
-- Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2022
-- Unterstützt die vorausgefüllte Steuererklärung (VaSt) Automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
 - Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit Wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
+- WISO Steuer-Start 2022 für die Einkommensteuer-Erklärung 2021 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2021
+- Unterstützt die vorausgefüllte Steuererklärung (VaSt) Automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
+- Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2022
 - Systemvoraussetzungen: Windows 8.1/10/11, Internet-Zugang
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
