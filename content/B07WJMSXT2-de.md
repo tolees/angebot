@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit 16 verschiedene Klingeltöne
-- Stabiles Vollmetall Wetterschutzgehäuse und manuell schwenkbare Kamera in der Außenstelle mit 4 Klingelknöpfen
 - Zweiwege-Kommunikation mit dem Bild möglich
-- 4x 7 Farbbildschirm, Die Color-Nachtsichttechnologie sorgt für gute Bilder bei Dunkelheit
-- Wasserdichte Türklingel inkl. Regenhaube mit 16 verschiedene Klingeltöne
 - Anschlussmöglichkeit für elektrischen Türöffner (DL6000)
 - Geeignet für 4 Wohnungen mit gleicher Haustür
+- Stabiles Vollmetall Wetterschutzgehäuse und manuell schwenkbare Kamera in der Außenstelle mit 4 Klingelknöpfen
+- 4x 7 Farbbildschirm, Die Color-Nachtsichttechnologie sorgt für gute Bilder bei Dunkelheit
+- Mit 16 verschiedene Klingeltöne
+- Wasserdichte Türklingel inkl. Regenhaube mit 16 verschiedene Klingeltöne
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

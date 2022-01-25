@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Die Medici - Lorenzo der Prächtige - Staffel 3 [Blu-ray]'
-date: 2022-01-24 13:12:23
+date: 2022-01-25 18:44:59
 image: 'https://m.media-amazon.com/images/I/51HqRIKVYBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B083TPPQZX/?tag=tolees0ca-21'
 descuento: '25.11'
-average: '18.9866666666667'
+average: '18.4128571428572'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Götter der Olymps gewähren Ihnen mächtige Gaben. Nutzen Sie sie beim Lösen von Rätseln und bei der Erkundung der riesigen Spielwelt
 - Treffen Sie im Kampf auf mythische Gegner wie Zyklopen, Medusen, dem Minotaurus, sowie korrumpierten Helden wie Achilles in schnellen Boden- und Luftkämpfen entgegen
+- Die Götter der Olymps gewähren Ihnen mächtige Gaben. Nutzen Sie sie beim Lösen von Rätseln und bei der Erkundung der riesigen Spielwelt
 - Erschaffen Sie mit Fenyx Ihre eigene Legende. Fenyx kann auf mannigfaltige Weise angepasst werden. So lässt sich das Geschlecht wählen, das Aussehen, aber auch Waffen und Rüstungen anpassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

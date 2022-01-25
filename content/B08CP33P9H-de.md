@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Wählen Sie zwischen der weiblichen oder dem männlichen Protagonisten Dani Rojas erleben Sie eine Entwicklung vom normalen Bürger zum Guerilla-Kämpfer
 - Upgrade auf die PlayStation 5-Version: Käufer der physischen Version von Far Cry 6 für PlayStation 4 erhalten kostenlos Zugriff auf die digitale Playstation 5-Version des Spiels, sobald diese erscheint
 - Schließen Sie sich der Revolution Diktator Antón Castillo an, der von den Hollywoodstars Giancarlo Esposito (The Mandalorian, Breaking Bad) verkörpert wird
-- Wählen Sie zwischen der weiblichen oder dem männlichen Protagonisten Dani Rojas erleben Sie eine Entwicklung vom normalen Bürger zum Guerilla-Kämpfer
 - Die Ultimate Edition enthält den Season Pass sowie das Ultimate-Paket inkl. neuer Outfits, Waffen, optischen Verbesserungen und einem neuen tierischen Begleiter
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- The design of the Diesel boxes is always different and changes with each season
+- Stainless steel chain bracelet in polished finishing with chromed plate and DIESEL logo - Lobster clasp
 - DIESEL men bracelet - Length 18 cm + 1,5 cm extension
 - Delivered with care instruction booklet and DIESEL gift box
-- Stainless steel chain bracelet in polished finishing with chromed plate and DIESEL logo - Lobster clasp
-- The design of the Diesel boxes is always different and changes with each season
 
 [🛒 Hier!!]({{< param buyurl >}})

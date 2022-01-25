@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gleich dreifach überzeugen diese schwarzen Herrenshorts von Marc O´Polo mit einem cleanen Design und perfekter Passform. Elastischer Single Jersey sorgt dabei mit 93% Baumwolle für ein angenehm softes Tragegefühl. 7% Elastan und der Logo-Webgummibund bleiben den ganzen Tag in Bestform. Ein bequemes, maskulines Wäsche-Trio in erstklassiger Verarbeitung.
 - schwarze, körpernahe Herrenshorts von Marc O´Polo im Dreierpack softer Webgummibund mit rundumlaufendem Marc O´Polo-Schriftzug kleines Label-Logo am Bein optimale Passform durch stimmigen Elastan-Anteil verpackt in hochwertiger Schachtelverpackung in softer, elastischer Single-Jersey-Qualität
+- Gleich dreifach überzeugen diese schwarzen Herrenshorts von Marc O´Polo mit einem cleanen Design und perfekter Passform. Elastischer Single Jersey sorgt dabei mit 93% Baumwolle für ein angenehm softes Tragegefühl. 7% Elastan und der Logo-Webgummibund bleiben den ganzen Tag in Bestform. Ein bequemes, maskulines Wäsche-Trio in erstklassiger Verarbeitung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
