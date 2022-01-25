@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Begrenzung des Internet-Zugangs jedes Endgerätes über ein eigenes Jugendschutz-Profil
-- Wireless AX und Gigabit Ethernet für hochauflösende parallele Video-Streams
-- Automatische Zuweisung des optimalen Frequenzbandes für Dualband-fähige Endgeräte im "Smart Connect"-Modus
 - OFDMA und MU-MIMO Technik auf dem 5GHz-Band für bis zu 4 gleichzeitige Verbindungen
+- Automatische Zuweisung des optimalen Frequenzbandes für Dualband-fähige Endgeräte im "Smart Connect"-Modus
+- Wireless AX und Gigabit Ethernet für hochauflösende parallele Video-Streams
 - Einfache Absicherung Ihrer privaten Ressourcen durch Gast-WLAN
+- Begrenzung des Internet-Zugangs jedes Endgerätes über ein eigenes Jugendschutz-Profil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

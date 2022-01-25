@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexibel einsetzbar: Die kabellose Bluetooth-Tastatur ist sowohl mit Windows als auch Mac PCs kompatibel
-- Drehknopf für kontextspezifische Funktionen: Tippen Sie auf den Knopf, um Funktionen zu ändern und drehen daran, um Einstellungen der ausgewählten Funktion zu ändern
+- Intelligente Beleuchtung: Wird eingeschaltet, sobald Ihre Hände die kabellose Logitech Tastatur berühren und passt sich automatisch an wechselnde Lichtverhältnisse an
 - Steigerung von Produktivität und Effizienz: Rufen Sie per Drehknopf Folienvorlagen in PowerPoint schneller ab oder generieren in Excel Diagramme
 - Intuitive Gestaltung kreativer Prozesse: Ändern Sie mit dem Drehknopf in Photoshop die Helligkeit oder passen in Illustrator die Strichstärke an
-- Intelligente Beleuchtung: Wird eingeschaltet, sobald Ihre Hände die kabellose Logitech Tastatur berühren und passt sich automatisch an wechselnde Lichtverhältnisse an
+- Flexibel einsetzbar: Die kabellose Bluetooth-Tastatur ist sowohl mit Windows als auch Mac PCs kompatibel
+- Drehknopf für kontextspezifische Funktionen: Tippen Sie auf den Knopf, um Funktionen zu ändern und drehen daran, um Einstellungen der ausgewählten Funktion zu ändern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
