@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Übertragungstechnik: Kabellos
+- Plattform: Nintendo Switch
 - Gaming-Control Technologie: Analog / Digital
 - Produktfarbe: Neon-Rot/Neon-Blau
 - Gerätetyp: Gamepad
-- Plattform: Nintendo Switch
 - Geräteschnittstelle: Bluetooth
 
 [🛒 Hier!!]({{< param buyurl >}})
