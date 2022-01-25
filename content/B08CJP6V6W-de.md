@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Steuerung durch Berührung: Tippen, Wischen oder Drücken. Steuern Sie die Lärmreduzierung, Pause, Wiedergabe und Lautstärke direkt am Earbud. Hören Sie mit der Spotify-Wiedergabe per Berührung dort weiter, wo Sie aufgehört haben.
-- Naturgetreue Klangwiedergabe – Eine exklusive Klangarchitektur erweckt Ihre Musik, Podcasts und Videos zum Leben, während die speziell abgestimmte Active EQ-Technologie dafür sorgt, dass der Klang bei jeder Lautstärke klar und ausbalanciert ist.
-- Lange Akkulaufzeit – Einmal aufgeladen, können Sie mit den Earbuds bis zu 6 Stunden Musik hören. Das Transportetui mit Ladefunktion verlängert die Wiedergabezeit um 12 weitere Stunden und kann über das mitgelieferte USB-C-Kabel oder kabellos über eine beliebige Qi-zertifizierte Ladestation (nicht im Lieferumfang enthalten) aufgeladen werden.
-- Bluetooth-Earbuds mit Mikrofon – Bluetooth 5.1 bietet im Umkreis von 9 Metern um Ihr gekoppeltes Gerät eine stabile und zuverlässige Verbindung.
-- Schweiß- und wetterresistente Materialien – Die kabellosen Earbuds weisen die Schutzklasse IPX4 auf und halten Schweiß, Wasser und schlechtem Wetter stand.
 - Geräuschunterdrückende Mikrofone: Winzige Mikrofone heben Ihre Stimme hervor und filtern Umgebungsgeräusche heraus, sodass Sie bei Telefonaten deutlich zu verstehen sind.
-- Komfortable kabellose Earbuds – Im Lieferumfang sind StayHear Max Ohreinsätze in drei Größen enthalten. Mit ihrer Form aus weichem Silikon bieten sie eine passive Lärmabschirmung bei höchstem Tragekomfort.
-- Kompatibel mit iOS- und Android-Geräten – Einfache Einrichtung und angepasste Einstellungen stehen über die Bose Music App zur Verfügung.  
 -  Noise-Cancelling-Earbuds: Ausgestattet mit erstklassiger Lärmreduzierung plus Aware-Modus zur Wahrnehmung Ihrer Umgebung.
+- Komfortable kabellose Earbuds – Im Lieferumfang sind StayHear Max Ohreinsätze in drei Größen enthalten. Mit ihrer Form aus weichem Silikon bieten sie eine passive Lärmabschirmung bei höchstem Tragekomfort.
+- Schweiß- und wetterresistente Materialien – Die kabellosen Earbuds weisen die Schutzklasse IPX4 auf und halten Schweiß, Wasser und schlechtem Wetter stand.
+- Einfache Steuerung durch Berührung: Tippen, Wischen oder Drücken. Steuern Sie die Lärmreduzierung, Pause, Wiedergabe und Lautstärke direkt am Earbud. Hören Sie mit der Spotify-Wiedergabe per Berührung dort weiter, wo Sie aufgehört haben.
+- Bluetooth-Earbuds mit Mikrofon – Bluetooth 5.1 bietet im Umkreis von 9 Metern um Ihr gekoppeltes Gerät eine stabile und zuverlässige Verbindung.
+- Lange Akkulaufzeit – Einmal aufgeladen, können Sie mit den Earbuds bis zu 6 Stunden Musik hören. Das Transportetui mit Ladefunktion verlängert die Wiedergabezeit um 12 weitere Stunden und kann über das mitgelieferte USB-C-Kabel oder kabellos über eine beliebige Qi-zertifizierte Ladestation (nicht im Lieferumfang enthalten) aufgeladen werden.
+- Kompatibel mit iOS- und Android-Geräten – Einfache Einrichtung und angepasste Einstellungen stehen über die Bose Music App zur Verfügung.  
+- Naturgetreue Klangwiedergabe – Eine exklusive Klangarchitektur erweckt Ihre Musik, Podcasts und Videos zum Leben, während die speziell abgestimmte Active EQ-Technologie dafür sorgt, dass der Klang bei jeder Lautstärke klar und ausbalanciert ist.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
