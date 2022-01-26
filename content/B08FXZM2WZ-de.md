@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Exklusiv bei Amazon: Sichern Sie sich das Dschungel-Expedition-Paket und beginnen Sie Ihre Reise durch Yara mit Stil
-- Wählen Sie zwischen der weiblichen oder dem männlichen Protagonisten Dani Rojas erleben Sie eine Entwicklung vom normalen Bürger zum Guerilla-Kämpfer
 - Schließen Sie sich der Revolution Diktator Antón Castillo an, der von den Hollywoodstars Giancarlo Esposito (The Mandalorian, Breaking Bad) verkörpert wird
+- Wählen Sie zwischen der weiblichen oder dem männlichen Protagonisten Dani Rojas erleben Sie eine Entwicklung vom normalen Bürger zum Guerilla-Kämpfer
+- Exklusiv bei Amazon: Sichern Sie sich das Dschungel-Expedition-Paket und beginnen Sie Ihre Reise durch Yara mit Stil
 - Treffen Sie auf wie einem Ex-KGB-Spion bis hin zu einem Dackel-Begleiter, der ebenso süß wie tödlich ist
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

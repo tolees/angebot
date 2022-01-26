@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wähle deinen Helden und schließe dich deinen Freunden an, um zu viert legendäre Bestien zu erschlagen
-- Die Dungeons & Dragons Dark Alliance Day One Edition enthält zusätzlich zum Spiel den DLC "Beholder Weapon Set" (Krummsäbel, Bogen, Axt, Hammer)
 - 1-4 Spieler (nur online) kämpfen gegen die furchterregendsten Monster aus Icewind Dale
 - Dark Alliance erweckt die Welt von Dungeons&Dragons und bringt euch ein explosives Action-RPG mit Echtzeitkämpfen in einer dynamischen Koop-Erfahrung
+- Die Dungeons & Dragons Dark Alliance Day One Edition enthält zusätzlich zum Spiel den DLC "Beholder Weapon Set" (Krummsäbel, Bogen, Axt, Hammer)
+- Wähle deinen Helden und schließe dich deinen Freunden an, um zu viert legendäre Bestien zu erschlagen
 
 [🛒 Hier!!]({{< param buyurl >}})

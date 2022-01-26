@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Far Cry 6 nutzt die Smart-Delivery-Technologie! Kaufen Sie das Spiel einmal und spielen Sie es auf der Xbox One oder auf der Xbox Series X, sobald verfügbar
 - Wählen Sie zwischen der weiblichen oder dem männlichen Protagonisten Dani Rojas erleben Sie eine Entwicklung vom normalen Bürger zum Guerilla-Kämpfer
-- Exklusiv bei Amazon: Sichern Sie sich das Dschungel-Expedition-Paket und beginnen Sie Ihre Reise durch Yara mit Stil
 - Schließen Sie sich der Revolution Diktator Antón Castillo an, der von den Hollywoodstars Giancarlo Esposito (The Mandalorian, Breaking Bad) verkörpert wird
+- Far Cry 6 nutzt die Smart-Delivery-Technologie! Kaufen Sie das Spiel einmal und spielen Sie es auf der Xbox One oder auf der Xbox Series X, sobald verfügbar
+- Exklusiv bei Amazon: Sichern Sie sich das Dschungel-Expedition-Paket und beginnen Sie Ihre Reise durch Yara mit Stil
 
 [🛒 Hier!!]({{< param buyurl >}})
