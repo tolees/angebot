@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stanley Bit-Schraubendreher Stubby  mit Ratsche  kurze Ausführung  sechs Bits  PZ1/2;PH1/2;SL4/5/6  magnetische Spitze  0-66-358'
-date: 2022-01-21 16:28:38
+date: 2022-01-27 14:30:54
 image: 'https://m.media-amazon.com/images/I/41ohQ1ZTxOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Magnetische Spitze für sicheren Halt von Bit und Schraube
 - Lieferumfang: 1x Bit-Schraubendreher mit Ratsche, 6 Schraubeinsätze aus Chrom-Vanadium (PZ 1, 2; PH 1, 2; Schlitz 4.5, 6 mm), Bitfach im Heft
-- Kleiner und handlicher Bit Schraubendreher mit Ratschen-Mechanismus: Die ideale Lösung bei engen Raumverhältnissen
+- Magnetische Spitze für sicheren Halt von Bit und Schraube
 - Kurzes, ergonommisches Bi-Material-Heft für komfortables, kraftvolles Schrauben
+- Kleiner und handlicher Bit Schraubendreher mit Ratschen-Mechanismus: Die ideale Lösung bei engen Raumverhältnissen
 - 3-fach verstellbarer Ring (Schrauben, Lösen, Blockieren), jeweils mit einer Hand verstellbar
 
 [🛒 Hier!!]({{< param buyurl >}})
