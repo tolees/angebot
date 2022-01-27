@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- Dimmbar
-- Steuerung über Google Assistant oder Amazon Alexa möglich
-- Flexible, biegsame LED-Lichtstreifen
-- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
 - RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
+- Flexible, biegsame LED-Lichtstreifen
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
+- Dimmbar
+- Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
+- Steuerung über Google Assistant oder Amazon Alexa möglich
 
 [🛒 Hier!!]({{< param buyurl >}})
