@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Herren TH 1556/S Sonnenbrille  Blau  BLK Blue   56'
-date: 2022-01-26 00:58:53
+date: 2022-01-27 09:52:08
 image: 'https://m.media-amazon.com/images/I/31qFa8EH6ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nicht Polarisiert
 - 2 Jahre internationale Garantie
-- Black/Grey
 - Größe 56/18/140
+- Nicht Polarisiert
+- Black/Grey
 
 [🛒 Hier!!]({{< param buyurl >}})
