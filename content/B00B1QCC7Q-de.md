@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lacoste T-Shirt für Herren, CCA, Rundhalsausschnitt, Grau, TH2038 S/S
 - Normale Passform.
+- Lacoste T-Shirt für Herren, CCA, Rundhalsausschnitt, Grau, TH2038 S/S
 - Gerippter Kragen.
-- Gesticktes Krokodil auf der Brust.
 - 100 % Baumwolle; maschinenwaschbar.
+- Gesticktes Krokodil auf der Brust.
 
 [🛒 Hier!!]({{< param buyurl >}})

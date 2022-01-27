@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tiefe: 76 mm.
 - Breite: 260 mm.
 - Farbe: Schwarz.
 - Produktbeschreibung: Hifonics HFC1000.
 - Höhe: 76 mm.
-- Nennspannung: 12 V.
 - Maße (L x B x H): 76 x 76 x 260 mm.
+- Nennspannung: 12 V.
+- Tiefe: 76 mm.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

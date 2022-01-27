@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hygiene: Einfache Reinigung von Abfallbehälter und Deckel - keine austretenden Gerüche - dank hochwertigem Kunststoff entstehen keine Fingerabdrücke - BPA-freier Treteimer
-- Maße: 35,3 x 29,5 x 67,6 cm (LxBxH) - Fassungsvolumen des Müllbehälters: 40 Liter - Auch geeignet als einfacher Papierkorb. Innenmaß Länge: 212 mm, Innenmaß Breite: 559 mm, Innenmaß Höhe: 290 mm.
 - Komfort: Kunststoff Pedaleimer - hält Geruch bei sich - Abfalleimer mit Tritt-Funktion - geräuschloses Schließen des Deckels - stabiler Stand durch Gummifüße
+- Maße: 35,3 x 29,5 x 67,6 cm (LxBxH) - Fassungsvolumen des Müllbehälters: 40 Liter - Auch geeignet als einfacher Papierkorb. Innenmaß Länge: 212 mm, Innenmaß Breite: 559 mm, Innenmaß Höhe: 290 mm.
 - Lieferumfang: 1 x Abfalleimer "rot metallic" mit 40 l Inhalt
 - Optik: Mülleimer aus hochwertigem Kunststoff (PP) in Edelstahloptik - kein Verrosten - keine Beulen durch Gebrauch - separater Innenring verdeckt Müllbeutel nach außen
 

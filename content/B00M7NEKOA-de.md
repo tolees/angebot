@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 35mm-Gehäuse
-- Mineralglas
-- Edelstahlband
-- Quarzwerk mit analoger Multifunktionsanzeige
 - 16mm-Bandbreite
+- 35mm-Gehäuse
+- Edelstahlband
+- Mineralglas
+- Quarzwerk mit analoger Multifunktionsanzeige
 
 [🛒 Hier!!]({{< param buyurl >}})

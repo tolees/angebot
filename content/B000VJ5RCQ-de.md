@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 30 ml Eau de Toilette (EdT) Spray
-- Ein sehr angenehmer Duft, der auf einer sinnlichen und ausdrucksstarken Basisnote beruht
 - Duftnoten: Aromatisch, Frisch
+- Ein sehr angenehmer Duft, der auf einer sinnlichen und ausdrucksstarken Basisnote beruht
+- 30 ml Eau de Toilette (EdT) Spray
 
 [🛒 Hier!!]({{< param buyurl >}})

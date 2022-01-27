@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x 123g, 100 Tabletten Centrum Von A bis Zink / Multivitamine zur Nahrungsergänzung / Deckt den Tagesbedarf vieler Vitamine, Mineralstoffe & Spurenelemente / Für Erwachsene & Kinder
-- Die Centrum Formulierungen werden auf Grundlage wissenschaftlicher Forschungen entwickelt & von Nährstoffexperten formuliert / Sämtliche Mikronährstoffe sind auf Sicherheit geprüft & zertifiziert
 - Hochwertiger Allrounder für die Komplettversorgung mit Mikronährstoffen: Centrum ist der Partner für Immun-Schutz, Konzentration & allgemeines Wohlbefinden / 1 Tablette am Tag
-- Multivitamin-Paket als tägliches Ergänzungsmittel für eine gesunde Ernährung: Vitamin C, Selen & Zink unterstützen Immunsystem & Abwehrkräfte, Eisen unterstützt das Gehirn & Vitamin A die Augen
 - A-Z Multimineral-Booster: Vitamin E unterstützt den Zellschutz. Vitamin B12, Kupfer & Mangan den Energiestoffwechsel / Außerdem mit Vitamin B6, D, E, K, Biotin, Folsäure, Jod, Kalzium & Magnesium
+- Multivitamin-Paket als tägliches Ergänzungsmittel für eine gesunde Ernährung: Vitamin C, Selen & Zink unterstützen Immunsystem & Abwehrkräfte, Eisen unterstützt das Gehirn & Vitamin A die Augen
+- Die Centrum Formulierungen werden auf Grundlage wissenschaftlicher Forschungen entwickelt & von Nährstoffexperten formuliert / Sämtliche Mikronährstoffe sind auf Sicherheit geprüft & zertifiziert
+- Lieferumfang: 1 x 123g, 100 Tabletten Centrum Von A bis Zink / Multivitamine zur Nahrungsergänzung / Deckt den Tagesbedarf vieler Vitamine, Mineralstoffe & Spurenelemente / Für Erwachsene & Kinder
 
 [🛒 Hier!!]({{< param buyurl >}})

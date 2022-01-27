@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das perfekte Strategiespiel für spannende Spieleabende mit Familie und Freunden und ein tolles Geschenk für Fans von Brettspielen und dem UNO-Kartenspiel ab 7 Jahren.
-- Es wird Zeit für das verrückteste Blokus-Spiel aller Zeiten! Ziel ist es weiterhin, alle Spielsteine loszuwerden. Wer seine UNO-Aktionskarten geschickt einsetzt, erobert das Spielfeld!
-- Blokus Shuffle erhält durch das einzigartige Spielbrett einen völlig neuen Look: Die bunten Blokus-Steine bilden einen tollen Kontrast zum schwarzen Hintergrund.
 - Hier trifft das Strategiespiel Blokus auf das Kartenspiel UNO – Blokus Shuffle: UNO Edition!
 - Die Regel von Blokus gilt weiterhin: Die Teile müssen an den Ecken mindestens ein anderes Teil derselben Farbe berühren! Das Spiel gerät mit den UNO-Aktionskarten jedoch völlig außer Kontrolle.
+- Es wird Zeit für das verrückteste Blokus-Spiel aller Zeiten! Ziel ist es weiterhin, alle Spielsteine loszuwerden. Wer seine UNO-Aktionskarten geschickt einsetzt, erobert das Spielfeld!
+- Blokus Shuffle erhält durch das einzigartige Spielbrett einen völlig neuen Look: Die bunten Blokus-Steine bilden einen tollen Kontrast zum schwarzen Hintergrund.
+- Das perfekte Strategiespiel für spannende Spieleabende mit Familie und Freunden und ein tolles Geschenk für Fans von Brettspielen und dem UNO-Kartenspiel ab 7 Jahren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

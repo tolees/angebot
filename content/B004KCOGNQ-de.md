@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anschlusstyp 1: Mini DisplayPort-Stecker; Anschlusstyp 2: Mini DisplayPort-Buchse; Kontaktmaterial: vergoldet; max. Auflösung: 4K Ultra HD 2160p (60 Hz)
 - Mini DP Verlängerungskabel lässt sich bequem an Ihr Apple Macbook oder Notebook anschließen und ermöglicht Auflösungen bis 3840px x 2160px
 - Verlängern Sie Ihr Mini DisplayPort Kabel um einen Meter. Ermöglicht die Übertragung Ihres Audio / Video Signals auf einen externen Monitor
+- Anschlusstyp 1: Mini DisplayPort-Stecker; Anschlusstyp 2: Mini DisplayPort-Buchse; Kontaktmaterial: vergoldet; max. Auflösung: 4K Ultra HD 2160p (60 Hz)
 - DP Adapter mit vergoldeten Kontakten für eine verbesserte Signalübertragung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
