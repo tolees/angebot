@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asus RT-AX92U Router  Ai Mesh WLAN System  WiFi 6 AX6100  Tri-Band  4x Gigabit LAN  1.8 GHz DC CPU  AiProtection  USB 3.0  160 MHz  1er Pack '
-date: 2022-01-27 00:15:36
+date: 2022-01-28 12:43:04
 image: 'https://m.media-amazon.com/images/I/31tVDI-GAPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.de/dp/B07SCBMMS8/?tag=tolees0ca-21'
 descuento: '26.27'
-average: '184.953300000002'
+average: '184.800693069309'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Exklusive Asus AiMesh Funktion zur Erweiterung der WLAN Reichweite mit intelligenten Mesh Features wie einheitlicher WLAN-Zugang und unterbrechungsfreier Client Übergabe
 - WLAN-Router zur Lösung von Empfangs und Performanceproblemen im Heim-Netzwerk - Empfohlen für eine WLAN-Versorgungsfläche von bis zu 150m²
+- Lieferumfang: ASUS WLAN Router, Schnellstartanleitung, Netzwerkkabel, Netzteil, Garantiekarte
 - Maximale Kompatibilität mit Modems/Modemrouter der Provider
 - AX6100 WiFi6 Tri-Band WLAN Gesamt-Geschwindigkeit (Simultane WLAN Bandbreite mit bis 4804 Mbits über 5G-1, 866 Mbits über 5G-2 & 400 Mbits über 2.4G) + Gigabit 1x WAN / 4x LAN
-- Exklusive Asus AiMesh Funktion zur Erweiterung der WLAN Reichweite mit intelligenten Mesh Features wie einheitlicher WLAN-Zugang und unterbrechungsfreier Client Übergabe
-- Lieferumfang: ASUS WLAN Router, Schnellstartanleitung, Netzwerkkabel, Netzteil, Garantiekarte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

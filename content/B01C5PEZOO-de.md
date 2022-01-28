@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Einfachste Bedienung per Knopfdruck - Frei programmierbare Getränkemenge, verstellbarer Kaffeeauslauf und abnehmbarer Tassentisch
 - Schnelles Aufheizen in 45 Sekunden und energieeffizient durch die automatische Abschaltfunktion nach 9 Minuten
+- Patentiertes Drei-Druck-Brühsystem für eine intensive Aromafülle Ihres Espressos, Caffé Cremas, Filterkaffees und Tees
 - Integrierter Kapselauffangbehälter für bis zu 6 Kapseln, abnehmbarer 1 Liter Wassertank
 - Maße: ca. 15,4 x 36 x 27,2 cm (B x T x H)
-- Einfachste Bedienung per Knopfdruck - Frei programmierbare Getränkemenge, verstellbarer Kaffeeauslauf und abnehmbarer Tassentisch
-- Patentiertes Drei-Druck-Brühsystem für eine intensive Aromafülle Ihres Espressos, Caffé Cremas, Filterkaffees und Tees
 
 [🛒 Hier!!]({{< param buyurl >}})

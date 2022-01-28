@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LED Werkstattlampe verfügt über zwei Schaltstufen (100/50%) und einen Ein/Aus Schalter - eignet sich ideal als Arbeitsleuchte im Taschenformat
-- Dank dem Gürtelclip und dem 360° drehbaren Haken ist die akkubetriebene Arbeitsleuchte perfekt für den flexiblen Einsatz, beispielsweise für kleine Arbeiten am Auto oder auch im Haushalt
 - Lieferumfang: 1x LED Akku-Handleuchte HL DA 40 MH mit integriertem Akku, Magnet und drehbarem Haken (inkl. USB-Ladekabel) - in bester Qualität von brennenstuhl
 - Handlampe mit integriertem Akku (Li-Ion 3,7V/1,8 Ah) und einer gummierten Oberfläche für beste Griffigkeit
+- Dank dem Gürtelclip und dem 360° drehbaren Haken ist die akkubetriebene Arbeitsleuchte perfekt für den flexiblen Einsatz, beispielsweise für kleine Arbeiten am Auto oder auch im Haushalt
 - Kleine, kompakte und handliche Handleuchte - mit 4 super hellen SMD-LEDs (min. 3 h Leuchtdauer bei vollem Akku)
+- LED Werkstattlampe verfügt über zwei Schaltstufen (100/50%) und einen Ein/Aus Schalter - eignet sich ideal als Arbeitsleuchte im Taschenformat
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
