@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 12 flexible Doppelkammern
-- Unbeschränkte Erweiterungsmöglichkeit
 - Alternative zum Werkzeugkoffer
+- Unbeschränkte Erweiterungsmöglichkeit
+- 12 flexible Doppelkammern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

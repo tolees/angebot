@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maße der Vorratsdosen sind abgestimmt auf Verpackungsgrößen gängiger trockener Lebensmittel.
+- Inhalt: 1 x 2000 ml, 1 x 1500 ml, 2 x 1000 ml und 1 x 425 ml. Höhe Set: 23 cm. Länge: 27,5 cm. Breite: 14,8 cm.
 - Der transparente Behälter sowie der durchsichtige Deckel ermöglichen jederzeit einen Blick auf den Inhalt der Aufbewahrungboxen, auch in Küchenschubladen.
 - Die transparenten Vorratsboxen Modula von Mepal sind praktische Aufbewahrungsbehälter für Müsli, Milchpulver, Mehl und andere trockene Lebensmittel.
-- Inhalt: 1 x 2000 ml, 1 x 1500 ml, 2 x 1000 ml und 1 x 425 ml. Höhe Set: 23 cm. Länge: 27,5 cm. Breite: 14,8 cm.
-- Der fest schließende Deckel der Vorratsdosen sorgt dafür, dass der Inhalt aromadicht und stapelbar aufbewahrt wird.
 - Hochwertiger und langlebiger Kunststoff, BPA-frei und lebensmittelecht. Und wenn einmal ein Teil fehlt? Dann kann dies in aller Regel ganz einfach bei Mepal nachbestellt werden.
+- Maße der Vorratsdosen sind abgestimmt auf Verpackungsgrößen gängiger trockener Lebensmittel.
+- Der fest schließende Deckel der Vorratsdosen sorgt dafür, dass der Inhalt aromadicht und stapelbar aufbewahrt wird.
 
 [🛒 Hier!!]({{< param buyurl >}})

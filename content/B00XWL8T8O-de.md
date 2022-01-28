@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit beleuchtetem Innenring-System
-- Mit Insektengitter
-- Hochfeste EPS-Innenschale für optimale Dämpfung
-- Prüfzeichen: TÜV Rheinland GS / Standard EN 1078:2012+A1; AfPS GS 2014:01
 - Kinderhelm in der Größe XS/S (48-54 cm)
+- Mit Insektengitter
+- Prüfzeichen: TÜV Rheinland GS / Standard EN 1078:2012+A1; AfPS GS 2014:01
+- Mit beleuchtetem Innenring-System
 - Sehr gute Belüftung durch 14 große Lufteinlässe
 - Optimale Passform durch verstellbares Innenring-System
+- Hochfeste EPS-Innenschale für optimale Dämpfung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
