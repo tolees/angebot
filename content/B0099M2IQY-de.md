@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 10 Bar wasserdicht
-- Gehäuse: Kunststoff
 - Schließe: Faltschließe mit eingelassenem Druckverschluss
 - Uhrglas: Kunststoff
 - Armbandmaterial: Edelstahl
+- Gehäuse: Kunststoff
+- 10 Bar wasserdicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

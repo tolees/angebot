@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spielen 25 Stunden am Stück: eine Akkuladung für mehr als einen ganzen Tag Musik. Wenn Sie dennoch mehr Energie benötigen, dann erhalten Sie mit einer 15minütigen Schnellladung fünf Stunden zusätzliche Audiowiedergabe
-- Inspiriert vom Rennsport: bei den kopfhörermodellen PX5 und PX7 werden karbonfaser-composite-materialien wie im modernen Rennsport verwendet, Die für höchste Stärke und Widerstandsfähigkeit stehen
-- Störende Außengeräusche adé: von der Bibliothek bis zum Hauptbahnhof, die adaptive Geräuschunterdrückung (Noise Cancelling) passt sich automatisch Ihrer Umwelt an, um unerwünschten Geräusche von Ihrer Musik fernzuhalten
 - Sie geben den Ton an: der PX5 folgt jeder Ihrer Bewegungen. Wenn Sie eine Ohrmuschel Anheben, pausiert die Musik automatisch. Sobald Sie sie wieder senken, wird die Musikwiedergabe fortgesetzt
 - Moderner Sound: Der PX5 ist zugleich leicht und kompakt, liefert aber eine Klangqualität, die den hohen Standards von Bowers & Wilkins gerecht wird. Die speziell entwickelten 35-mm-treiber wurden von demselben Team konzipiert, Das auch für die Lautsprecher der Serie 800 Diamond verantwortlich sind, die in den Abbey Road Studios verwendet werden
+- Störende Außengeräusche adé: von der Bibliothek bis zum Hauptbahnhof, die adaptive Geräuschunterdrückung (Noise Cancelling) passt sich automatisch Ihrer Umwelt an, um unerwünschten Geräusche von Ihrer Musik fernzuhalten
+- Spielen 25 Stunden am Stück: eine Akkuladung für mehr als einen ganzen Tag Musik. Wenn Sie dennoch mehr Energie benötigen, dann erhalten Sie mit einer 15minütigen Schnellladung fünf Stunden zusätzliche Audiowiedergabe
+- Inspiriert vom Rennsport: bei den kopfhörermodellen PX5 und PX7 werden karbonfaser-composite-materialien wie im modernen Rennsport verwendet, Die für höchste Stärke und Widerstandsfähigkeit stehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
