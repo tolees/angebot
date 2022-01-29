@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - rackMatic: Der Oberkorb der integrierbaren Spülmaschine lässt sich dreistufig in der Höhe anpassen. So finden sperriges Geschirr und Gefäße wie Töpfe, Pfannen und Woks bequem Platz.
-- Home Connect: Starten Sie Ihren Geschirrspüler bequem von unterwegs und behalten Sie ihn mit Remote Monitoring im Blick – diese und weitere smarte Funktionen bietet die Home Connect App.
-- flex Körbe: Bereit für Ihr Geschirr: Die flex-Körbe bieten Ihnen maximale Flexibilität und Bedienbarkeit beim Beladen und Entladen der Einbau-Spülmaschine.
-- sideLight: Mit dem sideLight erkennen Sie sofort, ob das Spülprogramm noch läuft. Während des Betriebs leuchtet die blaue Lichtleiste den linken Möbelspalt neben dem vollintegrierten Geschirrspüler aus.
 - varioSpeed Plus: Bis zu dreimal so schnell, genauso gründlich sauber und trocken: Mit varioSpeed Plus verkürzen Sie die Laufzeit des Spülprogramms von Ihrem einbaufähigen Geschirrspüler.
+- sideLight: Mit dem sideLight erkennen Sie sofort, ob das Spülprogramm noch läuft. Während des Betriebs leuchtet die blaue Lichtleiste den linken Möbelspalt neben dem vollintegrierten Geschirrspüler aus.
+- flex Körbe: Bereit für Ihr Geschirr: Die flex-Körbe bieten Ihnen maximale Flexibilität und Bedienbarkeit beim Beladen und Entladen der Einbau-Spülmaschine.
+- Home Connect: Starten Sie Ihren Geschirrspüler bequem von unterwegs und behalten Sie ihn mit Remote Monitoring im Blick – diese und weitere smarte Funktionen bietet die Home Connect App.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
