@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DESIGNORIENTIERT & NACHHALTIG: Komposteimer mit Deckel und Griff - Perfekt für Biomüll, Kaffeekapseln, zur Aufbewahrung von Geschirrspültabs, als Tischabfalleimer - Aus rezykliertem Kunststoff
 - UNIVERSELL & MODULAR: Einzeln oder im Set nutzbar - Sicher stapelbar auch auf den Eimern Albula 25l - Schönes Design - Perfekter Küchenhelfer für Ihre Arbeitsplatte
+- DESIGNORIENTIERT & NACHHALTIG: Komposteimer mit Deckel und Griff - Perfekt für Biomüll, Kaffeekapseln, zur Aufbewahrung von Geschirrspültabs, als Tischabfalleimer - Aus rezykliertem Kunststoff
 - MASSE: 23,5 x 20 x 20,8 cm (LxBxH) - Fassungsvolumen der Biotonne 6 Liter - Praktischer Helfer für Küchenabfälle, Biomüll, Kompost und mehr
-- LIEFERUMFANG: 1x Bioeimer aus Kunststoff mit Deckel und Trageriemen - Behälter blau (horizon blue), Deckel und Henkel anthrazit - Erhältlich in weiteren attraktiven Farben
 - PLATZSPAREND & PRAKTISCH: Der Deckel kann komplett geöffnet und nach hinten geklappt werden - Bequem zu tragen dank Trageriemen - Einfach zu reinigen
+- LIEFERUMFANG: 1x Bioeimer aus Kunststoff mit Deckel und Trageriemen - Behälter blau (horizon blue), Deckel und Henkel anthrazit - Erhältlich in weiteren attraktiven Farben
 
 [🛒 Hier!!]({{< param buyurl >}})
