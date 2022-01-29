@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08P3PFFXV-de Brace Yourself Games - Crypt of the Necrodancer'
 sku: 'B08P3PFFXV-de'
-tags: [  ]
+tags: [ 'Games','Nintendo Switch','Spiele für Nintendo Switch','brace yourself games', ]
 actualPrice: 22.78 EUR
 currency: EUR
 price: 22.78
@@ -16,7 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Brace Yourself Games - Crypt of the Necrodancer'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Brace Yourself Games'
 buyurl: 'https://www.amazon.de/dp/B08P3PFFXV/?tag=tolees0ca-21'
 descuento: '34.90'
 average: '21.875'
@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Töte den NecroDancer!
-- Meistere die Dungeons!
 - Vollgepackt mit Inhalten!
+- Meistere die Dungeons!
+- Töte den NecroDancer!
 
 [🛒 Hier!!]({{< param buyurl >}})
