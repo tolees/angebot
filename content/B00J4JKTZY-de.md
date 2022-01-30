@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Invicta 8930OB Pro Diver Unisex Uhr Edelstahl Automatik blauen Zifferblat'
-date: 2020-01-26 04:40:27
-image: 'https://m.media-amazon.com/images/I/51K+D4+W9xL._AC_._SL400_.jpg'
+title: 'Invicta Pro Diver 8930OB Herrenuhr  40 mm'
+date: 2022-01-30 18:34:17
+image: 'https://m.media-amazon.com/images/I/41Yy4kHJMZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00J4JKTZY-de Invicta 8930OB Pro Diver Unisex Uhr Edelstahl Automatik...'
+slug: 'B00J4JKTZY-de Invicta Pro Diver 8930OB Herrenuhr 40 mm'
 sku: 'B00J4JKTZY-de'
-tags: [  ]
-actualPrice: 78.5 EUR
+tags: [ 'Armbanduhren für Herren','Herrenuhren','Regular Stores','Shops','Uhren','invicta', ]
+actualPrice: 69.0 EUR
 currency: EUR
-price: 78.5
-comparePrice: 94.17 EUR
-prodname: 'Invicta 8930OB Pro Diver Unisex Uhr Edelstahl Automatik blauen Zifferblat'
+price: 69.0
+comparePrice: 115.0 EUR
+prodname: 'Invicta Pro Diver 8930OB Herrenuhr  40 mm'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Invicta'
 buyurl: 'https://www.amazon.de/dp/B00J4JKTZY/?tag=tolees0ca-21'
-descuento: '16.64'
-average: '78.5'
+descuento: '40.00'
+average: '73.75'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,5 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Dieses Modell wird von einem präzisen Automatikuhr angetrieben
+- Dieses Modell ist von der Invicta Pro Diver Kollektion
+- 20 bar Wasserdichtigkeitszertifizierung
+- 2 Jahre Garantie
+- Das Invicta 8930OB hat ein 40 mm Edelstahl gehäuse mit einem blauen Zifferblatt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
