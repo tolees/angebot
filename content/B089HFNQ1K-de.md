@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Teamed-Leistungsstufen mit ProCool-Stromanschluss, hochwertigen Alloy-Spulen und langlebigen Kondensatoren
-- AM4-Sockel: Bereit für AMD-Ryzen-Prozessoren der 3. Generation
-- Bereit für PCIe 4.0, zwei M.2-Steckplätze, USB 3.2 Gen 2 Typ-C plus HDMI-2.1- und DisplayPort 1.2-Ausgänge
-- Intuitive Dashboards für das UEFI BIOS und ASUS AI Networking machen die Konfiguration von Gaming-Systemen zum Kinderspiel
 - Intel 2,5Gbit/s-Ethernet mit ASUS LANGuard
+- Bereit für PCIe 4.0, zwei M.2-Steckplätze, USB 3.2 Gen 2 Typ-C plus HDMI-2.1- und DisplayPort 1.2-Ausgänge
+- AM4-Sockel: Bereit für AMD-Ryzen-Prozessoren der 3. Generation
+- Teamed-Leistungsstufen mit ProCool-Stromanschluss, hochwertigen Alloy-Spulen und langlebigen Kondensatoren
+- Intuitive Dashboards für das UEFI BIOS und ASUS AI Networking machen die Konfiguration von Gaming-Systemen zum Kinderspiel
 
 [🛒 Hier!!]({{< param buyurl >}})
