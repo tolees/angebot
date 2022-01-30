@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universum Film - Astrid Lindgren: Ferien auf Saltkrokan Spielfilm-Edition [5 DVDs]'
-date: 2022-01-29 00:31:38
+date: 2022-01-30 00:50:26
 image: 'https://m.media-amazon.com/images/I/51TMHMXOQPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universum Film'
 buyurl: 'https://www.amazon.de/dp/B07HBQR6QR/?tag=tolees0ca-21'
 descuento: '31.11'
-average: '23.98'
+average: '22.6433333333333'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
