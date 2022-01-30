@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asus RT-AX88U Gaming Router  Ai Mesh WLAN System  WiFi 6 AX6000  Gaming Engine  8x Gigabit LAN Link Aggregation  1.8 GHz QC CPU  AiProtection  USB 3.0   Router bis zu 220 m² '
-date: 2022-01-27 12:36:20
+date: 2022-01-30 13:13:56
 image: 'https://m.media-amazon.com/images/I/31K8LnVmn+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07HRBC23B-de Asus RT-AX88U Gaming Router Ai Mesh WLAN System WiFi 6...'
 sku: 'B07HRBC23B-de'
 tags: [ 'Computer & Zubehör','Netzwerkgeräte','Router','asus', ]
-actualPrice: 281.9 EUR
+actualPrice: 280.43 EUR
 currency: EUR
-price: 281.9
+price: 280.43
 comparePrice: 389.95 EUR
 prodname: 'Asus RT-AX88U Gaming Router  Ai Mesh WLAN System  WiFi 6 AX6000  Gaming Engine  8x Gigabit LAN Link Aggregation  1.8 GHz QC CPU  AiProtection  USB 3.0   Router bis zu 220 m² '
 country: 'de'
 flag: '🇩🇪'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.de/dp/B07HRBC23B/?tag=tolees0ca-21'
-descuento: '27.71'
-average: '284.296666666667'
+descuento: '28.09'
+average: '283.33'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Asus AiMesh Funktion zur Erweiterung der WLAN Reichweite mit intelligenten Mesh Features wie einheitlicher WLAN-Zugang und unterbrechungsfreier Client Übergabe
-- WLAN-Router zur Lösung von Empfangs- und Performanceproblemen im Heim-Netzwerk - Empfohlen für eine WLAN-Versorgungsfläche von bis zu 220m²
-- Maximale Kompatibilität mit Modems/Modemrouter der Provider
-- AX6000 WiFi6 Dual-Band WLAN Gesamt-Geschwindigkeit (Simultane WLAN Bandbreite mit bis 4804 Mbits über 5 GHz und 1148 Mbits über 2.4 GHz) + Gigabit 1x WAN / 8x LAN (Link-Aggregation)
 - Lieferumfang: ASUS WLAN Router, Schnellstartanleitung, Netzwerkkabel, Netzteil, Garantiekarte
+- Maximale Kompatibilität mit Modems/Modemrouter der Provider
+- WLAN-Router zur Lösung von Empfangs- und Performanceproblemen im Heim-Netzwerk - Empfohlen für eine WLAN-Versorgungsfläche von bis zu 220m²
+- AX6000 WiFi6 Dual-Band WLAN Gesamt-Geschwindigkeit (Simultane WLAN Bandbreite mit bis 4804 Mbits über 5 GHz und 1148 Mbits über 2.4 GHz) + Gigabit 1x WAN / 8x LAN (Link-Aggregation)
 
 [🛒 Hier!!]({{< param buyurl >}})
