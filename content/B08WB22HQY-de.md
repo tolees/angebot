@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75311 Star Wars Imperialer Marauder  Bauset Für Kinder Ab 8 Jahren  Mandalorian-Modell Mit 4 Minifiguren  Geschenkidee'
-date: 2022-01-28 09:51:48
+date: 2022-01-31 13:18:33
 image: 'https://m.media-amazon.com/images/I/51nomXIo12S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WB22HQY/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '29.89'
+average: '29.9066666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der Artillery Stormtrooper (neu ab August 2021) hat als Zubehör Mörser- und Rucksackelemente
-- Das Fahrzeug hat einen Ausguck (mit einer zu öffnenden Klappe) für eine Minifigur sowie sich öffnen lassende Munitionskästen für kreatives Spielen
-- Enthält außerdem ein Minifiguren-Cockpit und eine Kabine für 2 LEGO-Star-Wars-Minifiguren, was es zu einem tollen Ausstellungsstück macht
 - Enthält 4 LEGO-Star-Wars-Minifiguren: Greef Karga mit einer Blasterpistole, 2 Stormtrooper mit Blastern und einen Artillery Stormtrooper
+- Das Fahrzeug hat einen Ausguck (mit einer zu öffnenden Klappe) für eine Minifigur sowie sich öffnen lassende Munitionskästen für kreatives Spielen
 - Das „LEGO Star Wars Imperialer Marauder“-Modell enthält 4 Shooter – 2 Shooter auf dem drehbaren Heckgeschützturm und 2 nicht schießende ausklappbare Blasterkanonen
+- Enthält außerdem ein Minifiguren-Cockpit und eine Kabine für 2 LEGO-Star-Wars-Minifiguren, was es zu einem tollen Ausstellungsstück macht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
