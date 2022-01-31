@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Paspel hinten entlang der Ärmel
-- Innenseite: Hängeschlaufe und doppelte Innentasche
-- Wattiertes Steppdesign
 - Verstellbare Schirmkapuze, Kordelzug innen, Kinnschutz – abnehmbar
+- Innenseite: Hängeschlaufe und doppelte Innentasche
+- Paspel hinten entlang der Ärmel
+- Wattiertes Steppdesign
 - Pattentasche vorne an der Schulter – Klettverschluss, vertikal eingesetzte Taschen – Druckknopfverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

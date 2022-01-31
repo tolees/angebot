@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 20 Liter Garraumvolumen - genug Platz für Ihre Speisen
 - 5 Leistungsstufen - für mehr Flexibilität beim Kochen
 - Mechanische Steuerung über Drehregler
 - 800 Watt Leistung - für schnelles Erhitzen Ihrer Speisen
-- Timer - von 00 Sekunden bis 35 Minuten
 - Solo-Mikrowelle
+- 20 Liter Garraumvolumen - genug Platz für Ihre Speisen
+- Timer - von 00 Sekunden bis 35 Minuten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
