@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Das LED Lichtband ist 5/10 Meter lang und 1 cm breit. Das LED RGB Stripe in 5m und 10m haben beides 12V 24W. Die LED Streifen enthält 150 RGB LED Leuchten in 5m (300 RGB LED Leuchten in 10m) und ist mit der Schutzart IP20 ausgestattet.
 - Farbwechsel und Dimmbar, es bieten 16 Farben zur Auswahl und jede Farbe ist dimmbar, können Sie das Licht an Ihre Stimmung anpassen und Ihr Zuhause zu personalisieren.
-- Dank des flexiblen Materials auf dem die LEDs angebracht sind und seiner selbstklebenden Rückseite, kann der LED Strip leicht überall angeklebt werden. Entfernen Sie das rote Klebeband auf der Rückseite des Lampenstreifens und installieren Sie es direkt. Die LED Streifen kann man sagar entlang den Schnittmarkierungen geschnitten werden. Ohne die restliche LED Streifen zu beschädigen.
 - Das RGB LED Stripe lässt sich einfach über eine App in Handy steuern. downloaden Sie die App via scannen die QR code an der Verbinder. Die Beschreibung(Deutsche Anleitung) zeigt wie man es mit app verbindet.
 - Durch 24-Tasten-Fernbedienung lässt sich die Farbe den Farbwechsel, Modi, Geschwindigkeit, Timer, DIY Effekteinstellungen und Helligkeit sehr leicht einstellen.
+- Dank des flexiblen Materials auf dem die LEDs angebracht sind und seiner selbstklebenden Rückseite, kann der LED Strip leicht überall angeklebt werden. Entfernen Sie das rote Klebeband auf der Rückseite des Lampenstreifens und installieren Sie es direkt. Die LED Streifen kann man sagar entlang den Schnittmarkierungen geschnitten werden. Ohne die restliche LED Streifen zu beschädigen.
 
 [🛒 Hier!!]({{< param buyurl >}})
