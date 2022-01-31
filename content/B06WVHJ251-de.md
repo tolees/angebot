@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Dose hat einen PE-Deckel und kann dadurch luftdicht verschlossen werden
+- Vorratsdose von ASA aus der Kollektion grande aus Steingut
 - So wissen Sie jederzeit, was sich in dieser Dose aufhält
 - Sie können in der Dose (Durchmesser: 9,5 cm, Höhe: 8 cm) auch Gewürze aufbewahren oder Sie richten frische Heidelbeeren stilecht zum Frühstück an
-- Vorratsdose von ASA aus der Kollektion grande aus Steingut
-- Die Dose hat einen PE-Deckel und kann dadurch luftdicht verschlossen werden
 - Außerdem kann der Deckel mithilfe eines Bleistifts immer wieder neu beschriftet werden
 
 [🛒 Hier!!]({{< param buyurl >}})

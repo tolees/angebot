@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Viewsonic VX3219-PC-MHD 80 cm  32 Zoll  Curved Gaming Monitor  Full-HD  Adaptive Sync  1 ms  240 Hz  HDMI  DP  geringer Input Lag  Lautsprecher  Schwarz'
-date: 2022-01-28 15:53:26
-image: 'https://m.media-amazon.com/images/I/41N783Sw4bL._SL500_._SL400_.jpg'
+date: 2022-01-31 17:52:15
+image: 'https://m.media-amazon.com/images/I/41fdcGUkcrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 240 Hz Curved VA-Panel mit geringer Reaktionszeit und geringem Input Lag
+- Game Mode - mit FPS, RTS und MOBA Voreinstellungen
 - Integrierte Lautsprecher, HDMI und DP Eingang
 - Lieferumfang: ViewSonic VX3219-PC-MHD Monitor, DP-, Netzkabel, Kurzanleitung
+- 240 Hz Curved VA-Panel mit geringer Reaktionszeit und geringem Input Lag
 - Adaptive Sync Technologie für ruckelfreies Gaming
-- Game Mode - mit FPS, RTS und MOBA Voreinstellungen
 
 [🛒 Hier!!]({{< param buyurl >}})
