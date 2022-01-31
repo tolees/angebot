@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Reinigung und Pflege: Abwischbar mit feuchtem Tuch und wenig Waschmittel
-- Lieferumfang: 1 Sterntaler Spieluhr mit integriertem Spielwerk, Motiv: Esel Erik, Größe: S (19 cm), Material: Flausch aus 100% Polyester, Polycotton aus 60% Baumwolle und 40% Polyester, Farbe: Grau/Blau, Art.Nr.: 6001731
-- Greif- und Tastmöglichkeiten: Weiche Beinchen und Ärmchen sowie lange Öhrchen und festgenähtes Halstuch
 - Treuer Begleiter zum Kuscheln und Träumen: Kuscheltier Esel Erik mit integriertem Spielwerk, Geeignet für Babys ab der Geburt
+- Greif- und Tastmöglichkeiten: Weiche Beinchen und Ärmchen sowie lange Öhrchen und festgenähtes Halstuch
+- Leichte Reinigung und Pflege: Abwischbar mit feuchtem Tuch und wenig Waschmittel
 - Beruhigendes Schlummerlied: Schlafe mein Prinzchen (Mozarts Wiegenlied), Spieldauer: ca. 1 Minute
+- Lieferumfang: 1 Sterntaler Spieluhr mit integriertem Spielwerk, Motiv: Esel Erik, Größe: S (19 cm), Material: Flausch aus 100% Polyester, Polycotton aus 60% Baumwolle und 40% Polyester, Farbe: Grau/Blau, Art.Nr.: 6001731
 
 [🛒 Hier!!]({{< param buyurl >}})

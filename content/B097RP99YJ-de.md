@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Game Mode - mit FPS, RTS und MOBA Voreinstellungen
-- Integrierte Lautsprecher, HDMI und DP Eingang
-- Lieferumfang: ViewSonic VX3219-PC-MHD Monitor, DP-, Netzkabel, Kurzanleitung
 - 240 Hz Curved VA-Panel mit geringer Reaktionszeit und geringem Input Lag
+- Game Mode - mit FPS, RTS und MOBA Voreinstellungen
+- Lieferumfang: ViewSonic VX3219-PC-MHD Monitor, DP-, Netzkabel, Kurzanleitung
+- Integrierte Lautsprecher, HDMI und DP Eingang
 - Adaptive Sync Technologie für ruckelfreies Gaming
 
 [🛒 Hier!!]({{< param buyurl >}})
