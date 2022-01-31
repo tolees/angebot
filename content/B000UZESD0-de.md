@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herstellergarantie: 10 Jahre auf das Keramikmahlwerk. Die Garantiebedingungen finden Sie unter Weitere technische Informationen
 - Das Einstellrad ermöglicht die stufenlose Einstellung der Mahlstärke von grob bis fein. Bei jeder Drehung kommt das Mahlgut in gleichmäßiger Körnung heraus. Große Öffnung für problemloses Nachfüllen
-- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
-- Inhalt: 1x Salz und Pfeffer Mühle unbefüllt (Höhe 14 cm, Ø 6/4,7 cm) - Artikelnummer: 0647906630
+- Herstellergarantie: 10 Jahre auf das Keramikmahlwerk. Die Garantiebedingungen finden Sie unter Weitere technische Informationen
 - Material: Kunststoff, Keramik-Mahlwerk, Glasbehälter (spülmaschinengeeignet). Keinen Schmutz auf der Arbeitsfläche da die Mahl-Öffnung der Salz- und Pfeffermühle oben liegt. Aromadicht verschließbar
+- Inhalt: 1x Salz und Pfeffer Mühle unbefüllt (Höhe 14 cm, Ø 6/4,7 cm) - Artikelnummer: 0647906630
+- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
