@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Intensität: 7 von 10
-- Hochwertige Bohnen: die Mischung unseres Espresso Barista Gran Crema besteht aus exquisiten Arabica- und Robusta-Bohnen
 - Ausgewogener Geschmack: der Espresso Barista Gran Crema schmeckt nussig, schokoladig und besitzt eine feine Süße
+- Hochwertige Bohnen: die Mischung unseres Espresso Barista Gran Crema besteht aus exquisiten Arabica- und Robusta-Bohnen
 - Klassische Röstung: der Kaffee wird schonend und gleichmäßig in der Trommel geröstet
+- Hohe Intensität: 7 von 10
 - Barista-genuss: café-bar-qualität in der 1-kg-packung
 
 [🛒 Hier!!]({{< param buyurl >}})
