@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Aramidfaser-Brücken-System
+- Erhöhter Schutz im Bereich der Schläfen und im Hinterkopfbereich
 - PC-Außenschale
 - Leicht zu bedienendes Größenverstellsystem
-- EPS-Liner
-- Erhöhter Schutz im Bereich der Schläfen und im Hinterkopfbereich
-- Recco-Reflektor
-- Aramidfaser-Brücken-System
-- Verstellbares Visier
 - Unibody-Konstruktion
+- Verstellbares Visier
+- EPS-Liner
+- Recco-Reflektor
 
 [🛒 Hier!!]({{< param buyurl >}})

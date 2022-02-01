@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hama WiFi Schalter zum Nachrüsten von Steckdosen  Lichtschaltern  Lampen  WiFi Relais Modul  ermöglicht Steuerung per Alexa/Google Home/App  Unterputz Einbauschalter  WiFi Switch  Funkschalter'
-date: 2022-01-30 00:41:31
+date: 2022-02-01 01:05:34
 image: 'https://m.media-amazon.com/images/I/31isMM+xwXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Hama'
 buyurl: 'https://www.amazon.de/dp/B07P96CPFD/?tag=tolees0ca-21'
 descuento: '32.01'
-average: '18.4928571428571'
+average: '18.305'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kein extra WiFi-Zubehör mehr nötig (z.B. WiFi-Glühbirne): Direkter Anschluss in der Stromzuleitung von Leuchten, Lichtschaltern oder hinter Steckdosen
 - Lieferumfang: 1 WiFi-Nachrüst-Schalter (keine Dimmfunktion) für Leuchten und Steckdosen (min. 60mm Tiefe), 1 Schnellstartanleitung
+- Bedienung per App oder mit Alexa/Google Assistant: z.B. Amazon Echo Dot/Spot/Show, Google Home (Mini), per App auch von unterwegs
+- Kein extra WiFi-Zubehör mehr nötig (z.B. WiFi-Glühbirne): Direkter Anschluss in der Stromzuleitung von Leuchten, Lichtschaltern oder hinter Steckdosen
 - Komfortable Nachrüstlösung: WLAN-Schalter für alle Schaltersysteme verwendbar (vorhandener Schalter bleibt erhalten), Timer-, Zeitsteuerung-Funktion
 - Ihr Weg zum Smart Home, komplett ohne Gateway: WiFi-Nachrüstmodul zur Einbindung in Ihr WiFi-Netzwerk, einfach per gratis App (ab Android 4.3/iOS 8.0)
-- Bedienung per App oder mit Alexa/Google Assistant: z.B. Amazon Echo Dot/Spot/Show, Google Home (Mini), per App auch von unterwegs
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
