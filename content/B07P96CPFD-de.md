@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kein extra WiFi-Zubehör mehr nötig (z.B. WiFi-Glühbirne): Direkter Anschluss in der Stromzuleitung von Leuchten, Lichtschaltern oder hinter Steckdosen
 - Lieferumfang: 1 WiFi-Nachrüst-Schalter (keine Dimmfunktion) für Leuchten und Steckdosen (min. 60mm Tiefe), 1 Schnellstartanleitung
 - Bedienung per App oder mit Alexa/Google Assistant: z.B. Amazon Echo Dot/Spot/Show, Google Home (Mini), per App auch von unterwegs
-- Kein extra WiFi-Zubehör mehr nötig (z.B. WiFi-Glühbirne): Direkter Anschluss in der Stromzuleitung von Leuchten, Lichtschaltern oder hinter Steckdosen
-- Komfortable Nachrüstlösung: WLAN-Schalter für alle Schaltersysteme verwendbar (vorhandener Schalter bleibt erhalten), Timer-, Zeitsteuerung-Funktion
 - Ihr Weg zum Smart Home, komplett ohne Gateway: WiFi-Nachrüstmodul zur Einbindung in Ihr WiFi-Netzwerk, einfach per gratis App (ab Android 4.3/iOS 8.0)
+- Komfortable Nachrüstlösung: WLAN-Schalter für alle Schaltersysteme verwendbar (vorhandener Schalter bleibt erhalten), Timer-, Zeitsteuerung-Funktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
