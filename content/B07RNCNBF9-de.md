@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yabtf - WiFi LED Stripes Alexa Streifen Bänder Farbwechsel Selbstklebend Lichtband mit Ferbedienung und Smart WiFi Kontroller  steuerbar via App  12V 24W für Haus  Garten  Dekoration EINWEG  10m '
-date: 2022-02-01 01:29:11
+date: 2022-02-02 04:29:38
 image: 'https://m.media-amazon.com/images/I/51W4IGGUyEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch 24-Tasten-Fernbedienung lässt sich die Farbe den Farbwechsel, Modi, Geschwindigkeit, Timer, DIY Effekteinstellungen und Helligkeit sehr leicht einstellen.
 - Dank des flexiblen Materials auf dem die LEDs angebracht sind und seiner selbstklebenden Rückseite, kann der LED Strip leicht überall angeklebt werden. Entfernen Sie das rote Klebeband auf der Rückseite des Lampenstreifens und installieren Sie es direkt. Die LED Streifen kann man sagar entlang den Schnittmarkierungen geschnitten werden. Ohne die restliche LED Streifen zu beschädigen.
 - Das LED Lichtband ist 5/10 Meter lang und 1 cm breit. Das LED RGB Stripe in 5m und 10m haben beides 12V 24W. Die LED Streifen enthält 150 RGB LED Leuchten in 5m (300 RGB LED Leuchten in 10m) und ist mit der Schutzart IP20 ausgestattet.
 - Das RGB LED Stripe lässt sich einfach über eine App in Handy steuern. downloaden Sie die App via scannen die QR code an der Verbinder. Die Beschreibung(Deutsche Anleitung) zeigt wie man es mit app verbindet.
+- Durch 24-Tasten-Fernbedienung lässt sich die Farbe den Farbwechsel, Modi, Geschwindigkeit, Timer, DIY Effekteinstellungen und Helligkeit sehr leicht einstellen.
 - Farbwechsel und Dimmbar, es bieten 16 Farben zur Auswahl und jede Farbe ist dimmbar, können Sie das Licht an Ihre Stimmung anpassen und Ihr Zuhause zu personalisieren.
 
 [🛒 Hier!!]({{< param buyurl >}})
