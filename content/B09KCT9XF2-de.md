@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Last Duel [Blu-ray]'
-date: 2022-01-30 01:12:17
+date: 2022-02-03 14:50:06
 image: 'https://m.media-amazon.com/images/I/515OCMNuIBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B09KCT9XF2/?tag=tolees0ca-21'
 descuento: '16.88'
-average: '16.0333333333333'
+average: '16.2476923076923'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
