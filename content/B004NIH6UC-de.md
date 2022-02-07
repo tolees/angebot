@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Passend für alle Töpfe mit einem Durchmesser von 20 bis 22 cm
 - Mikrowellen- und geschirrspülergeeignet
 - Verfügt über 2 Stufen für die gleichzeitige Zubereitung von 2 Gerichten
-- Passend für alle Töpfe mit einem Durchmesser von 20 bis 22 cm
 - Erhält den Großteil der Nährstoffe der Lebensmittel und verbessert den Geschmack ohne Hinzugabe von Fett
 - Temperaturbeständig bis zu 220 °C, weshalb er auch zum Backen oder Aufwärmen von Fertiggerichten verwendet werden kann
 

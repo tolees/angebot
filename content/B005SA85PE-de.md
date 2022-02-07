@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Spülmaschinenfest
 - Attraktives Design zum Servieren am Tisch
 - Eine Luftkammer verhindert das Schmelzen des Eises und hält es kalt
 - Box mit Silikondeckel, der gleichzeitig als Eiswürfelbereiter genutzt wird
-- Spülmaschinenfest
 
 [🛒 Hier!!]({{< param buyurl >}})
