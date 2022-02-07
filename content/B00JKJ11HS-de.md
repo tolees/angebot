@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUDSON JENNIFER - JHUD'
-date: 2022-02-06 00:29:30
+date: 2022-02-07 01:10:45
 image: 'https://m.media-amazon.com/images/I/513+m8YuVdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
