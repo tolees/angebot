@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
-- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
 - Verpackungsinhalt: TL-WA850RE, Schnellinstallationsanleitung
-- Energieverbrauch - 3W
+- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
+- High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
+- 1-2 Zimmer Wohnung, Internet-Geschwindigkeit unter 100Mbit/s
 - Tether App ermöglicht einfachen Zugriff und Verwaltung mit jedem mobilen Gerät
 - Ein LAN-Port zur Integration kabelgebundener Netzwerkgeräte wie Spielekonsolen, Smart-TVs in ein WLAN
-- 1-2 Zimmer Wohnung, Internet-Geschwindigkeit unter 100Mbit/s
+- Energieverbrauch - 3W
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

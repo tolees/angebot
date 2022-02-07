@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SICHERE SPEICHEROPTIONEN: Die Aufnahmen der Bewegungserkennung können auf der Micro-SD-Karte (max. 128 GB, nicht enthalten), Reolink NVR oder dem FTP-Server gespeichert werden. Der Reolink NVR wird für eine höhere Speicherkapazität und eine 24/7-Aufzeichnung dringend empfohlen
-- BEWEGUNGSERKENNUNG MIT ALARM: Erkennt jede drohende Gefahr und sendet in Echtzeit E-Mail-Warnungen und Push-Benachrichtigungen an die Mobilgeräte der Benutzer. Diese IP-Kamera bietet fantastische Funktionen wie einstellbare Empfindlichkeit der Bewegungserkennung und benutzerdefinierte Bewegungserkennungszonen, die Ihren Anforderungen entsprechen
 - 4MP NACHTSICHT: Diese WLAN-Kamera bietet eine hervorragende 4MP-Bildqualität mit 18 IR-LEDs, die jederzeit und überall über Reolink App/Client/Webbrowser eine ultraklare Live-Ansicht bei Nacht ermöglichen. Lassen Sie alle potenziellen Risiken nirgendwo verstecken
-- 2,4/5GHz WLAN: Mit der Wahl zwischen den Frequenzbändern 2,4GHz oder 5GHz (5,8GHz) und den wunderbaren 2T2R MIMO-Antennen bietet diese Überwachungskamera für den Außenbereich ein schnelles, sicheres und stabiles kabelloses Erlebnis
+- BEWEGUNGSERKENNUNG MIT ALARM: Erkennt jede drohende Gefahr und sendet in Echtzeit E-Mail-Warnungen und Push-Benachrichtigungen an die Mobilgeräte der Benutzer. Diese IP-Kamera bietet fantastische Funktionen wie einstellbare Empfindlichkeit der Bewegungserkennung und benutzerdefinierte Bewegungserkennungszonen, die Ihren Anforderungen entsprechen
 - EINFACHE INSTALLATION IN WENIGEN MINUTEN: Mit dem Metallgehäuse und dem 4,5 m langen Verlängerungskabel wird diese wasserdichte IP66 WLAN-Kamera die Benutzer durch ihre einfache Installation überraschen. Die Montage an der Decke sowie an der Wand wird unterstützt
+- 2,4/5GHz WLAN: Mit der Wahl zwischen den Frequenzbändern 2,4GHz oder 5GHz (5,8GHz) und den wunderbaren 2T2R MIMO-Antennen bietet diese Überwachungskamera für den Außenbereich ein schnelles, sicheres und stabiles kabelloses Erlebnis
+- SICHERE SPEICHEROPTIONEN: Die Aufnahmen der Bewegungserkennung können auf der Micro-SD-Karte (max. 128 GB, nicht enthalten), Reolink NVR oder dem FTP-Server gespeichert werden. Der Reolink NVR wird für eine höhere Speicherkapazität und eine 24/7-Aufzeichnung dringend empfohlen
 
 [🛒 Hier!!]({{< param buyurl >}})
