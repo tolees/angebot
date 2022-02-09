@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Schloss Hogwarts  71043  Bauset  6.020 Teile '
-date: 2022-02-08 17:56:20
+date: 2022-02-09 18:44:34
 image: 'https://m.media-amazon.com/images/I/51mcSHgTf1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07BLDTWVW/?tag=tolees0ca-21'
 descuento: '18.36'
-average: '441.366341463417'
+average: '441.471725663719'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
