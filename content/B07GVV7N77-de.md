@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hama WiFi Tür-Fenster-Kontakt  ohne Hub  Fenster-/Tür-Sensor mit Magnetkontakt  Alarm-Benachrichtigung aufs Handy  2 4GHz  gratis App  Batterie-Betrieb  WLAN Fensteralarm/Türalarm'
-date: 2022-01-30 00:49:20
+date: 2022-02-09 04:56:24
 image: 'https://m.media-amazon.com/images/I/21QNXb6uJcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07GVV7N77-de Hama WiFi Tür-Fenster-Kontakt ohne Hub Fenster-/Tür-Sensor...'
 sku: 'B07GVV7N77-de'
 tags: [ 'Baumarkt','Elektroinstallation','Smart & Ferngesteuerte Stecker','Steckdosen & Zubehör','hama', ]
-actualPrice: 15.99 EUR
+actualPrice: 12.99 EUR
 currency: EUR
-price: 15.99
+price: 12.99
 comparePrice: 29.99 EUR
 prodname: 'Hama WiFi Tür-Fenster-Kontakt  ohne Hub  Fenster-/Tür-Sensor mit Magnetkontakt  Alarm-Benachrichtigung aufs Handy  2 4GHz  gratis App  Batterie-Betrieb  WLAN Fensteralarm/Türalarm'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Hama'
 buyurl: 'https://www.amazon.de/dp/B07GVV7N77/?tag=tolees0ca-21'
-descuento: '46.68'
-average: '15.99'
+descuento: '56.69'
+average: '14.49'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -31,7 +31,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Kompaktes Alarmsystem mit WiFi-Funktion: Magnetkontakt zur Überwachung von Fenstern und Türen. Einbindung ins eigene WiFi-Netzwerk, ganz einfach per kostenloser App (kein Gateway/Bridge nötig)
 - Mehr Sicherheit und Kontrolle über Ihr Zuhause: Push-Benachrichtigung aufs Smartphone sobald Fenster oder Türen geöffnet oder geschlossen werden oder ein Manipulationsversuch erkannt wird
 - Kompakter Tür-/Fenstersensor: Unauffällige Anbringung am Fenster- oder Türrahmen, Spannungsversorgung über zwei Batterien (AAA), geringer Energieverbrauch für lange Batterielaufzeiten
-- Fenster und Türen immer im Blick: Anzeige über die „Hama Smart Home“-App, ob sich das Fenster oder die Tür in geöffnetem oder geschlossenem Zustand befindet
 - Lieferumfang: 1 Tür-/Fensterkontakt, 2 Batterien (AAA), Montagematerial (4 Schrauben, 2 Klebepads), 1 Bedienungsanleitung
+- Fenster und Türen immer im Blick: Anzeige über die „Hama Smart Home“-App, ob sich das Fenster oder die Tür in geöffnetem oder geschlossenem Zustand befindet
 
 [🛒 Hier!!]({{< param buyurl >}})
