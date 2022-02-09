@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paramount - Paw Patrol - Der Kinofilm  DVD '
-date: 2022-02-07 22:17:50
+date: 2022-02-08 22:56:11
 image: 'https://m.media-amazon.com/images/I/51e5TeZi5tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Paramount'
 buyurl: 'https://www.amazon.de/dp/B09CRW94WK/?tag=tolees0ca-21'
 descuento: '21.44'
-average: '11.9011111111112'
+average: '11.8813043478262'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
