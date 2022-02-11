@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch - The King of Queens - Die komplette Staffel 1 [Blu-ray]'
-date: 2022-02-09 17:31:00
+date: 2022-02-11 05:49:52
 image: 'https://m.media-amazon.com/images/I/61k+4RDva2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
