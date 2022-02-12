@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ondine - Jean Sibelius: Die Sinfonien / /Violinkonzert op.47 / Finlandia op.26/7  Sinfonische Dichtung '
-date: 2022-01-29 18:12:28
+date: 2022-02-12 19:06:29
 image: 'https://m.media-amazon.com/images/I/51+O2A7RICL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,5 +28,6 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Shrink-wrapped
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
