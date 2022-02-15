@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Accessories - Bosch Professional Hammerbohrer SDS-plus-5  Ø 16 mm '
-date: 2022-02-14 11:25:22
+date: 2022-02-15 16:39:17
 image: 'https://m.media-amazon.com/images/I/21ccvUf0YzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus langlebigem Hartmetall für gute Lebensdauer und Widerstandsfähigkeit. Verzahntes Hartmetall am Bohrkopf und patentiertes 4-spiraliges Turbo-Design für effizienten Bohrmehlabtransport ohne Verstopfen. Mit gut sichtbarem Verschleißindikator.
-- Zwei Schneiden, gefertigt mit optimierter Löt- und Härtungstechnologie, um die Robustheit des Bohrers zu steigern und die Vibrationen während des Bohrens zu senken.
-- Für alle Bohrhämmer mit SDS-plus-Aufnahme
 - Durchmesser x Arbeitslänge x Gesamtlänge: 16 x 150 x 215 mm
+- Aus langlebigem Hartmetall für gute Lebensdauer und Widerstandsfähigkeit. Verzahntes Hartmetall am Bohrkopf und patentiertes 4-spiraliges Turbo-Design für effizienten Bohrmehlabtransport ohne Verstopfen. Mit gut sichtbarem Verschleißindikator.
+- Für alle Bohrhämmer mit SDS-plus-Aufnahme
+- Zwei Schneiden, gefertigt mit optimierter Löt- und Härtungstechnologie, um die Robustheit des Bohrers zu steigern und die Vibrationen während des Bohrens zu senken.
 - Professionelles Bearbeiten von Mauerwerk und Beton
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
