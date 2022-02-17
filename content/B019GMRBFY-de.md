@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KOCH Media Deutschland GmbH - The Twilight Zone: Unbekannte Dimensionen  Teil 1 [4 DVDs]'
-date: 2022-02-15 21:17:46
+date: 2022-02-17 03:49:40
 image: 'https://m.media-amazon.com/images/I/41+Ns217rzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'KOCH Media Deutschland GmbH'
 buyurl: 'https://www.amazon.de/dp/B019GMRBFY/?tag=tolees0ca-21'
 descuento: '31.81'
-average: '12.815'
+average: '12.846'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
