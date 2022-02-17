@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60314 City Eiswagen-Verfolgungsjagd  Polizeiverfolgung mit Eiskanone und Abfangfahrzeug  Polizei-Spielzeug für Kinder ab 5 Jahren'
-date: 2022-02-04 21:38:55
+date: 2022-02-17 22:48:27
 image: 'https://m.media-amazon.com/images/I/51LG1EXHkHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNXMFCT-de LEGO 60314 City Eiswagen-Verfolgungsjagd Polizeiverfolgung...'
 sku: 'B09BNXMFCT-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego', ]
-actualPrice: 22.61 EUR
+actualPrice: 19.17 EUR
 currency: EUR
-price: 22.61
+price: 19.17
 comparePrice: 29.99 EUR
 prodname: 'LEGO 60314 City Eiswagen-Verfolgungsjagd  Polizeiverfolgung mit Eiskanone und Abfangfahrzeug  Polizei-Spielzeug für Kinder ab 5 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNXMFCT/?tag=tolees0ca-21'
-descuento: '24.61'
-average: '22.61'
+descuento: '36.08'
+average: '20.89'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inklusive gedruckter Anleitung und interaktiver digitaler Bauanleitung in der kostenlosen LEGO App mit intuitiven Zoom- und Drehwerkzeugen
-- Enthält außerdem die Minifigur einer Polizistin, mit der du Nagelsperren aus dem Polizeiauto werfen kannst, um spannende Szenen aus der Serie nachzuspielen
 - Inklusive LEGO Minifiguren Ganove Eis und Ganove Creme. Der Eiswagen verfügt über eine Eiskanone, die LEGO Elemente verschießt
+- Enthält außerdem die Minifigur einer Polizistin, mit der du Nagelsperren aus dem Polizeiauto werfen kannst, um spannende Szenen aus der Serie nachzuspielen
 - Zu diesem LEGO City Polizeiverfolgung-Set gehören viele lustige Accessoires für fantasievollen Spielspaß, darunter Handschellen, das Brecheisen der Gauner und Eiscreme-Elemente
 - Enthält einen bunten LEGO Spielzeug-Eiswagen, ein Polizeiauto und eine Kulisse mit einem Geldautomaten sowie 3 Minifiguren, darunter 2 Figuren aus der LEGO City TV-Serie
 

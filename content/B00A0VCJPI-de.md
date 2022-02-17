@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WA850RE WLAN Verstärker Repeater 300 Mbit/s  WLAN Verstärker  App Steuerung  Ethernet-Port  WPS  AP Modus  LED abschaltbar  kompatibel zu allen WLAN Geräten  weiß'
-date: 2022-02-16 09:15:34
+date: 2022-02-17 20:49:59
 image: 'https://m.media-amazon.com/images/I/21-evtRVQmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B00A0VCJPI/?tag=tolees0ca-21'
 descuento: '40.16'
-average: '17.1053061224492'
+average: '17.0904054054056'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsinhalt: TL-WA850RE, Schnellinstallationsanleitung
-- High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
+- 1-2 Zimmer Wohnung, Internet-Geschwindigkeit unter 100Mbit/s
 - Tether App ermöglicht einfachen Zugriff und Verwaltung mit jedem mobilen Gerät
-- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
 - Energieverbrauch - 3W
 - Ein LAN-Port zur Integration kabelgebundener Netzwerkgeräte wie Spielekonsolen, Smart-TVs in ein WLAN
-- 1-2 Zimmer Wohnung, Internet-Geschwindigkeit unter 100Mbit/s
+- Verpackungsinhalt: TL-WA850RE, Schnellinstallationsanleitung
+- Erhöht schnell und einfach die Reichweite des WLAN-Netzes, kompatibel zu allen gängigen WLAN-Routern (Funkstandards 802.11n/g/b)
+- High-Speed-WLAN N mit bis zu 300 MBit/s (2,4 GHz-Band) für den kabellosen Hochgeschwindigkeitszugang
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
