@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media GmbH - Jim Carroll - In den Straßen von New York'
-date: 2022-02-16 08:38:58
+date: 2022-02-18 20:04:35
 image: 'https://m.media-amazon.com/images/I/41VSz3etgKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Koch Media GmbH'
 buyurl: 'https://www.amazon.de/dp/B00JKAJGMY/?tag=tolees0ca-21'
 descuento: '29.37'
-average: '5.715'
+average: '5.63'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
