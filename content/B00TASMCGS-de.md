@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch - Airwolf - Die komplette Serie [Blu-ray]  exklusiv bei Amazon.de '
-date: 2022-02-16 07:49:24
+date: 2022-02-18 13:44:16
 image: 'https://m.media-amazon.com/images/I/51MtHtepCBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Koch'
 buyurl: 'https://www.amazon.de/dp/B00TASMCGS/?tag=tolees0ca-21'
 descuento: '30.02'
-average: '68.39'
+average: '67.3433333333333'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
