@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Vertrieb - Sascha Grammel - Fast Fertig! [Blu-ray]'
-date: 2022-02-18 13:57:00
+date: 2022-02-19 14:15:09
 image: 'https://m.media-amazon.com/images/I/51LMiBkkz1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Vertrieb'
 buyurl: 'https://www.amazon.de/dp/B07Q8Q6JHY/?tag=tolees0ca-21'
 descuento: '20.60'
-average: '15.8383333333334'
+average: '15.601052631579'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

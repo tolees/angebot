@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New bee Bluetooth Headset Wireless Freisprech Telefon 5.0 Bluetooth-Headset mit Mikrofon für iPhone Samsung Huawei mit 60 Tage Standby Schwarz'
-date: 2022-02-17 19:38:16
+date: 2022-02-19 14:01:23
 image: 'https://m.media-amazon.com/images/I/41bBL7hCkgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'New bee'
 buyurl: 'https://www.amazon.de/dp/B07B7JP71S/?tag=tolees0ca-21'
 descuento: '15.01'
-average: '22.7582828282827'
+average: '22.7430999999999'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
