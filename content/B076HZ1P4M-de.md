@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Siemens TE655203RW Freistehende Espressomaschine  1 7l; 2Tassen; Schwarz  Grau  Silber  Displaysprache nicht auf Deutsch '
-date: 2022-02-18 17:27:11
+date: 2022-02-21 15:41:17
 image: 'https://m.media-amazon.com/images/I/41NVkF6GTEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Espressomaschinen','Kaffee, Tee & Espresso','Kaffeemaschinen & -zuberei
 actualPrice: 640.05 EUR
 currency: EUR
 price: 640.05
-comparePrice: 783.66 EUR
+comparePrice: 776.33 EUR
 prodname: 'Siemens TE655203RW Freistehende Espressomaschine  1 7l; 2Tassen; Schwarz  Grau  Silber  Displaysprache nicht auf Deutsch '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Siemens'
 buyurl: 'https://www.amazon.de/dp/B076HZ1P4M/?tag=tolees0ca-21'
-descuento: '18.33'
+descuento: '17.55'
 average: '640.05'
 ---
 
