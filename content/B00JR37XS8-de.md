@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inhalt: 1 Stück
-- Wattage: 1000.0
 - Robustes rostfreies Edelstahlgehäuse ausgelegt für Fremdkörper bis 20mm Durchmesser
 - Energiequelle: Handbetrieben
+- Wattage: 1000.0
 - Inklusive Universaladapter Set für alle herkömmlichen Schläuche
 - Hochwertige Gleitringdichtung für dauerhaften Betrieb
 

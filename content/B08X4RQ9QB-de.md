@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Responsible Wool Standard (RWS): Wolle aus artgerechter, verantwortungsvoller Tierhaltung
 - Weicher Rippstrick aus Baumwoll-Mix mit RWS Wolle und recyceltem Kaschmir
 - Weicher Rippstrick aus Bio-Baumwolle und TENCEL
 - Dieser Rippstrick-Cardigan aus hochwertigem Material-Mix ist ein unkompliziertes Essential mit nachhaltigem Anspruch.
-- Responsible Wool Standard (RWS): Wolle aus artgerechter, verantwortungsvoller Tierhaltung
 - Organic Cotton: Baumwolle aus kontrolliert biologischem Anbau
 
 [🛒 Hier!!]({{< param buyurl >}})

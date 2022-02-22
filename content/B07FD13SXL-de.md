@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Quarz-Uhrwerk Miyota
-- Gehäusedicke 10,5 mm / Durchmesser des Gehäuses: 40 mm
 - Bandbreite: 20 mm
 - Gebürstetes silbernes Edelstahl-Gehäuse und blaues Zifferblatt
 - Wasserabweisend bis 5 bar Sie kann beim Duschen oder Schwimmen getragen werden, jedoch nicht beim Tauchen
+- Quarz-Uhrwerk Miyota
+- Gehäusedicke 10,5 mm / Durchmesser des Gehäuses: 40 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
