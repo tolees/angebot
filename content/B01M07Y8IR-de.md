@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Bohrhammer GBH 2-26 F  830 Watt  Wechselfutter SDS-plus  Schlagenergie: 2 7 J  im Koffer '
-date: 2022-02-21 06:56:36
+date: 2022-02-22 19:14:11
 image: 'https://m.media-amazon.com/images/I/313es2kKVWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bosch Professional'
 buyurl: 'https://www.amazon.de/dp/B01M07Y8IR/?tag=tolees0ca-21'
 descuento: '51.62'
-average: '125.88'
+average: '126.614'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Vielseitige Anwendungsmöglichkeiten dank Drehstopp für Meißelarbeiten und elektronischer Drehzahlregelung zum sauberen Arbeiten
 - SDS-plus Werkzeugaufnahme, bis max. 26 mm Hammerbohren in Beton und bis 68 mm Bohr-Ø in Beton mit Hohlbohrkronen
 - Hohe Meißelabtragsleistung durch leistungsstarken 830-Watt-Motor und 2,7 J Schlagenergie
-- Der Bohrhammer GBH 2-26 F von Bosch Professional - ein schneller Allrounder für den täglichen Einsatz auf der Baustelle
 - Lieferumfang: GBH 2-26 F, Zusatzhandgriff, Tiefenanschlag, Maschinentuch, Schnellwechselbohrfutter, Wechselfutter SDS-plus, Handwerkerkoffer (3165140859202)
-- Vielseitige Anwendungsmöglichkeiten dank Drehstopp für Meißelarbeiten und elektronischer Drehzahlregelung zum sauberen Arbeiten
+- Der Bohrhammer GBH 2-26 F von Bosch Professional - ein schneller Allrounder für den täglichen Einsatz auf der Baustelle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
