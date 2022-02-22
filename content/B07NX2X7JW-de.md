@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Fruitpot hat einen fest schließenden Deckel und ist daher auslaufsicher.
-- Die mitgelieferte Edelstahlgabel ermöglicht Snacks unterwegs ohne die Hände waschen zu müssen
 - Das integrierte Abtropfsieb kann zum Abspülen von Obst, Gemüse und Früchten genutzt und zum Abtropfen in den Fruitpot gestellt werden .
-- Auch als Lunchpot oder Salatdose verwendbar für Salat, Müsli oder Joghurt to go.
-- Hochwertiger und langlebiger Kunststoff, BPA-frei und lebensmittelecht. Und wenn einmal ein Teil fehlt? Dann kann dies in aller Regel ganz einfach bei Mepal nachbestellt werden.
-- Der blaue Fruitpot Ellipse von Mepal ermöglicht es, einen abwechslungsreichen und gesunden Snack für unterwegs mitzunehmen.
 - Inhalt: 600 ml. Höhe: 12,7 cm. Durchmesser: 10,7 cm.
+- Hochwertiger und langlebiger Kunststoff, BPA-frei und lebensmittelecht. Und wenn einmal ein Teil fehlt? Dann kann dies in aller Regel ganz einfach bei Mepal nachbestellt werden.
+- Die mitgelieferte Edelstahlgabel ermöglicht Snacks unterwegs ohne die Hände waschen zu müssen
+- Die Fruitpot hat einen fest schließenden Deckel und ist daher auslaufsicher.
+- Auch als Lunchpot oder Salatdose verwendbar für Salat, Müsli oder Joghurt to go.
+- Der blaue Fruitpot Ellipse von Mepal ermöglicht es, einen abwechslungsreichen und gesunden Snack für unterwegs mitzunehmen.
 
 [🛒 Hier!!]({{< param buyurl >}})
