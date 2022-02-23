@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76179 DC Batman & Selina Kyle: Verfolgungsjagd auf dem Motorrad  Superhelden-Spielzeug mit Catwoman und einem im Dunkeln leuchtenden Bat-Signal'
-date: 2022-02-18 23:40:41
+date: 2022-02-23 11:33:24
 image: 'https://m.media-amazon.com/images/I/511FCDMwHFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNWD23B-de LEGO 76179 DC Batman & Selina Kyle: Verfolgungsjagd auf...'
 sku: 'B09BNWD23B-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego', ]
-actualPrice: 9.99 EUR
+actualPrice: 9.56 EUR
 currency: EUR
-price: 9.99
+price: 9.56
 comparePrice: 14.99 EUR
 prodname: 'LEGO 76179 DC Batman & Selina Kyle: Verfolgungsjagd auf dem Motorrad  Superhelden-Spielzeug mit Catwoman und einem im Dunkeln leuchtenden Bat-Signal'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWD23B/?tag=tolees0ca-21'
-descuento: '33.36'
-average: '9.99'
+descuento: '36.22'
+average: '9.775'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
