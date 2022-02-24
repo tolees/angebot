@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kräftige Noten von Kirschkuchen und Orangenschale gehen über in Créme Caramel und verkohlte Eiche
-- Goldener Bernstein, leicht ölig, üppiges Mundgefühl. Kräftige Kirsche und Orange bestätigen den ersten Schluck
 - Natürlich Eine gute gekühlt oder auf Eis servieren
+- Goldener Bernstein, leicht ölig, üppiges Mundgefühl. Kräftige Kirsche und Orange bestätigen den ersten Schluck
 - Gelegen an steilen Klippen überblickt die Oban Destillerie die Bucht zwischen den Highlands und den Inseln Schottlands
 - DIAGEO und HBO präsentieren eine von der Serie inspirierte limitierte Edition von Single Malts
+- Kräftige Noten von Kirschkuchen und Orangenschale gehen über in Créme Caramel und verkohlte Eiche
 
 [🛒 Hier!!]({{< param buyurl >}})

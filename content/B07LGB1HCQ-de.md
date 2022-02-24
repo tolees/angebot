@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die exklusive Reifung in First-Fill-Bourbonfässern verleiht dem Whisky seine atemberaubende hellgoldene Farbe. Im charakteristischen Duft des Lagavulin explodiert süßer Rauch mit etwas mehr maritimem Salz als bei den anderen Varianten
-- DIAGEO und HBO präsentieren eine von der Serie inspirierte limitierte Edition von Single Malts
-- Lagavulin ist legendär. Seit mehr als 200 Jahren entsteht er an den Ufern von Islay
-- Eine gute pur oder mit einem Tropfen Wasser servieren
 - Charakteristischer süßer Lagavulin-Rauch explodiert in der Nase mit einem Hauch mehr Salz als bei den anderen Varianten. Gebackene Banane, kräftige Vanille und geröstete Marshmallows verwandeln sich in trockenes, leicht gesalzenes Karamell.
+- Eine gute pur oder mit einem Tropfen Wasser servieren
+- Lagavulin ist legendär. Seit mehr als 200 Jahren entsteht er an den Ufern von Islay
+- DIAGEO und HBO präsentieren eine von der Serie inspirierte limitierte Edition von Single Malts
 
 [🛒 Hier!!]({{< param buyurl >}})

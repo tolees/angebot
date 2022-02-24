@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bratapfel und Backgewürze erfüllen die Nase, gefolgt von einer geschmeidigen Note von Nelkenkaramell, rotem Apfel und Nuss am Gaumen - milder Honig und ein Hauch von gerösteter Eiche runden das Aroma ab
 - Der Gold Reserve wird in handverlesenen Eichenfässern gereift - benannt nach seiner Farbe, die an Bernstein und antikes Gold erinnert / Den Scotch Eine gute gekühlt oder auf Eis servieren
 - Den Grundstein für die weltbekannte Cardhu Destillerie legten Helen Cumming und Ihre Schwiegertochter Elizabeth Cumming im 18. Jh. - eine Zeit, in der die Whiskyindustrie von Männern dominiert wurde
-- Das Ideale Geschenk für Whiskyliebhaber und Serienfans: Diageo und HBO präsentieren die exklusive Game of Thrones Limited Edition Collection, inspiriert durch die gefeierte TV Serie
 - Lieferumfang: 1 x 0,7 l Flasche Cardhu Gold Reserve Single Malt Scotch Whisky mit 40 Prozent Alkohol / Das Gold von Cardhu - die limitierte Fan-Edition inspiriert von Game of Thrones
+- Das Ideale Geschenk für Whiskyliebhaber und Serienfans: Diageo und HBO präsentieren die exklusive Game of Thrones Limited Edition Collection, inspiriert durch die gefeierte TV Serie
+- Bratapfel und Backgewürze erfüllen die Nase, gefolgt von einer geschmeidigen Note von Nelkenkaramell, rotem Apfel und Nuss am Gaumen - milder Honig und ein Hauch von gerösteter Eiche runden das Aroma ab
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
