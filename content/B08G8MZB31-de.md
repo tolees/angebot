@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für max. Komfort: Größe 160-190cm / Gewichtsbereich: 55-115kg. Die Gasdruckfeder Klasse 4 / Belastbarkeit bis 150 kg, für sehr lange Lebensdauer
 - Legierter Stahl Rahmen mit kaltgehärtetem Formschaum (2.2kg) für maximalen Komfort und Langlebigkeit.
+- Für max. Komfort: Größe 160-190cm / Gewichtsbereich: 55-115kg. Die Gasdruckfeder Klasse 4 / Belastbarkeit bis 150 kg, für sehr lange Lebensdauer
 - Wipp- und Feststellfunktion / Fusskreuz aus Nylonverstärkten Verbundstoff
-- Strapazierfähiger Stoffbezug mit farbigen PU-Leder Akzenten auf der Vorderseite
 - Verstellbare 3D-Armlehnen / Inklusive Kissenset
+- Strapazierfähiger Stoffbezug mit farbigen PU-Leder Akzenten auf der Vorderseite
 
 [🛒 Hier!!]({{< param buyurl >}})
