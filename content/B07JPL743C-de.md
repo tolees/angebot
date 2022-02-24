@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferung ohne Lebensmittel
 - Korpus Harz thermoplastisch, Band Silikon
-- Set bestehend aus: 3 tiefe Behälter; 1 flacher Deckel als Teller
 - Fassungsvermögen 1,25 Liter
+- Set bestehend aus: 3 tiefe Behälter; 1 flacher Deckel als Teller
 - 19 x 10 cm, h 13,5 cm
 
 [🛒 Hier!!]({{< param buyurl >}})

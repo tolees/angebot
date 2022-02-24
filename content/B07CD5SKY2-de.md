@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Bast gebunden Schnur und eine Schaukel Tag
-- Spülmaschinenfest
 - 28 cm breit
+- Mit Bast gebunden Schnur und eine Schaukel Tag
 - Mikrowellengeeignet
+- Spülmaschinenfest
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
