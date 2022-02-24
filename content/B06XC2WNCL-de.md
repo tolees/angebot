@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Profi Bürostuhl mit ergonomisch geformter Rückenlehne und integrierter Lordosenstütze für die optimale Sitzhaltung
 - Durch die Sitzhöhen- und Sitztiefenverstellung sowie die höhenverstellbaren Armlehnen und Kopfstütze kann der Stuhl individuell auf den Nutzer eingestellt werden
-- Abmessungen (H x B x T): 131 x 65 x 53 cm; Belastbar bis: 120 kg; weitere Angaben bitte der Artikelbeschreibung entnehmen
-- Die breite Sitzfläche sowie die Rückenlehne sind bequem gepolstert; Sitz- und Rückenfläche sind mit hochwertigem Leder bezogen
 - Die Synchronmechanik passt sich automatisch an das Gewicht des Nutzers an und kann in 3 Stufen festgestellt werden
+- Abmessungen (H x B x T): 131 x 65 x 53 cm; Belastbar bis: 120 kg; weitere Angaben bitte der Artikelbeschreibung entnehmen
+- Profi Bürostuhl mit ergonomisch geformter Rückenlehne und integrierter Lordosenstütze für die optimale Sitzhaltung
+- Die breite Sitzfläche sowie die Rückenlehne sind bequem gepolstert; Sitz- und Rückenfläche sind mit hochwertigem Leder bezogen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
