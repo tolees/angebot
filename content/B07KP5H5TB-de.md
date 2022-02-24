@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jacke und Hose mit zwei Seitentaschen
 - Gerippter Saum und Bündchen
-- Reguläre Passform
 - Climalite-technologie leitet Feuchtigkeit ab
+- Reguläre Passform
 - Polyester aus recyceltem Kunststoff
+- Jacke und Hose mit zwei Seitentaschen
 
 [🛒 Hier!!]({{< param buyurl >}})
