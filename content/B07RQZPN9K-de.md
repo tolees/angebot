@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Revell Control 24465 Mercedes X-Class 1:18 RC Einsteiger Modellauto Elektro Gelaendewagen
 - Inhalt: 1 Stück
+- Revell Control 24465 Mercedes X-Class 1:18 RC Einsteiger Modellauto Elektro Gelaendewagen
 
 [🛒 Hier!!]({{< param buyurl >}})
