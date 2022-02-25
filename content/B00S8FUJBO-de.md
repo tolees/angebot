@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hoher Arbeitsfortschritt durch kraftvollen 1.700-Watt-Motor mit Constant-Electronic
-- Handhabung durch schlankes Gehäuse mit Softgrip-Oberfläche für sicheren Halt
-- Lange Lebensdauer durch Motoren mit direkter Motorkühlung, Überlastschutz und langer Kohlebürstenstandzeit
-- Führender Anwenderschutz durch KickBack Stop, Wiederanlaufschutz, verdrehsichere Schutzhaube und Reduzierung von Vibrationen
 - Lieferumfang: GWS 17-125 CIE, Aufnahmeflansch, Schutzhaube, Spannmutter, Zusatzhandgriff Vibration Control, Zweilochschlüssel, Handwerkerkoffer (3165140820462)
+- Führender Anwenderschutz durch KickBack Stop, Wiederanlaufschutz, verdrehsichere Schutzhaube und Reduzierung von Vibrationen
+- Lange Lebensdauer durch Motoren mit direkter Motorkühlung, Überlastschutz und langer Kohlebürstenstandzeit
+- Handhabung durch schlankes Gehäuse mit Softgrip-Oberfläche für sicheren Halt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
