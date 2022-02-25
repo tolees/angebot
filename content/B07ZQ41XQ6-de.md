@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kostenloser lokaler Kundendienst und 12 Monate Garantie.
-- Es wird empfohlen, den Staubbeutel alle 6-8 Wochen auszutauschen.
 - Wenn der Staubbeutel voll ist, ersetzen Sie ihn durch einen neuen, wenn die Kontrollleuchte des Staubsammlers gelb blinkt.
 - Proscenic automatische Absaugstation für M7 PRO
+- Es wird empfohlen, den Staubbeutel alle 6-8 Wochen auszutauschen.
 - automatische Absaugstation für M7 PRO
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

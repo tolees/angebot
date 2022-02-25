@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Zum Spielen dieser Erweiterung wird ein Grundspiel von Blood Rage benötigt
 - 2-4 Spieler | Ab 14+ Jahren | Bis zu 90+ Minuten Spielzeit je Partie | Spiel in Deutsch
-- Mit der Erweiterung "Die Götter Asgards" für das kompetitive Strategiespiel Blood Rage betreten die Götter Odin, Thor, Tyr, Frigga, Loki und Heimdall das Spielbrett
 - Bei dem Expertenspiel Blood Rage, führt jeder Spieler seinen Clan in siegreiche Schlachten in der Welt der nordischen Mythologie. Nur der beste Clan sichert sich einen Platz in Walhalla
+- Mit der Erweiterung "Die Götter Asgards" für das kompetitive Strategiespiel Blood Rage betreten die Götter Odin, Thor, Tyr, Frigga, Loki und Heimdall das Spielbrett
 - Zu Spielbeginn werden zwei Gottheiten zufällig ausgesucht und auf dem Spielbrett platziert. Sie beeinflussen während des Spiels das Gebiet, in dem sie sich befinden
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Collection: Evergreen
-- Model: Revend Skinny
-- Pattern: Einfarbig
 - Casual
-- Länge: Knöchellang
-- Die Revend Skinny ist eine ikonische Skinny Fit Denim-Jeans Die Herrenhose kann zu jeder Gelegenheit getragen werden, da sie ein zeitloses Design hat
 - Fit: Slim
+- Länge: Knöchellang
+- Collection: Evergreen
+- Pattern: Einfarbig
+- Model: Revend Skinny
+- Die Revend Skinny ist eine ikonische Skinny Fit Denim-Jeans Die Herrenhose kann zu jeder Gelegenheit getragen werden, da sie ein zeitloses Design hat
 
 [🛒 Hier!!]({{< param buyurl >}})

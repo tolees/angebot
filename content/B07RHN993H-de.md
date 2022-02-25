@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marineblau, nur 87 g leicht
-- Bis zu 1050 MB/s Lesen; 950 MB/s Schreiben
-- inklusive USB Typ C auf USB Typ A/USB Typ C auf USB Typ C Kabel
 - USB 3.1 Gen 2 Schnittstelle mit Unterstützung von UASP (USB Attached SCSI Protokoll)
+- inklusive USB Typ C auf USB Typ A/USB Typ C auf USB Typ C Kabel
+- Bis zu 1050 MB/s Lesen; 950 MB/s Schreiben
+- Marineblau, nur 87 g leicht
 
 [🛒 Hier!!]({{< param buyurl >}})
