@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10960 DUPLO Belles Ballsaal  Die Schöne und das Biest  Schloss und Prinzessinnen-Spielzeug für Kleinkinder ab 2 Jahren  kreative Geschenkidee'
-date: 2022-02-25 00:10:02
+date: 2022-02-26 10:35:26
 image: 'https://m.media-amazon.com/images/I/51AacCochfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVZMTX/?tag=tolees0ca-21'
 descuento: '33.62'
-average: '13.28875'
+average: '13.2866666666667'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
