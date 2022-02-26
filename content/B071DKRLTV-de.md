@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 90% Baumwolle, 10% Seide
-- Regular fit
 - Enthält Seide
 - Crew neck
+- Materialzusammensetzung: 90% Baumwolle, 10% Seide
+- Regular fit
 
 [🛒 Hier!!]({{< param buyurl >}})

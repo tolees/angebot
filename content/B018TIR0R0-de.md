@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassische Passform und mittlere Bundhöhe
-- Zwei Einschubtaschen und eine Gesäßtasche
-- Leitet Feuchtigkeit wirksam nach außen
 - Doppelte Gürtelschlaufen hinten
 - Aus strapazierfähigem, schnell trocknendem G-1000 Lite
+- Zwei Einschubtaschen und eine Gesäßtasche
+- Leitet Feuchtigkeit wirksam nach außen
+- Klassische Passform und mittlere Bundhöhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

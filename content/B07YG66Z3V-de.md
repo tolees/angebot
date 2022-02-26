@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kaffeemomente: Mit seinem feinen Geschmack und dem vollen Aroma begeistert der lösliche Bohnenkaffee Kaffeeliebhaber immer wieder auf´s Neue
 - Lieferumfang: 1 x 100g GOLD Original, löslicher Bohnenkaffee von NESCAFÉ
 - Das Aroma bleibt: Veredelt mit gebürstetem Gold, bewahrt das Schraubglas den Geschmack und die Qualität des Kaffeepulvers bis zum letzten Löffel
-- Kaffeemomente: Mit seinem feinen Geschmack und dem vollen Aroma begeistert der lösliche Bohnenkaffee Kaffeeliebhaber immer wieder auf´s Neue
 - Zubereitung: 1 - 2 Teelöffel mit 150 ml heißem, nicht kochendem Wasser aufgießen, umrühren und genießen
 
 [🛒 Hier!!]({{< param buyurl >}})

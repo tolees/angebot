@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehr wasserdicht, winddicht
 - Sehr atmungsaktiv
+- Sehr wasserdicht, winddicht
+- Warm gefüttert
 - Winterwanderjacke, mit Kapuze
 - Pfc-frei, bluesign-zertifiziert
-- Warm gefüttert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

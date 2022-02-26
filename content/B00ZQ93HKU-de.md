@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Eau de Cologne für Frauen
 - Marke Azzaro
 - Marke Beauty-Produkte
-- Eau de Cologne für Frauen
 
 [🛒 Hier!!]({{< param buyurl >}})

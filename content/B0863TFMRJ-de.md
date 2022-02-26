@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Das Escape Room Spiel für zu Hause
 - Ideal als Partyspiel, Eventspiel und als Geburtstagsgeschenk
-- Escape Room Spiel im Level: Einsteiger
-- Da die Materialien für die außergewöhnlichen Rätsel verändert werden, nur einmal spielbar
 - Für Erwachsene, Familien und Fans von Live Escape Rooms ab 10 Jahren
+- Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Das Escape Room Spiel für zu Hause
+- Escape Room Spiel im Level: Einsteiger
 - 1–4 Spieler lösen im Team knifflige Rätsel, um den Weg aus dem verfluchten Labyrinth zu finden
+- Da die Materialien für die außergewöhnlichen Rätsel verändert werden, nur einmal spielbar
 
 [🛒 Hier!!]({{< param buyurl >}})

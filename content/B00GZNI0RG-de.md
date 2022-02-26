@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Professional 12V System. Kompakte Leistung. Maximale Freiheit. Alle Akkus sind mit neuen und existierenden Bosch Professional Geräten in dergleichen Voltklasse kompatibel.
 - Komfortables Arbeiten durch kompakte Bauform, ergonomisches Design und integrierte LED Beleuchtung
 - Vielfältige professionelle Anwendungsmöglichkeiten wie Schneiden, Schleifen, Fräsen, Polieren und Bohren, besonders an schwer zugänglichen Stellen
 - Leistungsstarker Motor mit hoher Drehzahl (bis zu 35.000 min-1) für schnellen Arbeitsfortschritt
+- Professional 12V System. Kompakte Leistung. Maximale Freiheit. Alle Akkus sind mit neuen und existierenden Bosch Professional Geräten in dergleichen Voltklasse kompatibel.
 - Lieferumfang: GRO 10, 8 V-LI, 2 x 2, 0 Ah Akku, Schnellladegerät , Zubehör 6-tlg., L-Boxx Gr.1
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

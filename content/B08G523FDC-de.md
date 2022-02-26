@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Poly
-- 8932383000
 - schwarz
+- Poly
 - Poly Ohrpolster Schwarz für Voyager 8200 UC
+- 8932383000
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spieldauer: 45 MInuten
 - Alter: ab 10 Jahre
-- Da diese Erweiterung die Geschichte von Longsdale in Aufruhr fortsetzt und dafür auf Karten aus der ersten Erweiterung zurückgreift, ist nicht nur das Basisspiel Oh my Goods!, sondern auch die Erweiterung Longsdale in Aufruhr zwingend zum Spielen notwendig!
-- Spieleranzahl: 1 - 4 Spieler
+- Spieldauer: 45 MInuten
 - Erweiterung für das Grundspiel "Oh my Goods!"
+- Spieleranzahl: 1 - 4 Spieler
+- Da diese Erweiterung die Geschichte von Longsdale in Aufruhr fortsetzt und dafür auf Karten aus der ersten Erweiterung zurückgreift, ist nicht nur das Basisspiel Oh my Goods!, sondern auch die Erweiterung Longsdale in Aufruhr zwingend zum Spielen notwendig!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

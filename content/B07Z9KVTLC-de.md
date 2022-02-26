@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Need for Speed Heat PC USK: 12
 - Inhalt: 1 Stück
+- Need for Speed Heat PC USK: 12
 
 [🛒 Hier!!]({{< param buyurl >}})
