@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 50 kg Tragkraft
 - Packungsgewicht: 8.5 kg
+- 50 kg Tragkraft
 - Packung die Größe: 40.39 L x 79.25 H x 43.69 W (cm)
 - Inkl. Anhänger
 
