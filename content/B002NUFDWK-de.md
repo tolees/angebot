@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Braten und direkt aus der Pfanne servieren, da ist die RIESS Holzknechtpfanne ein guter Tipp und sorgt für gute Laune am Tisch
+- Die Holzknechtpfanne der Marke Riess ist rund und hat einen Innendurchmesser von 24cm und einen Bodendurchmesser von 17cm
+- Der Werkstoff Emaille besteht aus Eisen, das bei hohen Temperaturen mit Glas verschmolzen wurde, also aus natürlichen Rohstoffen. So wird hier die Wärme schnell geleitet und gespeichert
 - Die Holzknechtpfanne ist nicht nur sehr praktisch in der Küche sondern auch ein echter Hingucker. Sie ist Schwarz und hat einen Holzgriff. Sie kann durch den Messingring am Stiel auch an die Wand gebracht werden
 - Die Holzknechtpfanne eignet sich nicht nur für klassische Eiergerichte. Als Servierpfanne in den kleinen Größen ist sie ein Blickfang um allerlei Gerichte am Tisch in Szene zu setzen
-- Der Werkstoff Emaille besteht aus Eisen, das bei hohen Temperaturen mit Glas verschmolzen wurde, also aus natürlichen Rohstoffen. So wird hier die Wärme schnell geleitet und gespeichert
-- Die Holzknechtpfanne der Marke Riess ist rund und hat einen Innendurchmesser von 24cm und einen Bodendurchmesser von 17cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
