@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Bosch Hochdruckreiniger UniversalAquatak 125  2 x Düse  transparenter Wasserfilter  Hochdruckpistole  5 m Schlauch  5 m Kabel  Karton  1500 Watt  Druck: 125 bar  max. Fördermenge: 360 l/h '
-date: 2020-04-07 13:30:31
-image: 'https://m.media-amazon.com/images/I/41hnw-mWfmL._SL400_.jpg'
+title: 'Bosch Home and Garden - Bosch Hochdruckreiniger UniversalAquatak 125  3-in-1-Düse  Schaumdüse  transparenter Wasserfilter  Hochdruckpistole  5 m Schlauch  5 m Kabel  1500 Watt  Druck: 125 bar  max. Fördermenge: 360 l/h '
+date: 2022-02-28 06:08:56
+image: 'https://m.media-amazon.com/images/I/51winq1AUtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B06XQJMZFK-de Bosch Hochdruckreiniger UniversalAquatak 125 2 x Düse...'
+slug: 'B06XQJMZFK-de Bosch Home and Garden - Bosch Hochdruckreiniger...'
 sku: 'B06XQJMZFK-de'
-tags: [  ]
-actualPrice: 69.99 EUR
+tags: [ 'Baumarkt','Elektrische Gartenwerkzeuge','Elektro- & Handwerkzeuge','Garten','Hochdruckreiniger','Rasenmäher & Elektrische Gartenwerkzeuge','Zubehör für Elektrowerkzeuge','bosch home and garden', ]
+actualPrice: 99.99 EUR
 currency: EUR
-price: 69.99
+price: 99.99
 comparePrice: 159.99 EUR
-prodname: 'Bosch Hochdruckreiniger UniversalAquatak 125  2 x Düse  transparenter Wasserfilter  Hochdruckpistole  5 m Schlauch  5 m Kabel  Karton  1500 Watt  Druck: 125 bar  max. Fördermenge: 360 l/h '
+prodname: 'Bosch Home and Garden - Bosch Hochdruckreiniger UniversalAquatak 125  3-in-1-Düse  Schaumdüse  transparenter Wasserfilter  Hochdruckpistole  5 m Schlauch  5 m Kabel  1500 Watt  Druck: 125 bar  max. Fördermenge: 360 l/h '
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.de/dp/B06XQJMZFK/?tag=tolees0ca-21'
-descuento: '56.25'
-average: '89.7425'
+descuento: '37.50'
+average: '91.792'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,5 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kompakte Lagerung. Griff klappbar und ausziehbar (40 % weniger Platzverbrauch bei Lagerung) und Zubehör wird im Gerät aufbewahrt.
+- Hochdruckreinigungsdüse.
+- Neue 3-in-1-Düse (gerader Strahl, fächerförmig und rotierend).
+- Einfache Montage dank Schnellanschlüssen.
+- Auto-Saugfunktion: ermöglicht Verwendung von Wasser aus Regentonnen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
