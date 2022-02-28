@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Target can be swiveled sideways, with 3x magnification, internal surface optimized for a clear image and flicker-free
+- Handle with structure made of chrome alloy / high-quality plastic,shockproof, robust, lies securely in the hand
 - Including fastening clip with on / off switch, automatic switch-off when you hold on, bag
 - All otoscopi are included with 5 speculum Ø 4 mm and 5 Ø 2.5 mm
-- Handle with structure made of chrome alloy / high-quality plastic,shockproof, robust, lies securely in the hand
+- Target can be swiveled sideways, with 3x magnification, internal surface optimized for a clear image and flicker-free
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Maße: Maße: 11,11cm x 2,22cm
+- Schleifstein von DTM dient als Schärfewerkezug
+- Konstruktion: Passend für DMT Aligner Messerschleifsets
 - Hierbei Handelt es sich um ein Qualitätsprodukt der Marke DTM
 - Körnung: Hellbraun, extra feines Korn
-- Schleifstein von DTM dient als Schärfewerkezug
-- Maße: Maße: 11,11cm x 2,22cm
-- Konstruktion: Passend für DMT Aligner Messerschleifsets
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

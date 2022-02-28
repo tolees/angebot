@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IDEAL FÜR DEN SERVICEBEREICH: Das digitale PeakTech 4350 ist ein Durchgangsprüfer, der Funktionen zur Messung von Strom, Kapazität, Widerstand, Frequenz sowie von Spannung bis 600 AC/DC bietet
 - LCD-ANZEIGE: Die berührungslose Strommesszange verfügt über einen 3 4/5 stelligen LCD-Screen mit 27 mm großen Ziffern und ein beleuchtetes Display. Messstellenbeleuchtung durch schaltbare LED-Leuchte
-- INFO: Sicherheit: EN 61010-1, CAT III 600 V; Abschaltautomatik. Zubehör: Tasche, Prüfleitungen, Typ-K Thermodrahtfühler, Batterie (9V) und Bedienungsanleitung. Maße: 70 x 210 x 37 mm; Gewicht: 200g
-- MESSBEREICH: Die moderne Strommesszange ist für kleine Leitungsdurchmesser bis zu 12 mm, Kriechströme bis zu 5 A in hochpräziser Auflösung von 1 mA, sowie Ströme bis 80 A bei 100 mA Auflösung ausgelegt
 - MIN/ MAX-TASTE UND REL-TASTE: Das Strommessgerät verfügt über Funktionstasten für Minimal- und Maximalwertanzeigen. Die REL-Taste nimmt eine Speicherung des angezeigten Messwertes als Referenzwert vor
+- MESSBEREICH: Die moderne Strommesszange ist für kleine Leitungsdurchmesser bis zu 12 mm, Kriechströme bis zu 5 A in hochpräziser Auflösung von 1 mA, sowie Ströme bis 80 A bei 100 mA Auflösung ausgelegt
+- INFO: Sicherheit: EN 61010-1, CAT III 600 V; Abschaltautomatik. Zubehör: Tasche, Prüfleitungen, Typ-K Thermodrahtfühler, Batterie (9V) und Bedienungsanleitung. Maße: 70 x 210 x 37 mm; Gewicht: 200g
+- IDEAL FÜR DEN SERVICEBEREICH: Das digitale PeakTech 4350 ist ein Durchgangsprüfer, der Funktionen zur Messung von Strom, Kapazität, Widerstand, Frequenz sowie von Spannung bis 600 AC/DC bietet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

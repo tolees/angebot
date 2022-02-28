@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Switch-Erkennung - zeigt Netzwerk-Switch-Geschwindigkeiten bis zu 10 G an.
 - PoE-Verifizierung - Erkennt die Klasse (0-8) von 802.3at-, .3AF- und .3BT-Geräten und Spannung des verfügbaren PoE über den angeschlossenen Schalter.
-- MicroScanner PoE mit Tragetasche.
 - Zeigt Kabellänge, Drahtplan, Kabel-ID und Fehlerabstand an.
+- Switch-Erkennung - zeigt Netzwerk-Switch-Geschwindigkeiten bis zu 10 G an.
+- MicroScanner PoE mit Tragetasche.
 - Finden und verfolgen Sie mit dem IntelliTone digitalen und analogen Toning Kabel oder Drahtpaare (IntelliTone Sonde separat erhältlich).
 
 [🛒 Hier!!]({{< param buyurl >}})

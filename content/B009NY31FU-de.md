@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Große Fühlerauswahl optional
+- Großer Messbereich von -50 °C bis 1 000 °C
 - Temperaturmessung und Anzeige der Differenztemperatur
 - Zwei Temperaturfühler (Typ K) anschließbar, zusätzliche Verbindung mit einem optionalen Funk-Temperaturfühler möglich
-- Großer Messbereich von -50 °C bis 1 000 °C
-- Große Fühlerauswahl optional
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- verstellbarer Toleranzmarker und Außenringarretierung
 - langlebige Edelsteinlager
 - Ösenrückwand
+- verstellbarer Toleranzmarker und Außenringarretierung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DECCA - The Rolling Stones Rock and Roll Circus  Ltd Dlx '
-date: 2022-02-27 21:59:09
+date: 2022-02-28 22:12:53
 image: 'https://m.media-amazon.com/images/I/61-UvcwUhZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Box-Set','DVD & Blu-ray','Featured Categories','Musik','Musik Kategorie
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
-comparePrice: 32.5 EUR
+comparePrice: 30.95 EUR
 prodname: 'DECCA - The Rolling Stones Rock and Roll Circus  Ltd Dlx '
 country: 'de'
 flag: '🇩🇪'
 brand: 'DECCA'
 buyurl: 'https://www.amazon.de/dp/B07PZYLF6Y/?tag=tolees0ca-21'
-descuento: '38.49'
+descuento: '35.41'
 average: '19.99'
 ---
 

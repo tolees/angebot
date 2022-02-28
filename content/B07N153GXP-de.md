@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normaler Bund
 - Fünf Pocket-Style
+- Normaler Bund
 
 [🛒 Hier!!]({{< param buyurl >}})
