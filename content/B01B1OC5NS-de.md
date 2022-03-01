@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Folds easily and weighs just 10.2 kg
 - Four height adjustable legs and breathable mesh back
-- Strong and lightweight aluminium frame
 - Features two storage compartments with shelves
 - Large outdoor camping kitchen
+- Folds easily and weighs just 10.2 kg
+- Strong and lightweight aluminium frame
 
 [🛒 Hier!!]({{< param buyurl >}})

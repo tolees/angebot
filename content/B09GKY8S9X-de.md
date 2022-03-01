@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kamera für die Windows Hello-Authentifizierung per Gesichtserkennung (vorne), 5-MP-Frontkamera für Full-HD-Videoaufnahmen und -Videotelefonie (1080p), 8,0-MP-Rückkamera mit Autofokus für Full-HD-Videoaufnahmen (1080p)
 - Bis zu 15 Stunden Akkulaufzeit. Führen Sie schneller Ladevorgänge durch – von 5 % auf 80 % in etwas weniger als einer Stunde.
+- Surface Pro 7+ kombiniert die Leistung eines Laptops mit der Flexibilität eines Tablets. Dank einem Intel Core-Prozessor der 11. Generation liefert es eine verbesserte Grafik und ist es schneller als Surface Pro 7
 - Schlankes Design und geringes Gewicht ohne Kompromisse. Mit USB-C- und USB-A verbinden Sie externe Displays, Dockingstationen und andere Geräte.
 - Sie möchten mehr Speicher? Mit Micro-SD Karten können sie bei Bedarf jederzeit mehr Speicher hinzufügen.
-- Surface Pro 7+ kombiniert die Leistung eines Laptops mit der Flexibilität eines Tablets. Dank einem Intel Core-Prozessor der 11. Generation liefert es eine verbesserte Grafik und ist es schneller als Surface Pro 7
+- Kamera für die Windows Hello-Authentifizierung per Gesichtserkennung (vorne), 5-MP-Frontkamera für Full-HD-Videoaufnahmen und -Videotelefonie (1080p), 8,0-MP-Rückkamera mit Autofokus für Full-HD-Videoaufnahmen (1080p)
 
 [🛒 Hier!!]({{< param buyurl >}})
