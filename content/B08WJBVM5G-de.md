@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Warmhaltefunktion: Warmhaltefunktion für bis zu 30 Min. ideale Temperatur
-- 1,2kg Fassungsvermögen: Für bis zu fünf Portionen perfekt für Familienmahlzeiten
-- Lieferumfang: Essential Airfryer HD9270/90, Bedienungsanleitung
+- 7 Voreinstellungen: Für tiefgekühlte Snacks, frische Pommes Frites, Fleisch, Fisch, Hähnchenschenkel, Kuchen & gegrilltes Gemüse
 - Schnelle & gesunde Zubereitung: Schnellere Zubereitung im Vergleich zum Backofen und ohne Vorheizzeit
 - Rapid Air Technologie: Knusprige Pommes mit bis zu 90% weniger Öl*
 - NutriU App: Mit zahlreichen Rezeptideen für den Airfryer
-- 7 Voreinstellungen: Für tiefgekühlte Snacks, frische Pommes Frites, Fleisch, Fisch, Hähnchenschenkel, Kuchen & gegrilltes Gemüse
+- Warmhaltefunktion: Warmhaltefunktion für bis zu 30 Min. ideale Temperatur
+- Lieferumfang: Essential Airfryer HD9270/90, Bedienungsanleitung
+- 1,2kg Fassungsvermögen: Für bis zu fünf Portionen perfekt für Familienmahlzeiten
 
 [🛒 Hier!!]({{< param buyurl >}})
