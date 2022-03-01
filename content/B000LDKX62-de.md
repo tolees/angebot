@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Automatische Messung von Gleich- und Wechselspannung mit hoher Auflösung und klarer Digitalanzeige
 - Einfache und genaue Wechselstrommessung mit feststehender Gabel (OpenJaw)
 - Anzeige von Widerständen bis 1000 Ω
+- Automatische Messung von Gleich- und Wechselspannung mit hoher Auflösung und klarer Digitalanzeige
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

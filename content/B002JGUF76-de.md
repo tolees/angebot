@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Geschmiedete und gehärtete Stahlköpfe mit glattem schwarzem Emaille-Finish
 - Satin Chrome Finish Blade
 - Gehärteter Stahl, maschinell geteilte Klinge
-- Geschmiedete und gehärtete Stahlköpfe mit glattem schwarzem Emaille-Finish
 - Reversible Lock Bolt, Scriber, Wasserwaage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

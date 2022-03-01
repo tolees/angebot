@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Diese Wasserwaagen besitzen geschliffene und skalierte Libellen.
-- Mit Hilfe der Libelle kann man gleichzeitig in beiden Richtungen nivellieren So lassen sich Ungenauigkeiten beim Ablesen der großen Libelle vermeiden, die durch leicht seitliches Anlegen der Wasserwaage an runden Werkstücken entstehen können
-- Diese Libellen lassen sich in eine positive Ausrichtung justieren und sind in einem gebürsteten Messingrohr mit Schutzabdeckung untergebracht.
 - Die großen Libellen an den 150mm- bis die etwa 0,42mm pro Meter oder 80-90 Sekunden entsprechen Auf jeder Seite der Luftblase befi nden sich je nach Länge der Sohle fünf, sechs oder sieben Striche
+- Diese Libellen lassen sich in eine positive Ausrichtung justieren und sind in einem gebürsteten Messingrohr mit Schutzabdeckung untergebracht.
 - Die Sohle der Wasserwaagen weist über ihre gesamte Länge hinweg eine evolventenförmige Einkerbung auf, so dass sich die Wasserwaagen problemlos auf runde Werkstücke wie Rohre oder Wellen aufsetzen lassen.
+- Mit Hilfe der Libelle kann man gleichzeitig in beiden Richtungen nivellieren So lassen sich Ungenauigkeiten beim Ablesen der großen Libelle vermeiden, die durch leicht seitliches Anlegen der Wasserwaage an runden Werkstücken entstehen können
+- Diese Wasserwaagen besitzen geschliffene und skalierte Libellen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
