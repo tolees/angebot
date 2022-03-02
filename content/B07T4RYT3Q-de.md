@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Man muss den Pümpel so oft betätigen, wie es der Würfel anzeigt
-- Sobald Mister Kacka aus der Toilette fliegt, muss man der erste Spieler sein, der ihn fängt. Fängt man ihn IN DER LUFT, erhält man zwei Chips
 - Riesenspaß und viel Gelächter für einen Spieleabend mit 2 bis 4 Spielern ab 5 Jahren
-- Mit Kacka-Alarm ist viel Gelächter und Riesenspaß vorprogrammiert
+- Man muss den Pümpel so oft betätigen, wie es der Würfel anzeigt
 - Der Spieler mit den meisten Chips gewinnt
+- Sobald Mister Kacka aus der Toilette fliegt, muss man der erste Spieler sein, der ihn fängt. Fängt man ihn IN DER LUFT, erhält man zwei Chips
+- Mit Kacka-Alarm ist viel Gelächter und Riesenspaß vorprogrammiert
 
 [🛒 Hier!!]({{< param buyurl >}})

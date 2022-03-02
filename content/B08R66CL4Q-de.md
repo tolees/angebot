@@ -32,8 +32,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Pictionary Air klein gegen GROSS ist ein tolles Spiel für die ganze Familie
 - Noch lustiger wird es, wenn das Spiel zuhause mit Apple TV, Chromecast oder einem kompatiblen streaming-fähigen Gerät auf den Fernseher übertragen wird Dafür ist ein kompatibles streaming-fähiges Gerät erforderlich Die Gerätekompatibilität kann auf der Hilfeseite von Pictionary Air geprüft werden
 - ​Mit Pictionary Air kommt Bewegung in das klassische Mal-Spiel​​​
-- Abwechselnd zeichnet ihr Begriffe in die Luft, während eure Teammitglieder die Bilder zu erraten versuchen, die auf dem Bildschirm erscheinen Das Team mit den meisten Punkten gewinnt
-- In dieser besonderen Version können auch jüngere Kinder in die Luft malen und das Bild auf dem Bildschirm sehen Die speziellen Hinweise für Kinder enthalten Illustrationen
 - Einfach die kostenlose Pictionary Air App herunterladen und nach dem Öffnen der App die Kamera auf den zeichnenden Spieler richten, der dann zusammen mit seiner Zeichnung auf dem Bildschirm zu sehen ist
+- In dieser besonderen Version können auch jüngere Kinder in die Luft malen und das Bild auf dem Bildschirm sehen Die speziellen Hinweise für Kinder enthalten Illustrationen
+- Abwechselnd zeichnet ihr Begriffe in die Luft, während eure Teammitglieder die Bilder zu erraten versuchen, die auf dem Bildschirm erscheinen Das Team mit den meisten Punkten gewinnt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

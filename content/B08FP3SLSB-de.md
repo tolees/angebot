@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unterstützt die vorausgefüllte Steuererklärung (VaSt) automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
-- Wiso steuer-start 2021 für die Einkommensteuer-Erklärung 2020 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2020
-- Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
-- Die Alternative zu ElsterFormular – einfach gut und günstig
 - Für Arbeitnehmer mit Einkünften aus nichtselbstständiger Tätigkeit wahlweise: amtlich anerkannter Ausdruck der Formulare Kostenloser Telefonsupport
 - Mantelbogen, Anlage N, Anlage Kind Steuer-Tipps auch als Video Musterbriefe für Kontakt mit dem Finanzamt Upgradefähig auf WISO Steuer-Sparbuch 2021
+- Systemvoraussetzungen: Windows 8.1/10, Internet-Zugang
+- Wiso steuer-start 2021 für die Einkommensteuer-Erklärung 2020 ELSTER zur elektronischen Übermittlung Anzeige der Erstattung oder Nachzahlung Kostenfreie Updates für das Steuerjahr 2020
+- Die Alternative zu ElsterFormular – einfach gut und günstig
+- Unterstützt die vorausgefüllte Steuererklärung (VaSt) automatische Plausibilitäts- und Fehlerprüfung Exakte Berechnung von Erstattung oder Nachzahlung
 
 [🛒 Hier!!]({{< param buyurl >}})
