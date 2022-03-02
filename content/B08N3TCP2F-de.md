@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mehr Bücher an mehr Orten – Speichern Sie Tausende Bücher und nehmen Sie sie überallhin mit. Ein einziges Aufladen über USB-C reicht für Wochen, nicht nur Stunden.
+- Wasserfest (IPX8), sodass Sie am Strand, am Pool oder in der Badewanne lesen und entspannen können. Labortests haben bestätigt, dass Ihr Kindle dem versehentlichen Eintauchen in Wasser standhalten kann.
 - Der neue Kindle Paperwhite – Jetzt mit 6,8-Zoll-Display (17,3 cm) und dünnerem Rahmen, verstellbarer Farbtemperatur, bis zu 10 Wochen Akkulaufzeit und 20 % schnellerem Umblättern als bei der vorherigen Generation.
 - Beim Kauf eines Kindle Paperwhite erhalten Sie 3 Monate Kindle Unlimited ohne zusätzliche Kosten. Genießen Sie unbegrenzten Zugriff auf Millionen von eBooks, ausgewählte eMagazin-Abos und Tausende von Hörbüchern überall und jederzeit.
 - Augenschonend – Jetzt mit verstellbarer Display-Farbtemperatur von Weiß bis Bernstein.
-- Mehr Bücher an mehr Orten – Speichern Sie Tausende Bücher und nehmen Sie sie überallhin mit. Ein einziges Aufladen über USB-C reicht für Wochen, nicht nur Stunden.
-- Wasserfest (IPX8), sodass Sie am Strand, am Pool oder in der Badewanne lesen und entspannen können. Labortests haben bestätigt, dass Ihr Kindle dem versehentlichen Eintauchen in Wasser standhalten kann.
 - Eigens für das Lesen entwickelt – Mit frontbündigem Design und einem 300 ppi-Display ohne Spiegeleffekte für das Lesen wie auf echtem Papier, sogar in hellem Sonnenlicht.
 - Ganz ohne Hände – Mit einem Audible-Abo und Bluetooth-Kopfhörern oder -Lautsprechern können Sie Ihre Geschichten einfach anhören.
 

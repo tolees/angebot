@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibilität: Kompatibel mit iOS 12.2 oder höher & Android OS 7.0 oder höher
-- Aktivzonenminuten: Diese Funktion zeigt Ihnen Ihre aktuelle Herzfrequenzzone, damit sie wissen, ob sie effektiv auf Ihre Ziele hintrainieren.
-- Musikplayer & -speicher: Auf der Versa 3 können Sie Musik und Podcasts speichern und abspielen, die Spotify-Wiedergabe auf verbundenen Geräten steuern und Deezer-Playlists laden. Abonnements für Musikstreaming-Dienste erforderlich, nicht in allen Ländern verfügbar.
+- Akkulaufzeit: 6+ Tage Akkulaufzeit & Schnellladefunktion
 - Integriertes GPS: Wenn es Sie zum Trainieren ins Freie zieht, zeigt Ihnen Ihre Smartwatch dank integriertem GPS auch ohne verbundenes Smartphone Tempo und Strecke an. In der Fitbit-App können Sie sich auf der Trainingsintensitäts-Karte Ihre Strecke und Herzfrequenzzonen ansehen.
+- Aktivzonenminuten: Diese Funktion zeigt Ihnen Ihre aktuelle Herzfrequenzzone, damit sie wissen, ob sie effektiv auf Ihre Ziele hintrainieren.
+- Kompatibilität: Kompatibel mit iOS 12.2 oder höher & Android OS 7.0 oder höher
 - Kontinuierliche Herzfrequenzmessung: Die kontinuierliche Herzfrequenzmessung ermöglicht eine genauere Erfassung Ihres Kalorienverbrauchs und hilft Ihnen, Ihr Training zu optimieren, damit Sie besser auf Ihre Gesundheits- und Fitnessziele hinarbeiten können.
 - Integrierter Sprachassistent: Mit Amazon Alexa können Sie auf der Versa 3 per Sprachbefehl das Wetter checken, Erinnerungen einrichten, Smart-Home-Geräte steuern und vieles mehr. Drittanbieter-Konto und -App ggf. erforderlich. Amazon Alexa nicht in allen Ländern verfügbar, siehe fitbit.com/de/voice.
-- Akkulaufzeit: 6+ Tage Akkulaufzeit & Schnellladefunktion
+- Musikplayer & -speicher: Auf der Versa 3 können Sie Musik und Podcasts speichern und abspielen, die Spotify-Wiedergabe auf verbundenen Geräten steuern und Deezer-Playlists laden. Abonnements für Musikstreaming-Dienste erforderlich, nicht in allen Ländern verfügbar.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

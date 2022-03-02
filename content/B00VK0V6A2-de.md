@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- <b>Produktbeschreibung</b>:DeLonghi BCO 260.CD.1.
-- <b>Kaffeezubereitungstechnologie:</b>Kombi.
-- <b>Korpusdesign</b>:freistehend.
-- Mit Filterhalter.
-- Kombigerät für Espresso und Filterkaffee.
 - <b>Farbe</b>:Schwarz.
-- <b>Kaffee-Einfüllmethode:</b>gemahlener Kaffee, Bohnen.
-- Mit Dampfdüse für Cappuccino.
-- <b>Getränkearten:</b>Cappuccino, Kaffee, Espresso.
 - <b>Fassungsvermögen des Wasserbehälters:</b>2,6 l.
+- <b>Kaffeezubereitungstechnologie:</b>Kombi.
+- <b>Produktbeschreibung</b>:DeLonghi BCO 260.CD.1.
+- Kombigerät für Espresso und Filterkaffee.
+- <b>Korpusdesign</b>:freistehend.
+- <b>Getränkearten:</b>Cappuccino, Kaffee, Espresso.
+- Mit Dampfdüse für Cappuccino.
+- Mit Filterhalter.
+- <b>Kaffee-Einfüllmethode:</b>gemahlener Kaffee, Bohnen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
