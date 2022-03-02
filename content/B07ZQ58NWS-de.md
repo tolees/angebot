@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Langlebige, dämpfende „DMX Ride+“-Schaumstoffzwischensohle, die dich beim Abrollen unterstützt
-- Designt für: beruflichen Gebrauch
 - MemoryTech-Schaumstoff-Einlegesohle für reaktive Dämpfung
 - Leder- und Synthetik-Obermaterial
+- Designt für: beruflichen Gebrauch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

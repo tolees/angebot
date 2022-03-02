@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Sortiment enthält die aus dem Film bekannten Transporter der Fanlieblinge Lightning McQueen und Jackson Storm (separat erhältlich).
 - 2-in-1 Spielzeug: Transporter zum Umherschieben und Be- und Entladen.
 - Jeder Cars Transporter hat eine ausklappbare Rampe, auf der die Mini Fahrzeuge hinein- und wieder herausgefahren werden können. In den Transporter passen 18 Mini-Racers! Enthält einen Mini Racer Fahrzeug.
 - Ein tolles Geschenk für Cars-Fans ab 3 Jahren.
 - Disney Pixar Cars Transporter mit aus dem Film bekannten Designs.
+- Das Sortiment enthält die aus dem Film bekannten Transporter der Fanlieblinge Lightning McQueen und Jackson Storm (separat erhältlich).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
