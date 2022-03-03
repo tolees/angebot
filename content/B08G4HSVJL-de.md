@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FANTASTISCHER SOUND: Einfach in der Soundcore App dein Lieblingsszenario auswählen, in deine Musik eintauchen und pure Soundqualität genießen.
-- STARKE AUSDAUER: Genieße 7 Stunden kabellose Wiedergabezeit nach nur einem Ladeprozess und noch zusätzliche Ladungen mithilfe der kompakten Ladehülle, für ganze 26 Stunden!
-- LDAC TECHNOLOGIE: Im Vergleich zu Standard-Bluetooth-Codecs ist die fortschrittliche LDAC-Technologie in der Lage, die dreifache Menge an Daten zu übertragen – sodass auch jedes noch so kleine Element deiner Lieblingsmusik erhalten bleibt und deine Ohren erreicht.
 - INDIVIDUALITÄT MIT HearID: Kopfhörer, dir für dich wahnsinnig gut klingen, sind für jemand anders womöglich unbedeutend. Um sicherzustellen, dass mit Liberty Air 2 Pro unsere Fans ein ideal abgestimmtes Klangprofil genießen können, prüft das smarte HearID Programm dein Gehör sowie deine Musikvorlieben und passt den Sound präzise an. Oder gönn dir mit unserer hauseigenen Soundcore App mit 22 voreingestellten Klangprofilen absolute Kontrolle über den EQ deiner Musik!
+- LDAC TECHNOLOGIE: Im Vergleich zu Standard-Bluetooth-Codecs ist die fortschrittliche LDAC-Technologie in der Lage, die dreifache Menge an Daten zu übertragen – sodass auch jedes noch so kleine Element deiner Lieblingsmusik erhalten bleibt und deine Ohren erreicht.
+- STARKE AUSDAUER: Genieße 7 Stunden kabellose Wiedergabezeit nach nur einem Ladeprozess und noch zusätzliche Ladungen mithilfe der kompakten Ladehülle, für ganze 26 Stunden!
 - PURENOTE TECHNOLOGIE: Unsere exklusiven Audiotechnologien analysieren das Klangprofil in Echtzeit und erhöhen den Bassanteil deiner Musik automatisch um 45% und erweitern Klangfrequenzen um 30%! Unsere Audiotreiber sind außerdem mit 10-fachen Nanoschichten ummantelt, um kristallklare Präzision zu garantieren.
+- FANTASTISCHER SOUND: Einfach in der Soundcore App dein Lieblingsszenario auswählen, in deine Musik eintauchen und pure Soundqualität genießen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
