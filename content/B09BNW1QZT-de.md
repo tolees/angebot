@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Kinderspielzeug „Annas Schlosshof“ ist Teil der neuen Diamantkleid-Kollektion von LEGO Disney mit 5 verschiedenen Prinzessinnen
+- Mit diesem LEGO Prinzessinnen-Spielzeug zum Bauen aus Disneys „Die Eiskönigin 2“ kannst du das Erntedankfest von Arendelle mit deinen Lieblingscharakteren am Springbrunnen feiern
+- Das Kinderspielzeug ab 5 Jahren umfasst einen Schlosshof mit Springbrunnen, eine Anna Mini-Puppe und Bruni den Salamander
 - Dieses 74-teilige Prinzessinnen-Spielzeug zum Bauen enthält einen Hof mit Springbrunnen aus LEGO Steinen und ein wandelbares Diamantkleid, in dem eine Mini-Puppe aufbewahrt werden kann
 - Wenn die Party vorbei ist, können die Kinder den Boden des Brunnens und Annas Prinzessinnen-Kleid verwenden, um einen diamantförmigen Aufbewahrungsbehälter zu bauen
-- Das Kinderspielzeug ab 5 Jahren umfasst einen Schlosshof mit Springbrunnen, eine Anna Mini-Puppe und Bruni den Salamander
-- Mit diesem LEGO Prinzessinnen-Spielzeug zum Bauen aus Disneys „Die Eiskönigin 2“ kannst du das Erntedankfest von Arendelle mit deinen Lieblingscharakteren am Springbrunnen feiern
 
 [🛒 Hier!!]({{< param buyurl >}})
