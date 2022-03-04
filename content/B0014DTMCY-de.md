@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit den leckeren Alpenvollmilch-Eiern im Gepäck - aber gut versteckt - wünscht der Goldhase aus Stoff viel Spaß beim Kuscheln!
-- Ideal zum Verschenken oder selber genießen.
-- Ideal zum Verschenken oder selber genießen.
-- Eine unvergleichliche Création der Maîtres Chocolatiers
-- Eine unvergleichliche Création der Maîtres Chocolatiers von Lindt.
 - Mit den leckeren Alpenvollmilch-Eiern im Gepäck - aber gut versteckt - wünscht der Goldhase aus Stoff viel Spaß beim Kuscheln
+- Ideal zum Verschenken oder selber genießen.
+- Ideal zum Verschenken oder selber genießen.
+- Eine unvergleichliche Création der Maîtres Chocolatiers von Lindt.
+- Mit den leckeren Alpenvollmilch-Eiern im Gepäck - aber gut versteckt - wünscht der Goldhase aus Stoff viel Spaß beim Kuscheln!
+- Eine unvergleichliche Création der Maîtres Chocolatiers
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
