@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die LEGO Super Mario Erweiterungssets sind tolle Geschenke für Kinder, die das LEGO Super Mario Starterset 71360/71387 besitzen, welches zum Spielen benötigt wird
-- Kinder können die Geisterfangfunktion aktivieren, indem sie den Knopf an der Hose drücken, und die mitgelieferte Startplatte spielt verschiedene Hintergrundmusik ab
-- Mit dem Erweiterungsset „Luigi‘s Mansion: Labor und Schreckweg“ (71397) können Kinder ihr LEGO Super Mario Starterset um eine Geisterjagd erweitern
 - Inklusive LEGO Figuren von Professor I. Gidd und einem gegnerischen Goldgeist, die das LEGO Super Mario Spiel zum Leben erwecken
+- Mit dem Erweiterungsset „Luigi‘s Mansion: Labor und Schreckweg“ (71397) können Kinder ihr LEGO Super Mario Starterset um eine Geisterjagd erweitern
 - Dieses Super Mario Spielzeug enthält den Schreckweg, an dem eine normale Düse oder ein Stroboblitz befestigt werden kann, und benötigt die LEGO Luigi-Figur (nicht enthalten)
+- Kinder können die Geisterfangfunktion aktivieren, indem sie den Knopf an der Hose drücken, und die mitgelieferte Startplatte spielt verschiedene Hintergrundmusik ab
+- Die LEGO Super Mario Erweiterungssets sind tolle Geschenke für Kinder, die das LEGO Super Mario Starterset 71360/71387 besitzen, welches zum Spielen benötigt wird
 
 [🛒 Hier!!]({{< param buyurl >}})

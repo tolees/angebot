@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Wasserabweisendes Gewebe, das Sie vor leichten Regenschauern und Nebel schützt, Optimale Passform dank verstellbarem Kordelzug am Saum
 - Lieferumfang: 1 x Columbia Mens Powder Lite Kapuzenjacke, Außenmaterial: Storm-Lite DP II 100% Polyester; Futter: Omni-Heat Reflective Futter 100% Polyester; Isolierung: Thermarator 100% Polyester, Farbe: Schwarz, Größe: M, Art.Nr. 1693931
-- Kapuzenwinterjacke, Ideal für gemütliche Spaziergänge durch die Stadt oder zum Entdecken neuer Wanderrouten
-- Die Jacke hat eine reflektierende Omni-Heat-Technologie die Ihnen eine verbesserte Isolierung bietet, um Sie auch an den kältesten Tagen warm zu halten.
 - Die Reißverschlusstaschen bieten Ihnen Vielseitigkeit. Für warme Hände und zum sicheren Verstauen Ihrer Wertsachen wie Smartphone oder Geld
+- Die Jacke hat eine reflektierende Omni-Heat-Technologie die Ihnen eine verbesserte Isolierung bietet, um Sie auch an den kältesten Tagen warm zu halten.
+- Kapuzenwinterjacke, Ideal für gemütliche Spaziergänge durch die Stadt oder zum Entdecken neuer Wanderrouten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

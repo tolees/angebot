@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang - AC1900-Dualband-WLAN-Router Archer C80, Spannungsadapter, Ethernetkabel, Schnellinstallationsanleitung
-- Personalisiertes Management – Fortgeschrittene Funktionen wie Jugendschutz, Zugriffskontrolle, Gastnetzwerk für personalisierte Verwaltung
-- MU-MIMO - Verbesserte Leistungsfähigkeit durch effiziente Kommunikation
-- 802.11ac Wave2 WLAN – 1300Mbit/s auf 5 GHz und 600Mbit/s auf 2,4GHz
 - Erweitere WLAN-Abdeckung – Maximale Reichweite und zielgerichteter WLAN-Empfang
+- Personalisiertes Management – Fortgeschrittene Funktionen wie Jugendschutz, Zugriffskontrolle, Gastnetzwerk für personalisierte Verwaltung
+- 802.11ac Wave2 WLAN – 1300Mbit/s auf 5 GHz und 600Mbit/s auf 2,4GHz
+- MU-MIMO - Verbesserte Leistungsfähigkeit durch effiziente Kommunikation
 - 3×3 MIMO Technologie – Datentransfer- und Empfang auf drei Streams für Verbindungen zwischen 3x3 Clients
+- Lieferumfang - AC1900-Dualband-WLAN-Router Archer C80, Spannungsadapter, Ethernetkabel, Schnellinstallationsanleitung
 
 [🛒 Hier!!]({{< param buyurl >}})

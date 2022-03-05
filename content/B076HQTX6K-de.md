@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
-- Kapuze schützt vor Wind und Wetter
-- Gerippter Saum und gerippte Bündchen
-- Streifen auf den Ärmeln
 - Kängurutasche für kleine Gegenstände
+- Gerippter Saum und gerippte Bündchen
+- Kapuze schützt vor Wind und Wetter
+- Reguläre Passform
+- Streifen auf den Ärmeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

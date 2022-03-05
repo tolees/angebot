@@ -29,7 +29,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Regular Fit
-- Hood with lanyard
 - Kangaroo pocket
+- Hood with lanyard
 
 [🛒 Hier!!]({{< param buyurl >}})
