@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einer leuchtenden, farbenfrohen Explosion von fruchtigen Aromen
-- Weiche, mundgerechte Bonbons
 - Packung die Größe: 7.2 L x 16.5 H x 12.3 W (cm)
+- Weiche, mundgerechte Bonbons
 - Ideal zum Teilen mit Freunden und Familie zu besonderen Anlässen wie Halloween, Weihnachten oder Ostern
+- Mit einer leuchtenden, farbenfrohen Explosion von fruchtigen Aromen
 
 [🛒 Hier!!]({{< param buyurl >}})
