@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geschicklichkeitsspiel
 - 2 bis 4 Spieler
 - Ab 4 Jahren
-- Actiongeladene Spannung
 - Fördert die Reaktionsgeschwindigkeit
+- Actiongeladene Spannung
+- Geschicklichkeitsspiel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
