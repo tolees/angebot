@@ -29,7 +29,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Versteckter Keilabsatz
-- Goldcrown
 - Keilabsatz
+- Goldcrown
 
 [🛒 Hier!!]({{< param buyurl >}})
