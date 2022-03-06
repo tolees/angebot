@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OTS+: Mitreißender Sound, der in jeder Szene der Bewegung folgt
 - Neo QLED: Ermöglicht ein schlankes Produktdesign und starke HDR Kontraste
+- OTS+: Mitreißender Sound, der in jeder Szene der Bewegung folgt
 - QLC: Geringe Lichtreflektionen und ein passender Blickwinkel
 - Adaptive Picture: Passt das Bild und den Sound automatisch der Umgebung an
 - Quantum HDR 2000: Für höheren Kontrast und lebensnahe Farben
