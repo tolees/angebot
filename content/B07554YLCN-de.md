@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Valeo - Das Pubertier - Die Serie'
-date: 2022-03-03 03:44:37
+date: 2022-03-07 05:08:23
 image: 'https://m.media-amazon.com/images/I/512+nbxuJpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
