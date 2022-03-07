@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Packung die Größe: 14.4 L x 38.8 H x 18.6 W (cm)
-- Packungsgewicht: 1.38 kg
-- Cremig-leichter Sour Cream Geschmack
-- Vegetarisch. Ohne künstliche Geschmacksverstärker, künstliche Aromen oder künstliche Farbstoffe
 - Country string: Germany
+- Packungsgewicht: 1.38 kg
+- Vegetarisch. Ohne künstliche Geschmacksverstärker, künstliche Aromen oder künstliche Farbstoffe
 - Kross-würzige Knabberstücke
+- Cremig-leichter Sour Cream Geschmack
+- Packung die Größe: 14.4 L x 38.8 H x 18.6 W (cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

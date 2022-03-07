@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Packung Weight: 1.36 kg
-- Herzhaft-süße Kombination aus Honig und Senf
-- Packung die Größe: 14.4 L x 38.6 H x 18.6 W (cm)
 - Kross-würzige Knabberstücke
-- Ohne künstliche Geschmacksverstärker, künstliche Aromen oder künstliche Farbstoffe
+- Packung die Größe: 14.4 L x 38.6 H x 18.6 W (cm)
+- Herzhaft-süße Kombination aus Honig und Senf
 - Vegetarisch
+- Ohne künstliche Geschmacksverstärker, künstliche Aromen oder künstliche Farbstoffe
 
 [🛒 Hier!!]({{< param buyurl >}})
