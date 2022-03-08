@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Reguläre Passform
 - Seitentaschen für kleine Gegenstände
 - Hoher Kragen
-- Gerippter Saum und gerippte Bündchen
-- Reguläre Passform
 - Raglanärmel
+- Gerippter Saum und gerippte Bündchen
 
 [🛒 Hier!!]({{< param buyurl >}})
