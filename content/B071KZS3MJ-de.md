@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebige Batterie: Dank der langlebigen Batterie kann die Maus bis zu 24 Monate (4) genutzt werden / Schaltet automatisch in den Schlafmodus, wenn sie nicht verwendet wird - 1x AA-Batterie enthalten
 - SilentTouch-Technologie: Die kabellose Multi-Device SILENT Maus M590 ermöglicht geräuschloses Tippen und bietet eine 90-prozentige Reduzierung der Klickgeräusche (1), um in Ruhe zu arbeiten
 - Ganztägiger Komfort: Die kompakte Maus wurde für stundenlangen Komfort entwickelt und verfügt über eine geschwungene Form, weiche Gummi-Griffflächen und ein Scrollrad für hervorragende Steuerung
-- Hohe Produktivität: Die 2 Daumentasten sind zum Ausführen von „Zurück“- und „Vorwärts“-Bewegungen auf Webseiten programmiert / Mit Logitech Options-Software zum Anpassen der 5 Maustasten
-- Multi-Device: Mit Logitech FLOW können Cursor, Texte, Bilder und Dateien zwischen 2 Computern, macOS oder PC bewegt werden / EASY SWITCH koppelt die M590 mit bis zu 2 Geräten - mit nur einem Klick
-- Duale Konnektivität: Mit dem Computer, Laptop oder Tablet über die kabellose Bluetooth-Technologie oder den kabellosen USB-Unifying-Empfänger verbinden / Mit einer Reichweite von bis zu 30 m (2)
 - Universelle Kompatibilität: Die Maus ist mit Windows, macOS, Chrome OS, Linux (3), Android und iPadOS kompatibel
 - Die Logitech MX Anywhere 3 testen: Die tragbare Maus ist kompakt, passt sich der Hand an, verfügt über ein hyperschnelles Rad und funktioniert sogar auf Glas - für mehr Produktivität auf Reisen
+- Langlebige Batterie: Dank der langlebigen Batterie kann die Maus bis zu 24 Monate (4) genutzt werden / Schaltet automatisch in den Schlafmodus, wenn sie nicht verwendet wird - 1x AA-Batterie enthalten
+- Multi-Device: Mit Logitech FLOW können Cursor, Texte, Bilder und Dateien zwischen 2 Computern, macOS oder PC bewegt werden / EASY SWITCH koppelt die M590 mit bis zu 2 Geräten - mit nur einem Klick
+- Hohe Produktivität: Die 2 Daumentasten sind zum Ausführen von „Zurück“- und „Vorwärts“-Bewegungen auf Webseiten programmiert / Mit Logitech Options-Software zum Anpassen der 5 Maustasten
+- Duale Konnektivität: Mit dem Computer, Laptop oder Tablet über die kabellose Bluetooth-Technologie oder den kabellosen USB-Unifying-Empfänger verbinden / Mit einer Reichweite von bis zu 30 m (2)
 
 [🛒 Hier!!]({{< param buyurl >}})
