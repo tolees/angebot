@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das HUAWEI MateBook D 15 ist mit einem hochauflösenden 15,6"-Display (1920 x 1080) und einer PCIe SSD-Festplatte mit einer Speicherkapazität von 256 GB ausgestattet,87% Screen-to-Body-Verhältnis.
-- Die Tastatur ist eine deutsche Tastatur im QWERTZ-Layout. Das Ladegerät ist ein deutsches Ladegerät.
-- Lieferumfang: 1 x HUAWEI Matebook D 15, 1 x USB Type-CTM-Netzteil, 1 x Schnellstartanleitung / Schnittstellen: 1 x 3,5 mm stereo headset jack, 1 x USB-C, 1 x HDMI, 1 x USB 3.0, 2 x USB 2.0
-- Leicht und transportabel: Dank des geringen Gewichts von 1,53kg und des leistungsstarken 42Wh Akkus eignet sich der Laptop ideal für die Arbeit, für zu Hause oder unterwegs
-- Multi-Screen Funktion: Einfach den Bildschirm des Smartphones auf den Laptop projizieren und Dateien zwischen den beiden Geräten hin- und herbewegen.
-- Die Power-Taste dient gleichzeitig als Fingerabdrucksensor, wodurch ein Kennwort nicht mehr nötig ist / Durch das schlanke Gehäusedesign wird die Wärmeableitung des Laptops verbessert.
 - Kostenloses Upgrade auf Windows 11, wenn verfügbar (siehe unten). Das Upgrade auf Windows 11 steht auf berechtigten Geräten ab Ende 2021 bis 2022 zur Verfügung. Der Zeitpunkt variiert je nach Gerät. Bestimmte Features erfordern spezielle Hardware (siehe „aka.ms/windows11-spec“).
+- Lieferumfang: 1 x HUAWEI Matebook D 15, 1 x USB Type-CTM-Netzteil, 1 x Schnellstartanleitung / Schnittstellen: 1 x 3,5 mm stereo headset jack, 1 x USB-C, 1 x HDMI, 1 x USB 3.0, 2 x USB 2.0
+- Die Tastatur ist eine deutsche Tastatur im QWERTZ-Layout. Das Ladegerät ist ein deutsches Ladegerät.
+- Das HUAWEI MateBook D 15 ist mit einem hochauflösenden 15,6"-Display (1920 x 1080) und einer PCIe SSD-Festplatte mit einer Speicherkapazität von 256 GB ausgestattet,87% Screen-to-Body-Verhältnis.
+- Multi-Screen Funktion: Einfach den Bildschirm des Smartphones auf den Laptop projizieren und Dateien zwischen den beiden Geräten hin- und herbewegen.
+- Leicht und transportabel: Dank des geringen Gewichts von 1,53kg und des leistungsstarken 42Wh Akkus eignet sich der Laptop ideal für die Arbeit, für zu Hause oder unterwegs
+- Die Power-Taste dient gleichzeitig als Fingerabdrucksensor, wodurch ein Kennwort nicht mehr nötig ist / Durch das schlanke Gehäusedesign wird die Wärmeableitung des Laptops verbessert.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

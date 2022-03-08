@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Premium-Office-Apps
-- Das HUAWEI MateBook D 15 ist mit einem hochauflösenden 15,6"-Display (1920 x 1080) und einer PCIe SSD-Festplatte mit einer Speicherkapazität von 256 GB ausgestattet,87% Screen-to-Body-Verhältnis.
-- Mit bis zu 5 anderen Personen teilen
-- Die Power-Taste dient gleichzeitig als Fingerabdrucksensor, wodurch ein Kennwort nicht mehr nötig ist / Durch das schlanke Gehäusedesign wird die Wärmeableitung des Laptops verbessert.
 - Multi-Screen Funktion: Einfach den Bildschirm des Smartphones auf den Laptop projizieren und Dateien zwischen den beiden Geräten hin- und herbewegen.
+- Mit bis zu 5 anderen Personen teilen
+- Premium-Office-Apps
+- Die Power-Taste dient gleichzeitig als Fingerabdrucksensor, wodurch ein Kennwort nicht mehr nötig ist / Durch das schlanke Gehäusedesign wird die Wärmeableitung des Laptops verbessert.
+- Das HUAWEI MateBook D 15 ist mit einem hochauflösenden 15,6"-Display (1920 x 1080) und einer PCIe SSD-Festplatte mit einer Speicherkapazität von 256 GB ausgestattet,87% Screen-to-Body-Verhältnis.
 - Verwendung auf Windows-PCs, Macs, iPads, iPhones und Android-Tablets und -Smartphones
 
 [🛒 Hier!!]({{< param buyurl >}})
