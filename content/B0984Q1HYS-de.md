@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Modell ist 40 cm hoch, 29 cm breit und 17 cm tief und lässt sich perfekt mit den LEGO Hogwarts Sets 75953, 75954 und 75948 kombinieren (die zum Teil nur in begrenzter Auflage erhältlich sind).
-- Dieses Hogwarts-Set zum Verschenken enthält viele berühmte Schauplätze aus Harry Potter Filmen, 8 beliebte Minifiguren, Hedwig als Spielzeug-Eule und jede Menge authentische Zubehörelemente wie zum Beispiel Alraunen, Briefe, Zauberstäbe und ein Buch über Zaubertränke.
-- Dank der einfachen Bauanleitungen können Kinder sofort bauen und spielen. Beim Erkunden des magischen Spielzeug-Schlosses lassen sich Kinder zu unzähligen fantasievollen Rollenspielen inspirieren.
-- Keine Batterien erforderlich. Dieses Harry Potter Bauset ermöglicht Kindern ein fantasievolles Spielerlebnis mit den eigenen Händen, das vom Vorstellungsvermögen der Kinder ständig neu befeuert wird. Wenn der Actionspaß dann mal ein Ende hat, schmückt das Set als Schaustück jedes Kinderzimmer.
 - Wenn Kinder das Klassenzimmer des Zaubertränke-Lehrers betreten und seine Party besuchen, sich eine Alraune im Gewächshaus ansehen, den Schlafsaal in Haus Ravenclaw erkunden und sich dann zum Astronomie-Unterricht in den höchsten Turm begeben, können sie die Magie mit eigenen Händen erleben.
 - Wenn Kinder den LEGO Harry Potter Astronomieturm auf Schloss Hogwarts (75969) betreten, können sie magische Hogwarts-Geschichten mit beliebten Figuren, legendären Schauplätzen und realistischen Details nachspielen.
 - Optimierte Versandverpackung. Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
+- Dank der einfachen Bauanleitungen können Kinder sofort bauen und spielen. Beim Erkunden des magischen Spielzeug-Schlosses lassen sich Kinder zu unzähligen fantasievollen Rollenspielen inspirieren.
 - Dieses einzigartige Harry Potter Bauset enthält unter anderem Draco Malfoy und Neville Longbottom als LEGO Minifiguren und ist ein tolles Geschenk für Kinder ab 9 Jahren.
+- Keine Batterien erforderlich. Dieses Harry Potter Bauset ermöglicht Kindern ein fantasievolles Spielerlebnis mit den eigenen Händen, das vom Vorstellungsvermögen der Kinder ständig neu befeuert wird. Wenn der Actionspaß dann mal ein Ende hat, schmückt das Set als Schaustück jedes Kinderzimmer.
+- Dieses Hogwarts-Set zum Verschenken enthält viele berühmte Schauplätze aus Harry Potter Filmen, 8 beliebte Minifiguren, Hedwig als Spielzeug-Eule und jede Menge authentische Zubehörelemente wie zum Beispiel Alraunen, Briefe, Zauberstäbe und ein Buch über Zaubertränke.
+- Das Modell ist 40 cm hoch, 29 cm breit und 17 cm tief und lässt sich perfekt mit den LEGO Hogwarts Sets 75953, 75954 und 75948 kombinieren (die zum Teil nur in begrenzter Auflage erhältlich sind).
 
 [🛒 Hier!!]({{< param buyurl >}})
