@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
 - Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers. Ausführliche Garantiebedingungen finden Sie unter „Weitere technische Informationen“ auf dieser Seite, klicken Sie hierzu bitte auf „5 Jahre Herstellergarantie“.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
