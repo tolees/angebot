@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose Sport Earbuds – Vollkommen Kabellose In-Ear-Kopfhörer – Bluetooth-Kopfhörer fürs Workout und Laufen  Schwarz'
-date: 2022-03-07 05:22:37
+date: 2022-03-08 12:06:00
 image: 'https://m.media-amazon.com/images/I/31HVOSftWcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08CJCTG6Z-de Bose Sport Earbuds – Vollkommen Kabellose In-Ear-Kopfhörer...'
 sku: 'B08CJCTG6Z-de'
 tags: [ 'Elektronik & Foto','In-Ear Ohrhörer','Kopfhörer','Kopfhörer & Zubehör','bose', ]
-actualPrice: 129.0 EUR
+actualPrice: 144.04 EUR
 currency: EUR
-price: 129.0
+price: 144.04
 comparePrice: 199.95 EUR
 prodname: 'Bose Sport Earbuds – Vollkommen Kabellose In-Ear-Kopfhörer – Bluetooth-Kopfhörer fürs Workout und Laufen  Schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Bose'
 buyurl: 'https://www.amazon.de/dp/B08CJCTG6Z/?tag=tolees0ca-21'
-descuento: '35.48'
-average: '148.513395348838'
+descuento: '27.96'
+average: '148.492685185186'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kabellose Bluetooth In-Ear Ohrhörers von Bose – für Bestleistungen entwickelt.
 - Naturgetreuer Bose Spitzenklang: Damit sich Ihre Musik so anfühlt, als würde der Künstler direkt neben Ihnen stehen. Erleben Sie einen Klang, der Sie zu neuen Höchstleistungen motiviert.
 - Klar verständliche Telefonate: Das Mikrofonsystem mit Richtmikrofoncharakteristik isoliert Ihre Stimme von den Umgebungsgeräuschen, damit Ihr Gesprächspartner Sie besser hören kann.
-- Kabellose Bluetooth In-Ear Ohrhörers von Bose – für Bestleistungen entwickelt.
 - Wetter- und schweißresistente Earbuds: Die Kopfhörer verfügen über die Schutzklasse IPX4. Ihre Elektronikkomponenten sind vor Spritzwasser geschützt, egal wo Sie trainieren.
 - Höchster Tragekomfort und sicherer Sitz: Finden Sie Ihre Passform mit den mitgelieferten StayHear Max Ohreinsätzen in 3 Größen, die sich angenehm anfühlen und nicht herausfallen, egal wie fordernd Ihr Workout ist.
 

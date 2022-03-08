@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOZO T6 Bluetooth Kopfhörer Kabellos In Ear Ohrhörer Sport Touch Control Wireless Bluetooth Headset mit kabellosem Ladecase Mikrofon Premium Sound Bass Schwarz'
-date: 2022-03-06 23:31:36
+date: 2022-03-08 11:57:12
 image: 'https://m.media-amazon.com/images/I/41LR93r46HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TOZO'
 buyurl: 'https://www.amazon.de/dp/B07RGZ5NKS/?tag=tolees0ca-21'
 descuento: '56.68'
-average: '35.0870860927156'
+average: '35.0272368421056'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
