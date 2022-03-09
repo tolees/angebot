@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 10 Minuten Ladezeit für 90 Minuten Nutzung
 - IP54 Wasserresistent
-- Anrufe ohne Störgeräusche - das Stereomikrofon filtert Echos und Außengeräusche heraus, damit dein Gesprächspartner dich optimal verstehen kann
 - Bluetooth 5.2 sorgt für eine stabilere Verbindung und geringeren Akkuverbrauch
+- 10 Minuten Ladezeit für 90 Minuten Nutzung
+- Anrufe ohne Störgeräusche - das Stereomikrofon filtert Echos und Außengeräusche heraus, damit dein Gesprächspartner dich optimal verstehen kann
 - Die Redmi Buds 3 erkennen, wenn du sie im Ohr hast und stoppen die Musik automatisch, wenn du einen herausnimmst
 
 [🛒 Hier!!]({{< param buyurl >}})
