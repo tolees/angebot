@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Textil
-- Outermaterial: Leder
 - Sohle: Synthetik
+- Outermaterial: Leder
+- Innenmaterial: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

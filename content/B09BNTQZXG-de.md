@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76206 Marvel Iron Man Figur  Spielzeug- und Deko-Modell zum Sammeln und Bauen für Kinder ab 9 Jahren aus Avengers: Age of Ultron  Infinity Saga'
-date: 2022-03-07 21:21:13
+date: 2022-03-09 09:20:17
 image: 'https://m.media-amazon.com/images/I/51d1Hvzx5WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNTQZXG/?tag=tolees0ca-21'
 descuento: '34.93'
-average: '26.9988888888889'
+average: '26.901'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
