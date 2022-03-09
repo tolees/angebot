@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bandmaterial: Edelstahl
 - Verpackt in Michael Kors Geschenkbox
-- Gehäusehöhe: 7 mm; Gehäusegröße: 39 mm
-- Wasserdichtigkeit: 5 ATM
 - Bandbreite: 18 mm - 20 mm; Bandumfang: 190 +/- 5 mm
+- Bandmaterial: Edelstahl
+- Wasserdichtigkeit: 5 ATM
+- Gehäusehöhe: 7 mm; Gehäusegröße: 39 mm
 
 [🛒 Hier!!]({{< param buyurl >}})

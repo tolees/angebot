@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Evolve2 65 Headset ist MS Teams-zertifiziert, enthält eine zusätzliche Teams-Taste und erfüllt die MS Teams Open Office Anforderungen
-- Überall präzise Soundqualität: 3 Mikrofone, ein verbesserter, digitaler Chipsatz und ein schwenkbarer Mikrofonarm bieten Ihnen die bestmögliche Gesprächsqualität
 - 2 Jahre Garantie
+- Lieferumfang: Jabra Evolve2 65 Wireless On-Ear Headset, USB-A Bluetooth Adapter, 1,2 m USB-C zu USB-A Kabel, Tasche – Headset Gewicht: 176,4 g – Abmessung: 186 x 157 x 60,5 mm – Farbe: Schwarz
+- Überall präzise Soundqualität: 3 Mikrofone, ein verbesserter, digitaler Chipsatz und ein schwenkbarer Mikrofonarm bieten Ihnen die bestmögliche Gesprächsqualität
+- Das Evolve2 65 Headset ist MS Teams-zertifiziert, enthält eine zusätzliche Teams-Taste und erfüllt die MS Teams Open Office Anforderungen
 - Geräuschisolierendes Design für mehr Konzentration: Blendet die Geräuschkulisse um Sie herum aus und sorgt für eine ruhige Arbeitsatmosphäre
 - Lange Akkulaufzeiten und verbessertes Busylight: Lange Akkulaufzeiten von bis zu 37 Stunden minimieren Unterbrechungen, während das integrierte rote LED aufleuchtet, sobald Sie sich in einem Gespräch befinden
-- Lieferumfang: Jabra Evolve2 65 Wireless On-Ear Headset, USB-A Bluetooth Adapter, 1,2 m USB-C zu USB-A Kabel, Tasche – Headset Gewicht: 176,4 g – Abmessung: 186 x 157 x 60,5 mm – Farbe: Schwarz
 
 [🛒 Hier!!]({{< param buyurl >}})
