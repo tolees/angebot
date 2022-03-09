@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Total Protection dank Schutz vor Erpressertrojanern und Cyberkriminellen
 - Passwortmanager für sichere Zugangsdaten
-- Maximaler Schutz für Ihren PC und Ihre Daten vor Viren, Erpressertrojanern, Spyware, Hackern und Datenverlust
+- Total Protection dank Schutz vor Erpressertrojanern und Cyberkriminellen
 - Schutz für 3 PCs für 1 Jahr
+- Maximaler Schutz für Ihren PC und Ihre Daten vor Viren, Erpressertrojanern, Spyware, Hackern und Datenverlust
 
 [🛒 Hier!!]({{< param buyurl >}})
