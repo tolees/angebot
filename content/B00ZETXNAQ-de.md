@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Smarte Überwachung: In der kostenlosen "intAct Battery Guard" App können Sie bis zu 100 Batterien überwachen und die gemessenen Spannungen auslesen
-- Schnelle Kontrolle: Mit dem Battery-Guard checken Sie schnell und einfach, ohne direkten Kontakt den Ladezustand Ihrer Batterie
-- Sichere Anwendung: Bei einer Verpolung des Testgeräts beim Anschluss entsteht weder an der Batterie, noch am Gerät selbst ein Schaden
-- Universeller Einsatz: Das Batterie-Testgerät eignet sich für alle gängigen 6V-, 12V- oder 24V-Batterien im Auto, Motorrad, Wohnmobil oder sonstigen Anwendungen
 - Sofort einsatzbereit: Sie befestigen einfach die Batterieklemmen an den Polen und platzieren den Batterietester mit der vorhandenen Klebefolie an der gewünschten Stelle
+- Universeller Einsatz: Das Batterie-Testgerät eignet sich für alle gängigen 6V-, 12V- oder 24V-Batterien im Auto, Motorrad, Wohnmobil oder sonstigen Anwendungen
+- Sichere Anwendung: Bei einer Verpolung des Testgeräts beim Anschluss entsteht weder an der Batterie, noch am Gerät selbst ein Schaden
+- Schnelle Kontrolle: Mit dem Battery-Guard checken Sie schnell und einfach, ohne direkten Kontakt den Ladezustand Ihrer Batterie
+- Smarte Überwachung: In der kostenlosen "intAct Battery Guard" App können Sie bis zu 100 Batterien überwachen und die gemessenen Spannungen auslesen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
