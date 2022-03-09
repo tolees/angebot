@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set ist 7 cm hoch, 10 cm breit und 10 cm tief und somit kompakt genug für kleine Hände und groß genug, um als Schaustück zu begeistern
-- LEGO Elemente werden Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit sie strengen globalen Sicherheitsstandards genügen
-- Das umfassende Spektrum an LEGO Minecraft Spielsets erweckt das Minecraft Onlinespiel mit Charakteren, Kulissen und Funktionen zum Leben, die sich mit den unverwüstlichen LEGO Steinen nachbilden lassen
-- Das LEGO Minecraft Set enthält Alex, die beliebte Heldin des Onlinespiels, mit Taucherhelm, magischer Hose und Schwert sowie einen Ertrunkenen, zwei Kugelfische (einmal aufgebläht, einmal normal) und Zubehör
-- Die farbenfrohe Kulisse des Korallenriffs enthält jede Menge authentische Minecraft Details und tolles Zubehör wie die verborgene Schatzkiste, die einen Fisch und eine Perle preisgibt
-- Für Kinder ab 7 Jahren. Das aktive Spielerlebnis mit dem Minecraft Bau- und Spielset bereitet Minecraft Spielern riesigen Spaß. Die perfekte Überraschung für Fans des Onlinespiels, die Minecraft mal ganz anders erleben möchten
 - Kinder begleiten Alex, die mutige Minecraft Heldin, in die Tiefen des Ozeans, um im farbenfrohen Korallenriff nach einem verborgenen Schatz zu suchen und einen Ertrunkenen zu verscheuchen
-- Das LEGO Minecraft Spielset „Das Korallenriff“ (21164) bietet Minecraft Spielern ein aktives Spielerlebnis und erweckt die Unterwasserabenteuer des Onlinespiels mit den vielseitigen LEGO Steinen zum Leben
-- LEGO Elemente entsprechen schon seit 1958 strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets perfekt zusammenstecken und mühelos wieder trennen lassen
+- Das umfassende Spektrum an LEGO Minecraft Spielsets erweckt das Minecraft Onlinespiel mit Charakteren, Kulissen und Funktionen zum Leben, die sich mit den unverwüstlichen LEGO Steinen nachbilden lassen
 - Dieses LEGO Minecraft Set ist besonders robust und lässt sich leicht umgestalten und mit anderen LEGO Minecraft Spielzeugen kombinieren
+- LEGO Elemente entsprechen schon seit 1958 strengen Branchenstandards, damit sie einheitlich und kompatibel sind und sich stets perfekt zusammenstecken und mühelos wieder trennen lassen
+- Für Kinder ab 7 Jahren. Das aktive Spielerlebnis mit dem Minecraft Bau- und Spielset bereitet Minecraft Spielern riesigen Spaß. Die perfekte Überraschung für Fans des Onlinespiels, die Minecraft mal ganz anders erleben möchten
+- Das LEGO Minecraft Set enthält Alex, die beliebte Heldin des Onlinespiels, mit Taucherhelm, magischer Hose und Schwert sowie einen Ertrunkenen, zwei Kugelfische (einmal aufgebläht, einmal normal) und Zubehör
+- Das LEGO Minecraft Spielset „Das Korallenriff“ (21164) bietet Minecraft Spielern ein aktives Spielerlebnis und erweckt die Unterwasserabenteuer des Onlinespiels mit den vielseitigen LEGO Steinen zum Leben
+- Die farbenfrohe Kulisse des Korallenriffs enthält jede Menge authentische Minecraft Details und tolles Zubehör wie die verborgene Schatzkiste, die einen Fisch und eine Perle preisgibt
+- LEGO Elemente werden Fall-, Hitze-, Druck- und Torsionstests unterzogen und gründlich analysiert, damit sie strengen globalen Sicherheitsstandards genügen
+- Das Set ist 7 cm hoch, 10 cm breit und 10 cm tief und somit kompakt genug für kleine Hände und groß genug, um als Schaustück zu begeistern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
