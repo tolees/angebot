@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der Pudding ist glutenfrei und vegetarisch
-- Pudding-Pulver mit Schokoladengeschmack im praktischen Snackbecher
-- Der Schokopudding von Mondamin ist in 3 Minuten fertig zubereitet
+- Schokopudding ohne Konservierungsstoffe und ohne geschmacksverstärkende Zusatzstoffe lt. Gesetz
 - Schokoladenpudding mit kochendem oder kaltem Wasser zubereiten
 - Der Mondamin Pudding Schoko ist warm und kalt ein Genuss
-- Schokopudding ohne Konservierungsstoffe und ohne geschmacksverstärkende Zusatzstoffe lt. Gesetz
+- Der Schokopudding von Mondamin ist in 3 Minuten fertig zubereitet
+- Pudding-Pulver mit Schokoladengeschmack im praktischen Snackbecher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
