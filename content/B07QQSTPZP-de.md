@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfacher Bit- und Bohrerwechsel: Der Akku Schlagbohrschrauber besitzt einen 10mm Schaft und ein einhülsiges Bohrfutter
-- Power for ALL 18 Volt: Der mitgelieferte Akku ist kompatibel mit allen Geräten des grünen Bosch Home & Garden 18 Volt Systems sowie den Bosch Unlimited Staubsaugern
-- Optimale Leistung für jede Aufgabe: 3-in-1-System zum Schrauben, Bohren und Schlagbohren. 20 Drehmomentstufen zum Schrauben in verschiedene Materialien
 - Für verschiedene Materialien nutzbar: zum Bohren und Schrauben in Holz und Metall oder Schlagbohren in Mauerwerk
+- Optimale Leistung für jede Aufgabe: 3-in-1-System zum Schrauben, Bohren und Schlagbohren. 20 Drehmomentstufen zum Schrauben in verschiedene Materialien
+- Einfacher Bit- und Bohrerwechsel: Der Akku Schlagbohrschrauber besitzt einen 10mm Schaft und ein einhülsiges Bohrfutter
 - Die Universal Werkzeuge von Bosch – flexibel und leistungsstark mit intelligenten Lösungen für vielfältige Projekte
+- Power for ALL 18 Volt: Der mitgelieferte Akku ist kompatibel mit allen Geräten des grünen Bosch Home & Garden 18 Volt Systems sowie den Bosch Unlimited Staubsaugern
 
 [🛒 Hier!!]({{< param buyurl >}})
