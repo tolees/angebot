@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Akkulaufzeit: bis zu 35 Std abhängig vom verwendeten Modus
+- Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtungen mehr Dank eingebautem Sprachassistent
 - 30 mm Treiber mit Neodymium Magnet liefert einen kraftvollen Klang
+- Quick Charge: 10 Minuten Aufladen für 1, 5 Std Audiowiedergabe
+- Akkulaufzeit: bis zu 35 Std abhängig vom verwendeten Modus
 - Bluetooth Version 5.0, Effektiver Bereich: Sichtverbindung ca. 10 m, Frequenzbereich: 2,4-GHz-Band (2,4–2,4835 GHz).
 - Integrierte Headset-Funktion für handfreies Telefonieren
-- Quick Charge: 10 Minuten Aufladen für 1, 5 Std Audiowiedergabe
-- Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtungen mehr Dank eingebautem Sprachassistent
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

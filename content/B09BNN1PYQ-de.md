@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reinigungsmodi: Durch die flexible Wahl zwischen unterschiedlichen Reinigungsmodi arbeitet der Roboter immer exakt so, wie Sie möchten.
+- Lieferumfang: Saugroboter E32 (MD 18510) mit integriertem Li-Ion Akkublock, Fernbedienung, 2 Ersatz-Seitenbürsten & 2 Seitenbürsten, Filter & Ersatzfilter, Staubbehälter, Reinigungspinsel, Ladestation & Netzteil
 - Flexible Putzkraft: Sie geben Ihrem neuen Haushaltshelfer mit der Timer-Funktion genau vor, an welchen Tagen und zu welchen Zeiten geputzt wird.
 - Saugroboter E32 (MD 18510) zur Reinigung von Staub, Haaren und Pollen, mit Programmierfunktion, 120 Min. Laufzeit und automatischer Aufladung.
-- Lieferumfang: Saugroboter E32 (MD 18510) mit integriertem Li-Ion Akkublock, Fernbedienung, 2 Ersatz-Seitenbürsten & 2 Seitenbürsten, Filter & Ersatzfilter, Staubbehälter, Reinigungspinsel, Ladestation & Netzteil
+- Reinigungsmodi: Durch die flexible Wahl zwischen unterschiedlichen Reinigungsmodi arbeitet der Roboter immer exakt so, wie Sie möchten.
 - Akkulaufzeit: Mit bis zu 120 Minuten Betriebszeit pro Aufladung ist der Roboter besonders effizient und reinigt auch große Flächen ohne Ladepause. (30 % mehr als sein Vorgänger)
 
 [🛒 Hier!!]({{< param buyurl >}})
