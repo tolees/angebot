@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schützen Sie bis zu 5 Geräte vor Malware, Phishing und Ransomware mit zusätzlichem Schutz durch Norton
-- Enthält Premium-Office-Anwendungen: Word, Excel, PowerPoint, OneNote und Outlook sowie bis zu 6 TB OneDrive Cloud-Speicher (1 TB pro Person)
 - Für Windows 10, macOS, iOS und Android
-- Dieses Microsoft 365 Family Abonnement für bis zu 6 Personen bietet 12 Monate + 3 Monate extra Laufzeit (Aktivierungscode per Email)
 - NORTON 360 Deluxe Prepaid-Abonnement für 15 Monate mit automatischer Verlängerung (Aktivierungscode per Email)
+- Enthält Premium-Office-Anwendungen: Word, Excel, PowerPoint, OneNote und Outlook sowie bis zu 6 TB OneDrive Cloud-Speicher (1 TB pro Person)
+- Dieses Microsoft 365 Family Abonnement für bis zu 6 Personen bietet 12 Monate + 3 Monate extra Laufzeit (Aktivierungscode per Email)
 
 [🛒 Hier!!]({{< param buyurl >}})
