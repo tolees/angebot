@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Machart: Schnürung
-- Passform: normal
 - Absatzhöhe: 0 - 3 cm
-- Muster: Mehrfarbig, Uni
 - Schuhspitze: rund
+- Muster: Mehrfarbig, Uni
+- Passform: normal
+- Machart: Schnürung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Home and Garden - Bosch Akku Schlagbohrschrauber UniversalImpact 18  1 Akku  18 Volt System  im Koffer '
-date: 2022-03-02 20:09:53
+date: 2022-03-10 10:08:25
 image: 'https://m.media-amazon.com/images/I/41mOHGHvl4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Einfacher Bit- und Bohrerwechsel: Der Akku Schlagbohrschrauber besitzt einen 10mm Schaft und ein einhülsiges Bohrfutter
 - Power for ALL 18 Volt: Der mitgelieferte Akku ist kompatibel mit allen Geräten des grünen Bosch Home & Garden 18 Volt Systems sowie den Bosch Unlimited Staubsaugern
-- Die Universal Werkzeuge von Bosch – flexibel und leistungsstark mit intelligenten Lösungen für vielfältige Projekte
 - Optimale Leistung für jede Aufgabe: 3-in-1-System zum Schrauben, Bohren und Schlagbohren. 20 Drehmomentstufen zum Schrauben in verschiedene Materialien
 - Für verschiedene Materialien nutzbar: zum Bohren und Schrauben in Holz und Metall oder Schlagbohren in Mauerwerk
-- Einfacher Bit- und Bohrerwechsel: Der Akku Schlagbohrschrauber besitzt einen 10mm Schaft und ein einhülsiges Bohrfutter
+- Die Universal Werkzeuge von Bosch – flexibel und leistungsstark mit intelligenten Lösungen für vielfältige Projekte
 
 [🛒 Hier!!]({{< param buyurl >}})
