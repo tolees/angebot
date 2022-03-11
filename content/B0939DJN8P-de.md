@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Holzoptik
-- Jedes Erweiterungspaket enthält 3 Sechsecke mit Verbindungsstücken und Klebeband
 - Für dieses Paket sind der Controller und das Netzteil erforderlich, die mit dem Elements Starter Kit verkauft werden
 - Erweitern Sie Ihr Elements-Design mit den 3 zusätzlichen Lichtpaneelen des Expansion Packs
+- Jedes Erweiterungspaket enthält 3 Sechsecke mit Verbindungsstücken und Klebeband
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
