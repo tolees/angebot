@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Macht euch bereit für das intensivste Escape-Room-Erlebnis, das ihr je hattet - bei euch zuhause, in euren eigenen vier Wänden! Theoretisch auch alleine spielbar, macht es doch erst in Gruppen ab 4 Personen so richtig Spaß!
 - Spannender Rätselspaß mit einem Hauch Horrorgeschichte für Freunde der Escape Spiele und Exit Spiele. Die Spielschachtel verwandelt sich in ein dreistöckiges 3D Puppenhaus und ihr müsst euch durch alle 5 Räume rätseln
-- Die Spielschachtel selbst wird zum 3-dimensionalen Puppenhaus inklusive Mobiliar. Mit diversen Geheimgegenständen (lasst euch überraschen) und einem Begleitheft zieht sie euch mitten in die Geschichte! Hinweise, Anleitung zum Wiederzusammenbau und Rätsel zum Nachdrucken sind online verfügbar
 - Was geht im Werkzeugschuppen des Nachbarn vor? Was sind das für Schatten hinter dem Fenster? Escape the Room 3 - das verfluchte Puppenhaus zieht die Spieler in seinen Bann. Wer kann alle Rätsel lösen, um rechtzeitig zu entkommen?
+- Die Spielschachtel selbst wird zum 3-dimensionalen Puppenhaus inklusive Mobiliar. Mit diversen Geheimgegenständen (lasst euch überraschen) und einem Begleitheft zieht sie euch mitten in die Geschichte! Hinweise, Anleitung zum Wiederzusammenbau und Rätsel zum Nachdrucken sind online verfügbar
 - Das perfekte Geschenk für Rätsel- und Gruselfreunde, die einen unterhaltsame Abend mit Freunden verbringen möchten. Snacks, ein gruseliger Soundtrack und los gehts
 
 [🛒 Hier!!]({{< param buyurl >}})
