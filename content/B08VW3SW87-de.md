@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100% Polyester
-- Normale Passform
-- Seitenschlitze am Droptail-Saum
 - Gerippter V-Ausschnitt Kragen
+- 100% Polyester
+- Seitenschlitze am Droptail-Saum
+- Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
