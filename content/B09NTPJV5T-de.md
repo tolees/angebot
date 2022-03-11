@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intel Core i3-10110U Prozessor (bis zu 4,10 GHz mit Intel Turbo-Boost-Technik 2.0, 4 MB Intel Cache)
-- Ohne Windows Betriebssystem, FreeDOS installiert
-- PrivacyShutter mechanischer Kameraverschluss
 - Lieferumfang: Lenovo IdeaPad 3i 15IML05, Platinsilber, Netzteil, Dokumentation
+- PrivacyShutter mechanischer Kameraverschluss
+- Intel Core i3-10110U Prozessor (bis zu 4,10 GHz mit Intel Turbo-Boost-Technik 2.0, 4 MB Intel Cache)
 - Li-Polymer-Akku: 35 Wh, Laufzeit bis zu 9 Stunden (MobileMark 2014)
-- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Dolby Audio Klangoptimierung
+- Ohne Windows Betriebssystem, FreeDOS installiert
+- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 
 [🛒 Hier!!]({{< param buyurl >}})

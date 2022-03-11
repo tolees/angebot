@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit großer Ambossfläche
-- Robuste, schwere Ausführung
 - Backenbreite 50 mm
+- Robuste, schwere Ausführung
 - auswechselbare Backen
+- mit großer Ambossfläche
 - Spannweite 55 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
