@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grohe - BauEdge EHM Set UP Wanne'
-date: 2022-03-08 13:39:19
+date: 2022-03-11 08:36:48
 image: 'https://m.media-amazon.com/images/I/31eE5wuUInL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
