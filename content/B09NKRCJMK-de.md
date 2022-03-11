@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kabellose Ohrhörer Bluetooth  INPHIC True Wireless In-Ear-Kopfhörer Bluetooth 5.1 Noise Cancelling-Ohrhörer  wasserdichte Stereo-Ohrhörer mit Mikrofon  40H Akku für Musik/Sport/Gaminig Weiß'
-date: 2022-03-10 00:09:03
+date: 2022-03-11 12:47:11
 image: 'https://m.media-amazon.com/images/I/31keu6Ok9gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
