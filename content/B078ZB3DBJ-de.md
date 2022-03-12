@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ionen-Generator reduziert die statische Aufladung und sorgt für unvergleichbaren Glanz, LED-Anzeige: Spiegelt optisch die kalt oder warm ausströmende Luft wider
 - Leicht und ausbalanciert: Vertikaler Motor mit Sitz im Griff für maximalen Komfort und Kontrolle
 - Abkühlstufe zum Fixieren des Stylings, 7 mm Stylingdüse für ein präzises Styling, 11 mm Stylingdüse für ein schnelles Trocknen, Diffusor für extra Fülle und Volumen
+- Ionen-Generator reduziert die statische Aufladung und sorgt für unvergleichbaren Glanz, LED-Anzeige: Spiegelt optisch die kalt oder warm ausströmende Luft wider
 - Einzigartiger 3D-Luftstrom: Liefert einen präzisen, gleichmäßig aufgeheizten Luftstrom für effizientere Styling-Ergebnisse, 110 km/h Luftstrom
 - Leistungsstarker 1800 Watt Haartrockner in innovativem Design, 3 Heiz- und 2 separate Gebläsestufen
 
