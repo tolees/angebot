@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Flach
 - Obermaterial: Leder
 - Innenmaterial: Textil
-- Flach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
