@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Slip-on
 - Obermaterial: Smooth Leather
+- Absatzform: Block heel
+- Verschluss: Slip-on
+- not_water_resistant
 - Sohle: Synthetic
 - Innenmaterial: Synthetic
-- Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
-- Absatzhöhe: 5.5 centimeters
-- not_water_resistant
 - 10 centimeters10 centimeters
-- Absatzform: Block heel
+- Absatzhöhe: 5.5 centimeters
+- Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
 
 [🛒 Hier!!]({{< param buyurl >}})
