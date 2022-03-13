@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Power 12 V
+- 40 Kanäle
+- Am-FM-Frequenzband
 - Lieferumfang:
 - Kanal-Umschalter
-- 40 Kanäle
-- Power 12 V
-- Am-FM-Frequenzband
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
