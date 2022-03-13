@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Herren 373 Core Schuhe  Black  40.5 EU'
-date: 2022-03-09 07:45:09
+date: 2022-03-13 12:08:59
 image: 'https://m.media-amazon.com/images/I/31jbh1uP1qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Synthetik
 - Outermaterial: Leder
+- Sohle: Synthetik
 - Innenmaterial: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

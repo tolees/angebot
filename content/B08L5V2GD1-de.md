@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- A14 Bionic, der schnellste Chip in einem Smartphone
-- iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
 - 12 MP TrueDepth Frontkamera mit Nachtmodus, 4K Dolby Vision HDR Aufnahme
-- Branchenführender IP68 Wasserschutz
 - 5G für superschnelle Downloads und Streaming in höchster Qualität
+- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
+- A14 Bionic, der schnellste Chip in einem Smartphone
 - Unterstützt MagSafe Zubehör zum einfachen Andocken und schnelleren kabellosen Laden
 - 6,1" Super Retina XDR Display (15,5 cm Diagonale)
+- Branchenführender IP68 Wasserschutz
 - Fortschrittliches Zwei‐Kamera-System mit 12 MP Ultraweitwinkel‐ und Weitwinkelobjektiv, Nachtmodus, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR Aufnahme
-- Ceramic Shield, der mehr aushält als jedes Smartphone Glas
+- iOS 14 mit neuen Widgets auf dem Homescreen, der neuen App Mediathek, App Clips und mehr
 
 [🛒 Hier!!]({{< param buyurl >}})
