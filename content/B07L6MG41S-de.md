@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- auslaufsicher
 - Mit Deckel
 - Trinken von jeder Stelle des Becherrandes
+- auslaufsicher
 
 [🛒 Hier!!]({{< param buyurl >}})
