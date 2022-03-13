@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Netzstandard: IEEE 802.11a,IEEE 802.11ac,IEEE 802.11b,IEEE 802.11g,IEEE 802.11n
 - Top WLAN-Standard: Wi-Fi 5 (802.11ac)
 - Maximale Datenübertragungsrate: 433 Mbit/s
+- Netzstandard: IEEE 802.11a,IEEE 802.11ac,IEEE 802.11b,IEEE 802.11g,IEEE 802.11n
 - USB-Version: 2.0
-- Unterstützte Sicherheitsalgorithmen: WEP,WPA,WPA-PSK,WPA2,WPA2-Enterprise,WPA2-PSK
 - WLAN-Band: Dual-Band (2,4 GHz/5 GHz)
+- Unterstützte Sicherheitsalgorithmen: WEP,WPA,WPA-PSK,WPA2,WPA2-Enterprise,WPA2-PSK
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
