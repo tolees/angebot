@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Herren Core 18 Kapuzenpullover  rot  Power Red/White   M'
-date: 2022-03-09 10:38:40
+date: 2022-03-13 09:46:17
 image: 'https://m.media-amazon.com/images/I/41iU1gKNCaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regular Fit
-- Hood with lanyard
 - Kangaroo pocket
+- Hood with lanyard
+- Regular Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
