@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kangaroo pocket
-- Hood with lanyard
 - Regular Fit
+- Hood with lanyard
+- Kangaroo pocket
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
