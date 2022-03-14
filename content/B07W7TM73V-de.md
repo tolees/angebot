@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Polizeistation  Polizei-Spielzeug  Set mit LKW  Motorrad  Polizeigebäude sowie Sound- und Leuchtsteinen  Kinderspielzeug'
-date: 2022-03-13 01:46:48
+date: 2022-03-14 02:37:43
 image: 'https://m.media-amazon.com/images/I/51ntD-f3XJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W7TM73V-de LEGO 60246 City Polizeistation Polizei-Spielzeug Set mit...'
 sku: 'B07W7TM73V-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
-actualPrice: 81.38 EUR
+actualPrice: 77.18 EUR
 currency: EUR
-price: 81.38
+price: 77.18
 comparePrice: 99.99 EUR
 prodname: 'LEGO 60246 City Polizeistation  Polizei-Spielzeug  Set mit LKW  Motorrad  Polizeigebäude sowie Sound- und Leuchtsteinen  Kinderspielzeug'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21'
-descuento: '18.61'
-average: '73.2761498257842'
+descuento: '22.81'
+average: '73.282939130435'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,14 +29,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das detailreiche Polizeihauptquartier bietet Kindern riesigen Spielspaß, denn es verfügt über eine Explosionsfunktion (für Ausbrüche) und einen Suchscheinwerfer. Aber auch das Polizeiauto mit Sirene bereitet Fans der LEGO City Polizei große Freude
-- Für den Sound-Stein und den Leuchtstein in diesem Spielset wird jeweils eine Knopfzelle vom Typ CR1216 benötigt. Das Schöne daran? Sie liegen schon bei! Der Spielspaß kann sofort beginnen – und zwar mit Licht- und Sound-Effekten!
-- Der Box liegt eine einfache Bauanleitung bei. Online können aber auch Instructions PLUS heruntergeladen werden, die Teil der kostenlosen LEGO Life App sind. Diese interaktive Bauanleitung mit Funktionen zum Vergrößern, Drehen und näheren Betrachten der digitalen Modellansicht macht das Bauen zum Kinderspiel!
-- LEGO City Polizei-Sets enthalten detailreiche Gebäude, realistische Fahrzeuge und witzige Charaktere, die Kinder zu kreativem Spielspaß inspirieren, der ihr Selbstvertrauen stärkt und die Fingerfertigkeit verbessert
-- Die fertige Polizeistation ist 15 cm hoch, 48 cm breit und 24 cm tief. Der Polizei-Truck ist dagegen 6 cm hoch, 12 cm lang und 7 cm breit
-- LEGO Steine entsprechen den höchsten Branchenstandards sowie den strengen Qualitätskriterien der LEGO Gruppe, sodass sie stets perfekt zusammenpassen, fest zusammenstecken und sich leicht wieder trennen lassen
-- Inhalt des Sets: Eine Spielzeug-Polizeistation, 2 Trucks, ein Motorrad und eine Drohne. Ebenfalls enthalten sind 2 Hundefiguren sowie 6 Minifiguren, unter anderem Duke DeTain, Polizeichef Wheeler und Daisy Kaboom aus der LEGO City TV-Serie
-- Das LEGO City Spielset „Polizeistation“ ist ideal für Kinder ab 5 Jahren. Kinder, die Rollenspiele, Fahrzeugmodelle und Actionspielzeug lieben, werden von diesem Geschenk für jeden Anlass begeistert sein
 - Dieses Bauset wird vor allem Kinder begeistern, die gerne Actionspielzeug bauen. Das LEGO City Spielset „Polizeistation“ (60246) enthält eine explodierende Zelle, coole Fahrzeuge und witzige Charaktere. Der Spaß beginnt bereits mit dem Öffnen der Box
+- LEGO Steine entsprechen den höchsten Branchenstandards sowie den strengen Qualitätskriterien der LEGO Gruppe, sodass sie stets perfekt zusammenpassen, fest zusammenstecken und sich leicht wieder trennen lassen
 - Bei der LEGO Gruppe werden die LEGO Steine und Teile strengen Fall-, Druck-, Torsions-, Hitze-, Biss-, Biege-, Kratz- und Zugtests unterzogen, damit jedes Spielset die höchsten globalen Sicherheits- und Qualitätsstandards erfüllt
+- Die fertige Polizeistation ist 15 cm hoch, 48 cm breit und 24 cm tief. Der Polizei-Truck ist dagegen 6 cm hoch, 12 cm lang und 7 cm breit
+- Für den Sound-Stein und den Leuchtstein in diesem Spielset wird jeweils eine Knopfzelle vom Typ CR1216 benötigt. Das Schöne daran? Sie liegen schon bei! Der Spielspaß kann sofort beginnen – und zwar mit Licht- und Sound-Effekten!
+- Inhalt des Sets: Eine Spielzeug-Polizeistation, 2 Trucks, ein Motorrad und eine Drohne. Ebenfalls enthalten sind 2 Hundefiguren sowie 6 Minifiguren, unter anderem Duke DeTain, Polizeichef Wheeler und Daisy Kaboom aus der LEGO City TV-Serie
+- Der Box liegt eine einfache Bauanleitung bei. Online können aber auch Instructions PLUS heruntergeladen werden, die Teil der kostenlosen LEGO Life App sind. Diese interaktive Bauanleitung mit Funktionen zum Vergrößern, Drehen und näheren Betrachten der digitalen Modellansicht macht das Bauen zum Kinderspiel!
+- Das LEGO City Spielset „Polizeistation“ ist ideal für Kinder ab 5 Jahren. Kinder, die Rollenspiele, Fahrzeugmodelle und Actionspielzeug lieben, werden von diesem Geschenk für jeden Anlass begeistert sein
+- LEGO City Polizei-Sets enthalten detailreiche Gebäude, realistische Fahrzeuge und witzige Charaktere, die Kinder zu kreativem Spielspaß inspirieren, der ihr Selbstvertrauen stärkt und die Fingerfertigkeit verbessert
 
 [🛒 Hier!!]({{< param buyurl >}})
