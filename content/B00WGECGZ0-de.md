@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unvergleichlich feuriger Genuß
 - Hauchdünn geschnitten und extra knusprige Kartoffelchips
 - Scharf-pikanter Geschmack der Peperoni
+- Unvergleichlich feuriger Genuß
 - Vegetarisch und vegan. Ohne künstliche Geschmacksverstärker, künstliche Farbstoffe. Mit reinem Sonnenblumenöl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
