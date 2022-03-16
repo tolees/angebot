@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Netgear Orbi universeller Outdoor Mesh Satellit RBS50Y, Wandhalterung und Schrauben, Standfuß, Netzteil 12V/2,5 A, Kurzanleitung
-- Vergrößerung der WiFi-Abdeckung in den Außenbereich um bis zu weiteren 175 m², ideal für Garten, Garagen, Außenanlagen und Pool-Bereich
-- RBS50Y ist kompatibel mit AC / WiFi 5 Orbi-Modellen, nicht mit neuen WiFi 6 Mesh-Systemen
-- Smart Home Anbindung Ihres Gartens mit zuverlässigem WiFi für Musik- und Video-Streaming beim Grillen und Relaxen
-- Einfache Wandmontage oder mit Standfuß, deaktivierbare indirekte Beleuchtung, wetterfest nach IP56 hält Regen, Schnee und Sonne dauerhaft stand
 - 2x bessere Performance als herkömmliche Router, Repeater, Powerline Systeme oder Dual-Band Mesh Systemen mittels Tri-Band Technologie
-- Einheitlicher Netzwerkname im ganzen Haus und Außenbereich (Single SSID), genießen Sie ideales Mesh WiFi ohne das WLAN-Signal jemals zu verlieren
+- Einfache Wandmontage oder mit Standfuß, deaktivierbare indirekte Beleuchtung, wetterfest nach IP56 hält Regen, Schnee und Sonne dauerhaft stand
 - Ideal als WLAN-Erweiterung eines bestehenden Orbi Wifi 5 oder Orbi Pro Wifi 5 Mesh WLAN nach draußen (nicht mit den Orbi WiFi 6 Systeme kompatibel)
+- Lieferumfang: Netgear Orbi universeller Outdoor Mesh Satellit RBS50Y, Wandhalterung und Schrauben, Standfuß, Netzteil 12V/2,5 A, Kurzanleitung
 - Nicht kompatibel mit Orbi WiFi 6 AX-Systemen, dafür kompatibel mit allen AC WLAN-Routern von zB AVM FritzBox, Telekom Speedport oder Unity Media (herstellerunabhängig per Universal Repeater Mode)
+- RBS50Y ist kompatibel mit AC / WiFi 5 Orbi-Modellen, nicht mit neuen WiFi 6 Mesh-Systemen
+- Vergrößerung der WiFi-Abdeckung in den Außenbereich um bis zu weiteren 175 m², ideal für Garten, Garagen, Außenanlagen und Pool-Bereich
+- Einheitlicher Netzwerkname im ganzen Haus und Außenbereich (Single SSID), genießen Sie ideales Mesh WiFi ohne das WLAN-Signal jemals zu verlieren
+- Smart Home Anbindung Ihres Gartens mit zuverlässigem WiFi für Musik- und Video-Streaming beim Grillen und Relaxen
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- steuerung über google assistant oder amazon alexa möglich
-- steuerung über ledvance smart + app (ab android 6.0)
 - farbtemperatur über tunable white einstellbar: 3.0006.500 k
+- steuerung über ledvance smart + app (ab android 6.0)
+- steuerung über google assistant oder amazon alexa möglich
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- rgb-farbsteuerung, ca. 16 mio. farbmöglichkeiten einstellbar
 - dimmbar
+- rgb-farbsteuerung, ca. 16 mio. farbmöglichkeiten einstellbar
 - Nachhaltige und neueste LED Technologie; keine reguläre Birne enthalten
 
 [🛒 Hier!!]({{< param buyurl >}})

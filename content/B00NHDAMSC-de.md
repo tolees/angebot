@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Starter Kit stellt die Verbindung zwischen zwei Netzwerkgeräten her (z.B. Router zu einem PC); Es ist möglich bei Leitungslängen von bis zu 400 Metern ein konstant schnelles Signal nutzen zu können
-- Mit zwei integrierten Gigabit LAN-Anschlüssen für Ihre internetfähigen Geräte (Smart-TV, Spielekonsole, PC, etc.)
-- WLAN aus jeder Steckdose mit ac-Geschwindigkeit von bis zu 1200 Mbit/s für Smartphone, Tablet, Laptop, etc.
 - Erweitern Sie Ihr Heimnetzwerk jederzeit (kompatibel zu den dLAN 200/500/550/650/1000/1200 Produktserien)
+- Mit zwei integrierten Gigabit LAN-Anschlüssen für Ihre internetfähigen Geräte (Smart-TV, Spielekonsole, PC, etc.)
 - Lieferumfang: 1x dLAN 1200+ WiFi ac Powerline Adapter, 1x dLAN 1200+ Powerline Adapter, 1x Ethernet Kabel (2m), 1x Installationsanleitung
+- WLAN aus jeder Steckdose mit ac-Geschwindigkeit von bis zu 1200 Mbit/s für Smartphone, Tablet, Laptop, etc.
+- Dieses Starter Kit stellt die Verbindung zwischen zwei Netzwerkgeräten her (z.B. Router zu einem PC); Es ist möglich bei Leitungslängen von bis zu 400 Metern ein konstant schnelles Signal nutzen zu können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
