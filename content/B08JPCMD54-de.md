@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lange Batterielaufzeit
 - Kabellose Bluetooth-Verbindung
 - Netzbeutel für unterwegs
-- Premium HyperX Sound
 - Legendärer HyperX-Komfort, Inline-Mikrofon und Audiosteuerung
+- Lange Batterielaufzeit
+- Premium HyperX Sound
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

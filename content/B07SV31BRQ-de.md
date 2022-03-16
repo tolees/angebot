@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kopplung mit zweiten Lautsprecher möglich (Stereoeffekt)
-- Akku-Laufzeit: bis zu 3 Stunden
-- 3 Watt Ausgangsleistung
 - Sehr kompakter, tragbarer Bluetooth-Lautsprecher
 - Wasserbeständig nach IP54-Standard
+- 3 Watt Ausgangsleistung
+- Akku-Laufzeit: bis zu 3 Stunden
+- Kopplung mit zweiten Lautsprecher möglich (Stereoeffekt)
 
 [🛒 Hier!!]({{< param buyurl >}})
