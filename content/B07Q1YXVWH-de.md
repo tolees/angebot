@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DOQAUS Bluetooth Kopfhörer Over Ear  [Bis zu 52 Std] Kopfhörer Kabellos mit 3 EQ-Modi  Dual 40mm Treiber  Memory-Protein Ohrpolster und Integriertem Mikrofon für Smartphone/PC/TV  Verbesserte '
-date: 2022-03-15 13:40:19
+date: 2022-03-17 02:34:48
 image: 'https://m.media-amazon.com/images/I/41b82sKLHLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'DOQAUS'
 buyurl: 'https://www.amazon.de/dp/B07Q1YXVWH/?tag=tolees0ca-21'
 descuento: '32.35'
-average: '34.805'
+average: '34.6536363636364'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
