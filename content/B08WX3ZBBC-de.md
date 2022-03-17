@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das LEGO Friends Würfelset enthält die Ballerina Mini Puppe Stephanie, eine Kaninchen-Figur in einer von 4 zufälligen Farben, sowie viel weiteres Zubehör für das Ballettstudio
 - Dieser tragbare Mini-Spielwürfel ist ein abwechslungsreiches Geschenk für Mädchen und Jungen ab 6 Jahre, für besondere Anlässe, zum Geburtstag oder einfach so
 - Mit dem Zubehör, nämlich einer Barre, einem Klavier, einem großen Spiegel, einer Pokal und einem Krönchen können Kinder das Training und die Auftritte von Stephanie nachspielen
-- Alle Teile des Kinderspielzeugs sind an der Basis befestigt, sodass auch auf Reisen, unterwegs und auf dem Schulhof keine Teile verloren gehen können
+- Das LEGO Friends Würfelset enthält die Ballerina Mini Puppe Stephanie, eine Kaninchen-Figur in einer von 4 zufälligen Farben, sowie viel weiteres Zubehör für das Ballettstudio
 - Kinder können das Innere dieses tragbaren Spielzeugs ab 6 Jahre dank des mitgelieferten Zubehörs und der Aufkleber in ein echtes Ballettstudio verwandeln
+- Alle Teile des Kinderspielzeugs sind an der Basis befestigt, sodass auch auf Reisen, unterwegs und auf dem Schulhof keine Teile verloren gehen können
 
 [🛒 Hier!!]({{< param buyurl >}})
