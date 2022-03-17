@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt aus Rippstrick
+- Heavyweight Jersey
 - Brusttasche
 - Kurzarm
-- Heavyweight Jersey
 - Carhartt ist eine Marke für Arbeitskleidung mit einer weiteren Passform an Brust und Schultern Wenn Sie eine körpernahe Passform bevorzugen, nehmen Sie die nächstkleinere Größe
+- Rundhalsausschnitt aus Rippstrick
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

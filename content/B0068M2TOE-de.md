@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Für Rückfragen zur Passgenauigkeit kontaktieren Sie uns bitte über unsere Amazon-Händlerseite
+- Herkunftsland:- Deutschland
 - Verpackungsgewicht: 0.806 Kilogramm
 - Verpackungsabmessungen (L x B x H): 140.0 x 80.0 x 140.0 mm
-- Herkunftsland:- Deutschland
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

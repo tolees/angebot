@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - In ihrem pinkfarbenen Badeanzug mit lustigem Kaktus-Print und dem gestreiftem Strandrock ist die Barbie-Puppe mit ihren gewellten blonden Haaren bereit für den Sprung ins kühle Nass.
-- Mit der Barbie-Puppe und ihrem Pool-Spielset mit Schwimmring können sich Kinder die tollsten Geschichten ausdenken!
 - Der Tisch im Eiskübel-Design mit Stecksystem sorgt dafür, dass die Karaffe und das Glas beim Spielen nicht verrutschen!
-- Und das Strandtuch sorgt für noch mehr Spaß beim Rollenspiel!
+- Mit der Barbie-Puppe und ihrem Pool-Spielset mit Schwimmring können sich Kinder die tollsten Geschichten ausdenken!
 - Einfach den Donut-Schwimmring ins Wasser legen und zusehen, wie er schwimmt. Auch die Barbie-Puppe kann auf dem Schwimmring auf dem Wasser treiben.
+- Und das Strandtuch sorgt für noch mehr Spaß beim Rollenspiel!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
