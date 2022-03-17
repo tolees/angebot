@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3 Reinigungsmodi: Nutzen Sie für komplexe Bereiche den Random-Modus oder den Random Room-Modus, wenn Sie schnell, innerhalb von 30 Minuten Ergebnisse sehen möchten; nutzen Sie zum Reinigen entlang von Wänden und Leisten den Edge-Modus
 - Einfache Programmierung: Das Zeitplanungssystem verfügt über bis zu 7 Programme für die tägliche Nutzung, sodass Ihr Zuhause jederzeit staubfrei ist
 - Lithium-Ionen Batterie - kompakt und langlebig: Die Lithium-Technologie ermöglicht eine Laufzeit von bis zu 150 Minuten, abgerundet durch ein selbstaufladendes System, indem der Roboter bei niedrigem Batteriestand automatisch zur Ladestation zurückfährt
+- 3 Reinigungsmodi: Nutzen Sie für komplexe Bereiche den Random-Modus oder den Random Room-Modus, wenn Sie schnell, innerhalb von 30 Minuten Ergebnisse sehen möchten; nutzen Sie zum Reinigen entlang von Wänden und Leisten den Edge-Modus
 - Sichere Navigation: Die Infrarot- und Berührungssensoren erkennen Hindernisse und ermöglichen einen sanften Umgang mit Möbeln; Fallsensoren verhindern das Herunterfallen auf Treppen
 - Gute Saugleistung auf allen Hartböden: Dank der Kombination aus einer Bürste mit Direktantrieb und zwei seitlichen Bürsten für eine effiziente Reinigung inklusive Ecken; mit zusätzlicher Wischfunktion kann der Boden nun gleichzeitig gesaugt und gewischt werden
 
