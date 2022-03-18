@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1,39 Zoll großes AMOLEDHD-Display (450 Nits) mit Gorilla Glass 3 von Corning
-- 5 ATM Wasserfestigkeit (bis zu 50 m)
+- 17 Modi für Profi-Workouts und 100 unterstützte Übungen & Bewegungsalgorithmus von Firstbeat
+- Sehr leicht, nur 32 g
+- Native Emoji-Unterstützung
 - Messung vielfältiger Gesundheits- und Fitnessdaten: Überwachung des Sauerstoffgehalts im Blut und der Belastungslevel, Atemübungen, Überwachung der Körperenergie, Echtzeitüberwachung der Herzfrequenz, Überwachung des Schlafzyklus (Aufzeichnung des REM-, Tief- und Leichtschlafs)
 - Fernbedienungsfunktion für die Telefonkamera
-- Native Emoji-Unterstützung
-- Sehr leicht, nur 32 g
 - Eingebautes GPS (GPS, Galileo, BDS, Glonass), geomagnetischer Kompass, Luftdruck und Höhenmesser
-- > 100 detailreiche Ziffernblätter; Personalisierung des Ziffernblatts mit eigenem Lieblingsfotos möglich
-- 17 Modi für Profi-Workouts und 100 unterstützte Übungen & Bewegungsalgorithmus von Firstbeat
+- 5 ATM Wasserfestigkeit (bis zu 50 m)
 - 16 Tage Batterielaufzeit pro Ladezyklus (2 Stunden Ladezeit) bei durchschnittlichem Gebrauch; 22 Tage im Modus für lange Batterielaufzeit; > 50 Stunden Batterielaufzeit im Sports-Modus mit GPS-Nutzung
+- 1,39 Zoll großes AMOLEDHD-Display (450 Nits) mit Gorilla Glass 3 von Corning
+- > 100 detailreiche Ziffernblätter; Personalisierung des Ziffernblatts mit eigenem Lieblingsfotos möglich
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das besondere Geschenk für Liebhaber von leicht rauchigen und ausgewogenen Whiskeys. Connemara, der einzige getorfte Single Malt Whiskey aus Irland
-- Connemara ist ein hoch angesehener, irischer Whisky, der seit 2012 über 20 Medaillen bei großen Spirituosenwettbewerben erhalten hat
 - So entsteht ein besonders ausgeglichener Whiskey mit milder Süße und intensiven, rauchigen Aromen
+- Connemara ist ein hoch angesehener, irischer Whisky, der seit 2012 über 20 Medaillen bei großen Spirituosenwettbewerben erhalten hat
 - Nach irischer Tradition wird Connemara auch heute noch zweifach destilliert und die Gerste nach dem Mälzen über Torffeuer
 - Die traditionelle Herstellungsweise ist mittlerweile eine Besonderheit, sodass Connemara heute der einzige getorfte Single Malt Whiskey aus Irland ist. Sehr weich im Geschmack mit Honignoten, Malz- und Fruchtaromen, gefolgt von einem vollmundigen Torfaroma
 

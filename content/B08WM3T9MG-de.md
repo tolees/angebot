@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Unterstützt TV Sound Share
 - Inkl. Fernbedienung (RAV21) mit 2x AA-Batterien, Schnellstartanleitung, Optisches Kabel, Wandhalterung, Garantiekarte, Anleitung: Montage der Wandhalterung
 - 2.1-Soundbar mit integriertem Subwoofer
-- Konnektivität: Unterstützt ARC und LG SIMPLINK (HDMI CEC), LG Sound Sync via Bluetooth und optischem Kabel, Steuerung und Playback via Smartphone; 2x HDMI 1.4 (In & Out), USB- und optischer Anschluss; Bluetooth (v4.0)
-- Unterstützt TV Sound Share
 - Leistung: 100 Watt (2x 35 Watt Front, 30 Watt Subwoofer)
+- Konnektivität: Unterstützt ARC und LG SIMPLINK (HDMI CEC), LG Sound Sync via Bluetooth und optischem Kabel, Steuerung und Playback via Smartphone; 2x HDMI 1.4 (In & Out), USB- und optischer Anschluss; Bluetooth (v4.0)
 
 [🛒 Hier!!]({{< param buyurl >}})
