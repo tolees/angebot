@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnalle aus gebürstetem Metall
 - Calvin Klein Logo auf der Schnalle
+- Schnalle aus gebürstetem Metall
 - Logoprägung an der Spitze
 - Büffelleder mit Narbenstruktur
 
