@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine unvergleichliche Création der Maîtres Chocolatiers von Lindt
-- Wichtiger HINWEIS: Osterartikel haben ein einheitliches Mindesthaltbarkeitsdatum (ca. 3 Monate nach Ostern)
 - Ideal zum Verschenken oder selber genießen
-- Der Lindt Goldhase, ein weltweites Symbol für Ostern, wird seit rund 70 Jahren von den Lindt Schweizer Maitres Chocolatiers mit Leidenschaft kreiert
-- Aus feinsten Zutaten, darunter Kakaobohnen aus nachhaltigem Anbau
+- Wichtiger HINWEIS: Osterartikel haben ein einheitliches Mindesthaltbarkeitsdatum (ca. 3 Monate nach Ostern)
 - Als zeitlose Schokoladenikone des Osterfestes veredelt der Lindt Gold Hase die Feierlichkeiten zu unvergesslichen Momenten
+- Aus feinsten Zutaten, darunter Kakaobohnen aus nachhaltigem Anbau
+- Eine unvergleichliche Création der Maîtres Chocolatiers von Lindt
+- Der Lindt Goldhase, ein weltweites Symbol für Ostern, wird seit rund 70 Jahren von den Lindt Schweizer Maitres Chocolatiers mit Leidenschaft kreiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

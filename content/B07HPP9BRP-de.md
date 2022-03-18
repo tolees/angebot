@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marshall Acton II Bluetooth Lautsprecher  Kabelloser - Schwarz  EU '
-date: 2022-03-13 01:11:50
+date: 2022-03-18 14:36:41
 image: 'https://m.media-amazon.com/images/I/51kTNGYzwdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Marshall'
 buyurl: 'https://www.amazon.de/dp/B07HPP9BRP/?tag=tolees0ca-21'
 descuento: '26.02'
-average: '194.58745098039'
+average: '194.672307692306'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
