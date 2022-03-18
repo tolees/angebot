@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Saphirglas
+- Gehäusemaß: 40 mm
 - 3 Bar
 - Dornschließe
-- Saphirglas
 - Lederband
-- Gehäusemaß: 40 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

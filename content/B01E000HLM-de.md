@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lichtstrom: 4000 lm
 - Kabellänge: 5 m
+- Lichtstrom: 4000 lm
 - Leistungsaufnahme: 48 W
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
