@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inhalt: 1 Stück
+- Farbe: schwarz
 - Produktabmessungen: 28x15x8cm
 - Marke: Smp
-- Farbe: schwarz
 
 [🛒 Hier!!]({{< param buyurl >}})

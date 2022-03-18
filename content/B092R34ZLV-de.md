@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Logoprägung an der Spitze
 - Calvin Klein Logo auf der Schnalle
 - Schnalle aus gebürstetem Metall
-- Logoprägung an der Spitze
 - Büffelleder mit Narbenstruktur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
