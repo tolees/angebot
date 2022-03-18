@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das kompakte & edle Design ist gemäß IPX7 wasserdicht und mit seinen 5 Preset-Tasten einfach zu bedienen / Ein beleuchtetes LCD-Display zeigt gestochen scharfe Senderinformationen an
+- Lieferumfang: 1 x JBL Tuner 2 in Schwarz / Inkl. USB Ladekabel, 5V/1,2A-Adapter, Sicherheitsdatenblatt, Kurzanleitung & Garantieschein / Immer auf dem neuesten Stand: Das mobile Outdoor Radio
 - Der integrierte Lithium Ionen Akku macht auch längere Ausflüge in die Welt der Musik möglich - bis zu 12 Stunden puren Genuss / Kabellos per Bluetooth sämtliche Inhalte z.B. vom Smartphone streamen
 - Der Entertainer für unterwegs: Der JBL Tuner 2 sorgt an jedem Ort für gute Laune, egal ob in der Küche, im Garten oder am Pool - das portable DAB plus Radio unterhält vollkommen ortsunabhängig
+- Das kompakte & edle Design ist gemäß IPX7 wasserdicht und mit seinen 5 Preset-Tasten einfach zu bedienen / Ein beleuchtetes LCD-Display zeigt gestochen scharfe Senderinformationen an
 - Die Übertragungsart DAB+ ermöglicht rauschfreies & klangstarkes Radio bei robustem Empfang / Klassische analoge UKW Radiostationen sind ebenso zuverlässig empfangbar
-- Lieferumfang: 1 x JBL Tuner 2 in Schwarz / Inkl. USB Ladekabel, 5V/1,2A-Adapter, Sicherheitsdatenblatt, Kurzanleitung & Garantieschein / Immer auf dem neuesten Stand: Das mobile Outdoor Radio
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
