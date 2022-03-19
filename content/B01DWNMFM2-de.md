@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schlüsselloch
-- Verbatim 2 Jahre eingeschränkte
 - High Speed USB 3.2 Gen 1 Schnittstelle
 - Verfügbare Kapazitäten: 128 GB
 - Stylisches einziehbares PinStripe Design
+- Verbatim 2 Jahre eingeschränkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

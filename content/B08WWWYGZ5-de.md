@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses große LEGO NINJAGO Set mit 1.159 Teilen ist ein spannendes Weihnachtsgeschenk für Kinder ab 9 Jahren und wird lange Freude bereiten
 - Das Spielzeug-U-Boot hat 2 federgelagerte Shooter, 2 klappbare Flügel, ein aufklappbares Cockpit & einen abnehmbaren Mech, und es trägt 2 coole Mini-U-Boote
-- Enthält außerdem die Minifiguren Prinz Kalmaar und eine Maaray-Garde sowie 2 Wu-Bots und den Wagen des Prinzen, der von einem Riesenmanta gezogen wird
+- Dieses große LEGO NINJAGO Set mit 1.159 Teilen ist ein spannendes Weihnachtsgeschenk für Kinder ab 9 Jahren und wird lange Freude bereiten
 - Enthalten sind 10 LEGO NINJAGO Figuren originalgetreu aus der NINJAGO: Seabound TV-Serie: Scuba Kai, Scuba Cole, Scuba Jay, Scuba Lloyd, Scuba Zane und Scuba Nya
 - Entdecken Sie weitere spannende Sets, die auf der TV-Serie NINJAGO: Seabound basieren, darunter der Wasserdrache (71754) und der Unterwasserspeeder (71752)
 - Das LEGO Unterwasserfahrzeug enthält ein U-Boot-Spielzeug, das einen baubaren Mech freisetzt, mit dem Fans spannende Geschichten unter dem Meer inszenieren können
+- Enthält außerdem die Minifiguren Prinz Kalmaar und eine Maaray-Garde sowie 2 Wu-Bots und den Wagen des Prinzen, der von einem Riesenmanta gezogen wird
 
 [🛒 Hier!!]({{< param buyurl >}})

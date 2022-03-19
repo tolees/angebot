@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reebok Reebok Lite 3.0
 - LITE 3.0 RUNNING CORE SCHUHE
+- Reebok Reebok Lite 3.0
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
