@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Außenliegende Wasserstandsanzeige mit Füllmengenmarkierung, automatische Abschaltung, Tropf-Stopp bei Kannenentnahme, Selbstreinigungsfunktion
-- Wassertank leicht zu befüllen, ausschwenkbare Filterträgereinheit mit herausnehmbarem, waschbarem Filterträger, brüht auch bereits gemahlenen Kaffee
-- Herausnehmbarer Vorratsbehälter für Kaffeebohnen mit einem Fassungsvermögen von 250g, einstellbare Mahlmenge von 2-10 Tassen
-- Motorschutz zum Verhindern dass harte Bohnen oder Steine das Mahlwerk beschädigen
-- Thermo-Kaffeemaschine mit integriertem konischen Kegelmahlwerk, hochwertige Thermokanne mit einem Fassungsvermögen von 10 Tassen (1, 25l)
 - Digitales Bedienelement mit programmierbarem Timer, Brühstärkeneinstellung und Uhrzeit, 3-stufige Mahlgradeinstellung: grob, medium, fein
 - Mahlt die gewünschte Menge an Kaffeebohnen und transportiert den gemahlenen Kaffee in den Filterträger, brüht auch bereits gemahlenen Kaffee
+- Außenliegende Wasserstandsanzeige mit Füllmengenmarkierung, automatische Abschaltung, Tropf-Stopp bei Kannenentnahme, Selbstreinigungsfunktion
+- Herausnehmbarer Vorratsbehälter für Kaffeebohnen mit einem Fassungsvermögen von 250g, einstellbare Mahlmenge von 2-10 Tassen
+- Motorschutz zum Verhindern dass harte Bohnen oder Steine das Mahlwerk beschädigen
+- Wassertank leicht zu befüllen, ausschwenkbare Filterträgereinheit mit herausnehmbarem, waschbarem Filterträger, brüht auch bereits gemahlenen Kaffee
+- Thermo-Kaffeemaschine mit integriertem konischen Kegelmahlwerk, hochwertige Thermokanne mit einem Fassungsvermögen von 10 Tassen (1, 25l)
 
 [🛒 Hier!!]({{< param buyurl >}})
