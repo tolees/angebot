@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Wasserdicht bis zu 5 ATM / 50 Meter. Geschützt gegen Regen und Wasserspritzer. Kann beim Duschen und Baden getragen werden.
-- Das glanzvolle Gehäuse besteht aus hochwertigem, silber IP-plated Edelstahl (316l)
 - Die SOLAR COLLECTION nutzt eine umweltfreundliche und unendlich verfügbare Energiequelle: Licht.
 - Das Band besteht aus hochwertigem, silber IP-plated Edelstahl (316l). Es ist 190mm lang und 10mm breit.
 - Die minimalistische Uhr wird durch ein flaches und sehr kratzfestes Saphirglas geschützt
 - Die Uhr kommt mit BERING Originalverpackung
+- Das glanzvolle Gehäuse besteht aus hochwertigem, silber IP-plated Edelstahl (316l)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
