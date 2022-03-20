@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 7 inkludierte Zubehörteile sorgen für größtmögliche Vielfalt an Zubereitungsmöglichkeiten und verschiedenen Rezepte: Pommes-Korb, 2 weitere Einsätze, Abtropfschale, Hähnchengabel mit Vorrichtung zum Herausnehmen und beidseitig verwendbare Pizza- und Grillplatte mit abnehmbarem Griff
-- 9-in-1: Eine Kombination aus 9 manuellen und automatischen Funktionen in einem einzigen Gerät für perfekte Ergebnisse: Heißluftfrittieren, Rösten, Grillen, Backen, Braten, Dörren, Toasten, Rotissieren und Aufwärmen; für größtmögliche Kochvielfalt in einem Produkt
 - Grillplatte aus Druckguss: Für optimale Grillergebnisse inklusive Grillstreifen bei Fisch, Hühnchen, Fleisch und Gemüse; Grillen in der Wohnung ganz ohne Rauchentwicklung und lästigen Geruch
-- 8 automatische Programme: Benutzerfreundlich mit 8 voreingestellten Programmen, die automatisch die optimale Temperatur und Garzeit einstellen - Pommes, Hähnchen, Fleisch, Fisch, Pizza, Kuchen, Dörren, Grillen
+- 7 inkludierte Zubehörteile sorgen für größtmögliche Vielfalt an Zubereitungsmöglichkeiten und verschiedenen Rezepte: Pommes-Korb, 2 weitere Einsätze, Abtropfschale, Hähnchengabel mit Vorrichtung zum Herausnehmen und beidseitig verwendbare Pizza- und Grillplatte mit abnehmbarem Griff
 - Schnell und energieeffizient: 30 % schneller und energieeffizienter als ein klassicher Ofen (externer Test, ausgeführt an 700 g Tiefkühlpommes, im Vergleich zu einem Tefal Konvektionsofen); kein Vorheizen wie im Backofen notwendig sowie System zur schnellen Heißluftzirkulation
+- 9-in-1: Eine Kombination aus 9 manuellen und automatischen Funktionen in einem einzigen Gerät für perfekte Ergebnisse: Heißluftfrittieren, Rösten, Grillen, Backen, Braten, Dörren, Toasten, Rotissieren und Aufwärmen; für größtmögliche Kochvielfalt in einem Produkt
+- 8 automatische Programme: Benutzerfreundlich mit 8 voreingestellten Programmen, die automatisch die optimale Temperatur und Garzeit einstellen - Pommes, Hähnchen, Fleisch, Fisch, Pizza, Kuchen, Dörren, Grillen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
