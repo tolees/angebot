@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abgestimmt für leisen Betrieb: Ein 140-mm-Lüfter mit Rifle-Lager und eine maßgeschneiderte Lüfterkurve reduzieren die Lautstärke auch bei voller Leistung auf ein Minimum
+- Drei EPS12V-Anschlüsse: Für volle Kompatibilität mit modernen Grafikkarten und Mainboards
 - Zero RPM-Lüftermodus: Bei kleinen und mittleren Lasten wird der Lüfter vollständig ausgeschaltet und ermöglicht einen nahezu geräuschlosen Betrieb
 - 80 PLUS Gold-Zertifikat: Bis zu 90 % Effizienz für einen geringeren Stromverbrauch, einen leiseren Betrieb und niedrigere Temperaturen
-- Drei EPS12V-Anschlüsse: Für volle Kompatibilität mit modernen Grafikkarten und Mainboards
 - Auf 105 °C ausgelegte Kondensatoren: Kondensatoren industrieller Güteklasse sorgen für hervorragende elektrische Performance und Zuverlässigkeit
 - Vollständig modulare Kabel: Schließen Sie nur die nötigsten Kabel an, damit Ihr System ordentlich und aufgeräumt daherkommt
+- Abgestimmt für leisen Betrieb: Ein 140-mm-Lüfter mit Rifle-Lager und eine maßgeschneiderte Lüfterkurve reduzieren die Lautstärke auch bei voller Leistung auf ein Minimum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
