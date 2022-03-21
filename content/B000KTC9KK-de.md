@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x Leitz Mini-Heftgerät aus Kunststoff, Maße (BxHxT): 29 x 38 x 101 mm, Gewicht: 70 g, Farbe: Blau, Kartonverpackung, NeXXt-Serie, 55170035
-- Zuverlässiges Heftgerät in kompakter Größe für bis zu 10 Blatt (80 g/m2 Papier), Ideal für den täglichen Gebrauch im Büro, in der Schule und unterwegs, Heften ohne Klammerstau, Patentierte Direct Impact Technology
 - Integrierter Entklammerer, Nachfüllanzeige, Einfache Befüllung von oben dank Oberlademechanik, Praktische Nagelfunktion dank 180 Grad Öffnung, Handliches Heftgerät für kleinste Federmäppchen
 - Mini-Heftgerät für Leitz Power Performance P2 (Nr. 10) Heftklammern mit scharfen Spitzen für optimales Tackern, Ideal für 1 bis 10 Blatt (80 g/m2 Papier)
 - Kombinierbar mit Leitz Büroartikeln und anderen Produkten aus dem Leitz NeXXt Sortiment, 3 Jahre Garantie bei der Verwendung von Leitz Heftklammern, Hergestellt in Deutschland und GS-geprüft
+- Lieferumfang: 1 x Leitz Mini-Heftgerät aus Kunststoff, Maße (BxHxT): 29 x 38 x 101 mm, Gewicht: 70 g, Farbe: Blau, Kartonverpackung, NeXXt-Serie, 55170035
+- Zuverlässiges Heftgerät in kompakter Größe für bis zu 10 Blatt (80 g/m2 Papier), Ideal für den täglichen Gebrauch im Büro, in der Schule und unterwegs, Heften ohne Klammerstau, Patentierte Direct Impact Technology
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ab 4 Jahren geeignet
 - Flattert und fuchtelt mit den Flügeln
-- Figur watschelt und bewegt sich.
-- Bei Berührung authentisches PORG-Gezwitscher
 - Interaktive Plüschfigur zu Episode 8
+- Bei Berührung authentisches PORG-Gezwitscher
+- Figur watschelt und bewegt sich.
+- Ab 4 Jahren geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

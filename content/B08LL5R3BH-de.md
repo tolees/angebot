@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vielseitig einsetzbar für Schule, Büro, Hobby, Kunst uvm.
+- Super auswaschbar (aus den meisten Textilien)
+- Im 12er Kartonetui
 - In 12 kräfitgen Farben
 - Ideal zum Ausmalen und Malen
-- Im 12er Kartonetui
-- Super auswaschbar (aus den meisten Textilien)
 
 [🛒 Hier!!]({{< param buyurl >}})
