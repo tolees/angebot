@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DDR4
-- Uneingeschränkte Mobilität dank geringem Gewicht und kompakten Abmessungen
-- Fast Tracking Sensor für hohe Präzision auch auf Glasoberflächen und einer Auflösung von bis zu 1.800 dpi
 - Kabellose Freiheit dank Bluetooth Konnektivität
 - Speichertechnik
+- DDR4
+- Fast Tracking Sensor für hohe Präzision auch auf Glasoberflächen und einer Auflösung von bis zu 1.800 dpi
+- Uneingeschränkte Mobilität dank geringem Gewicht und kompakten Abmessungen
 
 [🛒 Hier!!]({{< param buyurl >}})
