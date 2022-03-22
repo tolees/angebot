@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Montage
-- Kratzsäulen mit Seegras umwickelt
 - Einfach abnehmbare Kissen und Kratzflächen durch Klett
+- Kratzsäulen mit Seegras umwickelt
 - Stabile Konstruktion
+- Einfache Montage
 - Kubus-Höhle mit Plattform
 
 [🛒 Hier!!]({{< param buyurl >}})
