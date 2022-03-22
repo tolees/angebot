@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PP-Schaft und Kappe garantieren lange Lebensdauer, kein Ausdampfen der Tinte, einfaches Nachfüllen mit Staedtler-Tankstelle 488 51, Made in Germany
-- Lieferumfang: 4 Farben (rot, blau, grün, schwarz) in der stabilen, aufstellbaren Staedtler-Box
-- Blockierte Keilspitze, Linienbreite ca. 2 oder 5 mm - verhindert, dass die Spitze in den Schaft eingedrückt wird
 - Dry Safe - kann tagelang offen liegen, ohne einzutrocknen (Prüfklima nach ISO 554) - für hohe Zuverlässigkeit
+- Blockierte Keilspitze, Linienbreite ca. 2 oder 5 mm - verhindert, dass die Spitze in den Schaft eingedrückt wird
 - Trocken und rückstandsfrei abwischbar von Whiteboards und Flächen wie Glas und Porzellan, Schnelltrocknende, xylol- und toluolfreie Tinte, Airplane safe
+- Lieferumfang: 4 Farben (rot, blau, grün, schwarz) in der stabilen, aufstellbaren Staedtler-Box
+- PP-Schaft und Kappe garantieren lange Lebensdauer, kein Ausdampfen der Tinte, einfaches Nachfüllen mit Staedtler-Tankstelle 488 51, Made in Germany
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
