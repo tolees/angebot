@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ThinkFun - 76371 - Escape the Room  Das verfluchte Puppenhaus - Exit-Spiel für Zuhause  Party-Event mit Gruselfaktor  für 2 oder mehr Spieler ab 13 Jahren'
-date: 2022-03-20 21:08:37
+date: 2022-03-23 05:50:49
 image: 'https://m.media-amazon.com/images/I/51cLdVUNEIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spannender Rätselspaß mit einem Hauch Horrorgeschichte für Freunde der Escape Spiele und Exit Spiele. Die Spielschachtel verwandelt sich in ein dreistöckiges 3D Puppenhaus und ihr müsst euch durch alle 5 Räume rätseln
-- Macht euch bereit für das intensivste Escape-Room-Erlebnis, das ihr je hattet - bei euch zuhause, in euren eigenen vier Wänden! Theoretisch auch alleine spielbar, macht es doch erst in Gruppen ab 4 Personen so richtig Spaß!
 - Die Spielschachtel selbst wird zum 3-dimensionalen Puppenhaus inklusive Mobiliar. Mit diversen Geheimgegenständen (lasst euch überraschen) und einem Begleitheft zieht sie euch mitten in die Geschichte! Hinweise, Anleitung zum Wiederzusammenbau und Rätsel zum Nachdrucken sind online verfügbar
 - Das perfekte Geschenk für Rätsel- und Gruselfreunde, die einen unterhaltsame Abend mit Freunden verbringen möchten. Snacks, ein gruseliger Soundtrack und los gehts
+- Spannender Rätselspaß mit einem Hauch Horrorgeschichte für Freunde der Escape Spiele und Exit Spiele. Die Spielschachtel verwandelt sich in ein dreistöckiges 3D Puppenhaus und ihr müsst euch durch alle 5 Räume rätseln
 - Was geht im Werkzeugschuppen des Nachbarn vor? Was sind das für Schatten hinter dem Fenster? Escape the Room 3 - das verfluchte Puppenhaus zieht die Spieler in seinen Bann. Wer kann alle Rätsel lösen, um rechtzeitig zu entkommen?
+- Macht euch bereit für das intensivste Escape-Room-Erlebnis, das ihr je hattet - bei euch zuhause, in euren eigenen vier Wänden! Theoretisch auch alleine spielbar, macht es doch erst in Gruppen ab 4 Personen so richtig Spaß!
 
 [🛒 Hier!!]({{< param buyurl >}})

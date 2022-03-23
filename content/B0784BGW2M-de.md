@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Paket: 1x RP SMA Wifi Antenne
-- Anwendungen: WLAN-Router Mobiles Hotspots 2G 3G 4G GSM Wlan Bluetooth HSDPA UMTS DCS Antennenanschluss AV-Sender TP-Link Dlink Netgear Belkin
-- Frequenz: 2.4 / 5.8 GHz | Impedanz: 50 Ohm nominal | Gewinn: 6dBi | Kabellänge: 200cm | Antennenlänge: 18 cm
-- Unterstützt 802.11 b / g / n / ac-Signal, Wlan-Antenne für PCI PCIE-Router, Wifi-Stick-Zugangspunkte und Wifi-Karten
 - Standardisierter RP-SMA-Steckverbinder ohne Pin | Strahlung: Rundstrahlend / 360 ° horizontal / - 12 ° vertikal
+- Frequenz: 2.4 / 5.8 GHz | Impedanz: 50 Ohm nominal | Gewinn: 6dBi | Kabellänge: 200cm | Antennenlänge: 18 cm
+- Anwendungen: WLAN-Router Mobiles Hotspots 2G 3G 4G GSM Wlan Bluetooth HSDPA UMTS DCS Antennenanschluss AV-Sender TP-Link Dlink Netgear Belkin
+- Unterstützt 802.11 b / g / n / ac-Signal, Wlan-Antenne für PCI PCIE-Router, Wifi-Stick-Zugangspunkte und Wifi-Karten
+- Paket: 1x RP SMA Wifi Antenne
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
