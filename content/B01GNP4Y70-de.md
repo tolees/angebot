@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umfassende Kompatibilität: Kompatibel mit Windows-, Mac-, Chrome OS-, iOS- und Android-Geräten
 - Kabellose Multi-Device-Tastatur: Eine Logitech Tastatur im schicken Design für alle Computer, Tablet-PCs und Smartphones mit kabelloser USB- oder Bluetooth Smart-Verbindung
-- Tippen und Umschalten zwischen Geräten: Sie können auf bis zu drei Geräten gleichzeitig tippen und mithilfe der Easy-Switch-Taste ganz einfach zwischen ihnen wechseln
+- Umfassende Kompatibilität: Kompatibel mit Windows-, Mac-, Chrome OS-, iOS- und Android-Geräten
 - Lieferumfang: Logitech 920-008034 K780 Multi-Device Wireless Keyboard dunkelgrau/weiß
 - Voll ausgestattete All-in-One-Tastatur: Standardgröße mit großen Tasten und Nummernblock sowie integrierter Gerätehalterung für Smartphones und Tablets bis zu 12", wie beispielsweise ein iPad Pro
+- Tippen und Umschalten zwischen Geräten: Sie können auf bis zu drei Geräten gleichzeitig tippen und mithilfe der Easy-Switch-Taste ganz einfach zwischen ihnen wechseln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
