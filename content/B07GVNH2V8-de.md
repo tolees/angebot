@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Leiferumfang: 3 Deco-Einheiten, 1 RJ45-LAN-Kabel, 3 Netzteile, 1 Schnellinstallationsleitung
+- AC2200 Triband WLAN-Geschwindigkeit bis zu 2314Mbit/s
+- Keine Funklöcher, Abdeckungsbereich bis zu 600m² (3er Pack), für eine größere Abdeckung brauchen Sie einfach nur weitere Deco-Einheiten hinzufügen
 - Verbindung mit bis zu 100 Geräten, einfaches Management per Deco-App
 - Nahtlose Übertragung durch ein einheitliches Netzwerk dank der TP-Link Mesh-Technologie, automatische Verbindung auch bei Bewegung zu Hause wie zum Beispiel mit Tablet oder Smartphone
-- AC2200 Triband WLAN-Geschwindigkeit bis zu 2314Mbit/s
-- Leiferumfang: 3 Deco-Einheiten, 1 RJ45-LAN-Kabel, 3 Netzteile, 1 Schnellinstallationsleitung
-- Keine Funklöcher, Abdeckungsbereich bis zu 600m² (3er Pack), für eine größere Abdeckung brauchen Sie einfach nur weitere Deco-Einheiten hinzufügen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

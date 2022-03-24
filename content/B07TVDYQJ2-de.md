@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Außenmaterial: Canvas
 - Material der Sohle: Gummi
 - Futter: Stoff
-- Außenmaterial: Canvas
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

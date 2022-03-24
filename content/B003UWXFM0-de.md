@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innovative energieeffiziente Green IT, spart bis zu 20% Energie
-- Lieferumfang: 24-Port-Gigabit-Desktop/Rackmount-Switch, Stromversorgungskabel, Bedienungsanleitung
-- Plug-and-Play-Design, Betriebstemperatur: 0 ° C ~ 40 ° C.
-- Auto-Learning von MAC-Adressen, Auto-MDI/MDIX und Autoabstimmung
 - 24 10/100/1000Mbps-Ports
+- Auto-Learning von MAC-Adressen, Auto-MDI/MDIX und Autoabstimmung
+- Plug-and-Play-Design, Betriebstemperatur: 0 ° C ~ 40 ° C.
+- Lieferumfang: 24-Port-Gigabit-Desktop/Rackmount-Switch, Stromversorgungskabel, Bedienungsanleitung
+- Innovative energieeffiziente Green IT, spart bis zu 20% Energie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

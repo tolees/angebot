@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Green-Ethernet zum Energiesparen
-- 16 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
-- Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
-- Plug-and-Play, keine Konfiguration notwendig
-- Lieferumfang, TL-SG116, Schnellinstallationsanleitung, Netzteiladapter
 - Metallgehäuse für Tischaufbau oder Wandmontage
+- Green-Ethernet zum Energiesparen
+- Plug-and-Play, keine Konfiguration notwendig
+- 16 10/100/1000Mbit/s-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
+- Lieferumfang, TL-SG116, Schnellinstallationsanleitung, Netzteiladapter
+- Flusskontrolle nach IEEE802.3x für zuverlässige Datenübertragung
 - Unterstützt QoS nach IEEE802.1p sowie IGMP-Snooping
 
 [🛒 Hier!!]({{< param buyurl >}})

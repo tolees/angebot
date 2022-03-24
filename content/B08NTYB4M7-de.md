@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eingebaute Mikrofon-Überwachung
 - Geräuschunterdrückendes abnehmbares Mikrofon mit LEDStummschalteanzeig
 - Legendärer HyperX Komfort, HyperX 7.1 Surround Sound**
+- Eingebaute Mikrofon-Überwachung
 - Stabiler Aluminiumrahmen
 - Kabelloses Gaming-Headset mit langer Batterielaufzeit, 53-mm-Treiber liefern beeindruckenden Klang
 

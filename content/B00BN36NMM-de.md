@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vier 10/100-Ethernet-LAN-Anschlüsse zum Anschluss kabelgebundener Geräte
 - WPA/WPA2-Verschlüsselung zum Schutz Ihres drahtlosen Datenverkehrs
 - Einfache und schnelle Installation
-- Ethernet-WAN-Anschluss für Breitbandinternet per Festnetz-xDSL/FTTH/Kabel.Betriebstemperatur: 0 bis 40 °C
 - Dieses Produkt verfügt nicht über ein integriertes Modem
+- Vier 10/100-Ethernet-LAN-Anschlüsse zum Anschluss kabelgebundener Geräte
+- Ethernet-WAN-Anschluss für Breitbandinternet per Festnetz-xDSL/FTTH/Kabel.Betriebstemperatur: 0 bis 40 °C
 - Mobile Internetverbindung via 4G-LTE oder 3G
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
