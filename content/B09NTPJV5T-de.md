@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 Laptop 39 6 cm  15 Zoll  1920x1080  Full HD  WideView  entspiegelt  Slim Notebook  Intel Core i3-10110U  8GB RAM  256GB SSD  Intel UHD-Grafik  DOS ohne Windows  grau'
-date: 2022-03-24 13:22:51
+date: 2022-03-27 14:47:48
 image: 'https://m.media-amazon.com/images/I/31yK9MXu9NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Lenovo'
 buyurl: 'https://www.amazon.de/dp/B09NTPJV5T/?tag=tolees0ca-21'
 descuento: '25.64'
-average: '362.333333333333'
+average: '351.5'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Lenovo IdeaPad 3i 15IML05, Platinsilber, Netzteil, Dokumentation
+- Li-Polymer-Akku: 35 Wh, Laufzeit bis zu 9 Stunden (MobileMark 2014)
 - PrivacyShutter mechanischer Kameraverschluss
+- Lieferumfang: Lenovo IdeaPad 3i 15IML05, Platinsilber, Netzteil, Dokumentation
+- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Dolby Audio Klangoptimierung
 - Intel Core i3-10110U Prozessor (bis zu 4,10 GHz mit Intel Turbo-Boost-Technik 2.0, 4 MB Intel Cache)
-- Li-Polymer-Akku: 35 Wh, Laufzeit bis zu 9 Stunden (MobileMark 2014)
-- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Ohne Windows Betriebssystem, FreeDOS installiert
 
 [🛒 Hier!!]({{< param buyurl >}})
