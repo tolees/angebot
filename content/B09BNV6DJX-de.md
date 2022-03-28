@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inklusive Mini-Puppen von Prinzessin Jasmine und Mulan sowie LEGO Figuren von Khan dem Pferd und Radsha dem Tiger
 - Steige auf den fliegenden Teppich und mach einen Ausflug zu Mulans Schrein, um dir die Pflaumenblüte anzusehen, bevor du zum Palast zurückkehrst!
-- Enthält einen detaillierten, zweistöckigen Spielzeugpalast mit einem kleinen Schrein und jeder Menge Zubehör für täglichen Spielspaß
-- Kinder werden von den fantasievollen Abenteuern und Kulissen aus Disneys „Mulan“ und „Aladdin“ begeistert sein
+- Inklusive Mini-Puppen von Prinzessin Jasmine und Mulan sowie LEGO Figuren von Khan dem Pferd und Radsha dem Tiger
 - Die Mini-Puppe von Prinzessin Jasmin kann auf den Balkon gehen und die Aussicht genießen. Moment mal, wer ist denn das? Hurra! Mulan, Khan und Cri-Kee kommen uns besuchen!
+- Kinder werden von den fantasievollen Abenteuern und Kulissen aus Disneys „Mulan“ und „Aladdin“ begeistert sein
+- Enthält einen detaillierten, zweistöckigen Spielzeugpalast mit einem kleinen Schrein und jeder Menge Zubehör für täglichen Spielspaß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
