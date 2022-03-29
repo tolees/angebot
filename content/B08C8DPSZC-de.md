@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - VORBESTELLER INHALTE:
-- ZION WILLIAMSON DIGITAL GOODS-BUNDLE
 - Pre Order DLC (exklusiv bei Amazon.de): 1 Mein TEAM Promo Pack, 6 Mein SPIELER-BOOSTS, 3 Gatorade BOOSTS
-- DIGITALE SCHUHKOLLEKTION
-- 10 WÖCHENTLICHE PACK-DROPS
 - 5.000 VC + 5.000 Mein TEAM-PUNKTE
+- ZION WILLIAMSON DIGITAL GOODS-BUNDLE
+- 10 WÖCHENTLICHE PACK-DROPS
 - 9 Mein SPIELER-BOOSTS
+- DIGITALE SCHUHKOLLEKTION
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
