@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weitere spezielle goldene Minifiguren gibt es in 5 anderen NINJAGO Sets, um die limitierte Auflage der goldenen NINJAGO Legacy 6 Minifiguren zu präsentieren
-- Mit dem Spielzeug für Jungen und Mädchen ab 9 Jahre kann man mit dem Düsenflugzeug und mit gefederten Shootern seine Ninja-Kräfte unter Beweis stellen
 - Enthält 7 LEGO NINJAGO Mini Figuren: Kai, Cole, Zane, Jay & Zane Legacy zum Kampf gegen die Schlangensoldaten Rattla und Mezmo aus Staffel 1 der NINJAGO TV-Serie.
+- Weitere spezielle goldene Minifiguren gibt es in 5 anderen NINJAGO Sets, um die limitierte Auflage der goldenen NINJAGO Legacy 6 Minifiguren zu präsentieren
 - Das LEGO NINJAGO Set verfügt über ein einzigartiges 4-in-1-Ninja-Fahrzeug, das sich in ein Motorrad, einen Jet mit Shootern und 2 Geländefahrzeuge zerlegen lässt
 - Die goldene Zane Legacy Sammler-Minifigur wird mit einem kleinen Ständer geliefert, um das 10-jährige Jubiläum der LEGO NINJAGO Sets für Kinder zu feiern
+- Mit dem Spielzeug für Jungen und Mädchen ab 9 Jahre kann man mit dem Düsenflugzeug und mit gefederten Shootern seine Ninja-Kräfte unter Beweis stellen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

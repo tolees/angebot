@@ -31,7 +31,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - 2er Garten-Steckdose mit Erdspieß für den Einsatz im Freien 1,4m Kabellänge H07RN-F 3G1,5
 - Spieß und Gehäuse sind aus stabilem, witterungsbeständigem Kunststoff und spritzwasserfest
 - Outdoor-Steckdosenleiste für den ständigen Einsatz im Freien, zum Anschluss von Gartenleuchten, Lichterketten, Radio, Elektrogrill usw.
-- Lieferumfang: 1 x Außensteckdose mit selbstschließenden Klappdeckeln - in gut Qualität von brennenstuhl
 - Steckdose für außen mit Neopren-Gummianschlussleitung und Schutzkontakt-Stecker
+- Lieferumfang: 1 x Außensteckdose mit selbstschließenden Klappdeckeln - in gut Qualität von brennenstuhl
 
 [🛒 Hier!!]({{< param buyurl >}})
