@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher  Überraschend Starker Sound  Wasserdicht  Verbinde 2 Lautsprecher für Lautstarken Hi-Fi Sound  10-Stunden Akkulaufzeit - Phantom Black/schwarz'
-date: 2020-03-13 02:30:39
-image: 'https://m.media-amazon.com/images/I/51k1sj7YWFL._SL400_.jpg'
+title: 'Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher  Überraschend Starker Sound  Wasserdicht  Verbinde 2 Lautsprecher für Lautstarken Hi-Fi Sound  10-Stunden Akkulaufzeit - phantom black/schwarz'
+date: 2022-04-01 12:07:39
+image: 'https://m.media-amazon.com/images/I/51wJ7RUzaIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B06X6JCBBR-de Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher...'
 sku: 'B06X6JCBBR-de'
-tags: [  ]
-actualPrice: 44.9 EUR
+tags: [ 'Elektronik & Foto','Tragbare Bluetooth-Lautsprecher','Tragbare Geräte','Tragbare Lautsprecher & Audio-Docks','Zubehör für tragbare Geräte','ultimate ears', ]
+actualPrice: 75.87 EUR
 currency: EUR
-price: 44.9
+price: 75.87
 comparePrice: 99.99 EUR
-prodname: 'Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher  Überraschend Starker Sound  Wasserdicht  Verbinde 2 Lautsprecher für Lautstarken Hi-Fi Sound  10-Stunden Akkulaufzeit - Phantom Black/schwarz'
+prodname: 'Ultimate Ears Wonderboom Tragbarer Bluetooth-Lautsprecher  Überraschend Starker Sound  Wasserdicht  Verbinde 2 Lautsprecher für Lautstarken Hi-Fi Sound  10-Stunden Akkulaufzeit - phantom black/schwarz'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Ultimate Ears'
 buyurl: 'https://www.amazon.de/dp/B06X6JCBBR/?tag=tolees0ca-21'
-descuento: '55.10'
-average: '46.90916666666667'
+descuento: '24.12'
+average: '49.1369230769231'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,5 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Maximaler Schallpegel: 86 dBC, Frequenzbereich: 80 Hz - 20 kHz, Treiber: zwei aktive 40-mm-Treiber und zwei passive Strahler mit 46,1 mm x 65,2 mm
+- 10 stunden Voller Glück
+- Lieferumfang: Ultimate Ears WONDERBOOM Bluetooth Lautsprecher von Logitech, Mikro-USB-Kabel
+- Doppelter Lautsprecher, Doppelter Spass
+- Absolut Wasserdicht
+- Großer Sound: Der tragbare und kabellose Bluetooth-Lautsprecher von Logitech bietet kräftigen Sound mit klaren und eleganten Bässen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
