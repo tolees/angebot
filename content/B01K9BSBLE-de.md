@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Hugo BOSS Herren-Armbanduhr 1513440  Stahl/Grau'
-date: 2020-03-07 05:06:17
-image: 'https://m.media-amazon.com/images/I/51Cp35s5Y2L._AC_._SL400_.jpg'
+title: 'BOSS Herren Chronograph Quarz Uhr mit Edelstahl Armband 1513440'
+date: 2022-04-03 10:07:04
+image: 'https://m.media-amazon.com/images/I/51lISxc52RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01K9BSBLE-de Hugo BOSS Herren-Armbanduhr 1513440 Stahl/Grau'
+slug: 'B01K9BSBLE-de BOSS Herren Chronograph Quarz Uhr mit Edelstahl Armband...'
 sku: 'B01K9BSBLE-de'
-tags: [  ]
-actualPrice: 182.9 EUR
+tags: [ 'Armbanduhren für Herren','Herrenuhren','Regular Stores','Shops','Uhren','boss', ]
+actualPrice: 264.21 EUR
 currency: EUR
-price: 182.9
-comparePrice: 232.59 EUR
-prodname: 'Hugo BOSS Herren-Armbanduhr 1513440  Stahl/Grau'
+price: 264.21
+comparePrice: 359.0 EUR
+prodname: 'BOSS Herren Chronograph Quarz Uhr mit Edelstahl Armband 1513440'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'BOSS'
 buyurl: 'https://www.amazon.de/dp/B01K9BSBLE/?tag=tolees0ca-21'
-descuento: '21.36'
-average: '182.9'
+descuento: '26.40'
+average: '223.555'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,5 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gehäusedurchmesser: 41 mm,Gehäuse Höhe: 10 mm, Gehäusefarbe: Silber und Zifferblattfarbe: Grau
+- Diese hochwertige Uhr hat ein Silber Edelstahl Band ( 21 cm Länge und 18 mm Breite) mit einer Faltschliesse
+- Die Uhr wird in eine schönen, original Geschenkbox geliefert und hat 2 Jahre Garantie
+- Diese Uhr hat einem Milanaise-Band und is die beste Wahl für Ihre Verwandten und Freunde - Diese Chronograph Uhr verfügt über eine Kalenderfunktion: Datum, Stoppuhr
+- Wasserdicht: 5 bars-Gewicht: 100 g
 
 [🛒 Hier!!]({{< param buyurl >}})
