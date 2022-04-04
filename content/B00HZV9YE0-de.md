@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Batterien können recycelt werden, wenn sie nicht mehr wiederaufgeladen werden können; um einen Recycling-Standort in Ihrer Nähe zu finden, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/locator/
 - AAA-Akku mit hoher Kapazität (8er-Packung, 850 mAh); ideal für den professionellen oder täglichen Gebrauch
-- Gleiches Produkt, neue Optik. Das Aussehen der Batterien, die Sie erhalten, kann variieren
-- Lange Akkulaufzeit; die schrittweise Selbstentladung hält die Kapazität für 12 Monate bei 80 %
 - Lieferung in zertifizierter frustfreier Verpackung; recycelbar; mit eingeschränkter einjähriger Garantie durch Amazon Basics
 - Vorgeladen und gebrauchsfertig; kann vollständig aufgeladen werden, bis zu 100 % Kapazität, auch nach 3 Jahren; kann hunderte Male mit minimalem Strom- oder Kapazitätsverlust aufgeladen werden
+- Die Batterien können recycelt werden, wenn sie nicht mehr wiederaufgeladen werden können; um einen Recycling-Standort in Ihrer Nähe zu finden, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/locator/
+- Gleiches Produkt, neue Optik. Das Aussehen der Batterien, die Sie erhalten, kann variieren
+- Lange Akkulaufzeit; die schrittweise Selbstentladung hält die Kapazität für 12 Monate bei 80 %
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

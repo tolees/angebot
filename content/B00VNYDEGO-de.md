@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 1 x Looping Louie, der Kinderspielklassiker von Hasbro.
-- Da lachen ja die Hühner: Bruchpilot Louie und sein batteriebetriebenes Flugzeug rasen bei diesem Spiel im Sturzflug auf den Hühnerstall zu – beschütze deine Hühner und wehre Louie mit der Wippe ab!
 - Mit 2 Geschicklichkeitsstufen: Entscheide selber, welches Tempo das batteriebetriebene Gesellschaftsspiel einschlägt und halte mit blitzartigen Reflexen alle Hühner bei der Stange.
-- Tolle Geschenkidee: Groß und Klein schätzen das lustige 3D Spiel, bei dem es nicht nur schnelle Reflexe, sondern auch eine Portion Geschicklichkeit braucht, um seine Spiel-Chips vor dem herabstürzenden Louie zu schützen.
+- Da lachen ja die Hühner: Bruchpilot Louie und sein batteriebetriebenes Flugzeug rasen bei diesem Spiel im Sturzflug auf den Hühnerstall zu – beschütze deine Hühner und wehre Louie mit der Wippe ab!
 - Der beliebte Kinderspiel-Klassiker: Looping Louie garantiert Action für die ganze Familie und macht den Erwachsenen beim Spieleabend mindestens genauso viel Spaß wie den Kleinen auf einem Kindergeburtstag.
+- Tolle Geschenkidee: Groß und Klein schätzen das lustige 3D Spiel, bei dem es nicht nur schnelle Reflexe, sondern auch eine Portion Geschicklichkeit braucht, um seine Spiel-Chips vor dem herabstürzenden Louie zu schützen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

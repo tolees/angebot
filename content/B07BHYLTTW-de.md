@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmelzen Sie dahin vor Glück – mit unseren legendären, ausgewählten Lindor Erdbeer-Sahne-Schokoladenkugeln
-- Seit 1845 verwöhnt Lindt seine Kunden mit Qualitätsprodukten
 - Verfügbare Geschmacksrichtungen: Vollmilch, Weiß, Feinherb, Extra Dunkel, Haselnuss, Mandel, Pistazie, Milch-Crème, Caramel, Kokos, Straciatella, Erdbeere-Sahne, Minze-Milch, Orange-Milch und drei unterschiedliche Mischungen (Klassiker, Milch und Dunkel)
+- Lindt Lindor – zartschmelzende Erdbeer-Sahne-Schokoladenkugeln, 1 kg
+- Aus feinsten Zutaten, darunter Kakaobohnen aus nachhaltigem Anbau
+- Schmelzen Sie dahin vor Glück – mit unseren legendären, ausgewählten Lindor Erdbeer-Sahne-Schokoladenkugeln
 - Die Milchschokoladenkugeln in der preiswerten Vorratspackung eignen sich für jeden Anlass als ideales Schokoladen Geschenk. Sie können wunderbar mit den Liebsten geteilt oder zum Befüllen von Adventskalendern genutzt werden. Auch zum Dekorieren sehr geeignet
 - Dank jahrzehntelanger Erfahrung kreieren die Maîtres Chocolatiers Schweizer Schokolade in Perfektion
-- Aus feinsten Zutaten, darunter Kakaobohnen aus nachhaltigem Anbau
-- Lindt Lindor – zartschmelzende Erdbeer-Sahne-Schokoladenkugeln, 1 kg
+- Seit 1845 verwöhnt Lindt seine Kunden mit Qualitätsprodukten
 
 [🛒 Hier!!]({{< param buyurl >}})

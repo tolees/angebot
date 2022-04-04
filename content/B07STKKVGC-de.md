@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: insgesamt ca. 81 Kugeln - Der LINDOR 1kg Beutel besitzt einen praktischen Tragehenkel und ist wiederverschließbar (Vorratspackung)
-- Wann immer, wo immer Sie LINDOR genießen – es ist ein magischer Moment. Wenn die feine Chocoladenhülle bricht, verführt die unendlich zartschmelzende Füllung Ihre Sinne und trägt Sie sanft davon
-- Lindt LINDOR Dunkle Mischung - Feinherbe und Edelbitter-Schokolade mit zartschmelzenden Füllungen in den Sorten Feinherb 45%, Dunkel 60% und Extra Dunkel 70%
-- Verfügbare Geschmacksrichtungen: Vollmilch, Weiß, Feinherb, Extra Dunkel, Haselnuss, Mandel, Pistazie, Milch-Crème, Caramel, Kokos, Stracciatella, Erdbeere-Sahne, Minze-Milch, Orange-Milch und drei unterschiedliche Mischungen (Klassiker, Milch und Dunkel)
-- Erfahren Sie das zarteste Geheimnis der Maîtres Chocolatiers von Lindt: LINDOR - ein Moment puren Chocoladenglücks
 - Eignet sich ideal als Schokoladen-Geschenk, als Vorratspackung, zum Dekorieren, zum Befüllen von Adventskalendern, zu Ostern für die Ostereier-Suche oder zum selber genießen
+- Lindt LINDOR Dunkle Mischung - Feinherbe und Edelbitter-Schokolade mit zartschmelzenden Füllungen in den Sorten Feinherb 45%, Dunkel 60% und Extra Dunkel 70%
+- Wann immer, wo immer Sie LINDOR genießen – es ist ein magischer Moment. Wenn die feine Chocoladenhülle bricht, verführt die unendlich zartschmelzende Füllung Ihre Sinne und trägt Sie sanft davon
+- Erfahren Sie das zarteste Geheimnis der Maîtres Chocolatiers von Lindt: LINDOR - ein Moment puren Chocoladenglücks
+- Verfügbare Geschmacksrichtungen: Vollmilch, Weiß, Feinherb, Extra Dunkel, Haselnuss, Mandel, Pistazie, Milch-Crème, Caramel, Kokos, Stracciatella, Erdbeere-Sahne, Minze-Milch, Orange-Milch und drei unterschiedliche Mischungen (Klassiker, Milch und Dunkel)
 
 [🛒 Hier!!]({{< param buyurl >}})

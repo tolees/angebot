@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aktiviere deinen Körper, Geist & Sinne mit dem erfrischenden Duft von Guarana & Ginseng
-- 94% Inhaltsstoffe natürlichen Ursprungs (einschl. 85% Wasser)
 - Vegane Formel
-- Flasche besteht zu 100% aus recyceltem Material
+- Aktiviere deinen Körper, Geist & Sinne mit dem erfrischenden Duft von Guarana & Ginseng
 - Die 3in1 Formel wäscht deinen Körper, dein Haar & Gesicht gründlich und schützt die Haut gleichzeitig vor dem Austrocknen
+- Flasche besteht zu 100% aus recyceltem Material
+- 94% Inhaltsstoffe natürlichen Ursprungs (einschl. 85% Wasser)
 
 [🛒 Hier!!]({{< param buyurl >}})
