@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Strickteil in regulärer Passform für Herren
 - Aus bequemer Baumwolle
 - Ganz klassisch – und passend für jeden Tag
-- Strickteil in regulärer Passform für Herren
 - Materialzusammensetzung: 100% Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
