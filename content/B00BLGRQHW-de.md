@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vermeiden Sie es, während der Messung zu sprechen oder sich zu bewegen, um falsche Messungen zu vermeiden
-- Vollautomatische Blutdruck- und Pulsmessung
-- Handgelenk-Blutdruckmessgerät
-- 3 x 40 Speicherplätze
 - Einstufung der Wesswerte mit einer farbigen Skala
-- Arrhytmie-Erkennung: erkennt und warnt bei eventuellen Herzrhythmusstörungen
 - Sollten bei der Messung mit dem BC 30 Komplikationen auftreten, ist es wichtig, Ihre Körperhaltung und den Sitz der Manschette zu überprüfen
+- Vollautomatische Blutdruck- und Pulsmessung
+- 3 x 40 Speicherplätze
+- Arrhytmie-Erkennung: erkennt und warnt bei eventuellen Herzrhythmusstörungen
+- Handgelenk-Blutdruckmessgerät
+- Vermeiden Sie es, während der Messung zu sprechen oder sich zu bewegen, um falsche Messungen zu vermeiden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

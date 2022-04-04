@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Intensiver Geschmack: Der Espresso Italiano Cremoso schmeckt würzig und vollmundig nach Kakao, Schokolade und edlen Gewürzen
-- Vielfältiger Einsatz: Der Espresso Italiano Cremoso lässt sich hervorragend als Espresso im Kaffeevollautomaten, in der Siebträgermaschine oder gemahlen in der Mokkakanne zubereiten
+- Mittlere Röstung: Der Kaffee wird schonend und gleichmäßig in Turin veredelt
 - Feinste Bohnen: Die Mischung unseres Espresso Italiano Cremoso besteht aus edlen Arabica- und Robusta-Bohnen aus Südamerika und Südostasien
 - Hohe Intensität: 8 von 10
-- Mittlere Röstung: Der Kaffee wird schonend und gleichmäßig in Turin veredelt
+- Vielfältiger Einsatz: Der Espresso Italiano Cremoso lässt sich hervorragend als Espresso im Kaffeevollautomaten, in der Siebträgermaschine oder gemahlen in der Mokkakanne zubereiten
 - Kräftiger Genuss: cremiger Espresso in der 1-kg-Packung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

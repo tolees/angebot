@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erhöhte Intensität: 7 von 10
-- Harmonische Komposition: Die Mischung des Lavazza Crema e Gusto Classico besteht aus feinen Arabica- und Robusta-Bohnen aus Südamerika und Südostasien
-- Mittlere Röstung: Der Kaffee wird schonend und gleichmäßig in Turin veredelt
-- Vollendeter Genuss: der beliebte Lavazza Röstkaffee jetzt auch in der 1-kg-Packung
 - Einfache Zubereitung: Mit dem Lavazza Crema e Gusto Classico lassen sich vielfältige Kaffeespezialitäten zubereiten – und das sowohl im Kaffeevollautomaten als auch gemahlen in der French Press oder der Mokkakanne
+- Harmonische Komposition: Die Mischung des Lavazza Crema e Gusto Classico besteht aus feinen Arabica- und Robusta-Bohnen aus Südamerika und Südostasien
+- Vollendeter Genuss: der beliebte Lavazza Röstkaffee jetzt auch in der 1-kg-Packung
 - Vollmundiger Geschmack: Lavazza Crema e Gusto Classico schmeckt lang anhaltend würzig mit Aromen von dunkler Schokolade und edlen Gewürzen
+- Erhöhte Intensität: 7 von 10
+- Mittlere Röstung: Der Kaffee wird schonend und gleichmäßig in Turin veredelt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
