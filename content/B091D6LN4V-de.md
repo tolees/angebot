@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlankes Design-Handy: Dank der abgerundeten Kanten und des Mikromusters liegt das Galaxy M12 gut in der Hand.
-- 5.000 mAh⁶ Handy-Akku: Der Akku, der Sie nicht im Stich lässt, sodass Sie Ihr Telefon weiterhin umfassend nutzen können.
 - Quad-Hauptkamera: Entdecken Sie mit der 48 Megapixel-Hauptkamera Inhalte und Ihre eigene Kreativität. Dank des extrem weiten Betrachtungswinkels und der Weitwinkelkamera können Sie allem, was Sie aufnehmen, mehr Perspektive hinzufügen.
-- 16,55 cm/ 6,5Zoll Infinity-V Display: Die HD+-Technologie bringt Ihnen eine außergewöhnliches Seherlebnis.
+- Schlankes Design-Handy: Dank der abgerundeten Kanten und des Mikromusters liegt das Galaxy M12 gut in der Hand.
 - Überzeugende Leistung: Mit bis zu 4 GB RAM und einem Octa-Core Prozessor erledigt Ihr Smartphone anstehende Aufgaben.
+- 16,55 cm/ 6,5Zoll Infinity-V Display: Die HD+-Technologie bringt Ihnen eine außergewöhnliches Seherlebnis.
+- 5.000 mAh⁶ Handy-Akku: Der Akku, der Sie nicht im Stich lässt, sodass Sie Ihr Telefon weiterhin umfassend nutzen können.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

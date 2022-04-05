@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vier Equalizer für Rock, Pop, Jazz und Klassik
-- 40 FM Senderspeicherplätze
 - Musik-Audio Streaming dank Bluetooth (V4.2)
 - Zwei-Wege Bass-Reflex Lautsprechersystem
+- Vier Equalizer für Rock, Pop, Jazz und Klassik
+- 40 FM Senderspeicherplätze
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
