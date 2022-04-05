@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Autor: Jan Ullmann, Sarah Blendin / Eingesprochen wurden Sie von den Sprechern Petra Barthel, Léa Mariage, Nando Schmitz, Helmut Krauss u.v.m. / Altersempfehlung ab 5 Jahren
+- Doch der Alm-Öhi, ist es nicht gewohnt, Besuch zu haben. Er spricht kaum ein Wort mit Heidi. Mit den Tieren auf der Alm schließt sie dagegen schon am ersten Tag Freundschaft. / Laufzeit ca. 60 min
 - Heidi ist aufgeregt. Morgen wird sie zu ihrem Großvater in die Berge ziehen. Er lebt auf einer Alm zwischen bunten Wiesen und schneebedeckten Gipfeln. Es ist wunderschön dort.
 - Jeder Tonie ist mit viel Liebe entworfen, handbemalt und dennoch robust genug für großen Spielspaß auf und abseits der Toniebox. Magnetisch haftet er an der Toniebox und erzählt dir seine Geschichte.
 - Stell den Tonie auf die Toniebox und alles ist möglich. Lausche, lerne, lache - oder tanze, bis die Wände wackeln! Jeder Tonie bringt seine eigene Geschichte mit.
-- Doch der Alm-Öhi, ist es nicht gewohnt, Besuch zu haben. Er spricht kaum ein Wort mit Heidi. Mit den Tieren auf der Alm schließt sie dagegen schon am ersten Tag Freundschaft. / Laufzeit ca. 60 min
-- Autor: Jan Ullmann, Sarah Blendin / Eingesprochen wurden Sie von den Sprechern Petra Barthel, Léa Mariage, Nando Schmitz, Helmut Krauss u.v.m. / Altersempfehlung ab 5 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Paddington Bär – Auf diesem Tonie befindet sich der Kinderbuchklassiker über den Bären Paddington, der aus dem tiefsten Peru kam und an der Londoner Paddington Station gefunden wurde.
+- Geschichten von Paddington – Die Familie Brown, die ihn bei sich aufnimmt, stellt bald fest, dass Paddington ein ziemlich ungewöhnlicher Bär war. Gewöhnliche Dinge werden mit ihm recht außergewöhnlich...
 - Hörspielspaß mit tonies – Mit der Toniebox wird Hörbuch hören zum anfassbaren Erlebnis! Das Toniebox-Zubehör enthält nicht nur ein spannendes Hörbuch, sondern kann auch als Spielfigur genutzt werden.
 - Lieferumfang & Details – Tonie-Figur Paddington, inkl. Hörbuch: Paddington Bär - Geschichten von Paddington, für Kinder ab 5 Jahren, Spielzeit ca. 157 Minuten.
-- Geschichten von Paddington – Die Familie Brown, die ihn bei sich aufnimmt, stellt bald fest, dass Paddington ein ziemlich ungewöhnlicher Bär war. Gewöhnliche Dinge werden mit ihm recht außergewöhnlich...
+- Paddington Bär – Auf diesem Tonie befindet sich der Kinderbuchklassiker über den Bären Paddington, der aus dem tiefsten Peru kam und an der Londoner Paddington Station gefunden wurde.
 - So funktionierts – Um dem lustigen Tonie-Hörbuch zu lauschen, wird der Paddington Tonie ganz einfach auf die Toniebox gestellt und schon kanns losgehen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
