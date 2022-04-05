@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Der weltweit prämierte Siegfried Rheinland Dry Gin bekommt mit Wonderleaf eine alkoholfreie Variante. Hochwertige Destillate der besten natürlichen Rohstoffe geben ihm sein unverwechselbares, intensives Geschmacksprofil
 - Ist Siegfried Wonderleaf zum Pur-Trinken gedacht? Ganz klar nein. Anders als bei einer Spirituose muss man sich bei einer alkoholfreien Variante entscheiden. Wir haben uns für die „Mixability“ entschieden
 - Wonderleaf bietet die einmalige Möglichkeit, geschmackvolle alkoholfreie Cocktails zu kreieren - eine echte Alternative wie alkoholfreier Wein, alkoholfreies Bier und alkoholfreier Sekt
-- Der weltweit prämierte Siegfried Rheinland Dry Gin bekommt mit Wonderleaf eine alkoholfreie Variante. Hochwertige Destillate der besten natürlichen Rohstoffe geben ihm sein unverwechselbares, intensives Geschmacksprofil
-- Wonderleaf besticht durch rein natürliche Botanicals = Wonderleaf ist vegan, zuckerfrei, vegetarisch und alkoholfrei, made in Germany
 - Siegfried Wonderleaf: Alkoholfrei | 18 Botanicals | Zuckerfrei | Nur natürliche Aromen | Vegan | 2kcal /100ml
+- Wonderleaf besticht durch rein natürliche Botanicals = Wonderleaf ist vegan, zuckerfrei, vegetarisch und alkoholfrei, made in Germany
 
 [🛒 Hier!!]({{< param buyurl >}})

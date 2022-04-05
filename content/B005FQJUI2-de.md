@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Besonders einfache Handhabung: leichtes Befüllen mittels abnehmbaren transparentem Wassertank, Entkalkungsanzeige und Wasserhärteeinstellung, Schwenkfilter mit Tropfstopp, kein Kabelgewirr durch Kabelfach
-- Lieferumfang: 1 Melitta 100801 schwarz Edelstahl Optima Timer Kaffeemaschine. HxBxT: 36x21,5x28,5cm
-- Einfache Reinigung mit Entkalkungsprogramm und abnehmbare spülmaschinen geeignete Kleinteile. Glaskanne, Klappdeckel, abnehmbarer Schwenkfiltereinsatz und Tankdeckel können ganz einfach in der Spülmaschine gereinigt werden
-- Morgens vom frischen Kaffeeduft wecken lassen: Automatischer Brühstart zu jeder Uhrzeit durch integrierte Timer-Funktion. ETM-Testmagazin Urteil: GUT für Handhabung, Funktionalität und abnehmbarer Wassertank
 - Minimaler Stromverbrauch: Weniger als 1 Watt Verbrauch im Standby-Betrieb, programmierbare Warmhaltezeit und automatische Abschaltung nach 30, 60 oder 90 Minuten, sparsame LED Leuchten an Schalter und Tasten
+- Einfache Reinigung mit Entkalkungsprogramm und abnehmbare spülmaschinen geeignete Kleinteile. Glaskanne, Klappdeckel, abnehmbarer Schwenkfiltereinsatz und Tankdeckel können ganz einfach in der Spülmaschine gereinigt werden
+- Lieferumfang: 1 Melitta 100801 schwarz Edelstahl Optima Timer Kaffeemaschine. HxBxT: 36x21,5x28,5cm
+- Besonders einfache Handhabung: leichtes Befüllen mittels abnehmbaren transparentem Wassertank, Entkalkungsanzeige und Wasserhärteeinstellung, Schwenkfilter mit Tropfstopp, kein Kabelgewirr durch Kabelfach
+- Morgens vom frischen Kaffeeduft wecken lassen: Automatischer Brühstart zu jeder Uhrzeit durch integrierte Timer-Funktion. ETM-Testmagazin Urteil: GUT für Handhabung, Funktionalität und abnehmbarer Wassertank
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
