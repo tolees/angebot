@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ideal für Laptops und PCs mit kleinem Formfaktor
 - NVMe PCIe-SSD-Leistung
 - Artikelnummer: SNVS/2000G
 - Verschiedene Ausführungen mit unterschiedlicher Kapazität
-- Ideal für Laptops und PCs mit kleinem Formfaktor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
