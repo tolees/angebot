@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Modellnummer: WE430LN2
-- Zielgeschlecht: weiblich
 - New Balance Straßenlaufschuh
+- Zielgeschlecht: weiblich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
