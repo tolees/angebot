@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält eine Iron-Man-Figur (sakaarianischer Mech), die sich in ein kraftvoll aussehendes Spielzeugauto umbauen lässt – für aufregende Abenteuer
-- Es gibt noch mehr LEGO-Marvel-Mechs für Kinder zum Sammeln und Kombinieren – für echte Superhelden-Action
-- Kinder können die Tony-Stark-Figur in den Iron-Man-Mech setzen und ihn für Schnelligkeit in ein Rennauto im Tony-Stark-Style umbauen
-- Enthält Minifiguren von Tony Stark, Valkyrie und dem Watcher, um die Serie What If...? der Marvel-Studios zum Leben zu erwecken
 - Dieses mechanische LEGO-Spielzeug für Kinder ab 8 Jahren ist sehr beweglich, sodass Kinder den Mech für Superhelden-Action drehen und wenden können
+- Es gibt noch mehr LEGO-Marvel-Mechs für Kinder zum Sammeln und Kombinieren – für echte Superhelden-Action
+- Enthält eine Iron-Man-Figur (sakaarianischer Mech), die sich in ein kraftvoll aussehendes Spielzeugauto umbauen lässt – für aufregende Abenteuer
+- Enthält Minifiguren von Tony Stark, Valkyrie und dem Watcher, um die Serie What If...? der Marvel-Studios zum Leben zu erwecken
+- Kinder können die Tony-Stark-Figur in den Iron-Man-Mech setzen und ihn für Schnelligkeit in ein Rennauto im Tony-Stark-Style umbauen
 
 [🛒 Hier!!]({{< param buyurl >}})
