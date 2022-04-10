@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- not_water_resistant
-- 10 centimeters
-- Verschluss: Schnalle
-- Innenmaterial: Synthetik
-- 45 centimeters
-- Obermaterial: Glattleder
 - Sohle: Synthetik
+- not_water_resistant
+- 45 centimeters
+- 10 centimeters
+- Obermaterial: Glattleder
+- Innenmaterial: Synthetik
+- Verschluss: Schnalle
 
 [🛒 Hier!!]({{< param buyurl >}})
