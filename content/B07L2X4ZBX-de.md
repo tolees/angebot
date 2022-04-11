@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lebensdauer der Batterie: 2,4 GHz SLIPSTREAM: Bis zu 30 Stunden bei Standardbeleuchtung oder 45 Stunden bei ausgeschalteter Beleuchtung Bluetooth: Bis zu 40 Stunden bei Standardbeleuchtung oder 60 Stunden bei ausgeschalteter Beleuchtung.
-- Federleichte Konstruktion von nur 99 g für längeres, ermüdungsfreies Gaming. Die profilierte Form, die gummierten Seitengriffe sorgen für langfristigen Komfort, optimalen Grip in allen Situationen
-- Kabellose Performance in Gaming-Qualität. Hyperschnelle 2,4-GHz Sub-1-ms-Slipstream Corsair Wireless-Technologie, um eine Datenübertragung von der Gaming-Maus zum System ohne Lags zu ermöglichen
-- Dynamische RGB-Rückbeleuchtung mit Dutzenden anpassbaren Voreinstellungen und Effekten. Die intuitive und leistungsstarke CORSAIR iCUE-Software ermöglicht eine lebendige dynamische RGB
 - Optischer Sensor mit 10.000 dpi für hochgenaues Tracking auch der leichtesten Bewegung
+- Kabellose Performance in Gaming-Qualität. Hyperschnelle 2,4-GHz Sub-1-ms-Slipstream Corsair Wireless-Technologie, um eine Datenübertragung von der Gaming-Maus zum System ohne Lags zu ermöglichen
+- Federleichte Konstruktion von nur 99 g für längeres, ermüdungsfreies Gaming. Die profilierte Form, die gummierten Seitengriffe sorgen für langfristigen Komfort, optimalen Grip in allen Situationen
 - Sechs vollständig programmierbare Tasten warten auf leistungsstarke Makros oder Neubelegungen, die einen Vorteil im Spiel verschaffen. Extrem robuste mechanische Omron-Maus-Schalter
+- Dynamische RGB-Rückbeleuchtung mit Dutzenden anpassbaren Voreinstellungen und Effekten. Die intuitive und leistungsstarke CORSAIR iCUE-Software ermöglicht eine lebendige dynamische RGB
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
