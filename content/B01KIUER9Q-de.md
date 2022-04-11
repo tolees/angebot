@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Speicherkapazität 480GB
 - Ideal zur Leistungssteigerung von System und Anwendungen aller Computer-Typen
 - Slim-Format 7mm
+- PNY CS900 Interner Flash-Speicher SSD
 - Serial ATA III-Schnittstelle/6 GBP
 - Sequenzielle Lese-/Schreibgeschwindigkeit: bis zu 550MB/s / 515MB/s
-- Speicherkapazität 480GB
-- PNY CS900 Interner Flash-Speicher SSD
 
 [🛒 Hier!!]({{< param buyurl >}})

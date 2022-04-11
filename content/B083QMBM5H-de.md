@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - EFFIZIENT: jederzeit schnelle Steckschlüsselwechsel und rt sichere Fixierung
-- LIEFERUMFANG: GDS 18V-300, Karton
 - SICHER: im Linkslauf schaltet der Schlagschrauber dank Auto Bolt Release (ABR) automatisch ab
+- LIEFERUMFANG: GDS 18V-300, Karton
 - Professional 18V System. Ultimative Performance. Maximale Freiheit. Alle unsere Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel
 - LEISTUNGSSTARK: erhöhte Leistung, lange Akku-Laufzeit und Langlebigkeit
 
