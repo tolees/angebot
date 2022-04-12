@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieser Geländewagen ist ein tolles Geschenk für Kinder ab 10 Jahren. Erwachsene werden sich an die klassischen ferngesteuerten Spielzeugautos aus den 1980ern erinnert fühlen. Ein Riesenspaß für alle Generationen.
 - Der LEGO Technic Modellbausatz „Geländewagen“ (42124) bietet stundenlangen Spielspaß. Der ferngesteuerte Geländewagen fasziniert mit denselben coolen Funktionen, die schon die Original-Buggys aus den 1980ern zu Klassikern machten.
 - Um alle Funktionen dieses Spielzeugautos mit App-Steuerung nutzen zu können, werden 6 nicht im Lieferumfang enthaltene AA-Batterien (LR6) benötigt.
-- Die Vorder- und Hinterradfederung, die wuchtigen Reifen und die abgeschrägte Frontpartie ermöglichen spektakuläre Stunts.
 - Sieh dir die Retro-Lackierung an. Auch die Aufkleber im Stil der 1980er-Jahre dürfen nicht fehlen.
-- Lade dir die kostenlose CONTROL+ App herunter, um diesem ferngesteuerten Buggy eine völlig neue Dimension zu verleihen. Benutze die App, um das Auto zu lenken, Stunts vorzuführen, Herausforderungen freizuschalten und Soundeffekte zu erzeugen.
+- Dieser Geländewagen ist ein tolles Geschenk für Kinder ab 10 Jahren. Erwachsene werden sich an die klassischen ferngesteuerten Spielzeugautos aus den 1980ern erinnert fühlen. Ein Riesenspaß für alle Generationen.
 - Der ferngesteuerte Geländewagen ist bis zum Dach 13 cm beziehungsweise mit Antenne 19 cm hoch, 28 cm lang und 16 cm breit.
+- Die Vorder- und Hinterradfederung, die wuchtigen Reifen und die abgeschrägte Frontpartie ermöglichen spektakuläre Stunts.
+- Lade dir die kostenlose CONTROL+ App herunter, um diesem ferngesteuerten Buggy eine völlig neue Dimension zu verleihen. Benutze die App, um das Auto zu lenken, Stunts vorzuführen, Herausforderungen freizuschalten und Soundeffekte zu erzeugen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

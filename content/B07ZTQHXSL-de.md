@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kühlen und Tiefkühlen von +10 °C bis -15 °C
-- Universell einsetzbar: Auto, Camping, Lkw, Terrasse
-- Zwei Kühlsysteme: Kompressor und Thermoelektrik
 - Robustes Stahlgehäuse, Griffmulden, extrastarke Isolierung
+- Zwei Kühlsysteme: Kompressor und Thermoelektrik
+- Universell einsetzbar: Auto, Camping, Lkw, Terrasse
 - Elektrische Kühlbox für 12 V DC / 230 V AC
+- Kühlen und Tiefkühlen von +10 °C bis -15 °C
 
 [🛒 Hier!!]({{< param buyurl >}})

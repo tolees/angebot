@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hoher Bund
 - 98 Prozent Baumwolle, 2 Prozent Elasthan
 - Verschluss: Reißverschluss
+- Hoher Bund
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
