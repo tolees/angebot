@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- VR Ready
-- 2te Gen Ray Tracing Kerne
 - 12GB Speicher
 - 3x DisplayPort 1.4a, HDMI 2.1
+- 2te Gen Ray Tracing Kerne
+- VR Ready
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

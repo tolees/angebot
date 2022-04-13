@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leckere Kaffeespezialitäten aus frischen Bohnen im Handumdrehen
-- AquaClean Technologie
-- Mahlwerk aus 100 % Keramik
-- Aroma Seal: bewahrt die Aromen der Kaffeebohnen
 - Einstellung des Mahlgrades, der Intensität, der Kaffeemenge und der Temperatur.
+- Mahlwerk aus 100 % Keramik
+- AquaClean Technologie
+- Aroma Seal: bewahrt die Aromen der Kaffeebohnen
+- Leckere Kaffeespezialitäten aus frischen Bohnen im Handumdrehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
