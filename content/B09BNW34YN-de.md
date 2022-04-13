@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEGO 42139 Technic Geländefahrzeug ATV Offroader Spielzeug-Fahrzeug für Kinder ab 10 Jahre  Konstruktionsspielzeug'
-date: 2022-04-12 11:54:56
+date: 2022-04-13 17:20:43
 image: 'https://m.media-amazon.com/images/I/51QegDr2ZrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09BNW34YN-de LEGO 42139 Technic Geländefahrzeug ATV Offroader...'
 sku: 'B09BNW34YN-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNW34YN/?tag=tolees0ca-21'
 descuento: '36.00'
-average: '48.9900000000001'
+average: '48.899090909091'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Spielzeug für Kinder ab 10 Jahren bietet eine tolle Bauherausforderung und ist ein fantastisches Geschenk für alle LEGO Technic Fans
 - Das Konstruktionsspielzeug enthält Grafik-Aufkleber, mit denen Kinder ihren Geländewagen realistisch aussehen lassen können
+- Dieses Spielzeug für Kinder ab 10 Jahren bietet eine tolle Bauherausforderung und ist ein fantastisches Geschenk für alle LEGO Technic Fans
 - Das LEGO Fahrzeug wird mit einer Spielzeug-Kettensäge und 20 kleinen Holzblöcken geliefert, die mit dem LEGO ATV transportiert werden können
 - Der erste LEGO Technic Offroader mit 6 Rädern und vielen authentischen Funktionen, über die auch richtige Geländewagen verfügen
 - Der LEGO Geländewagen hat einen Motor mit beweglichen Kolben, ein 2-Gang-Getriebe und eine kippbare Ladefläche, genau wie bei einem echten ATV
