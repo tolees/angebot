@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLNQSSY-de Belkin ScreenForce TemperedCurve Displayschutz für iPhone...'
 sku: 'B07XLNQSSY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

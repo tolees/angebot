@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006AUOR1W-de Thetford 92828 Porta Potti 335 Tragbare Toilette Qube...'
 sku: 'B006AUOR1W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

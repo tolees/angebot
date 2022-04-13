@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XQCVQB-de YOKAI WATCH 2: Geistige Geister - [Nintendo 3DS]'
 sku: 'B073XQCVQB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

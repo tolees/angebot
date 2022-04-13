@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY22BPG-de Mattel GFR28 - Toy Story 4 Sprechender Buzz Lightyear...'
 sku: 'B07NY22BPG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

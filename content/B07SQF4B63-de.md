@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQF4B63-de L.O.L. Surprise! - Mädchen-Badeanzug mit Volant und...'
 sku: 'B07SQF4B63-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.31 EUR
 currency: EUR
 price: 20.31

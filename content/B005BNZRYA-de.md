@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005BNZRYA-de Käfer Caffè Crema ganze Bohne Aroma-Softpack 1.000 g 1er...'
 sku: 'B005BNZRYA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

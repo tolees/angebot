@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYV5G3K-de Bluetooth Kopfhörer in Ear YONMIG Kabellos Bluetooth 5.0...'
 sku: 'B07TYV5G3K-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

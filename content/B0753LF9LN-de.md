@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0753LF9LN-de Top Race Halloween Ghost Drone 6 Gyro 2 4 GHz Flying Ghost...'
 sku: 'B0753LF9LN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

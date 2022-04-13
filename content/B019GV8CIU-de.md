@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019GV8CIU-de LECHUZA CUBE Color 14 13380 Kräutertopf Hochwertiger...'
 sku: 'B019GV8CIU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QNW0IC-de Robin Hood / Gladiator Director s Cut / Extended Edition...'
 sku: 'B004QNW0IC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

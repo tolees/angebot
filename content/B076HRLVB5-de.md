@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HRLVB5-de Adidas Herren Core 18 Trainingshose Black/White S'
 sku: 'B076HRLVB5-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

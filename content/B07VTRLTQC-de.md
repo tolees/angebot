@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTRLTQC-de Schwip Schwap Das Original – Koffeinhaltiges Cola-...'
 sku: 'B07VTRLTQC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHZ461C-de Philips 55PUS7502/12 139cm 55 Zoll LED-Fernseher Ultra-HD...'
 sku: 'B06XHZ461C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 397.0 EUR
 currency: EUR
 price: 397.0

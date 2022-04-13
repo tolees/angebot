@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BL38DSY-de New Balance Herren 997H Core Trainers Grau Marblehead 43.5 EU'
 sku: 'B07BL38DSY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

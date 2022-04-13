@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N2CMRT-de PLAYMOBIL DreamWorks Spirit 9475 Luckys glückliches...'
 sku: 'B079N2CMRT-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

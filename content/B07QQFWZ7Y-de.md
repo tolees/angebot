@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQFWZ7Y-de Dickie Toys 203713009 Special Forces Spezialeinheit SUV...'
 sku: 'B07QQFWZ7Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

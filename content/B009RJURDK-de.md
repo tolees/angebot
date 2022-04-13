@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009RJURDK-de CAT Footwear Herren Caterpillar Colorado Wc44100940...'
 sku: 'B009RJURDK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

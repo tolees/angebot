@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L48JXFR-de Funko Fortnite Pop! Vinyl Figur 459 Raven aus Kunststoff...'
 sku: 'B07L48JXFR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.15 EUR
 currency: EUR
 price: 11.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HZH7D28-de Jumbo Spiele 18161 - Disney Finding Dory Badewannen Memo'
 sku: 'B01HZH7D28-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

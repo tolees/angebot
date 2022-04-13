@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKNG6JR-de Kaspersky Internet Security 2020 Standard | 3 Geräte | 1...'
 sku: 'B07TKNG6JR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

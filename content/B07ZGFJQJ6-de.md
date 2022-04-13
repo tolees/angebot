@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGFJQJ6-de Bluetooth Lautsprecher 5.0 Tronsmart T6 Mini 15W Tragbarer...'
 sku: 'B07ZGFJQJ6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

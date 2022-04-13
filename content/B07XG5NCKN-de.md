@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG5NCKN-de POP! Disney: Frozen 2 - Bruni'
 sku: 'B07XG5NCKN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

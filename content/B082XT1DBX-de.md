@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XT1DBX-de NHUAIYINSHUGUOGUANGGAOJINGY Displayport zum HDMI-...'
 sku: 'B082XT1DBX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

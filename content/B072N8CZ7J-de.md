@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072N8CZ7J-de Funko 22718 Actionfigur Hellboy S1: Liz Sherman'
 sku: 'B072N8CZ7J-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

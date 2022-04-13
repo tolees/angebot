@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JQE7OGO-de Makita DDF453Z Akku-Bohrschrauber 18 V Blau Silber'
 sku: 'B00JQE7OGO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 53.55 EUR
 currency: EUR
 price: 53.55

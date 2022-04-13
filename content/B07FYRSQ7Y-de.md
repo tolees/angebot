@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYRSQ7Y-de Microsoft Office 2019 Home & Business multilingual | 1 PC...'
 sku: 'B07FYRSQ7Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 229.67 EUR
 currency: EUR
 price: 229.67

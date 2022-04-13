@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VUQ6CU0-de Fotowiderstand Entdeckung Lichtempfindlich Licht Sensor...'
 sku: 'B00VUQ6CU0-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

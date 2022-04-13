@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BCQIIMS-de Philips DryCare Advanced Haartrockner mit ThermoProtect...'
 sku: 'B00BCQIIMS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

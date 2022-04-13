@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4HXLQP-de Navitech Rot hartes Wasser-beständiges Mini Desktop PC /...'
 sku: 'B07B4HXLQP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

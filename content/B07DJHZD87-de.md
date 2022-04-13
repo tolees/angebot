@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJHZD87-de D-Link COVR-2202 Whole Home Mesh Wifi System Tri-Band...'
 sku: 'B07DJHZD87-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 154.88 EUR
 currency: EUR
 price: 154.88

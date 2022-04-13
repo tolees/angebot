@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4W1NQN-de Kate Lynn Muttertagsgeschenk Frauen Ohrringe schmuck Damen...'
 sku: 'B07J4W1NQN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

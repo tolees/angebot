@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT5JFHZ-de Sony MDR-XB550AP Kopfhörer Extrabass Mikrofon'
 sku: 'B01MT5JFHZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 28.64 EUR
 currency: EUR
 price: 28.64

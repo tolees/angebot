@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AE9PBTW-de Ice Age 1 2 3 & 4 Limitierte Sonderbox mit Ice Age...'
 sku: 'B00AE9PBTW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

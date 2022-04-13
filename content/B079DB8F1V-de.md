@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079DB8F1V-de JAKO Herren Competition 2.0 Shorts schwarz schwarz M'
 sku: 'B079DB8F1V-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

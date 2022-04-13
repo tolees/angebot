@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y5SWQMF-de GoPro Karma Ladegerät Steckdosenadapter für EU schwarz'
 sku: 'B06Y5SWQMF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

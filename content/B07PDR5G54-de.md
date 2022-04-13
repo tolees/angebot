@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDR5G54-de VARTA Day Light Multi LED F10 Taschenlampe mit 5 LEDs...'
 sku: 'B07PDR5G54-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.31 EUR
 currency: EUR
 price: 4.31

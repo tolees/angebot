@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777TNHLM-de Funko 26384 S1 Pop Vinylfigur Games Minecraft Alex Multi...'
 sku: 'B0777TNHLM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

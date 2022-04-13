@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EZGCVRO-de Auferstanden'
 sku: 'B01EZGCVRO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

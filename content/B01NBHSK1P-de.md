@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBHSK1P-de Tristar VE-5999 Ventilator Turmventilator mit...'
 sku: 'B01NBHSK1P-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

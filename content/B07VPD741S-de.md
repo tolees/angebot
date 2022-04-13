@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPD741S-de Xbox One X 1TB - Gears 5 Bundle'
 sku: 'B07VPD741S-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

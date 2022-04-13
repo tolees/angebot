@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTW2LPX-de Western Digital WD My Passport externe Festplatte 4 TB...'
 sku: 'B07VTW2LPX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

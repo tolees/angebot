@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008SDMMKM-de Simba 107108605 - Sandformen Eis'
 sku: 'B008SDMMKM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

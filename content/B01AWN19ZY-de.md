@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AWN19ZY-de Kitchen Craft LOVELLO Utensilienhalter 20 x 10 x 16 cm –...'
 sku: 'B01AWN19ZY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

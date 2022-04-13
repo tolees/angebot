@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V68DQGV-de Masthome 10pcs Edelstahl Kochgeschirr Set Kochtopf und...'
 sku: 'B07V68DQGV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR3QQTN-de Bluetooth Kopfhörer Kopfhörer Kabellos In Ear Ohrhörer...'
 sku: 'B07WR3QQTN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

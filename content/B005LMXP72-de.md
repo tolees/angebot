@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005LMXP72-de !Solid Dash Herren Lederjacke Bikerjacke Echtleder Mit...'
 sku: 'B005LMXP72-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 86.95 EUR
 currency: EUR
 price: 86.95

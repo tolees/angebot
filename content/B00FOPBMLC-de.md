@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FOPBMLC-de Maggi Würze Vorratsflasche 6er Pack 6 x 1 kg'
 sku: 'B00FOPBMLC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 32.32 EUR
 currency: EUR
 price: 32.32

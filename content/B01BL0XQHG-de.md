@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BL0XQHG-de 5 Original Albums'
 sku: 'B01BL0XQHG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.68 EUR
 currency: EUR
 price: 6.68

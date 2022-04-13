@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZXJTNZ-de Gamory Controller für Nintendo Switch Bluetooth Wireless...'
 sku: 'B085ZXJTNZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

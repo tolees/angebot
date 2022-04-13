@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VAL35K-de Pawhut Welpenauslauf Welpenfreigehege Freigehege Laufstall...'
 sku: 'B005VAL35K-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 54.32 EUR
 currency: EUR
 price: 54.32

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMNH3DM-de Tokyo Laundry Tybalt Canvas Rucksack Gr. Einheitsgröße...'
 sku: 'B07MMNH3DM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.28 EUR
 currency: EUR
 price: 15.28

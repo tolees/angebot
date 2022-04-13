@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MS8QAQG-de Philips SHD8800/12 Over-Ear Funkkopfhörer offen 15m...'
 sku: 'B01MS8QAQG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 73.41 EUR
 currency: EUR
 price: 73.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GC6PFYD-de Plantronics APU-76 EHS Modul für Mitel/Cisco/Softphones/PC...'
 sku: 'B07GC6PFYD-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

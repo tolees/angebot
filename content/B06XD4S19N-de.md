@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XD4S19N-de Calvin Klein Damen TOP Hoodie Full Zip Kapuzenpullover...'
 sku: 'B06XD4S19N-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 50.54 EUR
 currency: EUR
 price: 50.54

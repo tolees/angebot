@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016BRGMNY-de Bartöl - Beard Oil für Männer - Für gesundes Bartwachstum...'
 sku: 'B016BRGMNY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

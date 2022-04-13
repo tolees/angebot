@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XBMG4JK-de Funko 14367 Actionfigur Westworld: Teddy Multi'
 sku: 'B06XBMG4JK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.13 EUR
 currency: EUR
 price: 4.13

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS9LBTM-de Apple Watch Series 5 GPS + Cellular 40 mm Edelstahlgehäuse...'
 sku: 'B07XS9LBTM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 613.51 EUR
 currency: EUR
 price: 613.51

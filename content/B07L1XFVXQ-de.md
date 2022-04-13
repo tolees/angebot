@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1XFVXQ-de Under Armour Herren Rival Fleece Sportstyle Logo Hoodie...'
 sku: 'B07L1XFVXQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

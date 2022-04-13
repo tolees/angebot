@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDQWK9Q-de Coma Ecliptic Live'
 sku: 'B06XDQWK9Q-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

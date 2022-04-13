@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TPHRXB-de adidas Damen 3-Streifen Kapuzenjacke Black/White M'
 sku: 'B081TPHRXB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 43.38 EUR
 currency: EUR
 price: 43.38

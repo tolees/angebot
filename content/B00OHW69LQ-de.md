@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OHW69LQ-de OMEN K5Q03AA Gaming Rucksack für Notebooks 43 94 cm 17 3...'
 sku: 'B00OHW69LQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

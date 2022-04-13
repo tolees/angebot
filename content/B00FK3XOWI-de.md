@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FK3XOWI-de hansgrohe Focus Küchenarmatur Wasserhahn Küche ohne...'
 sku: 'B00FK3XOWI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 212.14 EUR
 currency: EUR
 price: 212.14

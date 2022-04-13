@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WOKJLQ-de Remington Haarschneidemaschine HC5810 selbstschärfende...'
 sku: 'B003WOKJLQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 45.39 EUR
 currency: EUR
 price: 45.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F486HVB-de OSOYOO Electricity Science Experiment Kit for Kids |...'
 sku: 'B07F486HVB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

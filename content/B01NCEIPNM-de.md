@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCEIPNM-de BRITA Wasserfilter Marella weiß inkl. 1 MAXTRA+...'
 sku: 'B01NCEIPNM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BUVUO4O-de London Has Fallen'
 sku: 'B01BUVUO4O-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PV4PYR4-de PLAYMOBIL 70046 - FC Bayern München Fußballarena zum...'
 sku: 'B07PV4PYR4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 37.97 EUR
 currency: EUR
 price: 37.97

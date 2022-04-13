@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHTNLXM-de Under Armour Herren UA HeatGear Long Sleeve langärmliges...'
 sku: 'B00KHTNLXM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.73 EUR
 currency: EUR
 price: 15.73

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0766CWJPQ-de Playmobil 9377 - Zoo Spiel'
 sku: 'B0766CWJPQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 26.85 EUR
 currency: EUR
 price: 26.85

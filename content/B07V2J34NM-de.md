@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2J34NM-de Tommy Jeans Herren Causal Sneaker Weiß White Ybs 40 EU'
 sku: 'B07V2J34NM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 33.1 EUR
 currency: EUR
 price: 33.1

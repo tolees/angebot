@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XYL4PA-de Deuter Streamer Thermo Bag 3.0 Zubehör Trinkblase'
 sku: 'B003XYL4PA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

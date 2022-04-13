@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073ZDGXJF-de Remington Ionen-Haartrockner Keratin Protect AC8002 2200...'
 sku: 'B073ZDGXJF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

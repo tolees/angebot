@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4C94FG-de iNeego Bausteine 1000 Stück Bauklötze Spielzeug Hochbau...'
 sku: 'B07V4C94FG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

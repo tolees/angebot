@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R7PSW38-de Citizen Herren Analog Quarz Uhr mit Plastik Armband...'
 sku: 'B00R7PSW38-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 156.86 EUR
 currency: EUR
 price: 156.86

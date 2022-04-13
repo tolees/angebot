@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L98V4UW-de 25'
 sku: 'B00L98V4UW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.44 EUR
 currency: EUR
 price: 3.44

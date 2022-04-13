@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HJUSZ14-de QNAP TVS-1282-i3-8G Hochleistungsfähiges NAS-System Tiered...'
 sku: 'B01HJUSZ14-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BDQ2V5-de DXX Technik Bausteine 1965 Ford Mustang Hoonicorn Racing...'
 sku: 'B083BDQ2V5-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

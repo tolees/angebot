@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4KPZHW-de Syoss Colorist Tools Serum 2er Pack 2 x 30 ml'
 sku: 'B07B4KPZHW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

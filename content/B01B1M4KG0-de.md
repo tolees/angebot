@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B1M4KG0-de WMF Provence Plus Gemüsetopf 24cm Glasdeckel Topf groß 8...'
 sku: 'B01B1M4KG0-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

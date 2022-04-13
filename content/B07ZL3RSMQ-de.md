@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZL3RSMQ-de Mammut Herren Hardshell-jacke Mit Kapuze Trovat blau S'
 sku: 'B07ZL3RSMQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 89.18 EUR
 currency: EUR
 price: 89.18

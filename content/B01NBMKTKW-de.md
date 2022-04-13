@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBMKTKW-de Original Album Classics'
 sku: 'B01NBMKTKW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

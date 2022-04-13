@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMQ27FX-de Philips Hue White LED Welcome Flutlicht für den...'
 sku: 'B07KMQ27FX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

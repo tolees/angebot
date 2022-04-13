@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLV2BXR-de iMangoo USB C Audio Adapter Typ C auf 3 5 mm...'
 sku: 'B07PLV2BXR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

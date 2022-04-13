@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081JZTJCG-de Compo Bi 58 N gegen saugende und beißende Insekten an...'
 sku: 'B081JZTJCG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

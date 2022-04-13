@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSMDZLB-de Funko 39524 POP Vinyl Johnny Cash Sammelbares Spielzeug...'
 sku: 'B07NSMDZLB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

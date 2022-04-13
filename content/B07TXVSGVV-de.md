@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXVSGVV-de BRIKSMAX Led Beleuchtungsset für Lego Ideas Voltron...'
 sku: 'B07TXVSGVV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

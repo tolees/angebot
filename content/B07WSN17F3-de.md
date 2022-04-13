@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSN17F3-de Gehörschutz mit DAB + / FM-Radio und Bluetooth...'
 sku: 'B07WSN17F3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 102.8 EUR
 currency: EUR
 price: 102.8

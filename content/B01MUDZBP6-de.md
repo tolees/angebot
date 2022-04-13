@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUDZBP6-de JAIMIE JACOBS Flap Boy Slim - Das Original - Magic Wallet...'
 sku: 'B01MUDZBP6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 71.2 EUR
 currency: EUR
 price: 71.2

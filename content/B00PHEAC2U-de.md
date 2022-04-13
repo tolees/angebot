@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PHEAC2U-de caseable Kindle und Kindle Paperwhite Hülle Dialogue with...'
 sku: 'B00PHEAC2U-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

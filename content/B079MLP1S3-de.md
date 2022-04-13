@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MLP1S3-de Playmobil Space 9487 Mars-Station Ab 6 Jahren'
 sku: 'B079MLP1S3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 52.25 EUR
 currency: EUR
 price: 52.25

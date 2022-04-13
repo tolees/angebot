@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FAO6QDQ-de Cybex Silver Solution X Autositz Gruppe 2/3 15-36 kg ohne...'
 sku: 'B00FAO6QDQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

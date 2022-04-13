@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CZVB3PI-de Paco Home Kinder Teppich Karo Design Multicolour Grün Rot...'
 sku: 'B00CZVB3PI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

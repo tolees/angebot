@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6FL9B5-de PLAYMOBIL Novelmore 70225 Wolfsgespann und Wasserkanone...'
 sku: 'B07P6FL9B5-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

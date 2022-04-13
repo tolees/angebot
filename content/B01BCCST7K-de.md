@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BCCST7K-de B.K.Licht I LED Deckenleuchte I Schwenkbar I Inkl. 2x 3W...'
 sku: 'B01BCCST7K-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

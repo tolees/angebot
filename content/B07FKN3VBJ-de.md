@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKN3VBJ-de Philips S5290/12 Elektrischer Nass-und Trockenrasierer...'
 sku: 'B07FKN3VBJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

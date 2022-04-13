@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y41B5GN-de Samsung SM-R210NZWADBT Gear 360 2017 weiß'
 sku: 'B06Y41B5GN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

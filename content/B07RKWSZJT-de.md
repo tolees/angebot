@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKWSZJT-de Tommy Hilfiger Herren Arlos Bomber Sportjacke Blau Blue...'
 sku: 'B07RKWSZJT-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 83.02 EUR
 currency: EUR
 price: 83.02

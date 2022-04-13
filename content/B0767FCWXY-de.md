@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767FCWXY-de PLAYMOBIL Ghostbusters 9388 Stantz mit Flybike Ab 6 Jahren'
 sku: 'B0767FCWXY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

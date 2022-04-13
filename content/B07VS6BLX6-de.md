@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS6BLX6-de Tommy Hilfiger Damen Aila Slim Polo Ss Poloshirt Blau...'
 sku: 'B07VS6BLX6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 57.34 EUR
 currency: EUR
 price: 57.34

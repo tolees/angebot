@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G28PHV4-de Universal Music Vertrieb - A Division of Universal Music...'
 sku: 'B07G28PHV4-de'
-tags: [ 'Internationale Musik','Musik Kategorien','Musik-CDs & Vinyl','Pop','de','universal music vertrieb - a division of universal music gmbh', ]
+tags: [ 'Internationale Musik','Musik Kategorien','Musik-CDs & Vinyl','Pop','universal music vertrieb - a division of universal music gmbh','🇩🇪', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

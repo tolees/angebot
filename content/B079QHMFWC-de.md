@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QHMFWC-de Fire TV Stick 4K Ultra HD mit Alexa-Sprachfernbedienung'
 sku: 'B079QHMFWC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

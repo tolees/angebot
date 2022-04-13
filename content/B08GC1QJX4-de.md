@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GC1QJX4-de JOYXEON Gummibänder Rund 120 pcs 6mm x 103mm Gummikordel...'
 sku: 'B08GC1QJX4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

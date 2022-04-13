@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PAKXL3S-de Stereo Gaming Headset Dual Format PS4/PSVita-weiss'
 sku: 'B00PAKXL3S-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

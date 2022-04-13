@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDQF3HT-de Ravensburger 08066 Abenteuer mit TKKG'
 sku: 'B07NDQF3HT-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

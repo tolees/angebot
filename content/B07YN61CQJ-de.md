@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YN61CQJ-de Philips Audio Philips Bluetooth Soundbar HTL3310/10 TV...'
 sku: 'B07YN61CQJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

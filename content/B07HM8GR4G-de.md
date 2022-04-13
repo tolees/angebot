@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HM8GR4G-de Philips 50PUS6203/12 126 cm 50 Zoll LED-Fernseher 4K Ultra...'
 sku: 'B07HM8GR4G-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 225.0 EUR
 currency: EUR
 price: 225.0

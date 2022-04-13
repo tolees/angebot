@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G4P1QFM-de NEXGADGET Küchenhelfer Set 42 Stücke Küchenzubehör...'
 sku: 'B01G4P1QFM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

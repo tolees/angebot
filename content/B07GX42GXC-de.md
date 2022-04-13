@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GX42GXC-de ECOVACS Robotics DEEBOT 710 Saugroboter - Leistungsstarker...'
 sku: 'B07GX42GXC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 269 EUR
 currency: EUR
 price: 269

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W2Z9MQP-de Garmin vívoactive 4 – wasserdichte GPS-Fitness-Smartwatch...'
 sku: 'B07W2Z9MQP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

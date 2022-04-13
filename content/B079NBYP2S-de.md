@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NBYP2S-de HSP Himoto Space Car Renn-Auto aus Bausteinen mit...'
 sku: 'B079NBYP2S-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0148NMVQA-de Philips Hue LightStrip+ Basis Set ohne Bridge 2m flexibel...'
 sku: 'B0148NMVQA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

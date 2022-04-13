@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Z3WNF3-de Hasbro Super Soaker E0021EU4 - Splash Mouth Wasserpistole...'
 sku: 'B075Z3WNF3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

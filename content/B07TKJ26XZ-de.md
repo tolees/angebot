@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKJ26XZ-de wolketon Fahrradschloss-Schloss 90cm lang Kettenschloss...'
 sku: 'B07TKJ26XZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.17 EUR
 currency: EUR
 price: 9.17

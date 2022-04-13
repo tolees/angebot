@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAL3TYY-de HyperX Impact DDR4 HX426S15IB2K2/32 Arbeitsspeicher...'
 sku: 'B01NAL3TYY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 106.9 EUR
 currency: EUR
 price: 106.9

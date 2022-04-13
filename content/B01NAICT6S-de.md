@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAICT6S-de Ondis24 Steckregal 60 x 30 x 135 H cm 4 Böden...'
 sku: 'B01NAICT6S-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

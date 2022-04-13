@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZPGQ7M-de BRIKSMAX Led Beleuchtungsset für Star Wars Millennium...'
 sku: 'B07NZPGQ7M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

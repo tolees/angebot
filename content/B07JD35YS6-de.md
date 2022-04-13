@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JD35YS6-de Huawei Wireless Charger Supercharge mit Adapter CP60...'
 sku: 'B07JD35YS6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.66 EUR
 currency: EUR
 price: 34.66

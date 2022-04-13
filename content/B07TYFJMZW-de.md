@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYFJMZW-de normani Leichte XXL Reisetasche Rollenreisetasche Trolley...'
 sku: 'B07TYFJMZW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.48 EUR
 currency: EUR
 price: 29.48

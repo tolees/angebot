@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Z8F9HG-de Bluetooth Kopfhörer In-Ear M3 TWS True Wireless...'
 sku: 'B081Z8F9HG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F163ERY-de NETGEAR GS516TP 16-Port Gigabit Ethernet LAN PoE Switch...'
 sku: 'B00F163ERY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

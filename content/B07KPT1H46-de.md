@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPT1H46-de Funko 37707 POP & Buddy Vinyl Men In Black Agent K &...'
 sku: 'B07KPT1H46-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

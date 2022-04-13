@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E1HJ2G6-de Diesel Herren-Uhr DZ4297'
 sku: 'B00E1HJ2G6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 92.44 EUR
 currency: EUR
 price: 92.44

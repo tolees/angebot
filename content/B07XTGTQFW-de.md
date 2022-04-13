@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTGTQFW-de CSL - USB Bluetooth Adapter V4.0 - A2DP - Windows 10...'
 sku: 'B07XTGTQFW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

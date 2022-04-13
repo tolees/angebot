@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3PYWCW-de Smart Games SG455 IQ-Puzzler PRO Geschicklichkeitsspiel...'
 sku: 'B01G3PYWCW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

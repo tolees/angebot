@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4JYCJ5-de Unizooke Messerschärfer Profi Messerschleifer Messer...'
 sku: 'B07Z4JYCJ5-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01608LMSY-de Playmobil 6970 - Schmück-Pony Sternchen'
 sku: 'B01608LMSY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

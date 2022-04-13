@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHPCXMX-de Schiesser Damen Mix & Relax Shirt 1/2 Arm...'
 sku: 'B07JHPCXMX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

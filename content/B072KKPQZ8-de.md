@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KKPQZ8-de Western Digital 20 TB My Cloud EX2 Ultra-Netzwerkspeicher'
 sku: 'B072KKPQZ8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

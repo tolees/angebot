@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFS2NVB-de Funko 40243 POP Vinyl Animation: BT21-RJ BT21 RJ...'
 sku: 'B07QFS2NVB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

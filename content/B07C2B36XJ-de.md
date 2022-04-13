@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2B36XJ-de JACK & JONES Herren Strickpullover V-Ausschnitt LNavy...'
 sku: 'B07C2B36XJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

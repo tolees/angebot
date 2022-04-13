@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000R5LQWO-de Bosch Professional 6tlg. Flachfräsbohrer-Set Self Cut...'
 sku: 'B000R5LQWO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.22 EUR
 currency: EUR
 price: 16.22

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CBVAQ0-de Toppik Haarfasern für mehr Fülle/Volumen Dunkelbraun 27.5 g'
 sku: 'B000CBVAQ0-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

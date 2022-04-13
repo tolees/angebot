@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB78VJK-de PUTORSEN® PC Gaming Monitorständer für 17-32 Zoll -...'
 sku: 'B07QB78VJK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.87 EUR
 currency: EUR
 price: 49.87

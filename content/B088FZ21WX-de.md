@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FZ21WX-de elloLife Gummiband Rund 【5mm 50M】 Gummikordel Nähen Weiss...'
 sku: 'B088FZ21WX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

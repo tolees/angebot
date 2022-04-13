@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7SMLG9-de Funko POP My Hero Academia SHOTA AIZ'
 sku: 'B07D7SMLG9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

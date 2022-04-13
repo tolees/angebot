@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPJPLWK-de LG OLED55C97LA 139 cm 55 Zoll OLED Fernseher OLED Dual...'
 sku: 'B07PPJPLWK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 1699.0 EUR
 currency: EUR
 price: 1699.0

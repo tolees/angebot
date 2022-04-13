@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYT37NK-de SanDisk SDSQXCG-064G-GN6MA 64GB Extreme Pro Micro SD Karte...'
 sku: 'B06XYT37NK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 33.64 EUR
 currency: EUR
 price: 33.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ9HSV9-de Salomon Herren XA PRO 3D GTX Traillaufschuhe Schwarz...'
 sku: 'B07CZ9HSV9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 100.41 EUR
 currency: EUR
 price: 100.41

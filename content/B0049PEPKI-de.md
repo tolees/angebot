@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0049PEPKI-de Gardena Akku-Grasschere ComfortCut: Rasenkantenschneider...'
 sku: 'B0049PEPKI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

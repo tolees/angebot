@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BLF1U9C-de fischertechnik Experimentierbaukasten Mechanic + Static 2...'
 sku: 'B01BLF1U9C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DN1KCYN-de Jade Roller und Gua Sha Scraping Gesichts-Tools Set...'
 sku: 'B07DN1KCYN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

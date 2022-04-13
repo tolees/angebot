@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GF9NTR0-de Advanced Chemistry'
 sku: 'B01GF9NTR0-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

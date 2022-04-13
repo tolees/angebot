@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVNG8SK-de TRIBE Infinity-Energieriegel aus natürlichen Zutaten zur...'
 sku: 'B07SVNG8SK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

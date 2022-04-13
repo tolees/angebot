@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WL9MVG-de Gordon & Bros Herren Levet Derby Braun tan 42 EU'
 sku: 'B004WL9MVG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 82.43 EUR
 currency: EUR
 price: 82.43

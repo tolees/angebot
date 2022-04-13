@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RRPL3P-de Skinomi TechSkin - Schutzfolie für Google Pixel 2 XL deckt...'
 sku: 'B073RRPL3P-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

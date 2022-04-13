@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RDKS3F-de BRIKSMAX Led Beleuchtungsset für Lego Technic...'
 sku: 'B081RDKS3F-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

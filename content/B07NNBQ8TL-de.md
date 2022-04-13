@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNBQ8TL-de Panasonic RP-HF410BE-W Bluetooth Kopfhörer 24 h...'
 sku: 'B07NNBQ8TL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 30.26 EUR
 currency: EUR
 price: 30.26

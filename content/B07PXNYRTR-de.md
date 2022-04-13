@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXNYRTR-de Ravensburger 14973 Disney Museum'
 sku: 'B07PXNYRTR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

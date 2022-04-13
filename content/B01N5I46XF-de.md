@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5I46XF-de Kärcher Hochdruckreiniger K 5 Premium Full Control Plus...'
 sku: 'B01N5I46XF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 368.57 EUR
 currency: EUR
 price: 368.57

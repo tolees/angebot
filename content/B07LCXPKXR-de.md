@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCXPKXR-de Spigen L37CS25731 Thin Fit 360 Kompatibel mit Huawei P30...'
 sku: 'B07LCXPKXR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

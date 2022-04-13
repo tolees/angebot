@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HT7NFOO-de Ruigor ICON 87 – großer multifunktionaler Rucksack...'
 sku: 'B01HT7NFOO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

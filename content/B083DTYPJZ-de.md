@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DTYPJZ-de H0_V 407 Stück Custom Bausteine Halterung Ständer...'
 sku: 'B083DTYPJZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCLIPFX-de Thule Subterra Rolling Duffel 75L Reisetrolley mit zwei...'
 sku: 'B01NCLIPFX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 246.41 EUR
 currency: EUR
 price: 246.41

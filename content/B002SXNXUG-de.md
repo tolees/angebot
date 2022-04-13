@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SXNXUG-de Nikon BF-1B Gehäusedeckel'
 sku: 'B002SXNXUG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

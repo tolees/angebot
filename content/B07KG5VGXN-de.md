@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG5VGXN-de Exzenterschleifer Meterk Schleifmaschine 300W 12000RPM mit...'
 sku: 'B07KG5VGXN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

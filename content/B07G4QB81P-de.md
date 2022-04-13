@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4QB81P-de Samsung EE-D3100T Charging Dock Pogo Schwarz'
 sku: 'B07G4QB81P-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 27.76 EUR
 currency: EUR
 price: 27.76

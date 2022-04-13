@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ACU62GY-de Remington SPF-300 Scherköpfe Kombi Pack für F5800 und F7800'
 sku: 'B00ACU62GY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 13.37 EUR
 currency: EUR
 price: 13.37

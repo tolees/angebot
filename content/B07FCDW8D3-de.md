@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCDW8D3-de ELEGIANT Fitness Armband Fitness Tracker Pulsmesser...'
 sku: 'B07FCDW8D3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

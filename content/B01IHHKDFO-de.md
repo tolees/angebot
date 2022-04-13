@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IHHKDFO-de Wrigley s Extra Professional Strong Mint Dose 50 Dragees'
 sku: 'B01IHHKDFO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

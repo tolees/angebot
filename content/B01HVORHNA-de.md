@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HVORHNA-de Westmark Kartoffelstampfer Kunststoff Länge: 27 5 cm...'
 sku: 'B01HVORHNA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

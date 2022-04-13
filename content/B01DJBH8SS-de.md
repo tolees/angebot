@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DJBH8SS-de Parker Jotter Kugelschreiber | Bond Street Black |...'
 sku: 'B01DJBH8SS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085VTM5GP-de Dasket 6pcs / Set V-Form-Durchschlag für Nähen Form Punch-...'
 sku: 'B085VTM5GP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BLTQ390-de Echo Show Vorherige Generation - 1. Gen. Zertifiziert und...'
 sku: 'B01BLTQ390-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

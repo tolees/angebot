@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHX38B2-de Sony SRS-XB32 kabelloser Bluetooth Lautsprecher tragbar...'
 sku: 'B07MHX38B2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

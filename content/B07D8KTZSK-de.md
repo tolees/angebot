@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D8KTZSK-de Led Leuchtmittel E27 Warmweiß 12W Lampe Licht 3000K 984...'
 sku: 'B07D8KTZSK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.19 EUR
 currency: EUR
 price: 11.19

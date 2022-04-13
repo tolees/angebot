@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PN934TS-de LATITOP Luftentfeuchter mit 500ml Wassertank kompakter und...'
 sku: 'B07PN934TS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

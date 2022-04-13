@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDQYM3F-de DESIRES Tilda Damen Weste Outdoor-Weste Mit Kapuze Und...'
 sku: 'B06XDQYM3F-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

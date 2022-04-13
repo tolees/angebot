@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089CZY1YS-de LetsGO toyz Spielzeug Mädchen 4 5 6 7 8 9 10 11 12 13 14...'
 sku: 'B089CZY1YS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

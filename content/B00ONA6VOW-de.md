@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ONA6VOW-de Neff Z11TF36X0 Backofen- und Herdzubehör / Kochfeld /...'
 sku: 'B00ONA6VOW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 97.0 EUR
 currency: EUR
 price: 97.0

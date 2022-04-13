@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001B0AY7M-de Tödliche Versprechen - Eastern Promises [Blu-ray]'
 sku: 'B001B0AY7M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

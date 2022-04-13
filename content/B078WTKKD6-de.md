@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WTKKD6-de Sony SRS-XB41 kabelloser Bluetooth Lautsprecher tragbar...'
 sku: 'B078WTKKD6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

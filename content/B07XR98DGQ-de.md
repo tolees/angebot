@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XR98DGQ-de Apple Leder Case für iPhone 11 Pro Max - Sonnengelb'
 sku: 'B07XR98DGQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

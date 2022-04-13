@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VQBEGCU-de Leifheit Standtrockner Classic 250 Flex individuell...'
 sku: 'B00VQBEGCU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

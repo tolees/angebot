@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QGXKR4-de Emsa 508570 Clip & Close Frischhaltedosen | 3-teiliges Set...'
 sku: 'B004QGXKR4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

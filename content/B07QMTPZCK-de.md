@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMTPZCK-de WEB EYEWEAR Herren WE0267 Sonnenbrille Gold 54 EU'
 sku: 'B07QMTPZCK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 114.5 EUR
 currency: EUR
 price: 114.5

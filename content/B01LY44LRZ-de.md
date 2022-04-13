@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY44LRZ-de PLAYMOBIL Ghostbusters 9222 Slimer mit Hot Dog Stand Ab 6...'
 sku: 'B01LY44LRZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

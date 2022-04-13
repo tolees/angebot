@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Z81HSX-de Cars 1 + Cars 2 + Cars 3 [3 DVDs]'
 sku: 'B077Z81HSX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

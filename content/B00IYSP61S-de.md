@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IYSP61S-de Rekord'
 sku: 'B00IYSP61S-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

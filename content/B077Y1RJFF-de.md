@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y1RJFF-de BRITA Wasserfilter Style XL hellgrau inkl. 1 MAXTRA+...'
 sku: 'B077Y1RJFF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 28.84 EUR
 currency: EUR
 price: 28.84

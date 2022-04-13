@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I2BO5YA-de Lucy 4K Ultra HD + Blu-ray'
 sku: 'B01I2BO5YA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

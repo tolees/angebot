@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PBVTMQG-de Eschenbach Optik OPTIK Fernglas klein weiß VIVA 6X15 NEW'
 sku: 'B00PBVTMQG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 38.02 EUR
 currency: EUR
 price: 38.02

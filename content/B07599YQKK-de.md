@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07599YQKK-de Funko 24520 POP Bobble: Marvel: GOTG TT: Gamora'
 sku: 'B07599YQKK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

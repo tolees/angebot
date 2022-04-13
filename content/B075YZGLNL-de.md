@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075YZGLNL-de amscan 9902519 6 Dekospiralen My Little Pony Mehrfarbig'
 sku: 'B075YZGLNL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.42 EUR
 currency: EUR
 price: 4.42

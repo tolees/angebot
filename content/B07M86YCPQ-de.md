@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M86YCPQ-de SD-Kartenleser Micro SD / TF-Compact-Flash-Kartenleser mit...'
 sku: 'B07M86YCPQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

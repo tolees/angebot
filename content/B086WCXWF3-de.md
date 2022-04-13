@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WCXWF3-de normani Palettenkissen Set Sofa Sitzkissen mit...'
 sku: 'B086WCXWF3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 51.96 EUR
 currency: EUR
 price: 51.96

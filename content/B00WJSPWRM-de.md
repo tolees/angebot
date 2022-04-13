@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WJSPWRM-de Belkin Adapter USB-C auf USB-A 15cm USB-C Stecker USB-A...'
 sku: 'B00WJSPWRM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

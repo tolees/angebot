@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SU7GZVS-de Marvel s Agents of S.H.I.E.L.D. - Die komplette erste...'
 sku: 'B00SU7GZVS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.04 EUR
 currency: EUR
 price: 8.04

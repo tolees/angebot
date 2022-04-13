@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JK8DXF6-de LaCie Portable SSD 500 GB externe SSD 2.5 Zoll USB-C Mac &...'
 sku: 'B07JK8DXF6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 92.76 EUR
 currency: EUR
 price: 92.76

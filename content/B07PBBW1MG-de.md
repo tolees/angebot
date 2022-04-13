@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBBW1MG-de Funko 41475 Action Figur: Dark Crystal - Silk Sammelbares...'
 sku: 'B07PBBW1MG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

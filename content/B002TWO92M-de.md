@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002TWO92M-de Alessi "La Stanza dello Scirocco" Korbschale'
 sku: 'B002TWO92M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 42.14 EUR
 currency: EUR
 price: 42.14

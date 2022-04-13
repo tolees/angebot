@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGBJ8RC-de Logitech C310 Webcam HD 720p 60° Sichtfeld Fester Fokus...'
 sku: 'B01BGBJ8RC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

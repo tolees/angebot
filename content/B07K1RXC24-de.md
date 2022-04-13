@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1RXC24-de Ezviz S3 Sport Action Kamera Auflösung 4K/24 fps oder Full...'
 sku: 'B07K1RXC24-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

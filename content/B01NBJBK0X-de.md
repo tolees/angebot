@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBJBK0X-de Magic Tracks Starter Set | Autorennbahn für Kinder ab 3...'
 sku: 'B01NBJBK0X-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

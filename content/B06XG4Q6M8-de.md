@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG4Q6M8-de Fila Classic Logo Hoody Sweatshirt Grau XL'
 sku: 'B06XG4Q6M8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

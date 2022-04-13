@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075LYDD7Z-de Apple iPhone X 64GB - Silber'
 sku: 'B075LYDD7Z-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 568.79 EUR
 currency: EUR
 price: 568.79

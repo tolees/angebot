@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PP7VQ4D-de ZTE Smartphone Axon 10 Pro 16.43 cm 6.47 Zoll AMOLED...'
 sku: 'B07PP7VQ4D-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 470 EUR
 currency: EUR
 price: 470

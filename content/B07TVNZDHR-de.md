@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVNZDHR-de BRIKSMAX Led Beleuchtungsset für Lego City Quad-Rennteam...'
 sku: 'B07TVNZDHR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

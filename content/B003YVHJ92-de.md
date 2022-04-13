@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003YVHJ92-de NESCAFÉ Dolce Gusto Nesquik | 48 Kapseln Trinkschokolade |...'
 sku: 'B003YVHJ92-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

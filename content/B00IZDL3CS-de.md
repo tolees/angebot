@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IZDL3CS-de B. toys by Battat – B. Pet Vet – Tierarztkoffer mit Arzt...'
 sku: 'B00IZDL3CS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.25 EUR
 currency: EUR
 price: 39.25

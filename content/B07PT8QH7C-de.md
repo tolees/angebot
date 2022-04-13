@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT8QH7C-de BRIKSMAX Led Beleuchtungsset für Ghostbusters Ecto-1...'
 sku: 'B07PT8QH7C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ZCAIWA-de EISL DX25 Waschbeckenbrause Handbrause für Küche Bad...'
 sku: 'B008ZCAIWA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

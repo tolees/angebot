@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001MSONI4-de Catwalk Collection Handbags - Leder - Übergroße...'
 sku: 'B001MSONI4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

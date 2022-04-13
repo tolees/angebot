@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XG86GLM-de Oral-B Genius 10900N Elektrische Zahnbürste mit...'
 sku: 'B07XG86GLM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 180.84 EUR
 currency: EUR
 price: 180.84

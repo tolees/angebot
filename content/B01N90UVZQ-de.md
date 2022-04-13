@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N90UVZQ-de Under Armour Herren Sporthose Schwarz X-Large'
 sku: 'B01N90UVZQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 30.9 EUR
 currency: EUR
 price: 30.9

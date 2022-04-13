@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016ZWT64M-de Garmin Forerunner 235 Handgelenk-Based Herzfrequenz-GPS-...'
 sku: 'B016ZWT64M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 209.9 EUR
 currency: EUR
 price: 209.9

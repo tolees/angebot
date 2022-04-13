@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BB626QI-de Drei Engel für Charlie - Volle Power [Blu-ray]'
 sku: 'B00BB626QI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.97 EUR
 currency: EUR
 price: 4.97

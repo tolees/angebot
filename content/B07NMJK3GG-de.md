@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NMJK3GG-de Hollow Knight'
 sku: 'B07NMJK3GG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

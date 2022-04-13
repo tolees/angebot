@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D8QQY9O-de Under Armour Herren Performance Poloshirt Grau carbon...'
 sku: 'B00D8QQY9O-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.42 EUR
 currency: EUR
 price: 15.42

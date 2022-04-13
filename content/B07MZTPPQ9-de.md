@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZTPPQ9-de Dermaroller【Newest 2020】 ETEREAUTY 0.5mm Micronadeln Derma...'
 sku: 'B07MZTPPQ9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

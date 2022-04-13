@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q1JRTHS-de Funko 42869 POP Vinyl: NFL: Cowboys-Amari Cooper Home...'
 sku: 'B07Q1JRTHS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

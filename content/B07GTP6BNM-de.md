@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GTP6BNM-de Playmobil - Privatjet'
 sku: 'B07GTP6BNM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.22 EUR
 currency: EUR
 price: 17.22

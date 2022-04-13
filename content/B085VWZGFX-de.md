@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085VWZGFX-de Dittzz LED Licht-Set für Baustein Spielzeug...'
 sku: 'B085VWZGFX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

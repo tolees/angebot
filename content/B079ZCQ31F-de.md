@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZCQ31F-de Ravensburger 22334 Break Free'
 sku: 'B079ZCQ31F-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZXZYGH-de PS4-Controller Touchpanel-Gamepad mit Vibrations- und...'
 sku: 'B086ZXZYGH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

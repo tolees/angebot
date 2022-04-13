@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMFXKT6-de Dextro Energy Eiweißpulver Whey und Casein Protein inkl....'
 sku: 'B07WMFXKT6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0086CTL5Y-de Garmin KFZ Ladekabel Mini USB 2 Amp'
 sku: 'B0086CTL5Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

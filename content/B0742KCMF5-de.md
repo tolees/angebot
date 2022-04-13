@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0742KCMF5-de Thames & Kosmos 692872 Zubehör'
 sku: 'B0742KCMF5-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

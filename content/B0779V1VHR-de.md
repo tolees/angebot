@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779V1VHR-de Paco Home In- & Outdoor Teppich Vintage Design...'
 sku: 'B0779V1VHR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

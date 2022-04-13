@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U1INHG0-de Living Nostalgia 14 5 cm Peg Dose mit Haken grau'
 sku: 'B00U1INHG0-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

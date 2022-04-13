@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NARBPI7-de SanDisk Extreme Go 64GB USB-Flash-Laufwerk USB 3.1'
 sku: 'B01NARBPI7-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.54 EUR
 currency: EUR
 price: 15.54

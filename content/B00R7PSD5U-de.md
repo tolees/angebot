@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R7PSD5U-de CITIZEN Damen Analog Quarz Uhr mit Leder Armband FE1083-02A'
 sku: 'B00R7PSD5U-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 70.2 EUR
 currency: EUR
 price: 70.2

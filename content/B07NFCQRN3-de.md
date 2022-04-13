@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFCQRN3-de camel active Herren Zip UP Hoodie Sportjacke Blau Marine...'
 sku: 'B07NFCQRN3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

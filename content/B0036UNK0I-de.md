@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0036UNK0I-de Park Tool Montageständer PRS-25 Team Issue 4000277'
 sku: 'B0036UNK0I-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 289.95 EUR
 currency: EUR
 price: 289.95

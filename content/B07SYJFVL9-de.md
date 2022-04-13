@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYJFVL9-de Bluetooth Kopfhörer Donerton Bluetooth 5.0 In Ear...'
 sku: 'B07SYJFVL9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

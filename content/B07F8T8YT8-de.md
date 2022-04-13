@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8T8YT8-de Philips HD9941/00 Grill-Kit für Aifryer Grillpfanne und...'
 sku: 'B07F8T8YT8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

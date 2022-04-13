@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X153FSM-de Comedian Harmonists'
 sku: 'B06X153FSM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXVSWZ6-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kessel Run...'
 sku: 'B07TXVSWZ6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P82MVJF-de Funko 41941 POP Vinyl: WWE-Becky Lynch Sammelbares...'
 sku: 'B07P82MVJF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

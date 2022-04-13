@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXH9LXV-de Nikon Z 50 Kamera'
 sku: 'B07YXH9LXV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 667.58 EUR
 currency: EUR
 price: 667.58

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJZTKHJ-de 1More E1026BT Stylish True Wireless In-Ear Headphones Black'
 sku: 'B07MJZTKHJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.09 EUR
 currency: EUR
 price: 59.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPSTR4B-de Funko 37867 POP Vinyl: BTS: RM Sammelbares Spielzeug...'
 sku: 'B07KPSTR4B-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

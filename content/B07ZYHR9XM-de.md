@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYHR9XM-de Mammut Herren Hardshell-jacke Mit Kapuze Masao Light...'
 sku: 'B07ZYHR9XM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

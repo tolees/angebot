@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JMJ31A-de Playmobil 4013 - SuperSet Pinguinbecken'
 sku: 'B006JMJ31A-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

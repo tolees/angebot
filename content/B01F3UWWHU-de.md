@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F3UWWHU-de Prym 390901 Prym Love Vario-Zange mit Loch-/Color Snaps...'
 sku: 'B01F3UWWHU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.27 EUR
 currency: EUR
 price: 10.27

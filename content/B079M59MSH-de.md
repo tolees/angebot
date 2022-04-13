@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079M59MSH-de American Tourister Soundbox - Spinner S Erweiterbar...'
 sku: 'B079M59MSH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

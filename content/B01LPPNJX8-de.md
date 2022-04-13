@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LPPNJX8-de Belkin ScreenForce InvisiGlass Displayschutzfolie geeignet...'
 sku: 'B01LPPNJX8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

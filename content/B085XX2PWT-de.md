@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XX2PWT-de Dittzz Technic Auto Bausteine Auto Bauset 3358 Teiles...'
 sku: 'B085XX2PWT-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

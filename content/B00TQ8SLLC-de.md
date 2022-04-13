@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TQ8SLLC-de Funko 4851 S6 No Actionfigur Game of Thrones: Rhaegal...'
 sku: 'B00TQ8SLLC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

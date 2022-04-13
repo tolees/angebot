@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPW1ZXM-de Tommy Hilfiger Herren-Ketten mit Anhänger & Anhänger...'
 sku: 'B07NPW1ZXM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

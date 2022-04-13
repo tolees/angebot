@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HHCHX3-de Prime Herren Arbeitshose Herren Cargohose Army Twill Cargo...'
 sku: 'B078HHCHX3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ6SJ19-de kindergeburtstag gastgeschenke 20 LED Fingerlampe...'
 sku: 'B07SZ6SJ19-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

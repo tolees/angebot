@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4Z2CS1-de LED Schrankbeleuchtung mit Bewegungsmelder - 30er LED...'
 sku: 'B07W4Z2CS1-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

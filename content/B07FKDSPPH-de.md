@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKDSPPH-de Hasbro E4163ES2 - Disney Prinzessin Schimmerglanz Jasmin...'
 sku: 'B07FKDSPPH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

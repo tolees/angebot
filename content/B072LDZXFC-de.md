@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LDZXFC-de Ringverkleinerer mit Schmuck-Poliertuch für lose Ringe 12...'
 sku: 'B072LDZXFC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

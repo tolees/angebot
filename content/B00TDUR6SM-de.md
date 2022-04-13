@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TDUR6SM-de Belkin Premium Mixit Metallic Ladegerät 2 4A USB Anschluss...'
 sku: 'B00TDUR6SM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

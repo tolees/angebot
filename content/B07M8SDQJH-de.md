@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8SDQJH-de Frozen Disney Die Eiskönigin II Königliches Schloss von...'
 sku: 'B07M8SDQJH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 137.9 EUR
 currency: EUR
 price: 137.9

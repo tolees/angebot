@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGFJZ4Y-de Küchenarmatur TACKLIFE DAKF6F 360° Drehbar Wasserhahn...'
 sku: 'B07WGFJZ4Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

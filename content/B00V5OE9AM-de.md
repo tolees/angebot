@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V5OE9AM-de Complete Studio Album Limited Coloured LP-Box [Vinyl LP]'
 sku: 'B00V5OE9AM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 301.21 EUR
 currency: EUR
 price: 301.21

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1VY3PB-de Unique Party 79123 Taschen'
 sku: 'B07F1VY3PB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.81 EUR
 currency: EUR
 price: 2.81

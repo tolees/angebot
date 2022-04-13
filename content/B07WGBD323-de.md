@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGBD323-de SevenPanda Airpods Hülle Tier 3D Niedlicher Cartoon...'
 sku: 'B07WGBD323-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756RJBHC-de Tommy Hilfiger Herren CORE Stretch Slim CNECK Tee T-Shirt...'
 sku: 'B0756RJBHC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.35 EUR
 currency: EUR
 price: 23.35

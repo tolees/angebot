@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KXP8T1S-de L&L Damen Bademantel mit Kapuze LL0025 Melange/Weiß Sterne M'
 sku: 'B01KXP8T1S-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

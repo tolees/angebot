@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0834KTSPW-de Wepro kompatibel mit AirPods Pro Hülle Abstrahlend 2019...'
 sku: 'B0834KTSPW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

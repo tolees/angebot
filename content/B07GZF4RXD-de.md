@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZF4RXD-de Thrustmaster T.Racing Scuderia Ferrari Edition Gaming-...'
 sku: 'B07GZF4RXD-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

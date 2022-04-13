@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892DX3KH-de Axloie Bluetooth Kopfhörer Sport in Ear Wireless...'
 sku: 'B0892DX3KH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

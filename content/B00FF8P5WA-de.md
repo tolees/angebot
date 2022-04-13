@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FF8P5WA-de Maier Sports Herren Funktionshose Oberjoch graphite 58'
 sku: 'B00FF8P5WA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 83.26 EUR
 currency: EUR
 price: 83.26

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I5G76UI-de Lamy 1226061 al-star Füllhalter Aluminium Feder M blaugrün'
 sku: 'B00I5G76UI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

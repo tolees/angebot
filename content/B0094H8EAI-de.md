@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0094H8EAI-de Yankee Candle Duftkerze im Glas groß | Cranberry Ice |...'
 sku: 'B0094H8EAI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

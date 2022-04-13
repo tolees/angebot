@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CNJQN9-de PLAYMOBIL Sports & Action 9375 Stomp Racer mit Booster Ab...'
 sku: 'B076CNJQN9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

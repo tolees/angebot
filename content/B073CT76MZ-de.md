@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073CT76MZ-de Beurer BF 600 Diagnosewaage schwarz Messung von Körperfett...'
 sku: 'B073CT76MZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

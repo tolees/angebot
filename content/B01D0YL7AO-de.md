@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D0YL7AO-de Pica Marker Dry Longlife Automatic Pen 3030 + 10 St....'
 sku: 'B01D0YL7AO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

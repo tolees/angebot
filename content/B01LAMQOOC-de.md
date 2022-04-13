@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAMQOOC-de Funko 11070 Actionfigur The Walking Dead: Negan Multi...'
 sku: 'B01LAMQOOC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

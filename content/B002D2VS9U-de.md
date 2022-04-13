@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002D2VS9U-de Sigma 10-20 mm F3 5 EX DC HSM-Objektiv 82 mm Filtergewinde...'
 sku: 'B002D2VS9U-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 312.64 EUR
 currency: EUR
 price: 312.64

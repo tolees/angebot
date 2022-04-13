@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYFMVJF-de Hasbro Disney Die Eiskönigin Feuergeist mit Schnee-Snack...'
 sku: 'B07VYFMVJF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NR844JY-de Dickie Toys 203719011 Polizeistation Ultimate Police...'
 sku: 'B07NR844JY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

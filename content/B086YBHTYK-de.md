@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086YBHTYK-de Quick-Connect INVERTER Split Klimaanlage mit Wärmepumpe 3...'
 sku: 'B086YBHTYK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 649.9 EUR
 currency: EUR
 price: 649.9

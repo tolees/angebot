@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003RH0YRC-de Bullyland 12764 - Spielfigur Walt Disney Toy Story 3 Rex...'
 sku: 'B003RH0YRC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.09 EUR
 currency: EUR
 price: 4.09

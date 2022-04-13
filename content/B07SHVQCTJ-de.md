@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHVQCTJ-de Philips Hue White and Color Ambiance GU10 LED Lampe...'
 sku: 'B07SHVQCTJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

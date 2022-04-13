@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGJC5BB-de Xiaomi Mi Note 10 Smartphone 16 43cm 6 47" 3D Curved...'
 sku: 'B07ZGJC5BB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 445.0 EUR
 currency: EUR
 price: 445.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BQX491G-de erima Club 5 Sporttasche Orange/Schwarz L 76 Liter 723363'
 sku: 'B00BQX491G-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

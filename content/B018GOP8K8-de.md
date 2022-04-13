@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018GOP8K8-de Tefal E79071 Jamie Oliver Induction Servierpfanne mit 2...'
 sku: 'B018GOP8K8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HRJDTOU-de HP OfficeJet Pro 6960 Multifunktionsdrucker Instant Ink...'
 sku: 'B01HRJDTOU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 127.08 EUR
 currency: EUR
 price: 127.08

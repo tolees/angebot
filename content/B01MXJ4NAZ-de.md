@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXJ4NAZ-de Skechers Girls Go Walk 4-Kindle Low-Top Sneakers Black...'
 sku: 'B01MXJ4NAZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

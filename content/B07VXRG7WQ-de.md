@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXRG7WQ-de Garmin fenix 6S PRO kompakte GPS-Multisport-Smartwatch mit...'
 sku: 'B07VXRG7WQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 589.99 EUR
 currency: EUR
 price: 589.99

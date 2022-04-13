@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LO9AB8C-de Philips Essential Care Reisehaartrockner BHD006/00 1600...'
 sku: 'B00LO9AB8C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

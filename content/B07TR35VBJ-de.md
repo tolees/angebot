@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TR35VBJ-de GODNECE Bauplatten Straße 50 x 50 Loch Straßenplatten...'
 sku: 'B07TR35VBJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

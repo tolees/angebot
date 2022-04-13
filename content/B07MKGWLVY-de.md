@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKGWLVY-de Huker 18-in-1 Schneeflocke Multitool Karte Edelstahl...'
 sku: 'B07MKGWLVY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

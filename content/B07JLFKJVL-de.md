@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLFKJVL-de Playmobil 70099 Magic Perlensammler mit Rochen bunt'
 sku: 'B07JLFKJVL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.31 EUR
 currency: EUR
 price: 19.31

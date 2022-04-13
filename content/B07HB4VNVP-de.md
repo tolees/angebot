@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB4VNVP-de Pop Billy Idol Vinyl Figure'
 sku: 'B07HB4VNVP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.17 EUR
 currency: EUR
 price: 5.17

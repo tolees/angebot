@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013U3XJMY-de Berydale Damen Parka Jacke wasser- und winddicht Gr. 36...'
 sku: 'B013U3XJMY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ELG5G7K-de Hasbro Gaming B7714100 - Elefun Kinderspiel'
 sku: 'B01ELG5G7K-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075X6WRJV-de WMF KÜCHENminis 1-Ei-Eierkocher My Egg mit Eierbecher...'
 sku: 'B075X6WRJV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

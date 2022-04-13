@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WVFRYF-de Einhell Rasenwalze GC-GR 57 57cm Breite 32cm Durchmesser...'
 sku: 'B078WVFRYF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 42.75 EUR
 currency: EUR
 price: 42.75

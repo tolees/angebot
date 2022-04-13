@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXVB5NX-de Timezone Herren Slim ScottTZ Shorts Blau Used Bright Blue...'
 sku: 'B07GXVB5NX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAMQ758-de Funko 026997 POP Vinylfigur: Disney: The Little Mermaid:...'
 sku: 'B01LAMQ758-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

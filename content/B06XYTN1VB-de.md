@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYTN1VB-de SanDisk Extreme - 64GB MicroSDXC-Speicherkarte für Handys...'
 sku: 'B06XYTN1VB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

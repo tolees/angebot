@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KLT1AA8-de Skagen Unisex Hybrid Smartwatch SKT1104'
 sku: 'B01KLT1AA8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 119.4 EUR
 currency: EUR
 price: 119.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCKF619-de Soundcore Wakey Bluetooth Lautsprecher Powered by Anker...'
 sku: 'B07VCKF619-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

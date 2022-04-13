@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY2IX2D-de Rogue One: A Star Wars Story Original Motion Picture...'
 sku: 'B01LY2IX2D-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

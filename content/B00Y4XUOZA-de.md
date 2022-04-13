@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Y4XUOZA-de Lacoste Herren Poloshirt Schwarz Noir Large...'
 sku: 'B00Y4XUOZA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 54.45 EUR
 currency: EUR
 price: 54.45

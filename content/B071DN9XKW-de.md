@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071DN9XKW-de Pioneer 5.1 Kanal AV Receiver VSX-832-S Hifi Verstärker...'
 sku: 'B071DN9XKW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 294.9 EUR
 currency: EUR
 price: 294.9

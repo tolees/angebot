@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MLYDJ10-de Tommy Hilfiger Watches Herren-Armbanduhr Analog Quarz...'
 sku: 'B00MLYDJ10-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 115.47 EUR
 currency: EUR
 price: 115.47

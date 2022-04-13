@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLN6QXQ-de Levi s Damen Original Sherpa Trucker Jacke Schwarz Forever...'
 sku: 'B07FLN6QXQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTM26JL-de Hpybest Zahnbürstenhalter für Rasierapparat Saugnapf...'
 sku: 'B07TTM26JL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

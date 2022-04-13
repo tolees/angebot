@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00STL8GK8-de Hasbro FurReal Friends B0449EU6- JJ mein hopsender Mops...'
 sku: 'B00STL8GK8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

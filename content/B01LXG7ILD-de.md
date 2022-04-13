@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXG7ILD-de Siemens LZ10AFA00 Aktivkohlefilter'
 sku: 'B01LXG7ILD-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 81.9 EUR
 currency: EUR
 price: 81.9

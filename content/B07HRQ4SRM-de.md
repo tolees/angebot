@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRQ4SRM-de Kitchen Emperor Santokumesser Küchenmesser Kuechenmesser...'
 sku: 'B07HRQ4SRM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB2GY4M-de YLCJ Vintage Doble Bronce Industrial Industrial Lámparas...'
 sku: 'B07RB2GY4M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 45.28 EUR
 currency: EUR
 price: 45.28

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X3S11YM-de Schleich 42370 - Mobile Tierärztin mit Hannoveraner Fohlen'
 sku: 'B06X3S11YM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

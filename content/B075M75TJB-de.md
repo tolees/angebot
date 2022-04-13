@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075M75TJB-de Kirby Battle Royale - [Nintendo 3DS]'
 sku: 'B075M75TJB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

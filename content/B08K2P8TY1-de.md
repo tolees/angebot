@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K2P8TY1-de MAJOZ0 Beleuchtungsset für LEGO Architecture London...'
 sku: 'B08K2P8TY1-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

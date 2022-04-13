@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FF4ZSPI-de Kultkomödien mit Thomas Gottschalk & Mike Krüger - 5DVD-...'
 sku: 'B00FF4ZSPI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

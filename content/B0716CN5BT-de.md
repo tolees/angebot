@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716CN5BT-de King Arthur: Legend of the Sword [Blu-ray]'
 sku: 'B0716CN5BT-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

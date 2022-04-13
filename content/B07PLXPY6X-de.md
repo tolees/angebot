@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLXPY6X-de Tragbare Seifenblasenmaschine iTeknic Bubble Machine...'
 sku: 'B07PLXPY6X-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

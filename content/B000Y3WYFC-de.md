@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Y3WYFC-de Wrangler Texas Herren Jeans Blau Stonewash Light blue 40W...'
 sku: 'B000Y3WYFC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 51.93 EUR
 currency: EUR
 price: 51.93

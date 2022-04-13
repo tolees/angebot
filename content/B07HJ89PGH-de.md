@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJ89PGH-de Pop Tokyo Ghoul Rize Vinyl Figure'
 sku: 'B07HJ89PGH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

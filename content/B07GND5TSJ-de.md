@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GND5TSJ-de DJI - Smart Battery für Mavic 2 Pro und Mavic 2 Zoom |...'
 sku: 'B07GND5TSJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 115.89 EUR
 currency: EUR
 price: 115.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRTZTVS-de prettygood7 Eingabestift für Nintendo 3DS / N3DS / XL/LL...'
 sku: 'B07HRTZTVS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

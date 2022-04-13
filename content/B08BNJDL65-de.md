@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNJDL65-de Bluetooth Kopfhörer kabellose Kopfhörer Touch Control...'
 sku: 'B08BNJDL65-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

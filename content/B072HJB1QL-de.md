@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072HJB1QL-de Schiesser Herren Anzug Kurz Zweiteiliger Schlafanzug Blau...'
 sku: 'B072HJB1QL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NB7P1F-de Ticwatch S Knight Smartwatch Intelligente Armbanduhr mit 1...'
 sku: 'B077NB7P1F-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 122.14 EUR
 currency: EUR
 price: 122.14

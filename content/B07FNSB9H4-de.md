@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNSB9H4-de LEGO Star Wars 75236 - Duell um die Starkiller-Basis Bauset'
 sku: 'B07FNSB9H4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.61 EUR
 currency: EUR
 price: 14.61

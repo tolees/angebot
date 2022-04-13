@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JCRG2C-de Bluetooth Kopfhörer In Ear Wireless Noise Cancelling...'
 sku: 'B083JCRG2C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

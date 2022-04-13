@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBM2DTH-de Alex Perry Muttertagsgeschenk kette damen geschenke für...'
 sku: 'B07VBM2DTH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

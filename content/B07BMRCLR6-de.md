@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMRCLR6-de MEDION MD 18500 Saugroboter mit Ladestation 90 Min...'
 sku: 'B07BMRCLR6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

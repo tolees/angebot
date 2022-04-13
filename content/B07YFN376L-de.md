@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFN376L-de Zendure SuperMini Powerbank mit 10.000 mAh robust klein...'
 sku: 'B07YFN376L-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076N2ZQJZ-de miaX Profi Ceranfeldschaber - Ihr zuverlässiger Schaber...'
 sku: 'B076N2ZQJZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Z34BHR-de Sharplace Multifunktionale Erweiterungskarte Shield...'
 sku: 'B076Z34BHR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.21 EUR
 currency: EUR
 price: 4.21

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TJD79BW-de Acer H7550ST DLP Projektor Full HD 1920 x 1080 Pixel 3.000...'
 sku: 'B00TJD79BW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 400.0 EUR
 currency: EUR
 price: 400.0

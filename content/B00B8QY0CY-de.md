@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B8QY0CY-de FjällRäven Kanken ochre'
 sku: 'B00B8QY0CY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

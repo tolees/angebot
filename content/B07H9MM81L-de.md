@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9MM81L-de Nebula Prizm II von Anker 3600 Lux 1080p Full HD Video...'
 sku: 'B07H9MM81L-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

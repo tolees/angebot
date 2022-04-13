@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQJGBL4-de K2 Sports Europe Unisex Kinder Inlineskates Raider'
 sku: 'B07HQJGBL4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 65.9 EUR
 currency: EUR
 price: 65.9

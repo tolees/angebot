@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005DRDUXE-de tesa Powerstrips Strips LARGE wasserfest Packung mit 6 Strips'
 sku: 'B005DRDUXE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

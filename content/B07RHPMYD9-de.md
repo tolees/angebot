@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHPMYD9-de Salomon Herren Trail Running Schuhe ALPHACROSS Farbe:...'
 sku: 'B07RHPMYD9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 41.28 EUR
 currency: EUR
 price: 41.28

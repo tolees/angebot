@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJCNTR1-de Zapf Creation 960202 Elli Smiles Puppe mit Funktion und...'
 sku: 'B07QJCNTR1-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

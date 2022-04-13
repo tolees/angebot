@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B20KPG6-de Melitta Caffeo Solo & Perfect Milk E957-101 Schlanker...'
 sku: 'B00B20KPG6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 314.99 EUR
 currency: EUR
 price: 314.99

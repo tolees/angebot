@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZS9PTVH-de Insmart Silikon-Küchenschwamm ， 4 STÜCKE Antibakterieller...'
 sku: 'B07ZS9PTVH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SLLB33-de PUMA Herren Boxershort Limited Statement Edition 6er Pack...'
 sku: 'B089SLLB33-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59

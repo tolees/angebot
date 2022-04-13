@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY0UFB5-de The Accountant'
 sku: 'B01LY0UFB5-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003JHTIPE-de Liqui Moly Motoröl Top Tec 4200 5 W-30 5 Liter'
 sku: 'B003JHTIPE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 47.71 EUR
 currency: EUR
 price: 47.71

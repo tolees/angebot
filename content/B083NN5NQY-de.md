@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NN5NQY-de DXX Technik Bausteine Auto Jeep Wrangler Adventurer...'
 sku: 'B083NN5NQY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

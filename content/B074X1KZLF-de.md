@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074X1KZLF-de Sony GTKXB60B.CEL GTK-XB60 Bluetooth Party Lautsprecher...'
 sku: 'B074X1KZLF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 213.97 EUR
 currency: EUR
 price: 213.97

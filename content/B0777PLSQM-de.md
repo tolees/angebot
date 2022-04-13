@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777PLSQM-de Pop Royal Family Princess Diana Vinyl Figure'
 sku: 'B0777PLSQM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

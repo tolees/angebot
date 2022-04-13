@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z3XBP7N-de ESOLOM Bluetooth Adapter Audio 5.0 Bluetooth Transmitter...'
 sku: 'B07Z3XBP7N-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

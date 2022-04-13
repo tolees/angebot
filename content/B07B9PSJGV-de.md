@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9PSJGV-de Fitbit Versa Special Edition Gesundheits & Fitness...'
 sku: 'B07B9PSJGV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

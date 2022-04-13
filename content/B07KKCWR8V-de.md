@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKCWR8V-de NSSZ Teddybär 6 Hand Büro Puppe Ornamente Puppe Spielzeug'
 sku: 'B07KKCWR8V-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

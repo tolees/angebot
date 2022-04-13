@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001XRXZFG-de Finish Line Schmiermittel Keramik Kettenöl 120 ml 4002055'
 sku: 'B001XRXZFG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

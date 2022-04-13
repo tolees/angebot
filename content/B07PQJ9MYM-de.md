@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQJ9MYM-de Gabor Shoes Damen Jollys Stiefeletten Beige Cognac Natur...'
 sku: 'B07PQJ9MYM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 61.91 EUR
 currency: EUR
 price: 61.91

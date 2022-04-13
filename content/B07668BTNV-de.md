@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07668BTNV-de The Luckiest Man'
 sku: 'B07668BTNV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

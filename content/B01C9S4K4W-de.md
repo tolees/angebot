@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C9S4K4W-de Boxset'
 sku: 'B01C9S4K4W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.81 EUR
 currency: EUR
 price: 15.81

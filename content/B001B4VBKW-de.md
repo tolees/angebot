@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001B4VBKW-de Brennenstuhl BREMAXX Verlängerungskabel 20m Kabel in...'
 sku: 'B001B4VBKW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 32.66 EUR
 currency: EUR
 price: 32.66

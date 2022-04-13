@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2Z5DIY-de Samsung Galaxy A3 2017 Smartphone 12 04 cm 4 7 Zoll Touch-...'
 sku: 'B01N2Z5DIY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 219.95 EUR
 currency: EUR
 price: 219.95

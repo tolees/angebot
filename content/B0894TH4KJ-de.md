@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894TH4KJ-de Bluetooth Adapter 5.0 Empfänger Transmitter 2 in 1...'
 sku: 'B0894TH4KJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

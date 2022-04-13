@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007JUTMKI-de Erima Damen Casual Basics Sweathose mit Bündchen schwarz 40'
 sku: 'B007JUTMKI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.72 EUR
 currency: EUR
 price: 23.72

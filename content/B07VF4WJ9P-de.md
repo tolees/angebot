@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF4WJ9P-de mama stadt Prinzessin Cosplay Perücke Erwachsene und...'
 sku: 'B07VF4WJ9P-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

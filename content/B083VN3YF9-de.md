@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083VN3YF9-de Crucial Ballistix BL2K8G32C16U4WL RGB 3200 MHz DDR4 DRAM...'
 sku: 'B083VN3YF9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

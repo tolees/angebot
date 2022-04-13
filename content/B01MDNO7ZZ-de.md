@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MDNO7ZZ-de Dickie Toys Happy Fendt Traktor Trecker Bauernhof...'
 sku: 'B01MDNO7ZZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NH13DV2-de AmazonBasics USB 2.0-Druckerkabel A-Stecker auf B-Stecker 3 m'
 sku: 'B00NH13DV2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

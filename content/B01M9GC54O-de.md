@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9GC54O-de BOSS Herren RN 2P CO/EL T-Shirts Schwarz Black 1 Small 2er...'
 sku: 'B01M9GC54O-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

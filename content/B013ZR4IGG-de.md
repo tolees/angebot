@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013ZR4IGG-de Philips Sonicare FlexCare Platinum Zahnbürste HX9111/20 -...'
 sku: 'B013ZR4IGG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

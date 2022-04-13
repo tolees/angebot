@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DYHDLK-de Asus ROG Zenith Extreme Gaming Mainboard Sockel TR4 eATX...'
 sku: 'B074DYHDLK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

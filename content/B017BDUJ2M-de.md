@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017BDUJ2M-de Donic-Schildkröt Tischtennisschläger CarboTec 900 20%...'
 sku: 'B017BDUJ2M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

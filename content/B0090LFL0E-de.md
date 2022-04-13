@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0090LFL0E-de Nintendo Wii U - Konsole Premium Pack 32 GB schwarz mit...'
 sku: 'B0090LFL0E-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B5TJ65W-de Jurassic Park 2 - Vergessene Welt 4K Ultra HD + Blu-ray'
 sku: 'B07B5TJ65W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

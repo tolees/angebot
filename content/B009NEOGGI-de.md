@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009NEOGGI-de Doc Johnson - TitanMen Master Tool 4-6 inch'
 sku: 'B009NEOGGI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q8RQP2G-de Magi: The Kingdom of Magic - Staffel 2 - Vol.2 - [Blu-ray]'
 sku: 'B00Q8RQP2G-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

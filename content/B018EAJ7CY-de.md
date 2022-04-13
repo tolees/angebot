@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018EAJ7CY-de Fisher-Price CDH40 - Lernspaß Liederbuch Baby Spielzeug...'
 sku: 'B018EAJ7CY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

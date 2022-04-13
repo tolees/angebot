@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008DCOVS4-de Doctor s Diary Collection - Staffel 1-3 in einer Box [6 DVDs]'
 sku: 'B008DCOVS4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

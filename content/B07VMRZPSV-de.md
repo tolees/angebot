@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMRZPSV-de Samsung Book Cover Keyboard EF-DT860 für Galaxy Tab S6'
 sku: 'B07VMRZPSV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 139.87 EUR
 currency: EUR
 price: 139.87

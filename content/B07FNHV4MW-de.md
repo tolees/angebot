@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNHV4MW-de Logitech MX Vertical Ergonomische Kabellose Maus Bluetooth...'
 sku: 'B07FNHV4MW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

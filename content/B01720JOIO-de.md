@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01720JOIO-de Darda 50251 - Darda Rennbahn DTM Speed Champion...'
 sku: 'B01720JOIO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6VBFYD-de Cudy GS1005P 5-Port Gigabit PoE+ Switch 60W 4 *...'
 sku: 'B07W6VBFYD-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 42.9 EUR
 currency: EUR
 price: 42.9

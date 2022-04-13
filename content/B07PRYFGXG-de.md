@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRYFGXG-de ASTRO A40 TR Gaming-Headsest + MixAmp Pro TR Generation 4...'
 sku: 'B07PRYFGXG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 204.95 EUR
 currency: EUR
 price: 204.95

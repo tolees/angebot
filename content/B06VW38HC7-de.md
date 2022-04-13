@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VW38HC7-de Fossil Smartwatch FTW1203'
 sku: 'B06VW38HC7-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 99.43 EUR
 currency: EUR
 price: 99.43

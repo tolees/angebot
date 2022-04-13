@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCL61QL-de Funko 13431 Minions POP Vinylfigur: Despicable Me 3: Kyle...'
 sku: 'B06XCL61QL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

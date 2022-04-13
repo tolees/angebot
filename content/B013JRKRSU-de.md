@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013JRKRSU-de Beurer PO 40 Pulsoximeter Ermittlung der arteriellen...'
 sku: 'B013JRKRSU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 46.78 EUR
 currency: EUR
 price: 46.78

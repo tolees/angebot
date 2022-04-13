@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q35ZXQP-de Ice Crusher tragbare Handkurbel Ice Crusher Rasierer...'
 sku: 'B07Q35ZXQP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 37.09 EUR
 currency: EUR
 price: 37.09

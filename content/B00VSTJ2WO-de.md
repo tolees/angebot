@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VSTJ2WO-de Philips Audio SHB3075BK/00 On-Ear Kopfhörer Bluetooth...'
 sku: 'B00VSTJ2WO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

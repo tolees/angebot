@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPTBSJR-de Funko 38565 POP Vinyl 6" Jaws Sammelbares Spielzeug...'
 sku: 'B07KPTBSJR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

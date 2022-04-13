@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GTF06PS-de Rightwell Lupenbrille mit Licht Hände Frei Kopfband Lupen...'
 sku: 'B01GTF06PS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

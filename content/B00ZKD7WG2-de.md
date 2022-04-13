@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZKD7WG2-de Villeroy & Boch Toy s Delight Dip-Set 4-teillig Premium...'
 sku: 'B00ZKD7WG2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

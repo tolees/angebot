@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007UZPP94-de Lacoste Herren Sport Poloshirt L1230-00 Einfarbig Gr. XX-...'
 sku: 'B007UZPP94-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

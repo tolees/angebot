@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBBXR1R-de Funko 42650 POP Vinyl: Harry Potter S7-Ginny Yule...'
 sku: 'B07PBBXR1R-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

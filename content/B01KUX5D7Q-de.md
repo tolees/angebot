@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KUX5D7Q-de Fossil Herren Chronograph Quarz Uhr mit Leder Armband FS5210'
 sku: 'B01KUX5D7Q-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

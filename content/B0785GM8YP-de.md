@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0785GM8YP-de Under Armour Herren Unstoppable Windbreaker Oberteil Weiß...'
 sku: 'B0785GM8YP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

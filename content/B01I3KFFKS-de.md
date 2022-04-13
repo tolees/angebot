@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I3KFFKS-de Ravensburger 12528" Porsche 911 R 3D-Puzzle bunt'
 sku: 'B01I3KFFKS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 18.38 EUR
 currency: EUR
 price: 18.38

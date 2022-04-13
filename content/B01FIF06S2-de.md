@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FIF06S2-de Funko 9016 and S1 No Actionfigur Rick Morty gelb Standard'
 sku: 'B01FIF06S2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

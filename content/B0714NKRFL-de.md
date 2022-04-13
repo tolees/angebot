@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0714NKRFL-de Uglyfrog Bike-T Full Zip Herren Radtrikot Set Atmungsaktiv...'
 sku: 'B0714NKRFL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

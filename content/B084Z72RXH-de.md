@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084Z72RXH-de Aluminiumstangen Ringwerkzeuge Fine Arts Sculpture Pottery...'
 sku: 'B084Z72RXH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

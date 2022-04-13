@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KZFY812-de Dragonball Z 3991 Dragonball No POP Vinylfigur Vegeta Multi'
 sku: 'B00KZFY812-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007OECGC-de Faber-Castell 127102 - 10 Fallminen TK 9071 Minenstärke 2...'
 sku: 'B0007OECGC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

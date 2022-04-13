@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R7HN9R-de Condis Magnetische Bausteine 95 Teile Magnetspielzeug...'
 sku: 'B075R7HN9R-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

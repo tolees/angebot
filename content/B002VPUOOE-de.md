@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002VPUOOE-de Johnnie Walker Red Label Blended Scotch Whisky - Rauchige...'
 sku: 'B002VPUOOE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

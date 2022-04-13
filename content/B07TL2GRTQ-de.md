@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TL2GRTQ-de Huawei B535 4G LTE Router 3Pro Cat.7 4G LTE bis zu 300...'
 sku: 'B07TL2GRTQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 89.45 EUR
 currency: EUR
 price: 89.45

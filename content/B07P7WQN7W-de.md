@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7WQN7W-de Xoro HMT 500 - Micro System Internet-/ DAB+/FM-Radio CD...'
 sku: 'B07P7WQN7W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 102.22 EUR
 currency: EUR
 price: 102.22

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZFHDC7-de Schmidt Spiele 49365 Noch mal so gut Würfelspiel aus der...'
 sku: 'B07WZFHDC7-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006TUA4HO-de Triumph Damen Halbschalen BH Body Make-Up WHP Beige Smooth...'
 sku: 'B006TUA4HO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

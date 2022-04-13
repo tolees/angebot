@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075H1GDS8-de LEGO Duplo 10863 Meine erste Steinebox mit Ziehtieren...'
 sku: 'B075H1GDS8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4WK7TN-de ORICO - Aluminio 3.5 Pulgadas 4 Bahías Gabinete Disco Duro...'
 sku: 'B07B4WK7TN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

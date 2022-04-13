@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R91VYB-de Tacklife Akkuschrauber set mit 2 Akkus 12V 2 Gang Getriebe...'
 sku: 'B075R91VYB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG4QXMB-de PUMA Herren Speed Orbiter Laufschuhe High Rise-Blue...'
 sku: 'B07KG4QXMB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 66.49 EUR
 currency: EUR
 price: 66.49

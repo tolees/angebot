@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01615UVQU-de Sonos Play:5 WLAN Speaker Kraftvoller WLAN Lautsprecher...'
 sku: 'B01615UVQU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 476.0 EUR
 currency: EUR
 price: 476.0

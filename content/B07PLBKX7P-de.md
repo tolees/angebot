@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLBKX7P-de Filofax Kalendereinlage Personal 1 Woche auf 2 Seiten...'
 sku: 'B07PLBKX7P-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

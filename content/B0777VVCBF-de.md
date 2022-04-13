@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777VVCBF-de Arlo Pro2 Smart Home Zusatz-Überwachungskamera &...'
 sku: 'B0777VVCBF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 154.99 EUR
 currency: EUR
 price: 154.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPLTVWS-de Kinder Musikinstrumenten Spielzeug Set - Smarkids...'
 sku: 'B07DPLTVWS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3ZKTLX-de PLAYMOBIL Christmas 9493 Weihnachtsbäckerei mit...'
 sku: 'B07B3ZKTLX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

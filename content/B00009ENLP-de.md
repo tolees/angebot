@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00009ENLP-de Dancook 7500 - Großer Boxgrill mit Seitenablagen und Rädern'
 sku: 'B00009ENLP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

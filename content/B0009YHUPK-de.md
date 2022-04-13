@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009YHUPK-de WMF Gala Plus Topfset 5-teilig Cromargan Edelstahl poliert...'
 sku: 'B0009YHUPK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 167.54 EUR
 currency: EUR
 price: 167.54

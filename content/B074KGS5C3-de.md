@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KGS5C3-de Logitech Craft Kabellose Tastatur Bluetooth & 2.4 GHz...'
 sku: 'B074KGS5C3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

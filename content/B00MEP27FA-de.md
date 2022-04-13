@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MEP27FA-de Clatronic RK 3566 Reiskocher und Dampfgarer in Einem...'
 sku: 'B00MEP27FA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

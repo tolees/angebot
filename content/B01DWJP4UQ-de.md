@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWJP4UQ-de Garmin 010-01597-11"vivomove Classic Lederarmband Rosegold'
 sku: 'B01DWJP4UQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

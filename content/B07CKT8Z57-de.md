@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKT8Z57-de Sennheiser HD 4.50 Special Edition kabelloser Over-Ear-...'
 sku: 'B07CKT8Z57-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

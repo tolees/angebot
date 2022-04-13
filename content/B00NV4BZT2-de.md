@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NV4BZT2-de Epson B11B223401 Perfection V800 Photo Scanner Flachbett-...'
 sku: 'B00NV4BZT2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 361.0 EUR
 currency: EUR
 price: 361.0

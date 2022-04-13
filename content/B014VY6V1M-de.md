@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014VY6V1M-de HP LaserJet Enterprise M506x F2A70A Mono Laserdrucker...'
 sku: 'B014VY6V1M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 212.0 EUR
 currency: EUR
 price: 212.0

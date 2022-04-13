@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074VF1BW9-de Sony WH-H900N High-Resolution Kopfhörer Kabelloser Noise...'
 sku: 'B074VF1BW9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6W8KVY-de Oral-B CrossAction Black Edition Aufsteckbürsten Borsten...'
 sku: 'B07L6W8KVY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

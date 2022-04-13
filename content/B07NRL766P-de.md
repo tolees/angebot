@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRL766P-de Unbekannt Gasgrill-Smoker Portland XL'
 sku: 'B07NRL766P-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 157.31 EUR
 currency: EUR
 price: 157.31

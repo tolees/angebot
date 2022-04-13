@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017J0SEIS-de Mousehouse Gifts Holzspielzeug Eulen Werkzeugkasten für...'
 sku: 'B017J0SEIS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

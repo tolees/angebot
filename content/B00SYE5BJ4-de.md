@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SYE5BJ4-de SVITA TC3X20 Küchen-Eimer 60Liter 3x20L Edelstahl dreifach...'
 sku: 'B00SYE5BJ4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

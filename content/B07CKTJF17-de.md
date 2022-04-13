@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKTJF17-de Frauen Geschenke，Body & Earth 6Pcs Lavendel Wellness Set...'
 sku: 'B07CKTJF17-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

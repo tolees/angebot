@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VNBVKS-de L Oréal Men Expert Invincible Sport Duschgel mit...'
 sku: 'B082VNBVKS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 1.87 EUR
 currency: EUR
 price: 1.87

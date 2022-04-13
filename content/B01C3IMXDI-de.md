@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C3IMXDI-de Euphoria'
 sku: 'B01C3IMXDI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

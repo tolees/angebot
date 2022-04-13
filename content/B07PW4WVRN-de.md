@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PW4WVRN-de SimpleLife Handtasche Drehverschluss Tasche Fall Schnalle...'
 sku: 'B07PW4WVRN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

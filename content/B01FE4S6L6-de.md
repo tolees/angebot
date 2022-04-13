@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FE4S6L6-de 10x Druckerpatronen Komp. für Epson T1301 XL für Stylus...'
 sku: 'B01FE4S6L6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

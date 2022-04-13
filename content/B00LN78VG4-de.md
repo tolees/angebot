@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LN78VG4-de TFA Dostmann 50.1002.01 Samba Körper-Analysewaage mit...'
 sku: 'B00LN78VG4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CT3VM3H-de Echo Plus 2. Gen. mit Premiumklang und integriertem Smart...'
 sku: 'B07CT3VM3H-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

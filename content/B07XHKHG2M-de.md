@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHKHG2M-de Uten Heißluftfritteuse 6.5L Airfryer XXL Frittieren ohne...'
 sku: 'B07XHKHG2M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

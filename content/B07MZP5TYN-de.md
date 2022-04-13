@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZP5TYN-de Spieland Custom Waffen Set für Mini Figuren SWAT Team...'
 sku: 'B07MZP5TYN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

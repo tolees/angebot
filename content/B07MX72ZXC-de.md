@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MX72ZXC-de Lightailing Licht-Set Für Star Wars Super Star Zerstörer...'
 sku: 'B07MX72ZXC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

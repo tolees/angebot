@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7TFQCS-de Optoma LV130 LED Projektor WVGA 100.000:1 Kontrast...'
 sku: 'B07H7TFQCS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

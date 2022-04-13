@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPJFP5Y-de Concrete Genie [PlayStation 4]'
 sku: 'B07DPJFP5Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

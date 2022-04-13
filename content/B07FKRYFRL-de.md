@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKRYFRL-de Smart Steckdosenleiste Koogeek Intelligent WiFi-...'
 sku: 'B07FKRYFRL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

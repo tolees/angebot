@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075JCXS1K-de Unuber Badewanne Caddy & Laptop Bett Schreibtisch - 2 in 1...'
 sku: 'B075JCXS1K-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

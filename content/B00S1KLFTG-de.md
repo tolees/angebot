@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S1KLFTG-de WOLF-Garten Unkrautvernichter plus Rasendünger SQ 250...'
 sku: 'B00S1KLFTG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

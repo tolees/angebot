@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CGQ7XTL-de GOURMETmaxx Frischhaltedosen Klick-it 28 tlg. |...'
 sku: 'B07CGQ7XTL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.33 EUR
 currency: EUR
 price: 23.33

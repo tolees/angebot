@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT1CHE2-de Huawei Mate 9 14 9 cm 5 9 Zoll 64GB 12 Megapixel Kamera...'
 sku: 'B01MT1CHE2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

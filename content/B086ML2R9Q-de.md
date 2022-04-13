@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ML2R9Q-de Leic LED-Beleuchtungssatz Bausteine Lichtset für Lego...'
 sku: 'B086ML2R9Q-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

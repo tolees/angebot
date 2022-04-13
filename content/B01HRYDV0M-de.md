@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HRYDV0M-de Thrustmaster T-GT Lenkrad inkl. 3-Pedalset Force Feedback...'
 sku: 'B01HRYDV0M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

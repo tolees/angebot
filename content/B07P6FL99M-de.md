@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6FL99M-de Playmobil 70207 Dollhouse Gemütliches Wohnzimmer ab 4...'
 sku: 'B07P6FL99M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

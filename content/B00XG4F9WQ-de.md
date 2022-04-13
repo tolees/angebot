@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XG4F9WQ-de Microsoft Wireless Mobile Mouse 1850 Maus zyanblau...'
 sku: 'B00XG4F9WQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

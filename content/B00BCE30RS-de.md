@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BCE30RS-de Logitech MK270 Kabelloses Tastatur-Maus Set 2.4 GHz...'
 sku: 'B00BCE30RS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

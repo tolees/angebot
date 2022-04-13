@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0766CSY7G-de PLAYMOBIL Family Fun 9422 Swimmingpool mit Pump-Dusche Ab...'
 sku: 'B0766CSY7G-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31

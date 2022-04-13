@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6SQFE1-de Fire Emblem Echoes: Shadows of Valentia [3DS]'
 sku: 'B01N6SQFE1-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

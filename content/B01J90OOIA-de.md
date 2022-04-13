@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J90OOIA-de Fire 7-Tablet 16 GB Schwarz mit Spezialangeboten vorherige...'
 sku: 'B01J90OOIA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 40.68 EUR
 currency: EUR
 price: 40.68

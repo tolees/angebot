@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JGSYM9C-de Catalonia TV Decke Sherpa Kuscheldecke mit Ärmel- und...'
 sku: 'B08JGSYM9C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

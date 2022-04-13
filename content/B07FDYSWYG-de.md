@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDYSWYG-de 2 teilig Kochmesser Profi Messer Set AKZIM Scharfe...'
 sku: 'B07FDYSWYG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

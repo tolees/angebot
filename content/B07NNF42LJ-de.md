@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNF42LJ-de Panasonic RP-HTX20BE-H In-Ear Kopfhörer Bluetooth 8 5 h...'
 sku: 'B07NNF42LJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

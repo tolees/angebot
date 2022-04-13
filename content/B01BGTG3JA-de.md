@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTG3JA-de SanDisk SDCZ43-064G-GAM46 USB-Flash-Laufwerk USB 3.0 bis...'
 sku: 'B01BGTG3JA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.83 EUR
 currency: EUR
 price: 16.83

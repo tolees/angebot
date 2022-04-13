@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TRJFKD-de H0 V Minifiguren Schaukasten 3-Schicht Acryl Schaukasten...'
 sku: 'B083TRJFKD-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

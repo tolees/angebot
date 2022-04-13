@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AT6NZ2Y-de 2er Set BRUBAKER Tisch- oder Nachttischlampen Anthrazit...'
 sku: 'B01AT6NZ2Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

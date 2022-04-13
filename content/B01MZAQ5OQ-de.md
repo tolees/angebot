@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZAQ5OQ-de Citizen Herren Chronograph Quarz Uhr mit Leder Armband...'
 sku: 'B01MZAQ5OQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 165.0 EUR
 currency: EUR
 price: 165.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008JAAT5Y-de Monkey 47 Schwarzwald Dry Gin – Harmonischer Gin mit...'
 sku: 'B008JAAT5Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

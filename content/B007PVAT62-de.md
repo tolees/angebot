@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007PVAT62-de Invision TV Wandhalterung Ultrastarker Schwenkbare...'
 sku: 'B007PVAT62-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

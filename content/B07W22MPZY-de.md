@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W22MPZY-de KINGDUO Update-Tool Für Den Walkera Up02-Transmitter-...'
 sku: 'B07W22MPZY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 28.97 EUR
 currency: EUR
 price: 28.97

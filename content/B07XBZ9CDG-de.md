@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBZ9CDG-de YONMIG Smartwatch Fitness Armband Tracker Voller Touch...'
 sku: 'B07XBZ9CDG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLY61BX-de Bluetooth Kopfhörer【Neuestes Modell】 Donerton Kopfhörer...'
 sku: 'B07TLY61BX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

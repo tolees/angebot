@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PAU11S-de Die Rotkäppchen-Verschwörung'
 sku: 'B000PAU11S-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

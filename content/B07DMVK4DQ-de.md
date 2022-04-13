@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMVK4DQ-de Hilitand hivetool flach Extralanges 390 mm für...'
 sku: 'B07DMVK4DQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M97X4TH-de Braun Barttrimmer und Haarschneider BT3041 39...'
 sku: 'B07M97X4TH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.36 EUR
 currency: EUR
 price: 34.36

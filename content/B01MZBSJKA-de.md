@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZBSJKA-de The Afterlove'
 sku: 'B01MZBSJKA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

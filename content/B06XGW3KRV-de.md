@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGW3KRV-de Funko 13693 63650 Actionfigur Trollhunters: Jim Armored...'
 sku: 'B06XGW3KRV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

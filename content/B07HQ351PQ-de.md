@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQ351PQ-de Steins; Gate ELITE [Playstation 4]'
 sku: 'B07HQ351PQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

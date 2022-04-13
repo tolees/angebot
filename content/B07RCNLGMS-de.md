@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCNLGMS-de Star Wars- ferngesteuerte D-O Figur Star Wars: Der...'
 sku: 'B07RCNLGMS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWM4R8Q-de Zwini Laptop Kühlpads 12-17 Zoll Laptop Kühler r Cooling...'
 sku: 'B07YWM4R8Q-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 18.07 EUR
 currency: EUR
 price: 18.07

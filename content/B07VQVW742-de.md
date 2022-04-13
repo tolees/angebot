@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQVW742-de deAO Kinderspielset Pretend Kitchen Sink mit simuliertem...'
 sku: 'B07VQVW742-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

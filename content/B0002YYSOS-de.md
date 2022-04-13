@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002YYSOS-de Element System Wandschiene 1-reihig 2 Stück 4 Abmessungen...'
 sku: 'B0002YYSOS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CKXXTQC-de LED Strips 20M HEERTTOGO LED Streifen RGB mit Bluetooth...'
 sku: 'B08CKXXTQC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FLS3N9U-de Funko 39827 POP Vinyl: Football-Neymar da Silva Santos Jr....'
 sku: 'B01FLS3N9U-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

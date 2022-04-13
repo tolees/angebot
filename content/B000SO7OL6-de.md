@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SO7OL6-de The Very Best Of Diana Krall'
 sku: 'B000SO7OL6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

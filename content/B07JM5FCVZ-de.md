@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM5FCVZ-de Playmobil 70120 Spirit - Riding Free Pferdebox Snips &...'
 sku: 'B07JM5FCVZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

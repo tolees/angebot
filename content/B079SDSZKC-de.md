@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SDSZKC-de Samsung Externer Akkupack EB-P3000C 10.000 mAh Navy Blau'
 sku: 'B079SDSZKC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BMSYBY-de Cisco CP-PWR-CUBE-3 IP Phone Power Supply Netzteil'
 sku: 'B000BMSYBY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

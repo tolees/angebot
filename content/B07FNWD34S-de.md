@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNWD34S-de LEGO Creator 31091 - Transporter für Space Shuttle'
 sku: 'B07FNWD34S-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

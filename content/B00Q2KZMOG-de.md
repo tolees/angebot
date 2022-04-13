@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q2KZMOG-de AWA - Sydney – Chrom - Waschtischarmatur – RED DOT 2015'
 sku: 'B00Q2KZMOG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.28 EUR
 currency: EUR
 price: 49.28

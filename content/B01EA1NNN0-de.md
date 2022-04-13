@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EA1NNN0-de Microsoft Office Home and Student 2016 | PC | Box'
 sku: 'B01EA1NNN0-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 71.0 EUR
 currency: EUR
 price: 71.0

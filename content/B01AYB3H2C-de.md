@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AYB3H2C-de 100 Vakuumbeutel 20x30cm groß - Premium Qualität |...'
 sku: 'B01AYB3H2C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.78 EUR
 currency: EUR
 price: 16.78

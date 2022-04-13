@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWZ3LE2-de Die Edelsteintrilogie Rubinrot Saphirblau Smaragdgrün [4...'
 sku: 'B01LWZ3LE2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.12 EUR
 currency: EUR
 price: 17.12

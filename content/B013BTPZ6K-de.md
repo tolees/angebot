@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013BTPZ6K-de Hauck Duett 2 Geschwisterwagen bis 36 kg Zwillingsbuggy...'
 sku: 'B013BTPZ6K-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 292.0 EUR
 currency: EUR
 price: 292.0

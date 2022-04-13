@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013JF8DVK-de Kitekat Katzenfutter Nassfutter Klassische Auswahl in...'
 sku: 'B013JF8DVK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

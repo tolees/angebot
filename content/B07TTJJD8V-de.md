@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTJJD8V-de Acer Aspire 3 A315-54-56KY 39.6 cm 15 6 Zoll Full-HD matt...'
 sku: 'B07TTJJD8V-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 400.0 EUR
 currency: EUR
 price: 400.0

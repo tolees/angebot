@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ICUW9LW-de KLIM Chroma Gaming Tastatur QWERTZ DEUTSCH mit Kabel USB +...'
 sku: 'B01ICUW9LW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

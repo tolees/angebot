@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BWH668J-de Romoss Powerbank 10000mAh Externer Akku mit 2-Port Output...'
 sku: 'B07BWH668J-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

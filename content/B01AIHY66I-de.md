@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AIHY66I-de UGG Damen Classic Short II 1016223-BLK Schneestiefel...'
 sku: 'B01AIHY66I-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

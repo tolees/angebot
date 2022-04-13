@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUBNIS5-de Citizen Herren Analog Mechanisch Uhr mit Kunststoff...'
 sku: 'B01MUBNIS5-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

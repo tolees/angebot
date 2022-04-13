@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019EN52WE-de Engtanz'
 sku: 'B019EN52WE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

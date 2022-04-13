@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDJF59H-de Bang & Olufsen Beoplay A1 Bluetooth-Lautsprecher...'
 sku: 'B06XDJF59H-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 146.7 EUR
 currency: EUR
 price: 146.7

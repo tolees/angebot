@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3G1BVJ-de Hunter Mason Plissee Klemmfix Faltrollo ohne Bohren...'
 sku: 'B07Q3G1BVJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

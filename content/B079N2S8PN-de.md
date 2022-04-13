@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N2S8PN-de PLAYMOBIL 9461 - DreamWorks Dragons Grobian mit...'
 sku: 'B079N2S8PN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

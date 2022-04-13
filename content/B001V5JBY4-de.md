@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001V5JBY4-de Ray Ban Sonnenbrille RB 4126 braun hellbraun'
 sku: 'B001V5JBY4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 63.49 EUR
 currency: EUR
 price: 63.49

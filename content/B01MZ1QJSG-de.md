@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ1QJSG-de Allmay Bart Schürze für Bartgestaltung- Sammel Tuch für...'
 sku: 'B01MZ1QJSG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

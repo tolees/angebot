@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K762LYM-de Aigital WLAN Repeater WLAN Verstärker Wireless Range...'
 sku: 'B08K762LYM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBSKTDF-de T98 Airpods Case Metall 2019 Neuestes AirPods Hülle Mit...'
 sku: 'B07LBSKTDF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

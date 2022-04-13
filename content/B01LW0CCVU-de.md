@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LW0CCVU-de Skylanders Imaginators - Champions Combo Pack Smolderdash...'
 sku: 'B01LW0CCVU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.35 EUR
 currency: EUR
 price: 8.35

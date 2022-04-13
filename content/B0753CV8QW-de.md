@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0753CV8QW-de Buluri Washi Tape 50 Rolls Washi Masking Tape Dekorative...'
 sku: 'B0753CV8QW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

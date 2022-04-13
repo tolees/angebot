@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N7QNX1Q-de Domestos Power 5 WC-Stein für ein sauberes WC Ocean mit...'
 sku: 'B07N7QNX1Q-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXKWBJZ-de Tefal E494S7 Jamie Oliver Brushed Topfset 7-teilig inkl. 3...'
 sku: 'B07WXKWBJZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

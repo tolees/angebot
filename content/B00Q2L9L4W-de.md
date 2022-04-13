@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q2L9L4W-de Morella® Damen Engels Klangkugel grün Ø 16 mm'
 sku: 'B00Q2L9L4W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

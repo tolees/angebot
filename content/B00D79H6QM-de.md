@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D79H6QM-de Stihl Original 36700000064 Kette 30 cm Klinge 1/4 64...'
 sku: 'B00D79H6QM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

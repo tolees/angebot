@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00160JVQM-de Oase UVC Vorklärgerät Vitronic 11 W'
 sku: 'B00160JVQM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 58.65 EUR
 currency: EUR
 price: 58.65

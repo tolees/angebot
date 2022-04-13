@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00005ARUV-de Kult Die besten Schlager'
 sku: 'B00005ARUV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

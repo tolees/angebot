@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBBC9D3-de Funko POP Dragon Ball Z Android 18 V'
 sku: 'B07HBBC9D3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

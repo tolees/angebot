@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRD5BU-de Sylvanian Families 5092 Baden mit Mutter und Baby Mehrfarbig'
 sku: 'B00HRRD5BU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07542DNXR-de WISO steuer:Office 2018 für Steuerjahr 2017'
 sku: 'B07542DNXR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

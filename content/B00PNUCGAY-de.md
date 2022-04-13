@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PNUCGAY-de Gardena Classic Bewässerungsbrause: Gartenbrause zur...'
 sku: 'B00PNUCGAY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

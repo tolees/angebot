@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHTTRMW-de Bose SoundLink Color Bluetooth speaker II - Yellow'
 sku: 'B07RHTTRMW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

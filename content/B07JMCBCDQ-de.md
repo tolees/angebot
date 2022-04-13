@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMCBCDQ-de Playmobil 70184 1.2.3 LKW mit Sortiergarage bunt'
 sku: 'B07JMCBCDQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

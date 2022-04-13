@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFBNP48-de Westmark Spätzle-/Kartoffelpresse Mit Spezial-Lochung für...'
 sku: 'B00JFBNP48-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 31.37 EUR
 currency: EUR
 price: 31.37

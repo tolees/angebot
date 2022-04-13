@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7HBC29-de Philips Kopfhörer On Ear BH305BK/00 On Ear Kopfhörer...'
 sku: 'B07V7HBC29-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 54.82 EUR
 currency: EUR
 price: 54.82

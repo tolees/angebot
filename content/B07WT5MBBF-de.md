@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WT5MBBF-de SuperZings PSZ4D824IN00 Serie 4 Blaster Jet'
 sku: 'B07WT5MBBF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.17 EUR
 currency: EUR
 price: 2.17

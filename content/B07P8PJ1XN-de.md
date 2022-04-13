@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8PJ1XN-de PLAYMOBIL:THE MOVIE 70070 Rex Dasher mit Fallschirm Ab 5...'
 sku: 'B07P8PJ1XN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

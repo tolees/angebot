@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1JYPN8-de LIGHTAILING Licht-Set Für Creator Detektivbüro Modell -...'
 sku: 'B07K1JYPN8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

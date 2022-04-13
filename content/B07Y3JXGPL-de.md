@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y3JXGPL-de WD My Book externe Festplatte 14 TB USB 3.0-Schnittstelle...'
 sku: 'B07Y3JXGPL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 255.99 EUR
 currency: EUR
 price: 255.99

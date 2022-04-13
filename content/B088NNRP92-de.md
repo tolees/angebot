@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088NNRP92-de Elektrischer Rasierer Herren OriHea 6-in-1 Glatzenrasierer...'
 sku: 'B088NNRP92-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

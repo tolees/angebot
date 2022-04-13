@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZRQM27-de Maxi-Cosi Rodi XP Fix Kinder/-Autositz 15-36 kg mit Isofix...'
 sku: 'B06ZZRQM27-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB2HGMR-de YLCJ - Lámpara colgante moderna de 14 con lámpara colgante...'
 sku: 'B07RB2HGMR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

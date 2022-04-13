@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKBF35M-de Ein Gauner & Gentleman [Blu-ray]'
 sku: 'B07PKBF35M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.07 EUR
 currency: EUR
 price: 8.07

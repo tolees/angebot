@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892BFPD4-de jerryvon Hammerspiel Klopfbank Holz Kinderspielzeug 3 in 1...'
 sku: 'B0892BFPD4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

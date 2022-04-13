@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08312WVVN-de NHUAIYINSHUGUOGUANGGAOJINGY Displayport auf HDMI Adapter-...'
 sku: 'B08312WVVN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

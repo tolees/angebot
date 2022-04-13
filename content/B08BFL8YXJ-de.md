@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFL8YXJ-de Ynigimy Bluetooth Kopfhörer In Ear Kabellose Kopfhörer mit...'
 sku: 'B08BFL8YXJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

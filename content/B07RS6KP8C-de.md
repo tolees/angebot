@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS6KP8C-de Maxi-Cosi Kore i-Size Kindersitz mitwachsender Gruppe 2/3...'
 sku: 'B07RS6KP8C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

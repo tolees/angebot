@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144KSXVO-de Enders Gasgrill URBAN Tischgrill Grillen- Kochen- und...'
 sku: 'B0144KSXVO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

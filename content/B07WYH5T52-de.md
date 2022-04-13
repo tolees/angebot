@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYH5T52-de WarGroove: Deluxe Edition - [Nintendo Switch]'
 sku: 'B07WYH5T52-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFQFNBW-de Aobp 50M Gummiband Weiß Gummilitze Elastische Schnur...'
 sku: 'B08DFQFNBW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

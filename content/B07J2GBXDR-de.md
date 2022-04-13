@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J2GBXDR-de Skibrille Ski Snowboardbrille Brillenträger Schneebrille...'
 sku: 'B07J2GBXDR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

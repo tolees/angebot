@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016EYK1C2-de Creative Sound Blaster ROAR Pro - tragbarer Bluetooth-...'
 sku: 'B016EYK1C2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 64.52 EUR
 currency: EUR
 price: 64.52

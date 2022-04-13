@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0754FZJNP-de BENECREAT 3mm 20m elastische Schnur Schmuckherstellung...'
 sku: 'B0754FZJNP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

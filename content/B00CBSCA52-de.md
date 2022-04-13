@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CBSCA52-de ara München Gore Tex Damen Warm gefütterte Schneestiefel...'
 sku: 'B00CBSCA52-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

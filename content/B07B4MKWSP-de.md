@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4MKWSP-de Rieker Damen Chelsea Boots 75754 Frauen Stiefel...'
 sku: 'B07B4MKWSP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

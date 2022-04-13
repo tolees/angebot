@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078MZ4C6B-de Bart Schablone Bartpflege Bartschablone Bartformen für...'
 sku: 'B078MZ4C6B-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

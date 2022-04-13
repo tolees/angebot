@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXVFCAV-de Simplicol Textilfarbe expert Brombeer-Rot 1706: Farbe für...'
 sku: 'B01LXVFCAV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

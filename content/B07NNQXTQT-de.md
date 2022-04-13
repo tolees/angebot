@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNQXTQT-de KLIM Ultimate + Laptop-RGB-Kühler- 11 bis 17 Zoll +...'
 sku: 'B07NNQXTQT-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 51.97 EUR
 currency: EUR
 price: 51.97

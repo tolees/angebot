@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012GSKB8O-de Buff Erwachsene Mütze Merino Thermal Solid Black one size'
 sku: 'B012GSKB8O-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

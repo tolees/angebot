@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D756WVZ-de Levi s Damen 311 Shaping Skinny-60% Baumwolle 17% Lyocell...'
 sku: 'B07D756WVZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 51.94 EUR
 currency: EUR
 price: 51.94

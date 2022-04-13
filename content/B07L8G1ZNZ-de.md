@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8G1ZNZ-de Kara Harvey Damen-Armbanduhr Roségold Mesh in 36mm und...'
 sku: 'B07L8G1ZNZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

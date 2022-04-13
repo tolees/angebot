@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089CTQV71-de Bluetooth-Headset 5.0 drahtloses Touch-Headset Stereo-In-...'
 sku: 'B089CTQV71-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

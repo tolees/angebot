@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJY95JF-de EASTHILL Federmäppchen mit grossem Fassungsvermögen...'
 sku: 'B07QJY95JF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

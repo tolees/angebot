@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008LR3KCO-de Philips HF3510/01 Wake-Up Light mit Sonnenaufgangsfunktion...'
 sku: 'B008LR3KCO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G4PR97Q-de Ravensburger Malen nach Zahlen 28027 28027-Frozen Malset'
 sku: 'B01G4PR97Q-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.84 EUR
 currency: EUR
 price: 8.84

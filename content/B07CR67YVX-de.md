@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CR67YVX-de Lee Herren Daren Button Fly Jeans Blau Light Daze Zx 36W /...'
 sku: 'B07CR67YVX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

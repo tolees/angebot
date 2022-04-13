@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075N5PQBM-de Sylvanian Families 5287 5287-Wohnzimmer-und TV-Set Bunt'
 sku: 'B075N5PQBM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

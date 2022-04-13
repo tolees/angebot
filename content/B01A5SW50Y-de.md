@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A5SW50Y-de Master & Dynamic MH40 Leica-Ausgabe: ein erstklassiger...'
 sku: 'B01A5SW50Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 199.17 EUR
 currency: EUR
 price: 199.17

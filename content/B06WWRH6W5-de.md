@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WWRH6W5-de Revell Control 24710 - Technik RC Car als Bausatz mit 27...'
 sku: 'B06WWRH6W5-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NVDJKN6-de LEGO Classic 10701 - Graue Bauplatte Lernspielzeug'
 sku: 'B00NVDJKN6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

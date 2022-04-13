@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P1RWYQ8-de Mitef Anime Cosplay Kostüm Prinzessin Anna mit Schal für...'
 sku: 'B07P1RWYQ8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

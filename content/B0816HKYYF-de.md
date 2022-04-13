@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0816HKYYF-de jpantech Smartwatch Fitness Armband Tracker Voller 5ATM...'
 sku: 'B0816HKYYF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

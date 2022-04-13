@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWP7QW1-de Ehdis 1.5" High Visibility Mini Razor Kunststoff...'
 sku: 'B06XWP7QW1-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

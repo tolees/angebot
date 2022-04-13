@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8LFKVS-de Multifunktionswerkzeug GOXAWEE Drehwerkzeug mit 140...'
 sku: 'B07M8LFKVS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

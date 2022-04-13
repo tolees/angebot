@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HLCSDL8-de Finish Klarspüler mit Glanz- und Glasschutz – Für...'
 sku: 'B00HLCSDL8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

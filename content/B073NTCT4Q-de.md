@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073NTCT4Q-de BenQ GW2480 60 45cm 23 8 Zoll LED Monitor Full-HD Eye-Care...'
 sku: 'B073NTCT4Q-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

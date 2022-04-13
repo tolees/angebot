@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LDNGM5Y-de Bumblebee [Blu-ray]'
 sku: 'B07LDNGM5Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

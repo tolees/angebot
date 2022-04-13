@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDW8H1W-de Poopsie Surprise 555964E5C Pink Unicorn or Rainbow Unicorn...'
 sku: 'B07BDW8H1W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 44.1 EUR
 currency: EUR
 price: 44.1

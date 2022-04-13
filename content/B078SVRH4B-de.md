@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SVRH4B-de SanDisk Extreme Portable SSD externe Festplatte 250GB SSD...'
 sku: 'B078SVRH4B-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 62.38 EUR
 currency: EUR
 price: 62.38

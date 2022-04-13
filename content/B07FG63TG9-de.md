@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FG63TG9-de Huawei 55030237 FreeBuds Wireless Earphones schwarz'
 sku: 'B07FG63TG9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 51.36 EUR
 currency: EUR
 price: 51.36

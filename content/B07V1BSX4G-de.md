@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1BSX4G-de LEDVANCE LED Wand- und Deckenleuchte Leuchte für...'
 sku: 'B07V1BSX4G-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZMZ6YCY-de 99AMZ Handyhalter fürs Auto & Handy Ring Halter | 2 in 1...'
 sku: 'B07ZMZ6YCY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

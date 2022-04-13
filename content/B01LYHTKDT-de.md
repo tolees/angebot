@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYHTKDT-de GANT Herren Shield Sweat Hoodie Kapuzenpullover Schwarz...'
 sku: 'B01LYHTKDT-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

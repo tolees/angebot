@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007WR3LMI-de Chocolat Blu *** Europe Zone ***'
 sku: 'B007WR3LMI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.34 EUR
 currency: EUR
 price: 8.34

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M65QSJV-de Fastskin Erwachsene Speedsocket 2 Goggles Black/Mirror One...'
 sku: 'B01M65QSJV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 35.18 EUR
 currency: EUR
 price: 35.18

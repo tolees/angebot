@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2BTGM2-de Sennheiser GSP 670 Wireless Gaming Headset 7.1 Surround...'
 sku: 'B07T2BTGM2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013IJ2NY-de Troja Director s Cut [Blu-ray]'
 sku: 'B0013IJ2NY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

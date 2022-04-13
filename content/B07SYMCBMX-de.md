@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYMCBMX-de Dragon Ball Z: Kakarot -Standard Edition [PlayStation 4]'
 sku: 'B07SYMCBMX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 30.48 EUR
 currency: EUR
 price: 30.48

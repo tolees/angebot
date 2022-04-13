@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXHDN78-de Gold XL Edelstahl Whisky Steine Bullets – Hohe...'
 sku: 'B07FXHDN78-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

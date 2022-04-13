@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6X4K3T-de Black+Decker Akku-Handstaubsauger Dustbuster 3.6V Lithium...'
 sku: 'B07L6X4K3T-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

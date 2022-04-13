@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGPH9R9-de Crucial Ballistix Sport LT BLS2K8G4D30AESBK 3000 MHz DDR4...'
 sku: 'B07MGPH9R9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 57.59 EUR
 currency: EUR
 price: 57.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YX2BRJL-de AIKELA Bluetooth Kopfhörer Kabellos in Ear Wireless...'
 sku: 'B07YX2BRJL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

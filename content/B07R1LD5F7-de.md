@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R1LD5F7-de Briksmax Led Beleuchtungsset für Creator Palace Cinema...'
 sku: 'B07R1LD5F7-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8XQSDK-de Xian Ju Nachttischlampe Mit Bluetooth Lautsprecher...'
 sku: 'B07H8XQSDK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ER3B4V4-de Blend Cross Herren Kapuzenpullover Hoodie Pullover Mit...'
 sku: 'B01ER3B4V4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

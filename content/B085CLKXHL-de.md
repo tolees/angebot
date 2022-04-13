@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CLKXHL-de PUMA Sportsocken Crew 18 Paar Pack Statement Edition -...'
 sku: 'B085CLKXHL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

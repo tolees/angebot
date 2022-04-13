@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLS11KJ-de Playmobil 70119 Spirit - Riding Free Reitplatz mit Lucky &...'
 sku: 'B07JLS11KJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

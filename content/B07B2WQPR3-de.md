@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B2WQPR3-de SAGE SES880 the Barista Touch Siebträger mit Touchscreen-...'
 sku: 'B07B2WQPR3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 868.46 EUR
 currency: EUR
 price: 868.46

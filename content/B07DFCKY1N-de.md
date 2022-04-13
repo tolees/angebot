@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFCKY1N-de Gigaset GS180 Smartphone ohne Vertrag 12 7 cm 5 Zoll HD...'
 sku: 'B07DFCKY1N-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7Q6ZC9-de LABISTS Raspberry Pi 4 Model B 4 GB Ultimatives Kit mit...'
 sku: 'B07W7Q6ZC9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

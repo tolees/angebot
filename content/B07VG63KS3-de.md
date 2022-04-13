@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VG63KS3-de Bluetooth Kopfhörer In-Ear Boltune Sport Headphones mit 16...'
 sku: 'B07VG63KS3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

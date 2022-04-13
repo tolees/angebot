@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008MVW0LG-de WENKO Anti-Schimmel Duschvorhang Uni Anti-Bakteriell...'
 sku: 'B008MVW0LG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.86 EUR
 currency: EUR
 price: 12.86

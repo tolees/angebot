@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFHDM2H-de PROCAVE Baumwolle Komfort Qualitäts-Bettdecke für den...'
 sku: 'B07RFHDM2H-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

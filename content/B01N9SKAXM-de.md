@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9SKAXM-de Citizen Damen Analog Quarz Uhr mit Edelstahl Armband...'
 sku: 'B01N9SKAXM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 113.25 EUR
 currency: EUR
 price: 113.25

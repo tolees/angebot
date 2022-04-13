@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX3QKIZ-de Pioneer X-HM26 B Microsystem mit Zweiwege-Boxen Bluetooth...'
 sku: 'B01LX3QKIZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XCPG7C-de Tesoky Karaoke Mikrofon Bluetooth mit Lichteffekte...'
 sku: 'B082XCPG7C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

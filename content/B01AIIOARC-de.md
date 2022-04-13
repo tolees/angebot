@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AIIOARC-de UGG Damen W Bailey Bow II Schlupfstiefel Schwarz Nero 40 EU'
 sku: 'B01AIIOARC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

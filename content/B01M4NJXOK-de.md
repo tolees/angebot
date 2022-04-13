@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4NJXOK-de bugatti Herren 311251011100 Derby Braun 44 EU Large'
 sku: 'B01M4NJXOK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 38.94 EUR
 currency: EUR
 price: 38.94

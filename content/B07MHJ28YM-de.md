@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHJ28YM-de Bang & Olufsen Beoplay E8 2.0 - 100% kabellose Bluetooth-...'
 sku: 'B07MHJ28YM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 269.39 EUR
 currency: EUR
 price: 269.39

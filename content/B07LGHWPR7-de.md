@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGHWPR7-de BRIKSMAX Volkswagen Käfer Led Beleuchtungsset - Kompatibel...'
 sku: 'B07LGHWPR7-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

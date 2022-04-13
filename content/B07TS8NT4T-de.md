@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TS8NT4T-de Funko 45009 POP Marvel: Fantastic Four - Galactus...'
 sku: 'B07TS8NT4T-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

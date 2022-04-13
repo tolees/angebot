@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KWO9JGE-de Huntvp Gürteltasche wasserdichte Bauchtasche für Handy bis...'
 sku: 'B01KWO9JGE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

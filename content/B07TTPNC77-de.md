@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTPNC77-de PUMA RS-0 Core Sneaker Herren schwarz/gelb 9 UK - 43 EU'
 sku: 'B07TTPNC77-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGPTNNC-de Luftbefeuchter Ultraschall Homech Raumbefeuchter 4L 50 Std...'
 sku: 'B07SGPTNNC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L47FEEU-de uRage "Illuminated" Gaming Keyboard Tastatur QWERTZ an-...'
 sku: 'B00L47FEEU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.23 EUR
 currency: EUR
 price: 29.23

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004J8JZZA-de Ravensburger 20432 Schwarzer Peter - Schaf Kartenspiele...'
 sku: 'B004J8JZZA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 0.2 EUR
 currency: EUR
 price: 0.2

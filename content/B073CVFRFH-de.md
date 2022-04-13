@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073CVFRFH-de Beurer BF 600 Diagnosewaage weiß Messung von Körperfett...'
 sku: 'B073CVFRFH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

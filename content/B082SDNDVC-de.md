@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SDNDVC-de LloydBP Displayport zum HDMI-Adapterkabel Mini-Dp zum...'
 sku: 'B082SDNDVC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 1.21 EUR
 currency: EUR
 price: 1.21

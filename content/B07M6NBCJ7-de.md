@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6NBCJ7-de BRIKSMAX Led Beleuchtungsset für Harry Potter–Die große...'
 sku: 'B07M6NBCJ7-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

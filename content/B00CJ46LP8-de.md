@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CJ46LP8-de Jamara 403071 - BMW M3 Sport 1:14 schwarz'
 sku: 'B00CJ46LP8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

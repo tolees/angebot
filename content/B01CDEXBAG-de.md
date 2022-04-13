@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CDEXBAG-de Funko 9301 S1 No Actionfigur Games: Overwatch: Widowmaker...'
 sku: 'B01CDEXBAG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

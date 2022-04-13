@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHIM7O6-de Philips 929001229801 EEK A+ LED Lampe ersetzt 120 W E27...'
 sku: 'B01KHIM7O6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TCHLNFS-de Walk the Sky'
 sku: 'B07TCHLNFS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

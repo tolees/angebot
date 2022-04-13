@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00006IQCV-de BIC 811935 Marker mit abgeschrägter Spitze gelb...'
 sku: 'B00006IQCV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BETXACQ-de Emsa 512753 Food Clip & Close Plastik Transparent / Blau...'
 sku: 'B00BETXACQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3ZQW7Y-de licaso Jutebeutel Bedruckt Love Liebe L O V E Print in...'
 sku: 'B07Q3ZQW7Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

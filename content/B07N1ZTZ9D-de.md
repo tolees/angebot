@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1ZTZ9D-de Noris 606071825 Tiere&Natur Spaß am Lernen Tiere und Natur...'
 sku: 'B07N1ZTZ9D-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

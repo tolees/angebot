@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H5HJ18M-de Libratone TOO Bluetooth Lautsprecher 360° Sound Touch...'
 sku: 'B01H5HJ18M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 88 EUR
 currency: EUR
 price: 88

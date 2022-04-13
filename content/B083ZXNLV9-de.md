@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZXNLV9-de TONGJI Acryl Vitrine Mit Beleuchtungsset Kompatibel Mit...'
 sku: 'B083ZXNLV9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

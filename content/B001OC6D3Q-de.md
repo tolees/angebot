@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001OC6D3Q-de HUDORA 14724 BigWheel 205-Das Original mit RX Pro...'
 sku: 'B001OC6D3Q-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

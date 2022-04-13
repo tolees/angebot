@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJTRRMK-de ZENS Qi-zertifiziertes kabelloses Aluminium Lade-Pad...'
 sku: 'B07GJTRRMK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 38.88 EUR
 currency: EUR
 price: 38.88

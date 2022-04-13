@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5XWRBE-de LG 34UC89G 86 36 cm 34 Zoll Curved 21:9 UltraWide™ Full HD...'
 sku: 'B01N5XWRBE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 322.0 EUR
 currency: EUR
 price: 322.0

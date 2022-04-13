@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083H4W1SK-de PUMA Essentials Herren Fleece Sweatjacke mit Kapuze Cotton...'
 sku: 'B083H4W1SK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

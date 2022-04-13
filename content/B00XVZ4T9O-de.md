@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XVZ4T9O-de Dyson V6 Mattress beutel- & kabelloser Staubsauger inkl....'
 sku: 'B00XVZ4T9O-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 190.0 EUR
 currency: EUR
 price: 190.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L90PW3O-de Kapsel-Adapter für Dolce Gusto® Maschinen'
 sku: 'B01L90PW3O-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

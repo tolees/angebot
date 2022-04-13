@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY5JGWJ-de Samsung MB-ME128GA/EU EVO Select 128 GB microSDXC UHS-I U3...'
 sku: 'B07CY5JGWJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 25.29 EUR
 currency: EUR
 price: 25.29

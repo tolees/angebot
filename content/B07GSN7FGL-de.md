@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GSN7FGL-de Mattel GCY62 - Disney Pixar Toy Story 4 Minis...'
 sku: 'B07GSN7FGL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

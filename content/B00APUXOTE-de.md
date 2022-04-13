@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00APUXOTE-de walther design WD030S Chloe Portraitrahmen 20 x 30 cm silber'
 sku: 'B00APUXOTE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTK9FJ9-de LEGO 41373 - Friends Lustiges Oktopus-Karussell Bauset'
 sku: 'B07KTK9FJ9-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

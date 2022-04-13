@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXM1F5X-de Kunst aus Eisen Regal Regale Wandregal Vintage Eisen...'
 sku: 'B07XXM1F5X-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

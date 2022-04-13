@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFGC7FR-de Funko 34618 Game of Thrones: Bran Stark POP Vinylfigur Multi'
 sku: 'B07DFGC7FR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

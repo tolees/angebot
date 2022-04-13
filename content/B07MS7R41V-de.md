@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MS7R41V-de flintronic Herren Gürtel Leder Ratsche Automatik Gürtel...'
 sku: 'B07MS7R41V-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725FTG7Y-de Sony HT-RT4 5.1 Soundbar System 600W hohe...'
 sku: 'B0725FTG7Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

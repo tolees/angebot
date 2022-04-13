@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVS68K5-de AUKEY USB C Ladegeräte 30W Tragbares Schnellladegerät USB...'
 sku: 'B07CVS68K5-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

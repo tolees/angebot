@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016BEPP9O-de Kingston DT100G3/128GB DataTraveler 100 G3 USB 3.0 3.1...'
 sku: 'B016BEPP9O-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

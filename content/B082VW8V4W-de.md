@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VW8V4W-de OwlFay Prinzessin Kleid Mädchen Blaue Schneekönigin Kostüm...'
 sku: 'B082VW8V4W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

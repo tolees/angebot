@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CLJ3OO6-de Inter Link Sammlervitrine Hängevitrine Wandregal...'
 sku: 'B01CLJ3OO6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

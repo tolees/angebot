@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9JKYDB-de Napapijri Damen Rainforest W Sum 1 Jacke Rosa Pale Pink...'
 sku: 'B07L9JKYDB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 101.94 EUR
 currency: EUR
 price: 101.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WBRTPB-de iiyama ProLite XB2779QQS-S1 68 3cm 27 Zoll IPS LED-Monitor...'
 sku: 'B078WBRTPB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 297.0 EUR
 currency: EUR
 price: 297.0

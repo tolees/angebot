@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVBFGWN-de BRIKSMAX Led Beleuchtungsset für Lego Creator NASA Apollo...'
 sku: 'B07WVBFGWN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

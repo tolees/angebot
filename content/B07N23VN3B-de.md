@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N23VN3B-de Craft Mütze Light Thermal Outdoor Running Training Beanie...'
 sku: 'B07N23VN3B-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

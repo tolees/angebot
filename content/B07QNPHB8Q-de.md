@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNPHB8Q-de Spieland 200St. Custom Waffen Set für SWAT Team Polizei...'
 sku: 'B07QNPHB8Q-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

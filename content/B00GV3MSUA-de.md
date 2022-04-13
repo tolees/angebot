@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GV3MSUA-de CMP Damen Zipp Off Hose Antracite 40'
 sku: 'B00GV3MSUA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

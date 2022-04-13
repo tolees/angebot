@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5JKZJV-de Active Noise Cancelling Kopfhörer Boltune Kabellos...'
 sku: 'B07R5JKZJV-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

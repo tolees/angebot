@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT7AJLW-de Sony MDR-XB950B1 Drahtloser Extrabass Kopfhörer - Schwarz'
 sku: 'B01MT7AJLW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 73.95 EUR
 currency: EUR
 price: 73.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FY2OJTM-de Thule Baby mit QR Achskupplung silber One Size'
 sku: 'B00FY2OJTM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

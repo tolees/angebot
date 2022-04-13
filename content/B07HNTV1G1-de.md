@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNTV1G1-de Kami Idea Muttertagsgeschenk Halsketten für Frauen Ringe...'
 sku: 'B07HNTV1G1-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

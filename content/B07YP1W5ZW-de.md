@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YP1W5ZW-de Barilla Pasta Spaghettini n. 3 500g'
 sku: 'B07YP1W5ZW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 0.77 EUR
 currency: EUR
 price: 0.77

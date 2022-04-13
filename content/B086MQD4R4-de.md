@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086MQD4R4-de Tablet 10.1 Zoll 4G LTE Android 9.0 Dual SIM 2 in1 Tablet...'
 sku: 'B086MQD4R4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

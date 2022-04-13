@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDP7ZPG-de 195/im Reich der Ungeheuer'
 sku: 'B07FDP7ZPG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

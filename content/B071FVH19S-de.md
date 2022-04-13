@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FVH19S-de uvex Unisex – Erwachsene hlmt 400 visor style Skihelm...'
 sku: 'B071FVH19S-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 99.68 EUR
 currency: EUR
 price: 99.68

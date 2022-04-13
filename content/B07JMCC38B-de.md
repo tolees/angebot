@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMCC38B-de PLAYMOBIL 70039 - DreamWorks Dragons Todbringer und...'
 sku: 'B07JMCC38B-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

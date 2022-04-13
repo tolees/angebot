@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQU4CIW-de Hasbro Spiele C0376100 - Rudi Reck Kinderspiel'
 sku: 'B01MQU4CIW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

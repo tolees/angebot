@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TF7PNFM-de LIGHTAILING Licht-Set Für Technic Chevrolet Corvette ZR1...'
 sku: 'B07TF7PNFM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

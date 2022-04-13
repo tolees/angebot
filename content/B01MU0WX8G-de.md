@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU0WX8G-de Carlo Milano Wandschublade: Wandregal mit versteckter...'
 sku: 'B01MU0WX8G-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

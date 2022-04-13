@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3ZWY15-de Clarks Men’s Batcombe Lord Chelsea Boots Schwarz Black 45 EU'
 sku: 'B07B3ZWY15-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

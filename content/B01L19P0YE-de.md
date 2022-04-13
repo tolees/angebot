@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L19P0YE-de TomTom Touch Wechselarmband - Himmelblau Größe S geeignet...'
 sku: 'B01L19P0YE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

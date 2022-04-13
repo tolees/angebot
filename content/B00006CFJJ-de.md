@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00006CFJJ-de Willow [Special Edition]'
 sku: 'B00006CFJJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

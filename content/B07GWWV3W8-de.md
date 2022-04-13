@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWWV3W8-de DT Swiss Unisex - Erwachsene VR E 1900 Spline DB Läufrad...'
 sku: 'B07GWWV3W8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 121.37 EUR
 currency: EUR
 price: 121.37

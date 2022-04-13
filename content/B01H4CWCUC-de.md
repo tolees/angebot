@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H4CWCUC-de PUMA Herren Tazon 6 FM Laufschuhe Weiß White Black Silver...'
 sku: 'B01H4CWCUC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

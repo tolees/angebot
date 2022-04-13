@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IM9WAGM-de TechniSat Z-Wave Innenkamera 1 Smart Home Kamera...'
 sku: 'B01IM9WAGM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 54.18 EUR
 currency: EUR
 price: 54.18

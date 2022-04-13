@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXHQWSF-de Playmobil 70007 Top Agents Team S.H.A.R.K. Rocket Rafter bunt'
 sku: 'B07JXHQWSF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

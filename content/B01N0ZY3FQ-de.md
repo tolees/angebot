@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0ZY3FQ-de Anita Active Damen Air Control Deltapad Sport-BH Weiß Weiß...'
 sku: 'B01N0ZY3FQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 54.39 EUR
 currency: EUR
 price: 54.39

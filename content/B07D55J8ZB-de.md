@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D55J8ZB-de Harry Potter Fantastic Beasts 2 Pop! Vinyl Figur 17...'
 sku: 'B07D55J8ZB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WJKPZW-de ENACFIRE SoundBar Mini Bluetooth Lautsprecher 12W...'
 sku: 'B089WJKPZW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

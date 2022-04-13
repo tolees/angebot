@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DF2SDB-de adsf Tentacles Double Stimulation Toy - Sie Müssen Hart...'
 sku: 'B083DF2SDB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

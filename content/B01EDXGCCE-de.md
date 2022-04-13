@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EDXGCCE-de Acer K272HLEbid 69 cm 27 Zoll Full HD Monitor VGA DVI HDMI...'
 sku: 'B01EDXGCCE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 150.61 EUR
 currency: EUR
 price: 150.61

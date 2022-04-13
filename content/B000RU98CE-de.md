@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RU98CE-de Playshoes Unisex Kinder Regenhose Buddelhose Matschhose...'
 sku: 'B000RU98CE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

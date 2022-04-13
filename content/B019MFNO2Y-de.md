@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019MFNO2Y-de Rollei Actioncam Zubehör Set Outdoor I 23-teiliges Set I...'
 sku: 'B019MFNO2Y-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F3B2TVO-de LEGO Duplo 10572 - Große Steinebox Kreatives Lernspielzeug'
 sku: 'B00F3B2TVO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

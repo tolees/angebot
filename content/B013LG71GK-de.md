@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013LG71GK-de G-STAR RAW Herren Straight Tapered Jeans 3301 Straight...'
 sku: 'B013LG71GK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 55.01 EUR
 currency: EUR
 price: 55.01

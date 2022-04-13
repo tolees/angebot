@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PX3QHKT-de POP! Vinyl: Harry Potter: Harry Potter - Minerva...'
 sku: 'B07PX3QHKT-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

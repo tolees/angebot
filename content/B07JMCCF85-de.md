@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMCCF85-de PLAYMOBIL Family Fun 70087 Großer Campingplatz Ab 4 Jahren'
 sku: 'B07JMCCF85-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

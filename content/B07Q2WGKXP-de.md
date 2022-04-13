@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2WGKXP-de Roccat Vulcan 121 - Mechanische Gaming Tastatur AIMO LED...'
 sku: 'B07Q2WGKXP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

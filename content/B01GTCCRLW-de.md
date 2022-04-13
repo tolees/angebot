@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GTCCRLW-de flexi New NEON S Gurt 5 m schwarz für Hunde bis 15 kg'
 sku: 'B01GTCCRLW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.33 EUR
 currency: EUR
 price: 12.33

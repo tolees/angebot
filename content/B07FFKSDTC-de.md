@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFKSDTC-de Logitech K600 Kabellose TV-Tastatur mit Touchpad & D-Pad...'
 sku: 'B07FFKSDTC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 38.33 EUR
 currency: EUR
 price: 38.33

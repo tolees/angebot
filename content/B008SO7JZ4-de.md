@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008SO7JZ4-de Remington Haarglätter Keratin Therapy S8590 innovativer...'
 sku: 'B008SO7JZ4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

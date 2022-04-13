@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IAV90NO-de Panasonic RF-D10EG-W Digitalradio DAB+/UKW Tuner Netz- und...'
 sku: 'B00IAV90NO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

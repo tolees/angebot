@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000G4OZ2O-de adidas Unisex-Erwachsene Mundial Team Fußballschuhe...'
 sku: 'B000G4OZ2O-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 50.7 EUR
 currency: EUR
 price: 50.7

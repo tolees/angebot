@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001JNNDEC-de Die Suche Geht Weiter Jewelbox'
 sku: 'B001JNNDEC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

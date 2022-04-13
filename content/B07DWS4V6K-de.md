@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWS4V6K-de AmazonBasics - Lightning-auf-USB-A-Kabel Premium-...'
 sku: 'B07DWS4V6K-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4 EUR
 currency: EUR
 price: 4

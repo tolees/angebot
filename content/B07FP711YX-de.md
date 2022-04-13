@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP711YX-de LEGO Star Wars 75238 Action Battle Endor Attacke Bauset'
 sku: 'B07FP711YX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 21.93 EUR
 currency: EUR
 price: 21.93

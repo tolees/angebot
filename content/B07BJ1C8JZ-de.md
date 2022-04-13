@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJ1C8JZ-de Dickie Toys 203833004 - Playlife Fishing Boat Schlauchboot...'
 sku: 'B07BJ1C8JZ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

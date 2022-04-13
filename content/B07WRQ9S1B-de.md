@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRQ9S1B-de TP-Link TL-PA7017KIT AV1000 Gigabit Powerline Adapter 1x...'
 sku: 'B07WRQ9S1B-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

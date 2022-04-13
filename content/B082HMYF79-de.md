@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HMYF79-de TuToy Einstellbare Stiefelspanner Breite Schuhformer...'
 sku: 'B082HMYF79-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZMK7V7-de Vans Damen Filmore Decon Sneaker Pink Suede Lilac...'
 sku: 'B07MZMK7V7-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

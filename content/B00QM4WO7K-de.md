@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QM4WO7K-de Ravensburger 23402 - Disney Frozen Brettspiele auf zum...'
 sku: 'B00QM4WO7K-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

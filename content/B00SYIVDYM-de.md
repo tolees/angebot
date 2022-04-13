@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SYIVDYM-de Fjällräven Herren High Coast Wind Jacket Anorak Navy XL'
 sku: 'B00SYIVDYM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

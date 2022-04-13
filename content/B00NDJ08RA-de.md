@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NDJ08RA-de Tieflochmarker Pica Dry Trockenmarker 2 8mm Graphit 2er Pack'
 sku: 'B00NDJ08RA-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

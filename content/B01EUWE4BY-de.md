@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EUWE4BY-de Duschdas Duschgel für ein besseres Gefühl mit...'
 sku: 'B01EUWE4BY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

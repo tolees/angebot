@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDC11BR-de PUMA Herren Boxershort Limited Statement Edition 9er Pack...'
 sku: 'B07RDC11BR-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

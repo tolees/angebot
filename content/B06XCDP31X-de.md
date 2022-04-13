@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCDP31X-de camel active klein B00 Journey Umhängetasche 22 cm schwarz'
 sku: 'B06XCDP31X-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TBCXF1-de Navitech rot Harter Fall für die APEMAN Mini Car Camera...'
 sku: 'B077TBCXF1-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

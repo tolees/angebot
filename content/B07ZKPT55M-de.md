@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKPT55M-de Panasonic TX-32GW334 LED-TV 32 Zoll 80 cm HD Fernseher...'
 sku: 'B07ZKPT55M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 205.0 EUR
 currency: EUR
 price: 205.0

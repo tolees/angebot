@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TSKV3G-de Paladone Game-Boy-Wecker mit Sound von Nintendo'
 sku: 'B079TSKV3G-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.13 EUR
 currency: EUR
 price: 20.13

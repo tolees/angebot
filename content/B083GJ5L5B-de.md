@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GJ5L5B-de K9CK Halterung für Lego Millenium Falcon 75192 - Modell...'
 sku: 'B083GJ5L5B-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

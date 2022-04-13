@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMN4LR7-de SanDisk Extreme PRO Portable SSD externe Festplatte 500GB...'
 sku: 'B07TMN4LR7-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQGKFPJ-de FURREAL Friends E4649EU4 FurReal Hector Mein Wachhund-...'
 sku: 'B07KQGKFPJ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 38.04 EUR
 currency: EUR
 price: 38.04

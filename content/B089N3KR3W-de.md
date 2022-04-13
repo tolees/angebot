@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089N3KR3W-de Tryone Tablet Ständer verstellbare Tablet Halterung -...'
 sku: 'B089N3KR3W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

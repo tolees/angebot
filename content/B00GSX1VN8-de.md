@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GSX1VN8-de Bright Starts June Berry höhenverstellbare Lauflernhilfe...'
 sku: 'B00GSX1VN8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

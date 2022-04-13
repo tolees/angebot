@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088CRVF93-de Bluetooth Lautsprecher VOTOMY Bluetooth Kabelloser...'
 sku: 'B088CRVF93-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

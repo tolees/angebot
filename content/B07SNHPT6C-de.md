@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNHPT6C-de SS&LL La basura del paso Puede Cubos de basura Con Tapas...'
 sku: 'B07SNHPT6C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

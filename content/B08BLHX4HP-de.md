@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLHX4HP-de Bluetooth Kopfhörer In-Ear Kabellose Kopfhörer Noise...'
 sku: 'B08BLHX4HP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 30.89 EUR
 currency: EUR
 price: 30.89

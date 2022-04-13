@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XGY4K6-de Christa Ludwig-Complete Recitals'
 sku: 'B078XGY4K6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.21 EUR
 currency: EUR
 price: 14.21

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ6QPOU-de Samsung GX-MB540TL DVB-T2 HD Receiver freenet TV connect...'
 sku: 'B01MZ6QPOU-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHTLFOY-de Schiesser Damen Slip Tai 3er Pack Gr. 40 Schwarz schwarz 000'
 sku: 'B00KHTLFOY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

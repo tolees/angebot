@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015CY5GRK-de Man lernt nie aus [Blu-ray]'
 sku: 'B015CY5GRK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

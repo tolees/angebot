@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F86THC1-de Gore Wear Unisex M Infinium Handschuhe Schwarz Black/Neon...'
 sku: 'B07F86THC1-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

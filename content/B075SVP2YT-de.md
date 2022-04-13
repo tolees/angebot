@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075SVP2YT-de LEGO Friends 41339 - Mias Wohnmobil Cooles Kinderspielzeug'
 sku: 'B075SVP2YT-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

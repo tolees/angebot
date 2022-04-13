@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HTJRFS-de Eagle Creek Leichter Rollkoffer Gear Warrior™ AWD 29...'
 sku: 'B076HTJRFS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 135.93 EUR
 currency: EUR
 price: 135.93

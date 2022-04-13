@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00576BSYO-de Wenko Herdabdeckplatte Universal Brooklyn Bridge 2er Set...'
 sku: 'B00576BSYO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.36 EUR
 currency: EUR
 price: 16.36

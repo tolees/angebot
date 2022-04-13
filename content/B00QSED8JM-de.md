@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QSED8JM-de Tuxedo'
 sku: 'B00QSED8JM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

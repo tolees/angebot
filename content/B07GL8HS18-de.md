@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL8HS18-de Fossil Herren Digital Smart Watch Armbanduhr mit Leder...'
 sku: 'B07GL8HS18-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 173.15 EUR
 currency: EUR
 price: 173.15

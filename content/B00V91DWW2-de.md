@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V91DWW2-de Funko 021421 S2 No Actionfigur Sesame Street: Grover Multi'
 sku: 'B00V91DWW2-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPNV3D-de Pepe Jeans Herren Hatch Slim Jeans Dark Used Powerflex...'
 sku: 'B07MZPNV3D-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MG6DDP-de PUMA Unisex-Erwachsene Smash v2 L Sneaker White White...'
 sku: 'B077MG6DDP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

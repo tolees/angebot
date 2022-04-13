@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJ1FWM3-de Pro Bike Tool Fahrradpumpe CO2 - Kartuschenpumpe Fahrrad...'
 sku: 'B07RJ1FWM3-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

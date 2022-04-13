@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00720YVXI-de Playtastic Autorennbahn: Portable Rennbahn im Koffer -...'
 sku: 'B00720YVXI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

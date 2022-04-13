@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0006ZXLIW-de Philips LFH0720 Analoges Schreibtisch-Wiedergabesystem...'
 sku: 'B0006ZXLIW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 410.0 EUR
 currency: EUR
 price: 410.0

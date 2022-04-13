@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FG4TZFK-de Wissen ist Macht: Dekaden [PlayStation 4]'
 sku: 'B07FG4TZFK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

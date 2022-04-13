@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003LQSHBO-de Die Symphonien Orchesterlieder Eloquence'
 sku: 'B003LQSHBO-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

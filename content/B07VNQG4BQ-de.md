@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNQG4BQ-de YOSICIL Mädchen Prinzessin Schuhe ELSA Kristall Schuhe...'
 sku: 'B07VNQG4BQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

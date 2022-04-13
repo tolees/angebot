@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RXY27R-de FJÄLLRÄVEN Byron Hat Doppelstrickmütze Graphite One Size'
 sku: 'B071RXY27R-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

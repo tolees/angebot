@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078CRB86M-de OSRAM Smart+ Mini Switch Weiß ZigBee Lichtschalter Dimmer...'
 sku: 'B078CRB86M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.42 EUR
 currency: EUR
 price: 29.42

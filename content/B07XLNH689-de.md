@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLNH689-de Tales of: Vesperia + Berseria + Zestiria'
 sku: 'B07XLNH689-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

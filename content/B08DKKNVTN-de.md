@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKKNVTN-de HDMI KVM Switch USB 4 Port 4K 4 PC 1 Monitor Switch 4K @...'
 sku: 'B08DKKNVTN-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

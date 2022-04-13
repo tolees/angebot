@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJRYBLC-de Schwerlastregal | 178 5x130x60cm | CALLIDUS BAUMARKT |...'
 sku: 'B07GJRYBLC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

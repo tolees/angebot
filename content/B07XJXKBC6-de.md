@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJXKBC6-de Körperfettwaage INSMART Personenwaage digital mit APP...'
 sku: 'B07XJXKBC6-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

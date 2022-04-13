@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S55NLMW-de FIFA 20 - Standard Edition - [PlayStation 4]'
 sku: 'B07S55NLMW-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

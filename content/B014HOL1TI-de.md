@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014HOL1TI-de Jumbo Spiele 12163 12163-Rubik s Cube-3x3'
 sku: 'B014HOL1TI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

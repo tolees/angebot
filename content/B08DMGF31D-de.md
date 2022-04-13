@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DMGF31D-de AngLink Elektrisch Augenbrauentrimmer USB Augenbrauen...'
 sku: 'B08DMGF31D-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

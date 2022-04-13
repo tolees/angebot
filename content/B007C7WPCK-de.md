@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007C7WPCK-de Martha Stewart Satin Acrylic Craft Paint 2 Ounces-Seaweed'
 sku: 'B007C7WPCK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.74 EUR
 currency: EUR
 price: 4.74

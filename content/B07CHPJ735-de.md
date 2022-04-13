@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHPJ735-de Fnatic Streak Pro Gaming mechanische E-Sports Tastatur...'
 sku: 'B07CHPJ735-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

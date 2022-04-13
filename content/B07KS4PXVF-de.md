@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KS4PXVF-de RAVPower 20100mAh Powerbank USB C Power Delivery 45W PD...'
 sku: 'B07KS4PXVF-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

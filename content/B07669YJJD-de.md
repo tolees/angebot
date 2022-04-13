@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07669YJJD-de PLAYMOBIL Dinos 9433 Propellerboot mit Dinokäfig...'
 sku: 'B07669YJJD-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

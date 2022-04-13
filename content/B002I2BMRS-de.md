@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002I2BMRS-de Caffè Vergnano 1882 Gran Aroma Ganze Bohnen 1 kg'
 sku: 'B002I2BMRS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN8M9RK-de WMF Profi Resist Bratpfanne 24 cm Mehrschichtmaterial...'
 sku: 'B00BN8M9RK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

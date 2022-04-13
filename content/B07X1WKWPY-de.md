@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1WKWPY-de Anker Powerbank PowerCore Slim 10000 PD kompakte 10000mAh...'
 sku: 'B07X1WKWPY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

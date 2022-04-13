@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9JCC78-de Samsung Clear View Cover EF-ZN975 für Galaxy Note 10+ White'
 sku: 'B07V9JCC78-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 24.33 EUR
 currency: EUR
 price: 24.33

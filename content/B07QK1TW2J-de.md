@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QK1TW2J-de Emporio Armani Herren-Ringe Edelstahl mit Ringgröße 59...'
 sku: 'B07QK1TW2J-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 59.09 EUR
 currency: EUR
 price: 59.09

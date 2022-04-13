@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJB35QK-de Küchenarmatur Heimwerkerzubehör Antike Messing 360 Swivel...'
 sku: 'B07YJB35QK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

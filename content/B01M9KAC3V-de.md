@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9KAC3V-de Levi s Herren Freizeithemd Barstow Western Schwarz/Black...'
 sku: 'B01M9KAC3V-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

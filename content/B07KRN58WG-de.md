@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRN58WG-de Play-Doh A5417EU8 Glitzerknete für fantasievolles und...'
 sku: 'B07KRN58WG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

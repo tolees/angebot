@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767CKP9M-de Playmobil 9339 - Waldelfe Spiel'
 sku: 'B0767CKP9M-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

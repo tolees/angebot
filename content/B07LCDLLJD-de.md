@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCDLLJD-de BRIKSMAX Parisian Restaurant Led Beleuchtungsset -...'
 sku: 'B07LCDLLJD-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

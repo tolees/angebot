@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TG88QVH-de LIGHTAILING Licht-Set Für Architecture Shanghai Modell -...'
 sku: 'B07TG88QVH-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

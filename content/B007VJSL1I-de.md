@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007VJSL1I-de Barilla Hartweizen Pasta Risoni n. 26 – 1er Pack 1x500g'
 sku: 'B007VJSL1I-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

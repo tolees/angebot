@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNVYDQS-de Samsung MG23 K3 515aw / EG Mikrowelle / 48 9 cm /...'
 sku: 'B07DNVYDQS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 104.48 EUR
 currency: EUR
 price: 104.48

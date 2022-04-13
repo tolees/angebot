@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGVVFLL-de Küchenarmatur Dalmo Wasserhahn Küche Einhand-...'
 sku: 'B07QGVVFLL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

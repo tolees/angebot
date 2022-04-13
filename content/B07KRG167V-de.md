@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRG167V-de Geschenke 24 Schlüsselanhänger Schönster Tag in Schwarz –...'
 sku: 'B07KRG167V-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

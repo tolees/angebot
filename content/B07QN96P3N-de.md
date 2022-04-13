@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QN96P3N-de Amzchef Zerkleinerer Elektrisch Universalzerkleinerer mit...'
 sku: 'B07QN96P3N-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

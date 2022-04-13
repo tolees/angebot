@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4CM3SC-de Bose Portable Home Speaker – mit integrierter Alexa-...'
 sku: 'B07W4CM3SC-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 265.0 EUR
 currency: EUR
 price: 265.0

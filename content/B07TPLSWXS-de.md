@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPLSWXS-de Koogeek Smart & Bluetooth Elektronische Handgelenk...'
 sku: 'B07TPLSWXS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

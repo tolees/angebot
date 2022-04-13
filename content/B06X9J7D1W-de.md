@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9J7D1W-de Boston [Blu-ray]'
 sku: 'B06X9J7D1W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

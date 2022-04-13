@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG1FSDL-de LIGHTAILING Licht-Set Für Schiff in der Flasche Modell -...'
 sku: 'B07KG1FSDL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

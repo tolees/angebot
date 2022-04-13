@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CZJDS0C-de Superfit HAPPY 800293 Jungen Hohe Hausschuhe Blau Ocean 80...'
 sku: 'B01CZJDS0C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

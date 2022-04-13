@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FGRGJII-de Corsair K70 LUX Rot LED Mechanische Gaming Tastatur Cherry...'
 sku: 'B01FGRGJII-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

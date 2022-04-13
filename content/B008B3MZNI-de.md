@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008B3MZNI-de Supertramp: Live In Paris 79 [Blu-ray] [2012][Region Free]...'
 sku: 'B008B3MZNI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

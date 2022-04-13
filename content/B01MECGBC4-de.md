@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MECGBC4-de BOSS Herren RN 3P CO T-shirts 3er Pack Schwarz Black 001...'
 sku: 'B01MECGBC4-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 26.01 EUR
 currency: EUR
 price: 26.01

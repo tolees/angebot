@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011WEVVTG-de 177/der Geist des Goldgräbers'
 sku: 'B011WEVVTG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

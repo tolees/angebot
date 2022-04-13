@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BGRIFUI-de Dickie Toys Mega Crane elektrischer Kran mit Fernbedienung...'
 sku: 'B00BGRIFUI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

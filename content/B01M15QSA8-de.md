@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M15QSA8-de Original Einhell Starter Kit Akku und Ladegerät Power...'
 sku: 'B01M15QSA8-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 34 EUR
 currency: EUR
 price: 34

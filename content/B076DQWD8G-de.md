@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DQWD8G-de 24 Farben Luft trockenen Lehm Ultra Light Modellierung...'
 sku: 'B076DQWD8G-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

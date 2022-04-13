@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PM4FPFP-de Briksmax Led Beleuchtungsset für Weihnachtlicher...'
 sku: 'B07PM4FPFP-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

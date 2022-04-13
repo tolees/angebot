@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XH6DRSS-de IMS-CAROLINE INT. LI - The Virgin Years'
 sku: 'B06XH6DRSS-de'
-tags: [ 'Box-Set','Featured Categories','Musik Kategorien','Musik-CDs & Vinyl','Rock','de','ims-caroline int. li', ]
+tags: [ 'Box-Set','Featured Categories','Musik Kategorien','Musik-CDs & Vinyl','Rock','ims-caroline int. li','🇩🇪', ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

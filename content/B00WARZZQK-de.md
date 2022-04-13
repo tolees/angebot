@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WARZZQK-de Der dritte Mann Digital Remastered 2 Discs [Special Edition]'
 sku: 'B00WARZZQK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

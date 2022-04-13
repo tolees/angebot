@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZCFYF2W-de SanDisk 64GB Connect Wireless Stick'
 sku: 'B00ZCFYF2W-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

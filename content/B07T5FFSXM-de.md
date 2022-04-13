@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T5FFSXM-de JUMANJI: Das Videospiel - [Nintendo Switch]'
 sku: 'B07T5FFSXM-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

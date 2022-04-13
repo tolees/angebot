@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004SGFPDY-de BECO Badeschuhe / Surfschuhe für Damen und Herren schwarz 45'
 sku: 'B004SGFPDY-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

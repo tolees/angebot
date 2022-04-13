@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2WLMBL-de CHARLLEAN Panzerglas für iPhone X/XS 3 Stück 3D...'
 sku: 'B07X2WLMBL-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

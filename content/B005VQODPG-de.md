@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VQODPG-de Leuchtturm 313845 Banknotenalbum'
 sku: 'B005VQODPG-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

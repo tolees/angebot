@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DEJXRAE-de Dis Dell Acc Soundbar AC511 0MN008'
 sku: 'B00DEJXRAE-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

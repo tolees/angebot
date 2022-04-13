@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G42J6KQ-de Intel Wireless-AC 9560 M.2 2230 2x2 Ac+Bt Gigabit ohne Vpro'
 sku: 'B07G42J6KQ-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 16.23 EUR
 currency: EUR
 price: 16.23

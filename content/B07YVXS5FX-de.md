@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVXS5FX-de Beats Solo3 Wireless Kopfhörer - Satin Silber'
 sku: 'B07YVXS5FX-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

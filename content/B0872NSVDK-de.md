@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872NSVDK-de Bluetooth Kopfhörer Cshidworld Kabellose Kopfhörer mit...'
 sku: 'B0872NSVDK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

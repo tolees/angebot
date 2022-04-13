@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WD3HRZS-de Bluetooth Kopfhörer AIKELA Kopfhörer Kabellos In Ear...'
 sku: 'B07WD3HRZS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

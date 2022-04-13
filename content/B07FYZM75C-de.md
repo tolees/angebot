@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYZM75C-de Microsoft Office 365 Personal multilingual | 1 Nutzer |...'
 sku: 'B07FYZM75C-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

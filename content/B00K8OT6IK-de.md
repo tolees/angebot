@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K8OT6IK-de camel active Herren 488845/9939 Jeans Dark Blue Used W33/...'
 sku: 'B00K8OT6IK-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

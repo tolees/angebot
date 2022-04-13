@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5X6NVB-de Funko 38587 POP Vinyl: Big Bang Theory S2: Penny...'
 sku: 'B07N5X6NVB-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

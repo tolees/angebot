@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFP755Z-de Tommy Hilfiger Herren Stretch Slim Fit Long Sleeve Tee...'
 sku: 'B07ZFP755Z-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IWNCKHS-de ONLY Female Skinny Fit Jeans ONLUltimate King reg S30Dark...'
 sku: 'B00IWNCKHS-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

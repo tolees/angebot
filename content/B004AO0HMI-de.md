@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004AO0HMI-de Jillian Michaels - Shred: Schlank in 30 Tagen'
 sku: 'B004AO0HMI-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

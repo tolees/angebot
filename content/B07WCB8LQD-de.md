@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCB8LQD-de GORE WEAR C3 Herren Fahrrad Kurzarmtrikot M schwarz'
 sku: 'B07WCB8LQD-de'
-tags: [ 'de', ]
+tags: [ '🇩🇪', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9
