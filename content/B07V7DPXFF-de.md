@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7DPXFF-de Relaxdays Pizzablech 2er Set rund gelocht antihaft Pizza &...'
 sku: 'B07V7DPXFF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

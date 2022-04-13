@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMZ7FM8-de MEDION E66550 Küchen Unterbauradio mit Bluetooth-Funktion...'
 sku: 'B07YMZ7FM8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

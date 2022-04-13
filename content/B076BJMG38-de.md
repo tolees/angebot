@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BJMG38-de The Stage Deluxe Edt.'
 sku: 'B076BJMG38-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

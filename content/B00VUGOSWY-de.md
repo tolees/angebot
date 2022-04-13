@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VUGOSWY-de Anker PowerPort 40W 5-Port USB Ladegerät Multi-Port USB...'
 sku: 'B00VUGOSWY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

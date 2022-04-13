@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B17G9BU-de The Impossible'
 sku: 'B00B17G9BU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.54 EUR
 currency: EUR
 price: 2.54

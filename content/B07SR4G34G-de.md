@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR4G34G-de Xiaomi Mi 9T Smartphone 6 + 64 GB 16 2 cm 6 39 Zoll AMOLED...'
 sku: 'B07SR4G34G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

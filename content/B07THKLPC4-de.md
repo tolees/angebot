@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THKLPC4-de Music Maker – 2020 Performer Edition – Music Maker Premium...'
 sku: 'B07THKLPC4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

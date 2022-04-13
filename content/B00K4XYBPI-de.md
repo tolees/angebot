@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K4XYBPI-de ANSMANN 1400-0058 A-Oly BLN 1 Li-Ion Digicam Akku 7...'
 sku: 'B00K4XYBPI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.55 EUR
 currency: EUR
 price: 16.55

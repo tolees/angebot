@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKWJWV8-de The Strangers - Opfernacht [Blu-ray]'
 sku: 'B07DKWJWV8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719JFC2X-de Hasbro Gaming – Klassische Spiel von Simon b7962eu4'
 sku: 'B0719JFC2X-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

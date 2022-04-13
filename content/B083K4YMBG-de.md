@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083K4YMBG-de DXX Acryl Schaukasten Vitrine Schaukasten Acryl Vitrine...'
 sku: 'B083K4YMBG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

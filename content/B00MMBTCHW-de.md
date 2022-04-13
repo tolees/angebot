@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MMBTCHW-de Remington Haarglätter Pro Sleek & Curl S6505 abgerundetes...'
 sku: 'B00MMBTCHW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

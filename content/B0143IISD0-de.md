@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0143IISD0-de SanDisk Ultra SDXC I 128 GB bis zu 80 MB/Sek Class 10...'
 sku: 'B0143IISD0-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

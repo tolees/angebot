@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQMX386-de Goliath Toys 90515 Starter Set: Recoil Mehrfarbig'
 sku: 'B07BQMX386-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

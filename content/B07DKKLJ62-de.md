@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKKLJ62-de Kipling Damen CITY PACK S Rucksack Blau Active Denim...'
 sku: 'B07DKKLJ62-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

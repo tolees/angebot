@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6PKR4S-de Bosch Professional 35-tlgs. Bohrer Bit Set Pick and Click...'
 sku: 'B07P6PKR4S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

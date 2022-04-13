@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075M8V4FN-de Replay Herren Anbass Slim Jeans Blau Mid Blue 9 W30/L32'
 sku: 'B075M8V4FN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

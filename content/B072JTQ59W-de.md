@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JTQ59W-de Philips SHL3175WT BASS+ Over-Ear Kopfhörer mit Mikrofon...'
 sku: 'B072JTQ59W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

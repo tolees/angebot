@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFY3Y94-de Puma Defy Wn s Damen Hallenschuhe Pink Bridal Rose-Puma...'
 sku: 'B07KFY3Y94-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

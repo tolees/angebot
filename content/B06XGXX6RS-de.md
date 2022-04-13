@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGXX6RS-de Funko 14375 Actionfigur Kingsman: Gazelle Mehrfarbig Standard'
 sku: 'B06XGXX6RS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

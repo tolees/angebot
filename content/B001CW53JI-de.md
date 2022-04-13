@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CW53JI-de Pagna Bewerbungsset Start Basic 5 Bewerbungsmappen grau'
 sku: 'B001CW53JI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

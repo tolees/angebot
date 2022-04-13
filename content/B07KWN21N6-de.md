@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWN21N6-de Lego Wear Mädchen LWSIMONE 611-SWEATSHIRT Sweatshirt Grau...'
 sku: 'B07KWN21N6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

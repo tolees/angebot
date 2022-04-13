@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078Y77XMM-de Pro Breeze™ Oszillierender Turmventilator 100 cm Höhe 80...'
 sku: 'B078Y77XMM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

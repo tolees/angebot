@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB1JYQH-de HERZ KRAFT WERKE Deluxe Edition'
 sku: 'B07QB1JYQH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009RJNOO4-de Inter Link 19500010 Regal "Parini 1" 1 Boden 2 Fächer...'
 sku: 'B009RJNOO4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 22.84 EUR
 currency: EUR
 price: 22.84

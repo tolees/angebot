@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PC9JQ5-de One Piece World Seeker Standard - [PlayStation 4]'
 sku: 'B079PC9JQ5-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.64 EUR
 currency: EUR
 price: 15.64

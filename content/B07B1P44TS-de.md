@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B1P44TS-de Relaxdays Wandregal 3er Set dekorative U-form Wandboards...'
 sku: 'B07B1P44TS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

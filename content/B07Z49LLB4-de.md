@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z49LLB4-de JACK & JONES Herren Jacke Stehkragen Stepp XLNavy Blazer'
 sku: 'B07Z49LLB4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

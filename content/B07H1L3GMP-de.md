@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H1L3GMP-de Acer Chromebook Spin 13 13 3 Zoll QHD IPS Multi-Touch 360°...'
 sku: 'B07H1L3GMP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

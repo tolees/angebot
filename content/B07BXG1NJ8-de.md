@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXG1NJ8-de Villeroy & Boch Toy s Delight Eierbecher Premium Porzellan...'
 sku: 'B07BXG1NJ8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZC9K61-de Dreamzie - Gewichtsdecke - Verfügbar für Betten 90 bis 180...'
 sku: 'B07XZC9K61-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

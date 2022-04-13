@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLS11KQ-de Playmobil 70123 Spirit - Riding Free Solana beim...'
 sku: 'B07JLS11KQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

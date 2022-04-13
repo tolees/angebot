@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F3KWB8K-de BRAUN Wecker und Tischuhren Uhrenradio Kunststoff BLACK...'
 sku: 'B01F3KWB8K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 59.2 EUR
 currency: EUR
 price: 59.2

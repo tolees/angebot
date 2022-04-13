@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0869WPP2P-de Xiaomi Mi 10 Smartphone + Kopfhörer 16 94cm 6 67" FHD+...'
 sku: 'B0869WPP2P-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 613.14 EUR
 currency: EUR
 price: 613.14

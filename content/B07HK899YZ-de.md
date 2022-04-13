@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HK899YZ-de Alex Perry Muttertagsgeschenk ohrringe silber geschenke...'
 sku: 'B07HK899YZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

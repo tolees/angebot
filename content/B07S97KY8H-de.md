@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S97KY8H-de Gigaset Smart Speaker L800HX - Lautsprecher mit Alexa-...'
 sku: 'B07S97KY8H-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 53.96 EUR
 currency: EUR
 price: 53.96

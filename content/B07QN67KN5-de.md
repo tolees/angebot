@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QN67KN5-de Yaogroo 208 Spiele in 1 NDS Game Pack-Karte Super Combo...'
 sku: 'B07QN67KN5-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

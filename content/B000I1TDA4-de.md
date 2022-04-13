@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000I1TDA4-de Hasbro Gaming 04199100 - Tabu XXL Partyspiel'
 sku: 'B000I1TDA4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XXGQYQ-de Briggs & Stratton Tragbarer Benzin-Inverter-Generator der...'
 sku: 'B078XXGQYQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 408.0 EUR
 currency: EUR
 price: 408.0

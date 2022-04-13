@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZYEOOW-de American Tourister Urban Groove - 15 6 Zoll Laptop...'
 sku: 'B01LZYEOOW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

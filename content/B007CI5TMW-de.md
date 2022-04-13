@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CI5TMW-de Haribo Roulette 50 Rollen 1.25 kg'
 sku: 'B007CI5TMW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

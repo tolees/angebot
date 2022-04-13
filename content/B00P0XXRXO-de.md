@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P0XXRXO-de Cobi 2449 Opel Blitz 3 6 - 36S Grau'
 sku: 'B00P0XXRXO-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

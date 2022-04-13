@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007OEEU6-de Leitz Büroheftgerät aus Metall Für 40 Blatt Inkl....'
 sku: 'B0007OEEU6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

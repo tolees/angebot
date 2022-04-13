@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MT7DMBQ-de Digital Wecker mit Hölzerner Elektronischer LED-...'
 sku: 'B07MT7DMBQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

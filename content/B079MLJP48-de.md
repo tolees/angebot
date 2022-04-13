@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MLJP48-de PLAYMOBIL Magic 9472 Prachtvoller Phönix mit...'
 sku: 'B079MLJP48-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

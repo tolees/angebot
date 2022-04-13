@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LFVCJC-de Silverline 633608 Gummihammer weiß 454 g'
 sku: 'B000LFVCJC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CAE8PM4-de Rode Rycote Edition VideoMic Line Gradient Polar Pattern'
 sku: 'B00CAE8PM4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 58.21 EUR
 currency: EUR
 price: 58.21

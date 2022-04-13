@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYFCLW8-de Bones - Season Eleven [6 DVDs]'
 sku: 'B01MYFCLW8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

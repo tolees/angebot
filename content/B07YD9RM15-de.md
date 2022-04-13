@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YD9RM15-de McKINLEY Herren Icepak Varel Jacke Marinenblau 48'
 sku: 'B07YD9RM15-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 80.7 EUR
 currency: EUR
 price: 80.7

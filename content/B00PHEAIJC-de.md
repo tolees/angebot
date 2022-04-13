@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PHEAIJC-de caseable Kindle und Kindle Paperwhite Hülle Ornate Elephant'
 sku: 'B00PHEAIJC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

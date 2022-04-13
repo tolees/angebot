@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LZSP6Q-de Brilliant Spari Deckenfluter mit separat schaltbarem...'
 sku: 'B004LZSP6Q-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

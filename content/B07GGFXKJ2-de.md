@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GGFXKJ2-de ghd platinum+ Styler professionelles Glätteisen mit...'
 sku: 'B07GGFXKJ2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 187.85 EUR
 currency: EUR
 price: 187.85

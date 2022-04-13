@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPSYLFH-de Siemens EX801KYW1E iQ700 Kochfeld / 79 2 cm / WLAN-fähig...'
 sku: 'B06XPSYLFH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1227.29 EUR
 currency: EUR
 price: 1227.29

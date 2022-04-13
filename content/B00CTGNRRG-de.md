@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CTGNRRG-de Anita Comfort Damen Komfort Entlastungs Safina BH Weiß...'
 sku: 'B00CTGNRRG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.09 EUR
 currency: EUR
 price: 32.09

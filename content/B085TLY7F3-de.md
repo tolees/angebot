@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TLY7F3-de Bluetooth Kopfhörer LESHI Bluetooth Kabellose Ohrhörer TWS...'
 sku: 'B085TLY7F3-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

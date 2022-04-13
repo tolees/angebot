@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM52FK1-de PLAYMOBIL Ghostbusters 70170 Ecto-1A mit Licht- und...'
 sku: 'B07JM52FK1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGXVDZP-de Sony Xperia XZ2 Smartphone 14 5 cm 5 7 Zoll IPS Full HD+...'
 sku: 'B07BGXVDZP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

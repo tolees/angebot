@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJYCNQ6-de Acer Nitro 5 AN515-43-R90F 39 6 cm 15 6 Zoll 144Hz Full-HD...'
 sku: 'B07RJYCNQ6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

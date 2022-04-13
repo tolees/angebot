@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AY5OWW2-de UGG Damen W Mini Bailey Button Bling Stiefeletten Schwarz...'
 sku: 'B01AY5OWW2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 131.54 EUR
 currency: EUR
 price: 131.54

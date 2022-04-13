@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSSJQDB-de American Tourister Soundbox - Spinner S Erweiterbar...'
 sku: 'B06XSSJQDB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 76.72 EUR
 currency: EUR
 price: 76.72

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007XREA72-de funny-frisch Chipsfrisch Currywurst Style 10er Pack 10 x...'
 sku: 'B007XREA72-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

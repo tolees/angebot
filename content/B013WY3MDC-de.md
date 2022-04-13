@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WY3MDC-de LIPTON ICE TEA Sparkling Classic Eistee mit Kohlensäure...'
 sku: 'B013WY3MDC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

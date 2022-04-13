@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L6ZIDF6-de VHOME Meerjungfrau Decke Geschenke Beste Freundin -...'
 sku: 'B01L6ZIDF6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

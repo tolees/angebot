@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TBPPL1-de Fossil Damen-Kette ohne Anhänger Edelstahl JF02856998'
 sku: 'B077TBPPL1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

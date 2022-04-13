@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XDZN8A-de Crocs Shayna Women Damen Slingback Ballerinas Schwarz...'
 sku: 'B003XDZN8A-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

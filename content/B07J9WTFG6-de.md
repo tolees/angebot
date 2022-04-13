@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J9WTFG6-de VITIKE Kinder Schuhe Jungen Schuhe Mädchen Sneaker Damen...'
 sku: 'B07J9WTFG6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

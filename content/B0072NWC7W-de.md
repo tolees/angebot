@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0072NWC7W-de Pedea Laptoptasche Trendline Umhängetasche Messenger Bag...'
 sku: 'B0072NWC7W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

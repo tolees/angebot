@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHZFQ9L-de SANROCK U61W Drohne für Kinder mit Kamera RC Quadcopter...'
 sku: 'B07RHZFQ9L-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

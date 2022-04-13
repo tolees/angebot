@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHKQKDH-de GoPro Armband schwarz'
 sku: 'B06XHKQKDH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

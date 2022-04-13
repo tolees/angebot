@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQ7XSBP-de BRIKSMAX Led Beleuchtungsset für Eck Garage Kompatibel Mit...'
 sku: 'B07PQ7XSBP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HD1ZGGK-de Mattel GGX34 - Toy Story 4 Woody Figur 17 cm Spielzeug...'
 sku: 'B07HD1ZGGK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

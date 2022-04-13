@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0789BVVY6-de Fossil Damen-Armreifen Edelstahl JF02854998'
 sku: 'B0789BVVY6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.38 EUR
 currency: EUR
 price: 39.38

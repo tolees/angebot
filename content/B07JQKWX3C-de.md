@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQKWX3C-de iVANKY DisplayPort Kabel 2M/4K DisplayPort auf DisplayPort...'
 sku: 'B07JQKWX3C-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

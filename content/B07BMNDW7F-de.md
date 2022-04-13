@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMNDW7F-de ACCUWEIGHT Küchenwaage Digitale Haushaltswaage...'
 sku: 'B07BMNDW7F-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

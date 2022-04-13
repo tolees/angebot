@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ29QCW-de Funko B07QJ29QCW POP Vinyl Games Bandicoot-Crash...'
 sku: 'B07QJ29QCW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.43 EUR
 currency: EUR
 price: 10.43

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PQTBZV-de UMIDIGI Smartwatch Uwatch GT Fitness Tracker Armbanduhr...'
 sku: 'B082PQTBZV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

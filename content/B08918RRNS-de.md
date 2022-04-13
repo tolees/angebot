@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08918RRNS-de Casiwaft 14er Set Vinylfolie Heat Transfer Glitzer...'
 sku: 'B08918RRNS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

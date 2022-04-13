@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005SJIP1E-de The Complete Mahler Symphonies'
 sku: 'B005SJIP1E-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

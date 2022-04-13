@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCGJJ26-de Rooxs Damen Hipster Panties 3er Pack Perfekte Passform...'
 sku: 'B07FCGJJ26-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

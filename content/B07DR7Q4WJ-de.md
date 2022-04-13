@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DR7Q4WJ-de TaoTronics Stehlampe LED Dimmbar 12W Stehleuchte für...'
 sku: 'B07DR7Q4WJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZBQBVL-de LIGHTAILING Licht-Set Für Architecture Capitol Modell -...'
 sku: 'B07RZBQBVL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

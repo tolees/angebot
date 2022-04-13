@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GXY51YM-de The LEGO Movie Videogame - [Nintendo Wii U]'
 sku: 'B00GXY51YM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

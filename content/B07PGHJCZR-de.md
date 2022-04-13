@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGHJCZR-de Yamaha MCR-B370D Schwarz/Schwarz'
 sku: 'B07PGHJCZR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 298.65 EUR
 currency: EUR
 price: 298.65

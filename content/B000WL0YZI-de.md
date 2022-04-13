@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WL0YZI-de Herlitz 10843746 Aktenhülle A4 Standard PP 0 11 mm...'
 sku: 'B000WL0YZI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

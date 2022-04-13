@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CMP97S-de Sylvanian Families 3409 - Walnuss Eichhörnchen Baby -...'
 sku: 'B007CMP97S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

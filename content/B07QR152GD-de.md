@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QR152GD-de ASICS Damen Gel-Pulse 11 G-TX Laufschuhe Blau Mako...'
 sku: 'B07QR152GD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMSXK84-de Hasbro FurReal Friends E5679EU4 FurReal König der Löwen -...'
 sku: 'B07MMSXK84-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 111.89 EUR
 currency: EUR
 price: 111.89

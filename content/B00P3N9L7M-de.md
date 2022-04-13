@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P3N9L7M-de Two and a Half Men - Mein cooler Onkel Charlie - Staffel 6...'
 sku: 'B00P3N9L7M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

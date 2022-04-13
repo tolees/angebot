@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OUIBCDC-de Pelikan 946806 Füller Twist in Faltschachtel universell...'
 sku: 'B00OUIBCDC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

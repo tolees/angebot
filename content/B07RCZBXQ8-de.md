@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCZBXQ8-de G-STAR RAW Herren 3301 Straight Jeans Antic Charcoal...'
 sku: 'B07RCZBXQ8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 33.23 EUR
 currency: EUR
 price: 33.23

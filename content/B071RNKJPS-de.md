@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RNKJPS-de Funko Pop! TV: Game of Thrones - Das Lied von Eis und...'
 sku: 'B071RNKJPS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.78 EUR
 currency: EUR
 price: 9.78

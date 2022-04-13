@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01688GRMW-de Friedrich|23 Schmuckkoffer Leder 22 4 x 16 x 14 8 cm...'
 sku: 'B01688GRMW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 111.79 EUR
 currency: EUR
 price: 111.79

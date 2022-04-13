@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DXXLJTG-de Metroid Prime: Federation Force [3DS]'
 sku: 'B01DXXLJTG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GQC9WV-de Kepae Vitrinen für Ideas 21319 Acryl Box Display Vitrine...'
 sku: 'B083GQC9WV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

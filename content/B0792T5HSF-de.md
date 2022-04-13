@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792T5HSF-de Geox Damen D ASHEELY B Biker Boots Blau Blue C4000 39 EU'
 sku: 'B0792T5HSF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 68.17 EUR
 currency: EUR
 price: 68.17

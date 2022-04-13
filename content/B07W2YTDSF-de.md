@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W2YTDSF-de Eddi Stachel Spiel für Kinder ab 4 Jahren'
 sku: 'B07W2YTDSF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.11 EUR
 currency: EUR
 price: 10.11

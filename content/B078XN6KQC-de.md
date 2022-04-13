@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XN6KQC-de Swarovski Attract runden Ring Weiß rhodiniert Gr. 52'
 sku: 'B078XN6KQC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 48 EUR
 currency: EUR
 price: 48

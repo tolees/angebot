@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFL495U-de Under Armour Herren HeatGear Armour 2.0 COMP Shorts...'
 sku: 'B01FFL495U-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.61 EUR
 currency: EUR
 price: 14.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007K0GJSA-de Spiegelau & Nachtmann Longdrinkgläser Glas durchsichtig'
 sku: 'B007K0GJSA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

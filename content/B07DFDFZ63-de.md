@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFDFZ63-de Funko 32118 The Flash: Vibe POP Vinylfigur Multi'
 sku: 'B07DFDFZ63-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.26 EUR
 currency: EUR
 price: 5.26

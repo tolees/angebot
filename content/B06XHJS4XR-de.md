@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHJS4XR-de ONLY Damen T-Shirt Onlvic S/S Solid Top Noos Wvn Schwarz...'
 sku: 'B06XHJS4XR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

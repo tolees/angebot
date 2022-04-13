@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYU91WD-de Puma Basket Heart Patent Wn s Damen Sneakers Weiß Puma...'
 sku: 'B01MYU91WD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

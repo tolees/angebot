@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5F5Y3F-de Wrangler Damen Straight Jeans Blau Night Blue 78y W31/L32'
 sku: 'B07M5F5Y3F-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

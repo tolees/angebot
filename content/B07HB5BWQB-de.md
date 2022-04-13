@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB5BWQB-de OFFICE-Partner 5 XXL Druckerpatronen kompatibel zu Canon...'
 sku: 'B07HB5BWQB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

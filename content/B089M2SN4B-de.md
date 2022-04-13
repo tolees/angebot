@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089M2SN4B-de Symiu Montessori Spielzeug Holzbausteine Bauklötze...'
 sku: 'B089M2SN4B-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

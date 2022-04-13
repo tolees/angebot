@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BPDRTE-de ABUS Zubehör Steel-O-Chain 880/85 Black 7 mm/85 cm 43306'
 sku: 'B001BPDRTE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

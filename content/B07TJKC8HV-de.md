@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJKC8HV-de Anna [Blu-ray]'
 sku: 'B07TJKC8HV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLTKTXY-de Echo Dot 3. Gen. Intelligenter Lautsprecher mit Alexa Lila...'
 sku: 'B07WLTKTXY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

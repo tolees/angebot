@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PZQ1VC-de Funko 26904 Pop Marvel: Avengers Infinity War - Teenager...'
 sku: 'B079PZQ1VC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

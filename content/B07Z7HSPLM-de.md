@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7HSPLM-de Zeonetak Bluetooth Headset mit Kabellosem Mikrofon Headset...'
 sku: 'B07Z7HSPLM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

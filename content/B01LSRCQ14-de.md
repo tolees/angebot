@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LSRCQ14-de LG 38UC99-W 95 25 cm 37 5 Zoll Curved 21:9 UltraWide™ IPS...'
 sku: 'B01LSRCQ14-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 320.0 EUR
 currency: EUR
 price: 320.0

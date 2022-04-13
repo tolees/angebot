@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZL6THL-de Kärcher Rundbürstenset für Kärcher Dampfreiniger...'
 sku: 'B077ZL6THL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

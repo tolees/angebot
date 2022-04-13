@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KLFACQ6-de WENKO Vacuum-Loc Eckregal Bari 2 Etagen Befestigen ohne...'
 sku: 'B00KLFACQ6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

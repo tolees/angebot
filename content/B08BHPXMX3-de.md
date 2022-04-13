@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHPXMX3-de Kopfhörer Kabellos Bluetooth Kopfhor Noise Cancelling...'
 sku: 'B08BHPXMX3-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

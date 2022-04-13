@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCSPMZ7-de Napapijri Herren Aric Jacke Blau BLU Marine 176...'
 sku: 'B07MCSPMZ7-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 68.97 EUR
 currency: EUR
 price: 68.97

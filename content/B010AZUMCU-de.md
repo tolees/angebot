@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010AZUMCU-de Eagle Creek Nackenkissen Exhale Neck Pillow leichtes...'
 sku: 'B010AZUMCU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

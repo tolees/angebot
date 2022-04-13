@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072R4BL6S-de Logitech MEETUP Zusatzmikrofon Breitband-Audio mit...'
 sku: 'B072R4BL6S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRD2YH9-de Acer Chromebook 314 Notebook 14 Zoll HD matt 19 7mm flach...'
 sku: 'B07WRD2YH9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 272.48 EUR
 currency: EUR
 price: 272.48

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082CYG25D-de IWEMEK Mädchen Eiskönigin 2 Kostüm Frozen Prinzessin ELSA...'
 sku: 'B082CYG25D-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

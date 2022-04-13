@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZTXCXKG-de PLAYMOBIL Top Agents 70232 Arctic Rebels Eistrike Ab 6 Jahren'
 sku: 'B07ZTXCXKG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 28.73 EUR
 currency: EUR
 price: 28.73

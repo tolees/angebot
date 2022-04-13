@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZQXC3S-de Dittzz Acryl Vitrine Staubdicht Schaukasten Display Case...'
 sku: 'B083ZQXC3S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

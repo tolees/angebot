@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VSCU7C-de Stanger 270012 WC Super set 10 Flaschen'
 sku: 'B005VSCU7C-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

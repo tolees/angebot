@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GV2JZ8W-de Kitchen Diamonds Premium Tafelsticker-Set – 136...'
 sku: 'B07GV2JZ8W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

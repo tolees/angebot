@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BYJO7AE-de American Tourister Bon Air Spinner L Koffer 75 cm 91 L...'
 sku: 'B01BYJO7AE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 74.97 EUR
 currency: EUR
 price: 74.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MSOK5VA-de De Longhi HCX 3220 FTS Konvektor Schmales Design schwarz'
 sku: 'B00MSOK5VA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 68.23 EUR
 currency: EUR
 price: 68.23

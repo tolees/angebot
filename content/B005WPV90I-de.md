@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005WPV90I-de LTB Herren Boot-Cut Jeans Powder Aged 1241 L30W / 30L'
 sku: 'B005WPV90I-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

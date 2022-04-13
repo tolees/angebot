@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7PL93P-de JOMARTO Smart Steckdose Wlan Steckdose Alexa Steckdose...'
 sku: 'B07S7PL93P-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HZ2HHL-de JVC KD-X351BT Digital-Media-Receiver mit Bluetooth-...'
 sku: 'B076HZ2HHL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 65.18 EUR
 currency: EUR
 price: 65.18

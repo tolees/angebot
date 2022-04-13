@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081GY96BR-de Susan Y muttertagsgeschenke ideen ohrringe silber 925...'
 sku: 'B081GY96BR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

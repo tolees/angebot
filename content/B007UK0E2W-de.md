@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007UK0E2W-de Intenso Micro SDHC 32GB Class 4 Speicherkarte inkl. SD-...'
 sku: 'B007UK0E2W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

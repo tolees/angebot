@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPFK7DT-de EKKONG Aufkleber 46 Stück Dekorative Aufkleber Wasserdicht...'
 sku: 'B07VPFK7DT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

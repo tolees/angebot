@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJ8TN45-de eufy Security eufyCam E Kabellose Überwachungskamera 1...'
 sku: 'B07JJ8TN45-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 112.49 EUR
 currency: EUR
 price: 112.49

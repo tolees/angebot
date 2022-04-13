@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003W16TAE-de Tafelmusik'
 sku: 'B003W16TAE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.46 EUR
 currency: EUR
 price: 11.46

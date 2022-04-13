@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGSZDZX-de GoPro Hülle + Trageband offizielles GoPro-Zubehör Schwarz'
 sku: 'B07DGSZDZX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.12 EUR
 currency: EUR
 price: 7.12

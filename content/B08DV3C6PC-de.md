@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DV3C6PC-de N/P WLAN Repeater 2 4GHz WLAN Verstärker WiFi Extender mit...'
 sku: 'B08DV3C6PC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

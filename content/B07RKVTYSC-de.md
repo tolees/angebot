@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKVTYSC-de USB 3.0 WLAN Stick WLAN Adapter PC WiFi Adapter USB WiFi...'
 sku: 'B07RKVTYSC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

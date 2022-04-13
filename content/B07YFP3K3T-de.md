@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFP3K3T-de INSTINNCT Damen Nahtlos Yoga Sport-BH Ohne Bügel mit...'
 sku: 'B07YFP3K3T-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGPPBG2-de Elektronische Tasche Kabeltasche Kabelorganizer Doppelte...'
 sku: 'B07PGPPBG2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

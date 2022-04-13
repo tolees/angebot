@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MPEVUDK-de Philips Disney Frozen Die Eiskönigin Olaf LED Taschenlampe...'
 sku: 'B00MPEVUDK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.17 EUR
 currency: EUR
 price: 5.17

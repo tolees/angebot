@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MOIE1E2-de De Longhi Autentica Cappuccino ETAM 29.660.SB...'
 sku: 'B00MOIE1E2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 468.34 EUR
 currency: EUR
 price: 468.34

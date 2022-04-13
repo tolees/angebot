@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JDN9CM-de Bauknecht WATK Pure 96G4 DE Waschtrockner / EEK A / 9kg...'
 sku: 'B079JDN9CM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

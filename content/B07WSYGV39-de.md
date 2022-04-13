@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSYGV39-de HSP Himoto 2.4GHz RC Ferngesteuerter Bausteine...'
 sku: 'B07WSYGV39-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

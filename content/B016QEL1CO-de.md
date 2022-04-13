@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QEL1CO-de Italian Fashion IF Damen Schlafanzug 194R 0223 Schwarz S'
 sku: 'B016QEL1CO-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

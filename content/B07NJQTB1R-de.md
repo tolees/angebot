@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJQTB1R-de Ankermann Neu Business Office Work PC PC Intel i5 4570 4X...'
 sku: 'B07NJQTB1R-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

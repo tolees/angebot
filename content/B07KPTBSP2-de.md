@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPTBSP2-de Funko 36673 POP Bobble: Avengers Endgame: War Machine...'
 sku: 'B07KPTBSP2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

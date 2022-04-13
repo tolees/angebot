@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNS779Y-de Pop Marvel Studios 10 Black Panther Vinyl Figure'
 sku: 'B07FNS779Y-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.18 EUR
 currency: EUR
 price: 6.18

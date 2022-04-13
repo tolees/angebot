@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC1MXN7-de ECOVACS DEEBOT OZMO 950 Saug- & Wischroboter – 2-in-1...'
 sku: 'B07WC1MXN7-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 454.9 EUR
 currency: EUR
 price: 454.9

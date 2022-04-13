@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7R5JW2-de Bluetooth Lautsprecher AXLOIE Wireless tragbarer...'
 sku: 'B07Y7R5JW2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

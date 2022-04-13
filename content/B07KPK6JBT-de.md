@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPK6JBT-de Funko 28506 POP Vinyl: KISS: Spaceman Sammelbares...'
 sku: 'B07KPK6JBT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KD9HGWW-de VAUDE Damen Escape Bike Light Jacke Nickel Green 36'
 sku: 'B07KD9HGWW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

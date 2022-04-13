@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZNS328-de Funko 40101 POP Vinyl: Disney: Little Mermaid-Ariel Purple...'
 sku: 'B07MZNS328-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

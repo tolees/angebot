@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VSJDZ9-de Hasbro FurReal E0367EU4 - Kleiner Patient Zandi...'
 sku: 'B079VSJDZ9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

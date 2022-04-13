@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLTV71Y-de Diesel Smartwatch DZT2014'
 sku: 'B07XLTV71Y-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 219.3 EUR
 currency: EUR
 price: 219.3

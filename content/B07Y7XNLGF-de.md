@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7XNLGF-de LED Unterbauleuchte Schrankleuchte Heller Lichtleiste mit...'
 sku: 'B07Y7XNLGF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

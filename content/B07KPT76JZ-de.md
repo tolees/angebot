@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPT76JZ-de Funko 37743 POP Vinyl: Alien 40th: Xenomorph Sammelbares...'
 sku: 'B07KPT76JZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

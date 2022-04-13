@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ARAUS3M-de Bosch Professional 18V System Akku GBA 18V 4.0Ah'
 sku: 'B00ARAUS3M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IEP289Y-de SIRUI ET-2204/E-20 Easy Traveler Dreibeinstativ mit E-20...'
 sku: 'B00IEP289Y-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H7IRE0G-de Sluban Spielzeug Baustein Set Hot Dog Wagen M38-B0565'
 sku: 'B01H7IRE0G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

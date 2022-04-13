@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BKBB1WX-de PC DESKTOP COMPLETE INTEL I3-8100 3.6 GHZ 8°GEN/LINDING...'
 sku: 'B07BKBB1WX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

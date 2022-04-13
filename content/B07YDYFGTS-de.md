@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDYFGTS-de OMEN 15-dc1015ng 15 6 Zoll / FHD IPS 60Hz Gaming Laptop...'
 sku: 'B07YDYFGTS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 715.0 EUR
 currency: EUR
 price: 715.0

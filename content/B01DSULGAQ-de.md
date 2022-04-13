@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DSULGAQ-de VAUDE Men s Escape Light Jacke Blau Blau Eclipse Large...'
 sku: 'B01DSULGAQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 73.44 EUR
 currency: EUR
 price: 73.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ARRS2A-de WOLF-Garten - Sport- und Spiel-Rasen LG 500; 3825040'
 sku: 'B006ARRS2A-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

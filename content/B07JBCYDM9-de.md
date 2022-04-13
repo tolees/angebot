@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBCYDM9-de Trust GXT Mechanische Gaming Tastatur mit LED Beleuchtung...'
 sku: 'B07JBCYDM9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

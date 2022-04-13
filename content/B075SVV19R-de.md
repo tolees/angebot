@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075SVV19R-de LEGO Disney 41153 - Princess Arielles königliches...'
 sku: 'B075SVV19R-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

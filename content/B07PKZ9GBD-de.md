@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKZ9GBD-de FRANZIS VW Bulli T1 Adventskalender 2019 In 24 Schritten...'
 sku: 'B07PKZ9GBD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.87 EUR
 currency: EUR
 price: 39.87

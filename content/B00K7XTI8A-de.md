@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K7XTI8A-de WENKO Spül-Set Empire Spülmittelspender Spülbürste...'
 sku: 'B00K7XTI8A-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

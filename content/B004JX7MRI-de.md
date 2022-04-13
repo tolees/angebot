@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004JX7MRI-de Yankee Candle große Duftkerze im Glas Soft Blanket...'
 sku: 'B004JX7MRI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFS54H1-de Acer P1650 DLP Projektor Native WUXGA 1.920 x 1.200 Pixel...'
 sku: 'B07BFS54H1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 300.0 EUR
 currency: EUR
 price: 300.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XWT23FZ-de Amazfit GTS'
 sku: 'B07XWT23FZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 113.99 EUR
 currency: EUR
 price: 113.99

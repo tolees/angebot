@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP6QRDK-de LEGO DUPLO 10898 - Meine erste Micky Maus'
 sku: 'B07FP6QRDK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q43HJVW-de Kabelclips Kabelhalter URAQT Vielzwecke Kabelführung Kabel...'
 sku: 'B07Q43HJVW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

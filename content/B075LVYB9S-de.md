@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075LVYB9S-de TechniSat DIGITRADIO 20 CD – Modernes & kompaktes DAB+...'
 sku: 'B075LVYB9S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 130.32 EUR
 currency: EUR
 price: 130.32

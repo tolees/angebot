@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HBIALMA-de Souarts Ring Damen Schmuck Silber Gold Rosegold Farbe...'
 sku: 'B01HBIALMA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

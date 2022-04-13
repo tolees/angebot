@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GS6X2FH-de Garmin vivomove HR Sport Black/Sandstone Fitness-Tracker...'
 sku: 'B07GS6X2FH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

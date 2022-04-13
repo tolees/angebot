@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IRBFF6I-de THERMOS Kühltasche Classic medium 15 Liter - Isolierte...'
 sku: 'B00IRBFF6I-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

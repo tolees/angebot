@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0785SFNDT-de PUMA - Liga - Sporttasche - Unisex - Schwarz Puma Black -...'
 sku: 'B0785SFNDT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GVSXH4K-de Bungsa® P - Silberner Buchstaben Kristall Charm Anhänger...'
 sku: 'B01GVSXH4K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

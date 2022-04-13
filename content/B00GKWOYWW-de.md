@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GKWOYWW-de VTech 80-139304 - Smart Kid s Phone'
 sku: 'B00GKWOYWW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

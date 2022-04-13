@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M2DCJ5N-de Gardena combisystem-Kleinhäckchen: Kleine Gartenhacke zum...'
 sku: 'B01M2DCJ5N-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

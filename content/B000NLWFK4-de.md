@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NLWFK4-de Casio Collection Herren Armbanduhr BEM-111D-1AVEF'
 sku: 'B000NLWFK4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 62.0 EUR
 currency: EUR
 price: 62.0

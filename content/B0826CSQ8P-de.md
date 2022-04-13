@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0826CSQ8P-de Deadpool Life Size Vinyl Figur 543 Funko Pop! Standard'
 sku: 'B0826CSQ8P-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.63 EUR
 currency: EUR
 price: 32.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000IWHXH8-de Krups GVX242 Kaffeemühle Mahlwerk'
 sku: 'B000IWHXH8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

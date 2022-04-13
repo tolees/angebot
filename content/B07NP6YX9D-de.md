@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NP6YX9D-de Ersatz Fernbedienung for Philips TV 22PFL3403/60...'
 sku: 'B07NP6YX9D-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 3.86 EUR
 currency: EUR
 price: 3.86

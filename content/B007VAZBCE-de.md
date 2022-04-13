@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007VAZBCE-de Tamron 24-70mm F/2 8 Weitwinkelobjektiv mit USD-Motor und...'
 sku: 'B007VAZBCE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 320.0 EUR
 currency: EUR
 price: 320.0

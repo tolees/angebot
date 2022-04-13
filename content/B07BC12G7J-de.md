@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BC12G7J-de WarioWare Gold - [Nintendo 3DS]'
 sku: 'B07BC12G7J-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

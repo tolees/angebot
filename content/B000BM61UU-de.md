@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BM61UU-de Revell Modellbausatz Flugzeug 1:144 - Airbus A380 Design...'
 sku: 'B000BM61UU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.43 EUR
 currency: EUR
 price: 17.43

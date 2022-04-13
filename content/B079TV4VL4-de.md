@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TV4VL4-de Zwillingsherz Slouch-Beanie-Mütze aus 100% Kaschmir -...'
 sku: 'B079TV4VL4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

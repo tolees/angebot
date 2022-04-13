@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07847TNQQ-de Hasbro Spiele E2617100 Lippengeflüster Erwachsenenspiel'
 sku: 'B07847TNQQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

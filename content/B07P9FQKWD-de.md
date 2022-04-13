@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9FQKWD-de Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee...'
 sku: 'B07P9FQKWD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.52 EUR
 currency: EUR
 price: 24.52

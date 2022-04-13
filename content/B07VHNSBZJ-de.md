@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHNSBZJ-de Samsung RU7099 163 cm 65 Zoll LED Fernseher Ultra HD HDR...'
 sku: 'B07VHNSBZJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 639.0 EUR
 currency: EUR
 price: 639.0

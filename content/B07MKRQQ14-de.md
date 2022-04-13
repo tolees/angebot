@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKRQQ14-de iPosible Powerbank 24800mAh Hohe Kapazität Akkupack mit...'
 sku: 'B07MKRQQ14-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

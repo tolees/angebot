@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T78LYQK-de Leibniz Pick Up Choco 100 Stück 1er Pack 1 x 2.8 kg'
 sku: 'B00T78LYQK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 31.39 EUR
 currency: EUR
 price: 31.39

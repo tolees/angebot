@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072J2PLBK-de Lenovo L24q-10 60 45 cm 23 8 Zoll QHD IPS matt Monitor...'
 sku: 'B072J2PLBK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

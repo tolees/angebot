@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8W6ZHS-de GODNECE LED Licht-Set für Baustein Led Beleuchtungsset...'
 sku: 'B07S8W6ZHS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

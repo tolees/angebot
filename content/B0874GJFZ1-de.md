@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0874GJFZ1-de Multifunctional vegetable cutter 11 sets of plastic...'
 sku: 'B0874GJFZ1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZFXM2VC-de Villeroy & Boch Toy s Delight Mittelgroße Vorratsdose...'
 sku: 'B00ZFXM2VC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

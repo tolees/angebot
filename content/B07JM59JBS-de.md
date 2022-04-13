@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JM59JBS-de Playmobil 70179 1.2.3 Meine erste Eisenbahn bunt'
 sku: 'B07JM59JBS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

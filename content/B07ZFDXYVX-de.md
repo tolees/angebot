@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFDXYVX-de Winzwon Smartwatch Fitness Armband wasserdichte...'
 sku: 'B07ZFDXYVX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

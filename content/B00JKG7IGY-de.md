@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JKG7IGY-de Kitchencraft Living Nostalgia Large Metal Bread Box Bin...'
 sku: 'B00JKG7IGY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 36.27 EUR
 currency: EUR
 price: 36.27

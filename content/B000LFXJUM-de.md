@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LFXJUM-de Silverline HK11 Innensechskantschlüssel 10-tlg. Satz 2 –...'
 sku: 'B000LFXJUM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

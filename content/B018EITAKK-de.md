@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018EITAKK-de COMPO SAAT Vertikutier-Mix Rasensamen Rasendünger und...'
 sku: 'B018EITAKK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

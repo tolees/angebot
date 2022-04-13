@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R8RCLC8-de Floïd masaje genuino vigoroso Aftershave 150ml'
 sku: 'B00R8RCLC8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

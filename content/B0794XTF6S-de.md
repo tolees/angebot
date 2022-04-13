@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0794XTF6S-de Philips 65PUS7803/12 164cm 65 Zoll LED-TV Ambilight 4K...'
 sku: 'B0794XTF6S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

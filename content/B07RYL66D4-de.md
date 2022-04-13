@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYL66D4-de New Balance Herren 373 Core Sneaker Schwarz Black/White...'
 sku: 'B07RYL66D4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 63.48 EUR
 currency: EUR
 price: 63.48

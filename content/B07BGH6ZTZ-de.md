@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGH6ZTZ-de Red Bull Energy Drink Kokos-Blaubeere Dosen Getränke White...'
 sku: 'B07BGH6ZTZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

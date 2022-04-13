@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075TQTVGP-de Songs in the Key of Rock 3cd Remastered Edition'
 sku: 'B075TQTVGP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

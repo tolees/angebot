@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L93GCTO-de Hasbro B7493EU00 - Star Wars Rogue One Interaktiver Droid...'
 sku: 'B01L93GCTO-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

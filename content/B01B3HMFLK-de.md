@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B3HMFLK-de PROCAVE wasserdichter Matratzenschoner 80 x 200 cm -...'
 sku: 'B01B3HMFLK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STDTG5G-de Oral-B PRO 1 200 Elektrische Zahnbürste für eine sanfte...'
 sku: 'B07STDTG5G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 30.23 EUR
 currency: EUR
 price: 30.23

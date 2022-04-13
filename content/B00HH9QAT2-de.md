@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HH9QAT2-de Kärcher Hochdruckreiniger K 2 Basic Druck:110 bar...'
 sku: 'B00HH9QAT2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

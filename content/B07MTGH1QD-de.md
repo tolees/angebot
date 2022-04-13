@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTGH1QD-de ORTHOPEO© Akupressur Einlegesohlen - Massage Magnetische...'
 sku: 'B07MTGH1QD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

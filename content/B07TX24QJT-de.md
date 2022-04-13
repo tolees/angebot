@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TX24QJT-de Kompatibel für Samsung Galaxy A6 Plus 2018 Hülle...'
 sku: 'B07TX24QJT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

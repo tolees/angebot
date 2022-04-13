@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTLFBPG-de LEGO 31095 - Creator 3-in-1-Set Jahrmarktkarussell'
 sku: 'B07KTLFBPG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 38.79 EUR
 currency: EUR
 price: 38.79

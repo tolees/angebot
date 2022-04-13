@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSZDF56-de Schneiders Vienna 78335-080 - Schulranzenset Plus mit...'
 sku: 'B07KSZDF56-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 116.21 EUR
 currency: EUR
 price: 116.21

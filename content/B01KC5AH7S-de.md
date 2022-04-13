@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KC5AH7S-de Bluetooth Kopfhörer In Ear Bluetooth 5.0 Kabellos Wireless...'
 sku: 'B01KC5AH7S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

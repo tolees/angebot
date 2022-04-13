@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBR2W3N-de Arbily Bluetooth Kopfhörer 【2020 Neuestes Modell】...'
 sku: 'B07XBR2W3N-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

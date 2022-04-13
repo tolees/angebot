@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MFFVG13-de Forefront Cases Kobo Aura One 7.8 Zoll Origami Hülle...'
 sku: 'B01MFFVG13-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

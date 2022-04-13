@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001NYXUKY-de KS Tools 911.8100 Hebeleisen-Satz 4-tlg.'
 sku: 'B001NYXUKY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

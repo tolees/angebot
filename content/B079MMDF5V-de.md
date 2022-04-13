@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MMDF5V-de PLAYMOBIL Magic 9473 Schneetroll mit Schlitten und...'
 sku: 'B079MMDF5V-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6VDYPY-de Freaky Doll LoLa Cute Crazy Rosa Fliegende Puppe mit extra...'
 sku: 'B07W6VDYPY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

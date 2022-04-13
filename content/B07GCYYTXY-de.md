@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCYYTXY-de W.2 Fiber Carbon Cube - verbesserte Version - nur 73 g -...'
 sku: 'B07GCYYTXY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

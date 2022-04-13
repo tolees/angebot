@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FK4AGRM-de Hasbro Spiele B5355100 - Honigklau im Bienenbau Vorschulspiel'
 sku: 'B01FK4AGRM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

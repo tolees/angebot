@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y5ZN8SP-de Citizen Herren Datum klassisch Solar Uhr mit Titan Armband...'
 sku: 'B06Y5ZN8SP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 168.96 EUR
 currency: EUR
 price: 168.96

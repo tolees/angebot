@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002NXFFDY-de The Green Mile [Blu-ray]'
 sku: 'B002NXFFDY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

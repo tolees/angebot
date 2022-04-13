@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y5YJNBL-de BURG-WÄCHTER Digital-Multimeter Spannungsmesser für...'
 sku: 'B06Y5YJNBL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 35.05 EUR
 currency: EUR
 price: 35.05

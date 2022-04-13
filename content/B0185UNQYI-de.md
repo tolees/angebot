@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0185UNQYI-de SLV GU10 ES111 LED Leuchtmittel 11 1 cm Ø | 6 5 Watt 2700...'
 sku: 'B0185UNQYI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB6Z22G-de V-Kids Watch by Vodafone - Smartwatch mit GPS-Tracker und...'
 sku: 'B07HB6Z22G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 79.1 EUR
 currency: EUR
 price: 79.1

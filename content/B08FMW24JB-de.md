@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMW24JB-de FLOWZOOM Schlauchschal mit Filterfach zum Einlegen eines...'
 sku: 'B08FMW24JB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1HLHMH-de Clarks Damen Un Adorn Zip Slipper Beige Pebble Metallic...'
 sku: 'B07N1HLHMH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.62 EUR
 currency: EUR
 price: 32.62

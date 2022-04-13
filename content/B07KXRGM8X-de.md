@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXRGM8X-de SanDisk microSDXC UHS-I card for Nintendo Switch 64GB -...'
 sku: 'B07KXRGM8X-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

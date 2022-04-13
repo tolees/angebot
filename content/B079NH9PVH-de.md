@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NH9PVH-de Schleich 42407 Bauernhaus mit Stall und Tieren Bunt Large'
 sku: 'B079NH9PVH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 53.67 EUR
 currency: EUR
 price: 53.67

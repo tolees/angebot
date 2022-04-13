@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKZ3YVG-de Street One Damen T-Shirt 313104 Palmira Schwarz Black...'
 sku: 'B07KKZ3YVG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.81 EUR
 currency: EUR
 price: 12.81

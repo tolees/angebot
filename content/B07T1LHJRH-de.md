@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1LHJRH-de Disgaea 4 Complete+ PS4'
 sku: 'B07T1LHJRH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBDZ39T-de Nordic Kitchen Rührlöffel eiche schwarz LxB 20x8 4cm'
 sku: 'B07PBDZ39T-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

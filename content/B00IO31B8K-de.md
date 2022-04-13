@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IO31B8K-de Sony BDV-N5200W 5.1 3D-DVD/Blu-ray Heimkinosystem...'
 sku: 'B00IO31B8K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 475.82 EUR
 currency: EUR
 price: 475.82

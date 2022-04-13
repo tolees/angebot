@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VVGVBK2-de Trefl 90604 - Puzzles 2-in-1 Spaß mit Freunden Memory'
 sku: 'B06VVGVBK2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.52 EUR
 currency: EUR
 price: 6.52

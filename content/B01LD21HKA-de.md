@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LD21HKA-de LG Electronics VRD 710 RRC Carpet Care Roboter-Staubsauger...'
 sku: 'B01LD21HKA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 139.1 EUR
 currency: EUR
 price: 139.1

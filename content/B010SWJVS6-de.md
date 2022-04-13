@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010SWJVS6-de JBL Xtreme Spritzwasserfester Tragbarer Bluetooth...'
 sku: 'B010SWJVS6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

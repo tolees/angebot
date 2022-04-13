@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJLJQWC-de Konturenlehre Konturmessgerät Duplikator Profil...'
 sku: 'B07PJLJQWC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

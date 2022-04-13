@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072R4PXCR-de POP Rocks: Metallica - Robert Trujillo'
 sku: 'B072R4PXCR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.03 EUR
 currency: EUR
 price: 7.03

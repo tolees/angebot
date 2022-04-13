@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8V3XLB-de Tommy Hilfiger Herren CORE Hilfiger Regular Polo Poloshirt...'
 sku: 'B07B8V3XLB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 58.1 EUR
 currency: EUR
 price: 58.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L2PNZP9-de HomeLava 360° Drehbar Wasserhahn Küche Edelstahl...'
 sku: 'B07L2PNZP9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

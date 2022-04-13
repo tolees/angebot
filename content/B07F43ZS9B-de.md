@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F43ZS9B-de SHARP HT-SBW420 GR 2.1 All-in-One Slim Soundbar mit...'
 sku: 'B07F43ZS9B-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

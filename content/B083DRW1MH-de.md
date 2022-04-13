@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DRW1MH-de TuToy Herren Sicherheit Stahlkappe Rutschfeste...'
 sku: 'B083DRW1MH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

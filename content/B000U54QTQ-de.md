@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000U54QTQ-de Sink or Swim'
 sku: 'B000U54QTQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.68 EUR
 currency: EUR
 price: 6.68

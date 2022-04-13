@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GG3QERW-de NINETEC Luna Wireless Home Bluetooth NFC Speaker...'
 sku: 'B01GG3QERW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

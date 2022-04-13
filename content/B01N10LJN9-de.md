@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N10LJN9-de Funko 12921-PDQ POP Schlüsselanhänger Figur: Rick & Morty:...'
 sku: 'B01N10LJN9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

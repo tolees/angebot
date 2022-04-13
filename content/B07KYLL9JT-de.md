@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYLL9JT-de Panama Jack Damen Julia Cork Riemchensandalen Blau Marino...'
 sku: 'B07KYLL9JT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

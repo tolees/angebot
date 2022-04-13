@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JOS8H3K-de G & G KF6000A oder KF3000A 0 1g - 6000g Präzisionswaage...'
 sku: 'B01JOS8H3K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HB67U6W-de MEDION P85035 Internetradio mit DAB+ DAB+ Digital-...'
 sku: 'B01HB67U6W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 95.5 EUR
 currency: EUR
 price: 95.5

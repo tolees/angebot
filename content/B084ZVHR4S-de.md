@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZVHR4S-de FOSSIL Watch FS5697'
 sku: 'B084ZVHR4S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 118.12 EUR
 currency: EUR
 price: 118.12

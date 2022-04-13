@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XPHGLW-de Think Gizmos Roboter Set für Kinder - Roboter zum...'
 sku: 'B075XPHGLW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

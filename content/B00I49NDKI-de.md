@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I49NDKI-de Badewannensitz - ausziehbar 150 kg Tragkraft Aluminium...'
 sku: 'B00I49NDKI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

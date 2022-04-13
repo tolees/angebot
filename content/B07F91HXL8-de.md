@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F91HXL8-de MSI PS42 8RB-073 Prestige Ultra Slim - Intel i7-8550U 1...'
 sku: 'B07F91HXL8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 460 EUR
 currency: EUR
 price: 460

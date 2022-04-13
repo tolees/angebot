@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZZVBNL-de Meetory Etikettenhalter aus Kunststoff transparent...'
 sku: 'B07FZZVBNL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WCZJ56J-de Hasbro C2697EU5 - Baby Alive Fütterspaß Lily Puppe'
 sku: 'B06WCZJ56J-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

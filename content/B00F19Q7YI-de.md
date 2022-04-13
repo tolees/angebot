@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F19Q7YI-de GoPro Front Saugnapfhalterung - gebogene vertikale...'
 sku: 'B00F19Q7YI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

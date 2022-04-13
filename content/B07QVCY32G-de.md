@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVCY32G-de Miniart Crafts Perlenstickerei-Set mehrfarbig 30 x 30 cm'
 sku: 'B07QVCY32G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.75 EUR
 currency: EUR
 price: 32.75

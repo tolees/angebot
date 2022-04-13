@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KBWBI6M-de Oral-B PRO 3000 CrossAction'
 sku: 'B00KBWBI6M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 61.9 EUR
 currency: EUR
 price: 61.9

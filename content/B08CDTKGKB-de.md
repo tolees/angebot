@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDTKGKB-de JOYSKY Wireless Controller für Nintendo Switch 2er-Set...'
 sku: 'B08CDTKGKB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767DNHKL-de Playmobil 9334 - Sheriff'
 sku: 'B0767DNHKL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

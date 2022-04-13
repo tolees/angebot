@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2SG4VD-de Emsa N2011900 Travel Mug Wave-Design...'
 sku: 'B07X2SG4VD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

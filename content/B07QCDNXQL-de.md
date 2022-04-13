@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QCDNXQL-de Fossil Watch FTW6031'
 sku: 'B07QCDNXQL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

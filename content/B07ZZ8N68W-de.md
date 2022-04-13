@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZZ8N68W-de Pegasus Spiele 51223G Kitchen Rush'
 sku: 'B07ZZ8N68W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

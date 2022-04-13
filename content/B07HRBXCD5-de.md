@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRBXCD5-de Susan Y muttertagsgeschenke tennis armband frauen schmuck...'
 sku: 'B07HRBXCD5-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

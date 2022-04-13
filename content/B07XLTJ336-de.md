@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLTJ336-de MEDION P6645 39 5 cm 15 6 Zoll Full HD Notebook Intel Core...'
 sku: 'B07XLTJ336-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

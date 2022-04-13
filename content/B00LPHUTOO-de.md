@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPHUTOO-de Vileda Steam Dampfreiniger'
 sku: 'B00LPHUTOO-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 54.58 EUR
 currency: EUR
 price: 54.58

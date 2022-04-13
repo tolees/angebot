@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBM7ML1-de CREATIVE Sound BlasterX H6 USB-Gaming-Headset virtueller...'
 sku: 'B07LBM7ML1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 59.39 EUR
 currency: EUR
 price: 59.39

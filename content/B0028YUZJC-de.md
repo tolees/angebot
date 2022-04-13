@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0028YUZJC-de ParkTool Werkzeugablage One size 4001145'
 sku: 'B0028YUZJC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

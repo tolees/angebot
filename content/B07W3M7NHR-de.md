@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W3M7NHR-de Ionen Haartrockner Ribivaul 1700 Watt Salon Dry Care...'
 sku: 'B07W3M7NHR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

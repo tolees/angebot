@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083B73KVG-de UMIDIGI Smartwatch Uwatch3 Fitness Tracker 5 ATM...'
 sku: 'B083B73KVG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

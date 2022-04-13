@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQB8WT5-de Asus TUF Gaming FX505DY 90NR01A2-M01050 39 6 cm 15 6 Zoll...'
 sku: 'B07MQB8WT5-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

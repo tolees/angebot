@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWRWFF8-de BRIKSMAX Led Beleuchtungsset für Lego Technic Raupenlader...'
 sku: 'B07TWRWFF8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

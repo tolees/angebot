@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001T0HERW-de ABUS Schlüsseltresor KeyGarage 787 mit Zahlencode 463310'
 sku: 'B001T0HERW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8JFND5-de AMIGO Spiel + Freizeit 1951 6 Nimmt Brettspiel'
 sku: 'B07W8JFND5-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

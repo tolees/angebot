@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YHQLXFX-de Character World Disney Eiskönigin Bettwäsche...'
 sku: 'B07YHQLXFX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IW64JWS-de Logitech 939-001471 BASE Ladestation mit Smart Connector-...'
 sku: 'B01IW64JWS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 60.82 EUR
 currency: EUR
 price: 60.82

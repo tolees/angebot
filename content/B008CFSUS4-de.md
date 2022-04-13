@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CFSUS4-de Drive Medical Duschhocker 12004KDR weiß verstellbar'
 sku: 'B008CFSUS4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005AZSYIA-de Band of Gypsys'
 sku: 'B005AZSYIA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

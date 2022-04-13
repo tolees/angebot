@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08WB22HQY-de LEGO 75311 Star Wars Imperialer Marauder Bauset Für Kinder...'
 sku: 'B08WB22HQY-de'
-tags: [ 'Actionfiguren für Kinder','Spielzeug','Spielzeugfiguren & Spielsets','lego', ]
+tags: [ 'Actionfiguren für Kinder','Spielzeug','Spielzeugfiguren & Spielsets','de','lego', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das „LEGO Star Wars Imperialer Marauder“-Modell enthält 4 Shooter – 2 Shooter auf dem drehbaren Heckgeschützturm und 2 nicht schießende ausklappbare Blasterkanonen
 - Der Artillery Stormtrooper (neu ab August 2021) hat als Zubehör Mörser- und Rucksackelemente
 - Enthält 4 LEGO-Star-Wars-Minifiguren: Greef Karga mit einer Blasterpistole, 2 Stormtrooper mit Blastern und einen Artillery Stormtrooper
-- Das „LEGO Star Wars Imperialer Marauder“-Modell enthält 4 Shooter – 2 Shooter auf dem drehbaren Heckgeschützturm und 2 nicht schießende ausklappbare Blasterkanonen
 - Enthält außerdem ein Minifiguren-Cockpit und eine Kabine für 2 LEGO-Star-Wars-Minifiguren, was es zu einem tollen Ausstellungsstück macht
 - Das Fahrzeug hat einen Ausguck (mit einer zu öffnenden Klappe) für eine Minifigur sowie sich öffnen lassende Munitionskästen für kreatives Spielen
 

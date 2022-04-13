@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN5BSWN-de Braun Barttrimmer und Haarschneider BT7040 39...'
 sku: 'B07MN5BSWN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 64.68 EUR
 currency: EUR
 price: 64.68

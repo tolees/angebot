@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6NJPXF-de Funko POP Hey Arnold Gerald JOHANSSE'
 sku: 'B07J6NJPXF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.09 EUR
 currency: EUR
 price: 4.09

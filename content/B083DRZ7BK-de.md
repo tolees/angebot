@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DRZ7BK-de TuToy Lcd Automatische Fischfutterautomat Teich Aquarium...'
 sku: 'B083DRZ7BK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 150.66 EUR
 currency: EUR
 price: 150.66

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004X9XOO8-de Panasonic VW-PH80XE-K Robuste Softtasche geeignet für...'
 sku: 'B004X9XOO8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

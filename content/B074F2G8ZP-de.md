@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074F2G8ZP-de ViewSonic VP3881 95 3 cm 38 Zoll Fotografen Monitor mit...'
 sku: 'B074F2G8ZP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 830.0 EUR
 currency: EUR
 price: 830.0

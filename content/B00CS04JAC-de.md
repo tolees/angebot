@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CS04JAC-de Trefl 31131 - Rahmen-Puzzle Mickey Mouse Auf dem Land 15...'
 sku: 'B00CS04JAC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 3.32 EUR
 currency: EUR
 price: 3.32

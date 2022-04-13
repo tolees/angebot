@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDHW9W5-de Samsung HW-R530 Soundbar Bluetooth Surround Ready -...'
 sku: 'B07PDHW9W5-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 242.43 EUR
 currency: EUR
 price: 242.43

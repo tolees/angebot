@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07918FCLR-de Samsung Flip LH55WM LED Display Flipchart 139 7 cm 55 Zoll...'
 sku: 'B07918FCLR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1399.0 EUR
 currency: EUR
 price: 1399.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP8Y6MK-de Philips 5000 Serie EP5335/10 Kaffeevollautomat 6...'
 sku: 'B07DP8Y6MK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

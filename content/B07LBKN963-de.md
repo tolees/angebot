@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBKN963-de Tommy Hilfiger Damen TH Essential Regular Polo SS...'
 sku: 'B07LBKN963-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HD228WN-de Mattel GGX28 - Toy Story 4 Ducky 17 cm Spielzeug...'
 sku: 'B07HD228WN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

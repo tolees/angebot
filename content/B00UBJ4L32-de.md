@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UBJ4L32-de Yamaha Digital Piano P-45B schwarz - Elektronisches...'
 sku: 'B00UBJ4L32-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 244 EUR
 currency: EUR
 price: 244

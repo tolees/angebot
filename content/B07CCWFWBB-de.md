@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCWFWBB-de OSRAM SMART+ LED Filament Globe Bluetooth Lampe mit E27...'
 sku: 'B07CCWFWBB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

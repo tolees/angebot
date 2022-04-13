@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002C0E5YI-de Bosch Betonbohrer SDS-Quick Ø 6 mm'
 sku: 'B002C0E5YI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.23 EUR
 currency: EUR
 price: 2.23

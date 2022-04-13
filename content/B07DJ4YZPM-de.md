@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ4YZPM-de Eastpak Orbit Mini Rucksack 34 cm 10 L Grün Crafty Moss'
 sku: 'B07DJ4YZPM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

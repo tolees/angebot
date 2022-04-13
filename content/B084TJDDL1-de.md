@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084TJDDL1-de AstroAI Staubschutzmaske mit Filtern & Ventile-...'
 sku: 'B084TJDDL1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

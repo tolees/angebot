@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J41KZJ6-de LEGO Star Wars - Rogue One Actionfigur'
 sku: 'B01J41KZJ6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

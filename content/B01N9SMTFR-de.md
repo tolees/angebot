@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9SMTFR-de Citizen Herren Analog Quarz Uhr mit Nylon Armband AW5000-24E'
 sku: 'B01N9SMTFR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 100.01 EUR
 currency: EUR
 price: 100.01

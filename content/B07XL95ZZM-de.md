@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XL95ZZM-de Apple iPhone 11 Pro Max 256 GB - Space Grau'
 sku: 'B07XL95ZZM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1111.0 EUR
 currency: EUR
 price: 1111.0

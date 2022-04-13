@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBR6X2K-de The Verdict Ltd. 2CD Box Set'
 sku: 'B07KBR6X2K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

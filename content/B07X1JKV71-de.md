@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1JKV71-de Mpow EM19 Bluetooth-Headset für Ein Ohr Bluetooth Headset...'
 sku: 'B07X1JKV71-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

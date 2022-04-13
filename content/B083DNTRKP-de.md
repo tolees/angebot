@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DNTRKP-de DXX Technik Bausteine Auto Benz G500 1343Teile 2.4G SUV...'
 sku: 'B083DNTRKP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

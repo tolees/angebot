@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TBTT1H-de WiFi Smart E27 Led Lampe 9W 240v Aogled 60w Halogen...'
 sku: 'B085TBTT1H-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

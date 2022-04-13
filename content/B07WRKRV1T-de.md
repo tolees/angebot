@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRKRV1T-de TOUCHBeauty Kosmetikspiegel mit LED Faltbar Schminkspiegel...'
 sku: 'B07WRKRV1T-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

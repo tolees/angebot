@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBYR4WZ-de PUMA Damen Vikky v2 Sneaker Grau Silver Gray-White Silver...'
 sku: 'B07DBYR4WZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 30.06 EUR
 currency: EUR
 price: 30.06

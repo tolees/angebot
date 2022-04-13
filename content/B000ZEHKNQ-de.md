@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ZEHKNQ-de Rothenberger 70228 Standhahnmutternschlüssel 235mm'
 sku: 'B000ZEHKNQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

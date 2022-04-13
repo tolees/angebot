@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0763QVR7L-de MSI TORX FAN 12CM'
 sku: 'B0763QVR7L-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

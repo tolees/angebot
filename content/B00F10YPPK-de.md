@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F10YPPK-de Nerf Super Soaker A5832EU4- Scatter Blast Wasserpistole'
 sku: 'B00F10YPPK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

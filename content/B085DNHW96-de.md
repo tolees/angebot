@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DNHW96-de 100 Blatt A4 Farbigen Kopierpapier Papier Set aus 10...'
 sku: 'B085DNHW96-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

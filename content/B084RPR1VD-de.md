@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084RPR1VD-de Bellivalini Damen Kurze Leggings aus Viskose BLV50-149...'
 sku: 'B084RPR1VD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RVD8CX6-de Original Album Classics'
 sku: 'B00RVD8CX6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

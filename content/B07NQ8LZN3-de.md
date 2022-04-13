@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ8LZN3-de Samsung Galaxy Buds SM-R170NZWADBT I Kabellose Kopfhörer...'
 sku: 'B07NQ8LZN3-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

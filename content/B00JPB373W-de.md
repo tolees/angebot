@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JPB373W-de Microsoft Wireless Mobile Mouse 1850 Maus rot kabellos für...'
 sku: 'B00JPB373W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NC06BE6-de Hasbro Gaming C2018398 - Klartext Partyspiel Alter 16+'
 sku: 'B01NC06BE6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.45 EUR
 currency: EUR
 price: 18.45

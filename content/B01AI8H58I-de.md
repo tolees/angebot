@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AI8H58I-de Nikon AF-P DX Nikkor 18-55 mm f/3.5-5.6G VR Zoomobjektiv'
 sku: 'B01AI8H58I-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

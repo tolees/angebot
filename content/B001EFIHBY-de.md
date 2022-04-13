@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001EFIHBY-de Faber-Castell 144187 - Kugelschreiber GRIP 2011 Mine XB...'
 sku: 'B001EFIHBY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.51 EUR
 currency: EUR
 price: 7.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076S2VF4R-de Microsoft Surface Book 2 34 29 cm 13 5 Zoll Laptop Intel...'
 sku: 'B076S2VF4R-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 380.0 EUR
 currency: EUR
 price: 380.0

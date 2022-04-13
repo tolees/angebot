@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GMWJCEY-de Cremefarbener Segeltuch-Hundespielzeugkorb - Qualitätskorb...'
 sku: 'B01GMWJCEY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

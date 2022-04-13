@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PUEM9RS-de Acer S277HKwmidpp 69 cm 27 Zoll Monitor DVI HDMI...'
 sku: 'B00PUEM9RS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 345.0 EUR
 currency: EUR
 price: 345.0

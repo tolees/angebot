@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTV1W4D-de Samsung CLT-P504C Multipack schwarz Cyan Magenta Gelb...'
 sku: 'B01MTV1W4D-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 214.55 EUR
 currency: EUR
 price: 214.55

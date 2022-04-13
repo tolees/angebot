@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8F4D2Z-de Veganz BIO Protein Choc Bar Strawberry Cake Style -...'
 sku: 'B07N8F4D2Z-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

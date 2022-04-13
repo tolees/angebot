@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CHHLZSW-de Montessori Spielzeug Ab 3 4 5 6 7 Jahren - Scrabble Junior...'
 sku: 'B08CHHLZSW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

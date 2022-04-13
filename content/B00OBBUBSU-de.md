@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OBBUBSU-de Bosch Professional Baustativ BT 150 55-157 cm 1 5 kg...'
 sku: 'B00OBBUBSU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.29 EUR
 currency: EUR
 price: 26.29

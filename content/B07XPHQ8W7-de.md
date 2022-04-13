@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPHQ8W7-de HP Pavilion Gaming TG01-0017ng Desktop Intel Core i7-9700F...'
 sku: 'B07XPHQ8W7-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 400.0 EUR
 currency: EUR
 price: 400.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009H2UWJG-de Russian Standard Original Vodka 1 x 0.7 l'
 sku: 'B009H2UWJG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

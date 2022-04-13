@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002RLFS20-de Soehnle Page Profi Digitalwaage für max. 15 kg digitale...'
 sku: 'B002RLFS20-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

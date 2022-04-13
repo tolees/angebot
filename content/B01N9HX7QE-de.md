@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9HX7QE-de arena Damen Sport Badeanzug Dynamo Schnelltrocknend UV-...'
 sku: 'B01N9HX7QE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

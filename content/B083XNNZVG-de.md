@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083XNNZVG-de DXX Technik Bausteine Auto G500 AWD Wagon Racing Auto...'
 sku: 'B083XNNZVG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

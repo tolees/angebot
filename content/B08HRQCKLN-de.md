@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HRQCKLN-de Makramee Garn Rifny Kordel Natur Baumwollgarn 3 mm x 100 m...'
 sku: 'B08HRQCKLN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001DZDCY2-de Original Motorola Reiselader Netzteil CH700 für Motorola...'
 sku: 'B001DZDCY2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

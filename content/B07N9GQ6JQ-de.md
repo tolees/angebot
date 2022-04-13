@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9GQ6JQ-de SAMSONITE Uplite - Three-Way Laptop Expandable Rucksack 40...'
 sku: 'B07N9GQ6JQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 71.4 EUR
 currency: EUR
 price: 71.4

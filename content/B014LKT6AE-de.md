@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014LKT6AE-de Lego Ninjago Kinder Ninja Rucksack'
 sku: 'B014LKT6AE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

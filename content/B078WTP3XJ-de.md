@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WTP3XJ-de Sony Tragbare Bluetooth-Lautsprecher SRSXB31W.CE7 Weiß'
 sku: 'B078WTP3XJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

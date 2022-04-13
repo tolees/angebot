@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011GVHQZI-de Mousehouse Gifts Rote Dinosaurier Kinder Spardose...'
 sku: 'B011GVHQZI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

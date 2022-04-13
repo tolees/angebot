@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCW5F91-de Lachen Sie mit Stan & Ollie - Die komplette ZDF-Serie [7...'
 sku: 'B07MCW5F91-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

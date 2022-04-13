@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GHU9HSM-de Avoseedo das Besondere Garten Geschenke - Pflanzen Sie...'
 sku: 'B01GHU9HSM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

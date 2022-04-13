@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YRBY9T-de Acer Swift 1 SF113-31-P2CP 33 8 cm 13 3 Zoll Full-HD IPS...'
 sku: 'B071YRBY9T-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 250.0 EUR
 currency: EUR
 price: 250.0

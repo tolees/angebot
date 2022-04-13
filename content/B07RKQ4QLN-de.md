@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RKQ4QLN-de Dragon Touch Action Cam 4K /unterwasserkamera 16MP WiFi...'
 sku: 'B07RKQ4QLN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

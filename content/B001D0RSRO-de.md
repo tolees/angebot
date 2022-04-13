@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001D0RSRO-de Wettsingen in Schwetzingen/MTV unplugged'
 sku: 'B001D0RSRO-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.55 EUR
 currency: EUR
 price: 7.55

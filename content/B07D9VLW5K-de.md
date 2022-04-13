@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9VLW5K-de HP 22y 21 5 Zoll Full HD LED Monitor DVI-D VGA 1920 x 1080...'
 sku: 'B07D9VLW5K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

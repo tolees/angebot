@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IULM63K-de Spielzeugkiste Schatztruhe Spielzeugtruhe...'
 sku: 'B00IULM63K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPTNZRN-de Funko 36659 POP Bobble: Avengers Endgame: Hulk...'
 sku: 'B07KPTNZRN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

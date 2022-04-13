@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GRSQB78-de JOMARTO Smart LED Lampe WIFI Lampe E27 9W 800LM Smart...'
 sku: 'B07GRSQB78-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

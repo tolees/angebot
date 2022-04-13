@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BYW98S-de POP Heroes: Justice League Movie - Wonder Woman'
 sku: 'B072BYW98S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I8N1ABY-de Makita Akku-Heckenschere 52 cm 18 V ohne Akku ohne...'
 sku: 'B00I8N1ABY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

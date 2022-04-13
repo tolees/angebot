@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VT289WT-de USB WiFi Digital Mikroskop Pancellent 1000 x Vergrößerung...'
 sku: 'B07VT289WT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

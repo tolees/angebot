@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5IK8M9-de Funko 13318 Actionfigur Stranger Things: Eleven mit Eggos...'
 sku: 'B01M5IK8M9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

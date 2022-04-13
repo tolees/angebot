@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PDFGSZ-de I Tonya [Blu-ray]'
 sku: 'B079PDFGSZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9K5RLX-de Version 3.0 HD Malen nach Zahlen Diy Kit Weihnachten Gift...'
 sku: 'B07D9K5RLX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

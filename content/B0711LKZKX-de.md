@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711LKZKX-de Withings Steel HR Hybrid Smartwatch - Fitnessuhr mit...'
 sku: 'B0711LKZKX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

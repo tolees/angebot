@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B86RFGG-de Salewa WS WILDFIRE Damen Trekking- & Wanderhalbschuhe Blau...'
 sku: 'B07B86RFGG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 38.72 EUR
 currency: EUR
 price: 38.72

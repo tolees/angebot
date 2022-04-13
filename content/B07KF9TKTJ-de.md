@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF9TKTJ-de MSI GF75 8RC-005DE Thin 43 9 cm/17 3 Zoll/100% sRGB...'
 sku: 'B07KF9TKTJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 475.0 EUR
 currency: EUR
 price: 475.0

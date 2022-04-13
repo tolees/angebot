@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081J1TXPR-de OneOdio Bluetooth Kopfhörer Over Ear Geschlossene HiFi...'
 sku: 'B081J1TXPR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

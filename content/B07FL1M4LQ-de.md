@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FL1M4LQ-de Apple MacBook Pro 15" Vorgängermodell 16GB RAM 512GB...'
 sku: 'B07FL1M4LQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2114.46 EUR
 currency: EUR
 price: 2114.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LL5MV2W-de HERMKO 5722 2er Pack Damen 3/4-Leggings mit Spitze...'
 sku: 'B01LL5MV2W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

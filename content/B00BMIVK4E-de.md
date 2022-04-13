@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BMIVK4E-de The Iceman'
 sku: 'B00BMIVK4E-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

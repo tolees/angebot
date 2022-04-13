@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DD02D7Q-de Complete Chamber Music Recordings on Dg'
 sku: 'B01DD02D7Q-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

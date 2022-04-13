@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VTGDQQ-de Funko 14751 The Last Jedi No Bobble: Star Wars: E8 TLJ:...'
 sku: 'B071VTGDQQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 3.44 EUR
 currency: EUR
 price: 3.44

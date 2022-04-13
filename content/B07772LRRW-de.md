@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07772LRRW-de Tommy Jeans Herren Original Jersey Kurzarm T-Shirt Schwarz...'
 sku: 'B07772LRRW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

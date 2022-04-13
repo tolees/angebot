@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2X9X4M-de Hasbro Spiele C0432100 - Perfektion Geschicklichkeitsspiel'
 sku: 'B06Y2X9X4M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.14 EUR
 currency: EUR
 price: 14.14

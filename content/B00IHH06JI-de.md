@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IHH06JI-de HQ 11768450 - Symphony Beach III 2.2 Rainbow Zweileiner...'
 sku: 'B00IHH06JI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 41.44 EUR
 currency: EUR
 price: 41.44

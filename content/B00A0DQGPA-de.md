@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A0DQGPA-de Clementoni 13405.2 - Memo Kompakt Minnie'
 sku: 'B00A0DQGPA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

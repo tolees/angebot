@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8GQV6S-de Lammcou Schutz Hülle Set für Nintendo Switch Lite 2019...'
 sku: 'B07K8GQV6S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

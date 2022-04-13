@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TFCGV9F-de Govee RGB LED Strip 5M Wasserdicht LED Streifen Lichtband...'
 sku: 'B07TFCGV9F-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

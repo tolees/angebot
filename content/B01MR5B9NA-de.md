@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MR5B9NA-de B.K.Licht I LED Pendelleuchte inkl. 4x 4W Platinen I 330lm...'
 sku: 'B01MR5B9NA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

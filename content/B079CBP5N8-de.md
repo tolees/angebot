@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079CBP5N8-de JACK & JONES Herren JJECORP Logo Tee SS Crew Neck NOOS...'
 sku: 'B079CBP5N8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

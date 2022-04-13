@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0765BD1WZ-de LEGO Duplo 10873 Disney Minnies Geburtstagsparty Spielzeug'
 sku: 'B0765BD1WZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

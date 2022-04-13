@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFBFWWS-de POP! Vinylfigur: Die Hard: John McClane'
 sku: 'B07DFBFWWS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CU0CM7G-de Naipo Schulter Massagegerät Elektrisch für Nacken Rücken...'
 sku: 'B01CU0CM7G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBZR1PY-de LED View Cover für Galaxy S10e Schwarz'
 sku: 'B07NBZR1PY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

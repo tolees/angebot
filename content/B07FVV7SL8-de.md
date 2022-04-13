@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVV7SL8-de Laser Entfernungsmesser Distanz 50M LOMVUM Laser Messgerät...'
 sku: 'B07FVV7SL8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

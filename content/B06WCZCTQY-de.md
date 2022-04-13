@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WCZCTQY-de Playmobil 9249 - Eret mit 4-Schuss-Feuer-Balliste'
 sku: 'B06WCZCTQY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

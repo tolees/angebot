@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7WG7QT-de TALENT Zuse Weekender - Geräumige Reisetasche XL...'
 sku: 'B07D7WG7QT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 198.99 EUR
 currency: EUR
 price: 198.99

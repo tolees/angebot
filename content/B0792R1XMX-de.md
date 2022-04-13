@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792R1XMX-de My Little Pony - Cuties Sammelfiguren kleines Pony in...'
 sku: 'B0792R1XMX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

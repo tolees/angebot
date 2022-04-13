@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6B66BM-de Pepsi Max Das zuckerfreie Erfrischungsgetränk von Pepsi...'
 sku: 'B07W6B66BM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

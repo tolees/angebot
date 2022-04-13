@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08WX97HWC-de Lego Ninjago - LEGO 71753 NINJAGO Kais Feuerdrache Drachen...'
 sku: 'B08WX97HWC-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego ninjago', ]
+tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','de','lego ninjago', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99
@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set enthält 4 coole LEGO NINJAGO Figuren: Nya, Kai und Zane sowie der böse Skelett-General Wyplash, alle mit coolen Waffen bewaffnet
-- Dieses 563-teilige Spielzeug für Kinder ab 8 Jahren ist eine lohnende Bauaufgabe und ein tolles Weihnachtsgeschenk für Jungen und Mädchen ab 8 Jahren
-- Halten Sie Ausschau nach sammelbaren goldenen Minifiguren in 5 anderen NINJAGO Sets, einschließlich Turnier der Elemente (71735) und Coles Felsenbrecher (71736)
-- Enthalten ist auch eine goldene Nya Legacy Sammel-Minifigur mit kleinem Ständer zur Feier des 10-jährigen Jubiläums der LEGO NINJAGO Sets für Kinder
-- Enthält einen hochgradig beweglichen Drachen aus LEGO Steinen, der in die Schlacht fliegt, um es mit dem bösen Wyplash aus Staffel 1 der NINJAGO TV-Serie aufzunehmen
 - Das fliegende Drachen-Spielzeug hat einen beweglichen Kiefer, Schwanz, Beine und Flügel sowie einen Sattel auf dem Rücken, auf dem die Ninja reiten können
+- Enthalten ist auch eine goldene Nya Legacy Sammel-Minifigur mit kleinem Ständer zur Feier des 10-jährigen Jubiläums der LEGO NINJAGO Sets für Kinder
+- Dieses 563-teilige Spielzeug für Kinder ab 8 Jahren ist eine lohnende Bauaufgabe und ein tolles Weihnachtsgeschenk für Jungen und Mädchen ab 8 Jahren
+- Das Set enthält 4 coole LEGO NINJAGO Figuren: Nya, Kai und Zane sowie der böse Skelett-General Wyplash, alle mit coolen Waffen bewaffnet
+- Enthält einen hochgradig beweglichen Drachen aus LEGO Steinen, der in die Schlacht fliegt, um es mit dem bösen Wyplash aus Staffel 1 der NINJAGO TV-Serie aufzunehmen
+- Halten Sie Ausschau nach sammelbaren goldenen Minifiguren in 5 anderen NINJAGO Sets, einschließlich Turnier der Elemente (71735) und Coles Felsenbrecher (71736)
 
 [🛒 Hier!!]({{< param buyurl >}})

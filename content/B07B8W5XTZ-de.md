@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8W5XTZ-de Clarks Orinoco Jazz Damen Reitstiefel Braun Tan Wlined Lea...'
 sku: 'B07B8W5XTZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 85.9 EUR
 currency: EUR
 price: 85.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDKSHFB-de PITTMAN Cargo Hose Herren Darius - Männer Chino by Pit...'
 sku: 'B07YDKSHFB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 35.93 EUR
 currency: EUR
 price: 35.93

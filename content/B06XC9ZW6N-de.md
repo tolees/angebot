@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XC9ZW6N-de Olympus OM-D E-M10 Mark III Micro Four Thirds Systemkamera...'
 sku: 'B06XC9ZW6N-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B6SC40E-de Ravensburger 21122 Lustige Kinderspiele Tiere'
 sku: 'B00B6SC40E-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.76 EUR
 currency: EUR
 price: 10.76

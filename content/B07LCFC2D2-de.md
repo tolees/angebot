@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCFC2D2-de 64 Fächer Kunststoff Dosen Diamant Stickerei Sortierbox in...'
 sku: 'B07LCFC2D2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

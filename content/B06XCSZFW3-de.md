@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCSZFW3-de Timorn Ersatz Stoßfänger Bumper Triggert LB RB Button für...'
 sku: 'B06XCSZFW3-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

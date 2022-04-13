@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083K4TWZV-de 144 Stunden In-Ear Bluetooth Kopfhörer Ohrhörer Kabellos...'
 sku: 'B083K4TWZV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

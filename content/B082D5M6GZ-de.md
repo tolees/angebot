@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082D5M6GZ-de TuToy 64 Cm Lange Kurze Dehnbare Schuhlöffel Edelstahl...'
 sku: 'B082D5M6GZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

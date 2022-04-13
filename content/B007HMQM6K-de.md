@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007HMQM6K-de SEVERIN DK 1042 Doppel-Kochplatte 2 Massekochfelder 1x Ø...'
 sku: 'B007HMQM6K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

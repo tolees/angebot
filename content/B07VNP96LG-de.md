@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNP96LG-de SCIJOY IPX6 Wireless Bluetooth Lautsprecher Wasserdicht...'
 sku: 'B07VNP96LG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

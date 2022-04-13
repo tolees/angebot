@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OX1LDV2-de Jomos Herren 1928 Low-Top Braun capucino/Cognac 155-3123...'
 sku: 'B00OX1LDV2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 52.67 EUR
 currency: EUR
 price: 52.67

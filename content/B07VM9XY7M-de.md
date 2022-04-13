@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VM9XY7M-de Villeroy & Boch Christmas Toy s Windlicht Bescherung...'
 sku: 'B07VM9XY7M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

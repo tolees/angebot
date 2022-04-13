@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072WB9DGS-de QNAP TS-231P-1G Desktop NAS Gehäuse mit 1 GB DDR3 RAM...'
 sku: 'B072WB9DGS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

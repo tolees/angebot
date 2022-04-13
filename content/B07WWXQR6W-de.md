@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WWXQR6W-de Frechdax® Memo Spiel Tiere Gedächtnisspiel Spielkarten...'
 sku: 'B07WWXQR6W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

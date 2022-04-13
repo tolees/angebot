@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001E3RHI-de Gardena Comfort Rückenspritzgerät 12 l: Drucksprühgerät...'
 sku: 'B0001E3RHI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 79.45 EUR
 currency: EUR
 price: 79.45

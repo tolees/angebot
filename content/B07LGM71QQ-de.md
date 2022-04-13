@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGM71QQ-de Omron RS7 Intelli IT Handgelenk-Blutdruckmessgerät mit...'
 sku: 'B07LGM71QQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

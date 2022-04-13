@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G6MBCG3-de Ultimate Ears Boom 3 Tragbarer Bluetooth-Lautsprecher 360°...'
 sku: 'B07G6MBCG3-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 78.84 EUR
 currency: EUR
 price: 78.84

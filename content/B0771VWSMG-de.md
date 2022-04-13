@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771VWSMG-de Tefal Elegance C36708 Bratpfanne 32 cm Aluminium schwarz'
 sku: 'B0771VWSMG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

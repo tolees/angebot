@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0065HBJOS-de walther design AJ330B Aluminium-Bilderrahmen Chair 30x30...'
 sku: 'B0065HBJOS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.14 EUR
 currency: EUR
 price: 13.14

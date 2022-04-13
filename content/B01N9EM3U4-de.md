@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9EM3U4-de Einhell Tauchpumpe GC-SP 3580 LL 350 W 8.000 Liter pro...'
 sku: 'B01N9EM3U4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

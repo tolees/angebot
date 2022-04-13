@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VNXOWW-de Eine ganz heisse Nummer'
 sku: 'B005VNXOWW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

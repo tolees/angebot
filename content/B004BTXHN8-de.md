@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004BTXHN8-de FALKE Damen Wandersocken TK1 - Merinowollmischung 1 Paar...'
 sku: 'B004BTXHN8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

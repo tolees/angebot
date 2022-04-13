@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2KXM3S-de ECOVACS Robotics DEEBOT 600 Saugroboter – Staubsauger...'
 sku: 'B07F2KXM3S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 209.99 EUR
 currency: EUR
 price: 209.99

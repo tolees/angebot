@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CM1BNPQ-de Laser Entfernungsmesser Meterk Distanzmessgerät...'
 sku: 'B07CM1BNPQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

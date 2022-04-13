@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TLXRNZ-de Regal bambus 2er set Badezimmerregal Badregal Bambus...'
 sku: 'B083TLXRNZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

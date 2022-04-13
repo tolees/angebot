@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EUUXBDE-de Logitech Z200 2.0 Lautsprecher mit Subwoofer Surround...'
 sku: 'B00EUUXBDE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

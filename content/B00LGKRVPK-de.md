@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LGKRVPK-de Bosch 3tlg. Starter Set Fliesen für...'
 sku: 'B00LGKRVPK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDL3XFM-de Seagate Backup Plus Portable tragbare externe Festplatte 5...'
 sku: 'B07MDL3XFM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 113.95 EUR
 currency: EUR
 price: 113.95

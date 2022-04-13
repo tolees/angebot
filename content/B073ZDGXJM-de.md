@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073ZDGXJM-de Remington Hygiene Clipper Lithium NanoSeries NE3870...'
 sku: 'B073ZDGXJM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KC1CT3Z-de Book Club - Das Beste kommt noch [Blu-ray]'
 sku: 'B07KC1CT3Z-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.52 EUR
 currency: EUR
 price: 4.52

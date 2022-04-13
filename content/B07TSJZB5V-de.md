@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSJZB5V-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Y-Wing...'
 sku: 'B07TSJZB5V-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

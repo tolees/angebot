@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077BTMC5T-de Tierisch wild Disney Classics'
 sku: 'B077BTMC5T-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

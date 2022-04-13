@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JP79JH1-de Holzmeißel Set Tacklife Stechbeitel Set für Holz...'
 sku: 'B07JP79JH1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

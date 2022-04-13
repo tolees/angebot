@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N4YA38I-de Technoline Miss Ticki Wecker Bunt'
 sku: 'B00N4YA38I-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.46 EUR
 currency: EUR
 price: 19.46

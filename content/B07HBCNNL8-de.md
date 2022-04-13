@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBCNNL8-de Apple iPhone XS Max 512 GB - Space Grau'
 sku: 'B07HBCNNL8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 974.9 EUR
 currency: EUR
 price: 974.9

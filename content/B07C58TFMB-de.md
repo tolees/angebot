@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C58TFMB-de Netgear GS752TPP 52-Port Gigabit Ethernet LAN PoE Switch...'
 sku: 'B07C58TFMB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 540.82 EUR
 currency: EUR
 price: 540.82

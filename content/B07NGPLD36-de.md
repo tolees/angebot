@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGPLD36-de Lioncast LM40 WL Wireless Gaming Maus für kabelloses...'
 sku: 'B07NGPLD36-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

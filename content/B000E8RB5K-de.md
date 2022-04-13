@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E8RB5K-de Der Patriot - Extended Version'
 sku: 'B000E8RB5K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 0.67 EUR
 currency: EUR
 price: 0.67

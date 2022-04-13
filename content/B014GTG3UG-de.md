@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014GTG3UG-de Devolo dLAN pro 1200 DINrail Powerline Hutschienenadapter'
 sku: 'B014GTG3UG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSZV14Z-de Men in Black: International Ltd. Steelbook [Blu-ray]'
 sku: 'B07SSZV14Z-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

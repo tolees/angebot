@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y69MRGS-de Fujifilm instax Mini 9 Kamera kobalt-blau'
 sku: 'B06Y69MRGS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

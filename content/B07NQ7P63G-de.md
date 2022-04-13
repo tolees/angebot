@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ7P63G-de Samsung Galaxy Fit Fitnesstracker schwarz mit Bluetooth...'
 sku: 'B07NQ7P63G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

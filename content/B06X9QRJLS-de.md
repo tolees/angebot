@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9QRJLS-de Hasbro Play-Doh B9740EU4 - Magischer Ofen Knete für...'
 sku: 'B06X9QRJLS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

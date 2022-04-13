@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ASB66DA-de Neff TBD 4800 N Kochfeld Elektro / Induktion / 79 5 cm /...'
 sku: 'B01ASB66DA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 581.85 EUR
 currency: EUR
 price: 581.85

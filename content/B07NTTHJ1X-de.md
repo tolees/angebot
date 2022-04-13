@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NTTHJ1X-de Borderlands 3 - Standard Edition Code in der Box - [PC]'
 sku: 'B07NTTHJ1X-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBCIPPN-de Funko 4717 Movie S1 No Actionfigur The Godfather: Fredo...'
 sku: 'B01NBCIPPN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

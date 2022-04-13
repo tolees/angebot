@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J9W0EXI-de Wunderbare Macht [Blu-ray]'
 sku: 'B00J9W0EXI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

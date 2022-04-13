@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08J6M88LC-de Bluetooth-Kopfhörer 5.0 Kabellose Kopfhörer IPX7...'
 sku: 'B08J6M88LC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

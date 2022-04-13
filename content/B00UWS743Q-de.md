@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UWS743Q-de Kirby und der Regenbogen-Pinsel'
 sku: 'B00UWS743Q-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

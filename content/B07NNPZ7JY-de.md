@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNPZ7JY-de American Tourister Funlight Disney Spinner Suitcase 67 cm...'
 sku: 'B07NNPZ7JY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

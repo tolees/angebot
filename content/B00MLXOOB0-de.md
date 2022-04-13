@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MLXOOB0-de Sony CMT-X3CD Micro-HiFi System CD USB Bluetooth 20 Watt...'
 sku: 'B00MLXOOB0-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

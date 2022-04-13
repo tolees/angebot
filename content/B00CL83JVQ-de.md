@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CL83JVQ-de Bose ® Companion 2 Serie III Multimedia Lautsprechersystem...'
 sku: 'B00CL83JVQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

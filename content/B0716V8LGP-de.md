@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716V8LGP-de Timezone Damen Jeans Slim Enya Jogg Grau Steel Grey Wash...'
 sku: 'B0716V8LGP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

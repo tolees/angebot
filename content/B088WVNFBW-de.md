@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WVNFBW-de Xbox Game Pass 3 Monate Ultimate + 1 Monat GRATIS | Xbox...'
 sku: 'B088WVNFBW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

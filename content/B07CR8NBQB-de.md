@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CR8NBQB-de Garmin vívoactive 3 Music GPS-Fitness-Smartwatch –...'
 sku: 'B07CR8NBQB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 177.5 EUR
 currency: EUR
 price: 177.5

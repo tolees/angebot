@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4B7WDS-de AUTLEAD Auto Kompressor C5 12V Luftkompressor Tragbare...'
 sku: 'B07G4B7WDS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ8PZ3N-de Samsung Galaxy Fit Fitnesstracker silber mit Bluetooth...'
 sku: 'B07NQ8PZ3N-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

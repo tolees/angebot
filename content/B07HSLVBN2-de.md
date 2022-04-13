@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSLVBN2-de Hasbro Game Night - [Nintendo Switch]'
 sku: 'B07HSLVBN2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

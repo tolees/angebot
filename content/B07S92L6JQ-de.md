@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S92L6JQ-de Flöckchen Kinder Aufbewahrungsbox Spielzeugbox für...'
 sku: 'B07S92L6JQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

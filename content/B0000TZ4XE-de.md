@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000TZ4XE-de Ravensburger Lotti Karotti'
 sku: 'B0000TZ4XE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRMBHKD-de Nike Jungen Revolution 4 PSV Laufschuhe Schwarz...'
 sku: 'B06XRMBHKD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

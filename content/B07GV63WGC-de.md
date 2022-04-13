@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GV63WGC-de Anker USB C Ladegerät PowerPort Speed 1 30W USB Ladegerät...'
 sku: 'B07GV63WGC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

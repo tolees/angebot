@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QM7JQZC-de OUTXE Outdoor Powerbank Solar 10000mAh USB C IP67...'
 sku: 'B07QM7JQZC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

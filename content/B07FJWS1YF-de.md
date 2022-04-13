@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJWS1YF-de Manuelle Rasierer Cut Throat Rasierer Professionelle...'
 sku: 'B07FJWS1YF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

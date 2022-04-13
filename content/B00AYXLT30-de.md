@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AYXLT30-de Eagle Creek No Matter What Duffel L I Ultraleichte...'
 sku: 'B00AYXLT30-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 50.3 EUR
 currency: EUR
 price: 50.3

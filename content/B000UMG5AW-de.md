@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000UMG5AW-de Hugo Boss Orange Man men Eau de Toilette Vaprisateur /...'
 sku: 'B000UMG5AW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

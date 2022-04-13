@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVNZFBN-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Slave I...'
 sku: 'B07TVNZFBN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

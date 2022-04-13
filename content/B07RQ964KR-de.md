@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQ964KR-de Funko 40652 IT Pennywise Sammelbares Spielzeug Mehrfarben'
 sku: 'B07RQ964KR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.43 EUR
 currency: EUR
 price: 4.43

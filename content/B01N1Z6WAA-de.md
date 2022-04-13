@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1Z6WAA-de Xoro SAT>IP Server 8100 4X DVB-S2 Eingänge maximal 8...'
 sku: 'B01N1Z6WAA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 122.81 EUR
 currency: EUR
 price: 122.81

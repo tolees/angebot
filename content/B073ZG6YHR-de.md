@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073ZG6YHR-de Remington AS8810 Warmluftbürste Keratin Protect rotierend...'
 sku: 'B073ZG6YHR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYE8K6X-de Goobay 45193 Steckdosenleiste IP44 spritzwassergeschützt 3...'
 sku: 'B01MYE8K6X-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

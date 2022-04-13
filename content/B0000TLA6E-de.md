@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000TLA6E-de Miss Marple Box 4 DVDs'
 sku: 'B0000TLA6E-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

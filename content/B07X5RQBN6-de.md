@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5RQBN6-de LED Einbaustrahler Dimmbar Schwenkbar Ultra Flach 5er Set...'
 sku: 'B07X5RQBN6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

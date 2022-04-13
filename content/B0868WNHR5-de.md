@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868WNHR5-de Lenovo Chromebook S340T Laptop 35 6 cm 14 Zoll 1920x1080...'
 sku: 'B0868WNHR5-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 242.72 EUR
 currency: EUR
 price: 242.72

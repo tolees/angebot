@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHXV8GL-de Samsung Galaxy S10e Smartphone Bundle 14.7cm 5.8 Zoll 128...'
 sku: 'B07SHXV8GL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

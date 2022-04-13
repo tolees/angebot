@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FNRWNPO-de HP Z5000 W2Q00AA kabellose Maus Bluetooth 1.200 dpi 3...'
 sku: 'B01FNRWNPO-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 21.79 EUR
 currency: EUR
 price: 21.79

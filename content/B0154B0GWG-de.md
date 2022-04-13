@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0154B0GWG-de Linksys WRT1900ACS-EU Wireless AC1900 Open Source Router...'
 sku: 'B0154B0GWG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 144.95 EUR
 currency: EUR
 price: 144.95

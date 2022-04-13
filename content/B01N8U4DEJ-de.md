@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8U4DEJ-de Duronic VC8 /BK beutelloser Staubsauger | 800 Watt |...'
 sku: 'B01N8U4DEJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

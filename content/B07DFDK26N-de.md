@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFDK26N-de Funko 33881 The Simpsons: Abe POP Vinylfigur Multi'
 sku: 'B07DFDK26N-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

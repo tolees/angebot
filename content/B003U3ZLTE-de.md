@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003U3ZLTE-de Intenso Photobase Digitaler Bilderrahmen 20 3cm 8 Zoll...'
 sku: 'B003U3ZLTE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

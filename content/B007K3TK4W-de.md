@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007K3TK4W-de GoPro Surf HERO Expansion Kit Kamerabefestigung geeignet...'
 sku: 'B007K3TK4W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

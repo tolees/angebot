@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007TGA2JW-de Timberland Damen 14 Inch Premium Waterproof Stiefel Gelb...'
 sku: 'B007TGA2JW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

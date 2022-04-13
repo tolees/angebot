@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHM6Y9G-de tegut... Gurken Cornichons 300 g'
 sku: 'B01KHM6Y9G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

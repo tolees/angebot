@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYMT862-de Disney Kuscheldecke 120x140 cm Frozen die Eiskönigin...'
 sku: 'B01MYMT862-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

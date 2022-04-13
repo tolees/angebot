@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SH3CFC9-de BRIKSMAX Led Beleuchtungsset für Lego Star Wars Darth...'
 sku: 'B07SH3CFC9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

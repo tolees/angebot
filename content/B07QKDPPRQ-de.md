@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKDPPRQ-de Queta 5 Stück Zehennagel-Tools-Kit eingewachsene...'
 sku: 'B07QKDPPRQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

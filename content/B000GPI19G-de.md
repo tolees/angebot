@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GPI19G-de The Cooker Rvg'
 sku: 'B000GPI19G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

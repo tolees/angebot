@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GR5XGQC-de Duftkerze ARINO Aroma Kerzen Naturwach in Dose 4er Deco...'
 sku: 'B07GR5XGQC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

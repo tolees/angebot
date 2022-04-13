@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRHM8F3-de Sennheiser MOMENTUM True Wireless Bluetooth-Ohrhörer...'
 sku: 'B07HRHM8F3-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 175.39 EUR
 currency: EUR
 price: 175.39

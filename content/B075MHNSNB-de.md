@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MHNSNB-de Das fünfte Element Remastered 2017 – Mediabook exklusiv...'
 sku: 'B075MHNSNB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVM2JM1-de super.natural Bequemer Herren Pullover Mit Merinowolle M...'
 sku: 'B07MVM2JM1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 84 EUR
 currency: EUR
 price: 84

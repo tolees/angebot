@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0147DFUCS-de Mighty No.9 - Ray-Edition'
 sku: 'B0147DFUCS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

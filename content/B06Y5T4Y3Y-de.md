@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y5T4Y3Y-de AKG K275 Geschlossener leichter Over-Ear-Studiokopfhörer...'
 sku: 'B06Y5T4Y3Y-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

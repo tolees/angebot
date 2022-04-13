@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCJP94G-de Samsung Galaxy Xcover 4 Smartphone 12 67 cm 5 Zoll Touch-...'
 sku: 'B06XCJP94G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 210.84 EUR
 currency: EUR
 price: 210.84

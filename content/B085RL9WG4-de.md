@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RL9WG4-de TONGJI Acryl Vitrine Kompatibel Mit Lego 42096 Technic...'
 sku: 'B085RL9WG4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

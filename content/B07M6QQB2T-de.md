@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6QQB2T-de Meerjungfrau Decke Geschenke Beste Freundin -...'
 sku: 'B07M6QQB2T-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

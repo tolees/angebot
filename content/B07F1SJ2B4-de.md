@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1SJ2B4-de Levi s Herren Slim Jeans 511 SLIM FIT Schwarz Mineral...'
 sku: 'B07F1SJ2B4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

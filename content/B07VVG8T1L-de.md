@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVG8T1L-de ATOMIC Unisex – Erwachsene Count 360 Goggles Rot/Pink-Gelb...'
 sku: 'B07VVG8T1L-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

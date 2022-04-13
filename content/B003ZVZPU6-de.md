@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ZVZPU6-de MÜHLE - Klassischer Rasierhobel - geschlossener Kamm -...'
 sku: 'B003ZVZPU6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

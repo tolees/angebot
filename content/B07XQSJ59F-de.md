@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQSJ59F-de Apple Silikon Case für iPhone 11 - Schwarz'
 sku: 'B07XQSJ59F-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

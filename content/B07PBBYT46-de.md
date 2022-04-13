@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBBYT46-de Funko 41965 POP Vinyl: Filme: Silence of Lambs-Hannibal...'
 sku: 'B07PBBYT46-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.63 EUR
 currency: EUR
 price: 5.63

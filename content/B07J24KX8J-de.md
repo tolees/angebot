@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J24KX8J-de Nickelodeon Kart Racers Xbox One'
 sku: 'B07J24KX8J-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

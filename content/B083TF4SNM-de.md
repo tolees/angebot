@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TF4SNM-de OBEEII Mädchen Anna ELSA Prinzessin Kostüm Eiskönigin...'
 sku: 'B083TF4SNM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.07 EUR
 currency: EUR
 price: 13.07

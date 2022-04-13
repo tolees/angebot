@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2ZS8P6-de Tacklife ACP1B Luftkompressor Digitaler 12V Kompressor...'
 sku: 'B07G2ZS8P6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AJGL1TE-de OLI-NATURA Projektöl für innen speziell für Möbel Parkett...'
 sku: 'B00AJGL1TE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

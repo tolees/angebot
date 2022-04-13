@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007UFKZ1W-de Cellfast Gartenschlauch ECONOMIC Elastisch und flexibel...'
 sku: 'B007UFKZ1W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

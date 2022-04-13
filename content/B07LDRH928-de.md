@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LDRH928-de Ankermann Business Office Work PC Intel Core i5 4X 3.1 GHz...'
 sku: 'B07LDRH928-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 369.0 EUR
 currency: EUR
 price: 369.0

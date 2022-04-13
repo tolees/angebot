@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PMMFHG-de YUNKE Duschorganisator Badezimmerregale Duschkabine...'
 sku: 'B086PMMFHG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

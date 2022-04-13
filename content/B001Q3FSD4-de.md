@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001Q3FSD4-de 1/la-le-Lu'
 sku: 'B001Q3FSD4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

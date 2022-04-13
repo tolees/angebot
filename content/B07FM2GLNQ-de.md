@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM2GLNQ-de Trust Verto Wireless Vertikale Ergonomische Maus...'
 sku: 'B07FM2GLNQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

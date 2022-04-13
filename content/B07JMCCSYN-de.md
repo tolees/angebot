@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMCCSYN-de Playmobil 70093 Family Fun Familien-Fahrrad bunt'
 sku: 'B07JMCCSYN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

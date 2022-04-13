@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N1FTWL-de Playmobil 9467 Feuerwehr-Löschroboter'
 sku: 'B079N1FTWL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

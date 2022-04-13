@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003KHG5HM-de Shutter Island [Blu-ray]'
 sku: 'B003KHG5HM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.74 EUR
 currency: EUR
 price: 2.74

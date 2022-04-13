@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OVRTXT2-de Im Labyrinth des Schweigens'
 sku: 'B00OVRTXT2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

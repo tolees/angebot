@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084XSVSR8-de LG Electronics 65UM7050PLA 164 cm 65 Zoll UHD Fernseher 4K...'
 sku: 'B084XSVSR8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 549.0 EUR
 currency: EUR
 price: 549.0

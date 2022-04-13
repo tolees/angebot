@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PVE6FRC-de D-Link DAP-1365 N300 Wi-Fi Range Extender mit Power...'
 sku: 'B00PVE6FRC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85

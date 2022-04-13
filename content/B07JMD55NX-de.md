@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMD55NX-de Playmobil 70181 1.2.3 PKW mit Pferdeanhänger bunt'
 sku: 'B07JMD55NX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

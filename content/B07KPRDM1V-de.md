@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPRDM1V-de GANT Herren O1. The Panel Down Vest Outdoor Weste Blau...'
 sku: 'B07KPRDM1V-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 100 EUR
 currency: EUR
 price: 100

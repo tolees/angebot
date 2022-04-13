@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYGVHMH-de Mi Smart Wasserkocher weiß Appsteuerung...'
 sku: 'B07DYGVHMH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

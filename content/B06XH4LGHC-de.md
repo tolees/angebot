@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XH4LGHC-de Belkin PowerHouse Ladestation geeignet für iPhone XS XS...'
 sku: 'B06XH4LGHC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

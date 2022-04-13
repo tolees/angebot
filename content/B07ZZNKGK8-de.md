@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZZNKGK8-de POP! Animation: Masters of The Universe - Sorceress'
 sku: 'B07ZZNKGK8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

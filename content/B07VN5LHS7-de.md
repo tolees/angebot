@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VN5LHS7-de STARWARE HDMI auf VGA HDMI auf VGA Adapter Stecker zu...'
 sku: 'B07VN5LHS7-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZZI7OI-de BRITA Wasserfilter Marella weiß inkl. 3 MAXTRA+...'
 sku: 'B01MZZI7OI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

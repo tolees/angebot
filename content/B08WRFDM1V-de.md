@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08WRFDM1V-de Michael Kors Damen Gen 5E Darci Touchscreen Smartwatch mit...'
 sku: 'B08WRFDM1V-de'
-tags: [ 'Elektronik & Foto','Handys & Zubehör','Regular Stores','Shops','Smartwatches','Uhren','michael kors', ]
+tags: [ 'Elektronik & Foto','Handys & Zubehör','Regular Stores','Shops','Smartwatches','Uhren','de','michael kors', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVTSJWF-de Samsung WW6400 WW8HK6400QW/EG Waschmaschine 8 kg 1400...'
 sku: 'B07NVTSJWF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 738.9 EUR
 currency: EUR
 price: 738.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CPM8TZ4-de AKASO Action Cam/4K/30fps 20MP Action Camera mit...'
 sku: 'B07CPM8TZ4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

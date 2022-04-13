@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCSHRH9-de Aufbewahrungsbox Vlies rosé'
 sku: 'B07FCSHRH9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

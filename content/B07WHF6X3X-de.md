@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHF6X3X-de HyperX Fury HX432C16FB3AK2/32 Arbeitsspeicher DIMM DDR4...'
 sku: 'B07WHF6X3X-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

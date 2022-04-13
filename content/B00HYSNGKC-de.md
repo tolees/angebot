@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HYSNGKC-de SONAX 386400 ScheibenReiniger Konzentrat Green Lemon 3 Liter'
 sku: 'B00HYSNGKC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D5KI2R4-de Onibaba - Die Töterinnen Filmjuwelen [Blu-ray]'
 sku: 'B01D5KI2R4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

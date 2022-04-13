@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYNQ2PT-de Hasbro Spiele C2473100 - OhwEi Vorschulspiel'
 sku: 'B06XYNQ2PT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

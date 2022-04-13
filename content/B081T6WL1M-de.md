@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081T6WL1M-de Lenovo IdeaPad S340 Laptop 39 6 cm 15 6 Zoll 1920x1080 FHD...'
 sku: 'B081T6WL1M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

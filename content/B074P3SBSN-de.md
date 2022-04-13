@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074P3SBSN-de uvex Unisex – Erwachsene i-vo 3D Fahrradhelm white 52-57 cm'
 sku: 'B074P3SBSN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

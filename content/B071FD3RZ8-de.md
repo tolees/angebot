@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FD3RZ8-de ONLY Female Skinny Fit Jeans ONLRain reg XL30Black Denim'
 sku: 'B071FD3RZ8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

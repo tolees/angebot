@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GDACY7C-de Sports Laboratory Bauchweggürtel für Gewichtsverlust für...'
 sku: 'B01GDACY7C-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

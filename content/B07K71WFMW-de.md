@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K71WFMW-de Hot Wheels FXN21 - Auto Lift Expressway Track Set mit...'
 sku: 'B07K71WFMW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

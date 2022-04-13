@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSQ6D5W-de Funko 39742 POP Vinyl: Avengers Endgame-Thor 2 Pajama...'
 sku: 'B07NSQ6D5W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

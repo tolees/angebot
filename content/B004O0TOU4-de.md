@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004O0TOU4-de Ravensburger 22093 - Schnappt Hubi!'
 sku: 'B004O0TOU4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

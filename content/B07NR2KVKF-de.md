@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NR2KVKF-de Dickie Toys 201119141 RC Nitro League RTR 201119141-RC...'
 sku: 'B07NR2KVKF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

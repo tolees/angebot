@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K4Z2JO6-de WENKO Wäschesammler Corno Wäschekorb Fassungsvermögen: 43...'
 sku: 'B00K4Z2JO6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

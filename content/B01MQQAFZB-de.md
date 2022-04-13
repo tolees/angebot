@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQQAFZB-de BRITA Filterkartuschen MAXTRA+ im 2er Pack – Kartuschen...'
 sku: 'B01MQQAFZB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

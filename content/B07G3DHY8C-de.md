@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3DHY8C-de Samsung T835 Galaxy Tab S4 LTE Tablet-PC 4GB RAM schwarz'
 sku: 'B07G3DHY8C-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 317.0 EUR
 currency: EUR
 price: 317.0

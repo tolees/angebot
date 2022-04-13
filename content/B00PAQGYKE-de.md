@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PAQGYKE-de Pioneer GM D1004 Verstärker für Kfz'
 sku: 'B00PAQGYKE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 76.79 EUR
 currency: EUR
 price: 76.79

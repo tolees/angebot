@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CMOJUDA-de Scholl Clogs SUPERCOMFORT Frau'
 sku: 'B00CMOJUDA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 55.86 EUR
 currency: EUR
 price: 55.86

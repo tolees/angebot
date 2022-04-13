@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6KMQMT-de HP Pavilion Gaming 15-dk0008ng 15 6 Zoll / FHD IPS Gaming...'
 sku: 'B07S6KMQMT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 715.0 EUR
 currency: EUR
 price: 715.0

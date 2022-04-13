@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FGMXHY1-de Salewa Herren Sweatshirts Pedroc Pgd M Fz HDY Black...'
 sku: 'B07FGMXHY1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

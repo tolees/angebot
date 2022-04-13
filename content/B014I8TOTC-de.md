@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014I8TOTC-de AmazonBasics HL-007318 Hochgeschwindigkeits-HDMI-Kabel...'
 sku: 'B014I8TOTC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKYZBKM-de Jump Force: Standard Edition - [PlayStation 4]'
 sku: 'B07DKYZBKM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRCRLY-de Sylvanian Families - 5027 - Waschmaschinen-Set'
 sku: 'B00HRRCRLY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002QEXN2K-de Battle Studies'
 sku: 'B002QEXN2K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

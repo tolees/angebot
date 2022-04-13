@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4S7ZGM-de 1home Bildschirmständer Notebooktisch Notebookständer...'
 sku: 'B01M4S7ZGM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

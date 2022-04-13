@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B3I8REY-de KS Tools 515.0990 SlimPOWER Impact-Stecknuss-Satz 3-tlg. 1/2"'
 sku: 'B00B3I8REY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

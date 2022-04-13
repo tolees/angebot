@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY72DNS-de ÷ Divide Deluxe Edition'
 sku: 'B01MY72DNS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

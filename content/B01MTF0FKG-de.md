@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTF0FKG-de Sylvanian Families 5273 Limousine Puppenauto 26 x 12 5 x...'
 sku: 'B01MTF0FKG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.16 EUR
 currency: EUR
 price: 24.16

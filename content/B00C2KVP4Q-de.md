@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C2KVP4Q-de ONLY Female Skinny Fit Jeans ONLUltimate King reg M32Dark...'
 sku: 'B00C2KVP4Q-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

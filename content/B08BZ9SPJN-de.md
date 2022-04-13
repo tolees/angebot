@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZ9SPJN-de Wireless Controller für Nintendo Switch RegeMoudal Switch...'
 sku: 'B08BZ9SPJN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

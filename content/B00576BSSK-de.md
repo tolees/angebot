@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00576BSSK-de Wenko Herdabdeckplatte Universal Chili 2er Set...'
 sku: 'B00576BSSK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

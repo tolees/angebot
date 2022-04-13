@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9BK3J9-de JBL Live 500BT kabellose Over-Ear Kopfhörer - Bluetooth...'
 sku: 'B07N9BK3J9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

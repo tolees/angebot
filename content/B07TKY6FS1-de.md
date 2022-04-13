@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKY6FS1-de THE NORTH FACE Herren M Zaneck Jacket Insulated Synthetic...'
 sku: 'B07TKY6FS1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 83.29 EUR
 currency: EUR
 price: 83.29

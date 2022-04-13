@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MP1QV1X-de BRIKSMAX Led Beleuchtungsset für James Bond Bricks...'
 sku: 'B07MP1QV1X-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

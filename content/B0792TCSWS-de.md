@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792TCSWS-de Geox Damen D Felicity D Knee High Boot Black 39 EU'
 sku: 'B0792TCSWS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

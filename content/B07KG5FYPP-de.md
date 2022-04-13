@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG5FYPP-de Star Wars Geschenke 3D Lampe für Männer - Star Wars...'
 sku: 'B07KG5FYPP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

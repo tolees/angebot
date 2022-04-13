@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088T3Y7SZ-de Bluetooth Kopfhörer Sport-3D-Stereo-Kopfhörer In-Ear...'
 sku: 'B088T3Y7SZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

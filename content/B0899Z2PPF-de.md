@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899Z2PPF-de Controller für Nintendo Switch 6-Achsen Einstellbarem...'
 sku: 'B0899Z2PPF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

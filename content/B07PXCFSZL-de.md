@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXCFSZL-de VGA HDMI Dummy Plug Virtueller Display-Emulator-Adapter...'
 sku: 'B07PXCFSZL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

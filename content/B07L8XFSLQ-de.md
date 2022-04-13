@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8XFSLQ-de Laptop Rucksack Herren und Damen für 17 Zoll Notebook...'
 sku: 'B07L8XFSLQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

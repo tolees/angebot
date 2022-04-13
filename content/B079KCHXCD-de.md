@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KCHXCD-de Mattel FRV84 - Disney Pixar Cars Stunt Champion Lightning...'
 sku: 'B079KCHXCD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

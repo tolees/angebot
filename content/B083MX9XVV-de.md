@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083MX9XVV-de Massagepistole Abask Massage Gun für Nacken Schulter...'
 sku: 'B083MX9XVV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3RPX4V-de Tommy Hilfiger Damen Honey Mini Crossover Umhängetasche...'
 sku: 'B07V3RPX4V-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

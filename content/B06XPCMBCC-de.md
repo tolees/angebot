@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPCMBCC-de Kipling Damen CITY PACK S Rucksack Blau Deepest Blue...'
 sku: 'B06XPCMBCC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

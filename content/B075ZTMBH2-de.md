@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075ZTMBH2-de X-WATCH 54010 "SIONA XW FIT" Damen Smartwatch Activity...'
 sku: 'B075ZTMBH2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

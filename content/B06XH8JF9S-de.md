@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XH8JF9S-de Picard Handgelenktasche Toscana Leder Small 17 x 24 x 6 cm...'
 sku: 'B06XH8JF9S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 79.98 EUR
 currency: EUR
 price: 79.98

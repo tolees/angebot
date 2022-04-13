@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759MJW6F-de Funko 28034 64202 S1 No Actionfigur Mad Max: Fury Road:...'
 sku: 'B0759MJW6F-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

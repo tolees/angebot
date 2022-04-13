@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRF1NLD-de Wer Sagt Denn Das?'
 sku: 'B07SRF1NLD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

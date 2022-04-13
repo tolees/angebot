@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N7PL55Z-de L-RUN Damen Wasserschuhe Herren Aqua Socken Leichtes...'
 sku: 'B07N7PL55Z-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

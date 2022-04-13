@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QCC755Y-de adidas CORE Men Archivo Running Schuh EF0419...'
 sku: 'B07QCC755Y-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DMJ5HN-de DXX Technik Bausteine FRR-F1 Racing Auto 585Teile 2.4G...'
 sku: 'B083DMJ5HN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

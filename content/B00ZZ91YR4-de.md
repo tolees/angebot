@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZZ91YR4-de Castle - Staffel 7 [6 DVDs]'
 sku: 'B00ZZ91YR4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

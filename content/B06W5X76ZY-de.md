@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5X76ZY-de Playmobil 9283 - Schneeballschlacht'
 sku: 'B06W5X76ZY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

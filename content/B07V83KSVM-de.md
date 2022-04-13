@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V83KSVM-de Transport Fever 2'
 sku: 'B07V83KSVM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 31.23 EUR
 currency: EUR
 price: 31.23

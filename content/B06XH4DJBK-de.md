@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XH4DJBK-de KINLO möbelfolie Braun 2 Stk. 61x500cm aus hochwertigem...'
 sku: 'B06XH4DJBK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

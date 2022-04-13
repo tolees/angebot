@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B71MSVS-de Cardinal Games 6045052 - LOL Water Surprise Spiel...'
 sku: 'B07B71MSVS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.64 EUR
 currency: EUR
 price: 9.64

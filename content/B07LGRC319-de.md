@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGRC319-de Laurastar 000.0305.530 Lift Plus Blue Sky...'
 sku: 'B07LGRC319-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 327.48 EUR
 currency: EUR
 price: 327.48

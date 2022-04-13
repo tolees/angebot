@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL59ZC-de G-STAR RAW Herren Pakke Blazer Blau Mazarine Blue 4213...'
 sku: 'B07NDL59ZC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 58.12 EUR
 currency: EUR
 price: 58.12

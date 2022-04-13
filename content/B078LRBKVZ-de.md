@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078LRBKVZ-de Kronenschein® Premium Herren Geldbörse mit Geldklammer...'
 sku: 'B078LRBKVZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJQ2QZL-de DJI Mavic 2 Zoom Drohne Quadrocopter mit 24-48mm Optischer...'
 sku: 'B07GJQ2QZL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088MLKPG3-de Samsung Galaxy S10+ Smartphone Bundle 16.3 cm 6.4 Zoll...'
 sku: 'B088MLKPG3-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 614.0 EUR
 currency: EUR
 price: 614.0

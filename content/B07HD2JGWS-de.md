@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HD2JGWS-de Mattel GGX27 - Toy Story 4 Bunny 17 cm Spielzeug...'
 sku: 'B07HD2JGWS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

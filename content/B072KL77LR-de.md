@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KL77LR-de POP Rocks: Metallica - James Hetfield'
 sku: 'B072KL77LR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

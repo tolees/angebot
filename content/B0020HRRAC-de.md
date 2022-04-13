@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0020HRRAC-de Craft Weste Visibility Vest Warnweste neon XL'
 sku: 'B0020HRRAC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

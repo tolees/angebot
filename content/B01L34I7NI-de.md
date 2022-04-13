@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L34I7NI-de Sony Xperia XZ Smartphone 13 2 cm 5 2 Zoll 32 GB Speicher...'
 sku: 'B01L34I7NI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 89.84 EUR
 currency: EUR
 price: 89.84

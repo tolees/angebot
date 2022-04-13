@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FJLA9IM-de Intel BX80671I76950X Core i7-6950X Prozessor schwarz'
 sku: 'B01FJLA9IM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 895.0 EUR
 currency: EUR
 price: 895.0

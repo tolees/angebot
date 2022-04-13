@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FZJYT2-de CITIZEN Eco-Drive Herren Armbanduhr AW1570-87L'
 sku: 'B079FZJYT2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

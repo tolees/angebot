@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB3HKD6-de Pop Dirty Dancing Johnny Vinyl Figure'
 sku: 'B07HB3HKD6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.1 EUR
 currency: EUR
 price: 5.1

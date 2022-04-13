@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WKPFR7-de VPCOK 25 Meter Gummiband rund elastische Gummikordel DIY...'
 sku: 'B088WKPFR7-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPPMZM8-de Nene Toys - Pädagogisches Kinderspiel ab 3 Jahre -...'
 sku: 'B07NPPMZM8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

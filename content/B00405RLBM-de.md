@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00405RLBM-de Kenwood Zerkleinerer CH580 elektrischer Mini...'
 sku: 'B00405RLBM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 31.8 EUR
 currency: EUR
 price: 31.8

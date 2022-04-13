@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWMHLV1-de Mattel GDP85 - Disney Pixar Toy Story 4 Buzz Lightyear...'
 sku: 'B07FWMHLV1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

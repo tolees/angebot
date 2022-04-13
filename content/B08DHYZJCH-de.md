@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DHYZJCH-de ieGeek Überwachungskamera Aussen WLAN IP Kamera 1080P WiFi...'
 sku: 'B08DHYZJCH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

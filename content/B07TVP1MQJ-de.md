@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVP1MQJ-de BRIKSMAX Led Beleuchtungsset für Lego Ideas TRON Legacy...'
 sku: 'B07TVP1MQJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

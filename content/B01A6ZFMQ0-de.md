@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A6ZFMQ0-de ONLY Damen Hose Einfarbige L34Black'
 sku: 'B01A6ZFMQ0-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

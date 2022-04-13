@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFRP9VE-de Living Nostalgia Utensilienhalter Metall Blau'
 sku: 'B00JFRP9VE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

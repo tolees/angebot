@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJHVZDQ-de Playstation Digital Wecker LCD | PS4 Dualshock Controller...'
 sku: 'B07MJHVZDQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

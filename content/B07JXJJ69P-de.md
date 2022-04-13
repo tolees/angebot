@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXJJ69P-de Playmobil 70042 Dragons Raffnuss und Taffnuss mit...'
 sku: 'B07JXJJ69P-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016XVRUKC-de VERO MODA Damen VMMAXI My SS Soft U-Neck NOOS T-Shirt...'
 sku: 'B016XVRUKC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

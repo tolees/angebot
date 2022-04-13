@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFRNBUU-de Kitchen Craft Kuchenbox Aufschrift "Cake" kuppelförmig aus...'
 sku: 'B00JFRNBUU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.05 EUR
 currency: EUR
 price: 29.05

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNBM8TJ-de GHT HDMI KVM Switch USB 2 Port Umschalter 4K 4K @ 30Hz 2...'
 sku: 'B07MNBM8TJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

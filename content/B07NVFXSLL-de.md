@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVFXSLL-de CRYSTAL ART Crystal Card Kits 18x18cm Mulitcolor 18x18'
 sku: 'B07NVFXSLL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

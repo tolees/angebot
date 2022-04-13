@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XZS7PYN-de Kingwin Damen - Titan Farblos blau Opale'
 sku: 'B06XZS7PYN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

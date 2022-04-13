@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q87SZ8H-de Samsung Galaxy Tab A T515N 25 54 cm 10 1 Zoll Tablet-PC 1...'
 sku: 'B07Q87SZ8H-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

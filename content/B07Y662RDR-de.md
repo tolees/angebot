@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y662RDR-de Spieland Custom Waffen Set für Mini Figuren Soldaten SWAT...'
 sku: 'B07Y662RDR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

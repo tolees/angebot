@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MG9N4W8-de BRUBAKER Cosmetics Bade- und Pflegeset Cranberry im...'
 sku: 'B01MG9N4W8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

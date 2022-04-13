@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XBZN1GW-de Panasonic DMR-UBS90EGK Ultra HD Blu-ray Recorder 2TB HDD...'
 sku: 'B06XBZN1GW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 440.0 EUR
 currency: EUR
 price: 440.0

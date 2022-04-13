@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0043YKXUG-de Mattel Games V9364 - UNO Extreme Kartenspiel geeignet für...'
 sku: 'B0043YKXUG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 28.46 EUR
 currency: EUR
 price: 28.46

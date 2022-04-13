@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R7GR2EM-de WOLF-Garten - Rasen-Langzeitdünger »Premium« 120 Tage LE...'
 sku: 'B00R7GR2EM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 27.7 EUR
 currency: EUR
 price: 27.7

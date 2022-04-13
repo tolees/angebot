@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNB3ZJJ-de Tommy Hilfiger Herren Analoger Quarz Uhr mit Edelstahl...'
 sku: 'B07YNB3ZJJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 116.56 EUR
 currency: EUR
 price: 116.56

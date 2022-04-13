@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BT6GFK1-de ZIMZIM Multi-Tool Taschenmesser 5 in 1 Multifunktions-...'
 sku: 'B07BT6GFK1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

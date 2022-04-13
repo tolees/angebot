@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6XL3VN-de Souarts Ring Damen Schmuck Silber Rosegold Farbe Edelstahl...'
 sku: 'B07P6XL3VN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08WWKYKT9-de LEGO 75314 Star Wars Angriffsshuttle aus The Bad Batch...'
 sku: 'B08WWKYKT9-de'
-tags: [ 'Actionfiguren für Kinder','Spielzeug','Spielzeugfiguren & Spielsets','lego', ]
+tags: [ 'Actionfiguren für Kinder','Spielzeug','Spielzeugfiguren & Spielsets','de','lego', ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das LEGO-Star-Wars-Set enthält außerdem einen Speeder mit 2 Shootern und einen weiteren Speeder mit Clip für einen Blaster und noch mehr Spielmöglichkeiten
-- Das detailreiche Star-Wars-LEGO-Spielzeug ist eine LEGO-Stein-Version eines Angriffsshuttles mit verstellbaren Flügen aus Star Wars: The Bad Batch
 - Inklusive 5 LEGO-Star-Wars-Minifiguren (neu ab August 2021) – Tech, Echo, Hunter, Wrecker und Crosshair von den Bad-Batch-Klonen mit ausgewählten Waffen
+- Das LEGO-Star-Wars-Set enthält außerdem einen Speeder mit 2 Shootern und einen weiteren Speeder mit Clip für einen Blaster und noch mehr Spielmöglichkeiten
 - Das Spielzeug hat verstellbare Flügel für Lande- und Flugmodus sowie eine Heckkabine mit Platz für 2 Minifiguren und Waffen
+- Das detailreiche Star-Wars-LEGO-Spielzeug ist eine LEGO-Stein-Version eines Angriffsshuttles mit verstellbaren Flügen aus Star Wars: The Bad Batch
 - Es enthält 2 Shooter und eine hochklappbare Rückflosse für Zugang zum LEGO-Minifiguren-Zweiercockpit und zur detailreichen Kabine
 
 [🛒 Hier!!]({{< param buyurl >}})

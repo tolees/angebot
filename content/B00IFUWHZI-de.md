@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IFUWHZI-de Philips TX1BK/00 In-Ear Kopfhörer mit Mikrofon schwarz'
 sku: 'B00IFUWHZI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

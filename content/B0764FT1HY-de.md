@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0764FT1HY-de Neato Robotics D7 Intelligenter Saugroboter - Premium...'
 sku: 'B0764FT1HY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 419.82 EUR
 currency: EUR
 price: 419.82

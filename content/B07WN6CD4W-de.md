@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WN6CD4W-de Vige 25 Pares Herramienta de reparación de almohadillas de...'
 sku: 'B07WN6CD4W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

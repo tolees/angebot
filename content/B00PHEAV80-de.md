@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PHEAV80-de caseable Kindle und Kindle Paperwhite Hülle Pass this on'
 sku: 'B00PHEAV80-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

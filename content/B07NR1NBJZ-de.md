@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NR1NBJZ-de Eichhorn 109475850 - Schienenbahn Set Porsche Racing...'
 sku: 'B07NR1NBJZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 41.46 EUR
 currency: EUR
 price: 41.46

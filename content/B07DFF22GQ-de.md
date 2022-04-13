@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFF22GQ-de Funko 34910 Game of Thrones: Ghost POP Schlüsselanhänger...'
 sku: 'B07DFF22GQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071XD33FK-de Funko 22613 Actionfigur Games: Horizon Zero Dawn: Watcher...'
 sku: 'B071XD33FK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

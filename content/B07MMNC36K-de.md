@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMNC36K-de GANT Herren ORIGINAL Barstripe Heavy Rugger Poloshirt Rot...'
 sku: 'B07MMNC36K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

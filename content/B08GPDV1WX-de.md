@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPDV1WX-de Socken Herren Damen 6 Paar Wandersocken Baumwolle...'
 sku: 'B08GPDV1WX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFB4YFF-de Lightess 4er LED Unterbauleuchte Schrankbeleuchtung...'
 sku: 'B07GFB4YFF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

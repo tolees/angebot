@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRD58S-de Sylvanian Families 4333 - Der Neuankömmling'
 sku: 'B00HRRD58S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.94 EUR
 currency: EUR
 price: 14.94

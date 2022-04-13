@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000W2IBRK-de WMF Safari Kinderbesteck 4-teilig ab 3 Jahren Cromargan...'
 sku: 'B000W2IBRK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

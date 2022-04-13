@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8RYPCM-de infactory Spielbaustein-Klebeband: Selbstklebendes...'
 sku: 'B07K8RYPCM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

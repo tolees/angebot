@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SFJTCX-de TZAMLI 10-Tier Schuhregal über der Tür Shoe Organizer...'
 sku: 'B083SFJTCX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

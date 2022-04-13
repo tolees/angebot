@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BTFE6R8-de Castrol EDGE 0W-30 Motorenöl 5L'
 sku: 'B00BTFE6R8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001VFY7MU-de Maladjusted Expanded Edition'
 sku: 'B001VFY7MU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

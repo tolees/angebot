@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMQZ8XD-de SAWAKE Handventilator mini Ventilator mit Handyhalter...'
 sku: 'B07PMQZ8XD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

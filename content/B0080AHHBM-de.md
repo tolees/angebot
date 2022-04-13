@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0080AHHBM-de B. Toys 44123 - Wheeeee-Is Kinderauto'
 sku: 'B0080AHHBM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

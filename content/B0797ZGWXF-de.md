@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797ZGWXF-de Sylvanian Families 6013 Town Series 6013-Fashion...'
 sku: 'B0797ZGWXF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

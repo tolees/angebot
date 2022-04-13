@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0766CKZBJ-de PLAYMOBIL Dinos 9432 Forschermobil mit Stegosaurus und...'
 sku: 'B0766CKZBJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

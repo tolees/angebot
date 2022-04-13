@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRCBJN4-de Kipling Damen Osyka Umhängetasche Pink Metallic Rose Gift...'
 sku: 'B07PRCBJN4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

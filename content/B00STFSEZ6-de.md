@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00STFSEZ6-de Gift Company - Tang - Schmuckkasten Schmuckbox...'
 sku: 'B00STFSEZ6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 215.0 EUR
 currency: EUR
 price: 215.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ARYJ9NC-de Einhell Kompressor TC-AC 190/24/8 max. 8 bar 24 l-Tank...'
 sku: 'B01ARYJ9NC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

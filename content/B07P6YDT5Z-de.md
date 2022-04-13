@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6YDT5Z-de Krups XN304T Kaffeemaschine Freistehende Espressomaschine...'
 sku: 'B07P6YDT5Z-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

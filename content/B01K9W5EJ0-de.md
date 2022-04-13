@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K9W5EJ0-de Garmin Forerunner 35 GPS-Laufuhr Herzfrequenzmessung am...'
 sku: 'B01K9W5EJ0-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 121.14 EUR
 currency: EUR
 price: 121.14

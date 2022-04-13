@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0X50CZ-de Mpow Bluetooth Headset Wireless Headset Auto Stereo Sound...'
 sku: 'B01M0X50CZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

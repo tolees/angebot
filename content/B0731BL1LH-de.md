@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0731BL1LH-de Champion Herren Classic Logo Sweatshirt Grau S'
 sku: 'B0731BL1LH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 33.77 EUR
 currency: EUR
 price: 33.77

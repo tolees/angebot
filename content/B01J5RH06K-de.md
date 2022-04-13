@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J5RH06K-de SanDisk Extreme PRO 128 GB SDXC Speicherkarte bis zu 95...'
 sku: 'B01J5RH06K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

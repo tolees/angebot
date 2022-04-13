@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5SKCRQ-de Vtech 80-520904 Switch & Go Dinos - Stegosaurus...'
 sku: 'B07P5SKCRQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

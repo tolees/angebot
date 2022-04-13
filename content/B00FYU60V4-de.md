@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FYU60V4-de Lindt Lindor Schokoladenkugeln Auswahl glutenfrei – ca. 80...'
 sku: 'B00FYU60V4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

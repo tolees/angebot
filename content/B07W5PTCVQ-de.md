@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5PTCVQ-de OneOdio Active Noise Cancelling Kopfhörer ANC 40 Stunden...'
 sku: 'B07W5PTCVQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

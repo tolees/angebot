@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCVSFJX-de Bosch Professional 18V System Akku Bohrhammer GBH 18V-20...'
 sku: 'B07XCVSFJX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 204.99 EUR
 currency: EUR
 price: 204.99

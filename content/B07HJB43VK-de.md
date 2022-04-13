@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJB43VK-de Funko 34215 Rick & Morty: Tiny Rick w/Guitar Exc POP...'
 sku: 'B07HJB43VK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.72 EUR
 currency: EUR
 price: 7.72

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004U7JYS8-de Fujifilm Instax Mini Instant Film 1x 10 Blatt 10 Blatt Weiß'
 sku: 'B004U7JYS8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

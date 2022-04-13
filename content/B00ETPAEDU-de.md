@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ETPAEDU-de Logitech G602 Wireless Gaming Maus 2500 DPI Sensor 11...'
 sku: 'B00ETPAEDU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

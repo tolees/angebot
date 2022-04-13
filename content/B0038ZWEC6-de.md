@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0038ZWEC6-de fischertechnik - 508775 ADVANCED Super Fun Park...'
 sku: 'B0038ZWEC6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

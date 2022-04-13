@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD917MR-de OMEN 17-cb0211ng 17 3 Zoll / FHD IPS 144Hz Gaming Laptop...'
 sku: 'B07SD917MR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 545.0 EUR
 currency: EUR
 price: 545.0

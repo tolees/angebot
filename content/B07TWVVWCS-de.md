@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWVVWCS-de Staubsauger Roboter 1800 Pa WLAN Saugroboter mit Hohe...'
 sku: 'B07TWVVWCS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

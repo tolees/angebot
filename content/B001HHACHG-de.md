@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001HHACHG-de Leifheit Wandrollenhalter Parat ComfortLine-Serie für 3...'
 sku: 'B001HHACHG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

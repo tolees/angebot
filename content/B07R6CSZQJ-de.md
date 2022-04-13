@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6CSZQJ-de SUADEEX Sicherheitsschuhe Herren Damen Arbeitsschuhe S3...'
 sku: 'B07R6CSZQJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.25 EUR
 currency: EUR
 price: 32.25

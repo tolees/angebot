@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0ABPKP-de RITUALS The Ritual of Sakura AntitranspirantSpray 150 ml'
 sku: 'B01M0ABPKP-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

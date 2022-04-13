@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWQ8Z5G-de Live At Rockpalast'
 sku: 'B06XWQ8Z5G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

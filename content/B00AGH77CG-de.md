@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AGH77CG-de Dometic DEFA A430061 Termini 2100 Innenraumheizung 2100 Watt'
 sku: 'B00AGH77CG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

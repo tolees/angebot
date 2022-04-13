@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001E3QOC-de Gardena Raseneinfassung 20 cm hoch: Ideale Rasen-...'
 sku: 'B0001E3QOC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

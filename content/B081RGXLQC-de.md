@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RGXLQC-de ELEGIANT Bluetooth Kopfhörer kabellos in Ear Ohrhörer...'
 sku: 'B081RGXLQC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

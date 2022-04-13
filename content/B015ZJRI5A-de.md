@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015ZJRI5A-de The Fall - Tod in Belfast - die komplette Staffel 1 [2...'
 sku: 'B015ZJRI5A-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L1HAYUW-de Exquisit KS 85-9 RVA+ Kühlschrank/ 82 Liter Nutzinhalt/...'
 sku: 'B00L1HAYUW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

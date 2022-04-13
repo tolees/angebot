@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWCYWM1-de Gardena Textilschlauch Liano Set 30m: flexibler und...'
 sku: 'B07KWCYWM1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 56.77 EUR
 currency: EUR
 price: 56.77

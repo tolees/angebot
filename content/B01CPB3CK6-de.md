@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CPB3CK6-de Tomorrow`s Kitchen bislang Vacu Vin 46703606...'
 sku: 'B01CPB3CK6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

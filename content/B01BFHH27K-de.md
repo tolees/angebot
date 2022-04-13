@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BFHH27K-de Brother Original Tonerkassette TN-3480 schwarz für Brother...'
 sku: 'B01BFHH27K-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 116.22 EUR
 currency: EUR
 price: 116.22

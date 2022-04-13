@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THGWS4M-de LIGHTAILING Licht-Set Für Technic Porsche 911 RSR Modell -...'
 sku: 'B07THGWS4M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFCXD1H-de Funko 30697 Full Metal Alchemist: Ed POP Vinylfigur Multi'
 sku: 'B07DFCXD1H-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

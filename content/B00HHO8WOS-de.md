@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HHO8WOS-de Flashpoint - Das Spezialkommando: Die komplette Serie [24...'
 sku: 'B00HHO8WOS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

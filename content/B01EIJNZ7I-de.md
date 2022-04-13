@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EIJNZ7I-de Rieker Herren B1340 Desert Boots Braun nuss/river/22 41'
 sku: 'B01EIJNZ7I-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

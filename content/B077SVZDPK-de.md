@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SVZDPK-de Kopp 939633016 VersaHIT Dual Einbausteckdose 16A IP54 3400...'
 sku: 'B077SVZDPK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 41.54 EUR
 currency: EUR
 price: 41.54

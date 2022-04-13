@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTQDFQ1-de Tommy Hilfiger Armbanduhr 1710382'
 sku: 'B07KTQDFQ1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 127.7 EUR
 currency: EUR
 price: 127.7

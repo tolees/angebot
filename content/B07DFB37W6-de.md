@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFB37W6-de Funko POP 1 Piece Donquixote DOFLAMI'
 sku: 'B07DFB37W6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.42 EUR
 currency: EUR
 price: 10.42

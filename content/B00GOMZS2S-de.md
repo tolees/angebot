@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GOMZS2S-de Grundig MS 6240 Herrenrasierer'
 sku: 'B00GOMZS2S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

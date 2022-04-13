@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQ55NPI-de Pokémon GO Plus'
 sku: 'B01HQ55NPI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

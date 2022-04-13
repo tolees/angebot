@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7DYK2F-de Delinuo Bluetooth Kopfhörer Kabellos mit 6000mAh Batterie...'
 sku: 'B07S7DYK2F-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRCX7C-de EPOCH Traumwiesen 5033 Sylvanian Families Esszimmer-Set'
 sku: 'B00HRRCX7C-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.2 EUR
 currency: EUR
 price: 24.2

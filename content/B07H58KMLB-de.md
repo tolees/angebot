@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H58KMLB-de Garmin Instinct – wasserdichte Sport-Smartwatch mit...'
 sku: 'B07H58KMLB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

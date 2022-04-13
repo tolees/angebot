@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHS6PK9-de Rollei Vintage Fototasche / Everyday Messenger Bag /...'
 sku: 'B07HHS6PK9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

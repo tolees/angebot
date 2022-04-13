@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9Z6CCV-de GIANAC USB Typ C Kabel [4Pack 0.3M 1M 2M 3M ] 3A USB C...'
 sku: 'B07L9Z6CCV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

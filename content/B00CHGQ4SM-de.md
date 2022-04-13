@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CHGQ4SM-de Microsoft Sculpt Comfort Mouse Maus schwarz ergonomisch...'
 sku: 'B00CHGQ4SM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

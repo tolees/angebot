@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYL2K34-de Toyuugo Heizlüfter Keramik Heizstrahler 950W / 450W / 30W...'
 sku: 'B07GYL2K34-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

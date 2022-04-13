@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AXZCUU-de We Get Requests Verve Originals Serie'
 sku: 'B000AXZCUU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

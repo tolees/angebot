@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PQ7T6B-de Funko Pop Marvel: Avengers Infinity War - Thanos...'
 sku: 'B079PQ7T6B-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

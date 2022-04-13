@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0042FGPXU-de Urban Classics TB207 Herren Jacke Bekleidung 2 Tone...'
 sku: 'B0042FGPXU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

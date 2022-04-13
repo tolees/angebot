@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9PTX3L-de Mr Muscle Drano Power Rohrreiniger Gel Abflussreiniger...'
 sku: 'B07P9PTX3L-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1.4 EUR
 currency: EUR
 price: 1.4

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YKRT63-de Funko 26992 Actionfigur Star Wars Red Cup - Pop 16'
 sku: 'B079YKRT63-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

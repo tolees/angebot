@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HXTLSHO-de BIO Ahornsirup Grad A Dark Robust taste - 1 Liter 1 320 Kg...'
 sku: 'B01HXTLSHO-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.14 EUR
 currency: EUR
 price: 17.14

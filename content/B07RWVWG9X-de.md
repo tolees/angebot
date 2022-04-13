@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWVWG9X-de USB Stick 64GB EIVOTOR Memory Stick USB 3.0 Flash Drive...'
 sku: 'B07RWVWG9X-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

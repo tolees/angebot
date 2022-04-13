@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FRFRXV-de ONLY Damen Langarmshirt Onlelcos 4/5 Solid Top Jrs Noos...'
 sku: 'B072FRFRXV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.65 EUR
 currency: EUR
 price: 11.65

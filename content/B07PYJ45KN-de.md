@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYJ45KN-de Hellboy – Call of Darkness BD Ltd. Steelbook [Blu-ray]'
 sku: 'B07PYJ45KN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.3 EUR
 currency: EUR
 price: 10.3

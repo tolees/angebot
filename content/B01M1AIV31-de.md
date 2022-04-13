@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1AIV31-de Parker IM Füller | schwarze Lackierung mit Chromzierteilen...'
 sku: 'B01M1AIV31-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

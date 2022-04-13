@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NHDMKM-de Bluetooth Kopfhörer In Ear Kopfhörer Kabellos mit 125...'
 sku: 'B083NHDMKM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

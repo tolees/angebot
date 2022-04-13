@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWKMKK1-de Mattel GFB55 - Disney Pixar Toy Story 4 Stunt...'
 sku: 'B07FWKMKK1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

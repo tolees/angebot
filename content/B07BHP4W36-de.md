@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHP4W36-de Soundcore Flare Tragbarer & Kompakter Bluetooth...'
 sku: 'B07BHP4W36-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

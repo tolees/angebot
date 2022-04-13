@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IAOLFCA-de Casio Collection Herren Armbanduhr AE-1300WH-2AVEF'
 sku: 'B00IAOLFCA-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

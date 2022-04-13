@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JYR44NS-de Parrot 3520410038808 Minidrone Swing mit Flypad schwarz'
 sku: 'B01JYR44NS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

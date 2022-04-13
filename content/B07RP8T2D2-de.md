@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP8T2D2-de Oral-B Genius X Luxe Edition Elektrische Zahnbürste mit...'
 sku: 'B07RP8T2D2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 166.47 EUR
 currency: EUR
 price: 166.47

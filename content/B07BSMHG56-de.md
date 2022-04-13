@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSMHG56-de Pans Labyrinth - Ultimate Edition Blu-ray + CD-Soundtrack...'
 sku: 'B07BSMHG56-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 44.2 EUR
 currency: EUR
 price: 44.2

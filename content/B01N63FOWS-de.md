@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N63FOWS-de Swarovski Damen-Kette mit Anhänger SWAN Lake Edelstahl...'
 sku: 'B01N63FOWS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 98.7 EUR
 currency: EUR
 price: 98.7

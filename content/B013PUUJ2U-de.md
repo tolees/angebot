@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013PUUJ2U-de SET-ERGÄNZUNG - Gigaset Lichtschalter - manueller...'
 sku: 'B013PUUJ2U-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

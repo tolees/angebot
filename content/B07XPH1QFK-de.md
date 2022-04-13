@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPH1QFK-de Apple AIRPODS 1 & 2 kompatibel CASE Off ANHÄNGER White...'
 sku: 'B07XPH1QFK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z8MD4SC-de Exzenterschleifer 300W Meterk Schleifmaschine holz mit...'
 sku: 'B07Z8MD4SC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7P1Y9V-de Dragon Touch Action Cam 4K Action Kamera 20MP EIS Anti-...'
 sku: 'B07W7P1Y9V-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 26.73 EUR
 currency: EUR
 price: 26.73

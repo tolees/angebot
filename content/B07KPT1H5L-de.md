@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPT1H5L-de Funko POP Sock HOP Betty BOOP & PUDG'
 sku: 'B07KPT1H5L-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

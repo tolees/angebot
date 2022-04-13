@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R4MLSX2-de ORICO Aluminium M.2 NVMe SSD Gehäuse Ultraflacher M-Key...'
 sku: 'B07R4MLSX2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

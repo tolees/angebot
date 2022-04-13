@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QOKYCU-de Yankee Candle Duftkerze im großen Jar Cinnamon Stick...'
 sku: 'B004QOKYCU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

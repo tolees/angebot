@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHPD870-de Belkin Metallic Lightning-/USB iPhone Ladekabel geeignet...'
 sku: 'B00KHPD870-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

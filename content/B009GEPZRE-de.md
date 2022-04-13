@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009GEPZRE-de 1602 16x2 Zeichen LCD Display Modul HD44780 blau mit...'
 sku: 'B009GEPZRE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

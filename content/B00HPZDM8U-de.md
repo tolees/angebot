@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HPZDM8U-de PUMA Unisex-Erwachsene Basket Classic LFS Sneakers white-...'
 sku: 'B00HPZDM8U-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

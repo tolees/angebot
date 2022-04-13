@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N3X9P7F-de Sony Alpha 6000 Systemkamera 24 Megapixel 7 6 cm 3" LCD-...'
 sku: 'B01N3X9P7F-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 332.0 EUR
 currency: EUR
 price: 332.0

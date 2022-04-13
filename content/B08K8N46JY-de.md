@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K8N46JY-de Bluetooth Kopfhörer Ajcoflt Wireless Noise Cancelling...'
 sku: 'B08K8N46JY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

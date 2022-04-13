@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HSVR5D-de DXX Technik Bausteine Liebherr Kran LTM11200 7692Teile...'
 sku: 'B083HSVR5D-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 629.99 EUR
 currency: EUR
 price: 629.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX4ZC9H-de Playmobil 9224 - Spengler und Geist'
 sku: 'B01LX4ZC9H-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

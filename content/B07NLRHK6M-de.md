@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLRHK6M-de Huawei P30 128GB Handy hellblau/Lavendel Breathing Crystal...'
 sku: 'B07NLRHK6M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 289.9 EUR
 currency: EUR
 price: 289.9

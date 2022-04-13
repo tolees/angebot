@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZZWT9G-de ONLY NOS Damen Onlroyal Hw Sk White Noos Skinny Jeans Weiß...'
 sku: 'B07NZZWT9G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 22.21 EUR
 currency: EUR
 price: 22.21

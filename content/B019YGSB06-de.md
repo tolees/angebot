@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019YGSB06-de Ravensburger Spiele 24721 - Spielend Erstes Lernen: Komm...'
 sku: 'B019YGSB06-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009TR6SF6-de Tablet Kissen - ideal passend zu Samsung Tab Apple iPad...'
 sku: 'B009TR6SF6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

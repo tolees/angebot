@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CSQ71G-de Eichhorn buntes Spielcenter Motorikwürfel mit...'
 sku: 'B000CSQ71G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

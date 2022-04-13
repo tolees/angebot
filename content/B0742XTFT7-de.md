@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0742XTFT7-de Pegasus Spiele 57104G - Kingdomino Spiel des Jahres 2017'
 sku: 'B0742XTFT7-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.28 EUR
 currency: EUR
 price: 11.28

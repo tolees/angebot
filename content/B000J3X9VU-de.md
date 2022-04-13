@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000J3X9VU-de Waterman S0110720 Füllfederhaltertinte im 50 ml Tintenfass...'
 sku: 'B000J3X9VU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.93 EUR
 currency: EUR
 price: 4.93

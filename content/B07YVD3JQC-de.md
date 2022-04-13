@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVD3JQC-de SGODDE Handwärmer Powerbank 7800mAh USB Wiederaufladbare 2...'
 sku: 'B07YVD3JQC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

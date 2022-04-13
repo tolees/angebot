@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWQYC83-de Park Tool Unisex – Erwachsene cm-5.3 Kettenreinigungsgerät...'
 sku: 'B07YWQYC83-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 21.79 EUR
 currency: EUR
 price: 21.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0794SNF6C-de Fire HD 8 Kids Edition-Tablet 8-Zoll-HD-Display 32 GB...'
 sku: 'B0794SNF6C-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

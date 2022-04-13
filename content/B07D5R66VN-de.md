@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5R66VN-de FullBerg Nagellack Regal mit 3 Metall Ablagen als...'
 sku: 'B07D5R66VN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

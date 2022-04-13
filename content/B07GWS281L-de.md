@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWS281L-de Suunto 9 Unisex Multisport-GPS-Uhr Über 25h...'
 sku: 'B07GWS281L-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 236.99 EUR
 currency: EUR
 price: 236.99

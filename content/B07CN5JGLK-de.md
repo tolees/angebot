@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN5JGLK-de GEDORE red Steckschlüsselsatz 94-teilig Mit...'
 sku: 'B07CN5JGLK-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

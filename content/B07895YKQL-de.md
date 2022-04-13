@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07895YKQL-de Sharplace 3 Paar Annähen Oval Ellenbogen/Knie Patches...'
 sku: 'B07895YKQL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

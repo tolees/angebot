@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BHW0MO4-de Remington Epilierer smooth&silky EP7010 Anti-Rutsch-...'
 sku: 'B00BHW0MO4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

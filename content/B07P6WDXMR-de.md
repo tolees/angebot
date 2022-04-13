@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6WDXMR-de Sylvanian Families 5367 Gourmet Kitchen Set Mehrfarbig'
 sku: 'B07P6WDXMR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074LJ4JRG-de MacBook Schraubendreher Reparatur Werkzeug Set mit...'
 sku: 'B074LJ4JRG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 16.78 EUR
 currency: EUR
 price: 16.78

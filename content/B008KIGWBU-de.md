@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008KIGWBU-de NESCAFÉ Dolce Gusto Latte Macchiato Caramel | 48...'
 sku: 'B008KIGWBU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

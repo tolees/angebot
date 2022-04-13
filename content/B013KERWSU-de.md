@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013KERWSU-de Unbekannt Creative Converting 5 Dizzy Danglers Sortiert...'
 sku: 'B013KERWSU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

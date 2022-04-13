@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792RGBRY-de LEGO Phantastische Tierwesen: Grindelwalds Verbrechen -...'
 sku: 'B0792RGBRY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 25 EUR
 currency: EUR
 price: 25

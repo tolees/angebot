@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019U4YGWE-de Triumph Damen Halbschalen BH Body Make-Up Essent WHP...'
 sku: 'B019U4YGWE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

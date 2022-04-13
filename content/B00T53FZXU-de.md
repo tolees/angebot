@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T53FZXU-de Panasonic LUMIX DMC-SZ10EG-S Style-Kompakt Digitalkamera...'
 sku: 'B00T53FZXU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 83.85 EUR
 currency: EUR
 price: 83.85

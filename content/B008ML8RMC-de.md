@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ML8RMC-de The Dark Knight Rises [Blu-ray]'
 sku: 'B008ML8RMC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.27 EUR
 currency: EUR
 price: 4.27

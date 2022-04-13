@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLBQWPZ-de Third Degree CD Digipak'
 sku: 'B07WLBQWPZ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

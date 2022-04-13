@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00006JAXW-de Hama Universal-Drehteller 360° drehbar Drehscheibe...'
 sku: 'B00006JAXW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

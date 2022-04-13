@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081QK6CXV-de REHYPE Herren Longsleeve Oversize Langarm T-Shirt O-Neck...'
 sku: 'B081QK6CXV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJOBNI-de Pentel Correction Pen/ZLC31-WG fein weiß'
 sku: 'B000KJOBNI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 3.73 EUR
 currency: EUR
 price: 3.73

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005LOKVZY-de Jil Sander Eve femme / woman Eau de Toilette Vaporisateur...'
 sku: 'B005LOKVZY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

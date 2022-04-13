@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XZRDX4M-de Kingwin Damen - Titan blau Opale'
 sku: 'B06XZRDX4M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

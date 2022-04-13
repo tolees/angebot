@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHMDF8D-de Huawei Watch GT Active Smartwatch 46 mm Amoled Touchscreen...'
 sku: 'B07PHMDF8D-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 114.58 EUR
 currency: EUR
 price: 114.58

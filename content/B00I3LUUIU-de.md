@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3LUUIU-de Sony MDR-EX110APB In-Ear-Kopfhörer schwarz'
 sku: 'B00I3LUUIU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

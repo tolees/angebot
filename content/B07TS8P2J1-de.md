@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TS8P2J1-de Pop Fantastic Four Mister Fantastic Vinyl Figure'
 sku: 'B07TS8P2J1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.82 EUR
 currency: EUR
 price: 8.82

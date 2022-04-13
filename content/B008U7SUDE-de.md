@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008U7SUDE-de Whisky Ardbeg Islay Single Malt 10 Jahre in...'
 sku: 'B008U7SUDE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 38.71 EUR
 currency: EUR
 price: 38.71

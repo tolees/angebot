@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009SXDZZM-de Kamerahalter Halter Halterung Eye Stand für PS3 Kamera'
 sku: 'B009SXDZZM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.21 EUR
 currency: EUR
 price: 2.21

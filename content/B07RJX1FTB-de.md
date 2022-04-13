@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJX1FTB-de Philips Ambilight 55PUS6814/12 139 cm 55 Zoll Smart TV mit...'
 sku: 'B07RJX1FTB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

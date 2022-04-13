@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CBXX9XQ-de SmartQian 9/10 Paar Sneaker Socken Herren Damen...'
 sku: 'B08CBXX9XQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

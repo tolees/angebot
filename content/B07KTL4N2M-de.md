@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTL4N2M-de Columbia Street Elite Rucksack Grau Cool Grey'
 sku: 'B07KTL4N2M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 60.94 EUR
 currency: EUR
 price: 60.94

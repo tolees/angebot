@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKT2NXR-de Güde 02882 Automatik Schlauchtrommel 15M 12 Bar max....'
 sku: 'B07FKT2NXR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

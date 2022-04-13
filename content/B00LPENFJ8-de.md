@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPENFJ8-de Guardians Of the Galaxy Legends Iron Man Figure Standard'
 sku: 'B00LPENFJ8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.3 EUR
 currency: EUR
 price: 18.3

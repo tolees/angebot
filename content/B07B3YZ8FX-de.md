@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3YZ8FX-de V-Bag movetrack by Vodafone - GPS Tracker...'
 sku: 'B07B3YZ8FX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

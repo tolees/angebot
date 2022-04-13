@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725SK4ZH-de SALOMON Herren X Ultra 3 Mid GTX Trekking- & Wanderstiefel...'
 sku: 'B0725SK4ZH-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

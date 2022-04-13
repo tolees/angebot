@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9FJNTW-de Fire HD 10-Tablet 1080p Full HD-Display 64 GB Schwarz mit...'
 sku: 'B01N9FJNTW-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 92.6 EUR
 currency: EUR
 price: 92.6

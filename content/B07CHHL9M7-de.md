@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHHL9M7-de Habor Küchenthermometer Bratenthermometer Digital...'
 sku: 'B07CHHL9M7-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

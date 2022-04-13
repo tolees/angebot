@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCDHTB5-de EVERSEE Bluetooth Mütze Geschenke für Männer & Frauen...'
 sku: 'B07VCDHTB5-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT3KM5W-de SZMDLX Bluetooth Adapter Transmitter und Empfänger 3 in 1...'
 sku: 'B07TT3KM5W-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

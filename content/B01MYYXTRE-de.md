@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYYXTRE-de MEDION Küchenmaschine mit Kochfunktion 1000 Watt Leistung...'
 sku: 'B01MYYXTRE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

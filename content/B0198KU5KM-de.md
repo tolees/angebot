@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0198KU5KM-de Naruto Naruto Vinyl Figure 71 Sammelfigur Standard'
 sku: 'B0198KU5KM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

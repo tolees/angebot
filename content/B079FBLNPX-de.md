@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FBLNPX-de Tristar VE-5894 Ventilateur Standventilator-Durchmesser...'
 sku: 'B079FBLNPX-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

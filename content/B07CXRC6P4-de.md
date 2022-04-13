@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXRC6P4-de Ela Mo’s Rucksack Damen | Schön und Durchdacht | für Uni...'
 sku: 'B07CXRC6P4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

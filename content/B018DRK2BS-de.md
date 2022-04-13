@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018DRK2BS-de Kunzer 7SS172 Steckschlüsselsatz 1/4" - 3/8" - 1/2"...'
 sku: 'B018DRK2BS-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 99.1 EUR
 currency: EUR
 price: 99.1

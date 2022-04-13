@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019VM3F2M-de Fitbit Unisex Fitness Uhr Blaze Schwarz S'
 sku: 'B019VM3F2M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 93.95 EUR
 currency: EUR
 price: 93.95

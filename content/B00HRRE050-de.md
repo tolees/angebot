@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HRRE050-de Sylvanian Families 5052 Supermarkt-Besitzer'
 sku: 'B00HRRE050-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DRTPVC-de LionSteel M4 Santos Taschenmesser Braun Klingenlänge: 9 5...'
 sku: 'B075DRTPVC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 135.68 EUR
 currency: EUR
 price: 135.68

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T6KW9HV-de COOLJOY Magnetische Bausteine 117 Stück Magnet Baustein...'
 sku: 'B07T6KW9HV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

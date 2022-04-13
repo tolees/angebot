@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GT4D6DY-de Sony SRS-XB01 tragbarer Bluetooth Lautsprecher Extra Bass...'
 sku: 'B07GT4D6DY-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

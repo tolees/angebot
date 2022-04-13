@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJL3JH7-de Jabra Elite 65t True Wireless Bluetooth In-Ear Kopfhörer...'
 sku: 'B07DJL3JH7-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

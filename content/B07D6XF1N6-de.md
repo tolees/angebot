@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6XF1N6-de Microsoft Surface Laptop 34 29 cm 13 5 Zoll Intel Core M3...'
 sku: 'B07D6XF1N6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 749.0 EUR
 currency: EUR
 price: 749.0

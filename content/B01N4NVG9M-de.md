@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4NVG9M-de Crucial Ballistix Sport LT BLS8G4D26BFSCK Desktop Gaming...'
 sku: 'B01N4NVG9M-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 28.7 EUR
 currency: EUR
 price: 28.7

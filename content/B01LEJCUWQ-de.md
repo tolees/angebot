@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LEJCUWQ-de Funko 11411 POP Vinylfigur: Dishonored 2: Emily'
 sku: 'B01LEJCUWQ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

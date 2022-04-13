@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F3P72JT-de DARLINGTON & Sohns Blauer Controller für Nintendo 64 N64...'
 sku: 'B08F3P72JT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

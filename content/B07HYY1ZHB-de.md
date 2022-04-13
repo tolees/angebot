@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HYY1ZHB-de Nordcap Herren Thermohose Funktionelle Wintersport-Hose in...'
 sku: 'B07HYY1ZHB-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

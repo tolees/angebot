@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4Q1W3J-de moto g7 plus Dual-SIM Smartphone 6 2 Zoll Display 16-MP-...'
 sku: 'B07N4Q1W3J-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

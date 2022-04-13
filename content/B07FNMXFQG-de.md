@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNMXFQG-de Lego 41364 Friends Stephanies Cabrio mit Anhänger bunt'
 sku: 'B07FNMXFQG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

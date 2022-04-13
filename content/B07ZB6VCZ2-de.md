@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZB6VCZ2-de CMaster Roboter STEM Spielzeug 576 Stück Konstruktions...'
 sku: 'B07ZB6VCZ2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

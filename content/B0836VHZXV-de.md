@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0836VHZXV-de TEECY Kartenetui Neue Kreditkartentasche Kartenetui mit...'
 sku: 'B0836VHZXV-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

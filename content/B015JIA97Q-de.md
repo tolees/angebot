@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015JIA97Q-de Polaroid Digitale Instant Snap Kamera mit ZINK Zero Ink...'
 sku: 'B015JIA97Q-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 99.45 EUR
 currency: EUR
 price: 99.45

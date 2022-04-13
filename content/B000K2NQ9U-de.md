@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000K2NQ9U-de Mannesmann M10997 Zangensatz 4-teilig'
 sku: 'B000K2NQ9U-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

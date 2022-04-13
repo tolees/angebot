@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004ASOQE4-de Jane s Journey - Die Lebensreise der Jane Goodall'
 sku: 'B004ASOQE4-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

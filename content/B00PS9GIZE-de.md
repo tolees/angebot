@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PS9GIZE-de Ecomed HP-40E Heizkissen Super-Flausch Wärmekissen mit 3...'
 sku: 'B00PS9GIZE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

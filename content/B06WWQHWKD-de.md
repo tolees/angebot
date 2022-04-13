@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WWQHWKD-de Ravensburger 13698 - Magische Einhörner Puzzle'
 sku: 'B06WWQHWKD-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.38 EUR
 currency: EUR
 price: 8.38

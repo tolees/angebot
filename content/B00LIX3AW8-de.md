@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LIX3AW8-de 3 Sprouts Aufbewahrungskiste Elefant'
 sku: 'B00LIX3AW8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

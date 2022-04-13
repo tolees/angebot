@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZR6WHM-de Spieland Custom Battle Szene Set für Lego Mini Figuren...'
 sku: 'B07MZR6WHM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

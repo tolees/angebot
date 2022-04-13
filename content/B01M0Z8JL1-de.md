@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0Z8JL1-de HÖGL Pumps Boulevard 90 Red 4.5 0-189004'
 sku: 'B01M0Z8JL1-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 63.58 EUR
 currency: EUR
 price: 63.58

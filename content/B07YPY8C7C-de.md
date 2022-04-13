@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YPY8C7C-de JVC HA-A10T-BU Truly Wireless In-Ear Bluetooth Kopfhörer...'
 sku: 'B07YPY8C7C-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

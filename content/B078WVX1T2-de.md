@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WVX1T2-de Paco Home Designer Teppich Wohnzimmer Ausgefallen...'
 sku: 'B078WVX1T2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.52 EUR
 currency: EUR
 price: 29.52

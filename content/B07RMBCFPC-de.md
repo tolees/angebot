@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMBCFPC-de Funko 44823 POP TV: Game of Thrones-Crystal Night King...'
 sku: 'B07RMBCFPC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

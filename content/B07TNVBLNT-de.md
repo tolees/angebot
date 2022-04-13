@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNVBLNT-de Seagate Expansion Portable 5 TB tragbare externe...'
 sku: 'B07TNVBLNT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 96.5 EUR
 currency: EUR
 price: 96.5

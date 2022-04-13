@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFMKBYG-de Seiko Herren Analog Automatik Uhr mit Edelstahl Armband...'
 sku: 'B07DFMKBYG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 206.74 EUR
 currency: EUR
 price: 206.74

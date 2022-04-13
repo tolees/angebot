@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DDCWF9C-de ENACFIRE Bluetooth Kopfhörer E60 kabellos Ohrhörer mit...'
 sku: 'B08DDCWF9C-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

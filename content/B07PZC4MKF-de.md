@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZC4MKF-de ReliBeauty Mädchen Prinzessin ELSA Schneeflocke Süßer...'
 sku: 'B07PZC4MKF-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

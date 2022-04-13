@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002NUTSI-de Crosby Stills & Nash - Greatest Hits'
 sku: 'B0002NUTSI-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074SQG93Z-de devolo dLAN 1200+ WiFi ac Powerline Network Kit 1200...'
 sku: 'B074SQG93Z-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

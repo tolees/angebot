@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N273FXN-de Razer BlackWidow Elite - Premium Mechanical Full-Size...'
 sku: 'B07N273FXN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 108.2 EUR
 currency: EUR
 price: 108.2

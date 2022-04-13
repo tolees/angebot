@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4AQZKT-de Starboy 2lp [Vinyl LP]'
 sku: 'B01N4AQZKT-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

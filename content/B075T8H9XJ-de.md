@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T8H9XJ-de AUKEY Dashcam Dual 1080P Front und Rück Autokamera mit...'
 sku: 'B075T8H9XJ-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

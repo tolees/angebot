@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G5I4U7Y-de Alice im Wunderland: Hinter den Spiegeln'
 sku: 'B01G5I4U7Y-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

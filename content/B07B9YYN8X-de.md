@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9YYN8X-de Keter Kissenbox Ontario graphit'
 sku: 'B07B9YYN8X-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 187.99 EUR
 currency: EUR
 price: 187.99

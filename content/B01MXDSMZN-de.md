@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXDSMZN-de Büchel LED-Akkuleuchtenset 80 Lux Frontlampe: Vail + Akku-...'
 sku: 'B01MXDSMZN-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

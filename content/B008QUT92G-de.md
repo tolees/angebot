@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008QUT92G-de TAURO 22914 7 Zonen Lattenrost 90 x 200 cm Geeignet für...'
 sku: 'B008QUT92G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

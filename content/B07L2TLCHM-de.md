@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L2TLCHM-de MCleanPin 2 x 500ml Edelstahlbecher "Mr. Right & Mrs....'
 sku: 'B07L2TLCHM-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

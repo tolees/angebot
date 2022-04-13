@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009FTXJU-de Canon EW-73 B Gegenlichtblende für Canon Objektiv EF-S...'
 sku: 'B0009FTXJU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PZXQK6-de Jaybird Run Kabellose In-Ear Kopfhörer Bluetooth...'
 sku: 'B074PZXQK6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

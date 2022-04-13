@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HXFFQL-de Fisher-Price FPP53 - Lernspaß Hundefreundin Baby Spielzeug...'
 sku: 'B077HXFFQL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSBWS3G-de Holy Stone Mini Drohne HS170 RC Quadrocopter 2.4GHz...'
 sku: 'B06XSBWS3G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

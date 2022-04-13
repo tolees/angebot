@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNDHP8L-de Funko 44469 POP Towns 80th-Hall of Justice w/Batman...'
 sku: 'B07SNDHP8L-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 17.82 EUR
 currency: EUR
 price: 17.82

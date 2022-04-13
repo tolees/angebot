@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X7TJ2P2-de BRIKSMAX Led Beleuchtungsset für Lego Technic Mack Anthem...'
 sku: 'B07X7TJ2P2-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZ2R84T-de SHYNE Premium 1/2 Zoll Doppel-Wasserhahn aus Messing rost-...'
 sku: 'B07BZ2R84T-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

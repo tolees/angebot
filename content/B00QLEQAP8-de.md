@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QLEQAP8-de NuPro Displayschutzfolie für Kindle und Kindle Paperwhite...'
 sku: 'B00QLEQAP8-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

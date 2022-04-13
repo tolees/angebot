@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DL4XL94-de APEMAN Dashcam 1080P Full HD DVR Autokamera 3 Zoll LCD-...'
 sku: 'B07DL4XL94-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

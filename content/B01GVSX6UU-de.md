@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GVSX6UU-de Bungsa® E - Silberner Buchstaben Kristall Charm Anhänger...'
 sku: 'B01GVSX6UU-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

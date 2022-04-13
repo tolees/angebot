@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNSFQFR-de Seiko Herren Analog Automatik Uhr mit Leder Armband SSA383K1'
 sku: 'B07FNSFQFR-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 203.18 EUR
 currency: EUR
 price: 203.18

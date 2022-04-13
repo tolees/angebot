@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SSZ7BE-de MTV Unplugged'
 sku: 'B002SSZ7BE-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

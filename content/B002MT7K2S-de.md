@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002MT7K2S-de RABALUX Milano Wandleuchte Metall E27 60 W antik-gold 22 x...'
 sku: 'B002MT7K2S-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFP18CC-de SEIKO Automatische Uhr SRPD51K2 blau Sport'
 sku: 'B07WFP18CC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 189.2 EUR
 currency: EUR
 price: 189.2

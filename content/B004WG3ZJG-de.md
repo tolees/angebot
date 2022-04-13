@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WG3ZJG-de BIONAIRE BT19-I Turmventilator 40 W Grau'
 sku: 'B004WG3ZJG-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 40.76 EUR
 currency: EUR
 price: 40.76

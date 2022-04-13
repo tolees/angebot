@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFM31FC-de maisterkaio-de Figur Enfys Nest -- Star Wars -- aus 75215...'
 sku: 'B07GFM31FC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QF6BJH9-de Autowerkstatt Simulator [Playstation 4]'
 sku: 'B07QF6BJH9-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

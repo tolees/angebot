@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R8WBH9R-de YLCJ Nordic ball moderno araña con cáñamo cuerda araña...'
 sku: 'B07R8WBH9R-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 53.0 EUR
 currency: EUR
 price: 53.0

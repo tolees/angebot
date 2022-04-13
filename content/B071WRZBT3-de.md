@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WRZBT3-de Original Falken 5er Pack PP-Color Kunststoff-Ordner. Made...'
 sku: 'B071WRZBT3-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

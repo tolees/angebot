@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5X5M7G-de McFarlane Toys 15601-0 Actionfigur'
 sku: 'B07V5X5M7G-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 22.86 EUR
 currency: EUR
 price: 22.86

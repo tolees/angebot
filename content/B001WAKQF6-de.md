@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001WAKQF6-de Skagen Damen-Uhren 358XSSLBC'
 sku: 'B001WAKQF6-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 52.74 EUR
 currency: EUR
 price: 52.74

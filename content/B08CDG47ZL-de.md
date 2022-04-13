@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDG47ZL-de N/P WLAN Stick Adapter USB WiFi Antenne PC Dongle...'
 sku: 'B08CDG47ZL-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

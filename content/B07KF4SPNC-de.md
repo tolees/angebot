@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4SPNC-de Levi s Damen 2PACK Tee T-Shirt Mehrfarbig 2 Pack White...'
 sku: 'B07KF4SPNC-de'
-tags: [  ]
+tags: [ 'de', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9
