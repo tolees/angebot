@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fantastisches 5G: Die Leistung von 5G-Geschwindigkeiten verändert Ihr Smartphone-Erlebnis
-- Quad-Kamerasystem: Bringen Sie Fotos auf das nächste Level mit einer 64MP Hauptkamera für gestochen scharfe Fotos.
 - Atemberaubendes Design: Elegante Kurven und ein nahtloses Design, das minimale Kameragehäuse fügt sich in das matte Finish ein und sorgt so für einen einzigartigen Look.
 - Machen Sie mehr auf einmal: Mit einer Rechenleistung von bis zu 6 GB RAM und bis zu 128 GB internem Speicher.
 - 4.500 mAh Akku: Mehr Zeit, um das zu tun, was Sie lieben, mit einem langlebigen Akku, und schnelles Aufladen mit 25W der superschnellen Ladeleistung.
+- Quad-Kamerasystem: Bringen Sie Fotos auf das nächste Level mit einer 64MP Hauptkamera für gestochen scharfe Fotos.
+- Fantastisches 5G: Die Leistung von 5G-Geschwindigkeiten verändert Ihr Smartphone-Erlebnis
 - 6,5 Zoll Infinity-O Display: Dual Sim Smartphone mit FHD+ Super AMOLED Display.
 
 [🛒 Hier!!]({{< param buyurl >}})
