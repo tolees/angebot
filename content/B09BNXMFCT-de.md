@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zu diesem LEGO City Polizeiverfolgung-Set gehören viele lustige Accessoires für fantasievollen Spielspaß, darunter Handschellen, das Brecheisen der Gauner und Eiscreme-Elemente
 - Inklusive gedruckter Anleitung und interaktiver digitaler Bauanleitung in der kostenlosen LEGO App mit intuitiven Zoom- und Drehwerkzeugen
+- Zu diesem LEGO City Polizeiverfolgung-Set gehören viele lustige Accessoires für fantasievollen Spielspaß, darunter Handschellen, das Brecheisen der Gauner und Eiscreme-Elemente
 - Inklusive LEGO Minifiguren Ganove Eis und Ganove Creme. Der Eiswagen verfügt über eine Eiskanone, die LEGO Elemente verschießt
-- Enthält einen bunten LEGO Spielzeug-Eiswagen, ein Polizeiauto und eine Kulisse mit einem Geldautomaten sowie 3 Minifiguren, darunter 2 Figuren aus der LEGO City TV-Serie
 - Enthält außerdem die Minifigur einer Polizistin, mit der du Nagelsperren aus dem Polizeiauto werfen kannst, um spannende Szenen aus der Serie nachzuspielen
+- Enthält einen bunten LEGO Spielzeug-Eiswagen, ein Polizeiauto und eine Kulisse mit einem Geldautomaten sowie 3 Minifiguren, darunter 2 Figuren aus der LEGO City TV-Serie
 
 [🛒 Hier!!]({{< param buyurl >}})
