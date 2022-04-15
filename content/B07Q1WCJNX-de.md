@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Display: 15, 5 cm (6, 1 Zoll)
 - Prozessor: HiSilicon Kirin 980
+- Kamera: Rückseite: 40MP, Front: 32MP
 - Bauart: Smartphone
 - Arbeitsspeicher: 6144 MB
-- Kamera: Rückseite: 40MP, Front: 32MP
-- Display: 15, 5 cm (6, 1 Zoll)
 
 [🛒 Hier!!]({{< param buyurl >}})
