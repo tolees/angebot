@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SICHER: Er ist mir einem 5-Punkt-Sicherheitsgurt mit Polstern ausgestattet, die sich leicht reinigen lassen. Seine Konstruktion ist stabil und er entspricht der Norm EN 14988:2017 für Kinderhochstühle
-- ZUBEHÖR: Er hat zudem ein doppeltes, verstellbares Tablett, das das Hineinsetzen des Kindes in den Hochstuhl erleichtert
-- VERSTELLBAR: Er ist auf 7 Stufen höhenverstellbar, so dass Sie ihn an Tische in unterschiedlichen Größen anpassen können. Die Rückenlehne lässt sich in 3 Stufen verstellen (auch in eine liegende Position), und durch die verstellbare Fußstütze kann der Kinderhochstuhl an das Kind angepasst werden. Das doppelte Tablett ist in 3 Stufen verstellbar (Abstand zum Kind) und kann an den Hinterbeinen befestigt werden
 - PRAKTISH: Der Kinderhochstuhl lässt sich leicht zusammenklappen und kann in einer stehenden Position aufbewahrt werden. Der Bezug aus Kunstleder lässt sich abnehmen und leicht reinigen – es reicht, mit einem feuchten Tuch drüber zu wischen. Er ist schmutzabweisend. Der Rahmen besteht aus solidem Metall. Die Beine haben Gummirollen, die beim Verschieben des Kinderhochstuhls den Boden nicht beschädigen
 - VIELSEITIG: YUMMY ist ein Kinderhochstuhl, der für sitzende Kinder (ab ca. dem 6 Lebensmonat) bis 15 kg (ca. 3 Jahre) bestimmt ist. Dadurch, dass sich der Hochstuhl auf eine kompakte Größe zusammenklappen lässt, ist er sehr leicht zu Hause aufzubewahren. Er kann auch in den Urlaub mitgenommen werden
+- ZUBEHÖR: Er hat zudem ein doppeltes, verstellbares Tablett, das das Hineinsetzen des Kindes in den Hochstuhl erleichtert
+- SICHER: Er ist mir einem 5-Punkt-Sicherheitsgurt mit Polstern ausgestattet, die sich leicht reinigen lassen. Seine Konstruktion ist stabil und er entspricht der Norm EN 14988:2017 für Kinderhochstühle
+- VERSTELLBAR: Er ist auf 7 Stufen höhenverstellbar, so dass Sie ihn an Tische in unterschiedlichen Größen anpassen können. Die Rückenlehne lässt sich in 3 Stufen verstellen (auch in eine liegende Position), und durch die verstellbare Fußstütze kann der Kinderhochstuhl an das Kind angepasst werden. Das doppelte Tablett ist in 3 Stufen verstellbar (Abstand zum Kind) und kann an den Hinterbeinen befestigt werden
 
 [🛒 Hier!!]({{< param buyurl >}})
