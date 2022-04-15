@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Dach des Vans ist aufklappbar, um einen einfachen Zugang zur Küche zu ermöglichen, während das Boot vom Anhänger abgekoppelt wird und ein bewegliches Segel und Ruder hat
-- Dieses LEGO Friends Camping-Abenteuer-Set enthält insgesamt drei Mini-Puppen: die beiden Mädchen Stephanie und Emma und Ethan, eine Waschbär-Tierfigur
 - Zur weiteren Ausstattung des Boot Spielzeugs gehören ein Brettspielstein, Schwimmwesten, ein Picknicktisch und eine Bratpfanne mit einem Spiegelei
 - Als Zubehör in dem Wohnmobil Spielzeug gibt es Gepäck auf dem Dach, 3 Sonnenmatratzen, eine Wasserflasche, ein Skateboard, einen Helm, ein Telefon, ein GPS, eine Kamera
 - Das LEGO Friends Camping Set enthält ein Wohnmobil, ein Segelboot, einen See mit Bootssteg und eine Picknick-Szene in den Bergen zum Spielen für die ultimativen Campingabenteuer
+- Dieses LEGO Friends Camping-Abenteuer-Set enthält insgesamt drei Mini-Puppen: die beiden Mädchen Stephanie und Emma und Ethan, eine Waschbär-Tierfigur
 
 [🛒 Hier!!]({{< param buyurl >}})
