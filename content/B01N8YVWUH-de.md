@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
 - Innenmaterial: Leder
 - Obermaterial: Smooth Leder
 - Absatzhöhe: 2 cm
 - Verschluss: Bungee
+- Sohle: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
