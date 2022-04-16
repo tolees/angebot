@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Echtzeit-Augen-Autofokus für Menschen und Tiere sowie weitere innovative Technologien der Alpha-Kameraserie von Sony.
 - Die 120-Hz-Bildfrequenzrate und die 240-Hz-Touch-Scanning-Rate sorgen für starke Gaming Leistung.
-- Android 12 bietet neue Funktionen und Verbesserungen sowie Gaming-Spaß durch die Kopplung mit dem DualSense Wireless-Controller.
-- Durch die kompakte Größe liegt das Smartphone perfekt in der Hand und passt in jede Hosentasche.
 - Kompakt und leistungsstark mit zuverlässigem 4.000-mAh-Akku und 5G-Technologie.
+- Android 12 bietet neue Funktionen und Verbesserungen sowie Gaming-Spaß durch die Kopplung mit dem DualSense Wireless-Controller.
 - Das 21:9 CinemaWide FHD+ und HDR OLED-Display bietet branchenführende Farbtreue.
+- Durch die kompakte Größe liegt das Smartphone perfekt in der Hand und passt in jede Hosentasche.
+- Echtzeit-Augen-Autofokus für Menschen und Tiere sowie weitere innovative Technologien der Alpha-Kameraserie von Sony.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
