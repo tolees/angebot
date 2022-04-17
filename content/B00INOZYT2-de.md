@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Klassischer Schnitt
-- Klassisch geschnittenes Lacoste-Polo aus meliertem Petit Piqué
 - Knopfleiste mit 2 Knöpfen
+- Klassisch geschnittenes Lacoste-Polo aus meliertem Petit Piqué
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
