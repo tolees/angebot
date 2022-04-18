@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichtes Material – Der sehr leichte HeatGear-Stoff der Damen Capri-Leggings bietet volle Abdeckung ohne viel Zusatzgewicht.
-- Funktionales Material – Die Sportleggings leiten Schweiß ab, trocknen schnell und verfügen über eine Anti-Odor-Technologie für anhaltende Frische.
-- Cleveres Design – Die Yoga Leggings verfügen über ergonomische Flatlock-Nähte, eine kleine Seitentasche sowie einen hohen Bund für ideale Abdeckung.
 - Volle Bewegungsfreiheit – Das 4-Way-Stretchmaterial der High Waist Leggings sorgt für größere Bewegungsfreiheit in alle Richtungen.
+- Cleveres Design – Die Yoga Leggings verfügen über ergonomische Flatlock-Nähte, eine kleine Seitentasche sowie einen hohen Bund für ideale Abdeckung.
+- Leichtes Material – Der sehr leichte HeatGear-Stoff der Damen Capri-Leggings bietet volle Abdeckung ohne viel Zusatzgewicht.
 - Material und Passform – Under Armour HG Armour Hi Capri NS, atmungsaktive 3/4 Leggings Damen, Material: 87% Polyester / 13% Elastan, Passform: Kompression.
+- Funktionales Material – Die Sportleggings leiten Schweiß ab, trocknen schnell und verfügen über eine Anti-Odor-Technologie für anhaltende Frische.
 
 [🛒 Hier!!]({{< param buyurl >}})
