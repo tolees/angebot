@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial aus Synthetikleder
-- Textilfutter
 - Lässiger Sneaker mit Tennis-Vibe
+- Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

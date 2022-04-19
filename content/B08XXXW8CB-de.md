@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unsere Roboter lernen Ihre Reinigungsgewohnheiten und geben personalisierte Empfehlungen für die automatische Planung von Reinigungsaktionen. Sie empfehlen Ihnen Zeiten, zu denen Ihr Zuhause möglicherweise häufiger gereinigt werden sollte, etwa zur Haarwechselsaison bei Haustieren oder in Zeiten mit erhöhtem Allergenaufkommen
-- Funktioniert in Verbindung mit einem Sprachassistenten - Dank der Kompatibilität mit Sprachassistenten über Google Assistant- und Alexa-fähige Geräte reinigt die e-Serie Ihr Zuhause ganz einfach per Sprachbefehl. * Ist mit Alexa-fähigen Geräten und Google Home kompatibel. Alexa und alle zugehörigen Logos sind Warenzeichen von Amazon.com oder seinen Tochterunternehmen. Google ist eine Marke von Google LLC
-- Findet sich auch im Möbellabyrinth zurecht - Eine umfangreiche Anzahl von modernsten Sensoren ermöglicht der e-Serie unter und um Möbel sowie entlang von Kanten zu navigieren
 - 3-Stufen-Reinigungskraft: Auch mit hartnäckigen Verschmutzungen wird das 3-Stufen-Reinigungssystem fertig. Hierfür sorgen zwei Gummibürsten für alle Böden und extrastarke Saugleistung mit 5-mal mehr Saugkraft (im Vergleich zum Reinigungssystem der Roomba 600-Serie)
+- Findet sich auch im Möbellabyrinth zurecht - Eine umfangreiche Anzahl von modernsten Sensoren ermöglicht der e-Serie unter und um Möbel sowie entlang von Kanten zu navigieren
 - Die Kontrolle darüber, wie Sie Ihr Zuhause reinigen wollen, liegt in Ihrer Hand – mit der neuen iRobot Home-App. Erstellen Sie Routinen und Zeitpläne per Knopfdruck. Dank personalisierter und saisonaler Empfehlungen bleiben Sie dem Leben mühelos immer einen Schritt voraus
-- iRobot verfügt über mehr als 30 Jahre Erfahrung mit Robotertechnologien und Innovationen und hat weltweit bislang mehr als 30 Millionen Heimroboter verkauft. Ob Sie sich für Roomba, Braava oder beide entscheiden – Ihre Böden erhalten die besondere Pflege, die sie brauchen
+- Funktioniert in Verbindung mit einem Sprachassistenten - Dank der Kompatibilität mit Sprachassistenten über Google Assistant- und Alexa-fähige Geräte reinigt die e-Serie Ihr Zuhause ganz einfach per Sprachbefehl. * Ist mit Alexa-fähigen Geräten und Google Home kompatibel. Alexa und alle zugehörigen Logos sind Warenzeichen von Amazon.com oder seinen Tochterunternehmen. Google ist eine Marke von Google LLC
+- Unsere Roboter lernen Ihre Reinigungsgewohnheiten und geben personalisierte Empfehlungen für die automatische Planung von Reinigungsaktionen. Sie empfehlen Ihnen Zeiten, zu denen Ihr Zuhause möglicherweise häufiger gereinigt werden sollte, etwa zur Haarwechselsaison bei Haustieren oder in Zeiten mit erhöhtem Allergenaufkommen
 - Erkennt und beseitigt Schmutz - Dirt Detect-Sensoren machen den Roboter auf verschmutztere Bereiche in deinem Zuhause aufmerksam, etwa Orte mit hoher Besuchsfrequenz, und sorgen dafür, dass diese häufiger gereinigt werden
+- iRobot verfügt über mehr als 30 Jahre Erfahrung mit Robotertechnologien und Innovationen und hat weltweit bislang mehr als 30 Millionen Heimroboter verkauft. Ob Sie sich für Roomba, Braava oder beide entscheiden – Ihre Böden erhalten die besondere Pflege, die sie brauchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
