@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herstellergarantie: 5 Jahre. Die Garantiebedingungen finden Sie unter Weitere technische Informationen. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- Schutz vor zu heißen Temperaturen: durch SafeStop wird die Wassertemperatur auf 38°C begrenzt
-- Grohe EcoJoy: Sparfunktion für reduzierten Wasserverbrauch. Mit Grohe EcoJoy fließt bis zu 50 Prozent weniger Wasser durch die Armatur – und das bei 100 Prozent Leistung
 - Hinweis: Zur Verwendung mit Durchlauferhitzern (geschlossene Warmwasserbereiter), Thermen, Speichern; Nicht zur Verwendung mit offenen Warmwasserbereitern (sog. Niederdruckgeräte)
+- Schutz vor zu heißen Temperaturen: durch SafeStop wird die Wassertemperatur auf 38°C begrenzt
+- Herstellergarantie: 5 Jahre. Die Garantiebedingungen finden Sie unter Weitere technische Informationen. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Grohe EcoJoy: Sparfunktion für reduzierten Wasserverbrauch. Mit Grohe EcoJoy fließt bis zu 50 Prozent weniger Wasser durch die Armatur – und das bei 100 Prozent Leistung
 - Lieferumfang: Brausethermostat, Befestigungsmaterial, Bedienungsanleitung
 
 [🛒 Hier!!]({{< param buyurl >}})
