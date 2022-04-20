@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibilität: Ideal für Vollautomaten mit integriertem Mahlwerk, Espresso-Kolbenmaschine und klassischen Filteraufguss
 - Deine Schümli Crema: Edle Mischung aus hochwertigen Arabicabohnen. Eine ausgewogene, delikate Aroma und eine feine, köstliche Crema zeichnen diesen Kaffee aus
+- Kompatibilität: Ideal für Vollautomaten mit integriertem Mahlwerk, Espresso-Kolbenmaschine und klassischen Filteraufguss
 - Umweltfreundlich: Unserer Bohnenkaffee ist UTZ-zertifiziert. Wir setzten uns für eine verantwortungsbewusste, umweltfreundliche Kaffeeproduktion ein
 - Schweizer Premiumkaffee: Unsere Leidenschaft sind hochwertige Kaffeeprodukte. Wir beschaffen, veredeln und verpacken Kaffee seit 1954
 - Dein Kaffee im Detail: Röstkaffee in ganzen Bohnen - Verpackung 1 kg - Intensität 2 von 5 - 100 Prozent Arabica - Empfohlene Tassengrösse: 110 ml Lungo

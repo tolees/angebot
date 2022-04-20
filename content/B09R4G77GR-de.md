@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konnektivität: Bluetooth und USB; Bluetooth Multi-Pairing Wireless: Kann mit zwei Smartphones/Bluetooth-Quellen gleichzeitig verbunden sein
-- Unterstützt Wireless Party Link: kabellose Verbindung mit einem weiteren LG-Soundsystem; inkl. Schnellstartanleitung, Stromkabel, 3.5mm Aux-Klinkenstecker, Garantiekarte
-- Leistung: 120 Watt mit 5,25-Zoll-Woofer für satten Bass
 - DJ Funktionen verfügbar über XBOOM-App (für Android und iOS): DJ Effects, DJ Loop, DJ Pad, DJ Scratcher, Sample Creator, Auto DJ
+- Konnektivität: Bluetooth und USB; Bluetooth Multi-Pairing Wireless: Kann mit zwei Smartphones/Bluetooth-Quellen gleichzeitig verbunden sein
 - Party Bluetooth-Box mit 360° Wirkungsbereich und Multi-Color- Lautsprecherbeleuchtung und eingebautem Tragegriff
+- Leistung: 120 Watt mit 5,25-Zoll-Woofer für satten Bass
+- Unterstützt Wireless Party Link: kabellose Verbindung mit einem weiteren LG-Soundsystem; inkl. Schnellstartanleitung, Stromkabel, 3.5mm Aux-Klinkenstecker, Garantiekarte
 
 [🛒 Hier!!]({{< param buyurl >}})
