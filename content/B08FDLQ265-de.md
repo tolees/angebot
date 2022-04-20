@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- GENAUER OPTISCHER SENSOR Ein hochmoderner optischer PixArt PAW 3519-Sensor mit einem DPI von bis zu 4200 ermöglicht eine schnelle und genaue Verfolgung.
 - Dragon Center-Halterung
 - EINSTELLBARES GEWICHTSYSTEM Einstellbares Gewichtssystem so leicht oder schwer, wie du es möchtest.
-- GENAUER OPTISCHER SENSOR Ein hochmoderner optischer PixArt PAW 3519-Sensor mit einem DPI von bis zu 4200 ermöglicht eine schnelle und genaue Verfolgung.
-- Verstellbares Hantelsystem
 - PASSE DEINEN STIL AN Das symmetrische Design der GM08 macht sie auch für Linkshänder benutzerfreundlich. Diese mittelgroße Maus eignet sich sowohl für den Handflächen- als auch für den Klauengriffstil.
+- Verstellbares Hantelsystem
 
 [🛒 Hier!!]({{< param buyurl >}})
