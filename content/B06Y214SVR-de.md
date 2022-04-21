@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dove Duschgel inspiriert von den Schönheitsritualen indischer Frauen
 - Das Dove Duschgel für weichere, geschmeidigere Haut nach nur 1x Duschen
+- Duschbad mit 0% Sulfat SLES und bis zu 92% biologisch abbaubarer Formel gemäß OECD-Methoden
+- Dove Duschgel inspiriert von den Schönheitsritualen indischer Frauen
+- Dove pflegendes Duschgel reinigt sanft und ist wohltuend
 - Die Dove Pflegedusche ist für die tägliche Anwendung geeignet
 - Die Verpackung der Dove Duschgele besteht zu 100% aus recyceltem Plastik (Flasche ohne Verschluss)
-- Dove pflegendes Duschgel reinigt sanft und ist wohltuend
-- Duschbad mit 0% Sulfat SLES und bis zu 92% biologisch abbaubarer Formel gemäß OECD-Methoden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
