@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Display: LED-Display - Anzeige von Temperatur bzw. Zeit - sehr leichte Bedienung über Touch-Buttons
-- Funktionen: Heizen - Kühlen - Ventilator - Entfeuchten - Automatik - 3 Geschwindigkeitsstufen (Low, Med, High) - sehr gute Luftströmung und Temperaturverteilung
-- Effizienz und Eleganz: Für Räume mit 30-40 m² - Reduzierung der potenziellen Erderwärmung dank umweltfreundlichem Kältemittel R290
-- Lieferumfang: 1x mobiles Klimagerät AXP, 1x Fernbedienung // Zubehör-Empfehlung: Premium Window Kit AWK03
 - Praktisch: Fernbedienung mit großem LCD-Display - 360° Räder für beste Mobilität - leisestes Modell im Test der Monoblockgeräte mit nur 61 db(A)
+- Lieferumfang: 1x mobiles Klimagerät AXP, 1x Fernbedienung // Zubehör-Empfehlung: Premium Window Kit AWK03
+- Effizienz und Eleganz: Für Räume mit 30-40 m² - Reduzierung der potenziellen Erderwärmung dank umweltfreundlichem Kältemittel R290
+- Funktionen: Heizen - Kühlen - Ventilator - Entfeuchten - Automatik - 3 Geschwindigkeitsstufen (Low, Med, High) - sehr gute Luftströmung und Temperaturverteilung
 
 [🛒 Hier!!]({{< param buyurl >}})

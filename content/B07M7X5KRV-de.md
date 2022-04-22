@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Basic T-Shirt im praktischen Doppelpack: zwei T-Shirts in der gleichen Farbe.
+- Mit weicher und nachhaltiger Baumwolle
+- Mit kleinem Logo-Print unten am Saum
+- Kurzärmlig mit Rundhalsausschnitt
 - Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei niedriger Temperatur bügeln (110° C) / Normalwaschgang bei max. 40°C.
 - Passform: Regular Fit, Rückenlänge bei Gr. L ca. 74 cm.
-- Mit weicher und nachhaltiger Baumwolle
-- Kurzärmlig mit Rundhalsausschnitt
-- Mit kleinem Logo-Print unten am Saum
 
 [🛒 Hier!!]({{< param buyurl >}})
