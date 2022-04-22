@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Doppelpack
-- Baumwolle
 - Print
+- Doppelpack
 - T-Shirt
+- Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
