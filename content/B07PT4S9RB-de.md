@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit 9 ÜBERRASCHUNGEN
-- TIER lässt sich INDIVIDUELL STYLEN
 - L.O.L. Surprise! WINTER DISCO SERIES: TIERCHEN MIT LANGEM FELL
 - VERPACKUNG wird zur TRANSPARENTEN SCHNEEKUGEL mit MAGISCHEM FARBWECHSEL
+- TIER lässt sich INDIVIDUELL STYLEN
+- Mit 9 ÜBERRASCHUNGEN
 - VERBINDET man die GLOBES der Tots, PETS und LILS entsteht ein SCHNEEMANN
 
 [🛒 Hier!!]({{< param buyurl >}})
