@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal zum Teilen mit Freunden und Familie zu besonderen Anlässen wie Halloween, Weihnachten oder Ostern
 - Packung die Größe: 7.2 L x 16.5 H x 12.3 W (cm)
 - Mit einer leuchtenden, farbenfrohen Explosion von fruchtigen Aromen
+- Ideal zum Teilen mit Freunden und Familie zu besonderen Anlässen wie Halloween, Weihnachten oder Ostern
 - Weiche, mundgerechte Bonbons
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Spielzeugset aus LEGO Bausteinen enthält außerdem die Beute des Dinosauriers in Form abgenagter Rippen zum Zusammenbauen
-- Dieses lustige Dinosaurier-Spielzeug eignet sich toll als Geschenk zu Ostern für Kinder, die Fans prähistorischer Kreaturen sind
 - Die LEGO Creator 3-in-1-Spielzeuge sind mit allen LEGO Spielzeugsets kompatibel, damit Kinder noch kreativer bauen können
 - Dieses LEGO Creator 3-in-1-Modell lässt sich in Triceratops oder Pterodactylus Figuren umbauen
 - Der T-Rex ist 11 cm groß.
 - Kinder im Alter von 7-12 Jahren können die Arme, Beine, den Schwanz und den Kopf des T-Rex bewegen und sein Maul öffnen, damit die scharfen Zähne zum Vorschein kommen
+- Dieses lustige Dinosaurier-Spielzeug eignet sich toll als Geschenk zu Ostern für Kinder, die Fans prähistorischer Kreaturen sind
+- Das Spielzeugset aus LEGO Bausteinen enthält außerdem die Beute des Dinosauriers in Form abgenagter Rippen zum Zusammenbauen
 
 [🛒 Hier!!]({{< param buyurl >}})
