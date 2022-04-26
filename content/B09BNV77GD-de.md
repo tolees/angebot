@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Baue mit diesem Lotus Evija Modell das erste vollelektrische Hypercar Großbritanniens nach und bewundere das Design des LEGO Rennwagens
+- Dieses Spielzeug-Auto für Kinder bietet viel Platz für ein 2-sitziges Cockpit und viele authentische Details
 - Erforsche den Modellauto Bausatz Stück für Stück, während du eine der weltweit einzigartigsten aerodynamischen Formen nachbaust
 - Enthält eine LEGO Rennfahrer-Minifigur mit Lotus-Rennanzug, Sturzhelm, Perücke und einem Schraubenschlüssel
-- Dieses Spielzeug-Auto für Kinder bietet viel Platz für ein 2-sitziges Cockpit und viele authentische Details
 - Mit der für Smartphones und Tablets erhältlichen LEGO Bauanleitungs-App kannst du deine Modelle zoomen und drehen
-- Baue mit diesem Lotus Evija Modell das erste vollelektrische Hypercar Großbritanniens nach und bewundere das Design des LEGO Rennwagens
 
 [🛒 Hier!!]({{< param buyurl >}})

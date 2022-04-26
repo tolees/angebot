@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Metallgehäuse (Aluminiumlegierung), das ein hochwertiges und gutes Aussehen und Gefühl bietet
-- 1.65” AMOLED Display mit hoher 341 PPI Auflösung und Corning Gorilla Glas
 - Intelligente Benachrichtigungen mit individuellen Vibrationen zum Erhalt aller wichtigen Informationen direkt am Handgelenk
 - Aktivitäts-Tracking der Distanz, Stunden der sportlichen Aktivität, Kalorien und Schritten
+- Metallgehäuse (Aluminiumlegierung), das ein hochwertiges und gutes Aussehen und Gefühl bietet
+- 1.65” AMOLED Display mit hoher 341 PPI Auflösung und Corning Gorilla Glas
 - Wasserdicht bis zu 5 ATM, um einen normalen Gebrauch bis zu 50 Meter Wasserdruck zu gewährleisten
 
 [🛒 Hier!!]({{< param buyurl >}})
