@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Einstellrad ermöglicht die stufenlose Einstellung der Mahlstärke von grob bis fein. Bei jeder Drehung kommt das Mahlgut in gleichmäßiger Körnung heraus
-- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
 - Inhalt: 1x Salzmühle befüllt mit Aufdruck (50 g Salz), 1x Pfeffermühle befüllt mit Aufdruck (27 g), 1x Gewürzmühle unbefüllt ohne Aufdruck (Höhe 14 cm, Ø 6 cm) - Artikelnummer: 0667949990
-- Herstellergarantie: 10 Jahre auf das Keramikmahlwerk. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“
 - Material: Cromargan Edelstahl matt, Glas, Keramik-Mahlwerk - spülmaschinengeeignet (Glasbehälter), aromadicht verschließbar, hygienisch. Keinen Schmutz auf der Arbeitsfläche da die Mahl-Öffnung oben liegt
+- Keramikmahlwerk ist härter als Stahl, korrosions- und verschleißfrei. Es mahlt Pfeffer und Salzkörner, getrocknete Kräuter (Chillischoten) und Gewürze. Keramik ist lebensmittelneutral und abriebfrei
+- Das Einstellrad ermöglicht die stufenlose Einstellung der Mahlstärke von grob bis fein. Bei jeder Drehung kommt das Mahlgut in gleichmäßiger Körnung heraus
+- Herstellergarantie: 10 Jahre auf das Keramikmahlwerk. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
