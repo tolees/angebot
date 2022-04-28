@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einstellung: die obere Sägebandführung ist über die Zahnstange verstellbar. Der Sägeblattschutz ist höhenverstellbar.
-- Abmessungen: die Durchlasshöhe der Bandsäge misst 100 mm und 195 mm in der Breite. Gehrungsschnitte bis 45° lassen sich mithilfe der stufenlosen Neigung des 320 x 310 mm Arbeitstisches erzeugen.
-- Lieferumfang: 1 x Bandsäge; 1 x Aluminium-Tisch
-- EINFACH: Die BASA1 von scheppach ist die Präzisions-Bandsäge für anspruchsvolle Bastler und Modellbauer, die vor allem auf die präzise Bearbeitung von Werkstücken aus Hart- und Weichhölzern, aber auch von Kunststoffen oder Aluminium bis 100 mm Höhe aus sind
 - Ausstattung: ausgestattet ist die Säge mit gehärteten Präzisions-3-Rollenführungen über und unter dem Tisch sowie einem Präzisions-Längsanschlag mit Lupe, welcher links und rechts vom Sägeband verwendbar ist.
+- Abmessungen: die Durchlasshöhe der Bandsäge misst 100 mm und 195 mm in der Breite. Gehrungsschnitte bis 45° lassen sich mithilfe der stufenlosen Neigung des 320 x 310 mm Arbeitstisches erzeugen.
+- EINFACH: Die BASA1 von scheppach ist die Präzisions-Bandsäge für anspruchsvolle Bastler und Modellbauer, die vor allem auf die präzise Bearbeitung von Werkstücken aus Hart- und Weichhölzern, aber auch von Kunststoffen oder Aluminium bis 100 mm Höhe aus sind
+- Lieferumfang: 1 x Bandsäge; 1 x Aluminium-Tisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
