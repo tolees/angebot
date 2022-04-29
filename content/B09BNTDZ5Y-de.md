@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41698 Friends Tierspielplatz  Spielset mit Tieren  Rutsche und Andrea  Spielzeug für Mädchen und Jungen ab 5 Jahre  Geburtstagsgeschenk'
-date: 2022-04-27 20:13:18
+date: 2022-04-29 08:11:42
 image: 'https://m.media-amazon.com/images/I/51yEC7h2H9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
