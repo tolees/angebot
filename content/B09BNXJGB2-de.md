@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält 2 Star Wars Minifiguren: LEGO Luke Skywalker und LEGO Yoda mit seinem Gehstock, sowie eine Droidenfigur R2-D2
-- Gönne dir das LEGO Star Wars Set selbst oder verschenke es als Geschenk an einen erwachsenen Star Wars Fan
-- Bringe das Schild mit der Aufschrift "Do. Or do not. There is no try", wie von Yoda gesagt, an, um die Star Wars Deko zu vollenden
-- Lass dich von LEGO Yoda inspirieren, indem du eine ikonische Szene aus Star Wars: Das Imperium schlägt zurück mit LEGO Steinen nachbaust
 - Dieses baubare Star Wars Modell enthält Yodas Hütte auf dem Planeten Dagobah und den Flügel von Luke Skywalkers X-Wing
+- Bringe das Schild mit der Aufschrift "Do. Or do not. There is no try", wie von Yoda gesagt, an, um die Star Wars Deko zu vollenden
+- Gönne dir das LEGO Star Wars Set selbst oder verschenke es als Geschenk an einen erwachsenen Star Wars Fan
+- Enthält 2 Star Wars Minifiguren: LEGO Luke Skywalker und LEGO Yoda mit seinem Gehstock, sowie eine Droidenfigur R2-D2
+- Lass dich von LEGO Yoda inspirieren, indem du eine ikonische Szene aus Star Wars: Das Imperium schlägt zurück mit LEGO Steinen nachbaust
 - Schau dir auch andere LEGO Star Wars Diorama-Modellbausätze an, um deine Kollektion an LEGO Star Wars Fanartikeln zu vervollständigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
