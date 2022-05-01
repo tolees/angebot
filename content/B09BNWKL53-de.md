@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das Spielzeugset „Lloyds legendärer Drache“ von LEGO NINJAGO enthält einen beweglichen Drachen mit Flügeln, die sich vor und zurück bewegen
+- Der Drache besitzt einen beweglichen Kopf, Kiefer und Schwanz sowie verstellbare Arme und Beine und kann mit einem Sattel und größeren Flügeln für Luftkämpfe ausgerüstet werden
 - Wenn die Kinder ihre Mission erfüllen und die Schlangen besiegen, werden sie mit einem Überraschungsbanner belohnt, mit dem sie den Drachen schmücken können
 - Die hinterlistige Flug-Viper verfügt über ein Jetpack und ein Schwert und Dynamit-Python ist mit einer Dynamitstange und seiner Balliste ausgerüstet
-- Das Spielzeugset „Lloyds legendärer Drache“ von LEGO NINJAGO enthält einen beweglichen Drachen mit Flügeln, die sich vor und zurück bewegen
 - Inklusive 4 LEGO NINJAGO Figuren: Lloyd mit einem Schwert und einer separaten Kapuze, Nya mit einem Speer und 2 NINJAGO Schlangenkrieger
-- Der Drache besitzt einen beweglichen Kopf, Kiefer und Schwanz sowie verstellbare Arme und Beine und kann mit einem Sattel und größeren Flügeln für Luftkämpfe ausgerüstet werden
 
 [🛒 Hier!!]({{< param buyurl >}})
