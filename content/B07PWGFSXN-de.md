@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3 Packungen zu je 12 Rollen
-- 210 Blätter (2-lagig) pro Rolle
-- Reißfest
-- Angenehm weich
-- 100% Cellulose ohne Recyclingfasern
 - Die 2-lagige Variante ist nur für kurze Zeit verfügbar. Wir arbeiten hart daran, der hohen Nachfrage in unserem Kernangebot nachzukommen
+- 3 Packungen zu je 12 Rollen
+- 100% Cellulose ohne Recyclingfasern
+- 210 Blätter (2-lagig) pro Rolle
+- Angenehm weich
+- Reißfest
 
 [🛒 Hier!!]({{< param buyurl >}})
