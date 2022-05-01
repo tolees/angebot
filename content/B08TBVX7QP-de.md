@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Verstellbar
 - Obermaterial: Synthetik
+- Verschluss: Verstellbar
 
 [🛒 Hier!!]({{< param buyurl >}})
