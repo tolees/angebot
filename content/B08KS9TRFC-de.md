@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Casual
+- Model: Kafey Ultra High Waist Skinny
+- Standard
 - Pattern: Einfarbig
 - High Rise
-- Model: Kafey Ultra High Waist Skinny
 - Fit: Skinny
-- Standard
+- Casual
 
 [🛒 Hier!!]({{< param buyurl >}})
