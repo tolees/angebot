@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konnektivität: Verkabelt
-- Ingame‐Audio, dass dich in seinen Bann zieht
-- Für Konsolen‐Gaming designt
 - Farbe: Grau
+- Ingame‐Audio, dass dich in seinen Bann zieht
+- Konnektivität: Verkabelt
+- Für Konsolen‐Gaming designt
 - Für Komfort optimiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
