@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Razer Orochi V2 - Mobile kabellose Gaming-Maus mit bis zu 950 Stunden Batterie-Laufzeit (Ultra leichtes Design
 - RZ01-03730100-R3G1
 - Razer
 - Farbe: schwarz
-- Razer Orochi V2 - Mobile kabellose Gaming-Maus mit bis zu 950 Stunden Batterie-Laufzeit (Ultra leichtes Design
 
 [🛒 Hier!!]({{< param buyurl >}})
