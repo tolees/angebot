@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intel Core i5-1135G7 Prozessor (bis zu 4,20 GHz mit Intel Turbo-Boost-Technik 2.0, 8 MB Intel Cache)
-- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- Stereolautsprecher mit Dolby Audio Klangoptimierung, beleuchtete Tastatur, Fingerabdrucksensor
-- Akku: Li-Ionen-Akku: 52,5 Wh, Laufzeit bis zu 10 Stunden (MobileMark 2014)
 - Schnelles Wi-Fi 6, Windows 11 Home vorinstalliert
-- Convertible mit vier flexiblen Anwendungsmodes
-- RapidCharge Schnell-Ladefunktion (80 % in ca. 1 Std.), PrivacyShutter mechanischer Kameraverschluss
+- Akku: Li-Ionen-Akku: 52,5 Wh, Laufzeit bis zu 10 Stunden (MobileMark 2014)
+- Stereolautsprecher mit Dolby Audio Klangoptimierung, beleuchtete Tastatur, Fingerabdrucksensor
 - Lieferumfang: Lenovo IdeaPad Flex 5i 14ITL05, Graphitgrau, Netzteil, Dokumentation
+- RapidCharge Schnell-Ladefunktion (80 % in ca. 1 Std.), PrivacyShutter mechanischer Kameraverschluss
+- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Intel Core i5-1135G7 Prozessor (bis zu 4,20 GHz mit Intel Turbo-Boost-Technik 2.0, 8 MB Intel Cache)
+- Convertible mit vier flexiblen Anwendungsmodes
 
 [🛒 Hier!!]({{< param buyurl >}})
