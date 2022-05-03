@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Aluminium Teleskopstange mit einer Länge von 239 cm
 - Lieferumfang: Intex Pool Reinigungsset, Teleskopstiel 239 cm, Kescher für Boden und Oberfläche, Bodensauger
+- Bei Verwendung des Laubskimmernetzes die Oberfläche des Beckenwassers vorsichtig abkehren, um schwimmende Blätter usw. zu entfernen. Bei Nichtgebrauch das Gerät aus dem Becken nehmen und aufrecht lagern. Stellen Sie keine schweren Gegenstände auf den Blattskimmer
 - Um die Stange zu verlängern oder zu öffnen, halten Sie jeden Kunststoffgriffabschnitt fest und drehen Sie ihn im „Uhrzeigersinn“, um den Stock zu lösen und herauszuziehen, um ihn zu verlängern. Drehen Sie dann „gegen den Uhrzeigersinn“, um jeden Abschnitt zu verriegeln
+- Bodensauger funktioniert nach Venturi-Prinzip (einfach an den Gartenschlauch anschließen)
 - Bestehend aus Laub- bzw. Bodenkescher
 - Um die Stange einzuziehen oder zu schließen, drehen Sie zuerst den Kunststoffgriff im Uhrzeigersinn, um sie zu lösen, und schieben Sie dann die Stange hinein, um sie zu verkürzen. Drehen Sie den Kunststoffgriffabschnitt „gegen den Uhrzeigersinn“, um jeden Abschnitt zu verriegeln
-- Bei Verwendung des Laubskimmernetzes die Oberfläche des Beckenwassers vorsichtig abkehren, um schwimmende Blätter usw. zu entfernen. Bei Nichtgebrauch das Gerät aus dem Becken nehmen und aufrecht lagern. Stellen Sie keine schweren Gegenstände auf den Blattskimmer
-- Bodensauger funktioniert nach Venturi-Prinzip (einfach an den Gartenschlauch anschließen)
-- Aluminium Teleskopstange mit einer Länge von 239 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
