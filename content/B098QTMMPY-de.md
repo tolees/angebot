@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Soft Foodbed
-- Smooth Leather
-- Allday
 - Holiday
 - Casual
+- Soft Foodbed
+- Allday
+- Smooth Leather
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
