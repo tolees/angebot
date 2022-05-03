@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60328 City Rettungsschwimmer-Station  mit Spielzeug-Geländewagen  Strand und Figuren  inklusive Straßenplatten  Geschenk für Kinder ab 5 Jahren'
-date: 2022-05-02 11:58:58
+date: 2022-05-03 12:18:26
 image: 'https://m.media-amazon.com/images/I/51G++YzA-4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVGX7S/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '20.0115217391304'
+average: '20.0110638297872'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

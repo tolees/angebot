@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Glasreinigungstuch zur speziellen Reinigung der Scheiben
 - Cockpit Tuch zur Reinigung der Kunststoffteile im Innenraum
 - Lackpflege Tuch zum Auftragen und Polieren der Politur
-- Glasreinigungstuch zur speziellen Reinigung der Scheiben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
