@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - In der Augmented Reality-App können die Kinder entscheiden, wie viel Energie das Rennauto braucht, um nach dem Betätigen des Auslösers den perfekten Start ins Rennen zu schaffen
-- Mit der LEGO Technic AR App erwacht die Rennstrecke zum Leben. Wähle deine Strecke und meistere die Kunst des Energiemanagements, um die Zielflagge zu erobern
 - Dieser Modellauto-Bausatz für Kinder und Jugendliche enthält ein Spielzeug-Rennauto mit Rückziehmotor, authentischem Design und der LEGO Augmented Reality App
+- Mit der LEGO Technic AR App erwacht die Rennstrecke zum Leben. Wähle deine Strecke und meistere die Kunst des Energiemanagements, um die Zielflagge zu erobern
 - Das LEGO Technic Auto zum Selberbauen ist eine originalgetreue Nachbildung des realen Formel E Porsche Rennautos und verfügt sogar über Sponsorenlogos
 - Lade die LEGO Technic AR App herunter, scanne das Modell, ziehe das Spielzeugauto mit deinem Fuß zurück, um es zu starten, und erlebe, wie es in spannenden Rennen zum Leben erwacht
 

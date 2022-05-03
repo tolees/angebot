@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durable and sturdy – 2,304 aligned studs to give the right grip for all LEGO building creations from LEGO building bricks
-- A place for creative play – this big 48x48-stud grey LEGO baseplate provides an open landscape for all kinds of LEGO creations
-- The LEGO base board holds bricks firmly at any angle (even upside down!) yet allows them to be removed with ease
-- Check out other LEGO Base Plates: 11023 green for nature builds, 11026 white for snowy winter landscapes, and 11025 blue for ocean adventures
 - The LEGO grey building plate can be given as a birthday or any-other-day gift for kids aged 4+ for kids’ building projects and displays
+- Check out other LEGO Base Plates: 11023 green for nature builds, 11026 white for snowy winter landscapes, and 11025 blue for ocean adventures
 - A world of creative possibilities – from street scenes to castles and mountain landscapes, kids can build on this LEGO base whatever they imagine
+- Durable and sturdy – 2,304 aligned studs to give the right grip for all LEGO building creations from LEGO building bricks
+- The LEGO base board holds bricks firmly at any angle (even upside down!) yet allows them to be removed with ease
+- A place for creative play – this big 48x48-stud grey LEGO baseplate provides an open landscape for all kinds of LEGO creations
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
