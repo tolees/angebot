@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieser Harry-Potter-Koffer enthält die Farben des Hogwarts-Hauses und Aufkleber, mit denen die Kinder den Koffer persönlich dekorieren können
-- Inklusive 3 Szenen aus den Filmen zum Nachbauen: die Zuordnungszeremonie, das Fest in der Großen Halle und der Gemeinschaftsraum
+- Das Zubehör umfasst den sprechenden Hut, die Karte des Rumtreibers, die Zaubertränke, den Kessel, das Zaubertrankbuch und vieles mehr
 - Enthält Möbel, die sich magisch umgestalten lassen, sowie Harry Potter Zubehör zum Kombinieren, um Hogwarts-Abenteuer zum Leben zu erwecken
+- Inklusive 3 Szenen aus den Filmen zum Nachbauen: die Zuordnungszeremonie, das Fest in der Großen Halle und der Gemeinschaftsraum
 - Eine Auswahl an Teilen für Minifiguren ermöglicht es Kindern, 5 LEGO Harry Potter Minifiguren zu bauen und völlig neue Charaktere zu erschaffen
 - Dieses Spielset ist ein ideales Harry Potter Geschenk und wunderbarer Fanartikel für alle, die eine persönliche und kreative Verbindung zur Zaubererwelt haben
+- Dieser Harry-Potter-Koffer enthält die Farben des Hogwarts-Hauses und Aufkleber, mit denen die Kinder den Koffer persönlich dekorieren können
 - Der Harry Potter Zauberkoffer enthält Minifiguren und jede Menge Details aus den Harry Potter-Filmen
-- Das Zubehör umfasst den sprechenden Hut, die Karte des Rumtreibers, die Zaubertränke, den Kessel, das Zaubertrankbuch und vieles mehr
 
 [🛒 Hier!!]({{< param buyurl >}})
