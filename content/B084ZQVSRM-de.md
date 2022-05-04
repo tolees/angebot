@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erscheinungstermin : 30. April 2020
-- Medienformat : 4K
 - Alterseinstufung ‏:‎ Freigegeben ab 12 Jahren
 - Anzahl Disks : 27
+- Erscheinungstermin : 30. April 2020
+- Medienformat : 4K
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
