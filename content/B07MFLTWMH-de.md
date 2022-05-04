@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abmessungen: L30 x B30 x H48,5 cm und L35 x B35 x H55 cm
-- Die schwarze Farbe sorgt für einen robusten Look
 - Satz mit zwei Beistelltischen aus Metall
+- Abmessungen: L30 x B30 x H48,5 cm und L35 x B35 x H55 cm
 - Schön als Pflanztisch zu verwenden
+- Die schwarze Farbe sorgt für einen robusten Look
 
 [🛒 Hier!!]({{< param buyurl >}})
