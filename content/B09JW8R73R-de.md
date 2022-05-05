@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieser Modellbausatz für Erwachsene ist das Ergebnis einer Partnerschaft zwischen BMW und dem LEGO Technic Design-Team
-- Das Set enthält sowohl einen Ausstellungsständer als auch einen Rennständer, so dass du dein Motorrad-Modell ideal ausstellen kannst
-- Von den Reifen bis hin zur Windschutzscheibe wurde kein Detail übersehen - bewundere das Farbschema mit den ikonischen BMW Marken-Emblemen
-- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
-- Dieses LEGO Set für Erwachsene enthält ein Technic BMW M 1000 RR Motorrad-Modell im Maßstab 1:5 - eine Neuheit im LEGO Technic Universum
 - Entdecke authentische Details: das 3-Gang-Getriebe (+ Neutralstellung), die Vorder- und Hinterradaufhängung, den Kettenantrieb und den Reihenvierzylinder-Motor
+- Dieses LEGO Set für Erwachsene enthält ein Technic BMW M 1000 RR Motorrad-Modell im Maßstab 1:5 - eine Neuheit im LEGO Technic Universum
+- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
+- Dieser Modellbausatz für Erwachsene ist das Ergebnis einer Partnerschaft zwischen BMW und dem LEGO Technic Design-Team
 - Das Modell gehört zu einer Palette von LEGO Sets für Erwachsene und eignet sich toll als Vatertagsgeschenk für Väter, die ihr eigenes Motorrad basteln möchten
+- Von den Reifen bis hin zur Windschutzscheibe wurde kein Detail übersehen - bewundere das Farbschema mit den ikonischen BMW Marken-Emblemen
+- Das Set enthält sowohl einen Ausstellungsständer als auch einen Rennständer, so dass du dein Motorrad-Modell ideal ausstellen kannst
 
 [🛒 Hier!!]({{< param buyurl >}})

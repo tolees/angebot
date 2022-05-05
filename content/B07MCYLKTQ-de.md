@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Im Set befindet sich der Hochdruckreiniger K 2 Battery mit integriertem Wasserfilter, 1-fach-Strahlrohr, Dreckfräser und A3/4"-Adapter. Der Kärcher 36-V-Akku ist nicht enthalten
 - Ohne Akku, ohne Ladegerät
+- Flexible Anschlussmöglichkeiten: Der Hochdruckreiniger kann über den A3/4"-Adapter und einem zusätzlichen Gartenschlauch ans Wasser angeschlossen werden. Auch ein Ansaugschlauch kann genutzt werden
 - Hochdruckpistole: Dank verschiedener Strahlrohre lassen sich je nach Anforderung drei verschiedene Druckstufen nutzen. Die Druckstufe ist über die Anzeige auf der Druckpistole regulierbar
 - Mit Hochdruck reinigen: Der Kärcher 36 V Akku-Hochdruckreiniger K 2 Battery reinigt Oberflächen mit bis zu 110 bar Wasserdruck in kürzester Zeit und beseitigt selbst hartnäckigen Schmutz gründlich
-- Flexible Anschlussmöglichkeiten: Der Hochdruckreiniger kann über den A3/4"-Adapter und einem zusätzlichen Gartenschlauch ans Wasser angeschlossen werden. Auch ein Ansaugschlauch kann genutzt werden
 - Mobiler Helfer mit Power: Der kabellose K 2 Battery wiegt nur 4,5 kg und lässt sich mühelos transportieren. Mit dem separat erhältlichen 36 V/2,5 Ah Akku bietet er eine Laufzeit von bis zu 14 Minuten
+- Lieferumfang: Im Set befindet sich der Hochdruckreiniger K 2 Battery mit integriertem Wasserfilter, 1-fach-Strahlrohr, Dreckfräser und A3/4"-Adapter. Der Kärcher 36-V-Akku ist nicht enthalten
 
 [🛒 Hier!!]({{< param buyurl >}})
