@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: 1 Beutel a 1kg
-- M&MS PEANUT: Bunter Knabberspaß auf jeder Party - denn bekanntlich schmecken die unverwechselbaren Schokonüsse geteilt immer besser
 - GENUSS PUR: Zarte Milchschokolade mit knackigem Erdnusskern in zarter Zuckerglasur
-- KINOABEND: Ob für den gemütlichen Filmabend auf der Couch mit den Liebsten oder beim nächsten Kinoabend mit Freunden
 - GROSSPACKUNG: viele M&MS für alle Freunde, Kollegen und Familie
+- LIEFERUMFANG: 1 Beutel a 1kg
+- KINOABEND: Ob für den gemütlichen Filmabend auf der Couch mit den Liebsten oder beim nächsten Kinoabend mit Freunden
+- M&MS PEANUT: Bunter Knabberspaß auf jeder Party - denn bekanntlich schmecken die unverwechselbaren Schokonüsse geteilt immer besser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
