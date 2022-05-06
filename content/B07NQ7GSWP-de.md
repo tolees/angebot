@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'medisana BU 546 connect Oberarm-Blutdruckmessgerät  präzise Blutdruck und Pulsmessung mit Speicherfunktion und Bluetooth-App  Ampel-Skala  Funktion zur Anzeige eines unregelmäßigen Herzschlags'
-date: 2022-04-28 07:45:35
+date: 2022-05-06 08:12:12
 image: 'https://m.media-amazon.com/images/I/41FchNDfl+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Unregelmäßiger Herzschlag: Das BU 546 kann auf eventuelle Pulsarrhythmien hinweisen. Art und Schwere einer Arrhythmie kann nur Ihr Arzt bewerten
 - Viele Speicherplätze: Das Oberarmblutdruckmessgerät ist mit einem internen Speicher ausgestattet, mit dem Sie jeweils 250 Messergebnisse für 2 Benutzer speichern können
 - Zuhause oder Unterwegs: Das Blutdruckmessgerät BU 546 wird für einen einfachen und sicheren Transport mit einer zusätzlichen praktischen Aufbewahrungstasche geliefert
 - Für den Oberarm: Die Manschette ist für Oberarmumfänge von 22 bis 42 cm geeignet. Es hat ein großes Display, das die Werte für Systole, Diastole und Puls sowie das Datum und die Uhrzeit anzeigt
-- Unregelmäßiger Herzschlag: Das BU 546 kann auf eventuelle Pulsarrhythmien hinweisen. Art und Schwere einer Arrhythmie kann nur Ihr Arzt bewerten
 - Medizinprodukt: Zur selbstständigen Blutdruckkontrolle mit Ampel-Farbskala zur einfachen Einstufung der Messergebnisse. Neben der eigentlichen Blutdruckmessung, findet auch eine Pulsmessung statt
 
 [🛒 Hier!!]({{< param buyurl >}})
