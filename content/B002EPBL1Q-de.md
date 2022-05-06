@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AUSGEZEICHNET - Zweifacher Gewinner der Goldmedaille beim „San Francisco World Spirits Competition 2017"
-- GESCHENKIDEE - Ein ideales Geschenk für alle, die den bekannten rauchigen Stil von Islay Single Malt Whiskys für sich entdecken wollen
 - ISLAY CHARME - Der Talisker Single Malt Scotch Whisky stammt aus der ältesten Destillerie der Isle of Skye. Die erste der beiden Destillationsphasen verleiht diesem Whisky seine Komplexität und die Pfeffernoten
 - AROMA PUR - Die erste der beiden Destillationsphasen verleiht dem Single Malt. seine einzigartig würzige Komplexität und die unverkennbaren Pfeffernoten. Der weiche und rauchige Geschmack glüht warm nach
+- AUSGEZEICHNET - Zweifacher Gewinner der Goldmedaille beim „San Francisco World Spirits Competition 2017"
+- GESCHENKIDEE - Ein ideales Geschenk für alle, die den bekannten rauchigen Stil von Islay Single Malt Whiskys für sich entdecken wollen
 - SERVIERVORSCHLAG - Das warme, dezente Raucharoma des 10 Jahre alten Talisker sollte pur genossen werden oder einfach wie weiter unten beschrieben als Cocktail im „Made By The Sea" probieren.
 
 [🛒 Hier!!]({{< param buyurl >}})
