@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71761 NINJAGO Zanes Power-Up-Mech EVO  Spielzeug ab 6 Jahren mit Ninja-Actionfigur und Schlange'
-date: 2022-04-28 09:28:22
+date: 2022-05-07 07:21:30
 image: 'https://m.media-amazon.com/images/I/51mqoLqZ0xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNX183W-de LEGO 71761 NINJAGO Zanes Power-Up-Mech EVO Spielzeug ab 6...'
 sku: 'B09BNX183W-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 7.29 EUR
+actualPrice: 7.0 EUR
 currency: EUR
-price: 7.29
+price: 7.0
 comparePrice: 9.99 EUR
 prodname: 'LEGO 71761 NINJAGO Zanes Power-Up-Mech EVO  Spielzeug ab 6 Jahren mit Ninja-Actionfigur und Schlange'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNX183W/?tag=tolees0ca-21'
-descuento: '27.03'
-average: '6.585'
+descuento: '29.93'
+average: '6.668'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die LEGO NINJAGO Sets locken Kinder von ihren Bildschirmen weg und versetzen sie in eine mystische Welt, in der sie es mit den Mächten des Bösen aufnehmen
 - Dieses NINJAGO Spielzeug beinhaltet eine Figur von Zane mit Schwert und Rüstung und den Kobra-Mechaniker mit Blasterpistole
+- Die LEGO NINJAGO Sets locken Kinder von ihren Bildschirmen weg und versetzen sie in eine mystische Welt, in der sie es mit den Mächten des Bösen aufnehmen
 - Wenn die Kinder die Gegner der Ninjas besiegen und ihre Mission erfüllt haben, werden sie mit einem Tarnungsbanner zum Sammeln belohnt
 - Enthält eine Mech-Actionfigur mit beweglichen Gliedmaßen, einen großen rotierenden Ninja-Stern und ein Cockpit, in das Kinder die LEGO NINJAGO Figur von Zane setzen können
 - Nachdem er seinen Mech und seine Rüstung verbessert hat, springt Zane ins Cockpit und kämpft mit einem Schwert und einem coolen rotierenden Ninja-Stern
