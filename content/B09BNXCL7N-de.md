@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42135 Technic Monster Jam EL Toro Loco  Monster Truck-Spielzeug ab 7 Jahren  Spielzeugauto-Set  Offroader mit Rückziehmotor  Bausatz'
-date: 2022-05-08 08:30:44
+date: 2022-05-09 09:38:17
 image: 'https://m.media-amazon.com/images/I/51AqRQ-eBiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNXCL7N/?tag=tolees0ca-21'
 descuento: '33.07'
-average: '13.4542857142857'
+average: '13.4493333333333'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
