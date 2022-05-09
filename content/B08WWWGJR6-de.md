@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steve braucht eine neue Netherit-Rüstung, also bauen die Kinder Gold für den Ofen ab und stellen dann Steves neuen Helm, seine Rüstung und sein Schwert her
-- Dieses Spielzeug ab 8 Jahre ist für Mädchen und Jungen geeignet und verfügt über ein Portal mit händisch aktiviertem, gefährlichem, interdimensionalem Tor
 - Enthalten sind beliebte Minecraft Figuren aus dem Originalspiel: Steve, ein Baby-Schaf, ein Baby-Hoglin und ein Wither-Skelett, das es zu bekämpfen gilt
+- Dieses Spielzeug ab 8 Jahre ist für Mädchen und Jungen geeignet und verfügt über ein Portal mit händisch aktiviertem, gefährlichem, interdimensionalem Tor
+- Steve braucht eine neue Netherit-Rüstung, also bauen die Kinder Gold für den Ofen ab und stellen dann Steves neuen Helm, seine Rüstung und sein Schwert her
 - In diesem LEGO Minecraft Set bauen Kinder Obsidiangestein ab, um ein zerstörtes Portal zu reparieren und in den Nether zu gelangen, wo ein verwesendes Skelett und ein Hoglin warten
 - Das uralte Portal, einer der aufregendsten Orte für den Spielverlauf von Minecraft, führt die Spieler in imaginäre Abenteuer und ist natürlich Teil dieses Minecraft Spielzeugs
 
