@@ -29,7 +29,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - spezieller Anspitzer
-- 6 Zimmermansbleistifte 175 mm
 - nicht nur für den Zimmermann, überall zu gebrauchen wo markiert, gemessen und angezeichnet werden muss
+- 6 Zimmermansbleistifte 175 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
