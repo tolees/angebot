@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wenn der Hubschrauber beladen und gesichert ist, kannst du in den LKW einsteigen und auf die Autobahn fahren. Freu dich auf actiongeladene Rettungsmissionen in der Luft!
 - Mit der kostenlosen LEGO Bauanleitungen App kannst du das fertige Modell beim Bauen vergrößern, drehen und betrachten
 - Der auffällige rote LKW ist mit einem langen, beweglichen Tieflader und ausklappbaren Warnleuchten für extragroße Ladungen ausgestattet
+- Wenn der Hubschrauber beladen und gesichert ist, kannst du in den LKW einsteigen und auf die Autobahn fahren. Freu dich auf actiongeladene Rettungsmissionen in der Luft!
 - Der Rettungshubschrauber für Kinder ab 5 Jahren verfügt über drehbare Rotoren und einen Stauraum für die mitgelieferte Krankentrage
 - Enthält einen LKW-Transporter, einen Rettungshubschrauber sowie LEGO Minifiguren des Fahrers und des Piloten für stundenlangen, kreativen Spielspaß
 

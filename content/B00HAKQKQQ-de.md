@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Glasfaserverstärkter Nylonrahmen: langlebig, hitze- und wetterbeständig
-- 2-geteilter, porzellanemaillierter Guss-Grillrost mit integrierter Aromaschiene
-- Stufenlos regelbares Brennerventil: für optimale Temperaturregelung
-- Deckel und Gehäuse aus stabilem Aluguss: hohe Lebensdauer
 - Haltekorb für Gaskartusche: praktisch und sicher
 - Herausnehmbare Fettauffangschale: für problemlose Entsorgung von herabtropfendem Fett
+- Stufenlos regelbares Brennerventil: für optimale Temperaturregelung
+- Deckel und Gehäuse aus stabilem Aluguss: hohe Lebensdauer
+- 2-geteilter, porzellanemaillierter Guss-Grillrost mit integrierter Aromaschiene
+- Glasfaserverstärkter Nylonrahmen: langlebig, hitze- und wetterbeständig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
