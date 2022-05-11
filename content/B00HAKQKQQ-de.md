@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Haltekorb für Gaskartusche: praktisch und sicher
-- Herausnehmbare Fettauffangschale: für problemlose Entsorgung von herabtropfendem Fett
 - Stufenlos regelbares Brennerventil: für optimale Temperaturregelung
-- Deckel und Gehäuse aus stabilem Aluguss: hohe Lebensdauer
+- Haltekorb für Gaskartusche: praktisch und sicher
 - 2-geteilter, porzellanemaillierter Guss-Grillrost mit integrierter Aromaschiene
+- Deckel und Gehäuse aus stabilem Aluguss: hohe Lebensdauer
 - Glasfaserverstärkter Nylonrahmen: langlebig, hitze- und wetterbeständig
+- Herausnehmbare Fettauffangschale: für problemlose Entsorgung von herabtropfendem Fett
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
