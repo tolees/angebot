@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney - Star Wars 1 - 9 - Die Skywalker Saga 4K Ultra HD [Blu-ray]'
-date: 2022-05-08 21:54:27
+date: 2022-05-13 15:53:38
 image: 'https://m.media-amazon.com/images/I/51wi1NdKzxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B084ZQVSRM/?tag=tolees0ca-21'
 descuento: '27.29'
-average: '160.081111111109'
+average: '159.351818181816'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Medienformat : 4K
+- Erscheinungstermin : 30. April 2020
 - Alterseinstufung ‏:‎ Freigegeben ab 12 Jahren
 - Anzahl Disks : 27
-- Erscheinungstermin : 30. April 2020
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
