@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichtgewicht
 - Dämpfung
+- Leichtgewicht
 - Sportschuhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
