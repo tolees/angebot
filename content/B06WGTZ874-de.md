@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HEIZT SCHNELL AUF: In 40 Sekunden ist die Kaffeemaschine betriebsbereit
 - THERMOBLOCK-HEIZSYSTEM: Immer die richtige Temperatur für geschmackvollen Espresso, Kaffee oder Cappuccino
+- FLEXIBLER SIEBTRÄGERHALTER: Mit Einsätzen für 1 oder 2 Tassen sowie für Kaffeepads – das Sieb ist herausnehmbar
 - EINSTELLBARE MILCHAUFSCHÄUMDÜSE: Für die Zubereitung von cremigem Milchschaum, heißer Milch oder Heißwasser für Tee
 - SEHR KOMPAKTES DESIGN: Die Espresso Maschine ist nur 15 cm breit
-- FLEXIBLER SIEBTRÄGERHALTER: Mit Einsätzen für 1 oder 2 Tassen sowie für Kaffeepads – das Sieb ist herausnehmbar
+- HEIZT SCHNELL AUF: In 40 Sekunden ist die Kaffeemaschine betriebsbereit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
