@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sie haben die Wahl zwischen 15, 30 und 45Minuten sanfter Musik, 3 Optionen für Lichtfarbe, Musik oder Geräusche und einen Lautstärkeregler
-- Für Babys ab der Geburt
-- Maschinenwaschbar (ohne die elektronische Einheit), extra-kuscheliger Plüsch mit seidenweichen Ohren und aufgestickten Details
-- Der Bauch des Koalas bewegt sich beruhigend in rhythmischen Atembewegungen auf und nieder
 - Individuell anpassbares musikalisches Plüschspielzeug mit beruhigender Musik, Lichtern und Bewegung
+- Für Babys ab der Geburt
+- Der Bauch des Koalas bewegt sich beruhigend in rhythmischen Atembewegungen auf und nieder
+- Sie haben die Wahl zwischen 15, 30 und 45Minuten sanfter Musik, 3 Optionen für Lichtfarbe, Musik oder Geräusche und einen Lautstärkeregler
+- Maschinenwaschbar (ohne die elektronische Einheit), extra-kuscheliger Plüsch mit seidenweichen Ohren und aufgestickten Details
 
 [🛒 Hier!!]({{< param buyurl >}})
