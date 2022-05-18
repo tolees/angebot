@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ermöglicht durch verbiegeresistente Fußplatte und hohe Leistungsreserven auch schwerere Awendungen
-- Die leistungsstarke und robuste Stichsäge GST 150 CE von Bosch Professional
-- Lieferumfang: GST 150 CE, Abdeckhaube, Spanreißschutz, Saugdüse, Absaugadapter (ohne Schlauch), Gleitschuh, 1x Sägeblatt T 144 DP, Koffer
 - Gute Schnittergebnisse, auch bei harten und dicken Balken
 - hohe Schnittpräzision dank Sägeblattspannsystem
+- Lieferumfang: GST 150 CE, Abdeckhaube, Spanreißschutz, Saugdüse, Absaugadapter (ohne Schlauch), Gleitschuh, 1x Sägeblatt T 144 DP, Koffer
+- Die leistungsstarke und robuste Stichsäge GST 150 CE von Bosch Professional
 
 [🛒 Hier!!]({{< param buyurl >}})
