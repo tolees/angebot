@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Packung Weight: 2.513 Lb
 - Packung die Größe: 22.8 L x 26.0 H x 15.4 Wcm
+- Packung Weight: 2.513 Lb
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

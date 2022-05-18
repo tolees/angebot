@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kühlleistung 10.000 BTU und 2,9 kW zur Kühlung von Räumen bis 90 m3
-- Kombinierte Heiz-, Entfeuchtungs- und Ventilatorfunktion
-- Niedriger Energieverbrauch: Energieeffizienzklasse A
 - Mobiles Klimagerät und dank der Laufrollen leicht zu transportieren
+- Niedriger Energieverbrauch: Energieeffizienzklasse A
+- Kombinierte Heiz-, Entfeuchtungs- und Ventilatorfunktion
 - Mit Fernbedienfunktion und digitalem Timer ausgestattet
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal zum Vertikutieren und Lüften, mit 4 Höheneinstellungen von +5 mm bis -10 mm
 - Kompakte Lagerung dank doppelt klappbarem Holm und zusammenlegbarer Fangbox
-- Selteneres Entleeren durch große 50-Liter-Fangbox
 - Effektives Rasenlüften und Moosentfernen dank Messern aus Kohlenstoffstahl
 - Lieferumfang: UniversalVerticut 1100, Karton
+- Selteneres Entleeren durch große 50-Liter-Fangbox
+- Ideal zum Vertikutieren und Lüften, mit 4 Höheneinstellungen von +5 mm bis -10 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
