@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Damen L.12.12 Concept Kleine Tote Bag mit Reißverschluss
-- Ein innenfach mit Reißverschluss
 - Aufgesticktes grünes Krokodillogo
+- Ein innenfach mit Reißverschluss
+- Damen L.12.12 Concept Kleine Tote Bag mit Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

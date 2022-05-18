@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bandmaterial: Edelstahl
-- Wasserdichtigkeit: 5 ATM
-- Verpackt in Emporio Armani Geschenkbox
 - Gehäusehöhe: 8mm; Gehäusegröße: 43mm
+- Bandmaterial: Edelstahl
 - Bandbreite: 22mm; Bandumfang: 200+/- 5mm
+- Verpackt in Emporio Armani Geschenkbox
+- Wasserdichtigkeit: 5 ATM
 
 [🛒 Hier!!]({{< param buyurl >}})
