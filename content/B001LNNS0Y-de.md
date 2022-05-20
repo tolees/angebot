@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Praktischer Wandhalter zur Aufnahme der Schraubendreher
-- Klingen aus Chrom-Vanadium Stahl, mit magnetischen Spitzen
-- 8 x Werkstatt-Schraubendreher und 10 Feinmechaniker-Schraubendreher
 - 18-teiliger Schraubendrehersatz
+- 8 x Werkstatt-Schraubendreher und 10 Feinmechaniker-Schraubendreher
+- Klingen aus Chrom-Vanadium Stahl, mit magnetischen Spitzen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

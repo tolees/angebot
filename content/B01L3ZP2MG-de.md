@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Durchdachtes und flaches Design in anthrazit. Funktionell, mobil und elegant. Lange Akkunutzungsdauer - bis zu 16 Monate Akkulaufzeit mit einer einzigen AA-Batterie
 - Plug und Play, Kompatibel mit allen Notebooks und Desktop-Plattformen mit Windows/Mac OS/Chrome und verfügbarem USB-Anschluss
-- Optische Sensoren mit 1200dpi für präzise und genaue Mausbewegungen, schnelle 2,4-GHz-Wireless-Verbindung
 - Lieferumfang: HP Z3700 (X7Q44AA) kabellose Maus anthrazit
 - Abmessungen: 101 x 60 x 25,3 mm; Gewicht: 0,05 kg
+- Optische Sensoren mit 1200dpi für präzise und genaue Mausbewegungen, schnelle 2,4-GHz-Wireless-Verbindung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
