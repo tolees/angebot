@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Herstellungsprozess der Zwischensohle reduziert den Abfall um 65 % gegenüber vorherigen Methoden; Gummi-Außensohle mit 5 % recyceltem Gummi
-- Leichte EVA-Schaumpolsterung in der Zwischensohle und Ferse erhöht den Komfort; EVA-Zwischensohle enthält 3% biobasierten Schaumstoff
-- Schnürverschluss für sicheren Sitz; in erweiterten Breiten erhältlich
 - Die ENCAP-Zwischensohle kombiniert leichten Schaumstoff mit einem strapazierfähigen Polyurethan-Rand, um den ganzen Tag Halt zu bieten
 - Obermaterial aus über 50 % umweltfreundlichen Materialien; Obermaterial aus recyceltem Textil und Wildleder
+- Der Herstellungsprozess der Zwischensohle reduziert den Abfall um 65 % gegenüber vorherigen Methoden; Gummi-Außensohle mit 5 % recyceltem Gummi
+- Schnürverschluss für sicheren Sitz; in erweiterten Breiten erhältlich
+- Leichte EVA-Schaumpolsterung in der Zwischensohle und Ferse erhöht den Komfort; EVA-Zwischensohle enthält 3% biobasierten Schaumstoff
 
 [🛒 Hier!!]({{< param buyurl >}})
