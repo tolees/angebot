@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Speicherfunktion: Das Oberarmblutdruckmessgerät ist mit einem internen Speicher ausgestattet, mit dem Sie jeweils 90 Messergebnisse für 2 Benutzer speichern können.
-- Unregelmäßiger Herzschlag: Das BU 510 kann auf eventuelle Pulsarrhythmien hinweisen. Art und Schwere einer Arrhythmie kann nur Ihr Arzt bewerten
-- Zuhause oder Unterwegs: Das Blutdruckmessgerät BU 510 wird für einen einfachen und sicheren Transport mit einer zusätzlichen praktischen Aufbewahrungstasche geliefert.
-- Für den Oberarm: Die Manschette ist für Oberarmumfänge von 22 bis 36 cm geeignet. Es hat ein großes Display, das die Werte für Systole, Diastole und Puls sowie das Datum und die Uhrzeit anzeigt
 - Medizinprodukt: Zur selbstständigen Blutdruckkontrolle mit Ampel-Farbskala zur einfachen Einstufung der Messergebnisse. Neben der eigentlichen Blutdruckmessung, findet auch eine Pulsmessung statt
+- Unregelmäßiger Herzschlag: Das BU 510 kann auf eventuelle Pulsarrhythmien hinweisen. Art und Schwere einer Arrhythmie kann nur Ihr Arzt bewerten
+- Für den Oberarm: Die Manschette ist für Oberarmumfänge von 22 bis 36 cm geeignet. Es hat ein großes Display, das die Werte für Systole, Diastole und Puls sowie das Datum und die Uhrzeit anzeigt
+- Zuhause oder Unterwegs: Das Blutdruckmessgerät BU 510 wird für einen einfachen und sicheren Transport mit einer zusätzlichen praktischen Aufbewahrungstasche geliefert.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
