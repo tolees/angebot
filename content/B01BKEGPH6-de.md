@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sehr energiesparende Pumpen
-- Der maximale Durchfluss beträgt: 8.000 m3 / h.
 - Stille Funktion
+- Der maximale Durchfluss beträgt: 8.000 m3 / h.
 - Geeignet für Süß- und Salzwasser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
