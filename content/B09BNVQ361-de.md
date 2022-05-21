@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76397 Harry Potter Hogwarts Moment: Verteidigungsunterricht  Spielzeug-Buch mit Minifiguren  ideal als Reisespiel oder Geschenk'
-date: 2022-05-20 00:09:59
+date: 2022-05-21 08:12:42
 image: 'https://m.media-amazon.com/images/I/51e9z+zsUZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVQ361/?tag=tolees0ca-21'
 descuento: '33.81'
-average: '19.805'
+average: '19.8071428571429'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält 3 LEGO Harry Potter Minifiguren: Hermine Granger & Neville Longbottom, und eine Mad-Eye Moody Figur in der Truhe
-- Das Spielzeug-Buch zum Mitnehmen ist so konzipiert, dass es weggeräumt und leicht verstaut werden kann - ein tolles Geschenk für alle Fans von Harry Potter
-- Dieses Set lässt sich mit anderen LEGO Hogwarts Moment Sets kombinieren, die jeweils ein anderes Hogwarts Klassenzimmer nachbilden
-- Ein Harry Potter Sammlerstück aus LEGO Steinen, das zu den magischen Rollenspielen anregt
 - Das LEGO Harry Potter Buch enthält das Klassenzimmer von Moody, mit Büro nebenan und der Truhe mit einem Mini-Moody darin
+- Das Spielzeug-Buch zum Mitnehmen ist so konzipiert, dass es weggeräumt und leicht verstaut werden kann - ein tolles Geschenk für alle Fans von Harry Potter
+- Enthält 3 LEGO Harry Potter Minifiguren: Hermine Granger & Neville Longbottom, und eine Mad-Eye Moody Figur in der Truhe
+- Ein Harry Potter Sammlerstück aus LEGO Steinen, das zu den magischen Rollenspielen anregt
+- Dieses Set lässt sich mit anderen LEGO Hogwarts Moment Sets kombinieren, die jeweils ein anderes Hogwarts Klassenzimmer nachbilden
 - Dieses Harry Potter Spielzeug umfasst authentisches Zubehör, wie eine Tafel, eine Truhe, Zaubertrankflaschen, einen Schreibtisch und Stühle
 - Verwandle die LEGO Harry Potter Minifigur Mad-Eye Moody in Barty Crouch Jr., indem du seinen Kopf umdrehst und die Haare austauschst
 
