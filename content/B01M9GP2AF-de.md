@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Detailgetreu modelliert
-- offiziell lizenziertes Die Schlümpfe Set von Schleich
-- geeignet für Kinder ab 3 Jahren, Sammler und Schlumpf-Fans
 - Set enthält ein großes Schlumpfhaus, Gargamel, Azrael und Papa Schlumpf
+- geeignet für Kinder ab 3 Jahren, Sammler und Schlumpf-Fans
+- offiziell lizenziertes Die Schlümpfe Set von Schleich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

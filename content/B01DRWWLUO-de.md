@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 480GB Speicherkapazität
-- Standard 2.5" Formfaktor mit nur 7mm Bauhöhe
-- Bis zu 540 MB/s Lesen; 500 MB/s Schreiben
-- 3D NAND Flash, Exclusive SSD Scope Software
 - SATA III 6Gb/s Schnittstelle
+- Bis zu 540 MB/s Lesen; 500 MB/s Schreiben
+- Standard 2.5" Formfaktor mit nur 7mm Bauhöhe
+- 3D NAND Flash, Exclusive SSD Scope Software
 
 [🛒 Hier!!]({{< param buyurl >}})

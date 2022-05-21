@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: insgesamt ca. 160 Kugeln - Der LINDOR 2kg Beutel besitzt einen praktischen Tragehenkel und ist wiederverschließbar (Vorratspackung)
+- Lindt LINDOR Mischbeutel - Milch-, Edelbitter-, Noisette und Weiße Schokolade mit zartschmelzenden Füllungen (44%)
 - Erfahren Sie das zarteste Geheimnis der Maîtres Chocolatiers von Lindt: LINDOR - ein Moment puren Chocoladenglücks
 - Wann immer, wo immer Sie LINDOR genießen – es ist ein magischer Moment. Wenn die feine Chocoladenhülle bricht, verführt die unendlich zartschmelzende Füllung Ihre Sinne und trägt Sie sanft davon
 - Eignet sich ideal als Schokoladen-Geschenk, als Vorratspackung, zum Dekorieren, zum Befüllen von Adventskalendern, zu Ostern für die Ostereier-Suche oder zum selber genießen
-- Lindt LINDOR Mischbeutel - Milch-, Edelbitter-, Noisette und Weiße Schokolade mit zartschmelzenden Füllungen (44%)
-- Lieferumfang: insgesamt ca. 160 Kugeln - Der LINDOR 2kg Beutel besitzt einen praktischen Tragehenkel und ist wiederverschließbar (Vorratspackung)
 
 [🛒 Hier!!]({{< param buyurl >}})
