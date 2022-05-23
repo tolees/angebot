@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Sportwagen-Ikone der 1950er Jahre: PLAYMOBIL Mecedes-Benz 300 SL als Coupé - mit legendären Flügeltüren und Accessoires einer Rennsport-Szenerie
 - 2 nach oben schwenkbare Flügeltüren, Lenkrad beidseitig greifbar, Heckklappe nach oben öffenbar, Anbauteile (u.a. Stoßstangen) in edler Chrom-Optik uvm.
-- PLAYMOBIL-Rennauto ideal als Sammelauto im Kleinformat oder oder als cooles Geschenk für Sportwagenfans, Mit 2 Figuren, Präsentationsschild und Zubehör
-- Lieferumfang: 1x PLAYMOBIL Classic Cars Mercedes-Benz 300 SL, 46-teiliges Spielfiguren-Set mit Anleitung: 1 PLAYMOBIL-Auto, 2 Figuren, 43 Zubehörteile, Material: Kunststoff, LxTxH Fahrzeug: Ca. 26 x 10,5 x 7,5 cm, Maßstab (Mercedes Benz Modellauto): ca. 1:17, Gewicht: 320 g, 70922
 - Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel, Als Kinderspielzeug ab 5 Jahren geeignet
+- Lieferumfang: 1x PLAYMOBIL Classic Cars Mercedes-Benz 300 SL, 46-teiliges Spielfiguren-Set mit Anleitung: 1 PLAYMOBIL-Auto, 2 Figuren, 43 Zubehörteile, Material: Kunststoff, LxTxH Fahrzeug: Ca. 26 x 10,5 x 7,5 cm, Maßstab (Mercedes Benz Modellauto): ca. 1:17, Gewicht: 320 g, 70922
+- PLAYMOBIL-Rennauto ideal als Sammelauto im Kleinformat oder oder als cooles Geschenk für Sportwagenfans, Mit 2 Figuren, Präsentationsschild und Zubehör
+- Die Sportwagen-Ikone der 1950er Jahre: PLAYMOBIL Mecedes-Benz 300 SL als Coupé - mit legendären Flügeltüren und Accessoires einer Rennsport-Szenerie
 
 [🛒 Hier!!]({{< param buyurl >}})
