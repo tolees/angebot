@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Decksohle und Innenfutter aus Gummi
 - höchste Qualität aus dem Hause Havaianas
 - Doppelgrößen: 39/40, 41/42, 43/44, 45/46
+- Decksohle und Innenfutter aus Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

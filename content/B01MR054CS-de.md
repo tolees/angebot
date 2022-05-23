@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Bunt
-- Luftmatratzen und AufblaSartikel
 - Altersempfehlung: ab 3 Jahre
+- Luftmatratzen und AufblaSartikel
 - Kinder, Erwachsene
+- Farbe: Bunt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
