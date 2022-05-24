@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hosenschlitz mit Knopfleiste
 - Die Aufschläge sind variabel
 - Chinoshorts in Slim Fit
+- Hosenschlitz mit Knopfleiste
 - Materialzusammensetzung: 98% Baumwolle, 2% Elasthan
 
 [🛒 Hier!!]({{< param buyurl >}})
