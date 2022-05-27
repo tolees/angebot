@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dobble ist ein Beobachtungs- und Reaktionsspiel für die ganze Familie, in dem alle Spieler gleichzeitig spielen
-- Entscheidet euch bei diesem Partyspiel für 1 der 5 verschiedenen Spielvarianten und legt los. Deckt die Karten auf und schaut schnell, welche Puppe auf 2 Karten gleich ist
 - Bei Dobble L.O.L. Surprise müsst ihr die einzige Puppe, die auf jeweils zwei Karten abgebildet ist, schneller als eure Mitspieler finden und benennen
 - 2-5 Spieler | Ab 4+ Jahren | Bis zu 10+ Minuten Spielzeit je Partie | Spiel in Deutsch
+- Dobble ist ein Beobachtungs- und Reaktionsspiel für die ganze Familie, in dem alle Spieler gleichzeitig spielen
+- Entscheidet euch bei diesem Partyspiel für 1 der 5 verschiedenen Spielvarianten und legt los. Deckt die Karten auf und schaut schnell, welche Puppe auf 2 Karten gleich ist
 - Dobble ist ein schnelles und spaßiges Kartenspiel für Groß und Klein. In dieser Version des Kinderspiels begebt ihr euch in die Welt der beliebten L.O.L. Surprise Puppen
 
 [🛒 Hier!!]({{< param buyurl >}})

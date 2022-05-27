@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bei Dobble müsst ihr das einzige Symbol, das auf jeweils zwei Karten abgebildet ist, schneller als eure Mitspieler finden und benennen
 - Dobble ist ein Beobachtungs- und Reaktionsspiel für die ganze Familie, in dem alle Spieler gleichzeitig spielen
-- Entscheidet euch bei diesem Partyspiel für 1 der 5 verschiedenen Spielvarianten und legt los. Deckt die Karten auf und schaut schnell, welches Symbol auf 2 Karten gleich ist
 - 2-8 Spieler | Ab 6+ Jahren | Bis zu 15+ Minuten Spielzeit je Partie | Spiel in Deutsch
 - Dobble ist ein schnelles und spaßiges Kartenspiel für Groß und Klein. In der originalen Version von Dobble habt ihr Symbole aus verschiedenen Bereichen
+- Entscheidet euch bei diesem Partyspiel für 1 der 5 verschiedenen Spielvarianten und legt los. Deckt die Karten auf und schaut schnell, welches Symbol auf 2 Karten gleich ist
+- Bei Dobble müsst ihr das einzige Symbol, das auf jeweils zwei Karten abgebildet ist, schneller als eure Mitspieler finden und benennen
 
 [🛒 Hier!!]({{< param buyurl >}})
