@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spezielle Multimedia-Bedienelemente: Das kantenlose Lautstärkerad im Präzisionsdesign ermöglicht eine mühelose Steuerung beim Abspielen, Anhalten, Überspringen oder Stummschalten von Medien
-- LIGHTSYNC RGB: RGB-Beleuchtung der nächsten Generation synchronisiert die Beleuchtung mit ihrem Spiel- und Unterhaltungsinhalt, Personalisiere jede Taste oder erstelle mit der Logitech G HUB-Software eigene Animationen aus ca. 16,8 Millionen Farben
-- Programmierbare G-Tasten: Fünf dedizierte G-Tasten lassen sich über Spiel- oder App-Profile mit benutzerdefinierten Makros und Befehlen programmieren, Erfordert die Verwendung von Logitech G HUB zum einfachen Einrichten und Verwalten von Profilen, Befehlen und mehr
 - Mechanische Switches mit flachem Profil: Die neuen Hochleistungs-Gaming-Switches bieten die Geschwindigkeit, Präzision und Leistung eines mechanischen Switches bei halber Höhe
+- LIGHTSYNC RGB: RGB-Beleuchtung der nächsten Generation synchronisiert die Beleuchtung mit ihrem Spiel- und Unterhaltungsinhalt, Personalisiere jede Taste oder erstelle mit der Logitech G HUB-Software eigene Animationen aus ca. 16,8 Millionen Farben
 - Erstklassige AL-MG-Konstruktion: Die G815 Tastatur ist wunderschön verarbeitet und aus Flugzeug-Aluminium gefertigt, für ein unglaublich dünnes, aber starkes und langlebiges Design
 - USB-Durchschleifung: Das zusätzliche spezielle USB-Kabel verbindet den USB 2,0, Durchschleifanschluss mit einem eigenen Eingang für 100 Prozent Durchsatz und Datengeschwindigkeit
+- Programmierbare G-Tasten: Fünf dedizierte G-Tasten lassen sich über Spiel- oder App-Profile mit benutzerdefinierten Makros und Befehlen programmieren, Erfordert die Verwendung von Logitech G HUB zum einfachen Einrichten und Verwalten von Profilen, Befehlen und mehr
+- Spezielle Multimedia-Bedienelemente: Das kantenlose Lautstärkerad im Präzisionsdesign ermöglicht eine mühelose Steuerung beim Abspielen, Anhalten, Überspringen oder Stummschalten von Medien
 
 [🛒 Hier!!]({{< param buyurl >}})
