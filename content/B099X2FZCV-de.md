@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- WACKELIGE BASIS: Die Basis-Plattform ist instabil. Daher droht der Turm bei jedem Spielzug einzustürzen. Wenn der Turm fällt, ist das Spiel verloren.
+- PERFEKTES GESCHENK für Kinder ab 6 Jahren, 2-4 Spieler.
 - SPIELSPAß & LERNEFFEKT IN EINEM: Hier sind Feinmotorik und strategisches Denken gefragt. Zudem lernt man die Schwerkraft kennen.
 - 48 BUNTE SPIELSTEINE IN VIELEN FORMEN UND GRÖßEN: Es gibt insgesamt 4 Farben & jede Farbe hat 12 Spielsteine in 4 verschiedenen Formen.
 - TURM BAUEN & GEWINNEN: Ziel des Gravity Towers ist es, am schnellsten alle Spielsteine zum Turm zu verbauen – ohne dass dieser einstürzt.
 - DER WÜRFEL BESTIMMT, ob Spielsteine verbaut oder entfernt werden müssen.
-- PERFEKTES GESCHENK für Kinder ab 6 Jahren, 2-4 Spieler.
-- WACKELIGE BASIS: Die Basis-Plattform ist instabil. Daher droht der Turm bei jedem Spielzug einzustürzen. Wenn der Turm fällt, ist das Spiel verloren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
