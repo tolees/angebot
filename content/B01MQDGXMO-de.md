@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Frostsicher: Der integrierte Frostschutz bewahrt die Brause vor Beschädigungen durch Kälte
-- Variable Bewässerung: Wassermenge ist regulierbar und mit Impulsauslösung oder Dauerarretierung einsetzbar
-- Robuste Ausführung: Dank der Metallelemente an Stab, Brausekopf und Anschlussstück äußerst widerstandsfähig
 - Einfach verstellbar: Wässert optional mit einem weichen Brausestrahl, mit Stechstrahl oder Sprühnebel
+- Frostsicher: Der integrierte Frostschutz bewahrt die Brause vor Beschädigungen durch Kälte
+- Robuste Ausführung: Dank der Metallelemente an Stab, Brausekopf und Anschlussstück äußerst widerstandsfähig
+- Variable Bewässerung: Wassermenge ist regulierbar und mit Impulsauslösung oder Dauerarretierung einsetzbar
 - Lieferumfang beinhaltet: 1x Gardena Premium Gießstab, 5 Jahre Gardena Garantie, Made in Germany
 
 [🛒 Hier!!]({{< param buyurl >}})
