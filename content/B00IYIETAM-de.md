@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Direkter Saftauslauf
-- Anti-Tropf-System
 - Leistungsstarke 60 Watt
 - Spülmaschinengeeignet*(*ausgenommen Motor)
 - Start- / Stopp-Automatik
+- Anti-Tropf-System
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
