@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71398 Super Mario Dorries Strandgrundstück – Erweiterungsset  Spielzeug mit Krabbenfigur ab 6 Jahren  kreatives Spiel für Kinder'
-date: 2022-06-01 12:50:46
+date: 2022-06-02 13:09:08
 image: 'https://m.media-amazon.com/images/I/513HFB+nQsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWW61V/?tag=tolees0ca-21'
 descuento: '39.88'
-average: '18.0825'
+average: '18.0766666666667'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
