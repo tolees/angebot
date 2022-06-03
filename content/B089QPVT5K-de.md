@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eisgehärtete Klingen: Auf die richtige Materialhärte kommt es an. Deshalb werden die Messer der Gourmet-Serie im Friodur Verfahren eisgehärtet
-- Selbstschärfender Messerblock: Im Inneren der Einsteckschlitze sind Messerschärfer aus Keramik, die die Messer beim Herausnehmen schleifen
 - Inhalt: Spick und Garniermesser (10 cm), Universalmesser (13 cm), Fleischmesser (16 cm), Kochmesser (20 cm), Brotmesser (20 cm), Vielzweckschere (20, 5 cm), selbstschärfender Messerblock weiß
+- Selbstschärfender Messerblock: Im Inneren der Einsteckschlitze sind Messerschärfer aus Keramik, die die Messer beim Herausnehmen schleifen
+- Eisgehärtete Klingen: Auf die richtige Materialhärte kommt es an. Deshalb werden die Messer der Gourmet-Serie im Friodur Verfahren eisgehärtet
 - Spitzenqualität beginnt schon beim Ausgangsmaterial. Deshalb wird für die Messer der Serie Gourmet die Zwilling Sonderschmelze verwendet. Dieser Stahl erfüllt die höchsten Ansprüche
 - Made in Germany: Die Messerserie Gourmet wird im Zwilling Stammwerk in Solingen hergestellt
 
