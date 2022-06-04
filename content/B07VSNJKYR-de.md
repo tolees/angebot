@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vielfältig: Mit der Krups Nescafé Dolce Gusto Kapselmaschine können Sie über 30 verschiedene Heiß- und Kaltgetränke zubereiten
+- Kompakt: Durch das platzsparende und schlanke Design passt die schwarze Kaffeemaschine auch in die kleinste Küche
 - Einfach: Einfache Handhabung des 0,8 Liter großen Wassertanks sowie höhenverstellbare und spülmaschinengeeignete Abtropfschale ermöglicht eine leichte Reinigung
 - Energiesparend: Automatische Abschaltung der Kapselmaschine nach nur 1 Minute Inaktivität
+- Vielfältig: Mit der Krups Nescafé Dolce Gusto Kapselmaschine können Sie über 30 verschiedene Heiß- und Kaltgetränke zubereiten
 - Individuell: Zubereitung mithilfe des Wahlehebels und automatische Anpassung des Pumpendrucks (maximal 15 Bar) auf die individuellen Anforderungen jeder Getränke-Kreation
 - Schnell: Dank des Aluminium-Thermoblocks ist die Kaffeekapselmaschine in 30 Sekunden einsatzbereit und Sie können unsere leckeren Nescafé Dolce Gusto Heißgetränke einfach und praktisch sofort genießen
-- Kompakt: Durch das platzsparende und schlanke Design passt die schwarze Kaffeemaschine auch in die kleinste Küche
 
 [🛒 Hier!!]({{< param buyurl >}})
