@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - für alle Sportwagenfans und Automobilbegeisterte ab 10 Jahren
 - Nachbau des Elektrosportwagens BMW i8 - maßstabsgetreuer Modellbausatz
-- Level 4 - Detaillierte Bausätze für fortgeschrittene Modellbauer. Setzen Erfahrung beim Kleben und Bemalen voraus.
 - Inhalt: Autobausatz im Maßstab 1:24 mit 131 Teilen
 - Länge des zusammengebauten Modells ca. 19,5 cm
+- Level 4 - Detaillierte Bausätze für fortgeschrittene Modellbauer. Setzen Erfahrung beim Kleben und Bemalen voraus.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

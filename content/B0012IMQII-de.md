@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine unvergleichliche Création der Maîtres Chocolatiers von Lindt
-- Endecken Sie die ganze Osterwelt von Lindt & Sprüngli
+- Wichtiger HINWEIS: Osterartikel haben ein einheitliches Mindesthaltbarkeitsdatum (ca. 3 Monate nach Ostern)
 - Als zeitlose Schokoladenikone des Osterfestes veredelt der Lindt Gold Hase die Feierlichkeiten zu unvergesslichen Momenten
 - Aus feinsten Zutaten, darunter Kakaobohnen aus nachhaltigem Anbau
-- Wichtiger HINWEIS: Osterartikel haben ein einheitliches Mindesthaltbarkeitsdatum (ca. 3 Monate nach Ostern)
+- Eine unvergleichliche Création der Maîtres Chocolatiers von Lindt
 - Ideal zum Verschenken oder selber genießen
+- Endecken Sie die ganze Osterwelt von Lindt & Sprüngli
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

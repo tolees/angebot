@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktfamilie: HP 128A 2er-Pack (CE320AD), HP 128A 3er-Pack Cyan/Magenta/Gelb (CF371AM), HP 128A Cyan (CE321A), HP 128A Gelb (CE322A), HP 128A Magenta (CE323A)
-- Kompatibel mit: HP LaserJet Pro CP1525n Farbdrucker (CE874A), HP LaserJet Pro CP1525nw Farbdrucker (CE875A), HP LaserJet Pro CM1415fn (CE861A), HP LaserJet Pro CM1415fnw (CE862A)
 - Lieferumfang: HP 128A Original Laserjet Tonerkartusche (CE320A) schwarz, Druckkassette; Recycling-Anleitung
+- Produktfamilie: HP 128A 2er-Pack (CE320AD), HP 128A 3er-Pack Cyan/Magenta/Gelb (CF371AM), HP 128A Cyan (CE321A), HP 128A Gelb (CE322A), HP 128A Magenta (CE323A)
 - Original HP Toner: Erstklassige Druckqualität, hohe Zuverlässigkeit und einfache Handhabung
 - Reichweite: ca. 2.000 Seiten (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19752)
+- Kompatibel mit: HP LaserJet Pro CP1525n Farbdrucker (CE874A), HP LaserJet Pro CP1525nw Farbdrucker (CE875A), HP LaserJet Pro CM1415fn (CE861A), HP LaserJet Pro CM1415fnw (CE862A)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Betriebstemperatur: 10 bis 30°C
-- Lieferumfang: HP 128A Original Laserjet Tonerkartusche (CE321A) cyan/blau Druckkassette; Recycling-Anleitung
 - Original HP Toner: Erstklassige Druckqualität, hohe Zuverlässigkeit und einfache Handhabung
+- Lieferumfang: HP 128A Original Laserjet Tonerkartusche (CE321A) cyan/blau Druckkassette; Recycling-Anleitung
 - Produktfamilie: HP 128A 2er-Pack (CE320AD), HP 128A 3er-Pack Cyan/Magenta/Gelb (CF371AM), HP 128A Gelb (CE322A), HP 128A Magenta (CE323A), HP 128A Schwarz (CE320A)
+- Betriebstemperatur: 10 bis 30°C
 - Reichweite: ca. 1.300 Seiten (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19789)
 - Kompatibel mit: HP LaserJet Pro CP1525n Farbdrucker (CE874A), HP LaserJet Pro CP1525nw Farbdrucker (CE875A), HP LaserJet Pro CM1415fn (CE861A), HP LaserJet Pro CM1415fnw (CE862A)
 
