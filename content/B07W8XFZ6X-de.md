@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Netzwerkkabel im Lieferumfang stellt eine Verbindung zu Ihrem vorhandenen (Kabel-/DSL-)Modem her und ersetzt Ihren WLAN-Router
-- Einfache Einrichtung in wenigen Minuten mit der Orbi App: Einstellungen verwalten, Speed-Tests machen und WLAN sowie Datennutzung überwachen
-- Orbi Mesh WiFi 6 ist kompatibel mit allen Internetanbietern bis 2,5 GBit/s (ADSL/VDSL, Kabel, Glasfaser, Satellit)
 - NETGEAR Armor Technologie (by BitDefender) schützt unbegrenzt viele mobile und Heimgeräte vor Viren, Malware oder Datendiebstahl (inkl. 30 Tage kostenlose Testlizenz)
-- Ultraschnelles AX6000 mit WiFi 6 Technologie für unterbrechnungsfreies Streaming, HD-Gaming, Webkonferenzen und Home Office
-- WLAN-Abdeckung bis zu 350 m² und über 100 Geräten, mit jedem Satelliten (RBS850 separat erhältlich) kann Reichweite um bis zu 175 m² erweitert werden
 - Mesh WLAN WiFi 6 Orbi RBK852 inklusive 1-jähriger Hardware-Garantie
+- Ultraschnelles AX6000 mit WiFi 6 Technologie für unterbrechnungsfreies Streaming, HD-Gaming, Webkonferenzen und Home Office
+- Orbi Mesh WiFi 6 ist kompatibel mit allen Internetanbietern bis 2,5 GBit/s (ADSL/VDSL, Kabel, Glasfaser, Satellit)
+- Einfache Einrichtung in wenigen Minuten mit der Orbi App: Einstellungen verwalten, Speed-Tests machen und WLAN sowie Datennutzung überwachen
 - Je 4 Gigabit Netzwerkanschlüsse an Router und Satelliten zum Kabelanschluss von Computern, Spielkonsolen, Streaming-Player und anderen Geräten
+- WLAN-Abdeckung bis zu 350 m² und über 100 Geräten, mit jedem Satelliten (RBS850 separat erhältlich) kann Reichweite um bis zu 175 m² erweitert werden
+- Das Netzwerkkabel im Lieferumfang stellt eine Verbindung zu Ihrem vorhandenen (Kabel-/DSL-)Modem her und ersetzt Ihren WLAN-Router
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

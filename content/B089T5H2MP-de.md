@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 🚪 Der ekey uno Fingerprint stellt eine praktische Erweiterung für Ihr Nuki Smart Lock 1.0, 2.0 oder 3.0 dar. Der Fingerprint benötigt das Smart Lock, um die Tür zu öffnen.
-- ✅ Administration via kostenloser ekey uno App (ab iOS 11/ Android 7) - Erfassung von bis zu 200 Fingern / 20 User, Vergabe von Zutrittsberechtigungen und Zeitfenstern
-- ✅ Smarter Fingerprint zur kinderleichten Selbstmontage in nur wenigen Minuten - ohne Bohren, Stemmen oder Verkabeln
-- ✅ Sorgenfreier Zutritt, auch für Ihre Kinder (ab 5 Jahren) - Keine vergessenen, verlegten, verlorenen oder gestohlenen Schlüssel mehr
 - ✅ Auf - bzw. Zusperren OHNE Schlüssel, Smartphone, Zahlencode oder Karte - Öffnen Sie Ihre Haustür einfach und bequem mit Ihrem Finger
+- ✅ Sorgenfreier Zutritt, auch für Ihre Kinder (ab 5 Jahren) - Keine vergessenen, verlegten, verlorenen oder gestohlenen Schlüssel mehr
+- ✅ Smarter Fingerprint zur kinderleichten Selbstmontage in nur wenigen Minuten - ohne Bohren, Stemmen oder Verkabeln
+- ✅ Administration via kostenloser ekey uno App (ab iOS 11/ Android 7) - Erfassung von bis zu 200 Fingern / 20 User, Vergabe von Zutrittsberechtigungen und Zeitfenstern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

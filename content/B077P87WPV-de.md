@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dehnbare, elastanverstärkte Rippstrickbündchen an Ärmeln und Bund
-- Carhartt ist eine Marke für Arbeitskleidung mit einer weiteren Passform an Brust und Schultern Wenn Sie eine körpernahe Passform bevorzugen, nehmen Sie die nächstkleinere Größe
-- Lange Ärmel
-- Mittelschweres Fleece
 - Angebrachte dreiteilige Kapuze mit verstellbarem Kordelzug
+- Mittelschweres Fleece
 - Carhartt Signatur-Logo auf der Brust gedruckt
+- Carhartt ist eine Marke für Arbeitskleidung mit einer weiteren Passform an Brust und Schultern Wenn Sie eine körpernahe Passform bevorzugen, nehmen Sie die nächstkleinere Größe
 - Zwei untere Handwärmetaschen vorne
+- Lange Ärmel
+- Dehnbare, elastanverstärkte Rippstrickbündchen an Ärmeln und Bund
 
 [🛒 Hier!!]({{< param buyurl >}})

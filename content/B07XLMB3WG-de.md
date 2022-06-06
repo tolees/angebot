@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - INTEGRIERTES KABELMANAGEMENT: Die PWM-Kabel der Radiatorlüfter sind in der Ummantelung der Schläuche integriert, wodurch nur ein sichtbares Kabel mit dem Motherboard verbunden wird
+- LGA1700 KOMPATIBILITÄT OPTIONAL: Durch das LGA1700 Montagekit (separat erhältlich) ist die gesamte Liquid Freezer II Serie mit Intels neuen Alder Lake Prozessoren kompatibel
+- 80 % WENIGER STROMVERBRAUCH: Im Gegensatz zur Konkurrenz verbraucht unsere PWM-gesteuerte Pumpe weniger Strom und verursacht weniger Lärm, wenn wenig Kühlleistung erforderlich ist
+- WARTUNGSFREIER WASSERKREISLAUF: Der Wasserkreislauf ist abgedichtet und mit faserverstärkten EPDM-Schläuchen versehen, dies verhindert die Verdunstung des Kühlmittels = kein Nachfüllen notwendig
 - BIS ZU 15 °C NIEDRIGERE TEMPERATUR DER SPANNUNGSWANDLER: Auf der Pumpe befindet sich ein austauschbarer 40 mm VRM-Lüfter (PWM-gesteuert), der Sockelbereich und Spannungswandler zusätzlich kühlt
 - PERFORMANCEKÖNIG: Durch eine effizientere Cold Plate, eigenentwickelte Pumpe sowie auf statischen Druck optimierte Lüfter, setzt sich der Liquid Freezer II deutlich von anderen AiO-Wasserkühlern ab
-- WARTUNGSFREIER WASSERKREISLAUF: Der Wasserkreislauf ist abgedichtet und mit faserverstärkten EPDM-Schläuchen versehen, dies verhindert die Verdunstung des Kühlmittels = kein Nachfüllen notwendig
 - VERLÄNGERTE GARANTIE: Auf alle Kühler der Liquid Freezer II Serie geben wir ab sofort 6 Jahre Garantie ab Kaufdatum. Die Garantieverlängerung bieten wir auch rückwirkend für bereits erworbene Kühler
-- 80 % WENIGER STROMVERBRAUCH: Im Gegensatz zur Konkurrenz verbraucht unsere PWM-gesteuerte Pumpe weniger Strom und verursacht weniger Lärm, wenn wenig Kühlleistung erforderlich ist
-- LGA1700 KOMPATIBILITÄT OPTIONAL: Durch das LGA1700 Montagekit (separat erhältlich) ist die gesamte Liquid Freezer II Serie mit Intels neuen Alder Lake Prozessoren kompatibel
 
 [🛒 Hier!!]({{< param buyurl >}})
