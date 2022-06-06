@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausgestattet mit der wasserdichten und sehr atmungsaktiven NanoPro Eco Membran und Abdeckleisten über den Reißverschlüssen überzeugt die Hardshellhose bei jedem Wetter, ohne dass man schwitzt
-- Outdoorhose mit vielen Extras: zwei Fronttaschen, eine am Gesäß, elastischer Bund, durchgehende Seiten-Reißverschlüsse; vorgeformte Kniepartie für ergonomische Laufbewegung, kleines Packmaß
-- Robuste 2.5-lagige Regenhose für Herren mit vollwertigem Schutz bei Wind und Wetter; wasser- und winddichtes Material; die Wanderhose schützt auf Wanderungen und Trekkingtouren
-- Das Gewebe der Funktionshose transportiert Feuchtigkeit effektiv nach außen; die praktischen, durchgehenden seitlichen Reißverschlüsse bieten zusätzliche Ventilation und optimale Bewegungsfreiheit
 - Die 320g leichte Überziehhose ist aus recyceltem Nylon gefertigt, passt sich der darunterliegenden Kleidung optimal an und lässt sich Dank der Bein-Reißverschlüsse sehr einfach an- und ausziehen
+- Das Gewebe der Funktionshose transportiert Feuchtigkeit effektiv nach außen; die praktischen, durchgehenden seitlichen Reißverschlüsse bieten zusätzliche Ventilation und optimale Bewegungsfreiheit
+- Outdoorhose mit vielen Extras: zwei Fronttaschen, eine am Gesäß, elastischer Bund, durchgehende Seiten-Reißverschlüsse; vorgeformte Kniepartie für ergonomische Laufbewegung, kleines Packmaß
+- Ausgestattet mit der wasserdichten und sehr atmungsaktiven NanoPro Eco Membran und Abdeckleisten über den Reißverschlüssen überzeugt die Hardshellhose bei jedem Wetter, ohne dass man schwitzt
+- Robuste 2.5-lagige Regenhose für Herren mit vollwertigem Schutz bei Wind und Wetter; wasser- und winddichtes Material; die Wanderhose schützt auf Wanderungen und Trekkingtouren
 
 [🛒 Hier!!]({{< param buyurl >}})
