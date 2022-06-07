@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spieß und Gehäuse sind aus stabilem, witterungsbeständigem Kunststoff und spritzwasserfest
+- Steckdose für außen mit Neopren-Gummianschlussleitung und Schutzkontakt-Stecker
 - Lieferumfang: 1 x Außensteckdose mit selbstschließenden Klappdeckeln - in bester Qualität von brennenstuhl
 - 2er Garten-Steckdose mit Erdspieß für den Einsatz im Freien 1,4m Kabellänge H07RN-F 3G1,5
-- Steckdose für außen mit Neopren-Gummianschlussleitung und Schutzkontakt-Stecker
 - Outdoor-Steckdosenleiste für den ständigen Einsatz im Freien, zum Anschluss von Gartenleuchten, Lichterketten, Radio, Elektrogrill usw.
 
 [🛒 Hier!!]({{< param buyurl >}})

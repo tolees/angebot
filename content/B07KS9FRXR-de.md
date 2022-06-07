@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sweat-Gewebe
-- Mesh-Futter
 - Gedrucktes hummel-Logo auf der Brust
-- Kapuze mit Kordelzug
+- Mesh-Futter
 - Chevrons an den Ärmeln
+- Sweat-Gewebe
+- Kapuze mit Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})

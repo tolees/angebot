@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bei Starthilfevorgängen ohne diese Schutzvorrichtung können Spannungsspitzen bis zu 800 V im Nanosekundenbereich auftreten, womit eine Vorschädigung oder sogar ein Totalausfall einzelner elektronischer Bauteile auftreten kann
-- Schnelle Hilfe für die schwache Batterie und mit vollisolierten Best-Contact-Polklemmen. Kupfer-Aluminium-Technologie. Entspricht dem Leitwert eines traditionellen 25 mm² Starthilfekabels aus Kupfer. Erfüllt die DIN 72553
-- Das AEG Starthilfekabel ist mit StartProtect Spannungsspitzenschutz ausgestattet und wird in einer praktischen Aufbewahrungstasche geliefert
-- Ein mit StartProtect ausgestattetes Starthilfekabel verhindert das Durchschlagen hoher induktiver Spannungen auf die sensible Bordelektronik der am Startvorgang beteiligten Fahrzeuge
 - Mit StartProtect - der Spannungsspitzenschutz verhindert Beschädigungen der empfindlichen Bordelektronik beider beteiligter Fahrzeuge (ABS, Airbag, HiFi etc.)
+- Das AEG Starthilfekabel ist mit StartProtect Spannungsspitzenschutz ausgestattet und wird in einer praktischen Aufbewahrungstasche geliefert
+- Schnelle Hilfe für die schwache Batterie und mit vollisolierten Best-Contact-Polklemmen. Kupfer-Aluminium-Technologie. Entspricht dem Leitwert eines traditionellen 25 mm² Starthilfekabels aus Kupfer. Erfüllt die DIN 72553
+- Ein mit StartProtect ausgestattetes Starthilfekabel verhindert das Durchschlagen hoher induktiver Spannungen auf die sensible Bordelektronik der am Startvorgang beteiligten Fahrzeuge
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

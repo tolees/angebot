@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jedes einzelne Ripjaws V DDR4-Speicherkit wurde mit dem strengen G.SKILL-Validierungsprozess für alle wichtigen Motherboard-Marken getestet
-- Die Ripjaws V ist nicht nur mit einem eleganten neuen Look entworfen, sondern auch in fünf verschiedenen Farben erhältlich
 - Der Ripjaws V ist in einer Vielzahl von Frequenzoptionen erhältlich, von Standard DDR4-2133MHz bis hin zu einem atemberaubenden DDR4-4000MHz
 - 42mm Modulhöhe
+- Jedes einzelne Ripjaws V DDR4-Speicherkit wurde mit dem strengen G.SKILL-Validierungsprozess für alle wichtigen Motherboard-Marken getestet
+- Die Ripjaws V ist nicht nur mit einem eleganten neuen Look entworfen, sondern auch in fünf verschiedenen Farben erhältlich
 
 [🛒 Hier!!]({{< param buyurl >}})

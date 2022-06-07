@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Raglanärmel
-- Känguru-Tasche
-- Elastische Ripp-Bündchen
 - Kapuze mit Zugschnur
+- Känguru-Tasche
 - Packung die Größe: 7.2 L x 35.6 H x 24.8 W (cm)
+- Raglanärmel
+- Elastische Ripp-Bündchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

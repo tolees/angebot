@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eco-Drive
-- Batterie-Entladungsanzeige
 - Funkuhr
 - WR: 10 bar
+- Eco-Drive
+- Batterie-Entladungsanzeige
 - Gangreserve: 180 Tage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Präzisionsklinge (7mm), 2 Scherführungen (2-14mm, 3-15mm)
-- W-Tech: feste Klinge (Edelstahl) & bewegliche Klinge (CMS, 3D-Schliff)
-- 2 Rasierköpfe für Körper und Gesicht (3mm, 18mm), Nasen- und Ohrhaartrimmer
-- Präzisionsscherführung für den Bart mit 6 Positionen(0,5-6mm)
 - Netz- und Akkubetrieb, Lade- und Verstausockel, Waterproof
+- 2 Rasierköpfe für Körper und Gesicht (3mm, 18mm), Nasen- und Ohrhaartrimmer
+- W-Tech: feste Klinge (Edelstahl) & bewegliche Klinge (CMS, 3D-Schliff)
 - Trimmer
+- Präzisionsscherführung für den Bart mit 6 Positionen(0,5-6mm)
+- Präzisionsklinge (7mm), 2 Scherführungen (2-14mm, 3-15mm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
