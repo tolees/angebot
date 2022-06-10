@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verdrehsicherung durch Verippung am Zusatzhandgriff und stabiler Tiefenanschlag aus Metall für exakte Serienbohrungen
 - Robuster Aluminuim-Getriebekopf und Überlastrutschkupplung für sicheres und komfortables Arbeiten und Schutz des Motors / Spezielles Anti-Vibrations-System im Handgriff und Softgriffeinlagen für sicheren Halt
+- 4 starke Funktionen: Bohren, Schlagbohren, Meißeln mit und ohne Fixierung im kompakten Kraftpaket mit 1.600 Watt Leistung
 - Inklusive Staubkappe und praktischem Transport- und Aufbewahrungskoffer
 - Pneumatisches Schlagwerk für besten Vortrieb bei allen Bauvorhaben
-- Verdrehsicherung durch Verippung am Zusatzhandgriff und stabiler Tiefenanschlag aus Metall für exakte Serienbohrungen
-- 4 starke Funktionen: Bohren, Schlagbohren, Meißeln mit und ohne Fixierung im kompakten Kraftpaket mit 1.600 Watt Leistung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
