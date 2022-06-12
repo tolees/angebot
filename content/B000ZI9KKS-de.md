@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzhöhe: 2 cm
 - Innenmaterial: Textil
 - Sohle: Gummi
 - Obermaterial: Leder
 - Verschluss: Klettverschluss
+- Absatzhöhe: 2 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
