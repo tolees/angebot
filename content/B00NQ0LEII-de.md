@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CITIZEN Herren Analog Quarz Uhr mit Edelstahl Armband CB0010-88L'
-date: 2022-06-07 11:33:34
+date: 2022-06-12 12:05:17
 image: 'https://m.media-amazon.com/images/I/51QTFAOffkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00NQ0LEII-de CITIZEN Herren Analog Quarz Uhr mit Edelstahl Armband...'
 sku: 'B00NQ0LEII-de'
 tags: [ 'Armbanduhren für Damen','Damenuhren','Regular Stores','Shops','Uhren','citizen','🇩🇪', ]
-actualPrice: 199.0 EUR
+actualPrice: 189.0 EUR
 currency: EUR
-price: 199.0
+price: 189.0
 comparePrice: 349.0 EUR
 prodname: 'CITIZEN Herren Analog Quarz Uhr mit Edelstahl Armband CB0010-88L'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Citizen'
 buyurl: 'https://www.amazon.de/dp/B00NQ0LEII/?tag=tolees0ca-21'
-descuento: '42.98'
-average: '199.0'
+descuento: '45.85'
+average: '194.0'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,6 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Funkuhr
+- Um die Umwelt zu schonen, ändert Citizen derzeit die Darstellung der Betriebsanleitung. Anstelle einer gedruckten Version wird eine neue digitale Version mit einem QR-Code erstellt.
 - WR: 10 bar
 - Eco-Drive
 - Batterie-Entladungsanzeige
