@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Stabilität durch Stahlrohrgestell & Aluminium-Drehkreuz, 3-D verstellbare Armlehnen
-- Verstellbare Rückenlehne um bis zu 135° mit Wipp- und Feststellfunktion und verstellbare Kissen für den Kopf- und unteren Rückenbereich
-- Empfohlene Körpergröße: 145-180cm, Sitzhöhe: 41-51cm
 - Material: Kunstleder, Maße: 67x67x128cm
 - Belastbarkeit: 150kg*, 8+ Std. Sitzkomfort
+- Hohe Stabilität durch Stahlrohrgestell & Aluminium-Drehkreuz, 3-D verstellbare Armlehnen
+- Empfohlene Körpergröße: 145-180cm, Sitzhöhe: 41-51cm
+- Verstellbare Rückenlehne um bis zu 135° mit Wipp- und Feststellfunktion und verstellbare Kissen für den Kopf- und unteren Rückenbereich
 
 [🛒 Hier!!]({{< param buyurl >}})

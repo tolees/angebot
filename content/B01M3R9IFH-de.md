@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SATA III 6 GB/s Schnittstelle
-- 3D NAND Flash mit DDR3 DRAM Cache, Exclusive SSD Scope Software
+- Bis zu 560 MB/s Lesen; 520 MB/s Schreiben
 - Standard 2.5" Formfaktor mit nur 7mm Bauhöhe
 - 512 GB Speicherkapazität
-- Bis zu 560 MB/s Lesen; 520 MB/s Schreiben
+- SATA III 6 GB/s Schnittstelle
+- 3D NAND Flash mit DDR3 DRAM Cache, Exclusive SSD Scope Software
 
 [🛒 Hier!!]({{< param buyurl >}})

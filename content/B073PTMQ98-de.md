@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anschlüsse: USB 2. 0
-- Packung die Größe: 14.808 L x 40.106 H x 22.199 W (cm)
 - Packung Weight: 2.132 kg
+- Anschlüsse: USB 2. 0
 - Auflösung: 1920x1080 Pixel (30Fps)
+- Packung die Größe: 14.808 L x 40.106 H x 22.199 W (cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus der Schiesser-Serie "Cotton Essentials"
 - Mit softem, schmalem Gummibund für höchsten Tragekomfort
 - Hergestellt in Europa
+- Aus der Schiesser-Serie "Cotton Essentials"
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Alpenvollmilch-Schokolade, Kakao: 30% mindestens
 - Ideal zum Verschenken oder selber genießen.
+- Ideal zum Verschenken oder selber genießen.
 - Eine unvergleichliche Création der Maîtres Chocolatiers von Lindt.
 - Alpenvollmilch-Schokolade, Kakao: 30% mindestens
 - Eine unvergleichliche Création der Maîtres Chocolatiers von Lindt.
-- Ideal zum Verschenken oder selber genießen.
 
 [🛒 Hier!!]({{< param buyurl >}})

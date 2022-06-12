@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 7. Erweiterung zum Klassiker Dixit
 - Spieldauer 30 Minuten
+- 7. Erweiterung zum Klassiker Dixit
 - für 3-6 Spieler
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Textil
 - Obermaterial: Leder
+- Innenmaterial: Textil
 - Flach
 
 [🛒 Hier!!]({{< param buyurl >}})

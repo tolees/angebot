@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PREMIUM ABBILDUNGSQUALITÄT - Die moderne optische Konstruktion ermöglicht eine erstklassige Bildschärfe mit extrem geringen optischen Verzeichnungen
-- Wenn Sie eine Produkt-Vorführung in einem Geschäft in Ihrer Nähe wünschen, scrollen Sie bitte nach unten zum Abschnitt "Produktleitfäden und Dokumente" und klicken Sie auf den Link "Broschüre (PDF)", um eine Liste der Einzelhändler und Standorte anzuzeigen
-- HOHE LICHTSTÄRKE - die konstante Lichtstärke von F2,8 ist ideal für Fotos unter schlechten Lichtbedingungen und sorgt für eine angenehme Hintergrundunschärfe
 - GUT GESCHÜTZT - Robuste L Serie Konstruktion mit Staub- und Spritzwasserschutz und Fluorbeschichtung der Front- und Rücklinse
 - VIELSEITIGES ANGEBOT - Ein leistungsstarkes Weitwinkel-Zoomobjektiv für die unterschiedlichsten Weitwinkel-Einstellungen von extrem bis moderat. Ideal zum Fotografieren von Landschaften, Architektur.
 - LIEFERUMFANG - EF 16-35 mm F2,8L III USM Brennweite; Objektivdeckel E82 II; Objektivrückdeckel E; Streulichtblende EW-88D; Objektivbeutel LP1222
+- HOHE LICHTSTÄRKE - die konstante Lichtstärke von F2,8 ist ideal für Fotos unter schlechten Lichtbedingungen und sorgt für eine angenehme Hintergrundunschärfe
+- PREMIUM ABBILDUNGSQUALITÄT - Die moderne optische Konstruktion ermöglicht eine erstklassige Bildschärfe mit extrem geringen optischen Verzeichnungen
+- Wenn Sie eine Produkt-Vorführung in einem Geschäft in Ihrer Nähe wünschen, scrollen Sie bitte nach unten zum Abschnitt "Produktleitfäden und Dokumente" und klicken Sie auf den Link "Broschüre (PDF)", um eine Liste der Einzelhändler und Standorte anzuzeigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

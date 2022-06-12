@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Funkuhr
-- Um die Umwelt zu schonen, ändert Citizen derzeit die Darstellung der Betriebsanleitung. Anstelle einer gedruckten Version wird eine neue digitale Version mit einem QR-Code erstellt.
-- WR: 10 bar
 - Eco-Drive
+- WR: 10 bar
+- Um die Umwelt zu schonen, ändert Citizen derzeit die Darstellung der Betriebsanleitung. Anstelle einer gedruckten Version wird eine neue digitale Version mit einem QR-Code erstellt.
 - Batterie-Entladungsanzeige
+- Funkuhr
 - Gangreserve: 180 Tage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

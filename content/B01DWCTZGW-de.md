@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Flexibler Aufbau: Variable Größe, verwendbar mit 1 oder 2 Ringen je nach Menge des Grillguts - ohne Smokerringe auch als Mini-Grill verwendbar - ideal zum Beispiel als Zweitgrill bei vielen Gästen
-- Praktisches Deckelscharnier: Kein lästiges Ablegen des Deckels mehr - das Scharnier und der robuste Deckelgriff garantieren schnelles Öffnen und Schließen des Deckels mit nur einer Hand - inkl. großem Deckelthermometer mit Anzeige in °C und °F
-- Grillfläche und Zubehör: Extra große Grillfläche 2 × Ø 50 cm, 2 × 1.885 cm² - patentierter Wende-Kohlerost für direktes und indirektes Grillen aus verchromtem Stahl - Räucherhalter mit Smokerhaken für ganze Fische
 - Smokerringe: Die Ringe können miteinander fixiert werden und haben Griffe für einfachen und sicheren Transport - gesamtes Gehäuse aus porzellanemailliertem Stahl
 - Wärmespeicher: Integrierter Wasserbehälter mit 7 Litern Inhalt sorgt für eine gleichbleibende Temperatur während des Garens - Steuerung der Temperatur im Garraum durch präzise Einstellung der Luftzufuhr
+- Grillfläche und Zubehör: Extra große Grillfläche 2 × Ø 50 cm, 2 × 1.885 cm² - patentierter Wende-Kohlerost für direktes und indirektes Grillen aus verchromtem Stahl - Räucherhalter mit Smokerhaken für ganze Fische
+- Praktisches Deckelscharnier: Kein lästiges Ablegen des Deckels mehr - das Scharnier und der robuste Deckelgriff garantieren schnelles Öffnen und Schließen des Deckels mit nur einer Hand - inkl. großem Deckelthermometer mit Anzeige in °C und °F
 
 [🛒 Hier!!]({{< param buyurl >}})

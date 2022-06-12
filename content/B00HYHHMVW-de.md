@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht verständlich: Bebilderte Anleitung, die die Arbeitsabläufe Schritt für Schritt erklärt
-- DIY-Mitbringsel: Ein kreatives Geschenk für Mädchen und Jungen ab 8 Jahren
+- Ideal für Kindergeburtstage, den Urlaub und Bastelnachmittage mit Freunden, Geschwistern und Familie
 - Hochwertige Materialien: Gipsbinden, Wasserfarben, Palette, Pinsel, Luftballons und weicher Aluminiumdraht
 - Mit vielen Ideen und Anregungen, um die fertigen Skulpturen weiter zu verzieren
 - Basteln fördert Ihr Kind: Feinmotorik, räumliches Vorstellungsvermögen und Kreativität werden geschult
 - Bastelspaß: Lustige und fantasievolle Figuren aus Luftballons und Gipsbinden basteln
+- Leicht verständlich: Bebilderte Anleitung, die die Arbeitsabläufe Schritt für Schritt erklärt
 - Kreativ und bunt: Mit Palette, Farben und Pinsel zum Bemalen der Figuren
-- Ideal für Kindergeburtstage, den Urlaub und Bastelnachmittage mit Freunden, Geschwistern und Familie
+- DIY-Mitbringsel: Ein kreatives Geschenk für Mädchen und Jungen ab 8 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

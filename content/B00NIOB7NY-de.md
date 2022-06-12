@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- in anderer Ausführung erhältlich
-- zwei Schubladen mit Softeinzug
 - Echtholz Wildeiche massiv geölt
-- Schreibtisch / Sekretär / Konsolentisch
 - auch mit Aufsatz erhältlich
+- zwei Schubladen mit Softeinzug
+- Schreibtisch / Sekretär / Konsolentisch
+- in anderer Ausführung erhältlich
 
 [🛒 Hier!!]({{< param buyurl >}})
