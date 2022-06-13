@@ -29,7 +29,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Collection: Herbst-Winter 19
-- Standard
 - Fit: Regular
+- Standard
 
 [🛒 Hier!!]({{< param buyurl >}})
