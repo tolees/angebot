@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vtech
-- 80-602104
 - Inhalt: 1 Stück
+- 80-602104
 - VTech MagiBook blau/gruen Lerncomputer
+- Vtech
 
 [🛒 Hier!!]({{< param buyurl >}})

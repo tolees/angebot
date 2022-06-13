@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gerippte Bündchen
-- Baumwolle
 - Reguläre Passform
-- Adidas Logo an der Hüfte
 - Elastischer Bund mit Kordelzug
+- Adidas Logo an der Hüfte
+- Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

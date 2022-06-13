@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Face ID für sicheres Authentifizieren und Apple Pay
 - 5,8" Super Retina HD OLED Display (14,7 cm Diagonale)
-- 7 Megapixel TrueDepth Frontkamera mit Porträtmodus, Porträtlicht, Tiefen-Kontrolle und 1080p Video
-- A12 Bionic mit Neural Engine der 2. Generation
-- iOS mit Dunkelmodus, neuen Tools zum Bearbeiten von Fotos und Videos und ganz neuen Datenschutzfunktionen
-- 12 Megapixel Zwei-Kamera-System mit Weitwinkel- und Teleobjektiv, Porträtmodus, Porträtlicht, Tiefen-Kontrolle, Smart HDR und 4K Video bis zu 60 fps
-- Wasser- und Staubschutz (2 Meter bis zu 30 Minuten, IP68)
 - Schnellladen
+- 12 Megapixel Zwei-Kamera-System mit Weitwinkel- und Teleobjektiv, Porträtmodus, Porträtlicht, Tiefen-Kontrolle, Smart HDR und 4K Video bis zu 60 fps
+- A12 Bionic mit Neural Engine der 2. Generation
+- Wasser- und Staubschutz (2 Meter bis zu 30 Minuten, IP68)
+- 7 Megapixel TrueDepth Frontkamera mit Porträtmodus, Porträtlicht, Tiefen-Kontrolle und 1080p Video
+- Face ID für sicheres Authentifizieren und Apple Pay
+- iOS mit Dunkelmodus, neuen Tools zum Bearbeiten von Fotos und Videos und ganz neuen Datenschutzfunktionen
 - Kabelloses Laden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
