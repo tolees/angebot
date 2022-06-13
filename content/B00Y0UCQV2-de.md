@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Plateausohle aus Gummi
 - Vielseitig kombinierbar
 - Für ein stilbewusstes Auftreten
-- Superga Logo an der Seite
 - Idealer Sommersneaker
-- Plateausohle aus Gummi
+- Superga Logo an der Seite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
