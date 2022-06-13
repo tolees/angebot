@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dumm gelaufen! ist ideal für jeden Spieleabend mit der Familie oder Freunden und auch ein tolles Geschenk für Kinder und Erwachsene ab 10 Jahren zu Anlässen wie Weinachten, Geburtstag oder Ostern
-- Das Kartenspiel Dumm gelaufen! folgt erbarmungslos Murphys Gesetz: Was schiefgehen kann, geht schief! Ziel ist es, möglichst schnell die Aufträge auf den Murphy-Spielkarten zu erfüllen
 - Mal sind nur grüne Karten gefragt, mal nur solche mit dem Wert 5. Doch wer glaubt, das sei einfach und seine Aufgabe so gut wie gelöst, wird eines Besseren belehrt
 - Auch der fiktive Mitspieler Mac und die Aktionskarten mischen mit und bringen Abwechslung in die Runde. Gefragt sind gute Nerven und eine große Portion Glück
 - Das Kartenspiel für 2-6 Spieler ist kurzweilig, macht jede Menge Spaß und nimmt einen unvorhersehbaren Lauf. Es ist durch das praktische Reiseformat super zum Mitnehmen geeignet
+- Das Kartenspiel Dumm gelaufen! folgt erbarmungslos Murphys Gesetz: Was schiefgehen kann, geht schief! Ziel ist es, möglichst schnell die Aufträge auf den Murphy-Spielkarten zu erfüllen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
