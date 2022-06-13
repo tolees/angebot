@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abriebfeste Griffkennzeichnung
-- Winkelschlüsselsatz für Innensechskantschrauben
 - Winkelschlüssel sind durch ihre Größenkennzeichnung schnell zur Hand
 - Hex-Plus lässt Innensechskantschrauben länger leben
 - Verschleißfreies Clip-Material für erhöhte Lebensdauer
+- Abriebfeste Griffkennzeichnung
+- Winkelschlüsselsatz für Innensechskantschrauben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passwortschutz mit Hardwareverschlüsselung
-- WD-Discovery-Software für den Import von WD Security, soziale Medien und Cloud-Speicher und WD-Laufwerksdienstprogrammen
 - Automatisches Backup mit integrierter WD-Backup-Software und Kompatibilität mit Time Machine
+- WD-Discovery-Software für den Import von WD Security, soziale Medien und Cloud-Speicher und WD-Laufwerksdienstprogrammen
+- Passwortschutz mit Hardwareverschlüsselung
 - Einfach einzusetzen
 - Bis zu 18 TB Kapazität
 
