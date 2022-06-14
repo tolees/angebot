@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das Ivy Smarter Kit kommt mit einer Basisstation und 2 LED-Lampen, die mit einem Smartphone gesteuert werden können. Durch die Kompatibilität mit Apple HomeKit muss das iPhone nicht einmal mehr entsperrt werden, steuern Sie ihre Beleuchtung (bis zu 50 Lampen) einfach über Siri.
 - Mit einem einzigartigen Abstrahlwinkel von 360° zählt die Ivy zu den weltweit effizientesten LED-Lampen und ist um 87% ergiebiger als eine herkömmliche Glühbirne.
 - Durch das elegante, klassische Design passt sich der Nanoleaf jeder Lampe und Umgebung an und verleiht Ihrem Raum so eine besonderen Akzent. Die Einrichtung mit der kostenlosen App ist kinderleicht und offiziell mit dem Logo "Works with Apple HomeKit" zertifiziert.
-- Das Ivy Smarter Kit kommt mit einer Basisstation und 2 LED-Lampen, die mit einem Smartphone gesteuert werden können. Durch die Kompatibilität mit Apple HomeKit muss das iPhone nicht einmal mehr entsperrt werden, steuern Sie ihre Beleuchtung (bis zu 50 Lampen) einfach über Siri.
-- Die Ivy hat eine Effizienz von 105Lm/W und erhält somit die Energieeffizienzklasse A+. Bei einer täglichen Leuchtdauer von 3 Stunden muss die Ivy erst nach 27 Jahren ersetzt werden. Das schont nicht nur Ihren Geldbeutel sondern auch die Umwelt.
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 - Die Ivy hat eine E27-Fassung und passt so in die meisten Lampenfassungen. Sie ist zudem Zigbee-kompatibel, so kann die Ivy auch mit anderen Home Automation Basisstationen verbunden werden. Sie ist das Äquivalent zu einer herkömmlichen 60W Glühbirne und strahlt in einer für die Augen angenehmen Farbtemperatur von 3000K.
+- Die Ivy hat eine Effizienz von 105Lm/W und erhält somit die Energieeffizienzklasse A+. Bei einer täglichen Leuchtdauer von 3 Stunden muss die Ivy erst nach 27 Jahren ersetzt werden. Das schont nicht nur Ihren Geldbeutel sondern auch die Umwelt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
