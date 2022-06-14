@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Funktionelle Short mit Innenslip
+- Gesticktes Logo
+- Herkunftsland:- Kambodscha
 - CLIMALITE: Leichtes, weiches Gewebe für exzellentes Feuchtigkeitsmanagement
-- Für erhöhten Feuchtigkeitstransport sorgt die CLIMALITE-Funktion
+- Funktionelle Short mit Innenslip
 - Mit Innenslip
 - Taillenbund ist elastisch
-- Herkunftsland:- Kambodscha
-- Gesticktes Logo
+- Für erhöhten Feuchtigkeitstransport sorgt die CLIMALITE-Funktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Langer Slip
 - Weiche Nähte der neuen Generation bieten kompletten Komfort und absolute Unsichtbarkeit
 - Wunderbar leicht und angenehm zu tragen.
-- Langer Slip
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

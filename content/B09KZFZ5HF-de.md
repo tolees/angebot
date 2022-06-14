@@ -29,7 +29,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Glattlederimitat
-- flexible und rutschhemmende Gummi-Cupsohle
 - Textilfutter
+- flexible und rutschhemmende Gummi-Cupsohle
 
 [🛒 Hier!!]({{< param buyurl >}})

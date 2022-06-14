@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konturiertes Goga-Fußbett
 - Ultra Go
 - Maschinenwaschbar
+- Konturiertes Goga-Fußbett
 - Bequeme Sandale
 
 [🛒 Hier!!]({{< param buyurl >}})
