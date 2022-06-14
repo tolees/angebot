@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Anzahl der Teile: 221
+- Für gemeinsamen Familienspaß können die abgebildeten klassischen LEGO-Modelle gleichzeitig aufgebaut und kombiniert werden
 - Erlebe unendliche kreative Baumöglichkeiten mit diesem Kinderspielzeug ab 4 Jahren – besuche LEGO.com/classic, um deinem Kind den Einstieg zu erleichtern
 - LEGO Bausteine-Set
 - Vom Hersteller empfohlenes Alter: 4-99
-- Anzahl der Teile: 221
-- Für gemeinsamen Familienspaß können die abgebildeten klassischen LEGO-Modelle gleichzeitig aufgebaut und kombiniert werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

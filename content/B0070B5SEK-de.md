@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Versorgt das Haar gleichzeitig mit Farbe und Pflege
-- Schrittweise Rückführung des Naturtones
 - Für Haar mit einem Grauanteil von bis zu 70 Prozent geeignet
+- Schrittweise Rückführung des Naturtones
 - Schrittweise Rückführung des Naturtones
 
 [🛒 Hier!!]({{< param buyurl >}})

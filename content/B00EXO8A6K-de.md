@@ -29,13 +29,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Metallbearbeitungstisch bis 45° verstellbar
-- Funktioniert mit Sägeblättern mit T-Schaft und Laubsägeblättern
-- Anschluss für Staubsauger für eine aufgeräumte Werkstatt
 - Perfekte Sicht auf das Werkstück durch Abblasfunktion
+- Anschluss für Staubsauger für eine aufgeräumte Werkstatt
 - Eine solide Basis garantiert einen stabilen Stand auch während der Arbeit
-- Das Gerät kann direkt an der Werkbank befestigt werden
+- Schnellspanner erleichtert den Sägeblattwechsel
 - 1 zusätzliches Ersatzsägeblatt ist in der Verpackung enthalten
 - der Werkstückniederhalter ermöglicht exakte Schnitte und sicheres Arbeiten
-- Schnellspanner erleichtert den Sägeblattwechsel
+- Funktioniert mit Sägeblättern mit T-Schaft und Laubsägeblättern
+- Das Gerät kann direkt an der Werkbank befestigt werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
