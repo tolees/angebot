@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nichts für Milchbubis: Der Riegel mit 2 knusprigen Butterkeksen und einer Füllung aus knackiger Schokolade und zarter Milchcreme - jeder Biss ein Kracher
-- Vorteilspack mit Thekendisplay: 24 Portionspackungen mit je 1 Riegel - ideal für den Pausenraum sowie das Konferenzzimmer im Büro, für Mitarbeiter und Kunden oder als Party-Snack
 - Mit gewissenhaft ausgewählten Zutaten: Wir verwenden bei unseren Produkten ausschließlich UTZ/Rainforest Alliance, Cacao Horizon und Fairtrade zertifizierten Kakao
-- Probiere PiCK UP! auch in den Varianten Choco, Blackn White und Choco Hazelnut - PiCK UP! Choco und Choco & Milk gibt es auch als Minis - entdecke den PiCK UP!
 - PiCK UP! ist die Auszeit mit Biss: Der unverkennbare Knack beim Abbeißen weckt Dich wieder auf, wenn Du zwischendurch mal einen Energieschub brauchst - und das ganz ohne Schokofinger
+- Vorteilspack mit Thekendisplay: 24 Portionspackungen mit je 1 Riegel - ideal für den Pausenraum sowie das Konferenzzimmer im Büro, für Mitarbeiter und Kunden oder als Party-Snack
+- Probiere PiCK UP! auch in den Varianten Choco, Blackn White und Choco Hazelnut - PiCK UP! Choco und Choco & Milk gibt es auch als Minis - entdecke den PiCK UP!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

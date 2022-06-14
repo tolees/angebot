@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gehäusedurchmesser: 50 mm
 - Wasserdicht bis 5 Bar
 - Bandfarbe: Schwarz
+- Gehäusedurchmesser: 50 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

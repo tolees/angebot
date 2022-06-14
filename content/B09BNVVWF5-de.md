@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inklusive gedruckter, illustrierter Anleitung und digitaler Bauanleitung – verfügbar in der kostenlosen LEGO Bauanleitungen App
-- Enthält ein farbenfrohes Spielzeug-Kunstflugzeug mit Stützrädern, verstellbaren Heckflossen und einem feurigen Heckbooster sowie eine Piloten-Minifigur
 - Das LEGO Sportflugzeug für Jungen und Mädchen ab 5 Jahren verfügt über ein aufklappbares Cockpit, in dem der Pilot Platz nehmen kann, bevor er zu atemberaubenden Stunts in der Luft abhebt
-- Die LEGO City Sets lassen Kinder mit realistischen Spielzeugen und lustigen Figuren kreative Abenteuer erleben, bei denen sie Selbstvertrauen und Fähigkeiten fürs Leben entwickeln
+- Inklusive gedruckter, illustrierter Anleitung und digitaler Bauanleitung – verfügbar in der kostenlosen LEGO Bauanleitungen App
 - Entdecke das Universum von LEGO City Starke Fahrzeuge mit Überschallgeschwindigkeit und mache kleinen Flugzeug-Fans ein tolles Geschenk zum Geburtstag oder zu jedem anderen Anlass
+- Die LEGO City Sets lassen Kinder mit realistischen Spielzeugen und lustigen Figuren kreative Abenteuer erleben, bei denen sie Selbstvertrauen und Fähigkeiten fürs Leben entwickeln
+- Enthält ein farbenfrohes Spielzeug-Kunstflugzeug mit Stützrädern, verstellbaren Heckflossen und einem feurigen Heckbooster sowie eine Piloten-Minifigur
 
 [🛒 Hier!!]({{< param buyurl >}})

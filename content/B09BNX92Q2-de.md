@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Enthält einen Harry-Potter-Spielzeug Krankenflügel und den LEGO Harry Potter Uhrenturm aus "Harry Potter und der Gefangene von Askaban"
-- Das Harry Potter Spielzeug für Kinder ab 8 Jahren gehört zu einer Reihe modularer Sets, die ein komplettes LEGO Hogwarts Schloss ergeben
-- Enthält LEGO Minifiguren von Harry Potter, Hermine Granger, Ron Weasley & Madam Pomfrey und 2 von insgesamt 16 Überraschungskartenelementen zum Sammeln
-- Diese Nachbildung des LEGO Hogwarts Schlosses ist eine zauberhafte Harry Potter Geschenkidee für Jungen und Mädchen, die die Zaubererwelt lieben
-- Kinder drehen den Turm und reisen mit dem Zeitumkehrer, um ein weiteres Abenteuer in dem Schloss zu erleben
 - Die Kinder können die Zeitreiseszene in dem Krankenhaus nachspielen und Verletzungen in der Krankenstation behandeln lassen
+- Diese Nachbildung des LEGO Hogwarts Schlosses ist eine zauberhafte Harry Potter Geschenkidee für Jungen und Mädchen, die die Zaubererwelt lieben
+- Enthält LEGO Minifiguren von Harry Potter, Hermine Granger, Ron Weasley & Madam Pomfrey und 2 von insgesamt 16 Überraschungskartenelementen zum Sammeln
+- Kinder drehen den Turm und reisen mit dem Zeitumkehrer, um ein weiteres Abenteuer in dem Schloss zu erleben
+- Das Harry Potter Spielzeug für Kinder ab 8 Jahren gehört zu einer Reihe modularer Sets, die ein komplettes LEGO Hogwarts Schloss ergeben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
