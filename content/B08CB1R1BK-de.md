@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Anschlussmöglichkeit eines Filtersystems (Ø 32 mm)
+- Größe: 305 x 76 cm, Wasserkapazität (90%): 4.678 Liter, einfacher Aufbau ohne Werkzeug, Innenverkleidung in Kieselmosaik-Optik
 - 2 Jahre Herstellergarantie, umfangreicher Ersatzteil-Shop
 - Sichere Verbindung durch T-Verbinder, robustes, 3-lagiges DuraPlus -Material sorgt für enorme Langlebigkeit, selbstklebender Reparaturflicken, Antihaftbeschichtung, PVC-Band für extra Stabilität
 - Müheloser Abbau, Lagerung sowie Transport, einfaches Entleeren durch integriertes Ablassventil (Gartenschlauchadapter enthalten)
-- Größe: 305 x 76 cm, Wasserkapazität (90%): 4.678 Liter, einfacher Aufbau ohne Werkzeug, Innenverkleidung in Kieselmosaik-Optik
-- Anschlussmöglichkeit eines Filtersystems (Ø 32 mm)
 
 [🛒 Hier!!]({{< param buyurl >}})
