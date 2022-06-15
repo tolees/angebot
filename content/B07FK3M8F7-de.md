@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FÜLLUNG: sibirische Gänsedaunen Klasse 1, 100 prozent Daunen
 - PREMIUM QUALITÄT: Deutsches Qualitätsprodukt aus auschließlich hochwertigen Materialien - Hergestellt in unserer Bettenmanufaktur in Bayern
-- BEZUG: feiner, deutscher Mako-Daunenbatist, weiß, 100 prozent Baumwolle
 - TIERSCHUTZ: es wird kein Lebendrupf verwendet
-- PFLEGE: waschbar bis 60°C, für Hausstauballergiker geeignet, bitte Pflegeanleitung beachten
 - VERARBEITUNG: Kassettenbett mit 2,0 cm Innensteg - WÄRMEKLASSE: normal
+- FÜLLUNG: sibirische Gänsedaunen Klasse 1, 100 prozent Daunen
+- PFLEGE: waschbar bis 60°C, für Hausstauballergiker geeignet, bitte Pflegeanleitung beachten
+- BEZUG: feiner, deutscher Mako-Daunenbatist, weiß, 100 prozent Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
