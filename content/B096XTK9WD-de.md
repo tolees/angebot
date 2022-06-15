@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mode: Sneaker
 - Lebensstil: Fashion Casual
 - Muster: Einfarbig
-- Mode: Sneaker
 - Fit: Bequeme Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei niedriger Temperatur bügeln (110° C) / Normalwaschgang bei max. 40°C
+- Mit Logo-Stickerei vorne
+- Mit weicher und nachhaltiger Baumwolle
 - Kurzärmlig mit V-Ausschnitt im Doppelpack
+- Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei niedriger Temperatur bügeln (110° C) / Normalwaschgang bei max. 40°C
 - T-Shirt mit geripptem Detail am Ausschnitt im Doppelpack
 - Passform: Regular Fit
-- Mit weicher und nachhaltiger Baumwolle
-- Mit Logo-Stickerei vorne
 
 [🛒 Hier!!]({{< param buyurl >}})

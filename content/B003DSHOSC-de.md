@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NACHHALTIGKEIT: Für uns nicht nur ein Gedanke! Seit jeher legen wir Wert auf einen schonenden Umgang mit Ressourcen. 90 % des verwendeten Wassers sowie anfallende Wollstoffreste verwenden wir erneut
-- WASCHBAR: Diese Hausschuhe können problemlos bei 30°C in der Waschmaschine gewaschen werden. Bitte keinen Trockner oder Weichspüler verwenden
-- RUTSCHFEST: Die robuste Gummi-Sohle aus Naturkautschuk bietet optimalen Halt und Trittsicherheit auf allen Fußböden. Die Sohle ist besonders rutschfest
 - 100% SCHURWOLLE: Dieser Pantoffel wird aus reiner Schurwolle hergestellt, die dank 3D Stricktechnik kuschelig weich ist. Das atmungsaktive Material spendet angenehm warme, trockene Füße. Das Fußbett ist wechselbar und kann mühelos gegen orthopädische Einlagen getauschen werden
+- RUTSCHFEST: Die robuste Gummi-Sohle aus Naturkautschuk bietet optimalen Halt und Trittsicherheit auf allen Fußböden. Die Sohle ist besonders rutschfest
+- WASCHBAR: Diese Hausschuhe können problemlos bei 30°C in der Waschmaschine gewaschen werden. Bitte keinen Trockner oder Weichspüler verwenden
+- NACHHALTIGKEIT: Für uns nicht nur ein Gedanke! Seit jeher legen wir Wert auf einen schonenden Umgang mit Ressourcen. 90 % des verwendeten Wassers sowie anfallende Wollstoffreste verwenden wir erneut
 
 [🛒 Hier!!]({{< param buyurl >}})
