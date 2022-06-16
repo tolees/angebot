@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Beim Rollenspiel entwickeln kleine Baumeister ihre Feinmotorik, indem sie den Bagger zur Baustelle fahren oder einen Felsbrocken aus dem Weg schaufeln
 - Für noch mehr Spaß kann das Spielzeug mit dem Set „Bagger und Laster“ (10931) von LEGO DUPLO kombiniert werden!
+- Enthält einen beweglichen Spielzeug-Bagger mit einer handbetriebenen, hochklappbaren Schaufel, einen Spaten, einen Felsbrocken, der auseinanderbrechen kann, und ein Verkehrsschild
 - Inklusive Bauarbeiterfigur in einer Warnweste für fantasievolle Rollenspiele mit Realitätsbezug für Kleinkinder ab 2 Jahren
 - Dieses Spielzeug mit Baufahrzeug für Kleinkinder besteht aus großen Steinen, die ideal für kleine Hände sind – ein ideales LEGO-Einsteigerset für Kinder ab 2 Jahren
-- Enthält einen beweglichen Spielzeug-Bagger mit einer handbetriebenen, hochklappbaren Schaufel, einen Spaten, einen Felsbrocken, der auseinanderbrechen kann, und ein Verkehrsschild
-- Beim Rollenspiel entwickeln kleine Baumeister ihre Feinmotorik, indem sie den Bagger zur Baustelle fahren oder einen Felsbrocken aus dem Weg schaufeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
