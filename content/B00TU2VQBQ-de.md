@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PVC-Schlauch mit 6m und Kfz-Netzkabel mit 3m (12 Volt Anschluss). Zubehörteile: Spritzpistole, Düsenkopf, Bürstenkopf, Duschkopf
-- Geringe Abmessungen und geringes Gewicht. Flexible Räder für eine einfache Anwendung
-- Geringer Wasser- und Stromverbrauch. Großer Wassertank mit 15 Liter. Einfache und intuitive Bedienung. Rollbar und tragbar
-- Multifunktionale mobile Reinigungsstation für unterwegs. Viele Anwendungsgebiete z.B.: Auto, Camping, Haustier, Garten usw.
 - .Technische Daten: 12V, 4,5A - 7 A (max.), 60W, Arbeitsdruck von 43,5 bis 130,5 PSI (3-9 BAR), abhängig von der Düseneinstellung
+- Geringe Abmessungen und geringes Gewicht. Flexible Räder für eine einfache Anwendung
+- PVC-Schlauch mit 6m und Kfz-Netzkabel mit 3m (12 Volt Anschluss). Zubehörteile: Spritzpistole, Düsenkopf, Bürstenkopf, Duschkopf
+- Multifunktionale mobile Reinigungsstation für unterwegs. Viele Anwendungsgebiete z.B.: Auto, Camping, Haustier, Garten usw.
+- Geringer Wasser- und Stromverbrauch. Großer Wassertank mit 15 Liter. Einfache und intuitive Bedienung. Rollbar und tragbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
