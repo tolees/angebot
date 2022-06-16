@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 3,5-MM-AUDIOKABEL MIT IN-LINE-FERNBEDIENUNG: Lautstärke und Stummschaltung des Mikrofons lassen sich leicht anpassen, damit die volle Konzentration immer dem eigentlichen Spielgeschehen gilt. Dank des Splitter-Verlängerungskabels lassen sich auch Systeme verwenden, die einen separaten Audio-Ausgang und Mikrofon-Eingang haben.
+- MIT KÄLTEGEL GEFÜLLTE OVALE OHRPOLSTER: Die mit kühlendem Gel gefüllten Ohrpolster verringern die Wärmeentwicklung und die Einfassung aus Kunstleder sorgt für eine überlegene Schallisolierung. Das ovale Design stellt sicher, dass das Headset stets bequem auf den Ohren sitzt.
+- BAUXIT-ALUMINIUM-RAHMEN MIT DICKERER POLSTERUNG: Der aus Bauxit-Aluminium gefertigte Rahmen des Razer Kraken ist leicht, biegsam und unglaublich robust. Die noch dickere Polsterung des Kopfbands entlastet den Kopf und sorgt für langanhaltenden Tragekomfort.
 - EINZIEHBARES UNIDIREKTIONALES MIKROFON: Das unidirektionale Mikrofon garantiert eine kristallklare Kommunikation im Team. Es ist sehr beweglich und bei Bedarf ganz leicht aus der linken Ohrmuschel ausziehbar, und auch die Position und der Abstand zum Mund lassen sich anpassen.
 - INDIVIDUELL ABGESTIMMTE 50-MM-TREIBER: Überlegen klare Höhen und ein tiefer, durchschlagender Bass erschaffen eine epische Klangkulisse. Jedes Detail ist zu hören, von fast unhörbaren Schritten, die sich von hinten anschleichen, bis hin zu unglaublichen Explosionen, die alles mit sich reißen.
-- MIT KÄLTEGEL GEFÜLLTE OVALE OHRPOLSTER: Die mit kühlendem Gel gefüllten Ohrpolster verringern die Wärmeentwicklung und die Einfassung aus Kunstleder sorgt für eine überlegene Schallisolierung. Das ovale Design stellt sicher, dass das Headset stets bequem auf den Ohren sitzt.
-- 3,5-MM-AUDIOKABEL MIT IN-LINE-FERNBEDIENUNG: Lautstärke und Stummschaltung des Mikrofons lassen sich leicht anpassen, damit die volle Konzentration immer dem eigentlichen Spielgeschehen gilt. Dank des Splitter-Verlängerungskabels lassen sich auch Systeme verwenden, die einen separaten Audio-Ausgang und Mikrofon-Eingang haben.
-- BAUXIT-ALUMINIUM-RAHMEN MIT DICKERER POLSTERUNG: Der aus Bauxit-Aluminium gefertigte Rahmen des Razer Kraken ist leicht, biegsam und unglaublich robust. Die noch dickere Polsterung des Kopfbands entlastet den Kopf und sorgt für langanhaltenden Tragekomfort.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Farbe: Mehrfarbig
-- Mit seinem Bart und dem lässigen Outfit passt Kevin Ideal in die Großstadt
 - 30cm
+- Mit seinem Bart und dem lässigen Outfit passt Kevin Ideal in die Großstadt
 - Für Kinder ab drei Jahren geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})

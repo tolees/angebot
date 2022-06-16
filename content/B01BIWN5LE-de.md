@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 1x Gardena smart Sensor
-- Misst Bodenfeuchte (0 - 100 Prozent), Lichtstärke (0 - 200.000 Lux) und Außentemperatur (-1 - +50 Grad Celsius)
-- Auslesen der Daten per smart App für iOS und Android (Voraussetzung: smart Gateway mit Internetanschluss)
 - Ideale Erweiterung eines Gardena smart systems
+- Auslesen der Daten per smart App für iOS und Android (Voraussetzung: smart Gateway mit Internetanschluss)
 - LED-Statusanzeige zeigt die Signalstärke der Funkverbindung zum smart Gateway an
+- Misst Bodenfeuchte (0 - 100 Prozent), Lichtstärke (0 - 200.000 Lux) und Außentemperatur (-1 - +50 Grad Celsius)
 
 [🛒 Hier!!]({{< param buyurl >}})

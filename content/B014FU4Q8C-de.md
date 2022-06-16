@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit waghalsigen Manövern springen die Spieler auf die Waggons und in die Abteile hinein, um den ehrbaren Reisenden Geldbörsen und Schmuck zu rauben
 - 2-6 Spieler | Ab 10+ Jahren | Bis zu 40+ Minuten Spielzeit je Partie | Spiel in Deutsch
 - Zum Spielen dieser Erweiterung wird ein Grundspiel von Colt Express benötigt
 - Die Erweiterung Colt Express - Postkutsche & Pferde ergänzt das kompetitive Familienspiel um Pferde für die Banditen und um eine Postkutsche, die den Marshal unterstützt
+- Mit waghalsigen Manövern springen die Spieler auf die Waggons und in die Abteile hinein, um den ehrbaren Reisenden Geldbörsen und Schmuck zu rauben
 - Um zu gewinnen, muss man mehr Beute machen als die Mitspieler. Berechnet zusätzlich zu eurem Reichtum das Lösegeld, dass ihr für eure Geiseln erhalten habt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

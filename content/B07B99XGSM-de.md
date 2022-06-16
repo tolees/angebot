@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Futtermaterial: Leder
-- Herausnehmbare Innensohle: Ja
-- Verschluss: Spitze
 - Sohlenmaterial: Gummi
 - Obermaterial: Leder
+- Herausnehmbare Innensohle: Ja
+- Verschluss: Spitze
 
 [🛒 Hier!!]({{< param buyurl >}})

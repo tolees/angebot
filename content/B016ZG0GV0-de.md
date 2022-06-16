@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein Helfer erledigt drei Jobs: ORDNUNG SCHAFFEN, SICHER TRANSPORTIEREN UND MOBIL ARBEITEN. Das ist das Sortimo WorkMo Prinzip.
 - Die WorkMo ist durch beliebig viel Zubehör erweiterbar
+- Ein Helfer erledigt drei Jobs: ORDNUNG SCHAFFEN, SICHER TRANSPORTIEREN UND MOBIL ARBEITEN. Das ist das Sortimo WorkMo Prinzip.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
