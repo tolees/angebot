@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- A1 HIGH END SPRAY WAX: Für Ihr Auto nur das Beste! Mit der innovativen Hydrophobie-Formel unserer Sprüh-Versiegelung verleihen Sie Ihrem Lack einen brillanten Hochglanz & langanhaltenden Schutz vor Witterungs- und Umwelteinflüssen!
 - ALLE LACKE: Egal ob Metallic-, Bunt-, Nano- und kratzfeste Lacke oder Glanzfolien. Die Lack-Versiegelung ist für alle Lackarten geeignet.
-- VERSIEGELUNG: Das Autowachs garantiert eine langfristige Lackversiegelung mit einem unglaublichen Wasser-Abperl-Effekt. Es hinterlässt ein tolles Glättegefühl mit einer sanften, geschmeidigen Oberfläche.
 - SCHNELLE ANWENDUNG: Die Lack-Pflege lässt sich leicht & mühelos in wenigen Minuten auf das ganze Auto verarbeiten, ohne Schlieren zu verursachen. Beste Ergebnisse erzielen Sie mit dem Mikrofasertuch A1 DAS TUCH – Premium Mikrofaser (nicht enthalten).
 - PERFEKTER GLANZ: Mit der Fahrzeug-Pflege erhalten Sie ganz einfach einen spiegelnden Hochglanz sowie eine sichtbare Farbauffrischung. Das Wachs hinterlässt keine weißen Rückstände auf Kunststoffteilen.
+- A1 HIGH END SPRAY WAX: Für Ihr Auto nur das Beste! Mit der innovativen Hydrophobie-Formel unserer Sprüh-Versiegelung verleihen Sie Ihrem Lack einen brillanten Hochglanz & langanhaltenden Schutz vor Witterungs- und Umwelteinflüssen!
+- VERSIEGELUNG: Das Autowachs garantiert eine langfristige Lackversiegelung mit einem unglaublichen Wasser-Abperl-Effekt. Es hinterlässt ein tolles Glättegefühl mit einer sanften, geschmeidigen Oberfläche.
 
 [🛒 Hier!!]({{< param buyurl >}})

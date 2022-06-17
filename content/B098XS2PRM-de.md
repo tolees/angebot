@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzärmelig
-- Gerader Saum
 - Runder Ausschnitt
 - G-Star RAW Stickerei auf der Brust
+- Kurzärmelig
 - Regular Fit
+- Gerader Saum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

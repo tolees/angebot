@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Absatzform: Flare
-- Obermaterial: Synthetik
-- Sohle: Gummi
-- Innenmaterial: Synthetik
 - Verschluss: Schnellverschluss
+- Obermaterial: Synthetik
+- Innenmaterial: Synthetik
+- Sohle: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
