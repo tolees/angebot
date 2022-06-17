@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerader Saum
 - Regular Fit
-- Gerippter Rundhalsausschnitt
-- Kurzärmelig
 - Grafikprint auf der Brust
+- Gerippter Rundhalsausschnitt
+- Gerader Saum
+- Kurzärmelig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

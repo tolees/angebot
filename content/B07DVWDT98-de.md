@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kunstlederobermaterial
 - Die unverkennbare Pill-Pattern-Lauffläche von DC
 - EVA für Komfort und Haltbarkeit
+- Kunstlederobermaterial
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
