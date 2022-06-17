@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell Dekupiersäge TC-SS 405 E  120 W  Hubhöhe 127 mm  max. Schnitthöhe 52 mm  Tischgröße 408 x 250 mm '
-date: 2022-06-14 18:03:53
+date: 2022-06-17 12:41:22
 image: 'https://m.media-amazon.com/images/I/414G2Jje6aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- der Werkstückniederhalter ermöglicht exakte Schnitte und sicheres Arbeiten
+- Das Gerät kann direkt an der Werkbank befestigt werden
 - Metallbearbeitungstisch bis 45° verstellbar
 - Perfekte Sicht auf das Werkstück durch Abblasfunktion
 - Anschluss für Staubsauger für eine aufgeräumte Werkstatt
-- Eine solide Basis garantiert einen stabilen Stand auch während der Arbeit
 - Schnellspanner erleichtert den Sägeblattwechsel
+- Eine solide Basis garantiert einen stabilen Stand auch während der Arbeit
 - 1 zusätzliches Ersatzsägeblatt ist in der Verpackung enthalten
-- der Werkstückniederhalter ermöglicht exakte Schnitte und sicheres Arbeiten
 - Funktioniert mit Sägeblättern mit T-Schaft und Laubsägeblättern
-- Das Gerät kann direkt an der Werkbank befestigt werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
