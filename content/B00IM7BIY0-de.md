@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für eine schnelle Übersicht und Identifizierung des richtigen Bittyps sind die Bits farbcodiert
-- Lieferumfang: 8 x T-Bit (T10, T15, 2x T20, T25, T27, T30, T40), 4x S-Bit (3/4/5/6), 7 x Th-Bit (10/15/20/25/27/30/40)
-- Kompatibilität: Durch einen Außensechskantschaft der Größe 1/4-Zoll für allgemeine Schraubarbeiten mit Schraubendrehern und Bohrschraubern bestens geeignet
-- Praktische Verpackung mit transparentem Deckel inkl. Gürtelclip damit die Box griffbereit an den Gürtel passt
 - Lieferumfang: 4 x Kreuzschlitz Bit (PH1, 2x PH2, PH3), 4 x Pozidriv Bit (PZ1, 2x PZ2, PZ3), 4 x Hex Bit (3/4/5/6)
+- Für eine schnelle Übersicht und Identifizierung des richtigen Bittyps sind die Bits farbcodiert
+- Kompatibilität: Durch einen Außensechskantschaft der Größe 1/4-Zoll für allgemeine Schraubarbeiten mit Schraubendrehern und Bohrschraubern bestens geeignet
+- Lieferumfang: 8 x T-Bit (T10, T15, 2x T20, T25, T27, T30, T40), 4x S-Bit (3/4/5/6), 7 x Th-Bit (10/15/20/25/27/30/40)
+- Praktische Verpackung mit transparentem Deckel inkl. Gürtelclip damit die Box griffbereit an den Gürtel passt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

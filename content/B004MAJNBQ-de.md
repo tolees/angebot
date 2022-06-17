@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1/4" Sechskant-Antrieb (Wera Anschluss-Reihe 1)
-- Verhindert vorzeitigen Bruch der Abtriebsspitze
 - Für Innen TORX Schrauben
+- Verhindert vorzeitigen Bruch der Abtriebsspitze
+- 1/4" Sechskant-Antrieb (Wera Anschluss-Reihe 1)
 - Zähhart, für den universellen Einsatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
