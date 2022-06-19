@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus 100 Prozent natürlicher Merinowolle. Natürliche Fasern sorgen für bequeme, warme Produkte mit hoher Wärmeregulierung. Umweltfreundliches Produkt
-- Umweltfreundlich: Entdecken Sie die umweltfreundlichste und nachhaltigste Kollektion von BUFF
 - Die wärmste Version unserer Merinowolle - 500 g/m²
+- Umweltfreundlich: Entdecken Sie die umweltfreundlichste und nachhaltigste Kollektion von BUFF
 - Zwei Schutzschichten, natürliche Merinowolle
+- Aus 100 Prozent natürlicher Merinowolle. Natürliche Fasern sorgen für bequeme, warme Produkte mit hoher Wärmeregulierung. Umweltfreundliches Produkt
 
 [🛒 Hier!!]({{< param buyurl >}})

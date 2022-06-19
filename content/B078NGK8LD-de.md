@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial aus weichem Leder
-- Atmungsaktives Netzfutter
 - Vibram TC5+ Gummisohle
+- Atmungsaktives Netzfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
