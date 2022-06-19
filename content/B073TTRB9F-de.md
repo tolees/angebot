@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Weiss
 - Max. Schalldruckpegel: 112dB Konnektivität: Verkabelt
+- Farbe: Weiss
 
 [🛒 Hier!!]({{< param buyurl >}})
