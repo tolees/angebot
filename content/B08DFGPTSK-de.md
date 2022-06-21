@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ganztägiges Aktivitäts-Tracking: Die Inspire 2 trackt Schritte, Strecke und verbrannte Kalorien; Denn auf Ihrem Weg zu mehr Fitness zählt jedes Detail
-- Kontinuierliche Herzfrequenzmessung: Die kontinuierliche Herzfrequenzmessung ermöglicht eine genauere Erfassung Ihres Kalorienverbrauchs und hilft Ihnen, Ihr Training zu optimieren, damit Sie besser auf Ihre Gesundheits- und Fitnessziele hinarbeiten können
+- Aktivzonenminuten: Diese Funktion zeigt Ihnen Ihre aktuelle Herzfrequenzzone, damit sie wissen, ob sie effektiv auf Ihre Ziele hintrainieren
 - Kompatibilität: Kompatibel mit iOS 12.2 oder höher & Android OS 7.0 oder höher
 - Akkulaufzeit: Bis zu 10 Tage
-- Umfassendere personalisierte Erkenntnisse zu Ihren Statistiken zeigen Ihnen, wie Aktivität, Herzfrequenz, Stress und Schlaf einander beeinflussen; so können Sie smartere Entscheidungen für Ihre Gesundheit treffen
+- Ganztägiges Aktivitäts-Tracking: Die Inspire 2 trackt Schritte, Strecke und verbrannte Kalorien; Denn auf Ihrem Weg zu mehr Fitness zählt jedes Detail
 - Schlafphasen-Aufzeichnung & Schlafindex: Die Charge 4 erfasst die Dauer in Leichtschlaf-, Tiefschlaf- und REM-Schlafphasen; Zusammen mit dem persönlichen Schlafindex in der Fitbit-App können Sie so die Qualität Ihres Schlafs besser nachvollziehen und einen gesünderen Schlafrhythmus entwickeln
-- Aktivzonenminuten: Diese Funktion zeigt Ihnen Ihre aktuelle Herzfrequenzzone, damit sie wissen, ob sie effektiv auf Ihre Ziele hintrainieren
+- Umfassendere personalisierte Erkenntnisse zu Ihren Statistiken zeigen Ihnen, wie Aktivität, Herzfrequenz, Stress und Schlaf einander beeinflussen; so können Sie smartere Entscheidungen für Ihre Gesundheit treffen
+- Kontinuierliche Herzfrequenzmessung: Die kontinuierliche Herzfrequenzmessung ermöglicht eine genauere Erfassung Ihres Kalorienverbrauchs und hilft Ihnen, Ihr Training zu optimieren, damit Sie besser auf Ihre Gesundheits- und Fitnessziele hinarbeiten können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial: Gummi
-- Innenmaterial: Textil
-- Verschluss: Ohne Verschluss
 - Sohle: Synthetik
+- Verschluss: Ohne Verschluss
+- Innenmaterial: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

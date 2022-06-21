@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Kreativset eignet sich hervorragend für Gruppenparty-Aktivitäten oder Solo-Spiele. Die Cupcakes sind ein lustiger Gefallen, den Jungen und Mädchen ab 6 Jahren lieben werden
 - Party mit LEGO Dots! Unter der abnehmbaren Glasur kommt ein Geheimfach zum Vorschein, in dem Süßigkeiten oder kleine Überraschungen gut passen
 - LEGO DOTS-Sets bieten offene Kreativität und fördern die Selbstbewusstsein, was sie zum perfekten Geburtstagsgeschenk für Kinder macht!
+- Das Kreativset eignet sich hervorragend für Gruppenparty-Aktivitäten oder Solo-Spiele. Die Cupcakes sind ein lustiger Gefallen, den Jungen und Mädchen ab 6 Jahren lieben werden
 - Dieses fantasievolle Bastelset für Kinder enthält 8 Cupcakes, die sich mit den zahlreichen Steinchen, Geburtstagskerzen und Aufklebern perfekt verzieren lassen.
 - Kinder können die Cupcakes mit den vorhandenen Designideen dekorieren oder mit ihrer Kreativität eigenen fantasiefollen farbenfrohen Muster erstellen
 

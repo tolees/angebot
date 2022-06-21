@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Light Fit Verstellsystem für optimale Passform
+- Reflektoren für bessere Sichtbarkeit im Dunkeln
+- 20 Ventilationsöffnungen für angenehme Kühlung
 - Abnehmbares Visier
 - Gepolsterter Kinnriemen mit Steplock
-- 20 Ventilationsöffnungen für angenehme Kühlung
-- Reflektoren für bessere Sichtbarkeit im Dunkeln
+- Light Fit Verstellsystem für optimale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
