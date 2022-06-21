@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - TrueMove Core optischer Gaming-Sensor
-- Gleitfüße aus reinem PTFE für ein seidenweiches Gefühl bei den Mausbewegungen
-- Kabel mit flexibler Super Mesh Mikrofaser-Ummantelung für weniger Widerstand
-- Schutz vor Wasser, Staub und mehr dank AquaBarrier
 - Nur 59 g Gewicht für blitzschnelles, ergonomisches Gameplay
+- Gleitfüße aus reinem PTFE für ein seidenweiches Gefühl bei den Mausbewegungen
 - Hinweis: Es wird empfohlen, die Firmware regelmäßig mit SteelSeries Engine zu aktualisieren
+- Schutz vor Wasser, Staub und mehr dank AquaBarrier
+- Kabel mit flexibler Super Mesh Mikrofaser-Ummantelung für weniger Widerstand
 
 [🛒 Hier!!]({{< param buyurl >}})
