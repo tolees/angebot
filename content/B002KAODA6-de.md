@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Synthetik
 - Sohlenmaterial: Gummi
-- Futter: ohne Futter
+- Obermaterial: Synthetik
 - Verschluss: Ohne Verschluss; Größenhinweis: Fällt regulär aus
-- Sohlengrößen sind US. Label zeigt UK. M = Herren W = Damen
 - Absatzform: Flach; Materialzusammensetzung: 100 % Croslite
+- Futter: ohne Futter
+- Sohlengrößen sind US. Label zeigt UK. M = Herren W = Damen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
