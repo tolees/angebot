@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Automatic-Funktion: Mithilfe des einstellbaren Schwimmschalters kann sich die Pumpe bei Erreichen eines speziellen Wasserpegels automatisch ein- oder abschalten. Nach Bedarf kann auf Dauerbetrieb umgestellt werden
 - Effizient und leistungsstark: Bei einer Förderhöhe von 7 m und einem max. Leistungsdruck von 0.7 bar, schafft die Pumpe innerhalb einer Stunde bis zu 16.000 l klares bis verschmutztes Wasser zu befördern
 - Intelligente Konstruktion: Für eine hohe Langlebigkeit verfügt die Motorwelle über eine Keramikbeschichtung mit dreifacher Abdichtung
 - Einfache Verbindung: Mit nur einem Klick lassen sich Schläuche mit einem Durchmesser von 25 mm (1 Zoll), 32 mm (1 1/4 Zoll) oder 38 mm (1 ½ Zoll) schnell und einfach anschließen
-- Automatic-Funktion: Mithilfe des einstellbaren Schwimmschalters kann sich die Pumpe bei Erreichen eines speziellen Wasserpegels automatisch ein- oder abschalten. Nach Bedarf kann auf Dauerbetrieb umgestellt werden
 - Lieferumfang beinhaltet: 1x Gardena Schmutzwasser-Tauchpumpe 16000
 
 [🛒 Hier!!]({{< param buyurl >}})

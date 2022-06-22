@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 1x EVA Case
 - 1x DC Netzteil & 1x Schnellladegerät & 2x NP-F750 5200 mAh Batterie
 - 1x Sonnenblende für Ninja V, Shinobi
 - Zubehör speziell auf die Atomos 5 Rekorder/Monitore abgestimmt
-- 1x EVA Case
 - 1x Displayschutz für Ninja V, Shinobi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
