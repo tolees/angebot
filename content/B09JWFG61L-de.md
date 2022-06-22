@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
-- Das spannende Zubehör für die LEGO NASA Raumstation umfasst eine Kamera, einen Schraubenschlüssel, einen Bohrer, Helme und Pflanzen
-- Mit der LEGO Bauanleitung App für Smartphones und Tablets können Kinder ihre Modelle beim Bauen aus allen Blickwinkeln betrachten
-- Das von der NASA inspirierte LEGO Mond-Raumstation Set enthält mehrere Räume, eine andockende Raumkapsel und 5 LEGO Astronauten-Minifiguren
-- Das LEGO Weltraum Set enthält Forschungs- und Botaniklabore und eine Unterkunft
 - Dieses LEGO City Weltraum Spielzeug ab 6 Jahren eignet sich als Geschenk für Kinder, die sich für die Erforschung des Weltraums interessieren
 - Kombiniere mit anderen Sets der LEGO Weltraum-Serie: Mondfahrzeug (60348), Mond-Forschungsbasis (60350) und Raketenstartzentrum (60351)
+- Das LEGO Weltraum Set enthält Forschungs- und Botaniklabore und eine Unterkunft
+- Das von der NASA inspirierte LEGO Mond-Raumstation Set enthält mehrere Räume, eine andockende Raumkapsel und 5 LEGO Astronauten-Minifiguren
+- Das spannende Zubehör für die LEGO NASA Raumstation umfasst eine Kamera, einen Schraubenschlüssel, einen Bohrer, Helme und Pflanzen
+- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
+- Mit der LEGO Bauanleitung App für Smartphones und Tablets können Kinder ihre Modelle beim Bauen aus allen Blickwinkeln betrachten
 
 [🛒 Hier!!]({{< param buyurl >}})
