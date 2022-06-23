@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ? Für die komfortable Bewässerung von quadratischen und rechteckigen Flächen
+- ? Ausbau- und erweiterbar
 - Sprinklersystem-Komplett-Set mit Viereckregner OS140
 - ? Mit einstellbarer Beregnungsfläche
 - ? GARDENA Komplett-Set mit Versenk-Viereckregner OS 140, anschlussfertig
-- ? Ausbau- und erweiterbar
+- ? Für die komfortable Bewässerung von quadratischen und rechteckigen Flächen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
