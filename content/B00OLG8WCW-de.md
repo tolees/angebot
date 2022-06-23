@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schiesser Herren   2er Pack   Shorts Unterhose mit weichem B ndchen  Schwarz  Schwarz 000   L EU'
-date: 2022-06-21 23:14:52
+date: 2022-06-23 15:06:39
 image: 'https://m.media-amazon.com/images/I/41AKR3HIjRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Schiesser'
 buyurl: 'https://www.amazon.de/dp/B00OLG8WCW/?tag=tolees0ca-21'
 descuento: '32.38'
-average: '19.6266666666667'
+average: '19.445'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
