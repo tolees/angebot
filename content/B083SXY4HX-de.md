@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummilaufsohle
 - Obermaterial aus weichem Suede und strapazierfähigem Nylon
-- Gestanzte EVA-Zwischensohle
 - Sohle bietet genug Traktion gegen hohem Abrieb und für Haltbarkeit
 - Leichte Dämpfung und Atmungsaktivität
+- Gestanzte EVA-Zwischensohle
+- Gummilaufsohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

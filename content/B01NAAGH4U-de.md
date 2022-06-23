@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Wichtiger HINWEIS: Osterartikel haben ein einheitliches Mindesthaltbarkeitsdatum (ca. 3 Monate nach Ostern)
+- Ideal zum Verschenken oder selber genießen
 - Enthält eine Mischung aus Nougat, Cresta und LINDOR Vollmilch Eiern
-- Endecken Sie die ganze Osterwelt von Lindt & Sprüngli
 - Eine unvergleichliche Création der Maîtres Chocolatiers von Lindt
 - Aus feinsten Zutaten, darunter Kakaobohnen aus nachhaltigem Anbau
-- Ideal zum Verschenken oder selber genießen
+- Endecken Sie die ganze Osterwelt von Lindt & Sprüngli
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
