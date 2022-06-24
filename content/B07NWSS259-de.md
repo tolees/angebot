@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertiger Alleskönner mit stufenlos höhenverstellbarem Teleskoprohr. Schirmdach in alle Richtungen kipp
-- Material Schirm: 100% Polyester, Material Gestell: Stahl
-- Bezug 100% Polyester 180g/m², Schirmdach 5-teilig inkl. Dachstrebe
-- Schutzhülle im Lieferumfang enthalten
 - 2-teiliger Mast und Dachstreben aus Stahl, pulverbeschichtet platinum, Stockdurchmesser 32mm
 - Sockel nicht im Lieferumfang enthalten
+- Bezug 100% Polyester 180g/m², Schirmdach 5-teilig inkl. Dachstrebe
+- Hochwertiger Alleskönner mit stufenlos höhenverstellbarem Teleskoprohr. Schirmdach in alle Richtungen kipp
+- Material Schirm: 100% Polyester, Material Gestell: Stahl
+- Schutzhülle im Lieferumfang enthalten
 
 [🛒 Hier!!]({{< param buyurl >}})

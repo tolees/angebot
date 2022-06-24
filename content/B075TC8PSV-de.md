@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl Betriebsarten 9
-- Katalytische Selbstreinigung der Rückwand
-- Garraumvolumen 68 L
-- 20 Automatikprogramme
 - Gehäuseabmessungen (H x B x T) 595 x 595 x 566 mm
+- Anzahl Betriebsarten 9
 - Dual Fan 2 fach Gebläse Backen auf bis zu 3 Ebenen
+- Garraumvolumen 68 L
+- Katalytische Selbstreinigung der Rückwand
+- 20 Automatikprogramme
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
