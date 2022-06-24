@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnittstelle NVMe (PCIe Gen 3.0 x 4)
-- Entwickelt für Tech-Enthusiasten, Hardcore-Gamer und Profis, die unübertroffene Leistung benötigen
-- Spannung 3,3 V ± 5% Zulässige Spannung
-- Sequenzielle Lese-/Schreibgeschwindigkeiten von bis zu 3.500/3.300 MB/s. Die Leistung variiert je nach Systemhardware und -konfiguration
 - Verfügbare Kapazität Bis zu 2 TB
-- Bitte überprüfen Sie das Herstellerhandbuch für den richtigen SSD-Typ für Ihren PC/Laptop/Ihre Konsole, z. B. Sata, NVME, PCIe 3 oder PCIe 4
+- Spannung 3,3 V ± 5% Zulässige Spannung
+- Entwickelt für Tech-Enthusiasten, Hardcore-Gamer und Profis, die unübertroffene Leistung benötigen
 - Form Factor M.2
+- Schnittstelle NVMe (PCIe Gen 3.0 x 4)
+- Bitte überprüfen Sie das Herstellerhandbuch für den richtigen SSD-Typ für Ihren PC/Laptop/Ihre Konsole, z. B. Sata, NVME, PCIe 3 oder PCIe 4
+- Sequenzielle Lese-/Schreibgeschwindigkeiten von bis zu 3.500/3.300 MB/s. Die Leistung variiert je nach Systemhardware und -konfiguration
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
