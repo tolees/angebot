@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 65W SUPERVOOC Schnell-Ladung sorgt dafür, dass der 4500 mAh-Akku in nur 15 Minuten auf die Leistung eines Tages aufgeladen wird
 - MediaTek Dimensity 900 5G-Chipsatz + OxygenOS 11 für überragende Leistung und verbesserte Anpassbarkeit
-- Das Nord CE 2 verfügt über zwei SIM-Kartensteckplätze und einen zusätzlichen Micro-SD-Kartensteckplatz, mit dem du den Speicher um bis zu 1 TB erweitern kannst + 3,5-mm-Kopfhöreranschluss und ist mit 7,8 mm eines unserer flachsten Smartphones aller Zeiten
-- KI Dreifach-Kamera - 64 MP Hauptsensor, 8 MP Ultraweitwinkel- und 2 MP Makro-Objektiv, kombiniert mit einer Blende von f/1.79 für mehr Licht, Farbe und Klarheit bei der Aufnahme von Fotos und Videos
-- Wischst, tippst oder spielst – das 6,43 Zoll 90 Hz Fluid-AMOLED-Display macht alles mühelos flüssig und schön dank voller HD+-Auflösung
 - Die 5G-Kompatibilität kann je nach Netzbetreiber variieren. Wende dich für weitere Informationen an deinen Anbieter
+- Das Nord CE 2 verfügt über zwei SIM-Kartensteckplätze und einen zusätzlichen Micro-SD-Kartensteckplatz, mit dem du den Speicher um bis zu 1 TB erweitern kannst + 3,5-mm-Kopfhöreranschluss und ist mit 7,8 mm eines unserer flachsten Smartphones aller Zeiten
+- Wischst, tippst oder spielst – das 6,43 Zoll 90 Hz Fluid-AMOLED-Display macht alles mühelos flüssig und schön dank voller HD+-Auflösung
+- KI Dreifach-Kamera - 64 MP Hauptsensor, 8 MP Ultraweitwinkel- und 2 MP Makro-Objektiv, kombiniert mit einer Blende von f/1.79 für mehr Licht, Farbe und Klarheit bei der Aufnahme von Fotos und Videos
 
 [🛒 Hier!!]({{< param buyurl >}})

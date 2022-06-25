@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Doomsday-Clock tickt. Werde ein Sentinel-Pilot, passe deinen Mech an und kämpfe gegen die Kaiju in taktischen Top-Down-Kämpfen
-- Spieler können ihre Sentinels anpassen und die Menschheit in schnellen Top-Down-Kämpfen gegen die Kaiju verteidigen
 - Eine tiefgründige Story - Visionen aus Vergangenheit und Zukunft
 - Rüste dein Arsenal mit 26 neuen Fähigkeiten auf, die in der ursprünglichen Version nicht enthalten waren
+- Spieler können ihre Sentinels anpassen und die Menschheit in schnellen Top-Down-Kämpfen gegen die Kaiju verteidigen
+- Die Doomsday-Clock tickt. Werde ein Sentinel-Pilot, passe deinen Mech an und kämpfe gegen die Kaiju in taktischen Top-Down-Kämpfen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

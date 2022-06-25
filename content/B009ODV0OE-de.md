@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hex-Plus lässt Innensechskantschrauben länger leben
-- Verschleißfreies Clip-Material für erhöhte Lebensdauer
-- Abriebfeste Griffkennzeichnung
 - Winkelschlüsselsatz für Innensechskantschrauben
+- Abriebfeste Griffkennzeichnung
+- Verschleißfreies Clip-Material für erhöhte Lebensdauer
 - Winkelschlüssel sind durch ihre Größenkennzeichnung schnell zur Hand
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
