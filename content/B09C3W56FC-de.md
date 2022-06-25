@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Original Markenware
 - connectivity technology; kabellos
 - Zwei Jahre Garantie auf Fabrikfehler.
 - included components; bedienungsanleitung
-- Original Markenware
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
