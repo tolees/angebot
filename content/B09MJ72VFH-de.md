@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- weich, hochwertig, Strick
-- die Passform ist regulär
 - in Unicolor, hat eine strukturierte Optik
+- weich, hochwertig, Strick
 - Kleid kurz REGULAR FIT
+- die Passform ist regulär
 - Kleid kurz REGULAR FIT
 - mit V-Ausschnitt
 

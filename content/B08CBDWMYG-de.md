@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bluetooth
 - Dampffunktion
 - Wasserkondensation
 - Gerätemaße H x B x T (cm): 84 x 60 x 59
 - Nachlegefunktion
+- Bluetooth
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

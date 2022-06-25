@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 1x PLAYMOBIL City Action Polizei-Mannschaftswagen, 52-teiliges Spielfiguren-Set mit Anleitung: 1 PLAYMOBIL-Auto, 2 PLAYMOBIL-Polizisten, 49 Zubehörteile (exkl. 1x 1,5 V Micro-Batterien AAA), Material: Kunststoff, LxTxH: ca. 27 x 11 x 13 cm, Gewicht: 507 g, 70899
-- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Einsatz rund um die PLAYMOBIL-Polizeistation: PLAYMOBIL Polizei-Mannschafstwagen mit 2 Polizisten und Equipment für die spannende Verfolgungsjagd
 - 1 PLAYMOBIL-Polizeiauto mit abnehmbaren Dacheinsätzen, öffenbaren Hecktüren, umklappbarer Rücksitzbank, öffenbarer Schiebetür, Licht- und Sound uvm.
+- Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Kinderspielzeug ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe der Spielfiguren und angenehme Haptik mit abgerundeten Kanten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
