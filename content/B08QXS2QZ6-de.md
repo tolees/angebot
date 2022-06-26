@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1. Enthält eine Skeletor-Mikro-Actionfigur mit authentischen Details, zwölf beweglichen Gelenken, Brustpanzer und Axt
-- 1. Dieses Bauset ist perfekt für Kinder ab 8 Jahren geeignet und fördert durch die authentische Gestaltung kreatives Denken.
 - 1. Panthor ist komplett flauschig und fühlt sich an, als hätte er wirklich Fell
-- 1. Die Bausteine sind mit jedem Bauspielzeug von Mega Construx und auch mit anderen Marken kompatibel
+- 1. Dieses Bauset ist perfekt für Kinder ab 8 Jahren geeignet und fördert durch die authentische Gestaltung kreatives Denken.
 - 1. Panthor-Bauset zum Sammeln, Beine, Kopf und Schwanz beweglich, mit abnehmbarem Sattel, auf dem Skeletor reiten kann
+- 1. Enthält eine Skeletor-Mikro-Actionfigur mit authentischen Details, zwölf beweglichen Gelenken, Brustpanzer und Axt
+- 1. Die Bausteine sind mit jedem Bauspielzeug von Mega Construx und auch mit anderen Marken kompatibel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

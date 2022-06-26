@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entwickelt, um Musik, Filme und TV-Sendungen mit atemberaubendem, raumfüllendem Surround-Sound zum Leben zu erwecken
-- Mit der integrierten Alexa-Sprachsteuerung können Sie Ihre Musik wiedergeben, Informationen abfragen und Smart-Home-Geräte bedienen. Ein Array mit acht Mikrofonen sorgt für besten Sprachempfang
+- Bei den kompaktesten Lautsprechern von Bose stehen Ihre Entertainment-Inhalte im Mittelpunkt, nicht die Lautsprecher
 - Kombinierbar mit der Bose Soundbar 500 oder der Bose Soundbar 700, um Musik, Filme und TV-Sendungen mit atemberaubendem Sound zum Leben zu erwecken
 - Neu entwickelter Subwoofer mit dynamischer Basswiedergabe in einem kompakten und unauffälligen Design
-- Bei den kompaktesten Lautsprechern von Bose stehen Ihre Entertainment-Inhalte im Mittelpunkt, nicht die Lautsprecher
+- Mit der integrierten Alexa-Sprachsteuerung können Sie Ihre Musik wiedergeben, Informationen abfragen und Smart-Home-Geräte bedienen. Ein Array mit acht Mikrofonen sorgt für besten Sprachempfang
+- Entwickelt, um Musik, Filme und TV-Sendungen mit atemberaubendem, raumfüllendem Surround-Sound zum Leben zu erwecken
 - Da Amazon Alexa Cloud-basiert ist, lernt sie kontinuierlich dazu. Bitten Sie Alexa, Musik abzuspielen, Nachrichten vorzulesen, das Wetter zu überprüfen, Ihr Smart Home zu steuern und vieles mehr.
 - Die leistungsstärkste Soundbar von Bose bietet eine einzigartige Kombination aus elegantem Design und überragendem Spitzenklang
 

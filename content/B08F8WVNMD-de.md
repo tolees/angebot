@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4 x 2,5GbE-Ports beschleunigen den Dateiaustausch zwischen Teams und Geräten, Anwendungen für virtuelle Maschinen oder die Multimedia-Übertragung
-- Qnap
 - Qnap TS-H686-D1602-8G 6 Bay Desktop NAS Gehäuse
+- Qnap
+- 4 x 2,5GbE-Ports beschleunigen den Dateiaustausch zwischen Teams und Geräten, Anwendungen für virtuelle Maschinen oder die Multimedia-Übertragung
 - TS-H686-D1602-8G
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

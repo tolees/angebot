@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 5-fache zentrale Schnitthöhenverstellung (25/35/45/55/65 mm) mit nur einem Handgriff / Geflügeltes Messerdesign: optimiert Schnittqualität und sorgt für effektive Grasaufnahme
 - Lieferumfang: 1x Akku-Rasenmäher, Mulcheinsatz
-- 35 l Grasfangkorb: Robust und einfach entleerbar, Füllstandsanzeige zeigt an, wenn der Behälter geleert werden muss
 - Für kleine und mittlere Rasenflächen: Mit 18 Volt und einer Schnittbreite von 33 cm ideal für kleinere bis mittlere Gärten (bis zu 250 m²)
 - Umklappbarer Griff und Tragegriff für einfache Aufbewahrung und leichten Transport
-- 5-fache zentrale Schnitthöhenverstellung (25/35/45/55/65 mm) mit nur einem Handgriff / Geflügeltes Messerdesign: optimiert Schnittqualität und sorgt für effektive Grasaufnahme
+- 35 l Grasfangkorb: Robust und einfach entleerbar, Füllstandsanzeige zeigt an, wenn der Behälter geleert werden muss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

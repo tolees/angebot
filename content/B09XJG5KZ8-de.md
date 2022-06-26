@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Produkt 2: Die vielen originalgetreuen Details am Auto als auch am Fahrer machen es zum dem perfekten Modellauto zum selber Bauen und auch Liebhaber sind begeistert
 - Produkt 2: Die im Set enthaltene LEGO Spielzeug-Rennfahrer-Minifigur Koenigsegg wird durch einen Rennanzug, einen Schutzhelm und einen Schraubenschlüssel ergänzt
 - Produkt 1: Enthält ein weißes Lamborghini Countach Automodell mit einer Rennfahrer-Minifigur mit Sturzhelm, Perücke und Schraubenschlüssel
 - Produkt 2: Dieser LEGO Rennwagen verfügt über ein breites 8-Bolzen-Chassis, das Platz für ein 2-sitziges Cockpit mit Platz bietet, somit haben 2 Minifiguren im Modellauto Platz
+- Produkt 1: Baue deinen eigenen Lamborghini Countach, zeige ihn deinen Freunden und genieße die Rennaction gegen andere LEGO Rennwagen
 - Produkt 1: Dieses Spielzeug-Auto für Kinder ab 8 Jahren verfügt über ein offenes Cockpit mit 2 Sitzen und viele authentische Details
-- Produkt 2: Die vielen originalgetreuen Details am Auto als auch am Fahrer machen es zum dem perfekten Modellauto zum selber Bauen und auch Liebhaber sind begeistert
 - Produkt 2: Kinder können mit ihrem eigenen LEGO Speed Champions Koenigsegg Jesko Rennwagen Spielzeugmodell einen der ersten 300 mph Supercars der Welt erkunden
 - Produkt 1: Der ikonische Supersportwagen wird von Fans auf der ganzen Welt für sein einmaligen Design und seine erstklassige Leistung verehrt
-- Produkt 1: Baue deinen eigenen Lamborghini Countach, zeige ihn deinen Freunden und genieße die Rennaction gegen andere LEGO Rennwagen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

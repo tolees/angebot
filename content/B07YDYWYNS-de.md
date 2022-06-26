@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Weicher, bequemer, leichter Jersey-Stoff
 - Eine Amazon-Marke
 - Eng anliegender Schnitt am Oberkörper für eine figurnahe, schmale Passform
-- Weicher, bequemer, leichter Jersey-Stoff
 
 [🛒 Hier!!]({{< param buyurl >}})

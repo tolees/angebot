@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PowerHeißluft – von Beginn an gleichmäßige Verteilung der heißen Luft
-- DiamondClean – hydrolytische Selbstreinigungsfunktion
-- DUO-ZweikreisKochzone
 - Maxi Cooking – optimierte Funktion für das Garen großer Fleischstücke
-- 4 SprintStar Kochzonen
+- DiamondClean – hydrolytische Selbstreinigungsfunktion
 - Easy-Touch-Control
+- DUO-ZweikreisKochzone
+- 4 SprintStar Kochzonen
 
 [🛒 Hier!!]({{< param buyurl >}})

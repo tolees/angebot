@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenseite: Hängeschlaufe und doppelte Innentasche
-- Paspel hinten entlang der Ärmel
 - Pattentasche vorne an der Schulter – Klettverschluss, vertikal eingesetzte Taschen – Druckknopfverschluss
+- Paspel hinten entlang der Ärmel
+- Innenseite: Hängeschlaufe und doppelte Innentasche
 - Verstellbare Schirmkapuze, Kordelzug innen, Kinnschutz – abnehmbar
 - Wattiertes Steppdesign
 

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 2: Erforsche den Modellauto Bausatz Stück für Stück, während du eine der weltweit einzigartigsten aerodynamischen Formen nachbaust
+- Produkt 2: Dieses Spielzeug-Auto für Kinder bietet viel Platz für ein 2-sitziges Cockpit und viele authentische Details
+- Produkt 1: Baue deinen eigenen Lamborghini Countach, zeige ihn deinen Freunden und genieße die Rennaction gegen andere LEGO Rennwagen
 - Produkt 1: Der ikonische Supersportwagen wird von Fans auf der ganzen Welt für sein einmaligen Design und seine erstklassige Leistung verehrt
+- Produkt 2: Enthält eine LEGO Rennfahrer-Minifigur mit Lotus-Rennanzug, Sturzhelm, Perücke und einem Schraubenschlüssel
 - Produkt 1: Dieses Spielzeug-Auto für Kinder ab 8 Jahren verfügt über ein offenes Cockpit mit 2 Sitzen und viele authentische Details
 - Produkt 1: Enthält ein weißes Lamborghini Countach Automodell mit einer Rennfahrer-Minifigur mit Sturzhelm, Perücke und Schraubenschlüssel
-- Produkt 1: Baue deinen eigenen Lamborghini Countach, zeige ihn deinen Freunden und genieße die Rennaction gegen andere LEGO Rennwagen
+- Produkt 2: Erforsche den Modellauto Bausatz Stück für Stück, während du eine der weltweit einzigartigsten aerodynamischen Formen nachbaust
 - Produkt 2: Baue mit diesem Lotus Evija Modell das erste vollelektrische Hypercar Großbritanniens nach und bewundere das Design des LEGO Rennwagens
-- Produkt 2: Dieses Spielzeug-Auto für Kinder bietet viel Platz für ein 2-sitziges Cockpit und viele authentische Details
-- Produkt 2: Enthält eine LEGO Rennfahrer-Minifigur mit Lotus-Rennanzug, Sturzhelm, Perücke und einem Schraubenschlüssel
 
 [🛒 Hier!!]({{< param buyurl >}})
