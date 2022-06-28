@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Beinhaltet 4 Minifiguren: Darius, Yaz, Owen Grady, ein Wachmann sowie ein Baryonyx, ein Baby-Dinosaurier und 2 Fisch-Spielzeugfiguren.
 - Das Zubehör umfasst ein Betäubungsgewehr, einen Taser und 2 Dino-Eier. Eine bebilderte Schritt-für-Schritt-Anleitung liegt dem Set bei.
+- Das LEGO Jurassic World Spielzeug „Flucht des Baryonyx“ ist das erste LEGO Set, in dem ein schwimmendes Spielzeugboot enthalten ist!
 - Das fantastische LEGO Jurassic World Spielzeug beinhaltet ein cooles Spielzeug-Boot aus LEGO Steinen, das schwimmt – sogar mit der Dinosaurier-Figur an Bord!
 - Das Premium-Spielset ist ein fantastisches Weihnachtsgeschenk, Geburtstagsgeschenk oder eine tolle Überraschung für Jungen und Mädchen ab 8 Jahren.
-- Beinhaltet 4 Minifiguren: Darius, Yaz, Owen Grady, ein Wachmann sowie ein Baryonyx, ein Baby-Dinosaurier und 2 Fisch-Spielzeugfiguren.
-- Das LEGO Jurassic World Spielzeug „Flucht des Baryonyx“ ist das erste LEGO Set, in dem ein schwimmendes Spielzeugboot enthalten ist!
 - An Bord des schwimmenden Bootes befinden sich ein abnehmbares Ruderhaus mit Frachtraum darunter, ein Dinosaurierkäfig und ein schwenkbarer Suchscheinwerfer.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

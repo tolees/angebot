@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: IXO, 10 Bits, Micro USB Lader, Aufbewahrungsbox
+- Mit Mikro-USB-Lader für schnelles Laden und LED-Ladezustandsanzeige
 - Der Akku-Schrauber IXO - Das erfolgreiche Elektrowerkzeug in der 5. Generation
+- Lieferumfang: IXO, 10 Bits, Micro USB Lader, Aufbewahrungsbox
 - Automatische Spindelarretierung zum manuellen Festziehen oder Lösen von Schrauben
 - Verbessertes Design: Integrierter Bedien- und Drehrichtungsschalter für eine komfortable Handhabung
-- Mit Mikro-USB-Lader für schnelles Laden und LED-Ladezustandsanzeige
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
