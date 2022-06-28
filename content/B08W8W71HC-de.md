@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die im Set enthaltene LEGO Spielzeug-Rennfahrer-Minifigur Koenigsegg wird durch einen Rennanzug, einen Schutzhelm und einen Schraubenschlüssel ergänzt
-- Die Kinder können den Aufbau des Spielzeugautos genau erkunden, während sie bauen, bevor sie es ausstellen - ein perfektes LEGO Geschenk für Jungen und Mädchen
-- Kinder können mit ihrem eigenen LEGO Speed Champions Koenigsegg Jesko Rennwagen Spielzeugmodell einen der ersten 300 mph Supercars der Welt erkunden
-- Die vielen originalgetreuen Details am Auto als auch am Fahrer machen es zum dem perfekten Modellauto zum selber Bauen und auch Liebhaber sind begeistert
 - Dieser LEGO Rennwagen verfügt über ein breites 8-Bolzen-Chassis, das Platz für ein 2-sitziges Cockpit mit Platz bietet, somit haben 2 Minifiguren im Modellauto Platz
+- Die vielen originalgetreuen Details am Auto als auch am Fahrer machen es zum dem perfekten Modellauto zum selber Bauen und auch Liebhaber sind begeistert
+- Kinder können mit ihrem eigenen LEGO Speed Champions Koenigsegg Jesko Rennwagen Spielzeugmodell einen der ersten 300 mph Supercars der Welt erkunden
+- Die Kinder können den Aufbau des Spielzeugautos genau erkunden, während sie bauen, bevor sie es ausstellen - ein perfektes LEGO Geschenk für Jungen und Mädchen
 
 [🛒 Hier!!]({{< param buyurl >}})

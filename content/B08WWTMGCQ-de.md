@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit 5 Modellen, mehr als 650 Steinchen, darunter 72 mit dem Alphabet bedruckt, zum Erstellen von Botschaften auf den Modellen oder anderen Sets für Kinderzimmer-Deko
-- Dieses Bastelset für Kinder enthält außerdem ein Inspirationsmagazin mit weiteren LEGO DOTS Designideen und ist ein tolles Weihnachtsgeschenk für Mädchen und Jungen
-- Umfasst verschiedenste Kinderzimmerdekoration: ein Schreibtischset, eine Box mit 2 Schubladen, eine Pinnwand zum Aufhängen, ein Bilderrahmen und eine kleine Schale
 - Das LEGO DOTS Ultimatives Design-Set mit seiner großen Auswahl an verschiedenen Steinchen ist das kreative und abwechslungsreiche Set zum Basteln für Kinder ab 7 Jahren
 - Um noch mehr eigene Unikate zu schaffen und noch größeren Spielspaß, kombinieren Sie dieses Set mit einer Extra DOTS - Serie 5 (41932) Ergänzungsset Urlaub
+- Dieses Bastelset für Kinder enthält außerdem ein Inspirationsmagazin mit weiteren LEGO DOTS Designideen und ist ein tolles Weihnachtsgeschenk für Mädchen und Jungen
+- Umfasst verschiedenste Kinderzimmerdekoration: ein Schreibtischset, eine Box mit 2 Schubladen, eine Pinnwand zum Aufhängen, ein Bilderrahmen und eine kleine Schale
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
