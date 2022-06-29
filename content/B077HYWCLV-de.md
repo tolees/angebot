@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jeder Kartensatz beinhaltet Joker- und Aussetzen-Karten, die für mehr Spannung sorgen und dabei helfen können, schwierige Situationen zu meistern
 - Gesellschaftsspiel für 2 bis 6 Spieler. Ab 7 Jahren
+- Jeder Kartensatz beinhaltet Joker- und Aussetzen-Karten, die für mehr Spannung sorgen und dabei helfen können, schwierige Situationen zu meistern
+- Ziel des Spiels ist es, als Erster 10 verschiedene Phasen abzuschließen, etwa Zwei Drillinge, eine Siebenerfolge oder sieben Karten derselben Farbe
 - Die Besonderheit ist, dass die Phasen in einer bestimmten Reihenfolge abgeschlossen werden müssen - wer eine Phase abgeschlossen hat, darf in der folgenden Runde die nächste Phase in Angriff nehmen
 - Die Verpackung kann variieren
-- Ziel des Spiels ist es, als Erster 10 verschiedene Phasen abzuschließen, etwa Zwei Drillinge, eine Siebenerfolge oder sieben Karten derselben Farbe
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: Baby Puzzle-Set mit 5 Motiven à 3/4/5 Teilen. Empfohlen ab 24 Monaten.
 - Das Puzzleset beinhaltet 5 verschiedene Puzzles in Form deiner Lieblingsfiguren aus Disney-Filmen. Die liebevoll gestalteten Puzzlemotive bestehen aus 3, 4 oder 5 Teilen.
+- Educa: robuste und präzise Puzzle-Qualität aus Spanien. Die FSC-zertifizierten Puzzles werden nach strengen Sicherheits- und Qualitätskontrollen und nur aus hochwertigen, recycelbaren und umweltfreundlichen Rohstoffen hergestellt.
 - Das hochwertige Puzzle in Tierform ist perfekt für kleine Kinderhände. Die Teile sind schön groß, dick und einfach zu greifen.
 - Entdecke die wundervolle, bunte und lustige Welt der Disney Babies. Welche Charakere erkennst du? Idealer Puzzlespaß für kleine Puzzle-Anfänger.
-- Educa: robuste und präzise Puzzle-Qualität aus Spanien. Die FSC-zertifizierten Puzzles werden nach strengen Sicherheits- und Qualitätskontrollen und nur aus hochwertigen, recycelbaren und umweltfreundlichen Rohstoffen hergestellt.
+- Inhalt: Baby Puzzle-Set mit 5 Motiven à 3/4/5 Teilen. Empfohlen ab 24 Monaten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
