@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eco-Drive Antrieb: Eco-Drive ist eine Kerntechnologie von CITIZEN, die selbst bei schwachem Licht Strom erzeugt und es ermöglicht, dass Uhren auch bei Dunkelheit über sechs Monate laufen
-- Läuft über sechs Monate im Dunkeln. Eine volle Ladung reicht aus, um die meisten Eco-Drive-Modelle länger als sechs Monate im Dunkeln laufen zu lassen
+- Kaliber Nummer: B612
 - Kein Batteriewechsel erforderlich. Eco-Drive eliminiert den Ärger und die Kosten des regelmäßigen Batteriewechsels
 - Um die Umwelt zu schonen, ändert Citizen derzeit die Darstellung der Betriebsanleitung. Anstelle einer gedruckten Version wird eine neue digitale Version mit einem QR-Code erstellt.
-- Kaliber Nummer: B612
+- Läuft über sechs Monate im Dunkeln. Eine volle Ladung reicht aus, um die meisten Eco-Drive-Modelle länger als sechs Monate im Dunkeln laufen zu lassen
+- Eco-Drive Antrieb: Eco-Drive ist eine Kerntechnologie von CITIZEN, die selbst bei schwachem Licht Strom erzeugt und es ermöglicht, dass Uhren auch bei Dunkelheit über sechs Monate laufen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
