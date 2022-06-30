@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maximierte Abdeckung für Einsatz von WLAN Access Points in SOHO-Umgebungen (Small Office und Home Office), einfache schnelle Installation mit intuitiver Benutzeroberfläche
-- Lieferumfang: Netgear WAC104 Wireless Access Point AC1200, Netzwerkkabel, Netzteil, Installationsanleitung
-- Dual-Band Parallelbetrieb auf Frequenzbereichen 2,4 GHz + 5 GHz und aktuelle Wireless-Sicherheitsfunktionen (WPA/WPA2)
-- WAC104 Access Point bietet allen Nutzern in kleineren Unternehmen, Büro- und Heimnetzwerken Zuverlässigkeit, eine hohe Leistung sowie Kosteneffizienz
-- Bei Problemen kann der Kunde seinen WAC104 komplett auf die Werkseinstellungen zurücksetzen (Reset durchführen - auf der Rückseite mindestens 10 Sekunden drücken) und es erneut versuchen.
-- Herstellergarantie: 3 Jahre. Garantiebedingungen finden Sie unter "Weitere technische Informationen", Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Umfassende Systemüberwachung mit webbasiertem Zugriff, unterstützt aktuelle 802.11ac Wireless Clients für maximale Geschwindigkeiten
+- Herstellergarantie: 3 Jahre. Garantiebedingungen finden Sie unter "Weitere technische Informationen", Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Dual-Band Parallelbetrieb auf Frequenzbereichen 2,4 GHz + 5 GHz und aktuelle Wireless-Sicherheitsfunktionen (WPA/WPA2)
 - 4x LAN-Anschlüsse mit Auto-Uplink (Auto MDI-X): Computer und andere kabelgebundene Geräte in der Nähe mit 4x 1 Gigabit Ethernet-Ports anschließen
+- Lieferumfang: Netgear WAC104 Wireless Access Point AC1200, Netzwerkkabel, Netzteil, Installationsanleitung
+- Bei Problemen kann der Kunde seinen WAC104 komplett auf die Werkseinstellungen zurücksetzen (Reset durchführen - auf der Rückseite mindestens 10 Sekunden drücken) und es erneut versuchen.
+- Maximierte Abdeckung für Einsatz von WLAN Access Points in SOHO-Umgebungen (Small Office und Home Office), einfache schnelle Installation mit intuitiver Benutzeroberfläche
+- WAC104 Access Point bietet allen Nutzern in kleineren Unternehmen, Büro- und Heimnetzwerken Zuverlässigkeit, eine hohe Leistung sowie Kosteneffizienz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
