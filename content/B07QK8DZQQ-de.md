@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Duales Ultraschnelles NVMe PCIe 4.0/ 3.0 X4 M.2 mit einem Thermal Guard, 6 x SATA 6 Gbit/ S-Anschlüsse
-- Integrierte i/ O Shield Armor- und HDMI 2.0-Unterstützung
-- Unterstützt AMD Ryzen der 3. Generation/ Ryzen der 2. Generation/ Ryzen der 2. Generation mit Radeon -vega-grafikprozessoren/ Ryzen mit Radeon -vega-grafikprozessoren
 - Rgb Fusion 2.0 mit adressierbarem led-show-design für mehrere Zonen, unterstützt adressierbare LED- und RGB-LED-Streifen
 - 10 + 2 Phasen Digital vrm-lösung
+- Unterstützt AMD Ryzen der 3. Generation/ Ryzen der 2. Generation/ Ryzen der 2. Generation mit Radeon -vega-grafikprozessoren/ Ryzen mit Radeon -vega-grafikprozessoren
 - 4 x ddr4-dimm-sockel für bis zu 128 GB (32 GB single-dimm-kapazität) Systemspeicher
+- Integrierte i/ O Shield Armor- und HDMI 2.0-Unterstützung
+- Duales Ultraschnelles NVMe PCIe 4.0/ 3.0 X4 M.2 mit einem Thermal Guard, 6 x SATA 6 Gbit/ S-Anschlüsse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
