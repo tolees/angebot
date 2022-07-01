@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Per Android TV Stick über den HDMI-Anschluss Shows, Spiele, Filme, News, Sport und vieles mehr streamen; Verbindung mit Soundleisten, Kopfhörern und Gaming-Controllern per Bluetooth; Steuerung über Fernbedienung oder die Epson iProjection App
 - Erleben Sie Inhalte in 4K und stellen Sie dieses elegante Modell dicht vor der Projektionsfläche auf (0,4 bis 0,8 m) für bis zu 130 Zoll (3,3 m) Bildgröße
+- Hauptgerät, Android TV Dongle, CD-Handbuch, Stromkabel, Schnellstartanleitung, Fernbedienung incl. Batterien, Garantiedokument
 - Flexible Anschlussmöglichkeiten: USB 1.1 Typ A, USB 2.0 Typ Mini-B, RS-232C, Wireless-LAN b/g/n (2,4 GHz) (optional), Stereo-Mini-Klinkenbuchsen-Ausgang, HDMI (HDCP 2.2) (3x)
 - 4.000 Lumen für helle, lebendige Bilder; Kontrast: 2.500.000:1 für deutlich definierte Schatte und tiefe Schwarztöne, Detail-Enhancement-Technologie für flüssige Actionszenen
-- Per Android TV Stick über den HDMI-Anschluss Shows, Spiele, Filme, News, Sport und vieles mehr streamen; Verbindung mit Soundleisten, Kopfhörern und Gaming-Controllern per Bluetooth; Steuerung über Fernbedienung oder die Epson iProjection App
-- Hauptgerät, Android TV Dongle, CD-Handbuch, Stromkabel, Schnellstartanleitung, Fernbedienung incl. Batterien, Garantiedokument
 
 [🛒 Hier!!]({{< param buyurl >}})
