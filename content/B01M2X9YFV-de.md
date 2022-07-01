@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - HUGO BOSS T-Shirts mit V-Kragen
-- Classic Fit, V-Ausschnitt
 - Einfarbig
-- 100% Baumwolle
 - 3er Pack
+- Classic Fit, V-Ausschnitt
+- 100% Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})

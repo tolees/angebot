@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Neues Produktdesign wird eingeführt. Verpackung kann vom Foto abweichen, an der bewährten Rezeptur ändert sich nichts
-- Zur täglichen Pflege empfindlicher, trockener, gereizter, juckender oder schuppiger Haut
 - Frei von Mineralölen, Paraffinen und Parabenen / 100 % vegan / Hautverträglichkeit vom unanbhängigen Institut Dermatest mit „sehr gut“ bestätigt
-- Der optimale Pflegeeffekt wird erzielt bei täglicher Anwendung in Kombination mit Sorion Shampoo
+- Zur täglichen Pflege empfindlicher, trockener, gereizter, juckender oder schuppiger Haut
 - Auch zur therapiebegleitenden Hautpflege bei Psoriasis Capitis (Schuppenflechte), Neurodermitis, Kopfschuppen und Ekzemen geeignet
+- Der optimale Pflegeeffekt wird erzielt bei täglicher Anwendung in Kombination mit Sorion Shampoo
 
 [🛒 Hier!!]({{< param buyurl >}})

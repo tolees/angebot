@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x PLAYMOBIL DUCK ON CALL Polizei Truck, 53-teiliges Spielfiguren-Set mit Anleitung: 1 PLAYMOBIL-Polizeiauto, 1 Polizistin, 1 Spielzeug-Ente, 1 Gauner, 49 Zubehörteile (exkl. 3x 1,5 V AAA Micro-Batterie), Material: BPA-freier Kunststoff, LxTxH: 41,5 x 13 x 17,5 cm, Gewicht: 982 g, 70912
 - Einfaches Aufbauerlebnis für Kinder, Mit Anleitung zum Aufbau, Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - 1 Polizeiauto mit Licht und Sound, abnehmbarem Kabinendach und aufklappbarem Container mit Einsatzzentrale, Netzkanone, verriegelbarem Gefängnis uvm.
+- Lieferumfang: 1x PLAYMOBIL DUCK ON CALL Polizei Truck, 53-teiliges Spielfiguren-Set mit Anleitung: 1 PLAYMOBIL-Polizeiauto, 1 Polizistin, 1 Spielzeug-Ente, 1 Gauner, 49 Zubehörteile (exkl. 3x 1,5 V AAA Micro-Batterie), Material: BPA-freier Kunststoff, LxTxH: 41,5 x 13 x 17,5 cm, Gewicht: 982 g, 70912
 - Kinderspielzeug ab 3 Jahren: Optimal für Kinderhände durch altersgerechte Größe der Spielfiguren und angenehme Haptik mit abgerundeten Kanten
 - Erstes Polizei-Spielzeug für kleine Helden: PLAYMOBIL Polizei Truck mit PLAYMOBIL-Polizistin Polly Police Fire und Enten-Figur Ducklas aus Playmoville
 

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KÖSTLICHE GESCHMACKSRICHTUNGEN, ENDLOSE VIELFALT: Es ist bestimmt etwas für dich dabei, denn dafür sorgt die umwerfende Auswahl an unwiderstehlichen Geschmacksrichtungen von CLIF BAR. (*Vitamin B12 trägt zu einem normalen Energiestoffwechsel bei.)
 - Elementanzeigegewicht: 0.82 kilograms
-- GESUNDE ZUTATEN: Bewusster Genuss – gut für dich und für die Umwelt: Jeder Riegel wird aus gesunden Zutaten wie Nüssen, Trockenfrüchten, Haferflocken und Kakao mit dem Rainforest Alliance Certified-Siegel hergestellt.
-- PFLANZENBASIERTE ENERGIE* FÜR UNTERWEGS: Unsere Riegel werden gezielt so kreiert, dass sie eine Mischung aus komplexen und einfachen Kohlenhydraten aus Zucker und Haferflocken für köstliche, pflanzliche Energie* liefern.
 - FEED YOUR ADVENTURE: Der CLIF BAR Energieriegel* – unser Klassiker und ursprüngliche Energieriegel – basiert auf einem einfachen Rezept und neuesten Erkenntnissen aus der Ernährungswissenschaft. Mit einer großartigen Mischung aus pflanzlichen Zutaten, Kohlenhydraten, Protein und Fett sowie Vitamin B12 als Energielieferant* helfen diese Energiebringer, die Leistung vor, während und nach dem Training zu steigern.
+- KÖSTLICHE GESCHMACKSRICHTUNGEN, ENDLOSE VIELFALT: Es ist bestimmt etwas für dich dabei, denn dafür sorgt die umwerfende Auswahl an unwiderstehlichen Geschmacksrichtungen von CLIF BAR. (*Vitamin B12 trägt zu einem normalen Energiestoffwechsel bei.)
+- PFLANZENBASIERTE ENERGIE* FÜR UNTERWEGS: Unsere Riegel werden gezielt so kreiert, dass sie eine Mischung aus komplexen und einfachen Kohlenhydraten aus Zucker und Haferflocken für köstliche, pflanzliche Energie* liefern.
+- GESUNDE ZUTATEN: Bewusster Genuss – gut für dich und für die Umwelt: Jeder Riegel wird aus gesunden Zutaten wie Nüssen, Trockenfrüchten, Haferflocken und Kakao mit dem Rainforest Alliance Certified-Siegel hergestellt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

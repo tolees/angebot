@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmale Passform
-- Bund mit Schlaufen, Knopf und verdecktem Zipper
 - Klassische 5-Pocket Jeans mit Strechkomfort in verschiedenen Waschungen
 - Neue Versionen mit Baumwolle aus kontrolliert biologischem Anbau
+- Bund mit Schlaufen, Knopf und verdecktem Zipper
 - Leichter Washed Out- und Wrinkle-Effekt
+- Schmale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

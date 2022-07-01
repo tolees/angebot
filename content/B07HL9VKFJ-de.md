@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Passt in alle Brita Systeme (ausgenommen Classic Systeme)
 - inkl. 1x MAXTRA+ Kartusche
 - Verbesserter Geschmack (im Vergleich zur bisherigen Maxtra)
 - Gesamtvolumen: 3, 5 l, gefiltertes Wasser: 2 l
-- Passt in alle Brita Systeme (ausgenommen Classic Systeme)
 
 [🛒 Hier!!]({{< param buyurl >}})
