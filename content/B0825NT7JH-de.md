@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
-- Verschluss: Schnürsenkel
-- Sohle: Synthetik
 - Obermaterial: Wildleder
+- Innenmaterial: Synthetik
+- Sohle: Synthetik
+- Verschluss: Schnürsenkel
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Designspaß ohne Grenzen fördert die Kreativität.
 - Anzahl der Teile: 33
-- Regenbogen Armband
 - Die Steinchen können für coole Designs benutzt und mit anderen DOTS Sets kombiniert werden!
 - Vom Hersteller empfohlenes Alter: 6+
+- Designspaß ohne Grenzen fördert die Kreativität.
 - Vom Hersteller nicht mehr verkauft
+- Regenbogen Armband
 
 [🛒 Hier!!]({{< param buyurl >}})
