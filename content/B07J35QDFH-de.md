@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Akustische Sicherheitstechnologie schützt Ihr Gehör
 - Der modulare Rahmen ist leicht und langlebig und bietet eine bequemere Passform.
 - Leichte Exoskelett-Ohrmuscheln bieten Komfort und Stabilität
-- Akustische Sicherheitstechnologie schützt Ihr Gehör
 - 40 mm Treiber sorgen für ein High-Definition-Spielerlebnis
 - Inline-Stummschaltung und Lautstärkeregler
 

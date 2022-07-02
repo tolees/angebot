@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weiche Dämpfung
 - Eingespritzte EVA-Außensohle für zusätzliche Weichheit
+- Weiche Dämpfung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

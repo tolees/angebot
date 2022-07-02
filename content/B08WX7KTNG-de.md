@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Brusttasche mit camel active Logo-Stickerei
 - But­ton-down-Kra­gen
 - Aus 96% Baumwolle und 4% Elasthan
-- Camel active Markenlabel an der linken Manschette
 - Regular Fit
-- Brusttasche mit camel active Logo-Stickerei
+- Camel active Markenlabel an der linken Manschette
 
 [🛒 Hier!!]({{< param buyurl >}})

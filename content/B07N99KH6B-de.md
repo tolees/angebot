@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verschlusstyp : Klettverschluss
+- Außensohle : Gummi
 - Außenmaterial : Leder
 - Innenmaterial : Leder
 - Innensohle : Leder
-- Verschlusstyp : Klettverschluss
-- Außensohle : Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

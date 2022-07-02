@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Außensohle : Gummi
 - Verschlusstyp : Schnürsenkel
-- Innensohle : Leder
-- Außenmaterial : Leder
 - Innenmaterial : Leder
+- Innensohle : Leder
+- Außensohle : Gummi
+- Außenmaterial : Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

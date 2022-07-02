@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sweatshirt mit Kapuze, lange Arme, innenliegender Kordelzug, große Känguru-Tasche vorn
 - SUPPORTING BETTER COTTON We are a proud member of the Better Cotton Initiative. By buying cotton products from us, you are supporting more sustainable cotton farming. Better cotton is sourced via a system of Mass Balance.
 - großer Logo-Schriftzug auf der Brust, bequeme Strickbündchen an der Taille und den Handgelenken
-- Sweatshirt mit Kapuze, lange Arme, innenliegender Kordelzug, große Känguru-Tasche vorn
 
 [🛒 Hier!!]({{< param buyurl >}})

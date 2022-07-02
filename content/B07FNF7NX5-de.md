@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fortschrittliche Lithium-Ionen-Technologie
 - Das wassergeschützte Gerät kann nicht nur vollständig abgespült werden, sondern auch unter der Dusche verwendet werden
+- Fortschrittliche Lithium-Ionen-Technologie
 - 180 Minuten Laufzeit nach einer vollständigen Ladezeit von 60 Minuten
 - Made in USA
 
