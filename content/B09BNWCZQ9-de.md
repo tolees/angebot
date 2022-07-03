@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Bastelset für Erwachsene enthält 9 Wanddekorationsplatten, 2 Aufhängeelemente, eine Farbpalette und einen Rahmen aus Bausteinen
 - Scanne beim Bauen den QR-Code und höre dir den 2-stündigen Soundtrack an, der dich in das DIY-Projekt eintauchen lässt
-- Entscheide dich bei der Wandkunst für die Gerechtigkeit oder Chaos, indem du 1 von 3 Poster von Batman, Joker oder Harley Quinn bastelst
-- Wähle beim Bau 1 von 3 verschiedenen Motiven dieses LEGO Art Jim Lee Batman Kollektion Sets aus
 - Vervollständige das LEGO Kunstbild mit einer speziellen Fliese mit Jim Lees Unterschrift - jetzt kannst du das Porträt aufhängen oder aufstellen
+- Das Bastelset für Erwachsene enthält 9 Wanddekorationsplatten, 2 Aufhängeelemente, eine Farbpalette und einen Rahmen aus Bausteinen
+- Wähle beim Bau 1 von 3 verschiedenen Motiven dieses LEGO Art Jim Lee Batman Kollektion Sets aus
+- Entscheide dich bei der Wandkunst für die Gerechtigkeit oder Chaos, indem du 1 von 3 Poster von Batman, Joker oder Harley Quinn bastelst
 
 [🛒 Hier!!]({{< param buyurl >}})

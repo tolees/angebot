@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Intenso Memory Case 1 TB Externe Festplatte (6,35 cm (2,5 Zoll) 5400 U/min, 8 MB Cache, USB 3.0) weiß
-- Systemvoraussetzung: Microsoft Windows 7/8/8.1/10, Mac OS
 - Externe Festplatte im extra flachen Gehäuse; Mit Fat32 und LED Anzeige; Gewicht 165 g
-- Max. Datentransferrate: Lesen (85 MB/s), Schreiben (75 MB/s)
+- Lieferumfang: Intenso Memory Case 1 TB Externe Festplatte (6,35 cm (2,5 Zoll) 5400 U/min, 8 MB Cache, USB 3.0) weiß
 - Sofort startklar ohne Installation (Plug und Play), SuperSpeed USB Anschluss 3.0 (abwärtskompatibel zu USB 2.0), Stromversorgung über USB Anschluss
+- Max. Datentransferrate: Lesen (85 MB/s), Schreiben (75 MB/s)
+- Systemvoraussetzung: Microsoft Windows 7/8/8.1/10, Mac OS
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Allein sind die Ninjas keine Gegner für den Kobra-Mechaniker und Boa Destructor, doch gemeinsam können sie die Oberhand gewinnen!
 - Inklusive 7 LEGO NINJAGO Figuren: Kai, Jay, Zane, Cole, dem fiesen Schlangen-Duo Kobra-Mech und Boa-Jäger sowie Wubot
 - Für das Erfüllen der Mission werden die Kinder mit einem Teamwork-Banner zum Sammeln belohnt.
 - Dieses 4-in-1 LEGO NINJAGO Set enthält eine Actionfigur, die aus einem Mech, einem Auto, einem Panzer und einem Jet besteht, mit denen separat gespielt werden kann
+- Allein sind die Ninjas keine Gegner für den Kobra-Mechaniker und Boa Destructor, doch gemeinsam können sie die Oberhand gewinnen!
 - Der Ultrakombi-Ninja-Mech aus 4 verschiedenen Fahrzeugen ist die ultimative Kampfmaschine, mit der kleine Helden Ninja-Geschichten erleben können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
