@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Muster: Einfarbig
 - Lebensstil: Fashion Casual
 - Futter: Ungefüttert
-- Muster: Einfarbig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

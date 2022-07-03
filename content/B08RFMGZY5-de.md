@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit hirsekörnern und gallapfeltanninen
+- Kann morgens und abends verwendet werden
+- Mit 5 ätherischen Ölen
 - Für sichtbar jünger aussehende Haut
 - Produktgröße: 100 ml
-- Mit hirsekörnern und gallapfeltanninen
-- Mit 5 ätherischen Ölen
-- Kann morgens und abends verwendet werden
 
 [🛒 Hier!!]({{< param buyurl >}})

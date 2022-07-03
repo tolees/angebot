@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Diese leicht zu tragende Hose verfügt über einen klassischen Look, der sich von Wochentag zu Wochenende umschaltet, ohne einen Beat zu verpassen.
 - Bei Goodthreads sind wir auf der Mission, unglaubliche Kleidungsstücke mit Sorgfalt zu kreieren.
+- Diese leicht zu tragende Hose verfügt über einen klassischen Look, der sich von Wochentag zu Wochenende umschaltet, ohne einen Beat zu verpassen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

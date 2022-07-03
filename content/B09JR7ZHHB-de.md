@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kooperatives Erlebnisspiel im Level: Fortgeschrittene.
 - Ideal als Partyspiel, Eventspiel und als Geburtstagsgeschenk.
-- Da die Materialien für die außergewöhnlichen Rätsel verändert werden, nur einmal spielbar!
-- Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Ein Escape-Room-Spiel für zu Hause.
-- Mit Tutorial und Timer in der kostenlosen KOSMOS-Erklär-App. Mit und ohne App spielbar.
-- Gesellschaftsspiel für Erwachsene, Fans von Live Escape Rooms und Familien ab 12 Jahren.
 - Kommt mit EXIT auf Weltreise und löst spannende Rätsel!
 - 1–4 SpielerInnen lösen im Team clevere Rätsel und brauchen dazu Teamgeist, Kreativität und Kombinationsgeschick.
+- Gesellschaftsspiel für Erwachsene, Fans von Live Escape Rooms und Familien ab 12 Jahren.
+- Kooperatives Erlebnisspiel im Level: Fortgeschrittene.
+- Da die Materialien für die außergewöhnlichen Rätsel verändert werden, nur einmal spielbar!
+- Mit Tutorial und Timer in der kostenlosen KOSMOS-Erklär-App. Mit und ohne App spielbar.
+- Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Ein Escape-Room-Spiel für zu Hause.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Non Marking rubber outsole made from 25% recycled rubber
 - ISA L. I. T. E Leather
 - Water proof leather footbed with a high arch and heel cupping
 - Responsibly sourced water proof leather strap with a super soft microfiber lining for instant comfort and no. break in period
-- Non Marking rubber outsole made from 25% recycled rubber
 
 [🛒 Hier!!]({{< param buyurl >}})

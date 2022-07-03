@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der Power Adapter ist mit jedem USB‑C fähigen Gerät kompatibel
-- USB‑C auf Lightning Kabel separat erhältlich
-- Mit dem Apple 30W USB‑C Power Adapter (Netzteil) kannst du dein MacBook zu Hause, im Büro oder unterwegs schnell und effizient laden
-- Für optimales Laden empfiehlt Apple jedoch, ihn mit dem 12 MacBook zu verwenden
 - Du kannst ihn auch an ein iPhone 8 Zoll,iPhone 8 Plus, iPhone X oder ausgewählte iPad Pro Modelle anschließen, um die Schnellladefunktion zu nutzen
+- Mit dem Apple 30W USB‑C Power Adapter (Netzteil) kannst du dein MacBook zu Hause, im Büro oder unterwegs schnell und effizient laden
+- USB‑C auf Lightning Kabel separat erhältlich
+- Für optimales Laden empfiehlt Apple jedoch, ihn mit dem 12 MacBook zu verwenden
 
 [🛒 Hier!!]({{< param buyurl >}})

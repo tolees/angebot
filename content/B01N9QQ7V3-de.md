@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- <b> AA</b>
-- <b>weiß</b>
 - <b>ANITA 5544</b>
+- <b> AA</b>
 - <b>Sport BH</b>
+- <b>weiß</b>
 
 [🛒 Hier!!]({{< param buyurl >}})

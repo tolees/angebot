@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Diese 3301 Mid Waist Jeans basiert auf einer strapazierfähigen Western-Arbeiterhose, reduziert auf die wesentlichen Essentials.
-- Anliegender Bund
-- Normale Leibhöhe
 - Schmales Bein vom Oberschenkel bis zum Saum
+- Anliegender Bund
+- Diese 3301 Mid Waist Jeans basiert auf einer strapazierfähigen Western-Arbeiterhose, reduziert auf die wesentlichen Essentials.
 - Die Slim Fit Jeans 3301 ist eine klassische 5-Tocket-Jeans, die vom Oberschenkel bis zum Gesäß schmal geschnitten ist.
+- Normale Leibhöhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

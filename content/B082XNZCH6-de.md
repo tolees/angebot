@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: GSR 18V-60 C, 2x4. 0 Ah ProCORE18V Akku, Ladegerät GAL 18 V-40, L-BOXX 136
-- Mit Connectivity Funktion: Verbindung per Bluetooth zum Personalisieren der Werkzeugeinstellungen in der Bosch Toolbox App möglich
-- Professional 18V System. Ultimative Leistung. Maximale Freiheit. Alle Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel.
-- Verlängerte Lebensdauer: durch bürstenlosen Motor
 - Erhöhte Sicherheit: Dank der KickBack Control des Bohrschraubers wird im Falle einer Blockierung automatisch das Gerät abgeschaltet
+- Mit Connectivity Funktion: Verbindung per Bluetooth zum Personalisieren der Werkzeugeinstellungen in der Bosch Toolbox App möglich
+- Verlängerte Lebensdauer: durch bürstenlosen Motor
+- Professional 18V System. Ultimative Leistung. Maximale Freiheit. Alle Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

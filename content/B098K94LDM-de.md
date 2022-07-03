@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Crew Neck
 - Lässiger Stil
+- Crew Neck
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

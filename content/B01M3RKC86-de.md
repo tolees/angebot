@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hochwertiges Drehradverstellsystem mit integriertem Rücklicht
-- Abnehmbares Visier
 - Im In-Mold Verfahren gefertigt
-- Herausnehmbare und waschbare Polster
 - Sehr gute Belüftung - 10 Luftein- und 3 Luftauslässe, verbunden mit Strömungskanälen (Fliegengitter in den Frontlöchern)
+- Abnehmbares Visier
+- Herausnehmbare und waschbare Polster
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

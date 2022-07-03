@@ -30,7 +30,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Made in Europe
 - Organic Cotton
-- GOTS zertifiziert
 - Hochwertige Feinripp Qualität aus 100% Bio-Baumwolle
+- GOTS zertifiziert
 
 [🛒 Hier!!]({{< param buyurl >}})
