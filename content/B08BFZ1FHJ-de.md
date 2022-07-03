@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reef Herren J-Bay III Flipflop  Cement  45 EU'
-date: 2022-07-02 15:18:16
+date: 2022-07-03 15:49:08
 image: 'https://m.media-amazon.com/images/I/31lD+OqZ2cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Non Marking rubber outsole made from 25% recycled rubber
 - ISA L. I. T. E Leather
-- Responsibly sourced water proof leather strap with a super soft microfiber lining for instant comfort and no. break in period
 - Water proof leather footbed with a high arch and heel cupping
+- Responsibly sourced water proof leather strap with a super soft microfiber lining for instant comfort and no. break in period
+- Non Marking rubber outsole made from 25% recycled rubber
 
 [🛒 Hier!!]({{< param buyurl >}})
