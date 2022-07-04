@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gerader Saum
+- V-Ausschnitt, gerippt
 - Slim Fit
 - Kurzärmelig
-- V-Ausschnitt, gerippt
 - G-Star RAW Grafik auf der Brust
-- Gerader Saum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
