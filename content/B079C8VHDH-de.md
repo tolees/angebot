@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegeleichtes, wasserabweisendes Nubuk Leder
-- Sohle aus trittsicherem TPR Gummi
-- Gefütterter Winterbootie im zeitlosen Sheepskin-Style
-- Wasser- und schmutzabweisende NeverWet Imprägnierung
 - Futter aus Lammwolle/Kunstfaser Mix , weiche Lammfellsohle
+- Sohle aus trittsicherem TPR Gummi
+- Pflegeleichtes, wasserabweisendes Nubuk Leder
+- Wasser- und schmutzabweisende NeverWet Imprägnierung
+- Gefütterter Winterbootie im zeitlosen Sheepskin-Style
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

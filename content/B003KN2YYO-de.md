@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Low-top
-- Varberg
-- Anderes Leder
 - Herren
 - Ganzjahresartikel
+- Anderes Leder
+- Low-top
+- Varberg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

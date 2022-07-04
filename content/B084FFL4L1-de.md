@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Leder
-- Obermaterial: Wildleder
 - Sohle: Synthetik
+- Obermaterial: Wildleder
 - Verschluss: Reißverschluss
+- Innenmaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
