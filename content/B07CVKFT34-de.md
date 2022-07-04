@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 Brusttaschen mit Patte und einem Knopf
-- Materialzusammensetzung: 99% Baumwolle, 1% Elasthan
 - Einfarbige Jeansjacke
+- Materialzusammensetzung: 99% Baumwolle, 1% Elasthan
 - Knopfleiste vorn
+- 2 Brusttaschen mit Patte und einem Knopf
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
