@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Nimm die äußere Ummantelung ab, um die königlichen Gemächer, die Haupttunnel und das System zum Bewegen der Steine freizulegen
+- Enthält 2 kleinere Pyramiden, 2 Totentempel, eine Sphinx-Statue, ein Arbeiterdorf, einen Obelisken und einen Teil des Nils mit Lastkahn
 - Reise in das 26. Jahrhundert v. Chr. und entdecke die Große Pyramide von Gizeh und ihre Umgebung mit diesem LEGO Bausatz für Erwachsene
 - LEGO Sets für Erwachsene ist eine tolle Geschenkidee für Fans alter Architektur und Geschichte und eignet sich als Deko für Haus und Büro
-- Enthält 2 kleinere Pyramiden, 2 Totentempel, eine Sphinx-Statue, ein Arbeiterdorf, einen Obelisken und einen Teil des Nils mit Lastkahn
 - Mit diesem LEGO Bausatz wird Basteln zu einem kreativen Hobby für Erwachsene, das entspannt und fordert
 - Enthält ein Booklet mit bebilderten Anleitungen sowie Informationen über die Geschichte der Cheops-Pyramide und diesem Modellbausatz
-- Nimm die äußere Ummantelung ab, um die königlichen Gemächer, die Haupttunnel und das System zum Bewegen der Steine freizulegen
 
 [🛒 Hier!!]({{< param buyurl >}})

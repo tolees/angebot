@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Wh
 - Marke: Dreame
-- Überlegene Qualität
 - OB02448
+- Farbe: Wh
+- Überlegene Qualität
 
 [🛒 Hier!!]({{< param buyurl >}})

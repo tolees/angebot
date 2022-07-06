@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit den Instructions PLUS in der LEGO App kannst du das Spielzeug für Kinder ab 6 Jahren vergrößern, drehen und visualisieren
-- Die LEGO-Stuntshow-Arena ist mit 668 Teilen ein aufregendes Set aus der neuesten Unterreihe von LEGO City Stuntz und so ein spannendes Weihnachtsgeschenk für Kinder
 - Enhält zudem Rampen, ein schwungradbetriebenes Motorrad, einen Hotdogstand und ein Podest mit einem goldenen Pokal für die Gewinner
-- Die LEGO City Stuntshow-Arena enthält 2 Monster-Trucks, 2 Autos mit eindrückbaren Dächern, einen Feuerreifen und ein Stuntbike
 - Kinder können das Stuntbike durch einen Feuerreifen springen lassen, Rückwärtssaltos vollführen und ganz einfach die Module für verschiedene Vorführungen umstellen
 - Es sind insgesamt 6 Minifiguren enthalten, darunter 3 LEGO City TV-Charaktere, sodass Kinder für Stunden zusammen mit ihren Freunden spielen können
+- Die LEGO City Stuntshow-Arena enthält 2 Monster-Trucks, 2 Autos mit eindrückbaren Dächern, einen Feuerreifen und ein Stuntbike
+- Die LEGO-Stuntshow-Arena ist mit 668 Teilen ein aufregendes Set aus der neuesten Unterreihe von LEGO City Stuntz und so ein spannendes Weihnachtsgeschenk für Kinder
+- Mit den Instructions PLUS in der LEGO App kannst du das Spielzeug für Kinder ab 6 Jahren vergrößern, drehen und visualisieren
 
 [🛒 Hier!!]({{< param buyurl >}})

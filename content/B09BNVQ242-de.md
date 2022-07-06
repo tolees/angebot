@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit 12 LEGO City Figuren, darunter 4 lustige Charaktere aus der LEGO City TV-Serie: Dr. Flieber, Dr. Spetzel, Citrus der Clown und Wallop, plus ein neugeborenes Baby
-- Die Kinderspielzeuge von LEGO City versetzen Jungen und Mädchen direkt in den Mittelpunkt des Geschehens und sind tolle Geschenke ab 7 Jahren zum Geburtstag oder zu anderen Anlässen
 - Dank der Werkzeuge zum Vergrößern, Drehen und Visualisieren in der kostenlosen LEGO Bauanleitungen App können Kinder ihre Modelle aus allen Blickwinkeln betrachten
 - Dieses LEGO City Krankenhaus-Set besteht aus einem zweistöckigen Puppenkrankenhaus mit mehreren Zimmern, einem Krankenwagen, einem Rettungshubschrauber und 12 LEGO City Mini-Figuren
+- Inklusive jede Menge Minifiguren-Zubehör für fantasievollen Spielspaß, darunter ein Gips, eine Spritze und ein Rollstuhl für eine Mini-Puppe
+- Die Kinderspielzeuge von LEGO City versetzen Jungen und Mädchen direkt in den Mittelpunkt des Geschehens und sind tolle Geschenke ab 7 Jahren zum Geburtstag oder zu anderen Anlässen
 - Mit den Straßenplatten kann das Set mit anderen LEGO City Sets verbunden werden, um die Stadt nach Belieben zu erweitern
 - Der Spielzeug-Krankenwagen bietet Platz für die mitgelieferte Trage. Außerdem können die Kinder die LEGO City Mini-Figuren in den MRT-Scanner hinein- und hinausschieben
-- Inklusive jede Menge Minifiguren-Zubehör für fantasievollen Spielspaß, darunter ein Gips, eine Spritze und ein Rollstuhl für eine Mini-Puppe
+- Mit 12 LEGO City Figuren, darunter 4 lustige Charaktere aus der LEGO City TV-Serie: Dr. Flieber, Dr. Spetzel, Citrus der Clown und Wallop, plus ein neugeborenes Baby
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
