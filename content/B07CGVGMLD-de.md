@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexibel: Das robuste und kompakte Design der G305 Gaming Maus, mit einem eingebauten Slot für den USB-Nano Empfänger, lässt die PC-Maus einfach transportieren
 - LIGHTSPEED Wireless: Die ultra-schnelle kabellose Verbindung sorgt für ein ununterbrochenes Spielerlebnis. Die G305 Gaming Maus bietet besondere Reaktionsfähigkeit und Zuverlässigkeit, die eine wettbewerbsfähige Reaktionszeit von 1 Millisekunde garantiert. Ideale Kombination zur Gaming Tastatur.
 - HERO-Sensor: Die neue Generation des HERO-Sensors bietet, verglichen mit anderen Gaming Mäusen, bis zu 10 Mal mehr Energieeffizienz, außergewöhnliche Präzision und Reaktionsfähigkeit, dank der bis zu 400 IPS und 12.000 DPI starken Empfindlichkeit
 - Ultralange Batterielaufzeit: Spielen mit maximaler Leistung, ohne sich Sorgen machen zu müssen, dass die Energie ausgeht. Die G305 ermöglicht im Performance-Modus mit einer einzigen Batterie vom Typ AA unglaubliche 250 Stunden ununterbrochenes Spielen bei einer Signalrate von 1 Millisekunde.
+- Flexibel: Das robuste und kompakte Design der G305 Gaming Maus, mit einem eingebauten Slot für den USB-Nano Empfänger, lässt die PC-Maus einfach transportieren
 - Kabellos bedeutet nicht zwangsläufig ein hohes Gewicht. Die G305 besitzt ein geringes Gewicht, um eine hohe Manövrierfähigkeit zu gewährleisten: Dank des effizienten mechanischen Designs und der Energieeffizienz wiegt sie nur 99 Gramm.
 - KEINE KABEL. KEINE LIMITS. Weltweit die #1: Die meistverkaufte Marke für kabelloses Gaming Zubehör - Basierend auf unabhängigen aggregierten Verkaufsdaten (Feb 19 bis Feb 20) für drahtlose Gaming-Keyboards, Mäuse und PC-Headsets in Einheiten
 

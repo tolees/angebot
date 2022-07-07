@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LED-Ladekontrollanzeige, Reinigungsbürste & Ölflasche
 - Qualitativ hochwertige, selbstschärfende Edelstahlklingen
 - Netz-/Akkubetrieb
+- 2 Aufsteckkämme, 1x 7 Haarlängenstufen (3–21 mm), 1x 7 Längeneinstellungen (24–42 mm)
 - Bis zu 30 min Betriebszeit bei Akkubetrieb
 - Kraftvoller Pro Power Motor - mit 150 mm/s Schnittgeschwindigkeit
-- 2 Aufsteckkämme, 1x 7 Haarlängenstufen (3–21 mm), 1x 7 Längeneinstellungen (24–42 mm)
+- LED-Ladekontrollanzeige, Reinigungsbürste & Ölflasche
 
 [🛒 Hier!!]({{< param buyurl >}})
