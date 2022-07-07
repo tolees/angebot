@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuerung über Stimme möglich: Google Assistant oder Amazon Alexa, abhängig vom genutzten Smart Home System
-- Netzwerkprotokoll: ZigBee
-- Funktionsumfang abhängig von der verwendeten Steuerungsart
-- Hohe Schaltleistung: bis zu 3.680 W / 16 A
 - Steuerung über kompatibles Smart-Home-System oder Ein- / Aus-Taste am Gerät
+- Funktionsumfang abhängig von der verwendeten Steuerungsart
+- Steuerung über Stimme möglich: Google Assistant oder Amazon Alexa, abhängig vom genutzten Smart Home System
+- Hohe Schaltleistung: bis zu 3.680 W / 16 A
+- Netzwerkprotokoll: ZigBee
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

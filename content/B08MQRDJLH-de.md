@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Proplate: Die von Puma entwickelte Antriebsplatte sorgt für einen reflektierenden Zehenbereich und treibt Sie schneller durch jeden Schritt
 - CMEVA: Kompressionsgeformtes EVA-Material von Puma für leichte Leistung
 - ProFoam: PUMAs leichte, hochfedernde EVA-Zwischensohle bietet sofortige Dämpfung und ein reaktionsschnelles Laufgefühl
+- Proplate: Die von Puma entwickelte Antriebsplatte sorgt für einen reflektierenden Zehenbereich und treibt Sie schneller durch jeden Schritt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

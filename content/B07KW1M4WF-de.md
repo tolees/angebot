@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set besteht aus 10 Spielteilen, 9 davon sind interaktiv, darunter drehbare Buu-Huu-Scheiben für noch mehr Abwechslung, einer 6 cm großen Super Mario-Figur und natürlich dem Spukhaus.
 - Vier funktionierende Türen hat Mario zur Auswah. Mit versteckten Aufzug, der hin und her fährt.
 - Super Mario Deluxe-Buu-Huu-Haus sorgt für aufregende Abenteuer und gruselige Gänsehaut-Momente.
+- Das Set besteht aus 10 Spielteilen, 9 davon sind interaktiv, darunter drehbare Buu-Huu-Scheiben für noch mehr Abwechslung, einer 6 cm großen Super Mario-Figur und natürlich dem Spukhaus.
 - Ab 3 Jahren geeignet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

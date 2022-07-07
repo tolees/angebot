@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Collection: Durchläufer
 - Längenverstellbare Träger bezogen mit schimmerndem Satin-Jersey
+- Collection: Durchläufer
 - Pattern: Einfarbig
 - Angenehm breites Seiten und Rückteil aus weich gerautem
 
