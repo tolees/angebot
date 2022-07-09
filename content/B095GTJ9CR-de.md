@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4.Flugbahn und 3D Flip: Sie einfach eine Flugroute zeichnen und die Drohne entsprechend dem Pfad fliegen lassen können.Die Drohne kann auch über der Fernbedienung um 360 Grad gedreht werden,und Sie können damit Stunts ausführen.So macht das Fliegen mehr Spaß.
-- 1.HD Kamera and Live-Übertragung Besitzt:Ausgestattet mit 720P HD WiFi Kamera（90° schwenkbare Kamera）, mit der Sie hochauflösende Bilder und Videos erhalten können. Mit der FPV-Bildübertragung können Sie den Himmel und die Welt von einem Live-Video-Feed über die Smartphone/App sehen.
 - 5.Längere Flugzeit & Sicher & Tragbarkeit: Ausgestattet mit 2 modularen Batterien kann die Flugzeugzeit bis zu 18-21 Minuten erreichen.Diese Drohne mit Propellerschutz kann die Propellerbrüche stark reduzieren.Einfach und schnell zusammengeklappt,bequem für Sie zum Aufbewahren und Tragen auf Reisen.
-- 2.Mini Drohne für Kinder und Anfänger:Q10 ist einfach zu bedienen.Es kommt mit Höhenhalt,Dies erleichtert die Steuerung und die Aufnahme von Fotos erheblich.Tippen Sie einfach auf die One Key Start/Landing-Taste,um die Fliege zu starten.Mit Headless-Modus,APP-Steuerung,Q10 mini drohne ein benutzerfreundliches Einsteigprodukt für Kinder und Anfänger.
 - 3.Sprach und Gestensteuerung: Stellen Sie ein V-Zeichen oder eine Handfläche vor die Kamera.Die Drohne kann automatisch Fotos oder Videos aufnehmen.Die Sprachsteuerungsfunktion ermöglichen Sie die Steuerung die Drohne mit einfacher Sprache zu steuern, wie z."fly,land".
+- 2.Mini Drohne für Kinder und Anfänger:Q10 ist einfach zu bedienen.Es kommt mit Höhenhalt,Dies erleichtert die Steuerung und die Aufnahme von Fotos erheblich.Tippen Sie einfach auf die One Key Start/Landing-Taste,um die Fliege zu starten.Mit Headless-Modus,APP-Steuerung,Q10 mini drohne ein benutzerfreundliches Einsteigprodukt für Kinder und Anfänger.
+- 1.HD Kamera and Live-Übertragung Besitzt:Ausgestattet mit 720P HD WiFi Kamera（90° schwenkbare Kamera）, mit der Sie hochauflösende Bilder und Videos erhalten können. Mit der FPV-Bildübertragung können Sie den Himmel und die Welt von einem Live-Video-Feed über die Smartphone/App sehen.
+- 4.Flugbahn und 3D Flip: Sie einfach eine Flugroute zeichnen und die Drohne entsprechend dem Pfad fliegen lassen können.Die Drohne kann auch über der Fernbedienung um 360 Grad gedreht werden,und Sie können damit Stunts ausführen.So macht das Fliegen mehr Spaß.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - MODERNSTER OPTISCHER 5G-SENSOR: Ein Sensor mit 16.000 DPI garantiert, dass selbst die kleinsten Bewegungen der Maus erkannt werden, damit spielentscheidende Headshots und spektakuläre Manöver gelingen
-- MECHANISCHE MAUS-SWITCHES VON RAZER: Mechanische Maus-Switches von Razer bieten ebenso schnelle wie präzise Klicks und zeichnen sich durch eine Haltbarkeit von bis zu 50 Millionen Klicks aus – ideal für ausgiebiges Gaming.
-- 6 PROGRAMMIERBARE TASTEN: Die Maus verfügt über 6 programmierbare Tasten, die sich per Razer Synapse 3 vollständig konfigurieren lassen, sodass auf Makros und Sekundärfunktionen zugegriffen und jede Aktion mit Leichtigkeit ausgeführt werden kann.
-- ULTRA-LANGE AKKU-LAUFZEIT: Beim Gaming lässt sich dank Razer HyperSpeed bis zu 285 Stunden eine ultra-schnelle kabellose Performance genießen. Zudem kann zum Bluetooth-Modus umgeschaltet werden, um die Akku-Laufzeit auf bis zu 450 Stunden zu verlängern.
 - ULTRA-SCHNELLE KABELLOSE RAZER HYPERSPEED TECHNOLOGIE: Mit extrem niedrigen Latenzen, bis zu 100 Stunden Akku-Laufzeit und übergangslosem Frequenzwechsel in stark ausgelasteten Bereichen. Inklusive einer exklusiven Razer Chroma Maus-Ladestation.
+- ULTRA-LANGE AKKU-LAUFZEIT: Beim Gaming lässt sich dank Razer HyperSpeed bis zu 285 Stunden eine ultra-schnelle kabellose Performance genießen. Zudem kann zum Bluetooth-Modus umgeschaltet werden, um die Akku-Laufzeit auf bis zu 450 Stunden zu verlängern.
+- 6 PROGRAMMIERBARE TASTEN: Die Maus verfügt über 6 programmierbare Tasten, die sich per Razer Synapse 3 vollständig konfigurieren lassen, sodass auf Makros und Sekundärfunktionen zugegriffen und jede Aktion mit Leichtigkeit ausgeführt werden kann.
+- MECHANISCHE MAUS-SWITCHES VON RAZER: Mechanische Maus-Switches von Razer bieten ebenso schnelle wie präzise Klicks und zeichnen sich durch eine Haltbarkeit von bis zu 50 Millionen Klicks aus – ideal für ausgiebiges Gaming.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

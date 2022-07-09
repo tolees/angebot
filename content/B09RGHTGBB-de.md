@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ubiquiti
 - 2 ans
+- Ubiquiti
 
 [🛒 Hier!!]({{< param buyurl >}})

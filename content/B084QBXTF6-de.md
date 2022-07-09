@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Der orange Track mit Looping befördert die Fahrzeuge in die Luft, wo sie unglaubliche Stunts ausführen und sich mit anderen messen können
 - Für ultimative Crash- und Rennaction entworfen, mit einem 83 cm hohen Turm, der Platz für über 20 Fahrzeuge bietet
-- Kinder können mit mehreren Fahrzeugen gleichzeitig fahren und immer mehr Fahrzeuge hinzufügen, um die waghalsigsten Stunts auszuführen
-- Enthält ein Hot Wheels Fahrzeug. Ein tolles Geschenk für Kinder ab 5 Jahren
-- Warum hat dieses Produkte eine ‘reduzierte Verpackung‘? Wir haben intensiv daran gearbeitet die Menge an unnötigem Material und Luftraum in unserer langanhaltenden Verpackung zu reduzieren um damit Abfall und Emission zu minimieren
 - Das Himmelscrash-Turm Set hat einen batteriebetriebenen Beschleuniger, der für jede Menge Action sorgt. Das beeindruckende 83 cm hohe Set begeistert Kinder und lässt sich zum Mitnehmen einfach zusammenklappen (Anleitung liegt bei)
+- Enthält ein Hot Wheels Fahrzeug. Ein tolles Geschenk für Kinder ab 5 Jahren
+- Kinder können mit mehreren Fahrzeugen gleichzeitig fahren und immer mehr Fahrzeuge hinzufügen, um die waghalsigsten Stunts auszuführen
+- Warum hat dieses Produkte eine ‘reduzierte Verpackung‘? Wir haben intensiv daran gearbeitet die Menge an unnötigem Material und Luftraum in unserer langanhaltenden Verpackung zu reduzieren um damit Abfall und Emission zu minimieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

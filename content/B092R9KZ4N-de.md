@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Contrast Enhancer: Große Tiefenwirkung und hohe Farbkontraste
-- Quantum Dot Technologie: 100% Farbvolumen in allen Helligkeitsbereichen
 - Quantum HDR: Filmreife Bilder mit hohem Kontrastumfang genießen
-- Quantum Prozessor 4K Lite: Eindrucksvolle Power erleben
+- Contrast Enhancer: Große Tiefenwirkung und hohe Farbkontraste
 - OTS Lite: Sound erleben, der Bewegungen folgen kann
+- Quantum Prozessor 4K Lite: Eindrucksvolle Power erleben
+- Quantum Dot Technologie: 100% Farbvolumen in allen Helligkeitsbereichen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

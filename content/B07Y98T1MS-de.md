@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lässt sich mit Hot Wheels City und anderen Hot Wheels Track- und Spielsets verbinden (separat erhältlich). 3–8 Jahre.
 - Mit dem Aufzug können Kinder ihr Fahrzeug zum Parken auf eine beliebige Ebene befördern oder es bis ganz nach unten sausen lassen.
+- Mit den Hebeln können Kinder ihr Fahrzeug auf eine bestimmte Ebene oder zur Durchsicht auf die Hauptebene befördern, wo sie es für das nächste Abenteuer volltanken können.
 - In dieser tollen Garage mit Tracks können Kinder ihre Fahrzeuge hinein- und über 4 Ebenen nach oben und unten sausen lassen.
 - Die neuen und farbenfrohen Sets inspirieren Kinder von 3 bis 8 Jahren zum Geschichtenerzählen und fördern ihre Kreativität.
-- Mit den Hebeln können Kinder ihr Fahrzeug auf eine bestimmte Ebene oder zur Durchsicht auf die Hauptebene befördern, wo sie es für das nächste Abenteuer volltanken können.
-- Lässt sich mit Hot Wheels City und anderen Hot Wheels Track- und Spielsets verbinden (separat erhältlich). 3–8 Jahre.
 
 [🛒 Hier!!]({{< param buyurl >}})

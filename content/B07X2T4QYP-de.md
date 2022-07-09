@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Impedance (Ohm): 17 ohm (1 kHz)
-- Ambient Sound Modus: kontinuierliche Analyse der Umgebungsgeräusche für bestmögliche Geräuschreduzierung
-- Quick Attention Modus: blitzschnell die Umgebung durch intuitives Handauflegen wahrnehmen. Bluetooth Spezifikation Efektiver bereich Ca. 10 m
 - High Resolution 25mm HD Treibereinheit für besten Sound auch bei hohen Frequenzen
-- Gestenkontrolle über Ohrmuschel zur Bedienung des Kopfhörers. Mit der enormen Akkulaufzeit von 35 Stunden sind Sie auf lange Reisen bestens vorbereitet
+- Ambient Sound Modus: kontinuierliche Analyse der Umgebungsgeräusche für bestmögliche Geräuschreduzierung
+- Impedance (Ohm): 17 ohm (1 kHz)
 - Individuelles Noise Cancelling dank Headphones Connect App
+- Quick Attention Modus: blitzschnell die Umgebung durch intuitives Handauflegen wahrnehmen. Bluetooth Spezifikation Efektiver bereich Ca. 10 m
+- Gestenkontrolle über Ohrmuschel zur Bedienung des Kopfhörers. Mit der enormen Akkulaufzeit von 35 Stunden sind Sie auf lange Reisen bestens vorbereitet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
