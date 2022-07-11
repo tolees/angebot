@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt.
+- Speziell geeignet für Kunststoffe mit soft-touch Effekt. Verhindert zuverlässig elektrostatische Aufladungen, wirkt staubabweisend und schützt vor Wiederverschmutzung. Das ursprünglich matte Aussehen des Cockpits bleibt erhalten, störende Reflektionen an der Frontscheibe werden vermieden.
 - Lieferumfang: 1x SONAX 0283410 XTREME CockpitReiniger Matteffect (500 ml)
+- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt.
 - Versiegelt die matten und strukturierten Oberflächen und erhält dadurch die Feinstruktur von modernen feingenarbten Armaturentafeln.
 - Hinterlässt einen angenehmen, frischen Duft. Silikon- und lösemittelfrei.
-- Speziell geeignet für Kunststoffe mit soft-touch Effekt. Verhindert zuverlässig elektrostatische Aufladungen, wirkt staubabweisend und schützt vor Wiederverschmutzung. Das ursprünglich matte Aussehen des Cockpits bleibt erhalten, störende Reflektionen an der Frontscheibe werden vermieden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
