@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perfektion in Bewegung - 8K Videoaufnahme + 4K 120fps Zeitlupe.
-- 48MP Haupt, 50MP Ultraweitwinkel- und Monochrom-Kamera - Die gemeinsam mit Hasselblad entwickelte, exklusive Hasselblad-Kamera für Smartphones bietet mehrere bahnbrechende Neuerungen, darunter die natürliche Farbkalibrierung.
-- Fluid Display 2.0 - 6,7" Smart 120Hz AMOLED Display mit LTPO Technologie - bis zu 50 % weniger Strom verbraucht und gleichzeitig ein fließendes 120-Hz-Erlebnis gewährleistet.
 - In 15 Minuten die Energie für einen ganzen Tag - 4500 mAh Akku, Warp Charge 65T und Warp Charge Wireless 50; über unsere bisher schnellste kabellose Ladetechnologie - von 1–70 % in nur 30 Minuten.
+- Fluid Display 2.0 - 6,7" Smart 120Hz AMOLED Display mit LTPO Technologie - bis zu 50 % weniger Strom verbraucht und gleichzeitig ein fließendes 120-Hz-Erlebnis gewährleistet.
+- Perfektion in Bewegung - 8K Videoaufnahme + 4K 120fps Zeitlupe.
 - Mit Alexa-Build-In Smartphones könnt ihr von unterwegs telefonieren, Apps öffnen, Smart-Home-Geräte steuern, auf die Bibliothek der Alexa-Fähigkeiten durch eure Stimme zugreifen und vieles mehr. Ladet die Alexa-App herunter und führt die Einrichtung der Freisprecheinrichtung durch, um loszulegen. Frag einfach - und Alexa wird dir sofort antworten.
 - Qualcomm Snapdragon 888 5G Mobile Plattform - Einem Leistungszuwachs von insgesamt 25 % gegenüber dem Snapdragon 865. OxygenOS 11.
+- 48MP Haupt, 50MP Ultraweitwinkel- und Monochrom-Kamera - Die gemeinsam mit Hasselblad entwickelte, exklusive Hasselblad-Kamera für Smartphones bietet mehrere bahnbrechende Neuerungen, darunter die natürliche Farbkalibrierung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

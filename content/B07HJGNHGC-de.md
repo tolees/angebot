@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ABDECKUNG VON WASSERSCHÄDEN: Ein Ersatzprodukt steht zur Verfügung, falls Wasserschäden unbeabsichtigt und während der ordnungsgemäßen Nutzung entstanden sind
 - VIP TELEFONSERVICE: DJI Support wird durch Experten von DJI betreut und ist nur einen Anruf weit entfernt
-- EXPRESS-OPTION: Ein DJI Service-Center schickt dir sofort nach Erhalt der beschädigten Drohne ein Ersatzgerät zu. Schnellstmöglich wieder in der Luft!
 - IMMER SORGENFREI, MIT ZWEI ERSATZGERÄTEN: Für eine kleine zusätzliche Gebühr bietet DJI Care Refresh, innerhalb eines Jahres, bis zu zwei Ersatzgeräte
 - DJI CARE AKTIVIERUNGSPROZESS: DJI Care Refresh kann nur innerhalb von 48 Stunden nach Aktivierung der Drohne aktiviert werden. Wenn Sie die 48 Stunden versäumt haben, senden Sie bitte eine E-Mail an das DJI-After-Sales-Team, um weitere Unterstützung zu erhalten
+- EXPRESS-OPTION: Ein DJI Service-Center schickt dir sofort nach Erhalt der beschädigten Drohne ein Ersatzgerät zu. Schnellstmöglich wieder in der Luft!
 - GRATIS VERSAND: Falls Du Dich in der Region befindest, in der Du dein Fluggerät erworben hast, werden die Versandkosten durch DJI übernommen
-- ABDECKUNG VON WASSERSCHÄDEN: Ein Ersatzprodukt steht zur Verfügung, falls Wasserschäden unbeabsichtigt und während der ordnungsgemäßen Nutzung entstanden sind
 
 [🛒 Hier!!]({{< param buyurl >}})
