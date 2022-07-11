@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das weitere Café-Spielset-Zubehör umfasst eine Zeitung, 15 Kaffeetassen und ein „Reserviert“-Schild sowie 3 Vasen und baubare Blumen.
-- Der Sitzbereich für die Serienstars ist abnehmbar und ermöglicht so leichteres Spielen.
-- Das LEGO Ideas Set enthält 7 Minifiguren (neu ab September 2019): Ross Geller, Rachel Green, Chandler Bing, Monica Geller, Joey Tribbiani, Phoebe Buffay und Gunther.
-- Mit diesem Sammel-Konstruktionsset kannst du deine Lieblingsszenen aus dem amerikanischen Serien-Klassier bauen, nachspielen und ausstellen.
-- Das LEGO Ideas Set enthält eine Broschüre mit der Bauanleitung sowie Informationen über den LEGO Ideas Fan und die LEGO Designer, die das Set entwickelt haben.
 - Das LEGO Bauset und Friends-Erinnerungsstück umfasst 1.079 Teile.
-- Das Café-Konstruktionsset CENTRAL PERK umfasst den ikonischen Sitzbereich einschließlich Sofa, Sessel, 2 Stühlen und einem Tisch, Bedienbereich mit Kaffeemaschine aus LEGO Steinen, Bedientheke, Kasse, Keksdose mit 2 Kekselementen, Menütafel und andere authentische Gegenstände, eine Bühne für musikalische Auftritte mit Sofa, zusätzlichen Sitzgelegenheiten und Tischen, 3 Kissenelemente in grün (neu ab September 2019), einen Schirmständer mit 2 Regenschirmen, Fenster mit dem Logo vom CENTRAL PERK, Eingangstür und 2 baubare TV-Studio-Lichtanlagen mit durchsichtigen Lichtelementen.
+- Das weitere Café-Spielset-Zubehör umfasst eine Zeitung, 15 Kaffeetassen und ein „Reserviert“-Schild sowie 3 Vasen und baubare Blumen.
 - Die Minifiguren haben jeweils ein Zubehörelement, das von der TV-Serie inspiriert wurde. Darunter das Keyboard von Ross aus LEGO Steinen und folgendes Zubehör: Rachels Tablett und Kaffeetasse, Monicas Muffin, Joeys Pizzaschachtel, Pizzastück und „Männer-Handtasche“, Phoebes Gitarre und Gunthers Besen.
+- Mit diesem Sammel-Konstruktionsset kannst du deine Lieblingsszenen aus dem amerikanischen Serien-Klassier bauen, nachspielen und ausstellen.
+- Das LEGO Ideas Set enthält 7 Minifiguren (neu ab September 2019): Ross Geller, Rachel Green, Chandler Bing, Monica Geller, Joey Tribbiani, Phoebe Buffay und Gunther.
+- Das Café-Konstruktionsset CENTRAL PERK umfasst den ikonischen Sitzbereich einschließlich Sofa, Sessel, 2 Stühlen und einem Tisch, Bedienbereich mit Kaffeemaschine aus LEGO Steinen, Bedientheke, Kasse, Keksdose mit 2 Kekselementen, Menütafel und andere authentische Gegenstände, eine Bühne für musikalische Auftritte mit Sofa, zusätzlichen Sitzgelegenheiten und Tischen, 3 Kissenelemente in grün (neu ab September 2019), einen Schirmständer mit 2 Regenschirmen, Fenster mit dem Logo vom CENTRAL PERK, Eingangstür und 2 baubare TV-Studio-Lichtanlagen mit durchsichtigen Lichtelementen.
+- Das LEGO Ideas Set enthält eine Broschüre mit der Bauanleitung sowie Informationen über den LEGO Ideas Fan und die LEGO Designer, die das Set entwickelt haben.
+- Der Sitzbereich für die Serienstars ist abnehmbar und ermöglicht so leichteres Spielen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

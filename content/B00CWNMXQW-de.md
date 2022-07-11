@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Vorgeladen und gebrauchsfertig; kann 1000 Mal mit minimalem Stromverlust wiederaufgeladen werden
 - Lieferung in zertifizierter frustfreier Verpackung; recycelbar; mit eingeschränkter einjähriger Garantie durch Amazon Basics
 - Lange Akkulaufzeit; die extrem langsame schrittweise Selbstentladung hält die Kapazität für 24 Monate bei 80 %
+- AAA-Akku (8er-Packung, 800 mAh); ideal für Digitalkameras, Fernbedienungen, Spielzeug und mehr
 - Gleiches Produkt, neue Optik. Das Aussehen der Batterien, die Sie erhalten, kann variieren.
 - Die Batterien können recycelt werden, wenn sie nicht mehr wiederaufgeladen werden können; um einen Recycling-Standort in Ihrer Nähe zu finden, kopieren Sie einfach diesen Link in Ihren Browser: call2recycle.org/locator/
-- AAA-Akku (8er-Packung, 800 mAh); ideal für Digitalkameras, Fernbedienungen, Spielzeug und mehr
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

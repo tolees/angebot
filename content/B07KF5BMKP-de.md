@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Geknöpfter Hosenschlitz
+- Mit geringem Stretchanteil
 - Denim
 - Mit fünf Taschen
-- Mit geringem Stretchanteil
 
 [🛒 Hier!!]({{< param buyurl >}})
