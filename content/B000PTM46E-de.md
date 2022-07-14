@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GORE-TEX INFINIUM mit WINDSTOPPER Produkttechnologie: Winddicht, stark wasserabweisend und extrem atmungsaktiv
-- Komfortable Passform mit lockerem, aber Bike-Spezifischen Schnitt für ein Maximum an Bewegungsfreiheit, Reflektierende Details
 - GORE WEAR Spirit Vest, Größe: L, Farbe: Schwarz, 100719
-- Durchgehender Reißverschluss mit Untertritt, Leicht und platzsparend verstaubar, Napoleon-Tasche mit Reißverschluss
+- Komfortable Passform mit lockerem, aber Bike-Spezifischen Schnitt für ein Maximum an Bewegungsfreiheit, Reflektierende Details
 - Leichte Herren-Weste für Fahrradfahrer, Ideal bei allen Wetterbedingungen
+- Durchgehender Reißverschluss mit Untertritt, Leicht und platzsparend verstaubar, Napoleon-Tasche mit Reißverschluss
+- GORE-TEX INFINIUM mit WINDSTOPPER Produkttechnologie: Winddicht, stark wasserabweisend und extrem atmungsaktiv
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

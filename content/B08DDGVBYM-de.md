@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Kunststoffhüllen
 - Optimierter Ladevorgang
+- Leichte Kunststoffhüllen
 - Laden Sie Ihr Smartphone in der Hülle auf
 - Das Gerät gewährleistet mit seiner Qi-Zertifizierung Sicherheit und ist kompatibel mit den meisten leichten Hüllen, bis zu 3 mm
 - Das drahtlose Boost Charge Ladegerät mit zwei Ladepads wurde so entwickelt, dass es sich für die meisten leichten Kunststoffhüllen von bis zu 3 mm eignet

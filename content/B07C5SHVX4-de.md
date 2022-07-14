@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Rippenmuster an den Seiten
 - Einfarbiger aufgerauter Baumwoll-Fleece
 - Herren LACOSTE SPORT Tennis Jogginghose aus Baumwoll-Fleece
-- Rippenmuster an den Seiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

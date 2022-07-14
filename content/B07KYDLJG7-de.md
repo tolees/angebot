@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bandbreite: 20 mm; Bandumfang: 190 +/-5 mm
 - Wasserdichtigkeit: 3 ATM
-- Verpackt in Skagen Geschenkbox
-- Gehäusehöhe: 9 mm; Gehäusegröße: 41 mm
 - Bandmaterial: Silikon
+- Gehäusehöhe: 9 mm; Gehäusegröße: 41 mm
+- Verpackt in Skagen Geschenkbox
+- Bandbreite: 20 mm; Bandumfang: 190 +/-5 mm
 
 [🛒 Hier!!]({{< param buyurl >}})

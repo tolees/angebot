@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Höhenverstellbares Tassenpodest: geeignet für jede Tassenhöhe.
-- Single serve: perfekt für eine Tasse des Getränks deiner Wahl.
-- One-Touch Bedienung: dein Lieblingsgetränk einfach auf Knopfdruck.
 - Große Auswahl: mit über 70 Getränken von bekannten Marken für jeden Geschmack.
+- One-Touch Bedienung: dein Lieblingsgetränk einfach auf Knopfdruck.
+- Single serve: perfekt für eine Tasse des Getränks deiner Wahl.
 - INTELLIBREW: automatische Anpassung der Einstellungen für perfekte Getränkequalität durch Scannen des T DISC Barcodes.
+- Höhenverstellbares Tassenpodest: geeignet für jede Tassenhöhe.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

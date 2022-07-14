@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsgewicht: 28.483 Pfund
-- Verpackungsabmessungen (L x B x H): 72.0 zm x 47.6 zm x 40.8 zm
 - Farbe: Titan
 - Material: Edelstahl
+- Verpackungsabmessungen (L x B x H): 72.0 zm x 47.6 zm x 40.8 zm
+- Verpackungsgewicht: 28.483 Pfund
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
