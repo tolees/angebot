@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kompatibel mit LOR Espresso, LOR Barista und Nespresso Kapseln
+- Abnehmbare Abtropfschale: die Abtropfschale der Maschine ist leicht abnehmbar, damit auch ein Becher oder Glas unter den Kaffeeauslauf passt
 - Kapselerkennung: die intelligente LOr Barista Kapselerkennung passt automatisch die Einstellungen für Ihre Kaffeespezialität an die Kapselgröße an
 - Bereiten Sie Ihre Lieblingskaffeespezialitäten auf Knopfdruck zu. Egal ob es ein Ristretto, Espresso oder Lungo sein soll, mit LOr Barista können Sie ganz einfach die Kaffeelänge zwischen 20-270ml variieren
-- Abnehmbare Abtropfschale: die Abtropfschale der Maschine ist leicht abnehmbar, damit auch ein Becher oder Glas unter den Kaffeeauslauf passt
 - 3-in-1 Brühverfahren: 1 oder 2 Tassen Espresso gleichzeitig oder einen Becher Kaffee mit dem 3-in-1 Brühverfahren und den LOr Barista und LOr Barista XXL Kapseln
-- Kompatibel mit LOR Espresso, LOR Barista und Nespresso Kapseln
 - Echte Espresso-Qualität: Mit LOr Barista brühen Sie den Kaffee mit 19 Bar, um eine optimale Espresso-Qualität zu erreichen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
