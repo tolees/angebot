@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3 Heiz- und 2 separate Gebläsestufen, 2200 Watt
-- Inklusive Stylingdüse und Diffusor für extra Fülle und Volumen
 - Abnehmbarer, leicht zu reinigender Luftfilter, Aufhängeöse
+- Inklusive Stylingdüse und Diffusor für extra Fülle und Volumen
+- 3 Heiz- und 2 separate Gebläsestufen, 2200 Watt
 - Anti Frizz durch Ionen Technologie für schonendes Styling und geringe statische Aufladung des Haares
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
