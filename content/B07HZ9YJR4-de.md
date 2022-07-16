@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bitte beachten Sie, dass die auf dem Pflegeetikett dieses Kleidungsstücks angegebene Größe der US-Größe entspricht. Bitte verwenden Sie die Größentabellen auf der Produktdetailseite, um die entsprechende Größe zu finden.
-- Aus weicher, atmungsaktiver Baumwolle für ganztägigen Tragekomfort
 - Mit tief sitzendem Bikini-Schnitt und vollständiger Bedeckung hinten für ein alltägliches Höschen
+- Aus weicher, atmungsaktiver Baumwolle für ganztägigen Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
