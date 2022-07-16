@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Säge ist aufgrund der deutlich reduzierten Vibrationen spürbar einfach zu bedienen (40 % geringer als das Vorgängermodell)
-- Einfacher und schneller Sägeblattwechsel dank SDS-Sägeblattwechsel
-- Die Advanced Werkzeuge von Bosch – Beste Leistung für die höchsten Ansprüche und umfangreiche Projekte
 - Einfache Handhabung und Kontrolle der Säge dank geringer Vibrationen und Softgrip
+- Einfacher und schneller Sägeblattwechsel dank SDS-Sägeblattwechsel
+- Die Säge ist aufgrund der deutlich reduzierten Vibrationen spürbar einfach zu bedienen (40 % geringer als das Vorgängermodell)
+- Die Advanced Werkzeuge von Bosch – Beste Leistung für die höchsten Ansprüche und umfangreiche Projekte
 - Lieferumfang: AdvancedRecip 18, 1x Akku PBA 18V 2,5 Ah, 1x Ladegerät Al 1830, Sägeblatt (S 3456 XF), Karton
 
 [🛒 Hier!!]({{< param buyurl >}})

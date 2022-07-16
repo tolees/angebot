@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HÖREN SIE MEHR DETAILS: Der Hi-Res-Audio-zertifizierte Terylen-Kalottenhochtöner des ES50 liefert kristallklare Höhen (40+ kHz) für hochauflösende Musik von Diensten wie Apple Music, Tidal, Amazon Music HD, Qobuz und Spotify HiFi sowie die Tonspuren der neuesten Ultra-HD-Filme.
-- EINZIGARTIGE TECHNOLOGIEN: Dank der Dynamic Balance Polypropylen-Tieftöner und des kaskadierenden 2,5-fachen Frequenzweichen-Array des Signature Elite ES50 Lautsprechers erleben Sie unabhängig von Ihrer Hörposition ein nahtloses, realistisches Klangbild.
-- DURCHDACHT ENTWICKELT UND KONSTRUIERT: Ein solides, festes und akustisch neutrales Gehäuse aus speziell gedämpftem Medite MDF, eine beugungsmindernde magnetische Lautsprecherabdeckung und vergoldete 5-Wege-Anschlussklemmen sorgen für reinsten Klang.
 - LAUTE BÄSSE MIT GERINGSTEN VERZERRUNGEN: Das patentierte Power Port-Design von Polk sorgt mit weitläufigerer Oberfläche und gleichmäßigerem Luftstrom für mehr Leistung und weniger Verzerrung. In Verbindung mit den beiden 5,25-Zoll-Tieftönern des ES50 bedeutet das mühelosen Bass.
-- HOCHAUFLÖSENDER HIFI STANDLAUTSPRECHER: Erleben Sie Filme, Musik und Games in raumfüllenden Kino-Sound mit Ihrem Heimkino Soundsystem oder Ihrer HiFi Anlage.
 - VOM KLASSISCHEN HIFI BIS ZU DOLBY ATMOS: Der ES50 Standlautsprecher überzeugt mit einer raumfüllenden und realistischen Klangwiedergabe für praktisch jeden Verstärker oder Receiver – von der klassischen 4- oder 8-Ohm-Musikanlage bis zu den neuesten Surround-Sound-AVRs mit Dolby Atmos und DTS:X.
+- HOCHAUFLÖSENDER HIFI STANDLAUTSPRECHER: Erleben Sie Filme, Musik und Games in raumfüllenden Kino-Sound mit Ihrem Heimkino Soundsystem oder Ihrer HiFi Anlage.
+- HÖREN SIE MEHR DETAILS: Der Hi-Res-Audio-zertifizierte Terylen-Kalottenhochtöner des ES50 liefert kristallklare Höhen (40+ kHz) für hochauflösende Musik von Diensten wie Apple Music, Tidal, Amazon Music HD, Qobuz und Spotify HiFi sowie die Tonspuren der neuesten Ultra-HD-Filme.
+- DURCHDACHT ENTWICKELT UND KONSTRUIERT: Ein solides, festes und akustisch neutrales Gehäuse aus speziell gedämpftem Medite MDF, eine beugungsmindernde magnetische Lautsprecherabdeckung und vergoldete 5-Wege-Anschlussklemmen sorgen für reinsten Klang.
+- EINZIGARTIGE TECHNOLOGIEN: Dank der Dynamic Balance Polypropylen-Tieftöner und des kaskadierenden 2,5-fachen Frequenzweichen-Array des Signature Elite ES50 Lautsprechers erleben Sie unabhängig von Ihrer Hörposition ein nahtloses, realistisches Klangbild.
 
 [🛒 Hier!!]({{< param buyurl >}})

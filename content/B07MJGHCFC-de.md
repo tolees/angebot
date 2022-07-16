@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Verschlusstyp : Klettverschluss
 - Innensohle : Leder
+- Außenmaterial : Leder
 - Innenmaterial : Leder
 - Außensohle : Gummi
-- Außenmaterial : Leder
 
 [🛒 Hier!!]({{< param buyurl >}})

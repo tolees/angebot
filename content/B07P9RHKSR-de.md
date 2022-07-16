@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- schlanke Slim-Fit-Silhouette
-- elastischer Baumwollmix in weicher Piqué-Qualität
-- charakteristischer Polokragen
-- verkürzte Knopfleiste mit fünf Knöpfen
 - leicht verlängerte Rückenpartie
+- verkürzte Knopfleiste mit fünf Knöpfen
+- elastischer Baumwollmix in weicher Piqué-Qualität
+- schlanke Slim-Fit-Silhouette
+- charakteristischer Polokragen
 
 [🛒 Hier!!]({{< param buyurl >}})

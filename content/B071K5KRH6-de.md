@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herren Jeans mit normaler Leibhöhe und schmalem Bein, das zum Knöchel hin eng zusammenläuft
-- super Tragekomfort
-- Klassische 5-Pocket Jeans
 - aufgesetzte Gesäßtaschen
+- Herren Jeans mit normaler Leibhöhe und schmalem Bein, das zum Knöchel hin eng zusammenläuft
+- Klassische 5-Pocket Jeans
+- super Tragekomfort
 - bewährte Lee Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

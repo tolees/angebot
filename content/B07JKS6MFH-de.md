@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 98% Baumwolle, 2% Elasthan
 - Größe fällt normal aus
-- Mit Reißverschluss.
 - Maschinenwaschbar bis 30 Grad
+- Mit Reißverschluss.
+- 98% Baumwolle, 2% Elasthan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

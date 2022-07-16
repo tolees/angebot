@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Herren LACOSTE SPORT Fleece-Sweatshirt aus Baumwollmischung
 - Seitentaschen
 - Aufgerauter Fleece aus Baumwollmischung
-- Herren LACOSTE SPORT Fleece-Sweatshirt aus Baumwollmischung
 
 [🛒 Hier!!]({{< param buyurl >}})

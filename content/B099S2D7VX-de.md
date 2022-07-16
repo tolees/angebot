@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Multitasking-Erlebnis – Öffne bis zu drei Apps gleichzeitig auf einem geteilten Bildschirm und dann fünf weitere per Pop-up. Speichere App-Gruppen im Edge-Panel, um sie später für Multitasking zu öffnen, und schaue Videos, chatte und vieles mehr.
 - Ultra Thin Glass Display – der größte Sprung in unserer Technologie der faltbaren Displays. Mit einer zusätzlichen Panelschicht und einer Schutzfolie ist es 80 % widerstandsfähiger als zuvor.
-- Wasserschutz – Dank des IPX8-Schutzes, kannst du es aufklappen, selbst wenn du im Regen stehst.
-- Beeindruckendes Seherlebnis – das 19,19 cm / 7,6 Zoll große Infinity-Flex Display leuchtet wie von Zauberhand, die Kamera unter dem Display verschwindet und hinterlässt nichts als das, was auf dem Bildschirm zu sehen ist.
 - Armur Aluminium – Das Rückgrat dieses unglaublichen Smartphones ist ein stabiler und leichter Armor Aluminium-Rahmen, der 10 % widerstandsfähiger ist im Vergleich zu vorherigen Galaxy Fold und die inneren Teile des Scharniers gut schützt.
 - S Pen und Flex-Modus – Mit Präzision auf dem faltbaren Display Notizen machen. Und der Flex-Modus teilt das Display in zwei Hälften, so kannst du unten Notizen machen, während Du oben die Videokonferenz verfolgst.
+- Wasserschutz – Dank des IPX8-Schutzes, kannst du es aufklappen, selbst wenn du im Regen stehst.
+- Beeindruckendes Seherlebnis – das 19,19 cm / 7,6 Zoll große Infinity-Flex Display leuchtet wie von Zauberhand, die Kamera unter dem Display verschwindet und hinterlässt nichts als das, was auf dem Bildschirm zu sehen ist.
 
 [🛒 Hier!!]({{< param buyurl >}})

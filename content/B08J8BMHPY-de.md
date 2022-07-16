@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das hochwertige PU-Leder schmiegt sich eng an den Metallrahmen und sorgt so für ein elegantes Design. Der Sitz bietet Stabilität und Atmungsaktivität durch das Pin-Hole-Design
 - Der Mechanismus mit verschiedenen Einstellungen ermöglicht volle Kontrolle über die Sitzneigung mit minimalem Kraftaufwand. Die Neigung kann in jeder Position stufenlos arretiert werden
 - Die 3D-Armlehnen ermöglichen bequemes Sitzen. Diese können per Hand vor- und rückwärts, in einer kreisförmigen Bewegung und in der Höhe verstellt werden
 - Im Lieferumfang sind samtbezogene Memory-Schaum-Kissen für den Nacken- und den Lendenbereich enthalten, um eine optimale Unterstützung zu gewährleisten
 - Durch die PU-ummantelten XL Räder gleitet der Stuhl sanft über alle Oberflächen
+- Das hochwertige PU-Leder schmiegt sich eng an den Metallrahmen und sorgt so für ein elegantes Design. Der Sitz bietet Stabilität und Atmungsaktivität durch das Pin-Hole-Design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
