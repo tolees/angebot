@@ -30,7 +30,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Echtes Plug und Play: Ohne aufwändige Installation, lässt sich die Maus direkt mit dem PC verbinden, um unmittelbaren Spielspaß genießen zu können
 - Speziell für eSport Profis entwickelt: Die BenQ S1 Gaming Maus ist mit einem hochpräzisem PixAt PMW 3360-Sensor ausgestattet, der schnelles, kompetitives Gameplay gewährleistet. Die extrem kleine Maus bietet auch für schmale Mausgriffe, optimalen Grip und Halt
-- Optimierte Sensor Auflösung: Mit einer Sensor Auflösung von 400/800/1600/3200 dpi brauchst du dir nie mehr Sorgen über Benachteiligungen im Spiel zu machen
 - Einstellbare USB Signalrate: Mit der einstellbaren USB Signalrate von 125/500/1000 Hz, lässt sich die Gaming Maus an jedes Spiel perfekt anpassen
+- Optimierte Sensor Auflösung: Mit einer Sensor Auflösung von 400/800/1600/3200 dpi brauchst du dir nie mehr Sorgen über Benachteiligungen im Spiel zu machen
 
 [🛒 Hier!!]({{< param buyurl >}})

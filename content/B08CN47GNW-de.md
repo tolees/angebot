@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Echtes Plug und Play: Ohne aufwändige Installation, lässt sich die kleine Gaming Maus direkt mit dem PC verbinden, um unmittelbaren Spielspaß genießen zu können
-- Optimierte Sensor Auflösung: Mit einer Sensor Auflösung von 400/800/1600/3200 dpi brauchst du dir nie mehr Sorgen über Benachteiligungen im Spiel zu machen
 - Einstellbare USB Signalrate: Mit der einstellbaren USB Signalrate von 125/500/1000 Hz, lässt sich die Gaming Maus an jedes Spiel ideal anpassen
 - Speziell für eSport Profis entwickelt: Die BenQ FK2-B Gaming Maus ist mit einem hochpräzisem PixAt PMW 3360-Sensor ausgestattet, der schnelles, kompetitives Gameplay gewährleistet
+- Optimierte Sensor Auflösung: Mit einer Sensor Auflösung von 400/800/1600/3200 dpi brauchst du dir nie mehr Sorgen über Benachteiligungen im Spiel zu machen
 
 [🛒 Hier!!]({{< param buyurl >}})
