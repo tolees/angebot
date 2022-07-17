@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - AMD FreeSync Technologie für optimierte Bilddarstellung in schnellen Games
 - Herstellergarantie: 36 Monate. Die Garantiebedingungen finden Sie unter Weitere technische Informationen. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- Lieferumfang: Lenovo G32qc-10 Gaming-Monitor mit Standfuß, 1x Stromkabel, 1x HDMI-Kabel, 1x Schnellstartanleitung
 - Augenschonend: TÜV Rheinland Low Blue Light und Flickerfree zertifiziert
+- Lieferumfang: Lenovo G32qc-10 Gaming-Monitor mit Standfuß, 1x Stromkabel, 1x HDMI-Kabel, 1x Schnellstartanleitung
 - Curved R1500 QHD-Gaming-Monitor mit 80 cm/31,5 Zoll. Ideal für Gaming: Schnelle 144 Hz Bildwiederholrate und kurze 1 ms Reaktionszeit im MPRT-Mode
 
 [🛒 Hier!!]({{< param buyurl >}})

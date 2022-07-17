@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bruch und wetterfeste Räder
 - Packung die Größe: 25.7 L x 52.6 H x 52.4 W cm
 - Material: Porzellanemailliert
+- Bruch und wetterfeste Räder
 - Packung Weight: 9.41 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

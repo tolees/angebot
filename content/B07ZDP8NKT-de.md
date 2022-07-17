@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Besonders bequeme Kopfstütze mit zusätzlicher Polsterung
-- Side Protection System für optimalen Schutz gegen Seitenaufprall
 - Installation mit nur einem Klick: Schnelle und einfache ISOFIX-Installation mit der Maxi-Cosi FamilyFix-Basis oder der EasyFix-Basis
-- Maxi Cosi Babyschale, geeignet ab der Geburt bis 13 kg (Geburt bis 12 Monate)
 - Dieser Maxi-Cosi-Kindersitz ist mit Maxi-Cosi- und Quinny-Kinderwagen kompatibel und bildet so ein vollständiges Reisesystem
+- Side Protection System für optimalen Schutz gegen Seitenaufprall
+- Besonders bequeme Kopfstütze mit zusätzlicher Polsterung
+- Maxi Cosi Babyschale, geeignet ab der Geburt bis 13 kg (Geburt bis 12 Monate)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

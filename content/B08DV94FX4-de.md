@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- SLIM STRAIGHT
 - Spade Pocket
 - Denim Stretch
-- SLIM STRAIGHT
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

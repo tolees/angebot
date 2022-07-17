@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung BN59–01198B – Ersatz-Fernbedienung für TV  Schwarz'
-date: 2022-07-16 14:01:37
+date: 2022-07-17 15:25:45
 image: 'https://m.media-amazon.com/images/I/31lSsg-4fTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ersatz-Fernbedienung BN59–01198A
-- Originalprodukt von Samsung
 - Ersatz-Fernbedienung für Samsung
+- Originalprodukt von Samsung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

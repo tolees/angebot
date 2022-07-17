@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bild: 4K Ultra HD LED TV Bildschirmdiagonale: 70"/177 cm Auflösung: 3.840 x 2.160 Aktualisierungsrate: 50 Hz/60 Hz Unterstützt alle HDR-Formate: Dolby Vision, HDR10+, HDR10, HLG Pixel-Engine: Precise Ultra HD
-- Tuner & Konnektivität: Digitales Fernsehen: Triple Tuner DVB-T/T2/T2-HD/C/S/S2 4 x HDMI 2 x USB Bluetooth 5.0 Satellitenanschluss CI+ Digitaler Audio-Ausgang (optisch) Kopfhörerausgang
 - Smart TV: Betriebssystem: Android TVTM 10 (Q) Speicherkapazität (Flash): 8 GB Vorinstallierte Apps: Netflix, Disney+, Amazon Prime Video, YouTube, iPlayer Interactice TV: HbbTV Sprachassistent: works with Google Assistant
-- Ambilight: Ambilight-Funktionen: Integriertes Ambilight, Gaming-Modus, Lounge-Modus, Anpassung an die Wandfarbe Ambilight-Version: 3-seitig
 - Sound: Ausgangsleistung (RMS): 20 W Verbesserung Soundqualität: Dolby Atmos, Dolby-Bassverstärkung, Automatischer Lautstärkeregler, Clear Dialogue
+- Tuner & Konnektivität: Digitales Fernsehen: Triple Tuner DVB-T/T2/T2-HD/C/S/S2 4 x HDMI 2 x USB Bluetooth 5.0 Satellitenanschluss CI+ Digitaler Audio-Ausgang (optisch) Kopfhörerausgang
+- Ambilight: Ambilight-Funktionen: Integriertes Ambilight, Gaming-Modus, Lounge-Modus, Anpassung an die Wandfarbe Ambilight-Version: 3-seitig
 - 4K UHD LED Smart TV mit 3-seitigem Ambilight 177 cm (70 Zoll) Bildschirmdiagonale, Außenmaße (inkl. Standfuß): 157,2 x 90,3 x 33,5 cm, VESA Norm: 200 x 300 mm
+- Bild: 4K Ultra HD LED TV Bildschirmdiagonale: 70"/177 cm Auflösung: 3.840 x 2.160 Aktualisierungsrate: 50 Hz/60 Hz Unterstützt alle HDR-Formate: Dolby Vision, HDR10+, HDR10, HLG Pixel-Engine: Precise Ultra HD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
