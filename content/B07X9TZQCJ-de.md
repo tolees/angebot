@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Kinder können Gru helfen, den Tierkreisstein vor den Bösewichten zu schützen, aber sie müssen schnell sein, um die Bösewichte zu überlisten
 - Dank der einfach verständlichen digitalen Anleitung Instructions PLUS, die in der kostenlosen LEGO Life App verfügbar ist, ist es ein Spielzeug für Kinder ab 6 Jahren
 - Enthalten ist ein detailliertes, fantasievolles Monster-Motorrad und Raketen-Skates für die Minions, für alle Fans von Minions und schnellen Fahrzeugen
-- Die Kinder können Gru helfen, den Tierkreisstein vor den Bösewichten zu schützen, aber sie müssen schnell sein, um die Bösewichte zu überlisten
 - Mit dem Minions Spielzeug können Kinder Szenen aus den Filmen nachstellen oder aber auch ganz nach ihren eigenen Vorstellungen ein Abenteuer zusammenstellen
 - Mit dabei sind 3 Figuren: die Minion Figuren von Stuart und Bob und die exklusive LEGO Minifigur von Gru, die nur in diesem Set erhältlich ist
 
