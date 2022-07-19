@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die DIY Armband-Sets von LEGO DOTS sorgen mit ihren leuchtenden Farben für fantasievolle Inspirationen, mit denen die Kinder ihre Stimmung ausdrücken können
-- Die kreativen Bastelsets von LEGO DOTS sind ein ideales Geschenk zum Geburtstag oder zu anderen Anlässen für Mädchen und Jungen, die sich eine Belohnung verdient haben – #dotyourworld!
-- Für noch mehr kreative Schmuckdesigns können die Kinder ihr Set außerdem mit dem LEGO DOTS Ergänzungsset Emojis (separat erhältlich) ergänzen
 - Dieses Kinderschmuck-Set lässt sich einfach und intuitiv verzieren und enthält zwei Vorlagen, auf denen die Kinder sich immer wieder neu kreativ ausprobieren können
+- Für noch mehr kreative Schmuckdesigns können die Kinder ihr Set außerdem mit dem LEGO DOTS Ergänzungsset Emojis (separat erhältlich) ergänzen
 - Dieses 2-in-1-Bastelset von LEGO DOTS für Kinder enthält ein verstellbares Band in Pastellgelb, einen Schlüsselanhänger in Weiß und jede Menge bunte Steine
 - Das kreative Set zum Gestalten von Armbändern und Schlüsselanhängern enthält einen Schlüsselring und viele pastellfarbene, helle und schillernde Steine zum Verzieren
+- Die kreativen Bastelsets von LEGO DOTS sind ein ideales Geschenk zum Geburtstag oder zu anderen Anlässen für Mädchen und Jungen, die sich eine Belohnung verdient haben – #dotyourworld!
 - Die Kinder können ihr Design mit Steinen gestalten, die mit Bonbonwirbeln oder Streuseln dekoriert sind, und die Katze auf dem Schlüsselanhänger mit frechen Ohren verzieren
 
 [🛒 Hier!!]({{< param buyurl >}})
