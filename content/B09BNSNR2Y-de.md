@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 11024 Classic Graue Bauplatte  quadratische Grundplatte mit 48x48 Noppen als Basis für Konstruktionen und für weitere LEGO Sets'
-date: 2022-07-22 10:20:38
+date: 2022-07-23 11:46:05
 image: 'https://m.media-amazon.com/images/I/51cLpr43ySL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNSNR2Y-de LEGO 11024 Classic Graue Bauplatte quadratische...'
 sku: 'B09BNSNR2Y-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 9.94 EUR
+actualPrice: 10.44 EUR
 currency: EUR
-price: 9.94
+price: 10.44
 comparePrice: 14.99 EUR
 prodname: 'LEGO 11024 Classic Graue Bauplatte  quadratische Grundplatte mit 48x48 Noppen als Basis für Konstruktionen und für weitere LEGO Sets'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNSNR2Y/?tag=tolees0ca-21'
-descuento: '33.69'
-average: '10.0192'
+descuento: '30.35'
+average: '10.0353846153846'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine Welt voller Möglichkeiten - von Straßen bis hin zu Bergen, Kinder können auf dieser LEGO Basis alles bauen, was ihnen in den Sinn kommt
-- Ein Platz für kreatives Spiel - diese 38 cm x 38 cm große, graue LEGO Grundplatte bietet eine offene Landschaft für alle Arten von LEGO Kreationen
-- Langlebig und robust - 2.304 Noppen geben den richtigen Halt für alle LEGO Baukreationen aus LEGO Steinen
 - Die LEGO Bauplatte hält die Steine in jedem Winkel fest (sogar kopfüber!) und lässt sich dennoch leicht entfernen
+- Eine Welt voller Möglichkeiten - von Straßen bis hin zu Bergen, Kinder können auf dieser LEGO Basis alles bauen, was ihnen in den Sinn kommt
+- Langlebig und robust - 2.304 Noppen geben den richtigen Halt für alle LEGO Baukreationen aus LEGO Steinen
 - Die graue LEGO Classic Platte eignet sich als Geschenk für Kinder ab 4 Jahren, die gerne Kinderbauprojekten nachgehen
+- Ein Platz für kreatives Spiel - diese 38 cm x 38 cm große, graue LEGO Grundplatte bietet eine offene Landschaft für alle Arten von LEGO Kreationen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
