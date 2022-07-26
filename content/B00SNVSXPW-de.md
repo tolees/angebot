@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asus WT465 Optische Maus  wireless  USB  schwarz'
-date: 2022-07-14 23:13:04
+date: 2022-07-26 12:17:19
 image: 'https://m.media-amazon.com/images/I/41jrT9nPhNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Computer & Zubehör','Mäuse','Mäuse, Tastaturen & Eingabegeräte','as
 actualPrice: 13.08 EUR
 currency: EUR
 price: 13.08
-comparePrice: 17.22 EUR
+comparePrice: 17.03 EUR
 prodname: 'Asus WT465 Optische Maus  wireless  USB  schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.de/dp/B00SNVSXPW/?tag=tolees0ca-21'
-descuento: '24.04'
+descuento: '23.19'
 average: '13.08'
 ---
 
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anpassbare Auflösungen mit 800dpi/1200dpi/1600dpi für eine flexible und präzise Eingabe
 - Energiesparendes und effizientes Design für eine längere und intelligentere Nutzung
-- Lieferumfang: Asus WT465 Wireless Maus schwarz, Quick Start Guide, AA Batterie, Dongle
-- Herstellergarantie: 2 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Anpassbare Auflösungen mit 800dpi/1200dpi/1600dpi für eine flexible und präzise Eingabe
 - Schneller, drahtloser Betrieb mit 2,4GHz ohne störende Kabel
+- Herstellergarantie: 2 Jahre bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Lieferumfang: Asus WT465 Wireless Maus schwarz, Quick Start Guide, AA Batterie, Dongle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
