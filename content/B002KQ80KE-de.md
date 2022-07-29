@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 2.2 L, länge 175 mm, breite 175 mm, höhe 184 mm.
-- Der schwarze Abfallbehälter Calypso von Mepal eignet sich ideal für Küchenabfälle, Kaffeepads und Biomüll oder als Komposteimer für die Küche.
 - Die schmale Abfallbox nimmt wenig Platz auf der Arbeitsplatte in der Küche ein.
-- Auch verwendbar als Biomülleimer oder für Grünabfall und Recycling.
 - Hochwertiger und langlebiger Kunststoff, BPA-frei. Und wenn einmal ein Teil fehlt? Dann kann dies in aller Regel ganz einfach bei Mepal nachbestellt werden.
+- Der schwarze Abfallbehälter Calypso von Mepal eignet sich ideal für Küchenabfälle, Kaffeepads und Biomüll oder als Komposteimer für die Küche.
+- Inhalt: 2.2 L, länge 175 mm, breite 175 mm, höhe 184 mm.
 - Der Müllbehälter lässt sich mit einer Hand tragen und entleeren. Der komplette Müllbehälter mit Deckel ist spülmaschinengeeignet
 - Die klappbare Deckel des Tisch-Mülleimers schließt gut ab und kann zum Reinigen abgenommen werden.
+- Auch verwendbar als Biomülleimer oder für Grünabfall und Recycling.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
