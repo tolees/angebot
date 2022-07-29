@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibles Betriebssystem: kompatibel mit Windows 10 / 8.1 / 8/7 / xp
-- Kostenloser Controller: Plug and Play für win 8, win 8.1 und win 10
 - Nano-Abmessung: Ultrakleine für eine bequeme Tragbarkeit mit einer zuverlässigen Leistung.
+- Kompatibles Betriebssystem: kompatibel mit Windows 10 / 8.1 / 8/7 / xp
 - hohe Qualität
+- Kostenloser Controller: Plug and Play für win 8, win 8.1 und win 10
 
 [🛒 Hier!!]({{< param buyurl >}})
