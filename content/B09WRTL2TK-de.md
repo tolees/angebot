@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Home Entertainment - Morbius [Blu-ray]'
-date: 2022-07-29 19:57:45
+date: 2022-07-30 20:42:49
 image: 'https://m.media-amazon.com/images/I/51cfqYNrIqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B09WRTL2TK/?tag=tolees0ca-21'
 descuento: '16.68'
-average: '16.49'
+average: '15.99'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
