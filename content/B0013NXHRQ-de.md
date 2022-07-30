@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ein femininer Duft für Frauen, die zu ihrer Emotionalität stehen
 - 50 ml Eau de Parfum (EdP) Spray
 - Der Flakon ist klassisch und modern zugleich
 - Duftnote: Blumig
-- Ein femininer Duft für Frauen, die zu ihrer Emotionalität stehen
 
 [🛒 Hier!!]({{< param buyurl >}})
