@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EuroVideo - Die Eberhofer Siemer Box [Blu-ray]'
-date: 2022-07-29 19:59:07
+date: 2022-07-31 01:10:47
 image: 'https://m.media-amazon.com/images/I/51nkKj+2xVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'EuroVideo'
 buyurl: 'https://www.amazon.de/dp/B09M53YRND/?tag=tolees0ca-21'
 descuento: '32.70'
-average: '49.74'
+average: '47.6328571428571'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

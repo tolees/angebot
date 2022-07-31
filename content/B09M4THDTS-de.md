@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EuroVideo - Die Eberhofer Siemer Box [7 DVDs]'
-date: 2022-07-29 19:59:48
+date: 2022-07-31 01:09:59
 image: 'https://m.media-amazon.com/images/I/51rvBZmclsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'EuroVideo'
 buyurl: 'https://www.amazon.de/dp/B09M4THDTS/?tag=tolees0ca-21'
 descuento: '30.45'
-average: '49.46'
+average: '47.3928571428571'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
