@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang: 1x ZenWiFi AC Mini Router (CD6R), 1x ZenWiFi AC Mini Node (CD6N), Netzteile, Netzwerkkabel, Garantiekarte, Schnellstartanleitung
 - Einfache Installation und Verwaltung per Asus Router APP
+- AiProtection - das Sicherheitspaket direkt im AiMesh-System powered by TrendMicro
 - WLAN Mesh-System zur Beseitigung von WLAN-Problemen - Empfohlen für eine WLAN-Versorgungsfläche von bis zu 240m²
 - Unterbrechungsfreies Roaming mit Client-Verbindung zum stärksten AiMesh Zugangspunkt
-- AiProtection - das Sicherheitspaket direkt im AiMesh-System powered by TrendMicro
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
