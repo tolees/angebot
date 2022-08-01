@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75325 Star Wars Der N-1 Starfighter des Mandalorianers aus Das Buch von Boba Fett  Spielzeug zum Bauen  Set mit Figur des Baby Yoda'
-date: 2022-07-31 12:16:01
+date: 2022-08-01 13:26:46
 image: 'https://m.media-amazon.com/images/I/51tLPe4HWvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNZXG6W/?tag=tolees0ca-21'
 descuento: '26.47'
-average: '50.9483333333333'
+average: '49.9714285714285'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
