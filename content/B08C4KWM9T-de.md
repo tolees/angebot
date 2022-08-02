@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Bose QuietComfort Ohrhörer mit Geräuschunterdrückung  echte drahtlose Bluetooth-Kopfhörer  dreifach  Einheitsgröße  schwarz'
-date: 2022-07-31 14:02:30
+title: 'Bose QuietComfort® Earbuds Noise Cancelling-Kopfhörer — Vollständig kabellose Bluetooth-Ohrhörer mit Sprachsteuerung  Hochleistungs-Geräuschunterdrückung und Ladecase  schwarz'
+date: 2022-08-02 21:22:52
 image: 'https://m.media-amazon.com/images/I/31-tSIcHdgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08C4KWM9T-de Bose QuietComfort Ohrhörer mit Geräuschunterdrückung echte...'
+slug: 'B08C4KWM9T-de Bose QuietComfort® Earbuds Noise Cancelling-Kopfhörer —...'
 sku: 'B08C4KWM9T-de'
 tags: [ 'Elektronik & Foto','In-Ear Ohrhörer','Kopfhörer','Kopfhörer & Zubehör','bose','🇩🇪', ]
 actualPrice: 203.43 EUR
 currency: EUR
 price: 203.43
 comparePrice: 279.95 EUR
-prodname: 'Bose QuietComfort Ohrhörer mit Geräuschunterdrückung  echte drahtlose Bluetooth-Kopfhörer  dreifach  Einheitsgröße  schwarz'
+prodname: 'Bose QuietComfort® Earbuds Noise Cancelling-Kopfhörer — Vollständig kabellose Bluetooth-Ohrhörer mit Sprachsteuerung  Hochleistungs-Geräuschunterdrückung und Ladecase  schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Bose'
 buyurl: 'https://www.amazon.de/dp/B08C4KWM9T/?tag=tolees0ca-21'
 descuento: '27.33'
-average: '213.304935064935'
+average: '213.178333333333'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibel mit iOS und Android — Einfache Einrichtung und benutzerdefinierte Einstellungen sind über die Bose Musik-App.
-- Audio mit hoher Wiedergabetreue — eine exklusive Akustikarchitektur erweckt Ihre Musik, Podcasts und Videos zum Leben, während der volumenoptimierte Active EQ den Klang auf jeder Ebene knackig und ausgewogen hält.
-- Mikrofone mit Rauschunterdrückung - Kleine Mikrofone konzentrieren sich gemeinsam auf Ihre Stimme und filtern Umgebungsgeräusche heraus, um weniger Ablenkungen und klarere Anrufe zu erzielen.
-- Komfortable kabellose Ohrstöpsel — StayHear Max-Ohrstöpsel in drei Größen sorgen für einen sicheren Sitz. Sie sind aus weichem Silikon gefertigt und bieten passive Geräuschunterdrückung mit absolutem Komfort.
-- Lange Akkulaufzeit — Hören Sie bis zu 6 Stunden mit einer einzigen Ladung. Der Ladekoffer bietet zusätzliche 12 Stunden Spielzeit und lädt über das mitgelieferte USB-C-Kabel oder drahtlos mit einer Qi-zertifizierten Ladematte (nicht im Lieferumfang enthalten) auf.
-- Ohrhörer mit Geräuschunterdrückung — entwickelt mit erstklassiger Geräuschunterdrückung und einem bewussten Modus, um Ihre Umgebung hereinzulassen.
-- „Hinweis: Wenn der Lautstärkeregler nicht funktioniert, stellen Sie sicher, dass die Lautstärkeregelung mit dem Bose Musik-App und stellen Sie außerdem sicher, dass Sie die Touch-Bedienoberfläche in die richtige Richtung wischen“
-- Einfache Berührungssteuerung - Es ist so einfach wie Tippen, Wischen oder Drücken. Steuern Sie die Geräuschunterdrückung, Pause, Wiedergabe und Lautstärke direkt von der Seite des Ohrhörers aus. Sie können sogar tippen und halten, um über die Spotify Tap-Wiedergabe zu Ihrer letzten Spotify-Sitzung zurückzukehren.
-- Bluetooth-Ohrhörer mit Mikrofon — Bluetooth 5.1 bietet eine starke, konsistente Verbindung zu Ihrem Gerät innerhalb von 10 Metern.
+- Lange Akkulaufzeit: Hören Sie bis zu 6 Stunden mit einer einzigen Ladung. Das Ladecase bietet zusätzliche 12 Stunden Gaming und lädt über das mitgelieferte USB-C-Kabel oder drahtlos mit einem Qi-zertifizierten Ladepad (nicht im Lieferumfang enthalten) auf.
+- KOMFORTABLE KABELLOSE OHRHÖRER: StayHear Max-Spitzen in drei Größen sind für einen sicheren Sitz enthalten. Sie bestehen aus weichem Silikon und bieten passiven Geräuschschutz mit totalem Komfort.
+- „Hinweis: Wenn der Lautstärkeregler nicht funktioniert, stellen Sie sicher, dass der Lautstärkeregler mit dem Bose Musik-App und achten Sie auch darauf, die Touch-Control-Oberfläche in die richtige Richtung zu schieben“
+- Bluetooth-Kopfhörer mit Mikrofon: Bluetooth 5.1 bietet eine solide und konsistente Verbindung zu Ihrem Gerät innerhalb von 10 Metern.
+- Einfache Touch-Steuerung — einfach tippen, wischen oder tippen. Steuern Sie Geräuschunterdrückung, Pause, Wiedergabe und Lautstärke direkt von der Seite des Ohrhörers aus. Sie können sogar gedrückt halten, um über Spotify Tap zu Ihrer letzten Spotify-Sitzung zurückzukehren.
+- Kompatibel mit iOS und Android: Einfache Konfiguration und benutzerdefinierte Einstellungen sind über die Bose Musik-App.
+- High-Fidelity-Sound: Die exklusive akustische Architektur erweckt Ihre Musik, Podcasts und Videos zum Leben, während der lautstärkeoptimierte aktive EQ den Klang auf allen Ebenen gestochen scharf und ausgewogen hält.
+- Mikrofone mit Geräuschunterdrückung - Kleine Mikrofone arbeiten zusammen, um sich auf Ihre Stimme zu konzentrieren und Umgebungsgeräusche herauszufiltern, um Ablenkungen und klarere Anrufe zu erzielen.
+- Kopfhörer mit Geräuschunterdrückung: Entwickelt mit erstklassiger Geräuschreduzierung sowie einem bewussten Modus, um Ihre Umgebung in sich aufzunehmen.
 
 [🛒 Hier!!]({{< param buyurl >}})
