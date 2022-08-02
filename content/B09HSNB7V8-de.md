@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HD triple tuner for DVB-S2, DVB-C and DVB-T2 with HEVC
-- Streaming services: Prime Video, Netflix, YouTube, Chromcast, and many more. It also comes with the popular Netflix, Amazon Prime, and YouTube apps pre-installed. With Chromecast built-in, the device also allows users to stream videos, music, and games from their other devices with ease
-- Android TV mit Google Assistant und Zugriff auf den Google Play Store, 2 GB RAM, 8GB internal memory. Vereinfache dein Entertainment-Erlebnis mit Android TV. Erhalte Zugriff auf mehr als 400.000 Filme sowie Serien und lade mehr als 7.000 Apps herunter, alles an einem Ort
-- Bild: HDR 10+, MEMC. Unterstützt HDR10+ für Details in hellen und dunklen Bereichen. Ein höherer Dynamikbereich sorgt für hellere und dunklere Farben, indem Schärfe, Kontrast und Farbe der Bilder verbessert werden, während du mehr lebensechte Details als je zuvor erkennen kannst
 - included_components; tv, power cable, remote control, stand, battery
 - Typ: UHD LED TV - 55 Zoll (139cm), Flat, 3,840 x 2160 pixels. Die 4K-UHD-Auflösung liefert lebensechte Bilder mit mehr Details und größerer Tiefe
+- Android TV mit Google Assistant und Zugriff auf den Google Play Store, 2 GB RAM, 8GB internal memory. Vereinfache dein Entertainment-Erlebnis mit Android TV. Erhalte Zugriff auf mehr als 400.000 Filme sowie Serien und lade mehr als 7.000 Apps herunter, alles an einem Ort
+- HD triple tuner for DVB-S2, DVB-C and DVB-T2 with HEVC
+- Streaming services: Prime Video, Netflix, YouTube, Chromcast, and many more. It also comes with the popular Netflix, Amazon Prime, and YouTube apps pre-installed. With Chromecast built-in, the device also allows users to stream videos, music, and games from their other devices with ease
+- Bild: HDR 10+, MEMC. Unterstützt HDR10+ für Details in hellen und dunklen Bereichen. Ein höherer Dynamikbereich sorgt für hellere und dunklere Farben, indem Schärfe, Kontrast und Farbe der Bilder verbessert werden, während du mehr lebensechte Details als je zuvor erkennen kannst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
