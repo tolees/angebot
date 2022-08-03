@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 140 x 270 mm.
-- Aluminiumrahmen 7 mm.
 - 330 g.
+- Aluminiumrahmen 7 mm.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

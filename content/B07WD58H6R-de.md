@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bluetooth Version 5.0, Effektiver Bereich: Sichtverbindung ca. 10 m, Frequenzbereich: 2,4-GHz-Band (2,4–2,4835 GHz).
-- Integrierte Headset-Funktion für handfreies Telefonieren
 - 30 mm Treiber mit Neodymium Magnet liefert einen kraftvollen Klang
+- Bluetooth Version 5.0, Effektiver Bereich: Sichtverbindung ca. 10 m, Frequenzbereich: 2,4-GHz-Band (2,4–2,4835 GHz).
 - Quick Charge: 10 Minuten Aufladen für 1, 5 Std Audiowiedergabe
+- Integrierte Headset-Funktion für handfreies Telefonieren
 - Akkulaufzeit: bis zu 35 Std abhängig vom verwendeten Modus
 - Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtungen mehr Dank eingebautem Sprachassistent
 
