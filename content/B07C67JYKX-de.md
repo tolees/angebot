@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PROSOMA heel cup wraps the heel to provide protective support and a snug fit
-- Soft and lightweight ECCO PHORENE midsole is designed for all-day comfort and energy return with every step
+- DYNEEMA bonded leather upper offers tear resistance and an incredibly high strength-to-weight ratio
 - Rugged rubber outsole adds excellent grip
 - Laces are partially hidden beneath a layer of leather
-- DYNEEMA bonded leather upper offers tear resistance and an incredibly high strength-to-weight ratio
+- PROSOMA heel cup wraps the heel to provide protective support and a snug fit
+- Soft and lightweight ECCO PHORENE midsole is designed for all-day comfort and energy return with every step
 
 [🛒 Hier!!]({{< param buyurl >}})

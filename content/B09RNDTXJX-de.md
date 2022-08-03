@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die 8 MP-Ultra-Weitwinkelkamera begeistert mit einem Sichtbereich von 123 Grad
+- Halte mit der 50 MP-Hauptkamera unvergessliche Momente in klaren Details fest
 - Das hochwertige Design des Galaxy M23 5G zeichnet sich durch weiche, abgerundete Kanten und ein schlichtes Gehäuse aus, das die Kamera unauffällig integriert
 - Erweitere deine Perspektive mit der Ultra-Weitwinkelkamera oder entdecke mit der Makrokamera auch kleine Details
-- Halte mit der 50 MP-Hauptkamera unvergessliche Momente in klaren Details fest
+- Die 8 MP-Ultra-Weitwinkelkamera begeistert mit einem Sichtbereich von 123 Grad
 
 [🛒 Hier!!]({{< param buyurl >}})

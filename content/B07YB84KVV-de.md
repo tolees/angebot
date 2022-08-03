@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wanderschuh Kategorie: B Trekking und Hiking
 - Geeignet für: Klettersteig, Trekking, Bergwandern
-- Empfohlene Verwendung: auch auf schlechten Wegen, Steige
 - Achtung Größenauswahl: Bitte achten Sie für die Wahl der passenden Schuhgröße auf unsere Größentabelle und -Hinweise
+- Empfohlene Verwendung: auch auf schlechten Wegen, Steige
+- Wanderschuh Kategorie: B Trekking und Hiking
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

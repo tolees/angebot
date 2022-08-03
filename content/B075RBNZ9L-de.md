@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
 - Netzeinsätze zur optimalen Ventilation, Schnelltrocknend
 - Verstärkung des Materials an Zehen und Fersen zum Verhindern von Blasen, Polsterung der Achillessehene zur Entlastung, Flache Nähte
-- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
 - Kurze Unisex Socken (Höhe: 5,5 cm) für alle Wetterbedingungen
 
 [🛒 Hier!!]({{< param buyurl >}})
