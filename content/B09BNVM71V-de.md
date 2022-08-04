@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Für noch mehr kreative Schmuckdesigns können die Kinder ihr Set außerdem mit dem LEGO DOTS Ergänzungsset Emojis (separat erhältlich) ergänzen
 - Dieses Bastelset für Kinder enthält spezielle verzierte Steine mit Gaming-Motiven, sowie die neuen, ab Januar 2022 verfügbaren Anhänger-Basissteine und Blitzanhänger
 - Mit den Armband-Bastelsets können Kinder ihr Feundschaftsband spielerisch anpassen und dabei ihre Fantasie und ihre gestalterischen Fähigkeiten entfalten
-- Für noch mehr kreative Schmuckdesigns können die Kinder ihr Set außerdem mit dem LEGO DOTS Ergänzungsset Emojis (separat erhältlich) ergänzen
 - Die Bastelideen auf der Verpackung machen das Gestalten zum Kinderspiel. Das Kinderschmuck-Set enthält Steine in Türkis, Magenta und Neonfarben sowie Blitzanhänger
 - Enthält ein verstellbares, flexibles Armband in Schwarz, das an größere oder kleinere Handgelenke angepasst werden kann, und 36 farbenfrohe Steine
 

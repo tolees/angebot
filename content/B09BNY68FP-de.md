@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das LEGO Super Mario Set aus LEGO Steinen enthält die LEGO Figur eines Bob-omb, die die selbstgebauten Level der Kinder ergänzt
+- Um herumzufliegen, müssen die LEGO Figuren von Mario oder Luigi (nicht enthalten) in Juniors Clown-Auto gesetzt werden.
 - Mit dem Erweiterungsset Bowser Jr.‘s Clown-Auto können Kinder ihr LEGO Super Mario Set um ein fliegendes Münzsammel-Spiel erweitern
 - Es ist Zeit zum Abheben – die Kinder können mit Juniors Clown-Auto durch die Lüfte fliegen, um so viele Münzen wie möglich zu sammeln und den gemeinen Bob-omb zu besiegen
-- Um herumzufliegen, müssen die LEGO Figuren von Mario oder Luigi (nicht enthalten) in Juniors Clown-Auto gesetzt werden.
 - Die LEGO Super Mario Spielzeuge mit Gegnerfiguren eröffnen unendlich viele Möglichkeiten, das Spiel zu erweitern, umzubauen und einzigartige Level zu erschaffen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

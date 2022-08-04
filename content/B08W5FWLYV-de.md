@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kinder schieben das Stuntbike, um das Schwungrad zu aktivieren und lassen das Bike dann los, um atemberaubende und spektakuläre Stunts und Manöver zu erleben
 - Kombiniere das Power-Stuntbike-Set mit anderen Spielsets aus der „LEGO City Stuntz“-Reihe für noch mehr actiongeladene Stunts
 - Instructions PLUS – eine interaktive Bauanleitung für Kinder als Teil der kostenlosen LEGO App für Smart-Geräte
-- Das „LEGO City Power-Stuntbike“-Set enthält ein schwungradbetriebenes Motorrad und Wallop, einen Charakter aus der „LEGO City Adventures“-TV-Serie
 - Der gepanzerte Draufgänger und Stunt-Fahrer Wallop durchbricht Hindernisse, springt über Rampen und vollführt atemberaubende Manöver in der Luft
-- Kinder schieben das Stuntbike, um das Schwungrad zu aktivieren und lassen das Bike dann los, um atemberaubende und spektakuläre Stunts und Manöver zu erleben
+- Das „LEGO City Power-Stuntbike“-Set enthält ein schwungradbetriebenes Motorrad und Wallop, einen Charakter aus der „LEGO City Adventures“-TV-Serie
 - Die Spielsets mit den LEGO-Stuntshow-Modulen im Hosentaschenformat für Kinder ab 5 Jahren sind ein tolles Geburtstags- oder Weihnachtsgeschenk
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält eine Bauanleitung für Mädchen und Jungen ab 5 Jahren und Instructions PLUS mit digitalen Werkzeugen – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte
-- Enthält ein detailliertes, dreistöckiges Puppenhaus mit vielen gut ausgestatteten Räumen für fantasievolle Rollenspiele: Wohnzimmer, Küche, Hobbyraum, Schlafzimmer und Bad
-- Willkommen im umweltfreundlichen LEGO-Haus mit Solarzellen und einer Octan-E-Ladestation für das Elektroauto – ein kreatives Spielzeug für kleine Naturschützer ab 5 Jahren
 - Dank des dazugehörigen LEGO-City-Straßenplatten-Systems kann das Puppenhaus mit anderen LEGO-Gebäude-Bausets kombiniert werden, um die LEGO-Stadt zu vergrößern!
 - Mit diesem LEGO-Gebäude-Bauset können Kinder kochen, grillen, malen, Gitarre spielen, im Biogarten Gemüse anbauen, den Labrador baden oder eine Partie Streethockey spielen
+- Enthält ein detailliertes, dreistöckiges Puppenhaus mit vielen gut ausgestatteten Räumen für fantasievolle Rollenspiele: Wohnzimmer, Küche, Hobbyraum, Schlafzimmer und Bad
+- Willkommen im umweltfreundlichen LEGO-Haus mit Solarzellen und einer Octan-E-Ladestation für das Elektroauto – ein kreatives Spielzeug für kleine Naturschützer ab 5 Jahren
 - Inklusive LEGO-Minifiguren von Mama, Papa, Tochter und Sohn sowie einer Labrador-Retriever-Figur mit Hundehäufchen und jeder Menge Zubehör aus dem modernen Leben
+- Enthält eine Bauanleitung für Mädchen und Jungen ab 5 Jahren und Instructions PLUS mit digitalen Werkzeugen – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
