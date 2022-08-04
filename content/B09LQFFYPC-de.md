@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'X-Sense Rauchmelder Wi-Fi mit austauschbarer Lithium-Batterie & Stummschalt-Taste  Smarter Feuermelder  Auto-Selbstüberprüfungsfunktion  entspricht EN 14604 Standard'
-date: 2022-08-02 14:30:20
+date: 2022-08-03 22:32:01
 image: 'https://m.media-amazon.com/images/I/41NOk7bD6zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
