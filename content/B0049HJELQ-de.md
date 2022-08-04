@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standard
 - Packung die Größe: 5.6 L x 36.4 H x 25.4 W
+- Standard
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Maschinenwäsche kalt (30° max)
 - Dies ist ein authentisches und originales Tommy Hilfiger produkt
-- Passform: Slim Fit
 - 100% Baumwolle
+- Passform: Slim Fit
 - Modellnummer: MW0MW11719
 
 [🛒 Hier!!]({{< param buyurl >}})

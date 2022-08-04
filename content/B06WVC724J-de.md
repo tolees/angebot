@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gourmet-Präzision’ Mühlen mit voreingestellten Mahlgraden, 6 Mahlstufen für Pfeffer und 3 Mahlstufen für Salz. Mit Gourmet Präzisionsmahlwerk.
 - Durchsichtiges Gehäuse für einfaches Einsehen der Füllhöhe; Pfeffer und Salz enthalten
 - Modernes Design; langlebiges Acryl und Edelstahl
+- Gourmet-Präzision’ Mühlen mit voreingestellten Mahlgraden, 6 Mahlstufen für Pfeffer und 3 Mahlstufen für Salz. Mit Gourmet Präzisionsmahlwerk.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
