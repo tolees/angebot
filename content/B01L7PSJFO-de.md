@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose SoundSport  kabellose Sport-Earbuds   schweißresistente Bluetooth-Kopfhörer zum Joggen   Schwarz  Höhe: 2.86 cmBreite: 2.54 cmTiefe: 2.86 cm'
-date: 2022-08-03 03:41:26
+date: 2022-08-04 04:36:53
 image: 'https://m.media-amazon.com/images/I/31BkVmLk2pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bose'
 buyurl: 'https://www.amazon.de/dp/B01L7PSJFO/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '111.191020408164'
+average: '110.966200000001'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
