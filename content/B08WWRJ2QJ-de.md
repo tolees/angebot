@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76389 Harry Potter Schloss Hogwarts Kammer des Schreckens Spielzeug  Set mit Voldemort als goldene Minifigur und der Großen Halle'
-date: 2022-07-27 18:59:43
+date: 2022-08-04 17:36:25
 image: 'https://m.media-amazon.com/images/I/51ndYU1OIuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08WWRJ2QJ-de LEGO 76389 Harry Potter Schloss Hogwarts Kammer des...'
 sku: 'B08WWRJ2QJ-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 117.95 EUR
+actualPrice: 104.9 EUR
 currency: EUR
-price: 117.95
+price: 104.9
 comparePrice: 139.99 EUR
 prodname: 'LEGO 76389 Harry Potter Schloss Hogwarts Kammer des Schreckens Spielzeug  Set mit Voldemort als goldene Minifigur und der Großen Halle'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WWRJ2QJ/?tag=tolees0ca-21'
-descuento: '15.74'
-average: '107.209090909092'
+descuento: '25.07'
+average: '107.108695652175'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Basilisk-Schlange hat einen aufklappbaren Kiefer, einen Kopfteil mit 2 drehbaren Gelenken und einen Schwanz, der aus 3 rekonfigurierbaren Teilen besteht
+- Dieses einfach zu bauende 2-stöckige Schloss umfasst die Kammer des Schreckens und die Große Halle mit leicht zugänglichem Turm und Dachboden
 - Dieses Harry Potter Set hat einen unverkennbaren runden Eingang & eine große Statue mit einem sich öffnenden Mund, der einen Korridor offenbart, durch den Basilisk eintreten kann
 - Enthalten sind folgende 10 Minifiguren: Harry Potter, Ginny Weasley, Tom Riddle, Colin Creevey, Justin Finch-Fletchley, Luna Lovegood & Professor Sinistra
-- Dieses einfach zu bauende 2-stöckige Schloss umfasst die Kammer des Schreckens und die Große Halle mit leicht zugänglichem Turm und Dachboden
-- Das Harry Potter-Sammelset enthält eine exklusive, goldene Minifigur im Miniaturformat von Voldemort, um das 20-jährige Jubiläum von Harrys Magie zu feiern und ist daher ein einzigartiges Weihnachtsgeschenk für Jungen und Mädchen ab 9 Jahren
 - Das Weiteren sind auch Gilderoy Lockhart, Albus Dumbledore und der fast kopflosen Nick dabei sowie 6 von 16 zufällig ausgewählten Zauberer-Karten zum Sammeln
+- Das Harry Potter-Sammelset enthält eine exklusive, goldene Minifigur im Miniaturformat von Voldemort, um das 20-jährige Jubiläum von Harrys Magie zu feiern und ist daher ein einzigartiges Weihnachtsgeschenk für Jungen und Mädchen ab 9 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
