@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MGM  Universal Pictures  - James Bond 007 Keine Zeit zu Sterben/Blu-Ray  Untertitel Deutsch  Englisch'
-date: 2022-08-03 10:58:58
+date: 2022-08-04 11:39:50
 image: 'https://m.media-amazon.com/images/I/41NTdZgpnVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'MGM (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B09HFS96KL/?tag=tolees0ca-21'
 descuento: '18.76'
-average: '16.5646575342468'
+average: '16.5163513513516'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

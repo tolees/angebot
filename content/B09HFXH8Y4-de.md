@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MGM  Universal Pictures  - James Bond 007: Keine Zeit zu sterben'
-date: 2022-08-03 10:56:41
+date: 2022-08-04 11:41:35
 image: 'https://m.media-amazon.com/images/I/412SBH+MiDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'MGM (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B09HFXH8Y4/?tag=tolees0ca-21'
 descuento: '28.59'
-average: '13.6585135135134'
+average: '13.6095999999999'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
