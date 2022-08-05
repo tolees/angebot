@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Model: 501 Levi’s Original
-- Fit: Regular
-- Model: 501 Levi’s Original
-- Standard
-- Normal
 - Collection: Frühjahr/Sommer 20
 - Normal
+- Standard
 - Fit: Regular
+- Model: 501 Levi’s Original
+- Fit: Regular
+- Normal
+- Model: 501 Levi’s Original
 - Collection: Frühjahr/Sommer 20
 
 [🛒 Hier!!]({{< param buyurl >}})

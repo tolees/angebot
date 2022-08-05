@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gigabit-LAN-Port zur Integration kabelgebundener Netzwerkgeräte wie Spielekonsolen, Smart-TVs in ein WLAN
-- Intelligentes Signallicht hilft den besten Standort für eine optimale WLAN-Abdeckung zu bestimmen
-- Intelligentes Signallicht hilft den besten Standort für eine optimale WLAN-Abdeckung zu bestimmen
 - Wi-Fi 6 für ultraschenlle WLAN-Geschwindigkeiten, höhere Kapazitäten und weniger Netzwerküberlastungen.
+- Intelligentes Signallicht hilft den besten Standort für eine optimale WLAN-Abdeckung zu bestimmen
+- Gigabit-LAN-Port zur Integration kabelgebundener Netzwerkgeräte wie Spielekonsolen, Smart-TVs in ein WLAN
 - Bis zu 2402 Mbit/s auf 5GHz und 574 Mbit/s auf 2,4GHz, ideal für alle bandbreitintensive Anwendungen.
+- Intelligentes Signallicht hilft den besten Standort für eine optimale WLAN-Abdeckung zu bestimmen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
