@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegehinweis: Maschinenwäsche
-- Kontrastnähte
+- Model: 511 Slim
+- Mid Rise
 - Gürtelschlaufen
 - Normaler Bund
-- Verschluss: Knopfleiste
+- Pflegehinweis: Maschinenwäsche
 - Fit: Slim
-- Mid Rise
 - 79% Baumwolle/20% Papier/2% Elasthan
-- Model: 511 Slim
+- Kontrastnähte
 - Slim
+- Verschluss: Knopfleiste
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

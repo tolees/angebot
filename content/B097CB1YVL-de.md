@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Infinity-U Display - dank FHD+ Super AMOLED-Technologie können Ihre täglichen Inhalte auf dem Android Handy eindrucksvoll aussehen: Scharf, knackig und klar
+- Samsung Knox - Integrierte mehrschichtige Sicherheit, die Ihre sensiblen Daten vor Malware und fremdem Zugriff schützt
 - Multi-Kamera-System - Mit der 64-MP-Hauptkamera können Sie den viele scharfe und klare Fotos machen
+- Infinity-U Display - dank FHD+ Super AMOLED-Technologie können Ihre täglichen Inhalte auf dem Android Handy eindrucksvoll aussehen: Scharf, knackig und klar
 - Mit dem 5.000-mAh-Akku können Sie stundenlang das auf dem Smartphone tun, was Sie wollen
 - Passe den Fokus mit der Tiefenkamera an, oder geh mit der Makrokamera nah an die Details heran
-- Samsung Knox - Integrierte mehrschichtige Sicherheit, die Ihre sensiblen Daten vor Malware und fremdem Zugriff schützt
 
 [🛒 Hier!!]({{< param buyurl >}})

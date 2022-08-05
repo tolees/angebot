@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Relaxed Fit
 - Strap: Knöchelriemen
 - Leder: Leder
+- Relaxed Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

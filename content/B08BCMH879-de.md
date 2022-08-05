@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KRAFTVOLLER KLANG: Ein kleiner, eleganter Lautsprecher mit 2x140 Watt Spitze – für Bang & Olufsen Signature Sound, wo auch immer man ihn braucht.
-- ALEXA-LAUTSPRECHER: Dank intuitiver Benutzeroberfläche mit integrierter Sprachsteuerung und Amazon Alexa ist immer für volle Kontrolle gesorgt.
-- ELEGANT UND STARK: Das robuste Aluminiumgehäuse ist staub- und wasserfest, was den tragbaren Lautsprecher zum genügsamen Reisegefährten macht.
 - LÄNGER LAUSCHEN: Die verbesserte Akkuleistung ermöglicht 18 Stunden Wiedergabe bei höherer Lautstärke – und bei geringerer noch mehr.
+- ELEGANT UND STARK: Das robuste Aluminiumgehäuse ist staub- und wasserfest, was den tragbaren Lautsprecher zum genügsamen Reisegefährten macht.
+- KRAFTVOLLER KLANG: Ein kleiner, eleganter Lautsprecher mit 2x140 Watt Spitze – für Bang & Olufsen Signature Sound, wo auch immer man ihn braucht.
 - WASSERDICHTER LAUTSPRECHER: Mit diesem robusten, langlebigen Lautsprecher findet die Lieblingsmusik überall Platz. Unterwegs, zu Hause oder am Pool.
+- ALEXA-LAUTSPRECHER: Dank intuitiver Benutzeroberfläche mit integrierter Sprachsteuerung und Amazon Alexa ist immer für volle Kontrolle gesorgt.
 
 [🛒 Hier!!]({{< param buyurl >}})
