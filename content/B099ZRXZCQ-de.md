@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kaiserschmarrndrama'
-date: 2022-08-03 22:33:32
+date: 2022-08-04 23:23:15
 image: 'https://m.media-amazon.com/images/I/51igTPmRSPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B099ZRXZCQ/?tag=tolees0ca-21'
 descuento: '23.09'
-average: '12.8135294117647'
+average: '12.6566666666667'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

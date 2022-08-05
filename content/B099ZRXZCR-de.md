@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kaiserschmarrndrama [Blu-ray]'
-date: 2022-08-03 22:33:20
+date: 2022-08-04 23:23:43
 image: 'https://m.media-amazon.com/images/I/51Cvq6kAKDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B099ZRXZCR/?tag=tolees0ca-21'
 descuento: '23.09'
-average: '13.6617647058824'
+average: '13.4577777777778'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
