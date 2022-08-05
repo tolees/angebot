@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Schloss Hogwarts  71043  Bauset  6.020 Teile '
-date: 2022-08-03 11:08:12
+date: 2022-08-05 10:46:54
 image: 'https://m.media-amazon.com/images/I/51mcSHgTf1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07BLDTWVW-de LEGO Harry Potter Schloss Hogwarts 71043 Bauset 6.020 Teile'
 sku: 'B07BLDTWVW-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 437.9 EUR
+tags: [ '325620031','Bauspielzeug & Konstruktionsspielzeug','C','Characters & Brands','Film','G','Harry Potter','Kreatives Denken','Kunststoff','Multi-Tree Refinements','PK Refinements (ARA)','Räumliche Argumentation','Spielzeug','T','TO','Toy Building Block Educational Objective','Toy Building Block Material','Toy Building Block Theme','Toys','lego','🇩🇪', ]
+actualPrice: 375.0 EUR
 currency: EUR
-price: 437.9
+price: 375.0
 comparePrice: 599.0 EUR
 prodname: 'LEGO Harry Potter Schloss Hogwarts  71043  Bauset  6.020 Teile '
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07BLDTWVW/?tag=tolees0ca-21'
-descuento: '26.89'
-average: '441.693285123969'
+descuento: '37.40'
+average: '441.555773195878'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nimm in der großen Halle Platz und speise mit den Professoren und Schülern von Hogwarts!
-- Enthält 4 Minifiguren: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin und Rowena Ravenclaw mit einer baubaren Stellplatte für Minifiguren.
 - Die Zubehörteile umfassen das Schwert von Gryffindor, Helga Hufflepuffs Becher, Zauberstäbe, Zaubertränke, Hausbanner, Flammen, einen Kessel und 2 Vergrößerungsgläser.
-- Umfasst ein baubares Miniaturmodell von Schloss Hogwarts, Hagrids Hütte, der Peitschenden Weide und 5 Booten.
 - Das Schloss Hogwarts ist über 58 cm hoch, 69 cm breit und 43 cm tief.
+- Enthält 4 Minifiguren: Godric Gryffindor, Helga Hufflepuff, Salazar Slytherin und Rowena Ravenclaw mit einer baubaren Stellplatte für Minifiguren.
+- Nimm in der großen Halle Platz und speise mit den Professoren und Schülern von Hogwarts!
+- Umfasst ein baubares Miniaturmodell von Schloss Hogwarts, Hagrids Hütte, der Peitschenden Weide und 5 Booten.
 
 [🛒 Hier!!]({{< param buyurl >}})
