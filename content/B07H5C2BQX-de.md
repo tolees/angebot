@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Anker Soundsync Bluetooth Empfänger für Musik mit Bluetooth 5.0  Akkulaufzeit von 12 Stunden  für Auto  Zuhause  Kopfhörer und Lautsprecher'
-date: 2022-08-04 23:27:51
+date: 2022-08-06 13:45:46
 image: 'https://m.media-amazon.com/images/I/31H+HLdyScL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Anker'
 buyurl: 'https://www.amazon.de/dp/B07H5C2BQX/?tag=tolees0ca-21'
 descuento: '15.00'
-average: '27.73'
+average: '27.9233333333333'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
