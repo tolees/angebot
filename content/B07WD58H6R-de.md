@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-CH510 kabellose Bluetooth Kopfhörer  kraftvoller Klang  eingebauter Sprachassistent  Quick Charge  bis zu 35 Stunden Akkulaufzeit  wireless  Schwarz'
-date: 2022-08-06 13:46:10
+date: 2022-08-07 14:24:11
 image: 'https://m.media-amazon.com/images/I/41SNAhNcaDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B07WD58H6R/?tag=tolees0ca-21'
 descuento: '33.89'
-average: '33.4914393939396'
+average: '33.4895471698115'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Akkulaufzeit: bis zu 35 Std abhängig vom verwendeten Modus
 - 30 mm Treiber mit Neodymium Magnet liefert einen kraftvollen Klang
-- Integrierte Headset-Funktion für handfreies Telefonieren
-- Bluetooth Version 5.0, Effektiver Bereich: Sichtverbindung ca. 10 m, Frequenzbereich: 2,4-GHz-Band (2,4–2,4835 GHz).
 - Schneller Zugriff per Sprache auf die Lieblingssongs und keine verpassten Benachrichtungen mehr Dank eingebautem Sprachassistent
+- Bluetooth Version 5.0, Effektiver Bereich: Sichtverbindung ca. 10 m, Frequenzbereich: 2,4-GHz-Band (2,4–2,4835 GHz).
 - Quick Charge: 10 Minuten Aufladen für 1, 5 Std Audiowiedergabe
+- Akkulaufzeit: bis zu 35 Std abhängig vom verwendeten Modus
+- Integrierte Headset-Funktion für handfreies Telefonieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
