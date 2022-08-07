@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schlagwerk abschaltbar
+- Bürstenloser Motor für mehr Ausdauer, längere Lebensdauer und kompaktere Bauweise
 - 2-Gang-Vollmetall-Planetengetriebe
 - Mit leuchtstarker LED
-- Schlagwerk abschaltbar
 - Besonders handlich durch kompakte, kurze Bauform
-- Bürstenloser Motor für mehr Ausdauer, längere Lebensdauer und kompaktere Bauweise
 
 [🛒 Hier!!]({{< param buyurl >}})

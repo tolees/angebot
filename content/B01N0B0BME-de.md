@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 63% LENZING ECOVERO Viskose, 32% Nylon, 5% Elasthan
-- Hose in lässiger Passform.
 - Schlank geformte Beine.
 - Kordelzug an der Taille.
+- Materialzusammensetzung: 63% LENZING ECOVERO Viskose, 32% Nylon, 5% Elasthan
+- Hose in lässiger Passform.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
