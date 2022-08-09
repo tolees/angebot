@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gute HDR-Unterstützung mit Active HDR (HDR10 Pro und HLG)
-- Quad Core 4K Prozessor mit zweistufiger Rauschreduzierung, AI Sound und AI Brightness Control
 - 4K NanoCell-Display und IPS-Panel mit Local Dimming für reine Farben und weite Blickwinkel
-- Smart TV (webOS 6.0) mit Google Assistant, Alexa, AirPlay 2/HomeKit
+- Quad Core 4K Prozessor mit zweistufiger Rauschreduzierung, AI Sound und AI Brightness Control
 - Bild wie vom Regisseur gewollt mit dem Filmmaker Mode
+- Smart TV (webOS 6.0) mit Google Assistant, Alexa, AirPlay 2/HomeKit
 
 [🛒 Hier!!]({{< param buyurl >}})
