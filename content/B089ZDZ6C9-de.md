@@ -29,7 +29,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit den neuesten Trikots, Vereinen und Kadern aus einigen der weltbesten Ligen
-- Mit geteiltem Joy-Con Support
 - Mit einigen der berühmtesten Stadien der Welt
+- Mit geteiltem Joy-Con Support
 
 [🛒 Hier!!]({{< param buyurl >}})

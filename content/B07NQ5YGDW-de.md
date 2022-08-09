@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- hohe Qualität
-- Nano-Abmessung: Ultrakleine für eine bequeme Tragbarkeit mit einer zuverlässigen Leistung.
 - Kompatibles Betriebssystem: kompatibel mit Windows 10 / 8.1 / 8/7 / xp
+- Nano-Abmessung: Ultrakleine für eine bequeme Tragbarkeit mit einer zuverlässigen Leistung.
 - Kostenloser Controller: Plug and Play für win 8, win 8.1 und win 10
+- hohe Qualität
 
 [🛒 Hier!!]({{< param buyurl >}})

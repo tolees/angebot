@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Herren Jacke für kühle Wetterbedingungen
+- Saumabschluss mit Kordelzug, Elastische Einsätze für mehr Bewegungsfreiheit, Rucksacktauglich
+- Komfortable Passform/Läuferspezifischer Schnitt, Reflektierende Details
 - GORE-Tex Infinium Technologie: Winddicht, stark wasserabweisend und extrem atmungsaktiv
 - GORE R3 GORE-Tex Infinium Partial Jacket, Größe: M, Farbe: Neon-Gelb/schwarz, 100624
-- Komfortable Passform/Läuferspezifischer Schnitt, Reflektierende Details
-- Saumabschluss mit Kordelzug, Elastische Einsätze für mehr Bewegungsfreiheit, Rucksacktauglich
+- Leichte Herren Jacke für kühle Wetterbedingungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
