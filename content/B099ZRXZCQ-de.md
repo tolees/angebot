@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kaiserschmarrndrama'
-date: 2022-08-04 23:23:15
+date: 2022-08-09 07:06:07
 image: 'https://m.media-amazon.com/images/I/51igTPmRSPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'DVD & Blu-ray','Featured Categories','Filme','Komödie & Unterhaltung',
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
-comparePrice: 12.99 EUR
+comparePrice: 12.75 EUR
 prodname: 'Kaiserschmarrndrama'
 country: 'de'
 flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B099ZRXZCQ/?tag=tolees0ca-21'
-descuento: '23.09'
-average: '12.6566666666667'
+descuento: '21.65'
+average: '12.5163157894737'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
