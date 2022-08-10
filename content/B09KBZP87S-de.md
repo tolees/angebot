@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HERAUSRAGENDE BILDQUALITÄT - Dank aufwendiger Konstruktion & UMC-Vergütung höchste optische Leistung mit brillanten Farben. Geringe Naheinstellgrenze 20cm, hohe F2.0 Offenblende & 7 Blendenlamellen für 14-strahlige Blendensterne und harmonisches Bokeh.
 - 12MM ULTRAWEITWINKEL FÜR FUJI X - 12mm Brennweite, 99,1° Bildwinkel & lichtstarke F2.0. Für einzigartige Weitwinkel Aufnahmen mit Ihrer Fuji-X-Mount Kamera. Neu mit modernstem Linear-STM Autofokus leise, schnell & präzise. Mit 3-fach Wetterschutz & Rear Protection Glass.
 - BEEINDRUCKENDE AUFNAHMEN - Mit 12 mm Brennweite und hoher Lichtstärke von F 2,0 ist das Objektiv ideal für Landschaft Natur Street & Architektur Fotografie sowie Innenräume, Food & Lifestyle. Extra kompakt leicht und leise für VLOGGING & Video.
+- HERAUSRAGENDE BILDQUALITÄT - Dank aufwendiger Konstruktion & UMC-Vergütung höchste optische Leistung mit brillanten Farben. Geringe Naheinstellgrenze 20cm, hohe F2.0 Offenblende & 7 Blendenlamellen für 14-strahlige Blendensterne und harmonisches Bokeh.
 - PASSEND FÜR – Fuji X-Mount Kameras wie X-H1 X-S10 X-pro 1 X-pro 2 X-pro 3 X-E1 X-E2 X-E2s X-E3 X-E4 X-T1 X-T2 X-T3 X-T4 X-T10 X-T20 X-T30
 - LIEFERUMFANG - 1x Samyang AF 12mm F2,0 Fuji X, 1x Gegenlichtblende (abnehmbar), 2x Schutzdeckel (vorne und hinten), 1x Aufbewahrungsbeutel
 

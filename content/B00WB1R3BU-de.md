@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Original Dewalt Zubehör
 - Für den Einsatz auf Akku-Schrauber und Bohrschrauber mit Sechskant-Bohrfutter
+- Schwenkbarer Bithalter perfekt für schwer zugängliche Arbeitsbereiche und enge Stellen
 - Lieferumfang: 1x schwenbarer Bithalter, Gesamtlänge 87mm, Pz2
 - Eignet sich für Bits mit 1/4" Sechskant-Schaft
-- Original Dewalt Zubehör
-- Schwenkbarer Bithalter perfekt für schwer zugängliche Arbeitsbereiche und enge Stellen
 
 [🛒 Hier!!]({{< param buyurl >}})

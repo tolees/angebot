@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Holz
 - Aufgrund unterschiedlicher Bildschirmdarstellungen sind Farbabweichungen möglich.
+- Holz
 - Durchmesser: 3 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

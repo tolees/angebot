@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEGO Rennwagen mit realistischen Details - der Straßenflitzer hat Seitenrohre, einen Spoiler, einen Kompressor und ein abnehmbares Dach
-- Das Rennauto hat einen niedrigen Sitz und das rot-grüne Hot Road Spielzeugauto verfügt über einen großen Motor für endlose Rennen
-- LEGO Creator Bausätze bieten unendlich viele Möglichkeiten für Rennsport-Action und eignen sich toll als Geschenk für Jungen und Mädchen ab 7 Jahren
-- Das LEGO Creator 3-in-1 Straßenflitzer Bauset enthält 3 Modellautos in einem: ein Muscle Car, einen Rennwagen und einen Hot Road
 - Unterwegs spielen - der Straßenflitzer hat eine ideale Größe, damit die Kinder ihn überallhin mitnehmen können
+- Das LEGO Creator 3-in-1 Straßenflitzer Bauset enthält 3 Modellautos in einem: ein Muscle Car, einen Rennwagen und einen Hot Road
+- Das Rennauto hat einen niedrigen Sitz und das rot-grüne Hot Road Spielzeugauto verfügt über einen großen Motor für endlose Rennen
+- LEGO Rennwagen mit realistischen Details - der Straßenflitzer hat Seitenrohre, einen Spoiler, einen Kompressor und ein abnehmbares Dach
 - Halte Ausschau nach weiteren LEGO Creator 3-in-1 Sets: Super Mech (31124), Überschalljet (31126) und Wald-Fabelwesen (31125)
 - Kinder können mit dem Straßenflitzer durch die Stadt rasen, mit dem Rennwagen über die Rennstrecke düsen oder ihren eigenen Hot Road bauen
+- LEGO Creator Bausätze bieten unendlich viele Möglichkeiten für Rennsport-Action und eignen sich toll als Geschenk für Jungen und Mädchen ab 7 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})
