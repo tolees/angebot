@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MittlereTaille
 - Standard
 - Fit: Normal
+- MittlereTaille
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
