@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Technic 42082 - Geländegängiger Kranwagen  4057 Teile '
-date: 2022-08-07 13:30:32
+date: 2022-08-10 18:37:23
 image: 'https://m.media-amazon.com/images/I/51595Rxv8aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07CFNCSC7/?tag=tolees0ca-21'
 descuento: '17.15'
-average: '262.347966903072'
+average: '262.412948113206'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
