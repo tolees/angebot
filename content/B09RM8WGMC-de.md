@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany - James Bond - The Daniel Craig 5-Movie-Collection  4K Ultra HD   5 BR4K   + 5 Blu-ray2D '
-date: 2022-08-09 01:07:11
+date: 2022-08-10 05:20:01
 image: 'https://m.media-amazon.com/images/I/41ojtHssTUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
