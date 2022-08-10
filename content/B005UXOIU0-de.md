@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GESCHENKIDEE - Tanqueray Rangpur Lime Distilled Gin ist das ideale Geschenk für Gin-Liebhaber, die etwas ganz Besonderes suchen
-- AROMA PUR - Tanqueray Rangpur Lime Gin ist fünffach destilliert, was ihm seine außergewöhnliche Qualität und seinen herben, frischen Geschmack verleiht, Die saftige Rangpur-Frucht mit ihren köstlichen Zitronen- und Mandarinennoten sowie einer Spur Ingwer sorgen für ein ganz unverwechselbares Aroma
-- 5-FACHE DESTILLATION - Dieser preisgekrönte Gin wurde 2006 erstmals hergestellt, Die Ausgangsbasis bildete der klassische Tanqueray London Dry Gin, mit der asiatischen Rangpur-Zitrusfrucht als besonderer Zutat, Tanqueray London Dry wird nach wie vor nach demselben klassischen Rezept gebrannt, das Charles Tanqueray 1830 entwickelte
 - SERVIERVORSCHLAG - Am besten schmeckt Tanqueray Rangpur Lime Gin in einem Copa-Glas mit gutem Tonic Water, viel Eis und einer großen Scheibe frischer Limette
+- 5-FACHE DESTILLATION - Dieser preisgekrönte Gin wurde 2006 erstmals hergestellt, Die Ausgangsbasis bildete der klassische Tanqueray London Dry Gin, mit der asiatischen Rangpur-Zitrusfrucht als besonderer Zutat, Tanqueray London Dry wird nach wie vor nach demselben klassischen Rezept gebrannt, das Charles Tanqueray 1830 entwickelte
+- AROMA PUR - Tanqueray Rangpur Lime Gin ist fünffach destilliert, was ihm seine außergewöhnliche Qualität und seinen herben, frischen Geschmack verleiht, Die saftige Rangpur-Frucht mit ihren köstlichen Zitronen- und Mandarinennoten sowie einer Spur Ingwer sorgen für ein ganz unverwechselbares Aroma
+- GESCHENKIDEE - Tanqueray Rangpur Lime Distilled Gin ist das ideale Geschenk für Gin-Liebhaber, die etwas ganz Besonderes suchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

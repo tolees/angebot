@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bezug mit Öko-Tex Zertifikat. Die Bälle un Spielbad werden in Europa aus ungiftigem Materialien hergestellt. Das Produkt ist Eurofins-zertifiziert.
+- Das Bällchenpool bringt bestimmt Spaß für die kleine Mädchen und Junge!
 - Das Bällepool mit dazugehörigen 200/300 Stück Bällen ∅ 7cm unterstützt sensorische Integrationstherapie von Babys.
 - Passt zu jedem Zimmerdesign. Überzug des Bällebads kann in der Waschmaschine bei 40°C gewaschen werden.
 - Sowohl Bällebad als auch die Bälle sind aus den Materialien höchster Qalität gefertigt; BPA frei
-- Das Bällchenpool bringt bestimmt Spaß für die kleine Mädchen und Junge!
-- Bezug mit Öko-Tex Zertifikat. Die Bälle un Spielbad werden in Europa aus ungiftigem Materialien hergestellt. Das Produkt ist Eurofins-zertifiziert.
 
 [🛒 Hier!!]({{< param buyurl >}})

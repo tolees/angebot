@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erstellen und steuern Sie intelligentere, glaubhaftere und gefühlsbetonte Sims.
 - Nutzen Sie brandneue intuitive Kreativtools, die Spaß machen.
+- Erstellen und steuern Sie intelligentere, glaubhaftere und gefühlsbetonte Sims.
 - Erschaffen und erforschen Sie ein Leben voller bedeutender Möglichkeiten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

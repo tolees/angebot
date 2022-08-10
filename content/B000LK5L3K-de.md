@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gemoldete Cups aus funktioneller, unelastischer Mikrofaser für optimalen Halt der Büste
 - Sport-BH light & firm aus leichter und atmungsaktive Mikrofaser
+- Gemoldete Cups aus funktioneller, unelastischer Mikrofaser für optimalen Halt der Büste
 
 [🛒 Hier!!]({{< param buyurl >}})
