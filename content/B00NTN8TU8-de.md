@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Verpackung der Uhr ist immer unterschiedlich und ändert sich mit jeder Saison
+- Largeur du bracelet : 28 mm - Circonférence du bracelet : 200 +/-5 mm
 - Taille du boîtier : 57 x 66 mm - Épaisseur du boîtier : 14 mm
 - Livré dans une boîte cadeau Diesel
-- Largeur du bracelet : 28 mm - Circonférence du bracelet : 200 +/-5 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

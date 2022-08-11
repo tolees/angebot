@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strapazierfähiges G-1000 Material kann gewachst werden, um die Wasserbeständigkeit zu erhöhen
-- Gewicht: 55g
 - Ideal zum Wandern
+- Strapazierfähiges G-1000 Material kann gewachst werden, um die Wasserbeständigkeit zu erhöhen
 - Größenverstellbar am Hinterkopf
+- Gewicht: 55g
 - Logo aus Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

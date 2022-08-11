@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - GOTS zertifiziert
-- Europäische Produktion
-- Angesagter Animal Print
-- Weicher Webbund
 - Bio-Baumwolle
+- Europäische Produktion
+- Weicher Webbund
+- Angesagter Animal Print
 
 [🛒 Hier!!]({{< param buyurl >}})

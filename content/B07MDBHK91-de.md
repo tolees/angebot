@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pattentaschen im Western-Stil auf der Brust – Druckknopfverschluss
-- Leicht abgerundeter Saum
-- Vertikale Nähte am Rücken – formend
-- Hemdkragen
 - Slim Fit
+- Pattentaschen im Western-Stil auf der Brust – Druckknopfverschluss
+- Hemdkragen
+- Vertikale Nähte am Rücken – formend
+- Leicht abgerundeter Saum
 
 [🛒 Hier!!]({{< param buyurl >}})

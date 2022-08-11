@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Medium Waist
 - Regular Fit
-- Bund mit Knopf und Reißverschluss
-- Eingrifftaschen mit markanter Paspel-Verarbeitung
 - Slim Legs
+- Eingrifftaschen mit markanter Paspel-Verarbeitung
+- Medium Waist
+- Bund mit Knopf und Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
