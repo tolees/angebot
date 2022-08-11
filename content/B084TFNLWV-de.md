@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x brennenstuhlConnect WiFi Rauch-und Hitzewarnmelder WRHM01, 2x Batterien (Mignon AA LR6), 2x Schrauben/Dübel - in bester Qualität von brennenstuhl
-- Dank mitgeliefertem Befestigungsmaterialen lässt sich der WLAN Warn- und Rauchmelder unaufällig montieren
 - WLAN Rauchmelder kompatibel mit Routern jeder Marke und erfodert kein Hub - Achten Sie beim Anschließen darauf das 2,4-GHz-Band zu wählen
-- Selbst bei Abwesenheit werden Sie durch den WiFi Rauch- und Hitzewarnmelder über die App, dank direkter Push Benachrichtigung aufs Smartphone, schnell informiert
+- Dank mitgeliefertem Befestigungsmaterialen lässt sich der WLAN Warn- und Rauchmelder unaufällig montieren
 - Der brennenstuhlConnect Wifi Rauchmelder alamiert Sie umgehend mit durchdringendem Alarmsignal (85 Db) überall zuverlässig bei Feuer und Rauchentwicklung
+- Lieferumfang: 1x brennenstuhlConnect WiFi Rauch-und Hitzewarnmelder WRHM01, 2x Batterien (Mignon AA LR6), 2x Schrauben/Dübel - in bester Qualität von brennenstuhl
+- Selbst bei Abwesenheit werden Sie durch den WiFi Rauch- und Hitzewarnmelder über die App, dank direkter Push Benachrichtigung aufs Smartphone, schnell informiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: ASUS WLAN Router, Schnellstartanleitung, Netzwerkkabel, Netzteil, Garantiekarte
 - Maximale Kompatibilität mit Modems/Modemrouter der Provider
-- AX6100 WiFi6 Tri-Band WLAN Gesamt-Geschwindigkeit (Simultane WLAN Bandbreite mit bis 4804 Mbits über 5G-1, 866 Mbits über 5G-2 & 400 Mbits über 2.4G) + Gigabit 1x WAN / 4x LAN
-- Exklusive Asus AiMesh Funktion zur Erweiterung der WLAN Reichweite mit intelligenten Mesh Features wie einheitlicher WLAN-Zugang und unterbrechungsfreier Client Übergabe
 - WLAN-Router zur Lösung von Empfangs und Performanceproblemen im Heim-Netzwerk - Empfohlen für eine WLAN-Versorgungsfläche von bis zu 150m²
+- Exklusive Asus AiMesh Funktion zur Erweiterung der WLAN Reichweite mit intelligenten Mesh Features wie einheitlicher WLAN-Zugang und unterbrechungsfreier Client Übergabe
+- Lieferumfang: ASUS WLAN Router, Schnellstartanleitung, Netzwerkkabel, Netzteil, Garantiekarte
+- AX6100 WiFi6 Tri-Band WLAN Gesamt-Geschwindigkeit (Simultane WLAN Bandbreite mit bis 4804 Mbits über 5G-1, 866 Mbits über 5G-2 & 400 Mbits über 2.4G) + Gigabit 1x WAN / 4x LAN
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
