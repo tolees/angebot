@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leder: Weiches Leder
-- Verschluss: Gummi
 - Zuglasche zum einfachen An- und Ausziehen
+- Verschluss: Gummi
 - Vielseitige Schnürschuhe
+- Leder: Weiches Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

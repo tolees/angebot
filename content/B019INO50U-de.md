@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gemüseschubfach CrispZone mit Feuchteregler
-- SuperCool Funktion: Schnellabkühlung nach dem Großeinkauf
-- AdaptTech: Konstante Temperatur im Kühlschrankinnenraum
 - Slotin-türscharnier
 - Led Innenbeleuchtung
+- Gemüseschubfach CrispZone mit Feuchteregler
+- Maße (H x B x T) in cm: 185 x 60 x 64
 - Elektronische Steuerung über LED TouchControl Display in der Tür
 - IonAir mit DynamiCooling
-- Maße (H x B x T) in cm: 185 x 60 x 64
+- SuperCool Funktion: Schnellabkühlung nach dem Großeinkauf
+- AdaptTech: Konstante Temperatur im Kühlschrankinnenraum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

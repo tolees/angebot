@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kontrast-Besatz an innerem Ärmelsaum
-- Aus 100 Prozent Baumwolle
 - camel active Logo Stickerei
+- Aus 100 Prozent Baumwolle
+- Kontrast-Besatz an innerem Ärmelsaum
 - Button Down Kragen
 - Minimal All Over Print
 

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Rasur, einfache Reinigung: Schnelle und einfache Reinigung nach der Haarentfernung, ohne Abnahme des Scherkopfs, dank EasyClean. Hergestellt in Deutschland
+- Li-Ionen-Akku: 50 Minuten Akkulaufzeit dank Lithium-Ionen-Akku. Eine Schnellladung von 5 Minuten reicht für eine Rasur
 - EasyClick: Umrüstbar zum Barttrimmer mit 5 Bartkämmen und Bodygroomer dank EasyClick. Aufsätze im Pack enthalten. Das EasyClick System ermöglicht eine einfache Umrüstung Ihres Rasierers für noch mehr Funktionen
 - 3 flexible Klingen: Elektrorasierer für Pflege und Haarentfernung mit 3 flexiblen Klingen, die sich an die Gesichtskonturen anpassen – für eine gründliche und einfache Rasur
-- Li-Ionen-Akku: 50 Minuten Akkulaufzeit dank Lithium-Ionen-Akku. Eine Schnellladung von 5 Minuten reicht für eine Rasur
+- Einfache Rasur, einfache Reinigung: Schnelle und einfache Reinigung nach der Haarentfernung, ohne Abnahme des Scherkopfs, dank EasyClean. Hergestellt in Deutschland
 - Wet und Dry: 100% wasserdichter elektrischer Rasierer für Wet und Dry Anwendung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

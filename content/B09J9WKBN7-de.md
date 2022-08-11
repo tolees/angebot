@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- VERGÜTUNG: Die 7+1 MRC Beschichtung sorgt für eine hohe Transmission und maximale Entspiegelung. Die zusätzliche Nano-Außenschicht sorgt durch den Lotus-Effekt für eine verminderte Schmutzanhaftung.
 - MADE IN GERMANY: Schneider Kreuznach (B W) - Ihr Feinmechanik-Spezialist für Filter, Fotografie, Optik und Präzision seit mehr als 100 Jahren!
-- KREATIV DURCH WENIGER LICHT - Neutraldichtefilter perfekt zur Reduktion der einfallenden Lichtmenge (6 Blendenstufen) ohne Farben und Kontrast zu beeinflussen. Perfekt für Fließeffekte.
 - MASTER LINIE: Extrem schmale Filterfassung verhindert Vignettierung auch mit einem kurzen Weitwinkelzoom Objektiv (beginnend ab 12mm APS) - mit Frontgewinde für Objektivdeckel oder Gegenlichtblenden.
+- VERGÜTUNG: Die 7+1 MRC Beschichtung sorgt für eine hohe Transmission und maximale Entspiegelung. Die zusätzliche Nano-Außenschicht sorgt durch den Lotus-Effekt für eine verminderte Schmutzanhaftung.
+- KREATIV DURCH WENIGER LICHT - Neutraldichtefilter perfekt zur Reduktion der einfallenden Lichtmenge (6 Blendenstufen) ohne Farben und Kontrast zu beeinflussen. Perfekt für Fließeffekte.
 
 [🛒 Hier!!]({{< param buyurl >}})

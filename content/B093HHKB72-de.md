@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WD_BLACK Game Drives – die Game Saver! Spielen und Speichern von Xbox One-Spielen, Archivieren von Xbox Series X|S-Spielen.
 - Mit der SSD Festplatte steigen Sie mit optimierten Geschwindigkeiten von bis zu 900 MB/s und minimierten Ladezeiten für Ihre Xbox schneller ins Spiel ein.
-- Erweitern Sie Ihre Spielesammlung mit dem externen Speicher. Im Lieferumfang erhalten Sie eine 1-monatige Xbox Game Pass Ultimate Mitgliedschaft mit Zugang zu über 100 Spielen.
-- Lieferumfang: WD_BLACK D30 Game Drive for Xbox 2 TB (900 MB/s, USB Typ-C, 1 Monat Xbox Game Pass Ultimate) Schwarz; USB Typ-C zu Typ-A-Kabel, Netzteil und Stecker, Schnellinstallationsanleitung
+- WD_BLACK Game Drives – die Game Saver! Spielen und Speichern von Xbox One-Spielen, Archivieren von Xbox Series X|S-Spielen.
 - Nie wieder Spiele löschen - mit der Game Drive SSD ist auf Ihrer Konsole noch mehr Platz für alte und neue Lieblingsspiele.
+- Lieferumfang: WD_BLACK D30 Game Drive for Xbox 2 TB (900 MB/s, USB Typ-C, 1 Monat Xbox Game Pass Ultimate) Schwarz; USB Typ-C zu Typ-A-Kabel, Netzteil und Stecker, Schnellinstallationsanleitung
+- Erweitern Sie Ihre Spielesammlung mit dem externen Speicher. Im Lieferumfang erhalten Sie eine 1-monatige Xbox Game Pass Ultimate Mitgliedschaft mit Zugang zu über 100 Spielen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
