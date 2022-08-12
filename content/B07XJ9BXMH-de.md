@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Freisprech-Telefonate und Sprachinteraktion werden drahtlos unterstützt
-- Außengeräusche können dank Ambient Awareness Mode eingeblendet werden
-- IPX5 Wasserschutz gegen Schweiß und Regen
 - Automatisches Ein- und Ausschalten und Koppeln
+- Freisprech-Telefonate und Sprachinteraktion werden drahtlos unterstützt
+- IPX5 Wasserschutz gegen Schweiß und Regen
 - Insgesamt 10 Stunden ununterbrochene Wiedergabe (5 Stunden im Ladecase)
+- Außengeräusche können dank Ambient Awareness Mode eingeblendet werden
 
 [🛒 Hier!!]({{< param buyurl >}})

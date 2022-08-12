@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Uhr verfügt über ein silbernes Edelstahl-Gehäuse mit einem Durchmesser von 44 mm
 - Schwarzes Zifferblatt, Leuchtzeiger, 42 Stunden Gangreserve, Datum, Saphirglas, Citizen Logo
 - Die Uhr hat eine Wasserdichtigkeit von 20 bar
 - Antrieb: Eco Drive mit 42 Stunden Gangreserve
-- Die Uhr verfügt über ein silbernes Edelstahl-Gehäuse mit einem Durchmesser von 44 mm
 - Herren Chronograph in der Farbe Silber-Schwarz aus Edelstahl der Marke Citizen
 
 [🛒 Hier!!]({{< param buyurl >}})
