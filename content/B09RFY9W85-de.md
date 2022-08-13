@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Moonfall  + Blu-ray 2D '
-date: 2022-08-10 05:20:10
+date: 2022-08-13 12:16:05
 image: 'https://m.media-amazon.com/images/I/51P6VO5TQZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09RFY9W85-de LEONINE Distribution GmbH - Moonfall + Blu-ray 2D'
 sku: 'B09RFY9W85-de'
 tags: [ 'Action & Abenteuer','Blu-ray','DVD & Blu-ray','Fantasy','Featured Categories','Filme','Science Fiction','leonine distribution gmbh','🇩🇪', ]
-actualPrice: 22.97 EUR
+actualPrice: 22.87 EUR
 currency: EUR
-price: 22.97
+price: 22.87
 comparePrice: 28.99 EUR
 prodname: 'LEONINE Distribution GmbH - Moonfall  + Blu-ray 2D '
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B09RFY9W85/?tag=tolees0ca-21'
-descuento: '20.77'
-average: '25.786'
+descuento: '21.11'
+average: '25.3'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

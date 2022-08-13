@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herkunftsland:- Deutschland
-- Packung die Größe: 29.1 L x 40.4 H x 32.2 W (cm)
 - Unter Schutzatmosphäre verpackt
 - Packung Weight: 2.08 kg
+- Packung die Größe: 29.1 L x 40.4 H x 32.2 W (cm)
+- Herkunftsland:- Deutschland
 
 [🛒 Hier!!]({{< param buyurl >}})

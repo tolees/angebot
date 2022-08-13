@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Moonfall'
-date: 2022-08-10 05:20:46
+date: 2022-08-13 12:16:13
 image: 'https://m.media-amazon.com/images/I/41mWanxEYrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B09M7XSF6X/?tag=tolees0ca-21'
 descuento: '28.73'
-average: '13.166'
+average: '12.6333333333333'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
