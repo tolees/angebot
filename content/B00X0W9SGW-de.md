@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger ETON TRIFOLD AM0AM00657 Herren Geldbörsen 13x10x2 cm  B x H x T   Schwarz  BLACK 002 '
-date: 2022-08-08 19:12:56
+date: 2022-08-13 16:55:04
 image: 'https://m.media-amazon.com/images/I/41FM5Odwj5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00X0W9SGW-de Tommy Hilfiger ETON TRIFOLD AM0AM00657 Herren Geldbörsen...'
 sku: 'B00X0W9SGW-de'
 tags: [ 'Geldbörsen, Ausweis- & Kartenhüllen','Geldbörsen, Ausweis- & Kartenhüllen für Herren','Herren-Geldbörsen','Koffer, Rucksäcke & Taschen','tommy hilfiger','🇩🇪', ]
-actualPrice: 44.99 EUR
+actualPrice: 35.99 EUR
 currency: EUR
-price: 44.99
+price: 35.99
 comparePrice: 74.9 EUR
 prodname: 'Tommy Hilfiger ETON TRIFOLD AM0AM00657 Herren Geldbörsen 13x10x2 cm  B x H x T   Schwarz  BLACK 002 '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.de/dp/B00X0W9SGW/?tag=tolees0ca-21'
-descuento: '39.93'
-average: '44.99'
+descuento: '51.95'
+average: '40.49'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
