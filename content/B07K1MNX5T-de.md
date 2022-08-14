@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Herren Continental Fitnessschuhe  Weiß  Ftwbla/Escarl/Maruni 000   44 2/3 EU'
-date: 2022-08-05 12:24:28
+date: 2022-08-13 22:42:49
 image: 'https://m.media-amazon.com/images/I/31K7AKKQr7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
 - Obermaterial: Full-Grain-Leder
+- Innenmaterial: Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})
