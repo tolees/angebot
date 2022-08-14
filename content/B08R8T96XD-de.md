@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wattiertes Steppdesign
-- Ärmellos
 - Pattentaschen vorne an der Schulter – Klettverschluss, Paspeltaschen an der Taille – Druckknopfverschluss
+- Wattiertes Steppdesign
 - Verstellbare Schirmkapuze (Druckknopf), Kordelzug innen, Kinnschutz – abnehmbar
 - Innenseite: Hängeschlaufe, doppelte Innentasche, Kordelzug unten
+- Ärmellos
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

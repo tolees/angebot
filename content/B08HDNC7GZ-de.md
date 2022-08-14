@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- WR 200 m
 - Gehäusedurchmesser: 43,0 mm
+- Casual/Lifestyle
 - Schwarzes Zifferblatt und Metallarmband
 - Analoge Herrenuhr aus Edelstahl
 - Automatisches Uhrwerk
-- WR 200 m
-- Casual/Lifestyle
 - Armbandbreite: 5,0 mm
 
 [🛒 Hier!!]({{< param buyurl >}})

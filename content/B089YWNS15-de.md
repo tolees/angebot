@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standard
 - Model: SLHBERG HALF ZIP Cardigan B NOOS
+- Standard
 
 [🛒 Hier!!]({{< param buyurl >}})
