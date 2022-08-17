@@ -31,7 +31,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Die separate Tischfernbedienung ermöglicht eine bequeme Lautstärkeregelung und verfügt über einen AUX-In-Anschluss
 - Der kräftige Subwoofer mit Holzgehäuse liefert intensive Bässe und ein hohes Klangvolumen
 - Lautstärke und Bass lassen sich über einen Regler direkt am Subwoofer einstellen
-- Das Lautsprechersystem kann über eine Bluetooth-Verbindung mit Smartphones und Tablets genutzt werden
 - Der eigene Netzschalter verhindert unnötigen Stromverbrauch
+- Das Lautsprechersystem kann über eine Bluetooth-Verbindung mit Smartphones und Tablets genutzt werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
