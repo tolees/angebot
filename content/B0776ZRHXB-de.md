@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - TOMMY JEANS Slim Fit Polo Kurzarm Polokragen-geknöpft pique Webung Logostick Uni weiß
-- Armlänge: Kurzarm
-- Linie: Tommy Jeans
-- Passform: Slim Fit
 - Größe: XL
+- Linie: Tommy Jeans
+- Armlänge: Kurzarm
+- Passform: Slim Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

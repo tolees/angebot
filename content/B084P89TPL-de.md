@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Zusätzliche Rotlicht-LED an der Stirnseite für die Erhaltung der Nachtsichtfähigkeit
+- Zahlreiche Befestigungsmöglichkeiten durch Metallklammer am Lampenkopf
+- Magnetic Charge System für komfortables Aufladen
 - Dual Power Source: Wahlweise aufladbarer Akku oder AA-Batterie einsetzbar
 - Innovatives Mounting System ermöglicht einfaches Abnehmen und Aufsetzen des Lampenkopfes für maximale Flexibilität
-- Magnetic Charge System für komfortables Aufladen
-- Zahlreiche Befestigungsmöglichkeiten durch Metallklammer am Lampenkopf
-- Zusätzliche Rotlicht-LED an der Stirnseite für die Erhaltung der Nachtsichtfähigkeit
 
 [🛒 Hier!!]({{< param buyurl >}})

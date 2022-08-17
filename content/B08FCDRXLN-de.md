@@ -31,7 +31,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Immersives 6,53 "HD + -Display. Das große Display ermöglicht es Ihnen, vollständig in die virtuelle Welt einzutauchen. Schwaches blaues Licht für ein komfortables Seherlebnis.
 - AI-Dreifachkamera hinten Mit der AI-Dreifachkamera können Sie Ihre Lieblingsmomente in lebendigen Farben festhalten. 13MP-Hauptkamera, 2MP-Tiefensensor, LED-Blinker, 2MP-Makrokamera.
 - Bequemes Entsperren. Verwenden Sie den Fingerabdrucksensor auf der Rückseite oder lassen Sie das Telefon entsperren, wenn Sie Ihr Gesicht mit AI Face Unlock erkennen.
-- Massive 5000mAh Batterie. Die Lebensdauer der Batterie stieg gegenüber dem Marktstandard um 25%.
 - Neuer polierter Look. Die Rückseite verfügt über ein strukturiertes Design, das Fingerabdrücke verhindert, sodass das Gerät jederzeit seinen makellosen Look behält.
+- Massive 5000mAh Batterie. Die Lebensdauer der Batterie stieg gegenüber dem Marktstandard um 25%.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

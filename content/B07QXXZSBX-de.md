@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die perfekte Jacke für mehr Komfort in Ihrem aktiven Alltag.
 - Amazon arbeitet mit PUMA zusammen, um Ihnen eine Athleisure-Kollektion zu bieten bei der Komfort an erster Stelle steht und die die Kunden-Expertise von Amazon mit dem Produkt-Wissen von PUMA vereint.
+- Die perfekte Jacke für mehr Komfort in Ihrem aktiven Alltag.
 - 0
 
 [🛒 Hier!!]({{< param buyurl >}})
