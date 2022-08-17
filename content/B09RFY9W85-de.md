@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Moonfall  + Blu-ray 2D '
-date: 2022-08-14 23:14:27
+date: 2022-08-17 01:41:27
 image: 'https://m.media-amazon.com/images/I/51P6VO5TQZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B09RFY9W85/?tag=tolees0ca-21'
 descuento: '21.11'
-average: '24.9528571428571'
+average: '24.6925'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
