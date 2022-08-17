@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Care instructions: Maschinenwäsche
-- Fit type: Standard Fit (normale Passform)
-- 80 % Baumwolle, 20 % Polyester
 - 100% Original Lonsdale
+- Fit type: Standard Fit (normale Passform)
+- Care instructions: Maschinenwäsche
+- 80 % Baumwolle, 20 % Polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang: 1 Herding Bettwäsche-Set, Paw Patrol, 1 Kopfkissenbezug 40 x 60 cm + 1 Bettdeckenbezug 100 x 135 cm, Farbe: Weiß/Mehrfarbig
 - Die ideale Geschenkidee für jeden Anlass: Atmungsaktive Kleinkinderbettwäsche mit verspieltem Paw Patrol Wendemotiv für tapfere Abenteurer
+- Hochwertiges Material: 100% Baumwolle/Renforcé, Produziert nach Oeko Tex Standard 100, Kräftige Farben, Pflegeleicht: Waschbar bei 60°C, Trocknergeeignet
 - Schnelles und einfaches Beziehen: Kissenbezug mit Hoteleinschlag, Bettbezug mit leichtläufigem Qualitätsreißverschluss
 - Lizenziertes 2-teiliges Set: Abwechslungsreiches Design dank Wendekopfkissenbezug mit detailreichen Motiven und Wendebettbezug mit Flach- und Rotationsdruck
-- Hochwertiges Material: 100% Baumwolle/Renforcé, Produziert nach Oeko Tex Standard 100, Kräftige Farben, Pflegeleicht: Waschbar bei 60°C, Trocknergeeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

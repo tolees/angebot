@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optischer ROCCAT Owl-Eye Sensor mit 16.000 dpi
-- Griffige, langlebige und schmutzabweisende Beschichtung, die sich weich anfühlt | easy-shift[+]-technologie für 24 mögliche Funktionen
 - 5 unabhängig konfigurierbare Beleuchtungszonen; Systemvoraussetzungen: USB 2.0 (oder höher), Internetverbindung (für Treibersoftware) Betriebssystem: Windows 7, Windows 8
 - Aimo Beleuchtung – rgba-hintergrundbeleuchtung und LED-Lichteffekte
+- Optischer ROCCAT Owl-Eye Sensor mit 16.000 dpi
 - Einzigartige Form mit außergewöhnlicher Ergonomie, angepasst an deine Hand
+- Griffige, langlebige und schmutzabweisende Beschichtung, die sich weich anfühlt | easy-shift[+]-technologie für 24 mögliche Funktionen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

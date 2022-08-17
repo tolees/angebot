@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - abnehmbare Kapuze
-- atmungsaktiv
-- robust
 - 3-in-1-Jacke
 - wasserdicht, winddicht
+- robust
+- atmungsaktiv
 
 [🛒 Hier!!]({{< param buyurl >}})
