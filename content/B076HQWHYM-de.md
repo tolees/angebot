@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufgesticktes adidas Logo auf der Front
 - Streifen auf den Ärmeln
-- Reguläre Passform
+- Aufgesticktes adidas Logo auf der Front
 - Gerippter Saum und Bündchen
+- Reguläre Passform
 - Raglanärmel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
