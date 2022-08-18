@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Seitliche Eingrifftaschen und kleine Coin Pocket
 - Regular Fit mit kurzem Bein
-- Medium Waist Short
 - Zwei Gesäßtaschen
 - Cargotaschen mit Klettverschluss und Zip Pocket
-- Seitliche Eingrifftaschen und kleine Coin Pocket
+- Medium Waist Short
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

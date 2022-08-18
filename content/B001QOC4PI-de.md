@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hergestellt mit Water&ltLess Technologie : verwendet 96 Prozent weniger Wasser, als herkömmliche Finish Techniken
-- Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
-- Eine leere Leinwand für deinen Style
 - Die Original-Jeans mit gerader Passform
+- Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
 - Echter amerikanischer Stil
+- Eine leere Leinwand für deinen Style
 - Die Original-Jeans seit 1873
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
