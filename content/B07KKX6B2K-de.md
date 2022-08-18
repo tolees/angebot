@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das T-Shirt hat ein Baumwollfutter auf der Vorderseite und ist daher blickdicht mit hohem Tragekomfort
 - Street One Shirt Style Palmira mit Halbarm und abgerundetem V-Ausschnitt im körpernahem Schnitt leicht tailliert
+- Das T-Shirt hat ein Baumwollfutter auf der Vorderseite und ist daher blickdicht mit hohem Tragekomfort
 - Maße bei EU-Größe 38 ca.: Länge 64cm, Brust 90cm, Saumweite 92cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

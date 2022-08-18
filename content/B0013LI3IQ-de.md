@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertiger Chrom Vanadiumlegierter Bohrer mit Zentrierspitze, zwei Schulter und Umfangsschneiden (Form B)
-- Verfügt zusätzlich über: Geschliffenen Schaft und zwei polierte Schulterschneiden
 - Oberfläche blank poliert, Nuten schwarz
+- Verfügt zusätzlich über: Geschliffenen Schaft und zwei polierte Schulterschneiden
+- Hochwertiger Chrom Vanadiumlegierter Bohrer mit Zentrierspitze, zwei Schulter und Umfangsschneiden (Form B)
 - Inhalt: 1x Holzspiral-Bohrerset bestehend aus 4, 5, 6, 8, 10mm Ø, in Kunststoff-Kassette
 
 [🛒 Hier!!]({{< param buyurl >}})
