@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Augsburger Puppenkiste - Klassiker Kollektion [5 DVDs]'
-date: 2022-08-17 01:39:21
+date: 2022-08-18 09:27:57
 image: 'https://m.media-amazon.com/images/I/513lVcGf8oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B072ZKW27Q/?tag=tolees0ca-21'
 descuento: '25.11'
-average: '14.9614285714286'
+average: '14.9625'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

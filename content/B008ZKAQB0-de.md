@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Die große Plattfuß-Box [4 DVDs]'
-date: 2022-08-17 01:57:23
+date: 2022-08-18 09:32:53
 image: 'https://m.media-amazon.com/images/I/51D5v-ZN-2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B008ZKAQB0/?tag=tolees0ca-21'
 descuento: '16.85'
-average: '12.7233333333334'
+average: '12.5115384615385'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl Datenträger: 4
-- Ausführung: Langfassung
-- Ausführung: Schuber
-- Ausführung: Kinofassung
 - Angaben: laut Hersteller
+- Ausführung: Schuber
+- Anzahl Datenträger: 4
+- Ausführung: Kinofassung
+- Ausführung: Langfassung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
