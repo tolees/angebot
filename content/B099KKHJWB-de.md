@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Loose Fit
-- Kleine Münztasche auf der Innenseite
-- Bund mit abnehmbarem Web-Gürtel
 - 3/4-Legs mit Tunnelzug und Elastikkordel am Saum
 - Medium Waist
+- Kleine Münztasche auf der Innenseite
+- Bund mit abnehmbarem Web-Gürtel
 
 [🛒 Hier!!]({{< param buyurl >}})
