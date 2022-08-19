@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - kompaktes Design für bequeme Standortwechsel, sofort einsatzbereit - 100 Prozent vormontiert
 - Flammenhöhe stufenlos regulierbar, optimal geschützte Bedienelemente innerhalb des Gehäuses, thermoelektrische Zündsicherung und Umkippsicherung zur optimalen Sicherheit
-- extra lange Brenndauer (61 - 152 Stunden mit einer 11-kg-Gasflasche) durch ECO-Brenner, 11-kg-Gasflasche kann während des Betriebs im Container verbleiben
 - spiegelnder Reflektor & Flamme bilden eine harmonische Einheit, feuerfester Glas-Zylinder schützt die Flamme vor Windeinflüssen
+- extra lange Brenndauer (61 - 152 Stunden mit einer 11-kg-Gasflasche) durch ECO-Brenner, 11-kg-Gasflasche kann während des Betriebs im Container verbleiben
 - dekoratives Flammenspiel garantiert ein stimmungsvolles Ambiente, einzigartige Ambientebeleuchtungen im Oberteil sowie Boden sind einzeln zuschaltbar und setzen ein Highlight auf Ihrer Terrasse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

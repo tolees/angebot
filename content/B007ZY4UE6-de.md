@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Schnitt der Jeans mit niedrigem Bund sorgt für maximalen Tragekomfort
 - Die schmale Passform passt sich der Bewegungsfreiheit an
+- Der Schnitt der Jeans mit niedrigem Bund sorgt für maximalen Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

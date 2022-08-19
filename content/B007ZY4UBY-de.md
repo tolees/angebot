@@ -29,7 +29,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit fünf Taschen
-- Kontrastnähte
 - Gürtelschlaufen
+- Kontrastnähte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ausgewählte Leder und handwerklich aufwendige Verarbeitung
 - Original 5-Phasen-Fußbett von Berkemann unterstützt den natürlichen Abrollvorgang
-- schockabsorbierende Zwischensohle für erhöhten Tragekomfort
-- Sohle aus federleichtem Pappelholz mit schockabsorbierende Zwischensohle für erhöhten Tragekomfort
 - bequemer Holz-Clog mit genagelten Schäften
+- schockabsorbierende Zwischensohle für erhöhten Tragekomfort
+- ausgewählte Leder und handwerklich aufwendige Verarbeitung
+- Sohle aus federleichtem Pappelholz mit schockabsorbierende Zwischensohle für erhöhten Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

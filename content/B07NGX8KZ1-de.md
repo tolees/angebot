@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innensohle : Wolle
-- Außensohle : Gummi
 - Außenmaterial : Leder
-- Innenmaterial : Wolle
+- Außensohle : Gummi
 - Verschlusstyp : Klettverschluss
+- Innensohle : Wolle
+- Innenmaterial : Wolle
 
 [🛒 Hier!!]({{< param buyurl >}})
