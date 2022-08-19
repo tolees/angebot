@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x CX7 Akku Staubsauger, 1x freistehende Ladestation + integriertem Möbelpinsel/Mini-Fugendüse, 1x Filter (bereits im Gerät) // Zubehör-Empfehlung: Erweiterungsset AKIT360+, Elektrosaugbürste für Handteil AZE134, Allergy-Kit AKIT15, Filter-Set AEF150
+- Extra lange Laufzeit: Bis zu 45 Min. bzw. 135 m² Laufzeit in der ECO-Stufe (16 Min. bzw. 48 m² in der Power-Stufe) - Akku Staubsauger ausgestattet mit kraftvollem 18 V Lithium High-Density-Akku
 - Elektrosaugbürste: Optimale Beweglichkeit des Akku Staubsaugers dank 180° drehbarem Doppelgelenk - Selbstreinigung der Bürstenrolle per Pedaldruck (Brushroll-Clean Funktion)
 - 2in1-Funktion: Akku Staubsauger mit entnehmbarem Handstaubsauger für maximale Flexibilität auch an schwer zugänglichen Stellen
-- Extra lange Laufzeit: Bis zu 45 Min. bzw. 135 m² Laufzeit in der ECO-Stufe (16 Min. bzw. 48 m² in der Power-Stufe) - Akku Staubsauger ausgestattet mit kraftvollem 18 V Lithium High-Density-Akku
 - Praktisches Frontlicht: Die 4 LEDs an der Bodendüse des Akku Staubsaugers sorgen auch an dunklen Stellen für beste Sicht - somit bleibt kein Staub und Krümel unerkannt
+- Lieferumfang: 1x CX7 Akku Staubsauger, 1x freistehende Ladestation + integriertem Möbelpinsel/Mini-Fugendüse, 1x Filter (bereits im Gerät) // Zubehör-Empfehlung: Erweiterungsset AKIT360+, Elektrosaugbürste für Handteil AZE134, Allergy-Kit AKIT15, Filter-Set AEF150
 
 [🛒 Hier!!]({{< param buyurl >}})

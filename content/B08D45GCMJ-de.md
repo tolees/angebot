@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hinweis: Headset-Firmware aktualisieren Um die Firmware Ihres Headsets zu aktualisieren, gehen Sie bitte wie folgt vor: 1. Laden Sie zuerst den Turtle Beach Audio Hub herunter; Dies ist sowohl für Windows als auch für Mac verfügbar. 2. Nachdem der Audio Hub heruntergeladen/installiert wurde, öffnen Sie das Programm. 3. Stecken Sie den Mini-Sender und das Headset selbst in zwei freie USB-Anschlüsse am Computer. Das Audio-Hub-Programm erkennt automatisch, dass das Headset/der Mini-Sender angeschlossen wurde, und sucht nach verfügbaren Updates. Wenn ein Update verfügbar ist, werden Sie aufgefordert, dieses Update durchzuführen
-- Superhuman Hearing - Ob leise Schritte, die sich von hinten anschleichen, oder das Nachladen von Waffen – unsere exklusive Superhuman Hearing-Soundeinstellung bietet den ultimativen Audiovorteil
-- Spielen und verbunden bleiben mit Bluetooth - Nutze die Möglichkeit, während des Spielens zu telefonieren oder Musik zu hören, ohne einen actionreichen Moment zu verpassen
-- 1.Laden Sie zuerst den Turtle Beach Audio Hub herunter; Dies ist sowohl für Windows als auch für Mac verfügbar.
-- Hole das Meiste aus Deinem Headset mit der aktuellsten Headset-Firmware heraus. Weitere Informationen auf der Turtle Beach Website
-- 2. Nachdem der Audio Hub heruntergeladen/installiert wurde, öffnen Sie das Programm.
-- Im Vorteil mit 3D Audio - Entfessle die Power von 3D Audio und tauche dank präzisem räumlichen Surround Sound in ein immersives und realistisches Spielerlebnis auf PS5 ein
 - Kabellose Verbindung - Ein kabelloser Mini-USB-Transmitter bietet eine zuverlässige kabellose Spiel-Audio- und Chatverbindung auf PS5 und PS4
 - 3. Stecken Sie den Mini-Sender und das Headset selbst in zwei freie USB-Anschlüsse am Computer. Das Audio-Hub-Programm erkennt automatisch, dass das Headset/der Mini-Sender angeschlossen wurde, und sucht nach verfügbaren Updates. Wenn ein Update verfügbar ist, werden Sie aufgefordert, dieses Update durchzuführen. "
+- Hinweis: Headset-Firmware aktualisieren Um die Firmware Ihres Headsets zu aktualisieren, gehen Sie bitte wie folgt vor: 1. Laden Sie zuerst den Turtle Beach Audio Hub herunter; Dies ist sowohl für Windows als auch für Mac verfügbar. 2. Nachdem der Audio Hub heruntergeladen/installiert wurde, öffnen Sie das Programm. 3. Stecken Sie den Mini-Sender und das Headset selbst in zwei freie USB-Anschlüsse am Computer. Das Audio-Hub-Programm erkennt automatisch, dass das Headset/der Mini-Sender angeschlossen wurde, und sucht nach verfügbaren Updates. Wenn ein Update verfügbar ist, werden Sie aufgefordert, dieses Update durchzuführen
+- Spielen und verbunden bleiben mit Bluetooth - Nutze die Möglichkeit, während des Spielens zu telefonieren oder Musik zu hören, ohne einen actionreichen Moment zu verpassen
+- 1.Laden Sie zuerst den Turtle Beach Audio Hub herunter; Dies ist sowohl für Windows als auch für Mac verfügbar.
+- Superhuman Hearing - Ob leise Schritte, die sich von hinten anschleichen, oder das Nachladen von Waffen – unsere exklusive Superhuman Hearing-Soundeinstellung bietet den ultimativen Audiovorteil
+- Im Vorteil mit 3D Audio - Entfessle die Power von 3D Audio und tauche dank präzisem räumlichen Surround Sound in ein immersives und realistisches Spielerlebnis auf PS5 ein
+- Hole das Meiste aus Deinem Headset mit der aktuellsten Headset-Firmware heraus. Weitere Informationen auf der Turtle Beach Website
+- 2. Nachdem der Audio Hub heruntergeladen/installiert wurde, öffnen Sie das Programm.
 
 [🛒 Hier!!]({{< param buyurl >}})

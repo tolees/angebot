@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leistungsstarker WiFi-6 WLAN-Router mit zwei 10G Ports
 - Exklusive Asus AiMesh Funktion zur Erweiterung der WLAN Reichweite mit intelligenten Mesh Features
-- Perfekter Rundum-Schutz mit AiProtection Pro von Trend Micro
 - Maximale Kompatibilität mit Modemrouter der Provider
+- Leistungsstarker WiFi-6 WLAN-Router mit zwei 10G Ports
+- Perfekter Rundum-Schutz mit AiProtection Pro von Trend Micro
 - Für eine Versorgungsfläche von bis zu 220m²
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
