@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Übernehmen Sie die Kontrolle mit der CORSAIR iCUE Software und synchronisieren Sie die Beleuchtung mit anderen Corsair RGB-Produkten, einschließlich Kühlern, Tastaturen und Lüftern
-- Unterstützt Intel XMP 2.0 für einfache Installation und Einrichtung
 - Eine individuelle Performance PCB bietet die höchste Signalqualität für ein Höchstmaß an Leistung und Stabilität
-- Ein solider Aluminium-Wärmeverteiler verbessert die Wärmeleitfähigkeit für hervorragende Speicherkühlung, auch wenn übertaktet, mit modernem Design, um Ihre RGB-Beleuchtung zu ergänzen
-- VENGEANCE RGB PRO SL Module verwenden nur fest abgeschirmte Speicherchips, um ein erweitertes Übertaktungspotenzial zu erzielen
-- Nur 44 mm hoch für breite Kompatibilität mit Luftkühlern wie dem Corsair A500. SPD-Latenz: 15-15-15-36
-- Beleuchten Sie Ihr System mit lebendiger, animierter Beleuchtung von zehn individuell adressierbaren, ultrahellen RGB-LEDs pro Modul
-- Optimiert für maximale Bandbreite und enge Reaktionszeiten auf den neuesten Intel- und AMD DDR4-Motherboards
-- Genießen Sie absolute Sicherheit mit einer eingeschränkten lebenslangen Garantie
 - Wählen Sie aus Dutzenden von voreingestellten Beleuchtungsprofilen oder erstellen Sie Ihre eigenen mit der CORSAIR iCUE Software
+- Übernehmen Sie die Kontrolle mit der CORSAIR iCUE Software und synchronisieren Sie die Beleuchtung mit anderen Corsair RGB-Produkten, einschließlich Kühlern, Tastaturen und Lüftern
+- VENGEANCE RGB PRO SL Module verwenden nur fest abgeschirmte Speicherchips, um ein erweitertes Übertaktungspotenzial zu erzielen
+- Optimiert für maximale Bandbreite und enge Reaktionszeiten auf den neuesten Intel- und AMD DDR4-Motherboards
+- Beleuchten Sie Ihr System mit lebendiger, animierter Beleuchtung von zehn individuell adressierbaren, ultrahellen RGB-LEDs pro Modul
+- Genießen Sie absolute Sicherheit mit einer eingeschränkten lebenslangen Garantie
+- Ein solider Aluminium-Wärmeverteiler verbessert die Wärmeleitfähigkeit für hervorragende Speicherkühlung, auch wenn übertaktet, mit modernem Design, um Ihre RGB-Beleuchtung zu ergänzen
+- Unterstützt Intel XMP 2.0 für einfache Installation und Einrichtung
+- Nur 44 mm hoch für breite Kompatibilität mit Luftkühlern wie dem Corsair A500. SPD-Latenz: 15-15-15-36
 
 [🛒 Hier!!]({{< param buyurl >}})
