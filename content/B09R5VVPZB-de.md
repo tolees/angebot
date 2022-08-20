@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- leicht, mit Leinen, hochwertig
 - mit Hemdkragen
-- mit regulärer Passform
 - fixierter Umschlag am Ärmel, mit Knopfleiste, hat kurze Ärmel, mit Brusttasche
+- mit regulärer Passform
+- leicht, mit Leinen, hochwertig
 - ist gestreift, einfarbig
 
 [🛒 Hier!!]({{< param buyurl >}})
