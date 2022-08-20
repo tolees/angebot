@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der größte Vorteil des Holzkohlegrillwagens ist die zusätzliche Ablagefläche an der Seite um z. B. Grillgut sicher abzulegen. Arbeitshöhe ca. 84 cm.
-- Größe der Grillfläche ist ca. 56 x 41,5 cm; Warmhaltefläche beträgt ca. 53,9 x 24,1 cm
 - Durch die Räder lässt er sich leicht bewegen und gut ausrichten. Dank der robusten Standbeinen steht der Wagen sicher an seinem Platz.
-- Emaillierter Grillrost, Warmhalterost sowie Holzkohlenwanne, die ganz leicht mittels Kurbel höhenverstellbar ist.
 - Die Besonderheit der Grillfläche ist der herausnehmbare Grillrosteinsatz, welcher den Einsatz verschiedener Elemente ermöglicht.
-- Innovatives Design ermöglicht einen einfachen und schnellen Aufbau in weniger als 30 Minuten
 - Im Gegensatz zu einem stationären Gartengrill, hat unser Holzkohlegrill 2 Räder. Dadurch bietet er mehr Mobilität und kann sehr leicht an jeden beliebigen Ort gefahren werden.
+- Größe der Grillfläche ist ca. 56 x 41,5 cm; Warmhaltefläche beträgt ca. 53,9 x 24,1 cm
+- Innovatives Design ermöglicht einen einfachen und schnellen Aufbau in weniger als 30 Minuten
+- Emaillierter Grillrost, Warmhalterost sowie Holzkohlenwanne, die ganz leicht mittels Kurbel höhenverstellbar ist.
 
 [🛒 Hier!!]({{< param buyurl >}})

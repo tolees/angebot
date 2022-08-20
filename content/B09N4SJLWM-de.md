@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für höchste Ansprüche im Heimnetz (z. B. 4K-Stream)
 - Mehr WLAN-Reichweite für alle verbundenen Geräte
 - Zwei Funkeinheiten für ein High-End WLAN mit bis zu 3.000 MBit/s
+- Für höchste Ansprüche im Heimnetz (z. B. 4K-Stream)
 - Innovatives Wi-Fi 6 für ein Heimnetz mit einer Vielzahl an WLAN-Endgeräten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausführung: Kinofassung
-- Anzahl Datenträger: 4
 - Ausführung: Schuber
+- Ausführung: Kinofassung
 - Ausführung: Langfassung
+- Anzahl Datenträger: 4
 - Angaben: laut Hersteller
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
