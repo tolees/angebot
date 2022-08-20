@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Multifunktions-Uhrwerk
-- Blaues Armband
-- Wasserabweisend bis 5 bar
 - Blaues Halbglanz-Zifferblatt
+- Wasserabweisend bis 5 bar
+- Blaues Armband
+- Multifunktions-Uhrwerk
 - Gehäusedicke 10,9 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

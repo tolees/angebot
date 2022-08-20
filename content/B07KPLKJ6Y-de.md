@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- <b>Sport BH</b>
-- <b> AA</b>
 - <b>coralle/anthrazit</b>
 - <b>ANITA 5544</b>
+- <b>Sport BH</b>
+- <b> AA</b>
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei hoher Temperatur bügeln (200° C) / Normalwaschgang bei max. 30°C
 - Kurze Chinohose für den Sommer in Unifarben mit gekrempelten Beinabschlüssen
 - BE PART: Wir sind stolzes Mitglied der Better Cotton Initiative (BCI). Mit dem Kauf dieses Artikels unterstützt du einen nachhaltigeren Baumwollanbau.
 - Aus Twill-Stoff mit Stretch-Anteil für ein angenehmes Tragegefühl und Bewegungsfreiheit
 - Mit seitlichen Eingriffstaschen und Paspeltaschen am Gesäß
+- Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei hoher Temperatur bügeln (200° C) / Normalwaschgang bei max. 30°C
 - Passform: Regular Slim Fit, Beininnenlänge bei Gr. 33 ca. 31,5 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibel mit UTG MNT-955
-- Klappbar und voll einstellbar
-- Für Picatinny-Schiene
 - Aluminium
+- Für Picatinny-Schiene
 - UTG New Generation Flip up visier
+- Klappbar und voll einstellbar
+- Kompatibel mit UTG MNT-955
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sechs praktische Taschen
-- Eine Axttasche
 - Regulär geschnitten
 - Strapazierfähige Trekkinghose für Abenteuer
-- Verstärkt an Knien und Gesäß mit zweilagigem Material
 - Eine Kartentasche
+- Sechs praktische Taschen
+- Verstärkt an Knien und Gesäß mit zweilagigem Material
+- Eine Axttasche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

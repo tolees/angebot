@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rollen mit Verriegelungsmechanismus für mehr Mobilität und Stabilität.
+- Elektronische SureFire Zündung, um den Grill auf Knopfdruck ganz ohne offene Flamme anzuzünden.
 - 5 Jahre auf die Edelstahl-Brenner, 2 Jahre auf alle übrigen Komponenten.
+- Rollen mit Verriegelungsmechanismus für mehr Mobilität und Stabilität.
+- Stabiler Deckel mit Temperaturanzeige.
+- Emaillierter Grillrost und Emitter in einem für einfaches Grillen und leichte Reinigung.
+- TRU-INFRARED Grillsystem - gleichmäßige Hitze, bis zu 50% saftigeres Grillgut, bis zu 30% sparsamer im Verbrauch.
+- Seitenbrenner für erweiterte Möglichkeiten in der Zubereitung.
+- Drei verbrauchsarme Hochleistungsbrenner aus Edelstahl für maximale Hitze bei geringem Gasverbrauch.
 - Gußeiserne Grillplatte für ein abwechslungsreiches Grillerlebnis.
 - Warmhalterost - Ein herausnehmbarer Rost, um Grillgut warm zu halten, Brot zu toasten oder als indirekte Kochzone zu verwenden.
-- Seitenbrenner für erweiterte Möglichkeiten in der Zubereitung.
-- Emaillierter Grillrost und Emitter in einem für einfaches Grillen und leichte Reinigung.
-- Stabiler Deckel mit Temperaturanzeige.
-- TRU-INFRARED Grillsystem - gleichmäßige Hitze, bis zu 50% saftigeres Grillgut, bis zu 30% sparsamer im Verbrauch.
-- Elektronische SureFire Zündung, um den Grill auf Knopfdruck ganz ohne offene Flamme anzuzünden.
-- Drei verbrauchsarme Hochleistungsbrenner aus Edelstahl für maximale Hitze bei geringem Gasverbrauch.
 
 [🛒 Hier!!]({{< param buyurl >}})

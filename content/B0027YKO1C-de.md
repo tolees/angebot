@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne gentechnisch veränderte Inhaltsstoffe
-- Bio-verstärkte, aktive Form von Liponsäure
 - Probieren Sie diese Liponsäure der nächsten Generation noch heute aus!
 - Für Vegetarier geeignet
 - Nahrungsergänzungsmittel
+- Ohne gentechnisch veränderte Inhaltsstoffe
+- Bio-verstärkte, aktive Form von Liponsäure
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Das Axial-Tech-Lüfterdesign bietet größere Flügel und einen einzigartigen Sperrring zur Erhöhung des Luftdrucks
 - Die NVIDIA-TURING- GPU-Architektur und die brandneue RTX-Plattform liefert eine bis zu 6x höhere Leistung im Vergleich zu den Grafikkarten der Vorgängergeneration und ermöglicht die Nutzung von Echtzeit-Raytracing und künstlicher Intelligenz in Spielen
-- NVIDIA Shadowplay Aufnehmen und Teilen mit Freunden von hochauflösenden Gameplay-Videos, Screenshots und Livestreams
-- Die Auto-Extreme-Technologie nutzt Automatisierungstechniken, um die Zuverlässigkeit zu erhöhen
 - DirectX 12 ermöglicht neue Grafikeffekte und Rendering-Techniken für ein extrem realistisches Gaming-Erlebnis
+- Die Auto-Extreme-Technologie nutzt Automatisierungstechniken, um die Zuverlässigkeit zu erhöhen
+- NVIDIA Shadowplay Aufnehmen und Teilen mit Freunden von hochauflösenden Gameplay-Videos, Screenshots und Livestreams
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Not tested on animals.
-- Made in England.
 - Perfect for adding texture and volume to your style.
-- Dear Barber Mattifier creates hold and separation with an ultra-matte finish.
 - ingredients include beeswax, carnauba wax and clay to allow a strong yet flexible hold.
+- Made in England.
+- Not tested on animals.
+- Dear Barber Mattifier creates hold and separation with an ultra-matte finish.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
