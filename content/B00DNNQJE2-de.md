@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VARIOUS - Asian Erotic Collection [Blu-ray]'
-date: 2022-08-20 01:29:47
+date: 2022-08-21 01:44:22
 image: 'https://m.media-amazon.com/images/I/51SdRtTd6LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'VARIOUS'
 buyurl: 'https://www.amazon.de/dp/B00DNNQJE2/?tag=tolees0ca-21'
 descuento: '20.15'
-average: '12.7936363636364'
+average: '12.725'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
