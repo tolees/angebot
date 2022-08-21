@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Eintreten und Anhalten der Wirkung ist am Abperleffekt einfach zu erkennen.
-- Vorsicht bei Acryl-/PLEXIGLAS: Das Sprühwachs soll ungehindert ablüften können. An Stellen wie Sicken, wo es evtl. länger auf der Oberfläche steht ohne schnell ablüften zu können, kann es im Extremfall zu Spannungsrissen kommen.
-- Vorsicht bei Fahrzeugfrontscheiben: Das Aufsprühen mancher Frostschutz- und Scheibenreinigungsmittel kann auf mit Sprühwachs behandelten Frontscheiben zu Schlierenbildung führen.
 - Geeignet als abschließender Oberflächenschutz, speziell nach dem Reinigen, Lackieren, Schleifen oder Polieren von Oberflächen.
+- Das Eintreten und Anhalten der Wirkung ist am Abperleffekt einfach zu erkennen.
+- Vorsicht bei Fahrzeugfrontscheiben: Das Aufsprühen mancher Frostschutz- und Scheibenreinigungsmittel kann auf mit Sprühwachs behandelten Frontscheiben zu Schlierenbildung führen.
+- Vorsicht bei Acryl-/PLEXIGLAS: Das Sprühwachs soll ungehindert ablüften können. An Stellen wie Sicken, wo es evtl. länger auf der Oberfläche steht ohne schnell ablüften zu können, kann es im Extremfall zu Spannungsrissen kommen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

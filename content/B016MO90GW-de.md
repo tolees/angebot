@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - UNGLAUBLICHE AKKULAUFZEIT: Genieße 24 Stunden Non-Stop Musik. Das entspricht 500 Liedern am Stück. Dank dem leistungsstarken 4400mAh Li-Ion Akku mit Ankers fortschrittlicher Ladetechnologie ist das ein Kinderspiel.
-- ERSTKLASSIGER SOUND: Gönn dir Musik mit starkem Stereo Sound, ermöglicht durch die Dual-3-Watt-Treiber und dedizierten Bass Port. Unterstützt Advanced Audio Distribution Profile (A2DP).
-- BASS UP: Die exklusive BassUp Technologie verfeinert und intensiviert alle Frequenzen und garantiert vollen, tiefen Bass - und das in einem erstaunlich kompakten Format. ​
-- BLUETOOTH 4.2: Verbinde deinen Soundcore mühelos via Bluetooth mit deinem Smartphone oder Tablet bei einer Entfernung von bis zu 20m. Außerdem mit eingebautem Mikrofon - für flexible Telefonanrufe jederzeit.
 - WAS DU BEKOMMST: Einen Anker Soundcore Bluetooth Lautsprecher, ein Mikro-USB-Kabel, eine Bedienungsanleitung, 18 Monate Garantie und freundlichen Kundenservice.
+- BLUETOOTH 4.2: Verbinde deinen Soundcore mühelos via Bluetooth mit deinem Smartphone oder Tablet bei einer Entfernung von bis zu 20m. Außerdem mit eingebautem Mikrofon - für flexible Telefonanrufe jederzeit.
+- BASS UP: Die exklusive BassUp Technologie verfeinert und intensiviert alle Frequenzen und garantiert vollen, tiefen Bass - und das in einem erstaunlich kompakten Format. ​
+- ERSTKLASSIGER SOUND: Gönn dir Musik mit starkem Stereo Sound, ermöglicht durch die Dual-3-Watt-Treiber und dedizierten Bass Port. Unterstützt Advanced Audio Distribution Profile (A2DP).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
