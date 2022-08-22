@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'devolo dLAN 1200+ WiFi ac Starter Kit Powerline  bis zu 1200 Mbit/s WLAN ac  2 4 und 5 GHz gleichzeitig  2x LAN Ports  2x Powerlan Adapter  Gigabit-Verbindung  WLAN Empfang verbessern   Access Point '
-date: 2022-08-14 23:25:03
+date: 2022-08-22 08:40:18
 image: 'https://m.media-amazon.com/images/I/31zqfHtnMKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.de/dp/B00NHDAMSC/?tag=tolees0ca-21'
 descuento: '26.33'
-average: '162.826315789474'
+average: '161.68'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- This starter kit establishes the connection between two network devices (e.g. router to a PC); it is possible to use a constant fast signal at cable lengths of up to 400 metres
-- With two built-in Gigabit LAN ports for your internet-enabled devices (smart TV, games console, PC, etc.)
-- Expand your home network at any time (compatible with the dLAN 200/500/550/650/1000/1200 product series)
-- Box contents: 1x dLAN 1200+ WiFi AC Powerline adapter, 1x dLAN 1200+ Powerline adapter, 1x Ethernet cable (2m), 1x installation instructions (English language not guaranteed)
-- Wi-Fi from any socket with AC speed of up to 1200 Mbps for smartphone, tablet, laptop, etc.
+- Dieses Starter Kit stellt die Verbindung zwischen zwei Netzwerkgeräten her (z.B. Router zu einem PC); Es ist möglich bei Leitungslängen von bis zu 400 Metern ein konstant schnelles Signal nutzen zu können
+- Erweitern Sie Ihr Heimnetzwerk jederzeit (kompatibel zu den dLAN 200/500/550/650/1000/1200 Produktserien)
+- Mit zwei integrierten Gigabit LAN-Anschlüssen für Ihre internetfähigen Geräte (Smart-TV, Spielekonsole, PC, etc.)
+- WLAN aus jeder Steckdose mit ac-Geschwindigkeit von bis zu 1200 Mbit/s für Smartphone, Tablet, Laptop, etc.
+- Lieferumfang: 1x dLAN 1200+ WiFi ac Powerline Adapter, 1x dLAN 1200+ Powerline Adapter, 1x Ethernet Kabel (2m), 1x Installationsanleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
