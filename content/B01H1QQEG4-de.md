@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Übernehmen Sie die Rolle des Outlaws Deacon, der abseits der vermeintlich sicheren Lager auf seinem Drifter-Bike sein Glück sucht
-- Fesselnder Open World Survival Horror, angesiedelt im von einer Pandemie zerstörten, unbarmherzigen postapokalyptischen Welt
 - Meistern Sie die zahlreichen Gefahren durch Freaker, feindliche menschliche Fraktionen, zerstörten Straßen und unvorhersehbare Wetterereignisse
 - Kämpfen Sie sich einen Weg durch die trostlose Landschaft auf der Suche nach Vorräten, Rohstoffen und einem Grund, weiterzuleben
+- Fesselnder Open World Survival Horror, angesiedelt im von einer Pandemie zerstörten, unbarmherzigen postapokalyptischen Welt
+- Übernehmen Sie die Rolle des Outlaws Deacon, der abseits der vermeintlich sicheren Lager auf seinem Drifter-Bike sein Glück sucht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

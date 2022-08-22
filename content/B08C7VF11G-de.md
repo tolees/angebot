@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - HELL UND KLAR – Die anpassbare RGB-Beleuchtung verleiht deinem Gaming-Setup einen besonderen Stil
-- MINIMALE LATENZ – Eine einstellbare Abtastrate sorgt für niedrige Latenzzeiten, damit du auch bei intensiven Gaming-Sessions die Nase vorn hast
 - EXTRA LEICHT – Diese Maus ist dank ihres Gehäuses mit Wabenstrukturen besonders leicht und für stundenlanges Spielen geeignet
+- MINIMALE LATENZ – Eine einstellbare Abtastrate sorgt für niedrige Latenzzeiten, damit du auch bei intensiven Gaming-Sessions die Nase vorn hast
 - SUPER PRÄZISE – Dank eines hochpräzisen optischen Sensors (bis 10.000 DPI) behältst du mit präzisen Bewegungen die Kontrolle
 - WEICH WIE BUTTER – Gleitpads sorgen für reibungsarme Bewegungen der Maus auf dem Tisch
 

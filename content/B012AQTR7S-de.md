@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Knopfleiste
-- aufgesetzte Brusttaschen
-- Hemdkragen
 - aufkrempelbare Manschettenärmel
 - taillierter Schnitt
+- aufgesetzte Brusttaschen
+- Hemdkragen
+- Knopfleiste
 
 [🛒 Hier!!]({{< param buyurl >}})

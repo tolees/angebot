@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Extra schnelle Messungen in ca. 10 Sekunden
 - Digitales EXPRESS-Fieberthermometer
-- Ohne Glas, quecksilberfrei
 - Signalton bei Messende
 - Warnton, wenn Messergebnis über 37,8°C (Fieberalarm)
+- Ohne Glas, quecksilberfrei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
