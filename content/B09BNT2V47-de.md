@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dieses pädagogisch wertvolle Lernspielzeug für Kinder ab 2 Jahren enthält 3 LEGO DUPLO Figuren für ein fantasievolles Rollenspiel: eine Ärztin, einen Vater und ein Kind
-- Eine lustige Bildergeschichte, die im Set enthalten ist, führt Kinder in kreatives Bauen und fantasievolles Spielen ein
 - Das LEGO DUPLO Set führt Kleinkinder in das Geschehen bei Arztbesuchen ein
+- Eine lustige Bildergeschichte, die im Set enthalten ist, führt Kinder in kreatives Bauen und fantasievolles Spielen ein
 - Kinder verwenden das Stethoskop der Ärztin (dauerhaft befestigt), um den Herzschlag des Kindes zu überprüfen
 - Das Set enthält außerdem einen Teddybären, eine Giraffen-Messlatte, ein Waschbecken, ein Sofa, einen aufklappbaren Koffer und 2 Stühle
 
