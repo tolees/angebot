@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Leuchte mit Soundeffekt
-- Es können drei verschiedene Licht-Kombinationen eingestellt werden
 - Das Beleuchtungsset ist als Zubehör für RollyToys Fahrzeuge geeignet
+- Es können drei verschiedene Licht-Kombinationen eingestellt werden
+- Hochwertige Leuchte mit Soundeffekt
 - Die Rolly Toys Spielzeuge werden bereits bei der Produktion auf Qualität und Funktionssicherheit geprüft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
