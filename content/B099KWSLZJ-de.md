@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kommt mit einer Sammlerkarte mit Bild auf der Vorderseite, und Biographie auf der Rückseite
-- Kommt mit rollenden Rädern
 - DC Multiverse Fahrzeug Drifter Motorcycle
-- Aus der "DC Multiverse Vehicles" Reihe kommt das coole Fahrzeug
 - Unglaublich detailliertes Fahrzeug, kompatibel mit allen 7" DC Multiverse Figuren
+- Kommt mit rollenden Rädern
+- Aus der "DC Multiverse Vehicles" Reihe kommt das coole Fahrzeug
+- Kommt mit einer Sammlerkarte mit Bild auf der Vorderseite, und Biographie auf der Rückseite
 
 [🛒 Hier!!]({{< param buyurl >}})

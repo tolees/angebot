@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Punktuelles oder großflächiges Auftragen, XXL-Applikator mit abgerundeter Spitze für besonders einfaches Verteilen und Verblenden
-- Deckender Concealer im handlichen Format zum Abdecken, Auffrischen und Konturieren, Mit extra großem Applikator für leichtes Auftragen
-- Bitte überprüfen Sie das PAO-Symbol (Periode After Opening), das die Verfallszeit des Produkts angibt, nachdem Sie die Packung geöffnet haben
 - Ultra-leichte und cremige Formel zum Vermeiden von Make-Up Ränder, Feuchtigkeitsspendende und pflegende Textur für ein angenehmes Tragegefühl
 - Lieferumfang: LOréal Paris Infaillible More Than Concealer für ein deckendes Finish für bis zu 16H, Farbe: 324 Oatmeal, 11 ml
+- Bitte überprüfen Sie das PAO-Symbol (Periode After Opening), das die Verfallszeit des Produkts angibt, nachdem Sie die Packung geöffnet haben
 - Ergebnis: Langanhaltende und deckende Farbe mit natürlichem Finish, Concealer und Make-Up zugleich, dank hochpigmentierter Formel
+- Deckender Concealer im handlichen Format zum Abdecken, Auffrischen und Konturieren, Mit extra großem Applikator für leichtes Auftragen
+- Anwendung: Punktuelles oder großflächiges Auftragen, XXL-Applikator mit abgerundeter Spitze für besonders einfaches Verteilen und Verblenden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

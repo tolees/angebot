@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Ultimate Edition enthält das Berserker-Siedlungspaket, das Berserker-Ausrüstungspaket, Das Berserker-Langschiffpaket und einen Satz Runen
-- Jede Entscheidung zählt und beeinflusst das Schicksal des eigenen Clans und der riesigen, wunderschönen Spielwelt maßgeblich
-- Wählen Sie zwischen der weiblichen oder dem männlichen Eivor und individualisieren Sie Ihren Charakter umfassend
 - Führen Sie Ihren Clan Nordmänner vom eisigen Norwegen über aufgepeitschtes Meer bis zu den zerbrochenen Königreichen Englands
+- Die Ultimate Edition enthält das Berserker-Siedlungspaket, das Berserker-Ausrüstungspaket, Das Berserker-Langschiffpaket und einen Satz Runen
+- Wählen Sie zwischen der weiblichen oder dem männlichen Eivor und individualisieren Sie Ihren Charakter umfassend
+- Jede Entscheidung zählt und beeinflusst das Schicksal des eigenen Clans und der riesigen, wunderschönen Spielwelt maßgeblich
 
 [🛒 Hier!!]({{< param buyurl >}})

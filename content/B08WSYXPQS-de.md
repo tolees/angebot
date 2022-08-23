@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Oberfläche des Gaming Controller ist gummiert und das Pad besitzt 10 Knöpfe, 2 Trigger- und Modus-Schalter sowie ein digitales Steuerkreuz und 2 Analogsticks
+- Die 2,4 GHz-Funktechnologie des wireless PC-Controllers sorgt für bis zu 10 Meter Reichweite und die integrierte 600mAh Lithium-Ionen-Batterie für bis zu 8 Stunden Spielzeit (Ladezeit ca. 2 Stunden)
 - Der kabellose RAIT Controller ist geeignet für PC, PS3 oder Nintendo Switch und ist per Software am Computer konfigurierbar. Der Anschluss erfolgt über einen USB-A Empfänger
 - Das Gamepad besitzt folgende Abmessungen: 147 × 105 × 67 Millimeter (B × T × H). Das Gewicht beträgt 245 Gramm
 - Neben einer Vibrationsfunktion bietet das RAIT zusätzlich eine Auto-Feuer-Funktion mit LED. Außerdem verfügt das Gamepad über DirectInput- und XInput-Kompatibilität
-- Die 2,4 GHz-Funktechnologie des wireless PC-Controllers sorgt für bis zu 10 Meter Reichweite und die integrierte 600mAh Lithium-Ionen-Batterie für bis zu 8 Stunden Spielzeit (Ladezeit ca. 2 Stunden)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

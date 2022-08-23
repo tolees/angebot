@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Ultimate Edition enthält das Berserker-Siedlungspaket, das Berserker-Ausrüstungspaket, Das Berserker-Langschiffpaket und einen Satz Runen
-- Käufer der Xbox One Version haben die Möglichkeit, per Smart Update auf Xbox Series X upzugraden
 - Führen Sie Ihren Clan Nordmänner vom eisigen Norwegen über aufgepeitschtes Meer bis zu den zerbrochenen Königreichen Englands
+- Die Ultimate Edition enthält das Berserker-Siedlungspaket, das Berserker-Ausrüstungspaket, Das Berserker-Langschiffpaket und einen Satz Runen
 - Wählen Sie zwischen der weiblichen oder dem männlichen Eivor und individualisieren Sie Ihren Charakter umfassend
+- Käufer der Xbox One Version haben die Möglichkeit, per Smart Update auf Xbox Series X upzugraden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

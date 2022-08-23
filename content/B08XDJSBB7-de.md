@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 x 2,5 GbE LAN, optional 10 GbE, 2 x PCIe 3.0 x 4 Slots, USB 3.2 Gen2 Typ-A & USB 3.2 Gen1 Typ-C Ports
-- 6 x SATA 6Gb/s Einschübe, 2 x M.2 NVMe PCIe Gen3 SSD Steckplätze
-- 8GB DDR4 RAM (2x SODIMM Steckplätze, max. 64 GB, optionale ECC-RAM-Unterstützung)
 - QTS und QuTS Hero Dual Betriebssystem für mehr Flexibilität
+- 6 x SATA 6Gb/s Einschübe, 2 x M.2 NVMe PCIe Gen3 SSD Steckplätze
+- 2 x 2,5 GbE LAN, optional 10 GbE, 2 x PCIe 3.0 x 4 Slots, USB 3.2 Gen2 Typ-A & USB 3.2 Gen1 Typ-C Ports
+- 8GB DDR4 RAM (2x SODIMM Steckplätze, max. 64 GB, optionale ECC-RAM-Unterstützung)
 
 [🛒 Hier!!]({{< param buyurl >}})

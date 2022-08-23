@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
-- Zum Zubehör des Feuerwehrspielzeugs gehören 4 Helme und ein Walkie-Talkie, eine Feuerwehraxt, ein Getränkebecher, ein Pizzakarton und Feuerlöscher-Elemente
-- Außerdem ist eine Straßenplatte enthalten, die sich mit den anderen neuen LEGO City Sets„Polizeistation“ (60316) und „Banküberfall mit Verfolgungsjagd“ (60317) verbinden lässt
-- Dieses Feuerwehr Set enthält eine dreistöckige Feuerwehrstation mit einer Spielzeuggarage, einer Rezeption, einem Quartier für die Feuerwehrleute und einem Kontrollraum
-- Inklusive 5 LEGO Minifiguren mit 2 Charakteren aus der TV-Serie LEGO City - Abenteuer (Freya McCloud und Finn McCormack) sowie einer Hunde- und Katzenfigur
-- Die Polizei- und Feuerwehrspielzeuge von LEGO City - Abenteuer sind tolle Geburtstagsgeschenke für Kinder, die rasanten Spielspaß in Rettungsfahrzeugen lieben
 - Außerdem umfasst das Set eine Auswahl an Rettungsfahrzeugen: einen Hubschrauber, der LEGO Wasserelemente verschießt, und ein Feuerwehrauto, das Wasserpfeile abfeuert
 - Mit der kostenlosen LEGO Bauanleitungen App können Kinder die fertigen Modelle beim Bauen vergrößern, drehen und betrachten
+- Die Polizei- und Feuerwehrspielzeuge von LEGO City - Abenteuer sind tolle Geburtstagsgeschenke für Kinder, die rasanten Spielspaß in Rettungsfahrzeugen lieben
+- Außerdem ist eine Straßenplatte enthalten, die sich mit den anderen neuen LEGO City Sets„Polizeistation“ (60316) und „Banküberfall mit Verfolgungsjagd“ (60317) verbinden lässt
+- Inklusive 5 LEGO Minifiguren mit 2 Charakteren aus der TV-Serie LEGO City - Abenteuer (Freya McCloud und Finn McCormack) sowie einer Hunde- und Katzenfigur
+- Optimierte Versandverpackung; Dein LEGO Set wird durch eine recyclebare Versandverpackung geschützt, so dass der Karton des Sets nicht beschädigt wird. Der Inhalt des Pakets wird durch einen Aufdruck auf der Versandverpackung offenbart
+- Zum Zubehör des Feuerwehrspielzeugs gehören 4 Helme und ein Walkie-Talkie, eine Feuerwehraxt, ein Getränkebecher, ein Pizzakarton und Feuerlöscher-Elemente
+- Dieses Feuerwehr Set enthält eine dreistöckige Feuerwehrstation mit einer Spielzeuggarage, einer Rezeption, einem Quartier für die Feuerwehrleute und einem Kontrollraum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
