@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Die Schule der magischen Tiere [Blu-ray]'
-date: 2022-08-22 08:34:17
+date: 2022-08-23 17:12:23
 image: 'https://m.media-amazon.com/images/I/514lWUmDjhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B09HCR88YK/?tag=tolees0ca-21'
 descuento: '20.01'
-average: '10.09'
+average: '10.28'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
