@@ -29,7 +29,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - SAISON, REGELN: Fahre in F1 22 mit Wagen einer Ära der Formula 1
-- F1 LIFE: Fröne dem Glanz und Glamour der Formula 1
 - DEFINIERTES RENNGESCHEHEN: Übernimm die Kontrolle über ihr virtuelles F1-Erlebnis mit immersiven und kinoreifen Boxenstopps, Einführungsrunden und mehr
+- F1 LIFE: Fröne dem Glanz und Glamour der Formula 1
 
 [🛒 Hier!!]({{< param buyurl >}})
