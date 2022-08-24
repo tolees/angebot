@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Enders 5676 Wetterschutzhülle  Schwarz  50 x 50 x 120 cm'
-date: 2020-01-16 09:07:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31r-pKqbvBL._SL400_.jpg'
+title: 'Enders® Polo 2.0 Wetterschutzhülle 5676 für Terrassenheizer  Heizpilz  Schwarz  50 x 50 x 120 cm  Witterungsbeständig  Outdoor'
+date: 2022-08-24 16:22:35
+image: 'https://m.media-amazon.com/images/I/215NAQecXGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B077DBH4FF-de Enders 5676 Wetterschutzhülle Schwarz 50 x 50 x 120 cm'
+slug: 'B077DBH4FF-de Enders® Polo 2.0 Wetterschutzhülle 5676 für...'
 sku: 'B077DBH4FF-de'
-tags: [ '🇩🇪', ]
-actualPrice: 19.9 EUR
+tags: [ 'Feuerstellenabdeckungen','Feuerstellenzubehör','Garten','Heizstrahler & Feuerstellen','Regular Stores','Shops','enders','🇩🇪', ]
+actualPrice: 17.96 EUR
 currency: EUR
-price: 19.9
-comparePrice: 26.9 EUR
-prodname: 'Enders 5676 Wetterschutzhülle  Schwarz  50 x 50 x 120 cm'
+price: 17.96
+comparePrice: 22.74 EUR
+prodname: 'Enders® Polo 2.0 Wetterschutzhülle 5676 für Terrassenheizer  Heizpilz  Schwarz  50 x 50 x 120 cm  Witterungsbeständig  Outdoor'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Enders'
 buyurl: 'https://www.amazon.de/dp/B077DBH4FF/?tag=tolees0ca-21'
-descuento: '26.02'
-average: '19.9'
+descuento: '21.02'
+average: '18.93'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,5 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schützt den Terrassenheizer optimal vor Witterungseinflüssen
+- Farbe: Schwarz
+- Hochwertiges Polyestergewebe mit PU- Beschichtung ist reißfest, UV-beständig und wasserdicht
+- Passt sich der Kontur des Terrassenheizers an
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
