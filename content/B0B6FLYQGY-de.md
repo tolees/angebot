@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Produkt 1: Extra-Features: Kocher (K) in Seitenablage integriert, leistungsstarker Infrarotbrenner (I), PanoVision Sichtfenster (S)
+- Produkt 1: Top-Features: 800 °C TURBO ZONE (4,2 kW) mit Infrarot-Mesh: erreicht turboschnell extra hohe Temperaturen für scharfes Anbraten. Die einfache Reinigung gelingt mit der SIMPLE CLEAN Funktion (werkzeuglos entnehmbare Einzelteile der Brennkammer)
 - Produkt 2: schützt Ihren Grill wie maßgeschneidert vor allen Witterungseinflüssen
+- Produkt 2: passend für Kansas 2+3+4, Boston 4 IK
 - Produkt 1: Edelstahl-Brennkammer mit Aluguss-Seitenteile und doppelwandige Garhaube mit hochwertigen Aluguss-Endkappen sorgen für ein langlebiges Grillvergnügen
 - Produkt 2: leicht in der Handhabung durch geringes Gewicht
-- Produkt 1: Heat Range: Die Brennerarchitektur Heat Range sorgt für eine optimale Hitzeverteilung bis in die Randzonen und begeistert durch Niedrigtemperaturgaren bei beständigen 80 °C und durch hohe Temperaturen bis zu 300 °C im Garraum
-- Produkt 1: Top-Features: 800 °C TURBO ZONE (4,2 kW) mit Infrarot-Mesh: erreicht turboschnell extra hohe Temperaturen für scharfes Anbraten. Die einfache Reinigung gelingt mit der SIMPLE CLEAN Funktion (werkzeuglos entnehmbare Einzelteile der Brennkammer)
 - Produkt 2: UV-beständige Spezialfaser mit atmungsaktiver PU-Beschichtung ist reißfest, farbstabil und wasserdicht
-- Produkt 2: passend für Kansas 2+3+4, Boston 4 IK
-- Produkt 1: Extra-Features: Kocher (K) in Seitenablage integriert, leistungsstarker Infrarotbrenner (I), PanoVision Sichtfenster (S)
+- Produkt 1: Heat Range: Die Brennerarchitektur Heat Range sorgt für eine optimale Hitzeverteilung bis in die Randzonen und begeistert durch Niedrigtemperaturgaren bei beständigen 80 °C und durch hohe Temperaturen bis zu 300 °C im Garraum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
