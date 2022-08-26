@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das Spielzeug-Baumhaus/der Beobachtungsposten aus LEGO Bausteinen verfügt über ein Bett, ein Waschbecken, eine Toilette, eine Leiter und eine Rutsche für Baby-Dinosaurier Bumpy.
+- Das LEGO Jurassic World Dinosaurier-Spielzeug für Jungen und Mädchen ab 4 Jahren enthält 2 Dinosaurier-Figuren, einen Geländewagen und ein Baumhaus.
 - Das LEGO Jurassic World Spielzeugset ist vollgepackt mit lustigem Zubehör wie einer Betäubungspistole, einer Karotte, einer Schaufel und einem Dino-Haufen für noch mehr Spaß.
 - Der leicht aufzubauende Geländewagen besitzt ein Fahrgestell aus LEGO Bausteinen und einen ausbaubaren Käfig für das Stygimoloch-Dinosaurierspielzeug.
-- Das LEGO Jurassic World Dinosaurier-Spielzeug für Jungen und Mädchen ab 4 Jahren enthält 2 Dinosaurier-Figuren, einen Geländewagen und ein Baumhaus.
-- Das Spielzeug-Baumhaus/der Beobachtungsposten aus LEGO Bausteinen verfügt über ein Bett, ein Waschbecken, eine Toilette, eine Leiter und eine Rutsche für Baby-Dinosaurier Bumpy.
 - Beinhaltet 3 Minifiguren: Ben, Brooklynn und Claire Dearing sowie Dinosaurier-Spielfiguren des Stygimoloch und des Baby-Ankylosaurus Bumpy.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
