@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- unbefüllt
 - mit weltberühmter Zippo Garantie
+- unbefüllt
 - robustes Messing Gehäuse
 - zündet bei Wind und Wetter
 

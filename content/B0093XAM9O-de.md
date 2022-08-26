@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Passend für Einlage DIN A 5
-- Format: 310 mm x 235 mm
 - PP-Kunststoff transparent natur
 - Mit 2 Fächern A5 nach rechts offen, jedes Fach mit 15 mm Füllhöhe und mit Klappe mit Klettverschluss, mit Abheftrand und Multilochung
+- Format: 310 mm x 235 mm
 
 [🛒 Hier!!]({{< param buyurl >}})

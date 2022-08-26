@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Leuchte ist 100% batterieunabhängig und lässt sich optimal an jede Situation anpassen. Daher eignet sie sich für Auto, Wohnwagen, Schuppen, Boot, Garage, Reparatur- und Bauarbeiten oder bei Nacht am Lagerfeuer
-- Immer Licht – die Taschenlampe wird durch die Verwendung der angefügten Kurbel mit Energie versorgt und ist daher batterieunabhängig
 - Die Verbindung aus robustem ABS Kunststoff und einer hochwertigen 3x 5mm LED Technologie überzeugt sowohl im Indoor- als auch Outdoorbereich
-- Die Dynamo LED Taschenlampe ist spritzwassergeschützt und somit ideal für den Arbeitseinsatz, Stromausfall, Camping, Picknick, Wandern, Walken, Zelten, Radfahren, Klettern und andere Outdoor-Aktivitäten sowie als Hilfs- bzw. Notlicht
+- Immer Licht – die Taschenlampe wird durch die Verwendung der angefügten Kurbel mit Energie versorgt und ist daher batterieunabhängig
 - Mit Hilfe des trendigen Lithium - Ionen Akku (Kapazität 120mAh) lässt sich durch 1 Minute Kurbeln bis zu 30 Minuten Licht erzeugen. Sofern der Akku vollständig geladen ist, kann die Taschenlampe bis zu 1 Stunde verwendet werden
+- Die Leuchte ist 100% batterieunabhängig und lässt sich optimal an jede Situation anpassen. Daher eignet sie sich für Auto, Wohnwagen, Schuppen, Boot, Garage, Reparatur- und Bauarbeiten oder bei Nacht am Lagerfeuer
+- Die Dynamo LED Taschenlampe ist spritzwassergeschützt und somit ideal für den Arbeitseinsatz, Stromausfall, Camping, Picknick, Wandern, Walken, Zelten, Radfahren, Klettern und andere Outdoor-Aktivitäten sowie als Hilfs- bzw. Notlicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Innovative Vernetzung zwischen Smartphone und Thermometer via Bluetooth mit den kostenlosen Apps beurer HealthManager und beurer BabyCare
 - Lieferumfang: Beurer FT 95, eine Aufbewahrungsbox, 2x 1,5 V AAA Batterien, eine Gebrauchsanweisung
-- Integrierter LED-Fieberalarm zur schnellen Erkennung von erhöhter Temperatur oder Fieber, zusätzlich 60 Speicherplätze für die Nachverfolgung der Temperatur
-- Anzeige der Messwerte in °C oder °F auf dem gut lesbaren Display, auch Objekt- oder Raumtemperaturmessung möglich
 - Berührungsfreie Infrarot-Messtechnik ohne Hautkontakt zur hygienischen und sicheren Fiebermessung an der Stirn, besonders geeignet für Babys und Kleinkinder
+- Anzeige der Messwerte in °C oder °F auf dem gut lesbaren Display, auch Objekt- oder Raumtemperaturmessung möglich
+- Integrierter LED-Fieberalarm zur schnellen Erkennung von erhöhter Temperatur oder Fieber, zusätzlich 60 Speicherplätze für die Nachverfolgung der Temperatur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
