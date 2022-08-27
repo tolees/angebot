@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mittlere Röstung: Der Kaffee wird schonend geröstet und erhält so seine besonderen Aromen​
-- Lang anhaltender Geschmack: schokoladig, cremig, aromatisch​
-- Kräftige Intensität: 8 von 10 ​
 - Beste Qualität: Unser Caffè Crema e Aroma besteht aus einer Mischung erlesener Arabica- und Robusta-Bohnen aus Südamerika, Afrika und Südasien​
-- Perfekte Zubereitung: ideal geeignet für Caffè Crema und Kaffeespezialitäten mit Milch aus dem Kaffeevollautomaten​
+- Lang anhaltender Geschmack: schokoladig, cremig, aromatisch​
 - Klassischer Genuss: hochwertige Kaffeebohnen in der 1-kg-Packung​
+- Mittlere Röstung: Der Kaffee wird schonend geröstet und erhält so seine besonderen Aromen​
+- Kräftige Intensität: 8 von 10 ​
+- Perfekte Zubereitung: ideal geeignet für Caffè Crema und Kaffeespezialitäten mit Milch aus dem Kaffeevollautomaten​
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
