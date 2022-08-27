@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Genehmigung (V16)
+- Wasser und schneebeständig
 - Magnetische LED-Notleuchte zugelassen
 - Batterien enthalten
+- Genehmigung (V16)
 - Empfohlen von der DGT
-- Wasser und schneebeständig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
