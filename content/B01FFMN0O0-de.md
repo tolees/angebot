@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proxxon 23972 Steckschlüsseleinsatz IMPACT  extralang zum Einsatz mit Druckluftschraubern  extreme Verschleißfestigkeit  1/2 Zoll  Länge: 130 mm  Durchmesser 17 mm  Drehmoment: 500 Nm'
-date: 2022-08-24 16:15:17
+date: 2022-08-27 18:57:31
 image: 'https://m.media-amazon.com/images/I/21MzTBTFfHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
