@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der neue, bürstenlose Hochleistungsmotor kann mit ProCORE18V Akkus mit mindestens 5,5 Ah kombiniert werden, um maximale Leistung und Betriebsdauer zu erreichen
-- Professional 18V System. Ultimative Leistung. Maximale Freiheit. Alle Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel.
 - Ergonomisch und leicht: Leichtes Design, ergonomische Handgriffe, geschützte Aufbewahrung der Anschlagschiene und Sägeblattschutzabdeckung für einen einfachen und sicheren Transport
 - Lieferumfang: GTS 18V-216, Karton
+- Der neue, bürstenlose Hochleistungsmotor kann mit ProCORE18V Akkus mit mindestens 5,5 Ah kombiniert werden, um maximale Leistung und Betriebsdauer zu erreichen
+- Professional 18V System. Ultimative Leistung. Maximale Freiheit. Alle Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen der gleichen Spannungsklasse kompatibel.
 - Hohe Schnittkapazität für alle Hauptanwendungen: dank optimiertem Design; 70 mm Schnitthöhe und 635 mm Schnittbreite
 
 [🛒 Hier!!]({{< param buyurl >}})
