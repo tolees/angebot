@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Anzahl der Teile: 841
+- Enthält drei berühmte Ferrari Rennwagen, eine Werkstatt/Museum und eine ergänzbare Rennstrecke
+- Ferrari Ultimative Garage
 - Vom Hersteller empfohlenes Alter: 8-14
 - Die renntauglichen Ferrari 250 GTO, 488 GTE und der historische 312 T4 zum Zusammenbauen verfügen jeweils über ein Minifiguren-Cockpit, Räder mit Gummireifen, authentische Designdetails, Rennfarben und Rennaufkleber
-- Enthält drei berühmte Ferrari Rennwagen, eine Werkstatt/Museum und eine ergänzbare Rennstrecke
-- Anzahl der Teile: 841
-- Ferrari Ultimative Garage
 
 [🛒 Hier!!]({{< param buyurl >}})
