@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - In der 10 Missionen umfassenden und voll vertonten Einzelspieler-Kampagne ist dein Geschick als Kommandant der Spacebase Startopia gefragt
-- Die dynamische Erzähler-KI "VAL" reagiert auf deine Entscheidungen und steht dir stets, oder der auch mal mit unqualifizierten Kommentaren, zur Seite
 - Kompetitiver und kooperativer Mehrspieler-Modus für bis zu 4 Spieler
+- Die dynamische Erzähler-KI "VAL" reagiert auf deine Entscheidungen und steht dir stets, oder der auch mal mit unqualifizierten Kommentaren, zur Seite
 - Setze dich gegen deine Mitkonkurrenten durch - kleine Akte der Wirtschaftssabotage oder Attacken mit Mech-Einheiten erhalten die Feindschaft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gummi
+- Gummi
 - Ohne Verschluss
 - Textil
-- Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

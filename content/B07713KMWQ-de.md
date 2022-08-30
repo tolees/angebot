@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerippter Ausschnitt
-- Details
-- Regular Fit
 - Grafikprint
+- Gerippter Ausschnitt
+- Regular Fit
+- Details
 
 [🛒 Hier!!]({{< param buyurl >}})

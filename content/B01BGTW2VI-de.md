@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normaler Bund
-- Normale Leibhöhe
 - Schmal zulaufendes Bein vom Oberschenkel bis zum Saum
+- Normale Leibhöhe
+- Normaler Bund
 - 3D Tapered Fit
 - Reißverschluss
 

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normaler Bund
+- Normale Leibhöhe
 - Schmal zulaufendes Bein vom Oberschenkel bis zum Saum
 - 3D Tapered Fit
 - Reißverschluss
-- Normale Leibhöhe
+- Normaler Bund
 
 [🛒 Hier!!]({{< param buyurl >}})

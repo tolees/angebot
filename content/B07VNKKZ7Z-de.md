@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideale Heads für Sub-Ohm-Dampfer (direkte Lungeninhalation - direct lung DL)
 - Widerstand von 0,23 Ohm - für einen Leistungsbereich zwischen 65 und 75 Watt
-- Verdampferköpfe im praktischen 4er Pack - hergestellt von Uwell und passend für Crown 4 Clearomizer
 - PlugnPull Fertigverdampferköpfe mit Drahtgeflecht-Wicklung - Köpfe werden gesteckt, nicht geschraubt
+- Verdampferköpfe im praktischen 4er Pack - hergestellt von Uwell und passend für Crown 4 Clearomizer
+- Ideale Heads für Sub-Ohm-Dampfer (direkte Lungeninhalation - direct lung DL)
 - Lieferumfang: 4 x Crown 3 UN2 Verdampferköpfe mit 0,23 Ohm Widerstand
 
 [🛒 Hier!!]({{< param buyurl >}})

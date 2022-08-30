@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Diese Revend-Jeans ist im Skinny Fit geschnitten. Die Gesäßtaschen sind unten mit einer zusätzlichen Lage verstärkt.
-- Eng anliegend vom Oberschenkel bis zum Saum
 - Tief sitzend
-- Schmale Taille
+- Eng anliegend vom Oberschenkel bis zum Saum
+- Diese Revend-Jeans ist im Skinny Fit geschnitten. Die Gesäßtaschen sind unten mit einer zusätzlichen Lage verstärkt.
 - Die 5-Taschen-Jeans im Super Slim Fit liegt von der Taille bis zum Knöchel eng an.
+- Schmale Taille
 
 [🛒 Hier!!]({{< param buyurl >}})

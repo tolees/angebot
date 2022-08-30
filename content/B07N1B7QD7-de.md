@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tief sitzend
 - Die 5-Taschen-Jeans im Super Slim Fit liegt von der Taille bis zum Knöchel eng an.
+- Eng anliegend vom Oberschenkel bis zum Saum
+- Tief sitzend
 - Schmale Taille
 - Diese Revend-Jeans ist im Skinny Fit geschnitten. Die Gesäßtaschen sind unten mit einer zusätzlichen Lage verstärkt.
-- Eng anliegend vom Oberschenkel bis zum Saum
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Details
-- Grafik-Logo auf der Brust
-- Slim Fit
 - Gerippter Ausschnitt
+- Grafik-Logo auf der Brust
 - Runder Ausschnitt
+- Slim Fit
+- Details
 
 [🛒 Hier!!]({{< param buyurl >}})
