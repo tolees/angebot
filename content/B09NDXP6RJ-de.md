@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Speedlink Gravity 2.1 Subwoofer System – Lautsprechersystem mit Bluetooth-Verbindung  Holzgehäuse  schwarz'
-date: 2022-08-17 15:07:34
+title: 'Speedlink Gravity Carbon 2.1 Subwoofer Lautsprechersystem -  120W Peak-Power  Bluetooth-Verbindung für Smartphone/Tablet   schwarz'
+date: 2022-08-30 17:24:50
 image: 'https://m.media-amazon.com/images/I/31YEph04uZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09NDXP6RJ-de Speedlink Gravity 2.1 Subwoofer System –...'
+slug: 'B09NDXP6RJ-de Speedlink Gravity Carbon 2.1 Subwoofer Lautsprechersystem...'
 sku: 'B09NDXP6RJ-de'
 tags: [ 'Musikinstrumente & DJ-Equipment','Musikinstrumente & Equipment','PA-Lautsprecher','PA-Technik & Bühnentechnik','Subwoofer','speedlink','🇩🇪', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0
 comparePrice: 99.99 EUR
-prodname: 'Speedlink Gravity 2.1 Subwoofer System – Lautsprechersystem mit Bluetooth-Verbindung  Holzgehäuse  schwarz'
+prodname: 'Speedlink Gravity Carbon 2.1 Subwoofer Lautsprechersystem -  120W Peak-Power  Bluetooth-Verbindung für Smartphone/Tablet   schwarz'
 country: 'de'
 flag: '🇩🇪'
 brand: 'SPEEDLINK'
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lautstärke und Bass lassen sich über einen Regler direkt am Subwoofer einstellen
 - Die separate Tischfernbedienung ermöglicht eine bequeme Lautstärkeregelung und verfügt über einen AUX-In-Anschluss
 - Der kräftige Subwoofer mit Holzgehäuse liefert intensive Bässe und ein hohes Klangvolumen
-- Lautstärke und Bass lassen sich über einen Regler direkt am Subwoofer einstellen
-- Der eigene Netzschalter verhindert unnötigen Stromverbrauch
 - Das Lautsprechersystem kann über eine Bluetooth-Verbindung mit Smartphones und Tablets genutzt werden
+- Der eigene Netzschalter verhindert unnötigen Stromverbrauch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
