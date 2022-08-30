@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Flachstrickkragen und -bündchen
 - Straight Fit
 - 2-Knopf-Verschluss
-- Flachstrickkragen und -bündchen
 
 [🛒 Hier!!]({{< param buyurl >}})
