@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinder ab dem Grundschulalter erhalten dank der einjährigen Mitgliedschaft bei Amazon Kids+ Zugriff auf Tausende Apps, Spiele, Bücher, Videos, Songs und Audible-Hörbücher und -Hörspiele. Enthalten sind auch über 100 Lern-Apps wie Blitzrechnen, Lernerfolg Grundschule und Conni Englisch.
 - Zusätzlich zu Inhalten von Amazon Kids+ bieten Kids Pro-Tablets Zugriff auf einen digitalen Shop. Dort können Kinder den Kauf oder Download von Apps wie ANTON, Minecraft oder Netflix anfragen und diesen von Eltern bestätigen lassen.
+- Webbrowser: Eingebaute Filter helfen dabei, nicht altersgerechte Inhalte zu blockieren. Eltern können zudem bestimmte Websites gezielt sperren.
+- 2 Jahre Sorglos-Garantie: Sollte das Gerät kaputtgehen, ersetzen wir es kostenlos.
+- Ein vollwertiges 8-Zoll-Tablet (kein Spielzeug), eine kindgerechte Hülle, Kindersicherung, 2 Jahre Sorglos-Garantie und 1 Jahr Amazon Kids+.
 - Quad-Core-Prozessor, 2 GB RAM, 8-Zoll-HD-Display, zwei Kameras, USB-C-Anschluss (2.0) und bis zu 1 TB erweiterbarer Speicherplatz.
 - In Verbindung bleiben: Eltern können Kindern erlauben, Sprach- und Videoanrufe mit ausgewählten Kontakten zu tätigen und Ankündigungen über das WLAN zu senden. Kontakte müssen über ein Alexa-fähiges Gerät oder die Alexa App verfügen.
-- 2 Jahre Sorglos-Garantie: Sollte das Gerät kaputtgehen, ersetzen wir es kostenlos.
-- Webbrowser: Eingebaute Filter helfen dabei, nicht altersgerechte Inhalte zu blockieren. Eltern können zudem bestimmte Websites gezielt sperren.
-- Ein vollwertiges 8-Zoll-Tablet (kein Spielzeug), eine kindgerechte Hülle, Kindersicherung, 2 Jahre Sorglos-Garantie und 1 Jahr Amazon Kids+.
+- Kinder ab dem Grundschulalter erhalten dank der einjährigen Mitgliedschaft bei Amazon Kids+ Zugriff auf Tausende Apps, Spiele, Bücher, Videos, Songs und Audible-Hörbücher und -Hörspiele. Enthalten sind auch über 100 Lern-Apps wie Blitzrechnen, Lernerfolg Grundschule und Conni Englisch.
 
 [🛒 Hier!!]({{< param buyurl >}})
