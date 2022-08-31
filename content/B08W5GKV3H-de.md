@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zur weiteren Ausstattung des Boot Spielzeugs für Jungen und Mädchen gehören ein Brettspielstein, Schwimmwesten, ein Picknicktisch und eine Bratpfanne mit einem Spiegelei
+- Das Dach des Vans ist aufklappbar, um einen einfachen Zugang zur Küche zu ermöglichen, während das Boot vom Anhänger abgekoppelt wird und ein bewegliches Segel und Ruder hat
+- Als Zubehör in dem Wohnmobil Spielzeug gibt es Gepäck auf dem Dach, 3 Sonnenmatratzen, eine Wasserflasche, ein Skateboard, einen Helm, ein Telefon, ein GPS, eine Kamera
+- Sehen Sie sich andere LEGO Friends Sets an, die man miteinander kombinieren kann: Wasserfall im Wald (41677), Baumhaus im Wald (41679) und Reiterhof im Wald (41683)
 - Dieses LEGO Friends Camping-Abenteuer-Set enthält insgesamt drei Mini-Puppen: die beiden Mädchen Stephanie und Emma und Ethan, eine Waschbär-Tierfigur
 - Das LEGO Friends Camping Set enthält ein Wohnmobil, ein Segelboot, einen See mit Bootssteg und eine Picknick-Szene in den Bergen zum Spielen für die ultimativen Campingabenteuer
-- Sehen Sie sich andere LEGO Friends Sets an, die man miteinander kombinieren kann: Wasserfall im Wald (41677), Baumhaus im Wald (41679) und Reiterhof im Wald (41683)
-- Als Zubehör in dem Wohnmobil Spielzeug gibt es Gepäck auf dem Dach, 3 Sonnenmatratzen, eine Wasserflasche, ein Skateboard, einen Helm, ein Telefon, ein GPS, eine Kamera
-- Das Dach des Vans ist aufklappbar, um einen einfachen Zugang zur Küche zu ermöglichen, während das Boot vom Anhänger abgekoppelt wird und ein bewegliches Segel und Ruder hat
 
 [🛒 Hier!!]({{< param buyurl >}})

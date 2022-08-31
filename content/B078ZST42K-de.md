@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Speicherkapazität 960GB
 - Sequenzielle Lese-/Schreibgeschwindigkeit: bis zu 550MB/s / 515MB/s
-- Serial ATA III-Schnittstelle/6 GBP
-- Ideal zur Leistungssteigerung von System und Anwendungen aller Computer-Typen
 - Slim-Format 7mm
+- Ideal zur Leistungssteigerung von System und Anwendungen aller Computer-Typen
 - PNY SSD7CS900-960-PB Interner Flashspeicher Solid State Drive
+- Serial ATA III-Schnittstelle/6 GBP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
