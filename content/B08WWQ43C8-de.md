@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Eine wundervolle Geschenkidee für Kinder, die bereits ein LEGO-Super-Mario-Starterset (71360 oder 71387) haben, das für das Spiel benötigt wird.
+- Die sammelbaren Spielsets von LEGO Super Mario erwecken die legendären Charaktere zum Leben, mit denen Kinder ihre eigenen einzigartigen Level kreieren können
+- Das Upgrade-Set enthält außerdem Wasserlilien- und blaue „Wasser“-Elemente, um das kreative Spiel zu unterstützen.
 - Mit interaktivem Kostüm für die Mario-Figur oder Luigi-Figur (nicht enthalten) – hüpfender, spritziger Spielspaß!
 - Spieler können digitale Münzen sammeln, wenn sie die Figur springen lassen, und Platschgeräusche werden ausgelöst, wenn die Figur landet
-- Die sammelbaren Spielsets von LEGO Super Mario erwecken die legendären Charaktere zum Leben, mit denen Kinder ihre eigenen einzigartigen Level kreieren können
-- Eine wundervolle Geschenkidee für Kinder, die bereits ein LEGO-Super-Mario-Starterset (71360 oder 71387) haben, das für das Spiel benötigt wird.
-- Das Upgrade-Set enthält außerdem Wasserlilien- und blaue „Wasser“-Elemente, um das kreative Spiel zu unterstützen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
