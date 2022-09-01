@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Schneider Sonnenschirm Rhodos  anthrazit  300 x 300 cm quadratisch  782-15  Gestell Alu/Stahl  Bespannung Polyester  24 kg'
-date: 2022-08-23 17:56:49
+date: 2022-09-01 16:32:24
 image: 'https://m.media-amazon.com/images/I/31F2BEMt+ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - UV-Schutz 50+ nach australisch-neuseeländischer Norm (AS/NZS4399)
-- Alu/Stahl-Gestell anthrazitgrau pulverbeschichtet, Stock einteilig ca. 53 x 77 mm
-- Per Drehteller mit Fußpedal um 360° drehbar, entlang des Mastes neigbar
-- Bespannung 100% Polyester, ca. 200 g/m², mit Volant, verrottungsfest, wasserabstoßend imprägniert, abnehmbar für Handwäsche
 - Inkl. lichtundurchlässiger Schutzhülle mit Reißverschluss und Stab, inkl. Plattenständer für Wegeplatten 50 x 50 x 5 cm (Lieferung ohne Platten)
+- Per Drehteller mit Fußpedal um 360° drehbar, entlang des Mastes neigbar
+- Alu/Stahl-Gestell anthrazitgrau pulverbeschichtet, Stock einteilig ca. 53 x 77 mm
+- Bespannung 100% Polyester, ca. 200 g/m², mit Volant, verrottungsfest, wasserabstoßend imprägniert, abnehmbar für Handwäsche
 
 [🛒 Hier!!]({{< param buyurl >}})
