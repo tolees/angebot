@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leckere Crema für Ihren Kaffee
-- Ein oder Zwei Tassen gleichzeitig
 - Kaffee-Boost Technologie
 - Anpasspare Abtropfschale
+- Ein oder Zwei Tassen gleichzeitig
 - XL-Wassertank; für bis zu 11 Tassen
 - Automatische Abschaltung
+- Leckere Crema für Ihren Kaffee
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

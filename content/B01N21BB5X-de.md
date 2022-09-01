@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UV-Schutz 50+ nach australisch-neuseeländischer Norm (AS/NZS4399)
-- Inkl. lichtundurchlässiger Schutzhülle mit Reißverschluss und Stab, inkl. Plattenständer für Wegeplatten 50 x 50 x 5 cm (Lieferung ohne Platten)
-- Per Drehteller mit Fußpedal um 360° drehbar, entlang des Mastes neigbar
 - Alu/Stahl-Gestell anthrazitgrau pulverbeschichtet, Stock einteilig ca. 53 x 77 mm
+- Per Drehteller mit Fußpedal um 360° drehbar, entlang des Mastes neigbar
+- Inkl. lichtundurchlässiger Schutzhülle mit Reißverschluss und Stab, inkl. Plattenständer für Wegeplatten 50 x 50 x 5 cm (Lieferung ohne Platten)
 - Bespannung 100% Polyester, ca. 200 g/m², mit Volant, verrottungsfest, wasserabstoßend imprägniert, abnehmbar für Handwäsche
+- UV-Schutz 50+ nach australisch-neuseeländischer Norm (AS/NZS4399)
 
 [🛒 Hier!!]({{< param buyurl >}})
