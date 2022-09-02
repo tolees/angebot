@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Ein Klick auf das Markenlogo führt zum URBAN CLASSICS Brand Store und noch mehr angesagter Streetwear
 - Perfekt für den Sommer dank des angenehm luftigen Materials
-- Erhältlich in 3 angesagten Farben
 - Der Bund ist gesmoked für eine angenehme Passform
+- Erhältlich in 3 angesagten Farben
 - Bequeme Damen Hose nach Art eines Sarong
 
 [🛒 Hier!!]({{< param buyurl >}})

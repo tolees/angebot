@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Abnehmbares, maschinenwaschbares Sitzpolster
 - 360° Spiel- und Entdeckerspaß – ein Türrahmen ist überflüssig
-- Die bunten Spielzeuge umfassen eine Löwendrehrolle, einen Krokodilklicker, eine Schmetterlingsbeißhilfe, einen Elefanten und ein Flusspferd, bunte Lichter, Spiegel und vieles mehr
 - Leicht höhenverstellbar auf 3 verschiedene Höhen für größer werdende Babys
+- Die bunten Spielzeuge umfassen eine Löwendrehrolle, einen Krokodilklicker, eine Schmetterlingsbeißhilfe, einen Elefanten und ein Flusspferd, bunte Lichter, Spiegel und vieles mehr
 - Warum hat dieses Produkte eine ‘reduzierte Verpackung‘? Wir haben intensiv daran gearbeitet die Menge an unnötigem Material und Luftraum in unserer langanhaltenden Verpackung zu reduzieren um damit Abfall und Emission zu minimieren
 - Musik, Lichter und Geräusche belohnen jeden Hopser und animieren zu mehr Aktivität
 

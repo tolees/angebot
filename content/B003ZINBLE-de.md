@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kräftige Aromen von gerösteter Eiche, Vanille und Karamell
 - Mit seinem besonders weichen und vollmundigen Geschmacksprofil, gehört Makers Mark zu den mildesten Premium Bourbons weltweit
-- Nach altem Familienrezept in der ältesten Bourbon-Destillerie der Welt hergestellt, wo Handarbeit und Tradition noch großgeschrieben werden
+- Kräftige Aromen von gerösteter Eiche, Vanille und Karamell
 - Geschmack von Toffee, Nuancen von Gebäck und frischen Früchten
-- Die Etiketten werden noch heute per Hand gestanzt und jede Flasche wird in rotes Wachs getaucht und versiegelt
 - Mit Liebe hergestellt. Perfekt gekleidet. Makers Mark das perfekte Weihnachtsgeschenk
+- Nach altem Familienrezept in der ältesten Bourbon-Destillerie der Welt hergestellt, wo Handarbeit und Tradition noch großgeschrieben werden
+- Die Etiketten werden noch heute per Hand gestanzt und jede Flasche wird in rotes Wachs getaucht und versiegelt
 
 [🛒 Hier!!]({{< param buyurl >}})
