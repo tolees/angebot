@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany GmbH - Fast & Furious - 9-Movie Collection [9 DVDs]'
-date: 2022-09-02 17:19:27
+date: 2022-09-03 17:22:13
 image: 'https://m.media-amazon.com/images/I/41xjWA8sqlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B09CRY3QXQ/?tag=tolees0ca-21'
 descuento: '17.70'
-average: '43.1646428571428'
+average: '43.0208771929824'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
