@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Kinder können den Strand beobachten, mit dem Floatie aufs Meer hinausfahren, sich im Windsurfen üben oder einen Surfverleih eröffnen
-- Mit den LEGO Friends Minipuppen Stephanie als Rettungsschwimmer, Koa und Maya und Zubehör wie Schwimmweste, Eislutscher und Fernglas
-- Kleine Wasserratten werden dieses LEGO Friends Strand Set mit Dusche, einem Verleih und einem Surfbrett und weiterem Zubehör lieben
 - Die LEGO Friends Surfschule ist ein lustiges Geschenk zum Geburtstag oder zu den Ferien und ein spannendes Spielzeug für Kinder ab 6 Jahre
 - Dieses sommerliche LEGO Friends Spielset enthält einen Rettungstumr, eine Surfschule mit Klassenzimmer und ein Spielzeug Einhorn Floatie
+- Kleine Wasserratten werden dieses LEGO Friends Strand Set mit Dusche, einem Verleih und einem Surfbrett und weiterem Zubehör lieben
 - Enthält außerdem Schwimmflossen, Rettungsring und Schnorchel, Fische, Flaggen, ein Walkie-Talkie und eine Spielzeug Schildkröte
+- Mit den LEGO Friends Minipuppen Stephanie als Rettungsschwimmer, Koa und Maya und Zubehör wie Schwimmweste, Eislutscher und Fernglas
 
 [🛒 Hier!!]({{< param buyurl >}})

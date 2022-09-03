@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SMART HOME KOMPATIBEL: funktioniert mit Alexa, Apple HomeKit [SmartHub / Basisstation erforderlich], Google Assistant, IFTTT und SmartThings.
-- ÜBERWACHUNGSKAMERA LIVE-STREAM, AUFZEICHNUNG & DATENSCHUTZ: Videos können sowohl im Live-Stream, als auch im Nachgang über den lokalen Speicher via SD Karte [SmartHub / Basisstation erforderlich] kostenlos gesichtet werden oder über Cloud-Speicher gegen eine zusätzliche Gebühr. Ihre Aufzeichnungen werden sicher gespeichert und sind nur für Sie zugänglich.
-- INSTALLATION: Einfache Installation und Verbindung mit der Arlo App innerhalb von 10 Minuten ohne Verdrahtung oder professionelle Unterstützung
-- ARLO SECURE PLAN: Melden Sie sich für einen Arlo Secure Serviceplan an, um erweiterte Kamerafunktionen freizuschalten. Gegen eine geringe monatliche Gebühr können Sie Ihre Sicherheit anpassen. Die kostenlose 90-Tage Testversion ist standardmäßig enthalten.
-- KONFIGURATION: Die Arlo Pro3 Zusatzkamera erfordert einen separat erhältlichen SmartHub
-- VIDEOQUALITÄT & ZOOM: 2K HDR Videoüberwachung bei Tag und Nacht - vergrößern Sie wichtige Details mit bis zu 12-fachem Digitalzoom
-- WETTERFEST: hochwertige Materialien und der IP65 Standard machen Ihre Kamera widerstandsfähig gegen Regen, Schnee, Kälte und Sonne - für einen ganzjährigen und zuverlässigen Schutz.
-- TOP-FEATURES: Diagonales 160° Weitwinkelobjektiv, integriertes Spotlight mit Bewegungserkennung, 2-Wege-Audio zur Warnung oder als Gegensprechanlage, integrierte Sirene per Fernauslösung oder automatisch bei Bewegung, Nachtsicht in Farbe
 - AKKULAUFZEIT & LADEOPTIONEN: bei durchschnittlicher Nutzung hält der Akku bis zu 6 Monate, für Sicherheit ohne Unterbrechung kann die Stromversorgung mit separat erhältlichem Ladekabel für den Außenbereich oder umweltfreundlichem Solar Panel geschaffen werden
+- VIDEOQUALITÄT & ZOOM: 2K HDR Videoüberwachung bei Tag und Nacht - vergrößern Sie wichtige Details mit bis zu 12-fachem Digitalzoom
+- INSTALLATION: Einfache Installation und Verbindung mit der Arlo App innerhalb von 10 Minuten ohne Verdrahtung oder professionelle Unterstützung
+- ÜBERWACHUNGSKAMERA LIVE-STREAM, AUFZEICHNUNG & DATENSCHUTZ: Videos können sowohl im Live-Stream, als auch im Nachgang über den lokalen Speicher via SD Karte [SmartHub / Basisstation erforderlich] kostenlos gesichtet werden oder über Cloud-Speicher gegen eine zusätzliche Gebühr. Ihre Aufzeichnungen werden sicher gespeichert und sind nur für Sie zugänglich.
+- WETTERFEST: hochwertige Materialien und der IP65 Standard machen Ihre Kamera widerstandsfähig gegen Regen, Schnee, Kälte und Sonne - für einen ganzjährigen und zuverlässigen Schutz.
+- ARLO SECURE PLAN: Melden Sie sich für einen Arlo Secure Serviceplan an, um erweiterte Kamerafunktionen freizuschalten. Gegen eine geringe monatliche Gebühr können Sie Ihre Sicherheit anpassen. Die kostenlose 90-Tage Testversion ist standardmäßig enthalten.
 - SOFTWARE TRIFFT AUF HARDWARE: Die Arlo Sicherheitskamera kann mit der Arlo App und somit künstlicher Intelligenz verbunden werden, um bei Bewegungen sofort benachrichtigt zu werden - für sofortige Bewegungsmeldungen und Live-Stream fallen keine monatlichen Kosten an.
+- SMART HOME KOMPATIBEL: funktioniert mit Alexa, Apple HomeKit [SmartHub / Basisstation erforderlich], Google Assistant, IFTTT und SmartThings.
+- KONFIGURATION: Die Arlo Pro3 Zusatzkamera erfordert einen separat erhältlichen SmartHub
+- TOP-FEATURES: Diagonales 160° Weitwinkelobjektiv, integriertes Spotlight mit Bewegungserkennung, 2-Wege-Audio zur Warnung oder als Gegensprechanlage, integrierte Sirene per Fernauslösung oder automatisch bei Bewegung, Nachtsicht in Farbe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
