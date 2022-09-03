@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält ein zweistöckiges Bankgebäude, einen Gauner-Müllauto, einen Polizeihubschrauber und einen Polizei-LKW sowie eine Spielzeugdrohne für spannende Verfolgungsjagden
 - Zu diesem Spielzeug-Gebäudeset gehört viel lustiges Zubehör, inklusive Geldscheine, eine leuchtende Taschenlampe, ein Telefon und Handschellen
-- Anschließend können sie den Hubschrauber mit der Netzkanone abheben lassen, den gepanzerten LKW starten und der Polizei beim Festnehmen der Ganoven helfen!
+- Enthält ein zweistöckiges Bankgebäude, einen Gauner-Müllauto, einen Polizeihubschrauber und einen Polizei-LKW sowie eine Spielzeugdrohne für spannende Verfolgungsjagden
 - Die Kinder können den LKW ausklappen, um eine Hebebühne mit einem Presslufthammer zum Vorschein zu bringen, und die Wand der Bank aufbrechen, um sich das Gold zu schnappen
 - Inklusive 5 Figuren aus der TV-Serie LEGO City - Abenteuer: Betty, Hacksaw Hank, Vito, Rooky Partnur und Sam Grizzled sowie einer Gauner-Minifigur
+- Anschließend können sie den Hubschrauber mit der Netzkanone abheben lassen, den gepanzerten LKW starten und der Polizei beim Festnehmen der Ganoven helfen!
 
 [🛒 Hier!!]({{< param buyurl >}})
