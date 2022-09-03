@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Optimiert für Komfort und Komfort
+- Offizielles Xbox lizenziertes Headset
 - Kompatibel mit Xbox One und Xbox Series X|S
 - Eindrucksvoller In-Game-Sound
-- Offizielles Xbox lizenziertes Headset
 
 [🛒 Hier!!]({{< param buyurl >}})
