@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses LEGO Batman-Spielzeug zum Bauen für Kinder ab 6 Jahren enthält einen Batarang, eine Enterhakenpistole, eine Kette, ein Edelsteinelement und ein leuchtendes Bat-Signal
-- Das LEGO Superhelden-Set enthält 2 leistungsstarke Motorrad-Spielzeuge sowie Minifiguren von Batman mit Stoffumhang und Selina Kyle alias Catwoman
 - Mit seinem Batarang und seiner Enterhakenpistole ist Batman bereit, das Verbrechen zu bekämpfen, während Catwoman eine Kette in der Hand hält … das Abenteuer ruft!
-- Kinder können mit Batman und Catwoman durch GOTHAM CITY rasen, doch wenn das Bat-Signal zu leuchten beginnt, muss Batman ihm folgen!
 - Die kostenlose LEGO Building Instructions App enthält eine zusätzliche digitale Anleitung, mit der Kinder ihr Modell vergrößern, drehen und visualisieren können
+- Das LEGO Superhelden-Set enthält 2 leistungsstarke Motorrad-Spielzeuge sowie Minifiguren von Batman mit Stoffumhang und Selina Kyle alias Catwoman
+- Dieses LEGO Batman-Spielzeug zum Bauen für Kinder ab 6 Jahren enthält einen Batarang, eine Enterhakenpistole, eine Kette, ein Edelsteinelement und ein leuchtendes Bat-Signal
+- Kinder können mit Batman und Catwoman durch GOTHAM CITY rasen, doch wenn das Bat-Signal zu leuchten beginnt, muss Batman ihm folgen!
 
 [🛒 Hier!!]({{< param buyurl >}})

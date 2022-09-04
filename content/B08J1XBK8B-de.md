@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How I Met Your Mother - Season 1-9 [27 DVDs]'
-date: 2022-09-02 23:11:36
+date: 2022-09-04 17:24:36
 image: 'https://m.media-amazon.com/images/I/51wEaw76n3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08J1XBK8B/?tag=tolees0ca-21'
 descuento: '22.00'
-average: '58.4590909090909'
+average: '58.2666666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
