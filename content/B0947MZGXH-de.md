@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buena Vista Home Entertainment - Once Upon a Time - Es war einmal ... Die komplette Serie  42 Discs '
-date: 2022-09-04 00:08:24
+date: 2022-09-05 05:38:32
 image: 'https://m.media-amazon.com/images/I/51shEcOucVS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Buena Vista Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B0947MZGXH/?tag=tolees0ca-21'
 descuento: '20.87'
-average: '43.3392682926828'
+average: '43.4376190476189'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
