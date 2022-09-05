@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71399 Super Mario Luigi‘s Mansion: Eingang – Erweiterungsset  Spielzeug mit Figuren  kreatives Spiel für Kinder'
-date: 2022-09-03 05:39:29
+date: 2022-09-05 15:03:02
 image: 'https://m.media-amazon.com/images/I/51U6Nbg35DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNWSXBT-de LEGO 71399 Super Mario Luigi‘s Mansion: Eingang –...'
 sku: 'B09BNWSXBT-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','lego','🇩🇪', ]
-actualPrice: 28.99 EUR
+actualPrice: 27.99 EUR
 currency: EUR
-price: 28.99
+price: 27.99
 comparePrice: 39.99 EUR
 prodname: 'LEGO 71399 Super Mario Luigi‘s Mansion: Eingang – Erweiterungsset  Spielzeug mit Figuren  kreatives Spiel für Kinder'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWSXBT/?tag=tolees0ca-21'
-descuento: '27.51'
-average: '26.4351219512194'
+descuento: '30.01'
+average: '26.4721428571427'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
