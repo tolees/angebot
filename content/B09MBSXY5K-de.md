@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Moonfall [Blu-ray]'
-date: 2022-09-04 00:07:36
+date: 2022-09-05 00:37:22
 image: 'https://m.media-amazon.com/images/I/41JPcGhmPHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B09MBSXY5K/?tag=tolees0ca-21'
 descuento: '29.55'
-average: '13.1825'
+average: '13.0892307692308'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
