@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- In verschiedenen trendigen Farben erhältlich
 - Optimale Passform und optimaler Komfort dank angenehmem 4-Wege-Stretchmaterial
 - Ideal als Kleidung für den Alltag
 - Stylishes Polohemd für Herren, Ein absolutes Muss im Sommer
-- In verschiedenen trendigen Farben erhältlich
 - Lieferumfang: 1 x Columbia Poloshirt Herren, Sun Ridge II, Farbe: Icy Morn, Größe: S, Art.-Nr.: 1932011
 
 [🛒 Hier!!]({{< param buyurl >}})
