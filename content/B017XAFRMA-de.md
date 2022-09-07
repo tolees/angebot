@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Selbstentleerung
 - Ergonomisches Regulierventil
 - Einfache Arretierung des Auslösegriffs
+- Selbstentleerung
 - Drei stufenlos einstellbare Sprühbilder: Brause, Punkt- und Kegelstrahl
 
 [🛒 Hier!!]({{< param buyurl >}})
