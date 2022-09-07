@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Audio: DTS-HD Master Audio: Deutsch 7.1; Englisch 7.1; Smaug der Einöde (The Desolation von Smaug) + Die Schlacht der fünf Heere (Die Schlacht der fünf Heere) zusätzliche Dolby Digital: Spanish 5.1
 - Untertitel: (nur Smaug der Einöde + Die Schlacht der fünf Heere) Spanisch, Dänisch, Finnisch, Norwegisch, Schwedisch, Isländisch
 - Untertitel für Hörgeschädigte: Deutsch und Englisch
+- Audio: DTS-HD Master Audio: Deutsch 7.1; Englisch 7.1; Smaug der Einöde (The Desolation von Smaug) + Die Schlacht der fünf Heere (Die Schlacht der fünf Heere) zusätzliche Dolby Digital: Spanish 5.1
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
