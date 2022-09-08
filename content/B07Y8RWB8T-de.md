@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'devolo 8569 WLAN Powerline Adapter  Magic 1 WiFi mini Starter Kit -bis zu 1.200 Mbit/s  Mesh WLAN Verstärker  1x LAN Anschluss  dLAN 2.0  weiß'
-date: 2022-09-06 14:33:28
+date: 2022-09-08 04:02:04
 image: 'https://m.media-amazon.com/images/I/31USk6DDRYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.de/dp/B07Y8RWB8T/?tag=tolees0ca-21'
 descuento: '27.13'
-average: '94.5433333333333'
+average: '91.4371428571428'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

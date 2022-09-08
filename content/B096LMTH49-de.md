@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Wonder Woman 1984  + Blu-ray 3D '
-date: 2022-09-07 03:35:09
+date: 2022-09-08 03:57:13
 image: 'https://m.media-amazon.com/images/I/51pF+AP7A+S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B096LMTH49/?tag=tolees0ca-21'
 descuento: '24.91'
-average: '19.3166666666667'
+average: '18.2671428571429'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
