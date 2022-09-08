@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Harry Potter: The Complete Collection - Jubiläums-Edition [9 DVDs]'
-date: 2022-09-04 17:25:19
+date: 2022-09-07 22:23:30
 image: 'https://m.media-amazon.com/images/I/51rvOJSUSbS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B096CKK99Y/?tag=tolees0ca-21'
 descuento: '15.07'
-average: '31.5069863013699'
+average: '31.4186486486487'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
