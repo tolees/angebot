@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KSM - Sabrina - Total verhext! - Gesamtbox  Staffel 1-7  [31 DVDs]'
-date: 2022-09-05 00:37:09
+date: 2022-09-08 17:47:28
 image: 'https://m.media-amazon.com/images/I/61sjA3nxvTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'KSM'
 buyurl: 'https://www.amazon.de/dp/B01HMHBRK0/?tag=tolees0ca-21'
 descuento: '15.67'
-average: '79.03'
+average: '78.77625'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
