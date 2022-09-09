@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bones - Die komplette Serie  66 Discs '
-date: 2022-09-07 22:23:02
+date: 2022-09-09 18:02:36
 image: 'https://m.media-amazon.com/images/I/517wDHrpkoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08N3R7GWT/?tag=tolees0ca-21'
 descuento: '20.02'
-average: '75.9833333333333'
+average: '75.9814285714286'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
