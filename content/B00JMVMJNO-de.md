@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch Betätigen des Schiebers werden weitere Geräusche aktiviert
-- Zu Liedern und Sprache blinken Lichter auf
-- Drückt das Kind eine der 12 wie App-Symbole gestalteten Tasten, hört es Lieder, Melodien, Zahlen und mehr
-- Lieder zum Mitsingen, Sprache und Melodien
 - Fördert diese Entwicklungsbereiche: Kreativität und Vorstellungskraft, Kommunikative Fähigkeiten
+- Durch Betätigen des Schiebers werden weitere Geräusche aktiviert
 - Führt das Kind an Zahlen, das Zählen, Begrüßungen und mehr heran
+- Zu Liedern und Sprache blinken Lichter auf
 - Alter: 6M+
+- Lieder zum Mitsingen, Sprache und Melodien
+- Drückt das Kind eine der 12 wie App-Symbole gestalteten Tasten, hört es Lieder, Melodien, Zahlen und mehr
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

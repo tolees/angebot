@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bringt dem Baby verschiedene Größen näher, wenn es die kleineren Ringe auf die größeren stapelt
 - Hergestellt aus Materialien aus Pflanzenbasis (*Spielzeug aus mindestens 90 % Ethanol hergestellt, das aus Zuckerrohr gewonnen wurde.) Verpackung mit FSC-Zertifikat.
+- Für Babys ab 6 Monaten
+- Bringt dem Baby verschiedene Größen näher, wenn es die kleineren Ringe auf die größeren stapelt
 - Klassisches Stapelspielzeug mit 5 bunten Ringen und Schaukelbasis zum Anstupsen
 - Das Greifen und Stapeln der Ringe hilft Babys dabei, Feinmotorik und Problemlösungsfähigkeiten zu entwickeln.
-- Für Babys ab 6 Monaten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

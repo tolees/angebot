@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Integrierter Netzwerk-Anschluss: Ein LAN-Anschluss für stationäre Geräte wie bspw. Receiver, Smart-TV oder Spielekonsole.
-- Mehr Reichweite: Erhöhen Sie einfach und schnell die Abdeckung Ihres bestehenden WLANs in Ihrem Zuhause oder im Home-Office – mit bis zu 1200 Mbit/s!
-- Konfiguration auf Knopfdruck: Dank WPS-Funktion müssen Sie nur eine Taste auf Ihrem Router und dem Repeater drücken – und alles ist eingerichtet.
-- Lieferumfang: 1x devolo WiFi 5 Repeater 1200, 1x Installationsanleitung
 - Für alle Geräte: Ob Smartphone, Tablet oder Smart-TV – der devolo Repeater arbeitet mit allen WLAN-Geräten und Internet-Routern zusammen.
+- Integrierter Netzwerk-Anschluss: Ein LAN-Anschluss für stationäre Geräte wie bspw. Receiver, Smart-TV oder Spielekonsole.
+- Konfiguration auf Knopfdruck: Dank WPS-Funktion müssen Sie nur eine Taste auf Ihrem Router und dem Repeater drücken – und alles ist eingerichtet.
+- Mehr Reichweite: Erhöhen Sie einfach und schnell die Abdeckung Ihres bestehenden WLANs in Ihrem Zuhause oder im Home-Office – mit bis zu 1200 Mbit/s!
+- Lieferumfang: 1x devolo WiFi 5 Repeater 1200, 1x Installationsanleitung
 
 [🛒 Hier!!]({{< param buyurl >}})

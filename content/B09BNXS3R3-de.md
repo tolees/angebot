@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dem LEGO NINJAGO Spinner-Spielzeug kannst du Lloyd helfen, seine Spinjitzu-Künste beim Ninja-Training zu beweisen
-- Dieses sich drehende Ninja-Spielzeug hat die ideale Größe, um damit zu Hause zu spielen oder es für unterwegs mitzunehmen
-- Neu ab März 2022: Die NINJAGO Lloyd-Minifigur hat ein exklusives Elementarkraft-Outfit
-- Platziere Lloyd im Inneren des Spinner-Spielzeugs und zieh an der Reißleine oder lass ihn den 3 brennenden Bomben ausweichen
 - Dieses 32-teilige LEGO NINJAGO Action-Spielzeug bietet den Kleinen ein cooles Bauerlebnis, damit sie schnell mit dem Spielen beginnen können
+- Mit dem LEGO NINJAGO Spinner-Spielzeug kannst du Lloyd helfen, seine Spinjitzu-Künste beim Ninja-Training zu beweisen
+- Neu ab März 2022: Die NINJAGO Lloyd-Minifigur hat ein exklusives Elementarkraft-Outfit
+- Dieses sich drehende Ninja-Spielzeug hat die ideale Größe, um damit zu Hause zu spielen oder es für unterwegs mitzunehmen
+- Platziere Lloyd im Inneren des Spinner-Spielzeugs und zieh an der Reißleine oder lass ihn den 3 brennenden Bomben ausweichen
 
 [🛒 Hier!!]({{< param buyurl >}})

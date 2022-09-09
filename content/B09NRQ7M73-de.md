@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Starke Klebkraft – Dank extra starker Klebkraft haftet das wasserabweisende Verbandsmaterial zuverlässig auf der Haut und eignet sich auch als Fingerpflaster
+- Lieferumfang & Details – Hansaplast Green & Protect Pflaster, Pflaster Set aus natürlich gewonnenen Fasern (20 Strips), mit extra starker Klebkraft
 - Green & Protect – Das innovative Hansaplast Pflaster kombiniert umweltfreundliche Materialien mit der gewohnt hohen Hansaplast Qualität in der Wundversorgung
 - Nachhaltige Wundversorgung – Wundauflage und Trägermaterial der Pflasterstrips sind aus natürlich gewonnenen Fasern hergestellt und vollständig biologisch abbaubar*
-- Lieferumfang & Details – Hansaplast Green & Protect Pflaster, Pflaster Set aus natürlich gewonnenen Fasern (20 Strips), mit extra starker Klebkraft
 - Bacteria Shield – Hansaplast Pflaster mit Bacteria Shield Symbol schützen vor Schmutz und 99 % der Bakterien. Damit ermöglichen die Pflaster eine komplikationsfreie Heilung
 
 [🛒 Hier!!]({{< param buyurl >}})
