@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31129 Creator Majestätischer Tiger  Panda oder Fisch  3-in-1 Tierfiguren-Set  Spielzeug für Kinder  Konstruktionsspielzeug mit Tieren'
-date: 2022-09-05 15:02:37
+date: 2022-09-09 18:57:30
 image: 'https://m.media-amazon.com/images/I/51apG6K7mPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNW4F85-de LEGO 31129 Creator Majestätischer Tiger Panda oder Fisch...'
 sku: 'B09BNW4F85-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','Spielzeugfiguren & Spielsets','Tierfiguren für Kinder','lego','🇩🇪', ]
-actualPrice: 33.99 EUR
+actualPrice: 35.99 EUR
 currency: EUR
-price: 33.99
+price: 35.99
 comparePrice: 49.99 EUR
 prodname: 'LEGO 31129 Creator Majestätischer Tiger  Panda oder Fisch  3-in-1 Tierfiguren-Set  Spielzeug für Kinder  Konstruktionsspielzeug mit Tieren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNW4F85/?tag=tolees0ca-21'
-descuento: '32.01'
-average: '32.3991666666666'
+descuento: '28.01'
+average: '32.4962162162162'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
