@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schmale Passform
 - Kurzärmliges T-Shirt aus Baumwolle
 - Rundhalsausschnitt
-- Schmale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
