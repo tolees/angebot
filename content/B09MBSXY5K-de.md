@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Moonfall [Blu-ray]'
-date: 2022-09-08 03:56:08
+date: 2022-09-09 04:47:39
 image: 'https://m.media-amazon.com/images/I/41JPcGhmPHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Action & Abenteuer','Blu-ray','DVD & Blu-ray','Fantasy','Featured Categ
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97
-comparePrice: 16.79 EUR
+comparePrice: 16.76 EUR
 prodname: 'LEONINE Distribution GmbH - Moonfall [Blu-ray]'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B09MBSXY5K/?tag=tolees0ca-21'
-descuento: '28.71'
-average: '12.94'
+descuento: '28.58'
+average: '12.879375'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

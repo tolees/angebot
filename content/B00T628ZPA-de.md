@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lighthouse Home Entertain - Wildes Indochina [2 Blu-ray]'
-date: 2022-09-08 03:56:26
+date: 2022-09-09 04:46:47
 image: 'https://m.media-amazon.com/images/I/51sF8-zzWjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Lighthouse Home Entertain'
 buyurl: 'https://www.amazon.de/dp/B00T628ZPA/?tag=tolees0ca-21'
 descuento: '31.99'
-average: '11.5566666666667'
+average: '11.165'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
