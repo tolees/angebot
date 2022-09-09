@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Praktisches Detail: Mit integriertem Astabschneider für dickere Äste
+- Lieferumfang beinhaltet: 1x Gardena Comfort Heckenschere 570, 25 Jahre Gardena Garantie
 - Komfortable Handhabung: Bequemes Arbeiten dank ergonomisch geformter Griffe mit Gelpads und Stoßdämpfung
 - Außerordentlich leicht: Mit nur 690 g Gewicht besonders handlich und flexibel in der Anwendung
-- Praktisches Detail: Mit integriertem Astabschneider für dickere Äste
 - Ideal für Formschnitt: Dank gerade geschliffener Klingen ideal zum präzisen Schneiden von Formgehölzen
-- Lieferumfang beinhaltet: 1x Gardena Comfort Heckenschere 570, 25 Jahre Gardena Garantie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die hochwertige, in Deutschland gefertigte Vorratsglas Serie GOTHIKA der Traditionsmarke MÄSER umfasst robuste und formschöne Einweckgläser in verschiedenen Größen
-- Säure- und salzresistente Gläser, spülmaschinenfest (außer Dichtungsring und Drahtbügel), Deckel und Verschluss bei Bedarf leicht abnehmbar
+- Set aus 6 x Einmachglas bzw. Aufbewahrungsglas à 1, 45 l Füllvolumen. Dickwandiges Glas, stabiler und verzinkter Bügelverschluss, weißer Dichtring aus Kautschuk ohne Weichmacher
 - Preis-Leistungs-Sieger 06/2022 in der Kategorie Vorratsgläser beim unabhängigen Testmagazin vergleich.org
 - 100% lebensmittelecht, 100% luft- und wasserdicht – diese Bügelgläser sind ideal nicht nur als Einweckglas zum Konservieren (Einkochen, Einmachen, Einlegen, Fermentieren) und zur Aufbewahrung von Lebensmitteln wie etwa Mehl, sondern auch als Glasbehälter mit Deckel zum plastikfreien Einkaufen, zum Verschenken von Selbstgemachten, u. v. m.
-- Set aus 6 x Einmachglas bzw. Aufbewahrungsglas à 1, 45 l Füllvolumen. Dickwandiges Glas, stabiler und verzinkter Bügelverschluss, weißer Dichtring aus Kautschuk ohne Weichmacher
+- Die hochwertige, in Deutschland gefertigte Vorratsglas Serie GOTHIKA der Traditionsmarke MÄSER umfasst robuste und formschöne Einweckgläser in verschiedenen Größen
+- Säure- und salzresistente Gläser, spülmaschinenfest (außer Dichtungsring und Drahtbügel), Deckel und Verschluss bei Bedarf leicht abnehmbar
 
 [🛒 Hier!!]({{< param buyurl >}})

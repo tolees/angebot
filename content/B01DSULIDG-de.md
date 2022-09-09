@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- VIELSEITIG: Die leichte, wasserdichte Jacke kann zum Wandern, Spazierengehen oder als wasserdichte Fahrradjacke verwendet werden. Ein wirklich vielseitiges Stück Outdoor-Bekleidung
-- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
+- ALLES-WETTER: Mit einer 2-Lagen-Materialkonstruktion ist diese Jacke sowohl wind- als auch wasserdicht, um Sie bei Nässe warm und trocken zu halten, aber dennoch atmungsaktiv genug, um auch in den wärmeren Monaten getragen zu werden
 - WASSERDICHT: Eine wasserabweisende Polyurethan-Außenmembran, ein Frontreißverschluss mit doppelter Klappe und eine verstellbare Kapuze bedeutet, dass Sie die Natur genießen und erkunden können, während Sie trocken bleiben
 - LEICHTGEWICHT: Diese Regenjacke ist leicht, bietet aber dank des 2-Lagen-Designs, der aufgesetzten Kapuze und des Frontreißverschlusses mit doppelter Klappe einen hervorragenden Schutz vor den Elementen
-- ALLES-WETTER: Mit einer 2-Lagen-Materialkonstruktion ist diese Jacke sowohl wind- als auch wasserdicht, um Sie bei Nässe warm und trocken zu halten, aber dennoch atmungsaktiv genug, um auch in den wärmeren Monaten getragen zu werden
+- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
+- VIELSEITIG: Die leichte, wasserdichte Jacke kann zum Wandern, Spazierengehen oder als wasserdichte Fahrradjacke verwendet werden. Ein wirklich vielseitiges Stück Outdoor-Bekleidung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einmachgläser mit Deckel, Dichtung und Klammern
-- Vakuum-Effekt
 - Zwei Klammern pro Glas (2 x 6)
+- Einmachgläser mit Deckel, Dichtung und Klammern
 - Spülmaschinengeeignet
+- Vakuum-Effekt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

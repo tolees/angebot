@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maße: 20 cm x 16 cm x 20 cm I Geeignet für Kinder ab drei Jahren I Benötigte Batterien 2 x R03-AAA - Nicht im Lieferumfang enthalten
-- Das Wasser wird in der Maschine nicht erhitzt. Sie ist ein sicheres Spielzeug für lehrreiche und lustige Rollenspiele in Kinder-Küchen
 - Der Kaffee läuft dank Soundmodul zischelnd und röchelnd in die mitgelieferte Espressotasse
-- Einfach Wasser einfüllen, Kaffeepads einlegen, auf den großen Knopf drücken und das (kalte) Wasser durchlaufen lassen
+- Das Wasser wird in der Maschine nicht erhitzt. Sie ist ein sicheres Spielzeug für lehrreiche und lustige Rollenspiele in Kinder-Küchen
 - Kaffee kochen wie die Großen - mit dieser Kaffeemaschine ein Kinderspiel
+- Maße: 20 cm x 16 cm x 20 cm I Geeignet für Kinder ab drei Jahren I Benötigte Batterien 2 x R03-AAA - Nicht im Lieferumfang enthalten
+- Einfach Wasser einfüllen, Kaffeepads einlegen, auf den großen Knopf drücken und das (kalte) Wasser durchlaufen lassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Schutzhaube, Stützflansch, Schnellspannmutter, Zusatzhandgriff Metabo VibraTech (MVT)
 - Elektronische Sicherheitsabschaltung: reduziert Kick-Back beim Blockieren der Scheibe – für hohen Anwenderschutz
-- Metabo Quick für werkzeuglosen Scheibenwechsel durch Schnellspannmutter
+- Lieferumfang: Schutzhaube, Stützflansch, Schnellspannmutter, Zusatzhandgriff Metabo VibraTech (MVT)
 - Haupthandgriff drehbar und Zusatzhandgriff an 3 Positionen montierbar für optimale Griffposition auch beim Trennen
 - Metabo Marathon-Motor mit patentiertem Staubschutz für lange Lebensdauer
+- Metabo Quick für werkzeuglosen Scheibenwechsel durch Schnellspannmutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

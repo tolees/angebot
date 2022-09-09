@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Faltreifen
 - Farbe: schwarz
-- Herkunftsland:- Indonesien
 - Marke: Schwalbe
+- Faltreifen
+- Herkunftsland:- Indonesien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

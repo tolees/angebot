@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sohle: Polyurethan
-- Obermaterial: Wildleder
-- Verschluss: Reißverschluss
 - Absatzform: Kein Absatz
+- Verschluss: Reißverschluss
+- Obermaterial: Wildleder
 - Innenmaterial: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Einhändiges Öffnen des Helms durch den anatomisch geformten Komfortverschluss uvex monomatic
+- Optimale Anpassung an den Kopfumfang durch das verstellbare uvex anatomic IAS System und perfekte Passform durch den anatomisch geformten uvex wing
 - Wenn du stürzt, bist du nicht allein: Der integrierte Tocsen Crashsensor setzt im Falle eines Sturzes einen Notruf ab und übermittelt die GPS-Daten per App
 - Zusätzlicher Schutz des unteren Helmbereichs durch eine zweite PC-Schale
-- Optimale Anpassung an den Kopfumfang durch das verstellbare uvex anatomic IAS System und perfekte Passform durch den anatomisch geformten uvex wing
-- Einhändiges Öffnen des Helms durch den anatomisch geformten Komfortverschluss uvex monomatic
 - Hochwertige Helmpolster aus Funktionsmaterial - herausnehmbar, waschbar und schnelltrocknend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

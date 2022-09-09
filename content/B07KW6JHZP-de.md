@@ -31,7 +31,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Material: Polyester/ 2 Farb-Siebdruck
 - 15m Komplettset (12, 5m Band + 2, 5m Ratschenband - jeweils mit verstärkter Schlaufe), Bandbreite 2"/5cm, Ratsche mit Rücksicherung und 2x Treewear (schwarzer Filz mit Klettverschluss), Setup Guide
 - Die unter Spannung stehenden Ratschenelemente dürfen aus Sicherheitsgründen nicht berührt werden. "Black coating" markiert durch schwarze Farbe die gefahrlos anfassbaren Teile der Ratsche
-- Speziell entwickelte Flachbandwebung für das Slacklinen (Trampolin-Effekt). Durchgehender Druck mit neuem Design für bessere Griffigkeit und Orientierung auf dem Band. Der ergonomisch optimierte Ratschengriff aus Kunststoff ermöglicht ein bequemes und effizientes Spannen.
 - Einfacher und problemloser Aufbau zwischen Bäumen oder ähnlichen stabilen Verankerungspunkten
+- Speziell entwickelte Flachbandwebung für das Slacklinen (Trampolin-Effekt). Durchgehender Druck mit neuem Design für bessere Griffigkeit und Orientierung auf dem Band. Der ergonomisch optimierte Ratschengriff aus Kunststoff ermöglicht ein bequemes und effizientes Spannen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

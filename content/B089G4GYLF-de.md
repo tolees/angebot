@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herstellergarantie: 36 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- Entspiegelte Displayoberfläche, 4 ms Reaktionszeit, TÜV Eye Comfort zertifiziert, AMD Free Sync
-- Betrachtungswinkel 178°/178°, schmaler Displayrahmen, 99% sRGB
-- USB Typ-C 3.1 für einkabel Anschluss von Daten, Sound, Bilder und Stromversorgung
-- 60,5 cm/23,8 Zoll QHD-Display, 2560 x 1440 px Auflösung, 75 Hz, 2 x 3 W Lautsprecher
 - Lieferumfang: Lenovo Q24h-10 Monitor, 60,5 cm (23,8 Zoll QHD), Netzteil mit Stromkabel, USB Typ-C Kabel, Schnellstartanleitung
+- USB Typ-C 3.1 für einkabel Anschluss von Daten, Sound, Bilder und Stromversorgung
+- Herstellergarantie: 36 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
+- Betrachtungswinkel 178°/178°, schmaler Displayrahmen, 99% sRGB
+- 60,5 cm/23,8 Zoll QHD-Display, 2560 x 1440 px Auflösung, 75 Hz, 2 x 3 W Lautsprecher
+- Entspiegelte Displayoberfläche, 4 ms Reaktionszeit, TÜV Eye Comfort zertifiziert, AMD Free Sync
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Videography Pro Inhalte direkt vom Smartphone an Video-Streaming-Dienste übertragen.
 - Der weltweit erste optische Zoom von 85-125 mm in einem Smartphone vereint mit hoher Geschwindigkeit und AF-Funktionen in allen Objektiven.*
-- Das Xperia 1 IV ermöglicht als erstes Smartphone der Welt 4K HDR-Videoaufnahmen mit 120 BpS - und das mit allen drei Objektiven.*
-- *Verifiziert durch Strategy Analytics SpecTRAX Service. Stand: 11. Mai 2022.
 - Musikliebhaber profitieren von der Expertise von Sony im Sound- und Musikbereich sowie dem neuen Music Pro Feature für Musikaufnahmen wie im Studio.
 - Das bisher hellste 4K HDR OLED-Display mit 120 Hz und BRAVIA Core for Xperia für bestes Entertainment.*
+- Mit Videography Pro Inhalte direkt vom Smartphone an Video-Streaming-Dienste übertragen.
+- Das Xperia 1 IV ermöglicht als erstes Smartphone der Welt 4K HDR-Videoaufnahmen mit 120 BpS - und das mit allen drei Objektiven.*
+- *Verifiziert durch Strategy Analytics SpecTRAX Service. Stand: 11. Mai 2022.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IMMER GRIFFBEREIT: Keinen Gürtel an? Kein Problem. Der Taschenclip sorgt dafür, dass Du den Raptor immer einfach befestigen kannst. Alternativ kannst ihn auch mit dem integrierten Lanyard-Loch befestigen.
-- EINFACH UND SICHER: Die speziell entworfene Halterung ermöglicht es Dir, Deinen Raptor offen oder geschlossen zu tragen, so dass Du immer schnell einsatzbereit bist.
 - VIELE FUNKTIONEN: Der Raptor ist mit 6 Werkzeugen ausgestattet, darunter eine klappbare medizinische Schere, ein Gurtschneider, ein Ringmesser, ein Lineal, ein Gasflaschenschlüssel und ein Hartmetall-Glasbrecher.
+- EINFACH UND SICHER: Die speziell entworfene Halterung ermöglicht es Dir, Deinen Raptor offen oder geschlossen zu tragen, so dass Du immer schnell einsatzbereit bist.
+- IMMER GRIFFBEREIT: Keinen Gürtel an? Kein Problem. Der Taschenclip sorgt dafür, dass Du den Raptor immer einfach befestigen kannst. Alternativ kannst ihn auch mit dem integrierten Lanyard-Loch befestigen.
 - BEREIT FÜR ALLES: Der Raptor verfügt über die notwendigen Werkzeuge für Rettungskräfte, um in Notsituationen schnell handeln zu können. Wenn es ums Überleben geht, ist der Raptor mit seinen verschiedenen Tools schnell griffbereit.
 
 [🛒 Hier!!]({{< param buyurl >}})

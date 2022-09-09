@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Unisex Handschuhe für Fahrradfahrer bei warmen Wetterbedingungen
-- Netzeinsätze, Klettverschluss am Handgelenk
-- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
+- |Reflektor-Pfeile hinten an den Hosenbeinen||
 - |Abtrennbare Hosenbeine über dem Knie||
 - |Zusätzlich Verstärkungsmaterial innen am Hosenbein als Kettenschutz||
-- |Reflektor-Pfeile hinten an den Hosenbeinen||
-- Abriebfeste und langlebige Handinnenfläche mit Polsterung, Ausziehschlaufe zwischen den Fingern
-- |Kettenschutz durch weitenregulierbare Hosenbeine über dem Knie||
-- |Kettenschutz durch weitenregulierbare Hosenbeine mit Klettverschluss||
 - GORE C5 Short Finger Gloves, Größe: 6, Farbe: Schwarz, 100492
+- Abriebfeste und langlebige Handinnenfläche mit Polsterung, Ausziehschlaufe zwischen den Fingern
+- Netzeinsätze, Klettverschluss am Handgelenk
+- Leichte Unisex Handschuhe für Fahrradfahrer bei warmen Wetterbedingungen
+- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
+- |Kettenschutz durch weitenregulierbare Hosenbeine mit Klettverschluss||
+- |Kettenschutz durch weitenregulierbare Hosenbeine über dem Knie||
 
 [🛒 Hier!!]({{< param buyurl >}})
