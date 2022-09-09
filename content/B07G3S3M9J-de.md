@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter Hogwarts Uhrenturm Spielzeug kompatibel mit der Großen Halle und der Peitschenden Weide Sets'
-date: 2022-09-07 22:12:41
+date: 2022-09-08 22:51:27
 image: 'https://m.media-amazon.com/images/I/516O6mbvkqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07G3S3M9J/?tag=tolees0ca-21'
 descuento: '25.01'
-average: '72.1276360544218'
+average: '72.1197453310696'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
