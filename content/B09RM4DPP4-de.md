@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany GmbH - Marry Me - Verheiratet auf den ersten Blick'
-date: 2022-09-04 11:45:58
+date: 2022-09-10 05:55:01
 image: 'https://m.media-amazon.com/images/I/51tqRwt3I+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'DVD & Blu-ray','Featured Categories','Filme','Komödie & Unterhaltung',
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
-comparePrice: 11.04 EUR
+comparePrice: 11.39 EUR
 prodname: 'Universal Pictures Germany GmbH - Marry Me - Verheiratet auf den ersten Blick'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B09RM4DPP4/?tag=tolees0ca-21'
-descuento: '27.63'
+descuento: '29.85'
 average: '7.99'
 ---
 
