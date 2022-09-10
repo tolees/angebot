@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paramount Pictures  Universal Pictures  - Star Trek - Deep Space Nine - Complete Boxset / 3.Auflage  DVD '
-date: 2022-09-07 22:24:39
+date: 2022-09-10 18:18:49
 image: 'https://m.media-amazon.com/images/I/518rD6BVyGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Paramount Pictures (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B075R7K2GM/?tag=tolees0ca-21'
 descuento: '22.68'
-average: '44.4183333333334'
+average: '44.153076923077'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
