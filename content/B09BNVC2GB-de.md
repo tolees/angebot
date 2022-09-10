@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die weiße LEGO Bauplatte eignet sich als Geburtstagsgeschenk für Kinderbauprojekte und Ausstellungen
-- Die LEGO Basisplatte hält die Steine in jedem Winkel (sogar kopfüber!) und lässt sich dennoch leicht entfernen
-- Von Seen bis zu arktischen Landschaften bis zu Winterlandschaften können Kinder alles bauen, was sie sich vorstellen können
-- Möglichkeiten für kreativen Ausdruck - diese LEGO Grundplatte mit 32 x 32 Noppen bietet eine Grundlage für kreatives Spielen
 - Stabil und langlebig - 1.024 Noppen bieten den Bauherren einen festen und dauerhaften Halt für ihre LEGO Bausteine
+- Möglichkeiten für kreativen Ausdruck - diese LEGO Grundplatte mit 32 x 32 Noppen bietet eine Grundlage für kreatives Spielen
+- Die LEGO Basisplatte hält die Steine in jedem Winkel (sogar kopfüber!) und lässt sich dennoch leicht entfernen
+- Die weiße LEGO Bauplatte eignet sich als Geburtstagsgeschenk für Kinderbauprojekte und Ausstellungen
+- Von Seen bis zu arktischen Landschaften bis zu Winterlandschaften können Kinder alles bauen, was sie sich vorstellen können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
