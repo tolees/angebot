@@ -31,7 +31,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Druckgeschwindigkeit: bis zu 8 S./Min (schwarz/weiß), bis zu 5,5 S./Min (Farbe); Druckqualität: bis zu 4800 x 1200 dpi, Anschlüsse: Hi-Speed USB 2.0, Wireless, mobiles Drucken
 - HP Instant Ink: Bis zu 70 % bei Tinte sparen und bequem nach Hause geliefert bekommen. Inklusive 4 Probemonate zum Testen
 - Mit der kleinste HP All-in-One Drucker weltweit, sparsames Multifunktionsgerät mit einfacher und schneller Bedienung, hochwertige Ausdrucke; drucken vom Smartphone, Tablet und HP Snapshots App
-- Spartipp dazu: der 15-Seiten-Tarif von HP Instant Ink. Weitere Informationen in der Produktbeschreibung
 - Lieferumfang: HP DeskJet 3750 Multifunktionsdrucker weiß/grau (T8X12B); HP 304 Schwarz, HP 304 Farbe; Druckerdokumentation
+- Spartipp dazu: der 15-Seiten-Tarif von HP Instant Ink. Weitere Informationen in der Produktbeschreibung
 
 [🛒 Hier!!]({{< param buyurl >}})

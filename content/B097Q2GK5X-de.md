@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Körpergröße: ~130-170 cm
 - 1-Lagenkonstruktion
+- Innentasche für Wertsachen
 - Durch die 30cm Verlängerung im Fußraum wächst der Schlafsack mit dem Kind mit
 - Pflegeleicht und robust dank Kunstfaserfüllung
-- Innentasche für Wertsachen
-- Körpergröße: ~130-170 cm
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- RAUMFÜLLENDER BASS - Der Langhub-Subwoofer mit hoher Auslenkung versetzt mehr Luft in Bewegung als herkömmliche Subwoofer für eine größere Reichweite und einen tieferen Bass
+- AUTOMATISCHE EQUALIZER-ABSTIMMUNG - Dank Polk Bass Adjust werden die Equalizer-Einstellungen der React Soundbar automatisch an den zusätzlichen Bass des React Subwoofers angepasst
 - 5.1 HEIMKINOSYSTEM - Fügen Sie die Bass Box zur React Soundbar hinzu, um ein 2.1-System zu erstellen. Fügen Sie später zwei Polk SR2 Surround Lautsprecher hinzu für ein kabelloses 5.1 Heimkino Soundsystem
 - TIEFER BASS FÜR IHRE SOUND BAR - Fügen Sie den Wireless React Subwoofer zu der React Soundbar hinzu und veleihen Sie der TV Soundbar einen noch kräftigeren Bass
 - SATTER BASS - Die einzigartige aufgeweitete Bassreflexöffnung des React Subwoofers minimiert Turbulenzen und sorgt für eine straffe und präzise Bassleistung
-- AUTOMATISCHE EQUALIZER-ABSTIMMUNG - Dank Polk Bass Adjust werden die Equalizer-Einstellungen der React Soundbar automatisch an den zusätzlichen Bass des React Subwoofers angepasst
-- RAUMFÜLLENDER BASS - Der Langhub-Subwoofer mit hoher Auslenkung versetzt mehr Luft in Bewegung als herkömmliche Subwoofer für eine größere Reichweite und einen tieferen Bass
 
 [🛒 Hier!!]({{< param buyurl >}})

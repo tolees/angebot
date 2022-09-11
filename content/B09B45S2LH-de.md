@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Black Shark Schnellkühlungstechnologie
-- Wird mit 1,5 m Typ-C-Kabel geliefert
-- Automatische magnetische Ausrichtung - Einfache Installation
 - Magnetischer Wärmeübertragungskleber - Kompatibel mit anderen Geräten
+- Automatische magnetische Ausrichtung - Einfache Installation
+- Wird mit 1,5 m Typ-C-Kabel geliefert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

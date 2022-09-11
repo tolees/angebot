@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inkl. Akku, Ladegerät und Transportkoffer
-- Bis zu 700 Nägel pro 5 Ah-Akkuladung
-- Gewicht (mit M18 B2 Akku)(EPTA): 5,1 kg
-- Einzelschuss- und Kontaktauslösung
-- Schallleistungspegel LWA: 101,1 dB(A)
-- Nagellänge: 50 - 90 mm
-- Keine Gaskartusche und kaum Wartung
-- Schalldruckpegel LPA: 90,1 dB(A)
 - Emissionswerte:
+- Schalldruckpegel LPA: 90,1 dB(A)
+- Bis zu 700 Nägel pro 5 Ah-Akkuladung
 - Nageltyp: 50 - 90 mm
+- Nagellänge: 50 - 90 mm
+- Inkl. Akku, Ladegerät und Transportkoffer
+- Einzelschuss- und Kontaktauslösung
+- Keine Gaskartusche und kaum Wartung
+- Gewicht (mit M18 B2 Akku)(EPTA): 5,1 kg
+- Schallleistungspegel LWA: 101,1 dB(A)
 
 [🛒 Hier!!]({{< param buyurl >}})

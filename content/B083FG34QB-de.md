@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Basics von The Drop
-- Das Maxikleid ist 124 cm lang
 - Gefertigt aus einem leichten Baumwoll-Popeline. Dieses einfache ärmellose Maxikleid hat einen Schlüsselloch-Knopfverschluss am Rücken, seitliche Eingrifftaschen und eine voluminöse Form mit einem Street-Chic-Look und einer ganzen Menge Schwung. Kombinierbar sowohl mit eleganten Absatz-Sandaletten als auch stylishen Sneaker
 - Die Models sind 179 cm groß und tragen Größe S und XXL.
+- Das Maxikleid ist 124 cm lang
+- Basics von The Drop
 - Lockere Passform: für hohen Tragekomfort entworfen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

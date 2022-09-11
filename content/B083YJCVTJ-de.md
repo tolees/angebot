@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gleichmäßiges Röstbild durch automatische Brotzentrierung
-- Stückzahl: 1
 - Stopp-Knopf erlaubt jederzeit Unterbrechung des Röstvorgangs
+- Stückzahl: 1
 - Integrierter und versenkbarer Brötchen-Aufsatz
+- Gleichmäßiges Röstbild durch automatische Brotzentrierung
 - Auftau- und Aufknusperfunktion
 
 [🛒 Hier!!]({{< param buyurl >}})

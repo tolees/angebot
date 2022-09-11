@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gruppentauglich -Auch als Brustlampe mit mitgeliefertem Brustgurt einsetzbar – verringert das gegenseitige Blenden in Laufgruppen
+- Schwenkbarer und fokussierbarer Lampenkopf für eine optimale Ausleuchtung
 - Vertikale Akkubox für sicheren Halt und Tragekomfort
 - Zwei Energy Modes -Energy Saving für lange Laufzeit und Constant Current für konstante Lichtleistung
 - Akkubox lässt sich vom Band oder Gurt lösen und kann in Kombination mit dem mitgelieferten Verlängerungskabel anderweitig verstaut werden
-- Gruppentauglich -Auch als Brustlampe mit mitgeliefertem Brustgurt einsetzbar – verringert das gegenseitige Blenden in Laufgruppen
-- Schwenkbarer und fokussierbarer Lampenkopf für eine optimale Ausleuchtung
 
 [🛒 Hier!!]({{< param buyurl >}})

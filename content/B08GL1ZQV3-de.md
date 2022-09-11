@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OFDMA und MU-MIMO Technik auf dem 5GHz-Band für bis zu 4 gleichzeitige Verbindungen
-- Einfache Absicherung Ihrer privaten Ressourcen durch Gast-WLAN
 - Wireless AX und Gigabit Ethernet für hochauflösende parallele Video-Streams
 - Begrenzung des Internet-Zugangs jedes Endgerätes über ein eigenes Jugendschutz-Profil
+- OFDMA und MU-MIMO Technik auf dem 5GHz-Band für bis zu 4 gleichzeitige Verbindungen
 - Automatische Zuweisung des optimalen Frequenzbandes für Dualband-fähige Endgeräte im "Smart Connect"-Modus
+- Einfache Absicherung Ihrer privaten Ressourcen durch Gast-WLAN
 
 [🛒 Hier!!]({{< param buyurl >}})

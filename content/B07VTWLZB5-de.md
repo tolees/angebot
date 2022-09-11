@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegeleicht
-- Robust und widerstandsfähig
 - Fördert den Gleichgewichtssinn und die motorischen Fähigkeiten
-- Sitzhöhe 46 cm
+- Pflegeleicht
 - Belastbar bis 50 kg
+- Sitzhöhe 46 cm
+- Robust und widerstandsfähig
 
 [🛒 Hier!!]({{< param buyurl >}})
