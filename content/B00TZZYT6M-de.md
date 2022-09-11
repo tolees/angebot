@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cannabis Kid'
-date: 2022-09-10 11:13:48
+date: 2022-09-11 11:20:22
 image: 'https://m.media-amazon.com/images/I/517ery0RbgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

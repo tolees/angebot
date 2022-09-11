@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany GmbH - Sing - Die Show deines Lebens  4K Ultra HD   + Blu-ray 2D '
-date: 2022-09-10 11:12:30
+date: 2022-09-11 11:22:36
 image: 'https://m.media-amazon.com/images/I/51NdRLzAtPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B09QFG52GV/?tag=tolees0ca-21'
 descuento: '30.78'
-average: '21.906'
+average: '21.2533333333333'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

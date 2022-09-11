@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Wonder Woman 1984'
-date: 2022-09-10 11:14:21
+date: 2022-09-11 11:22:42
 image: 'https://m.media-amazon.com/images/I/51SJWb5y6oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B096LS2MDF/?tag=tolees0ca-21'
 descuento: '21.23'
-average: '8.63777777777778'
+average: '8.364'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

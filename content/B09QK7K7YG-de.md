@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany GmbH - Sing - Die Show deines Lebens'
-date: 2022-09-10 11:12:11
+date: 2022-09-11 11:22:24
 image: 'https://m.media-amazon.com/images/I/518PFs2M6XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B09QK7K7YG/?tag=tolees0ca-21'
 descuento: '33.10'
-average: '11.43'
+average: '10.94'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
