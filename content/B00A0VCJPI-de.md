@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Inbetriebnahme das TL-WA850RE ist kinderleicht: Um den Repeater mit dem Router zu verbinden, drücken Sie zunächst die WPS-Taste am Router gefolgt von der WPS-Taste (RE) am Repeater.(kann auch über WEB konfiguriert werden)
-- Sie wünschen sich vollen WLAN-Empfang im ganzen Haus? Der WLAN-Repeater TL-WA850RE macht Schluss mit Funklöchern. Mit einer Geschwindigkeit von bis zu 300 Mbit/s verlängert er das WLAN-Signal einwandfrei in bisher unerreichte oder schwer zu verkabelnde Bereiche
-- Über den LAN-Port des TL-WA850RE können kabelgebundene Netzwerkgeräte ohne eigene WLAN-Funktion wie Blue-ray Player, Spielekonsolen und Smart TVs in das vorhandene WLAN eingebunden werden.
-- Die intelligenten Signalleuchten zeigen die aktuell durch den TL-WA850RE empfangene Signalstärke an. So können Sie ganz einfach den besten Betriebsort finden. BestGoodBad Für eine optimale Signalstärke wird empfohlen, den Repeater an einer Stelle anzubringen, an der 3-4 LEDs leuchten
-- Der TL-WA850RE wurde von der Online-Testplattform Vergleich als Preis-Leistungs-Sieger ausgezeichnet.
 - TP-Link Deutschland bietet lokalen technischen Support.
+- Der TL-WA850RE wurde von der Online-Testplattform Vergleich als Preis-Leistungs-Sieger ausgezeichnet.
 - Energieverbrauch - 3W. Empfehlenswert für 1-2 Zimmer Wohnung mit Internetgeschwindigkeit unter 100Mbit/s
+- Über den LAN-Port des TL-WA850RE können kabelgebundene Netzwerkgeräte ohne eigene WLAN-Funktion wie Blue-ray Player, Spielekonsolen und Smart TVs in das vorhandene WLAN eingebunden werden.
+- Sie wünschen sich vollen WLAN-Empfang im ganzen Haus? Der WLAN-Repeater TL-WA850RE macht Schluss mit Funklöchern. Mit einer Geschwindigkeit von bis zu 300 Mbit/s verlängert er das WLAN-Signal einwandfrei in bisher unerreichte oder schwer zu verkabelnde Bereiche
+- Die intelligenten Signalleuchten zeigen die aktuell durch den TL-WA850RE empfangene Signalstärke an. So können Sie ganz einfach den besten Betriebsort finden. BestGoodBad Für eine optimale Signalstärke wird empfohlen, den Repeater an einer Stelle anzubringen, an der 3-4 LEDs leuchten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
