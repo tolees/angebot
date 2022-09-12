@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubiquiti UniFi 6 Pro Access Point - U6-Pro Wi-Fi 6'
-date: 2022-09-09 18:21:42
+date: 2022-09-12 18:48:28
 image: 'https://m.media-amazon.com/images/I/11-xNSwM2rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ubiquiti'
 buyurl: 'https://www.amazon.de/dp/B09RGHTGBB/?tag=tolees0ca-21'
 descuento: '45.31'
-average: '201.139375'
+average: '197.012777777778'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
