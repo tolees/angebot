@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Empfohlene Verwendung: auch auf schlechten Pfaden und Trails, schlechteste Wege oder auch weglos, Geröll, Klettersteige, Gletscher, gemischtes Alpines Gelände, Matsch/Gras, felsige/technische Wege, Steigeisen kompatibel
+- Achtung Größenauswahl: Bitte achten Sie für die Wahl der passenden Schuhgröße auf unsere Größentabelle und -Hinweise
 - Geeignet für: Bergsteigen, Trekking, Hochtour
 - Wanderschuh Kategorie: C Mountaineering
-- Achtung Größenauswahl: Bitte achten Sie für die Wahl der passenden Schuhgröße auf unsere Größentabelle und -Hinweise
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
