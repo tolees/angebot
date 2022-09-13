@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60188 City Mining Bergbauprofis an der Abbaustätte'
-date: 2022-09-11 23:29:14
+date: 2022-09-12 23:37:28
 image: 'https://m.media-amazon.com/images/I/6152zEtVkCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B075GR9G8N/?tag=tolees0ca-21'
 descuento: '20.06'
-average: '192.830942184153'
+average: '192.794658119657'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
