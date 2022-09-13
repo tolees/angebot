@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubiquiti UniFi 6 Pro Access Point - U6-Pro Wi-Fi 6'
-date: 2022-09-12 18:48:28
+date: 2022-09-13 19:14:53
 image: 'https://m.media-amazon.com/images/I/11-xNSwM2rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09RGHTGBB-de Ubiquiti UniFi 6 Pro Access Point - U6-Pro Wi-Fi 6'
 sku: 'B09RGHTGBB-de'
 tags: [ 'Computer & Zubehör','Netzwerkgeräte','Wireless Access Points','ubiquiti','🇩🇪', ]
-actualPrice: 164.0 EUR
+actualPrice: 174.96 EUR
 currency: EUR
-price: 164.0
+price: 174.96
 comparePrice: 299.89 EUR
 prodname: 'Ubiquiti UniFi 6 Pro Access Point - U6-Pro Wi-Fi 6'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Ubiquiti'
 buyurl: 'https://www.amazon.de/dp/B09RGHTGBB/?tag=tolees0ca-21'
-descuento: '45.31'
-average: '197.012777777778'
+descuento: '41.66'
+average: '195.852105263158'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
