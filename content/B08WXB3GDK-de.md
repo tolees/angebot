@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10282 Icons Adidas Originals Superstar Sportschuh Modellbauset für Erwachsene  Sammlerstück zum Ausstellen  Geschenkidee für sie und ihn'
-date: 2022-09-12 06:46:39
+date: 2022-09-14 12:53:43
 image: 'https://m.media-amazon.com/images/I/51SmKQXEV8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08WXB3GDK/?tag=tolees0ca-21'
 descuento: '23.32'
-average: '60.5121951219513'
+average: '60.7142857142858'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
