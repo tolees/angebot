@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 10 Meter Distanz zur Quelle möglich Hoher Tragekomfort dank auswechselbarer Haltebügel Kompatibel zu den meisten gängigen Bluetooth Smartphones und Tablets
 - Kompatibel zu iOs und Android Bis zu 10 Stunden Telefonieren oder Musik hören Multifunktionstaste für Gesprächannahme, Lautstärke, Titel vor/zurück integriertes Mikrofon
+- 10 Meter Distanz zur Quelle möglich Hoher Tragekomfort dank auswechselbarer Haltebügel Kompatibel zu den meisten gängigen Bluetooth Smartphones und Tablets
+- Integrierter, wiederaufladbarer Lithium-Ionen-Akku 60 mAh Spielzeit: 4, 5 Stunden Ladezeit: 1, 5 Stunden Gewicht: 7, 5 g Ladeschale mit integriertem 650mAh Lithium-Ionen-Akku
 - Stereo Bluetooth Ohrhörer wasserfest nach IPX7 Standart ideal für Outdoor und Sport Aktivitäten Bluetooth 5. 0 Hohe Klangqualität
 - Lieferumfang: TIE Audio Waterproof Wireless Earbuds inklusive Powerbank und USB-Kabel
-- Integrierter, wiederaufladbarer Lithium-Ionen-Akku 60 mAh Spielzeit: 4, 5 Stunden Ladezeit: 1, 5 Stunden Gewicht: 7, 5 g Ladeschale mit integriertem 650mAh Lithium-Ionen-Akku
 
 [🛒 Hier!!]({{< param buyurl >}})
