@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Beste Qualität: Unser Caffè Crema Classico besteht aus feinen Arabica- und Robusta-Bohnen aus Südamerika, Afrika und Südasien​
-- Perfekte Zubereitung: Die Bohnen eignen sich hervorragend für die Zubereitung eines Caffè Crema oder einer Kaffee-Milch-Spezialität aus dem Kaffeevollautomaten​
+- Erhöhte Intensität: 7 von 10 ​
 - Mittlere Röstung: Der Kaffee wird schonend in der Trommel geröstet und erhält so sein ausgewogenes Aroma​
 - Klassischer Genuss: Premium-Kaffeebohnen in der 1-kg-Packung​
 - Kräftiger Geschmack: schokoladig, fruchtig, würzig​
-- Erhöhte Intensität: 7 von 10 ​
+- Beste Qualität: Unser Caffè Crema Classico besteht aus feinen Arabica- und Robusta-Bohnen aus Südamerika, Afrika und Südasien​
+- Perfekte Zubereitung: Die Bohnen eignen sich hervorragend für die Zubereitung eines Caffè Crema oder einer Kaffee-Milch-Spezialität aus dem Kaffeevollautomaten​
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
