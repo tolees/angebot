@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Enthält 8x Harry-Potter-Minifiguren: Harry Potter, Ron Weasley, Hermine Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore und Madame Maxime
+- Dieses Set enthält den dreistöckigen Hogwarts Uhrenturm, die Eingangshalle, das Klassenzimmer für Verteidigung gegen die Dunklen Künste, den Krankenflügel, Dumbledores Büro und vieles mehr
 - Alle Figuren besitzen einen Zauberstab und Festumhänge
 - Die Uhr kann für tolle Abenteuer mit dem Zeitumkehrer verstellt werden. Die Tanzfunktion bringt den Weihnachtsball erst richtig in Schwung
 - Der Hogwarts Uhrenturm ist 35 cm hoch, 34 cm breit und 18 cm tief
-- Dieses Set enthält den dreistöckigen Hogwarts Uhrenturm, die Eingangshalle, das Klassenzimmer für Verteidigung gegen die Dunklen Künste, den Krankenflügel, Dumbledores Büro und vieles mehr
 
 [🛒 Hier!!]({{< param buyurl >}})
