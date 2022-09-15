@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Intenso USB-Stick Ultra Line 256 GB USB 3.0'
-date: 2020-08-16 09:20:52
-image: 'https://m.media-amazon.com/images/I/31RE0M7eNhL._SL400_.jpg'
+title: 'Intenso Ultra Line 256GB Speicherstick USB 3.0 silber'
+date: 2022-09-15 12:07:12
+image: 'https://m.media-amazon.com/images/I/31RE0M7eNhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07VB29GFY-de Intenso USB-Stick Ultra Line 256 GB USB 3.0'
+slug: 'B07VB29GFY-de Intenso Ultra Line 256GB Speicherstick USB 3.0 silber'
 sku: 'B07VB29GFY-de'
-tags: [ '🇩🇪', ]
-actualPrice: 19.41 EUR
+tags: [ 'Computer & Zubehör','Datenspeicher','Externe Datenspeicher','USB-Sticks','intenso','🇩🇪', ]
+actualPrice: 16.49 EUR
 currency: EUR
-price: 19.41
-comparePrice: 35.99 EUR
-prodname: 'Intenso USB-Stick Ultra Line 256 GB USB 3.0'
+price: 16.49
+comparePrice: 22.0 EUR
+prodname: 'Intenso Ultra Line 256GB Speicherstick USB 3.0 silber'
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Intenso'
 buyurl: 'https://www.amazon.de/dp/B07VB29GFY/?tag=tolees0ca-21'
-descuento: '46.07'
-average: '19.41'
+descuento: '25.05'
+average: '18.4366666666667'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,5 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gewicht: 6 g; Abmessungen: 59 x 17 x 7 mm
+- Zur Anwendung des USB 3.2 Standards wird 3.x fähige Hardware benötigt
+- Hochwertiges Aluminiumgehäuse
+- Dank der USB 3.2 Gen 1x1 Schnittstelle werden Übertragungsraten von bis zu 70 MB/s erreicht
+- Lieferumfang: Intenso Ultra Line USB-A Speicherstick mit 256GB Kapazität
 
 [🛒 Hier!!]({{< param buyurl >}})
