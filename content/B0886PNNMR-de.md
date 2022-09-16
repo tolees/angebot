@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: Fernbedienung, Batterien für die Fernbedienung, Optisches Kabel, Netzkabel, Garantiekarte, Schnellkonfiguration, Bedienungsanleitung
+- Center-Lautsprecher für klare Dialoge
+- Sound-Modi für optimierte Film- und Musikwiedergabe
 - 3.1-Kanal Dolby Atmos/DTS:X und Vertical Sound Engine
 - Kabelloser Subwoofer für kraftvolle Bassklänge
-- Sound-Modi für optimierte Film- und Musikwiedergabe
-- Center-Lautsprecher für klare Dialoge
-- Lieferumfang: Fernbedienung, Batterien für die Fernbedienung, Optisches Kabel, Netzkabel, Garantiekarte, Schnellkonfiguration, Bedienungsanleitung
 - Immersive AE (Audio-Optimierung) für Audio-Upscaling auf nahezu 7.1.2-Kanal-Klang
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

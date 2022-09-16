@@ -30,7 +30,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Dieser Deodorant-Stick bietet Schutz und Frische und hinterlässt die Haut leicht parfümiert mit den Meeresnoten von Davidoff Cool Water
 - Bringen Sie Ihre Routine mit dem Cool Water Men Deodorant Stick von Davidoff auf die nächste Stufe
-- 1x Davidoff - Cool Water Men Deo-Stick - 70 gr. Männer
 - Herren Deo Stick 70gr. Männer
+- 1x Davidoff - Cool Water Men Deo-Stick - 70 gr. Männer
 
 [🛒 Hier!!]({{< param buyurl >}})
