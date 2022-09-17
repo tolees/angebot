@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 256 GB interner Speicher, Android 12.0
 - Farbe: grau
+- 256 GB interner Speicher, Android 12.0
 - 50 Megapixel Hauptkamera mit optischer Bildstabilisierung
-- 15,95 cm (6,28 Zoll) AMOLED Display mit 1080 x 2400 Pixel
 - 3 GHz Qualcomm Snapdragon 8 Gen1 Octa-Core-Prozessor
+- 15,95 cm (6,28 Zoll) AMOLED Display mit 1080 x 2400 Pixel
 
 [🛒 Hier!!]({{< param buyurl >}})

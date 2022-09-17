@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AVM FRITZ!Box 7530 AX WI-FI 6 Router  DSL/VDSL 1.800 MBit/s  5GHz &600 MBit/s  2 4 GHz  bis zu 300 MBit/s mit VDSL-Supervectoring 35b WLAN Mesh DECT-Basis Media Server geeignet Deutschland '
-date: 2022-09-15 19:36:57
+date: 2022-09-17 07:01:11
 image: 'https://m.media-amazon.com/images/I/31-8oxSex0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08BZPXCKD-de AVM FRITZ!Box 7530 AX WI-FI 6 Router DSL/VDSL 1.800 MBit/s...'
 sku: 'B08BZPXCKD-de'
 tags: [ 'Computer & Zubehör','Netzwerkgeräte','Router','avm','🇩🇪', ]
-actualPrice: 154.99 EUR
+actualPrice: 152.49 EUR
 currency: EUR
-price: 154.99
+price: 152.49
 comparePrice: 199.0 EUR
 prodname: 'AVM FRITZ!Box 7530 AX WI-FI 6 Router  DSL/VDSL 1.800 MBit/s  5GHz &600 MBit/s  2 4 GHz  bis zu 300 MBit/s mit VDSL-Supervectoring 35b WLAN Mesh DECT-Basis Media Server geeignet Deutschland '
 country: 'de'
 flag: '🇩🇪'
 brand: 'AVM'
 buyurl: 'https://www.amazon.de/dp/B08BZPXCKD/?tag=tolees0ca-21'
-descuento: '22.12'
-average: '156.66642857143'
+descuento: '23.37'
+average: '156.569302325583'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

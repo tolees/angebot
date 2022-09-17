@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- nur 87 g leicht
-- Übertragungsgeschwindigkeiten von bis zu 1.050MB/s
-- USB 3.1 Gen 2 Schnittstelle mit Unterstützung von UASP (USB Attached SCSI Protokoll)
 - elegantes, marineblaues Silikonkautschukgehäuse, das langlebig, robust und stoßfest ist
+- USB 3.1 Gen 2 Schnittstelle mit Unterstützung von UASP (USB Attached SCSI Protokoll)
+- Übertragungsgeschwindigkeiten von bis zu 1.050MB/s
 - inklusive USB Typ C auf USB Typ A/USB Typ C auf USB Typ C Kabel
+- nur 87 g leicht
 
 [🛒 Hier!!]({{< param buyurl >}})
