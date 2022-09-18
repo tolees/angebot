@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - POE+ ODER NETZTEIL: Einfache Bereitstellung per PoE+ Port (25,5 W) oder externem Netzteil (separat erhältlich, zB Netgear PAV12V)
 - HOHE WIFI 6 LEISTUNG: Geschwindigkeit und Kapazität von AX3600 Dualband 8-Streams unterstützen in Verbindung mit MU-MIMO Technologie (Up- & Downstream), Beamforming+ und OFDMA bis zu 256 Endgeräte
-- FLEXIBLE MONTAGE: WLAN Access Points einfach und sicher an Wand oder Decke mit den mitgelieferten Befestigungsteilen montieren (Abmessung 20.6 x 20.6 x 3.5 cm)
 - EINFACHE LOKALE VERWALTUNG: Einrichtung, Konfiguration und Verwaltung über den Schnell-Setup-Assistenten per deutscher/englischer Weboberfläche, für Standalone Access Point kein Cloud-Abo notwendig
+- FLEXIBLE MONTAGE: WLAN Access Points einfach und sicher an Wand oder Decke mit den mitgelieferten Befestigungsteilen montieren (Abmessung 20.6 x 20.6 x 3.5 cm)
 - SICHERHEIT AUF HÖCHSTEM NIVEAU: WiFi 6 Access Point unterstützt WPA3, sowie WPA/WPA2
 - PRIVATES UND SICHERES WLAN-NETZWERK: Einfache Einrichtung für Arbeitszimmer (zB. Home Office), kleinere bis mittelgroße Konferenzräume oder beliebige Orte, an denen Sie ein dediziertes und sicheres WLAN-Netzwerk ohne Mesh-Funktion benötigen
 
