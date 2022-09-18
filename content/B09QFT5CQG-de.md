@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dieses Drachen-Set enthält NINJAGOs größte Drachen-Figur aller Zeiten mit 4 Köpfen, beweglichen Beinen und Schwanz sowie Goldklingenflügeln
-- Sieh dir auch andere Spielsets zur TV-Serie NINJAGO: Crystallized an, beispielsweise „Nyas Samurai-X-Mech“ (71775)
-- Das Drachen-Spielzeug für Kinder ab 9 Jahren enthält außerdem den Kristallkönig, 2 Vergeltungsstein-Grobiane und ein Vergeltungsstein-Krieger mit glänzenden Waffen
 - Mit der kostenlosen LEGO Building Instructions App können Kinder zoomen, drehen und eine digitale Version des Modells auf ihren Smartphones und Tablets ansehen
 - Enthält 9 LEGO NINJAGO Mini-Actionfiguren: der exklusive Goldene Oni-Lloyd, Cole, Zane, Kai und Jay, alle mit goldenen Schwertern
-- Dieses Set ist ein episches Geburtstags- oder Weihnachtsgeschenk für Kinder ab 9 Jahren für Fans der NINJAGO-Welt und der Crystallized-TV-Serie
+- Das Drachen-Spielzeug für Kinder ab 9 Jahren enthält außerdem den Kristallkönig, 2 Vergeltungsstein-Grobiane und ein Vergeltungsstein-Krieger mit glänzenden Waffen
 - Kinder reiten mit Lloyd auf dem Rücken seines Drachen in die Schlacht, um den epischen letzten Showdown der TV-Serie NINJAGO: Crystallized nachzustellen
+- Dieses Set ist ein episches Geburtstags- oder Weihnachtsgeschenk für Kinder ab 9 Jahren für Fans der NINJAGO-Welt und der Crystallized-TV-Serie
+- Sieh dir auch andere Spielsets zur TV-Serie NINJAGO: Crystallized an, beispielsweise „Nyas Samurai-X-Mech“ (71775)
 
 [🛒 Hier!!]({{< param buyurl >}})

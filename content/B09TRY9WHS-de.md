@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Spielzeug für Kinder ab 5 Jahre enthält einen Fahrerhelm, eine Kiste, 2 Eier und Blumen, um den Alltag am Bauernhof nachzuspielen
-- Auf dem Bauernhof mit Tieren können Kinder im Hühnerstall die Eier einsammeln und das Quad-Bike durch Kippen nach links und rechts lenken
 - Dieses LEGO Bauernhof Spielzeug für Kinder ab 5 Jahren enthält einen Hühnerstall, ein drehbares Quad, 2 Hühnerfiguren und eine Minifigur der Bäuerin
+- Auf dem Bauernhof mit Tieren können Kinder im Hühnerstall die Eier einsammeln und das Quad-Bike durch Kippen nach links und rechts lenken
+- Das Spielzeug für Kinder ab 5 Jahre enthält einen Fahrerhelm, eine Kiste, 2 Eier und Blumen, um den Alltag am Bauernhof nachzuspielen
 - Der Bauernhof inklusive Quad Spielzeug und Tierfiguren wird mit einer bebilderten Bauanleitung geliefert, damit Kinder sicher bauen können
 - Die LEGO City Farm Sets eignen sich toll als Geburtstagsgeschenk für Mädchen und Jungen ab 5 Jahren oder für alle Tierfans
 
