@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany GmbH - Sing - Die Show deines Lebens'
-date: 2022-09-16 06:24:54
+date: 2022-09-18 18:59:31
 image: 'https://m.media-amazon.com/images/I/518PFs2M6XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'DVD & Blu-ray','Featured Categories','Filme','Kinder & Familie','Musikf
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
-comparePrice: 12.59 EUR
+comparePrice: 12.39 EUR
 prodname: 'Universal Pictures Germany GmbH - Sing - Die Show deines Lebens'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B09QK7K7YG/?tag=tolees0ca-21'
-descuento: '36.54'
-average: '9.86000000000002'
+descuento: '35.51'
+average: '9.69000000000002'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
