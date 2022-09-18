@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hoher Proteingehalt, liefert beeindruckende 21 g Protein pro Riegel; frei von Gluten und Milch
-- Verpackung kann variieren
-- Hergestellt aus Erbsen- und Braunreis-Protein
-- Erhältlich in einer Reihe von verschiedenen Geschmacksrichtungen
-- Registriert bei der Veganen Gesellschaft; damit können Sie den Vegan-Status jedes einzelnen Inhaltsstoffes völlig sicher sein
 - Qualitativ hochwertige, zuckerarme vegane Proteinriegel von einer führenden Sporternährungs-Marke
+- Erhältlich in einer Reihe von verschiedenen Geschmacksrichtungen
+- Verpackung kann variieren
+- Hoher Proteingehalt, liefert beeindruckende 21 g Protein pro Riegel; frei von Gluten und Milch
+- Hergestellt aus Erbsen- und Braunreis-Protein
+- Registriert bei der Veganen Gesellschaft; damit können Sie den Vegan-Status jedes einzelnen Inhaltsstoffes völlig sicher sein
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
