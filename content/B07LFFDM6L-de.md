@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- <b>schwarz</b>
 - <b>48 </b>
-- <b>Sportwäsche</b>
+- <b>schwarz</b>
 - <b>ANITA 1693</b>
+- <b>Sportwäsche</b>
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

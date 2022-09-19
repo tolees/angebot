@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mittlere Bundhöhe
-- Gegenknopf
-- Knopf mit Reißverschluss
-- Schmaler Beinverlauf
 - Slim Fit
+- Knopf mit Reißverschluss
+- Gegenknopf
+- Mittlere Bundhöhe
+- Schmaler Beinverlauf
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

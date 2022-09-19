@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sondergrößentyp: Standard
-- Marke: ESPRIT
 - Herkunftsland: BD
 - Klassisches Polo aus Bio-Baumwolle
+- Sondergrößentyp: Standard
+- Marke: ESPRIT
 
 [🛒 Hier!!]({{< param buyurl >}})
