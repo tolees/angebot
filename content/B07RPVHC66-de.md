@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bratpfanne aus emailliertem Gusseisen mit Hilfsgriff und Ausgießern, Made in France
 - Lieferumfang: 1 x Le Creuset Signature Hohe Brat- und Servierpfanne, 26 cm, Kirschrot, Maße: L 44,2 x B 29,8 x H 6,1 cm, Gewicht: 2,6 kg, Farbe: Kirschrot, 20187260600422
 - Vielseitig einsetzbar: erhitzt gleichmäßig bei anhaltender Wärmespeicherung, zum Braten, Anbraten, Schongaren oder Backen bei mittlerer Hitze
+- Bratpfanne aus emailliertem Gusseisen mit Hilfsgriff und Ausgießern, Made in France
 - Hilfsgriff für gleichmäßige Gewichtsverteilung, Gusseisengriff mit Haken zum Aufhängen, 30 Jahre Garantie
 - Einfach zu verwenden und zu reinigen: geeignet für Backöfen, Grills, BBQs und alle Herdarten (inkl. Induktion), einfach zu reinigende Emaille, spülmaschinenfest
 

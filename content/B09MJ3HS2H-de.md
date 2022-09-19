@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Detailart : Lange Unterhose
+- Weitere Details : Elastischer Bund
 - Weitere Details : Elastische Säume
 - Materialzusammensetzung: 100% Merinowolle
-- Weitere Details : Elastischer Bund
+- Detailart : Lange Unterhose
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

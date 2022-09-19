@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kinder haben eine tolle Auswahl an Charakteren und lernen, während sie spielen, indem sie ihr cooles Raumschiff mit echten LEGO Steinen bauen und spannende Herausforderungen meistern
 - Enthält 3 LEGO City - Abenteuer Minifiguren in Raumanzügen mit Helmen: Astronaut Lieutenant Jamie, ein Roboterhund, 2 Asteroiden und eine Marslandschaft
 - Enthält 3 Minifiguren und alle LEGO Teile, die Kinder brauchen, um ein Raumschiff für ihre Missionen zu bauen und Bauherausforderungen ohne Anleitung zu meistern
 - Jede Menge LEGO Zubehör für spannende Missionen: Metallsuchgerät, Luftdruckhammer, Laserschweißgerät, Feuerlöscher, Netz, Banane und Putenkeule
-- Kinder haben eine tolle Auswahl an Charakteren und lernen, während sie spielen, indem sie ihr cooles Raumschiff mit echten LEGO Steinen bauen und spannende Herausforderungen meistern
 - Interaktive LEGO City Missions Spielsets erfordern ein Smartphone oder Tablet mit der kostenlosen LEGO Building Instructions App
 - Mit diesem interaktiven LEGO City Set “Erkundungsmissionen im Weltraum” führen Kinder digitale Abenteuer mit LEGO Steinen aus, um Missionen auf dem Bildschirm zu lösen
 

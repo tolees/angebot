@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für z. B. Holzverschraubung mit stetig ansteigendem Drehmoment ohne Turbofunktion wie ein normaler Schraubendreher nutzbar
-- Robustes, wartungsfreies Getriebe aus Stahl
-- Aktivierung und Deaktivierung der Turbo-Funktion durch einfachen Knopfdruck
 - Turbo-Funktion speziell für leichtgängige Verschraubungen
+- Für z. B. Holzverschraubung mit stetig ansteigendem Drehmoment ohne Turbofunktion wie ein normaler Schraubendreher nutzbar
+- Aktivierung und Deaktivierung der Turbo-Funktion durch einfachen Knopfdruck
 - 4-fache Schraubgeschwindigkeit dank Turbo-Funktion (rein mechanisch - ohne Akku)
+- Robustes, wartungsfreies Getriebe aus Stahl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bedruckt bis zu 118 mm breite Etiketten (Druckbreite max. 104 mm)
-- Perfekt für Versandetiketten
 - USB- und Serielle-Schnittstellen
+- Bedruckt bis zu 118 mm breite Etiketten (Druckbreite max. 104 mm)
 - Hohe Druckgeschwindigkeit von bis zu 203 mm/Sek.
 - Hohe Druckqualität mit bis zu 203 dpi Auflösung
+- Perfekt für Versandetiketten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
