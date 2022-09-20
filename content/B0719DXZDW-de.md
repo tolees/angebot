@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Meistern Sie ein komplexe Kampfsystem, dass Sie fordern, motivieren und belohnen wird
 - Verwenden Sie das Jetpack zur Erkundung der offenen Welt und geschickt im Kampf
-- Das neue Spiel der Rollenspiel-Spezialisten von Piranha Bytes entführt Sie in eine erwachsene dystopische Science-Fantasy Zukunft
 - Folgen Sie Ihrem eigenen Pfad. Erkunden Sie die offene Welt voller Gefahren und schreiben Sie ihre eigene Geschichte
+- Das neue Spiel der Rollenspiel-Spezialisten von Piranha Bytes entführt Sie in eine erwachsene dystopische Science-Fantasy Zukunft
+- Meistern Sie ein komplexe Kampfsystem, dass Sie fordern, motivieren und belohnen wird
 
 [🛒 Hier!!]({{< param buyurl >}})

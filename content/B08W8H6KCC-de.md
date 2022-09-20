@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses LEGO Sportwagen-Sammlermodell verfügt über ein breiteres 8-Bolzen-Chassis, das Platz für ein 2-sitziges Cockpit bietet, um mit den 2 Minifiguren zu spielen
 - Enthalten ist ein wunderschön detaillierter LEGO Rennwagen des ultra-exklusiven McLaren Elva, dem super-aerodynamischen, rasanten Sportwagen der Extraklasse
 - Der McLaren Elva ist ein Modellauto zum selber Bauen, das mit seinen vielen Details Auto-Fans, Liebhaber und natürlich Kinder gleichermaßen beeindruckt
-- Enthalten ist außerdem eine LEGO Minifigur eines McLaren- Rennfahrers, komplett mit seinem detailgetreuem Rennanzug, Rennhelm und Schraubenschlüssel
+- Dieses LEGO Sportwagen-Sammlermodell verfügt über ein breiteres 8-Bolzen-Chassis, das Platz für ein 2-sitziges Cockpit bietet, um mit den 2 Minifiguren zu spielen
 - Mit den LEGO Speed Champions Rennwagen können Kinder Mini-Versionen der innovativsten Automobile der Welt sammeln, bauen und erkunden und als Spielzeugautos nutzen
+- Enthalten ist außerdem eine LEGO Minifigur eines McLaren- Rennfahrers, komplett mit seinem detailgetreuem Rennanzug, Rennhelm und Schraubenschlüssel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
