@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Neu ab März 2022: die NINJAGO Kai-Minifigur hat ein exklusives Elementarkraft-Outfit
 - Platziere Kai im Inneren des sich drehenden Spielzeugs, ziehe an der Reißleine oder teste seine Balance, indem du den Turm immer höher machst
-- Dieses robuste, 32-teilige LEGO NINJAGO Spinner-Spielzeug bietet den Kleinen ein cooles Bauerlebnis
-- Das spannende Action-Spielzeug ist ein kreatives Geschenk für Jungen und Mädchen, die ihre Spinjitzu Fähigkeiten verbessern möchten
-- Mit dem LEGO NINJAGO Spinner-Spielzeug kannst du Kai helfen, Spinjitzu zu meistern und ein aufregendes Ninja-Training zu erleben
-- LEGO NINJAGO Spinner hat die ideale Größe, um damit zu Hause zu spielen oder es auf Reisen mitzunehmen
 - Sieh dir 2 weitere NINJAGO Sets an: Lloyds Spinjitzu-Ninjatraining (70689) und Jays Spinjitzu-Ninjatraining (70690)
+- Dieses robuste, 32-teilige LEGO NINJAGO Spinner-Spielzeug bietet den Kleinen ein cooles Bauerlebnis
+- Neu ab März 2022: die NINJAGO Kai-Minifigur hat ein exklusives Elementarkraft-Outfit
+- LEGO NINJAGO Spinner hat die ideale Größe, um damit zu Hause zu spielen oder es auf Reisen mitzunehmen
+- Mit dem LEGO NINJAGO Spinner-Spielzeug kannst du Kai helfen, Spinjitzu zu meistern und ein aufregendes Ninja-Training zu erleben
+- Das spannende Action-Spielzeug ist ein kreatives Geschenk für Jungen und Mädchen, die ihre Spinjitzu Fähigkeiten verbessern möchten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

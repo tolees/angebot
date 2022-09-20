@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- The toy robot has a posable head, legs, feet, arms, hands & wings; the dragon model is also fully posable; the plane toy has adjustable wings
 - Kids can play out futuristic stories with the robot toy, roar into action with the dragon model or soar into the sky with the toy jet plane
-- The Super Robot toy for kids 7 years old lets them enjoy a 3 models in 1 set: a toy robot, a dragon figure and a toy LEGO jet plane
-- Portable size – the 5.5"15 cm robots height gives kids a chance to play with it at home or take it with them wherever they go
-- LEGO 3in1 creative construction toys let kids enjoy hours of imaginative play as they build 3 different colourful models in every box
+- The toy robot has a posable head, legs, feet, arms, hands & wings; the dragon model is also fully posable; the plane toy has adjustable wings
 - Look out for other new-for-March-2022 LEGO Creator 3in1 sets: Off-road Buggy 31123, Supersonic Jet 31126 & Fantasy Forest Creatures 31125
+- The Super Robot toy for kids 7 years old lets them enjoy a 3 models in 1 set: a toy robot, a dragon figure and a toy LEGO jet plane
+- LEGO 3in1 creative construction toys let kids enjoy hours of imaginative play as they build 3 different colourful models in every box
+- Portable size – the 5.5"15 cm robots height gives kids a chance to play with it at home or take it with them wherever they go
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

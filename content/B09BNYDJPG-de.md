@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das sich drehende Ninja-Spielzeug hat die ideale Größe, um damit zu Hause zu spielen oder es auf Reisen mitzunehmen
 - Neu ab März 2022: Die NINJAGO Jay-Minifigur hat ein exklusives Elementarkraft-Outfit
 - Mit dem LEGO NINJAGO Spinner-Spielzeug kannst du Jay helfen, die Kunst des Spinjitzu zu meistern
+- Das sich drehende Ninja-Spielzeug hat die ideale Größe, um damit zu Hause zu spielen oder es auf Reisen mitzunehmen
 - Dieses 25-teilige LEGO NINJAGO Action-Spielzeug bietet den Kleinen ein cooles und kreatives Bauerlebnis
 - Setze Jay in die drehende Glaskuppel, ziehe an der Reißleine und beobachte, wie er sich dreht und seine Kampfkünste mit der kreiselnden Trainingsattrappe misst
 

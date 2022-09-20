@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses LEGO Creator 3-in-1-Set ist eine unterhaltsames Bauaufgabe für Kinder ab 6 Jahre und eine tolle Belohnung für alle, die Weltraum Spielzeuge lieben
-- Die Drohne verfügt über 2 rotierende verstellbare Steuerraketen, bewegliche Höhenruder am Heck und ein Cockpit mit aufklappbarer Windschutzscheibe
-- Enthält ein 3-in-1-Modell: Eine Cyber-Drohne Spielzeug, einen Cyber-Mech und ein Cyber-Bike sowie eine Roboter-Minifigur (neu ab Januar 2021) mit transparentem blauem Kopf
-- Kinder können spannende Weltraumabenteuer erleben, indem sie die Drohne umherfliegen lassen oder mit dem Cyber-Mech oder Cyber-Bike am Boden herumflitzen
-- Der Roboter kann auf den 3 coolen Modellen mitfahren und sorgt in Kämpfen für zusätzlichen Spielspaß, während sich die Kinder actiongeladene Geschichten ausdenken
 - Entdecke auch die anderen LEGO-Creator-3-in-1-Sets: Wilder Löwe (31112), Rennwagentransporter (31113), Geländemotorrad (31114) und Surfer-Strandhaus (31118)
+- Der Roboter kann auf den 3 coolen Modellen mitfahren und sorgt in Kämpfen für zusätzlichen Spielspaß, während sich die Kinder actiongeladene Geschichten ausdenken
+- Kinder können spannende Weltraumabenteuer erleben, indem sie die Drohne umherfliegen lassen oder mit dem Cyber-Mech oder Cyber-Bike am Boden herumflitzen
+- Die Drohne verfügt über 2 rotierende verstellbare Steuerraketen, bewegliche Höhenruder am Heck und ein Cockpit mit aufklappbarer Windschutzscheibe
+- Dieses LEGO Creator 3-in-1-Set ist eine unterhaltsames Bauaufgabe für Kinder ab 6 Jahre und eine tolle Belohnung für alle, die Weltraum Spielzeuge lieben
+- Enthält ein 3-in-1-Modell: Eine Cyber-Drohne Spielzeug, einen Cyber-Mech und ein Cyber-Bike sowie eine Roboter-Minifigur (neu ab Januar 2021) mit transparentem blauem Kopf
 
 [🛒 Hier!!]({{< param buyurl >}})
