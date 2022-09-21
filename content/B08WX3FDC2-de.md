@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der im Dunkeln leuchtende Lichtbogenreaktor in der Brust der Figur leuchtet, wenn Kinder der Figur drehen, wenden und seine Position anpassen, um Bolzenschützen abzufeuern
 - Enthalten sind die Superhelden Figuren Iron Man, Obadiah Stane und Pepper Potts, zum Nachspielen endloser Marvel-Actionfigurenschlachten im Riesenformat
-- Das mechanische Spielzeug hat ein zu öffnendes Cockpit für eine LEGO Marvel Figur sowie einen 6-Stift-Shooter am rechten Arm und einen 3-Stift-Shooter am linken Arm
+- Der im Dunkeln leuchtende Lichtbogenreaktor in der Brust der Figur leuchtet, wenn Kinder der Figur drehen, wenden und seine Position anpassen, um Bolzenschützen abzufeuern
 - Die LEGO Marvel Avengers Bausätze sind ein tolles Geburtstagsgeschenk für Jungen und Mädchen ab 9 Jahren und erwecken die Action der Superheldenfilme zum Leben
 - Dieses LEGO Marvel Iron Man Spielzeug verfügt über bewegliche Gliedmaßen und eine funktionierende Aufhängung, die den Körper und die Schultern für realistische Bewegungen verbindet
+- Das mechanische Spielzeug hat ein zu öffnendes Cockpit für eine LEGO Marvel Figur sowie einen 6-Stift-Shooter am rechten Arm und einen 3-Stift-Shooter am linken Arm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
