@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pedal-Achse: Chromoly Stahl
 - Einsatzbereich: Road
-- Cleats: SM-SH11
+- Pedal-Achse: Chromoly Stahl
 - SPD/SPD-SL: Einseitig
 - Modell: PD-RS500
+- Cleats: SM-SH11
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

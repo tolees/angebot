@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Spielzeug-Rennauto-Set enthält einen LEGO Rennwagen im Formel-1-Stil, Mechanikerwerkzeuge für eine schnelle Reparatur und einen Siegerpokal
 - Dieses Kinderspielzeug enthält einen LEGO Hammer, einen Schraubenschlüssel, einen Sturzhelm und eine Siegertrophäe – für rasante Rennen und Reparaturen beim Boxenstopp
-- Inklusive 2 LEGO Minifiguren: eine Rennfahrer-Minifigur mit Sturzhelm und eine Mechaniker-Minifigur mit Schutzhelm und Werkzeug
 - Die Kinder können in Turbogeschwindigkeit über die Rennstrecke rasen und dann aussteigen und dem Mechaniker beim Boxenstopp helfen
 - Dieses LEGO Auto im Formel-1-Stil für Kinder ab 4 Jahren enthält einen LEGO Startbaustein für einen leichten Einstieg und eine bebilderte Bauanleitung
+- Dieses Spielzeug-Rennauto-Set enthält einen LEGO Rennwagen im Formel-1-Stil, Mechanikerwerkzeuge für eine schnelle Reparatur und einen Siegerpokal
+- Inklusive 2 LEGO Minifiguren: eine Rennfahrer-Minifigur mit Sturzhelm und eine Mechaniker-Minifigur mit Schutzhelm und Werkzeug
 
 [🛒 Hier!!]({{< param buyurl >}})

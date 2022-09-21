@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alle Zubehörteile finden im integrierten Zubehörfach Platz; knicksicherer Luftschlauch wird an der Frontseite aufgewickelt
 - Der Druck kann bei allen Lichtverhältnissen über ein beleuchtetes Manometer leicht abgelesen werden
-- Lieferumfang: UniversalPump 18V, Kugelnadel, französischer Ventiladapter, Ballonadapter, Karton
-- Auto-Ventil-Adapter fest mit dem Schlauchende verbunden, die anderen Adapter werden darauf geschraubt
+- Alle Zubehörteile finden im integrierten Zubehörfach Platz; knicksicherer Luftschlauch wird an der Frontseite aufgewickelt
 - Schnelles und kraftvolles Aufpumpen mit bis zu 10,3 bar Druck und 30 l/min Luftstrom
+- Auto-Ventil-Adapter fest mit dem Schlauchende verbunden, die anderen Adapter werden darauf geschraubt
+- Lieferumfang: UniversalPump 18V, Kugelnadel, französischer Ventiladapter, Ballonadapter, Karton
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

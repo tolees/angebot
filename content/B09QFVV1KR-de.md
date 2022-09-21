@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der AT-ST Walker ist beweglich und hat einen Cockpit für den Piloten; das Ewok-Versteck besteht aus einem Baum und einem Katapult, mit dem Wicket Steine schleudern kann
 - Enthält 3 LEGO Minifiguren: Wicket, der Ewok mit Pfeil und Bogen und ein Scout Trooper und AT-ST Pilot mit jeweils einer Blaster-Pistole, um die Schlacht auf Endor als spannende Actionrollenspiele darzustellen
 - Dieses LEGO Star Wars 4+ Starterset lässt sich rasch bauen und nach Schlachten wieder zusammensetzen und ist ein tolles Geburtstagsgeschenk, Weihnachtsgeschenk oder Überraschung für kreative Kinder
+- Der AT-ST Walker ist beweglich und hat einen Cockpit für den Piloten; das Ewok-Versteck besteht aus einem Baum und einem Katapult, mit dem Wicket Steine schleudern kann
 - Dieses LEGO Star Wars AT-ST Konstruktionsspielzeug für Vorschul-Kinder ab 4 Jahren verfügt über ein Starter-Bauelement für eine schnelle Zusammensetzung und um die Action in Gang zu bringen
 - Kinder ab 4 Jahren können dem mutigen Ewok Wicket helfen, den Aussichtsposten gegen die Scout Troopers zu verteidigen, bevor der mächtige AT-ST die Bäume zertrümmert, während er vorbeifährt
 

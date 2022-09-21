@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Die Pinguin-Minifigur besitzt eine Pistole und einen Handraketenwerfer mit integriertem Bolzenwerfer, der runde Kugeln abfeuert
 - Dieses LEGO Superhelden-Set enthält 2 LEGO-Minifiguren: eine Batman-Minifigur mit Stoffumhang und den Superschurken Pinguin mit coolen Waffen
 - Die Windschutzscheibe und das Dach lassen sich abnehmen, damit die Batman-Minifigur im Cockpit des Batmobils platznehmen kann, das sogar Platz für einen Beifahrer hat
-- Enthält ein kampfbereites Batman-Spielzeugauto mit 2 Raketenwerfern samt Sprungfeder, die Mega-Raketen aus der Vorderseite des Autos abfeuern
 - Dieses Batman-Spielzeug zum Bauen für Kinder ab 8 Jahren ist ein tolles Geburtstagsgeschenk für Fans von Batman, dem Batmobile und supercoolen Spielzeugautos
+- Enthält ein kampfbereites Batman-Spielzeugauto mit 2 Raketenwerfern samt Sprungfeder, die Mega-Raketen aus der Vorderseite des Autos abfeuern
 - Die Raketen können gleichzeitig oder einzeln abgefeuert werden, wenn die Kinder auf die Platten auf der Motorhaube drücken
 
 [🛒 Hier!!]({{< param buyurl >}})

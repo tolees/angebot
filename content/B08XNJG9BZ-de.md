@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gaming Features: AMD FreeSync Premium, Black Stabilizer und Dynamic Action Sync bieten entscheidende Vorteile im Spiel
-- Anschlüsse: 2 x HDMI, DisplayPort 1.4, Kopfhörerausgang
 - Bildschirm mit HDR10, Bildwiederholrate von 165 Hz und 5ms (GtG); inkl. Smart Energy Saving Funktion, Reader Mode, augenschonender Flicker Safe Backlight Technologie, 1ms Motion Blur Reduction und verschiedene Bildmodi
+- Anschlüsse: 2 x HDMI, DisplayPort 1.4, Kopfhörerausgang
 - Lieferumfang: 32GN600-B, Netzkabel, Kurzbedienungsanleitung, externes Netzteil, DisplayPort-Kabel
 - 31,5 Zoll (80 cm) VA-Display mit QHD-Auflösung (2.560 x 1.440 px) und sRGB 95% (typ.); Bildformat: 16:9
 
