@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Gläser enthält eine integrierte, gläserne Dekantierkugel
-- Ein Bordeauxglas fasst 843ml, hat eine Höhe von 232mm und einen Durchmesser von 108mm
 - Set mit 2 eleganten Rotweingläsern / Bordeauxgläsern von Zwiesel Glas aus der Kollektion Air Sense
-- Klares, skandinavisches Design trifft auf Glas in Perfektion
 - Gemeinsam mit dem schwedischen Designduo Bernadotte & Kylberg entstand die mundgeblasene, exklusive Konzeptserie Air Sense
+- Ein Bordeauxglas fasst 843ml, hat eine Höhe von 232mm und einen Durchmesser von 108mm
+- Die Gläser enthält eine integrierte, gläserne Dekantierkugel
+- Klares, skandinavisches Design trifft auf Glas in Perfektion
 
 [🛒 Hier!!]({{< param buyurl >}})

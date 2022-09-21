@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langersehnte F1-Splitscreen-Action: Liefere dir mit Familie und Freunden hitzige Kopf-an-Kopf-Rennen
-- Das offizielle Videospiel der 2020 Formula One World Championship
-- Fahre erstmals auf den brandneuen Strecken Zandvoort und Hanoi
 - Tritt online gegen andere Fahrer an! Mit oder ohne Ranglisten, Ligen, benutzerdefinierte Rennen und wöchentliche Events
+- Fahre erstmals auf den brandneuen Strecken Zandvoort und Hanoi
+- Das offizielle Videospiel der 2020 Formula One World Championship
+- Langersehnte F1-Splitscreen-Action: Liefere dir mit Familie und Freunden hitzige Kopf-an-Kopf-Rennen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

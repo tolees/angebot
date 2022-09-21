@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses LEGO DUPLO Marvel Spider-Man Bauset enthält ein baubares "Gebäude" in Form einer Spinne, drei DUPLO Figuren und jede Menge weiteres Zubehör
-- Enthalten sind 3 DUPLO Superheldenfiguren: Spider-Man, Miles Morales und Ghost Spider aus der beliebten Disney+ TV-Serie „Spidey und seine Super-Freunde"
 - Dieses unendlich anpassungsfähige Spider-Man Spielzeug zum Bauen bietet viele Möglichkeiten für die Superheldenfreunde, als Team zu arbeiten und lustige Aktivitäten zu unternehmen
+- Enthalten sind 3 DUPLO Superheldenfiguren: Spider-Man, Miles Morales und Ghost Spider aus der beliebten Disney+ TV-Serie „Spidey und seine Super-Freunde"
+- Dieses LEGO DUPLO Marvel Spider-Man Bauset enthält ein baubares "Gebäude" in Form einer Spinne, drei DUPLO Figuren und jede Menge weiteres Zubehör
 - Das Kinderspielzeug ab 2 Jahre beinhaltet ein Spielzeugmotorrad, eine Rutsche und eine Seilschaukel, deren Größe genau richtig für Kleinkinder im Vorschulalter ist
 - Als Zubehör gibt es eine Kamera, eine "gedruckte" Zeitung, ein Spider-Man-Spielzeugposter und einen Globus, auf dem Spider-Man-Sichtungen markiert sind
 
