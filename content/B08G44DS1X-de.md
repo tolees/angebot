@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41444 Friends Heartlake City Bio-Café Set  Restaurant Spielzeug ab 6 Jahren mit Mia und Anderen Mini-Puppen  Lernspielzeug'
-date: 2022-09-18 12:22:25
+date: 2022-09-21 07:49:42
 image: 'https://m.media-amazon.com/images/I/51JP72tKL0S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08G44DS1X-de LEGO 41444 Friends Heartlake City Bio-Café Set Restaurant...'
 sku: 'B08G44DS1X-de'
 tags: [ 'Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','lego','🇩🇪', ]
-actualPrice: 19.75 EUR
+actualPrice: 19.99 EUR
 currency: EUR
-price: 19.75
+price: 19.99
 comparePrice: 29.99 EUR
 prodname: 'LEGO 41444 Friends Heartlake City Bio-Café Set  Restaurant Spielzeug ab 6 Jahren mit Mia und Anderen Mini-Puppen  Lernspielzeug'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G44DS1X/?tag=tolees0ca-21'
-descuento: '34.14'
-average: '22.0352142857144'
+descuento: '33.34'
+average: '22.0207092198583'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
