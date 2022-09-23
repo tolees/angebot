@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Klassische Ganzjahresjacke – Die Hardshelljacke für Herren kann dank der kombinierbaren Ober- und Unterjacke perfekt das ganze Jahr und bei jedem Wetter getragen werden
 - Praktischer Lieferumfang – Jack Wolfskin Arland 3in1 M, wasser-, winddichte & atmungsaktive Herrenjacke mit entfernbarer Fleecejacke, PFC-frei, Farbe: Black, Größe: M
 - Warme Innenjacke – Bei Bedarf kann die warme Fleecejacke per Reißverschluss von der Oberjacke entfernt werden. So sind beide Jacken zusammen oder einzeln tragbar
-- Klassische Ganzjahresjacke – Die Hardshelljacke für Herren kann dank der kombinierbaren Ober- und Unterjacke perfekt das ganze Jahr und bei jedem Wetter getragen werden
 - Anpassbares Design – Die flexible Übergangsjacke für Herren ist mit einer abnehmbaren Kapuze ausgestattet, die zudem im Gesichtsfeld und Volumen eingestellt werden kann
 - Allwetter-Schutz – Dank der hochwertigen Wetterschutz-Membran ist die Herren Jacke wasser- sowie winddicht und bietet dennoch eine hervorragende Atmungsaktivität
 

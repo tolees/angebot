@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 50% TENCEL Lyocell, 50% Bio-Baumwolle
-- TENCEL LYOCELL und Bio-Baumwolle
 - Einfach zu kombinierender Rundhalsausschnitt
+- Materialzusammensetzung: 50% TENCEL Lyocell, 50% Bio-Baumwolle
 - Strickpullover mit Rundhalsausschnitt
+- TENCEL LYOCELL und Bio-Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
