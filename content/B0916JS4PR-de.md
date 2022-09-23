@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewebt mit einem Hauch Stretch für ganztägigen Komfort und Bewegungsfreiheit
 - Wir kombinieren sie am liebsten mit unserer Trucker Jacke
 - Die perfekte Leinwand zum selbst gestalten für einen individuellen Look
-- Die Original Blue Jeans
 - Unser Signature Straight Fit im typisch amerikanischen Stil
+- Die Original Blue Jeans
+- Gewebt mit einem Hauch Stretch für ganztägigen Komfort und Bewegungsfreiheit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Reine Baumwolle
+- Rundhalsausschnitt
 - Zweifarbige Optik
 - Locker geschnittenes T-Shirt
-- Rundhalsausschnitt
-- Reine Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})

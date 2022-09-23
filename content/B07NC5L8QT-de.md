@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Feuerstelle sorgt für Lagerfeuer-Romantik und mit der Gitarre, den zwei Stühlen und den zwei Marshmallow-Spießen entstehen tolle Camping-Songs und -Geschichten.
-- Den Camper an das Auto hängen, Chelsea auf den Fahrersitz setzen und anschieben, schon kann die Reise losgehen!
+- Und die beiden Stockbetten mit einer Leiter garantieren süße Träume auf der Reise.
 - Den Camper dann am Ziel abkoppeln, um mit dem Cabrio alleine herumzufahren oder einen Campingplatz aufzubauen – dazu den Wohnwagen einfach entriegeln und öffnen.
 - Mit dem Barbie Chelsea Camper und Puppe Spielset können Kinder jederzeit tolle Camping-Abenteuer erleben!
-- Und die beiden Stockbetten mit einer Leiter garantieren süße Träume auf der Reise.
+- Den Camper an das Auto hängen, Chelsea auf den Fahrersitz setzen und anschieben, schon kann die Reise losgehen!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

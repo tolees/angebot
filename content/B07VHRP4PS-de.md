@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kompatible Smart Home Systeme: Osram Lightify, Philips Hue, Telekom Magenta, Quivicon, Samsung SmartThings, Schwaiger4You und viele mehr
-- Individuelle Lichtatmosphäre -> Steuern der Farbtemperatur von warmweiß (2700 K) bis tageslichtweiß (6500 K), Dimmen und RGB Farbwechsel - ganz einfach über die App, per Sprachkommando oder auch aus der Ferne
+- echter Ersatz für eine 60 Watt Glühbirne -> LED in Kolbenform mit matter Oberfläche und E27 Sockel für den gewohnten einfachen Austausch
 - geringer Stromverbrauch -> energiesparende 10 W LED mit A und einer Lichtleistung von 806 Lumen
 - ZigBee Produkt -> Erweitern Sie Ihr Smart Home: Direkt steuerbar über Echo Show und Echo Plus. Für die Nutzung mit Echo, Echo Dot und Echo Spot ist ein zusätzliches Gateway nötig.
-- echter Ersatz für eine 60 Watt Glühbirne -> LED in Kolbenform mit matter Oberfläche und E27 Sockel für den gewohnten einfachen Austausch
+- Individuelle Lichtatmosphäre -> Steuern der Farbtemperatur von warmweiß (2700 K) bis tageslichtweiß (6500 K), Dimmen und RGB Farbwechsel - ganz einfach über die App, per Sprachkommando oder auch aus der Ferne
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flacher 12V LED-Trafo - zum Anschluss von 12V LED Leuchtmittel an 230V
 - Gesamt-Wattzahl der angeschlossenen LEDs, darf den Bereich der Gesamtlast von 20 Watt nicht überschreiten
-- Elektronischer Trafo ohne Mindestlast ist für Montage in Möbeln zugelassen
 - Vorschaltgerät für LEDs liefert konstante 12 V Ausgangsspannung – für Parallelschaltung geeignet
+- Flacher 12V LED-Trafo - zum Anschluss von 12V LED Leuchtmittel an 230V
 - Max. Leistung: 20 W; Mindestlast: 0 W; Leistungsaufnahme Nullast: 0,5 W; Max. Stromstärke Out: 1,25A; Max. Spannung OUT: 12V; Maße: 103 x 35,5 x 16 mm; Nicht Dimmbar
+- Elektronischer Trafo ohne Mindestlast ist für Montage in Möbeln zugelassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

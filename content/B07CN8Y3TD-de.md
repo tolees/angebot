@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Breite Einstellung: Entspannt
-- Herstellercode: 204537
 - Futter: Croslite
+- Herstellercode: 204537
+- Breite Einstellung: Entspannt
 - Uppers: Croslite
 
 [🛒 Hier!!]({{< param buyurl >}})
