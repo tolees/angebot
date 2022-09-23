@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mini-Anlage mit USB-Eingang für Musikwiedergabe
-- Uhr und Timer-Funktion
-- Mini-HiFi-Anlage für vielseitige Programmauswahl und UKW Radio
 - Kompaktes Musik-CD-System mit 20 W (RMS) Ausgangsleistung
 - Stereo-Kompaktanlage mit Bluetooth: volle Flexibilität für alle Tablets und Smartphones
+- Mini-HiFi-Anlage für vielseitige Programmauswahl und UKW Radio
+- Uhr und Timer-Funktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
