@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hinweis: Wenn das Powerline-Netzwerk keine Internetverbindung hat, stellen Sie sicher, dass alle Ihre Powerline-Geräte mit demselben Stromkreis verbunden sind - Stellen Sie sicher, dass die Powerline-LEDs aller Ihrer Powerline-Geräte leuchten. Falls nicht, koppeln Sie Ihre Geräte erneut. - Ihre Geräte sollten korrekt miteinander verbunden sein. - Prüfen Sie direkt an Ihrem Modem/Router, ob dort eine Internetverbindung besteht.
-- Mehrere LAN-Ports zum Anschluss von z.B. Spielekonsolen, Computer und Smart TVs
-- Reichweitenvergrößerung auf Tastendruck: mit WiFi-Clone-Taste werden die WLAN-Einstellungen des Routers kopiert – für ein nahtlos benutzbares, großes WLAN im ganzen Haus
-- Powerline-Geschwindigkeit bis zu 600 Mbit/s über bestehende Stromleitungen nach HomePlug AV, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming WLAN-Geschwindigkeit bis zu 300 Mbit/s zu Erweiterung der bestehenden WLAN-Abdeckung
 - Lieferumfang: Powerline-Ethernet-Adapter TL-WPA4220 und TL-PA4010, 2m-RJ45-Ethernetkabel, CD, Schnellinstallationsanleitung
+- Powerline-Geschwindigkeit bis zu 600 Mbit/s über bestehende Stromleitungen nach HomePlug AV, ideal für unterbrechungsfreies HD-Videostreaming und Online-Gaming WLAN-Geschwindigkeit bis zu 300 Mbit/s zu Erweiterung der bestehenden WLAN-Abdeckung
+- Reichweitenvergrößerung auf Tastendruck: mit WiFi-Clone-Taste werden die WLAN-Einstellungen des Routers kopiert – für ein nahtlos benutzbares, großes WLAN im ganzen Haus
+- Mehrere LAN-Ports zum Anschluss von z.B. Spielekonsolen, Computer und Smart TVs
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Verbessert die Mundhygiene – Zweimal am Tag angewendet, verbessert LISTERINE Cool Mint milder Geschmack die Mundhygiene – mit ätherischen Ölen und ohne Alkohol
 - Bekämpft Bakterien – Die antibakterielle Mundspülung bekämpft Bakterien auch dort, wo die Zahnbürste nicht hinkommt: zwischen den Zähnen, am Zahnfleisch und auf der Zunge
-- Antibakterielle Wirkung – Die Mundspülung von LISTERINE entfernt bis zu 97% der nach dem Zähneputzen verbliebenen Bakterien und gibt ein langanhaltendes Frischegefühl
 - Lieferumfang – 1 x 600ml LISTERINE Cool Mint milder Geschmack, die Mundspülung entfernt bis zu 97% der nach dem Zähneputzen verbliebenen Bakterien
+- Antibakterielle Wirkung – Die Mundspülung von LISTERINE entfernt bis zu 97% der nach dem Zähneputzen verbliebenen Bakterien und gibt ein langanhaltendes Frischegefühl
 - Flasche 100% recycelbar und enthält 50% recyceltes Plastik - Umwelt-Tipp: mit geschlossenem Deckel auf der Flasche entsorgen Sicherheitssiegel ausgenommen
 
 [🛒 Hier!!]({{< param buyurl >}})
