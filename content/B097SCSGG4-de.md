@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Blink Outdoor ist darauf ausgelegt, den Elementen standzuhalten, damit Sie Ihr Zuhause innen oder außen bei jeder Witterung schützen können.
-- Sehen und hören Sie Besucher und sprechen Sie mit ihnen in Echtzeit über die Blink Home Monitor App, dank Live-Video und Zwei-Wege-Audio (Live-Video wird nicht kontinuierlich aufgezeichnet).
-- Sie können Ihre Clips entweder in der Cloud speichern und weitergeben, indem Sie eine kostenlose Testversion des im Lieferumfang enthaltenen Blink-Abonnements nutzen, oder lokal mit dem Sync Module 2 und dem USB-Laufwerk (separat erhältlich). Die Testversion ist bis Januar 2023 gültig. Sie werden mindestens 30 Tage vor Ablauf Ihres kostenlosen Testzeitraums benachrichtigt und erhalten Informationen darüber, wie Sie sich anmelden können. Für die Nutzung der lokalen Videospeicherung fallen keine monatlichen Gebühren an.
 - Dank der langen Batterielebensdauer läuft die Outdoor-Kamera bis zu zwei Jahre mit zwei AA-Lithiumbatterien (im Lieferumfang enthalten).
-- Einfach in wenigen Minuten selbst einzurichten. Keine Verdrahtung oder professionelle Installation erforderlich.
-- Bei Bewegungserfassung können Sie Benachrichtigungen auf Ihr Telefon erhalten, mit der Option, Bewegungszonen in der Blink Home Monitor App so anzupassen, dass Sie nur bei wichtigen Ereignissen benachrichtigt werden.
 - Funktioniert mit Alexa – überwachen Sie Ihr Zuhause per Sprachbefehl über unterstützte Alexa-fähige Geräte.
-- Dieses Bundle enthält Blink Outdoor HD-Sicherheitskamera (2 Kamera) und einen Echo Show 5 (2. Gen.)
+- Blink Outdoor ist darauf ausgelegt, den Elementen standzuhalten, damit Sie Ihr Zuhause innen oder außen bei jeder Witterung schützen können.
+- Bei Bewegungserfassung können Sie Benachrichtigungen auf Ihr Telefon erhalten, mit der Option, Bewegungszonen in der Blink Home Monitor App so anzupassen, dass Sie nur bei wichtigen Ereignissen benachrichtigt werden.
+- Einfach in wenigen Minuten selbst einzurichten. Keine Verdrahtung oder professionelle Installation erforderlich.
+- Sie können Ihre Clips entweder in der Cloud speichern und weitergeben, indem Sie eine kostenlose Testversion des im Lieferumfang enthaltenen Blink-Abonnements nutzen, oder lokal mit dem Sync Module 2 und dem USB-Laufwerk (separat erhältlich). Die Testversion ist bis Januar 2023 gültig. Sie werden mindestens 30 Tage vor Ablauf Ihres kostenlosen Testzeitraums benachrichtigt und erhalten Informationen darüber, wie Sie sich anmelden können. Für die Nutzung der lokalen Videospeicherung fallen keine monatlichen Gebühren an.
+- Sehen und hören Sie Besucher und sprechen Sie mit ihnen in Echtzeit über die Blink Home Monitor App, dank Live-Video und Zwei-Wege-Audio (Live-Video wird nicht kontinuierlich aufgezeichnet).
 - Blink Outdoor ist eine kabellose, batteriebetriebene HD-Überwachungskamera, mit der Sie Ihr Zuhause am Tag und mit Infrarot-Nachtsicht bei Dunkelheit überwachen können.
+- Dieses Bundle enthält Blink Outdoor HD-Sicherheitskamera (2 Kamera) und einen Echo Show 5 (2. Gen.)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

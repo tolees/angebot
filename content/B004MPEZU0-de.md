@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ordnung zum Mitnehmen: Mobiler Tragerahmen bestückt mit 4 Sortimentskoffern Assorter 55 4x8.
+- Korpus und Deckel der Sortimentskoffer bestehen aus robustem Kunststoff, der Deckel in transparenter Ausführung zur leichten Identifizierung des Inhalts.
+- Bestückt sind die 4 Sortimentskoffer mit herausnehmbaren Einsätzen (Typ 55 A), die eine bedarfsgerechte Einteilung und leichten Zugriff auf den Kofferinhalt ermöglichen; weitere Einsätze als Zubehör erhältlich
 - Inkl. ergonomischen Tragegriff; mittels seitlicher Profile rasten die Sortimentskoffer sicher in den Tragerahmen ein
 - Profilraster im Koffer verhindern ein Verrutschen des Inhalts, 2 stabile Schiebeverschlüsse ein unbeabsichtigtes Öffnen des Kofferdeckels
-- Ordnung zum Mitnehmen: Mobiler Tragerahmen bestückt mit 4 Sortimentskoffern Assorter 55 4x8.
-- Bestückt sind die 4 Sortimentskoffer mit herausnehmbaren Einsätzen (Typ 55 A), die eine bedarfsgerechte Einteilung und leichten Zugriff auf den Kofferinhalt ermöglichen; weitere Einsätze als Zubehör erhältlich
-- Korpus und Deckel der Sortimentskoffer bestehen aus robustem Kunststoff, der Deckel in transparenter Ausführung zur leichten Identifizierung des Inhalts.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

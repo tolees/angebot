@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Behalten Sie Ihr Zuhause jederzeit im Blick mit Live-Video und der Ring App.
-- Behalten Sie Ihr gesamtes Zuhause im Blick, indem Sie in der Ring App eine oder mehrere Stick Up Cams mit Ihren Ring-Geräten verbinden.
-- Konfigurieren Sie die Einstellungen für die Bewegungserfassung und erhalten Sie eine Benachrichtigung, sobald eine Bewegung erfasst wird.
-- Standardfunktionen wie Sofortbenachrichtigungen, Live-Video und Gegensprechfunktion sind sofort und kostenfrei auf allen Ring-Geräten verfügbar. Mit einem Ring Protect-Abonnement (separat erhältlich) können Sie verpasste Momente außerdem aufzeichnen, überprüfen und teilen (30-tägiger Testzeitraum im Kauf enthalten).
-- Dieses Bundle enthält eine Ring Outdoor Kamera (Ring Stick Up Cam Battery), und einen Echo Show 5 (2. Generation, 2021)
-- Sehen, hören und sprechen Sie mit Personen und Haustieren von Ihrem Mobiltelefon, Tablet oder Echo-Gerät aus. Die batteriebetriebene HD-Sicherheitskamera Ring Stick Up Cam Battery kann sowohl im Innen- als auch im Außenbereich angebracht werden.
-- Installieren Sie Ihre Stick Up Cam ganz einfach in nur wenigen Minuten.
 - Betrieben durch einen herausnehmbaren Schnellwechsel-Akkupack.
 - Die Kamera lässt sich überall positionieren – im Innen- oder Außenbereich, auf einer flachen Oberfläche oder montiert an einer Mauer.
+- Dieses Bundle enthält eine Ring Outdoor Kamera (Ring Stick Up Cam Battery), und einen Echo Show 5 (2. Generation, 2021)
+- Installieren Sie Ihre Stick Up Cam ganz einfach in nur wenigen Minuten.
+- Behalten Sie Ihr gesamtes Zuhause im Blick, indem Sie in der Ring App eine oder mehrere Stick Up Cams mit Ihren Ring-Geräten verbinden.
+- Sehen, hören und sprechen Sie mit Personen und Haustieren von Ihrem Mobiltelefon, Tablet oder Echo-Gerät aus. Die batteriebetriebene HD-Sicherheitskamera Ring Stick Up Cam Battery kann sowohl im Innen- als auch im Außenbereich angebracht werden.
+- Standardfunktionen wie Sofortbenachrichtigungen, Live-Video und Gegensprechfunktion sind sofort und kostenfrei auf allen Ring-Geräten verfügbar. Mit einem Ring Protect-Abonnement (separat erhältlich) können Sie verpasste Momente außerdem aufzeichnen, überprüfen und teilen (30-tägiger Testzeitraum im Kauf enthalten).
+- Behalten Sie Ihr Zuhause jederzeit im Blick mit Live-Video und der Ring App.
+- Konfigurieren Sie die Einstellungen für die Bewegungserfassung und erhalten Sie eine Benachrichtigung, sobald eine Bewegung erfasst wird.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

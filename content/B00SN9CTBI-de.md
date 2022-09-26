@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x Rotho Babydesign TOP Xtra Badestation, Inkl. Badewanne, Wanneneinlage, Funktionsständer und Ablaufschlauch, Maße: 129x51,5x102 cm, Material: Polypropylen-Kunststoff/Stahl, Farbe: Weiß, Art.-Nr.: 21041000101
-- Ergonomisch und bequem: Rückenschonendes Baden dank Höhenverstellbarkeit des Ständers (98-101cm), Unterstützung beim Halten des Babys dank rutschfestem Wanneneinsatz, Praktische Seitenablagen für wichtige Utensilien
 - Einfaches Entleeren der Wanne dank Ablaufstopfen und Ablaufschlauch, Dickwandiges und langlebiges Material aus hochwertigem, recycelbarem Polypropylen, Abwischbar mit warmem Wasser und Seife, Markenqualität Made in Germany
+- Ergonomisch und bequem: Rückenschonendes Baden dank Höhenverstellbarkeit des Ständers (98-101cm), Unterstützung beim Halten des Babys dank rutschfestem Wanneneinsatz, Praktische Seitenablagen für wichtige Utensilien
+- Lieferumfang: 1 x Rotho Babydesign TOP Xtra Badestation, Inkl. Badewanne, Wanneneinlage, Funktionsständer und Ablaufschlauch, Maße: 129x51,5x102 cm, Material: Polypropylen-Kunststoff/Stahl, Farbe: Weiß, Art.-Nr.: 21041000101
 - Einfaches Auf- und Abbauen des Badewannenständers mit Handtuchhalter, Stabiler Halt der Wanne durch festes Aufliegen im oberen Rahmen, Abnehmbare, im Rahmen verstaubare Standfüße zur Nutzung auf dem Boden und zur platzsparenden Aufbewahrung
 - Die optimale Badelösung mit einem Extra an Komfort: Große Badewanne mit 2 Antirutschmatten, Wanneneinlage (weiß), Wannen-Funktionsständer und Ablaufschlauch, Ideal für Geschwister oder Zwillingskinder von 0-12 Monate (max. 15 kg pro Kind)
 

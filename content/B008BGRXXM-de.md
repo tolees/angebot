@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 900 tolle Gassibeutel auf 60 Nachfüllrollen, die auch perfekt in unseren Beutelspender passen
 - Earth Rated bedeutet: wir verwenden recycelte Materialien für die Verpackung, wie auch für die Rollenkerne
+- Kinderleicht: einfach zu öffnen und sicher zu verknoten, sodass Sie einen stressfreien Spaziergang mit ihrem besten Freund genießen können
 - Hundekot riecht nicht nach Rosen: unser Lavendelduft schließt den Gestank ein für alle Mal ein
 - Hundekot leichter beseitigen: Unsere 23 x 33 cm große Beutel sind garantiert zu 100 Prozent auslaufsicher - für saubere Hände
-- Lieferumfang: 900 tolle Gassibeutel auf 60 Nachfüllrollen, die auch perfekt in unseren Beutelspender passen
-- Kinderleicht: einfach zu öffnen und sicher zu verknoten, sodass Sie einen stressfreien Spaziergang mit ihrem besten Freund genießen können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

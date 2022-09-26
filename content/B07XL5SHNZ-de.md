@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Cases werden aus speziell gegerbtem
 - Die Tasten aus Aluminium passen zur Farbe deines Leder Case
-- Wie jedes von Apple entwickelte Case muss es im Laufe des Design- und Fertigungs­prozesses Tausende von Teststunden durchlaufen.
 - So bleibt alles schön dünn.
-- Und zum kabellosen Laden musst du das Case nicht abnehmen.
-- Dadurch fühlt sich die Außenseite weich an und bekommt mit der Zeit eine schöne
-- Diese von Apple designten Cases passen sich perfekt der Form deines iPhone an.
 - Kompatibilität: iPhone 11 Pro Max
+- Wie jedes von Apple entwickelte Case muss es im Laufe des Design- und Fertigungs­prozesses Tausende von Teststunden durchlaufen.
+- Die Cases werden aus speziell gegerbtem
+- Dadurch fühlt sich die Außenseite weich an und bekommt mit der Zeit eine schöne
+- Und zum kabellosen Laden musst du das Case nicht abnehmen.
 - Deshalb sieht es nicht nur großartig aus
+- Diese von Apple designten Cases passen sich perfekt der Form deines iPhone an.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der 3dRudder ist ein Fuß-Controller, der im Sitzen und in Kombination mit dem PS Moves, dem Aim-Controller oder dem DualShock4-Gamepad je nach Game verwendet werden kann.
-- Kompatibel mit über 30 PlayStation VR-Spielen: Space Junkies, Immortal Legacy, Sairento, Scraper, The Wizards Enhanced Edition...
-- Der 3dRudder PS VR ist der Fuß-Motion-Controller für PlayStation VR. Offiziell von PlayStation lizenziertes Produkt.
 - Bewegungsfreiheit: Mit dem 3dRudder kann man sich vorwärts/rückwärts, nach links/rechts bewegen, sich drehen/kreisen, Richtungen kombinieren und die Geschwindigkeit steuern.
+- Kompatibel mit über 30 PlayStation VR-Spielen: Space Junkies, Immortal Legacy, Sairento, Scraper, The Wizards Enhanced Edition...
 - Hände frei für die Action: Bewegen dich mit den Füßen und deine Hände sind frei zum Schießen, Schlagen, Greifen von Gegenständen…
+- Der 3dRudder PS VR ist der Fuß-Motion-Controller für PlayStation VR. Offiziell von PlayStation lizenziertes Produkt.
 
 [🛒 Hier!!]({{< param buyurl >}})

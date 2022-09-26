@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit weicher und nachhaltiger Baumwolle
-- Mit Logo-Badge hinten am Bund
 - Piers Slim Jeans im Five-Pocket-Style
-- Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei niedriger Temperatur bügeln (110° C) / Schonwaschgang bei max. 30°C
+- Mit Logo-Badge hinten am Bund
 - Mit Knopf und Reißverschluss zu schließen
+- Mit weicher und nachhaltiger Baumwolle
 - Passform: Piers Slim Fit: niedrige Leibhöhe, schmales Bein, schmale Beinöffnung
+- Waschhinweis: Keine chemische Reinigung möglich / Trocknen im Trockner nicht möglich / Kein Bleichmittel erlaubt / Bei niedriger Temperatur bügeln (110° C) / Schonwaschgang bei max. 30°C
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

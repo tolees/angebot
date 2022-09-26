@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taillen Bund und Hosenbündchen aus Rippstrick
-- Stretch Taillen Bund mit Tunnelzug
 - Tunnelzug Bänder mit Branding an den Enden
 - Aufgesetzte Tommy Hilfiger Logo Streifen an den Seiten
+- Taillen Bund und Hosenbündchen aus Rippstrick
+- Stretch Taillen Bund mit Tunnelzug
 - Zwei Leistentaschen vorne
 - Aufgestickte Tommy Hilfiger Flagge auf der Tasche
 
