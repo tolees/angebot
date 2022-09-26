@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch - Jim Carroll in den Straßen von New York  Blu-ray '
-date: 2022-09-21 06:41:37
+date: 2022-09-26 00:51:37
 image: 'https://m.media-amazon.com/images/I/41NT3fMLD1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Koch'
 buyurl: 'https://www.amazon.de/dp/B00JKAJGHY/?tag=tolees0ca-21'
 descuento: '20.03'
-average: '6.87354838709677'
+average: '6.8459375'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
