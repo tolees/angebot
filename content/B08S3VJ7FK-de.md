@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenseite: A-förmige Gewebebandkonstruktion mit Schlaufe, Kordelzug an der Taille und eine Innentasche
-- Eingrifftaschen in der Naht
 - Schirmkapuze, gerippter Kragen innen
 - Lange Ärmel, gerippte Innenbündchen
 - Gewebeband vorne an den Schultern und an den Tascheneingriffen
+- Eingrifftaschen in der Naht
 
 [🛒 Hier!!]({{< param buyurl >}})
