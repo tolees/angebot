@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mikrofon- und Instrumenteneingang gleichzeitig aufzeichnen
+- Kardioide (unidirektionale), bidirektionale und omnidirektionale Aufnahmemuster
+- 24-bit, 96kHz Auflösung
+- USB-Ausgang zum Anschluss an ein beliebiges Mac- oder PC-Gerät
+- 1/8"-Stereo-Kopfhörerausgang mit Pegelregler für latenzfreies Monitoring
 - Doppel-Kondensatorkapsel 1" (25 mm)
-- Ideal für Podcasting, Spiele/Streaming und Musikaufnahmen
+- Mikrofon- und Instrumenteneingang gleichzeitig aufzeichnen
 - 1/4"-Instrumenteneingang zum Anschluss von Gitarren oder Line-Pegel-Geräten
 - Professionelles All-in-One-USB-Mikrofon mit Audioschnittstelle
-- 1/8"-Stereo-Kopfhörerausgang mit Pegelregler für latenzfreies Monitoring
+- Ideal für Podcasting, Spiele/Streaming und Musikaufnahmen
 - Glatter, flacher Frequenzgang von 50Hz-20kH
-- Kardioide (unidirektionale), bidirektionale und omnidirektionale Aufnahmemuster
-- USB-Ausgang zum Anschluss an ein beliebiges Mac- oder PC-Gerät
-- 24-bit, 96kHz Auflösung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

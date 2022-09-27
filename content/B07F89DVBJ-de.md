@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 8-Loch Schnürung
 - Air Cushion Sohle – ist abrieb- und rutschfest
+- 8-Loch Schnürung
 - Smooth Leder – behandeltes Leder mit glatter Oberfläche und mattem Glanz
 
 [🛒 Hier!!]({{< param buyurl >}})

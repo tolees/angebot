@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 8 Haken aus Gusseisen
-- tolle Optik
-- zum Trocknen von Blumen und Kräutern
 - Markenware aus dem Hause Esschert Design
 - aus hochwertigem Material
+- zum Trocknen von Blumen und Kräutern
+- tolle Optik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
