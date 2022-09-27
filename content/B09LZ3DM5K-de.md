@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Entertainment Deutschland GmbH - Ghostbusters: Legacy'
-date: 2022-09-24 19:02:12
+date: 2022-09-27 01:48:24
 image: 'https://m.media-amazon.com/images/I/51cAyQhcurL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Entertainment Deutschland GmbH'
 buyurl: 'https://www.amazon.de/dp/B09LZ3DM5K/?tag=tolees0ca-21'
 descuento: '25.03'
-average: '7.86'
+average: '7.486'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
