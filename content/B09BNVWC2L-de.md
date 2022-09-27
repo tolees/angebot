@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60348 City Mond-Rover Weltraum-Spielzeug mit Astronauten-Minifiguren aus der LEGO NASA Serie  für Kinder ab 6 Jahre'
-date: 2022-09-26 01:23:32
+date: 2022-09-27 09:32:20
 image: 'https://m.media-amazon.com/images/I/512xSEgdMfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVWC2L/?tag=tolees0ca-21'
 descuento: '34.30'
-average: '20.4640740740739'
+average: '20.4872477064218'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
