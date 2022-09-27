@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herren LACOSTE SPORT Baumwoll-Poloshirt
 - Knopfleiste aus Diamant-Taft
+- Herren LACOSTE SPORT Baumwoll-Poloshirt
 - Baumwoll-Ottomanmischung
 
 [🛒 Hier!!]({{< param buyurl >}})
