@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60246 City Police Polizeistation'
-date: 2022-09-26 06:44:36
+date: 2022-09-28 08:42:01
 image: 'https://m.media-amazon.com/images/I/51HN8Gyzz7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07W7TM73V-de LEGO 60246 City Police Polizeistation'
 sku: 'B07W7TM73V-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 76.93 EUR
+actualPrice: 76.82 EUR
 currency: EUR
-price: 76.93
+price: 76.82
 comparePrice: 99.99 EUR
 prodname: 'LEGO 60246 City Police Polizeistation'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07W7TM73V/?tag=tolees0ca-21'
-descuento: '23.06'
-average: '73.4764603174606'
+descuento: '23.17'
+average: '73.4817591125201'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
