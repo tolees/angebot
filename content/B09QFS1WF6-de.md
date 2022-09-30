@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO 41712 Friends Recycling-Auto  Lernspielzeug für Kinder  Jungen und Mädchen ab 6 Jahren  Spielzeug-Müllwagen mit Emma und River Mini-Puppen'
-date: 2022-09-26 01:23:51
+title: 'LEGO 41712 Friends Recycling-Auto  Spielzeug-Müllwagen mit Emma und River Mini-Puppen  Lernspielzeug für Kinder ab 6 Jahren'
+date: 2022-09-30 16:39:15
 image: 'https://m.media-amazon.com/images/I/51PVIc79MEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09QFS1WF6-de LEGO 41712 Friends Recycling-Auto Lernspielzeug für Kinder...'
+slug: 'B09QFS1WF6-de LEGO 41712 Friends Recycling-Auto Spielzeug-Müllwagen mit...'
 sku: 'B09QFS1WF6-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 12.9 EUR
+actualPrice: 13.99 EUR
 currency: EUR
-price: 12.9
+price: 13.99
 comparePrice: 19.99 EUR
-prodname: 'LEGO 41712 Friends Recycling-Auto  Lernspielzeug für Kinder  Jungen und Mädchen ab 6 Jahren  Spielzeug-Müllwagen mit Emma und River Mini-Puppen'
+prodname: 'LEGO 41712 Friends Recycling-Auto  Spielzeug-Müllwagen mit Emma und River Mini-Puppen  Lernspielzeug für Kinder ab 6 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFS1WF6/?tag=tolees0ca-21'
-descuento: '35.47'
-average: '13.3947368421051'
+descuento: '30.02'
+average: '13.4244999999998'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
