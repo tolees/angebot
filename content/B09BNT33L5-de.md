@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält einen Mondoberflächenscanner, Pflanzen, eine Trinkbecher und Helme, sowie 6 Astronauten-Minifiguren
-- Mit der LEGO Bauanleitung App für Smartphones und Tablets können Kinder ihre Modelle beim Bauen aus allen Blickwinkeln betrachten
-- Das von der LEGO NASA inspirierte Spielzeug ist vollgepackt mit Details: kuppelförmiges Unterkunftsmodul, Botanik- und Forschungslabor, Andocktunnel
 - Dieses LEGO City Spielzeug für Kinder ab 7 Jahren ist ein außergewöhnliches Geburtstagsgeschenk für alle Weltraum-Fans
 - Dieses LEGO Mond-Forschungsbasis Set enthält eine Mondlandefähre, eine Flugkran-Drohne, einen VIPER-inspirierten Mondroboter-Rover und einen Mond-Buggy
+- Mit der LEGO Bauanleitung App für Smartphones und Tablets können Kinder ihre Modelle beim Bauen aus allen Blickwinkeln betrachten
+- Enthält einen Mondoberflächenscanner, Pflanzen, eine Trinkbecher und Helme, sowie 6 Astronauten-Minifiguren
+- Das von der LEGO NASA inspirierte Spielzeug ist vollgepackt mit Details: kuppelförmiges Unterkunftsmodul, Botanik- und Forschungslabor, Andocktunnel
 
 [🛒 Hier!!]({{< param buyurl >}})

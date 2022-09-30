@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- NINJAGO Fans werden dieses actionreiche Auto-Spielzeug mit 5 Minifiguren, 2 goldenen Minifiguren und jeder Menge Waffen lieben
 - Klappe die Hinterräder um, um das NINJAGO Auto vom Straßenmodus in den Läufermodus zu wechseln, damit es sich wie ein Vierbeiner bewegt und um Zanes Elementarwaffen zu bergen
 - Dieses Set enthält 7 LEGO NINJAGO Minifiguren, darunter Goldener Kai, Golddrachen-Zane mit Golddrachenflügeln und Skylor
-- NINJAGO Fans werden dieses actionreiche Auto-Spielzeug mit 5 Minifiguren, 2 goldenen Minifiguren und jeder Menge Waffen lieben
 - Ebenfalls enthalten sind der General Mr. F, ein Vergeltungsstein-Grobian und 2 Vergeltungsstein-Krieger NINJAGO Minifiguren mit vielen coolen Waffen
 - Enthält ein einzigartiges LEGO NINJAGO Auto mit vielen Funktionen: ein Cockpit, 2 Kanonen mit 4 Shootern sowie Golddrachenklingen
 

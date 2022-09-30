@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit 10 Mini-Modellen von Fahrzeugen: Republic Gunship, Tri-Droidenjäger, ARC-170 Starfighter, Bad Batch Shuttle, Lukes Landspeeder, T-16 Skyhopper, V-35 Landspeeder, B-wing, TIE Interceptor und ein AT-ST auf Hoth
+- Durch kreatives Spielen und Kombinieren der verschiedenen Teile dieses Adventskalenders mit anderen LEGO Star Wars Sets können Kinder und Erwachsene legendäre Filmszenen nachstellen oder ihre eigenen erstellen
+- Finde bis Weihnachten jeden Tag ein neues Weihnachtsspielzeug in diesem LEGO Adventskalender 2022 für Kinder mit Star Wars-Charakteren in saisonalen Outfits, Fahrzeugen aus der Saga und epischen Accessoires zum Spielen
+- Kinder werden es lieben, die 24 Türchen des Adventskalenders zu öffnen, der Überraschungen wie C-3PO und R2-D2 in Weihnachtspullovern, einen als Weihnachtsmann verkleideten Gonk-Droiden und eine Wampa-Höhle enthält; plus 6 weitere Mini-Modelle
 - Wenn alle Türchen geöffnet sind und Weihnachten da ist, kann dieser LEGO Star Wars Weihnachtskalender zu einer tollen Dekoration für das Kinderzimmer werden
 - Plus 8 LEGO Star Wars Minifiguren: C-3PO und R2-D2 in weihnachtlichen Outfits, Darth Vader im Sommer-Outfit sowie Luke Skywalker, ein Clone Trooper Commander, ein Snowtrooper, ein Kampfdroide und ein Gonk-Droide
-- Durch kreatives Spielen und Kombinieren der verschiedenen Teile dieses Adventskalenders mit anderen LEGO Star Wars Sets können Kinder und Erwachsene legendäre Filmszenen nachstellen oder ihre eigenen erstellen
-- Kinder werden es lieben, die 24 Türchen des Adventskalenders zu öffnen, der Überraschungen wie C-3PO und R2-D2 in Weihnachtspullovern, einen als Weihnachtsmann verkleideten Gonk-Droiden und eine Wampa-Höhle enthält; plus 6 weitere Mini-Modelle
-- Finde bis Weihnachten jeden Tag ein neues Weihnachtsspielzeug in diesem LEGO Adventskalender 2022 für Kinder mit Star Wars-Charakteren in saisonalen Outfits, Fahrzeugen aus der Saga und epischen Accessoires zum Spielen
+- Mit 10 Mini-Modellen von Fahrzeugen: Republic Gunship, Tri-Droidenjäger, ARC-170 Starfighter, Bad Batch Shuttle, Lukes Landspeeder, T-16 Skyhopper, V-35 Landspeeder, B-wing, TIE Interceptor und ein AT-ST auf Hoth
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

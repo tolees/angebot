@@ -31,9 +31,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Sobald der Spielzeug-LKW in Position ist, können die Kinder die Stützfüße des mobilen Krans absenken, den Ausleger drehen und ausfahren und die Winde anheben und absenken
 - Die beiliegende LEGO City Straßenplatte kann mit einer Winde in Position gebracht und dann mit anderen Sets verbunden werden
 - Inklusive Fahrer- und Kranführer-Minifiguren und Spielzeugzubehör: ein Schraubenschlüssel, ein Walkie-Talkie und 2 Schutzhelme für realistischen Spielspaß
-- Die Baufahrzeuge von LEGO City sind tolle Geschenke für Jungen und Mädchen ab 7 Jahren
-- Der Bau deiner Stadt hat noch nie so viel Spaß gemacht! Wenn du fertig bist, sichere den Windenhaken und starte dein nächstes Abenteuer
 - Mit der kostenlosen LEGO Bauanleitungen App für Smartphones und Tablets können die Kinder das Modell beim Bauen vergrößern, drehen und aus allen Blickwinkeln betrachten
+- Der Bau deiner Stadt hat noch nie so viel Spaß gemacht! Wenn du fertig bist, sichere den Windenhaken und starte dein nächstes Abenteuer
 - Dieses Kinderspielzeug von LEGO City enthält einen mobilen Spielzeugkran mit beweglichen Stützfüßen, einem Kranausleger und einer Winde auf einem LKW mit 6 Rädern
+- Die Baufahrzeuge von LEGO City sind tolle Geschenke für Jungen und Mädchen ab 7 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
