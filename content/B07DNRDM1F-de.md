@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taurin stärkt das Herz- und Kreislaufsystem
-- hoher Anteil an frischem Geflügelfleisch (20%) und frischer Leber (5%) als hochwertige Eiweißquellen
-- für ausgewachsene Katzen mit empfindlichem Harnsystem
-- verringerter Gehalt an Proteinen und Mineralstoffen entlastet die harnabführenden Organe
 - ohne glutenhaltiges Getreide hergestellt & Zuckerfrei
+- für ausgewachsene Katzen mit empfindlichem Harnsystem
+- hoher Anteil an frischem Geflügelfleisch (20%) und frischer Leber (5%) als hochwertige Eiweißquellen
 - Immun-Komplex aus Mannanen und Glucanen zur Stabilisierung der Darmflora und Immunabwehr (Stärkung der Abwehrkräfte)
+- Taurin stärkt das Herz- und Kreislaufsystem
+- verringerter Gehalt an Proteinen und Mineralstoffen entlastet die harnabführenden Organe
 
 [🛒 Hier!!]({{< param buyurl >}})

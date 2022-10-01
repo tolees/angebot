@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HDR ready: Kompatibel mit der HDR Produktlinie.
+- AtomFlex Coiled Cable: Das Spiralkabel bietet eine flexible Länge und vermeidet Unordnung am Set.
 - 4K 60p ready: Perfekt für den Atomos Inferno und für 4K 60p ProRes und Raw Infrastruktur.
 - HDMI 2.0 Ready: 4K 60p and HD 240p werden vollständig unterstützt.
-- AtomFlex Coiled Cable: Das Spiralkabel bietet eine flexible Länge und vermeidet Unordnung am Set.
+- HDR ready: Kompatibel mit der HDR Produktlinie.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

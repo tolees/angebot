@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Raglanärmel
 - Bündchen und Saum gerippt
+- Raglanärmel
 - Kapuze mit weitenregulierbarem Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})

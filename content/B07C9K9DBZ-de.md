@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vordertaschen: Seitliche Taschen
-- Knopf mit Reißverschluss
 - Gerader Beinverlauf
 - Regular Fit
+- Knopf mit Reißverschluss
+- Vordertaschen: Seitliche Taschen
 - Mittlere Bundhöhe
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die kräftigen Farben, die Sponsorenaufkleber und der Propeller machen das Flugzeug zum coolen Geschenk zum Geburtstag oder zu Weihnachten für Jungen und Mädchen. Schau nur, wie echt es aussieht!
-- Enthält ein 2-in-1 Spielzeug-Flugzeug mit aufklappbaren Triebwerksabdeckungen, Fahrwerk und drehendem Propeller für spannende Flugzeug-Wettrennen
 - Kinder ab 7 Jahren werden es lieben, das robuste Flugzeug zu bauen und es dann in einen Düsenjet zu verwandeln, um noch mehr kreative Kunstflüge nachzustellen
+- Enthält ein 2-in-1 Spielzeug-Flugzeug mit aufklappbaren Triebwerksabdeckungen, Fahrwerk und drehendem Propeller für spannende Flugzeug-Wettrennen
 - Steuere das Flugzeug Spielzeug am Boden, während du dich auf den Start vorbereitest und schau, wie sich der Propeller dreht. Hebe dann ab und stelle die Manöver der weltbesten Piloten nach
+- Die kräftigen Farben, die Sponsorenaufkleber und der Propeller machen das Flugzeug zum coolen Geschenk zum Geburtstag oder zu Weihnachten für Jungen und Mädchen. Schau nur, wie echt es aussieht!
 - Inklusive Instructions PLUS in der kostenlosen LEGO Building Instructions App mit Vergrößerungs- und Drehfunktionen, die Kindern beim Bauen helfen
 
 [🛒 Hier!!]({{< param buyurl >}})

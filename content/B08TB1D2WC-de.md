@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochdichter 3D QLC NAND: Im Vergleich zu Speicherzellen vorhergehender Generationen können bei gleicher physischer Kapazität mehr Daten gespeichert werden
-- Integrierter Heatspreader aus Aluminium: Ein integrierter Heatspreader aus Aluminium unterstützt die Wärmeabfuhr und reduziert die Drosselung, damit Ihre SSD anhaltend hohe Leistungen vollbringt
-- Unübertroffene Lebensdauer: Mit einer herausragenden Lebensdauer von bis zu 450 TB an geschriebenen Daten gewährleistet die MP600 CORE eine zuverlässige Speicherung Ihrer Daten;Kompakter M.2 2280-Formfaktor: Passt perfekt auf Ihr Mainboard
-- Enorme Gen4-Speicherleistung: Ein PCIe Gen4 x4-Controller bietet eine sequenzielle Lesegeschwindigkeit von bis zu 4.950 MB/s und eine sequenzielle Schreibgeschwindigkeit* bis 3.700 MB/s
 - Gen4 PCIe x4 NVMe M.2-Hochgeschwindigkeitsschnittstelle: Die mit Gen4 PCIe-Technologie für maximale Bandbreite ausgestattete MP600 besticht durch unglaubliche Speicherleistung
+- Enorme Gen4-Speicherleistung: Ein PCIe Gen4 x4-Controller bietet eine sequenzielle Lesegeschwindigkeit von bis zu 4.950 MB/s und eine sequenzielle Schreibgeschwindigkeit* bis 3.700 MB/s
+- Hochdichter 3D QLC NAND: Im Vergleich zu Speicherzellen vorhergehender Generationen können bei gleicher physischer Kapazität mehr Daten gespeichert werden
+- Unübertroffene Lebensdauer: Mit einer herausragenden Lebensdauer von bis zu 450 TB an geschriebenen Daten gewährleistet die MP600 CORE eine zuverlässige Speicherung Ihrer Daten;Kompakter M.2 2280-Formfaktor: Passt perfekt auf Ihr Mainboard
+- Integrierter Heatspreader aus Aluminium: Ein integrierter Heatspreader aus Aluminium unterstützt die Wärmeabfuhr und reduziert die Drosselung, damit Ihre SSD anhaltend hohe Leistungen vollbringt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
