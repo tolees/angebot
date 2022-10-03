@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76400 Harry Potter Hogwarts Kutsche mit Thestralen  Spielzeug-Set mit Minifiguren  wie Luna Lovegood und Pferde-Figuren  Idee für Geschenk'
-date: 2022-09-28 13:59:58
+date: 2022-10-03 10:53:38
 image: 'https://m.media-amazon.com/images/I/51AO4srlf-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFYLW5M-de LEGO 76400 Harry Potter Hogwarts Kutsche mit Thestralen...'
 sku: 'B09QFYLW5M-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','lego','🇩🇪', ]
-actualPrice: 13.18 EUR
+actualPrice: 12.99 EUR
 currency: EUR
-price: 13.18
+price: 12.99
 comparePrice: 19.99 EUR
 prodname: 'LEGO 76400 Harry Potter Hogwarts Kutsche mit Thestralen  Spielzeug-Set mit Minifiguren  wie Luna Lovegood und Pferde-Figuren  Idee für Geschenk'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFYLW5M/?tag=tolees0ca-21'
-descuento: '34.07'
-average: '14.5494444444443'
+descuento: '35.02'
+average: '14.9957142857142'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
