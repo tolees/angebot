@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ✨ Dein Adventskalender: 23 Gewürz-Probiertürchen und eine Gewürzmischung in Oginialgröße - entdecke die Welt der Gewürze
-- ❤️ Das perfekte Geschenk für die Vorweihnachtszeit für Männer, Frauen und alle, die ihre Küche mit bunten Gewürzmischungen ausstatten wollen
-- 🎁 Geschenk-Set für angehende und bestehende Hobbyköche, Ausprobierer, Genießer oder einfach zum selbst beschenken
 - 🎄 Voller Advent-Spaß für die ganze Familie – ohne Schokolade, dafür mit vielen bunten Gewürztüten und Vorfreude auf Weihnachten
 - ✉️ Türchen öffnen und loskochen: Zu jeder Gewürzmischung gibt es ein Rezeptkärtchen im Kalender
+- 🎁 Geschenk-Set für angehende und bestehende Hobbyköche, Ausprobierer, Genießer oder einfach zum selbst beschenken
+- ❤️ Das perfekte Geschenk für die Vorweihnachtszeit für Männer, Frauen und alle, die ihre Küche mit bunten Gewürzmischungen ausstatten wollen
+- ✨ Dein Adventskalender: 23 Gewürz-Probiertürchen und eine Gewürzmischung in Oginialgröße - entdecke die Welt der Gewürze
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
