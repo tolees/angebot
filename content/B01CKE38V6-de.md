@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic SC-PM250EG-K Micro-mit HiFi-System  Bluetooth  CD  UKW  20 W RMS  schwarz'
-date: 2022-10-02 03:37:20
+date: 2022-10-03 16:34:32
 image: 'https://m.media-amazon.com/images/I/31-wa+pTWbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Panasonic'
 buyurl: 'https://www.amazon.de/dp/B01CKE38V6/?tag=tolees0ca-21'
 descuento: '32.86'
-average: '81.2461538461539'
+average: '81.1962962962964'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mini-HiFi-Anlage für vielseitige Programmauswahl und UKW Radio
 - Uhr und Timer-Funktion
 - Kompaktes Musik-CD-System mit 20 W (RMS) Ausgangsleistung
-- Stereo-Kompaktanlage mit Bluetooth: volle Flexibilität für alle Tablets und Smartphones
 - Mini-Anlage mit USB-Eingang für Musikwiedergabe
+- Stereo-Kompaktanlage mit Bluetooth: volle Flexibilität für alle Tablets und Smartphones
+- Mini-HiFi-Anlage für vielseitige Programmauswahl und UKW Radio
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
