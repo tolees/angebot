@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devolo Magic 2 WiFi Starter Kit 2-1-2  1xWiFi+1xLAN 2400mbps Powerline Adapter '
-date: 2022-10-08 10:02:29
+date: 2022-10-09 10:06:06
 image: 'https://m.media-amazon.com/images/I/31ofkfHSHcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.de/dp/B07KMGP9M9/?tag=tolees0ca-21'
 descuento: '40.47'
-average: '117.670909090908'
+average: '117.781666666666'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reichweite bis zu 500 Meter
-- Bis zu max. 2400 Mbit/s
+- 2x Gigabit LAN
 - Mesh WLAN
 - Das smarte Plug & Play übernimmt alles Weitere und sorgt dafür, dass Sie sofort lossurfen können
-- 2x Gigabit LAN
+- Bis zu max. 2400 Mbit/s
+- Reichweite bis zu 500 Meter
 
 [🛒 Hier!!]({{< param buyurl >}})

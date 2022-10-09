@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'LEGO 60348 City Mond-Rover Weltraum-Spielzeug mit Astronauten-Minifiguren aus der LEGO NASA Serie  für Kinder ab 6 Jahre'
-date: 2022-10-06 22:07:34
+date: 2022-10-09 10:57:28
 image: 'https://m.media-amazon.com/images/I/512xSEgdMfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09BNVWC2L-de LEGO 60348 City Mond-Rover Weltraum-Spielzeug mit...'
 sku: 'B09BNVWC2L-de'
-tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Raumschiffe-Spielzeug für Kinder','Spielfahrzeuge','Spielzeug','lego','🇩🇪', ]
+tags: [ 'Raumschiffe-Spielzeug für Kinder','Spielfahrzeuge','Spielzeug','lego','🇩🇪', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNVWC2L/?tag=tolees0ca-21'
 descuento: '34.30'
-average: '20.6178260869563'
+average: '20.6382758620687'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Der Mond-Rover verfügt über 12 Räder, die sich in jede Richtung lenken lassen und viele Funktionen, die einem echten Mond-Rover nachempfunden sind
 - Mit einem von der LEGO NASA inspirierten Mond-Rover-Modell, einer Mondlandschaft mit Meteor zu bauen und 3 LEGO Astronauten-Minifiguren
+- Dieses LEGO Set aus der Weltraum-Serie wird mit lustigen Accessoires geliefert, wie einer Säge, einer Schaufel, einem Mondoberflächenscanner und Helmen
 - Nach dem Bau kann das LEGO Weltraum-Spielzeug überallhin mitgenommen werden
 - Enthält eine gedruckte bebilderte & eine digitale Bauanleitung, die in der kostenlosen LEGO Bauanleitung App verfügbar ist
-- Dieses LEGO Set aus der Weltraum-Serie wird mit lustigen Accessoires geliefert, wie einer Säge, einer Schaufel, einem Mondoberflächenscanner und Helmen
-- Der Mond-Rover verfügt über 12 Räder, die sich in jede Richtung lenken lassen und viele Funktionen, die einem echten Mond-Rover nachempfunden sind
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
