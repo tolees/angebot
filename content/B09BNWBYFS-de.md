@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Verstärker verfügt über abnehmbare Panels, unter denen die Hauptplatine, der Federhall, die Lautsprecher und andere Details zum Vorschein kommen, sowie Logo-Aufkleber
-- Die LEGO Gitarre ist mit einem Tremolo-Hebel, einem Tonabnehmerschalter, Stimmwirbeln, sechs Saiten, einem Aufkleber mit Fender-Logo und einem Stoffgurt ausgestattet
-- Das Gitarren-Zubehör umfasst einen Klappständer, Plektren in Modellgröße in 4 Farben und einen Aufkleber mit dem Fender-Logo
 - Zu diesem Set mit 1074 Teilen gehört ein Begleitheft zur Geschichte der Fender Stratocaster-Gitarre, dem Designer des Sets und den LEGO Designern
-- Enthält ein detailliertes Gitarren-Modell der Fender Stratocaster aus den 1970er Jahren und einen Fender 65 Princeton Reverb-Verstärker aus LEGO Steinen
-- Das LEGO DIY-Gitarren-Kit für Erwachsene ist ein cooles Geburtstagsgeschenk oder eine Geschenkidee für Teenager und erwachsene Musikliebhaber oder Gitarristen
+- Der Verstärker verfügt über abnehmbare Panels, unter denen die Hauptplatine, der Federhall, die Lautsprecher und andere Details zum Vorschein kommen, sowie Logo-Aufkleber
+- Das Gitarren-Zubehör umfasst einen Klappständer, Plektren in Modellgröße in 4 Farben und einen Aufkleber mit dem Fender-Logo
 - Baue die LEGO Gitarre in Rot oder Schwarz, stelle sie auf den Ständer und schließe das Musikinstrument an den Fußschalter und den Verstärker an, um das Set zu vervollständigen
+- Das LEGO DIY-Gitarren-Kit für Erwachsene ist ein cooles Geburtstagsgeschenk oder eine Geschenkidee für Teenager und erwachsene Musikliebhaber oder Gitarristen
+- Enthält ein detailliertes Gitarren-Modell der Fender Stratocaster aus den 1970er Jahren und einen Fender 65 Princeton Reverb-Verstärker aus LEGO Steinen
+- Die LEGO Gitarre ist mit einem Tremolo-Hebel, einem Tonabnehmerschalter, Stimmwirbeln, sechs Saiten, einem Aufkleber mit Fender-Logo und einem Stoffgurt ausgestattet
 
 [🛒 Hier!!]({{< param buyurl >}})
