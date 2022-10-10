@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Schnellschnürung
-- Sohle: Leder und Gummi
 - Innenmaterial: Leder
+- Sohle: Leder und Gummi
+- Absatzform: Schnellschnürung
 - Obermaterial: Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

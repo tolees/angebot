@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regular Fit
-- Hemdkragen mit versteckter Knopfleiste
-- Gerippte Ärmel- und Halsbündchen
-- Regular Fit Herren-LACOSTE PARIS POLO aus Stretch-Piqué
 - Unifarbener Baumwoll-Piqué mit Stretch
+- Gerippte Ärmel- und Halsbündchen
+- Hemdkragen mit versteckter Knopfleiste
+- Regular Fit Herren-LACOSTE PARIS POLO aus Stretch-Piqué
+- Regular Fit
 
 [🛒 Hier!!]({{< param buyurl >}})

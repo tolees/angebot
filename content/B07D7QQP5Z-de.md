@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taillen Bund mit aufgesetzten Tommy Streifen an der Innenseite
-- Schild mit aufgesetzten Tommy Streifen am Taillen Bund
 - Aufgestickte Tommy Hilfiger Flagge über der Gesäßtaschen
+- Schild mit aufgesetzten Tommy Streifen am Taillen Bund
+- Taillen Bund mit aufgesetzten Tommy Streifen an der Innenseite
 - Zwei geknöpfte Gesäßtaschen
 - Zwei Leistentaschen an der Hüfte
 
