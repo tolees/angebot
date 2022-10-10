@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Fotografieren Sie in rauen Bedingungen, ohne Angst um Ihre Ausrüstung zu haben, dank der witterungsbeständigen Konstruktion und des Gehäuses aus Aluminium-Legierung.
-- Der Joystick auf der Rückseite der OM-D ermöglicht eine intuitive und schnelle AF-Feldauswahl.
 - Der überaus leistungsstarke Bildstabilisator ermöglicht Freihandaufnahmen mit erstklassiger Bildqualität in einer Vielzahl von Situationen.
 - Mit dieser OM-D und ihrem Phasenerkennungs-AF vom Typ Kreuzsensor mit 121 Punkten fangen Sie sich schnell bewegende Motive in genau dem richtigen Moment ein.
+- Der Joystick auf der Rückseite der OM-D ermöglicht eine intuitive und schnelle AF-Feldauswahl.
 - Die High-Speed-Bildverarbeitung mit dem neuen TruePic-IX-Prozessor ermöglicht High Res Shots aus der Hand und Live ND.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

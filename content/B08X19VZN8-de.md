@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Eingebauter AP Modus zur Erweiterung des kabelgebundenen Netzwerks
+- WPS-Taste für eine kinderleichte Installation, einfache Kontrolle durch Tether-App oder Web UI
 - WLAN-Erweiterung auf Knopfdruck zur Beseitigung von Funklöchern
 - Dualband-WLAN für eine schnellere und stabilere Verbindung (300Mbit/s auf 2, 4GHz und 867Mbit/s auf 5GHz)
 - Praktische Signalstärkeanzeige hilft bei der optimalen Platzierung
-- Eingebauter AP Modus zur Erweiterung des kabelgebundenen Netzwerks
-- WPS-Taste für eine kinderleichte Installation, einfache Kontrolle durch Tether-App oder Web UI
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
