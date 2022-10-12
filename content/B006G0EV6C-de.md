@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DETAIL: Röstkaffee in ganzen Bohnen 100% Arabica - Verpackung 1 kg - Intensität 3 von 5 - Säure 3 von 5
-- KOMPATIBILITÄT: Ideal für Vollautomaten mit integriertem Mahlwerk, Espresso-Kolbenmaschine
+- SCHWIIZER SCHÜÜMLI CREMA: Eine ausgewogene, würzig-beerige Aroma und eine feine, köstliche Crema
 - EMPFOHLENDE TASSENGRÖSSE: 110 ml Lungo, um den Charakter und das Aroma des Kaffees hervorzuheben
 - UMWELTFREUNDLICH: Unserer Bohnenkaffee ist UTZ-zertifiziert. Wir setzten uns für eine verantwortungsbewusste, umweltfreundliche Kaffeeproduktion ein
-- SCHWIIZER SCHÜÜMLI CREMA: Eine ausgewogene, würzig-beerige Aroma und eine feine, köstliche Crema
+- KOMPATIBILITÄT: Ideal für Vollautomaten mit integriertem Mahlwerk, Espresso-Kolbenmaschine
+- DETAIL: Röstkaffee in ganzen Bohnen 100% Arabica - Verpackung 1 kg - Intensität 3 von 5 - Säure 3 von 5
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
