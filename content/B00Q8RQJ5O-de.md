@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sailor Moon: Super S - Staffel 4 - Vol.1 - Box 7 - [DVD]'
-date: 2022-10-09 09:50:09
+date: 2022-10-13 06:35:02
 image: 'https://m.media-amazon.com/images/I/51pMxRirB2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00Q8RQJ5O-de Sailor Moon: Super S - Staffel 4 - Vol.1 - Box 7 - [DVD]'
 sku: 'B00Q8RQJ5O-de'
 tags: [ 'Anime','Box-Sets','DVD & Blu-ray','Featured Categories','Kinder & Familie','Serien & TV-Produktionen','sailor moon','🇩🇪', ]
-actualPrice: 27.99 EUR
+actualPrice: 29.95 EUR
 currency: EUR
-price: 27.99
+price: 29.95
 comparePrice: 54.9 EUR
 prodname: 'Sailor Moon: Super S - Staffel 4 - Vol.1 - Box 7 - [DVD]'
 country: 'de'
 flag: '🇩🇪'
 brand: 'SAILOR MOON'
 buyurl: 'https://www.amazon.de/dp/B00Q8RQJ5O/?tag=tolees0ca-21'
-descuento: '49.02'
-average: '47.1641176470588'
+descuento: '45.45'
+average: '45.3521052631579'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
