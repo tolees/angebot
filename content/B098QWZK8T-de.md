@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Falte hinten – teilweise geschlossen – Knopf
 - Loose Fit
 - Raglanärmel, mit Gewebeband verstärkt
-- Flacher Kragen – abnehmbarer Kragenriemen
 - Taillentaschen, Patte und Knopfverschluss
+- Falte hinten – teilweise geschlossen – Knopf
+- Flacher Kragen – abnehmbarer Kragenriemen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
