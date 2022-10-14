@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- This impressive LEGO set for adults makes a top gift idea for yourself or any fan of Cat bulldozers and other cool vehicles
+- Includes 2 x no. 15 motors, 2 x large motors and 1 x hub, and requires 6 x AA batteries (not included) to operate the construction vehicle
+- Features a packed with details remote app-controlled construction motor vehicle - a replica version of the biggest Cat, the D11 bulldozer
 - Use the CONTROL+ app to operate the model: to drive, steer, raise, lower and tilt the blade or raise and lower the ripper and ladder
 - This LEGO Cat model is meticulously detailed to replicate the original with authentic colours and graphics that Cat enthusiasts will love
-- Includes 2 x no. 15 motors, 2 x large motors and 1 x hub, and requires 6 x AA batteries (not included) to operate the construction vehicle
 - Relax & take your time assembling all the details, then explore the many mechanical functions – just like in the real thing!
-- This impressive LEGO set for adults makes a top gift idea for yourself or any fan of Cat bulldozers and other cool vehicles
-- Features a packed with details remote app-controlled construction motor vehicle - a replica version of the biggest Cat, the D11 bulldozer
 - See the new-for-October-2021 LEGO track element that that can be tightened and loosened, giving the bulldozer its realistic movement
 
 [🛒 Hier!!]({{< param buyurl >}})

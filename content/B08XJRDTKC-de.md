@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultraleicht und agil: Mit einem Gewicht von nur 74 g zur Unterstützung schneller Bewegungen und Reaktionen ist die SABRE RGB PRO mit ihrem robusten Design selbst
-- Geschaffen für Champions: Produkte der CORSAIR CHAMPION SERIES wurden für führende Esport-Profis entwickelt und von diesen getestet – für echte Sieger mit einer Maus auf Turnierniveau
-- Nativer optischer Sensor mit 18.000 DPI: Ein einstellbarer PixArt PMW3392-Sensor mit 450 IPS Tracking bei bis zu 50 G Beschleunigung, lässt sich in Auflösungsschritten von 1 DPI anpassen
-- CORSAIR QUICKSTRIKE-Tasten: Verfügen über eine Federung, und zwischen den primären Maustasten und ihren Switches ist kein Abstand vorhanden, sodass Ihre Klicks, Schüsse
-- Dynamische 2-Zonen-RGB-Hintergrundbeleuchtung: Sie können aus voreingestellten Beleuchtungseffekten auswählen oder individuelle, nahezu unbegrenzte Anpassungen in der iCUE-Software vornehmen
 - CORSAIR AXON Hyper-Processing-Technologie: Überträgt Ihre Bewegungen und Klicks mit 8.000-Hz-Hyper-Polling bis zu achtmal schneller an Ihren PC als konventionelle Gaming-Mäuse
+- Geschaffen für Champions: Produkte der CORSAIR CHAMPION SERIES wurden für führende Esport-Profis entwickelt und von diesen getestet – für echte Sieger mit einer Maus auf Turnierniveau
+- CORSAIR QUICKSTRIKE-Tasten: Verfügen über eine Federung, und zwischen den primären Maustasten und ihren Switches ist kein Abstand vorhanden, sodass Ihre Klicks, Schüsse
+- Ultraleicht und agil: Mit einem Gewicht von nur 74 g zur Unterstützung schneller Bewegungen und Reaktionen ist die SABRE RGB PRO mit ihrem robusten Design selbst
+- Dynamische 2-Zonen-RGB-Hintergrundbeleuchtung: Sie können aus voreingestellten Beleuchtungseffekten auswählen oder individuelle, nahezu unbegrenzte Anpassungen in der iCUE-Software vornehmen
+- Nativer optischer Sensor mit 18.000 DPI: Ein einstellbarer PixArt PMW3392-Sensor mit 450 IPS Tracking bei bis zu 50 G Beschleunigung, lässt sich in Auflösungsschritten von 1 DPI anpassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
