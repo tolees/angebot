@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sailor Moon: Super S - Staffel 4 - Vol.1 - Box 7 - [DVD]'
-date: 2022-10-13 06:35:02
+date: 2022-10-14 20:41:06
 image: 'https://m.media-amazon.com/images/I/51pMxRirB2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'SAILOR MOON'
 buyurl: 'https://www.amazon.de/dp/B00Q8RQJ5O/?tag=tolees0ca-21'
 descuento: '45.45'
-average: '45.3521052631579'
+average: '44.582'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
