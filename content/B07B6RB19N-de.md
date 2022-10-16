@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Super Heroes 76105 "Der Hulkbuster: Ultron Edition" Spielzeug'
-date: 2022-10-15 14:34:10
+date: 2022-10-16 15:32:35
 image: 'https://m.media-amazon.com/images/I/513tvsIdJcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07B6RB19N/?tag=tolees0ca-21'
 descuento: '17.47'
-average: '189.552554744527'
+average: '189.551530054646'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
