@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
-- geräumige fächeraufteilung: die 32 liter volumen sind zur besseren übersicht in ein großes hauptfach, ein frontfach mit organizer-netztaschen und ein separates bodenfach unterteilt
-- packvolumen erweiterbar: bei bedarf kann das packvolumen des bike alpin 32+5 über einen reißverschluss um 5 liter erweitert werden
-- geräumiger mehrtages- und alpencross-rucksack für mountainbiker: ideal für mehrtagestouren/alpencross
 - maximaler tragekomfort: sein komfortables tragesystem und der hinterlüftete rücken bieten auch auf langen, schweißtreibenden etappen ein maximum an tragekomfort
-- durchdachte ausstattung: durchdachte details wie das wetterfest unter der regenhülle untergebrachte, gepolsterte gps-/smartphone-fach und das zugrifffreundliche werkzeugfach sorgen auch auf langen touren für eine radfreundliche handhabung
+- packvolumen erweiterbar: bei bedarf kann das packvolumen des bike alpin 32+5 über einen reißverschluss um 5 liter erweitert werden
+- geräumige fächeraufteilung: die 32 liter volumen sind zur besseren übersicht in ein großes hauptfach, ein frontfach mit organizer-netztaschen und ein separates bodenfach unterteilt
+- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
 - Stoff typ: Hauptstoff - : 100% Polyester, 300 D PU coated, Second fabric - : 100% Polyester (davon 50% recycelt), , 600D Polyester Polyester recycled PU coated, Futter - : 100% Polyamid, 200 D Polyurethan beschichtet, Regenhülle - : 100% Polyamid, 190 T Polyurethan beschichtet
+- geräumiger mehrtages- und alpencross-rucksack für mountainbiker: ideal für mehrtagestouren/alpencross
+- durchdachte ausstattung: durchdachte details wie das wetterfest unter der regenhülle untergebrachte, gepolsterte gps-/smartphone-fach und das zugrifffreundliche werkzeugfach sorgen auch auf langen touren für eine radfreundliche handhabung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kabelloser Controller mit Bluetooth 5.0-Technologie
 - LEDs für Spieler-Nummer, Programmierung der Tasten und Warnung bei niedrigem Batteriestand
 - Nintendo Switch-Controller mit einem internen Akku: Bis zu 20 Stunden pro Ladung
-- Mit Bewegungssteuerungen und programmierbare Tasten für erweiterte Spielfunktionen
 - Kompakte, ergonomische Hülle mit Tasten und Steuerungen in Standardgröße
+- Kabelloser Controller mit Bluetooth 5.0-Technologie
+- Mit Bewegungssteuerungen und programmierbare Tasten für erweiterte Spielfunktionen
 
 [🛒 Hier!!]({{< param buyurl >}})

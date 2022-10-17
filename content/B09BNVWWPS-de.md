@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Ergänzugsset Emojis von LEGO DOTS enthält 118 farbenfrohe Teile, darunter neonfarbene, transparente Steine und 6 herz- und blitzförmige Anhänger
-- Dieses Bastelset für Kinder enthält außerdem 10 Bildsteinchen mit 16 möglichen Designs zur Dekoration anderer LEGO Sets (separat erhältlich)
-- Beim Dekorieren gibt es kein Richtig oder Falsch! Die LEGO Bastelsets sind fantastische Geschenke für Kinder zu jedem Anlass #dotyourworld
-- Die Bastelsets von LEGO DOTS geben Kindern die Möglichkeit, sich fantasievoll, wild und ausgefallen auszudrücken und ihre Kreativität mit dem Spielzeug auszuleben
 - Das Ergänzungsset Emojis (41946) von LEGO DOTS steckt voller Steine zum Basteln von Armbändern, Accessoires und Zimmerdekorationen im LEGO Stil!
+- Beim Dekorieren gibt es kein Richtig oder Falsch! Die LEGO Bastelsets sind fantastische Geschenke für Kinder zu jedem Anlass #dotyourworld
 - Dank der zusätzlichen DOTS können die Kinder ihre kreativen Fähigkeiten beim Gestalten von Stiftehaltern, Taschenanhängern oder Dekorationen für Zimmer und Schreibtisch entfalten
+- Dieses Bastelset für Kinder enthält außerdem 10 Bildsteinchen mit 16 möglichen Designs zur Dekoration anderer LEGO Sets (separat erhältlich)
+- Das Ergänzugsset Emojis von LEGO DOTS enthält 118 farbenfrohe Teile, darunter neonfarbene, transparente Steine und 6 herz- und blitzförmige Anhänger
+- Die Bastelsets von LEGO DOTS geben Kindern die Möglichkeit, sich fantasievoll, wild und ausgefallen auszudrücken und ihre Kreativität mit dem Spielzeug auszuleben
 
 [🛒 Hier!!]({{< param buyurl >}})
