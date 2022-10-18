@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 Stoßdämpfer steuern die "Pop-up"-Funktion, die die Form des ferngesteuerten Transformationsfahrzeugs verändert, wenn es umkippt
-- Das App-gesteuerte Transformationsfahrzeug ist eine tolle Geschenkidee für Kinder zu Weihnachten oder jedem anderen Anlass
 - Die baubaren LEGO Technic Bausätze verfügen über eine Bogie-Federung, Cockpits und Ketten, 2 Stoßdämpfer und eine Ladefläche
-- Verwende die CONTROL+ App, um das RC Auto zu steuern - die App wechselt die Bildschirme, um sich dem Fahrzeug anzupassen
-- Beide ferngesteuerten Autos für Kinder haben eine Bogie-Federung, die es ermöglicht, sich den Ketten an unebene Oberflächen anzupassen
-- Das erste LEGO Technic ferngesteuerte Geländeauto mit 2 Seiten - die eine Seite stellt einen Rennkettenfahrzeug dar, die andere einen Erkundungstruck
+- Das App-gesteuerte Transformationsfahrzeug ist eine tolle Geschenkidee für Kinder zu Weihnachten oder jedem anderen Anlass
 - Das LEGO Technic App-gesteuerte Transformationsfahrzeug ist das erste LEGO Technic RC Offroad Auto, das umkippt, wenn es gegen eine Wand fährt
+- Das erste LEGO Technic ferngesteuerte Geländeauto mit 2 Seiten - die eine Seite stellt einen Rennkettenfahrzeug dar, die andere einen Erkundungstruck
+- Beide ferngesteuerten Autos für Kinder haben eine Bogie-Federung, die es ermöglicht, sich den Ketten an unebene Oberflächen anzupassen
+- 2 Stoßdämpfer steuern die "Pop-up"-Funktion, die die Form des ferngesteuerten Transformationsfahrzeugs verändert, wenn es umkippt
+- Verwende die CONTROL+ App, um das RC Auto zu steuern - die App wechselt die Bildschirme, um sich dem Fahrzeug anzupassen
 
 [🛒 Hier!!]({{< param buyurl >}})
