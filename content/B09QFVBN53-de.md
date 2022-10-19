@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEGO City Stuntz Action Spielzeug ist ein ideales Geschenk Set zum Geburtstag oder ein Spielzeug für Kinder ab 5 Jahren zu jedem Anlass
 - Mit dem LEGO City Hindernis-Stuntchallenge Set, das ein Spielzeug-Motorrad mit Schwungrad enthält, können Kinder lustige Stunts nachspielen
-- Kinder aktivieren das LEGO Stunt Motorrad, um durch die Absperrungen zu brettern und sorgen so für besonders spannende Shows
-- Mit 2 Minifiguren, darunter die Figur Shirley Keeper aus der TV-Serie LEGO City - Abenteuer und der mutige LEGO Stunt Racer
 - Dieses Set kann leicht mit anderen LEGO City Stuntz Spielzeugen wie der Umstoß-Challenge (60341) für noch mehr Action kombiniert werden
+- Mit 2 Minifiguren, darunter die Figur Shirley Keeper aus der TV-Serie LEGO City - Abenteuer und der mutige LEGO Stunt Racer
+- LEGO City Stuntz Action Spielzeug ist ein ideales Geschenk Set zum Geburtstag oder ein Spielzeug für Kinder ab 5 Jahren zu jedem Anlass
+- Kinder aktivieren das LEGO Stunt Motorrad, um durch die Absperrungen zu brettern und sorgen so für besonders spannende Shows
 - Das LEGO City Stuntz Spielzeug wird mit einer einfachen, bebilderten Bauanleitung geliefert, damit Kinder sicher bauen können
 - Als Zubehör gibt es ein Megaphon, eine Gitarre, Lautsprecher und Helmzubehör, mit dem tolle Stuntshows veranstaltet werden können
 
