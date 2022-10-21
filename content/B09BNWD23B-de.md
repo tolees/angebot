@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76179 DC Batman & Selina Kyle: Verfolgungsjagd auf dem Motorrad  Superhelden-Spielzeug mit Catwoman und einem im Dunkeln leuchtenden Bat-Signal'
-date: 2022-10-20 14:51:57
+date: 2022-10-21 16:21:20
 image: 'https://m.media-amazon.com/images/I/511FCDMwHFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNWD23B/?tag=tolees0ca-21'
 descuento: '35.22'
-average: '11.4237931034484'
+average: '11.3666666666668'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
