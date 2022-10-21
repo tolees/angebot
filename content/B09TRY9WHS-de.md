@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60344 City Farm Hühnerstall  Bauernhof Spielzeug für Kinder ab 5 Jahre mit Tierfiguren  Quad und Bäuerin-Minifigur'
-date: 2022-10-07 17:33:25
+date: 2022-10-20 22:32:43
 image: 'https://m.media-amazon.com/images/I/51Ih5ODGOYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09TRY9WHS/?tag=tolees0ca-21'
 descuento: '30.03'
-average: '8.93'
+average: '9.02888888888889'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
