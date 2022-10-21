@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit Ökotex zertifiziert
-- Das T-Shirt setzt sich zusammen aus 100% Baumwolle
 - Bestes Baumwoll-Jersey, ein lässiger Ausschnitt und ein sehr gutes Preis-/Leistungs-Verhältnis machen das Shirt zum perfekten Begleiter
 - Das REMIX-Shirt von CALIDA ist ideal zum Kombinieren, mit den Hosen der Serie REMIX oder als Shirt für Darunter
+- Das T-Shirt setzt sich zusammen aus 100% Baumwolle
 - Pflegehinweis: Maschinenwäsche
 
 [🛒 Hier!!]({{< param buyurl >}})
