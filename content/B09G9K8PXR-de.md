@@ -1,0 +1,42 @@
+---
+layout: post
+title: '2021 Apple iPad  10 2"  Wi-Fi  64 GB  - Silber  9. Generation '
+date: 2022-10-22 10:12:40
+image: 'https://m.media-amazon.com/images/I/31f3l7SyJdL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09G9K8PXR-de 2021 Apple iPad 10 2" Wi-Fi 64 GB - Silber 9. Generation'
+sku: 'B09G9K8PXR-de'
+tags: [ 'Computer & Zubehör','Tablet PCs','apple','🇩🇪', ]
+actualPrice: 359.0 EUR
+currency: EUR
+price: 359.0
+comparePrice: 429.0 EUR
+prodname: '2021 Apple iPad  10 2"  Wi-Fi  64 GB  - Silber  9. Generation '
+country: 'de'
+flag: '🇩🇪'
+brand: 'Apple'
+buyurl: 'https://www.amazon.de/dp/B09G9K8PXR/?tag=tolees0ca-21'
+descuento: '16.32'
+average: '359.0'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Bis zu 256 GB Speicher
+- 8 MP Weitwinkel-Rückkamera, 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
+- Beeindruckendes 10,2" Retina Display (25,91 cm Diagonale) mit True Tone
+- Lightning Anschluss zum Aufladen und für Zubehör
+- 802.11ac WLAN
+- Kompatibel mit Apple Pencil (1. Generation) und Smart Keyboard
+- A13 Bionic Chip mit Neural Engine
+- Stereo-Lautsprecher
+- Bis zu 10 Std. Batterielaufzeit
+- Touch ID für sicheres Authentifizieren und Apple Pay
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
