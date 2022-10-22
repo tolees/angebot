@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
-- Die intelligente Bluetooth-Beleuchtung von Philips Hue ist kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation)
-- Kreieren Sie Ihr individuelles Licht für jeden Anlass: Ob Dinnerparty oder entspannten Tagesausklang, mit Philips Hue schaffen Sie immer die perfekte Raumatmosphäre
 - Einfache Einrichtung per Bluetooth: Hue Lampe eindrehen, Hue Bluetooth App downloaden und bis zu 10 Lampen in einem Raum steuern
+- Kreieren Sie Ihr individuelles Licht für jeden Anlass: Ob Dinnerparty oder entspannten Tagesausklang, mit Philips Hue schaffen Sie immer die perfekte Raumatmosphäre
+- Die intelligente Bluetooth-Beleuchtung von Philips Hue ist kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation)
+- Für das volle Smart Home Erlebnis im gesamten Zuhause: Erweitern Sie Ihr System mit der Hue Bridge (separat erhältlich) und entdecken Sie viele weitere Funktionen
 - Personalisierte Beleuchtung: Wählen Sie in der Hue App aus 16 Mio. Farben und 50.000 Weißtönen, vom kühlen bis warmen Licht, um so einem Raum das gewünschte Ambiente zu verleihen
 
 [🛒 Hier!!]({{< param buyurl >}})

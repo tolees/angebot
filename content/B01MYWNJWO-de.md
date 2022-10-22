@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elektrische Kaffeemühle im kompakten Design - Gehäuse, Behälter und Schlagmesser aus langlebigem Edelstahl - geeignet zum mahlen und zerkleinern von Kaffeebohnen, Espressobohnen, Nüssen, Getreide, Gewürzen u.v.m.
+- Sicher: Anwendung nur mit aufgesetztem Deckel möglich. Über einen Impulsschalter genügt ein einfacher Druck auf den Deckel um die Mühle zum mahlen zu bringen. Als Nussmühle, Getreidemühle oder Gewürzmühle verwendbar
+- Die Kaffeemühle fasst bis zu 90g Kaffeebohnen (Füllmenge für ca. 4-8 Tassen) und arbeitet mit einem leistungsstarken 200 Watt Motor für feinstes Kaffeepulver - Frisch gemahlener Kaffee beflügelt die Sinne
 - Mahlen Sie auch Pfeffer, Getreide, Chia-Samen oder Leinsamen für eine weitere Verarbeitung. Ideal für eine ausgewogene Ernährung der ganzen Familie
 - Durch die Mahldauer wird der Mahlgrad individuell von grob bis sehr fein gesteuert. Für Filterkaffee mahlen Sie einfach gröber und für die Zubereiitung von Espresso etwas feineres Pulver. Die vollen und intensiven Aromen entfalten sich erst während des Mahlvorgangs.
-- Die Kaffeemühle fasst bis zu 90g Kaffeebohnen (Füllmenge für ca. 4-8 Tassen) und arbeitet mit einem leistungsstarken 200 Watt Motor für feinstes Kaffeepulver - Frisch gemahlener Kaffee beflügelt die Sinne
-- Sicher: Anwendung nur mit aufgesetztem Deckel möglich. Über einen Impulsschalter genügt ein einfacher Druck auf den Deckel um die Mühle zum mahlen zu bringen. Als Nussmühle, Getreidemühle oder Gewürzmühle verwendbar
+- Elektrische Kaffeemühle im kompakten Design - Gehäuse, Behälter und Schlagmesser aus langlebigem Edelstahl - geeignet zum mahlen und zerkleinern von Kaffeebohnen, Espressobohnen, Nüssen, Getreide, Gewürzen u.v.m.
 
 [🛒 Hier!!]({{< param buyurl >}})

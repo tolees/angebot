@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4TB Speicherkapazität
+- Standard 2.5" Formfaktor mit nur 7mm Bauhöhe
 - Bis zu 560 MB/s Lesen; 520 MB/s Schreiben
 - SATA III 6Gb/s Schnittstelle
-- Standard 2.5" Formfaktor mit nur 7mm Bauhöhe
+- 4TB Speicherkapazität
 
 [🛒 Hier!!]({{< param buyurl >}})

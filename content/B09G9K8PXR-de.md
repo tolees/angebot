@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stereo-Lautsprecher
-- Kompatibel mit Apple Pencil (1. Generation) und Smart Keyboard
 - A13 Bionic Chip mit Neural Engine
 - Touch ID für sicheres Authentifizieren und Apple Pay
+- Kompatibel mit Apple Pencil (1. Generation) und Smart Keyboard
 - 802.11ac WLAN
+- Bis zu 256 GB Speicher
+- Stereo-Lautsprecher
 - Beeindruckendes 10,2" Retina Display (25,91 cm Diagonale) mit True Tone
+- 8 MP Weitwinkel-Rückkamera, 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
 - Bis zu 10 Std. Batterielaufzeit
 - Lightning Anschluss zum Aufladen und für Zubehör
-- 8 MP Weitwinkel-Rückkamera, 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
-- Bis zu 256 GB Speicher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

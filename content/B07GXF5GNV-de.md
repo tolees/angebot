@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HeelHeight:6,50 cm
 - Principal Material: Waterproof Nappa Greased, Lining Material: Faux Shearling Sole Material: Rubber InnerSole RemovableInsert: No
+- Water Resistant
+- HeelHeight:6,50 cm
 - Made in Spain
 - Panama Jack Women, Cuero / Bark Chelsea Boots
-- Water Resistant
 
 [🛒 Hier!!]({{< param buyurl >}})
