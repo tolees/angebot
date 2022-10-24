@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kompakte wiederaufladbare LED Stirnlampe, 500 Lumen
-- Unisex
 - Bergsteigen und Trekking / Camping / Klettern und Bouldern / Laufsport / Skitour / Urban Outdoor
 - One Size
+- Unisex
 
 [🛒 Hier!!]({{< param buyurl >}})
