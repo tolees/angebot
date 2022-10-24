@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht zu reinigen: Kalk lässt sich mühelos durch Abwischen über den Silikoneinsatz am Auslauf entfernen (QuickClean)
-- Glänzender Auftritt: Die brillante, leicht zu reinigende Chromoberfläche überzeugt mit dauerhaftem Glanz
 - Volle Leistung: mit bis zu 8 l/min. werden auch große Töpfe schnell befüllt
 - Elegantes Design: mit ihrer minimalistischen Silhouette und dem L-förmigen Auslauf passt die Armatur perfekt unter Hängeschränke
+- Glänzender Auftritt: Die brillante, leicht zu reinigende Chromoberfläche überzeugt mit dauerhaftem Glanz
+- Leicht zu reinigen: Kalk lässt sich mühelos durch Abwischen über den Silikoneinsatz am Auslauf entfernen (QuickClean)
 - Besonders langlebig: ausgestattet mit hochwertigem, leichtgängigem Keramikmischsystem von hansgrohe
 - Mehr Bewegungsfreiheit: 265 mm Abstand zwischen Auslauf und Spülbecken sowie in 4 Stufen einstellbarer Schwenkauslauf (60°, 110°, 150° oder 360°)
 - Für Durchlauferhitzer geeignet: Diese Armatur ist vielseitig einsetzbar
