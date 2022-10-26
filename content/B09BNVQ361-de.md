@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Transform the Mad-Eye Moody LEGO Harry Potter minifigure into Barty Crouch Jr. by turning his head and replacing the hair
+- This set connects with other LEGO Hogwarts Moment sets, each designed and decorated to recreate a different Hogwarts classroom
+- This Harry Potter toy for kids age 8 features lots of authentic accessories, including a blackboard, trunk, potion bottles, desk and chairs
 - Includes 3 LEGO Harry Potter minifigures: Mad-Eye Moody, Hermione Granger & Neville Longbottom, and a Mad-Eye Moody microfigure in the trunk
 - The Hogwarts Moment portable travel toy is designed to be quick to clear away and easy to store, it makes a great LEGO Harry Potter gift idea
-- Transform the Mad-Eye Moody LEGO Harry Potter minifigure into Barty Crouch Jr. by turning his head and replacing the hair
-- This Harry Potter toy for kids age 8 features lots of authentic accessories, including a blackboard, trunk, potion bottles, desk and chairs
-- This set connects with other LEGO Hogwarts Moment sets, each designed and decorated to recreate a different Hogwarts classroom
 - Kids open the LEGO playbook to enter Professor Moody’s defence class lesson, with his office next door & a trunk with a mini-Moody inside
 - Features a brick-built Harry Potter collectable book with a Defence Class classroom inside, filled with features to inspire magical roleplay
 
