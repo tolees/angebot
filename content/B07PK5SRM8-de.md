@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Head Unit-Funktionalität: Autoradio, Bildschirm- / Monitortyp: In-Dash-Monitor, Ean: 4988028394676
 - Anzahl der Vorverstärkerausgänge: 3, Funktionen: Android, USB-Schnittstelle, FM-Sender, Blu
 - Nummer von Leisten: 4-Channel, RMS Power : 50w Mosfet, Brand: Pioneer
-- Head Unit-Funktionalität: Autoradio, Bildschirm- / Monitortyp: In-Dash-Monitor, Ean: 4988028394676
-- Einheit Größe: 2 Din, Kompatibel Format: CD, DVD, MP3
 - Port : Aux, USB, Einheit Anzahl: 1, Hersteller Teilenummer: AVH-A3200DAB
+- Einheit Größe: 2 Din, Kompatibel Format: CD, DVD, MP3
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

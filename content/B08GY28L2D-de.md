@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OSRAM LEDriving Zusatzscheinwerfer Lightbar MX250-CB: Vollständig ECE konformes LED Zusatzfernlicht und LED Standlicht mit 6.000 Kelvin, 2.700 Lumen,
-- Umgebungstemperatur: -40°C bis 85°C! Integriertes Treiber- und Wärmemanagementsystem für eine erhöhte Lebensdauer
-- Combo Beam für verbesserte Fern- und Nahfeldausleuchtung: Bis zu 320 Meter Ausleuchtung
 - Rechtliche Hinweise: Bei 12/24 V-Fahrzeugen müssen Zusatzscheinwerfer paarweise verbaut werden. Genaue Bedingungen unter osram.de/am-garantie
 - Kompakt und robust: Bruchsichere Polycarbonat-Linse für hohe Beanspruchung
+- OSRAM LEDriving Zusatzscheinwerfer Lightbar MX250-CB: Vollständig ECE konformes LED Zusatzfernlicht und LED Standlicht mit 6.000 Kelvin, 2.700 Lumen,
+- Combo Beam für verbesserte Fern- und Nahfeldausleuchtung: Bis zu 320 Meter Ausleuchtung
+- Umgebungstemperatur: -40°C bis 85°C! Integriertes Treiber- und Wärmemanagementsystem für eine erhöhte Lebensdauer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

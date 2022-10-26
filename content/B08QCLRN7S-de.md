@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Core Pipe: Precision-crafted heat pipes ensure max contact to the GPU and spread heat along the full length of the heatsink.
-- 16GB GDDR6
 - TORX Fan 4.0: A masterpiece of teamwork, fan blades work in pairs to create unprecedented levels of focused air pressure.
 - Up to 2250 MHz / 16 Gbps
 - DisplayPort x 3 / HDMI x 1
+- Core Pipe: Precision-crafted heat pipes ensure max contact to the GPU and spread heat along the full length of the heatsink.
+- 16GB GDDR6
 
 [🛒 Hier!!]({{< param buyurl >}})

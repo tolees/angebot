@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurze Ärmel, gerade eingesetzt – fixierter Umschlagsaum
-- Relaxed Fit
 - Hochwertiger G-Star RAW Print auf der Brust
+- Kurze Ärmel, gerade eingesetzt – fixierter Umschlagsaum
 - Runder Ausschnitt – gerippt
 - Abgerundeter Saum
+- Relaxed Fit
 
 [🛒 Hier!!]({{< param buyurl >}})

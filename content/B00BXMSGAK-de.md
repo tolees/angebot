@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ledlenser SEO 7R LED Stirnlampe akkubetrieben 220lm 20h 6107-R
 - Inhalt: 1 Stück
+- Ledlenser SEO 7R LED Stirnlampe akkubetrieben 220lm 20h 6107-R
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
