@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - RAZER TRIFORCE TITANIUM 50-MM-TREIBER: Unser patentiertes 3-teiliges Treiberdesign sorgt für außergewöhnliche Höhen, Mitten und Bässe, die nicht verwaschen und undefiniert klingen, sondern ein noch dynamischeres Hörerlebnis und noch mehr Immersion ermöglichen.
-- ABNEHMBARES RAZER HYPERCLEAR KARDIOIDEN-MIKROFON: Mit diesem Mikrofon, das Hintergrundgeräusche unterdrückt und die eigene Stimme im Spiel noch besser aufnimmt, gibt es keine Verständigungsprobleme.
-- THX SPATIAL AUDIO: Dank unserem hoch modernen 7.1 Surround Sound ist eine absolut lebensechte Akustik zu genießen, die das Sound-Design jedes Spiels optimiert, damit sich alles so anhört wie mitten im Geschehen.
 - OHRPOLSTER AUS HYBRID-STOFF, MEMORY-SCHAUMSTOFF UND KUNSTLEDER: Die bequemen, eng abschließenden Ohrpolster bieten nicht nur überlegene Schallisolierung und Tragekomfort, sondern erzeugen mit ihren Treibern ein haptisches Feedback, das die Immersion perfekt macht.
+- ABNEHMBARES RAZER HYPERCLEAR KARDIOIDEN-MIKROFON: Mit diesem Mikrofon, das Hintergrundgeräusche unterdrückt und die eigene Stimme im Spiel noch besser aufnimmt, gibt es keine Verständigungsprobleme.
 - RAZER HYPERSENSE: Das Headset verwandelt in Echtzeit Audio-Signale in Vibrationen und sorgt so über die Ohrmuscheln für ein taktiles Feedback, dessen Intensität sich ganz leicht über eine Taste am Headset anpassen lässt.
+- THX SPATIAL AUDIO: Dank unserem hoch modernen 7.1 Surround Sound ist eine absolut lebensechte Akustik zu genießen, die das Sound-Design jedes Spiels optimiert, damit sich alles so anhört wie mitten im Geschehen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

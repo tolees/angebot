@@ -28,7 +28,7 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robust und langlebig
 - 14,4 Volt und 18 Volt Schiebeakkus
+- Robust und langlebig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
