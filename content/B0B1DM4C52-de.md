@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 4,4 cm (1,75 Zoll) Huawei Fullview Display
 - Langlebige Akkulaufzeit
+- Gesundes Lebensmanagement
 - Bluetooth-Anrufe
 - Schnelle Workout-Animationen
-- 4,4 cm (1,75 Zoll) Huawei Fullview Display
-- Gesundes Lebensmanagement
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
