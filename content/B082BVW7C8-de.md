@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Samsung Lithium-Ionen-Zellen mit leistungsstarken 28 V Akku, 2, 9 Ah, Schnittbreite: 180 mm, Schnitthöhe: 20 mm - 60 mm (5 Stufen)
-- Kantenschneidefunktion, um den Garten sauber und ordentlich zu halten
 - Hinweis: Transportieren Sie den Mähroboter nicht mit der oberen Abdeckung
+- Kantenschneidefunktion, um den Garten sauber und ordentlich zu halten
+- Inhalt der Verpackung: 1x Robotermäher / 1x Ladestation / 160 m Begrenzungskabel / 200 Stück. Befestigungsnägel / 9 m Netzkabel / 9 Stk. Ersatzmesser / 3 Stück Ersatzschrauben / 3 Stück Kabelsteckverbinder / Abstandhalter Lineal / Bedienungsanleitung
+- Samsung Lithium-Ionen-Zellen mit leistungsstarken 28 V Akku, 2, 9 Ah, Schnittbreite: 180 mm, Schnitthöhe: 20 mm - 60 mm (5 Stufen)
 - Für einen gesünderen Garten: Mit dem praktischen Mulchsystem werden die Grashalme mulchweise gemäht und auf der Rasenfläche verteilt, so dass sie als Dünger liegen bleiben können.
 - bürstenloser Motor, um eine leise und kraftvolle Schnittleistung zu ermöglichen.
-- Inhalt der Verpackung: 1x Robotermäher / 1x Ladestation / 160 m Begrenzungskabel / 200 Stück. Befestigungsnägel / 9 m Netzkabel / 9 Stk. Ersatzmesser / 3 Stück Ersatzschrauben / 3 Stück Kabelsteckverbinder / Abstandhalter Lineal / Bedienungsanleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
