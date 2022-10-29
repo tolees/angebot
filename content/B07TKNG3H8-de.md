@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tiberiusfilm - T34 - Das Duell'
-date: 2022-10-28 07:15:50
+date: 2022-10-29 09:59:45
 image: 'https://m.media-amazon.com/images/I/51IYr8jPHSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Tiberiusfilm'
 buyurl: 'https://www.amazon.de/dp/B07TKNG3H8/?tag=tolees0ca-21'
 descuento: '50.03'
-average: '6.74333333333333'
+average: '7.18'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
