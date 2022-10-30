@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41963 DOTS Micky und Minnie Kreativ-Aufnäher  DIY Bastelset zum Dekorieren von Kleidung  Rucksäcke  Accessoires  kreative Aktivität  Spielzeug für Kinder'
-date: 2022-10-28 14:09:50
+date: 2022-10-30 18:08:43
 image: 'https://m.media-amazon.com/images/I/51pHKmERk1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09TRWXYQ2-de LEGO 41963 DOTS Micky und Minnie Kreativ-Aufnäher DIY...'
 sku: 'B09TRWXYQ2-de'
 tags: [ 'Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','lego','🇩🇪', ]
-actualPrice: 4.4 EUR
+actualPrice: 4.41 EUR
 currency: EUR
-price: 4.4
+price: 4.41
 comparePrice: 6.99 EUR
 prodname: 'LEGO 41963 DOTS Micky und Minnie Kreativ-Aufnäher  DIY Bastelset zum Dekorieren von Kleidung  Rucksäcke  Accessoires  kreative Aktivität  Spielzeug für Kinder'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09TRWXYQ2/?tag=tolees0ca-21'
-descuento: '37.05'
-average: '4.4'
+descuento: '36.91'
+average: '4.40076923076923'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
