@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sennheiser 508381 kabelloses Headset CX 150BT mit Nacken-Kabel  Weiß'
-date: 2022-10-29 05:12:28
+date: 2022-10-31 06:11:32
 image: 'https://m.media-amazon.com/images/I/216jWrPsAwS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Moderne Drahtlostechnologie Bluetooth 5. 0 mit nahtloser Konnektivität
-- Komfortables Design mit auswechselbaren Ohradaptern in vier Größen (im Lieferumfang enthalten) für optimale Passform und Geräuschisolierung
 - THD + N, total harmonic distortion and noise : <0.5% (1kHz, 100dB)
 - Anruf- und Musiksteuerung über Drei-Tasten-Fernbedienung
 - 10 Stunden Akkulaufzeit
+- Moderne Drahtlostechnologie Bluetooth 5. 0 mit nahtloser Konnektivität
+- Komfortables Design mit auswechselbaren Ohradaptern in vier Größen (im Lieferumfang enthalten) für optimale Passform und Geräuschisolierung
 
 [🛒 Hier!!]({{< param buyurl >}})

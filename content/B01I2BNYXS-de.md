@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Vertrieb - Ich find s lustig  Doppel DVD mit Ja-Nein-Würfel '
-date: 2022-10-29 04:54:21
+date: 2022-10-31 06:14:04
 image: 'https://m.media-amazon.com/images/I/51kDzk7aBFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Vertrieb'
 buyurl: 'https://www.amazon.de/dp/B01I2BNYXS/?tag=tolees0ca-21'
 descuento: '42.13'
-average: '11.808'
+average: '11.6716666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

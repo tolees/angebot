@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Osram - König der Herzen'
-date: 2022-10-29 17:10:25
+date: 2022-10-31 06:14:24
 image: 'https://m.media-amazon.com/images/I/51Arj5s6Z2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Osram'
 buyurl: 'https://www.amazon.de/dp/B000FIMJ24/?tag=tolees0ca-21'
 descuento: '21.46'
-average: '7.33'
+average: '7.16272727272727'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
