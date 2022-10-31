@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inklusive 5 LEGO Minifiguren mit 2 Charakteren aus der TV-Serie LEGO City - Abenteuer (Freya McCloud und Finn McCormack) sowie einer Hunde- und Katzenfigur
-- Außerdem umfasst das Set eine Auswahl an Rettungsfahrzeugen: einen Hubschrauber, der LEGO Wasserelemente verschießt, und ein Feuerwehrauto, das Wasserpfeile abfeuert
-- Dieses Feuerwehr Set enthält eine dreistöckige Feuerwehrstation mit einer Spielzeuggarage, einer Rezeption, einem Quartier für die Feuerwehrleute und einem Kontrollraum
-- Außerdem ist eine Straßenplatte enthalten, die sich mit den anderen neuen LEGO City Sets„Polizeistation“ (60316) und „Banküberfall mit Verfolgungsjagd“ (60317) verbinden lässt
 - Zum Zubehör des Feuerwehrspielzeugs gehören 4 Helme und ein Walkie-Talkie, eine Feuerwehraxt, ein Getränkebecher, ein Pizzakarton und Feuerlöscher-Elemente
-- Mit der kostenlosen LEGO Bauanleitungen App können Kinder die fertigen Modelle beim Bauen vergrößern, drehen und betrachten
+- Dieses Feuerwehr Set enthält eine dreistöckige Feuerwehrstation mit einer Spielzeuggarage, einer Rezeption, einem Quartier für die Feuerwehrleute und einem Kontrollraum
+- Außerdem umfasst das Set eine Auswahl an Rettungsfahrzeugen: einen Hubschrauber, der LEGO Wasserelemente verschießt, und ein Feuerwehrauto, das Wasserpfeile abfeuert
+- Inklusive 5 LEGO Minifiguren mit 2 Charakteren aus der TV-Serie LEGO City - Abenteuer (Freya McCloud und Finn McCormack) sowie einer Hunde- und Katzenfigur
 - Die Polizei- und Feuerwehrspielzeuge von LEGO City - Abenteuer sind tolle Geburtstags- oder Weihnachtsgeschenke für Kinder, die rasanten Spielspaß in Rettungsfahrzeugen lieben
+- Mit der kostenlosen LEGO Bauanleitungen App können Kinder die fertigen Modelle beim Bauen vergrößern, drehen und betrachten
+- Außerdem ist eine Straßenplatte enthalten, die sich mit den anderen neuen LEGO City Sets„Polizeistation“ (60316) und „Banküberfall mit Verfolgungsjagd“ (60317) verbinden lässt
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zu den lustigen Features gehören ein Waffenladen, ein Computer und ein Ort, an dem die LEGO Marvel Avengers Superhelden Figuren Kaffee und Doughnuts essen können
-- Es ist innen genauso cool wie außen, mit einem stabilen, drehbaren Ständer, mit dem das LEGO Raumschiff für eine dynamische Darstellung positioniert werden kann
-- Dieses 1901-teilige große LEGO Set ist 25 cm hoch, 36 cm lang und 59 cm breit und eignet sich perfekt als Geschenk zu Weihnachten für alle Fans von Marvel Avengers und Guardians of the Galaxy
-- Enthalten ist das kultige LEGO Guardians of the Galaxy Raumschiff mit einem sich öffnenden Cockpit und Platz für alle LEGO Marvel Minifiguren aus dem Set
 - In dem LEGO Marvel Set enthalten sind außerdem Star-Lord, Groot, Rocket, Mantis, Thor und Chitauri-Krieger als LEGO-Minifiguren, plus coole Waffen und Zubehör
+- Es ist innen genauso cool wie außen, mit einem stabilen, drehbaren Ständer, mit dem das LEGO Raumschiff für eine dynamische Darstellung positioniert werden kann
+- Enthalten ist das kultige LEGO Guardians of the Galaxy Raumschiff mit einem sich öffnenden Cockpit und Platz für alle LEGO Marvel Minifiguren aus dem Set
+- Dieses 1901-teilige große LEGO Set ist 25 cm hoch, 36 cm lang und 59 cm breit und eignet sich perfekt als Geschenk zu Weihnachten für alle Fans von Marvel Avengers und Guardians of the Galaxy
 
 [🛒 Hier!!]({{< param buyurl >}})
