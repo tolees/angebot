@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kabellose Freiheit dank Bluetooth Konnektivität
-- Hohe Präzision dank optischem Sensor
-- Uneingeschränkte Mobilität dank geringem Gewicht und kompakten Abmessungen
 - Energiesparende Elektronik für eine sehr lange Batterielebensdauer
+- Hohe Präzision dank optischem Sensor
 - Symmetrisches Gehäusedesign mit drei Tasten und leichtgängigem Scrollrad
+- Uneingeschränkte Mobilität dank geringem Gewicht und kompakten Abmessungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
