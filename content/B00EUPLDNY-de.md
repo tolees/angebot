@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Traditionelle Mischung: Der Lavazza Crema e Gusto Tradizione Italiana besteht aus Arabica- und Robusta-Bohnen aus Südamerika, Südostasien und Afrika
 - Hohe Intensität: 9 von 10
 - Perfekter Genuss: der klassische Röstkaffee in der 1-kg-Packung
+- Traditionelle Mischung: Der Lavazza Crema e Gusto Tradizione Italiana besteht aus Arabica- und Robusta-Bohnen aus Südamerika, Südostasien und Afrika
 - Mittlere Röstung: Der Kaffee wird schonend und gleichmäßig in Turin veredelt
-- Vielfältige Zubereitung: Der Lavazza Crema e Gusto Tradizione Italiana lässt sich ideal im Kaffeevollautomaten und gemahlen in der French Press oder der Mokkakanne zubereiten
 - Intensiver Geschmack: Lavazza Crema e Gusto Tradizione Italiana schmeckt schokoladig-nussig mit Aromen von dunkler Schokolade, Kakao und Haselnüssen
+- Vielfältige Zubereitung: Der Lavazza Crema e Gusto Tradizione Italiana lässt sich ideal im Kaffeevollautomaten und gemahlen in der French Press oder der Mokkakanne zubereiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

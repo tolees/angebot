@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Luftreiniger berechnet die Lebensdauer des Filters anhand des Verschmutzungsgrads und der Betriebszeit genau.
-- Die leistungsstarke Luftzirkulation reinigt effizient Räume bis zu 49 m² und verteilt saubere Luft bis in jede Ecke des Raums
 - Scannt die Luft 1.000 Mal pro Sekunde, um ultrafeine Partikel zu erkennen.
-- Erfasst Aerosole, einschließlich solcher, die respiratorische Viren enthalten können.
 - Die 3-schichtige Filterung mit NanoProtect HEPA-, Aktivkohle- und Vorfilter erfasst 99,5 % der ultrafeinen Partikel
+- Erfasst Aerosole, einschließlich solcher, die respiratorische Viren enthalten können.
+- Die leistungsstarke Luftzirkulation reinigt effizient Räume bis zu 49 m² und verteilt saubere Luft bis in jede Ecke des Raums
+- Der Luftreiniger berechnet die Lebensdauer des Filters anhand des Verschmutzungsgrads und der Betriebszeit genau.
 
 [🛒 Hier!!]({{< param buyurl >}})
