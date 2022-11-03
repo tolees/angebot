@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Phantastische Tierwesen 3-Film Collection [3 DVDs]'
-date: 2022-11-01 06:38:51
+date: 2022-11-03 12:27:05
 image: 'https://m.media-amazon.com/images/I/51xt-oKg-0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B0B113Z3GR/?tag=tolees0ca-21'
 descuento: '16.52'
-average: '27.353'
+average: '27.1433333333333'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
