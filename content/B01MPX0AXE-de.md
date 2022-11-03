@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausdauernd: Betriebsdauer bis zu 6 Stunden mit einer entsprechenden Kartusche (Kartusche nicht im Lieferumfang enthalten)
-- Leistungsstark: 1,2 - 2,4 kW Innenheizer für Räume bis 21m³ (z.B. kleine Räume oder Zelte)
-- Kompakt: Der Portable Buddy erzielt trotz seiner kompakten Bauweise eine starke Leistung
 - Sicher: Automatische Kipp-Abschaltung und Abschaltung bei Sauerstoffmangel
+- Leistungsstark: 1,2 - 2,4 kW Innenheizer für Räume bis 21m³ (z.B. kleine Räume oder Zelte)
+- Ausdauernd: Betriebsdauer bis zu 6 Stunden mit einer entsprechenden Kartusche (Kartusche nicht im Lieferumfang enthalten)
+- Kompakt: Der Portable Buddy erzielt trotz seiner kompakten Bauweise eine starke Leistung
 - Universell:mit Adapter für Butan und Propan Gas-Kartuschen mit EN 417 Gewinde (7/16"x28 UNEF)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

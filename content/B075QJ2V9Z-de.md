@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abmessungen Auflaufform groß: außen 33 x 24 x 8 cm; innen 27 x 23 x 7 cm. Auflaufform klein: außen 25,5 x 16 x 7 cm; innen 20,5 x 15 x 6 cm
 - Keine schadstoffhaltige Kunststoffbeschichtung, kein Einbrennen von Rückständen (wie bei Glasformen üblich), lang anhaltende Wärmespeicherung. Backofen-fest bis 250°C, absolut kratz- und schnittfest, spülmaschinenfest, kühlschrank- und mikrowellengeeignet
+- Dank ihrer trendigen Pastellfarben und der schönen Formgebung eignen sich die Ofenformen der Serie "Kitchen Time" nicht nur zum Backen, sondern auch zum direkten Servieren von Auflauf, Lasagne, Tiramisu und vielem mehr auf Ihrem Esstisch
+- Abmessungen Auflaufform groß: außen 33 x 24 x 8 cm; innen 27 x 23 x 7 cm. Auflaufform klein: außen 25,5 x 16 x 7 cm; innen 20,5 x 15 x 6 cm
 - Set aus 2 rechteckigen Auflaufformen bzw. Lasagneformen für 4 Portionen (große Form) und 2 Portionen (kleine Form)
 - Innen glatt und weiß lasiert, außen dezent gerippter Retro-Look mit hellgrüner Lasur und praktischen Griffen, gefertigt aus dickwandigem Steinzeug (einer hochwertigen Form der Keramik)
-- Dank ihrer trendigen Pastellfarben und der schönen Formgebung eignen sich die Ofenformen der Serie "Kitchen Time" nicht nur zum Backen, sondern auch zum direkten Servieren von Auflauf, Lasagne, Tiramisu und vielem mehr auf Ihrem Esstisch
 
 [🛒 Hier!!]({{< param buyurl >}})
