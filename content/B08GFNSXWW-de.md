@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auto Door – automatisches Türöffnungssystem
 - Fast&Clean 28’ – das effektive Reinigungsprogramm unter 28 Minuten
+- Auto Door – automatisches Türöffnungssystem
 - sehr leise mit nur 41
-- Push&Go – 1 Tastendruck für sauberes und trockenes Geschirr
 - 14 Maßgedecke
+- Push&Go – 1 Tastendruck für sauberes und trockenes Geschirr
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

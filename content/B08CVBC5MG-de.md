@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die On-Board-Kühlung für die Stromversorgung wird von einem Blower-Lüfter und einem Low-Profile-Kühlkörper übernommen
-- Super Alloy Power II beinhaltet Spulen aus hochwertigen Legierungen, Festpolymerkondensatoren und eine Reihe von Hochstrom-Leistungsstufen
 - Eine vollflächige Kälteplatte bringt die Wasserkühlung zu GPU-Chip und Speicher
-- 600mm Schläuche für Kompatibilität mit EATX-Gehäusen und alternativen Befestigungen
 - Ein 240mm großer Radiator vereint Kompatibilität und Performance
+- Super Alloy Power II beinhaltet Spulen aus hochwertigen Legierungen, Festpolymerkondensatoren und eine Reihe von Hochstrom-Leistungsstufen
+- Die On-Board-Kühlung für die Stromversorgung wird von einem Blower-Lüfter und einem Low-Profile-Kühlkörper übernommen
+- 600mm Schläuche für Kompatibilität mit EATX-Gehäusen und alternativen Befestigungen
 
 [🛒 Hier!!]({{< param buyurl >}})

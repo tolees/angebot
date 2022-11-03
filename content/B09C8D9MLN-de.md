@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entdecke 3 verschiedene Welten und über 20 spannende Level
-- Einstellbarer Schwierigkeitsgrad für mehr Spaß bei unerfahrenen und mehr Herausforderungen für erfahrene Spieler:innen
-- Entdecke und sammle Bonus-Items, um versteckte Level freizuschalten
-- Stelle Rekorde auf mit dem Chrono-Modus
 - Wunderschön gestaltete und farbenfrohe Welten mit vielfältigen Interaktionsmöglichkeiten
+- Entdecke 3 verschiedene Welten und über 20 spannende Level
+- Stelle Rekorde auf mit dem Chrono-Modus
+- Entdecke und sammle Bonus-Items, um versteckte Level freizuschalten
+- Einstellbarer Schwierigkeitsgrad für mehr Spaß bei unerfahrenen und mehr Herausforderungen für erfahrene Spieler:innen
 
 [🛒 Hier!!]({{< param buyurl >}})
