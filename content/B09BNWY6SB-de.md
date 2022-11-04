@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dr. Alan Grant hat ein Bernsteinelement dabei, das mit dem geländegängigen Spielzeugauto und im Hubschrauber transportiert werden kann!
-- Kinder können Duelle austragen und die Action des Films "Jurassic World - Ein neues Zeitalter" mit dem Dinosaurier-Spielzeug nachspielen oder eigene Abenteuer erfinden
-- Mit 2 beweglichen Dinosaurier-Figuren, einem Hauptquartier, einer Spielzeug-Garage für das Auto, einem Aussichtsturm und Hubschrauber
-- Enthält 6 LEGO Jurassic World Minifiguren: Owen Grady, Claire Dearing, Dr. Ellie Sattler, Kayla Watts & Dr. Henry Wu
 - Dieses hochwertige Set ist ein lustiges Weihnachtsgeschenk für dinosaurierbegeisterte Kinder, die gerne Abenteuer nachspielen
-- Das HQ enthält ein detailliertes Labor, den Turm mit Plattformfunktion, den Hubschrauber mit drehenden Rotoren und einen Laderaum
+- Kinder können Duelle austragen und die Action des Films "Jurassic World - Ein neues Zeitalter" mit dem Dinosaurier-Spielzeug nachspielen oder eigene Abenteuer erfinden
+- Dr. Alan Grant hat ein Bernsteinelement dabei, das mit dem geländegängigen Spielzeugauto und im Hubschrauber transportiert werden kann!
+- Mit 2 beweglichen Dinosaurier-Figuren, einem Hauptquartier, einer Spielzeug-Garage für das Auto, einem Aussichtsturm und Hubschrauber
 - Kinder können ihre Jurrasic World erweitern - das Set passt zu anderen LEGO Jurassic World Sets für zusätzliche Spielmöglichkeiten
+- Enthält 6 LEGO Jurassic World Minifiguren: Owen Grady, Claire Dearing, Dr. Ellie Sattler, Kayla Watts & Dr. Henry Wu
+- Das HQ enthält ein detailliertes Labor, den Turm mit Plattformfunktion, den Hubschrauber mit drehenden Rotoren und einen Laderaum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
