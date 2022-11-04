@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verwandle das Aussehen der Freunde mit Vielsafttrank mit 3 Minifiguren mit neuem Gesicht und anderem Haarteil
-- Das einzigartige Spielset ist ein zauberhaftes Harry Potter Geburtstags- oder Weihnachtsgeschenk für Hexen, Zauberer und Muggel ab 9 Jahren
-- Das erste LEGO Harry Potter Set mit dem Zaubereiministerium, den Büros von Dolores Umbridge und Arthur Weasley, der Halle der Prophezeiung
-- Das Harry Potter Spielzeug enthält eine Telefonzelle, den Tagespropheten, eine Patronus-Katze, 2 Köderzünder und einen Horkrux
-- Enthält 12 LEGO Minifiguren, u.a. Harry Potter, Hermine Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg & Mary Cattermole
-- Das Set aus der LEGO Harry Potter Collection, kann für endlose neue Abenteuer umgestaltet werden und ist eine tolle Deko für zu Hause
 - Dieses modulare LEGO Harry Potter Set enthält außerdem Arthur Weasley, Dolores Umbridge, Pius Thicknesse, Corban Yaxley und einen Dementor
+- Das einzigartige Spielset ist ein zauberhaftes Harry Potter Geburtstags- oder Weihnachtsgeschenk für Hexen, Zauberer und Muggel ab 9 Jahren
+- Das Harry Potter Spielzeug enthält eine Telefonzelle, den Tagespropheten, eine Patronus-Katze, 2 Köderzünder und einen Horkrux
+- Das erste LEGO Harry Potter Set mit dem Zaubereiministerium, den Büros von Dolores Umbridge und Arthur Weasley, der Halle der Prophezeiung
+- Verwandle das Aussehen der Freunde mit Vielsafttrank mit 3 Minifiguren mit neuem Gesicht und anderem Haarteil
+- Das Set aus der LEGO Harry Potter Collection, kann für endlose neue Abenteuer umgestaltet werden und ist eine tolle Deko für zu Hause
+- Enthält 12 LEGO Minifiguren, u.a. Harry Potter, Hermine Granger, Ron Weasley, Albert Runcorn, Mafalda Hopkirk, Reg & Mary Cattermole
 
 [🛒 Hier!!]({{< param buyurl >}})

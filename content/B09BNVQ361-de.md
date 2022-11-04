@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das LEGO Harry Potter Buch enthält das Klassenzimmer von Moody, mit Büro nebenan und der Truhe mit einem Mini-Moody darin
-- Enthält 3 LEGO Harry Potter Minifiguren: Hermine Granger & Neville Longbottom, und eine Mad-Eye Moody Figur in der Truhe
+- Ein Harry Potter Sammlerstück aus LEGO Steinen, das zu den magischen Rollenspielen anregt
 - Dieses Harry Potter Spielzeug umfasst authentisches Zubehör, wie eine Tafel, eine Truhe, Zaubertrankflaschen, einen Schreibtisch und Stühle
 - Das Spielzeug-Buch zum Mitnehmen ist so konzipiert, dass es weggeräumt und leicht verstaut werden kann - ein tolles Geschenk für alle Fans von Harry Potter
 - Dieses Set lässt sich mit anderen LEGO Hogwarts Moment Sets kombinieren, die jeweils ein anderes Hogwarts Klassenzimmer nachbilden
 - Verwandle die LEGO Harry Potter Minifigur Mad-Eye Moody in Barty Crouch Jr., indem du seinen Kopf umdrehst und die Haare austauschst
-- Ein Harry Potter Sammlerstück aus LEGO Steinen, das zu den magischen Rollenspielen anregt
+- Das LEGO Harry Potter Buch enthält das Klassenzimmer von Moody, mit Büro nebenan und der Truhe mit einem Mini-Moody darin
+- Enthält 3 LEGO Harry Potter Minifiguren: Hermine Granger & Neville Longbottom, und eine Mad-Eye Moody Figur in der Truhe
 
 [🛒 Hier!!]({{< param buyurl >}})
