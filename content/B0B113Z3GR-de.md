@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Phantastische Tierwesen 3-Film Collection [3 DVDs]'
-date: 2022-11-03 12:27:05
+date: 2022-11-05 17:45:05
 image: 'https://m.media-amazon.com/images/I/51xt-oKg-0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Action & Abenteuer','Box-Sets','DVD & Blu-ray','Fantasy','Featured Cate
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95
-comparePrice: 27.49 EUR
+comparePrice: 27.25 EUR
 prodname: 'Warner Bros  Universal Pictures  - Phantastische Tierwesen 3-Film Collection [3 DVDs]'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B0B113Z3GR/?tag=tolees0ca-21'
-descuento: '16.52'
-average: '27.1433333333333'
+descuento: '15.78'
+average: '26.9527272727272'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
