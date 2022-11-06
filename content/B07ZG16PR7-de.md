@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TIE TBE1018 Bluetooth In-Ear Ohrhörer - Wasserfeste Sportkopfhörer mit Powerbank Größe S M L  Schwarz'
-date: 2022-11-05 00:00:05
+date: 2022-11-06 06:02:43
 image: 'https://m.media-amazon.com/images/I/41xGv5vo7rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TIE'
 buyurl: 'https://www.amazon.de/dp/B07ZG16PR7/?tag=tolees0ca-21'
 descuento: '39.96'
-average: '30.0711111111111'
+average: '30.063'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang: TIE Audio Waterproof Wireless Earbuds inklusive Powerbank und USB-Kabel
 - Stereo Bluetooth Ohrhörer wasserfest nach IPX7 Standart ideal für Outdoor und Sport Aktivitäten Bluetooth 5. 0 Hohe Klangqualität
-- 10 Meter Distanz zur Quelle möglich Hoher Tragekomfort dank auswechselbarer Haltebügel Kompatibel zu den meisten gängigen Bluetooth Smartphones und Tablets
 - Kompatibel zu iOs und Android Bis zu 10 Stunden Telefonieren oder Musik hören Multifunktionstaste für Gesprächannahme, Lautstärke, Titel vor/zurück integriertes Mikrofon
+- 10 Meter Distanz zur Quelle möglich Hoher Tragekomfort dank auswechselbarer Haltebügel Kompatibel zu den meisten gängigen Bluetooth Smartphones und Tablets
 - Integrierter, wiederaufladbarer Lithium-Ionen-Akku 60 mAh Spielzeit: 4, 5 Stunden Ladezeit: 1, 5 Stunden Gewicht: 7, 5 g Ladeschale mit integriertem 650mAh Lithium-Ionen-Akku
 
 [🛒 Hier!!]({{< param buyurl >}})
