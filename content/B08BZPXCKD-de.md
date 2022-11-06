@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Höchste Reichweite und ultraschnelle Übertragung mit 1800 MBit/s (5 GHz) und 600 MBit/s (2,4 GHz)
-- Internet-Geschwindigkeiten von bis zu 300 MBit/s durch VDSL-Supervectoring 35b
-- Innovatives Wi-Fi 6 ausgelegt für ein anspruchsvolles Heimnetzt mit einer Vielzahl an WLAN-Endgeräten
 - Komfortabel telefonieren mit bis zu 6 Schnurlostelefonen (DECT)
+- Innovatives Wi-Fi 6 ausgelegt für ein anspruchsvolles Heimnetzt mit einer Vielzahl an WLAN-Endgeräten
+- Internet-Geschwindigkeiten von bis zu 300 MBit/s durch VDSL-Supervectoring 35b
 - Bereitsstellung von Musik, Filmen und Bildern über integrierten Mediaserver (USB, NAS)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
