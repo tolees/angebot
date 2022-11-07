@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 76402 Harry Potter Hogwarts: Dumbledores Büro Set zur Schloss Erweiterung mit dem Schwert Gryffindors und Minifiguren  Geschenkidee an Weihnachten'
-date: 2022-11-05 23:44:18
+date: 2022-11-07 19:28:02
 image: 'https://m.media-amazon.com/images/I/513wqxu-ixL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFSG4ZB-de LEGO 76402 Harry Potter Hogwarts: Dumbledores Büro Set zur...'
 sku: 'B09QFSG4ZB-de'
 tags: [ 'Gebäude & Landschaften für Kinderspielfiguren & -fahrzeuge','Spielschlösser','Spielzeug','Spielzeugfiguren & Spielsets','lego','🇩🇪', ]
-actualPrice: 58.09 EUR
+actualPrice: 59.99 EUR
 currency: EUR
-price: 58.09
+price: 59.99
 comparePrice: 89.99 EUR
 prodname: 'LEGO 76402 Harry Potter Hogwarts: Dumbledores Büro Set zur Schloss Erweiterung mit dem Schwert Gryffindors und Minifiguren  Geschenkidee an Weihnachten'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFSG4ZB/?tag=tolees0ca-21'
-descuento: '35.45'
-average: '59.6003921568627'
+descuento: '33.34'
+average: '59.6078846153846'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set ist Teil einer modularen Reihe von LEGO Harry Potter Schloss Erweiterungen, die unterschiedlich zusammengebaut werden können
+- Zum Zubehör dieses LEGO Harry Potter Spielzeugs gehören das Denkarium und der aus der Asche auferstandene Baby-Phönix Fawkes
+- Das LEGO Harry Potter Schloss für Kinder enthält außerdem 3 zufällige Überraschungskartenelementen (von insgesamt 16), die die Kinder sammeln können
+- Dieses LEGO Harry Potter Set enthält den verbotenen Bereich der Bibliothek von Hogwarts und Dumbledores Büro mit authentischem Zubehör
+- Dieser Spielzeug für Kinder ab 8 Jahre ist ein tolles Harry Potter Geburtstags- oder Weihnachtsgeschenk für kleine Magier und Hexen
 - Enthält 6 LEGO Harry Potter Minifiguren: Harry Potter, Hermine Granger, Albus Dumbledore, Severus Snape, Argus Filch und Madam Pince
 - Jeder Raum ist mit magischen Gegenständen aus den Filmen gefüllt, wie zum Beispiel dem Sprechenden Hut oder dem Schwert von Gryffindor
-- Dieser Spielzeug für Kinder ab 8 Jahre ist ein tolles Harry Potter Geburtstags- oder Weihnachtsgeschenk für kleine Magier und Hexen
-- Das LEGO Harry Potter Schloss für Kinder enthält außerdem 3 zufällige Überraschungskartenelementen (von insgesamt 16), die die Kinder sammeln können
-- Zum Zubehör dieses LEGO Harry Potter Spielzeugs gehören das Denkarium und der aus der Asche auferstandene Baby-Phönix Fawkes
-- Dieses LEGO Harry Potter Set enthält den verbotenen Bereich der Bibliothek von Hogwarts und Dumbledores Büro mit authentischem Zubehör
+- Das Set ist Teil einer modularen Reihe von LEGO Harry Potter Schloss Erweiterungen, die unterschiedlich zusammengebaut werden können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
