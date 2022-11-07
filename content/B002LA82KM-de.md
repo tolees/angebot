@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany GmbH - Hot Fuzz [Blu-ray]'
-date: 2022-11-06 00:29:46
+date: 2022-11-07 08:01:10
 image: 'https://m.media-amazon.com/images/I/51IkqkwzN4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B002LA82KM/?tag=tolees0ca-21'
 descuento: '26.50'
-average: '6.36333333333334'
+average: '6.29842105263159'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
