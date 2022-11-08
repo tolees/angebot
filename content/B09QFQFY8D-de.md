@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit dem LEGO Harry Potter Set können Kinder Schauplätze aus den Filmen nachbauen: die Heulende Hütte und die Peitschende Weide
 - Ein tolles Harry Potter Geschenk zu jeder anderen Gelegenheit für Kinder ab 9 Jahren und Fans der Abenteuer in der Zaubererwelt
-- Mit der kostenlosen LEGO Bauanleitungs-App kann das LEGO Haus während des Bauens betrachtet, gezoomt und gedreht werden
-- Professor Lupin verwandelt sich in einen Werwolf und Kinder können Szenen aus Harry Potter und der Gefangene von Askaban nachspielen
 - Dieses Harry Potter Spielzeug ist vollgepackt mit magischen Eigenschaften: Die Peitschende Weide dreht sich und ihre Äste biegen sich
 - Kinder erleben spannende Abenteuer in der Wizarding World, wenn sie Ron retten und Hermine aus den Armen der Weide befreien
 - Enthält 6 LEGO Harry Potter Minifiguren: Harry Potter, Hermine Granger, Ron Weasley, Sirius Black, Peter Pettigrew und Remus Lupin
-- Mit dem LEGO Harry Potter Set können Kinder Schauplätze aus den Filmen nachbauen: die Heulende Hütte und die Peitschende Weide
+- Professor Lupin verwandelt sich in einen Werwolf und Kinder können Szenen aus Harry Potter und der Gefangene von Askaban nachspielen
+- Mit der kostenlosen LEGO Bauanleitungs-App kann das LEGO Haus während des Bauens betrachtet, gezoomt und gedreht werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
