@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch - Eine Hochzeit zu Weihnachten [Blu-ray]'
-date: 2022-11-05 05:57:11
+date: 2022-11-09 20:38:12
 image: 'https://m.media-amazon.com/images/I/61PM+BlkZRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Koch'
 buyurl: 'https://www.amazon.de/dp/B00MJOP6EU/?tag=tolees0ca-21'
 descuento: '22.86'
-average: '11.9633333333333'
+average: '11.47'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

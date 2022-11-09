@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die ausführliche und bebilderte Anleitung in 12 Sprachen mit Illustrationen hilft beim Gestalten der hübschen Schmuckstücke. Mit großem Schmuckbaum 24 x 23,5 cm. Für Kinder ab 6 Jahren geeignet
-- Mittlerer Schwierigkeitsgrad für Einsteiger und Fortgeschrittene, Fördert die Konzentration, Fingerfertigkeit, Geduld und Kreativität, Ideal als Geschenkidee und für einen Kindergeburtstag geeignet
-- Das umfangreiche Schmuck Kreativset von LENA zum Designen von coolen Ketten und Armbändern enthält 6 Kunstleder Bänder in bunten Farben und 16 Metallanhänger für den individuellen DIY Look
 - Zum Gestalten der modischen Fashion Bracelets und Halsketten sind 650 Strass Steine & 8 Flaschen Glitzer im Set vorhanden, die mit Kleber, Pinsel und Pinzette auf die Schmuckanhänger aufgesetzt werden
 - Lena Schmuckset, Inhalt: 16 Anhänger, 6 Bänder, 650 Schmucksteine, 8x Glitzer, Leim, Schmuckständer, Alter: ab 6 Jahre, Maße: ca. 25,5 x 6 x 26 cm, Gewicht: 520 g, Art.Nr.: 42658, EAN: 4006942848508
+- Mittlerer Schwierigkeitsgrad für Einsteiger und Fortgeschrittene, Fördert die Konzentration, Fingerfertigkeit, Geduld und Kreativität, Ideal als Geschenkidee und für einen Kindergeburtstag geeignet
+- Die ausführliche und bebilderte Anleitung in 12 Sprachen mit Illustrationen hilft beim Gestalten der hübschen Schmuckstücke. Mit großem Schmuckbaum 24 x 23,5 cm. Für Kinder ab 6 Jahren geeignet
+- Das umfangreiche Schmuck Kreativset von LENA zum Designen von coolen Ketten und Armbändern enthält 6 Kunstleder Bänder in bunten Farben und 16 Metallanhänger für den individuellen DIY Look
 
 [🛒 Hier!!]({{< param buyurl >}})
