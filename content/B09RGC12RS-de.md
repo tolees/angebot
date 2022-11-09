@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jeder Bastelfan wird dieses individuell gestaltbare Set zur Schmuck basteln - perfekt als kleines Geschenk für Kinder ab 6 Jahren
-- Mit diesem Spielzeug Armband können Kinder stolz auf ihre Schmuckherstellung sein, denn sie können ihre eigenen Designs entwerfen
-- Mit diesem lustigen Armband Bastelset können junge Designerinnen und Designer ihre Kreationen üben und sie anschließend teilen oder tragen
 - Das Armand Bastelset enthält ein rotes, verstellbares Armband, 2 baumelnde Herzanhänger mit Befestigung und weitere Regenbogen-Steinchen
 - Die Kinder können auch Steine aus anderen LEGO DOTS Taschen (separat erhältlich) hinzufügen, um ihre Designs zu erweitern
+- Jeder Bastelfan wird dieses individuell gestaltbare Set zur Schmuck basteln - perfekt als kleines Geschenk für Kinder ab 6 Jahren
 - Der DIY Schmuck zum Basteln enthält 2 einzigartige herzförmige Anhänger, die die Kinder an das Armband hängen können.
 - Dieser vom Regenbogen inspirierte Kinderschmuck mit verstellbarem Armband ist sowohl für große als auch für kleine Handgelenke geeignet
+- Mit diesem lustigen Armband Bastelset können junge Designerinnen und Designer ihre Kreationen üben und sie anschließend teilen oder tragen
+- Mit diesem Spielzeug Armband können Kinder stolz auf ihre Schmuckherstellung sein, denn sie können ihre eigenen Designs entwerfen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

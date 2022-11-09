@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1600 Lumen maximale Lichtleistung
-- Benötigt 1 Fenix ARB-L18-3500U Batterie (im Lieferumfang enthalten)
 - Wasserdicht nach IP68, 2 m Tiefe und staubdicht.
+- Benötigt 1 Fenix ARB-L18-3500U Batterie (im Lieferumfang enthalten)
 - Reichweite: 205 m
 - Mit Luminus SST-40 LED
+- 1600 Lumen maximale Lichtleistung
 
 [🛒 Hier!!]({{< param buyurl >}})
