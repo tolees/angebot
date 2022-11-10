@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- The LEGO race car has loads of authentic features, such as: opening butterfly doors, a removable roof and shock absorbers
-- Car-lovers can recreate all the details of the ultimate sports car with this collectible LEGO Technic Ferrari Daytona SP3 car model building kit
-- This LEGO advanced set for adults also includes a decorated display plate and unique serial number to unlock online rewards and content
-- This model car is a great gift for any occasion - designed for adult LEGO builders and Ferrari fans, offering an advanced building project
 - This 1:8 scale LEGO supercar comes with a coffee-table-style booklet and will look great on display as a centrepiece in your home or office
 - Designed in collaboration with Ferrari and features many authentic details: steering, V12 engine and 8-speed sequential gearbox with paddle shift
 - The 4th addition to the LEGO Technic Ultimate Car Concept series: a range of models inspired by some of the world’s most luxurious cars
+- This model car is a great gift for any occasion - designed for adult LEGO builders and Ferrari fans, offering an advanced building project
+- The LEGO race car has loads of authentic features, such as: opening butterfly doors, a removable roof and shock absorbers
+- Car-lovers can recreate all the details of the ultimate sports car with this collectible LEGO Technic Ferrari Daytona SP3 car model building kit
+- This LEGO advanced set for adults also includes a decorated display plate and unique serial number to unlock online rewards and content
 
 [🛒 Hier!!]({{< param buyurl >}})
