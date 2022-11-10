@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edel Music & Entertainment CD / DVD - Vera - Ein ganz spezieller Fall - Staffel 5 [4 DVDs]'
-date: 2022-11-04 15:20:32
+date: 2022-11-10 09:16:58
 image: 'https://m.media-amazon.com/images/I/510jQ21bEAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
