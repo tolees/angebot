@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon - Das Smart-Home-Set: 2 x Echo Dot  3. Gen.   Anthrazit Stoff + Philips Hue White Smart Bulb  E27   Funktionert mit Alexa | smarteres Zuhause  intelligenterer Energieverbrauch'
-date: 2022-11-08 13:01:13
+date: 2022-11-16 16:29:12
 image: 'https://m.media-amazon.com/images/I/416FvNNNeZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Amazon-Geräte','Amazon-Geräte & Zubehör','Echo Smart Speaker & Displ
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98
-comparePrice: 51.17 EUR
+comparePrice: 121.97 EUR
 prodname: 'Amazon - Das Smart-Home-Set: 2 x Echo Dot  3. Gen.   Anthrazit Stoff + Philips Hue White Smart Bulb  E27   Funktionert mit Alexa | smarteres Zuhause  intelligenterer Energieverbrauch'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Amazon'
 buyurl: 'https://www.amazon.de/dp/B0BGYNTN31/?tag=tolees0ca-21'
-descuento: '31.64'
+descuento: '71.32'
 average: '34.98'
 ---
 
@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bleiben Sie in Verbindung – Sie können Personen, die ein Echo-Gerät, die Alexa App oder Skype haben, per Sprachbefehl anrufen oder ihnen Nachrichten schicken. Verbinden Sie sich direkt über Drop In mit anderen Räumen in Ihrem Zuhause oder machen Sie eine Ankündigung auf allen kompatiblen Echo-Geräten.
-- Dieses Bundle enthält 2 von Echo Dot (3. Gen.) und 1 von Philips Hue White Smart Bulb (E27) – alles, was Sie benötigen, um mit Ihrem Smart Home loszulegen.
-- Entwickelt, um Ihre Privatsphäre zu schützen – umfasst Datenschutz- und Kontrollmaßnahmen auf mehreren Ebenen, darunter eine Mikrofon-aus-Taste, mit der Sie die Stromzufuhr zu den Mikrofonen unterbrechen und sie somit deaktivieren können.
-- Steuern Sie die Musikwiedergabe per Sprachbefehl – Streamen Sie Songs von Amazon Music, Spotify, TuneIn und weiteren. Sie können auch Hörbücher von Audible hören.
-- Alexa hat Skills – Alexa lernt ständig dazu und erhält neue Funktionen und Skills, zum Beispiel Fitness-Tracking, Spiele und vieles mehr.
 - Stets bereit – Alexa kann Musik abspielen, Fragen beantworten, die Nachrichten und den Wetterbericht vorlesen, Wecker stellen, kompatible Smart Home-Geräte steuern und vieles mehr.
-- Vollerer, besserer Klang – Verbinden Sie das Gerät mit einem zweiten Echo Dot (3. Gen.) für vollen Stereosound. Füllen Sie Ihr Zuhause mit Musik mit kompatiblen Echo-Geräten in verschiedenen Räumen.
-- Stelle energiesparende Routinen ein: Mit Alexa-Routinen kannst du smarte Leuchten und sämtliche an eine smarte Steckdose angeschlossenen Geräte ausschalten, wodurch unnötiger Stromverbrauch durch kompatible Smart-Home-Geräte vermieden wird.
 - Intelligentes Stromsparen: Echo Dot-Geräte verfügen über einen Energiesparmodus, mit dem bei Inaktivität intelligent der Stromverbrauch reduziert wird und der somit über die gesamte Lebensdauer des Geräts Strom sparen kann (abhängig von der Benutzerkonfiguration).
 - Sprachsteuerung für Ihr Smart Home – Schalten Sie Lampen ein, verstellen Sie Thermostate, steuern Sie Türschlösser und vieles mehr mit verbundenen kompatiblen Geräten.
+- Stelle energiesparende Routinen ein: Mit Alexa-Routinen kannst du smarte Leuchten und sämtliche an eine smarte Steckdose angeschlossenen Geräte ausschalten, wodurch unnötiger Stromverbrauch durch kompatible Smart-Home-Geräte vermieden wird.
+- Entwickelt, um Ihre Privatsphäre zu schützen – umfasst Datenschutz- und Kontrollmaßnahmen auf mehreren Ebenen, darunter eine Mikrofon-aus-Taste, mit der Sie die Stromzufuhr zu den Mikrofonen unterbrechen und sie somit deaktivieren können.
+- Vollerer, besserer Klang – Verbinden Sie das Gerät mit einem zweiten Echo Dot (3. Gen.) für vollen Stereosound. Füllen Sie Ihr Zuhause mit Musik mit kompatiblen Echo-Geräten in verschiedenen Räumen.
+- Bleiben Sie in Verbindung – Sie können Personen, die ein Echo-Gerät, die Alexa App oder Skype haben, per Sprachbefehl anrufen oder ihnen Nachrichten schicken. Verbinden Sie sich direkt über Drop In mit anderen Räumen in Ihrem Zuhause oder machen Sie eine Ankündigung auf allen kompatiblen Echo-Geräten.
+- Alexa hat Skills – Alexa lernt ständig dazu und erhält neue Funktionen und Skills, zum Beispiel Fitness-Tracking, Spiele und vieles mehr.
+- Steuern Sie die Musikwiedergabe per Sprachbefehl – Streamen Sie Songs von Amazon Music, Spotify, TuneIn und weiteren. Sie können auch Hörbücher von Audible hören.
+- Dieses Bundle enthält 2 von Echo Dot (3. Gen.) und 1 von Philips Hue White Smart Bulb (E27) – alles, was Sie benötigen, um mit Ihrem Smart Home loszulegen.
 
 [🛒 Hier!!]({{< param buyurl >}})
