@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultrakompakt und diskret: Kaum größer als das integrierte 2 Zoll LCD-Farbdisplay (320 x 240 px) lässt sich diese Kamera einfach platzieren, ohne das Sichtfeld einzuschränken. Im diskreten Design ist sie Ihr unauffälliger Augenzeuge, wenn es darauf ankommt
-- Automatische Speicherung von Unfallvideos: Sobald der integrierte G-Sensor eine Kollision erkennt speichert die Kamera automatisch die entsprechende Videosequenz mit einer Minute davor und danach in einem speziellen Archiv ab.
-- Sicherer unterwegs: Die kameragestützte Fahrerassistenz ermöglicht die individuelle Aktivierung von Kollisionswarner, Losfahralarm und Spurhalteassistent. Ein GPS-basierter Annäherungsalarm zeigt die Entfernung bis zum nächsten stationären Blitzer an.
-- Hochwertige HD-Aufnahmen in 1440p: Mit dem hochwertigen 180°-Weitwinkelobjektiv erstellt die Kamera Aufnahmen in 1440p HD-Videoauflösung inklusive HDR Technologie und 3,7 MP Bildauflösung.
-- Bestens vernetzt: Das integrierte WLAN und Bluetooth ermöglichen die Übertragung der Aufnahmen zur Garmin Drive App, die Synchronisierung mehrerer Kameras, sowie einfache Updates zu Software und Garmin-Radar-Info.
 - Einfache und flexible Montage: Durch die Magnethalterung ist die DashCam in anderen Fahrzeugen mühelos nutzbar und in Ländern mit Verbot verstaubar. Der integrierte Akku ermöglicht Aufnahmen außerhalb des Fahrzeugs.
+- Hochwertige HD-Aufnahmen in 1440p: Mit dem hochwertigen 180°-Weitwinkelobjektiv erstellt die Kamera Aufnahmen in 1440p HD-Videoauflösung inklusive HDR Technologie und 3,7 MP Bildauflösung.
+- Automatische Speicherung von Unfallvideos: Sobald der integrierte G-Sensor eine Kollision erkennt speichert die Kamera automatisch die entsprechende Videosequenz mit einer Minute davor und danach in einem speziellen Archiv ab.
+- Bestens vernetzt: Das integrierte WLAN und Bluetooth ermöglichen die Übertragung der Aufnahmen zur Garmin Drive App, die Synchronisierung mehrerer Kameras, sowie einfache Updates zu Software und Garmin-Radar-Info.
+- Sicherer unterwegs: Die kameragestützte Fahrerassistenz ermöglicht die individuelle Aktivierung von Kollisionswarner, Losfahralarm und Spurhalteassistent. Ein GPS-basierter Annäherungsalarm zeigt die Entfernung bis zum nächsten stationären Blitzer an.
+- Ultrakompakt und diskret: Kaum größer als das integrierte 2 Zoll LCD-Farbdisplay (320 x 240 px) lässt sich diese Kamera einfach platzieren, ohne das Sichtfeld einzuschränken. Im diskreten Design ist sie Ihr unauffälliger Augenzeuge, wenn es darauf ankommt
 
 [🛒 Hier!!]({{< param buyurl >}})
