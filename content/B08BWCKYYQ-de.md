@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Packungage die Größe: 295.0 L x 74.0 H x 295.0 W (millimeters)
-- Verpackungsgewicht: 788.0 grams
 - Das Brettspiel zur beliebten PC-Spiel-Reihe
+- Packungage die Größe: 295.0 L x 74.0 H x 295.0 W (millimeters)
 - hergestellt in Deutschland
+- Verpackungsgewicht: 788.0 grams
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

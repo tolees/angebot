@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Versorge deine kompatiblen Google-Produkte und alle sonstigen USB-C-Geräte wie Chromebooks, Tablets, Smartphones und Zubehör mit der nötigen Power
 - Das nachhaltige Kunststoffgehäuse unter anderem aus recycelten Materialien lässt dich deine Geräte mit besserem Gewissen laden
 - Das 30-W-USB-C-Ladegerät kannst du dank der kompakten Größe überallhin mitnehmen
 - Das Ladegerät ist leistungsstark und effizient – damit du deine USB-C-Geräte schnell und einfach aufladen kannst
-- Versorge deine kompatiblen Google-Produkte und alle sonstigen USB-C-Geräte wie Chromebooks, Tablets, Smartphones und Zubehör mit der nötigen Power
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

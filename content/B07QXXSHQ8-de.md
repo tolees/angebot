@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erdnusskerne, geröstet und gesalzen
-- Für eine vegetarische und vegane Ernährung geeignet
-- Hoher Ballaststoffgehalt
-- Kleine Kinder können an Nüssen ersticken
-- Die Erdnüsse werden geröstet und gesalzen (nicht gebraten). Bei diesem speziellen Verfahren wird ein sehr feines pulverförmiges Salz verwendet, das die weißen Flecken auf den Erdnüssen erzeugt. Daher handelt es sich nicht um einen Produktfehler.
-- Vitamin-E-Quelle
-- Unter Schutzatmosphäre verpackt
 - Kann vereinzelt Schalenteile enthalten
+- Hoher Ballaststoffgehalt
+- Für eine vegetarische und vegane Ernährung geeignet
+- Die Erdnüsse werden geröstet und gesalzen (nicht gebraten). Bei diesem speziellen Verfahren wird ein sehr feines pulverförmiges Salz verwendet, das die weißen Flecken auf den Erdnüssen erzeugt. Daher handelt es sich nicht um einen Produktfehler.
+- Erdnusskerne, geröstet und gesalzen
+- Unter Schutzatmosphäre verpackt
+- Vitamin-E-Quelle
+- Kleine Kinder können an Nüssen ersticken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
