@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'TP-Link Deco X50 Mesh WLAN Set  3 Pack   AX3000 Dual Band Router &Repeater  Reichweite bis zu 604m² WPA3  ideal für große Häuse  kompatibel mit Amazon Alexa  9X Gigabit Ports  weiß'
-date: 2022-11-09 03:54:11
+title: 'TP-Link Deco X50 Wi-Fi 6 Mesh WLAN Set 3 Pack   AX3000 Dualband Router &Repeater  Reichweite bis zu 604m² WPA3  ideal für große Häuse  kompatibel mit Amazon Alexa  9XGigabit Ports  weiß'
+date: 2022-11-17 17:05:41
 image: 'https://m.media-amazon.com/images/I/310WdRav7JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09LVG58VX-de TP-Link Deco X50 Mesh WLAN Set 3 Pack AX3000 Dual Band...'
+slug: 'B09LVG58VX-de TP-Link Deco X50 Wi-Fi 6 Mesh WLAN Set 3 Pack AX3000...'
 sku: 'B09LVG58VX-de'
 tags: [ 'Computer & Zubehör','Netzwerkgeräte','WLAN-Mesh-Systeme','tp-link','🇩🇪', ]
-actualPrice: 264.0 EUR
+actualPrice: 244.49 EUR
 currency: EUR
-price: 264.0
+price: 244.49
 comparePrice: 399.0 EUR
-prodname: 'TP-Link Deco X50 Mesh WLAN Set  3 Pack   AX3000 Dual Band Router &Repeater  Reichweite bis zu 604m² WPA3  ideal für große Häuse  kompatibel mit Amazon Alexa  9X Gigabit Ports  weiß'
+prodname: 'TP-Link Deco X50 Wi-Fi 6 Mesh WLAN Set 3 Pack   AX3000 Dualband Router &Repeater  Reichweite bis zu 604m² WPA3  ideal für große Häuse  kompatibel mit Amazon Alexa  9XGigabit Ports  weiß'
 country: 'de'
 flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B09LVG58VX/?tag=tolees0ca-21'
-descuento: '33.83'
-average: '256.534166666667'
+descuento: '38.72'
+average: '255.528571428572'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Ultra-schnelle WLAN-Geschwindigkeit – WiFi 6 beschleunigt bis zu 3000 Mbit/s (2402 Mbit/s bei 5 GHz und 574 Mbit/s bei 2,4 GHz). Genießen Sie ein reaktionsfähigeres Spiel oder 8 K Streaming, wenn mehrere Geräte gleichzeitig Daten übertragen
 - Einfache Installation und Bedienung – Die Deco-App führt Sie Schritt für Schritt in die Konfiguration und ermöglicht es Ihnen, Ihr Netzwerk zu verwalten und zu steuern, egal wo Sie sind
-- Sicherheit – Die Verschlüsselung WPA3 und TP-Link HomeCare bietet benutzerdefinierte Funktionen, einschließlich der Kindersicherung, der Anti-Viren und der Service-Qualität (QoS) für ein sichereres Online-Erlebnis
 - Sprachsteuerung – Kombinieren Sie es mit Alexa, um das Deco X50 mit einfachen und praktischen Sprachbefehlen zu steuern
-- 100 Prozent WLAN-Abdeckung mit MESH 6 – das 3er-Pack Deco X50 Gehäuse bietet eine hohe Abdeckung von bis zu 604 m², ermöglicht die Verbindung von mehr als 150 Geräten gleichzeitig. Schluss mit Funklöchern
 - Ersetzen Sie Ihre bestehende repeater, wlan router und access point. Deco kompatibel mit allen Internet-Zugangsanbietern (Kabel, Glasfaser, DSL, etc.)
+- 100 Prozent WLAN-Abdeckung mit MESH 6 – das 3er-Pack Deco X50 Gehäuse bietet eine hohe Abdeckung von bis zu 604 m², ermöglicht die Verbindung von mehr als 150 Geräten gleichzeitig. Schluss mit Funklöchern
+- Sicherheit – Die Verschlüsselung WPA3 und TP-Link HomeCare bietet benutzerdefinierte Funktionen, einschließlich der Kindersicherung, der Anti-Viren und der Service-Qualität (QoS) für ein sichereres Online-Erlebnis
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
