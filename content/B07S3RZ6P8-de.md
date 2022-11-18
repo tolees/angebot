@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die ergonomische Babywippe lässt sich mit nur einer Hand in drei unterschiedliche Sitzpositionen einstellen
 - Einfaches Faltsystem: Durch das intelligente Design der Maxi-Cosi Kori lässt sich die tragbare Babyschaukel leicht zusammenklappen und aufbewahren
 - Die gemütliche Einlage für Neugeborene aus qualitativ hochwertigen Materialien sorgt für maximalen Komfort und optimale Unterstützung Ihres Babys
-- Die ergonomische Babywippe lässt sich mit nur einer Hand in drei unterschiedliche Sitzpositionen einstellen
 - 2-in-1-Babyschaukel: Die Kori kann ab der Geburt bis max. 9 kg verwendet werden und lässt sich sowohl als Sitz als auch als Wippe verwenden
 - Natürliches, angenehmes Schaukeln mit dem eigenen Körpergewicht, ganz ohne Batterien und Kabel. Nicht zum Schlafen geeignet
 

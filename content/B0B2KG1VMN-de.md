@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anschlüsse: Bluetooth 5.2 mit BLE, USB Typ-C; dank Multi Point und Multi Pairing können bis zu 5 Geräte gekoppelt werden
 - Bis zu 8 Stunden Akkulaufzeit (ohne ANC), bis zu 24 Stunden (ohne ANC) durch Nutzung des Ladegehäuses, Ladezeit weniger als 1 Stunde
-- Dank UVnano+ werden die Earbuds per UV-Reinigung im Ladecase von Keimen befreit, Beleuchtung im Ladegehäuse durch Mood Lighting, IPX4-Spritzwasserschutz
 - Touch-Bedienung, TONE Free-App (für Android & iOS) und Sprachsteuerung (Google Assistant und Siri)
+- Dank UVnano+ werden die Earbuds per UV-Reinigung im Ladecase von Keimen befreit, Beleuchtung im Ladegehäuse durch Mood Lighting, IPX4-Spritzwasserschutz
+- Anschlüsse: Bluetooth 5.2 mit BLE, USB Typ-C; dank Multi Point und Multi Pairing können bis zu 5 Geräte gekoppelt werden
 - Kabelloses Bluetooth-Headset mit Dolby Atmos-Sound und Dolby Headtracking für spürbar räumlichen Sound, Active Noise Cancellation (ANC) zur Unterdrückung störender Umgebungsgeräusche, Ambient Mode zur Aufnahme der Umgebungsgeräusche
 
 [🛒 Hier!!]({{< param buyurl >}})

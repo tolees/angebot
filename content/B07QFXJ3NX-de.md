@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unterstützt DevSleep-Energiesparmodus, S.M.A.R.T., TRIM und NCQ Befehle
 - Bis zu 550MB/s Lesen; 400MB/s Schreiben
 - mSATA Formfaktor und SATA III 6Gb/s Schnittstelle
 - NAND-Flash-Speicher.
+- Unterstützt DevSleep-Energiesparmodus, S.M.A.R.T., TRIM und NCQ Befehle
 - Konzipiert mit einem RAID-Motor, LDPC-Codierung für Datenintegrität und integrierter SLC-Cache-Technologie für außergewöhnliche Übertragungsgeschwindigkeiten.
 
 [🛒 Hier!!]({{< param buyurl >}})

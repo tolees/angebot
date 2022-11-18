@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Reinigung und Passgenauigkeit: Der Filter kann schnell und einfach herausgenommen, ausgetauscht und gewaschen werden
 - Doppelpack: Während ein Filter trocknet, kann währenddessen der zweite Ersatzfilter eingesetzt werden - keine Wartezeiten
 - Praktischer Lieferumfang: 2x waschbare Vormotorfilter - passend für alle FX9 und QX9 Modelle
 - Optimale Filtrationsleistung: Der waschbare Filter stellt eine optimale Staubaufnahme sicher und sorgt für eine lange Lebensdauer des FX9 / QX9
 - Regelmäßiger Filtertausch: Für eine optimale Filtration und starke Saugkraft wird ein regelmäßiger Filtertausch empfohlen
+- Einfache Reinigung und Passgenauigkeit: Der Filter kann schnell und einfach herausgenommen, ausgetauscht und gewaschen werden
 
 [🛒 Hier!!]({{< param buyurl >}})

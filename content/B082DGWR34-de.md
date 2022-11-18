@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausgangsleistung (RMS): 2x 15W + 2x 18W; frontseitiger Bassreflexkanal für satte Basswiedergabe
 - Anschlussmöglichkeiten: Cinch (RCA), 3.5mm Klinke (AUX), Bluetooth
 - Hochwertiges und leistungsstarkes 2.0-Lautsprecherset mit Bluetooth-Konnektivität und Fernbedienung
-- Lieferumfang:1 Aktivlautsprecher mit Netzkabel; 1 Passivlautsprecher; 1 Infrarot-Fernbedienung; Lautsprecherkabel; 1 Stereoanschlusskabel 3.5mm auf Cinch (RCA); 1 Cinch-Kabel (RCA auf RCA); Manual
 - Aktivlautsprecher mit 2 separaten Audioeingängen (RCA), Bluetooth und Reglern für Lautstärke, Bassleistung und Höhen
+- Ausgangsleistung (RMS): 2x 15W + 2x 18W; frontseitiger Bassreflexkanal für satte Basswiedergabe
+- Lieferumfang:1 Aktivlautsprecher mit Netzkabel; 1 Passivlautsprecher; 1 Infrarot-Fernbedienung; Lautsprecherkabel; 1 Stereoanschlusskabel 3.5mm auf Cinch (RCA); 1 Cinch-Kabel (RCA auf RCA); Manual
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

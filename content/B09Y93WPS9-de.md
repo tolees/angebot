@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 2: o.A.
-- Produkt 1: VTech 80-520004 Kidizoom Duo DX
-- Produkt 2: Kompatibel mit allen KidiZoom-Kameras
-- Produkt 2: Ideal für unterwegs: In der Tasche lässt sich die KidiZoom sicher verstauen
 - Produkt 2: Deutsche Version
+- Produkt 2: Ideal für unterwegs: In der Tasche lässt sich die KidiZoom sicher verstauen
+- Produkt 2: Kompatibel mit allen KidiZoom-Kameras
+- Produkt 1: VTech 80-520004 Kidizoom Duo DX
+- Produkt 2: o.A.
 - Produkt 1: Inhalt: 1 Stück
 
 [🛒 Hier!!]({{< param buyurl >}})

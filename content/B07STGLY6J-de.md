@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Axialer Schnitt
-- Diese Zange zusammenfügen klein sind abgestimmt auf die Miniaturisierung der elektronischen Komponenten
-- MICRO-TECH Schneidzange mit kleinem Gewerbe
 - Kleiner zusammenfügen: Finesse
+- Axialer Schnitt
+- MICRO-TECH Schneidzange mit kleinem Gewerbe
+- Diese Zange zusammenfügen klein sind abgestimmt auf die Miniaturisierung der elektronischen Komponenten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
