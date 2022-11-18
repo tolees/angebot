@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses 1.394-teilige Spielzeug kann mit dem Ninja-Trainingsdojo 71764 kombiniert werden und ist ein tolles NINJAGO Geburtstagsgeschenk für Ninja-Fans ab 8 Jahren
-- Dieser dreistöckige Dojotempel aus der LEGO NINJAGO Serie „Meister des Spinjitzu“ enthält einen Trainingsbereich und 5 Räume, in denen die Kinder ihre Helden trainieren können
-- Gemeinsam mit den Ninjas trainieren die Kinder im geheimen Dojo, um zu Meistern des Spinjitzu zu werden, doch die hinterhältigen Schlangen brechen die Türen mit einem Rammbock auf!
 - Inklusive 8 LEGO NINJAGO Actionfiguren: Lloyd, Kai, Cole, Nya, Pixal und Meister Wu, sowie die Schlangenkrieger Boa Destructor und Kobra-Mechaniker
+- Dieses 1.394-teilige Spielzeug kann mit dem Ninja-Trainingsdojo 71764 kombiniert werden und ist ein tolles NINJAGO Geburtstagsgeschenk für Ninja-Fans ab 8 Jahren
 - Für den Abschluss ihrer Mission erhalten die Kinder ein Weisheitsbanner, das sie mit den Bannern aus anderen Sets (separat erhältlich) am Dach des LEGO Gebäudes anbringen können
+- Dieser dreistöckige Dojotempel aus der LEGO NINJAGO Serie „Meister des Spinjitzu“ enthält einen Trainingsbereich und 5 Räume, in denen die Kinder ihre Helden trainieren können
 - Halte Ausschau nach weiteren Bannern in den 7 anderen NINJAGO Sets, darunter Lloyds Rennwagen EVO (71763), Lloyds legendärer Drache (71766) und der Ultrakombi-Ninja-Mech (71765)
+- Gemeinsam mit den Ninjas trainieren die Kinder im geheimen Dojo, um zu Meistern des Spinjitzu zu werden, doch die hinterhältigen Schlangen brechen die Türen mit einem Rammbock auf!
 - Zu den 5 Räumen dieses LEGO NINJAGO Spielzeugs gehören Wus Teestube, Pixals Werkstatt und eine Waffenkammer voller Waffen für endlose Abenteuer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

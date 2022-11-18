@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: AVM FRITZ!Box 4060 internationale Version, Netzteil, LAN-Kabel, Kurzanleitung
+- Vielseitige Multimedia-Funktionen: Bereitstellung von Musik, Filmen und Bildern über integrierten Mediaserver (USB 3.0, NAS)
 - Triband-Mesh-Router mit Wi-Fi 6 (WLAN AX) für Geschwindigkeiten von 1.200 MBit/s (2,4 GHz) und 4.800 MBit/s (2 x 5 GHz)
 - DECT-Basis mit DECT ULE für Telefonie mit bis zu 6 Schnurlostelefonen, mehreren integrierten Anrufbeantwortern und Smart Home Anbindung z. B. für schaltbare Steckdosen, Heizkörperregler und vieles mehr
+- Lieferumfang: AVM FRITZ!Box 4060 internationale Version, Netzteil, LAN-Kabel, Kurzanleitung
 - 2,5-GBit/s-WAN-Port für Internetanbindung am Kabel-, DSL- oder Glasfasermodem sowie drei Gigabit-Ethernet-Anschlüsse, um Computer oder netzwerkfähige Geräte mit Gigabit-Tempo ins Heimnetz einzubinden
-- Vielseitige Multimedia-Funktionen: Bereitstellung von Musik, Filmen und Bildern über integrierten Mediaserver (USB 3.0, NAS)
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bräunungsgrad und Brotgröße wählbar / Netzausfallsicherung für ca. 15 Minuten bei Stromausfall zum Fortsetzen des Programmablaufs
-- 15 gespeicherte Programme, davon 1 für glutenfreies Brot, 1 Programm für Marmelade/Konfitüre, 1 Programm zum Backen von Kuchen, 1 Nudelteigprogramm, 1 Programm zur Joghurtherstellung, 1 Eigenprogramm
-- Benutzerfreundliches, beleuchtetes LCD-Display / 2 große Sichtfenster / Antirutschfüße / BPD-frei
-- Zeitwahltaste, bis zu 15 Stunden vorprogrammierbar / Warmhaltefunktion bis zu ca. 60 Minuten / 3 Bräunungsgrade (hell, mittel, dunkel)
 - Inhalt: ca. 1.000/1.250/1.500 g Brotgewicht / Entnehmbare Backform und Doppelkneter mit keramischer Antihaftbeschichtung / Leistungsstarker, robuster AC-Motor
+- Bräunungsgrad und Brotgröße wählbar / Netzausfallsicherung für ca. 15 Minuten bei Stromausfall zum Fortsetzen des Programmablaufs
+- Benutzerfreundliches, beleuchtetes LCD-Display / 2 große Sichtfenster / Antirutschfüße / BPD-frei
+- 15 gespeicherte Programme, davon 1 für glutenfreies Brot, 1 Programm für Marmelade/Konfitüre, 1 Programm zum Backen von Kuchen, 1 Nudelteigprogramm, 1 Programm zur Joghurtherstellung, 1 Eigenprogramm
+- Zeitwahltaste, bis zu 15 Stunden vorprogrammierbar / Warmhaltefunktion bis zu ca. 60 Minuten / 3 Bräunungsgrade (hell, mittel, dunkel)
 
 [🛒 Hier!!]({{< param buyurl >}})

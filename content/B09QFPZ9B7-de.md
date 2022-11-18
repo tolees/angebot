@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit 24 Türchen mit Überraschungen dahinter und einer Winterlandschaft-Spielmatte auf der Rückseite des Kalenders können Kinder mit den enthaltenen Minifiguren Billy, Maddy, Mr. Produce, Tippy und Raze weihnachtliche Szenen nachspielen
-- Der Spielzeug Adventskalender 2022 enthält Mini-Modelle und Zubehör zum Bauen, jeweils mit Schritt-für-Schritt-Anleitungen, die auf der Innenseite jedes Türchens aufgedruckt sind, um ein tolles Bauerlebnis zu gewährleisten
 - Kinder können ihre eigenen festlichen Geschichten nachspielen, wenn das Weihnachtsspielzeug des Tages enthüllt wird; das Set kann auch mit anderen LEGO City Sets kombiniert werden, um den Spielspaß noch weiter zu steigern
+- Der Spielzeug Adventskalender 2022 enthält Mini-Modelle und Zubehör zum Bauen, jeweils mit Schritt-für-Schritt-Anleitungen, die auf der Innenseite jedes Türchens aufgedruckt sind, um ein tolles Bauerlebnis zu gewährleisten
 - Der Adventskalender 2022 für Kinder regt die Fantasie an und regt zum kreativen Spielen an, was ihn zu einem spektakulären vorweihnachtlichen Geschenk für Kinder ab 5 Jahren oder zu jedem festlichen Anlass macht
 - Mit diesem LEGO City Adventskalender 2022 mit 5 Minifiguren aus der Serie LEGO City – Abenteuer, einer Weihnachtsmann-Figur und vielen lustigen Mini-Modellen können Kinder die Zeit bis Weihnachten herunterzählen
 
