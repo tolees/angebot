@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Enthält 4 LEGO-Minifiguren: Spider-Man, Doctor Strange mit Stoffumhang, MJ und Wong sowie ein Spielzeugmotorrad und Spinnen- sowie Skorpion-Figuren
 - Es gibt eine tolle Auswahl an Zubehör: Cooles Werkzeug, Gefäße, einen Gamecontroller, einen Kerzenleuchter, einen Ghettoblaster, einen geheimnisvoll leuchtenden Stein uvm.
-- Mit den digitalen Instructions PLUS in der kostenlosen LEGO App können Kinder das Spielset beim Bauen vergrößern, drehen und visualisieren
+- Das LEGO-Marvel-Spider-Man-Set enthält das Hauptquartier von Doctor Strange, vollgepackt mit spannendem Zubehör und bedroht von einem riesigem Monsterinsekt mit Greifklauen
 - Kinder werden zu Superhelden: der schwebende Doctor Strange, Spidey, der seine Netze verschießt, MJ, der mit dem Kerzenleuchter kämpft, während das Monster Wong attackiert
 - Dieses 355 Teile umfassende Spider-Man-Spielzeug für Kinder ab 7 Jahren bietet ein anspruchsvolles Bauerlebnis und eignet sich prima als Geschenk für Spider-Man-Fans
-- Das LEGO-Marvel-Spider-Man-Set enthält das Hauptquartier von Doctor Strange, vollgepackt mit spannendem Zubehör und bedroht von einem riesigem Monsterinsekt mit Greifklauen
+- Mit den digitalen Instructions PLUS in der kostenlosen LEGO App können Kinder das Spielset beim Bauen vergrößern, drehen und visualisieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

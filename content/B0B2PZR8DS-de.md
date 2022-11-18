@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das hochwertige Design des Galaxy M13 hat weiche, abgerundete Kanten und einen einfachen Kernrahmen mit minimalistischem Kamera-Look und ist in einer Reihe von Farben erhältlich, die zu Ihnen passen.
-- Der 64 GB internem Speicher (frei verfügbar ca. 47,9 GB) für Fotos und Videos und die Unterstützung einer microSD-Karte bis 1TB bieten viel Platz für Ihre kostbaren Momente.
+- Viel, Jetzt, Stark. Das Galaxy M13 kombiniert Octa-Core-Rechenleistung mit bis zu 4GB RAM für ausreichend Energie bei vielem, was Sie tun
 - Mit der 50 MP Hauptkamera können Sie unvergessliche Momente in ihren Details festhalten. Mit der Ultra–Weitwinkelkamera den Betrachtungswinkel erweitern, oder mit der Makro Kamera Details erfassen.
 - Viel Platz zum Spielen. Das 16,72 cm/ 6,6-Zoll-Infinity-V-Display und FHD+-Technologie ermöglichen eine scharfe Wiedergabe alltäglicher Inhalte.
-- Viel, Jetzt, Stark. Das Galaxy M13 kombiniert Octa-Core-Rechenleistung mit bis zu 4GB RAM für ausreichend Energie bei vielem, was Sie tun
+- Der 64 GB internem Speicher (frei verfügbar ca. 47,9 GB) für Fotos und Videos und die Unterstützung einer microSD-Karte bis 1TB bieten viel Platz für Ihre kostbaren Momente.
+- Das hochwertige Design des Galaxy M13 hat weiche, abgerundete Kanten und einen einfachen Kernrahmen mit minimalistischem Kamera-Look und ist in einer Reihe von Farben erhältlich, die zu Ihnen passen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
