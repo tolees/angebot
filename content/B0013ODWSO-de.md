@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Scooter Micro White! Speziell für die Ansprüche von Erwachsenen entwickelt, ist dieser Scooter mit seinen extragrossen Rollen bestens geeignet um längere Strecken komfortable und zügig zu überwinden
-- Benutzung nur auf öffentlich nicht zugänglichem Privatgelände
-- Mit seinem eleganten Look ist er der perfekte Begleiter auf dem Campus, in der Stadt oder wo auch immer er gebraucht wird.
-- Das Trittbrett hängt etwas tiefer und gewährleistet so eine ergonomische und angenehme Haltung.
 - für die Altersgruppe: Erwachsene geeignet
+- Benutzung nur auf öffentlich nicht zugänglichem Privatgelände
+- Der Scooter Micro White! Speziell für die Ansprüche von Erwachsenen entwickelt, ist dieser Scooter mit seinen extragrossen Rollen bestens geeignet um längere Strecken komfortable und zügig zu überwinden
+- Das Trittbrett hängt etwas tiefer und gewährleistet so eine ergonomische und angenehme Haltung.
+- Mit seinem eleganten Look ist er der perfekte Begleiter auf dem Campus, in der Stadt oder wo auch immer er gebraucht wird.
 
 [🛒 Hier!!]({{< param buyurl >}})

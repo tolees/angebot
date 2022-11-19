@@ -29,7 +29,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - In Nah- und Fernkampf mit einer stark verbesserten Steuerung angreifen
-- Den Planeten Magalan dank deines Jetpacks frei erkunden und damit quer über die Karte fliegen!
 - Eine Geschichte erleben, in der deine Taten Konsequenzen haben und die Welt von moralischen Entscheidungen geprägt wird
+- Den Planeten Magalan dank deines Jetpacks frei erkunden und damit quer über die Karte fliegen!
 
 [🛒 Hier!!]({{< param buyurl >}})
