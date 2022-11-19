@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das LEGO Star Wars Raumschiff Slave I verfügt über eine abnehmbare Klappe des Cockpits, das Platz für eine Minifigur bietet, einen selbstnivellierenden Cockpit-Sitz und selbstnivellierende Seitenflügel, einen Tragegriff, 2 Auslöser für die federunterstützten Shooter, rotierende Geschütze und eine schließbare Heckklappe, um das Han-Solo-Karbonitelement zu verstauen.
 - Vom Hersteller empfohlenes Alter: 10+
-- Slave I – 20 Jahre LEGO Star Wars
+- Das LEGO Star Wars Raumschiff Slave I verfügt über eine abnehmbare Klappe des Cockpits, das Platz für eine Minifigur bietet, einen selbstnivellierenden Cockpit-Sitz und selbstnivellierende Seitenflügel, einen Tragegriff, 2 Auslöser für die federunterstützten Shooter, rotierende Geschütze und eine schließbare Heckklappe, um das Han-Solo-Karbonitelement zu verstauen.
 - Vom Hersteller nicht mehr verkauft
 - Anzahl der Teile: 1007
 - Zur Ausrüstung gehören 3 Blaster, Han Solos Blaster-Pistole und die Original-Blaster-Pistole von Prinzessin Leia für kreativen Spielspaß.
+- Slave I – 20 Jahre LEGO Star Wars
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
