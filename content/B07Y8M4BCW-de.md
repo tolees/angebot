@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bis zu 70 Stunden Akku-Laufzeit: Dank verbesserter kabelloser Energieeffizienz bietet die Maus bis zu 70 Stunden am Stück eine optimale Performance — also nur einmal pro Woche aufladen, um Tag für Tag 10 Stunden Gameplay zu genießen.
 - Optischer Razer Focus+ 20K Sensor: Ein Sensor mit 20.000 DPI und einer Auflösungsgenauigkeit von 99,6 % garantiert, dass selbst die kleinsten Bewegungen der Maus erkannt werden, damit spielentscheidende Headshots und spektakuläre Manöver gelingen.
+- Bis zu 70 Stunden Akku-Laufzeit: Dank verbesserter kabelloser Energieeffizienz bietet die Maus bis zu 70 Stunden am Stück eine optimale Performance — also nur einmal pro Woche aufladen, um Tag für Tag 10 Stunden Gameplay zu genießen.
 - FEDERLEICHTE 74 GRAMM: Erlebe schnellere, flüssigere Kontrolle mit einer kabellosen Maus, die für E-Sport entwickelt wurde. Die Maus bringt zwar nur 74 g auf die Waage, ist aber dank ihres beidhändigen Gehäuses immer noch kompromisslos robust.
 - Integrierter Hybrid-Speicher und Cloud-Speicher: Bis zu 5 Profil-Konfigurationen lassen sich in ihrem integrierten Speicher unterbringen und die eigenen Einstellungen so überallhin mitnehmen, damit immer die bevorzugte Steuerung zum Einsatz kommen kann.
 - Quartz/Mercury-Modelle wiegen 74 g: 74 g leichte, kompromisslose kabellose E-Sport-Gaming-Maus: Die Razer Viper Ultimate verfügt über einen optischen Sensor mit 20K DPI für anspruchsvolle Gamer und ist federleicht ganz ohne Löcher
