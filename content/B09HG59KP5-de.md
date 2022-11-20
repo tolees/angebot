@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hans Zender Schuberts „Winterreise“ - Ein Ballett von Christian Spuck'
-date: 2022-11-19 17:40:29
+date: 2022-11-20 18:05:23
 image: 'https://m.media-amazon.com/images/I/41P9B5fhPML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
