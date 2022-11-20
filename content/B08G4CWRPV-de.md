@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans der Marvel Filme ab 8 Jahren, die mit der spektakulären LEGO Version von Spider-Mans Hauptquartier herausstechen möchten.
-- Spider-Mans spektakuläres Hauptquartier ist 14 cm hoch, 41 cm lang und 17 cm breit und lässt sich mühelos mit anderen LEGO Marvel Spider-Man Sets kombinieren.
-- Junge Superhelden können mit Spider-Man in seinem Hauptquartier spielen. Wenn zwei Superschurken bei ihm eindringen, wird es spannend. Die tolle Ausrüstung und die Fähigkeiten der Kinder sind entscheidend, um die Lage zu retten.
-- LEGO Marvel Angriff auf Spider-Mans Versteck (76175) beinhaltet alles, was ein junger Superheld braucht. Das Set ist die erste LEGO Version von Spider-Mans Hightech-Hauptquartier.
-- Enthält die Minifiguren Spider-Man, Green Goblin und Venom, einen PC, eine PlayStation, ein Basketballspiel, ein Skateboard mit Rampe, eine Getränkeecke, eine Kamera, Trainingsgeräte, ein Motorrad, einen Iron Spider Anzug, ein Gefängnis und Waffen.
 - Zu den witzigen Extras zählen diverse Netze, Überwachungsbildschirme und eine Ballwurfmaschine fürs Basketballtraining.
+- Spider-Mans spektakuläres Hauptquartier ist 14 cm hoch, 41 cm lang und 17 cm breit und lässt sich mühelos mit anderen LEGO Marvel Spider-Man Sets kombinieren.
+- LEGO Marvel Angriff auf Spider-Mans Versteck (76175) beinhaltet alles, was ein junger Superheld braucht. Das Set ist die erste LEGO Version von Spider-Mans Hightech-Hauptquartier.
+- Fantastisches Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Fans der Marvel Filme ab 8 Jahren, die mit der spektakulären LEGO Version von Spider-Mans Hauptquartier herausstechen möchten.
+- Junge Superhelden können mit Spider-Man in seinem Hauptquartier spielen. Wenn zwei Superschurken bei ihm eindringen, wird es spannend. Die tolle Ausrüstung und die Fähigkeiten der Kinder sind entscheidend, um die Lage zu retten.
+- Enthält die Minifiguren Spider-Man, Green Goblin und Venom, einen PC, eine PlayStation, ein Basketballspiel, ein Skateboard mit Rampe, eine Getränkeecke, eine Kamera, Trainingsgeräte, ein Motorrad, einen Iron Spider Anzug, ein Gefängnis und Waffen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

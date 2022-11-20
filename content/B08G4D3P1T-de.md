@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kinder können die Flammen zu großen Bränden stapeln und dann die Löschkanone des Helikopters abfeuern, um den Brand auf dem Turm zu löschen!
-- Zum LEGO Zubehör gehören eine Trage (im Frachtraum des Hubschraubers verstaut), ein Feuerwehrhelm, ein Schraubenschlüssel und ein Schutzhelm.
-- Inklusive 5+ Bauanleitung und Instructions PLUS mit digitalen Werkzeugen – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte.
 - Enthält einen Hubschrauber Spielzeug, ein Motorrad, ein Kraftwerk und LEGO Feuer für Feuerwehrabenteuer im Industriegebiet
 - Inklusive 3 Minifiguren: Ein Arbeiter des Kraftwerks, eine Pilotin und der Held Clemmons aus der TV-Serie „LEGO City Adventures“.
+- Zum LEGO Zubehör gehören eine Trage (im Frachtraum des Hubschraubers verstaut), ein Feuerwehrhelm, ein Schraubenschlüssel und ein Schutzhelm.
+- Inklusive 5+ Bauanleitung und Instructions PLUS mit digitalen Werkzeugen – Teil der kostenlosen LEGO Building Instructions App für Smartgeräte.
 
 [🛒 Hier!!]({{< param buyurl >}})
