@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit diesem Kinder Theater Spielzeug mit Bühne, Garderobe, Orchester und Lichtanlage können Kinder sich vorstellen, ein Star zu sein
-- Dieses kreative Spielzeug enthält 2 Bühnenhintergründe zum Wechseln: eine mittelalterliche Burg und eine nächtliche Stadtlandschaft
-- Das Gebäude ist aufklappbar, um das Theater zu zeigen: Wie in einem Londoner West End Theater werden die Stoffvorhänge zurückgerollt
-- Enthält 4 LEGO Friends Mini Puppen: Andrea, Prof. Adrian, Ollie und Freya; plus Puppenzubehör wie Skriptelemente, Perücke und Megaphon
-- Das Spielzeug für Kinder ab 8 Jahre ist eine tolle Geschenkidee zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass
-- Auf der Hinterseite des Heartlake City Spielsets befindet sich die Takelage für die Beleuchtung und eine Garderobe zum Umziehen
 - Enthält außerdem eine Orgel, einen Helm, eine Gitarre, ein Radio, ein Mikrofon, eine Requisitenbox mit Krone und viel weiteres Zubehör
+- Enthält 4 LEGO Friends Mini Puppen: Andrea, Prof. Adrian, Ollie und Freya; plus Puppenzubehör wie Skriptelemente, Perücke und Megaphon
+- Auf der Hinterseite des Heartlake City Spielsets befindet sich die Takelage für die Beleuchtung und eine Garderobe zum Umziehen
+- Das Gebäude ist aufklappbar, um das Theater zu zeigen: Wie in einem Londoner West End Theater werden die Stoffvorhänge zurückgerollt
+- Dieses kreative Spielzeug enthält 2 Bühnenhintergründe zum Wechseln: eine mittelalterliche Burg und eine nächtliche Stadtlandschaft
+- Mit diesem Kinder Theater Spielzeug mit Bühne, Garderobe, Orchester und Lichtanlage können Kinder sich vorstellen, ein Star zu sein
+- Das Spielzeug für Kinder ab 8 Jahre ist eine tolle Geschenkidee zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
