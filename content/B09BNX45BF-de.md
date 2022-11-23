@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71764 NINJAGO Ninja-Trainingszentrum mit Spinner-Spielzeug  Minifiguren Zane  Jay und Schlange  Meister des Spinjitzu'
-date: 2022-11-17 13:30:22
+date: 2022-11-23 11:43:58
 image: 'https://m.media-amazon.com/images/I/51VsBV9U0uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BNX45BF-de LEGO 71764 NINJAGO Ninja-Trainingszentrum mit Spinner-...'
 sku: 'B09BNX45BF-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 29.99 EUR
+actualPrice: 23.99 EUR
 currency: EUR
-price: 29.99
+price: 23.99
 comparePrice: 39.99 EUR
 prodname: 'LEGO 71764 NINJAGO Ninja-Trainingszentrum mit Spinner-Spielzeug  Minifiguren Zane  Jay und Schlange  Meister des Spinjitzu'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNX45BF/?tag=tolees0ca-21'
-descuento: '25.01'
-average: '31.49'
+descuento: '40.01'
+average: '29.99'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
