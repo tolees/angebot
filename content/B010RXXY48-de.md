@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Drei flexible Antennen sorgen für ein stabileres WLAN-Signal und eine bessere Reichweite, kompatibel zu allen 802.11a/b/g/n/ac-Geräten
+- Verlängert das WLAN-Signal in bisher nicht abgedeckte Bereiche zur Beseitigung von Funklöchern, einfache WLAN-Erweiterung per Tastendruck
 - Lieferumfang: TP-Link RE450 Repeater, Schnellinstallationsanleitun
 - Dualband-Übertragung mit bis zu 1750Mbit/s (1300Mbit/s auf 5GHz, 450Mbit/s auf 2,4GHz) nach dem WLAN-AC-Standard
 - Gigabit-LAN-Port zur Einbindung von kabelgebundenen Netzwerkgeräten wie Blu-ray-Playern, Spielekonsolen, Fernsehern usw. in ein WLAN.Betriebstemperatur: 0 °C ~ 30 °C
-- Verlängert das WLAN-Signal in bisher nicht abgedeckte Bereiche zur Beseitigung von Funklöchern, einfache WLAN-Erweiterung per Tastendruck
-- Drei flexible Antennen sorgen für ein stabileres WLAN-Signal und eine bessere Reichweite, kompatibel zu allen 802.11a/b/g/n/ac-Geräten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
