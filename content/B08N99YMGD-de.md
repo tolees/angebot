@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sons of Anarchy - Die komplette Serie [30 DVDs]'
-date: 2022-11-20 04:44:59
+date: 2022-11-24 00:15:30
 image: 'https://m.media-amazon.com/images/I/51bdDgTMc3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B08N99YMGD/?tag=tolees0ca-21'
 descuento: '19.45'
-average: '49.99'
+average: '51.99'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
