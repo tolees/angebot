@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der LEGO Star Wars N-1 Starfighter des Mandalorianers verfügt über ein Minifigur-Cockpit, einen Frachtraum und einen Shooter mit Federmechanismus, um die Besatzungsmitglieder zu schützen
-- Kinder können die LEGO Figur des Baby Yoda in den Passagiersitz des Starfighters platzieren, um epische Abenteuer aus "Star Wars: Das Buch von Boba Fett" zu erleben
 - Mit diesem LEGO Star Wars Spielzeug zum Bauen können Fans die Geschichten auf Tatooine aus "Star Wars: Das Buch von Boba Fett" darstellen
+- Kinder können die LEGO Figur des Baby Yoda in den Passagiersitz des Starfighters platzieren, um epische Abenteuer aus "Star Wars: Das Buch von Boba Fett" zu erleben
 - Das LEGO Star Wars Set N-1 Starfighter des Mandalorianers ist ein großartiges Geburtstags- oder Weihnachtsgeschenk für Kinder ab 9 Jahren
 - Das LEGO Star Wars Set enthält eine Minifigur des Mandalorianers mit Raketenrucksack und Blaster-Pistole, eine Minifigur des Peli Motto mit Schraubenschlüssel und eine Figur des BD-Droiden
+- Der LEGO Star Wars N-1 Starfighter des Mandalorianers verfügt über ein Minifigur-Cockpit, einen Frachtraum und einen Shooter mit Federmechanismus, um die Besatzungsmitglieder zu schützen
 - Eine Schritt-für-Schritt-Bildanleitung ermöglicht sogar den LEGO Neuankömmlingen, dieses LEGO Star Wars Set mit Zuversicht zu bauen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

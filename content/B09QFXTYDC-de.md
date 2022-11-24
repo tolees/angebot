@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set enthält außerdem einen Sitz für den Klon-Kanonier des 212. Angriffbataillons, 6 Blaster-Kanonen, 2 Thermaldetonatoren und mehr
-- Enthält 5 LEGO Minifiguren: Kommandant Cody, ein Klon-Kanonier und 3 Klonsoldaten des 212. Angriffsbataillons sowie 3 Kampfdroiden, alle mit Waffen, und ein baubarer Zwergspinnendroide
-- Kinder können den ausziehbaren Griff verwenden, um den AT-TE anzuheben und zu bewegen, außerdem hat das Modell ein abnehmbares Minifigur-Cockpit und 2 detaillierte Clone Trooper-Kabinen, die sich zum einfachen Spielen öffnen lassen
-- Kinder können epische “Star Wars: Die Rache der Sith” Schlachten nachstellen, und wenn das Spielen vorbei sind, stellen sie dieses Set in ihrem Zimmer aus und zeigen es ihren Freunden
-- Dieses baubare LEGO Star Wars AT-TE Walker Spielzeug verfügt über bewegliche Beine, eine um 360 Grad drehbare, hochfahrbare schwere Blasterkanone mit 2 Shootern und Platz für bis zu 7 Minifiguren
 - Neben der beiliegenden Schritt-für-Schritt-Bildanleitung ist in der LEGO Building Instructions App auch eine digitale Anleitung mit interaktiven Ansichtsfunktionen verfügbar
+- Kinder können den ausziehbaren Griff verwenden, um den AT-TE anzuheben und zu bewegen, außerdem hat das Modell ein abnehmbares Minifigur-Cockpit und 2 detaillierte Clone Trooper-Kabinen, die sich zum einfachen Spielen öffnen lassen
+- Enthält 5 LEGO Minifiguren: Kommandant Cody, ein Klon-Kanonier und 3 Klonsoldaten des 212. Angriffsbataillons sowie 3 Kampfdroiden, alle mit Waffen, und ein baubarer Zwergspinnendroide
+- Dieses baubare LEGO Star Wars AT-TE Walker Spielzeug verfügt über bewegliche Beine, eine um 360 Grad drehbare, hochfahrbare schwere Blasterkanone mit 2 Shootern und Platz für bis zu 7 Minifiguren
 - Das LEGO Star Wars Set ist ein spannendes Geburtstags- oder Weihnachtsgeschenk für Kinder ab 9 Jahren und alle Fans
+- Das Set enthält außerdem einen Sitz für den Klon-Kanonier des 212. Angriffbataillons, 6 Blaster-Kanonen, 2 Thermaldetonatoren und mehr
+- Kinder können epische “Star Wars: Die Rache der Sith” Schlachten nachstellen, und wenn das Spielen vorbei sind, stellen sie dieses Set in ihrem Zimmer aus und zeigen es ihren Freunden
 
 [🛒 Hier!!]({{< param buyurl >}})
