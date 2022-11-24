@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - WAS DU BEKOMMST: Einen Anker SoundCore 2 Bluetooth Lautsprecher, ein Mikro-USB-Kabel, eine Bedienungsanleitung sowie 18 Monate Herstellergarantie.
 - KRAFTVOLLER BASS: Ankers BassUp Technologie deckt Tonleitern selbst im Tiefenbereich detailliert und weitflächig ab. Erstklassiger, tiefer Bass im Vergleich zu ähnlichen Lautsprechern derselben Preisklasse.
+- UNGLAUBLICHE SPIELZEIT: Ankers führende Batterietechnologie und Energiemanagement erlaubt eine Spielzeit von über 20 Stunden oder etwa 500 Titeln. Der leistungsstarke Akku lässt dich das ganze Weihnachtsfest lang nicht im Stich!
 - STABILE VERBINDUNG: Verlasse dich jederzeit auf eine absolut zuverlässige Bluetooth-Verbindung für ein glasklares, verzerrungsfreies Klangprofil.
 - MUSIK ÜBERALL: Ultrakompakt und federleicht, IPX7 wasserdicht und staubfest. Wiegt 360g, gerade mal so viel wie ein Gummibärchen Maxipack! Ideal für jedes Weihnachtsfest - egal, wo du feierst!
-- UNGLAUBLICHE SPIELZEIT: Ankers führende Batterietechnologie und Energiemanagement erlaubt eine Spielzeit von über 20 Stunden oder etwa 500 Titeln. Der leistungsstarke Akku lässt dich das ganze Weihnachtsfest lang nicht im Stich!
 
 [🛒 Hier!!]({{< param buyurl >}})
