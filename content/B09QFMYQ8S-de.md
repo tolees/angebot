@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit diesem Spielset aus der TV-Serie NINJAGO: Crystallized reiten Kinder mit Nya und ihrer majestätischen, beweglichen Mech-Action-Figur Samurai X in die Schlacht
 - Viele der enthaltenen NINJAGO Actionfiguren sind exklusive, nie zuvor gesehene Modelle, die alle bereit sind, spannende Schlachten zum Schutz von NINJAGO City auszutragen
-- Beinhaltet Minifiguren: Samurai X Nya, den Goldenen Jay, Meister Wu, Oni-Garmadon, Lil’ Nelson, General Pythor, den Automechaniker und einen Vergeltungsstein-Krieger
-- Nyas Samurai-X-Mech-Bauset ist toll als Geburtstags- oder Weihnachtsgeschenk für Kinder ab 10 Jahren, die Mechs und Minifiguren lieben
 - Das LEGO NINJAGO Set enthält einen imposanten Mech mit beweglichen Knien, Armen, Beinen und Hüften; 2 Schwerter; 2 federunterstützte Shooter; und ein Minifiguren-Cockpit
+- Mit diesem Spielset aus der TV-Serie NINJAGO: Crystallized reiten Kinder mit Nya und ihrer majestätischen, beweglichen Mech-Action-Figur Samurai X in die Schlacht
+- Nyas Samurai-X-Mech-Bauset ist toll als Geburtstags- oder Weihnachtsgeschenk für Kinder ab 10 Jahren, die Mechs und Minifiguren lieben
+- Beinhaltet Minifiguren: Samurai X Nya, den Goldenen Jay, Meister Wu, Oni-Garmadon, Lil’ Nelson, General Pythor, den Automechaniker und einen Vergeltungsstein-Krieger
 - Nyas Samurai-X-Mech ist 32 cm groß und wird nach dem Spielen viele bewundernde Blicke im Kinderzimmer auf sich ziehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 27 Zoll (68,5 cm) IPS-Display mit QHD-Auflösung (2.560 x 1.440 px) und DCI-P3 98% (10bit(8bit+FRC)); Bildformat: 16:9
 - Lieferumfang: 27GP850-B, Netzkabel, HDMI-Kabel, DisplayPort-Kabel, USB 3.0-Kabel, externes Netzteil, Maushalter
 - Anschlüsse: 2 x HDMI, DisplayPort 1.4, USB 3.0 (1x Up, 2x Down), Kopfhörerausgang
-- 27 Zoll (68,5 cm) IPS-Display mit QHD-Auflösung (2.560 x 1.440 px) und DCI-P3 98% (10bit(8bit+FRC)); Bildformat: 16:9
 - Bildschirm mit VESA DisplayHDR 400; inkl. Reader Mode, augenschonender Flicker Safe Backlight Technologie und verschiedene Bildmodi. Netzfrequenz (Hz): 47 - 63 Hz
 - Gaming Features: NVIDIA G-Sync Compatible-Verifizierung, AMD FreeSync Premium, integriertes Fadenkreuz, Black Stabilizer und Dynamic Action Sync bieten entscheidende Vorteile im Spiel
 

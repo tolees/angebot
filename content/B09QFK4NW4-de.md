@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Enthält ein aufklappbares Lama-Haus mit Minecraft Tieren und 6 anpassbaren Gebäuden, um ein eigenes, einzigartiges Dorf zu erschaffen
-- Nach dem Spielen sieht dieses LEGO Minecraft Set großartig aus und ist ein tolles Geburtstags- oder Weihnachtsgeschenk zu jeder Gelegenheit für Kinder ab 9 Jahren
+- Enthält LEGO Minecraft Figuren: einen Savannendörfler, einen Schmied, einen Plünderer und einen Diener, sowie Waffen wie eine Armbrust
 - Die Kinder können sich um die Spielzeug Tiere außerhalb des Hauses kümmern und die 6 Gebäude an verschiedenen Orten platzieren
 - Dieses Minecraft Haus enthält außerdem einen Lama-Hirten und einen Lama-Ritter sowie Minecraft Tiere: Lama, Baby-Lama und Baby-Schaf
 - Kinder können das Minecraft Haus zum Bauen öffnen, um alle lustigen Räume im Inneren zu betreten. Das Lama hat auch eine "Spuckfunktion"
-- Enthält LEGO Minecraft Figuren: einen Savannendörfler, einen Schmied, einen Plünderer und einen Diener, sowie Waffen wie eine Armbrust
+- Nach dem Spielen sieht dieses LEGO Minecraft Set großartig aus und ist ein tolles Geburtstags- oder Weihnachtsgeschenk zu jeder Gelegenheit für Kinder ab 9 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
