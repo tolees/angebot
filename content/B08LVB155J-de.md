@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 💡【Langlebig und USB Stirnlampe】Einfaches und schnelles Aufladen durch das MCC 3 magnetische Aufladekabel und kann sie 3,5 Stunden vollständig aufgeladen wird, bis zu 12,5 Tage Laufzeit.
 - 💡【Superhell & Mehrere Licht-Modi】Maximal 2500 Lumen Leistung und 166 Meter Reichweite, super hell und leistungsstark. Mehr als 5 Beleuchtungsmodi und Funktion （Turbo/SOS/Timer/Low/High/Medium/Moonlight）für eine Vielzahl von Gelegenheiten, z.B Camping, Angeln, Wandern usw.
 - 💡【Mutifunktionen Kopflampe】Nur 161g, kann entweder als Taschenlampe oder mit Hilfe Olight-Stirnbandes als Stirnlampe verwendet werden und die Kopflampe um 180° gedreht werden, dadurch können Sie das Licht einfach genau auf die gewünschte Position richten.
-- 💡【Wasserdicht Stirnlampe】Die starke Stirnlampe ist nach IPX8 wasserdicht und besteht den Falltest aus 1,5 m Höhe perfekt. Wenn der Batteriestand unter 10% liegt, vibriert die Leuchte alle 30 Sekunden einmal(Außer Moonlight Modus).
 - 💡【Intelligenter Sensormodus】Das innovative TIR-Linse mit einem versteckten Lichtsensor ermöglicht es der Perun 2, die Lumen automatisch zu reduzieren, wenn es sich in der Nähe eines beliebigen Objekts befindet, wodurch Personen und Eigentum geschützt werden.
+- 💡【Langlebig und USB Stirnlampe】Einfaches und schnelles Aufladen durch das MCC 3 magnetische Aufladekabel und kann sie 3,5 Stunden vollständig aufgeladen wird, bis zu 12,5 Tage Laufzeit.
+- 💡【Wasserdicht Stirnlampe】Die starke Stirnlampe ist nach IPX8 wasserdicht und besteht den Falltest aus 1,5 m Höhe perfekt. Wenn der Batteriestand unter 10% liegt, vibriert die Leuchte alle 30 Sekunden einmal(Außer Moonlight Modus).
 
 [🛒 Hier!!]({{< param buyurl >}})

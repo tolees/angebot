@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ✅ 【Visualisierung des Energiestatus】 Die Leuchtanzeige macht den Batteriestatus auf einen Blick ersichtlich. Grüne: LED:15%-100%; Rote LED: 5%-15%; Rot blinkende LED: 0%-5%
-- ✅ 【Breite Anwendung】Tragbarer, aufhängbarer Haltegriff und Aufhängering. Die Lampe kann im Garten, im Zelt, als Umgebungsbeleuchtung, Notlicht bei Stromausfällen, Nachtlicht oder Dekoration verwendet werden.
-- ✅ 【Robust und Langlebig】IPX5 Wasserfest, und das Metallgehäuse hält alltäglichen Stößen stand. 2 Jahre Garentie für OLIGHT Oantern Classic 2 Pro Campinglampe 1 Jahr Survice für Zubehöre.
-- ✅ 【Notfall-Powerbank】 Mit 2 Ladeausgängen (USB-C & USB-A) und bis zu 18 W Ladeleistung ist die Campinglampe die Lösung zum Aufladen von Mobiltelefonen, kleinen Ventilatoren, kleinen Lautsprechern, usw.
 - ✅ 【Stufenlos dimmbar】Die Lanterne mit Drehschalter verfügt über stufenlos dimmbares orangefarbenes und warmweißes Licht mit 10-300 Lumen. 2 warme Lichtoptionen sorgen für eine gemütliche Umgebungslicht.
+- ✅ 【Robust und Langlebig】IPX5 Wasserfest, und das Metallgehäuse hält alltäglichen Stößen stand. 2 Jahre Garentie für OLIGHT Oantern Classic 2 Pro Campinglampe 1 Jahr Survice für Zubehöre.
+- ✅ 【Breite Anwendung】Tragbarer, aufhängbarer Haltegriff und Aufhängering. Die Lampe kann im Garten, im Zelt, als Umgebungsbeleuchtung, Notlicht bei Stromausfällen, Nachtlicht oder Dekoration verwendet werden.
+- ✅ 【Notfall-Powerbank】 Mit 2 Ladeausgängen (USB-C & USB-A) und bis zu 18 W Ladeleistung ist die Campinglampe die Lösung zum Aufladen von Mobiltelefonen, kleinen Ventilatoren, kleinen Lautsprechern, usw.
+- ✅ 【Visualisierung des Energiestatus】 Die Leuchtanzeige macht den Batteriestatus auf einen Blick ersichtlich. Grüne: LED:15%-100%; Rote LED: 5%-15%; Rot blinkende LED: 0%-5%
 
 [🛒 Hier!!]({{< param buyurl >}})

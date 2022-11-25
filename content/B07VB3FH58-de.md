@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Leistungsstarke Taschenlampe】Die S2R 2 hat einen eingebauten hocheffizienten maßgeschneiderten Batterie mit einer maximalen Leistung von 1150 Lumen, einer maximalen Leuchtweite von 135 Metern und einer maximalen Laufzeit von 60 Tagen, und mit Stroboskop-Modus.
 - 【Einfach zu Tragen】Der abnehmbare Zwei Wege Pocketclip aus Edelstahl kann an Gürtel, Taschen und Rucksäcke geklippt werden und sorgt so für mehr Flexibilität und Benutzerfreundlichkeit. Geeignet für Camping, Wandern, Klettern, Familiengebrauch. Es ist eine gute Wahl als Geschenk für Outdoor.
 - 【Features & Garantie】1,5-Meter-Falltest, IPX8 Wasserdicht, CE, ROHS Certification, 5 Jahre Garentie für Taschenlampe, 1 Jahr Garantie für Batterie.
-- 【Hocheffizientes Laden】Mithilfe des MCC 1A magnetischen Ladekabels kann kann der S2R 2 einfach und schnell geladen werden. Z.B. unterwegs im Auto oder über eine Powerbank. Intelligente Batteriestandsanzeige mit 3 Farben durch Seitenschalter.
+- 【Leistungsstarke Taschenlampe】Die S2R 2 hat einen eingebauten hocheffizienten maßgeschneiderten Batterie mit einer maximalen Leistung von 1150 Lumen, einer maximalen Leuchtweite von 135 Metern und einer maximalen Laufzeit von 60 Tagen, und mit Stroboskop-Modus.
 - 【Einzigartiges Design】Das Aluminiumlegierung Gehäuse weist eine intensivere, erhabene, quadratische Oberflächenstruktur auf, die für eine bessere Berührung und Reibung, mehr Grip und weniger Verrutschen sorgt.
+- 【Hocheffizientes Laden】Mithilfe des MCC 1A magnetischen Ladekabels kann kann der S2R 2 einfach und schnell geladen werden. Z.B. unterwegs im Auto oder über eine Powerbank. Intelligente Batteriestandsanzeige mit 3 Farben durch Seitenschalter.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

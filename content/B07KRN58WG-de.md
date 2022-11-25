@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für kreatives Spielen
 - LÄSST DIE FANTASIE GLITZERN - Dieses 6er-Pack Play-Doh enthält Spielknete, die mit jeder Menge Glitzer gemischt ist sowie 2 Ausstecher in Schmetterlings- und Herzform
+- Für kreatives Spielen
 - 6 PLAY-DOH FARBEN - In den Farben Rot, Pink, Lila, Grün, Gelb und Blau ist dieses Set hervorragend als Party-Mitgebsel oder für Aktivitäten mit Kindern ab 3 Jahren geeignet
 - TOLLES PLAY-DOH-NACHFÜLLPACK: Diese Farben können prima für die Bastelzeit mit Kindern genutzt werden und sind auch bestens zur Nutzung mit Play-Doh-Spielsets oder -Werkzeugen geeignet (separat erhältlich)
 
