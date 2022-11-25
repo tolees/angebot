@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41713 Friends Olivias Raumfahrt Akademie Weltraum-Spielzeug mit Raumschiff Space Shuttle und Astronauten-Figuren  Lernspielzeug  Geschenk zu Weihnachten'
-date: 2022-11-23 17:28:58
+date: 2022-11-24 23:05:36
 image: 'https://m.media-amazon.com/images/I/51KrBr484+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNSQ6YR/?tag=tolees0ca-21'
 descuento: '33.22'
-average: '49.0775'
+average: '48.61'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit der interaktiven Anleitung können die Kinder ihr Raumschiff Spielzeug zoomen, drehen und in 3D betrachten, während sie es bauen
-- Dieses LEGO Weltraum Spielzeug ab 8 Jahren ist toll als Geschenkidee zu Weihnachten und Herausforderung für angehende Astronauten, die mit Freude die Galaxie entdecken
 - Begleite Olivia dabei, wie ihre Träume wahr werden und sie in die Raumfahrt-Akademie aufgenommen und zur Astronautin ausgebildet wird!
-- Mit einem LEGO Space Shuttle, einem Akademiegebäude, einer Missionskontrolle mit Teleskop und einem Mehrachsen-Trainer
-- Kinder nehmen mit dem LEGO Astronauten an einem Training teil, simulieren einen Flug im Raketen-Spielzeug und suchen nach neuen Galaxien
+- Dieses LEGO Weltraum Spielzeug ab 8 Jahren ist toll als Geschenkidee zu Weihnachten und Herausforderung für angehende Astronauten, die mit Freude die Galaxie entdecken
 - Die wissenschaftlich exakte Elemente in diesem Lernspielzeug bringen Kindern das Weltraumprogramm näher
 - Das Lernspielzeug enthält 4 LEGO Friends Mini-Puppen: Olivia und William in Astronautenanzügen, Julian und Dr. Vidya
+- Kinder nehmen mit dem LEGO Astronauten an einem Training teil, simulieren einen Flug im Raketen-Spielzeug und suchen nach neuen Galaxien
+- Mit der interaktiven Anleitung können die Kinder ihr Raumschiff Spielzeug zoomen, drehen und in 3D betrachten, während sie es bauen
+- Mit einem LEGO Space Shuttle, einem Akademiegebäude, einer Missionskontrolle mit Teleskop und einem Mehrachsen-Trainer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
