@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AL!VE AG - Familie Heinz Becker - Die komplette Serie  digital restauriert  7 DVDs '
-date: 2022-11-24 00:15:58
+date: 2022-11-25 06:55:15
 image: 'https://m.media-amazon.com/images/I/51tduDOEQoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'AL!VE AG'
 buyurl: 'https://www.amazon.de/dp/B07F9KFWJG/?tag=tolees0ca-21'
 descuento: '26.05'
-average: '36.5133333333333'
+average: '36.5785714285714'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
