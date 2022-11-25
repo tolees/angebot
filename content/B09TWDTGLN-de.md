@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lammfelloptik
 - sehr warm
 - weich
 - Fleecejacke
+- Lammfelloptik
 
 [🛒 Hier!!]({{< param buyurl >}})

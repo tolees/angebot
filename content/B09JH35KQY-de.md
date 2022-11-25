@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erlebe spannende 4-gegen-4-Farbschlachten und miss dich in den verschiedensten Arenen mit Familie, Freunden oder Spielern auf der ganzen Welt.
+- Kooperativer Mehrspielermodus - In Salmon Run kehren die Salmoniden zurück und halten so manche Überraschung für die Inklinge und Oktolinge bereit! Werft mit Eiern, um leichter die Oberhand gegen neue Bosse, inklusive megafiesen Ober-Salmoniden.
 - Neue Waffen - Mit neuen und modifizierten Waffen und Spezialwaffen kannst du allerhand ausrichten. Wie wäre es zum Beispiel mit dem bogenartigen Tri-Stringer oder dem rollenden Krabbenpanzer? Auf alle Waffen aus früheren Spielen kannst du natürlich auch zurückgreifen!
 - Im Story-Modus von Splatoon 3 ziehst du als Nr. 3 in den Kampf gegen die bösartige Oktarianer-Armee an der Seite der neuen Aquamarine. Entdecke die Geheimnisse von Alterna, dem Flauschplasma und dessen Verbindung zur „Rückkehr der Mammalianer“!
-- Kooperativer Mehrspielermodus - In Salmon Run kehren die Salmoniden zurück und halten so manche Überraschung für die Inklinge und Oktolinge bereit! Werft mit Eiern, um leichter die Oberhand gegen neue Bosse, inklusive megafiesen Ober-Salmoniden.
 - Neue Moves - Mit einem Starter schraubst du dich gekonnt in die Luft, mit einer Tintenfischrolle rettest du dich, wenn du in der Patsche sitzt, und mit einem Wandsprung flutschst du tintenbekleckstes Mauerwerk hoch und springst oben weiter!
 
 [🛒 Hier!!]({{< param buyurl >}})
