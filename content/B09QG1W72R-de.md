@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einfachen Mustern für das LEGO DOTS Message Board und Armband, damit Kinder die Designs selbstständig ändern können
-- Das Einhorn Kreativset ist ein einzigartiges Geschenk Set für Mädchen und Jungen ab 6 Jahren zum Spielen mit der Familie oder mit Freunden
-- Das LEGO DOTS 5in1 Einhorn Bastelset enthält 2 schmale Armbänder, einen Schreibwarenhalter, ein Message Board und ein Wimpel-Set
-- Dieses Einhorn Spielzeug enthält viele bunte Steinchen und 3 Packungen ABC-Steinchen, mit denen Kinder ihre Gegenstände dekorieren können
-- Für noch mehr kreativen Spielspaß können Kinder zum Basteln auch einen der zusätzlichen LEGO DOTS Sets (separat erhältlich) benutzen
 - Das Set eignet sich hervorragend zum Spielen alleine oder mit der Familie: Die Gegenstände können für endlosen Spaß umgestaltet werden
+- Das LEGO DOTS 5in1 Einhorn Bastelset enthält 2 schmale Armbänder, einen Schreibwarenhalter, ein Message Board und ein Wimpel-Set
+- Mit einfachen Mustern für das LEGO DOTS Message Board und Armband, damit Kinder die Designs selbstständig ändern können
+- Für noch mehr kreativen Spielspaß können Kinder zum Basteln auch einen der zusätzlichen LEGO DOTS Sets (separat erhältlich) benutzen
 - Das Set eignet sich als Aufbewahrungsbox oder Schmuckkästchen mit Einhorn und der Wimpel als Einhorn Party Deko
+- Dieses Einhorn Spielzeug enthält viele bunte Steinchen und 3 Packungen ABC-Steinchen, mit denen Kinder ihre Gegenstände dekorieren können
+- Das Einhorn Kreativset ist ein einzigartiges Geschenk Set für Mädchen und Jungen ab 6 Jahren zum Spielen mit der Familie oder mit Freunden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
