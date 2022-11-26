@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Phantastische Tierwesen 3-Film Collection  3 4K Ultra HD   + 3 Blu-ray '
-date: 2022-11-25 01:00:10
+date: 2022-11-26 01:25:24
 image: 'https://m.media-amazon.com/images/I/51wud6zM5VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B0B147SHRP/?tag=tolees0ca-21'
 descuento: '27.13'
-average: '47.713448275862'
+average: '47.2886666666666'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
