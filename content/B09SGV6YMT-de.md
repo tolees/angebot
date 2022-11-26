@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Home Entertainment - Uncharted'
-date: 2022-11-25 06:56:33
+date: 2022-11-26 07:33:47
 image: 'https://m.media-amazon.com/images/I/51wm3ibpvvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B09SGV6YMT/?tag=tolees0ca-21'
 descuento: '24.79'
-average: '12.6322222222222'
+average: '12.346'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

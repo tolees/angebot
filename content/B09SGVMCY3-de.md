@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Home Entertainment - Uncharted  4K Ultra HD   + Blu-ray '
-date: 2022-11-25 06:55:31
+date: 2022-11-26 07:32:57
 image: 'https://m.media-amazon.com/images/I/51SaaA6g7HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B09SGVMCY3/?tag=tolees0ca-21'
 descuento: '34.62'
-average: '19.2211111111111'
+average: '18.606'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
