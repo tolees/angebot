@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Walt Disney - Findet Dorie / Findet Nemo - 2-Film Collection [2 DVDs]'
-date: 2022-11-20 10:45:37
-image: 'https://m.media-amazon.com/images/I/61disD-hVnL._SL500_._SL400_.jpg'
+date: 2022-11-26 20:47:16
+image: 'https://m.media-amazon.com/images/I/51sRx-kX4jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B077TX9TB7/?tag=tolees0ca-21'
 descuento: '20.22'
-average: '8.59222222222222'
+average: '8.53'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

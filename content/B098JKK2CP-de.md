@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Conjuring 3: Im Bann des Teufels [Blu-ray]'
-date: 2022-11-25 20:37:09
+date: 2022-11-26 20:45:35
 image: 'https://m.media-amazon.com/images/I/41bqfL41fRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B098JKK2CP/?tag=tolees0ca-21'
 descuento: '22.47'
-average: '12.7728571428571'
+average: '12.0475'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
