@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ändere Olivias Kopf in eine Version mit Schwimmbrille, wenn sie schwimmen geht, drehe den Oktopus, und verstaue Zubehör in den Schließfächern
 - Enthält ein Kletternetz, eine Wasserfalldusche, eine spritzende Krake, Wasserkanonen, einen Eisstand mit Sitzbereich und eine Grotte
-- Mit diesem Kinderspielzeug ab 6 Jahre können die Kinder das Netz erklimmen, die Rutschen nutzen oder am Eisstand arbeiten
-- Das coole LEGO Friends Schwimmbad enthält einen Wasserpark mit einem Schwimmbad, 2 Wasserrutschen, einer Dusche und einem Umkleidebereich
-- Das LEGO Heartlake City Sommer Spielset ist ein tolles Geschenk zu jeder Gelegenheit und ein lustiges Spielzeug ab 6 Jahren
 - Enthält 2 Mini-Puppen: LEGO Friends Olivia und Nandi sowie eine Santiago Micro-Puppe mit Zubehör wie Schwimmweste und Eis am Stiel
+- Das coole LEGO Friends Schwimmbad enthält einen Wasserpark mit einem Schwimmbad, 2 Wasserrutschen, einer Dusche und einem Umkleidebereich
+- Mit diesem Kinderspielzeug ab 6 Jahre können die Kinder das Netz erklimmen, die Rutschen nutzen oder am Eisstand arbeiten
+- Das LEGO Heartlake City Sommer Spielset ist ein tolles Geschenk zu jeder Gelegenheit und ein lustiges Spielzeug ab 6 Jahren
+- Ändere Olivias Kopf in eine Version mit Schwimmbrille, wenn sie schwimmen geht, drehe den Oktopus, und verstaue Zubehör in den Schließfächern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- eneloop pro Akkus sind universell einsetzbar und können in allen Geräten herkömmliche Akkus oder Batterien ersetzen. Sie können mit handelsüblichen NiMH-Ladegeräten aufgeladen werden
-- NEU: jetzt in umweltfreundlicher Verpackung erhältlich
-- eneloop pro Akkus haben eine äußerst geringe Selbstentladung und sind dadurch immer einsatzbereit. Auch nach 1 Jahr Lagerung verfügt eneloop über 85% der Anfangsladung.
-- eneloop pro Akkus sind mit Solarstrom vorgeladen und somit sofort einsetzbar. Sie eignen sich für Geräte mit mittlerem bis hohem Energiebedarf (Blitzgeräte, ferngesteuertes Spielzeug, Game Controller, Tastatur & Maus, kabellose Geräte...)
 - Bis zu 500 Mal wiederaufladbar - das schont die Umwelt und Ihren Geldbeutel
+- eneloop pro Akkus sind universell einsetzbar und können in allen Geräten herkömmliche Akkus oder Batterien ersetzen. Sie können mit handelsüblichen NiMH-Ladegeräten aufgeladen werden
+- eneloop pro Akkus sind mit Solarstrom vorgeladen und somit sofort einsetzbar. Sie eignen sich für Geräte mit mittlerem bis hohem Energiebedarf (Blitzgeräte, ferngesteuertes Spielzeug, Game Controller, Tastatur & Maus, kabellose Geräte...)
+- eneloop pro Akkus haben eine äußerst geringe Selbstentladung und sind dadurch immer einsatzbereit. Auch nach 1 Jahr Lagerung verfügt eneloop über 85% der Anfangsladung.
+- NEU: jetzt in umweltfreundlicher Verpackung erhältlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

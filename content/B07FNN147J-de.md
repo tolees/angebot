@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält ein detailliertes Modell der Pariser Skyline inklusive Arc de Triomphe, Champs-Élysées, Tour Montparnasse, Grand Palais, Eiffelturm und Louvre, sowie Gras- und Baumflächen
 - Die LEGO-Architecture-Modellbausätze würdigen die Welt der Architektur mit LEGO-Steinen und begeistern alle, die sich für Reisen, Design, Architektur und Geschichte interessieren
-- Jedes Skyline-Modell ist in realistischen Farben gehalten und so bemessen, dass die relative Größe der enthaltenen Bauwerke maßstabsgetreu dargestellt wird
-- Das beiliegende Begleitheft enthält Informationen über den Designer, die Architektur und die Geschichte der einzelnen Gebäude
 - Die LEGO-Architecture-Modelle sind mit allen kreativen LEGO-Modellbausätzen kompatibel und ideale Geschenkideen zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass
 - Dieser Modellbausatz für Erwachsene und Kinder ab 12 Jahren ist ein lohnenswertes und entspannendes Bauerlebnis und ein wunderschönes Deko-Stück für jedes Haus
+- Das beiliegende Begleitheft enthält Informationen über den Designer, die Architektur und die Geschichte der einzelnen Gebäude
+- Enthält ein detailliertes Modell der Pariser Skyline inklusive Arc de Triomphe, Champs-Élysées, Tour Montparnasse, Grand Palais, Eiffelturm und Louvre, sowie Gras- und Baumflächen
+- Jedes Skyline-Modell ist in realistischen Farben gehalten und so bemessen, dass die relative Größe der enthaltenen Bauwerke maßstabsgetreu dargestellt wird
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält 6 LEGO-Marvel-Minifiguren: Makkari, Ikaris, Thena, Sersi, Druig und Phastos sowie 2 Deviant-Action-Figuren mit Kro, dem Anführer der Deviants
 - Kombiniere das Set mit anderen aus der „LEGO Marvel The Eternals“-Reihe für noch mehr Spielmöglichkeiten
+- Enthält 6 LEGO-Marvel-Minifiguren: Makkari, Ikaris, Thena, Sersi, Druig und Phastos sowie 2 Deviant-Action-Figuren mit Kro, dem Anführer der Deviants
 - Dieses LEGO-Set ist das einzige mit Druig und Phastos und daher ein wunderbares Weihnachts- oder Geburtstagsgeschenk für Marvel- und LEGO-Fans
-- Kinder können eine Minifigur in den Fahrersitz des Raumschiffs setzen und so Kampfszenen zwischen den Superhelden-Figuren und den Deviant-Kreaturen nachspielen
 - Das Set LEGO Marvel Super Heroes Aufstieg des Domo enthält das Eternals-Raumschiff mit 3 aufklappbaren Seiten zum Erkunden und Spielen
-- Das Raumschiff beinhaltet ein Cockpit, ein Waffenlager voll mit coolen Waffen und ein Labor voll Technik – ein futuristischer Raum für die Wissenschaft
 - Das leicht zusammenbaubare Raumschiff enthält eine einfache Bauanleitung, sodass Kinder sofort mit dem Bauen und Spielen beginnen können
+- Das Raumschiff beinhaltet ein Cockpit, ein Waffenlager voll mit coolen Waffen und ein Labor voll Technik – ein futuristischer Raum für die Wissenschaft
+- Kinder können eine Minifigur in den Fahrersitz des Raumschiffs setzen und so Kampfszenen zwischen den Superhelden-Figuren und den Deviant-Kreaturen nachspielen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

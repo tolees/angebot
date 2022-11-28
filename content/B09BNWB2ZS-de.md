@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses LEGO Superhelden-Set enthält 6 Minifiguren: Batman, sein Alter-Ego Drifter, Catwoman, Alfred, Commissioner Gordon und den Riddler
-- Zeit für Batman, sich als Drifter zu verkleiden, auf sein Motorrad zu steigen, den Schurken zu fangen und ihn ins Gefängnis der Bathöhle zu werfen!
-- Die beiden Seitenwände der Bathöhle verfügen über einen großen Stadtplan von GOTHAM CITY sowie eine Werkzeugablage und können gedreht werden, um mehr Platz zum Spielen zu schaffen
 - Inklusive 3 Elementen mit verschlüsselten Botschaften des Riddlers, die nur mit einer Speziallupe entschlüsselt werden können.
+- Die beiden Seitenwände der Bathöhle verfügen über einen großen Stadtplan von GOTHAM CITY sowie eine Werkzeugablage und können gedreht werden, um mehr Platz zum Spielen zu schaffen
+- Dieses LEGO Superhelden-Set enthält 6 Minifiguren: Batman, sein Alter-Ego Drifter, Catwoman, Alfred, Commissioner Gordon und den Riddler
 - Enthält die Bathöhle – Batmans Hauptquartier – mit Zubehör und einer Gefängniszelle, sowie ein Spielzeug-Motorrad für viele Batman-Abenteuer
+- Zeit für Batman, sich als Drifter zu verkleiden, auf sein Motorrad zu steigen, den Schurken zu fangen und ihn ins Gefängnis der Bathöhle zu werfen!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
