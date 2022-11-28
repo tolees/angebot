@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Karl May Klassiker-Edition [16 DVDs]'
-date: 2022-11-27 08:13:00
+date: 2022-11-28 08:19:44
 image: 'https://m.media-amazon.com/images/I/51RqffQOoAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B00MKDWDSC/?tag=tolees0ca-21'
 descuento: '41.31'
-average: '41.22125'
+average: '40.9711764705882'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

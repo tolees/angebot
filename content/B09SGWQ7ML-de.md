@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Home Entertainment - Uncharted [Blu-ray]'
-date: 2022-11-27 08:12:09
+date: 2022-11-28 08:18:27
 image: 'https://m.media-amazon.com/images/I/519IX6ftTkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B09SGWQ7ML/?tag=tolees0ca-21'
 descuento: '28.73'
-average: '13.0754545454545'
+average: '12.8166666666666'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
