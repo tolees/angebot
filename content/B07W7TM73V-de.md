@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das detailreiche Polizeihauptquartier bietet Kindern riesigen Spielspaß, denn es verfügt über eine Explosionsfunktion (für Ausbrüche) und einen Suchscheinwerfer. Aber auch das Polizeiauto mit Sirene bereitet Fans der LEGO City Polizei große Freude.
-- Das LEGO City Spielset „Polizeistation“ ist ideal für Kinder ab 6 Jahren. Kinder, die Rollenspiele, Fahrzeugmodelle und Actionspielzeug lieben, werden von diesem Geschenk für jeden Anlass begeistert sein.
-- Anzahl der Teile: 743
 - Polizeistation
+- Anzahl der Teile: 743
 - Vom Hersteller empfohlenes Alter: 6+
+- Das LEGO City Spielset „Polizeistation“ ist ideal für Kinder ab 6 Jahren. Kinder, die Rollenspiele, Fahrzeugmodelle und Actionspielzeug lieben, werden von diesem Geschenk für jeden Anlass begeistert sein.
+- Das detailreiche Polizeihauptquartier bietet Kindern riesigen Spielspaß, denn es verfügt über eine Explosionsfunktion (für Ausbrüche) und einen Suchscheinwerfer. Aber auch das Polizeiauto mit Sirene bereitet Fans der LEGO City Polizei große Freude.
 
 [🛒 Hier!!]({{< param buyurl >}})

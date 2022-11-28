@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney - Akte X - Staffel 1-11 Komplettbox [Blu-ray]'
-date: 2022-11-26 20:43:39
+date: 2022-11-27 21:36:39
 image: 'https://m.media-amazon.com/images/I/419TntOjV0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Walt Disney'
 buyurl: 'https://www.amazon.de/dp/B08LJN18TF/?tag=tolees0ca-21'
 descuento: '33.04'
-average: '91.5414285714286'
+average: '88.97'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

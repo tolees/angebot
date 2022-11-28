@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Die stimmungsvolle Weihnachten Collection - 30 Weihnachtsfilme zum Fest - Umfangreiche Weihnachts-Film-Box mit Klassikern  romantische Geschichten  Liebe  Komödien und Zeichentrickfilmen'
-date: 2022-11-26 20:46:32
+date: 2022-11-27 21:35:55
 image: 'https://m.media-amazon.com/images/I/516C73XXeOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B09JVNB4VW/?tag=tolees0ca-21'
 descuento: '29.92'
-average: '22.7105882352941'
+average: '22.4211111111111'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

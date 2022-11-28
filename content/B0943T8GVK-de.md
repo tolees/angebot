@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crunchyroll - Attack on Titan Final Season - Staffel 4 - Vol.2 - [Blu-ray]'
-date: 2022-11-26 20:45:42
+date: 2022-11-27 21:37:36
 image: 'https://m.media-amazon.com/images/I/512aPLkrftL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
