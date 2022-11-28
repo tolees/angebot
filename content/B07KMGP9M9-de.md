@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mesh WLAN
 - Das smarte Plug & Play übernimmt alles Weitere und sorgt dafür, dass Sie sofort lossurfen können
-- Reichweite bis zu 500 Meter
 - Bis zu max. 2400 Mbit/s
+- Mesh WLAN
 - 2x Gigabit LAN
+- Reichweite bis zu 500 Meter
 
 [🛒 Hier!!]({{< param buyurl >}})

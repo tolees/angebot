@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Adapter der dLAN-Reihe werden nicht unterstützt
+- Einzeladapter zur optimalen Erweiterung: Ein besonders kompakter Adapter mit zukunftssicherer G.hn-Technologie, Internetsignal für das gesamte Haus
+- Beste Kombination zum Einsteigerpreis: Neues Mesh-WLAN wird mit bewährter Technologie vom Powerline-Pionier devolo kombiniert
+- Lieferumfang: 1x kompakter Powerline-WiFi-Adapter (mit 1x Fast Ethernet LAN-Anschluss), WiFi 4, inkl. Webcam Protector
 - Erweitert Ihr bestehendes Mesh-Netzwerk in Sekundenschnelle: Nutzen Sie den kompakten Single-Adapter mit 1200 Mbit/s über Powerline, sowie 300 Mbit/s für die Erweiterung Ihres WLAN-Empfangs
 - Neueste G.hn-Generation, nicht abwärtskompatibel. Kombinierbar mit allen Adaptern der devolo Magic-Reihe. Adapter der dLAN-Reihe werden nicht unterstützt
-- Lieferumfang: 1x kompakter Powerline-WiFi-Adapter (mit 1x Fast Ethernet LAN-Anschluss), WiFi 4, inkl. Webcam Protector
-- Adapter der dLAN-Reihe werden nicht unterstützt
-- Beste Kombination zum Einsteigerpreis: Neues Mesh-WLAN wird mit bewährter Technologie vom Powerline-Pionier devolo kombiniert
-- Einzeladapter zur optimalen Erweiterung: Ein besonders kompakter Adapter mit zukunftssicherer G.hn-Technologie, Internetsignal für das gesamte Haus
 
 [🛒 Hier!!]({{< param buyurl >}})
