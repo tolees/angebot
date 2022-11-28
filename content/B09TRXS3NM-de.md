@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71404 Super Mario Gumbas Schuh – Erweiterungsset  Spielzeug zum kombinieren mit Mario  Luigi oder Peach Starterset  mit Gumba Figur'
-date: 2022-11-27 00:39:54
+date: 2022-11-28 01:57:46
 image: 'https://m.media-amazon.com/images/I/515HEtrPDXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09TRXS3NM/?tag=tolees0ca-21'
 descuento: '35.04'
-average: '6.73111111111111'
+average: '6.707'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
