@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21181 Minecraft Die Kaninchenranch  Bauernhof-Spielzeug für Jungen und Mädchen ab 8 Jahren mit Zähmer  Zombie und Tieren'
-date: 2022-11-28 13:13:28
+date: 2022-11-29 14:20:00
 image: 'https://m.media-amazon.com/images/I/51TXPosZayL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNXL1SB/?tag=tolees0ca-21'
 descuento: '45.73'
-average: '20.3150442477877'
+average: '20.3034210526317'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
