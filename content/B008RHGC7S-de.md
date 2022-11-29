@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros  Universal Pictures  - Stargate Kommando SG-1 - Die komplette Serie  inkl. Continuum  The Ark of Truth  [61 DVDs]'
-date: 2022-11-28 08:18:06
+date: 2022-11-29 08:41:23
 image: 'https://m.media-amazon.com/images/I/51a3YDd8hIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Warner Bros (Universal Pictures)'
 buyurl: 'https://www.amazon.de/dp/B008RHGC7S/?tag=tolees0ca-21'
 descuento: '20.55'
-average: '61.5828571428572'
+average: '61.13375'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
