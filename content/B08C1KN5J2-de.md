@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dolby Atmos-Unterstützung und Klang in Heimkino-Qualität – Für ausgewählte Titel sorgt umfassender Dolby Atmos-Klang mit kompatiblen Heim-Audiosystemen für ein noch realitätsgetreueres Fernseherlebnis.
-- Die neueste Version unseres meistverkauften Streaming-Geräts – 50 % mehr Leistung im Vergleich zu Fire TV Stick (2019), für schnelles Streaming in Full HD. Beinhaltet eine Alexa-Sprachfernbedienung mit Tasten für An/Aus und Lautstärke.
+- Amazon Prime-Mitglieder erhalten unbegrenzten Zugriff auf Tausende Filme und Serienfolgen.
 - Tausende Apps, Alexa Skills und Sender – einschließlich Netflix, YouTube, Prime Video, WOW, Disney+, ARD, ZDF, ProSieben, DAZN und mehr. Möglicherweise fallen Abonnementgebühren an.
-- Einfache und intuitive Verwendung – Schneller Zugriff auf beliebte Apps, Live-TV sowie die Dinge, die Sie am meisten nutzen, ganz einfach über das Hauptmenü.
-- Live-TV – Sehen Sie Ihre Lieblingsinhalte aus dem Live-Fernsehen, Nachrichten und Sport mit Abonnements von ARD, ZDF, DAZN und mehr. Nutzen Sie die Taste für die Programmübersicht um herauszufinden, was zur Verfügung steht und wann.
+- Musik hören – Streamen Sie Musik von Amazon Music, Spotify und weiteren. Möglicherweise fallen Abonnementgebühren an.
+- Die neueste Version unseres meistverkauften Streaming-Geräts – 50 % mehr Leistung im Vergleich zu Fire TV Stick (2019), für schnelles Streaming in Full HD. Beinhaltet eine Alexa-Sprachfernbedienung mit Tasten für An/Aus und Lautstärke.
+- Dolby Atmos-Unterstützung und Klang in Heimkino-Qualität – Für ausgewählte Titel sorgt umfassender Dolby Atmos-Klang mit kompatiblen Heim-Audiosystemen für ein noch realitätsgetreueres Fernseherlebnis.
 - Free-TV – Schauen Sie Filme und weitere Inhalte mit Apps wie ARD, ZDF, Pluto TV, YouTube und mehr.
+- Einfache und intuitive Verwendung – Schneller Zugriff auf beliebte Apps, Live-TV sowie die Dinge, die Sie am meisten nutzen, ganz einfach über das Hauptmenü.
 - Einfache Einrichtung, unauffällige Platzierung – Einfach auf der Rückseite des Fernsehers anschließen, Fernsehgerät einschalten, mit dem Internet verbinden und los geht‘s.
 - Weniger Durcheinander, mehr Kontrolle – Mit der Alexa-Sprachfernbedienung können Sie Sendungen per Sprachbefehl App-übergreifend suchen und abspielen. Über die brandneuen voreingestellten Tasten können Sie außerdem beliebte Apps schnell aufrufen. Auch das Ein- und Ausschalten sowie die Lautstärkeregelung für kompatible Fernseher und Soundbars sind ohne zusätzliche Fernbedienung möglich.
-- Musik hören – Streamen Sie Musik von Amazon Music, Spotify und weiteren. Möglicherweise fallen Abonnementgebühren an.
-- Amazon Prime-Mitglieder erhalten unbegrenzten Zugriff auf Tausende Filme und Serienfolgen.
+- Live-TV – Sehen Sie Ihre Lieblingsinhalte aus dem Live-Fernsehen, Nachrichten und Sport mit Abonnements von ARD, ZDF, DAZN und mehr. Nutzen Sie die Taste für die Programmübersicht um herauszufinden, was zur Verfügung steht und wann.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
