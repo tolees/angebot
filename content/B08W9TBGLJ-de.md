@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Zubehör umfasst unter anderem ein Zeichenbrett und viel LEGO Zubehör wie einen Zeigestock, ein Dino-Ei, einen versteinerten Zahn und ein Blatt.
+- Ein cooles und kreatives LEGO Geburtstagsgeschenk oder Weihnachtsgeschenk für einen jungen LEGO- oder Wissenschaftsfan, der sich an ein anspruchsvolleres Bauprojekt wagen möchte.
 - Das LEGO T. Rex-Spielzeug für Kinder enthält die Minifiguren von Darius and Owen Grady sowie einen Triceratops-Spielzeugdinosaurier.
+- Das Zubehör umfasst unter anderem ein Zeichenbrett und viel LEGO Zubehör wie einen Zeigestock, ein Dino-Ei, einen versteinerten Zahn und ein Blatt.
 - Das LEGO Jurassic World T. Rex-Skelett in der Fossilienausstellung bietet Jungen und Mädchen unzählige Stunden Spaß
 - Das bewegliche T. Rex-Spielzeugskelett wird mit einem Ständer geliefert, damit kleine Paläontologen ab 7 Jahren es als Museumsstück ausstellen können.
-- Ein cooles und kreatives LEGO Geburtstagsgeschenk oder Weihnachtsgeschenk für einen jungen LEGO- oder Wissenschaftsfan, der sich an ein anspruchsvolleres Bauprojekt wagen möchte.
 
 [🛒 Hier!!]({{< param buyurl >}})

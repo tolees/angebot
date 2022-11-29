@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält über 4000 Teile und 9 Leinwand-Platten mit 9 Bildoptionen in den 4 Themenbereichen: Essen, Muster, Symbole und Interessen
+- Baut gemeinsam eine persönliche Bildcollage als Deko oder kreiert ein Kunstwerk mit der LEGO-Minifigur vor einem Hintergrund aus Sternen
 - Das Mosaik-Bastelset für Kinder und Erwachsene kann endlos auf- und umgebaut werden. Es ist ein kreatives Weichnachtsgeschenk für Mädchen, Jungen, Familien und DIY-Fans ab 7 Jahren
 - Sortiert die Teile, baut die Farbpalette, wählt euer Lieblingsmotiv und beginnt gemeinsam mit dem Bauen
-- Baut gemeinsam eine persönliche Bildcollage als Deko oder kreiert ein Kunstwerk mit der LEGO-Minifigur vor einem Hintergrund aus Sternen
+- Enthält über 4000 Teile und 9 Leinwand-Platten mit 9 Bildoptionen in den 4 Themenbereichen: Essen, Muster, Symbole und Interessen
 - Dieses Wanddekorationsset hat 2 einzigartige Aufhängelemente und einen Elementetrenner – für ein kreatives, einfaches und lustiges Gruppenhobby
 - Die kreativste Party mit dem Set LEGO Art: Gemeinsames Kunstprojekt mit 36 Bildoptionen und einer farblich angepassten Palette zum Zusammenbauen
 

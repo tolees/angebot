@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bleiben Sie in Verbindung und genießen Sie qualitativ hochwertige Freisprechanrufe mit Ihrem SRS-XB13.
-- Der SRS-XB13 ist kompakt, leicht und einfach zu transportieren. Er verfügt über einen praktischen, abnehmbaren Gurt, mit dem Sie Ihren kabellosen Lautsprecher tragen oder aufhängen können, wo immer Sie möchten. Er ist in 6 tollen Farben erhältlich.
 - Nehmen Sie ihn überall mit! Dieser tragbare Lautsprecher ist wasser- und staubdicht (IP67). Er ist sogar vor UV-Strahlen geschützt. Mit einer Akkulaufzeit von bis zu 16 Stunden und einer Akkulaufzeit-Anzeige auf Ihrem Smartphone müssen Sie sich keine Sorgen machen, dass die Musik plötzlich aufhört.
-- Erzeugen Sie weitreichenden Stereo-Surround-Sound, indem Sie zwei SRS-XB13 Extra Bass-Lautsprechermodelle miteinander verbinden.
 - Genießen Sie kraftvollen Surround-Sound, tiefe, satte Bässe und klaren Gesang, dank des Prozessors zur Sound-Verteilung mit Extra Bass, Breitbandlautsprecher und Passivradiator.
+- Der SRS-XB13 ist kompakt, leicht und einfach zu transportieren. Er verfügt über einen praktischen, abnehmbaren Gurt, mit dem Sie Ihren kabellosen Lautsprecher tragen oder aufhängen können, wo immer Sie möchten. Er ist in 6 tollen Farben erhältlich.
+- Erzeugen Sie weitreichenden Stereo-Surround-Sound, indem Sie zwei SRS-XB13 Extra Bass-Lautsprechermodelle miteinander verbinden.
+- Bleiben Sie in Verbindung und genießen Sie qualitativ hochwertige Freisprechanrufe mit Ihrem SRS-XB13.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
