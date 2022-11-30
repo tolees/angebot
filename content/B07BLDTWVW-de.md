@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Schloss Hogwarts  71043  Bauset  6.020 Teile '
-date: 2022-11-29 02:46:29
+date: 2022-11-30 03:57:56
 image: 'https://m.media-amazon.com/images/I/51mcSHgTf1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07BLDTWVW-de LEGO Harry Potter Schloss Hogwarts 71043 Bauset 6.020 Teile'
 sku: 'B07BLDTWVW-de'
 tags: [ 'Bauklötze & Bausteine','Bauspielzeug & Konstruktionsspielzeug','Spielzeug','lego','🇩🇪', ]
-actualPrice: 439.7 EUR
+actualPrice: 430.53 EUR
 currency: EUR
-price: 439.7
+price: 430.53
 comparePrice: 599.0 EUR
 prodname: 'LEGO Harry Potter Schloss Hogwarts  71043  Bauset  6.020 Teile '
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07BLDTWVW/?tag=tolees0ca-21'
-descuento: '26.59'
-average: '436.825368421052'
+descuento: '28.13'
+average: '436.814343257442'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
