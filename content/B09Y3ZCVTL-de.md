@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paramount Pictures  Universal Pictures Germany GmbH  - The Lost City - Das Geheimnis der verlorenen Stadt  Blu-ray '
-date: 2022-11-29 14:53:13
+date: 2022-11-30 16:11:25
 image: 'https://m.media-amazon.com/images/I/511oFw8CjSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Action & Abenteuer','Blu-ray','DVD & Blu-ray','Featured Categories','Fi
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
-comparePrice: 14.99 EUR
+comparePrice: 13.99 EUR
 prodname: 'Paramount Pictures  Universal Pictures Germany GmbH  - The Lost City - Das Geheimnis der verlorenen Stadt  Blu-ray '
 country: 'de'
 flag: '🇩🇪'
 brand: 'Paramount Pictures (Universal Pictures Germany GmbH)'
 buyurl: 'https://www.amazon.de/dp/B09Y3ZCVTL/?tag=tolees0ca-21'
-descuento: '40.03'
-average: '14.5194117647059'
+descuento: '35.74'
+average: '14.2122222222222'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
