@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EuroVideo - King Richard'
-date: 2022-11-29 20:55:55
+date: 2022-11-30 22:16:41
 image: 'https://m.media-amazon.com/images/I/41VducnzDAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

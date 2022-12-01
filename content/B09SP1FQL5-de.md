@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'King Richard  + Blu-ray 2D '
-date: 2022-11-29 20:54:54
+date: 2022-11-30 22:16:18
 image: 'https://m.media-amazon.com/images/I/51UowwRr+bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
