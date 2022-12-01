@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weihnachten Spielfilm Box   18 weihnachtliche Filme in einer Box   [6 DVDs]'
-date: 2022-11-29 03:35:35
+date: 2022-12-01 05:15:47
 image: 'https://m.media-amazon.com/images/I/61eSXQcAi4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B075DHMJH6/?tag=tolees0ca-21'
 descuento: '27.05'
-average: '11.904'
+average: '11.7716666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Universal Pictures Germany GmbH - DOWNTON ABBEY - Eine neue Ära [Blu-ray]'
-date: 2022-11-30 05:13:34
+date: 2022-12-01 05:17:54
 image: 'https://m.media-amazon.com/images/I/513HG2EdAJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Universal Pictures Germany GmbH'
 buyurl: 'https://www.amazon.de/dp/B09YQG4PHZ/?tag=tolees0ca-21'
 descuento: '19.92'
-average: '16.4627999999999'
+average: '16.3523076923076'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
