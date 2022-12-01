@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71409 Super Mario Maxi-Spikes Wolken-Challenge – Erweiterungsset  Spielzeug Set mit 3 Gegner Figuren inkl. Bumerang-Bruder und Piranha-Pflanze'
-date: 2022-11-30 15:00:46
+date: 2022-12-01 15:17:53
 image: 'https://m.media-amazon.com/images/I/51UNgJRsJqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFWNZJH-de LEGO 71409 Super Mario Maxi-Spikes Wolken-Challenge –...'
 sku: 'B09QFWNZJH-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 44.99 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 44.99
+price: 39.99
 comparePrice: 69.99 EUR
 prodname: 'LEGO 71409 Super Mario Maxi-Spikes Wolken-Challenge – Erweiterungsset  Spielzeug Set mit 3 Gegner Figuren inkl. Bumerang-Bruder und Piranha-Pflanze'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFWNZJH/?tag=tolees0ca-21'
-descuento: '35.72'
-average: '45.4438461538461'
+descuento: '42.86'
+average: '45.0542857142857'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

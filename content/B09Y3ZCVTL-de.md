@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paramount Pictures  Universal Pictures Germany GmbH  - The Lost City - Das Geheimnis der verlorenen Stadt  Blu-ray '
-date: 2022-11-30 16:11:25
+date: 2022-12-01 16:22:28
 image: 'https://m.media-amazon.com/images/I/511oFw8CjSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Paramount Pictures (Universal Pictures Germany GmbH)'
 buyurl: 'https://www.amazon.de/dp/B09Y3ZCVTL/?tag=tolees0ca-21'
 descuento: '35.74'
-average: '14.2122222222222'
+average: '13.9373684210526'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

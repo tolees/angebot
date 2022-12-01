@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75322 Star Wars at-ST auf Hoth mit Figuren von Chewbacca und Droide  Sammelspielzeug aus Das Imperium schlägt zurück'
-date: 2022-11-30 14:49:55
+date: 2022-12-01 15:06:53
 image: 'https://m.media-amazon.com/images/I/51TlprYb0wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNTTSWC/?tag=tolees0ca-21'
 descuento: '36.81'
-average: '34.2975675675675'
+average: '34.2614666666666'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
