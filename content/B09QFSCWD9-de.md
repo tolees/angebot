@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42143 Technic Ferrari Daytona SP3 Modellauto Bausatz im Maßstab 1:8  roter Supersportwagen  erweitertes Auto-Modell Sammlerstück  Ultimate Car Concept'
-date: 2022-11-25 11:31:20
+date: 2022-12-02 08:31:42
 image: 'https://m.media-amazon.com/images/I/51R5Kk4uZQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09QFSCWD9-de LEGO 42143 Technic Ferrari Daytona SP3 Modellauto Bausatz...'
 sku: 'B09QFSCWD9-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 319.99 EUR
+actualPrice: 303.99 EUR
 currency: EUR
-price: 319.99
+price: 303.99
 comparePrice: 449.99 EUR
 prodname: 'LEGO 42143 Technic Ferrari Daytona SP3 Modellauto Bausatz im Maßstab 1:8  roter Supersportwagen  erweitertes Auto-Modell Sammlerstück  Ultimate Car Concept'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFSCWD9/?tag=tolees0ca-21'
-descuento: '28.89'
-average: '327.421538461538'
+descuento: '32.45'
+average: '325.747857142857'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses 3.778-teilige LEGO Set für Erwachsene enthält ein Sportwagenmodell im Maßstab 1:8, das den Ferrari Daytona SP3 mit faszinierenden Details nachbildet
-- Entdecke die Welt der Ingenieurskunst mit diesem Ferrari LEGO Technic Automodellbausatz für Erwachsene, perfekt als Geschenk für einen Geburtstag, Weihnachten oder einen anderen besonderen Anlass
-- Ein in Zusammenarbeit mit Ferrari entworfenes Modellauto - bewundere das elegante Design und die Anzeige mit der mitgelieferten verzierten Platte und der einmaligen Seriennummer, um Online-Inhalte und Belohnungen freizuschalten
+- Modellauto aus der LEGO Technic Reihe „Ultimate Car Concept“: Das 4. Auto aus dieser Reihe von Supersportwagen zum Sammeln, denen einige der exklusivsten Fahrzeuge der Welt als Vorbild dienten
 - Zu den beeindruckenden Merkmalen dieses legendären Automodells gehören aufklappbare Flügeltüren, Lenkung, V12-Motor, ein sequenzielles 8-Gang-Getriebe mit Schaltwippen, ein abnehmbares Dach und Stoßdämpfer
 - Die exklusive Verpackung beinhaltet auch einen attraktiven Bildband mit Einblicken in die Zusammenarbeit zwischen den LEGO Designern und Ferrari und bietet von Anfang bis Ende ein einzigartiges Erlebnis beim Bauen
-- Modellauto aus der LEGO Technic Reihe „Ultimate Car Concept“: Das 4. Auto aus dieser Reihe von Supersportwagen zum Sammeln, denen einige der exklusivsten Fahrzeuge der Welt als Vorbild dienten
+- Ein in Zusammenarbeit mit Ferrari entworfenes Modellauto - bewundere das elegante Design und die Anzeige mit der mitgelieferten verzierten Platte und der einmaligen Seriennummer, um Online-Inhalte und Belohnungen freizuschalten
+- Dieses 3.778-teilige LEGO Set für Erwachsene enthält ein Sportwagenmodell im Maßstab 1:8, das den Ferrari Daytona SP3 mit faszinierenden Details nachbildet
+- Entdecke die Welt der Ingenieurskunst mit diesem Ferrari LEGO Technic Automodellbausatz für Erwachsene, perfekt als Geschenk für einen Geburtstag, Weihnachten oder einen anderen besonderen Anlass
 
 [🛒 Hier!!]({{< param buyurl >}})

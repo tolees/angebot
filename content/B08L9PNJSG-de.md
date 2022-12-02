@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS RP-AX56 AiMesh Repeater  WiFi-6 AX1800  1x Gigabit LAN  externe Antennen  App Steuerung   AX1800  bis zu 150m² '
-date: 2022-11-30 05:08:02
+date: 2022-12-02 11:01:08
 image: 'https://m.media-amazon.com/images/I/31T-FW4B7rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08L9PNJSG-de ASUS RP-AX56 AiMesh Repeater WiFi-6 AX1800 1x Gigabit LAN...'
 sku: 'B08L9PNJSG-de'
 tags: [ 'Computer & Zubehör','Netzwerkgeräte','Router','asus','🇩🇪', ]
-actualPrice: 84.42 EUR
+actualPrice: 83.61 EUR
 currency: EUR
-price: 84.42
+price: 83.61
 comparePrice: 114.95 EUR
 prodname: 'ASUS RP-AX56 AiMesh Repeater  WiFi-6 AX1800  1x Gigabit LAN  externe Antennen  App Steuerung   AX1800  bis zu 150m² '
 country: 'de'
 flag: '🇩🇪'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.de/dp/B08L9PNJSG/?tag=tolees0ca-21'
-descuento: '26.56'
-average: '88.3177083333332'
+descuento: '27.26'
+average: '88.2216326530611'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
