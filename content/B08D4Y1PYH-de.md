@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEONINE Distribution GmbH - Augsburger Puppenkiste - Die Weihnachts Box [3 DVDs]'
-date: 2022-11-23 11:54:33
+date: 2022-12-01 22:37:54
 image: 'https://m.media-amazon.com/images/I/51wjI1NfZQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEONINE Distribution GmbH'
 buyurl: 'https://www.amazon.de/dp/B08D4Y1PYH/?tag=tolees0ca-21'
 descuento: '22.74'
-average: '16.12'
+average: '15.335'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
