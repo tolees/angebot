@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sie enthalten spannende Bilder
-- Einfach zu verwenden
-- Es hat eine Aussicht von +18
 - Live-Ton
+- Es hat eine Aussicht von +18
+- Einfach zu verwenden
 - Sie bieten außergewöhnlichen Genuss
+- Sie enthalten spannende Bilder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
