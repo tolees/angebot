@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses 4+ Spielzeugset enthält eine gedruckte Anleitung und digitale Instructions PLUS in der LEGO Building App, die es ermöglichen, das Modell beim Bauen zu vergrößern/zu drehen
 - Das LEGO Spielzeug für Jungen und Mädchen ab 4 Jahren enthält ein spezielles Startbaustein-Element, damit auch Anfänger Spaß am Bauen ihres eigenen Sets haben können
 - Kinder können die Ganovin und die gestohlenen Geldscheine am Wassermotorrad befestigen und sie nach der Verfolgungsjagd im Rumpf einsperren
 - Der Polizeihubschrauber verfügt über ein dekoratives Polizeischild, einen Suchscheinwerfer, ein Cockpit für eine Minifigur, drehbare Rotoren und einen aufklappbaren Rumpf
 - Enthält einen robusten Spielzeug-Hubschrauber, das Wassermotorrad der Ganovin und 2 Geldscheine sowie einen Polizisten und eine Ganovin als Minifiguren
+- Dieses 4+ Spielzeugset enthält eine gedruckte Anleitung und digitale Instructions PLUS in der LEGO Building App, die es ermöglichen, das Modell beim Bauen zu vergrößern/zu drehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

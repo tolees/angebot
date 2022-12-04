@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Dann kämpfen sie gegen einen verfluchten Billardtisch, besiegen den Mülltonnengeist und den Greifergeist und stürzen König Boo für immer aus seinem Turm!
+- Dieses Erweiterungsset für Luigi’s Mansion mit lustigen Super Mario-Spielen und 4 Figuren bietet Kindern spannende Kämpfe gegen Geister auf der Suche nach Juwelen
 - Die LEGO Super Mario Erweiterungssets sind tolle Geschenke für Kinder, die das LEGO Super Mario Starterset 71360/71387 besitzen, welches zum Spielen benötigt wird
 - Dieses LEGO Super Mario Spielzeug enthält 4 Figuren: Toad (mit einem ängstlichen Gesicht) und die Gegner Mülltonnengeist, Greifergeist und König Buu
-- Dieses Erweiterungsset für Luigi’s Mansion mit lustigen Super Mario-Spielen und 4 Figuren bietet Kindern spannende Kämpfe gegen Geister auf der Suche nach Juwelen
 - Die Kinder können den Flur drehen, um in die Zimmer zu gelangen, versteckte Juwelen im Schlafzimmer, Esszimmer und Badezimmer zu finden und digitale Münzen zu sammeln
-- Dann kämpfen sie gegen einen verfluchten Billardtisch, besiegen den Mülltonnengeist und den Greifergeist und stürzen König Boo für immer aus seinem Turm!
 
 [🛒 Hier!!]({{< param buyurl >}})

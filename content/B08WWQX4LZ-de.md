@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Dach des Wohnwagens lässt sich öffnen, sodass kleine Finger leicht mit dem Herd spielen oder den Wasserhahn aufdrehen können, um einen Eimer für das Pferd zu füllen
-- Das LEGO Friends Set Magischer Wohnwagen enthält einen von einer Pferdefigur gezogenen Oldtimer-Wohnwagen für Kinder und ein Wahrsager-Zelt
 - Im LEGO Freizeitpark Kinder können zur Unterhaltung der Familie im separaten Wahrsagerzelt mit Kristallkugel oder Karten ihre Zukunft voraussagen
-- Kinder können das Wohnwagen-Spielzeug mit Herd, Tisch und versteckter Toilette erkunden, Geschichten im Inneren nachspielen und das LEGO Friends Pferd pflegen
+- Das Dach des Wohnwagens lässt sich öffnen, sodass kleine Finger leicht mit dem Herd spielen oder den Wasserhahn aufdrehen können, um einen Eimer für das Pferd zu füllen
 - Enhalten sind 2 LEGO Friends Mini-Puppen sowie weitere Pferde- und Eulenfiguren, sodass es viele Möglichkeiten für kreative Rollenspiele gibt
+- Kinder können das Wohnwagen-Spielzeug mit Herd, Tisch und versteckter Toilette erkunden, Geschichten im Inneren nachspielen und das LEGO Friends Pferd pflegen
+- Das LEGO Friends Set Magischer Wohnwagen enthält einen von einer Pferdefigur gezogenen Oldtimer-Wohnwagen für Kinder und ein Wahrsager-Zelt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

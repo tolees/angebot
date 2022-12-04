@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kinder können mit diesen Modellautos zum selber Bauen 2 echte Corvettes erforschen und während sie sie zusammenschrauben alle Details kennenlernen
+- Für dieses Spielset sind weder Batterien noch Boxenstopps erforderlich. Die Fantasie der Kinder reicht völlig!
 - Mit dem Chevrolet Corvette C8.R Rennwagen und dem 1969 Chevrolet Corvette lassen sich nach dem Zusammenbauen spannende, rasante Rennen fahren
+- Dieses Spielzeugset enthält 2 Modelle von LEGO Rennwagen zum Bauen: den 2020 Chevrolet Corvette C8.R Rennwagen und den 1969 Chevrolet Corvette Sportwagen
 - Beide sammelbaren Spielzeugautos haben die ideale Größe, um zu Hause oder unterwegs damit zu spielen, ein perfektes LEGO Weihnachtsgeschenk für Jungen und Mädchen ab 8 Jahren
 - Enthalten sind 2 Rennfahrer-Minifiguren mit Rennanzügen, Helmen und einem Schraubenschlüssel, damit sie jederzeit startklar sind
-- Dieses Spielzeugset enthält 2 Modelle von LEGO Rennwagen zum Bauen: den 2020 Chevrolet Corvette C8.R Rennwagen und den 1969 Chevrolet Corvette Sportwagen
-- Für dieses Spielset sind weder Batterien noch Boxenstopps erforderlich. Die Fantasie der Kinder reicht völlig!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

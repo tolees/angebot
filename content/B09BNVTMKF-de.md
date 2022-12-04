@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Kinder können mit dem Jetpack des Mandalorianers andere Planeten erkunden und Feinde mit seiner Blasterpistole bekämpfen
-- Die leicht verständliche, bebilderte Anleitung ermöglicht es auch LEGO Einsteigern, das Kanonenboot aus „Star Wars: The Mandalorian“ zu bauen.
 - Die LEGO Mandalorianer-Minifigur trägt ein Outfit aus der zweiten Staffel der Serie „Star Wars: The Mandalorian“ und verfügt über eine Blasterpistole und ein Jetpack
+- Die leicht verständliche, bebilderte Anleitung ermöglicht es auch LEGO Einsteigern, das Kanonenboot aus „Star Wars: The Mandalorian“ zu bauen.
+- Die Kinder können mit dem Jetpack des Mandalorianers andere Planeten erkunden und Feinde mit seiner Blasterpistole bekämpfen
 - Dieses LEGO Star Wars Spielzeug zum Bauen aus LEGO Steinen lässt sich für weitere Spielmöglichkeiten mit anderen LEGO Star Wars Microfightern kombinieren
 - Enthält das Microfighter-Kanonenboot „Razor Crest“ mit 2 neuen, ab Januar 2022 verfügbaren Bolzengeschützen und der LEGO Figur des Mandalorianers
 
