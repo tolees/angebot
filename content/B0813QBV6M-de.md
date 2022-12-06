@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Baumodell für Erwachsene gehört zu einer Sammlung von LEGO Modellbausätzen für anspruchsvolle Bastler, die nach ihrem nächsten kreativen Bauprojekt suchen
-- LEGO Steine erfüllen die höchsten Branchenstandards, damit sie sich stets mühelos kombinieren, fest zusammenstecken und wieder leicht trennen lassen – und das schon seit 1958
-- LEGO Steine und Teile werden strengen Tests unterzogen, damit jedes Bauset den höchsten Sicherheits- und Qualitätsstandards entspricht. Deshalb ist auch dieses Miniatur-Modell des Weißen Hauses ebenso robust wie dekorativ
 - Wenn Sie von einem Besuch des Weißen Hauses in der Pennsylvania Avenue (Hausnummer 1600) in Washington D.C. träumen oder sich einfach nur für Reisen, Architektur, Geschichte und Design begeistern, liegen Sie mit diesem kreativen Modellbausatz goldrichtig
-- Batterien werden nicht benötigt! Bei diesem stylishen Modellbauprojekt dreht sich alles darum, das Weiße Haus mit LEGO Steinen nachzubilden und sich von einer Beschäftigung fesseln zu lassen, bei der Sie sich wunderbar entspannen können
-- Enthält eine bestens verständliche Bauanleitung, damit sich auch unerfahrene LEGO Baumeister selbstbewusst ans Werk machen können. Außerdem liegt ein Heft mit der Geschichte des Weißen Hauses bei (Nur in englischer Sprache. Auf LEGO.com/architecture kann das Heft auch in anderen Sprachen heruntergeladen werden)
-- Das Modell lässt sich zur näheren Betrachtung der architektonischen Details in 3 Segmente unterteilen. Zum Set gehört auch ein LEGO Stein mit der Inschrift ,The White House’, der ein tolles Schaustück vervollständigt, das reichlich Gesprächsstoff liefert
 - Das LEGO Architecture Baumodell „Das Weiße Haus“ (21054) erfasst das neoklassizistische Design und die Pracht der weltbekannten Residenz, die seit dem Jahr 1800 von jedem US-Präsidenten bewohnt wurde
+- Das Modell lässt sich zur näheren Betrachtung der architektonischen Details in 3 Segmente unterteilen. Zum Set gehört auch ein LEGO Stein mit der Inschrift ,The White House’, der ein tolles Schaustück vervollständigt, das reichlich Gesprächsstoff liefert
+- Dieses Baumodell für Erwachsene gehört zu einer Sammlung von LEGO Modellbausätzen für anspruchsvolle Bastler, die nach ihrem nächsten kreativen Bauprojekt suchen
+- Enthält eine bestens verständliche Bauanleitung, damit sich auch unerfahrene LEGO Baumeister selbstbewusst ans Werk machen können. Außerdem liegt ein Heft mit der Geschichte des Weißen Hauses bei (Nur in englischer Sprache. Auf LEGO.com/architecture kann das Heft auch in anderen Sprachen heruntergeladen werden)
+- Batterien werden nicht benötigt! Bei diesem stylishen Modellbauprojekt dreht sich alles darum, das Weiße Haus mit LEGO Steinen nachzubilden und sich von einer Beschäftigung fesseln zu lassen, bei der Sie sich wunderbar entspannen können
+- LEGO Steine und Teile werden strengen Tests unterzogen, damit jedes Bauset den höchsten Sicherheits- und Qualitätsstandards entspricht. Deshalb ist auch dieses Miniatur-Modell des Weißen Hauses ebenso robust wie dekorativ
+- LEGO Steine erfüllen die höchsten Branchenstandards, damit sie sich stets mühelos kombinieren, fest zusammenstecken und wieder leicht trennen lassen – und das schon seit 1958
 - Viel Spaß beim Bauen dieses LEGO Modells für Erwachsene, das neben dem Hauptgebäude und den über Galerien verbundenen West- und Ostflügeln des Weißen Hauses auch den Rose Garden und den Jacqueline Kennedy Garden darstellt
 - Dieses LEGO Architecture Baumodell ist 11 cm hoch, 47 cm breit und 20 cm tief und ein tolles Schaustück für Ihr Arbeitszimmer oder Büro. Außerdem ist es fantastisches Geschenk für kreative Freunde
 
