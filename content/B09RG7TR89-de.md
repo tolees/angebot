@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses LEGO City Stuntz Spielzeug für Kinder ab 5 Jahren enthält ein Stuntbike mit Retro-Schwungradantrieb und eine LEGO Minifigur, den Rocker Einsamer Wolf
-- Das schwungradbetriebene Bike aus dem LEGO City Set ist ein tolles Geschenk für Kinder zum Geburtstag oder auch für jeden anderen Anlass
-- Kinder können das Spielzeug-Motorrad anschieben, um das Schwungrad zu aktivieren, um dann Kunststücke und Saltos zu performen
-- Enthält den Rocker Einsamer Wolf als LEGO Rennfahrer-Minifigur mit markantem Schnurrbart und Helm als Zubehör aus LEGO City Stuntz - Cruiser Stuntbike
-- Kombiniere dieses Action-Spielzeug mit anderen Sets aus der LEGO City Stuntz Kollektion für noch mehr waghalsigen Stunt-Show-Spaß
 - Mit dem tragbaren LEGO Stunt Motorrad für Kinder ab 5 Jahren sind sie mitten im Geschehen - sie können überall spielen, wo sie hingehen!
+- Dieses LEGO City Stuntz Spielzeug für Kinder ab 5 Jahren enthält ein Stuntbike mit Retro-Schwungradantrieb und eine LEGO Minifigur, den Rocker Einsamer Wolf
+- Kombiniere dieses Action-Spielzeug mit anderen Sets aus der LEGO City Stuntz Kollektion für noch mehr waghalsigen Stunt-Show-Spaß
+- Kinder können das Spielzeug-Motorrad anschieben, um das Schwungrad zu aktivieren, um dann Kunststücke und Saltos zu performen
+- Das schwungradbetriebene Bike aus dem LEGO City Set ist ein tolles Geschenk für Kinder zum Geburtstag oder auch für jeden anderen Anlass
+- Enthält den Rocker Einsamer Wolf als LEGO Rennfahrer-Minifigur mit markantem Schnurrbart und Helm als Zubehör aus LEGO City Stuntz - Cruiser Stuntbike
 
 [🛒 Hier!!]({{< param buyurl >}})

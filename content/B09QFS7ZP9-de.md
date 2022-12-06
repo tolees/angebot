@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine Infotafel und eine LEGO Figur vervollständigen das Ausstellungsstück. Die kleine Version von BD-1 passt neben die Infotafel
-- Das LEGO Star Wars Set enthält einen baubaren Droiden mit beweglichen Gliedmaßen und einem in alle Richtungen neigbaren Kopf, um seine niedlichen Gesichtsausdrücke nachzustellen
-- Set zum Sammeln: BD-1 gehört zu einer ganzen Reihe von LEGO Star Wars Droiden zum Ausstellen, die als Raumdekoration toll aussehen
-- Premium-Geschenk für Fans ab 14 Jahren: Dieses Bauspielzeug ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Fans von Star Wars Jedi: Fallen Order und Sammler von LEGO Star Wars Sets
-- Spieler von Star Wars Jedi: Fallen Order können epische Abenteuer noch einmal erleben, indem sie dieses faszinierende BD-1 Droiden-Modell bauen und ausstellen
 - Star Wars-Fans werden auch andere realistische Details lieben, wie durchscheinende Elemente auf dem Hinterkopf, die die Stimmung des BD-1-Droiden anzeigen
+- Eine Infotafel und eine LEGO Figur vervollständigen das Ausstellungsstück. Die kleine Version von BD-1 passt neben die Infotafel
+- Set zum Sammeln: BD-1 gehört zu einer ganzen Reihe von LEGO Star Wars Droiden zum Ausstellen, die als Raumdekoration toll aussehen
 - Dieses fantastische Star Wars-Erinnerungsstück enthält auch ein Fach für Stim-Packs und eine BD-1 LEGO Figur in kleiner Größe
+- Spieler von Star Wars Jedi: Fallen Order können epische Abenteuer noch einmal erleben, indem sie dieses faszinierende BD-1 Droiden-Modell bauen und ausstellen
+- Das LEGO Star Wars Set enthält einen baubaren Droiden mit beweglichen Gliedmaßen und einem in alle Richtungen neigbaren Kopf, um seine niedlichen Gesichtsausdrücke nachzustellen
+- Premium-Geschenk für Fans ab 14 Jahren: Dieses Bauspielzeug ist ein tolles Geburtstags- oder Weihnachtsgeschenk für Fans von Star Wars Jedi: Fallen Order und Sammler von LEGO Star Wars Sets
 
 [🛒 Hier!!]({{< param buyurl >}})
