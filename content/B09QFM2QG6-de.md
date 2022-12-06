@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinder werden lernen, während sie interaktiv LEGO bauen, ohne an Anleitungen gebunden zu sein - sie können selbst die Figuren auswählen und Tierrettungsmissionen auf dem Bildschirm lösen
-- LEGO City Missionen Spielsets erfordern ein Smartphone oder Tablet mit der kostenlosen LEGO Building Instructions App
 - Mit diesem interaktiven LEGO City Missionen Spielset führen Kinder die digitalen Abenteuer mit LEGO Steinen aus, um Missionen auf dem Bildschirm zu lösen
+- LEGO City Missionen Spielsets erfordern ein Smartphone oder Tablet mit der kostenlosen LEGO Building Instructions App
 - Enthält Rescue Ranger Maya und alle LEGO Teile, die Kinder brauchen, um einen Pickup für ihre Missionen zu bauen und Bauherausforderungen ohne Anleitung zu meistern
+- Kinder werden lernen, während sie interaktiv LEGO bauen, ohne an Anleitungen gebunden zu sein - sie können selbst die Figuren auswählen und Tierrettungsmissionen auf dem Bildschirm lösen
 - Das interaktive LEGO Set enthält als Zubehör eine Bürste, Lupe, Kamera, Siegerpokal, Fernglas, Nuckelflasche und Funkgerät
 - Dieses LEGO Bauset enthält 3 Minifiguren aus der TV-Serie LEGO City - Abenteuer, ein Spielzeug-Krokodil, Pantherjunges, eine Eule, ein Frosch und ein Hase
 

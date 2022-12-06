@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine digitale Anleitung, die in der kostenlosen LEGO App verfügbar ist, macht den Bau auch für die jüngsten Baumeister einfach
+- Die Kinder fahren mit dem Krankenwagen-Spielzeug zu dem kranken Hund und behandeln ihn, dann wird er in das Fahrzeug getragen
 - Das einfach zu bauende Tierrettung-Set enthält die LEGO Friends Minipuppen Stephanie und Ethan, eine Hundfigur und einen Krankenwagen
 - Das LEGO Friends Set für Kinder ab 4 Jahre wurde entwickelt, um Kindern das Bauen beizubringen und der Starterbaustein bietet den Kindern eine solide Basis
-- Die Kinder fahren mit dem Krankenwagen-Spielzeug zu dem kranken Hund und behandeln ihn, dann wird er in das Fahrzeug getragen
 - Der LEGO Friends Tier-Krankenwagen wird mit einer aufklappbaren Hecktür, einer Trage und Tierpflegezubehör geliefert
+- Eine digitale Anleitung, die in der kostenlosen LEGO App verfügbar ist, macht den Bau auch für die jüngsten Baumeister einfach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

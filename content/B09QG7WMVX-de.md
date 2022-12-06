@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set ist ein tolles Geburtstags- oder Überraschungsgeschenk für Kinder, die bereits ein LEGO Super Mario Starterset (71360, 71387 oder 71403) besitzen, das zum Spielen benötigt wird
 - Enthält Himmel aus LEGO Steinen, oranges Pilztrampolin und Zeitblock: Das Pilztrampolin mit Hüpfeffekt katapultiert eine interaktive Figur in die Höhe
-- LEGO Super Mario Sets eignen sich perfekt für Einzel- oder Gruppenspiele, da auch Freunde mit ihrer eigenen LEGO Super Mario Figur dieses Abenteuer gemeinsam erleben können
 - Kinder helfen LEGO Mario, LEGO Luigi oder LEGO Peach (Hinweis: Diese 3 interaktiven Figuren sind nicht enthalten) auf die Enden der beiden Flipper zu stampfen, um die Fuzzys herunterzuwerfen und zu besiegen
+- Das Set ist ein tolles Geburtstags- oder Überraschungsgeschenk für Kinder, die bereits ein LEGO Super Mario Starterset (71360, 71387 oder 71403) besitzen, das zum Spielen benötigt wird
+- LEGO Super Mario Sets eignen sich perfekt für Einzel- oder Gruppenspiele, da auch Freunde mit ihrer eigenen LEGO Super Mario Figur dieses Abenteuer gemeinsam erleben können
 - Kinder können ein faszinierendes Super Mario Level für himmelhohe Sprünge mit dem Erweiterungsset „Fuzzy-Flipper“ gestalten, das 2 Lego Fuzzy-Figuren beinhaltet
 
 [🛒 Hier!!]({{< param buyurl >}})

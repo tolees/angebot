@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geringes Gewicht: Die vielseitig einsetzbare, magnetische Ladestation ist platzsparend (halb so groß wie eine Dose) und versorgt Ihr iPhone und die Kopfhörer schnell und unkompliziert mit Strom.
-- So flexibel wie Sie es brauchen: Öffnen Sie die Handy-Ladefläche bis maximal 60° und befestigen Sie Ihr iPhone horizontal oder vertikal für optimales Sehvergnügen.
-- Doppelte Power: Laden Sie Ihr iPhone 13/12 und die Kopfhörer zeitgleich und kabellos am selben Gerät. Endlich kein Kabelsalat mehr.
 - Multifunktionelle Basis: Die rutschfeste Basis sorgt für einen festen Stand während des Ladevorgangs. Außerdem verfügt sie über eine schlummerfreundliche LED-Anzeige, welche den Ladestatus anzeigt*.
+- So flexibel wie Sie es brauchen: Öffnen Sie die Handy-Ladefläche bis maximal 60° und befestigen Sie Ihr iPhone horizontal oder vertikal für optimales Sehvergnügen.
+- Geringes Gewicht: Die vielseitig einsetzbare, magnetische Ladestation ist platzsparend (halb so groß wie eine Dose) und versorgt Ihr iPhone und die Kopfhörer schnell und unkompliziert mit Strom.
+- Doppelte Power: Laden Sie Ihr iPhone 13/12 und die Kopfhörer zeitgleich und kabellos am selben Gerät. Endlich kein Kabelsalat mehr.
 - WAS DU ERHÄLTST: Anker 623 Magnetic Wireless Charger (MagGo), 20-W-USB-C-Ladegerät, 1,5 m USB-C-auf-USB-C-Ladekabel, Begrüßungsanleitung, 24 Monate sorgenfreie Garantie und freundlicher Kundendienst.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

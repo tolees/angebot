@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das LEGO Star Wars Set ist ein spannendes Geburtstags- oder Weihnachtsgeschenk für Kinder ab 9 Jahren und alle Fans
 - Die Justifier verfügt über ein detailliertes, leicht zugängliches Cockpit und das Hecktriebwerk lässt sich für den Flugmodus hochklappen und wieder herunterklappen, um das Fahrwerk automatisch auszufahren
-- Kinder können im Rollenspiel versuchen, Omega mit Hilfe des Todo 360-Droiden aus der Lasergefängniszelle zu befreien, und sich mit Hunter zusammenschließen, um zu entkommen
 - Fans werden die realistischen Merkmale zu schätzen wissen, wie 2 Thermaldetonatoren, eine Lasergefängniszelle für Omega, Shooter mit Federmechanismus an den Flügelspitzen sowie Munitionsvorräte im Flügel
-- Enthält 4 LEGO Minifiguren: Cad Bane mit 2 Blaster-Pistolen, Omega mit Handschellen, Fennec Shand mit einer Blaster-Pistole und Hunter mit einem Messer, sowie der LEGO Droide Todo 360
 - Enthält ein baubares LEGO Star Wars Spielzeug Raumschiff, 4 LEGO Minifiguren und die LEGO Droid Figur Todo 360, um epische Szenen aus der 2. Staffel von Star Wars: The Bad Batch nachzuspielen
+- Das LEGO Star Wars Set ist ein spannendes Geburtstags- oder Weihnachtsgeschenk für Kinder ab 9 Jahren und alle Fans
+- Enthält 4 LEGO Minifiguren: Cad Bane mit 2 Blaster-Pistolen, Omega mit Handschellen, Fennec Shand mit einer Blaster-Pistole und Hunter mit einem Messer, sowie der LEGO Droide Todo 360
+- Kinder können im Rollenspiel versuchen, Omega mit Hilfe des Todo 360-Droiden aus der Lasergefängniszelle zu befreien, und sich mit Hunter zusammenschließen, um zu entkommen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
