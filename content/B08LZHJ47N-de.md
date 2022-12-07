@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GWCU - Vendetta - Tag der Abrechnung [Blu-ray]'
-date: 2022-12-06 19:33:27
+date: 2022-12-07 19:53:35
 image: 'https://m.media-amazon.com/images/I/51zoU-RvXQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'GWCU'
 buyurl: 'https://www.amazon.de/dp/B08LZHJ47N/?tag=tolees0ca-21'
 descuento: '40.16'
-average: '12.582'
+average: '11.98'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
