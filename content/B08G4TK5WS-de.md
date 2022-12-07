@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42116 Technic Kompaktlader  Bagger - Hot Rod  2-in-1 Set  Kinderspielzeug  Baufahrzeug  Spielzeugauto  Geschenk für Kinder ab 7 Jahre'
-date: 2022-12-04 09:48:27
+date: 2022-12-07 12:38:17
 image: 'https://m.media-amazon.com/images/I/51zt-48+l3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G4TK5WS/?tag=tolees0ca-21'
 descuento: '25.03'
-average: '9.56385135135135'
+average: '9.54993288590604'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dank der Schaufel mit ihren 2 Funktionen und den Rücklichtern am Bagger können Kinder stundenlang kreativ spielen und ihn anschließend zu einem coolen Hot Rod umbauen
-- Enthält ein 2-in-1 Baufahrzeug mit aufklappbarer Fahrerkabine, einer heb- und kippbaren Schaufel, einem Steuerpult und einem Überrollkäfig, das sich in ein Hot Rod umbauen lässt
-- Dieses Spielzeug für Kinder ab 4 Jahren ist das perfekte Geschenk zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass für Fans von LEGO
-- Mit seinen 4 massiven Rädern ist dieser Spielzeug Bagger bereit für den Landschafts- und Straßenbau. Die Schaufel lässt sich anheben und kippen, genau wie bei einem echten Radlader!
-- Inklusive Instructions PLUS in der kostenlosen LEGO Building Instructions App mit Vergrößerungs- und Drehfunktionen, die Kindern beim Bauen helfen.
 - Das Spielzeugauto kann schnell beschleunigen und Straßenrennen fahren, ist aber dank seiner lenkbaren Vorderräder auch für den Einsatz im Gelände geeignet.
+- Enthält ein 2-in-1 Baufahrzeug mit aufklappbarer Fahrerkabine, einer heb- und kippbaren Schaufel, einem Steuerpult und einem Überrollkäfig, das sich in ein Hot Rod umbauen lässt
+- Inklusive Instructions PLUS in der kostenlosen LEGO Building Instructions App mit Vergrößerungs- und Drehfunktionen, die Kindern beim Bauen helfen.
+- Mit seinen 4 massiven Rädern ist dieser Spielzeug Bagger bereit für den Landschafts- und Straßenbau. Die Schaufel lässt sich anheben und kippen, genau wie bei einem echten Radlader!
+- Dieses Spielzeug für Kinder ab 4 Jahren ist das perfekte Geschenk zum Geburtstag, zu Weihnachten oder zu jedem anderen Anlass für Fans von LEGO
 
 [🛒 Hier!!]({{< param buyurl >}})

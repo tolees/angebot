@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60332 City Stuntz Skorpion-Stuntbike  Set mit Motorrad und Minifigur  Action-Spielzeug als Geschenk für Kinder ab 5 Jahre'
-date: 2022-12-06 12:06:35
+date: 2022-12-07 12:54:39
 image: 'https://m.media-amazon.com/images/I/51vJ+3FJt7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
