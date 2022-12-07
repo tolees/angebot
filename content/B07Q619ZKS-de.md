@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - SICHERHEITSHINWEIS: Der OOONO CO-DRIVER Verkehrsalarm soll Deine Sicherheit im Straßenverkehr erhöhen. Bitte achte auf die geltenden Verkehrsregeln und Bestimmungen der StVO. Die Nutzung von Gefahrenwarnern erfolgt auf eigene Verantwortung.
-- WARNUNG VOR TAUSENDEN BLITZERN und Gefahrenstellen in Europa, Dank der großen OOONO Community und Blitzer.de - einem der größten Netzwerke der Welt. Keine Abo-Gebühren oder App-Kosten.
-- DEIN CO-DRIVER FÜR AKTUELLEN WARNUNGEN IN ECHTZEIT – mit akustischen und visuellen Signalen, die Dich nicht vom Verkehr ablenken. Kann von mehreren Familienmitgliedern verwendet werden und lässt sich problemlos mit mehreren Smartphones verbinden.
-- AKTIVIERT SICH AUTOMATISCH, wenn Du Dein Handy bei Dir trägst und sich Dein Wagen in Bewegung setzt. Handy oder App müssen nicht aktiviert werden. So kannst Du das Einschalten der Blitzer-App nicht mehr vergessen.
 - SPART AKKU UND DATENVOLUMEN im Vergleich zur Blitzer.de App. Batteriebetrieben durch eine CR2450-Standardbatterie, welche nach ca. 30.000 km. problemlos gewechselt werden kann.
+- DEIN CO-DRIVER FÜR AKTUELLEN WARNUNGEN IN ECHTZEIT – mit akustischen und visuellen Signalen, die Dich nicht vom Verkehr ablenken. Kann von mehreren Familienmitgliedern verwendet werden und lässt sich problemlos mit mehreren Smartphones verbinden.
+- WARNUNG VOR TAUSENDEN BLITZERN und Gefahrenstellen in Europa, Dank der großen OOONO Community und Blitzer.de - einem der größten Netzwerke der Welt. Keine Abo-Gebühren oder App-Kosten.
+- AKTIVIERT SICH AUTOMATISCH, wenn Du Dein Handy bei Dir trägst und sich Dein Wagen in Bewegung setzt. Handy oder App müssen nicht aktiviert werden. So kannst Du das Einschalten der Blitzer-App nicht mehr vergessen.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dieses LEGO Technic Umschlagbagger-Modell verfügt über manuelle und pneumatische Funktionen, mit denen Kinder erkunden und lernen können, wie dieses mächtige Fahrzeug tatsächlich funktioniert
-- Dieses Baufahrzeugspielzeug mit jeder Menge Funktionen ist ein tolles Geschenk für junge Fans von LEGO Technic und auch für alle, die nach einem anspruchsvolleren LEGO Baumodell suchen
-- Zu den Pneumatikfunktionen des Kranspielzeugs gehören ein beweglicher Ausleger mit einer imposanten Reichweite von ungefähr 35 cm und eine klassische Greifklaue, die sich öffnet und schließt
-- Das LEGO Technic Bauset stellt die Bewegungen und die Mechanik vom Modellkran realistisch dar, um jungen LEGO Baumeistern die Welt der Technik näherzubringen
 - Handbetätigte Funktionen vom mechanischen Spielzeug sind ein um 360 Grad drehbarer Oberarm, eine hochfahrbare Kabine sowie ein lenkbarer Unterwagen und 4 Stützfüße.
+- Das LEGO Technic Bauset stellt die Bewegungen und die Mechanik vom Modellkran realistisch dar, um jungen LEGO Baumeistern die Welt der Technik näherzubringen
+- Zu den Pneumatikfunktionen des Kranspielzeugs gehören ein beweglicher Ausleger mit einer imposanten Reichweite von ungefähr 35 cm und eine klassische Greifklaue, die sich öffnet und schließt
+- Dieses Baufahrzeugspielzeug mit jeder Menge Funktionen ist ein tolles Geschenk für junge Fans von LEGO Technic und auch für alle, die nach einem anspruchsvolleren LEGO Baumodell suchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
