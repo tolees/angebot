@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS RP-AX56 AiMesh Repeater  WiFi-6 AX1800  1x Gigabit LAN  externe Antennen  App Steuerung   AX1800  bis zu 150m² '
-date: 2022-12-02 11:01:08
+date: 2022-12-08 09:17:23
 image: 'https://m.media-amazon.com/images/I/31T-FW4B7rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08L9PNJSG-de ASUS RP-AX56 AiMesh Repeater WiFi-6 AX1800 1x Gigabit LAN...'
 sku: 'B08L9PNJSG-de'
 tags: [ 'Computer & Zubehör','Netzwerkgeräte','Router','asus','🇩🇪', ]
-actualPrice: 83.61 EUR
+actualPrice: 81.78 EUR
 currency: EUR
-price: 83.61
+price: 81.78
 comparePrice: 114.95 EUR
 prodname: 'ASUS RP-AX56 AiMesh Repeater  WiFi-6 AX1800  1x Gigabit LAN  externe Antennen  App Steuerung   AX1800  bis zu 150m² '
 country: 'de'
 flag: '🇩🇪'
 brand: 'ASUS'
 buyurl: 'https://www.amazon.de/dp/B08L9PNJSG/?tag=tolees0ca-21'
-descuento: '27.26'
-average: '88.2216326530611'
+descuento: '28.86'
+average: '88.0927999999999'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Nahtlose Erweiterung mit dem AiMesh-WLAN-System – Erweitern Sie Ihr vorhandenes AiMesh-Netzwerk, um Ihr gesamtes Haus mit leistungsstarkem, nahtlosem WLAN und den zuverlässigen Funktionen des AiMesh-Routers auszustatten
+- Ein Name für Ihr WLAN oder mehrere, Sie haben die Wahl – Bei der Erweiterung eines AiMesh-Netzwerks können Sie einen WLAN-Namen (SSID) für das gesamte Netzwerk beibehalten oder jedem Frequenzband einen individuellen Namen für verschiedene Verwendungszwecke geben
+- WiFi-Standard der nächsten Generation – Unterstützung für den neuesten WiFi-Standard 802.11AX (WiFi 6) und 80MHz Bandbreite für eine höhere Kapazität und Effizienz
 - Einfache Einrichtung mit der Mobile App – mit der ASUS-Router-App und der ASUS-Extender-App ist das Upgrade Ihres Heim-WLANs mit wenigen Fingertipps erledigt
 - Ultraschnelles WLAN – Der RP-AX56 unterstützt eine Bandbreite von 80MHz und 1024-QAM für deutlich schnellere WLAN-Verbindungen. Mit einer Gesamt-Netzwerkgeschwindigkeit von etwa 1.800Mbit/s – 574Mbit/s im 2,4GHz-Band und 1.201Mbit/s im 5GHz-Band
-- Nahtlose Erweiterung mit dem AiMesh-WLAN-System – Erweitern Sie Ihr vorhandenes AiMesh-Netzwerk, um Ihr gesamtes Haus mit leistungsstarkem, nahtlosem WLAN und den zuverlässigen Funktionen des AiMesh-Routers auszustatten
-- WiFi-Standard der nächsten Generation – Unterstützung für den neuesten WiFi-Standard 802.11AX (WiFi 6) und 80MHz Bandbreite für eine höhere Kapazität und Effizienz
-- Ein Name für Ihr WLAN oder mehrere, Sie haben die Wahl – Bei der Erweiterung eines AiMesh-Netzwerks können Sie einen WLAN-Namen (SSID) für das gesamte Netzwerk beibehalten oder jedem Frequenzband einen individuellen Namen für verschiedene Verwendungszwecke geben
 
 [🛒 Hier!!]({{< param buyurl >}})
