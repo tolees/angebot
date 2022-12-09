@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Wifi — Mesh-Router  3er-Pack  für eine zuverlässige Verbindung  Abdeckung bis zu 85 m² pro Punkt'
-date: 2022-12-08 17:02:39
+date: 2022-12-09 18:47:18
 image: 'https://m.media-amazon.com/images/I/21IgSa85GmS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Google'
 buyurl: 'https://www.amazon.de/dp/B096L1JXR7/?tag=tolees0ca-21'
 descuento: '20.50'
-average: '159.793052631581'
+average: '159.784791666669'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
