@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEGO Technic Sets stellen die Bewegungen und die Mechanik der Modelle realistisch dar, um jungen LEGO Baumeistern die Welt der Technik mit Spielzeugfahrzeugen näherzubringen
-- Zu den manuellen Funktionen gehören die Taumelscheibe zur Blattverstellung, eine Cockpittür, Schiebetüren sowie aufklappbare Front- und Heckverkleidungen, durch die man sich die Steuermechanik ansehen kann
 - Zu den motorisierten Funktionen vom Konstruktionsspielzeug gehören Haupt- und Heckrotor (mit niedriger oder hoher Rotordrehzahl), ein einziehbares Fahrwerk, Seilwinde und ein Triebwerk, die vom enthaltenen Motor angetrieben werden
 - Modellbaukasten enthält ein Such- und Rettungshubschrauber-Spielzeugmodell Set mit motorisierten und manuellen Funktionen, das neugierigen Kindern hilft, die Funktionsweise eines Hubschraubers zu erkunden und zu lernen
 - Für diesen batteriegetriebenen Spielzeughubschrauber werden sechs 1,5-V-LR6-Batterien benötigt (nicht im Set enthalten); der Modellhubschrauberbausatz beinhaltet einen Motor
+- LEGO Technic Sets stellen die Bewegungen und die Mechanik der Modelle realistisch dar, um jungen LEGO Baumeistern die Welt der Technik mit Spielzeugfahrzeugen näherzubringen
+- Zu den manuellen Funktionen gehören die Taumelscheibe zur Blattverstellung, eine Cockpittür, Schiebetüren sowie aufklappbare Front- und Heckverkleidungen, durch die man sich die Steuermechanik ansehen kann
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

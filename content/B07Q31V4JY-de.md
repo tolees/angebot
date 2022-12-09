@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Material: PP, TPR - Er ist spülmaschinengeeignet und recycelbar
+- Kollektion: Kitchen Active Design - Designer: Spalvieri & Del Ciotto
+- Made in Italy
 - Abmessungen: 19,5 x 19,5 x h9,3 cm | Kapazität: 450/975/1900 cc
 - Farbdetails: Verschiedene Farben
-- Kollektion: Kitchen Active Design - Designer: Spalvieri & Del Ciotto
-- Material: PP, TPR - Er ist spülmaschinengeeignet und recycelbar
-- Made in Italy
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
