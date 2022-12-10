@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das säurefreie, elfenbeinfarbene Papier ist ideal, um den verschiedenen kreativen Bedürfnissen gerecht zu werden und sich an alle Schreibwerkzeuge anzupassen
-- Diese Version des klassischen schwarzen Moleskine Notizbuchs verfügt über 400 Seiten und 2 Lesezeichen. Machen Sie Notizen, erstellen Sie To-Do-Listen und haken Sie alle Ihre täglichen Aufgaben ab
 - Klassisches Notizbuch mit farbigem Einband, abgerundeten Ecken und Blanko Seiten, mit Möglichkeit zum Notieren der Kontaktdaten, im Falle eines Verlustes
 - Klassisches Design mit Hardcover und elastischem Verschluss. Das passende Lesezeichen bringt Sie jedes Mal direkt auf die richtige Seite. Erweiterbare Innentasche zur Aufbewahrung von Tickets
 - Liegt flach auf und öffnet bis zu 180°. Wiederverwendbares Lesezeichen, auf dem individuell Notizen vermerkt werden können. Die Geschichte von Moleskine ist in allen unseren Produkten enthalten
+- Diese Version des klassischen schwarzen Moleskine Notizbuchs verfügt über 400 Seiten und 2 Lesezeichen. Machen Sie Notizen, erstellen Sie To-Do-Listen und haken Sie alle Ihre täglichen Aufgaben ab
 
 [🛒 Hier!!]({{< param buyurl >}})

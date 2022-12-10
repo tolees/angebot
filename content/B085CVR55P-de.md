@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STÄRKE: Köstliche Arabica-Robusta-Mischung mit leckerem Milchschaum in einer Tassengröße von 220 ml lange und intensiv genießen
 - GESELLIG: Ob im Büro mit Kollegen oder zu Hause mit Freunden, unser leckerer Latte Macchiato Caramel ist immer ein Genuss morgens, mittags und abends
-- SCHNELL: Einfache und schnelle Zubereitung für den persönlichen Coffee-Shop-Genuss zu Hause mit über 30 verschiedenen leckeren Sorten
 - MACCHIATO: Eine Kombination aus drei Schichten, mit zartem Milchschaum, kräftigem Espresso und Milch mit einer Caramel-Note, für den idealen Kaffee-Genuss
+- SCHNELL: Einfache und schnelle Zubereitung für den persönlichen Coffee-Shop-Genuss zu Hause mit über 30 verschiedenen leckeren Sorten
+- STÄRKE: Köstliche Arabica-Robusta-Mischung mit leckerem Milchschaum in einer Tassengröße von 220 ml lange und intensiv genießen
 - CARAMEL: Aromatisch, kräftiger Espresso und feiner Milchschaum mit Karamell Aroma machen unseren Latte Macchiato Caramel zu einem echten Genuss
 
 [🛒 Hier!!]({{< param buyurl >}})

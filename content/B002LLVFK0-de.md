@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Self-contained Wetter Überwachungssystem umfasst Integrated Sensor Suite (ISS), LCD-Konsole, und Montagematerial (Standrohr separat erhältlich)
-- Console features an easy-to-read, backlit 3 by 4.375-inch LCD display with a glow-in-the-dark keypad
-- Wireless transmission from ISS to console of up to 1,000 feet with fast updates every 2.5 seconds
-- Console beinhaltet Wettervorhersage Symbolen, Mondphase, Sonnenaufgang / Sonnenuntergang Zeiten Grafikrechner von Wetter Trends, Alarme und mehr
 - Berichte aktuelle Wetter, einschließlich der Innen-und Außentemperatur, Luftfeuchtigkeit, Luftdruck, Windgeschwindigkeit und-richtung, Taupunkt, und Niederschläge
+- Self-contained Wetter Überwachungssystem umfasst Integrated Sensor Suite (ISS), LCD-Konsole, und Montagematerial (Standrohr separat erhältlich)
+- Console beinhaltet Wettervorhersage Symbolen, Mondphase, Sonnenaufgang / Sonnenuntergang Zeiten Grafikrechner von Wetter Trends, Alarme und mehr
+- Wireless transmission from ISS to console of up to 1,000 feet with fast updates every 2.5 seconds
+- Console features an easy-to-read, backlit 3 by 4.375-inch LCD display with a glow-in-the-dark keypad
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
