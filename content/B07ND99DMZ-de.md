@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set enthält 8 Figuren: Die männliche Minifigur Jack Davids und die weibliche Minifigur Parker L. Jackson mit Smartphone, Douglas Elton, Rose Davids, Direktorin und Schüler, Jacks Geisterhund
 - Das Schulspielzeug bietet viele Möglichkeiten für den Spielstart. Darunter eine versteckte Kammer, eine Bushaltestelle, einen Computerraum, eine Bibliothek, ein Badezimmer, einen Chemie-Raum
+- Kinder können die LEGO Hidden Side App herunterladen und ihre Smartphones auf Newbury’s spukende Schule richten, um das Schulset zum Leben zu erwecken.
 - Baue die physischen Sets und erwecke sie während des Spiels mithilfe der App zum Leben.
 - LEGO Hidden Side spielt in der fiktiven Stadt Newbury, in der Menschen und Häuser von Geistern besessen sind. Kinder können mit dem Spielset aufregende Geisterjagd-Abenteuer erleben
-- Kinder können die LEGO Hidden Side App herunterladen und ihre Smartphones auf Newbury’s spukende Schule richten, um das Schulset zum Leben zu erwecken.
+- Das Set enthält 8 Figuren: Die männliche Minifigur Jack Davids und die weibliche Minifigur Parker L. Jackson mit Smartphone, Douglas Elton, Rose Davids, Direktorin und Schüler, Jacks Geisterhund
 
 [🛒 Hier!!]({{< param buyurl >}})
