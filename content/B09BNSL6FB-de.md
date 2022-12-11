@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31125 Creator 3-in-1 Wald-Fabelwesen: Hase - Eule - Eichhörnchen  Set mit Tierfiguren zum Bauen  Spielzeug ab 7 Jahre'
-date: 2022-12-09 17:50:42
+date: 2022-12-11 18:10:17
 image: 'https://m.media-amazon.com/images/I/51CRoWIs2vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNSL6FB/?tag=tolees0ca-21'
 descuento: '26.68'
-average: '10.532564102564'
+average: '10.5439999999999'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
