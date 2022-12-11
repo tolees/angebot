@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WR: 10 bar
-- Um die Umwelt zu schonen, ändert Citizen derzeit die Darstellung der Betriebsanleitung. Anstelle einer gedruckten Version wird eine neue digitale Version mit einem QR-Code erstellt.
+- Eco-Drive, umweltfreundlich, nie mehr Batterie wechseln
 - Gangreserve: 270 Tage
 - Edelstahl
-- Eco-Drive, umweltfreundlich, nie mehr Batterie wechseln
+- WR: 10 bar
 - Chronograph
+- Um die Umwelt zu schonen, ändert Citizen derzeit die Darstellung der Betriebsanleitung. Anstelle einer gedruckten Version wird eine neue digitale Version mit einem QR-Code erstellt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
