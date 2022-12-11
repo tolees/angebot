@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das LEGO NINJAGO Legacy Spielset „X-1 Ninja Supercar“ (71737) ist 2-in-1-Modell mit Shooter und integriertem Motorrad, das Kindern unzählige Spielmöglichkeiten eröffnet
-- Das beeindruckende Spielset enthält fünf Minifiguren: die Ninja Kai, Jay und Cole Legacy sowie einen Nindroid und einen Mindroid aus der 3. Staffel der TV-Serie. Mit ihrer coolen Ausrüstung sind sie ständig einsatzbereit
 - Auf Knopfdruck schießt ein Motorrad mit Ninja-Minifigur auf dem Sattel aus dem X-1 Ninja Supercar hervor
-- Dieses Ninja-Spielset vermittelt Kindern ab 8 Jahren ein vergnügliches Bauerlebnis und sorgt als Geburtstags- oder Weihnachtsgeschenk für Begeisterung
 - Das Auto mit Shooter ist 7 cm hoch, 23 cm lang und 11 cm breit. Das ist die ideale Größe, um es auch mitnehmen und unterwegs damit spielen zu können
 - Weitere goldene Minifiguren finden Sie in den anderen NINJAGO Sets Turnier der Elemente (71735), Coles Felsenbrecher (71736) und Zanes Titan-Mech (71738)
 - Enthält Cole Legacy als goldene Minifigur zum Sammeln auf einem kleinen Ständer zur Feier des 10-jährigen Jubiläums der NINJAGO Spielzeuge
+- Dieses Ninja-Spielset vermittelt Kindern ab 8 Jahren ein vergnügliches Bauerlebnis und sorgt als Geburtstags- oder Weihnachtsgeschenk für Begeisterung
+- Das beeindruckende Spielset enthält fünf Minifiguren: die Ninja Kai, Jay und Cole Legacy sowie einen Nindroid und einen Mindroid aus der 3. Staffel der TV-Serie. Mit ihrer coolen Ausrüstung sind sie ständig einsatzbereit
+- Das LEGO NINJAGO Legacy Spielset „X-1 Ninja Supercar“ (71737) ist 2-in-1-Modell mit Shooter und integriertem Motorrad, das Kindern unzählige Spielmöglichkeiten eröffnet
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set ist ein tolles festliches Geschenk zu Weihnachten, zum Geburtstag oder für jederzeit für kleine Fans ab 9 Jahren – es kann mit anderen LEGO Avatar Sets (separat erhältlich) kombiniert werden, um eine einzigartige Version von Pandora zu erstellen
-- Dieses Action-Spielzeug Set enthält 2 LEGO Minifiguren: Neytiri, der eine Armbrust trägt, und Oberst Miles Quaritch mit seinem MPA-Anzug, mit einer abnehmbaren Kettensäge und einem Messer in den Händen
-- Dieses LEGO Avatar Spielzeug zum Bauen ist für soziales Engagement konzipiert; Es wird mit 3 Bauanleitungen geliefert, damit Freunde oder Familie verschiedene Teile des Sets gemeinsam bauen können
-- Kinder können ein dynamisches Display mit Neytiri und dem Thanator aufbauen, der posiert, um auf den Colonel im MPA-Anzug zu springen; Die farbenfrohe Pandora Filmszene mit im Dunkeln leuchtenden Elementen wird in jedem Kinderzimmer toll aussehen
-- Kinder können die Neytiri-Minifigur auf der Rückseite der voll beweglichen Thanator-Tierfigur platzieren; dann kann sie durch den Regenwald fliegen und gegen den Oberst kämpfen, mit dem Ziel, das Schicksal von Pandora zu entscheiden
 - Kinder und Avatar-Fans können das Filmerlebnis mit diesem vielseitigen baubaren Spielzeug nacherleben, das 2 Minifiguren, eine Thanator-Tierfigur, eine MPA-Anzug-Actionfigur und eine Pandora-Regenwaldkulisse enthält
+- Das Set ist ein tolles festliches Geschenk zu Weihnachten, zum Geburtstag oder für jederzeit für kleine Fans ab 9 Jahren – es kann mit anderen LEGO Avatar Sets (separat erhältlich) kombiniert werden, um eine einzigartige Version von Pandora zu erstellen
+- Kinder können ein dynamisches Display mit Neytiri und dem Thanator aufbauen, der posiert, um auf den Colonel im MPA-Anzug zu springen; Die farbenfrohe Pandora Filmszene mit im Dunkeln leuchtenden Elementen wird in jedem Kinderzimmer toll aussehen
+- Dieses LEGO Avatar Spielzeug zum Bauen ist für soziales Engagement konzipiert; Es wird mit 3 Bauanleitungen geliefert, damit Freunde oder Familie verschiedene Teile des Sets gemeinsam bauen können
+- Kinder können die Neytiri-Minifigur auf der Rückseite der voll beweglichen Thanator-Tierfigur platzieren; dann kann sie durch den Regenwald fliegen und gegen den Oberst kämpfen, mit dem Ziel, das Schicksal von Pandora zu entscheiden
+- Dieses Action-Spielzeug Set enthält 2 LEGO Minifiguren: Neytiri, der eine Armbrust trägt, und Oberst Miles Quaritch mit seinem MPA-Anzug, mit einer abnehmbaren Kettensäge und einem Messer in den Händen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
