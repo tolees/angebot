@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kindersicherung: verwalten sie, wann und wie verbundene Geräte auf das Internet zugreifen können
 - IPv6: kompatibel mit IPv6 (Internet Protocol Version 6) WPS-Taste: Einfache drahtlose Sicherheitsverschlüsselung auf Knopfdruck
-- IPTV: unterstützt IGMP Proxy/Snooping, Bridge und Tag VLAN zur Optimierung des IPTV-Streamings
 - Leistung: 300 Mbit/s WLAN-Geschwindigkeit, ideal für unterbrechungsempfindliche Anwendungen wie HD-Video-Streaming
 - Gastnetzwerk: bietet separaten Zugang für Gäste und sichert gleichzeitig das Heimnetzwerk
-- Kein Modem integriert: TL-WR841N ist ein WLAN-Router und unterstützt keine DSL-Funktion, ist aber kompatibel mit Telekom- und AVM-Modems
+- Kindersicherung: verwalten sie, wann und wie verbundene Geräte auf das Internet zugreifen können
+- IPTV: unterstützt IGMP Proxy/Snooping, Bridge und Tag VLAN zur Optimierung des IPTV-Streamings
 - Bandbreitenkontrolle: weist Ihren bevorzugten Geräten mehr Bandbreite zu
+- Kein Modem integriert: TL-WR841N ist ein WLAN-Router und unterstützt keine DSL-Funktion, ist aber kompatibel mit Telekom- und AVM-Modems
 
 [🛒 Hier!!]({{< param buyurl >}})
