@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Effizienter und langlebiger Fluter für außen mit superhellen Everlight SMD-LEDs lässt sich zudem über Sprache steuern, dank der Kompatibilität mit den Sprachassistenten Alexa und Google Assistant
-- Smarter LED Strahler für außen mit Bewegungsmelder (Reichweite bis 12m, Erfassungswinkel 120°) kann dank verbautem WIFI Modul (2,4 GHz) über die kostenfreie Brennenstuhl Connect App gesteuert werden
-- Steuerung diverser Lichtfunktionen über App: Stufenlose Einstellung der Leuchtstärke und Lichttemperatur (von kaltweiß bis warmweiß), Timer und Countdown, Event Records, programmiertes Nachleuchten
-- Leistungsstarker WLAN Außenstrahler 30 W eignet sich ideal zur automatischen Ausleuchtung von Eingangsbereichen, Einfahrten oder Carports sowie zur Abschreckung vor Einbruch und Diebstahl
 - Hinweis: Während des Installations- oder Lernvorgangs sollte das 5-GHz-WLAN-Netzwerk ausgeschaltet sein. Nach erfolgreicher Installation bzw. Lernprozess kann das 5 GHz WLAN Netzwerk wieder aktiviert werden
+- Steuerung diverser Lichtfunktionen über App: Stufenlose Einstellung der Leuchtstärke und Lichttemperatur (von kaltweiß bis warmweiß), Timer und Countdown, Event Records, programmiertes Nachleuchten
+- Effizienter und langlebiger Fluter für außen mit superhellen Everlight SMD-LEDs lässt sich zudem über Sprache steuern, dank der Kompatibilität mit den Sprachassistenten Alexa und Google Assistant
 - Lieferumfang: 1x WLAN Wandstrahler mit Bewegungsmelder WFD 3050 P inklusive Montagematerial für eine einfache und schnelle Inbetriebnahme - in bester Qualität von brennenstuhl
+- Smarter LED Strahler für außen mit Bewegungsmelder (Reichweite bis 12m, Erfassungswinkel 120°) kann dank verbautem WIFI Modul (2,4 GHz) über die kostenfreie Brennenstuhl Connect App gesteuert werden
+- Leistungsstarker WLAN Außenstrahler 30 W eignet sich ideal zur automatischen Ausleuchtung von Eingangsbereichen, Einfahrten oder Carports sowie zur Abschreckung vor Einbruch und Diebstahl
 
 [🛒 Hier!!]({{< param buyurl >}})
