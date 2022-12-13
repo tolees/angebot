@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEGO City Stuntz Kinderspielzeug ab 5 Jahren mit einem Spielzeug-Motorrad und der LEGO Rennfahrerin-Minifigur Scorpion Luchadora
 - Das Stuntbike kann mit anderen Sets aus der LEGO City Stuntz Kollektion kombiniert werden: Hindernis-Stuntchallenge (60340)
+- Das Action-Spielzeug enthält ein Motorrad im Retro-Look sowie die LEGO Rennfahrerin-Minifigur Scorpion Luchadora mit einem coolen Zopfhelm
 - Lass Kindern ab 5 Jahren, die Freude am Bauen zu entdecken; dieses LEGO City Set enthält eine bebilderte Anleitung
 - Kinder können das Schwungrad des LEGO Stunt Motorrad aktivieren, um Kunststücke und Rückwärtssaltos vorzuführen
-- Das Action-Spielzeug enthält ein Motorrad im Retro-Look sowie die LEGO Rennfahrerin-Minifigur Scorpion Luchadora mit einem coolen Zopfhelm
+- LEGO City Stuntz Kinderspielzeug ab 5 Jahren mit einem Spielzeug-Motorrad und der LEGO Rennfahrerin-Minifigur Scorpion Luchadora
 
 [🛒 Hier!!]({{< param buyurl >}})
