@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - FIFA 23 Standard Edition XBOX ONE | Deutsch'
-date: 2022-12-12 18:02:07
+date: 2022-12-13 18:17:17
 image: 'https://m.media-amazon.com/images/I/51jK1-b0oyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gameplay - Eine neue Vorteils/Nachteils-Schussmechanik, überarbeitete Freistöße, Elfmeter und Ecken und eine noch realistischere Physik bilden die gesamte Vielfalt des Fußballs in The Worlds Game ab.
 - FIFA World Cup - Erlebe mit dem FIFA World Cup 2022 in Katar und dem FIFA Womens World Cup 2023 in Australien und Neuseeland die absoluten Highlights des internationalen Fußballs. Mehr Infos folgen im Vorfeld des jeweiligen Turniers.
 - Frauenfußball - Spiele zum ersten Mal in der Geschichte von EA SPORTS FIFA mit Frauen-Vereinsteams. Die Barclays FA Womens Super League und die Division 1 Arkema sind zum Start in FIFA 23 verfügbar.
-- FIFA 23 Ultimate Team - Die FUT Moments und das überarbeitete Chemie-System geben dir eine völlig neue Variante für das Gameplay und den Aufbau deiner Wunschmannschaft. Außerdem bietet der populärste Spielmodus neue ICONs und FUT Heroes.
 - Cross-Play - Spiele gemeinsam mit Freundinnen und Freunden auf verschiedenen Plattformen. FIFA 23 präsentiert Cross-Play in diversen 1-gegen-1-Modi von FIFA Ultimate Team, Online-Saisons, Online-Freundschaftsspielen und mehr.
+- Gameplay - Eine neue Vorteils/Nachteils-Schussmechanik, überarbeitete Freistöße, Elfmeter und Ecken und eine noch realistischere Physik bilden die gesamte Vielfalt des Fußballs in The Worlds Game ab.
+- FIFA 23 Ultimate Team - Die FUT Moments und das überarbeitete Chemie-System geben dir eine völlig neue Variante für das Gameplay und den Aufbau deiner Wunschmannschaft. Außerdem bietet der populärste Spielmodus neue ICONs und FUT Heroes.
 
 [🛒 Hier!!]({{< param buyurl >}})
