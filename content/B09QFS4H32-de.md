@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Gemüsebeet hat eine Funktion zum Wachsen der Karotten und LEGO Lebensmittel-Zubehörteile für fantasievolle Rollenspiele
-- Begleite die LEGO City Minifigur Horace und 2 weitere Minifiguren bei der Arbeit auf dem Bauernhof und fahre dann mit dem LEGO Food Truck
 - Der Spielzeug-Wagen verfügt über eine Durchreiche, aufklappbare Türen, Hecktüren und eine Minifigur-Kabine
-- Zum Zubehör des Bauernhofs gehören eine Spielzeuggießkanne, eine Schaufel, eine Heugabel, ein Fass und verschiedenes Obst und Gemüse
 - Dieses Bauernhof Spielzeug für Kinder enthält einen mobilen Hofladen, ein Obst- und Gemüsebeet, 3 Minifiguren, ein Hase und jede Menge Zubehör
+- Zum Zubehör des Bauernhofs gehören eine Spielzeuggießkanne, eine Schaufel, eine Heugabel, ein Fass und verschiedenes Obst und Gemüse
+- Begleite die LEGO City Minifigur Horace und 2 weitere Minifiguren bei der Arbeit auf dem Bauernhof und fahre dann mit dem LEGO Food Truck
+- Das Gemüsebeet hat eine Funktion zum Wachsen der Karotten und LEGO Lebensmittel-Zubehörteile für fantasievolle Rollenspiele
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
