@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link RE305 AC1200 WLAN Repeater  Dual WLAN AC+N  1167 Mbit/s  App Steuerung  1 Port  2x flexible externe Antennen  WPS  AP Modus  kompatibel zu allen WLAN Geräten  weiß'
-date: 2022-12-13 14:15:58
+date: 2022-12-15 02:09:53
 image: 'https://m.media-amazon.com/images/I/41T1Y71SX5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B01MD1SKLL/?tag=tolees0ca-21'
 descuento: '17.70'
-average: '31.5'
+average: '30.9'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 【Universelle Kompatibilität und einfache Installation】Kompatibel mit allen Internetboxen und WLAN-Routern. Installieren Sie den Extender über die Tether-App (kostenlose App für iOS/Android)
-- 【Hochgeschwindigkeits-WLAN-Repeater】 Genießen Sie schnelles WLAN mit bis zu 1200 Mbit/s (867 Mbit/s bei 5 GHz, 300 Mbit/s bei 2,4 GHz), ideal für 4K-Streaming und Online-Gaming
-- 【Einfache One-Touch-Einrichtung】 Drücken Sie die WPS-Taste an Ihrer Internetbox (Router) und die WPS-Taste an Ihrem Repeater, um Ihre WLAN-Abdeckung in Sekunden zu erweitern
-- 【Erweitern Sie Ihre Reichweite】 Der RE305 WLAN-Repeater erweitert die WLAN-Abdeckung auf bis zu 120 m² und verbindet bis zu 18 Geräte wie Smartphones, Tablets, PCs usw
-- 【Ethernet-Port】Mit seinem 10/100M-Ethernet-Port kann der RE305 kabelgebundene Geräte wie Desktop-Computer, Spielkonsolen oder Streaming-Player usw. verbinden
 - 【Zugangspunktmodus】 Verbinden Sie Ihre kabelgebundene Internetverbindung über ein Ethernet-Kabel mit dem RE305, um ihn in einen Dualband-WLAN-Zugangspunkt zu verwandeln
+- 【Ethernet-Port】Mit seinem 10/100M-Ethernet-Port kann der RE305 kabelgebundene Geräte wie Desktop-Computer, Spielkonsolen oder Streaming-Player usw. verbinden
+- 【Einfache One-Touch-Einrichtung】 Drücken Sie die WPS-Taste an Ihrer Internetbox (Router) und die WPS-Taste an Ihrem Repeater, um Ihre WLAN-Abdeckung in Sekunden zu erweitern
+- 【Hochgeschwindigkeits-WLAN-Repeater】 Genießen Sie schnelles WLAN mit bis zu 1200 Mbit/s (867 Mbit/s bei 5 GHz, 300 Mbit/s bei 2,4 GHz), ideal für 4K-Streaming und Online-Gaming
 - Hinweis: Der Extender kann keine Verbindung zu Host-Netzwerken herstellen. Bitte gehen Sie zu Einstellungen > Drahtlos > Netzwerkverbindung, um die Passwörter der Hostnetzwerke zu überprüfen
+- 【Erweitern Sie Ihre Reichweite】 Der RE305 WLAN-Repeater erweitert die WLAN-Abdeckung auf bis zu 120 m² und verbindet bis zu 18 Geräte wie Smartphones, Tablets, PCs usw
 
 [🛒 Hier!!]({{< param buyurl >}})
