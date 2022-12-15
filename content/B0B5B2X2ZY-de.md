@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dem interaktiven Farbdisplay können Sie zwischen den Putzprogrammen wählen und werden an den Bürstenkopfwechsel erinnert - es begrüßt Sie beim Einschalten und schenkt Ihnen ein Lächeln für gute Putzleistung
-- 7 Putzprogramme für ein persönliches Putzerlebnis: Tägliche Reinigung, Sensitiv, Zahnfleischschutz, Intensive Reinigung, Aufhellen, Super Sensitiv, Zungenreinigung
-- Die Plus Edition mit 3 Aufsteckbürsten inkl. 1 Whitening Aufsteckbürste; nachhaltigerer Versand durch die unbedruckte FSC-zertifizierte Kartonverpackung aus verantwortungsvoller Waldwirtschaft
-- 3D Zahn-Tracking mit künstlicher Intelligenz, um Ihr Putzverhalten auf der Außenseite, Innenseite und Kaufläche zu verfolgen - für eine optimale Reinigung
 - Die revolutionäre iO-Technologie kombiniert den einzigartigen runden Bürstenkopf von Oral-B mit sanften Mikrovibrationen für ein frisches, sauberes Mundgefühl und 100% gesünderes Zahnfleisch in einer Woche ggü. einer Handzahnbürste; mit Magnet-Technologie
+- 7 Putzprogramme für ein persönliches Putzerlebnis: Tägliche Reinigung, Sensitiv, Zahnfleischschutz, Intensive Reinigung, Aufhellen, Super Sensitiv, Zungenreinigung
+- 3D Zahn-Tracking mit künstlicher Intelligenz, um Ihr Putzverhalten auf der Außenseite, Innenseite und Kaufläche zu verfolgen - für eine optimale Reinigung
+- Die Plus Edition mit 3 Aufsteckbürsten inkl. 1 Whitening Aufsteckbürste; nachhaltigerer Versand durch die unbedruckte FSC-zertifizierte Kartonverpackung aus verantwortungsvoller Waldwirtschaft
+- Mit dem interaktiven Farbdisplay können Sie zwischen den Putzprogrammen wählen und werden an den Bürstenkopfwechsel erinnert - es begrüßt Sie beim Einschalten und schenkt Ihnen ein Lächeln für gute Putzleistung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

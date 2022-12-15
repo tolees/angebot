@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inklusive 2 Minifiguren, einer Hundefigur und viel tollem Zubehör, darunter ein Eis am Stiel, eine Waffel, ein Schutzhelm und ein grüner Geldschein
-- Die Kinder können beim Fahren des Eiswagens helfen, Eiswaffeln und Eis am Stiel servieren und den Skateboarder coole Tricks vorführen lassen
 - Mit diesem LEGO City Eiswagen-Spielzeug mit leicht zugänglichem Innenraum und beweglichem Dach können Jungen und Mädchen ab 5 Jahren sonnige Sommertage genießen
 - Enthält einen bunten Spielzeug-Eiswagen mit lustigen Aufklebern, einem abnehmbarem Dach auf der Fahrerkabine und Seitentüren zum Öffnen
 - Dank den digitalen Instructions PLUS in der kostenlosen LEGO Life App für Smartgeräte können Kinder ihr Modell beim Bauen vergrößern, drehen und näher betrachten
 - Dieses supercoole Spielzeugauto ist ein witziges Geschenk zum Geburtstag, zu Weihnachten oder zu den Ferien für Jungen und Mädchen ab 5 Jahren
+- Die Kinder können beim Fahren des Eiswagens helfen, Eiswaffeln und Eis am Stiel servieren und den Skateboarder coole Tricks vorführen lassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5G für extrem schnelle Downloads und Videostreaming
-- 12 MP Weitwinkel-Rückkamera, 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
-- USB‑C Anschluss zum Aufladen und für Zubehör
 - Erhältlich in Violett, Polarstern, Rosé und Space Grau
+- 5G für extrem schnelle Downloads und Videostreaming
 - Stereo-Lautsprecher im Querformat
-- In Verbindung bleiben mit ultraschnellem WLAN 6
-- 8,3" Liquid Retina Display (21,08 cm Diagonale) mit True Tone und großem Farbraum
-- Bis zu 10 Std. Batterielaufzeit
 - A15 Bionic Chip mit Neural Engine
+- In Verbindung bleiben mit ultraschnellem WLAN 6
+- USB‑C Anschluss zum Aufladen und für Zubehör
+- 12 MP Weitwinkel-Rückkamera, 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
+- Bis zu 10 Std. Batterielaufzeit
 - Touch ID für sicheres Authentifizieren und Apple Pay
+- 8,3" Liquid Retina Display (21,08 cm Diagonale) mit True Tone und großem Farbraum
 
 [🛒 Hier!!]({{< param buyurl >}})
