@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 10298 Icons Vespa 125 Modellbausatz  Vintage Roller aus Italien  Set für Erwachsene zum Bauen und Ausstellen'
-date: 2022-12-09 10:17:50
+date: 2022-12-15 07:24:29
 image: 'https://m.media-amazon.com/images/I/518aehvIe6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09BNX43N7/?tag=tolees0ca-21'
 descuento: '40.00'
-average: '71.565'
+average: '70.6746153846154'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Baue mit diesem LEGO Set für Erwachsene dein eigenes 2-sitziges LEGO Vespa 125 Motorroller-Modell einer italienischen Ikone
-- In Pastellblau, einer der ursprünglichen Produktionsfarben der Vespa und einer äußerst seltenen LEGO Farbe, die LEGO Fans ansprechen soll
-- Anlässlich des 75-jährigen Jubiläums der Vespa haben die LEGO Designer gemeinsam mit dem Piaggio Team einen Modellbausatz entworfen
-- Zu diesem LEGO Modell für Erwachsene gehören auch ein Helm und ein Zubehörkorb mit einem Blumenstrauß
 - Mit seinem funktionstüchtigen Ständer kann der LEGO Roller zu Hause oder im Büro aufgestellt und bewundert werden
-- Verfügt über ein montiertes Vorderrad, eine abnehmbare Motorabdeckung mit darunter liegendem Motor und eine funktionierende Lenkung
+- In Pastellblau, einer der ursprünglichen Produktionsfarben der Vespa und einer äußerst seltenen LEGO Farbe, die LEGO Fans ansprechen soll
 - Zur Ausstattung des Modellbausatzes gehören das Vespa-Logo, ein klassisches Nummernschild, ein Reserverad und ein Ständer
+- Baue mit diesem LEGO Set für Erwachsene dein eigenes 2-sitziges LEGO Vespa 125 Motorroller-Modell einer italienischen Ikone
+- Zu diesem LEGO Modell für Erwachsene gehören auch ein Helm und ein Zubehörkorb mit einem Blumenstrauß
+- Anlässlich des 75-jährigen Jubiläums der Vespa haben die LEGO Designer gemeinsam mit dem Piaggio Team einen Modellbausatz entworfen
+- Verfügt über ein montiertes Vorderrad, eine abnehmbare Motorabdeckung mit darunter liegendem Motor und eine funktionierende Lenkung
 
 [🛒 Hier!!]({{< param buyurl >}})
