@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - BUNTE FIGURENSTIFTE: Hier genießen die Spieler eine farbenfrohe Reise! Das Spiel enthält Stifte in 6 verschiedenen Farben, um Freunde und Familienmitglieder in die Autos einzuladen und mit ihnen eine vergnügliche Reise um den Spielplan zu erleben
-- JEDER WÄHLT SEINEN EIGENEN WEG: Anschnallen und los! In diesem lustigen Familienspiel sorgt jede Kreuzung für eine aufregende Wendung und ein neues Abenteuer
 - JEDER SPIELER HAT DIE WAHL: Hier treffen die Spieler wichtige Lebensentscheidungen! Sie können wählen, ob sie zur Hochschule gehen, heiraten, eine Familie gründen oder früh in den Ruhestand gehen wollen
 - LOHNT SICH EINE GELDANLAGE?: Indem die Spieler in bestimmte Zahlen am Rand des Spielplans investieren, können sie ihr Vermögen anhäufen. Sobald jemand diese Zahl dreht, wird der Investor dafür bezahlt
 - TOLLES KINDERSPIEL FÜR 2 – 4 SPIELER: „Das Spiel des Lebens“ eignet sich besonders gut für Spielepartys, einen tollen Spieleabend im Kreis der Familie oder als unterhaltsame Beschäftigung für Kinder ab 8 Jahren
+- JEDER WÄHLT SEINEN EIGENEN WEG: Anschnallen und los! In diesem lustigen Familienspiel sorgt jede Kreuzung für eine aufregende Wendung und ein neues Abenteuer
 
 [🛒 Hier!!]({{< param buyurl >}})
