@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erstellung OneMesh Heimnetzwerk in Verbindung mit dem TP Link Router
 - Intelligente Signalstärkeanzeige – Hilft zur Bestimmung der optimalen Platzierung des Geräts
-- 1900 Mbit/s WLAN-Geschindigkeit – Simultanes Dualband mit bis zu 800 Mbit/s auf 2,4 GHz und bis zu 1733 Mbit/s auf 5 GHz
 - AP-Modus – Errichtet einen neuen Accesspoint und erweitert Ihr kabelgebundenes Netzwerk um ein neues WLAN
-- HINWEIS Weitere Informationen finden Sie unter Produkthandbücher und Dokumente.
+- 1900 Mbit/s WLAN-Geschindigkeit – Simultanes Dualband mit bis zu 800 Mbit/s auf 2,4 GHz und bis zu 1733 Mbit/s auf 5 GHz
+- Ultimative Kompatibilität – Kompatibel zu jedem gängigen WLAN-Router oder Accesspoint
+- Erstellung OneMesh Heimnetzwerk in Verbindung mit dem TP Link Router
 - Gigabit Ethernet-Port – Sorgt für hohe Geschwindigkeiten beim Datenaustausch kabelgebundener Geräte wie Smart-TVs, Computer und Spielekonsolen
 - TP-Links Tether-App – Einfache Verwaltung über Ihr iOS oder Android-Gerät mittels TP-Links App „Tether“
-- Ultimative Kompatibilität – Kompatibel zu jedem gängigen WLAN-Router oder Accesspoint
+- HINWEIS Weitere Informationen finden Sie unter Produkthandbücher und Dokumente.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
