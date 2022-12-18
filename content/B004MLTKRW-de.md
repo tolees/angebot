@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Filzstifte mit großen Spitzen zu 54% aus recycelten Materialien
 - Tinte trocknet auch dann nicht aus, wenn der Stift 2 Monate ohne Kappe liegengelassen wird (außer bei schwarzer Tinte)
+- Filzstifte mit großen Spitzen zu 54% aus recycelten Materialien
 - Durch die große Größe können kleine Kinder die Stifte leicht halten
 - Kappe mit Luftschlitzen nach europäischen Spielzeug-Normen
 
