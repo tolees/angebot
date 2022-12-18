@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Open the trunk to store items and lift the bonnet to reveal a detailed Ford Mustang V8 engine with battery, hoses and air filter.
 - Open the doors or remove the roof panel to access the detailed interior with handsome seats, radio, mid-console gearshift and working steering.
 - Manufacturer recommended age: 16+
 - Number of pieces: 1471
 - Authentic replica of a 1960s Ford Mustang featuring dark-blue bodywork with white racing stripes, air scoop, 5-spoke rims with road-gripping tyres, and a selection customisation add-ons.
-- Open the trunk to store items and lift the bonnet to reveal a detailed Ford Mustang V8 engine with battery, hoses and air filter.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
