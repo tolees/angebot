@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60342 City Stuntz Haiangriff-Challenge Set  inkl. Motorrad und Stunt Racer Minifigur  Action-Spielzeug für Kinder ab 5 Jahre'
-date: 2022-12-14 12:40:28
+date: 2022-12-19 19:31:02
 image: 'https://m.media-amazon.com/images/I/51tBR0JxY3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFTNYSV/?tag=tolees0ca-21'
 descuento: '40.02'
-average: '12.7090000000001'
+average: '12.8487500000001'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Features 2 LEGO minifigure: Chuck D. Goldberg from the LEGO City adventures series and a pirate plus a skeleton figure
-- Check out other sets from the LEGO City Stuntz range such as 60331 Touring Stunt Bike and 60340 The Blade Stunt Challenge for more stunt action
-- Kids activate the toy motorbike and release it, avoiding the spinning shark wheel, to strike the barrels and reveal the pirate treasure chest
-- This fun LEGO Stuntz playset makes a great birthday gift idea for kids 5+ years old and fans of the LEGO City Adventures TV series
-- LEGO City Stuntz The Shark Attack Stunt Challenge toy for 5 year old boys and girls featuring a Flywheel-Powered Stunt Bike toy and 2 Minifigures
-- This LEGO City Stuntz playset with stunt bike comes with an easy-to-follow pictorial building guide so kids can build with confidence
-- Includes a flywheel toy motorbike and all kids need to build the course, including toy diamonds, a toolbox, map & treasure chest accessories
+- Das spannende Spielset ist das ultimative Geburtstagsgeschenk für Jungen und Mädchen, die gerne waghalsige Stunts nachspielen
+- Mit 2 LEGO Minifiguren, darunter Chuck D. Goldberg aus der TV-Serie LEGO City - Abenteuer und ein Pirat sowie eine Skelettfigur
+- Enthält ein Spielzeug-Motorrad mit Schwungrad und weiteres Zubehör, wie Diamanten, eine Werkzeugkiste, eine Karte und eine Schatztruhe
+- Schau dir noch andere Sets von LEGO City Stuntz an, wie das Cruiser-Stuntbike (60331) und die Hindernis-Stuntchallenge (60340)
+- Die Kinder aktivieren den LEGO Stunt Racer und müssen dem Haifischrad ausweichen, die Fässer öffnen und die Schatztruhe der Piraten öffnen
+- Die LEGO City Stuntz Haiangriff-Challenge, ein Spielzeug für Kinder ab 5 Jahren, bestehend aus einem LEGO Stunt Motorrad und 2 Minifiguren
+- Das LEGO City Set mit Stuntbike wird mit einer leicht verständlichen, bebilderten Bauanleitung geliefert, damit Kinder sicher bauen können
 
 [🛒 Hier!!]({{< param buyurl >}})
