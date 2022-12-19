@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - INTEGRIERTE KÜHLUNG - VRM-Kühlung mit 7 W/mK MOSFET-Wärmeleitpads und erweitertem Kühlkörper; mit Chipsatz-Kühlkörper, M.2 Shield Frozr, dediziertem Pumpenlüfter-Kühlkopf und 6-lagigem Server-Grade PCB mit 2 oz. verdicktem Kupfer
+- VIER M.2 ANSCHLÜSSE - Speicheroptionen umfassen 4 x M.2 Gen4 x4 64Gb/s Steckplätze mit Shield Frozr, um thermisches Throttling bei schnellem SSD-Zugriff zu verhindern; verfügt über ein werkzeugloses Installationssystem mit EZ M.2 Clips
+- DDR4-SPEICHER, PCIe 5.0 & 4.0 x16 Steckplätze - 4 x DDR4-DIMM-Steckplätze mit isolierter Memory-Boost-Schaltung für Übertaktung (1DPC 1R, 5333+ MHz); ein PCIe 5.0 x16 Steel Armor-Steckplatz unterstützt die primäre Grafikkarte
 - WI-FI 6E - Die Netzwerkhardware umfasst ein Intel Wi-Fi 6E Modul mit Bluetooth 5.2 und 2,5Gbps LAN; Anschlüsse auf der Rückseite umfassen USB 3.2 Gen 2x2 Typ-C (20Gbps), HDMI 2.1 & DisplayPort 1.4 und 7.1 HD Audio mit Audio Boost
 - HOHE PERFORMANCE DER 12. UND 13. GENERATION - Der PRO Z790-P WIFI DDR4 verwendet ein 14 Duet Rail Power System (55A, DrMOS) VRM für den Intel Z790 Chipsatz (LGA 1700, 12th & 13th Gen Core) mit Core Boost-Architektur für Multi-Core-Overclocking
-- DDR4-SPEICHER, PCIe 5.0 & 4.0 x16 Steckplätze - 4 x DDR4-DIMM-Steckplätze mit isolierter Memory-Boost-Schaltung für Übertaktung (1DPC 1R, 5333+ MHz); ein PCIe 5.0 x16 Steel Armor-Steckplatz unterstützt die primäre Grafikkarte
-- VIER M.2 ANSCHLÜSSE - Speicheroptionen umfassen 4 x M.2 Gen4 x4 64Gb/s Steckplätze mit Shield Frozr, um thermisches Throttling bei schnellem SSD-Zugriff zu verhindern; verfügt über ein werkzeugloses Installationssystem mit EZ M.2 Clips
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
