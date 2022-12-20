@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Kaffeebohnen  Espresso Italiano Cremoso  1er Pack  1 x 1 kg '
-date: 2022-12-19 13:35:01
+date: 2022-12-20 13:35:47
 image: 'https://m.media-amazon.com/images/I/414mXhq9DoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Lavazza'
 buyurl: 'https://www.amazon.de/dp/B000VJ8NEU/?tag=tolees0ca-21'
 descuento: '36.69'
-average: '11.138'
+average: '11.035'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Vielfältiger Einsatz: Der Espresso Italiano Cremoso lässt sich hervorragend als Espresso im Kaffeevollautomaten, in der Siebträgermaschine oder gemahlen in der Mokkakanne zubereiten
 - Kräftiger Genuss: cremiger Espresso in der 1-kg-Packung
 - Hohe Intensität: 8 von 10
-- Intensiver Geschmack: Der Espresso Italiano Cremoso schmeckt würzig und vollmundig nach Kakao, Schokolade und edlen Gewürzen
 - Mittlere Röstung: Der Kaffee wird schonend und gleichmäßig in Turin veredelt
 - Feinste Bohnen: Die Mischung unseres Espresso Italiano Cremoso besteht aus edlen Arabica- und Robusta-Bohnen aus Südamerika und Südostasien
+- Intensiver Geschmack: Der Espresso Italiano Cremoso schmeckt würzig und vollmundig nach Kakao, Schokolade und edlen Gewürzen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
