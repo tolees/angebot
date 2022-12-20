@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WUYI Bluetooth 5.3 Kopfhörer Sport  In Ear Kopfhörer Kabellos Stereo mit HD Mic  48 Std Spielzeit mit Ladekoffer LED Anzeige  Tiefer Bass  IP7 wasserdichte Lauf Kopfhörer mit Ohrhaken für Sport'
-date: 2022-12-18 20:38:37
+date: 2022-12-20 02:45:47
 image: 'https://m.media-amazon.com/images/I/41DBRySlpsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BB9RDFDN-de WUYI Bluetooth 5.3 Kopfhörer Sport In Ear Kopfhörer...'
 sku: 'B0BB9RDFDN-de'
 tags: [ 'Elektronik & Foto','In-Ear Ohrhörer','Kopfhörer','Kopfhörer & Zubehör','wuyi','🇩🇪', ]
-actualPrice: 29.99 EUR
+actualPrice: 23.99 EUR
 currency: EUR
-price: 29.99
+price: 23.99
 comparePrice: 35.99 EUR
 prodname: 'WUYI Bluetooth 5.3 Kopfhörer Sport  In Ear Kopfhörer Kabellos Stereo mit HD Mic  48 Std Spielzeit mit Ladekoffer LED Anzeige  Tiefer Bass  IP7 wasserdichte Lauf Kopfhörer mit Ohrhaken für Sport'
 country: 'de'
 flag: '🇩🇪'
 brand: 'WUYI'
 buyurl: 'https://www.amazon.de/dp/B0BB9RDFDN/?tag=tolees0ca-21'
-descuento: '16.67'
-average: '37.865'
+descuento: '33.34'
+average: '36.3233333333333'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
