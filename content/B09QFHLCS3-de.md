@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinder können digitale Münzen verdienen, indem sie LEGO Peach beim Spielen auf der Schaukel helfen und mit dem gelben Toad interagieren; der fliegende -Block bietet auch Belohnungen an
-- Die LEGO Peach Figur benötigt 2 AAA-Batterien (nicht enthalten) und kann per Bluetooth mit LEGO Luigi oder LEGO Mario (nicht enthalten) verbunden und in 2-Spieler-Abenteuer geschickt werden
-- LEGO Super Mario “Abenteuer mit Peach” Starter Set enthält eine interaktive Prinzessin Peach Figur, Lemmy, einen Hothead und einen gelben Toad sowie einen Parcours zum Zusammenbauen
-- Dieses Spielset beinhaltet eine Start-Röhre, einen Zielpfahl, eine Schaukel, eine Hothead-Katapult-Herausforderung, und kann mit anderen LEGO Super Mario Sets für endlosen Spaß kombiniert werden
-- Die rote Frucht löst Glücksgefühle in LEGO Peach aus, kann aber auch dem gelben Yoshi oder einer anderen (nicht enthaltenen) interaktiven Figur geschenkt werden; lass Peach die Frucht „essen“, um dir digitale Münzen zu verdienen
-- In der LEGO Super Mario Begleit-App findest du unter anderem Bauanleitungen und Spielideen - eine Liste der kompatiblen Geräte ist auf LEGO.comdevicecheck verfügbar
 - Die interaktive LEGO Peach Figur hat einen Farbsensor, LCD-Bildschirm, auf dem diverse spontane Reaktionen auf Bewegungen zu sehen sind, sowie einen Lautsprecher, der legendäre Geräusche und Musikstücke aus den Videospielen wiedergibt
+- LEGO Super Mario “Abenteuer mit Peach” Starter Set enthält eine interaktive Prinzessin Peach Figur, Lemmy, einen Hothead und einen gelben Toad sowie einen Parcours zum Zusammenbauen
+- In der LEGO Super Mario Begleit-App findest du unter anderem Bauanleitungen und Spielideen - eine Liste der kompatiblen Geräte ist auf LEGO.comdevicecheck verfügbar
+- Kinder können digitale Münzen verdienen, indem sie LEGO Peach beim Spielen auf der Schaukel helfen und mit dem gelben Toad interagieren; der fliegende -Block bietet auch Belohnungen an
+- Dieses Spielset beinhaltet eine Start-Röhre, einen Zielpfahl, eine Schaukel, eine Hothead-Katapult-Herausforderung, und kann mit anderen LEGO Super Mario Sets für endlosen Spaß kombiniert werden
+- Die LEGO Peach Figur benötigt 2 AAA-Batterien (nicht enthalten) und kann per Bluetooth mit LEGO Luigi oder LEGO Mario (nicht enthalten) verbunden und in 2-Spieler-Abenteuer geschickt werden
+- Die rote Frucht löst Glücksgefühle in LEGO Peach aus, kann aber auch dem gelben Yoshi oder einer anderen (nicht enthaltenen) interaktiven Figur geschenkt werden; lass Peach die Frucht „essen“, um dir digitale Münzen zu verdienen
 
 [🛒 Hier!!]({{< param buyurl >}})

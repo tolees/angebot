@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HOHE KOMPATIBILITÄT: Der Solargenerator 500 verfügt über 1*AC-Ausgang（230V, 500W, 1000W MAX), 1*Autoanschluss, 3*USB-A Anschluss, 2*DC Ausgänge, 1*DC Input. Es is geeignet für verschiedenen Geräten, einschließlich Laptop, Kühlbox, E-Bike, Drohnen und andere elektronische Outdoor-Produkte.
 - LEISTUNGSSTARKER SOLARGENERATOR:Jackery Solargenerator 500 ist eine Kombi aus 1*518Wh tragbare Powerstation und 1*SolarSaga 100W Solarpanel. Es kann die Sonnenenergie in Strom umwandeln und die Multi-Geräte dann jederzeit aufladen. Tragbare Powerstation und faltbare Solarpanels in EINEM! Ein ideale Produkt für kurze Familienausflüge.
-- TRAGBAR & LEICHT ZU VERWENDEN: Der integrierte Tragegriff in der Jackery Explorer 500 sowie im SolarSaga 100 sorgt für einen leichten Transport und flexible Platzierung. Echt Plug & Play, auch superhandlich für Elektronik-Laien! Ideal für netzunabhängige Reisen, Autoreisen, Überlandfahrten und Wohnmobilabenteuer.
-- UMWELTFREUNDLICHE STROMVERSORGUNG: Im Gegensatz zu herkömmlichen Generatoren ist der Solargenerator 500 dank seiner innovativen Solarpanel-Komponente eine unbegrenzte und nachhaltige Energiequelle, ohne Kohlenstoff auszustoßen. Die professionelle MPPT-Technologie ermöglicht maximale Ladeeffizienz.
+- HOHE KOMPATIBILITÄT: Der Solargenerator 500 verfügt über 1*AC-Ausgang（230V, 500W, 1000W MAX), 1*Autoanschluss, 3*USB-A Anschluss, 2*DC Ausgänge, 1*DC Input. Es is geeignet für verschiedenen Geräten, einschließlich Laptop, Kühlbox, E-Bike, Drohnen und andere elektronische Outdoor-Produkte.
 - WAS SIE ERHALTEN: 1* Jackery Explorer 500 Tragbare Powerstation, 1* SolarSaga 100W Solarpanel, 1* AC Adapter, 1* Autoladekabel, 2* Benutzerhandbuch.
+- UMWELTFREUNDLICHE STROMVERSORGUNG: Im Gegensatz zu herkömmlichen Generatoren ist der Solargenerator 500 dank seiner innovativen Solarpanel-Komponente eine unbegrenzte und nachhaltige Energiequelle, ohne Kohlenstoff auszustoßen. Die professionelle MPPT-Technologie ermöglicht maximale Ladeeffizienz.
+- TRAGBAR & LEICHT ZU VERWENDEN: Der integrierte Tragegriff in der Jackery Explorer 500 sowie im SolarSaga 100 sorgt für einen leichten Transport und flexible Platzierung. Echt Plug & Play, auch superhandlich für Elektronik-Laien! Ideal für netzunabhängige Reisen, Autoreisen, Überlandfahrten und Wohnmobilabenteuer.
 
 [🛒 Hier!!]({{< param buyurl >}})
