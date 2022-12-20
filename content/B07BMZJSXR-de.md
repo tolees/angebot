@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - In Fässern gereift, die von Craig Wilson, Master of Malt, handverlesen wurden und in drei verschiedenen Fassarten vollendet: Refill, Sherry und Bourbon.
-- Genießen Sie ihn pur, um die Noten von frischen Früchten und Vanille auszukosten.
-- Ideal als Geschenk für Freunde eines guten Whiskeys.
 - Der Singleton of Dufftown Malt Master Selection ist ein genussvoller, süffiger und zugänglicher Single Malt mit sanfter Textur und vorwiegend süßem Geschmack.
-- Sein weicher Geschmack macht ihn zum idealen Geschenk für alle, die die Welt des Single Malt Whiskys ganz neu erleben.
 - Anklänge von Honig und Vanille, gepaart mit frischer Birne und einer dezenten Basis von Holzasche.
+- Genießen Sie ihn pur, um die Noten von frischen Früchten und Vanille auszukosten.
 - „Erstklassig: zugänglich und süffig. Er wird mit Sicherheit Konsumenten ansprechen, die leichtere Geschmacksrichtungen von Speyside genießen, aber er hat viel Charakter.“ – Charles MacLean, Whisky Expert
+- Sein weicher Geschmack macht ihn zum idealen Geschenk für alle, die die Welt des Single Malt Whiskys ganz neu erleben.
+- Ideal als Geschenk für Freunde eines guten Whiskeys.
 
 [🛒 Hier!!]({{< param buyurl >}})

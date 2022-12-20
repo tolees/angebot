@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INSEL CHARME - Die intensiv-kräftige Talisker Familie zeichnet sich durch einen würzig-rauchigen Geschmack aus. Diese Eigenschaft erklärt sich aus dem bei der Mälzung verbrannten Torf. Der Whisky trägt den salzigen Rauch der dem Wind und den Wellen ausgesetzten Insel in sich.
-- AUSGEZEICHNET - Talisker ist eine vielfach ausgezeichnete Single Malt Whisky-Familie. Talisker Skye wurde bei der „International Wine and Spirits Competition 2015" mit Gold ausgezeichnet
-- GESCHENKIDEE - Dieser Single Malt Scotch ist das ideale Whisky-Geschenk für abenteuerlustige Freigeister, die einen guten Einstieg in die rauchigen Whiskies der Insel suchen. Die Geschenkbox enthält eine Flasche Talisker Skye Single Malt Scotch Whisky und einen Talisker-Becher aus Emaille.
-- SERVIERVORSCHLAG - Der Talisker Skye Single Malt ist ein ausgewogener, zugänglicher Scotch Whisky, der direkt am Meer auf der rauen Isle of Skye hergestellt wird und mit einem lebendigen Zusammenspiel aus Süße, Rauch und Würze begeistert. Genießen Sie ihn am besten pur oder mit etwas Wasser, um den intensiven Geschmack zu öffnen.
 - AROMA PUR - Skye ist der frischere, hellere Bruder des 10 -jährigen Taliskers. Die frischen Zitrusaromen und eine dezente Süße werden durch eine Lagerung in Refill- und gerösteten amerikanischen Eichenfässern begünstigt, die für die Geschmackstiefe sorgt. Unter dem Rauch schmecken Sie weiche Früchte und Getreidenoten mit einem ausgeprägten pfeffrigen Finish
+- SERVIERVORSCHLAG - Der Talisker Skye Single Malt ist ein ausgewogener, zugänglicher Scotch Whisky, der direkt am Meer auf der rauen Isle of Skye hergestellt wird und mit einem lebendigen Zusammenspiel aus Süße, Rauch und Würze begeistert. Genießen Sie ihn am besten pur oder mit etwas Wasser, um den intensiven Geschmack zu öffnen.
+- INSEL CHARME - Die intensiv-kräftige Talisker Familie zeichnet sich durch einen würzig-rauchigen Geschmack aus. Diese Eigenschaft erklärt sich aus dem bei der Mälzung verbrannten Torf. Der Whisky trägt den salzigen Rauch der dem Wind und den Wellen ausgesetzten Insel in sich.
+- GESCHENKIDEE - Dieser Single Malt Scotch ist das ideale Whisky-Geschenk für abenteuerlustige Freigeister, die einen guten Einstieg in die rauchigen Whiskies der Insel suchen. Die Geschenkbox enthält eine Flasche Talisker Skye Single Malt Scotch Whisky und einen Talisker-Becher aus Emaille.
+- AUSGEZEICHNET - Talisker ist eine vielfach ausgezeichnete Single Malt Whisky-Familie. Talisker Skye wurde bei der „International Wine and Spirits Competition 2015" mit Gold ausgezeichnet
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passt auf alle OneBlade / OneBlade Pro Produkte (QP2520, QP2530, QP6510, QP6520)
+- Kompatbel mit: OneBlade (QP25xx),OneBlade (QP26xx), OneBlade Pro (QP65xx),OneBlade Pro (QP66xx)
 - Einzigartige OneBlade-Technologie: Der Trimmer macht die Rasur einfach, effizient und komfortabel
 - Lieferumfang: 3 Philips OneBlade-Ersatzklingen mit einzigartiger OneBlade-Technologie
-- Kompatbel mit: OneBlade (QP25xx),OneBlade (QP26xx), OneBlade Pro (QP65xx),OneBlade Pro (QP66xx)
 - Philips One Blade Klingen: Müssen für eine optimale Leistung nur alle 4 Monate ersetzt werden
+- Passt auf alle OneBlade / OneBlade Pro Produkte (QP2520, QP2530, QP6510, QP6520)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
