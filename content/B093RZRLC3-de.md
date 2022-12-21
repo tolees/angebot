@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Benutzerfreundlich：Mehrere Funktionen wie Headless Modus, One Key Start, Automatische Höhenhaltung sind für den Anfänger konzipiert. Benutzung unter unmittelbarer Aufsicht von Erwachsenen.Dieses Produkt ist geeignet für Person ab 16 Jahren.
-- Ein Toller Reisebegleiter：Du brauchst so eine Drohne, die cool aussieht. Wiegt nur 377g, fast handflächengroß wenn gefaltet. Mit dem mitgeliferten Trageköffchen lässt sie einfach zu transportieren und aufzubewahren.
-- Leistungsstarkes GPS-Modul：Das GPS-Modul und Optical-Flow machen HS720G sicherer und zuverlässiger. Dank GPS fliegt sie auch bei Signalverlust oder niedrigem Batteriestand zu dir zurück. Mach dir keine Sorgen, dass sie wegfliegen wird.
-- Starke Leistung im Freien：Ein leistungsstarker bürstenloser Motor und eine Akkulaufzeit von bis zu 26 Minuten sorgen dafür, dass der HS720G stabil fliegt und genügend Zeit hat, um das perfekte Foto zu machen.
-- Umfassendere Funktionen：HS720G ist mit mehreren intelligenten Flugmodi ausgestattet: Follow-Me, Kreisflug, TapFly, Flugpfade...Du kannst deine Hände befreien, bessere Videos aufnehmen und mehr Erinnerungen schaffen.
-- 2-Achsen-Gimbal mit 4K-EIS-Kamera：Dank der 4K EIS-Kamera (Electronic Image Stabilization) und des 2-Achsen-Gimbal ist das Luftaufnahmen stabiler denn je. HS720G nimmt richtig tolle Videos und Bilder in 3840 x 2160 Pixeln auf.
 - Reibungslose 5G Übertragung：Live-Feeds können über 5G Wifi übertragen werden.Die Sensoren von Sony bedeuten mehr Präzision, mehr Schärfe und höhere Standards.Die maximale Reichweite der Fernbedienung beträgt 999 Meter.
+- Starke Leistung im Freien：Ein leistungsstarker bürstenloser Motor und eine Akkulaufzeit von bis zu 26 Minuten sorgen dafür, dass der HS720G stabil fliegt und genügend Zeit hat, um das perfekte Foto zu machen.
+- Ein Toller Reisebegleiter：Du brauchst so eine Drohne, die cool aussieht. Wiegt nur 377g, fast handflächengroß wenn gefaltet. Mit dem mitgeliferten Trageköffchen lässt sie einfach zu transportieren und aufzubewahren.
+- 2-Achsen-Gimbal mit 4K-EIS-Kamera：Dank der 4K EIS-Kamera (Electronic Image Stabilization) und des 2-Achsen-Gimbal ist das Luftaufnahmen stabiler denn je. HS720G nimmt richtig tolle Videos und Bilder in 3840 x 2160 Pixeln auf.
+- Umfassendere Funktionen：HS720G ist mit mehreren intelligenten Flugmodi ausgestattet: Follow-Me, Kreisflug, TapFly, Flugpfade...Du kannst deine Hände befreien, bessere Videos aufnehmen und mehr Erinnerungen schaffen.
+- Leistungsstarkes GPS-Modul：Das GPS-Modul und Optical-Flow machen HS720G sicherer und zuverlässiger. Dank GPS fliegt sie auch bei Signalverlust oder niedrigem Batteriestand zu dir zurück. Mach dir keine Sorgen, dass sie wegfliegen wird.
+- Benutzerfreundlich：Mehrere Funktionen wie Headless Modus, One Key Start, Automatische Höhenhaltung sind für den Anfänger konzipiert. Benutzung unter unmittelbarer Aufsicht von Erwachsenen.Dieses Produkt ist geeignet für Person ab 16 Jahren.
 
 [🛒 Hier!!]({{< param buyurl >}})
