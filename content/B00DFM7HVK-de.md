@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42114 Technic 6x6 Knickgelenkter Volvo-Dumper  ferngesteuertes Modellauto  Modellbausatz LKW-Spielzeug für Kinder und Erwachsene'
-date: 2022-12-22 16:09:37
+date: 2022-12-23 16:52:17
 image: 'https://m.media-amazon.com/images/I/512X4sUHtnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B00DFM7HVK/?tag=tolees0ca-21'
 descuento: '20.04'
-average: '187.510136239783'
+average: '187.52699319728'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Modellbausätze von LEGO Technic sind eine großartige Geschenkidee zu Weihnachten für LEGO Fans und Fans von ferngesteuerten und app-gesteuerten Baustellenfahrzeugen
-- Angetrieben durch 1 großen Winkelmotor, 1 XL-Motor und 1 L-Motor mit einem Bluetooth-gesteuerten Smart Hub für realistische Funktionalität
-- Baue ein Volvo-Modell der ferngesteuerten LKW-Version des klassischen knickgelenkten A60H Volvo-Dumpers nach und erlebe großartigen Bauspaß
-- Lade dir die LEGO-Technic-Control+-App herunter und entdecke die verschiedenen Kontrollbildschirme, Herausforderungen, Erfolge und exklusiven Inhalte
-- Das Gebäude kann ohne Batterien in Betrieb genommen werden; Für das LKW-Spielzeug werden jedoch 6 AA 1,5V-Batterien (nicht im Lieferumfang enthalten) benötigt
 - Kontrolliere die gewaltige, 2.193 Teile umfassende Maschine mit der App – kippe die Mulde des Lasters, fahre vor- und rückwärts, lenke und ändere Geschwindigkeit und Gang
 - Durch die App sorgt das ferngesteuerte Automodell noch lange nach dem Bau für Spaß; Lüfte die Geheimnisse der riesigen Baustellenmaschinen
+- Baue ein Volvo-Modell der ferngesteuerten LKW-Version des klassischen knickgelenkten A60H Volvo-Dumpers nach und erlebe großartigen Bauspaß
+- Angetrieben durch 1 großen Winkelmotor, 1 XL-Motor und 1 L-Motor mit einem Bluetooth-gesteuerten Smart Hub für realistische Funktionalität
+- Das Gebäude kann ohne Batterien in Betrieb genommen werden; Für das LKW-Spielzeug werden jedoch 6 AA 1,5V-Batterien (nicht im Lieferumfang enthalten) benötigt
+- Lade dir die LEGO-Technic-Control+-App herunter und entdecke die verschiedenen Kontrollbildschirme, Herausforderungen, Erfolge und exklusiven Inhalte
 
 [🛒 Hier!!]({{< param buyurl >}})
