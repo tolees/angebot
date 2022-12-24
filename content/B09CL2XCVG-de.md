@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EZVIZ WLAN Türklingel mit 4600mAh Akku  4 3 Zoll Farbbildschirm  155° Weitwinkel und PIR-Sensor  2MP Türspion Kamera mit drahtlosen Monitor  Zwei-Wege-Audio und Live-Ansicht verfügbar  DP2C'
-date: 2022-12-15 12:52:59
+date: 2022-12-24 09:17:47
 image: 'https://m.media-amazon.com/images/I/41axDo+fAIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Intelligentere PR Erkennung mit Echtzeitwarnungen: Dank der PIR-Bewegungserkennungsfunktion erhalten Sie sofort mobile Benachrichtigungen über alle Besucher an der Haustür.
-- Langlebige Akkulaufzeit: Ausgestattet mit einem eingebauten wiederaufladbaren 4600mAh Lithium-Akku macht die Video-Türklingel jede komplizierte Verkabelung überflüssig.
 - 2MP Auflösung: Im Vergleich zu herkömmlichen 720p Türklingeln. Diese neue 2MP Türklingel kann Ihnen mehr Details anzeigen. Schützen Sie Ihr Zuhause besser.
 - 155° Weitwinkelobjektiv mit 4,3" Monitor: Die Türspion Kamera bietet mit dem 155° super Weitwinkelobjektiv eine optimale Sichtabdeckung und ermöglicht eine scharfe Nachtsicht von bis zu 5 Metern. Mit dem verbesserten Farbbildschirm sehen Sie viel klarer
 - Automatische Erfassung und Live-Ansicht: Wenn der Besucher auf die WLAN Türklingel drückt oder die Bewegungserkennung auslöst, nimmt die Kamera automatisch echte Fotos oder Videos auf. Sehen Sie viel einfacher, was vor der Tür passiert.
+- Langlebige Akkulaufzeit: Ausgestattet mit einem eingebauten wiederaufladbaren 4600mAh Lithium-Akku macht die Video-Türklingel jede komplizierte Verkabelung überflüssig.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

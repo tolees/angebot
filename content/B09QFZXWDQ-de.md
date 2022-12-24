@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41710 Friends Surfschule am Strand  Spielzeug mit Stephanie Mini-Puppe als Rettungsschwimmerin und Einhorn-Schwimmring  ab 6 Jahre'
-date: 2022-12-22 02:13:28
+date: 2022-12-24 09:44:17
 image: 'https://m.media-amazon.com/images/I/51gI2+IT4sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFZXWDQ/?tag=tolees0ca-21'
 descuento: '33.34'
-average: '19.0559770114945'
+average: '19.0769662921351'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
