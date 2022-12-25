@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das LEGO Marvel Set beinhaltet eine gedruckte Anleitung sowie die digitale LEGO Building Instructions App zum Zoomen und Drehen beim Bau des beweglichen Modells
 - Das voll gegliederte Baby Groot lässt sich leicht bewegen und wird mit einem Spielkassettenrekorder geliefert, mit dem die berühmte Baby-Groot-Tanzszene nachgestellt werden kann
 - Das Marvel Spielzeug zum Bauen ist ein tolles Geschenk zum Geburtstag für Kinder ab 10 Jahren, die Fans des Marvel-Universums sind und Superhelden lieben
-- Das LEGO Marvel Set beinhaltet eine gedruckte Anleitung sowie die digitale LEGO Building Instructions App zum Zoomen und Drehen beim Bau des beweglichen Modells
 - Kinder können eine äußerst bewegliche Baby Groot-Figur aus Marvel Studios Guardians of the Galaxy 2 bauen, mit all den liebenswerten Funktionen
 - Leidenschaftliche Fans können die niedlichen Marvel-Figur in Pose setzen, mit ihr im Rhythmus der Musik tanzen und lustige Bewegungen nachstellen
 
