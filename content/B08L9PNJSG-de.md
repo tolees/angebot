@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Einrichtung mit der Mobile App – mit der ASUS-Router-App und der ASUS-Extender-App ist das Upgrade Ihres Heim-WLANs mit wenigen Fingertipps erledigt
 - Nahtlose Erweiterung mit dem AiMesh-WLAN-System – Erweitern Sie Ihr vorhandenes AiMesh-Netzwerk, um Ihr gesamtes Haus mit leistungsstarkem, nahtlosem WLAN und den zuverlässigen Funktionen des AiMesh-Routers auszustatten
 - WiFi-Standard der nächsten Generation – Unterstützung für den neuesten WiFi-Standard 802.11AX (WiFi 6) und 80MHz Bandbreite für eine höhere Kapazität und Effizienz
-- Ultraschnelles WLAN – Der RP-AX56 unterstützt eine Bandbreite von 80MHz und 1024-QAM für deutlich schnellere WLAN-Verbindungen. Mit einer Gesamt-Netzwerkgeschwindigkeit von etwa 1.800Mbit/s – 574Mbit/s im 2,4GHz-Band und 1.201Mbit/s im 5GHz-Band
 - Ein Name für Ihr WLAN oder mehrere, Sie haben die Wahl – Bei der Erweiterung eines AiMesh-Netzwerks können Sie einen WLAN-Namen (SSID) für das gesamte Netzwerk beibehalten oder jedem Frequenzband einen individuellen Namen für verschiedene Verwendungszwecke geben
+- Einfache Einrichtung mit der Mobile App – mit der ASUS-Router-App und der ASUS-Extender-App ist das Upgrade Ihres Heim-WLANs mit wenigen Fingertipps erledigt
+- Ultraschnelles WLAN – Der RP-AX56 unterstützt eine Bandbreite von 80MHz und 1024-QAM für deutlich schnellere WLAN-Verbindungen. Mit einer Gesamt-Netzwerkgeschwindigkeit von etwa 1.800Mbit/s – 574Mbit/s im 2,4GHz-Band und 1.201Mbit/s im 5GHz-Band
 
 [🛒 Hier!!]({{< param buyurl >}})
