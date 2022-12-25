@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75334 Star Wars Obi-Wan Kenobi vs. Darth Vader  Spielset mit Duell-Plattformen und Minifiguren  baubares Spielzeug für Kinder ab 8 Jahren'
-date: 2022-12-22 21:24:59
+date: 2022-12-24 21:33:20
 image: 'https://m.media-amazon.com/images/I/51uT-wYOQWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFPBDKQ/?tag=tolees0ca-21'
 descuento: '34.01'
-average: '39.395'
+average: '39.0182352941177'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
