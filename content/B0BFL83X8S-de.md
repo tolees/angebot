@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ROMOKE - Bluetooth Kopfhörer In Ear Kopfhörer Kabellos Bluetooth 5.3 mit 40Std Hi-Fi Stereo  4 ENC Mikrofon In-Ear Ohrhörer  IP7 Wasserdicht  Touch Control  LED Anzeige  Komfort Fit  USB-C Mini Wireless Earbud'
-date: 2022-12-23 17:43:17
+date: 2022-12-25 23:57:49
 image: 'https://m.media-amazon.com/images/I/419Vdnb+4vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'ROMOKE'
 buyurl: 'https://www.amazon.de/dp/B0BFL83X8S/?tag=tolees0ca-21'
 descuento: '45.01'
-average: '35.115'
+average: '34.8788888888889'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
