@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fremdlabel - Die Geschichte der O'
-date: 2022-12-24 04:28:30
+date: 2022-12-27 06:15:39
 image: 'https://m.media-amazon.com/images/I/519sEspeVIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Fremdlabel'
 buyurl: 'https://www.amazon.de/dp/B000FL6WYW/?tag=tolees0ca-21'
 descuento: '34.93'
-average: '7.47636363636365'
+average: '7.39500000000001'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
