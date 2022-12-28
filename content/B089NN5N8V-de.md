@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Netgear Orbi RBK753 WiFi 6 Mesh WLAN System  4.200 MBit/s Geschwindigkeit  TriBand WiFi 6 Router + 2x Satellit  AX4200 für bis zu 525 m² Abdeckung  Smart Roaming für mehrere Stockwerke '
-date: 2022-12-23 10:22:52
+date: 2022-12-28 01:15:14
 image: 'https://m.media-amazon.com/images/I/31r9f2oAIeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Netgear'
 buyurl: 'https://www.amazon.de/dp/B089NN5N8V/?tag=tolees0ca-21'
 descuento: '30.01'
-average: '512.188461538462'
+average: '512.660740740741'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 8 GIGABIT LAN-PORTS: Computer, Spielekonsolen, Streaming-Player und andere kabelgebundene Geräte an die 4x GB Ethernet-Ports im Router und 2x GB Ports je Mesh Repeater Satellit anschließen
-- EINFACHE SCHNELLE EINRICHTUNG: Mit der kostenfreien Orbi App Ihr Mesh WiFi 6 WLAN in wenigen Minuten einrichten, Einstellungen verwalten, WLAN-Geschwindigkei testen und Endgeräte überwachen
-- ARMOR CYBERSCHUTZ (by BitDefender): Schützt unbegrenzt viele Geräte vor Viren, Malware, Phishing- & Ransomware-Attacken (inkl. 30 Tage Testversion)
-- MESH WLAN SET ELIMINIERT FUNKLÖCHER: Komplette WLAN Mesh Abdeckung von bis zu 525 m², dank smarter Mesh-Technologie immer optimal mit einem Netzwerknamen beim Bewegen im Haus vernetzt
-- TRI-BAND MAXIMIERT WLAN-SPEED: Zusätzliches drittes, dediziertes Band zwischen Orbi AX Mesh Router WiFi 6 und WiFi 6 Repeater-Satelliten entlastet die anderen Funk-Bänder - für maximale WiFi Mesh Geschwindigkeit
-- KOMPATIBEL MIT ALLEN INTERNETANBIETERN: Ersetzen Sie vorhandene WLAN-Router und -Repeater (extra Modem erforderlich), kompatibel mit jedem DSL-Provider, auch Kabel, Glasfaser oder Satellit
-- FORTSCHRITTLICHE SICHERE TECHNOLOGIE: Unterstützt MU-MIMO, OFDMA, Smart Connect für einheitlichen WLAN-Namen (Single SSID), Beamforming, WPA2, Gast-WLAN, DoS, Firewall, VPN und mehr
 - SUPERSCHNELLE WLAN-GESCHWINDIGKEIT AX4200: WiFi 6 liefert bis zu 4,2 GBit/s für gleichzeitiges HD-Streaming, Gaming, Webkonferenzen, 100% abwärtskompatibel mit bestehenden WLAN-Geräten und perfekt für neue WiFi 6 Geräte wie Playstation 5, iPhone 11 & 12 oder Samsung S10 & S20
+- EINFACHE SCHNELLE EINRICHTUNG: Mit der kostenfreien Orbi App Ihr Mesh WiFi 6 WLAN in wenigen Minuten einrichten, Einstellungen verwalten, WLAN-Geschwindigkei testen und Endgeräte überwachen
+- TRI-BAND MAXIMIERT WLAN-SPEED: Zusätzliches drittes, dediziertes Band zwischen Orbi AX Mesh Router WiFi 6 und WiFi 6 Repeater-Satelliten entlastet die anderen Funk-Bänder - für maximale WiFi Mesh Geschwindigkeit
+- FORTSCHRITTLICHE SICHERE TECHNOLOGIE: Unterstützt MU-MIMO, OFDMA, Smart Connect für einheitlichen WLAN-Namen (Single SSID), Beamforming, WPA2, Gast-WLAN, DoS, Firewall, VPN und mehr
+- MESH WLAN SET ELIMINIERT FUNKLÖCHER: Komplette WLAN Mesh Abdeckung von bis zu 525 m², dank smarter Mesh-Technologie immer optimal mit einem Netzwerknamen beim Bewegen im Haus vernetzt
+- KOMPATIBEL MIT ALLEN INTERNETANBIETERN: Ersetzen Sie vorhandene WLAN-Router und -Repeater (extra Modem erforderlich), kompatibel mit jedem DSL-Provider, auch Kabel, Glasfaser oder Satellit
+- 8 GIGABIT LAN-PORTS: Computer, Spielekonsolen, Streaming-Player und andere kabelgebundene Geräte an die 4x GB Ethernet-Ports im Router und 2x GB Ports je Mesh Repeater Satellit anschließen
+- ARMOR CYBERSCHUTZ (by BitDefender): Schützt unbegrenzt viele Geräte vor Viren, Malware, Phishing- & Ransomware-Attacken (inkl. 30 Tage Testversion)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
