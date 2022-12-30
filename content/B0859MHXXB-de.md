@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer C80 Dualband WLAN Router  600 Mbit/s 2 4GHz  1300Mbit/s 5GHz   4 Gigabit LAN Ports  Print/Media/FTP Server  Gast-Netzwerk  unterstützt keine DSL-Funktion'
-date: 2022-12-29 01:23:58
+date: 2022-12-30 07:33:38
 image: 'https://m.media-amazon.com/images/I/310TfIGuP-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.de/dp/B0859MHXXB/?tag=tolees0ca-21'
 descuento: '40.72'
-average: '45.6274509803919'
+average: '45.6155339805823'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 802.11ac Wave2 WLAN – 1300Mbit/s auf 5 GHz und 600Mbit/s auf 2,4GHz
-- Kein Modem integriert - Archer C80 ist ein WLAN-Router und unterstützt keine DSL-Funktion, ist aber kompatibel mit Telekom- und AVM-Modems
-- Erweitere WLAN-Abdeckung – maximale Reichweite und zielgerichteter WLAN-Empfang
-- Erweiterte Sicherheit mit WPA3 – stärkere Verschlüsselung in der WLAN-Passwortsicherheit und verbesserter Schutz vor Brute-Force-Angriffen schützen Ihr Heim-WLAN
-- Lieferumfang - AC1900-Dualband-WLAN-Router Archer C80, Spannungsadapter, Ethernetkabel, Schnellinstallationsanleitung
-- 3×3 MIMO technologie – datentransfer- und empfang auf drei streams für verbindungen zwischen 3x3 clients. Verbesserte leistungsfähigkeit durch effiziente kommunikation
 - Personalisiertes Management – Fortgeschrittene Funktionen wie Jugendschutz, Zugriffskontrolle, Gastnetzwerk für personalisierte Verwaltung
+- Lieferumfang - AC1900-Dualband-WLAN-Router Archer C80, Spannungsadapter, Ethernetkabel, Schnellinstallationsanleitung
+- Erweiterte Sicherheit mit WPA3 – stärkere Verschlüsselung in der WLAN-Passwortsicherheit und verbesserter Schutz vor Brute-Force-Angriffen schützen Ihr Heim-WLAN
+- Erweitere WLAN-Abdeckung – maximale Reichweite und zielgerichteter WLAN-Empfang
+- 3×3 MIMO technologie – datentransfer- und empfang auf drei streams für verbindungen zwischen 3x3 clients. Verbesserte leistungsfähigkeit durch effiziente kommunikation
+- Kein Modem integriert - Archer C80 ist ein WLAN-Router und unterstützt keine DSL-Funktion, ist aber kompatibel mit Telekom- und AVM-Modems
+- 802.11ac Wave2 WLAN – 1300Mbit/s auf 5 GHz und 600Mbit/s auf 2,4GHz
 
 [🛒 Hier!!]({{< param buyurl >}})
