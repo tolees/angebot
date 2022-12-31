@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurze Ärmel für garantierte Bewegungsfreiheit
-- Komfortabler Baumwolljersey-Stoff für ganztägigen Tragekomfort
 - Sportliche Passform, liegt an Brust, Taille und Hüfte leicht an ideal für aktive Bewegungsabläufe mit einer Passform, die nicht einengt
 - ^Rundhalsausschnitt für einen lässigen Look
+- Kurze Ärmel für garantierte Bewegungsfreiheit
+- Komfortabler Baumwolljersey-Stoff für ganztägigen Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
