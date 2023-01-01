@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reibungsloses Netzwerk: On-board Wi-Fi 6E (802.11ax) und Intel 2.5 Gb Ethernet mit ASUS LANGuard
-- AM4-Sockel: Bereit für AMD Ryzen 3000 und 5000 Serie, sowie 5000 und 4000 G-Serie Desktop Prozessoren
-- Renommierte Software: Intuitive Dashboards für UEFI BIOS und ASUS AI Networking zur einfachen Konfiguration
-- Beste Gaming-Konnektivität: PCIe 4.0-fähig, zwei M.2-Steckplätze, USB 3.2 Gen 2 Typ-C, sowie HDMI 2.1 und DisplayPort 1.2 Ausgang
 - Robuste Stromversorgung: 12+2 gepaarte Endstufen mit ProCool Netzanschluss, hochwertigen Legierungsspulen und langlebigen Kondensatoren
+- AM4-Sockel: Bereit für AMD Ryzen 3000 und 5000 Serie, sowie 5000 und 4000 G-Serie Desktop Prozessoren
+- Beste Gaming-Konnektivität: PCIe 4.0-fähig, zwei M.2-Steckplätze, USB 3.2 Gen 2 Typ-C, sowie HDMI 2.1 und DisplayPort 1.2 Ausgang
+- Renommierte Software: Intuitive Dashboards für UEFI BIOS und ASUS AI Networking zur einfachen Konfiguration
+- Reibungsloses Netzwerk: On-board Wi-Fi 6E (802.11ax) und Intel 2.5 Gb Ethernet mit ASUS LANGuard
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
