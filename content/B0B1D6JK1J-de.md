@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stereolautsprecher mit Dolby Audio. Sichere Anmeldung mit Gesichtserkennung, beleuchtete Tastatur
-- Konnektivitäts technologie: WLAN
-- AMD Ryzen 5 5625U Mobil-Prozessor (bis zu 4,3 GHz) mit Radeon-Grafikeinheit
-- Stereolautsprecher mit Dolby Audio. Sichere Anmeldung mit Gesichtserkennung, beleuchtete QWERTZ-Tastatur
-- Akku: Li-Polymer, 56,5 Wh, Laufzeit bis zu 15,1 Stunden (MobileMark 2018)
 - Welche komponenten sind im lieferumfang des produkts enthaltenen: Lenovo Idea Pad 5
 - Lieferumfang: LenovoIdeaPad 5 14ABA7, Storm Grey, Netzteil, Dokumentation
+- AMD Ryzen 5 5625U Mobil-Prozessor (bis zu 4,3 GHz) mit Radeon-Grafikeinheit
+- Stereolautsprecher mit Dolby Audio. Sichere Anmeldung mit Gesichtserkennung, beleuchtete QWERTZ-Tastatur
+- Stereolautsprecher mit Dolby Audio. Sichere Anmeldung mit Gesichtserkennung, beleuchtete Tastatur
 - Herstellergarantie: 24 Monate + 3 Monate Premium Care. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
-- 14 Zoll FHD IPS-Display. Augenschonend: TÜV Eyesafe Display und TÜV Hardware Low Blue Light zertifiziert
+- Akku: Li-Polymer, 56,5 Wh, Laufzeit bis zu 15,1 Stunden (MobileMark 2018)
 - Model Jahr: 2022
+- Konnektivitäts technologie: WLAN
+- 14 Zoll FHD IPS-Display. Augenschonend: TÜV Eyesafe Display und TÜV Hardware Low Blue Light zertifiziert
 
 [🛒 Hier!!]({{< param buyurl >}})

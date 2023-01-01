@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieser LEGO Modellbausatz für Erwachsene enthält eine Broschüre mit einer Schritt-für-Schritt-Bauanleitung und Erklärungen zur Entstehung
-- Mit dem scheibenförmigen Kopf, den aus dem Hals herausragenden Antennen und schwanzähnlichen Strukturen ist der Langhals als LEGO Figur nachgebildet
 - Modellbausatz von Langhals, der kultigsten Maschine aus Horizon Forbidden West, mit authentischen Eigenschaften und Details
-- Ein bezauberndes 1.222-teiliges LEGO Set für Erwachsene, ideal als Weihnachtsgeschenk für Ihnen oder als Horizon Geschenkidee für den Spiele-Fan in Ihrem Leben
-- Mit der Aloy-Minifigur und einer Wächter-Figur ist das Set als Home-Deko oder Zimmerdeko komplett und fertig zum Ausstellen
-- Das LEGO Sammlerstück zeigt eine vertraute Landschaft: eine Birke aus LEGO Steinen, hohes Gras und eine von einer Ranke umschlungene rostige Ampel
+- Dieser LEGO Modellbausatz für Erwachsene enthält eine Broschüre mit einer Schritt-für-Schritt-Bauanleitung und Erklärungen zur Entstehung
 - Aloy verfügt über einen Bogen und einen Speer aus LEGO Steinen und die Wächter-Figur ist mit blauen, gelben oder roten Augen ausgestattet
+- Das LEGO Sammlerstück zeigt eine vertraute Landschaft: eine Birke aus LEGO Steinen, hohes Gras und eine von einer Ranke umschlungene rostige Ampel
+- Ein bezauberndes 1.222-teiliges LEGO Set für Erwachsene, ideal als Weihnachtsgeschenk für Ihnen oder als Horizon Geschenkidee für den Spiele-Fan in Ihrem Leben
+- Mit dem scheibenförmigen Kopf, den aus dem Hals herausragenden Antennen und schwanzähnlichen Strukturen ist der Langhals als LEGO Figur nachgebildet
+- Mit der Aloy-Minifigur und einer Wächter-Figur ist das Set als Home-Deko oder Zimmerdeko komplett und fertig zum Ausstellen
 
 [🛒 Hier!!]({{< param buyurl >}})
