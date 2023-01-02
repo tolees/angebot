@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 5 Laptop | 14" Full HD WideView Display enstpiegelt | AMD Ryzen R5 5625U | 8GB RAM | 256GB SSD | AMD Radeon RX Vega 7 | Windows 11 Home | grau'
-date: 2023-01-01 13:10:51
+date: 2023-01-02 19:02:41
 image: 'https://m.media-amazon.com/images/I/41R+7cHiClL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -31,12 +31,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Welche komponenten sind im lieferumfang des produkts enthaltenen: Lenovo Idea Pad 5
 - Lieferumfang: LenovoIdeaPad 5 14ABA7, Storm Grey, Netzteil, Dokumentation
 - AMD Ryzen 5 5625U Mobil-Prozessor (bis zu 4,3 GHz) mit Radeon-Grafikeinheit
+- 14 Zoll FHD IPS-Display. Augenschonend: TÜV Eyesafe Display und TÜV Hardware Low Blue Light zertifiziert
 - Stereolautsprecher mit Dolby Audio. Sichere Anmeldung mit Gesichtserkennung, beleuchtete QWERTZ-Tastatur
 - Stereolautsprecher mit Dolby Audio. Sichere Anmeldung mit Gesichtserkennung, beleuchtete Tastatur
+- Konnektivitäts technologie: WLAN
+- Model Jahr: 2022
 - Herstellergarantie: 24 Monate + 3 Monate Premium Care. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Akku: Li-Polymer, 56,5 Wh, Laufzeit bis zu 15,1 Stunden (MobileMark 2018)
-- Model Jahr: 2022
-- Konnektivitäts technologie: WLAN
-- 14 Zoll FHD IPS-Display. Augenschonend: TÜV Eyesafe Display und TÜV Hardware Low Blue Light zertifiziert
 
 [🛒 Hier!!]({{< param buyurl >}})
