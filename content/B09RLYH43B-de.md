@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: FRITZ!Box 7590 AX, Netzteil, 4 Meter DSL-Anschlusskabel, 1,5 m LAN-Kabel, TAE/RJ11-Adapter, Installationsanleitung
 - Innovatives Dualband-4x4-Wi-Fi 6 (WLAN AX)mit 2.400 MBit/s (5 GHz) + 1.200 MBit/s (2,4 GHz) für ultraschnelles, stabiles und effizientes WLAN im anspruchsvollen Heimnetz mit einer Vielzahl an WLAN-Endgeräten
-- Integrierter Mediaserver (USB, NAS) zur Bereitstellung von Filmen, Musik & Bildern im Heimnetz sowie leistungsfähige Plattform für vernetzte Multimedia-Anwendungen wie IPTV, Video on Demand und 4K-Streaming
-- Internet-Geschwindigkeit von bis zu 300 MBit/s durch zukunftssicheres VDSL-Supervectoring 35b; leistungsstarke WLAN-Mesh Zentrale: automatische Zusammenlegung eingesetzter Fritz-Produkte zu einem intelligenten WLAN-Netz mit optimaler Leistung
 - VoIP-Telefonanlage sowie zwei analoge Telefon-Anschlüsse: Basis für bis zu 6 Schnurlos-Telefone, 5 integrierte Anrufbeantworter inkl. Voice-to-Mail, Verwaltung von Telefonbüchern und Steuerung der FRITZ!DECT Produkte, wie Heizkörperregler, LED-Lampe und schaltbare Steckdosen
+- Internet-Geschwindigkeit von bis zu 300 MBit/s durch zukunftssicheres VDSL-Supervectoring 35b; leistungsstarke WLAN-Mesh Zentrale: automatische Zusammenlegung eingesetzter Fritz-Produkte zu einem intelligenten WLAN-Netz mit optimaler Leistung
+- Integrierter Mediaserver (USB, NAS) zur Bereitstellung von Filmen, Musik & Bildern im Heimnetz sowie leistungsfähige Plattform für vernetzte Multimedia-Anwendungen wie IPTV, Video on Demand und 4K-Streaming
+- Lieferumfang: FRITZ!Box 7590 AX, Netzteil, 4 Meter DSL-Anschlusskabel, 1,5 m LAN-Kabel, TAE/RJ11-Adapter, Installationsanleitung
 
 [🛒 Hier!!]({{< param buyurl >}})
