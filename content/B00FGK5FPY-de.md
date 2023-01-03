@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aroma und Geschmack: Vollmundig und gut ausgewogen bezüglich Geschmack und Intensität des Aromas für einen kräftigen italienischen Espresso
+- Beschreibung der Mischung: Mischung aus Bohnenkaffees Die Auswahl der Bohnen erfolgt direkt in den Herkunftsländern, er wird in einer geschützten Atmosphäre verpackt
 - Produkt: Bohnenkaffee von Pellini Espresso Bar Nr.82 Vivace. 1 kg Packung
 - Zusammensetzung der Mischung: Arabica Kaffee gewaschen und natürlich, Robusta-Kaffee natürlich. Röstgrad: Medium
-- Beschreibung der Mischung: Mischung aus Bohnenkaffees Die Auswahl der Bohnen erfolgt direkt in den Herkunftsländern, er wird in einer geschützten Atmosphäre verpackt
+- Aroma und Geschmack: Vollmundig und gut ausgewogen bezüglich Geschmack und Intensität des Aromas für einen kräftigen italienischen Espresso
 - Jeder Espresso enthält die ganze Erfahrung von Pellini, die sich durch Geschichte, Tradition und Kompetenz in der Zusammensetzung von Mischungen hoher Qualität kennzeichnet
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält die LEGO Friends Mini-Puppen Mia und Daniel und eine Ponyfigur, sowie einen Schmetterling, einen Apfel, eine Bürste und Schere und eine Tränke
-- Das Set enthält einen Spielzeug Pferdestall mit Dusche und drehbarem Ständer sowie ein Pony, das die Kinder waschen und striegeln können
 - Dieses Pferd Spielzeug wird mit einem hilfreichen Starter-Baustein geliefert, den Kinder als Basis für den Bau verwenden können
+- Enthält die LEGO Friends Mini-Puppen Mia und Daniel und eine Ponyfigur, sowie einen Schmetterling, einen Apfel, eine Bürste und Schere und eine Tränke
 - Mit diesem LEGO Friends Tiere Bausatz können kleine Tierliebhaber bauen lernen und dabei kreativen Rollenspielspaß erleben
+- Das Set enthält einen Spielzeug Pferdestall mit Dusche und drehbarem Ständer sowie ein Pony, das die Kinder waschen und striegeln können
 - Kinder können die Pferde Figur auf dem drehbaren Ständer helfen und ihm eine erfrischende Dusche verpassen und die Mähne firsieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
