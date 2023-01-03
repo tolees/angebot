@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Silent Witness Seizoen 22'
-date: 2023-01-02 14:22:49
+date: 2023-01-03 14:30:02
 image: 'https://m.media-amazon.com/images/I/514saaflV4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B07PPQ9JVF/?tag=tolees0ca-21'
 descuento: '42.14'
-average: '11.8557692307691'
+average: '11.831111111111'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
