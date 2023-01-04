@@ -30,11 +30,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 1000 ml
 - Für Lang Anhaltende Farbbrillanz
-- Verleiht lang anhaltende Farbbrillanz
-- Die Haarfarbe wird vor dem Verblassen und der Verschiebung geschützt
-- Coloriertes Haar fühlt sich wieder gepflegt an
 - Das neue SP Color Save Shampoo bietet optimalen Farbschutz mit 3D protect Technology!
-- Schützt Vor Verblassen Und Farbverschiebung
+- Coloriertes Haar fühlt sich wieder gepflegt an
+- Die Haarfarbe wird vor dem Verblassen und der Verschiebung geschützt
 - Farbschutz-Shampoo Mit 3D Protect Technology
+- Verleiht lang anhaltende Farbbrillanz
+- Schützt Vor Verblassen Und Farbverschiebung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
