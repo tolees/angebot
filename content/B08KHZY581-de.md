@@ -30,7 +30,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lesegeschwindigkeiten bis zu 200MB/s¹
 - Artikelnummer: DTKN/256GB
-- Stylisches und kappenloses Metalldesign
 - Funktionelle Öse zum Anhängen an den Schlüsselring
+- Stylisches und kappenloses Metalldesign
 
 [🛒 Hier!!]({{< param buyurl >}})
