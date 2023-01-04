@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUWEN WLAN Repeater  WLAN Verstärker 300Mbit/s 2 4GHz WiFi Range Extender  Fast-Ethernet Port  WPS Taste  EU Stecker  Mini WLAN Verstaerker Receiver Kompatibel mit Allen WLAN Geräte'
-date: 2023-01-02 21:31:34
+date: 2023-01-04 21:48:14
 image: 'https://m.media-amazon.com/images/I/317V2XM4-YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'SUWEN'
 buyurl: 'https://www.amazon.de/dp/B0BF6XCZJ9/?tag=tolees0ca-21'
 descuento: '22.17'
-average: '15.0175'
+average: '14.97'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
