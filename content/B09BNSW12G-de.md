@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kinder können mit dem Roboter Geschichten nachspielen, mit dem Drachen in Aktion treten oder mit dem Spielzeug-Flugzeug hoch hinauf fliegen
+- Das Super-Mech Kinderspielzeug für Kinder ab 6 Jahren bietet 3 Modelle: einen Spielzeug-Roboter, eine Drachenfigur und ein Spielzeug-Flugzeug
 - Die Höhe des Spielzeug-Roboters von 15 cm gibt den Kindern die Möglichkeit, mit ihm zu Hause zu spielen oder ihn überallhin mitzunehmen
 - Halte Ausschau nach weiteren LEGO Creator 3-in-1 Sets: Geländebuggy (31123), Überschalljet (31126) & Wald-Fabelwesen (31125)
-- Das Super-Mech Kinderspielzeug für Kinder ab 6 Jahren bietet 3 Modelle: einen Spielzeug-Roboter, eine Drachenfigur und ein Spielzeug-Flugzeug
 - Der Mech hat einen beweglichen Kopf, Gliedmassen und Flügel; das Drachenmodell ist voll beweglich und das Flugzeug hat verstellbare Träger
 - Mit dem kreativen Spielzeug können Kinder stundenlang fantasievoll spielen und 3 verschiedene bunte Modelle in jeder Box bauen
 
