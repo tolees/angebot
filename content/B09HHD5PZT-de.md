@@ -29,14 +29,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit dem GPS + Cellular Modell kannst du anrufen, texten und Wegbeschreibungen erhalten – ganz ohne Telefon. (Unterstützte Anbieter: O2, Telekom and Vodafone. Apple Watch und iPhone benötigen denselben Mobilfunkanbieter.)
-- Das bruchsicherste Frontglas, das eine Apple Watch je hatte, staubgeschützt nach IP6X und schwimmfest
-- Miss den Sauerstoffgehalt in deinem Blut mit einem leistungsstarken Sensor und einer App
-- Tracke neue Tai‑Chi und Pilates Workouts, zusätzlich zu deinen Lieblingsworkouts wie Laufen, Yoga, Schwimmen und Tanzen
+- Bleib durch Anrufe, Nachrichten und E‑Mails mit deiner Familie und deinen Freund:innen in Verbindung, auch wenn du dein iPhone nicht dabeihast
 - Die Apple Watch Series 7 erfordert ein iPhone 6s oder neuer mit iOS 15 oder neuer
-- Das Always-On Retina Display hat einen fast 20 % größeren Displaybereich als die Series 6, damit du alles besser sehen und einfacher bedienen kannst
-- Streame unterwegs Musik, Podcasts und Hörbücher und lass dein iPhone zu Hause
 - Mach ein EKG. Immer und überall.
 - Erhalte Mitteilungen bei hoher und niedriger Herzfrequenz und bei unregelmäßigem Herzrhythmus
-- Bleib durch Anrufe, Nachrichten und E‑Mails mit deiner Familie und deinen Freund:innen in Verbindung, auch wenn du dein iPhone nicht dabeihast
+- Miss den Sauerstoffgehalt in deinem Blut mit einem leistungsstarken Sensor und einer App
+- Tracke neue Tai‑Chi und Pilates Workouts, zusätzlich zu deinen Lieblingsworkouts wie Laufen, Yoga, Schwimmen und Tanzen
+- Das bruchsicherste Frontglas, das eine Apple Watch je hatte, staubgeschützt nach IP6X und schwimmfest
+- Streame unterwegs Musik, Podcasts und Hörbücher und lass dein iPhone zu Hause
+- Das Always-On Retina Display hat einen fast 20 % größeren Displaybereich als die Series 6, damit du alles besser sehen und einfacher bedienen kannst
 
 [🛒 Hier!!]({{< param buyurl >}})
