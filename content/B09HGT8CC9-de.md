@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die ergonomisch geformten Ohrhörer sitzen passgenau und sorgen für einen angenehmen Tragekomfort, sodass der Hörgenuss auch nach einem ausgiebigen Training oder Bürotag gewährleistet ist
-- Leichte Bedienung: Die Headphones mit Mikrofon bieten Flexibilität - dank Dual Connect Anrufe entgegennehmen, Lautstärke einstellen, den Sprachassistenten verwenden und weiterhin Musik hören
 - Ausdauerpaket: Die In-Ear Kopfhörer bieten durch ihren leistungsstarken Akku bis zu 20 Stunden Wiedergabezeit (5h Ohrhörer, 15h Ladebox) und sind nach nur 2 Stunden wieder vollständig geladen
 - Lieferumfang: 1 x JBL Wave 100TWS Kopfhörer in Schwarz in 2 Größen inkl. Typ-C-Ladekabel sowie Kurzanleitung, Garantieschein und Sicherheitsdatenblatt / Bluetooth 5.0 / Bis zu 20h Spielzeit
+- Leichte Bedienung: Die Headphones mit Mikrofon bieten Flexibilität - dank Dual Connect Anrufe entgegennehmen, Lautstärke einstellen, den Sprachassistenten verwenden und weiterhin Musik hören
 - Für die ganz besonderen Sounderlebnisse: Die JBL Wave 100TWS Earphones bestechen mit dem JBL Deep Bass Sound und ermöglichen dank der kabellosen Bluetooth Verbindung volle Bewegungsfreiheit
 
 [🛒 Hier!!]({{< param buyurl >}})
