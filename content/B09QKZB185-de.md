@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schreiben, skizzieren, kritzeln oder zeichnen – erwecke mit dem S Pen mit niedriger Latenz Ihre wildesten Träume zum Leben
-- Auto Framing rückt Ihnen ins Rampenlicht, wie es sich gehört. So koennen Sie Ihre Tanzstunde aufzeichnen und die Kamera zoomt automatisch und ist auf Ihnen und Ihre Bewegungen fokussieren
 - 1000 Stift-Funktionen in einem Gerät bieten Ihnen ein beeindruckendes Maß an Kontrolle
+- Schreiben, skizzieren, kritzeln oder zeichnen – erwecke mit dem S Pen mit niedriger Latenz Ihre wildesten Träume zum Leben
 - Dieser 11-Zoll-TFT-Bildschirm hat eine Menge zu bieten. Von 5G über einen großen Akku bis hin zu einer 12-MP-Ultra-Weitwinkel-Frontkamera. Und natürlich ist auch der S Pen dabei
+- Auto Framing rückt Ihnen ins Rampenlicht, wie es sich gehört. So koennen Sie Ihre Tanzstunde aufzeichnen und die Kamera zoomt automatisch und ist auf Ihnen und Ihre Bewegungen fokussieren
 
 [🛒 Hier!!]({{< param buyurl >}})
