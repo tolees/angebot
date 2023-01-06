@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: 0.Kein Verschluss
-- 10 centimeters
-- Innenmaterial: Baumwolle
 - 15 centimeters
+- 10 centimeters
+- Verschluss: 0.Kein Verschluss
 - Obermaterial: Leder
+- Innenmaterial: Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

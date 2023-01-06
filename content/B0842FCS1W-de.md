@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Karabiner
-- Finish: Matt
 - Verpackt in Emporio Armani Geschenkbox
 - Hauptfarbe: Silber
 - Material: Leder
+- Verschluss: Karabiner
+- Finish: Matt
 
 [🛒 Hier!!]({{< param buyurl >}})

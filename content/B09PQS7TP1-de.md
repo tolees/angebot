@@ -28,7 +28,7 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- aus goldfarbenem
 - Material: Edelstahl
+- aus goldfarbenem
 
 [🛒 Hier!!]({{< param buyurl >}})

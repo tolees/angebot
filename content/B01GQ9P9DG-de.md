@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackt in Armani Exchange Geschenkbox
 - Bandbreite: 22 mm; Bandumfang: 200 +/- 5 mm
 - Wasserdichtigkeit: 5 ATM
-- Bandmaterial: Edelstahl
 - Gehäusehöhe: 10 mm; Gehäusegröße: 44 mm
+- Bandmaterial: Edelstahl
+- Verpackt in Armani Exchange Geschenkbox
 
 [🛒 Hier!!]({{< param buyurl >}})
