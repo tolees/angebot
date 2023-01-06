@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WLAN-TEMPERATURFEUCHTE: WLAN-Temperatursensor verbindet sich mit 2,4-GHz-WLAN (unterstützt kein 5G-WLAN), genaue Messung in Echtzeit ohne Verzögerung. Mit diesem Artikel können Sie Ihr Babyzimmer, Ihren Weinkeller oder Ihre Garage überall überwachen.
-- SPRACHSTEUERUNG: Wandtemperatursensor Indoor funktioniert mit Alexa, Google Assistant, unterstützt Alexa und Google Home bei der Abfrage von Temperatur und Luftfeuchtigkeit: Alexa, wie hoch ist die Temperatur von <Gerätename>？Alexa, wie hoch ist die <Gerät> Luftfeuchtigkeit？
-- 2 JAHRE Datenspeicherungsexport: Sie können aktuelle Temperatur- und Feuchtigkeitsaufzeichnungen über ein Kurvendiagramm abrufen. Drücken Sie in der App auf „Daten als CSV exportieren“, um die Daten der letzten 2 Jahre auf Ihr Telefon zu exportieren.
-- WLAN-TEMPERATURFEUCHTE: WLAN-Temperatursensor verbindet sich mit 2,4-GHz-WLAN (unterstützt kein 5G-WLAN), genaue Messung in Echtzeit ohne Verzögerung. Mit diesem Artikel können Sie Ihr Babyzimmer, Ihren Weinkeller oder Ihre Garage überall überwachen.
 - SMART SZENE ZUM AUSLÖSEN VON GERÄTEN ODER WARNUNGEN: Das Alexa-Thermometer für den Innenbereich kann eine intelligente Verknüpfung durchführen. Sie können eine intelligente Szene einrichten, um Warnungen durch Ereignisse wie hohe/niedrige Temperatur, hohe/niedrige Luftfeuchtigkeit auszulösen, wenn die Werte außerhalb dieses Bereichs liegen, erhalten Sie sofort eine Benachrichtigung.
-- Als Batterie wird die Verwendung von AAA-Alkali-Trockenbatterien empfohlen. Kohle-Trockenbatterie wird nicht empfohlen.
 - ERINNERUNG BEI SCHWACHEM BATTERIESTAND: Zuerst sollten Sie die Option zur Erinnerung an niedrigen Batteriestand in der APP aktivieren. Wenn die Batterieleistung auf etwa 3,6 V verbraucht ist, benachrichtigt Sie die APP in Form einer Benachrichtigung.
+- WLAN-TEMPERATURFEUCHTE: WLAN-Temperatursensor verbindet sich mit 2,4-GHz-WLAN (unterstützt kein 5G-WLAN), genaue Messung in Echtzeit ohne Verzögerung. Mit diesem Artikel können Sie Ihr Babyzimmer, Ihren Weinkeller oder Ihre Garage überall überwachen.
+- WLAN-TEMPERATURFEUCHTE: WLAN-Temperatursensor verbindet sich mit 2,4-GHz-WLAN (unterstützt kein 5G-WLAN), genaue Messung in Echtzeit ohne Verzögerung. Mit diesem Artikel können Sie Ihr Babyzimmer, Ihren Weinkeller oder Ihre Garage überall überwachen.
+- 2 JAHRE Datenspeicherungsexport: Sie können aktuelle Temperatur- und Feuchtigkeitsaufzeichnungen über ein Kurvendiagramm abrufen. Drücken Sie in der App auf „Daten als CSV exportieren“, um die Daten der letzten 2 Jahre auf Ihr Telefon zu exportieren.
+- Als Batterie wird die Verwendung von AAA-Alkali-Trockenbatterien empfohlen. Kohle-Trockenbatterie wird nicht empfohlen.
+- SPRACHSTEUERUNG: Wandtemperatursensor Indoor funktioniert mit Alexa, Google Assistant, unterstützt Alexa und Google Home bei der Abfrage von Temperatur und Luftfeuchtigkeit: Alexa, wie hoch ist die Temperatur von <Gerätename>？Alexa, wie hoch ist die <Gerät> Luftfeuchtigkeit？
 
 [🛒 Hier!!]({{< param buyurl >}})
