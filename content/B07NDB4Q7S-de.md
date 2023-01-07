@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das LEGO Star Wars Set ist ein tolles Geschenk zu Weihnachten für Mädchen und Jungen ab 9 Jahren oder einfach als Sammlerstück für jede andere Gelegenheit
-- Das Raumschiff ist 14 cm hoch, 44 cm lan und 32 cm breit
 - Zu den äußeren Merkmalen des Modells „Millennium Falcon“ von LEGO Star Wars gehören drehbare obere und untere Geschütztürme (in den unteren Geschützturm passen 2 Minifiguren), 2 Shooter mit Federmechanismus, eine absenkbare Rampe und ein aufklappbares Cockpit mit Platz für 2 Minifiguren
-- Enthält 7 LEGO Star Wars Figuren: Finn, Chewbacca, C-3PO, Lando Calrissian und Boolio als Minifiguren sowie die Droiden R2-D2 und D-O als LEGO Figuren
 - Zur Ausrüstung gehören Chewbaccas Bowcaster und die Blaster von Finn und Lando
+- Enthält 7 LEGO Star Wars Figuren: Finn, Chewbacca, C-3PO, Lando Calrissian und Boolio als Minifiguren sowie die Droiden R2-D2 und D-O als LEGO Figuren
+- Das LEGO Star Wars Set ist ein tolles Geschenk zu Weihnachten für Mädchen und Jungen ab 9 Jahren oder einfach als Sammlerstück für jede andere Gelegenheit
 - Zu den inneren Merkmalen gehören ein Frachtraum mit 2 Containern, ein Navigationscomputer mit drehbarem Stuhl, eine Couch mit Dejarik-Holospieltisch, Koje, ein verstecktes Schmuggelfach und ein Hyperantrieb mit Werkzeug für Reparaturen
+- Das Raumschiff ist 14 cm hoch, 44 cm lan und 32 cm breit
 
 [🛒 Hier!!]({{< param buyurl >}})
