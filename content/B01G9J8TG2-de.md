@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pandora Film Verleih - Tomorrow - Die Welt ist voller Lösungen [Blu-ray]'
-date: 2023-01-05 22:25:46
+date: 2023-01-07 22:34:34
 image: 'https://m.media-amazon.com/images/I/51cqtnc2+HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Pandora Film Verleih'
 buyurl: 'https://www.amazon.de/dp/B01G9J8TG2/?tag=tolees0ca-21'
 descuento: '23.78'
-average: '16.6144155844154'
+average: '16.5674358974357'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
