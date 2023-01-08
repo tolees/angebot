@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nährwerte (pro 100 g ohne Schale): Energie 577kcal; Fett 44,9g; Kohlenhydrate 17,6g; Eiweiß 20,6g; Ballaststoffe 10g
-- Warnung: Kleine Kinder können an Nüssen ersticken
-- Jede Packung enthält 4 Portionen
-- Unter Schutzatmosphäre verpackt. Nach dem Öffnen in einem luftdichten Behälter aufbewahren
 - Zutaten: Pistazien (98 %), Meersalz (2 %)
-- Abgepackt in Italien
-- Hoher Ballaststoffgehalt - Für eine vegetarische und vegane Ernährung geeignet
+- Jede Packung enthält 4 Portionen
 - Aufgrund des Herstellungsverfahrens nicht für andere Nuss- und Erdnuss-Allergiker geeignet
+- Unter Schutzatmosphäre verpackt. Nach dem Öffnen in einem luftdichten Behälter aufbewahren
+- Warnung: Kleine Kinder können an Nüssen ersticken
 - 1-er Pack: 1 x 250g
+- Hoher Ballaststoffgehalt - Für eine vegetarische und vegane Ernährung geeignet
+- Nährwerte (pro 100 g ohne Schale): Energie 577kcal; Fett 44,9g; Kohlenhydrate 17,6g; Eiweiß 20,6g; Ballaststoffe 10g
+- Abgepackt in Italien
 - Pistazien in der Schale, geröstet und gesalzen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
