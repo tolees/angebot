@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Zum Verbinden Ihres Rechners mit einem Drahtlos-Netzwerk. Für datenintensive Anwendungen ist der dualbandfähige Aplic WLAN USB 3.2 Gen1 -Stick dank schneller Übertragung mit 1200 MBit/s ideal. | 304309
 - Der WLAN Stick unterstützt USB 3.2 Gen.1 und verbindet sich mit schnellen 5 Gbps mit Ihrem PC. Die große externe Dual-Band-Antenne ermöglicht stabile Verbindungen über große Distanzen hinweg.
 - Der Stick ist mit einem WLAN-Standard der modernsten Generation - IEEE 802.11ac – ausgestattet. Er unterstützt auch sonst alle gängigen Wi-Fi-Standards (802.11ac/n/g/b/a) und verschlüsselt Router sicher per WPA/ WPA2 und WEP.
-- Zum Verbinden Ihres Rechners mit einem Drahtlos-Netzwerk. Für datenintensive Anwendungen ist der dualbandfähige Aplic WLAN USB 3.2 Gen1 -Stick dank schneller Übertragung mit 1200 MBit/s ideal. | 304309
 - Hohe Datenrate dank Doppel-Frequenzband: Mit einer Geschwindigkeit von 866 Mbit/s über das 5 GHz-Band und 300 Mbit/s über das 2,4GHz-Band genießen Sie störungs- und ruckelfreies HD-Videostreaming, Online-Gaming und VoIP-Telefonie. Im 5 GHz-Bereich sind Sie sicher vor Interferenzen mit Geräten wie schnurlosen Telefonen, Babyphones, Gegensprechanlagen etc.
 - Plug & Play: Der USB-WLAN-Dongle wird automatisch von Windows 7-11-Systemen (32/64 Bit) erkannt. Je nach Systemkonfiguration kann unter Windows 7 die Installation von Treibern notwendig sein.
 
