@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch den integrierten Gigabit-Ethernet-Anschluss kann der DWR-2101 eine echte Alternative zum herkömmlichen Festnetz-Internet sein
-- Der integrierte Wi-Fi 6-Hotspot bietet kombinierte drahtlose Dualband-Geschwindigkeiten von bis zu 1,8 Gbit/s
 - Das kompakte Design macht es leicht tragbar, während der austauschbare Akku unterwegs bis zu 14 Stunden Konnektivität bietet
 - Die 5G-Konnektivität bietet mobile Internet-Download-Geschwindigkeiten von bis zu 1,6 Gbit/s ; Schnittstellen: Ein 10/100/1000 Gigabit Ethernet LAN-Port Nano-SIM-Kartensteckplatz
 - Mit dem intuitiven Farb-LCD-Touchscreen können Sie den Status Ihrer Verbindung anzeigen und Einstellungen ändern
+- Durch den integrierten Gigabit-Ethernet-Anschluss kann der DWR-2101 eine echte Alternative zum herkömmlichen Festnetz-Internet sein
+- Der integrierte Wi-Fi 6-Hotspot bietet kombinierte drahtlose Dualband-Geschwindigkeiten von bis zu 1,8 Gbit/s
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
