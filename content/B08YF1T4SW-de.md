@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB13 Bluetooth-Lautsprecher  kompakt  robust  wasserabweisend  Extra Bass  16h Akkulaufzeit  Schwarz'
-date: 2023-01-08 09:14:10
+date: 2023-01-09 09:42:43
 image: 'https://m.media-amazon.com/images/I/31Wwo-1IG3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B08YF1T4SW/?tag=tolees0ca-21'
 descuento: '44.91'
-average: '38.135'
+average: '37.5644444444444'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bose Solo 5 TV-Soundsystem  Bluetooth-Soundbar  Schwarz'
-date: 2023-01-05 08:35:56
+date: 2023-01-09 09:38:36
 image: 'https://m.media-amazon.com/images/I/31gC3DZgiSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bose'
 buyurl: 'https://www.amazon.de/dp/B0117RGXC8/?tag=tolees0ca-21'
 descuento: '44.42'
-average: '183.104'
+average: '178.52'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfache Installation mit lediglich einer Verbindung zum TV-Gerät und einer Verbindung zu einer Steckdose.
-- Der einzelne Lautsprecher passt nahtlos unter Ihren Flachbildfernseher, weiteres Zubehör ist nicht erforderlich.
 - Breites, räumliches Klangbild dank Bose Speaker Array Technologie..Mounting Type: Wandmontage
+- Der einzelne Lautsprecher passt nahtlos unter Ihren Flachbildfernseher, weiteres Zubehör ist nicht erforderlich.
 - Anschlüsse: 1x digitaler Audioeingang, 1x koaxialer Audioeingang, 1x analoger Audioeingang
 - Mehr Sound-Effekte, Musik und Dialoge, klar und naturgetreu, dank patentiertem Digital Signal Processing.
 
