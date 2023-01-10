@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bis zu 45% mehr Geschwindigkeit als die schnellste Gen3 NVMe SSDs
-- NVMe (PCIe Gen4 x4) technologie met tot 5000 MB/s sequentiële lezingen, random lezen/schrijven
-- Solide Gen3-Leistung
 - NVMe-Technologie (PCIe Gen3 x4) mit bis zu 3500 MB/s sequenziellen Lesevorgängen, zufälligem Lese-/Schreibzugriff 650K/700K IOPS
+- NVMe (PCIe Gen4 x4) technologie met tot 5000 MB/s sequentiële lezingen, random lezen/schrijven
 - Überragende Speicherkapazitäten bis hin zu 4TB
+- Solide Gen3-Leistung
 
 [🛒 Hier!!]({{< param buyurl >}})
