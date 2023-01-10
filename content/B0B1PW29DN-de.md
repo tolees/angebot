@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intelligenten LED Digitalanzeige: Diese bluetooth-kopfhörer ausgestattet mit einer einzigartigen intelligenten digitalen LED anzeige, zeigt genau die verbleibende leistung in digitalem format. Für die rechten oder linken wireless kopfhörer gibt es getrennte stromverbrauchsanzeigen.
 - Außergewöhnliche Klangqualität: IT100Plus headphones AAC Audio-Codec und 13 mm großer Lautsprechertreiber (der Laufwerksbereich ist 2,16 mal als der normale Laufwerksbereich) liefert kraftvolle Bässe (niedrigste 16 Hz), weiche Mitteltöner und klare Höhen (bis zu 20 kHz)für den angenehmsten Sound in den Ohre. Unterstützt Einzel-/Doppelohrmodus.
+- Intelligenten LED Digitalanzeige: Diese bluetooth-kopfhörer ausgestattet mit einer einzigartigen intelligenten digitalen LED anzeige, zeigt genau die verbleibende leistung in digitalem format. Für die rechten oder linken wireless kopfhörer gibt es getrennte stromverbrauchsanzeigen.
 - Lange Lebensdauer und Ein-Schritt-Pairing: Wireless kopfhörer bieten 8 Stunden Spielzeit mit einer einzigen Ladung, während die Ladehülle diese auf 40 Stunden verlängert. Nachdem Sie Ihre Geräte zum ersten Mal gekoppelt haben, sie werden automatisch mit dem letzten gekoppelten Gerät verbinden, wenn Sie das Ladeetui öffnen.
 - Klare Anrufe: Jeder kabellose Kopfhörer mit HD Mikrofonen und ENC-Algorithmus zur Geräuschreduzierung, der 85% der Hintergrundgeräusche filtern kann und Ihre Stimme für hervorragende Klarheit während eines Anrufs aufnimmt. Ideal für Anrufe, Facetime und Online-Meetings
 - Smart Touch-Steuerung: Die mühelose On-Ear-Touch-Steuerung ermöglicht Ihnen den Zugriff auf die Lautstärkeregelung, das Wechseln von Songs, das Pausieren/Annehmen von Anrufen und das Aktivieren des Sprachassistenten, der einfach gesteuert werden kann, ohne das Telefon zu bedienen.
