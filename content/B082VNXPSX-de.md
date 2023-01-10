@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dank jahrzehntelanger Erfahrung kreieren die Maîtres Chocolatiers Schweizer Schokolade in Idealion
-- Genießen Sie diese feinschmelzende Lindt Vollmilch-Schokolade und erleben Sie den vollen, glutenfreien Lindt Schokoladen-Genuss ohne Zuckerzusatz
-- Aus feinsten Zutaten, darunter Kakaobohnen aus nachhaltigem Anbau
-- Über 175 Jahre Schweizer Schokoladenexpertise, die Basis unseres Schaffens: Seit 1845 verwöhnt Lindt Kundinnen & Kunden mit Qualitätsprodukten
 - Ideal für den Genuss zwischendurch, zum Teilen oder Genießen in besonderen Momenten – allein oder mit den Liebsten
 - Die besondere Note der Klassiker-Tafel Vollmilch ohne Zuckerzusatz bleibt ein Geheimnis unserer Maîtres Chocolatiers
+- Aus feinsten Zutaten, darunter Kakaobohnen aus nachhaltigem Anbau
+- Über 175 Jahre Schweizer Schokoladenexpertise, die Basis unseres Schaffens: Seit 1845 verwöhnt Lindt Kundinnen & Kunden mit Qualitätsprodukten
+- Genießen Sie diese feinschmelzende Lindt Vollmilch-Schokolade und erleben Sie den vollen, glutenfreien Lindt Schokoladen-Genuss ohne Zuckerzusatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

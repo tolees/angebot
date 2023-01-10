@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paramount Home Entertainment - Transformers: Age of Extinction [Blu-ray + Bonus Disc] [Region Free]'
-date: 2023-01-07 15:11:28
+date: 2023-01-10 15:31:05
 image: 'https://m.media-amazon.com/images/I/61gVuXfu89L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Paramount Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B00LA8H82E/?tag=tolees0ca-21'
 descuento: '63.89'
-average: '2.78'
+average: '2.63333333333333'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

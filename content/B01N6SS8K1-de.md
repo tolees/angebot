@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Lieferung enthält 14 x 38g Beutel
-- Weiche, mundgerechte Kaubonbons, mit einer leuchtenden, farbenfrohen Explosion von fruchtigen Aromen
 - Lasst uns feiern! Ideal zum Teilen mit Freunden und Familie zu besonderen Anlässen wie Halloween, Weihnachten oder Ostern
 - Share the rainbow, taste the rainbow mit Skittles
 - Skittles Fruits Kaubonbons enthalten die Geschmacksrichtungen Orange, Limette, Zitrone, Erdbeere und Schwarze Johannisbeere
+- Weiche, mundgerechte Kaubonbons, mit einer leuchtenden, farbenfrohen Explosion von fruchtigen Aromen
 
 [🛒 Hier!!]({{< param buyurl >}})
