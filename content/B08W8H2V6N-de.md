@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kombiniere das Set mit anderen aus der „LEGO City Stuntshow“-Reihe (separat erhältlich) für mitreißende Vorstellungen
 - Im Set sind 2 LEGO-Minifiguren enthalten, eine von ihnen ist kein Geringerer als Duke DeTain – einst LEGO-City-Police- und TV-Charakter und nun Rennfahrer
+- Das Set LEGO City Stunt-Wettbewerb enthält 2 Spielzeug-Motorräder, eine Rampe, einen Feuerreifen mit Flammen zum Zusammenbauen und einen höhenverstellbaren Turm
+- Enthält eine gedruckte Bauanleitung und Instructions PLUS in der kostenlosen LEGO Building Instructions App für Smart-Geräte, um Kindern beim Bauen zu helfen
 - Kinder können die Höhe des Reifens verstellen, um die Schwierigkeit und Länge des Sprungs der Stuntbikes zu erhöhen
 - Dieses 73 Teile umfassende Spielzeug für Kinder ab 5 Jahren aus der erweiterbaren „LEGO City Stuntshow“-Reihe ist ein prima Weihnachts- oder Geburtstagsgeschenk
-- Enthält eine gedruckte Bauanleitung und Instructions PLUS in der kostenlosen LEGO Building Instructions App für Smart-Geräte, um Kindern beim Bauen zu helfen
-- Kombiniere das Set mit anderen aus der „LEGO City Stuntshow“-Reihe (separat erhältlich) für mitreißende Vorstellungen
-- Das Set LEGO City Stunt-Wettbewerb enthält 2 Spielzeug-Motorräder, eine Rampe, einen Feuerreifen mit Flammen zum Zusammenbauen und einen höhenverstellbaren Turm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
