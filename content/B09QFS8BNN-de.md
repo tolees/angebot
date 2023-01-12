@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Interaktives Tierspielzeug: die Schafe können geschoren werden, die Tiere mit dem Schlauch gewaschen werden und es gibt Mist zu schaufeln
+- Enthält die Minifigur Peach und 3 weitere Minifiguren sowie die Figuren Eichhörnchen, Schaf, Lamm, Schwein, Ferkel, Kuh und Kalb
 - Die Kinder können den Anhänger des Traktors mit der Hebebühne der Scheune beladen, das Dach öffnen und sich um die Bauernhoftiere kümmern
 - Dieses Bauernhof Spielzeug enthält eine Scheune, ein Gewächshaus, ein Spielzeug-Traktor mit Anhänger und weiteres Zubehör wie Schaufel, Schere, Heugabel und Gießkanne
-- Enthält die Minifigur Peach und 3 weitere Minifiguren sowie die Figuren Eichhörnchen, Schaf, Lamm, Schwein, Ferkel, Kuh und Kalb
 - Kinder ab 4 Jahre können mit dem LEGO Spielset Bauernhof mit Tieren mit vielen Figuren und Bauernhofzubehör viel Spaß auf dem Bauernhof haben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

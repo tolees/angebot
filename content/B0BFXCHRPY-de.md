@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AOTONOK - Bluetooth 5.3 Kopfhörer Sport  In Ear Kopfhörer Kabellos Bluetooth Immersiver HiFi mit Mic  40Std CVC 8.0 Noise Cancelling Ohrhörer  IP7 Wasserdicht Wireless Earbuds  Dual LED Anzeige Lauf Kopfhörer'
-date: 2023-01-03 02:30:25
+date: 2023-01-12 17:09:07
 image: 'https://m.media-amazon.com/images/I/41HYzqd1euL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'AOTONOK'
 buyurl: 'https://www.amazon.de/dp/B0BFXCHRPY/?tag=tolees0ca-21'
 descuento: '45.01'
-average: '31.74'
+average: '31.8361538461538'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
