@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuerung über Google Assistant oder Amazon Alexa möglich
-- Hohe Schaltleistung: bis zu 2.300 W / 10 A
 - Steuerung über LEDVANCE SMART+ WiFi App möglich (ab Android 4.4 oder ab iOS 9.0)
+- Steuerung über Google Assistant oder Amazon Alexa möglich
 - Bitte beachten Sie immer den SMART + Bereich der Ledvance-Webseite
-- Steuerung über die LEDVANCE SMART+ WiFi Fernbedienung möglich
+- Hohe Schaltleistung: bis zu 2.300 W / 10 A
 - Netzwerkprotokoll: WiFi
+- Steuerung über die LEDVANCE SMART+ WiFi Fernbedienung möglich
 
 [🛒 Hier!!]({{< param buyurl >}})

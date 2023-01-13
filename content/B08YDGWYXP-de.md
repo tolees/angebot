@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [Stabiles WLAN-Netzwerk] Dank eines extrem starken 1,5 GHz Quad-Core Prozessors wird die Leistungskapazität und die Geräteverarbeitung im Netzwerk deutlich verbessert.
-- [Einfache Steuerung per Tenda-App] Entdecken Sie mehr Sicherheit und Kontrolle über Ihr WLAN-Netzwerk. Dank der Tenda App haben Sie z. B. Zugriff auf erweiterte Sicherheitsfunktionen und können den Internetzugriff für ausgewählte Geräte begrenzen.
 - [Wi-Fi 6 Technologie] Der RX3 WI-FI 6 Router bietet neuste Wi-Fi 6 (802.11ax) Technologie mit WLAN-Geschwindigkeiten bis zu 1202 Mbit/s bei 5 GHz und 574 Mbit/s auf dem 2,4 GHz Band. Genießen Sie flüssiges 4K-Videostreaming und anspruchsvolles Online-Gaming.
-- [Verbesserte Leistung] Der RX3 AX Router kann bis zu 128 Geräte im Netzwerk verarbeiten, unterstützt die MU-MIMO als auch die OFDMA-Technologie und kann gleichzeitig Daten an mehrere Endgeräte senden.
+- [Einfache Steuerung per Tenda-App] Entdecken Sie mehr Sicherheit und Kontrolle über Ihr WLAN-Netzwerk. Dank der Tenda App haben Sie z. B. Zugriff auf erweiterte Sicherheitsfunktionen und können den Internetzugriff für ausgewählte Geräte begrenzen.
 - [Verbesserte WLAN-Abdeckung] Der RX3 WLAN Router löst alle Empfangs- und Performance-Probleme Ihres alten WLAN-Netzwerks und kann eine Fläche von bis zu 110 m² mit Highspeed WLAN abdecken.
+- [Stabiles WLAN-Netzwerk] Dank eines extrem starken 1,5 GHz Quad-Core Prozessors wird die Leistungskapazität und die Geräteverarbeitung im Netzwerk deutlich verbessert.
+- [Verbesserte Leistung] Der RX3 AX Router kann bis zu 128 Geräte im Netzwerk verarbeiten, unterstützt die MU-MIMO als auch die OFDMA-Technologie und kann gleichzeitig Daten an mehrere Endgeräte senden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

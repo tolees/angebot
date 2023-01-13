@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der Eiscreme-Wagen hat ein auffälliges Pinguin-Design. Kinder können die Seite des Fahrzeugs öffnen und mit den 4 Slushy-Maschinen im Inneren des Wagens eiskalte Getränke in 4 fruchtigen Geschmacksrichtungen zubereiten
-- Dieses Spielzeugauto für Kinder zum Sommerthema enthält eine Verkäufer-Minifigur in einem coolen Pinguin-Anzug sowie jede Menge lustiges Zubehör zur Unterstützung des fantasievollen Spiels, z. B. einen Pinguinhut für die Minifigur und 2 Slushy-Becher
 - Diese LEGO City Reihe ist jetzt noch cooler geworden mit diesem Spielzeug für Kinder ab 5 Jahren, mit einem Servierfenster, 4 Spielzeug-Slushy-Maschinen und 2 Minifiguren
-- Mit diesem Spielzeug überrascht ihr Kinder ab 5 Jahren, die Fahrzeuge und Stadtszenen lieben. Das LEGO Fahrzeug ist ein fantasievolles Geschenk zum Geburtstag für Jungen und Mädchen
+- Dieses Spielzeugauto für Kinder zum Sommerthema enthält eine Verkäufer-Minifigur in einem coolen Pinguin-Anzug sowie jede Menge lustiges Zubehör zur Unterstützung des fantasievollen Spiels, z. B. einen Pinguinhut für die Minifigur und 2 Slushy-Becher
 - Das Spielzeug Set zum Bauen enthält eine gedruckte und eine digitale Anleitung, mit denen Kinder die Kinderspielfiguren und Fahrzeuge während des Baus mit der LEGO Builder App für Smartphones und Tablets zoomen und aus allen Blickwinkeln betrachten können
+- Mit diesem Spielzeug überrascht ihr Kinder ab 5 Jahren, die Fahrzeuge und Stadtszenen lieben. Das LEGO Fahrzeug ist ein fantasievolles Geschenk zum Geburtstag für Jungen und Mädchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

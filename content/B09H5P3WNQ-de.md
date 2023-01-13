@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [Kleinste Größe, um eine fantastische mini kamera zu sein]
 - [Bewegungserkennungsalarm, SCHNELL & PRÄZISE]
 - [Die einfachste mini wlan kamera]
+- [Kleinste Größe, um eine fantastische mini kamera zu sein]
 - [Leistungsstarke Akkulaufzeit für 6 Stunden, Bewachung rund um die Uhr]
 - [150 ° Superweitwinkel, 4K HD-Bildqualität bei Tag und Nacht]
 

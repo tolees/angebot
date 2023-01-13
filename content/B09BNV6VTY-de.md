@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zum Zubehör des LEGO City Sets gehören ein Rettungsnetz, ein Besen, eine Schaufel, eine Feueraxt und ein Feuerlöscher
-- Inklusive einer Auswahl an Rettungsfahrzeugen: ein Feuerwehrauto mit Anhänger, das Wasserelemente verschießt, ein Feuerwehrmotorrad und ein Feuerwehrauto
-- Laden Sie die kostenlose LEGO Bauanleitungen App herunter, mit der die Kinder die fertigen Modelle beim Bauen vergrößern, drehen und betrachten können
-- Die Polizei- und Feuerwehrspielzeuge von LEGO City - Abenteuer sind tolle Geburtstags- und Weihnachtsgeschenke für Jungen und Mädchen, die rasante Abenteuer in Rettungsfahrzeugen lieben
-- Dieses Feuerwehr Spielzeug für Kinder ab 7 Jahren enthält eine dreistöckige Sardinenfabrik mit ausklappbaren LEGO Flammen, einen Bottich mit „Spezialsoße“ und mehr
 - Inklusive 5 LEGO Minifiguren mit 2 Charakteren aus der TV-Serie LEGO City - Abenteuer (Clemmons und Feldman) sowie einem Hund und einer Katze und 3 Kätzchenfiguren
 - Die Kinder können die LEGO Wasserelemente verschießen, um die Flammen zurückzuschlagen, eine Rauchgasexplosion im Frachtcontainer erzeugen und die Spezialsoße verschütten
+- Die Polizei- und Feuerwehrspielzeuge von LEGO City - Abenteuer sind tolle Geburtstags- und Weihnachtsgeschenke für Jungen und Mädchen, die rasante Abenteuer in Rettungsfahrzeugen lieben
+- Dieses Feuerwehr Spielzeug für Kinder ab 7 Jahren enthält eine dreistöckige Sardinenfabrik mit ausklappbaren LEGO Flammen, einen Bottich mit „Spezialsoße“ und mehr
+- Inklusive einer Auswahl an Rettungsfahrzeugen: ein Feuerwehrauto mit Anhänger, das Wasserelemente verschießt, ein Feuerwehrmotorrad und ein Feuerwehrauto
+- Laden Sie die kostenlose LEGO Bauanleitungen App herunter, mit der die Kinder die fertigen Modelle beim Bauen vergrößern, drehen und betrachten können
+- Zum Zubehör des LEGO City Sets gehören ein Rettungsnetz, ein Besen, eine Schaufel, eine Feueraxt und ein Feuerlöscher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

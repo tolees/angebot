@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Löse den Münzblock aus dem „Eis“, greif dir die gelbe Frucht, klopfe „Eis“ vom Turm ab, aktiviere den POW-Block, um Kamek vom Turm zu stoßen, und befreie Toad aus seinem Eisgefängnis
-- Das LEGO Super Mario baubare Spielzeug „Katzen-Peach-Anzug und Eisturm“ beinhaltet einen Turm aus LEGO Steinen mit 3 Leveln, Blumen, POW-Block und Katzenanzug und schickt Kinder auf unzählige Münzsammelmissionen
-- Enthält 3 LEGO Super Mario Charaktere: LEGO Spielzeugfiguren Kamek, Toad und einen Katzen-Gumba, die mit LEGO Peach (nicht enthalten) interagieren
-- Lade dir die LEGO Super Mario App mit Bauanleitungen und Spielideen herunter. Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
-- Beinhaltet einen Katzenanzug, in dem LEGO Peach (Figur nicht enthalten) außergewöhnliche Reaktionen zeigt, und den Turm erklimmen und digitale Münzen sammeln kann
 - Das Set ist ein tolles Weihnachts- oder Geburtstagsgeschenk für Kinder ab 7 Jahren, die bereits ein LEGO Super Mario Starterset (71360, 71387 oder 71403) besitzen, das zum Spielen benötigt wird
+- Das LEGO Super Mario baubare Spielzeug „Katzen-Peach-Anzug und Eisturm“ beinhaltet einen Turm aus LEGO Steinen mit 3 Leveln, Blumen, POW-Block und Katzenanzug und schickt Kinder auf unzählige Münzsammelmissionen
+- Löse den Münzblock aus dem „Eis“, greif dir die gelbe Frucht, klopfe „Eis“ vom Turm ab, aktiviere den POW-Block, um Kamek vom Turm zu stoßen, und befreie Toad aus seinem Eisgefängnis
+- Lade dir die LEGO Super Mario App mit Bauanleitungen und Spielideen herunter. Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
+- Enthält 3 LEGO Super Mario Charaktere: LEGO Spielzeugfiguren Kamek, Toad und einen Katzen-Gumba, die mit LEGO Peach (nicht enthalten) interagieren
+- Beinhaltet einen Katzenanzug, in dem LEGO Peach (Figur nicht enthalten) außergewöhnliche Reaktionen zeigt, und den Turm erklimmen und digitale Münzen sammeln kann
 
 [🛒 Hier!!]({{< param buyurl >}})
