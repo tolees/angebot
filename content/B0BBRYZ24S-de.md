@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71784 NINJAGO Jays Donner-Jet EVO  Aufrüstbares Ninja Spielzeug-Flugzeug mit Jay Minifigur  Geschenkidee zum Geburtstag für Kinder ab 7 Jahren'
-date: 2023-01-10 14:39:32
+date: 2023-01-13 11:52:06
 image: 'https://m.media-amazon.com/images/I/51693I0Q19L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BBRYZ24S-de LEGO 71784 NINJAGO Jays Donner-Jet EVO Aufrüstbares Ninja...'
 sku: 'B0BBRYZ24S-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Fahrzeug Spielsets für Kinder','Flugzeugspielsets für Kinder','Spielfahrzeuge','Spielzeug','lego','🇩🇪', ]
-actualPrice: 8.49 EUR
+actualPrice: 7.49 EUR
 currency: EUR
-price: 8.49
+price: 7.49
 comparePrice: 9.99 EUR
 prodname: 'LEGO 71784 NINJAGO Jays Donner-Jet EVO  Aufrüstbares Ninja Spielzeug-Flugzeug mit Jay Minifigur  Geschenkidee zum Geburtstag für Kinder ab 7 Jahren'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0BBRYZ24S/?tag=tolees0ca-21'
-descuento: '15.02'
-average: '8.49'
+descuento: '25.03'
+average: '7.99'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
