@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der megastarke Mech hält ein großes Schwert in den Händen und verfügt über bewegliche Arme und Beine, eine drehende Klinge und ein Cockpit für Jay. Das Modell inspiriert Kinder zu spannenden Rollenspielen.
-- Für packende Actionszenen ist auf Eyezors Auto eine drehbare Plattform mit Shooter montiert.
-- Jays Elektro-Mech ist 17 cm groß, 10 cm lang und 16 cm breit. Zwischen den actionreichen Duellen bereichert er als spektakulärer Blickfang jedes Kinderzimmer.
-- Mit den digitalen Instructions PLUS kommen Kinder in den Genuss eines noch besseren Bauerlebnisses. Vergrößerungs- und Drehfunktionen sowie ein Geistermodus tragen zum Bauspaß bei.
 - Mit nur 106 Teilen stellt dieses Ninja-Spielset Kinder ab 4 Jahren vor eine leicht machbare Bauherausforderung. Ein perfektes Geschenk für ein Kind, das eine besondere Belohnung verdient hat.
-- LEGO NINJAGO Jays Elektro-Mech (71740) bringt Kindern das Bauen bei. Mit dem beweglichen Mech und dem Ninja-Auto stürzen sie sich dann actionreiche Abenteuer.
+- Der megastarke Mech hält ein großes Schwert in den Händen und verfügt über bewegliche Arme und Beine, eine drehende Klinge und ein Cockpit für Jay. Das Modell inspiriert Kinder zu spannenden Rollenspielen.
+- Jays Elektro-Mech ist 17 cm groß, 10 cm lang und 16 cm breit. Zwischen den actionreichen Duellen bereichert er als spektakulärer Blickfang jedes Kinderzimmer.
 - Das Spielset beinhaltet 2 Minifiguren aus der 4. Staffel der NINJAGO TV-Serie – den Ninja Jay und den Bösewicht Eyezor – sowie ein Starter-Element, um Kinder rasch bauen und spielen zu lassen.
+- Mit den digitalen Instructions PLUS kommen Kinder in den Genuss eines noch besseren Bauerlebnisses. Vergrößerungs- und Drehfunktionen sowie ein Geistermodus tragen zum Bauspaß bei.
+- LEGO NINJAGO Jays Elektro-Mech (71740) bringt Kindern das Bauen bei. Mit dem beweglichen Mech und dem Ninja-Auto stürzen sie sich dann actionreiche Abenteuer.
+- Für packende Actionszenen ist auf Eyezors Auto eine drehbare Plattform mit Shooter montiert.
 
 [🛒 Hier!!]({{< param buyurl >}})
