@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entwickelt für Hochleistungs-Übertaktung
-- Kompatibilität: Intel 300-Serie, Intel 400-Serie, Intel 400-Serie, Intel X299, AMD 300-Serie, AMD 400-Serie, AMD X570
 - Getestete Kompatibilität
 - Wärmeverteiler aus Aluminium
+- Entwickelt für Hochleistungs-Übertaktung
+- Kompatibilität: Intel 300-Serie, Intel 400-Serie, Intel 400-Serie, Intel X299, AMD 300-Serie, AMD 400-Serie, AMD X570
 
 [🛒 Hier!!]({{< param buyurl >}})
