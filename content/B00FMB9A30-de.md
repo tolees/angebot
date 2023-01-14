@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maximale Datentransferrate: Bis zu 25 MB/s
 - Garantierte Mindestgeschwindigkeit 10 MB/s, Geschwindigkeitsklasse 10
-- Transferraten: Lesen: bis 20,00 MB/s (133x), Schreiben: bis 12,00 MB/s (80x)
-- Besonders empfehlenswert für Mobiltelefone, Smartphones und Tablet
-- Lieferumfang: Intenso microSDXC 64 GB Class 10 Speicherkarte inkl. SD-Adapter
-- Garantierte Mindestgeschwindigkeit 10 MB/s, Geschwindigkeitsklasse 10
-- Schutz gegen unbeabsichtiges Überschreiben der Daten durch mechanischen Schreibschutz im SD-Adapter
 - Unterstützt Dateiformat FAT32, Kompatibel mit SDHC- und SDXC-Hostgeräten
-- Lieferumfang: Intenso Micro SDXC 64GB Class 10 Speicherkarte, SD-Adapter
+- Transferraten: Lesen: bis 20,00 MB/s (133x), Schreiben: bis 12,00 MB/s (80x)
 - Wasserfest, temperaturbeständig, stoßfest & röntgensicher
+- Lieferumfang: Intenso microSDXC 64 GB Class 10 Speicherkarte inkl. SD-Adapter
+- Besonders empfehlenswert für Mobiltelefone, Smartphones und Tablet
+- Garantierte Mindestgeschwindigkeit 10 MB/s, Geschwindigkeitsklasse 10
+- Maximale Datentransferrate: Bis zu 25 MB/s
+- Schutz gegen unbeabsichtiges Überschreiben der Daten durch mechanischen Schreibschutz im SD-Adapter
+- Lieferumfang: Intenso Micro SDXC 64GB Class 10 Speicherkarte, SD-Adapter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
