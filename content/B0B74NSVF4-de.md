@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Smart Stromverbrauchsmesser: Überwachung des Energieverbrauchs, Während der Nutzung des Smart Plugs können Sie auch den Stromverbrauch berechnen und Ihre Stromrechnung über die Smart Life App schätzen.
-- Wenn Sie Fragen oder Wünsche haben, wenden Sie sich bitte an uns über Amazon oder per Support-E-Mail. EIGHTREE ist immer für Sie da.
+- ACHTUNG Die Steckdose unterstützt kein " Tasmota". Der verbaute " Realtek"-Chip sorgt für eine bessere Stabilität der Netzwerkverbindung. Die Gefahr "offline" zu gehen ist geringer.
 - Sprachsteuerung: Der WLAN Steckdose ist kompatibel mit Alexa, Google Assistant & SmartThings. Bedienen Sie Ihr Gerät mit einem einfachen Sprachbefehl: "Alexa, schalte das Licht ein"
 - ACHTUNG AVM-Nutzer: Ab Fritzbox-OS. 7.20 müssen Sie Ihren Verschlüsselungsstandard auf WPA2 festlegen, um die Stecker verbinden zu können.WPA3 wird nicht unterstützt
-- ACHTUNG Die Steckdose unterstützt kein " Tasmota". Der verbaute " Realtek"-Chip sorgt für eine bessere Stabilität der Netzwerkverbindung. Die Gefahr "offline" zu gehen ist geringer.
 - Ultra-Mini-Größe: Unser Designer hat die Größe auf 4,4 x 4,4cm reduziert. Somit passen die Smart-Steckdosen nebeneinander in die Steckdosenleisten. Die Platzoptimierung bringt mehr Komfort in Ihr Leben.
 - APP-Steuerung: Steuern Sie die Beleuchtung in Ihrem Haus aus der Ferne und stellen Sie regelmäßige Zeitpläne für Fernseher, Kaffeemaschine, Luftbefeuchter usw. ein. "Smart Home" macht nicht nur Spaß, es ist auch nützlich.
+- Smart Stromverbrauchsmesser: Überwachung des Energieverbrauchs, Während der Nutzung des Smart Plugs können Sie auch den Stromverbrauch berechnen und Ihre Stromrechnung über die Smart Life App schätzen.
+- Wenn Sie Fragen oder Wünsche haben, wenden Sie sich bitte an uns über Amazon oder per Support-E-Mail. EIGHTREE ist immer für Sie da.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
