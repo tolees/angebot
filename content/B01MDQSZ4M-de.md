@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 2x VDE Steckdose, 1x USB-Charger, inkl. Stecker (lose beigelegt)
 - Push-to-Open-Funktion
 - hohe Qualität
-- 2x VDE Steckdose, 1x USB-Charger, inkl. Stecker (lose beigelegt)
 - flächenbündiger Einbau möglich, Oberfläche Edelstahl, versenkbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
