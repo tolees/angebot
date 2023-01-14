@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 🌱 <b>NATÜRLICH VERSPRECHEN WIR …</b> dass wir uns bedingungslos um unsere Umwelt kümmern. Unsere Reiniger sind: 100% vegan, 100% frei von Mikroplastik, 100% biologisch abbaubar & 100% Made in Germany. Damit garantieren wir „Sauberkeit mit reinem Gewissen“
-- 🌱 <b>NATÜRLICH PERFEKTE PFLEGE:</b> Wir haben unseren Saubermacher so entworfen, dass er durch die gelförmige Konsistenz auch an senkrechten Oberflächen gut haftet, selbsttätig reinigt und einen angenehm hygienischen Frischeduft hinterlässt
-- 🌱 <b>NATÜRLICH SAUBER:</b> Unser Profi WC-Reiniger eignet sich ideal für die effektive Säuberung des gesamten WC- und Sanitärbereichs.
-- 🌱 <b>NATÜRLICH KRAFTVOLL:</b> Unser nachhaltiger Reiniger wirkt besonders intensiv und kraftvoll gegen Kalk, Wasserflecken, Urinstein und Seifenreste auf säurebeständigen Materialien wie Armaturen, Duschabtrennungen, Glas, Keramik, Acryl und Fliesen
 - 🌱 <b>NATÜRLICH BiOHY:</b> Unsere BiOHY-Produkte lieben Reinheit genauso wie Umwelt, Mensch und Tier. Sie sind effektiv, nachhaltig und bewusst sparsam in der Anwendung
+- 🌱 <b>NATÜRLICH PERFEKTE PFLEGE:</b> Wir haben unseren Saubermacher so entworfen, dass er durch die gelförmige Konsistenz auch an senkrechten Oberflächen gut haftet, selbsttätig reinigt und einen angenehm hygienischen Frischeduft hinterlässt
+- 🌱 <b>NATÜRLICH KRAFTVOLL:</b> Unser nachhaltiger Reiniger wirkt besonders intensiv und kraftvoll gegen Kalk, Wasserflecken, Urinstein und Seifenreste auf säurebeständigen Materialien wie Armaturen, Duschabtrennungen, Glas, Keramik, Acryl und Fliesen
+- 🌱 <b>NATÜRLICH VERSPRECHEN WIR …</b> dass wir uns bedingungslos um unsere Umwelt kümmern. Unsere Reiniger sind: 100% vegan, 100% frei von Mikroplastik, 100% biologisch abbaubar & 100% Made in Germany. Damit garantieren wir „Sauberkeit mit reinem Gewissen“
+- 🌱 <b>NATÜRLICH SAUBER:</b> Unser Profi WC-Reiniger eignet sich ideal für die effektive Säuberung des gesamten WC- und Sanitärbereichs.
 
 [🛒 Hier!!]({{< param buyurl >}})
