@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Konstruktionsspielzeug für Kinder ab 4 Jahren enthält 2 Mini-Puppen: die naturverbundene Autumn und das Stadtmädchen Aliya, sowie jede Menge lustiges Zubehör wie eine Kamera, einen Schmetterling, ein Lagerfeuer und Marshmallows
-- Das LEGO Friends Waldabenteuer-Set ist ein tolles Geschenk zum Geburtstag oder zu einem anderen besonderen Tag, für Kinder ab 4 Jahren, die Camping, Natur und coole Fahrzeuge lieben
 - Kleine Abenteurer werden es lieben, mit dem LEGO Friends Auto den perfekten Campingplatz im Wald von Heartlake City zu finden, Fotos mit der Spielzeugkamera zu schießen und es sich vor dem Schlafengehen am Lagerfeuer gemütlich zu machen
 - Mit diesem LEGO Friends Urlaub-Campingtrip-Spielzeug können Kinder ab 4 Jahren mit den Minipuppen Aliya und Autumn Campingabenteuer im Wald nachspielen
-- Im Jahr 2023 wurde das LEGO Friends Universum erweitert, um neue Charaktere und neue Orte einzuführen, die zu noch mehr Abenteuern inspirieren. Sieh dir weitere Spielzeugsets für Kinder ab 4 Jahren wie das Heartlake Diner in der Innenstadt (41728) an
 - Die Kinder können den Spielzeug-Wohnwagen an das lustige, bunte Auto an- und abkoppeln und das Dach des Wohnwagens abnehmen, um den Schlaf- und Küchenbereich im Inneren zu erkunden
+- Im Jahr 2023 wurde das LEGO Friends Universum erweitert, um neue Charaktere und neue Orte einzuführen, die zu noch mehr Abenteuern inspirieren. Sieh dir weitere Spielzeugsets für Kinder ab 4 Jahren wie das Heartlake Diner in der Innenstadt (41728) an
+- Das LEGO Friends Waldabenteuer-Set ist ein tolles Geschenk zum Geburtstag oder zu einem anderen besonderen Tag, für Kinder ab 4 Jahren, die Camping, Natur und coole Fahrzeuge lieben
+- Dieses Konstruktionsspielzeug für Kinder ab 4 Jahren enthält 2 Mini-Puppen: die naturverbundene Autumn und das Stadtmädchen Aliya, sowie jede Menge lustiges Zubehör wie eine Kamera, einen Schmetterling, ein Lagerfeuer und Marshmallows
 - Dieses lustige LEGO Spielzeugauto für Mädchen und Jungen enthält einen Startstein; eine stabile Basis, die jungen Baumeistern den Einstieg erleichtert - das Set enthält außerdem eine leicht verständliche bebilderte Anleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

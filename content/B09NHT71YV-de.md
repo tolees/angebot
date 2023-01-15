@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bowost - Bluetooth 5.2 Kopfhörer  Kopfhörer Kabellos Mini In Ear Kopfhörer mit Superlicht Ladekoffer  LED Anzeige Ohrhörer mit Stereo Sound Wireless Earbuds mit Mikrofon  IPX7 Wasserschutz  Headset 40H  Type-C'
-date: 2023-01-13 11:02:57
+date: 2023-01-14 23:59:11
 image: 'https://m.media-amazon.com/images/I/31U8LGVKRUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bowost'
 buyurl: 'https://www.amazon.de/dp/B09NHT71YV/?tag=tolees0ca-21'
 descuento: '47.95'
-average: '20.48'
+average: '19.818'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
