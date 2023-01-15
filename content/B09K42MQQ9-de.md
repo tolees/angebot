@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 21:9 Ultrawide ratio
-- Ideal viewing angle: ergonomically designed to offer extensive range of height and title adjustments
-- 8-bit colour, 91% DCI-P3: fantastic colour display and super wide-gamut colour
-- WQHD with 144Hz: high resolution and fast refresh rate
 - 1ms MPRT response time: for the most smooth gaming experience
+- 8-bit colour, 91% DCI-P3: fantastic colour display and super wide-gamut colour
+- 21:9 Ultrawide ratio
+- WQHD with 144Hz: high resolution and fast refresh rate
+- Ideal viewing angle: ergonomically designed to offer extensive range of height and title adjustments
 
 [🛒 Hier!!]({{< param buyurl >}})
