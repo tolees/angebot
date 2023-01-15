@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE SMART+ Schaltbare Steckdose für WiFi  mit Strom Vermessung  Kompatibel mit Google und Alexa Voice Control  Steuerung per Fernbedienung möglich  1er-Pack'
-date: 2023-01-13 11:09:36
+date: 2023-01-15 17:27:51
 image: 'https://m.media-amazon.com/images/I/31zYh1Bz4QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Ledvance'
 buyurl: 'https://www.amazon.de/dp/B08THM9GNN/?tag=tolees0ca-21'
 descuento: '33.36'
-average: '8.99'
+average: '9.13285714285714'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Steuerung über LEDVANCE SMART+ WiFi App möglich (ab Android 4.4 oder ab iOS 9.0)
-- Steuerung über Google Assistant oder Amazon Alexa möglich
-- Bitte beachten Sie immer den SMART + Bereich der Ledvance-Webseite
-- Hohe Schaltleistung: bis zu 2.300 W / 10 A
 - Netzwerkprotokoll: WiFi
+- Bitte beachten Sie immer den SMART + Bereich der Ledvance-Webseite
 - Steuerung über die LEDVANCE SMART+ WiFi Fernbedienung möglich
+- Hohe Schaltleistung: bis zu 2.300 W / 10 A
+- Steuerung über Google Assistant oder Amazon Alexa möglich
 
 [🛒 Hier!!]({{< param buyurl >}})

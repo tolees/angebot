@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 1: Via Bluetooth ganz easy den Laptop oder das Handy mit der Musikbox verbinden und die Lieblingsplaylist starten / Das handliche Gehäuse verschafft dem kleinen JBL Lautsprecher überall einen Platz
-- Produkt 2: Via Bluetooth ganz easy den Laptop oder das Handy mit der Musikbox verbinden und die Lieblingsplaylist starten / Das handliche Gehäuse verschafft dem kleinen JBL Lautsprecher überall einen Platz
-- Produkt 1: Gemäß IP67 ist die GO 3 wasser- und staubfest und bereit für jedes Outdoor Abenteuer - sowohl bei Sonne als auch bei Regen
 - Produkt 2: Kompakt und leistungsstark: Die kleine Lautsprecherbox verfügt über den vollen JBL Sound und ist mit ihrem geringen Gewicht der ideale Begleiter für unterwegs
-- Produkt 1: Musikgenuss immer und überall: Einfach den kleinen, kabellosen Speaker schnappen und dank des integrierten Lithium-Ionen-Akkus bis zu 5 Std. Musik hören - der Ort spielt dabei keine Rolle
+- Produkt 2: Via Bluetooth ganz easy den Laptop oder das Handy mit der Musikbox verbinden und die Lieblingsplaylist starten / Das handliche Gehäuse verschafft dem kleinen JBL Lautsprecher überall einen Platz
 - Produkt 2: Gemäß IP67 ist die GO 3 wasser- und staubfest und bereit für jedes Outdoor Abenteuer - sowohl bei Sonne als auch bei Regen
-- Produkt 2: Musikgenuss immer und überall: Einfach den kleinen, kabellosen Speaker schnappen und dank des integrierten Lithium-Ionen-Akkus bis zu 5 Std. Musik hören - der Ort spielt dabei keine Rolle
+- Produkt 1: Gemäß IP67 ist die GO 3 wasser- und staubfest und bereit für jedes Outdoor Abenteuer - sowohl bei Sonne als auch bei Regen
+- Produkt 1: Via Bluetooth ganz easy den Laptop oder das Handy mit der Musikbox verbinden und die Lieblingsplaylist starten / Das handliche Gehäuse verschafft dem kleinen JBL Lautsprecher überall einen Platz
+- Produkt 1: Musikgenuss immer und überall: Einfach den kleinen, kabellosen Speaker schnappen und dank des integrierten Lithium-Ionen-Akkus bis zu 5 Std. Musik hören - der Ort spielt dabei keine Rolle
 - Produkt 1: Kompakt und leistungsstark: Die kleine Lautsprecherbox verfügt über den vollen JBL Sound und ist mit ihrem geringen Gewicht der ideale Begleiter für unterwegs
+- Produkt 2: Musikgenuss immer und überall: Einfach den kleinen, kabellosen Speaker schnappen und dank des integrierten Lithium-Ionen-Akkus bis zu 5 Std. Musik hören - der Ort spielt dabei keine Rolle
 
 [🛒 Hier!!]({{< param buyurl >}})
