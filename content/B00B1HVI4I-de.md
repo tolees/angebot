@@ -30,3 +30,4 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B00B1HVI4I{{</world>}}
