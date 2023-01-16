@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spezialisten – Wähle deine Rolle auf dem Schlachtfeld und bilde mit dem neuen Spezialistensystem maßgeschneiderte Trupps
-- Battlefield Portal – Entdecke unerwartete Schlachten und erkunde das riesige Universum von Battlefield auf einer Community-Plattform, die dir die Möglichkeit gibt, die Regeln des Krieges zu ändern
-- Ein topmodernes Arsenal – Lasse deiner Kreativität im Kampf freien Lauf – mit einem vollen Arsenal modernster Waffen, Fahrzeuge, Jets, Helis und brandneuer Ausrüstung, die von der nahen Zukunft des Jahres 2042 inspiriert wurden
-- Eine aus den Fugen geratene Welt – Im Jahr 2042 haben extreme Wetterbedingungen und Konflikte um Ressourcen das Kräfteverhältnis der Weltmächte verändert
-- Die Spielverpackung enthält einen Download-Code für das Spiel, enthält keine Disc (Code in a box)
-- 128 Spieler:innen gleichzeitig – Zum ersten Mal in der Geschichte von Battlefield können 128 Spieler:innen gleichzeitig das ganze Ausmaß des Krieges erleben. (Xbox One und PlayStation 4 unterstützen 64 Spieler:innen. 128 Spieler:innen und große Karten sind auf Xbox Series X|S, PC und PlayStation 5 verfügbar.)
 - Weitläufige und dynamische Gebiete – Sieben riesige Karten vermitteln ein noch stärkeres Gefühl für spektakuläre, groß angelegte Schlachten, die einer überarbeiteten Designphilosophie folgen
+- Die Spielverpackung enthält einen Download-Code für das Spiel, enthält keine Disc (Code in a box)
+- Ein topmodernes Arsenal – Lasse deiner Kreativität im Kampf freien Lauf – mit einem vollen Arsenal modernster Waffen, Fahrzeuge, Jets, Helis und brandneuer Ausrüstung, die von der nahen Zukunft des Jahres 2042 inspiriert wurden
+- 128 Spieler:innen gleichzeitig – Zum ersten Mal in der Geschichte von Battlefield können 128 Spieler:innen gleichzeitig das ganze Ausmaß des Krieges erleben. (Xbox One und PlayStation 4 unterstützen 64 Spieler:innen. 128 Spieler:innen und große Karten sind auf Xbox Series X|S, PC und PlayStation 5 verfügbar.)
+- Battlefield Portal – Entdecke unerwartete Schlachten und erkunde das riesige Universum von Battlefield auf einer Community-Plattform, die dir die Möglichkeit gibt, die Regeln des Krieges zu ändern
+- Eine aus den Fugen geratene Welt – Im Jahr 2042 haben extreme Wetterbedingungen und Konflikte um Ressourcen das Kräfteverhältnis der Weltmächte verändert
+- Spezialisten – Wähle deine Rolle auf dem Schlachtfeld und bilde mit dem neuen Spezialistensystem maßgeschneiderte Trupps
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B095JQN29S{{</world>}}
