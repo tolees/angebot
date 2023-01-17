@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält 4 Sonic Figuren: Sonic the Hedgehog, Dr. Eggman mit baubarem Egg-Mobil, Moto Bug mit 2 Gesichtsoptionen und Crabmeat
-- Verdiene einen Smaragd und sammle alle 7 Chaos-Smaragde, um sie zusammen mit Sonic auf dem Ständer auszustellen und Dr. Eggman zu besiegen
-- Authentische Details: eine Palme, eine Loopingbrücke, Ringe und 2 baubare TV-Geräte mit 5 Bildschirmelementen und 5 Aufkleberoptionen
 - Erweise dem klassischen Videospiel die Ehre und erlebe die Magie des kultigen Spiels mit diesem LEGO Sonic Set
-- Drücke den Hebel und starte die LEGO Sonic Minifigur für Super Sonic Sprünge, um den Figuren Bug und Crabmeat auszuweichen
+- Authentische Details: eine Palme, eine Loopingbrücke, Ringe und 2 baubare TV-Geräte mit 5 Bildschirmelementen und 5 Aufkleberoptionen
+- Verdiene einen Smaragd und sammle alle 7 Chaos-Smaragde, um sie zusammen mit Sonic auf dem Ständer auszustellen und Dr. Eggman zu besiegen
+- Enthält 4 Sonic Figuren: Sonic the Hedgehog, Dr. Eggman mit baubarem Egg-Mobil, Moto Bug mit 2 Gesichtsoptionen und Crabmeat
 - Das Modell kann umgestaltet werden, um alternative Levels zu schaffen und ist ein tolles Geschenk für Fans von Sonic the Hedgehog
+- Drücke den Hebel und starte die LEGO Sonic Minifigur für Super Sonic Sprünge, um den Figuren Bug und Crabmeat auszuweichen
 - Eine authentische Nachbildung des nostalgischen LEGO Sets aus den 90er Jahren, das du mit Stolz zu Hause oder im Büro ausstellen willst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

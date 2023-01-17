@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinder können dieses blaue NINJAGO-Flugzeug mit aufklappbarem Cockpit mit 2 Shootern, goldenen Klingen und goldenem Ruder aufrüsten
-- Das sammelbare Ninja-Spielzeug beinhaltet eine NINJAGO Jay Minifigur mit einem Schwert, die Kinder hinter die Steuerung des Jets setzen können
-- Die LEGO Builder App führt Kinder und Eltern durch ein einfaches Bauabenteuer, bei dem Kinder Modelle in 3D sehen, Sets speichern und den Fortschritt verfolgen können
 - Dieses 146-teilige Spielzeug für Jungs und Mädchen ab 7 Jahren ermöglicht es spielerisch zu bauen und lernen. Es ist eine tolle Geschenkidee zum Geburtstag oder als Überraschung
+- Kinder können dieses blaue NINJAGO-Flugzeug mit aufklappbarem Cockpit mit 2 Shootern, goldenen Klingen und goldenem Ruder aufrüsten
+- Die LEGO Builder App führt Kinder und Eltern durch ein einfaches Bauabenteuer, bei dem Kinder Modelle in 3D sehen, Sets speichern und den Fortschritt verfolgen können
+- Das sammelbare Ninja-Spielzeug beinhaltet eine NINJAGO Jay Minifigur mit einem Schwert, die Kinder hinter die Steuerung des Jets setzen können
 - Das sammelbare Jays Donner-Jet EVO Ninja-Spielzeug Set, beinhaltet ein cooles Spielzeug-Flugzeug, das für zusätzlichen Spaß zu einem noch größeren Modell aufgerüstet werden kann
 - Wirf einen Blick auf Nyas Wasserdrache EVO (71800), Lloyds Mech-Duell EVO (71781) und Kais Mech-Bike EVO (71783) aus der LEGO NINJAGO Reihe
 

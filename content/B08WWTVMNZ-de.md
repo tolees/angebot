@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Als Premiere bei LEGO Technic hat das Modell eine Differentialsperre, die über die kostenlose LEGO-App kontrolliert wird, um den Truck über unebenes Terrain zu manövrieren
 - Der 4x4 Mercedes-Benz Zetros Offroad-Truck wird über die App bedient und ist vollgepackt mit authentischen Details
-- Der fern- und App-gesteuerte Truck wird angetrieben durch einen Bluethooth-kontrollierten Smart Hub, 3 große Motoren und einen mittelgroßen Motor
-- Ein großartiges Set und Geschenkidee für Erwachsene und Kinder ab 12 Jahren, die ferngesteuerte Autos und LEGO Bauherausforderungen lieben
 - Das Lkw-Spielzeug hat einen detailreichen Motor mit drehendem Kühlerlüfter, Federung an allen 4 Rädern und detailliertem Getriebe
+- Als Premiere bei LEGO Technic hat das Modell eine Differentialsperre, die über die kostenlose LEGO-App kontrolliert wird, um den Truck über unebenes Terrain zu manövrieren
 - Das Set enthält Aufkleber mit Rennmotiven, 2 Feuerlöscher und Flaggen für einen Hindernisparcours, um die Fähigkeiten des Trucks auf unterschiedlichem Untergrund zu testen
+- Der fern- und App-gesteuerte Truck wird angetrieben durch einen Bluethooth-kontrollierten Smart Hub, 3 große Motoren und einen mittelgroßen Motor
 - Benötigt 6 AA-Batterien (nicht enthalten). Die Batteriebox lässt sich leicht abnehmen, sodass die Batterien bei Bedarf leicht ausgetauscht werden können
+- Ein großartiges Set und Geschenkidee für Erwachsene und Kinder ab 12 Jahren, die ferngesteuerte Autos und LEGO Bauherausforderungen lieben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08WWTVMNZ{{</world>}}
