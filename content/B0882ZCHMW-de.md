@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Unser Matcha wird biologisch und nachhaltig auf den Teefeldern von Uji, Kyoto, angebaut und aus den feinsten Grünteeblättern gewonnen. Handgepflückt im Frühjahr und Herbst, gemahlen in Steinmühlen für beste Textur, Aroma und reinsten Geschmack
 - Mit jeder einzelnen Dosis unseres Matcha-Tees aus biologischem Anbau in zeremonieller Qualität verbessern Sie die Gehirnfunktionen Ihres Körpers und sorgen für mehr Aufmerksamkeit, Konzentration und eine bessere Stimmung. Es kann Ihnen beim Abnehmen helfen und trägt zu einer angemessenen Gewichtserhaltung bei, sofern Sie sich ausgewogen ernähren und bewegen
 - Für Matcha & CO gehen Qualität und Nachhaltigkeit Hand in Hand: Alle unsere Produkte sind bio-zertifiziert, d.h. wir verwenden keine Pestizide, Farb- oder Konservierungsstoffe, und die für diesen Matcha-Tee verwendeten Pflanzen sind nicht gentechnisch verändert (GVO). Die Verpackung ist zu 100 % recycelbar
 - Hochwertiger 100 % Bio-Matcha-Tee aus Uji, Japan. Ein starkes Antioxidans, das Energie liefert, den Stoffwechsel beschleunigt und den Blutzuckerspiegel kontrolliert. Keine Farbstoffe, Konservierungsstoffe oder Zucker enthalten
-- Unser Matcha wird biologisch und nachhaltig auf den Teefeldern von Uji, Kyoto, angebaut und aus den feinsten Grünteeblättern gewonnen. Handgepflückt im Frühjahr und Herbst, gemahlen in Steinmühlen für beste Textur, Aroma und reinsten Geschmack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0882ZCHMW{{</world>}}
