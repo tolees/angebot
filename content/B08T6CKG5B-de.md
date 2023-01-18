@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wi-Fi 6 Access Point mit Dualband 2x2 MIMO in kompaktem Design für Low-Profile-Montage.
-- Gigabit Ethernet, Stromversorgung mit 802.3af PoE
 - Montieren Sie UniFi 6 Lite horizontal in der Decke, um eine Umgebung mit hoher Dichte abzudecken, oder montieren Sie es vertikal an der Wand, um seine Reichweite zu erweitern.
-- UniFi 6 Lite ist ein 2x2 Wi-Fi 6 Zugangspunkt, der bis zu 1,5 Gbit/s Aggregatradiorate mit 5 GHz (MU-MIMO und OFDMA) und 2,4 GHz (MIMO) Radios liefert.
+- Gigabit Ethernet, Stromversorgung mit 802.3af PoE
+- Wi-Fi 6 Access Point mit Dualband 2x2 MIMO in kompaktem Design für Low-Profile-Montage.
 - UniFi 6 Lite hat ein kompaktes und nanogroßes Design, so dass es NanoHD-Abdeckungen und Montagezubehör verwenden kann.
+- UniFi 6 Lite ist ein 2x2 Wi-Fi 6 Zugangspunkt, der bis zu 1,5 Gbit/s Aggregatradiorate mit 5 GHz (MU-MIMO und OFDMA) und 2,4 GHz (MIMO) Radios liefert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08T6CKG5B{{</world>}}
