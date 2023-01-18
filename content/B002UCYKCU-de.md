@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Covid 19 Antigen Schnelltest Laien: Antigen Schnelltest Corona Antigentest auf SARS-CoV-2 zur Eigenanwendung durch Laien für den schnellen qualitativen Nachweis von SARS-Cov-2 Virus-Antigen mittels Nasenprobe.
 - Covid Schnelltest Nase : Einfache Anwendung durch einen Abstrich in der vorderen Nase. Der Corona Selbsttest erfolgt durch eine Probenentnahme im Nasen-Bereich und ist somit ohne Probleme durchführbar.
-- Corona Tests mit einzelnen Komponenten : Sämtliche Komponenten des Covid 19 Schnelltest für Zuhause sind einzeln unterverpackt und können problemlos an Mitarbeiter oder Familienmitglieder verteilt werden.
 - Hinweis : Bitte beachten Sie, dass ein negativer Covid Schnelltest für Zuhause eine Infektion nie vollständig ausschließt, auch dann nicht, wenn der Covid Test an einer Person ohne Krankheitssymptome durchgeführt wird. Weitere Informationen zu Verfügbarkeit, Zuverlässigkeit und mehr finden Sie auf unserer FAQ-Seite zu Corona-Selbsttests.
+- Covid 19 Antigen Schnelltest Laien: Antigen Schnelltest Corona Antigentest auf SARS-CoV-2 zur Eigenanwendung durch Laien für den schnellen qualitativen Nachweis von SARS-Cov-2 Virus-Antigen mittels Nasenprobe.
 - Schnelltest Covid 19 20 Stück : 20x 1er Tests in Softbags. ERGEBNIS IN 15MIN: Befolgen Sie die beiliegende Bedienungsanleitung und erhalten Sie innerhalb von 15 Minuten ein Ergebnis des Antigen Schnelltest.
+- Corona Tests mit einzelnen Komponenten : Sämtliche Komponenten des Covid 19 Schnelltest für Zuhause sind einzeln unterverpackt und können problemlos an Mitarbeiter oder Familienmitglieder verteilt werden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002UCYKCU{{</world>}}
