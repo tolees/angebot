@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rogue One [UK Import]'
-date: 2023-01-18 06:05:54
+date: 2023-01-19 06:33:51
 image: 'https://m.media-amazon.com/images/I/41wkOvWriAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N2TFVE3/?tag=tolees0ca-21'
 descuento: '20.76'
-average: '8.21444444444444'
+average: '8.14464285714285'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rogue One: A Star Wars Story (2016) ( Rogue One )
 - Rogue One: A Star Wars Story [DVD] [2017] In Good Condition
+- Rogue One: A Star Wars Story (2016) ( Rogue One )
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01N2TFVE3{{</world>}}
