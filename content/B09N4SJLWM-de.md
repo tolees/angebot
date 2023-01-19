@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AVM FRITZ!Repeater 1200 AX  Wi-Fi 6 Repeater  ausgestattet mit zwei Funkeinheiten: 5-GHz-Band  bis 2.400 Mbit/s   2 4-GHz-Band  bis 600 Mbit/s   deutschsprachige Version '
-date: 2023-01-17 18:52:10
+date: 2023-01-19 21:34:48
 image: 'https://m.media-amazon.com/images/I/21tWfhBOe4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'AVM'
 buyurl: 'https://www.amazon.de/dp/B09N4SJLWM/?tag=tolees0ca-21'
 descuento: '27.37'
-average: '70.8906666666666'
+average: '70.8296774193548'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innovatives Wi-Fi 6 ausgelegt für ein anspruchsvolles Heimnetz mit einer Vielzahl an WLAN-Endgeräten zur gleichzeitigen Verwendung
-- WLAN Mesh: Mehrere WLAN-Zugangspunkte werden zu einem einzigen intelligenten WLAN-Netz mit optimaler Leistung zusammengefasst, einfache und sichere Installation per Tastendruck (WPS)
-- Unterstützung 160 MHz breiter Kanäle für WLAN mit bis zu 3.000 MBit/s (WLAN AX) sowie Gigabit-LAN-Anschluss für den Aufbau einer LAN-Brücke oder für Netzwerkgeräte ohne WLAN-Funktion
 - Ultraschnelles Wi-Fi 6 im gesamten Heimnetz sowie intelligente automatische Bandauswahl (Cross-Band-Repeating): 5 GHz-Band (bis zu 2.400 MBit/s) und 2,4 GHz-Band (bis zu 600 MBit/s)
+- Unterstützung 160 MHz breiter Kanäle für WLAN mit bis zu 3.000 MBit/s (WLAN AX) sowie Gigabit-LAN-Anschluss für den Aufbau einer LAN-Brücke oder für Netzwerkgeräte ohne WLAN-Funktion
+- WLAN Mesh: Mehrere WLAN-Zugangspunkte werden zu einem einzigen intelligenten WLAN-Netz mit optimaler Leistung zusammengefasst, einfache und sichere Installation per Tastendruck (WPS)
 - Lieferumfang: AVM FRITZ!Repeater 1200 AX, Installationsanleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
