@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAION PICTURES - Airwolf - Die komplette Serie [Blu-ray]  exklusiv bei Amazon.de '
-date: 2023-01-18 01:15:12
+date: 2023-01-19 01:27:07
 image: 'https://m.media-amazon.com/images/I/51MtHtepCBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Action & Abenteuer','Blu-ray','Computer & Zubehör','DVD & Blu-ray','Fe
 actualPrice: 63.87 EUR
 currency: EUR
 price: 63.87
-comparePrice: 79.81 EUR
+comparePrice: 78.76 EUR
 prodname: 'PLAION PICTURES - Airwolf - Die komplette Serie [Blu-ray]  exklusiv bei Amazon.de '
 country: 'de'
 flag: '🇩🇪'
 brand: 'PLAION PICTURES'
 buyurl: 'https://www.amazon.de/dp/B00TASMCGS/?tag=tolees0ca-21'
-descuento: '19.97'
-average: '78.7613846153845'
+descuento: '18.91'
+average: '78.5357575757575'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
