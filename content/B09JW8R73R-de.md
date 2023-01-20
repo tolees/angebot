@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 42130 Technic BMW M 1000 RR Motorrad Modell für Erwachsene  Modellbausatz  Set als Geschenk zum Basteln'
-date: 2023-01-05 13:30:47
+date: 2023-01-20 14:04:57
 image: 'https://m.media-amazon.com/images/I/51zqn7Obk9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09JW8R73R-de LEGO 42130 Technic BMW M 1000 RR Motorrad Modell für...'
 sku: 'B09JW8R73R-de'
 tags: [ 'Bauspielzeug & Konstruktionsspielzeug','Bauspielzeugsets','Spielzeug','lego','🇩🇪', ]
-actualPrice: 179.99 EUR
+actualPrice: 203.9 EUR
 currency: EUR
-price: 179.99
+price: 203.9
 comparePrice: 249.99 EUR
 prodname: 'LEGO 42130 Technic BMW M 1000 RR Motorrad Modell für Erwachsene  Modellbausatz  Set als Geschenk zum Basteln'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09JW8R73R/?tag=tolees0ca-21'
-descuento: '28.00'
-average: '168.927999999999'
+descuento: '18.44'
+average: '170.056129032257'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,12 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieser Modellbausatz für Erwachsene ist das Ergebnis einer Partnerschaft zwischen BMW und dem LEGO Technic Design-Team
-- Das Modell gehört zu einer Palette von LEGO Sets für Erwachsene - es gibt einen Einblick in die Technik und bietet ein spannendes Bauerlebnis
-- Dieses LEGO Set für Erwachsene enthält ein Technic BMW M 1000 RR Motorrad-Modell im Maßstab 1:5 - eine Neuheit im LEGO Technic Universum
-- Das Set enthält sowohl einen Ausstellungsständer als auch einen Rennständer, so dass du dein Motorrad-Modell ideal ausstellen kannst
 - Entdecke authentische Details: das 3-Gang-Getriebe (+ Neutralstellung), die Vorder- und Hinterradaufhängung, den Kettenantrieb und den Reihenvierzylinder-Motor
+- Dieses LEGO Set für Erwachsene enthält ein Technic BMW M 1000 RR Motorrad-Modell im Maßstab 1:5 - eine Neuheit im LEGO Technic Universum
 - Von den Reifen bis hin zur Windschutzscheibe wurde kein Detail übersehen - bewundere das Farbschema mit den ikonischen BMW Marken-Emblemen
 - Dieser beeindruckende Modellbausatz eignet sich toll als Geschenk für Erwachsene, die ihr eigenes Motorrad basteln möchten
+- Das Modell gehört zu einer Palette von LEGO Sets für Erwachsene - es gibt einen Einblick in die Technik und bietet ein spannendes Bauerlebnis
+- Dieser Modellbausatz für Erwachsene ist das Ergebnis einer Partnerschaft zwischen BMW und dem LEGO Technic Design-Team
+- Das Set enthält sowohl einen Ausstellungsständer als auch einen Rennständer, so dass du dein Motorrad-Modell ideal ausstellen kannst
 
 [🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B09JW8R73R{{</world>}}
