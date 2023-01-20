@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ab 3 Jahren
 - Entdecke die Welt der LEGO-Baukästen und erfinde deine eigenen Abenteuer
+- Ab 3 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QFHGQCZ{{</world>}}
