@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WA850RE WLAN Verstärker Repeater 300 Mbit/s  WLAN Verstärker  App Steuerung  Ethernet-Port  WPS  AP Modus  LED abschaltbar  kompatibel zu allen WLAN Geräten  weiß'
-date: 2023-01-15 17:29:39
+date: 2023-01-20 09:15:16
 image: 'https://m.media-amazon.com/images/I/21sXZMvzjBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- , Localisation:Europe
-- , Depth:6.58 cm
 - , Height:7.52 cm
 - , Width:11 cm
+- , Localisation:Europe
+- , Depth:6.58 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B00A0VCJPI{{</world>}}
