@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rogue One [UK Import]'
-date: 2023-01-19 06:33:51
+date: 2023-01-21 09:35:57
 image: 'https://m.media-amazon.com/images/I/41wkOvWriAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: ''
 buyurl: 'https://www.amazon.de/dp/B01N2TFVE3/?tag=tolees0ca-21'
 descuento: '20.76'
-average: '8.14464285714285'
+average: '8.07965517241379'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
