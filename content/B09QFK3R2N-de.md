@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71411 Super Mario Der mächtige Bowser  3D-Modell-Bausatz  Bewegliche Figur zum Sammeln mit Duellplattform  Geschenkidee für Fans'
-date: 2023-01-21 12:26:31
+date: 2023-01-22 14:42:10
 image: 'https://m.media-amazon.com/images/I/513fnpYl1HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B09QFK3R2N/?tag=tolees0ca-21'
 descuento: '29.78'
-average: '188.012352941176'
+average: '188.100555555555'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,12 +29,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dieses baubare Modell für Erwachsene ist Teil einer Reihe von LEGO Super Mario Sets zum Sammeln, kann stolz im Wohnzimmer ausgestellt werden und ist ein fantastisches Geschenk zum Geburtstag oder an Weihnachten
-- Der ikonische Super Mario-Bösewicht hat rotierende Augen, du kannst den Feuerball-Shooter in seinem Mund aktivieren und er hat neue LEGO-Elemente für Oktober 2022, um das Aussehen von Bowsers Stacheln nachzubilden
 - Für interaktives Spielen mit dem mächtigen Bowser sind Startersets mit LEGO Mario (71360), LEGO Luigi (71387) oder LEGO Peach (71403) Figuren erforderlich (separat erhältlich)
 - Dieses baubare Modell des Königs der Koopas hat bewegliche Arme, Hände, Beine und einen Schwanz, um verschiedene Posen einzunehmen, und einen drehbaren Kopf, dessen Mund sich durch Drücken eines Knopfes unter der Schale öffnet
-- Der mächtige Bowser ist 32 cm hoch, 41 cm breit und 28 cm tief und enthält eine Schritt-für-Schritt-Anleitung, sodass selbst Super Mario-Fans, die mit LEGO Sets noch nicht vertraut sind, den komplexen Bau in Angriff nehmen können
+- Der ikonische Super Mario-Bösewicht hat rotierende Augen, du kannst den Feuerball-Shooter in seinem Mund aktivieren und er hat neue LEGO-Elemente für Oktober 2022, um das Aussehen von Bowsers Stacheln nachzubilden
 - Fans können ein fantastisches LEGO 3D-Modell vom mächtigen Bowser bauen, um den ultimativen Endgegner von Super Mario zu feiern, eine große Figur voller Details zum Ausstellen und Spielen
 - Die Duellplattform verfügt über 2 Türme, die von Bowser umgestoßen werden müssen, und einen versteckten POW-Block mit Funktionsstein, mit dem LEGO Super Mario-Charaktere (Figuren nicht enthalten) interagieren können
+- Der mächtige Bowser ist 32 cm hoch, 41 cm breit und 28 cm tief und enthält eine Schritt-für-Schritt-Anleitung, sodass selbst Super Mario-Fans, die mit LEGO Sets noch nicht vertraut sind, den komplexen Bau in Angriff nehmen können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09QFK3R2N{{</world>}}
