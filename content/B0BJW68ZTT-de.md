@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 7R IIIA | Spiegellose Vollformat-Kamera  42 4 Megapixel  schneller Hybrid Autofokus  5-Achsen-Bildstabilisierung   Schwarz'
-date: 2023-01-19 14:34:51
+date: 2023-01-23 14:36:32
 image: 'https://m.media-amazon.com/images/I/31jHOiUMrGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ATEMBERAUBENDE BILDQUALITÄT: der 42,4 MP Exmor R CMOS Sensor mit Hintergrundbeleuchtung steigert die Lichtempfindlichkeit und bietet einen großen Dynamikbereich
-- SCHNELLER AUTOFOKUS: Hybrid Autofokus mit 399 AF-Punkten zur Phasendetektion und 425 AF-Punkten zur Kontrastdetektion
-- VERLÄNGERTE BATTERIENLEBENSDAUER: Große Z-Batteriekapazität für längere Aufnahme-Sessions.
 - Optischer zoom: 6.2 multiplier_x
+- SCHNELLER AUTOFOKUS: Hybrid Autofokus mit 399 AF-Punkten zur Phasendetektion und 425 AF-Punkten zur Kontrastdetektion
+- ATEMBERAUBENDE BILDQUALITÄT: der 42,4 MP Exmor R CMOS Sensor mit Hintergrundbeleuchtung steigert die Lichtempfindlichkeit und bietet einen großen Dynamikbereich
+- VERLÄNGERTE BATTERIENLEBENSDAUER: Große Z-Batteriekapazität für längere Aufnahme-Sessions.
 - 572.0 grams
 - SPITZENTECHNIK VON SONY: Wählen Sie aus mehr als 40 Vollformat-Originalobjektiven von Sony, um Ihrer Kreativität freien Lauf zu lassen. Mit den speziell für Kameras von Sony konzipierten Objektiven gelingen mühelos Aufnahmen in exzellenter Qualität.
 - STABILE AUFNAHMEN: Optische 5-Achsen-Bildstabilisierung für Fotos und Filme zur Kompensation von Kameraverwacklungen.
