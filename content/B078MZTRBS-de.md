@@ -30,12 +30,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Fernsteuerung per Tenda WLAN APP, Kindersicherung, Zugriffskontrolle, Beamforming+ und MU-MIMO Technologie.
 - Es können insgesamt 7 Stationen aneinander geschaltet werden, für eine Fläche bis zu 1000m² WLAN.
-- Echtes Mesh WLAN System für Hhighspeed AC1200 Geschwindigkeiten bis zu 330m² über Stockwerke hinaus, perfekt für Häuser, Wohnungen und Büros. Ersetzt Router, Powerline & Repeater.
-- Dual-Band Highspeed AC1200 Geschwindigkeiten mit 867 MBit/s über das 5 GHz Band und 300 MBit/s über 2,4 GHz für HD / 4k Videostreaming und anspruchsvolle Online-Games.
-- Eine SSID für das ganze Haus oder Ihrer Wohnung. Das Nova MW6 wechselt immer automatisch zur dichtesten Station für einen nahtlosen WLAN Empfang auch während Sie sich bewegen.
-- Eine Nova Station deckt eine Fläche von 180m² mit WLAN ab und verfügt über 2x Gigabit Ports. Für zuverlässiges WLAN im ganzen Haus oder Wohnung, bis zur Garage und Garten.
-- Das Nova MW6 kann gleichzeitig mehrere Verbindungen von unterschiedlichen Geräten verarbeiten und lässt sich außerdem mit Alexa verbinden, mit der Sie all Ihre kompatiblen Geräte steuern können.
 - Ideal für den Einsatz im Home-Office und der Arbeit von zuhause aus.
+- Eine Nova Station deckt eine Fläche von 180m² mit WLAN ab und verfügt über 2x Gigabit Ports. Für zuverlässiges WLAN im ganzen Haus oder Wohnung, bis zur Garage und Garten.
+- Eine SSID für das ganze Haus oder Ihrer Wohnung. Das Nova MW6 wechselt immer automatisch zur dichtesten Station für einen nahtlosen WLAN Empfang auch während Sie sich bewegen.
+- Das Nova MW6 kann gleichzeitig mehrere Verbindungen von unterschiedlichen Geräten verarbeiten und lässt sich außerdem mit Alexa verbinden, mit der Sie all Ihre kompatiblen Geräte steuern können.
+- Dual-Band Highspeed AC1200 Geschwindigkeiten mit 867 MBit/s über das 5 GHz Band und 300 MBit/s über 2,4 GHz für HD / 4k Videostreaming und anspruchsvolle Online-Games.
+- Echtes Mesh WLAN System für Hhighspeed AC1200 Geschwindigkeiten bis zu 330m² über Stockwerke hinaus, perfekt für Häuser, Wohnungen und Büros. Ersetzt Router, Powerline & Repeater.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078MZTRBS{{</world>}}
