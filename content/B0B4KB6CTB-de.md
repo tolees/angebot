@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Flexible Speicheroptionen: Die Kamera unterstützt bis zu 256 GB microSD-Karte (nicht im Lieferumfang enthalten) und FTP für die Speicherung. Sie verwendet die hocheffiziente H.265-Videocodierung, um die Hälfte der Bandbreite und des Speicherplatzes zu sparen.
-- Personen-/Fahrzeugwarnungen & Haustiererkennung: Erkennt intelligent die Personnen- /Farhzeugbewegung und sendet Ihnen in Echtzeit präzise Warnungen. Mit der brandneuen Funktion Haustiererkennung können Sie auch Katzen und Hunde im Auge behalten. Lassen Sie sich jederzeit und überall beruhigt zurücklehnen!
-- Ultraweites Sichtfeld: Das Weitwinkelobjektiv bietet einen horizontalen Blickwinkel von 104°–38° und einen vertikalen Blickwinkel von 60°–21°. Es kann 355° schwenken, 90° neigen und das Objekt in einer Entfernung von 15 m bei Tag und 10 m bei Nacht verfolgen, um eine Rundumüberwachung zu realisieren.
 - 8MP-Vollfarbe, Tag & Nacht: Das 8MP-Weitwinkelobjektiv kann Ihnen einen scharfen farbigen 4K UHD-Überblick liefern. Die eingebauten Scheinwerfer ermöglichen helle und klare Vollfarbbilder auch in der dunklen Nacht.
 - Auto-Tracking & 6X Zoom: Das Teleobjektiv und das PT-Weitwinkelobjektiv ermöglichen automatische Verfolgung und 6X Hybrid-Zoom, um das Ziel genau zu verfolgen und zu fokussieren. In der dualen Ansicht können Sie gleichzeitig einen ultraweiten Überblick und eine klare Nahaufnahme genießen.
+- Ultraweites Sichtfeld: Das Weitwinkelobjektiv bietet einen horizontalen Blickwinkel von 104°–38° und einen vertikalen Blickwinkel von 60°–21°. Es kann 355° schwenken, 90° neigen und das Objekt in einer Entfernung von 15 m bei Tag und 10 m bei Nacht verfolgen, um eine Rundumüberwachung zu realisieren.
+- Personen-/Fahrzeugwarnungen & Haustiererkennung: Erkennt intelligent die Personnen- /Farhzeugbewegung und sendet Ihnen in Echtzeit präzise Warnungen. Mit der brandneuen Funktion Haustiererkennung können Sie auch Katzen und Hunde im Auge behalten. Lassen Sie sich jederzeit und überall beruhigt zurücklehnen!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B4KB6CTB{{</world>}}
