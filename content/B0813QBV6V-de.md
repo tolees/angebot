@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75969 Harry Potter Astronomieturm auf Schloss Hogwarts  Spielzeug kompatibel mit der Großen Halle von Hogwarts und der Peitschenden Weide'
-date: 2023-01-23 03:57:04
+date: 2023-01-24 04:28:57
 image: 'https://m.media-amazon.com/images/I/51ZT55jhAqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Modell ist 40 cm hoch, 29 cm breit und 17 cm tief und lässt sich ideale mit den LEGO Hogwarts Sets 75953, 75954 und 75948 kombinieren (die zum Teil nur in begrenzter Auflage erhältlich sind)
-- Dieses Hogwarts-Set zum Verschenken enthält viele berühmte Schauplätze aus Harry Potter Filmen, 8 beliebte Minifiguren, Hedwig als Spielzeug-Eule und jede Menge Zubehörelemente wie z.B. Alraunen, Briefe, Zauberstäbe und ein Buch über Zaubertränke
-- Wenn Kinder den LEGO Harry Potter Astronomieturm auf Schloss Hogwarts (75969) betreten, können sie magische Hogwarts-Geschichten mit beliebten Figuren, legendären Schauplätzen und realistischen Details nachspielen
-- Wenn Kinder das Klassenzimmer des Zaubertränke-Lehrers betreten und seine Party besuchen, sich eine Alraune im Gewächshaus ansehen und den Schlafsaal in Haus Ravenclaw erkunden können sie die Magie mit eigenen Händen erleben
-- Dieses einzigartige Harry Potter Bauset enthält unter anderem Draco Malfoy und Neville Longbottom als LEGO Minifiguren und ist ein tolles Geschenk für Kinder ab 9 Jahren
+- Combine with the 75954 Hogwarts Great Hall, 75953 Hogwarts Whomping Willow and 75948 Hogwarts Clock Tower to create Hogwarts Castle!
+- This LEGO Harry Potter Hogwarts Castle buildable toy makes a magical addition to birthday or Christmas gifts for 9 plus year old girls and boys
+- Accessories include mandrake plants, letters, wands, a book of potions, broomstick, cakes, wine glasses, lanterns, torches and candles
+- Search the night sky with the telescope, check on the mandrakes in the greenhouse, chill in the Ravenclaw dorm or join Slughorns party
+- Includes 8 minifigures: Harry, Hermione, Ron, Luna, Neville, Draco, Lavender Brown and Professor Horace Slughorn, plus a Hedwig figure
+- Build the intricate multi-level LEGO Hogwarts Castle Astronomy Tower and explore all it has to offer while recreating scenes from the movies
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0813QBV6V{{</world>}}
