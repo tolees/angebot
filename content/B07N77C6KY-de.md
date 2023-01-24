@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Lexar High-Performance 633x 512GB microSDXC UHS-I Karte'
-date: 2020-08-02 18:43:35
-image: 'https://m.media-amazon.com/images/I/51E9rqVEK6L._SL400_.jpg'
+title: 'Lexar High-Performance 633x Micro SD Karte 512GB  microSDXC UHS-I Karte  Bis Zu 100MB/s Lesegeschwindigkeit  Speicherkarte Micro SD  Kompatibel mit Switch  Handys und Tablets  LSDMI512BBEU633A '
+date: 2023-01-24 15:34:06
+image: 'https://m.media-amazon.com/images/I/411NKfbohLS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07N77C6KY-de Lexar High-Performance 633x 512GB microSDXC UHS-I Karte'
+slug: 'B07N77C6KY-de Lexar High-Performance 633x Micro SD Karte 512GB microSDXC...'
 sku: 'B07N77C6KY-de'
-tags: [ '🇩🇪', ]
-actualPrice: 57.95 EUR
+tags: [ 'Computer & Zubehör','Datenspeicher','Externe Datenspeicher','Micro SD Speicherkarten','Speicherkarten','lexar','🇩🇪', ]
+actualPrice: 38.14 EUR
 currency: EUR
-price: 57.95
-comparePrice: 91.62 EUR
-prodname: 'Lexar High-Performance 633x 512GB microSDXC UHS-I Karte'
+price: 38.14
+comparePrice: 69.99 EUR
+prodname: 'Lexar High-Performance 633x Micro SD Karte 512GB  microSDXC UHS-I Karte  Bis Zu 100MB/s Lesegeschwindigkeit  Speicherkarte Micro SD  Kompatibel mit Switch  Handys und Tablets  LSDMI512BBEU633A '
 country: 'de'
 flag: '🇩🇪'
-brand: ''
+brand: 'Lexar'
 buyurl: 'https://www.amazon.de/dp/B07N77C6KY/?tag=tolees0ca-21'
-descuento: '36.75'
-average: '57.95'
+descuento: '45.51'
+average: '51.3466666666667'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,6 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schnelle Aufnahme, Wiedergabe und Übertragung von Mediendateien, einschließlich 1080p Full-HD-, 3D- und 4K-Videos
+- Inklusive High-Speed, Class 10 Karte und SD-Adapter
+- Premium Speicherlösung für Tablets, Sport Camcorder und Smartphones
+- Zehn Jahre beschränkte Garantie auf die Karte Und ein Jahr beschränkte Garantie auf den Adapter
+- Nutzt die UHS-I Technologie für eine Übertragungsgeschwindigkeit von bis zu 100 MB/s (633x)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07N77C6KY{{</world>}}

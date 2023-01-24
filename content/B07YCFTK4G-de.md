@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ROCCAT Titan Switch Speed – innovative, mechanische Schalter, Taktil, leise und leichtgängig, einzigartiges Design mit reduzierten Tastenkappen
-- Hochwertiges und widerstandsfähiges Design – Robuste Materialien und staubresistenten Schalter, eloxierte schwarze Aluminiumoberfläche
 - Advanced Anti-Ghosting mit nrko – komplettes N-Key Rollover, jeder Tastenanschlag wird registriert
 - Aimo Beleuchtung – RGB Einzeltastenbeleuchtung mit konfigurierbaren LED Lichteffekten in 16, 8 Millionen Farben und einstellbarem AIMO Effekt (unterstützt Synchronisierung über mehrere AIMO Geräte)
+- ROCCAT Titan Switch Speed – innovative, mechanische Schalter, Taktil, leise und leichtgängig, einzigartiges Design mit reduzierten Tastenkappen
+- Hochwertiges und widerstandsfähiges Design – Robuste Materialien und staubresistenten Schalter, eloxierte schwarze Aluminiumoberfläche
 - Konfigurierbare Tasten und Makros - 6 programmierbare Makro Tasten, ROCCAT Easy-Shift[+] Funktion für doppelbelegungen, Multimedia-Funktionen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
