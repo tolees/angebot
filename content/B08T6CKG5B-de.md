@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Ubiquiti UniFi 6 Lite Access Point  U6-LITE'
-date: 2023-01-21 21:53:30
-image: 'https://m.media-amazon.com/images/I/21f-0mGi81L._SL500_._SL400_.jpg'
+date: 2023-01-23 22:30:50
+image: 'https://m.media-amazon.com/images/I/21qu3VqcHhS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08T6CKG5B-de Ubiquiti UniFi 6 Lite Access Point U6-LITE'
 sku: 'B08T6CKG5B-de'
 tags: [ 'Computer & Zubehör','Netzwerkgeräte','Wireless Access Points','ubiquiti','🇩🇪', ]
-actualPrice: 120.13 EUR
+actualPrice: 124.93 EUR
 currency: EUR
-price: 120.13
+price: 124.93
 comparePrice: 199.0 EUR
 prodname: 'Ubiquiti UniFi 6 Lite Access Point  U6-LITE'
 country: 'de'
 flag: '🇩🇪'
 brand: 'Ubiquiti'
 buyurl: 'https://www.amazon.de/dp/B08T6CKG5B/?tag=tolees0ca-21'
-descuento: '39.63'
-average: '118.0375'
+descuento: '37.22'
+average: '119.416'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UniFi 6 Lite hat ein kompaktes und nanogroßes Design, so dass es NanoHD-Abdeckungen und Montagezubehör verwenden kann.
-- Wi-Fi 6 Access Point mit Dualband 2x2 MIMO in kompaktem Design für Low-Profile-Montage.
-- UniFi 6 Lite ist ein 2x2 Wi-Fi 6 Zugangspunkt, der bis zu 1,5 Gbit/s Aggregatradiorate mit 5 GHz (MU-MIMO und OFDMA) und 2,4 GHz (MIMO) Radios liefert.
 - Montieren Sie UniFi 6 Lite horizontal in der Decke, um eine Umgebung mit hoher Dichte abzudecken, oder montieren Sie es vertikal an der Wand, um seine Reichweite zu erweitern.
 - Gigabit Ethernet, Stromversorgung mit 802.3af PoE
+- Wi-Fi 6 Access Point mit Dualband 2x2 MIMO in kompaktem Design für Low-Profile-Montage.
+- UniFi 6 Lite hat ein kompaktes und nanogroßes Design, so dass es NanoHD-Abdeckungen und Montagezubehör verwenden kann.
+- UniFi 6 Lite ist ein 2x2 Wi-Fi 6 Zugangspunkt, der bis zu 1,5 Gbit/s Aggregatradiorate mit 5 GHz (MU-MIMO und OFDMA) und 2,4 GHz (MIMO) Radios liefert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08T6CKG5B{{</world>}}
