@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Einrichtung und Nutzung - Kein Hub erforderlich, schnelle Einrichtung und einfache Verwaltung über die kostenlose Tapo App. Sie können Ihre Smart Spotlights auch per Sprache über Amazon Alexa oder Google Assistant steuern
-- Hohe Lumen - 350 lm Licht, das hell genug ist, um jedes Objekt zu beleuchten
-- Energiesparen - Energiesparende Funktionen. Reduzieren Sie den Energieverbrauch, ohne an Helligkeit oder Qualität zu verlieren
-- Gruppen - Steuern Sie alle Tapo Smart Spotlights mit nur einem Klick in der App
-- 16 Millionen Farben & 1~100% dimmbar - Wählen Sie die Lichter aus einer breiten Palette von Farben, auch dimmen von 1% bis 100%, um Sie für die perfekte Atmosphäre zu wünschen
-- Weiß einstellbar - Passen Sie die Farbtemperatur von 2.200 K bis 6.500 K an Ihre Bedürfnisse an
 - GU10 Lampensockel - Kompatibel mit allen GU10-Leuchten. Keine zusätzliche Belastung für Ihren ersten Versuch
-- Zeitplan - Legen Sie einen Zeitplan fest, um Ihre Spotlights automatisch zu verwalten
+- Hohe Lumen - 350 lm Licht, das hell genug ist, um jedes Objekt zu beleuchten
+- Gruppen - Steuern Sie alle Tapo Smart Spotlights mit nur einem Klick in der App
 - Fernbedienung - Schalten Sie den Spotlight über die Tapo App sofort ein und aus, egal wo Sie sind
+- Zeitplan - Legen Sie einen Zeitplan fest, um Ihre Spotlights automatisch zu verwalten
+- Weiß einstellbar - Passen Sie die Farbtemperatur von 2.200 K bis 6.500 K an Ihre Bedürfnisse an
+- 16 Millionen Farben & 1~100% dimmbar - Wählen Sie die Lichter aus einer breiten Palette von Farben, auch dimmen von 1% bis 100%, um Sie für die perfekte Atmosphäre zu wünschen
+- Energiesparen - Energiesparende Funktionen. Reduzieren Sie den Energieverbrauch, ohne an Helligkeit oder Qualität zu verlieren
+- Einfache Einrichtung und Nutzung - Kein Hub erforderlich, schnelle Einrichtung und einfache Verwaltung über die kostenlose Tapo App. Sie können Ihre Smart Spotlights auch per Sprache über Amazon Alexa oder Google Assistant steuern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B6CKMLQH{{</world>}}
