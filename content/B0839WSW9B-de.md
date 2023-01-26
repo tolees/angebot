@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1500 cm² große Grillfläche
-- 2.300 Watt Leistung
-- Grillplatte herausnehmbar, spülmaschinengeeignet
 - Zwei getrennt regelbare Grillflächen
+- 1500 cm² große Grillfläche
 - Perfekter Grillgenuss auf zwei Grillflächen
+- Grillplatte herausnehmbar, spülmaschinengeeignet
+- 2.300 Watt Leistung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0839WSW9B{{</world>}}
