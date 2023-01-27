@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Dimensity 8100 5G Processor】CPU：5nm process, octa-core, 4x Cortex-A78 @2.85Ghz GPU：Mali-G610 MC6
 - 【Racing Stripe Design】The back of GT NEO 3 is carved out of a piece of matte AG glass with a beautiful contour. The smooth, refined surface reduces glare and minimizes fingerprints, so the phone has a smooth and comfortable build.
-- 【Sony IMX766 OIS Camera】Utilizing 4-in-1 binning, it transforms its pixels into 2.0 µm super pixels, allowing it to capture 63.8% more light compared to the Sony IMX586. More light and more image information means better photo quality.
-- Dedicated Display Processor Smoother Gaming Experience in Every Frame Effectively Efficient
-- 【150W UltraDart Charge】Our multiple safety protection features can easily tackle overcharging, over-discharging, overheating, short circuits and other faults, offering well-rounded protection for both the battery and GT NEO 3.
-- 150W UltraDart Charge Our multiple safety protection features can easily tackle overcharging, over-discharging, overheating, short circuits and other faults, offering well-rounded protection for both the battery and GT NEO 3.
 - 【Dedicated Display Processor】Smoother Gaming Experience in Every Frame & Effectively Efficient
-- Sony IMX766 OIS Camera Utilizing 4-in-1 binning, it transforms its pixels into 2.0 m super pixels, allowing it to capture 63.8 percent more light compared to the Sony IMX586. More light and more image information means better photo quality.
+- 【Dimensity 8100 5G Processor】CPU：5nm process, octa-core, 4x Cortex-A78 @2.85Ghz GPU：Mali-G610 MC6
+- 【150W UltraDart Charge】Our multiple safety protection features can easily tackle overcharging, over-discharging, overheating, short circuits and other faults, offering well-rounded protection for both the battery and GT NEO 3.
 - Racing Stripe Design The back of GT NEO 3 is carved out of a piece of matte AG glass with a beautiful contour. The smooth, refined surface reduces glare and minimizes fingerprints, so the phone has a smooth and comfortable build.
+- 150W UltraDart Charge Our multiple safety protection features can easily tackle overcharging, over-discharging, overheating, short circuits and other faults, offering well-rounded protection for both the battery and GT NEO 3.
 - Dimensity 8100 5G Processor CPU 5nm process, octa-core, 4x Cortex-A78 2.85Ghz GPU Mali-G610 MC6
+- 【Sony IMX766 OIS Camera】Utilizing 4-in-1 binning, it transforms its pixels into 2.0 µm super pixels, allowing it to capture 63.8% more light compared to the Sony IMX586. More light and more image information means better photo quality.
+- Sony IMX766 OIS Camera Utilizing 4-in-1 binning, it transforms its pixels into 2.0 m super pixels, allowing it to capture 63.8 percent more light compared to the Sony IMX586. More light and more image information means better photo quality.
+- Dedicated Display Processor Smoother Gaming Experience in Every Frame Effectively Efficient
 - Kamera beschreibung Front
 
 [🛒 Hier!!]({{< param buyurl >}})
