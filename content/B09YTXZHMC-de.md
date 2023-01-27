@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modellnummer: 1119393-ACTL
-- Fabric
-- Größe: 41 1/3 EU
-- Fabric
 - Farbe: Grau
 - Muster: Einfarbig
+- Fabric
+- Größe: 41 1/3 EU
+- Modellnummer: 1119393-ACTL
 - Hersteller: Hoka One One
+- Fabric
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09YTXZHMC{{</world>}}
