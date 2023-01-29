@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - <b>Smarte Überwachung:</b>Sehen Sie in Echtzeit wie viel Strom Sie erzeugen und wie viel Stromkosten Sie durch die Anlage einsparen, durch die WIFI-Funktion.
-- <b>Plug&Play:</b> Das Premium- Balkonkraftwerk 820W/600W von VESKA kann in wenigen Minuten einfach angeschlossen werden.
-- <b>vielseitig einsetzbar:</b> Am Balkon, auf dem Hausdach, der Garage, der Terrasse oder einfach freistehend im Garten, das VESKA Balkonkraftwerk ist vielseitig einsetzbar.
 - <b>Selbstinstallation:</b> Durch die maximale Ausgangsleistung des Wechselrichters von 600 Watt ist keine Genehmigung der Anlage notwendig und das Anschließen kann eigenhändig durchgeführt werden.
+- <b>vielseitig einsetzbar:</b> Am Balkon, auf dem Hausdach, der Garage, der Terrasse oder einfach freistehend im Garten, das VESKA Balkonkraftwerk ist vielseitig einsetzbar.
+- <b>Plug&Play:</b> Das Premium- Balkonkraftwerk 820W/600W von VESKA kann in wenigen Minuten einfach angeschlossen werden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM7VDWM5{{</world>}}
