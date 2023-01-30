@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-C500 True Wireless Kopfhörer  bis zu 20 Stunden Akkulaufzeit mit Ladeetui  - kompatibel mit Voice Assistant  integriertes Mikrofon für Telefonate  Bluetooth  Schwarz  Klein'
-date: 2023-01-28 23:43:09
+date: 2023-01-30 01:59:32
 image: 'https://m.media-amazon.com/images/I/31QkzAnEOSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B09FKGJ1CB/?tag=tolees0ca-21'
 descuento: '50.46'
-average: '49.4685714285715'
+average: '49.4700000000001'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Fast Pair: Schnelle Kopplung
 - Stabile Bluetooth-Verbindung
 - Wiedergabe bei jedem Wetter
 - Swift Pair: Einfach verbinden
-- Fast Pair: Schnelle Kopplung
 - Kompatibel mit Sprachassistent
 - Klare Freisprechfunktion
 
