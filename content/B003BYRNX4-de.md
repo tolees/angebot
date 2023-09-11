@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank der handlichen Auslegung eignet sich die kleine Feile optimal zur Bearbeitung filigraner Bauteile
-- Lieferumfang: 1 x PFERD Schlüsselfeile Flachstumpf inkl. Holzheft / Kreuzhieb 2 auf drei Seiten / 100 mm Länge / Querschnitt: 10,0 x 1,4 mm
 - PFERD-Schlüsselfeilen eignen sich für leichte und filigrane Feilarbeiten
 - Die rechteckige, flachstumpfe Feile mit Kreuzhieb Hieb 2 kann universell für Schrupp- und Schlichtarbeiten verwendet werden
+- Dank der handlichen Auslegung eignet sich die kleine Feile optimal zur Bearbeitung filigraner Bauteile
+- Lieferumfang: 1 x PFERD Schlüsselfeile Flachstumpf inkl. Holzheft / Kreuzhieb 2 auf drei Seiten / 100 mm Länge / Querschnitt: 10,0 x 1,4 mm
 - Die verschiedenen Feilenformen fertigt PFERD nach den Vorgaben der DIN 7283
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
