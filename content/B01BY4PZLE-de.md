@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Verbatim External Slimline CD/DVD Writer  USB 2.0  moblies Laufwerk  Nero Burn & Archive-Software inklusive  Externer DVD-Brenner  Externes CD-Laufwerk  kompaktes Design  schwarz'
+date: 2024-02-26 16:19:47
+image: 'https://m.media-amazon.com/images/I/21bx5km5b0L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01BY4PZLE-de Verbatim External Slimline CD/DVD Writer USB 2.0 moblies...'
+sku: 'B01BY4PZLE-de'
+tags: [ 'Computer & Zubehör','Externe CD- & DVD-Laufwerke','Externe PC-Komponenten','Externe optische Laufwerke','Komponenten & Ersatzteile','verbatim','🇩🇪', ]
+actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
+comparePrice: 49.95 EUR
+prodname: 'Verbatim External Slimline CD/DVD Writer  USB 2.0  moblies Laufwerk  Nero Burn & Archive-Software inklusive  Externer DVD-Brenner  Externes CD-Laufwerk  kompaktes Design  schwarz'
+country: 'de'
+flag: '🇩🇪'
+brand: 'Verbatim'
+buyurl: 'https://www.amazon.de/dp/B01BY4PZLE/?tag=tolees0ca-21'
+descuento: '39.96'
+average: '29.589'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- VIELFÄLTIG KOMPATIBEL - Die vollständige Kompatibilität mit allen gängigen Disc Formaten, wie DVD, CD oder der MDisc-Archivierungstechnologie, ermöglicht es jegliche Dateien zu speichern.
+- PERFEKT FÜR UNTERWEGS - Der kompakte und leichte Rewriter ist kaum größer als eine DVD und passt dank des extrem schlanken Gehäuses in jede Tasche. So kann er überall hin mitgenommen werden.
+- KINDERLEICHTE BEDIENUNG - Einfach die gewünschte Disc in den Brenner einlegen und mit der mitgelieferten Software können Sie Ihre wichtigen Dateien organisieren, brennen und archivieren.
+- Verbatim - Unsere Stärke in Forschung und Entwicklung in Kombination mit einer anspruchsvollen Qualitätskontrolle garantieren erstklassige Produkte und Technologie, der Sie vertrauen können.
+- IDEALES SPEICHERMEDIUM - Die perfekte Ergänzung für den Anschluss an Notebooks, Ultrabooks & Netbooks ohne Laufwerk. Die Stromversorgung erfolgt ganz ohne sperrigen Adapter über den USB Anschluss.
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B01BY4PZLE{{</world>}}
