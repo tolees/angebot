@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'POC Unisex-Adult Tectal Race SPIN Helm  Uranium black/Hydrogen white  M-L  55-58cm '
+date: 2024-07-16 21:16:09
+image: 'https://m.media-amazon.com/images/I/418FMPDf4UL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B079YXLMX1-de POC Unisex-Adult Tectal Race SPIN Helm Uranium...'
+sku: 'B079YXLMX1-de'
+tags: [ 'Arborist Merchandising Root','Fahrradhelme & Zubehör','Fullface- & BMX-Helme','Helme','Kunden-Favoriten: Sport','Prime Day: Cycling accessories','Radsport','Self Service','Special Features Stores','Sport','Sport & Freizeit','Sportausrüstung & -bekleidung','Sports-Promotions','ef3a019d-6628-41d5-b303-291126686917_0','ef3a019d-6628-41d5-b303-291126686917_6101','ef3a019d-6628-41d5-b303-291126686917_7401','ef3a019d-6628-41d5-b303-291126686917_7801','node 3','poc','🇩🇪', ]
+actualPrice: 107.87 EUR
+currency: EUR
+price: 107.87
+comparePrice: 126.91 EUR
+prodname: 'POC Unisex-Adult Tectal Race SPIN Helm  Uranium black/Hydrogen white  M-L  55-58cm '
+country: 'de'
+flag: '🇩🇪'
+brand: 'POC'
+buyurl: 'https://www.amazon.de/dp/B079YXLMX1/?tag=tolees0ca-21'
+descuento: '15.00'
+average: '107.87'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Der Integrität der Konstruktion des Helmes bei gleichzeitig niedrigem Gewicht
+- Der Ideale Mountainbike Helm für jeden Fahrstil, von Trailriding bis Downhill
+- Verstellbarer Fahrradhelm mit einem 360° Größen-Regler für eine individuelle, sichere und komfortable Passform sowie eine optimale Belüftung selbst bei heißem Wetter
+- Bietet eine weitere Verbesserung der Sicherheitseigenschaften
+- Leichter MTB-Helm mit einteiliger EPS-Schale, verstärktem EPS-Einsatz und aramidfaserverstärkten Helmbrücken für eine bessere Strukturintegrität und leichten, dauerhaften Schutz
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B079YXLMX1{{</world>}}
