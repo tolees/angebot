@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hama 64 GB USB Stick mit USB 3.0 und USB 3.1-Type-C  2-in-1 Speicherstick  z.B. für Android Handy  Tablet  Computer  Notebook  MacBook  OTG  40MB/s  Handy-Stick  Doppel Memory-Stick silber'
-date: 2024-10-07 23:18:40
+date: 2024-10-10 17:37:54
 image: 'https://m.media-amazon.com/images/I/41xrXqQoZBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Hama'
 buyurl: 'https://www.amazon.de/dp/B01HPB98WM/?tag=tolees0ca-21'
 descuento: '51.59'
-average: '8.46176470588237'
+average: '8.46562043795622'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

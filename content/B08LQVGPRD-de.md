@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clinique Moisture Surge Intense 72H  75 ml'
-date: 2024-10-08 00:44:40
+date: 2024-10-10 18:08:19
 image: 'https://m.media-amazon.com/images/I/41jHLnhMIpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Clinique'
 buyurl: 'https://www.amazon.de/dp/B08LQVGPRD/?tag=tolees0ca-21'
 descuento: '46.80'
-average: '31.2220000000001'
+average: '31.0700000000001'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

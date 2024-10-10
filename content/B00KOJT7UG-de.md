@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Woodburn II WP wasserdichte Wanderschuhe für Herren  Schwarz  Black x Caramel   45 EU'
-date: 2024-10-08 19:42:45
+date: 2024-10-10 17:28:10
 image: 'https://m.media-amazon.com/images/I/31tRUdx7JHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.de/dp/B00KOJT7UG/?tag=tolees0ca-21'
 descuento: '25.99'
-average: '74.71125'
+average: '74.6333333333333'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Abtriebfeste Omni-Grip Gummi-Außensohle für ideale Bodenhaftung
-- Omni-Tech wasserdichte/atmungsaktive Schuhkonstruktion mit versiegelten Nähten
 - Leichte Techlite Zwischensohle
 - Obermaterial aus wasserdichtem Netzgewebe/Leder
+- Omni-Tech wasserdichte/atmungsaktive Schuhkonstruktion mit versiegelten Nähten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00KOJT7UG{{</world>}}

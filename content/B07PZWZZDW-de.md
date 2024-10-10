@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rieker Damen Ankle Boots Y7463  Frauen Stiefeletten halbstiefel Kurzstiefel uebergangsschuhe uebergangsstiefel flach Stiefel grau  40  39 EU / 6 UK'
-date: 2024-10-08 00:14:44
+date: 2024-10-10 17:47:46
 image: 'https://m.media-amazon.com/images/I/4168YlehMvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Outer material: Synthetic, Inner material: Textile, Outsole: Synthetic, Cover Sole: soft top sole
-- non removable insole
-- Product type: Ankle Boots,Ankle boots,low boots,half boots,bootie,flat
-- Width: regular (F 1/2), Closure type: Zip
-- Heel type: Block Heel, Heel hight: 3.9 cm, Shaft type: mid-calf, Shaft hight: 13 cm
+- Weite: Normal (F 1/2), Verschluss: Reißverschluss
+- Absatztyp: Blockabsatz, Absatzhöhe: 3.9 cm, Schafttyp: Halbschaft, Schafthöhe: 13 cm
+- Obermaterial: Kunstleder, Innenmaterial: Textil, Laufsohle: TR-Sohle, Decksohle: Textil
+- Produkttyp: Stiefeletten,Stiefeletten,Ankle Boots,Damenschuhe,Stiefel,Kurzstiefel,Booties,flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07PZWZZDW{{</world>}}

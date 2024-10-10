@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Rouge Velvet Lipstick - 23 Taupe Of Paris 1 Stück  1er Pack '
-date: 2024-10-08 19:50:01
+date: 2024-10-10 17:50:20
 image: 'https://m.media-amazon.com/images/I/31J2cBiXmaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bourjois'
 buyurl: 'https://www.amazon.de/dp/B07GSD3PFX/?tag=tolees0ca-21'
 descuento: '19.15'
-average: '13.1466666666667'
+average: '12.9'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

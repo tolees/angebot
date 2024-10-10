@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOURJOIS PARIS Always Fabulous Foundation - 125 Ivory  29135497125'
-date: 2024-10-08 00:33:16
+date: 2024-10-10 17:54:54
 image: 'https://m.media-amazon.com/images/I/317WHGWKqAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 30ml
-- Available in 6 shades
 - Einheitenanzahltyp: stück
 - Feuchtigkeitsspendend
-- Anzahl der einheiten: 1.0
+- 30ml
 - All day coverage
+- Available in 6 shades
+- Anzahl der einheiten: 1.0
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07Y8WQM6Q{{</world>}}

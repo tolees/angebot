@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Raspberry Pi - offizielles Netzteil für Raspberry Pi 4 Model B  USB-C  5.1V  3A weiß'
-date: 2024-10-08 19:54:33
+date: 2024-10-10 17:56:04
 image: 'https://m.media-amazon.com/images/I/41bHIjJyBRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Raspberry Pi'
 buyurl: 'https://www.amazon.de/dp/B07TZ89BT7/?tag=tolees0ca-21'
 descuento: '54.07'
-average: '8.97'
+average: '8.71'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kurzschluss-, Überstrom- und Übertemperaturschutz.
 - Ausgang: 5,1 V.
 - Ausgangsanschluss: USB-C
 - Eingangsbereich: 96-264 V.
-- Kurzschluss-, Überstrom- und Übertemperaturschutz.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TZ89BT7{{</world>}}

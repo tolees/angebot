@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intenso Alu Line 8GB Speicherstick USB 2.0 anthrazit'
-date: 2024-10-04 23:42:13
+date: 2024-10-10 17:17:59
 image: 'https://m.media-amazon.com/images/I/21RpDM3upeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Intenso'
 buyurl: 'https://www.amazon.de/dp/B008RDCDXO/?tag=tolees0ca-21'
 descuento: '31.40'
-average: '3.75814159292037'
+average: '3.74344827586209'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Intenso Alu Line USB-Stick anthrazit
-- Hochwertiger USB-Speicherstick im Aluminiumgehäuse
-- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
 - Gewicht: federleichte 4 g; Abmessungen: 17 x 59 x 7 mm
 - Material: Aluminium
+- Lieferumfang: Intenso Alu Line USB-Stick anthrazit
+- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
+- Hochwertiger USB-Speicherstick im Aluminiumgehäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008RDCDXO{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 88013 Powered Up Technic Großer Motor  4 year +'
-date: 2024-10-08 00:36:36
+date: 2024-10-10 18:02:08
 image: 'https://m.media-amazon.com/images/I/31hhbseBmOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B08G3KZ1XD/?tag=tolees0ca-21'
 descuento: '55.70'
-average: '34.3252941176471'
+average: '34.325'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ideale Ergänzung für LEGO Technic Sets, Züge oder programmierbare Roboter
 - Lose LEGO Originalware in einem Polybeutel ohne Originalverpackung und Anleitung.
 - LEGO Confidential
-- Ideale Ergänzung für LEGO Technic Sets, Züge oder programmierbare Roboter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08G3KZ1XD{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Frontzipper
-- Kapuze mit verstellbarem Gummizug und Tapes innen
 - seitliche Einschubtaschen mit Reißverschluss
+- Kapuze mit verstellbarem Gummizug und Tapes innen
+- Frontzipper
 - verstellbarer Gummizug im Saum
 - Streifen- und Label-Print auf dem Rücken
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI Racing Wheel Overdrive - Gaming Lenkrad mit Pedalen für Xbox Series X|S Xbox One PC ['
-date: 2024-10-08 20:02:34
+date: 2024-10-10 18:04:37
 image: 'https://m.media-amazon.com/images/I/41ZODQ+9w2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Hori'
 buyurl: 'https://www.amazon.de/dp/B08LGWJ219/?tag=tolees0ca-21'
 descuento: '30.77'
-average: '95.2893023255815'
+average: '95.1688636363637'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Stabile Befestigung mit klammersystem
-- kompatibel mit Xbox Series x|s, Xbox One und Windows 10
 - Offiziell Microsoft lizensiert
 - Maßstabsgetreues Lenkrad und fußpedale & Optimiert für ein authentisches Rennerlebnis
 - Hinweis: Um Softwareprobleme zu beheben, aktualisieren Sie auf die neueste Firmware.
+- kompatibel mit Xbox Series x|s, Xbox One und Windows 10
 - 270 Grad lenkradius mit justierbaren eingabeoptionen
 
 [🛒 Hier!!]({{< param buyurl >}})

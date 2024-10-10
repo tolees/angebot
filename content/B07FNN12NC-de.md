@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41363 Friends Mias Outdoor Abenteuer'
-date: 2024-10-05 00:23:31
+date: 2024-10-10 17:41:34
 image: 'https://m.media-amazon.com/images/I/41-bLVvid9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07FNN12NC-de LEGO 41363 Friends Mias Outdoor Abenteuer'
 sku: 'B07FNN12NC-de'
 tags: [ '3c7da132-4fdb-45ec-95bc-24ebea2541e9_0','Arborist Merchandising Root','Bauklötze & Bausteine','Bauspielzeug & Konstruktionsspielzeug','Custom Stores','LEGO','Self Service','Spielzeug','lego','🇩🇪', ]
-actualPrice: 10.39 EUR
+actualPrice: 5.75 EUR
 currency: EUR
-price: 10.39
+price: 5.75
 comparePrice: 14.99 EUR
 prodname: 'LEGO 41363 Friends Mias Outdoor Abenteuer'
 country: 'de'
 flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B07FNN12NC/?tag=tolees0ca-21'
-descuento: '30.69'
-average: '10.3138095238095'
+descuento: '61.64'
+average: '10.1204347826087'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Vom Hersteller empfohlenes Alter: 6+
 - Zum Zubehör gehören eine Fernsteuerung für das Mountainboard, ein Fernglas und eine Wasserflasche
 - Anzahl der Teile: 134
-- Vom Hersteller empfohlenes Alter: 6+
 - Dieses LEGO Abenteuerset bietet ein elektrisches Mountainboard, einen Beobachtungsturm, eine Brücke und einen Baum mit Bienenstock-Absenkfunktion
 - Mias Outdoor Abenteuer
 

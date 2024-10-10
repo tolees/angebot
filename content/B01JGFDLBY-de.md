@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois  Mascara Volume Reveal  22 Ultra Schwarz'
-date: 2024-10-07 23:22:40
+date: 2024-10-10 17:28:36
 image: 'https://m.media-amazon.com/images/I/41BerR1z5IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Bourjois'
 buyurl: 'https://www.amazon.de/dp/B01JGFDLBY/?tag=tolees0ca-21'
 descuento: '31.99'
-average: '9.77499999999995'
+average: '9.78933333333329'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Anzahl der einheiten: 1.0
+- Anzahl der artikel: 1
 - Einheitenanzahltyp: stück
 - bourjois mascara volume reveal
-- Anzahl der artikel: 1
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01JGFDLBY{{</world>}}
