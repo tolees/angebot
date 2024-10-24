@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'SanDisk Extreme PRO microSDXC UHS-I Speicherkarte 128 GB + Adapter & RescuePRO Deluxe  Für Smartphones  Actionkameras oder Drohnen  A2  Class 10  V30  U3  200 MB/s Übertragung '
+date: 2024-10-19 12:02:22
+image: 'https://m.media-amazon.com/images/I/41vbgHMTQ8L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09X7DNF6G-de SanDisk Extreme PRO microSDXC UHS-I Speicherkarte 128 GB +...'
+sku: 'B09X7DNF6G-de'
+tags: [ 'Arborist Merchandising Root','Computer & Zubehör','Computer & Zubehör: Produkte mit Umwelt-Label','Datenspeicher','Externe Datenspeicher','Micro SD Speicherkarten','Self Service','Special Features Stores','Speicherkarten','a4cbee59-f823-40fe-831a-7de64f655f6f_0','a4cbee59-f823-40fe-831a-7de64f655f6f_1301','sandisk','🇩🇪', ]
+actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
+comparePrice: 34.99 EUR
+prodname: 'SanDisk Extreme PRO microSDXC UHS-I Speicherkarte 128 GB + Adapter & RescuePRO Deluxe  Für Smartphones  Actionkameras oder Drohnen  A2  Class 10  V30  U3  200 MB/s Übertragung '
+country: 'de'
+flag: '🇩🇪'
+brand: 'SanDisk'
+buyurl: 'https://www.amazon.de/dp/B09X7DNF6G/?tag=tolees0ca-21'
+descuento: '51.44'
+average: '18.1272142857141'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Lieferumfang: SanDisk Extreme PRO microSDXC UHS-I Speicherkarte 128 GB + Adapter & RescuePRO Deluxe (Für Smartphones, Actionkameras oder Drohnen, A2, V30, U3, 200 MB/s Übertragung) 30 Jahre Garantie
+- Mit einer Lesegeschwindigkeit von 200 MB/s und einer Schreibgeschwindigkeit von 90 MB/s übertragen Sie Ihre Daten extrem schnell dank SanDisk QuickFlow-Technologie
+- Für eine bessere App- Performance und schnelleres Laden sorgt die microSD Karte durch den vorhandenen A2 Leistungsstandard
+- Die SanDisk Extreme PRO microSDXC ist ideal geeignet für alle Android Smartphones und Tablets, sowie Drohnen oder Actioncams
+- Machen Sie verlustfreie 4K UHD Videoaufzeichnungen dank UHS Speed Klasse 3 (U3) und Video Speed Klasse 30 (V30) mit der microSD Karte für Smartphones
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B09X7DNF6G{{</world>}}

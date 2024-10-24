@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PUMA Unisex Rebound V6 Sneaker  White Black Shadow Gray  42 EU'
+date: 2024-10-23 04:10:03
+image: 'https://m.media-amazon.com/images/I/41NUEYjTxRL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BK98CQ2R-de PUMA Unisex Rebound V6 Sneaker White Black Shadow Gray 42 EU'
+sku: 'B0BK98CQ2R-de'
+tags: [ '5c70cae9-f332-4ebd-823a-ff43ae7c92ea_0','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_264602','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_4401','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_4601','5c70cae9-f332-4ebd-823a-ff43ae7c92ea_554402','Arborist Merchandising Root','Fashion','Herren-Sneaker','Herrenmode','Herrenschuhe','Kunden-Favoriten diesen Monat Damen','Kunden-Favoriten diesen Monat Männer','Self Service','Sneaker & Sportschuhe für Herren','Special Features Stores','puma','🇩🇪', ]
+actualPrice: 42.99 EUR
+currency: EUR
+price: 42.99
+comparePrice: 74.95 EUR
+prodname: 'PUMA Unisex Rebound V6 Sneaker  White Black Shadow Gray  42 EU'
+country: 'de'
+flag: '🇩🇪'
+brand: 'PUMA'
+buyurl: 'https://www.amazon.de/dp/B0BK98CQ2R/?tag=tolees0ca-21'
+descuento: '42.64'
+average: '42.0966666666667'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Synthetisches Obermaterial
+- Einlegesohle aus softfoam
+- Zwischensohle aus Gummi
+- Mittelhoher Schaft
+- Gummilaufsohle
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B0BK98CQ2R{{</world>}}
