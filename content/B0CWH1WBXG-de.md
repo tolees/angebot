@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Raupenbagger  Spielzeugbagger für Kinder ab 8 Jahren  Bauspielzeug mit Bagger-Modell  baubarer LKW mit Zubehör und 3 Minifiguren 60420'
-date: 2024-10-23 09:32:52
+date: 2024-10-24 19:48:44
 image: 'https://m.media-amazon.com/images/I/51VnTmkVPfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.de/dp/B0CWH1WBXG/?tag=tolees0ca-21'
 descuento: '32.73'
-average: '40.5784615384615'
+average: '40.4455555555555'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
