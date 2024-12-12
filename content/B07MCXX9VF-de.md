@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lässt sich auf Gesicht, Körper und Händen anwenden
-- Shea-Butter ist für seine pflegenden und regenerierenden Eigenschaften bekannt
 - Angereichert mit Argan-Öl und Shea-Butter aus biologischem Anbau: ideal für trockene, juckende, raue und beanspruchte Haut
 - Argan-Öl enthält hochkonzentrierte Fettsäuren und ist bekannt für seine schützenden und pflegenden Eigenschaften
+- Lässt sich auf Gesicht, Körper und Händen anwenden
+- Shea-Butter ist für seine pflegenden und regenerierenden Eigenschaften bekannt
 - Bio-Kosmetik-zertifiziert: Cosmos Organic nach dem Cosmos Standard durch Ecocert Greenlife zertifiziert
 
 [🛒 Hier!!]({{< param buyurl >}})

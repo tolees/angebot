@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
 - Bringt Ihnen einen zusätzlichen Komfort
+- Langlebig
 - Flexible Gestaltung
 - Hält kühl und bequem
 

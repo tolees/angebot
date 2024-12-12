@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ca. 8 cm groß
 - mit Schaf Mutter Figur
-- tolles Popcorn Lieferwagen Spielset mit Dreirad, Popcorn Verkaufsstand, Fahrradkorb, Verkaufsstand und zahlreichem Popcorn und Lolli Zubehör
 - Kopf, Arme und Beine sind beweglich
+- tolles Popcorn Lieferwagen Spielset mit Dreirad, Popcorn Verkaufsstand, Fahrradkorb, Verkaufsstand und zahlreichem Popcorn und Lolli Zubehör
+- ca. 8 cm groß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B34ZFSD4{{</world>}}

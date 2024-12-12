@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- stylische T-Shirts
 - im praktischen 5er Pack
+- Rundhalsausschnitt
 - aus 100% Baumwolle
 - kleines Logo
-- Rundhalsausschnitt
-- stylische T-Shirts
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B097CC69VH{{</world>}}

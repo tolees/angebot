@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Fokus auf Tragekomfort und Vielfältigkeit designt
 - Ein klassisches Rundhalsshirt, das einfach zu allem passt
 - Reguläre Passform
+- Mit Fokus auf Tragekomfort und Vielfältigkeit designt
 - Rundhalsausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})

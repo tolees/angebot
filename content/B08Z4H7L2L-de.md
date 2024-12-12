@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Stilvoll und unaufdringlich
 - Optischer Digitaleingang
 - Schmal und elegant
-- Stilvoll und unaufdringlich
 - Kabellose Verbindung zum Fernseher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

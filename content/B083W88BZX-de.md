@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Elastische Bündchen
 - Langarm-Shirt
 - Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
-- Elastische Bündchen
-- Kapuze mit Tunnelzug
 - PUMA Cat Logo in Brusthöhe rechts
+- Kapuze mit Tunnelzug
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B083W88BZX{{</world>}}

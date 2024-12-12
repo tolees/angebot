@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IKONISCH & ZEITLOS: Die original Tommy Jeans Denim-Hose ist in lässigem Design gehalten. Der Klassiker im 5-Pocket-Style ist besonders beliebt aufgrund seines weichen Materials und des figurbetonten Schnitts.
 - OPTIMALE PASSFORM: Die Slim Fit Denim-Hose formt eine schöne Silhouette und sitzt körperbetont. Dank des Stretchanteils schränkt sie jedoch nicht deine Bewegungen ein.
+- IKONISCH & ZEITLOS: Die original Tommy Jeans Denim-Hose ist in lässigem Design gehalten. Der Klassiker im 5-Pocket-Style ist besonders beliebt aufgrund seines weichen Materials und des figurbetonten Schnitts.
 - HOCHWERTIGES MATERIAL: Die Jeans besteht aus 78% regenerativer Baumwolle, 20% recycelter Baumwolle und 2% Elastan.
 - PERFEKTER ALLROUNDER: Die minimalistische Jeanshose zeichnet sich durch den besonders hohen Tragekomfort aus und ist für den Büro-Look oder im Alltag bestens geeignet. Die gestickte Tommy Jeans Flag auf der Tasche ist der ideale Eye-Catcher.
 

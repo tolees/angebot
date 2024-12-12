@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Von Cyberpunk 2077- Takemura, zur stilisierten POP-Vinyl Figur von Funko!
 - Die Figur ist 9 cm groß und wird in einer illustrierten Fensterbox geliefert
-- Funko POP! ist das Spielzeug des Jahres 2018
 - Schauen Sie sich jetzt die anderen Cyberpunk 2077 Figuren von Funko an! Sammeln Sie alle!
+- Funko POP! ist das Spielzeug des Jahres 2018
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07YQH419G{{</world>}}

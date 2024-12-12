@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Liefermenge: 1x 200ml
-- ohne Ausspülen
 - Entwirrende Sprühkur
+- Liefermenge: 1x 200ml
 - für Blondes, blondiertes, aufgehelltes oder graues Haar
+- ohne Ausspülen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01FX0UYFM{{</world>}}

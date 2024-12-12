@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aktivitätsindex: A (Hiking)
 - Wanderschuh für Tagestouren
 - wasserdicht, atmungsaktiv
+- Aktivitätsindex: A (Hiking)
 - komfortable Passform, griffiges Profil
 - gut dämpfende, robuste Wandersohle
 

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultraschnelles Wi-Fi 6 - Genieße Geschwindigkeiten von bis zu 3000 Mbit/s und eine 4-fache Netzwerkeffizienz mit OFDMA und 160 MHz-Kanälen.
-- Einfache Portweiterleitung in 3 Schritten - Open NAT macht die Portweiterleitung einfach und erspart dir die frustrierende und komplizierte manuelle Konfiguration.
-- ASUS AiMesh-Unterstützung - Erstelle mit AiMesh-kompatiblen Routern ein flexibles, nahtloses Whole-Home-Mesh-Netzwerk.
 - Echte kabelgebundene Multi-Gigabit-Geschwindigkeiten - 2 Gigabit-LAN-Verbindungen, kabelgebundener 2,5-Gbit/s-Port und Wi-Fi 6.
+- ASUS AiMesh-Unterstützung - Erstelle mit AiMesh-kompatiblen Routern ein flexibles, nahtloses Whole-Home-Mesh-Netzwerk.
+- Einfache Portweiterleitung in 3 Schritten - Open NAT macht die Portweiterleitung einfach und erspart dir die frustrierende und komplizierte manuelle Konfiguration.
+- Ultraschnelles Wi-Fi 6 - Genieße Geschwindigkeiten von bis zu 3000 Mbit/s und eine 4-fache Netzwerkeffizienz mit OFDMA und 160 MHz-Kanälen.
 - Der TUF Gaming AX3000 V2 ist auf Langlebigkeit ausgelegt und wird verifizierten Tests unterzogen, um einen zuverlässigen, stabilen Betrieb zu gewährleisten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

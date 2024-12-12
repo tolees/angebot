@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Feinsäge Fatmax, umlegbar / Länge: 250 mm, Höhe: 55 mm, Anzahl Zähne: 13 Inch
-- Gefederter Druckschalter für den schnellen Wechsel des Handgriffs von links auf rechts
 - Neuer, ergonomisch geformter Handgriff für komfortablen Einsatz
-- Umlegbarer Handgriff: Für verbesserten Zugang in beengten Räumen
 - Für hervorrangende Sägeergebnisse: Extra breites Blatt für stabile Sägenführung und mit Stahl verstärkter Rücken für gerade Schnitte
+- Gefederter Druckschalter für den schnellen Wechsel des Handgriffs von links auf rechts
+- Lieferumfang: 1x Feinsäge Fatmax, umlegbar / Länge: 250 mm, Höhe: 55 mm, Anzahl Zähne: 13 Inch
+- Umlegbarer Handgriff: Für verbesserten Zugang in beengten Räumen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002KHJYBM{{</world>}}

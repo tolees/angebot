@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verschluss: Schnürung
 - Sohle: Synthetik
 - Innenmaterial: Leder
-- Verschluss: Schnürung
 - Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})

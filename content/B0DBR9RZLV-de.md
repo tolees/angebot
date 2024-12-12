@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kapazitäten bis zu 4TB,⁵,
-- Ideal für Hochgeschwindigkeitsspeicher mit niedrigem Stromverbrauch
 - Gen 4x4 NVMe PCIe-Leistung
+- Ideal für Hochgeschwindigkeitsspeicher mit niedrigem Stromverbrauch
+- Kapazitäten bis zu 4TB,⁵,
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DBR9RZLV{{</world>}}
