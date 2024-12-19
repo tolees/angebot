@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Serum-Schicht: Italienischer weiße Trüffel-Extrakt, Niacinamid und Chiasamen-Extrakt für Hautlinderung und Elastizität.
-- Zertifiziert vegan nach gründlichen Tests durch das italienische V-Label, dermatologisch getestet und hypoallergen - es bietet ein luxuriöses veganes Erlebnis, das von Makeup-Künstlern und Prominenten geliebt wird.
-- Ohne Tenside, spendet die doppelte Schichtung des Serums und der Öle der Haut Feuchtigkeit mit einem erfrischenden Finish. Vor Gebrauch die SERUM & OIL-Schicht gut schütteln.
-- Hochwertige weiße Trüffel, sorgfältig aus dem Piemont in Italien gewonnen und mit Tocopherol (Vitamin E) angereichert, bilden den charakteristischen Inhaltsstoff Trufferol von dAlba, der reich an Antioxidantien ist.
 - *Ergebnisse können je nach Hauttyp und Zustand variieren *Parfümiert - Zitrusblumig
+- Zertifiziert vegan nach gründlichen Tests durch das italienische V-Label, dermatologisch getestet und hypoallergen - es bietet ein luxuriöses veganes Erlebnis, das von Makeup-Künstlern und Prominenten geliebt wird.
+- Hochwertige weiße Trüffel, sorgfältig aus dem Piemont in Italien gewonnen und mit Tocopherol (Vitamin E) angereichert, bilden den charakteristischen Inhaltsstoff Trufferol von dAlba, der reich an Antioxidantien ist.
+- Ohne Tenside, spendet die doppelte Schichtung des Serums und der Öle der Haut Feuchtigkeit mit einem erfrischenden Finish. Vor Gebrauch die SERUM & OIL-Schicht gut schütteln.
+- Serum-Schicht: Italienischer weiße Trüffel-Extrakt, Niacinamid und Chiasamen-Extrakt für Hautlinderung und Elastizität.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BFQ9RD5B{{</world>}}

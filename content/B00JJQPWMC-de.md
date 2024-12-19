@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - facil de usar
-- Limpia eficazmente sin dañar la integridad de la piel gracias a su fórmula con ingredientes emolientes
 - Fórmula espumosa sin jabón
+- Limpia eficazmente sin dañar la integridad de la piel gracias a su fórmula con ingredientes emolientes
 - Limpiador corporal diario para pieles secas.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

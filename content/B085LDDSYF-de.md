@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dem Stammbaum Schlangen-Gliederarmband hast du die Menschen die du liebst immer in deiner Nähe
-- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
 - Auf der Rückseite des Verschlusses ist "Family"mit Blattdetails eingraviert, und erinnert dich daran wie wichtig eine dauerhafte Familienbande ist
 - Trage es als Hommage an deine Familie oder als Geschenk an einen deiner Lieben
+- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
+- Mit dem Stammbaum Schlangen-Gliederarmband hast du die Menschen die du liebst immer in deiner Nähe
 - Das herzförmige Pandora Stammbaum-Armband mit offen gearbeitetem Verschluss und funkelndem Cubic Zirkonia symbolisiert die Verbindungen, die dich zu dem machen, was du bist
 
 [🛒 Hier!!]({{< param buyurl >}})

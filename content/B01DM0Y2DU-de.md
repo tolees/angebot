@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Feuchtigkeitsspendende Formel mit halbmattem Finish und LSF 20
 - Pumpspender für eine praktische, saubere Anwendung
 - Lsf 20
-- Feuchtigkeitsspendende Formel mit halbmattem Finish und LSF 20
 - Spezielle Formel garantiert 24 Stunden Halt
 - Das Touch-Proof-System verhindert das Abfärben auf die Kleidung
 

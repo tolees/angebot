@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Es gibt Hunderte von spielbaren Charakteren, die über die gesamte Galaxis und jede Ära der Saga verstreut sind
-- Erzählt mit dem berühmten LEGO Humor: Alle unvergesslichen Momente der gesamten Saga werden mit dem spaßgeladenen und wahnwitzigen Humor
 - Immer familienfreundlich: Das Spiel bietet ein fantasievolles, lustiges LEGO Spielerlebnis für alle Altersgruppen
 - Erlebe deine Lieblingsmomente aus allen neun Filmen der Star Wars Saga, einschließlich der finalen Episode Star Wars: Der Aufstieg Skywalkers
+- Es gibt Hunderte von spielbaren Charakteren, die über die gesamte Galaxis und jede Ära der Saga verstreut sind
+- Erzählt mit dem berühmten LEGO Humor: Alle unvergesslichen Momente der gesamten Saga werden mit dem spaßgeladenen und wahnwitzigen Humor
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TC9HD9T{{</world>}}

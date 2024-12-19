@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【PETG Empfohlene Einstellungen】We recommend printing the PETG filament at a nozzle temperature of 220-250°C (428-482°F), bed temperature of 75-85°C (167-185°F) if no glue applied, printing speed of 50-100mm/s.
-- 【1.75mm Filamentdurchmesser】JAYO PETG 3D drucker filament hat 1,75 mm Durchmesser, Maßgenauigkeit +/- 0,02 mm, genauer Durchmesser, so dass es für fast FDM 3D-Drucker geeignet ist.
-- 【JAYO Strong PETG Filament 1.75mm】3D Drucker Filament PETG 1.75mm hat den Vorteil der hohen Zähigkeit und gute Schlagfestigkeit. PETG Filament ist so einfach zu verwenden wie PLA und so haltbar wie ABS.
-- 【Clog-Free & Bubble-Free】JAYO PETG 1.75mm Filament hat eine bessere Fließfähigkeit, die effektiv das Verstopfen während des Drucks reduziert. Die Kunststoff-Vakuumverpackung und das Trocknungsmittel machen das Filament weniger anfällig für Feuchtigkeit.
 - 【Neatly wound filament】JAYOs führender Produktionsprozess - sauber aufgereihtes Filament kann das Verheddern, Verdrehen oder Brechen des Filaments während des Druckprozesses vermeiden, was den Druckerfolg erheblich erhöht.
+- 【1.75mm Filamentdurchmesser】JAYO PETG 3D drucker filament hat 1,75 mm Durchmesser, Maßgenauigkeit +/- 0,02 mm, genauer Durchmesser, so dass es für fast FDM 3D-Drucker geeignet ist.
+- 【Clog-Free & Bubble-Free】JAYO PETG 1.75mm Filament hat eine bessere Fließfähigkeit, die effektiv das Verstopfen während des Drucks reduziert. Die Kunststoff-Vakuumverpackung und das Trocknungsmittel machen das Filament weniger anfällig für Feuchtigkeit.
+- 【JAYO Strong PETG Filament 1.75mm】3D Drucker Filament PETG 1.75mm hat den Vorteil der hohen Zähigkeit und gute Schlagfestigkeit. PETG Filament ist so einfach zu verwenden wie PLA und so haltbar wie ABS.
+- 【PETG Empfohlene Einstellungen】We recommend printing the PETG filament at a nozzle temperature of 220-250°C (428-482°F), bed temperature of 75-85°C (167-185°F) if no glue applied, printing speed of 50-100mm/s.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BHQPJJ21{{</world>}}

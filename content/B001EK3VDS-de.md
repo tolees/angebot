@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - BURT’S BEES LIPPENPFLEGE: Der beste Lippenbalsam für trockene Lippen seit 1991
-- LIPPENBALSAM FÜR TROCKENE LIPPEN: Befeuchtet und pflegt trockene Lippen den ganzen Tag lang intensiv und schützt sie vor dem Austrocknen.
 - PFLEGENDE, HOCHWIRKSAME INHALTSSTOFFE: Angereichert mit pflegendem Bienenwachs aus verantwortungsvollen Quellen, nährendem Kokosnussöl und antioxidativem Vitamin E. Mit süßem Honiggeschmack
 - NATÜRLICHE FEUCHTIGKEITSPFLEGE FÜR DIE LIPPEN: Lippenbalsam aus Inhaltsstoffen zu 100 % natürlichen Ursprungs
+- LIPPENBALSAM FÜR TROCKENE LIPPEN: Befeuchtet und pflegt trockene Lippen den ganzen Tag lang intensiv und schützt sie vor dem Austrocknen.
 - LIPPEN REPARIEREN: Mit seinem matten Finish und seiner feuchtigkeitsspendenden Balsamtextur sorgt dieser Lippenpflegestift dafür, dass sich deine Lippen wieder geschmeidig weich und glatt anfühlen und dazu auch noch schön aussehen.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gefertigt aus reiner Pima-Baumwolle
-- Besonders weiches Tragegefühl
 - Normale Passform
-- Stehkragen
 - Vielseitig kombinierbar
+- Besonders weiches Tragegefühl
+- Stehkragen
+- Gefertigt aus reiner Pima-Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07WLV17Y1{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Baue deine eigene Orchidee mit dieser dekorativen künstlichen LEGO Pflanze - ein spezielles LEGO Set für Erwachsene aus der Botanical Collection
-- Die Kunstpflanzen kommen dem echten Vorbild unglaublich nahe, mit erstaunlicher Liebe zum Detail in Form und Farbe
-- In der LEGO Botanicals Collection sind faszinierende Elemente versteckt, die von anderen Sets inspiriert sind - versuche alle zu finden!
 - Das Modell der Kunstblumen ist einer echten Orchidee nachempfunden und enthält 6 große Blüten und 2 frisch geöffnete Blüten sowie die geriffelte Vase
 - Drehe die Stängel, Blüten, Wurzeln und Blätter der LEGO Pflanze aus der Botanik Kollektion und baue die Stängel neu auf, um neue Blumenarrangements zu erstellen
+- In der LEGO Botanicals Collection sind faszinierende Elemente versteckt, die von anderen Sets inspiriert sind - versuche alle zu finden!
+- Baue deine eigene Orchidee mit dieser dekorativen künstlichen LEGO Pflanze - ein spezielles LEGO Set für Erwachsene aus der Botanical Collection
+- Die Kunstpflanzen kommen dem echten Vorbild unglaublich nahe, mit erstaunlicher Liebe zum Detail in Form und Farbe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09BNV2Q49{{</world>}}

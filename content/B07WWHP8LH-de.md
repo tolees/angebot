@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Geeignet für Kinder ab 3 Jahren
 - Tolles Geschenk für Kinder zu Weihnachten, Ostern oder zum Geburtstag
 - Sylvanian Families Wohnwagen
 - Kann mit dem Sylvanian Families Familien-Siebensitzer oder der Familien-Limousine kombiniert werden
-- Geeignet für Kinder ab 3 Jahren
 - Fördert sowohl die Kreativität als auch Fantasie der Kinder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

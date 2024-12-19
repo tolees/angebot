@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
-- Rundhalsausschnitt
-- Grafik im Siebdruck vorne
 - Klassisches und bequemes Baumwoll-T-Shirt mit Levis Grafik auf der Brust
+- Grafik im Siebdruck vorne
+- Rundhalsausschnitt
+- Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
 - Reguläre Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

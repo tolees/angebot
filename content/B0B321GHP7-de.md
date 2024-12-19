@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- verschiedene Prints
 - Rundhalsausschnitt
 - 3er Pack T-Shirts
 - aus reiner Baumwolle
-- verschiedene Prints
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B321GHP7{{</world>}}

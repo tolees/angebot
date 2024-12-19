@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- aufwendige Vergütung für brillante Ergebnisse
 - aufwendige Abdichtung gegen Staub und Feuchtigkeit
-- Zoomarretierung für kompakte Transportmaße
 - Reise-Zoom-Objektiv mit nur 570 g
+- aufwendige Vergütung für brillante Ergebnisse
+- Zoomarretierung für kompakte Transportmaße
 - integrierte Bildstabilisierung
 
 [🛒 Hier!!]({{< param buyurl >}})

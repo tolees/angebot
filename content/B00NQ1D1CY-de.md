@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konzentrat wirkt besonders pflegend
 - feuchtigkeitsspendend
+- Konzentrat wirkt besonders pflegend
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00NQ1D1CY{{</world>}}

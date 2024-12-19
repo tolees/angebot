@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertiges Material
 - Ideale Qualität
+- Hochwertiges Material
 - Ideale Unterstützung für Spiel und Phantasie
 
 [🛒 Hier!!]({{< param buyurl >}})

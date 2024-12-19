@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Frei von Parabenen und Mineralölen, Hautverträglichkeit dermatologisch und augenärztlich bestätigt, Auch für Kontaktlinsenträgerinnen geeignet.
 - Milder Duft, Geeignet für Frauen ab 40+ und alle Hauttypen
 - Lieferumfang: 1 NIVEA CELLular Anti-Age Zellerneuerung Augenpflege in Tube, 15 ml
+- Frei von Parabenen und Mineralölen, Hautverträglichkeit dermatologisch und augenärztlich bestätigt, Auch für Kontaktlinsenträgerinnen geeignet.
 - Anti-Age Augenpflege mit einer Formel mit Hyaluronsäure und Magnolia-Extrakt: Beschleunigung der hauteigenen Zellerneuerung bei regelmäßiger Anwendung, Milderung von Falten und feinen Linien um die Augen
 - Anwendung: Täglich morgens um die Augen verteilen und in leichten Klopfbewegungen von innen nach außen einarbeiten
 

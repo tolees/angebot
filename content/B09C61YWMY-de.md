@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Collection: NOS
 - Leder: smooth leather
+- Collection: NOS
 - Sneaker
 - leichter schuh für immer angenehmes gehen während des ganzen tages.
 

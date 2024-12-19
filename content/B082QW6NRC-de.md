@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- für Kinder ab 3 Jahren geeignet
 - inkl. zweiteiligem Kinderwagen (Babyschale als Kindersitz im Auto verwendbar) und zwei Getränkebechern
 - Platz für 3 Sylvanian Families Figuren und 1 Baby
+- für Kinder ab 3 Jahren geeignet
 - 25cm große, rote Limousine mit Kofferraum und Dach zum Öffnen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

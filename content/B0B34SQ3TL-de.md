@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Panda Mädchen Figur
 - Kopf, Arme und Beine sind beweglich
+- mit Panda Mädchen Figur
 - ca. 6 cm groß
 
 [🛒 Hier!!]({{< param buyurl >}})

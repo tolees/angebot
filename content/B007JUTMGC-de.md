@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegehinweis: Maschinenwäsche
-- Jogginghose
 - Verschluss: Tunnelzug
+- Jogginghose
+- Pflegehinweis: Maschinenwäsche
 - Modellnummer: 250218
 - 94 Prozent Baumwolle Sechs Prozent Elasthan
 

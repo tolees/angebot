@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- "Millionisierende" Bürste: Elastometer-Bürste mit einer Vielzahl von unterschiedlich langen Bürstenspitzen umzieht selbst kurze und feine Wimpern großzügig mit Textur und verdichtet sie zusätzlich
-- Überschuss-Abstreifer für extra Definition: Abstreif-Technologie der Schminke ermöglicht ideale Textur Dosierung - kein Überschuss, kein Verklumpen - Augenmakeup für klare Definition
-- Glamourös und schlicht zugleich, beweist der Mascara edles Understatement - seine Gold glänzende Verpackung in edlem Design macht ihn zum Highlight in jedem Beautycase
 - Augen Makeup "Wimpern-Multiplizier-System" millionisiert die Wimpern und lässt jede Wimper bis zu 3x voluminöser wirken - für einen atemberaubenden Augenaufschlag und optisch dichtere Wimpern
+- Glamourös und schlicht zugleich, beweist der Mascara edles Understatement - seine Gold glänzende Verpackung in edlem Design macht ihn zum Highlight in jedem Beautycase
+- Überschuss-Abstreifer für extra Definition: Abstreif-Technologie der Schminke ermöglicht ideale Textur Dosierung - kein Überschuss, kein Verklumpen - Augenmakeup für klare Definition
+- "Millionisierende" Bürste: Elastometer-Bürste mit einer Vielzahl von unterschiedlich langen Bürstenspitzen umzieht selbst kurze und feine Wimpern großzügig mit Textur und verdichtet sie zusätzlich
 - Lieferumfang: 1x LOréal Make Up für die Augen Volume Million Lashes mit Big Eyes Effekt, Augen Makeup in schwarz für millionisierte Wimpern und sichtbar mehr Volumen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

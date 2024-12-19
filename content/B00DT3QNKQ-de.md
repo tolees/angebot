@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hält kühl und bequem
 - Flexible Gestaltung
+- Hält kühl und bequem
 - Langlebig
 - Qualität/Haltbarkeit
 

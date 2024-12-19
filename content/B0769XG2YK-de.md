@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnellwechselsystem für Akku und Rotorblätter. Kein Schrauben mehr nötig. Actioncam-Halter mit Schnellverschluss zur Befestigung gängiger Action-Kameras.
-- Durch Position Hold, hält das Gerät über GPS die Position. Coming Home ermöglicht es der Drohne automatisch zum Startpunkt, welcher als GPS Standort gespeichert wurde, zurück zu fliegen.
 - Altitude Hold Adjustment (AHA) und Elektronische Kompass/Flyback Funktion per Fernsteuerung ein-/ausschaltbar (AHP+). Intelligente LED Beleuchtung mit Richtungsanzeige und Unterspannungswarnung
-- Extrem leistungsstarke Motoren ermöglichen eine Zuladung bis zu 350 g - Das Modell bietet genügend Zuladung um z.B. 2 Actionkameras wie die Camara HD Pro gleichzeitig mit an Bord nehmen zu können.
+- Durch Position Hold, hält das Gerät über GPS die Position. Coming Home ermöglicht es der Drohne automatisch zum Startpunkt, welcher als GPS Standort gespeichert wurde, zurück zu fliegen.
+- Schnellwechselsystem für Akku und Rotorblätter. Kein Schrauben mehr nötig. Actioncam-Halter mit Schnellverschluss zur Befestigung gängiger Action-Kameras.
 - Bild mittels Smartphone-App durch die VR-Brille betrachten (Splitscreen VR-Modus). Wifi FPV HD Kamera (720p) mit Foto-/Videofunktion und wechselbarer 4 GB SD-Karte.
+- Extrem leistungsstarke Motoren ermöglichen eine Zuladung bis zu 350 g - Das Modell bietet genügend Zuladung um z.B. 2 Actionkameras wie die Camara HD Pro gleichzeitig mit an Bord nehmen zu können.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0769XG2YK{{</world>}}

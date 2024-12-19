@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- original EnerGel-Tinte, schreibt sanft, trocknet schnell, ideal für Linkshänder
-- Pentel EnerGel Pure Liquid Gel-Tintenroller
-- 0,35 mm Strichstärke = 0.7 mm ball, Schreibfarbe Marineblau
 - Druckmechanik und Metallclip, gummierte Griffzone, 54% Recycling Anteil
+- 0,35 mm Strichstärke = 0.7 mm ball, Schreibfarbe Marineblau
+- original EnerGel-Tinte, schreibt sanft, trocknet schnell, ideal für Linkshänder
 - nachfüllbar mit Mine XLR7TL und allen anderen EnerGel Minen
+- Pentel EnerGel Pure Liquid Gel-Tintenroller
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07QCNZNW2{{</world>}}

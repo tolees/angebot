@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Begeistere Fans von "Star Wars: Angriff der Klonkrieger" mit einem baubaren Spielzeug von Obi-Wan Kenobis Jedi Starfighter mit legendären Minifiguren und Zubehör
 - Das baubare Star Wars Starfighter-Spielzeug verfügt über 2 Shooter, ein einziehbares Fahrwerk und Clips zur Aufbewahrung von Lichtschwertern
-- Die Rollenspiele der Kinder, die mit Obi-Wan und dem Astromech-Droiden R4-P17 nach Kamino reisen, um sich mit Taun We zu treffen, können den Verlauf der Klonkriege verändern
 - Enthält 2 LEGO Star Wars Minifiguren: Obi-Wan Kenobi mit einem Lichtschwert und zum ersten Mal Taun We sowie eine R4-P17 Astromech-Droidenfigur
 - Es gibt auch ein Minifigur-Cockpit für Obi-Wan und einen Befestigungspunkt am Flügel für den Kopf der Star Wars Droidenfigur R4-P17
+- Begeistere Fans von "Star Wars: Angriff der Klonkrieger" mit einem baubaren Spielzeug von Obi-Wan Kenobis Jedi Starfighter mit legendären Minifiguren und Zubehör
+- Die Rollenspiele der Kinder, die mit Obi-Wan und dem Astromech-Droiden R4-P17 nach Kamino reisen, um sich mit Taun We zu treffen, können den Verlauf der Klonkriege verändern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QFXRYYH{{</world>}}

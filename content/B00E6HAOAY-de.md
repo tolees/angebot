@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weniger Plaque: Dieser Bürstenkopf entfernt bis zu 2 Mal mehr Plaque als eine Handzahnbürste
 - Lieferumfang: 8 Philips Sonicare ProResults Standard-Bürstenköpfe für Schallzahnbürste
+- Weniger Plaque: Dieser Bürstenkopf entfernt bis zu 2 Mal mehr Plaque als eine Handzahnbürste
 - Leistungsoptimierung: Das ergonomisch geformtes Profil reinigt selbst schwer erreichbare Stellen
 - Aufgrund der Abnutzung sollten Sie die Köpfe Ihrer elektr, Zahnbürste alle 3 Monate austauschen
 - Philips Sonicare-Schalltechnologie: Spült Wasser in die Zahnzwischenräume und entfernt Plaque
