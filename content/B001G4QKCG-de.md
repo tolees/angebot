@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewicht: federleichte 6 g; Abmessungen: 65 x 19 x 9 mm
-- Material: Kunststoff
-- Hochwertiger USB-Speicherstick im transparent-schwarzen Design-Gehäuse
 - Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
+- Material: Kunststoff
+- Gewicht: federleichte 6 g; Abmessungen: 65 x 19 x 9 mm
+- Hochwertiger USB-Speicherstick im transparent-schwarzen Design-Gehäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001G4QKCG{{</world>}}

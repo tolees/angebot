@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Guter Halt
 - Weiches Gefühl
 - Einfach anzubringen.
+- Guter Halt
 - Flexibel.
 - Extra langlebige Inhaltsstoffe
 

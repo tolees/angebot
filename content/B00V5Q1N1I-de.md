@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Class 10 Geschwindigkeitsleistung für Full HD-Video-Aufzeichnung (1080p) und -Wiedergabe; Ideal für Dashboard-Kameras und private Überwachungskameras
 - Zur Aufnahme von bis zu 10.000 Stunden Full HD-Video (64GB); bis zu 5.000 Stunden Full HD-Video (32GB)
 - Für den Einsatz unter widrigsten Bedingungen konzipiert und getestet, temperaturbeständig, stoßfest, wasserdicht
-- Class 10 Geschwindigkeitsleistung für Full HD-Video-Aufzeichnung (1080p) und -Wiedergabe; Ideal für Dashboard-Kameras und private Überwachungskameras
 - Herstellergarantie: 24 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 - Lieferumfang: SanDisk High Endurance 64GB Video Monitoring Card up to 20MB/s Read (SDSDQQ-064G-G46A)
 

@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Hinweis: Um Softwareprobleme zu beheben, aktualisieren Sie auf die neueste Firmware.
 - kompatibel mit Xbox Series x|s, Xbox One und Windows 10
 - Offiziell Microsoft lizensiert
-- Maßstabsgetreues Lenkrad und fußpedale & Optimiert für ein authentisches Rennerlebnis
 - Stabile Befestigung mit klammersystem
+- Maßstabsgetreues Lenkrad und fußpedale & Optimiert für ein authentisches Rennerlebnis
 - 270 Grad lenkradius mit justierbaren eingabeoptionen
 
 [🛒 Hier!!]({{< param buyurl >}})
