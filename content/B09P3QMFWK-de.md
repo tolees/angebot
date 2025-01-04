@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Kopf, Arme und Beine sind beweglich
 - Mit Pony Mutter Figur Mit langen Haaren zum frisieren
-- Circa 8 cm groß
 - Für Kinder ab 3 Jahren geeignet
+- Circa 8 cm groß
 - tolles Friseur Spielset Mit Friseurwagen und zahlreichem Friseurzubehör wie Schere, Kamm, Fön und Glätteisen
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ziel des bekannten und genial einfachen Merkspiels ist es, die meisten Bildpaare zu finden. Für weiteren Spielspaß sorgt eine Zusatzvariante, in der die Spieler nur die Kärtchen suchen, die zu dem Haus gehören, für das sie sich bei Spielbeginn entschieden haben
 - Die 24 Bildpaare zeigen Aquarell-Illustration und sind damit in einem ganz besonderen Stil gehalten. Die Leucht-Farbe, mit der die Karten bedruckt sind, sorgen im Dunkeln für zusätzliche Magie. Auch die Anleitung, mit der die verschiedenen Spielvarianten beschrieben werden, ist besonders gestaltet und ein weiteres Element der Harry Potter Welt
 - Der Spieleklassiker memory ist immer ein schönes Geschenk zum Geburtstag oder Weihnachten. Harry Potter-Fans werden sich über dieses Collectors memory besonders freuen
-- Ziel des bekannten und genial einfachen Merkspiels ist es, die meisten Bildpaare zu finden. Für weiteren Spielspaß sorgt eine Zusatzvariante, in der die Spieler nur die Kärtchen suchen, die zu dem Haus gehören, für das sie sich bei Spielbeginn entschieden haben
 - Collectors memory Harry Potter - ein besonders schön ausgestattetes Spiel für alle Harry Potter Fans. Die 48 Bildkarten sind zauberhaft illustriert und zudem mit Leuchtfarbe veredelt., sodass im Hellen wie auch im Dunkeln gespielt werden kann
 - Willkommen in der zauberhaften Welt von Hogwarts. Die Bildkarten zeigen Gegenstände, die ein Schüler in Hogwarts einfach haben muss. Bei Dunkelheit fangen die Karten zu leuchten an. Bisher verborgene Zaubersprüche und die dazugehörigen Bewegungen werden sichtbar und vermitteln die Magie der Schule
 

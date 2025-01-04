@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses LEGO Zug Set enthält eine ferngesteuerte Lokomotive mit funktionierenden, dimmbaren Scheinwerfern und LEGO Power-Up Technologie
-- Der Zug und seine dimmbaren Lichter lassen sich über die Fernbedienung oder ein mit der LEGO Powered Up App verbundenes Smartgerät steuern
 - Viele Möglichkeiten zum Spielen: am Bahnsteig warten, in den Speisewagen einsteigen und essen, im Zug während einer langen Fahrt arbeiten
+- Der Zug und seine dimmbaren Lichter lassen sich über die Fernbedienung oder ein mit der LEGO Powered Up App verbundenes Smartgerät steuern
 - Dieses Zug Spielzeug für Kinder enthält einen Speisewagen, einen Personenwagen, einen Bahnsteig, 24 LEGO Schienen und 6 Minifiguren
+- Dieses LEGO Zug Set enthält eine ferngesteuerte Lokomotive mit funktionierenden, dimmbaren Scheinwerfern und LEGO Power-Up Technologie
 - Enthält 6 LEGO Minifiguren: 4 Passagiere, Zugführer, Restaurantangestellter, sowie Fahrrad und Helm, Rollstuhl, Aktentasche und Rucksack
 
 [🛒 Hier!!]({{< param buyurl >}})
