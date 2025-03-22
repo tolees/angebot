@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 1 Stück
+- Herkunftsland: China
 - Verpackungsgewicht: 2750 Gramm
 - Produktmaße (L x B x H) in cm: 9 x 12 x 15
-- Herkunftsland: China
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01IEMFF28{{</world>}}
