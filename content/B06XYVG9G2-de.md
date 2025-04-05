@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Straßen kaufen, Häuser und Hotels bauen und Mieten kassieren
-- 2-6 Mitspieler
 - Mit den 8 beliebtesten Spielfiguren
 - Für unterhaltsame Spieleabende mit Freunden und der Familie
 - Mit Spielzeit verkürzendem Tempowürfel
+- Straßen kaufen, Häuser und Hotels bauen und Mieten kassieren
+- 2-6 Mitspieler
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06XYVG9G2{{</world>}}

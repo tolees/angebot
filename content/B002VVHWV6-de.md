@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Hingucker in jedem Treppenhaus
-- aus 100% Polypropylen mit Kunststoff Rand
 - Maße: 60x 40cm
+- aus 100% Polypropylen mit Kunststoff Rand
+- Der Hingucker in jedem Treppenhaus
 - rutschfest durch Gummi-Rückseite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

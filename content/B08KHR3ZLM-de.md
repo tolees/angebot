@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größe: 102 x 35,9 x 28,4 mm
-- A-/B-/X-/Y-Knopf, R-/ZR-Taste, SL-/SR-/Plus-Knopf
 - Gewicht: ca. 52,1 g
-- Tasten
 - Rechter Stick (drückbar)
+- Größe: 102 x 35,9 x 28,4 mm
+- Tasten
+- A-/B-/X-/Y-Knopf, R-/ZR-Taste, SL-/SR-/Plus-Knopf
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08KHR3ZLM{{</world>}}

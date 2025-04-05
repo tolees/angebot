@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bis zu 4 Spieler können bei diesem rasanten Spiel ihr Pokémon Wissen testen
 - Das Spiel zählt automatische deine richtigen Antworten. Sobald der erste Spieler ausscheidet, ist das Spiel zu Ende und der Sieger mit den meisten Punkten wird bekannt gegebe
+- Bis zu 4 Spieler können bei diesem rasanten Spiel ihr Pokémon Wissen testen
 - Hat Pikachu rote Wangen? Kann Glumanda Blitze verschießen? - Wer weiß am meisten über die Pokémon?
 
 [🛒 Hier!!]({{< param buyurl >}})

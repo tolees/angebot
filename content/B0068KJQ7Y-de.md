@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Höhere Kopfdurchzugskräfte durch Tellerkopf. Optimale Kraftübertragung und sauberer Passitz mit SPAX Bit T-STAR plus T40 mit Führungszapfen
 - Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze.
 - Einsatz: Zur Befestigung von Sparren oder von Aufdach-Dämmsystemen. SPAX-exklusive WIROX-Oberfläche
+- Höhere Kopfdurchzugskräfte durch Tellerkopf. Optimale Kraftübertragung und sauberer Passitz mit SPAX Bit T-STAR plus T40 mit Führungszapfen
 - Made in Germany - Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 
 [🛒 Hier!!]({{< param buyurl >}})

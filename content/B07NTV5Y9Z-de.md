@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Micro SD-Kartensteckplatz / Eingebauter Mini-Fotodrucker mit Zink Zero Ink Technologie
-- Großer Selfie Spiegel (36 x 24mm) / Stativanschluss / Druck über Bluetooth (NFC) (nur mit Canon App)
+- 25.4 mm
 - Sofortbildkamera (8 MP) mit optischem Sucher und Ringblitz/ LED-Blitz
 - Druckformat 2 x 3“ (5 x 7,6 cm) als Aufkleber /Nur 188 g leicht, 12,1 x 8,03 x 2,15 cm klein
-- 25.4 mm
+- Micro SD-Kartensteckplatz / Eingebauter Mini-Fotodrucker mit Zink Zero Ink Technologie
+- Großer Selfie Spiegel (36 x 24mm) / Stativanschluss / Druck über Bluetooth (NFC) (nur mit Canon App)
 - Fotodruck in 50 s / Eingebauter Akku für 25 Drucke / 10 Blatt Papiervorrat
 
 [🛒 Hier!!]({{< param buyurl >}})

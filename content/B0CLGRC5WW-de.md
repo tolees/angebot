@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der ASTERIX & OBELIX : Slap Them All 2 spiele
-- 2 Harzfiguren
-- Der ASTERIX & OBELIX : Slap Them All spiele (Download code)
 - Der Gold Edition enthält
+- Der ASTERIX & OBELIX : Slap Them All spiele (Download code)
+- 2 Harzfiguren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CLGRC5WW{{</world>}}

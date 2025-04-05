@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- (00791871-000)
 - Inhalt: 25 Blatt
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- (00791871-000)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000YC1QRK{{</world>}}

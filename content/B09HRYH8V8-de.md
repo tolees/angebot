@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Bessere Materialien
 - Kräftige Form
-- Standard Farben
 - Kunststofftoaster mit 1 extrabreitem Langschlitz für 2 Toastscheiben Edelstahloberflächen und Brötchenhalter inklusive
+- Standard Farben
 - Flexible Gestaltung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

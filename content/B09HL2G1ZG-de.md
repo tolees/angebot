@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- The objective differentiates itself by its high image quality.
-- The objective is suitable for every type of photography, from landscape photography to snapshots.
-- The model has a quick and accurate autofocus with VXD-technology.
-- It covers everything from the 35 mm wide angle to the 150 m
 - The 35-150mm F/2.0-2.8 Di III VXD is a zoom lens with a focal length of 35-150 mm, minimum object distance of 0.33 m (WIDE)/0.85 m (TELE) and a maximum aperture of 2-2.8.
+- The objective is suitable for every type of photography, from landscape photography to snapshots.
+- It covers everything from the 35 mm wide angle to the 150 m
+- The model has a quick and accurate autofocus with VXD-technology.
+- The objective differentiates itself by its high image quality.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09HL2G1ZG{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ghost
 - Halloween Rubin
 - Kostüm
+- Ghost
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00LA737CU{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- lebensnahe Charaktere im prägnaten Zeichen- und Animationsstil
-- das neue Meisterwerk von Regisseur Makoto Shinkai (Your Name., Weathering With You, The Garden of Words) und mit Musik von RADWIMPS (Your Name., Weathering With You)
-- fantastisches Coming-of-Age Drama, das Zusammenhalt in den Fokus rückt
 - geeignet für die ganze Familie
+- lebensnahe Charaktere im prägnaten Zeichen- und Animationsstil
 - feierte 2023 auf der Berlinale Premiere
+- fantastisches Coming-of-Age Drama, das Zusammenhalt in den Fokus rückt
+- das neue Meisterwerk von Regisseur Makoto Shinkai (Your Name., Weathering With You, The Garden of Words) und mit Musik von RADWIMPS (Your Name., Weathering With You)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CQJR41NS{{</world>}}

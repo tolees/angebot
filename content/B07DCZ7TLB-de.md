@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Natürlicher Temperaturausgleich
-- Hervorragendes Feuchtigkeitsmanagement
-- ODLO fertigt größtenteils nachhaltige funktionale Bekleidung für aktive, leidenschaftliche Menschen. Für jedes Wetter. Für jedes Terrain. Unsere Kleidung wird von innen nach außen in der Schweiz entworfen. Dabei verwenden wir eine branchenprägende Lagentechnologie, die wir vor 75 Jahren erfunden haben. Draußen oder drinnen. Schnell oder langsam. Baselayer und mehr. Wir sind sehr stolz darauf, Menschen in beinahe 40 Ländern weltweit bei einem aktiven Leben zu unterstützen.
-- Weiches Material
 - Mit dem Ziel, die Bedürfnisse von Alltagsathlet:innen und die unseres Planeten in Einklang zu bringen, verfolgt ODLO den festen Vorsatz, spätestens ab 2030 nur noch nachhaltige Materialien zu verwenden.
+- ODLO fertigt größtenteils nachhaltige funktionale Bekleidung für aktive, leidenschaftliche Menschen. Für jedes Wetter. Für jedes Terrain. Unsere Kleidung wird von innen nach außen in der Schweiz entworfen. Dabei verwenden wir eine branchenprägende Lagentechnologie, die wir vor 75 Jahren erfunden haben. Draußen oder drinnen. Schnell oder langsam. Baselayer und mehr. Wir sind sehr stolz darauf, Menschen in beinahe 40 Ländern weltweit bei einem aktiven Leben zu unterstützen.
+- Hervorragendes Feuchtigkeitsmanagement
+- Natürlicher Temperaturausgleich
+- Weiches Material
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07DCZ7TLB{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spendet Feuchtigkeit, beruhigt und mattiert
-- Hilft Schuppung, Juckreiz, Rötung und Sebum zu lindern
-- Ohne Duft- und Farbstoffe. Nicht komedogen
 - Besonders geeignet um Seborrhoische Gesichtshaut und ihre Anzeichen in den Griff zu bekommen
+- Ohne Duft- und Farbstoffe. Nicht komedogen
 - Leichte Textur für schnelles Einziehen
+- Hilft Schuppung, Juckreiz, Rötung und Sebum zu lindern
+- Spendet Feuchtigkeit, beruhigt und mattiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00J5FWHQ6{{</world>}}

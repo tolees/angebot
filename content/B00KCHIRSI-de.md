@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Doppelanschluss 1/2": Schlauchanschluss 1/2", Hauptanschluss: 1/2",unterer Anschluss mit Regler:3/4"
 - einfache Montage
 - großer Hebel: Stahl mit Gummi überzogen in orange
 - widerstandsfähig
-- Doppelanschluss 1/2": Schlauchanschluss 1/2", Hauptanschluss: 1/2",unterer Anschluss mit Regler:3/4"
 - kleiner Hebel in blau
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

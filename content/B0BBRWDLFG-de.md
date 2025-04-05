@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Dieses Spielzeug für Kinder ab 6 Jahren enthält 3 LEGO Friends Mini-Puppen, mit denen man coole Tricks nachspielen kann: Liann auf ihrem Skateboard, Zac auf Inline-Skates und Luna, die auf den Rampen einen Handstand übt
 - Wenn junge Baumeister Unterstützung bei der Entwicklung ihrer Baufähigkeiten benötigen, bietet die LEGO Builder App Funktionen zum Zoomen und Drehen von 3D-Modellen sowie zum Verfolgen und Speichern der Fortschritte
-- Die neue LEGO Friends Generation 2023 bietet neue Erlebnisse, Schauplätze und Charaktere, die die Fantasie und Neugierde von Kindern anregen
 - Enthält einen Skatepark mit Rampen, Rails, Inliner, Mini-Skateboards, Rollern, einem Rollstuhl und Helmen für jede Figur - so können die Kinder verschiedene Stile und Tricks ausprobieren, je nachdem, wie sie fahren
 - Das coole Mini-Puppen Spielset enthält eine Werkstatt, in der die Figuren ihre Räder erforschen und reparieren können. Anschließend können sie mit dem Aufzug nach oben fahren und es sich mit einem Drink auf dem Sofa im Entspannungsbereich gemütlich machen
+- Die neue LEGO Friends Generation 2023 bietet neue Erlebnisse, Schauplätze und Charaktere, die die Fantasie und Neugierde von Kindern anregen
 - Im Jahr 2023 wird das LEGO Friends Universum erweitert, um eine neue Generation von Figuren und lustigen Orten zu präsentieren, die von den Leidenschaften und Interessen der Kinder inspiriert wurden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

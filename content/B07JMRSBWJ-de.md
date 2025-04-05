@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ABNEHMBARER TASSENTRÄGER: Der Träger aus Edelstahl kann ganz einfach abgenommen werden, so passen auch größere Latte Macchiato-Gläser unter den Kaffee-Auslauf
-- SIEBTRÄGEREINSÄTZE: 3 doppelwandige Einsätze aus Edelstahl: Espresso einfach/doppelt, Kaffee-Pads
-- THERMOBLOCK-HEIZSYSTEM: Thermoblock-Heizsystem für eine schnelle und konstante Brühtemperatur. 15 bar Pumpendruck – für besten Kaffeegenuss
 - BENUTZERFREUNDLICHES BEDIENSYSTEM: 3 beleuchtete Bedientasten für Espresso einfach, Espresso doppelt oder Dampffunktion
+- THERMOBLOCK-HEIZSYSTEM: Thermoblock-Heizsystem für eine schnelle und konstante Brühtemperatur. 15 bar Pumpendruck – für besten Kaffeegenuss
+- SIEBTRÄGEREINSÄTZE: 3 doppelwandige Einsätze aus Edelstahl: Espresso einfach/doppelt, Kaffee-Pads
+- ABNEHMBARER TASSENTRÄGER: Der Träger aus Edelstahl kann ganz einfach abgenommen werden, so passen auch größere Latte Macchiato-Gläser unter den Kaffee-Auslauf
 - CAPPUCINO-DAMPFFUNKTION: So kann ganz einfach Milchschaum für den Cappuccino aufgeschäumt werden
 
 [🛒 Hier!!]({{< param buyurl >}})

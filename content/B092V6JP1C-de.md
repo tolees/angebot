@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herausforderungsmodi - Krasser Spaß mit Erntemaschinen, Rasenmähern, Schulbussen, Dreiradfahrzeugen und mehr!
 - Klasse Karren - Alte, zerballerte, zusammengeschweißte Wagen mit Stil! Von amerikanischen Straßenkreuzern über europäische Flitzer bis hin zu spaßigen Asiaten! Das gibt es so nur in diesem Spiel.
 - Mehrspieler - Demoliere deine Freunde online und geh beim Rennfahren ans Limit!
 - Sinnvolle Personalisierung - Andere nicht nur den Look deiner Wagen, verbessere auch die Panzerung der Karosserie.
+- Herausforderungsmodi - Krasser Spaß mit Erntemaschinen, Rasenmähern, Schulbussen, Dreiradfahrzeugen und mehr!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B092V6JP1C{{</world>}}

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hohe Bildqualität
-- Tamron Lens Utility
-- Hohe Lichtstärke
 - Wetterfeste Konstruktion
 - VXD-Autofokus
+- Tamron Lens Utility
+- Hohe Lichtstärke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CGD6Y4WS{{</world>}}

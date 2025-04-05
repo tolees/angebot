@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Köstliche neue Inhalte!
-- Neue Level, neue Köche und neues Chaos - alles exklusiv in Overcooked! All You Can Eat
 - Mehrere Modi!
+- Neue Level, neue Köche und neues Chaos - alles exklusiv in Overcooked! All You Can Eat
 - Reise zurück zum Zwiebelkönig und koche in Overcooked! All You Can Eat ein Festmahl epischen Ausmaßes.
+- Köstliche neue Inhalte!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08WTXWC1R{{</world>}}

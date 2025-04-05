@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verschluss: Reißverschluss
-- Sohle: Gummi
 - Absatzform: Kein Absatz
+- Sohle: Gummi
 - Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})

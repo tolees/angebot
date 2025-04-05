@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sony empfiehlt immer die aktuellste verfügbare Software auf Ihrem Gerät zu installieren. Update Benachrichtigungen für WH-1000XM4 und die Updates selbst, werden über die Sony Headphones Connect App bereitgestellt. Die App ist kostenlos im Google Play Store und im Apple Store verfügbar
+- Lieferumfang: Tasche, Steckeradapter zur Verwendung im Flugzeug, Kopfhörerkabel (ca. 1,2 m), USB-Kabel: Typ CTM (ca. 20 cm)
 - Mit Multipoint Connection, Ihr Sony Kopfhörer kann mit zwei Bluetooth Geräten gleichzeitig verbunden werden.
+- Sony empfiehlt immer die aktuellste verfügbare Software auf Ihrem Gerät zu installieren. Update Benachrichtigungen für WH-1000XM4 und die Updates selbst, werden über die Sony Headphones Connect App bereitgestellt. Die App ist kostenlos im Google Play Store und im Apple Store verfügbar
+- Branchenführendes Aktives Noise Cancelling dank des HD Noise Cancelling Prozessor QN1 : Optimierung der Geräuschminimierung an Bewegungsmuster sowie Anpassung an den Luftdruck
+- LDAC überträgt in etwa die dreifache Menge an Daten (bei einer maximalen Übertragungsrate von 990 Kbit/s) wie herkömmliches BLUETOOTH Audio, sodass Sie High-Resolution-Audio-Inhalte genießen können, in nahezu der gleichen Qualität wie bei einer Verbindung über Kabel. Die weiter entwickelte Digital Sound Enhancement Engine Extreme (DSEE Extreme) optimiert komprimierte digitale Musikdateien, sodass sie nahezu High-Resolution Audio-Qualität erreichen.
 - Speak-to-Chat stoppt automatisch, wenn sie einem Gespräch sind. Der Näherungssensor schaltet den Kopfhörer aus, sobald dieser nicht mehr getragen wird. Zusätzlich stehen Ihnen weite intelligente Audiofunktionen zur Verfügung für einen für einen satten, klaren, raumfüllenden Klang. Kompatibel mit Amazon Alexa. Perfekte Passform im Around-Ear Design. Mit Bluetooth 4.2 und One-Touch Verbindung via NFC für kabelloses Musikhören
 - Lange Akkulaufzeit: bis zu 30 Std. abhängig vom verwendeten Modus. Quick Charge: 10 Min. laden für 5 Std. Musik. Frequenzgang: 4 Hz - 40.000 Hz. Bluetooth Version 5.0, Effektiver Bereich: Sichtverbindung ca. 10 m.
-- LDAC überträgt in etwa die dreifache Menge an Daten (bei einer maximalen Übertragungsrate von 990 Kbit/s) wie herkömmliches BLUETOOTH Audio, sodass Sie High-Resolution-Audio-Inhalte genießen können, in nahezu der gleichen Qualität wie bei einer Verbindung über Kabel. Die weiter entwickelte Digital Sound Enhancement Engine Extreme (DSEE Extreme) optimiert komprimierte digitale Musikdateien, sodass sie nahezu High-Resolution Audio-Qualität erreichen.
-- Lieferumfang: Tasche, Steckeradapter zur Verwendung im Flugzeug, Kopfhörerkabel (ca. 1,2 m), USB-Kabel: Typ CTM (ca. 20 cm)
-- Branchenführendes Aktives Noise Cancelling dank des HD Noise Cancelling Prozessor QN1 : Optimierung der Geräuschminimierung an Bewegungsmuster sowie Anpassung an den Luftdruck
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08C7KG5LP{{</world>}}

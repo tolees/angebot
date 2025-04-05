@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Auf Reinheit und Qualität getestet
 - Nicht geeignet für Kinder unter 12 Monaten
-- Das Original aus Neuseeland
 - Natürlicher und zertifizierter MGO Gehalt
+- Das Original aus Neuseeland
 - Unter 25°C lagern
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dimmbares Design, damit Sie die Stimmung einfach an jede Situation anpassen können
 - Abmessungen: Die einzelne Lampe ist 6,5 x 6,5 x 14,3 cm (L x B x H)
 - Sofortige Helligkeit ohne Aufwärmzeit; die energiesparende LED-Technologie ist gut für den Planeten und den Geldbeutel
 - Lieferumfang: 6 x dekorative ST64-LED-Leuchtmittel im Vintage-Stil; diese Leuchtmittel mit klassischem Design strahlen ein warmes, weißes Licht für eine gemütliche Atmosphäre aus
+- Dimmbares Design, damit Sie die Stimmung einfach an jede Situation anpassen können
 - Leuchtkraft von 250 Lumen, entspricht einer 25-W-Glühbirne; mit einer Lebensdauer von über 13 Jahren (basierend auf ca. 3 Stunden Nutzung am Tag)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

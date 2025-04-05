@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige wiederaufladbare COB LED-Arbeitsleuchte mit vielseitigen Lichtfunktionen und weißem, homogenem Licht
+- Starker gummierter Magnet im Fuß und ein um 360° drehbarer Haken für freihändiges Arbeiten, stoß- und wasserfest (IP65/IK07), widerstandsfähig gegen Lösungsmittel
 - Um 90°ausklappbares Leuchtfeld mit 500/250 Lumen (Boost/Eco Modus) und breitem Abstrahlwinkel von 100°
 - Wiederaufladbarer Lithium Akku (4.400 mAh), Akkulaufzeit von 4,5-10 Stunden abhängig von der Lichtstärke, Ladezeit ca. 4,5 Stunden, Ladestandsanzeige, USB-C Ladekabel und USB-Netzteil im Lieferumfang, kompatibel mit der separat erhältlichen Multi Docking Station für kabelloses Laden sowie dem Find my Device Zubehör
-- Starker gummierter Magnet im Fuß und ein um 360° drehbarer Haken für freihändiges Arbeiten, stoß- und wasserfest (IP65/IK07), widerstandsfähig gegen Lösungsmittel
 - Zusätzliches Spotlicht mit 180 Lumen zur Ausleuchtung schwer zugänglicher, enger Bereiche und Hohlräume
+- Hochwertige wiederaufladbare COB LED-Arbeitsleuchte mit vielseitigen Lichtfunktionen und weißem, homogenem Licht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QXMHX1B{{</world>}}

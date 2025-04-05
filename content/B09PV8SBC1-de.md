@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Batmobil 1:18 The Batman-Film 2022
-- Hergestellt aus Druckguss mit Gummibereifung
 - Mit Freilauf-System, Vorder- und Rücklicht und Türöffnung
 - Für Jungen und Mädchen ab 8 Jahren
+- Hergestellt aus Druckguss mit Gummibereifung
 - Inklusive Batman-Figur aus Metall
 
 [🛒 Hier!!]({{< param buyurl >}})

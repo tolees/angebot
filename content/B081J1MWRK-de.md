@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMPATIBEL mit bis zu vier NiMH oder NiCd Akkus der Größen AA/Mignon/HR6 und AAA/Micro/HR03 | Akku Ladegerät ideal auch auf Reisen
+- SICHERHEIT für Akkus und Akkupflegestation durch Verpolschutz | Automatische Abschaltung -dU/Temperatur | Überladeschutz | Einzelschachtüberwachung | Sicherheitstimer | Erkennung von defekten Akku-Zellen und nicht wiederaufladbaren Batterien
 - FEATURES: Wählbares Ladeprogramm und Ladestrom - unabhängig pro Ladeschacht. Ladeanzeige mit Akkuspannung (V), Lade-/Entladestrom (mA), Kapazität (mAh), Ladedauer (h)
 - LADEZEIT (je nach gewähltem Ladestrom): Für 1000mAh = ca. 40min-3h | Für 2500mAh = ca. 1: 40-7: 30h (Output: AA und AAA wählbar: 4x 400/600/800mA oder 2x 1500/1800mA
 - INTELLIGENTES Akkuladegerät lädt vollautomatisch und stoppt, wenn die eingelegten Akkus vollgeladen sind. Die Erhaltungsladung hält die Akkuladung bei 100%, so sind die Akkus immer einsatzbereit und können in der Ladestation verbleiben
-- SICHERHEIT für Akkus und Akkupflegestation durch Verpolschutz | Automatische Abschaltung -dU/Temperatur | Überladeschutz | Einzelschachtüberwachung | Sicherheitstimer | Erkennung von defekten Akku-Zellen und nicht wiederaufladbaren Batterien
+- KOMPATIBEL mit bis zu vier NiMH oder NiCd Akkus der Größen AA/Mignon/HR6 und AAA/Micro/HR03 | Akku Ladegerät ideal auch auf Reisen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B081J1MWRK{{</world>}}

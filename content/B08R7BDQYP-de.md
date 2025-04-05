@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ABIS MUSIK
-- Lully: Stirbt Irae
 - Irae
+- Lully: Stirbt Irae
+- ABIS MUSIK
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08R7BDQYP{{</world>}}

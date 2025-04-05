@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dynamisches Handmikrofon mit USB-C-Digitalausgang und XLR-Analogausgang. Robuste Metallkonstruktion für lang anhaltende Leistung mit glattem, erweitertem Frequenzgang, perfekt für Podcasting, Heimstudio-Aufnahmen, Feldaufnahmen, Voiceover und andere Anwendungen zur Erstellung von Inhalten
 - Kardioid-Richtcharakteristik reduziert die Aufnahme von Geräuschen von den Seiten und der Rückseite und verbessert so die Isolierung der gewünschten Schallquelle. Massearme Membran bietet einen hervorragenden Frequenzgang. Hochwertiger A/D-Wandler mit 24-Bit, bis zu 192 Kilohertz Abtastrate
-- Eingebaute Kopfhörerbuchse ermöglicht es dir, direkt vom Mikrofon aus zu überwachen, mit Einstellrad auf der Unterseite, mit dem du die Kopfhörerlautstärke einfach einstellen kannst.
-- Stabiler Stativ-Schreibtischständer mit klappbaren Beinen ist einfach einzurichten und zu transportieren. Die Stativklemme mit Gewinde lässt sich sicher am mitgelieferten Stativ oder an einem herkömmlichen Mikrofonständer befestigen. Enthält auch drei Kabel: USB-C auf USB-C, USB-C auf USB-A und XLRF zu XLRM.
 - USB-Ausgang verbindet sich mit Ihrem Computer (Windows und Mac) für digitale Aufnahmen, während der XLR-Ausgang mit dem herkömmlichen Mikrofoneingang deines Soundsystems für den Einsatz in Live-Auftritten verbunden ist. Ein- und Ausschaltfunktionen für USB- und Analogbetrieb
+- Eingebaute Kopfhörerbuchse ermöglicht es dir, direkt vom Mikrofon aus zu überwachen, mit Einstellrad auf der Unterseite, mit dem du die Kopfhörerlautstärke einfach einstellen kannst.
+- Dynamisches Handmikrofon mit USB-C-Digitalausgang und XLR-Analogausgang. Robuste Metallkonstruktion für lang anhaltende Leistung mit glattem, erweitertem Frequenzgang, perfekt für Podcasting, Heimstudio-Aufnahmen, Feldaufnahmen, Voiceover und andere Anwendungen zur Erstellung von Inhalten
+- Stabiler Stativ-Schreibtischständer mit klappbaren Beinen ist einfach einzurichten und zu transportieren. Die Stativklemme mit Gewinde lässt sich sicher am mitgelieferten Stativ oder an einem herkömmlichen Mikrofonständer befestigen. Enthält auch drei Kabel: USB-C auf USB-C, USB-C auf USB-A und XLRF zu XLRM.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZPBFVKK{{</world>}}

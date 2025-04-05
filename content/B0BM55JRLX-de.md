@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
-- Sohle: Gummi
-- Absatzform: Flach
 - Verschluss: Reißverschluss
+- Sohle: Gummi
+- Obermaterial: Leder
+- Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM55JRLX{{</world>}}

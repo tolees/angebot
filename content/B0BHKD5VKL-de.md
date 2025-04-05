@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mainboard ATX Socket 1700 Intel Z790 Express - 4x DDR5 - M.2 PCIe 5.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 2.5GbE - WLAN 6E/Bluetooth 5.2
-- MSI
 - 4711377012881
+- MSI
+- Mainboard ATX Socket 1700 Intel Z790 Express - 4x DDR5 - M.2 PCIe 5.0 - USB 3.2 - PCI-Express 5.0 16x - LAN 2.5GbE - WLAN 6E/Bluetooth 5.2
 - PC
 
 [🛒 Hier!!]({{< param buyurl >}})

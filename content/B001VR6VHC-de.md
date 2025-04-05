@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die mitgelieferte Spyder Checkr 24- Software analysiert Ihr Testfotos und erstellt Korrekturwerte für Farbton, Sättigung und Helligkeit (HSL-PreSet), die Adobe Photoshop, Adobe Lightroom und Hasselblad Phocus zur automatischen Farbkorrektur angewendet werden können
-- Zum farblichen Abgleich mehrerer Kamerasysteme, Eliminiert Farbfehlinterpretationen von Kameras. Besondere Bedeutung in der Produkt- und Katalogfotografie aber auch wichtig in der korrekten Wiedergabe von Marken-/CI-Farben oder bei Haut- und Grüntönen
-- In Black Magic DaVinci Resolve können Sie mit Spyder Checkr Korrekturen schnell und einfach anwenden und so Ihren Arbeitsablauf beschleunigen
 - 24 spektral entwickelte Farbfelder zur Berchnung eines Soll-/ist-Wert-Vergleiches
+- Zum farblichen Abgleich mehrerer Kamerasysteme, Eliminiert Farbfehlinterpretationen von Kameras. Besondere Bedeutung in der Produkt- und Katalogfotografie aber auch wichtig in der korrekten Wiedergabe von Marken-/CI-Farben oder bei Haut- und Grüntönen
 - Liefert Informationen zu Farbe und Intensität des Lichts einer Szene, die zur Anpassung von Kameraeinstellungen wie kamerainternem Weißabgleich und Farbtemperatur verwendet werden können
+- Die mitgelieferte Spyder Checkr 24- Software analysiert Ihr Testfotos und erstellt Korrekturwerte für Farbton, Sättigung und Helligkeit (HSL-PreSet), die Adobe Photoshop, Adobe Lightroom und Hasselblad Phocus zur automatischen Farbkorrektur angewendet werden können
+- In Black Magic DaVinci Resolve können Sie mit Spyder Checkr Korrekturen schnell und einfach anwenden und so Ihren Arbeitsablauf beschleunigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001VR6VHC{{</world>}}

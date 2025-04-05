@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- RESSOURCEN schonen: Hohe Qualität für bis zu 1000 Aufladungen - ersetzt 1000 Einwegbatterien. Schwermetallfrei & extrem langlebig
-- INKLUSIVE: Designed und geprüft in Deutschland, 2 Jahre Herstellergarantie sowie kompetenter Kundenservice #alwaysPoweredbyANSMANN
-- PERFORMENCE: Hochstrom- & Schnellladefähig, kein Memory-Effekt sowie extrem Kälte- & Hitzebeständig
-- EINSATZBEREIT: Vorgeladen und sofort einsatzbereit. Wir empfehlen die Akkus vor Gebrauch oder Einlagerung aufzuladen
 - C Akku 2500mAh 1,2V: Geringe Selbstentladung dank maxE Technologie für jahrelangen Einsatz z.B. in Spielzeug, Radio, Taschenlampe, LED
+- PERFORMENCE: Hochstrom- & Schnellladefähig, kein Memory-Effekt sowie extrem Kälte- & Hitzebeständig
+- RESSOURCEN schonen: Hohe Qualität für bis zu 1000 Aufladungen - ersetzt 1000 Einwegbatterien. Schwermetallfrei & extrem langlebig
+- EINSATZBEREIT: Vorgeladen und sofort einsatzbereit. Wir empfehlen die Akkus vor Gebrauch oder Einlagerung aufzuladen
+- INKLUSIVE: Designed und geprüft in Deutschland, 2 Jahre Herstellergarantie sowie kompetenter Kundenservice #alwaysPoweredbyANSMANN
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000HUVQBK{{</world>}}

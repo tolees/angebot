@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kontraststarkes VA Panel mit 1500R Radius, mattes Display mit 4ms Reaktionszeit, 180 mm höhenverstellbar, 2x 5W Speaker, Headphone out, kompatibel mit VESA Halterung 100x100, Standfuss abnehmbar
+- Lieferumfang: Philips 34B1U5600H/00 86,3 cm (34 Zoll) Bildschirm, HDMI-Kabel, DisplayPort-Kabel, USB-C auf-C/A-Split-Kabel, Netzkabel, Garantiekarte
+- PowerSensor und Light Sensor für Energieeinsparungen bis zu 80%
 - Herstellergarantie: 3 Jahre Die Garantiebedingungen finden Sie unter Weitere technische Informationen. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Philips Monitor mit USB-C Dockingstation und RJ45 Anschluss. Integrierter Multiclient-KVM Switch. 5 Megapixel Webcam inklusive Noise Cancelling Mikro und Windows Hello Funktion
-- Lieferumfang: Philips 34B1U5600H/00 86,3 cm (34 Zoll) Bildschirm, HDMI-Kabel, DisplayPort-Kabel, USB-C auf-C/A-Split-Kabel, Netzkabel, Garantiekarte
+- Kontraststarkes VA Panel mit 1500R Radius, mattes Display mit 4ms Reaktionszeit, 180 mm höhenverstellbar, 2x 5W Speaker, Headphone out, kompatibel mit VESA Halterung 100x100, Standfuss abnehmbar
 - Helligkeit/Kontrast: 350 cd/m²/1.000:1, Anschlüsse: 1x HDMI 2.0, 1x DisplayPort 1.4, 1 x USB-C (Upstream, DP-Wechselmodus, Daten, PD bis zu 100 W)
 - USB-Anschlussbox: USB 3.2, Gen 2/10 Gbit/s, 1 x USB-C Upstream (Daten), 4 x USB-A Downstream (mit 1 für Schnellaufladungs-BC 1,2), 1 x USB-C Downstream (Daten, PD 15 W), Ethernet-LAN bis zu 1G
-- PowerSensor und Light Sensor für Energieeinsparungen bis zu 80%
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BGJDFG94{{</world>}}

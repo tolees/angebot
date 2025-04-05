@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die beliebte Erfolgsserie von Produktionsstudio Pierrot (TOKYO GHOUL, BLEACH) zum ersten Mal auf deutsch synchronisiert und ungeschnitten erhältlich
 - In Deutschland sind bereits 50 Bände erschienen, ebenso Artbooks, Bücher , Spiel- und Sammelkarten sowie mannigfaltig andere Fanartikel
+- Die beliebte Erfolgsserie von Produktionsstudio Pierrot (TOKYO GHOUL, BLEACH) zum ersten Mal auf deutsch synchronisiert und ungeschnitten erhältlich
 - NARUTO und NARUTO SHIPPUDEN laufen erfolgreich auf ProSieben Maxx mit konstant hohen Einschaltquoten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

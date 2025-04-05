@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein edles Geschenk für Gin-Liebhaber oder solche, die es werden wollen
-- Gin, genau wie Gin sein sollte. Mit der perfekten Balance zwischen Wacholder, Zitrus und Gewürzen
-- Supreme Champion: Vier Mal in Folge zum weltbesten Gin gekürt
-- Tasting Notes: kräftiger Wacholder und frische Zitrusfrüchte, blumige Aromen und wärmender Kardamom
 - Der Schlüssel zum perfekten Gin-Cocktail oder Gin Tonic
+- Supreme Champion: Vier Mal in Folge zum weltbesten Gin gekürt
+- Gin, genau wie Gin sein sollte. Mit der perfekten Balance zwischen Wacholder, Zitrus und Gewürzen
+- Tasting Notes: kräftiger Wacholder und frische Zitrusfrüchte, blumige Aromen und wärmender Kardamom
+- Ein edles Geschenk für Gin-Liebhaber oder solche, die es werden wollen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0043A4IVU{{</world>}}

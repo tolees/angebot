@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang Mobiler 300Mbit/s-LTE-WLAN-Router M7450, Micro-USB-Kabel, Nano-auf-Micro-SIM-Adapter, 3000mAh-Akku, Schnellinstallationsanleitung
-- Zukunftssicher mit Carrier Aggregation - vereint weit voneinander entfernte LTE-Frequenzen zu einem virtuellen Frequenzband für flüssiges HD-Streaming, schnelle Downloads und ruckelfreies Onlinegaming
-- Ausreichende Verbindungen - zeitgleiches Surfen mit bis zu 32 WLAN Geräten
-- Komfortable Einrichtung und Bedienung - dank der tpMiFi-App (erhältlich für iOS und Android) und Display das alle wichtigen Informationen auf den ersten Blick aufzeigt
+- Ausdauernde Leistung - der 3000mAh-Akku liefert Energie für bis zu 15 Stunden Betrieb; Micro-SD-Kartenslot für bis zu 32 GB zusätzlichen Speicherplatz
 - HINWEIS- Weitere Informationen finden Sie in den Produktleitfäden und Dokumenten.
 - Schnelle aktuelle Technik- unterstützt LTE CAT6 mit bis zu 300 Mbit/s im Download und 50 Mbit/s im Upload
-- Ausdauernde Leistung - der 3000mAh-Akku liefert Energie für bis zu 15 Stunden Betrieb; Micro-SD-Kartenslot für bis zu 32 GB zusätzlichen Speicherplatz
+- Lieferumfang Mobiler 300Mbit/s-LTE-WLAN-Router M7450, Micro-USB-Kabel, Nano-auf-Micro-SIM-Adapter, 3000mAh-Akku, Schnellinstallationsanleitung
+- Komfortable Einrichtung und Bedienung - dank der tpMiFi-App (erhältlich für iOS und Android) und Display das alle wichtigen Informationen auf den ersten Blick aufzeigt
+- Zukunftssicher mit Carrier Aggregation - vereint weit voneinander entfernte LTE-Frequenzen zu einem virtuellen Frequenzband für flüssiges HD-Streaming, schnelle Downloads und ruckelfreies Onlinegaming
+- Ausreichende Verbindungen - zeitgleiches Surfen mit bis zu 32 WLAN Geräten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0741FPDWZ{{</world>}}

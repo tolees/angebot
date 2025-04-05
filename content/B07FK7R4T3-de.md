@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AIRWAVES Menthol Strong: AIRWAVES bietet den einzigartigen Frische-Kick für Menthol-Liebhaber, der über die reine Atemfrische hinausgeht.
+- FRISCHEKICK: Für noch mehr Frische und besonders langanhaltenden Geschmack.
 - ZUCKERFREI: Airwaves Menthol Strong Kaugummis sind zuckerfrei.
 - LIEFERUMFANG: 20 x 3-Packs (600 Kaugummis)
-- FRISCHEKICK: Für noch mehr Frische und besonders langanhaltenden Geschmack.
+- AIRWAVES Menthol Strong: AIRWAVES bietet den einzigartigen Frische-Kick für Menthol-Liebhaber, der über die reine Atemfrische hinausgeht.
 - PRAKTISCH: Ideal für unterwegs, im Büro oder im Auto.
 
 [🛒 Hier!!]({{< param buyurl >}})

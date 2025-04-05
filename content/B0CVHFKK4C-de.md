@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Single serve: perfekt für eine Tasse des Getränks deiner Wahl
-- Mach mehr aus deinem Kaffee! Drücke den Startknopf für 3 Sek. für ein intensiveres Kaffeeerlebnis
-- Große Auswahl: Mit über 70 Getränken von bekannten Marken für jeden Geschmack
 - One-Touch Bedienung: Dein Lieblingsgetränk einfach auf Knopfdruck
+- Mach mehr aus deinem Kaffee! Drücke den Startknopf für 3 Sek. für ein intensiveres Kaffeeerlebnis
+- Single serve: perfekt für eine Tasse des Getränks deiner Wahl
+- Große Auswahl: Mit über 70 Getränken von bekannten Marken für jeden Geschmack
 - INTELLIBREWTM: Automatische Anpassung der Einstellungen für perfekte Getränkequalität durch Scannen des T DISC Barcodes
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

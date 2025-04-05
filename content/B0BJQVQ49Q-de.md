@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- - Steuerung von mehreren Standorten aus - Steuern Sie Ihre intelligenten Leuchten von mehreren Standorten aus mit mehr als einem Dimmerschalter.
-- - Hub erforderlich – Tapo Smart Hub (Tapo H100) ist erforderlich
-- - Lange Batterielebensdauer - Die Batterie hält mehr als ein Jahr.
 - - Flexible Montage - Platzieren Sie den intelligenten Fernbedienungs-Dimmschalter, wo immer Sie wollen, und Ihre Lichtsteuerung ist immer in Reichweite.
-- - Lokale Sofortsteuerung - Erhalten Sie sofortige, app-freie Kontrolle über Ihre intelligenten Geräte. Vereinfachte Steuerung und einfacher Zugriff
-- - Intelligente Aktionen - Legen Sie intelligente Aktionen fest, um intelligente Tapo-Produkte auszulösen. Steuern und stellen Sie mehrere intelligente Lampen, Elektronik und andere intelligente Geräte von Tapo ein
+- - Hub erforderlich – Tapo Smart Hub (Tapo H100) ist erforderlich
 - - Benutzerdefinierte Aktionen - Durch einfaches Antippen, doppeltes Antippen und Drehen können Sie mehrere intelligente Aktionen auslösen.
+- - Steuerung von mehreren Standorten aus - Steuern Sie Ihre intelligenten Leuchten von mehreren Standorten aus mit mehr als einem Dimmerschalter.
+- - Lange Batterielebensdauer - Die Batterie hält mehr als ein Jahr.
+- - Intelligente Aktionen - Legen Sie intelligente Aktionen fest, um intelligente Tapo-Produkte auszulösen. Steuern und stellen Sie mehrere intelligente Lampen, Elektronik und andere intelligente Geräte von Tapo ein
+- - Lokale Sofortsteuerung - Erhalten Sie sofortige, app-freie Kontrolle über Ihre intelligenten Geräte. Vereinfachte Steuerung und einfacher Zugriff
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BJQVQ49Q{{</world>}}

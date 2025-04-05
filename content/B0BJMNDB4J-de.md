@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Face ID für sicheres Authentifizieren und Apple Pay
-- 12 MP Weitwinkel-Kamera, 10 MP Ultraweitwinkel-Rückkamera und LiDAR Scanner für faszinierendes AR
-- Kompatibel mit Apple Pencil (2. Generation), Magic Keyboard und Smart Keyboard Folio
-- 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
 - USB C Anschluss mit Unterstützung für Thunderbolt / USB 4
-- Stay connected with ultrafast Wi-Fi 6E
 - Mach mehr mit Batterie für den ganzen Tag
+- Face ID für sicheres Authentifizieren und Apple Pay
+- Stay connected with ultrafast Wi-Fi 6E
 - Unterstützt die Apple Pencil Schwebefunktion für präziseres Markieren und Skizzieren
-- Brillantes 11" Liquid Retina Display mit ProMotion, True Tone und großem P3 Farbraum
 - M2 Chip mit 8 Core CPU und 10 Core GPU
+- Brillantes 11" Liquid Retina Display mit ProMotion, True Tone und großem P3 Farbraum
+- 12 MP Weitwinkel-Kamera, 10 MP Ultraweitwinkel-Rückkamera und LiDAR Scanner für faszinierendes AR
+- 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
+- Kompatibel mit Apple Pencil (2. Generation), Magic Keyboard und Smart Keyboard Folio
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BJMNDB4J{{</world>}}

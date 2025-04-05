@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Material: PVC
 - Verwendung: im Freien
-- Anzahl der Griffe: zwei
 - Farbe: Rosa
+- Anzahl der Griffe: zwei
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VWV7L1S{{</world>}}

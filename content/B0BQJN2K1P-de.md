@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Seitentaschen
 - Regulär geschnitten; mittelhoher Bund
 - Elastischer Bund mit Kordelzug
+- Seitentaschen
 - 100 % Baumwolle (French Terry)
 
 [🛒 Hier!!]({{< param buyurl >}})

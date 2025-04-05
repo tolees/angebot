@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPARSAM - LED Technik spart bis zu 80% Energie gegenüber herkömmlichen Glühlampen
-- ALLGEBRAUCHSLAMPE - Der Klassiker in Standardform
 - E27-SOCKEL - Die Lampe passt in alle handelsüblichen E27-Fassungen
+- SPARSAM - LED Technik spart bis zu 80% Energie gegenüber herkömmlichen Glühlampen
 - MARKENHERSTELLER - Paulmann macht Licht aus Leidenschaft, und das seit 40 Jahren
 - STEUERUNG - Steuerbar mit Smart Home Zigbee Fernbedienung
+- ALLGEBRAUCHSLAMPE - Der Klassiker in Standardform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083M6N5CV{{</world>}}

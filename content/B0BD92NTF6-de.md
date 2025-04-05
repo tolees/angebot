@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Herrenjacke für Wander- und Outdooraktivitäten
 - Bleibe mit dem wasserabweisendem Material bei leicht regnerischem Wetter trocken
 - Kinnschutz gegen Scheuern des Reißverschlusses, Reißverschlusstaschen für die Hände
 - Mit warmer, synthetischer Isolierung
-- Herrenjacke für Wander- und Outdooraktivitäten
 - Lieferumfang: 1x Columbia Herren Puffect II Jacke, Material: 100% Polyester, 100% Nylon, Größe: L, Farbe: Schwarz, Art. 2025821
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

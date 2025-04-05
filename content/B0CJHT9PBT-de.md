@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Durchreise eine lebendige Welt, stelle Einheiten zusammen und führe sie in kunstvoll animierte Gefechte
 - Versammle eine riesige Armee mit über 60 einzigartigen Charakteren, von Menschen und Elfen zu riesigen Bestien und himmlischen Engeln
 - Vollbringe Heldentaten und lass deinen Ruhm in fünf Reichen wachsen
-- Durchreise eine lebendige Welt, stelle Einheiten zusammen und führe sie in kunstvoll animierte Gefechte
 - Stelle dich dem Schicksal und kämpfe mit deinen treuen Verbündeten um deinen rechtmäßigen Thron
 
 [🛒 Hier!!]({{< param buyurl >}})

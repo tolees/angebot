@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Touchscreen-Farbdisplay
 - elegantes Design
-- Kitchen
 - Edelstahl
+- Kitchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01CDN9SM2{{</world>}}

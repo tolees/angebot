@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hartvergoldete RCA-Buchsen
-- Designprinzip inspiriert von Dr. Sykora, SMD Schaltkreise mit sehr rauscharmen Komponenten
-- Interne Abschirmung aus Metall, Externes Netzteil im Lieferumfang
 - Verstärkung und RIAA Entzerrung für MM
+- Designprinzip inspiriert von Dr. Sykora, SMD Schaltkreise mit sehr rauscharmen Komponenten
 - Kompakte Maße zur Aufstellung nah beim Plattenspieler
+- Interne Abschirmung aus Metall, Externes Netzteil im Lieferumfang
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01CZW87HS{{</world>}}

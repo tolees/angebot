@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenabmessung der Schübe Breite/Tiefe/Höhe 229x306x38 mm (DIN A4 längst)
-- Schübe mit Auszugsperre
 - Schubladenbox mit vier Schüben für DIN A4 Formate
+- Schübe mit Auszugsperre
 - Aus recyceltem Kunststoff, mindestens 80 % Post-Consumer Material
 - Blauer Engel zertifiziert
 

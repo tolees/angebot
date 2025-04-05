@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wandmontage
 - Warnung bei niedrigem Batterieladezustand
-- Magnet/Readkontakt Sensortechnik
 - LED für Funktionskontrolle
+- Wandmontage
+- Magnet/Readkontakt Sensortechnik
 - Batteriebetrieb
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

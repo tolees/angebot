@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Night View Modus: Diese neue Voreinstellung ermöglicht wunderschöne Nachtaufnahmen mit geringem Bildrauschen und hohem Dynamikumfang. Zudem können mit der integrierten Gesichtserkennung besonders schöne Portraitaufnahmen gelingen.
-- 360° für alle: 360° Kamera, die jeden High-Performance erleben lässt
-- Hohe Bildqualität: Aufnahme von 360° Bildern und Videos in hoher Auflösung und mit sehr präziser stitching-bildverarbeitung
 - 4K Video: 360° Videos in 4K und mit Hilfe der neuesten Bildstabilisierungstechnologie
+- Night View Modus: Diese neue Voreinstellung ermöglicht wunderschöne Nachtaufnahmen mit geringem Bildrauschen und hohem Dynamikumfang. Zudem können mit der integrierten Gesichtserkennung besonders schöne Portraitaufnahmen gelingen.
+- Hohe Bildqualität: Aufnahme von 360° Bildern und Videos in hoher Auflösung und mit sehr präziser stitching-bildverarbeitung
+- 360° für alle: 360° Kamera, die jeden High-Performance erleben lässt
 - SEPARATE OBJEKTIVBELICHTUNG: Diese neue Voreinstellung kontrolliert die Belichtung und den automatischen Weißabgleich des Front- und Rückobjektivs unabhängig voneinander. In Umgebungen mit extremen Kontrastunterschieden erhalten Sie somit trotzdem optimal belichtete 360° Aufnahmen, so etwa bei Aufnahmen eines hellen Motivs aus einer dunklen Umgebung (z. B. aus dem Auto).
 
 [🛒 Hier!!]({{< param buyurl >}})

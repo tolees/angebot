@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SmartGames ist der weltweit führende Anbieter von mehrstufigen, logikbasierten Familienspaß-Spielen.
-- Ein lustiges und aufregendes Denkspiel für Einzelspieler
 - Es gibt 48 lustige Herausforderungen zu vervollständigen
+- Ein lustiges und aufregendes Denkspiel für Einzelspieler
+- SmartGames ist der weltweit führende Anbieter von mehrstufigen, logikbasierten Familienspaß-Spielen.
 - Dieses Puzzle-Spiel ist perfekt für Kinder ab 5 Jahren; ermutigt sie, wichtige kognitive Fähigkeiten zu entwickeln.
 
 [🛒 Hier!!]({{< param buyurl >}})

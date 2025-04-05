@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Während der Schwangerschaft und ab dem 1. Lebenstag
-- Enthält 4 humane Bakterienstämme mit mindestens 3 Milliarden Keimen pro Portion (= 1 Beutel à 3 g)
 - Frei von Hormonen, tierischem Eiweiß, Gluten, Hefe und Lactose
 - Für einen guten Start von Mutter und Kind
+- Enthält 4 humane Bakterienstämme mit mindestens 3 Milliarden Keimen pro Portion (= 1 Beutel à 3 g)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B011OIZ1E6{{</world>}}

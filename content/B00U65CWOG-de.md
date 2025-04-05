@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dem Anti-Kondensations-Deckel und digitalem Display mit programmierbarem Verzögerungstimer, der sich bis zu 24 Stunden im Voraus einstellen lässt, ist der Multikocher ein echter Alleskönner
-- Lieferumfang: 1 x elektrischen Multicooker von Russell Hobbs / Praktischer Multi Kocher inkl. Dampfkorb, Messbecher, Schöpflöffel, Schöpfkelle und antihaftbeschichtetem Kochtopf / 900 Watt, 5 L
 - Die 11 voreingestellten Programme sind Schongaren, Dampfgaren, Suppe, Eintopf, Fleisch, Fisch, Reis, Brot, Kuchen, Joghurt, Haferbrei inklusive zusätzlicher automatischer Warmhaltefunktion
+- Lieferumfang: 1 x elektrischen Multicooker von Russell Hobbs / Praktischer Multi Kocher inkl. Dampfkorb, Messbecher, Schöpflöffel, Schöpfkelle und antihaftbeschichtetem Kochtopf / 900 Watt, 5 L
+- Mit dem Anti-Kondensations-Deckel und digitalem Display mit programmierbarem Verzögerungstimer, der sich bis zu 24 Stunden im Voraus einstellen lässt, ist der Multikocher ein echter Alleskönner
 - Idealer Küchenhelfer: Der Cook@Home Multicooker überzeugt mit 11 Kochprogrammen, mit denen sich leckere und gesunde Gerichte kochen lassen - ohne dabei großen Aufwand zu betreiben
 - Alle enthaltenen Teile, die mit Lebensmittel in Berührung kommen, sind langlebig, pflegeleicht sowie BPA-frei / Die Oberfläche ist aus hochwertigem Edelstahl mit Kunststoffapplikationen
 

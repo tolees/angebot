@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewicht (Größe M): Ca. 255 g
 - 21 Windtunnel Belüftungsöffnungen mit Innenkanälen
-- In-Mold-Polycarbonat-Schale mit EPS-Innenschale
 - Roc Loc 5 Air Anpassungssystem
+- In-Mold-Polycarbonat-Schale mit EPS-Innenschale
+- Gewicht (Größe M): Ca. 255 g
 - Integrierte MIPS Spherical-Technologie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

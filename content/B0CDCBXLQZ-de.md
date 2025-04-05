@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Produktdetails: Fahrzeit ca. 60 Min., Höchstgeschwindigkeit ca. 11 km/h
 - Highlights: 2,4GHz für Mehrspielerbetrieb, offiziell lizenziert, detailgetreuer Innenraum, originalgetreue Lackierung, transparente Windschutzscheibe, LED Licht vorne (leuchtet bei Fahrtrichtung)
 - Funktionen: Vorwärts/Rückwärts, Links/Rechts, Stopp
-- Produktdetails: Fahrzeit ca. 60 Min., Höchstgeschwindigkeit ca. 11 km/h
-- Lieferumfang: Modell, Fernsteuerung 2,4GHz, Anleitung
 - Hinweise: Benötigtes Zubehör: 6 x AA-Zellen // LR6 (Alkaline) // HR6 (NiMH)
+- Lieferumfang: Modell, Fernsteuerung 2,4GHz, Anleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CDCBXLQZ{{</world>}}

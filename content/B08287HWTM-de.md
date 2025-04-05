@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weite: Normal (F), Verschluss: Ohne Verschluss
 - Obermaterial: Kunstleder, Innenmaterial: Synthetik, Laufsohle: PU-Sohle
+- Weite: Normal (F), Verschluss: Ohne Verschluss
 - Produkttyp: Sandalen,Sandalen,Keilsandalen,Damenschuhe,Sommerschuhe,Keilsandaletten,Keilabsatz,Wedge-Heel,bequem,flach
 - Absatztyp: Flach, Absatzhöhe: 3.5 cm, Schafttyp: Kurzschaft
 

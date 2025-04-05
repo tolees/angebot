@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reichweite: ca. 17.000 Seiten (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19752)
-- Lieferumfang: HP 646X Original Laserjet Tonerkartusche (CE264X) schwarz, Druckkassette; Recycling-Anleitung
-- Mehr für Sie drin-Original HP XL Toner mit extra hoher Reichweite
 - Produktfamilie: HP 646A Cyan/Blau (CF031A), HP 646A Gelb (CF032A), HP 646A Magenta/Rot (CF033A)
+- Mehr für Sie drin-Original HP XL Toner mit extra hoher Reichweite
 - Kompatibel mit: HP Color LaserJet Enterprise CM4540 (CC419A), HP Color LaserJet Enterprise CM4540f (CC420A), HP Color LaserJet Enterprise CM4540fsmk (CC421A)
+- Lieferumfang: HP 646X Original Laserjet Tonerkartusche (CE264X) schwarz, Druckkassette; Recycling-Anleitung
+- Reichweite: ca. 17.000 Seiten (Tatsächliche Reichweite ist abhängig vom Deckungsgrad der gedruckten Seiten basierend auf ISO/IEC 19752)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002XLR1A6{{</world>}}

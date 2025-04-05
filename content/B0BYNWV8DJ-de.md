@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BILDQUALITÄT - Der X1-Prozessor ist die Kraft hinter diesen hellen, farbenfrohen Bildern. Er analysiert Inhalte in Echtzeit und verbessert in Verbindung mit Dolby Vision alles, was man sieht.
-- GAMING - Der X75WL ist ein großartiger Gaming-Fernseher und verfügt über den Auto Low Latency Mode in HDMI 2.1 für flüssiges, reaktionsschnelles Gameplay sowie über Auto HDR Tone Mapping, um wichtige Details in den dunkelsten und hellsten Bereichen des Bildschirms zu erkennen. Es gibt sogar ein spezielles Gaming-Menü, welches die brandneuen Fadenkreuz- und Custom Screen-Funktionen enthält - sie könnten das Geheimnis des nächsten Sieges sein!
-- KLANGQUALITÄT - Die einzigartige X-Balanced-Lautsprechereinheit liefert hochwertigen Klang und kräftige Bässe für ein satteres, tieferes und lohnenderes Klangerlebnis.
 - DESIGN - Der Fernseher wurde im Sony charakteristischen, minimalistischen Stil entworfen, damit man sich auf das Wesentliche konzentrieren kann - das Bild. Mit seinem Hairline-Finish und dem feststehenden Slim Blade-TV-Standfuß passt der X75WL in jede Einrichtung.
+- KLANGQUALITÄT - Die einzigartige X-Balanced-Lautsprechereinheit liefert hochwertigen Klang und kräftige Bässe für ein satteres, tieferes und lohnenderes Klangerlebnis.
+- GAMING - Der X75WL ist ein großartiger Gaming-Fernseher und verfügt über den Auto Low Latency Mode in HDMI 2.1 für flüssiges, reaktionsschnelles Gameplay sowie über Auto HDR Tone Mapping, um wichtige Details in den dunkelsten und hellsten Bereichen des Bildschirms zu erkennen. Es gibt sogar ein spezielles Gaming-Menü, welches die brandneuen Fadenkreuz- und Custom Screen-Funktionen enthält - sie könnten das Geheimnis des nächsten Sieges sein!
+- BILDQUALITÄT - Der X1-Prozessor ist die Kraft hinter diesen hellen, farbenfrohen Bildern. Er analysiert Inhalte in Echtzeit und verbessert in Verbindung mit Dolby Vision alles, was man sieht.
 - BRAVIA CORE - Hunderte von Filmen warten in der BRAVIA CORE App! Exklusiv für BRAVIA TV-Besitzer können 5 Filme in bis zu 4K HDR-Qualität sowie 12 Monate lang unbegrenztes Streaming ausgewählt und eingelöst werden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

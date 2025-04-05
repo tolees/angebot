@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kompatible Smartphones anderer Hersteller laden bis zu 7,5 Watt
 - Unterstützt schnelles induktives Laden bis zu maximal 15 Watt1
 - Kompatibel zu Qi-Zertifizierten Endgeräten mit einer Ladeleistung bis zu 5 Watt
-- Kompatible Smartphones anderer Hersteller laden bis zu 7,5 Watt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09Q6HNDTC{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 1: ✅ Sicheres und flaches Interface
-- Produkt 1: ✅ Direkt auf der Hülle oder am Smartphone anbringen und mit anderen SP Connect Produkten nutzen!
-- Produkt 1: ✅ Größe: 66 x 55mm (2.6 x 2.17 Zoll)
 - Produkt 2: Sehr niedrige Montage mit der Steuersatzkappe
+- Produkt 1: ✅ Direkt auf der Hülle oder am Smartphone anbringen und mit anderen SP Connect Produkten nutzen!
+- Produkt 1: ✅ Sicheres und flaches Interface
+- Produkt 1: ✅ Größe: 66 x 55mm (2.6 x 2.17 Zoll)
 - Produkt 2: Leichtes Aluminium
 - Produkt 1: ✅ 3M Klebefolie: Garantiert sicheren Halt!
 

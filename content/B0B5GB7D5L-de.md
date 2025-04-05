@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Spieler erwartet eine fesselnde Geschichte, die über bloße Unterhaltung hinausreicht und eine breite Palette an Emotionen auslöst
-- Genreübergreifende Action in einer faszinierenden, trostlosen offenen Welt
-- Inhalt: Das Spiel " NieR:Automata The End of YoRHa", ein Wende-Inlay und den DLC "3C3C1D119440927"*
 - In der Rolle von 2B, einem Mitglied der neu organisierten Androidenarmee YoRHa, tauchen die Spieler in einen erbitterten Kampf
+- Genreübergreifende Action in einer faszinierenden, trostlosen offenen Welt
+- Die Spieler erwartet eine fesselnde Geschichte, die über bloße Unterhaltung hinausreicht und eine breite Palette an Emotionen auslöst
+- Inhalt: Das Spiel " NieR:Automata The End of YoRHa", ein Wende-Inlay und den DLC "3C3C1D119440927"*
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B5GB7D5L{{</world>}}

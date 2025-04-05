@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Eco attitude Entdecke unsere recycelten und nachhaltigen Produkte
-- Hergestellt aus zwei Schichten aus Merinowolle mit 300 g/m² Dichte
-- Hergestellt aus natürlicher Merinowolle. 100 percent nachhaltige Öko-Materialien für maximalen Komfort, Wärme und ausgezeichnete Wärmeregulierung
-- Die wärmste Version der Merino-Kollektion: 500 g/m2
 - Mütze aus Merinowolle aus zwei Schichten zum Schutz vor Kälte
+- Hergestellt aus natürlicher Merinowolle. 100 percent nachhaltige Öko-Materialien für maximalen Komfort, Wärme und ausgezeichnete Wärmeregulierung
+- Hergestellt aus zwei Schichten aus Merinowolle mit 300 g/m² Dichte
+- Die wärmste Version der Merino-Kollektion: 500 g/m2
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0952G8LHQ{{</world>}}

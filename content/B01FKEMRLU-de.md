@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- aus Nylon
-- aus China
-- Fatboy
 - Farbe: rot
+- Fatboy
+- aus China
+- aus Nylon
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01FKEMRLU{{</world>}}

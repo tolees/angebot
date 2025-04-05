@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sohle: Gummi
-- Absatzform: Flach
-- Nicht wasserfest
 - Obermaterial: Leder
+- Nicht wasserfest
+- Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVLLMLL{{</world>}}

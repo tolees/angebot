@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 063300
-- Zubehör
 - Steba Glaskeramik-Kochfeld HK 30 | Robuste Durchgängige Glaskeramik-Oberfläche | 2 Heizkreise mit 15 cm und 22 cm | Mobil einsetzbar | Touch Control | Timerfunktion bis 180 min. | für alle Kochtöpfe
+- Zubehör
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08284HNTT{{</world>}}

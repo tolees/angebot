@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit einer Spieldauer von 30 Minuten und kurzen Regeln sowie hohen Spielreiz eignet sich das Kartenspiel für jeden Anlass: als Reisespiel, als Familienspiel für den Spieleabend oder als Gesellschaftsspiel bereits für 2 Personen
 - Das ideale Geschenk für Kinder und Erwachsene ab 7 Jahren und für jedes Ereignis geeignet: egal ob als Weihnachtsgeschenk, Geburtstagsgeschenk oder zu Ostern
 - Spielspaß pur seit Generationen! Mit insgesamt 9 zusätzlichen Spielvarianten ist kontinuierliche und langanhaltende Spannung garantiert!
-- Zahlenkarten clever anlegen, die anderen Mitspielenden blockieren und dann plötzlich Schluss machen: das ist Elfer raus!
-- Mit einer Spieldauer von 30 Minuten und kurzen Regeln sowie hohen Spielreiz eignet sich das Kartenspiel für jeden Anlass: als Reisespiel, als Familienspiel für den Spieleabend oder als Gesellschaftsspiel bereits für 2 Personen
 - Das seit 1925 beliebte und unterhaltsame Kartenspiel mit einfachen Regeln für die ganze Familie
+- Zahlenkarten clever anlegen, die anderen Mitspielenden blockieren und dann plötzlich Schluss machen: das ist Elfer raus!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BCF8T9L4{{</world>}}

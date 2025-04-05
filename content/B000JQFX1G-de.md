@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Modell ist von der Invicta Pro Diver Kollektion
-- Uhrenglas aus schützendem Mineralglas
 - Dieses Modell wird von einem präzisen Automatikuhr angetrieben
+- Japanisches Automatikuhrwerk schaltet sich Automatik mit der Armbewegung an, eine Batterie ist nicht notwendig.
+- Das Invicta 8926OB hat ein 40 millimeter Edelstahl gehäuse mit einem schwarzen Zifferblatt
+- Dieses Modell ist von der Invicta Pro Diver Kollektion
+- 20 bar Wasserdichtigkeitszertifizierung
 - 2 Jahre Garantie
 - Rundes Edelstahlgehäuse mit drehbarer Lünette aus plattiertem Edelstahl
-- Das Invicta 8926OB hat ein 40 millimeter Edelstahl gehäuse mit einem schwarzen Zifferblatt
-- 20 bar Wasserdichtigkeitszertifizierung
-- Japanisches Automatikuhrwerk schaltet sich Automatik mit der Armbewegung an, eine Batterie ist nicht notwendig.
+- Uhrenglas aus schützendem Mineralglas
 - Edelstahlarmbänder mit Sicherheitsfaltschließe
 
 [🛒 Hier!!]({{< param buyurl >}})

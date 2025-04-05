@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält eine abnehmbare Zaumzeug, einen Teppich und Stiefel.
 - Verfügt über einen klassischen Reitpony
+- Enthält eine abnehmbare Zaumzeug, einen Teppich und Stiefel.
 - Komplett mit 1 Figur
 
 [🛒 Hier!!]({{< param buyurl >}})

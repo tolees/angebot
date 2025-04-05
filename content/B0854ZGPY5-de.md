@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmutzwasser schnell und einfach abziehen mit der austauschbaren Abziehlippe
-- Kraftvolle Reinigung und strahlende Ergebnisse dank drei integrierter Hochdruckdüsen und 360 Grad drehbarem Bürstenkopf
 - Kann mit allen Kärcher Hochdruckreinigern der Klassen K 2 bis K 7 kombiniert werden
+- Kraftvolle Reinigung und strahlende Ergebnisse dank drei integrierter Hochdruckdüsen und 360 Grad drehbarem Bürstenkopf
+- Schmutzwasser schnell und einfach abziehen mit der austauschbaren Abziehlippe
 - Lieferumfang: Flächenreiniger PS 30 mit zwei Verlängerungsrohren
 - Zur Reinigung von kleinen bis mittelgroßen Terrassen (Holz und Stein), Garagen, Treppen und Balkonen
 

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp: ABIS MUSIC
 - Artikelname: Thorns (Lim.Digipak)
+- Produkttyp: ABIS MUSIC
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09JY4GQK2{{</world>}}

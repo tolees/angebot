@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 1 x Zeitschaltuhr Comfort-Line in der Farbe weiß, inkl. NiMH-Akku - in bester Qualität von brennenstuhl
-- Der minimale Schaltabstand der Zeitschaltuhr beträgt 1 Minute
 - Einfache Bedienung ermöglicht 10 Ein-/Aus-Programme mit Wochentag-, Stunden- und Minuten-Einstellungen
 - Digitale Zeitschaltuhr mit extra großem Display, Countdown-, Zufallsfunktion und erhöhtem Berührungsschutz
+- Der minimale Schaltabstand der Zeitschaltuhr beträgt 1 Minute
 - Mit Countdown-/Zufalls- und manueller Ein-/Aus-Funktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

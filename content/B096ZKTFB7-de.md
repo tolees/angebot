@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stylischer und Robustes Design
 - Farbe: Schwarz
+- Stylischer und Robustes Design
 - Marke: Jada Toys
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INTENSITÄT: Die dunkle Röstung und der Intensitätsgrad 7/10 dieses gemahlenen Kaffees machen ihn zu einer Kaffeemischung, die man zu jeder Tageszeit genießen kann
-- CREMA E GUSTO: Diese Kaffeesorte von Lavazza ist ideal für Zubereitungen auf Milchbasis. Diese Packung enthält 250 g gemahlenen Kaffee
 - AROMANOTEN: Ein Qualitätskaffee mit dunkler Farbe, würzigen Aromen und einem vollmundigen Geschmack, mit würzigen aromatischen Nuancen
-- MISCHUNG: Feine Mischung aus Robusta und Arabica Kaffeebohnen, hauptsächlich aus Südamerika und Südostasien, für Mokka-Kannen, Filterkaffeemaschinen oder eine Kaffeepresse
+- CREMA E GUSTO: Diese Kaffeesorte von Lavazza ist ideal für Zubereitungen auf Milchbasis. Diese Packung enthält 250 g gemahlenen Kaffee
+- INTENSITÄT: Die dunkle Röstung und der Intensitätsgrad 7/10 dieses gemahlenen Kaffees machen ihn zu einer Kaffeemischung, die man zu jeder Tageszeit genießen kann
 - LAVAZZA: Die Lavazza Gruppe ist in allen Bereichen der Kaffeeindustrie tätig und bietet ein nachhaltiges Produktmodell an, das auf Innovation, Leidenschaft und Know-How basiert
+- MISCHUNG: Feine Mischung aus Robusta und Arabica Kaffeebohnen, hauptsächlich aus Südamerika und Südostasien, für Mokka-Kannen, Filterkaffeemaschinen oder eine Kaffeepresse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08L4DJHZ6{{</world>}}

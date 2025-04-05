@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BRD
 - Deutsch, Japanisch
-- 125
 - Kenji Nagasaki
+- 125
+- BRD
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07N3S4XB9{{</world>}}

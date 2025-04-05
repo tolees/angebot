@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnürung
+- Sohle: Synthetik
 - Obermaterial: Leder
 - Innenmaterial: Leder
-- Sohle: Synthetik
+- Verschluss: Schnürung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0837BCMSV{{</world>}}

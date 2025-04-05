@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Yasuhiro Takemoto
 - Deutsch, Japanisch
-- 125
 - BRD
+- 125
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B084DGK3FP{{</world>}}

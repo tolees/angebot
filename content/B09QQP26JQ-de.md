@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Teil des 18 V ONE+ Akku-Systems von RYOBI; Ein Akku für über 200+ Elektrowerkzeuge und Gartengeräte
-- 3 Leuchtstufen, 500, 1;100 und 1;800 Lumen
 - Kompakte Leuchte für einfachen Transport
-- Lieferumfang: Akku-LED-Strahler RLFD18-0, ohne Akku und Ladegerät
-- 3 JAHRE GARANTIE - Alle Geräte sind auf langlebigkeit ausgelegt; Das gilt auch für die Garantie; Registriere dafür das erworbene Produkt auf unserer Webseite
-- Befestigungsmöglichkeit für Stative
-- Effektive und langlebigeHigh Power LEDs mit 1800 Lumen Leuchtkraft
 - Flexibles Design und um 360° drehbarer Kopf sowie vielfältige Aufhängungsmöglichkeiten
+- Lieferumfang: Akku-LED-Strahler RLFD18-0, ohne Akku und Ladegerät
+- 3 Leuchtstufen, 500, 1;100 und 1;800 Lumen
+- 3 JAHRE GARANTIE - Alle Geräte sind auf langlebigkeit ausgelegt; Das gilt auch für die Garantie; Registriere dafür das erworbene Produkt auf unserer Webseite
+- Effektive und langlebigeHigh Power LEDs mit 1800 Lumen Leuchtkraft
+- Befestigungsmöglichkeit für Stative
+- Teil des 18 V ONE+ Akku-Systems von RYOBI; Ein Akku für über 200+ Elektrowerkzeuge und Gartengeräte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09QQP26JQ{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bauset für Corvo Bianco mit leuchtendem Kamin (LEDs mit 2 Modi), Leshen-Schädel und vielen anderen Easter Eggs aus The Witcher
+- Greif mit Silikonmähne und sehr beweglichen Flügeln zum Zusammenbauen, mit der Optik aus The Witcher 3: Wild Hunt
 - Die 531 Bausteine und Teile sind mit allen Bausets von MEGA und anderen Marken kompatibel
 - Das Set ist genau das Richtige für Fans ab 16 Jahren, die viel Wert auf eine realistische, detailgetreue Darstellung legen
-- Greif mit Silikonmähne und sehr beweglichen Flügeln zum Zusammenbauen, mit der Optik aus The Witcher 3: Wild Hunt
 - Äußerst bewegliche, detailgetreue Mikro-Aktionsfigur von Geralt mit Vipernrüstung und 2 Schwertern, Stahl und silber
+- Bauset für Corvo Bianco mit leuchtendem Kamin (LEDs mit 2 Modi), Leshen-Schädel und vielen anderen Easter Eggs aus The Witcher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NZG4TY4{{</world>}}

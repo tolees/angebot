@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der superscharfe und feurige Geschmack der extra scharfen Sriracha Chilisauce passt ideal zu Fleisch, Fisch und Meeresfrüchten sowie zu Nudeln, Reis und vielen weiteren Gerichten
-- Für Liebhaber der scharfen Küche, die extra scharfe Sriracha Sauce sorgt mit ausgewählten Zutaten für eine intensive Würze und extra scharfes Geschmackserlebnis
-- Unentbehrlich für jeden der Chilis liebt, der Klassiker aus dem Asia Restaurant verleiht jedem Gericht eine feurige Schärfe - ideal zum Würzen, Dippen oder Marinieren
 - Die beliebte Würzsauce kreiert in der thailändischen Küstenstadt Si Racha: Flying Goose Sriracha scharfe Chilisauce aus 70% sonnen gereiften Chilischoten, sehr scharf
+- Für Liebhaber der scharfen Küche, die extra scharfe Sriracha Sauce sorgt mit ausgewählten Zutaten für eine intensive Würze und extra scharfes Geschmackserlebnis
+- Der superscharfe und feurige Geschmack der extra scharfen Sriracha Chilisauce passt ideal zu Fleisch, Fisch und Meeresfrüchten sowie zu Nudeln, Reis und vielen weiteren Gerichten
+- Unentbehrlich für jeden der Chilis liebt, der Klassiker aus dem Asia Restaurant verleiht jedem Gericht eine feurige Schärfe - ideal zum Würzen, Dippen oder Marinieren
 - Lieferumfang: Flying Goose Sriracha Chilisauce sehr scharf - vegetarisch und glutenfrei - 1er Pack (1 x 455 ml)
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3-teilige Rückentasche, Thermo-Stretch-Funktionsmaterial, Elastisches Griffband am Bund für sicheren Sitz
-- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv. Pflegehinweis: Nicht bleichen
-- Komfortable Passform mit lockerem Schnitt für ein Maximum an Bewegungsfreiheit/Bike-Spezifischer Schnitt
 - Warmes Herren Trikot, Ideal bei kalten Wetterbedingungen
+- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv. Pflegehinweis: Nicht bleichen
 - GORE C3 Thermo Jersey, Größe: M, Farbe: Neon-Gelb, 100647
+- 3-teilige Rückentasche, Thermo-Stretch-Funktionsmaterial, Elastisches Griffband am Bund für sicheren Sitz
+- Komfortable Passform mit lockerem Schnitt für ein Maximum an Bewegungsfreiheit/Bike-Spezifischer Schnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B082YDYDWP{{</world>}}

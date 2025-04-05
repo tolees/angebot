@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein Display mit 8.192 Druckempfindlichkeitsstufen - für eine hochentwickelte, präzise Stiftleistung / Multi-Touch-Funktion sowie ExpressKey-Fernbedienung und Bildschirmtastatur mit One-Touch-Shortcuts
-- Dank der angerauten Glasoberfläche des Zeichentabletts erhält man ein natürliches Schreibgefühl wie auf Papier / Zudem werden unerwünschte Reflexionen und Blendeffekte reduziert
 - Das leistungsfähige Kreativ-Stift-Display überzeugt mit einem hochauflösenden 24 Zoll LCD Bildschirm in Ultra HD - ohne Verzögerung zeichnen und dabei von unschlagbarer Farbgenauigkeit profitieren
-- Das Stift Display wahlweise an einen Mac oder Computer anschließen / Das hochwertige Stifttablett eignet sich gleichermaßen für Hobby und Beruf - für den kreativen Durchbruch
+- Ein Display mit 8.192 Druckempfindlichkeitsstufen - für eine hochentwickelte, präzise Stiftleistung / Multi-Touch-Funktion sowie ExpressKey-Fernbedienung und Bildschirmtastatur mit One-Touch-Shortcuts
 - Lieferumfang: 1 x Wacom Cintiq Pro 24 touch Grafik-Display inkl. Pro Pen 2 / AC-Netzteil mit Eurostecker, Netzkabel, Link-Adapter mit USB-C, Mini-Displayport / Systemvoraussetzungen beachten
+- Das Stift Display wahlweise an einen Mac oder Computer anschließen / Das hochwertige Stifttablett eignet sich gleichermaßen für Hobby und Beruf - für den kreativen Durchbruch
+- Dank der angerauten Glasoberfläche des Zeichentabletts erhält man ein natürliches Schreibgefühl wie auf Papier / Zudem werden unerwünschte Reflexionen und Blendeffekte reduziert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TQ8VG9J{{</world>}}

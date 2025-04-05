@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite: mittel
-- Nicht Wasserfest
 - Verschluss: Gummi
 - Lining: Kalt gefüttert
-- Strap: Toe Strap
-- Obermaterial: Synthetik
-- Absatzform: Flach
 - Leder
+- Obermaterial: Synthetik
+- Strap: Toe Strap
 - Innenmaterial: Synthetic
+- Absatzform: Flach
+- Schuhweite: mittel
+- Nicht Wasserfest
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09N7FVZKF{{</world>}}

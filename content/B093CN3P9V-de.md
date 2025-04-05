@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lexar SSD ist ideal für PC-Enthusiasten und Gamer.
 - Lexar Solid-State-Laufwerk erhält 6 x die Geschwindigkeit einer SATA-basierten SSD.
-- Hochgeschwindigkeits-PCIe-Gen3x4-Schnittstelle: Lexar 512 GB SSD bis zu 3500 MB/s Lesen und 2400 MB/s Schreiben - NVMe 1.4 wird unterstützt.
 - Lexar interne Solid State Drive ist stoß- und vibrationsbeständig ohne bewegliche Teile.
+- Hochgeschwindigkeits-PCIe-Gen3x4-Schnittstelle: Lexar 512 GB SSD bis zu 3500 MB/s Lesen und 2400 MB/s Schreiben - NVMe 1.4 wird unterstützt.
 - Lexar interne SSD M.2 2280 Formfaktor mit 3D NAND
 
 [🛒 Hier!!]({{< param buyurl >}})

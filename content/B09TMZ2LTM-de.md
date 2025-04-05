@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- BRD
 - Deutsch, Japanisch
 - Sung Hoo Park
 - 150
-- BRD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TMZ2LTM{{</world>}}

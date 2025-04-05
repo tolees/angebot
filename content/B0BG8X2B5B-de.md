@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Beste Qualität der Marke OSRAM
+- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
+- Stromquellentyp: AC
+- F
 - Anzahl der einheiten: 1.0
 - Welche komponenten sind im lieferumfang des produkts enthaltenen: 5 x LED-Speziallampen
 - 3.0 grams
 - Sehr geringer Energieverbrauch, neueste LED-Technologie
 - Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von konventionellen Lampen (Einsatz im Außenbereich nur in geeigneten Leuchten)
-- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
-- Beste Qualität der Marke OSRAM
-- F
 - Sehr lange Lebensdauer - bis zu 25000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
-- Stromquellentyp: AC
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BG8X2B5B{{</world>}}

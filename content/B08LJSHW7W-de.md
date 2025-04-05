@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 650
 - Deutsch
 - Yasuichiro Yamamoto, Kenji Kodama, Kojin Ochi, Masato Sato
+- 650
 - DVD
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- department_name; Herren
 - Hohe Qualität
+- department_name; Herren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B082BD48HN{{</world>}}

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kontrastnähte
-- Flammgarnstruktur, Melange-Effekte
 - Brusttasche und Logo Print auf der linken Vorderseite
+- Flammgarnstruktur, Melange-Effekte
 - gefütterte Kapuze mit Logo Print innen
 - Tunnelzugband an der Kapuze
 

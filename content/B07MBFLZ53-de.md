@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 2x 12-Volt-Akku mit 6.0 Ah Kapazität und Schnellladegerät
 - Lieferumfang: 2 x Akku GBA 12V 6.0 Ah, Schnellladegerät GAL 12V-40, Karton
 - GBA 12V 6.0Ah: Extrem hohe Akkukapazität für bis zu 300 % mehr Laufzeit als beim 12V 2,0 Ah Professional-Modell
 - GAL 12V-40: Hohe Ladegeschwindigkeit für alle 12-Volt-Akkus. Laden von 12V-/6,0-Ah-Akkus von 0 % auf 80 % in nur 72 Minuten.
-- 2x 12-Volt-Akku mit 6.0 Ah Kapazität und Schnellladegerät
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MBFLZ53{{</world>}}

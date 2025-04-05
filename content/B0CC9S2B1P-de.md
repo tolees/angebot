@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- CD
 - Re-Recording of Dark Side of the Moon
+- CD
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CC9S2B1P{{</world>}}

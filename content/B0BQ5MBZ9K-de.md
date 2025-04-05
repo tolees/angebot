@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Altersspektrum (Beschreibung): Erwachsener
+- Farbe: ‎Schwarz
 - Artikelvolumen: 30 Milliliter
 - Intensiver Duft
-- Farbe: ‎Schwarz
-- Altersspektrum (Beschreibung): Erwachsener
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BQ5MBZ9K{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktische Griffe und abnehmbarer Deckel mit Knopf, Passend zum Frühstückssortiment der Le Creuset Poterie-Serie, Tolle Geschenkidee – ob einzeln, im 3er- oder im 4er-Set
 - Lieferumfang: 1x Le Creuset Mini-Cocotte, Volumen: 200 ml, Maße: 10 x 5 cm, Material: Steinzeug, Farbe: Marseille (Blau) mit Farbverlauf
+- Geeignet für Kühl-/Gefrierschrank, Mikrowelle und Backofen (von -18°C bis +260°C), Nicht auf direkter Hitzequelle anwenden, Leicht zu reinigen dank speziell glasierter Oberfläche, Spülmaschinengeeignet
+- Praktische Griffe und abnehmbarer Deckel mit Knopf, Passend zum Frühstückssortiment der Le Creuset Poterie-Serie, Tolle Geschenkidee – ob einzeln, im 3er- oder im 4er-Set
 - Robustes und langlebiges Steinzeug für den täglichen Gebrauch, Kratz- und schnittfest, säure- und fleckenresistent, geruchs- und geschmacksneutral dank praktischer Glasur
 - Dekoratives Töpfchen (10 x 5 cm) mit Deckel in traditioneller Bräterform, Ideal zum Zubereiten und Servieren von Einzelportionen, Vorspeisen und Desserts, Auch praktisch zur Aufbewahrung im Kühlschrank
-- Geeignet für Kühl-/Gefrierschrank, Mikrowelle und Backofen (von -18°C bis +260°C), Nicht auf direkter Hitzequelle anwenden, Leicht zu reinigen dank speziell glasierter Oberfläche, Spülmaschinengeeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MDRLQJG{{</world>}}

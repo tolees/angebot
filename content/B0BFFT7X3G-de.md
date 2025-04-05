@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - TKL-Formfaktor für den Einsatz im E-Sport. Volle Funktionalität bei kleinerer Größe. Oberschale aus hochwertigem Aluminium. Abnehmbares USB-C-Kabel.
-- UNENDLICH ANPASSBAR UND BAHNBRECHEND SCHNELL mit den anpassbaren OmniPoint 2.0 HyperMagnetic-Switches
 - Verzögerungsfreies Quantum 2.0 Dual Wireless mit einer 2,4 GHz-Verbindung und Bluetooth 5.2
-- DIE SCHNELLSTE TASTATUR DER WELT – 20 Mal schnellere Betätigung und 11 Mal schnelleres Ansprechverhalten als herkömmliche mechanische Tastaturen
-- TASTEN-DOPPELBELEGUNG – Zwei Aktionen, eine Taste: Leichter Druck zur Vorwärtsbewegung, Durchdrücken zum Sprinten
-- ULTIMATIVE KONTROLLE – 40 Anpassungsstufen pro Taste (0,1 bis 4,0 mm) – stellen Sie WASD auf leichte, ultraschnelle Betätigungen und die Tasten für Skills auf ein tiefes Drücken ein, um ein versehentliches Auslösen zu vermeiden
 - RAPID TRIGGER – Die Latenz durch die physische Betätigung des Switches wird eliminiert, indem die Tasten auf der Grundlage der zurückgelegten Distanz und nicht anhand eines festen Punkts dynamisch aktiviert und deaktiviert werden.
+- UNENDLICH ANPASSBAR UND BAHNBRECHEND SCHNELL mit den anpassbaren OmniPoint 2.0 HyperMagnetic-Switches
+- DIE SCHNELLSTE TASTATUR DER WELT – 20 Mal schnellere Betätigung und 11 Mal schnelleres Ansprechverhalten als herkömmliche mechanische Tastaturen
+- ULTIMATIVE KONTROLLE – 40 Anpassungsstufen pro Taste (0,1 bis 4,0 mm) – stellen Sie WASD auf leichte, ultraschnelle Betätigungen und die Tasten für Skills auf ein tiefes Drücken ein, um ein versehentliches Auslösen zu vermeiden
+- TASTEN-DOPPELBELEGUNG – Zwei Aktionen, eine Taste: Leichter Druck zur Vorwärtsbewegung, Durchdrücken zum Sprinten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BFFT7X3G{{</world>}}

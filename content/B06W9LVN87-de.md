@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Makita 13-teiliges HSS-Bodenspitzen-Set
-- Modellnummer: D-54075
 - Hochwertiges Makita-Zubehör, das Elektrowerkzeuge und Gartenwerkzeuge ergänzt.
+- Modellnummer: D-54075
+- Makita 13-teiliges HSS-Bodenspitzen-Set
 - Bohrer & Zubehör
 
 [🛒 Hier!!]({{< param buyurl >}})

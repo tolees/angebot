@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 34 Zoll (86,42cm) 21:9 Curved (1.800 R) UltraWide QHD (3.440x1.440) Bildschirm
 - Anschlüsse: 2 x HDMI, 1 x DisplayPort 1.4 und Kopfhöreraufgang
 - 300cd/m2 Spitzenhelligkeit, sRGB 99% Farbraum mit HDR10, Picture By Picture-Funktion, OnScreen-Steuerung, AMD FreeSync, DAS und Black Stabilize
 - Lieferumfang: Netzkabel, HDMI-Kabel, DisplayPort-Kabel
+- 34 Zoll (86,42cm) 21:9 Curved (1.800 R) UltraWide QHD (3.440x1.440) Bildschirm
 - Smart Energy Saving Funktion, Lesemodus & Flicker Safe, 3-seitiges, nahezu randloses Design
 
 [🛒 Hier!!]({{< param buyurl >}})

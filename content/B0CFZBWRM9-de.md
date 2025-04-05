@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TUSKEN HÄUPTLING: Der Anführer eines Stammes von Tusken-Räubern nimmt Boba Fett nach seiner Flucht von dem Sarlacc in der Großen Grube von Carkoon gefangen
-- STAR WARS: DAS BUCH VON BOBA FETT: Diese Tusken Chieftain Action-Figur ist an Star Wars: Das Buch von Boba Fett angelehnt und perfekt als Geschenk für Star Wars Sammler und Fans ab 4 Jahren geeignet
 - VON DER SERIE INSPIRIERTES ACCESSOIRE: Diese Sammelfigur aus der Star Wars Black Series kommt mit einem Speer als Accessoire
-- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
+- STAR WARS: DAS BUCH VON BOBA FETT: Diese Tusken Chieftain Action-Figur ist an Star Wars: Das Buch von Boba Fett angelehnt und perfekt als Geschenk für Star Wars Sammler und Fans ab 4 Jahren geeignet
+- TUSKEN HÄUPTLING: Der Anführer eines Stammes von Tusken-Räubern nimmt Boba Fett nach seiner Flucht von dem Sarlacc in der Großen Grube von Carkoon gefangen
 - MIT SAMMELFIGUREN EINE GALAXIS ERSCHAFFEN: Mit den von der Serie inspirierten Sammelfiguren aus der Star Wars Black Series lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFZBWRM9{{</world>}}

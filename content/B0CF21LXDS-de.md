@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Akkulaufzeit bis zu 18 Stunden inklusive Fast Charging
 - Intel Iris Xe oder NVIDIA RTX-Grafikkarte
+- Akkulaufzeit bis zu 18 Stunden inklusive Fast Charging
+- Werkseitig kalibrierter 14,4" PixelSense Flow Touchscreen mit Dolby VisionIQ
 - Im Studio-, Laptop- oder Stage-Modus verwendbar
 - Mit den Intel Core i7 Prozessoren der 13. Generation, die auf der Intel Evo Plattform basieren, verfügst du über eine unglaubliche Leistung für die anspruchsvollsten Workloads
-- Werkseitig kalibrierter 14,4" PixelSense Flow Touchscreen mit Dolby VisionIQ
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CF21LXDS{{</world>}}

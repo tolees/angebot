@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nutzen Sie dank dem Schnittstellen Adapter das 18V Akku-System Ihrer Wahl für Brennenstuhl Multi Battery LED Baustrahler - der Multi Battery LED Akku Teleskop Arbeitsstrahler 6050 MA (Art. 1173700004) ist nicht mit dem Einhell Akkusystem verwendbar
 - Der handliche Adapter kann ohne Schrauben arretiert werden und macht den Kauf eines weiteren Akkusystems überflüssig - maximale Flexibilität durch das Brennenstuhl Multi Battery 18V System
 - Das Brennenstuhl Multi Battery 18V System ermöglicht den Einsatz effizienter 18V Akku-Technologie von Einhell​ in Multi Battery LED Baustrahlern
 - Die Fixierung des Adapters ermöglicht einen sicheren Halt für Ihren Hikoki 18V Akku
 - Adapter aufstecken, passenden Akku einstecken und loslegen - Mit einem Handgriff kann der Adapter an der Brennenstuhl-Schnittstelle in den Arbeitsstrahler eingesetzt werden
+- Nutzen Sie dank dem Schnittstellen Adapter das 18V Akku-System Ihrer Wahl für Brennenstuhl Multi Battery LED Baustrahler - der Multi Battery LED Akku Teleskop Arbeitsstrahler 6050 MA (Art. 1173700004) ist nicht mit dem Einhell Akkusystem verwendbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C74J2F9Z{{</world>}}

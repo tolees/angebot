@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sohle: Gummi
+- Absatzform: Flach
 - Innenmaterial: Synthetik
 - Obermaterial: Synthetik
-- Sohle: Gummi
 - Verschluss: Klettverschluss + Schnürsenkel
-- Absatzform: Flach
 - Nicht Wasserfest
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl bedruckbarer Seiten: 1200
 - HOHE QUALITÄT: Hochwertige Brother Original tintenpatrone
-- BROTHER ORIGINAL: LC225XLY | Brother original tintenpatrone | Gelb
-- SEITENREICHWEITE: Druckt 1200 Seiten nach ISO/IEC 24711 | Anzahl 1
 - Kompatible Drucker: Brother DCP-J4120DW, MFC-J4420DW, MFC-J4620DW, MFC-J5320DW, MFC-J5620DW, MFC-J5625DW, MFC-J5720DW; Business Smart MFC-J4420DW, MFC-J4620DW
+- SEITENREICHWEITE: Druckt 1200 Seiten nach ISO/IEC 24711 | Anzahl 1
+- Anzahl bedruckbarer Seiten: 1200
+- BROTHER ORIGINAL: LC225XLY | Brother original tintenpatrone | Gelb
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00MAMTNG8{{</world>}}

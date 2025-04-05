@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enriched with natural Aloe Vera, Witch Hazel, Shea Butter and Sunflower Oil Contains Provitamin Has a mild cooling function
-- Extreme Skin Lubricant naturally reduces the friction of your skin
-- Anti Bacterial - Kills 99% of germs
 - Luxury formulation, deeply moisturising for total riding comfort
+- Anti Bacterial - Kills 99% of germs
 - Free from Parabens and formaldehyde
+- Extreme Skin Lubricant naturally reduces the friction of your skin
+- Enriched with natural Aloe Vera, Witch Hazel, Shea Butter and Sunflower Oil Contains Provitamin Has a mild cooling function
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B016MPM1RG{{</world>}}

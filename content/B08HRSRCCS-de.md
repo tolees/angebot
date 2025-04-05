@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- , aqua/water/eau, lösungsmittel propylene glycol, feuchthaltend, lösungsmittel, hautpflegend, viskositätsregelnd cetyl alcohol, geschmeidig machend, emulgierend, trübend, viskositätsregelnd dicetyldimonium chloride, antistatisch, tensid, emulgierend, haarkonditionierend dimethicone, filmbildend stearamidopropyl dimethylamine, antistatisch, emulgierend, tensid, haarkonditionierend behentrimonium chloride, konservierungsstoff, haarkonditionierend cetearyl alcohol, emulgierend,
 - Einheitenanzahltyp: milliliter
 - Anzahl der einheiten: 240.0
 - Elementanzeigevolumen: 240.0 milliliters
+- , aqua/water/eau, lösungsmittel propylene glycol, feuchthaltend, lösungsmittel, hautpflegend, viskositätsregelnd cetyl alcohol, geschmeidig machend, emulgierend, trübend, viskositätsregelnd dicetyldimonium chloride, antistatisch, tensid, emulgierend, haarkonditionierend dimethicone, filmbildend stearamidopropyl dimethylamine, antistatisch, emulgierend, tensid, haarkonditionierend behentrimonium chloride, konservierungsstoff, haarkonditionierend cetearyl alcohol, emulgierend,
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08HRSRCCS{{</world>}}

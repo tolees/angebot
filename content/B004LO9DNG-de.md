@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 🍓 ORIGINAL WECK GLÄSER: WECK Gläser sind seit mehr als 100 Jahren in jeder Küche zu finden. Mittlerweile hat sich das Weck Glas zu einem Multitalent gemausert: Zum Präsentieren, zur Deko, zum Bevorraten, zum Einfrieren, für Salz und viele andere tolle Zwecke.
-- 🍓 DIE MARKE: Hinter der Marke APS steht ein deutsches Traditionsunternehmen, welches seit Jahrzehnten über fundierte Kenntnisse in der Herstellung von Gastronomie- und Servierartikeln verfügt. Das Familienunternehmen befindet sich bereits in der vierten Generation. Weltweit vertreibt APS Produkte aus den Bereichen Buffet, Tabletop und Bar.
-- 🍓 DATEN: Das 12er-Set Weckgläser besteht aus 12 Tulpenform-Gläsern und 12 Glasdeckeln. Die 12 Gläser haben einen Ø Durchmesser von 7 cm, eine Höhe von 8 cm und fassen ein Volumen von 0,22 Liter.
 - 🍓 VIELSEITIG: Die preiswerten Gläser werden heutzutage für viele Zwecke eingesetzt: Zum nachhaltigen Verpacken, zum dekorativen Aufbewahren oder zum Servieren von Desserts, Kuchen und anderen Speisen.
 - 🍓 REINIGUNG UND GEBRAUCH: Alle Teile sind spülmaschinenfest, ofenfest und für die Mikrowelle geeignet. Temperaturbeständig von -30° bis 180° Celsius.
+- 🍓 DATEN: Das 12er-Set Weckgläser besteht aus 12 Tulpenform-Gläsern und 12 Glasdeckeln. Die 12 Gläser haben einen Ø Durchmesser von 7 cm, eine Höhe von 8 cm und fassen ein Volumen von 0,22 Liter.
+- 🍓 DIE MARKE: Hinter der Marke APS steht ein deutsches Traditionsunternehmen, welches seit Jahrzehnten über fundierte Kenntnisse in der Herstellung von Gastronomie- und Servierartikeln verfügt. Das Familienunternehmen befindet sich bereits in der vierten Generation. Weltweit vertreibt APS Produkte aus den Bereichen Buffet, Tabletop und Bar.
+- 🍓 ORIGINAL WECK GLÄSER: WECK Gläser sind seit mehr als 100 Jahren in jeder Küche zu finden. Mittlerweile hat sich das Weck Glas zu einem Multitalent gemausert: Zum Präsentieren, zur Deko, zum Bevorraten, zum Einfrieren, für Salz und viele andere tolle Zwecke.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B004LO9DNG{{</world>}}

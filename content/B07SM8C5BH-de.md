@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
 - Check out the other Umbrella Academy figures from Funko Collect them all
 - Figure stands 9cm and comes in a window display box
+- Funko POP! is the 2018 Toy of the Year and Peoples Choice award winner
 - From Umbrella Academy, Luther Hargreeves, as a stylized POP vinyl from Funko
 
 [🛒 Hier!!]({{< param buyurl >}})

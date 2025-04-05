@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Shank mm - 8
 - Die Verwendung von Schablonen ist nicht notwendig
-- Abrundfräser zum Profilieren
+- Shank mm - 8
 - Die Anlaufkugellager ermöglichen es, den Fräser direkt am Werkstück zu führen, auch an geschweiften Kanten
+- Abrundfräser zum Profilieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000XIYJXS{{</world>}}

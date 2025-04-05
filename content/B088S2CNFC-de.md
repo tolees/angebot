@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Diese Premium Kamera gibt Hauttöne mit Soft Skin Effect weich und natürlich wieder und sorgt für eine optimale Gesichtsausleuchtung.
+- Mit Product Showcase Setting werden Videorezensionen perfekt aufgenommen und mit Bokeh Switch kann die Hintergrundunschärfe ganz einfach angepasst werden.
 - Die ZV-1 eignet sich mit dem seitlich klappbaren LC-Display, dem Aufnahmelicht für Selfie-Videos, dem sicheren Haltegriff und der einfachen Bedienung perfekt für Vlogging.
 - Die Kamera verfügt über ein direktionales 3-Kapsel-Mikrofon und einen Windschutz für hochqualitativen Sound.
 - Die innovative Echtzeit-Autofokus-Technologie mit Augenerkennung von Sony verfolgt die Augen selbst bei der Aufnahme von 4K Videos kontinuierlich.
-- Diese Premium Kamera gibt Hauttöne mit Soft Skin Effect weich und natürlich wieder und sorgt für eine optimale Gesichtsausleuchtung.
-- Mit Product Showcase Setting werden Videorezensionen perfekt aufgenommen und mit Bokeh Switch kann die Hintergrundunschärfe ganz einfach angepasst werden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B088S2CNFC{{</world>}}

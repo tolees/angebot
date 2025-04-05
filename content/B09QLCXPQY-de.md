@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nightography
-- Ein beeindruckend schneller Prozessor
 - Integrierter S Pen
 - Ausdauernder Akku für lange Tage
+- Nightography
+- Ein beeindruckend schneller Prozessor
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QLCXPQY{{</world>}}

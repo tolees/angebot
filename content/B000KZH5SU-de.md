@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus Aluminium gefertigt
 - 3/8 Zoll Gewinde
+- Aus Aluminium gefertigt
 - Sechseckige Schnellwechselplatte
 
 [🛒 Hier!!]({{< param buyurl >}})

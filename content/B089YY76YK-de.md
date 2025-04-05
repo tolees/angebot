@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entwickelt für ausdrucksstarke Nahaufnahmen in der Natur, mit einer Naheinstellgrenze von 1,3 Metern und einer bis zu 0,29-fachen Vergrößerung (35-mm-equiv. = 0,57-fach).
 - Dank Staub- und Spritzwasserschutz sowie wetterfester Versiegelung der M.Zuiko Pro Objektive erhalten Sie selbst unter schwierigen Umweltbedingungen tolle Fotos.
-- Durch die Bildstabilisation des Objektivs erhalten Sie dank der 3 Korrekturstufen auch bei hohen Zoomwertenbei mit jeder Micro Four Thirds-Kamera gestochen scharfe Bilder.
 - Extrem handlich mit einer Länge von nur 205,7 mm und einem Gewicht von lediglich 1.120 g (nur Objektiv) – ideal für Fotoaufnahmen beliebiger Motive, überall auf der Welt.
+- Durch die Bildstabilisation des Objektivs erhalten Sie dank der 3 Korrekturstufen auch bei hohen Zoomwertenbei mit jeder Micro Four Thirds-Kamera gestochen scharfe Bilder.
 - Erfassen Sie die gewünschten Details mit der Super-Telezoom-Leistung 100 bis 400mm (35-mm-equiv. = 200 bis 800mm) – für Natur-, Landschafts- oder Tierfotografie und vieles mehr.
+- Entwickelt für ausdrucksstarke Nahaufnahmen in der Natur, mit einer Naheinstellgrenze von 1,3 Metern und einer bis zu 0,29-fachen Vergrößerung (35-mm-equiv. = 0,57-fach).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B089YY76YK{{</world>}}

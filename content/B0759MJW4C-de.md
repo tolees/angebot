@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- POP! Vinylfigur
 - dc
 - DC Bombshells Hawkgirl
+- POP! Vinylfigur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0759MJW4C{{</world>}}

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intuitives TFT-Display: Wählen Sie mit dem benutzerfreundlichen Touchscreen dieser Espressomaschine mühelos Ihr Getränk aus – mit dem Coffee Customiser können Sie Aromastärke und Kaffeemenge anpassen
 - Speicherfunktion: Bis zu 4 Personen können ihre ganz persönlichen Kaffeevorlieben speichern und mit der Coffee Customiser Funktion Intensität, Stärke und Milchmenge jedes Kaffees nach Wunsch anpassen
+- Fassungsvermögen des Wasserbehälters: 1.8 L
+- Intuitives TFT-Display: Wählen Sie mit dem benutzerfreundlichen Touchscreen dieser Espressomaschine mühelos Ihr Getränk aus – mit dem Coffee Customiser können Sie Aromastärke und Kaffeemenge anpassen
+- Samtig-cremiger Schaum: Bereiten Sie mit dem LatteGo System samtig-cremigen Milchschaum zu – es besteht aus nur zwei spülmaschinenfesten Teilen und ist daher leicht zu reinigen
 - Fassungsvermögen für Kaffeebohnen: 275 g
 - Intensität Verstärken: Mit der ExtraShot Funktion erhalten Sie einen kräftigeren Geschmack ohne zusätzliche Bitterkeit
-- Fassungsvermögen des Wasserbehälters: 1.8 L
-- Samtig-cremiger Schaum: Bereiten Sie mit dem LatteGo System samtig-cremigen Milchschaum zu – es besteht aus nur zwei spülmaschinenfesten Teilen und ist daher leicht zu reinigen
 - 12 Kaffeespezialitäten auf Fingertipp: Genießen Sie Ihren Lieblingskaffee, vom kräftigen Espresso bis zum milden Cappuccino
 
 [🛒 Hier!!]({{< param buyurl >}})

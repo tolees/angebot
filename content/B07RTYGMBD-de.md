@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Victron Energy Smart Battery Sense ist ein kabelloser Batteriespannungs- und Temperatursensor für Victron MPPT-Solarladegeräte
-- Es verwendet VE.Smart Network - eine drahtlose Technologie, die auf Bluetooth Smart basiert
 - 5 Jahre Garantie
-- Abmessungen: 2 x 3 x 3 Zoll (5,08 x 7,62 x 7,62 cm)
 - Mit der Spannungs- und Temperaturüberwachung werden die Batterien besser geladen, was die Ladeeffizienz verbessert und die Lebensdauer der Batterien verlängert
+- Abmessungen: 2 x 3 x 3 Zoll (5,08 x 7,62 x 7,62 cm)
+- Es verwendet VE.Smart Network - eine drahtlose Technologie, die auf Bluetooth Smart basiert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RTYGMBD{{</world>}}

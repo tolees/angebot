@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite: Normale
-- Absatzform: Kein Absatz
-- Strap: Ankle Strap
-- Innenmaterial: Tissue
 - Obermaterial: Synthetik
+- Schuhweite: Normale
+- Strap: Ankle Strap
+- Absatzform: Kein Absatz
+- Innenmaterial: Tissue
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BGGTDJRQ{{</world>}}

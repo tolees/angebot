@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - VON DEN COMICS INSPIRIERTER NAMOR: Diese sammelwürdige Namor Action-Figur ist von der Erscheinung des Charakters in den Marvel Comics Namor the Sub-Mariner inspiriert
-- DER SUB-MARINER: Halb-Mensch, Halb-Atlanter. Der Mutant Namor kämpft immer auf der Seite des Königreichs von Atlantis
-- VON DEN MARVEL COMICS INSPIRIERTE ACCESSOIRES: Diese offizielle lizenzierte Hasbro Marvel Legends Action-Figur kommt mit 5 Accessoires wie einem Dreizack und 2 Sets austauschbarer Hände
 - PREMIUM-DESIGN UND DEKOR: Fans und Sammler können diese 15 cm große Marvel Premium-Figur in ihrer eigenen Kollektion präsentieren. Sie verfügt über ein Design und Dekor zu den Comics
 - ENTHÄLT BUILD-A-FIGURE ELEMENTE (MARVELS THE VOID): Enthält 2 Build-A-Figure Elemente (Arme) und 2 austauschbare Hände. Wer weitere Marvel Legends Figuren sammelt, kann die zusätzliche Figur erstellen (weitere Figuren sind jeweils separat erhältlich)
-- EIN MULTIVERSUM AUS MARVEL SAMMELFIGUREN ERSCHAFFEN: Es können noch weitere Marvel Legends Figuren gesammelt werden, um ein eigenes Marvel Comic Multiverse zu erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- VON DEN MARVEL COMICS INSPIRIERTE ACCESSOIRES: Diese offizielle lizenzierte Hasbro Marvel Legends Action-Figur kommt mit 5 Accessoires wie einem Dreizack und 2 Sets austauschbarer Hände
 - PRÄSENTATIONSWÜRDIGE BEWEGLICHKEIT: Die Sammelfigur verfügt über 20 Bewegungspunkte mit einem vollbeweglichen Kopf, Armen und Beinen, um sie auf dem eigenen Regal in einer dynamischen Pose in Szene zu setzen
+- EIN MULTIVERSUM AUS MARVEL SAMMELFIGUREN ERSCHAFFEN: Es können noch weitere Marvel Legends Figuren gesammelt werden, um ein eigenes Marvel Comic Multiverse zu erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- DER SUB-MARINER: Halb-Mensch, Halb-Atlanter. Der Mutant Namor kämpft immer auf der Seite des Königreichs von Atlantis
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFZK7Y5F{{</world>}}

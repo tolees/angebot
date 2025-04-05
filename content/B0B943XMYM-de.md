@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einbaumaße: 68x30mm DxH
-- Welche komponenten sind im lieferumfang des produkts enthaltenen: Montagematerial
-- Die hohe durchschnittliche Lebensdauer liegt bei ca. 20.000 Stunden. Die LED Spots sind ultraflach und haben die Produktabmessungen: 86x30 mm DxH
 - Die Besonderheiten dieser modernen LED Einbauleuchten sind die ultraflache Bauweise von 30 mm Höhe und der Strahlwasserschutz sowie Staubschutz durch die Schutzart IP65
-- Elementform: Kreis Wattage: 3.0 watts Spannung: 230.0 volts
-- Anzahl der einheiten: 1.0
-- Die LED Module überzeugen mit je 3 Watt und je 350 Lumen Helligkeit. Eine Farbtemperatur von 4.000 Kelvin erzeugt eine neutralweiße Lichtfarbe
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse E
 - Anzahl der artikel: 1
+- Welche komponenten sind im lieferumfang des produkts enthaltenen: Montagematerial
+- Die LED Module überzeugen mit je 3 Watt und je 350 Lumen Helligkeit. Eine Farbtemperatur von 4.000 Kelvin erzeugt eine neutralweiße Lichtfarbe
+- Anzahl der einheiten: 1.0
+- Einbaumaße: 68x30mm DxH
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse E
+- Elementform: Kreis Wattage: 3.0 watts Spannung: 230.0 volts
+- Die hohe durchschnittliche Lebensdauer liegt bei ca. 20.000 Stunden. Die LED Spots sind ultraflach und haben die Produktabmessungen: 86x30 mm DxH
 - Durch das ultraflache Design fügen sich die LED Einbaulampen optimal in Ihre Räumlichkeiten wie Wohnzimmer, Küche, Büro oder Flur ein. Dank der Schutzart IP65 können sie ebenfalls als Badleuchten und Werkstattlampen verwendet werden
 
 [🛒 Hier!!]({{< param buyurl >}})

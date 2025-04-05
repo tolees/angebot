@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MIRÁCOLI Pasta Saucen - Ob auf Pasta, Nudeln, Pizza, Bruschetta, in Suppen oder Aufläufen: so vielfältig wie die italienische Küche
-- Geeignet für Veganer
 - Ohne künstliche Konservierungs, Farb- und Aromastoffe
 - Frische, sonnengereifte Tomaten und ausgewählte Gourmet-Kräuter machen diese Sauce zu einem mediterranen Klassiker
+- MIRÁCOLI Pasta Saucen - Ob auf Pasta, Nudeln, Pizza, Bruschetta, in Suppen oder Aufläufen: so vielfältig wie die italienische Küche
+- Geeignet für Veganer
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01HYXJJ5M{{</world>}}

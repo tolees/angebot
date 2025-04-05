@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Basisnote: Eichenmoos, Zeder
-- Duftnoten: zitrus, frisch
 - Kopfnote: Bergamotte, Zitrone
 - Herznote: Galbanum, Muskatellersalbei
+- Duftnoten: zitrus, frisch
+- Basisnote: Eichenmoos, Zeder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003X5KAA4{{</world>}}

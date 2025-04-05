@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuerung über Google Assistant oder Amazon Alexa möglich
-- RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
-- Farbtemperatur: 3.000 K (Warm White)
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse E
-- Steuerbar über LEDVANCE SMART+ WiFi App (mit mindestens Android 4.4 oder iOS 9.0)
 - Dimmbar
+- Steuerbar über LEDVANCE SMART+ WiFi App (mit mindestens Android 4.4 oder iOS 9.0)
+- Farbtemperatur: 3.000 K (Warm White)
+- RGB-Farbsteuerung, ca. 16 Mio. Farbmöglichkeiten einstellbar
+- Steuerung über Google Assistant oder Amazon Alexa möglich
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse E
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08THNT9PK{{</world>}}

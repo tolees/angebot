@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- VIELSEITIGE NESPRESSO TASSENGRÖßEN: Eine Nespresso-Kaffeemaschine für vier verschiedene Tassengrößen: Tasse Kaffee, Gran Lungo, doppelter Espresso und Espresso, über drei verschiedene Kaffeekapselgrößen.
 - HOHER KOMFORT UND FLEXIBILITÄT: Einfache Bedienung mit einem einzigen Knopfdruck, automatischer Auswurf der Kaffeekapsel.
+- VIELSEITIGE NESPRESSO TASSENGRÖßEN: Eine Nespresso-Kaffeemaschine für vier verschiedene Tassengrößen: Tasse Kaffee, Gran Lungo, doppelter Espresso und Espresso, über drei verschiedene Kaffeekapselgrößen.
 - FORTGESCHRITTENE TECHNOLOGIEN: Dank intelligenter Bluetooth-Technologie und WLAN sorgt die Vertuo Pop-Kaffeemaschine dafür, dass Sie mit automatischen Software-Updates immer das beste und aktuelle Nespresso-Kaffee-Erlebnis erhalten.
 - ERFRISCHENDES UND BUNTES DESIGN: Erhältlich in einer Auswahl an leuchtenden Farben.
 - JEDE TASSE EIN PERFEKTES ERGEBNIS: Frisch gebrühter Nespresso-Kaffee mit dichter Crema und vollmundigem Kaffee.

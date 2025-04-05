@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 3x DVD-Hüllen
 - Mit Folie zum Einschieben des Original-Covers oder eines selbst gestalteten Covers
-- Vorteilspack: Drei stabile Leerhüllen zur Aufbewahrung von je sechs DVDs/CDs/Blu-rays, Archivierung von insgesamt 18 Datenträgern (Maße: 19,1x 13,6x 2,7 cm)
 - DVD-Halterung mit Drückmechanismus: sicheres Fixieren und einfaches Herausnehmen
+- Vorteilspack: Drei stabile Leerhüllen zur Aufbewahrung von je sechs DVDs/CDs/Blu-rays, Archivierung von insgesamt 18 Datenträgern (Maße: 19,1x 13,6x 2,7 cm)
+- Lieferumfang: 3x DVD-Hüllen
 - Klemmhalterungen im Inneren zur praktischen Aufbewahrung des Booklets zusammen mit der DVD/CD/Blu-ray
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit diesem vielseitigen, farbenfrohen LEGO Kleinkinder Spielzeug ab 2 Jahre können Eltern wertvolle Entwicklungsschritte in der Motorik mit ihrem Vorschulkind teilen
 - Nach dem Rennen mit dem Kleinkinder Spielzeug wird die Startaufstellung zu einem Podium umgebaut, auf dem sich die Fahrer mit einer Trophäe feiern lassen können
-- Dieses LEGO DUPLO Rennwagen-Spielzeug enthält zwei Spielzeugautos ab 2 Jahre, eine Startaufstellung für den Aufbau des Rennens und viele Werkzeuge zur Autopflege
 - Enthalten sind eine männliche und eine weibliche DUPLO Rennfahrerfiguren mit Helmen für fantasievollen Spaß und spannende Rollenspielmöglichkeiten zum Teilen
+- Dieses LEGO DUPLO Rennwagen-Spielzeug enthält zwei Spielzeugautos ab 2 Jahre, eine Startaufstellung für den Aufbau des Rennens und viele Werkzeuge zur Autopflege
 - Zum Zubehör gehören eine Trophäe, Flaggen, eine Ladestation für Elektrofahrzeuge, eine Seilwinde, 2 Kegel, 2 Benzinkanister und eine Bürste zum Reinigen der Spielzeugautos
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

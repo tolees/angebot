@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Datensicherung per Knopfdruck (Auto-Backup)
-- USB 3.1 Gen 1 Schnittstelle mit Unterstützung von UASP (USB Attached SCSI Protocol)
 - Langlebiges, stoß- und rutschfestes Silikongehäuse mit Anti-Shock-Technologie (dreistufig)
+- USB 3.1 Gen 1 Schnittstelle mit Unterstützung von UASP (USB Attached SCSI Protocol)
 - LED Statusleuchte zeigt Betrieb und Datentransfer an, Stromversorgung per USB-Anschluss
 - Inklusive der Transcend Elite-Datenmanagement-Software und RecoveRx-Datenrettungssoftware
 

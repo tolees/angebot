@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Flammgarnstruktur, Melange-Effekte
+- Tunnelzugband an der Kapuze
 - Brusttasche und Logo Print auf der linken Vorderseite
 - gefütterte Kapuze mit Logo Print innen
-- Flammgarnstruktur, Melange-Effekte
 - Kontrastnähte
-- Tunnelzugband an der Kapuze
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5CLCWR{{</world>}}

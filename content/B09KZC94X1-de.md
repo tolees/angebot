@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Audiophile Klangleistung
 - 3,5 mm langes Kabel im Lieferumfang enthalten
-- Ultraleichtes Edelstahlgehäuse
 - Weiche Schaumstoff-Ohrpolster
+- Ultraleichtes Edelstahlgehäuse
 - Offener Rücken, On-Ear-Design, Retro-Look
 
 [🛒 Hier!!]({{< param buyurl >}})

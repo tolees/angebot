@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GORE-TEX INFINIUM mit WINDSTOPPER Produkttechnologie: Winddicht, stark wasserabweisend und extrem atmungsaktiv
-- Schmale Passform für eine sportliche Silhouette und hervorragende Beweglichkeit/Bike-Spezifischer Schnitt
 - Warme Herren Jacke, Ideal bei kalten Wetterbedingungen
+- GORE-TEX INFINIUM mit WINDSTOPPER Produkttechnologie: Winddicht, stark wasserabweisend und extrem atmungsaktiv
 - 3-teilige Rückentasche mit Spritzwasserschutz, Verlängerte Rückenpartie, Fleece-Innenfutter für Wärmeschutz
+- Schmale Passform für eine sportliche Silhouette und hervorragende Beweglichkeit/Bike-Spezifischer Schnitt
 - GORE C3 GORE-TEX INFINIUM Thermo Jacket, Größe: XL, Farbe: Schwarz, 100644
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

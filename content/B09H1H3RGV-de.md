@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- AUTHENTISCHE DETAILS WIE IN DER SERIE: Der Raumstein Tesserakt kommt in einem Design und mit wechselnden Lichteffekten, die von der Serie inspiriert sind und ähnelt so dem Stein aus den Marvel Filmen und Serien
 - VON DER SERIE INSPIRIERTE LICHTEFFEKTE: Durch einen Druck auf den Knopf lassen sich zwei verschiedene Licht-Modi aktivieren, die den Tesserakt beleuchten und die immense Kraft des Raumsteins symbolisieren
 - TÜR ZUR ANDEREN SEITE DES WELTALLS: Als erster Rollenspielartikel seiner Art aus der Marvel Legends Serie, seit der limitierten Veröffentlichung zur San Diego Comic Con 2018, stellt dieser Tesserakt eine wesentliche Ergänzung jeder Marvel Sammlung dar
-- AUTHENTISCHE DETAILS WIE IN DER SERIE: Der Raumstein Tesserakt kommt in einem Design und mit wechselnden Lichteffekten, die von der Serie inspiriert sind und ähnelt so dem Stein aus den Marvel Filmen und Serien
 - ENTHÄLT LOKI FIGUR: Der Tesserakt kommt mit einer 15 cm großen Loki Action-Figur mit Premium Design und Details sowie einem von der Serie inspirierten Dolch mit Flammen als Accessoire
 
 [🛒 Hier!!]({{< param buyurl >}})

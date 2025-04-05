@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alles im Blick: Transparente Schubladen aus Polypropylen für gute Sichtbarkeit des Inhalts
 - Stabiles System: Durch robusten und bruchfesten Kunststoffrahmen
-- Flexible Module: Kleinteilemagazine können ineinander gesteckt werden
+- Alles im Blick: Transparente Schubladen aus Polypropylen für gute Sichtbarkeit des Inhalts
 - Alles aufgeräumt: Geeignet zur Wandmontage
+- Flexible Module: Kleinteilemagazine können ineinander gesteckt werden
 - Lieferumfang: 1x Stanley Kleinteilemagazin mit 30 Schubladen, 12 Monate Hersteller bei sachgerechter Benutzung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

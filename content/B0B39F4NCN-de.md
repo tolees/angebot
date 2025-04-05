@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sie ist ca. 18 cm groß und wird mit weiterem Zubehör und Base in einer Fensterbox geliefert
-- Zum Comic "Spawn" kommt diese detailreiche, bewegliche Actionfigur
 - Die im "Ultra Articulation"-Design entworfene Figur verfügt über 22 Artikulationspunkte und kommt mit einer Sammelkarte mit Charakter-Biografie auf der Rückseite
+- Zum Comic "Spawn" kommt diese detailreiche, bewegliche Actionfigur
+- Sie ist ca. 18 cm groß und wird mit weiterem Zubehör und Base in einer Fensterbox geliefert
 - Spawn Actionfigur Manga Spawn McFarlane Designer Edition (SDCC) 18 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

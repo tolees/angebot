@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Machen Sie verlustfreie 4K UHD Videoaufzeichnungen dank UHS Speed Klasse 3 (U3) und Video Speed Klasse 30 (V30) mit der SD Karte für Kamera
+- Lieferumfang: SanDisk Extreme SDXC UHS-I Speicherkarte 64 GB (V30, 170 MB/s Übertragung, U3, 4K UHD Videos, SanDisk QuickFlow-Technologie, wasserdicht, stoßfest, temperaturbeständig)
 - Die SDXC Speicherkarte ist für extreme Bedingungen ausgelegt und ist dazu temperaturbeständig, wasserdicht, stoßfest und röntgensicher
 - In Kombination mit dem SanDisk PROFESSIONAL PRO‑READER für SD- und microSD-Karten erreichen Sie die maximale Geschwindigkeit (separat erhältlich)
-- Lieferumfang: SanDisk Extreme SDXC UHS-I Speicherkarte 64 GB (V30, 170 MB/s Übertragung, U3, 4K UHD Videos, SanDisk QuickFlow-Technologie, wasserdicht, stoßfest, temperaturbeständig)
 - Die SD Karte spart Zeit beim Übertragen mit bis zu 170 MB/s dank SanDisk QuickFlow-Technologie; Die Software RescuePRO Deluxe ermöglicht das Wiederherstellen von versehentlich gelöschten Bildern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

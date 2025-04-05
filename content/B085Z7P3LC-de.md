@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gleichzeitige Übertragung von Dateien von SD und microSD Steckplätzen auf den Computer
 - Zwei Jahre beschränkte Garantie
+- Gleichzeitige Übertragung von Dateien von SD und microSD Steckplätzen auf den Computer
 - Perfekt für den schnellen Datentransfer unterwegs
 - Abwärtskompatibel zu SD und microSD UHS-I Karten (bis zu 170 MB/s)
 - Kompaktes und tragbares Design

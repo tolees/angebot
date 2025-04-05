@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Doppelt isoliertes Kabel, getestet auf 3-fachen Biegewinkel, bietet erhöhte Zuverlässigkeit und Haltbarkeit
-- CAT IV 600 V, CAT III 690 V Sicherheitsbewertung
-- Umschaltbare Last: Vermeiden Sie die Anzeige von Geisterspannungen, sodass Sie mehr Strom aus dem getesteten Schaltkreis ziehen können und RCDs vermeiden
 - Entwickelt nach IEC EN 61243-3:2014 zum Nachweis der Spannungsfreiheit - auch bei entladenen Batterien.
+- Umschaltbare Last: Vermeiden Sie die Anzeige von Geisterspannungen, sodass Sie mehr Strom aus dem getesteten Schaltkreis ziehen können und RCDs vermeiden
+- CAT IV 600 V, CAT III 690 V Sicherheitsbewertung
+- Doppelt isoliertes Kabel, getestet auf 3-fachen Biegewinkel, bietet erhöhte Zuverlässigkeit und Haltbarkeit
 - Mit 4 Möglichkeiten, um das Vorhandensein von Spannung anzuzeigen - LED-Anzeige, LCD-Display, akustischer Ton oder taktile Rückmeldung; immer wissen, ob gefährliche Spannung vorhanden ist (Digitalanzeige auf T130, T150, Vibrationsanzeige auf T110, T130, T150)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

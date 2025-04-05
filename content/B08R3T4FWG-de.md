@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Fleece-Material
 - Reißverschlusstaschen
 - Kordelzug im Bund
 - Weite Passform
-- Fleece-Material
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08R3T4FWG{{</world>}}

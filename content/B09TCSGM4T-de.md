@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Modernes Design: Durch ihr unauffälliges, kompaktes Design mit den Maßen von 5,9 x 4,9 x 6,1 cm passt die smarte Steckdose von WiZ in jedes Interieur
+- Flexible Lichtsteuerung: Über WLAN oder Bluetooth verbunden, können beliebige Lichtszenen per WiZmote Fernbedienung, Sprachbefehl oder ortsunabhängig per App abgerufen werden
 - Unbegrenzte Möglichkeiten: Der WiZ Smart Plug macht eine Vielzahl herkömmlicher Geräte smart und ist somit die perfekte Ergänzung für jedes Smart Home
 - Integrierter Stromverbrauchsmesser: Das eingebaute Powermeter misst den Stromverbrauch der Steckdose, welcher in der WiZ App übersichtlich dargestellt wird
 - Keine Neuverkabelung notwendig: Einfach eingesteckt, verbindet die Smart Plug Steckdose die Lampe oder das Gerät mit dem WiZ System für eine komfortable Bedienung
-- Flexible Lichtsteuerung: Über WLAN oder Bluetooth verbunden, können beliebige Lichtszenen per WiZmote Fernbedienung, Sprachbefehl oder ortsunabhängig per App abgerufen werden
-- Modernes Design: Durch ihr unauffälliges, kompaktes Design mit den Maßen von 5,9 x 4,9 x 6,1 cm passt die smarte Steckdose von WiZ in jedes Interieur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TCSGM4T{{</world>}}

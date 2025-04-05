@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Essenzen grüner Früchte
 - Erfrischt die Haut
+- Essenzen grüner Früchte
 - Sinnlich feminin
 
 [🛒 Hier!!]({{< param buyurl >}})

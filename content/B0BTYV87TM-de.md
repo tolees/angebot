@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- original EnerGel-Tinte, schreibt sanft, trocknet schnell, ideal für Linkshänder
-- nachfüllbar mit Mine LR7 und allen anderen EnerGel Minen
-- Druckmechanik und Metallclip, gummierte Griffzone, 79% Recycling Anteil
-- 0,35 mm Strichstärke = 0.7 mm ball, Schreibfarbe Schwarz
 - Pentel EnerGel Eco Liquid Gel-Tintenroller
+- original EnerGel-Tinte, schreibt sanft, trocknet schnell, ideal für Linkshänder
+- Druckmechanik und Metallclip, gummierte Griffzone, 79% Recycling Anteil
+- nachfüllbar mit Mine LR7 und allen anderen EnerGel Minen
+- 0,35 mm Strichstärke = 0.7 mm ball, Schreibfarbe Schwarz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BTYV87TM{{</world>}}

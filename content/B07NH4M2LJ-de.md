@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vielseitige Aufnahmemöglichkeiten durch Triple-Kamera
+- Bis zu 512 GB erweiterbarer Speicher für Fotos, Musik u.v.m. über microSD
 - Längere Laufzeit mit dem leistungsstarken 4.000 mAh1 Akku
 - 25 Megapixel-Frontkamera für gelungene Selfies
-- Bis zu 512 GB erweiterbarer Speicher für Fotos, Musik u.v.m. über microSD
+- Vielseitige Aufnahmemöglichkeiten durch Triple-Kamera
 - Optischer Fingerabdruckscanner im Display für komfortables Entsperren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

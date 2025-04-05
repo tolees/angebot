@@ -30,11 +30,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Hergestellt in Deutschland
 - 0
-- HP 12c Platinum
-- Hergestellt in Deutschland
 - Hewlett-Packard
 - Hergestellt in Deutschland
 - 0
+- HP 12c Platinum
+- Hergestellt in Deutschland
 - HP 12c Platinum
 - HP 12c Platinum
 

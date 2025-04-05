@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GröÃŸe: M
 - Farbe: Black, Graphite Heather
+- GröÃŸe: M
 - Columbia Inner Limits II wasserdichte Jacke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

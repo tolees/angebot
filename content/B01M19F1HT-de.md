@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Steckdosenleiste mit zweipoligem Schalter bietet den Vorteil, dass der Stromkreislauf vollständig unterbrochen und auf den Standby-Modus verzichtet wird – reduzieren Sie Ihren Energieverbrauch spürbar
-- Ideal geeignet für Winkelstecker und den Betrieb von Netzgeräten, da 90° Winkel Anordnung der Steckdosen
-- Mehrfachstecker mit praktischen Befestigungsösen zur Wandmontage
-- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
-- 4er Schutzkontakt-Steckdosenleiste mit 2m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
 - Lieferumfang: 1 x Comfort-Line Plus Steckerleiste in der Farbe weiß mit extra breiten Abständen und Flachstecker - in bester Qualität von brennenstuhl
+- Mehrfachstecker mit praktischen Befestigungsösen zur Wandmontage
+- Ideal geeignet für Winkelstecker und den Betrieb von Netzgeräten, da 90° Winkel Anordnung der Steckdosen
+- 4er Schutzkontakt-Steckdosenleiste mit 2m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
+- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01M19F1HT{{</world>}}

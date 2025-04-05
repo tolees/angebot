@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Multifunktional: Nutzen Sie den USB C auf HDMI Adapter, um über den USB C-Ausgang Ihres Laptops eine Verbindung zu Ihrem Monitor, TV oder Beamer herzustellen
-- Bitte beachten: Wir möchten darauf hinweisen, dass das MacBook 12“ baubedingt lediglich eine maximale Auflösung von 4K/30Hz unterstützt
 - 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
+- Bitte beachten: Wir möchten darauf hinweisen, dass das MacBook 12“ baubedingt lediglich eine maximale Auflösung von 4K/30Hz unterstützt
+- Multifunktional: Nutzen Sie den USB C auf HDMI Adapter, um über den USB C-Ausgang Ihres Laptops eine Verbindung zu Ihrem Monitor, TV oder Beamer herzustellen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07G1BNNRD{{</world>}}

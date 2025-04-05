@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sicherungsgerät mit Blockierunterstützung zur Erleichterung der Sicherungsmanöver in der Halle und am Fels.
 - Geeignet für alle Anwenderinnen und Anwender zum Sichern im Vorstieg und im Toprope. Vereinfacht das Auschecken von Kletterrouten.
-- Kompatibel mit allen dynamischen Einfachseilen von 8,5 bis 11 mm und optimiert für Durchmesser von 8,9 bis 10,5 mm.
-- Gleichmäßiges, komfortables Ablassen durch die progressive Regulierung des Seildurchlaufs. Komfortables Handling des Hebels zum einfachen Lösen des Seils.
 - Sicherungskomfort dank Blockierunterstützung durch Klemmnocken: Bei einem Sturz oder einer Rast des Kletterers spannt sich das Seil, der Klemmnocken dreht sich und greift in das Seil, um es zu blockieren.
+- Gleichmäßiges, komfortables Ablassen durch die progressive Regulierung des Seildurchlaufs. Komfortables Handling des Hebels zum einfachen Lösen des Seils.
+- Kompatibel mit allen dynamischen Einfachseilen von 8,5 bis 11 mm und optimiert für Durchmesser von 8,9 bis 10,5 mm.
+- Sicherungsgerät mit Blockierunterstützung zur Erleichterung der Sicherungsmanöver in der Halle und am Fels.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07MLTP3S4{{</world>}}

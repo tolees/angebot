@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- - 3G-Netzwerk: HSDPA 850/900/1900/2100
 - - 4G-Netzwerk: LTE
-- - Typ: Smartphone
 - - 5G-Netzwerk: 5G
 - - 2G-Netzwerk: GSM 850/900/1800/1900
+- - 3G-Netzwerk: HSDPA 850/900/1900/2100
+- - Typ: Smartphone
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09VNRF588{{</world>}}

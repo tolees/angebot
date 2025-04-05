@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Material: Griff aus Buchenholz, Funktionsteil aus Edelstahl - leichte Reinigung per Hand
 - Lieferumfang: 1 x Deko-Ausstecher - in bewährter Qualität von Fackelmann
-- Multitalent: Egal ob Käse, Obst oder Gemüse, der Ausstecher formt aus allem süß geformte Häppchen
 - Maße: ca. 16,5 x 2,5 x 2,5 cm
+- Multitalent: Egal ob Käse, Obst oder Gemüse, der Ausstecher formt aus allem süß geformte Häppchen
 - Praktisch: Die ergonomisch geformte Griff liegt perfekt in der Hand
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

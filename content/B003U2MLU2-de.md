@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steckerleiste: Intelligentes Kabelmanagement mit unserem weißen Multistecker. Zum Anschluss verschiedenster Elektro-Artikel geeignet. Auch zum Befestigen an der Wand geeignet.
-- Qualität: as Schwabe überzeugt seit über 35 Jahren mit höchster Qualität im Bereich Elektrotechnik. Unser Name steht für schwäbische Präzision, Zuverlässigkeit und Innovation.
-- Material: Die Mehrfachsteckdose besteht aus robusten Materialien. Einfache Handhabung durch großen Stecker für alle handelsüblichen Steckdosen. IP20 Zertifizierung für die Verwendung im Innenbereich.
-- Design: Helles Design für Bürozubehör. Mehrzweck dreifach Steckleiste auch für den privaten Gebrauch! Durch die 45 Grad gedrehten Steckdosen haben Sie auch Platz für größere Netzteile nebeneinander.
 - Spiralkabel: Die Leiste verfügt über ein 1 Meter langes Kabel H05VV-F 3G 1,5, welches sich auf ca. 2,5 Meter ausdehnen lässt – durch die kompakte Leitung muss man kein Kabel mehr mühselig verstauen.
+- Qualität: as Schwabe überzeugt seit über 35 Jahren mit höchster Qualität im Bereich Elektrotechnik. Unser Name steht für schwäbische Präzision, Zuverlässigkeit und Innovation.
+- Design: Helles Design für Bürozubehör. Mehrzweck dreifach Steckleiste auch für den privaten Gebrauch! Durch die 45 Grad gedrehten Steckdosen haben Sie auch Platz für größere Netzteile nebeneinander.
+- Material: Die Mehrfachsteckdose besteht aus robusten Materialien. Einfache Handhabung durch großen Stecker für alle handelsüblichen Steckdosen. IP20 Zertifizierung für die Verwendung im Innenbereich.
+- Steckerleiste: Intelligentes Kabelmanagement mit unserem weißen Multistecker. Zum Anschluss verschiedenster Elektro-Artikel geeignet. Auch zum Befestigen an der Wand geeignet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003U2MLU2{{</world>}}

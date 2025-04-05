@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne Beutel & Kabel - Kein teurer Beutelnachkauf und störende Kabel: Als beutelloser Wischsauger mit langlebigem 24V Lithium-Ionen-Akku saugt er bis zu 22 Minuten lang - ca. 65m²
 - Lieferumfang - 1 x Leifheit Regulus Aqua PowerVac, Nass- und Trockensauger mit Mikrofaserwalze, 1 x Parkstation, 1 x Netzkabel, 1 x zusätzliche Filter, Art. Nr. 11914
 - Zwei-Tank-System - die Trennung von Frisch- und Schmutzwasser ermöglicht eine besonders hygienische Reinigung. Leicht zu entnehmende Wassertanks zum einfachen Befüllen und Entleeren
 - Praktisch - der elektrische Bodenwischer eignet sich für Fliesen-, Kunststoff-, Stein- und versiegelte Holzböden. Er verfügt über ein Selbstreinigungssystem und eine Tank Control Technology
+- Ohne Beutel & Kabel - Kein teurer Beutelnachkauf und störende Kabel: Als beutelloser Wischsauger mit langlebigem 24V Lithium-Ionen-Akku saugt er bis zu 22 Minuten lang - ca. 65m²
 - Eco & Turbo - Für noch mehr Power lässt sich die Saugkraft des Reinigers von "Eco" auf "Turbo" umstellen. Die rotierende Mikrofaserwalzen mit 3000 Umdrehungen pro Minute entfernt Flecken ganz leicht
 
 [🛒 Hier!!]({{< param buyurl >}})

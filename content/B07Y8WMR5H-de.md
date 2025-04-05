@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Umlaufende Kantenbeleuchtung für ein immersives Gaming-Erlebnis: Dank 19 Beleuchtungszonen wird jede Seite hell ausgeleuchtet, um Gaming-Immersion in einer völlig neuen Dimension zu bieten, vor allem wenn Ereignisse im Spiel wie Frags, Countdowns und Gesundheitsänderungen per Beleuchtung signalisiert werden.
-- Ultra dünn mit rutschfester Unterseite für sicheres, ungehindertes Gameplay: Das Razer Firefly V2 ist nur 3 mm dünn, so dass der Handballen bequem auf dem Tisch ruht, während die rutschfeste gummierte Unterseite das Mauspad selbst in der Hitze des Gefechts an Ort und Stelle hält.
 - Powered by Razer Chroma für RGB-Beleuchtung ohne Grenzen: Das hellste Razer Chroma Mauspad aller Zeiten — die ganze Pracht von 16,8 Millionen individuell anpassbaren Farben mit nahtloser Razer Chroma Integration für ein persönliches Gaming-System.
 - Mikrotexturierte Oberfläche für pixelgenaues Tracking, kalibriert für alle Maussensoren: Die im Labor getestete Oberfläche verfügt über ein mikrotexturiertes Finish, damit Maus- und Cursor-Bewegungen präzise und flüssig bleiben und optimal gezielt und manövriert werden kann.
 - Optimierte Oberflächenbeschichtung für schnelle und kontrollierte Spielstile: Entwickelt und getestet von E-Sport-Athleten vom Team Razer, damit genau der Bewegungswiderstand gewährleistet ist, der für die absolute Kontrolle des Spielgeschehens nötig ist.
+- Ultra dünn mit rutschfester Unterseite für sicheres, ungehindertes Gameplay: Das Razer Firefly V2 ist nur 3 mm dünn, so dass der Handballen bequem auf dem Tisch ruht, während die rutschfeste gummierte Unterseite das Mauspad selbst in der Hitze des Gefechts an Ort und Stelle hält.
 - Komplett neuer integrierter Kabelhalter für minimalen Bewegungswiderstand: Der integrierte Kabelhalter beugt ganz einfach verhedderten und verknoteten Kabeln vor und verringert den Bewegungswiderstand auf ein Minimum.
 
 [🛒 Hier!!]({{< param buyurl >}})

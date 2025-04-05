@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 192333042809
 - Clinique
+- 192333042809
 - 2 ans
 
 [🛒 Hier!!]({{< param buyurl >}})

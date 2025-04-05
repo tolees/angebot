@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Für Lagerung und Reisen einfach zu falten
 - 2-in-1-Ventil mit extraweiten Öffnungen für schnelles Aufblasen und Ablassen
-- Luftpumpe nicht enthalten
 - Bequeme Matratze beim Campen
+- Luftpumpe nicht enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07LGVS2TG{{</world>}}

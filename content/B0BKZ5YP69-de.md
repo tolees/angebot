@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Textil / Leder
 - Innenmaterial: Synthetik
 - Sohle: Gummi
 - Verschluss: Schnürung
+- Obermaterial: Textil / Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BKZ5YP69{{</world>}}

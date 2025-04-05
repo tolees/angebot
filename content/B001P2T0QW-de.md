@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Qualität - Made in Germany
 - Spieldauer: ab 10 Minuten
 - 2 bis 8 Spieler
-- 110 Karten mit edler Leinenprägung
 - Alter: ab 10 Jahren
+- Qualität - Made in Germany
+- 110 Karten mit edler Leinenprägung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001P2T0QW{{</world>}}

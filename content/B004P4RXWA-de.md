@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - KINDERLEICHTER BASTELSPASS: PlayMais mithilfe des enthaltenen Schwämmchens leicht mit Wasser anfeuchten und sanft auf der Vorlage anbringen oder mit anderen Playmais verbinden – ganz ohne Bastelkleber. Eine tolle Beschäftigung für Kinder
-- UNBEGRENZTE MÖGLICHKEITEN: Mit PlayMais basteln Mädchen & Jungen farbenfrohe Bilder, Spielfiguren oder Dekoration. PlayMais lässt sich durch Pressen & Schneiden einfach verformen und ist auch in Kombination mit anderem Bastelmaterial einsetzbar. Nachschub gefällig? - PlayMais BASIC Produkte enthalten weitere einzelne PlayMais.
 - KREATIV BASTEL-BOX: Mehr als 1.000 bunte PlayMais, farbige Vorlagen aus Bastelpapier, Anleitungen & Bastel-Zubehör.
-- MADE IN GERMANY: Hergestellt auf Basis von Maisgrieß & Wasser und eingefärbt mit Lebensmittelfarbe, ist Play Mais ein 100% biologisch abbaubares Naturprodukt. Entwickelt & hergestellt in Deutschland.
+- UNBEGRENZTE MÖGLICHKEITEN: Mit PlayMais basteln Mädchen & Jungen farbenfrohe Bilder, Spielfiguren oder Dekoration. PlayMais lässt sich durch Pressen & Schneiden einfach verformen und ist auch in Kombination mit anderem Bastelmaterial einsetzbar. Nachschub gefällig? - PlayMais BASIC Produkte enthalten weitere einzelne PlayMais.
 - PÄDAGOGISCH WERTVOLL: Das Kreativ-Set macht nicht nur Spaß, es fördert auch die Kreativität & Feinmotorik Ihres Kindes.
+- MADE IN GERMANY: Hergestellt auf Basis von Maisgrieß & Wasser und eingefärbt mit Lebensmittelfarbe, ist Play Mais ein 100% biologisch abbaubares Naturprodukt. Entwickelt & hergestellt in Deutschland.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004P4RXWA{{</world>}}

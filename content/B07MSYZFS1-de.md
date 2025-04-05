@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Memory-Funktion: bei Einschalten startet der Sauger mit gleicher Saugleistung, wie vor dem Ausschalten
 - Bequeme Gurte und geringes Gewicht machen die Arbeit komfortabel
 - Sehr leichter Rucksacksauger mit 2x18V-Antrieb
-- Einschaltbedienung bequem per Controller, 2-stufig mit integrierter LED-Arbeitsplatzbeleuchtung
-- Memory-Funktion: bei Einschalten startet der Sauger mit gleicher Saugleistung, wie vor dem Ausschalten
 - Bürstenloser Motor für mehr Ausdauer, längere Lebensdauer und kompaktere Bauweise
+- Einschaltbedienung bequem per Controller, 2-stufig mit integrierter LED-Arbeitsplatzbeleuchtung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MSYZFS1{{</world>}}

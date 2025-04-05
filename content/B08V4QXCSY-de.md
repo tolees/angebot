@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
 - Extrem leichte Herren-Jacke für Fahrradfahrer, Das ganze Jahr über ideal bei nassen Wetterbedingungen
-- Anliegender Stehkragen mit weichem Fleece-Besatz, Reißverschlusstasche hinten auch zum Verstauen der Jacke geeignet, Saum partiell mit Haftgummi
 - Schmale Passform für eine sportliche Silhouette und hervorragende Beweglichkeit, Bike-Spezifischer Schnitt, Reflektierende Details
 - GORE WEAR Torrent Jacket, Größe: XXL, Farbe: Feuerrot, 100817
+- Anliegender Stehkragen mit weichem Fleece-Besatz, Reißverschlusstasche hinten auch zum Verstauen der Jacke geeignet, Saum partiell mit Haftgummi
+- GORE-TEX Active Technologie: Wasserdicht, winddicht und extrem atmungsaktiv
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08V4QXCSY{{</world>}}

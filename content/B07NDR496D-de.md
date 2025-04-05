@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Filtration und Reinigung des Pools (Staubsauger)
 - Schließt alle Wassereinflüsse mit dem Filter und dem Pool ab
-- Die Effizienz der Pumpe wurde verbessert für eine Verringerung des Stromverbrauchs.Maximale Arbeitsdruck: 3,5 Bar
+- Filtration und Reinigung des Pools (Staubsauger)
 - Hochwertige Sandfilter
+- Die Effizienz der Pumpe wurde verbessert für eine Verringerung des Stromverbrauchs.Maximale Arbeitsdruck: 3,5 Bar
 - Sandfilter für jeden Pool
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

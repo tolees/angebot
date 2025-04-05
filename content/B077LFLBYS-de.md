@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einem wundervollen Rosenduft
 - Dank seines Herstellungsverfahrens ist es bruchfest
 - Ein integrierter Spiegel und ein Pinsel sind auch enthalten
+- Mit einem wundervollen Rosenduft
 - Ein leicht zu verblendendes, zeitloses Puder-Rouge mit einer ultrafeinen Textur
 - Die Backtechnologie-Formel sorgt dafür, dass sich das Bourjois Rouge ideal mit der Haut verbindet
 

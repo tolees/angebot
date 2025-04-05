@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bündchen an den Knöcheln
+- Für alle Altersgruppen geeignet
 - Kordelzug
 - Fleece-Futter
-- Für alle Altersgruppen geeignet
+- Bündchen an den Knöcheln
 - Das Heizmaterial
 
 [🛒 Hier!!]({{< param buyurl >}})

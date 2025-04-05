@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FEDERUNG: Marken-Federgabel XCM-32 von SR SUNTOUR mit Federweg von 100 mm, mit sportlichem MTB-Sattel
-- GRÖßE/GEWICHT: 27,5 Zoll Reifen, 48 cm Rahmenhöhe, E Bike Alurahmen in sportlichem Look, nur 26 kg Gewicht, leistungsfähiges Elektrofahrrad mit max. Belastung von 135 kg
-- E-BIKE AKKU: Besonders leistungsstarker 48 V, 557 Wh Lithium-Ionen-Akku mit bis zu 160 km* Reichweite, semi-integriert zum leichten Entnehmen und Aufladen, smartes Batterie-Management-System
 - MOTOR: Besonders kraftvoller BAFANG M400 Mittelmotor mit 80Nm Drehmoment, BAFANG LCD 1350 CAN Bus Display inkl. USB-Anschluss zum Aufladen von Mobilgeräten
+- GRÖßE/GEWICHT: 27,5 Zoll Reifen, 48 cm Rahmenhöhe, E Bike Alurahmen in sportlichem Look, nur 26 kg Gewicht, leistungsfähiges Elektrofahrrad mit max. Belastung von 135 kg
+- FEDERUNG: Marken-Federgabel XCM-32 von SR SUNTOUR mit Federweg von 100 mm, mit sportlichem MTB-Sattel
+- E-BIKE AKKU: Besonders leistungsstarker 48 V, 557 Wh Lithium-Ionen-Akku mit bis zu 160 km* Reichweite, semi-integriert zum leichten Entnehmen und Aufladen, smartes Batterie-Management-System
 - SCHALTUNG: Zuverlässige SHIMANO 1x10-Gang Kettenschaltung, schnelles und präzises Schalterlebnis durch ergonomischen Schalthebel am Lenker
 
 [🛒 Hier!!]({{< param buyurl >}})

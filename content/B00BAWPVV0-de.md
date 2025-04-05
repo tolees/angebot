@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Multischalter verteilt eine Orbitposition (4 SatBlöcke) an bis zu 8 Teilnehmer, inkl. LAN und Einspeisung von DVB-T/DAB+/UKW oder Kabel-TV bei Analog-, Digital-, HD-, 3D-Betrieb
-- Sämtliche Ausgänge sind schräglagenvorkompensiert und gewährleisten dadurch bis zu 100m lange Entfernungen vom LNB zur Antennendose
 - inkl. LAN Anschluss zur Verteilung von Internet & Netzwerkdiensten via Sat-Verkabelung (entsprechende Sat-Dosen vorausgesetzt) - benötigt keine externe Stromzufuhr
+- Der Multischalter verteilt eine Orbitposition (4 SatBlöcke) an bis zu 8 Teilnehmer, inkl. LAN und Einspeisung von DVB-T/DAB+/UKW oder Kabel-TV bei Analog-, Digital-, HD-, 3D-Betrieb
 - Lieferumfang: 1 x TECHNISWITCH 5/8 MINI LAN und Bedienungsanleitung - In bester Qualität von TechniSat
+- Sämtliche Ausgänge sind schräglagenvorkompensiert und gewährleisten dadurch bis zu 100m lange Entfernungen vom LNB zur Antennendose
 - Die Übertragung von DOCSIS-Signalen des Verteilers ermöglicht die gleichzeitige Nutzung von Internet- und Telefonangeboten der Kabelnetzbetreiber
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,11 +30,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Einige Dinge sind perfekt, so wie sie sind.
 - Dies ist ein originales Levis Produkt
-- Aus besonders weichem Jersey
 - Aus 100 % Baumwolljersey hergestellt, kommt es in einer zeitlosen Passform und mit dezentem Logo.
 - Hergestellt mit Diesem nachhaltigen Water&ItLess Verfahren
 - Das klassische T-Shirt ist eines dieser Dinge.
 - Das Basic-T-Shirt perfektioniert
+- Aus besonders weichem Jersey
 - Mit dezentem Logo auf der Brust
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

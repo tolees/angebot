@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 5 Jahre Garantie
-- Abmessungen: 5,1 x 10,2 x 12,7 cm; Gewicht: 0,7 kg
 - Das Victron Energy VE Interface MK3-USB ermöglicht Ihnen die Konfiguration und Aktualisierung Ihrer Firmware
-- Geeignet für folgende Produkte: Multi, MultiGrid, MultiPlus, MultiPlus-II, Quattro, Wechselrichter/Ladergeräte-Einstellungen in ECOmulti, EasySolar, EasyPlus und Wechselrichter mit VE.Bus-Kommunikationsanschluss
+- Abmessungen: 5,1 x 10,2 x 12,7 cm; Gewicht: 0,7 kg
 - Verwenden Sie das MK3-USB, um die Produkte zur Konfiguration und für Firmware-Updates mit einem Computer zu verbinden
+- Geeignet für folgende Produkte: Multi, MultiGrid, MultiPlus, MultiPlus-II, Quattro, Wechselrichter/Ladergeräte-Einstellungen in ECOmulti, EasySolar, EasyPlus und Wechselrichter mit VE.Bus-Kommunikationsanschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06Y5WS3VZ{{</world>}}

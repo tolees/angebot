@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Automatischer 20 Blatt Vorlageneinzug für mehrseitiges Scannen
-- Scangeschwindigkeit von bis zu 25 Seiten (50 Bilder) pro Minute
-- Stromversorgung via USB 3.0 Super-Speed möglich (z.B. Laptop oder Powerbank mit 5V, min. 1, 5A)
 - TWAIN, WIA, ICA und SANE für optimale Kompatibilität
+- Scangeschwindigkeit von bis zu 25 Seiten (50 Bilder) pro Minute
 - USB 3.0 Super-Speed-, USB 2.0 Hi-Speed-Schnittstelle und USB-Host
+- Automatischer 20 Blatt Vorlageneinzug für mehrseitiges Scannen
+- Stromversorgung via USB 3.0 Super-Speed möglich (z.B. Laptop oder Powerbank mit 5V, min. 1, 5A)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07H3CTHF3{{</world>}}

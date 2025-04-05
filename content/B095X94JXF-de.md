@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Er hat ein einzigartiges ergonomisches und ästhetisches Knopfdesign
-- Der Batterieschalter kann entweder an der Oberfläche oder an der Schalttafel montiert werden, was Flexibilität bei der Installation bietet
-- Der Batterieschalter entspricht der Zündschutznorm ISO8846 und ist für den Einsatz im Maschinenraum geeignet
-- Der Knopf ist zu Isolations- oder Sicherheitszwecken abnehmbar
 - Der Victron Energy Batterieschalter ON/OFF 275A ist für Batteriesysteme bis zu 48V geeignet
+- Er hat ein einzigartiges ergonomisches und ästhetisches Knopfdesign
+- Der Knopf ist zu Isolations- oder Sicherheitszwecken abnehmbar
+- Der Batterieschalter entspricht der Zündschutznorm ISO8846 und ist für den Einsatz im Maschinenraum geeignet
+- Der Batterieschalter kann entweder an der Oberfläche oder an der Schalttafel montiert werden, was Flexibilität bei der Installation bietet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B095X94JXF{{</world>}}

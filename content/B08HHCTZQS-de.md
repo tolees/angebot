@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zubehör: Multimesser, Bedienungsanleitung mit Rezepten
 - Längere Antriebswelle / Sicherheits-Twinschalter
+- Zubehör: Multimesser, Bedienungsanleitung mit Rezepten
+- Leistung: 350 W, 220–240 V~, 50/60 Hz
 - Kurzbetriebszeit: 5 Minuten / Für bis zu ca. 30 Liter Flüssigkeitmenge (bei ca. 45cm Gefäßdurchmesser)
 - Langlebiger, robuster AC-Motor, Made in Switzerland / 1 Jahr Garantie
-- Leistung: 350 W, 220–240 V~, 50/60 Hz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08HHCTZQS{{</world>}}

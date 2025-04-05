@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GORE WINDSTOPPER-Einsätze über den Schultern, an den Ärmeln, im Vorder- und Nierenbereich, Thermo-Stretch-Funktionsmaterial, Minimierte Reibung durch Flachnähte, Verlängerte Rückenpartie
 - GORE WEAR M WINDSTOPPER Base Layer Thermo L/S Shirt, Größe: L, Farbe: Schwarz, 100324
-- GORE WINDSTOPPER Technologie: Winddicht, wasserabweisend und extrem atmungsaktiv
+- GORE WINDSTOPPER-Einsätze über den Schultern, an den Ärmeln, im Vorder- und Nierenbereich, Thermo-Stretch-Funktionsmaterial, Minimierte Reibung durch Flachnähte, Verlängerte Rückenpartie
 - Enganliegende Passform für minimalen Luftwiderstand und optimale Performance
+- GORE WINDSTOPPER Technologie: Winddicht, wasserabweisend und extrem atmungsaktiv
 - Warmes Herren Thermo-Baselayer-Shirt für alle sportlichen Aktivitäten geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})

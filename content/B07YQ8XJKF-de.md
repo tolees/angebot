@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Tägliche Anwendung des Anti-Pickel Peelings auf der angefeuchteten Haut, v.a. der T-Zone (Stirn, Nase, Kinn), Gründlich abspülen
-- Anti-Mitesser Peeling für Männer zur tiefenwirksamen Reinigung und Bekämpfung von Hautunreinheiten, Geeignet für unreine, fettige und ölige Männerhaut
 - Lieferumfang: 1x LOréal Paris Men Expert Pure Carbon Intensives Gesichtspeeling Anti-Hautunreinheiten, Inhalt: 100 ml
 - Ölabsorbierende Anti Pickel-Formel angereichert mit klärender Eichenholzkohle und 2000 natürlichen Peeling-Partikeln, Dermatologisch getestet, Ergänzend zum Pure Carbon Waschgel
+- Anti-Mitesser Peeling für Männer zur tiefenwirksamen Reinigung und Bekämpfung von Hautunreinheiten, Geeignet für unreine, fettige und ölige Männerhaut
+- Anwendung: Tägliche Anwendung des Anti-Pickel Peelings auf der angefeuchteten Haut, v.a. der T-Zone (Stirn, Nase, Kinn), Gründlich abspülen
 - Wirkung: Reduzierte Hautunreinheiten wie Pickel und Mitesser, Geklärte Haut und befreite Poren, Verbessertes Hautbild und frischeres Erscheinungsbild
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

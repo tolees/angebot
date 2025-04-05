@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schwarzes Display mit weißer Schrift, für besser Sichtbarkeit in ungünstigen Lichtverhältnissen
 - Kompakte Nutzung, passt einfach in die Tasche und ermöglicht Dank des gummierten bi-Material Gehäuses einen sicheren Griff
+- Schwarzes Display mit weißer Schrift, für besser Sichtbarkeit in ungünstigen Lichtverhältnissen
 - Laserentfernungsmesser für einfache Messaufgaben mit Ein-Knopf-Klick-Messung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 18Volt
 - 1,5 Ah
-- Original Makita-Qualität, langlebig und robust
 - Extrem lange Laufzeit
+- Original Makita-Qualität, langlebig und robust
+- 18Volt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00EV0D9C6{{</world>}}

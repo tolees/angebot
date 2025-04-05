@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 50 ml (1er pack)
-- Scandal Pour Homme Edt Vapo Refillable 50 Ml
 - Personal Fragrance
+- Scandal Pour Homme Edt Vapo Refillable 50 Ml
 - J.p. Gaultier
 
 [🛒 Hier!!]({{< param buyurl >}})

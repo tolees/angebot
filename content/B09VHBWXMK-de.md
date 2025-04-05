@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Integrierte Lendenstütze aus Schaumstoff: Fördert eine gesunde Sitzhaltung beim Gaming mit einem integrierten abnehmbaren Nackenkissen aus Memory-Schaumstoff
+- Bezug aus weichem Stoff: Der Bezug ist mit weichem Stoff gepolstert und verfügt über perforierte Bereiche für mehr Atmungsaktivität und sorgt so für Komfort und Abkühlung
 - Vielseitig verstellbare 4D-Armlehnen: Lassen sich hoch oder runter, nach links oder rechts sowie vor und zurück bewegen und drehen, sodass Sie garantiert die perfekte Position für Ihre Arme finden
 - Anpassbare Sitzhöhe um 120 mm: Mit einer Gasdruckfeder aus Klasse-4-Stahl lässt sich die Sitzhöhe dank dem Bewegungsumfang von 120 mm problemlos auf die gewünschte Höhe einstellen
-- Bezug aus weichem Stoff: Der Bezug ist mit weichem Stoff gepolstert und verfügt über perforierte Bereiche für mehr Atmungsaktivität und sorgt so für Komfort und Abkühlung
 - Vom Rennsport inspirierter Look und Support: Ein komfortables und stilvolles, vom Rennsport inspiriertes Design und ein röhrenförmiger Stahlrahmen für ausgedehnte Gaming-Sessions
 
 [🛒 Hier!!]({{< param buyurl >}})

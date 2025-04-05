@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dreifacher Ventilator
-- Geschwindigkeit 1890/19000 MHz
 - Karta graficzna Zotac GeForce RTX 3070 Ti AMP Extreme Holo 8GB GDDR6X (ZT-A30710B-10P)
+- Geschwindigkeit 1890/19000 MHz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09D3SPQ85{{</world>}}

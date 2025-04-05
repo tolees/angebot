@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Systemvoraussetzung: MS Windows XP/Vista/7/8/10 oder MAC OS 10.6 oder höher/ Linux 2.4x
-- Sofort startklar ohne Installation, Super Speed USB Anschluss 3.0 (abwärtskompatibel zu USB 2.0), Stromversorgung über Netzadapter
 - 3,5 Zoll (8,9 cm) externe Festplatte, Kunststoffgehäuse, FAT32, Plug & Play, 5400 U/min, LED Anzeige
 - Max. Datentransferrate: Lesen (85MB/s), Schreiben (75MB/s)
+- Systemvoraussetzung: MS Windows XP/Vista/7/8/10 oder MAC OS 10.6 oder höher/ Linux 2.4x
+- Sofort startklar ohne Installation, Super Speed USB Anschluss 3.0 (abwärtskompatibel zu USB 2.0), Stromversorgung über Netzadapter
 - Intenso Memory Center 8TB externe Festplatte, Netzadapter (12V - 1.5A), USB 3.0 Kabel (abwärtskompatibel)
 
 [🛒 Hier!!]({{< param buyurl >}})

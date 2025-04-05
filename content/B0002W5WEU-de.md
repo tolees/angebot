@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Folie zum Einschieben des Original-Covers oder eines selbst gestalteten Covers
 - 50% Platzerparnis: Zwei Slim-Leerhüllen finden in einem Standard-DVD-Einschubfach Platz, nur 0,7 cm dünn
 - Lieferumfang: 25x DVD-Hüllen
-- Klemmhalterungen im Inneren zur praktischen Aufbewahrung des Booklets zusammen mit der DVD/CD/Blu-ray, DVD-Halterung mit Drückmechanismus: sicheres Fixieren und einfaches Herausnehmen
 - Vorteilspack: 25 superschmale Hüllen zur Aufbewahrung von je einer CD/DVD/Blu-ray
+- Mit Folie zum Einschieben des Original-Covers oder eines selbst gestalteten Covers
+- Klemmhalterungen im Inneren zur praktischen Aufbewahrung des Booklets zusammen mit der DVD/CD/Blu-ray, DVD-Halterung mit Drückmechanismus: sicheres Fixieren und einfaches Herausnehmen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0002W5WEU{{</world>}}

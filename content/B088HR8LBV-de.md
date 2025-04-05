@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spiele alle Original-Spielmodi und liefere dir Duelle in lokalen 2-Spieler-Modi
-- Beweise deinen Stil und deine Kreativität mit den verbesserten "Mach-dir-den-Park"- und "Mach-dir-den-Skater"-Funktionen
 - Bring deine Sessions online und tritt in Mehrspieler-Modi und Bestenlisten gegen Spieler auf der ganzen Welt an
-- Skate zu Songs aus dem Soundtrack einer Ära
 - Skate als der legendäre Tony Hawk oder wähle einen Skater aus der Profi-Liste
+- Skate zu Songs aus dem Soundtrack einer Ära
+- Beweise deinen Stil und deine Kreativität mit den verbesserten "Mach-dir-den-Park"- und "Mach-dir-den-Skater"-Funktionen
 - Lege mit der kultigen Handhabung der Tony Hawks Pro Skater-Reihe irre Trick-Kombos hin
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

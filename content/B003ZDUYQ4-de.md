@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wichtig ist bei unserem FT 70, dass der richtige Modus (Stirn oder Ohr) ausgewählt ist. Überprüfen Sie auch, ob der Sensor verschmutzt oder beschädigt ist.
-- Sprachfunktion
-- Optischer Fieberalarm
 - Oberflächentemperatur von Gegenständen/Flüssigkeiten
-- Hinweis: Bitte beachten Sie, dass die Stirn/Schläfen frei von Schweiß und Kosmetika sein müssen und dass die Einnahme von gefäßverengenden Medikamenten sowie Hautirritationen das Messergebnis bei der Stirnmessung verfälschen können.
-- 10 Speicherplätze
+- Optischer Fieberalarm
 - Sekundenschnelle Messung im Ohr/an der Stirn
+- Sprachfunktion
 - as Thermometer muss sich mindestens 30 Minuten im selben Raum befinden, in dem die Messung durchgeführt wird, bevor eine Messung durchgeführt werden kann.
+- Hinweis: Bitte beachten Sie, dass die Stirn/Schläfen frei von Schweiß und Kosmetika sein müssen und dass die Einnahme von gefäßverengenden Medikamenten sowie Hautirritationen das Messergebnis bei der Stirnmessung verfälschen können.
+- Wichtig ist bei unserem FT 70, dass der richtige Modus (Stirn oder Ohr) ausgewählt ist. Überprüfen Sie auch, ob der Sensor verschmutzt oder beschädigt ist.
+- 10 Speicherplätze
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003ZDUYQ4{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 8 Liter Volumen, Platz für 0,7-l-Flasche
-- Kühlt bis 20 °C unter Umgebungstemperatur, heizt bis +65 °C
-- 12-V-Zigarettenanzünder-Stecker
 - 2 Getränkehalter (0,33-l-Dosen und 0,5-l-Flaschen)
+- Kühlt bis 20 °C unter Umgebungstemperatur, heizt bis +65 °C
 - Befestigung im Auto mit Sicherheitsgurt
+- 8 Liter Volumen, Platz für 0,7-l-Flasche
+- 12-V-Zigarettenanzünder-Stecker
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZTPS5CN{{</world>}}

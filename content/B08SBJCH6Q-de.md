@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
-- Steuerung über Google Assistant oder Amazon Alexa möglich
-- Dimmbar. Umgebungstemperaturbereich: -20°C ~ +40°C
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse E
+- Steuerung über LEDVANCE SMART + App (ab Android 6.0)
+- Dimmbar. Umgebungstemperaturbereich: -20°C ~ +40°C
+- Steuerung über Google Assistant oder Amazon Alexa möglich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08SBJCH6Q{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟: Für alle Hersteller und Marken sowie Curved Bildschirme geeignet - wenn Position und Größe der VESA Norm sowie das Gewicht des Fernsehers unterstützt werden!
 - 𝗟𝗜𝗘𝗙𝗘𝗥𝗨𝗠𝗙𝗔𝗡𝗚: Vormontierte Fernsehhalterung, Dübel nur für Betonwände, Schrauben für den Bildschirm, Wandschrauben und Zubehör
 - 𝗙𝗨𝗡𝗞𝗧𝗜𝗢𝗡𝗘𝗡: Diese Fernseherhalterung ist bis +/-40 Grad schwenkbar je nach Bildschirmbreite. Der Neigebereich liegt bei +/-15 Grad. Der Wandabstand beträgt 100mm
-- 𝗨𝗡𝗧𝗘𝗥𝗦𝗧Ü𝗧𝗭𝗧𝗘 𝗩𝗘𝗦𝗔-𝗡𝗢𝗥𝗠𝗘𝗡: Der TV Wandhalter besitzt eine hohe Belastbarkeit von bis zu 15kg. - 100x100 200x100 200x200 - 100x200 möglich, wenn Frontplatte 90 Grad gedreht wird (360 Grad Drehung möglich)
+- 𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟: Für alle Hersteller und Marken sowie Curved Bildschirme geeignet - wenn Position und Größe der VESA Norm sowie das Gewicht des Fernsehers unterstützt werden!
 - 𝗘𝗠𝗣𝗙𝗢𝗛𝗟𝗘𝗡 𝗙Ü𝗥: Passende Bildschirm Diagonalen 69cm/27" 74cm/29" 81cm/32" 89cm/35" 94cm/37" 102cm/40" 107cm/42" Zoll
+- 𝗨𝗡𝗧𝗘𝗥𝗦𝗧Ü𝗧𝗭𝗧𝗘 𝗩𝗘𝗦𝗔-𝗡𝗢𝗥𝗠𝗘𝗡: Der TV Wandhalter besitzt eine hohe Belastbarkeit von bis zu 15kg. - 100x100 200x100 200x200 - 100x200 möglich, wenn Frontplatte 90 Grad gedreht wird (360 Grad Drehung möglich)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00IAM47V8{{</world>}}

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gute Lichtleistung – bis zu 120 Meter
-- Optimaler Halt – Stirnband mit gummierter Innenseite
 - Leuchtweite mit bis zu 200 Lumen
 - Schnelle Veränderungen des Lichtkegels mit nur einer Hand – Rapid Focus mit Focus Lock
-- Individuelle Anpassung – Überkopfband im Lieferumfang enthalten
+- Optimaler Halt – Stirnband mit gummierter Innenseite
 - Von homogenem, kreisrundem Nahlicht (defokussiert) zu scharf gebündeltem Fernlicht (fokussiert) – das patentierte Advanced Focus System mit Reflektorlinse ermöglicht effizientes, maßgeschneidertes Licht
+- Individuelle Anpassung – Überkopfband im Lieferumfang enthalten
+- Gute Lichtleistung – bis zu 120 Meter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0166LIU9E{{</world>}}

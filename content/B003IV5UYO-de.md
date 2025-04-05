@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebigkeit
 - Haltbarkeit
 - Flexible Gestaltung
+- Langlebigkeit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B003IV5UYO{{</world>}}

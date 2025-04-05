@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umweltfreundliche Eleganz: Genießen Sie unsere nachhaltigen Kerzen, hergestellt mit 25% pflanzlichem Wachs aus Europa, zu 100% frei von Palmöl und tierischen Fetten.
+- Ideal für Weihnachtsdeko: Ideale Kerzen für den Adventskranz.
 - Makelloser Flammentanz, Reines Abbrennen: Erleben Sie die Perfektion einer sauberen, gleichmäßigen Flamme, die jeden Moment verschönert.
 - Elegant verpacktes Quartett: Enthüllen Sie ein Set aus vier exquisit gefertigten Kerzen, bereit, Ihren Raum zu erhellen.
 - Lang anhaltende Leuchtkraft: Tauchen Sie ein in den warmen Schein mit einer beeindruckenden Brenndauer von 60 Stunden.
-- Ideal für Weihnachtsdeko: Ideale Kerzen für den Adventskranz.
+- Umweltfreundliche Eleganz: Genießen Sie unsere nachhaltigen Kerzen, hergestellt mit 25% pflanzlichem Wachs aus Europa, zu 100% frei von Palmöl und tierischen Fetten.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08W2BS7VD{{</world>}}

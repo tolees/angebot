@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewicht: 0.14 kg
-- Dieses Columbia Polo-Shirt für Herren bringt Sie überall hin: Sie können es zu all Ihren Alltagsabenteuern tragen für einen mühelos stylischen Look
 - Nelson Point
+- Dieses Columbia Polo-Shirt für Herren bringt Sie überall hin: Sie können es zu all Ihren Alltagsabenteuern tragen für einen mühelos stylischen Look
+- Gewicht: 0.14 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0771W4LCF{{</world>}}

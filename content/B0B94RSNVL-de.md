@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- WHATS INCLUDED: Fashion doll, complete doll outfit, a pair of doll shoes, doll accessories: sunglasses, blow dryer, make up pallet, matching brushes, and doll stand
 - LET YOUR TRUE COLORS SHINE: Rainbow High is the leading global fashion doll brand and hit animated YouTube series that encourages creativity, celebrates diversity, and embraces inclusivity
 - CONFIDENT IN GREEN: Olivia is dressed in Camo Green from head to toe in a top and skirt with belt detail, earrings, sunglasses, heeled boots and fun accessories. Her curled green hair is styled with 2 twist buns, she has long real eyelashes and glass eyes
-- FLEXIBLE & POSEABLE: Because shes fully articulated, she’s easy and fun to play with. Her head, arms, hands, and legs bend for so many fun poses, including the splits! Or you can display her on the included doll stand
 - ACCESSORIES INSPIRE CREATIVITY: Olivia is a Fashion Designer. She comes with key essentials to make sure her model makes it to the runway on time and with her makeup done: make-up pallet, brushes, and blow dryer
-- WHATS INCLUDED: Fashion doll, complete doll outfit, a pair of doll shoes, doll accessories: sunglasses, blow dryer, make up pallet, matching brushes, and doll stand
+- FLEXIBLE & POSEABLE: Because shes fully articulated, she’s easy and fun to play with. Her head, arms, hands, and legs bend for so many fun poses, including the splits! Or you can display her on the included doll stand
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B94RSNVL{{</world>}}

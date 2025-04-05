@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6 KOCHFUNKTIONEN: Max Crisp, Air Fry, Rösten, Backen, Aufwärmen, Dehydrieren. Kochen und knusprig gefrorenes Essen in Minuten mit Max Crisp, unter Verwendung von superschneller Luftzirkulation und Temperaturen von 240°C.
+- BEINHALTET: Antihaftbeschichteter, spülmaschinenfester 5,2L Kochtopf und Knusperplatte. Kochbuch mit Rezepten vom Chef. Farbe: Grau/Schwarz.
 - VERWENDE WENIG BIS GAR KEIN ÖL: Air Fry zum schnellen Kochen von köstlichen Hauptgerichten, Beilagen und Snacks - bis zu 75% weniger Fett* (*Getestet im Vergleich zu frittierten, handgeschnittenen Pommes frites).
+- ABMESSUNGEN: H36cm x B25cm x T32cm. Gewicht: 5,2kg
+- 6 KOCHFUNKTIONEN: Max Crisp, Air Fry, Rösten, Backen, Aufwärmen, Dehydrieren. Kochen und knusprig gefrorenes Essen in Minuten mit Max Crisp, unter Verwendung von superschneller Luftzirkulation und Temperaturen von 240°C.
 - KOCHT 4-6 PORTIONEN: Die 5,2-Liter-Schublade fasst ein 2-kg-Huhn oder 1,4 kg Pommes. Kocht bis zu 50% schneller als Umluftöfen* (*Getestet mit Fischstäbchen und Würstchen).
 - SPAREN SIE BIS ZU 55% Energiekosten gegenüber Backöfen mit Ninja Heißluftfritteusen* (*Tests & Berechnungen auf Grundlage der empfohlenen Garzeit für Würstchen bei Verwenden der Heißluftfrittieren-Funktion im Vergleich zu zwei repräsentativen Öfen)
-- ABMESSUNGEN: H36cm x B25cm x T32cm. Gewicht: 5,2kg
-- BEINHALTET: Antihaftbeschichteter, spülmaschinenfester 5,2L Kochtopf und Knusperplatte. Kochbuch mit Rezepten vom Chef. Farbe: Grau/Schwarz.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0837H1TCV{{</world>}}

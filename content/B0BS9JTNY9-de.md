@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LANGLEBIG GEBAUT - Das V1300 SFX Platinum-Netzteil bietet langfristige Leistung durch hervorragende Komponentenqualität (einschließlich 100% japanischer Elite-Kondensatoren), die auf maximale Effizienz, Wärmeableitung und Platz ausgelegt sind
-- FDB-LÜFTER - Erstklassiger 92mm FDB-Lüfter (Fluid Dynamic Bearing), der sowohl die Temperatur als auch die Geräuschentwicklung auf einem Minimum hält; Mit Lüfterausfallschutz, bei dem das Netzteil stoppt, wenn der Lüfterbetrieb unterbrochen wird
-- 80 PLUS PLATINUM EU 230 V - 94% Wirkungsgrad (unter typischer Belastung bei 230 V) macht 80 PLUS Platinum ideal für kompakte Systeme mit hohem Energiebedarf; Das V1300 bietet eine um 53% höhere Ausgangsleistung (26,8 W/in3) als das V850 SFX Gold-Netzteil
 - KLEINER FORMFAKTOR - Das V1300 SFX Platinum ist das leistungsstärkste SFX-Netzteil auf dem Markt; Mit kompakter Größe (100 x 125 x 63,5mm) speziell für Mini-ITX-PC-Gehäuse mit kleinem Formfaktor (SFF) geeignet; Inkl. SFX-zu-ATX-Halterung für ATX-Gehäuse
+- FDB-LÜFTER - Erstklassiger 92mm FDB-Lüfter (Fluid Dynamic Bearing), der sowohl die Temperatur als auch die Geräuschentwicklung auf einem Minimum hält; Mit Lüfterausfallschutz, bei dem das Netzteil stoppt, wenn der Lüfterbetrieb unterbrochen wird
 - VOLLE ATX 3.0-UNTERSTÜTZUNG - Ausgestattet mit einem 12-V-HPWR-Anschluss, der maximal 600W an die neuesten GPUs der 40er-Serie liefern kann; Vollständig modulare Verkabelung, die eine saubere Konstruktion ermöglicht und die interne Belüftung verbessert
+- 80 PLUS PLATINUM EU 230 V - 94% Wirkungsgrad (unter typischer Belastung bei 230 V) macht 80 PLUS Platinum ideal für kompakte Systeme mit hohem Energiebedarf; Das V1300 bietet eine um 53% höhere Ausgangsleistung (26,8 W/in3) als das V850 SFX Gold-Netzteil
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BS9JTNY9{{</world>}}

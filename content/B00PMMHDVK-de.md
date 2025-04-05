@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Doku DVD
 - 2 CDs mit 28 Songs
 - Unantastbar - CD/DVD
+- Doku DVD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00PMMHDVK{{</world>}}

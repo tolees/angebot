@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Im Lieferumfang befindet sich die Kärcher Rotierende Waschbürste WB 130 mit einem Universalbürstenaufsatz
-- Austauschbarer Bürstenaufsatz: Der Bürstenaufsatz lässt sich unkompliziert austauschen, um ihn zu erneuern oder die Bürste mit einem anderen Aufsatz zu nutzen
-- Flexible Anwendung: Die WB 130 eignet sich ideal für die Reinigung von Fenstern, Gartenmöbeln und anderen glatten Oberflächen
-- Zubehör für Kärcher Hochdruckreiniger: Die Rotierende Waschbürste ist mit den Kärcher Hochdruckreinigern K 2, K 3, K 4, K 5 und K 7 kompatibel
 - Rotierende Reinigungskraft: Die Rotierende Waschbürste WB 130 entfernt Verschmutzungen dank des rotierenden Bürstenaufsatzes effektiv und sanft zugleich
+- Flexible Anwendung: Die WB 130 eignet sich ideal für die Reinigung von Fenstern, Gartenmöbeln und anderen glatten Oberflächen
+- Lieferumfang: Im Lieferumfang befindet sich die Kärcher Rotierende Waschbürste WB 130 mit einem Universalbürstenaufsatz
+- Zubehör für Kärcher Hochdruckreiniger: Die Rotierende Waschbürste ist mit den Kärcher Hochdruckreinigern K 2, K 3, K 4, K 5 und K 7 kompatibel
+- Austauschbarer Bürstenaufsatz: Der Bürstenaufsatz lässt sich unkompliziert austauschen, um ihn zu erneuern oder die Bürste mit einem anderen Aufsatz zu nutzen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TRQX1X8{{</world>}}

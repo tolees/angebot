@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Wenn auf dem Display keine Anzeige vorhanden ist, prüfen Sie, ob das Geschwindigkeits-Speedhone eingeschaltet ist oder nicht. Wenn nein, dann das Geschwindigkeitshörer einschalten. Wenn der Akku leer ist, laden Sie den Akku auf
 - Flexibel aufstellbar - keine Kabelverbindung zum Speedport nötig
 - Hohe Sprachqualität - voller, klarer und natürlicher Klang bei Telefongesprächen
-- Wenn auf dem Display keine Anzeige vorhanden ist, prüfen Sie, ob das Geschwindigkeits-Speedhone eingeschaltet ist oder nicht. Wenn nein, dann das Geschwindigkeitshörer einschalten. Wenn der Akku leer ist, laden Sie den Akku auf
 - Übersichtliches 5 cm Farbdisplay und einfach gestaltete Benutzeroberfläche
 - Klares Desing - ergonomischer Formfaktor und intuitive Tastenanordnung mit Multifunktionstaste
 - Einfache Inbetriebnahme durch Erstinstallationsassistent

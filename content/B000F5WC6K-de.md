@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die max. Schreibgeschwindigkeit ist 16-fach.
+- Format: DVD+R printable
+- Die Aufnahmezeit beträgt 120 Minuten.
 - Verpackung: 25 Stück auf der Spindel
 - Die Speicherkapazität beträgt 4.7 GB
-- Die Aufnahmezeit beträgt 120 Minuten.
-- Format: DVD+R printable
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000F5WC6K{{</world>}}

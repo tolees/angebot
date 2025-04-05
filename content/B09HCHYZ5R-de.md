@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konnektivität über WLAN und Wi-Fi Direct
 - Für den Druck von bis zu 4.500 Seiten in Schwarzweiß und 7.500 Seiten in Farbe
 - Dieser Drucker ist nur ein Nicht-Scan- und Kopierdrucker.
-- Bis zu 72 Patronen in einem Tintenflaschensatz
+- Konnektivität über WLAN und Wi-Fi Direct
 - Unkompliziertes Tintentanksystem: Problemloses Nachfüllen dank Schlüssel-Schloss-Prinzip und Tintentanks an der Vorderseite
+- Bis zu 72 Patronen in einem Tintenflaschensatz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09HCHYZ5R{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebigkeit
 - Qualität/Haltbarkeit
+- Langlebigkeit
 - Metaboartikelnummer: 629064000
 - Flexible Gestaltung
 - Robustheit

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der »Palast der Toten« mit 100 Ebenen gehört zu den vielen Herausforderungen, denen du dich stellen kannst
-- Das Kampfsystem in »Tactics Ogre: Reborn« wurde auf eine Weiterentwicklung der Einheiten ausgelegt
-- Die Charaktere und Grafiken, die schon im Originalspiel »Tactics Ogre« aus dem Jahr 1995 hochgerühmt waren, wurden in hoher Auflösung überarbeitet
 - Dank der komplett überarbeiteten Kampf-KI ergeben sich knifflige Schlachten
+- Die Charaktere und Grafiken, die schon im Originalspiel »Tactics Ogre« aus dem Jahr 1995 hochgerühmt waren, wurden in hoher Auflösung überarbeitet
+- Das Kampfsystem in »Tactics Ogre: Reborn« wurde auf eine Weiterentwicklung der Einheiten ausgelegt
+- Der »Palast der Toten« mit 100 Ebenen gehört zu den vielen Herausforderungen, denen du dich stellen kannst
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B8RLR969{{</world>}}

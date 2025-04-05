@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standard
+- Stretchanteil für mehr Komfort
+- Aus angenehmer Baumwolle
 - Weiche Baumwollqualität
 - Strickpullover mit rundem Halsausschnitt
-- Aus angenehmer Baumwolle
-- Stretchanteil für mehr Komfort
+- Standard
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B089NBMKM2{{</world>}}

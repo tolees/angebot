@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Wi-Fi-Router-Modus - Stecken Sie ein Ethernet-Kabel in den LAN/WAN-Anschluss für flexiblen Zugriff, wenn Sie keine 4G-Verbindung herstellen können
+- Systemanforderungen Microsoft Windows 98SE/NT/2000/XP/Vista/7/8/8.1/10, MAC OS, NetWare, UNIX oder Linux | Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 oder andere | Java-fähiger Browser | Micro-SIM-Karte
+- SCHNELLE WLAN-GESCHWINDIGKEIT - Verbinden Sie bis zu 32 WiFi-Geräte gleichzeitig mit einer WLAN-Geschwindigkeit von bis zu 300 Mbit/s. Die 2 LAN-Anschlüsse sind bereit, Internet für kabelgebundene Geräte wie Desktops oder Spielekonsolen bereitzustellen.
 - EINFACHE INSTALLATION - Keine Einrichtung erforderlich, die Kompatibilität mit SIM-Karten in über 100 Ländern wird durch jahrelange Feldtests gewährleistet.
 - WIFI-ROUTER-MODUS - Stecken Sie ein Ethernet-Kabel in den LAN/WAN-Port für flexiblen Zugriff als Backup-Option, wenn Sie keine 4G-Verbindung herstellen können
-- ABNEHMBARE 4G-ANTENNEN - Genießen Sie stabile und zuverlässige Verbindungen dank der 2 externen 4G-Antennen. Das 4G-Modem TL-MR100 verfügt über 2 SMA-Anschlüsse zum Anschluss externer 4G-Antennen.
-- Wi-Fi-Router-Modus - Stecken Sie ein Ethernet-Kabel in den LAN/WAN-Anschluss für flexiblen Zugriff, wenn Sie keine 4G-Verbindung herstellen können
-- SCHNELLE WLAN-GESCHWINDIGKEIT - Verbinden Sie bis zu 32 WiFi-Geräte gleichzeitig mit einer WLAN-Geschwindigkeit von bis zu 300 Mbit/s. Die 2 LAN-Anschlüsse sind bereit, Internet für kabelgebundene Geräte wie Desktops oder Spielekonsolen bereitzustellen.
 - Highspeed-4G-Modem - Teilen Sie Ihr 4G-Netzwerk mit bis zu 150 Mbit/s mit mehreren WiFi-Geräten und genießen Sie ununterbrochene HD-Filme, schnelle Datei-Downloads und reibungslose Videochats. Die TL-MR100 4G Box ist für diejenigen gedacht, die eine niedrige ADSL-Geschwindigkeit und eine gute 4G-Abdeckung haben.
+- ABNEHMBARE 4G-ANTENNEN - Genießen Sie stabile und zuverlässige Verbindungen dank der 2 externen 4G-Antennen. Das 4G-Modem TL-MR100 verfügt über 2 SMA-Anschlüsse zum Anschluss externer 4G-Antennen.
 - Legen Sie eine SIM-Karte ein und spielen Sie - Legen Sie einfach eine Micro-SIM-Karte ein und schalten Sie den Router ein. Genießen Sie dann schnelles und stabiles WLAN im 4G LTE-Netzwerk. Kompatibel mit Orange, SFR, Bouygues Telecom, Free Mobile. Nicht kompatibel mit 4G Home Flybox Orange-Abonnements (der Betreiber verbietet die Verwendung eines anderen Routers)
-- Systemanforderungen Microsoft Windows 98SE/NT/2000/XP/Vista/7/8/8.1/10, MAC OS, NetWare, UNIX oder Linux | Internet Explorer 11, Firefox 12.0, Chrome 20.0, Safari 4.0 oder andere | Java-fähiger Browser | Micro-SIM-Karte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B085PFRFKX{{</world>}}

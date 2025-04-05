@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verstärkung und RIAA Entzerrung für MM
 - Hartvergoldete RCA-Buchsen
-- Interne Abschirmung aus Metall, Externes Netzteil im Lieferumfang
+- Verstärkung und RIAA Entzerrung für MM
 - Kompakte Maße zur Aufstellung nah beim Plattenspieler
 - Designprinzip inspiriert von Dr. Sykora, SMD Schaltkreise mit sehr rauscharmen Komponenten
+- Interne Abschirmung aus Metall, Externes Netzteil im Lieferumfang
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KWTK086{{</world>}}

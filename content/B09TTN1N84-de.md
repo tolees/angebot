@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Detailliertes Spielzeugmodell eines Nissan GT-R Nismo zum Spielen und Sammeln, Für kleine und große Fans von Sportwagen und hohen Geschwindigkeiten
 - Perfekt zum platzsparenden Mitnehmen, Langanhaltender Spielspaß durch unzählige Kombinationsmöglichkeiten innerhalb der siku-Spielwelt
 - Lieferumfang: 1x siku 1579 Nissan GT-R Nismo, Material: Metall/Kunststoff, Maße: 8,0 x 3,4 x 2,5 cm, Gewicht: 0,0425 kg, Farbe: Schwarz/Weiß, Serie: SIKU SUPER
 - Robustes und stabiles Design dank Metallkarosserie, Sehr gute Rolleigenschaften durch Bereifung aus Gummi, Detailgetreues Design mit Heckflügel und rotem Streifen
+- Detailliertes Spielzeugmodell eines Nissan GT-R Nismo zum Spielen und Sammeln, Für kleine und große Fans von Sportwagen und hohen Geschwindigkeiten
 - Ideal als Geschenk für Kinder zu bspw. Geburtstagen oder für zwischendurch geeignet, aber auch als Dekoration für Erwachsenen-Geburtstage oder Hochzeitsgeschenke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

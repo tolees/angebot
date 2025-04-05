@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tragetasche; Höchstgewichtsbeschränkung: 300 lb (136 kg)
 - Leistungsstarke eingebaute USB-Pumpe für schnelles und einfaches Aufblasen und Ablassen der Luft; angetrieben von jeder 5-V-USB-Stromquelle mit einer Nennleistung von 2 Ampere und höher, einschließlich Smartphone-Ladegeräten, 12-V-USB-Autoladegeräten oder tragbaren Powerbanks
+- Tragetasche; Höchstgewichtsbeschränkung: 300 lb (136 kg)
 - Ungefähre Größe aufgeblasen: 99 cm x 1,91 m x 36 cm
 - Die einzigartige Bodenringkonstruktion sorgt für überlegene Stabilität
 

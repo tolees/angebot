@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhaltsstoffe: Organischer Dünger, NK 3,5-5, flüssig, minderchloridhaltig - für kräftige und üppige Pflanzen und eine reiche Ernte
-- Rein pflanzlicher Universal-Flüssigdünger für Zierpflanzen, Obst und -Gemüse im Kübel auf Balkon, Terrasse und Garten
 - Die Ausgangsstoffe sind gemäß EG Öko-Verordnung idgF für die ökologische/biologische Produktion geeignet
 - Hochwertige und ausgewogene Mischung aus planzlichen Nährstoffen für ein kräftiges Pflanzenwachstum und eine satte Ernte
+- Inhaltsstoffe: Organischer Dünger, NK 3,5-5, flüssig, minderchloridhaltig - für kräftige und üppige Pflanzen und eine reiche Ernte
 - Ausgewählte Rohstoffe auf rein pflanzlicher, veganer Basis ohne synthetische und tierische Inhaltsstoffe
+- Rein pflanzlicher Universal-Flüssigdünger für Zierpflanzen, Obst und -Gemüse im Kübel auf Balkon, Terrasse und Garten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B079QLPH9C{{</world>}}

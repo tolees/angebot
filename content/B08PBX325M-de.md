@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- KONTROLLE DER BATTERIELAUFZEIT: Mithilfe des elektronischen Kontrollsystems überwacht die Lampe die Akkulaufzeit, wodurch das Aufladen optimiert und eine ordnungsgemäße Nutzung gewährleistet wird
 - TOUCH CONTROL: Dank der Steuerung an der Oberseite des Kopfes können Sie die Lampe ein- und ausschalten, die Intensität anpassen und die Lichtfarbtemperatur zwischen 2200 K, 2700 K und 3000 K wählen
-- ENERGIEEFFIZIENZKLASSE: Hierbei handelt es sich um eine umgebende Leuchte, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden kann. Dieses Produkt enthält ein Leuchtimittel der Energieeffizienzklasse F
 - MODERN UND MINIMALISTISCH: Mit ihrem sandfarbenen Aluminiumgehäuse, dem Polykarbonatdiffusor und der LED-Lichtquelle passt sie zu jedem Einrichtungsstil und ist zudem individuell gestaltbar
 - WIEDERAUFLADBAR: Laden Sie die Poldina Pro Lampe auf, indem Sie sie auf die Kontaktladestation stellen. Die Lebensdauer der Batterie beträgt min. 12 Stunden, die Ladezeit bei 1A beträgt 6/7 Stunden
-- KONTROLLE DER BATTERIELAUFZEIT: Mithilfe des elektronischen Kontrollsystems überwacht die Lampe die Akkulaufzeit, wodurch das Aufladen optimiert und eine ordnungsgemäße Nutzung gewährleistet wird
 - AUCH FÜR DEN AUßENBEREICH: Dank ihres hohen Schutzindexes die kabellose Poldina Pro Lampe auch im Freien verwendet werden und sorgt für eine einzigartige Atmosphäre im Garten oder auf der Terrasse
+- ENERGIEEFFIZIENZKLASSE: Hierbei handelt es sich um eine umgebende Leuchte, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden kann. Dieses Produkt enthält ein Leuchtimittel der Energieeffizienzklasse F
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08PBX325M{{</world>}}

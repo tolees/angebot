@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Philips H7 Vision 12972PRC1
 - Verpackungseinheit:1er Karton
+- Philips H7 Vision 12972PRC1
 - 12V 55W PX26d
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

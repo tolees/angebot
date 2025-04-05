@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schiebedeckel und hintergrundbeleuchtetes Touchpanel verleihen Ihrer Maschine eine elegante, kompakte Ästhetik.
+- Der eingebaute Rollenzuführer ermöglicht das einfache Laden und Schneiden von Rollenmaterial wie Vinyl- und Textiltransferfolie.
+- Bluetooth, Print & Cut, PixScan kompatibel, für Windows und Mac, kostenlose Silhouette Studio Software
 - Mit dem eingebauten Querschneider können Sie Vinyl oder Wärme direkt von der Rolle abschneiden.
 - 3 mm Abstand für dickere Materialien.
-- Bluetooth, Print & Cut, PixScan kompatibel, für Windows und Mac, kostenlose Silhouette Studio Software
-- Der eingebaute Rollenzuführer ermöglicht das einfache Laden und Schneiden von Rollenmaterial wie Vinyl- und Textiltransferfolie.
+- Schiebedeckel und hintergrundbeleuchtetes Touchpanel verleihen Ihrer Maschine eine elegante, kompakte Ästhetik.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07XZKNJC6{{</world>}}

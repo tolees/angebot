@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit sportiven Streifen und Logo-Print
 - Gerade geschnittener
 - Rippbündchen
-- Mit sportiven Streifen und Logo-Print
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BSFG22G1{{</world>}}

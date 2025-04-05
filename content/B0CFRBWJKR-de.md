@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zwei separate Tanks - immer mit frischem Wasser reinigen.
-- HydroSteam-Technologie - entfernt festsitzende, klebrige Verschmutzungen, Schmutz und Schmiere.
 - Dampfvorbehandlungsmodus - für hartnäckige, getrocknete, klebrige Verschmutzungen.
+- HydroSteam-Technologie - entfernt festsitzende, klebrige Verschmutzungen, Schmutz und Schmiere.
 - Schnelltrocknungsmodus - für trockene Teppiche in etwa 30 Minuten.*
 - Dual Dirtlifter Powerbrushes - 2 rotierende Bürstenwalzen entfernen tief eingebettete Flecken.
 

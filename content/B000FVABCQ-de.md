@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Italien
-- Geschenkverpackung
 - für 3 Tassen
 - h. 22.4 cm
 - A di Alessi
+- Italien
+- Geschenkverpackung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000FVABCQ{{</world>}}

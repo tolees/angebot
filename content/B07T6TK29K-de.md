@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - MATERIAL - 95% Baumwolle, 5% Elasthan
 - PASSFORM - Oberschenkellanger Slim Fit Schnitt.
-- BASIC - Ein Allrounder für Everyday Tragekomfort. JACHUEY
 - JACHUEY TRUNKS 7 PACK NOOS
+- BASIC - Ein Allrounder für Everyday Tragekomfort. JACHUEY
 - PERFEKT- Kurze Unterhose mit Logo bedrucktem Gummizug.
 
 [🛒 Hier!!]({{< param buyurl >}})

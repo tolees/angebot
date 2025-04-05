@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- INTERNATIONAL
+- MUSIC
 - MUSICA CLASICA
 - KOLLO / MOLL / KLEIBER / STAAT
-- MUSIC
-- INTERNATIONAL
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0006ZFQP8{{</world>}}

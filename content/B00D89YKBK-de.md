@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehen Sie sich den Messverlauf für den Raum und die Grafiken über die App an
-- Lassen Sie sich bei Veränderungen der Wohnumgebung in diesem Raum benachrichtigen
-- Verbessern Sie ganz einfach die Luftqualität in einem weiteren Raum
-- Optimieren Sie Ihr Wohlbefinden anhand der in dem Raum gemessenen Werte
 - Greifen Sie über Ihr Smartphone in Echtzeit auf die Messdaten eines weiteren Raums zu
+- Sehen Sie sich den Messverlauf für den Raum und die Grafiken über die App an
 - Zubehör für Netatmo Smarte Wetterstation (nicht enthalten)
+- Lassen Sie sich bei Veränderungen der Wohnumgebung in diesem Raum benachrichtigen
+- Optimieren Sie Ihr Wohlbefinden anhand der in dem Raum gemessenen Werte
+- Verbessern Sie ganz einfach die Luftqualität in einem weiteren Raum
 - Netatmo Hilfe: Wenn Sie bei der Installation oder Anwendung Ihres Produktes Unterstützung benötigen, können Sie unser Hilfs-Menü unter helpcenter. netatmo/de aufrufen oder uns an contact-@netatmo schreiben
 
 [🛒 Hier!!]({{< param buyurl >}})

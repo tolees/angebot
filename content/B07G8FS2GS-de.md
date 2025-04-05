@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DURCHDACHT: Durch den genauen 90° Winkel der seitlichen Messfläche können Vertikalmessungen mit der Horizontal-Libelle vorgenommen werden
+- STARK & GENAU: Mini Wasserwaage mit starkem Neodym-Magnet für horizontale und vertikale Messungen mit einer Messgenauigkeit von ± 1,0 mm/m
 - KOMPAKT: Die kleine Wasserwaage kann für Messungen an Rohren, Säulen, metallischen Oberflächen und engen, unzugänglichen Stellen verwendet werden und ist dank praktischer Gürtelklemme immer dabei
 - BESSER ABLESEN: Bruchfeste SOLA FOCUS Libellen aus Acrylglas mit 30 Jahren Dichtheitsgarantie sorgen für bessern Kontrast und leichtere Ablesbarkeit
 - ELEKTRIKER WERKZEUG: Der glasfaserverstärkte Kunststoff ist elektrisch nicht leitend und darüber hinaus resistent gegen Wasser, Wärme und Kälte
-- STARK & GENAU: Mini Wasserwaage mit starkem Neodym-Magnet für horizontale und vertikale Messungen mit einer Messgenauigkeit von ± 1,0 mm/m
+- DURCHDACHT: Durch den genauen 90° Winkel der seitlichen Messfläche können Vertikalmessungen mit der Horizontal-Libelle vorgenommen werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07G8FS2GS{{</world>}}

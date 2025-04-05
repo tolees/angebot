@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- softe Haptik
-- Photoprint vorne, kleiner Logo Print hinten
 - Label Patch am linken Ärmel
+- softe Haptik
 - Rundhalsausschnitt mit Rippblende
+- Photoprint vorne, kleiner Logo Print hinten
 - gestreiftes Necktape
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

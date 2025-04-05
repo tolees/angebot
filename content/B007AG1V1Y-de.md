@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sofort startklar ohne Installation, Super Speed USB Anschluss 3.0 (abwärtskompatibel zu USB 2.0), Stromversorgung über Netzadapter
 - 3,5 Zoll (8,9 cm) externe Festplatte, Kunststoffgehäuse, FAT32, Plug & Play, 5400 U/min, LED Anzeige
-- Stromversorgung: durch externen Netzadapter (12V-2A)
 - Max. Datentransferrate: Lesen (85MB/s), Schreiben (75MB/s)
+- Sofort startklar ohne Installation, Super Speed USB Anschluss 3.0 (abwärtskompatibel zu USB 2.0), Stromversorgung über Netzadapter
+- Stromversorgung: durch externen Netzadapter (12V-2A)
 - Systemvoraussetzung: MS Windows XP/Vista/7 oder MAC OS 10.x
 
 [🛒 Hier!!]({{< param buyurl >}})

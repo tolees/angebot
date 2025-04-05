@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Jack & Jones
 - bewährte Jack & Jones Qualität
 - kurzarm
-- Frontprint
-- Jack & Jones
 - Rundhals Ausschnitt
+- Frontprint
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BHXH7Z5F{{</world>}}

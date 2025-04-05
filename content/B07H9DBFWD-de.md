@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Temperaturanpassung
-- Régime: ac 220-240v - 50/60hz
-- Nicht -slip -stützfüsse
-- Puissance: 500 W
-- Zündlicht
 - Gusseisenplatte
+- Zündlicht
+- Régime: ac 220-240v - 50/60hz
+- Puissance: 500 W
 - Plattendurchmesser 11 cm
+- Temperaturanpassung
+- Nicht -slip -stützfüsse
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07H9DBFWD{{</world>}}

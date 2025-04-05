@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Aussparungen für die Kamera und alle Anschlüsse sorgen für optimale Bedienbarkeit - zusätzlich ist eine Halterung für den Surface Stift vorhanden.
-- Das Metropolis Cover von UAG erfüllt den Falltest-Standard des US-Militärs (MIL STD 810G-516.6) und ist dadurch absolut schlagresistent
 - Stufenlos verstellbarer Kickstand mit dem Sie das Surface horizontal aufstellen können, um Videos, Serien, Filme o.ä. bequem in Querformat genießen zu können
-- Kompatibilität mit Surface Pro 7/Pro 6/Surface Pro 5th Gen (2017)/Surface Pro 4/Surface LTE. Diese Schutzhülle ist komplett kompatibel mit der Surface Type Cover Tastatur
+- Das Metropolis Cover von UAG erfüllt den Falltest-Standard des US-Militärs (MIL STD 810G-516.6) und ist dadurch absolut schlagresistent
 - Durch dünnes und griffiges Außenmaterial ist eine besonders gute Haptik in Verbindung mit einem sicheren Handling gewährleistet
+- Kompatibilität mit Surface Pro 7/Pro 6/Surface Pro 5th Gen (2017)/Surface Pro 4/Surface LTE. Diese Schutzhülle ist komplett kompatibel mit der Surface Type Cover Tastatur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B016ATD48O{{</world>}}

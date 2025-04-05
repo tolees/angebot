@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit 16 herausreißbaren Seiten, mit Falttasche hinten
 - holzfreies Papier, 80g/m² creme, 96 Blatt blanko
+- mit 16 herausreißbaren Seiten, mit Falttasche hinten
 - Notizbuch A5, Herlitz, my.book Classic, Kunstleder schwarz
 - 1 Stück
 - mit Leseband und Stifteschlaufe, mit Gummizug zum Verschließen

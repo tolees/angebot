@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kriminalfall lesen – Leuchtpuzzle legen – Rätsel lösen
 - Mit exklusiver Die drei ??? Kids-Kriminalgeschichte
+- Puzzle leuchtet im Dunkeln
+- Kriminalfall lesen – Leuchtpuzzle legen – Rätsel lösen
 - Inklusive Lupe zum Aufspüren von versteckten Hinweisen
 - Zum Knobeln für alle Fans von Die drei ??? Kids
-- Puzzle leuchtet im Dunkeln
 - Tolles Geburtstagsgeschenk
 
 [🛒 Hier!!]({{< param buyurl >}})

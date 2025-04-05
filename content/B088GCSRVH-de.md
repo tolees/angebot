@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vorgeformte Kniepartie
-- Taschen: Zwei Einschubtaschen, Zwei Beintaschen, Ein Multitool-Tasche, Ein Telefontasche
 - Vorgeformte Knie, verstellbare Beinabschlüsse, Stiefelhaken
+- Taschen: Zwei Einschubtaschen, Zwei Beintaschen, Ein Multitool-Tasche, Ein Telefontasche
 - Erwachsener
+- Vorgeformte Kniepartie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B088GCSRVH{{</world>}}

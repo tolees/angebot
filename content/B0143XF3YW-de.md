@@ -29,13 +29,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PIMF-Kabel (Paare In Metall Folie)
+- Beschichtung des Steckverbinders: Nickel
+- Belegt nach Farbcode ANSI/TIA-568-C.2
 - Steckverbinder A: RJ45-Stecker
 - Packungsgewicht: 6.239 kg
-- Steckverbinder B: RJ45-Stecker
-- Belegt nach Farbcode ANSI/TIA-568-C.2
-- Stecker: RJ45 geschirmt, Snagless (Klinkenschutz), goldbeschichtete Kontakte
-- Beschichtung des Steckverbinders: Nickel
 - Packung die Größe: 33.0 L x 23.8 H x 35.2 W (cm)
+- Stecker: RJ45 geschirmt, Snagless (Klinkenschutz), goldbeschichtete Kontakte
+- Steckverbinder B: RJ45-Stecker
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0143XF3YW{{</world>}}

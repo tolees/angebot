@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Duschbad für die tägliche Anwendung mit dermatologisch getesteter Hautverträglichkeit
-- pH-hautneutrales Duschgel mit prickelnd-frischem Duft nach Limette und Minze für 12 Stunden Dufterlebnis
-- Das Duschdas Duschgel in der nachfüllbaren Eco-Flasche aus 100% recyceltem Plastik** kann vollständig recycelt werden
 - Duschdas Duschgel Limette Minze mit der Fresh-Energy-Duftformel sorgt für ein erfrischendes Duscherlebnis
+- pH-hautneutrales Duschgel mit prickelnd-frischem Duft nach Limette und Minze für 12 Stunden Dufterlebnis
+- Duschbad für die tägliche Anwendung mit dermatologisch getesteter Hautverträglichkeit
+- Das Duschdas Duschgel in der nachfüllbaren Eco-Flasche aus 100% recyceltem Plastik** kann vollständig recycelt werden
 - Duschbad mit 99% biologisch abbaubarer Formel* und 0% Mikroplastik
 
 [🛒 Hier!!]({{< param buyurl >}})

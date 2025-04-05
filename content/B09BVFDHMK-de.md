@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ENORMER BASS: Unsere Technologie analysiert das Klangprofil der kabellosen Kopfhörer in Echtzeit und erhöht dank den starken 10mm Audiotreibern niedrige Frequenzen mit 50% mehr Bass.
 - FEDERLEICHTES DESIGN: Das minimalistische Format der kabellosen In-Ear Kopfhörer wiegt nur 4,4 Gramm und ist um 10% leichter als Standard-Earbuds - für absolut bequeme Schwerelosigkeit.
 - 3 INDIVIDUELLE MODI: Bass Booster für intensive Songs, Podcast Modus für Podcasts und Audiobücher sowie Soundcore Signature Modus für alle weiteren Musikarten. Nach jedem Moduswechsel hörst du einen kurzen Ton.
-- ENORMER BASS: Unsere Technologie analysiert das Klangprofil der kabellosen Kopfhörer in Echtzeit und erhöht dank den starken 10mm Audiotreibern niedrige Frequenzen mit 50% mehr Bass.
 - TELEFONIEREN MIT K.I.: Wir haben die integrierten Mikrofone deiner P2 Mini Bluetooth-Kopfhörer in idealer Ausrichtung positioniert und tausende von Malen getestet, damit deine aufgenommene Stimme beim Telefonieren so messerscharf wie möglich zu hören ist.
 - SOUNDCORE: Eine Marke von Anker Innovations.
 

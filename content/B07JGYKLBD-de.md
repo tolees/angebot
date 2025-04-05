@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - aufgefüllt bis zu 4 Std. einsatzbereit
-- Brust- und Bauchriemen stufenlos vestellbar
 - Akkubetrieb, per USB aufladbar
+- Brust- und Bauchriemen stufenlos vestellbar
 - Meshgewebe (Nylon)
 - spritzwassergeschützt
 

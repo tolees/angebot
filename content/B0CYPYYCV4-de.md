@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Neu entwickelter α8 4K AI-Prozessor mit zahlreichen AI-Funktionen für bestmögliche Bildqualität und optimalen Sound
-- webOS24 mit 4 Jahren Upgrade-Garantie und Magic Remote-Fernbedienung für komfortable Bedienung
 - 4K NanoCell-Display mit LED-Backlight für reine Farben
+- webOS24 mit 4 Jahren Upgrade-Garantie und Magic Remote-Fernbedienung für komfortable Bedienung
 - Filmmaker Mode für kinogleiches Entertainment
 - HGiG-Unterstützung für realistische HDR-Darstellung in Spielen
 

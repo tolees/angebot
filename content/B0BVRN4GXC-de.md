@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Art: Konstruktionsspielzeug
-- Teile: 47 -teilig
 - Material: Kunststoff
-- Altersangabe: ab 6 Jahren
+- Teile: 47 -teilig
 - Serie: Disney Princess
+- Altersangabe: ab 6 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BVRN4GXC{{</world>}}

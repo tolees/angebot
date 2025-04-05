@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Quecksilberfreie Lampen
 - Sockel: E27, B22d
+- Sockel: E27, B22d
+- Quecksilberfreie Lampen
+- Nicht Dimmbar
 - Professionelle LED-Lampen für Netzspannung
+- Nicht Dimmbar
+- Quecksilberfreie Lampen
 - Sehr geringer Energieverbrauch
-- Nicht Dimmbar
 - Professionelle LED-Lampen für Netzspannung
-- Nicht Dimmbar
-- Sockel: E27, B22d
-- Quecksilberfreie Lampen
 - Sehr geringer Energieverbrauch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

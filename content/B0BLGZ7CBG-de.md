@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Front Reißverschluss mit Untertritt
-- 2 Fronttaschen mit Reißverschluss
-- Klassische Softshelljacke zum Wandern
 - Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
+- 2 Fronttaschen mit Reißverschluss
 - Kordelzug im Saum durch die Taschen regulierbar
+- Klassische Softshelljacke zum Wandern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BLGZ7CBG{{</world>}}

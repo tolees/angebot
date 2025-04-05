@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Mit seinem robusten Ultra-Slim-Gehäuse und dem integrierten USB-Kabel ist der Hub bestens geeignet für den mobilen Einsatz – ein Netzteil ist nicht nötig
-- Weiteres Zubehör auf amazon.de/kabeldirekt
+- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Der Vierfach-Verteiler erweitert PCs oder Macs um zusätzliche USB-Ports – für Tastaturen und Mäuse, USB-Sticks und externe Festplatten/SSDs, Headsets, Kameras, Drucker und alle anderen Geräte mit USB-Anschluss, egal ob USB 1.1, 2.0 oder 3.0
+- Weiteres Zubehör auf amazon.de/kabeldirekt
 - Die superschnelle USB-3.0-Verbindung überträgt Daten mit bis zu 5 Gbit/s – ideal für hochauflösende Fotos, HD-Filme oder umfangreiche Backups. Über den Betrieb informiert eine diskrete blaue LED
 
 [🛒 Hier!!]({{< param buyurl >}})

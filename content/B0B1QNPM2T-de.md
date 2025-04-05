@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verbesserte Stabilität bei Übertaktung
-- Plug N Play bei 4.800 MT/s⁴
 - Patentiert Kingston FURY Infrared Sync Technology
-- Von weltweit führenden Motherboard-Herstellern geprüft³
 - AMD EXPO und Intel XMP 3.0 zertifiziert
+- Plug N Play bei 4.800 MT/s⁴
+- Von weltweit führenden Motherboard-Herstellern geprüft³
 - Verbesserte RGB-Beleuchtung mit neuem Heatspreader-Design²
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

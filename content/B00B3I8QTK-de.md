@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - mit Umschalthebel
 - FlankTraction-Profil
-- vier verschiedene Schlüsselweiten
 - exakt verzahnt mit 72 Zähnen
+- vier verschiedene Schlüsselweiten
 - mit Gelenk
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 🚀【Parameter】TATTU 380mAh 1S lipo Akku,Zellen:1S,Spannung:3,7V,Kapazität:380mAh,Gewicht:12g/0,03 lb,Abmessungen(L*B*H):38*21*9mm/1,5*0,83*0,35 Zoll,Ausgleichsstecker:Molex Stecker,Lieferumfang: Softcase
-- 🚀【Materialien】Fortschrittliche Lithiumpolymer-Rohstoffe in Japan und Korea. Wir sind Spezialisten für Hochleistungs-Lipo-Batterien, unsere Batterien können gleichzeitig stabil entladen werden. Es ist unsere einzigartige Technologie
 - 🚀【Vorteil】Schnellladung, lange Lebensdauer (mindestens 150-mal), bis zu 200 Wh/kg Energiedichte, liefert stabile Spannung bis zum Ende Ihrer Mission.
 - 🚀【Anwendungen】Tattu 1S LiPo Akku 380mAh 3.7V 25C mit Molex Stecker für Graupner Alpha 110 RC Quadcopter Teile Drone (6PCS)
 - 🚀【Nach dem Verkauf】 Bitte lesen Sie das Benutzerhandbuch sorgfältig durch, bevor Sie es verwenden. Unser Unternehmen unterhält den offiziellen Store der Marke Amazon, Versand, Qualität und Kundendienst in Deutschland. Wir bieten 180 Tage Garantie.
+- 🚀【Materialien】Fortschrittliche Lithiumpolymer-Rohstoffe in Japan und Korea. Wir sind Spezialisten für Hochleistungs-Lipo-Batterien, unsere Batterien können gleichzeitig stabil entladen werden. Es ist unsere einzigartige Technologie
+- 🚀【Parameter】TATTU 380mAh 1S lipo Akku,Zellen:1S,Spannung:3,7V,Kapazität:380mAh,Gewicht:12g/0,03 lb,Abmessungen(L*B*H):38*21*9mm/1,5*0,83*0,35 Zoll,Ausgleichsstecker:Molex Stecker,Lieferumfang: Softcase
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CTC5SLG6{{</world>}}

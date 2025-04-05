@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Superschnelle Verbindung dank SLIPSTREAM WIRELESS: SLIPSTREAM WIRELESS ermöglicht eine Drahtlosverbindung von unter 1 ms zu Ihrem PC oder Mac. Weitere Verbindungsoptionen sind vielseitiges Bluetooth und USB-Kabel.
+- Akkulaufzeit bis zu 110 Stunden*: Mit nur einer Akkuladung können Sie unterbrechungsfrei ein Spiel nach dem anderen spielen. *110 Stunden Akkulaufzeit über Bluetooth. 60 Stunden Akkulaufzeit über SLIPSTREAM WIRELESS
+- Optischer CORSAIR MARKSMAN-Sensor mit 26.000 DPI: Mit unglaublichen 26.000 DPI und 650 IPS-Tracking bei bis zu 50G Beschleunigung erfasst der MARKSMAN-Sensor präzise jede Mausbewegung.
 - Ultraleicht mit nur 69 g: Ermöglicht mühelose und extrem agile Mausbewegungen für lange Gaming-Sessions.
 - CORSAIR QUICKSTRIKE-Tasten: Verfügen über eine Federung, und zwischen den primären Maustasten und ihren OMRON-Schaltern ist kein Abstand vorhanden, sodass Ihre Klicks, Schüsse und Zauber blitzschnell registriert werden.
-- Optischer CORSAIR MARKSMAN-Sensor mit 26.000 DPI: Mit unglaublichen 26.000 DPI und 650 IPS-Tracking bei bis zu 50G Beschleunigung erfasst der MARKSMAN-Sensor präzise jede Mausbewegung.
-- Akkulaufzeit bis zu 110 Stunden*: Mit nur einer Akkuladung können Sie unterbrechungsfrei ein Spiel nach dem anderen spielen. *110 Stunden Akkulaufzeit über Bluetooth. 60 Stunden Akkulaufzeit über SLIPSTREAM WIRELESS
-- Superschnelle Verbindung dank SLIPSTREAM WIRELESS: SLIPSTREAM WIRELESS ermöglicht eine Drahtlosverbindung von unter 1 ms zu Ihrem PC oder Mac. Weitere Verbindungsoptionen sind vielseitiges Bluetooth und USB-Kabel.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BGPRJHJJ{{</world>}}

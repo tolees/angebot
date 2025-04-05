@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichter Trekking-Stiefel für Männer aus robustem Veloursleder mit GORE-TEX Futter für alpine Touren
 - Einzelschuhgewicht: 700g
 - Außensohle: Vibram WTC
 - Flex Collar: Dank einer gebogenen Rückseite bietet der FLEX COLLAR dem Knöchel einen erhöhten Bewegungsfreiraum nach hinten und somit mehr Komfort bei schnellen Abstiegen mit großen Schritten
+- Leichter Trekking-Stiefel für Männer aus robustem Veloursleder mit GORE-TEX Futter für alpine Touren
 - 3F System: Unser 3F System verbindet Schnürsystem, Sohle und Ferse für die perfekte Kombination aus Passform, Flexibilität, Support
 
 [🛒 Hier!!]({{< param buyurl >}})

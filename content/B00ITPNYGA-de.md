@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichter Kompakt-Bohrschrauber mit extrem kurzer Bauform für den vielseitigen Einsatz
-- Integriertes Arbeitslicht zum Ausleuchten der Arbeitsstelle
-- Mit praktischem Gürtelhaken, werkzeuglos rechts oder links fixierbar
-- Spindel mit Innensechskant für Schrauber-Bits zum Arbeiten ohne Bohrfutter
 - Lieferumfang: Schnellspannbohrfutter, Gürtelhaken, Li-Power Stecksitz-Akkupack (12 V/2,0 Ah), Ladegerät LC 40, Werkzeugtasche
+- Leichter Kompakt-Bohrschrauber mit extrem kurzer Bauform für den vielseitigen Einsatz
+- Spindel mit Innensechskant für Schrauber-Bits zum Arbeiten ohne Bohrfutter
+- Mit praktischem Gürtelhaken, werkzeuglos rechts oder links fixierbar
+- Integriertes Arbeitslicht zum Ausleuchten der Arbeitsstelle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00ITPNYGA{{</world>}}

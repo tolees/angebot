@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibilität: DJI Action 2
-- Lieferumfang: DJI Action 2 Makro-Objektiv נ1
 - Benutz das Makro-Objektiv für kreative Nahaufnahmen, um schärfere Details hervorzuheben.
+- Lieferumfang: DJI Action 2 Makro-Objektiv נ1
+- Kompatibilität: DJI Action 2
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09HKDR3FN{{</world>}}

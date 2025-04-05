@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wi-Fi
-- Light-up Marquee
 - 19" LCD monitor
+- Light-up Marquee
+- Wi-Fi
 - 4 players
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

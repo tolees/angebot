@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
-- Touch ID für sicheres Authentifizieren und Apple Pay
-- Stereo-Lautsprecher im Querformat
-- 10,9" Liquid Retina Display1 mit True Tone, großem P3 Farbraum und Antireflex-Beschichtung
-- Bis zu 256 GB Speicher
 - WLAN 6 und 5G Mobilfunkdaten
-- 12 MP Weitwinkel-Kamera
+- Bis zu 256 GB Speicher
+- 10,9" Liquid Retina Display1 mit True Tone, großem P3 Farbraum und Antireflex-Beschichtung
+- Stereo-Lautsprecher im Querformat
 - Apple M1 Chip mit Neural Engine
 - Batterie für den ganzen Tag
+- 12 MP Weitwinkel-Kamera
 - Erhältlich in Blau, Violett, Rosé, Polarstern und Space Grau
+- Touch ID für sicheres Authentifizieren und Apple Pay
+- 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09V4BWKCF{{</world>}}

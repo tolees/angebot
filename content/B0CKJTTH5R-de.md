@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Markenlogo-Detail
 - Textilfutter
+- Markenlogo-Detail
 - Einlegesohle zum Hineinsteigen
 
 [🛒 Hier!!]({{< param buyurl >}})

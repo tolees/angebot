@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- realme UI
-- Audio: Dolby Atmos & Hi-Res
 - 30W Dart Charge:0-100 % in 65 Minuten
-- Ausdauernder 5000-mAh-Akku. Akku 25 Tage: Standby; 35 Stunden: Anrufen; 17 Stunden: YouTube; 9 Stunden: PUBG
-- 120Hz Display Ultra Smooth Display, Ultrahohe Bildschirmabtastrate: 180 Hz
-- 6GB ROM+128GB ROM,NFC,GPS
 - Dimensity 5G + 5G DSDSDS
 - 48 MP Quad Kamera, Unterstützt Nightscape
+- realme UI
+- Audio: Dolby Atmos & Hi-Res
+- 120Hz Display Ultra Smooth Display, Ultrahohe Bildschirmabtastrate: 180 Hz
+- 6GB ROM+128GB ROM,NFC,GPS
+- Ausdauernder 5000-mAh-Akku. Akku 25 Tage: Standby; 35 Stunden: Anrufen; 17 Stunden: YouTube; 9 Stunden: PUBG
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08MR37F2D{{</world>}}

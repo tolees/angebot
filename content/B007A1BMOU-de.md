@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kieferorthopädie.
 - Zahnzwischenräume.
 - Zahnfleisch.
+- Kieferorthopädie.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B007A1BMOU{{</world>}}

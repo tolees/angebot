@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit dem berühmten Visorsticker auf dem Visor
-- Marke: New Era
-- New Era Flag auf der linken Seite
 - 96% Baumwolle, 4% Elastan
 - Team: New York Yankees
+- New Era Flag auf der linken Seite
+- mit dem berühmten Visorsticker auf dem Visor
+- Marke: New Era
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004WOD2V4{{</world>}}

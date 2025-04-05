@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fluffy ist der dreiköpfige Hund von Hagrid, der den Stein der Weisen bewacht.
-- Fluffy trägt ein Halsband um den mittleren seiner drei Köpfe. Seine Ohren liegen angriffslustig nach hinten gelegt. Auch seine spitzen Zähne sind nicht zu unterschätzen.
 - Eine Welt voller Magie erscheint von schleich für dich zum Spielen und Sammeln!
+- Fluffy trägt ein Halsband um den mittleren seiner drei Köpfe. Seine Ohren liegen angriffslustig nach hinten gelegt. Auch seine spitzen Zähne sind nicht zu unterschätzen.
+- Fluffy ist der dreiköpfige Hund von Hagrid, der den Stein der Weisen bewacht.
 - schleich Produkte inspirieren die Fantasie und jede Figur garantiert ein pädagogisch wertvolles Spielerlebnis voller Abenteuer.
 - Die schleich Figur Fluffy gehört zur Themenwelt Wizarding World rund um Harry Potter und ist für Fans ab 6 Jahren geeignet.
 

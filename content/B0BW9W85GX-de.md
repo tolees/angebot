@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Passform : Skinny Fit
 - Taille : Mid Rise
 - Taschen : Gesäßtaschen, Münztasche, Taschen vorn
-- Passform : Skinny Fit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BW9W85GX{{</world>}}

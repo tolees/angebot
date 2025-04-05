@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hose
-- Elastizierte Taille mit Schnur
 - Schneiden
+- Elastizierte Taille mit Schnur
 - Verschluss: Pull On
 - Seitentaschen
 

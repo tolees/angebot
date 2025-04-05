@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- schlagfeste Stoßstange, Hochleistungsgummireifen
-- 30 cm, Maßstab 1: 16
 - Spielzeugauto mit Funkfernsteuerung (2-Kanal, 27 Mhz)
+- 30 cm, Maßstab 1: 16
 - Geschwindigkeit bis zu 10km/h
 - Frontlicht während der Fahrt, Lenkungsfeineinstellung
+- schlagfeste Stoßstange, Hochleistungsgummireifen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01CIKB2KQ{{</world>}}

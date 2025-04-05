@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BRD
-- 150
 - Deutsch, Japanisch
+- 150
+- BRD
 - Shinya Lino
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

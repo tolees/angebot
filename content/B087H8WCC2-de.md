@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deutsch, Japanisch
-- Masashi Ikeda, Yasunao Aoki
 - BRD
 - 700
+- Masashi Ikeda, Yasunao Aoki
+- Deutsch, Japanisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B087H8WCC2{{</world>}}

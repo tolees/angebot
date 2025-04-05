@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Best Price Square
-- Manufacturer Part Number: 17866
-- Manufacturer Name: TRUST
 - COOLING STAND, CYCLONE NOTEBOOK, TRUST 17866 By TRUST
+- Manufacturer Name: TRUST
+- Manufacturer Part Number: 17866
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005GNMCLQ{{</world>}}

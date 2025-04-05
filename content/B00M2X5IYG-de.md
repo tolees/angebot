@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Intenso Slim Line USB-A Speicherstick mit 64 GB Speicherplatz und praktischem Schlüsselband
-- Optimal für Autoradio und Notebook aufgrund der minimalen Größe
-- Gewicht: federleichte 2 g; Abmessungen: 20 x 15 x 7 mm
-- Zur Anwendung des USB 3.2 Standards wird 3.x fähige Hardware benötigt
 - Dank der USB 3.2 Gen 1x1 Schnittstelle werden Übertragungsraten von bis zu 100 MB/s erreicht
+- Gewicht: federleichte 2 g; Abmessungen: 20 x 15 x 7 mm
+- Optimal für Autoradio und Notebook aufgrund der minimalen Größe
+- Zur Anwendung des USB 3.2 Standards wird 3.x fähige Hardware benötigt
+- Lieferumfang: Intenso Slim Line USB-A Speicherstick mit 64 GB Speicherplatz und praktischem Schlüsselband
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00M2X5IYG{{</world>}}

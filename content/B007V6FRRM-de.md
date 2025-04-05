@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entfernt Make-up von Gesicht und Augen
 - Ohne Abspülen
 - Reinigung, Make-up-Entferner und Gesichtswasser in Einem
+- Entfernt Make-up von Gesicht und Augen
 - Befreit die Haut von Unreinheiten und Schmutzpartikeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- How well can you play the part? Hone your acting skills by completing missions in Pretend Time mini-games!
 - A hair and makeup apprentice, talented young actor, popular university classmate, and a beautiful model… Who will teach Chiyuki what it means to love?
+- How well can you play the part? Hone your acting skills by completing missions in Pretend Time mini-games!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BMB9PHZW{{</world>}}

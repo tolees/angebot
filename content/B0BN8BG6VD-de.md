@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In dem Strategiespiel nutzt du deine Waffen. Vergesst dabei nicht eure beste Waffe: Zusammenarbeit. Denn nur gemeinsam holt ihr das Beste aus euch heraus und schaltet mächtige Fähigkeiten frei
+- 1-6 Spieler , Ab 14+ Jahren , 60 Minuten Spielzeit je Partie , Autoren: Fel Barros und Fabio Tola , Spiel in Deutsch , Mehrsprachig
 - In dem kooperativen Dungeon Crawler bist du ein Überlebender und kämpfst gegen fiese Zombies. Erfülle die Aufgaben deiner Mission und strecke so viele Zombies wie möglich nieder
+- In dem Strategiespiel nutzt du deine Waffen. Vergesst dabei nicht eure beste Waffe: Zusammenarbeit. Denn nur gemeinsam holt ihr das Beste aus euch heraus und schaltet mächtige Fähigkeiten frei
 - Die Miniaturen-Erweiterung Batman Dark Nights Metal Pack 3 ergänzt dein Grundspiel Zombicide: 2. Edition um Batman Erde-11 und Batman Erde-52, die du als Überlebender oder Monstrum spielen kannst
 - Zum Spielen dieser Erweiterung der Comic-Serie Batman Dark Nights Metal benötigst du ein Grundspiel Zombicide: 2. Edition
-- 1-6 Spieler , Ab 14+ Jahren , 60 Minuten Spielzeit je Partie , Autoren: Fel Barros und Fabio Tola , Spiel in Deutsch , Mehrsprachig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BN8BG6VD{{</world>}}

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schließe dich den Helldivers an und kämpfe mit Freunden für die Freiheit:
 - TAUCHE EIN IN DEN KAMPF FÜR DIE FREIHEIT – Wir brauchen mutige Bürger, die durch die Galaxie reisen, um unvorhersehbare, feindliche Welten zu befreien und unsere Botschaft von Frieden, Freiheit und gelenkter Demokratie zu verbreiten – in schnellen, rasanten und wilden Missionen.
-- Jetzt vorbestellen für drei Panzerungssets: "TR-7-Markenbotschafter" – Werbepanzerung der SUMY Corp. als Teil einer äußerst erfolgreichen Marketingkampagne für Frozen Yogurt., "TR-62-Ritter" – Entwickelt, um auch in den dunkelsten Ecken der Galaxie für Gerechtigkeit zu sorgen. & "Kavalier der Demokratie TR-9" – Träger dieser Panzerung reiten nicht auf einem Pferd, werden jedoch auf dem treuen Ross der Freiheit in die Schlacht getragen.
 - WERDE ZUR LEGENDE – Als Teil der Elitetruppen von Über-Erde steht dir die gesamte Macht des Militärs zur Verfügung. Steige in den Rängen auf, während du überlebenswichtige Missionen erfüllst, das Blatt im Kampf wendest und die Front schützt.
 - DER GALAKTISCHE KRIEG – Während der Galaktische Krieg an mehreren Fronten tobt, werden Kampagnen gekämpft, gewonnen und verloren. Unsere von der Flagge verlassenen Feinde bekämpfen uns auf Schritt und Tritt, doch wir werden nicht ruhen, bis jedes Wesen seine Freiheit hat!
+- Jetzt vorbestellen für drei Panzerungssets: "TR-7-Markenbotschafter" – Werbepanzerung der SUMY Corp. als Teil einer äußerst erfolgreichen Marketingkampagne für Frozen Yogurt., "TR-62-Ritter" – Entwickelt, um auch in den dunkelsten Ecken der Galaxie für Gerechtigkeit zu sorgen. & "Kavalier der Demokratie TR-9" – Träger dieser Panzerung reiten nicht auf einem Pferd, werden jedoch auf dem treuen Ross der Freiheit in die Schlacht getragen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJBZR11M{{</world>}}

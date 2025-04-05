@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Samtweiches Lippengefühl
-- Das perfekte Gloss-Finish zaubert einen sensationell glamourösen Look.
 - Läuft nicht aus und färbt nicht ab.
+- Samtweiches Lippengefühl
 - Langanhaltende Feuchtigkeit und Pflege
+- Das perfekte Gloss-Finish zaubert einen sensationell glamourösen Look.
 - Intensive Farben - mit Hyaluron-Füller
 
 [🛒 Hier!!]({{< param buyurl >}})

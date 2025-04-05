@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Brennt nicht in den Augen
+- Reinigt sanft
 - La Roche-Posay
 - Schützt empfindliche Haut
-- Reinigt sanft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00V4PHBO8{{</world>}}

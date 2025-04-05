@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- HP
 - HP Elektronik
 - Zubehör
-- HP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B084PCVSM8{{</world>}}

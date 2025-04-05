@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Figur ist 9 cm groß und wird in einer Schaufensterbox geliefert
 - Sammle sie alle!
+- Die Figur ist 9 cm groß und wird in einer Schaufensterbox geliefert
 - Funko POP! Vinyl
 - Schauen Sie sich auch die anderen Funko-Figuren an, die dieser Sammlung gewidmet sind
 

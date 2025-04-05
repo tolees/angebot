@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Optische Schalter für Links- und Rechtsklicks: Die für 100 Millionen Klicks ausgelegten optischen Schalter ohne jegliche Entprellverzögerung ermöglichen blitzschnelle Angriffe.
+- Beidhändig nutzbare Form mit austauschbaren Seitentasten: Die von Profis entwickelte beidhändige Mausform bietet sowohl Rechts- als auch Linkshändern maximalen Komfort und Kontrolle und verfügt über austauschbare Seitentasten
 - Ultrapräziser optischer Sensor mit 26.000 DPI: Dank Tracking mit 26.000 DPI und 650 IPS sowie einer Beschleunigung von bis zu 50 G erfasst der optische CORSAIR MARKSMAN-Sensor rasante Mausbewegungen, präzises Zielen und schnelles Zentrieren.
 - CORSAIR QUICKSTRIKE-TASTEN: CORSAIR QUICKSTRIKE eliminiert jegliche Verzögerung zwischen den linken und rechten Maustasten und ihren Switches, damit Ihre Klicks umgehend registriert werden
 - 89 g – Geringes Gewicht für erstklassiges FPS-Gameplay: Mit einem Gewicht von nur 89 g katapultieren Sie sich mit der M75 dank unvergleichlicher Geschwindigkeit und Präzision an die Spitze der Bestenliste – und das ganz ohne Kabel.
-- Optische Schalter für Links- und Rechtsklicks: Die für 100 Millionen Klicks ausgelegten optischen Schalter ohne jegliche Entprellverzögerung ermöglichen blitzschnelle Angriffe.
-- Beidhändig nutzbare Form mit austauschbaren Seitentasten: Die von Profis entwickelte beidhändige Mausform bietet sowohl Rechts- als auch Linkshändern maximalen Komfort und Kontrolle und verfügt über austauschbare Seitentasten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CTKRQYHB{{</world>}}

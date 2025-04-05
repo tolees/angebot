@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kann direkt mit dem WLAN-Netzwerk Ihres Hauses verbunden werden - kein Hub oder Bridge erforderlich
 - Seien Sie kreativ: Erweitern Sie Ihre Installation Jedes Kontrollfeld kann bis zu 500 Quadratplatten steuern (benötigt zusätzliche Stromversorgung)
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse "g" Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- Touch-Panels Die quadratischen Nanoleaf-Leinwände sind einfach mit der Haptik zu steuern Schalten Sie Ihre Nanoleaf Canvas Installation ein oder aus, wechseln Sie die Farben oder wechseln Sie zu einer anderen Szene einfach durch Berühren eines oder mehrerer Ränge
-- Nanoleaf Canvas Starterset: 4 intelligente Lichtquadrate mit RGBW LED (16, 7 m Farbton einschließlich einstellbarem Weiß) inklusive Kontrollpanel mit integrierter Musik-Synchronisierungs-Technologie
 - Funktioniert mit Alexa, Apple Home Kit, Samsung Smartthings, Google Assistant und IFTTT Steuerbar auch über die Nanoleaf-App oder über Nanoleaf-Remote (native Verbindung)
+- Touch-Panels Die quadratischen Nanoleaf-Leinwände sind einfach mit der Haptik zu steuern Schalten Sie Ihre Nanoleaf Canvas Installation ein oder aus, wechseln Sie die Farben oder wechseln Sie zu einer anderen Szene einfach durch Berühren eines oder mehrerer Ränge
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse "g" Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
+- Kann direkt mit dem WLAN-Netzwerk Ihres Hauses verbunden werden - kein Hub oder Bridge erforderlich
+- Nanoleaf Canvas Starterset: 4 intelligente Lichtquadrate mit RGBW LED (16, 7 m Farbton einschließlich einstellbarem Weiß) inklusive Kontrollpanel mit integrierter Musik-Synchronisierungs-Technologie
 - Das Angebot läuft länger als die Veranstaltungsdaten [13/11/23 bis 27/11/23]
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

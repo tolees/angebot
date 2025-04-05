@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Interview Makoto Shinkai, Storyboard zum Film, Musikvideo. Extras (Voices of a Distant Star): Originaltrailer, 257 Min
 - 7 Artcards, Extras (The Garden of Words): Filmografie Makoto Shinkai, Interview Makoto Shinkai, Storyboard zum Film, Originaltrailer, Extras (Children Who Chase Lost Voices): Making-of, Originaltrailer, Extras (5 Centimeter per Second)
+- Interview Makoto Shinkai, Storyboard zum Film, Musikvideo. Extras (Voices of a Distant Star): Originaltrailer, 257 Min
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BHL421WH{{</world>}}

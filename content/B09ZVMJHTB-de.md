@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Grut: Knöchelriemen
 - Verschluss: Ethylen-Vinylacetat
 - Obermaterial: Stoff
-- Grut: Knöchelriemen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVMJHTB{{</world>}}

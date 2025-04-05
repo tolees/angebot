@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Keine Installation von anderen Art, Plug & Play, kompatibel mit Windows 10, Mac OS und Chrome OS
 - microSD/SD-Kartenleser, unterstützt SDHC und SDXC (UHS-I)
-- Gigabit RJ45 Netzwerkport (10/100/1000 Mbps, Megabits pro Sekunde)
+- Zusätzlicher USB-C-Anschluss zur Datensynchronisation und mit Ladefunktion - schließen Sie Ihr USB-C-Ladegerät an um Ihren Laptop mit Strom zu versorgen (bis zu 100 W, 20 V bei 5 A)
+- Keine Installation von anderen Art, Plug & Play, kompatibel mit Windows 10, Mac OS und Chrome OS
 - Aluminiumgehäuse u.a. mit 3x SuperSpeed USB-3.0-Ports, 1x mit Schnellladung (BC 1.2) und 15cm Kabel
 - Erweitern Sie Ihren Laptop um ein HDMI 4K Zweitdisplay (Auflösung 3840 x 2160, 4096 x 2160 bei 30 Hz) mit 1080p
-- Zusätzlicher USB-C-Anschluss zur Datensynchronisation und mit Ladefunktion - schließen Sie Ihr USB-C-Ladegerät an um Ihren Laptop mit Strom zu versorgen (bis zu 100 W, 20 V bei 5 A)
+- Gigabit RJ45 Netzwerkport (10/100/1000 Mbps, Megabits pro Sekunde)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XQB8TY5{{</world>}}

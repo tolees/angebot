@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Klingenlänge: 300 mm
-- Doppelklinge T-Profil (für Torx)/T-Profil (für Torx) mit Bohrung: T10 - T15 - T20 - T25 - T27 - T30 - T40
 - Wechselhandgriff mit Haltkugel
+- Doppelklinge T-Profil (für Torx)/T-Profil (für Torx) mit Bohrung: T10 - T15 - T20 - T25 - T27 - T30 - T40
 - Griffart: rutschfester 2-Komponenten-Griff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

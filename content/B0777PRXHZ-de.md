@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sofort volles Licht, keine Aufwärmzeit
-- Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 75-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
-- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen
 - Energieverbrauch 11 kWh/1000h bei 1055 lm
+- Sofort volles Licht, keine Aufwärmzeit
 - Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt)
+- Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 75-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
 - Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
+- Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0777PRXHZ{{</world>}}

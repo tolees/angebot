@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausgewählte Dampfprogramme inkl. Refresh-Programm
-- Packmaße H x B x T (cm): 89 x 65 x 65
-- Direct Motion Motor: Absolut leiser, effizienter Direktantrieb
-- Energieklasse: A / Geräuschklasse: A
 - Gerätemaße H x B x T (cm): 85 x 59,5 x 55
-- Das Hygiene-Plus: e Technologie (ABT)
+- Packmaße H x B x T (cm): 89 x 65 x 65
 - Installations typ: Freistehend
+- Direct Motion Motor: Absolut leiser, effizienter Direktantrieb
+- Das Hygiene-Plus: e Technologie (ABT)
+- Ausgewählte Dampfprogramme inkl. Refresh-Programm
+- Energieklasse: A / Geräuschklasse: A
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BCQ85S1T{{</world>}}

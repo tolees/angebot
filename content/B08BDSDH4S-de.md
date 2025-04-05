@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BRD
 - Deutsch, Japanisch
-- Kenji Nagasaki
 - 125
+- BRD
+- Kenji Nagasaki
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08BDSDH4S{{</world>}}

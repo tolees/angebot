@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 prozent recycelter Polyester (Doppelstrick)
 - Regulär geschnitten
+- 100 prozent recycelter Polyester (Doppelstrick)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08VRYJN3D{{</world>}}

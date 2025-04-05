@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Details gesucht
 - Maximaler Komfort
 - Ergonomisch
+- Details gesucht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CSKMGSN7{{</world>}}

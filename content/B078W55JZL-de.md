@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Zusätzlich 12-15 Liter Stauraum für Windeln, Babynahrung, Regenjacke etc.
 - Komfortable Gewichtsverteilung auf Hüfte statt Schultern
 - voll ausgestattete Kindertrage
-- Zusätzlich 12-15 Liter Stauraum für Windeln, Babynahrung, Regenjacke etc.
-- Material: 450D Polyester
-- Nachhaltigkeitsstandard: Salewa Committed
 - Gewicht: 3000g
+- Nachhaltigkeitsstandard: Salewa Committed
+- Material: 450D Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B078W55JZL{{</world>}}

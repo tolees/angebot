@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Empfohlenes Alter: Ab 8 Jahren
-- Anleitungsblatt mit farbigen Abbildungen.
 - Ein komplettes Set, um das Leben von 5 verschiedenen Insekten und deren wesentliche Merkmale kennenzulernen.
+- Anleitungsblatt mit farbigen Abbildungen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004MKMFKM{{</world>}}

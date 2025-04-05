@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inspiriert durch die Natur macht sich icebreaker die Funktionseigenschaften von Naturfasern zunutze, um eine Alternative zu synthetischer Kleidung zu bieten
-- Corespun-Merino - die robuste Merinomischung reguliert die Körpertemperatur bei allen Wetterbedingungen; konturierter Schritt für Komfort
 - Das unverkennbare icebreaker-Design setzt auf Merinofasern, die Nylon ummanteln, um einen robusten Stoff mit weichem Tragegefühl zu erzeugen
-- Eine elastische und schlank geschnittene Boxershorts aus icebreakers Corespun-Merinojersey, die Anatomica Boxershorts ist stützend und komfortabel und eignet sich gleichermaßen für den Alltag wie für Abenteuer
 - Merinowolle ist eine jährlich erneuerbare Faser, die von Natur aus der Geruchsbildung entgegenwirkt. Sie kühlt bei Hitze und wärmt bei Kälte, lässt die Haut atmen und sorgt für dauerhaften Tragekomfort, an jedem Tag
+- Corespun-Merino - die robuste Merinomischung reguliert die Körpertemperatur bei allen Wetterbedingungen; konturierter Schritt für Komfort
+- Inspiriert durch die Natur macht sich icebreaker die Funktionseigenschaften von Naturfasern zunutze, um eine Alternative zu synthetischer Kleidung zu bieten
+- Eine elastische und schlank geschnittene Boxershorts aus icebreakers Corespun-Merinojersey, die Anatomica Boxershorts ist stützend und komfortabel und eignet sich gleichermaßen für den Alltag wie für Abenteuer
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07T28MKD5{{</world>}}

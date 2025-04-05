@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Give Me The Future Vinyl LP
 - Produktart: ABIS_MUSIC
+- Give Me The Future Vinyl LP
 - Marke: POLYDOR
 
 [🛒 Hier!!]({{< param buyurl >}})

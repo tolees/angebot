@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ganz egal ob süß oder salzig - 12 unterschiedlliche Plattensets sorgen für Abwechslung
 - Maße der Platten: 226 x 132 mm; Maße der Box: 250x 150x 60 mm
+- Ganz egal ob süß oder salzig - 12 unterschiedlliche Plattensets sorgen für Abwechslung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07PBHR289{{</world>}}

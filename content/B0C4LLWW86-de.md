@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- IPS-Display, HDR400 mit DCI-P3 95%, 400cd/m2 Helligkeit, NVIDIA G-SYNC Compatible, AMD FreeSync Premium
+- Lieferumfang: Netzteil, Netzkabel, DisplayPort-, HDMI-Kabel, USB-A auf B-Kabel
+- 27 Zoll (68,5cm) 16:9 UHD (3.840x2.160) Bildschirm für Gamingß-Erlebnisse
 - Anschlüsse: 2 x HDMI, 1 x DisplayPort 1.4 und Kopfhöreraufgang
 - OnScreen-Steuerung, Bildwiederholfrequenz von 144 Hz, IPS 1ms (GtG) Reaktionszeit
-- IPS-Display, HDR400 mit DCI-P3 95%, 400cd/m2 Helligkeit, NVIDIA G-SYNC Compatible, AMD FreeSync Premium
-- 27 Zoll (68,5cm) 16:9 UHD (3.840x2.160) Bildschirm für Gamingß-Erlebnisse
-- Lieferumfang: Netzteil, Netzkabel, DisplayPort-, HDMI-Kabel, USB-A auf B-Kabel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C4LLWW86{{</world>}}

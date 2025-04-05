@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Doctor Who - Thirteenth Doctor with Goggles
-- Offizielles Lizenzprodukt
 - Funko POP! Vinyl figur
+- Offizielles Lizenzprodukt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TYRH95Q{{</world>}}

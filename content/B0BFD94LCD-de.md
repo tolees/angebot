@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Stürze dich in den Rhythmus
 - Online-Mehrspieler für bis zu 4 Spieler
 - Stelle aus insgesamt 104 Charakteren das Team deiner Träume zusammen
 - Das Hauptspiel THEATRHYTHM FINAL BAR LINE beinhaltet sorgfältig ausgewählte Musiktitel aus der gesamten FINAL FANTASY-Reihe
-- Stürze dich in den Rhythmus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BFD94LCD{{</world>}}

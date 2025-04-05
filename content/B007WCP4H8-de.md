@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zusätzlich ist das Album mit einem CD-Archiv zur Aufbewahrung der digitalen Bilder ausgestattet
-- Die Fotos werden in praktische Einstecktaschen gesteckt
 - Einsteckalbum mit hochwertigem Kunstledereinband und Goldprägung
+- Die Fotos werden in praktische Einstecktaschen gesteckt
+- Zusätzlich ist das Album mit einem CD-Archiv zur Aufbewahrung der digitalen Bilder ausgestattet
 - Das Album bietet Platz für 200 Fotos im Format 13 x 18 cm
 - Auf jeder Seite befinden sich zwei Einstecktaschen im Querformat und Beschriftungsfelder für Notizen, Zitate, Bemerkungen, usw.
 

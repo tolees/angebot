@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Stil: Käfer 18751
 - Obermaterial: Leder und Synthetik
-- Klassischer Camper Beetle Sneaker
 - Sportlicher Camper Sneaker
+- Klassischer Camper Beetle Sneaker
 - Verschluss_Typ: Schnürschuh
 
 [🛒 Hier!!]({{< param buyurl >}})

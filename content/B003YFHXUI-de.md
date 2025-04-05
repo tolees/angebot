@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- FÜLLUNG: 90% Daunen / 10% Federn; Klasse 1
+- VERARBEITUNG: Steppdecke mit 8 x 10 Karos - WÄRMEKLASSE: leicht
 - PREMIUM QUALITÄT: Deutsches Qualitätsprodukt aus auschließlich hochwertigen Materialien - Hergestellt in unserer Bettenmanufaktur in Bayern
 - TIERSCHUTZ: es wird kein Lebendrupf verwendet!
 - PFLEGE: maschinenwaschbar im Schongang bis 60°C, für Hausstauballergiker geeignet, bitte Pflegeanleitung beachten!
-- FÜLLUNG: 90% Daunen / 10% Federn; Klasse 1
-- VERARBEITUNG: Steppdecke mit 8 x 10 Karos - WÄRMEKLASSE: leicht
 - BEZUG: feine Mako-Einschütte, weiß, 100% Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})

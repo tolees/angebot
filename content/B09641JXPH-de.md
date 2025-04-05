@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der elegante ergonomische Schreibtisch-Aufsatz mit ausziehbarer Ablage für Tastatur & Maus ermöglicht den einfachen Wechsel zwischen Sitzen und Stehen für einen aktiven Lebensstil während der Arbeit
-- Hauptfläche bietet Platz für einen PC-Monitor oder Laptop, die ausziehbare Ablage für Tastatur, Maus und Handgelenkstützen; IGR-zertifiziert (Institut für Gesundheit und Ergonomie)
-- Lieferumfang: 1 x Leitz Schreibtisch-Aufsatz mit ausziehbarer Tastaturablage (Maße: 710 x 244 mm), Abmessungen: 400 x 68 x 800 mm, 1500 g, Grau, Ergo Cosy Serie, Kunststofffreie Verpackung, 65320085
 - Der Aufsatz wird komplett montiert geliefert und ist plastikfrei verpackt; dank des schlanken Designs ist der Aufsatz einfach zu transportieren und zu lagern; 5 Jahre Garantie; TÜV-zertifiziert
+- Der elegante ergonomische Schreibtisch-Aufsatz mit ausziehbarer Ablage für Tastatur & Maus ermöglicht den einfachen Wechsel zwischen Sitzen und Stehen für einen aktiven Lebensstil während der Arbeit
+- Lieferumfang: 1 x Leitz Schreibtisch-Aufsatz mit ausziehbarer Tastaturablage (Maße: 710 x 244 mm), Abmessungen: 400 x 68 x 800 mm, 1500 g, Grau, Ergo Cosy Serie, Kunststofffreie Verpackung, 65320085
+- Hauptfläche bietet Platz für einen PC-Monitor oder Laptop, die ausziehbare Ablage für Tastatur, Maus und Handgelenkstützen; IGR-zertifiziert (Institut für Gesundheit und Ergonomie)
 - Die pneumatisch unterstützte Höhenverstellung kann innerhalb ihrer eigenen Grundfläche auf und ab bewegt werden und ermöglicht so einen einfachen Wechsel zwischen Sitzen und Stehen
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
 - 100 % recycelter Polyester (Doppelstrick)
+- Langlebig
 - Weicher Stoff
 
 [🛒 Hier!!]({{< param buyurl >}})

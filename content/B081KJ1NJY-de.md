@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sprache: Italienisch (DTS 5.1), Deutsch (DTS 5.1), Französisch (DTS 5.1)
-- Spieldauer: 153 Minuten
 - Untertitel: Deutsch, Französisch, Italienisch, Niederländisch, Spanisch
+- Spieldauer: 153 Minuten
+- Sprache: Italienisch (DTS 5.1), Deutsch (DTS 5.1), Französisch (DTS 5.1)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B081KJ1NJY{{</world>}}

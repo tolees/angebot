@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Netzwerkprotokoll: WiFi
-- Steuerung über Google Assistant oder Amazon Alexa möglich
-- Netzwerkprotokoll: WiFi
 - Dimmbar
-- Steuerbar über LEDVANCE SMART+ WiFi App (mit mindestens Android 4.4 oder iOS 9.0)
-- Einfache Installation und Nutzung
 - Steuerbar über LEDVANCE SMART+ App (ab Android 8.0 oder iOS 14.0)
+- Steuerbar über LEDVANCE SMART+ WiFi App (mit mindestens Android 4.4 oder iOS 9.0)
+- Netzwerkprotokoll: WiFi
 - Dimmbar
 - Steuerung über Google Assistant oder Amazon Alexa möglich
 - Einfache Installation und Nutzung
+- Einfache Installation und Nutzung
+- Steuerung über Google Assistant oder Amazon Alexa möglich
+- Netzwerkprotokoll: WiFi
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09F3CCQTR{{</world>}}

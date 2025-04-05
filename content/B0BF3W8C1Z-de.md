@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Key des Vorbestellerbonus (die Bonusmission: „Die vierzig Räuber“) ist auf einem Flyer abgedruckt, der in der Spielbox zu finden ist
-- Erkunde eine unglaublich dichte und lebendige Stadt, deren Einwohner auf jede deiner Bewegungen reagieren, und enthülle die Geheimnisse von vier unterschiedlichen Bezirken, während du dich durch das Goldene Zeitalter Bagdads kämpfst
-- Die Assassins Creed Mirage Deluxe Edition beinhaltet: Das Deluxe-Paket: eine von Prince of Persia inspirierte Montur, Adler, Reittier, Waffen , digitales Artbook, digitialer Soundtrack und mehr
-- Entdecke ein dichtes, vom Plot getriebenes Action-Adventure, das der Verwandlung eines widerspenstigen jungen Mannes in einen gebildeten Meisterassassinen folgt
 - Erlebe einen modernen Blick auf die berühmten Features und das Gameplay, die seit 15 Jahren eine Reihe definieren, Du bewegst dich nahtlos im Parkour durch die Stadt und tötest Ziele aus dem Hinterhalt mit wilderen Attentaten als je zuvor
 - Reise in dieser liebevollen Hommage an das Spiel, mit dem alles begann, nach Alamut, der legendären Heimat der Assassinen, die das Fundament des Kredos legten
+- Die Assassins Creed Mirage Deluxe Edition beinhaltet: Das Deluxe-Paket: eine von Prince of Persia inspirierte Montur, Adler, Reittier, Waffen , digitales Artbook, digitialer Soundtrack und mehr
+- Entdecke ein dichtes, vom Plot getriebenes Action-Adventure, das der Verwandlung eines widerspenstigen jungen Mannes in einen gebildeten Meisterassassinen folgt
+- Erkunde eine unglaublich dichte und lebendige Stadt, deren Einwohner auf jede deiner Bewegungen reagieren, und enthülle die Geheimnisse von vier unterschiedlichen Bezirken, während du dich durch das Goldene Zeitalter Bagdads kämpfst
+- Der Key des Vorbestellerbonus (die Bonusmission: „Die vierzig Räuber“) ist auf einem Flyer abgedruckt, der in der Spielbox zu finden ist
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BF3W8C1Z{{</world>}}

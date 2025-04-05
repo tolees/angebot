@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Timer mit Ausschaltfunktion: Für sicheres Abschalten der Kochzone nach Ablauf der gewählten Kochzeit durch den Timer mit Ausschaltfunktion.
 - powerMove: Mit der powerMove-Funktion unterteilen Sie das autarke Domino-Induktionskochfeld in zwei Zonen mit verschieden hohen Temperaturen. Vorne wird gekocht, hinten warmgehalten.
-- powerInduktion: Hitze wird durch eine Induktionsspule direkt in Töpfe und ans Kochgut geführt – ohne dabei die Kochstelle zu erhitzen, das sorgt für kurze Ankochzeiten, Sicherheit und weniger Putzaufwand.
 - powerBoost: Sorgt beim Kochen für bis zu 50% Extra-Power - optimierte Energiezufuhr für flexibleres und noch schnelleres Erhitzen.
+- powerInduktion: Hitze wird durch eine Induktionsspule direkt in Töpfe und ans Kochgut geführt – ohne dabei die Kochstelle zu erhitzen, das sorgt für kurze Ankochzeiten, Sicherheit und weniger Putzaufwand.
+- Timer mit Ausschaltfunktion: Für sicheres Abschalten der Kochzone nach Ablauf der gewählten Kochzeit durch den Timer mit Ausschaltfunktion.
 - touchSlider-Bedienung: Mit der innovativen touchSlider-Technik wird die Temperatur der Kochzonen entweder durch direktes Antippen oder durch Entlangstreichen auf der Bedienskala gesteuert.
 
 [🛒 Hier!!]({{< param buyurl >}})

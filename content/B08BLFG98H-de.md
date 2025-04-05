@@ -29,12 +29,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Service - Die Smart Wandschalter von Meross sind von hoher Qualität, um Ihre Verwendung sicherer zu machen. Apple Homekit Schalter ist kein Hub erforderlich. Die APP ist kostenlos. Bei Problemen wenden Sie sich einfach an Tech-Support. Bei Qualitätsproblemen wird das neue Produkt innerhalb eines Jahres kostenlos ausgetauscht.
-- Hinweis – Die vom Produkt unterstützte maximale Leistung beträgt 400 W. Für die ordnungsgemäße Funktion des Meross-Lichtschalters ist ein Neutralleiter erforderlich. Wenn in der vorhandenen Verkabelung des Benutzers kein Neutralleiter vorhanden ist, muss er möglicherweise einen Elektriker konsultieren, um die erforderlichen Anpassungen vorzunehmen.
 - Homekit Schalter- Die Meross Smart Lichtschalter kann mit Apple HomeKit (iOS 13 oder höher), Apple Watch, Alexa, Google Assistant verwendet werden, um Ihr Gerät über die Sprachsteuerung zu verwalten. Sagen Sie einfach "Hey Siri, mach das Licht an", du kannst ein intelligentes und komfortables Leben erleben. HomeKit-Schalter bieten unbegrenzte Möglichkeiten entsprechend Ihren Anforderungen.
-- Der Meross WLAN-Lichtschalter benötigt für eine ordnungsgemäße Funktion einen Neutralleiter. Bitte stellen Sie sicher, dass die elektrische Anlage einen Neutralleiter enthält.
-- Fernbedienung- Schalten Sie WLAN Schalter über die Meross-App von überall mit dem Internet ein / aus. Sie können den Status des Wandschalter überprüfen oder Zeitpläne für diese festlegen.
-- Achtung- Für die Installation ist der Neutralleiter erforderlich✔: :Die meisten alten Häuser haben keinen neutralen Draht. Wenn Sie sich nicht sicher sind, machen Sie bitte Fotos von Ihren Schaltdrähten. Kein Hub oder Zubehör erforderlich. Nur für 1 Wege Wandschalter. Basierend auf der Standard-Boxgröße, geeignet für 8.6*8.6*3.5cm.
 - Zeitplan und Timing - Sie können einen Zeitplan erstellen oder die Funktionen für Sonnenaufgang und Sonnenuntergang entsprechend Ihren Anforderungen verwenden. Sie müssen sich keine Sorgen machen, dass Sie das Ausschalten vergessen müssen, wodurch Sie eine Menge Stromkosten sparen.
+- Fernbedienung- Schalten Sie WLAN Schalter über die Meross-App von überall mit dem Internet ein / aus. Sie können den Status des Wandschalter überprüfen oder Zeitpläne für diese festlegen.
+- Hinweis – Die vom Produkt unterstützte maximale Leistung beträgt 400 W. Für die ordnungsgemäße Funktion des Meross-Lichtschalters ist ein Neutralleiter erforderlich. Wenn in der vorhandenen Verkabelung des Benutzers kein Neutralleiter vorhanden ist, muss er möglicherweise einen Elektriker konsultieren, um die erforderlichen Anpassungen vorzunehmen.
+- Achtung- Für die Installation ist der Neutralleiter erforderlich✔: :Die meisten alten Häuser haben keinen neutralen Draht. Wenn Sie sich nicht sicher sind, machen Sie bitte Fotos von Ihren Schaltdrähten. Kein Hub oder Zubehör erforderlich. Nur für 1 Wege Wandschalter. Basierend auf der Standard-Boxgröße, geeignet für 8.6*8.6*3.5cm.
+- Der Meross WLAN-Lichtschalter benötigt für eine ordnungsgemäße Funktion einen Neutralleiter. Bitte stellen Sie sicher, dass die elektrische Anlage einen Neutralleiter enthält.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08BLFG98H{{</world>}}

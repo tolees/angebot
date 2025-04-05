@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibel mit Modern Standby: Extrem schnelles Aufwachen aus dem Ruhezustand und höhere Effizienz bei geringen Lasten.
-- Auf 105°C ausgelegte Kondensatoren: Bieten eine gleichmäßige, zuverlässige Stromversorgung und verlässliche elektrische Performance
 - Vollmodulares Netzteil: Zuverlässiges, effizientes und geräuscharmes Netzteil mit vollständig modularen Kabeln, sodass Sie nur die Kabel anschließen müssen, die Ihr System benötigt.
 - Intel ATX 3.0-Zertifikat: Erfüllt den ATX 3.0-Leistungsstandard, unterstützt die PCIe Gen 5-Plattform und hält kurzzeitigen Spannungsspitzen stand.
+- Kompatibel mit Modern Standby: Extrem schnelles Aufwachen aus dem Ruhezustand und höhere Effizienz bei geringen Lasten.
+- Auf 105°C ausgelegte Kondensatoren: Bieten eine gleichmäßige, zuverlässige Stromversorgung und verlässliche elektrische Performance
 - Angenehm leise: Ein 120-mm-Lüfter mit Rifle-Lager und maßgeschneiderter Lüfterkurve sorgt selbst bei voller Last für eine geringe Geräuschentwicklung.
 
 [🛒 Hier!!]({{< param buyurl >}})

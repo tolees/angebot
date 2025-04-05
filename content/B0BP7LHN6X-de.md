@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 70 prozent recycelter Polyester / 30 prozent Baumwolle (Single Jersey)
 - Rundhalsausschnitt
+- 70 prozent recycelter Polyester / 30 prozent Baumwolle (Single Jersey)
 - Sportbekleidung aus hochwertigen Materialien für jede sportliche Aktivität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

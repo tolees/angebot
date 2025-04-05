@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6 VERDÄCHTIGE, 1 TÄTER: Die Spieler können als Lady Gloria, Oberst von Gatow, Bürgermeister Grün, Köchin Weiß, Anwältin Porz oder Professor Bloom spielen. Dabei gilt es, ihre faszinierenden Hintergrundgeschichten – und ihre Geheimnisse – zu entdecken
-- MIT DEN BEWEISKARTEN GEHEIMNISSE ENTHÜLLEN: In diesem Spiel, in dem jede Person etwas zu verbergen hat, helfen Beweiskarten dabei, Hinweise schneller aufzudecken und die Detektivarbeit zu beschleunigen! Welche Karte wird ein Mitspieler enthüllen müssen
-- CLUEDO NEU AUFGELEGT: Dieses Cluedo Spiel verbindet den klassischen Cludeo Spielablauf mit einer umfassend neu überarbeiteten Story des originalen mysteriösen Mordfalls, einer interessanten Gruppe an Personen und der glamurösen Villa
 - HOCHWERTIGE SPIELTEILE: Enthält 6 vergoldete Zinkfiguren mit Struktur, welche die Waffen darstellen, geformte Spielfiguren sowie einen wunderschön detailliert illustrierten Spielplan und Beweiskarten
+- MIT DEN BEWEISKARTEN GEHEIMNISSE ENTHÜLLEN: In diesem Spiel, in dem jede Person etwas zu verbergen hat, helfen Beweiskarten dabei, Hinweise schneller aufzudecken und die Detektivarbeit zu beschleunigen! Welche Karte wird ein Mitspieler enthüllen müssen
 - DAS RÄTSEL LÖSEN: Wer hat Dr. Schwarz getötet? Die Spieler sammeln Hinweise und versuchen, als Erster herauszufinden, wer den Mord verübt hat, in welchem Raum die Tat geschah und welche Waffe verwendet wurde
+- CLUEDO NEU AUFGELEGT: Dieses Cluedo Spiel verbindet den klassischen Cludeo Spielablauf mit einer umfassend neu überarbeiteten Story des originalen mysteriösen Mordfalls, einer interessanten Gruppe an Personen und der glamurösen Villa
+- 6 VERDÄCHTIGE, 1 TÄTER: Die Spieler können als Lady Gloria, Oberst von Gatow, Bürgermeister Grün, Köchin Weiß, Anwältin Porz oder Professor Bloom spielen. Dabei gilt es, ihre faszinierenden Hintergrundgeschichten – und ihre Geheimnisse – zu entdecken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BPT884YM{{</world>}}

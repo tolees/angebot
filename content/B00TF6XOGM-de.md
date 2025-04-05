@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Top2Glue mittelflüssig: Der Top2Glue Cyanacrylat Sekundenkleber ist ein hochwertiger Universal-Klebstoff der für schnelle und effiziente Verklebung verschiedenster Materialien verwendet wird. Er ist farblos, transparent, schnell abbindend und bietet eine gute Klima- und Tropenbeständigkeit, Der Top2Glue Kleber wird in einer 20g-Flasche oder 50g Flasche angeboten
-- Alles Kleber extrem stark: Universal Sekunden Kleber mittelflüssig und Ultra Stark für schnelle Reparaturen. Wasserfest, hitzebeständig, schnell trocknender universaler Klebstoff zum Verkleben von Holz, Kunststoff, Metall, Stein, Leder und vielem mehr
 - Industriekleber: Top2Glue Metallkleber & Kunststoffkleber ist eine echter Alleskleber für alle Klebevorhaben, die schnelle und kraftvolle Verbindungen erfordern. Der Vorteil dieses einzigartigen, schnellen und leistungsstarken Sekundenklebers liegt in der Verkürzung der Montagezeiten und der kurzen Aushärtungszeiten
+- Alles Kleber extrem stark: Universal Sekunden Kleber mittelflüssig und Ultra Stark für schnelle Reparaturen. Wasserfest, hitzebeständig, schnell trocknender universaler Klebstoff zum Verkleben von Holz, Kunststoff, Metall, Stein, Leder und vielem mehr
 - Aquarium Kleber extra stark: Top2Glue Sekundenkleber extra stark für Hardscapes - reagiert schnell - geeignet für Watte Methode - Aquascaping - der Superkleber auch als Plantscaper - Pflanzenkleber für Aquascaping sowie für Steine, Rückwand, Moose und Pflanzen in jedem Süßwasseraquarium
+- Top2Glue mittelflüssig: Der Top2Glue Cyanacrylat Sekundenkleber ist ein hochwertiger Universal-Klebstoff der für schnelle und effiziente Verklebung verschiedenster Materialien verwendet wird. Er ist farblos, transparent, schnell abbindend und bietet eine gute Klima- und Tropenbeständigkeit, Der Top2Glue Kleber wird in einer 20g-Flasche oder 50g Flasche angeboten
 - Super Kleber: Der Top2Glue Industrie Klebstoff lässt sich dank seiner praktischen , weichen Flasche mit der langen Spitze exakt und punktgenau auf die zusammenzufügenden Teile auftragen. Dann nur noch korrigieren, pressen, fertig. Der Sicherheitsverschluss verhindert unbeabsichtigtes Auslaufen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

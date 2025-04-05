@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Elastisch, atmungaktiv, wasserabweisend, schnelltrocknend
 - Der absolute Testsieger unter den funktionalen Wanderhosen
-- Bundlösung mit elastischer Flexzone bietet besten Sitz
 - Hosenbeine hochkrempelbar, dank praktischer Rollup-Funktion
+- Bundlösung mit elastischer Flexzone bietet besten Sitz
 - mSTRETCH pro 4: Das perfekte Material für Wandertouren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

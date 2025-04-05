@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regulär geschnitten
 - Sportbekleidung aus hochwertigen Materialien für jede sportliche Aktivität
+- Regulär geschnitten
 - 70 prozent Baumwolle / 30 prozent recycelter Polyester (Fleece)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

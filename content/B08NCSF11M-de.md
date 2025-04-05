@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- CRYO-CLOCKING-TECHNOLOGIE - Der MasterLiquid ML360 SUB-ZERO verfügt über die neueste Intel Cryo-Kühltechnologie für anpassbares Übertakten bei Temperaturen unter Umgebungstemperatur. Erreichen Sie höhere Frequenzen mit niedrigeren Spannungen.
 - 360-mm-KÜHLER MIT 3 LÜFTERN - Der Aluminiumblock 396 x 120 x 27 mm verfügt über eine vergrößerte Oberfläche und 3 Kühlerlüfter SF120 mit Luftausgleichsschaufeln (650-1900 U / min, 2 mm H2O, je 59 CFM), um eine ausreichende Wärmeableitung unter jeder Last zu gewährleisten.
+- CRYO-CLOCKING-TECHNOLOGIE - Der MasterLiquid ML360 SUB-ZERO verfügt über die neueste Intel Cryo-Kühltechnologie für anpassbares Übertakten bei Temperaturen unter Umgebungstemperatur. Erreichen Sie höhere Frequenzen mit niedrigeren Spannungen.
 - VERBESSERTE PUMPE - Eine überarbeitete Pumpeneinheit der 2. Generation verfügt über eine verbesserte Wasserbeständigkeit sowie einen Hochleistungsmotor mit verbesserten Laufradschaufeln für maximale Durchflussleistung.
-- INSTALLATION - Ein oben montierter Kühler mit vorne montierter Pumpe bietet optimale Kühleffizienz (TDP 250W). Das Übertakten kann über BIOS-Einstellungen oder Intel XTU-Software zugewiesen werden. LGA 1200 CPU-Sockel kompatibel, 5 Jahre Garantie.
 - THERMOELEKTRISCH- Der Wasserblock enthält eine TEC-Einheit (Thermo-Electric Technology) zur Kühlungsbeschleunigung und eingebaute Temperatursensoren. Mit verdunstungssicherer Abdichtung und einer vergrößerten Kupferplatte für thermische Stabilität.
+- INSTALLATION - Ein oben montierter Kühler mit vorne montierter Pumpe bietet optimale Kühleffizienz (TDP 250W). Das Übertakten kann über BIOS-Einstellungen oder Intel XTU-Software zugewiesen werden. LGA 1200 CPU-Sockel kompatibel, 5 Jahre Garantie.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08NCSF11M{{</world>}}

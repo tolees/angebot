@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: 70% Baumwolle, 28% Polyester, 2% Elasthan
-- Passform: Slim Fit / am Bein sehr eng geschnitten
 - Absolut lässige Jeans in schönen Waschungen
+- Passform: Slim Fit / am Bein sehr eng geschnitten
+- Material: 70% Baumwolle, 28% Polyester, 2% Elasthan
 - Logo geprägte Knöpfe und Nieten
 - Leder-Patch am Bund & auf der Kleingeldtasche
 

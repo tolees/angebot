@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Figur zum Spielen und auch zum Dekorieren
-- Star Wars Fanartikel
 - Offizielle Lizenz
 - Sammlerfigur
+- Figur zum Spielen und auch zum Dekorieren
+- Star Wars Fanartikel
 - Star Wars Geschenke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

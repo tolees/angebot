@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hexe Ux und Zauberer Pim liefern sich ein spannendes ABC-Zauberduell: Wer findet zuerst im Bildergewimmel der Zauberwortkarten einen Begriff, der zum gesuchten Buchstaben passt?
-- Ein magisches Buchstabenspiel ab 6 Jahren zum spielerischen Erlernen des ABCs
+- Mit zwei Spielfiguren aus Holz und 41 Karten. Interessant ist auch die kooperative Variante für ein und mehr Spieler
 - Ideales Geschenk für alle Schulanfänger zur Einschulung: Das Lernspiel trainiert genaues Hinschauen, den Wortschatz und die Konzentration
 - Unterhaltsames Mitbringspiel in handlichem Format, das in die Schultüte passt
-- Mit zwei Spielfiguren aus Holz und 41 Karten. Interessant ist auch die kooperative Variante für ein und mehr Spieler
+- Ein magisches Buchstabenspiel ab 6 Jahren zum spielerischen Erlernen des ABCs
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005HAW8DA{{</world>}}

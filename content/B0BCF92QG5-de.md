@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mithilfe einer übersichtlichen Spielanleitung, Bösewicht-Handbüchern mit Tipps, Besonderheiten und Fähigkeiten der Figuren und einer durchtriebenen Spielweise bereitet das Spiel Erwachsenen sowie Kindern ab 10 Jahren große Freude
-- Egal, ob am Spieleabend mit der Familie, einer Gruppe von Disney-Fans oder erfahrenen Spielern: Disney Villainous bringt schadenfrohen Spielspaß auf den Tisch
-- Deutsche Ausgabe der 5. Erweiterung von Disney Villainous mit den Pixar Bösewichten Syndrom (Die Unglaublichen) und Lotso (Toy Story 3), sowie der Disney Schurkin Madam Mim (Die Hexe und der Zauberer)
-- Die Spieler schlüpfen in die Rolle eines Disney- oder Pixar-Bösewichts und verfolgen ihr eigenes, düsteres Ziel, um den Titel des größten Schurken aller Zeiten zu erlangen
 - Das Gesellschaftsspiel aus dem Disney Universum kann eigenständig mit 2 bis 3 Spielern gespielt werden oder für eine Partie mit bis zu 6 Spielern mit Bösewichten aus anderen Villainous Spielen kombiniert und erweitert werden
+- Deutsche Ausgabe der 5. Erweiterung von Disney Villainous mit den Pixar Bösewichten Syndrom (Die Unglaublichen) und Lotso (Toy Story 3), sowie der Disney Schurkin Madam Mim (Die Hexe und der Zauberer)
+- Egal, ob am Spieleabend mit der Familie, einer Gruppe von Disney-Fans oder erfahrenen Spielern: Disney Villainous bringt schadenfrohen Spielspaß auf den Tisch
+- Die Spieler schlüpfen in die Rolle eines Disney- oder Pixar-Bösewichts und verfolgen ihr eigenes, düsteres Ziel, um den Titel des größten Schurken aller Zeiten zu erlangen
+- Mithilfe einer übersichtlichen Spielanleitung, Bösewicht-Handbüchern mit Tipps, Besonderheiten und Fähigkeiten der Figuren und einer durchtriebenen Spielweise bereitet das Spiel Erwachsenen sowie Kindern ab 10 Jahren große Freude
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BCF92QG5{{</world>}}

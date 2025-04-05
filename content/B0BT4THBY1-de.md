@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Refresh-Dampfprogramm, zuschaltbare Dampffunktion & Fleckenoptionen
+- Direct Motion Motor: Absolut leiser, effizienter Direktantrieb
 - Smart Home: Steuerbar über Wi-Fi und App
 - AutoDose: Automatische Waschmitteldosierung
-- Direct Motion Motor: Absolut leiser, effizienter Direktantrieb
+- Refresh-Dampfprogramm, zuschaltbare Dampffunktion & Fleckenoptionen
 - Energieklasse: A / Geräuschklasse: A
 
 [🛒 Hier!!]({{< param buyurl >}})

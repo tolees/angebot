@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- extreme Laufruhe
-- komplett bestück mit original Eheim Filtermedien
 - Zubehör inklusive
+- komplett bestück mit original Eheim Filtermedien
+- extreme Laufruhe
 - niedriger Stromverbrauch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

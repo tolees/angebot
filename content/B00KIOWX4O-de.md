@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geschwindigkeitsklasse: Class 10, U1 (Garantierte Mindestgeschwindigkeit: 10 MB/s)
-- Wasserfest, temperaturbeständig, stoßfest & röntgensicher
 - Extreme Speed: Lesegeschwindigkeiten von bis zu 90 MB/S
 - Besonders empfehlenswert für hochwertige Mobiltelefone, Smartphones und Tablet-PCs
+- Wasserfest, temperaturbeständig, stoßfest & röntgensicher
+- Geschwindigkeitsklasse: Class 10, U1 (Garantierte Mindestgeschwindigkeit: 10 MB/s)
 - Lieferumfang: Intenso Premium microSDXC 64 GBUHS-I Class 10 Speicherkarte inkl. SD-Adapter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

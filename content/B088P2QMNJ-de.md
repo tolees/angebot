@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Nachkaufset: 6 selbsthaftende Gel-Pads (Größe 50 x56 mm) für die Anwendung mit dem EM 50 Menstrual Relax TENS & Wärme Pad
 - Direkte Anwendung: Die Pads können mehrfach direkt auf der Haut verwendet werden, zur Anbringung ist kein Kontaktgel notwendig
 - Schmerzfrei dank TENS: Für die transkutane elektrische Nervenstimulation (TENS) zur Linderung von Menstruationsschmerzen und Schmerzen aus Endometriose
-- Nachkaufset: 6 selbsthaftende Gel-Pads (Größe 50 x56 mm) für die Anwendung mit dem EM 50 Menstrual Relax TENS & Wärme Pad
 - Mehrfach verwendbar: Die Gel-Pads lassen sich einige Male anwenden, sollten aber, um weiterhin einen sicheren Halt und eine effektive Anwendung mit EM 50 zu gewährleisten, regelmäßig erneuert werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

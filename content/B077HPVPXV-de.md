@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieser Artikel enthält einige VR-Inhalte
+- PlayStationVR und PlayStationCamera sind für die VR-Funktionalität erforderlich
 - Spieler, die bereits einen Season Pass/ Deluxe Edition besitzen, sollten unbedingt doppelte Einkäufe vermeiden
 - Diese Version des Spiels enthält den gleichen Inhalt wie die Deluxe Edition
+- Dieser Artikel enthält einige VR-Inhalte
 - Der zusätzliche Inhalt ist derselbe wie der Inhalt des Season Pass
-- PlayStationVR und PlayStationCamera sind für die VR-Funktionalität erforderlich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077HPVPXV{{</world>}}

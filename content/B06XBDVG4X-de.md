@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Interne Sturmlasche auf ganzer Länge des Frontreißverschlusses
+- Verstellbare verlängerte Kapuze
+- Stowaway Pocket – zusammenfaltbar / einrollbar / zusammenrollbar / faltbar, lässt sich in Netzbeutel verstauen
+- Unisex
 - Atmungsaktiv bis 5.000g/m²/24h
 - Winddicht; versiegelte Nähte
-- Wasserdicht bis 5.000mmWS
-- Stowaway Pocket – zusammenfaltbar / einrollbar / zusammenrollbar / faltbar, lässt sich in Netzbeutel verstauen
-- Ventilationslasche am Rücken
-- Kontrastierende Reißverschlüsse
-- Verstellbare verlängerte Kapuze
 - 2 Taschen mit Reißverschluss
-- Unisex
+- Ventilationslasche am Rücken
+- Wasserdicht bis 5.000mmWS
+- Interne Sturmlasche auf ganzer Länge des Frontreißverschlusses
+- Kontrastierende Reißverschlüsse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06XBDVG4X{{</world>}}

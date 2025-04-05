@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Variabel - Die Richtung des bis zu 6 Meter weiten Schneeauswurfs kann einfach per Bedienhebel verstellt und die Drehzahl kann an die Beschaffenheit des Schnees angepasst werden.
 - Lieferung ohne Akku - Die Akku-Schneefräse GE-ST 36/40 Li E-Solo wird ohne Power X-Change Akkus und ohne Ladegerät geliefert. Diese sind separat erhältlich.
-- Power X-Change - Die Akku-Schneefräse GE-ST 36/40 Li E-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte flexibel kombiniert werden können.
-- Kraftvoll - Die 36 V Akku-Schneefräse befreit mit ihrer Arbeitsbreite von 40 cm sämtliche Wege und Einfahrten von bis zu 20 cm hohen Schnee spielend leicht und in kürzester Zeit.
 - PurePOWER Brushless – Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
+- Kraftvoll - Die 36 V Akku-Schneefräse befreit mit ihrer Arbeitsbreite von 40 cm sämtliche Wege und Einfahrten von bis zu 20 cm hohen Schnee spielend leicht und in kürzester Zeit.
+- Variabel - Die Richtung des bis zu 6 Meter weiten Schneeauswurfs kann einfach per Bedienhebel verstellt und die Drehzahl kann an die Beschaffenheit des Schnees angepasst werden.
 - Maximaler Schutz - Die eingesetzten PXC-Akkus werden durch eine Akku-Abdeckung mit Magnetverschluss optimal vor Schnee, Nässe und Schmutz geschützt.
+- Power X-Change - Die Akku-Schneefräse GE-ST 36/40 Li E-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte flexibel kombiniert werden können.
 - Komfortable Bedienung - Dank Zusatzhandgriff und Softgrip lässt sich die Schneefräse optimal bedienen. Einfach verstaut ist die selbststehende Fräse auch dank des teilbaren Führungsholms.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

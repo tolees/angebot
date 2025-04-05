@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LIEFERUNG & ZUFRIEDENHEIT: Wir liefern direkt aus dem Amazon Lager und können so den schnellsten Versand anbieten. Wir haben bereits über 20.000 zufriedene Kunden, überzeugen Sie sich selbst von unseren liebevollen Produkten. Noch Fragen? Melden dich gerne bei uns!
-- VIELSEITIG EINSETZBAR - Du kannst die Karte zu vielen Anlässen verwenden, da wir die Karten sehr elegant und hochwertig gestalten. Du bekommst die Karte direkt mit passendem Umschlag und schützender Cellophan-Hülle. Die Karte hat im geschlossenen Zustand die Maße von 12cm x18 cm. Innen ist die Karte blanko und du hast genügend Platz für deine Botschaft. Danach einfach die Karte in den Umschlag stecken und das Geschenk ist fertig.
 - VERSCHENKEN SIE EIN LÄCHELN - Die perfekte Karte zur Hochzeit, goldenen Hochzeit oder als Gastgeschenk. Diese kleinen Kunstwerke werden von uns mit Liebe gestaltet und mit sehr viel Geschick zu dieser tollen Überraschung zusammen gesetzt.
-- BESONDERES GESCHENK - Diese Karte ist perfekt als Glückwunsch- oder Einladungskarte für eine Hochzeit in der Natur oder einfach als Geschenk fuer naturverbundene Paare. Machen Sie jemanden eine ganz besondere Freude mit dieser Geschenkkarte.
 - FAIR TRADE & QUALITÄT - Die Karten werden unter fairen Bedingungen in einem Familienbetrieb produziert. Mit deinem Kauf unterstützt du dieses Projekt. Die Einzelteile werden mit einem Laser ausgeschnitten und dann von Hand zusammen gesetzt.
+- VIELSEITIG EINSETZBAR - Du kannst die Karte zu vielen Anlässen verwenden, da wir die Karten sehr elegant und hochwertig gestalten. Du bekommst die Karte direkt mit passendem Umschlag und schützender Cellophan-Hülle. Die Karte hat im geschlossenen Zustand die Maße von 12cm x18 cm. Innen ist die Karte blanko und du hast genügend Platz für deine Botschaft. Danach einfach die Karte in den Umschlag stecken und das Geschenk ist fertig.
+- BESONDERES GESCHENK - Diese Karte ist perfekt als Glückwunsch- oder Einladungskarte für eine Hochzeit in der Natur oder einfach als Geschenk fuer naturverbundene Paare. Machen Sie jemanden eine ganz besondere Freude mit dieser Geschenkkarte.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0153QQFL8{{</world>}}

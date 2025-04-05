@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sofort volles Licht,keine Aufwärmzeit.Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 50WGlühbirne (Außenanwendungen nur in geeigneten Leuchten)
 - Geringere Wärmeentwicklung(gegenüber dem Standardreferenzprodukt)
-- Lieferumfang 1 x LED-Lampe G9, 50W, 220…240 V, Warm White, 2700 K, 100% Quecksilberfrei – in bester Qualität der Marke OSRAM
 - Lange Lebensdauer bis zu 15000 Stunden und bis zu100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf, und Kinderzimmern
+- Sofort volles Licht,keine Aufwärmzeit.Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 50WGlühbirne (Außenanwendungen nur in geeigneten Leuchten)
+- Lieferumfang 1 x LED-Lampe G9, 50W, 220…240 V, Warm White, 2700 K, 100% Quecksilberfrei – in bester Qualität der Marke OSRAM
 - Energieverbrauch 5kWh/1000h bei 600 lm
 
 [🛒 Hier!!]({{< param buyurl >}})

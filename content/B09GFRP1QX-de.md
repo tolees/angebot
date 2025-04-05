@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 2: Kapseln enthalten 100% UTZ-zertifizierten Kaffee
-- Produkt 1: Kapseln enthalten 100% UTZ-zertifizierten Kaffee
-- Produkt 2: *Markenzeichen eines Unternehmens, das nicht in Verbindung steht mit: JACOBS DOUWE EGBERTS.
-- Produkt 1: Intensiver Lungo mit dicker und feinporiger Crema
-- Produkt 1: Lungo 8 Intenso: Intensiv-Herzhaft-Komplex, Intensität 8
 - Produkt 2: 5 Sorten zum Probieren - von aromatisch mild bis intensiv kräftig: Lungo 6 Intenso , Espresso 7 Classico, Lungo 8 Intenso, Espresso 10 Intenso und Espresso 12 Ristretto
 - Produkt 1: *Markenzeichen eines Unternehmens, das nicht in Verbindung steht mit: JACOBS DOUWE EGBERTS.
+- Produkt 1: Intensiver Lungo mit dicker und feinporiger Crema
+- Produkt 2: Kapseln enthalten 100% UTZ-zertifizierten Kaffee
+- Produkt 2: *Markenzeichen eines Unternehmens, das nicht in Verbindung steht mit: JACOBS DOUWE EGBERTS.
+- Produkt 1: Kapseln enthalten 100% UTZ-zertifizierten Kaffee
+- Produkt 1: Lungo 8 Intenso: Intensiv-Herzhaft-Komplex, Intensität 8
 - Produkt 2: Die neuen Jacobs Lungo- und Espresso-Sorten, mit dicker und feinporiger Crema
 
 [🛒 Hier!!]({{< param buyurl >}})

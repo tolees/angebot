@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Good product for use
 - Excellent quality products
+- Good product for use
 - Easy to use
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

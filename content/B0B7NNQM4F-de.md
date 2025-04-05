@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Tierwohl steht bei uns an erster Stelle. Aus diesem Grund verzichten wir bewusst auf: Farb- und Lockstoffe, Zucker, Gluten und Soja, pflanzliche Nebenerzeugnisse sowie synthetische Konservierungsstoffe.
 - Diese Mahlzeiten bieten deinem Liebling alles was er braucht. Das frische Fleisch verfeinert mit knackigen und gesunden Zutaten, gibt ihm ein einzigartiges und exklusives Genusserlebnis. „Artgerecht, natur- und beutenah“ – dies steht bei uns für einen sehr hohen Fleischanteil. Auf Getreide, Zucker, Konservierungs- oder Geschmacksstoffe sowie synthetische Bindemittel wird vollends verzichtet.
 - Für unsere Mahlzeiten verwenden wir überwiegend Zutaten, die aus regionalen Bauernhöfen stammen. Mit viel Liebe großgezogen oder angebaut, unterliegen diese strengsten Qualitätskontrollen. Wir verarbeiten nur Zutaten in 100 % Lebensmittelqualität.
+- Das Tierwohl steht bei uns an erster Stelle. Aus diesem Grund verzichten wir bewusst auf: Farb- und Lockstoffe, Zucker, Gluten und Soja, pflanzliche Nebenerzeugnisse sowie synthetische Konservierungsstoffe.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B7NNQM4F{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 16,5 cm (6,5 Zoll) IPS Display mit 1080 x 2400 Pixel
 - 50 Megapixel Hauptkamera
-- 128 GB interner Speicher, Wassergeschützt, Android 13.0
 - 2 GHz Unisoc Tiger T616 Octa-Core-Prozessor
+- 128 GB interner Speicher, Wassergeschützt, Android 13.0
+- 16,5 cm (6,5 Zoll) IPS Display mit 1080 x 2400 Pixel
 - Farbe: grausilber
 
 [🛒 Hier!!]({{< param buyurl >}})

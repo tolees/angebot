@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die verbesserte Pure-Pigment-Formel sorgt für eine intensive Farbe
 - Ein lang anhaltender flüssiger Bourjois Lippenstift mit einem wundervoll matten Finish
 - Mit ätherischen Ölen für ein natürliches und gesundes Tragegefühl
 - Bis zu 24 Stunden makelloser, präziser Halt
-- Die verbesserte Pure-Pigment-Formel sorgt für eine intensive Farbe
 - Die äußerst weiche Textur mit 1/4 Samtkonzentrat sorgt für weiche und geschmeidige Lippen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Feines Haar
 - Blondes, blondiertes, aufgehelltes oder weißes Haar
 - Normales bis trockenes Haar
-- Feines Haar
 - Spendet Feuchtigkeit, entwirrt und pflegt die Haare, verleiht Glanz
 
 [🛒 Hier!!]({{< param buyurl >}})

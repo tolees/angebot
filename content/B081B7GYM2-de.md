@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Columbia CSC Basic kurzärmeliges T-Shirt
-- Größe: L
 - Farbe: Black
+- Größe: L
+- Columbia CSC Basic kurzärmeliges T-Shirt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B081B7GYM2{{</world>}}

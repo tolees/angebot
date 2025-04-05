@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einstellbarer Fruchtfleischanteil
-- Links- und rechtsdrehender Presskegel
 - Spülmaschinengeeignet(ausgenommen Motor)
+- Links- und rechtsdrehender Presskegel
 - Start- / Stopp-Automatik
 - Praktische Skalierung
 

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit dem Smart Notebook kannst du handschriftlich auf Papier schreiben, woraufhin der Smart Pen den Inhalt vom Papier in Echtzeit über die Moleskine Notes App auf dein digitales Gerät überträgt
 - Dieses Notizbuch hat alle Eigenschaften des klassischen Moleskine-Notizbuchs und verfügt über ein weißes Seitenlayout und einen schwarzen Einband
-- Mach dir Notizen, erstelle eine Prioritätenliste oder eine To-Do-Liste auf deinem Smart Notebook und überarbeite, organisiere und versende sie als digitale Notiz von deinem PC, Tablet oder Smartphone
 - Smart Notebook Seite mit Hardcover und Spezialpapier mit NCoded Technologie zur Verwendung mit dem Moleskine Smart Pen
+- Mach dir Notizen, erstelle eine Prioritätenliste oder eine To-Do-Liste auf deinem Smart Notebook und überarbeite, organisiere und versende sie als digitale Notiz von deinem PC, Tablet oder Smartphone
 - Die Packung enthält ein elektronisches Notizbuch mit Hardcover in Schwarz, mit elastischem Verschluss und 100 g/m² säurefreiem Papier. Smart Notebook in der Größe L 13 x 21 cm, Farbe schwarz
 
 [🛒 Hier!!]({{< param buyurl >}})

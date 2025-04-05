@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gaming-Tastatur mit RGB-Hintergrundbeleuchtung
-- Individuell konfigurierbare Tastenfunktionen
-- Onboard-Speicher für Spiel-Profile
 - Gaming-Modus mit deaktivierter Windows-Taste
 - Gaming-Software
+- Individuell konfigurierbare Tastenfunktionen
+- Onboard-Speicher für Spiel-Profile
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FPGQ933{{</world>}}

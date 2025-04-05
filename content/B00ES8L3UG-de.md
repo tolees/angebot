@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robuste Qualität durch Carhartt
 - Aus 600Denier Polyester
+- Robuste Qualität durch Carhartt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00ES8L3UG{{</world>}}

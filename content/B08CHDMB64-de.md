@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dank den Aufsätzen aus der IXO Collection ist der IXO mehr als nur ein Schrauber. Ein kleines Loch bohren, Weinflaschen öffnen, Speisen würzen, Grillkohle anfeuern, verschiedene Materialien schneiden – der kleine Alltagshelfer erledigt all das und noch mehr mit seinen gut durchdachten Aufsätzen der IXO Collection
+- Der Akkuschrauber von Bosch kann für alltägliche Aufgaben im und rund ums Haus verwendet werden wie: Möbel montieren, Schrauben festziehen oder kleinere Reparaturen. Die Drehzahlsteuerung sorgt für volle Kontrolle von Anfang bis Ende. Dank digitaler Elektronik kann die Drehzahl stufenlos angepasst werden: Je fester der Schalter gedrückt wird, desto schneller schraubt dieser kleine, nützliche Helfer
 - Durch die genaue Kontrolle über das Werkzeug wird der IXO noch zuverlässiger als bisher. Eine Beschädigung des Werkstücks, splitterndes Holz oder ein Überdrehen von Schraubenköpfen kann so vermieden werden. Damit man immer im Auge hast wie lange man noch arbeiten kann, verfügt dieser Bosch Akkuschrauber über eine Batterieanzeige mit 3 LEDs. Wenn der Akku aufgeladen werden muss, ist das ganz einfach möglich: Einfach das Micro-USB-Kabel in ein Steckerladegerät, einen Laptop oder eine Power Bank stecken und der Akku ist in 2 Stunden voll aufgeladen. Für mehr Flexibilität kann der IXO über die zusätzlich erhältliche Ladestation geladen werden
 - Der IXO der 6. Generation – immer einen Schritt voraus
-- Der Akkuschrauber von Bosch kann für alltägliche Aufgaben im und rund ums Haus verwendet werden wie: Möbel montieren, Schrauben festziehen oder kleinere Reparaturen. Die Drehzahlsteuerung sorgt für volle Kontrolle von Anfang bis Ende. Dank digitaler Elektronik kann die Drehzahl stufenlos angepasst werden: Je fester der Schalter gedrückt wird, desto schneller schraubt dieser kleine, nützliche Helfer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08CHDMB64{{</world>}}

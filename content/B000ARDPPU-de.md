@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bis zu 2.500 Betriebsstunden.
 - Überträgt Herzfrequenz auch beim Schwimmen
+- Bis zu 2.500 Betriebsstunden.
 - Die Codierung schützt vor Störungen durch andere Herzfrequenz-Messgeräte.
 - Der dünne, leichte Sender misst deine Herzfrequenz EKG-genau und ist durch seine Codierung vor Störungen durch andere Herzfrequenz-Messgeräte geschützt.
 

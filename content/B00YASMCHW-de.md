@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Breite: 327 mm
-- Arten von AC-Ausgang: Typ L
-- APC pmf83vt-it. Energie-Schätzung de Montée plötzlichen: 2690 J
 - Spitzenleistung:: 2300 W Kabellänge: 3 m Farbe: weiß. Gewicht: 940 g
+- APC pmf83vt-it. Energie-Schätzung de Montée plötzlichen: 2690 J
 - Tiefe: 110 mm. Art der Verpackung: Schachtel
+- Arten von AC-Ausgang: Typ L
+- Breite: 327 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00YASMCHW{{</world>}}

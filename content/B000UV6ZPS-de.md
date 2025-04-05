@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sehr interessant, das Magnetfeld tatsächlich zu sehen
+- Um das Feld freizugeben, direkt auf die Magnete legen
 - Grüne mikroverkapselte Folie zur Anzeige von Magnetfeldern oder zum Prüfen von Rissen auf Stahloberflächen
 - Wunderbares Lernwerkzeug für Magnetismus
-- Um das Feld freizugeben, direkt auf die Magnete legen
-- Sehr interessant, das Magnetfeld tatsächlich zu sehen
 - Flexibel, damit es um das getestete Objekt gewickelt werden kann
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

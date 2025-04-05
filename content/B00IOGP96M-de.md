@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - kompaktes 4-fach ausziehbares 4-in1-Stativ, max. Tragkraft 8 kg, 3D-Kugelkopf für professionelle Anwendungen (inkl. Wasserwaage)
-- Lieferumfang: Stativ, 1x 52Q Panorama-Kugelkopf, 3 Ministativbeine, Imbusschlüssel, Schnellwechselplatte und Nylontasche
+- Stativ max. Höhe 157 cm, Monopod max. Höhe 163 cm, Mini-Stativ max. Höhe 49 cm
 - Multifunktional - Umbau zum Einbeinstativ und Tischstativ möglich!
 - Stativrohre aus 100 % Carbon für optimales Transport, Gewicht 1,47 kg, Packmaß 43 cm, Farbe schwarz
-- Stativ max. Höhe 157 cm, Monopod max. Höhe 163 cm, Mini-Stativ max. Höhe 49 cm
+- Lieferumfang: Stativ, 1x 52Q Panorama-Kugelkopf, 3 Ministativbeine, Imbusschlüssel, Schnellwechselplatte und Nylontasche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00IOGP96M{{</world>}}

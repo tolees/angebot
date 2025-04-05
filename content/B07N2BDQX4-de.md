@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Für jedes Wetter. Draußen oder drinnen. Schnell oder langsam. Baselayer und mehr. Unsere funktionale Kleidung für aktive, leidenschaftliche Menschen wird von innen nach außen in der Schweiz entworfen. Dabei verwenden wir eine branchenprägende Lagentechnologie, die wir vor 75 Jarehn erfunden haben
-- Auf die verschiedenen Körperpartien abgestimmtes Material
 - Bewegungsfreiheit
 - Mit dem Ziel, die Bedürfnisse von Alltagsathlet:innen und die unseres Planeten in Einklang zu bringen, verfolgt ODLO den festen Vorsatz, spätestens ab 2030 nur noch nachhaltige Materialien zu verwenden
+- Auf die verschiedenen Körperpartien abgestimmtes Material
 - Hervorragendes Feuchtigkeitsmanagement
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

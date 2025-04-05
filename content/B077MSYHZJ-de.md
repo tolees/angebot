@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Material: Plastic
+- Kollektion: Home - Designer: Brogliato Traverso
+- Abmessungen: 24,8 x 12 x h39 cm
 - Farbdetails: Ocker
 - Uhr auch im Tischbetrieb durch abnehmbares Pendel einsetzbar
-- Kollektion: Home - Designer: Brogliato Traverso
-- Material: Plastic
-- Abmessungen: 24,8 x 12 x h39 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077MSYHZJ{{</world>}}

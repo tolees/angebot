@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1000-teiliges Puzzle im Format 96 x 32 cm
-- Hergestellt in Blueboard-Qualität
 - Perfekt als Wohndeko
+- Hergestellt in Blueboard-Qualität
+- 1000-teiliges Puzzle im Format 96 x 32 cm
 - Ideal als Geschenk
 
 [🛒 Hier!!]({{< param buyurl >}})

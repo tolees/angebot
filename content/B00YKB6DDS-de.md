@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- gedruckter Uhlsport-Schriftzug
-- Bund mit kontrastfarbenem Kordelzug
-- elastische Rippbündchen
 - Marke: Uhlsport
 - Hose mit modernem Karotten-Schnitt mit zwei Seitentaschen
+- Bund mit kontrastfarbenem Kordelzug
+- elastische Rippbündchen
+- gedruckter Uhlsport-Schriftzug
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00YKB6DDS{{</world>}}

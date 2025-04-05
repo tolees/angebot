@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Entwickelt für FL Studio: FLkey Mini lässt sich nahtlos in FL Studio integrieren und macht wichtige DAW-Steuerelemente direkt von Hand steuerbar, damit Sie Musik mit Leichtigkeit produzieren können.
-- Spielen Sie gefühlvoll Ihre Beats: Spielen Sie über die anschlagsdynamischen Pads des FLkey Mini direkt in das Channel Rack und verleihen Sie Ihren Beats so ein „menschliches“ Gefühl.
-- Verbleiben Sie mit dem Skalenmodus stets in der Tonart: Wählen Sie Ihre Skala und gelangen Sie zu neuen melodischen Ideen, bei denen Sie immer die richtigen Noten treffen.
 - Skizzieren Sie Beats schnell mithilfe des Step-Sequenzers: Verwenden Sie die Pads von FLkey Mini, um den Step-Sequenzer von FL Studio zu steuern, und programmieren Sie das Schlagzeug einfach im Sequenzer-Modus. Verwenden Sie Note Repeat für Beats mit perfektem Timing.
+- Verbleiben Sie mit dem Skalenmodus stets in der Tonart: Wählen Sie Ihre Skala und gelangen Sie zu neuen melodischen Ideen, bei denen Sie immer die richtigen Noten treffen.
+- Spielen Sie gefühlvoll Ihre Beats: Spielen Sie über die anschlagsdynamischen Pads des FLkey Mini direkt in das Channel Rack und verleihen Sie Ihren Beats so ein „menschliches“ Gefühl.
 - Mixer- und Channel-Rack-Steuerung: Passen Sie die Lautstärken und das Panorama in FL Studio über acht Drehregler direkt vom Controller-Keyboard aus an. Optimieren Sie die Parameter bis zur Perfektion, ohne nach Ihrem Computer greifen oder eine Maus verwenden zu müssen.
 
 [🛒 Hier!!]({{< param buyurl >}})

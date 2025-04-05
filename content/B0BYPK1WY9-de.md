@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Removable stand feet
 - 17" LCD monitor
-- 3 games in 1
 - Can be hung on walls and doors
+- Removable stand feet
+- 3 games in 1
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BYPK1WY9{{</world>}}

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal als Lade- und Stromkabel für USB-Typ-C-Geräte; auch geeignet zur Synchronisation von Daten, Fotos und Musik
-- Das Kabel ist USB-IF-zertifiziert für den USB-2.0-Standard; mit einer einjährigen, beschränkten Garantie durch Amazon Basics
-- Zum Verbinden von USB-Typ-C-Geräten (MacBook, Chromebook Pixel, Samsung Galaxy Note 7, etc.) mit USB-2.0-Typ-C-Geräten (Smartphones, Kfz-/Wand-Ladegeräten, Adaptern mit mehreren Anschlüssen, etc.)
 - Wendbares Design für ein einfaches Einstecken des Typ-C-Steckers in jedes Typ-C-Gerät (es ist egal, welche Steckerseite nach oben zeigt)
-- Datenübertragungsgeschwindigkeit: bis zu 480 Mbit/s; Ausgangsleistung: bis zu 5 V, 3 A
+- Zum Verbinden von USB-Typ-C-Geräten (MacBook, Chromebook Pixel, Samsung Galaxy Note 7, etc.) mit USB-2.0-Typ-C-Geräten (Smartphones, Kfz-/Wand-Ladegeräten, Adaptern mit mehreren Anschlüssen, etc.)
+- Das Kabel ist USB-IF-zertifiziert für den USB-2.0-Standard; mit einer einjährigen, beschränkten Garantie durch Amazon Basics
 - Ein Typ-C-Anschluss ist nur halb so breit und nur ein Drittel so hoch wie ein Standard-USB-Typ-A-Anschluss (leicht größer als ein Lightning- oder ein Micro-USB-Anschluss)
+- Ideal als Lade- und Stromkabel für USB-Typ-C-Geräte; auch geeignet zur Synchronisation von Daten, Fotos und Musik
+- Datenübertragungsgeschwindigkeit: bis zu 480 Mbit/s; Ausgangsleistung: bis zu 5 V, 3 A
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01GGKZ0V6{{</world>}}

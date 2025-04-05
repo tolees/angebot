@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 4K NanoCell-Display mit Direct-LED; 217 cm (86 Zoll) Bildschirmdiagonale, Außenmaße (ohne Standfuß): 192,7 x 110,4 x 5,99 cm, VESA Norm: 600 x 400 mm
-- Smart TV: webOS22 (LG ThinQ AI) mit Google Assistant, Amazon Alexa & Sports Alert, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, inkl. LG Magic Remote-Fernbedienung MR22GA und 2x AA Batterien
-- Prozessor: α7 Gen5 4K AI-Prozessor mit AI Picture Pro, AI Brightness Control, AI Acoustic Tuning, AI Genre Selection & AI Sound Pro (Virtual 5.1.2 Up-mix); Gaming Features: AMD FreeSync-zertifiziert, HGiG-kompatibel, Game Optimizer (VRR / ALLM / GameGenre), Cloud-Gaming (NVIDIA GeForce NOW)
-- TV
 - Bild und Ton: Active HDR (HDR10 Pro, HLG, Filmmaker Mode), HDR Dynamic Tone Mapping, 4K AI Upscaling, 4K High Frame Rate, zweistufige Rauschreduzierung; 2.0-Soundsystem mit 20 Watt (10W je Kanal)
+- TV
+- Prozessor: α7 Gen5 4K AI-Prozessor mit AI Picture Pro, AI Brightness Control, AI Acoustic Tuning, AI Genre Selection & AI Sound Pro (Virtual 5.1.2 Up-mix); Gaming Features: AMD FreeSync-zertifiziert, HGiG-kompatibel, Game Optimizer (VRR / ALLM / GameGenre), Cloud-Gaming (NVIDIA GeForce NOW)
+- Smart TV: webOS22 (LG ThinQ AI) mit Google Assistant, Amazon Alexa & Sports Alert, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, inkl. LG Magic Remote-Fernbedienung MR22GA und 2x AA Batterien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CF63VLD4{{</world>}}

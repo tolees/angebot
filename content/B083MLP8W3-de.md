@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Für DIN A4, Belege, Visitenkarten, Ausweisdokumente etc.
-- TWAIN, WIA, ICA und SANE Treiber für optimale Kompatibilität
-- Stromversorgung via USB 3. 0
 - Innovative, Platz sparende U-Ausgabeführung
+- TWAIN, WIA, ICA und SANE Treiber für optimale Kompatibilität
 - Scangeschwindigkeit von bis zu 15 Seiten (30 Bilder Duplex) pro Minute
+- Stromversorgung via USB 3. 0
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083MLP8W3{{</world>}}

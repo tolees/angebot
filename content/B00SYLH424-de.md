@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPF25.
+- Doré.
 - Erborian
 - CC Crème.
-- Doré.
+- SPF25.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00SYLH424{{</world>}}

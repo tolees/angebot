@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Old-school Vibes: Mit dem vertikalen Bildschirm können die Spieler das ursprüngliche Arcade-Erlebnis nachempfinden
-- Eine eigene Art zu Spielen: Modi wie Dual Play und Double Play bringen das Abenteuer auf die nächste Stufe
 - Moderne Musik: Neu abgemischte BGM aus dem Original-Klassiker, einschließlich Live-Auftritten und neuen Arrangements
 - Deluxe Edition: Das Spiel "Raiden IV x MIKADO remix", digitaler Soundtrack zum Download und ein Poster
+- Eine eigene Art zu Spielen: Modi wie Dual Play und Double Play bringen das Abenteuer auf die nächste Stufe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BB1LT6KZ{{</world>}}

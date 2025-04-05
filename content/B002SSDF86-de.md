@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Yoshio Takeuchi, Kenji Kodama
-- Deutsch
 - 925
+- Deutsch
 - DVD
+- Yoshio Takeuchi, Kenji Kodama
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002SSDF86{{</world>}}

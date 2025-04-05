@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Der Winkelaufsatz von Bosch - Arbeiten an schwer zugänglichen Stellen dank dem Aufsatz-System
 - Schneller und einfacher Wechsel der Aufsätze durch die QuickSnap Schnittstelle
 - Die Kombination von Bohrfutter und Winkelaufsatz ermöglicht es um die Ecke zu bohren
-- Der Winkelaufsatz von Bosch - Arbeiten an schwer zugänglichen Stellen dank dem Aufsatz-System
-- Lieferumfang: Winkelaufsatz, Karton
 - Komfortables und präzises Schrauben an engen Stellen
+- Lieferumfang: Winkelaufsatz, Karton
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07RFMP998{{</world>}}

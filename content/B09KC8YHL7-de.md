@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spiele die Klassiker der ursprünglichen GTA Trilogy, die ein ganzes Genre bestimmt haben und nun für eine neue Generation umfangreich und weitgreifend überarbeitet wurden
 - Mit brillanter neuer Beleuchtung und Umgebungsverbesserungen, hochaufgelösten Texturen, erhöhter Sichtweite, Steuerung und Zielmechanik im Stil von GTAV und vielem mehr
+- Spiele die Klassiker der ursprünglichen GTA Trilogy, die ein ganzes Genre bestimmt haben und nun für eine neue Generation umfangreich und weitgreifend überarbeitet wurden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09KC8YHL7{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Supernatural – Staffel 15
 - Marke: Warner Bros. (Universal Pictures)
+- Supernatural – Staffel 15
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09WYZBVZS{{</world>}}

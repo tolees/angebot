@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schnürsenkel
-- EVA-Zwischensohle
-- Mit dem Obermaterial verbundene Zunge
 - Reguläre Passform
+- Mit dem Obermaterial verbundene Zunge
+- EVA-Zwischensohle
 - Textilfutter
 - Abriebfestes, wasserdichtes Obermaterial aus Mesh; Synthetik-Overlays
 

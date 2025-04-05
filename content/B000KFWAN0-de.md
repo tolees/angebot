@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- available in flare and naturals styles and come in black or brown and short medium and long-lengths.
-- one duralashpackage contains 56 lashes
-- Einheitenanzahltyp: stück
 - duralash individual lashes are the closest thing to natural lashes ever developed.
+- Einheitenanzahltyp: stück
 - Anzahl der einheiten: 1.0
+- one duralashpackage contains 56 lashes
+- available in flare and naturals styles and come in black or brown and short medium and long-lengths.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000KFWAN0{{</world>}}

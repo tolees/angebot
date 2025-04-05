@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Round neck T-shirt
 - T-Shirt mit Rundhalsausschnitt
+- Round neck T-shirt
 - Jerseystoff
 - Kurze Raglanärmel
 - Shorts mit elastischem Bund und Zugschnur

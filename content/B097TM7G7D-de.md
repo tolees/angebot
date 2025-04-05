@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Intel XMP-Ready Profile
 - Leistungsstarke SODIMM-Performance
-- Schlanke Form, elegantes Design
-- Plug-and-Play Funktionalität für eine automatische Übertaktung¹
 - Hohe Leistung trifft geringen Stromverbrauch
 - AMD Ryzen-Ready
-- Intel XMP-Ready Profile
+- Schlanke Form, elegantes Design
+- Plug-and-Play Funktionalität für eine automatische Übertaktung¹
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B097TM7G7D{{</world>}}

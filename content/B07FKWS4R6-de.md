@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einsteigerfreundlich und in 2 Minuten erklärt – Wer ein Exploding Kitten zieht, verliert und ist voller trauriger Verlierersoße. Mit den anderen Karten könnt ihr euer Risiko beeinflussen, ein Exploding Kitten zu ziehen. Wer nicht explodiert, GEWINNT!
+- Dies ist kein eigenständiges Spiel – zum Spielen der Erweiterung wird ein Grundspiel von Exploding Kittens benötig.
 - Gewinner des „Game Of The Year Award“ – Mehr als 10 Millionen verkaufte Exemplare brechen Rekorde bei Spielen für Kinder, Erwachsene und alle dazwischen.
 - Ein unterhaltsames und einfaches Kartenspiel für Kinder und Erwachsene – Das perfekte Spiel für alle Gelegenheiten: den Spieleabend daheim, am Strand, unterwegs oder beim geselligen Trinken mit Freunden!
-- Dies ist kein eigenständiges Spiel – zum Spielen der Erweiterung wird ein Grundspiel von Exploding Kittens benötig.
 - Die zweite Erweiterung des Rekord-Spiels Exploding Kittens. Dieses Kartenspiel mit 15 Karten enthält das Streaking Kitten, mit dem ihr heimlich 1 Exploding Kitten halten könnt, ohne zu explodieren!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

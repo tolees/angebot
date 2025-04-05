@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1350 Watt für schnellen Raclette und Grill-Spaß
-- BBQ / Tischgrill-Funktion dank gerillter, antihaftbeschichteter Grillplatte (abnehmbar und spülmaschinengeeignet)
-- Elektrisches Raclette und Grill für 10 Personen, inklusive 10 antihaftbeschichtete Pfännchen
 - Stiftung Warentest sagt "GUT (2,5)" im Raclette Test 12/2019
+- Elektrisches Raclette und Grill für 10 Personen, inklusive 10 antihaftbeschichtete Pfännchen
+- 1350 Watt für schnellen Raclette und Grill-Spaß
 - 2 Meter langes, abnehmbares Kabel, Ein-/Ausschalter am Gerät und Betriebskontrollleuchte sorgen für Sicherheit und Komfort
+- BBQ / Tischgrill-Funktion dank gerillter, antihaftbeschichteter Grillplatte (abnehmbar und spülmaschinengeeignet)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00MIKJ9K2{{</world>}}

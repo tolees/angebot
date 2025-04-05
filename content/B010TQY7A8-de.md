@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Ein unterhaltsames und einfaches Kartenspiel für Kinder und Erwachsene – Das perfekte Spiel für alle Gelegenheiten: den Spieleabend daheim, am Strand, unterwegs oder beim geselligen Trinken mit Freunden!
 - Einsteigerfreundlich und in 2 Minuten erklärt – Wer ein Exploding Kitten zieht, verliert und ist voller trauriger Verlierersoße. Mit den anderen Karten könnt ihr euer Risiko beeinflussen, ein Exploding Kitten zu ziehen. Wer nicht explodiert, GEWINNT!
-- 56 Karten, mit Schachtel und Spielanleitung – Ein einfaches Kartenspiel für Kinder, gesellige Abende, Kätzchen und Erwachsene – aber nicht in dieser Reihenfolge.
 - Ein Russisch-Roulette-Kartenspiel mit Kätzchenpower – Der Partyhit für Familie und Freunde, die auf Kätzchen, Explosionen, Laserstrahlen und manchmal Ziegen stehen.
+- 56 Karten, mit Schachtel und Spielanleitung – Ein einfaches Kartenspiel für Kinder, gesellige Abende, Kätzchen und Erwachsene – aber nicht in dieser Reihenfolge.
 - Gewinner des „Game Of The Year Award“ – Mehr als 10 Millionen verkaufte Exemplare brechen Rekorde bei Spielen für Kinder, Erwachsene und alle dazwischen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

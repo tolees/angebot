@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundum-Schutz: Die Smartphone-Hülle schützt nicht nur die Rückseite deines Galaxy S23, sondern dank der Frontklappe auch das Display vor Kratzern und Stößen.
 - Das weiche Silikongehäuse und das Band auf der Rückseite des Silicone Grip Case sorgen dafür, dass du dein Galaxy S23 sicher in der Hand halten kannst. Du kannst das Band sogar je nach Belieben austauschen.
+- Rundum-Schutz: Die Smartphone-Hülle schützt nicht nur die Rückseite deines Galaxy S23, sondern dank der Frontklappe auch das Display vor Kratzern und Stößen.
 - Maßgeschneidertes Zubehör: Original Samsung Cover sind passgenau auf Samsung Smartphones und ihre Einsatzzwecke abgestimmt und können so Schutz, Komfort und Design auf ideale Weise vereinen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

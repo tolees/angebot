@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - BRD
+- Deutsch, Japanisch
 - Kimitoshi Chioka (eps 1-46); Kouhei Hatano (eps 68-76); Morio Hatano (eps 33 -, 34-76); Ryōta Nakamura (ep 77-); Tatsuya Nagamine (ep 77-)
 - 475
-- Deutsch, Japanisch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07D58DH9K{{</world>}}

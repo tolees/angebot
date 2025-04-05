@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Comes with three of our 120 mm Aspect RGB fans (and supports two more for a total of five)
-- Easily mounted tempered glass side panel lets you showcase your components
-- Accommodates mATX / Mini ITX Motherboards
 - Up to two HDDs and six SSDs (or one HDD and five SSDs with one optical bay in use)
+- Easily mounted tempered glass side panel lets you showcase your components
 - Holds radiators up to 240 mm in the front, 240 mm in the top and 120 mm in the rear
+- Comes with three of our 120 mm Aspect RGB fans (and supports two more for a total of five)
+- Accommodates mATX / Mini ITX Motherboards
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08T1XD4V2{{</world>}}

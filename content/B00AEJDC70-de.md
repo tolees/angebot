@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Deckt alle Hautunvollkommenheiten ab, dank 3 unterschiedlichen farbkorrigierenden Pigmenten: Grün, das Rötungen neutralisiert, Gelb, das Augenringe kaschiert, und Lila, das Mattheit korrigiert
-- LSF 10 UV-Schutz, der die Haut vor UVA- und UVB-Strahlen schützt
 - Flüssige Bourjois Foundation mit mittlerer Deckkraft und semi-mattem Finish, das bis zu 16 Stunden hält
-- Enthält Baumwollblütenextrakt mit Feuchtigkeits- und Anti-Glanz Eigenschaften
+- LSF 10 UV-Schutz, der die Haut vor UVA- und UVB-Strahlen schützt
 - Für alle Hauttypen geeignet, auch für Mischhaut
+- Enthält Baumwollblütenextrakt mit Feuchtigkeits- und Anti-Glanz Eigenschaften
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00AEJDC70{{</world>}}

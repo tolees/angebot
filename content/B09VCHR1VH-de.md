@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- max. Leistungsaufnahme 65 Watt (Strukturbreite 7 nm)
-- AMD Ryzen 5 Desktop Processor (TSMC 7nm FinFET)
-- L3 Cache MB, L2-Cache MB, Unterstützt DDR4 Speicher bis 3200 MHz
 - Sockel AM4, 6 x 3,5 (Boost 4,4) GHz Taktrate, PCIe 4.0 x 16
+- max. Leistungsaufnahme 65 Watt (Strukturbreite 7 nm)
 - Highend-Gaming, Boxed-Version mit Wraith Stealth Kühler
+- L3 Cache MB, L2-Cache MB, Unterstützt DDR4 Speicher bis 3200 MHz
+- AMD Ryzen 5 Desktop Processor (TSMC 7nm FinFET)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09VCHR1VH{{</world>}}

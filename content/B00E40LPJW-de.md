@@ -29,12 +29,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - gefertigt aus Chrom-Vanadium-Stahl
-- besonders geeignet für enge Platzverhältnisse
-- Abtriebsprofil Ringseite: sechskant
 - Ringseite 20° abgewinkelt
-- Oberflächenvergütung: Verchromt
+- Abtriebsprofil Ringseite: sechskant
 - warm geschmiedet
+- Oberflächenvergütung: Verchromt
 - Maul-Ringschlüssel SW Maul 3,2 mm / Ring 4 mm | Maul-Ringschlüssel SW Maul 4 mm / Ring 5 mm | Maul-Ringschlüssel SW Maul 5 mm / Ring 5,5 mm | Maul-Ringschlüssel SW Maul 5,5 mm / Ring 6 mm | Maul-Ringschlüssel SW Maul 6 mm / Ring 7 mm | Maul-Ringschlüssel SW Maul 7 mm / Ring 8 mm | Maul-Ringschlüssel SW Maul 8 mm / Ring 9 mm | Maul-Ringschlüssel SW Maul 9 mm / Ring 10 mm
+- besonders geeignet für enge Platzverhältnisse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00E40LPJW{{</world>}}

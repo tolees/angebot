@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- # der CPU-Kerne: 6, # der Gewinde: 12, Basisuhr: 3.9 GHz, maximale Boost-Takt: bis zu 4.4 GHz, Gesamt-L2-Cache: 3 MB, Gesamt-L3-Cache: 16 MB
-- Sockel AM4, Systemspeichertyp: DDR4 ; Maximale Temperaturen: 95°C
 - gebündelt mit AMD Wraith Stealth Cooler
+- Sockel AM4, Systemspeichertyp: DDR4 ; Maximale Temperaturen: 95°C
+- # der CPU-Kerne: 6, # der Gewinde: 12, Basisuhr: 3.9 GHz, maximale Boost-Takt: bis zu 4.4 GHz, Gesamt-L2-Cache: 3 MB, Gesamt-L3-Cache: 16 MB
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B092L9GF5N{{</world>}}

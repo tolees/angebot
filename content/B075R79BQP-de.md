@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Regie führte Naoyuki Itou (ONE PIECE: STRONG WORLD, DIGIMON DATA SQUAD)
-- Neben NO GAME NO LIFE und .HACK//SIGN einer der erfolgreichsten Game-Animes der letzten Jahre
 - Produziert von Studio Madhouse (NO GAME NO LIFE, DEATH NOTE)
+- Neben NO GAME NO LIFE und .HACK//SIGN einer der erfolgreichsten Game-Animes der letzten Jahre
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075R79BQP{{</world>}}

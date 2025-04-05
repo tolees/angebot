@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für Holz, MDF, Pappmaché, Glas, Metall, Papier, Keramik, Porzellan, Ton, Leinwand, Kunststoff usw
-- Samtweiches Finish
 - Sprühdose mit 400 ml in steingrau
+- Samtweiches Finish
+- Geeignet für Holz, MDF, Pappmaché, Glas, Metall, Papier, Keramik, Porzellan, Ton, Leinwand, Kunststoff usw
 - Hoch deckende, matte Kreidefarbe zum Sprühen
 - Schnelltrocknend und wischfest
 

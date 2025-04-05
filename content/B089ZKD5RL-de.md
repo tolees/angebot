@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die voller Power der PlayStation 5. Genieße 4K und HDR bei einer Ziel-Bildrate von 60 FPS, spüre die Vibrationen des ABS-Systems über die adaptiven Trigger des DualSense Wireless-Controllers und spüre selbst kleinste Buckel auf dem Asphalt über das immersive haptische Feedback
+- Mit der Wiedereinführung des legendären GT-Simulationsmodus kannst du dir durch Käufe, Tunings, Rennfahrten und Verkäufe deinen Weg durch eine Solokampagne bahnen, während du neue Fahrzeuge und Herausforderungen freischaltest. Und wenn du dich gerne mit anderen misst, verfeinere deine Fähigkeiten und tritt im GT- Sportmodus an
 - Ob Wettkampffahrer, Sammler, Feintuner, Lackierungsdesigner, Fotograf oder Arcade-Fan – hier wird deine persönliche Leidenschaft für Autos mit Features geweckt, die von Gran Turismos Vergangenheit, Gegenwart und Zukunft inspiriert sind
 - Erlebe den kompletten Real Driving Simulator ... seit 25 Jahren in Arbeit
-- Mit der Wiedereinführung des legendären GT-Simulationsmodus kannst du dir durch Käufe, Tunings, Rennfahrten und Verkäufe deinen Weg durch eine Solokampagne bahnen, während du neue Fahrzeuge und Herausforderungen freischaltest. Und wenn du dich gerne mit anderen misst, verfeinere deine Fähigkeiten und tritt im GT- Sportmodus an
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089ZKD5RL{{</world>}}

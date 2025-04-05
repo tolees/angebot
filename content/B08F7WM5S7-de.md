@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bequemes Aufladen des Akkus mit Wandhalterung und Magnetic Charge System
 - Smart Light Technology zum Personalisieren aller Lichtfunktionen
-- Constant Light für konstanten Lichtstrom über einen langen Zeitraum
 - Advanced Focus System für effizientes, maßgeschneidertes Licht im fokussierten und defokussierten Zustand
+- Bequemes Aufladen des Akkus mit Wandhalterung und Magnetic Charge System
+- Constant Light für konstanten Lichtstrom über einen langen Zeitraum
 - Fast Action Switch zur einfachen Bedienung der Lichtfunktionen
 
 [🛒 Hier!!]({{< param buyurl >}})

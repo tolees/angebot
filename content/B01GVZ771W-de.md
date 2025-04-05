@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Individuelle Zutrittsprofile für eine optimale Zugangskontrolle zu den eigenen vier Wänden. Zeitgesteuertes Verschließen möglich, eine zeitgesteuerte Entriegelung des Tüschlosses ist aus Sicherheitsgründen jedoch nicht vorgesehen
 - Hinweis: Ein sicherer Betrieb ist möglicherweise nicht mehr möglich, wenn das Gerät: Anzeichen äußerer Schäden aufweist; funktioniert nicht mehr; unter ungünstigen Bedingungen gelagert oder erschwerten Transportbedingungen ausgesetzt wurde
 - Komfortables Verriegeln, Entriegeln und Öffnen der Haustür per kostenloser Smartphone-App für iOS (ab 8.3) und Android (ab 4.4); Bedienung auch direkt am Gerät möglich
-- Gesondert verschlüsselte Funk-Kommunikation zwischen Smartphone(s) und Türschlossantrieb zusätzlich zur BLUETOOTH Smart Technologie
-- Registrierung von bis zu acht Smartphones pro Türschlossantrieb über mitgelieferte Code-Karte; abhörsichere Inbetriebnahme gewährleistet
+- Individuelle Zutrittsprofile für eine optimale Zugangskontrolle zu den eigenen vier Wänden. Zeitgesteuertes Verschließen möglich, eine zeitgesteuerte Entriegelung des Tüschlosses ist aus Sicherheitsgründen jedoch nicht vorgesehen
 - Universell einsetzbar auf alle Türen mit Standard-Schließzylinder (vorhandener Schließzylinder muss an der Türinnenseite 8 bis 15 mm über Innenbeschlag hinausragen)
+- Registrierung von bis zu acht Smartphones pro Türschlossantrieb über mitgelieferte Code-Karte; abhörsichere Inbetriebnahme gewährleistet
+- Gesondert verschlüsselte Funk-Kommunikation zwischen Smartphone(s) und Türschlossantrieb zusätzlich zur BLUETOOTH Smart Technologie
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01GVZ771W{{</world>}}

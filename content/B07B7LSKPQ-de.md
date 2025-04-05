@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vielseitig einsetzbar und stapelbar: Dieses Möbelstück eignet sich als Nachttisch im Schlafzimmer oder als Beistelltisch im Wohnzimmer. Sie können 2 Tische übereinanderstapeln, um mehr Stauraum zu schaffen
 - Was Sie bekommen: Einen Beistelltisch mit Ablagefläche und offenem Fach, Montagewerkzeug und eine ausführliche Anleitung. Dieses Möbelstück im Industrie-Design ist Teil unserer stilvollen ALINRU-Kollektion!
-- 1 Ablagefläche, 1 offenes Fach: Ihre Leselampe, Ihr Wecker und ein Glas Wasser passen perfekt auf die Ablage mit erhöhten Kanten, die Ihre Gegenstände vor dem Herunterfallen schützen. Im offenen Fach lassen sich Bücher griffbereit platzieren
+- Vielseitig einsetzbar und stapelbar: Dieses Möbelstück eignet sich als Nachttisch im Schlafzimmer oder als Beistelltisch im Wohnzimmer. Sie können 2 Tische übereinanderstapeln, um mehr Stauraum zu schaffen
 - Mit Stil und Qualität: Hochwertige Spanplatten in Dunkelbraun, robuste Stahlbeine in Schwarz – dieser Nachttisch im Industrial Style macht sich hervorragend in Ihrem Schlafzimmer und besitzt zudem eine gute Belastbarkeit (bis 20 kg)
+- 1 Ablagefläche, 1 offenes Fach: Ihre Leselampe, Ihr Wecker und ein Glas Wasser passen perfekt auf die Ablage mit erhöhten Kanten, die Ihre Gegenstände vor dem Herunterfallen schützen. Im offenen Fach lassen sich Bücher griffbereit platzieren
 - Die Montage – ganz einfach: Dank der gekennzeichneten Teile und der beiliegenden, bebilderten Anleitung können Sie diesen 35 x 42 x 52 cm (T x B x H) großen Sofatisch einfach aufbauen
 
 [🛒 Hier!!]({{< param buyurl >}})

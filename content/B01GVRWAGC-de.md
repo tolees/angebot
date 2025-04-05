@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht gepolsterte Jacke
 - Wasserabweisend und Windabweisend
+- Zwei Brusttaschen und zwei Einschubtaschen mit Leisten
+- Leicht gepolsterte Jacke
 - Hüftlange, anschmiegsame Passform und vorgeformte Ärmel
 - Dicht anliegende, verstellbare Kapuze
-- Zwei Brusttaschen und zwei Einschubtaschen mit Leisten
 - Zwei-Wege-Frontreißverschluss mit Schiebern, die auch mit Handschuhen gut zu bedienen sind
 
 [🛒 Hier!!]({{< param buyurl >}})

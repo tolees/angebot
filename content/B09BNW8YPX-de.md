@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit diesem beweglichen Mech können Kinder actiongeladene Ninja-Kämpfe erleben. Im Lieferumfang ist ein Startbaustein enthalten, mit dem sie schnell in ihr Abenteuer starten können
+- Dieses LEGO NINJAGO Spielzeug für Kinder ab 4 Jahren wird mit leicht verständlichen, bebilderten Anleitungen geliefert, damit Vorschulkinder die Freude an LEGO entdecken können
 - Enthält die Actionfigur des beweglichen LEGO NINJAGO Mech mit einem Cockpit, in dem 2 NINJAGO Figuren und eine Spinnenfigur Platz haben!
 - Mit der kostenlosen „LEGO Bauanleitungen App“ kannst du eine digitale Version deines Modells auf dem Smartphone oder Tablet betrachten und dabei zoomen und drehen
-- Dieses LEGO NINJAGO Spielzeug für Kinder ab 4 Jahren wird mit leicht verständlichen, bebilderten Anleitungen geliefert, damit Vorschulkinder die Freude an LEGO entdecken können
-- Mit diesem beweglichen Mech können Kinder actiongeladene Ninja-Kämpfe erleben. Im Lieferumfang ist ein Startbaustein enthalten, mit dem sie schnell in ihr Abenteuer starten können
 - Inklusive LEGO Figuren von NINJAGO Lloyd mit einem Schwert und der Schlange Boa-Jäger mit einem langen Speer, mit denen Kinder spannende NINJAGO Kämpfe austragen können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

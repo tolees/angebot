@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Sehr gute Belüftung
 - Leicht
 - Aufklappbares Visier zum Aufstellen der Maske
-- gut verstellbar
 - Sehr bequem
+- gut verstellbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07N18BDMX{{</world>}}

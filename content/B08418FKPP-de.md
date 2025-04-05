@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurze Ärmel
 - PUMA Cat Logo in Brusthöhe rechts
+- Kurze Ärmel
 - Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
 - 100 % Baumwolle
 - Rundhalsausschnitt

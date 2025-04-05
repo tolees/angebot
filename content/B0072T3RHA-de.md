@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Geeignet für eine Vielzahl von stemmenden und schneidenden Anwendungen
 - Spezialbeitel mit zusätzlicher seitlicher Klinge
-- Schlagkappe aus gehärtetem Stahl
 - Auch als Schabhobel einsetzbar
+- Schlagkappe aus gehärtetem Stahl
 - Hochwertige Chrom-Stahl-Legierung
 
 [🛒 Hier!!]({{< param buyurl >}})

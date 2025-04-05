@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzanleitung
 - Ideal tragbar
-- Bereit für Anrufe
+- Kurzanleitung
 - Zuverlässiger Anschluss
+- Bereit für Anrufe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08N5VPDGQ{{</world>}}

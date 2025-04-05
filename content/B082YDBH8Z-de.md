@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GORE-TEX INFINIUM mit WINDSTOPPER Produkttechnologie: Winddicht, stark wasserabweisend und extrem atmungsaktiv
 - GORE C5 GORE-TEX INFINIUM Thermo Jacket, Größe: M, Farbe: Marineblau, 100640
-- Warme und vielseitig einsetzbare Herren Jacke für Fahrradfahrer, Ideal bei kalten Wetterbedingungen
-- Enganliegende Passform für minimalen Luftwiderstand und optimale Performance/Bike-Spezifischer Schnitt
+- GORE-TEX INFINIUM mit WINDSTOPPER Produkttechnologie: Winddicht, stark wasserabweisend und extrem atmungsaktiv
 - Weich gebürstete Innenseite aus Fleece, 3-teilige Rückentaschen, Verlängertes Rückenteil
+- Enganliegende Passform für minimalen Luftwiderstand und optimale Performance/Bike-Spezifischer Schnitt
+- Warme und vielseitig einsetzbare Herren Jacke für Fahrradfahrer, Ideal bei kalten Wetterbedingungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B082YDBH8Z{{</world>}}

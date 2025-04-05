@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ERWEITERTER INTEGRIERTER SPEICHER: Dank 5 gespeicherten Profilen immer und überall antreten und Tastenzuweisungen, Makros und doppelt so viele Funktionen per Razer Hypershift nutzen.
 - RAZER 8.000 HZ HYPERPOLLING-TECHNOLOGIE: Mit ihrer Abtastrate von echten 8.000 Hz kann diese Maus ihre Position und Klicks bis zu 8.000 Mal pro Sekunde an den PC übermitteln — für eine praktisch latenzfreie Verbindung und eine bislang ungekannte Geschwindigkeit.
+- OPTISCHE MAUS-SWITCHES VON RAZER DER 2. GENERATION: Die weiter verbesserte Abtastrate holt alles aus den Switches heraus, sodass sie bis zu 8x so schnell reagieren — für bis zu 70 Millionen schnell und sauber ausgeführte Klicks ohne unerwünschte Doppelklicks.
 - OPTISCHER RAZER FOCUS+ SENSOR MIT 20K DPI: Dank neuer intelligenter Funktionen wie Motion Sync und asymmetrischem Cut-Off kann unser Sensor alle Bewegungen ohne Spinouts erfassen und so eine schnelle Reaktion und pixelgenau Präzision ermöglichen.
 - FEDERLEICHTE 71 GRAMM: Das elegante Design liegt extrem gut in der Hand und geht keinerlei Kompromisse in Sachen Verarbeitung ein – für optimale Kontrolle, als wäre die Maus ein Teil der Hand.
-- ERWEITERTER INTEGRIERTER SPEICHER: Dank 5 gespeicherten Profilen immer und überall antreten und Tastenzuweisungen, Makros und doppelt so viele Funktionen per Razer Hypershift nutzen.
-- OPTISCHE MAUS-SWITCHES VON RAZER DER 2. GENERATION: Die weiter verbesserte Abtastrate holt alles aus den Switches heraus, sodass sie bis zu 8x so schnell reagieren — für bis zu 70 Millionen schnell und sauber ausgeführte Klicks ohne unerwünschte Doppelklicks.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08P1PWN2Q{{</world>}}

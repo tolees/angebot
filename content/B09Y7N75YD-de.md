@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Stretch Fit
-- T-Shirt für jeden Tag
 - Gerippter Strick
+- T-Shirt für jeden Tag
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Y7N75YD{{</world>}}

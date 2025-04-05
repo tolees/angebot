@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite: Normal
 - Robuste Gummi-Außensohle
-- Perforationen an den Zehen und Seiten
 - Passform: Regulär
+- Perforationen an den Zehen und Seiten
+- Schuhweite: Normal
 - Gepolsterter Schuhkragen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
