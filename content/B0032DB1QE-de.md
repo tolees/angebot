@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DVD
-- Daisuke Nishio
-- Deutsch
 - 975
+- Deutsch
+- Daisuke Nishio
+- DVD
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0032DB1QE{{</world>}}

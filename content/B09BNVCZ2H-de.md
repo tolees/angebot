@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Halte Zurg davon ab, die Treibstoffzelle von LEGO Buzz Lightyear zu stehlen und kämpfe mit coolen Lasern und anderen Waffen
-- Mit 2 Minifiguren, darunter Buzz Lightyear, einer LEGO Roboter-Katzenfigur, einer Roboter-Figur und beweglichen Action-Figur
-- Mit diesem Weltraum-Spielzeug schließen sich Buzz Lightyear-Fans dem Space Ranger-Team an, um den bösen Zurg als LEGO Mech zu bekämpfen
-- Izzy benutzt ihren Bolzenschussapparat, Buzz schnallt sich sein Jetpack um und feuert seinen Lasershooter ab, um den Bösewicht zu besiegen
 - Das Disney Spielzeug zum Bauen für Kinder ab 7 Jahren ist das Geschenk für angehende Space Ranger, die Disney und Pixars Lightyear lieben
+- Izzy benutzt ihren Bolzenschussapparat, Buzz schnallt sich sein Jetpack um und feuert seinen Lasershooter ab, um den Bösewicht zu besiegen
+- Mit 2 Minifiguren, darunter Buzz Lightyear, einer LEGO Roboter-Katzenfigur, einer Roboter-Figur und beweglichen Action-Figur
 - Das Set ist kombinierbar mit Zyclops-Verfolgungjagd (76830) und XL-15-Sternjäger (76832), für noch mehr Spielspaß
+- Mit diesem Weltraum-Spielzeug schließen sich Buzz Lightyear-Fans dem Space Ranger-Team an, um den bösen Zurg als LEGO Mech zu bekämpfen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BNVCZ2H{{</world>}}

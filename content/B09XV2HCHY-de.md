@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ERKENNT AUTOMATISCH IHREN GOLFPLATZ: Dank der integrierten GPS-Funktion erkennt die Approach S12 automatisch, auf welchem der über 42.000 vorinstallierten Golfplätze Sie sich befinden und welches Loch Sie gerade spielen. Updates zu weiteren Golfplätzen sind inklusive.
 - ZEIGT PRÄZISE ENTFERNUNGEN AN: Die Approach S12 zeigt Ihnen dank des integrierten GPS die exakten Entfernungsangaben zu Anfang, Mitte und Ende des Grüns, sowie zu allen Hindernissen und Doglegs an. Mit GreenView kennen Sie die Form des Grüns und durch PinPositionierung lässt sich die Fahne manuell verschieben.
-- EINFACH BEDIENBAR: Die kompakte GPS-Golfuhr ist einfach zu bedienen und ermöglicht volle Konzentration auf das Spiel. Das hochauflösende 1,3“ Display ist auch unter Sonnenlicht und dank extra großer Zahlen jederzeit sehr gut ablesbar. Passend für Handgelenke mit 125-202 mm Umfang.
 - MISST IHRE SCHLAGWEITEN: Mit der Approach S12 können Sie manuell Ihre Schlagweit aufzeichnen und wissen somit immer, wie weit Sie geschlagen haben. Mit dem separat erhältlichen Garmin CT10 Golfschlagsensoren wird die Schlagweite und Ihr Score sogar automatisch gemessen und aufgezeichnet.
 - DIGITALE SCORECARD & GARMIN GOLF APP: Laden Sie Ihre Scorecard in die Garmin Golf App und vergleichen Sie sich in Bestenlisten. Die Garmin Golf App hilft Ihnen, Ihr Spiel mithilfe von Live-Scoring, automatischen Scorecard-Uploads & Statistiken zu analysieren & zu optimieren.
-- ERKENNT AUTOMATISCH IHREN GOLFPLATZ: Dank der integrierten GPS-Funktion erkennt die Approach S12 automatisch, auf welchem der über 42.000 vorinstallierten Golfplätze Sie sich befinden und welches Loch Sie gerade spielen. Updates zu weiteren Golfplätzen sind inklusive.
+- EINFACH BEDIENBAR: Die kompakte GPS-Golfuhr ist einfach zu bedienen und ermöglicht volle Konzentration auf das Spiel. Das hochauflösende 1,3“ Display ist auch unter Sonnenlicht und dank extra großer Zahlen jederzeit sehr gut ablesbar. Passend für Handgelenke mit 125-202 mm Umfang.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09XV2HCHY{{</world>}}

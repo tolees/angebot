@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verstellbare Schultergurte
-- Maße: 36,5 x 26 x 10cm
 - Rucksack mit zwei Hauptfächern und großer Fronttasche
 - Gefüttertes Fach für elektronische Geräte
+- Maße: 36,5 x 26 x 10cm
 - Sicherheitstasche auf der Rückseite und schützende Frontklappe
 
 [🛒 Hier!!]({{< param buyurl >}})

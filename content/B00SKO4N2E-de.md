@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserdicht (JIS 6 Klassifizierung) mit Stickstofffüllung; Austrittspupille: 3 mm
-- Wasserabweisende Vergütung der äußeren Linsen
 - Asphärische Linsenelemente; Magnesium/Aluminium Gehäuse
 - Lieferumfang: Pentax SP 20 x 60 WP
+- Wasserdicht (JIS 6 Klassifizierung) mit Stickstofffüllung; Austrittspupille: 3 mm
+- Wasserabweisende Vergütung der äußeren Linsen
 - Mehrfach Vergütung auf allen Linsen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ein tolltes Geschenk für Kinder ab 4 Jahren und mit anderen Sets kombinierbar. (Zusätzliche Sets separat erhältlich.)
-- Die Kinder können die zwei kaputtgehenden Autos auf den Haupttribünen zusammen mit anderen Hot Wheels-Fahrzeugen platzieren, um die Zerstörung zu intensivieren. (Inklusive zwei kaputtgehende Autos. Zusätzliche Autos separat erhältlich.)
-- Der bewegliche und wackelnde Sockel gibt sensorisches Feedback, über das die Kinder die Kraft der Zerstörung spüren.
-- Mit der Tigerhai-Schleuder-Challenge von Hot Wheels Monster Trucks Arena Smashers wird ein gegnerischer Hai in die Flucht geschlagen.
 - Das Set enthält einen Tigerhai im Maßstab 1:64, der bereit ist, mit aller Macht anzugreifen.
+- Mit der Tigerhai-Schleuder-Challenge von Hot Wheels Monster Trucks Arena Smashers wird ein gegnerischer Hai in die Flucht geschlagen.
+- Der bewegliche und wackelnde Sockel gibt sensorisches Feedback, über das die Kinder die Kraft der Zerstörung spüren.
+- Die Kinder können die zwei kaputtgehenden Autos auf den Haupttribünen zusammen mit anderen Hot Wheels-Fahrzeugen platzieren, um die Zerstörung zu intensivieren. (Inklusive zwei kaputtgehende Autos. Zusätzliche Autos separat erhältlich.)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B61VMS35{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AUFBRUCH IN EINE VERGANGENE WELT
 - Begleite Aloy auf ihre gefährliche Reise durch den Verbotenen Westen, ein tödliches Grenzgebiet, in dem geheimnisvolle, neue Bedrohungen lauern
+- AUFBRUCH IN EINE VERGANGENE WELT
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08TJGKN5J{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langanhaltend
 - Lebendig-leichte bis mittlere Deckkraft schenkt dem Teint ein ebenmäßiges Aussehen
 - Natürliches Leuchten für jede Haut
+- Langanhaltend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B014GJH4PE{{</world>}}

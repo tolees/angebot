@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Da die Materialien für die außergewöhnlichen Rätsel verändert werden, nur einmal spielbar
 - Endlich wieder ein neues Profi EXIT - Das Spiel
-- Mit Tutorial und Timer in der kostenlosen KOSMOS-Erklär-App. Mit und ohne App spielbar
+- Gesellschaftsspiel für Erwachsene, Fans von Live Escape Rooms und Familien ab 12 Jahren
 - Ausbruch aus dem sichersten Gefängnis der Welt – nur für wahre EXIT - Profis
+- Mit Tutorial und Timer in der kostenlosen KOSMOS-Erklär-App. Mit und ohne App spielbar
 - Ideal als Partyspiel, Eventspiel und als Geburtstagsgeschenk
 - 1–4 SpielerInnen lösen im Team clevere Rätsel und brauchen dazu Teamgeist, Kreativität und Kombinationsgeschick
 - Ganz neue Herausforderung mit der Team-Challenge in 2 Teams von 1 bis 2 Leuten
-- Da die Materialien für die außergewöhnlichen Rätsel verändert werden, nur einmal spielbar
-- Gesellschaftsspiel für Erwachsene, Fans von Live Escape Rooms und Familien ab 12 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C7RLGZC9{{</world>}}

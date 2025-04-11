@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UNIVERSELL KOMPATIBEL: Dank verschiedener Adapter passt das Heizkörperthermostat vertikal wie auch horizontal auf nahezu jedes Heizungsventil und kann damit den Thermostatkopf Ihrer Heizung ersetzen
 - SMART CONTROL: Steuern Sie die Heizkörper in jedem Raum auch mit Ihrem Smartphone – egal, ob Sie mit Ihrem eigenen Heizkessel oder mit Fernwärme heizen
+- ZUSATZFUNKTIONEN: Von Geofencing über Wetteranpassung, Statistiken, Energiesparbericht, Mehrraum-Steuerung mit zusätzlichem Thermostat und Boost-Funktion bis hin zur Frost- und Kindersicherung bietet tado° zahlreiche Features für Ihre Heizung
 - INTELLIGENTES ADD-ON: Durch separat erhältliche, smarte Heizkörperventile können Sie jede Heizung in Ihrem Smart Home von tado° mit individuell einstellbaren Zeitplänen an Ihre Routine anpassen
+- UNIVERSELL KOMPATIBEL: Dank verschiedener Adapter passt das Heizkörperthermostat vertikal wie auch horizontal auf nahezu jedes Heizungsventil und kann damit den Thermostatkopf Ihrer Heizung ersetzen
 - VORAUSSETZUNGEN: Funktioniert nur mit einem zusätzlich erhältlichen tado° Starter Kit (V2, V3 oder V3+) – das Set enthält 3 intelligente Heizkörperthermostate, jeweils mit 6 Adaptern und Batterien
 - SPART ZEIT UND ENERGIE: Je mehr Heizkörper und Räume Sie mit unserem in Deutschland entwickelten, europaweit genutzten Thermostat steuern, desto komfortabler und energiesparender wird Ihr Zuhause
-- ZUSATZFUNKTIONEN: Von Geofencing über Wetteranpassung, Statistiken, Energiesparbericht, Mehrraum-Steuerung mit zusätzlichem Thermostat und Boost-Funktion bis hin zur Frost- und Kindersicherung bietet tado° zahlreiche Features für Ihre Heizung
 - SCHNELL & EINFACH: In nur wenigen Minuten lässt sich das Homekit Thermostat mit der Schritt-für-Schritt-Anleitung in der App ganz einfach installieren, wobei die Metallmutter jederzeit für einen festen Halt ohne Auslaufrisiko sorgt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

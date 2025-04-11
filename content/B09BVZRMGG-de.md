@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank des eleganten Designs eignet sich der Tortenheber auch für das Servieren am Tisch
 - Ideal zum Heben und Servieren
+- Dank des eleganten Designs eignet sich der Tortenheber auch für das Servieren am Tisch
 - Verfügt über einen angenehmen Griff mit rutschfester Haltefläche
 - Gefertigt aus langlebigem Edelstahl
 

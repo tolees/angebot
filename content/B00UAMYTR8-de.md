@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Typ: Business LED Monitor mit WQHD 2560x1440 VA-Panel; 140 mm Höhenverstellung und Pivot Funktion und TÜV Ergonomie; TCO 6,0 Zertifizierung
-- Herstellergarantie: 3 Jahren bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- HDMI, DVI-D, Display-Port, USB und D-Sub Schnittstelle
-- Bildschirmgröße von 60,96 cm (24 Zoll) WQHD im 16:9 Wide LED-Format
 - Lieferumfang: BenQ BL2420PT 60,96 cm (24 Zoll) Monitor schwarz, DVI-, VGA-, Netzkabel, USB-Kabel, Audio-Kabel, Handbuch/Treiber-CD, DisplayPilot Software
+- Bildschirmgröße von 60,96 cm (24 Zoll) WQHD im 16:9 Wide LED-Format
+- HDMI, DVI-D, Display-Port, USB und D-Sub Schnittstelle
+- Herstellergarantie: 3 Jahren bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00UAMYTR8{{</world>}}

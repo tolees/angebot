@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TPU-Sohle
 - Nubukleder
+- TPU-Sohle
 - Elastische Riemen für einfache Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

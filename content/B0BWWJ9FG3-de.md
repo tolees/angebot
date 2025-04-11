@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tunertyp und Konnektivität: Single Triple Tuner (DVB-T2/-C/-S2), LAN (Ethernet), WLAN (802.11ac), 4x HDMI 2.1 (mit eARC), 2x USB, Optischer Digitalausgang (S/PDIF, Lichtwellenleiter), CI+-Slot
-- Prozessor: α7 Gen6 4K AI-Prozessor mit AI Picture Pro, AI Brightness Control, & AI Sound Pro (Virtual 5.1 Up-mix); Gaming Features: AMD FreeSync Premium zertifiziert, HGiG-kompatibel, Game Optimizer (VRR, ALLM & QMS)
-- Bild und Ton: Active HDR (HDR10 Pro, HLG, Filmmaker Mode), unterstützt Dolby Vision & Atmos, HDR Dynamic Tone Mapping, 4K AI Upscaling ; 2.2-Soundsystem mit 40 Watt (20W je Kanal), WiSA-kompatibel
 - 4K Ultra HD-Display mit Quantum Dot NanoCell Plus; 218 cm (86 Zoll) Bildschirmdiagonale, Außenmaße (ohne Standfuß): 192,5 x 110,5 x 4,61 cm, VESA Norm: 600 x 400 mm
 - Smart TV: webOS 23 (LG ThinQ AI & AI Concierge) mit Google Assistant, Amazon Alexa, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, unterstützt WOW Interface & Orchestra inkl. LG Magic Remote-Fernbedienung und 2x AA Batterien
+- Prozessor: α7 Gen6 4K AI-Prozessor mit AI Picture Pro, AI Brightness Control, & AI Sound Pro (Virtual 5.1 Up-mix); Gaming Features: AMD FreeSync Premium zertifiziert, HGiG-kompatibel, Game Optimizer (VRR, ALLM & QMS)
+- Bild und Ton: Active HDR (HDR10 Pro, HLG, Filmmaker Mode), unterstützt Dolby Vision & Atmos, HDR Dynamic Tone Mapping, 4K AI Upscaling ; 2.2-Soundsystem mit 40 Watt (20W je Kanal), WiSA-kompatibel
+- Tunertyp und Konnektivität: Single Triple Tuner (DVB-T2/-C/-S2), LAN (Ethernet), WLAN (802.11ac), 4x HDMI 2.1 (mit eARC), 2x USB, Optischer Digitalausgang (S/PDIF, Lichtwellenleiter), CI+-Slot
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BWWJ9FG3{{</world>}}

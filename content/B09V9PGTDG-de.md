@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- CAM macht Personalisierung durch die RGB-Anpassung der einzelnen Tasten, Makroeinstellungen und Lichteffekte mit vier Oboard-Profilen einfach.
-- Robuste Aluminium-Abdeckung und flaches Profil.
 - Dank Hot-Swap-fähiger Sockel unter jeder Taste ist der Austausch gegen beliebige MX-kompatible Switches möglich
+- CAM macht Personalisierung durch die RGB-Anpassung der einzelnen Tasten, Makroeinstellungen und Lichteffekte mit vier Oboard-Profilen einfach.
 - Dank des Standard-Designs der unteren Tastaturzeile können beliebige Standard-Keycaps aus dem Zubehörhandel mo
+- Robuste Aluminium-Abdeckung und flaches Profil.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09V9PGTDG{{</world>}}

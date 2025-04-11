@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- manufacturer: UNION SQUARE
 - New Store Stock
+- manufacturer: UNION SQUARE
 - brand: BMG RIGHTS MANAGEMENT
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

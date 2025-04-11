@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Prickelnd-erfrischender Zitrusduft
 - Spendet Feuchtigkeit
+- Prickelnd-erfrischender Zitrusduft
 - Green Tea Refreshing Body Lotion
 - Vitalisierender Duft
 

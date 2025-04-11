@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Von Hand gewaschen werden
-- Der Twill -Stoff ist weich und leicht.
 - Verstellbarer Metallverschluss am Rand mit Swoosh in Relief
+- Der Twill -Stoff ist weich und leicht.
 - Swoosh -Logo in Reliefmetall
 
 [🛒 Hier!!]({{< param buyurl >}})

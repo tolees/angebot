@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Werkzeuge im Kunststoff-Tiefziehteil mit transparentem Deckel
-- Attraktive Verkaufsverpackung mit SB-Lochung
 - Abmessungen (B x H x T): 170 x 370 x 40 mm
+- Attraktive Verkaufsverpackung mit SB-Lochung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VCBFDLL{{</world>}}

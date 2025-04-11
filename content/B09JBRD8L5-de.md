@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Angebot für Vorbesteller ist nur bis zum 24.03.2022 gültig. Physische Vorbestellungen: Das Goldener-Held-Rüstung-Pack wird über einen in der Verpackung enthaltenen Code im Spiel eingelöst. Es gelten die angegebenen Bedingungen
-- Wage dich in ein episches Abenteuer voller schrulliger Gestalten, Wunder und Waffen!
-- Lass deine Kleidung mit dem Goldener-Held-Rüstung-Pack in majestätischer Pracht erstrahlen! Dieses Pack enthält zwei Goldene-Rüstung-Themen für Tiny Tina’s Wonderlands, die auf jedes Rüstungsset angewandt werden können
-- Erstell deinen eigenen Multiklassen-Helden und mach Beute, ballere und zaubere dir einen Weg durch eine Quest mit seltsamen Monstern und Verliesen, um den Drachenlord aufzuhalten
 - Bestelle vor dem 25. März 2022 vor, um das Goldener-Held-Rüstung-Pack zu erhalten!
+- Wage dich in ein episches Abenteuer voller schrulliger Gestalten, Wunder und Waffen!
+- Erstell deinen eigenen Multiklassen-Helden und mach Beute, ballere und zaubere dir einen Weg durch eine Quest mit seltsamen Monstern und Verliesen, um den Drachenlord aufzuhalten
+- Das Angebot für Vorbesteller ist nur bis zum 24.03.2022 gültig. Physische Vorbestellungen: Das Goldener-Held-Rüstung-Pack wird über einen in der Verpackung enthaltenen Code im Spiel eingelöst. Es gelten die angegebenen Bedingungen
+- Lass deine Kleidung mit dem Goldener-Held-Rüstung-Pack in majestätischer Pracht erstrahlen! Dieses Pack enthält zwei Goldene-Rüstung-Themen für Tiny Tina’s Wonderlands, die auf jedes Rüstungsset angewandt werden können
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09JBRD8L5{{</world>}}

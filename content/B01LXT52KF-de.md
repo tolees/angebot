@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimale Ausleuchtung - Verbautes 946 lm LED-Lichtsystem leuchtet Eingangs-Bereiche und Terrassen gleichmäßig aus, mit elegantem Ambiente-Licht an der Wand
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse "D". Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
-- Lieferumfang: LED-Außenleuchte, Montagematerial (4x Schrauben, 4x Dübel, 4x Abstandshalter, 2x Sicherungsschrauben, Dichtstopfen), Abdeckblende, Bedienungsanleitung | Abmessungen (L x B x H): 81 x 165 x 305 mm | Gewicht: 0,84 kg | Netzanschluss: 230 – 240 V / 50-60 Hz | Artikelnummer: 010461
-- Zuverlässige Erfassung - 180° Infrarot-Sensor schaltet das LED Licht automatisch bei Bewegung im Erfassungsbereich von max. 10 m ein
 - Lange Haltbarkeit - Nie wieder Leuchtmittel wechseln durch ca. 30 Jahre LED-Lebensdauer/ Schlagfeste LED Wandleuchte mit rostfreier Edelstahl-Blende
+- Zuverlässige Erfassung - 180° Infrarot-Sensor schaltet das LED Licht automatisch bei Bewegung im Erfassungsbereich von max. 10 m ein
 - Individuelle Einstellung - Vertikal um 90° schwenkbarer Sensor/ Stufenlose Justierung von Leuchtzeit und Anschalthelligkeit/ Inkl. Abdeckblenden für einen gezielten Erfassungsbereich
 - Einfache Montage und Installation - Anbringung und Verdrahtung erfolgt wie bei jeder herkömmlichen Leuchte, nur noch Sensor einstellen und fertig
+- Lieferumfang: LED-Außenleuchte, Montagematerial (4x Schrauben, 4x Dübel, 4x Abstandshalter, 2x Sicherungsschrauben, Dichtstopfen), Abdeckblende, Bedienungsanleitung | Abmessungen (L x B x H): 81 x 165 x 305 mm | Gewicht: 0,84 kg | Netzanschluss: 230 – 240 V / 50-60 Hz | Artikelnummer: 010461
+- Optimale Ausleuchtung - Verbautes 946 lm LED-Lichtsystem leuchtet Eingangs-Bereiche und Terrassen gleichmäßig aus, mit elegantem Ambiente-Licht an der Wand
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01LXT52KF{{</world>}}

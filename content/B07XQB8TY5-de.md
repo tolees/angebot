@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- microSD/SD-Kartenleser, unterstützt SDHC und SDXC (UHS-I)
 - Zusätzlicher USB-C-Anschluss zur Datensynchronisation und mit Ladefunktion - schließen Sie Ihr USB-C-Ladegerät an um Ihren Laptop mit Strom zu versorgen (bis zu 100 W, 20 V bei 5 A)
 - Gigabit RJ45 Netzwerkport (10/100/1000 Mbps, Megabits pro Sekunde)
 - Aluminiumgehäuse u.a. mit 3x SuperSpeed USB-3.0-Ports, 1x mit Schnellladung (BC 1.2) und 15cm Kabel
-- Keine Installation von anderen Art, Plug & Play, kompatibel mit Windows 10, Mac OS und Chrome OS
-- microSD/SD-Kartenleser, unterstützt SDHC und SDXC (UHS-I)
 - Erweitern Sie Ihren Laptop um ein HDMI 4K Zweitdisplay (Auflösung 3840 x 2160, 4096 x 2160 bei 30 Hz) mit 1080p
+- Keine Installation von anderen Art, Plug & Play, kompatibel mit Windows 10, Mac OS und Chrome OS
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XQB8TY5{{</world>}}

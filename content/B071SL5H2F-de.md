@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Homogenität der Kochen ohne Zugabe von Fett
 - Struktur aus Aluminiumguss mit antihaft-Beschichtung in Stein-Optik "
 - Kapazität: 6200)
+- Homogenität der Kochen ohne Zugabe von Fett
 - Durchmesser: 36 cm
 - Kochen für alle Herde, auch Induktionsherde
 

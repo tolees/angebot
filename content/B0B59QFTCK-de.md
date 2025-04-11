@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Nike Dri-FIT-Technologie leitet Schweiß für eine schnellere Verdunstung
 - Gesticktes Logo auf der Brust
+- Die Nike Dri-FIT-Technologie leitet Schweiß für eine schnellere Verdunstung
 - Sorgt für ein trockenes und angenehmes Tragegefühl
 
 [🛒 Hier!!]({{< param buyurl >}})

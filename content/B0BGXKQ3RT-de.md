@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Weite: Normal (F), Verschluss: Schnürsenkel
 - Obermaterial: Textil, Innenmaterial: Textil, Laufsohle: EVA-Sohle, Decksohle: Leder
-- Absatztyp: Flach, Absatzhöhe: 3.4 cm, Schafttyp: Kurzschaft, Schafthöhe: cm
 - Produkttyp: Halbschuhe,Schnürschuhe,Sneaker,Damenschuhe,Schnürschuhe,Schnürer,Sneaker,Halbschuhe,Straßenschuhe,Freizeitschuhe
+- Absatztyp: Flach, Absatzhöhe: 3.4 cm, Schafttyp: Kurzschaft, Schafthöhe: cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BGXKQ3RT{{</world>}}

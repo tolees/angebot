@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Integrierte S Pen Aufbewahrung zum sorgenfreien Mitführen des S Pen
-- Schnelle einfache Anbringung, durch Magnete in der Rückseite des Covers
-- Schützt Vorder- und Rückseite deines Tablets vor Kratzern und bei Stößen
 - Antimikrobielle Beschichtung schützt dich vor unterschiedlichen Bakterien*
+- Schützt Vorder- und Rückseite deines Tablets vor Kratzern und bei Stößen
 - Schlankes Design mit der Möglichkeit schnell Notizen zu machen
+- Schnelle einfache Anbringung, durch Magnete in der Rückseite des Covers
 - Kompatibel mit dem Galaxy Tab S7 | Tab S8
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

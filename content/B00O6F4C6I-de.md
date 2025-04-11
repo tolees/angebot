@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hergestellt in Frankreich!
-- inklusive Schneeschuhtasche
 - Körpergewicht 70-140kg
 - flexibler Rahmen und flexible Bindung
 - Schuhgröße 37-50
+- inklusive Schneeschuhtasche
+- Hergestellt in Frankreich!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00O6F4C6I{{</world>}}

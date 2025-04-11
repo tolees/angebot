@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - V-Ausschnitt mit Rippblende
-- Logo Print auf dem oberen Rücken
-- senkrechtes Artwork mit Stickereien vorne
 - mit Farbverlauf
+- senkrechtes Artwork mit Stickereien vorne
+- Logo Print auf dem oberen Rücken
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D98ZP3BX{{</world>}}

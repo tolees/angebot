@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die 531 Bausteine und Teile sind mit allen Bausets von MEGA und anderen Marken kompatibel
 - Greif mit Silikonmähne und sehr beweglichen Flügeln zum Zusammenbauen, mit der Optik aus The Witcher 3: Wild Hunt
 - Das Set ist genau das Richtige für Fans ab 16 Jahren, die viel Wert auf eine realistische, detailgetreue Darstellung legen
 - Äußerst bewegliche, detailgetreue Mikro-Aktionsfigur von Geralt mit Vipernrüstung und 2 Schwertern, Stahl und silber
 - Bauset für Corvo Bianco mit leuchtendem Kamin (LEDs mit 2 Modi), Leshen-Schädel und vielen anderen Easter Eggs aus The Witcher
-- Die 531 Bausteine und Teile sind mit allen Bausets von MEGA und anderen Marken kompatibel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NZG4TY4{{</world>}}

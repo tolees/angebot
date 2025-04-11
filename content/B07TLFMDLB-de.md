@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dies ist ein originales Levis Produkt
-- Levis Logo auf der BrustDies ist ein originales Levis Produkt
 - Klassisches langärmeliges Hemd zum Knöpfen
+- Levis Logo auf der BrustDies ist ein originales Levis Produkt
+- Dies ist ein originales Levis Produkt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TLFMDLB{{</world>}}

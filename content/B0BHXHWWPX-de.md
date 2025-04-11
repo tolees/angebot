@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- gestanzter Markenschriftzug im 3D-Look auf der Vorderseite
 - Kängurutasche mit weicher Innenseite, Kapuze mit Kordelzug
 - lässiger Kapuzenpullover für Herren von JACK & JONES
-- gestanzter Markenschriftzug im 3D-Look auf der Vorderseite
 - breite Rippbündchen an den Ärmelabschlüssen, breiter Rippbund am Saum
 - angenehm weiche Baumwollmischung, gebürstetes Material mit weicher Innenseite
 

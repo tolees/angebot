@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 1: Für alle gängigen Schlauchsysteme und Mehrfach-Verteiler, z.B. von Gardena oder Kärcher, unterstützt bis zu 7 Bewässerungszeiten. Das batteriebetriebene, wetterfeste und lichtresistente Produkt wurde in Deutschland entwickelt. Unser deutscher Produkt-Support steht Ihnen bei Rückfragen zur Verfügung
-- Produkt 2: Eve Weather erfordert ein iPhone oder iPad mit der neuesten Version von iOS/iPadOS
-- Produkt 2: Siri nach Temperatur und Luftfeuchtigkeit direkt vor der Haustür befragen
-- Produkt 1: Eve Aqua erfordert ein iPhone oder iPad mit der neuesten Version von iOS/iPadOS
-- Produkt 2: Elegantes Design mit eloxiertem Aluminium und IPX4-Wasserbeständigkeit, kabellos mit austauschbarer Batterie
-- Produkt 2: Außentemperatur, Luftfeuchtigkeit und Luftdruck im Zeitverlauf verfolgen und den Wettertrend im Blick behalten – auf dem iPhone oder direkt am Display
 - Produkt 1: Steuern Sie Rasensprenger oder Bewässerungssysteme per App, Siri oder direkt am Gerät. Oder legen Sie mühelos Zeitpläne an, die den Garten unabhängig vom iPhone und Heimnetz automatisch bewässern – auch im Urlaub
+- Produkt 1: Eve Aqua erfordert ein iPhone oder iPad mit der neuesten Version von iOS/iPadOS
+- Produkt 2: Außentemperatur, Luftfeuchtigkeit und Luftdruck im Zeitverlauf verfolgen und den Wettertrend im Blick behalten – auf dem iPhone oder direkt am Display
+- Produkt 2: Siri nach Temperatur und Luftfeuchtigkeit direkt vor der Haustür befragen
 - Produkt 1: Vermeiden Sie Überschwemmungen und Wasserverschwendung dank automatischer Abschaltung, und behalte Sie die Gießmengen über die Verbrauchsberechnung im Blick
+- Produkt 2: Elegantes Design mit eloxiertem Aluminium und IPX4-Wasserbeständigkeit, kabellos mit austauschbarer Batterie
+- Produkt 2: Eve Weather erfordert ein iPhone oder iPad mit der neuesten Version von iOS/iPadOS
+- Produkt 1: Für alle gängigen Schlauchsysteme und Mehrfach-Verteiler, z.B. von Gardena oder Kärcher, unterstützt bis zu 7 Bewässerungszeiten. Das batteriebetriebene, wetterfeste und lichtresistente Produkt wurde in Deutschland entwickelt. Unser deutscher Produkt-Support steht Ihnen bei Rückfragen zur Verfügung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BTM18NP8{{</world>}}

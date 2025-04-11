@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Print -Artwork vorne und auf den Ärmelbündchen
 - Trikotkragen mit Kontrastkante und gebrandeter Unterseite
 - Tapes auf den Schultern
-- Print -Artwork vorne und auf den Ärmelbündchen
 - 3-Knopfleiste
 - Flammgarnstruktur
 

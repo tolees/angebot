@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Eine Welt voller Magie erscheint von schleich für dich zum Spielen und Sammeln!
+- schleich Produkte inspirieren die Fantasie und jede Figur garantiert ein pädagogisch wertvolles Spielerlebnis voller Abenteuer.
 - Mit erhobenem Zauberstab, seinem Phönix Fawkes und seinem großen Wissen ist Albus Dumbledore bekannt als der einzige Zauberer, vor dem sich der böse Lord Voldemort fürchtet.
 - Die schleich Figur Dumbledore & Fawkes gehört zur Themenwelt Wizarding World rund um Harry Potter und ist für Fans ab 6 Jahren geeignet.
-- Eine Welt voller Magie erscheint von schleich für dich zum Spielen und Sammeln!
 - Albus Dumbledore ist der Schulleiter von Hogwarts. Hier zu sehen mit seinem treuen Phönix Fawkes. Dumbledore ist von entscheidender Bedeutung für Harrys Bestreben, den Dunklen Lord zu vernichten.
-- schleich Produkte inspirieren die Fantasie und jede Figur garantiert ein pädagogisch wertvolles Spielerlebnis voller Abenteuer.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BSRC2NVG{{</world>}}

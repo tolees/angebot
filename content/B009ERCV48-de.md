@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- eichtes Herauslösen der Totenkopf Eiswürfel oder Pralinen, da das Silikon immer flexibel bleibt.
-- Der Totenkopf kühlt die Getränke im Sommer.
 - Lebensmittelecht, Obstsäurebeständig, Spülmaschinengeeignet
 - Auch für Schokoladenpralinen geeignet. Toller Halloweenspaß!
+- eichtes Herauslösen der Totenkopf Eiswürfel oder Pralinen, da das Silikon immer flexibel bleibt.
+- Der Totenkopf kühlt die Getränke im Sommer.
 - Temperaturbeständig: -60°C bis 240°C
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

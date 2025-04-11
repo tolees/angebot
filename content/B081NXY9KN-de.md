@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- CA65 BPA warning
 - Can be used all year round
 - 100% polyester, UV-resistant with SPF 50+, Water-resistant design is suitable for light rainy weather
-- CA65 BPA warning
+- Attaches easily to the gazebo pole
 - Suitable for use with Amazon Basics 4.5m x 4.5m Party Tent
 - Provides extra privacy and weather protection
-- Attaches easily to the gazebo pole
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B081NXY9KN{{</world>}}

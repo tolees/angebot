@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verwandelt den IXO Akkuschrauber in eine Mini-Bohrmaschine
 - Lieferumfang: Bohraufsatz, 3tlg. Bohrer-Set (2mm, 3mm, 4mm), Bedienungsanleitung, Karton (3165140839655)
-- Bohrt in Holz, Plastik und Gips kleine Löcher bis zu 5 mm Durchmesser
+- Verwandelt den IXO Akkuschrauber in eine Mini-Bohrmaschine
 - Kompatibel mit allen BOSCH IXO Akkuschraubern ab Generation 3
 - Für einfaches Vorbohren vor dem Schrauben
+- Bohrt in Holz, Plastik und Gips kleine Löcher bis zu 5 mm Durchmesser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B016MZVHMG{{</world>}}

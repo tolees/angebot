@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- motorisierter Aufschraubwickler mit 230 mm Lochabstand
 - Zeitautomatik, Sicherheitsabschaltung und optionale Lichtsteuerung
-- für Kunststoff-Rolläden bis 5 m² Fläche
 - Stromversorgung über Netzkabel, Endlagensicherung bei Stromausfall
+- für Kunststoff-Rolläden bis 5 m² Fläche
+- motorisierter Aufschraubwickler mit 230 mm Lochabstand
 - Rolladensystem Mini oder Maxi mit 14 oder 23 mm Gurtbreite
 
 [🛒 Hier!!]({{< param buyurl >}})

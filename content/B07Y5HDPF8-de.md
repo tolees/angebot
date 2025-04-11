@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PanoView Kamera Navigation / Automatische Rückkehr / Fallschutz bei Treppen / AntiStoß-Sensoren bewahren Einrichtungsgegenstände vor Kratzspuren
 - App & Alexa Steuerung: bequem über Alexa Sprachsteuerung, Android und iOS Smartphone oder per Fernbedienung steuerbar / flexible Einstellung der Reinigungszeiten / RealTime Ansicht der gesaugten Bereiche
-- Nass-Wisch-Funktion bis zu 180qm: Der 300ml Wassertank mit intelligenter Steuerung befeuchtet das Mikrofasertuch kontinuierlich während der Reinigung / Wassermenge kann in 3 Stufen eingestellt werden / Parkett geeignet
+- PanoView Kamera Navigation / Automatische Rückkehr / Fallschutz bei Treppen / AntiStoß-Sensoren bewahren Einrichtungsgegenstände vor Kratzspuren
 - Für Allergiker: Der Feinstaubfilter des 300ml Staubtank filtert zusätzlich zum Staubpartikelfilter und Primärfilter selbst Milbenkot und feinen Staub heraus und sorgt so für extra frische Luft
 - Nur 7, 2cm hoch - Passt unter viele Möbel - Der ZACO A8s passt sich Ihrem Zuhause an / AutoResume Funktion - Die automatische Reinigung wird nach dem Laden fortgesetzt
+- Nass-Wisch-Funktion bis zu 180qm: Der 300ml Wassertank mit intelligenter Steuerung befeuchtet das Mikrofasertuch kontinuierlich während der Reinigung / Wassermenge kann in 3 Stufen eingestellt werden / Parkett geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07Y5HDPF8{{</world>}}

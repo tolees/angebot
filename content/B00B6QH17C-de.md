@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig und robust
 - Packung Weight: 14 kg
+- Langlebig und robust
 - Packung die Größe: 40 L x 260 H x 158 W (cm)
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2
-- 1
-- Music
 - 3
+- Music
+- 1
+- 2
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BZJTDXXQ{{</world>}}

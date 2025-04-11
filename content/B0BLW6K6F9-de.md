@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dermatologisch getestet
-- Verpackung enthält pflanzenbasierte Materialien
 - Rundum dehnbares Bauchbündchen zum einfachen Wechseln
-- Nachhaltig hergestellte Zellulose
-- 0% Parfüm und Lotion
+- Dermatologisch getestet
 - Zertifiziert gemäß STANDARD 100 von OEKO-TEX
+- Verpackung enthält pflanzenbasierte Materialien
+- 0% Parfüm und Lotion
+- Nachhaltig hergestellte Zellulose
 - Bis zu 12 Stunden Pampers Trockenheit
 
 [🛒 Hier!!]({{< param buyurl >}})

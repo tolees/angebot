@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Windows 11 Pro | Microsoft 365
-- Nvidia GeForce RTX 4070
-- Intel Core i9 13900H
 - 32GB DDR5 | 1TB PCIe Gen 4 SSD
+- Intel Core i9 13900H
+- Windows 11 Pro | Microsoft 365
 - 16" 16:10 UHD OLED Display
+- Nvidia GeForce RTX 4070
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BW688G3S{{</world>}}

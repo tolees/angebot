@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FÜR DEN GEDECKTEN TISCH: Ob Tasse, Schalen, Trinkgläser, Geschirr und Accssoires für den schön gedeckten Tisch - dies niedlichen Salz- und Pfefferstreuer sind ein wunderbarer und besonderer Blickfang an der festlichen Tafel.
-- IDEALE GESCHENKIDEE: Als Geschenk für Paare, zur Hochzeit, Verlobung und für Verliebte. Als Präsent für zwei, für Pärchen und für Sie und Ihn geeignet oder als Dekoration für den Hochzeitstisch.
-- VOLL IM TREND: Egal ob Lama, Faultier, Avocado oder trendige Sprüche, Farben, Formen und natürliche Materialien – wir sorgen dafür, dass die brandaktuellen Trends zuhause oder im Freundeskreis landen.
 - SALZ- UND PFEFFERSTREUER: Figürliches Set Salzstreuer und Pfefferstreuer, herzförmige Figuren "Mr." und "Mrs." aus Porzellan, Höhe je 6 cm, Geschenkset verpackt in passender Geschenkbox.
+- IDEALE GESCHENKIDEE: Als Geschenk für Paare, zur Hochzeit, Verlobung und für Verliebte. Als Präsent für zwei, für Pärchen und für Sie und Ihn geeignet oder als Dekoration für den Hochzeitstisch.
+- FÜR DEN GEDECKTEN TISCH: Ob Tasse, Schalen, Trinkgläser, Geschirr und Accssoires für den schön gedeckten Tisch - dies niedlichen Salz- und Pfefferstreuer sind ein wunderbarer und besonderer Blickfang an der festlichen Tafel.
+- VOLL IM TREND: Egal ob Lama, Faultier, Avocado oder trendige Sprüche, Farben, Formen und natürliche Materialien – wir sorgen dafür, dass die brandaktuellen Trends zuhause oder im Freundeskreis landen.
 - DIE MARKE GRUSS & CO: Liebevoll gestaltet wird die Marke GRUSS & CO in Deutschland von unserem Traditionsunternehmen SHEEPWORLD AG, seit 1997 am Schafhügel in der Oberpfalz in Bayern.
 
 [🛒 Hier!!]({{< param buyurl >}})

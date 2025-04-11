@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dauerbestseller bei KAZÉ Anime
 - umfangreiches Franchise mit etlichen Staffeln, Filmen und Merchandise
-- bekannt aus der TV-Ausstrahlung auf RTL II, VIVA und ProSieben MAXX
-- Hitserie basierend auf dem beliebten Manga von Gosho Aoyama (in Deutschland bei Egmont)
 - Filme, TV-Specials und Merchandise ebenfalls bei KAZÉ
+- Dauerbestseller bei KAZÉ Anime
+- Hitserie basierend auf dem beliebten Manga von Gosho Aoyama (in Deutschland bei Egmont)
+- bekannt aus der TV-Ausstrahlung auf RTL II, VIVA und ProSieben MAXX
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CBSNX98X{{</world>}}

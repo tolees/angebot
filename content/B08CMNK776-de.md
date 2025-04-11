@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ⭐ Apple Home App unterstützt bereits die Einstellung der echten Farbtemperatur. Bitte aktualisieren Sie die Firmware der Glühbirne auf 4.1.8 oder höher in der Meross-App. Dann können Sie die Apple Home App verwenden, um das Gerät nach Ihren Wünschen zu steuern. Wenn Sie bei der Verwendung Fragen haben, wenden Sie sich bitte an uns. Wir werden innerhalb von 24 Stunden antworten.
+- ( Sprachsteuerung ) : WLAN e27 Glühbirne sind mit Apple HomeKit, Alexa und Google Assistant kompatibel. Sie können die Sprachsteuerung verwenden, um Smart Glühbirne über die Apple Watch oder iPhone zu verwalten. Es ist einfach und bequem und bietet Ihnen ein entspanntes Leben.
 - ( Zeitplan- und Timerfunktion ) : Sie können die Öffnungs- oder Schließzeit von WLAN Lampe in der Meros-App entsprechend Ihren Anforderungen einstellen, sodass das Gerät beim Verlassen oder Zurückkehren automatisch ein- oder ausgeschaltet werden kann. Unterstützt Einstellungen für Sonnenaufgang und Sonnenuntergang. Gilt nur für 2,4-GHz-WLAN.
 - ( Fernbedienung ) : Schalten Sie Alexa Glühbirne über die Meross-App von überall mit dem Internet ein / aus. Sie können den Status von Lampe überprüfen oder Zeitpläne für diese festlegen. Bitte verwenden Sie iOS 13 oder höher. Bitte beachten Sie, wenn Sie die Apple Home-App zur Fernsteuerung des Geräts verwenden, müssen Sie Apple Hub wie iPad, HomePod oder Apple TV zu Hause installieren.
-- ( Sprachsteuerung ) : WLAN e27 Glühbirne sind mit Apple HomeKit, Alexa und Google Assistant kompatibel. Sie können die Sprachsteuerung verwenden, um Smart Glühbirne über die Apple Watch oder iPhone zu verwalten. Es ist einfach und bequem und bietet Ihnen ein entspanntes Leben.
 - (Siri und HomeKit) : Meross LED Glühbirne können mit Apple HomeKit (iOS 13 oder höher) verwendet werden, um Ihr Gerät über die Sprachsteuerung zu verwalten. Sagen Sie einfach: „Hey Siri, stellt das Licht auf Lila ein.“ Unterstützt Gerätesteuerung über meross App und Apple Home (Apple Watch / Apple TV / HomePod).
-- ⭐ Apple Home App unterstützt bereits die Einstellung der echten Farbtemperatur. Bitte aktualisieren Sie die Firmware der Glühbirne auf 4.1.8 oder höher in der Meross-App. Dann können Sie die Apple Home App verwenden, um das Gerät nach Ihren Wünschen zu steuern. Wenn Sie bei der Verwendung Fragen haben, wenden Sie sich bitte an uns. Wir werden innerhalb von 24 Stunden antworten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08CMNK776{{</world>}}

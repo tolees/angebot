@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spieleranzahl: ab 1 Spieler
-- Puzzlemaße: 69, 3 x 49, 3 cm
-- SCHMIDT SPIELE Premium-Puzzles mit Qualität, die Sie greifen können
 - Empfohlenes Alter: ab 12 Jahren
+- Puzzlemaße: 69, 3 x 49, 3 cm
+- Spieleranzahl: ab 1 Spieler
+- SCHMIDT SPIELE Premium-Puzzles mit Qualität, die Sie greifen können
 - 1000 Teile Puzzle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

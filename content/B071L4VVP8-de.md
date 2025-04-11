@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible vulkanisierte Gummisohle mit einer wirksamen rutschfesten Verstärkung versehen
 - Tauchschuhe für Erwachsene, in Italien entwickelt, nicht nur am Strand oder zum Schnorcheln geeignet, sonder auch im Allt, z. B. im Garten
+- Flexible vulkanisierte Gummisohle mit einer wirksamen rutschfesten Verstärkung versehen
 - Aus hochelastischem High Stretch Neopren mit verstärkter Fersenzone, zwei Nahtbild minimiert Scheuern, Gummi-Zehen-und Fersenkappe
 - Höher Tragekomfort, eine bessere Wärmewirkung und Schutz für die Haut vor Kratzern oder Abschürfungen
 - Cressi ist ein Familienunternehmen, das seit 1946 hochwertige Produkte herstellt

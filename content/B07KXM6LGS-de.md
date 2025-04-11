@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ▶ ÜBERLEGENER SCHUTZ: Halbharte Schutzhülle, Stauraum für Bleistifte, eingebaute Netztaschen und elastisches Band im Inneren ermöglicht es Ihnen, Bleistifte an Ort und Stelle zu halten
+- ▶ FEATURE: Außenmaß: 8,46 (L) x 3,93 (B) x 1,18 (H) Zoll, Innenmaße: 8 (L) x 3,54 (B) x 0,98 (H) Zoll
 - ▶ PREMIUM-MATERIAL: Wasserdichtes Nylon-Oxford-Gewebe und hochwertiges EVA-Material, umweltfreundlich und stoßfest, super langlebig, feines Nähen, geringes Gewicht und stilvoll.
 - ▶ 1 JAHR GARANTIE!: Nur Hülle, Bleistifte dienen zur Veranschaulichung und sind nicht im Lieferumfang enthalten.
-- ▶ FEATURE: Außenmaß: 8,46 (L) x 3,93 (B) x 1,18 (H) Zoll, Innenmaße: 8 (L) x 3,54 (B) x 0,98 (H) Zoll
 - ▶ PERFEKTE PASSFORM: Tragetasche für Farbstifte, Füllfederhalter, Stylus-Stifte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

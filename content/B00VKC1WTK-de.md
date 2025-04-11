@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Familienunternehmen FALKE, gegründet 1895, basiert auf festen Werten: Bedingungslose Qualität, höchste Handwerkskunst, innovative Artikel und umweltfreundliche Verpackung ohne Plastikhaken
+- Zur Vermeidung von Druckstellen und für besten Tragekomfort beim Wintersport endet der Skistrumpf über dem Stiefelrand; für faltenfreien Sitz empfehlen wir bei Zwischengrößen die kleinere Größe
+- Atmungsaktive Skistrümpfe mit weicher, flacher Naht an den Zehen und mittlerer Polsterung für Komfort und Kontrolle; spezielle Polster an Schienbein und Knöchel bieten Ihnen zusätzlichen Schutz
 - Skisocken aus schnelltrocknendem Funktionsmaterial und isolierender Merinowolle für gute Wärmeisolation; die feuchtigkeitsableitenden 3-Lagen Konstruktion hält Ihre Füße trocken und blasenfrei
 - Spezielle geschlechtsspezifische Strickverfahren, die auf die anatomischen Unterschiede Ihres rechten und linken Fußes abgestimmt sind, sorgen für hohen Tragekomfort und eine faltenfreie Passform
-- Zur Vermeidung von Druckstellen und für besten Tragekomfort beim Wintersport endet der Skistrumpf über dem Stiefelrand; für faltenfreien Sitz empfehlen wir bei Zwischengrößen die kleinere Größe
 - Modellnummer: 16522; verfügbare Größen: 39-41, 42-43, 44-45, 46-48, 49-50
-- Atmungsaktive Skistrümpfe mit weicher, flacher Naht an den Zehen und mittlerer Polsterung für Komfort und Kontrolle; spezielle Polster an Schienbein und Knöchel bieten Ihnen zusätzlichen Schutz
+- Das Familienunternehmen FALKE, gegründet 1895, basiert auf festen Werten: Bedingungslose Qualität, höchste Handwerkskunst, innovative Artikel und umweltfreundliche Verpackung ohne Plastikhaken
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00VKC1WTK{{</world>}}

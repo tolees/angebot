@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- VERPASSE KEINEN MOMENT - Die kompakte EOS R100 Kamera hat einen mind. 7x größeren Sensor als Premium Smartphones und ermöglicht mit seinen 24,1 Megapixel tadellose Farben und unglaubliche Detailtreue.
-- ENFALTE DEINE KREATIVITÄT - Setze mithilfe der intuitiven und haptischen Bedienelemente sowie des Filter- und Kreativassistenten auch ohne Vorkenntnisse deine eigenen kreativen Vorstellungen auf Anhieb um
+- HOCHAUFLÖSENDE VIDEOAUFNAHMEN - Die EOS R100 4k Kamera überzeugt mit UHD Aufnahmen und ruckelfreien Zeitlupenvideos für Full-HD Videos mit bis zu 120 B/s. Zusätzlich bietet die Videokamera eine Gesichtserkennung und Augenverfolgung bei Aufnahmen in Full HD.
 - EINFACH VERBINDEN UND TEILEN - Die Canon Camera Connect App bietet dank WLAN- und Bluetooth-Konnektivität eine nahtlose Übertragung von Bilder und Videos auf das Smartphone und ermöglichen das sofortige Teilen von Inhalten.
 - LIEFERUMFANG - EOS R100 Kamera, RF-S 18-45mm IS STM Objektiv, Akkuladegerät LC-E17E, Akku, Netzkabel.
-- HOCHAUFLÖSENDE VIDEOAUFNAHMEN - Die EOS R100 4k Kamera überzeugt mit UHD Aufnahmen und ruckelfreien Zeitlupenvideos für Full-HD Videos mit bis zu 120 B/s. Zusätzlich bietet die Videokamera eine Gesichtserkennung und Augenverfolgung bei Aufnahmen in Full HD.
+- ENFALTE DEINE KREATIVITÄT - Setze mithilfe der intuitiven und haptischen Bedienelemente sowie des Filter- und Kreativassistenten auch ohne Vorkenntnisse deine eigenen kreativen Vorstellungen auf Anhieb um
+- VERPASSE KEINEN MOMENT - Die kompakte EOS R100 Kamera hat einen mind. 7x größeren Sensor als Premium Smartphones und ermöglicht mit seinen 24,1 Megapixel tadellose Farben und unglaubliche Detailtreue.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C65KQ5CH{{</world>}}

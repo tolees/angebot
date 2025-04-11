@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STIMULIERT DIE FANTASIE - Die Figuren von PAPO ermöglichen den Kindern, jeden Tag neue Geschichten zu erfinden. Sie helfen, ihre Neugier zu entwickeln und ihre Vorstellungskraft anzuregen.
-- KREATION UND SAVOIR-FAIRE AUS FRANKREICH – Alle Kreationen von Papo werden in Frankreich erdacht, entworfen und entwickelt, mit dem ständigen Ziel, qualitativ hochwertiges Spielen und frühe Lernunterstützung zu bieten.
 - LERNUNTERSTÜTZUNG – Kinder ab 3 Jahren können die Welt um sich herum durch die vielen Tiere und Figuren entdecken, die spielerisch und umfassend zu ihrer Unterhaltung beitragen.
 - EXTREM DETAILLIERT – Papo bietet ultrarealistische Miniaturen für ein echtes Eintauchen in jede einzelne Welt. Genauigkeit der Haltungen, originalgetreue Wiedergabe des Tieres, die Detailtreue ist so groß, dass die PAPO Figuren lebendig wirken!
+- STIMULIERT DIE FANTASIE - Die Figuren von PAPO ermöglichen den Kindern, jeden Tag neue Geschichten zu erfinden. Sie helfen, ihre Neugier zu entwickeln und ihre Vorstellungskraft anzuregen.
+- KREATION UND SAVOIR-FAIRE AUS FRANKREICH – Alle Kreationen von Papo werden in Frankreich erdacht, entworfen und entwickelt, mit dem ständigen Ziel, qualitativ hochwertiges Spielen und frühe Lernunterstützung zu bieten.
 - HALTBARKEIT – Seit fast 30 Jahren stellt Papo zeitlose, hochwertige Figuren her, die von Generation zu Generation weitergegeben werden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

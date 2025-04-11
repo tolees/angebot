@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der robuste Fluter beleuchtet große Flächen mit 1375 lm bei sparsamen 14,7 W.
-- Hohe Langlebigkeit: Hochwertige Materialien wie UV-Beständiger Kunststoff und Aluminium machen den Strahler sehr widerstandsfähig
 - Mit seiner neutralweißen (4000K) Lichtfarbe eignet sich der Strahler ideal zur bedarfsgerechten Ausleuchtung größerer Flächen rund ums Gebäude, wie z.B. Einfahrten, Carports und Höfe.
-- Nie wieder Leuchtmittel wechseln! 50.000 h ( ca. 30 Jahre bei 4, 5 h/Tag ) LED-Lebensdauer
+- Hohe Langlebigkeit: Hochwertige Materialien wie UV-Beständiger Kunststoff und Aluminium machen den Strahler sehr widerstandsfähig
 - Lieferumfang: Strahler, Montagematerial (2x Schrauben, 2x Dübel, 2x Dichtstopfen), Bedienungsanleitung | Abmessungen (L x B x H): 167 x 157 x 178 mm| Gewicht: ‎0,81 kg | Netzanschluss: 220–240 V / 50–60 Hz | Artikelnummer: 069223
+- Nie wieder Leuchtmittel wechseln! 50.000 h ( ca. 30 Jahre bei 4, 5 h/Tag ) LED-Lebensdauer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08WCBSXRB{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Rutschfeste Griffzone und praktischer Clip
-- Schwarzer Schaft für permanente Tinte, grauer Schaft für wasserlösliche Tinte
-- 3 Strichstärken - Superfein, Fein, Medium
 - Folienstift für fast alle glatten Oberflächen
+- 3 Strichstärken - Superfein, Fein, Medium
+- Schwarzer Schaft für permanente Tinte, grauer Schaft für wasserlösliche Tinte
 - Erhältlich in 8 Farben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

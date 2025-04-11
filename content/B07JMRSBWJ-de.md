@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- CAPPUCINO-DAMPFFUNKTION: So kann ganz einfach Milchschaum für den Cappuccino aufgeschäumt werden
+- THERMOBLOCK-HEIZSYSTEM: Thermoblock-Heizsystem für eine schnelle und konstante Brühtemperatur. 15 bar Pumpendruck – für besten Kaffeegenuss
 - ABNEHMBARER TASSENTRÄGER: Der Träger aus Edelstahl kann ganz einfach abgenommen werden, so passen auch größere Latte Macchiato-Gläser unter den Kaffee-Auslauf
 - SIEBTRÄGEREINSÄTZE: 3 doppelwandige Einsätze aus Edelstahl: Espresso einfach/doppelt, Kaffee-Pads
-- CAPPUCINO-DAMPFFUNKTION: So kann ganz einfach Milchschaum für den Cappuccino aufgeschäumt werden
 - BENUTZERFREUNDLICHES BEDIENSYSTEM: 3 beleuchtete Bedientasten für Espresso einfach, Espresso doppelt oder Dampffunktion
-- THERMOBLOCK-HEIZSYSTEM: Thermoblock-Heizsystem für eine schnelle und konstante Brühtemperatur. 15 bar Pumpendruck – für besten Kaffeegenuss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07JMRSBWJ{{</world>}}

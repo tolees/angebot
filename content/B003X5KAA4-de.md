@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kopfnote: Bergamotte, Zitrone
 - Duftnoten: zitrus, frisch
 - Basisnote: Eichenmoos, Zeder
-- Kopfnote: Bergamotte, Zitrone
 - Herznote: Galbanum, Muskatellersalbei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

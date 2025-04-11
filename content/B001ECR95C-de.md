@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Spezialstahl
 - Packung Weight: 1.26 Pfund
 - Zuverlässig unter extremen Einsatzbedingungen
-- Spezialstahl
 - Werkzeuge für Profis
 
 [🛒 Hier!!]({{< param buyurl >}})

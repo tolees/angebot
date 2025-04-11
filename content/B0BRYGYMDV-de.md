@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hochwertiges Produkt
+- Marke: Nike
 - Absolute Bewegungsfreiheit
 - Hoher Tragekomfort
-- Marke: Nike
 - Moderne Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

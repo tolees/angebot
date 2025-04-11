@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OHNE ZUCKERZUSATZ - wir haben Zucker aus der Rezeptur eliminiert und durch einen Süßstoff natürlichen Ursprungs ersetzt. In einer traditionellen Kokoscreme dieser Art sind es sogar 56 %, in unserer veganen Creme nur 0,4 %.
 - GESUNDE FETTE, OHNE PALMÖL - Sheabutter und Rapsöl, die das Palmöl ersetzt haben, sind eine unersetzliche Quelle für ungesättigte Fettsäuren und Phytosterine, die für die Gesundheit wichtig sind.
-- VEGANELA - unsere vegane Haselnuss-Kakao-Creme wird aus feinsten Zutaten hergestellt und ist frei von Palmöl und Milch. Sie verdankt ihren köstlichen Geschmack aromatischen Haselnüssen und echtem Kakao
 - KÖSTLICHER GESCHMACK UND PERFEKTE KONSISTENZ - Sie können sich ohne Reue an dem köstlichen Schokoladenaufstrich erfreuen.
+- OHNE ZUCKERZUSATZ - wir haben Zucker aus der Rezeptur eliminiert und durch einen Süßstoff natürlichen Ursprungs ersetzt. In einer traditionellen Kokoscreme dieser Art sind es sogar 56 %, in unserer veganen Creme nur 0,4 %.
+- VEGANELA - unsere vegane Haselnuss-Kakao-Creme wird aus feinsten Zutaten hergestellt und ist frei von Palmöl und Milch. Sie verdankt ihren köstlichen Geschmack aromatischen Haselnüssen und echtem Kakao
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09WJ7VNQR{{</world>}}

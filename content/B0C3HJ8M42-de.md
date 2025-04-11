@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Längere Nutzung des 5-Punkt-Gurts bis 22 kg mit anschließender Flip & Grow Funktion
-- Installation mittels ISOFIX & Top Tether (76 - 105 cm); ISOFIX & 3-Punkt-Fahrzeuggurt (100 - 150 cm) ODER 3-Punkt-Fahrzeuggurt (100 - 150 cm)
-- i-Size Kindersitz für Kinder ab 76 bis 150 cm Körpergröße | ca. 15 Monate bis 12 Jahre
-- Easy Recline-Funktion - mehrfach verstellbare Ruhepositionen für mehr Komfort unterwegs
 - Einzelne ISOFIX-Konnektoren für einfache Installation
+- Easy Recline-Funktion - mehrfach verstellbare Ruhepositionen für mehr Komfort unterwegs
+- Installation mittels ISOFIX & Top Tether (76 - 105 cm); ISOFIX & 3-Punkt-Fahrzeuggurt (100 - 150 cm) ODER 3-Punkt-Fahrzeuggurt (100 - 150 cm)
+- Längere Nutzung des 5-Punkt-Gurts bis 22 kg mit anschließender Flip & Grow Funktion
+- i-Size Kindersitz für Kinder ab 76 bis 150 cm Körpergröße | ca. 15 Monate bis 12 Jahre
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C3HJ8M42{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetic
 - Obermaterial: Leder
+- Innenmaterial: Synthetic
 - Verschluss: Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})

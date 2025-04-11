@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schnappe dir 2 Jumpstart-Booster, mische sie zusammen, und schon kann es losgehen
+- Jeder Booster enthält Karten mit 1 von 10 möglichen Themen , mische sie für wilde Kombinationen zusammen
+- 2 seltene Karten in jedem Booster, darunter 1 neue Karte, die nicht im DMU-Hauptset enthalten ist
 - 2 traditionelle Foil-Länderkarten in jedem Booster
 - 2 Dominarias Bund Jumpstart-Booster, 20 Magic-Karten pro Booster (40 Magic-karten)
-- Jeder Booster enthält Karten mit 1 von 10 möglichen Themen , mische sie für wilde Kombinationen zusammen
-- Schnappe dir 2 Jumpstart-Booster, mische sie zusammen, und schon kann es losgehen
-- 2 seltene Karten in jedem Booster, darunter 1 neue Karte, die nicht im DMU-Hauptset enthalten ist
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVBP4XW{{</world>}}

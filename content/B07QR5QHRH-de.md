@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Speicherfunktion behält Voreinstellungen bei, wenn das System ausgeschaltet ist
 - Vorrangschaltung für Netzbetrieb
-- Ein aktiver Batterieschutz verhindert die Tiefentladung der Fahrzeugbatterie
 - Praktische Kühlbox für 12 oder 24 V Gleichstrom und 230 V Wechselstrom
 - Kühlt auf bis zu 27 °C unter der Umgebungstemperatur, erwärmt auf bis zu +65 °C
-- Speicherfunktion behält Voreinstellungen bei, wenn das System ausgeschaltet ist
+- Ein aktiver Batterieschutz verhindert die Tiefentladung der Fahrzeugbatterie
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07QR5QHRH{{</world>}}

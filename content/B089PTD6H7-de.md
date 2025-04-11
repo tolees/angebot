@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfarbiger Strickpullover mit V-Ausschnitt
-- Überschnittene Schultern
 - Angenehme Materialqualität
+- Überschnittene Schultern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089PTD6H7{{</world>}}

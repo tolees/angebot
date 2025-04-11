@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bis zu 100 Stunden Akkulaufzeit | Abnehmbares USB-C-Kabel für Schnellaufladung
-- Wasser- und staubresistent mit 4 RGB-Beleuchtungszonen
 - 2,4 GHz für Gaming und Bluetooth 5.2 | Bis zu 100 Stunden Akkulaufzeit
-- Leichtes, symmetrisches Shape
+- Bis zu 100 Stunden Akkulaufzeit | Abnehmbares USB-C-Kabel für Schnellaufladung
 - Optische Schalter mit einer getesteten Lebensdauer von 100 Millionen Klicks | Optischer Sensor mit 19.000 DPI und 400 IPS
+- Leichtes, symmetrisches Shape
+- Wasser- und staubresistent mit 4 RGB-Beleuchtungszonen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B097BYZMKM{{</world>}}

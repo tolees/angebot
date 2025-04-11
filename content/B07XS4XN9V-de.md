@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt der Packung Ein Lightning-Kabel Amazon Basics Hergestellt aus geflochtenem Nylon
 - Highspeed-Datenübertragung Übertragen Sie Musik und Filme in Sekundenschnelle mit Geschwindigkeiten von bis zu 480 Mbit/s
-- Zertifizierter Chip: Apple MFi-zertifiziertes Lade- und Synchronisationskabel für Apple-Geräte mit optimiertem Chipsatz, um volle Kompatibilität zu gewährleisten
+- Dieses Produkt ist ein USB-C-auf-Lightning-Kabel und kein USB-A-auf-Lightning-Kabel
 - Entwickelt mit Blick auf nachhaltige Entwicklung, hergestellt aus hochwertigen Materialien, getestet für bis zu 4.000 Verdrehzyklen und ausgestattet mit Aluminiumverbinderenden für eine bessere Passform
 - Schnelles Aufladen: In Kombination mit einem USB-C-Netzteil mit Power Delivery (18 W oder mehr) können Sie Ihr iPhone in nur 30 Minuten zur Hälfte laden. Zu den unterstützten Modellen gehören iPhone 14, 13, 12, 11, SE, X, iPads und mehr
-- Dieses Produkt ist ein USB-C-auf-Lightning-Kabel und kein USB-A-auf-Lightning-Kabel
+- Inhalt der Packung Ein Lightning-Kabel Amazon Basics Hergestellt aus geflochtenem Nylon
+- Zertifizierter Chip: Apple MFi-zertifiziertes Lade- und Synchronisationskabel für Apple-Geräte mit optimiertem Chipsatz, um volle Kompatibilität zu gewährleisten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XS4XN9V{{</world>}}

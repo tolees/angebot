@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Tinte auf Wasserbasis ist dokumentenecht nach ISO 14145-2
-- Der ergonomisch geformte und großzügig gummierte Schaft des Stifts ermöglicht entspanntes und sicheres Schreiben ohne Ermüdung der Hand
 - Die Cap-Off-Tinte trocknet nicht ein, auch wenn der Stift 2-3 Tage offen bleibt
-- Die Faserspitze gleitet weich und ist mit einem Edelstahlröhrchen stabilisiert. Dies ermöglicht die Arbeit mit Lineal und Schablone in Schule, Uni oder Büro
 - Lieferumfang: Schneider Xpress Fineliner mit dokumentenechter Tinte, Strichstärke 0,8 mm, 4er Pack: Schwarz, Rot, Grün, Blau
+- Der ergonomisch geformte und großzügig gummierte Schaft des Stifts ermöglicht entspanntes und sicheres Schreiben ohne Ermüdung der Hand
+- Die Tinte auf Wasserbasis ist dokumentenecht nach ISO 14145-2
+- Die Faserspitze gleitet weich und ist mit einem Edelstahlröhrchen stabilisiert. Dies ermöglicht die Arbeit mit Lineal und Schablone in Schule, Uni oder Büro
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004FQVNVA{{</world>}}

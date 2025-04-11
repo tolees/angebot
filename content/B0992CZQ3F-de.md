@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Taille : Mittlere Taille
 - Passform : Klassischer Regular Fit von der Taille bis zur Beinöffnung
 - Länge,Größe : Midi
-- Taille : Mittlere Taille
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0992CZQ3F{{</world>}}

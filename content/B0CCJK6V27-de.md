@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HOHER KOMFORT: Polster lassen sich zum Waschen herausnehmen – Aussparung zwischen Unterkante und Verstellsystem schafft Platz für lange Haare bzw. einen Zopf
 - PASSGENAU: mit dem griffigen Verstellrad des Zoom Evo Adult Justier-Systems stellst du den Helm ganz einfach auf deine individuelle Kopfgröße ein
 - FÜR WEN GEDACHT: urbaner Fahrradhelm für sportliche und alltägliche Fahrten von Erwachsenen und Jugendlichen – Größenangabe in Zentimetern entspricht dem Kopfumfang
+- HOHER KOMFORT: Polster lassen sich zum Waschen herausnehmen – Aussparung zwischen Unterkante und Verstellsystem schafft Platz für lange Haare bzw. einen Zopf
 - LUFT FÜR DEINEN KOPF: 7 Lufteinlässe mit eingeschäumten Insektennetzen und 6 Luftauslässe im Helm sorgen für eine sehr gute Belüftung des Kopfes und vermeiden Hitzestau
 - STABIL & SICHER: Fahrradhelm mit langlebiger In-Mold-Verbindung des stoßabsorbierenden EPS-Hartschaums und der schlagfesten Außenschale – Reflektorsticker am Heck – ein LED-Licht ist optional erhältlich
 

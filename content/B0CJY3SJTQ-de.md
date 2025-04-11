@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taschen : Gesäßtaschen, Münztasche, Taschen vorn
 - Details : Gürtelschlaufen
+- Taschen : Gesäßtaschen, Münztasche, Taschen vorn
 - Normale Bundhöhe
 
 [🛒 Hier!!]({{< param buyurl >}})

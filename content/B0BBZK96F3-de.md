@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Freiheit mit Höchstgeschwindigkeit - Erkunde die Starfall Islands und entdecke auf jeder Insel Dinge, die nur Sonic mit seinem Tempo finden kann
-- Inhalt der Day One Edition: Das Spiel "Sonic Frontiers" und "Schatzkiste des Abenteurers" DLC (Der DLC ist nur in der Erstauflage enthalten)
 - Erlebe einen neuartigen Plattformer mit offenen Zonen - Rase durch fünf riesige Inseln mit dichten Wäldern, rauschenden Wasserfällen und heißen Wüsten
+- Inhalt der Day One Edition: Das Spiel "Sonic Frontiers" und "Schatzkiste des Abenteurers" DLC (Der DLC ist nur in der Erstauflage enthalten)
+- Freiheit mit Höchstgeschwindigkeit - Erkunde die Starfall Islands und entdecke auf jeder Insel Dinge, die nur Sonic mit seinem Tempo finden kann
 - Herausforderungen im Cyberspace - Finde die auf den Inseln verteilten Portale und begib dich in den Cyberspace, wo dich temporeiche Level erwarten
 
 [🛒 Hier!!]({{< param buyurl >}})

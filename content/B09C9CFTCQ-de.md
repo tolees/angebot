@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Are You a True Ninja Warrior? - The Peaches & Cream Meditation mini-game allows players to test their balance with the PS4 motion controller. Successfully filling the Peach Gauge gives extra stat boosts in battle! Plus, test your might with the post-game content, Yomi-Training! Expert ninjas and shinobi can play through 8 different trials, each set with difficult restrictions!
-- The Art of the Ninja - Each character possess a unique set of skills, known as Ninja Art Skills. Chain your Ninja Art Skills to leave your enemies in the dust. Ninjas and shinobi are also equipped with projectiles that can inflict physical damage or temporary status ailments to slow down foes.
-- When 2 Become 1 - The two warring nations from the Neptunia and SENRAN KAGURA series have now joined forces in one action-packed RPG! Choose from 10 possible characters, including two new characters: Yuuki and Goh, and pick two characters to set forth on your adventure. Swiftly switch between your two chosen characters in battle!
 - Stay Stylin with Spirit Gems - Collect Spirit Gems for helpful stat boosts! Legend says arranging them in certain combinations can add even bigger boosts...
+- The Art of the Ninja - Each character possess a unique set of skills, known as Ninja Art Skills. Chain your Ninja Art Skills to leave your enemies in the dust. Ninjas and shinobi are also equipped with projectiles that can inflict physical damage or temporary status ailments to slow down foes.
+- Are You a True Ninja Warrior? - The Peaches & Cream Meditation mini-game allows players to test their balance with the PS4 motion controller. Successfully filling the Peach Gauge gives extra stat boosts in battle! Plus, test your might with the post-game content, Yomi-Training! Expert ninjas and shinobi can play through 8 different trials, each set with difficult restrictions!
+- When 2 Become 1 - The two warring nations from the Neptunia and SENRAN KAGURA series have now joined forces in one action-packed RPG! Choose from 10 possible characters, including two new characters: Yuuki and Goh, and pick two characters to set forth on your adventure. Swiftly switch between your two chosen characters in battle!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09C9CFTCQ{{</world>}}

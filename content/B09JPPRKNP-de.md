@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Bundle enthält den indle Paperwhite Signature Edition (32 GB | ohne Werbung), eine Amazon Lederhülle und einem kabelloses Ladedock „Made for Amazon“.
+- Eigens für das Lesen entwickelt – Mit frontbündigem Design und einem 300 ppi-Display ohne Spiegeleffekte für das Lesen wie auf echtem Papier, sogar in hellem Sonnenlicht. Jetzt mit verstellbarer Farbtemperatur und Frontlicht mit automatischer Anpassung, die rund um die Uhr ein individuelles Leseerlebnis ermöglichen.
 - Mit dem kabellosen Ladedock müssen Sie Ihren Kindle Paperwhite Signature Edition zum Laden nicht mehr jedes Mal einstecken. Das Ladegerät ist stets einsatzbereit. Stellen Sie Ihren Kindle Paperwhite Edition einfach auf die Ladestation und laden Sie das Gerät auf.
 - Mehr Lesezeit – Ein einziges Aufladen über USB-C oder ein kompatibles kabelloses Qi-Ladegerät (separat erhältlich) reicht für bis zu 10 Wochen.
+- Mehr Bücher an mehr Orten – Mit 32 GB Speicherplatz können Sie Tausende Bücher, Magazine und Hörbücher speichern und Ihre Bibliothek überallhin mitnehmen.
 - Die perfekte Passform für Ihren Kindle Paperwhite (nur passend für die 11. Generation), unsere schlanke und leichte hochwertige Lederhülle ermöglicht stundenlangen angenehmen Lesegenuss.
 - Die Signature Edition bietet mehr – Alle Merkmale des Kindle Paperwhite plus kabellose Ladefunktion, Frontlicht mit automatischer Anpassung und 32 GB Speicherplatz.
-- Eigens für das Lesen entwickelt – Mit frontbündigem Design und einem 300 ppi-Display ohne Spiegeleffekte für das Lesen wie auf echtem Papier, sogar in hellem Sonnenlicht. Jetzt mit verstellbarer Farbtemperatur und Frontlicht mit automatischer Anpassung, die rund um die Uhr ein individuelles Leseerlebnis ermöglichen.
-- Mehr Bücher an mehr Orten – Mit 32 GB Speicherplatz können Sie Tausende Bücher, Magazine und Hörbücher speichern und Ihre Bibliothek überallhin mitnehmen.
+- Dieses Bundle enthält den indle Paperwhite Signature Edition (32 GB | ohne Werbung), eine Amazon Lederhülle und einem kabelloses Ladedock „Made for Amazon“.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09JPPRKNP{{</world>}}

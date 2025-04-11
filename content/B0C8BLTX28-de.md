@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die reichhaltige Feuchtigkeitsmaske für alle trockenen oder porösen Haartypen hilft dabei, die Feuchtigkeit im Haar zu versiegeln und sorgt somit nicht nur für weiches und gepflegtes Haar, sondern auch für ein glänzendes und geschmeidiges Aussehen.
 - Nach der Haarwäsche von den Längen bis zu den Spitzen auftragen und 3-5 Minuten einwirken lassen. Im Anschluss die Feuchtigkeitsmaske gründlich ausspülen und die Haare mit dem Öl-Serum behandeln. Für optimale Ergebnisse mit der gesamten Food For Soft Pflegeserie kombinieren.
+- Die reichhaltige Feuchtigkeitsmaske für alle trockenen oder porösen Haartypen hilft dabei, die Feuchtigkeit im Haar zu versiegeln und sorgt somit nicht nur für weiches und gepflegtes Haar, sondern auch für ein glänzendes und geschmeidiges Aussehen.
 - Die konzentrierte Formel mit Avocado-Öl und Hyaluronsäure zieht Wasser wie ein Schwann an und versorgt so poröse und trockene Haare zuverlässig mit Feuchtigkeit.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

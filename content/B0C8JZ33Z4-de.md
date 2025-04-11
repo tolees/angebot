@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Mittelgrün
-- Obermaterial: 100 % recyceltes PET
 - Sohle: 100% EVA
+- Obermaterial: 100 % recyceltes PET
 - Recycled Synthetics
+- Farbe: Mittelgrün
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8JZ33Z4{{</world>}}

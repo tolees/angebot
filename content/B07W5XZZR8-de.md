@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Angewinkelte Nähte an den Seiten ermöglichen uneingeschränkte Bewegungsfreiheit
+- Standard Passform
 - Perfekte Atmungsaktivität
 - Dri-fit-technologie
-- Standard Passform
 - Elastischer Bund mit Kordelzug
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

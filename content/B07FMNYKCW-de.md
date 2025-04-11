@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für Pools mit einer Wasserkapazität von 1.100-42.300 l geeignet - TÜV/GS-zertifiziert (TÜV Rheinland)
-- Durchflussrate: 5.678 l/h
 - ChemConnect Chemikaliendosierer versorgt das Wasser bei Eingabe z.B. von Chlortabletten gleichmäßig mit Chlor für gleichbleibende Sauberkeit
-- 38mm Schraubgewinde, inklusive Adapter für den Anschluss von 32mm Stülpschläuchen, funktioniert mit herkömmlichen Filtersand und mit dem hocheffizienten Polysphere-Filterbällen
 - Langlebiger Filtertank mit Korrosionsschutz, 6-Wege-Ventil ermöglicht eine einfache Bedienung, leicht ablesbares Manometer
+- 38mm Schraubgewinde, inklusive Adapter für den Anschluss von 32mm Stülpschläuchen, funktioniert mit herkömmlichen Filtersand und mit dem hocheffizienten Polysphere-Filterbällen
+- Durchflussrate: 5.678 l/h
+- Für Pools mit einer Wasserkapazität von 1.100-42.300 l geeignet - TÜV/GS-zertifiziert (TÜV Rheinland)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FMNYKCW{{</world>}}

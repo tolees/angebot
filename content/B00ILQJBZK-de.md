@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die CORSAIR AXON Hyper-Processing-Technologie überträgt Ihre Bewegungen und Klicks mit 8.000-Hz-Hyper-Polling bis zu achtmal schneller an Ihren PC als konventionelle Gaming-Mäuse
 - Produkte der CORSAIR CHAMPION SERIES wurden für Top-Profis im E-Sport entwickelt und von diesen getestet
 - Eine leichte, wettkampftaugliche Gaming-Maus, die über ein zugreduzierendes, flexibles Paracord-Kabel und extrem reaktionsschnelle QUICKSTRIKE-Tasten verfügt
-- Die CORSAIR AXON Hyper-Processing-Technologie überträgt Ihre Bewegungen und Klicks mit 8.000-Hz-Hyper-Polling bis zu achtmal schneller an Ihren PC als konventionelle Gaming-Mäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00ILQJBZK{{</world>}}

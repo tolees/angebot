@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stürze dich in ein halsbrecherisches Abenteuer, das von Akira Toriyama, dem Schöpfer von Dragon Ball
-- Reise durch SAND LAND und seine Schluchten, enthülle seine Geheimnisse, bezwinge gnadenlose Feinde und ebne den Weg zur legendären Quelle
 - Schalte Fahrzeuge frei, die mithilfe verschiedenster Teile wie Waffen, Motoren und Aufhängungen verbessert werden können
+- Reise durch SAND LAND und seine Schluchten, enthülle seine Geheimnisse, bezwinge gnadenlose Feinde und ebne den Weg zur legendären Quelle
+- Stürze dich in ein halsbrecherisches Abenteuer, das von Akira Toriyama, dem Schöpfer von Dragon Ball
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CS6SK6NV{{</world>}}

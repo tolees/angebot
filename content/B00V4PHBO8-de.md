@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schützt empfindliche Haut
 - La Roche-Posay
 - Reinigt sanft
 - Brennt nicht in den Augen
+- Schützt empfindliche Haut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00V4PHBO8{{</world>}}

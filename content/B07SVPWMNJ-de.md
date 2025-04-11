@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial: Leder
-- Innenmaterial: Textil
 - Verschluss: Synthetik
+- Innenmaterial: Textil
 - Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sammler-Booster-Probepackung mit 2 Karten – enthält 2 Karten mit besonderem Kartendruck aus dem Marsch der Maschine Hauptset, darunter 1 seltene oder sagenhaft seltene Karte und mindestens 1 traditionelle Foilkarte
 - Göttliche Einberufung (Blau-Rot-Weiß) – spielfertiges Marsch der Maschine Commander-Deck mit 100 Karten – 2 legendäre traditionelle Foilkarten und 98 Nicht-Foilkarten
-- 10 Planechase-Karten und ein Weltenwürfel, um einzigartige Fähigkeiten auszulösen und durch das Multiversum zu springen
 - Zubehör – 1 Display-Kommandeurkarte als Etched-Foilkarte, 10 doppelseitige Spielsteinkarten, Lebenspunktezähler und Deckbox
+- 10 Planechase-Karten und ein Weltenwürfel, um einzigartige Fähigkeiten auszulösen und durch das Multiversum zu springen
 - Das Deck führt 10 brandneue MTG-Karten in Commander ein
+- Sammler-Booster-Probepackung mit 2 Karten – enthält 2 Karten mit besonderem Kartendruck aus dem Marsch der Maschine Hauptset, darunter 1 seltene oder sagenhaft seltene Karte und mindestens 1 traditionelle Foilkarte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BNM1SZDC{{</world>}}

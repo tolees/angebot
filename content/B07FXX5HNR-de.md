@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - NACHHALTIGES KONZEPT: Mit Hilfe der langlebigen und druckresistenten Minenspitzen, sowie einer austauschbaren Mine, sind unsere FriXion Produkte auf eine lange Nutzungsdauer ausgelegt
 - FRIXION CLICKER 0.7: Der FriXion Clicker gehört zu den meistverkauften radierbaren Stiften der Welt und vereint als vielseitiger Bürostift die besten Eigenschaften aus Kugelschreiber und Tintenroller
-- PRODUKTDETAILS: FriXion Clicker 0.7 | 5 Stück | Farbe: Blau | Tinte: Gelpaste auf Wasserbasis; radierbar | Spitze: Edelstahlspitze mit Wolfram-Karbid-Kugel | Anwendung: Für Rechts- & Linkshänder
 - UNENDLICHE MÖGLICHKEITEN: Vom klassischen Blau bis hin zum knalligen Pink – Mit 10 Farben bieten die Tintenschreiber unendlich viele kreative Möglichkeiten auf jedem Papier, ganz egal ob weiß oder bunt
 - ANGENEHM & WEICH: Die große gummierte Griffzone der Stifte sorgt für eine angenehme, präzise Schreibhaltung und unsere spezielle Gelmischung ermöglicht ein weiches, sowie perfektes Schreibgefühl
+- PRODUKTDETAILS: FriXion Clicker 0.7 | 5 Stück | Farbe: Blau | Tinte: Gelpaste auf Wasserbasis; radierbar | Spitze: Edelstahlspitze mit Wolfram-Karbid-Kugel | Anwendung: Für Rechts- & Linkshänder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FXX5HNR{{</world>}}

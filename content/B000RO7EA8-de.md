@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Herznote: Grüne Teeblätter, Pfirsichblüten, Pfingstrose
 - Kopfnote: Flieder und Zitronenblätter
 - Basisnote: Moschus und Ambra
-- Herznote: Grüne Teeblätter, Pfirsichblüten, Pfingstrose
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000RO7EA8{{</world>}}

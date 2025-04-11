@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Display: 16,9 cm (6,67 Zoll)
-- Graphite Black, Android 13, 5G
+- Hauptkamera: 100 MP + 2 MP
 - Frontkamera: 16 MP
 - Prozessor: MediaTek Dimensity 6080
-- Hauptkamera: 100 MP + 2 MP
+- Display: 16,9 cm (6,67 Zoll)
+- Graphite Black, Android 13, 5G
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQBX24GJ{{</world>}}

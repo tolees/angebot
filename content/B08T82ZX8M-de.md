@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ALL-IN-ONE: 1x Pflanzgefäß TRIO Stone, inkl. Bewässerungssystem, Pflanzsubstrat LECHUZA-PON als Drainageschicht und 3 wechselbaren Pflanzeinsätzen mit versenkbaren Griffen und Wasserstandsanzeiger. Material: Kunststoff Maße: 100 x 32,5 x 34,5 cm Wasserspeicher: 4 l (3x) Pflanzvolumen: 14 l (3x) Pflanzeinsatz: 25 x 25 cm (3x)
+- MADE IN GERMANY: Hochwertiger, UV- und witterungsbeständiger Kunststoff, zu 100% recycelbar, langlebig und bruchsicher.
+- NATURSTEINOPTIK: Die natürliche Stone-Oberfläche setzt urbane Akzente und stilvolle Kontraste zum Grün der Pflanzen. In verschiedenen Farben und Größen erhältlich.
 - MIT BEWÄSSERUNGSSYSTEM: Das im Pflanzgefäß integrierte Original LECHUZA-Bewässerungssystem versorgt Pflanzen zuverlässig mit der richtigen Menge an Wasser. Mit praktischem Wasserstandsanzeiger für die volle Gießkontrolle.
 - FÜR INNEN & AUßEN GEEIGNET: Unkomplizierte Pflanzenpflege das ganze Jahr über. Pflanzgefäß mit Bewässerungssystem und Bodenschraube für den Ablauf von überschüssigem Regenwasser. Bestehend aus 3 einzelnen Pflanzeinsätzen mit Griffen.
-- NATURSTEINOPTIK: Die natürliche Stone-Oberfläche setzt urbane Akzente und stilvolle Kontraste zum Grün der Pflanzen. In verschiedenen Farben und Größen erhältlich.
-- MADE IN GERMANY: Hochwertiger, UV- und witterungsbeständiger Kunststoff, zu 100% recycelbar, langlebig und bruchsicher.
-- ALL-IN-ONE: 1x Pflanzgefäß TRIO Stone, inkl. Bewässerungssystem, Pflanzsubstrat LECHUZA-PON als Drainageschicht und 3 wechselbaren Pflanzeinsätzen mit versenkbaren Griffen und Wasserstandsanzeiger. Material: Kunststoff Maße: 100 x 32,5 x 34,5 cm Wasserspeicher: 4 l (3x) Pflanzvolumen: 14 l (3x) Pflanzeinsatz: 25 x 25 cm (3x)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08T82ZX8M{{</world>}}

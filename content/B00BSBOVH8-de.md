@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Extrem elastisches Kleidungsstück
 - Rundhalsausschnitt, nahtlos, CMP-Logo unten am Ärmel
-- Die CMP Dry Function-Technologie sorgt dafür, dass der Körper auch bei intensiver sportlicher Aktivität trocken bleibt und sich rundum wohlfühlt
 - Jersey aus hochwertigen Garnen, das eine schnelle Verdunstung der Feuchtigkeit gewährleistet und die Wärmeabgabe reduziert
+- Extrem elastisches Kleidungsstück
 - Der Oeko-Tex Standard 100 ist ein einheitliches Kontroll- und Zertifizierungssystem für die gesamte Textilwelt, das die Abwesenheit von für den Menschen giftigen und umweltschädlichen chemischen Stoffen auf fertigen Produkten und im gesamten Produktionsprozess garantiert
+- Die CMP Dry Function-Technologie sorgt dafür, dass der Körper auch bei intensiver sportlicher Aktivität trocken bleibt und sich rundum wohlfühlt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BSBOVH8{{</world>}}

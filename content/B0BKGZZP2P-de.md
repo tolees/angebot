@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: FRITZ!Repeater 3000 AX, Netzteil, Netzwerkkabel, Installationsanleitung
-- Zwei ultraschnelle Gigabit-LAN-Anschlüsse für die Anbindung weiterer Geräte per Kabel oder für den Aufbau einer LAN-Brücke, Energieersparnis durch Nachtschaltung für WLAN und ECO-Modus
-- Triband-Repeater: Große Reichweite (stabile Funkabdeckung bis in den letzten Winkel) und hoher Datendurchsatz (bis zu 4.200 MBit/s) dank drei Funkeinheiten mit insgesamt acht Antennen
-- Ultraschnelles Wi-Fi 6 im gesamten Heimnetz sowie intelligente, automatische Bandauswahl (Cross-Band-Repeating): 2x5 GHz-Band (bis zu 3.600 MBit/s) und 2,4 GHz-Band (bis zu 600 MBit/s), ausgelegt für ein anspruchsvolles Heimnetz mit einer Vielzahl an WLAN-Endgeräten zur gleichzeitigen Verwendung (z.B. Streaming, Gaming, Videokonferenzen)
 - WLAN Mesh: Mehrere WLAN-Zugangspunkte werden zu einem einzigen intelligenten WLAN-Netz mit optimaler Leistung zusammengefasst, einfache und sichere Installation per Tastendruck (WPS)
+- Zwei ultraschnelle Gigabit-LAN-Anschlüsse für die Anbindung weiterer Geräte per Kabel oder für den Aufbau einer LAN-Brücke, Energieersparnis durch Nachtschaltung für WLAN und ECO-Modus
+- Ultraschnelles Wi-Fi 6 im gesamten Heimnetz sowie intelligente, automatische Bandauswahl (Cross-Band-Repeating): 2x5 GHz-Band (bis zu 3.600 MBit/s) und 2,4 GHz-Band (bis zu 600 MBit/s), ausgelegt für ein anspruchsvolles Heimnetz mit einer Vielzahl an WLAN-Endgeräten zur gleichzeitigen Verwendung (z.B. Streaming, Gaming, Videokonferenzen)
+- Lieferumfang: FRITZ!Repeater 3000 AX, Netzteil, Netzwerkkabel, Installationsanleitung
+- Triband-Repeater: Große Reichweite (stabile Funkabdeckung bis in den letzten Winkel) und hoher Datendurchsatz (bis zu 4.200 MBit/s) dank drei Funkeinheiten mit insgesamt acht Antennen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BKGZZP2P{{</world>}}

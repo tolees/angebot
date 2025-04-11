@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Um die Aromen zu intensivieren, wird der Whisky neben der Kolonnendestillation zusätzlich in Pot Stills destilliert - danach wird er für 5-9 Jahre in Fässern aus amerikanischer Weißeiche gelagert
 - LOT NO. 40 ermöglicht ein aromatisches Geschmackserlebnis & ist dank der Verwendung von 100 Prozent Roggen für die Kategorie Rye Whisky essentiell, da Rye Whisky aus einer roggenhaltigen Maische gebrannt wird
+- Um die Aromen zu intensivieren, wird der Whisky neben der Kolonnendestillation zusätzlich in Pot Stills destilliert - danach wird er für 5-9 Jahre in Fässern aus amerikanischer Weißeiche gelagert
 - Neben leichten Bitternoten von weißem Pfeffer & Walnuss sowie floralen Nuancen von gerösteten Früchten & Apfelkuchen liefert der Whisky ein mittellanges Finish von Karamell, Pfeffer & Apfel
 - Lieferumfang: 1 x 0,7l LOT NO. 40 Canadian Whisky / 100 Prozent Rye Whisky mit prägnanten Vanille-, Toffee- und Karamell-Noten / Das perfekte Geschenk für Whisky-Liebhaber / Alkoholgehalt: 43 Prozent vol.
 - Der würzige Rye Whisky überzeugt durch den Geruch von Pfeffer, Muskat sowie Roggenbrot und rundet den Duft durch kräftige Noten von Honig und Vanille ab

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LED-LICHT: Vorder- und Rücklicht sorgen für 360° Sichtbarkeit - es ist aufladbar über Micro-USB und hat 3 verschiedene Leuchtmodi
 - FÜR ZOPF-TRÄGER/INNEN: Höhenverstellbarkeit des Zoom Ace Urban-Verstellsystems am Hinterkopf ermöglicht Platz für einen Zopf - Kopfschmerzen ade
-- STADTHELM: stylischer, urbaner Helm, ideal für den Stadtverkehr - egal ob für Fahrrad-Pendler auf dem Weg ins Büro oder Freizeitfahrer
 - PASSFORM: durch Drehen am Einstellrad lässt sich der Helm individuell an den Kopfumfang des Trägers anpassen
+- STADTHELM: stylischer, urbaner Helm, ideal für den Stadtverkehr - egal ob für Fahrrad-Pendler auf dem Weg ins Büro oder Freizeitfahrer
 - PRODUKTDETAILS: Unisex Helm für Erwachsene - Größenangabe in Zentimetern entspricht dem Kopfumfang des Trägers
+- LED-LICHT: Vorder- und Rücklicht sorgen für 360° Sichtbarkeit - es ist aufladbar über Micro-USB und hat 3 verschiedene Leuchtmodi
 - ABS-HARTSCHALE: Außenschale aus schlagfestem ABS-Kunststoff macht den Helm besonders robust
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Süß und cremig
-- *NESCAFÉ Dolce Gusto ist nicht bei Amazon registriert
-- Für eine vegetarische und vegane Ernährung geeignet
-- NESCAFÉ Dolce Gusto* kompatible kapseln
-- Rainforest Alliance Certified: Der Kaffee, den wir für dieses Produkt beziehen, ist Rainforest Alliance Certified, was bedeutet, dass er nicht nur gut schmeckt, sondern auch Gutes tut. Mit jeder Tasse unterstützen Sie Hunderte von Landwirten und ihre Familien auf der ganzen Welt und tun außerdem etwas Gutes für den Regenwald. Guter Kaffee für einen guten Zweck
 - Intensität: 3/5
+- Für eine vegetarische und vegane Ernährung geeignet
+- Süß und cremig
 - 70% Arabica, 30% Robusta
+- *NESCAFÉ Dolce Gusto ist nicht bei Amazon registriert
+- Rainforest Alliance Certified: Der Kaffee, den wir für dieses Produkt beziehen, ist Rainforest Alliance Certified, was bedeutet, dass er nicht nur gut schmeckt, sondern auch Gutes tut. Mit jeder Tasse unterstützen Sie Hunderte von Landwirten und ihre Familien auf der ganzen Welt und tun außerdem etwas Gutes für den Regenwald. Guter Kaffee für einen guten Zweck
+- NESCAFÉ Dolce Gusto* kompatible kapseln
 - Kühl und trocken lagern
 - Befolgen Sie immer die Anweisungen des Kaffeemaschinenherstellers
 - Hergestellt in Italien. 48 Kapseln (3 x 16)

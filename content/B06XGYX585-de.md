@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abmessungen der Artikelverpackung: 4.2 zentimeters x 20.0 zentimeters x 20.2 zentimeters
 - Anzahl Spieler: 1 - 2 Spieler
-- Hergestellt in China
+- Abmessungen der Artikelverpackung: 4.2 zentimeters x 20.0 zentimeters x 20.2 zentimeters
 - Das Grundspiel wird zum Spielen benötigt
+- Hergestellt in China
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06XGYX585{{</world>}}

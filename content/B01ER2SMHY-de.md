@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Raspberry Pi
 - Kamera-Modul V2
+- Raspberry Pi
 - Noir
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

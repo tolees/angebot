@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Leder mit Textilkragen für Komfort. Kratzfeste Ferse und Zehenkappe aus Gummi bieten modischen Schutz. Echte Metallbeschläge für eine verstellbare Passform. Die Schnürsenkel sind nicht wasserdicht
 - Die Adapt Trax-Außensohle bietet außergewöhnliche Traktion bei nassen und trockenen Bedingungen
 - Die OrthoLite Eco-Einlegesohle besteht zu 17 % aus ökologischem Anteil, was für verbesserte Atmungsaktivität und leichte, langfristige Dämpfung sorgt.
+- Obermaterial aus Leder mit Textilkragen für Komfort. Kratzfeste Ferse und Zehenkappe aus Gummi bieten modischen Schutz. Echte Metallbeschläge für eine verstellbare Passform. Die Schnürsenkel sind nicht wasserdicht
 - Techlite+ bietet reaktionsschnelle Dämpfung und Stabilität, ohne auf Komfort einzubüßen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

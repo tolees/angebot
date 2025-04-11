@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spiele das offizielle Videospiel CATAN auf der Konsole! Erwirb Ressourcen, meistere neue Strategien und baue deine Siedlungen auf einem Brett auf, das zum Leben erweckt wird. Fordere Freunde sowohl online als auch zu Hause heraus oder spiele gegen intelligente und dynamische KI und werde der Cataner, der siegt!
-- Championship Maps – Spiele wie ein CATAN-Weltmeister mit dem Championship Maps DLC, der 5 Brettlayouts früherer CATAN-Weltmeisterschaften enthält
-- Bringe deine Herausforderung auf die nächste Stufe mit der Super Deluxe Edition, die Folgendes beinhaltet:
-- Würfel-Skin und Hex-Rahmen – Verleihe deinem Spielfeld etwas Swag mit einem speziell entwickelten Spieler-Hex-Rahmen und Würfel-Skin
 - Die Helfer – Nutze die Fähigkeiten und Dienste der einflussreichsten Einwohner von CATAN, um der beste Cataner zu werden
+- Würfel-Skin und Hex-Rahmen – Verleihe deinem Spielfeld etwas Swag mit einem speziell entwickelten Spieler-Hex-Rahmen und Würfel-Skin
+- Bringe deine Herausforderung auf die nächste Stufe mit der Super Deluxe Edition, die Folgendes beinhaltet:
+- Championship Maps – Spiele wie ein CATAN-Weltmeister mit dem Championship Maps DLC, der 5 Brettlayouts früherer CATAN-Weltmeisterschaften enthält
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CHMX4MWL{{</world>}}

@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Kapuze
-- warmer Fleece-Innenmantel
-- bluesign-zertifiziert, ausgezeichnet mit dem Grünen Knopf
-- 3-in-1-Mantel
 - atmungsaktiv
-- mit Taillenzug
-- PFC-frei
 - mit Kapuze
-- Hauptmaterialien recycelt
+- PFC-frei
 - wasserdicht, winddicht
+- mit Taillenzug
+- Hauptmaterialien recycelt
+- warmer Fleece-Innenmantel
+- mit Kapuze
+- 3-in-1-Mantel
+- bluesign-zertifiziert, ausgezeichnet mit dem Grünen Knopf
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09TRTTG41{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Verträglichkeit – Die Formel der Body Lotion ist frei von Duft- und Farbstoffen und wurde von Dermatologen klinisch getestet; auch geeignet für Babys und Kinder
-- Lieferumfang – 1 x PHYSIOGEL Daily Moisture Therapy Body Lotion 400 ml, feuchtigkeitsspendende Body Lotion für trockene Haut, auch für Babys und Kinder geeignet
 - PHYSIOGEL-Wirkprinzip – Dank der innovativen PHYSIOGEL BioMimetic Technologie imitiert das Pflegeprodukt die lamellenartige Struktur der Haut, um trockene Stellen nachhaltig zu reparieren und zu regenerieren
-- Für trockene Haut – Die Body Lotion wurde speziell für trockene Haut entwickelt, welche die Haut regeneriert, repariert und gezielt mit Feuchtigkeit versorgt.
+- Lieferumfang – 1 x PHYSIOGEL Daily Moisture Therapy Body Lotion 400 ml, feuchtigkeitsspendende Body Lotion für trockene Haut, auch für Babys und Kinder geeignet
 - Spendet Feuchtigkeit – Mit dem Wirkkomplex aus hautverwandten Lipiden spendet die schnell einziehende Körperlotion Feuchtigkeit, mindert Spannungsgefühle und schützt vor wiederkehrender Trockenheit
+- Hohe Verträglichkeit – Die Formel der Body Lotion ist frei von Duft- und Farbstoffen und wurde von Dermatologen klinisch getestet; auch geeignet für Babys und Kinder
+- Für trockene Haut – Die Body Lotion wurde speziell für trockene Haut entwickelt, welche die Haut regeneriert, repariert und gezielt mit Feuchtigkeit versorgt.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08WP99GJ1{{</world>}}

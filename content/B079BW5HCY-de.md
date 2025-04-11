@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leger geschnittene Bike Hose mit abzippbaren Beinen
 - Teilelastischer Bund mit Gürtel
 - Wasserabweisend, strapazierfähig, formbeständig
+- Leger geschnittene Bike Hose mit abzippbaren Beinen
 - 2 Eingrifftaschen, 1 Gesäß-, 2 Reißverschluss-Seitentaschen, inklusive 1 Handytasche, reflektierende Elemente
 - Einknöpfbare Radunterhose mit tri-elastischen RELAX GEL COMFORT Sitzpolster
 

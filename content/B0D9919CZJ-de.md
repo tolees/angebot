@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - V-Ausschnitt mit Rippblende
-- gestreiftes Necktape
 - klassische Passform
+- gestreiftes Necktape
 - Rubber Prints vorne, hinten und am rechten Ärmel
 
 [🛒 Hier!!]({{< param buyurl >}})

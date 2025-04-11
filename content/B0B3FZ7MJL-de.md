@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PRINZESSIN LEIA (ENDOR): Mit den Figuren aus der Black Series in klassischem Design und klassischer Verpackung lässt sich das 40-jährige Jubiläum von Star Wars: Die Rückkehr der Jedi-Ritter gebührend feiern
-- VOM CHARAKTER INSPIRIERTE ACCESSOIRES: Diese Action-Figur aus der Star Wars The Black Series kommt mit 2 Accessoires, darunter ein abnehmbarer Helm
-- MIT SAMMELFIGUREN EINE GALAXIS ERSCHAFFEN: Mit den von der Serie inspirierten Sammelfiguren aus der Star Wars The Black Series lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
-- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
 - STAR WARS: DIE RÜCKKEHR DER JEDI-RITTER: Diese Prinzessin Leia (Endor) Action-Figur ist durch den Charakter in Star Wars: Die Rückkehr der Jedi-Ritter inspiriert — ein tolles Geschenk für Star Wars Sammler und Fans ab 4 Jahren
+- VOM CHARAKTER INSPIRIERTE ACCESSOIRES: Diese Action-Figur aus der Star Wars The Black Series kommt mit 2 Accessoires, darunter ein abnehmbarer Helm
+- PRINZESSIN LEIA (ENDOR): Mit den Figuren aus der Black Series in klassischem Design und klassischer Verpackung lässt sich das 40-jährige Jubiläum von Star Wars: Die Rückkehr der Jedi-Ritter gebührend feiern
+- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
+- MIT SAMMELFIGUREN EINE GALAXIS ERSCHAFFEN: Mit den von der Serie inspirierten Sammelfiguren aus der Star Wars The Black Series lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B3FZ7MJL{{</world>}}

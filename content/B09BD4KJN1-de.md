@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Unser Wohlfühl-Geschenk ist vielseitig einsetzbar und eignet sich sowohl für Geburtstage, als Dankeschön oder zum Muttertag.
-- Verschenke ein Geschenk, das immer wieder Freude bereitet: Mit unserer wiederverwendbaren Wohlfühl Selection Geschenk Box. Unsere Teebox ist aus FSC-zertifiziertem Bambus gefertigt, sodass sie immer wieder verwendet werden kann und somit den Planeten entlastet.
 - Pukka Bio-Tee Wohlfühl Selection Geschenk Box mit 42 Teebeuteln in 6 köstlichen Geschmacksrichtungen wird von unseren hauseigenen Kräuterexpert:innen mit ausgewogenen Bio-Zutaten gemischt, um sich ganzen Tag über auf die Schätze zu besinnen, welche die Natur zu bieten hat.
 - Jede unserer Teemischungen enthält ethisch und nachhaltig beschaffte Zutaten aus biologischem Anbau. Jede Zutat wird von unserem Expertenteam auf den Gehalt an ätherischen Ölen geprüft, um sicherzustellen, dass unsere Mischungen von höchster Qualität sind. Die kostbaren Bio-Kräuter werden in unseren FSC-zertifizierten, recycelbaren Teebeuteln geschützt. Diese bewahren die Qualität und den Geschmack solange, bis du den wunderbaren Bio-Tee genießen kannst.
+- Verschenke ein Geschenk, das immer wieder Freude bereitet: Mit unserer wiederverwendbaren Wohlfühl Selection Geschenk Box. Unsere Teebox ist aus FSC-zertifiziertem Bambus gefertigt, sodass sie immer wieder verwendet werden kann und somit den Planeten entlastet.
 - Das perfekte Geschenk für jeden Anlass – Verschenke Pukka zu Ostern, Geburtstag, als Dankeschön oder zum Muttertag.
 - Bambus ist eine der am schnellsten wachsenden Pflanzen auf unserem Planeten. Seine natürliche Beständigkeit machte ihn zum perfekten Material für unsere Wohlfühl Selection Geschenk Box, da sie dafür ausgelegt ist, sie nach Verbrauch der Tees weiterzuverwenden.
 

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktisch: der ergonomische Stielgriff unterstützt die einhändige Handhabung beim Kochen
-- RÖSLE Basic Line Stielkasserolle: Kochtopf zur Zubereitung kleiner Gerichte zu jeder Mahlzeit - ideal zum Aufwärmen von Suppen, Gemüse und Saucen, aber auch für leckeren Pudding oder Porridge
-- Länge 33,8 cm - Breite 17,4 cm - Höhe 9,5 cm - Durchmesser 16 cm - Füllmenge 1,4 l
 - Aus Edelstahl 18/10 mit gekapseltem Boden mit Aluminiumkern für eine optimale Wärmeleitung
+- Praktisch: der ergonomische Stielgriff unterstützt die einhändige Handhabung beim Kochen
+- Länge 33,8 cm - Breite 17,4 cm - Höhe 9,5 cm - Durchmesser 16 cm - Füllmenge 1,4 l
+- RÖSLE Basic Line Stielkasserolle: Kochtopf zur Zubereitung kleiner Gerichte zu jeder Mahlzeit - ideal zum Aufwärmen von Suppen, Gemüse und Saucen, aber auch für leckeren Pudding oder Porridge
 - Alle RÖSLE Basic Line Töpfe sind spülmaschinengeeignet und können auf Glaskeramikplatten, Elektro-, Gas- und Induktionsherden sowie im Backofen eingesetzt werden
 
 [🛒 Hier!!]({{< param buyurl >}})

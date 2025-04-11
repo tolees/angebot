@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Muster: Einfarbig
-- Leder: smooth leather
 - Mode: Sneaker
 - Lebensstil: Outdoor
+- Muster: Einfarbig
+- Leder: smooth leather
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09C61QZXL{{</world>}}

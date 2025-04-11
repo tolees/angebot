@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Produktart: PHYSICAL TV SERIES
-- Marke: Warner Bros Universal Pictures
 - Wizarding World 10-Film Collection 10 DVDs
+- Marke: Warner Bros Universal Pictures
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08HGTT3WD{{</world>}}

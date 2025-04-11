@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse F; Umgebende Produkte sind Leuchten, die zur separaten Überpr
-- Die energiesparenden LEDs spenden angenehm warmweißes Licht (11 Watt, 950 Lumen); Abmessungen: Durchmesser: 32 cm, Höhe: 9 cm
 - Mit dieser Deckenlampe wird Ihr Raum ausreichend ausgeleuchtet. Durch den weißen Diffusor ist eine angenehme Lichtverteilung gegeben; Ein besonderer Effekt entsteht durch die indirekte Beleuchtung an Ihrer Decke oder Wand
+- Die energiesparenden LEDs spenden angenehm warmweißes Licht (11 Watt, 950 Lumen); Abmessungen: Durchmesser: 32 cm, Höhe: 9 cm
 - Der hochwertige taupefarbene Lampenschirm aus Stoff verleiht Ihren Räumen eine gemütliche Atmosphäre, ob Wohnzimmer, Schlafzimmer, Esszimmer, Flur oder Küche
 - Kombinieren Sie verschiedene Größen und Farben aus den EGLO Serien Palomaro und Palomaro 1. Die unterschiedlichen Naturtöne Creme, Taupe und Anthrazit lassen sich ideal zusammenstellen
 

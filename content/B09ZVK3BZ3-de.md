@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Ethylen-Vinylacetat
 - Obermaterial: Leder
+- Verschluss: Ethylen-Vinylacetat
 - Absatzform: Plateauabsatz
 
 [🛒 Hier!!]({{< param buyurl >}})

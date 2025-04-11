@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STAR WARS: DAS BUCH VON BOBA FETT: Diese Pyke Soldier Action-Figur ist an Star Wars: Das Buch von Boba Fett angelehnt und perfekt als Geschenk für Star Wars Sammler und Fans ab 4 Jahren geeignet
-- PYKE SOLDAT: Während der Klonkriege wurden die Pykes zu den bedeutendsten Gewürzhändlern und versorgten die kriminellen Familien von Coruscant mit illegalen Substanzen. Nach dem Tod von Jabba dem Hutten dehnten sie ihren Gewürzhandel auf Tatooine aus.
-- VON DER SERIE INSPIRIERTE ACCESSOIRES: Diese Sammelfigur aus der Star Wars The Black Series kommt mit 2 Blastern als Accessoires
-- MIT SAMMELFIGUREN EINE GALAXIS ERSCHAFFEN: Mit den von der Serie inspirierten Sammelfiguren aus der Star Wars The Black Series lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
 - PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
+- VON DER SERIE INSPIRIERTE ACCESSOIRES: Diese Sammelfigur aus der Star Wars The Black Series kommt mit 2 Blastern als Accessoires
+- PYKE SOLDAT: Während der Klonkriege wurden die Pykes zu den bedeutendsten Gewürzhändlern und versorgten die kriminellen Familien von Coruscant mit illegalen Substanzen. Nach dem Tod von Jabba dem Hutten dehnten sie ihren Gewürzhandel auf Tatooine aus.
+- MIT SAMMELFIGUREN EINE GALAXIS ERSCHAFFEN: Mit den von der Serie inspirierten Sammelfiguren aus der Star Wars The Black Series lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- STAR WARS: DAS BUCH VON BOBA FETT: Diese Pyke Soldier Action-Figur ist an Star Wars: Das Buch von Boba Fett angelehnt und perfekt als Geschenk für Star Wars Sammler und Fans ab 4 Jahren geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C4G53GYB{{</world>}}

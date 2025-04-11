@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Integriertes Arbeitslicht zum Ausleuchten der Arbeitsstelle
-- Spindel mit Innensechskant für Schrauber-Bits zum Arbeiten ohne Bohrfutter
 - Leichter Kompakt-Bohrschrauber mit extrem kurzer Bauform für den vielseitigen Einsatz
 - Mit praktischem Gürtelhaken, werkzeuglos rechts oder links fixierbar
+- Spindel mit Innensechskant für Schrauber-Bits zum Arbeiten ohne Bohrfutter
+- Integriertes Arbeitslicht zum Ausleuchten der Arbeitsstelle
 - Lieferumfang: Schnellspannbohrfutter, Gürtelhaken, Li-Power Stecksitz-Akkupack (12 V/2,0 Ah), Ladegerät LC 40, Werkzeugtasche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

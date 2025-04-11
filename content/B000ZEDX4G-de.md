@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 9 Ohm
-- Antimagnetisch zur Vermeidung elektromagnetischer Schäden
-- 3 und 10
-- ESD-geprüfte, schwarze Epoxidbeschichtung mit einem Oberflächenwiderstand zwischen 10
-- Für Elektronik- und Feinmechanikindustrie
 - Große Modellpalette: gerade, gewinkelt, Greiffflächen und Griffe glatt oder gezahnt, mit nadelspitzen, spitzen oder stumpfen Spitzen
+- 9 Ohm
+- ESD-geprüfte, schwarze Epoxidbeschichtung mit einem Oberflächenwiderstand zwischen 10
 - Für den sicheren Umgang mit elektronischen Bauteilen in Feinanwendungen: erlauben den kontrollierten Ausgleich von Potenzialunterschieden zwischen Bediener und Bauteil
+- 3 und 10
+- Antimagnetisch zur Vermeidung elektromagnetischer Schäden
+- Für Elektronik- und Feinmechanikindustrie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000ZEDX4G{{</world>}}

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Trocknet in 45 Sekunden.
 - Lässt sich einfach und gleichmäßig auftragen.
-- Hohe Farbintensität, intensiver Glanz schon bei der ersten Schicht.
-- Kein Abblättern - bis zu 5 Tage lang.
 - Glänzt bis zu 8 Tage lang.
+- Kein Abblättern - bis zu 5 Tage lang.
+- Hohe Farbintensität, intensiver Glanz schon bei der ersten Schicht.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BKUMQME{{</world>}}

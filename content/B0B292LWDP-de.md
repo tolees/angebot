@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Textil
-- Schnürverschluss
-- Synthetik
 - Stoff
+- Synthetik
 - Ganzjährig nachfüllbar
+- Schnürverschluss
+- Obermaterial aus Textil
 - Flexkerben in EVA-Außensohle
 - Flach
 

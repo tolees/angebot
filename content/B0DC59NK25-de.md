@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brusttasche und Logo Print auf der linken Vorderseite
 - Kontrastnähte
+- Brusttasche und Logo Print auf der linken Vorderseite
 - Flammgarnstruktur, Melange-Effekte
 - gefütterte Kapuze mit Logo Print innen
 - Tunnelzugband an der Kapuze

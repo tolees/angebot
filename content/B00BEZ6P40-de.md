@@ -29,12 +29,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - NACHHALTIG UND UMWELTFREUNDLICH: Unsere Produkte sind in Anlehnung an die ISO 14021 umweltfreundlich und 100 % recycelbar. Zur Fertigung unserer Holzprodukte verwenden wir 100 % FSC-zertifizierte Hölzer. Damit unterstützen wir eine wirtschaftlich, sozial und ökologisch nachhaltige Bewirtschaftung der Wälder. Zudem sind die verwendete Lacke wasserlöslich und weisen damit eine deutlich höhere Umweltverträglichkeit auf.
-- Ergonomisch konstruiert, praktisch in der Anwendung: Beim Öffnen verschwindet der stabile Deckel unter der Box, im geschlossenem Zustand sind die Stützen arretiert.
 - MADE IN GERMANY: HAN ist einer der führenden deutschen Markenhersteller von Organisationslösungen für Office & Home und produziert seit über 65 Jahren, teilweise noch immer in Handarbeit, an seinem Stammsitz in Deutschland. Durch nachhaltiges Produzieren, Handeln und Wirtschaften schaffen und sichern wir Arbeitsplätze mit fairen Löhnen und Gehältern.
 - CROCO ist der ideale Karteikasten für Vokabeln – ob Englisch in der Grundschule, für Französisch oder Latein in der Unterstufe – für das Lernen jeder Sprache geeignet. Fremdsprachen lernen, nicht nur für Schüler mit der "5-Fächer-Lernmethode": Dank regelmäßiger Lernintervalle werden neue Vokabeln gelernt und alte wiederholt – für motivierende Lernerfolge.
-- Der Karteikasten hat ein Fassungsvermögen von 500 DIN A8 quer Karten, die auf 5 Bereiche aufgeteilt werden – ideal für den Grundwortschatz. Inklusive 100 linierter Karteikarten.
 - Lieferumfang: 1 x HAN 998-673 Lernkartei CROCO. Inklusive 100 linierten Karteikarten DIN A8 (Art.-Nr. 9812), 5 variablen Stützplatten (Art.-Nr. 9028) und Beschriftungsfeld. Original HAN-Markenware. Außenmaße (BxTxH): 97x191x67 mm. Farbe: transluzent-lila
+- Ergonomisch konstruiert, praktisch in der Anwendung: Beim Öffnen verschwindet der stabile Deckel unter der Box, im geschlossenem Zustand sind die Stützen arretiert.
 - Kompatibles Originalzubehör: HAN Stützplatte DIN A8 (Art.-Nr. 9028-63) / HAN Register A-Z (Art.-Nr. 988), HAN Nachfüllpack 100 Karten (Art.-Nr. 9812)
+- Der Karteikasten hat ein Fassungsvermögen von 500 DIN A8 quer Karten, die auf 5 Bereiche aufgeteilt werden – ideal für den Grundwortschatz. Inklusive 100 linierter Karteikarten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BEZ6P40{{</world>}}

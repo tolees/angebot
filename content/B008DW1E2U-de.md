@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gas- und elektroofen geeignet, mikrowellentauglich
-- Spülmaschine; Mikrowelle; Backofen
-- Das Gefäß kann im Kühlschrank oder im Gefrierfach aufbewahrt werden, spülmaschinenfest
-- Durchmesser 21cm; Höhe 11, 5cm; Fassungsvermögen 2000ml
 - Temperaturbeständig: von -40°C bis 300°C
+- Gas- und elektroofen geeignet, mikrowellentauglich
+- Das Gefäß kann im Kühlschrank oder im Gefrierfach aufbewahrt werden, spülmaschinenfest
+- Spülmaschine; Mikrowelle; Backofen
+- Durchmesser 21cm; Höhe 11, 5cm; Fassungsvermögen 2000ml
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008DW1E2U{{</world>}}

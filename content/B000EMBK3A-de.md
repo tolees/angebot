@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hält kühl und bequem
-- Bringt Ihnen einen zusätzlichen Komfort
 - Flexible Gestaltung
+- Hält kühl und bequem
 - CREME DE COCO conditioner 250 ml
+- Bringt Ihnen einen zusätzlichen Komfort
 - Langlebig
 
 [🛒 Hier!!]({{< param buyurl >}})

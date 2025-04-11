@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastischer Bund mit Kordelzug
 - 100 % Baumwolle (French Terry)
 - Seitentaschen
 - Regulär geschnitten; mittelhoher Bund
+- Elastischer Bund mit Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BQJN2K1P{{</world>}}

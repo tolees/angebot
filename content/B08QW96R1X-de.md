@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Größe: L
 - Pflegehinweise: Machine Wash
-- cotton
 - Herkunftsland: KH
+- cotton
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QW96R1X{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Schwarz
 - Länge: 0, 3m
+- Farbe: Schwarz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07BLNKKT7{{</world>}}

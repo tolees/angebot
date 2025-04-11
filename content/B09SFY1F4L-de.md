@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 【Superschnell】: Mit Lese- / Schreibgeschwindigkeiten von bis zu 550 MB / s können Sie hochauflösende Fotos und Videos schnell verschieben (tatsächliche Geschwindigkeit abhängig von Laufwerkskapazität, Hostgerät, Betriebssystem und Anwendung).
-- 【Hohe Leistung und breite Kompatibilität】: Verwendet Hochleistungs-Controller-IC, entspricht UASP, Trim, die effektiv die Geschwindigkeit verbessern und die Lebensdauer der SSD verlängern. Kompatibel mit Android, Mac OS 10.11 oder höher & Windows 7 oder höher.
 - 【Zuverlässige Leistung】: Solides, stoßfestes und vibrationsfestes Aluminiumgehäuse, diese externe SSD verfügt über ein effizientes Kühlkörper, um bei geringem Stromverbrauch kühl zu bleiben und zuverlässige Datenübertragungen zu gewährleisten.
 - 【256GB External SSD】: Special design with USB 3.2 Gen2 6GbpsBuilt-in 256GB 3D NAND Flash SSD, Size 4.27" x 1.28" x 0.4" and weight 0.33lb. You can easily put this Portable SSD in your briefcase, backpack or the carrying bag;
 - 【Blaue Anzeige】: Blaue Anzeige zeigt den Datentransferstatus, blinkt während der Übertragung, schön aussehend und klar;
+- 【Hohe Leistung und breite Kompatibilität】: Verwendet Hochleistungs-Controller-IC, entspricht UASP, Trim, die effektiv die Geschwindigkeit verbessern und die Lebensdauer der SSD verlängern. Kompatibel mit Android, Mac OS 10.11 oder höher & Windows 7 oder höher.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09SFY1F4L{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Natürliche Unterstützung für Ihre Ernährung
 - Energiebooster im Alltag
+- Natürliche Unterstützung für Ihre Ernährung
 - Verantwortungsvolle Inhaltsstoffe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

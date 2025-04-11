@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ERHÖHT DIE LEBENSDAUER IHRER MASCHINE: Die richtige Reinigung und Pflege von Kaffeemaschine & Kaffeevollautomaten sorgt für eine lange Lebensdauer der Maschine
-- VERBESSERTE KAFFEEQUALITÄT: Der DeLonghi Wasserfilter verbessert den Kaffee-Geschmack durch die Reduzierung von geruchs- und geschmacksstörenden Verunreinigungen im Wasser
-- optimiert die Kaffeequalität
 - REGELMÄßIGES ERSETZEN: Für beste Ergebnisse wird empfohlen, den Filter alle 2 Monate auszutauschen (abhängig von der Wasserqualität)
 - KOMPATBIEL: Geeignet für alle DeLonghi Kaffeemaschinen der ECAM, ETAM und EPAM Serien sowie ESAM 66../67../69.., die Maschinen der BCO 41./42. Serie und die der EC6../EC7../EC8../EC9.. Serien
+- ERHÖHT DIE LEBENSDAUER IHRER MASCHINE: Die richtige Reinigung und Pflege von Kaffeemaschine & Kaffeevollautomaten sorgt für eine lange Lebensdauer der Maschine
 - WIRKUNG: Der DeLonghi Wasserfilter reduziert Kalkablagerungen und verlängert bei regelmäßiger Anwendung die Lebensdauer der Maschine
+- optimiert die Kaffeequalität
+- VERBESSERTE KAFFEEQUALITÄT: Der DeLonghi Wasserfilter verbessert den Kaffee-Geschmack durch die Reduzierung von geruchs- und geschmacksstörenden Verunreinigungen im Wasser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00CXQ9GQ8{{</world>}}

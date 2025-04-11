@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gewicht :
-- Farbe :schwarz
-- Groesse :
 - Verpackung :1 Set
+- Groesse :
+- Farbe :schwarz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001GSMGL6{{</world>}}

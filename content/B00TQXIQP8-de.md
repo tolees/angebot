@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang : Samyang 10mm T3.1 VDSLR ED AS NCS CS II Objektiv für Anschluss Sony E-Mount; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
-- Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 - Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
 - Manuell fokussierendes Video-Objektiv 10mm T3.1
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
+- Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00TQXIQP8{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TECHNISCHE DATEN: Schaftdurchmesser: 3,2 mm, Arbeitsdurchmesser: 0,8 mm, Höchstdrehzahl: 35000 1/min
-- QUALITÄT: Die Dremel Graviermesser besitzen eine lange Lebensdauer und werden aus robustem Material hergestellt
 - FORM: Das Dremel 105 Graviermesser besitzt den kleinsten kugelförmigen Kopf und eignet sich somit für Finish und Detailarbeiten
+- TECHNISCHE DATEN: Schaftdurchmesser: 3,2 mm, Arbeitsdurchmesser: 0,8 mm, Höchstdrehzahl: 35000 1/min
 - ANWENDUNG: Das Gravierset ist geeignet zum Schneiden, Gravieren, als Fräser, sowie für detailliertes Arbeiten mit Holz,Stein, Kunststoff, Weichmetall oder für andere Projekte
 - Passt zu allen Dremel Multi-/Rotationswerkzeugen oder anderen Multi-/Rotationswerkzeugen mit 3,2 mm Schaftgröße
+- QUALITÄT: Die Dremel Graviermesser besitzen eine lange Lebensdauer und werden aus robustem Material hergestellt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0035PY4ZO{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 150
-- Deutsch, Japanisch
 - Shinya Lino
 - BRD
+- 150
+- Deutsch, Japanisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08LJRZ2DZ{{</world>}}

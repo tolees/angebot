@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine gleichermaßen irrsinnige und grandiose utopische Welt
-- Zusätzlich zum Spiel sind zwei Waffen-SKIN DLCs "Swede" + "Electro" enthalten
 - Zerstöre gigantische Maschinen und vernichte Mutanten mit deinen Fähigkeiten und fortschrittlichen Waffen
+- Eine gleichermaßen irrsinnige und grandiose utopische Welt
 - Instinktiv geführte, spektakuläre und unerbittlich harte Kämpfe
+- Zusätzlich zum Spiel sind zwei Waffen-SKIN DLCs "Swede" + "Electro" enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLBDZ66J{{</world>}}

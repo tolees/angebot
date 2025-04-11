@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
-- Energieersparnis: durch kontinuierliche Messung und Anzeige des Energieverbrauchs der angeschlossenen Elektrogeräte sowie Nutzung der Zeitschaltfunktion
+- Smart integriert: Vernetzt herkömmliche Elektrogeräte in das System von Bosch Smart Home
 - Funksignal-Verstärkung: Produkte in bisher unerreichten Räumen lassen sich einbinden – Funktioniert bei: Twinguard, Bewegungsmelder, Twist, Wassermelder und Zwischenstecker Kompakt
 - Lieferumfang: 1x Zwischenstecker Kompakt, 3x Quick Start Guides
-- Smart integriert: Vernetzt herkömmliche Elektrogeräte in das System von Bosch Smart Home
 - Kompakte Baugröße: Verwendung mehrerer Zwischenstecker nebeneinander möglich
+- Ausschließlich nutzbar mit separat erhältlichem Bosch Smart Home Controller
+- Energieersparnis: durch kontinuierliche Messung und Anzeige des Energieverbrauchs der angeschlossenen Elektrogeräte sowie Nutzung der Zeitschaltfunktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QCNVCYV{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hiroaki Miyamoto, Junji Shimizu, Kônosuke Uda, Munehisa Sakai
 - 650
 - DVD
 - Deutsch
-- Hiroaki Miyamoto, Junji Shimizu, Kônosuke Uda, Munehisa Sakai
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0725HVVCH{{</world>}}

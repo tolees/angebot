@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: GSR 18V-21, 2x2.0 Ah Akku, Ladegerät GAL 18V-40, L-BOXX 136
 - Professional 18V System. Ultimative Performance. Maximale Freiheit. Alle unsere Akkus sind mit neuen und existierenden Bosch Professional Werkzeugen in der gleichen Voltklasse kompatibel
-- Hartes Drehmoment von 55 Nm liefert die notwendige Leistung für Standard-Bohr- und Bohrschraubanwendungen
+- Lieferumfang: GSR 18V-21, 2x2.0 Ah Akku, Ladegerät GAL 18V-40, L-BOXX 136
 - Zuverlässigkeit, Langlebigkeit und Profi-Qualität für den täglichen Gebrauch dank Vollmetallgetriebe und Electronic Cell Protection
+- Hartes Drehmoment von 55 Nm liefert die notwendige Leistung für Standard-Bohr- und Bohrschraubanwendungen
 - Professionelles Design mit schlüssellosem 13-mm-Bohrfutter für hochwertiges Arbeiten
 
 [🛒 Hier!!]({{< param buyurl >}})

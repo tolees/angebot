@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktiv dank 2 Tagen Akkulaufzeit: Langlebige Stromversorgung dank 5.000-mAh-Akku mit Schnellladefunktion, Bleibe lang in Verbindung, lade dein Gerät schnell auf und genieße die Freiheit einer langen Akkulaufzeit ¹³ ¹⁴ ¹⁵
 - Für eine sorgenfreie Nutzung: Kostenlose Garantieverlängerung auf 30 Monate (2,5 Jahre) - gültig für Kunden, die ihren Wohnsitz in Deutschland haben. ¹⁴
 - Entfessle seine ganze Power: 5G-Unterstützung, angepasster Octa-Core-Prozessor und integriertes Kühlsystem mit großer Dampfkammer für grenzenloses Multitasking, Gaming und Streaming, Interner 128-GB- oder 256-GB-Speicher via microSD-Kartenslot um bis zu 1 TB erweiterbar ⁹ ¹⁰ ¹¹ ¹²
-- Äußerst robust: IP67 entsprechender Schutz vor Staub und Wasser, Hergestellt mit Corning Gorilla Glass Victus+ für eine hohe Widerstandsfähigkeit gegen Schäden, Schütze zudem deine Passwörter und persönlichen Daten mit Samsung Knox Vault ⁶ ⁷ ⁸
-- Immersive, lebendige Bilder: 16,83 cm / 6,6"-FHD+-Super-AMOLED-Display mit 1.000 Nits Spitzenhelligkeit und einer adaptiven Bildwiederholfrequenz von bis zu 120 Hz, Bessere Sicht in der Sonne dank Vision Booster, Metallrahmen und 3-fach-Kamera für einen schicken Look und einfaches Festhalten ¹ ²
 - Halte die Welt um dich herum fest und zeige dich von deiner besten Seite: Scharfe Aufnahmen auch bei wenig Licht dank hochauflösender 50-MP-Weitwinkel-Kamera, Tolle Selfies dank 32-MP-Selfiekamera und Portrait-Modus, Super HDR-Videos und ruckelfreie Bewegungen in 4K dank OIS and VDIS ⁴ ⁵
+- Produktiv dank 2 Tagen Akkulaufzeit: Langlebige Stromversorgung dank 5.000-mAh-Akku mit Schnellladefunktion, Bleibe lang in Verbindung, lade dein Gerät schnell auf und genieße die Freiheit einer langen Akkulaufzeit ¹³ ¹⁴ ¹⁵
+- Immersive, lebendige Bilder: 16,83 cm / 6,6"-FHD+-Super-AMOLED-Display mit 1.000 Nits Spitzenhelligkeit und einer adaptiven Bildwiederholfrequenz von bis zu 120 Hz, Bessere Sicht in der Sonne dank Vision Booster, Metallrahmen und 3-fach-Kamera für einen schicken Look und einfaches Festhalten ¹ ²
+- Äußerst robust: IP67 entsprechender Schutz vor Staub und Wasser, Hergestellt mit Corning Gorilla Glass Victus+ für eine hohe Widerstandsfähigkeit gegen Schäden, Schütze zudem deine Passwörter und persönlichen Daten mit Samsung Knox Vault ⁶ ⁷ ⁸
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CW1J9RZS{{</world>}}

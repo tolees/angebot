@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mittelhoher Bund
 - Klassischer und Eleganten Look
 - Schmales Bein
-- Mittelhoher Bund
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5YKY1NW{{</world>}}

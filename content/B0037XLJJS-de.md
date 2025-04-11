@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hervorragende Hautverträglichkeit: Das fett- und emulgatorfreie Hydrodispersionsgel enthält keine Farb- und Konservierungsstoffe und keine Duftstoffe
 - Sonnenpflege im Dienst der Gesundheit: Ob während oder nach dem Aufenthalt in der Sonne, ob für das Gesicht oder den Körper – Ladival Produkte stehen für Hautverträglichkeit ohne irritierende Zusatzstoffe
 - Entwickelt für Haut, die zu Allergien neigt: Das Sonnenschutzmittel eignet sich bei Sonnenallergie und Mallorca-Akne – ideal auch bei fettiger Haut
+- Hervorragende Hautverträglichkeit: Das fett- und emulgatorfreie Hydrodispersionsgel enthält keine Farb- und Konservierungsstoffe und keine Duftstoffe
 - Leichte, wasserfeste Formulierung: Die fettfreie Sonnenpflege lässt sich leicht verteilen und zieht schnell ein – das Sonnenschutzgel klebt nicht und hinterlässt ein angenehmes Gefühl auf der Haut
 - Einzigartiger 3-fach Zellschutz: Das hautverträgliche Sonnen Gel mit dem besonders hohen Lichtschutzfaktor 50+ für zuverlässigen Schutz vor Sonnenbrand und sonnenbedingter Hautalterung
 

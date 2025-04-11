@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unter 25°C lagern
-- Nicht geeignet für Kinder unter 12 Monaten
-- Natürlicher und zertifizierter MGO Gehalt
 - Das Original aus Neuseeland
+- Unter 25°C lagern
 - Auf Reinheit und Qualität getestet
+- Natürlicher und zertifizierter MGO Gehalt
+- Nicht geeignet für Kinder unter 12 Monaten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0041M7BMS{{</world>}}

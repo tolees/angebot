@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl der Packung: 1
-- Farbe: Weiß
 - Verpackungsgewicht: 8.56 Kg
+- Farbe: Weiß
+- Anzahl der Packung: 1
 - Verpackungsabmessungen (L x B x H): 19.0 zm x 44.0 zm x 54.0 zm
 
 [🛒 Hier!!]({{< param buyurl >}})

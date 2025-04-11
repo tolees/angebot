@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Mono-Mesh
-- Textilfutter
-- Eine Nummer größer kaufen
 - Leichtes, stabiles Tragegefühl
 - Schnürsenkel
+- Textilfutter
+- Obermaterial aus Mono-Mesh
+- Eine Nummer größer kaufen
 - LIGHTMOTION Dämpfung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

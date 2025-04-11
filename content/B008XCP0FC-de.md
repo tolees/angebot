@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Buchgebundenes Gästebuch mit hochwertigem Einband und Blindprägung
-- Das Gästebuch ist veredelt durch eine Ausstanzung auf der Vorderseite für ein persönliches Foto zum Einstecken
 - Der weiße Fotokarton kann mit allen handelsüblichen Stiften beschriftet werden
 - Zusätzlich ist das Album mit einem CD- Archiv ausgestattet
-- In dem Gästebuch können die Gäste gute Wünsche, Eindrücke, Sinnsprüche und Anekdoten festhalten
 - Im Format 23x25 cm hat das Gästebuch 144 weisse Seiten aus säurefreiem Fotokarton
+- Buchgebundenes Gästebuch mit hochwertigem Einband und Blindprägung
+- Das Gästebuch ist veredelt durch eine Ausstanzung auf der Vorderseite für ein persönliches Foto zum Einstecken
+- In dem Gästebuch können die Gäste gute Wünsche, Eindrücke, Sinnsprüche und Anekdoten festhalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008XCP0FC{{</world>}}

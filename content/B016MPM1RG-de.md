@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Extreme Skin Lubricant naturally reduces the friction of your skin
 - Free from Parabens and formaldehyde
 - Enriched with natural Aloe Vera, Witch Hazel, Shea Butter and Sunflower Oil Contains Provitamin Has a mild cooling function
+- Extreme Skin Lubricant naturally reduces the friction of your skin
 - Luxury formulation, deeply moisturising for total riding comfort
 - Anti Bacterial - Kills 99% of germs
 

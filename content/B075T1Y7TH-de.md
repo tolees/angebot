@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Enthält die Spielfigur Stephanie sowie eine Figur von Dash
 - Frage einen Freund/eine Freundin, ob er/sie den Torhüter spielt und tauscht später die Rollen
-- Als Zubehör sind Ball, Wasserflasche, Hotdog, Hundenapf und Knochen enthalten
 - Enthält ein Fußballtor mit beweglicher Torhüterplattform, Balleinwerfer, Taktiktafel und Getränkestand
+- Als Zubehör sind Ball, Wasserflasche, Hotdog, Hundenapf und Knochen enthalten
 - Frische deine Taktik an der Taktiktafel auf und trainiere deine Zielgenauigkeit durch Tore schießen
 
 [🛒 Hier!!]({{< param buyurl >}})

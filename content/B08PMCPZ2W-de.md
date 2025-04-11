@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x TSTAK Combo, bestehend aus Box Nr. 2 und Box Nr. 4, Abmessung: 44 x 33,7 x 33,3 cm, 21,6 Liter Volumen
-- Robuste und kompakte Kombination, bestehend aus TSTAK II und TSTAK IV
-- IP54 Schutz gegen allseitiges Spritzwasser und Staub in schädigender Menge (gilt nicht für das Schubladenelement)
-- Beliebig kombinierbar mit anderen Produkten der TSTAK Serie
 - Oben: Individuell anpassbare Schaumstoffeinlage für sicheren Maschinentransport, Unten: 2 Schubladen mit herausnehmbaren Innenteilern für die flexible Aufbewahrung von Kleinteilen
+- IP54 Schutz gegen allseitiges Spritzwasser und Staub in schädigender Menge (gilt nicht für das Schubladenelement)
+- Robuste und kompakte Kombination, bestehend aus TSTAK II und TSTAK IV
+- Beliebig kombinierbar mit anderen Produkten der TSTAK Serie
+- Lieferumfang: 1x TSTAK Combo, bestehend aus Box Nr. 2 und Box Nr. 4, Abmessung: 44 x 33,7 x 33,3 cm, 21,6 Liter Volumen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08PMCPZ2W{{</world>}}

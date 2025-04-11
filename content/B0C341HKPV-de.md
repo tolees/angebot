@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Im Lieferumfang erhalten: VR-Headset, PlayStation VR2 Sense-Controller ,(L)/(R) mit befestigten Handgelenkschlaufen, USB-Kabel (zum Koppeln und Laden des Controllers), Stereokopfhörer, Drei Paar Ohrpolster, Druckerzeugnisse, PlayStation Store-Gutscheincode für Horizon Call of the Mountain2
 - Horizon Call of the Mountain: Erklimme gigantische Gipfel, besiege furchteinflößende Maschinen und entdecke eine versteckte Gefahr für die Welt von Horizon im PlayStation VR2 Horizon Call of the Mountain -Paket
 - PSVR2: Genieße atemberaubend lebendige 4K-HDR-Bilder1 in kompatiblen Spielen, ein großes 110º-Sichtfeld und hochmodernes grafisches Rendering – alles möglich durch die Leistung von PS5
+- Im Lieferumfang erhalten: VR-Headset, PlayStation VR2 Sense-Controller ,(L)/(R) mit befestigten Handgelenkschlaufen, USB-Kabel (zum Koppeln und Laden des Controllers), Stereokopfhörer, Drei Paar Ohrpolster, Druckerzeugnisse, PlayStation Store-Gutscheincode für Horizon Call of the Mountain2
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C341HKPV{{</world>}}

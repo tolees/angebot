@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Rippbündchen an Ärmeln und Saum
+- mit Farbverlauf
 - Artwork mit Stickereien vorne rechts
 - Kapuze mit Print, Innentape und Kordelzug
-- mit Farbverlauf
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5DVKRW{{</world>}}

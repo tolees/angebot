@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - E27-SOCKEL - Die Lampe passt in alle handelsüblichen E27-Fassungen
-- ALLGEBRAUCHSLAMPE - Der Klassiker in Standardform
-- MARKENHERSTELLER - Paulmann macht Licht aus Leidenschaft, und das seit 40 Jahren
 - STEUERUNG - Steuerbar mit Smart Home Zigbee Fernbedienung
+- MARKENHERSTELLER - Paulmann macht Licht aus Leidenschaft, und das seit 40 Jahren
 - SPARSAM - LED Technik spart bis zu 80% Energie gegenüber herkömmlichen Glühlampen
+- ALLGEBRAUCHSLAMPE - Der Klassiker in Standardform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083M6N5CV{{</world>}}

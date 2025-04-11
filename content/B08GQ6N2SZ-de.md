@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- UNIVERSELLE KOMPATIBILITÄT: Geeignet für LCD, LED, QLED und OLED Fernseher mit einer Diagonalen Zollgröße von: 32"/81cm, 37"/94cm, 40"/102cm, 43"/109cm, 49"/125cm, 50"/127cm und 55"/140cm..
+- VESA LÖCHER: Diese universelle TV Wandhalterung ist geeignet für Standard VESA-löcher: 100x100, 200x100, 200x200, 300x300, 400x200, 400x300 und 400x400
 - OPTIMALER BLICKWINKEL: Diese Fernseher Halterung ist bis +/- 90 Grad schwenkbar (Links & Rechts) mit einer Neigung von 5 nach oben und 12°nach unten
 - EINFACHE INSTALLATION: Diese schwenkbare TV-Wandhalterung ist mit den mitgelieferten Montagematerialien einfach zu installieren
 - HOCHWERTIGE TV WANDHALTERUNG: Höhe Qualität geeignet für Samsung, LG, Panasonic, Sony, Philips, Grundig, Telefunken, TCL, Hisense, Sharp, Metz, AOC, Changhong, Toshiba, Haier
-- UNIVERSELLE KOMPATIBILITÄT: Geeignet für LCD, LED, QLED und OLED Fernseher mit einer Diagonalen Zollgröße von: 32"/81cm, 37"/94cm, 40"/102cm, 43"/109cm, 49"/125cm, 50"/127cm und 55"/140cm..
-- VESA LÖCHER: Diese universelle TV Wandhalterung ist geeignet für Standard VESA-löcher: 100x100, 200x100, 200x200, 300x300, 400x200, 400x300 und 400x400
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08GQ6N2SZ{{</world>}}

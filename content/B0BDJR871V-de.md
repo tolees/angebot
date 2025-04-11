@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinomodus jetzt in 4K Dolby Vision mit bis zu 30 fps
-- Wichtige Sicherheitsfeatures – Notruf SOS über Satellit und Unfallerkennung
-- Action Modus für ruckelfreie, handgefilmte Videos
-- Batterielaufzeit für den ganzen Tag und bis zu 26 Std. Videowiedergabe
-- A15 Bionic Chip mit 5-Core GPU für superschnelle Performance. Superschneller 5G Mobilfunk.
-- iOS 16 gibt dir noch mehr Möglichkeiten zum Personalisieren, Kommunizieren und Teilen
-- Fortschrittliches Kamera-System für bessere Fotos bei jedem Licht
 - Branchenführende Features für Langlebigkeit wie Ceramic Shield und Wasserschutz
+- A15 Bionic Chip mit 5-Core GPU für superschnelle Performance. Superschneller 5G Mobilfunk.
+- Action Modus für ruckelfreie, handgefilmte Videos
+- Kinomodus jetzt in 4K Dolby Vision mit bis zu 30 fps
 - 6,7" Super Retina XDR Display
+- iOS 16 gibt dir noch mehr Möglichkeiten zum Personalisieren, Kommunizieren und Teilen
+- Batterielaufzeit für den ganzen Tag und bis zu 26 Std. Videowiedergabe
+- Fortschrittliches Kamera-System für bessere Fotos bei jedem Licht
+- Wichtige Sicherheitsfeatures – Notruf SOS über Satellit und Unfallerkennung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BDJR871V{{</world>}}

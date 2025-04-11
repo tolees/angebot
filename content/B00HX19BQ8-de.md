@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6er Schutzkontakt-Steckdosenleiste mit 3m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
-- Mehrfachstecker mit Aufhänge-Vorrichtung zur Wandmontage und praktischer Kabelaufnahme
-- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
-- Stabile, schlichte Steckerleiste aus hochbruchfestem Spezial-Kunststoff
 - Die Schutzkontakt-Steckdosen sind in 45° angeordnet, sodass diese auch für Winkelstecker geeignet sind
+- Mehrfachstecker mit Aufhänge-Vorrichtung zur Wandmontage und praktischer Kabelaufnahme
+- 6er Schutzkontakt-Steckdosenleiste mit 3m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
+- Stabile, schlichte Steckerleiste aus hochbruchfestem Spezial-Kunststoff
+- Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00HX19BQ8{{</world>}}

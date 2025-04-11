@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nur für Cricut Maker
 - Enthält QuickSwap-Gehäuse für den einfachen Werkzeugaustausch
+- Nur für Cricut Maker
 - Erzeugt besonders tiefe Linien für perfekte Falze und ein makelloses Ergebnis mit dicken und dünnen Materialien
 - Kreiere räumliche Anhänger, Karten, Geschenkschachteln, 3D-Heimdekoration und mehr
 

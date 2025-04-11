@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompaktes Design – Die kompakte Bauform (Kopflänge: 61 mm) ermöglicht Arbeiten an besonders engen Stellen
-- Einfache Bedienbarkeit – Der GFA 12-W kann in 16 verschiedenen Positionen (360°) arretiert werden, ohne den Aufsatz vom Akkuschrauber abnehmen zu müssen
 - Hohe Flexibilität – Der GFA 12-W verwandelt den Akkuschrauber in einen Winkelbohrschrauber
-- Kompatibel mit GSR 12V-15 FC (0 601 9F6 ...)
+- Einfache Bedienbarkeit – Der GFA 12-W kann in 16 verschiedenen Positionen (360°) arretiert werden, ohne den Aufsatz vom Akkuschrauber abnehmen zu müssen
+- Kompaktes Design – Die kompakte Bauform (Kopflänge: 61 mm) ermöglicht Arbeiten an besonders engen Stellen
 - Lieferumfang: GFA 12-W, Karton
+- Kompatibel mit GSR 12V-15 FC (0 601 9F6 ...)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06WP4N51F{{</world>}}

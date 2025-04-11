@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Steuerbar und dimmbar über Fernbedienung (exklusive) oder via Bluetooth mit kostenloser AwoX Smart Control App. Funktionen via App einstellbar: Timer, Nachtlicht, Dämmerungssimulation, Anwesenheitssimulation, Disko-Funktion. Smart Home: Unsere Produkte kommunizieren miteinander und bilden ein geschütztes, intelligentes, erweiterbares Netzwerk (Mesh Technologie)
 - Gruppenbildung: Wohnbereiche können in Gruppen zusammengefasst werden um Leuchten gleichzeitig zu steuern. Away from Home control über WLAN Steuerung, mit Sprachbefehl Amazon Alexa (Echo, Echo Dot) und Google Home - der EGLO Plug Plus (separat erhältlich) wird dafür benötigt
-- Die energiesparenden LEDs spenden angenehmes Licht (10,5 Watt, 1200 Lumen); Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse F; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 - Abmessungen: Einbautiefe: 3 cm, Durchmesser: 17 cm
+- Die energiesparenden LEDs spenden angenehmes Licht (10,5 Watt, 1200 Lumen); Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse F; Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 - Einfach, intelligent & sicher: Wählen Sie stufenlos aus über 16 Millionen RGB Farben und 50.000 Weißtönen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

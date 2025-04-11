@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hindere andere daran schneller zu sein als Du!
-- Für bis zu 6 Spieler*innen ab 8 Jahre
 - Neuartiges Spielsystem mit wanderndem Zielturm
-- Ein hinreißendes Familienspiel
 - Von dem Erfolgsautorenteam Wolfgang Kramer & Michael Kiesling
+- Hindere andere daran schneller zu sein als Du!
+- Ein hinreißendes Familienspiel
+- Für bis zu 6 Spieler*innen ab 8 Jahre
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0876W9FMK{{</world>}}

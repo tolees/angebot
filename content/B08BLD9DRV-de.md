@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leder: suede
-- Obermaterial: leder - suede
-- Verschluss: gummi
-- Schuhweite: medium
 - Lining: textil
 - Absatzhhe: 20 cm
-- Innenmaterial: synthetik
-- Material: siehe beschreibung
 - Absatzform: kein absatz
+- Obermaterial: leder - suede
+- Schuhweite: medium
+- Material: siehe beschreibung
+- Verschluss: gummi
+- Innenmaterial: synthetik
+- Leder: suede
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08BLD9DRV{{</world>}}

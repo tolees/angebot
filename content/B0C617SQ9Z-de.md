@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entdecke ein wiedergeborenes Mortal Kombat-Universum, erschaffen vom Feuergott Liu Kang. Mortal Kombat 1 stellt eine neue Ära der ikonischen Serie vor
+- Wähle aus einer einzigartigen Liste deine Kameo-Kampfpartner:innen aus, die dich im Kampf unterstützen
 - Mit einem neuen Kampfsystem, Spielmodi und Fatalities
 - Kämpfe dich durch eine brandneue Geschichte mit deinen liebsten Mortal Kombat-Charakteren, wie du sie noch nie zuvor gesehen hast
 - Kein Beta-Zugang für Ihre Vorbestellung
-- Wähle aus einer einzigartigen Liste deine Kameo-Kampfpartner:innen aus, die dich im Kampf unterstützen
+- Entdecke ein wiedergeborenes Mortal Kombat-Universum, erschaffen vom Feuergott Liu Kang. Mortal Kombat 1 stellt eine neue Ära der ikonischen Serie vor
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C617SQ9Z{{</world>}}

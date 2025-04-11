@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Füllung wird nicht mit geliefert (Bohnen, Reis, Gelkissen o. Ä. möglich)
 - 5 Jahre Herstellergarantie: https://www.kalahari.de/kalahari-shop/garantie
-- ideales Hilfsmittel in der Fotografie: weiche Kameraauflage, stabilisiert bei langen Belichtungszeiten
-- robustes, rutschsicheres und abwaschbares Material
 - bei Teleobjektiven kann das Kissen direkt mit Klett befestigt werden
+- robustes, rutschsicheres und abwaschbares Material
+- Füllung wird nicht mit geliefert (Bohnen, Reis, Gelkissen o. Ä. möglich)
+- ideales Hilfsmittel in der Fotografie: weiche Kameraauflage, stabilisiert bei langen Belichtungszeiten
 - Größe: 260x210x30mm
 
 [🛒 Hier!!]({{< param buyurl >}})

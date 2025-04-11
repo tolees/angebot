@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Handgriffe mit Soft-Grip für bequemen Transport
-- Der TW1000 misst 770 x 460 x 970 mm bei einem Nettogewicht von 66 kg
-- 7 große und leichtgängige Schubladen (Schubladen 5,6,7 sind leer)
-- Ausstanzungen für zusätzliche Lagermöglichkeiten
-- Große Ablagefläche auf dem Werkstattwagen
 - Große, leichtgängige Räder mit Sperrfunktion
+- 7 große und leichtgängige Schubladen (Schubladen 5,6,7 sind leer)
+- Der TW1000 misst 770 x 460 x 970 mm bei einem Nettogewicht von 66 kg
+- Große Ablagefläche auf dem Werkstattwagen
+- Handgriffe mit Soft-Grip für bequemen Transport
+- Ausstanzungen für zusätzliche Lagermöglichkeiten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SDGMKWS{{</world>}}

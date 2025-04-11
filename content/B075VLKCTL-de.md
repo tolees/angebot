@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für hohe Verschleißfestigkeit mit hochwertigem Carbide-Korn der Körnung 100 besetzt
+- Schleifteller Starlock MAVZ 116 RT10 Carbide RIFF für besonders hohe Lebensdauer bei Mörtel und Fliesenkleber
 - Made in Switzerland
 - Offener Carbide-Besatz für aggressiven Metallabtrag ohne Zusetzen
 - Besonders hohe Lebensdauer bei Mörtel und Fugenmörtel
-- Schleifteller Starlock MAVZ 116 RT10 Carbide RIFF für besonders hohe Lebensdauer bei Mörtel und Fliesenkleber
 - Das besonders große Blatt in Deltaform erreicht schwer zugängliche Ecken und schleift große Flächen
+- Für hohe Verschleißfestigkeit mit hochwertigem Carbide-Korn der Körnung 100 besetzt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075VLKCTL{{</world>}}

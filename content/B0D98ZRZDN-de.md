@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Rundhalsausschnitt mit Rippblende
+- softe Haptik
 - Label Patch am linken Ärmel
 - gestreiftes Necktape
-- softe Haptik
 - Photoprint vorne, kleiner Logo Print hinten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

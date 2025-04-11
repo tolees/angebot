@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- STAR WARS: OBI-WAN KENOBI: Diese Action-Figuren von NED-B & einem Aufräumtruppler sind inspiriert von der Live-Action-Serie Obi-Wan Kenobi auf Disney+ und eignen sich hervorragend als Geschenk für Star Wars Sammler und Fans ab 4 Jahren
 - EINE GALAXIS MIT SAMMELFIGUREN: Mit den von der Serie inspirierten Figuren aus der Star Wars The Black Series lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- DESIGN MIT CARBON-OPTIK: Die Action-Figuren in diesem Black Series 2er-Pack sind mit einem eleganten Metallic-Finish für Premium-Figuren versehen, das in jeder Star Wars Fankollektion besonders auffällt
 - VON DER SERIE INSPIRIERTE ACCESSOIRES: Dieser Sammelfiguren 2er-Pack aus der Star Wars The Black Series enthält 4 Accessoires
 - PREMIUM-DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diesen 2er-Pack mit vollbeweglichen Action-Figuren (Skala: 15 cm) im Premium-Look in ihren Kollektionen präsentieren
-- STAR WARS: OBI-WAN KENOBI: Diese Action-Figuren von NED-B & einem Aufräumtruppler sind inspiriert von der Live-Action-Serie Obi-Wan Kenobi auf Disney+ und eignen sich hervorragend als Geschenk für Star Wars Sammler und Fans ab 4 Jahren
-- DESIGN MIT CARBON-OPTIK: Die Action-Figuren in diesem Black Series 2er-Pack sind mit einem eleganten Metallic-Finish für Premium-Figuren versehen, das in jeder Star Wars Fankollektion besonders auffällt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BNKMJHS6{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H) 10.3 x 9.50 x 3.9 cm
-- Ausgang Kabel
-- Farbe Glänzend
-- Geräte, vormontiert
 - Hinweis Das Produkt wird "vormontiert" ohne Kralle verkauft
+- Farbe Glänzend
+- Ausgang Kabel
+- Geräte, vormontiert
+- Verpackungsabmessungen (L x B x H) 10.3 x 9.50 x 3.9 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00GY47QUS{{</world>}}

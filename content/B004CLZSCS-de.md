@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auf allen Seiten bearbeite
-- Ideal für allgemeine Arbeite
 - Mit Anschla
+- Ideal für allgemeine Arbeite
+- Auf allen Seiten bearbeite
 - Stahl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

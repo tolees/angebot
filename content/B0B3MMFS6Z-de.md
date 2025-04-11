@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Old-School-Gameplay mit super-frischen Mechaniken
-- Herrliche vollfarbige Pixelgrafik
-- Bis zu vier Spieler gleichzeitig
-- Spiele mit kultigen TMNT-Charakteren und -Fahrzeugen in verschiedenen Gameplay-Optionen
 - Das krasse Spieldesign versetzt dich zurück in die 80er Jahre
+- Spiele mit kultigen TMNT-Charakteren und -Fahrzeugen in verschiedenen Gameplay-Optionen
+- Bis zu vier Spieler gleichzeitig
+- Herrliche vollfarbige Pixelgrafik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B3MMFS6Z{{</world>}}

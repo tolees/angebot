@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kann mit den Bettlaken oder Spannbettüchern der Amazon Basics Mikrofaser-Kollektion kombiniert werden
 - Ein Amazon Basics Mikrofaser-Bettbezug (200 x 200 cm) und zwei Mikrofaser-Kopfkissenbezüge (80 x 80 cm).
-- Größe: Bettdeckenbezug - 200 x 200 cm, Kissenbezüge - 2 Stück je 80 x 80 cm
 - Große Auswahl an Farben, Größen und Mustern verfügbar
+- Größe: Bettdeckenbezug - 200 x 200 cm, Kissenbezüge - 2 Stück je 80 x 80 cm
+- Kann mit den Bettlaken oder Spannbettüchern der Amazon Basics Mikrofaser-Kollektion kombiniert werden
 - Hergestellt aus 100% leichter (85 g/m²) Polyester-Mikrofaser für außergewöhnliche Weichheit
 - Pflegeleicht: Maschinenwaschbar bei 40°C, nicht bleichen, auf niedriger Stufe trocknen
 - Weiches und atmungsaktives Material; verdeckte Knopfleiste zum Befestigen an der Bettdecke; Kissenbezug mit Lasche

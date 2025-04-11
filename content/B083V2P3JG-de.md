@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Accessoire image & son
 - SONY
+- Accessoire image & son
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083V2P3JG{{</world>}}

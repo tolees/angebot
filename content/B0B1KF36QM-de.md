@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Soft-Start für weiches Anlaufen
 - Zweistufig einstellbare Griffhöhe
 - Durch eine elektronische Steuerung liefert der bürstenlose Motor eine verlängerte Akku-Laufzeit
+- Soft-Start für weiches Anlaufen
 - Erhöhte Grasaufnahme
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

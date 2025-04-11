@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- SST-SX1000-LPT
 - Zubehör
 - Silverstone SX1000 unité dalimentation dénergie 1000 W 24-pin ATX SFX-L Noir
-- SST-SX1000-LPT
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QD8RTNN{{</world>}}

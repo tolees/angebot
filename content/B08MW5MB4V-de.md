@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schwinge Bazillionen von Waffen im preisgekrönten Borderlands 3-Wahnsinn
 - Ballere dich als einer von vier Kammer-Jägern – die ultimativen schatzsuchenden Badasses der Borderlands – durch das Universum
+- Schwinge Bazillionen von Waffen im preisgekrönten Borderlands 3-Wahnsinn
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08MW5MB4V{{</world>}}

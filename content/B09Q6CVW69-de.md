@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INTEGRIERTER USB-C-ANSCHLUSS: Verzichte auf sperrige Netzteile und nutze ein einziges Kabel zum schnellen Aufladen deines Laptops mit dem integrierten USB-C-Anschluss. Außerdem ist er mit einer Vielzahl anderer Geräte kompatibel.
 - 5 ANSCHLÜSSE FÜR MEHR LADEKOMFORT: Auf deinen Wochenendtrips kannst du bis zu 5 Geräte gleichzeitig aufladen. Die Powerstation verfügt über eine 230V Steckdose, 2 USB-A Anschlüsse, einen USB-C Anschluss und eine Kfz-Steckdose.
-- VERBESSERTE 600W LEISTUNG: Betreibe selbst energieintensive Geräte wie Heizstäbe oder Wasserkocher für deinen Tee. Die Anker 521 Tragbare Powerstation mit SurgePad liefert deinen Geräten eine Leistung von bis zu 600W.
-- 10 JAHRE VERLÄSSLICHE ENERGIE: Die Anker 521 Tragbare Powerstation ist so gebaut, dass sie selbst bei täglichem Gebrauch dank unserer InfiniPower-Technologie über ein Jahrzehnt hält. InfiniPower kombiniert LiFePO4-Akkus mit extrem langlebiger Elektronik, einem Kontrollsystem, das die Temperatur bis zu 100 Mal pro Sekunde überwacht, und einem stoßfesten Gehäuse.
+- INTEGRIERTER USB-C-ANSCHLUSS: Verzichte auf sperrige Netzteile und nutze ein einziges Kabel zum schnellen Aufladen deines Laptops mit dem integrierten USB-C-Anschluss. Außerdem ist er mit einer Vielzahl anderer Geräte kompatibel.
 - 256WH KAPAZITÄT FÜR WOCHENENDTRIPS: Wenn du übers Wochenende wegfährst, nimm die Anker 521 Tragbare Powerstation mit, um deine Geräte und Kleingeräte mit bis zu 256Wh problemlos unterwegs aufzuladen.
+- 10 JAHRE VERLÄSSLICHE ENERGIE: Die Anker 521 Tragbare Powerstation ist so gebaut, dass sie selbst bei täglichem Gebrauch dank unserer InfiniPower-Technologie über ein Jahrzehnt hält. InfiniPower kombiniert LiFePO4-Akkus mit extrem langlebiger Elektronik, einem Kontrollsystem, das die Temperatur bis zu 100 Mal pro Sekunde überwacht, und einem stoßfesten Gehäuse.
+- VERBESSERTE 600W LEISTUNG: Betreibe selbst energieintensive Geräte wie Heizstäbe oder Wasserkocher für deinen Tee. Die Anker 521 Tragbare Powerstation mit SurgePad liefert deinen Geräten eine Leistung von bis zu 600W.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Q6CVW69{{</world>}}

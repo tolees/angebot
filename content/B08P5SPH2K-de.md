@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp : Hose mit weitem Beinschnitt
 - Taille : Hohe Taille
+- Produkttyp : Hose mit weitem Beinschnitt
 - Taschen : Seitentaschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

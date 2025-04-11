@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewicht: federleichte 5 g; Abmessungen: 12 x 32 x 5 mm
 - Dank der USB 3.2 Gen 1x1 Schnittstelle werden Übertragungsraten von bis zu 100 MB/s erreicht
 - Lieferumfang: Intenso USB-Stick Premium Line 64 GB
-- Super Speed 3.2 Gen 1x1 USB-A (abwärtskompatibel) - Zur Anwendung des 3.2 Standards wird 3.x fähige Hardware benötigt
 - Edel und robustes Aluminiumgehäuse
+- Super Speed 3.2 Gen 1x1 USB-A (abwärtskompatibel) - Zur Anwendung des 3.2 Standards wird 3.x fähige Hardware benötigt
+- Gewicht: federleichte 5 g; Abmessungen: 12 x 32 x 5 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00M2X5TWW{{</world>}}

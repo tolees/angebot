@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Ärmelbündchen und Saum gerippt
 - Kängurutasche als praktische Aufbewahrungslösung
+- Normale Passform
 - Mit Jersey gefütterte Kapuze mit Zugband für individuellen Komfort
 - Aus recycelten Materialien: hergestellt aus Recyclingfasern für einen geringeren ökologischen Footprint
-- Normale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08SK4N48Z{{</world>}}

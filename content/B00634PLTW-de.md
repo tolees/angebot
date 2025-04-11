@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang- TL-MR3020,Schnellinstallationsanleitung,USB-Kabel,CD,Ethernetkabel
-- Kompaktes Design, ideal zum Mitnehmen. Stellen Sie mehreren Benutzern einen 3G,4G-Internetzugang zur Verfügung, wo immer Sie Netzabdeckung haben
+- Hinweis: In dieses Produkt kann eine SIM-Karte nicht direkt eingesetzt werden
 - WLAN-Datenraten bis zu 300Mbps
 - Gemeinsame Nutzung einer 3G,4G-Verbindung, kompatibel zu über 120 UMTS/HSPA/EVDO-3G-USB-Modems, im Feldversuch getestet
+- Lieferumfang- TL-MR3020,Schnellinstallationsanleitung,USB-Kabel,CD,Ethernetkabel
 - Betriebsarten- 3G,4G-Router, WISP-Client-Router und Accesspoint; Für den Internetzugang über eine SIM-Karte verwenden Sie bitte TP-Link M7350
-- Hinweis: In dieses Produkt kann eine SIM-Karte nicht direkt eingesetzt werden
+- Kompaktes Design, ideal zum Mitnehmen. Stellen Sie mehreren Benutzern einen 3G,4G-Internetzugang zur Verfügung, wo immer Sie Netzabdeckung haben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00634PLTW{{</world>}}

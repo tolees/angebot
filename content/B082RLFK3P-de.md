@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Elastischer Bund mit innen liegendem Zugband
 - Gesticktes PUMA Cat Logo auf dem linken Bein
 - 2 Reißverschlusstaschen an den Seiten
 - Slim Fit
-- Elastischer Bund mit innen liegendem Zugband
 - Rippbündchen am Ärmel
 
 [🛒 Hier!!]({{< param buyurl >}})

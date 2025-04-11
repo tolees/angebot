@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die Serie Fitness Boxing ist ein Boxtrainings-Spiel, bei dem die Spieler mit den Joy-Con unterschiedliche Schläge ausführen kannst
 - Inkl. Fist of the North Star-Klassiker wie AIO TORIMODOSE!!, TOUGH BOY, YURIA EIENNI und SILENT SURVIVOR, plus auch Original-Songs
-- Beliebte Fitness Boxing-Funktionen bleiben unverändert, um dich zum Training zu Hause zu motivieren
 - Die Outfits der Charaktere können je nach Stimmung geändert werden, viele Original-Outfits sind mit dabei
+- Beliebte Fitness Boxing-Funktionen bleiben unverändert, um dich zum Training zu Hause zu motivieren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CGXMP7YH{{</world>}}

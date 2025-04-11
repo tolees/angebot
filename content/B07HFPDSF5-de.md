@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Gleitbelag – Die Führungsschiene ist mit einem Gleitbelag ausgestattet, die für einen angenehmen, leichten Lauf der Säge über die Schiene sorgt
 - Gerade Schnitte – Ein Verbindungselement stellt sicher, dass die beiden Schienenteile exakt gerade bleiben, was saubere, Geradschnitte wie auch Winkelschnitte ermöglicht
-- Robuste Konstruktion – Die Führungsschienen sind aus robustem, aber leichtem Aluminium gefertigt und verfügen über Haftbänder für eine rutschfeste Unterseite
 - Saubere Schnittkanten – Der in der Führungsschiene integrierte Splitterschutz sorgt für saubere Schnittkanten und vermeiden ein Ausfransen des Werkstücks
 - Handkreissägen-Zubehör – Die Original Einhell Führungsschiene ist ein passendes Zubehör für alle Einhell Handkreissägen und Tauchsägen; die beiden Teile der Schiene sind 100 cm lang
+- Robuste Konstruktion – Die Führungsschienen sind aus robustem, aber leichtem Aluminium gefertigt und verfügen über Haftbänder für eine rutschfeste Unterseite
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07HFPDSF5{{</world>}}

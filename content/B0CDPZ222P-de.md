@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LÄSST DAS FELL IHRES VIERBEINERS GLÄNZEN – wertvolle Zutaten unterstützen eine gesunde Haut und schönes, glänzendes Fell
+- KONTROLLIERTE & HOCHWERTIGE ZUTATEN – ohne den Zusatz von Weizen, Soja und Zucker sowie künstlichen Farb- und Aromastoffen
 - NUR LAMM UND REIS – Lammfleisch als einzige tierische Proteinquelle und Reis als einzige Kohlenhydratquelle. Sehr bekömmlich, glutenfrei und ganz ohne Mais
 - MADE IN GERMANY & OHNE TIERVERSUCHE – Herstellung durch ein mittelständisches Familienunternehmen in Deutschland
-- KONTROLLIERTE & HOCHWERTIGE ZUTATEN – ohne den Zusatz von Weizen, Soja und Zucker sowie künstlichen Farb- und Aromastoffen
 - FÜR WENIG ODER NORMAL AKTIVE HUNDE – leichte Kost für Hunde mit einem geringen oder normalen Energiebedarf
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Universelle Aufbewahrung und schneller Zugriff auf jede Art von Ausrüstung durch ein geräumiges offenes Fach
-- Sicherer Transport dank Verrastung mit i-BOXX rack und LS-BOXX
-- Flexibles und geordnetes Aufbewahren im Bosch Mobility System
 - Kompatibilität mit dem i-BOXX rack und der LS-BOXX für höchste Flexibilität
 - Lieferumfang: Schublade LS-Tray 72
+- Sicherer Transport dank Verrastung mit i-BOXX rack und LS-BOXX
+- Universelle Aufbewahrung und schneller Zugriff auf jede Art von Ausrüstung durch ein geräumiges offenes Fach
+- Flexibles und geordnetes Aufbewahren im Bosch Mobility System
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00OHODYJO{{</world>}}

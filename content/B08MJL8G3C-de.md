@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 💡【Funktioniert als Signalübertragungsstation】Ist es oft Offline, weil es eine große Entfernung zwischen Ihrem Gerät und dem Router gibt? ZBMINI kann ein ZigBee-Router sein, um das Signal zwischen den Geräten zu übertragen.
-- 💡【ZigBee3.0 Protokoll】Der SONOFF ZBMINI Zigbee-Smart-Schalter muss mit ZigBee Hub (erforderlich) arbeiten. Kompatibel mit SONOFF ZBBridge, Amazon Hub, Samsung SmartThings Hub und Philips Hue Bridge. ZigBee3.0-Protokoll mit AES-128-Verschlüsselung schützt die Sicherheit der Gerätedaten.
-- 💡【Certified for Humans】 - Kampffrei, bastelfrei, stressfrei. Keine Geduld erforderlich – es ist eigentlich ganz einfach.Nahtlose Kompatibilität mit Alexa und Google Home, die das Ein- und
-- 💡【2-Wege-Steuerung】Abgesehen von der APP-Steuerung kann der zigbee MINI-Lichtschalter auch ein Paar von 2-Wege-Wipp-Lichtschaltern verbinden, um das Licht im Erdgeschoss vom Obergeschoss aus ein-/auszuschalten.
 - 💡【Minigehäuse, riesige Leistung】Egal welche Art Anschlussdose Sie verwenden, kann der Schalter darin installiert werden, um Ihren Wandschalter intelligenter zu machen.
+- 💡【ZigBee3.0 Protokoll】Der SONOFF ZBMINI Zigbee-Smart-Schalter muss mit ZigBee Hub (erforderlich) arbeiten. Kompatibel mit SONOFF ZBBridge, Amazon Hub, Samsung SmartThings Hub und Philips Hue Bridge. ZigBee3.0-Protokoll mit AES-128-Verschlüsselung schützt die Sicherheit der Gerätedaten.
+- 💡【2-Wege-Steuerung】Abgesehen von der APP-Steuerung kann der zigbee MINI-Lichtschalter auch ein Paar von 2-Wege-Wipp-Lichtschaltern verbinden, um das Licht im Erdgeschoss vom Obergeschoss aus ein-/auszuschalten.
+- 💡【Certified for Humans】 - Kampffrei, bastelfrei, stressfrei. Keine Geduld erforderlich – es ist eigentlich ganz einfach.Nahtlose Kompatibilität mit Alexa und Google Home, die das Ein- und
+- 💡【Funktioniert als Signalübertragungsstation】Ist es oft Offline, weil es eine große Entfernung zwischen Ihrem Gerät und dem Router gibt? ZBMINI kann ein ZigBee-Router sein, um das Signal zwischen den Geräten zu übertragen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08MJL8G3C{{</world>}}

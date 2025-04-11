@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibel: Der Dremel Akku ist passend für das Dremel 8260 Akku-Multifunktionswerkzeug
 - Lieferumfang: 1x Dremel 12V3 Lithium-Ionen-Akku
 - Technische Daten: Leistung: 3.0Ah Li-Ion, Spannung: max.12 Volt
-- Kein Memory-Effekt: Laden sie Ihren Akku immer dann auf wenn es Ihnen passt - unabhängig vom aktuellen Ladzustand Ihres Multifunktionswerkzeuges
 - Keine Selbstentladung: Das entladen des Akkus wird verhindert auch wenn Ihr Multifunktionswerkzeug nich an eine Stromquelle angeschlossen ist
+- Kein Memory-Effekt: Laden sie Ihren Akku immer dann auf wenn es Ihnen passt - unabhängig vom aktuellen Ladzustand Ihres Multifunktionswerkzeuges
+- Kompatibel: Der Dremel Akku ist passend für das Dremel 8260 Akku-Multifunktionswerkzeug
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09MKNJLL7{{</world>}}

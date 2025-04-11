@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompakte Nutzung, passt einfach in die Tasche und ermöglicht Dank des gummierten bi-Material Gehäuses einen sicheren Griff
 - Laserentfernungsmesser für einfache Messaufgaben mit Ein-Knopf-Klick-Messung
+- Kompakte Nutzung, passt einfach in die Tasche und ermöglicht Dank des gummierten bi-Material Gehäuses einen sicheren Griff
 - Schwarzes Display mit weißer Schrift, für besser Sichtbarkeit in ungünstigen Lichtverhältnissen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

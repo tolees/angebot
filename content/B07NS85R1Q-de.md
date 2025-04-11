@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Auf Glas oder metallischen Oberflächen arbeiten
+- Kompatibilität: mit allen Multiwerkzeugen von Dremel kompatibel
 - Das Dremel Glas Radierung Set für kreative und vielseitige Projekte und Gravur Geschenke
 - Lieferumfang: 4x Schleifstein aus Siliziumkarbid, 4x Diamantradspitze
 - Radierungen und Gravuren erstellen mit 8 unterschiedlichen Aufsätzen
-- Kompatibilität: mit allen Multiwerkzeugen von Dremel kompatibel
-- Auf Glas oder metallischen Oberflächen arbeiten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07NS85R1Q{{</world>}}

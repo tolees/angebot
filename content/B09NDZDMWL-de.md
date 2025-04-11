@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weitere Funktionen: Seilhalterung, Eisaxt-/ Wanderstockhalterung, Trinksystemvorbereitung, seitliche Einstecktaschen, mehrere Materialschlaufen, Lastkontrollriemen, Deckelfach mit wasserdichtem Reißverschluss, seitliche Kompressionsriemen;
-- Helmtasche: Auf der Front des Bergrucksacks befindet sich eine elastische Tasche für Helm, Seil, Jacke oder sonstige Ausrüstung
-- Funktionaler und leichter Kletterrucksack für Damen mit 38 Liter Fassungsvermögen und direktem Zugang ins Hauptfach
-- Hüftflosse mit Reißverschlussfach: Der Beckengurt verfügt über eine Tasche mit wasserfestem Reißverschluss, in der du Smartphone, Müsli-Riegel oder sonstige Kleinteile verstauen kannst
-- Details: Abmessungen: 62 x 31 x 16 cm // Gewicht: 1,58 kg // Volumen: 38 Liter // Rückensystem: Thermo Mold // Material: T-DIA Rip (93% Polyamid, 7% Polyethylen), CORDURA 500 den (100% Polyamid)
 - RECCO-Notfall-Reflektor: Der am Deckel angebrachte RECCO-Reflektor ermöglicht Rettungsorganisationen (z. B. Bergwacht) dich im Unglücksfall schnell orten zu können - er ist leicht, wartungsfrei und funktioniert ohne Akku und Mobilfunknetz
+- Funktionaler und leichter Kletterrucksack für Damen mit 38 Liter Fassungsvermögen und direktem Zugang ins Hauptfach
 - Geeignet für Klettern und Klettersteig, mehrtägige Wanderungen, Hüttentouren, kurze Trekkingtouren mit wenig Gepäck;
-- FAIR PRODUZIERT: Produkte der deutschen Marke Tatonka werden in den firmeneigenen Produktionsstätten hergestellt - fair, sozial und transparent
-- Abnehmbarer Hüftgurt: Um deinen Klettergurt bequem anlegen zu können, kannst du den Bauchgurt des Alpinrucksacks entfernen
 - Mit speziell geformten Schultergurten, die an der Brust vorbeiführen und daher im Brustbereich nicht drücken
+- Helmtasche: Auf der Front des Bergrucksacks befindet sich eine elastische Tasche für Helm, Seil, Jacke oder sonstige Ausrüstung
+- Details: Abmessungen: 62 x 31 x 16 cm // Gewicht: 1,58 kg // Volumen: 38 Liter // Rückensystem: Thermo Mold // Material: T-DIA Rip (93% Polyamid, 7% Polyethylen), CORDURA 500 den (100% Polyamid)
+- Abnehmbarer Hüftgurt: Um deinen Klettergurt bequem anlegen zu können, kannst du den Bauchgurt des Alpinrucksacks entfernen
+- Hüftflosse mit Reißverschlussfach: Der Beckengurt verfügt über eine Tasche mit wasserfestem Reißverschluss, in der du Smartphone, Müsli-Riegel oder sonstige Kleinteile verstauen kannst
+- Weitere Funktionen: Seilhalterung, Eisaxt-/ Wanderstockhalterung, Trinksystemvorbereitung, seitliche Einstecktaschen, mehrere Materialschlaufen, Lastkontrollriemen, Deckelfach mit wasserdichtem Reißverschluss, seitliche Kompressionsriemen;
+- FAIR PRODUZIERT: Produkte der deutschen Marke Tatonka werden in den firmeneigenen Produktionsstätten hergestellt - fair, sozial und transparent
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NDZDMWL{{</world>}}

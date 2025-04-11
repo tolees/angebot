@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schriftcharakter nach DIN 1451
 - Robustheit
 - Größe 12mm
+- Schriftcharakter nach DIN 1451
 - Flexible Gestaltung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: Intenso Ultra Line USB-A Speicherstick mit 32GB Kapazität
-- Hochwertiges Aluminiumgehäuse
 - Dank der USB 3.2 Gen 1x1 Schnittstelle werden Übertragungsraten von bis zu 70 MB/s erreicht
-- Gewicht: 6 g; Abmessungen: 59 x 17 x 7 mm
 - Zur Anwendung des USB 3.2 Standards wird 3.x fähige Hardware benötigt
+- Hochwertiges Aluminiumgehäuse
+- Gewicht: 6 g; Abmessungen: 59 x 17 x 7 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008IEC2GA{{</world>}}

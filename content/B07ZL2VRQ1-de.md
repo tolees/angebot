@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inklusive Mikrofon-Halterungen im Lieferumfang
 - Einfach zu halten
 - Leichte Bauweise & kompakte Grösse
-- Anpassbare Kamerabefestigung. Kompatibilität mit: PowerShot G5 X Mark II; PowerShot G7 X Mark III¹ ³; EOS M200¹ ³; EOS M50¹ ²; EOS M6 Mark II¹ ²
 - Abnehmbar, kabellos und Bluetooth-fähig: die Fernbedienung BR-E13
+- Anpassbare Kamerabefestigung. Kompatibilität mit: PowerShot G5 X Mark II; PowerShot G7 X Mark III¹ ³; EOS M200¹ ³; EOS M50¹ ²; EOS M6 Mark II¹ ²
+- Inklusive Mikrofon-Halterungen im Lieferumfang
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZL2VRQ1{{</world>}}

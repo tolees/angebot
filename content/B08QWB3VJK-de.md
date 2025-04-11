@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GewebeArt: 57 Prozent Baumwolle; 43 Prozent Polyester
-- Packung die Größe: 3.6 L x 27.6 H x 14.9 W cm
-- Fußball
 - Einfarbig
+- Fußball
+- Packung die Größe: 3.6 L x 27.6 H x 14.9 W cm
+- GewebeArt: 57 Prozent Baumwolle; 43 Prozent Polyester
 - Erwachsener
 
 [🛒 Hier!!]({{< param buyurl >}})

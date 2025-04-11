@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Individuell anpassbare Ausleuchtung durch Boost Modus mit bis zu 1000 Lumen, stufenlosem Schwenk-Mechanismus zur Ausrichtung sowie einhändige und intuitive Fokussierung des Lichtkegels für Nah- und Fernlicht
-- Innovatives Mounting System ermöglicht einfaches Abnehmen und Aufsetzen des Lampenkopfes für maximale Flexibilität
-- Multi-color LED in den Farben Rot, Grün und Blau zur Verwendung beim Angeln oder Jagen
 - Keine lästigen Blendeffekte: die Optisense Technology sorgt für eine automatische Anpassung der Leuchtstärke an die Lichtverhältnisse unter Berücksichtigung des reflektierten Eigenlichts und vermeidet unangenehmes Blenden
+- Multi-color LED in den Farben Rot, Grün und Blau zur Verwendung beim Angeln oder Jagen
 - Leistungsstarke Outdoor Stirnlampe mit Smartphone-Verbindung via Bluetooth für personalisierte Einstellungen wie Timer, SOS-Notsignal etc. in der Ledlenser Connect App
+- Innovatives Mounting System ermöglicht einfaches Abnehmen und Aufsetzen des Lampenkopfes für maximale Flexibilität
+- Individuell anpassbare Ausleuchtung durch Boost Modus mit bis zu 1000 Lumen, stufenlosem Schwenk-Mechanismus zur Ausrichtung sowie einhändige und intuitive Fokussierung des Lichtkegels für Nah- und Fernlicht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07P6CK25C{{</world>}}

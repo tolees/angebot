@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hervorragende Lichtechtheit, brillante Farben und starke Leucht- und Deckkraft
 - Pastellkreidestift mit trockenem, staubigem Abstrich wie bei Holz- oder Zeichenkohle
-- Erhältlich in 60 Farben
+- Hervorragende Lichtechtheit, brillante Farben und starke Leucht- und Deckkraft
 - Trocken misch- und wischbar
 - Minendurchmesser: 4,4 mm
+- Erhältlich in 60 Farben
 - Teilvermalbar: Konturen bleiben sichtbar
 
 [🛒 Hier!!]({{< param buyurl >}})

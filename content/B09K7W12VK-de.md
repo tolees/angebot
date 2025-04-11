@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 41 dB, Energieeffizienz D, 247 kWh / Jahr
+- LED Display, LED-Beleuchtung
 - 2 FreshZone Schubfächer, Flaschenablage, Gemüseschubfach
 - Gerätemaße in cm (B x H x T): 91 × 178,6 × 64,3
-- LED Display, LED-Beleuchtung
-- Türalarm, Schnelles Einfrieren
-- 41 dB, Energieeffizienz D, 247 kWh / Jahr
 - Eierfach, Kühlzone 334 Liter, Gefrierzone 185 Liter
+- Türalarm, Schnelles Einfrieren
 - Multiflow 360° - Multi 3D Luftzirkulation, Inverter-Kompressor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

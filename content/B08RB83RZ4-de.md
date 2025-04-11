@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wi-Fi 6 mit 2.400 MBit/s (5 GHz) und 600 MBit/s (2,4 GHz) für stabile Gigabit-Geschwindigkeiten bei einer Vielzahl an Endgeräten
-- 2x Gigabit-LAN-Anschlüsse, 1x 2,5 Gigabit-LAN-Anschluss, SFP-Cage für ein FRITZ!SFP Modul
-- Router mit integriertem Glasfasermodem für direkten Anschluss an alle in Deutschland gängige Glasfaseranschlüsse
-- Mesh Master-Funktion: FRITZ!Box fasst verteilte WLAN-Zugangspunkte (z.B. FRITZ!Repeater) zu einem dynamischen intelligenten WLAN-Netz zusammen
-- Lieferumfang: FRITZ!Box 5530 Fiber, 1x FRITZ!SFP AON, 1x FRITZ!SFP GPON, Netzteil, 4m Glasfaserkabel (LC/APC - LC/APC), 1,5 Meter LAN-Kabel, Installationsanleitung
-- Im Lieferumfang voll ausgestattet für den Anschlüsse nationaler, regionaler und lokaler Netzbetreiber (Glasfaser-Standards AON und GPON)
 - VoIP-Telefonanlage mit vielseitigen Komfortfunktionen für alle Telefone (Analog-, DECT- und IP-Telefone), DECT-Basis für bis zu sechs Schnurlos-Telefone, z. B. alle FRITZ!Fon Modelle
+- Lieferumfang: FRITZ!Box 5530 Fiber, 1x FRITZ!SFP AON, 1x FRITZ!SFP GPON, Netzteil, 4m Glasfaserkabel (LC/APC - LC/APC), 1,5 Meter LAN-Kabel, Installationsanleitung
+- Wi-Fi 6 mit 2.400 MBit/s (5 GHz) und 600 MBit/s (2,4 GHz) für stabile Gigabit-Geschwindigkeiten bei einer Vielzahl an Endgeräten
+- Mesh Master-Funktion: FRITZ!Box fasst verteilte WLAN-Zugangspunkte (z.B. FRITZ!Repeater) zu einem dynamischen intelligenten WLAN-Netz zusammen
+- Im Lieferumfang voll ausgestattet für den Anschlüsse nationaler, regionaler und lokaler Netzbetreiber (Glasfaser-Standards AON und GPON)
+- Router mit integriertem Glasfasermodem für direkten Anschluss an alle in Deutschland gängige Glasfaseranschlüsse
+- 2x Gigabit-LAN-Anschlüsse, 1x 2,5 Gigabit-LAN-Anschluss, SFP-Cage für ein FRITZ!SFP Modul
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08RB83RZ4{{</world>}}

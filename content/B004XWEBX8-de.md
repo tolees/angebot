@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Überträgt Daten mit einer Geschwindigkeit von bis zu 18 Gigabit pro Sekunde. KabelDirekt-HDMI-Kabel können mit allen aktuellen Konsolen wie PS4, PS5, Xbox One, Xbox Series S/X sowie allen anderen HDMI-Geräten verwendet werden
-- Volle 4K@60HZ@HDR Unterstützung & Abwärtskompatibilität/ Vergoldete, geschirmte Präzisionsstecker kombiniert mit einer doppelten Abschirmung & gedrehten, hochreinen Kupferleitungen maximieren die verfügbare Bandbreite
-- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Automatisch gelötet: KabelDirekt HDMI Kabel werden maschinell verlötet, denn nur so kann eine hundertprozentig gleichbleibende Serienqualität erreicht werden; Jedes HDMI Kabel durchläuft mehrfache Funktionstests
+- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
+- Volle 4K@60HZ@HDR Unterstützung & Abwärtskompatibilität/ Vergoldete, geschirmte Präzisionsstecker kombiniert mit einer doppelten Abschirmung & gedrehten, hochreinen Kupferleitungen maximieren die verfügbare Bandbreite
+- Überträgt Daten mit einer Geschwindigkeit von bis zu 18 Gigabit pro Sekunde. KabelDirekt-HDMI-Kabel können mit allen aktuellen Konsolen wie PS4, PS5, Xbox One, Xbox Series S/X sowie allen anderen HDMI-Geräten verwendet werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004XWEBX8{{</world>}}

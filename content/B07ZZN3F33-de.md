@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Leicht
 - Atmungsaktiv
 - Runde Form
-- Leicht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZZN3F33{{</world>}}

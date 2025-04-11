@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit verschiedenen Fühlmaterialien
 - mit Waldtieren
 - Stufe 3
+- mit verschiedenen Fühlmaterialien
 - Fühlpuzzle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

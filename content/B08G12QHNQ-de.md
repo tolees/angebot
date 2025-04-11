@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bunte Farben aus der Natur
 - Ideal zum Teilen mit Freunden und Familie
 - Recyclebare Verpackung aus Papier
-- Ohne Aromen und Zusatzstoffe
-- Bunte Farben aus der Natur
 - 100% Kakao aus nachhaltigem Anbau
+- Ohne Aromen und Zusatzstoffe
 - Wiederverschließbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

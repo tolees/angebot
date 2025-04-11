@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank der Herstellung aus hochwertigem Kunststoff hat das Produkt eine lange Lebensdauer
-- Das Set besteht aus drei Stahlbohrbuchsen mit den Durchmessern 6, 8 und 10 mm, für die Führung eines Zentrierbohrers und die zentrierte Ausrichtung der Lochsäge
 - Mit dem Aufbohrhilfe-Set von wolfcraft können bereits vorhandene Löcher in Decken, Holz, Trockenbauwänden oder anderen Materialien vergrößert werden, ohne die Zentrierung zu verlieren
 - Das 3-teilige Aufbohrhilfe-Set ist für Lochsägen ab einem Durchmesser von 60 mm einsetzbar
+- Dank der Herstellung aus hochwertigem Kunststoff hat das Produkt eine lange Lebensdauer
+- Das Set besteht aus drei Stahlbohrbuchsen mit den Durchmessern 6, 8 und 10 mm, für die Führung eines Zentrierbohrers und die zentrierte Ausrichtung der Lochsäge
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08C7WSKDL{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In robuster Falttasche
-- Stückgeprüfte Werkzeuge gem. IEC 60900
-- Isolierte Werkzeuge, Klingen teilweise mit reduziertem Durchmesser für sicheres Arbeiten bis 1.000 Volt
-- VDE-Wechselklingen (157 mm lang) mit praktischer Zwirbelfunktion, Abrollschutz und Werkzeugfinder Take it easy: Farbkennzeichnung nach Profilen sowie aufgelaserter Größenangabe
 - 2 VDE-isolierte Kraftform Handhalter 817 VDE mit Abrollschutz
+- In robuster Falttasche
+- Isolierte Werkzeuge, Klingen teilweise mit reduziertem Durchmesser für sicheres Arbeiten bis 1.000 Volt
+- Stückgeprüfte Werkzeuge gem. IEC 60900
+- VDE-Wechselklingen (157 mm lang) mit praktischer Zwirbelfunktion, Abrollschutz und Werkzeugfinder Take it easy: Farbkennzeichnung nach Profilen sowie aufgelaserter Größenangabe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CX1V1NLV{{</world>}}

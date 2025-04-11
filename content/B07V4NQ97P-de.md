@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tolle Geschenkidee für alle, die Bobbleheads lieben
 - Enthält alle Original-Etiketten/Verpackungen direkt vom Hersteller/DistributorRPA2023 Offiziell lizenziert von Funko
+- Tolle Geschenkidee für alle, die Bobbleheads lieben
 - 100% brandneu und authentisch Merchandise
 
 [🛒 Hier!!]({{< param buyurl >}})

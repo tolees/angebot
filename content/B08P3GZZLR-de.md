@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Spüre den Fahrtwind der Monster Energy Supercross-Saison 2020 mit 100 Fahrern, 11 offiziellen Stadien und 17 Rennstrecken
 - Jetzt mit dem von Supercross-Fans heiß ersehnten Fahrer Ken Roczen!
 - Mehr offizieller Content als jemals zuvor: Viele neue Inhalte und ein eigener Streckenkonfigurator warten auf dich
 - Der vierte Teil der offiziellen Videospielreihe zur AMA Supercross Championship ist Next-Gen-ready!
-- Spüre den Fahrtwind der Monster Energy Supercross-Saison 2020 mit 100 Fahrern, 11 offiziellen Stadien und 17 Rennstrecken
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08P3GZZLR{{</world>}}

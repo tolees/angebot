@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der MultiPlus-II kann sowohl in netzunabhängigen als auch in netzgekoppelten PV- und anderen alternativen Energiesystemen eingesetzt werden. Es ist sowohl mit Solarladereglern als auch mit netzgekoppelten Wechselrichtern kompatibel
 - Es verfügt über alle Funktionen des MultiPlus plus eine externe Stromwandleroption zur Implementierung von PowerControl und PowerAssist und zur Optimierung des Eigenverbrauchs mit externer Strommessung (max. 32A)
-- Das MultiPlus-II ist ideal geeignet für professionelle Anwendungen in der Schifffahrt, auf Yachten, in Fahrzeugen und an Land, die nicht mit dem Stromnetz verbunden sind
-- Victron Energy MultiPlus-II 3000VA 48-Volt 35 Amp 230V kombiniert die Funktionen des MultiPlus und des MultiGrid
 - Darüber hinaus verfügt es über alle Funktionen des MultiGrid mit integriertem Anti-Islanding und einer immer länger werdenden Liste von Länderzulassungen
+- Victron Energy MultiPlus-II 3000VA 48-Volt 35 Amp 230V kombiniert die Funktionen des MultiPlus und des MultiGrid
+- Der MultiPlus-II kann sowohl in netzunabhängigen als auch in netzgekoppelten PV- und anderen alternativen Energiesystemen eingesetzt werden. Es ist sowohl mit Solarladereglern als auch mit netzgekoppelten Wechselrichtern kompatibel
+- Das MultiPlus-II ist ideal geeignet für professionelle Anwendungen in der Schifffahrt, auf Yachten, in Fahrzeugen und an Land, die nicht mit dem Stromnetz verbunden sind
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RBNZHLD{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wähle aus den beliebten Charakteren Mario, Luigi, Peach, Daisy, Yoshi oder Toad und starte eine fantastische Reise voller Wunder.
 - Verwandle dich mithilfe eines überraschenden neuen Power-ups in Elefant-Mario und setze deinen Rüssel ein, um deine Gegner zu besiegen!
-- Bei der Preisverleihung im Rahmen von The Game Awards wurde Super Mario Bros: Wonder als Best Family Game ausgezeichnet
 - Das klassische Mario-Erlebnis wird durch das neue Wunderblumen-Item auf den Kopf gestellt. Sammelst du es ein, ändert sich das Spielgeschehen: Röhren erwachen zum Leben, du verwandelst dich in eine riesige Stachelkugel und es passiert noch viel mehr!
+- Wähle aus den beliebten Charakteren Mario, Luigi, Peach, Daisy, Yoshi oder Toad und starte eine fantastische Reise voller Wunder.
 - Spiele mit bis zu drei Freunden auf einer Nintendo Switch-Konsole, um die Level im lokalen Modus gemeinsam anzugehen.
+- Bei der Preisverleihung im Rahmen von The Game Awards wurde Super Mario Bros: Wonder als Best Family Game ausgezeichnet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C8Z3ZDBG{{</world>}}

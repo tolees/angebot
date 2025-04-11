@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der erste BRITA Wasserfilter aus Glas: hochwertiges & simples Design, nachhaltige Materialien & 100% made in Germany – passend zu deiner Küche & deinem Lebensstil
-- Praktischer Klappdeckel für einhändiges Befüllen der Filterkanne / intelligenter Smart Light Sensor misst gefilterte Zeit & Volumen um an den Kartuschenwechsel zu erinnern / spülmaschinengeeignet bis 60°C (außer Smart Light & Silikonring)
+- Hinweis: Die Verpackung kann variieren
+- Reduziert Kalk, geschmacksstörende Stoffe wie Chlor, Blei und Kupfer und Spuren von bestimmten Herbiziden, Pestiziden und Medikamenten, falls im Leitungswasser vorhanden
+- BRITA bietet nachhaltige Trinkwasserlösungen und ist weltweit die Nr. 1 für Trinkwasserfilter. Deutsche Qualität & Design – seit 1966
 - Vertraue der innovativen MAXTRA PRO 4-stufigen Filtration mit natürlichen Aktivkohle- und Ionenaustauscher-Perlen: reines & frisches Wasser für volleres Aroma in Kaffee & Tee und zuverlässigem Kalkschutz
 - Lieferumfang: 1 x BRITA Glas Wasserfilter-Kanne in hellblau, 1 x MAXTRA PRO ALL-IN-1 Filterkartusche / Kanne mit Gesamtkapazität von 2,5l für 1,5l frisches gefiltertes Wasser
-- Hinweis: Die Verpackung kann variieren
-- BRITA bietet nachhaltige Trinkwasserlösungen und ist weltweit die Nr. 1 für Trinkwasserfilter. Deutsche Qualität & Design – seit 1966
-- Reduziert Kalk, geschmacksstörende Stoffe wie Chlor, Blei und Kupfer und Spuren von bestimmten Herbiziden, Pestiziden und Medikamenten, falls im Leitungswasser vorhanden
+- Praktischer Klappdeckel für einhändiges Befüllen der Filterkanne / intelligenter Smart Light Sensor misst gefilterte Zeit & Volumen um an den Kartuschenwechsel zu erinnern / spülmaschinengeeignet bis 60°C (außer Smart Light & Silikonring)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BZSVC51Z{{</world>}}

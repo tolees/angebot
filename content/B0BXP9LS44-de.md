@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Hündin begeistert mit 5 Spielmodi Rollenspiel, Nachsprechen, Singen, Kümmern und Nickerchen sowie 5 gesungenen Liedern und 5 Schlaflied-Melodien / Der Berührungssensor an der Nase lässt Schlecki beim Anstupsen mit niedlichen Antworten reagieren
-- Der flauschige Welpe Schlecki singt und spricht niedliche Sätze, die er mit freudigem Schlecken, niedlichem Blinzeln und Schleckgeräuschen kombiniert / Die leuchtende Halsbandtaste löst tolle Sätze aus, mit denen Schlecki zum Rollenspiel animiert
 - Das süße Hündchen Schlecki mit weichem Plüsch lädt zum Kuscheln und Liebhaben ein und animiert zum Singen und Sprechen - es bedankt sich mit Schlecken, wenn man sich gut um es kümmert
+- Der flauschige Welpe Schlecki singt und spricht niedliche Sätze, die er mit freudigem Schlecken, niedlichem Blinzeln und Schleckgeräuschen kombiniert / Die leuchtende Halsbandtaste löst tolle Sätze aus, mit denen Schlecki zum Rollenspiel animiert
 - Lieferumfang: 1 x VTech Schlecki, das Kuschel-Hündchen / Kindersicheres Batteriefach, Abschaltautomatik und Lautstärkeregler / Deutsche Version / Alter: 4-10 Jahre / 4 x AA Demobatterien / Art. Nr.: 80-563604
 - Wird die Musiktaste an Schleckis linker Pfote gedrückt, fordert sie zum Mitsingen auf, während durch das Drücken der Plaudertaste an der rechten Pfote freundliche Fragen gestellt werden und es die Antworten mit lustigem Stimmverzerreffekt wiederholt
 

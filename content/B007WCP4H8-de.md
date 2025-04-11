@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auf jeder Seite befinden sich zwei Einstecktaschen im Querformat und Beschriftungsfelder für Notizen, Zitate, Bemerkungen, usw.
-- Einsteckalbum mit hochwertigem Kunstledereinband und Goldprägung
+- Zusätzlich ist das Album mit einem CD-Archiv zur Aufbewahrung der digitalen Bilder ausgestattet
 - Das Album bietet Platz für 200 Fotos im Format 13 x 18 cm
 - Die Fotos werden in praktische Einstecktaschen gesteckt
-- Zusätzlich ist das Album mit einem CD-Archiv zur Aufbewahrung der digitalen Bilder ausgestattet
+- Einsteckalbum mit hochwertigem Kunstledereinband und Goldprägung
+- Auf jeder Seite befinden sich zwei Einstecktaschen im Querformat und Beschriftungsfelder für Notizen, Zitate, Bemerkungen, usw.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007WCP4H8{{</world>}}

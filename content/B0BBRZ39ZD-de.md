@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Enthält LEGO Friends Minipuppen: Bäcker Leo und Videoexperte Olly, sowie Churro die Katzenfigur - Spiele mit Churro, indem du einen Griff drehst, um den Spielzeugfisch zu bewegen und das Tier hinterher springen zu lassen
-- Dieses LEGO Friends Leos Zimmer Spielset enthält ein Studio und eine Videoausrüstung, einen Backbereich sowie 2 Minipuppen und eine Katzenfigur
 - Dieses Sammlerspielzeug ist Teil einer Sammlung von LEGO Friends Schlafzimmersets. Kinder können alle Zimmer der Heartlake City Friends entdecken: Aliyas Zimmer (41740) oder Novas Zimmer (41755)
 - Im Jahr 2023 wird das LEGO Friends Universum erweitert, um eine neue Generation von Figuren und lustigen Orten zu präsentieren, die von den Leidenschaften und Interessen der Kinder inspiriert wurden
 - Das Haus von Leo befindet sich in Harmony Beach, deshalb gibt es überall in seinem Zimmer coole Strandmotive, wie ein Surfbrett, Etagenbetten und einen Balkon, auf dem man draußen Fußball spielen kann, wenn der Videodreh beendet ist
 - Dieses Spielzeug für Kinder ab 6 Jahren enthält viel Zubehör, mit dem sich Kinder spannende Geschichten ausdenken können: ein Kochbuch, eine Rührschüssel, einen Löffel, Flaschen, eine Kamera und ein cooles Licht für die Kamera
+- Dieses LEGO Friends Leos Zimmer Spielset enthält ein Studio und eine Videoausrüstung, einen Backbereich sowie 2 Minipuppen und eine Katzenfigur
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BBRZ39ZD{{</world>}}

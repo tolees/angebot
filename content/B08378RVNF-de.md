@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial : Wildleder
 - Innenmaterial : Synthetik
 - Wasserbeständigkeitsgrad : Nicht Wasserfest
 - Absatzform : Flach
-- Obermaterial : Wildleder
 - Schuhweite : Medium
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,13 +29,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Produkt 1: LIPPENPFLEGE: Revitalisiere deine Lippen mit dem feuchtigkeitsspendenden Lippenbalsam von Burts Bees in vier natürlich pflegenden Geschmacksnoten.
-- Produkt 1: GLÄTTENDER LIPPENBALSAM: Nur einmal auftragen und deine Lippen fühlen sich den ganzen Tag lang weich und erfrischt an
-- Produkt 2: FEUCHTIGKEITSPFLEGE: Mit Bienenwachs, Vitamin E und einem Hauch Pfefferminzöl. Der originale Lippenbalsam von Burts Bees pflegt die Lippen und versorgt sie mit Feuchtigkeit
 - Produkt 2: GLÄTTENDER LIPPENBALSAM: Nur einmal auftragen und deine Lippen fühlen sich den ganzen Tag lang weich und erfrischt an
 - Produkt 1: FEUCHTIGKEITSPFLEGE: Pflege und hydratisiere trockene Lippen mit dem Bienenwachs und den wirkungsvollen Fruchtextrakten des Lippenbalsams von Burts Bees in der praktischen Tube
-- Produkt 2: GANZ NATÜRLICH: Angereichert mit 100 % natürlichen Inhaltsstoffen. Dieser natürliche Lippenbalsam enthält keine Parabene, Phthalate, Vaseline und kein Natriumlaurylethersulfat
 - Produkt 2: LIPPENPFLEGE: Zwei 4,25-g-Tuben mit Burts Bees feuchtigkeitsspendendem Lippenbalsam voller Minzfrische zur Erfrischung und Revitalisierung der Lippen
 - Produkt 1: GANZ NATÜRLICH: Angereichert mit 100 % natürlichen Inhaltsstoffen. Dieser natürliche Lippenbalsam enthält keine Parabene, Phthalate, Vaseline und kein Natriumlaurylethersulfat
+- Produkt 2: GANZ NATÜRLICH: Angereichert mit 100 % natürlichen Inhaltsstoffen. Dieser natürliche Lippenbalsam enthält keine Parabene, Phthalate, Vaseline und kein Natriumlaurylethersulfat
+- Produkt 1: GLÄTTENDER LIPPENBALSAM: Nur einmal auftragen und deine Lippen fühlen sich den ganzen Tag lang weich und erfrischt an
+- Produkt 2: FEUCHTIGKEITSPFLEGE: Mit Bienenwachs, Vitamin E und einem Hauch Pfefferminzöl. Der originale Lippenbalsam von Burts Bees pflegt die Lippen und versorgt sie mit Feuchtigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B92JPYCP{{</world>}}

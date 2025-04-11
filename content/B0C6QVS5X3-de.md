@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Acht Charakterklassen, jede ausgestattet mit einzigartigen Standard- und Spezialfähigkeiten.
-- Über 50 zufällig auftretende Ereignisse, die Risiko-Belohnungs-Szenarien darstellen.
 - Wunderschön animierte, handgezeichnete Grafik, die die skurrile Vision der Postapokalypse zum Leben erweckt.
 - Über 70 Gegenstände und Runen zum Sammeln, um die Chancen zu deinen Gunsten zu verändern.
 - Ein Dutzend Gegner, vom archetypischen Zombie über tödliche Raider bis hin zu explosiven Monstrositäten und zwei überraschend brutalen Bosskämpfen.
+- Über 50 zufällig auftretende Ereignisse, die Risiko-Belohnungs-Szenarien darstellen.
+- Acht Charakterklassen, jede ausgestattet mit einzigartigen Standard- und Spezialfähigkeiten.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C6QVS5X3{{</world>}}

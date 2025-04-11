@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Akku GBA 18V 4.0Ah, Schnellladegerät GAL 18V-40, Karton
-- Extrem schnelle Aufladezeit für alle 18V-Akkus, beispielsweise Aufladen eines 18V-/4,0-Ah-Standardakkus in nur 48 Minuten zu 80 %
 - 18-V-Akku mit einer Kapazität von 4.0 Ah für eine höhere Laufleistung und Schnellladegerät
 - Kompatibel seit 2008: Alle unsere Akkus passen innerhalb der jeweiligen Voltklasse in die neuen und die bereits vorhandenen Bosch Professional Werkzeuge.
+- Extrem schnelle Aufladezeit für alle 18V-Akkus, beispielsweise Aufladen eines 18V-/4,0-Ah-Standardakkus in nur 48 Minuten zu 80 %
+- Lieferumfang: 1x Akku GBA 18V 4.0Ah, Schnellladegerät GAL 18V-40, Karton
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07RCXY4F4{{</world>}}

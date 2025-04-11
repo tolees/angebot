@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fabric
 - Passform: Regulär
+- Fabric
 - Schuhweite: Mittel
 
 [🛒 Hier!!]({{< param buyurl >}})

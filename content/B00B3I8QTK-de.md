@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FlankTraction-Profil
 - exakt verzahnt mit 72 Zähnen
+- mit Gelenk
+- FlankTraction-Profil
 - vier verschiedene Schlüsselweiten
 - mit Umschalthebel
-- mit Gelenk
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00B3I8QTK{{</world>}}

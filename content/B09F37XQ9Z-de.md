@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Qualcomm Snapdragon 7c Gen 2 (Octa-core, 8x Kryo 468@2,55 GHz)
-- 8 MP Hauptkamerta, 5 MP Selfiekamera
-- Erhalte Minecraft und 3 Monate Realms Plus kostenlos beim Kauf eines neuen Chromebooks
-- Zugriff auf Millionen von Apps im Google Play Store
-- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Full-HD IPS-Multitouch-Display, vier Lautsprecher
+- Erhalte Minecraft und 3 Monate Realms Plus kostenlos beim Kauf eines neuen Chromebooks
 - Dieses Premium Chromebook ist extrem leistungsfähig mit noch mehr Speicherplatz und somit perfekt für Multitasking und komplexe Aufgaben geeignet
-- Lieferumfang: Lenovo IdeaPad Duet 5 Chromebook, Storm Grey, abnehmbare Tastatur/Schutzhülle/Ständer, Lenovo USI Digital Pen mit Aufbwahrungshülle, Netzteil, Dokumentation
-- Tablet und Notebook in einem durch abnehmbare Tastatur, inkl. digitalem Stift zum Schreiben und Zeichnen auf dem Display
+- 8 MP Hauptkamerta, 5 MP Selfiekamera
+- Qualcomm Snapdragon 7c Gen 2 (Octa-core, 8x Kryo 468@2,55 GHz)
+- Herstellergarantie: 24 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Akku: Li-Ion Polymer, 42Wh, Laufzeit bis zu 15,5 Stunden (Google Load Test)
+- Tablet und Notebook in einem durch abnehmbare Tastatur, inkl. digitalem Stift zum Schreiben und Zeichnen auf dem Display
+- Zugriff auf Millionen von Apps im Google Play Store
+- Lieferumfang: Lenovo IdeaPad Duet 5 Chromebook, Storm Grey, abnehmbare Tastatur/Schutzhülle/Ständer, Lenovo USI Digital Pen mit Aufbwahrungshülle, Netzteil, Dokumentation
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09F37XQ9Z{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Victron Energy MultiPlus-II GX 5000VA 48-Volt 70 Amp 230V ist ein Wechselrichter/Ladegerät mit integrierter Gerätevernetzung. Der MultiPlus-II GX kommuniziert mit einem Solarladegerät, Batterien und anderen Geräten, um eine netzgekoppelte, netzunabhängige oder abgelegene Stromanlage zu steuern
 - Anwendungen: Das MultiPlus-II GX ist für Anwendungen vorgesehen, bei denen zusätzliche Schnittstellen zu anderen Produkten und/oder eine Fernüberwachung erforderlich sind, wie z. B. bei netzgebundenen oder netzunabhängigen Energiespeichersystemen und bestimmten mobilen Anwendungen
 - Display und Wi-Fi: Auf dem Display werden die Parameter der Batterie, des Wechselrichters und des Solarladereglers angezeigt. Auf dieselben Parameter kann mit einem Smartphone oder einem anderen Wi-Fi-fähigen Gerät zugegriffen werden
 - Der MultiPlus-II GX kann parallel betrieben werden, um die Leistungsabgabe oder die Batterieladung zu erhöhen, und kann auch für eine dreiphasige Versorgung konfiguriert werden
 - Ein MultiPlus-II mit LCD- und GX-Funktionalität - Das MultiPlus-II GX integriert einen MultiPlus-II-Wechselrichter/Ladegerät und ein GX-Gerät mit einem 2 x 16 Zeichen Display
-- Victron Energy MultiPlus-II GX 5000VA 48-Volt 70 Amp 230V ist ein Wechselrichter/Ladegerät mit integrierter Gerätevernetzung. Der MultiPlus-II GX kommuniziert mit einem Solarladegerät, Batterien und anderen Geräten, um eine netzgekoppelte, netzunabhängige oder abgelegene Stromanlage zu steuern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B086RB9LPS{{</world>}}

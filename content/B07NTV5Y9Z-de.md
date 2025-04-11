@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 25.4 mm
-- Fotodruck in 50 s / Eingebauter Akku für 25 Drucke / 10 Blatt Papiervorrat
-- Druckformat 2 x 3“ (5 x 7,6 cm) als Aufkleber /Nur 188 g leicht, 12,1 x 8,03 x 2,15 cm klein
-- Sofortbildkamera (8 MP) mit optischem Sucher und Ringblitz/ LED-Blitz
 - Micro SD-Kartensteckplatz / Eingebauter Mini-Fotodrucker mit Zink Zero Ink Technologie
+- 25.4 mm
+- Sofortbildkamera (8 MP) mit optischem Sucher und Ringblitz/ LED-Blitz
+- Druckformat 2 x 3“ (5 x 7,6 cm) als Aufkleber /Nur 188 g leicht, 12,1 x 8,03 x 2,15 cm klein
 - Großer Selfie Spiegel (36 x 24mm) / Stativanschluss / Druck über Bluetooth (NFC) (nur mit Canon App)
+- Fotodruck in 50 s / Eingebauter Akku für 25 Drucke / 10 Blatt Papiervorrat
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07NTV5Y9Z{{</world>}}

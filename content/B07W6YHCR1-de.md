@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dri-fit-technologie
+- Hoher Kragen
 - Standard Passform
 - Mesh-einsätze am Rücken
 - Durchgehender Reißverschluss
-- Hoher Kragen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07W6YHCR1{{</world>}}

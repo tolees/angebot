@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erkennen, ob Türen oder Fenster offen oder geschlossen sind.
 - Erhalte Mitteilungen, um unterwegs informiert zu bleiben/erstelle Automationen um andere vernetzte Geräte zu steuern, sobald Fenster/Türen geöffnet/geschlossen werden (verfügbar auf ausgewählten Plattformen)
+- Erkennen, ob Türen oder Fenster offen oder geschlossen sind.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C46RXLW4{{</world>}}

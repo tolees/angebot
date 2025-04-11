@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- USB-Anschlussbox: USB 3.2, Gen 2/10 Gbit/s, 1 x USB-C Upstream (Daten), 4 x USB-A Downstream (mit 1 für Schnellaufladungs-BC 1,2), 1 x USB-C Downstream (Daten, PD 15 W), Ethernet-LAN bis zu 1G
-- Helligkeit/Kontrast: 350 cd/m²/1.000:1, Anschlüsse: 1x HDMI 2.0, 1x DisplayPort 1.4, 1 x USB-C (Upstream, DP-Wechselmodus, Daten, PD bis zu 100 W)
-- Lieferumfang: Philips 34B1U5600H/00 86,3 cm (34 Zoll) Bildschirm, HDMI-Kabel, DisplayPort-Kabel, USB-C auf-C/A-Split-Kabel, Netzkabel, Garantiekarte
 - Herstellergarantie: 3 Jahre Die Garantiebedingungen finden Sie unter Weitere technische Informationen. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Kontraststarkes VA Panel mit 1500R Radius, mattes Display mit 4ms Reaktionszeit, 180 mm höhenverstellbar, 2x 5W Speaker, Headphone out, kompatibel mit VESA Halterung 100x100, Standfuss abnehmbar
-- PowerSensor und Light Sensor für Energieeinsparungen bis zu 80%
+- Helligkeit/Kontrast: 350 cd/m²/1.000:1, Anschlüsse: 1x HDMI 2.0, 1x DisplayPort 1.4, 1 x USB-C (Upstream, DP-Wechselmodus, Daten, PD bis zu 100 W)
+- USB-Anschlussbox: USB 3.2, Gen 2/10 Gbit/s, 1 x USB-C Upstream (Daten), 4 x USB-A Downstream (mit 1 für Schnellaufladungs-BC 1,2), 1 x USB-C Downstream (Daten, PD 15 W), Ethernet-LAN bis zu 1G
 - Philips Monitor mit USB-C Dockingstation und RJ45 Anschluss. Integrierter Multiclient-KVM Switch. 5 Megapixel Webcam inklusive Noise Cancelling Mikro und Windows Hello Funktion
+- PowerSensor und Light Sensor für Energieeinsparungen bis zu 80%
+- Lieferumfang: Philips 34B1U5600H/00 86,3 cm (34 Zoll) Bildschirm, HDMI-Kabel, DisplayPort-Kabel, USB-C auf-C/A-Split-Kabel, Netzkabel, Garantiekarte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BGJDFG94{{</world>}}

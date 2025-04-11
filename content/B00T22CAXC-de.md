@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Material: Polyester
+- Packung Weight: 1.88 kg
 - Zwei Taschen im Deckel
 - Packung die Größe: 16.7 L x 59.4 H x 40.1 W (cm)
 - Reißverschluss-Fronttasche
-- Packung Weight: 1.88 kg
-- Material: Polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00T22CAXC{{</world>}}

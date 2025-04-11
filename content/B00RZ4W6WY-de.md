@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Material: Kunststoff
 - Packung die Größe: 2.0 L x 18.5 H x 6.0 W cm
 - Messbereich von 0°C bis 50°C
-- Material: Kunststoff
 - Temperaturanzeige in °C
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

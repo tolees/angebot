@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TÜV-zertifiziertes Display
-- 100 Hz Bildwiederholfrequenz sorgen für ein angenehmes Sehgefühl.
-- Die KVM-Funktion ermöglicht die nahtlose Steuerung mehrerer Geräte über eine einzige Tastatur, eine Maus und einen Monitor der Modern MD272-Serie.
 - Red Dot Design Award 2021 Gewinner
+- 100 Hz Bildwiederholfrequenz sorgen für ein angenehmes Sehgefühl.
+- TÜV-zertifiziertes Display
 - Ergonomischer Standfuß mit Neigungs-, Dreh-, Höhen- und Schwenkfunktion.
+- Die KVM-Funktion ermöglicht die nahtlose Steuerung mehrerer Geräte über eine einzige Tastatur, eine Maus und einen Monitor der Modern MD272-Serie.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09YXHTFB6{{</world>}}

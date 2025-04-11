@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kid
+- Material: Kunststoff
 - Farbe: Solid Black
 - Unisex Kinder
-- Gewebe-Art: 100% Wolle
 - Sporttyp:Camping & Outdoor
-- Material: Kunststoff
+- Kid
+- Gewebe-Art: 100% Wolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00DRPMMQA{{</world>}}

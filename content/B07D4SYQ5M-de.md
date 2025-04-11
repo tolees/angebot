@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zusammensetzung: Geflügel (Entenfleisch mind. 27%, Herz, Leber) (71%), Fleischbrühe (25%), Möhrchen (3%), Mineralstoffe (1%)
-- Für unsere Mahlzeiten verwenden wir überwiegend Zutaten, die aus regionalen Bauernhöfen stammen. Mit viel Liebe großgezogen oder angebaut, unterliegen diese strengsten Qualitätskontrollen. Wir verarbeiten nur Zutaten in 100 % Lebensmittelqualität.
 - Das Tierwohl steht bei uns an erster Stelle. Aus diesem Grund verzichten wir bewusst auf: Farb- und Lockstoffe, Zucker, Gluten, Getreide und Soja, pflanzliche Nebenerzeugnisse sowie synthetische Konservierungsstoffe.
 - Getreidefreies, naturbelassenes Katzenfutter mit extra hohem Fleischanteil
 - Eine Artgerechte, Natur- und Beutenahe Katzenernährung, bieten die Alleinfuttermittel von MjAMjAM. Unser wichtigster Lieferant, die Natur, liefert uns alle wichtigen Bestandteile, um unserer Philosophie und dem Bedarf Ihres Lieblings gerecht zu werden.
+- Für unsere Mahlzeiten verwenden wir überwiegend Zutaten, die aus regionalen Bauernhöfen stammen. Mit viel Liebe großgezogen oder angebaut, unterliegen diese strengsten Qualitätskontrollen. Wir verarbeiten nur Zutaten in 100 % Lebensmittelqualität.
+- Zusammensetzung: Geflügel (Entenfleisch mind. 27%, Herz, Leber) (71%), Fleischbrühe (25%), Möhrchen (3%), Mineralstoffe (1%)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07D4SYQ5M{{</world>}}

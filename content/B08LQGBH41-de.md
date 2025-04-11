@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In dieser Erweiterung erwarten euch weitere mächtige Schurken wie Olli der Troll und der Jünger Morgoths. Zudem erhaltet ihr weitere Ausrüstung, die euch im Kampf weiterhilft
 - 1-5 Spieler | Ab 14+ Jahren | Bis zu 60+ Minuten Spielzeit je Partie | Spiel in Deutsch
-- In diesem kooperativen Dungeon Crawler taucht ihr ein in die epische Fantasywelt von Der Herr der Ringe. Ihr seid eine Gruppe von Helden, die sich auf eine gefährliche Reise begibt
 - Zum Spielen dieser Erweiterung wird das Grundspiel Der Herr der Ringe: Reise durch Mittelerde, sowie die kostenlose App benötigt
 - Eure Zusammenarbeit ist in diesem strategischen Kennerspiel von großer Bedeutung. Ihr bekämpft mächtige Feinde, findet verloren geglaubte Schätze sowie vergessenes Wissen und entwickelt euch weiter
+- In diesem kooperativen Dungeon Crawler taucht ihr ein in die epische Fantasywelt von Der Herr der Ringe. Ihr seid eine Gruppe von Helden, die sich auf eine gefährliche Reise begibt
+- In dieser Erweiterung erwarten euch weitere mächtige Schurken wie Olli der Troll und der Jünger Morgoths. Zudem erhaltet ihr weitere Ausrüstung, die euch im Kampf weiterhilft
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08LQGBH41{{</world>}}

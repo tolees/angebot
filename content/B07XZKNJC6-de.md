@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bluetooth, Print & Cut, PixScan kompatibel, für Windows und Mac, kostenlose Silhouette Studio Software
-- 3 mm Abstand für dickere Materialien.
-- Schiebedeckel und hintergrundbeleuchtetes Touchpanel verleihen Ihrer Maschine eine elegante, kompakte Ästhetik.
 - Mit dem eingebauten Querschneider können Sie Vinyl oder Wärme direkt von der Rolle abschneiden.
+- Schiebedeckel und hintergrundbeleuchtetes Touchpanel verleihen Ihrer Maschine eine elegante, kompakte Ästhetik.
+- 3 mm Abstand für dickere Materialien.
 - Der eingebaute Rollenzuführer ermöglicht das einfache Laden und Schneiden von Rollenmaterial wie Vinyl- und Textiltransferfolie.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

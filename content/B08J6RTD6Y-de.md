@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Circa 650 g leicht
-- Professionelles lichtstarkes Ultraweitwinkel-Zoomobjektiv für Nikon-Z-Kameras
 - OLED-Statusdisplay
+- Professionelles lichtstarkes Ultraweitwinkel-Zoomobjektiv für Nikon-Z-Kameras
 - Aufwändige Vergütung und Abdichtung gegen Staub und Feuchtigkeit
 - Konstante Lichtstärke 1:2,8 über ganzen Brennweitenbereich von 14-24 mm
+- Circa 650 g leicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08J6RTD6Y{{</world>}}

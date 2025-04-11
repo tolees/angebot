@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enganliegende Passform/Bike-Spezifischer Schnitt
 - GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv. Pflegehinweis: Nicht bleichen
 - GORE C5 Optiline Bib Shorts+, Größe: M, Farbe: Schwarz/Rot, 100162
+- Enganliegende Passform/Bike-Spezifischer Schnitt
 - Herren Trägerhose (Innenbeinlänge: 25 cm) für Fahrradfahrer bei warmen Wetterbedingungen
 - Sitzpolster für Rennradfahrer mit atmungsaktivem, vorgeformtem, winddichtem Vorderbereich, Trägerkonstruktion aus Netzmaterial
 

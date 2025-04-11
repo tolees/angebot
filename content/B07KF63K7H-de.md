@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Dies ist ein originales Levis Produkt
 - Dein Lieblings-Basic T-Shirt gibt es jetzt im praktischen Doppelpack
-- Dies ist ein originales Levis Produkt
-- Dies ist ein originales Levis Produkt
 - Perfekt für den Lagenlook mit geripptem Strukturstrick
+- Dies ist ein originales Levis Produkt
 - Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
 
 [🛒 Hier!!]({{< param buyurl >}})

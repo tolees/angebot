@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maul-Ringschlüssel SW Maul 3,2 mm / Ring 4 mm | Maul-Ringschlüssel SW Maul 4 mm / Ring 5 mm | Maul-Ringschlüssel SW Maul 5 mm / Ring 5,5 mm | Maul-Ringschlüssel SW Maul 5,5 mm / Ring 6 mm | Maul-Ringschlüssel SW Maul 6 mm / Ring 7 mm | Maul-Ringschlüssel SW Maul 7 mm / Ring 8 mm | Maul-Ringschlüssel SW Maul 8 mm / Ring 9 mm | Maul-Ringschlüssel SW Maul 9 mm / Ring 10 mm
-- gefertigt aus Chrom-Vanadium-Stahl
-- Ringseite 20° abgewinkelt
-- Abtriebsprofil Ringseite: sechskant
 - warm geschmiedet
+- Ringseite 20° abgewinkelt
+- gefertigt aus Chrom-Vanadium-Stahl
 - besonders geeignet für enge Platzverhältnisse
+- Abtriebsprofil Ringseite: sechskant
 - Oberflächenvergütung: Verchromt
+- Maul-Ringschlüssel SW Maul 3,2 mm / Ring 4 mm | Maul-Ringschlüssel SW Maul 4 mm / Ring 5 mm | Maul-Ringschlüssel SW Maul 5 mm / Ring 5,5 mm | Maul-Ringschlüssel SW Maul 5,5 mm / Ring 6 mm | Maul-Ringschlüssel SW Maul 6 mm / Ring 7 mm | Maul-Ringschlüssel SW Maul 7 mm / Ring 8 mm | Maul-Ringschlüssel SW Maul 8 mm / Ring 9 mm | Maul-Ringschlüssel SW Maul 9 mm / Ring 10 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00E40LPJW{{</world>}}

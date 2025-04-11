@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PH-hautneutral – Mit pH-hautneutraler Formel ist das Duschgel im Gleichgewicht mit dem hauteigenen Mikrobiom und sorgt für eine sanfte Reinigung.
-- Haut & Umwelt – Die Formel enthält kein Mikroplastik und ist zu 99% biologisch abbaubar*. Außerdem besteht die Flasche zu 96% aus recyceltem Plastik**.
 - Sonniger Duft – Die Duschpflege bringt mit ihrem sonnigen Duft nach NIVEA SUN und einem erfrischenden Schaum den Sommer unter die Dusche.
 - Lieferumfang & Details – NIVEA Summer Happiness Duschgel, 250 ml, erfrischende Hautpflege mit Aloe Vera und den Vitaminen C & E, feuchtigkeitsspendendes Duschgel, Artikelnr. 84068
+- Haut & Umwelt – Die Formel enthält kein Mikroplastik und ist zu 99% biologisch abbaubar*. Außerdem besteht die Flasche zu 96% aus recyceltem Plastik**.
+- PH-hautneutral – Mit pH-hautneutraler Formel ist das Duschgel im Gleichgewicht mit dem hauteigenen Mikrobiom und sorgt für eine sanfte Reinigung.
 - Summer Happiness – Das NIVEA Duschgel reinigt und pflegt die Haut sanft, dabei hinterlässt es ein sofort erfrischtes und spürbar weiches Hautgefühl.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

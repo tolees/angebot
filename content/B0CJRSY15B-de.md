@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 128 MB Speicher
-- Inklusive Toner mit einer Reichweite von 1.200 Seiten
-- Papierkassette für 250 Blatt
-- LAN, WLAN 5GHz und USB 2.0 Hi-Speed
-- Beidseitiger Druck, bis zu 16 Seiten pro Minute
-- Toner erhältlich mit bis zu 3.000 Seiten
-- Automatischer Vorlageneinzug für 50 Blatt (ADF)
 - Druckgeschwindigkeit von bis zu 32 Seiten pro Minute
 - Scannen bis zu 22,5 Seiten pro Minute
+- 128 MB Speicher
+- Toner erhältlich mit bis zu 3.000 Seiten
+- LAN, WLAN 5GHz und USB 2.0 Hi-Speed
+- Automatischer Vorlageneinzug für 50 Blatt (ADF)
+- Inklusive Toner mit einer Reichweite von 1.200 Seiten
 - 2-zeiliges LC-Display
+- Beidseitiger Druck, bis zu 16 Seiten pro Minute
+- Papierkassette für 250 Blatt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJRSY15B{{</world>}}

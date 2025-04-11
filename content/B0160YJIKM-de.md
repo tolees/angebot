@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leder: Suede Leder
-- Material: Obermaterial: Leder 100%
 - Verschluss: Gummi
+- Material: Obermaterial: Leder 100%
 - Collection: Frühjahr-Sommer 23
+- Leder: Suede Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0160YJIKM{{</world>}}

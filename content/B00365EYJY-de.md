@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mehrkomponentiger Kraftform Griff für schnelles und ergonomisches Verschrauben
 - Sechskant-Schraubendreher Hex-Plus
-- Mit Sechskantabrollschutz gegen Wegrollen
+- Mehrkomponentiger Kraftform Griff für schnelles und ergonomisches Verschrauben
 - Hex-Plus lässt Innensechskantschrauben länger leben
+- Mit Sechskantabrollschutz gegen Wegrollen
 - Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Profilen und Größenstempelung
 
 [🛒 Hier!!]({{< param buyurl >}})

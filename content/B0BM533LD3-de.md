@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Absatzform: Flach
-- Sohle: Ethylenvinylacetat
 - Obermaterial: Leder
+- Sohle: Ethylenvinylacetat
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM533LD3{{</world>}}

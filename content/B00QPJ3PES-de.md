@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- auch für Schwangere, Stillende und Diabetiker geeignet
 - gute Verträglichkeit trotz der höheren Dosierung & ideal für unterwegs
+- auch für Schwangere, Stillende und Diabetiker geeignet
 - rasche und zuverlässige Linderung von stärkeren gasbedingten Magen-Darm-Beschwerden wie Blähungen
 - frei von Alkohol, Laktose und Zucker
 

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erweiterung zum vielfach preisgekrönten Spiel Arche Nova
-- Strategiespiel für 1-4 Personen
 - Achtung! Nicht ohne das Grundspiel spielbar
+- Strategiespiel für 1-4 Personen
 - Sprache: Deutsch
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Echtes Glitzer Gel
-- Glitzer-Effekt verbleibt auf dem Papier
 - säurefrei, Strichstärke 0, 5mm
 - Farbwechsel von hellem auf dunkles Papier
 - Effekt-Farbe variiert ja nach Betrachtungwinkel
+- Glitzer-Effekt verbleibt auf dem Papier
+- Echtes Glitzer Gel
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07F2CXD7B{{</world>}}

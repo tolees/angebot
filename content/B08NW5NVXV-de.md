@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochleistungskabel, geeignet für Gaming-PC/Laptop, Spielkonsole (PS4/PS5, Xbox One/Series X/S), Blu-ray-Player, TV-/Streaming-Receiver, Monitor/Fernseher, Beamer/Projektor und andere Geräte mit HDMI-Anschluss. Kompatibel mit HDMI 2.1b/2.1/2.0/1.4
-- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Mit Ultra High Speed in die Zukunft: Das Hochleistungskabel erreicht höchste Bildraten bis 144 Hz bei 4K und gestochen scharfe 8K-Auflösung für Gaming und professionellen Einsatz – mit neuester Hardware (GeForce/Radeon/Arc, PS5/Xbox Series X)
+- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Offiziell lizenzierte Leistung und Qualität: Das HDMI-zertifizierte Ultra High Speed HDMI Kabel erfüllt die Qualitätsvorgaben des HDMI-2.1-Standards. Nur Kabel mit diesem Zertifikat (per HDMI-App prüfbar) garantieren höchste Signalqualität
 - Maximale Funktionsvielfalt: Der HDMI-Standard 2.1b ermöglicht mit 48 Gbit/s (48G) UHD-II-Auflösungen wie 7680×4320 (8K) oder 10240×4320 (10K), 3D-Video, 48-Bit-Farben und Funktionen wie Dynamic HDR/HDR10+, VRR, ALLM, HFR und eARC (Dolby Atmos/DTS:X)
+- Hochleistungskabel, geeignet für Gaming-PC/Laptop, Spielkonsole (PS4/PS5, Xbox One/Series X/S), Blu-ray-Player, TV-/Streaming-Receiver, Monitor/Fernseher, Beamer/Projektor und andere Geräte mit HDMI-Anschluss. Kompatibel mit HDMI 2.1b/2.1/2.0/1.4
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08NW5NVXV{{</world>}}

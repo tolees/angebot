@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- befüllt mit einem Radierstück (Z2-1N) und 2 Feinminen, Härtegrad HB
-- individuell einstellbarer Härtegradindikator
-- Metallclip
 - silberfarbenes Kunststoffgehäuse mit fein strukturierter Metallgriffzone
 - 4 mm starre Minenführung
+- individuell einstellbarer Härtegradindikator
+- befüllt mit einem Radierstück (Z2-1N) und 2 Feinminen, Härtegrad HB
+- Metallclip
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005HI3QUQ{{</world>}}

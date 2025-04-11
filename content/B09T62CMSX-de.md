@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 🌝【APP-Fernsteuerung】 Die Touch Lampe kann durch Berühren der Oberseite gesteuert werden, und die Smart dimmbare Nachttischlampe kann auch über die Meross App ferngesteuert werden, die überall mit einem Netzwerk ferngesteuert werden kann (erfordert 2,4 GHz WiFi)
-- ⭐【Kaltweiß + Warmweiß + 16 Millionen RGB】Neben kaltweißem und warmweißem Licht stehen 16 Millionen Farben zur Auswahl. Darüber hinaus ist die Farbtemperatur des weißen Lichts einstellbar: 2000K-5700K.
-- 🌙【Zeitplan】Das Stilllicht speichert die Statuseinstellung, bevor sie ausgeschaltet wird, und muss nicht erneut eingestellt werden. Sie können auch einen privaten Zeitplan festlegen, und das Touch-Licht wird entsprechend der voreingestellten Zeit automatisch ein- oder ausgeschaltet.Sunrise/Sunset unterstützt. Auch wenn das Netzwerk getrennt wird, wird der Zeitplan weiterhin ausgeführt (Szene erfordert Netzwerk).
 - ☀️【Sprachsteuerung】Meross RGBWW LED Nachtlicht funktioniert mit Apple HomeKit (iOS 13 oder höher), Alexa und Google Assistant, um Ihre Geräte mit Sprachsteuerung zu verwalten.
+- 🌙【Zeitplan】Das Stilllicht speichert die Statuseinstellung, bevor sie ausgeschaltet wird, und muss nicht erneut eingestellt werden. Sie können auch einen privaten Zeitplan festlegen, und das Touch-Licht wird entsprechend der voreingestellten Zeit automatisch ein- oder ausgeschaltet.Sunrise/Sunset unterstützt. Auch wenn das Netzwerk getrennt wird, wird der Zeitplan weiterhin ausgeführt (Szene erfordert Netzwerk).
+- 🌝【APP-Fernsteuerung】 Die Touch Lampe kann durch Berühren der Oberseite gesteuert werden, und die Smart dimmbare Nachttischlampe kann auch über die Meross App ferngesteuert werden, die überall mit einem Netzwerk ferngesteuert werden kann (erfordert 2,4 GHz WiFi)
 - 🌞【Dimmbar】 Die Helligkeit der Nachttischlampe kann eingestellt werden, Sie können die gewünschte Helligkeit im Bereich von 1% -100% wählen(Maximale Helligkeit bis zu 350 LM). Niedrige Helligkeit eignet sich für eine romantische Atmosphäre oder zum Schlafen, und hohe Helligkeit eignet sich zum Arbeiten oder Lesen.
+- ⭐【Kaltweiß + Warmweiß + 16 Millionen RGB】Neben kaltweißem und warmweißem Licht stehen 16 Millionen Farben zur Auswahl. Darüber hinaus ist die Farbtemperatur des weißen Lichts einstellbar: 2000K-5700K.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09T62CMSX{{</world>}}

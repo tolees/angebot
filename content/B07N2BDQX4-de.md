@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dem Ziel, die Bedürfnisse von Alltagsathlet:innen und die unseres Planeten in Einklang zu bringen, verfolgt ODLO den festen Vorsatz, spätestens ab 2030 nur noch nachhaltige Materialien zu verwenden
-- Hervorragendes Feuchtigkeitsmanagement
 - Bewegungsfreiheit
 - Auf die verschiedenen Körperpartien abgestimmtes Material
+- Hervorragendes Feuchtigkeitsmanagement
 - Für jedes Wetter. Draußen oder drinnen. Schnell oder langsam. Baselayer und mehr. Unsere funktionale Kleidung für aktive, leidenschaftliche Menschen wird von innen nach außen in der Schweiz entworfen. Dabei verwenden wir eine branchenprägende Lagentechnologie, die wir vor 75 Jarehn erfunden haben
+- Mit dem Ziel, die Bedürfnisse von Alltagsathlet:innen und die unseres Planeten in Einklang zu bringen, verfolgt ODLO den festen Vorsatz, spätestens ab 2030 nur noch nachhaltige Materialien zu verwenden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07N2BDQX4{{</world>}}

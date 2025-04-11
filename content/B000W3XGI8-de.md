@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Weiß
-- Eingangs-Typ: Tasteneingabe.
-- Frequenzband: 0,433 GHz.
-- Kompatibilität mit anderen Marken Intertechno.
 - Produktbeschreibung: Intertechno ITS – 150.
-- Schnittstelle: Funk-Fernbedienung.
-- Spannung: 3 V.
+- Frequenzband: 0,433 GHz.
 - Art der Batterie: CR2032/b.
+- Schnittstelle: Funk-Fernbedienung.
+- Eingangs-Typ: Tasteneingabe.
+- Spannung: 3 V.
+- Farbe: Weiß
+- Kompatibilität mit anderen Marken Intertechno.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000W3XGI8{{</world>}}

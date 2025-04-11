@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial: Textil
 - Innenmaterial: Textil
 - Sohle: Gummi
-- Obermaterial: Textil
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM51JF3F{{</world>}}

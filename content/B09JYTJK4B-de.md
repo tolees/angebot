@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Getestet, um 4 x so viele Stürze zu überstehen wie Militärstandard (MIL-STD-810G 516.6) mit erhöhten Kanten schützen Kamera und Bildschirm
+- Kompatibel mit Pixel 6 Pro
 - Mehrschichtiger Schutz vor der massiven Innenschale und der widerstandsfähigen Außenschoner mit Anschlussabdeckungen, die Schmutz, Staub und Fusseln davon abhalten, in Buchsen und Anschlüsse zu gelangen
 - Inklusive eingeschränkter lebenslanger Garantie von OtterBox (siehe Website für Details)
-- Kompatibel mit Pixel 6 Pro
-- Getestet, um 4 x so viele Stürze zu überstehen wie Militärstandard (MIL-STD-810G 516.6) mit erhöhten Kanten schützen Kamera und Bildschirm
 - Aus 50 % recyceltem Kunststoff, das Screenless Design bietet eine makellose Touch-Reaktion und das mitgelieferte Holster funktioniert als Gürtelclip und ein freihändiger Standfuß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rippbündchen an Ärmeln und Saum
 - mit Farbverlauf
+- Rippbündchen an Ärmeln und Saum
 - Artwork mit Stickereien vorne rechts
 - Kapuze mit Print, Innentape und Kordelzug
 

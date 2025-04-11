@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Systemspeichertyp: DDR4 bis zu 3200MHz
 - Kühler nicht enthalten, maximale Temperaturen: 90°
 - 65 W Konfiguration, CPU Socket: AM4
 - # der CPU-Kerne: 8, # der Gewinde: 16, Basisuhr: 3.4 GHz, maximale Boost-Takt: bis zu 4.6 GHz, Gesamt-L2-Cache: 4 MB, Gesamt-L3-Cache: 32 MB
-- Systemspeichertyp: DDR4 bis zu 3200MHz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09VCHQHZ6{{</world>}}

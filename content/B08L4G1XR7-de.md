@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 2 ans
 - 192333042809
 - Clinique
-- 2 ans
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08L4G1XR7{{</world>}}

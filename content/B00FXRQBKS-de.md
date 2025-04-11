@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gesamtlänge: 412 mm
-- Inhalt: 1 x Möbelgriff inkl. Befestigungsmaterial
-- Griff-Ø: 12 mm
-- Bohrlochabstand: 352 mm
 - Material: Edelstahl
+- Griff-Ø: 12 mm
+- Gesamtlänge: 412 mm
+- Bohrlochabstand: 352 mm
+- Inhalt: 1 x Möbelgriff inkl. Befestigungsmaterial
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00FXRQBKS{{</world>}}

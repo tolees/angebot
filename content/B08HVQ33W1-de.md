@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Kompaktes, leichtes und ergonomisches Gehäuse mit dem vertrauten Nikon Menüstruktur. Aufgrund der sehr großen Nikon Dank der Z-Halterung kann die Kamera im gesamten Bild mehr Licht einfangen. Mehr Licht bedeutet noch hochwertigere Bilder
 - Überall scharf. Das Hybrid-AF-System (Autofokus) arbeitet schnell und präzise. Die intelligente Augenerkennungsfunktion (AF) konzentriert sich automatisch auf menschliche und tierische Augen.
-- Dank des großen ISO-Bereichs von 100 bis 51.200 und des Autofokus können Sie auch im Dunkeln alle Details erfassen. Die integrierte optische Vibrationsreduzierung korrigiert Kameraverwacklungen
 - Nehmen Sie jede Szene mit atemberaubendem Detail mit 4K-Vollformat-Video und Zeitlupe auf. Nehmen Sie Fotos auf, während Sie in 4K oder Full HD aufnehmen. Mit der SnapBridge-App befinden sich die hochwertigen Bilder direkt auf Ihrem Smartphone, sodass Sie sie direkt über soziale Medien teilen können.
+- Dank des großen ISO-Bereichs von 100 bis 51.200 und des Autofokus können Sie auch im Dunkeln alle Details erfassen. Die integrierte optische Vibrationsreduzierung korrigiert Kameraverwacklungen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08HVQ33W1{{</world>}}

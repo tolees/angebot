@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Anspruchsvolle Verklebungen – Auch für Anwendungen, die eine gleichmäßige Spannungsverteilung oder hohe Zug- & Scherfestigkeit erfordern, ist der Klebstoff geeignet.
-- Praktischer Lieferumfang – LOCTITE 480, nur für den industriellen Gebrauch geeignet, schnell aushärtender Cyanacrylat Kleber, auf Basis von Cyanacrylat, ideal für stoßfeste Reparaturen, Schwarz, 1x20g
-- Schnelle Reparaturen – Der Sofortklebstoff kann für Metall, Kunststoffe, Magnete oder Gummi verwendet werden. Ideal für Reparaturen, da er schnell aushärtend & schlagzäh ist.
 - Vielseitig einsetzbar – Als Kleber für Anwendungen, bei denen hohe Stoßfestigkeit erfordert wird, verbindet der Sekundenkleber Kunststoff, Metall, Gummi oder Magnete.
+- Schnelle Reparaturen – Der Sofortklebstoff kann für Metall, Kunststoffe, Magnete oder Gummi verwendet werden. Ideal für Reparaturen, da er schnell aushärtend & schlagzäh ist.
+- Praktischer Lieferumfang – LOCTITE 480, nur für den industriellen Gebrauch geeignet, schnell aushärtender Cyanacrylat Kleber, auf Basis von Cyanacrylat, ideal für stoßfeste Reparaturen, Schwarz, 1x20g
 - Hohe Feuchtigkeitsbeständigkeit – Der schlagzähe Sofortklebstoff überzeugt mit Flexibilität sowie Schälfestigkeit. Zudem ist er sehr feuchtigkeitsbeständig.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

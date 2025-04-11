@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kühlkörper aus Aluminium inklusive Wärmeleitpads
-- Datentransferrate von bis zu 64 Gbit/s
 - Verwendung von zweiseitig bestückten SSDs möglich
+- Datentransferrate von bis zu 64 Gbit/s
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B094YBFZWV{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Interne Abschirmung aus Metall, Externes Netzteil im Lieferumfang
-- Hartvergoldete RCA-Buchsen
-- Kompakte Maße zur Aufstellung nah beim Plattenspieler
 - Designprinzip inspiriert von Dr. Sykora, SMD Schaltkreise mit sehr rauscharmen Komponenten
+- Kompakte Maße zur Aufstellung nah beim Plattenspieler
+- Hartvergoldete RCA-Buchsen
 - Verstärkung und RIAA Entzerrung für MM
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

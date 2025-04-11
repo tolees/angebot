@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abnehmbare Handgelenkauflage
-- 9 Regenbogenwellen-Farbmodi mit einstellbarer Helligkeit. Spezieller Spielmodus für die Deaktivierung der Windows-Taste.
-- Aus echtem Metall hergestellte Oberplatte. Rutschfeste Gummifüße.
 - Fortschrittliches Anti-Ghosting, bis zu 16 gleichzeitige Tastenanschläge. 12 Media-Tasten für Direktzugriff.
 - Halbmechanische Tasten: kombinieren Sie das weiche Berührungsgefühl einer herkömmlichen Tastatur mit der Optik und Haptik einer mechanischen Tastatur
+- Aus echtem Metall hergestellte Oberplatte. Rutschfeste Gummifüße.
+- Abnehmbare Handgelenkauflage
+- 9 Regenbogenwellen-Farbmodi mit einstellbarer Helligkeit. Spezieller Spielmodus für die Deaktivierung der Windows-Taste.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0746NXVSS{{</world>}}

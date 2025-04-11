@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kaffee fließt durch den Trichter direkt in Tasse oder Becher Kaffeekanne
-- Der Kaffee Dripper kontrolliert den Fluss, Timing und Temperatur des Wassers
 - Zum manuellen aufgießen Sie die gewünschte Ziehzeit und Temperatur gewählt, um eine perfekte Tasse Kaffee
+- Der Kaffee Dripper kontrolliert den Fluss, Timing und Temperatur des Wassers
+- Kaffee fließt durch den Trichter direkt in Tasse oder Becher Kaffeekanne
 - Robuster, leichter Kaffee-filteraufsatz; ideal für Reisen
 
 [🛒 Hier!!]({{< param buyurl >}})

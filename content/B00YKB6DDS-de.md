@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hose mit modernem Karotten-Schnitt mit zwei Seitentaschen
 - Marke: Uhlsport
-- elastische Rippbündchen
-- Bund mit kontrastfarbenem Kordelzug
+- Hose mit modernem Karotten-Schnitt mit zwei Seitentaschen
 - gedruckter Uhlsport-Schriftzug
+- Bund mit kontrastfarbenem Kordelzug
+- elastische Rippbündchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00YKB6DDS{{</world>}}

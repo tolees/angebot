@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Made in Germany - Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
-- Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze.
 - Zylinderkopf für leichteres Versenken im Holz. Vollgewinde zur Aufnahme hoher Zug- und Druckkräfte. Optimale Kraftübertragung und sauberer Passsitz mit SPAX Bit T-STAR plus T30 mit Führungszapfen
+- Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze.
+- Made in Germany - Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 - Einsatz: Ideal für die Anwendungsbereiche Holz-Glas-Fassaden und Holzbau. SPAX-exklusive WIROX-Oberfläche
 
 [🛒 Hier!!]({{< param buyurl >}})

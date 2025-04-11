@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
 - Enganliegende Passform/Bike-Spezifischer Schnitt
 - Herren Trägerhose (Innenbeinlänge: 25 cm) für Fahrradfahrer bei warmen Wetterbedingungen
-- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
 - Sitzpolster für Rennradfahrer mit atmungsaktivem, vorgeformtem, winddichtem Vorderbereich, Trägerkonstruktion aus Netzmaterial
 - GORE C5 Optiline Bib Shorts+, Größe: L, Farbe: Schwarz/Weiß, 100162
 

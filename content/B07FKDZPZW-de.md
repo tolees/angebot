@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastische Baumwollmischung
-- Natürliche und Stützende Passform
 - Atmungsaktive Konstruktion
+- Natürliche und Stützende Passform
+- Elastische Baumwollmischung
 - Mesh-einsätze
 - Verstärkungen an den Zehen
 

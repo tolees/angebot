@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dein Vermächtnis ist das, was du daraus machst. Lebe das Ungeschriebene
-- Entscheide letztlich über das Schicksal der Welt der Zauberei
 - Erlebe Hogwarts im 19. Jahrhundert. Dein Charakter ist ein Schüler, der den Schlüssel zu einem uralten Geheimnis besitzt
 - Ab sofort steht das neue kostenlose Update zur Verfügung: "Heimgesuchtes Geschäft in Hogsmeade"-Auftrag inkl. Kerker, Kosmetikset & Geschäft, Fotomodus und Kosmetische Gegenstände
+- Entscheide letztlich über das Schicksal der Welt der Zauberei
 - Entdecke das Gefühl, in Hogwarts zu leben, während du Verbündete findest und gegen schwarze Zauberer kämpfst
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kultserie basierend auf dem beliebten Manga von Gosho Aoyama
-- bekannt aus der TV-Ausstrahlung auf RTL II, VIVA und ProSieben MAXX
 - Filme, TV-Specials und Merchandise ebenfalls bei KAZÉ
 - für Fans von klassischen Detektivgeschichten, wie Sherlock Holmes
+- bekannt aus der TV-Ausstrahlung auf RTL II, VIVA und ProSieben MAXX
+- Kultserie basierend auf dem beliebten Manga von Gosho Aoyama
 - bekannt aus der TV-Ausstrahlung auf RTL II, VIVA und ProSieben MAXX
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

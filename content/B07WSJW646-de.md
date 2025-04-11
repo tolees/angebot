@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größe: 170 mm (L) x 150 mm (B) x 86 mm (H)
 - Vergoldete Anschlüsse
 - 80 PLUS Titanium
 - Das PRIME TX-750, ist der Nachfolgeartikel vom PRIME Ultra 750 Titanium (SSR-750TR)
+- Vollmodulares Netzteil
 - Mikrotoleranzlastregelung
 - Intel ATX 12 V
-- Vollmodulares Netzteil
+- Größe: 170 mm (L) x 150 mm (B) x 86 mm (H)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07WSJW646{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lass es dich nicht runterbringen
-- No More "I Love You"
-- Bring mich zum Fluss
-- Vergeblich trainieren
 - Ein weißerer Farbton von Blass
+- No More "I Love You"
+- Lass es dich nicht runterbringen
+- Vergeblich trainieren
+- Bring mich zum Fluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0788CVVZC{{</world>}}

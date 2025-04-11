@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alle lieben UNO Kinder, Teens und Erwachsene! Wer einmal anfängt, hört nie wieder auf!
+- Das Spiel wird in einer bunten und robusten Dose geliefert, die sich perfekt für die Aufbewahrung eignet.
 - Bei diesem klassischen Kartenspiel können sich zwei bis zehn Spieler gegenseitig oder in Teams herausfordern.
 - Ziel des Spiels ist es, als erstes alle Karten abzulegen und wer nur noch eine Karte hat, muss laut UNO“ rufen!
-- Das Spiel wird in einer bunten und robusten Dose geliefert, die sich perfekt für die Aufbewahrung eignet.
+- Alle lieben UNO Kinder, Teens und Erwachsene! Wer einmal anfängt, hört nie wieder auf!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000CFWFYM{{</world>}}

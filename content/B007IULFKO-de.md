@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Werkstoff: Kunststoff
 - Leerflasche mit 1 Liter Fassungsvermögen
-- Universell einsetzbar
 - Geeignet für Wasser, Lösungsmittel, Chemiekalien, Bremsenreiniger, etc.
+- Universell einsetzbar
+- Werkstoff: Kunststoff
 - Hochwertig verarbeitete Pump-Spraydose
 
 [🛒 Hier!!]({{< param buyurl >}})

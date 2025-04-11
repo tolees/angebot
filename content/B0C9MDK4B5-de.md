@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Obermaterial: Leder
 - Sohle: Gummi
-- Absatzform: Flach
 - Innenmaterial: Synthetik
+- Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C9MDK4B5{{</world>}}

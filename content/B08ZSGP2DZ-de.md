@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - SMART HOME: das Smartphone ersetzt den Haustürschlüssel - einfach per App die Haustür verriegeln, entriegeln und öffnen - ein Klick und die Tür stößt automatisch auf
+- SPEICHER: bis zu 28 Speicherplätze pro smartes Türschloss - für Nutzer (per App/Tastatur/Fingerscanner) oder verknüpfbare Geräte
+- MONTAGE: unkompliziert in das bestehende Schließsystem an der Türinnenseite einzubauen: Kabellose Montage durch Kleben, Klemmen oder Schrauben - der Antrieb ist batteriebetrieben
+- HINWEIS: Das smarte Türschloss ist nur mit Komponenten (Fingerscanner, Tastatur, WLAN-Bridge, Fernbedienung) der Bluetooth 3100er Produktserie kompatibel
 - WER HAT ZUTRITT? Per App Freunden, Verwandten und Dienstleistern Zutritt erteilen - eingeschränkte Zeitspannen sind möglich (z.B. für Reinigungskräfte)
 - SICHERHEIT: AES-128-Bit Verschlüsselung bietet hohen Schutz vor der Datenentschlüsselung und somit vor Einbrechern - mitgelieferte Keycard enthält einzigartigen QR-Code
-- HINWEIS: Das smarte Türschloss ist nur mit Komponenten (Fingerscanner, Tastatur, WLAN-Bridge, Fernbedienung) der Bluetooth 3100er Produktserie kompatibel
-- MONTAGE: unkompliziert in das bestehende Schließsystem an der Türinnenseite einzubauen: Kabellose Montage durch Kleben, Klemmen oder Schrauben - der Antrieb ist batteriebetrieben
-- SPEICHER: bis zu 28 Speicherplätze pro smartes Türschloss - für Nutzer (per App/Tastatur/Fingerscanner) oder verknüpfbare Geräte
 - KOSTENLOSE APP: smartes Türschloss - steuerbar über die ABUS HomeTec Pro-App - mit allen bluetoothfähigen iPhones oder Android Smartphones
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

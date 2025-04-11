@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regenerierend
 - Tiefenwirksam
+- Regenerierend
 - Hochkonzentriert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

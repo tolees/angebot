@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dunkle Augenringe und Schwellungen wirken gemildert
 - Die Haut um die Augen fühlt sich straffer an
+- Dunkle Augenringe und Schwellungen wirken gemildert
 - Mimikfalten und dauerhaft-sichtbare Falten wirken geglättet
 - Diadermine Lift+ Botology: unsere Alternative zu Mimikfalten-glättungs-injektionen
 - Transparente Formeln: 92% Inhaltsstoffe natürlichen Ursprungs (inkl. Wasser). Hohe Hautverträglichkeit.

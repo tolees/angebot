@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Für empfindliche Haut geeignet
+- Lichtreflektierender Concealer mit Pinsel-Applikator für einen gleichmäßigen und strahlend frischen Teint
+- Kaschiert Augenringe, Schatten, Linien und Fältchen
 - Nr. 9 - ivory
 - Langanahaltend mit mittelstarke Deckkraft und wasserabweisend
-- Lichtreflektierender Concealer mit Pinsel-Applikator für einen gleichmäßigen und strahlend frischen Teint
-- Für empfindliche Haut geeignet
-- Kaschiert Augenringe, Schatten, Linien und Fältchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003HKU4SS{{</world>}}

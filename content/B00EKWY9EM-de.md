@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: Besteckset 6 Person (30 Teile): je 6 Gabeln, Tafelmesser, Löffel, Kuchengabeln und Tee-/ Kaffeelöffel - Artikelnummer: 2145286431
-- Kollektion Midi
 - Das Besteckset Midi hat eine glatte, schlichte Form mit weichen und harmonischen Linien und passt dadurch zu jeder Tischkultur
+- Kollektion Midi
+- Inhalt: Besteckset 6 Person (30 Teile): je 6 Gabeln, Tafelmesser, Löffel, Kuchengabeln und Tee-/ Kaffeelöffel - Artikelnummer: 2145286431
 - Die soliden Monobloc Tafelmesser aus rostfreiem Edelstahl werden aus einem Stück geschmiedet und im Ganzen gehärtet
 - Material: hochwertiger Edelstahl rostfrei, poliert (glänzend). Die Besteckteile sind beständig gegen Speisesäuren, geschmacksneutral, rostfrei und spülmaschinengeeignet
 

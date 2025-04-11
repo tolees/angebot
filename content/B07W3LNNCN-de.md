@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnitthaltige Drop-Point Klinge (9,4 cm) zum Schneiden und Schnitzen, Skandinavische Klinge in Stonewashed-Optik und Griff aus einem Stück geschmiedet
+- Lieferumfang: 1 x Gerber Principle Bushcraft Fixed, 1 x Holster, Klingenlänge: 9,4 cm, Gesamtlänge: 21,3 cm, Klingenmaterial: 420 HC, 30-001659
 - Praktisches Allzweckmesser für verschiedene Outdoor-Aktivitäten, Perfekter Begleiter beim Campen, Wandern oder auf der Jagd
 - Sicherungsverschluss zur Aufbewahrung ohne Wackeln oder Klappern, Breiter und gummierter Griff für festen Halt in jeder Situation - auch bei Regen
 - Leichtes Kunststoff-Holster mit variablem Clip für horizontale und vertikale Tragemöglichkeit, Molle-Kompatibel für den universellen Einsatz
-- Lieferumfang: 1 x Gerber Principle Bushcraft Fixed, 1 x Holster, Klingenlänge: 9,4 cm, Gesamtlänge: 21,3 cm, Klingenmaterial: 420 HC, 30-001659
+- Schnitthaltige Drop-Point Klinge (9,4 cm) zum Schneiden und Schnitzen, Skandinavische Klinge in Stonewashed-Optik und Griff aus einem Stück geschmiedet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07W3LNNCN{{</world>}}

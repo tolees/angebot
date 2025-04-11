@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 【Kompatibel mit den meisten Ventilen】Der Heizkörperthermostat TRVZB passt auf vorhandene "M30 x 1,5 mm" Heizkörperventile und kann direkt oder mit unseren Adaptern auf die meisten Heizkörperventile montiert werden. (Adapter RA/RAV/RAVL/CAL/GIA/M28 sind im Lieferumfang enthalten)
+- 【Bitte beachten Sie】Erfordert die Verwendung mit einem Zigebee 3.0 Hub. Unterstützt SONOFF ZBDongle-P,ZBongle-E,ZBBridge Pro,NSPanel Pro,ihost. Smart Heizungsthermostat ist kompatibel mit Alexa und Google Home.
 - 【Smart Control】SONOFF Zigbee Heizkörperthermostat ist mit einer Vielzahl von intelligenten Funktionen ausgestattet, einschließlich ewelink APP-Fernsteuerung, Einstellung von Zeitplänen, Gruppensteuerung, Abfrage von historischen Daten usw.
 - 【Ventil unterstützt prozentuale Öffnung】Unterstützt Öffnungsverhältnisse von 0 % bis 100 %, mit einer Genauigkeit von 1 %. Das Öffnungsverhältnis kann als Ausführungsaktion für manuelle Szenen und automatische Szenen verwendet werden.
-- 【Bitte beachten Sie】Erfordert die Verwendung mit einem Zigebee 3.0 Hub. Unterstützt SONOFF ZBDongle-P,ZBongle-E,ZBBridge Pro,NSPanel Pro,ihost. Smart Heizungsthermostat ist kompatibel mit Alexa und Google Home.
 - 【Kompatibel mit den meisten Ventilen】Der Heizkörperthermostat TRVZB passt auf vorhandene "M30 x 1,5 mm" Heizkörperventile und kann direkt oder mit unseren Adaptern auf die meisten Heizkörperventile montiert werden. (Adapter RA/RAV/RAVL/CAL/GIA/M28 sind im Lieferumfang enthalten)
 - 【Historische Daten】Maximale Unterstützung von 6 Monaten historischer Datenabfrage, Sie kennen den täglichen/wöchentlichen/monatlichen Heizungsverbrauch durch Abfrage der Nutzungshistorie.
 

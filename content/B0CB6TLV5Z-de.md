@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufnahme auf MicroSD Karten mit bis zu 512GB
-- 32-Bit-Float-Audiorecorder mit Lavalier-Mikrofon
 - leicht, kompakt und unauffällig
+- bis zu 24,5 Stunden Aufnahmezeit mit 2 AAA Batterien
+- 32-Bit-Float-Audiorecorder mit Lavalier-Mikrofon
+- Aufnahme auf MicroSD Karten mit bis zu 512GB
 - 32bit floating Point Aufnahme für einen großen Dynamikbereich
 - Optionaler Bluetooth Adapter AK-BT1 zur Fernbedienung über eine App und zur Synchronisation
-- bis zu 24,5 Stunden Aufnahmezeit mit 2 AAA Batterien
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CB6TLV5Z{{</world>}}

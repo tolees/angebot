@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - mit Vierkantantrieb nach DIN 3120/ ISO 1174 mit Kugelarretierung
-- umschaltbar
-- fein verzahnter 72-Zahn Ratschenmechanismus
-- für Bits mit Außensechskantantrieb nach DIN 3126/ ISO 1173 - C 6, 3
 - 180° schwenkbarer Kopf
+- fein verzahnter 72-Zahn Ratschenmechanismus
+- umschaltbar
+- für Bits mit Außensechskantantrieb nach DIN 3126/ ISO 1173 - C 6, 3
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07QQYHWKR{{</world>}}

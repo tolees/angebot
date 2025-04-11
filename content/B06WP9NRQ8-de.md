@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal für Öfen Pizza Spice
+- Made in Italy
 - Ideal für Öfen Pizza G3Ferrari und Optima
 - Palette aus Holz
-- Made in Italy
+- Ideal für Öfen Pizza Spice
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06WP9NRQ8{{</world>}}

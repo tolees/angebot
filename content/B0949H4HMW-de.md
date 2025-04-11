@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Action-geladene Ermittlungen: Yagamis Arsenal voller Tricks für die Detektivarbeit erhält ein Upgrade - mit neuen Gadgets uvm.
 - Erkunde die geschäftigen Straßen Tokios und Yokohamas und bestaune dabei authentisch gestaltete Schauplätze, die so nur das RGG Studio bieten kann
-- Spieler schlüpfen erneut in die Rolle von Takayuki Yagami, einem ehemaligen Anwalt, der jetzt als schlagkräftiger Detektiv arbeitet
 - Yagamis einzigartige Kampfkunst meistert jede Situation, vom Ausschalten einzelner Gegner bis hin zum Verprügeln mehrerer Angreifer
+- Spieler schlüpfen erneut in die Rolle von Takayuki Yagami, einem ehemaligen Anwalt, der jetzt als schlagkräftiger Detektiv arbeitet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0949H4HMW{{</world>}}

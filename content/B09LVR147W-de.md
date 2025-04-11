@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Befestigungstyp: Wandmontierbar
 - Energieklasse: G Energielabel anzeigen
 - Bildschirmtyp: Flachbildschirm TFT
-- Befestigungstyp: Wandmontierbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09LVR147W{{</world>}}

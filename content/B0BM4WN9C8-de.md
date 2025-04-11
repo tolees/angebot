@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maßgeschneidertes Zubehör: Original Samsung Cover sind passgenau auf Samsung Smartphones und ihre Einsatzzwecke abgestimmt und können so Schutz, Komfort und Design auf ideale Weise vereinen.
 - So fühlt sich Premium an: Das Leather Case ist aus echtem Leder gefertigt und verleiht deinem Galaxy S23+ einen besonders stilvollen Schutz.
+- Maßgeschneidertes Zubehör: Original Samsung Cover sind passgenau auf Samsung Smartphones und ihre Einsatzzwecke abgestimmt und können so Schutz, Komfort und Design auf ideale Weise vereinen.
 - Das extra schlanke Design sorgt für eine angenehme Haptik und die robusten Stoßkanten sowie das weiche Innenfutter bieten eine Extraportion Schutz.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

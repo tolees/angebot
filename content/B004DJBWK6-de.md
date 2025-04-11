@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farben von Vallejo auf Wasser-Basis.
 - Für Modellbau, Hobby- und Bastelarbeiten.
+- Farben von Vallejo auf Wasser-Basis.
 - Ungiftig und vielfältig einsetzbar.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

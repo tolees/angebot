@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umfassendes Kühldesign: Eine aktive VRM- und Chipsatz-Kühlerkombination und eine vollständige Aluminium-Backplate mit Heatpipe sorgen für zusätzliche Masse, um mehr Wärme abzuführen zu können.
 - Hochleistungsnetzwerk: On-Board Wi-Fi 6 (802.11ax) mit MU-MIMO-Unterstützung und Intel-Gigabit-Netzwerk mit ASUS-LANGuard-Unterstützung sowie GameFirst-V-Technologien
-- SO-DIMM.2: Die mitgelieferte Erweiterungskarte mit integriertem Kühlkörper ermöglicht den Anschluss von zwei M.2-Laufwerken über eine SO-DIMM-Schnittstelle für niedrige SSD-Temperaturen bei maximaler Leistung.
+- Umfassendes Kühldesign: Eine aktive VRM- und Chipsatz-Kühlerkombination und eine vollständige Aluminium-Backplate mit Heatpipe sorgen für zusätzliche Masse, um mehr Wärme abzuführen zu können.
 - Fortschrittliche Wasserkühlungsfunktionen: ROG-Wasserkühlungszone sowie Wasserpumpe+ und Radiator-Header für eine problemlose Integration individueller Kühlkreisläufe
+- SO-DIMM.2: Die mitgelieferte Erweiterungskarte mit integriertem Kühlkörper ermöglicht den Anschluss von zwei M.2-Laufwerken über eine SO-DIMM-Schnittstelle für niedrige SSD-Temperaturen bei maximaler Leistung.
 - AMD-AM4-Sockel: Bereit für die AMD-Ryzen-Prozessoren der 2. und 3. Generation sowie bis zu zwei M.2-Laufwerke, USB 3.1 Gen2 und AMD StoreMI für maximale Konnektivität und Geschwindigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

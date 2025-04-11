@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LED-Anzeige, Metall-Frontgitter mit mattschwarzer Oberfläche, Wandmontage oder Tischaufstellung möglich
-- 2.0 Soundbar für Fernseher und Monitore kleiner als 32 Zoll, Außenmaße Soundbar: 65.2 x 8.8 x 6.4 cm
-- Lieferumfang: HT-SB107 Soundbar, Soundbar-Fernbedienung (inklusive Batterien), Stromkabel, 2 x Wandhalterung, Bedienungsanleitung, Quick Start Guide, Garantieheft
 - Anschlüsse: 1 x HDMI mit ARC und CEC, 1 x USB, 1 x Digital Optical Input, 1 x Aux-In 3.5 mm, 1 x Bluetooth
+- Lieferumfang: HT-SB107 Soundbar, Soundbar-Fernbedienung (inklusive Batterien), Stromkabel, 2 x Wandhalterung, Bedienungsanleitung, Quick Start Guide, Garantieheft
+- 2.0 Soundbar für Fernseher und Monitore kleiner als 32 Zoll, Außenmaße Soundbar: 65.2 x 8.8 x 6.4 cm
 - 90 Watt maximale Gesamtausgangsleistung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

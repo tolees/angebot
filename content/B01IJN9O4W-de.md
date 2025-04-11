@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stil: Sandalen
+- Obermaterial aus Leder
 - Bequemes Fußbett für ganztägigen Gebrauch
 - Obermaterial: Anderes Leder
-- Obermaterial aus Leder
+- Stil: Sandalen
 - Verschlussart: Pull On
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 12 Magic: The Gathering-Karten pro Booster
-- Traditionelle Folienkarte und Kunstkarte in jeder Packung. Bekämpfen Sie die Maschinenlegion, während Phyrexians Flugzeuge über das Multiversum eindringen
-- 1-5 Karten der Seltenheit Selten oder höher in jeder Packung
-- Mindestens 1 Multiverse Legenden-Karte in jeder Packung
 - Enthält 30 March of the Machine Set Booster – die besten MTG-Booster zum Öffnen nur zum Spaß
+- Mindestens 1 Multiverse Legenden-Karte in jeder Packung
+- 1-5 Karten der Seltenheit Selten oder höher in jeder Packung
+- Traditionelle Folienkarte und Kunstkarte in jeder Packung. Bekämpfen Sie die Maschinenlegion, während Phyrexians Flugzeuge über das Multiversum eindringen
+- 12 Magic: The Gathering-Karten pro Booster
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BPZH7TWX{{</world>}}

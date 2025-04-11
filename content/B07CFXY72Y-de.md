@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Bedienbarkeit: Vibrationsfreies Sägen, werkzeugloser Sägeblattwechsel und wartungsfreies Arbeiten ohne Klemmen, Ölen oder Schärfen
 - Schnitttiefe in Holz : 65 mm | Akku-Kompatibilität : 18V POWER FOR ALL ALLIANCE | Akku-Empfehlung : >=2.5Ah
 - Die Advanced Werkzeuge von Bosch – Beste Leistung für die höchsten Ansprüche und umfangreiche Projekte
 - Lieferumfang: AdvancedCut 18, Nanoblade Wood Speed 65 mm, transparente Sägeblattschutzabdeckung, Aufbewahrungsschlaufe, Karton
+- Einfache Bedienbarkeit: Vibrationsfreies Sägen, werkzeugloser Sägeblattwechsel und wartungsfreies Arbeiten ohne Klemmen, Ölen oder Schärfen
 - Die Akku-Säge AdvancedCut 18 mit bürstenlosem Motor für kraftvolles Sägen mit innovativer NanoBlade-Technologie
 - Dank ihrer hohen Leistung und Schnittgeschwindigkeit kann die AdvancedCut 18 bis zu 150 Äste mit nur einer Akkuladung bewältigen
 

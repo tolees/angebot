@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Avatar: Frontiers of Pandora ist ein Action-Adventure in Ego-Perspektive, das von Massive Entertainment entwickelt wird ; Das Ubisoft-Studio arbeitet dabei mit Lightstorm Entertainment und Disney zusammen
 - Avatar: Frontiers of Pandora erweckt die faszinierende Welt von Pandora in all seiner Schönheit und mit allen Gefahren in einer eindringlichen Erfahrung in einer offenen Spielwelt zum Leben
 - In dieser neuen, selbstständigen Geschichte können Sie als Na’vi spielen und sich auf eine Reise an die Westgrenze begeben ; Dieser Bereich von Pandora ist bislang unberührt
-- Die Avatar: Frontiers of Pandora Limited Edition enthält: das Hauptspiel, dem Sarentu Hunter Equipment PAKET bestehend aus einem Charakter Ausrüstungsset und einer einzigartigen Waffe
-- Avatar: Frontiers of Pandora ist ein Action-Adventure in Ego-Perspektive, das von Massive Entertainment entwickelt wird ; Das Ubisoft-Studio arbeitet dabei mit Lightstorm Entertainment und Disney zusammen
-- Wenn Sie die PlayStation 5 Version spielen, erhalten Sie kostenlos das „Aranahe Krieger“-Pack als digitalen Download
 - Mit der aktuellen Version der Snowdrop Engine wird das Spiel exklusiv für die neue Konsolengeneration und PC entwickelt
+- Die Avatar: Frontiers of Pandora Limited Edition enthält: das Hauptspiel, dem Sarentu Hunter Equipment PAKET bestehend aus einem Charakter Ausrüstungsset und einer einzigartigen Waffe
+- Wenn Sie die PlayStation 5 Version spielen, erhalten Sie kostenlos das „Aranahe Krieger“-Pack als digitalen Download
 - Erkunden Sie eine lebendige und reaktionsfreudige Welt, die von einzigartigen Kreaturen und neuen Charakteren bevölkert wird ; Schlagen Sie die respekteinflößenden Streitkräfte der RDA zurück, die sie bedrohen
 
 [🛒 Hier!!]({{< param buyurl >}})

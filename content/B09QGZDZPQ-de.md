@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Akku für den ganzen Tag und darüber hinaus. Der Akku ann sich intelligent an die Nutzung des Smartphones anpassen und hält über 24 Stunden
 - Unsere bisher beste Innovation. Der Sensor nimmt viel Licht auf, das Objektiv kann Lichtreflexionen reduzieren und KI sorgt für eine intelligente Verarbeitung.
 - Mit dem hellen Display des Galaxy S22+/ S22 auch bei Sonnenlicht Inhalte gut ablesen können. Das atemberaubende Dynamic AMOLED-Display wurde für die Verwendung im Freien entwickelt, sodass du auch bei hellem Tageslicht Inhalte gut sehen kannst.
-- Akku für den ganzen Tag und darüber hinaus. Der Akku ann sich intelligent an die Nutzung des Smartphones anpassen und hält über 24 Stunden
 - Kostenlose Garantieverlängerung auf 3 Jahre⁴
-- Team-Besprechung mit Google Duo. Filme und Videos zusammen ansehen und in hoher Qualität streamen.²
 - Unser bisher schnellster und leistungsstärkster Chip. Das bedeutet, eine schnellere CPU und GPU im Vergleich zu Galaxy S21 Ultra. Ein bedeutender Schritt für unsere Smartphone-Technologie.
+- Team-Besprechung mit Google Duo. Filme und Videos zusammen ansehen und in hoher Qualität streamen.²
 - Der OIS-Korrekturwinkel wurde um 58 % verbessert und ermöglicht eine schnelle Bewegungsabtastung zur Stabilisierung. Super HDR passt die Farbe Frame für Frame an.
 
 [🛒 Hier!!]({{< param buyurl >}})

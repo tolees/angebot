@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Schütteln zum Mixen der zwei Phasen, Auftragen auf ein Wattepad und Entfernen von Makeup im Gesicht und an den Augen
-- Doppelt effektiv: Sanftes, rückstandloses Entfernen dank der blauen und der durchsichtigen Lösung, Geschmeidiges Gefühl nach der Reinigung
-- Reinigende 2-Phasen-Lotion für schnelle Make-Up-Entfernung, Geeignet für jedes Make Up, auch wasserfeste Schminke
-- 2-Phasen-Formel dermatologisch getestet, Geeignet für die empfindliche Augenpartie sowie Kontaktlinsenträger
 - Lieferumfang: 1x Maybelline New York Augen-Make-Up Entferner Waterproof, Inhalt: 125 ml
+- Anwendung: Schütteln zum Mixen der zwei Phasen, Auftragen auf ein Wattepad und Entfernen von Makeup im Gesicht und an den Augen
+- Reinigende 2-Phasen-Lotion für schnelle Make-Up-Entfernung, Geeignet für jedes Make Up, auch wasserfeste Schminke
+- Doppelt effektiv: Sanftes, rückstandloses Entfernen dank der blauen und der durchsichtigen Lösung, Geschmeidiges Gefühl nach der Reinigung
+- 2-Phasen-Formel dermatologisch getestet, Geeignet für die empfindliche Augenpartie sowie Kontaktlinsenträger
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0013BL1BC{{</world>}}

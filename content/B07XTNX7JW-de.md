@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit mehr als 300 Tropfen pro Flasche äußerst ergiebig und bis zu 6 Monate nach Anbruch haltbar
-- Unterstützt die körpereigene Barrierefunktion gegen entzündliche Reize
-- Intensive Befeuchtung und langanhaltende Linderung entzündlicher Symptome
 - Sanft zum Auge, da frei von Phosphaten und Konservierungsmitteln
 - Stabilisiert den Tränenfilm und schützt die Augenoberfläche vor erneuter Austrocknung
+- Intensive Befeuchtung und langanhaltende Linderung entzündlicher Symptome
+- Mit mehr als 300 Tropfen pro Flasche äußerst ergiebig und bis zu 6 Monate nach Anbruch haltbar
+- Unterstützt die körpereigene Barrierefunktion gegen entzündliche Reize
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XTNX7JW{{</world>}}

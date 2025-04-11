@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein ganzes Universum an Ninja-Spielzeugen für Kinder: LEGO NINJAGO Sets beinhalten Mechs, Fahrzeuge und Spielzeug-Schwerter, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
 - Drachen-Geschenk für Jungs und Mädchen: Dieses LEGO NINJAGO Set bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder, die sich eine spontane Belohnung verdient haben
-- Drachen-Spielzeug für Kinder: Mit Nyas Drachengleiter können Jungen und Mädchen ab 6 Jahren die Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
-- Größere Ninja-Abenteuer: Hol dir weitere separat erhältliche NINJAGO Actionspielzeuge, um die Duelle aus LEGO NINJAGO Dragons Rising nachzustellen
-- Drachenpower-Element: Der LEGO NINJAGO Drache aus diesem LEGO NINJAGO Spielzeug hat ein oranges Drachenpower-Element passt im Maul
-- Ninja-Spielzeug: Dein Kind kann die Drachenreiterin NINJAGO Nya auf den Rücken des blauen Drachen setzen und dann seinen goldenen Schwanz runterschlagen, um beide nach vorne zu katapultieren
 - 2 LEGO NINJAGO Figuren: Dieses Action-Spielzeug beinhaltet die NINJAGO Minifigur Nya mit einem Mini-Katana für Rollenspiele und packende Duelle mit einem Wolfsklauenjäger
+- Ninja-Spielzeug: Dein Kind kann die Drachenreiterin NINJAGO Nya auf den Rücken des blauen Drachen setzen und dann seinen goldenen Schwanz runterschlagen, um beide nach vorne zu katapultieren
+- Ein ganzes Universum an Ninja-Spielzeugen für Kinder: LEGO NINJAGO Sets beinhalten Mechs, Fahrzeuge und Spielzeug-Schwerter, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
+- Drachen-Spielzeug für Kinder: Mit Nyas Drachengleiter können Jungen und Mädchen ab 6 Jahren die Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
+- Drachenpower-Element: Der LEGO NINJAGO Drache aus diesem LEGO NINJAGO Spielzeug hat ein oranges Drachenpower-Element passt im Maul
+- Größere Ninja-Abenteuer: Hol dir weitere separat erhältliche NINJAGO Actionspielzeuge, um die Duelle aus LEGO NINJAGO Dragons Rising nachzustellen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CFVYD6PD{{</world>}}

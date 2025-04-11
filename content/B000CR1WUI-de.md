@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Aramis Classic 110 ml - Neu OVP
-- Eau de Toilette Spray
-- Klassik maskuline Luxus
 - Herrenduft pour Homme
+- Klassik maskuline Luxus
+- Eau de Toilette Spray
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000CR1WUI{{</world>}}

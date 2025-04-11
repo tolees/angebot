@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Fingerabdrucksensor - 5100 mAh Akku
-- 12 GB Arbeitsspeicher
-- 6,67 Zoll / 16,94 cm
-- Triple-Kamera: 64 MP + 8 MP + 2 MP
 - 256 GB interner Speicher
+- 12 GB Arbeitsspeicher
+- Triple-Kamera: 64 MP + 8 MP + 2 MP
+- 6,67 Zoll / 16,94 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CR1FXRCT{{</world>}}

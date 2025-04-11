@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Shin Oonuma
-- 150
-- BRD
 - Deutsch, Japanisch
+- 150
+- Shin Oonuma
+- BRD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B095HHYC6P{{</world>}}

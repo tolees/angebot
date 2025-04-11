@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bluetooth (v4.2)
 - AI Sound Pro für automatische Klanganpassung
 - High Resolution Audio
 - TV Sound Mode Share
+- Bluetooth (v4.2)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B222N8MG{{</world>}}

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einsatz der Säge in beiden Richtungen auf der Schiene möglich
+- 1.300 Watt Tauchkreissäge inklusive 1.500mm Führungsschiene
 - Für den Einsatz mit den DeWalt Tauchkreissägen und ausgewählten Handkreissägen
 - 1.500 mm Führungsschiene mit mittig positionierter Sägeführung
-- 1.300 Watt Tauchkreissäge inklusive 1.500mm Führungsschiene
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SW7WFJJ{{</world>}}

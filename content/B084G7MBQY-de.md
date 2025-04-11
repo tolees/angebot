@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INKL. ISOFIX STATION: Der hochwertige Maxi-Cosi Mica Autokindersitz kann ab Geburt bis ca. 4 Jahre (ca. 18 kg) genutzt werden und hat die Basisstation gleich inklusive
+- RÜCKWÄRTS- & VORWÄRTSGERICHTET: Rückwärtsgerichtete Position ab der Geburt bis zu einem Alter von ca. 4 Jahren (Vorwärts empfohlen ab ca. 15 Monaten)
+- 360°-DREHBAR: Die Benutzung eines Kindersitzes war noch nie leichter und komfortbabler dank der möglichen 360° Drehung des Sitzes
 - I-SIZE: Der Autositz von Maxi-Cosi entspricht den höchsten Sicherheitsstandards der i-Size-Norm
 - MAXIMALER SCHUTZ: Inkl. innovativer G-CELL-Technologie für den maximalen Schutz Ihres Kindes im Falle eines Seitenaufpralls
-- 360°-DREHBAR: Die Benutzung eines Kindersitzes war noch nie leichter und komfortbabler dank der möglichen 360° Drehung des Sitzes
-- RÜCKWÄRTS- & VORWÄRTSGERICHTET: Rückwärtsgerichtete Position ab der Geburt bis zu einem Alter von ca. 4 Jahren (Vorwärts empfohlen ab ca. 15 Monaten)
+- INKL. ISOFIX STATION: Der hochwertige Maxi-Cosi Mica Autokindersitz kann ab Geburt bis ca. 4 Jahre (ca. 18 kg) genutzt werden und hat die Basisstation gleich inklusive
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B084G7MBQY{{</world>}}

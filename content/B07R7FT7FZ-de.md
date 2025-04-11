@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leistungsfähiges Telezoom
 - Perfekte Schärfe und brilliantes Bokeh
 - hohe Abbildungsleistung
-- Lichtstärke F/2.8-4
+- Leistungsfähiges Telezoom
 - Herausragende VC-Bildstabilisierung (bis zu 4 Stufen laut CIPA-Standard)
+- Lichtstärke F/2.8-4
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07R7FT7FZ{{</world>}}

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
 - Mit dezentem Logo auf der Brust
-- Aus leichtem, atmungsaktivem Pikeegewebe
-- Ein vielseitiges Poloshirt, das stylish, schick und alles andere als altbacken ist
 - Entwickelt, um Feuchtigkeit abzuleiten, damit du bequem bleibst
+- Ein vielseitiges Poloshirt, das stylish, schick und alles andere als altbacken ist
+- Aus leichtem, atmungsaktivem Pikeegewebe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08PDJVDYH{{</world>}}

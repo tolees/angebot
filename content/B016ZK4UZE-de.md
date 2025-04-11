@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit Standlichtfunktion, ohne Rückstrahler
-- Klarglastechnik mit rot leuchtender LED
 - Zulassungen: StVZO
-- Gute Abstandseinschätzung
 - Miniatur LED Dynamorücklicht zur Gepäckträgermontage
+- Gute Abstandseinschätzung
+- Klarglastechnik mit rot leuchtender LED
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B016ZK4UZE{{</world>}}

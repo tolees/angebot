@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Passend für Ihren Bildschirm: Kompatibel mit Monitoren bis zu 34 Zoll und bis zu 8 kg, VESA-Standard 75x75 mm und 100x100 mm; oder platzieren Sie einen Laptop anstelle eines Monitors mit der Notebookhalterung (Artikelnr. 50-193-200, separat erhältlich)
-- Auf Langlebigkeit ausgelegt: Professionelle Qualität und umfangreiche Tests für Sicherheit und Haltbarkeit – Ergotron-Produkte setzen den Standard mit einer 5-Jahres-Garantie und fachkundigem technischen Support
-- Bringen Sie Bewegung in Ihren Arbeitsalltag: Verbessern Sie Ihren Arbeitsplatz mit 360 Grad Schwenkung nach links und rechts, 35 Grad Neigung und 360 Grad Drehung im Hoch- und Querformat für einfache und komfortable Anpassungen
-- Saubere Kabelführung: Der schlanke flache Arm lässt sich nah an der Wand montieren und führt die Kabel nahtlos weiter – für mehr nutzbaren Platz auf dem Schreibtisch und mehr Ordnung und Stil am Arbeitsplatz
 - Aufbau in Minuten: Einfache Montage mit nur einem Werkzeug; befestigen Sie die Tischklemme schnell an Arbeitsflächen mit einer Dicke von bis zu 5 cm und montieren Sie den Monitorarm mit dem mitgelieferten Werkzeug an einem beliebigen festen Punkt entlang der 33 cm langen Säule; einschließlich Sockel und Säule, Arm, Drehpunkt, Kabelführungsclips, Installationswerkzeug und VESA-Hardware
+- Saubere Kabelführung: Der schlanke flache Arm lässt sich nah an der Wand montieren und führt die Kabel nahtlos weiter – für mehr nutzbaren Platz auf dem Schreibtisch und mehr Ordnung und Stil am Arbeitsplatz
+- Bringen Sie Bewegung in Ihren Arbeitsalltag: Verbessern Sie Ihren Arbeitsplatz mit 360 Grad Schwenkung nach links und rechts, 35 Grad Neigung und 360 Grad Drehung im Hoch- und Querformat für einfache und komfortable Anpassungen
+- Auf Langlebigkeit ausgelegt: Professionelle Qualität und umfangreiche Tests für Sicherheit und Haltbarkeit – Ergotron-Produkte setzen den Standard mit einer 5-Jahres-Garantie und fachkundigem technischen Support
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C37SMZ8B{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konstruktionsspielzeug, das sich zu einem Miniatur-Teamtrainer zusammensetzt
-- Insgesamt ca. 1212 Stück
 - Geeignet ab 12 Jahren | Ca. 23 cm x 8 cm x 6 cm im fertig montierten Zustand
+- Insgesamt ca. 1212 Stück
 - Warnung: Erstickungsgefahr – Kleinteile
+- Konstruktionsspielzeug, das sich zu einem Miniatur-Teamtrainer zusammensetzt
 - Vereinsaufkleber für die Front, die Rückseite und die Seiten des Busses enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konnektivität über WLAN und Wi-Fi Direct
 - Bis zu 72 Patronen in einem Tintenflaschensatz
-- Unkompliziertes Tintentanksystem: Problemloses Nachfüllen dank Schlüssel-Schloss-Prinzip und Tintentanks an der Vorderseite
+- Konnektivität über WLAN und Wi-Fi Direct
 - Dieser Drucker ist nur ein Nicht-Scan- und Kopierdrucker.
+- Unkompliziertes Tintentanksystem: Problemloses Nachfüllen dank Schlüssel-Schloss-Prinzip und Tintentanks an der Vorderseite
 - Für den Druck von bis zu 4.500 Seiten in Schwarzweiß und 7.500 Seiten in Farbe
 
 [🛒 Hier!!]({{< param buyurl >}})

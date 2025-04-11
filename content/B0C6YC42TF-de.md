@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Warm gefüttert
-- Belüftungsreißverschlüsse
 - Bluesign-zertifiziert
+- Warm gefüttert
 - Sehr atmungsaktiv
+- Belüftungsreißverschlüsse
 - Sehr wasserdicht, winddicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

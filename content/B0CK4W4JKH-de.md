@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Smart TV: webOS 23 (LG ThinQ AI & AI Concierge) mit Amazon Alexa, Hands free Voice Control, Always Ready-Funktion, Intelligent Voice Recognition, Apple AirPlay 2 & HomeKit; Home Dashboard, inkl. LG Magic Remote-Fernbedienung und 2x AA Batterien
 - Prozessor: α9 Gen6 4K AI-Prozessor mit AI Picture Pro, AI Brightness Control, AI Acoustic Tuning, AI Picture Wizard, AI Concierge, AI Genre Selection & AI Sound Pro (Virtual 9.1.2 Up-mix); Gaming Features: NVIDIA G-SYNC- & AMD FreeSync kompatibel, HGiG-Unterstützung, Game Optimizer (VRR / ALLM / QMS)
-- Bild und Ton: Dolby Vision, HDR10 Pro, HLG, Filmmaker Mode; OLED Dynamic Tone Mapping Pro, 4K AI Super Upscaling, 4K High Frame Rate; Dolby Atmos-fähiges 2.2-Soundsystem mit 40 Watt, Bluetooth Surround Ready, Auto Volume Leveling & Auto Balance Control; WOW Orchestra & WOW Interface Unterstützung
 - Tunertyp und Konnektivität: Single Triple Tuner (DVB-T2/-C2/-S2), LAN (Ethernet), WiFi 6 (802.11ax), Bluetooth 5.0, 4x HDMI, eARC, 3x USB 2.0, Optischer Digitalausgang (S/PDIF, Lichtwellenleiter), 1x CI+-Slot
+- Bild und Ton: Dolby Vision, HDR10 Pro, HLG, Filmmaker Mode; OLED Dynamic Tone Mapping Pro, 4K AI Super Upscaling, 4K High Frame Rate; Dolby Atmos-fähiges 2.2-Soundsystem mit 40 Watt, Bluetooth Surround Ready, Auto Volume Leveling & Auto Balance Control; WOW Orchestra & WOW Interface Unterstützung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CK4W4JKH{{</world>}}

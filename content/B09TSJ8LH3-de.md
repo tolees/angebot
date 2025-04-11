@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- atmungsaktiv
 - warme Fleece-Innenjacke
-- mit Kapuze
 - aus recycelten Materialien
-- wasserdicht, winddicht
-- robust
 - 3-in-1-Jacke
 - warme Fleece-Innenjacke
+- robust
+- mit Kapuze
+- atmungsaktiv
+- wasserdicht, winddicht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09TSJ8LH3{{</world>}}

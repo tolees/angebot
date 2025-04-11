@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lasersichtbarkeit bis 30 m, bis 50 m mit Empfänger möglich
-- Lieferumfang: 1x Linienlaser Grün DCE0811D1G, 1x 10,8 Volt/2 Ah Li-Ion XR Akku, 1x Ladegerät, 1x Wandhalterung, 1x Lasersichtbrille, 1x Zieltafel, 1x Transportkoffer
 - Problemloser und exakter Einsatz durch automatische Selbstnivellierung
-- Laser verfügt über 1x horizontale und 1x vertikale Strahlenrichtung
+- Lieferumfang: 1x Linienlaser Grün DCE0811D1G, 1x 10,8 Volt/2 Ah Li-Ion XR Akku, 1x Ladegerät, 1x Wandhalterung, 1x Lasersichtbrille, 1x Zieltafel, 1x Transportkoffer
 - Präziser und robuster Laser für den universellen Einsatz
+- Lasersichtbarkeit bis 30 m, bis 50 m mit Empfänger möglich
+- Laser verfügt über 1x horizontale und 1x vertikale Strahlenrichtung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01EWNJAPG{{</world>}}

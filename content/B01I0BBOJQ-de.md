@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- XL EXTRALIGHT für mehr Leichtigkeit und Stoßdämpfung
 - Obermaterial: Leder (Rindsleder)
 - Laufsohle/Eigenschaften: EVA-Laufsohle für geringes Gewicht
+- XL EXTRALIGHT für mehr Leichtigkeit und Stoßdämpfung
 - Farbe: Braun
 - Elastikriemen für bequeme Passform
 

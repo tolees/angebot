@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Holzschatzkiste mit Scharnieren und Geheimfach
-- Mit Augenklappe, Bandana, Golddublonen und einem "Samt"-Beutesack.
-- Unglaublich preiswert
 - Fördert das fantasievolle Spielen.
 - Stabile Ausführung aus Holz
+- Mit Augenklappe, Bandana, Golddublonen und einem "Samt"-Beutesack.
+- Holzschatzkiste mit Scharnieren und Geheimfach
+- Unglaublich preiswert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0026ZPSFY{{</world>}}

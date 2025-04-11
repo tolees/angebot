@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- , Width:11 cm
 - , Localisation:Europe
 - , Depth:6.58 cm
 - , Height:7.52 cm
+- , Width:11 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00A0VCJPI{{</world>}}

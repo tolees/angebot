@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
 - Absatzform: Flach
-- Obermaterial: Gummi
 - Verschluss: Klettverschluss
+- Obermaterial: Gummi
+- Innenmaterial: Synthetik
 - Sohle: Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})

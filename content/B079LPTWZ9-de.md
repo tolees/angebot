@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Adjustable Super-Seal Neck
-- UltraFlex Combination Neoprene
 - Flatloc-Stitched Breathable Seams
+- Adjustable Super-Seal Neck
 - Wind-Resistant Smoothskin Chest und Back
+- UltraFlex Combination Neoprene
 - Strategic Seamless Paddle Zones
 
 [🛒 Hier!!]({{< param buyurl >}})

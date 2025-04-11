@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit den 8 beliebtesten Spielfiguren
 - Mit Spielzeit verkürzendem Tempowürfel
+- Mit den 8 beliebtesten Spielfiguren
 - Für unterhaltsame Spieleabende mit Freunden und der Familie
 - Straßen kaufen, Häuser und Hotels bauen und Mieten kassieren
 - 2-6 Mitspieler

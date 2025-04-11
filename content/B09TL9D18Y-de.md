@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sinnvolle Beschäftigung für Kinder ab 8 Jahren, tolles Geschenk für Jungen und Mädchen ab 8 Jahren, Weihnachtsgeschenk, Geburtstagsgeschenk oder Ostergeschenk
-- Die elektronischen Elemente aus der POWER-Linie sind unsichtbar miteinander verbunden und man kann so seine Bahn individuell "programmieren".
 - Großes und umfangreiches GraviTrax POWER Starterset. Enthält mehr als 140 Teile, darunter die elektronischen Elemente Starter, Finish inkl. Ziel-Arena, Trigger, Switch, Elevator, Lever und Controller
-- Batterien (11 x AAA Batterien) nicht enthalten
+- Die elektronischen Elemente aus der POWER-Linie sind unsichtbar miteinander verbunden und man kann so seine Bahn individuell "programmieren".
 - GraviTrax ist die flexibel erweiterbare und interaktive Kugelbahn für Kinder ab 8 Jahren. Dieses Set ist direkt bespielbar und kann jederzeit durch weitere Produkte individuell erweitert werden
+- Batterien (11 x AAA Batterien) nicht enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TL9D18Y{{</world>}}

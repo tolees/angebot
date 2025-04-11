@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zeitloser Aviator-Look
-- Hochwertiges Metallgestell
 - Die bruchfeste Ceramic-Scheibe bietet einen optimalen Schutz vor UV-Strahlung
 - Verspiegelte Scheiben reflektieren zuverlässig schädliche Infrarot-Strahlen
+- Hochwertiges Metallgestell
 - Klare, verzerrungsfreie Sicht durch dezentrierte Scheiben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

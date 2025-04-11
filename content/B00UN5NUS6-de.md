@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Angenehme Gel-Textur, die schnell einzieht und die Haut mit einem Cooling-Effekt versorgt.
 - Für ein optimales Frischegefühl den ganzen Tag lang.
+- Angenehme Gel-Textur, die schnell einzieht und die Haut mit einem Cooling-Effekt versorgt.
 - Für eine optimal gepflegte, mit Feuchtigkeit versorgte Haut.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

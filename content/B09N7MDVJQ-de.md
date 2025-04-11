@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetic
-- Lining: Ungefüttert
-- Obermaterial: Leder
-- Schuhweite: Medium
 - Absatzform: Flach
 - Verschluss: Gummi
+- Lining: Ungefüttert
+- Schuhweite: Medium
+- Innenmaterial: Synthetic
+- Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09N7MDVJQ{{</world>}}

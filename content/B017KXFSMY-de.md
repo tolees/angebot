@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Original BUSCH-JAEGER 6715 U
 - Flexible Gestaltung
+- Original BUSCH-JAEGER 6715 U
 - Qualität/Haltbarkeit
 
 [🛒 Hier!!]({{< param buyurl >}})

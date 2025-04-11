@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hinweis: Diese Batterien sind nicht wiederaufladbar. Informationen zu wiederaufladbaren Optionen finden Sie unter Amazon Basics Wiederaufladbare Batterien
-- Ideale Batterie für Gamecontroller, Spielzeug, Taschenlampen, Digitalkameras, Uhren und mehr
-- Quecksilber-und cadmiumfrei
-- Vorteilspack mit leistungsstarken AA- und AAA-Alkaline-Batterien mit 1,5 V
 - Enthält einen 48er-Pack mit 24 AA-Alkaline-Batterien und 24 AAA-Alkaline-Batterien
+- Hinweis: Diese Batterien sind nicht wiederaufladbar. Informationen zu wiederaufladbaren Optionen finden Sie unter Amazon Basics Wiederaufladbare Batterien
+- Vorteilspack mit leistungsstarken AA- und AAA-Alkaline-Batterien mit 1,5 V
+- Quecksilber-und cadmiumfrei
+- Ideale Batterie für Gamecontroller, Spielzeug, Taschenlampen, Digitalkameras, Uhren und mehr
 - Liefert die für ein bestimmtes Gerät benötigte Energiemenge
 
 [🛒 Hier!!]({{< param buyurl >}})

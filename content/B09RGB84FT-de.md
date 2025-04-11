@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Corona sorgt für Beach-Feeling pur im Alltag. Am besten eiskalt mit einer Scheibe Limette genießen und die Sonne Mexikos nach Hause holen
 - Lieferumfang: 24 x 0,355 l Corona Cero 0,0% Alkoholfreies Premium Lager Flaschen-Bier (Mehrweg im Kasten) / 3,42€ Pfand zuzüglich zum Kaufpreis / Pfand wie üblich überall einlösbar
 - Corona hat dieses gewisse Etwas - Kein anderes Bier bringt das Gefühl von Strand und mexikanischer Sonne in den Alltag
 - Corona ist das erfolgreichste mexikanische Bier weltweit und ist bekannt durch seine hohe Qualität, typisch goldene Farbe und seinen einzigartigen Geschmack
-- Corona sorgt für Beach-Feeling pur im Alltag. Am besten eiskalt mit einer Scheibe Limette genießen und die Sonne Mexikos nach Hause holen
 - Erfrischend mildes und alkoholfreies internationales Premium-Lagerbier mit 0,0% Alkohol, hergestellt aus 100% natürlichen Zutaten mit nur 60 Kalorien pro Flasche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

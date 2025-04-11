@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langarm-Shirt
-- Standard-Passform
 - Dri-Fit-Technologie
+- Standard-Passform
+- Langarm-Shirt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07W6YHQSR{{</world>}}

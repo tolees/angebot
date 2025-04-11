@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erhalte Mitteilungen, um unterwegs informiert zu bleiben/erstelle Automationen um andere vernetzte Geräte zu steuern, sobald Fenster/Türen geöffnet/geschlossen werden (verfügbar auf ausgewählten Plattformen)
 - Unterstützt Matter - damit Sie Ihr Zuhause nahtlos über Smartphones und Sprachassistenten aller führenden Plattformen steuern können. Modernste Thread-Technologie für ein robustes Smart Home.
 - Strengster Datenschutz: keine Eve-Cloud, keine Registrierung und kein Tracking. Lokale Prozesse und Kommunikation ohne Cloud-Abhängigkeit.
 - Eve Door & Window erfordert iOS/iPadOS 16.4 (oder neuer) oder Android 8.1 (oder neuer) sowie eine Steuerzentrale der von Ihnen gewählten Plattform: Apple Home: Apple TV 4K (2. Gen. / 3. Gen. 128 GB), HomePod (2. Gen.), HomePod mini / Samsung SmartThings: SmartThings Hub v3 / Amazon Alexa: Echo (4. Gen.), Echo Hub, Echo Plus (2. Gen.), Echo Show 8 (3. Gen.), Echo Show 10 (3. Gen.), Echo Studio, eero 6 / 6+ / Pro 6 / Pro 6E / Max 7 / Google Home: Nest Hub (2. Gen.), Nest Hub Max, Nest Wifi, Nest Wifi Pro
+- Erhalte Mitteilungen, um unterwegs informiert zu bleiben/erstelle Automationen um andere vernetzte Geräte zu steuern, sobald Fenster/Türen geöffnet/geschlossen werden (verfügbar auf ausgewählten Plattformen)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C43TH1MJ{{</world>}}

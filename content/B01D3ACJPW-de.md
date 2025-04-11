@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sequentielles Lesen: bis zu 520MB/s - Sequentielles Schreiben: bis zu 480MB/s
-- Smart Command Support, TRIM Command Support; Gewicht: 43G; Abmessungen: 100 x 70 x 7mm
 - Lieferumgang: Intenso High interne SSD, 120GB
-- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
+- Smart Command Support, TRIM Command Support; Gewicht: 43G; Abmessungen: 100 x 70 x 7mm
+- Sequentielles Lesen: bis zu 520MB/s - Sequentielles Schreiben: bis zu 480MB/s
 - Die SATA III Schnittstelle mit 6 Gbps ermöglicht ein Hochfahren von Computern oder Netbooks in weniger als 20 Sekunden
+- Geringer Stromverbrauch; Schock-resistent, geräuschloser Betrieb (0dB)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01D3ACJPW{{</world>}}

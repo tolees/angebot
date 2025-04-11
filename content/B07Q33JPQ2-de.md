@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassische Passform mit hochgeschlossenem Rippkragen
 - Material: 100 % Baumwolle
 - Gewebte Lasche am Ärmel
+- Klassische Passform mit hochgeschlossenem Rippkragen
 - Gesticktes ellesse Logo auf der Brust
 - Aus unserer Kernkollektion, die den ganzen Tag Komfort garantiert
 

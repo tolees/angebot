@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: Kunststoff; Gewicht: 8 g; Abmessungen: 19 x 65 x 9 mm
-- Große Speicherkapazität 64GB
-- Lieferumfang: Intenso USB Stick Speed Line USB 3.2 Gen 1x1
 - Super Speed USB 3.2 Gen 1x1
+- Große Speicherkapazität 64GB
 - Max. Datentransferrate: Bis zu 70, 00 MB/s
+- Lieferumfang: Intenso USB Stick Speed Line USB 3.2 Gen 1x1
+- Material: Kunststoff; Gewicht: 8 g; Abmessungen: 19 x 65 x 9 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00YMZBPKI{{</world>}}

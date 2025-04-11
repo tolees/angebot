@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Aus transparentem Kunststoff
 - Perfekt für Taille, Hüfte und Schrittnaht
-- Multifunktionales Lineal
 - Kurvenschablone
+- Multifunktionales Lineal
 - Ideal für Schulter, Hals und Armloch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NEU: Drehknopf und LCD-Display – für eine einfache Bedienung direkt am Mäher
-- Cut to edge: Der LANDROID hat versetzte Messer, um so nah wie möglich an der Rasenkante zu mähen
-- NEU: WiFi und Bluetooth – direkte Verbindung zwischen App und Mäher – mehr Bedienkomfort und bequeme Software-Updates
 - NEU: Strahlwasserschutz – einfache Reinigung mit dem Gartenschlauch
+- NEU: WiFi und Bluetooth – direkte Verbindung zwischen App und Mäher – mehr Bedienkomfort und bequeme Software-Updates
+- Cut to edge: Der LANDROID hat versetzte Messer, um so nah wie möglich an der Rasenkante zu mähen
+- NEU: Drehknopf und LCD-Display – für eine einfache Bedienung direkt am Mäher
 - NEU: GroundTracer – die Messer heben sich bei Unebenheiten automatisch an und werden geschützt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

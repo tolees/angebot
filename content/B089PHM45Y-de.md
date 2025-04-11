@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Als wahres Leichtgewicht ist der Rasentrimmer agil und durch den individuell einstellbaren Teleskop-Führungsholm aus leichtem Aluminium und einen zweiten Zusatzhandgriff besonders einfach zielgerichtet zu handhaben.
-- Ein "Flowerguard" (Blumenschutz) schützt empfindliche Blumen und Zierpflanzen vor den scharfen Kunststoffmessern.
 - Als Mitglied der Power X-Change-Systemfamilie kann jeder Akku mit der Akku-Rasentrimmer verwendet werden. Für den Betrieb ist ein 18 V PXC-Akku notwendig. Die Lieferung erfolgt inklusive 2,5 Ah Akku und einem Ladegerät.
+- Ein "Flowerguard" (Blumenschutz) schützt empfindliche Blumen und Zierpflanzen vor den scharfen Kunststoffmessern.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089PHM45Y{{</world>}}

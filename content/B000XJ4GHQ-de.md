@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herkunftsland:- Deutschland
 - Geeignet für beschichtete Bauelemente aus Holzwerkstoffen oder weiche und harte Massivhölzer und Plattenwerkstoffe
+- Herkunftsland:- Deutschland
 - Der äußerst präzise Freiwinkel sorgt für ein besonders gutes Schnittbild
 - Verpackungsabmessungen (L x B x H): 10.0 x 5.0 x 4.5 zm
 

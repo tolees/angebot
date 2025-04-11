@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H): 5.7 x 9.0 x 17.9 Zm
 - Farbe: Schwarz
-- Herkunftsland:- China
+- Verpackungsabmessungen (L x B x H): 5.7 x 9.0 x 17.9 Zm
 - Verpackungsgewicht: 500.0 Gramm
+- Herkunftsland:- China
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B093LRHBQR{{</world>}}

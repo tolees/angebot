@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 128 GB interner Speicher, Android 14.0
-- 2,2 GHz MediaTek Dimensity 6100+ Octa-Core-Prozessor
-- Farbe: blau/schwarz
 - 50 Megapixel Hauptkamera
 - 16,4 cm (6,5 Zoll) Super AMOLED Display mit 1080 x 2340 Pixel
+- 2,2 GHz MediaTek Dimensity 6100+ Octa-Core-Prozessor
+- 128 GB interner Speicher, Android 14.0
+- Farbe: blau/schwarz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CNKVFJJL{{</world>}}

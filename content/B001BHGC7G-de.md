@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktgewicht: 0,5 kg
-- Verpackungsmaße: 25,4 cm L x 15,2 cm B x 2,5 cm H
-- Modellnummer: 37-948
 - Herkunftsland: China
+- Verpackungsmaße: 25,4 cm L x 15,2 cm B x 2,5 cm H
+- Produktgewicht: 0,5 kg
+- Modellnummer: 37-948
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001BHGC7G{{</world>}}

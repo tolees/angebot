@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserdicht und winddicht
-- Ist atmungsaktives, leichtes ThermoLite Eco
 - Zwei Einschubtaschen und eine interne Brusttasche
+- Ist atmungsaktives, leichtes ThermoLite Eco
 - Stofftechnologie
+- Wasserdicht und winddicht
 - Zwei-Wege-Reißverschluss ist durch eine Knopfleiste geschützt
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- A-Linie Mantel
 - Zwei-Wege-Reißverschluss mit Kinnschutz
-- Windabweisend
 - Wärmender Strickfleeceparka
+- Windabweisend
+- A-Linie Mantel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B092YYXYGM{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bluetooth Schnittstelle
-- ANT+ Schnittstelle
-- Clip Befestigung
 - Marke: Shimano
+- Bluetooth Schnittstelle
+- Clip Befestigung
+- ANT+ Schnittstelle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B076J6DZ1M{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Weiß Natur
-- Obermaterial: 100 % Textil (90 % recyceltes PET - 10 % PET)
 - Recycled Synthetics
+- Farbe: Weiß Natur
 - Sohle: 80% EVA - 20% recyceltes EVA
+- Obermaterial: 100 % Textil (90 % recyceltes PET - 10 % PET)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BR61X4RR{{</world>}}

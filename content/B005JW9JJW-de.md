@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Newport 6 Saite silber
 - Kapodaster
 - Abmessungen (mm): 52 x 27
+- Newport 6 Saite silber
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005JW9JJW{{</world>}}

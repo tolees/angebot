@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Wer kann die meisten denglischen Sprüche ins Deutsche übersetzen und kennt zudem auch noch die korrekte englische Redewendung?
+- In der schön gestalteten Verpackung ist das Kartenspiel ein ideales Geschenk für Schüler, Studenten und Englisch-Anfänger. Maße der Box: 7,2 cm x 11,3 cm x 2,5 cm.
 - Mit 75 lustigen denglischen Sprüchen ganz einfach die richtigen englischen Redewendungen lernen. Ganz nach dem Motto: Take you in eight! Here goes the Post up!
 - Das lustige Spiel rund um englische Redensarten für Kinder ab 12 Jahren ist ein Quiz für die ganze Familie – mit Lerneffekt.
-- In der schön gestalteten Verpackung ist das Kartenspiel ein ideales Geschenk für Schüler, Studenten und Englisch-Anfänger. Maße der Box: 7,2 cm x 11,3 cm x 2,5 cm.
 - Ob alleine oder im Team - Karte für Karte geht den Spielern ein Licht auf und der nächste Urlaub in Großbritannien kann kommen.
-- Wer kann die meisten denglischen Sprüche ins Deutsche übersetzen und kennt zudem auch noch die korrekte englische Redewendung?
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B077TZX4RM{{</world>}}

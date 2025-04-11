@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hoch deckende, matte Kreidefarbe zum Sprühen
 - Schnelltrocknend und wischfest
 - Sprühdose mit 400 ml in steingrau
 - Geeignet für Holz, MDF, Pappmaché, Glas, Metall, Papier, Keramik, Porzellan, Ton, Leinwand, Kunststoff usw
+- Hoch deckende, matte Kreidefarbe zum Sprühen
 - Samtweiches Finish
 
 [🛒 Hier!!]({{< param buyurl >}})

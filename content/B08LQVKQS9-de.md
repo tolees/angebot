@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - HOCHWERTIGE FOTODRUCKE - Der Canon PIXMA PRO-200 Drucker druckt mit 8 farbstoffbasierten Tinten für lebendige Farbdrucke - randloser und Panorama Druck auch auf Fine Art Medien, Papierlänge bis 99 cm
-- LIEFERUMFANG - Canon PIXMA PRO-200, Netzkabel, Druckkopf, CD-Halter, CD mit Setup-Software & Benutzerhandbuch, Kurzanleitung Inbetriebnahme, European Warranty System (EWS) A3 Leaflet, Probepackung Fotopapier A4 PT-101 (5 Blatt)
-- VIELSEITIG & KOMPAKT - Der Farb- und Schwarzweiß Drucker mit LCD passt auf den Schreibtisch, wiegt nur 14,1 kg und verfügt über ein Media Configuration Tool für einfaches Medienhandling
 - SCHNELLER DRUCKEN - Druck einer A3 + Seite mit Rand in nur 90 Sekunden, Papier Schräglagenkorrektur für beide Papierzuführungen, anwenderfreundliches Professional Print & Layout Plug-in
 - EINFACHE BEDIENUNG - Durch das 7,5 cm Farb-Display ist der Foto Drucker leicht bedienbar und ist ideal für aufstrebende Fotografen - lange Haltbarkeit der Drucke durch ChromaLife 100+ Tintensystem
+- VIELSEITIG & KOMPAKT - Der Farb- und Schwarzweiß Drucker mit LCD passt auf den Schreibtisch, wiegt nur 14,1 kg und verfügt über ein Media Configuration Tool für einfaches Medienhandling
+- LIEFERUMFANG - Canon PIXMA PRO-200, Netzkabel, Druckkopf, CD-Halter, CD mit Setup-Software & Benutzerhandbuch, Kurzanleitung Inbetriebnahme, European Warranty System (EWS) A3 Leaflet, Probepackung Fotopapier A4 PT-101 (5 Blatt)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08LQVKQS9{{</world>}}

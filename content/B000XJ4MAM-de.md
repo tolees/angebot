@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Energiequelle: Handbetrieben
-- Geeignet für beschichtete Bauelemente aus Holzwerkstoffen oder weiche und harte Massivhölzer und Plattenwerkstoffe
 - Der äußerst präzise Freiwinkel sorgt für ein besonders gutes Schnittbild
-- Original bosch Qualität
 - Maße: 8x3x51mm
+- Original bosch Qualität
+- Geeignet für beschichtete Bauelemente aus Holzwerkstoffen oder weiche und harte Massivhölzer und Plattenwerkstoffe
+- Energiequelle: Handbetrieben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000XJ4MAM{{</world>}}

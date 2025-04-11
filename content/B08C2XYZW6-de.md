@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ProSmart Inverter Motor
-- Hygiene+
-- Kindersicherung
-- AddXtra
 - Gerätemaße H x B x T (cm): 84 x 60 x 59
 - Achtung: Es kann zu Überschwemmungen kommen, wenn der Ablaufschlauch verstopft ist und sich beim Abpumpen des Wassers auflöst. Bei hohen Waschtemperaturen besteht Verbrühungsgefahr! Durch eine sichere Fixierung des Ablaufschlauchs können Sie solchen Situationen vorbeugen und eine reibungslose Wasserzu- und -abpumpfunktion gewährleisten
+- ProSmart Inverter Motor
+- AddXtra
+- Kindersicherung
+- Hygiene+
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08C2XYZW6{{</world>}}

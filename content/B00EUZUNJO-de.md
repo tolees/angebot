@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Gestaltung
-- Langlebig
 - Robustheit
+- Flexible Gestaltung
 - Qualität/Haltbarkeit
+- Langlebig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00EUZUNJO{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Der OIS-Korrekturwinkel wurde um 58 % verbessert und ermöglicht eine schnelle Bewegungsabtastung zur Stabilisierung. Super HDR passt die Farbe Frame für Frame an.
 - Für eine sorgenfreie Nutzung: Kostenlose Garantieverlängerung auf 3 Jahre - gültig für Kunden, die ihren Wohnsitz in Deutschland haben⁴
-- Unsere bisher beste Innovation. Der Sensor nimmt viel Licht auf, das Objektiv kann Lichtreflexionen reduzieren und KI sorgt für eine intelligente Verarbeitung.
 - Team-Besprechung mit Google Duo. Filme und Videos zusammen ansehen und in hoher Qualität streamen.²
 - Unser bisher schnellster und leistungsstärkster Chip. Das bedeutet, eine schnellere CPU und GPU im Vergleich zu Galaxy S21 Ultra. Ein bedeutender Schritt für unsere Smartphone-Technologie.
-- Der OIS-Korrekturwinkel wurde um 58 % verbessert und ermöglicht eine schnelle Bewegungsabtastung zur Stabilisierung. Super HDR passt die Farbe Frame für Frame an.
+- Unsere bisher beste Innovation. Der Sensor nimmt viel Licht auf, das Objektiv kann Lichtreflexionen reduzieren und KI sorgt für eine intelligente Verarbeitung.
 - Mit dem hellen Display des Galaxy S22+/ S22 auch bei Sonnenlicht Inhalte gut ablesen können. Das atemberaubende Dynamic AMOLED-Display wurde für die Verwendung im Freien entwickelt, sodass du auch bei hellem Tageslicht Inhalte gut sehen kannst.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

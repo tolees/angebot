@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMPAKTES FORMAT - 120mm Lüfter mit hydrodynamischem Lager (FDB) bietet zuverlässige Kühlleistung; kompaktes ATX-Format mit einer Länge von nur 140mm, das zusätzlichen Platz für Luftstrom und Kabelmanagement bietet
-- ATX 3.0 VOLLMODULAR - Mit ATX 3.0 kann das Netzteil bis zu 2fache Gesamtleistung und 3fache GPU-Leistung aufnehmen, vollmodulares Format mit flachen schwarzen Kabeln (einschließlich Kabeltasche) für gutes Kabelmanagement und verbesserte Luftzirkulation
-- UNTERSTÜTZT PCIE 5.0 GRAFIKKARTEN - Mit seinem 16-PIN (12V2x6) PCIe-Anschluss kann das Netzteil PCIe 5.0 GPUs (unterstützt NVIDIA & AMD) mit bis zu 450W Stromverbrauch versorgen; durch die gelbe Farbe des Steckers sieht man direkt, ob der Stecker richtig sitzt
 - 80 PLUS GOLD ZERTIFIZIERT - Das effiziente Netzteil reduziert den Energieverbrauch und die Wärmebelastung des Systems. 80 PLUS Gold (bis zu 90%) ist ideal für Hardware mit hohem Stromverbrauch wie Grafikkarten und Prozessoren der Spitzenklasse
+- UNTERSTÜTZT PCIE 5.0 GRAFIKKARTEN - Mit seinem 16-PIN (12V2x6) PCIe-Anschluss kann das Netzteil PCIe 5.0 GPUs (unterstützt NVIDIA & AMD) mit bis zu 450W Stromverbrauch versorgen; durch die gelbe Farbe des Steckers sieht man direkt, ob der Stecker richtig sitzt
+- ATX 3.0 VOLLMODULAR - Mit ATX 3.0 kann das Netzteil bis zu 2fache Gesamtleistung und 3fache GPU-Leistung aufnehmen, vollmodulares Format mit flachen schwarzen Kabeln (einschließlich Kabeltasche) für gutes Kabelmanagement und verbesserte Luftzirkulation
+- KOMPAKTES FORMAT - 120mm Lüfter mit hydrodynamischem Lager (FDB) bietet zuverlässige Kühlleistung; kompaktes ATX-Format mit einer Länge von nur 140mm, das zusätzlichen Platz für Luftstrom und Kabelmanagement bietet
 - LANGLEBIGES DESIGN - Vollbrücken-LLC mit DC/DC-Wandler und aktivem PFC-Design sorgt für einen robusten Ausgang (OCP-, OVP-, OPP-, OTP-, SCP- und UVP-Schutz); mit 7 Jahren beschränkter Garantie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

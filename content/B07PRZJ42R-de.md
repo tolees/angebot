@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Shazam! (4K Ultra HD) (+ Blu-ray 2D) [2019]
 - Marke: Warner Home Video
+- Shazam! (4K Ultra HD) (+ Blu-ray 2D) [2019]
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07PRZJ42R{{</world>}}

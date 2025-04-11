@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die LEGO Super Mario Spielzeuge zum Sammeln holen die kultigen Super Mario Charaktere in die reale Welt und bieten dir beim Bauen grenzenlose kreative Herausforderungen
 - Besuche die LEGO.com Website und lade die LEGO Super Mario App mit Anleitungen und Ideen sowie eine Liste kompatibler Android- und iOS-Geräte herunter
+- Die LEGO Super Mario Spielzeuge zum Sammeln holen die kultigen Super Mario Charaktere in die reale Welt und bieten dir beim Bauen grenzenlose kreative Herausforderungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BNSD96L{{</world>}}

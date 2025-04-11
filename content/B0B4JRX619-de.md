@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Platz für bis zu 9kg Wäsche
 - Gerätemaße (B x H x T): 60 × 85 × 61 cm
+- Platz für bis zu 9kg Wäsche
 - Festlegung der Lieblingsprogramme, AquaStop, Kindersicherung
 - 16 Programme: Baumwolle, Mix, Wolle/Handwäsche, ExtraHygiene, Babykleidung, Hemden/Blusen, PowerWash 59min, Schnellprogramm 20min, Daunen, Eco 40-60°C, Tierhaarentfernung, tägliche Wäsche
 - Inverter PowerDrive Motor, WaveActive Trommel für sanfte Wäschepflege, SteamTech Dampffunktion

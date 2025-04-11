@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sony 50MP IMX766 Flaggschiff-Sensor mit Gimbal Stablilizer 2.0, 13MP Ultraweitwinkelkamera und 32MP Frontkamera mit RGBW-Technologie
 - Leistungsstarker 4300-mAh-Akku mit 30-W-HyperCharger-Adapter, der auf der Grundlage deines Verhaltens optimiert wird und 15-W-Wireless Charging unterstützt
 - Mit einfacherem und flüssigerem ASUS ZenUI Design für bequemes Bedienen mit einer Hand ZenTouch 2.0-Multifunktions-Fingerabdrucktaste macht alles einfach - mit nur einer Hand
-- Sony 50MP IMX766 Flaggschiff-Sensor mit Gimbal Stablilizer 2.0, 13MP Ultraweitwinkelkamera und 32MP Frontkamera mit RGBW-Technologie
-- Qualcomm Snapdragon 8 Gen 2 5G-Mobilplattform
-- Umweltfreundliche Verpackung und Rückwand aus biobasiertem Polycarbonat. WiFi 7 Ready
 - Bis zu 8 GB LPDDR5X RAM und 128 GB UFS 4.0 ROM
+- IP68-Schutz vor Wasser und Staub. Erlebe die nächste Stufe der Fotografie mit dem revolutionären AI Object Sense des Zenfone 10
 - Leistungsstarke Dual-Stereo-Lautsprecher, optimiert durch DIRAC. 3,5-mm-Kopfhöreranschluss mit Qualcomm Aqstic
 - Kompaktes 5,9-Zoll-Display, das perfekt in der Hand liegt. ALLES IM GRIFF
-- IP68-Schutz vor Wasser und Staub. Erlebe die nächste Stufe der Fotografie mit dem revolutionären AI Object Sense des Zenfone 10
+- Umweltfreundliche Verpackung und Rückwand aus biobasiertem Polycarbonat. WiFi 7 Ready
+- Qualcomm Snapdragon 8 Gen 2 5G-Mobilplattform
 - Nehme Fotos und Videos in perfekter Bewegung mit dem 6-Achsen Hybrid Gimbal Stablilizer 2.0 auf Verpasse keinen Moment mehr mit Quick Shot
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

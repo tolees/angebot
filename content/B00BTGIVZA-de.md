@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LEISTUNGSSTARK: Der praktische Steckschlüsselkasten für die Handbetätigung vereint Power und Präzision. Dank Profi-Umschaltknarre 916SP mit 32 Zähne und 863P mit 20 Zähne im HAZET SmartCase
-- QUALITÄT: HAZET ist einer der führenden Hersteller von Qualitäts-Werkzeugen für die professionelle Anwendung und verfügt dabei über mehr als 155 Jahre Erfahrung in Entwicklung und Produktion
-- VIELSEITIG: Das Steckschlüssel-Set beinhaltet neben vielen Sechskantstecklüsseln auch unterschiedliche Schraubprofile: PZ Profil, PH Profil, Innen-Sechskant Profil, Innen TORX Profil und SchlitzProfil
-- LIEFERUMFANG: 1x HAZET 953SPC Steckschlüssel-Satz | 47 Teile mit verschiedenen Bits und Steckschlüssel, inkl. Verlängerungen| Geräteabmessungen: 355 mm x 235 mm x 65 mm, Nettogewicht: 3,2 kg
 - HOCHWERTIG: Der stabile Kunststoff-Kasten mit Tragegriff hat ein Safety-Insert-System mit einer 2-Komponenten-Weichschaum-Einlage, die auch für den HAZET-Werkstattwagen Assistenten passend nutzbar ist
+- QUALITÄT: HAZET ist einer der führenden Hersteller von Qualitäts-Werkzeugen für die professionelle Anwendung und verfügt dabei über mehr als 155 Jahre Erfahrung in Entwicklung und Produktion
+- LIEFERUMFANG: 1x HAZET 953SPC Steckschlüssel-Satz | 47 Teile mit verschiedenen Bits und Steckschlüssel, inkl. Verlängerungen| Geräteabmessungen: 355 mm x 235 mm x 65 mm, Nettogewicht: 3,2 kg
+- VIELSEITIG: Das Steckschlüssel-Set beinhaltet neben vielen Sechskantstecklüsseln auch unterschiedliche Schraubprofile: PZ Profil, PH Profil, Innen-Sechskant Profil, Innen TORX Profil und SchlitzProfil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BTGIVZA{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- perfekt zum kombinieren
 - ein schlichter dennoch schöner Ring
-- Modell: Metallperlen
-- Größe: 56 (17,8 mm)
 - Material: 925 Sterlingsilber
+- Modell: Metallperlen
+- perfekt zum kombinieren
+- Größe: 56 (17,8 mm)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0041D3ARC{{</world>}}

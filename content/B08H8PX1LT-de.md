@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Varioflex-Technologie passt die Scheibentönung optimal den Lichtverhältnissen an (photochromatisch)
-- Verbesserte Sicht und Schutz vor Zugluft durch stark gewölbte Scheiben sowie eine gezielte Luftstromführung, die ein Beschlagen der Scheiben verhindert
-- 100% UV-Schutz
 - Die Fogstop-Beschichtung auf der Innenseite der Scheibe sorgt für eine beschlagfreie Sicht
+- Verbesserte Sicht und Schutz vor Zugluft durch stark gewölbte Scheiben sowie eine gezielte Luftstromführung, die ein Beschlagen der Scheiben verhindert
+- Die Varioflex-Technologie passt die Scheibentönung optimal den Lichtverhältnissen an (photochromatisch)
+- 100% UV-Schutz
 - Verspiegelte Scheibe reflektiert Infrarot-Strahlen
 
 [🛒 Hier!!]({{< param buyurl >}})
