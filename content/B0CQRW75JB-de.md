@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Komfortweite für breitere Füße
-- Extra weiche Decksohle
 - Griffige und flexible Sohle
+- Extra weiche Decksohle
+- Komfortweite für breitere Füße
 - Einfacher und elastischer Einstieg
 
 [🛒 Hier!!]({{< param buyurl >}})

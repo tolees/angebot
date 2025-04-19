@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Synchronisiertes Schnurführungs-System
+- Carbon Matrix Bremssystem
 - 6-Pin Zentrifugal-Bremssystem
 - Kompakte, gebogene Kurbel und Sternbremse
-- Carbon Matrix Bremssystem
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00ESSKGNQ{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktisch: Dank der MyTools-App kann das Gerät auf die individuellen Bedürfnisse angepasst werden
-- Robust: Auch geeignet für schwierige Aufgaben durch das widerstandsfähige Vollmetall-Bohrfutter
-- AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku-Partnerschaft AMPShare kompatibel.
 - Erhöhte Sicherheit: Dank KickBack Control wird der Motor abgeschaltet, sobald das Gerät unerwartet blockiert
+- Robust: Auch geeignet für schwierige Aufgaben durch das widerstandsfähige Vollmetall-Bohrfutter
 - Lieferumfang: GSB 18V-110 C, Karton
+- Praktisch: Dank der MyTools-App kann das Gerät auf die individuellen Bedürfnisse angepasst werden
+- AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku-Partnerschaft AMPShare kompatibel.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083QM7PLT{{</world>}}

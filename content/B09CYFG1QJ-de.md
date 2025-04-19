@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Artikelnummer: SDCIT2/32GBSP
 - Hohe Lebensdauer
 - UHS-I Geschwindigkeitsklasse U3, V30, A7;Integrierte Funktionen in Industriequalität
-- microSDHC/SDXC Karte für industrielle Anwendungen
 - Langlebig bei extremen Temperaturen
+- Artikelnummer: SDCIT2/32GBSP
+- microSDHC/SDXC Karte für industrielle Anwendungen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09CYFG1QJ{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das FreezeShield-System macht den Whirlpool das ganze Jahr über nutzbar - die automatische Heizung startet ab 6 °C, schaltet sich bei 10 °C wieder ab und verhindert das Einfrieren des Wassers
-- Größe aufgeblasen: Ø 180 x 66 cm, Innenmaß: Ø 132 cm, Geeignet für bis zu 4 Personen
 - Hochklappbares Bedienfeld und digital gesteuerte Pumpe mit folgenden Funktionen: Heizung, Reinigung, Kräftige AirJet-Massage, Luftbefüllung/Luftabsaugung
 - 2-teilige isolierende Thermo-Abdeckung, ChemConnect Chemikaliendosierer, 2 Flowclear Filterkartuschen Größe VI (10,6 x 8,0 cm), Abgedeckt vom Kundenservice
+- Größe aufgeblasen: Ø 180 x 66 cm, Innenmaß: Ø 132 cm, Geeignet für bis zu 4 Personen
 - Wasserkapazität: 669 l / Füllgewicht: 696 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

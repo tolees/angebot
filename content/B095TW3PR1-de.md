@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ALLE ANSCHLÜSSE VORHANDEN: 3x Gigabit LAN Port, 1x Glasfaseranschluss, 1x DSL, 1x USB 2.0 Schnittstelle. Außerdem: WPS und „Telefon-suchen“-Taste.
+- NEUESTE MESH-TECHNOLOGIE: Sorgt für lückenloses WLAN in allen Räumen. Erweiterbar mit bis zu 5 Mesh-Punkten (z.B. Speed Home WiFi oder dem neuen Speed Home WLAN).
+- WiFi 6 – DIE WLAN-ZUKUNFT: Vielfach schnelleres Gigabit WLAN (IEEE 802.11 ax) mit bis zu 6.000Mbit/s, auch bei vielen gleichzeitigen Geräte-Verbindungen. Glasfaser mit bis zu 2.000 Mbit/s.
+- EINZIGARTIVE PROGRAMMVIELFALT MIT MAGENTA TV: 50+ SENDER IN HD-QUALITÄT, über die MEGATHEK Zugriff auf Top-Serien, Filme, Dokus & die Mediatheken von ARD & ZDF, bequemer Zugang zu zahlreichen STREAMING-DIENSTEN, wie Netflix & Co. Im Tarif MagentaTV Smart zusätzlich enthalten: das große Streaming-Angebot TVNOW PREMIUM.
 - MAGENTA SMARTHOME: Gestalten Sie Ihren Alltag jetzt ganz einfach bequemer, sicherer & effizienter – mit smarten Geräten. Die Magenta SmartHome Basis ist schon in Ihren Smart 3 Router integriert.
 - INTERNETTELEFONIE: Für den IP-basierten Telekom Anschluss vorbereitet – mit Anschlussgeschwindigkeiten von bis zu 2.000 Mbit/s (unterstützt die Standards ADSL, ADSL 2+, VDSL inkl. Vectoring und Super Vectoring, Glasfaser (FTTH)).
-- WiFi 6 – DIE WLAN-ZUKUNFT: Vielfach schnelleres Gigabit WLAN (IEEE 802.11 ax) mit bis zu 6.000Mbit/s, auch bei vielen gleichzeitigen Geräte-Verbindungen. Glasfaser mit bis zu 2.000 Mbit/s.
-- NEUESTE MESH-TECHNOLOGIE: Sorgt für lückenloses WLAN in allen Räumen. Erweiterbar mit bis zu 5 Mesh-Punkten (z.B. Speed Home WiFi oder dem neuen Speed Home WLAN).
-- EINZIGARTIVE PROGRAMMVIELFALT MIT MAGENTA TV: 50+ SENDER IN HD-QUALITÄT, über die MEGATHEK Zugriff auf Top-Serien, Filme, Dokus & die Mediatheken von ARD & ZDF, bequemer Zugang zu zahlreichen STREAMING-DIENSTEN, wie Netflix & Co. Im Tarif MagentaTV Smart zusätzlich enthalten: das große Streaming-Angebot TVNOW PREMIUM.
-- ALLE ANSCHLÜSSE VORHANDEN: 3x Gigabit LAN Port, 1x Glasfaseranschluss, 1x DSL, 1x USB 2.0 Schnittstelle. Außerdem: WPS und „Telefon-suchen“-Taste.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B095TW3PR1{{</world>}}

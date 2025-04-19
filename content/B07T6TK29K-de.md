@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MATERIAL - 95% Baumwolle, 5% Elasthan
 - PERFEKT- Kurze Unterhose mit Logo bedrucktem Gummizug.
-- PASSFORM - Oberschenkellanger Slim Fit Schnitt.
+- MATERIAL - 95% Baumwolle, 5% Elasthan
 - JACHUEY TRUNKS 7 PACK NOOS
+- PASSFORM - Oberschenkellanger Slim Fit Schnitt.
 - BASIC - Ein Allrounder für Everyday Tragekomfort. JACHUEY
 
 [🛒 Hier!!]({{< param buyurl >}})

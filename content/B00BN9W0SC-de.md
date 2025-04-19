@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material (Diebstahlschutz: hochfester Stahl
 - Zulassung: SRA
-- Gewicht (g): 768 g
-- Verschluss Typ: ABUS Stück
 - cache-entrée-Stick: nein
+- Gewicht (g): 768 g
+- Material (Diebstahlschutz: hochfester Stahl
+- Verschluss Typ: ABUS Stück
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BN9W0SC{{</world>}}

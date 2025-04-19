@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optionaler Einsatz des Nackenhakens sorgt für perfekten Halt
-- Nach EN149:2001+A1:2009 CE Zertifiziert von EU Benannter Stelle
-- FFP2 Maske, Filtert über 94% der Wasserhaltiger und Ölhaltiger Aerisole sowie Feinstaub
 - Schaumstoff unter dem Nasenbügel sorgt für optimale Abdichtung und Komfort
+- Optionaler Einsatz des Nackenhakens sorgt für perfekten Halt
+- FFP2 Maske, Filtert über 94% der Wasserhaltiger und Ölhaltiger Aerisole sowie Feinstaub
+- Nach EN149:2001+A1:2009 CE Zertifiziert von EU Benannter Stelle
 - Neue effizientere Verpackung, die aufgrund ihrer angepassten Größe bei Transport weniger CO2 Emissionen verursacht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 14 einzigartige erkundbare Inseln, jede davon mit ihrer eigenen Fauna, Geheimnissen und Gefahren
 - Ein entspanntes Lifesim-Sandboxspiel mit Online-Coop auf einer tropischen Insel
 - Im Spirit of the Island gibt es viel zu tun! Mit 10 einzigartigen Fähigkeiten - Ackerbau, Nahrungssuche, Bergbau, Soziales und sogar Angeln
+- 14 einzigartige erkundbare Inseln, jede davon mit ihrer eigenen Fauna, Geheimnissen und Gefahren
 - Inhalt: Das Spiel in einer exklusiven Verpackung, Reiseführer und Geschenkeaufkleber
 
 [🛒 Hier!!]({{< param buyurl >}})

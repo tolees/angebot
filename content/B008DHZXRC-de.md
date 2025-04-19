@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Module: Kleinteilemagazine können ineinander gesteckt werden
-- Lieferumfang: 1x Stanley Kleinteilemagazin mit 30 Schubladen, 12 Monate Hersteller bei sachgerechter Benutzung
 - Alles aufgeräumt: Geeignet zur Wandmontage
+- Lieferumfang: 1x Stanley Kleinteilemagazin mit 30 Schubladen, 12 Monate Hersteller bei sachgerechter Benutzung
 - Alles im Blick: Transparente Schubladen aus Polypropylen für gute Sichtbarkeit des Inhalts
 - Stabiles System: Durch robusten und bruchfesten Kunststoffrahmen
+- Flexible Module: Kleinteilemagazine können ineinander gesteckt werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008DHZXRC{{</world>}}

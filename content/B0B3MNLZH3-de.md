@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 4,1-fach Standard-Zoom
 - wetterfest
-- Hohe Lichtstärke
-- VC-Bildstabilisator
 - Hohe Abbildungsqualität
+- VC-Bildstabilisator
+- Hohe Lichtstärke
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B3MNLZH3{{</world>}}

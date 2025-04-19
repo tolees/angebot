@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Effiziente Absorption und Konversions-- Einstellbar Solarpanel-Design für direkte Sonneneinstrahlung im Sommer und Winter. Die Arbeitszeit der LED-Lichterketten können mehr als 8 Stunden laufen, wenn die Solarpanel genug Sonnenlicht während des Tages aufgenommen hat.
-- IP44 Wasserdicht-- Mit eingebaute NI-MH-Akku, ist die Lichterkette wasserdicht und kann auch immer noch an Regen oder bewölkten Tag aufgeladen werden, auch wenn kein direktes Sonnenlicht vorhanden ist. Wasser- und Wetterfest (Wasserbeständigkeit: IP44).
-- Beleuchtung Sensor-Technologie-- Die Solarzellen wandeln die Sonnenenergie in Strom um und lädt die Batterien während des Tages auf. Der eingebaute Sensor schaltet das Licht automatisch bei Dämmerung ein.
 - Energiesparend und Sicher-- Niedriger Stromverbrauch und Kostengünstig, Keine Stromkosten, nutzt Solarenergie zum Aufladen, Automatisches Ein/Ausschalten bei Morgen- Abenddämmerung
+- Beleuchtung Sensor-Technologie-- Die Solarzellen wandeln die Sonnenenergie in Strom um und lädt die Batterien während des Tages auf. Der eingebaute Sensor schaltet das Licht automatisch bei Dämmerung ein.
 - Geeignet für alle Dekorationen-- Diese wunderbaren Lichterkette leuchtet bei Nacht und sorgt für warme und bezaubernde Atmosphäre in Ihrem Garten, auf Ihrer Terrasse, Liegewiese, Veranda, Tor, Vorgarten etc.
+- IP44 Wasserdicht-- Mit eingebaute NI-MH-Akku, ist die Lichterkette wasserdicht und kann auch immer noch an Regen oder bewölkten Tag aufgeladen werden, auch wenn kein direktes Sonnenlicht vorhanden ist. Wasser- und Wetterfest (Wasserbeständigkeit: IP44).
+- Effiziente Absorption und Konversions-- Einstellbar Solarpanel-Design für direkte Sonneneinstrahlung im Sommer und Winter. Die Arbeitszeit der LED-Lichterketten können mehr als 8 Stunden laufen, wenn die Solarpanel genug Sonnenlicht während des Tages aufgenommen hat.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07V2SG4PJ{{</world>}}

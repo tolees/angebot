@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Es spendet Feuchtigkeit
 - Verfeinert das Hautbild
+- Es spendet Feuchtigkeit
 - Verbreitet einen sanften Blütenduft
 
 [🛒 Hier!!]({{< param buyurl >}})

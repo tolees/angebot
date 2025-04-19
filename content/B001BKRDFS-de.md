@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfach anzuwenden
 - Sorgt für schnelle und lang anhaltende Wirkung
 - Schöner Duft
+- Einfach anzuwenden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001BKRDFS{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feuchtigkeitsspendende Intensivkur für langes, geschädigtes Haar zum Schutz vor Spliss und Haarbruch, Für kräftigeres Haar bis in die Spitzen
-- Lieferumfang: 1x LOréal Paris Elvital Dream Length Super Aufbau Maske für die Haare, Inhalt: 300 ml
+- Anwendung: Als Rinse Out Kur im nassen Haar verteilen, Ausspülen nach 2-3 min Einwirkzeit, Zur Bändigung einzelner Härchen oder extra Glanz auf trockene Haarpartien auftragen
 - Ergebnis: Regenerierte Haarlängen und Spitzen, Entwirrtes und gestärktes Haar, Sofortiger Extra-Glanz, Vorbeugung von Spliss und Haarbruch
 - Pflegende Formel mit pflanzlichen Proteinen, Vitaminen und Rizinus Öl, Ideale Ergänzung zum Elvital Dream Length Shampoo und Conditioner
-- Anwendung: Als Rinse Out Kur im nassen Haar verteilen, Ausspülen nach 2-3 min Einwirkzeit, Zur Bändigung einzelner Härchen oder extra Glanz auf trockene Haarpartien auftragen
+- Lieferumfang: 1x LOréal Paris Elvital Dream Length Super Aufbau Maske für die Haare, Inhalt: 300 ml
+- Feuchtigkeitsspendende Intensivkur für langes, geschädigtes Haar zum Schutz vor Spliss und Haarbruch, Für kräftigeres Haar bis in die Spitzen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08WMWTWG8{{</world>}}

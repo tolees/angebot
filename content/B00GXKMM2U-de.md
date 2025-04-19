@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- *Kindern sowie schwangeren und stillenden Frauen wird von Koffein abgeraten
-- Zur Einnahme alle 3 Minuten - idealerweise nach einem Getränk - vor und während dem Sport, Einfach in die Tasche stecken und während der Belastung konsumieren
 - Lieferumfang: 1 Packung Energy Fruit Boost (10 Quadrate), Geschmacksrichtung: Erdbeere, Nettogewicht: 100 g (10 x 10 g)
-- Vitaminquellen B1, B2, PP, B6, die zu einem normalen Energiestoffwechsel beitragen, aber auch zur Verringerung von Müdigkeit (B6) und zum Schutz vor oxidativem Stress (B2)
+- *Kindern sowie schwangeren und stillenden Frauen wird von Koffein abgeraten
 - Fruchtgummi mit Kohlenhydraten (8 g/Gummi) und Koffein (10 mg/Quadrat) für eine lang anhaltende Energiezufuhr während der Belastung, Idealer Ersatz für herkömmliche Energy-Gele und -Riegel
+- Zur Einnahme alle 3 Minuten - idealerweise nach einem Getränk - vor und während dem Sport, Einfach in die Tasche stecken und während der Belastung konsumieren
+- Vitaminquellen B1, B2, PP, B6, die zu einem normalen Energiestoffwechsel beitragen, aber auch zur Verringerung von Müdigkeit (B6) und zum Schutz vor oxidativem Stress (B2)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00GXKMM2U{{</world>}}

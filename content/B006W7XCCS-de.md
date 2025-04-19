@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- bei Teleobjektiven kann das Kissen direkt mit Klett befestigt werden
-- Größe: 260x210x30mm
 - robustes, rutschsicheres und abwaschbares Material
+- bei Teleobjektiven kann das Kissen direkt mit Klett befestigt werden
+- 5 Jahre Herstellergarantie: https://www.kalahari.de/kalahari-shop/garantie
+- Größe: 260x210x30mm
 - Füllung wird nicht mit geliefert (Bohnen, Reis, Gelkissen o. Ä. möglich)
 - ideales Hilfsmittel in der Fotografie: weiche Kameraauflage, stabilisiert bei langen Belichtungszeiten
-- 5 Jahre Herstellergarantie: https://www.kalahari.de/kalahari-shop/garantie
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B006W7XCCS{{</world>}}

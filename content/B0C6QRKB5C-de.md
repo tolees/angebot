@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Steuere dein U-Boot über Abgründe hinweg und tauche durch Höhlen, Wracks und Unterwasserpflanzen auf der Suche nach Hintergrundinformationen
 - Tauche durch wunderschöne Unterwasserwelten, von unergründlichen Tiefen bis hin zu retrofuturistischen Einrichtungen in einem stimmungsvollen Ambiente
-- Eine surreale Reise unter der Meeresoberfläche beginnt
 - Inhalt der Deluxe Edition: das Spiel, Artbook und Aufkleberset
+- Eine surreale Reise unter der Meeresoberfläche beginnt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C6QRKB5C{{</world>}}

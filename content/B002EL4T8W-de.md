@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zuverlässiges Kochmesser aus der Serie Classic ideal für den täglichen Gebrauch
 - Müheloses Wiegen, Hacken, Schneiden, Formen, Drücken und Transportieren aller Lebensmittel (Klinge 20 cm)
 - Rutschfeste Griffe aus Spezialkunststoff – vernietet, fugenlos montiert und sehr hygienisch
+- Zuverlässiges Kochmesser aus der Serie Classic ideal für den täglichen Gebrauch
 - Laserbasiertes Schärfverfahren und finaler Polierabzug per Hand
 - Ultrascharfe Klinge aus einem Stück Wüsthof Stahl geschmiedet und auf 58° Rockwell gehärtet
 

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein kostenloses Upgrade auf die PlayStation 5-Version wird für Spieler verfügbar sein, die ELDEN RING für die PlayStation 4 kaufen, und SmartDelivery wird auf der Xbox One und der Xbox Series X|S unterstützt
 - ELDEN RING lockt mit gigantischen Fantasy-Landschaften und düsteren, komplexen Dungeons, die nahtlos ineinander übergehen
 - Reisen Sie durch das Zwischenland – eine neue Fantasywelt aus der Feder von Hidetaka Miyazaki, dem Schöpfer der einflussreichen DARK SOULS-Videospielreihe, und George R. R. Martin, dem Autor der Fantasy-Bestsellerreihe „A Song of Ice and Fire“ (Das Lied von Eis und Feuer)
+- Ein kostenloses Upgrade auf die PlayStation 5-Version wird für Spieler verfügbar sein, die ELDEN RING für die PlayStation 4 kaufen, und SmartDelivery wird auf der Xbox One und der Xbox Series X|S unterstützt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09R3DSJMS{{</world>}}

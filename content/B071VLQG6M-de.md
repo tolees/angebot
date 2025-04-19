@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dies ist ein originales Levis Produkt
 - Sieht einfach perfekt aus
 - Superweicher Jersey
-- Wie kann man es nicht lieben? Ein Basic-T-Shirt aus weichem Jersey
-- Mit dem auffälligen Levis Logo
+- Dies ist ein originales Levis Produkt
 - Dies ist ein originales Levis Produkt
 - Eines der kultigsten Logos überhaupt
+- Wie kann man es nicht lieben? Ein Basic-T-Shirt aus weichem Jersey
+- Mit dem auffälligen Levis Logo
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B071VLQG6M{{</world>}}

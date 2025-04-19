@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mehrere verschiedene Welten mit einzigartigen Texturen, Animationen und Kreaturen
-- Neue Spielmechaniken und Werkzeuge
-- Mehr als 400 neu gestaltete Levels in 2 Spielen
-- Diagonale Bewegung und Wände
-- 20 neue Levels von Peter Liepa, dem Entwickler der ersten Boulder Dash Versionen
-- 20 Levels aus der Originalversion von 1984
 - Viele freischaltbare Charaktere, Upgrades und Charaktergestaltung
+- Neue Spielmechaniken und Werkzeuge
+- 20 neue Levels von Peter Liepa, dem Entwickler der ersten Boulder Dash Versionen
+- Diagonale Bewegung und Wände
+- Mehr als 400 neu gestaltete Levels in 2 Spielen
+- Mehrere verschiedene Welten mit einzigartigen Texturen, Animationen und Kreaturen
+- 20 Levels aus der Originalversion von 1984
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09MRF4DPV{{</world>}}

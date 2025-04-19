@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stabile, schlichte Steckerleiste aus hochbruchfestem Spezial-Kunststoff
-- Die Schutzkontakt-Steckdosen sind in 45° angeordnet, sodass diese auch für Winkelstecker geeignet sind
 - Mehrfachstecker mit Aufhänge-Vorrichtung zur Wandmontage und praktischer Kabelaufnahme
+- Die Schutzkontakt-Steckdosen sind in 45° angeordnet, sodass diese auch für Winkelstecker geeignet sind
+- Stabile, schlichte Steckerleiste aus hochbruchfestem Spezial-Kunststoff
 - 6er Schutzkontakt-Steckdosenleiste mit 3m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
 - Mit beleuchtetem Sicherheitsschalter zum Ein- und Ausschalten (zweipolig)
 

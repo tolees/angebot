@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 2: Präzisionszangen für feinste Schneidarbeiten, z. B. in Elektronik und Feinmechanik
-- Produkt 1: Nur ein Werkzeug für die gängigsten Crimpanwendungen
-- Produkt 2: Exakt geformte Spitzen schneiden auch anliegende Drähte ab Ø 0,2 mm
-- Produkt 2: Geschliffene, sehr scharfe Schneiden ohne Facette
-- Produkt 1: Sichere und geschützte Aufbewahrung der Wechseleinsätze in einem Rundmagazin
-- Produkt 1: Komfortable, leistungsstarke Crimpzange in Profi-Qualität
 - Produkt 1: Schnelles und einfaches Wechseln der Crimpeinsätze ohne Zusatzwerkzeug
+- Produkt 1: Nur ein Werkzeug für die gängigsten Crimpanwendungen
+- Produkt 2: Geschliffene, sehr scharfe Schneiden ohne Facette
+- Produkt 2: Präzisionszangen für feinste Schneidarbeiten, z. B. in Elektronik und Feinmechanik
+- Produkt 1: Komfortable, leistungsstarke Crimpzange in Profi-Qualität
+- Produkt 1: Sichere und geschützte Aufbewahrung der Wechseleinsätze in einem Rundmagazin
+- Produkt 2: Exakt geformte Spitzen schneiden auch anliegende Drähte ab Ø 0,2 mm
 - Produkt 2: Scherschnitt mit kontrolliertem Micro-Schneidkantenversatz für lange Lebensdauer und ultrapräzisen Schnitt auch dünnster Drähte
 
 [🛒 Hier!!]({{< param buyurl >}})

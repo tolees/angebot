@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Details gesucht
 - Maximaler Komfort
+- Details gesucht
 - Ergonomisch
 
 [🛒 Hier!!]({{< param buyurl >}})

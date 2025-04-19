@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- <b>4.</b>Durchmessertoleranz +/- 0.02mm
-- <b>2.</b>Keine Verunreinigungen, Kein verstopft
-- <b>1.</b>1kg Spool 1.75mm Filament PLA in der Vakuumverpackung
-- <b>5.</b>Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen
 - <b>3.</b>Druck Temperatur: 190-220℃;
+- <b>2.</b>Keine Verunreinigungen, Kein verstopft
+- <b>5.</b>Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen
+- <b>4.</b>Durchmessertoleranz +/- 0.02mm
+- <b>1.</b>1kg Spool 1.75mm Filament PLA in der Vakuumverpackung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MR5OCX5{{</world>}}

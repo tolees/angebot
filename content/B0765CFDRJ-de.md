@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erweitere dieses Set mit der Dampfeisenbahn (10874) oder dem Güterzug (10875), um die Vielfalt deiner LEGO-DUPLO-Eisenbahnsammlung zu vergrößern
 - Die in diesem Set enthaltenen Eisenbahnschienen sind mit der bestehenden LEGO-DUPLO-Eisenbahnsammlung deines Kindes kompatibel
 - Enthält 8 gerade LEGO-DUPLO-Eisenbahnschienen, 4 schräge Schienen zum Bauen der Eisenbahnbrücke sowie einen gelben Signalstein, um ein Signal ertönen zu lassen
 - Eisenbahn Set für Mädchen und Jungen inklusive LEGO-DUPLO-Bauarbeiter-Figur mit Spaten- und Koffer-Zubehör
+- Erweitere dieses Set mit der Dampfeisenbahn (10874) oder dem Güterzug (10875), um die Vielfalt deiner LEGO-DUPLO-Eisenbahnsammlung zu vergrößern
 - Zeige deinem Kind, wie der gelbe Signalstein auf dem Gleis kompatible Züge wie die Dampfeisenbahn (10874) oder den Güterzug (10875) zum Hupen bringt, wenn sie ihn überfahren
 
 [🛒 Hier!!]({{< param buyurl >}})

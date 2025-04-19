@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - display_size; 3.0 inches
-- Voller Autofocus und Auto-Belichtung für zahlreiche F-Objektive
 - Gute Ergonomie
+- Voller Autofocus und Auto-Belichtung für zahlreiche F-Objektive
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NT5T1W6{{</world>}}

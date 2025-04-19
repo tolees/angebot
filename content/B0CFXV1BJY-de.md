@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibel mit Parallelanschlag und Bosch Führungsschienen zum Fräsen gerader Nuten
-- Lieferumfang: 1x Oberfräsen-Taucheinheit, 1x Führungshalter mit Führungsschienenadapter, 1x Absaugadapter, 1x Zentrierstift, Karton
 - Oberfräsen-Taucheinheit kompatibel zu AdvancedTrimRouter 18V-8 für noch präziseres Nuten- und Taschenfräsen
 - Die Akku-Kantenfräse AdvancedTrimRouter 18V-8 lässt sich durch die kompatible Taucheinheit in eine Oberfräse umwandeln
+- Lieferumfang: 1x Oberfräsen-Taucheinheit, 1x Führungshalter mit Führungsschienenadapter, 1x Absaugadapter, 1x Zentrierstift, Karton
+- Kompatibel mit Parallelanschlag und Bosch Führungsschienen zum Fräsen gerader Nuten
 - 7-stufiger Revolveranschlag erlaubt mühelose und präzise Tiefeneinstellung aller gängigen Frästiefen
 
 [🛒 Hier!!]({{< param buyurl >}})

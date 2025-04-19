@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IMPERIALE EHRENGARDE: Mit den Figuren aus der Black Series in klassischem Design und klassischer Verpackung kann das 40-jährige Jubiläum von Star Wars: Die Rückkehr der Jedi-Ritter gebührend gefeiert werden
-- VOM FILM INSPIRIERTES ACCESSOIRE: Die Action-Figur zum Sammeln aus der Star Wars Black Series kommt mit einem Stab als Accessoire
 - STAR WARS: DIE RÜCKKEHR DER JEDI-RITTER: Diese Figur einer Imperialen Ehrengarde ist durch den Charakter in Star Wars: Die Rückkehr der Jedi-Ritter inspiriert — ein tolles Geschenk für Star Wars Sammler und Fans ab 4 Jahren
-- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
 - MIT SAMMELFIGUREN EINE GALAXIS ERSCHAFFEN: Mit von der Serie inspirierten Sammelfiguren aus der Star Wars The Black Series lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- IMPERIALE EHRENGARDE: Mit den Figuren aus der Black Series in klassischem Design und klassischer Verpackung kann das 40-jährige Jubiläum von Star Wars: Die Rückkehr der Jedi-Ritter gebührend gefeiert werden
+- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
+- VOM FILM INSPIRIERTES ACCESSOIRE: Die Action-Figur zum Sammeln aus der Star Wars Black Series kommt mit einem Stab als Accessoire
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B3G7G1SG{{</world>}}

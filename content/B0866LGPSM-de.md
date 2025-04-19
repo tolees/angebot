@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Handbetrieben
 - Kantaufnahme einsetzbar
+- Handbetrieben
 - Verbesserte Präzision
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

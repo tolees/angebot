@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Tinte auf Wasserbasis
 - Faserschreiber mit flexibler Pinselspitze
 - Gehäuse mit Metallic-Effekt
 - Ideal für Kalligrafie, Illustrationen & Skizzen
-- Tinte auf Wasserbasis
 - Robuste, metallgefasste Pinselspitze ermöglicht eine variable Strichstärke
 
 [🛒 Hier!!]({{< param buyurl >}})

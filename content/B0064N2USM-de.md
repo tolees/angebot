@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perfekt als Geschenk
-- Ideal zum Verschenken oder selbst genießen
 - Als Pink Gin Tonic Cocktail oder einfach pur.
-- ideal zum Verschenken oder selbst Genießen
 - In Gin Gläser serviert, mit Prosecco aufgegossen auch ein erfrischender Aperitiv.
+- Perfekt als Geschenk
+- ideal zum Verschenken oder selbst Genießen
+- Ideal zum Verschenken oder selbst genießen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0064N2USM{{</world>}}

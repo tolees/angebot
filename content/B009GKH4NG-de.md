@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 24bit/192kHz Burr Brown DAC (PCM1796)
-- Robustes und zuverlässiges Ganzmetall CD-Laufwerk
-- „Blue Tiger“ Servoboard für perfekte 1:1 CD Wiedergabe
-- Fernbedienung mit Lautstärkeregelung für Pro-Ject Verstärker
 - Ausgänge: 1 Paar RCA/Cinch-Buchsen, 1x koaxial (S/PDIF)
+- Fernbedienung mit Lautstärkeregelung für Pro-Ject Verstärker
+- Robustes und zuverlässiges Ganzmetall CD-Laufwerk
+- 24bit/192kHz Burr Brown DAC (PCM1796)
+- „Blue Tiger“ Servoboard für perfekte 1:1 CD Wiedergabe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009GKH4NG{{</world>}}

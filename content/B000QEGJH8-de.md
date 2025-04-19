@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 1.000.000 Durchläufe
 - 30 Jahre Archivierungssicherheit
 - 20.000 Lade- und Auswurfvorgänge
-- 1.000.000 Durchläufe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000QEGJH8{{</world>}}

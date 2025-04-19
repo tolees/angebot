@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brand Games Workshop
 - Farbe: Mehrfarbig
+- Brand Games Workshop
 - Games Workshop Warhammer 40 000 Combat Patrol Death Guard
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

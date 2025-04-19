@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alkoholgehalt: 37,5 Volumenprozent
-- Frisch, fruchtig, zitrus
 - Geschmack: saftig
-- Ideal als geschenk
+- Alkoholgehalt: 37,5 Volumenprozent
 - Farbe: klar
+- Ideal als geschenk
+- Frisch, fruchtig, zitrus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01LWLB90V{{</world>}}

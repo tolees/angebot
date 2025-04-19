@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für Modellbau, Hobby- und Bastelarbeiten.
 - Ungiftig und vielfältig einsetzbar.
+- Für Modellbau, Hobby- und Bastelarbeiten.
 - Farben von Vallejo auf Wasser-Basis.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BOURJOIS Rouge LIPSTICK VELVET AUSGABE 03
 - Hält kühl und bequem
+- Langlebig
 - Bringt Ihnen einen zusätzlichen Komfort
 - Flexible Gestaltung
-- Langlebig
+- BOURJOIS Rouge LIPSTICK VELVET AUSGABE 03
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00J5MCHUK{{</world>}}

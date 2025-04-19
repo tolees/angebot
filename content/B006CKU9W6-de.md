@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Anschluss an Tauchrohr Spüle: Überwurfmutter 1 Zoll inkl. Dichtung (ohne Blindkappe)
-- Anschluss für Ablaufschlauch: 9-14 mm
 - Winkelschlauchstülle für Kondenswasseranschluss // Original Hersteller-Teilenummer: 090362 // 90° gewinkelt
 - Abgebildetes Tauchrohr ist nicht im Lieferumfang enthalten!
 - Material: Kunststoff weiß
+- Anschluss für Ablaufschlauch: 9-14 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006CKU9W6{{</world>}}

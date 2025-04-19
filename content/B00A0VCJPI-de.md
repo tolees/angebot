@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- , Localisation:Europe
 - , Height:7.52 cm
+- , Localisation:Europe
 - , Depth:6.58 cm
 - , Width:11 cm
 

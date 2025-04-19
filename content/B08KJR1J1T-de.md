@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sackboy: A Big Adventure - PlayStation 4 inkl. kostenlosem Upgrade auf PS5
 - PHYSISCHE VIDEOSPIEL-SOFTWARE
 - Playstation
+- Sackboy: A Big Adventure - PlayStation 4 inkl. kostenlosem Upgrade auf PS5
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08KJR1J1T{{</world>}}

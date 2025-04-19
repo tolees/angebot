@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kinder ab 6 Jahren können das supercoole Spaceshuttle mit einer zu öffnenden Luke bauen, in der sich ein herausnehmbarer und ausziehbarer Satellit befindet
-- Dieses 3in1 LEGO Weltraumspielzeug-Bauset enthält ein Spaceshuttle, das sich in eine Astronauten-Figur mit beweglichen Beinen und Armen oder ein Raumschiff umbauen lässt
 - Danach kann das Set zu einem Raumschiff-Spielzeug umgebaut werden, mit dem die Kinder in den Orbit fliegen können, oder zu einer beweglichen Astronauten-Figur mit Jetpack
+- Dieses 3in1 LEGO Weltraumspielzeug-Bauset enthält ein Spaceshuttle, das sich in eine Astronauten-Figur mit beweglichen Beinen und Armen oder ein Raumschiff umbauen lässt
 - In diesem LEGO Set erhalten Kinder 3 verschiedene Bau- und Spielerlebnisse; ein außergewöhnliches Geschenk für Kinder ab 6 Jahren zum Geburtstag.
 - Mit der LEGO Builder App können Kinder eine digitale Version ihres Modells auf ihren Smartphones oder Tablets zoomen, drehen und visualisieren
 

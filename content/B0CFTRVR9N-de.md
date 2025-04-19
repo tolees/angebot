@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Regisseur ‏ : ‎ Soto, Angel Manuel
+- Medienformat ‏ : ‎ 4K
 - Alterseinstufung ‏ : ‎ Freigegeben ab 12 Jahren
 - Laufzeit ‏ : ‎ 2 Stunden und 7 Minuten
-- Medienformat ‏ : ‎ 4K
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFTRVR9N{{</world>}}

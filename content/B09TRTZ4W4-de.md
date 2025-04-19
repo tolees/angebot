@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- atmungsaktiv
-- robust
 - mit Kapuze
-- wasserdicht, winddicht
 - 3-in-1-Jacke
+- robust
+- atmungsaktiv
+- wasserdicht, winddicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TRTZ4W4{{</world>}}

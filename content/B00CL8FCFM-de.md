@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Das hochwertig verarbeitete TV-Antennen-Kabel ist sowohl für digitale als auch analoge Signale geeignet. Es ist ideal für den terrestrischen Empfang (DVB-T/DVB-T2) und für digitales Kabelfernsehen (DVB-C) in Full HD oder 4K UHD
 - Das gesamte Kupferkabel verfügt über eine durchgängige und mehrfache Schirmung, die aus Alu-Mylar-Folie und einem dichten Kupfergeflecht besteht. Es ist somit hervorragend vor Störeinflüssen geschützt und behält dennoch seine hohe Flexibilität
-- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Verbinden Sie mit dem Antennen-Empfangskabel von KabelDirekt ganz einfach Fernseher, TV-Receiver/Streaming-Box, Radio-Receiver (DAB und DAB+), DVB-T-Antennen oder Antennenbuchsen
+- 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - Entwickelt in Deutschland: Das Koaxial-Kabel von KabelDirekt ist maschinell getestet und weltweit bei Millionen Kunden anerkannt für seine Zuverlässigkeit. Die Stecker werden von einer bruchfesten Metallhülse geschützt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

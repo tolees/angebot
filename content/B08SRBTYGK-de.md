@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Langlebig
+- Robustheit
 - Art.-Nr. FD-C-POA1A-01
 - Hochwertige Material
 - Flexible Gestaltung
-- Robustheit
-- Langlebig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08SRBTYGK{{</world>}}

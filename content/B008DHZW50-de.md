@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Stanley Kleinteilemagazin mit 9 Schubladen, 12 Monate Herstellergarantie bei sachgerechter Benutzung
-- Alles aufgeräumt: Geeignet zur Wandmontage
 - Flexible Module: Kleinteilemagazine können ineinander gesteckt werden
-- Stabiles System: Durch robusten und bruchfesten Kunststoffrahmen
 - Alles im Blick: Transparente Schubladen aus Polypropylen für gute Sichtbarkeit des Inhalts
+- Lieferumfang: 1x Stanley Kleinteilemagazin mit 9 Schubladen, 12 Monate Herstellergarantie bei sachgerechter Benutzung
+- Stabiles System: Durch robusten und bruchfesten Kunststoffrahmen
+- Alles aufgeräumt: Geeignet zur Wandmontage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008DHZW50{{</world>}}

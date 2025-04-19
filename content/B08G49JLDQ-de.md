@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Dieses Spielset beinhaltet 2 LEGO Friends Spielfiguren, eine Welpenfigur (neu ab Januar 2021), eine Picknickkulisse im Grünen und ein Quad.
 - Tierrettungs-Quad
 - Anzahl der Teile: 100
-- Vom Hersteller empfohlenes Alter: 6+
 - Kinder können ein Picknick machen, mit dem Welpen spielen oder den Baum umstürzen lassen. Mit dem Quad können sie dann den Baum anheben, um das festsitzende Hündchen zu befreien!
+- Vom Hersteller empfohlenes Alter: 6+
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08G49JLDQ{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produziert unter strengen Kontrollen
 - 8mm
-- 1Zwei Stück
 - Packung die Größe: 22.2 L x 5.4 H x 16.2 W (cm)
+- 1Zwei Stück
 - Zubehör für Makita Werkzeug
+- Produziert unter strengen Kontrollen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B013ERNHW8{{</world>}}

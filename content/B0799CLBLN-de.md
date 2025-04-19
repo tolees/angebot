@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Rost mit zwei Ebenen zum Maximieren Ihres Kochbereichs – Trennvorrichtung teilt den Korb der Heißluftfritteuse für verschiedene Speisen – Rezeptheft für köstliche, gesündere Partysnacks
 - Kompatibel mit: Philips Airfryer XXL Modellen HD965x, HD976x, HD986x
+- Lieferumfang: Rost mit zwei Ebenen zum Maximieren Ihres Kochbereichs – Trennvorrichtung teilt den Korb der Heißluftfritteuse für verschiedene Speisen – Rezeptheft für köstliche, gesündere Partysnacks
 - Gesündere Snacks, schnell gemacht: praktisches Heißluftfritteusen-Zubehör für Ihren Philips Airfryer XXL zur Zubereitung Ihrer Lieblings-Partysnacks – spülmaschinenfest und daher leicht zu reinigen
 
 [🛒 Hier!!]({{< param buyurl >}})

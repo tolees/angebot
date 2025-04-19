@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- mindert den Zeit- und Kostenaufwand
+- HSS-Stahl
 - Lieferumfang: 5 HSS Bohrer 3,2 - 4,8 - 6,4 - 8,0 - 8,7 mm (rechtsdrehend) | 10 Bohrer-Führungsbuchsen | 5 Ausdrehbolzen | 5 Ausdrehadapter
 - ermöglicht ein professionelles Herausdrehen von abgebrochenen Schrauben und Stehbolzen
-- HSS-Stahl
-- mindert den Zeit- und Kostenaufwand
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0095KEGM4{{</world>}}

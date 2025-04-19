@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sprachsteuerung: Sie können die Sprachsteuerung über Apple Watch oder iphone verwenden, um Ihr Gerät zu verwalten. Die intelligente Steckdose sind kompatibel mit Apple HomeKit, Siri, Alexa und Google Assistant. Es ist einfach und bequem und bietet Ihnen ein entspanntes Leben.
-- Lokale Steuerung auf Millisekundenebene: Zu Hause unterstützt Meross Smart Socket die lokale (Local Area Network) Steuerung und bietet Kunden ein Steuerungserlebnis auf Millisekundenebene. Erscheinungsbild Patent Nr.: 008373963-0001.
-- Zeitplan und Sunrise/Sunset: Ein Zeitplan wird in der App eingestellt, die WLAN Zeitschaltuhr Steckdose schaltet sich automatisch gemäß dem Zeitplan ein oder aus. Unterstützung der Sonnenauf-/untergang-Funktion und Countdown.
-- Siri: Smart Steckdose funktioniert mit Apple HomeKit (iOS 13 oder höher). Von Lichtern bis hin zu Geräten kann Siri Ihr Apple HomeKit Zubehör ein- oder ausschalten. Sagen Sie einfach "Hey Siri". Hinweis: Die Fernsteuerung erfordert ein zusätzliches Apple-Gerät wie iPad, HomePod oder Apple TV.
 - Kompatibel mit Alexa und Google Home: Steuern Sie Ihre Geräte durch Sprachbefehle; Wi-Fi Steckdose funktioniert mit Alexa und Google Home. Wenn Sie nicht zu Hause sind, können Sie die Geräte immer noch über die meross App steuern.
+- Sprachsteuerung: Sie können die Sprachsteuerung über Apple Watch oder iphone verwenden, um Ihr Gerät zu verwalten. Die intelligente Steckdose sind kompatibel mit Apple HomeKit, Siri, Alexa und Google Assistant. Es ist einfach und bequem und bietet Ihnen ein entspanntes Leben.
+- Siri: Smart Steckdose funktioniert mit Apple HomeKit (iOS 13 oder höher). Von Lichtern bis hin zu Geräten kann Siri Ihr Apple HomeKit Zubehör ein- oder ausschalten. Sagen Sie einfach "Hey Siri". Hinweis: Die Fernsteuerung erfordert ein zusätzliches Apple-Gerät wie iPad, HomePod oder Apple TV.
+- Zeitplan und Sunrise/Sunset: Ein Zeitplan wird in der App eingestellt, die WLAN Zeitschaltuhr Steckdose schaltet sich automatisch gemäß dem Zeitplan ein oder aus. Unterstützung der Sonnenauf-/untergang-Funktion und Countdown.
+- Lokale Steuerung auf Millisekundenebene: Zu Hause unterstützt Meross Smart Socket die lokale (Local Area Network) Steuerung und bietet Kunden ein Steuerungserlebnis auf Millisekundenebene. Erscheinungsbild Patent Nr.: 008373963-0001.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08FCBKPJ9{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Radsport
 - Ausgezeichnetes ma an griffigkeit und zuverlässigkeit
 - Aus hochwertigem material
-- Radsport
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00IOK3APA{{</world>}}

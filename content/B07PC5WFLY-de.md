@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 32 x Schrauberbits Länge 25 mm (4 x Kreuzschlitz PH 1/2/2/3, 4 x Pozidriv PZ 1/2/2/3, 16 x Torx T 10/10/15/15/20/20/20/20/25/25/25/25/30/30/40/40, 2 x Schlitz S 4/6, 6 x Hex H 3/4/4/5/5/6), 5 x Schrauberbits Länge 50 mm (1 x Kreuzschlitz PH 2, 1 x Pozidriv PZ 2, 3 x Torx T 15/20/25), 1 x Universalhalter magnetisch mit Quick-Change-Funktion, 1 x Aufbewahrungsbox
-- Das Professional 40tlg. Schrauberbit-Set von Bosch - mit dem Pick and Click System: Sicheres Einrasten der Bit-Bündel in die Klickslots oder einfaches Drücken der Entriegelungslasche zum Entfernen und Austauschen
 - Passend für Bohrschrauber und Schraubendreher aller Marken
+- Das Professional 40tlg. Schrauberbit-Set von Bosch - mit dem Pick and Click System: Sicheres Einrasten der Bit-Bündel in die Klickslots oder einfaches Drücken der Entriegelungslasche zum Entfernen und Austauschen
+- Lieferumfang: 32 x Schrauberbits Länge 25 mm (4 x Kreuzschlitz PH 1/2/2/3, 4 x Pozidriv PZ 1/2/2/3, 16 x Torx T 10/10/15/15/20/20/20/20/25/25/25/25/30/30/40/40, 2 x Schlitz S 4/6, 6 x Hex H 3/4/4/5/5/6), 5 x Schrauberbits Länge 50 mm (1 x Kreuzschlitz PH 2, 1 x Pozidriv PZ 2, 3 x Torx T 15/20/25), 1 x Universalhalter magnetisch mit Quick-Change-Funktion, 1 x Aufbewahrungsbox
 - Für eine schnelle Übersicht und Identifizierung des richtigen Bittyps sind die Bits farbcodiert
 
 [🛒 Hier!!]({{< param buyurl >}})

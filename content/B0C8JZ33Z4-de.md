@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Recycled Synthetics
 - Sohle: 100% EVA
+- Recycled Synthetics
 - Farbe: Mittelgrün
 - Obermaterial: 100 % recyceltes PET
 

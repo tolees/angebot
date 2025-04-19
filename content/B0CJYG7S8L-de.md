@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ELEMENTAR GEDACHT | Unser veganes Produkt ist nur mit Steviolglycosiden gesüßt, ohne Sucralose oder Aspartam. Es kommt ohne Gentechnik aus, ist zuckerarm und frei von Zusätzen wie Verdickungs-, Trenn- und Antioxidationsmitteln, Füll- und Trägerstoffen oder Schaumverhütern.
-- SANFTE SÜSSE, STARKES PULVER | 33 Portionen à 30g supporten deinen Muskelaufbau.* Das Pulver schmeckt sanft nach Kakao und dank Verzicht auf Sucralose oder Aspartam weniger süß. Für vielseitigen Proteingenuss im Shake, Smoothie, Porridge oder zum Backen. Yummy!
-- DIE NATURAL ELEMENTS DEVISE | Große Worte erfordern große Taten! Deshalb lassen wir JEDE Produktionscharge gründlich durch unabhängige Labore in Deutschland prüfen. Du findest die Untersuchungsbescheinigung unter „Produktleitfäden und Dokumente“.
-- ELEMENTAR EFFEKTIV | *Proteine tragen zu einer Zunahme an Muskelmasse, zur Erhaltung von Muskelmasse und zur Erhaltung normaler Knochen bei.
-- VEGANER PROTEIN-BOOST | Du willst die Muskeln spielen lassen? Unser veganes Proteinpulver mit lecker-natürlicher Kakaonote ohne pappsüßen Geschmack supportet dich gern. Es enthält pro Portion 19g Protein aus Erbse, Sonnenblume und Kürbis. Yeah!
 - MAP? OH YEAH | Wir orientieren uns an der Master-Amino-Acid-Pattern-Formel (MAP-Formel), für das optimale Verhältnis und beste Bioverfügbarkeit aller 8 essenziellen Aminosäuren. Unser hochdosiertes Pulver kann so optimal vom Körper verwertet werden.
+- DIE NATURAL ELEMENTS DEVISE | Große Worte erfordern große Taten! Deshalb lassen wir JEDE Produktionscharge gründlich durch unabhängige Labore in Deutschland prüfen. Du findest die Untersuchungsbescheinigung unter „Produktleitfäden und Dokumente“.
+- VEGANER PROTEIN-BOOST | Du willst die Muskeln spielen lassen? Unser veganes Proteinpulver mit lecker-natürlicher Kakaonote ohne pappsüßen Geschmack supportet dich gern. Es enthält pro Portion 19g Protein aus Erbse, Sonnenblume und Kürbis. Yeah!
+- ELEMENTAR EFFEKTIV | *Proteine tragen zu einer Zunahme an Muskelmasse, zur Erhaltung von Muskelmasse und zur Erhaltung normaler Knochen bei.
+- SANFTE SÜSSE, STARKES PULVER | 33 Portionen à 30g supporten deinen Muskelaufbau.* Das Pulver schmeckt sanft nach Kakao und dank Verzicht auf Sucralose oder Aspartam weniger süß. Für vielseitigen Proteingenuss im Shake, Smoothie, Porridge oder zum Backen. Yummy!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CJYG7S8L{{</world>}}

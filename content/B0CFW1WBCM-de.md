@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größere Ninja-Abenteuer: Hol dir weitere separat erhältliche NINJAGO Actionspielzeuge, um die Duelle aus LEGO NINJAGO Dragons Rising nachzustellen
-- Drachenpower-Element: Das grüne Drachenpower-Element aus diesem LEGO NINJAGO Set passt ins Maul des gelben Drachen
-- Drachen-Geschenk: Dieses LEGO NINJAGO Set bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder, die sich ein spontanes kleines Geschenk verdient haben
-- Ninja-Spielzeug: Dein Kind kann den Drachenreiter NINJAGO Arin auf den Rücken der gelben Drachenfigur setzen und dann seinen goldenen Schwanz runterschlagen, um beide in die Luft zu katapultieren
-- 2 LEGO NINJAGO Figuren: Dieses Action-Spielzeug beinhaltet die LEGO NINJAGO Minifigur Arin mit einem Mini-Katana für Rollenspiele und packende Duelle mit einem Wolfsjäger, der auch ein Spielzeug-Schwert schwingt
 - Drachen-Spielzeug für Kinder: Mit Arins Drachengleiter können Jungen und Mädchen ab 6 Jahren die Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
+- Drachen-Geschenk: Dieses LEGO NINJAGO Set bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder, die sich ein spontanes kleines Geschenk verdient haben
+- Drachenpower-Element: Das grüne Drachenpower-Element aus diesem LEGO NINJAGO Set passt ins Maul des gelben Drachen
+- Ninja-Spielzeug: Dein Kind kann den Drachenreiter NINJAGO Arin auf den Rücken der gelben Drachenfigur setzen und dann seinen goldenen Schwanz runterschlagen, um beide in die Luft zu katapultieren
+- Größere Ninja-Abenteuer: Hol dir weitere separat erhältliche NINJAGO Actionspielzeuge, um die Duelle aus LEGO NINJAGO Dragons Rising nachzustellen
+- 2 LEGO NINJAGO Figuren: Dieses Action-Spielzeug beinhaltet die LEGO NINJAGO Minifigur Arin mit einem Mini-Katana für Rollenspiele und packende Duelle mit einem Wolfsjäger, der auch ein Spielzeug-Schwert schwingt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFW1WBCM{{</world>}}

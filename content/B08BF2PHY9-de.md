@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 150
 - BRD
+- 150
 - Deutsch, Japanisch
 - Tetsuro Araki
 

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Durchmesser 125 mm; Ein stück
 - Made in Switzerland
 - Zur Verwendung mit Politur oder zum Einarbeiten von Oberflächenversiegelungen auf gewölbten und ebenen Flächen
-- Durchmesser 125 mm; Ein stück
 - Geeignet für Holz, Lack, Plexiglas und Corian
 - Polierschwamm für Exzenterschleifer
 - Hochglanzpolieren von leicht verschmutzten, zerkratzten oder vorpolierten Oberflächen

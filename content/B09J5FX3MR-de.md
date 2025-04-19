@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bruchlast kN: 25/ 9 / 9
-- Keylock-Verschluss für optimales Handling beim Ein- und Aushängen
 - Drahtbügel hält den Karabiner beim Sichern in Position, ungünstige Querbelastungen werden dadurch vermieden
+- Keylock-Verschluss für optimales Handling beim Ein- und Aushängen
+- Bruchlast kN: 25/ 9 / 9
 - H-Profil Konstruktion für bestmögliche Materialausnutzung bei minimalem Gewicht
 - Ideal in der Verwendung mit den EDELRID Sicherungsgeräten.
 

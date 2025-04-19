@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe :schwarz
 - Verpackung :1 Set
+- Farbe :schwarz
 - Groesse :
 - Gewicht :
 

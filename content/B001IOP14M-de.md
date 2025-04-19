@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Naturata Bio Kakao
-- Fairtrade
-- vegan
-- Bio
 - myclimate - klimafreundlich
+- Naturata Bio Kakao
+- vegan
+- Fairtrade
+- Bio
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001IOP14M{{</world>}}

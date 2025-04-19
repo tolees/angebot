@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Reißverschluss
 - Sohle: Gummi
+- Verschluss: Reißverschluss
 - Absatzform: Kein Absatz
 - Obermaterial: Leder
 

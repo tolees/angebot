@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Digitale Zeitschaltuhr mit LCD-Display, Zufallsschaltung für die Urlaubszeit und erhöhtem Berührungsschutz, GS-geprüft
-- Der minimale Schaltabstand der Wochenzeitschaltuhr beträgt 1 Minute
 - Inklusive 10 Ein-/Aus-Programme mit Wochentag-, Stunden- und Minuten-Einstellungen
 - Lieferumfang: 1 x Digitale Wochenzeitschaltuhr IP44 in der Farbe anthrazit, inkl. NiMH-Akku - in bester Qualität von brennenstuhl
+- Der minimale Schaltabstand der Wochenzeitschaltuhr beträgt 1 Minute
+- Digitale Zeitschaltuhr mit LCD-Display, Zufallsschaltung für die Urlaubszeit und erhöhtem Berührungsschutz, GS-geprüft
 - Mit Datenspeicherung bei Stromausfall und manueller Ein-, Aus-funktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

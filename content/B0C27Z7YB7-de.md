@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wunderschöne Fantasy-Welt mit atemberaubender Grafik
 - Zugänglichkeit und Wiederspielwert dank des adaptiven Schwierigkeitssystems für die Kämpfe und Rätsel
 - Neues Kampfsystem und spannende Bosskämpfe
+- Wunderschöne Fantasy-Welt mit atemberaubender Grafik
 - Vereinte Kräfte mit 1 – 4 Spielern (Einzelspieler, lokaler und Online-Koop-Modus)
 - 2,5D-Adventure mit weltbekannter Rätsel-Plattformer-Action
 

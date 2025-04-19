@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Werkzeuge im Kunststoff-Tiefziehteil mit transparentem Deckel
 - Abmessungen (B x H x T): 170 x 370 x 40 mm
+- Werkzeuge im Kunststoff-Tiefziehteil mit transparentem Deckel
 - Attraktive Verkaufsverpackung mit SB-Lochung
 
 [🛒 Hier!!]({{< param buyurl >}})

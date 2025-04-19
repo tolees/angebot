@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein klassisches Holzspielzeug, das neue Fertigkeiten entwickelt
-- Ein klassisches Holzspielzeug, das neue Fertigkeiten entwickelt
-- Vorzüglich für die frühzeitige Entwicklung von Form-, Farb- und Größendifferenzierungsfähigkeit.
 - 25 bunte Holzteile zum Vergleichen und Stapeln auf drei Stangen
+- Vorzüglich für die frühzeitige Entwicklung von Form-, Farb- und Größendifferenzierungsfähigkeit.
+- Ein klassisches Holzspielzeug, das neue Fertigkeiten entwickelt
+- Ein klassisches Holzspielzeug, das neue Fertigkeiten entwickelt
 - Ringe, Achtecke und Rechtecke
 - 25 bunte Holzteile zum Vergleichen und Stapeln auf drei Stangen
 

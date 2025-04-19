@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Doppelpack
-- Verbindung von 38-mm-Schläuchen mit 32- mm-Anschlüssen
 - Inhalt: 2 Schlauchadapter
+- Doppelpack
 - Zur Verbindung großer Filteranlagen mit kleinen Pools
+- Verbindung von 38-mm-Schläuchen mit 32- mm-Anschlüssen
 - Korrosionsbeständiges Material
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durchmesser: 36 cm
-- Kapazität: 6200)
 - Homogenität der Kochen ohne Zugabe von Fett
+- Kapazität: 6200)
+- Durchmesser: 36 cm
 - Struktur aus Aluminiumguss mit antihaft-Beschichtung in Stein-Optik "
 - Kochen für alle Herde, auch Induktionsherde
 

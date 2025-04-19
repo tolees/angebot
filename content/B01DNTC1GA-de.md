@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne Duftstoffe, Farbstoffe, Konservierungsmittel
-- Basische Pflege für Hände, Gesicht und den ganzen Körper
 - 100 % biologisch abbaubar
+- Basische Pflege für Hände, Gesicht und den ganzen Körper
+- Ohne Duftstoffe, Farbstoffe, Konservierungsmittel
 - Rein pflanzliche Tenside, ohne Petrochemie
 
 [🛒 Hier!!]({{< param buyurl >}})

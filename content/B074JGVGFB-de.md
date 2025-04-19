@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wallace
 - POP! Vinylfigur
+- Wallace
 - Blade Runner 2049
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

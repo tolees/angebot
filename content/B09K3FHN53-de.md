@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Drei-Knopf Bedienung an der linken Helmseite
 - ECE zertifiziert, Doppelhomologation P/J
+- Lautsprecher & Mikrofon im Helm integegriert
 - 4-Wege Bluetooth Intercom bzw. 2-Wege HD Intercom über Bluetooth 5.0
 - Klapphelm mit integrierter Sonnenblende
 - Schnelle Kopplung Dank Smart Intercom Pairing indem einfach QR codes mit der Sena Utility App gescannt werden
-- Drei-Knopf Bedienung an der linken Helmseite
-- Lautsprecher & Mikrofon im Helm integegriert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09K3FHN53{{</world>}}

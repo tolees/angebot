@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Warmfutter
 - Obermaterial: Synthetik
+- Innenmaterial: Warmfutter
 - Sohle: Gummi
 - Verschluss: Schnüren
 

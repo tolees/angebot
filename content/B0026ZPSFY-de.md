@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fördert das fantasievolle Spielen.
 - Holzschatzkiste mit Scharnieren und Geheimfach
-- Unglaublich preiswert
+- Fördert das fantasievolle Spielen.
 - Mit Augenklappe, Bandana, Golddublonen und einem "Samt"-Beutesack.
+- Unglaublich preiswert
 - Stabile Ausführung aus Holz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

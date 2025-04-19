@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vorderseite: karte maker und Rückseite: Briefumschlag maker
-- Geeignet für die Gestaltung von Karten und Umschlägen und das Scrapbooking
-- Gestalten Sie Ihre eigenen Karten und Umschläge mit diesem erstaunlichen Set. Das Set enthält einen Eckenstanzer
 - Das Brett ist ein sehr praktischen Tool für Umschläge/Kuverts bzw kleinen Verpackungsboxen, z. B. Schachteln oder Knallbonbon
+- Geeignet für die Gestaltung von Karten und Umschlägen und das Scrapbooking
+- Vorderseite: karte maker und Rückseite: Briefumschlag maker
+- Gestalten Sie Ihre eigenen Karten und Umschläge mit diesem erstaunlichen Set. Das Set enthält einen Eckenstanzer
 - Es lassen sich ganz einfach runde Ecken und Einschnitte kreieren, ohne Schere
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stürze dich in rasante Kämpfe, in denen du durch den gekonnten Einsatz verschiedenster Techniken den Sieg erringst
-- Reise durch atemberaubende Landschaften, die fast nahtlos ineinander übergehen und voller Geheimnisse stecken
 - Lass dich von der farbenfrohen Grafik verzaubern und in eine Welt entführen, in der die acht Elemente des Mana zusammenwirken
 - Ein neues Abenteuer erwartet dich in Visions of Mana, dem ersten Haupttitel der Mana-Reihe seit über 15 Jahren
+- Reise durch atemberaubende Landschaften, die fast nahtlos ineinander übergehen und voller Geheimnisse stecken
+- Stürze dich in rasante Kämpfe, in denen du durch den gekonnten Einsatz verschiedenster Techniken den Sieg erringst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CPS6B6RD{{</world>}}

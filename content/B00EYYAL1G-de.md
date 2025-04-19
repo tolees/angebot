@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 1 Stück
 - Chamberlain 771REV Lichtschranke
+- Inhalt: 1 Stück
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00EYYAL1G{{</world>}}

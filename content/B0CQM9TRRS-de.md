@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultrabreites 1,97-Zoll-AMOLED-Display
-- 150 + Sportmodi
 - Integriertes GPS Neue, präzisere Sensoren
+- Ultrabreites 1,97-Zoll-AMOLED-Display
 - 20 Tage Akkulaufzeit
+- 150 + Sportmodi
 - Integriertes GPS und rotierende Krone
 
 [🛒 Hier!!]({{< param buyurl >}})

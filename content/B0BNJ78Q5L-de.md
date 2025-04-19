@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- unterhaltsame Einblicke in die Arbeit eines Shojo-Manga-Verlags
 - Hauptserie Junjo Romantica erscheint ebenfalls bei Crunchyroll
 - romantische Boys-Love-Serie, die übers Küssen hinaus geht
-- unterhaltsame Einblicke in die Arbeit eines Shojo-Manga-Verlags
 - erfüllt den Wunsch nach mehr Boys-Love-Animes in Deutschland
 - fluffige Slice of Life Serie mit viel Comedy
 

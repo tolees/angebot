@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Smarte Erweiterung: Die separat erhältliche Hue Bridge Steuerungszentrale kann die WLAN Steckdose zusammen mit anderen Lampen oder Zubehör steuern, automatisieren und von überall auf der Welt bedienen
 - Keine Neuverkabelung notwendig: Einfach in eine beliebige Steckdose angebracht, verbindet der Plug die Lampe mit Ihrem Hue Smart Home für eine komfortable Bedienung
-- Modernes Design: Durch sein unauffälliges, kompaktes Design mit den Maßen von 5,1 x 5,1 x 8,4 cm passt der weiße Philips Hue Smart Plug in jedes Interieur
 - Bequeme Lichtsteuerung: Kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation) lässt sich die Hue Steckdose mit Sprache oder einem Klick steuern
+- Modernes Design: Durch sein unauffälliges, kompaktes Design mit den Maßen von 5,1 x 5,1 x 8,4 cm passt der weiße Philips Hue Smart Plug in jedes Interieur
 - Unbegrenzte Flexibilität: Der Hue Smart Plug verwandelt jede herkömmliche Lampe in ein smartes Licht und komplettiert das Zigbee und Bluetooth Netzwerk
 
 [🛒 Hier!!]({{< param buyurl >}})

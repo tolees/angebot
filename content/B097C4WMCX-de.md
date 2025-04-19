@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte und kraftvolle Heckenschere zum Trimmen mittelgroßer Hecken
-- Bosch Anti-Blockier-System für kontinuierliches Schneiden selbst durch dicke Äste
-- Kabellose Mobilität für anspruchsvolle Schnitte im ganzen Garten
 - 50 cm Messerlänge und 20 mm Zahnabstand für leichte Trimmarbeiten
+- Bosch Anti-Blockier-System für kontinuierliches Schneiden selbst durch dicke Äste
 - Lieferumfang: UniversalHedgeCut 18V-50, Karton
+- Kabellose Mobilität für anspruchsvolle Schnitte im ganzen Garten
+- Leichte und kraftvolle Heckenschere zum Trimmen mittelgroßer Hecken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B097C4WMCX{{</world>}}

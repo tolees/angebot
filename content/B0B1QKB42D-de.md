@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lockere Passform
 - Kurzärmeliges Oberteil
+- Lockere Passform
 - Aufschläge an beiden Ärmeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

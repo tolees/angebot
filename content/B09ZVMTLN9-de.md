@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
 - RFID geschützt Verschluss: Ethylen-Vinylacetat
+- Obermaterial: Leder
 - Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})

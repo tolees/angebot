@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bring einen Hauch von Regenbogenfarbe in jede Veranstaltung. Skittles sind die ultimative Party-Süßigkeit, vom Familien-BBQ bis zum Geburtstag deines besten Freundes.
-- Kaubonbons mit einer knusprigen Schale in einem Regenbogen an fruchtigen Geschmacksrichtungen, darunter schwarze Johannisbeere, Zitrone, Limette, Orange und Erdbeere
-- Eine Großpackung Leckereien: Die Familienpackung enthält 14 Packungen Skittles-Party-Bonbons in 38-g-Tüten
 - Lecker und jetzt auch auf pflanzlicher Basis, damit jeder unsere veganen Skittles-Bonbons genießen kann.
+- Eine Großpackung Leckereien: Die Familienpackung enthält 14 Packungen Skittles-Party-Bonbons in 38-g-Tüten
+- Kaubonbons mit einer knusprigen Schale in einem Regenbogen an fruchtigen Geschmacksrichtungen, darunter schwarze Johannisbeere, Zitrone, Limette, Orange und Erdbeere
 - Die kleinen regenbogenfarbenen Wunderbonbons eignen sich gleichermaßen zur Bereicherung von Küchenschränken oder Schreibtischschubladen und ergänzen deinen Snackvorrat
 
 [🛒 Hier!!]({{< param buyurl >}})

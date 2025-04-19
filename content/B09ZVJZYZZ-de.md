@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nicht Wasserfest
-- Sohle: Ethylen-Vinylacetat
 - Verschluss: Schnürung
 - Absatzform: Plateauabsatz
+- Sohle: Ethylen-Vinylacetat
 - Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})

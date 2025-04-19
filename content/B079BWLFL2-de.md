@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegehinweis: Maschinenwäsche
-- Modellnummer: 12137126
-- Marken-Print auf Brusthöhe
 - Slim Fit
+- Modellnummer: 12137126
 - Kragenform: Rundhals
+- Pflegehinweis: Maschinenwäsche
+- Marken-Print auf Brusthöhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B079BWLFL2{{</world>}}

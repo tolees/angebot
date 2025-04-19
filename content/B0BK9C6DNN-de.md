@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummilaufsohle
-- Synthetisches Obermaterial
 - Zwischensohle aus Gummi
 - Mittelhoher Schaft
+- Synthetisches Obermaterial
 - Einlegesohle aus softfoam
+- Gummilaufsohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BK9C6DNN{{</world>}}

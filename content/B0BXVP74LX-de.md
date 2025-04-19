@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehr wasserdicht, winddicht
-- Sehr warm wattierte Innenjacke
 - Bluesign-zertifiziert
+- Sehr warm wattierte Innenjacke
+- Sehr wasserdicht, winddicht
 - Belüftungsreißverschlüsse
 - 3-in-1-Jacke
 

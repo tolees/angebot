@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MAßE & TECHNISCHE DATEN: Flasche: ca.100x495 mm - Breite Standfuß: ca. 150 m - TECHNISCHE DATEN: Betriebsdruck: ≤ 50 bar - Berstdruck: > 110 bar - Ausgangsdruck: 3-5 bar - Flaschenwandstärke: 1,5 mm
+- SELBST BEFÜLLBAR: Der CO2 Reaktor wird mit einer Mischung aus Zitronensaeure - Komponente A, Natron - Komponente B sowie Wasser befüllt, welche dann zu CO2 regiert. Dies ermöglicht ein einfaches und schnelles befüllen der CO2 Anlage, ohne Geruchsbelästigung.
 - LIEFERUMFANG: 1x CO2-Zylinder 2,4 L - Edelstahl - 1x Blasenzähler mit Magnetventil - 1x Druckregler inkl. Druckanzeige - 1x Filter mit Trocknungsperlen - 1x Sicherheitsventil zum Überdruckablass - 1x Nadelventil zur CO2-Regulierung - 1x CO2-Schlauch - 2m - 1x Diffusor - Glas - 1x Einfülltrichter - 1x Saugnapfhalterung - 1x Rückschlagventil - 1x Erstfüllung der Komponenten A & B - Diverse Ersatzteile
 - ARKA mySCAPE-CO2 SYSTEM: Ein selbst befüllbares 2,4 L CO2-System, ideal zur CO2 Versorgung in jedem Süßwasseraquarium.
-- SELBST BEFÜLLBAR: Der CO2 Reaktor wird mit einer Mischung aus Zitronensaeure - Komponente A, Natron - Komponente B sowie Wasser befüllt, welche dann zu CO2 regiert. Dies ermöglicht ein einfaches und schnelles befüllen der CO2 Anlage, ohne Geruchsbelästigung.
 - QUALITÄT & OPTIK: Die sehr hochwertig verarbeitete Aquarium CO2 Anlage mit einem Grundkörper aus korrosionsbeständigen und druckfestem Edelstahl, ist DER Blickfang neben jedem Aquascape.
+- MAßE & TECHNISCHE DATEN: Flasche: ca.100x495 mm - Breite Standfuß: ca. 150 m - TECHNISCHE DATEN: Betriebsdruck: ≤ 50 bar - Berstdruck: > 110 bar - Ausgangsdruck: 3-5 bar - Flaschenwandstärke: 1,5 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BZN843FH{{</world>}}

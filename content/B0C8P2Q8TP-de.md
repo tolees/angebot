@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Horden grotesker Gegner stellen sich dir in den Weg
 - Schonungsloser Kampf
-- Grandiose, intensive Bosskämpfe
 - Beschreite beim Spielen eigene Wege
+- Grandiose, intensive Bosskämpfe
 - Erkunde eine weitläufige, nicht-lineare Welt
+- Horden grotesker Gegner stellen sich dir in den Weg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8P2Q8TP{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verpackungsabmessungen (L x B x H): 10.0 x 5.0 x 4.5 zm
+- Der äußerst präzise Freiwinkel sorgt für ein besonders gutes Schnittbild
 - Geeignet für beschichtete Bauelemente aus Holzwerkstoffen oder weiche und harte Massivhölzer und Plattenwerkstoffe
 - Herkunftsland:- Deutschland
-- Der äußerst präzise Freiwinkel sorgt für ein besonders gutes Schnittbild
-- Verpackungsabmessungen (L x B x H): 10.0 x 5.0 x 4.5 zm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000XJ4GHQ{{</world>}}

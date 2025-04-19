@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schriftcharakter nach DIN 1451
 - Robustheit
+- Schriftcharakter nach DIN 1451
 - Größe 12mm
 - Flexible Gestaltung
 

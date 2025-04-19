@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zähhart, besonders geeignet für den harten Schraubfall z. B. in Blech oder Metall
 - Verhindert vorzeitigen Bruch der Abtriebsspitze
+- Zähhart, besonders geeignet für den harten Schraubfall z. B. in Blech oder Metall
 - 1/4" Sechskant-Antrieb
 - Geeignet für Kreuzschlitzschrauben Pozidriv
 

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 10 Std. Ladezeit
 - Schneidsatz hygienisch abwaschbar
-- LED Akku-Ladeanzeige
-- Schnittbreite: 40 mm
 - Komfortables Teleskopkammsystem mit 2 Kammaufsätzen und Schnittlängen von 1,5 mm (ohne Kammaufsatz) bis 41 mm
-- Hochwertiger Schneidsatz aus Edelstahl
 - Ca. 45 Min. Betriebszeit
+- 10 Std. Ladezeit
+- Schnittbreite: 40 mm
+- Hochwertiger Schneidsatz aus Edelstahl
+- LED Akku-Ladeanzeige
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00N4Z45CW{{</world>}}

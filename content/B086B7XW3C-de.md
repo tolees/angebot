@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPITZENLEISTUNG: Die Leistung des Bosch Winkelschleifers entspricht der eines kabelgebundenen WinkelWinkelschleifers mit 1. 000 Watt
-- LIEFERUMFANG: GWS 18V-10, Schutzhaube, Zusatzhandgriff, Reinigungstuch, Karton
-- AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku-Partnerschaft AMPShare kompatibel
-- EINFACHE NUTZUNG: Leichte Bedienung durch verbessertes Schalterdesign
 - HOHE SICHERHEIT: Idealer Arbeitsschutz dank KickBack and Drop Control, intelligentem Bremssystem, Softstart und Wiederanlaufschutz
+- SPITZENLEISTUNG: Die Leistung des Bosch Winkelschleifers entspricht der eines kabelgebundenen WinkelWinkelschleifers mit 1. 000 Watt
+- AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku-Partnerschaft AMPShare kompatibel
+- LIEFERUMFANG: GWS 18V-10, Schutzhaube, Zusatzhandgriff, Reinigungstuch, Karton
+- EINFACHE NUTZUNG: Leichte Bedienung durch verbessertes Schalterdesign
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B086B7XW3C{{</world>}}

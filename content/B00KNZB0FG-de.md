@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die bruchfeste Ceramic-Scheibe bietet einen optimalen Schutz vor UV-Strahlung
-- Verspiegelte Scheiben reflektieren zuverlässig schädliche Infrarot-Strahlen
 - Klare, verzerrungsfreie Sicht durch dezentrierte Scheiben
+- Verspiegelte Scheiben reflektieren zuverlässig schädliche Infrarot-Strahlen
 - Zeitloser Aviator-Look
 - Hochwertiges Metallgestell
+- Die bruchfeste Ceramic-Scheibe bietet einen optimalen Schutz vor UV-Strahlung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KNZB0FG{{</world>}}

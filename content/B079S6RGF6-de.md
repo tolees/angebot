@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Clinique
 - Einfacheres Auftragen und weniger Abfall
+- Clinique
 - Packung die Größe: 2.0 L x 11.2 H x 2.0 W (cm)
 - Tragbar und Multifunktion
 

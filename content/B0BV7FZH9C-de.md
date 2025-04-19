@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält 4 LEGO Star Wars Minifiguren – General Hera Syndulla und Lt. Beyta, jeweils mit einer Blasterpistole, Jacen Syndulla und Erster Offizier Hawkins sowie den LEGO Star Wars Droiden Chopper (C1–10P)
+- Mit 1.394 Teilen ist dieses spannende LEGO Set ein tolles Star Wars-Geschenk oder eine Überraschung für Kinder, Jungen, Mädchen und alle Star Wars: Ahsoka-Fans ab 10 Jahren
 - Das Ghost-Raumschiff-Modell verfügt über 2 hebelaktivierte federunterstützte Shooter, ein Cockpit für zwei LEGO Star Wars Minifiguren mit abnehmbarer Frontpartie, 2 aufklappbare Luken und einen abnehmbaren Turm mit Platz für eine Minifigur
 - Exklusiv bei Amazon und ausgewählten Händlern erhältlich.
-- Kinder und Fans können epische Star Wars: Ahsoka-Geschichten mit dem LEGO Star Wars Ghost & Phantom II Set nachspielen, das 2 baubare Raumschiff-Spielzeuge und 5 LEGO Star Wars Charaktere enthält
 - In diesem LEGO Star Wars Bau-Spielzeug ist außerdem ein Phantom II Shuttle mit aufklappbarem Cockpit und Staufach enthalten, Kinder können die beiden Modelle verbinden, um ein größeres Raumschiff zu bauen
-- Mit 1.394 Teilen ist dieses spannende LEGO Set ein tolles Star Wars-Geschenk oder eine Überraschung für Kinder, Jungen, Mädchen und alle Star Wars: Ahsoka-Fans ab 10 Jahren
+- Enthält 4 LEGO Star Wars Minifiguren – General Hera Syndulla und Lt. Beyta, jeweils mit einer Blasterpistole, Jacen Syndulla und Erster Offizier Hawkins sowie den LEGO Star Wars Droiden Chopper (C1–10P)
+- Kinder und Fans können epische Star Wars: Ahsoka-Geschichten mit dem LEGO Star Wars Ghost & Phantom II Set nachspielen, das 2 baubare Raumschiff-Spielzeuge und 5 LEGO Star Wars Charaktere enthält
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BV7FZH9C{{</world>}}

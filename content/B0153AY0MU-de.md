@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Keine zusätzliche Kraftanstrengung durch kompakte und leichte Bauweise nötig
-- Separat zuschaltbare Schlagfunktion zum Bohren in Mauerwerk
-- Perfekte Kontrolle über das Gerät: Kickback Control erkennt plötzliches Blockieren und stoppt den Motor
-- Lieferumfang: PSB 18 LI-2 Ergonomic, 2 Akkus, Ladegerät, Schrauberbit, Koffer
 - Optimale Kraftübertragung durch 20 Drehmomentstufen, Bohrstufe und 2 Gängen mit innovativem Vor-/Rückwärts-Schalter zum Bohren/Schrauben
 - Die Akku-Schlagbohrmaschine PSB 18 LI-2 Ergonomic - für ergonomisches sowie kraftvolles Schrauben und Bohren
+- Perfekte Kontrolle über das Gerät: Kickback Control erkennt plötzliches Blockieren und stoppt den Motor
+- Keine zusätzliche Kraftanstrengung durch kompakte und leichte Bauweise nötig
+- Separat zuschaltbare Schlagfunktion zum Bohren in Mauerwerk
+- Lieferumfang: PSB 18 LI-2 Ergonomic, 2 Akkus, Ladegerät, Schrauberbit, Koffer
 - Bürstenloser EC-Motor ermöglicht kompaktes und ergonomisches Design mit mehr Drehmoment und Leistung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

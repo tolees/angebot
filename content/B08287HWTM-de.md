@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatztyp: Flach, Absatzhöhe: 3.5 cm, Schafttyp: Kurzschaft
 - Weite: Normal (F), Verschluss: Ohne Verschluss
+- Absatztyp: Flach, Absatzhöhe: 3.5 cm, Schafttyp: Kurzschaft
 - Produkttyp: Sandalen,Sandalen,Keilsandalen,Damenschuhe,Sommerschuhe,Keilsandaletten,Keilabsatz,Wedge-Heel,bequem,flach
 - Obermaterial: Kunstleder, Innenmaterial: Synthetik, Laufsohle: PU-Sohle
 

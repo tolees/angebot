@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vans Sidestripe Branding
-- Original Waffel-Laufsohle
 - Schnürverschluss
+- Original Waffel-Laufsohle
 - Vulkanisierte Konstruktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Für 1-5 Krimi-Fans ab 12 Jahren
-- Ideal als Partyspiel oder Eventspiel für einen spannenden Spieleabend
-- Hinweise sammeln, Verdächtige befragen oder den Tatort untersuchen – gemeinsam ermitteln und den Fall lösen
-- Die Suspects-Fälle erlebt ihr als einmaliges Krimispiel-Erlebnis. Das Spielmaterial bleibt jedoch intakt, sodass ihr die Spiele weitergeben könnt
-- Ein Detektivspiel mit einfachen Regeln
 - Dank kompaktem Format ein perfektes Geburtstagsgeschenk oder als Reise- und Mitbringspiel
+- Hinweise sammeln, Verdächtige befragen oder den Tatort untersuchen – gemeinsam ermitteln und den Fall lösen
+- Ideal als Partyspiel oder Eventspiel für einen spannenden Spieleabend
+- Ein Detektivspiel mit einfachen Regeln
+- Die Suspects-Fälle erlebt ihr als einmaliges Krimispiel-Erlebnis. Das Spielmaterial bleibt jedoch intakt, sodass ihr die Spiele weitergeben könnt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLXY6YCQ{{</world>}}

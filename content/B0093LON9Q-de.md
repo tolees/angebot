@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Video mit einer 1280x720 HD-Auflösung bei 30 Bildern pro Sekunde
 - Schnelle Standbildaufnahmen mit Fototaste
+- Video mit einer 1280x720 HD-Auflösung bei 30 Bildern pro Sekunde
 - Automatischer Weißabgleich und Gegenlichtkompensation für bestmögliche Bildqualität
 - Integrierte Mikrofone für die klare Aufnahme Ihrer Stimme
 - Universalständer für Aufstellung auf Ihrem Schreibtisch oder einem Monitor

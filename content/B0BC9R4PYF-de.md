@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intel Core i5 (Intel Evo Plattform) der 12. Generation mit Thunderbolt 4-Konnektivität und Akkulaufzeit für den ganzen Tag
+- Spiele Minecraft, Age of Empires IV, Microsoft Flight Simulator und Hunderte weitere PC-Spiele, die mit Game Pass Ultimate (1 Monat) mit diesem Gerät enthalten sind. Der kostenlose Probemonat lässt sich bei der ersten Konfiguration des Gerätes aktivieren
+- Studiomikrofone und erweiterte Kamerafunktionen, unterstützt durch Windows 11
 - Schlank und ultraleicht mit einer außergewöhnlich komfortablen Tastatur
 - 13,5-Zoll-PixelSense-Touchscreen für ultramobile Produktivität
-- Studiomikrofone und erweiterte Kamerafunktionen, unterstützt durch Windows 11
-- Spiele Minecraft, Age of Empires IV, Microsoft Flight Simulator und Hunderte weitere PC-Spiele, die mit Game Pass Ultimate (1 Monat) mit diesem Gerät enthalten sind. Der kostenlose Probemonat lässt sich bei der ersten Konfiguration des Gerätes aktivieren
+- Intel Core i5 (Intel Evo Plattform) der 12. Generation mit Thunderbolt 4-Konnektivität und Akkulaufzeit für den ganzen Tag
 - Kinoreife Unterhaltung mit Dolby Vision und Dolby Atmos
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

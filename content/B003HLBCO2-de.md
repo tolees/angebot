@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Green Tea Refreshing Body Lotion
-- Vitalisierender Duft
 - Prickelnd-erfrischender Zitrusduft
+- Vitalisierender Duft
 - Spendet Feuchtigkeit
+- Green Tea Refreshing Body Lotion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003HLBCO2{{</world>}}

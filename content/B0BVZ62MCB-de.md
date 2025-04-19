@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 80 cm (31,5 Zoll) IPS-Display mit UHD-Auflösung (3.840 x 2.160 px) und 35 prozent größerem Farbraum als 100 prozent sRGB, Bildformat: 16:9
-- Universal einsetzbarer Monitor, Gaming Features: AMD FreeSync, Black Stabilizer und Dynamic Action Sync (DAS) und weitere Funktionen bieten entscheidene Vorteile im Spiel
-- Schnelle Reaktionszeit von 1 ms und Übertaktbarkeit bis zu 160 Hz
-- Anschlüsse: 2x HDMI, DisplayPort, USB 3.0
 - 1000 cd/m², VESA Display HDR 1000
+- 80 cm (31,5 Zoll) IPS-Display mit UHD-Auflösung (3.840 x 2.160 px) und 35 prozent größerem Farbraum als 100 prozent sRGB, Bildformat: 16:9
+- Schnelle Reaktionszeit von 1 ms und Übertaktbarkeit bis zu 160 Hz
+- Universal einsetzbarer Monitor, Gaming Features: AMD FreeSync, Black Stabilizer und Dynamic Action Sync (DAS) und weitere Funktionen bieten entscheidene Vorteile im Spiel
+- Anschlüsse: 2x HDMI, DisplayPort, USB 3.0
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BVZ62MCB{{</world>}}

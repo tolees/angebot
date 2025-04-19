@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Überzeugendes Preis-Leistungsverhältnis bei bewährter edding Qualität - 100% kompatibel bei mindestens gleicher Seitenreichweite
 - U.a. kompatibel mit: HP Deskjet 1110, Deskjet 2130, Deskjet 3630, Envy 4520, Envy 4522, Envy 4524, Officejet 3830, Officejet 4650
-- 36 Monate edding Garantie und Fortbestand der Herstellergarantie Ihres Druckers
 - Ersetzt HP 302XL (F6U68AE), Wiederaufbereitete Druckerpatronen schonen die Umwelt und sparen CO² ein
+- 36 Monate edding Garantie und Fortbestand der Herstellergarantie Ihres Druckers
 - Inhalt: Einzelpatrone (Schwarz), 21 ml, Reichweite: 590 Seiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

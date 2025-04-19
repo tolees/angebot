@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Für einfaches Vorbohren vor dem Schrauben
 - Lieferumfang: Bohraufsatz, 3tlg. Bohrer-Set (2mm, 3mm, 4mm), Bedienungsanleitung, Karton (3165140839655)
 - Verwandelt den IXO Akkuschrauber in eine Mini-Bohrmaschine
 - Kompatibel mit allen BOSCH IXO Akkuschraubern ab Generation 3
-- Für einfaches Vorbohren vor dem Schrauben
 - Bohrt in Holz, Plastik und Gips kleine Löcher bis zu 5 mm Durchmesser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

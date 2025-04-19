@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein Blitz- & Überspannungsschutz und eine redundante Stromversorgung mit Umpolungsschutz zeichnen den Switch aus, welcher nur 2,76 W verbraucht und mit 12 ~ 56 V DC / 18 ~ 36 V AC betrieben wird.
 - Der Switch ist in einem Temeratur-Bereich zwischen -40 bis 85 °C einsetzbar.
+- Ein Blitz- & Überspannungsschutz und eine redundante Stromversorgung mit Umpolungsschutz zeichnen den Switch aus, welcher nur 2,76 W verbraucht und mit 12 ~ 56 V DC / 18 ~ 36 V AC betrieben wird.
 - Mit dem Switch lassen sich Repeater, Access-Points, PCs oder Fertigungsmaschienen per Patch-Kabel in das Netzwerk einbinden. Der Switch kann auf eine DIN-Schiene oder an einer Wand montiert werden.
-- Es werden bis zu 8000 MAC Adresse unterstützt und automatisch zwischen Half- und Fullduplex unterschieden.
 - Um den Switch statt in einem Schaltschrank in einem Wand-Gehäuse zu installieren, kann ein 19-Zoll Hutschienen-Träger installiert werden. So kann z.B. sauber mit einem Patchpanel verkabelt werden.
+- Es werden bis zu 8000 MAC Adresse unterstützt und automatisch zwischen Half- und Fullduplex unterschieden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MYB58W7{{</world>}}

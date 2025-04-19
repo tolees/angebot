@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Besonders kompakt und mit geringem Stromverbrauch im Betriebsmodus erweitert das drahtlose Netzwerk zuverlässig auf Geschwindigkeiten von bis zu 600 Mbit/s
+- Ermöglicht stabile und schnelle WLAN-Verbindungen mit Geschwindigkeiten von bis zu 600 Mbit/s (4 x 4 WiFi N) in 2,4 GHz, Mesh, WPS für einfache Konfiguration, maximale drahtlose Sicherheit mit WPA2
 - Kompatibel mit jedem WLAN-Router mit 802.11 n/g/b und passt perfekt zur FRITZ!Box
-- Die LED zeigt den Status und die Qualität des WLAN-Signals an, hilft die optimale Position für den Repeater zu finden, einfach zu installieren mit nur einem Tastendruck
 - Falls keine Verbindung besteht, stecken Sie den FRITZ!Repeater bitte in eine Steckdose. Verbinden Sie einen Computer per LAN-Kabel mit dem FRITZ!Repeater, oder stellen Sie eine WLAN-Verbindung zum FRITZ!Repeater her Computer, Tablet oder Smartphone. Der voreingestellte Netzwerkschlüssel des Repeater ist auf der Unterseite des Geräts aufgedruckt
 - Lieferumfang: FRITZ!Repeater 600, Schnellinstallationsanleitung in Spanisch
-- Ermöglicht stabile und schnelle WLAN-Verbindungen mit Geschwindigkeiten von bis zu 600 Mbit/s (4 x 4 WiFi N) in 2,4 GHz, Mesh, WPS für einfache Konfiguration, maximale drahtlose Sicherheit mit WPA2
+- Besonders kompakt und mit geringem Stromverbrauch im Betriebsmodus erweitert das drahtlose Netzwerk zuverlässig auf Geschwindigkeiten von bis zu 600 Mbit/s
+- Die LED zeigt den Status und die Qualität des WLAN-Signals an, hilft die optimale Position für den Repeater zu finden, einfach zu installieren mit nur einem Tastendruck
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZQLZ7FK{{</world>}}

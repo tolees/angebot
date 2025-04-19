@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne Duftstoffe. Nicht komedogen.
 - Zum Stabilisieren bei Couperose
-- Verringert sichtbar Rötungen und beugt deren Neuentstehung vor
 - Vorbeugend bei Hitzestau und Flushneigung
+- Ohne Duftstoffe. Nicht komedogen.
+- Verringert sichtbar Rötungen und beugt deren Neuentstehung vor
 - Therapiebegleitend bei Rosacea geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

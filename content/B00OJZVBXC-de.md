@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schaltleistung
 - Farbe: silber
 - Faserverbindungen
+- Schaltleistung
 - PoE + Flexibilität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

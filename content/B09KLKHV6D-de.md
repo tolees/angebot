@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Neaheinstellgrenze 0,35m
 - Großartiges Videoobjektiv
-- Robust, da gegen Staub und Spritzwasser geschützt
 - Kompakt und leicht für den großen Brennweitenbereich
+- Robust, da gegen Staub und Spritzwasser geschützt
+- Neaheinstellgrenze 0,35m
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09KLKHV6D{{</world>}}

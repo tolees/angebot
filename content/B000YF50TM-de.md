@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassisches Kurzarm-Shirt mit Rundhalsausschnitt aus hochwertiger Baumwolle-Qualität
 - 60° Wäsche, trocknergeeignet
-- Setzt sich zusammen aus 100% Baumwolle
 - Größe: 50
+- Setzt sich zusammen aus 100% Baumwolle
+- Klassisches Kurzarm-Shirt mit Rundhalsausschnitt aus hochwertiger Baumwolle-Qualität
 - Das Oberteil überzeugt mit perfekter Passform, hohem Tragekomfort und hautfreundlicher, supergekämmter Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

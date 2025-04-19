@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In diesem kooperativen Living-Card-Game in der Welt von Arkham Horror löst ihr gemeinsam als Ermittler ungeklärte Mysterien auf
 - Erweckt die Welt von Arkham Horror mit dem strategischen Kartenspiel zum Leben. Ein neues Szenario und neue Spielerkarten erwarten euch
 - Zum Spielen dieser Erweiterung wird das Grundspiel "Arkham Horror: Das Kartenspiel" benötigt
 - 1-4 Spieler | Ab 14+ Jahren | Bis zu 45+ Minuten Spielzeit je Partie | Spiel in Deutsch
+- In diesem kooperativen Living-Card-Game in der Welt von Arkham Horror löst ihr gemeinsam als Ermittler ungeklärte Mysterien auf
 - Wagt euch allein oder mit bis zu 3 Freunden an die neue Erweiterung des Arkham Horror LCG. Die Ermittler-Erweiterung enthält fünf weitere Ermittler- und Spielerkarten
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hartschalenetui zum Reisen für alle Grooming Essentials
-- Integrierter Kammaufsatz für präzise, konstante Ergebnisse ohne Hautirritationen
-- Die blaue LED-Ladeanzeige blinkt, wenn das Netzteil korrekt mit dem Gerät verbunden und an den Netzstrom angeschlossen ist.
-- Trimmt, formt und stutzt alle Bartlängen
 - 23 Schnittlängen von 0,5-12mm
+- Hartschalenetui zum Reisen für alle Grooming Essentials
+- Die blaue LED-Ladeanzeige blinkt, wenn das Netzteil korrekt mit dem Gerät verbunden und an den Netzstrom angeschlossen ist.
+- Integrierter Kammaufsatz für präzise, konstante Ergebnisse ohne Hautirritationen
+- Trimmt, formt und stutzt alle Bartlängen
 - Leistungsstarker Lithium-Ionen Akku für bis zu 120 kabellose Spitzenperformance
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

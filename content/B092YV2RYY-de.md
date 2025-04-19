@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Love Story (Taylor’s Version)
-- White Horse (Taylor’s Version)
-- Fifteen (Taylor’s Version)
-- Hey Stephen (Taylor’s Version)
 - Fearless (Taylor’s Version)
+- Hey Stephen (Taylor’s Version)
+- Fifteen (Taylor’s Version)
+- White Horse (Taylor’s Version)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B092YV2RYY{{</world>}}

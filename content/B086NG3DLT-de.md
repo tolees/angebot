@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verbesserte magnetische Stabilität – passt sich praktisch an jeden Winkel an
 - Mit vollständigem Tastensatz, Hintergrundbeleuchtung und großem Trackpad
-- Rastet leicht ein – bei Verwendung mit Surface Go 2 oder Surface Go und integriertem Kickstand erhalten Sie überall einen kompletten Laptop
+- Verbesserte magnetische Stabilität – passt sich praktisch an jeden Winkel an
 - Im geschlossenen Zustand wird der Bildschirm geschützt und der Akku geschont oder nach hinten gefaltet erhalten Sie ein Tablet für unterwegs
+- Rastet leicht ein – bei Verwendung mit Surface Go 2 oder Surface Go und integriertem Kickstand erhalten Sie überall einen kompletten Laptop
 - Schlank und kompakt und funktioniert dennoch wie eine herkömmliche Tastatur in normaler Größe
 
 [🛒 Hier!!]({{< param buyurl >}})

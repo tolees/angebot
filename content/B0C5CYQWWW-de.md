@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- leicht, atmungsaktiv
-- sehr gute Dämpfung
 - Aktivitätsindex: A (Hiking)
+- leicht, atmungsaktiv
 - moderner Wanderschuh
+- sehr gute Dämpfung
 - griffige Sohle
 
 [🛒 Hier!!]({{< param buyurl >}})

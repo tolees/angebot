@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kompakt und ultraleicht - Mit seiner geringen Größe, dem praktischen Formfaktor und einem ultraleichten Gewicht von nur 30 g ist das DJI Mic das ideale Funkmikrofon für Videografen.
+- 250 m Reichweite - Mini-Funkmikrofon mit einer Reichweite von 250 m in offenen, ungehinderten Umgebungen. Ideal für Livestreaming, Vlogs und Außenaufnahmen und mehr.
 - Magnetische Befestigung - Diskret und für koordinierte Aufnahmen geeignet, befestige das Funkmikrofon einfach an Kleidung oder anderen Gegenständen für eine flexible und bequeme Verwendung.
 - OLED-Touchscreen - Der Empfänger des Mikrofons hat einen integrierten 0,95″ OLED-Touchscreen für die intuitive Steuerung sowie den Zugriff auf Informationen zu Helligkeit, Lautstärke und Akkustand.
-- Kompakt und ultraleicht - Mit seiner geringen Größe, dem praktischen Formfaktor und einem ultraleichten Gewicht von nur 30 g ist das DJI Mic das ideale Funkmikrofon für Videografen.
 - Verglichen mit DJI Mic (2 Sender + 1 Empfänger + Ladeschale) enthält DJI Mic (1 Sender + 1 Empfänger) nur einen Sender und keine Ladeschale. Ideal für Solo-Kameraleute, Vlogs und Livestreaming.
-- 250 m Reichweite - Mini-Funkmikrofon mit einer Reichweite von 250 m in offenen, ungehinderten Umgebungen. Ideal für Livestreaming, Vlogs und Außenaufnahmen und mehr.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BNG1Y2Y1{{</world>}}

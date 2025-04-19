@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch perfekte Spitzensymmetrie und Balance für verschiedenste Anwendungen in der Elektronikindustrie geeignet
-- Der hochwertige Edelstahl bietet eine hohe Zähigkeit und eine sehr gute Korrosionsbeständigkeit gegenüber einer Vielzahl von atmosphärischen Umgebungen und vielen korrosiven Materialien
-- Für etwa Lötarbeiten an Transistoren, Golddrahtdioden etc.
 - Halten selbsttätig: Durch ihre Federkraft eignen sich diese Festhaltepinzetten unter anderem als Helfer beim Einlöten kleiner und kleinster Bauteile
+- Der hochwertige Edelstahl bietet eine hohe Zähigkeit und eine sehr gute Korrosionsbeständigkeit gegenüber einer Vielzahl von atmosphärischen Umgebungen und vielen korrosiven Materialien
 - Für Anwendungen, die eine hochpräzise Selbstschließfunktion erfordern, etwa in der Mikroskopie oder bei feinsten Montage- oder Lötarbeiten
+- Für etwa Lötarbeiten an Transistoren, Golddrahtdioden etc.
+- Durch perfekte Spitzensymmetrie und Balance für verschiedenste Anwendungen in der Elektronikindustrie geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005EXOVUI{{</world>}}

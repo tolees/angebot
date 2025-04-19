@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umrechnungsfaktoren: 30A = 100mV/a ; 300A = 10mV/A ; 3000A = 1 mV/A
-- Sicherheit: EN-61010-1 ; CAT III 1000V / CAT IV 600V
-- Frequenzbereich & Genauigkeit: True RMS 50 - 400 Hz ; +/- 3% + 3mV
-- Batterien: Betrieb über 2 x 1,5V AAA Batterien (beiliegend) mit Power-LED und Zustandsanzeige
-- Einfache Anwendung: 4mm Stecker an ein Multimeter mit mV AC Funktion anschließen und der A AC Messwert wird als mV AC Messwert angezeigt
 - Praktische Flex-Stromzange: Geeignet für Leitungsdurchmesser von bis max.160 mm
+- Sicherheit: EN-61010-1 ; CAT III 1000V / CAT IV 600V
+- Batterien: Betrieb über 2 x 1,5V AAA Batterien (beiliegend) mit Power-LED und Zustandsanzeige
+- Umrechnungsfaktoren: 30A = 100mV/a ; 300A = 10mV/A ; 3000A = 1 mV/A
+- Einfache Anwendung: 4mm Stecker an ein Multimeter mit mV AC Funktion anschließen und der A AC Messwert wird als mV AC Messwert angezeigt
+- Frequenzbereich & Genauigkeit: True RMS 50 - 400 Hz ; +/- 3% + 3mV
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BYP8TWXP{{</world>}}

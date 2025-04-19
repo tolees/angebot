@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Yasuichiro Yamamoto, Kenji Kodama, Kojin Ochi, Masato Sato
 - Deutsch
 - DVD
-- Yasuichiro Yamamoto, Kenji Kodama, Kojin Ochi, Masato Sato
 - 650
 
 [🛒 Hier!!]({{< param buyurl >}})

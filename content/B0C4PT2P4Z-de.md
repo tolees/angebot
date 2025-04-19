@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Cloudfoam Zwischensohle
 - Gummiaußensohle
+- Cloudfoam Zwischensohle
 - Eine Nummer größer kaufen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- JAKO: WE ARE TEAM - Von der Champions League bis hin zur Kreisklasse, wir haben, was Teams erfolgreich macht! Von Teamwear mit individuellem Service bis zu mittlerweile einer ganzen Breite an Sportbekleidung, Firmen- und Freizeitkleidung & Equipment
 - MIT KEEP DRY FUNKTION: Die Keep Dry Funktion unserer Herren Sporthose transportiert die Feuchtigkeit unmittelbar an die Oberfläche des Stoffes. So trocknet die Sport Hose schnell aus & schützt vor Auskühlung
+- JAKO: WE ARE TEAM - Von der Champions League bis hin zur Kreisklasse, wir haben, was Teams erfolgreich macht! Von Teamwear mit individuellem Service bis zu mittlerweile einer ganzen Breite an Sportbekleidung, Firmen- und Freizeitkleidung & Equipment
 - FLEXIBLES DESIGN: Ausgestattet mit einem elastischen Bund & verstellbaren Kordeln, garantiert diese Jogging Hose eine perfekte Passform und uneingeschränkte Bewegungsfreiheit bei jeder Aktivität
 - MENS ACTIVEWEAR JOGGINGHOSE: Unsere Herren Jogginghose bietet dank hochwertigem, strapazierfähigem Polyester-Terry optimalen Tragekomfort. Ideal für Training und Freizeit
 - MIT HOCHWERTIGEN REIßVERSCHLÜSSEN: Die Männer Jogginghose besitzt praktische Seitentaschen mit sehr hochwertigen Reißverschlussen, sowie einen Reißverschluss am Beinabschluss

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bietet eine intensive und anhaltende Farbe vom ersten Strich an
 - Seine weiche Spitze gleitet sanft auf den Augenlidern und ermöglicht eine besonders einfache Anwendung
-- Bis zu 24 Stunden lang anhaltender, idealer Halt
 - Erhältlich in 3 sinnlichen dunklen Farbtönen, die Ihren Look besonders verführerisch machen
+- Bis zu 24 Stunden lang anhaltender, idealer Halt
 - Präziser flüssiger Bourjois Eyeliner mit Filzstiftspitze
+- Bietet eine intensive und anhaltende Farbe vom ersten Strich an
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01G71F0AU{{</world>}}

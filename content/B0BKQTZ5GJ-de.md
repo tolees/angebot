@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einer coolen Bühne inklusive vielen Zubehör
 - PLAYMOBIL ist ein eingetragenes Warenzeichen von geobra Brandstätter Stiftung & Co. KG.
+- Mit einer coolen Bühne inklusive vielen Zubehör
 - Täglich bespielbar: Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 - Spielfiguren-Set: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Spielspaß mit PLAYMOBIL: Tauche ein in die bunte Welten und erlebe Abenteuer im Kinderzimmer - für unendlichen Spielspaß!

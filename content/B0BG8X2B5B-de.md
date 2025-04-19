@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehr lange Lebensdauer - bis zu 25000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
-- 3.0 grams
-- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
 - Sehr geringer Energieverbrauch, neueste LED-Technologie
-- Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von konventionellen Lampen (Einsatz im Außenbereich nur in geeigneten Leuchten)
-- Welche komponenten sind im lieferumfang des produkts enthaltenen: 5 x LED-Speziallampen
-- Beste Qualität der Marke OSRAM
-- F
+- Sehr lange Lebensdauer - bis zu 25000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
+- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
 - Anzahl der einheiten: 1.0
 - Stromquellentyp: AC
+- Welche komponenten sind im lieferumfang des produkts enthaltenen: 5 x LED-Speziallampen
+- 3.0 grams
+- F
+- Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von konventionellen Lampen (Einsatz im Außenbereich nur in geeigneten Leuchten)
+- Beste Qualität der Marke OSRAM
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BG8X2B5B{{</world>}}

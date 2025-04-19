@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- A sparkling, floral fragrance
 - Feminine scent that makes it the ideal fragrance for those important occasions
+- A sparkling, floral fragrance
 - Opening with top notes of living rice flower, green accord and bergamot
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

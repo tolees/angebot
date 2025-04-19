@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einsatz: Universell im Innen- und Außenbereich ohne direkte Bewitterung. SPAX-exklusive WIROX-Oberfläche: 20fach höherer Korrosionsschutz gegenüber herkömmlicher blanker Verzinkung als nach Norm gefordert
-- Made in Germany - Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 - Als MULTI-Kopf ausgeprägter Senkkopf für bündiges Versenken und komfortables Verarbeiten, fräst im Holz, bremst auf Metall. Optimale Kraftübertragung und sauberer Passsitz auch beim Verarbeiten über Kopf mit SPAX Bit T-STAR plus T10 mit Führungszapfen
 - Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze. Einfacheres Durchtrennen der Holzfaser durch SPAX-typisches Wellenprofil
+- Made in Germany - Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B009OMUUAA{{</world>}}

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Echte vertikale Aufnahmen - Nimm bequem Videos für soziale Medien auf, montiere einfach die Schnellwechselplatte am vertikalen Arm, und schon kannst du loslegen.
-- 795 g leicht und handlich - Der RS 3 Mini ist ein ultrakompakter Kamerastabilisator. Praktisch für unterwegs. Mit nur 795 g ist der RS Mini 3 für längere Aufnahmen leicht zu halten.
 - Bluetooth-Aufnahmetaste - Deine Kamera verbindet sich nach der ersten Kopplung automatisch neu. Steuer die Foto- und Videoaufnahme ganz einfach über den Gimbal.
+- Große Kompatibilität - Mit starken Motoren besitzt der RS 3 Mini Kamerastabilisator eine Tragfähigkeit von bis zu 2 kg und bietet eine Vielzahl von Kamera- und Objektivkombinationen.
+- 795 g leicht und handlich - Der RS 3 Mini ist ein ultrakompakter Kamerastabilisator. Praktisch für unterwegs. Mit nur 795 g ist der RS Mini 3 für längere Aufnahmen leicht zu halten.
+- Echte vertikale Aufnahmen - Nimm bequem Videos für soziale Medien auf, montiere einfach die Schnellwechselplatte am vertikalen Arm, und schon kannst du loslegen.
 - 1,4" Vollfarb-Touchscreen - Der kompakte Kamera-Gimbal verfügt über einen 1,4" Vollfarb-Touchscreen mit neuer, intuitiver Benutzeroberfläche, um schnell auf häufig verwendete Einstellungen zuzugreifen.
 - Erreiche professionelle Bildstabilisierung bei Aufnahmen aus niedrigem Winkel oder beim Filmen im Taschenlampen-Modus.
-- Große Kompatibilität - Mit starken Motoren besitzt der RS 3 Mini Kamerastabilisator eine Tragfähigkeit von bis zu 2 kg und bietet eine Vielzahl von Kamera- und Objektivkombinationen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BLD1KBHQ{{</world>}}

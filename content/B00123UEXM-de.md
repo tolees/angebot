@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TPU-Sohle
-- Nubukleder
 - Elastische Riemen für einfache Passform
+- Nubukleder
+- TPU-Sohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00123UEXM{{</world>}}

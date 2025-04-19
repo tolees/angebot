@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Temperaturanpassung
-- Plattendurchmesser 11 cm
 - Régime: ac 220-240v - 50/60hz
-- Zündlicht
+- Plattendurchmesser 11 cm
 - Puissance: 500 W
+- Zündlicht
 - Gusseisenplatte
+- Temperaturanpassung
 - Nicht -slip -stützfüsse
 
 [🛒 Hier!!]({{< param buyurl >}})

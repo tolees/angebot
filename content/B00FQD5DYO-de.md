@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inhalt: 1 Solarabdeckplane
+- Für runde Aufstellpools mit Ø 549 cm
 - Größe: Ø 527 cm
 - Wirkt dem Wässerverlust entgegen
-- Für runde Aufstellpools mit Ø 549 cm
 - Schützt vor Verschmutzungen
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- CUSHIONING
 - EXTRA DURABLE
 - GENTLE ON SKIN
+- CUSHIONING
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NQNLG8P{{</world>}}

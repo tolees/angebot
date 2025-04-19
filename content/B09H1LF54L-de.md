@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- BOBA FETT (PROTOTYPE ARMOR): Bevor er die mandalorianische Rüstung anlegte, sollte dieser Kopfgeldjäger ursprünglich zu einem „Super Trooper“ in einer komplett weißen Rüstung werden. Diese Figur spiegelt die Ursprünge eines Charakters wider, der zur Legende geworden ist ... Boba Fett
+- ES GIBT NOCH ANDERE FIGUREN AUS EINER WEIT, WEIT ENTFERNTEN GALAXIS: Mit Figuren aus der Star Wars Black Series zu den Filmen und Serien lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit.)
 - STAR WARS: DAS IMPERIUM SCHLÄGT ZURÜCK: Mit dieser Premium Boba Fett (Prototype Armor) Figur, die durch den Film Star Wars: Das Imperium schlägt zurück inspiriert ist, können Fans und Sammler Szenen aus der Star Wars Galaxis nachspielen
 - PREMIUM BEWEGUNGSPUNKTE UND DETAILS: Star Wars Fans und Sammler können diese vollbewegliche Figur mit beweglichem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
 - AUF DEM ENTERTAINMENT BASIERENDES, VOM CHARAKTER INSPIRIERTES ZUBEHÖR: Diese Action-Figur aus der Star Wars Black Series kommt mit 3 Accessoires, die sie zu einer tollen Erweiterung jeder Star Wars Kollektion machen
-- BOBA FETT (PROTOTYPE ARMOR): Bevor er die mandalorianische Rüstung anlegte, sollte dieser Kopfgeldjäger ursprünglich zu einem „Super Trooper“ in einer komplett weißen Rüstung werden. Diese Figur spiegelt die Ursprünge eines Charakters wider, der zur Legende geworden ist ... Boba Fett
-- ES GIBT NOCH ANDERE FIGUREN AUS EINER WEIT, WEIT ENTFERNTEN GALAXIS: Mit Figuren aus der Star Wars Black Series zu den Filmen und Serien lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit.)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09H1LF54L{{</world>}}

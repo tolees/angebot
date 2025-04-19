@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trainingsmodus
 - Herkunftsland:- China
-- Gürtelclip
 - Wettkampfmodus
+- Trainingsmodus
+- Gürtelclip
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FY83XFJ{{</world>}}

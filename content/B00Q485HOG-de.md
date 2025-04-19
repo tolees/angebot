@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Elastische Armbänder aus Gummi 75%-80%
+- Maßeinheit: Millimeter
 - Gewicht/Inhalt: 100 g
 - Pack-Art: Beutel
-- Maßeinheit: Millimeter
-- Elastische Armbänder aus Gummi 75%-80%
 - Marke Agipa
 
 [🛒 Hier!!]({{< param buyurl >}})

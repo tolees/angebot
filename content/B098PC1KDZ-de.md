@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - SOFT FEELING
-- FLEXIBLE
 - LIGHTWEIGHT
+- FLEXIBLE
 - RECYCLED
 - EASY FIT
 

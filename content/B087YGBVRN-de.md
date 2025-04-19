@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rückenlehne in der Neigung 5-fach verstellbar: 0, 30, 45 und 90 Grad, zusätzlich 20 Grad Negativ
 - Stabile, mehrfach verstellbare Hantelbank mit hochwertigen Polstern für ein umfangreiches und abwechslungsreiches Hanteltraining
-- Transportrollen vorhanden und modernes, platzsparendes Design: senkrecht hochstellt/verstaut: 69 cm L x 59.5 cm B x 137.9 H
+- Rückenlehne in der Neigung 5-fach verstellbar: 0, 30, 45 und 90 Grad, zusätzlich 20 Grad Negativ
 - Sitzanpassung für maximale Übungsoptionen und Komfort. Höhenausgleich unter dem Rahmen.
+- Transportrollen vorhanden und modernes, platzsparendes Design: senkrecht hochstellt/verstaut: 69 cm L x 59.5 cm B x 137.9 H
 - Maximales Benutzergewicht 249 kg
 
 [🛒 Hier!!]({{< param buyurl >}})

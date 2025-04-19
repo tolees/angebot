@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- regeneriert trockene, rissige Lippen
-- stärkt die Feuchtigkeitsbarriere der Haut
-- Eight Hour Cream Intensive Lip Repair Balm
 - spendet intensiv Feuchtigkeit
+- stärkt die Feuchtigkeitsbarriere der Haut
+- regeneriert trockene, rissige Lippen
+- Eight Hour Cream Intensive Lip Repair Balm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00EU8A49K{{</world>}}

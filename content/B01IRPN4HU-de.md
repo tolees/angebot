@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - POP! Vinylfigur
-- Kait Armored
 - gow
+- Kait Armored
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01IRPN4HU{{</world>}}

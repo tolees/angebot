@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Klassischer Monopoly Spielablauf
 - Enthält Häuser und Hotels aus Holz
 - Die Holz Edition des Monopoly Spiels ist für die Präsentation in einer Sammlung entworfen worden
-- Klassischer Monopoly Spielablauf
-- Für 2-6 Spieler ab 8 Jahren
 - Hölzerner Spielplan aus puzzleförmigen Einzelteilen und 2 Holzwürfel
+- Für 2-6 Spieler ab 8 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07JCGD7M8{{</world>}}

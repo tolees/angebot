@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Tunnelzug
 - Modellnummer: 250218
-- 94 Prozent Baumwolle Sechs Prozent Elasthan
 - Pflegehinweis: Maschinenwäsche
 - Jogginghose
+- Verschluss: Tunnelzug
+- 94 Prozent Baumwolle Sechs Prozent Elasthan
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B007JUTMGC{{</world>}}

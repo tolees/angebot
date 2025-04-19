@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hose mit elastischem Bund und Zugschnur
 - Jacke mit Stehkragen und Reißverschluss vorne
-- Zwei Seitentaschen an der Jacke
+- Hose mit elastischem Bund und Zugschnur
 - Zwei Seitentaschen an der Hose
+- Zwei Seitentaschen an der Jacke
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083XZBQXP{{</world>}}

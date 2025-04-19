@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Designer: Vans
-- Artikel: VN0A3TLC
-- Jahreszeit: Herbst/Winter
 - Farbe: Schwarz
+- Jahreszeit: Herbst/Winter
+- Artikel: VN0A3TLC
+- Designer: Vans
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07BN1ZLKK{{</world>}}

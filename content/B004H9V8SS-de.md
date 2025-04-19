@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wimpern scheinen sich zu vermehren für einen sofortigen falschen Wimpern-Effekt
 - Mit Wimpernspülung und Vitaminkomplex
 - Farbton: Extreme Black 01
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- Wimpern scheinen sich zu vermehren für einen sofortigen falschen Wimpern-Effekt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004H9V8SS{{</world>}}

@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- im knalligen yoshi-design
 - bis zu 15 Stunden Spielzeit Pro Aufladung
+- Kabelloser bluetooth-controller für Nintendo Switch
+- aufladbarer lithium-ionen Akku (aufladbar via mitgeliefertem USB-C Kabel)
 - Offiziell von Nintendo lizenziert
 - integrierter beschleunigungssensor und gyroskop für volle Bewegungssteuerung
-- aufladbarer lithium-ionen Akku (aufladbar via mitgeliefertem USB-C Kabel)
 - unterstützt nicht nfc-sensor, hd-vibration
-- im knalligen yoshi-design
 - Ergonomisches Design - liegt perfekt in der Hand
-- Kabelloser bluetooth-controller für Nintendo Switch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B098V1YVJJ{{</world>}}

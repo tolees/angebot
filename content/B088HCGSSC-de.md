@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- hüftlang
 - schlichter Damenpulli von ONLY
-- softe Haptik
+- hüftlang
 - angenehm leichte Qualität
+- softe Haptik
 - Rundhals-Ausschnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

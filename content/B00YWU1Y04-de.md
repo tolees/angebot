@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Merinowolle ist eine jährlich erneuerbare Faser, die von Natur aus der Geruchsbildung entgegenwirkt. Sie kühlt bei Hitze und wärmt bei Kälte, lässt die Haut atmen und sorgt für dauerhaften Tragekomfort, an jedem Tag
 - Dieses robuste ärmellose Oberteil mit weichem Tragegefühl besteht aus ultraleichtem 150 g/m2 Corespun-Jersey, bei dem Merinofasern Nylon ummanteln
-- Inspiriert durch die Natur macht sich icebreaker die Funktionseigenschaften von Naturfasern zunutze, um eine Alternative zu synthetischer Kleidung zu bieten
-- Das Anatomica Tanktop ist ein schlank geschnittener und stretchiger Base Layer, der sich gleichermaßen für den Alltag wie für Abenteuer eignet
 - Corespun-Merino - die robuste Merinomischung reguliert die Körpertemperatur bei allen Wetterbedingungen
+- Merinowolle ist eine jährlich erneuerbare Faser, die von Natur aus der Geruchsbildung entgegenwirkt. Sie kühlt bei Hitze und wärmt bei Kälte, lässt die Haut atmen und sorgt für dauerhaften Tragekomfort, an jedem Tag
+- Das Anatomica Tanktop ist ein schlank geschnittener und stretchiger Base Layer, der sich gleichermaßen für den Alltag wie für Abenteuer eignet
+- Inspiriert durch die Natur macht sich icebreaker die Funktionseigenschaften von Naturfasern zunutze, um eine Alternative zu synthetischer Kleidung zu bieten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00YWU1Y04{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Packung die Größe: 49.8 L x 28.8 H x 38.0 W cm
+- Freistehend
 - Farbe: Silber
 - Packung Weight: 26.411 Lb
-- Freistehend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00B4AHAPI{{</world>}}

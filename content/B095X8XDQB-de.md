@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Originalprodukt von Mr. Wonderful
 - Kugelschreiber mit Kappe.
-- Set aus zwei Metall-Kugelschreibern mit motivierenden Botschaften.
 - Kugelschreiber mit blauer und schwarzer Tinte.
 - Einzigartig und aus hochwertigen Materialien.
+- Set aus zwei Metall-Kugelschreibern mit motivierenden Botschaften.
+- Originalprodukt von Mr. Wonderful
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B095X8XDQB{{</world>}}

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einlegesohle zum Hineinsteigen
-- Textilfutter
 - Markenlogo-Detail
+- Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKJTTH5R{{</world>}}

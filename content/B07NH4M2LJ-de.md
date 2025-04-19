@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Optischer Fingerabdruckscanner im Display für komfortables Entsperren
+- Vielseitige Aufnahmemöglichkeiten durch Triple-Kamera
 - 25 Megapixel-Frontkamera für gelungene Selfies
 - Bis zu 512 GB erweiterbarer Speicher für Fotos, Musik u.v.m. über microSD
 - Längere Laufzeit mit dem leistungsstarken 4.000 mAh1 Akku
-- Optischer Fingerabdruckscanner im Display für komfortables Entsperren
-- Vielseitige Aufnahmemöglichkeiten durch Triple-Kamera
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07NH4M2LJ{{</world>}}

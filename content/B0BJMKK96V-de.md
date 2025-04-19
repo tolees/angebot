@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- M2 Chip mit 8 Core CPU und 10 Core GPU
+- Unterstützt die Apple Pencil Schwebefunktion für präziseres Markieren und Skizzieren
+- Face ID für sicheres Authentifizieren und Apple Pay
+- Mach mehr mit Batterie für den ganzen Tag
 - Kompatibel mit Apple Pencil (2. Generation), Magic Keyboard und Smart Keyboard Folio
 - 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
-- USB C Anschluss mit Unterstützung für Thunderbolt / USB 4
-- Unterstützt die Apple Pencil Schwebefunktion für präziseres Markieren und Skizzieren
-- M2 Chip mit 8 Core CPU und 10 Core GPU
-- Mach mehr mit Batterie für den ganzen Tag
-- Brillantes 12,9" Liquid Retina XDR Display mit ProMotion, True Tone und großem P3 Farbraum
-- 12 MP Weitwinkel-Kamera, 10 MP Ultraweitwinkel-Rückkamera und LiDAR Scanner für faszinierendes AR
-- Face ID für sicheres Authentifizieren und Apple Pay
 - Superschnelles WLAN 6E und 5G Mobilfunk
+- USB C Anschluss mit Unterstützung für Thunderbolt / USB 4
+- 12 MP Weitwinkel-Kamera, 10 MP Ultraweitwinkel-Rückkamera und LiDAR Scanner für faszinierendes AR
+- Brillantes 12,9" Liquid Retina XDR Display mit ProMotion, True Tone und großem P3 Farbraum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BJMKK96V{{</world>}}

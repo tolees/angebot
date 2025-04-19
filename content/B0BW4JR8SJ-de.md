@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwei Karten: Amberstone (US) & Neubrunn (EU)
-- Neue Nutztiere: Hühner zusätzlich zu Kühen, Schweinen, Pferden und Schafen
 - Über 100 authentische Fahrzeuge und Werkzeuge von weltbekannten Herstellern
 - Weitläufige offene Welt mit saisonalen, visuellen Effekten
+- Zwei Karten: Amberstone (US) & Neubrunn (EU)
 - Die neueste Ausgabe der international gefeierten Reihe Landwirtschafts-Simulator schlägt ein neues Kapitel auf: Mehr Maschinen von echten Marken, zwei Karten, neue Nutzpflanzen und Tiere, saisonale visuelle Effekte und Produktionsketten bieten ein scheinbar endloses Open-World-Gameplay in einer familienfreundlichen Umgebung.
+- Neue Nutztiere: Hühner zusätzlich zu Kühen, Schweinen, Pferden und Schafen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BW4JR8SJ{{</world>}}

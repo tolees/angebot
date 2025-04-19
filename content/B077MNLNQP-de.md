@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gottlose Jugend (2017)
 - Godless Youth (2017) (Jugend ohne Gott) (Blu-Ray)
 - Jugend ohne Gott
+- Gottlose Jugend (2017)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077MNLNQP{{</world>}}

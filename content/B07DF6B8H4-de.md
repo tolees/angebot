@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Kabelverlauf im Bügel - Vermeiden von unangenehmen Kratzgeräuschen durch Reibung während des Gebrauchs.
 - Bequemer Sitz - Der In-Ear-Kopfhörer wird mit austauschbaren Passstücken in den Größen S/M/L geliefert, für individuellen Tragekomfort. Ideal für lange Hör-Sessions oder zum Telefonieren.
-- Größenverstellbarer Clip für festen Halt
 - Verpackungsmaße: 4,32 cm (L) x 6,86 cm (B) x 18,03 cm (H)
+- Größenverstellbarer Clip für festen Halt
 - Vielseitiges Headset für bequeme Mobiltelefonie und einfache Tastenbedienung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schieße mit Revolvern aus der Hüfte, feure mit einem Raketenwerfer oder vernichte Nahkampf-Schwergewichte aus nächster Nähe mit Takedowns
-- Die Day One Edition enthält zusätzlich zum Spiel den "Idols Anarchy Pack" DLC.
 - Entdecke den etwas anderen Wilden Westen - Tobe dich in Santo Ileso, dem größten und besten Saints-Row-Schauplatz aller Zeiten, aus
+- Die Day One Edition enthält zusätzlich zum Spiel den "Idols Anarchy Pack" DLC.
 - Originelle Blockbuster-Story voller Kriminalität, außergewöhnlicher Szenen und gewohnt krasser Wendungen mit einer ordentlichen Prise Humor
 
 [🛒 Hier!!]({{< param buyurl >}})

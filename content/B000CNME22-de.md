@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ein intensiver Duft, der langanhaltend ist.
-- Frische, sinnliche Kopfnote.
 - Duftnoten: Holzig, Orientalisch.
+- Frische, sinnliche Kopfnote.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000CNME22{{</world>}}

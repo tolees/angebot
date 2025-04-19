@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Highend-Gaming, Boxed-Version mit Wraith Stealth Kühler
 - max. Leistungsaufnahme 65 Watt (Strukturbreite 7 nm)
 - L3 Cache MB, L2-Cache MB, Unterstützt DDR4 Speicher bis 3200 MHz
-- Highend-Gaming, Boxed-Version mit Wraith Stealth Kühler
 - AMD Ryzen 5 Desktop Processor (TSMC 7nm FinFET)
 - Sockel AM4, 6 x 3,5 (Boost 4,4) GHz Taktrate, PCIe 4.0 x 16
 

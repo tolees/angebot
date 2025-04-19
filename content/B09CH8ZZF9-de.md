@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Griffart: 2-Komponenten
 - wird benötigt z.B. beim Verlegen von Kabeln, Polstern, etc.
 - Länge: 245 mm | Klingenlänge: 150 mm
 - Lieferumfang: 1 Durchstecher (gerade) | 1 Haken 45°, abgewinkelt | 1 Haken 90°, abgewinkelt | 1 Haken 180°, abgewinkelt | 1 Rundhaken | 1 Haken doppelt abgewinkelt
+- Griffart: 2-Komponenten
 - extra lange Haken & Spitzen | alle Haken mit Spitze
 
 [🛒 Hier!!]({{< param buyurl >}})

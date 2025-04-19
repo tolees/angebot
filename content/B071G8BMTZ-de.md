@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stufe 3
-- mit verschiedenen Fühlmaterialien
-- Fühlpuzzle
 - mit Waldtieren
+- mit verschiedenen Fühlmaterialien
+- Stufe 3
+- Fühlpuzzle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B071G8BMTZ{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vinyl
 - Re-recording of Dark Side of the Moon
+- Vinyl
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CC9S7B9S{{</world>}}

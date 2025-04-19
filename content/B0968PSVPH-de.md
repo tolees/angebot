@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Klassenbeste Leistung
-- Spielbereite Treiber
 - Basierend auf der Turing-Architektur
+- Spielbereite Treiber
 - Die GeForce GTX 1650-Grafikkarten bieten eine leistungsstarke Kombination aus Gaming-Innovation, Grafik der nächsten Generation und leisem, energieeffizientem Betrieb
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

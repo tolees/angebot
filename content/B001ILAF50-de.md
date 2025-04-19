@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Oberflächenvergütung: verchromt, matt
 - 3 x Verlängerungen Außen-/Innenvierkant 12,5 mm (1/2"): 50 - 125 - 250 mm
+- Oberflächenvergütung: verchromt, matt
 - mit Rändelung
 - gefertigt aus Chrom-Vanadium-Stahl
 

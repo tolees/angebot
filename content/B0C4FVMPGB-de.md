@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Selbstleuchtende OLED-Pixel für beeindruckende HDR-Wiedergabe und Kontraste – Jedes OLED-Pixel ist selbstleuchtend, sodass Sie selbst den kleinsten Funken in der größten Dunkelheit mit absoluter Präzision und Klarheit erkennen können; HDR mit einer Helligkeit von bis zu 1.000 Nit kombiniert strahlende Lichter mit tiefsten Schwarztönen für einen großen Helligkeitsbereich mit einer DCI-P3-Farbraumabdeckung von 98,5 %
-- Bis zu 240 Hz Bildwiederholrate mit einer GtG-Reaktionszeit von 0,03 ms – Erleben Sie ein neues Maß an Leistung mit hoher Bildwiederholfrequenz von 240 Hz und einer phänomenalen GtG-Reaktionszeit von 0,03 ms, die durch die LG OLED-Technologie ermöglicht werden
-- Ultraflacher 27-Zoll-QHD-Bildschirm – Das 27-Zoll-Display mit einer Auflösung von 2560 × 1440 (110 PPI) bietet ein großartiges 16:9-Seitenverhältnis in Kinoqualität und eine ultraschmale Blende
 - OLED-Panel – Die erstklassige OLED-Technologie, die von den OLED-Experten bei LG Display entwickelt wurde, ermöglicht es Ihnen, das Display mit großartiger Performance und Qualität einzurichten, damit Sie es sowohl für die Arbeit als auch für Ihre Unterhaltung optimal nutzen können
 - Motion-Blur-Canceling-Technologie – Die neueste OLED-Technologie beseitigt effektiv Bewegungsunschärfe für einen neuen Grad an Realismus bei sich schnell bewegenden Bildern und Spielen; die Kompatibilität mit NVIDIA G-SYNC und die AMD FreeSync Premium-Zertifizierung sorgen für samtweiche Bilder, weniger Screen Tearing und eine geringe Inputlatenz
+- Bis zu 240 Hz Bildwiederholrate mit einer GtG-Reaktionszeit von 0,03 ms – Erleben Sie ein neues Maß an Leistung mit hoher Bildwiederholfrequenz von 240 Hz und einer phänomenalen GtG-Reaktionszeit von 0,03 ms, die durch die LG OLED-Technologie ermöglicht werden
+- Ultraflacher 27-Zoll-QHD-Bildschirm – Das 27-Zoll-Display mit einer Auflösung von 2560 × 1440 (110 PPI) bietet ein großartiges 16:9-Seitenverhältnis in Kinoqualität und eine ultraschmale Blende
 - Erhöhen Sie die Helligkeit um 33% und bis zu 200nit im Vollbildmodus mit dem v103 Firmware-Treiber-Update, das Sie auf der Download-Registerkarte der Corsair-Webseite finden; die Updates sind .zip-Dateien mit Installationsanweisungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

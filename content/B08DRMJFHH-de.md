@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal zum Sichern von Ladung und anderen Gegenständen beim Transport
-- Zugfestigkeit (Schlaufe): 800 daN
-- Gurtband aus strapazierfähigem Polyestergewebe mit verstärkten Nähten
-- umfasst Etikett mit allen rechtlichen Angaben zu Gurtband und Ratschenschloss; extrem widerstandsfähig, UV-beständig und wetterfest
-- Metall-Ratschenschloss am Gurtende für verstellbaren Halt und anpassbare Spannung
-- 10er-Packung Spanngurte mit Ratschenschloss, 6 m lang, 25 mm breit
 - Hergestellt in Taiwan
+- umfasst Etikett mit allen rechtlichen Angaben zu Gurtband und Ratschenschloss; extrem widerstandsfähig, UV-beständig und wetterfest
+- Zugfestigkeit (Schlaufe): 800 daN
+- Ideal zum Sichern von Ladung und anderen Gegenständen beim Transport
+- 10er-Packung Spanngurte mit Ratschenschloss, 6 m lang, 25 mm breit
+- Gurtband aus strapazierfähigem Polyestergewebe mit verstärkten Nähten
+- Metall-Ratschenschloss am Gurtende für verstellbaren Halt und anpassbare Spannung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08DRMJFHH{{</world>}}

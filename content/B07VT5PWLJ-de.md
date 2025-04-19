@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sie ist ca. 18 cm groß und wird in einer bedruckten Geschenkbox geliefert
 - Herr der Ringe Mini Epics Vinyl Figur Boromir 18 cm
 - Offiziell lizenzierte Figur aus Vinyl
+- Sie ist ca. 18 cm groß und wird in einer bedruckten Geschenkbox geliefert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VT5PWLJ{{</world>}}

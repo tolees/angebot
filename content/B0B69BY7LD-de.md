@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochleistungs-Heizsystem (Max 40°C), Frostwächter-Technologie (Automatisches Heizen ab 6°C), Sprudelmassage (140 AirJet -Düsen) mit warmer Luft, Kartuschenfiltersystem (Durchflussrate 1325 l/h)
-- Bis zu 6 Personen, Ø 197 x 71 cm, Innen: Ø 146, eckig, 3-lagiges DuraPlus, Verstärkte, ntwickelte Innenträgerkonstruktion , Wasserkapazität: 916 l / Füllgewicht: 954 kg, Taupe, Boden in Kieselmosaik-Optik
 - Luftbefüllung/Luftabsaugung mit Spa-Pumpe, Kein Werkzeug notwendig, Tragegriffe, Integriertes Ablassrohr + Adapter, Platzsparende Lagerung
+- Bis zu 6 Personen, Ø 197 x 71 cm, Innen: Ø 146, eckig, 3-lagiges DuraPlus, Verstärkte, ntwickelte Innenträgerkonstruktion , Wasserkapazität: 916 l / Füllgewicht: 954 kg, Taupe, Boden in Kieselmosaik-Optik
+- Hochleistungs-Heizsystem (Max 40°C), Frostwächter-Technologie (Automatisches Heizen ab 6°C), Sprudelmassage (140 AirJet -Düsen) mit warmer Luft, Kartuschenfiltersystem (Durchflussrate 1325 l/h)
 - 2-teilige isolierende Thermo-Abdeckung, ChemConnect Chemikaliendosierer, Flowclear Filterkartusche Größe VI (10,6 x 8,0 cm), Kundenservice
 - Hochklappbares Soft-Touch-Display, GS-zertifiziert (TÜV Rheinland), Erdungserkennungssystem + FI/Fehlerstrom-Schutzschalter, Tastensperre, Kindersichere Clipverschlüsse
 

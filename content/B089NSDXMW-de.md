@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein spezieller Parallelanschluss ermöglicht den gleichzeitigen Anschluss von zwei Geräten, um noch mehr Strom zu erhalten – perfekt für Wohnmobile mit Klimaanlagen. Das Set für den Parallelanschluss ist separat erhältlich.
-- CO Guard Kohlenmonoxid-Abschaltung. Intelligentes Erkennungssystem. Zusätzliche Schutzvorrichtungen.
 - 3, 8 l Treibstofftank für bis zu 8 Stunden Dauerbetrieb bei einer Last von 25 %.
-- Durch das H-Griff-Design kann eine Person den leichten Generator bei Bedarf bewegen. Außerdem können zwei Personen die Last auch gemeinsam tragen. Der optionale Radsatz macht den Transport noch einfacher (# 6861).
 - Diese Inverter-Technologie liefert gleichmäßigeren Strom. Das bedeutet, dass Sie Ihre empfindlichen elektronischen Geräte wie Laptops, Smartphones und Spielsysteme in Sicherheit laden und betreiben können.
-- Zwei 230-V-Haushaltssteckdosen, eine 12-V-Gleichstrom-Ladesteckdose und zwei 5-V-USB-Anschluss bieten genug Flexibilität, um eine umfangreiche Kombination von Leuchten, Laptops, Mixern, persönlicher Elektronik und mehr zu betreiben.
-- Dieser Benzingenerator benötigt 0.5 Liter SAE30 Viertaktöl für den Motor, NICHT IN DER BOX ENTHALTEN, bitte separat kaufen.
 - Leiser und kraftstoffeffizienter OHV Benzinmotor mit einem Hubraum von 79 cm³ für 2400 Watt Startleistung und 1800 Watt Betriebsleistung in kompaktem Design.
-- Mit einer Betriebslautstärke von 58 dB ist er leiser als eine normale Unterhaltung (Schallpegel kann nach Entfernung und Standort variieren; gemessen bei 25 % Last und 7 m Entfernung vom Bedienfeld).
 - Von den Geräten, die mit Strom versorgt werden sollen, wird die Motordrehzahl automatisch geregelt. Die Quiet Power Technologie reduziert die Geräusche, den Kraftstoffverbrauch und die Schadstoffemissionen.
+- CO Guard Kohlenmonoxid-Abschaltung. Intelligentes Erkennungssystem. Zusätzliche Schutzvorrichtungen.
+- Durch das H-Griff-Design kann eine Person den leichten Generator bei Bedarf bewegen. Außerdem können zwei Personen die Last auch gemeinsam tragen. Der optionale Radsatz macht den Transport noch einfacher (# 6861).
+- Mit einer Betriebslautstärke von 58 dB ist er leiser als eine normale Unterhaltung (Schallpegel kann nach Entfernung und Standort variieren; gemessen bei 25 % Last und 7 m Entfernung vom Bedienfeld).
+- Zwei 230-V-Haushaltssteckdosen, eine 12-V-Gleichstrom-Ladesteckdose und zwei 5-V-USB-Anschluss bieten genug Flexibilität, um eine umfangreiche Kombination von Leuchten, Laptops, Mixern, persönlicher Elektronik und mehr zu betreiben.
+- Ein spezieller Parallelanschluss ermöglicht den gleichzeitigen Anschluss von zwei Geräten, um noch mehr Strom zu erhalten – perfekt für Wohnmobile mit Klimaanlagen. Das Set für den Parallelanschluss ist separat erhältlich.
+- Dieser Benzingenerator benötigt 0.5 Liter SAE30 Viertaktöl für den Motor, NICHT IN DER BOX ENTHALTEN, bitte separat kaufen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089NSDXMW{{</world>}}

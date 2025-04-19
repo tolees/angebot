@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- kunstoffessgeschirr
 - set_
 - essgeschirr
-- kunstoffessgeschirr
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001C42RVI{{</world>}}

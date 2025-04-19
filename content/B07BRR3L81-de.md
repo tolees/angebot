@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verwendet eine LED-Lampe mit geringer Stromverbrauch und leistungsstark für eine wächst noch schneller
 - Enthält alles, was Sie brauchen, um die Kräuter frisch das ganze Jahr in Ihrem Smart Kräuter Garten
 - Enthält 9 Kapseln. Wählen Sie dann unter einer großen Auswahl an möglichen Refill: Kräuter, Blumen, Pflanzen,...
+- Verwendet eine LED-Lampe mit geringer Stromverbrauch und leistungsstark für eine wächst noch schneller
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07BRR3L81{{</world>}}

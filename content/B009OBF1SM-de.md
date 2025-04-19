@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Geschirr ist spülmaschinenfest und mikrowellensicher. Es zeichnet sich durch hohe Härte und Ritzbeständigkeit aus und eignet sich perfekt für den täglichen Gebrauch
+- Ergänzend hierzu gibt es die passende Obertasse, mit der Sie Ihren Espresso stilvoll genießen können
 - Lieferumfang: 1x Mokka-/Espressountertasse
 - Das florale Dekor ist inspiriert von Monets Gärten in Giverny. Besonders ansprechend ist der Mix zwischen schlichtem Grau und dem frühlingshaften Blumenmotiv
-- Ergänzend hierzu gibt es die passende Obertasse, mit der Sie Ihren Espresso stilvoll genießen können
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B009OBF1SM{{</world>}}

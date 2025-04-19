@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Exklusiv von GameStop
-- Lieferung in Präsentationsbox mit Sichtfenster
-- Vinyl-Figur
-- Leuchtet im Dunkeln
-- Iron Man Mark 43 Avengers Age of Ultron
 - Die Figur ist ca. 25,4 cm hoch
+- Vinyl-Figur
+- Iron Man Mark 43 Avengers Age of Ultron
+- Leuchtet im Dunkeln
+- Lieferung in Präsentationsbox mit Sichtfenster
+- Exklusiv von GameStop
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09L7VTDCH{{</world>}}

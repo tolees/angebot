@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verschluss: Schnürung
+- Sohle: Gummi
 - Obermaterial: Leder
 - Absatzform: Flach
-- Sohle: Gummi
-- Verschluss: Schnürung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005AXCN3O{{</world>}}

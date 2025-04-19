@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Geschenkpapier ist aus Naturkraftpapier, 60 g/qm
+- Inhalt: 1x Rolle. Farbe: grün
 - Ein elegantes Papier, stabil und robust für Ihre Verpackungen und Geschenke
 - Eine Rolle Geschenkpapier von Clairefontaine. Die Rolle ist 50 x 0,7m. Spezielle Breite für diejenige, die viel zu verpacken haben oder für große Geschenke
-- Inhalt: 1x Rolle. Farbe: grün
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B004HE79CW{{</world>}}

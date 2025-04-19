@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erweiterte Regeln, verbesserter Kampf, Elite-Armee-Einheiten und neue Team-Gameplay-Variante.
-- Vier Armeen, jede mit ihren eigenen einzigartigen Figuren.
 - Du übernimmst die Rolle eines mittelalterlichen Königs und eroberst in diesem taktischen Strategiespiel Europa. Kontrolliere die Königshäuser. Kontrolliere Europa. Für 2–4 Spieler
+- Vier Armeen, jede mit ihren eigenen einzigartigen Figuren.
+- Erweiterte Regeln, verbesserter Kampf, Elite-Armee-Einheiten und neue Team-Gameplay-Variante.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B081LLJ8YY{{</world>}}

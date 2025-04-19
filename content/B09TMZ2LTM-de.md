@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 150
 - BRD
 - Sung Hoo Park
+- 150
 - Deutsch, Japanisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

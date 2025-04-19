@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke CLINIQUE
 - Stiftung
+- Marke CLINIQUE
 - Beauty-Produkte
 
 [🛒 Hier!!]({{< param buyurl >}})

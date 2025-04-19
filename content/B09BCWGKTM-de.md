@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Duschgel geeignet für Gesicht, Körper und Haare
 - Angenehmer männlicher Duft
 - Pflegende NIVEA Gel Formel mit Aloe Vera
-- Duschgel geeignet für Gesicht, Körper und Haare
 - Hautverträglichkeit dermatologisch bestätigt
 - NIVEA MEN Duschgel spendet intensiv Feuchtigkeit und verhindert das Austrocknen
 

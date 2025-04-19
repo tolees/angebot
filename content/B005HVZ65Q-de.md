@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Vollisolierung reduziert das Kurzschlussrisiko
+- Einsatzbereich bis -40°C
 - enthält SVHC
 - Klasse C
 - Für Zählermontage und Zählersperrung
-- Vollisolierung reduziert das Kurzschlussrisiko
-- Einsatzbereich bis -40°C
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B005HVZ65Q{{</world>}}

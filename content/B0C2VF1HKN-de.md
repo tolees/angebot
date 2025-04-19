@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank des Feedbacks echter F1-Teams wurde das Fahrzeug-Handling in F1 23 im Vergleich zum letzten Spiel sowohl für Lenkrad- als auch für Pad-Spieler:innen verbessert
 - Der packende, handlungsorientierte Story-Modus „Braking Point“ kehrt mit Spannung und Action zurück
-- F1 World bietet eine aufregende neue Möglichkeit, das Spiel zu erleben und dient als zentrale Anlaufstelle für mehrere Spielmodi
 - Die roten Flaggen kehren nach neun Jahren zurück und sorgen für noch mehr Spannung
 - F1 23 bietet zwei brandneue Strecken – den Las Vegas Street Circuit in Nevada, USA, und den Losail International Circuit in Doha, Katar
+- Dank des Feedbacks echter F1-Teams wurde das Fahrzeug-Handling in F1 23 im Vergleich zum letzten Spiel sowohl für Lenkrad- als auch für Pad-Spieler:innen verbessert
+- F1 World bietet eine aufregende neue Möglichkeit, das Spiel zu erleben und dient als zentrale Anlaufstelle für mehrere Spielmodi
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C2VF1HKN{{</world>}}

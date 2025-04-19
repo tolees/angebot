@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Brutaler Nahkampf, wie du ihn willst - Das First-Person-Kampfgeschehen ist so intensiv, instinktiv und blutig, wie nur irgend möglich
-- Erkunde HELL-A - So hast du LA noch nie erlebt! Dead Island 2 entführt dich an die berühmtesten Orte der nun grauenhaft besudelten Stadt der Engel
-- Werde zur Zombieschlächter-Ikone - Dir stehen sechs Charaktere zur Auswahl, jeder mit eigener Persönlichkeit und eigenen Dialogen
 - Inhalt der Day One Edition: Das Spiel und "Banoi-Reminiszenz-Paket" DLC (Der DLC-Download-Code liegt in der Box bei)
+- Werde zur Zombieschlächter-Ikone - Dir stehen sechs Charaktere zur Auswahl, jeder mit eigener Persönlichkeit und eigenen Dialogen
+- Erkunde HELL-A - So hast du LA noch nie erlebt! Dead Island 2 entführt dich an die berühmtesten Orte der nun grauenhaft besudelten Stadt der Engel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BBTRCDJM{{</world>}}

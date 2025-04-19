@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss:Reißverschluss
+- Obermaterial:Leder
 - Sohle:Gummi
 - Absatzform:Flach
-- Obermaterial:Leder
+- Verschluss:Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BM52Q6JQ{{</world>}}

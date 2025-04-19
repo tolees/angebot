@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x SONAX 04197000 Clay-Ball (1 Stück)
 - Extrem langlebig und leicht zu reinigen durch die stabile Gumminoppen-Struktur.
+- Lieferumfang: 1x SONAX 04197000 Clay-Ball (1 Stück)
 - Zur Entfernung von oberflächlichen Verschmutzungen wie Baumharz, Flugrost, Insektenresten und Teerflecken von Lack und Glas.
 - Reinigt ohne zu verkratzen und ist besonders handlich und ergonomisch in der Anwendung.
 - SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt.

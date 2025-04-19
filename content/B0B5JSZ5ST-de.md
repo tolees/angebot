@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - DUNGEONS & DRAGONS: EHRE UNTER DIEBEN: Der Film Dungeons & Dragons Ehre unter Dieben ist ein Teil der vielen Reiche von D&D, dem größten Rollenspiel der Welt
-- INSPIRIERT VOM DUNGEONS & DRAGONS FILM: Holga ist eine wilde Barbarin vom Uthgardt-Elchstamm mit einem überraschend warmen Herzen
 - WIE WÄRE ES MIT EINEM WAHRNEHMUNGSWURF, UM MEHR D&D GOLDEN ARCHIVE FIGUREN ZU FINDEN: Mehr 15 cm große Action-Figuren bedeuten mehr D&D Geschenke. Jeweils separat erhältlich. Je nach Verfügbarkeit
 - 15 CM GROSSE HOLGA ACTION-FIGUR: Die Action-Figur beeindruckt mit einem Premium-Dekor und mehreren Bewegungspunkten zum Darstellen fantastischer Abenteurerposen und zum Spielen
+- INSPIRIERT VOM DUNGEONS & DRAGONS FILM: Holga ist eine wilde Barbarin vom Uthgardt-Elchstamm mit einem überraschend warmen Herzen
 - ENTHÄLT ACCESSOIRES PASSEND ZUM CHARAKTER: Für viele Menschen stellen D&D Würfel ein beliebtes D&D Zubehör dar, doch diese Barbarin kommt mit den zu ihrer Klasse passenden Waffen
 
 [🛒 Hier!!]({{< param buyurl >}})

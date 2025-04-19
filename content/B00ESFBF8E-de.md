@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Avene Sol Spray Spf 30 200ml
 - Breites UVB - UVA-Schutz
 - Hoher Sonnenschutz für empfindliche Haut
+- Avene Sol Spray Spf 30 200ml
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00ESFBF8E{{</world>}}

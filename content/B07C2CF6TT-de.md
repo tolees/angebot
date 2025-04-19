@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Rundhals-Ausschnitt
 - Dieses basic Strickteil passt zu allem in deinem Kleiderschrank.
 - Passorm: normal geschnitten
 - Aus angenehmer, weicher Baumwolle
+- Mit Rundhals-Ausschnitt
 - Klassischer, hochwertiger Strickpullover der Marke JACK & JONES
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

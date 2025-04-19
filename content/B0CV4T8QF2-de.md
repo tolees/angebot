@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5500mAh Akku, Quick Charge 5.0 und PD Charging.
-- Qualcomm Snapdragon 8 Gen 3 Mobile Plattform.
 - Rückwärtige Hauptkamera: Sony IMX890 50 MP Bildsensor mit Gimbal 3.0, Zweite Rückkamera: 13 MP, 120° Ultraweitwinkelkamera, Dritte Rückkamera: 32 MP, Frontkamera: 32 MP.
+- Qualcomm Snapdragon 8 Gen 3 Mobile Plattform.
+- 5500mAh Akku, Quick Charge 5.0 und PD Charging.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CV4T8QF2{{</world>}}

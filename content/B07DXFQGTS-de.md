@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- INTERAKTIVE Umgebungen
 - Fortgeschrittene selbstlernende KI
 - 5 fantasiewelten zum Erkunden
-- INTERAKTIVE Umgebungen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07DXFQGTS{{</world>}}

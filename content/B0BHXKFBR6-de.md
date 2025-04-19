@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmeichelnde Regular Fit-Passform
 - Langärmeliges Hemd
 - Weich und besonders robuste Twillwebung
+- Schmeichelnde Regular Fit-Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BHXKFBR6{{</world>}}

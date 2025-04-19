@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inspiriert vom Tennis. Stylischer Komfort für jeden Tag
 - Obermaterial aus weichem Leder
+- Inspiriert vom Tennis. Stylischer Komfort für jeden Tag
 - Update des PUMA Smash
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4. Vakuumversiegelte Verpackung.
+- 1.Tangle free: the filament is neatly wrapped, no tangles.
 - 3.Geen bel of stof binnen, keurig gerold om verstopping of verwarring te verminderen.
 - 5. N.W: 1kg. Spule binnendiameter 57mm. Spule buitendiameter 200mm,hoogte 64mm.
-- 1.Tangle free: the filament is neatly wrapped, no tangles.
 - 2. Druck Temperatur: 190-220. Durchmesser 1.75mm. Toleranz: +/- 0.03mm
+- 4. Vakuumversiegelte Verpackung.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XRK9K7Q{{</world>}}

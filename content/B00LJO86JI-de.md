@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Installationswerkzeuge inklusive
-- Kostenloser Download der JetDrive Toolbox Software
-- Kompatibel mit MacBook Pro Retina 15” (Mitte 2012 - Anfang 2013)
 - Bis zu 570 MB/s Lesen; 460 MB/s Schreiben
 - SATA III 6Gb/s Schnittstelle
+- Kompatibel mit MacBook Pro Retina 15” (Mitte 2012 - Anfang 2013)
+- Kostenloser Download der JetDrive Toolbox Software
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00LJO86JI{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- California Rêverie Edp Vapo 75 Ml
-- California Reverie Edp Vapo 75 ml
 - Van Cleef & Arpels
 - 3386460064576
+- California Reverie Edp Vapo 75 ml
+- California Rêverie Edp Vapo 75 Ml
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00LGS5SAW{{</world>}}

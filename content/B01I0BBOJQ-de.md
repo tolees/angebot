@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Farbe: Braun
 - Laufsohle/Eigenschaften: EVA-Laufsohle für geringes Gewicht
-- Obermaterial: Leder (Rindsleder)
 - XL EXTRALIGHT für mehr Leichtigkeit und Stoßdämpfung
+- Obermaterial: Leder (Rindsleder)
 - Elastikriemen für bequeme Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

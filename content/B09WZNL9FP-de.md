@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TRIGGER UND HAPTISCHES FEEDBACK – Fühle das Spielgeschehen durch den DualSense-Controller und spüre Schadensrichtung, Wettereffekte, grobe Straßenbeläge, Explosionen und mehr
-- NEUES MENÜ-DESIGN
 - ATEMBERAUBENDE GRAFIK – Visuelle Verbesserungen und eine höhere Leistung mit neuen Grafikmodi, die eine Auflösung bis zu 4K, bis zu 60 Bilder pro Sekunde, HDR-Optionen, Ray-Tracing, verbesserte Texturqualität und mehr bieten
+- TRIGGER UND HAPTISCHES FEEDBACK – Fühle das Spielgeschehen durch den DualSense-Controller und spüre Schadensrichtung, Wettereffekte, grobe Straßenbeläge, Explosionen und mehr
 - ZUGANG ZU ALLEN AKTUELLEN UND FRÜHEREN UPDATES
 - LADEZEITEN – Rascherer Zugang zur Action, da die Welt von Los Santos und Blaine County schneller geladen wird als jemals zuvor
+- NEUES MENÜ-DESIGN
 - TEMPEST 3D AUDIO – Genieße die Klangkulisse der Welt mit höchster Präzision: den Motor eines gestohlenen Supersportwagens, das knatternde Gewehrfeuer um die Ecke, das Dröhnen eines Helikopters über dir und mehr
 
 [🛒 Hier!!]({{< param buyurl >}})

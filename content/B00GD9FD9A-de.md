@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Individuelle Anpassung Sitzfläche in Höhe und Tiefe verstellbar, höhenverstellbare Rückenlehne, horizontal und vertikal verstellbare Armlehnen, Kopfstütze in Höhe und Neigung verstellbar
-- Abmessungen (H x B x T): 142 x 61 x 48 cm, sitzdauer: 8 Stunden, weitere Angaben bitte der Artikelbeschreibung entnehmen
 - Punktsynchronmechanik zur Verstellung der Sitz und Rückenneigung, hohe Rückenlehne mit beweglicher Lendenwirbelstütze für eine optimale Sitzhaltung
-- Designerstuhl mit maximalem Komfort, robuster Konstruktion und absoluter Vollausstattung für ein ergonomisches und gesundes Sitzen
+- Individuelle Anpassung Sitzfläche in Höhe und Tiefe verstellbar, höhenverstellbare Rückenlehne, horizontal und vertikal verstellbare Armlehnen, Kopfstütze in Höhe und Neigung verstellbar
 - Dieser Stuhl erfüllt sämtliche sicherheitsrelevanten Voraussetzungen nach DIN EN 1335 Teil 1-3. Sitzfläche sowie Rückenlehne aus robustem Netzstoff für ein angenehmes Klima
+- Designerstuhl mit maximalem Komfort, robuster Konstruktion und absoluter Vollausstattung für ein ergonomisches und gesundes Sitzen
+- Abmessungen (H x B x T): 142 x 61 x 48 cm, sitzdauer: 8 Stunden, weitere Angaben bitte der Artikelbeschreibung entnehmen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00GD9FD9A{{</world>}}

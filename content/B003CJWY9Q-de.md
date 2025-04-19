@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufputz-Schalterprogramm STANDARD IP 44: passend für Keller, Garagen und Werkstatt, gekennzeichnet durch einfach Handhabung und robuste Form
 - grau
+- Aufputz-Schalterprogramm STANDARD IP 44: passend für Keller, Garagen und Werkstatt, gekennzeichnet durch einfach Handhabung und robuste Form
 - Taster, 10AX, 250V~
 
 [🛒 Hier!!]({{< param buyurl >}})

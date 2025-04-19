@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1 Minifigur: Neben dem baubaren McLaren Flitzer beinhaltet das Set auch eine Rennfahrer-Minifigur mit Helm, Haarteil und Schraubenschlüssel. Dein Kind kann die Minifigur ans Steuer setzen und superschnelle Runden auf der Rennstrecke drehen lassen
 - Authentische McLaren Details: Der LEGO Speed Champions McLaren Formel-1 Rennwagen 2023 verfügt über eine Lackierung in Schwarz und Orange, Logos der Teamsponsoren, Reifen mit Pirelli-Aufdruck und einen orangen Cockpitschutz
-- Spielzeugautos zum Verschenken: Sets mit Autos bieten ein faszinierendes Bau- und Spielerlebnis und sind eine tolle Geschenkidee für Kinder ab 9 Jahren sowie für erwachsene Modellauto-Sammler
-- McLaren Spielzeug-Rennauto für Kinder: Der LEGO Speed Champions McLaren Formel-1 Rennwagen 2023 ist ein Spielzeugflitzer für Jungen und Mädchen ab 9 Jahren, Formel-1-Fans und alle Freunde der legendären Automarke
-- LEGO Modell zum Ausstellen: Nachdem dein Kind einige Runden in diesem Formel-1-Spielzeugflitzer gedreht hat, kann es das Modell im Regal oder auf dem Nachttisch ausstellen
-- Noch spannendere Rennen: Schau dir auch unbedingt die anderen separat erhältlichen LEGO Speed Champions Flitzer mit ihren authentischen Details an
 - Modelle legendärer Autos zum Spielen und Ausstellen: LEGO Speed Champions Bausets lassen Kinder und begeisterte Autofans Nachbildungen von einigen der legendärsten Autos der Welt erschaffen
+- McLaren Spielzeug-Rennauto für Kinder: Der LEGO Speed Champions McLaren Formel-1 Rennwagen 2023 ist ein Spielzeugflitzer für Jungen und Mädchen ab 9 Jahren, Formel-1-Fans und alle Freunde der legendären Automarke
+- Spielzeugautos zum Verschenken: Sets mit Autos bieten ein faszinierendes Bau- und Spielerlebnis und sind eine tolle Geschenkidee für Kinder ab 9 Jahren sowie für erwachsene Modellauto-Sammler
+- LEGO Modell zum Ausstellen: Nachdem dein Kind einige Runden in diesem Formel-1-Spielzeugflitzer gedreht hat, kann es das Modell im Regal oder auf dem Nachttisch ausstellen
+- 1 Minifigur: Neben dem baubaren McLaren Flitzer beinhaltet das Set auch eine Rennfahrer-Minifigur mit Helm, Haarteil und Schraubenschlüssel. Dein Kind kann die Minifigur ans Steuer setzen und superschnelle Runden auf der Rennstrecke drehen lassen
+- Noch spannendere Rennen: Schau dir auch unbedingt die anderen separat erhältlichen LEGO Speed Champions Flitzer mit ihren authentischen Details an
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CFVWTFN6{{</world>}}

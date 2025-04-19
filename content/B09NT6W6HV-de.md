@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- bis zu 11 Bilder/s Serienbildgeschwindigkeit
-- Voller Autofocus und Auto-Belichtung für zahlreiche F-Objektive
 - 20,9 Megapixel APS-C (DX)-Format CMOS-Sensor
+- Voller Autofocus und Auto-Belichtung für zahlreiche F-Objektive
+- bis zu 11 Bilder/s Serienbildgeschwindigkeit
 - Gute Ergonomie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbwechsel von hellem auf dunkles Papier
-- Effekt-Farbe variiert ja nach Betrachtungwinkel
 - Echtes Glitzer Gel
+- Effekt-Farbe variiert ja nach Betrachtungwinkel
 - Glitzer-Effekt verbleibt auf dem Papier
+- Farbwechsel von hellem auf dunkles Papier
 - säurefrei, Strichstärke 0, 5mm
 
 [🛒 Hier!!]({{< param buyurl >}})

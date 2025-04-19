@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Farbverlauf
 - Artwork mit Stickereien vorne rechts
+- mit Farbverlauf
 - Kapuze mit Print, Innentape und Kordelzug
 - Rippbündchen an Ärmeln und Saum
 

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erkunde die Welt Seite an Seite in einem ununterbrochenen Online-Mehrspielermodus
-- Meistere ein schnelles, flüssiges und taktisches Kampfsystem
 - Triff eine Vielzahl von Charakteren, die dir nur zu gerne ihre fragwürdige Hilfe anbieten
+- Meistere ein schnelles, flüssiges und taktisches Kampfsystem
 - Erkunde zwei riesige Parallelwelten - die der Lebenden und die der Toten
 
 [🛒 Hier!!]({{< param buyurl >}})

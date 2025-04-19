@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Miniatur LED Dynamorücklicht zur Gepäckträgermontage
 - Zulassungen: StVZO
-- Gute Abstandseinschätzung
 - Mit Standlichtfunktion, ohne Rückstrahler
+- Miniatur LED Dynamorücklicht zur Gepäckträgermontage
+- Gute Abstandseinschätzung
 - Klarglastechnik mit rot leuchtender LED
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

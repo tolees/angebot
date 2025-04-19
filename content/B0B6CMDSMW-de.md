@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Leviathanaxt, die Chaosklingen und der Wächterschild kehren zurück und reihen sich in ein ganzes Arsenal neuer Fähigkeiten ein, die Kratos und Atreus zur Verfügung stehen. Kämpfe gegen Götter und Monster aus allen neun Welten stellen Kratos gnadenlose Spartaner-Fähigkeiten auf eine nie dagewesene Probe, während er versucht, seine Familie zu beschützen
 - Reise durch gefährliche und atemberaubende Landschaften und stell dich den verschiedensten feindlichen Kreaturen, Monstern und nordischen Göttern, während Kratos und Atreus nach Antworten und Verbündeten suchen
 - Atreus ist auf der Suche nach Wissen, das ihm helfen soll, die Bedeutung von "Lokis" Prophezeiung und seine Rolle in Ragnarök zu verstehen. Kratos muss sich entscheiden, ob er sich weiterhin von der Angst, seine Fehler zu wiederholen, gefangen halten lassen will, oder ob er sich daraus befreit, um für Atreus der Vater zu sein, den er braucht
+- Die Leviathanaxt, die Chaosklingen und der Wächterschild kehren zurück und reihen sich in ein ganzes Arsenal neuer Fähigkeiten ein, die Kratos und Atreus zur Verfügung stehen. Kämpfe gegen Götter und Monster aus allen neun Welten stellen Kratos gnadenlose Spartaner-Fähigkeiten auf eine nie dagewesene Probe, während er versucht, seine Familie zu beschützen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B6CMDSMW{{</world>}}

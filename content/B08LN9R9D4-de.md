@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Timer-Funktion: Per Timer kann eine Laufzeit von 5, 10 oder 15 Minuten eingestellt werden. Nach Ablauf der Zeit schaltet sich die Fasspumpe automatisch ab. Die Trockenlaufsicherung schützt vor zusätzlichen Schäden
 - Ein Akku – viele Möglichkeiten: Der leistungsstarke POWER FOR ALL System-Akku ist marktübergreifend mit weiteren Geräten führender Hersteller rund um Haus und Garten kompatibel. Akku im Lieferumfang nicht enthalten
-- Vielseitig: Mit drei unterschiedlichen Leistungsstufen lässt sich die Pumpe bedarfsgerecht anpassen. Innerhalb einer Akkuladung schafft diese bis zu 2.000 l Wasser zu transportieren. Je nach Modus liegt die max. Laufzeit bei 18 bis 65 min
 - Störungsfreier Betrieb: Der spezielle Standfuß mit integriertem Feinfilter dient zum Schutz der Pumpe. Somit bleiben Schmutzpartikel fern und können die Pumpe nicht verstopfen
 - Lieferumfang beinhaltet: 1x Gardena Akku-Klarwasser-Tauchpumpe 2000/2 18V P4A (ohne Akku)
+- Vielseitig: Mit drei unterschiedlichen Leistungsstufen lässt sich die Pumpe bedarfsgerecht anpassen. Innerhalb einer Akkuladung schafft diese bis zu 2.000 l Wasser zu transportieren. Je nach Modus liegt die max. Laufzeit bei 18 bis 65 min
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08LN9R9D4{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
-- Verschluss: Schnürung
 - Obermaterial: Leder
-- Absatzform: Flach
 - Innenmaterial: Synthetik
+- Verschluss: Schnürung
+- Absatzform: Flach
+- Sohle: Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C69L3MSP{{</world>}}

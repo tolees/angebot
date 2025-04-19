@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Eco Line Comfort Switch Adapter mit 1,5m Kabel - in bester Qualität von brennenstuhl
-- Verlängerungskabel mit Fußschalter - max. 3500 W
-- Steckdosenadapter mit großem, beleuchtetem Fußschalter zum Ein- und Ausschalten mit 1,5 m Kabel - ideal um unnötige Stand-by-Stromkosten zu vermeiden
-- Beleuchteter Fußschalter ermöglicht ein bequemes Schalten Ihrer angeschlossenen Geräte
 - Schaltbare Steckdose mit Fußschalter und praktischer Schaltzustandsanzeige durch Beleuchtung am externen Schalter - ideal auch in dunklen Ecken
+- Beleuchteter Fußschalter ermöglicht ein bequemes Schalten Ihrer angeschlossenen Geräte
+- Lieferumfang: 1x Eco Line Comfort Switch Adapter mit 1,5m Kabel - in bester Qualität von brennenstuhl
+- Steckdosenadapter mit großem, beleuchtetem Fußschalter zum Ein- und Ausschalten mit 1,5 m Kabel - ideal um unnötige Stand-by-Stromkosten zu vermeiden
+- Verlängerungskabel mit Fußschalter - max. 3500 W
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01JIKHVF4{{</world>}}

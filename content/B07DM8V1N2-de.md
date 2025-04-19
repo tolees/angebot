@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Natürlich weißere Zähne: Entfernen Sie Verfärbungen für ein weißeres Lächeln nach nur einer Woche
 - Lieferumfang: 1 Philips Sonicare Protective Clean 6100 Elektrische Schallzahnbürste, 1 Bürstenkopf
+- Natürlich weißere Zähne: Entfernen Sie Verfärbungen für ein weißeres Lächeln nach nur einer Woche
 - Putzen Sie auf Ihre Art: 3 Modi und 3 Intensitäten für jeden Modus: Clean, Whitening und Gum Care
 - Der Lithium-Ionen-Akku ermöglicht eine Betriebszeit von bis zu 2 Wochen (komplett geladen bis leer)
 - Unsere Schalltechnologie: Spült Wasser in die Zahnzwischenräume und löst & entfernt Plaque

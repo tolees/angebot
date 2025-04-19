@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maximale Datentransferrate: Bis zu 25 MB/s
 - Garantierte Mindestgeschwindigkeit 10 MB/s, Geschwindigkeitsklasse 10
-- Lieferumfang: Intenso microSDHC 32 GB Class 10 Speicherkarte inkl. SD-Adapter
-- Besonders empfehlenswert für Mobiltelefone, Smartphones und Tablet
+- Maximale Datentransferrate: Bis zu 25 MB/s
 - Wasserfest, temperaturbeständig, stoßfest & röntgensicher
+- Besonders empfehlenswert für Mobiltelefone, Smartphones und Tablet
+- Lieferumfang: Intenso microSDHC 32 GB Class 10 Speicherkarte inkl. SD-Adapter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008XZO0IW{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Informationen zur Kompatibilität finden Sie unten in der Produktbeschreibung, Bitte beachten Sie die Typennummer, die auf dem Typenschild des jeweiligen Powertool gefunden werden kann
 - Dieser Staubsaugerbeutel ist zum Auffangen von groben Sägespänen (keine aktive Absaugung) bei der Verwendung einer Gehrungssäge
 - Bitte beachten Sie die Typennummer, die auf dem Typenschild des jeweiligen Powertool gefunden werden kann
 - Staubbeutel als Ersatzbeutel zum Auffangen von Sägemehl bei Nutzung einer Kapp- und Gehrungssäge
+- Informationen zur Kompatibilität finden Sie unten in der Produktbeschreibung, Bitte beachten Sie die Typennummer, die auf dem Typenschild des jeweiligen Powertool gefunden werden kann
 - Informationen zur Kompatibilität finden Sie unten in der Produktbeschreibung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

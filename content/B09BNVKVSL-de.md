@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält ein LEGO Classic Set mit LEGO Zahnrädern und Bausteinen sowie 7 Minimodelle mit Zahnradfunktionen, um den Spielspaß in Gang zu bringen
-- Jedes LEGO Set wird mit einer leicht verständlichen Bauanleitung geliefert, so dass auch Bauanfänger den Spaß am Bauen finden
-- Kinder können eine Ballerina, die Pirouetten dreht, ein Spielzeug-Hubschrauber mit sich drehenden Rotoren, einen Apfel mit Wurm und vieles mehr bauen
 - Mit 500 LEGO Teilen ermöglicht das LEGO Konstruktionsspielzeug zukünftigen Ingenieuren, voll funktionsfähige Spielzeuge zu bauen
+- Jedes LEGO Set wird mit einer leicht verständlichen Bauanleitung geliefert, so dass auch Bauanfänger den Spaß am Bauen finden
+- Enthält ein LEGO Classic Set mit LEGO Zahnrädern und Bausteinen sowie 7 Minimodelle mit Zahnradfunktionen, um den Spielspaß in Gang zu bringen
+- Kinder können eine Ballerina, die Pirouetten dreht, ein Spielzeug-Hubschrauber mit sich drehenden Rotoren, einen Apfel mit Wurm und vieles mehr bauen
 - Die Box mit LEGO Classic Steinen ist eine großartige Ergänzung zu jedem LEGO Set und ein tolles Spielzeuggeschenk für Kinder ab 5 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})

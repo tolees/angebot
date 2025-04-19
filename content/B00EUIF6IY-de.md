@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elementanzeigevolumen: 100.0 milliliters
 - shave after dhermes parfum herren homme lotion
-- Hermès Terre DHermès Aftershave Balm 100ml
+- Elementanzeigevolumen: 100.0 milliliters
 - Personal Fragrance
+- Hermès Terre DHermès Aftershave Balm 100ml
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00EUIF6IY{{</world>}}

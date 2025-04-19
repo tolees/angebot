@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Einsatz: Universell im Außenbereich. Hohe Korrosionsbeständigkeit durch Edelstahl rostfrei A2
 - Aufliegender Halbrundkopf mit bündiger Anzugsfläche. Geeignet für dünne Beschläge mit Durchgangsloch. Optimale Kraftübertragung und sauberer Passsitz auch beim Verarbeiten über Kopf mit SPAX Bit T-STAR plus T20 mit Führungszapfen
-- Made in Germany - Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 - Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze. Einfacheres Durchtrennen der Holzfaser durch SPAX-Wellenprofil
+- Made in Germany - Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00UIJIUE6{{</world>}}

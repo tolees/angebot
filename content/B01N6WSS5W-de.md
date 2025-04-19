@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Eine innovative Longlife-Nadeldichtung sowie PTFE-Dichtungen an der Becherverschraubung und am Ventil sorgen außerdem für sicheren Schutz vor unerwünschtem Luft- und Farbaustritt – auch bei der Anwendung von lösungsmittelhaltigen Lacken
-- Der Quick Fix ermöglicht durch gravierte Werteskala eine noch genauere Farbmengenregulierung
-- Stromquellentyp: handbetrieben
-- Harder & Steenbeck Infinity CRplus Two in One #2 Double Action Airbrush-Pistole Düsen-Ø 0,2 + 0,4 mm
-- Die Infinity CRplus verfügt über eine Dreifach-Beschichtung aus Kupfer, Nickel und hochglänzender Außen-Verchromung
 - Sie präsentiert sich damit nicht nur in besonders hochwertiger Optik, sondern eignet sich insbesondere für Nickel-Allergiker sowie jene Anwender, die aufgrund von Handschweiß mit der Oxidation („Anlaufen“) von Nickelwerkstoffen Probleme haben
+- Harder & Steenbeck Infinity CRplus Two in One #2 Double Action Airbrush-Pistole Düsen-Ø 0,2 + 0,4 mm
+- Stromquellentyp: handbetrieben
+- Die Infinity CRplus verfügt über eine Dreifach-Beschichtung aus Kupfer, Nickel und hochglänzender Außen-Verchromung
+- Der Quick Fix ermöglicht durch gravierte Werteskala eine noch genauere Farbmengenregulierung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01N6WSS5W{{</world>}}

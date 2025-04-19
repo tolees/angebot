@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Helio G95-Gaming-Prozessor
+- 5000mAh Batterie für bis zu 1 Monat Standby
 - 48MP AI Quad-Kamera
 - 90Hz Ultra Smooth Display
-- 5000mAh Batterie für bis zu 1 Monat Standby
 - 30W Dart-Charge
 - 90Hz Display 16.5cm (6.5”) FHD+ Fullscreen
 

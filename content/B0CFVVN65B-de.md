@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auto-Kalibrierung: Der Wandscanner kalibriert sich automatisch, sobald er an die Wand gehalten wird; bei einer Repositionierung an der Wand kalibriert er sich erneut automatisch
 - Orten von Stromkabeln und Metall: das digitale Ortungsgerät erkennt stromführende Kabel bis 50 mm und Metall bis 70 mm Tiefe. Mit einem roten Blinklicht und Signalton warnt das Gerät wo besser nicht gebohrt werden sollte. Eigene LEDs für Metall und stromführende Kabel ermöglichen eine einfache Unterscheidung, was gefunden wurde
-- Nachhaltigkeit: Unsere Produkte haben Nachhaltigkeitsmerkmale. Mehr Details dazu finden Sie in den Bildern
 - Lieferumfang: Truvo, 3 x 1,5-V-Batterie (AAA), Kurz-Bedienungsanleitung, Bedienungsanleitung, E-Commerce Karton
+- Nachhaltigkeit: Unsere Produkte haben Nachhaltigkeitsmerkmale. Mehr Details dazu finden Sie in den Bildern
 - Sofort einsatzbereit: einfaches Orten auf Knopfdruck. Das neue Tonkonzept nach dem Prinzip einer Einparkhilfe zeigt klar an, wo besser nicht gebohrt werden sollte
+- Auto-Kalibrierung: Der Wandscanner kalibriert sich automatisch, sobald er an die Wand gehalten wird; bei einer Repositionierung an der Wand kalibriert er sich erneut automatisch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFVVN65B{{</world>}}

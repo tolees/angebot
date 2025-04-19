@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Nur geeignet für Endgeräte mit SDXC-Steckplatz (nicht rückwärtskompatibel zu Standard SD & SDHC Speicherkartes)
+- Jede SD-Karte hat einen mechanischen Schreibschutz. Dieser wird aufgehoben, indem man den Riegel an der Seite nach oben schiebt
 - Secure Digital Extended Capacity (SDXC) Speicherkarte, entspricht SD-3.0-Standard
 - Lieferumfang: SanDisk Secure Digital Extended Capacity (SDXC) Class 4 64GB Speicherkarte
-- Nur geeignet für Endgeräte mit SDXC-Steckplatz (nicht rückwärtskompatibel zu Standard SD & SDHC Speicherkartes)
 - Schutz gegen unbeabsichtiges Überschreiben der Daten, Original SanDisk Markenware, Erstausrüsterqualität
-- Jede SD-Karte hat einen mechanischen Schreibschutz. Dieser wird aufgehoben, indem man den Riegel an der Seite nach oben schiebt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00CIQ01US{{</world>}}

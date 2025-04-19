@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verschluss: Ethylenvinylacetat
-- Innenmaterial: Synthetisch
 - OrthoLite Recycling Innersohle für Dämpfung und Atmungsaktivität
+- Innenmaterial: Synthetisch
 - EVA-Laufsohle für geringes Gewicht (20% recycelt)
 - Obermaterial: Stoff
 

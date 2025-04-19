@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 prozent recycelter Polyester (Interlock)
 - Regulär geschnitten
+- 100 prozent recycelter Polyester (Interlock)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NDQ99Y2{{</world>}}

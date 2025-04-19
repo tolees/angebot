@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das PRIME TX-750, ist der Nachfolgeartikel vom PRIME Ultra 750 Titanium (SSR-750TR)
 - Vergoldete Anschlüsse
 - Vollmodulares Netzteil
-- 80 PLUS Titanium
-- Intel ATX 12 V
-- Das PRIME TX-750, ist der Nachfolgeartikel vom PRIME Ultra 750 Titanium (SSR-750TR)
 - Mikrotoleranzlastregelung
 - Größe: 170 mm (L) x 150 mm (B) x 86 mm (H)
+- Intel ATX 12 V
+- 80 PLUS Titanium
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07WSJW646{{</world>}}

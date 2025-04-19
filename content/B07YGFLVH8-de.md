@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SWISS CHOCOLATE: seit 1887 sorgt Chocolat Frey für genussvolle Geschmackserlebnisse aus traditionellem Handwerk, auserlesenen Zutaten und viel Liebe
-- KNACKIGE FREUDE: Das klassische und sehr beliebte Vollmilch Schokoladen-Täfelchen mit Nüssen zaubert jedem ein Lächeln ins Gesicht. Das passendes Geschenk für all deine Lieben und für jeden Anlass!
-- BITES OF HAPPINESS: Ob für besondere Anlässe oder für den alltäglichen Genuss. Traditionell, hochwertig, ursprünglich und von höchster Qualität für jeden Moment. Kein Wunder, ist Schokolade von Frey die meistgegessene der Schweiz
 - SCHOKOLADIGE DETAILS: Milchschokolade angereichert mit vielen Haselnüssen - Vorratspackung: 10 Tafeln je 100g - Kakaoanteil mindestens 29% - Hergestellt in der Schweiz aus UTZ-zertifiziertem Kakao
 - GANZE NÜSSE: Die Voll-Nuss Schokolade mit ganzen Haselnüssen ist ein echter Tafelklassiker: Ein knackiger Schokoladengenuss perfekt zum Teilen, zum selber Genießen oder als Schokoladengeschenk
+- BITES OF HAPPINESS: Ob für besondere Anlässe oder für den alltäglichen Genuss. Traditionell, hochwertig, ursprünglich und von höchster Qualität für jeden Moment. Kein Wunder, ist Schokolade von Frey die meistgegessene der Schweiz
+- KNACKIGE FREUDE: Das klassische und sehr beliebte Vollmilch Schokoladen-Täfelchen mit Nüssen zaubert jedem ein Lächeln ins Gesicht. Das passendes Geschenk für all deine Lieben und für jeden Anlass!
+- SWISS CHOCOLATE: seit 1887 sorgt Chocolat Frey für genussvolle Geschmackserlebnisse aus traditionellem Handwerk, auserlesenen Zutaten und viel Liebe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07YGFLVH8{{</world>}}

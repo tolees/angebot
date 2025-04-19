@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- bis zu 24,5 Stunden Aufnahmezeit mit 2 AAA Batterien
+- Aufnahme auf MicroSD Karten mit bis zu 512GB
 - leicht, kompakt und unauffällig
 - 32bit floating Point Aufnahme für einen großen Dynamikbereich
-- bis zu 24,5 Stunden Aufnahmezeit mit 2 AAA Batterien
 - Optionaler Bluetooth Adapter AK-BT1 zur Fernbedienung über eine App und zur Synchronisation
-- Aufnahme auf MicroSD Karten mit bis zu 512GB
 - 32-Bit-Float-Audiorecorder mit Lavalier-Mikrofon
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - original getreues Wohnmobil
-- Number of items: 1.0
 - Age range description: kinder
+- Number of items: 1.0
 - Item package quantity: 1.0
 
 [🛒 Hier!!]({{< param buyurl >}})

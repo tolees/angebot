@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Werkzeug Griff Holz gebohrt 100% PEFC zertifiziertes 130 cm
 - Klinge aus auto-affûtant
 - LG: 14 cm – Gewicht: 0,35 kg
+- Werkzeug Griff Holz gebohrt 100% PEFC zertifiziertes 130 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B007C1PM7G{{</world>}}

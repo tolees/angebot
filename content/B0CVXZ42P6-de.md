@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die integrierte Ratsche mit Feinverzahnung sorgt für schnelles und sicheres Arbeiten
 - Im Griff integrierte Ratschenmechanik
-- Extrem kleiner Bits-Handhalter für Bits mit 1/4"-Außensechskantantrieb
-- Hohe Arbeitsgeschwindigkeit: Mit der Ratschenmechanik kann beim Verschrauben auch "gezwirbelt" werden
 - Ergonomisches intuitives Umschalten auf Rechts-/Links- oder 0-Position
+- Hohe Arbeitsgeschwindigkeit: Mit der Ratschenmechanik kann beim Verschrauben auch "gezwirbelt" werden
+- Extrem kleiner Bits-Handhalter für Bits mit 1/4"-Außensechskantantrieb
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVXZ42P6{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus Aluminium gefertigt
 - Sechseckige Schnellwechselplatte
 - 3/8 Zoll Gewinde
+- Aus Aluminium gefertigt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000KZH5SU{{</world>}}

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: 100% Polyester
 - Hochwertiges Polyester UV-Stabilisatoren im Material bieten Schutz vor dem Ausbleichen
+- Material: 100% Polyester
+- Langlebig und sehr strapazierfähig. Atmungsaktiv und wasser- und schmutzabweisend zum Schutz des Grills vor Witterungseinflüssen
+- Geeignet für - Spirit II 300 Serie, Spirit 300 Serie und Spirit 200 Serie (mit seitlich montierten Bedienelementen)
 - Sicher vor Wind und Wetter. Klettverschlüsse halten die Abdeckung an Ort und Stelle
 - Schönheit und Leistung bleiben lange erhalten
-- Geeignet für - Spirit II 300 Serie, Spirit 300 Serie und Spirit 200 Serie (mit seitlich montierten Bedienelementen)
-- Langlebig und sehr strapazierfähig. Atmungsaktiv und wasser- und schmutzabweisend zum Schutz des Grills vor Witterungseinflüssen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07HCBRMJY{{</world>}}

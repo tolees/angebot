@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Durchmesser x Schaftdurchmesser x Gesamtlänge: 4-20 x 6,35 x 70,5 mm
+- Für alle Bohrmaschinen mit Sechskantschaftbohreraufnahme
 - Zum gratfreien Bohren ohne Vorbohren, Entgraten, Bohren von mehreren Durchmessern mit einem Bohrer und Aufbohren von bestehenden Löchern. Spiralnut für längere Lebensdauer, weniger Vibrationen und schnelleren Bohrfortschritt, außerdem Durchmessermarkierungen in beiden Spiralen
 - Professionelles Bearbeiten von nahezu allen dünnen Materialien wie z.B. Nichteisenmetalle, Stahlblech, Kunststoff oder rostfreier Stahl
 - 9 Stufen Ø 4/6/8/10/12/14/16/18/20 mm
-- Für alle Bohrmaschinen mit Sechskantschaftbohreraufnahme
-- Durchmesser x Schaftdurchmesser x Gesamtlänge: 4-20 x 6,35 x 70,5 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0014GT1UY{{</world>}}

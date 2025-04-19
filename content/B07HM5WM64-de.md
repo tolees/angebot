@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lichtfarbe im gesamten Tagesverlauf individuell steuerbar
+- Individuelle Tagesabläufe mit bis zu 16 Phasen programmierbar
 - Eindrucksvolle Sonnenuntergänge und Mondscheinbeleuchtung einstellbar
 - Kabellose Steuerung der HeliaLux-Beleuchtung mit allen WLAN-fähigen Endgeräten
-- Individuelle Tagesabläufe mit bis zu 16 Phasen programmierbar
-- Lichtfarbe im gesamten Tagesverlauf individuell steuerbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07HM5WM64{{</world>}}

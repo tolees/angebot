@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auch als Schabhobel einsetzbar
 - Schlagkappe aus gehärtetem Stahl
-- Hochwertige Chrom-Stahl-Legierung
 - Geeignet für eine Vielzahl von stemmenden und schneidenden Anwendungen
+- Auch als Schabhobel einsetzbar
+- Hochwertige Chrom-Stahl-Legierung
 - Spezialbeitel mit zusätzlicher seitlicher Klinge
 
 [🛒 Hier!!]({{< param buyurl >}})

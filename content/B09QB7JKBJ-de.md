@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinder fahren mit ihrem Lieblingsfahrzeug von Hot Wheels auf den Beschleuniger, der es an die Spitze des Tracks katapultiert und dafür sorgt, dass die Autos ununterbrochen rasen, bis es zu einem Crash kommt.
 - Das actiongeladene Hot Wheels Crash-Spirale sorgt für rasanten Nervenkitzel in einem 73 cm hohen Trackset mit mehreren Crash-Zonen und batteriebetriebenem Beschleuniger.
 - Platz für bis zu 6 Fahrzeuge auf der Fläche des Batteriegehäuses. (Zusätzliche Fahrzeuge separat erhältlich.)
+- Kinder fahren mit ihrem Lieblingsfahrzeug von Hot Wheels auf den Beschleuniger, der es an die Spitze des Tracks katapultiert und dafür sorgt, dass die Autos ununterbrochen rasen, bis es zu einem Crash kommt.
 - Je mehr Fahrzeuge ins Rennen geschickt werden, desto höher ist die Spannung und es kommt zu einem gewaltigen Zusammenstoß in einer der drei Crash-Zonen. Ein Hot Wheels Fahrzeug enthalten. Zusätzlich abgebildete Fahrzeuge separat erhältlich.
 - Das perfekte Geschenke für Kinder ab 5 Jahren, die Crashs und Zusammenstöße mit Hot Wheels lieben.
 

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tissue
-- Kunstpelz
 - Tomaia im ähnlichen
+- Kunstpelz
 - Schnürung
 - Schock -auf interne Platte
 - Sportschuhe
+- Tissue
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B294KKT2{{</world>}}

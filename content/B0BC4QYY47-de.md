@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Hergestellt in Blueboard-Qualität
 - Ideal als Geschenk
-- Perfekt als Wohndeko
 - 1000-teiliges Puzzle im Format 96 x 32 cm
+- Perfekt als Wohndeko
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BC4QYY47{{</world>}}

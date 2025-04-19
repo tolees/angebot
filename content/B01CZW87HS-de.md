@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Interne Abschirmung aus Metall, Externes Netzteil im Lieferumfang
+- Verstärkung und RIAA Entzerrung für MM
 - Kompakte Maße zur Aufstellung nah beim Plattenspieler
 - Designprinzip inspiriert von Dr. Sykora, SMD Schaltkreise mit sehr rauscharmen Komponenten
 - Hartvergoldete RCA-Buchsen
-- Interne Abschirmung aus Metall, Externes Netzteil im Lieferumfang
-- Verstärkung und RIAA Entzerrung für MM
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01CZW87HS{{</world>}}

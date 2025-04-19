@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6090 Min Playing Time
 - 24 Players
 - Age: 14
+- 6090 Min Playing Time
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07FYT24JS{{</world>}}

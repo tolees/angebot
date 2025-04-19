@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Austauschbare Schutzkappen, schützende Auflage auf der Schiene und Fuß zur Nivellierung. Besonders geeignet für die Tischlerei und beim Heimwerken zum Kleben von Paneelen, Montage von Schubladen oder Rahmen
-- Optional erhätliche, schwenkbare Aufsätze, um sowohl geneigte als auch parallele Flächen einspannen - So können eigene Aufsatzprofil wie Dreiecke oder Kurven verschraubt werden
 - Verfügt über sieben Achsen aus Stahl. Griff aus Buchenholz. Eine trapezförmige Spindel sorgt für einen schnellen Vorschub. Fallschutzbremse an der beweglichen Backe
+- Optional erhätliche, schwenkbare Aufsätze, um sowohl geneigte als auch parallele Flächen einspannen - So können eigene Aufsatzprofil wie Dreiecke oder Kurven verschraubt werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00BQI189M{{</world>}}

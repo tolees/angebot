@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Schwarz
-- Kopf, Arme und Beine der großen Figuren sind beweglich
-- Figur ca. 3-4 cm groß
 - Material: Polyvinylchlorid
+- Kopf, Arme und Beine der großen Figuren sind beweglich
+- Farbe: Schwarz
+- Figur ca. 3-4 cm groß
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CQM281ZB{{</world>}}

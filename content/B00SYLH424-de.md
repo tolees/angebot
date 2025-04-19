@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erborian
-- Doré.
 - SPF25.
+- Doré.
 - CC Crème.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

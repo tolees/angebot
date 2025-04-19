@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DVD
-- 325
-- Kiyoko Sayama
 - Deutsch, Japanisch
+- Kiyoko Sayama
+- 325
+- DVD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005NDOTU6{{</world>}}

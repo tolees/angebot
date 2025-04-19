@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entwickelt, um Feuchtigkeit abzuleiten, damit du bequem bleibst
-- Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
 - Mit dezentem Logo auf der Brust
 - Ein vielseitiges Poloshirt, das stylish, schick und alles andere als altbacken ist
+- Entwickelt, um Feuchtigkeit abzuleiten, damit du bequem bleibst
+- Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
 - Aus leichtem, atmungsaktivem Pikeegewebe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- QUICK-SHIFT-FOKUSSYSTEM: Sie können sofort vom Autofokus zum manuellen Fokus wechseln, indem Sie den Auslöser bis zum ersten Druckpunkt gedrückt halten und den Fokusring drehen, nachdem das Motiv vom AF-System der Kamera scharfgestellt wurde.
-- WETTERBESTÄNDIG (ALL WEATHER, AW): Dieses Objektiv verfügt über eine zuverlässige, staubdichte, wetterbeständige Konstruktion mit acht Spezialdichtungen, um ein Eindringen von Wasser und Staub in das Innere des Objektivs zu verhindern.
-- Stativhalterung: abnehmbare Stativhalterung mit neuem Design und integriertem Verriegelungsmechanismus, um das Objektiv vor dem Herunterfallen zu schützen.
-- KAMERAINTERNE SHAKE REDUCTION (SR): Die PENTAX-Kameras der digitalen SLR K-Serie sind mit dem in das Kameragehäuse integrierten SR-Mechanismus ausgestattet. Da die Shake Reduction im Kameragehäuse zum Einsatz kommt, profitiert jedes Objektiv, das mit den Kameras der K-Serie kompatibel ist, von der Bildstabilisierung.
-- Dc-motor: reibungsloser, leiser af-betrieb mit integriertem af-antriebsmotor
 - HERVORRAGENDE BILDBESCHREIBUNG: Dank seiner hochmodernen Optik mit drei ED-Glaselementen (Extra-Low-Dispersion) und einem Superlow-Dispersion-Glaselement minimiert dieses Zoomobjektiv sphärische und chromatische Aberrationen auf ein Minimum und erzeugt gleichzeitig scharfe, hochwertige Bilder ohne Farbbluten.
-- Vier af-tasten installiert: um unabhängig von der Ausrichtung der Kamera einen stabileren af-betrieb zu gewährleisten, verfügt dieses Objektiv über vier af-tasten an seinem Gehäuse - Im Abstand von je 90 Grad. Somit ist eine effektive Nutzung dieser Tasten sowohl bei horizontaler als auch bei vertikaler Aufnahme gewährleistet.
-- HD-BESCHICHTUNG ZUR VERBESSERUNG DER BILDKRAFT: Erzeugen Sie kontrastreiche Bilder mit Rand-zu-Rand-Schärfe und ohne Streulicht und Geisterbilder.
-- SUPER TELEOBJEKTIV-ZOOM: Dieses Zoomobjektiv deckt einen Super-Telebereich von 150 mm bis 450 mm ab. Es ist kompakt und leicht genug für Langstreckenaufnahmen von Wildtieren, Flugzeugen und dynamischen Sportarten.
+- Dc-motor: reibungsloser, leiser af-betrieb mit integriertem af-antriebsmotor
+- WETTERBESTÄNDIG (ALL WEATHER, AW): Dieses Objektiv verfügt über eine zuverlässige, staubdichte, wetterbeständige Konstruktion mit acht Spezialdichtungen, um ein Eindringen von Wasser und Staub in das Innere des Objektivs zu verhindern.
 - Lieferumfang: umfasst die vordere Objektivkappe, die Objektivkappe, die Gegenlichtblende und das Objektivgehäuse
+- Stativhalterung: abnehmbare Stativhalterung mit neuem Design und integriertem Verriegelungsmechanismus, um das Objektiv vor dem Herunterfallen zu schützen.
+- HD-BESCHICHTUNG ZUR VERBESSERUNG DER BILDKRAFT: Erzeugen Sie kontrastreiche Bilder mit Rand-zu-Rand-Schärfe und ohne Streulicht und Geisterbilder.
+- Vier af-tasten installiert: um unabhängig von der Ausrichtung der Kamera einen stabileren af-betrieb zu gewährleisten, verfügt dieses Objektiv über vier af-tasten an seinem Gehäuse - Im Abstand von je 90 Grad. Somit ist eine effektive Nutzung dieser Tasten sowohl bei horizontaler als auch bei vertikaler Aufnahme gewährleistet.
+- SUPER TELEOBJEKTIV-ZOOM: Dieses Zoomobjektiv deckt einen Super-Telebereich von 150 mm bis 450 mm ab. Es ist kompakt und leicht genug für Langstreckenaufnahmen von Wildtieren, Flugzeugen und dynamischen Sportarten.
+- QUICK-SHIFT-FOKUSSYSTEM: Sie können sofort vom Autofokus zum manuellen Fokus wechseln, indem Sie den Auslöser bis zum ersten Druckpunkt gedrückt halten und den Fokusring drehen, nachdem das Motiv vom AF-System der Kamera scharfgestellt wurde.
+- KAMERAINTERNE SHAKE REDUCTION (SR): Die PENTAX-Kameras der digitalen SLR K-Serie sind mit dem in das Kameragehäuse integrierten SR-Mechanismus ausgestattet. Da die Shake Reduction im Kameragehäuse zum Einsatz kommt, profitiert jedes Objektiv, das mit den Kameras der K-Serie kompatibel ist, von der Bildstabilisierung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00TGVI4Y8{{</world>}}

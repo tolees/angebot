@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Designprinzip inspiriert von Dr. Sykora, SMD Schaltkreise mit sehr rauscharmen Komponenten
-- Verstärkung und RIAA Entzerrung für MM
-- Kompakte Maße zur Aufstellung nah beim Plattenspieler
-- Interne Abschirmung aus Metall, Externes Netzteil im Lieferumfang
 - Hartvergoldete RCA-Buchsen
+- Designprinzip inspiriert von Dr. Sykora, SMD Schaltkreise mit sehr rauscharmen Komponenten
+- Interne Abschirmung aus Metall, Externes Netzteil im Lieferumfang
+- Kompakte Maße zur Aufstellung nah beim Plattenspieler
+- Verstärkung und RIAA Entzerrung für MM
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KWTK086{{</world>}}

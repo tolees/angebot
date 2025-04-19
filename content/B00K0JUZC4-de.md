@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INTENSIVER SCHUTZ: Die enthaltenen natürlichen Kräuterextrakten wirken antibakteriell, antimykotisch und regenerierend. Der natürliche Säureschutzmantel wird durch Milchsäure unterstützt.
-- TÄGLICHE ANWENDUNG: Ein- bis zweimal täglich kann SAGELLA hydramed wie ein normales Duschgel unter der Dusche, in der Badewanne oder dem Bidet zur äußerlichen Reinigung und Pflege verwendet werden
-- SANFTE FORMEL: SAGELLA hydramed ist eine sanfte Intimwaschlotion mit regenerierender Formel, die auf besondere Bedürfnisse abgestimmt und somit auch für sensible Haut geeignet ist
 - PFLEGENDE INTIMWASCHLOTION: SAGELLA hydramed ist eine Spezialpflege bei erhöhtem Infektionsrisiko im Intimbereich ideal zur sanften Reinigung und unterstützenden Pflege
+- TÄGLICHE ANWENDUNG: Ein- bis zweimal täglich kann SAGELLA hydramed wie ein normales Duschgel unter der Dusche, in der Badewanne oder dem Bidet zur äußerlichen Reinigung und Pflege verwendet werden
+- INTENSIVER SCHUTZ: Die enthaltenen natürlichen Kräuterextrakten wirken antibakteriell, antimykotisch und regenerierend. Der natürliche Säureschutzmantel wird durch Milchsäure unterstützt.
+- SANFTE FORMEL: SAGELLA hydramed ist eine sanfte Intimwaschlotion mit regenerierender Formel, die auf besondere Bedürfnisse abgestimmt und somit auch für sensible Haut geeignet ist
 - GYNÄKOLOGISCH UND DERMATOLOGISCH GETESTET: Alle SAGELLA Waschlotionen sind dermatologisch und gynäkologisch getestet. Dank der besonders sanften Formel bietet SAGELLA hydramed auch intensiven Schutz für sensible Haut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

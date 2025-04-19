@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zum flächenbündigen Trennen von gespritzten Kunststoffteilen und Angussresten
 - Schneidet weiche Werkstoffe wie Blei glatt ab
 - Mit Öffnungsfeder
+- Zum flächenbündigen Trennen von gespritzten Kunststoffteilen und Angussresten
 - Mit plangeschliffenen Schneidflächen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

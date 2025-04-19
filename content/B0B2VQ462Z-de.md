@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NEED FOR NANO: Aufgerüstet mit einer Ausgangsleistung von 30W, sodass du deine Ohrhörer, Smartphones, Tablets und sogar dein MacBook Air mit einem federleichten Ladegerät aufladen kannst.
 - HIGH-SPEED LADELEISTUNG: Lade dein iPhone 15 Pro und Pro Max mit 30W in Höchstgeschwindigkeit auf oder lade dein iPad Air (5. Generation) in nur 45 Minuten auf 50% Akku auf. Unterstützt außerdem Samsung Super Fast Charging (25W).
-- KLEIN ABER KRÄFTIG: Durch den Austausch von Silizium gegen Galliumnitrid (GaN) konnten wir 30W Leistung in ein winziges Ladegerät einbauen, das 2,8cm schlank und 70% kleiner als ein ursprüngliches 30W-Ladegerät ist.
-- LADESCHUTZ MIT ACTIVESHIELD 2.0: Die hauseigene Ladetechnologie von Anker schützt deine Geräte, indem sie die Ladetemperatur über 3 Millionen Mal pro Tag intelligent überwacht – das ist doppelt so oft im Vergleich zu ActiveShield 1.0.
 - WAS DU BEKOMMST: Ein Anker 511 Ladegerät (Nano 3, 30W), eine Bedienungsanleitung, 24 Monate Herstellergarantie sowie freundlichen Kundenservice. (Ladekabel nicht im Lieferumfang enthalten.)
+- LADESCHUTZ MIT ACTIVESHIELD 2.0: Die hauseigene Ladetechnologie von Anker schützt deine Geräte, indem sie die Ladetemperatur über 3 Millionen Mal pro Tag intelligent überwacht – das ist doppelt so oft im Vergleich zu ActiveShield 1.0.
+- KLEIN ABER KRÄFTIG: Durch den Austausch von Silizium gegen Galliumnitrid (GaN) konnten wir 30W Leistung in ein winziges Ladegerät einbauen, das 2,8cm schlank und 70% kleiner als ein ursprüngliches 30W-Ladegerät ist.
+- NEED FOR NANO: Aufgerüstet mit einer Ausgangsleistung von 30W, sodass du deine Ohrhörer, Smartphones, Tablets und sogar dein MacBook Air mit einem federleichten Ladegerät aufladen kannst.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B2VQ462Z{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Drachen-Spielzeug für Kinder: Mit Kais Drachengleiter können Jungs und Mädchen ab 6 Jahren die Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
-- Fantasy-Spielzeug: Dein Kind kann die Drachenreiter Kai auf den Rücken der Drachenfigur setzen und dann den goldenen Schwanz runterschlagen, um beide nach vorne zu katapultieren
-- Größere Ninja-Abenteuer: Hol dir weitere separat erhältliche NINJAGO Actionspielzeuge, um die Duelle aus LEGO NINJAGO Dragons Rising nachzustellen
-- Geschenk für Kinder: Dieses LEGO NINJAGO Ninja-Spielzeug bietet ein kreatives Bau- und Spielerlebnis und eignet sich als Geschenk für Jungs und Mädchen ab 6 Jahren zu besonderen Anlässen wie Geburtstage und Ostern oder als spontane Belohnung
-- Ein ganzes Universum an Ninja-Spielzeugen für Kinder: LEGO NINJAGO Sets beinhalten Mechs, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
-- Drachenpower-Element: Das blaue Drachenpower-Element aus diesem LEGO Spielzeug für Kinder passt ins Maul des Drachen
 - 2 LEGO NINJAGO Figuren: Dieses Ninja-Spielzeug für 6-jährige Jungs beinhaltet eine Kai-Minifigur mit Mini-Katana sowie einen bösen Wolfswächter mit Armbrust
+- Fantasy-Spielzeug: Dein Kind kann die Drachenreiter Kai auf den Rücken der Drachenfigur setzen und dann den goldenen Schwanz runterschlagen, um beide nach vorne zu katapultieren
+- Ein ganzes Universum an Ninja-Spielzeugen für Kinder: LEGO NINJAGO Sets beinhalten Mechs, Fahrzeuge und Tempel, um dein Kind mit seinen Ninja-Helden in eine Fantasy-Abenteuerwelt eintauchen zu lassen
+- Größere Ninja-Abenteuer: Hol dir weitere separat erhältliche NINJAGO Actionspielzeuge, um die Duelle aus LEGO NINJAGO Dragons Rising nachzustellen
+- Drachen-Spielzeug für Kinder: Mit Kais Drachengleiter können Jungs und Mädchen ab 6 Jahren die Duelle aus der 2. Staffel der TV-Serie NINJAGO Aufstieg der Drachen nachstellen
+- Drachenpower-Element: Das blaue Drachenpower-Element aus diesem LEGO Spielzeug für Kinder passt ins Maul des Drachen
+- Geschenk für Kinder: Dieses LEGO NINJAGO Ninja-Spielzeug bietet ein kreatives Bau- und Spielerlebnis und eignet sich als Geschenk für Jungs und Mädchen ab 6 Jahren zu besonderen Anlässen wie Geburtstage und Ostern oder als spontane Belohnung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFW25F69{{</world>}}

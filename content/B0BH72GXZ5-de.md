@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In dieser dritten Erweiterung von Wingspan begrüßen wir neue Arten in unseren Lebensräumen, indem wir die lebendigen, faszinierenden und prächtigen Vögel Asiens erkunden. Diese Vögel wurden aus den über 2.800 Arten ausgewählt, die in Asien leben
-- Englische Version ab 14 Jahren, 1–7 Spieler, 40–70 Minuten Spieldauer
-- Spielbar als 6-7 Spieler-Erweiterung über den neuen Flock-Modus (für den die Spielerkomponenten aus dem Kernspiel notwendig sind)
-- Kompatibel als Kartenerweiterung zur ursprünglichen Wingspan (jede Vogel-/Bonuskarte über jedes Wingspan-Spiel oder jede Erweiterung kann kombiniert werden)
 - Dieses Spiel hat mehrere Möglichkeiten zu spielen: ein eigenständiges Spiel für 1 Spieler oder 2 Spieler (Duettmodus, der mit jedem Vogel/Bonuskarten verwendet werden kann)
+- Spielbar als 6-7 Spieler-Erweiterung über den neuen Flock-Modus (für den die Spielerkomponenten aus dem Kernspiel notwendig sind)
+- In dieser dritten Erweiterung von Wingspan begrüßen wir neue Arten in unseren Lebensräumen, indem wir die lebendigen, faszinierenden und prächtigen Vögel Asiens erkunden. Diese Vögel wurden aus den über 2.800 Arten ausgewählt, die in Asien leben
+- Kompatibel als Kartenerweiterung zur ursprünglichen Wingspan (jede Vogel-/Bonuskarte über jedes Wingspan-Spiel oder jede Erweiterung kann kombiniert werden)
+- Englische Version ab 14 Jahren, 1–7 Spieler, 40–70 Minuten Spieldauer
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BH72GXZ5{{</world>}}

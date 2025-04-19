@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konstante Lichtstärke 1:2,8 über ganzen Brennweitenbereich von 14-24 mm
 - Professionelles lichtstarkes Ultraweitwinkel-Zoomobjektiv für Nikon-Z-Kameras
 - Aufwändige Vergütung und Abdichtung gegen Staub und Feuchtigkeit
+- Konstante Lichtstärke 1:2,8 über ganzen Brennweitenbereich von 14-24 mm
 - Circa 650 g leicht
 - OLED-Statusdisplay
 

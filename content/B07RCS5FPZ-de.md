@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Farbe: Gunmetal Grey Metallic Matt
 - Inhalt: 2x 400ml
-- Sprüh Folie ist einfach wieder abziehbar
 - Maximale Ergiebigkeit durch Leersprühen der Dose
 - Ist ideal für KFZ, Hobby, Haus und Garten geeignet
+- Sprüh Folie ist einfach wieder abziehbar
 - Sehr gute Deckkraft, hoch elastisch und leicht aufzutragen
 - Sprühdose sprüht auch über kopf
 

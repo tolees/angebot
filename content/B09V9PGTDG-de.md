@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank des Standard-Designs der unteren Tastaturzeile können beliebige Standard-Keycaps aus dem Zubehörhandel mo
-- Dank Hot-Swap-fähiger Sockel unter jeder Taste ist der Austausch gegen beliebige MX-kompatible Switches möglich
 - Robuste Aluminium-Abdeckung und flaches Profil.
 - CAM macht Personalisierung durch die RGB-Anpassung der einzelnen Tasten, Makroeinstellungen und Lichteffekte mit vier Oboard-Profilen einfach.
+- Dank Hot-Swap-fähiger Sockel unter jeder Taste ist der Austausch gegen beliebige MX-kompatible Switches möglich
+- Dank des Standard-Designs der unteren Tastaturzeile können beliebige Standard-Keycaps aus dem Zubehörhandel mo
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09V9PGTDG{{</world>}}

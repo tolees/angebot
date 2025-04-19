@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Geeignet für normales bis fettiges Haar
 - 99 % natürliche Inhaltsstoffe und 100 % natürlicher Duft
 - Frei von Silikon, Paraben, SLS und SLES
 - Dieses Shampoo mit Bio-Rosmarinöl hilft, eine juckende und schuppige Kopfhaut zu beruhigen und die Sinne zu stimulieren
-- Geeignet für normales bis fettiges Haar
 - Tierversuchsfreie Haarpflege mit "Vegan Society"-Zulassung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

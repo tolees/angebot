@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Natürliche Inhaltsstoffe nach anthroposophischen Anschauungen
-- Enthält grüne Tonerde, ist aufhellend und adstringierend
 - Die Zahnpasta enthält keine schaumfördernden Stoffe
+- Enthält grüne Tonerde, ist aufhellend und adstringierend
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0013USYQI{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- plakativer Print vorne, etwas kleinerer Print hinten
 - Rundhalsausschnitt mit Rippblende
-- Inside Oil Dyed
 - mit Necktape
+- Inside Oil Dyed
+- plakativer Print vorne, etwas kleinerer Print hinten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D953YC9H{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PET Borsten
-- Bürstengriff mit Silhouette der Frau
 - Set zweiteilig
+- Bürstengriff mit Silhouette der Frau
+- PET Borsten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00XLC8F8I{{</world>}}

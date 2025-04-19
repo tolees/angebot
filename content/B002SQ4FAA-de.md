@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - geschlecht: - für sie / for her / pour femme
 - produktart: - kosmetik
-- designer - hersteller: - clinique
 - inhalt: - 30ml
+- designer - hersteller: - clinique
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002SQ4FAA{{</world>}}

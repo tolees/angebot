@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummizwischensohle
 - PUMA Formstrip auf der medialen und lateralen Seite
+- Obermaterial Leder
+- Gummizwischensohle
 - Gummi-Außensohle
 - PUMA Cat Logo an der Ferse
-- Obermaterial Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09YXTLS91{{</world>}}

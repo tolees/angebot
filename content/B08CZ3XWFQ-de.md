@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsgewicht: 524 g
 - Farbe: Verschiedene Farben
 - Verpackungsabmessungen (L x B x H): 4.4 zm x 23.1 zm x 23.3 zm
 - Herkunftsland:- China
+- Verpackungsgewicht: 524 g
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08CZ3XWFQ{{</world>}}

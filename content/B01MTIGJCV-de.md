@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Original GARDENA Ersatzteil
 - LED Anzeige: Powerinfo zeigt auf Knopfdruck den aktuellen Ladezustand
 - Lieferumfang beinhaltet: 1x Gardena System Akku BLi-18
-- Original GARDENA Ersatzteil
 - Hohe Kapazität: 2.6 Ah für eine lange Laufzeit
 - Robustes und leichtes Aluminumgehäuse: Für jeden Einsatzzweck bei nur 460 g
 

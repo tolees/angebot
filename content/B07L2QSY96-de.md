@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kommt ohne zusätzliche Kabel und Leitungen aus und ermöglicht dadurch eine ordentliche und saubere Installation
 - Enthält keinen Arbeitsspeicher Das Corsair Vengeance RGB PRO Light Enhancement Kit ist ohne DRAM Arbeitspeicher bestückt
 - Dient zur Vervollständigung in Systemen, in denen Corsair DDR4 Arbeitspeicher der Vengeance RGB PRO Serie verbaut wird
-- Kommt ohne zusätzliche Kabel und Leitungen aus und ermöglicht dadurch eine ordentliche und saubere Installation
 - Mit der Corsair iCUE-Software kontrollieren und synchronisieren Sie die 10 individuell ansteuerbaren, leuchtstarken RGB-LEDs pro Modul mit anderen Corsair RGB-Produkten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Glasur fällt teilweise glatt aus, kann aber auch mit kleinen Einsprenklungen versehen sein
 - Das wunderschöne Geschirr aus der Serie Nordic Coal macht Ihren gedeckten Tisch mit seinem dunklen Design zu etwas Einzigartigem
 - Jedes Teil ist ein Unikat, inspiriert von der Kraft der Natur und ihren Materialien
-- Die Farben variieren von schwarz-braun bis anthrazit und lassen sich wunderbar mit den anderen Nordic Serien, Nordic Sand und Nordic Sea, kombinieren
 - Der Teller hat einen Durchmesser von 26cm
+- Die Glasur fällt teilweise glatt aus, kann aber auch mit kleinen Einsprenklungen versehen sein
+- Die Farben variieren von schwarz-braun bis anthrazit und lassen sich wunderbar mit den anderen Nordic Serien, Nordic Sand und Nordic Sea, kombinieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01KE0F0AA{{</world>}}

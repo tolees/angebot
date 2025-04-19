@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Digitale Notizen immer griffbereit - Speichern Sie Ihre handschriftlichen Notizen in der Cloud. Verwendbar mit Google Drive, Dropbox, Evernote, Box, OneNote, Slack, iCloud. Senden Sie die Notizen per E-Mail oder nutzen Sie die kostenlose Rocketbook App für iOS und Android.
-- Verschiedene Größen & Designs - Das Rocketbook Core besteht aus gepunkteten weißen Blättern. Unser Notizbuch ist in verschiedenen Größen und Farben erhältlich. Die Executive Version ist ca. A5, die Letter Version A4 und Mini ist ungefähr A6. Für jeden Geschmack das richtige Design.
 - Umweltfreundliche Notizen - Der Spiralblock ist eine nachhaltige Alternative zu konventionellen Collegeblöcken, denn Sie sparen jede Menge Papier. Helfen Sie der Umwelt mit unserem 100% umweltfreundlichen und wiederverwendbaren Notizbuch. Unser Produkt ist aus nachhaltigen und langlebigen Materialien hergestellt.
 - Für Arbeit, Studium & Schule - Die Anwendung ist unkompliziert und kann überall verwendet werden. Das wiederverwendbare Notizbuch ist ideal für Schüler, Studenten, Lehrer oder auf der Arbeit. Kein unnötiges Papier oder Schreibmaterial mehr, somit besonders geeignet auf Reisen. Sie können Ihre Notizen einfach mit dem Smartphone, Tablet oder Laptop abrufen.
+- Digitale Notizen immer griffbereit - Speichern Sie Ihre handschriftlichen Notizen in der Cloud. Verwendbar mit Google Drive, Dropbox, Evernote, Box, OneNote, Slack, iCloud. Senden Sie die Notizen per E-Mail oder nutzen Sie die kostenlose Rocketbook App für iOS und Android.
 - Rocketbook A5 mit Punktraster - Unser wiederverwendbarer Collegeblock enthält 36 Seiten mit Punkten, für ordentliche Notizen. Das umweltfreundliche Notizbuch kann beliebig oft verwendet werden und eignet sich perfekt als Bullet Journal. Nach dem Speichern Ihrer Notizen können Sie diese einfach mit dem mitgelieferten Tuch abwischen.
+- Verschiedene Größen & Designs - Das Rocketbook Core besteht aus gepunkteten weißen Blättern. Unser Notizbuch ist in verschiedenen Größen und Farben erhältlich. Die Executive Version ist ca. A5, die Letter Version A4 und Mini ist ungefähr A6. Für jeden Geschmack das richtige Design.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07CZ37LP3{{</world>}}

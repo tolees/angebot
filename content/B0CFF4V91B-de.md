@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Red Dead Redemption beinhaltet die Single-Player-Erlebnisse aus Red Dead Redemption und Undead Nightmare sowie Zusatzinhalte aus der Game of the Year Edition und mehr
-- Erlebe Marstons Reise durch die endlosen Weiten des amerikanischen Westens und Mexikos
-- Neben den kompletten Single-Player-Erlebnissen beider Spiele beinhaltet Red Dead Redemption auch Zusatzinhalte aus der Game of the Year Edition und mehr
-- Ebenfalls enthalten ist Undead Nightmare, die ikonische Horror-Story, in der die Welt von Red Dead Redemption in einen apokalyptischen Überlebenskampf gegen Zombiehorden gestürzt wird
 - Red Dead Redemption ist der von Kritikern gefeierte Vorgänger von Red Dead Redemption 2, dem Blockbuster aus dem Jahr 2018
+- Erlebe Marstons Reise durch die endlosen Weiten des amerikanischen Westens und Mexikos
 - Red Dead Redemption umfasst keine Multiplayer-Inhalte
+- Red Dead Redemption beinhaltet die Single-Player-Erlebnisse aus Red Dead Redemption und Undead Nightmare sowie Zusatzinhalte aus der Game of the Year Edition und mehr
+- Ebenfalls enthalten ist Undead Nightmare, die ikonische Horror-Story, in der die Welt von Red Dead Redemption in einen apokalyptischen Überlebenskampf gegen Zombiehorden gestürzt wird
+- Neben den kompletten Single-Player-Erlebnissen beider Spiele beinhaltet Red Dead Redemption auch Zusatzinhalte aus der Game of the Year Edition und mehr
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFF4V91B{{</world>}}

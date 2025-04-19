@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 15 Einzelportionen zu je 3,0 g optimal vorportioniert für Glas, Becher und Tasse
-- lockeres Netz aus umweltfreundlicher, geschmacksneutraler Naturfaser (Abacá)
 - samtige Vanille-Sahne und verführerische Orangenfrische vereint auf herzhaftem Rooibos
+- lockeres Netz aus umweltfreundlicher, geschmacksneutraler Naturfaser (Abacá)
 - Teeblätter können sich beim Aufgießen voll entfalten, Tassenfarbe: bernstein
+- 15 Einzelportionen zu je 3,0 g optimal vorportioniert für Glas, Becher und Tasse
 - Ronnefeldt Teebeutel "Joy of Tea", aromatisierter Kräutertee mit Orange-Sahnegeschmack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

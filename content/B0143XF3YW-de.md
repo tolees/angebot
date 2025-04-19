@@ -29,13 +29,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Beschichtung des Steckverbinders: Nickel
-- Steckverbinder B: RJ45-Stecker
-- Packung die Größe: 33.0 L x 23.8 H x 35.2 W (cm)
-- Packungsgewicht: 6.239 kg
-- Stecker: RJ45 geschirmt, Snagless (Klinkenschutz), goldbeschichtete Kontakte
-- PIMF-Kabel (Paare In Metall Folie)
 - Belegt nach Farbcode ANSI/TIA-568-C.2
 - Steckverbinder A: RJ45-Stecker
+- PIMF-Kabel (Paare In Metall Folie)
+- Packungsgewicht: 6.239 kg
+- Packung die Größe: 33.0 L x 23.8 H x 35.2 W (cm)
+- Steckverbinder B: RJ45-Stecker
+- Stecker: RJ45 geschirmt, Snagless (Klinkenschutz), goldbeschichtete Kontakte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0143XF3YW{{</world>}}

@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DOPPELTER KARTENSTECKPLATZ: Speicherung von Bilddaten in großem Umfang auf zwei SD-Speicherkarten
 - SENSORREINIGUNG DER 2. GENERATION: Hiermit werden effektiv Staubpartikel von der Oberfläche des Bildsensors entfernt und unerwünschte Flecken auf dem aufgenommenen Bild vermieden.
+- ASTROTRACER: Die K-1 Mark II nutzt das GPS-Modul, den elektronischen Kompass und den SR II-Mechanismus voll aus und vereinfacht so die astronomische Fotografie von Himmelskörpern, ohne dass eine äquatoriale Montierung erforderlich ist.
 - STAUBGESCHÜTZTE WETTERBESTÄNDIGE KONSTRUKTION: Eine Kombination aus den 87 Wetterdichtungen der K-1 Mark II und dem optionalen wasserdichten Design des Batteriegriffs D-BG6 verhindert das Eindringen von Wasser und Staub.
-- OPTISCHER SUCHER MIT FAST 100 % SICHTFELD: Gewährleistet einer klare Sicht auf das Motiv und eine einfache Fokussierung
-- FLEXIBLER NEIGUNGSFÄHIGER LCD-MONITOR: Innovativer Mechanismus zum Neigen des Monitors in einen beliebigen Winkel entlang der optischen Achse
-- BILDER MIT HOHER AUFLÖSUNG: 36,4 effektive Megapixel sorgen für eine klare Detaildarstellung und liefern Bilder in hervorragender Qualität
 - DIE NEUE GENERATION DER SHAKE REDUCTION II: Bildstabilisierung auf fünf Achsen und mit fünf LW-Stufen Belichtungssicherheit
 - PIXEL SHIFT RESOLUTION SYSTEM II: PENTAX-Technologie, die qualitativ hochwertige Bilder erzeugt, welche über die Möglichkeiten der herkömmlichen Aufnahmetechni hinausgehen
-- ASTROTRACER: Die K-1 Mark II nutzt das GPS-Modul, den elektronischen Kompass und den SR II-Mechanismus voll aus und vereinfacht so die astronomische Fotografie von Himmelskörpern, ohne dass eine äquatoriale Montierung erforderlich ist.
+- OPTISCHER SUCHER MIT FAST 100 % SICHTFELD: Gewährleistet einer klare Sicht auf das Motiv und eine einfache Fokussierung
 - HÖCHSTE EMPFINDLICHKEIT VON ISO819200: Das hochmoderne Bildverarbeitungssystem verbessert die Bildqualität auch bei schlechten Lichtverhältnissen erheblich
+- BILDER MIT HOHER AUFLÖSUNG: 36,4 effektive Megapixel sorgen für eine klare Detaildarstellung und liefern Bilder in hervorragender Qualität
+- DOPPELTER KARTENSTECKPLATZ: Speicherung von Bilddaten in großem Umfang auf zwei SD-Speicherkarten
+- FLEXIBLER NEIGUNGSFÄHIGER LCD-MONITOR: Innovativer Mechanismus zum Neigen des Monitors in einen beliebigen Winkel entlang der optischen Achse
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B079X2QJ3Y{{</world>}}

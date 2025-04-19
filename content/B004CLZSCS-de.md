@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Stahl
 - Auf allen Seiten bearbeite
-- Ideal für allgemeine Arbeite
 - Mit Anschla
+- Ideal für allgemeine Arbeite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004CLZSCS{{</world>}}

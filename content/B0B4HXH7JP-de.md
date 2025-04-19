@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ärmelzustand: Minze (M)
 - Medienzustand: Minze (M)
+- Ärmelzustand: Minze (M)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B4HXH7JP{{</world>}}

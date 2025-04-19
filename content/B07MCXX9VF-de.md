@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Argan-Öl enthält hochkonzentrierte Fettsäuren und ist bekannt für seine schützenden und pflegenden Eigenschaften
 - Bio-Kosmetik-zertifiziert: Cosmos Organic nach dem Cosmos Standard durch Ecocert Greenlife zertifiziert
+- Argan-Öl enthält hochkonzentrierte Fettsäuren und ist bekannt für seine schützenden und pflegenden Eigenschaften
 - Shea-Butter ist für seine pflegenden und regenerierenden Eigenschaften bekannt
 - Angereichert mit Argan-Öl und Shea-Butter aus biologischem Anbau: ideal für trockene, juckende, raue und beanspruchte Haut
 - Lässt sich auf Gesicht, Körper und Händen anwenden

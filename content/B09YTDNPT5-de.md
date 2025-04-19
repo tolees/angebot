@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Eco-Drive
 - Super Titanium
 - Saphirglas
 - Gangreserve: 180 Tage
 - Super Titanium
-- Eco-Drive
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09YTDNPT5{{</world>}}

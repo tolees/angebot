@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zubehör
-- BV6881
 - Nike Herren Jacke Repel Park 20, Black/White/White, L, BV6881-010
+- BV6881
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07W4SWZ46{{</world>}}

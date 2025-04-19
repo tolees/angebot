@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lichtband für dynamische 360°-RGB-Effekte
-- Zuverlässige Omron Switches für bis zu 50 Millionen Klicks. Geschwindigkeit: 450ips
 - Interner Speicher erfasst individuelle Anpassungen
+- Zuverlässige Omron Switches für bis zu 50 Millionen Klicks. Geschwindigkeit: 450ips
 - Einfache Anpassungen mit der HyperX NGenuity Software
 - Pixart 3389 Sensor mit bis zu 16.000 DPI, Große Rollen für einfaches Gleiten
+- Lichtband für dynamische 360°-RGB-Effekte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07B9TVQ82{{</world>}}

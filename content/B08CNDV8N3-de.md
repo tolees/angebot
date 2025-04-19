@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Werkstattlampe mit Ladeanzeige, Powerbank-Funktion für bequemes Aufladen von z. B. Smartphones (Ladeanschluss Typ C), und stabilem, mehrstufig ausklappbarem Gestell
-- Extrem robuste Akku LED Arbeitsleuchte sorgt für helles Arbeitslicht an Orten ohne Stromanschluss
 - LED Baustrahler stoßfest und sturzsicherer (aus bis zu 3m Höhe) - LED Flutlicht mit Kantenschutz aus hochwertigem Kunststoff und einem Gehäuse aus Aludruckguss - ideal für die Baustelle, Werkstatt
 - Akku LED Arbeitsstrahler (Li-Ion Akku 3.7V/5Ah) mit einer Leuchtdauer von: 3h (100%), 4h (75%), 6h (50%), 12h (25%), 25h (10%) - inklusive 1x Ladekabel, 1x Tragetasche
 - LED Arbeitsleuchte mit 5 Schaltstufen 10% - 25% - 50% - 75% - 100% und Powerbank-Funktion (USB-Ladeanschluss 1 A) für Geräte mit USB Ladekabel wie Smartphones, Tablets, etc.
+- Extrem robuste Akku LED Arbeitsleuchte sorgt für helles Arbeitslicht an Orten ohne Stromanschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08CNDV8N3{{</world>}}

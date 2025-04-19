@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geringerer Energieverbrauch: Philips LED Leuchten sparen im Vergleich zu herkömmlichen Lichtquellen Energie ein​
-- Qualitativ hochwertigen Materialien: rostfrei, korrosions - unt witterungsbeständig
 - IP44 Wetterfest: Speziell für feuchte Umgebungen im Freien entwickelt
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse F.
+- Geringerer Energieverbrauch: Philips LED Leuchten sparen im Vergleich zu herkömmlichen Lichtquellen Energie ein​
+- Qualitativ hochwertigen Materialien: rostfrei, korrosions - unt witterungsbeständig
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06WWJ4KC5{{</world>}}

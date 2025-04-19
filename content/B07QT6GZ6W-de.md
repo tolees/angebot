@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Beliebig oft beschreib- und löschbares Wechselspeichermedium mit USB-C-3.0-Anschluss und USB-3.0/USB 3.1 (Gen. 1)-Anschluss
-- Ermöglicht direktes Aufnehmen und Abspielen von Filmen in FullHD
 - Lieferumfang: 1 FlashPen "C-Laeta"
 - Lästiges Ausprobieren entfällt: USB-C-Stecker können beliebig eingesteckt werden
+- Ermöglicht direktes Aufnehmen und Abspielen von Filmen in FullHD
 - Hochwertiges und robustes Metallgehäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

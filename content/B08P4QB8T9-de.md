@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hoher Proteingehalt
-- Verzehrsempfehlung für Erwachsene:
 - Schokoladen-Minz-Geschmack - 2.27 kg
-- Packung enthält 75 Portionen
 - Proteine tragen zur Erhaltung von und Zunahme an Muskelmasse bei
+- Packung enthält 75 Portionen
+- Verzehrsempfehlung für Erwachsene:
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08P4QB8T9{{</world>}}

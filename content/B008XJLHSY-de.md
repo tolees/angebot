@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Leistungsschalter der Serie iC60N, zu der auch der A9F03110 gehört, sind für ihre kompakte Größe bekannt und eignen sich daher für den Einsatz in engen Räumen, in die größere Leistungsschalter möglicherweise nicht passen
-- Mit einem Ausschaltvermögen von 10 kA ist dieser Schutzschalter in der Lage, den Stromfluss im Falle eines Fehlers zu unterbrechen, um Schäden an Geräten zu verhindern und die Brandgefahr zu verringern
-- Der Schutzschalter verfügt über einen Auslösemechanismus, der sicherstellt, dass der Schalter im Falle einer Überlast oder eines Kurzschlusses auslöst, auch wenn der Kippschalter in der Position "ein" gehalten wird. Dies trägt dazu bei, Schäden an Geräten zu vermeiden und das Risiko eines Stromschlags zu verringern
 - Der Schneider Electric A9F03110 ist ein Leitungsschutzschalter, der für den zuverlässigen Schutz von Stromkreisen gegen Überlast und Kurzschluss konzipiert ist
+- Der Schutzschalter verfügt über einen Auslösemechanismus, der sicherstellt, dass der Schalter im Falle einer Überlast oder eines Kurzschlusses auslöst, auch wenn der Kippschalter in der Position "ein" gehalten wird. Dies trägt dazu bei, Schäden an Geräten zu vermeiden und das Risiko eines Stromschlags zu verringern
 - Der A9F03110 hat einen Nennstrom von 10 Ampere und eignet sich damit für den Schutz kleiner Stromkreise in Wohn- und Geschäftsgebäuden
+- Mit einem Ausschaltvermögen von 10 kA ist dieser Schutzschalter in der Lage, den Stromfluss im Falle eines Fehlers zu unterbrechen, um Schäden an Geräten zu verhindern und die Brandgefahr zu verringern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008XJLHSY{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Teststreifen sind bis maximal 6 Monate nach Öffnung oder ungeöffnet bis zum regulären Ablaufdatum haltbar
 - Die Teststreifen sind zur Eigenanwendung geeignet
-- Geprüfte Teststreifen-Qualität (kontinuierliche Chargenkontrolle), PZN: 0758693; Medizinprodukt
-- Die Messung erfolgt Codefrei. Das heißt, ein vorheriges Kodieren des Geräts ist nicht erforderlich - so erhalten Sie Ihre Werte ganz schnell und bequem
 - Der Lieferumfang enthält 50 Blutzucker-Teststreifen zur Verwendung mit den Beurer Blutzuckermessgeräten GL 44, GL 50 und GL 50 evo
+- Die Teststreifen sind bis maximal 6 Monate nach Öffnung oder ungeöffnet bis zum regulären Ablaufdatum haltbar
+- Die Messung erfolgt Codefrei. Das heißt, ein vorheriges Kodieren des Geräts ist nicht erforderlich - so erhalten Sie Ihre Werte ganz schnell und bequem
+- Geprüfte Teststreifen-Qualität (kontinuierliche Chargenkontrolle), PZN: 0758693; Medizinprodukt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0061WFYKM{{</world>}}

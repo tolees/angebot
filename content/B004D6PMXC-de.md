@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - eXXtreme power caps die pure Kraft für den Mann!
-- Rezeptfreies Nahrungsergänzungsmittel.
 - Die Ausgewählten Wirkstoffe können Lust, Ausdauer und Leistungsfähigkeit anregen!
 - Mit der Essenz der Cardamomwurzel und dem belebenden und erfrischenden Guaranapulver.
+- Rezeptfreies Nahrungsergänzungsmittel.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004D6PMXC{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
 - Abtrennbare Beine
 - Strapazierfähiges G-1000 Material kann gewachst werden, um die Wasserbeständigkeit zu erhöhen
+- Reguläre Passform
 - Verstärkte Bereiche erhöhen die Strapazierfähigkeit
 - Vorgeformte Knie
 

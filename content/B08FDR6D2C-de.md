@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Griffart: rutschfester 2-Komponenten-Griff
 - Wechselhandgriff mit Haltkugel
 - Klingenlänge: 300 mm
-- Griffart: rutschfester 2-Komponenten-Griff
 - Doppelklinge T-Profil (für Torx)/T-Profil (für Torx) mit Bohrung: T10 - T15 - T20 - T25 - T27 - T30 - T40
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

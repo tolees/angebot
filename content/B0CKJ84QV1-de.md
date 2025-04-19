@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regular Fit
 - Obermaterial aus Synthetik und Wildleder
+- Regular Fit
 - Zwischensohle aus Gummi
 - Mit Schnürung
 - Gummilaufsohle

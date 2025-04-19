@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ergonomischer Komfort mit einem geprägten, gummierten Griff, perfekt für Links- und Rechtshänder. Die Edelstahlakzente machen den Stift zu einem Hingucker
-- Die Jetstream-Tinte hat die gleichen Vorteile wie die Super-Tinte von Uni-ball, und ist daher fälschungssicher, vor Verblassen geschützt und wasserfest
-- Gefüllt mit Jetstream-Tinte, die schneller trocknet und sich leichter anfühlt.
-- Die Jetstream-Tinte trocknet neunmal schneller als bei gewöhnlichen Kugelschreibern, verschmiert nicht und ist auch für Linkshänder geeignet
 - Zwölf rote Stifte, klare Linien durch die 1,0-mm-Kugel, perfekt für Briefe oder Tagebücher, mit Druckmechanismus
+- Die Jetstream-Tinte hat die gleichen Vorteile wie die Super-Tinte von Uni-ball, und ist daher fälschungssicher, vor Verblassen geschützt und wasserfest
+- Die Jetstream-Tinte trocknet neunmal schneller als bei gewöhnlichen Kugelschreibern, verschmiert nicht und ist auch für Linkshänder geeignet
+- Gefüllt mit Jetstream-Tinte, die schneller trocknet und sich leichter anfühlt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004MHX4VE{{</world>}}

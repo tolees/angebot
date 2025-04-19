@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bei diesem kompetitiven Aufbauspiel legt ihr Plättchen aus und errichtet somit lange Straßen, mächtige Städte und baut Kathedralen und Wirtshäuser
+- 2-6 Spieler | Ab 7+ Jahren | Bis zu 40+ Minuten Spielzeit je Partie | Spiel in Deutsch
+- Zum Spielen dieser Erweiterung wird ein Grundspiel von Carcassonne benötigt
 - Die neuen Landschaftsplättchen sind kompatibel mit dem Grundspiel, wodurch die Plättchen einfach zusammengemischt werden können
 - Bei der Erweiterung des strategischen Familienspiels verdreifacht eine Kathedrale den Wert eurer Stadt und die Wirtshäuser vedoppeln den Wert eurer Straßen
-- Zum Spielen dieser Erweiterung wird ein Grundspiel von Carcassonne benötigt
-- 2-6 Spieler | Ab 7+ Jahren | Bis zu 40+ Minuten Spielzeit je Partie | Spiel in Deutsch
+- Bei diesem kompetitiven Aufbauspiel legt ihr Plättchen aus und errichtet somit lange Straßen, mächtige Städte und baut Kathedralen und Wirtshäuser
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07P6Q5FGZ{{</world>}}

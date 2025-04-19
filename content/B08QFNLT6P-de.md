@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Greifen Sie sich bei etlichen unterwarteten Hindernissen gegenseitig unter die Arme und erleben Sie dabei Momente, die Sie zum Lachen bringen werden
-- Hauptfeatures: Koop in Reinform, Chaotisch-vergnügliches Gameplay und eine universelle Geschichte über Beziehungen
-- It Takes Two nutzt Smart Delivery-Technologie – kaufen Sie das Spiel einmalig und spielen Sie es entweder auf Xbox One oder Xbox Series X|S
 - Laden Sie mit dem Freunde
+- Hauptfeatures: Koop in Reinform, Chaotisch-vergnügliches Gameplay und eine universelle Geschichte über Beziehungen
+- Greifen Sie sich bei etlichen unterwarteten Hindernissen gegenseitig unter die Arme und erleben Sie dabei Momente, die Sie zum Lachen bringen werden
+- It Takes Two nutzt Smart Delivery-Technologie – kaufen Sie das Spiel einmalig und spielen Sie es entweder auf Xbox One oder Xbox Series X|S
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QFNLT6P{{</world>}}

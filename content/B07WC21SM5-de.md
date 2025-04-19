@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Perfekte Atmungsaktivität
 - Dri-fit-technologie
 - Elastischer Bund mit Kordelzug
-- Perfekte Atmungsaktivität
 - Seitentaschen
 - Standard Passform
 

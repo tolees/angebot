@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - SATA III 6Gb/s Schnittstelle
 - Bis zu 570 MB/s Lesen; 460 MB/s Schreiben. Betriebstemperatur: 0 °C ~ 70 °C
+- Kompatibel mit MacBook Pro Retina 15” (Mitte 2012 - Anfang 2013)
 - Kostenloser Download der JetDrive Toolbox Software
 - Installationswerkzeuge inklusive
-- Kompatibel mit MacBook Pro Retina 15” (Mitte 2012 - Anfang 2013)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00LJO86NY{{</world>}}

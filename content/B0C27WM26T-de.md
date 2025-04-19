@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2,5D-Adventure mit weltbekannter Rätsel-Plattformer-Action
-- Zugänglichkeit und Wiederspielwert dank des adaptiven Schwierigkeitssystems für die Kämpfe und Rätsel
 - Vereinte Kräfte mit 1 – 4 Spielern (Einzelspieler, lokaler und Online-Koop-Modus)
 - Neues Kampfsystem und spannende Bosskämpfe
+- 2,5D-Adventure mit weltbekannter Rätsel-Plattformer-Action
+- Zugänglichkeit und Wiederspielwert dank des adaptiven Schwierigkeitssystems für die Kämpfe und Rätsel
 - Wunderschöne Fantasy-Welt mit atemberaubender Grafik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

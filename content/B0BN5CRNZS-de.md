@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Leichter Polyester Pulloverstrick gebondet mit Anti-Pilling-Fleece
 - Stretch-Fleece-Einsätze an den Unterarmen und seitlich am Körper erhöhen die Funktionalität
 - YKK-Reißverschlüsse
-- Leichter Polyester Pulloverstrick gebondet mit Anti-Pilling-Fleece
 - Gesicherte Brusttasche mit Reißverschluss
 - Doppeltstrick-Stretch-Polyester-Fleece mit gebürsteter Rückseite
 

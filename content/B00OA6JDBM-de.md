@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Als Cocktail empfiehlt sich neben der Kombination mit Tonic auch ein Flip Cocktail. Dafür Rhabarber Gin mit Wasser und Ei, Zucker und Muskatnuss mixen. Mit Apfelscheiben garnieren.
-- Rhabarber mit seiner süß fruchtigen Säure und Ingwer mit seiner herb scharfen Würze gehen hier eine ideale Verbindung ein, wie man sie so noch nie gekostet hat. Unbedingt eine Verkostung wert!
 - Dass sich die Gin & Ginliköre mit der Zeit verfärben ist ganz normal, da nur natürliche Farbstoffe verwendet werden. Dies hat keinerlei Auswirkungen auf den Geschmack des Produktes
 - Und wieder begeistern die Edinburgh Distillers, dieses Mal mit ihrem Edinburgh Rhubarb Gin. Der spritzige Rosa-Ton weist bereits darauf hin, dass wir es hier einmal mehr mit einem Ginlikör zu tun haben, der Frische, Frucht und delikate Süße bringt.
+- Als Cocktail empfiehlt sich neben der Kombination mit Tonic auch ein Flip Cocktail. Dafür Rhabarber Gin mit Wasser und Ei, Zucker und Muskatnuss mixen. Mit Apfelscheiben garnieren.
+- Rhabarber mit seiner süß fruchtigen Säure und Ingwer mit seiner herb scharfen Würze gehen hier eine ideale Verbindung ein, wie man sie so noch nie gekostet hat. Unbedingt eine Verkostung wert!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00OA6JDBM{{</world>}}

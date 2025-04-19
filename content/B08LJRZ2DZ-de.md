@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 150
 - Deutsch, Japanisch
+- 150
 - Shinya Lino
 - BRD
 

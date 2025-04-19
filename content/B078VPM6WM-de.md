@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - APS-C Standard-Zoomobjektiv mit starker Vergrößerung
+- Moderne, lineare Motortechnologie für schnelle, präzise und leise Fokuskontrolle
 - Herausragendes optisches Design mit einem asphärischen Element für hohe Auflösung von der Bildmitte bis zum Rand
 - Lieferumfang: Streulichtblende (Modell): ALC-SH153, Vordere Objektivkappe: ALC-F55S, Hintere Objektivkappe: ALC-R1EM
-- Moderne, lineare Motortechnologie für schnelle, präzise und leise Fokuskontrolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078VPM6WM{{</world>}}

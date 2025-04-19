@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
 - Innenmaterial: Wolle
 - Absatzform: Flach
+- Obermaterial: Leder
 - Verschluss: Reißverschluss
 - Sohle: Gummi
 

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ALLE DETAILS ERFASSEN: Der Zoombereich und die Qualität dieses G-Objektivs sind für die meisten Aufnahmesituationen mehr als ausreichend, außerdem haben Sie den zusätzlichen Vorteil des stufenlosen Power-Zooms
+- UNGLAUBLICH SCHARF: Ein fortschrittliches optisches Design mit zwei ED-Glaselementen (Extra-low Dispersion) und drei asphärischen Elementen bietet eine hervorragende Bildqualität des G-Objektivs über den gesamten Zoombereich
 - SCHNELL UND PRÄZISE: Das Fokussieren profitiert von der gleichen Art von Technologie wie auf Profi-Niveau, die einen reibungslosen, leisen und reaktionsschnellen Betrieb ermöglicht. Die Länge des Objektivs bleibt beim Zoomen oder Fokussieren konstant
 - WUNDERSCHÖNE HINTERGRÜNDE: Zirkulare Blende mit 7 Lamellen für schöne Bokeh-Defokussierungseffekte
+- ALLE DETAILS ERFASSEN: Der Zoombereich und die Qualität dieses G-Objektivs sind für die meisten Aufnahmesituationen mehr als ausreichend, außerdem haben Sie den zusätzlichen Vorteil des stufenlosen Power-Zooms
 - PROFESSIONELLE ERGONOMIE: Die eingebaute optische SteadyShot-Bildstabilisierung gleicht Verwacklungen der Kamera aus und erleichtert die Aufnahme klarer Bilder
-- UNGLAUBLICH SCHARF: Ein fortschrittliches optisches Design mit zwei ED-Glaselementen (Extra-low Dispersion) und drei asphärischen Elementen bietet eine hervorragende Bildqualität des G-Objektivs über den gesamten Zoombereich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00ENZRQH8{{</world>}}

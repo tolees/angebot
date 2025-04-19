@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NACHSTELLEN DER KULTIGEN SZENE: Das Nevarro Cantina Spielset wurde mit zusätzlichen Nevarro Cantina Spielsets kombiniert, um eine vollständige, an Star Wars: The Mandalorian angelehnte Szene nachzustellen (Zusätzliche Sets separat erhältlich.)
-- KULTIGER, VON STAR WARS-INSPIRIERTER CHARAKTER: Die enthaltene Imperialer Death Trooper (Nevarro) Figur mit Blaster wird auf einer Star Wars: The Mandalorian Karte präsentiert; ein tolles Geschenk für jeden Star Wars Fan
-- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Dank ihrer hohen Beweglichkeit und realistischer Details kann die zu Star Wars: The Mandalorian passende Imperialer Death Trooper (Nevarro) Figur in Action-Figur-Kollektionen präsentiert werden
 - SPIELZEUGE ZUM SAMMELN: Zusammen mit anderen Star Wars The Vintage Collection Figuren, Fahrzeugen und Spielsets lässt sich eine Sammlung aufbauen, die Figuren können mit Freunden getauscht oder verschenkt werden (separat erhältlich.)
+- KULTIGER, VON STAR WARS-INSPIRIERTER CHARAKTER: Die enthaltene Imperialer Death Trooper (Nevarro) Figur mit Blaster wird auf einer Star Wars: The Mandalorian Karte präsentiert; ein tolles Geschenk für jeden Star Wars Fan
+- NACHSTELLEN DER KULTIGEN SZENE: Das Nevarro Cantina Spielset wurde mit zusätzlichen Nevarro Cantina Spielsets kombiniert, um eine vollständige, an Star Wars: The Mandalorian angelehnte Szene nachzustellen (Zusätzliche Sets separat erhältlich.)
 - VERPACKUNG IM VINTAGE-STIL: Die 9,5 cm großen klassischen Star Wars Figuren sowie Fahrzeuge und Spielsets aus der Star Wars The Vintage Collection haben das originale Kenner Branding (Jeweils separat erhältlich. Je nach Verfügbarkeit.)
+- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Dank ihrer hohen Beweglichkeit und realistischer Details kann die zu Star Wars: The Mandalorian passende Imperialer Death Trooper (Nevarro) Figur in Action-Figur-Kollektionen präsentiert werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09H1KD1SH{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wähle aus einer vielseitigen Liste von Himmelsfahrern, die allesamt über einzigartige Waffen, Fähigkeiten und Kampfstile verfügen
 - Inhalt: Das Spiel und einen Voucher 1 DLC
 - Erledige Quests allein oder im Koop-Modus mit bis zu drei anderen Spielern
+- Wähle aus einer vielseitigen Liste von Himmelsfahrern, die allesamt über einzigartige Waffen, Fähigkeiten und Kampfstile verfügen
 - Nutze gruppenbasierte Spielmechaniken wie Kombinationsangriffe oder Kettensalven, um deine Feinde auf spektakuläre Art und Weise zu zerschmettern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die in der Aufhängung integrierten Schwingungsdämpfer dienen zur Soundoptimierung. Integriertes Kabelkanal Führungssystem für Ordnung / Zugentlastung
+- Wandaufhängung und Wandbefestigung für extreme Belastung geeignet, insbesondere für einen großen und schweren TV-Bildschirm
+- Halterung für einfache und stufenlose Ausrichtung des Fernseh-Gerätes, für VESA Standards von 300x100 bis 800x600 Lochabstand, max. Traglast bis 75 kg
 - Lieferumfang: Fernsehhalterung, 1 Schraubensatz inkl. Original Fischer Dübel, Wasserwaage, Bohrschablone, Bleistift, Kabelbinder, Montageanleitung
 - Wandhalter für große Fernseher und Flachbildschirme mit Bildschirmdiagonalen von 119 bis 229 cm (u.a. 47 | 49 | 50 | 55 | 65 | 75 | 80 | 88 | 90 Zoll)
-- Wandaufhängung und Wandbefestigung für extreme Belastung geeignet, insbesondere für einen großen und schweren TV-Bildschirm
-- Die in der Aufhängung integrierten Schwingungsdämpfer dienen zur Soundoptimierung. Integriertes Kabelkanal Führungssystem für Ordnung / Zugentlastung
-- Halterung für einfache und stufenlose Ausrichtung des Fernseh-Gerätes, für VESA Standards von 300x100 bis 800x600 Lochabstand, max. Traglast bis 75 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00GS5N4D6{{</world>}}

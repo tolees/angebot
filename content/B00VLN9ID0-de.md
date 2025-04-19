@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassisches und bequemes Baumwoll-T-Shirt mit Levis Grafik auf der Brust
-- Rundhalsausschnitt
-- Reguläre Passform
 - Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
+- Reguläre Passform
+- Rundhalsausschnitt
 - Grafik im Siebdruck vorne
+- Klassisches und bequemes Baumwoll-T-Shirt mit Levis Grafik auf der Brust
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00VLN9ID0{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vinyl Figur
 - Offizielle Lizenz
+- Vinyl Figur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08XC1V4K4{{</world>}}

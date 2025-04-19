@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Kabellose Verbindung zum Fernseher
 - Optischer Digitaleingang
-- Schmal und elegant
 - Stilvoll und unaufdringlich
+- Schmal und elegant
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08Z4H7L2L{{</world>}}

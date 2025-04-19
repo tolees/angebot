@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Altersempfehlung: ab 18 Monaten
 - Material: Polyester (bei 30 °C waschbar)
 - Maße: ca. 25 cm
 - Für tolle Rollenspiele und spannende Geschichten
+- Altersempfehlung: ab 18 Monaten
 - Prinz
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Athletic-Shirt mit Karree-Ausschnitt
-- Rücken länger geschnitten
+- hohe Farbbrillianz
 - feines, strapazierfähiges Gewebe dank Compact Cotton aus Pima Baumwolle
 - Calida-Logo links am Saum
-- hohe Farbbrillianz
+- Rücken länger geschnitten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002HHII4O{{</world>}}

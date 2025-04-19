@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Gummizug
 - Sohle: Polyurethan
-- Obermaterial: Leder
-- Innenmaterial: Synthetik
+- Verschluss: Gummizug
 - Absatzform: Flach
+- Innenmaterial: Synthetik
+- Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C8R4XV17{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit der einzigartigen Power Assist-Funktion verhindert der MultiPlus die Überlastung einer begrenzten Wechselstromquelle, wie z. B. eines Generators oder Landstromanschlusses
-- Bis zu 6 MultiPlus-Geräte können parallel geschaltet werden, um eine höhere Ausgangsleistung zu erzielen. Zusätzlich zur Parallelschaltung können drei Geräte für einen Drei-Phasen-Ausgang konfiguriert werden
-- Eine unsachgemäße Installation kann gefährlich sein. Wenden Sie sich bitte an einen zugelassenen Fachmann und befolgen Sie bei der Installation alle geltenden elektrischen Vorschriften
-- Bei einem Netzausfall oder einer Unterbrechung der Land- oder Generatorstromversorgung wird der Wechselrichter schnell, innerhalb von 20 Millisekunden, aktiviert und übernimmt die Versorgung der angeschlossenen Verbraucher
 - Der Victron Energy MultiPlus ist ein leistungsfähiger 12-Volt 800VA 35 amp 230V Wechselrichter mit reiner Sinuswelle, ein fortschrittlicher Batterielader, der die adaptive Ladetechnologie nutzt, und ein Hochgeschwindigkeits-Wechselspannungs-Transferschalter in einem einzigen kompakten Gehäuse
+- Bis zu 6 MultiPlus-Geräte können parallel geschaltet werden, um eine höhere Ausgangsleistung zu erzielen. Zusätzlich zur Parallelschaltung können drei Geräte für einen Drei-Phasen-Ausgang konfiguriert werden
+- Mit der einzigartigen Power Assist-Funktion verhindert der MultiPlus die Überlastung einer begrenzten Wechselstromquelle, wie z. B. eines Generators oder Landstromanschlusses
+- Bei einem Netzausfall oder einer Unterbrechung der Land- oder Generatorstromversorgung wird der Wechselrichter schnell, innerhalb von 20 Millisekunden, aktiviert und übernimmt die Versorgung der angeschlossenen Verbraucher
+- Eine unsachgemäße Installation kann gefährlich sein. Wenden Sie sich bitte an einen zugelassenen Fachmann und befolgen Sie bei der Installation alle geltenden elektrischen Vorschriften
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B074Y3T1SD{{</world>}}

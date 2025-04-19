@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- RECYCLED
-- CUSHIONING
 - EASY FIT
+- CUSHIONING
+- RECYCLED
 - GOOD GRIP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

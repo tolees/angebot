@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BRD
 - 125
+- BRD
 - Yasuhiro Takemoto
 - Deutsch, Japanisch
 

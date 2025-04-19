@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Toll als Geschenkidee
-- Designer: Alessandro Mendini
 - Material: Edelstahl 18/10
+- Designer: Alessandro Mendini
 - Größe: Höhe 27 cm, Länge 44 cm, Breite 20 cm
 
 [🛒 Hier!!]({{< param buyurl >}})

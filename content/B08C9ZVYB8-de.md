@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größe: 366 x 76 cm, Wasserkapazität (90%): 6.473 Liter, einfacher Aufbau ohne Werkzeug, Innenverkleidung in Kieselmosaik-Optik
-- Inklusive Filterpumpe (1.429 l/h) und passender Filterkartusche
 - Müheloser Abbau, Lagerung sowie Transport, einfaches Entleeren durch integriertes Ablassventil (Gartenschlauchadapter enthalten)
 - 2 Jahre Herstellergarantie, umfangreicher Ersatzteil-Shop
+- Inklusive Filterpumpe (1.429 l/h) und passender Filterkartusche
+- Größe: 366 x 76 cm, Wasserkapazität (90%): 6.473 Liter, einfacher Aufbau ohne Werkzeug, Innenverkleidung in Kieselmosaik-Optik
 - Sichere Verbindung durch T-Verbinder, robustes, 3-lagiges DuraPlus -Material sorgt für enorme Langlebigkeit, selbstklebender Reparaturflicken, Antihaftbeschichtung, PVC-Band für extra Stabilität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

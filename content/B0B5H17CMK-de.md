@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- On-Board-Single-Band-2,4-GHz-Wireless-Schnittstellen (802.11n)
-- 26 multifunktionale GPIO-Pins
-- RP2040 Mikrocontroller-Chip, entworfen von Raspberry Pi im Vereinigten Königreich
-- 264 kB SRAM und 2 MB integrierter Flash-Speicher
 - Dual-Core ARM Cortex M0+ Prozessor, flexibler Takt bis zu 133 MHz
+- 264 kB SRAM und 2 MB integrierter Flash-Speicher
+- On-Board-Single-Band-2,4-GHz-Wireless-Schnittstellen (802.11n)
+- RP2040 Mikrocontroller-Chip, entworfen von Raspberry Pi im Vereinigten Königreich
+- 26 multifunktionale GPIO-Pins
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B5H17CMK{{</world>}}

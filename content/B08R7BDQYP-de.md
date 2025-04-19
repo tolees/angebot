@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Irae
 - ABIS MUSIK
+- Irae
 - Lully: Stirbt Irae
 
 [🛒 Hier!!]({{< param buyurl >}})

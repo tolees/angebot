@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Intuitive Bedienung per App für Smartphone, Tablet und PC (für iOS und Android)
 - Kontinuierliche Helligkeits- und Temperaturmessung, z.B. als Rückmeldung an die Licht- und Heizkörpersteuerung
-- Registriert zuverlässig offene Türen, Fenster oder Schubladen und schickt Benachrichtigungen per SMS oder E-Mail
-- Flexible Anbringung per Klebefolie oder Schrauben
 - Hinweis: Zur Steuerung benötigen Sie immer eine Z-Wave-Steuereinheit, wie zum Beispiel die devolo Home Control Zentrale
+- Flexible Anbringung per Klebefolie oder Schrauben
+- Registriert zuverlässig offene Türen, Fenster oder Schubladen und schickt Benachrichtigungen per SMS oder E-Mail
 - Lieferumfang: 1x devolo Home Control Tür-/Fensterkontakt, 1x Batterien, 1x Befestigungsmaterial, 1x Installationshandbuch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

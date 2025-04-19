@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Netz- oder Batteriebetrieb
-- All-in-One System mit CD-Player, Bluetooth Schnittstelle, USB und AUX Eingang
 - Vielseitige Programmauswahl dank Digitalradio (DAB+) und UKW Radio
+- All-in-One System mit CD-Player, Bluetooth Schnittstelle, USB und AUX Eingang
+- Netz- oder Batteriebetrieb
 - Hochwertiger Sound, individuell justierbar durch Equalizer und Bass Einstellungen. Es gibt keine Fernbedienung
 - Weckfunktion, Uhrzeit und Sleep Timer
 

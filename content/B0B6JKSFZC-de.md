@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Anzeige des Aufladestatus per RGB-Beleuchtung Den Akkustand immer im Blick: Beim Aufladen leuchten Maus und Dock je nach Akkustand — von Niedrig (Rot) über Mittel (Gelb) bis Voll (Grün). Benutzt du die Maus, blinkt das Dock auch rot, sobald der Akkustand niedrig ist.
-- Integrierter Razer HyperSpeed 4KHz-Sender-Empfänger Echte 4000 Hz Abtastrate: Kopple das Dock mit einer kompatiblen Razer Maus, um eine unglaubliche Reaktionsgeschwindigkeit und Präzision freizuschalten, die ideal für kompetitives Gaming auf höchstem Niveau.
-- Kabelloses magnetisches Aufladen für nahtloses, praktisches Aufladen: Noch nie war das Aufladen so intuitiv oder einfach. Installiere einfach den kabellosen Lade-Puck an einer kompatiblen Razer Maus und lege sie dann auf das Dock — sicherer Halt beim Aufladen.
 - 8 Razer Chroma RGB-Beleuchtungszonen Für individuellen Style und noch mehr Immersion beim Gaming: Du kannst die Unterbodenbeleuchtung des Docks mit 16,8 Millionen Farben und einer großen Auswahl an Effekten persönlich anpassen. Synchronisiere sie mit deinem Setup und erlebe eine dynamische Beleuchtung bei über 150 unterstützten Spielen.
 - Rutschfeste Unterseite Für bombensicheren Halt auf dem Tisch: Das Dock hat eine haftende Unterseite mit unglaublichem Grip, damit es niemals umkippen kann, und dabei hinterlässt es garantiert keine klebrigen Spuren auf deinem Tisch.
+- Kabelloses magnetisches Aufladen für nahtloses, praktisches Aufladen: Noch nie war das Aufladen so intuitiv oder einfach. Installiere einfach den kabellosen Lade-Puck an einer kompatiblen Razer Maus und lege sie dann auf das Dock — sicherer Halt beim Aufladen.
+- Integrierter Razer HyperSpeed 4KHz-Sender-Empfänger Echte 4000 Hz Abtastrate: Kopple das Dock mit einer kompatiblen Razer Maus, um eine unglaubliche Reaktionsgeschwindigkeit und Präzision freizuschalten, die ideal für kompetitives Gaming auf höchstem Niveau.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B6JKSFZC{{</world>}}

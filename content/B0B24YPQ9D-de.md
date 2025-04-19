@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jujutsu Kaisen Pop Up Parade PVC Statue Sukuna 17 cm
 - Sie ist ca. 17,5 cm groß und wird in einer Fensterbox geliefert
 - Aus der "Pop Up Parade"-Reihe kommt diese detailreiche PVC Statue
+- Jujutsu Kaisen Pop Up Parade PVC Statue Sukuna 17 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B24YPQ9D{{</world>}}

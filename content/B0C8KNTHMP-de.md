@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Better Outsoles,Natural Textiles
 - Farbe: Dunkelgrau
 - Obermaterial: 64 % recycelte Baumwolle 36 % Rindsleder
-- Better Outsoles,Natural Textiles
 - Sohle: 51% recyceltes EVA - 49% EVA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

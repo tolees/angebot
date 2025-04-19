@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bitte beachten Sie, dass der Vorhang 85 % des Schalls absorbiert
 - Gleichzeitig ist der Stoff weich und behält seine angenehme Haptik - auch nach der Schonwäsche bei 30°C
+- Bitte beachten Sie, dass der Vorhang 85 % des Schalls absorbiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08HD6YRF6{{</world>}}

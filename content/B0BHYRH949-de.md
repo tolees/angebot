@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Computergestützte Fotofunktionen, einschließlich Handheld High Res Shot, Live ND, Live Composite und Focus Stacking
 - Noch besserer Schutz vor Staub, Spritzwasser und Frost dank IP-53-Wetterschutzabdichtung
 - Optimierte und bewährte integrierte 5-Achsen-Bildstabilisierung
-- Kleine und leichte Systemkamera mit erstklassiger Bildqualität und 4K-Video
-- Computergestützte Fotofunktionen, einschließlich Handheld High Res Shot, Live ND, Live Composite und Focus Stacking
 - Truepic IX-Prozessor und 20,4 MP Live MOS-Sensor mit Staubreduzierungstechnologie
+- Kleine und leichte Systemkamera mit erstklassiger Bildqualität und 4K-Video
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BHYRH949{{</world>}}

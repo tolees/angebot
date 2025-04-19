@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- gedruckter Uhlsport-Schriftzug
 - Marke: Uhlsport
 - Hose mit modernem Karotten-Schnitt mit zwei Seitentaschen
+- gedruckter Uhlsport-Schriftzug
 - Bund mit kontrastfarbenem Kordelzug
 - elastische Rippbündchen
 

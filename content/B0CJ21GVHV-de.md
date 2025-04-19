@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tamron Lens Utility
-- Kürzeste Einstellentfernung von 0,3 m (bei 70 mm)
-- VC-Bildstabilisator
 - VXD-Autofokus
+- Kürzeste Einstellentfernung von 0,3 m (bei 70 mm)
 - überarbeitete optische Konstruktion
+- VC-Bildstabilisator
+- Tamron Lens Utility
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJ21GVHV{{</world>}}

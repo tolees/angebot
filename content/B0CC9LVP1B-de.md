@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ermüdungsfreies Arbeiten - Durch ergonomisches Design, hohen Klebstoff-Durchsatz und die wechselbare Langdüse (Feindüse als Zubehör erhältlich) gelingen auch anspruchsvolle Projekte in der Werkstatt und auf der Baustelle
 - Allrounder - 2 Temperaturstufen (130°/200°C) ermöglichen auch die Verwendung von speziellen ø11mm Heißklebesticks für temperatur-sensible Materialien und damit auch den professionellen Einsatz im Handwerk für Folie, Glas, Holz, Keramik, Leder, Metall, Papier, Pappe, Planen, Plexiglas, Styropor und Textilien
-- Lieferumfang: Akku-Heißklebepistole, 3x transparente ø11mm Klebesticks, wechselbare Langdüse; Abmessungen (L x B x H): 25.6 x 7.8 x 18.8 cm; Gewicht: 0.375 kg; Akku-Spannung: 18 V; Artikelnummer: 084684
 - Cordless Alliance System - Kabellose Heißklebepistole kompatibel mit allen Akkus des 18V Metabo CAS Akku-System, 90 min Dauerbetrieb mit 2.0 Ah Akku möglich (nicht im Lieferumfang enthalten)
 - Für Profi-Handwerker - Leistungsstarke Akku-Heißklebepistole mit extra hoher Fördermenge von 20 g/min und einer Aufheizzeit von nur 1,5 Minuten, ideal für kleine und große Reparaturen, zum Basteln und Heimwerken
+- Lieferumfang: Akku-Heißklebepistole, 3x transparente ø11mm Klebesticks, wechselbare Langdüse; Abmessungen (L x B x H): 25.6 x 7.8 x 18.8 cm; Gewicht: 0.375 kg; Akku-Spannung: 18 V; Artikelnummer: 084684
+- Ermüdungsfreies Arbeiten - Durch ergonomisches Design, hohen Klebstoff-Durchsatz und die wechselbare Langdüse (Feindüse als Zubehör erhältlich) gelingen auch anspruchsvolle Projekte in der Werkstatt und auf der Baustelle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CC9LVP1B{{</world>}}

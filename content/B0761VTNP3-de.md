@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Steckdosenleiste ist auf eine Maximalleistung von 4.000W und 16A ausgelegt und für alle Stecker im Hausgebrauch (Schuko & Eurostecker) geeignet
 - Praktische Steckdosenleiste mit 5 Steckplätzen und 3 intelligenten USB Ladeanschlüssen mit max. 4.8A (24 W) sowie dezent leuchtenden Status LEDs
+- Die Steckdosenleiste ist auf eine Maximalleistung von 4.000W und 16A ausgelegt und für alle Stecker im Hausgebrauch (Schuko & Eurostecker) geeignet
 - 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
 - TÜV- & GS geprüfte Sicherheit: Integrierte Schutzfunktionen (Überspannungs-, Kurschluss- und erhöhter Berührungsschutz) sorgen für maximale Sicherheit zu Hause
 

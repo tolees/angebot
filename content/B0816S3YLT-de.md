@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kamera sonstiges Zubehör
-- 4 x CREE XP-G3 S3 LED
-- L-förmige Stirnlampe
 - Inklusive 1 x 21700 Li-Ion Akku
+- Kamera sonstiges Zubehör
+- L-förmige Stirnlampe
+- 4 x CREE XP-G3 S3 LED
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0816S3YLT{{</world>}}

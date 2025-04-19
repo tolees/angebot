@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Pflegeleicht: Das aus hochwertigem Edelstahl gefertigte Dosiergerät lässt sich im Handumdrehen unkompliziert und mühelos von Hand abwaschen und kann genauso gut in der Spülmaschine gereinigt werden
+- RÖSLE Kaffeemaß: Hochwertiger Kaffeelöffel zum einfachen Dosieren von gemahlenen Kaffee - das Schöpfmaß ersetzt den klassischen Kaffeelöffel zum Abmessen des Kaffeepulvers und ermöglicht im Gegensatz zu unterschiedlich gehäuften Löffel ein exaktes und gleichbleibendes Ergebnis - ein Küchenhelfer für jeden Kaffee-Liebhaber
+- Das genormte Maß des Kaffeelots beträgt 7 Gramm Kaffeepulver auf einer Tasse Kaffee (ca. 125 Milliliter) - eine übliche und optimale Menge gemahlener Kaffee - ein gestrichener Tee-/Kaffeelöffel fasst in der Regel ca. 2 g Pulver, dadurch entspricht das RÖSLE Kaffemaß 3 bis 4 Tee-/Kaffeelöffel und das auf einmal
 - Das Kaffeemaß ist für eine einfache Handhabung mit einem ergonomischen Drahtgriff ausgestattet - damit kann es an Küchenleisten und oftmals auch an handelsüblichen Kaffeedosen aufbewahrt werden - ohne in überfüllten Schubladen unterzugehen
 - Länge 17,5 cm - Breite 3,7 cm - Höhe 2,5 cm - Grifflänge 10 cm - Funktionsteil Durchmesser 3,8 cm - Gewicht 35 g - Material Edelstahl 18/10, matt
-- Pflegeleicht: Das aus hochwertigem Edelstahl gefertigte Dosiergerät lässt sich im Handumdrehen unkompliziert und mühelos von Hand abwaschen und kann genauso gut in der Spülmaschine gereinigt werden
-- Das genormte Maß des Kaffeelots beträgt 7 Gramm Kaffeepulver auf einer Tasse Kaffee (ca. 125 Milliliter) - eine übliche und optimale Menge gemahlener Kaffee - ein gestrichener Tee-/Kaffeelöffel fasst in der Regel ca. 2 g Pulver, dadurch entspricht das RÖSLE Kaffemaß 3 bis 4 Tee-/Kaffeelöffel und das auf einmal
-- RÖSLE Kaffeemaß: Hochwertiger Kaffeelöffel zum einfachen Dosieren von gemahlenen Kaffee - das Schöpfmaß ersetzt den klassischen Kaffeelöffel zum Abmessen des Kaffeepulvers und ermöglicht im Gegensatz zu unterschiedlich gehäuften Löffel ein exaktes und gleichbleibendes Ergebnis - ein Küchenhelfer für jeden Kaffee-Liebhaber
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0000YOM1O{{</world>}}

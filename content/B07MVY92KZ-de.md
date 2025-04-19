@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Direktantrieb, Gleichstrom-Servomotor
 - Abspielgeschwindigkeit umschaltbar: 33, 45 und 78 U/min
+- Dynamische Anti-Skating-Einstellung
 - Professioneller, resonanzarmer Aluminiumdruckguss-Plattenteller mit Filzmatte
 - USB-Funktion: kompatibel mit USB 1.1 Windows 7 oder höher oder MAC OSX oder höher
-- Dynamische Anti-Skating-Einstellung
-- Direktantrieb, Gleichstrom-Servomotor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07MVY92KZ{{</world>}}

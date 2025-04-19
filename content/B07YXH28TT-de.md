@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausziehmechanismus für besonders kleine transportabmessungen
-- Tele-zoomobjektiv für die NIKON Z50
-- Konfigurierbarer Einstellring
 - Integrierte Bildstabilisierung
 - Leise Scharfstellung dank Schrittmotor
+- Tele-zoomobjektiv für die NIKON Z50
+- Ausziehmechanismus für besonders kleine transportabmessungen
+- Konfigurierbarer Einstellring
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07YXH28TT{{</world>}}

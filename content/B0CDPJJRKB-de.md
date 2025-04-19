@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- RUNDUMSICHT: Die 360° Schwenk- und Neigefunktion gewährleistet einen lückenlosen Überblick über dein Zuhause. Keine versteckten Ecken mehr - ideal auch als Kamera für Hund oder Katze.
-- HERVORRAGENDE NACHTSICHT: Mit einer Blende von f/1.6 und 2 leistungsstarke Infrarot-LED-Leuchten sind Gesichter bis zu 10m entfernt auch bei wenig Licht deutlich erkennbar. *Es wurde eine RTSP-Unterstützung für NAS-Speicher hinzugefügt. Um darauf zugreifen zu können, musst du die eufy Security App auf die neueste Version aktualisieren und die Firmware-Version der Indoor Cam S350 auf Version 1.3.2.8 oder eine spätere aktualisieren.
-- HERAUSRAGENDE BILDSCHÄRFE: Die Innenkamera mit zwei Kameras und 4K UHD liefert scharfe, detaillierte Bilder deines Zuhauses. Alles Wichtige ist klar und deutlich sichtbar.
-- BEEINDRUCKENDE ZOOM-MÖGLICHKEITEN: 4K-Weitwinkel und 2K-Telekamera ermöglichen herausragenden 8× Hybridzoom.
 - INTELLIGENTE ZIELVERFOLGUNG: Dank eufy Securitys eigenem Algorithmus behält die Kamera mit KI-Unterstützung Familienmitglieder oder Haustiere stets im Blick. *Die Indoor Cam S350 ist voll kompatibel mit HomeBase 3, wenn du die Firmware-Version 3.3.2.6 oder eine spätere verwendest. Sie ist allerdings nicht kompatibel mit HomeBase 2. *HomeKit wird nicht unterstützt.
+- RUNDUMSICHT: Die 360° Schwenk- und Neigefunktion gewährleistet einen lückenlosen Überblick über dein Zuhause. Keine versteckten Ecken mehr - ideal auch als Kamera für Hund oder Katze.
+- BEEINDRUCKENDE ZOOM-MÖGLICHKEITEN: 4K-Weitwinkel und 2K-Telekamera ermöglichen herausragenden 8× Hybridzoom.
+- HERAUSRAGENDE BILDSCHÄRFE: Die Innenkamera mit zwei Kameras und 4K UHD liefert scharfe, detaillierte Bilder deines Zuhauses. Alles Wichtige ist klar und deutlich sichtbar.
+- HERVORRAGENDE NACHTSICHT: Mit einer Blende von f/1.6 und 2 leistungsstarke Infrarot-LED-Leuchten sind Gesichter bis zu 10m entfernt auch bei wenig Licht deutlich erkennbar. *Es wurde eine RTSP-Unterstützung für NAS-Speicher hinzugefügt. Um darauf zugreifen zu können, musst du die eufy Security App auf die neueste Version aktualisieren und die Firmware-Version der Indoor Cam S350 auf Version 1.3.2.8 oder eine spätere aktualisieren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CDPJJRKB{{</world>}}

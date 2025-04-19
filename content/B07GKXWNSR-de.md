@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- atmungsaktiv
 - 95% Polyester, 5% Elasthan
-- Marke: BUFF
-- wasserabweisend
+- atmungsaktiv
 - Es reguliert das Mikroklima, wirkt geruchshemmend und ist von Natur aus dehnbar.
+- wasserabweisend
+- Marke: BUFF
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07GKXWNSR{{</world>}}

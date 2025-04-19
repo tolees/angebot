@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intelligente Ladeelektronik: Optimierung des Ladestroms an das angeschlossene Endgerät
-- Dezentes und ansprechendes Design: bündig zu den Rahmen der Jung Serie A
-- Für den Einbau ist eine tiefe Schalterdose erforderlich
 - Standardmäßig mit integrierten erhöhten Berührungsschutz (KI)
 - Kombination von Steckdose und USB-Ladegerät - Parallele Nutzung in einem Gerät: Sind mehrere Verbraucher angeschlossen, teilt sich der Ladestrom von 3 Ampere (15 Watt) gleichmäßig auf 1,5 Ampere pro USB-Buchse auf – die optimale 3-in-1-Lösung.
+- Intelligente Ladeelektronik: Optimierung des Ladestroms an das angeschlossene Endgerät
+- Für den Einbau ist eine tiefe Schalterdose erforderlich
+- Dezentes und ansprechendes Design: bündig zu den Rahmen der Jung Serie A
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B088T3NCF8{{</world>}}
