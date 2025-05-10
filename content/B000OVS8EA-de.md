@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbintensiver Lippenstift mit Satin Finish und 75% pflegenden Inhaltsstoffen für eine einzigartige Kombination aus Lippenfarbe und Lippenpflege
-- Lieferumfang: 1x LOréal Paris Color Riche Satin Lippenstift, Farbe: Nr. 303 Rose Tendre, Inhalt: 4,3 g
 - Anwendung: Auftragen des Lippenstifts zunächst auf der Oberlippe von innen nach außen, Danach Ausfüllen der Unterlippe
 - Ergebnis: Wunderschön geschminkte und gepflegte Lippen mit seidigem Finish, Bis zu 12 Stunden Feuchtigkeit
+- Lieferumfang: 1x LOréal Paris Color Riche Satin Lippenstift, Farbe: Nr. 303 Rose Tendre, Inhalt: 4,3 g
+- Farbintensiver Lippenstift mit Satin Finish und 75% pflegenden Inhaltsstoffen für eine einzigartige Kombination aus Lippenfarbe und Lippenpflege
 - Cremige Formel angereichert mit Bienenwachs, Vitamin E und Argan-Öl, Ohne Verschmieren oder Verlaufen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
