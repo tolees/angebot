@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optischer CORSAIR MARKSMAN-Sensor mit 26.000 dpi: Mit unglaublichen 26.000 dpi und 650 IPS-Tracking bei bis zu 50 G Beschleunigung erfasst der MARKSMAN-Sensor präzise jede Mausbewegung.
+- Ikonisches Aluminiumgehäuse: Das Gehäuse der M65 RGB ULTRA aus eloxiertem Aluminium garantiert Langlebigkeit in vertrautem Design.
 - CORSAIR AXON Hyper-Processing-Technologie: Registriert und überträgt Ihre Bewegungen und Klicks mit einer Hyper-Polling-Rate von 8.000 Hz bis zu achtmal schneller als konventionelle Gaming-Mäuse.
+- Optischer CORSAIR MARKSMAN-Sensor mit 26.000 dpi: Mit unglaublichen 26.000 dpi und 650 IPS-Tracking bei bis zu 50 G Beschleunigung erfasst der MARKSMAN-Sensor präzise jede Mausbewegung.
 - Optische Schalter: Die Schalter liefern eine hyperschnelle, hochpräzise Reaktion und halten jahrelangem, hartem Einsatz stand – mit garantierten 70 Millionen Klicks.
 - Anpassbares Gewichtssystem: Mit den im Lieferumfang enthaltenen sechs Gewichten können Sie den Schwerpunkt und das Gewicht der M65 RGB ULTRA von 97 g bis 115 g variieren.
 - Sensor-Fusion-Steuerung: Die Kombination aus 6-Achs-Gyro-Sensor und Beschleunigungssensor ermöglicht eine ultraniedrige Lift-off-Distance für genaueres Tracking, wenn Sie Ihre Maus neu positionieren.
-- Ikonisches Aluminiumgehäuse: Das Gehäuse der M65 RGB ULTRA aus eloxiertem Aluminium garantiert Langlebigkeit in vertrautem Design.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09JZTJHYG{{</world>}}

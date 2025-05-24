@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1 x Kaninchen-Kissen.
-- 1 Bett.
-- 1 x Figur Baby Kaninchen Schokolade
 - Eines der Must-Haves aus dem Hause Sylvanian - das Kinderbett.
+- 1 Bett.
+- 1 x Kaninchen-Kissen.
+- 1 x Figur Baby Kaninchen Schokolade
 - 1 x Decke.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

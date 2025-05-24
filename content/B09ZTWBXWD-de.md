@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【80W SuperDart-Aufladung】Mit dem im Lieferumfang enthaltenen 80 W SuperDart-Ladegerät kannst du in nur 12 Minuten von 0 auf 50 % aufladen.
-- Eigener Anzeige-Prozessor Durchgängig flüssiges Spielerlebnis sowie effektiv und effizient
-- 【Sony IMX766 OIS-Kamera】Durch das 4-in-1-Binning werden die Pixel in 2,0-µm-Superpixel umgewandelt, wodurch im Vergleich zum Sony IMX586 63,8 % mehr Licht erfasst werden kann. Mehr Licht und mehr Bildinformationen bedeuten bessere Fotoqualität.
-- 【Rennstreifen-Design】Die Rückseite des GT NEO 3 ist aus einem Stück mattiertem AG-Glas mit einer schönen Kontur geschnitzt. Die glatte, veredelte Oberfläche reduziert Blendeffekte und minimiert Fingerabdrücke, so dass das Telefon eine glatte und komfortable Konstruktion aufweist.
-- 【Dimensity 8100 5G-Prozessor】CPU：5 nm-Prozess, Achtkern, 4x Cortex-A78 bei 2,85 Ghz GPUMali-G610 MC6
-- 【Eigener Anzeige-Prozessor】Durchgängig flüssiges Spielerlebnis sowie effektiv und effizient
-- Dimensity 8100 5G-Prozessor CPU 5 nm-Prozess, Achtkern, 4x Cortex-A78 bei 2,85 Ghz GPUMali-G610 MC6
-- Sony IMX766 OIS-Kamera Durch das 4-in-1-Binning werden die Pixel in 2,0- m-Superpixel umgewandelt, wodurch im Vergleich zum Sony IMX586 63,8 percent mehr Licht erfasst werden kann. Mehr Licht und mehr Bildinformationen bedeuten bessere Fotoqualität.
 - 80W SuperDart-Aufladung Mit dem im Lieferumfang enthaltenen 80 W SuperDart-Ladegerät kannst du in nur 12 Minuten von 0 auf 50 percent aufladen.
 - Rennstreifen-Design Die Rückseite des GT NEO 3 ist aus einem Stück mattiertem AG-Glas mit einer schönen Kontur geschnitzt. Die glatte, veredelte Oberfläche reduziert Blendeffekte und minimiert Fingerabdrücke, so dass das Telefon eine glatte und komfortable Konstruktion aufweist.
+- 【Sony IMX766 OIS-Kamera】Durch das 4-in-1-Binning werden die Pixel in 2,0-µm-Superpixel umgewandelt, wodurch im Vergleich zum Sony IMX586 63,8 % mehr Licht erfasst werden kann. Mehr Licht und mehr Bildinformationen bedeuten bessere Fotoqualität.
+- Sony IMX766 OIS-Kamera Durch das 4-in-1-Binning werden die Pixel in 2,0- m-Superpixel umgewandelt, wodurch im Vergleich zum Sony IMX586 63,8 percent mehr Licht erfasst werden kann. Mehr Licht und mehr Bildinformationen bedeuten bessere Fotoqualität.
+- 【Rennstreifen-Design】Die Rückseite des GT NEO 3 ist aus einem Stück mattiertem AG-Glas mit einer schönen Kontur geschnitzt. Die glatte, veredelte Oberfläche reduziert Blendeffekte und minimiert Fingerabdrücke, so dass das Telefon eine glatte und komfortable Konstruktion aufweist.
+- Dimensity 8100 5G-Prozessor CPU 5 nm-Prozess, Achtkern, 4x Cortex-A78 bei 2,85 Ghz GPUMali-G610 MC6
+- 【Dimensity 8100 5G-Prozessor】CPU：5 nm-Prozess, Achtkern, 4x Cortex-A78 bei 2,85 Ghz GPUMali-G610 MC6
+- 【Eigener Anzeige-Prozessor】Durchgängig flüssiges Spielerlebnis sowie effektiv und effizient
+- 【80W SuperDart-Aufladung】Mit dem im Lieferumfang enthaltenen 80 W SuperDart-Ladegerät kannst du in nur 12 Minuten von 0 auf 50 % aufladen.
+- Eigener Anzeige-Prozessor Durchgängig flüssiges Spielerlebnis sowie effektiv und effizient
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09ZTWBXWD{{</world>}}

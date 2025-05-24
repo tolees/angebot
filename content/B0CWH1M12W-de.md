@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schritt-für-Schritt-Anleitung: Bauanleitungen findest du sowohl in der LEGO Builder App als auch in der beiliegenden Broschüre, die zudem die Geschichte der Kathedrale sowie ein Interview mit dem LEGO Designer dieses Modells enthält
 - Vatertagsgeschenk: Das Pariser Wahrzeichen aus LEGO Steinen ist ein tolles Modell zum Sammeln und Ausstellen; ein cooles Geschenk für Papa, für Eltern, Geschwister
-- Detailgetreues Modell der Kathedrale Notre-Dame: Bewundere die Rosenfenster, nimm das Dach ab, um die Pfeiler und Bögen im Inneren zu bestaunen, und entferne die Türme, um ins Modell hineinzuschauen
+- Notre-Dame de Paris – Modell eines architektonischen Meisterwerks: Dieses LEGO Architecture Bauset für Erwachsene lässt dich jede Bau- und Restaurierungsphase des legendären Pariser Wahrzeichens durchleben
+- LEGO Sets für Erwachsene: Dieses Modell aus der LEGO Architecture Landmarks Collection gehört zu einer ganzen Reihe von Premium-Bausets für Erwachsene wie dich, die sich gern kreativ betätigen
 - Pariser Charme für dein Zuhause: Platziere baubare Bäume entlang einer Seite der Kathedrale und befestige das Namensschild vor oder neben dem Gebäude am Sockel
 - Geschenk für alle, die Geschichte, Reisen und Kunst lieben – und ein tolles Andenken an Paris: Dein Bauprojekt folgt der tatsächlichen Entstehungsgeschichte der Kathedrale. Alles beginnt mit der runden hinteren Mauer und gipfelt im Vierlingsturm
-- LEGO Sets für Erwachsene: Dieses Modell aus der LEGO Architecture Landmarks Collection gehört zu einer ganzen Reihe von Premium-Bausets für Erwachsene wie dich, die sich gern kreativ betätigen
-- Notre-Dame de Paris – Modell eines architektonischen Meisterwerks: Dieses LEGO Architecture Bauset für Erwachsene lässt dich jede Bau- und Restaurierungsphase des legendären Pariser Wahrzeichens durchleben
-- Schritt-für-Schritt-Anleitung: Bauanleitungen findest du sowohl in der LEGO Builder App als auch in der beiliegenden Broschüre, die zudem die Geschichte der Kathedrale sowie ein Interview mit dem LEGO Designer dieses Modells enthält
+- Detailgetreues Modell der Kathedrale Notre-Dame: Bewundere die Rosenfenster, nimm das Dach ab, um die Pfeiler und Bögen im Inneren zu bestaunen, und entferne die Türme, um ins Modell hineinzuschauen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CWH1M12W{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt.
-- Für eine gründliche Reinigung und eine lang anhaltende, wasser- und schmutzabweisende Konservierung
-- Die perfekte Pflege auch für Fahrzeuge mit Keramikversiegelungen
 - Lieferumfang: 1x SONAX 02592000 XTREME Ceramic Active Shampoo (500 ml)
+- SONAX Autopflegeprodukte - Made in Germany - Damit glänzt, was uns bewegt.
+- Die perfekte Pflege auch für Fahrzeuge mit Keramikversiegelungen
+- Für eine gründliche Reinigung und eine lang anhaltende, wasser- und schmutzabweisende Konservierung
 - Das Pflegeshampoo mit Versiegelungseffekt
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Gummi
-- Innenmaterial: Synthetic
 - Obermaterial: Leder
+- Innenmaterial: Synthetic
+- Verschluss: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00DY2TQQU{{</world>}}

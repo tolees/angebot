@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das letzte Einhorn 3D
 - Das letzte Einhorn 3D (3D)
+- Das letzte Einhorn 3D
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0094M6DTC{{</world>}}

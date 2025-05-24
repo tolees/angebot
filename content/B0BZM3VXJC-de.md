@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6,6” Display
 - Ausdauernder Akku
+- 6,6” Display
 - Octa-Core- Prozessor
 - Halte ihre Lieblingsmomente fest. Die 50 MP-Hauptkamera fängt grossartige Landschaften ein
 
