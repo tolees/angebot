@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochpigmentierter Lippenstift
 - Feuchtigkeitsspendend und Pflegend
+- Hochpigmentierter Lippenstift
 - Langanhaltende
 
 [🛒 Hier!!]({{< param buyurl >}})

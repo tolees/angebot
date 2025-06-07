@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 % Baumwolle
 - Kurze Ärmel
 - Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
 - Rundhalsausschnitt
+- 100 % Baumwolle
 - PUMA Cat Logo in Brusthöhe rechts
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

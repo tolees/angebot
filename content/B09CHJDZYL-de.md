@@ -30,12 +30,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die Minor III sind zu 100 % kabellos und bieten Ihnen absolute Hörfreiheit bei gleichbleibender Audioleistung
 - Befolgen Sie die nachstehenden Anweisungen, um das Gehäuse mit einem kabellosen Ladegerät aufzuladen. 1. Legen Sie das Ladeetui mit der Rückseite flach gegen das kabellose Ladepad. 2. Stellen Sie sicher, dass die vordere LED aufleuchtet, um anzuzeigen, dass das Gehäuse aufgeladen wird. 3. Sobald die LED-Anzeige durchgehend grün leuchtet, ist das Gehäuse vollständig aufgeladen. LED-ANZEIGE: Die LED zeigt den Akkuladestand des Gehäuses an, von Rot über Gelb bis Grün (0–100 %). Im Bluetooth-Pairing-Modus blinkt es blau
-- Verwenden Sie ein kabelloses Ladegerät oder schließen Sie das Gehäuse an eine USB-Stromquelle an, um es aufzuladen. Das Gehäuse ist vollständig aufgeladen, wenn die vordere LED durchgehend grün leuchtet
+- Um die Ohrhörer auf die Werkseinstellungen zurückzusetzen, halten Sie die Bluetooth-Kopplungstaste 10 Sekunden lang gedrückt, bis die LED violett leuchtet.
+- Verbinden und zuhören – Nehmen Sie Ihre Musik und gehen Sie Ihrem Geschäft nach
+- Die Minor III haben eine Spielzeit von bis zu 5 Stunden mit einer einzigen Aufladung. Sie können Ihre Ohrstöpsel bis zu 4 Mal in einem vollständig geladenen Gehäuse aufladen.
 - Dieses Produkt wurde entwickelt, um eine einfache und reibungslose Benutzererfahrung zu bieten - der Schwerpunkt liegt auf Benutzerfreundlichkeit und einem großartigen Klangerlebnis.
 - Minor III bietet insgesamt 25 Stunden kabellose Spielzeit, die Sie in Bewegung hält. Und Sie können das Ladeetui ganz einfach kabellos oder über ein USB-C-Kabel aufladen
-- Um die Ohrhörer auf die Werkseinstellungen zurückzusetzen, halten Sie die Bluetooth-Kopplungstaste 10 Sekunden lang gedrückt, bis die LED violett leuchtet.
-- Die Minor III haben eine Spielzeit von bis zu 5 Stunden mit einer einzigen Aufladung. Sie können Ihre Ohrstöpsel bis zu 4 Mal in einem vollständig geladenen Gehäuse aufladen.
-- Verbinden und zuhören – Nehmen Sie Ihre Musik und gehen Sie Ihrem Geschäft nach
+- Verwenden Sie ein kabelloses Ladegerät oder schließen Sie das Gehäuse an eine USB-Stromquelle an, um es aufzuladen. Das Gehäuse ist vollständig aufgeladen, wenn die vordere LED durchgehend grün leuchtet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09CHJDZYL{{</world>}}

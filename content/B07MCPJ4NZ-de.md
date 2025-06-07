@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die spezielle Bürste umhüllt die Wimpern ideal, ohne zu verklumpen
-- Definiert die Wimpern ideal
-- Sorgt für einen glamourösen Augenaufschlag, indem sie den Wimpern 50 % mehr Volumen verleiht
-- Angereichert mit schwarzen Mineralpigmenten
 - Lang anhaltende Bourjois Ultra-Black Mascara
+- Definiert die Wimpern ideal
+- Angereichert mit schwarzen Mineralpigmenten
+- Sorgt für einen glamourösen Augenaufschlag, indem sie den Wimpern 50 % mehr Volumen verleiht
+- Die spezielle Bürste umhüllt die Wimpern ideal, ohne zu verklumpen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07MCPJ4NZ{{</world>}}

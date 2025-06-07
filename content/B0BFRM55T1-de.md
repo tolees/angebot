@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch die raffinierte Mischung feiner ätherischer Öle von mediterranen Kräutern wie Zitronenthymian und Rosmarin von der Mittelmeerküste, entsteht unser delikates Mediterranean Tonic Water mit floraler Note.
 - FEVER-TREE verwendet das weltweit feinste natürliche Chinin. Es ist der entscheidende Bitterstoff im Tonic und wird aus der Rinde des »Fever-Tree« gewonnen.
-- Ätherische Öle von Blüten, Früchten und Kräutern, wie Zitronenthymian und Rosmarin von der Mittelmeerküste und hochwertigstes Chinin aus der demokratischen Republik Kongo, verbinden sich zu einer harmonischen Aromakomposition. Das Ergebnis ist ein einzigartig zartes und blumiges Tonic Water, das zunächst zum mixen mit Premium- Wodkasorten angedacht war, allerdings auch hervorragend zu Ginvarianten mit Zitrus- und Kräuternote passt. Der hohe feinperlige Kohlensäuregehalt sorgt für eine lang anhaltende Frische in deinem Gin & Tonic oder Vodka & Tonic.
-- 24 Dosen FEVER-TREE Mediterranean Tonic Water. 150ml Portionsgrösse für den perfekten Drink.
 - Geschmack und Qualität der gesamten Produktlinie sind außergewöhnlich, denn für Fever-Tree steht fest: in einen Premium Mixer gehören keine künstlichen Aroma-, Süß- oder Konservierungsstoffe.
+- Ätherische Öle von Blüten, Früchten und Kräutern, wie Zitronenthymian und Rosmarin von der Mittelmeerküste und hochwertigstes Chinin aus der demokratischen Republik Kongo, verbinden sich zu einer harmonischen Aromakomposition. Das Ergebnis ist ein einzigartig zartes und blumiges Tonic Water, das zunächst zum mixen mit Premium- Wodkasorten angedacht war, allerdings auch hervorragend zu Ginvarianten mit Zitrus- und Kräuternote passt. Der hohe feinperlige Kohlensäuregehalt sorgt für eine lang anhaltende Frische in deinem Gin & Tonic oder Vodka & Tonic.
+- Durch die raffinierte Mischung feiner ätherischer Öle von mediterranen Kräutern wie Zitronenthymian und Rosmarin von der Mittelmeerküste, entsteht unser delikates Mediterranean Tonic Water mit floraler Note.
+- 24 Dosen FEVER-TREE Mediterranean Tonic Water. 150ml Portionsgrösse für den perfekten Drink.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BFRM55T1{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausdauernder Akku
 - 6,6” Display
-- Halte ihre Lieblingsmomente fest. Die 50 MP-Hauptkamera fängt grossartige Landschaften ein
 - Octa-Core- Prozessor
+- Ausdauernder Akku
+- Halte ihre Lieblingsmomente fest. Die 50 MP-Hauptkamera fängt grossartige Landschaften ein
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BZM3VXJC{{</world>}}
