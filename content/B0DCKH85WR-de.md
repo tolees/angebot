@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Dual Arm Cortex-M33 oder Dual RISC-V Hazard3 Prozessoren bei 150 MHz CPU
 - 520 KB On-Chip SRAM; 4 MB On-Board QSPI Flash
+- 21 mm × 51 mm
 - 26 Mehrzweck-GPIO-Pins, darunter 4, die für ADC verwendet werden können
 - 2 × UART, 2 × SPI-Controller, 2 × I2C-Controller, 24 × PWM-Kanäle, 1 × USB 1.1-Controller und PHY, mit Host- und Geräteunterstützung, 12 × PIO-State-Maschinen
-- Dual Arm Cortex-M33 oder Dual RISC-V Hazard3 Prozessoren bei 150 MHz CPU
-- 21 mm × 51 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DCKH85WR{{</world>}}

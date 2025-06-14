@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feuchtigkeitsspendend und Pflegend
 - Langanhaltende
 - Hochpigmentierter Lippenstift
+- Feuchtigkeitsspendend und Pflegend
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07PSPR2F1{{</world>}}

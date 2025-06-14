@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Packung die Größe: 8.4 L x 10.4 H x 10.3 W (cm)
 - Serie Expert Vitamino Color Maske
+- Packung die Größe: 8.4 L x 10.4 H x 10.3 W (cm)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B097BFNGBL{{</world>}}

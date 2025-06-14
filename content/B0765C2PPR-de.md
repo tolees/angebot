@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Benutze die Startkatapulte an der Startlinie, um die Mädchen in ihren Gokarts losbrausen zu lassen!
-- Das Renngebäude ist 25 cm hoch, 12 cm breit und 9 cm tief.
-- Enthält die Spielfiguren Stephanie, Mia und Vicky im Renn-Outfit mit Helm sowie die Katze Vega, den Hund Dash und das Kaninchen Twister als weitere Figuren.
-- Lässt sich mit den Sets 41348 Abschleppwagen, 41349 Burgerladen und 41351 Tuning-Werkstatt kombinieren, um jede Menge LEGO Friends Rennspaß mit den Gokarts zu erleben!
 - Setz die Tiere in die VIP-Lounge, die einen tollen Blick auf die Rennstrecke bietet.
+- Enthält die Spielfiguren Stephanie, Mia und Vicky im Renn-Outfit mit Helm sowie die Katze Vega, den Hund Dash und das Kaninchen Twister als weitere Figuren.
+- Das Renngebäude ist 25 cm hoch, 12 cm breit und 9 cm tief.
+- Lässt sich mit den Sets 41348 Abschleppwagen, 41349 Burgerladen und 41351 Tuning-Werkstatt kombinieren, um jede Menge LEGO Friends Rennspaß mit den Gokarts zu erleben!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0765C2PPR{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 12 Stifte
 - metallgefasste, formstabile Schreibspitze für Strichstärken von 0, 8 - 2, 0mm
 - Pentel Sign Pen Faserschreiber: der Profi unter den Faserschreibern
-- Lieferumfang: 12 Stifte
 - beliebt bei Grafikern und Künstlern für Skizzen, Zeichnungen, Illustrationen und vielem mehr
 - in 12 Farben erhältlich
 

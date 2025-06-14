@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - T-Shirt
 - Baumwolle
-- Print
 - bequem
+- Print
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B079BNC8DV{{</world>}}

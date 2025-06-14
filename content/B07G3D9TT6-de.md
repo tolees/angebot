@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klappe die Motorhaube hoch, um den Motor zum Vorschein zu bringen.
-- Schiebe die Fahrertür auf, um in die detailgetreue Fahrerkabine mit der Panorama-Windschutzscheibe zu gelangen.
-- Zu den Details im Unterdeck zählen die „abgenutzten“ Sitze sowie der offene Heckeinstieg mit Haltestange, Papierkorb für entwertete Fahrkarten, Feuerlöscher und Halbwendeltreppe zum Aussichtsdeck. Für noch mehr Authentizität sorgen die zurückgelassenen Sachen, wie zum Beispiel ein vergessener Regenschirm, eine Zeitung, eine leere Getränkedose und ein weggeworfener Kaugummi.
-- Dieses Modell enthält mehr als 1.680 Teile.
-- Nimm das Dach und das Oberdeck ab, um freien Zugang zum detailgetreuen Unterdeck zu erhalten.
 - Mit den beidseitig bedruckten Werbepostern im Stil der 1950er-Jahre bzw. mit Werbung für das heutige London kannst du den Bus die gewünschte nostalgische oder moderne Note verleihen.
+- Zu den Details im Unterdeck zählen die „abgenutzten“ Sitze sowie der offene Heckeinstieg mit Haltestange, Papierkorb für entwertete Fahrkarten, Feuerlöscher und Halbwendeltreppe zum Aussichtsdeck. Für noch mehr Authentizität sorgen die zurückgelassenen Sachen, wie zum Beispiel ein vergessener Regenschirm, eine Zeitung, eine leere Getränkedose und ein weggeworfener Kaugummi.
+- Nimm das Dach und das Oberdeck ab, um freien Zugang zum detailgetreuen Unterdeck zu erhalten.
 - Zu den speziellen Elementen, die im August 2017 neu herauskommen, zählen ein Reifen mit Standardprofil, Viertelbögen und Bögen in Rot und 1x1x1-A2/3-Steine mit senkrechten Noppen.
+- Schiebe die Fahrertür auf, um in die detailgetreue Fahrerkabine mit der Panorama-Windschutzscheibe zu gelangen.
 - Der Londoner Bus besitzt verschiedene aus Steinen gebaute Ausstattungsmerkmale und Details. Hierzu zählen auch die großen Fenster, die leuchtend rote Karosserie mit den typischen Rundungen, die Panorama-Windschutzscheibe, die doppelseitigen Werbeposter, die als bedruckte Etiketten beiliegen, sowie die speziell angefertigten Profilreifen und ein Schild mit dem Fahrziel. Das Modell verfügt außerdem über eine aufklappbare Motorhaube mit Motor und eine detailgetreue Fahrerkabine mit Schiebetür. Dach und Oberdeck lassen sich abnehmen, um Zugang zum detailreichen Unterdeck zu bieten.
+- Klappe die Motorhaube hoch, um den Motor zum Vorschein zu bringen.
+- Dieses Modell enthält mehr als 1.680 Teile.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07G3D9TT6{{</world>}}

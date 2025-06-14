@@ -29,14 +29,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Timer - Erstellen Sie zeitliche Pläne für angeschlossene Elektronik
-- Abwesenheitsmodus - Schalten Sie Ihre Lichter zu unterschiedlichsten Zeiten an und aus um die Anwesenheit einer Person zu simulieren
 - Zugriff auch von unterwegs - Steuern Sie alle Geräte bequem über das Smartphone, überall und zu jeder Zeit
-- Sprachsteuerung - Aktivieren Sie Ihre smarte Steckdose mit Sprachbefehlen über Amazon Alexa oder den Google Assistant
-- Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
-- Einfache Einrichtung und Verwendung - Schnelle und einfache tägliche Einrichtung und Verwaltung über kostenlose App (kostenfrei für IOs und Android)
-- Energieverbrauchskontrolle - Analysieren Sie den Echtzeit- und den historischen Stromverbrauch des angeschlossenen Geräts
-- Lieferumfang: Tapo P110 (nur auf 2.4GHz), Schnellinstallationsanleitung
 - Die Größe des Produkts ist mit Stecker: 72 mm * 51 mm * 77 mm ohne Stecker 72 mm * 51 mm * 40 mm.
+- Lieferumfang: Tapo P110 (nur auf 2.4GHz), Schnellinstallationsanleitung
+- Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
+- Abwesenheitsmodus - Schalten Sie Ihre Lichter zu unterschiedlichsten Zeiten an und aus um die Anwesenheit einer Person zu simulieren
+- Energieverbrauchskontrolle - Analysieren Sie den Echtzeit- und den historischen Stromverbrauch des angeschlossenen Geräts
+- Sprachsteuerung - Aktivieren Sie Ihre smarte Steckdose mit Sprachbefehlen über Amazon Alexa oder den Google Assistant
+- Einfache Einrichtung und Verwendung - Schnelle und einfache tägliche Einrichtung und Verwaltung über kostenlose App (kostenfrei für IOs und Android)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09BFT7NZJ{{</world>}}

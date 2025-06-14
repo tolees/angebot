@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Serie Expert Pro Mask
 - Packungage die Größe: 8.4 L x 10.9 H x 10.2 W (cm)
+- Serie Expert Pro Mask
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B096VL87GF{{</world>}}
