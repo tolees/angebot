@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abgesteppter Saum/Kante
-- Weicher Griff
-- Necktape
 - Gerader Saum
 - Bündchen-/Rippstrick-Kragen
+- Necktape
+- Abgesteppter Saum/Kante
+- Weicher Griff
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B321GHP7{{</world>}}

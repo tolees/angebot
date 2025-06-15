@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Raspberry Pi Standard 40 Pin GPIO Header (voll abwärtskompatibel mit früheren Boards)
-- Broadcom BCM2711, Quad Core Cortex-A72 (ARM v8) 64-Bit SoC @ 1,5 GHz
-- 2 USB 3.0 Ports; 2 USB 2.0 Ports.
 - 1 GB, 2 GB, 4 GB oder 8 GB LPDDR4-3200 SDRAM (je nach Modell)
+- Broadcom BCM2711, Quad Core Cortex-A72 (ARM v8) 64-Bit SoC @ 1,5 GHz
 - 2,4 GHz und 5,0 GHz IEEE 802.11ac Wireless, Bluetooth 5.0, BLE Gigabit Ethernet
+- 2 USB 3.0 Ports; 2 USB 2.0 Ports.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TTNF8BT{{</world>}}

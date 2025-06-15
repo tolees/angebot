@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
 - SDSQXAH-064G-GN6MA
+- Langlebig
 - Hochwertige Material
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Flexibilität
 - Dämpfungssystem
-- Riemenart: Mary-Jane
 - Strapazierfähigkeit
+- Riemenart: Mary-Jane
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B079JXLZXG{{</world>}}

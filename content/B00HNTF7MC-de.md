@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Beutellose 2-stufige Stofffiltration
-- Schnellere Schmutzentsorgung
 - Ideal zum Hinzufügen zu einem vorhandenen 18-V-LXT-Kit. Nicht kompatibel mit Batterien der G-Serie
-- Abgewinkelter Sauganschluss
+- Schnellere Schmutzentsorgung
 - Filter und Vorfilter waschbar
+- Abgewinkelter Sauganschluss
+- Beutellose 2-stufige Stofffiltration
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00HNTF7MC{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bauset mit beweglicher Schiggy-Figur (Größe ca. 10cm)
 - Mit für Wasser-Pokémon typischen Kampfeffekt-Details
 - Dieses Bauspielzeug eignet sich perfekt für Kinder ab 8 Jahren, regt die Fantasie an und trainiert ihre Problemlösungskompetenz.
 - Die 199 Bausteine und Teile sind mit allen Bausets von MEGA und anderen Marken kompatibel.
-- Bauset mit beweglicher Schiggy-Figur (Größe ca. 10cm)
 - Mit zusätzlichem Tauchball
 
 [🛒 Hier!!]({{< param buyurl >}})
