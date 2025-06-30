@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Experimentelles Zubehör: Das Kart bietet Platz für eine PLAYMOBIL-Figur und kommt mit spannenden Zubehörteilen wie einem Schild und zwei Laborgläsern. Der Strahlenantrieb und die futuristische Karosserie machen jedes Rennen zu einer Sensation!
 - Lieferumfang: 40-teiliges Spielfiguren-Set mit Anleitung: 1 Figur, 39 Zubehörteile, Material: Kunststoff, LxTxH: ca. 24,8 x 14,2 x 7 cm, Gewicht: 260 g, 71633
+- Experimentelles Zubehör: Das Kart bietet Platz für eine PLAYMOBIL-Figur und kommt mit spannenden Zubehörteilen wie einem Schild und zwei Laborgläsern. Der Strahlenantrieb und die futuristische Karosserie machen jedes Rennen zu einer Sensation!
 - Spielfiguren-Set für Kinder ab 4 Jahren: optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Wissenschafts-Rennen: Der verrückte Professor startet durch! In seinem Kart, ausgestattet mit Rückzugsmotor, brodelnden Reagenzgläsern und elektrischen Apparaturen, erlebt er aufregende Rennen, umgeht Hindernisse und führt verrückte Stunts aus
 - Täglich bespielbar: hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel

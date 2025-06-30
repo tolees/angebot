@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ziel geschlecht: unisex
 - PLAYMOBIL Wonderful Planet Riesenschildkröten-Figuren-Set
 - Neu in ungeöffneter und versiegelter Originalverpackung
-- Ziel geschlecht: unisex
 - PLAYMOBIL Wonderful Planet Riesenschildkröten-Figuren-Set
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

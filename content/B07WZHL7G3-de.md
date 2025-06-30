@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kitaro Kousaka
 - DVD
 - 95
-- Kitaro Kousaka
 - Deutsch, Japanisch
 
 [🛒 Hier!!]({{< param buyurl >}})

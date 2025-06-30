@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Filter und Vorfilter waschbar
 - Beutellose 2-stufige Stofffiltration
+- Filter und Vorfilter waschbar
 - Ideal zum Hinzufügen zu einem vorhandenen 18-V-LXT-Kit. Nicht kompatibel mit Batterien der G-Serie
 - Abgewinkelter Sauganschluss
 - Schnellere Schmutzentsorgung

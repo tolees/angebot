@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jedes Spiel verfügt über mehrere Fortsetzungspunkte. So kann man bequem dort weiterspielen, wo man aufgehört hat, ohne dafür ein Passwort zu benötigen.
 - Der Nintendo Classic Mini: NES-Controller kann auch zum Spielen von NES-Titeln für Virtual Console einer Wii U oder Wii genutzt werden.
-- Enthält einen Nintendo Classic Mini: NES-Controller, HDMI Kabel und USB Ladekabel.
+- Jedes Spiel verfügt über mehrere Fortsetzungspunkte. So kann man bequem dort weiterspielen, wo man aufgehört hat, ohne dafür ein Passwort zu benötigen.
 - Hinweis: Ein Netzteil für das USB-Kabel wird benötigt, um mit dem System spielen zu können. Es ist nicht im Lieferumfang enthalten.
 - Lässt sich per HDMI Kabel direkt an hochauflösende Fernsehgeräte anschließen.
+- Enthält einen Nintendo Classic Mini: NES-Controller, HDMI Kabel und USB Ladekabel.
 - Mit 30 bereits vorinstallierten Spielen.
 
 [🛒 Hier!!]({{< param buyurl >}})

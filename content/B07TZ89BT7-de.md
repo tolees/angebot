@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Eingangsbereich: 96-264 V.
 - Ausgangsanschluss: USB-C
-- Kurzschluss-, Überstrom- und Übertemperaturschutz.
 - Ausgang: 5,1 V.
+- Kurzschluss-, Überstrom- und Übertemperaturschutz.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TZ89BT7{{</world>}}

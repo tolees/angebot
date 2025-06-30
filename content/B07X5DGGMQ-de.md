@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- PROFESSIONELLE ERGONOMIE: Ein Fokusmodus-Schalter, der ein sofortiges Umschalten zwischen Auto- und manuellem Fokusmodus ermöglicht, sowie eine anpassbare Fokus-Halte-Taste für effiziente und vielseitige Aufnahmen
 - SCHÖNES BOKEH: Eine Zirkuläre Blende mit 7 Lamellen sorgt für ein wunderschönes Bokeh
+- SCHNELL UND PRÄZISE: Der XD-Linearmotor nutzt das Geschwindigkeitspotenzial des Kameragehäuses voll aus und fokussiert und verfolgt auch schnell bewegte Motive mit herausragender Geschwindigkeit und Präzision
 - IMMER ZUVERLÄSSIG: Ein staub- und feuchtigkeitsresistentes Design bietet die nötige Zuverlässigkeit für den Außeneinsatz unter schwierigen Bedingungen
 - UNGLAUBLICH SCHARF: Ein asphärisches Element und drei ED-Glaselemente (Extra-low Dispersion) in einem optischen Präzisionsdesign unterdrücken Aberration im gesamten Zoombereich des Objektivs
-- SCHNELL UND PRÄZISE: Der XD-Linearmotor nutzt das Geschwindigkeitspotenzial des Kameragehäuses voll aus und fokussiert und verfolgt auch schnell bewegte Motive mit herausragender Geschwindigkeit und Präzision
-- PROFESSIONELLE ERGONOMIE: Ein Fokusmodus-Schalter, der ein sofortiges Umschalten zwischen Auto- und manuellem Fokusmodus ermöglicht, sowie eine anpassbare Fokus-Halte-Taste für effiziente und vielseitige Aufnahmen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07X5DGGMQ{{</world>}}

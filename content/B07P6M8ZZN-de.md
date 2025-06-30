@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Cushioning System
-- Leder
-- Das Leder mithilfe unseres Schutz- und Pflegesprays vor Schmutz und Nässe schützen
-- Das Leder mithilfe unserer Reinigungs- und Pflegelotion säubern und mit Feuchtigkeit versorgen
-- Das Leder mit einem Tuch polieren.Wenn Sie Ihre Schuhe gut pflegen dann kommen Sie mit Ihnen auch sehr weit
-- Flexibility
-- Für zusätzlichen Schutz unser wasserdichtes Nanopro-Spray auftragen. Dieses Produkt wird exklusiv in unseren Stores verkauft
 - Schnürung
 - Synthetik
+- Das Leder mithilfe unserer Reinigungs- und Pflegelotion säubern und mit Feuchtigkeit versorgen
+- Leder
+- Das Leder mithilfe unseres Schutz- und Pflegesprays vor Schmutz und Nässe schützen
+- Das Leder mit einem Tuch polieren.Wenn Sie Ihre Schuhe gut pflegen dann kommen Sie mit Ihnen auch sehr weit
+- Flexibility
+- Cushioning System
+- Für zusätzlichen Schutz unser wasserdichtes Nanopro-Spray auftragen. Dieses Produkt wird exklusiv in unseren Stores verkauft
 - Das Leder mithilfe unserer Schuhcreme pflegen. Eine dünne Schicht auftragen und fünf Minuten einwirken lassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
