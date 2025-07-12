@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bis zu 95 MB/s Lesen; 45 MB/s Schreiben
-- Perfekt für ein ruhiges und ungestörtes 4K Video Erlebnis, getestet, um extremen Bedingungen zu widerstehen
-- Kompatibel mit UHS Speed Class 3 (U3) und UHS Video Speed Class 30 (V30) Standards
 - 128GB Speicherkapazität; Betriebsspannung: 2,7 V - 3,6 V
+- Kompatibel mit UHS Speed Class 3 (U3) und UHS Video Speed Class 30 (V30) Standards
+- Perfekt für ein ruhiges und ungestörtes 4K Video Erlebnis, getestet, um extremen Bedingungen zu widerstehen
+- Bis zu 95 MB/s Lesen; 45 MB/s Schreiben
 - Ideal für Digitalkameras für die tägliche Aufzeichnung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bequeme Konfiguration über die FRITZ!Box-Benutzeroberfläche, Steuerung per PC, Notebook, Smartphone oder Tablet – auch unterwegs über das Internet und per App
-- Einfache Montage an allen gängigen Heizkörperventilen mit Anschlussgewinde, zusätzlicher Adapter vorhanden
-- Intelligenter Heizkörperregler zum Energie sparen für das FRITZ!Box-Heimnetz, automatische und präzise Steuerung der Raumtemperatur, für FRITZ!Box mit DECT-Basis und FRITZ!OS ab Version 6.83
+- Lieferumfang: FRITZ!DECT 301, 2 x AA-Batterien, Installationsanleitung, Adapter für Danfoss RA
 - Bitte beachten Sie die Produktabmessungen sowie die Herstellerangaben zu kompatiblen Heizungsmodellen
 - Individuelle Heizprofile programmierbar, Komfortfunktionen wie E-Paper-Display, Fenster-Offen-Erkennung, Gruppenschaltung, Tastensperre, Kalkschutzfunktion, Frostschutz-Automatik
-- Lieferumfang: FRITZ!DECT 301, 2 x AA-Batterien, Installationsanleitung, Adapter für Danfoss RA
+- Intelligenter Heizkörperregler zum Energie sparen für das FRITZ!Box-Heimnetz, automatische und präzise Steuerung der Raumtemperatur, für FRITZ!Box mit DECT-Basis und FRITZ!OS ab Version 6.83
+- Einfache Montage an allen gängigen Heizkörperventilen mit Anschlussgewinde, zusätzlicher Adapter vorhanden
+- Bequeme Konfiguration über die FRITZ!Box-Benutzeroberfläche, Steuerung per PC, Notebook, Smartphone oder Tablet – auch unterwegs über das Internet und per App
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B076QK2PJV{{</world>}}

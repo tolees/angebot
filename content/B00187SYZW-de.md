@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufschraubschloss für Profilzylinder
-- verzinkter Schlosskörper
 - Robuste Mechanik
 - Massiver Stahlriegel
+- Aufschraubschloss für Profilzylinder
 - Geeignet für DIN-rechte und DIN-linke Türen und Tore, z.B. Gartentore
+- verzinkter Schlosskörper
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00187SYZW{{</world>}}

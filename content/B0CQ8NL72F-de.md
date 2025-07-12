@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 𝗘𝗰𝗵𝘁𝗲 𝘃𝗲𝗿𝘁𝗶𝗸𝗮𝗹𝗲 𝗔𝘂𝗳𝗻𝗮𝗵𝗺𝗲𝗻: Damit kannst du ganz einfach hohe Wahrzeichen wie Wolkenkratzer und Wasserfälle aufnehmen und deine Aufnahmen direkt in der perfekten Ausrichtung auf Instagram oder TikTok teilen.
+- 𝗔𝘁𝗲𝗺𝗯𝗲𝗿𝗮𝘂𝗯𝗲𝗻𝗱𝗲 𝗕𝗶𝗹𝗱𝗲𝗿: Nimm in 4K und HDR auf, für kristallklare Videos, und erfasse alle Details in Lichtern und Schatten, egal ob bei Tag oder Nacht.
 - 𝗟𝗲𝗶𝗰𝗵𝘁 𝘂𝗻𝗱 𝗸𝗼𝗺𝗽𝗮𝗸𝘁: Die Mini 3 wiegt weniger als 249 g. Perfekt zum Mitnehmen auf deine Abenteuer, Wanderungen, Roadtrips und Tage am Strand.
+- Mini 3 darf nach den Kategorien A1 und A3 fliegen. Piloten müssen keine Prüfungen ablegen.
+- Fernsteuerung separat erhältlich. Diese Version ist perfekt für Pilotinnen und Piloten die bereits eine kompatible Fernsteuerung besitzen.
 - 𝗚𝗲𝗻𝗶𝗲ß 𝗱𝗲𝗻 𝗠𝗼𝗺𝗲𝗻𝘁: Mach atemberaubende Aufnahmen mit QuickShots, um dynamische Flugbewegungen auszuwählen, oder nimm mit Panorama eine perfekte Landschaft auf.
 - Hinweise: Zu deiner Sicherheit solltest du dich im Vorfeld immer über die lokalen Gesetze und Vorschriften informieren und diese strikt einhalten.
-- 𝗘𝗰𝗵𝘁𝗲 𝘃𝗲𝗿𝘁𝗶𝗸𝗮𝗹𝗲 𝗔𝘂𝗳𝗻𝗮𝗵𝗺𝗲𝗻: Damit kannst du ganz einfach hohe Wahrzeichen wie Wolkenkratzer und Wasserfälle aufnehmen und deine Aufnahmen direkt in der perfekten Ausrichtung auf Instagram oder TikTok teilen.
-- Fernsteuerung separat erhältlich. Diese Version ist perfekt für Pilotinnen und Piloten die bereits eine kompatible Fernsteuerung besitzen.
 - 𝗙𝗹𝗶𝗲𝗴𝗲𝗻 𝗶𝘀𝘁 𝗲𝗶𝗻 𝗞𝗶𝗻𝗱𝗲𝗿𝘀𝗽𝗶𝗲𝗹: Lass dich nicht von etwas Wind abhalten. Die Mini 3 fliegt auch bei Windstärke 5 (38 km/h) noch stabil, sodass du stets perfekte Aufnahmen machen kannst.
-- 𝗔𝘁𝗲𝗺𝗯𝗲𝗿𝗮𝘂𝗯𝗲𝗻𝗱𝗲 𝗕𝗶𝗹𝗱𝗲𝗿: Nimm in 4K und HDR auf, für kristallklare Videos, und erfasse alle Details in Lichtern und Schatten, egal ob bei Tag oder Nacht.
-- Mini 3 darf nach den Kategorien A1 und A3 fliegen. Piloten müssen keine Prüfungen ablegen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQ8NL72F{{</world>}}

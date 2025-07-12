@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Markendetails
 - gerippte Bündchen
 - Baumwollmischung
-- Markendetails
 - bequemer Hoodie
 - Kapuze mit Kordel
 

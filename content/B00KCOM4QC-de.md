@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unterdrückt Reflexionen und Spiegelungen in Bildern
 - Präzise gefertigte Metallfassung und hochwertige Glaslinsen
-- Erhöht die Farbsättigung und verstärkt Kontraste an trüben Tagen
 - Lieferumfang:1x walimex pro Polfilter Zirkular vergütet 82 mm inkl. Schutzhülle
+- Erhöht die Farbsättigung und verstärkt Kontraste an trüben Tagen
+- Unterdrückt Reflexionen und Spiegelungen in Bildern
 - Filter aus mehrfach vergütetem Glas ideal für die Landschaftsfotografie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

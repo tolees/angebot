@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Automatische Kühlfunktion – kühlt direkt nach der Zubereitung (120 Min.)
 - Reguliert die Eiskonsistenz in drei Stufen (von Softeis über Frozen Yogurt, Sorbet bis klassische Eiscreme)
+- Automatische Kühlfunktion – kühlt direkt nach der Zubereitung (120 Min.)
 - Komfortables Touch-Display mit vielen Einstellmöglichkeiten
 - Joghurt-Programm - für selbst gemachten Joghurt zuhause
 

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abmessungen: 34 x 28 x 13 cm; Gasverbrauch 160 g/h; Laufzeit 1 h 15 Min; Gewicht 1,5 kg; passend für Topfgrößen 12-26 cm; nicht für den Einsatz in geschlossenen Räumen geeignet
-- Kompakt und Leistungsstark: einfach zu bedienender Camping-Kartuschenkocher (2.200 W) mit Piezozündung; stufenlos regulierbare Flamme; mit robustem Topfträger für Pfannen und Töpfe bis 26 cm Durchmesser
 - Maximale Sicherheit: Doppltes-Sicherungsventil im integrierten Gasregler verhindert versehentliches Ausströmen von Gas
 - Praktisches Design: Betrieb mit Campingaz Gaskartusche CP 250, die während des Betriebs im integrierten Kartuschenfach verschwindet; Kartusche kann auch nicht vollständig entleert entnommen werden
+- Kompakt und Leistungsstark: einfach zu bedienender Camping-Kartuschenkocher (2.200 W) mit Piezozündung; stufenlos regulierbare Flamme; mit robustem Topfträger für Pfannen und Töpfe bis 26 cm Durchmesser
+- Abmessungen: 34 x 28 x 13 cm; Gasverbrauch 160 g/h; Laufzeit 1 h 15 Min; Gewicht 1,5 kg; passend für Topfgrößen 12-26 cm; nicht für den Einsatz in geschlossenen Räumen geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09KNQL782{{</world>}}

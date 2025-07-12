@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang & Details – NIVEA SUN Babies & Kids Sensitiv Schutz Sonnenspray LSF 50+ (200 ml), Sonnenschutzspray ohne Duft-, Farb- und Konservierungsstoffe, ab dem Alter von 6 Monaten, Artikelnr. 85847
-- Babies & Kids – Das extra wasserfeste NIVEA SUN Spray mit LSF 50+ für empfindliche Baby- & Kinderhaut bietet hochwirksamen und sofortigen UVA-/UVB-Schutz.
-- Extra wasserfest – Das zuverlässige Sonnenspray überzeugt mit der extra wasserfesten, parfümfreien Formel. Die Hautverträglichkeit ist kinderärztlich bestätigt.
 - Haut & Umwelt – Aus Rücksicht auf den Ozean ist die Formel der Sonnenlotion frei von Mikroplastik und den UV-Filtern Octocrylen, Octinoxat und Oxybenzon.
+- Babies & Kids – Das extra wasserfeste NIVEA SUN Spray mit LSF 50+ für empfindliche Baby- & Kinderhaut bietet hochwirksamen und sofortigen UVA-/UVB-Schutz.
+- Lieferumfang & Details – NIVEA SUN Babies & Kids Sensitiv Schutz Sonnenspray LSF 50+ (200 ml), Sonnenschutzspray ohne Duft-, Farb- und Konservierungsstoffe, ab dem Alter von 6 Monaten, Artikelnr. 85847
+- Extra wasserfest – Das zuverlässige Sonnenspray überzeugt mit der extra wasserfesten, parfümfreien Formel. Die Hautverträglichkeit ist kinderärztlich bestätigt.
 - Beugt Irritationen vor – Die parfümfreie Sonnencreme reduziert das Risiko von sonnenbedingten Allergien und Hautirritationen – auch für zu Neurodermitis neigender Haut geeignet.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- JBL Pro Sound mit 2-Wege-Lautsprechersystem: Die Lautsprecherbox mit racetrack-förmigem Tieftöner, separatem Hochtöner und 2 optimierten Passivradiatoren liefert extrem klaren Sound mit tiefem Bass
-- Bereit für die Party: Mit dem wasserdichten und staubgeschützten Gehäuse gemäß IP67 ist die JBL-Box überall mit dabei und bietet dank des starken Akkus bis zu 12 Stunden puren Musikgenuss
-- Kleine Party und großer Dancefloor: Zwei Boxen für Stereo Sound oder beliebig viele JBL PartyBoost-kompatible Lautsprecher verbinden und so eine epische Klangwand erzeugen
-- Lieferumfang: 1 x Flip 6 von JBL in Weiß / Soundbox inkl. USB-C-Kabel, Kurzanleitung, Garantieschein, Sicherheitsdatenblatt / Via PartyBoost unbegrenzt kompatible Musikboxen miteinander koppeln
 - Kabelloses Bluetooth-Streaming: Die Musikbox mit bis zu 2 Smartphones oder Tablets verbinden / Mit der JBL Portable App kann zusätzlich der Sound verstärkt oder der Bass optimiert werden
+- JBL Pro Sound mit 2-Wege-Lautsprechersystem: Die Lautsprecherbox mit racetrack-förmigem Tieftöner, separatem Hochtöner und 2 optimierten Passivradiatoren liefert extrem klaren Sound mit tiefem Bass
+- Kleine Party und großer Dancefloor: Zwei Boxen für Stereo Sound oder beliebig viele JBL PartyBoost-kompatible Lautsprecher verbinden und so eine epische Klangwand erzeugen
+- Bereit für die Party: Mit dem wasserdichten und staubgeschützten Gehäuse gemäß IP67 ist die JBL-Box überall mit dabei und bietet dank des starken Akkus bis zu 12 Stunden puren Musikgenuss
 - Um das Wave 200 auf die Werkseinstellungen zurückzusetzen, gehen Sie bitte wie folgt vor: - Kopfhörer aus der Ladebox nehmen - Drücken Sie zweimal auf einen der Kopfhörer und halten Sie sie beim dritten Drücken fünf Sekunden lang gedrückt - Es kann notwendig sein, die Kopfhörer aus den Einstellungen zu „entfernen und zu vergessen“. - Die Kopfhörer werden nicht auf die Werkseinstellungen zurückgesetzt
+- Lieferumfang: 1 x Flip 6 von JBL in Weiß / Soundbox inkl. USB-C-Kabel, Kurzanleitung, Garantieschein, Sicherheitsdatenblatt / Via PartyBoost unbegrenzt kompatible Musikboxen miteinander koppeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NCC7GH2{{</world>}}

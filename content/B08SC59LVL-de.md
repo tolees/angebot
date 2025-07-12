@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse F
-- Modernes, rechteckiges LED Panel in weiß mit weißem Rahmen in einer anderen Nuance, gefertigt aus Kunststoff-Metall
-- Die durchschnittlich hohe Lebensdauer der Platine liegt bei ca. 20.000 Stunden - die Schutzart der Wohnzimmerleuchte ist IP20
-- Produktabmessungen: 1.000x250x60mm (LxBxH)
-- Die LED Platine überzeugt mit energiesparenden 22 Watt, 2.200 Lumen und einer Farbtemperatur von 4.000 Kelvin (neutralweiße Lichtfarbe). Damit ist sie optimal als Bürolampe und Büroleuchte in Ihrem Arbeitszimmer einsetzbar
 - Durch das schlichte und ultraflache Design ist diese Deckenlampe vielseitig einsetzbar, z.B. als Wohnzimmerlampe, Küchenlampe, Schlafzimmerlampe oder Flurlampe - dank des weißen Rahmens in einer anderen Nuance dennoch ein Hingucker in Ihren Räumlichkeiten
+- Produktabmessungen: 1.000x250x60mm (LxBxH)
+- Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse F
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse F.
+- Die durchschnittlich hohe Lebensdauer der Platine liegt bei ca. 20.000 Stunden - die Schutzart der Wohnzimmerleuchte ist IP20
+- Die LED Platine überzeugt mit energiesparenden 22 Watt, 2.200 Lumen und einer Farbtemperatur von 4.000 Kelvin (neutralweiße Lichtfarbe). Damit ist sie optimal als Bürolampe und Büroleuchte in Ihrem Arbeitszimmer einsetzbar
+- Modernes, rechteckiges LED Panel in weiß mit weißem Rahmen in einer anderen Nuance, gefertigt aus Kunststoff-Metall
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08SC59LVL{{</world>}}

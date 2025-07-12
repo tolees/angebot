@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x Digitale Wochenzeitschaltuhr IP44 in der Farbe anthrazit, inkl. NiMH-Akku - in bester Qualität von brennenstuhl
 - Digitale Zeitschaltuhr mit LCD-Display, Zufallsschaltung für die Urlaubszeit und erhöhtem Berührungsschutz, GS-geprüft
-- Der minimale Schaltabstand der Wochenzeitschaltuhr beträgt 1 Minute
-- Mit Datenspeicherung bei Stromausfall und manueller Ein-, Aus-funktion
 - Inklusive 10 Ein-/Aus-Programme mit Wochentag-, Stunden- und Minuten-Einstellungen
+- Der minimale Schaltabstand der Wochenzeitschaltuhr beträgt 1 Minute
+- Lieferumfang: 1 x Digitale Wochenzeitschaltuhr IP44 in der Farbe anthrazit, inkl. NiMH-Akku - in bester Qualität von brennenstuhl
+- Mit Datenspeicherung bei Stromausfall und manueller Ein-, Aus-funktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DPZF8WC{{</world>}}

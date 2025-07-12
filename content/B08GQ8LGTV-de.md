@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vielseitig einsetzbar in diversen Materialien: Der Akku-Bohrer kann für Projekte eingesetzt werden, bei denen Schrauben oder Bohren in Holz, Metall und Kunststoff erforderlich sind
-- Die Easy Werkzeuge von Bosch – handliche Helfer für alle kleinen Projekte
-- Optimale Kraft und Geschwindigkeit: Das Zwei-Gang-Getriebe mit 20 Drehmomentstufen und der Bohrstufe für kraftvolles Schrauben und schnelles Bohren
-- Arbeiten in dunklen Ecken: optimale Ausleuchtung des Arbeitsbereichs auch in schlecht beleuchteten Winkeln durch das integrierte LED-Licht des Bohrschraubers
 - Power for all 12 V: Der mitgelieferte Akku ist kompatibel mit allen Geräten aus dem grünen Bosch Home & Garden 12 Volt System
+- Die Easy Werkzeuge von Bosch – handliche Helfer für alle kleinen Projekte
+- Vielseitig einsetzbar in diversen Materialien: Der Akku-Bohrer kann für Projekte eingesetzt werden, bei denen Schrauben oder Bohren in Holz, Metall und Kunststoff erforderlich sind
+- Arbeiten in dunklen Ecken: optimale Ausleuchtung des Arbeitsbereichs auch in schlecht beleuchteten Winkeln durch das integrierte LED-Licht des Bohrschraubers
+- Optimale Kraft und Geschwindigkeit: Das Zwei-Gang-Getriebe mit 20 Drehmomentstufen und der Bohrstufe für kraftvolles Schrauben und schnelles Bohren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08GQ8LGTV{{</world>}}

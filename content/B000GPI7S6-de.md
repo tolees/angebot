@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dauerhafte Haftung
+- Made in Germany
 - Dermatologisch getestet
 - Wieder ablösbar und wieder verwendbar
-- Made in Germany
+- Dauerhafte Haftung
 - Schnelle und saubere Befestigung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

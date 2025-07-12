@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vereinte Kräfte mit 1 – 4 Spielern (Einzelspieler, lokaler und Online-Koop-Modus)
-- Wunderschöne Fantasy-Welt mit atemberaubender Grafik
 - 2,5D-Adventure mit weltbekannter Rätsel-Plattformer-Action
 - Zugänglichkeit und Wiederspielwert dank des adaptiven Schwierigkeitssystems für die Kämpfe und Rätsel
 - Neues Kampfsystem und spannende Bosskämpfe
+- Wunderschöne Fantasy-Welt mit atemberaubender Grafik
+- Vereinte Kräfte mit 1 – 4 Spielern (Einzelspieler, lokaler und Online-Koop-Modus)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C27Z7YB7{{</world>}}

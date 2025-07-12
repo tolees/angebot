@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- PRAKTISCHER REISEADAPTER: Leichter als herkömmliche Ladegeräte und mit ausklappbaren US-Stiften sowie austauschbaren EU- und UK-Steckern ist der Verbatim GaN Multi-Charger der ideale Reisebegleiter
 - INNOVATIVES LADEN: Das Verbatim Ladegerät ist für das Laden von bis zu 4 USB-Geräten wie etwa Laptop und Smartphone mit nur einem Stecker geeignet – schneller, effizienter und sicherer dank GaN-Technologie
+- ALLROUNDER: Kompatibel mit MacBook Pro 16"/M2 13"/13", HP Spectre, Huawei MateBook, NoteBook, iPad Pro/Air, Tab A8/S8, iPhone 14/14 Pro/14 Pro Max/13/13 Pro/13 Pro Max/12/12 Pro/12 Mini/11/SE 2022/2020, AirPods Pro, MagSafe und Galaxy S23 Ultra/S23+/S23/S22/ S21/S10/Note 10, Pixel 7 Pro/6/5/4 usw.
 - CHARGE FAST, CHARGE SMART: Mit 2 x 100 W + 1 x 65 W Power Delivery sowie 1 x 30 W Quick Charge lädt der GaN Schnellladestecker Laptop, Tablet, Handy, Powerbank oder Spielekonsole schonend und in kürzester Zeit
 - KOMPAKT & SICHER: Der USB Charger besteht aus hitzebeständigem Galliumnitrid, ist mit vier Schutzsystemen ausgestattet und sitzt aufgrund seiner kompakten Form sicher in der Steckdose
-- ALLROUNDER: Kompatibel mit MacBook Pro 16"/M2 13"/13", HP Spectre, Huawei MateBook, NoteBook, iPad Pro/Air, Tab A8/S8, iPhone 14/14 Pro/14 Pro Max/13/13 Pro/13 Pro Max/12/12 Pro/12 Mini/11/SE 2022/2020, AirPods Pro, MagSafe und Galaxy S23 Ultra/S23+/S23/S22/ S21/S10/Note 10, Pixel 7 Pro/6/5/4 usw.
-- PRAKTISCHER REISEADAPTER: Leichter als herkömmliche Ladegeräte und mit ausklappbaren US-Stiften sowie austauschbaren EU- und UK-Steckern ist der Verbatim GaN Multi-Charger der ideale Reisebegleiter
 - LIEFERUMFANG: 1 x 100 W GaN Multiport-Ladegerät (1 x USB-A und 3 x USB-C) von Verbatim, inkl. EU- und UK-Adapter sowie Kurzanleitung, silbergrau
 
 [🛒 Hier!!]({{< param buyurl >}})

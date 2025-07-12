@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Notizbuch A5, Herlitz, my.book Classic, Kunstleder schwarz
-- mit Leseband und Stifteschlaufe, mit Gummizug zum Verschließen
-- mit 16 herausreißbaren Seiten, mit Falttasche hinten
-- holzfreies Papier, 80g/m² creme, 96 Blatt blanko
 - 1 Stück
+- mit 16 herausreißbaren Seiten, mit Falttasche hinten
+- mit Leseband und Stifteschlaufe, mit Gummizug zum Verschließen
+- Notizbuch A5, Herlitz, my.book Classic, Kunstleder schwarz
+- holzfreies Papier, 80g/m² creme, 96 Blatt blanko
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JIL8Z6S{{</world>}}

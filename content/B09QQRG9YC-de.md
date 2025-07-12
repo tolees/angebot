@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WOLLEPROGRAMM - Mit dem Woolmark Zertifikat ausgezeichnetes Wolleprogramm: Wäscht empfindliche Wolle wie von Hand. Das Wolleprogramm wurde zertifiziert und bestätigt durch das WOOLMARK-Siegel und ist für Wolltextilien, die mit "Handwäsche" gekennzeichnet sind, geeignet.
-- ACTIVE CARE - Entfernt die hartnäckigsten Flecken. Durch die Active Care Option werden Wasser und Waschmittel vorab gemischt, wodurch die Wirkung des Waschmittels verbessert wird und der Schaum besser in das Gewebe eindringen kann.
-- STEAM HYGIENE MIT ANTIVIRUS - Entfernt Viren und Bakterien. Bei Aktivierung der Option wird zwischen Wasch- und Schleudergang 20 Minuten lang 80 °C heißer Dampf in die Trommel geleitet, um die Wäsche vor Viren und Bakterien zu schützen.
-- Wichtiger Hinweis: Entfernen Sie Transportbolzen und Halterungen, bevor Sie das Gerät verwenden. Wenn die Transportbolzen nicht entfernt werden, kann es zu starken Vibrationen und Geräuschen kommen. Die Transportbolzen finden Sie auf der Rückseite der Waschmaschine
-- STEAM REFRESH - Das Programm frischt Kleidung in nur 20 Minuten auf ohne sie zu waschen und spart dadurch Energie und Wasser. Der Dampf dringt tief in die Textilien ein, entfernt schlechte Gerüche und entspannt die Fasern. Das reduziert Knitterfalten und erleichtert das Bügeln.
 - STOPP & ADD - Mit der Stop&Add-Funktion können Sie in den ersten Minuten des Waschgangs noch Wäschestücke jeder Größe nachladen, ohne Kompromisse in der Waschleistung einzugehen.
+- STEAM HYGIENE MIT ANTIVIRUS - Entfernt Viren und Bakterien. Bei Aktivierung der Option wird zwischen Wasch- und Schleudergang 20 Minuten lang 80 °C heißer Dampf in die Trommel geleitet, um die Wäsche vor Viren und Bakterien zu schützen.
+- WOLLEPROGRAMM - Mit dem Woolmark Zertifikat ausgezeichnetes Wolleprogramm: Wäscht empfindliche Wolle wie von Hand. Das Wolleprogramm wurde zertifiziert und bestätigt durch das WOOLMARK-Siegel und ist für Wolltextilien, die mit "Handwäsche" gekennzeichnet sind, geeignet.
+- STEAM REFRESH - Das Programm frischt Kleidung in nur 20 Minuten auf ohne sie zu waschen und spart dadurch Energie und Wasser. Der Dampf dringt tief in die Textilien ein, entfernt schlechte Gerüche und entspannt die Fasern. Das reduziert Knitterfalten und erleichtert das Bügeln.
+- Wichtiger Hinweis: Entfernen Sie Transportbolzen und Halterungen, bevor Sie das Gerät verwenden. Wenn die Transportbolzen nicht entfernt werden, kann es zu starken Vibrationen und Geräuschen kommen. Die Transportbolzen finden Sie auf der Rückseite der Waschmaschine
+- ACTIVE CARE - Entfernt die hartnäckigsten Flecken. Durch die Active Care Option werden Wasser und Waschmittel vorab gemischt, wodurch die Wirkung des Waschmittels verbessert wird und der Schaum besser in das Gewebe eindringen kann.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QQRG9YC{{</world>}}

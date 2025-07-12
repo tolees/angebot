@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sanktuarios Helden: Erschafft einen Charakter und passt ihn nach euren Wünschen an, um die unaussprechlichen Schrecken zu bekämpfen
-- Überlebt und bezwingt die Finsternis - oder versinkt in den Schatten
 - Stützpunkte: Heldenhafte Abenteurer können Stützpunkte wie diese säubern und sie für die Bewohner von Sanktuario zurückerobern
+- Überlebt und bezwingt die Finsternis - oder versinkt in den Schatten
 - PvP: Der Kampf nimmt eine dramatische Wendung, wenn ihr PvP-Zonen betretet
 
 [🛒 Hier!!]({{< param buyurl >}})

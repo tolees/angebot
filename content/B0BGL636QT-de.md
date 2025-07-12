@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nur die besten, handverlesenen Arabicas sowie Robusta-Bohnen
-- Espresso-Kaffee mit natürlichem Geschmack
-- Die Besonderheit unseres Kaffees ist die langfristige Trommelröstung
-- das bedeutet längere Röstzeit bei niedriger Temperatur, was den Kaffee sanft und außerdem gut verträglich macht.
 - geröstet in unmittelbarer Nähe von Wien, in einer der bekanntesten und heute letzten traditionellen Kaffeeröstereien Österreichs, mit Erfahrung und Leidenschaft seit 1929
+- das bedeutet längere Röstzeit bei niedriger Temperatur, was den Kaffee sanft und außerdem gut verträglich macht.
+- Espresso-Kaffee mit natürlichem Geschmack
+- Nur die besten, handverlesenen Arabicas sowie Robusta-Bohnen
+- Die Besonderheit unseres Kaffees ist die langfristige Trommelröstung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BGL636QT{{</world>}}

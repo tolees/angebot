@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Video:o Metal Gear Solid: Digital Graphic Novel o Metal Gear Solid 2: Digital Graphic Novel
 - Digital book:o Metal Gear Solid: Screenplay Booko Metal Gear Solid: Master Booko Metal Gear Solid 2: Screenplay Booko Metal Gear Solid 2: Master Booko Metal Gear Solid 3: Screenplay Booko Metal Gear Solid 3: Master Booko Metal Gear & Metal Gear 2: Screenplay Booko Metal Gear & Metal Gear 2: Master Book
 - Soundtrack:o Metal Gear Solid: Digital Soundtrack
+- Video:o Metal Gear Solid: Digital Graphic Novel o Metal Gear Solid 2: Digital Graphic Novel
 - Title Lineup:o Metal Gear o Metal Gear 2: Solid Snake o Metal Gear Solid (Including VR Missions/Special Missions)o Metal Gear Solid 2: Sons of Liberty (HD Collection version) o Metal Gear Solid 3: Snake Eater (HD Collection version) o Metal Gear (NES/FC version)o Snakes Revenge
 
 [🛒 Hier!!]({{< param buyurl >}})

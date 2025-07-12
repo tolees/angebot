@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Den Druck aushalten
-- Unterbricht die Nahrungskette
 - Entwirre das Geheimnis
-- Tauche unter den Ozeanboden
+- Den Druck aushalten
 - Fürchte die Nacht
+- Unterbricht die Nahrungskette
+- Tauche unter den Ozeanboden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07L3YS2GX{{</world>}}

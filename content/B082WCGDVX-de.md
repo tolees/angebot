@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nachfüllbar
 - Rostbeständig
+- Nachfüllbar
 - Wiederverwendbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

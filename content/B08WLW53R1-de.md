@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Revolutionäres Quizspiel
+- Es gibt 200 Fragen auf 100 Quizkarten
 - Spielrunde 20 pro Minuten
 - Familienversion ab 8 Jahren
-- Es gibt 200 Fragen auf 100 Quizkarten
+- Revolutionäres Quizspiel
 - Für 2 - 8 Spieler
 
 [🛒 Hier!!]({{< param buyurl >}})

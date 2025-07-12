@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LEGO Movie Maker
-- Anzahl der Teile: 482
-- Vom Hersteller empfohlenes Alter: 8+
 - Dieses THE LEGO MOVIE 2 Set enthält außerdem eine Filmkulisse, eine bewegliche Kamerahalterung für dein Smartphone und Action-Requisiten
+- Anzahl der Teile: 482
 - Die Filmkulisse umfasst einen Rahmen mit 2 verschiebbaren, verstellbaren Armen an der Oberseite zum Befestigen der beweglichen Requisiten, Figuren und Zubehörteile, einen doppelseitigen Hintergrund aus Pappe mit Bildern von Apokalypstadt und dem Systar System, eine Plattform mit 2 integrierten Schiebern, um die Figuren hin- und herzubewegen, 3 Befestigungspunkte für die Kamerahalterung für Kameraschwenks und alternative Perspektiven sowie 2 Zaunelemente
+- Vom Hersteller empfohlenes Alter: 8+
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07FNN146S{{</world>}}

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FÜR 46 LÄNDER EUROPAS INKL UPDATES: Navigationskarten für 46 Länder Europas sind bereits auf dem Navigationssystem vorinstalliert. Kartenupdates stehen kostenfrei zur Verfügung. Abbiegehinweis („An der Kirche abbiegen.“) helfen bei der Navigation
-- ROADTRIP READY: Mit TripAdvisor Empfehlungen für Hotels, Aktivitäten und Restaurants, sowie Millionen von FourSquare POIs ist Ihr Garmin Navi bereit für spontane Ausflüge, Touren oder Besorgungen des Alltags
+- SICHERER UNTERWEGS: Die Fahrerassistenz warnt Sie vor scharfen Kurven, Wildwechsel, Schulen, etc. Bedienen Sie Ihr Navi sicher per Sprachsteuerung. Smartphone Meldungen erscheinen via Garmin Drive App direkt auf Ihrem Navi-Display
 - POIS ENTLAG IHRER ROUTE: Mit der nützlichen Funktion für POIs entlang der Route können Sie Stopps für Restaurants, Tankstellen und andere Punkte anzeigen, z. B. die nächsten Städte, die auf Ihrer Route liegen
+- ROADTRIP READY: Mit TripAdvisor Empfehlungen für Hotels, Aktivitäten und Restaurants, sowie Millionen von FourSquare POIs ist Ihr Garmin Navi bereit für spontane Ausflüge, Touren oder Besorgungen des Alltags
+- FÜR 46 LÄNDER EUROPAS INKL UPDATES: Navigationskarten für 46 Länder Europas sind bereits auf dem Navigationssystem vorinstalliert. Kartenupdates stehen kostenfrei zur Verfügung. Abbiegehinweis („An der Kirche abbiegen.“) helfen bei der Navigation
 - BEEINDRUCKENDES DISPLAY: Das 5,5 Zoll (13,9 cm) große Touchdisplay (1280 x 720 px) des Navis lässt sich im Querformat schnell und klar ablesen. Integriertes WLAN sorgt für kostenfreie Karten- und Softwareupdates
 - VERKEHRSINFOS IN ECHTZEIT VIA APP: Über die Garmin Drive App erhalten Sie Verkehrsinfos in Echtzeit. Lassen Sie sich Zeitverluste anzeigen und Alternativrouten vorschlagen. Zusätzlich mit Infos zu Wetter, Spritpreisen und mobilen Blitzern
-- SICHERER UNTERWEGS: Die Fahrerassistenz warnt Sie vor scharfen Kurven, Wildwechsel, Schulen, etc. Bedienen Sie Ihr Navi sicher per Sprachsteuerung. Smartphone Meldungen erscheinen via Garmin Drive App direkt auf Ihrem Navi-Display
 - SICHER EIN-UND AUSPARKEN: Mit der kompatiblen Rückfahrkamera Garmin BC 40 gelingt das Ein- und Ausparken noch leichter (optional erhältlich)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

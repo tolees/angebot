@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch den niedrigen pH-Wert des Grundstoffs Acetum werden die Zellwände der behandelten Unkräuter angegriffen, so dass die besprühten Pflanzenteile innerhalb kurzer Zeit austrocknen und absterben.
 - Der Grundstoff Acetum ist 100 % natürlich, unbedenklich für Mensch und Tier und nicht bienengefährlich.
 - Der natürliche Grundstoff Acetum unterstützt die Unkrautbeseitigung mit schneller Wirkung auf Wegen, Randstreifen, Bürgersteigen, Terrassen und Einfahrten.
-- Gegen Unkräuter zur Einzelpflanzenbehandlung hat das Konzentrat in einem 3 l Kanister eine Reichweite von bis zu 500 m²
 - Zusätzlich kann der Grundstoff Acetum zur Desinfektion von Garten-Schneidwerkzeugen eingesetzt werden sodass die Übertragung von Krankheiten von Pflanze zu Pflanze verhindert wird.
+- Durch den niedrigen pH-Wert des Grundstoffs Acetum werden die Zellwände der behandelten Unkräuter angegriffen, so dass die besprühten Pflanzenteile innerhalb kurzer Zeit austrocknen und absterben.
+- Gegen Unkräuter zur Einzelpflanzenbehandlung hat das Konzentrat in einem 3 l Kanister eine Reichweite von bis zu 500 m²
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BDFSRT4P{{</world>}}

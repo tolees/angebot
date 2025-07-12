@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Das Artwork und die Welten von ARK sind komplett neu erstellt und gestaltet, um die neueste Videospieltechnologie, Unreal Engine 5, zu nutzen
 - Öffentlicher Online-Mehrspielermodus für bis zu 70 Spieler, privaten Mehrspielermodus für bis zu 8 Spieler + lokalen Splitscreen für 2 Spieler
-- Fortgeschrittene neue physikalische Systeme wie dynamisches Wasser und vollständig interaktives physisches Blattwerk
 - Entwerfen Sie Ihren Überlebenden, bilden Sie einen Stamm und zähmen, trainieren, züchten und reiten Sie Dinosaurier in einem lebenden Ökosystem
+- Fortgeschrittene neue physikalische Systeme wie dynamisches Wasser und vollständig interaktives physisches Blattwerk
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CWNHXPGD{{</world>}}

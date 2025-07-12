@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EXTRA LANGE REICHWEITE: Das 10 m lange Anschlusskabel ermöglicht eine flexible Platzierung der Pumpe und bietet maximale Reichweite; Der integrierte Tragegriff erleichtert den Transport
 - ROBUSTES DESIGN: Das Gehäuse aus schlagfestem Kunststoff und das Laufrad aus Noryl machen diese Pumpe äußerst robust und langlebig; So hält auch den anspruchsvollsten Bedingungen stand
 - LEISTUNGSSTARK: Die Güde GS 4002 P Schmutzwassertauchpumpe mit anpassbarem Schwimmerschalter eignet sich hervorragend für das Entwässern von verschmutzten Bereichen und bewältigt problemlos auch niedrige Wasserstände ab ca. 85 mm
-- ZUVERLÄSSIGE DICHTUNG: Mit einer hochwertigen Gleitringdichtung ausgestattet, gewährleistet die GS 4002 P eine zuverlässige Abdichtung und verhindert das Eindringen von Schmutz und Wasser
+- EXTRA LANGE REICHWEITE: Das 10 m lange Anschlusskabel ermöglicht eine flexible Platzierung der Pumpe und bietet maximale Reichweite; Der integrierte Tragegriff erleichtert den Transport
 - SICHERHEIT: Dank des eingebauten Thermoschutzes ist Ihre Pumpe vor Überhitzung geschützt, was die Lebensdauer des Geräts erhöht; Die Schlauchanschlüsse sind vielseitig und passen zu verschiedenen Schlauchgrößen (1 1/4“ IG, 1 1/4“ AG, 32 mm, 1“ AG, 23 mm)
+- ZUVERLÄSSIGE DICHTUNG: Mit einer hochwertigen Gleitringdichtung ausgestattet, gewährleistet die GS 4002 P eine zuverlässige Abdichtung und verhindert das Eindringen von Schmutz und Wasser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00FAMEG4E{{</world>}}

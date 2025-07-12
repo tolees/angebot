@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Volant
 - Muster
+- Volant
 - Wickelkleid
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

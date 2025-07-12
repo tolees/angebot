@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rubber Prints vorne, hinten und am rechten Ärmel
 - klassische Passform
+- Rubber Prints vorne, hinten und am rechten Ärmel
 - V-Ausschnitt mit Rippblende
 - gestreiftes Necktape
 

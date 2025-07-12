@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt
 - Reguläre Passform
 - Mit Fokus auf Tragekomfort und Vielfältigkeit designt
+- Rundhalsausschnitt
 - Ein klassisches Rundhalsshirt, das einfach zu allem passt
 
 [🛒 Hier!!]({{< param buyurl >}})

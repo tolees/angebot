@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anime-Filme und Realfilme ebenfalls bei KAZÉ
 - intensives Action-Spektakel mit Tiefgang
-- von Studio MAPPA (Jujutsu Kaisen, The God of High School, Yuri!!! on Ice)
 - die finale Staffel des Anime-Bestsellers (über 100.000 verkaufte DVDs & Blu-rays in Deutschland), der auch in der Mainstream-Popkultur angekommen ist
+- von Studio MAPPA (Jujutsu Kaisen, The God of High School, Yuri!!! on Ice)
 - basiert auf dem gleichnamigen Manga-Welterfolg – über 1 Mio. verkaufte Bände in Deutschland (bei Carlsen)
+- Anime-Filme und Realfilme ebenfalls bei KAZÉ
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BT54S4PK{{</world>}}

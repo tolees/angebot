@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale Passform
 - Durchgehender Frontreißverschluss und Seitentaschen
 - Nur für den externen Gebrauch
+- Normale Passform
 - Dri-Fit-Technologie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

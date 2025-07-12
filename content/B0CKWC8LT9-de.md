@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Bedienung aller Tapo-Geräte ist nicht auf einzelne Personen beschränkt. Laden Sie Ihre Familienmitglieder ein und genießen Sie gemeinsam die Vorteile von Tapo SmartHome.
+- Abwesenheitsmodus – Schaltet Geräte automatisch zu verschiedenen Zeiten ein und aus, um den Anschein zu erwecken, dass jemand zu Hause ist
 - Fernsteuerung – Schalten Sie angeschlossene Geräte über die Tapo-App sofort ein und aus, egal wo Sie sich befinden
 - Das flammhemmende Material UL94-V0 PC schützt Sie und Ihre Familie; Kindersicheres und manipulationssicheres Design sorgt dafür, dass keine versehentlichen Stromschläge auftreten; Vernickeltes, rostfreies Design sorgt für ein haltbareres Design und stabile Verbindungen
-- Abwesenheitsmodus – Schaltet Geräte automatisch zu verschiedenen Zeiten ein und aus, um den Anschein zu erwecken, dass jemand zu Hause ist
-- Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
 - Sprachsteuerung – Verwalten Sie Ihren Smart Plug mit Sprachbefehlen über Amazon Alexa oder den Google Assistant
+- Die Bedienung aller Tapo-Geräte ist nicht auf einzelne Personen beschränkt. Laden Sie Ihre Familienmitglieder ein und genießen Sie gemeinsam die Vorteile von Tapo SmartHome.
+- Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
 - Nano-Design, kompatibel mit allen Arten von Anschlussdosenund stört nicht die benachbarten Steckdosen
 - Energieverbrauchskontrolle - Analysieren Sie den Echtzeit- und den historischen Stromverbrauch des angeschlossenen Geräts
 

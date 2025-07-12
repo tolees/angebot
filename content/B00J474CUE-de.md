@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Natürlicher Granit: der “Molcajete“ aus Granit zerstampft Gewürze und Kräuter im Handumdrehen und hat eine glatte Innenfläche, die leicht zu reinigen ist und keine Aromen überträgt
 - Qualität garantiert: der Mörser misst 20 cm und kommt mit 12 Monaten Garantie
 - Ein tolles Geschenk: überraschen sie einen Liebhaber der mexikanischen Küche mit dem wunderschönen Gewürzmörser und Stößel, oder machen sie es zu einem ästhetischen Blickfang in ihrer eigenen Küche
+- Natürlicher Granit: der “Molcajete“ aus Granit zerstampft Gewürze und Kräuter im Handumdrehen und hat eine glatte Innenfläche, die leicht zu reinigen ist und keine Aromen überträgt
 - Feurige Gerichte: zaubern sie schmackhafte Gewürzmischungen für Tacos, pikante Salsas und cremige Guacamole mit diesem traditionell mexikanischen Mörser und Stößel Set
 - Sicher und praktisch: der Stößel liegt angenehm in der Hand und der schwere Mörser steht sicher an Ort und Stelle auf stabilen Füßen
 

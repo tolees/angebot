@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 100 Prozent Polyamid
 - Laptoptasche
 - Wasserabweisend
-- 100 Prozent Polyamid
-- Maße (H x B x T): 29 x 41 x 16 cm
 - 0,81 kg Gewicht und 18,5 l Volumen
+- Maße (H x B x T): 29 x 41 x 16 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08SYKLYKD{{</world>}}

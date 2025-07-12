@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Edelstahl-Schlagmesser: frisch und fein gemahlene Kaffee- oder Espressobohnen für perfektes Aroma
 - Sicherheitsfunktion: mahlt nur, wenn der Deckel angebracht und der Sicherheitsschalter gedrückt ist
+- Edelstahl-Schlagmesser: frisch und fein gemahlene Kaffee- oder Espressobohnen für perfektes Aroma
 - Elektrische Kaffeemühle für 75g Bohnen: ausreichend für eine ganze Kanne Kaffee
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: verchromt
-- Herkunftsland:- Japan
-- Verpackungsgewicht: 440.38 g
 - Verpackungsabmessungen (L x B x H): 15.4 zm x 13.7 zm x 6.4 zm
+- Farbe: verchromt
+- Verpackungsgewicht: 440.38 g
+- Herkunftsland:- Japan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000NORLKA{{</world>}}

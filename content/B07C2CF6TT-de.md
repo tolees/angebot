@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassischer, hochwertiger Strickpullover der Marke JACK & JONES
-- Mit Rundhals-Ausschnitt
 - Aus angenehmer, weicher Baumwolle
+- Mit Rundhals-Ausschnitt
 - Passorm: normal geschnitten
+- Klassischer, hochwertiger Strickpullover der Marke JACK & JONES
 - Dieses basic Strickteil passt zu allem in deinem Kleiderschrank.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feminine scent that makes it the ideal fragrance for those important occasions
 - A sparkling, floral fragrance
 - Opening with top notes of living rice flower, green accord and bergamot
+- Feminine scent that makes it the ideal fragrance for those important occasions
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0009OAI2C{{</world>}}

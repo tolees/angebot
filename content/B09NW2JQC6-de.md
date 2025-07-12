@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Unersetzlich für Kalligraphie und Handlettering
-- Flexible, metallgefasste Faserspitze
-- 3 Strichstärken in einem Set (fein/mittel/breit)
 - Pigmentierten Tinte, die nach dem Trocknen wasserfest ist und für Outlines und in Kombination mit Aquarellfarbe verwendet werden kann
+- 3 Strichstärken in einem Set (fein/mittel/breit)
+- Flexible, metallgefasste Faserspitze
 - Metallgefasste Acrylspitze schreibt leicht und sanft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

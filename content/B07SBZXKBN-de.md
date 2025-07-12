@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der tragbare Spyder Checkr Video liefert ein neues umfassendes Farbmuster, das sowohl Standard-Farbkalibrierungsreferenzpunkte als auch Farbinformationen für den gesamten Farbraum mit nur einem Blick anzeigt.
 - Die von Datacolor zum Patent angemeldete Video-Farbkarte bietet dem Anwender direkt mehr Farbinformationen. Dies führt zu einer größeren und einfacheren Farbgenauigkeit, die für Videoeinsteiger und -profis gleichermaßen intuitiv zu bedienen ist.
 - Ein hoch entwickeltes Farbreferenzwerkzeug für Video, das mit Vektorskopen und Waveform-Monitoren arbeitet, um die Farbgenauigkeit und -konsistenz von Kamera-Systemen, Objektiven und Sensoren zu gewährleisten und die Farbkorrektur in der Postproduktion zu vereinfachen und zu beschleunigen.
+- Der tragbare Spyder Checkr Video liefert ein neues umfassendes Farbmuster, das sowohl Standard-Farbkalibrierungsreferenzpunkte als auch Farbinformationen für den gesamten Farbraum mit nur einem Blick anzeigt.
 - Hochglänzende Karten ermöglichen eine hohe Farbsättigung, einen größeren Gamut und eine einfachere Erkennung von Streulicht.
 - Enthält 5 hochglänzende Zielkarten (2 Farbkarten für unterschiedliche Workflows, Graustufen, eine Karte für den Weißabgleich und eine Karte mit Fokus-Stern).
 

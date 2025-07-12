@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial aus weichem Leder
 - Update des PUMA Smash
 - Inspiriert vom Tennis. Stylischer Komfort für jeden Tag
-- Obermaterial aus weichem Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077M97VSW{{</world>}}

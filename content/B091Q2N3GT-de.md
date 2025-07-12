@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 360 ° Drehung Arbeitsbeleuchtung: "Der HYCHIKA LED Außenscheinwerfer mit Halterung kann ohne Schatten um 360 ° gedreht werden. Sie können den Winkel frei einstellen, um Ihre vielfältigen Anforderungen an verschiedenen Orten wie Garage, Werkstatt und Baustelle usw. zu erfüllen"
 - IP65 wasserdicht Baulampe: "Der IP65 Wetterbeständigkeitsindex garantiert den korrekten Betrieb des LED Flutlichts auf der Baustelle bei Regen, Schnee, Hitze oder Kälte. Geeignet für den Innen und Außenbereich"
-- Was Sie bekommen： “HYCHIKA 100W LED LED Baustrahler mit Klapphalterung, Benutzerhandbuch”
 - Langlebiges Design für längere Nutzung: “Foot Fuß und Griff des Arbeitslichts bestehen aus hochfestem Stahl mit einer stark gehärteten Glasfront und einer weichen Gummiabdeckung. Dieser LED-Strahler ist solide für einen längeren Gebrauch. Das Aluminiumgehäuse ermöglicht eine schnelle Wärmeableitung”
+- 360 ° Drehung Arbeitsbeleuchtung: "Der HYCHIKA LED Außenscheinwerfer mit Halterung kann ohne Schatten um 360 ° gedreht werden. Sie können den Winkel frei einstellen, um Ihre vielfältigen Anforderungen an verschiedenen Orten wie Garage, Werkstatt und Baustelle usw. zu erfüllen"
+- Was Sie bekommen： “HYCHIKA 100W LED LED Baustrahler mit Klapphalterung, Benutzerhandbuch”
 - Zwei Helligkeitsmodus Baustrahler: "Arbeitslicht Mit 120 Stück LED Dehao Runda SMD2835 Lampenperlen, Produzieren Sie 6000LM-12000LM Helligkeit, Bestrahlungsbereich erreichen 120㎡, 6500K Tageslichtweiß, Sparen Sie 85% der Beleuchtungskosten als herkömmliche Halogenlampen"
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hohe Leistung für zu Hause oder Handwerker
 - Leichte Konstruktion mit nur 2 kg
 - Bewährte zuverlässige DeWalt-Technologie
-- Hohe Leistung für zu Hause oder Handwerker
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01BU0I3W0{{</world>}}

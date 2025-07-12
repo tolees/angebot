@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Easy Connection & Multi-player Sharing】 Der Switch-Controller ist einfach mit Ihrem Switch und Switch OLED zu verbinden und hält eine stabile Verbindung über Wireless, die Ihnen eine reibungslose Steuerung in den Spielen bietet. Und es unterstützt 4 Controller Verbindung zur gleichen Zeit, ideal für Familienspaß und Partys mit Ihrem Switch und Switch OLED.
-- 【Design For Switch & Switch OLED】Olimoxi switch controller perfekt kompatibel mit Switch und Switch OLED. Der Switch-Controller kann über ein Typ-C-Ladekabel als PC-Controller an den PC angeschlossen werden.
-- 【Lange Spielzeit】Der drahtlose Switch Pro Controller hat einen 500 mAh Akku eingebaut.Spielzeit: ca. 6-8 Stunden / Standby-Zeit: ca. 25 Tage / Ladezeit: ca. 2 Stunden.Genießen Sie Ihr Spiel ununterbrochen.
-- 【Wake up & Motion Controls & Dual Motors & Turbo】The pro controller switch gamepad for Switch supports Wake up, Gyro Axis, Dual Vibration and Turbo.
 - 【Komfortables Hand-Gefühl】 Dieser Switch-Controller hat eine richtige Größe für größere oder kleine Hände, lassen Sie Ihre Hände in einer entspannten Position.Das ergonomische Design und die leichte Konstruktion machen es bequem auch für lange Stunden der kontinuierlichen.
+- 【Wake up & Motion Controls & Dual Motors & Turbo】The pro controller switch gamepad for Switch supports Wake up, Gyro Axis, Dual Vibration and Turbo.
+- 【Lange Spielzeit】Der drahtlose Switch Pro Controller hat einen 500 mAh Akku eingebaut.Spielzeit: ca. 6-8 Stunden / Standby-Zeit: ca. 25 Tage / Ladezeit: ca. 2 Stunden.Genießen Sie Ihr Spiel ununterbrochen.
+- 【Design For Switch & Switch OLED】Olimoxi switch controller perfekt kompatibel mit Switch und Switch OLED. Der Switch-Controller kann über ein Typ-C-Ladekabel als PC-Controller an den PC angeschlossen werden.
+- 【Easy Connection & Multi-player Sharing】 Der Switch-Controller ist einfach mit Ihrem Switch und Switch OLED zu verbinden und hält eine stabile Verbindung über Wireless, die Ihnen eine reibungslose Steuerung in den Spielen bietet. Und es unterstützt 4 Controller Verbindung zur gleichen Zeit, ideal für Familienspaß und Partys mit Ihrem Switch und Switch OLED.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07TF6R7X8{{</world>}}

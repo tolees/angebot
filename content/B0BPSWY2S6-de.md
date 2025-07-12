@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fußgewölbeunterstützung
 - 59 % Baumwolle / 38 % recycelter Polyester / 2 % Elastan / 1 % recyceltes Nylon
-- Halbhoch geschnitten
-- 3er-Pack
 - Rippbündchen
+- 3er-Pack
+- Fußgewölbeunterstützung
+- Halbhoch geschnitten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BPSWY2S6{{</world>}}

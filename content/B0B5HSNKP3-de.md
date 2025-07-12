@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält 1 Hot Wheels Fahrzeug. Tolles Geschenk für Kinder ab 5 Jahren.
-- Das Set lässt sich zur einfachen und bequemen Aufbewahrung zusammenklappen.
 - Kinder können zwischen zwei verschiedenen Strecken wählen, von denen jede über ihre eigenen Merkmale verfügt, um mit dem Hot Wheels Vertical-8 Jump Trackset Stunt- und Rennaction zu erleben.
+- Das Set lässt sich zur einfachen und bequemen Aufbewahrung zusammenklappen.
 - Einfach den Spurwechsler anpassen, bevor der Schnellstarter geladen und das Hot Wheels Fahrzeug auf eine Strecke geschickt wird, die gut 60 cm hoch ist.
+- Enthält 1 Hot Wheels Fahrzeug. Tolles Geschenk für Kinder ab 5 Jahren.
 - Durch Verbindungspunkte können Kinder es für noch mehr Stunt- und Rennspaß mit anderen Pistenaufbauten verbinden.
 - Bei der einen Strecke durchläuft das Fahrzeug eine 8er-Kurve, bei der anderen einen hufeisenförmigen äußeren Track mit zwei Stunt-Sprüngen in der Mitte des Tracks.
 

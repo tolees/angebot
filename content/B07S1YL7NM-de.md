@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein direkt in die Platine eingebetteter Heatspreader führt die Abwärme der Module ab und ermöglicht, dass der Dominator Platinum RGB auch bei hohe Beanspruchung besonders kühl bleibt
 - Handverlesene, streng selektierte Speicherchips sorgen für hohe Taktfrequenzen, niedrige Latenzen sowie maximalen Overclocking-Spielraum
-- Das markante Corsair Dominator Platinum-Design ergänzt perfekt die weltweit besten Systeme und ermöglicht unverwechselbare High-End-Builds
+- Ein direkt in die Platine eingebetteter Heatspreader führt die Abwärme der Module ab und ermöglicht, dass der Dominator Platinum RGB auch bei hohe Beanspruchung besonders kühl bleibt
 - Durch die Kombination aus Präzisionsdruckguss und Eloxierung entstehen absolute Premium-Speicher mit enormer Haltbarkeit
+- Das markante Corsair Dominator Platinum-Design ergänzt perfekt die weltweit besten Systeme und ermöglicht unverwechselbare High-End-Builds
 - Beleuchten Sie Ihren PC mit spektakulären Lichteffekten ausgehend von 12 individuell ansteuerbaren RGB-LEDs. SPD-Latenzzeit: 15-15-15-36
 
 [🛒 Hier!!]({{< param buyurl >}})

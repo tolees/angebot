@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewicht des Artikels und des Pakets 0.27 kg
 - Höhe des Artikelpakets 11.5 cm
+- Gewicht des Artikels und des Pakets 0.27 kg
 - Breite des Artikelpakets 21.5 cm
 - Länge des Artikelpakets 34.0 cm
 

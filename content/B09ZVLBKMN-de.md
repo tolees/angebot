@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite : Schmal
 - Obermaterial : Leder
+- Schuhweite : Schmal
 - Wasserbeständigkeitsgrad : Nicht Wasserfest
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINE EPISCHE KOLLEKTION ERSTELLEN: Es gibt noch andere Premium-Rollenspielartikel aus der Star Wars Black Series, wie z. B. die Force FX Lichtschwerter und Helme. (Separat erhältlich. Je nach Verfügbarkeit.)
 - INKLUSIVE STÄNDER UND HERAUSNEHMBAREM KYBERKRISTALL: Das Lichtschwert kann – mit oder ohne die abnehmbare Klinge – stolz auf dem enthaltenen Ständer präsentiert werden und der herausnehmbare Kyberkristall sorgt für zusätzlichen Spaß
-- BESONDERS DETAILNAH UND AUTHENTISCH: Das Darth Vader Force FX Elite Lichtschwert zeigt Details, die auf Darth Vaders kultigem, roten Lichtschwert aus Star Wars: Obi-Wan Kenobi basieren
 - Ziel geschlecht: unisex
-- DURCH DIE SERIE INSPIRIERTE EFFEKTE: Durch den Schalter und Knopf am Griff werden vom Film inspirierte Soundeffekte, die schrittweise Aktivierung sowie Battle- und Duell-Effekte und der Kampfsequenz-Modus aktiviert
 - SPEZIALLICHTER MIT SOUNDEFFEKTEN: Die Kombination fortschrittlicher LEDs und Soundeffekte zur Serie macht das Darth Vader Force FX Elite Lichtschwert zum bisher realistischsten Force FX Lichtschwert
+- EINE EPISCHE KOLLEKTION ERSTELLEN: Es gibt noch andere Premium-Rollenspielartikel aus der Star Wars Black Series, wie z. B. die Force FX Lichtschwerter und Helme. (Separat erhältlich. Je nach Verfügbarkeit.)
+- DURCH DIE SERIE INSPIRIERTE EFFEKTE: Durch den Schalter und Knopf am Griff werden vom Film inspirierte Soundeffekte, die schrittweise Aktivierung sowie Battle- und Duell-Effekte und der Kampfsequenz-Modus aktiviert
+- BESONDERS DETAILNAH UND AUTHENTISCH: Das Darth Vader Force FX Elite Lichtschwert zeigt Details, die auf Darth Vaders kultigem, roten Lichtschwert aus Star Wars: Obi-Wan Kenobi basieren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09H1SJK3G{{</world>}}

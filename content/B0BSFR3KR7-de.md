@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Spannendes Taktikspiel, leichte Regeln
 - neue thematische Elemente
-- Spieleranzahl: 2 - 4
 - Empfohlenes Alter: ab 8 Jahren
+- Spieleranzahl: 2 - 4
 - Spieldauer: ca 30 Minuten
 
 [🛒 Hier!!]({{< param buyurl >}})

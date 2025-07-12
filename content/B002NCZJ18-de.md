@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit plangeschliffenen Schneidflächen
-- Schneidet weiche Werkstoffe wie Blei glatt ab
 - Zum flächenbündigen Trennen von gespritzten Kunststoffteilen und Angussresten
 - Mit Öffnungsfeder
+- Schneidet weiche Werkstoffe wie Blei glatt ab
+- Mit plangeschliffenen Schneidflächen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002NCZJ18{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimiert für eine maximale Performanc: Mithilfe der USB-C-Verbindung mit deinem Smartphone vermeidet der Razer Kishi Eingabelatenzen und ermöglicht dir eine flüssige, übergangslose Steuerung — und dank Passthrough kannst du dein Smartphone beim Spielen aufladen
-- Perfekte Passform dank flexiblem Mittelteil: Der Razer Kishi V2 verfügt über ein robustes, ausziehbares Mittelteil, das perfekt für die meisten beliebten Android-Smartphones ist und ihnen sicheren Halt bietet, damit dir im Spiel nicht plötzlich dein Handy wegrutscht
 - Ergonomisches Design: Der Razer Kishi V2 wurde für lange Gaming-Sessions entwickelt, ist aber so kompakt, dass er bequem in die Hosentasche passt – optimiert für Komfort und Portabilität, jede Taste genau an der richtigen Stelle
 - Mobile Gaming in Konsolen-Qualität: Der Razer Kishi entspricht ab Werk den Standards kompetitiver Konsolen-Controller mit modernsten Microswitch-Tasten, analogen Triggern und programmierbaren Makros
+- Perfekte Passform dank flexiblem Mittelteil: Der Razer Kishi V2 verfügt über ein robustes, ausziehbares Mittelteil, das perfekt für die meisten beliebten Android-Smartphones ist und ihnen sicheren Halt bietet, damit dir im Spiel nicht plötzlich dein Handy wegrutscht
 - PC- und Konsolen-Spiele streamen: Mit deinem Razer Kishi kannst du aktuelle PC- und Konsolen-Spiele direkt auf deinem Handy spielen, wobei wir die größten Streaming-Apps unterstützen. Du kannst von deinem eigenen Gerät steamen oder über die Cloud spielen. (Drittanbieter-Hardware und -Services unter Umständen erforderlich)
+- Optimiert für eine maximale Performanc: Mithilfe der USB-C-Verbindung mit deinem Smartphone vermeidet der Razer Kishi Eingabelatenzen und ermöglicht dir eine flüssige, übergangslose Steuerung — und dank Passthrough kannst du dein Smartphone beim Spielen aufladen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09XBHHVV2{{</world>}}

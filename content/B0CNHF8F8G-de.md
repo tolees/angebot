@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modellnummer: 73478
-- Mit Logo für den unverwechselbaren Look
-- Standard Fit
 - Rundhalsausschnitt
+- Mit Logo für den unverwechselbaren Look
+- Modellnummer: 73478
+- Standard Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CNHF8F8G{{</world>}}

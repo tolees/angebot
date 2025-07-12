@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5 fantasiewelten zum Erkunden
 - INTERAKTIVE Umgebungen
+- 5 fantasiewelten zum Erkunden
 - Fortgeschrittene selbstlernende KI
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leistung: die 1300 Lumen und die neutralweiße Lichtfarbe (4.000 Kelvin) sorgen sowohl im Esszimmer, als auch in Küche, Flur und Büro für eine ideale Ausleuchtung.
-- Effizienz: die große quadratische Lichtquelle der Büroleuchte mit 12 Watt verteilt das Licht der Bürodeckenleuchte gleichmäßig im Raum
 - Abmessungen der Bürolampe: 295x295x55mm (LxBxH)
-- Merkmale: Küchenlampe gefertigt aus Kunststoff und Metall in der Farbe Weiß
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse F
+- Leistung: die 1300 Lumen und die neutralweiße Lichtfarbe (4.000 Kelvin) sorgen sowohl im Esszimmer, als auch in Küche, Flur und Büro für eine ideale Ausleuchtung.
+- Merkmale: Küchenlampe gefertigt aus Kunststoff und Metall in der Farbe Weiß
+- Effizienz: die große quadratische Lichtquelle der Büroleuchte mit 12 Watt verteilt das Licht der Bürodeckenleuchte gleichmäßig im Raum
 - Puristische Schönheit: neueste LED-Technologie gepaart mit einem klaren schlanken Design – eine große Lichtquelle ummantelt mit einem dezenten weißen Rahmen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

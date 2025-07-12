@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geheim
 - Confidential
+- Geheim
 - Confidential
 
 [🛒 Hier!!]({{< param buyurl >}})

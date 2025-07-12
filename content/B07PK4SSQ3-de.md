@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit Timerfunktion ausgestattet: aktiviert man die Zeitschaltuhr, so schaltet sich das Licht jeden Tag zur gleichen Zeit ein und leuchtet dann für 6 Stunden, ist der Timer deaktiviert, leuchtet die Lichterkette ununterbrochen
+- Die LED Lämpchen sind in einem Abstand von ca. 10 cm angebracht, der flexible Silberdraht kann beliebig gebogen, geformt und leicht befestigt werden
+- Ideal geeignet zum Basteln, zur Dekoration und für stimmungsvolle Beleuchtung zu Hause, auf Partys, Geburtstagen, Hochzeiten, an Weihnachten und zu anderen Feierlichkeiten
 - Bringen Sie die Lichterkette z.B. an Wänden, Regalen, Fenstern, Türen und Spiegeln an und schaffen Sie mit wenigen Handgriffen eine romantische und warme Atmosphäre
 - Dekorative Lichterkette mit 100 Micro LED in warm weißer Lichtfarbe (Farbtemperatur 2700k), inklusive 2 CR 2032 Knopfzellen, Gesamtlänge ca. 10,2 m (davon ca. 0,3 m Zuleitung), geeignet für den Innenbereich
-- Ideal geeignet zum Basteln, zur Dekoration und für stimmungsvolle Beleuchtung zu Hause, auf Partys, Geburtstagen, Hochzeiten, an Weihnachten und zu anderen Feierlichkeiten
-- Die LED Lämpchen sind in einem Abstand von ca. 10 cm angebracht, der flexible Silberdraht kann beliebig gebogen, geformt und leicht befestigt werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07PK4SSQ3{{</world>}}

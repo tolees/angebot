@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 70 prozent recycelter Polyester / 30 prozent Baumwolle (Single Jersey)
 - Rundhalsausschnitt
+- 70 prozent recycelter Polyester / 30 prozent Baumwolle (Single Jersey)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BNBY5KVR{{</world>}}

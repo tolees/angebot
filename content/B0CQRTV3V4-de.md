@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Du findest ebenfalls 3 Boosterpacks der Pokémon-Sammelkartenspiel-Erweiterung Karmesin & Purpur – Paldeas Schicksale um deine Sammlung zu erweitern und eine Code-Karte für Pokémon-Sammelkartenspiel-Live.
 - Ein Schillerndes Pokémon als Aufkleber!
-- Verleih deinem Smartphone, Laptop oder einem anderen Gerät mit einem loyalen und freundlichen Schillernden Pokémon aus der Paldea-Region den letzten Schliff!
 - Enthält 1 holografische Promokarte und 1 Tech-Sticker mit Gruff.
+- Verleih deinem Smartphone, Laptop oder einem anderen Gerät mit einem loyalen und freundlichen Schillernden Pokémon aus der Paldea-Region den letzten Schliff!
 - Erstrahle hell mit Pokémon aus Paldea!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

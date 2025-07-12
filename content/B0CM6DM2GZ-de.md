@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 x Gigabit-LAN-Anschlüsse für die Anbindung von Geräten wie Router, PC, Drucker, Smart-TV, Hi-Fi-Anlage, Blu-ray-Player, Spielekonsole und andere netzwerkfähige Geräte
-- Erweitert das Heimnetz über die Stromleitung mit Gigabit-Powerline mit bis zu 1.200 MBit/s und Wi-Fi 6 (WLAN AX) mit bis zu 600 MBit/s (2,4 GHz) für anspruchsvolle Anwendungen wie Media-Streaming, HD-Video, NAS-Anbindung, Internet-TV und Video on Demand
-- WLAN Mesh: Mehrere WLAN-Zugangspunkte werden zu einem WLAN-Netz mit optimaler Leistung zusammengefasst, kompatibel zu allen gängigen WLAN-Routern, einfache und sichere WLAN-Einrichtung per Knopfdrucküber WPS
 - Energiesparend im Betrieb durch intelligentes Management bei Nutzung von Powerline und WLAN
+- WLAN Mesh: Mehrere WLAN-Zugangspunkte werden zu einem WLAN-Netz mit optimaler Leistung zusammengefasst, kompatibel zu allen gängigen WLAN-Routern, einfache und sichere WLAN-Einrichtung per Knopfdrucküber WPS
+- Erweitert das Heimnetz über die Stromleitung mit Gigabit-Powerline mit bis zu 1.200 MBit/s und Wi-Fi 6 (WLAN AX) mit bis zu 600 MBit/s (2,4 GHz) für anspruchsvolle Anwendungen wie Media-Streaming, HD-Video, NAS-Anbindung, Internet-TV und Video on Demand
+- 2 x Gigabit-LAN-Anschlüsse für die Anbindung von Geräten wie Router, PC, Drucker, Smart-TV, Hi-Fi-Anlage, Blu-ray-Player, Spielekonsole und andere netzwerkfähige Geräte
 - Lieferumfang: FRITZ!Powerline 1240 AX, FRITZ!Powerline 1210, Netzwerkkabel, Installationsanleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

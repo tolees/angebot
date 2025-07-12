@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimales Zellen-Management: Konstante Überwachung aller Akku Funktionen
-- Technik auf dem neuesten Stand: Keine Überlastung oder Überhitzung
-- Lieferumfang: 1x Black+Decker 18V, 2.0 Ah Li-Ion Powerconnect Slidepack Akku
 - 18 Volt Akku-System: Alle Produkte des 18V Powerconnect Systems können mit diesem Akku betrieben werden
+- Technik auf dem neuesten Stand: Keine Überlastung oder Überhitzung
+- Optimales Zellen-Management: Konstante Überwachung aller Akku Funktionen
+- Lieferumfang: 1x Black+Decker 18V, 2.0 Ah Li-Ion Powerconnect Slidepack Akku
 - Lithium-Ionen-Technologie: Keine Selbstentladung, immer einsatzbereit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

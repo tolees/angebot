@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nass-Wisch-Funktion bis zu 180qm: Der 300ml Wassertank mit pulsierender Wischplatte bewegt das Mikrofasertuch aktiv über den Boden um den Schmutz zu lösen / Wassermenge kann in 3 Stufen eingestellt werden / Parkett geeignet
-- Für Allergiker: Der Feinstaubfilter des 600ml Staubtank filtert zusätzlich zum Staubpartikelfilter und Primärfilter selbst Milbenkot und feinen Staub heraus und sorgt so für extra frische Luft
+- App & Alexa Steuerung: bequem über das Android, iOS Smartphone und Alexa steuerbar / flexible Einstellung der Reinigungszeiten / RealTime Ansicht der gesaugten Bereiche
 - 2 Hauptbürsten: V-Borstenbürste - Ideal für Teppich / Gummi-Lamellen-Bürste - perfekt für die schonende Reinigung von Hartböden wie Laminat, Parkett / optimal für Tierhaare
 - PanoView Navigation 2. 0: Der ZACO A9s erstellt eine präzise 3D-Karte der Wohnumgebung und startet mit einer höchsteffizienten Reinigung. Die Fallschutz-Sensorik erkennt Treppen und steuert den A9s vorsichtig an der Kante entlang
-- App & Alexa Steuerung: bequem über das Android, iOS Smartphone und Alexa steuerbar / flexible Einstellung der Reinigungszeiten / RealTime Ansicht der gesaugten Bereiche
+- Für Allergiker: Der Feinstaubfilter des 600ml Staubtank filtert zusätzlich zum Staubpartikelfilter und Primärfilter selbst Milbenkot und feinen Staub heraus und sorgt so für extra frische Luft
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TWVWP7X{{</world>}}

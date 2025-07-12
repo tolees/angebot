@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tragbarer CD Player für Kinder und Erwachsene erhältlich in drei verschiedenen Farbvarianten (schwarz, blau oder rot)
-- Boombox mit Stereo-Sound und 2x 1, 1 Watt RMS Ausgangsleistung - Netz- oder Batteriebetrieb möglich (Batterien nicht im Lieferumfang enthalten)
-- CD Spieler unterstützt die Wiedergabe von CD, CD-R und CD-RW/ AUX-In zum Anschluss weiterer Geräte wie z.B. MP3-Player oder Smartphone
-- Lieferumfang: Karcher RR 5025 Kinderradio in schwarz, Netzkabel, Bedienungsanleitung (DE/EN)
 - Kopfhörerausgang und AUX-In zum Anschluss weiterer Geräte wie z.B. MP3-Player oder Smartphone
+- Tragbarer CD Player für Kinder und Erwachsene erhältlich in drei verschiedenen Farbvarianten (schwarz, blau oder rot)
+- Lieferumfang: Karcher RR 5025 Kinderradio in schwarz, Netzkabel, Bedienungsanleitung (DE/EN)
+- CD Spieler unterstützt die Wiedergabe von CD, CD-R und CD-RW/ AUX-In zum Anschluss weiterer Geräte wie z.B. MP3-Player oder Smartphone
+- Boombox mit Stereo-Sound und 2x 1, 1 Watt RMS Ausgangsleistung - Netz- oder Batteriebetrieb möglich (Batterien nicht im Lieferumfang enthalten)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07K6YPKW3{{</world>}}

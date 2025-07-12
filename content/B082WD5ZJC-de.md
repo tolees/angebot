@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vom Hersteller empfohlenes Alter: 7+
 - Anzahl der Teile: 493
+- Vom Hersteller empfohlenes Alter: 7+
 - Enthält 4 Eternals-Superhelden-Minifiguren: Ikaris, Sersi und exklusiv Ajak and Kingo, eine Deviant-Figur und eine bewegliche Celestial-Figur
 - Die große Celestial-Figur hat eine leuchtende Brust mit einem Leuchtstein und Arme, die zugreifen können – sie kann eine Eternal-Minifigur in ihren Händen halten
 - In Arishems Schatten

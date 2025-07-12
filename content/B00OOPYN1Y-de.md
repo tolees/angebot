@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Babys lieben es, in dieser kuscheligen Safari-Umgebung zu spielen!
-- 3 verschiedene Spieloptionen: aktives Entdecken, Liegen/Spielen auf dem Bauch und aktives Spielen
 - Zu den weiteren Spielzeugen gehören: Löwenklingel, babysicherer Spiegel, Ringrassel und Elefantenlink
+- 3 verschiedene Spieloptionen: aktives Entdecken, Liegen/Spielen auf dem Bauch und aktives Spielen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00OOPYN1Y{{</world>}}

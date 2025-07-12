@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: 100% Polyester
+- Geeignet für - Spirit II 300 Serie, Spirit 300 Serie und Spirit 200 Serie (mit seitlich montierten Bedienelementen)
+- Schönheit und Leistung bleiben lange erhalten
 - Sicher vor Wind und Wetter. Klettverschlüsse halten die Abdeckung an Ort und Stelle
 - Langlebig und sehr strapazierfähig. Atmungsaktiv und wasser- und schmutzabweisend zum Schutz des Grills vor Witterungseinflüssen
-- Schönheit und Leistung bleiben lange erhalten
 - Hochwertiges Polyester UV-Stabilisatoren im Material bieten Schutz vor dem Ausbleichen
-- Geeignet für - Spirit II 300 Serie, Spirit 300 Serie und Spirit 200 Serie (mit seitlich montierten Bedienelementen)
+- Material: 100% Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07HCBRMJY{{</world>}}

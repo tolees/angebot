@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dri-Fit-Technologie
 - Rundhalsausschnitt
+- Dri-Fit-Technologie
 - Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

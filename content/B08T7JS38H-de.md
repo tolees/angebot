@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Farbe: Mehrfarbig
 - Games Workshop Warhammer 40 000 Combat Patrol Death Guard
 - Brand Games Workshop
-- Farbe: Mehrfarbig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08T7JS38H{{</world>}}

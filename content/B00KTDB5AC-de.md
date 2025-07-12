@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abwärts kompatibel mit USB 20-Geräten
 - Hochwertige abgeschirmte Twisted Pair (STP)-Konstruktion
+- Abwärts kompatibel mit USB 20-Geräten
 - Datenübertragungsraten bis zu 5 Gbit/s
 - Entwickelt und konstruiert gemäß den SuperSpeed USB 32 Gen1-Spezifikationen
 

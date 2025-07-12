@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Kartenspiel lässt sich gut zu zweit, aber auch in größeren Gruppen mit bis zu 8 Spielern ab 8 Jahren spielen. Die Regeln sind leicht verständlich und mit einer Spieldauer von 45min eignet sich Skull King ideal für jeden Spieleabend mit der Familie oder mit Freunden
-- Dank des kompakten Formats kann Skull King sehr einfach in den Urlaub oder zu Freunden mitgenommen werden und ist ein tolles Geschenk zu jedem Anlass
-- Die vielen Spielvarianten garantieren lang anhaltenden und abwechslungsreichen Spielspaß
 - Die Piratenkarten haben dabei besondere Eigenschaften, die noch mehr Spannung ins Piratenabenteuer bringen. Sie zerschlagen so manche Pläne oder wetzen mit gewieftem Ausspiel so manche Scharte aus
+- Die vielen Spielvarianten garantieren lang anhaltenden und abwechslungsreichen Spielspaß
+- Das Kartenspiel lässt sich gut zu zweit, aber auch in größeren Gruppen mit bis zu 8 Spielern ab 8 Jahren spielen. Die Regeln sind leicht verständlich und mit einer Spieldauer von 45min eignet sich Skull King ideal für jeden Spieleabend mit der Familie oder mit Freunden
 - Skull King ist ein Stichkartenspiel, bei dem man in jeder Runde vorhersagen muss, wieviele Stiche man macht. Wer am Ende am häufigsten richtig liegt, gewinnt
+- Dank des kompakten Formats kann Skull King sehr einfach in den Urlaub oder zu Freunden mitgenommen werden und ist ein tolles Geschenk zu jedem Anlass
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CFR46ZNW{{</world>}}

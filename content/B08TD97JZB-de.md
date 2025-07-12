@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der HEROCCO 36/28 ist ausgestattet mit einer universal SDS-plus-Werkzeugaufnahme mit Halbautomatik. Der robuste, stufenlos einstellbare Bohrtiefenanschlag ist aus massivem Metall gefertigt. Für erhöhte Anwendersicherheit sorgt die Überlastrutschkupplung.
 - Mit der TWIN-PACK Technologie wird der Bohrhammer von zwei 18 Volt PXC-Akkus betrieben, das bedeutet: mehr Power für widrige Materialien. Das pneumatische Schlagwerk des Bohrhammers sorgt für kontinuierliches Bohren bis zu 28 mm in Beton.
+- Der HEROCCO 36/28 ist ausgestattet mit einer universal SDS-plus-Werkzeugaufnahme mit Halbautomatik. Der robuste, stufenlos einstellbare Bohrtiefenanschlag ist aus massivem Metall gefertigt. Für erhöhte Anwendersicherheit sorgt die Überlastrutschkupplung.
 - Zum Betrieb sind zwei 18 Volt Power X-Change Akkus nötig, für beste Ergebnisse werden 3,0 Ah-Akkus oder größer empfohlen. Die Lieferung erfolgt im Transport- und Aufbewahrungskoffer E-Box, inklusive zwei 4 Ah Akkus und einem Twincharger.
+- Mit der fein dosierbaren Drehzahl-Elektronik zum gefühlvollen Arbeiten wird die Kraft im Zaum gehalten. Für den besten Blick auf den Arbeitsbereich ist der Bohrhammer mit einem LED-Licht ausgerüstet.
 - Als Mitglied der Power X-Change-Familie von Einhell können alle hochwertigen Lithium-Ionen-Akkus der Serie mit dem HEROCCO kombiniert werden. Der bürstenlose Motor bietet mehr Power und eine längere Laufzeit als ein herkömmlicher Kohlebürsten-Motor.
 - Der Einhell Akku-Bohrhammer HEROCCO 36/28 ist ein starker Helfer für die Baustelle, der 3,2 Joule Kraft und eine hohe Bohrleistung mit der kabellosen Freiheit eines Akku-Gerätes zum Bohren, Hammerbohren sowie Meißeln mit und ohne Fixierung vereint.
-- Mit der fein dosierbaren Drehzahl-Elektronik zum gefühlvollen Arbeiten wird die Kraft im Zaum gehalten. Für den besten Blick auf den Arbeitsbereich ist der Bohrhammer mit einem LED-Licht ausgerüstet.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08TD97JZB{{</world>}}

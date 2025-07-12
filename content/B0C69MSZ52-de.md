@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Flach
 - Obermaterial: Leder
+- Absatzform: Flach
 - Verschluss: Schnürung
 - Innenmaterial: Synthetik
 - Sohle: Gummi

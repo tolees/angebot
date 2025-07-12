@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultraleichte Sonnencreme für das Gesicht, die schnell einzieht und smit der Haut verschmilzt. Geeignet für alle Hauttypen
-- Kann auf nasse Haut aufgetragen werden: Wirkt auch nach dem Schwimmen oder Schwitzen. ISDIN engagiert sich für Projekte zur Regeneration der Meere und Ozeane
-- Das erste Sonnenschutzmittel für das Gesicht auf Öl-in-Wasser-Basis, mit ultraleichter Textur, zieht sofort ein. Für die tägliche Anwendung
 - Brennt nicht in den Augen dank Safe-Eye Technologie
 - Sehr hoher Lichtschutzfaktor: LSF 50, UVA und UVB
+- Das erste Sonnenschutzmittel für das Gesicht auf Öl-in-Wasser-Basis, mit ultraleichter Textur, zieht sofort ein. Für die tägliche Anwendung
+- Kann auf nasse Haut aufgetragen werden: Wirkt auch nach dem Schwimmen oder Schwitzen. ISDIN engagiert sich für Projekte zur Regeneration der Meere und Ozeane
+- Ultraleichte Sonnencreme für das Gesicht, die schnell einzieht und smit der Haut verschmilzt. Geeignet für alle Hauttypen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00Z72U6JQ{{</world>}}

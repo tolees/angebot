@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - KLASSISCHE STAR WARS FIGUR: Diese Mandalorian Super Commando Captain Action-Figur ist an den Charakter in Star Wars: The Clone Wars angelehnt und perfekt als Geschenk für Star Wars Sammler und Fans ab 4 Jahren geeignet
-- AUF DER SERIE BASIERENDES, VOM CHARAKTER INSPIRIERTES ZUBEHÖR: Diese Action-Figur aus der Star Wars The Vintage Collection kommt mit 4 Accessoires zur Serie, die sie zu einer tollen Erweiterung jeder Star Wars Kollektion machen
 - VERPACKUNG IM VINTAGE-STIL: Die 9,5 cm großen klassischen Star Wars Figuren und Fahrzeuge aus der Star Wars The Vintage Collection haben das originale Kenner Branding (Jeweils separat erhältlich. Je nach Verfügbarkeit.)
 - PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Dank ihrer hohen Beweglichkeit in Kopf, Armen und Beinen kann die Star Wars Mandalorian Super Commando Captain Figur in Action-Figuren- und Fahrzeug-Kollektionen präsentiert werden
 - MANDALORIANISCHER SUPERKOMMANDO: Mauls Mandalorianer verändern ihre Rüstung, um ihre Treue gegenüber dem dunklen Lord zu zeigen. Diese Superkommandos tragen Rot und Schwarz und einige platzierten sogar Hörner auf ihrem Helm
+- AUF DER SERIE BASIERENDES, VOM CHARAKTER INSPIRIERTES ZUBEHÖR: Diese Action-Figur aus der Star Wars The Vintage Collection kommt mit 4 Accessoires zur Serie, die sie zu einer tollen Erweiterung jeder Star Wars Kollektion machen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09H1T8MN2{{</world>}}

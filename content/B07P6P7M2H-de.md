@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sobald der Regen beginnt, erhalten Sie eine entsprechende Benachrichtigung auf Ihr Smartphone
-- Installation an Wand, Dach, Pfosten, Geländer oder einfach auf einem Brett
 - Vernetzung des Regenmessers mit Ihrem Smartphone, Tablet oder PC
 - Mit einer Halterung kann entweder ein Windmesser oder ein Regenmesser angebracht werden.
 - Messen Sie die Niederschlagsmenge und rechnen Sie aus, wie viel Wasser Ihre Pflanzen benötigen
-- Packungsinhalt: 1 Halterung, 1 Pfosten/Geländer Adapter, 2 Schlauchschellen, 3 Schrauben, 3 Dübel
 - Der Netatmo Regenmesser funktioniert nur in Verbindung mit der separat erhältlichen Netatmo Wetterstation
 - Um einen Regenmesser und einen Windmesser abzubringen, sind zwei Halterungen erforderlich.
+- Installation an Wand, Dach, Pfosten, Geländer oder einfach auf einem Brett
+- Sobald der Regen beginnt, erhalten Sie eine entsprechende Benachrichtigung auf Ihr Smartphone
+- Packungsinhalt: 1 Halterung, 1 Pfosten/Geländer Adapter, 2 Schlauchschellen, 3 Schrauben, 3 Dübel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07P6P7M2H{{</world>}}

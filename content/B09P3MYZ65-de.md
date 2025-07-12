@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nur wer die Entscheidungen der Mitspielenden aufmerksam beobachtet, wird lukrative Gelegenheiten für sich selbst entdecken
 - Die Spielenden versuchen, ihre Unternehmen durch kluge Investitionen in Immobilien, Industrie und Transportwesen zu vergrößern
+- Nur wer die Entscheidungen der Mitspielenden aufmerksam beobachtet, wird lukrative Gelegenheiten für sich selbst entdecken
 - Carnegie ist ein elegantes und interaktives Managementspiel
 
 [🛒 Hier!!]({{< param buyurl >}})

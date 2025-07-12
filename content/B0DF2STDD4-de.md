@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Material-Upgrade: Die Drohne hat ein nicht faltbares Design, das die Kraftfläche des Rumpfes erhöht, während das Gewicht des Rumpfes erhöht wird, so dass die Höhenwartung und der Flug stabiler sind, stärkerer Windwiderstand.
+- Langes Fliegen: Im normalen Flugmodus unterstützen 2 wiederaufladbare Batterien jeweils 15 Minuten, insgesamt also 30 Minuten. Der Akku kann durch einfaches An- und Abstecken ausgetauscht werden. Der Akku ist mit einem Überladungsschutz ausgestattet und lässt sich sicher aufladen.
+- 360° drehen: Drücken Sie die Flip-Taste und steuern Sie den rechten Joystick, wird die Drohne 360° in der Luft drehen. Drücken Sie die "One Key Start/Landing"-Taste, und die Drohne wird automatisch starten oder landen. Die Drohne verfügt über insgesamt 3 Fluggeschwindigkeitsmodi, niedrige Geschwindigkeit für Kinder und Anfänger.
+- Einfach zu steuern: Mehrere Fernbedienungsmethoden und Ein-Tasten-Bedienungsfunktionen sind ausschließlich für Anfänger konzipiert. Sie können die Taste Steuerung, mobile App-Steuerung, Schwerkraft-Steuerung, Sprachsteuerung und andere nützliche Modi nach verschiedenen Situationen zu wechseln.
+- Bitte beachten Sie: Die Drohne muss vor dem Start und nach dem Kippen auf die Seite neu kalibriert werden. Wenn Sie die Drohne vor dem Start nicht kalibrieren und nicht auf einer ebenen Fläche starten, fliegt die Drohne nach dem Start schräg und lässt sich nicht mit der Fernbedienung steuern und ist zu 100% verloren.
 - Altitude Hold: Wenn der Wind weniger betroffen ist, kann diese Drohne automatisch schweben, dieser Modus kann einen stabilen Schwebeflug in einer bestimmten Höhe in der Luft gewährleisten. Wenn die Drohne in der Luft nach links oder rechts kippt, müssen Sie die Trimmtaste verwenden, um den Schwebeflug zu unterstützen.
 - Intelligenter Alarm: Wenn die Batterie des Senders oder der Drohne schwach ist, blinken die Lichter des Senders und der Drohne, um einen Alarm auszulösen. Auch wenn die Drohne die Entfernung von 100 Metern überschreitet, wird der Sender auch einen Alarm ertönen, müssen Sie die Rückkehr nach Hause Taste drücken.
-- 360° drehen: Drücken Sie die Flip-Taste und steuern Sie den rechten Joystick, wird die Drohne 360° in der Luft drehen. Drücken Sie die "One Key Start/Landing"-Taste, und die Drohne wird automatisch starten oder landen. Die Drohne verfügt über insgesamt 3 Fluggeschwindigkeitsmodi, niedrige Geschwindigkeit für Kinder und Anfänger.
-- Langes Fliegen: Im normalen Flugmodus unterstützen 2 wiederaufladbare Batterien jeweils 15 Minuten, insgesamt also 30 Minuten. Der Akku kann durch einfaches An- und Abstecken ausgetauscht werden. Der Akku ist mit einem Überladungsschutz ausgestattet und lässt sich sicher aufladen.
-- Bitte beachten Sie: Die Drohne muss vor dem Start und nach dem Kippen auf die Seite neu kalibriert werden. Wenn Sie die Drohne vor dem Start nicht kalibrieren und nicht auf einer ebenen Fläche starten, fliegt die Drohne nach dem Start schräg und lässt sich nicht mit der Fernbedienung steuern und ist zu 100% verloren.
-- Einfach zu steuern: Mehrere Fernbedienungsmethoden und Ein-Tasten-Bedienungsfunktionen sind ausschließlich für Anfänger konzipiert. Sie können die Taste Steuerung, mobile App-Steuerung, Schwerkraft-Steuerung, Sprachsteuerung und andere nützliche Modi nach verschiedenen Situationen zu wechseln.
-- Material-Upgrade: Die Drohne hat ein nicht faltbares Design, das die Kraftfläche des Rumpfes erhöht, während das Gewicht des Rumpfes erhöht wird, so dass die Höhenwartung und der Flug stabiler sind, stärkerer Windwiderstand.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DF2STDD4{{</world>}}

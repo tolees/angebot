@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das zweiteilige Schnellspannbohrfutter ermöglicht einen schnellen und einfachen Wechsel der Bohrer
 - Standardausstattung: EasyImpact 600, Koffer
 - Kompaktes, leichtes und ergonomisches Werkzeug für komfortables Handling und einfaches Bohren von bis zu 12 mm Durchmesser in Mauerwerk und bis zu 25 mm in Holz
 - Das Bosch Electronic System ermöglicht die Regelung der Geschwindigkeit beim Bohren durch Abstufung der Druckkraft auf den
+- Das zweiteilige Schnellspannbohrfutter ermöglicht einen schnellen und einfachen Wechsel der Bohrer
 - Werkzeuge der Easy Serie von Bosch - Das handliche Werkzeug für alle kleinen Projekte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

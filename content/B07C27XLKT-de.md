@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maschinenwäsche, halbe Last, kurzer Schleuderzyklus bei 40 ° C
-- 100% Baumwolle
 - Slim Fit Strick
 - Hergestellt aus bequemer Baumwolle
+- 100% Baumwolle
+- Maschinenwäsche, halbe Last, kurzer Schleuderzyklus bei 40 ° C
 - Kleines Denim-Aussehen auf der Seite
 
 [🛒 Hier!!]({{< param buyurl >}})

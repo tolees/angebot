@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Energieüberwachung - Weniger Abfall, niedrigere Rechnungen. Überwachen und steuern Sie den Stromverbrauch für optimale Effizienz. Umweltbewusst handeln, Geld sparen!
 - 12 Monate Kundendienst - Wenn Sie Probleme haben, wenden Sie sich bitte an das Nooie-Team, wir werden alle Probleme für Sie lösen, zu jeder Zeit.
 - RICHTIGE ROUTINEN EINRICHTEN - Mit der Smart Life APP können Sie Ihre Haushaltsgeräte sorgenfrei steuern, indem Sie automatische Tageszeiten und -pläne festlegen, damit Ihre Geräte (wie z.B. Lampen, Heizung und Kaffeemaschine usw.) selbstständig ein- und ausgeschaltet werden können, was Komfort und Effizienz in Ihr Leben bringt.
+- Energieüberwachung - Weniger Abfall, niedrigere Rechnungen. Überwachen und steuern Sie den Stromverbrauch für optimale Effizienz. Umweltbewusst handeln, Geld sparen!
 - MACHEN SIE IHR ZUHAUSE SMART - Mit dem Nooie Smart Plug können sie ,mit Alexa und Google Home Ihre Lichter, Lüfter, Kaffeemaschinen und mehr sprachgesteuert steuern. Mit mehreren intelligenten Steckern können Sie mehrere Steckdosen steuern. Kein Smart Home Hub erforderlich.
 - SMARTLIFE&TUYA- Sie können Geräte nach dem Herunterladen der KOSTENLOSEN APP Smart Life&Tuya jederzeit und überall, über Ihr Telefon fernsteuern. Sie müssen sich nicht bewegen, um die Geräte ein- und auszuschalten, auch wenn sie zu Hause sind.
 

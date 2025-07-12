@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Faszinierenden Lichtausbeute
-- Hybrid-AF mit extrem großer Bildfeldabdeckung
 - Doppelte Leistung durch zwei EXPEED-Prozessoren
+- Hybrid-AF mit extrem großer Bildfeldabdeckung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BL1FCH7X{{</world>}}

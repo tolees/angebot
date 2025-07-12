@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PREMIUM BEWEGUNGSPUNKTE UND DETAILS: Star Wars Fans und Sammler können diese vollbewegliche Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
-- AUF DER SERIE BASIERENDES, VOM CHARAKTER INSPIRIERTES ZUBEHÖR: Diese Action-Figur aus der Star Wars The Black Series kommt mit 1 galaktischen Accessoire, das sie zu einer tollen Erweiterung jeder Star Wars Kollektion macht
-- FIFTH BROTHER (INQUISITOR): Obi-Wan Kenobi spielt Jahre nach den dramatischen Ereignissen von Star Wars: Die Rache der Sith, wo Kenobi der Korruption seines Freundes Anakin Skywalker entgegentrat, der zum Sith Lord Darth Vader geworden war
 - STAR WARS: OBI-WAN KENOBI: Mit dieser Fifth Brother (Inquisitor) Premium Figur können Fans und Sammler Szenen aus der Star Wars Galaxis nachspielen. Sie ist von der Serie Star Wars: Obi-Wan Kenobi inspiriert
+- FIFTH BROTHER (INQUISITOR): Obi-Wan Kenobi spielt Jahre nach den dramatischen Ereignissen von Star Wars: Die Rache der Sith, wo Kenobi der Korruption seines Freundes Anakin Skywalker entgegentrat, der zum Sith Lord Darth Vader geworden war
+- AUF DER SERIE BASIERENDES, VOM CHARAKTER INSPIRIERTES ZUBEHÖR: Diese Action-Figur aus der Star Wars The Black Series kommt mit 1 galaktischen Accessoire, das sie zu einer tollen Erweiterung jeder Star Wars Kollektion macht
 - ES GIBT NOCH ANDERE FIGUREN AUS EINER WEIT, WEIT ENTFERNTEN GALAXIS: Mit Figuren aus der Star Wars Black Series zu den Filmen und Serien lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- PREMIUM BEWEGUNGSPUNKTE UND DETAILS: Star Wars Fans und Sammler können diese vollbewegliche Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09H17XXBJ{{</world>}}

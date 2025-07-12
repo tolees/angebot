@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Wasserdichtes Material
 - Techlite leichte Mittelsohle für Komfort und Dämpfung
 - Omni-Grip spurlose Traktions-Gummisohle für idealen Grip
-- Wasserdichtes Material
 - Wildleder, Textil und Gewebe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

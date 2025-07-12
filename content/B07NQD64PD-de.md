@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Mit der Pollyville Spielhalle kennt der Spielspaß keine Grenzen. Bei den Bewegungsspielen können Kinder mit den kleinen Polly und Lila-Puppen interagieren
 - Die Spielhalle ist mit anderen Pollyville Läden (alle Artikel separat erhältlich) kombinierbar. Die Gehwege können zu einer ganzen Spielstraße und einer kompletten Spielwelt zusammengefügt werden
 - Die Polly-Stick-Technologie sorgt dafür, dass die kleinen Polly und Lila-Puppen überall in der Spielhalle haften. Einfach einen Sticker (Stickerbogen enthalten) auf der entsprechende Stelle platzieren, und die Puppen finden dort sicheren Halt
-- In der Spielhalle lassen sich vier Etagen entdecken für noch mehr Spielspaß. Es kann auch auseinander gefaltet werden, so dass es rundum Spielmöglichkeiten bietet
 - Spielhalle mit vier Etagen voller Spielspaß, kleinen Polly und Lila-Puppen, ein Stickerbogen und fünf kleinen Accessoires. Außerdem inklusive Video- und Spielhallenspielen und Fahrrad
+- In der Spielhalle lassen sich vier Etagen entdecken für noch mehr Spielspaß. Es kann auch auseinander gefaltet werden, so dass es rundum Spielmöglichkeiten bietet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07NQD64PD{{</world>}}

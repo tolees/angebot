@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: Acer Chromebook Plus 515, 65W AC-Netzteil (USB Type C Adapter) | TASTATUR: beleuchtet, Google Tastatur Layout mit QWERTZ Anordnungen | TOUCHPAD
-- ANSCHLÜSSE: HDMI, Displayport über USB Type-C, 3xUSB 3.2 (1x Type-A Gen 1 , 2x Type-C Gen 1 ), Audio Anschluss: 1xLautsprecher/Kopfhörer/Line-out (unterstützt Headsets mit integriertem Mikrofon 3,5 mm Port) KABELLOS: WLAN, Bluetooth 5.2
 - Für jede Aufgabe bereit. Chromebooks bieten deine liebsten Google Apps, sorgenfreie Sicherheit und Geschwindigkeit, auf die du dich verlassen kannst.
 - PROZESSOR: Intel Core i3-1215U (3,3 GHz E-Core | 4,4 GHz P-Core Max Turbo Frequency) GRAFIKKARTE: Intel UHD Graphics FESTPLATTE: 256 GB PCIe NVMe (SSD) ARBEITSSPEICHER: 8 GB LPDDR5 RAM | KEIN WINDOWS
 - AKKULAUFZEIT: Bis zu 10 Stunden | AKKU: Li-Ion Akku (4 Zellen / 56 Wh)
+- LIEFERUMFANG: Acer Chromebook Plus 515, 65W AC-Netzteil (USB Type C Adapter) | TASTATUR: beleuchtet, Google Tastatur Layout mit QWERTZ Anordnungen | TOUCHPAD
+- ANSCHLÜSSE: HDMI, Displayport über USB Type-C, 3xUSB 3.2 (1x Type-A Gen 1 , 2x Type-C Gen 1 ), Audio Anschluss: 1xLautsprecher/Kopfhörer/Line-out (unterstützt Headsets mit integriertem Mikrofon 3,5 mm Port) KABELLOS: WLAN, Bluetooth 5.2
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CD866XR5{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 12 Packungen Wasa Knäckebrot 100 mit Mohn und Leinsamen mit je 245 g / Besondere 100 Jahre Wasa Edition / 100 % Roggenmehl / Reich an Ballaststoffen
 - Die Marke Wasa ist zu 100 % CO2-neutral und steht für eine gesunde Lebensweise, Fortschrittlichkeit und die Liebe zur Natur - für gegenwärtige und zukünftige Generationen
+- Zur Feier des 100-jährigen Bestehens von Wasa eingeführt: Das extra dünn und knusprig gebackene Knäckebrot aus 100 % Roggenvollkorn, mit Leinsamen, Mohn und Meersalz verfeinert
 - Meersalz unterstützt mit seinem Mineralgehalt den Flüssigkeitshaushalt des Körpers und kann Muskelkrämpfen vorbeugen, nebenbei sorgt es für ein köstliches Geschmackserlebnis
 - Das originielle Knäckebrot eignet sich hervorragend für eine ausgewogene Mahlzeit oder für den kleinen Hunger zwischendurch - mit einem leckeren Belag oder auch als Beilage zu einem Salat
-- Lieferumfang: 12 Packungen Wasa Knäckebrot 100 mit Mohn und Leinsamen mit je 245 g / Besondere 100 Jahre Wasa Edition / 100 % Roggenmehl / Reich an Ballaststoffen
-- Zur Feier des 100-jährigen Bestehens von Wasa eingeführt: Das extra dünn und knusprig gebackene Knäckebrot aus 100 % Roggenvollkorn, mit Leinsamen, Mohn und Meersalz verfeinert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SRQX29Z{{</world>}}

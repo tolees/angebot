@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Reißverschluss
 - Obermaterial: Leder
+- Verschluss: Reißverschluss
 - Sohle: Thermoplastisches Polyurethan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

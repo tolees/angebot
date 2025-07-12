@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Stelle dich den Horden einer verrückt gewordenen KI
 - Erlebe die nicht-lineare Geschichte in deinem eigenen Tempo
-- Begib dich in den Cyberspace und öffne alternative Wege
 - Verbessere deine Fähigkeiten, um deinen Gegnern gewachsen zu sein
+- Begib dich in den Cyberspace und öffne alternative Wege
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CXXGCPWP{{</world>}}

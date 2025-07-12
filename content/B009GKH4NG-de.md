@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausgänge: 1 Paar RCA/Cinch-Buchsen, 1x koaxial (S/PDIF)
 - 24bit/192kHz Burr Brown DAC (PCM1796)
 - „Blue Tiger“ Servoboard für perfekte 1:1 CD Wiedergabe
-- Robustes und zuverlässiges Ganzmetall CD-Laufwerk
 - Fernbedienung mit Lautstärkeregelung für Pro-Ject Verstärker
+- Ausgänge: 1 Paar RCA/Cinch-Buchsen, 1x koaxial (S/PDIF)
+- Robustes und zuverlässiges Ganzmetall CD-Laufwerk
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009GKH4NG{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewebte Lasche am Ärmel
+- Gesticktes ellesse Logo auf der Brust
 - Klassische Passform mit hochgeschlossenem Rippkragen
 - Aus unserer Kernkollektion, die den ganzen Tag Komfort garantiert
 - Material: 100 % Baumwolle
-- Gesticktes ellesse Logo auf der Brust
+- Gewebte Lasche am Ärmel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07Q33JPQ2{{</world>}}

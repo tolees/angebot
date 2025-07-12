@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 2 Jahre Herstellergarantie, umfangreicher Ersatzteil-Shop
-- Inklusive Filterpumpe (1.429 l/h) und passender Filterkartusche
 - Sichere Verbindung durch T-Verbinder, robustes, 3-lagiges DuraPlus -Material sorgt für enorme Langlebigkeit, selbstklebender Reparaturflicken, Antihaftbeschichtung, PVC-Band für extra Stabilität
+- Inklusive Filterpumpe (1.429 l/h) und passender Filterkartusche
 - Größe: 305 x 76 cm, Wasserkapazität (90%): 4.678 Liter, einfacher Aufbau ohne Werkzeug, Innenverkleidung in Kieselmosaik-Optik
 - Müheloser Abbau, Lagerung sowie Transport, einfaches Entleeren durch integriertes Ablassventil (Gartenschlauchadapter enthalten)
 

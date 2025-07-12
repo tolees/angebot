@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- E-Zulassung
 - H7 12V 55W
 - Die besten Produkte
+- E-Zulassung
 - Gut zu gebrauchen
 - Qualität/Haltbarkeit
 

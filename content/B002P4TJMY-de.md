@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1/4" Sechskant-Antrieb
 - Verhindert vorzeitigen Bruch der Abtriebsspitze
-- Zähhart, besonders geeignet für den harten Schraubfall z. B. in Blech oder Metall
 - Für Kreuzschlitzschrauben Phillips-Recess
+- 1/4" Sechskant-Antrieb
+- Zähhart, besonders geeignet für den harten Schraubfall z. B. in Blech oder Metall
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002P4TJMY{{</world>}}

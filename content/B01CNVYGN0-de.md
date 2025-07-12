@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Glättet die Haaroberfläche und verleiht Volumen
 - Dank der DiffusX Technology zieht das Oil in Sekundenschnelle in das Haar ein.
-- Enthält Zedernöl, Sandelholzöl und Arganöl für maximale Pflege
-- Modellierbare, pudrige Paste für ein mattes Finish
 - Weiche, trockene professionelle Stylingpaste für alle Haartypen
+- Modellierbare, pudrige Paste für ein mattes Finish
+- Enthält Zedernöl, Sandelholzöl und Arganöl für maximale Pflege
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01CNVYGN0{{</world>}}

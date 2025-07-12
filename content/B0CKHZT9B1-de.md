@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rollei Easy Traveler Carbonstativ – Hohe Tragkraft: Beeindruckende 5 kg Belastbarkeit für stabile Unterstützung
 - Rollei Easy Traveler Carbonstativ – Einfache Feststellfunktion: Neues Kugelkopf-Design mit müheloser Verriegelungsfunktion
 - Rollei Easy Traveler Carbonstativ – Kompaktes Packmaß: Mit nur 43,2 cm lässt sich das Stativ mühelos transportieren und verstauen
-- Rollei Easy Traveler Carbonstativ – Ultraleichtes Carbon-Stativ: Nur 1,14 kg für bequemen Transport und stabile Handhabung
+- Rollei Easy Traveler Carbonstativ – Hohe Tragkraft: Beeindruckende 5 kg Belastbarkeit für stabile Unterstützung
 - Rollei Easy Traveler Carbonstativ – Maximale Höhe von 160 cm: Erreichen Sie die gewünschte Aufnahmehöhe mühelos
+- Rollei Easy Traveler Carbonstativ – Ultraleichtes Carbon-Stativ: Nur 1,14 kg für bequemen Transport und stabile Handhabung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKHZT9B1{{</world>}}

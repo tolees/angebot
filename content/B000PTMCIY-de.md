@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fallenkörper nach der Ernte oder Anfang August entfernen und für nächstjährige Anwendung trocken aufbewahren
-- Fallenset mit 1 Fallenkörper, 2 Pheromon-Dispensern + 2 Leimböden - 1 Falle reicht für 1-5 Bäume
-- Ab Mitte Mai in Kopfhöhe an luftigem Platz neben die zu schützenden Bäume hängen
 - Als Beobachtungsfalle und zur Befallskontrolle des Pflaumenwicklers an Zwetschgen, Pflaumenarten und Marillen
-- Mit Pheromon Lockwirkung (Sexuallockstoff) - zum Abfangen der Pflaumenwicklermännchen
-- Das insektizidfreie Fallensystem hat sich im ökologischen und integrierten Obstbau bewährt
 - Die Männchen des Pflaumenwicklers werden durch den Sexuallockstoff in die Falle gelockt - so bleiben Weibchen unbefruchtet und legen keine Eier ab
+- Fallenset mit 1 Fallenkörper, 2 Pheromon-Dispensern + 2 Leimböden - 1 Falle reicht für 1-5 Bäume
+- Das insektizidfreie Fallensystem hat sich im ökologischen und integrierten Obstbau bewährt
+- Fallenkörper nach der Ernte oder Anfang August entfernen und für nächstjährige Anwendung trocken aufbewahren
+- Ab Mitte Mai in Kopfhöhe an luftigem Platz neben die zu schützenden Bäume hängen
+- Mit Pheromon Lockwirkung (Sexuallockstoff) - zum Abfangen der Pflaumenwicklermännchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000PTMCIY{{</world>}}

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Großer Logoprint auf der Brust
-- Rundhalsausschnitt
 - Kurzärmliges Baumwoll-T-Shirt
+- Rundhalsausschnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00DGUZK74{{</world>}}

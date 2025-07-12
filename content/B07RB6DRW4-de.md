@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fleece Material sorgt für ein geschmeidiges, weiches Tragegefühl
 - Standardpassform für ein unkompliziertes, relaxtes Tragegefühl
+- Fleece Material sorgt für ein geschmeidiges, weiches Tragegefühl
 - Gerippte Bündchen sind für den klassischen Jogger-Look verantwortlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

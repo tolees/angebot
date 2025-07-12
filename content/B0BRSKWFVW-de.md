@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dem Gryffindor Adventskalender können berühmte Filmszenen nachgespielt oder fesselnde Geschichten erfunden werden
-- Die Puppe hat ein lebensecht gestaltetes Gesicht und Harry Potters ganz persönlichen Zauberstab
-- Die Verpackung des Adventskalenders kann in einen weihnachtlich geschmückten Hogwarts-Gemeinschaftsraum umgebaut werden
 - Jeden Tag wird eines der 24 Türchen geöffnet und gibt eine zauberhafte Überraschung frei
+- Die Puppe hat ein lebensecht gestaltetes Gesicht und Harry Potters ganz persönlichen Zauberstab
 - Fans ab 6 Jahren können ihre Harry Potter-Lieblingsfiguren sammeln und die Welt der Zauberer nachstellen
+- Die Verpackung des Adventskalenders kann in einen weihnachtlich geschmückten Hogwarts-Gemeinschaftsraum umgebaut werden
+- Mit dem Gryffindor Adventskalender können berühmte Filmszenen nachgespielt oder fesselnde Geschichten erfunden werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BRSKWFVW{{</world>}}

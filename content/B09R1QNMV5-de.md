@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 75 Watt maximale Gesamtausgangsleistung, Erleben Sie Musik über kabelloses Bluetooth Streaming und USB Playback, Verbinden Sie Ihren TV und andere externe Geräte über HDMI, Digital Optical Input oder AUX, 4 Equalizer-Einstellungen: Stimme, Film, Musik und benutzerdefiniert (mit manueller Bass und Höhenverstellung)
-- Lieferumfang: HT-SB100 Soundbar, Soundbar-Fernbedienung mit Bass und Höhenverstellung (inklusive Batterien), Stromkabel, 2x Wandhalterung, Bedienungsanleitung, Quick Start Guide, Garantieheft
 - Anschlüsse: 1x HDMI mit ARC und CEC, 1x USB, 1x Digital Optical Input, 1x AUX-In 3.5 mm, 1x USB-Anschluss für MP3, WAV und FLAC Playback, Bluetooth v5.1
-- 2.0 Soundbar für Fernseher ab 32 Zoll, Außenmaße Soundbar: 80 x 6.4 x 8.4 cm
+- Lieferumfang: HT-SB100 Soundbar, Soundbar-Fernbedienung mit Bass und Höhenverstellung (inklusive Batterien), Stromkabel, 2x Wandhalterung, Bedienungsanleitung, Quick Start Guide, Garantieheft
 - LED-Anzeige, Metall-Frontgitter mit schwarz glänzender Oberfläche, Wandmontage oder Tischaufstellung möglich, Soundbar mit der TV-Fernbedienung über HDMI-ARC/CEC-Verbindung steuerbar
+- 2.0 Soundbar für Fernseher ab 32 Zoll, Außenmaße Soundbar: 80 x 6.4 x 8.4 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09R1QNMV5{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Dank des integrierten Mikrofons haben die Kinder die Möglichkeit, eigene Sounds aufzunehmen
 - Über eine Bluetooth-Verbindung eröffnet der Hörstift neue Welten: Einfach das entsprechende Symbol im Buch antippen und schon starten spannende Videos und weiterführende Links zum Thema
 - Ein kurzes Antippen von Texten und Bildern mit dem Hörstift genügt, und schon beginnen Figuren zu sprechen
 - Die Kinder hören Originalgeräusche, können sich Texte vorlesen lassen und nehmen die Atmosphäre der Originalschauplätze auf
-- Dank des integrierten Mikrofons haben die Kinder die Möglichkeit, eigene Sounds aufzunehmen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07CPF5FB2{{</world>}}

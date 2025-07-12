@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jeans für Damen der dänischen Marke ONLY
 - Passform: Konisch
+- Jeans für Damen der dänischen Marke ONLY
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09M3VBLZL{{</world>}}

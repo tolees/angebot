@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 110 Karten mit edler Leinenprägung
 - 2 bis 8 Spieler
 - Alter: ab 10 Jahren
+- 110 Karten mit edler Leinenprägung
 - Qualität - Made in Germany
 - Spieldauer: ab 10 Minuten
 

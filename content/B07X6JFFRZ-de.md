@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Größen
 - Rändelung am hinteren Ende für hohe Griffigkeit bei Handbetätigung
+- Für die Hand- und Maschinenbetätigung (non-impact), mit Kugelfangrille
 - Sechskantprofil ermöglicht präzises Verschrauben mit hoher Kraftübertragung und schont dabei das Profil
 - Aus mattverchromtem Chrom-Vanadium
-- Für die Hand- und Maschinenbetätigung (non-impact), mit Kugelfangrille
 - Lange Steckschlüssel für tiefliegende Verschraubungen und teilweise auch bei überstehenden Gewindestangen in engen Bauräumen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

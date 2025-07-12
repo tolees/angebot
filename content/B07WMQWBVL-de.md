@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dreifach-KI-Rückkamera mit 48 Megapixeln Weitwinkel-Kamera, 8 Megapixel Tele-Kamera und 13 Megapixel Ultraweitwinkel-Kamera
-- Leistungsstarker 4000-mAh-Akku mit langer Laufzeit und Schnellladefunktion
-- Panorama-Pop-up-Selfie-Frontkamera mit 20 Megapixeln
 - Qualcomm Snapdragon 855 Octa-Core-Prozessor mit bis zu 2, 84 GHz und Adreno 640 Grafikprozessor
+- Panorama-Pop-up-Selfie-Frontkamera mit 20 Megapixeln
+- Leistungsstarker 4000-mAh-Akku mit langer Laufzeit und Schnellladefunktion
+- Dreifach-KI-Rückkamera mit 48 Megapixeln Weitwinkel-Kamera, 8 Megapixel Tele-Kamera und 13 Megapixel Ultraweitwinkel-Kamera
 - 16,23cm (6.39 Zoll) Full HD+ (2340 x 1080) AMOLED Vollbild-Display mit integriertem Fingerabdrucksensor zur intelligenteren Entsperrung
 
 [🛒 Hier!!]({{< param buyurl >}})

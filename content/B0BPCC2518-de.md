@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weite Beinform
 - Bund mit Gürtelschlaufen
+- Weite Beinform
 - Dehnbares Baumwollgemisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

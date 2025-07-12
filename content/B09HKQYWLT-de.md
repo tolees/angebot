@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 70 prozent Baumwolle / 30 prozent recycelter Polyester (Fleece)
 - Regulär geschnitten; mittelhoher Bund
+- 70 prozent Baumwolle / 30 prozent recycelter Polyester (Fleece)
 - Sportbekleidung aus hochwertigen Materialien für jede sportliche Aktivität
 
 [🛒 Hier!!]({{< param buyurl >}})

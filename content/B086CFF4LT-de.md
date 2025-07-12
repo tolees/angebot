@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schübe mit Auszugsperre
-- Aus recyceltem Kunststoff, mindestens 80 % Post-Consumer Material
-- Schubladenbox mit vier Schüben für DIN A4 Formate
 - Blauer Engel zertifiziert
 - Innenabmessung der Schübe Breite/Tiefe/Höhe 229x306x38 mm (DIN A4 längst)
+- Schübe mit Auszugsperre
+- Schubladenbox mit vier Schüben für DIN A4 Formate
+- Aus recyceltem Kunststoff, mindestens 80 % Post-Consumer Material
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B086CFF4LT{{</world>}}

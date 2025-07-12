@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Dunkelbraun
-- Laufsohle: 100% EVA
 - Obbermaterial: 100% Rindsleder
 - Better Leather
+- Laufsohle: 100% EVA
+- Farbe: Dunkelbraun
 - Futter: 59 % Schweinsleder 41 % recyceltes Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})

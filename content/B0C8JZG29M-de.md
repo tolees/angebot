@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Sohle: 100% EVA
 - Farbe: Mittelgrün
-- Natural Textiles
 - Obermaterial: 98 % recycelte Baumwolle 2 % Rindsleder
+- Natural Textiles
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C8JZG29M{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Drähte mit breitem Durchmesser und ein verringerter Kabelwiderstand maximieren die Ladegeschwindigkeit
 - Eine zusätzliche Schutzschicht wurde am Lightning- und am USB-Stecker hinzugefügt, um deren Robustheit zu erhöhen und Verschleiß zu mindern
+- Drähte mit breitem Durchmesser und ein verringerter Kabelwiderstand maximieren die Ladegeschwindigkeit
 - Die stabilen Unibody-Anschlüsse widerstehen Schäden und sorgen gleichzeitig für eine sichere Passform bei jedem einzelnen Verbinden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

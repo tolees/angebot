@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Innenmaterial: Textil
 - Verschluss: Klettverschluss
 - Obermaterial: Leder
-- Innenmaterial: Textil
 - Sohle: Gummi
 - Absatzform: Flach
 

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Fünf Crashpunkte weisen den Kindern den Weg zur Action, die einen Schrotthammer und eine riesige Schrottsäge umfasst.
+- Enthält 1 Hot Wheels Monster Trucks Bone Shaker im Maßstab 1:64 und 3 kaputtgehende Auto, die auf kaputtgehenden Tribünen platziert werden können.
 - Das sich bewegende und zitternde Basiselement sorgt für eine zusätzliche sensorische Komponente, sodass die Kinder die Zerstörung beim Spielen wirklich spüren können.
 - Den Turm aus zerdrückten Autos hochfahren und ihn dann einstürzen lassen, um den Hot Wheels Monster Trucks Arena Smashers Bone Shaker ultimativen Schrottplatz zu dominieren.
-- Enthält 1 Hot Wheels Monster Trucks Bone Shaker im Maßstab 1:64 und 3 kaputtgehende Auto, die auf kaputtgehenden Tribünen platziert werden können.
 - Der ultimative Schrottplatz kann mit den Hot Wheels Monster Trucks Arena Smashers Sets verbunden werden, sodass Kinder eine Hot Wheels Monster Trucks Arena Smashers Welt voller Hindernisse und zerstörerischen Herausforderungen bauen können. (Zusätzliche Sets separat erhältlich.)
 
 [🛒 Hier!!]({{< param buyurl >}})

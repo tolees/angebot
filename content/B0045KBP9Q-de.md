@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Make Up Entferner
 - Beauty-Produkte
-- Marke CLINIQUE
 - Verpackung kann abweichen.
+- Marke CLINIQUE
+- Make Up Entferner
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0045KBP9Q{{</world>}}

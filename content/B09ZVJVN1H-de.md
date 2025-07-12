@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verschluss: Ethylen-Vinylacetat
-- 12.1653543183 inches
 - Leder: Textile
+- 12.1653543183 inches
 - AtmungsaktivAtmungsaktiv
 
 [🛒 Hier!!]({{< param buyurl >}})

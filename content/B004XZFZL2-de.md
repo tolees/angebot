@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit Abschaltautomatik: Auto-Reset-Thermostat überwacht die Temperatur im Gerät, um ein Überhitzen zu verhindern
 - Sehr komfortabel: Ausklappbarer Metallbügel für sicheres Abstellen oder Aufhängen, 2 m Kabel
-- Lieferumfang: 1x Heißluftgerät, Luftdurchsatz 570/740 l/min
 - Temperaturbereiche: Zwei Temperaturstufen bis 460?C und 600?C für materialgerechtes Arbeiten und vielfältigen Einsatz
+- Lieferumfang: 1x Heißluftgerät, Luftdurchsatz 570/740 l/min
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004XZFZL2{{</world>}}

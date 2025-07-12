@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herstellergarantie: 12 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt.
-- 2.4 GHZ wireless via Nano USB & 1x AA Batterie für eine Nutzungszeit von 12 Monaten
-- Sensor Resolution mit 1000 DPI und 3 Knöpfen
 - Kompakte Wireless Maus besonders geeignet für das mobile Arbeiten
+- Sensor Resolution mit 1000 DPI und 3 Knöpfen
+- 2.4 GHZ wireless via Nano USB & 1x AA Batterie für eine Nutzungszeit von 12 Monaten
+- Herstellergarantie: 12 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“. Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt.
 - Lieferumfang: Lenovo 300 Wireless Compact Mouse; Nano USB receiver; 2 AA batteries; Set-up, Product and Warranty Information Poster
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

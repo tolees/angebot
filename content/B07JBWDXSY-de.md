@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Für eine außergewöhnlich zarte Haut
 - Mit natürlichen, pflegenden Ölen aus Kamelie und Argan
-- Angenehmer Wohlfühlduft
 - Für eine glatte, strahlend schöne Haut
+- Angenehmer Wohlfühlduft
 - Neu entwickelte, einzigartige Textur: Sanftes Zuckerpeeling & nährende Öl-Creme
 
 [🛒 Hier!!]({{< param buyurl >}})

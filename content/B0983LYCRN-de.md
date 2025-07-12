@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite: Mittel
-- 14.4488188829 inches
 - Verschluss: Gummi
+- 14.4488188829 inches
+- Schuhweite: Mittel
 - Passform: Schmal
 - Leder: Kein Leder
 - LeichteLeichte

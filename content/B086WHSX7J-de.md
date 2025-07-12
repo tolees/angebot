@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zahllose, über USB betriebene Anschlussmöglichkeiten (symmetrischer Mikrofon-Eingang; 2 x 6,35-mm-Klinke + 2 x RCA-Master-Ausgänge; 3,5-mm-Stereo-Mini-Klinke + 2 x RCA-Aux-Eingänge; Kopfhörerausgänge: 3,5-mm-Stereo-Mini-Klinke + 6,35-mm-Stereo-Klinke)
-- Fließende, originalgetreue Übergänge zwischen den Tracks durch den Filter/FX-Bereich. Große Jogwheels mit Touch-Erkennung zum Scratchen
 - Manuelle Synchronisation der Tracks wie ein Profi mit den Beatmatch-Leuchtanzeigen, die sowohl für Serato DJ Lite als auch DJUCED zur Verfügung stehen
-- Folgen Sie den Anregungen des Intelligent Music Assistant (IMA) für ein gelungenes DJ-Set in DJUCED oder überlassen Sie Serato den Mix komplett mit der Autoplay-Funktion
-- USB-DJ-Controller mit 2 Decks, integrierten Audioschnittstellen und Hardware-Eingangsfilter für externe Audioquellen
 - 16 hintergrundbeleuchtete RGB-Pads, Vinyl-Function, Loop In/Loop Out-Buttons
+- Zahllose, über USB betriebene Anschlussmöglichkeiten (symmetrischer Mikrofon-Eingang; 2 x 6,35-mm-Klinke + 2 x RCA-Master-Ausgänge; 3,5-mm-Stereo-Mini-Klinke + 2 x RCA-Aux-Eingänge; Kopfhörerausgänge: 3,5-mm-Stereo-Mini-Klinke + 6,35-mm-Stereo-Klinke)
 - Integrierter Hardware-Eingangsmixer: Fügen Sie Ihren externen Audioquellen (Smartphone, Mediaplayer, kabelloser Mikrofonreceiver, …) Filtereffekte hinzu und schließen Sie Ihr Mikrofon an
 - Entwickelt mit versenkbaren/ausziehbaren Standfüßen, um den Controller anzuheben: Schutz vor verschütteten Getränken
+- Fließende, originalgetreue Übergänge zwischen den Tracks durch den Filter/FX-Bereich. Große Jogwheels mit Touch-Erkennung zum Scratchen
+- Folgen Sie den Anregungen des Intelligent Music Assistant (IMA) für ein gelungenes DJ-Set in DJUCED oder überlassen Sie Serato den Mix komplett mit der Autoplay-Funktion
+- USB-DJ-Controller mit 2 Decks, integrierten Audioschnittstellen und Hardware-Eingangsfilter für externe Audioquellen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B086WHSX7J{{</world>}}

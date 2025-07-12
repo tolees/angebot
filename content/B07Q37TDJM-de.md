@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Dank einer Leistung von 1000 Watt heizt sich das Waffeleisen schnell auf die gewünschte Temperatur auf
 - Mit dem einstellbaren Thermostat können Sie die Temperatur genau einstellen und so Ihre Waffeln so knusprig backen wie Sie es wünschen
 - Waffeln mit Schlagsahne und frischen Früchten zum Frühstück. Klingt das nicht köstlich? Mit dem Tristar Waffeleisen sind 2 Waffeln schnell zubereitet
-- Anhand der Kontrolllampe können Sie sofort sehen, ob das Waffeleisen eingeschaltet ist und der Teig in das Gerätgefüllt werden kann. Zusätzlich hat es rutschfeste Füße dank denen es stabil stehen bleibt
 - Das Waffeleisen ist mit zwei Backflächen mit je 22 x 13,5 cm ausgestattet. Durch die Antihaftbeschichtung können Sie die Waffeln einfach entnehmen und benötigen kein zusätzliches Öl
+- Anhand der Kontrolllampe können Sie sofort sehen, ob das Waffeleisen eingeschaltet ist und der Teig in das Gerätgefüllt werden kann. Zusätzlich hat es rutschfeste Füße dank denen es stabil stehen bleibt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07Q37TDJM{{</world>}}

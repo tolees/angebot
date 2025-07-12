@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Originalzubehör
 - Flachwinkel
+- Originalzubehör
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00109FZUA{{</world>}}

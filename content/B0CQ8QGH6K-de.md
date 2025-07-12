@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erstrahle hell mit Pokémon aus Paldea!
-- Schillerndes Pikachu schreitet voran, gefolgt von Granforgita, Azugladis, Heerashai und mehr als 100 anderen Schillernden Pokémon.
 - Das Scheinwerferlicht fällt auf Schillernde Pokémon, die ihre schicksalhafte Rückkehr in das Pokémon-Sammelkartenspiel feiern!
 - Enthält 9 Boosterpacks der Pokémon-Sammelkartenspiel-Erweiterung Karmesin & Purpur – Paldeas Schicksale, 1 holografische Vollbild-Promokarte mit Schillerndes Mimigma, 45 Energiekarten des Pokémon-Sammelkartenspiels und 1 bei Wettbewerben zulässigen Münzwurf-Würfel.
 - Du erhältst auch 65 Kartenhüllen, 6 Schadensmarken-Würfel, 2 Kunststoffmarken für Spezielle Zustände, 1 Sammelbox mit 4 Trennstegen, 1 Spielanleitung für die Erweiterung Karmesin & Purpur – Paldeas Schicksale und 1 Code-Karte für Pokémon-Sammelkartenspiel-Live.
+- Schillerndes Pikachu schreitet voran, gefolgt von Granforgita, Azugladis, Heerashai und mehr als 100 anderen Schillernden Pokémon.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQ8QGH6K{{</world>}}

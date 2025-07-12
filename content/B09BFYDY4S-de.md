@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anhängerkupplung
-- Robustes Kunststoffgehäuse
 - Abmessungen: ca. 615 x 275 x 340 mm
-- Große Räder für sicheren Stand
+- Anhängerkupplung
 - Funktionen: Schaufel heben/senken/abkippen
+- Große Räder für sicheren Stand
+- Robustes Kunststoffgehäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BFYDY4S{{</world>}}

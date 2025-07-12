@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bei Bewegungserfassung können Sie Benachrichtigungen auf Ihr Telefon erhalten, mit der Option, Bewegungszonen in der Blink Home Monitor App so anzupassen, dass Sie nur bei wichtigen Ereignissen benachrichtigt werden.
-- Blink Outdoor ist darauf ausgelegt, den Elementen standzuhalten, damit Sie Ihr Zuhause innen oder außen bei jeder Witterung schützen können.
-- Funktioniert mit Alexa – überwachen Sie Ihr Zuhause per Sprachbefehl über unterstützte Alexa-fähige Geräte.
-- Dank der langen Batterielebensdauer läuft die Outdoor-Kamera bis zu zwei Jahre mit zwei AA-Lithiumbatterien (im Lieferumfang enthalten).
-- Entscheide dich für einen 30-tägigen Gratiszeitraum für das Blink-Abonnement, um Videoclips in der Cloud zu speichern und freizugeben, oder speichere sie lokal mit dem Sync Module 2 und einem USB-Speicherstick (jeweils separat erhältlich).
-- Einfach in wenigen Minuten selbst einzurichten. Keine Verdrahtung oder professionelle Installation erforderlich.
 - Sehen und hören Sie Besucher und sprechen Sie mit ihnen in Echtzeit über die Blink Home Monitor App, dank Live-Video und Zwei-Wege-Audio (Live-Video wird nicht kontinuierlich aufgezeichnet).
+- Einfach in wenigen Minuten selbst einzurichten. Keine Verdrahtung oder professionelle Installation erforderlich.
+- Funktioniert mit Alexa – überwachen Sie Ihr Zuhause per Sprachbefehl über unterstützte Alexa-fähige Geräte.
+- Entscheide dich für einen 30-tägigen Gratiszeitraum für das Blink-Abonnement, um Videoclips in der Cloud zu speichern und freizugeben, oder speichere sie lokal mit dem Sync Module 2 und einem USB-Speicherstick (jeweils separat erhältlich).
+- Blink Outdoor ist darauf ausgelegt, den Elementen standzuhalten, damit Sie Ihr Zuhause innen oder außen bei jeder Witterung schützen können.
+- Dank der langen Batterielebensdauer läuft die Outdoor-Kamera bis zu zwei Jahre mit zwei AA-Lithiumbatterien (im Lieferumfang enthalten).
+- Bei Bewegungserfassung können Sie Benachrichtigungen auf Ihr Telefon erhalten, mit der Option, Bewegungszonen in der Blink Home Monitor App so anzupassen, dass Sie nur bei wichtigen Ereignissen benachrichtigt werden.
 - Blink Outdoor ist eine kabellose, batteriebetriebene HD-Überwachungskamera, mit der Sie Ihr Zuhause am Tag und mit Infrarot-Nachtsicht bei Dunkelheit überwachen können.
 
 [🛒 Hier!!]({{< param buyurl >}})

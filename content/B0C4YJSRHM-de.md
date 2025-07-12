@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Frei von Silikon, Paraben, SLS und SLES
-- Geeignet für normales bis fettiges Haar
-- 99 % natürliche Inhaltsstoffe und 100 % natürlicher Duft
-- Tierversuchsfreie Haarpflege mit "Vegan Society"-Zulassung
 - Dieses Shampoo mit Bio-Rosmarinöl hilft, eine juckende und schuppige Kopfhaut zu beruhigen und die Sinne zu stimulieren
+- Tierversuchsfreie Haarpflege mit "Vegan Society"-Zulassung
+- 99 % natürliche Inhaltsstoffe und 100 % natürlicher Duft
+- Geeignet für normales bis fettiges Haar
+- Frei von Silikon, Paraben, SLS und SLES
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C4YJSRHM{{</world>}}

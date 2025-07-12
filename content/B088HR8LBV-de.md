@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bring deine Sessions online und tritt in Mehrspieler-Modi und Bestenlisten gegen Spieler auf der ganzen Welt an
 - Skate als der legendäre Tony Hawk oder wähle einen Skater aus der Profi-Liste
 - Lege mit der kultigen Handhabung der Tony Hawks Pro Skater-Reihe irre Trick-Kombos hin
-- Beweise deinen Stil und deine Kreativität mit den verbesserten "Mach-dir-den-Park"- und "Mach-dir-den-Skater"-Funktionen
+- Bring deine Sessions online und tritt in Mehrspieler-Modi und Bestenlisten gegen Spieler auf der ganzen Welt an
 - Spiele alle Original-Spielmodi und liefere dir Duelle in lokalen 2-Spieler-Modi
 - Skate zu Songs aus dem Soundtrack einer Ära
+- Beweise deinen Stil und deine Kreativität mit den verbesserten "Mach-dir-den-Park"- und "Mach-dir-den-Skater"-Funktionen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B088HR8LBV{{</world>}}

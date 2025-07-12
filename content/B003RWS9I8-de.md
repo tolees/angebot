@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Präzisionszangen für feine Montagearbeiten, z. B. in Elektronik und Feinmechanik
 - Zum Greifen, Halten und Biegen
-- Glatt geschliffene Greifflächen
-- Kanten sorgfältig entgratet
 - Durchgestecktes Präzisionsgelenk
+- Kanten sorgfältig entgratet
+- Glatt geschliffene Greifflächen
+- Präzisionszangen für feine Montagearbeiten, z. B. in Elektronik und Feinmechanik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003RWS9I8{{</world>}}

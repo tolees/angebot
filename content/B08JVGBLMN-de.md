@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Verarbeitung
+- Bis zu 1 Stunde Fahrzeit bei ca. 9 Km/h
 - Offiziell lizenziert
+- Hochwertige Verarbeitung
 - Funktionen: Vorwärts / rückwärts / links / rechts / Stopp
 - Perfekt nachgebildete Details
-- Bis zu 1 Stunde Fahrzeit bei ca. 9 Km/h
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08JVGBLMN{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x Columbia Regenhose Herren, Pouring Adventure II, Farbe: Black, Größe: L, Art.-Nr.: 1988691
 - Reißverschlusstasche für die Aufbewahrung von wichtigen Gegenständen
 - Omni-Tech-Kombination aus Wasserdichtigkeit, Atmungsaktivität und Versieglung der wichtigsten Nähte, Praktische Beinbelüftung für hohe Temperaturen
+- Lieferumfang: 1 x Columbia Regenhose Herren, Pouring Adventure II, Farbe: Black, Größe: L, Art.-Nr.: 1988691
 - Klettverschluss an jedem Knöchel zur Anpassung an verschiedene Passformen und an das Schuhwerk
 - Leicht zu tragende Regenhose mit anpassungsfähigem elastischem Bund und Verstellung durch Tunnelzug
 

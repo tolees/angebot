@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Ansetzen der Wimpernbürste so nah wie möglich am Wimpernkranz und Tuschen der Wimpern bis zur Spitze in leichten Zick-Zack-Bewegungen
-- Ergebnis: Optisch dichtere Wimpern mit mehr Definition und bis zu 3x mehr Volumen, gleichmäßig umhüllt mit einem ultra klaren Schwarz, Kein Verklumpen
-- Lieferumfang: 1x LOréal Paris Volume Million Lashes Wimperntusche, Farbe: Schwarz, Inhalt: 10,7 ml
 - Elastomer-Bürste mit unterschiedlich langen Borsten zum Umschließen und zusätzlichen Verdichten feiner und kurzer Wimpern, Abstreif-Technologie für ideale Textur Dosierung
+- Lieferumfang: 1x LOréal Paris Volume Million Lashes Wimperntusche, Farbe: Schwarz, Inhalt: 10,7 ml
 - Schwarze Mascara mit Wimpern-Multiplizier-System für einen atemberaubend intensiven Augenaufschlag, Für Augen Make-up mit klarer Definition
+- Ergebnis: Optisch dichtere Wimpern mit mehr Definition und bis zu 3x mehr Volumen, gleichmäßig umhüllt mit einem ultra klaren Schwarz, Kein Verklumpen
+- Anwendung: Ansetzen der Wimpernbürste so nah wie möglich am Wimpernkranz und Tuschen der Wimpern bis zur Spitze in leichten Zick-Zack-Bewegungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003DKJGO0{{</world>}}

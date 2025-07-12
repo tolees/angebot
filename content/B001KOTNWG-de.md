@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Drei Miniatur-Hobel
-- Ideal für kleine Zimmermannsarbeiten
-- Komplett mit Aufbewahrungstasche
 - Miniatur Blockhobel, Simshobel und Ziehklinkenhobel
 - Aus Hartholz mit Messingteilen gefertigt
+- Drei Miniatur-Hobel
+- Komplett mit Aufbewahrungstasche
+- Ideal für kleine Zimmermannsarbeiten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001KOTNWG{{</world>}}

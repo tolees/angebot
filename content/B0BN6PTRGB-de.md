@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Absatzform:Flach
 - Sohle:Gummi
 - Innermaterial:Synthetic
-- Absatzform:Flach
 - Verschluss:Klettverschluss
 - Obermaterial: Synthetik
 

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Innenmaterial: Textil
+- Obermaterial: Leder
+- Verschluss: Rückengurt
 - Sohle: Ethylen-Vinylacetat
 - Nicht Wasserfest
-- Innenmaterial: Textil
-- Verschluss: Rückengurt
 - Absatzform: Keilabsatz
-- Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B1F767XK{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aufschläge an beiden Ärmeln
-- Kurzärmeliges Oberteil
 - Lockere Passform
+- Kurzärmeliges Oberteil
+- Aufschläge an beiden Ärmeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B1QKB42D{{</world>}}

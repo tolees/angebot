@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Rippmaterial an Bündchen und Saum
-- Standardpassform
 - Fleece-Material für ein weiches Tragegefühl
+- Standardpassform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QYMX1WF{{</world>}}

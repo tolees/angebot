@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 600 Perlen
-- Bastelperlen im Aquabeads Einzelpack zum Nachfüllen (hellgrün)
 - Ähnlich wie Bügelperlen verbinden sich die Aquabeads Bastelperlen magisch. Das Ganze funktioniert ohne Bügeln und nur durch das Sprühen von Wasser.
 - Noch mehr Bastelspaß
+- Bastelperlen im Aquabeads Einzelpack zum Nachfüllen (hellgrün)
+- 600 Perlen
 - Geeignet für Kinder ab 4 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})

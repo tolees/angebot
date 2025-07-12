@@ -30,10 +30,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Taste zum Entsperren und Hebel oben: leicht zu öffnen, sodass die Kanne in der Mitte der Kaffeemaschine eingesetzt werden kann
 - Ein Dauerfilter über der Kanne macht den Reinigungsvorgang denkbar einfach. Vorbei sind die Zeiten, in denen Sie für jeden Kaffee einen neuen Papierfilter einsetzen mussten
-- Das einzigartige und stilvolle KRUPS-Design fügt sich nahtlos in jede Küche ein. Die elegante Edelstahl-Ästhetik schlägt einen gelungenen Bogen zwischen modernem und klassischem Stil
 - Bitte beachten Sie, um zu vermeiden, dass die Pfeife verkalkt, benutzen Sie bitte kein zu feines Kaffeepulver
-- Das Fassungsvermögen des Wasserbehälters beträgt 1 l. Damit können 8 bis 12 Tassen intensiver und vollmundiger Kaffee zubereitet werden: genug für die ganze Familie oder für Gäste einer Feier im kleinen Kreis
 - Das moderne Design überzeugt mit einer praktischen Kaffeezubereitung_ Mit der Taste und dem Hebel zur Entriegelung an der Oberseite kann die Kanne problemlos herausgenommen und eingesetzt werden
+- Das einzigartige und stilvolle KRUPS-Design fügt sich nahtlos in jede Küche ein. Die elegante Edelstahl-Ästhetik schlägt einen gelungenen Bogen zwischen modernem und klassischem Stil
+- Das Fassungsvermögen des Wasserbehälters beträgt 1 l. Damit können 8 bis 12 Tassen intensiver und vollmundiger Kaffee zubereitet werden: genug für die ganze Familie oder für Gäste einer Feier im kleinen Kreis
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00PHCDIFA{{</world>}}

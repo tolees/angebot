@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 🚲MONTAGE: Der Mirror Mount eignet sich für Spiegeldurchmesser (ø Rohr) von ca. 10 bis 16 mm (0,39–0,63 Zoll) und kann auch an dünnen Lenkerstangen befestigt werden.
-- 🚲FLEXIBLE: Je nach Bedarf lässt sich die Ausrichtung der Spiegelhalterung flexibel anpassen. Sie ist 360° in 6°-Schritten verstellbar. Ob Quer- oder Hochformat: Dir stehen alle Optionen offen.
-- 🚲PRAKTISCH: Ob Vespa, Peugeot oder andere Roller, Mopeds und Motorräder: Mit dem Mirror Mount ergänzt du dein Zweirad um eine flexible und intuitive Spiegelhalterung fürs Handy.
 - 🚲FEATURES: Spiegelhalterung für Handy, Für Vespa, Roller, Mopeds und Motorräder, 360° verstellbar in 6°-Schritten und Montage im Quer- oder Hochformat.
+- 🚲PRAKTISCH: Ob Vespa, Peugeot oder andere Roller, Mopeds und Motorräder: Mit dem Mirror Mount ergänzt du dein Zweirad um eine flexible und intuitive Spiegelhalterung fürs Handy.
+- 🚲FLEXIBLE: Je nach Bedarf lässt sich die Ausrichtung der Spiegelhalterung flexibel anpassen. Sie ist 360° in 6°-Schritten verstellbar. Ob Quer- oder Hochformat: Dir stehen alle Optionen offen.
 - 🚲LIEFERUMFANG: Das Mirror Mount Set enthält: Mirror Mount und Plastic spacing inserts. Damit du sicher navigieren kannst und schneller von A nach B kommst.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

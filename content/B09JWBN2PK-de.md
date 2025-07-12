@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brettspiele;Kennerspiele
-- Toys And Games
 - Pegasus Spiele
+- Brettspiele;Kennerspiele
 - 57602G
+- Toys And Games
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09JWBN2PK{{</world>}}

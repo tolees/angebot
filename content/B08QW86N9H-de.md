@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 82% baumwolle; 18% polyester
 - dass sie eine lässige lieblings sie von der seitenlinie auf die straße tragen kann
+- 82% baumwolle; 18% polyester
 - softvlies und ein raumgefühl
 - Sporttyp: Fußball
 

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maße: Ø 32 x 13 cm; Gasverbrauch 99 g/h; Siedezeit für 1 L Wasser: 5 Min. 40 Sek.; Gewicht 2.2 kg, nicht in geschlossenen Räumen verwenden
-- Reinigung und Transport: Der integrierte Wasserbehälter sammelt heruntertropfendes Fett; Topfkreuz und Grillplatte sind spülmaschinenfest; alle Elemente werden zum Transport im Gerät verstaut
-- Flächendeckende Gasversorgung: Die CV 300 Plus und CV 470 Plus Gaskartusche sind dank unseres weltweiten Händlernetzes in über 50 Ländern verfügbar; Händlerübersicht auf campingaz.com/gasfinder
-- Multifunktional: Der kompakte Campinggrill bietet Campern die Wahl zwischen normaler Kochflamme oder dem Grillen auf dem antihaftbeschichteten Grillrost mit integrierter Kontaktgrillplatte
 - Starke Leistung: Der 1.350W starke Mini Grill wird mit der Campingaz CV 300 & CV 470 Plus Gaskartusche betrieben (Brenndauer bis zu 4:30 Std); sichere Zündung bei jedem Wetter dank Piezo-Zündung
+- Multifunktional: Der kompakte Campinggrill bietet Campern die Wahl zwischen normaler Kochflamme oder dem Grillen auf dem antihaftbeschichteten Grillrost mit integrierter Kontaktgrillplatte
+- Maße: Ø 32 x 13 cm; Gasverbrauch 99 g/h; Siedezeit für 1 L Wasser: 5 Min. 40 Sek.; Gewicht 2.2 kg, nicht in geschlossenen Räumen verwenden
+- Flächendeckende Gasversorgung: Die CV 300 Plus und CV 470 Plus Gaskartusche sind dank unseres weltweiten Händlernetzes in über 50 Ländern verfügbar; Händlerübersicht auf campingaz.com/gasfinder
+- Reinigung und Transport: Der integrierte Wasserbehälter sammelt heruntertropfendes Fett; Topfkreuz und Grillplatte sind spülmaschinenfest; alle Elemente werden zum Transport im Gerät verstaut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000PKLAVS{{</world>}}

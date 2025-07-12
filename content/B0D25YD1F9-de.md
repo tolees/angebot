@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sommershirt
-- Softe Baumwoll- Modalmischung
-- U-Boot Ausschnitt
 - Tunnelzug im Saum
+- Sommershirt
+- U-Boot Ausschnitt
 - Luftige Schlitze an der Schulter
+- Softe Baumwoll- Modalmischung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D25YD1F9{{</world>}}

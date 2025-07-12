@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bringt Ihnen einen zusätzlichen Komfort
 - Hält kühl und bequem
 - Langlebig
+- Bringt Ihnen einen zusätzlichen Komfort
 - Flexible Gestaltung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

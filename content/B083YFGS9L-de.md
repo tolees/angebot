@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Garten-Lounge für variantenreiche Stellmöglichkeiten mit zwei Sofas und einem Tisch der niedrig und hochkant aufgestellt werden kann – abnehmbare Rückenlehnen für flexiblen Komfort
-- Garten-Set aus Aluminium in Anthrazit Tabletts und Tischplatte aus robustem widerstandsfähigem Akazienholz FSC 100 % – ca 10 cm starke graue Kissen aus 100 % Polyester
-- Maße Loungegarnitur (BxHxT) Sofas je ca 175 x 70 x 78 cm Sitzmaße je ca 140 x 44 x 70 cm Tisch ca 70 x 38 x 35 cm Gewicht ca 57 kg max Belastbarkeit 5 x 110 kg
-- Gartenmöbelgruppe für den In- und Outdoor-Bereich die auch als Liegeinsel oder Eck-Lounge arrangierbar ist – optimal für individuelle Stellflächen wie Terrassen Wintergärten und viele mehr
 - Lieferumfang 1 x Loungemöbel-Set Samara bestehend aus 2 x Sofa 1 x Tisch 2 x Sitzkissen 4 x Rückenkissen
+- Gartenmöbelgruppe für den In- und Outdoor-Bereich die auch als Liegeinsel oder Eck-Lounge arrangierbar ist – optimal für individuelle Stellflächen wie Terrassen Wintergärten und viele mehr
+- Maße Loungegarnitur (BxHxT) Sofas je ca 175 x 70 x 78 cm Sitzmaße je ca 140 x 44 x 70 cm Tisch ca 70 x 38 x 35 cm Gewicht ca 57 kg max Belastbarkeit 5 x 110 kg
+- Garten-Set aus Aluminium in Anthrazit Tabletts und Tischplatte aus robustem widerstandsfähigem Akazienholz FSC 100 % – ca 10 cm starke graue Kissen aus 100 % Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083YFGS9L{{</world>}}

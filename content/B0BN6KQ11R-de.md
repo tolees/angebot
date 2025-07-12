@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Absatzform:Flach
 - Verschluss:Schnürung
-- Obermaterial: Synthetik
 - Innermaterial:Synthetic
+- Obermaterial: Synthetik
 - Sohle:Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - EVA-Zwischensohle für maximalen Tragekomfort
+- Puma Formstrip an der Seite
 - Puma Wordmark auf der Schuhzunge
 - Niedriger Schuh
-- Puma Formstrip an der Seite
 - Außensohle aus abriebfestem Gummi für Grip
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

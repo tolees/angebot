@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kordelzug können Sie die Passform anpassen.
 - Körper: 82% Baumwolle / 18% Polyester. Taschen-Taschen: 100% Polyester.
 - Fleece-Stoff fühlt sich weich und warm.
+- Kordelzug können Sie die Passform anpassen.
 - Loose fit für ein Raumgefühl.
 - Taschen mit Reißverschluss Ihren täglichen Bedarf sichern.
 

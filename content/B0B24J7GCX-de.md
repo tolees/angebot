@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stufenlose Scheibentönung für optimale Sicht in jeder Lichtsituation durch die variomatic Scheibentechnologie
-- Die photochrome Scheibentechnologie ermöglicht durch automatische Scheibentönung eine Anpassung der Lichtdurchlässigkeit innerhalb der Filterkategorien 2-4
 - Schutz vor Spiegelungen und Blendungen: Die Scheiben der polavision Serie absorbieren diffuses Licht und schützen die Augen zuverlässig vor Überanstrengung
-- 100% UVA, UVB, UVC Schutz
 - Inklusive einem abnehmbaren, magnetischen Seitenschutz zur Regulierung des seitlichen Lichteinfalls
+- 100% UVA, UVB, UVC Schutz
+- Die photochrome Scheibentechnologie ermöglicht durch automatische Scheibentönung eine Anpassung der Lichtdurchlässigkeit innerhalb der Filterkategorien 2-4
+- Stufenlose Scheibentönung für optimale Sicht in jeder Lichtsituation durch die variomatic Scheibentechnologie
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B24J7GCX{{</world>}}

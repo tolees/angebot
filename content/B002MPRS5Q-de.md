@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Der elegante und unauffällige Kabelschacht für die Decke, ermöglicht die Zuleitung zu einer Leuchte, bei der das Stromkabel nicht an der Stelle ist, wo die neue Lampe platziert werden soll
+- Die Kabelrohre können durch Ein-/Ausdrehen der Einzelstücke von 320 bis 1570 mm individuell verlängert bzw. verkürzt werden. Perfekt zum Verstecken oder Verstauen von herunterhängenden Kabeln von z. B. Deckenleuchten oder Pendelleuchten. Keine Affenschaukel nötig!
 - Dank des stabilen Materials hängen die Kabelkanäle nicht durch und es müssen keine extra Halterungen an der Decke angebracht werden. Die Verlängerungsstangen gibt es nur in diesem Set und sind nicht einzeln erhältlich. Das Kabel ist im Lieferumfang enthalten.
 - Abmessung Verlängerungen: Längen: 3 x 30 cm, 1 x 20 cm, 1 x 10 cm, 1 x 5 cm, Durchmesser: 0,7 cm
-- Die Kabelrohre können durch Ein-/Ausdrehen der Einzelstücke von 320 bis 1570 mm individuell verlängert bzw. verkürzt werden. Perfekt zum Verstecken oder Verstauen von herunterhängenden Kabeln von z. B. Deckenleuchten oder Pendelleuchten. Keine Affenschaukel nötig!
-- Der elegante und unauffällige Kabelschacht für die Decke, ermöglicht die Zuleitung zu einer Leuchte, bei der das Stromkabel nicht an der Stelle ist, wo die neue Lampe platziert werden soll
 - Abmessungen Baldachin: Durchmesser: 8 cm, Durchmesser Abdeckung: 12 cm, Länge inkl. Stange: 32 cm, Höhe: 3 cm
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Spülmaschinen- und mikrowellengeeignet
 - Packung mit 6 Kaffeetassen mit Untertasse aus Porzellan
 - Fassungsvermögen: 90 ml
 - Abmessungen: Ø5 x H 5,5 cm, Untertassen Ø11 cm
-- Spülmaschinen- und mikrowellengeeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08R7MKQD7{{</world>}}

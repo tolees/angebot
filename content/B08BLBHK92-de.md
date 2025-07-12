@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenmaterial: Leather
-- Sohle: Rubber
-- Absatzform: Lace-Up
 - Obermaterial: smooth_leather
+- Absatzform: Lace-Up
+- Sohle: Rubber
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08BLBHK92{{</world>}}

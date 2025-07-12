@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schauen Sie regelmäßig für neue Events, Herausforderungen, Sammlerstücke, Belohnungen und neue Gebiete zum Erkunden vorbei. Keine Jahreszeit wird der nächsten gleichen
-- Treffen Sie neue Charaktere und bestimmen Sie den Ausgang ihrer Horizon-Story-Missionen
-- Lassen Sie mit dem EventLab Ihre eigene Vorstellung von Spaß lebendig werden. Dieses Gameplay-Tool enthält benutzerdefinierte Rennen, Herausforderungen, Stunts und ganze Spielmodi. Gestalten Sie Ihre Autos auf mehr Arten als je zuvor – mit neuen Optionen wie offenes oder geschlossenes Verdeck, lackierte Bremssättel und mehr
 - Schließen Sie sich mit anderen Spielern zusammen und stellen Sie sich gemeinsam Horizon Arcade für eine fortlaufende Serie unterhaltsamer und abgefahrener Herausforderungen, die euch Action ohne Menüs, Ladebildschirme oder Lobbys bietet. Treffen Sie in Horizon Open und Tours neue Freunde und teilen sie Ihre Kreationen
-- Bezwingen Sie unglaubliche Wetterereignisse wie die gigantischen Sand- oder intensiven Tropenstürmen, während Mexikos einzigartige und dynamische Jahreszeiten die Welt jede Woche verändern
-- Tauchen Sie in eine immersive Kampagne mit Hunderten von Herausforderungen ein, die Sie dafür belohnen, dass Sie das tun, was Sie lieben
+- Schauen Sie regelmäßig für neue Events, Herausforderungen, Sammlerstücke, Belohnungen und neue Gebiete zum Erkunden vorbei. Keine Jahreszeit wird der nächsten gleichen
 - Die Deluxe Edition enthält das komplette Spiel und den Autopass
+- Treffen Sie neue Charaktere und bestimmen Sie den Ausgang ihrer Horizon-Story-Missionen
+- Tauchen Sie in eine immersive Kampagne mit Hunderten von Herausforderungen ein, die Sie dafür belohnen, dass Sie das tun, was Sie lieben
+- Bezwingen Sie unglaubliche Wetterereignisse wie die gigantischen Sand- oder intensiven Tropenstürmen, während Mexikos einzigartige und dynamische Jahreszeiten die Welt jede Woche verändern
+- Lassen Sie mit dem EventLab Ihre eigene Vorstellung von Spaß lebendig werden. Dieses Gameplay-Tool enthält benutzerdefinierte Rennen, Herausforderungen, Stunts und ganze Spielmodi. Gestalten Sie Ihre Autos auf mehr Arten als je zuvor – mit neuen Optionen wie offenes oder geschlossenes Verdeck, lackierte Bremssättel und mehr
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09DG8YYLL{{</world>}}

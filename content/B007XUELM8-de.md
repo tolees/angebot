@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modellnummer: 300.0639
 - Beste Qualität
-- Marke: KS Tools
 - Hochwertige Produkte
 - EAN: 4042146332498
+- Marke: KS Tools
+- Modellnummer: 300.0639
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007XUELM8{{</world>}}

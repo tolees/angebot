@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jedes Kapitel bringt neue Abenteuer
-- Für 1-4 Spieler
-- Preis der Wiener Spiele Akademie "Spiel der Spiele 2022"!
 - Pop Up Mechanismus im Buchformat
-- solo spielbar
+- Jedes Kapitel bringt neue Abenteuer
+- Preis der Wiener Spiele Akademie "Spiel der Spiele 2022"!
 - Spielregel: Deutsch
-- Oniria - die Welt einer alten Drachenzivilisation
+- solo spielbar
 - Fantasy Abenteuer, Fantastische Grafik
+- Oniria - die Welt einer alten Drachenzivilisation
 - Kooperatives Spiel
+- Für 1-4 Spieler
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09CH95YDQ{{</world>}}

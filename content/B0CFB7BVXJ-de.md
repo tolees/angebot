@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hotel-Modus, Elektronischer Programmführer (EPG), HDMI-Anschluss, USB-Anschluss
-- Auflösung: 1.920 x 1.080 Pixel (Full-HD) / Bildwiederholrate: 50/60 Hz)
-- Typ: LED-Fernseher mit 55 cm (22 Zoll) Bildschirmdiagonale
 - Empfang: Analog, DVB-T2 (Terrestrisch), DVB-C (Kabel), DVB-S2 (Satellit), CI+
 - Kein externer Receiver erforderlich
+- Typ: LED-Fernseher mit 55 cm (22 Zoll) Bildschirmdiagonale
+- Auflösung: 1.920 x 1.080 Pixel (Full-HD) / Bildwiederholrate: 50/60 Hz)
+- Hotel-Modus, Elektronischer Programmführer (EPG), HDMI-Anschluss, USB-Anschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFB7BVXJ{{</world>}}

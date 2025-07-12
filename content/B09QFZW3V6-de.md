@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinder helfen LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten) die Schiebeplattform zu aktivieren, um die Wand zu drehen und Bowser preiszugeben, und dann auf die Auslöser springen, um Bowser umzustoßen
-- Kinder können mit diesem Princess Peach Palast Erweiterungsset ein Palast Spielzeug, 5 Figuren und zahlreiche Herausforderungen zu ihrer LEGO Super Mario Welt hinzufügen
 - Für interaktive Spielabenteuer wird eines der Startersets – 71360, 71387 oder 71403 – benötigt; das modulare Set kann mit anderen LEGO Super Mario Sets kombiniert werden
-- Lade dir die LEGO Super Mario App mit Bauanleitungen und kreativen Spielideen herunter. Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
+- Kinder können mit diesem Princess Peach Palast Erweiterungsset ein Palast Spielzeug, 5 Figuren und zahlreiche Herausforderungen zu ihrer LEGO Super Mario Welt hinzufügen
 - Das Set ist ein tolles Geburtstagsgeschenk für junge Trendsetter ab 8 Jahren und Fans von LEGO Super Mario baubaren Spielzeugen
+- Kinder helfen LEGO Mario, LEGO Luigi oder LEGO Peach (Figuren nicht enthalten) die Schiebeplattform zu aktivieren, um die Wand zu drehen und Bowser preiszugeben, und dann auf die Auslöser springen, um Bowser umzustoßen
+- Lade dir die LEGO Super Mario App mit Bauanleitungen und kreativen Spielideen herunter. Eine Liste der kompatiblen Android- und iOS-Geräte ist auf LEGO.com/devicecheck verfügbar
 - Darüber hinaus beinhaltet das LEGO Super Mario Bauspielzeug auch eine Spezial-Röhre: Pilz-Palast, eine „kaputte“ Brücke und 5 LEGO Super Mario Figuren - Bowser, Ludwig, Toadette, ein Gumba und ein Bob-omb
 - Enthält einen Zeitblock, ein Fenster mit Peach-Glasmalerei, ein Bob-omb-Gemälde mit verborgenem Funktionsstein, einen Kuchen, in dem ein Gumba steckt, eine violette Frucht und vieles mehr
 

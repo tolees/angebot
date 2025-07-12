@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses Produkt hilft, Feinmotorik, Gedächtnis und Phantasie zu entwickeln, fördert die Konzentration und fördert die logisch-mathematische Arbeit
-- Empfohlen für Kinder ab 5 Jahren
 - Ebenfalls enthalten sind 10 Registerkarten mit insgesamt 20 Beispielen
+- Empfohlen für Kinder ab 5 Jahren
+- Dieses Produkt hilft, Feinmotorik, Gedächtnis und Phantasie zu entwickeln, fördert die Konzentration und fördert die logisch-mathematische Arbeit
 - Magnettafel Größe 215 x 12 x 170 mm in Rot
 - Die Tafel enthält einen gelben Stift mit Metallspitze zur Verwendung mit der Tafel
 

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Age range description: Kinder, Teenager, Erwachsene
-- Kommt verpackt in einer Box mit Schaufenster
 - Die Figur ist ungefähr 9 cm groß
 - Geeignet für Kinder ab drei Jahren
+- Kommt verpackt in einer Box mit Schaufenster
+- Age range description: Kinder, Teenager, Erwachsene
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07TYRFT6P{{</world>}}

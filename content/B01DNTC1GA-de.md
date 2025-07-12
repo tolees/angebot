@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rein pflanzliche Tenside, ohne Petrochemie
-- Ohne Duftstoffe, Farbstoffe, Konservierungsmittel
-- 100 % biologisch abbaubar
 - Basische Pflege für Hände, Gesicht und den ganzen Körper
+- 100 % biologisch abbaubar
+- Ohne Duftstoffe, Farbstoffe, Konservierungsmittel
+- Rein pflanzliche Tenside, ohne Petrochemie
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01DNTC1GA{{</world>}}

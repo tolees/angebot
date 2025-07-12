@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- toniger Materialmix aus Interlock und Ripstop-Polyester
 - Einschubtaschen aus Ripstop mit Reißverschlüssen
 - Rubber Artworks auf Kapuze, Ärmel, Vorder- und Rückseite
-- Kapuze mit Rubber Prints, verstelbarem Gummizug, reflektierenden Tapes innen
 - Bündchen an Ärmeln und Saum
-- toniger Materialmix aus Interlock und Ripstop-Polyester
+- Kapuze mit Rubber Prints, verstelbarem Gummizug, reflektierenden Tapes innen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5D7FKS{{</world>}}

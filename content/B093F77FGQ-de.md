@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform: Regulär
 - Fabric
 - Schuhweite: Normal
+- Passform: Regulär
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B093F77FGQ{{</world>}}

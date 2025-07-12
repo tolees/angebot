@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sohle: Gummi
 - Innenmaterial: Warmfutter
 - Obermaterial: Synthetik
-- Sohle: Gummi
 - Verschluss: Schnüren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

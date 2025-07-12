@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Fine line Düsensatz 0,15 mm und 0,4mm
 - Farbbecher mit Deckel 2 ml und 5 ml
-- Distance Cap
-- Quick Fix-Endstück mit Skala
 - Stecknippel 2,7mm für Schläuche mit Schnellkupplung 2,7mm
+- Quick Fix-Endstück mit Skala
+- Distance Cap
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008AECXAS{{</world>}}

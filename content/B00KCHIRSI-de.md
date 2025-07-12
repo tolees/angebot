@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- großer Hebel: Stahl mit Gummi überzogen in orange
-- Doppelanschluss 1/2": Schlauchanschluss 1/2", Hauptanschluss: 1/2",unterer Anschluss mit Regler:3/4"
-- widerstandsfähig
 - kleiner Hebel in blau
 - einfache Montage
+- Doppelanschluss 1/2": Schlauchanschluss 1/2", Hauptanschluss: 1/2",unterer Anschluss mit Regler:3/4"
+- großer Hebel: Stahl mit Gummi überzogen in orange
+- widerstandsfähig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KCHIRSI{{</world>}}

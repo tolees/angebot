@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- resistent gegen Feuchtigkeit
-- Beine sind stufenlos verstellbar
-- geringes Gewicht
 - kompaktes Packmaß
+- resistent gegen Feuchtigkeit
+- geringes Gewicht
 - für 2 Personen
+- Beine sind stufenlos verstellbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B004N6WJ7O{{</world>}}

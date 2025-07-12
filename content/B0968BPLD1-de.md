@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Großes Display - 6,0cm / 2,4" TFT Farbdisplay mit großen Symbolen und entprechender Schrift, für einfache Lesbarkeit
 - SOS Taste - Bis zu fünf hinterlegte Nummern werden im Notfall nacheinander angerufen
 - Große getrennte Tasten - Übersichtlich und einfach zu bedienen
 - Displaybeleuchtung – Hintergrundbeleuchtung kann individuell in fünf Schritten angepasst werden
+- Großes Display - 6,0cm / 2,4" TFT Farbdisplay mit großen Symbolen und entprechender Schrift, für einfache Lesbarkeit
 - Hörgerätekompatibel – keine störenden Rückkopplungen beim Telefonieren
 
 [🛒 Hier!!]({{< param buyurl >}})

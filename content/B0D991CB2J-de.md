@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Klappentaschen mit Knopfverschluss
-- durchgehende Knopfleiste
 - Knopfriegel am kontrastvollen Ärmelsaum
+- durchgehende Knopfleiste
 - Logo Artworks vorne und hinten
 - Dobby-Bindung mit Streifenstruktur
 

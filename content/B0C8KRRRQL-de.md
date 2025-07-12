@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Better Leather
-- Obermaterial: 100 % Rindsleder
 - Farbe: Mittelgrün
 - Sohle: 80% Gummi - 20% recycelter Gummi
+- Obermaterial: 100 % Rindsleder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8KRRRQL{{</world>}}
