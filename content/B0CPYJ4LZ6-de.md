@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6,78" 120 Hz 1.5K Super Fluid AMOLED Display – mit fortschrittlicher LTPO-Technologie, die dynamisch von 1 Hz auf 120 Hz skaliert. Mit Dolby Vision HDR, 10-Bit-Farbe und HDR10+-Wiedergabeunterstützung für Kinoerlebnisse mit ultrastarker Bildqualität.
-- "Snapdragon 8 Gen 2 mit bis zu 16 GB RAM und raytracing aktiviert Grafiken der nächsten Generation - RAM-Vita komprimiert Anwendunge und optimiert auf intelligente Weise häufig genutzte Anwendungen und reduziert die Speichergröße für verbesserte Stabilität und sofortiges Aufwachen."
-- 5500-mAh-Akku und 100-W-SUPERVOOC-Laden (1–100 % in 26 Minuten) - mit Battery Health Engine und Charge De-aging die Ladegeschwindigkeit wird automatisch beibehalten, um eine optimale Akkuleistung zu gewährleisten.
-- OxygenOS 14 - Schneller, geschmeidiger und unbelastet. Aquamorphic Design bietet eine vereinfachte visuelle Benutzeroberfläche. OxygenOS 14 gleitet wie Seide mit Core-Stabilität der nächsten Generation und verbesserter Zuverlässigkeit.
-- 50MP Hauptkamera mit OIS, 8MP Ultraweitwinkel, 2MP Makro-objektiv.
 - Die 5G-Kompatibilität kann je nach Netzbetreiber variieren. Wende dich für weitere Informationen an deinen Anbieter.
+- OxygenOS 14 - Schneller, geschmeidiger und unbelastet. Aquamorphic Design bietet eine vereinfachte visuelle Benutzeroberfläche. OxygenOS 14 gleitet wie Seide mit Core-Stabilität der nächsten Generation und verbesserter Zuverlässigkeit.
+- "Snapdragon 8 Gen 2 mit bis zu 16 GB RAM und raytracing aktiviert Grafiken der nächsten Generation - RAM-Vita komprimiert Anwendunge und optimiert auf intelligente Weise häufig genutzte Anwendungen und reduziert die Speichergröße für verbesserte Stabilität und sofortiges Aufwachen."
+- 6,78" 120 Hz 1.5K Super Fluid AMOLED Display – mit fortschrittlicher LTPO-Technologie, die dynamisch von 1 Hz auf 120 Hz skaliert. Mit Dolby Vision HDR, 10-Bit-Farbe und HDR10+-Wiedergabeunterstützung für Kinoerlebnisse mit ultrastarker Bildqualität.
+- 50MP Hauptkamera mit OIS, 8MP Ultraweitwinkel, 2MP Makro-objektiv.
+- 5500-mAh-Akku und 100-W-SUPERVOOC-Laden (1–100 % in 26 Minuten) - mit Battery Health Engine und Charge De-aging die Ladegeschwindigkeit wird automatisch beibehalten, um eine optimale Akkuleistung zu gewährleisten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CPYJ4LZ6{{</world>}}

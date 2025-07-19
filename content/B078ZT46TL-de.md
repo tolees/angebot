@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Enthält 2,4,7,9-tetramethyldec-5-yne-4,7-diol. Kann allergische Reaktionen hervorrufen.
-- Laserscharfe Texte und Grafiken
 - Dank wisch- und wasserfester Pigmenttinte ideal für Duplexdruck und Bearbeitung mit dem Textmarker
-- Tinte von Epson ist für Epson Drucker optimiert
 - Einzelpatronen - nur die verbrauchte Farbe ersetzen
+- Laserscharfe Texte und Grafiken
+- Tinte von Epson ist für Epson Drucker optimiert
 - Kompatibel mit WorkForce Pro WF-C5210DW WF-C5290DW WF-C5710DWF WF-C5790DWF WF-C5710DWF WF-C5290DW WF-C5790DWF WF-C5290DW
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

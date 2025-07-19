@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - CREME DE COCO conditioner 250 ml
 - Bringt Ihnen einen zusätzlichen Komfort
 - Hält kühl und bequem
-- Langlebig
 - Flexible Gestaltung
+- Langlebig
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000EMBK3A{{</world>}}

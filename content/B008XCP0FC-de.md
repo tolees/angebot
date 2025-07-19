@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Im Format 23x25 cm hat das Gästebuch 144 weisse Seiten aus säurefreiem Fotokarton
-- In dem Gästebuch können die Gäste gute Wünsche, Eindrücke, Sinnsprüche und Anekdoten festhalten
 - Buchgebundenes Gästebuch mit hochwertigem Einband und Blindprägung
 - Zusätzlich ist das Album mit einem CD- Archiv ausgestattet
+- In dem Gästebuch können die Gäste gute Wünsche, Eindrücke, Sinnsprüche und Anekdoten festhalten
 - Der weiße Fotokarton kann mit allen handelsüblichen Stiften beschriftet werden
 - Das Gästebuch ist veredelt durch eine Ausstanzung auf der Vorderseite für ein persönliches Foto zum Einstecken
 

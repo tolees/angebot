@@ -30,10 +30,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Is Assembly Required: False
 - Kombinierbar mit weiteren Rescue Hybrids Fahrzeugen - Zusammen mit dem Feuerwehr-Truck & dem Sky Patroller ist das Einsatzfahrzeug nicht zu stoppen! Sogar die Soundanlagen können gekoppelt werden.
-- Für Kinder ab 3 Jahren - Eine abnehmbare Drohne auf dem Dach unterstützt die Mission und feuert per Knopfdruck Projektile auf die Gegner ab - natürlich begleitet von Licht & Sound (inkl. Batterien).
-- Über Dickie Toys – Die Fahrzeugmarke für Kinder! Wir haben immer ein Ziel vor Augen: Kindern ein Lächeln ins Gesicht zu zaubern. Einfach auspacken und los geht der Spaß!
 - So fängt man Verbrecher heute - Über die Vorderöffnung des Polizei-Bots werden Spielzeugautos ganz einfach eingesaugt und landen im integrierten Gefängnis! 2 Metall- Autos werden direkt mitgeliefert.
+- Für Kinder ab 3 Jahren - Eine abnehmbare Drohne auf dem Dach unterstützt die Mission und feuert per Knopfdruck Projektile auf die Gegner ab - natürlich begleitet von Licht & Sound (inkl. Batterien).
 - 2 in 1 Polizei-Transformator- Mit einem schnellen Handgriff wächst das spannungsgeladene Polizeifahrzeug auf eine Höhe von 28,5 cm heran und verwandelt sich in einen eindrucksvollen Polizei-Roboter!
+- Über Dickie Toys – Die Fahrzeugmarke für Kinder! Wir haben immer ein Ziel vor Augen: Kindern ein Lächeln ins Gesicht zu zaubern. Einfach auspacken und los geht der Spaß!
 - Ziel geschlecht: unisex
 
 [🛒 Hier!!]({{< param buyurl >}})

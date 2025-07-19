@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Ladegerät GAL 18V-160
-- 3 Lademodi: Standard, PowerBoost und Long Life. PowerBoost – für eine volle Ladung bei höchster Ladegeschwindigkeit. Long Life – zum Laden auf 80 % für eine längere Akkulebensdauer
 - Ultraschnellladegerät: Dank 16 Ampere Ladestrom kannst du deinen ProCORE18V 8.0Ah innerhalb von 15 Minuten auf 50 % laden
+- Lieferumfang: Ladegerät GAL 18V-160
 - Active Air Cooling-Technologie: Selbst wenn sich der Akku im Betrieb aufheizt, wird er von dieser Technologie gekühlt und beim Laden ebenfalls kühl gehalten
+- 3 Lademodi: Standard, PowerBoost und Long Life. PowerBoost – für eine volle Ladung bei höchster Ladegeschwindigkeit. Long Life – zum Laden auf 80 % für eine längere Akkulebensdauer
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CPQ5XZ43{{</world>}}

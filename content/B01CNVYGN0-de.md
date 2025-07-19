@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weiche, trockene professionelle Stylingpaste für alle Haartypen
 - Enthält Zedernöl, Sandelholzöl und Arganöl für maximale Pflege
 - Dank der DiffusX Technology zieht das Oil in Sekundenschnelle in das Haar ein.
+- Weiche, trockene professionelle Stylingpaste für alle Haartypen
 - Glättet die Haaroberfläche und verleiht Volumen
 - Modellierbare, pudrige Paste für ein mattes Finish
 

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reduziert Kalk, geschmacksstörende Stoffe wie Chlor, Blei und Kupfer und Spuren von bestimmten Herbiziden, Pestiziden und Medikamenten, falls im Leitungswasser vorhanden
-- Unser Alleskönner Wasser Filter mit der innovativen BRITA-Filtertechnologie: 150l frisches gefiltertes Wasser für 4 Wochen mit nur 1 Kartusche / Tischwasserfilter passt in Standard-Kühlschranktüren, ist BPA-frei & spülmaschinenfest (außer Deckel)
+- Lieferumfang: 1 x BRITA Wasserfilter Marella in weiß + 6 x MAXTRA PRO ALL-IN-1 Filterkartusche (Halbjahrespaket) / Water Filter Jug mit Gesamtkapazität von 2,4l für 1,4l frisches gefiltertes Wasser
 - BRITA bietet nachhaltige Trinkwasserlösungen und ist weltweit die Nr. 1 für Filterkannen für Trinkwasser; Deutsche Qualität & Design – seit 1966
 - Praktischer Klappdeckel für einhändiges Befüllen vom Wasser Filter / digitales BRITA Memo erinnert alle 4 Wochen daran, die Wasserfilter Kartusche zu wechseln – für optimale Filtrationsergebnisse
-- Lieferumfang: 1 x BRITA Wasserfilter Marella in weiß + 6 x MAXTRA PRO ALL-IN-1 Filterkartusche (Halbjahrespaket) / Water Filter Jug mit Gesamtkapazität von 2,4l für 1,4l frisches gefiltertes Wasser
+- Unser Alleskönner Wasser Filter mit der innovativen BRITA-Filtertechnologie: 150l frisches gefiltertes Wasser für 4 Wochen mit nur 1 Kartusche / Tischwasserfilter passt in Standard-Kühlschranktüren, ist BPA-frei & spülmaschinenfest (außer Deckel)
 - Vertraue der innovativen MAXTRA PRO 4-stufigen Filtration mit natürlichen Aktivkohle- und Ionenaustauscher-Perlen: reines & frisches Filter Wasser für volleres Aroma in Kaffee & Tee und zuverlässigem Kalkschutz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

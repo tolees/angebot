@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FUNKTIONIERT MIT ALEXA: Kopple die Kamera per WLAN mit anderen Ring-Geräten wie Ring Chime oder einem kompatiblen Alexa-fähigen Gerät, um Audio-Benachrichtigungen zuhause hören und Sprachbefehle nutzen zu können.
-- HOHE AUDIO- UND HDR-VIDEOQUALITÄT: Die Kamera bietet 1080p-HDR-Video mit 140° Sichtfeld und eine Gegensprechfunktion mit Audio+ und hochentwickelter Geräuschunterdrückung.
-- SCHUTZ AUF PROFESSIONELLEM NIVEAU: Du kannst die akkubetriebene Überwachungskamera ganz einfach aussen installieren. Dank 3D-Bewegungserfassung, LED-Spotlights, HDR-Video und Nachtsicht in Farbe behältst du mit der Spotlight Kamera Pro Akku (Spotlight Cam Pro Battery) rund um die Uhr alles im Blick.
-- VOLLE KONTROLLE: Spotlights und Sirene können durch Bewegung und manuell über die Ring-App aktiviert werden. So kannst du von unterwegs per Live-Video Haustiere und Besucher sehen und mit ihnen sprechen - notfalls sogar lautstark warnen.
-- PRÄZISE BEWEGUNGSERKENNUNG: Unsere fortschrittlichste akkubetriebene Spotlight-Kamera ist mit 3D-Bewegungserfassung, Vogelperspektive und benutzerdefinierbaren Bewegungszonen ausgestattet, damit du Bewegungsereignisse präzise eingrenzen kannst.
 - LED-SPOTLIGHTS: Die Sicherheitskamera ist mit bewegungsaktivierten LED-Leuchten ausgestattet. So wird die Überwachung auch aussen in dunklen Ecken in Farbe möglich und du kannst Bereiche für Besucher ausleuchten.
+- PRÄZISE BEWEGUNGSERKENNUNG: Unsere fortschrittlichste akkubetriebene Spotlight-Kamera ist mit 3D-Bewegungserfassung, Vogelperspektive und benutzerdefinierbaren Bewegungszonen ausgestattet, damit du Bewegungsereignisse präzise eingrenzen kannst.
+- FUNKTIONIERT MIT ALEXA: Kopple die Kamera per WLAN mit anderen Ring-Geräten wie Ring Chime oder einem kompatiblen Alexa-fähigen Gerät, um Audio-Benachrichtigungen zuhause hören und Sprachbefehle nutzen zu können.
+- SCHUTZ AUF PROFESSIONELLEM NIVEAU: Du kannst die akkubetriebene Überwachungskamera ganz einfach aussen installieren. Dank 3D-Bewegungserfassung, LED-Spotlights, HDR-Video und Nachtsicht in Farbe behältst du mit der Spotlight Kamera Pro Akku (Spotlight Cam Pro Battery) rund um die Uhr alles im Blick.
+- HOHE AUDIO- UND HDR-VIDEOQUALITÄT: Die Kamera bietet 1080p-HDR-Video mit 140° Sichtfeld und eine Gegensprechfunktion mit Audio+ und hochentwickelter Geräuschunterdrückung.
 - FLEXIBEL DURCH UND DURCH: Die Kamera wird mit einem Schnellwechsel-Akkupack geliefert und kann bis zu 2 Akkus aufnehmen. Optional kann sie per Solarpanel, Netzteil oder festverdrahtet betrieben werden (Zubehör benötigt), damit sie immer im WLAN bleibt.
+- VOLLE KONTROLLE: Spotlights und Sirene können durch Bewegung und manuell über die Ring-App aktiviert werden. So kannst du von unterwegs per Live-Video Haustiere und Besucher sehen und mit ihnen sprechen - notfalls sogar lautstark warnen.
 - MEHR ÜBERBLICK.MEHR KONTROLLE.MEHR SICHERHEIT: Speichere deine aufgezeichneten Videos bis zu 180 Tage lang, um sie jederzeit noch einmal anzusehen. Lass dich benachrichtigen, wenn Personen an deiner Tür erkannt werden und vieles mehr. Dazu brauchst du nur ein Ring Home-Abonnement (separat erhältlich)*.
 
 [🛒 Hier!!]({{< param buyurl >}})

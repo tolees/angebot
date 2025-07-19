@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- komplett bestück mit original Eheim Filtermedien
 - extreme Laufruhe
-- niedriger Stromverbrauch
 - Zubehör inklusive
+- komplett bestück mit original Eheim Filtermedien
+- niedriger Stromverbrauch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00AEQN6K6{{</world>}}

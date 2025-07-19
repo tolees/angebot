@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - SCHUSSWEITE BIS ZU 27 METER: Dieser Blaster sorgt für Reichweite, denn die Darts fliegen bis zu 27 Meter weit
 - Für Teenager, Erwachsene und Kinder ab 8 Jahren
-- ENTHÄLT 12 NERF DARTS: Der Blaster kommt mit 12 Nerf Darts, um die 6-Dart Trommel vollständig zu laden und 6 weitere Darts zum Nachladen zur Verfügung zu haben. Feuern, nachladen und weiterfeuern!
-- SCHNELLFEUER: Den Spannschlitten zurückziehen und den Abzug drücken, um 1 Dart abzufeuern. Wird der Abzug gedrückt gehalten und gleichzeitig der Spannschlitten schnell vor- und zurückbewegt, können alle 6 Darts in schneller Folge abgeschossen werden
 - AUFRÜSTBARER BLASTER: Dank 3 Tactical Rail Steckschienen und Befestigungspunkten für eine Laufverlängerung und eine Schulterstütze kann der Blaster für jedes Battle individuell erweitert werden (Schulterstütze und Laufverlängerung nicht enthalten)
+- SCHNELLFEUER: Den Spannschlitten zurückziehen und den Abzug drücken, um 1 Dart abzufeuern. Wird der Abzug gedrückt gehalten und gleichzeitig der Spannschlitten schnell vor- und zurückbewegt, können alle 6 Darts in schneller Folge abgeschossen werden
+- ENTHÄLT 12 NERF DARTS: Der Blaster kommt mit 12 Nerf Darts, um die 6-Dart Trommel vollständig zu laden und 6 weitere Darts zum Nachladen zur Verfügung zu haben. Feuern, nachladen und weiterfeuern!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZYCNZTZ{{</world>}}

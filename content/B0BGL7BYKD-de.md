@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Neigbares Razer HyperScroll Mausrad: Mit einem Mausrad, das frei läuft, bis es angehalten wird, kannst du blitzschnell scrollen, oder du schaltest in den Taktilen Modus um, wenn du mehr Präzision und ein sattes Feedback brauchst, etwa beim Durchschalten deiner Waffen oder Skills.
 - Razer HyperSpeed Wireless: Praktisch latenzfreies Gaming auf Turnierniveau, 25 % schneller als mit anderen kabellosen Technologien - Hol dir das Upgrade auf eine Abtastrate von echten 8K Hz per Razer Mouse Dock Pro oder dem kabellosen Razer HyperPolling-Adapter (beide separat erhältlich).
 - verschiedene Griffhaltungen und die zahlreichen leicht erreichbaren Tasten eröffnen schier endlose Kombinationen von Befehlen und Makros.
 - Razer Chroma Beleuchtung mit 13 Zonen und vollständiger Unterbodenbeleuchtung: Du kannst individuell jede Zone mit über 16,8 Millionen Farben und unzähligen Beleuchtungseffekten anpassen und noch mehr Immersion genießen, wenn die Beleuchtung dynamisch auf über 150 Spiele mit Razer Chroma-Unterstützung reagiert.
-- Neigbares Razer HyperScroll Mausrad: Mit einem Mausrad, das frei läuft, bis es angehalten wird, kannst du blitzschnell scrollen, oder du schaltest in den Taktilen Modus um, wenn du mehr Präzision und ein sattes Feedback brauchst, etwa beim Durchschalten deiner Waffen oder Skills.
 - Optischer Razer Focus Pro Sensor mit 30K: Dieser brandneue Sensor von Razer sorgt für eine fehlerfreie Tracking-Performance auf einer Vielzahl von Oberflächen, inklusive Glas, ergänzt durch intelligente Funktionen für noch besseres Zielen und mehr Kontrolle.
 
 [🛒 Hier!!]({{< param buyurl >}})

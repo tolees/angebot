@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Begleite Aloy auf ihre gefährliche Reise durch den Verbotenen Westen, ein tödliches Grenzgebiet, in dem geheimnisvolle, neue Bedrohungen lauern
 - Horizon Forbidden West für die PS5 bietet eine höhere Grafikqualität, durch die das Spiel noch sehr viel ästhetischer und realistischer wirkt als das Original der Reihe
+- Begleite Aloy auf ihre gefährliche Reise durch den Verbotenen Westen, ein tödliches Grenzgebiet, in dem geheimnisvolle, neue Bedrohungen lauern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089ZVBHMG{{</world>}}

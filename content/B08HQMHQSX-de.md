@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - QUALITÄT: HAZET ist einer der führenden Hersteller von Qualitäts-Werkzeugen für die professionelle Anwendung und verfügt dabei über mehr als 155 Jahre Erfahrung in Entwicklung und Produktion
-- MODERN: Automatisches Aufladen durch optimierte Selbstpositionierung der Taschenlampe bei Auflage auf wireless charging pad mit Magnet-Haltefunktion | Optimaler Grip durch gummiertes Kunststoffgehäuse
 - PRAKTISCH: Starke integrierte Magneten sorgen für einen optimalen Halt an metallischen Oberflächen - ausziehbarer Halteclip um die LED-Taschenlampe einfach an Gürtel- oder Hosen-Taschen zu befestigen
-- STARK: Die Arbeits-Leuchte wechselt per Knopfdruck zwischen Hauptlicht für Flächen- und Toplicht für punktuelle Ausleuchtung - optimales Werkzeug für lichtschwache Stellen und z. B. als Motorhaubenleuchte
 - LIEFERUMFANG: 1x HAZET 1979NW/3 LED Lampen-Set | Inkl. LED Pen- und LED Pocket Light, 1979 WP-2 Dual wireless charging pad mit 100 cm USB-C Ladekabel und 2A 5V Netzteil | Integrierte Ladestand-Anzeige
+- STARK: Die Arbeits-Leuchte wechselt per Knopfdruck zwischen Hauptlicht für Flächen- und Toplicht für punktuelle Ausleuchtung - optimales Werkzeug für lichtschwache Stellen und z. B. als Motorhaubenleuchte
+- MODERN: Automatisches Aufladen durch optimierte Selbstpositionierung der Taschenlampe bei Auflage auf wireless charging pad mit Magnet-Haltefunktion | Optimaler Grip durch gummiertes Kunststoffgehäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08HQMHQSX{{</world>}}

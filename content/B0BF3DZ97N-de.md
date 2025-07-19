@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reise in dieser liebevollen Hommage an das Spiel, mit dem alles begann, nach Alamut, der legendären Heimat der Assassinen, die das Fundament des Kredos legten
 - Erlebe die Geschichte von Basim, einem gewitzten Straßendieb mit albtraumhaften Visionen, der auf den geschäftigen Straßen von Bagdad im neunten Jahrhundert nach Antworten und Gerechtigkeit sucht
-- Entdecke ein dichtes, vom Plot getriebenes Action-Adventure, das der Verwandlung eines widerspenstigen jungen Mannes in einen gebildeten Meisterassassinen folgt
-- Erkunde eine unglaublich dichte und lebendige Stadt, deren Einwohner auf jede deiner Bewegungen reagieren, und enthülle die Geheimnisse von vier unterschiedlichen Bezirken, während du dich durch das Goldene Zeitalter Bagdads kämpfst
 - Erlebe einen modernen Blick auf die berühmten Features und das Gameplay, die seit 15 Jahren eine Reihe definieren, Du bewegst dich nahtlos im Parkour durch die Stadt und tötest Ziele aus dem Hinterhalt mit wilderen Attentaten als je zuvor
+- Reise in dieser liebevollen Hommage an das Spiel, mit dem alles begann, nach Alamut, der legendären Heimat der Assassinen, die das Fundament des Kredos legten
+- Erkunde eine unglaublich dichte und lebendige Stadt, deren Einwohner auf jede deiner Bewegungen reagieren, und enthülle die Geheimnisse von vier unterschiedlichen Bezirken, während du dich durch das Goldene Zeitalter Bagdads kämpfst
+- Entdecke ein dichtes, vom Plot getriebenes Action-Adventure, das der Verwandlung eines widerspenstigen jungen Mannes in einen gebildeten Meisterassassinen folgt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BF3DZ97N{{</world>}}

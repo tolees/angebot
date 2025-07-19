@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Spendet intensiv Feuchtigkeit und hilft, dank des Gehalts an Polydocanol und Niacinamid, Juckreiz und Reizungen zu lindern.
 - Hilft, die Barrierefunktion der Haut zu stärken und hemmt die Anhaftung von Bakterien.
 - 2 mal oder mehrmals täglich auf die saubere, trockene Haut auftragen.
-- Spendet intensiv Feuchtigkeit und hilft, dank des Gehalts an Polydocanol und Niacinamid, Juckreiz und Reizungen zu lindern.
 - Die tägliche Einnahme hilft, neue Schübe zu vermeiden und verlängert die Remissionszeiten.
 - Stellt das Gleichgewicht der Haut dank seiner feuchtigkeitsspendenden Eigenschaften wieder her.
 

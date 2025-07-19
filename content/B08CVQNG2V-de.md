@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HOCHWERTIGES MATERIAL: Das vielseitige Polo besteht aus 96% Bio-Baumwolle, 4% Elasthan.
-- OPTIMALE PASSFORM: Das minimalistische Poloshirt aus reiner Bio-Baumwolle ist in schlichtem Design gehalten und schmeichelt jeder Körperform.
 - SCHLICHT & ELEGANT: Das moderne Shirt zeichnet sich durch seinen klassischen Kragen und den besonders hohen Tragekomfort aus. Die zwei Knöpfe sowie die dezente Flag auf der Brust machen den Look komplett.
+- OPTIMALE PASSFORM: Das minimalistische Poloshirt aus reiner Bio-Baumwolle ist in schlichtem Design gehalten und schmeichelt jeder Körperform.
+- HOCHWERTIGES MATERIAL: Das vielseitige Polo besteht aus 96% Bio-Baumwolle, 4% Elasthan.
 - PREMIUM DESIGN: Der zeitlose Style des Oberteils legt den Grundstein für jedes smart-casual Outfit. Außerdem eignet sich das moderne Shirt auch perfekt als Geschenk.
 - BEWÄHRTE QUALITÄT: Seit 1985 überzeugt die Designer-Marke weltweit durch ihre Qualität und Leichtigkeit mit vielfältigen Styles in den bekannten Farben Dunkelblau, Weiß und Rot.
 

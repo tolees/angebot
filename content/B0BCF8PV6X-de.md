@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das verrückte Labyrinth: Ein Brettspiel mit Tradition. Seit über 30 Jahren begeistert der spannende Klassiker die ganze Familie. Über Generationen hinweg ist das Gänge verschieben und Schätze suchen zum Spiele-Highlight geworden
+- Eine spannende Suche mit Micky Maus nach den berühmten Figuren aus dem Disney-Universum für 2-4 Spieler. Geschickt müssen die Gänge des Labyrinths verschoben und ein durchgängiger Weg zu Mickys Freunden geschaffen werden
 - Die charakteristischen Micky Maus-Köpfe als Spielfiguren und die silbrig glitzernden Wegeplättchen sorgen für noch mehr Fan-Charakter und sind somit ein passendes Geschenk oder Mitbringsel in jeder Altersgruppe
 - Das verrückte Labyrinth sorgt mit den Disney-Figuren für spaßige Spielepartien und begeistert Kinder ab 7 Jahren aber auch Erwachsene! Ein einfaches Such- und Schiebespiel, das auf spielerische Weise das logische Denken fördert
-- Eine spannende Suche mit Micky Maus nach den berühmten Figuren aus dem Disney-Universum für 2-4 Spieler. Geschickt müssen die Gänge des Labyrinths verschoben und ein durchgängiger Weg zu Mickys Freunden geschaffen werden
+- Das verrückte Labyrinth: Ein Brettspiel mit Tradition. Seit über 30 Jahren begeistert der spannende Klassiker die ganze Familie. Über Generationen hinweg ist das Gänge verschieben und Schätze suchen zum Spiele-Highlight geworden
 - Einfache Regeln, schneller Spieleinstieg und kurzweilige Partien sind garantiert! Durch die zufällige Anordnung der Gängekarten verläuft jede Partie anders und sorgt so für grenzenloser Spielspaß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

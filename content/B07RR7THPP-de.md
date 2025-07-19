@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Speicherkapazität bis zu 256 GB
-- Max. Lesegeschwindigkeit 95 MB; max. Schreibgeschwindigkeit. 45 MB
 - Betriebstemperatur: -25 ° C (-13 ° F) ~ 85 ° C (185 ° F)
+- Max. Lesegeschwindigkeit 95 MB; max. Schreibgeschwindigkeit. 45 MB
 - Entspricht den Standards UHS-II U3 und V30
 
 [🛒 Hier!!]({{< param buyurl >}})

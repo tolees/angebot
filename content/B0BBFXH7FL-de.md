@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 108 nummerierte Puzzleteile aus stabilem Kunststoff formen ein faszinierendes Fahrzeug
-- Der kultverdächtige Lamborghini Huracán EVO als 3D Puzzle Modell im Maßstab 1:18
-- Schwierigkeitsgrad 5/5; Länge des aufgebauten Fahrzeuges ca. 25,1 cm, Höhe ca. 6,5 cm. Verpackung kann abweichen
 - Inklusive drehbaren Rädern
+- Schwierigkeitsgrad 5/5; Länge des aufgebauten Fahrzeuges ca. 25,1 cm, Höhe ca. 6,5 cm. Verpackung kann abweichen
+- Der kultverdächtige Lamborghini Huracán EVO als 3D Puzzle Modell im Maßstab 1:18
 - Einfacher Aufbau mit bebilderter Anleitung sorgt für Puzzlespaß für Einsteiger und Fortgeschrittene ab 8 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einsatz: Universell im Außenbereich. Hohe Korrosionsbeständigkeit durch Edelstahl rostfrei A2
-- Made in Germany - Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 - Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze. Einfacheres Durchtrennen der Holzfaser durch SPAX-Wellenprofil
 - Als MULTI-Kopf ausgeprägter Senkkopf für bündiges Versenken und komfortables Verarbeiten, fräst im Holz, bremst auf Metall. Optimale Kraftübertragung und sauberer Passsitz auch beim Verarbeiten über Kopf mit SPAX Bit T-STAR plus T20 mit Führungszapfen
+- Made in Germany - Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00XPJI2KI{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Taschen: Zwei Einschubtaschen, Zwei Beintaschen, Ein Multitool-Tasche, Ein Telefontasche
 - Erwachsener
 - Vorgeformte Knie, verstellbare Beinabschlüsse, Stiefelhaken
-- Taschen: Zwei Einschubtaschen, Zwei Beintaschen, Ein Multitool-Tasche, Ein Telefontasche
 - Vorgeformte Kniepartie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

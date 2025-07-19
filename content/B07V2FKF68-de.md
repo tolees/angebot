@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fit: Normal
 - Model: 2063076
+- Fit: Normal
 - MittlereTaille
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

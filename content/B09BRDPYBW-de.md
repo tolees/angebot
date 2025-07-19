@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- POWER FÜR MEHRERE WOCHEN – Die integrierte Batterie hält unglaublich lange. Voll geladen versorgt sie deine Tastatur ungefähr einen Monat, aber auch länger, mit Strom. (Die Batterielaufzeit variiert abhängig von der Verwendung.)
 - KOMPATIBEL MIT MAC, iPAD ODER iPHONE – Es koppelt sich schnell mit deinem Gerät und ist direkt einsatzbereit.
+- KABELLOS, WIEDERAUFLADBAR, PRAKTISCH – Das Magic Keyboard verbindet sich drahtlos über Bluetooth mit deinem Mac, iPad oder iPhone. Und mit der integrierten wiederaufladbaren Batterie benötigst du keine einzelnen Batterien mehr zum Tauschen.
 - VERBESSERTES TIPPEN – Das Magic Keyboard macht präzises Tippen besonders angenehm und einfach.
 - LADEKABEL IM LIEFERUMFANG ENTHALTEN – Es kommt mit einem gewebten USB‑C auf Lightning Kabel, das zum Laden und Koppeln über einen USB‑C Anschluss mit dem Mac verbunden wird.
-- KABELLOS, WIEDERAUFLADBAR, PRAKTISCH – Das Magic Keyboard verbindet sich drahtlos über Bluetooth mit deinem Mac, iPad oder iPhone. Und mit der integrierten wiederaufladbaren Batterie benötigst du keine einzelnen Batterien mehr zum Tauschen.
+- POWER FÜR MEHRERE WOCHEN – Die integrierte Batterie hält unglaublich lange. Voll geladen versorgt sie deine Tastatur ungefähr einen Monat, aber auch länger, mit Strom. (Die Batterielaufzeit variiert abhängig von der Verwendung.)
 - SYSTEMANFORDERUNGEN – Erfordert einen Mac mit macOS 11.3 oder neuer, ein iPad mit iPadOS 14.5 oder neuer oder ein iPhone oder einen iPod touch mit iOS 14.5 oder neuer.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mode: Low-Top Trainers
 - Kalt gefüttert
+- Mode: Low-Top Trainers
 - Muster: Einfarbig
 
 [🛒 Hier!!]({{< param buyurl >}})

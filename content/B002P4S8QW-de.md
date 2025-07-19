@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zähhart, besonders geeignet für den harten Schraubfall z. B. in Blech oder Metall
-- Geeignet für Kreuzschlitzschrauben Pozidriv
 - 1/4" Sechskant-Antrieb
+- Geeignet für Kreuzschlitzschrauben Pozidriv
+- Zähhart, besonders geeignet für den harten Schraubfall z. B. in Blech oder Metall
 - Verhindert vorzeitigen Bruch der Abtriebsspitze
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

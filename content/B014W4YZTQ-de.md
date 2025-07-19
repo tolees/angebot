@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INHALT DES PROBIERSETS: Dieses in Europa hergestellte Verkostungsset besteht aus einem Whiskyglas, einem Kühlsockel (für eine ideale Verkostung einige Stunden vorher in den Gefrierschrank stellen), und einem Untersetzer, um alle Geheimnisse Ihres Lieblingsgetränkes kennenzulernen.
-- ENTDECKEN SIE DIE GEHEIMNISSE VON WHISKY: Dieses Peugeot-Verkostungsset ist ideal, um den Geheimnissen von Single Malt Whisky, Brandy, Cognac oder Armagnac auf die Spur zu kommen und deren verschiedene Aromen zu entdecken.
 - VERKOSTUNG BEI IDEALER TEMPERATUR: Stellen Sie das Glas auf den zuvor einige Stunden im Gefrierfach gekühlten Sockel. Der Inhalt kühlt dadurch um 5 bis 8 °C ab und ermöglicht Ihnen so die ideale Temperatur zur Verkostung, ohne dass der Geschmack des Getränks durch die Zugabe von Eiswürfeln verfälscht wird.
-- SPEZIELL ENTWICKELTES WHISKYGLAS: Das Glas dieses Sets ist so geformt, dass sich alle Aromen des enthaltenen Getränks optimal entfalten können. Es wurde speziell für die Verkostung von Whisky entwickelt. Die Verkostung beginnt so schon mit dem Geruch, der sich dank der besonderen Form des Glases ideal entfalten kann.
+- INHALT DES PROBIERSETS: Dieses in Europa hergestellte Verkostungsset besteht aus einem Whiskyglas, einem Kühlsockel (für eine ideale Verkostung einige Stunden vorher in den Gefrierschrank stellen), und einem Untersetzer, um alle Geheimnisse Ihres Lieblingsgetränkes kennenzulernen.
 - DER NAME PEUGEOT STEHT FÜR AUSGEZEICHNETE QUALITÄT: Der Name Peugeot verkörpert französisches Know-how und wird wegen seiner Pfeffer-, Salz-, Gewürz- und Kaffeemühlen, seiner Auflaufformen aus Keramik und seinem Angebot an Weinzubehör seit über 200 Jahren gleichermaßen von Spitzenköchen, Gourmets und Hobbyköchen geschätzt.
+- ENTDECKEN SIE DIE GEHEIMNISSE VON WHISKY: Dieses Peugeot-Verkostungsset ist ideal, um den Geheimnissen von Single Malt Whisky, Brandy, Cognac oder Armagnac auf die Spur zu kommen und deren verschiedene Aromen zu entdecken.
+- SPEZIELL ENTWICKELTES WHISKYGLAS: Das Glas dieses Sets ist so geformt, dass sich alle Aromen des enthaltenen Getränks optimal entfalten können. Es wurde speziell für die Verkostung von Whisky entwickelt. Die Verkostung beginnt so schon mit dem Geruch, der sich dank der besonderen Form des Glases ideal entfalten kann.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B014W4YZTQ{{</world>}}

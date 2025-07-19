@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Beliebig oft beschreib- und löschbares Wechselspeichermedium, SecureDigital-High-Capacity-Card (SDHC), entspricht SD-3.01-Standard
-- Nur geeignet für Endgeräte mit SDHC-Steckplatz (nicht abwärtskompatibel zu SD-Steckplätzen). Jede SD-Karte hat einen mechanischen Schreibschutz. Dieser wird aufgehoben, indem man den Riegel an der Seite nach oben schiebt.
-- Mechanischer Schreibschutz (gegen versehentliches Löschen), mit Beschriftungsfeld für kurze Notizen
-- Für Real-time/Broadcast-Aufnahmen, ermöglicht schnelle und direkte Datenübertragung zwischen Speicherkarte und UHS-I-fähigem Endgerät, besonders geeignet für real time Full-HD-Video- und 3D-Videoaufnahmen
 - Lieferumfang: 1 SDHC-Speicherkarte
+- Mechanischer Schreibschutz (gegen versehentliches Löschen), mit Beschriftungsfeld für kurze Notizen
+- Beliebig oft beschreib- und löschbares Wechselspeichermedium, SecureDigital-High-Capacity-Card (SDHC), entspricht SD-3.01-Standard
+- Für Real-time/Broadcast-Aufnahmen, ermöglicht schnelle und direkte Datenübertragung zwischen Speicherkarte und UHS-I-fähigem Endgerät, besonders geeignet für real time Full-HD-Video- und 3D-Videoaufnahmen
+- Nur geeignet für Endgeräte mit SDHC-Steckplatz (nicht abwärtskompatibel zu SD-Steckplätzen). Jede SD-Karte hat einen mechanischen Schreibschutz. Dieser wird aufgehoben, indem man den Riegel an der Seite nach oben schiebt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0163ZHE0O{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dezentem Logo auf der Brust
 - Ein vielseitiges Poloshirt, das stilvoll, schick und alles andere als altbacken ist
-- Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
 - Aus leichtem, atmungsaktivem Pikeegewebe
+- Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
+- Mit dezentem Logo auf der Brust
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08PDJ439Q{{</world>}}

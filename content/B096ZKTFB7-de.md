@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: Jada Toys
 - Farbe: Schwarz
 - Stylischer und Robustes Design
+- Marke: Jada Toys
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B096ZKTFB7{{</world>}}

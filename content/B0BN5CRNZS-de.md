@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gesicherte Brusttasche mit Reißverschluss
 - Leichter Polyester Pulloverstrick gebondet mit Anti-Pilling-Fleece
 - Doppeltstrick-Stretch-Polyester-Fleece mit gebürsteter Rückseite
-- Gesicherte Brusttasche mit Reißverschluss
 - YKK-Reißverschlüsse
 - Stretch-Fleece-Einsätze an den Unterarmen und seitlich am Körper erhöhen die Funktionalität
 

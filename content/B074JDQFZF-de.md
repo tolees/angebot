@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Bis zu 5 Meter Reichweite dank konzentriertem Jet-Sprühstrahl – insgesamt 8 Sekunden Sprühdauer
 - Funktioniert auch kopfüber – ausgeklügelte 360°-Sprüh-Technologie für ein kräftiges Sprühen aus allen Lagen
 - Einfache Handhabung – trotzdem optional auch mit einem Fläschchen Trainingsspray erhältlich, um im Notfall sicher zu agieren
-- In Deutschland frei verkäufliches Pfefferspray – ausschließlich zur Tierabwehr und nur für den deutschen Markt bestimmt
 - In Polizeieinsätzen bewährter Reizstoff (enthält „Oleoresin Capsicum“) – in deutschen Laboren geprüft und entwickelt
+- In Deutschland frei verkäufliches Pfefferspray – ausschließlich zur Tierabwehr und nur für den deutschen Markt bestimmt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B074JDQFZF{{</world>}}

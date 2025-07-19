@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Adaptive Sync-Technologie: Unterstützung für Adaptive Sync (AMD FreeSync) verhindert Tearing und Bildfehler, indem es die Bildwiederholrate des Monitors mit der Framerate deiner Grafikkarte synchronisiert
-- Lieferumfang: Lenovo Legion Y32p-30, 1x Netzkabel, 1x Schnellstartanleitung
 - Herstellergarantie: 36 Monate. Die Garantiebedingungen finden Sie unter „Weitere technische Informationen“, Ihre gesetzlichen Gewährleistungsrechte bleiben unberührt
 - Hohe Bildwiederholrate: Genieße flüssige und reaktionsschnelle Gaming-Erlebnisse mit einer hohen Bildwiederholrate von 144Hz, die Bewegungen klarer darstellt und Bildschirmruckeln minimiert
+- Adaptive Sync-Technologie: Unterstützung für Adaptive Sync (AMD FreeSync) verhindert Tearing und Bildfehler, indem es die Bildwiederholrate des Monitors mit der Framerate deiner Grafikkarte synchronisiert
+- Lieferumfang: Lenovo Legion Y32p-30, 1x Netzkabel, 1x Schnellstartanleitung
 - Geringe Reaktionszeit: Ein Gaming-Monitor mit niedriger Reaktionszeit (0.2 ms) minimiert Bewegungsunschärfe und Ghosting-Effekte, um schnelle Bewegungen und Action-Szenen gestochen scharf darzustellen
 
 [🛒 Hier!!]({{< param buyurl >}})

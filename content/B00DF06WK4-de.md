@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 1000 bunte Puzzleteile von Ravensburger sind genau das richtige für jeden Puzzlefan, der faszinierende Landschaftsmotive, magische Fantasiewelten oder bunte Collagen liebt
-- Gepuzzelt und geklebt macht sich ein Ravensburger Puzzle auch hervorragend als Wanddekoration
-- Inhalt: 1000 Teile Ravensburger Puzzle, im Format 70,00 cm x 50,00 cm, ab 14 Jahren geeignet
 - Entdecke die Ravensburger Qualitätsmerkmale auf einen Blick: Formenvielfalt durch handgefertigte Stanzmesser, passgenaue Puzzleteile, reflexfreies Puzzlebild durch Naturleinenprägung, knickstabile Puzzleteile, hergestellt aus recycelter Pappe
+- Inhalt: 1000 Teile Ravensburger Puzzle, im Format 70,00 cm x 50,00 cm, ab 14 Jahren geeignet
+- Gepuzzelt und geklebt macht sich ein Ravensburger Puzzle auch hervorragend als Wanddekoration
 - Ravensburger Puzzle sind das beste Geschenk zu jedem Anlass: Geburtstag, Weihnachten, Ostern oder einfach als tolle Freizeitbeschäftigung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

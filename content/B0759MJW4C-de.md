@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- POP! Vinylfigur
 - dc
+- POP! Vinylfigur
 - DC Bombshells Hawkgirl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

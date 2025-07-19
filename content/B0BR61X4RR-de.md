@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: 100 % Textil (90 % recyceltes PET - 10 % PET)
 - Farbe: Weiß Natur
+- Obermaterial: 100 % Textil (90 % recyceltes PET - 10 % PET)
 - Recycled Synthetics
 - Sohle: 80% EVA - 20% recyceltes EVA
 

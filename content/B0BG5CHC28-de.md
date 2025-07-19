@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kängurutasche
 - Grafische Gant-Stickerei auf der Brust
+- Kängurutasche
 - Normale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

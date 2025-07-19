@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Fünf Taschen und leichter Waschung
 - Skinny Jeans mit hoher Leibhöhe aus Baumwolle
+- Mit Fünf Taschen und leichter Waschung
 - Angenehmes Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

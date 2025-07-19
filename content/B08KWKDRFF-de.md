@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FEDERLEICHTES GEWICHT - Die speziellen Öffnungen reduzieren das Gewicht auf gerade einmal 68 g für blitzschnelles Gameplay
+- SWITCHES DER NÄCHSTEN GENERATION - Die Golden Micro IP54-Switches halten ein ganzes Mausleben und darüber hinaus. Sie bieten ein präzises Klickverhalten und sind zusätzlich staub- und wasserdicht
+- HÄLT LÄNGER DURCH ALS JEDER GAMER - Die verzögerungsfreie Quantum 2.0 Wireless-Technologie bietet eine 2,4 GHz-Verbindung für das Gaming, zusätzliche Bluetooth 5.0-Kompatibilität und ermöglicht bis zu 200 Stunden Akkulaufzeit.
 - AQUABARRIER - Das Innenleben der Maus ist dank der Schutzklasse IP 54 vor Spritzern, Staub und Schmutz geschützt
 - FARBENFROHES RGB - Die PrismSync RGB-Beleuchtung mit 3 Zonen strahlt in 16,8 Millionen individuell konfigurierbaren Farben
-- HÄLT LÄNGER DURCH ALS JEDER GAMER - Die verzögerungsfreie Quantum 2.0 Wireless-Technologie bietet eine 2,4 GHz-Verbindung für das Gaming, zusätzliche Bluetooth 5.0-Kompatibilität und ermöglicht bis zu 200 Stunden Akkulaufzeit.
-- SWITCHES DER NÄCHSTEN GENERATION - Die Golden Micro IP54-Switches halten ein ganzes Mausleben und darüber hinaus. Sie bieten ein präzises Klickverhalten und sind zusätzlich staub- und wasserdicht
+- FEDERLEICHTES GEWICHT - Die speziellen Öffnungen reduzieren das Gewicht auf gerade einmal 68 g für blitzschnelles Gameplay
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08KWKDRFF{{</world>}}

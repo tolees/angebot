@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schaft und Kappe aus PP garantieren lange Lebensdauer - kein Ausdampfen der Tinte
+- Farbintensive, geruchsarme, wasserlösliche Tinte, lichtbeständig, schlägt nicht durch Papier, nachfüllbar mit Tankstelle 487 05
 - Trocken abwischbar von vielen glatten Oberflächen, integrierter Wischer am Stiftende, Kappe mit Abrollsicherung
 - Lieferumfang: vier Farben (rot, blau, grün, schwarz) in der stabilen, aufstellbaren STAEDTLER-Box
-- Schaft und Kappe aus PP garantieren lange Lebensdauer - kein Ausdampfen der Tinte
 - Für Overhead-Projektionen geeignet, hohe Qualität Made in Germany
-- Farbintensive, geruchsarme, wasserlösliche Tinte, lichtbeständig, schlägt nicht durch Papier, nachfüllbar mit Tankstelle 487 05
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004SZ0YYU{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Setze Cals reise fort: Der einstige padawan Cal ist zu einem mächtigen Jedi-ritter herangewachsen
 - Erkunde eine ungezähmte galaxis: Erkunde in der galaxis von Star Wars neue planeten und vertraute regionen mit einzigartigen biomen, herausforderungen und gegnern
 - Beherrsche neue fähigkeiten, ausrüstungsobjekte und kräfte, die dir bei der erkundung deiner umgebung und im kampf völlig neue möglichkeiten eröffnen
+- Setze Cals reise fort: Der einstige padawan Cal ist zu einem mächtigen Jedi-ritter herangewachsen
 - Wachse über dein training hinaus: Das filmische kampfsystem kehrt mit zusätzlichen machtfähigkeiten und lichtschwert-kampfstilen zurück
 
 [🛒 Hier!!]({{< param buyurl >}})

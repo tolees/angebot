@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bild und Ton: Cinema HDR (Dolby Vision IQ, HDR10 Pro, HLG, Filmmaker Mode), HDR Dynamic Tone Mapping, 4K AI Upscaling, 4K High Frame Rate, zweistufige Rauschreduzierung, Autokalibrierung (CalMAN); Dolby Atmos-fähiges 2.0-Soundsystem mit 20 Watt (10W je Kanal), WiSA-kompatibel
-- Prozessor: α7 Gen5 4K AI-Prozessor mit AI Picture Pro, AI Brightness Control, AI Acoustic Tuning, AI Genre Selection & AI Sound Pro (Virtual 5.1.2 Up-mix); Gaming Features: NVIDIA G-SYNC-kompatibel, AMD FreeSync-zertifiziert, HGiG-kompatibel, Game Optimizer (VRR / ALLM / GameGenre), Cloud-Gaming (NVIDIA GeForce NOW)
-- Smart TV: webOS22 (LG ThinQ AI) mit Google Assistant & Amazon Alexa, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, inkl. LG Magic Remote-Fernbedienung MR22GA mit 2x AA Batterien
-- Tunertyp und Konnektivität: Single Triple Tuner (DVB-T2/-C/-S2), LAN (Ethernet), WLAN (802.11ac), Bluetooth 5.0, 2x HDMI 2.1, 2x HDMI 2.0 (mit eARC und LG SIMPLINK), 2x USB, Optischer Digitalausgang (S/PDIF, Lichtwellenleiter), CI+-Slot
 - 4K OLED-Display mit Pixel-Dimming, unendlichem Kontrast und perfekten Farben & Blickwinkeln; 139 cm (55 Zoll) Bildschirmdiagonale, Außenmaße (ohne Standfuß): 122,8 x 70,8 x 4,69 cm, VESA Norm: 300 x 200 mm
+- Prozessor: α7 Gen5 4K AI-Prozessor mit AI Picture Pro, AI Brightness Control, AI Acoustic Tuning, AI Genre Selection & AI Sound Pro (Virtual 5.1.2 Up-mix); Gaming Features: NVIDIA G-SYNC-kompatibel, AMD FreeSync-zertifiziert, HGiG-kompatibel, Game Optimizer (VRR / ALLM / GameGenre), Cloud-Gaming (NVIDIA GeForce NOW)
+- Tunertyp und Konnektivität: Single Triple Tuner (DVB-T2/-C/-S2), LAN (Ethernet), WLAN (802.11ac), Bluetooth 5.0, 2x HDMI 2.1, 2x HDMI 2.0 (mit eARC und LG SIMPLINK), 2x USB, Optischer Digitalausgang (S/PDIF, Lichtwellenleiter), CI+-Slot
+- Smart TV: webOS22 (LG ThinQ AI) mit Google Assistant & Amazon Alexa, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, inkl. LG Magic Remote-Fernbedienung MR22GA mit 2x AA Batterien
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFFZKKL1{{</world>}}

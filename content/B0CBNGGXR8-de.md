@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktart : Chinohose
 - Materialzusammensetzung: 50% Recycelter Polyester, 21% Nylon, 17% Viskose, 10% Elasthan, 2% Polyester
 - Verschluss : Hosenschlitz mit Reißverschluss
+- Produktart : Chinohose
 - Waist : Normale Bundhöhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

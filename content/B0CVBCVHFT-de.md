@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält außerdem 3 Boosterpacks des Pokémon-Sammelkartenspiels, die jeweils 10 Karten und 1 Basis-Energiekarte sowie 1 Code-Karte für Pokémon-Sammelkartenspiel-Live enthalten.
-- Die Reihen der Pokémon aus Vergangenheit und Zukunft werden immer größer! Stürze dich in die neueste Action des Pokémon-Sammelkartenspiels mit drei tollen Boosterpacks der neuen Erweiterung Karmesin & Purpur – Gewalten der Zeit!
 - Bereite dich auf die Rückkehr von ASS-KLASSE-Karten mit einzigartig mächtigen Effekten und mehr als ein Dutzend brandneue Pokémon-ex, inklusive Terakristall-Pokémon-ex mit Typenwandel, vor.
 - Dieses Set enthält 1 besondere holografische Promokarte mit Pii.
+- Die Reihen der Pokémon aus Vergangenheit und Zukunft werden immer größer! Stürze dich in die neueste Action des Pokémon-Sammelkartenspiels mit drei tollen Boosterpacks der neuen Erweiterung Karmesin & Purpur – Gewalten der Zeit!
+- Enthält außerdem 3 Boosterpacks des Pokémon-Sammelkartenspiels, die jeweils 10 Karten und 1 Basis-Energiekarte sowie 1 Code-Karte für Pokémon-Sammelkartenspiel-Live enthalten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVBCVHFT{{</world>}}

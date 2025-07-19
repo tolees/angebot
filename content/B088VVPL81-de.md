@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BRD
 - Junichi Sato; Kunihiko Ikuhara
 - 1075
+- BRD
 - Deutsch, Japanisch
 
 [🛒 Hier!!]({{< param buyurl >}})

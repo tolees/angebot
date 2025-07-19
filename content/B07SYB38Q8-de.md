@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SDCZ74-128G-G46
 - Langlebig
+- SDCZ74-128G-G46
 - Hochwertige Material
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang : Samyang 10mm T3.1 VDSLR ED AS NCS CS II Objektiv für Anschluss Micro Four Thirds; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
 - Speziell für APSC-Kameras bis hin zu Vollformat-Kameras
+- Lieferumfang : Samyang 10mm T3.1 VDSLR ED AS NCS CS II Objektiv für Anschluss Micro Four Thirds; Sonnenblende; Schutzdeckel für Linse und Anschlussgewinde; Objektivschutzbeutel; Anleitung
 - Entkoppelte, stufenlose Fokusnachführung und Blendeneinstellung mit Zahnkranz
-- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 - Manuell fokussierendes Video-Objektiv 10mm T3.1
+- Herstellergarantie: 5 Jahre bei Verkauf und Versand durch Amazon.de. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00SLP1EI8{{</world>}}

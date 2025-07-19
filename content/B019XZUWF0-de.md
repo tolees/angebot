@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Klebepad bei Temperaturen von 0°C - +55°C einsetzbar - Befestigung an kalten Decken vermeiden - sinkende Temperaturen haben keinen Nachträglichen Einfluss auf die Verbindung von Klebepad & Untergrund
 - Die Klebepads dienen der einfachen Anbringung der Brandmelder - die Befestigung des Melders läuft ganz ohne Werkzeuge und ohne Schmutz und ist nach wenigen Minuten erledigt
 - Lieferumfang: 10x Klebepad Genius für Funkrauchmelder Hekatron Genius H/HX und Genius Plus/Plus X
 - Oberfläche, an der das Pad befestigt wird, muss glatt, eben, sauber und frei von Staub, Fett und Lösemittel sein - Gips, Emulsionsfarbe, Sperrholz etc. sind ungeeignete Oberflächen für das Klebepad
-- Klebepad bei Temperaturen von 0°C - +55°C einsetzbar - Befestigung an kalten Decken vermeiden - sinkende Temperaturen haben keinen Nachträglichen Einfluss auf die Verbindung von Klebepad & Untergrund
 - Oberflächenbeschaffenheit vor der Montage des Klebepads überprüfen & reinigen - Pad auf den Sockel des Melders kleben, zweite Schutzfolie abziehen - durch kräftiges Andrücken (5 Sek.) befestigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

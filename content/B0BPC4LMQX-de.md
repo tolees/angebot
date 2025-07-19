@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Contains 1540 Pieces
-- Lieferung in werkseitig versiegelter Box
-- Collectable item, not requarily suitable as a childs gift
 - Bösewicht Icons
+- Lieferung in werkseitig versiegelter Box
+- Contains 1540 Pieces
+- Collectable item, not requarily suitable as a childs gift
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BPC4LMQX{{</world>}}

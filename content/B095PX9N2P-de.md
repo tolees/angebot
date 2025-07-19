@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AUF STAR WARS: THE MANDALORIAN BASIERENDES, ZUM CHARAKTER PASSENDES ZUBEHÖR: Diese Figur aus der Star Wars Vintage Collection kommt mit 4 zur Serie passenden Accessoires zur Erweiterung jeder Star Wars Kollektion
 - KLASSISCHE STAR WARS FIGUR: Diese Bo-Katan Kryze Action-Figur ist an den Charakter in Star Wars: The Mandalorian angelehnt und perfekt als Geschenk für Star Wars Sammler und Fans ab 4 Jahren geeignet
+- VERPACKUNG IM VINTAGE-STIL: Die 9,5 cm großen klassischen Star Wars Figuren sowie Fahrzeuge aus der Star Wars The Vintage Collection haben das originale Kenner Branding (Jeweils separat erhältlich. Je nach Verfügbarkeit.)
+- AUF STAR WARS: THE MANDALORIAN BASIERENDES, ZUM CHARAKTER PASSENDES ZUBEHÖR: Diese Figur aus der Star Wars Vintage Collection kommt mit 4 zur Serie passenden Accessoires zur Erweiterung jeder Star Wars Kollektion
 - PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Dank ihrer hohen Beweglichkeit, ihrem vollbeweglichen Kopf und vollbeweglichen Armen und Beinen kann die Star Wars Bo-Katan Kryze Figur in Action-Figur- und Fahrzeug-Kollektionen präsentiert werden
 - BO-KATAN KRYZE: Bo-Katan Kryze ist eine talentierte Kriegerin und legendäre Mandalorianerin. Sie ist die Letzte ihrer Linie und führt ein Team von Mandalorianern des Kryze-Clans an, die gegen die Überreste des Imperiums antreten
-- VERPACKUNG IM VINTAGE-STIL: Die 9,5 cm großen klassischen Star Wars Figuren sowie Fahrzeuge aus der Star Wars The Vintage Collection haben das originale Kenner Branding (Jeweils separat erhältlich. Je nach Verfügbarkeit.)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B095PX9N2P{{</world>}}

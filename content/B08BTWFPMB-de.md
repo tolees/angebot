@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auch verwendbar für NUC-PC, Mini-Computer oder Geräte mit ähnlichen Abmessungen
 - Einfacher Zugang zu Netzschalter, Ausgangsbuchsen und Kabeln auf beiden Seiten.
-- Abmessungen: 128x140mm, Tiefe variabel: 32-46mm
 - Anpassbar an eine Vielzahl von Medienabspielgeräten, Kabel- und Satellitenboxen.
+- Auch verwendbar für NUC-PC, Mini-Computer oder Geräte mit ähnlichen Abmessungen
+- Abmessungen: 128x140mm, Tiefe variabel: 32-46mm
 - Schnell und einfach zu montieren und zu installieren.
 - Kompatibel mit Streaming-Boxen wie Apple TV, Amazon Fire, Roku Streaming und vielen weiteren Medienplayern.
 

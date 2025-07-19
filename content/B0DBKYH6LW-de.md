@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steigt Stufen auf und passt euren Spielstil für jede Rolle an. Ändert euren Flugstil, indem ihr verschiedenen Besen ausprobiert
 - Karriermodus, Schaukampf-Matches und der PvP-Modus erlauben euch, den Spaß von Quidditch auf verschiedene Arten zu erleben
 - Spielt eine der klassischen Positionen - Jäger:in, Sucher:in, Hüter:in oder Treiber:in - alle mit ihrem einzigartigen Spielstil
+- Steigt Stufen auf und passt euren Spielstil für jede Rolle an. Ändert euren Flugstil, indem ihr verschiedenen Besen ausprobiert
 - Inkl. Das Spiel, Reiseschuluniformen + Hauswappen-Emblemen für alle 4 Hogwarts-Häuser – Slytherin, Hufflepuff, Gryffindor, Ravenclaw + 2000 Gold DLCs
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Viele Funktionen – Genauso wie bei dem Original können die Türen geöffnet werden
-- Jada Toys – Seit mehr als 20 Jahren bieten wir, als führender Hersteller für lizensierte Modell-Figuren und -Fahrzeuge, Detailtreue, Vielfalt und höchste Qualität in Perfektion
-- Maßstab 1:24 – Karosserie, Lufteinlässe, Bewaffnung, Lackierung, die Reifen und viele weiteren Details wurden absolut maßstabs- sowie originalgetreu bei diesem Modellauto umgesetzt
 - Absolut einzigartig – Die Animated Series Version des Batmobils ist für viele DC-Fans die mit Abstand beliebteste Ausführung des schnellsten Fortbewegungsmittels von ganz Gotham
+- Maßstab 1:24 – Karosserie, Lufteinlässe, Bewaffnung, Lackierung, die Reifen und viele weiteren Details wurden absolut maßstabs- sowie originalgetreu bei diesem Modellauto umgesetzt
+- Jada Toys – Seit mehr als 20 Jahren bieten wir, als führender Hersteller für lizensierte Modell-Figuren und -Fahrzeuge, Detailtreue, Vielfalt und höchste Qualität in Perfektion
+- Viele Funktionen – Genauso wie bei dem Original können die Türen geöffnet werden
 - Mit Batman – Dort wo das Auto von Batman ist, darf der Retter Gothams nicht weit entfernt sein. Genau aus dem Grund ist in dem Set eine detailreiche Zinkdruckguss-Modellfigur zusätzlich enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 100% Kakao aus nachhaltigem Anbau
-- Recyclebare Verpackung aus Papier
-- Bunte Farben aus der Natur
-- Ohne Aromen und Zusatzstoffe
-- Ideal zum Teilen mit Freunden und Familie
 - Wiederverschließbar
+- Ohne Aromen und Zusatzstoffe
+- Bunte Farben aus der Natur
+- Recyclebare Verpackung aus Papier
+- Ideal zum Teilen mit Freunden und Familie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08G12QHNQ{{</world>}}

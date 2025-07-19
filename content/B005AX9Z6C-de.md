@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - GOOD GRIP
-- RECYCLED
 - EXTRA WARM
+- RECYCLED
 - CUSHIONING
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

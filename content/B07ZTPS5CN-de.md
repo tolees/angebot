@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 12-V-Zigarettenanzünder-Stecker
-- Kühlt bis 20 °C unter Umgebungstemperatur, heizt bis +65 °C
-- Befestigung im Auto mit Sicherheitsgurt
 - 2 Getränkehalter (0,33-l-Dosen und 0,5-l-Flaschen)
 - 8 Liter Volumen, Platz für 0,7-l-Flasche
+- Kühlt bis 20 °C unter Umgebungstemperatur, heizt bis +65 °C
+- 12-V-Zigarettenanzünder-Stecker
+- Befestigung im Auto mit Sicherheitsgurt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZTPS5CN{{</world>}}

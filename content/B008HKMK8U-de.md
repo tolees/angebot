@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Milder und fruchtiger Geschmack
 - Premium Gin
+- Milder und fruchtiger Geschmack
 - Botanicals: Blaubeere, Brombeere
 - Perfekt für den Gebrauch in Cocktails
 

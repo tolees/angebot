@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kamera: Dreifach, 50 MP + 48 MP + 32 MP
 - Batterie: 5000 mAh
+- Kamera: Dreifach, 50 MP + 48 MP + 32 MP
 - Bildschirm: 6,7", 1440 x 3216 Pixel
 - Prozessor: Snapdragon 8 Gen 2 3,2 GHz
 

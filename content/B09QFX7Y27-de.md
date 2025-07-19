@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- This LEGO Minecraft village set features a brick built bakery shop, farm, 3 Minecraft figures and a Goat toy for video game inspired LEGO adventures
-- Includes Minecraft character and mob figures that players will instantly recognise: a baker, a snow villager, a creeper and a goat toy
 - LEGO Minecraft sets offer kids new ways to enjoy the game and bring familiar characters and locations to life through the world of LEGO bricks
 - Accessories also include a treasure chest with an egg hidden inside which kids can defend with the classic Minecraft diamond sword accessory
-- Kids help the snow villager grow wheat on the farm, and get milk from the goat toy; then they join the baker to get creative in the kitchen
 - This versatile LEGO Minecraft set is the perfect creative toy for kids age 8+ and makes a great birthday, Christmas or any-occasion gift
+- This LEGO Minecraft village set features a brick built bakery shop, farm, 3 Minecraft figures and a Goat toy for video game inspired LEGO adventures
+- Kids help the snow villager grow wheat on the farm, and get milk from the goat toy; then they join the baker to get creative in the kitchen
+- Includes Minecraft character and mob figures that players will instantly recognise: a baker, a snow villager, a creeper and a goat toy
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09QFX7Y27{{</world>}}

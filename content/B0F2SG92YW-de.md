@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 【Augenschutz】blendfreie LEDs mit 3 Farbtemperaturen (3000K/4000K/6000K) schützen Kinderaugen bei Hausaufgaben oder Snacks. Dimmen per Langdruck (10%-100%) – von gemütlichem Nachtlicht bis zur hellen LED Schrankbeleuchtung.
 - 【Lange Akkulaufzeit】Der 1500mAh USB-C Akku hält bis zu 30 Tage im Bewegungsmelder-Modus (10x/Tag) und lädt in nur 4 Stunden voll auf. Nie mehr nächtliches Laden für Küchen, Treppen oder Schrankbeleuchtung im Kinderzimmer! Automatisches Abschalten nach 20 Sekunden spart Energie, während der Dauerlichtmodus 8 Stunden Aufgaben beleuchtet.
 - 【 Werkzeuglose Montage】Einfach mit Magneten an Metall befestigen oder mit 3M-Klebepad überall anbringen. Frei repositionierbar – ideal für Mietwohnungen oder unordentliche Küchen.
-- 【Augenschutz】blendfreie LEDs mit 3 Farbtemperaturen (3000K/4000K/6000K) schützen Kinderaugen bei Hausaufgaben oder Snacks. Dimmen per Langdruck (10%-100%) – von gemütlichem Nachtlicht bis zur hellen LED Schrankbeleuchtung.
 - 【Familienfreundlich】Robustes Metall übersteht Stürze und Dampf. Ideal als Schranklicht mit Bewegungsmelder, Treppenbeleuchtung oder für Garagen. Bei Beschädigung: 24h-Support ersetzt Ihr LED Bewegungsmelder Innen-Gerät – ohne Rückfragen!
 - 【3 Intelligente Modi】Wechseln zwischen Nacht-Sensor (nur bei Dunkelheit), Dauerlicht oder Aus. Der 120° Bewegungsmelder erfasst Treppen sofort und schaltet sich nach 20s automatisch ab – sicherer für Senioren/Kinder als 15s-Konkurrenzprodukte.
 

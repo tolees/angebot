@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zweistufig einstellbare Griffhöhe
 - Erhöhte Grasaufnahme
+- Zweistufig einstellbare Griffhöhe
 - Soft-Start für weiches Anlaufen
 - Durch eine elektronische Steuerung liefert der bürstenlose Motor eine verlängerte Akku-Laufzeit
 

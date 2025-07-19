@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Profilen und Größenstempelung
 - Sechskant-Schraubendreher Hex-Plus
 - Mit Sechskantabrollschutz gegen Wegrollen
-- Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Profilen und Größenstempelung
-- Hex-Plus lässt Innensechskantschrauben länger leben
 - Mehrkomponentiger Kraftform Griff für schnelles und ergonomisches Verschrauben
+- Hex-Plus lässt Innensechskantschrauben länger leben
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00365EYJY{{</world>}}

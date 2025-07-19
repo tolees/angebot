@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DIE BESONDERE HOCHZEITSKARTE mit 3D Überraschungseffekt beim Öffnen! Ob als Glückwunschkarte, Gratulationskarte oder als kreative Verpackung für ihr Geldgeschenk zur Hochzeit - mit unserer Pop-Up Karte können Sie auf eine eindrucksvolle Art „Herzlichen Glückwunsch“ sagen.
-- AUSREICHEND PLATZ FÜR IHRE LIEBEN WORTE. Eine integrierte Notizkarte ist im Lieferumfang enthalten, die beschriftet und wieder in die Geschenkkarte zurückgeschoben werden kann.
 - PREMIUM FALTKARTE mit schönem „Just Married“ Schriftzug auf der Außenseite. Beim Öffnen der handgemachten Grußkarte entfaltet sich ein festlich geschmücktes Hochzeitsauto, in dem ein glückliches, frisch verheiratetes Hochzeitspaar sitzt.
+- AUSREICHEND PLATZ FÜR IHRE LIEBEN WORTE. Eine integrierte Notizkarte ist im Lieferumfang enthalten, die beschriftet und wieder in die Geschenkkarte zurückgeschoben werden kann.
 - DIE HANDGEMACHTE POP-UP KARTE IM GROSSFORMAT ist im geschlossenen Zustand 20 x 15 cm groß. Die hochwertige Klappkarte ist aus festem farbigem Papier gefertigt und wird zusammen mit einem passenden, weißen Umschlag geliefert.
+- DIE BESONDERE HOCHZEITSKARTE mit 3D Überraschungseffekt beim Öffnen! Ob als Glückwunschkarte, Gratulationskarte oder als kreative Verpackung für ihr Geldgeschenk zur Hochzeit - mit unserer Pop-Up Karte können Sie auf eine eindrucksvolle Art „Herzlichen Glückwunsch“ sagen.
 - FREUDE VERSCHENKEN zu ganz besonderen Anlässen! Unsere edle Hochzeitskarte eignet sich wunderbar zur Übermittlung Ihrer lieben Worte zur kirchlichen oder standesamtlichen Trauung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

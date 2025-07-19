@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ohne Verschluss
-- Crew Neck-Ausschnitt
 - Logo-Print
 - kurze Ärmel
+- ohne Verschluss
+- Crew Neck-Ausschnitt
 - Passform: Regular Fit
 
 [🛒 Hier!!]({{< param buyurl >}})

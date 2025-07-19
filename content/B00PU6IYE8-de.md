@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Bedienung dank LED-Ein-/Ausschalter und Einschaltkontrollleuchte und griffigem Aluminiumgriff
 - KitchenAid Elektrischer Wasserkocher mit Edelstahlkonstruktion, 1,25 l, mit herausnehmbarem Kalkfilter
+- Einfache Bedienung dank LED-Ein-/Ausschalter und Einschaltkontrollleuchte und griffigem Aluminiumgriff
 - Befüllen Sie den Wasserkocher dank des breiten und abnehmbaren Deckels und der internen Wassermarkierungen ganz einfach mit der richtigen Menge Wasser. Die Öffnung des Wasserkochers verhindert, dass es beim Ausgießen tropft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

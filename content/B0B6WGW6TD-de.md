@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ziel geschlecht: unisex
-- Produktdetails: Fahrzeit ca. (min.): 60 ,Farbe: rot ,Höchstgeschwindigkeit ca. (km/h): 11 ,Maßstab: 1:16
-- Highlights: 2,4GHz für Mehrspielerbetrieb ,offiziell lizenziert ,detailgetreuer Innenraum ,originalgetreue Lackierung ,transparente Windschutzscheibe ,LED Licht vorne/hinten (leuchten bei jeweiliger Fahrtrichtung) ,Realistischer Motorsound ,Fahrgeräusch
 - Hinweis: Benötigtes Zubehör: 7 x AA-Zellen // LR6 (Alkaline) // HR6 (NiMH) ,Altersempfehlung: ab 6 Jahre
+- Highlights: 2,4GHz für Mehrspielerbetrieb ,offiziell lizenziert ,detailgetreuer Innenraum ,originalgetreue Lackierung ,transparente Windschutzscheibe ,LED Licht vorne/hinten (leuchten bei jeweiliger Fahrtrichtung) ,Realistischer Motorsound ,Fahrgeräusch
+- Produktdetails: Fahrzeit ca. (min.): 60 ,Farbe: rot ,Höchstgeschwindigkeit ca. (km/h): 11 ,Maßstab: 1:16
 - Funktionen:vorwärts/rückwärts , links/rechts ,Stopp ,Türen manuell öffnen/schließen ,Kofferraumdeckel manuell öffnen/schließen
 - Lieferumfang: Modell ,Fernsteuerung 2,4GHz ,Anleitung
 

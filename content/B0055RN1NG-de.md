@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abmessungen: 305 x 155 x 275 mm
-- Wärmebeständigkeit bis 90 °C
 - Gewicht: ca.1,20 kg
-- Mit integrierter Trockenpendelklappe als Geruchsstopp
 - Einbautiefe: 275 mm
-- Frostsicher, da leerlaufend durch schräge Fließsohle
-- Hergestellt aus hochschlag- u. stoßfestem Polypropylen - Norm EN 1253-1
-- Belastung K3-300 kg
 - Durchflußmenge: KV-110: 390 l/min.
+- Frostsicher, da leerlaufend durch schräge Fließsohle
+- Wärmebeständigkeit bis 90 °C
+- Hergestellt aus hochschlag- u. stoßfestem Polypropylen - Norm EN 1253-1
+- Mit integrierter Trockenpendelklappe als Geruchsstopp
+- Abmessungen: 305 x 155 x 275 mm
+- Belastung K3-300 kg
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0055RN1NG{{</world>}}

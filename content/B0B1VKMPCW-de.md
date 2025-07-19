@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zum Aufstellen auf Tisch oder Küchenarbeitsfläche
-- Ideal für Gewürzgläser, Teedosen oder Küchen-Accessoires
 - In Trendfarben - schwarzes Metall kombiniert mit Bambus
+- Ideal für Gewürzgläser, Teedosen oder Küchen-Accessoires
+- Zum Aufstellen auf Tisch oder Küchenarbeitsfläche
 - (B x H x T): 30 x 33 x 30 cm, Stahl/Bambus
 - Kleines, aber feines Küchen-Eckregal mit 2 Etagen
 

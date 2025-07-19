@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bei Barbie wird Aktivität groß geschrieben, und jetzt sind auch ihre Bewegungen realistischer denn je!
+- Ein sportliches Outfit mit schwarzen Leggings und einem farbigen Oberteil unterstreichen ihre neue Dynamik
 - Ab 3 Jahren
 - Barbie und ihre Freundinnen können wirklich alles tun, von Fahrradfahren und Gitarre spielen über Gymnastikübungen und Im-Schneidersitz-Sitzen bis hin zum Posieren auf dem Laufsteg und Aufnehmen von Selfies
 - 22 "Gelenke" - in Hals, Oberarmen, Ellbogen, Handgelenken, Oberkörper, Hüften, Oberschenkeln, Knien UND Knöcheln - erlauben unglaublich große Bewegungsfreiheit
-- Ein sportliches Outfit mit schwarzen Leggings und einem farbigen Oberteil unterstreichen ihre neue Dynamik
+- Bei Barbie wird Aktivität groß geschrieben, und jetzt sind auch ihre Bewegungen realistischer denn je!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B015EB27VY{{</world>}}

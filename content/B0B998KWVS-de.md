@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: PH 1/2/3, PZ 1/2/3, SL 3/4/5/6, HEX 3/4/5/6, T 10/15/20/25/27/30/40, TH 10/15/20/25/27/30/40
 - S2-modifizierter Stahl und optimierter Wärmebehandlungsprozess für überdurchschnittliche Härte und starke Leistung bei allen Arbeiten
-- Farbcodiert für eine schnelle Übersicht und einfache Identifizierung des richtigen Bittyps
 - Die konische Torsionszone verarbeitet gut Drehmomentspitzen, da sie beim Schrauben Kräfte und Schwingungen aufnimmt
+- Farbcodiert für eine schnelle Übersicht und einfache Identifizierung des richtigen Bittyps
+- Lieferumfang: PH 1/2/3, PZ 1/2/3, SL 3/4/5/6, HEX 3/4/5/6, T 10/15/20/25/27/30/40, TH 10/15/20/25/27/30/40
 - Eine gute Wahl für allgemeine Arbeiten; wird mit einem modularen, leicht zu transportierenden Koffer geliefert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

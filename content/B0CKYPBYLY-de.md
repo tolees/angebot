@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nutze gruppenbasierte Spielmechaniken wie Kombinationsangriffe oder Kettensalven, um deine Feinde auf spektakuläre Art und Weise zu zerschmettern
-- Inhalt: Das Spiel und einen Voucher 1 DLC
-- Erledige Quests allein oder im Koop-Modus mit bis zu drei anderen Spielern
 - Wähle aus einer vielseitigen Liste von Himmelsfahrern, die allesamt über einzigartige Waffen, Fähigkeiten und Kampfstile verfügen
+- Erledige Quests allein oder im Koop-Modus mit bis zu drei anderen Spielern
+- Inhalt: Das Spiel und einen Voucher 1 DLC
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKYPBYLY{{</world>}}

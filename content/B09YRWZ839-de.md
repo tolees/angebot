@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die von Shunya Yamashita entworfene Statue ist ca. 22 cm groß und wird mit Base in einer Fensterbox geliefert
 - Aus Kotobukiyas beliebter ´Bishoujo´-Reihe kommt diese aufregende PVC Statue
 - Darkstalkers Bishoujo PVC Statue 1/7 Lilith 22 cm
-- Die von Shunya Yamashita entworfene Statue ist ca. 22 cm groß und wird mit Base in einer Fensterbox geliefert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09YRWZ839{{</world>}}

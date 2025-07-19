@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leichter Einstieg und verstellbare Passform mit Reißverschluss und Schnürsenkeln
-- Absatzhöhe: 5 cm / 2"
 - Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
+- Absatzhöhe: 5 cm / 2"
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08PL58WXH{{</world>}}

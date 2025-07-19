@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Filtersystem: Der spezielle Standfuß mit integriertem Vorfilter dient zum Schutz der Pumpe. Er ist abnehmbar und leicht zu reinigen
 - Hohe Leistung: Die leistungsstarke Regenfasspumpe mit langlebigem Edelstahl-Gehäuse befördert mit 2.3 bar schnell und zuverlässig bis zu 4,700 Liter pro Stunde
-- Lieferumfang beinhaltet: 1x Gardena Regenfasspumpe 4700/2 inox
-- Das patentierte Teleskoprohr führt das Wasser knickfrei über den Fassrand, bietet zudem eine Regulier- und Absperrmöglichkeit und kann als Tragegriff verwendet werden.
+- Filtersystem: Der spezielle Standfuß mit integriertem Vorfilter dient zum Schutz der Pumpe. Er ist abnehmbar und leicht zu reinigen
 - Unterschiedliche Einsatzmöglichkeiten: Zur optimalen Bewässerung mit Spritze, Brause oder Regner, auch zur Entwässerung geeignet
+- Das patentierte Teleskoprohr führt das Wasser knickfrei über den Fassrand, bietet zudem eine Regulier- und Absperrmöglichkeit und kann als Tragegriff verwendet werden.
+- Lieferumfang beinhaltet: 1x Gardena Regenfasspumpe 4700/2 inox
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07YXHNJ6J{{</world>}}

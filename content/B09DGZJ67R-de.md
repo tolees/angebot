@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verträglichkeit dermatologisch bestätigt, vegan und nach PETA-Kriterien zertifiziert
 - Kunststoff dieser Tube inkl. Verschluss aus 96 % recyceltem Material
-- Zieht schnell ein, intensive Pflege für Hände und Nägel, spendet langanhaltende Feuchtigkeit
 - Milde Formel mit Bio-Aloe Vera und Bio-Sheabutter
+- Zieht schnell ein, intensive Pflege für Hände und Nägel, spendet langanhaltende Feuchtigkeit
 - Zertifiziert nach dem strengen, unabhängigen NATRUE Naturkosmetikstandard
+- Verträglichkeit dermatologisch bestätigt, vegan und nach PETA-Kriterien zertifiziert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09DGZJ67R{{</world>}}

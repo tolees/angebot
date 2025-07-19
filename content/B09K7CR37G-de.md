@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Low Profile Graphen-Aluminium-Kühlkörper
 - Upgrade mit vollen Kapazitäten bis zu 4096GB²
-- PCIe 4.0 NVMe High-Performance
+- Low Profile Graphen-Aluminium-Kühlkörper
 - Kompakter M.2 2280-Formfaktor
+- PCIe 4.0 NVMe High-Performance
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09K7CR37G{{</world>}}

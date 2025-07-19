@@ -29,12 +29,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Genieße mit diesen Bluetooth-Kopfhörern kabelloses High-Resolution Audio und kristallklare Telefongespräche.
-- Die kleinsten und leichtesten kabellosen Hi-Res-Kopfhörer von Sony mit Noise Cancelling. Mit dem neuen Firmware Update, welches 17. November 2022 bereitgestellt wird, ist nun auch eine Multipoint Connection möglich. Für absoluten Komfort können die Bluetooth-Kopfhörer mit zwei Bluetooth-Geräten gleichzeitig gekoppelt werden. Bei Eingang eines Anrufes, weiß der Kopfhörer, welches der Geräte klingelt und verbindet sich automatisch mit diesem.
 - Bis zu 20 Stunden Akkulaufzeit mit Ladeetui. IPX4 Schutz gegen allseitiges Spritzwasser.
-- Hinweis Stellen Sie für ein besseres Aufladen sicher, dass das Headset sicher in der Ladebox platziert ist und dass es nur mit dem mitgelieferten USB Type-C-Kabel aufgeladen werden sollte und fest mit der Ladebox verbunden ist.
-- ntelligente Funktionen sorgen für ein müheloses Hörerlebnis. Speak-to-Chat stoppt die Musik automatisch, wenn du ein Gespräch beginnst, alternativ verfügen die Earbuds auch über eine intuitive Touch-Steuerung.
-- * Stand 30. März 2022. Gemäß Untersuchungen der Sony Corporation, gemessen anhand der Strategy Analytics-Richtlinien im Truly Wireless-Stil, der Geräuschunterdrückung unterstützt und mit dem LDAC-Kopfhörermarkt kompatibel ist. LDAC ist ein zertifizierter Codec von „Hi-Res Audio Wireless“.
 - Diese Kopfhörer von Sony bieten dir das Beste aus beiden Welten natürlichen Umgebungsklang, wenn du mit deiner Umwelt interagieren möchtest, und hochwertiges Noise Cancelling, wenn du dich konzentrieren willst.
+- * Stand 30. März 2022. Gemäß Untersuchungen der Sony Corporation, gemessen anhand der Strategy Analytics-Richtlinien im Truly Wireless-Stil, der Geräuschunterdrückung unterstützt und mit dem LDAC-Kopfhörermarkt kompatibel ist. LDAC ist ein zertifizierter Codec von „Hi-Res Audio Wireless“.
+- Hinweis Stellen Sie für ein besseres Aufladen sicher, dass das Headset sicher in der Ladebox platziert ist und dass es nur mit dem mitgelieferten USB Type-C-Kabel aufgeladen werden sollte und fest mit der Ladebox verbunden ist.
+- Die kleinsten und leichtesten kabellosen Hi-Res-Kopfhörer von Sony mit Noise Cancelling. Mit dem neuen Firmware Update, welches 17. November 2022 bereitgestellt wird, ist nun auch eine Multipoint Connection möglich. Für absoluten Komfort können die Bluetooth-Kopfhörer mit zwei Bluetooth-Geräten gleichzeitig gekoppelt werden. Bei Eingang eines Anrufes, weiß der Kopfhörer, welches der Geräte klingelt und verbindet sich automatisch mit diesem.
+- ntelligente Funktionen sorgen für ein müheloses Hörerlebnis. Speak-to-Chat stoppt die Musik automatisch, wenn du ein Gespräch beginnst, alternativ verfügen die Earbuds auch über eine intuitive Touch-Steuerung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09Y2HBXN8{{</world>}}

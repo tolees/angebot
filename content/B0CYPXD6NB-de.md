@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Filmmaker Mode, Dolby Vision und Dolby Atmos für kinogleiches Entertainment
 - webOS24 und Magic Remote-Fernbedienung für einfache und komfortable Bedienung
 - 4K OLED evo TV mit Brightness Booster für hellere, brillante Bilder, perfektes Schwarz und satte Farben
+- Filmmaker Mode, Dolby Vision und Dolby Atmos für kinogleiches Entertainment
 - Flüssiges Gaming mit bis zu 4K @ 144 Hz, Nvidia G-Sync und AMD FreeSync
 - α9 Gen7 4K AI-Prozessor mit zahlreichen AI-Funktionen für bestmögliche Bildqualität und optimalen Sound
 

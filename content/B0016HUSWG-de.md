@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kappe umsteckbar
-- hochwertige Edelstahlfeder in der Federstärke B
 - Kappe/End- und Frontstücke aus Metall, hochglänzend verchromt
-- Patronen- / Konvertersystem
+- Kappe umsteckbar
 - Schaft aus schwarzem gebürstetem Edelharz
+- Patronen- / Konvertersystem
+- hochwertige Edelstahlfeder in der Federstärke B
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0016HUSWG{{</world>}}

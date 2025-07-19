@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x 1,8 l Lee Kum Kee Hoi Sin Sauce / Sauce auf Sojabasis mit zahlreichen Gewürzen / Vegan
+- Ein Klassiker der kantonesischen Küche: Die Hoi Sin Sauce wird aus Sojabohnen und chinesischen Gewürzen hergestellt und eignet sich zum Verfeinern einer Vielzahl an Gerichten
 - Die Sauce wird oft als Dressingsauce für aromatische Entenpfannkuchen verwendet und kann mit einer Chili-Knoblauch-Paste zu süßem und scharfem Kung Pao-Huhn gemischt werden
+- Lieferumfang: 1 x 1,8 l Lee Kum Kee Hoi Sin Sauce / Sauce auf Sojabasis mit zahlreichen Gewürzen / Vegan
 - Die Würzsauce verleiht herzhaften Pfannengerichten einen Hauch von Süße, einer knusprigen Ente das charakteristische Aroma und lässt sich ideal als Grillmarinade oder als Dip für Pommes oder Nuggets verwenden
 - Besonderes Geschmackserlebnis: Hergestellt aus Sojabohnen und chinesischen Gewürzen, Sesam und Chilischoten erhält die Sauce ihre süßlich-pikante Note
-- Ein Klassiker der kantonesischen Küche: Die Hoi Sin Sauce wird aus Sojabohnen und chinesischen Gewürzen hergestellt und eignet sich zum Verfeinern einer Vielzahl an Gerichten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B004L5BQCQ{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieblingsheim Schriftzug
 - Material: Holz, Metall, Kunststoffgriff
+- Lieblingsheim Schriftzug
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07C61DKSQ{{</world>}}

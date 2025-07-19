@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zum Abziehen von z.B. Innenlager, Außenlager, Kugellager etc
 - Als Innen- und Außenabzieher verwendbar
+- Zum Abziehen von z.B. Innenlager, Außenlager, Kugellager etc
 - Ein Qualitätswerkzeug powered by KS TOOLS
 
 [🛒 Hier!!]({{< param buyurl >}})

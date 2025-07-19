@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sammle sie alle!
-- Welche Größe ist ein Pop ! Standard-Pops! sind ungefähr 10,2 cm groß: Obwohl die Größen je nach Charakter reichen. Super Pop! Sind 15,2 cm groß, Jumbo Pops! sind 25,4 cm groß und Mega Pop! sind 45,7 cm (18 Zoll)
 - Wer Funko ist: Funko ist eine führende Marke für Lifestyle-Lifestyle -Popkultur. Wir bieten eine Verbindung zur Popkultur mit einer Produktlinie, die Vinylfiguren, Actionspielzeug, Plüsch, Bekleidung, Brettspiele und Zubehör umfasst
 - Funko Pop TV: Stranger Things S4 - Henry 001
+- Welche Größe ist ein Pop ! Standard-Pops! sind ungefähr 10,2 cm groß: Obwohl die Größen je nach Charakter reichen. Super Pop! Sind 15,2 cm groß, Jumbo Pops! sind 25,4 cm groß und Mega Pop! sind 45,7 cm (18 Zoll)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BXRFDCHZ{{</world>}}

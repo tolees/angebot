@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- softe Haptik
 - Kapuze mit Kordelzug
+- softe Haptik
 - Kontrastnähte
 - Artwork mit Rubber-Details
 

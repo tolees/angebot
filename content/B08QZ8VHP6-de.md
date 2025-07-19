@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kordelzug Kapuze können Sie Ihre Abdeckung anpassen.
 - Kängurutasche auf der Vorderseite
+- Kordelzug Kapuze können Sie Ihre Abdeckung anpassen.
 - Fleece-Stoff fühlt sich weich und warm.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

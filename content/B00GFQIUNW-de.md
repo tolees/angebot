@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Marke: Bosch Professional
-- Made in Germany
-- Qualität von Bosch
 - Stylischer und modischer
+- Qualität von Bosch
+- Made in Germany
 - Zubehör für Werkzeuge und Elektrowerkzeuge
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

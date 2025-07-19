@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- LEGO Feuerwehr-Spielzeug: Modellbausatz für einen Spielzeug-Modellhubschrauber und eine Feuerwehrpilot-Minifigur sowie LEGO Flammen- und Wasser-Elemente
+- LEGO Hubschrauber-Spielzeug für Kinder ab 5 Jahren: Der LEGO City Feuerwehrhubschrauber ist ein Bauset für spannende Löscheinsätze und Rollenspiele rund um die LEGO City Feuerwehr
 - Kleines Geschenk für Kinder ab 5 Jahren, die gern kreativ spielen: Überrasche einen kleinen Alltagshelden mit diesem Feuerwehr-Geschenk für Jungs und Mädchen zum Geburtstag oder zu Weihnachten
 - Endlose Spielmöglichkeiten: Für weitere spannende Abenteuer musst du dieses kleine LEGO Set nur mit anderen separat erhältlichen LEGO City Feuerwehr-Sets kombinieren
 - Fantasievolles Spielerlebnis: Dein Kind kann den Piloten in das aufklappbare Cockpit des Helikopter-Spielzeugs stecken, die Rotoren anwerfen und LEGO Wasserelemente mit den Löschkanonen des Hubschraubers losschicken
-- LEGO Hubschrauber-Spielzeug für Kinder ab 5 Jahren: Der LEGO City Feuerwehrhubschrauber ist ein Bauset für spannende Löscheinsätze und Rollenspiele rund um die LEGO City Feuerwehr
-- LEGO Feuerwehr-Spielzeug: Modellbausatz für einen Spielzeug-Modellhubschrauber und eine Feuerwehrpilot-Minifigur sowie LEGO Flammen- und Wasser-Elemente
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CFVWTFPC{{</world>}}

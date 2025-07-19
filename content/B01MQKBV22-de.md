@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - kompakt & leicht – Perfekt für Zuhause oder für Unterwegs
-- Fruchtfleischeinstellschraube – Mehr Saft weniger Fruchtfleisch
-- Quick Release Funktion für eine rasche Reinigung
 - Breiter Einfüllhals – 4.5cm Durchmesser
+- Quick Release Funktion für eine rasche Reinigung
+- Fruchtfleischeinstellschraube – Mehr Saft weniger Fruchtfleisch
 - BPA freie Einzelteile aus Ultem & Tritan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

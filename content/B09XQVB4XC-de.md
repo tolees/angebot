@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Personalisierbar über HyperX NGENUITY Software
 - Gewinde für Auslegerarm und Mikrofonstativ
 - Plug und Play-Audioaufnahme mit USB-C-Anschluss, Hi-Res-Aufnahme mit 24 Bit/96kHz
+- Personalisierbar über HyperX NGENUITY Software
 - Mehrgeräte- und-Programm-Kompatibilität
 - Stummschalten durch Antippen und LED-Statusanzeige, Flexibler, verstellbarer Ständer
 

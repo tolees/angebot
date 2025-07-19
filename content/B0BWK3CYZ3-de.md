@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Mit Einsatz-Schnelllöser und Kugelarretierung
 - Knarrenkopf: 72 | Länge: 605 mm | Griffart: 2-Komponenten-Griff | Drehmoment max.: 784 Nm | Material: Chrom-Vanadium-Stahl | Oberflächenvergütung: verchromt, matt
 - Abtriebsprofil: Außenvierkant | Abtriebsprofilgröße, imperial: 1/2" | Abtriebsprofilgröße, metrisch: 12,5 mm | Anzahl Zähne
-- Geringer Kraftaufwand durch längeren Hebel | ideal geeignet für schwer zugängliche Arbeitsbereiche
-- Einfach umschaltbar durch eingelegten Umschalthebel
-- Mit Einsatz-Schnelllöser und Kugelarretierung
 - Gerade Ausführung | feinverzahnt mit 72 Zähnen
+- Einfach umschaltbar durch eingelegten Umschalthebel
+- Geringer Kraftaufwand durch längeren Hebel | ideal geeignet für schwer zugängliche Arbeitsbereiche
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BWK3CYZ3{{</world>}}

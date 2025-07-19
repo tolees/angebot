@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Prozessor: α5 Gen5 4K AI-Prozessor mit AI Brightness Control, AI Acoustic Tuning (mit optional erhältlicher LG Magic Remote-Fernbedienung) und AI Sound (Virtual 5.1 Up-mix); Gaming Features: HGiG-kompatibel, Game Optimizer (ALLM / GameGenre), Cloud-Gaming (NVIDIA GeForce NOW & Google Stadia)
-- Tunertyp und Konnektivität: Single Triple Tuner (DVB-T2/-C/-S2), LAN (Ethernet), WLAN (802.11ac), Bluetooth 5.0, 3x HDMI 2.0 (mit eARC und LG SIMPLINK), 1x USB, Optischer Digitalausgang (S/PDIF, Lichtwellenleiter), CI+-Slot
-- Smart TV: webOS22 (LG ThinQ AI) mit Google Assistant, Amazon Alexa & Sports Alert, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, inkl. LG Fernbedienung und 2x AAA Batterien
-- Bild und Ton: Active HDR (HDR10 Pro, HLG, Filmmaker Mode), HDR Dynamic Tone Mapping, 4K Upscaling, zweistufige Rauschreduzierung; 2.0-Soundsystem mit 20 Watt (10W je Kanal)
 - 4K Ultra HD-Display mit Direct-LED; 127 cm (50 Zoll) Bildschirmdiagonale, Außenmaße (ohne Standfuß): 113,0 x 66,3 x 8,63 cm, VESA Norm: 200 x 200 mm
+- Bild und Ton: Active HDR (HDR10 Pro, HLG, Filmmaker Mode), HDR Dynamic Tone Mapping, 4K Upscaling, zweistufige Rauschreduzierung; 2.0-Soundsystem mit 20 Watt (10W je Kanal)
+- Smart TV: webOS22 (LG ThinQ AI) mit Google Assistant, Amazon Alexa & Sports Alert, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, inkl. LG Fernbedienung und 2x AAA Batterien
+- Tunertyp und Konnektivität: Single Triple Tuner (DVB-T2/-C/-S2), LAN (Ethernet), WLAN (802.11ac), Bluetooth 5.0, 3x HDMI 2.0 (mit eARC und LG SIMPLINK), 1x USB, Optischer Digitalausgang (S/PDIF, Lichtwellenleiter), CI+-Slot
+- Prozessor: α5 Gen5 4K AI-Prozessor mit AI Brightness Control, AI Acoustic Tuning (mit optional erhältlicher LG Magic Remote-Fernbedienung) und AI Sound (Virtual 5.1 Up-mix); Gaming Features: HGiG-kompatibel, Game Optimizer (ALLM / GameGenre), Cloud-Gaming (NVIDIA GeForce NOW & Google Stadia)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09RQ3C1K5{{</world>}}

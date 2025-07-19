@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taschen : Gesäßtaschen, Münztasche, Taschen vorn
 - Passform : Skinny Fit
+- Taschen : Gesäßtaschen, Münztasche, Taschen vorn
 - Taille : Mid Rise
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

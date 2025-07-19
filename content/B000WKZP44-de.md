@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Material: Polycarbonat
-- Produktgewicht: 0.002 kg
 - Schutzkappe für Drucktaster
+- Produktgewicht: 0.002 kg
 - 3389110355505
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

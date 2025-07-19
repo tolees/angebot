@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Stunt-Park
+- Enthält ein schwungradbetriebenes Motorrad und eine Reihe von Hindernissen und Herausforderungen für den Motorradfahrer, wie eine riesige Spinne und Flammen
 - Vom Hersteller empfohlenes Alter: 5+
 - Anzahl der Teile: 170
-- Enthält ein schwungradbetriebenes Motorrad und eine Reihe von Hindernissen und Herausforderungen für den Motorradfahrer, wie eine riesige Spinne und Flammen
 - LEGO Stuntz ist die neueste Unterreihe von LEGO City und bringt Spaß mit Stunt-Shows, einigen Überraschungen und bekannten Gesichtern
 
 [🛒 Hier!!]({{< param buyurl >}})

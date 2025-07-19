@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Maybelline New York Great Lash Mascara, Farbe: Nr. 2 Very Black Waterproof, Inhalt: 12,5 ml, Made in Italy
 - Schwarze, wasserfeste Wimperntusche mit Mini-Bürste für betonte Wimpern mit mehr Volumen in nur einem Auftrag
+- Kult-Mascara mit Mini-Bürste, Formel angereichert mit konzentrierten Farbpigmenten, Augenärztlich getestet, Herstellung entsprechend EU-Regulierungen
+- Lieferumfang: 1x Maybelline New York Great Lash Mascara, Farbe: Nr. 2 Very Black Waterproof, Inhalt: 12,5 ml, Made in Italy
 - Anwendung: Auftragen der Volumen-Mascara von der Wurzel bis zur äußersten Spitze, Für stärkere Wirkung Vorgang wiederholen
 - Ergebnis: Dichtere, vollere und schwarz eingehüllte Wimpern, Perfekt für den Alltag oder für dezente Abend-Looks
-- Kult-Mascara mit Mini-Bürste, Formel angereichert mit konzentrierten Farbpigmenten, Augenärztlich getestet, Herstellung entsprechend EU-Regulierungen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0013BE8YE{{</world>}}

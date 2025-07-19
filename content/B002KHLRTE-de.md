@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deckelkonstruktion: Obere Rippen verschließen sich mit Innenteilern. Deckel zusätzlich verriegelbar
-- Übersichtliche Anordnung; Innenteiler beliebig anpassbar: Bis zu 1024 verschiedene Konfigurationen möglich
 - Kein Verrutschen: Kleinteile bleiben an ihrem Ort
 - Sicheres Aufbewahren: Obere Rippen verschließen sich mit den Innenteilern, angewinkelte Ecken für eine komfortable Aufbewahrung von sperrigen Werkzeugen wie Hämmer
+- Deckelkonstruktion: Obere Rippen verschließen sich mit Innenteilern. Deckel zusätzlich verriegelbar
+- Übersichtliche Anordnung; Innenteiler beliebig anpassbar: Bis zu 1024 verschiedene Konfigurationen möglich
 - Lieferumfang: 1x Stanley Organizer Sortmaster
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

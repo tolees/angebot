@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: 55% Baumwolle / 45% Polyester Gewicht: ca. 8 oz / m² Farbe: weiß
 - Jacke: langer Schnitt - langer Ärmel Hose: langes und weit geschnittenes Bein (Karottenschnitt)
 - Der Taekwondo Anzug Song wird inklusive weißem Gürtel geliefert.
+- Material: 55% Baumwolle / 45% Polyester Gewicht: ca. 8 oz / m² Farbe: weiß
 - KWON CLUBLINE Taekwondo Anzug Song
 - Der nach koreanischem Muster geschnittene Taekwondo Anzug Song ist aus angenehm zu tragendem Mischgewebe und hat eine Schlupfjacke im WT-Stil mit V-Ausschnitt. Die Elastikbundhose hat eine zusätzliche Schnürung und einen integrierten Kickzwickel, welcher für eine sehr gute Beinfreiheit bei hohen Techniken sorgt.
 

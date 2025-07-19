@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 2 Drucker-Folien-Kartuschen für je 54 Ausdrucke sowie 108 Blatt Papier
-- HOCHWERTIG - Die Fotos sind wasserabweisend, kratzfest & vor Fingerabdrücken geschützt und werden mit 16,7 Millionen Farben dank Thermosublimations Technologie schnell gedruckt - dank Schutzschicht bleiben die Bilder im Album bis zu 100 Jahre farbstabil
-- Canon RP-108 Druckerkartusche und Papier für Selphy CP Fotodrucker
 - EINFACHES VERBINDEN - Man kann den Photodrucker ohne Kabel mit Mobilgeräten, Computern & kompatiblen Kameras verbinden; nutzt den USB-C-Anschluss für Computer, Cameras oder USB Speichersticks oder druckt von einer SD, SDHC oder SDXC Speicherkarte
-- IN ALLEN GRÖßEN - Zum Drucken der Photos stehen verschiedene Größen vom Postkartenformat (100 x 148 mm) bis zu Ministickern* (22 x 17,3 mm) zur Verfügung
 - Ausdruck in Postkarten-Größe (100 x 148 mm)
+- Canon RP-108 Druckerkartusche und Papier für Selphy CP Fotodrucker
+- HOCHWERTIG - Die Fotos sind wasserabweisend, kratzfest & vor Fingerabdrücken geschützt und werden mit 16,7 Millionen Farben dank Thermosublimations Technologie schnell gedruckt - dank Schutzschicht bleiben die Bilder im Album bis zu 100 Jahre farbstabil
+- Inhalt: 2 Drucker-Folien-Kartuschen für je 54 Ausdrucke sowie 108 Blatt Papier
+- IN ALLEN GRÖßEN - Zum Drucken der Photos stehen verschiedene Größen vom Postkartenformat (100 x 148 mm) bis zu Ministickern* (22 x 17,3 mm) zur Verfügung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BVGG7FY3{{</world>}}

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 50 Megapixel Hauptkamera mit optischer Bildstabilisierung
 - Farbe: schwarz
-- 128 GB interner Speicher, Wassergeschützt, Android 13.0
 - 15,4 cm (6,1 Zoll) Dynamic AMOLED Display mit 2340 x 1080 Pixel
+- 128 GB interner Speicher, Wassergeschützt, Android 13.0
 - 3,36 GHz Qualcomm Snapdragon 8 Gen 2 Octa-Core-Prozessor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

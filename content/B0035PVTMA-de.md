@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maschinelles Schleifen - effizient, schnell und einfach Hergestellt aus robustem Material: langlebige Schleifsteine
-- Passt zu allen Dremel Multi-/Rotationswerkzeugen oder anderen Multi-/Rotationswerkzeugen mit 3,2 mm Schaftgröße
-- Schaftdurchmesser: 3,2 mm, Arbeitsdurchmesser: 25,4 mm, Höchstdrehzahl: 25000 1/min
-- Empfohlene Drehzahl: Aluminium: 15000 Messing 15000 Kupfer 15005
 - Die Schleifsteine sind vielseitig anwendbar, beispielsweise zum Schleifen, Schärfen und Glätten von Messern aus Metall, für Gussteile, Nieten, Rost oder Schweißverbindungen
+- Passt zu allen Dremel Multi-/Rotationswerkzeugen oder anderen Multi-/Rotationswerkzeugen mit 3,2 mm Schaftgröße
+- Maschinelles Schleifen - effizient, schnell und einfach Hergestellt aus robustem Material: langlebige Schleifsteine
+- Empfohlene Drehzahl: Aluminium: 15000 Messing 15000 Kupfer 15005
+- Schaftdurchmesser: 3,2 mm, Arbeitsdurchmesser: 25,4 mm, Höchstdrehzahl: 25000 1/min
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0035PVTMA{{</world>}}

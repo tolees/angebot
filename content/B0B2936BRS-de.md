@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Synthetik, 100 Prozent synthetisches Polyester
-- Innenmaterial: 80 Prozent Textil-Mesh-Polyester, 20 Prozent synthetische Mikrofaser
 - Sohle: Gummi
+- Innenmaterial: 80 Prozent Textil-Mesh-Polyester, 20 Prozent synthetische Mikrofaser
+- Obermaterial: Synthetik, 100 Prozent synthetisches Polyester
 - Verschluss: Pull-on, Schnürung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

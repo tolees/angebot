@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schaukelbasis zum Anstupsen
-- Für Babys ab 6 Monaten
 - Stapelspielzeug für Babys mit 5 bunten Ringen zum Greifen, Schütteln und Stapeln
 - Bringt dem Baby das Konzept unterschiedlicher Größen näher
+- Für Babys ab 6 Monaten
 - Der oberste Ring hat eine glänzende Oberfläche mit Rasselperlen im Inneren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

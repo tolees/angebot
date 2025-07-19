@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anhängerkupplung
-- Abmessungen: ca. 615 x 275 x 340 mm
 - Funktionen: Schaufel heben/senken/abkippen
 - Große Räder für sicheren Stand
+- Anhängerkupplung
+- Abmessungen: ca. 615 x 275 x 340 mm
 - Robustes Kunststoffgehäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

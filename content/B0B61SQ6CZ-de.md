@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Trackset enthält ein Hot Wheels Fahrzeug im Maßstab 1:64.
 - Jede Trackkomponente kann mit anderen Hot Wheels Tracks und Sets verwendet werden, sodass Kinder viele Baumöglichkeiten haben. (Zusätzliche Sets separat erhältlich.)
-- Es befindet sich in einem schmalen Container, der in den Aufbau integriert werden kann, aber ebenso als Aufbewahrung dient und alle Teile ordentlich in einem Kasten zusammenhält.
+- Das Trackset enthält ein Hot Wheels Fahrzeug im Maßstab 1:64.
 - Das Hot Wheels Track Builder Eis-Crash Set ist ein tolles Geschenk für Kinder ab 4 Jahren.
 - Mit dem Hot Wheels Track Builder Eis-Crash Set können Kinder einen Track im Eis-Design für coole Crashs und Stunts bauen.
+- Es befindet sich in einem schmalen Container, der in den Aufbau integriert werden kann, aber ebenso als Aufbewahrung dient und alle Teile ordentlich in einem Kasten zusammenhält.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B61SQ6CZ{{</world>}}

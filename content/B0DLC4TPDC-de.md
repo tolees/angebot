@@ -29,13 +29,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - MIT DER POWER DES M4 – Der leistungsstarke M4 Chip liefert eine spektakuläre Performance, sodass sich alles schnell und flüssig anfühlt.
-- RECHTLICHE HINWEISE – Dies ist eine Zusammenfassung der wichtigsten Produktfeatures. Weitere Infos gibt es unten.
 - SUPERSCHNELLE APPS DANK APPLE CHIPS – Alle deine wichtigsten Apps, inklusive Microsoft 365 und Adobe Creative Cloud, laufen auf macOS blitzschnell.*
+- RECHTLICHE HINWEISE – Dies ist eine Zusammenfassung der wichtigsten Produktfeatures. Weitere Infos gibt es unten.
 - CO₂ NEUTRAL – Der Mac mini ist CO₂ neutral. Weitere Infos zum Engagement von Apple für die Umwelt unter apple.com/de/2030.
 - GANZ GROSS. IN GANZ KLEIN. – Der viel leistungsstärkere, viel kleinere Mac mini Desktop-Computer: 12,7 x 12,7 cm, vollgepackt mit Power für dich. Er wurde rund um den Apple Chip entwickelt, um die Geschwindigkeit und das Potential des spektakulären M4 Chip bestmöglich zu nutzen. Mit praktischen Anschlüssen auf Vorder und Rückseite.
-- SIEHT KLEIN AUS. KOMMT GROSS RAUS. – Der Mac mini ist nur 12,70 x 12,70 cm klein, passt perfekt unter einen Monitor und findet nahezu überall Platz.
 - DU LIEBST DEIN IPHONE? DU WIRST DEN MAC LIEBEN. – Der Mac funktioniert einfach mit deinen anderen Apple Geräten. Kopiere Inhalte auf dem iPhone und setze sie auf dem Mac ein. Sende mit Nachrichten Textnachrichten oder nimm mit deinem Mac FaceTime Anrufe an.*
 - PRAKTISCHE VERBINDUNGEN – Nutze Thunderbolt, HDMI und Gigabit Ethernet Anschlüsse hinten und, zum ersten Mal, USB C Anschlüsse und einen Kopfhöreranschluss vorn.
+- SIEHT KLEIN AUS. KOMMT GROSS RAUS. – Der Mac mini ist nur 12,70 x 12,70 cm klein, passt perfekt unter einen Monitor und findet nahezu überall Platz.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DLC4TPDC{{</world>}}

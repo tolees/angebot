@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spiele allein oder online im PvP- oder Koop-Modus.
-- Für die Anno 1800 Console Edition wurde die Steuerung und das User Interface komplett überarbeitet und auf eine Controllersteuerung am Fernseher optimiert.
-- Spiele das mehrfach ausgezeichnete PC-Aufbaustrategiespiel erstmals auf Konsole (PS5, Xbox Series X)
 - Errichte beeindruckende Städte, plane logistische Netzwerke, besiedle exotische neue Kontinente und gewinne durch Diplomatie, Handel oder Krieg die Oberhand über deine Konkurrenten.
+- Für die Anno 1800 Console Edition wurde die Steuerung und das User Interface komplett überarbeitet und auf eine Controllersteuerung am Fernseher optimiert.
+- Spiele allein oder online im PvP- oder Koop-Modus.
 - Neben einer handlungsbasierten Kampagne gibt es einen freien Spielmodus und ein packendes Mehrspielererlebnis.
+- Spiele das mehrfach ausgezeichnete PC-Aufbaustrategiespiel erstmals auf Konsole (PS5, Xbox Series X)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BSLWW42Z{{</world>}}

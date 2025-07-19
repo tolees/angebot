@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INTENSITÄT: Caffè Crema e Aroma hat einen Intensitätsgrad von 8/10; Dank der gleichmäßigen, mittleren Röstung, bringt er die besonderen Aromen des Kaffees zur vollen Entfaltung hat einen Intensitätsgrad von 8/10
 - AROMANOTEN: Caffè Crema e Aroma hat einen vollmundigen und reichen Geschmack mit angenehmen aromatischen Schokoladennoten; Ideal für Kaffeevollautomaten & Siebträgermaschinen;
-- LAVAZZA: Die Lavazza Gruppe ist in allen Bereichen der Kaffeeindustrie tätig und bietet ein nachhaltiges Produktmodell an, das auf Innovation, Leidenschaft und Know-How basiert
-- CAFFÈ E AROMA: 1 kg Packung mittel-gerösteter Bohnen, Premium-Mischung, perfektioniert von Lavazza, damit du die lang anhaltende Cremigkeit eines exquisiten Kaffees genießen kannst
 - MISCHUNG: Eine ausgewogene Kaffeemischung aus erlesenen Robusta und Arabica Kaffeebohnen, die hauptsächlich aus Brasilien, Afrika und Asien stammen
+- LAVAZZA: Die Lavazza Gruppe ist in allen Bereichen der Kaffeeindustrie tätig und bietet ein nachhaltiges Produktmodell an, das auf Innovation, Leidenschaft und Know-How basiert
+- INTENSITÄT: Caffè Crema e Aroma hat einen Intensitätsgrad von 8/10; Dank der gleichmäßigen, mittleren Röstung, bringt er die besonderen Aromen des Kaffees zur vollen Entfaltung hat einen Intensitätsgrad von 8/10
+- CAFFÈ E AROMA: 1 kg Packung mittel-gerösteter Bohnen, Premium-Mischung, perfektioniert von Lavazza, damit du die lang anhaltende Cremigkeit eines exquisiten Kaffees genießen kannst
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000FWHWGS{{</world>}}

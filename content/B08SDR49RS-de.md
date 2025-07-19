@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Welt des Streamings: Durch Unterstützung für Amazon Music und Spotify ganz einfach Musik, eigene Playlists & Podcasts auf dem Internetradio abspielen
-- Lieferumfang: 1x DAB+ Radio mit CD und Internet DIR3510SCBTX, 1x Netzteil (18V,2.6A), 1x Antenne, 1x Fernbedienung inkl. Batterien, 1x Anleitung
-- Digital-Radio mit CD Player & Spitzensound: Smart Radio mit 40W, rauschfreier Qualität durch DAB/DAB+ & mega Auswahl via Internet-Radio und Bluetooth
 - Alles ist möglich: Via Smartphone, Tablet oder PC über Bluetooth Musik auf dem Küchenradio abspielen oder vom Radio zum Kopfhörer/Lautsprecher senden
+- Lieferumfang: 1x DAB+ Radio mit CD und Internet DIR3510SCBTX, 1x Netzteil (18V,2.6A), 1x Antenne, 1x Fernbedienung inkl. Batterien, 1x Anleitung
+- Welt des Streamings: Durch Unterstützung für Amazon Music und Spotify ganz einfach Musik, eigene Playlists & Podcasts auf dem Internetradio abspielen
+- Digital-Radio mit CD Player & Spitzensound: Smart Radio mit 40W, rauschfreier Qualität durch DAB/DAB+ & mega Auswahl via Internet-Radio und Bluetooth
 - Multitalent: Das DAB Plus Radio überzeugt durch CD Laufwerk, USB, AUX, 2,8 Display, Lichtsensor, je 30 Favoritenplätze, Weckfunktion, Fernbedienung
 
 [🛒 Hier!!]({{< param buyurl >}})

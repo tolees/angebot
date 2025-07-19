@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Brand: Warner Bros Universal Pictures
-- Game of Thrones Staffel 8 4 DVDs
 - Produktart: PHYSICALMOVIE
+- Game of Thrones Staffel 8 4 DVDs
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07ZWBRG8T{{</world>}}

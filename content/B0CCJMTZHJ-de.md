@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kompatibilität mit mehreren Geräten, Kopplung mit einem Klick: Switch Pro Controller ist kompatibel mit Switch, Lite, OLED, Android, IOS, PC erfordert Kabel; Y und HOME oder Kopplung mit einem Klick; 10 Meter Übertragungsbereich
-- 4 Gang High Vibration und 6 Achsen Gyroskopsteuerung: Eingebauter Dual Vibration Motor, 4 Level Vibration, keine, schwach, mittel, stark; Ein Klick Anpassung des Vibrationsmodus; Professioneller Controller Schalter ausgestattet mit 6 Achsen Gyroskop Senso
-- 1000mAh Batterie: Der drahtlose Controller ist mit einer 1000mAh Batterie, die längere Spielzeit bietet; 10 bis 15 Stunden im LED-Beleuchtungsmodus eingeschaltet werden; Mit dem mitgelieferten USB-C-Schnellladekabel dauert es nur 3 bis 4 Stunden, um vollständig aufzuladen
-- Kühle Lichter: Unser drahtloser Schalter-Controller hat 8 Farben und 1 Regenbogenlicht; 5 schaltende Beleuchtungsmodi: Farbe, Strobe, Atmung, statischer und Beleuchtung; Der erste Start ist im Standardfarbmodus; Du kannst Starlight ausschalten oder die Helligkeit anpassen
 - Programmierbare und Turbo Funktionen: Die Pro Schaltersteuerung verfügt über programmierbare Funktionen, mit denen Sie mehrere Tastenfunktionen den M1- oder M2-Tasten zuordnen können; Single Mapping oder Multiple Mapping; Turbo Taste mit 3 Burst Geschwindigkeiten: 5 Runden/S, 12 Runden/S und 25 Runden/S
+- Kühle Lichter: Unser drahtloser Schalter-Controller hat 8 Farben und 1 Regenbogenlicht; 5 schaltende Beleuchtungsmodi: Farbe, Strobe, Atmung, statischer und Beleuchtung; Der erste Start ist im Standardfarbmodus; Du kannst Starlight ausschalten oder die Helligkeit anpassen
+- 1000mAh Batterie: Der drahtlose Controller ist mit einer 1000mAh Batterie, die längere Spielzeit bietet; 10 bis 15 Stunden im LED-Beleuchtungsmodus eingeschaltet werden; Mit dem mitgelieferten USB-C-Schnellladekabel dauert es nur 3 bis 4 Stunden, um vollständig aufzuladen
+- 4 Gang High Vibration und 6 Achsen Gyroskopsteuerung: Eingebauter Dual Vibration Motor, 4 Level Vibration, keine, schwach, mittel, stark; Ein Klick Anpassung des Vibrationsmodus; Professioneller Controller Schalter ausgestattet mit 6 Achsen Gyroskop Senso
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CCJMTZHJ{{</world>}}

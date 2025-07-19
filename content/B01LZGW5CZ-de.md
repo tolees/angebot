@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 🌻 100% PFLANZLICHER PROTEINSHAKE: nachhaltig und ethisch einwandfrei
+- 🌻 ÜBER 25G pures Protein pro Portion
 - 🌻 Milchfrei, laktosefrei, glutenfrei und weizenfrei
 - 🌻 FETTARM - nur 0,2g pro Portion
-- 🌻 ÜBER 25G pures Protein pro Portion
 - 🌻 SUPER KALORIENARM - nur 109 Kalorien pro Portion!
 
 [🛒 Hier!!]({{< param buyurl >}})

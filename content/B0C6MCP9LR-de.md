@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Steuerung über LEDVANCE SMART+ WiFi App (Apple oder Android ab 6.0) und SAMSUNG SmartThings, einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
 - Smart dimmbare LED Lampe
 - Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
 - Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 60-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
+- Steuerung über LEDVANCE SMART+ WiFi App (Apple oder Android ab 6.0) und SAMSUNG SmartThings, einfache Steuerung über Google Assistant oder Amazon Alexa per Voice Control möglich
 - Sehr schnell und einfach eingerichtet
 
 [🛒 Hier!!]({{< param buyurl >}})

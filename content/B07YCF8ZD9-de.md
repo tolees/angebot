@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leistungsstarker AC-Motor: Er erzeugt einen Luftstrom von bis zu 130 km/h*.
 - 2100 W Leistung: Der Philips Haartrockner kombiniert Leistung mit Geschwindigkeit und macht das Trocknen und Stylen schneller und einfacher.
+- Leistungsstarker AC-Motor: Er erzeugt einen Luftstrom von bis zu 130 km/h*.
 - ThermoProtect-Temperatur: Zum Schutz vor Überhitzung bietet ThermoProtect die optimale Temperatur bei gleichbleibend starkem Luftstrom.
 - 9-mm-Konzentrator: Der 9-mm-Konzentrator eignet sich hervorragend für Nachbesserungen und Präzisionsstyling durch einen gebündelten Luftstrom.
 - Enthält: Philips DryCare Pro Haartrockner mit leistungsstarkem Wechselstrommotor mit 6 Wärme-/Geschwindigkeitsstufen, Cool Shot und einem schnellen Trocknungserlebnis.

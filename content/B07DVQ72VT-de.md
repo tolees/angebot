@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Runde Basis für reibungsloses und schnelles Schneiden mit einfacher Handhabung
-- Aluminiumkonstruktion
 - Schnellverschluss-Nockenverriegelungssystem
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- Runde Basis für reibungsloses und schnelles Schneiden mit einfacher Handhabung
 - Ermöglicht das Fräsen in engen, schwer zugänglichen Stellen. Ideal für eine Vielzahl von Fräsanwendungen. Geeignet für die Verwendung mit Makita RT0700, RT001G und DRT50 Trimmern
+- Aluminiumkonstruktion
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DVQ72VT{{</world>}}

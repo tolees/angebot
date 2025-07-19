@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein Russisch-Roulette-Kartenspiel mit Kätzchenpower – Der Partyhit für Familie und Freunde, die auf Kätzchen, Explosionen, Laserstrahlen und manchmal Ziegen stehen.
-- Gewinner des „Game Of The Year Award“ – Mehr als 10 Millionen verkaufte Exemplare brechen Rekorde bei Spielen für Kinder, Erwachsene und alle dazwischen.
-- Einsteigerfreundlich und in 2 Minuten erklärt – Wer ein Exploding Kitten zieht, verliert und ist voller trauriger Verlierersoße. Mit den anderen Karten könnt ihr euer Risiko beeinflussen, ein Exploding Kitten zu ziehen. Wer nicht explodiert, GEWINNT!
-- Ein unterhaltsames und einfaches Kartenspiel für Kinder und Erwachsene – Das perfekte Spiel für alle Gelegenheiten: den Spieleabend daheim, am Strand, unterwegs oder beim geselligen Trinken mit Freunden!
 - 56 Karten, mit Schachtel und Spielanleitung – Ein einfaches Kartenspiel für Kinder, gesellige Abende, Kätzchen und Erwachsene – aber nicht in dieser Reihenfolge.
+- Ein Russisch-Roulette-Kartenspiel mit Kätzchenpower – Der Partyhit für Familie und Freunde, die auf Kätzchen, Explosionen, Laserstrahlen und manchmal Ziegen stehen.
+- Einsteigerfreundlich und in 2 Minuten erklärt – Wer ein Exploding Kitten zieht, verliert und ist voller trauriger Verlierersoße. Mit den anderen Karten könnt ihr euer Risiko beeinflussen, ein Exploding Kitten zu ziehen. Wer nicht explodiert, GEWINNT!
+- Gewinner des „Game Of The Year Award“ – Mehr als 10 Millionen verkaufte Exemplare brechen Rekorde bei Spielen für Kinder, Erwachsene und alle dazwischen.
+- Ein unterhaltsames und einfaches Kartenspiel für Kinder und Erwachsene – Das perfekte Spiel für alle Gelegenheiten: den Spieleabend daheim, am Strand, unterwegs oder beim geselligen Trinken mit Freunden!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B010TQY7A8{{</world>}}

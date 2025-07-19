@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
-- Absatzform: Flach
 - Innenmaterial: Textil
+- Obermaterial: Leder
 - Verschluss: Synthetik
+- Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SVPWMNJ{{</world>}}

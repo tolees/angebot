@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein bad für ganz besondere menschen
+- Warmes lila im badewasser
 - Kommt von herzen
 - Hibiskus und feige
-- Warmes lila im badewasser
 - Fruchtig-floraler duft
+- Ein bad für ganz besondere menschen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CL6PL97F{{</world>}}

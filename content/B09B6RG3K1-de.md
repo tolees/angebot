@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taschen vorn
 - Gürtelschlaufen
+- Taschen vorn
 - Skinny Fit Jeans schmiegt sich von der Hüfte bis zum Knöchel an Ihre Beine
 
 [🛒 Hier!!]({{< param buyurl >}})

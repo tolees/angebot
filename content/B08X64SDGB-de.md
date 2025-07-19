@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zwischen den Händen aufschäumen. Den Schaum am nassen Körper verteilen. Gut abspülen.
+- Die feste Pflegedusche Happy Freshness hält was sie verspricht: Bio -Limette und Bio-Zitronengras sorgen für Erfrischung pur und rein pflanzliche Tensiden reinigen den Körper besonders sanft
 - Die feste Pflegedusche ist sehr ergiebig und bildet einen weichen und zarten Schaum.
 - Produkt nach Gebrauch an der Luft trocknen lassen. Nicht zum Verzehr geeignet.
-- Die feste Pflegedusche Happy Freshness hält was sie verspricht: Bio -Limette und Bio-Zitronengras sorgen für Erfrischung pur und rein pflanzliche Tensiden reinigen den Körper besonders sanft
 - Entdecke das lavera Geheimnis natürlich erfrischender Körperreinigung in fester Form.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erwachsener
-- Puma Cat Logo auf der rechten Brust
-- Baumwolle und Polyester
 - Reißverschluss über die volle Länge
+- Baumwolle und Polyester
+- Puma Cat Logo auf der rechten Brust
 - Farbe: Puma Schwarz
+- Erwachsener
 - Herren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

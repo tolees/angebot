@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PROFITEZ DE CONTENU EXCLUSIF : Obtenez 6 skins de personnages exclusifs avec la version Deluxe
-- RASSEMBLEZ VOS FORCES : Explorez un monde familier et pourtant mystérieux, regorgeant de nombreuses formes de vie, de biomes luxuriants et riches en ressources. Mais ce paradis est au bord de la destruction. Les Piglins sont arrivés et menacent de corrompre la Surface
 - METTEZ LES PIGLINS EN DÉROUTE : Formez de précieuses alliances inattendues en motivant vos amis et guidez-les dans des combats stratégiques pour protéger leur maison. Combattez les Piglins avant quils ne corrompent la Surface depuis le Nether
+- RASSEMBLEZ VOS FORCES : Explorez un monde familier et pourtant mystérieux, regorgeant de nombreuses formes de vie, de biomes luxuriants et riches en ressources. Mais ce paradis est au bord de la destruction. Les Piglins sont arrivés et menacent de corrompre la Surface
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BT8H7Y7W{{</world>}}

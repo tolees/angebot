@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Efficient for ecology: Überfüllen ist unmöglich, da der Stift nur die maximal mögliche Tintenmenge aus der Tankstelle herauszieht
 - 15-20x Nachfüllen möglich
 - Nach 3-4 Stunden wieder komplett gefüllt
-- Einfaches und sauberes Nachfüllen
 - Nach wenigen Minuten ist der Stift wieder schreibbereit
+- Einfaches und sauberes Nachfüllen
+- Efficient for ecology: Überfüllen ist unmöglich, da der Stift nur die maximal mögliche Tintenmenge aus der Tankstelle herauszieht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000WGX0ZO{{</world>}}

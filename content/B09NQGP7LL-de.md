@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das fertige Puzzle kann auf Karton geklebt und an die Wand gehängt werden - spezieller Trefl-Puzzlekleber ist im Handel erhältlich
 - Dieses 1000-teilige Puzzle ist ideal für Puzzle-Liebhaber und zeigt ein 683 x 480 mm großes Bild der atemberaubenden Aussicht auf die Basilika von Las Lajas in Kolumbien, umgeben von Wald.
 - Ein einzigartiges Geschenk für Rätselfreunde, Erwachsene und Kinder ab 12 Jahren
-- Das fertige Puzzle kann auf Karton geklebt und an die Wand gehängt werden - spezieller Trefl-Puzzlekleber ist im Handel erhältlich
 - Großes Gedächtnistraining, Entwicklung der manuellen Fähigkeiten, Übung der Konzentration, Geduld und Wahrnehmungsfähigkeit
 - Elemente aus umweltfreundlichen, hochwertigen Materialien und mit reflektierendem Papier
 

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erhältlich in zwei verschiedenen Breiten
-- Packung die Größe: 4.6 L x 25.7 H x 8.2 W cm
 - Elastischer Gürtel mit praktischer Hakenschließe aus Metall
+- Packung die Größe: 4.6 L x 25.7 H x 8.2 W cm
+- Erhältlich in zwei verschiedenen Breiten
 - Erwachsener
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

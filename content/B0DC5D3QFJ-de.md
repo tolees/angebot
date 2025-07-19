@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Flammgarnstruktur
 - Artworks vorne und hinten
-- V-Neck mit Used-Kante
 - Label Patch vorne am Saum
 - Kontrastnähte
-- Flammgarnstruktur
+- V-Neck mit Used-Kante
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5D3QFJ{{</world>}}

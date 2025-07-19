@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gerades Bein
 - klassischer 5-Pocket-Style, gerades Bein, weiches und elastisches Material
+- Weiches und elastisches Material
 - Jeans für Frauen, Straight Fit Jeans, High Waist, Knöchellänge
 - Straight Fit Jeans, High Waist, Knöchellänge
-- Weiches und elastisches Material
-- Gerades Bein
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BNMFYH6{{</world>}}

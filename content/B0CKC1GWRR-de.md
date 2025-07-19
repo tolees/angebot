@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzärmlig
-- Runder Ausschnitt, eingefasst
-- Gerader Saum
 - Vertikale Naht auf der Vorderseite
+- Kurzärmlig
 - G-Star RAW Stickerei auf der Brust, gewebtes G-Star Originals Label vorne unten
+- Gerader Saum
+- Runder Ausschnitt, eingefasst
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKC1GWRR{{</world>}}

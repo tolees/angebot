@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bis zu 570 MB/s Lesen; 460 MB/s Schreiben
-- Installationswerkzeuge inklusive.Betriebstemperatur: 0°C (32°F) bis 70°C (158°F)
-- Kostenloser Download der JetDrive Toolbox Software
-- SATA III 6Gb/s Schnittstelle
 - Kompatibel mit MacBook Air 11” (Mitte 2012) und MacBook Air 13” (Mitte 2012)
+- SATA III 6Gb/s Schnittstelle
+- Kostenloser Download der JetDrive Toolbox Software
+- Installationswerkzeuge inklusive.Betriebstemperatur: 0°C (32°F) bis 70°C (158°F)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JKCHNPE{{</world>}}

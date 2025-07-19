@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Wie bei den meisten ThinkFun Geduld- und Logikspielen, stellen die 60 Aufgabenkarten in vier Schwierigkeitsstufen jeden Spieler, vom Anfänger bis zum Experten, auf die Probe, Somit ist Gravity Maze das ideale Spiel für einen Spieler und bekämpft jede Langeweile
+- Bist du bereit, dein räumliches Vorstellungsvermögen auf die Probe zu stellen? Mit Gravity Maze baust du Kugelbahnen aus transparenten Türmen, Klingt gar nicht so schwer? Aufgepasst, denn die einzelnen Türme haben es in sich: Es gibt Schrägen, ebene Flächen und sogar Löcher
 - Gravity Maze - das ideale Denkspiel für Erwachsene oder Geschenk für Kinder
 - Du entscheidest, wo und wie du die in den Aufgaben vorgegebenen Türme auf dem Spielbrett platzierst, Am Ende ist jedoch eines wichtig: Die kleine Metallkugel muss ohne Unterbrechung durch jeden Turm rollen und den kleinen roten Zielturm erreichen
 - Und hast du alle Level geschafft? Denke dir selbst weitere, knifflige Aufgaben aus oder verwende das Spielmaterial zum freien Spiel
-- Wie bei den meisten ThinkFun Geduld- und Logikspielen, stellen die 60 Aufgabenkarten in vier Schwierigkeitsstufen jeden Spieler, vom Anfänger bis zum Experten, auf die Probe, Somit ist Gravity Maze das ideale Spiel für einen Spieler und bekämpft jede Langeweile
-- Bist du bereit, dein räumliches Vorstellungsvermögen auf die Probe zu stellen? Mit Gravity Maze baust du Kugelbahnen aus transparenten Türmen, Klingt gar nicht so schwer? Aufgepasst, denn die einzelnen Türme haben es in sich: Es gibt Schrägen, ebene Flächen und sogar Löcher
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08KHLW7TX{{</world>}}

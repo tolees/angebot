@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zum Verpressen von Aderendhülsen nach DIN 46228 Teil 1 + 4 im Bereich von 0,25 bis 16 mm²
-- Auch als VDE-Version
-- Leichte und schlanke Bauweise
-- Verpressung in gekennzeichneten Halbrundprofilen für die sichere Verbindung von Hülse und Leiter
 - Leichtes Crimpen durch optimierte Übersetzung
+- Verpressung in gekennzeichneten Halbrundprofilen für die sichere Verbindung von Hülse und Leiter
+- Leichte und schlanke Bauweise
+- Auch als VDE-Version
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VB611RZ{{</world>}}

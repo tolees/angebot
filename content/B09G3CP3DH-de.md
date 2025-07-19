@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: Adidas
 - Boxserie
+- Marke: Adidas
 - Erhältlich in verschiedenen Farben
 
 [🛒 Hier!!]({{< param buyurl >}})

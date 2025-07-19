@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Machen Sie verlustfreie 4K UHD Videoaufzeichnungen dank UHS Speed Klasse 3 (U3) und Video Speed Klasse 30 (V30) mit der microSD Karte für Smartphones
 - Mit einer Lesegeschwindigkeit von 100 MB/s und einer Schreibgeschwindigkeit von 90 MB/s übertragen Sie Ihre Daten extrem schnell
-- Lieferumfang: SanDisk Extreme PRO microSDHC UHS-I Speicherkarte 32 GB + Adapter & RescuePRO Deluxe (Für Smartphones, Actionkameras oder Drohnen, A1, V30, U3, 100 MB/s Übertragung) 30 Jahre Garantie
 - Filmen Sie Ihre Outdoor-Abenteuer, Wochenendausflüge oder Sportveranstaltungen in höchster Qualität und ohne Frame-Verluste
+- Lieferumfang: SanDisk Extreme PRO microSDHC UHS-I Speicherkarte 32 GB + Adapter & RescuePRO Deluxe (Für Smartphones, Actionkameras oder Drohnen, A1, V30, U3, 100 MB/s Übertragung) 30 Jahre Garantie
+- Machen Sie verlustfreie 4K UHD Videoaufzeichnungen dank UHS Speed Klasse 3 (U3) und Video Speed Klasse 30 (V30) mit der microSD Karte für Smartphones
 - Die SanDisk Extreme PRO microSDHC ist ideal geeignet für alle Android Smartphones und Tablets, sowie Drohnen oder Actioncams
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

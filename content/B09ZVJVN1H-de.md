@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leder: Textile
 - AtmungsaktivAtmungsaktiv
+- Leder: Textile
 - 12.1653543183 inches
 - Verschluss: Ethylen-Vinylacetat
 

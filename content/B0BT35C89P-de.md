@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- GEOCACHING OHNE PAPIER: Laden Sie ganz einfach Geocaches herunter und übertragen diese auf den eTrex SE. Erhalten Sie automatische Cache Updates, inkl. Beschreibungen, Protokolle und Hinweise, wenn das Gerät mit der Garmin Explore App gekoppelt ist
 - FÜR JEDE OUTDOOR-TOUR GEMACHT: Das robuste und wasserdichte (IPX7) GPS-Navi ist bereit für Ihre nächste Tour. Selbst bei Sonnenlicht ist das 2,2“ große MIP-Display ideal ablesbar und lässt sich auch mit Handschuhen dank Tastenbedienung bedienen
 - AUSDAUERND: Mit den auswechselbaren 2AA Batterien (nicht im Lieferumfang enthalten) ist eine Batterielaufzeit von bis zu 168 Stunden (bei 1-sekündigem Tracking) und bis zu 1800 Stunden im Expeditionsmodus möglich
-- ORIENTIERUNG JEDERZEIT: Der eingebaute digitale Kompass liefert auch im Stillstand einen genauen Kurs und hilft Ihnen bei der Orientierung
 - IMMER BESTENS ORIENTIERT: Der hochempfindliche GPS- und GLONASS-Empfänger sorgt für eine schnelle und präzise Positionsbestimmung. So wissen Sie immer wo Sie gerade sind
-- GEOCACHING OHNE PAPIER: Laden Sie ganz einfach Geocaches herunter und übertragen diese auf den eTrex SE. Erhalten Sie automatische Cache Updates, inkl. Beschreibungen, Protokolle und Hinweise, wenn das Gerät mit der Garmin Explore App gekoppelt ist
+- ORIENTIERUNG JEDERZEIT: Der eingebaute digitale Kompass liefert auch im Stillstand einen genauen Kurs und hilft Ihnen bei der Orientierung
 - AUSDAUERND: Mit einer Akkulaufzeit bis zu 1 Woche im GPS-Modus ist Ihr eTrex bereit für Ihre großen Touren. Sie können den eTrex SE mit Batterien oder auch mit geeigneten Akkus betreiben und mit dem neuen USB-C Anschluss laden
 
 [🛒 Hier!!]({{< param buyurl >}})

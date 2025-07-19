@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Maße: Ø 33 x H. ca. 2 cm
 - Scilla Pizzateller aus Steinzeug (Made in Italy)
 - Spülmaschinenfest
 - Erhältlich in 3 Designs
-- Maße: Ø 33 x H. ca. 2 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08SVYPBH6{{</world>}}

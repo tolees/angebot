@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Natural Textiles,Recycled Synthetics
 - Obermaterial: 100 % recycelte Baumwolle
+- Natural Textiles,Recycled Synthetics
 - Sohle: 100% Gummi
 - Farbe: Mittelgrau
 

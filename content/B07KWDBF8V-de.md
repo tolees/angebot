@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inklusive - Filter, Hartschalenkoffer, Softcase, Reinigungstuch In der Tat
 - Messingrahmen - Glattes Gewinde und erhöhte Haltbarkeit
+- Inklusive - Filter, Hartschalenkoffer, Softcase, Reinigungstuch In der Tat
 - Fused Quartz Glass Element - löst bis zu 100MP Sensoren auf
 - 16 Coating Layer - Anti-Kratz / Anti-Öl / Hydrophobe Beschichtungen
 - Perfekte Farbneutralität - Neuer Beschichtungsprozess für Nullpunktverschiebung

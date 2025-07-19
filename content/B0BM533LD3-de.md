@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
 - Sohle: Ethylenvinylacetat
+- Obermaterial: Leder
 - Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Baumwollstretch
-- 3er pack in schwarz
 - Normal große mittere Taille hüft Shorts
 - Signatur Calvin klein logo waistband
+- 3er pack in schwarz
+- Baumwollstretch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B077BFKXMB{{</world>}}

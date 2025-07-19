@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - aus 100% Polypropylen mit Kunststoff Rand
+- Maße: 60x 40cm
 - rutschfest durch Gummi-Rückseite
 - Der Hingucker in jedem Treppenhaus
-- Maße: 60x 40cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002VVHWV6{{</world>}}

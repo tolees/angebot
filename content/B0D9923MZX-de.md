@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Farbverlauf
-- senkrechtes Artwork mit Stickereien vorne
 - V-Ausschnitt mit Rippblende
 - Logo Print auf dem oberen Rücken
+- senkrechtes Artwork mit Stickereien vorne
+- mit Farbverlauf
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D9923MZX{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PRAKTISCH & TRAGBAR: Perfekt für Reisen und den Alltag – dieses Teleobjektiv wiegt nur 165 g und ist 40,2 mm lang, sodass Sie es den ganzen Tag an der Kamera lassen oder in Ihrer Tasche verstauen können.
-- FOTOGRAFIE: Erfassen Sie Motive mit Power und Flexibilität dank einer 16mm-Festbrennweite. Neun Linsenelemente in sieben Gruppen und eine PMo-asphärische Linse sorgen für hervorragende Farbwiedergabe und gestochen scharfe Bilder.
-- CANON OBJEKTIV: Erfassen Sie die Welt mit einem 16mm Weitwinkel-Prime-Objektiv, ideal für Vlogging, Landschafts- und Astrofotografie.
-- VLOGGING-OBJEKTIV: Canon Objektiv mit sanftem & leisem STM-Autofokusmotor – ideal für Videos. Die Brennweite des Vollformat-F2,8 STM ist ultraweit – perfekt fürs Vlogging.
 - KOMPATIBEL: Dieses Canon Objektiv sorgt für eine außergewöhnlich detaillierte Bildqualität mit jeder Canon EOS R Systemkamera.
+- FOTOGRAFIE: Erfassen Sie Motive mit Power und Flexibilität dank einer 16mm-Festbrennweite. Neun Linsenelemente in sieben Gruppen und eine PMo-asphärische Linse sorgen für hervorragende Farbwiedergabe und gestochen scharfe Bilder.
+- VLOGGING-OBJEKTIV: Canon Objektiv mit sanftem & leisem STM-Autofokusmotor – ideal für Videos. Die Brennweite des Vollformat-F2,8 STM ist ultraweit – perfekt fürs Vlogging.
+- PRAKTISCH & TRAGBAR: Perfekt für Reisen und den Alltag – dieses Teleobjektiv wiegt nur 165 g und ist 40,2 mm lang, sodass Sie es den ganzen Tag an der Kamera lassen oder in Ihrer Tasche verstauen können.
+- CANON OBJEKTIV: Erfassen Sie die Welt mit einem 16mm Weitwinkel-Prime-Objektiv, ideal für Vlogging, Landschafts- und Astrofotografie.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09GPMKLZC{{</world>}}

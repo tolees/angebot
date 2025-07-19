@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maximaler Mehrwert im System: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller erforderlich
+- Smarter Sensor: Erkennt zuverlässig geöffnete Türen, Fenster und Vibrationen, zeigt deren Status in der App und dient durch integrierten Button als Auslöser für Aktionen und Szenarien im Smart Home
+- Einbruchschutz: Ist der Tür- Fensterkontakt in das Bosch Smart Home Alarmsystem integriert, löst er bereits bei Erschütterungen am Fenster durch Einbruchsversuche Alarm aus
 - Warnung im Alarmsystem: Tür-/Fenstersensor deckt beim Aktivieren des Alarmsystems Sicherheitslücken auf und macht auf geöffnete Türen und Fenstern aufmerksam
 - Heizkosten sparen: Fenstersensor erkennt geöffnete Fenster, sodass smarte Heizkörper-Thermostate über den Dienst "Nachhaltiges Lüften" automatisch gedrosselt werden, um Energiekosten zu sparen
+- Maximaler Mehrwert im System: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller erforderlich
 - Lieferumfang: 1x Tür-/Fenster-Senor, 1x Magnetvorrichtung mit 2 Abstandshaltern, 1x CR123A Batterie, Klebeband, Bedienungsanleitung
-- Einbruchschutz: Ist der Tür- Fensterkontakt in das Bosch Smart Home Alarmsystem integriert, löst er bereits bei Erschütterungen am Fenster durch Einbruchsversuche Alarm aus
-- Smarter Sensor: Erkennt zuverlässig geöffnete Türen, Fenster und Vibrationen, zeigt deren Status in der App und dient durch integrierten Button als Auslöser für Aktionen und Szenarien im Smart Home
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BBLZ8JGL{{</world>}}

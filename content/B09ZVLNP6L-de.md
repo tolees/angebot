@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Stoff
 - Sohle: Ethylen-Vinylacetat
+- Obermaterial: Stoff
 - Verschluss: Slip On
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anpassbarer Ton- und Lichtalarm - Zeichnen Sie Ihren eigenen Ton als Alarm auf, um Ihre Nutzungsmöglichkeiten zu erweitern. Das ultrahelle und einstellbare Licht wird ebenfalls unterstützt, um unerwünschte Besucher zu verscheuchen.
-- IP66 wetterfest - Bietet hervorragende wasser- und staubdichte Leistung für den Außenbereich.
-- Starlight Color Night Vision - Durch die Verwendung eines Objektivs mit großer Blende (F1.6) und eines Starlight-Sensors fängt die Tapo C520WS mehr Licht ein und hat eine höhere Lichtempfindlichkeit, so dass sie bei schlechteren Lichtverhältnissen hellere Farben wiedergibt als Vollfarb-Nachtsichtkameras mit einem F2.2-Objektiv und einem normalen Sensor. Die Tapo C520WS bietet 3 Nachtsichtmodi zur Auswahl an. Der Vollfarbmodus liefert rund um die Uhr Farben, während der Smart-Modus die Scheinwerfer für farbige Bilder nur dann einschaltet, wenn ein Ereignis erkannt wird. Der Infrarotmodus wird ebenfalls unterstützt.
-- Sichere lokale und Cloud-Speicherung - Speichern Sie aufgezeichnete Videos auf einer microSD-Karte oder über die Tapo Care Cloud-Dienste.
 - 2K QHD Live View - Mit einer Auflösung von 2560 × 1440 bietet die Tapo C520WS 1,7 × mehr Pixel und liefert schärfere Bilder als 1080p.
-- Verkabelte/kabellose Vernetzung - Schließen Sie Ihre Kamera über WiFi oder Ethernet an das Netzwerk an, um eine flexiblere Installation zu ermöglichen.
 - Freie Personen-/Haustier-/Fahrzeugerkennung - Die intelligente KI erkennt Personen, Haustiere und Fahrzeuge und benachrichtigt den Benutzer bei Bedarf.
+- Starlight Color Night Vision - Durch die Verwendung eines Objektivs mit großer Blende (F1.6) und eines Starlight-Sensors fängt die Tapo C520WS mehr Licht ein und hat eine höhere Lichtempfindlichkeit, so dass sie bei schlechteren Lichtverhältnissen hellere Farben wiedergibt als Vollfarb-Nachtsichtkameras mit einem F2.2-Objektiv und einem normalen Sensor. Die Tapo C520WS bietet 3 Nachtsichtmodi zur Auswahl an. Der Vollfarbmodus liefert rund um die Uhr Farben, während der Smart-Modus die Scheinwerfer für farbige Bilder nur dann einschaltet, wenn ein Ereignis erkannt wird. Der Infrarotmodus wird ebenfalls unterstützt.
 - 360° Sichtbereich - Bietet 360° horizontalen und 130° vertikalen Sichtbereich, so dass Sie sich auf die wichtigsten Bereiche konzentrieren und tote Winkel vermeiden können.
+- Verkabelte/kabellose Vernetzung - Schließen Sie Ihre Kamera über WiFi oder Ethernet an das Netzwerk an, um eine flexiblere Installation zu ermöglichen.
+- IP66 wetterfest - Bietet hervorragende wasser- und staubdichte Leistung für den Außenbereich.
+- Sichere lokale und Cloud-Speicherung - Speichern Sie aufgezeichnete Videos auf einer microSD-Karte oder über die Tapo Care Cloud-Dienste.
+- Anpassbarer Ton- und Lichtalarm - Zeichnen Sie Ihren eigenen Ton als Alarm auf, um Ihre Nutzungsmöglichkeiten zu erweitern. Das ultrahelle und einstellbare Licht wird ebenfalls unterstützt, um unerwünschte Besucher zu verscheuchen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CCW8GHT8{{</world>}}

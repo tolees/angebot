@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Durchmesser: 2 Zoll, druckbeständig bis 10 bar, sofort einsatzbereit
 - 24 Monate Garantie
 - Es ist kein Verdrehen des Schlauches beim Kuppeln möglich, da der Stutzen drehbar montiert ist
 - Innen gummiert, alterungs-/ozonbeständig, verrottungs-/moderfest
+- Hochwertiger Schlauch aus einer zweifach gezwirnten Polyestergarn Decke, Länge 15 m
 - Lieferumfang: 1x T.I.P. 31090 Bau- und Industriegewebeschlauch mit ″ C 52-Storz-Kupplungen
 - Besitzt auf beiden Seiten den Kupplungstyp Storz (C 52-Storz)
-- Hochwertiger Schlauch aus einer zweifach gezwirnten Polyestergarn Decke, Länge 15 m
-- Durchmesser: 2 Zoll, druckbeständig bis 10 bar, sofort einsatzbereit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01DULAU14{{</world>}}

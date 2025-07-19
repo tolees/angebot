@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 2: Mit Reißverschluss und Stab
-- Produkt 1: Alu/Stahl-Gestell anthrazitgrau pulverbeschichtet, Stock einteilig ca. 53 x 80 mm
-- Produkt 1: Bespannung 100% Polyester, ca. 200 g/m², ohne Volant, verrottungsfest, wasserabstoßend imprägniert, abnehmbar für Handwäsche
 - Produkt 2: Für Ampelschirme bis 400 cm Ø und 300 x 300 cm
-- Produkt 2: Abmessung: 240 x 57 cm
+- Produkt 2: Mit Reißverschluss und Stab
 - Produkt 1: Per Drehteller mit Fußpedal um 360° drehbar, bis zu 50° entlang des Mastes neigbar, bis zu 45° entlang des Auslegerarms beidseitig kippbar
-- Produkt 1: UV-Schutz 50+ nach australisch-neuseeländischer Norm (AS/NZS4399)
+- Produkt 2: Abmessung: 240 x 57 cm
+- Produkt 1: Bespannung 100% Polyester, ca. 200 g/m², ohne Volant, verrottungsfest, wasserabstoßend imprägniert, abnehmbar für Handwäsche
 - Produkt 2: 100% Polyester, lichtundurchlässig für optimalen Schutz vor UV-Strahlung und somit Ausbleichen des Schirmes, wasserabstoßend beschichtet, atmungsaktiv
+- Produkt 1: Alu/Stahl-Gestell anthrazitgrau pulverbeschichtet, Stock einteilig ca. 53 x 80 mm
+- Produkt 1: UV-Schutz 50+ nach australisch-neuseeländischer Norm (AS/NZS4399)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Y63TCX1{{</world>}}

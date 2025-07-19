@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Proteine tragen zur Erhaltung von und Zunahme an Muskelmasse bei
-- Hoher Proteingehalt
-- Packung enthält 75 Portionen
 - Zitronen-Käsekuchen-Geschmack - 2.27 kg
+- Packung enthält 75 Portionen
+- Hoher Proteingehalt
+- Proteine tragen zur Erhaltung von und Zunahme an Muskelmasse bei
 - Verzehrsempfehlung für Erwachsene:
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

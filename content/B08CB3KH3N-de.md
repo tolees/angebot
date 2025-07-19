@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 2 Jahre Herstellergarantie, umfangreicher Ersatzteil-Shop
-- Inklusive Filterpumpe (2.006 l/h) und passender Filterkartusche, Flowclear Sicherheitsleiter (122 cm), Flowclear PVC-Abdeckplane
-- Sichere Verbindung durch T-Verbinder, robustes, 3-lagiges DuraPlus -Material sorgt für enorme Langlebigkeit, selbstklebender Reparaturflicken, Antihaftbeschichtung, PVC-Band für extra Stabilität
 - Größe: 366 x 122 cm, Wasserkapazität (90%): 10.250 Liter, einfacher Aufbau ohne Werkzeug, Innenverkleidung in Kieselmosaik-Optik
 - Müheloser Abbau, Lagerung sowie Transport, einfaches Entleeren durch integriertes Ablassventil (Gartenschlauchadapter enthalten)
+- Inklusive Filterpumpe (2.006 l/h) und passender Filterkartusche, Flowclear Sicherheitsleiter (122 cm), Flowclear PVC-Abdeckplane
+- Sichere Verbindung durch T-Verbinder, robustes, 3-lagiges DuraPlus -Material sorgt für enorme Langlebigkeit, selbstklebender Reparaturflicken, Antihaftbeschichtung, PVC-Band für extra Stabilität
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08CB3KH3N{{</world>}}

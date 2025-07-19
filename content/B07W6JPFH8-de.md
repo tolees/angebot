@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SMART CONNECTOR-Technologie: Dank ständiger Stromversorgung und Pairing mit dem Combo Touch Keyboard Case wird die Hülle automatisch mit dem iPad Pro aufgeladen
-- Ein Zuhause für den Apple Pencil: Der Apple Pencil kann ganz einfach an der Seite der Hülle aufgeladen werden, während das iPad Pro in der Case steckt
-- Alles ist möglich mit Combo Touch: Vier Verwendungsmodi ermöglichen es zu Tippen, Zeichnen, Lesen und Videos zu schauen, ohne das iPad Pro aus der Hülle herausnehmen zu müssen
-- Schutz für die Kanten, Vorder- und Rückseite: Die robuste Schutzhülle bewahrt die Vorder-, Rückseite und die Kanten des iPad Pro und hält es in jeder Situation in Position
+- Kompatibilität: Für iPad Pro 12,9 Zoll (5., 6. Generation – 2021, 2022) – A2378, A2461, A2379, A2462­
 - Großes Click-Anywhere-Trackpad: Die iPad-Hülle mit Tastatur besitzt ein großes, präzises und zuverlässiges Trackpad, dessen gesamte Fläche genutzt werden kann und Multi-Touch-Gesten unterstützt
 - Abnehmbare Tastatur und anpassbare Stellhalterung: Einfach die smarte Tastatur abnehmen, wenn sie nicht mehr benötigt wird und mithilfe der flexiblen, um 50° verstellbaren Stellhalterung aufstellen
+- Schutz für die Kanten, Vorder- und Rückseite: Die robuste Schutzhülle bewahrt die Vorder-, Rückseite und die Kanten des iPad Pro und hält es in jeder Situation in Position
 - Beleuchtete Tasten wie auf dem Laptop: Die Helligkeit passt sich automatisch, über 16 Helligkeitsstufen hinweg, an die Umgebung an und dank iPadOS Shortcuts lassen sich verschiedene Anpassungen vornehmen
-- Kompatibilität: Für iPad Pro 12,9 Zoll (5., 6. Generation – 2021, 2022) – A2378, A2461, A2379, A2462­
+- SMART CONNECTOR-Technologie: Dank ständiger Stromversorgung und Pairing mit dem Combo Touch Keyboard Case wird die Hülle automatisch mit dem iPad Pro aufgeladen
+- Alles ist möglich mit Combo Touch: Vier Verwendungsmodi ermöglichen es zu Tippen, Zeichnen, Lesen und Videos zu schauen, ohne das iPad Pro aus der Hülle herausnehmen zu müssen
+- Ein Zuhause für den Apple Pencil: Der Apple Pencil kann ganz einfach an der Seite der Hülle aufgeladen werden, während das iPad Pro in der Case steckt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07W6JPFH8{{</world>}}

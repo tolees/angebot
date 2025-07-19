@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FEIERE DIE AUTOMOBILKULTUR IN ALL IHREN FACETTEN
 - Erhalte mit der Deluxe Edition Zugriff auf das Basis-Spiel und das Fitted-Ultimate-Paket. Es enthält: Porsche 718 Spyder 2021 Fitted Edition. Honda Civic Type R 2021 Fitted Edition. Prestige-Objekte für deine Autos und einen Avatar.
+- FEIERE DIE AUTOMOBILKULTUR IN ALL IHREN FACETTEN
 - SAMMLE DIE LEGENDÄRSTEN AUTOS
 - ERKUNDE DIE LEBENDIGE, OFFENE SPIELWELT VON HAWAII
 

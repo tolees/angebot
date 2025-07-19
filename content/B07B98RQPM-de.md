@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial : Leder
-- Absatzform : Kein Absatz
 - Schuhweite : Medium
+- Absatzform : Kein Absatz
 - Wasserbeständigkeitsgrad : Nicht Wasserfest
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

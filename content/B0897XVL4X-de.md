@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das klassische T-Shirt ist eines dieser Dinge.
-- Einige Dinge sind perfekt, so wie sie sind.
-- Hergestellt mit Diesem nachhaltigen Water&ItLess Verfahren
-- Dies ist ein originales Levis Produkt
 - Aus 100 % Baumwolljersey hergestellt, kommt es in einer zeitlosen Passform und mit dezentem Logo.
-- Das Basic-T-Shirt perfektioniert
 - Mit dezentem Logo auf der Brust
+- Dies ist ein originales Levis Produkt
+- Das Basic-T-Shirt perfektioniert
+- Einige Dinge sind perfekt, so wie sie sind.
 - Aus besonders weichem Jersey
+- Das klassische T-Shirt ist eines dieser Dinge.
+- Hergestellt mit Diesem nachhaltigen Water&ItLess Verfahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0897XVL4X{{</world>}}

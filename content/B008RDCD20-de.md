@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Scope of delivery: intense SDHC card Class10
-- Compatible with SDHC and SDXC supporting host devices
-- Support FAT32
-- Class 10 (Guaranteed minimum transfer rate: 10 MB/s)
 - Up to 40MB/s transfer speed
+- Compatible with SDHC and SDXC supporting host devices
+- Class 10 (Guaranteed minimum transfer rate: 10 MB/s)
+- Support FAT32
+- Scope of delivery: intense SDHC card Class10
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008RDCD20{{</world>}}

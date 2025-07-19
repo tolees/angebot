@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Super geeignet für Sport und Freizeit
 - Hohe Atmungsaktivität und Strapazierfähigkeit
 - Made in Europe!
+- Super geeignet für Sport und Freizeit
 - Leichter, fließender Modal-Stoff
 - Lockerer, legerer Schnitt mit 3/4-Ärmeln
 

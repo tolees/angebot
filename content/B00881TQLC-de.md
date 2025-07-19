@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Riecht angenehm, lässt sich gut verteilen und zieht vollständig ein
 - Hat zunächst eine leicht kühlende Wirkung, geht dann in ein wohliges Wärmegefühl über
 - Wärmende und entspannende Pflege für Haut, Muskeln und Gelenke
-- Riecht angenehm, lässt sich gut verteilen und zieht vollständig ein
 - Pflegt die Haut und macht sie weich und geschmeidig
 
 [🛒 Hier!!]({{< param buyurl >}})

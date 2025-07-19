@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Herkunftsland:- Italien
-- Verpackungsabmessungen (L x B x H): 25.0 x 41.0 x 47.0 Zm
 - Verpackungsgewicht: 11.0 Kg
+- Verpackungsabmessungen (L x B x H): 25.0 x 41.0 x 47.0 Zm
 - Material: Stahl
 
 [🛒 Hier!!]({{< param buyurl >}})

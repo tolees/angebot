@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für DIN-rechte und DIN-linke Türen und Tore, z.B. Gartentore
+- Massiver Stahlriegel
 - verzinkter Schlosskörper
 - Aufschraubschloss für Profilzylinder
-- Massiver Stahlriegel
+- Geeignet für DIN-rechte und DIN-linke Türen und Tore, z.B. Gartentore
 - Robuste Mechanik
 
 [🛒 Hier!!]({{< param buyurl >}})

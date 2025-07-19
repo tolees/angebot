@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform : Blockabsatz
-- Schuhweite : Medium
 - Wasserbeständigkeitsgrad : Nicht wasserfest
+- Schuhweite : Medium
+- Absatzform : Blockabsatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BN6BNZWS{{</world>}}

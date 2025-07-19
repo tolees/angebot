@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kleinste INSTAX Kamera, damit sie immer und überall dabei sein kann
 - Weitwinkelobjektiv, um den ganzen Moment festzuhalten
-- Noch mehr Funktionen mit der INSTAX Pal Smartphone App
+- Kleinste INSTAX Kamera, damit sie immer und überall dabei sein kann
 - Einzigartige Funktionen sorgen für mehr Spaß beim Fotografieren
+- Noch mehr Funktionen mit der INSTAX Pal Smartphone App
 - Eine INSTAX Kamera für 3 Sofortbildformate, direktes Drucken mit den INSTAX Link Printern
 
 [🛒 Hier!!]({{< param buyurl >}})

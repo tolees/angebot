@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Weißere Zähne: Entfernt bis zu 10x mehr Plaque und 2x mehr Verfärbungen als eine Handzahnbürste
-- C3 Premium Plaque Control: Ermöglicht Ihnen eine gründliche Reinigung
 - Lieferumfang: 1 DiamondClean 9000-Handgerät, C3 Premium Plaque Control-Bürstenkopf, Ladebasis/-glas
 - Der Lithium-Ionen-Akku ermöglicht eine Betriebszeit von bis zu 14 Tagen (komplett geladen bis leer)
+- C3 Premium Plaque Control: Ermöglicht Ihnen eine gründliche Reinigung
 - Fortschrittsbericht: Hilft Ihnen dabei, gesunde Putzgewohnheiten zu entwickeln und einzuhalten
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trefft im Spiel verschiedene Disney Figuren aus Die Eiskönigin, Monter AG, Lilo & Stitch und viele weitere wieder
-- Mit der Disney 100 Spielesammlung macht das Spielen doppelt Spaß
-- Die Spielsammlung enthält vier Spielpläne mit bekannten Mechaniken rund um die Disney-Themenwelten: Leiterspiel, Wer hat die 6?, Laufspiel, Wettrennen
-- Wir feiern 100 Jahre Disney
-- Inhalt: 4 Spielpläne, 32 Karten, 1 Spielanleitung, 16 Spielfiguren, 1 Würfel
 - Mit den Spielkarten sind zusätzlich verschiedene Kartenspiele, wie Mau Mau oder Memo, für die ganze Familie möglich
+- Inhalt: 4 Spielpläne, 32 Karten, 1 Spielanleitung, 16 Spielfiguren, 1 Würfel
+- Trefft im Spiel verschiedene Disney Figuren aus Die Eiskönigin, Monter AG, Lilo & Stitch und viele weitere wieder
+- Wir feiern 100 Jahre Disney
+- Die Spielsammlung enthält vier Spielpläne mit bekannten Mechaniken rund um die Disney-Themenwelten: Leiterspiel, Wer hat die 6?, Laufspiel, Wettrennen
+- Mit der Disney 100 Spielesammlung macht das Spielen doppelt Spaß
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C494G7WW{{</world>}}

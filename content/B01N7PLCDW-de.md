@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Handfänger mit weitenverstellbarer Handschlaufe für den sicheren Halt. Salzwasserfest
-- 2 weiche Neopren-Klettball Handfänger (Ø 17 cm), besonders haltbar durch die angenähte Klett-/Fangfläche
 - Inkl. 1 Klettball (Ø 6,25cm), alles in wiederverschliessbarer Netztasche
+- 2 weiche Neopren-Klettball Handfänger (Ø 17 cm), besonders haltbar durch die angenähte Klett-/Fangfläche
 - Die Klettfläche ist fest mit dem Neopren versteppt, kein Ausreißen der Klettfläche
 - Der beliebte Bewegungsspiel-Klassiker seit Generationen für Jung und Alt
 

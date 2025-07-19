@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Praktische Skalierung
+- Start- / Stopp-Automatik
 - Einstellbarer Fruchtfleischanteil
 - Links- und rechtsdrehender Presskegel
-- Start- / Stopp-Automatik
 - Spülmaschinengeeignet(ausgenommen Motor)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

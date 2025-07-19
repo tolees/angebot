@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Verarbeitung
 - Temperaturregeleinheit
 - Plumbing Fixture
+- Hochwertige Verarbeitung
 - Ersatzteil für 35100,35101 Neutral
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

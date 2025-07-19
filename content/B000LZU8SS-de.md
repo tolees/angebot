@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gut für alle sinnlichen Damen geeignet
 - 40 ml Eau de Parfum (EdP) Spray
 - Ein gefühlvoller Damenduft, der eine orientalische Kopfnote trägt
+- Gut für alle sinnlichen Damen geeignet
 - Duftnoten: Orientalisch, Blumig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

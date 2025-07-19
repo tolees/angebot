@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PROZESSOR: Intel Core i7-12650H (2,5 GHz mit bis zu 4,7 GHz Intel Turbo Boost Max Technology 3.0) DISPLAY: Dank dem FHD Bildschirm erleben Sie gestochen scharfe Bilder. WEBCAM: HD Webcam FESTPLATTE: 512 GB M.2 PCIe Gen4 (SSD) ARBEITSSPEICHER: 16 GB DDR5 RAM
-- ANSCHLÜSSE: 1xHDMI, DisplayPort über USB-C, Thunderbolt 4 über USB Type-C, 4xUSB 3.2 (1x Type-A Gen. 1, 2x Type-A Gen. 2 (1x Offline Charger), 1x Type-C Gen. 2), Killer LAN E2600, 1xAudio Anschluss, KABELLOS: Bluetooth 5.1, WLAN(AX)
-- LIEFERUMFANG: Acer Nitro 5, Netzteil TASTATUR: beleuchtet (RGB), Nummernblock, QWERTZ Layout | TOUCHPAD
-- AKKULAUFZEIT: Bis zu 3,5 Stunden (basierend auf MobileMark 2018 Test) AKKU: Li-Ion Akku (4 Zellen / 57,5 Wh) ANWENDUNGSBEREICH: Ideal für jede Art von Gaming dank variabler Speicher- und Grafikkartenkombinationen - egal ob Casual, Pro oder Hardcore Segment. Seine leichte und flache Bauweise machen es Ideal für den mobilen Einsatz.
 - GRAFIKKARTE: NVIDIA GeForce RTX 4060 - 8 GB GDDR6 VRAM Diese GPUs bieten ultimative Leistung für Gamer und Kreative. Sie basieren auf NVIDIAs RTX Ampere-Architektur und verfügen über neue Raytracing-Cores, Tensor-Cores und Streaming-Multiprozessoren, die einen enormen Leistungsboost garantieren. Das Notebook verwendet außerdem NVIDIA Max-Q-Technologien für maximale Leistung und Effizienz
+- LIEFERUMFANG: Acer Nitro 5, Netzteil TASTATUR: beleuchtet (RGB), Nummernblock, QWERTZ Layout | TOUCHPAD
+- ANSCHLÜSSE: 1xHDMI, DisplayPort über USB-C, Thunderbolt 4 über USB Type-C, 4xUSB 3.2 (1x Type-A Gen. 1, 2x Type-A Gen. 2 (1x Offline Charger), 1x Type-C Gen. 2), Killer LAN E2600, 1xAudio Anschluss, KABELLOS: Bluetooth 5.1, WLAN(AX)
+- AKKULAUFZEIT: Bis zu 3,5 Stunden (basierend auf MobileMark 2018 Test) AKKU: Li-Ion Akku (4 Zellen / 57,5 Wh) ANWENDUNGSBEREICH: Ideal für jede Art von Gaming dank variabler Speicher- und Grafikkartenkombinationen - egal ob Casual, Pro oder Hardcore Segment. Seine leichte und flache Bauweise machen es Ideal für den mobilen Einsatz.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5XYMS3F{{</world>}}

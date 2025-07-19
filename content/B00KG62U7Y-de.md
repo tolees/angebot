@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPIRALGEBUNDENES SKIZZENBUCH - Hergestellt aus Graukarton, bezogen mit schwarzem Wibalin-Stoff (schränkt das Verziehen ein) und spiralgebunden in Silber für eine professionelle Ästhetik. Die Ringbindung ermöglicht eine Erweiterung, so dass Sie leicht Material hinzufügen und Seiten entfernen können.
 - SÄUREFREI - Alle unsere Zeichenbücher sind 100% säurefrei. Wir verwenden ein sauerstoffhaltiges Verfahren anstelle von Bleichen, um unsere Papiere aufzuhellen und ein Vergilben im Laufe der Zeit zu verhindern, was zu einem Papier in Archivqualität führt.
-- PROFESSIONELLES A4-SKIZZENBUCH - Dieses spiralgebundene A4-Porträt-Skizzenbuch gehört zu einer Reihe von Skizzenbüchern in Profiqualität, bei denen hochwertige Materialien verwendet werden, um ein Gleichgewicht zwischen Qualität und Zweckmäßigkeit zu gewährleisten.
 - 170GSM KARTUSCHENPAPIER - Jedes Skizzenbuch enthält ein schweres 170gsm Cartridge-Papier mit ausreichender Verzahnung (Oberflächentextur) für allgemeine Kunst- und Designanwendungen und leichte Lavierungen. Bei der Verwendung von Aquarellfarben und Tinte wird sich das Papier leicht knicken.
+- SPIRALGEBUNDENES SKIZZENBUCH - Hergestellt aus Graukarton, bezogen mit schwarzem Wibalin-Stoff (schränkt das Verziehen ein) und spiralgebunden in Silber für eine professionelle Ästhetik. Die Ringbindung ermöglicht eine Erweiterung, so dass Sie leicht Material hinzufügen und Seiten entfernen können.
 - EINFACHES, ELEGANTES, FESTEM EINBAND SKIZZENBUCH - Ein schwarzer Skizzenblock, der sich perfekt zum Skizzieren und Präsentieren künstlerischer Ideen eignet, mit 96 Seiten/48 Blätter Premium-Papier, spiralgebunden im fester einband.
+- PROFESSIONELLES A4-SKIZZENBUCH - Dieses spiralgebundene A4-Porträt-Skizzenbuch gehört zu einer Reihe von Skizzenbüchern in Profiqualität, bei denen hochwertige Materialien verwendet werden, um ein Gleichgewicht zwischen Qualität und Zweckmäßigkeit zu gewährleisten.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00KG62U7Y{{</world>}}

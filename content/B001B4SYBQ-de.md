@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HP 12c Platinum
-- Hergestellt in Deutschland
-- 0
-- HP 12c Platinum
-- 0
 - Hewlett-Packard
+- Hergestellt in Deutschland
+- HP 12c Platinum
+- HP 12c Platinum
 - HP 12c Platinum
 - Hergestellt in Deutschland
+- 0
 - Hergestellt in Deutschland
+- 0
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001B4SYBQ{{</world>}}

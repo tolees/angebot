@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Doppelklinge T-Profil (für Torx)/T-Profil (für Torx) mit Bohrung: T10 - T15 - T20 - T25 - T27 - T30 - T40
+- Griffart: rutschfester 2-Komponenten-Griff
 - Klingenlänge: 300 mm
 - Wechselhandgriff mit Haltkugel
-- Griffart: rutschfester 2-Komponenten-Griff
+- Doppelklinge T-Profil (für Torx)/T-Profil (für Torx) mit Bohrung: T10 - T15 - T20 - T25 - T27 - T30 - T40
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08FDR6D2C{{</world>}}

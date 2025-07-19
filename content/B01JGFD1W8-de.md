@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einheitenanzahltyp: stück
-- Anzahl der artikel: 1
-- bourjois eyeliner slim liner feutre ultra black
 - Anzahl der einheiten: 1.0
+- bourjois eyeliner slim liner feutre ultra black
+- Anzahl der artikel: 1
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01JGFD1W8{{</world>}}

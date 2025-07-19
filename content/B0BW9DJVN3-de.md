@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastischer Bund
 - Farblich abgesetztes Band an der Seite des Beins
+- Elastischer Bund
 - Reißverschlusstaschen zur sicheren Aufbewahrung von Gegenständen
 
 [🛒 Hier!!]({{< param buyurl >}})

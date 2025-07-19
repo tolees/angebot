@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausklappbare Stativbeine für stationäre Aufnahmen
-- Eingebauter Akku für mehr als 4 Stunden Aufnahmezeit bei 5,3K/30
-- Integrierte Kameratasten für einhändige Steuerung
 - Kompatibel mit: HERO12 Black, HERO11 Black, HERO10 Black, HERO9 Black
+- Eingebauter Akku für mehr als 4 Stunden Aufnahmezeit bei 5,3K/30
 - Drahtlose Fernsteuerung der Kamera aus einer Entfernung von bis zu 30 m
+- Integrierte Kameratasten für einhändige Steuerung
+- Ausklappbare Stativbeine für stationäre Aufnahmen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09YVRTD3W{{</world>}}

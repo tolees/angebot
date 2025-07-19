@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inklusive Aufbewahrungstasche Canvas
 - Komplett Poliert Schraubenschlüssel
+- Inklusive Aufbewahrungstasche Canvas
 - Elliptisch
 
 [🛒 Hier!!]({{< param buyurl >}})

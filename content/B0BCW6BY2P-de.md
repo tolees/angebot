@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwirksame und innovative Formel mit niedrigmolekularer Hyaluronsäure, Retinol, Polyglutaminsäure und beruhigendem Panthenol.
 - Der Retinol Smoothing Toner ist ein hautglättendes Gesichtsliquid, das die Haut reinigt und pflegt. Linien und Fältchen werden sichtbar gemildert und Unebenheiten sowie Rötungen ausgeglichen - für ein makelloses, strahlendes Hautbild!
+- Hochwirksame und innovative Formel mit niedrigmolekularer Hyaluronsäure, Retinol, Polyglutaminsäure und beruhigendem Panthenol.
 - Den Gesichtstoner morgens und abends nach der Gesichtsreinigung sanft mit einem Wattepad auf dem Gesicht verteilen. Das Gesichtswasser nicht abwaschen. Danach wie gewohnt mit der Pflegeroutine fortfahren.
 - BABOR
 

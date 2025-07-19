@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 Reißverschlusstaschen an den Seiten
-- Slim Fit
-- Rippbündchen am Ärmel
 - Gesticktes PUMA Cat Logo auf dem linken Bein
+- Rippbündchen am Ärmel
+- Slim Fit
+- 2 Reißverschlusstaschen an den Seiten
 - Elastischer Bund mit innen liegendem Zugband
 
 [🛒 Hier!!]({{< param buyurl >}})

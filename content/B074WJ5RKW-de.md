@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sie können (vorhandene) Schalter bei geeigneter Verdrahtung durch Homematic oder Homematic IP Funk-Aktoren tauschen
 - Mit dem Adapter für Düwi-Schalterserien lassen sich folgende Schalterserien integrieren: Architaste, Arcada, Trend, Standard Quadro (Plus2000), EverLuxe (Forever), ProLuxe (Quadro), PrimaLuxe, Eco
+- Sie können (vorhandene) Schalter bei geeigneter Verdrahtung durch Homematic oder Homematic IP Funk-Aktoren tauschen
 - Durch Adapter für Schalterserien lassen sich Funk-Aktoren einfach sowie ohne großen Kosten- und Montageaufwand in bestehende Installationen unterschiedlicher Hersteller und Designs integrieren
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optionaler Bluetooth Adapter AK-BT1 zur Fernbedienung über eine App und zur Synchronisation
-- 32bit floating Point Aufnahme für einen großen Dynamikbereich
+- bis zu 24,5 Stunden Aufnahmezeit mit 2 AAA Batterien
 - leicht, kompakt und unauffällig
 - 32-Bit-Float-Audiorecorder mit Lavalier-Mikrofon
-- bis zu 24,5 Stunden Aufnahmezeit mit 2 AAA Batterien
 - Aufnahme auf MicroSD Karten mit bis zu 512GB
+- Optionaler Bluetooth Adapter AK-BT1 zur Fernbedienung über eine App und zur Synchronisation
+- 32bit floating Point Aufnahme für einen großen Dynamikbereich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CB6TLV5Z{{</world>}}

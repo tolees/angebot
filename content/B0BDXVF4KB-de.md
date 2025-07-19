@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nimm auch nach Sonnenuntergang atemberaubende Ultraweitwinkelaufnahmen und lebendige Fotos auf.
 - Nachhaltig und mit 3 Jahren Garantie1, inkl. 3 Betriebssystem-Upgrades und 3 Jahre lang monatliche Sicherheitsupdates2.
+- Nimm auch nach Sonnenuntergang atemberaubende Ultraweitwinkelaufnahmen und lebendige Fotos auf.
+- Beeindruckendes AMOLED-Display mit 6,43 Zoll, FHD+ und 90 Hz.
 - Unser bisher bestes PureView-Fotoerlebnis mit einer 50-MP-OIS-Kamera und KI-Technologie.
 - Das Gehäuse besteht aus 100 % recyceltem Aluminium und 65 % recyceltem Kunststoff.
-- Beeindruckendes AMOLED-Display mit 6,43 Zoll, FHD+ und 90 Hz.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BDXVF4KB{{</world>}}

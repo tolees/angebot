@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Regular
 - Vero Moda Tanya Mid Rise Skinny Jeans
 - 49% Baumwolle, 25% Polyamid, 20% Baumwolle, 3% Viskosefaser, 3% Elastane
-- Regular
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RSS377P{{</world>}}

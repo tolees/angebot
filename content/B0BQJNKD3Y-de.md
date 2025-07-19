@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastischer Bund mit Kordelzug
 - 100 prozent Baumwolle (French Terry)
+- Elastischer Bund mit Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BQJNKD3Y{{</world>}}

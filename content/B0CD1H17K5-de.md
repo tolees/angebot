@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Bausteine und Teile sind mit allen Bausätzen von MEGA und anderen Marken kompatibel
 - Mit herausnehmbarem Laufwerk und Seitenplatten, hinter denen sich ein interaktives Innenleben verbirgt
 - Dieses Set ist perfekt ab 18 Jahren geeignet und lässt Bastlerherzen beim Zusammenbauen höher schlagen
+- Die Bausteine und Teile sind mit allen Bausätzen von MEGA und anderen Marken kompatibel
 - Xbox 360 Modell zum Nachbauen (Maßstab 3:4), authentische Gestaltung mit exakten Details
 - Inklusive Konsole und Controller mit funktionierenden Lichtern plus Laufwerk, CD-ROM und Hülle
 

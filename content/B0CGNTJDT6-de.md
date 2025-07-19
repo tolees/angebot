@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- teilweise wattiert
-- atmungsaktive Zonen
-- Stretcheinsätze
-- sportive Schnittführung
 - vorgeformter Ärmel
+- atmungsaktive Zonen
+- sportive Schnittführung
+- teilweise wattiert
+- Stretcheinsätze
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CGNTJDT6{{</world>}}
