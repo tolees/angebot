@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wiser Heizkörperthermostat regelt den Heizkörper-Warmwasserdurchfluss innerhalb einer Wiser-Heizungssteuerung (Zigbee)
-- Smartes Thermostat heizt nur nach individuellem Bedarf und kann über Zeitprogramme, Heizpläne, Szenarien und clevere Dienste konfiguriert werden, um unnötiges Heizen zu vermeiden
-- Mit der intelligenten Wiser Heizkörperthermostat reduzieren Sie Ihren Energieverbrauch und können Ihre Heizung ganz einfach per Alexa, oder Google Assistant von überall steuern
-- Voraussetzung für die Funktion: Verbindung mit einem Wiser Hub und der Wiser Home App
 - Dank zusätzlicher intelligenter Heizthermostate maximieren Sie Ihren Komfort, sparen noch mehr Energie und haben jederzeit den Überblick über Ihren gesamten Energieverbrauch
+- Voraussetzung für die Funktion: Verbindung mit einem Wiser Hub und der Wiser Home App
+- Smartes Thermostat heizt nur nach individuellem Bedarf und kann über Zeitprogramme, Heizpläne, Szenarien und clevere Dienste konfiguriert werden, um unnötiges Heizen zu vermeiden
+- Wiser Heizkörperthermostat regelt den Heizkörper-Warmwasserdurchfluss innerhalb einer Wiser-Heizungssteuerung (Zigbee)
+- Mit der intelligenten Wiser Heizkörperthermostat reduzieren Sie Ihren Energieverbrauch und können Ihre Heizung ganz einfach per Alexa, oder Google Assistant von überall steuern
 - Einfache Installation: Der Merten Heizköperthermostat ist für eine einfache Installation ausgelegt, d. h. Sie können das Heizsystem Ihres Hauses ohne professionelle Installation aufrüsten.
 
 [🛒 Hier!!]({{< param buyurl >}})

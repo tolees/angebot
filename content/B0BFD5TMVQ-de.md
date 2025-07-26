@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MIPS INTEGRA_ MTB-Helm für Damen und Herren mit MIPS Brain Protection System, das Rotationsenergien aufnimmt
-- FÜRS MOUNTAINBIKING GEMACHT_ Der perfekte Mountainbike-Helm für jeden Fahrstil, von Trailriding bis Downhill. Die Polycarbonat-Schale erhöht die Strukturintegrität des Helms und erweiterte Zonen bieten mehr Schutz an den Schläfen und am Hinterkopf, mit verstellbarem Visier, 360° Anpassungssystem für eine komfortable Passform und Brillenclip
-- REFLEKTOR_ Fahrradhelm mit Recco-Reflektor, der als geeignete Suchhilfe anerkannt ist und Rettungskräften hilft, vermisste oder verletzte Personen im Gelände rasch aufspüren zu können
 - EINSTELLBARER HELMSCHIRM_ POC-Mountainbike-Helm mit einstellbarem Helmschirm, der sich hochschieben lässt, sodass die Brille/Sonnenbrille darunter verstaut werden kann
+- REFLEKTOR_ Fahrradhelm mit Recco-Reflektor, der als geeignete Suchhilfe anerkannt ist und Rettungskräften hilft, vermisste oder verletzte Personen im Gelände rasch aufspüren zu können
+- FÜRS MOUNTAINBIKING GEMACHT_ Der perfekte Mountainbike-Helm für jeden Fahrstil, von Trailriding bis Downhill. Die Polycarbonat-Schale erhöht die Strukturintegrität des Helms und erweiterte Zonen bieten mehr Schutz an den Schläfen und am Hinterkopf, mit verstellbarem Visier, 360° Anpassungssystem für eine komfortable Passform und Brillenclip
+- MIPS INTEGRA_ MTB-Helm für Damen und Herren mit MIPS Brain Protection System, das Rotationsenergien aufnimmt
 - NFC-ID_ Mountainbike-Helm für Damen und Herren mit integriertem NFC-Chip, der medizinische Daten und Kontaktinformationen speichert, sodass sie dem Rettungsteam zur Verfügung stehen
 
 [🛒 Hier!!]({{< param buyurl >}})

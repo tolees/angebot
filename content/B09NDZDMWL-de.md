@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weitere Funktionen: Seilhalterung, Eisaxt-/ Wanderstockhalterung, Trinksystemvorbereitung, seitliche Einstecktaschen, mehrere Materialschlaufen, Lastkontrollriemen, Deckelfach mit wasserdichtem Reißverschluss, seitliche Kompressionsriemen;
-- FAIR PRODUZIERT: Produkte der deutschen Marke Tatonka werden in den firmeneigenen Produktionsstätten hergestellt - fair, sozial und transparent
-- Details: Abmessungen: 62 x 31 x 16 cm // Gewicht: 1,58 kg // Volumen: 38 Liter // Rückensystem: Thermo Mold // Material: T-DIA Rip (93% Polyamid, 7% Polyethylen), CORDURA 500 den (100% Polyamid)
-- RECCO-Notfall-Reflektor: Der am Deckel angebrachte RECCO-Reflektor ermöglicht Rettungsorganisationen (z. B. Bergwacht) dich im Unglücksfall schnell orten zu können - er ist leicht, wartungsfrei und funktioniert ohne Akku und Mobilfunknetz
-- Mit speziell geformten Schultergurten, die an der Brust vorbeiführen und daher im Brustbereich nicht drücken
-- Abnehmbarer Hüftgurt: Um deinen Klettergurt bequem anlegen zu können, kannst du den Bauchgurt des Alpinrucksacks entfernen
-- Funktionaler und leichter Kletterrucksack für Damen mit 38 Liter Fassungsvermögen und direktem Zugang ins Hauptfach
-- Helmtasche: Auf der Front des Bergrucksacks befindet sich eine elastische Tasche für Helm, Seil, Jacke oder sonstige Ausrüstung
 - Hüftflosse mit Reißverschlussfach: Der Beckengurt verfügt über eine Tasche mit wasserfestem Reißverschluss, in der du Smartphone, Müsli-Riegel oder sonstige Kleinteile verstauen kannst
+- FAIR PRODUZIERT: Produkte der deutschen Marke Tatonka werden in den firmeneigenen Produktionsstätten hergestellt - fair, sozial und transparent
+- Funktionaler und leichter Kletterrucksack für Damen mit 38 Liter Fassungsvermögen und direktem Zugang ins Hauptfach
+- Abnehmbarer Hüftgurt: Um deinen Klettergurt bequem anlegen zu können, kannst du den Bauchgurt des Alpinrucksacks entfernen
 - Geeignet für Klettern und Klettersteig, mehrtägige Wanderungen, Hüttentouren, kurze Trekkingtouren mit wenig Gepäck;
+- RECCO-Notfall-Reflektor: Der am Deckel angebrachte RECCO-Reflektor ermöglicht Rettungsorganisationen (z. B. Bergwacht) dich im Unglücksfall schnell orten zu können - er ist leicht, wartungsfrei und funktioniert ohne Akku und Mobilfunknetz
+- Helmtasche: Auf der Front des Bergrucksacks befindet sich eine elastische Tasche für Helm, Seil, Jacke oder sonstige Ausrüstung
+- Mit speziell geformten Schultergurten, die an der Brust vorbeiführen und daher im Brustbereich nicht drücken
+- Weitere Funktionen: Seilhalterung, Eisaxt-/ Wanderstockhalterung, Trinksystemvorbereitung, seitliche Einstecktaschen, mehrere Materialschlaufen, Lastkontrollriemen, Deckelfach mit wasserdichtem Reißverschluss, seitliche Kompressionsriemen;
+- Details: Abmessungen: 62 x 31 x 16 cm // Gewicht: 1,58 kg // Volumen: 38 Liter // Rückensystem: Thermo Mold // Material: T-DIA Rip (93% Polyamid, 7% Polyethylen), CORDURA 500 den (100% Polyamid)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NDZDMWL{{</world>}}

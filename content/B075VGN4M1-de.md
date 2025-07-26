@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Für den geräuscharmen Betrieb ausgelegt: Der 120-mm-Lüfter ist so konzipiert, dass ein geräuscharmer Betrieb gewährleistet ist, ohne Kompromisse bei der Leistung einzugehen
-- Lieferumfang: Corsair CO-9050072-WW LL120 RGB LED 120mm Leistungsstarker PWM Lüfter 3er-Pack mit Lighting Node und Hub schwarz
 - Doppelte RGB-Lichtschleife: 16 unabhängige RGB-LEDs pro Lüfter, verteilt auf zwei separate Lichtschleifen ermöglichen nahezu endlose Anpassungsoptionen
-- Komplette PWM-Steuerung: Die Lüftergeschwindigkeit kann dynamisch zwischen 600 und 1.300 Umdrehungen pro Minute angepasst werden
 - Steuerung, Anpassung und Synchronisierung: Der im Lieferumfang enthaltene Corsair Lighting Node PRO macht fantastische Lichteffekte mit anderen unterstützten Corsair-Link-Produkten möglich
+- Lieferumfang: Corsair CO-9050072-WW LL120 RGB LED 120mm Leistungsstarker PWM Lüfter 3er-Pack mit Lighting Node und Hub schwarz
+- Komplette PWM-Steuerung: Die Lüftergeschwindigkeit kann dynamisch zwischen 600 und 1.300 Umdrehungen pro Minute angepasst werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075VGN4M1{{</world>}}

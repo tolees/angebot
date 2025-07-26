@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial: Canvas
 - Sohle: Gummi
 - Verschluss: Schnürung
-- Obermaterial: Canvas
-- Innenmaterial: Textil
 - Absatzform: Flach
+- Innenmaterial: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B098FDSCMW{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Besteht zu mindestens 20 % aus recycelten Materialien
-- Obermaterial aus Textil
 - Textilfutter
 - Cloudfoam Zwischensohle
 - Reguläre Passform
 - Synthetik-Außensohle
 - Textilfutter
+- Obermaterial aus Textil
+- Besteht zu mindestens 20 % aus recycelten Materialien
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKY17S3C{{</world>}}

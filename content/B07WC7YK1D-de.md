@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Herren Sportjacke
+- Hat schräge Seitentaschen
 - Es hat das Logo der Marke auf der Brust
 - Mit Technologie Nike Dri-FIT zur Entfernung von Schweiß von der Haut und zur schnellen Verdunstung
-- Hat schräge Seitentaschen
-- Herren Sportjacke
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07WC7YK1D{{</world>}}

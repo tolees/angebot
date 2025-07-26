@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Extremely portable, fits in any bag or pocket
-- Compatible with Apple iPad 1, iPad 2, Kindle Fire, Kindle Touch, Kindle e-Reader and other tablets and e-Readers with or without a case or sleeve
-- Compatible with Apple iPad 1, iPad 2, Kindle Fire, Kindle Touch, Kindle e-Reader and other tablets and e-Readers with or without a case or sleeve
 - Perfect for Tabletop, Air plane seat trays or any flat surface
-- Position your device in multiple angles in landscape or portrait view
 - Non skid base design keeps the stand secure on flat surfaces
+- Compatible with Apple iPad 1, iPad 2, Kindle Fire, Kindle Touch, Kindle e-Reader and other tablets and e-Readers with or without a case or sleeve
+- Compatible with Apple iPad 1, iPad 2, Kindle Fire, Kindle Touch, Kindle e-Reader and other tablets and e-Readers with or without a case or sleeve
+- Position your device in multiple angles in landscape or portrait view
+- Extremely portable, fits in any bag or pocket
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006ZT4VA0{{</world>}}

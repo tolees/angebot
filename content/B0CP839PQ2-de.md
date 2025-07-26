@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Farbe: grau
-- Marke: Samsung
 - Samsung
+- Marke: Samsung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CP839PQ2{{</world>}}

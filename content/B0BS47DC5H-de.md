@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Ethylen-Vinylacetat
 - Verschluss: Klettverschluss
 - Innenmaterial: Synthetik
 - Absatzform: Flach
+- Sohle: Ethylen-Vinylacetat
 - Obermaterial: Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})

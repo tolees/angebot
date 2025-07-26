@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BASIC – zeitloses und minimalistisches Design, ein Klassiker in der Modewelt, ein vielseitig kombinierbarer für Ihren Everyday-Sunny-Look
-- PASSFORM – Lockerer Regular-Fit-Schnitt, der perfekt Ihre Silhouette mit Rundhalsausschnitt und seitlichen Schlitzen in Szene setzt
 - Mit Zipper am oberen Rücken
+- PASSFORM – Lockerer Regular-Fit-Schnitt, der perfekt Ihre Silhouette mit Rundhalsausschnitt und seitlichen Schlitzen in Szene setzt
+- BASIC – zeitloses und minimalistisches Design, ein Klassiker in der Modewelt, ein vielseitig kombinierbarer für Ihren Everyday-Sunny-Look
 - KOMFORT – Das Kurzarm-Blouse-Oberteil überzeugt durch hochwertige Verarbeitung, Passend zu all Ihren Streetwear- oder Business-Outfits in diesem bedruckten Design mit detailreichem
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Notebookfach von oben und seitlich zugänglich
-- OSRAM-ready Produkt – kann mit dem LED Lichtleiter-Set ergänzt werden
-- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
 - Notebookfach für 13,3
+- Klimaneutral: Die Emissionen aus Materialien, Herstellungsprozess und Versand wurden ganzheitlich ermittelt und systematisch reduziert. Aktuell nicht vermeidbare Emissionen wurden vollständig über die unabhängige Non-Profit-Organisation „myclimate“ kompensiert
+- OSRAM-ready Produkt – kann mit dem LED Lichtleiter-Set ergänzt werden
 - Handytasche
 - Wickelverschluss für schnellen Zugriff
 

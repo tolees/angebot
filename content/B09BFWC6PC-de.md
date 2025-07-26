@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Funktionen: Vorwärts / rückwärts über Fernsteuerung, vorwärts / rückwärts über Schalter an Antriebseinheit, freifahrend, Schaufel heben / senken, Dachluke öffnen / schließen
-- 2,4 GHz für Mehrspielerbetrieb, Akkuschrauber mit Rutschkupplung, kein Überdrehen der Schrauben, aus robustem Kunststoff, Gummibereifung, großer Bauspaß ohne Kraftaufwand
-- Lieferumfang: Modell besteht aus 27 Teilen, Antriebseinheit, Schraubendreher mit wechselbaren Einsatz, Fernsteuerung, Anleitung
 - Erforderliches Zubehör: 4 x AA-Batterien 1,5V
 - Fördert die Feinmotorik und technisches Verständnis, Schraubendreher mit wechselbarem Einsatz, Antriebseinheit für Akkuschrauber oder Modell, ohne Antriebseinheit wird Akkuschrauber zur Fernsteuerung
+- Lieferumfang: Modell besteht aus 27 Teilen, Antriebseinheit, Schraubendreher mit wechselbaren Einsatz, Fernsteuerung, Anleitung
+- 2,4 GHz für Mehrspielerbetrieb, Akkuschrauber mit Rutschkupplung, kein Überdrehen der Schrauben, aus robustem Kunststoff, Gummibereifung, großer Bauspaß ohne Kraftaufwand
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BFWC6PC{{</world>}}

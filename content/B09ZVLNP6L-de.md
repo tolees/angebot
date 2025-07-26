@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Slip On
-- Obermaterial: Stoff
 - Sohle: Ethylen-Vinylacetat
+- Obermaterial: Stoff
+- Verschluss: Slip On
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVLNP6L{{</world>}}

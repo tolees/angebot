@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Infinity Ward lässt die Fans in ein atemberaubendes, hochmodernes Next-Gen-Gameplay eintauchen. Kämpfe an der Seite von Freunden!
+- Von kleinen, riskanten Infiltrationstaktiken bis hin zu streng geheimen Missionen muss man neue Waffen, Fahrzeuge und hochmoderne Ausrüstung einsetzen
 - Schließ dich mit anderen zusammen und kämpfe an der Seite von Sonderkommando 141 in einer weltumspannenden Einzelspielerkampagne
 - Ein wahrhaft fesselndes Erlebnis mit Sound, Beleuchtung und Grafik, die so realistisch sind - das fortschrittlichste Call of Duty aller Zeiten
-- Von kleinen, riskanten Infiltrationstaktiken bis hin zu streng geheimen Missionen muss man neue Waffen, Fahrzeuge und hochmoderne Ausrüstung einsetzen
+- Infinity Ward lässt die Fans in ein atemberaubendes, hochmodernes Next-Gen-Gameplay eintauchen. Kämpfe an der Seite von Freunden!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B3MNZVY9{{</world>}}

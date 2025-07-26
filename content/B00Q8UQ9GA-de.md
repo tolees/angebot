@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Material: Metall und Kunsstoff
-- Gewicht: 16 g; Abmessungen: 64 x 18 x 11 mm
 - Lieferumfang: Intenso Basic Line USB-Stick silber-schwarz
-- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
 - Hochwertiger USB-Speicherstick mit Klappmechanismus
+- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
+- Gewicht: 16 g; Abmessungen: 64 x 18 x 11 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00Q8UQ9GA{{</world>}}

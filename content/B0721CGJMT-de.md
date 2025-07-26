@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Mega-Track-Pack enthält Verbindungsstücke und gerade Trackteile in zwei verschiedenen Längen, die insgesamt ca. 12 Meter orangenen Track ergeben!
-- Enthält ein Hot-Wheels-Fahrzeug.
 - Toll in Kombination mit vorhandenen Track-Builder-Sets (separat erhältlich).
+- Enthält ein Hot-Wheels-Fahrzeug.
 - Tolles Pack mit vielen Trackteilen und Verbindungsstücken sowie einem Hot-Wheels-Fahrzeug, das die Freude an individueller Gestaltung, Fantasie und am Bauen weckt!
+- Das Mega-Track-Pack enthält Verbindungsstücke und gerade Trackteile in zwei verschiedenen Längen, die insgesamt ca. 12 Meter orangenen Track ergeben!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0721CGJMT{{</world>}}

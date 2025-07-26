@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Ziel dieser epischen Reise? Die Antwort auf die größte Frage der Menschheit
 - Erstellen Sie einen Charakter ganz nach Ihrer Vorstellung und erkunden Sie in beispielloser Freiheit die endlosen Weiten
 - Enthält: Starfield Standard-Edition (Disc)
 - In diesem Next-Gen-RPG von den preisgekrönten Machern von The Elder Scrolls V: Skyrim und Fallout 4 reisen Sie zu den Sternen
+- Das Ziel dieser epischen Reise? Die Antwort auf die größte Frage der Menschheit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C7PKDZBP{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- NUTZUNG: Das Licht-Set wird benutzt um den Architecture Paris (Lego Set NICHT enthalten).
 - PRODUKTEIGENSCHAFTEN: das Licht ist aus original teilen handgemacht. Es enthält 1 USB Licht-Set, Batteriefach und Anleitung. Einfach einstecken, und Ihre Bausteine leuchten dank unserem wundervollen Design!
 - ÜBER UNS: Wir sind spezialisiert auf maßgefertigte Licht-Sets, und möchten unseren Kunden gute Produkten und Service liefern. Machen Sie Ihre Kreationen einzigartig, nutzen Sie Ihre Vorstellungskraft und Kreativität. Lassen Sie uns Ihre Bausteine erleuchten und ihnen neues Leben einhauchen. Wenn Sie irgendwelche Probleme haben, teilen Sie uns diese bitte mit. Viel Spaß beim Einkaufen!
-- TIPPS: Zur Stromversorgung dienen drei AA Batterien oder USB-Ladekabel, Spannung sollte unter 5V liegen, um Überhitzen und Brand zu vermeiden.
 - INSTALLATIONS-ANWEISUNG: Bringen Sie die Lichter nach Ihren Vorstellungen an. Bitte die LED-Lichter vorsichtig anbringen, nicht fest ziehen, nicht verbiegen oder schütteln.
-- NUTZUNG: Das Licht-Set wird benutzt um den Architecture Paris (Lego Set NICHT enthalten).
+- TIPPS: Zur Stromversorgung dienen drei AA Batterien oder USB-Ladekabel, Spannung sollte unter 5V liegen, um Überhitzen und Brand zu vermeiden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07TD4R22P{{</world>}}

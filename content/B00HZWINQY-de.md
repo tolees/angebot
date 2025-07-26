@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verbindet Ihren SNES/SFC oder NES/FC-Controller mit Ihrem PC USB oder PS3
-- Eingebaute Turbo-Funktion
 - Funktioniert mit PS3, einfach einstecken und loslegen
-- Kein Treiber erforderlich, geeignet für Desktop- und Notebook-PCs
+- Verbindet Ihren SNES/SFC oder NES/FC-Controller mit Ihrem PC USB oder PS3
 - Kompatibel mit Windows XP, Vista und Windows 7, Windows 8, 32 Bit und 64 Bit
+- Kein Treiber erforderlich, geeignet für Desktop- und Notebook-PCs
+- Eingebaute Turbo-Funktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00HZWINQY{{</world>}}

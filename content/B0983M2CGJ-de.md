@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial ohne Nähte bietet einen klaren Look
-- 100% Polyester
 - Das Textilobermaterial ist flexibel und atmungsaktiv
+- 100% Polyester
 - Die eingespritzte Unitsohle sorgt für ultraleichte Dämpfung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

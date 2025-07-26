@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sofortiges Dimmen: Nicht nur als Lichtschalter, auch als abnehmbare Fernbedienung kann die Smart Switch überall in Ihrem Zuhause genutzt werden
-- Smarte Erweiterung: Zusammen mit der separat erhältlichen Hue Bridge Steuerungszentrale lassen sich über den LED-Dimmer mehr als 10 Leuchten im ganzen Haus steuern.
-- Kabellose Lichtsteuerung: Mit dem Hue Dimmschalter genießen Sie komfortables und stufenloses Dimmen Ihrer smarten Leuchten, ganz ohne Installation
 - Individuelle Platzierung: An magnetischen Oberflächen, mit Schrauben oder dem mitgelieferten Klebeband kann der Hue Schalter an jeder beliebigen Stelle platziert werden
+- Sofortiges Dimmen: Nicht nur als Lichtschalter, auch als abnehmbare Fernbedienung kann die Smart Switch überall in Ihrem Zuhause genutzt werden
+- Kabellose Lichtsteuerung: Mit dem Hue Dimmschalter genießen Sie komfortables und stufenloses Dimmen Ihrer smarten Leuchten, ganz ohne Installation
+- Smarte Erweiterung: Zusammen mit der separat erhältlichen Hue Bridge Steuerungszentrale lassen sich über den LED-Dimmer mehr als 10 Leuchten im ganzen Haus steuern.
 - Großer Aktionsradius: Der Smart Lichtschalter hat eine Reichweite von 12 Metern und ermöglicht die gleichzeitige Steuerung von bis zu 10 Lampen - für bestes Licht mit nur einem Klick
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

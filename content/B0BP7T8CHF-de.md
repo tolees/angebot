@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
 - Bringt Ihnen einen zusätzlichen Komfort
+- Langlebig
 - Hochwertige Material
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- bekämpft Zahnbelag
-- Frei von Konservierungsstoffen und Fluor
 - schützt vor Karies
+- Frei von Konservierungsstoffen und Fluor
+- bekämpft Zahnbelag
 - erfrischt den Atem
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 

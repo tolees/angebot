@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Retro-Stil
 - Widerstandsfestes Gummi -Sohle
+- Retro-Stil
 - Basketball Schuhe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

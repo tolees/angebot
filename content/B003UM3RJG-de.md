@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Edelstahl-Röhrchenspitze für die höchste Präzision und eine extrem lange Lebensdauer
 - Geeignet für eine Vielzahl von Oberflächen wie Zeichenkarton, Transparent- und Zeichenpapier
 - Inhalt: 3x isograph Tuschefüller, 1x Tikky burgundy 0,5, 4x Tusche-Patronen
+- Edelstahl-Röhrchenspitze für die höchste Präzision und eine extrem lange Lebensdauer
 - Der isograph ermöglicht die Ausführung kleinster Details mit unübertroffener Präzision
 - Eine innovative Steckhülse für einen einfachen Zugang zur Tuschewendel ermöglicht eine schnelle Zwischenreinigung; Nachfüllbarer Tuschetank
 

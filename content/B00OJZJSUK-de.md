@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sohle: Rubber
+- Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
 - not_water_resistant
-- Absatzform: Flat
-- Obermaterial: Smooth Leather
 - Absatzhöhe: 3.5 centimeters
-- Lining: Kalt gefüttert
+- Absatzform: Flat
 - Verschluss: Lace-up
 - 13 centimeters13 centimeters
-- Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
-- Sohle: Rubber
+- Obermaterial: Smooth Leather
+- Lining: Kalt gefüttert
 - Innenmaterial: Canvas
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hergestellt mit Basilikum aus nachhaltigem Anbau nach dem ISCC PLUS Nachhaltigkeitsprogramm
 - Rezeptidee: Koche die Pasta nach Packungsanweisung. Etwas Olivenöl in eine Pfanne geben, die Spaghetti hineingeben, dann das Pesto und 1 Teelöffel des Kochwassers. Mische das Pesto unter die Nudeln und füge etwas mehr Wasser hinzu, damit das Pesto an den Nudeln haftet und eine seidige Sauce entsteht. Verwende ca. 50 g Pesto für 100 g getrocknete Nudeln
-- Unser Barilla Pesto alla Genovese wird mit 100 Percentage italienischem Basilikum und Parmigiano Reggiano DOP hergestellt
-- Barilla Pesto alla Genovese ist glutenfrei und wird mit den frischesten Zutaten hergestellt, um dir den wahren Geschmack der italienischen Küche zu bieten. So kannst du die Freude an der italienischen Küche mit deinen Liebsten teilen
+- Hergestellt mit Basilikum aus nachhaltigem Anbau nach dem ISCC PLUS Nachhaltigkeitsprogramm
 - Die leckere Lösung für jede Gelegenheit und eine vielseitige Ergänzung zu jeder Mahlzeit mit einem Geschmack, den jeder liebt
+- Barilla Pesto alla Genovese ist glutenfrei und wird mit den frischesten Zutaten hergestellt, um dir den wahren Geschmack der italienischen Küche zu bieten. So kannst du die Freude an der italienischen Küche mit deinen Liebsten teilen
+- Unser Barilla Pesto alla Genovese wird mit 100 Percentage italienischem Basilikum und Parmigiano Reggiano DOP hergestellt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09V1NY66L{{</world>}}

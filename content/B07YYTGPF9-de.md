@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Schnitttiefenbegrenzung zur Herstellung von Zapfen, Kerfen und Nuten
-- Millimetergenaue Schnitte durch LED-unterstützte Schnittlinienanzeige (XPS)
-- Lieferumfang: 1x Paneelsäge, 1x 24 Zahn HM-Sägeblatt, 1x Staubfangsack, Werkstückklemme
-- Neigungs- und Gehrungswinkel stufenlos oder über Fixrasten bei Standardwinkeln schnell und präzise einstellbar
 - Optimal geeignet für die Montage durch kompakte Abmessungen und geringes Gewicht, AirLock kompatibel
+- Lieferumfang: 1x Paneelsäge, 1x 24 Zahn HM-Sägeblatt, 1x Staubfangsack, Werkstückklemme
+- Mit Schnitttiefenbegrenzung zur Herstellung von Zapfen, Kerfen und Nuten
+- Neigungs- und Gehrungswinkel stufenlos oder über Fixrasten bei Standardwinkeln schnell und präzise einstellbar
+- Millimetergenaue Schnitte durch LED-unterstützte Schnittlinienanzeige (XPS)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07YYTGPF9{{</world>}}

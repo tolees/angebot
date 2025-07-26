@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Spiele aus der Reihe die Flotten Kleinen können schnell gespielt werden, sind einfach zu verstehen und ideal für unterwegs. Sie können super auf eine Party, den Spieleabend oder die nächste Reise mitgenommen werden
-- In diesem Rollenpiel schlüpfen die 3-10 Spieler in geheime Rolle aus dem Harry Potter-Universum und versuchen ihrem Team zum Sieg zu verhelfen! Egal ob Todesser, Zauberer, Hexe oder Hogwarts Schüler Nur wer die Mitspieler durchschaut und sich selbst nicht erwischen lässt, hat Chancen auf den Sieg
+- Bei diesem Gemeinschaftsspiel tauchen die Spieler in eine Welt voller Magie. Für alle Liebhaber der Harry Potter Bücher und Filme das perfekte Geschenk oder Mitbringsel zu jedem Anlass
 - Die Harry Potter Fans erwartet zusätzlich eine kostenlose Spielleiter-App, die die einzelnen Rollen und Fähigkeiten vorliest und somit für noch mehr spannende Atomsphäre am Spieltisch sorgt.
 - Zuerst schließen alle ihre Augen, dann wachen die Spieler nacheinander auf und führen ihre magischen Zauberkräfte aus. Anschließend wird diskutiert, wer die unliebsamen Todesser in dieser Spielrunde sind
-- Bei diesem Gemeinschaftsspiel tauchen die Spieler in eine Welt voller Magie. Für alle Liebhaber der Harry Potter Bücher und Filme das perfekte Geschenk oder Mitbringsel zu jedem Anlass
+- In diesem Rollenpiel schlüpfen die 3-10 Spieler in geheime Rolle aus dem Harry Potter-Universum und versuchen ihrem Team zum Sieg zu verhelfen! Egal ob Todesser, Zauberer, Hexe oder Hogwarts Schüler Nur wer die Mitspieler durchschaut und sich selbst nicht erwischen lässt, hat Chancen auf den Sieg
+- Die Spiele aus der Reihe die Flotten Kleinen können schnell gespielt werden, sind einfach zu verstehen und ideal für unterwegs. Sie können super auf eine Party, den Spieleabend oder die nächste Reise mitgenommen werden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09T3RDN1P{{</world>}}

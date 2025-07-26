@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SWITCHES DER NÄCHSTEN GENERATION - Die Golden Micro IP54-Switches halten ein ganzes Mausleben und darüber hinaus. Sie bieten ein präzises Klickverhalten und sind zusätzlich staub- und wasserdicht
+- BRILLANTE RGB-BELEUCHTUNG - Die PrismSync RGB-Beleuchtung mit 3 Zonen strahlt in 16,8 Millionen individuell konfigurierbaren Farben
 - AQUABARRIER - Das Innenleben der Maus ist dank der Schutzklasse IP 54 vor Spritzern, Staub und Schmutz geschützt
 - TURNIERERPROBTES DESIGN - Jedes Bauteil wurde sorgfältig für geringes Gewicht, maximalen Komfort und höchste Langlebigkeit entwickelt
 - FEDERLEICHTES GEWICHT - Die spezielle Oberfläche mit taktisch platzierten Öffnungen reduziert das Gewicht auf gerade einmal 59 g und ermöglicht somit blitzschnelles Gameplay
-- BRILLANTE RGB-BELEUCHTUNG - Die PrismSync RGB-Beleuchtung mit 3 Zonen strahlt in 16,8 Millionen individuell konfigurierbaren Farben
+- SWITCHES DER NÄCHSTEN GENERATION - Die Golden Micro IP54-Switches halten ein ganzes Mausleben und darüber hinaus. Sie bieten ein präzises Klickverhalten und sind zusätzlich staub- und wasserdicht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0966VYKG3{{</world>}}

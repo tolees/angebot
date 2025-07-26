@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sohle: Gummi
 - Obermaterial: Synthetik, 100 Prozent synthetisches Polyester
 - Verschluss: Pull-on, Schnürung
 - Innenmaterial: 80 Prozent Textil-Mesh-Polyester, 20 Prozent synthetische Mikrofaser
-- Sohle: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B2936BRS{{</world>}}

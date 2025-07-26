@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Installationswerkzeuge inklusive
-- Kompatibel mit MacBook Air 11” (Ende 2010 - Mitte 2011) und MacBook Air 13” (Ende 2010 – Mitte 2011)
 - Bis zu 570 MB/s Lesen; 460 MB/s Schreiben
-- Kostenloser Download der JetDrive Toolbox Software
+- Installationswerkzeuge inklusive
 - SATA III 6Gb/s Schnittstelle
+- Kostenloser Download der JetDrive Toolbox Software
+- Kompatibel mit MacBook Air 11” (Ende 2010 - Mitte 2011) und MacBook Air 13” (Ende 2010 – Mitte 2011)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JKCHMLE{{</world>}}

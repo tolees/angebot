@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hibiskus und feige
 - Fruchtig-floraler duft
+- Kommt von herzen
 - Warmes lila im badewasser
 - Ein bad für ganz besondere menschen
-- Hibiskus und feige
-- Kommt von herzen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CL6PL97F{{</world>}}

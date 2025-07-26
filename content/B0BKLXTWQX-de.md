@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Temperatur im Blick: Thermostat zeigt aktuelle Raumtemperatur, Heiz-Status und relative Luftfeuchtigkeit auf LED-Matrix-Display
 - Maximaler Mehrwert im System: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller erforderlich
+- Temperatur im Blick: Thermostat zeigt aktuelle Raumtemperatur, Heiz-Status und relative Luftfeuchtigkeit auf LED-Matrix-Display
+- Komfortable Steuerung: Wärmeregulierung direkt am Gerät über Dreh- und Druckknopf oder in der App aus der Ferne
 - Präzise Wärmeregulierung: Steuert smarte Heizkörperthermostate im Raum, sodass Wunschtemperatur am Ort des Raumthermostats erreicht wird
 - Lieferumfang: 1x Raumthermostat II, 4x AAA-Batterien, 1x Set Wandmontage, 1x Aufstellbügel, Quickstart Guide (11 Sprachen)
-- Komfortable Steuerung: Wärmeregulierung direkt am Gerät über Dreh- und Druckknopf oder in der App aus der Ferne
 - Flexible Nutzung: Raumthermostat kann kabellos dank Aufstellbügel überall im Raum platziert, oder über Montage als Wandthermostat genutzt werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

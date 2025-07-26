@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Smart Energy Saving Funktion, Lesemodus & Flicker Safe, 3-seitiges, nahezu randloses Design
-- Anschlüsse: 2 x HDMI, 1 x DisplayPort 1.4 und Kopfhöreraufgang
 - Lieferumfang: Netzkabel, HDMI-Kabel, DisplayPort-Kabel
 - 34 Zoll (86,42cm) 21:9 Curved (1.800 R) UltraWide QHD (3.440x1.440) Bildschirm
 - 300cd/m2 Spitzenhelligkeit, sRGB 99% Farbraum mit HDR10, Picture By Picture-Funktion, OnScreen-Steuerung, AMD FreeSync, DAS und Black Stabilize
+- Anschlüsse: 2 x HDMI, 1 x DisplayPort 1.4 und Kopfhöreraufgang
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C6295RWB{{</world>}}

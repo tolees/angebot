@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tragbar und Multifunktion
-- Einfacheres Auftragen und weniger Abfall
 - Clinique
+- Einfacheres Auftragen und weniger Abfall
+- Tragbar und Multifunktion
 - Packung die Größe: 2.0 L x 11.2 H x 2.0 W (cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

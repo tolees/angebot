@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Artikelname: Tokyo Tapes
 - Produktty: ABIS MUSIC
+- Artikelname: Tokyo Tapes
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07D58DDDK{{</world>}}

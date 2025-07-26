@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elementanzeigevolumen: 250.0 milliliter
-- Intensive, reparierende Pflegemaske für trockenes Haar
-- Einheitenanzahltyp: milliliter
 - Anzahl der einheiten: 250.0
+- Elementanzeigevolumen: 250.0 milliliter
+- Einheitenanzahltyp: milliliter
+- Intensive, reparierende Pflegemaske für trockenes Haar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0918D9TWM{{</world>}}

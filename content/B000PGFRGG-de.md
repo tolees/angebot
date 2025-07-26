@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tonähnlich, kein Brennvorgang notwendig - sofort gebrauchsfähig
-- Lieferumfang: FIMO air lufttrocknende Modelliermasse 1000g, blassrosa
-- Von unabhängigen Toxikologen getestet; mindestens 95% natürliche Rohstoffe
 - Ideal für Kunst, Freizeit und Hobby sowie für pädagogische Zwecke in Schulen, Kindergärten und ähnlichen Einrichtungen
+- Von unabhängigen Toxikologen getestet; mindestens 95% natürliche Rohstoffe
+- Lieferumfang: FIMO air lufttrocknende Modelliermasse 1000g, blassrosa
+- Tonähnlich, kein Brennvorgang notwendig - sofort gebrauchsfähig
 - Angenehme Haptik, klebt nicht, geschmeidige Konsistenz; ausgehärtete Modelle können nachbearbeitet werden (feilen, schleifen, bohren, bemalen, lackieren)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

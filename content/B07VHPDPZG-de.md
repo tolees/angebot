@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kompaktes Mikrofon (Länge von ca. 9,3 cm) mit Super-Richtcharakteristik
-- Packung die Größe: 6.3 L x 14.8 H x 13.4 W (cm)
-- Über den Multi Interface Shoe der ILCE-7RM4 mit integrierter Digital-Audio-Schnittstelle wird der Ton digital direkt an die Kamera übertragen, um höchste Qualität ohne Rauschen oder Verluste zu erreichen
 - Acht hochleistungsfähige Mikrofonkapseln und fortschrittlich, digitale Signalverarbeitung mit drei auswählbaren Richtungsmustern
+- Über den Multi Interface Shoe der ILCE-7RM4 mit integrierter Digital-Audio-Schnittstelle wird der Ton digital direkt an die Kamera übertragen, um höchste Qualität ohne Rauschen oder Verluste zu erreichen
+- Packung die Größe: 6.3 L x 14.8 H x 13.4 W (cm)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VHPDPZG{{</world>}}

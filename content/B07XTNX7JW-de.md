@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Stabilisiert den Tränenfilm und schützt die Augenoberfläche vor erneuter Austrocknung
 - Mit mehr als 300 Tropfen pro Flasche äußerst ergiebig und bis zu 6 Monate nach Anbruch haltbar
 - Sanft zum Auge, da frei von Phosphaten und Konservierungsmitteln
-- Stabilisiert den Tränenfilm und schützt die Augenoberfläche vor erneuter Austrocknung
 - Intensive Befeuchtung und langanhaltende Linderung entzündlicher Symptome
 - Unterstützt die körpereigene Barrierefunktion gegen entzündliche Reize
 

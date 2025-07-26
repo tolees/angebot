@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
-- Absatzhöhe: 3.5 cm
-- Obermaterial: Smooth Leder
-- Verschluss: Bungee
 - Innenmaterial: Textil
+- Absatzhöhe: 3.5 cm
+- Verschluss: Bungee
+- Sohle: Gummi
+- Obermaterial: Smooth Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VHKJ1RY{{</world>}}

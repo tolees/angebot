@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DETAIL 3: "Remove Before Flight" Tape und Logolabel
-- PASSFORM: Regular Fit
 - Sweatshirt für Herren
-- DETAIL 1: Gebürstetes Fleece
+- DETAIL 3: "Remove Before Flight" Tape und Logolabel
 - DETAIL 2: Mit Frontprint
+- DETAIL 1: Gebürstetes Fleece
+- PASSFORM: Regular Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B074FW3DY2{{</world>}}

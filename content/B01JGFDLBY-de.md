@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einheitenanzahltyp: stück
 - bourjois mascara volume reveal
+- Einheitenanzahltyp: stück
 - Anzahl der einheiten: 1.0
 - Anzahl der artikel: 1
 

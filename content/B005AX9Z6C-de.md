@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- RECYCLED
 - CUSHIONING
+- RECYCLED
 - EXTRA WARM
 - GOOD GRIP
 

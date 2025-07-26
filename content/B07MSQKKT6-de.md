@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x PowerGear Blechschere - Gerader Schnitt, Länge: 25,2 cm, Gewicht: 360 g, Material: Stahl/Kunststoff, Farbe: Schwarz/Orange, 1027207
-- SoftGrip Griff mit rutschfester Oberfläche für einen sicheren Halt, Schneidet bis zu 18er kaltgewalzten Stahl oder 22er Edelstahl, Schnittlänge 1 1/2“ (3,8 cm)
 - Ausgestattet mit dem patentierten PowerGear Getriebemechanismus für 40 % mehr Kraft, Geschmiedete und wärmebehandelte Stahlkonstruktion für eine lange Lebensdauer
+- Lieferumfang: 1x PowerGear Blechschere - Gerader Schnitt, Länge: 25,2 cm, Gewicht: 360 g, Material: Stahl/Kunststoff, Farbe: Schwarz/Orange, 1027207
 - Blechschere zum Schneiden einer Vielzahl robuster Materialien, wie z. B. Blech, Leerrohre, Gipskartonecken, Metallstreben, Verkleidungen, Laibungen, Blenden, Tropfkanten oder Dachrinnen
+- SoftGrip Griff mit rutschfester Oberfläche für einen sicheren Halt, Schneidet bis zu 18er kaltgewalzten Stahl oder 22er Edelstahl, Schnittlänge 1 1/2“ (3,8 cm)
 - EasyAction Griff öffnet sich automatisch, um Ermüdung entgegenzuwirken, Begrenzter Grifföffnungswinkel verhindert Überstreckung ohne die Schnittlänge zu beeinträchtigen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

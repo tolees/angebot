@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- keramische Dichtscheiben
+- mit flexiblen Anschlussschläuchen
 - mit schwenkbaren 360° Auslauf
 - Edelstahlarmatur
 - doppelter Rückflussverhinderer
-- keramische Dichtscheiben
-- mit flexiblen Anschlussschläuchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003WA9A4M{{</world>}}

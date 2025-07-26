@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Knarrenkopf: 72 | Länge: 605 mm | Griffart: 2-Komponenten-Griff | Drehmoment max.: 784 Nm | Material: Chrom-Vanadium-Stahl | Oberflächenvergütung: verchromt, matt
+- Abtriebsprofil: Außenvierkant | Abtriebsprofilgröße, imperial: 1/2" | Abtriebsprofilgröße, metrisch: 12,5 mm | Anzahl Zähne
 - Geringer Kraftaufwand durch längeren Hebel | ideal geeignet für schwer zugängliche Arbeitsbereiche
-- Gerade Ausführung | feinverzahnt mit 72 Zähnen
 - Mit Einsatz-Schnelllöser und Kugelarretierung
 - Einfach umschaltbar durch eingelegten Umschalthebel
-- Abtriebsprofil: Außenvierkant | Abtriebsprofilgröße, imperial: 1/2" | Abtriebsprofilgröße, metrisch: 12,5 mm | Anzahl Zähne
+- Gerade Ausführung | feinverzahnt mit 72 Zähnen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BWK3CYZ3{{</world>}}

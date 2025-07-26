@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal tragbar
-- Zuverlässiger Anschluss
 - Bereit für Anrufe
+- Zuverlässiger Anschluss
+- Ideal tragbar
 - Kurzanleitung
 
 [🛒 Hier!!]({{< param buyurl >}})

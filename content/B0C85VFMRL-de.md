@@ -30,10 +30,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Wechsele zwischen den zwei spielbaren Spider-Men Peter Parker und Miles Morales hin und her, während du Marvels New York erkundest
 - Setze Peter Parkers neue Symbiontenfähigkeiten und Miles Morales’ explosive bioelektrische Venom-Kräfte ein
-- Spüre die wahre Kraft von Spider-Man in den Händen – dank hochimmersiver adaptiver Trigger und haptischem Feedback
-- Entdecke die erweiterte offene Welt von Marvels New York mit neuen Umgebungen und Orten
-- Erlebe eine brandneue Einzelspieler-Story in Marvel’s Spider-Man
 - Kämpfe gegen eine ganze Galerie aus Marvel-Superschurken, darunter Lizard, Kraven der Jäger, eine Neuinterpretation von Venom und viele mehr!
+- Spüre die wahre Kraft von Spider-Man in den Händen – dank hochimmersiver adaptiver Trigger und haptischem Feedback
+- Erlebe eine brandneue Einzelspieler-Story in Marvel’s Spider-Man
+- Entdecke die erweiterte offene Welt von Marvels New York mit neuen Umgebungen und Orten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C85VFMRL{{</world>}}

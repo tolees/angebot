@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Warme Kunstfaser-Wattierung
-- Wasserdicht, winddich
-- Kapuzenjacke
-- Mit recycelten Materialien
 - Bluesign-zertifiziert
+- Wasserdicht, winddich
+- Mit recycelten Materialien
+- Kapuzenjacke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C6Y9W8DS{{</world>}}

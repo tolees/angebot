@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1-Knopfmanschetten
 - durchgehende Knopfleiste
 - gestickte Logo-Artworks vorne, hinten und auf dem Ärmel
 - eine geknöpfte Brusttasche
+- 1-Knopfmanschetten
 - leger geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})

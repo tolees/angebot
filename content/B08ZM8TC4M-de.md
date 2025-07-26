@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 1 x VTech Marble Rush - Ultimate Set XL100 E / Deutsche Version / Alter: 12 Jahre / 2 x AA & 3 x AAA Demobatterien / inklusive diverse Aufbauanleitungen / Art. Nr.: 80-542349
-- Die rasanten Rennen können beginnen: Die interaktive Schaltung mit 135 Bauteilen, einem Motormodul, einem Sound- und Lichtmodul und 10 MarBall (Bälle) sorgt für jede Menge Spielspaß
-- Das motorisierte Riesenrad nimmt die Kugeln auf und befördert sie auf eine höhere Ebene. Der Trichter reagiert auf die einrollenden Kugeln mit lustigen Geräuschen und Lichteffekten
 - Zahlreiche interaktive Flugbahnelemente wie Werfer, Kanonen oder Geheimgänge und die unzähligen Baumöglichkeiten (inkl. farbbasierter Anleitung) ermöglichen immer wieder neue Flugbahnkonstruktionen
 - Das Bauen und Spielen mit der Kugelbahn fördert Motorik, Kreativität, räumliches Denken und das Verständnis von Ursache und Wirkung
+- Das motorisierte Riesenrad nimmt die Kugeln auf und befördert sie auf eine höhere Ebene. Der Trichter reagiert auf die einrollenden Kugeln mit lustigen Geräuschen und Lichteffekten
+- Die rasanten Rennen können beginnen: Die interaktive Schaltung mit 135 Bauteilen, einem Motormodul, einem Sound- und Lichtmodul und 10 MarBall (Bälle) sorgt für jede Menge Spielspaß
+- Inhalt: 1 x VTech Marble Rush - Ultimate Set XL100 E / Deutsche Version / Alter: 12 Jahre / 2 x AA & 3 x AAA Demobatterien / inklusive diverse Aufbauanleitungen / Art. Nr.: 80-542349
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08ZM8TC4M{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Großes Hauptfach mit internen Organisationsfächern, einer Trinköffnung und einer Hülle für einen 15-Zoll-Laptop
+- Bequeme, gepolsterte Air-Mesh-Rückenplatte mit Rückenkanal und PE-Folie für zusätzliche Rückenunterstützung
 - Der Borealis Classic ist eine Version des legendären Borealis und bietet eine gepolsterte Rückseite, eine verbesserte Innenorganisation und ein Laptopfach
 - Zweites Fach mit internen Organisationstaschen
-- Bequeme, gepolsterte Air-Mesh-Rückenplatte mit Rückenkanal und PE-Folie für zusätzliche Rückenunterstützung
-- Großes Hauptfach mit internen Organisationsfächern, einer Trinköffnung und einer Hülle für einen 15-Zoll-Laptop
 - Zwei Mesh-Taschen für Wasserflaschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

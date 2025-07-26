@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - TÜV-ZERTIFIZIERTE HYGIENE: Die exakt auf JURA-Vollautomaten abgestimmten Original-Zubehörprodukte garantieren TÜV-zertifizierte Hygiene und Sauberkeit.
-- OPTIMALE PFLEGE FÜR MONATE: Jedes Set besteht aus 4 Milchschläuchen, 2 Milchschlauch-Verbindungsstücken, 2 Milchschlauch-Verbindungsstücken HP1 und 2 Luftansaugstutzen. Die Milchschläuche lassen sind individuell zuschneiden.
+- IDEAL FÜR ONE-TOUCH-GERÄTE: Bei regelmäßigem Bezug von Milch-/Kaffee-Spezialitäten empfiehlt sich der Tausch der Milchschläuche, Verbindungsstücke und Luftansaugstutzen alle drei Monate.
 - HP1 KOMPATIBEL MIT: JURA A9, D6, D60, E6 (EA), E6 (EB), E6 (EC), E6 (ECS), E8 (2015), E80, ENA 8, ENA 8 (EC), ENA 8 (ECS), WE8 (2016)
 - ORIGINAL JURA-ZUBEHÖRPRODUKT: Original JURA-Produkte erhöhen den Schutz, die Produktesicherheit und die Lebensdauer eines JURA-Kaffeevollautomaten.
-- IDEAL FÜR ONE-TOUCH-GERÄTE: Bei regelmäßigem Bezug von Milch-/Kaffee-Spezialitäten empfiehlt sich der Tausch der Milchschläuche, Verbindungsstücke und Luftansaugstutzen alle drei Monate.
+- OPTIMALE PFLEGE FÜR MONATE: Jedes Set besteht aus 4 Milchschläuchen, 2 Milchschlauch-Verbindungsstücken, 2 Milchschlauch-Verbindungsstücken HP1 und 2 Luftansaugstutzen. Die Milchschläuche lassen sind individuell zuschneiden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07F3FYT2H{{</world>}}

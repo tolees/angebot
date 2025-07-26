@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- wetterfest
 - Hohe Abbildungsqualität
-- 4,1-fach Standard-Zoom
-- Hohe Lichtstärke
 - VC-Bildstabilisator
+- 4,1-fach Standard-Zoom
+- wetterfest
+- Hohe Lichtstärke
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B3MNLZH3{{</world>}}

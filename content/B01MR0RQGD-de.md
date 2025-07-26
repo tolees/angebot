@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Höchste Qualität
-- Riesenauswahl rund um Basteln und DIY
 - Kreativität ohne Grenzen
+- Riesenauswahl rund um Basteln und DIY
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01MR0RQGD{{</world>}}

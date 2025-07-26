@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mittelharter Schleifteller für Standard- bis Grobschleifarbeiten
-- Passend zu PEX 115
 - Pagodenförmige Tellerrandgeometrie bewirkt geringere Steifigkeit in Randzonen und besseres Schleifverhalten an Rundungen und Kanten
-- Made in Germany
-- Durchmesser 115 mm; mittelhart
 - Perfektes Schliffbild auf den Flächen durch anpassungsfähige Schaumauflage
+- Passend zu PEX 115
+- Durchmesser 115 mm; mittelhart
+- Mittelharter Schleifteller für Standard- bis Grobschleifarbeiten
+- Made in Germany
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000R5I8MA{{</world>}}

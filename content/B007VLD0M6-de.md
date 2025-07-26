@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Karabinerhaken aus eloxiertem Aluminium
-- TÜV geprüft
-- 3-er Set
 - inklusive Klarsichtbox
+- 3-er Set
+- TÜV geprüft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007VLD0M6{{</world>}}

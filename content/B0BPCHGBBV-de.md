@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fünf-Taschen-Style
 - Bund mit Gürtelschlaufen
+- Fünf-Taschen-Style
 - Reiß- und Knopfverschluss vorn
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

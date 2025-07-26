@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- bekannt aus der TV-Ausstrahlung auf RTL II, VIVA und ProSieben MAXX
 - Kultserie basierend auf dem beliebten Manga von Gosho Aoyama
 - Filme, TV-Specials und Merchandise ebenfalls bei KAZÉ
-- bekannt aus der TV-Ausstrahlung auf RTL II, VIVA und ProSieben MAXX
 - bekannt aus der TV-Ausstrahlung auf RTL II, VIVA und ProSieben MAXX
 - für Fans von klassischen Detektivgeschichten, wie Sherlock Holmes
 

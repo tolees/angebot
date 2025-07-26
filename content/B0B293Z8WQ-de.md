@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Synthetisch
 - Absatzform: Plateauabsatz
+- Obermaterial: Synthetisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B293Z8WQ{{</world>}}

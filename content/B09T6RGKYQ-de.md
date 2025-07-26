@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang 12 x 110g: 7x Doritos Pizza Salami Nachos - die herzhaften Partychips
+- Bei der Ernte wird nur der beste Mais gewählt - ist der Mais zum Teig gemahlen, werden die einzigartigen Doritos-Dreiecke gebacken, Maximaler Crunch und aromatisch-intensiver Geschmack
 - Der Gaumenschmaus auf jeder Party: Mit ihrem intensiven Geschmack, dem starken Crunch und der dreieckigen Form sind Doritos Pizza Salami der perfekte Partysnack zum Spaß haben mit Freunden
 - Das Gold von Mexiko: Bei der Eroberung Mexikos im 15 Jh. war unklar welche Beute wertvoller war, das aztekische Gold oder die crunchigen Tortilla Chips - heute weiß man zumindest was besser schmeckt
-- Bei der Ernte wird nur der beste Mais gewählt - ist der Mais zum Teig gemahlen, werden die einzigartigen Doritos-Dreiecke gebacken, Maximaler Crunch und aromatisch-intensiver Geschmack
+- Lieferumfang 12 x 110g: 7x Doritos Pizza Salami Nachos - die herzhaften Partychips
 - Gemeinsam mit Freunden schöne Momente schaffen und dabei Maischips knabbern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

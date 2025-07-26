@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Angereichert mit Hyaluronsäure und botanischer Trehalose
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- Geeignet für empfindliche Augenhaut.
-- Hydratisierende Augencreme zielt auf Anzeichen von Müdigkeit ab.
 - Spendet intensiv Feuchtigkeit für frische, wache Augen.
+- Hydratisierende Augencreme zielt auf Anzeichen von Müdigkeit ab.
+- Geeignet für empfindliche Augenhaut.
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- Angereichert mit Hyaluronsäure und botanischer Trehalose
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0756MRF4C{{</world>}}

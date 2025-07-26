@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Einsatz-Schnelllöser
 - Abtriebsprofil: AuÃŸenvierkant
-- AbtriebsprofilgröÃŸe, metrisch: 12,5 mm
-- 72 Zähne, feinverzahnt
 - Gefertigt aus Chrom-Vanadium-Stahl
+- 72 Zähne, feinverzahnt
 - AbtriebsprofilgröÃŸe, ZollmaÃŸ: 12"
+- Mit Einsatz-Schnelllöser
+- AbtriebsprofilgröÃŸe, metrisch: 12,5 mm
 - 2-Komponenten-Griff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

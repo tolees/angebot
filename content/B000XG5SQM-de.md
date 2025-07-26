@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auslaufmodell
 - Material: Cromargan Edelstahl rostfrei 18/10, hochglanzpoliert , spülmaschinenfest
 - ein unkompliziertes Besteck für den täglichen Gebrauch
 - Inhalt: 6x Kuchengabel
 - Design: Peter Bäurle
+- Auslaufmodell
 - moderne, glatte Form
 
 [🛒 Hier!!]({{< param buyurl >}})

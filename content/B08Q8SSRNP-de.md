@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Qualität
 - SRC_BP; male
+- Hohe Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08Q8SSRNP{{</world>}}

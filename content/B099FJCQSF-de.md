@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6 Paar Champion Sportsocken für vielfältige Aktivitäten
 - Wadenhohe Socken
+- 6 Paar Champion Sportsocken für vielfältige Aktivitäten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B099FJCQSF{{</world>}}

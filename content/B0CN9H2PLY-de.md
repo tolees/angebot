@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BLUETOOTH-EARBUDS MIT NOISE-CANCELLING: Die CustomTune-Technologie der Earbuds mit aktivem Noise-Cancelling analysiert Ihre Ohren und passt den Klang an ihre einzigartige Form an.
-- KRISTALLKLARE TELEFONATE, EINFACHE BEDIENUNG: Mikrofone zur Geräuschunterdrückung filtern Hintergrundgeräusche heraus – für Telefonate mit glasklarem Klang. Mit den intuitiven Touch-Bedienelementen steuern Sie Lautstärke, Telefonate und Musik.
 - HÖRGENUSS MIT EINEM EARBUD: Nehmen Sie Anrufe entgegen oder hören Sie Ihre Lieblingsmusik über beide oder einen einzelnen Earbud, ganz wie Sie es wünschen.
-- ANPASSBARER SITZ FÜR HÖCHSTEN KOMFORT: Wählen Sie zwischen neun weichen Ohreinsätzen und Stabilitätsbändern, um die perfekte Passform Ihrer Bose In-Ear-Kopfhörer zu finden – selbst bei längerem Musikgenuss.
-- DREI HÖRMODI: Genießen Sie absolute Konzentration im Quiet-Modus, nehmen Sie im Aware-Modus Ihre Umgebungsgeräusche wahr oder aktivieren Sie den Immersion-Modus, der umfassendes Noise-Cancelling mit Bose Immersive Audio kombiniert.
 - LANGE AKKULAUFZEIT: Die Bose QuietComfort In-Ear-Kopfhörer mit Geräuschunterdrückung bieten bis zu 6 Stunden Hörgenuss (bis zu 4 Stunden mit Immersive Audio). Und eine 20-minütige Aufladung bietet bereits bis zu 2 Stunden zusätzlichen Musikgenuss.
+- DREI HÖRMODI: Genießen Sie absolute Konzentration im Quiet-Modus, nehmen Sie im Aware-Modus Ihre Umgebungsgeräusche wahr oder aktivieren Sie den Immersion-Modus, der umfassendes Noise-Cancelling mit Bose Immersive Audio kombiniert.
+- KRISTALLKLARE TELEFONATE, EINFACHE BEDIENUNG: Mikrofone zur Geräuschunterdrückung filtern Hintergrundgeräusche heraus – für Telefonate mit glasklarem Klang. Mit den intuitiven Touch-Bedienelementen steuern Sie Lautstärke, Telefonate und Musik.
+- ANPASSBARER SITZ FÜR HÖCHSTEN KOMFORT: Wählen Sie zwischen neun weichen Ohreinsätzen und Stabilitätsbändern, um die perfekte Passform Ihrer Bose In-Ear-Kopfhörer zu finden – selbst bei längerem Musikgenuss.
+- BLUETOOTH-EARBUDS MIT NOISE-CANCELLING: Die CustomTune-Technologie der Earbuds mit aktivem Noise-Cancelling analysiert Ihre Ohren und passt den Klang an ihre einzigartige Form an.
 - SPATIAL AUDIO-EARBUDS: Genießen Sie ein beeindruckend immersives Hörerlebnis, bei dem der Ton wirkungsvoll verräumlicht wird – für ein intensiveres Hörerlebnis als je zuvor.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial: Leder
+- Verschluss: Schnürung
+- Nicht Wasserfest
+- Sohle: Gummi
 - Absatzform: Flach
 - Innenmaterial: Textil
-- Nicht Wasserfest
-- Verschluss: Schnürung
-- Sohle: Gummi
-- Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B081KRLLJ3{{</world>}}

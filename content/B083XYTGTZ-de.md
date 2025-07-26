@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jerseystoff
 - Kurze Raglanärmel
+- T-Shirt mit Rundhalsausschnitt
 - Shorts mit elastischem Bund und Zugschnur
 - Round neck T-shirt
-- T-Shirt mit Rundhalsausschnitt
+- Jerseystoff
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083XYTGTZ{{</world>}}

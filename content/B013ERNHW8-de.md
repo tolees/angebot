@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1Zwei Stück
-- 8mm
-- Packung die Größe: 22.2 L x 5.4 H x 16.2 W (cm)
 - Produziert unter strengen Kontrollen
+- Packung die Größe: 22.2 L x 5.4 H x 16.2 W (cm)
+- 8mm
+- 1Zwei Stück
 - Zubehör für Makita Werkzeug
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

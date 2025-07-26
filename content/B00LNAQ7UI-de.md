@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Rolladensystem Mini oder Maxi mit 14 oder 23 mm Gurtbreite
+- Zeitautomatik, Sicherheitsabschaltung und optionale Lichtsteuerung
+- Stromversorgung über Netzkabel, Endlagensicherung bei Stromausfall
 - motorisierter Aufschraubwickler mit 230 mm Lochabstand
 - für Kunststoff-Rolläden bis 5 m² Fläche
-- Stromversorgung über Netzkabel, Endlagensicherung bei Stromausfall
-- Zeitautomatik, Sicherheitsabschaltung und optionale Lichtsteuerung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00LNAQ7UI{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite: Medium
 - Innenmaterial: Synthetik
-- Obermaterial: Leder
-- Leder: Kuh
-- Absatzform: Flach
 - Runde Form
+- Schuhweite: Medium
+- Leder: Kuh
 - Strap: T-Riemen
+- Obermaterial: Leder
+- Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09N9QM29N{{</world>}}

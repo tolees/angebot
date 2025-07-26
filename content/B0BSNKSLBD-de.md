@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elemente aus umweltfreundlichen, hochwertigen Materialien und mit blendfreiem Papier
+- Ein einzigartiges Geschenk für Puzzle-Liebhaber, Erwachsene und Kinder ab 12 Jahren
 - Ein 2.000-teiliges Puzzle, ideal für Puzzle-Liebhaber, ergibt ein 961 x 682 mm großes Bild, das eine phänomenale Collage berühmter französischer Monumente zeigt
 - Großes Gedächtnistraining, Entwicklung der manuellen Fähigkeiten, Übung der Konzentration, Geduld und Wahrnehmungsfähigkeit
-- Ein einzigartiges Geschenk für Puzzle-Liebhaber, Erwachsene und Kinder ab 12 Jahren
+- Elemente aus umweltfreundlichen, hochwertigen Materialien und mit blendfreiem Papier
 - Sie können das fertige Puzzle auf Karton kleben und an die Wand hängen - spezieller Trefl-Puzzlekleber ist im Verkauf erhältlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

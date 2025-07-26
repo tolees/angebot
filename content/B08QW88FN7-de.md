@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Elastische Bund mit Kordelzug
 - Gestickter Swoosh
 - Bündchen am Knöchel
-- Elastische Bund mit Kordelzug
 - Seitentaschen
 
 [🛒 Hier!!]({{< param buyurl >}})

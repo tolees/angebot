@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Black
 - Größe: M
+- Farbe: Black
 - Columbia Lake 22 Daunenjacke mit Kapuze
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

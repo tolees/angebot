@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spendet Feuchtigkeit und macht das Haar glänzend
-- Das Haar ist geschmeidig, pflegeleicht und voller Vitalität
 - Leichte Zwei-Phasen-Formel für Pflege und Schutz
+- Das Haar ist geschmeidig, pflegeleicht und voller Vitalität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07D5JPN12{{</world>}}

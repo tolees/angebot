@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Arctic White, Android 13, 5G
-- Bauart: Smartphone
+- Frontkamera: 16 MP
 - Prozessor: MediaTek Dimensity 6080
 - Hauptkamera: 100 MP + 2 MP
-- Frontkamera: 16 MP
+- Bauart: Smartphone
+- Arctic White, Android 13, 5G
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CR3TFQZ4{{</world>}}

@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Clevere App-Steuerung: Mit der Kärcher Home Robots App lässt sich eine Raumkarte der Wohnung speichern, Reinigungsparamter festlegen, Verbotszonen definieren und ein Reinigungszeitplan einrichten
 - LiDAR-Laser-Navigation: Der LiDAR-Lasersensor ermöglicht eine Kartierung der Wohnung. Weitere Sensoren helfen Hindernisse und Höhenunterschiede zu erfassen, um eine sichere Navigation zu gewährleisten
 - Autonom und flexibel: Der Staubsaugroboter überwindet mühelos Schwellen und Teppiche bis zu einer Höhe von 18 mm. Er ist nur 9,4 cm hoch und gelangt somit auch problemlos unter niedrige Möbel
-- 2-in-1-Funktion: Der Kärcher Saugroboter RCV 3 beseitigt Staub und Schmutz gründlich von Hartböden und Teppichen. Mithilfe der zuschaltbaren Wischfunktion lässt sich festsitzender Staub entfernen
 - Lieferumfang: Das Set enthält den Kärcher Saugroboter RCV 3, eine Ladestation, einen 2-in-1-Behälter für Staub und Frischwasser, 2 Seitenbürsten, 2 Filter, 2 Mikrofaser-Reinigungstücher
+- 2-in-1-Funktion: Der Kärcher Saugroboter RCV 3 beseitigt Staub und Schmutz gründlich von Hartböden und Teppichen. Mithilfe der zuschaltbaren Wischfunktion lässt sich festsitzender Staub entfernen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BMG5PH12{{</world>}}

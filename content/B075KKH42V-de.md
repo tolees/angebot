@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sägeblatt S 1125 VF Heavy for Metal, für mühelose und feine Schnitte in mittelstarke bis starke Bleche mit 2-10mm, dünn- und dickwandige Rohre und Profile bis 175mm
-- Sägeblatt S 925 VF Heavy for Metal, für mühelose und feine Schnitte in mittelstarke bis starke Bleche mit 2-10mm, dünn- und dickwandige Rohre und Profile bis 100mm
-- Sägeblatt S 1411 DF Heavy for Wood and Metal, für Holz mit Nägeln/Metall und Spanplatten bis 250mm sowie GFK/Epoxy bis 60 mm
-- 16tlg. Säbelsägenblätter Set mit 4x S 925 VF, 4x S 1125 VF, 4x S 610 VF, 4x S 1411 DF
-- Sägeblatt S 610 VF Heavy for Wood and Metal, für Schnitte in Holz (auch mit Nägeln/Metall), Spanplatten, GFK/Epoxy massiv und Wandausschnitte in Holz/Metall bis 100mm
 - Made in Switzerland
+- Sägeblatt S 925 VF Heavy for Metal, für mühelose und feine Schnitte in mittelstarke bis starke Bleche mit 2-10mm, dünn- und dickwandige Rohre und Profile bis 100mm
+- Sägeblatt S 610 VF Heavy for Wood and Metal, für Schnitte in Holz (auch mit Nägeln/Metall), Spanplatten, GFK/Epoxy massiv und Wandausschnitte in Holz/Metall bis 100mm
+- 16tlg. Säbelsägenblätter Set mit 4x S 925 VF, 4x S 1125 VF, 4x S 610 VF, 4x S 1411 DF
+- Sägeblatt S 1411 DF Heavy for Wood and Metal, für Holz mit Nägeln/Metall und Spanplatten bis 250mm sowie GFK/Epoxy bis 60 mm
+- Sägeblatt S 1125 VF Heavy for Metal, für mühelose und feine Schnitte in mittelstarke bis starke Bleche mit 2-10mm, dünn- und dickwandige Rohre und Profile bis 175mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B075KKH42V{{</world>}}

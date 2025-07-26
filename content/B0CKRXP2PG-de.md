@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Ergonomie und Augenfreundlichkeit durch den speziellen Reader Mode mit reduzierten Blauanteilen für ein entspanntes Lesen
-- Flexibler Anschluss unterschiedlicher Endgeräte durch D-Sub, HDMI und Kopfhörer-Buchse
 - 100 Hz Bildwiederholrate über HDMI
+- Flexibler Anschluss unterschiedlicher Endgeräte durch D-Sub, HDMI und Kopfhörer-Buchse
+- Hohe Ergonomie und Augenfreundlichkeit durch den speziellen Reader Mode mit reduzierten Blauanteilen für ein entspanntes Lesen
 - Full-HD-Auflösung (1.920 x 1.080 Pixel)
 - 60,4 cm (24") IPS-Monitor in nahezu rahmenlosem, schlanken Design
 

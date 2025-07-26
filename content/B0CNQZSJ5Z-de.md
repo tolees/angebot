@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktname: Mini A-B positiv negativ 720 Motor.
-- Mit Messing-Metall-Getriebe, ultra langlebig & super stabil perforieren.
-- Kompatibel mit Syma X5C und SKYTECH M68 RC Drohnen und Quadcopter.
 - Kabel in rot und blau (A Klinge) ist für CW Motor; Kabel in schwarz und weiß (B-Blatt) ist für CCW-Motor.
+- Produktname: Mini A-B positiv negativ 720 Motor.
+- Kompatibel mit Syma X5C und SKYTECH M68 RC Drohnen und Quadcopter.
 - Motorhöhe: 20mm/0.79 inch; Motordurchmesser: 7mm/0.28 inch
+- Mit Messing-Metall-Getriebe, ultra langlebig & super stabil perforieren.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CNQZSJ5Z{{</world>}}

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Männlich intensiv
-- Hergestellt im Germany
-- Würzig-frischer Herrenduft
 - HommeMan Eau de Toilette
+- Würzig-frischer Herrenduft
+- Hergestellt im Germany
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06X3TL71H{{</world>}}

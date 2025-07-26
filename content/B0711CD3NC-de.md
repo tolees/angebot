@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch Drücken auf den Knopf können Sie Ihre vorher programmierten Situationen aktivieren. Beleuchtung ein- und ausschalten, Ihre Playlist abspielen, den Einbruchsschutz aktivieren und vieles mehr
-- Mit Hilfe des mitgelieferten Zubehörs entscheiden Sie selbst ob Sie den Wandtaster schrauben oder kleben. Batterie ist inklusive
-- Maße: 56x56x20 mm, Gewicht: 32 g (ohne Batterien)
 - Kompatibilität: Home Base (2. Generation), Speedport Smart - Dank des DECT ULE Funkstandards lässt sich der SmartHome Wandtaster mit der AVM Fritz!Box 7590/7490 verbinden. Somit wird keine Home Base benötigt.
 - Perfekt geeignet, wenn Sie es eilig haben oder gerade Ihr Smarthphone nicht zur Hand haben
+- Durch Drücken auf den Knopf können Sie Ihre vorher programmierten Situationen aktivieren. Beleuchtung ein- und ausschalten, Ihre Playlist abspielen, den Einbruchsschutz aktivieren und vieles mehr
+- Maße: 56x56x20 mm, Gewicht: 32 g (ohne Batterien)
+- Mit Hilfe des mitgelieferten Zubehörs entscheiden Sie selbst ob Sie den Wandtaster schrauben oder kleben. Batterie ist inklusive
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0711CD3NC{{</world>}}

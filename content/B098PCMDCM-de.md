@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ETRA DURABLE INGREDIENTS
-- CUSHIONING
 - SOFT FEELING
+- ETRA DURABLE INGREDIENTS
 - LIGHTWEIGHT
+- CUSHIONING
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B098PCMDCM{{</world>}}

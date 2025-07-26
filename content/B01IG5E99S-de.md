@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Sportlicher Camper Sneaker, klassischer Camper Beetle Sneaker
 - Charaktere: EVA para mayor ligereza
-- Sportlicher Camper Sneaker, Comodidad y estilo, Empeine: Piel (Piel vacuna)
 - Klassischer Camper Beetle Sneaker
+- Sportlicher Camper Sneaker, Comodidad y estilo, Empeine: Piel (Piel vacuna)
 - Farbe: Negro
 
 [🛒 Hier!!]({{< param buyurl >}})

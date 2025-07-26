@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vater, Mutter und Drillinge
 - inkl. Hundeschlitten
-- ca. 6-8 cm groß
-- 5 Husky Figuren
 - Kopf, Arme und Beine sind beweglich (Mutter und Vater)
+- 5 Husky Figuren
+- ca. 6-8 cm groß
+- Vater, Mutter und Drillinge
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09P3RB9FD{{</world>}}

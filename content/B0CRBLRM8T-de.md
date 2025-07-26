@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Futter: 100 % recyceltes PET
-- Laufsohle: 100% EVA
 - Farbe: Mittelbraun
 - Obbermaterial: 100% Rindsleder
 - Better Leather,Better Linings
+- Futter: 100 % recyceltes PET
+- Laufsohle: 100% EVA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRBLRM8T{{</world>}}

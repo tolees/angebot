@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Diesem legendären Logo
 - Regular Fit
+- Mit Diesem legendären Logo
 - Mit Tragekomfort
 
 [🛒 Hier!!]({{< param buyurl >}})

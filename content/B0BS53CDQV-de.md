@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzärmliges Baumwoll-T-Shirt
 - Rundhalsausschnitt
 - Großer Logoprint auf der Brust
+- Kurzärmliges Baumwoll-T-Shirt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BS53CDQV{{</world>}}

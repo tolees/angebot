@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regular
 - 100% Baumwolle
+- Regular
 - Jack & Jones Intelligence Gordon Shark Sweat Pants
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

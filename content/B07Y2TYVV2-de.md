@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Rhodesian Ridgeback von schleich Farm World hat, wie für die Hunderasse typisch, ein kurzes, glänzendes, weizenfarbenes Fell
-- Enthält: 1x Spielfigur Rhodesian Ridgeback
 - Rhodesian Ridgebacks sind beliebte Familienhunde, weil sie ausgeglichen und treu sind. Außerdem gelten sie als sehr intelligent. Die Vierbeiner haben viel Freude an Bewegung und Hundesport wie zum Beispiel Agility
+- Enthält: 1x Spielfigur Rhodesian Ridgeback
+- Der Rhodesian Ridgeback von schleich Farm World hat, wie für die Hunderasse typisch, ein kurzes, glänzendes, weizenfarbenes Fell
 - Der Rhodesian Ridgeback von schleich Farm World hat auf seinem Rücken ein unverwechselbares Merkmal: Seine Haare wachsen dort entgegen der normalen Richtung und bilden dadurch einen schmalen, vom Körper abstehenden Haarkamm.
 - Der Artikel gehört zur Themenwelt FARM WORLD und ist für Kinder ab 3 Jahren geeignet
 

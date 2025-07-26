@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ROBUST & LANGLEBIG - Reißfest und für jede Hundegröße geeignet - Dank hochwertigem Nylon und starkem Metallkarabiner macht die Schleppleine Hund und Halter glücklich
-- KONTROLLIERTER FREILAUF - Viel Freiheit zum schnüffeln und wittern für deinen Vierbeiner, volle Kontrolle für dich mit der Schleppleine 10m für große Hunde!
 - WETTERFEST & SCHMUTZABWEISEND - Durch die erstklassigen Materialien ist unsere Hundeleine 10m Schleppleine Hundeleine ideal für die Natur und den Trainingsplatz
+- ROBUST & LANGLEBIG - Reißfest und für jede Hundegröße geeignet - Dank hochwertigem Nylon und starkem Metallkarabiner macht die Schleppleine Hund und Halter glücklich
 - JUNGES START-UP UNTERSTÜTZEN: Als Nürnberger Start-Up entwickeln wir Hundezubehör, das dich und deine Fellnase im Alltag unterstützt & näherbringt. Neugierig? Dann probier uns aus!
+- KONTROLLIERTER FREILAUF - Viel Freiheit zum schnüffeln und wittern für deinen Vierbeiner, volle Kontrolle für dich mit der Schleppleine 10m für große Hunde!
 - NETZBEUTEL INKLUSIVE - Der mitgelieferte Aufbewahrungsbeutel dient zur schnellen Trocknung der feuchten Hunde Schleppleine
 
 [🛒 Hier!!]({{< param buyurl >}})

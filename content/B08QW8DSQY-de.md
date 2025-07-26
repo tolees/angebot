@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- softvlies und ein raumgefühl
 - Sporttyp: Fußball
 - dass sie eine lässige lieblings sie von der seitenlinie auf die straße tragen kann
+- softvlies und ein raumgefühl
 - 82% baumwolle; 18% polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

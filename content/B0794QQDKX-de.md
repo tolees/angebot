@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für Verbindungs- und Einschaltprobleme: Verbinden Sie den Receiver mit einem HDMI-Kabel über den HD-Ausgangsanschluss mit dem HD-Eingangsanschluss Ihres Fernsehgeräts. Verbinden Sie nun den Receiver über den Eingang ANT IN oder LNB IN mit dem Kabel der Satellitenantenne. Legen Sie die Batterien in die Fernbedienung ein. Hinweise zur Fernbedienung finden Sie auf der Rückseite dieser Anleitung. Schließen Sie den Empfänger an die Stromversorgung an. Der Receiver startet mit dem BOOT-Vorgang und ist innerhalb kurzer Zeit betriebsbereit
-- ✔ WLAN onboard für Internetfunktionen wie YouTube, Web TV, u.v.m. | Bluetooth onboard | Unicable, Unicable 2 und JESS kompatibel | SAT>IP Client Funktion
-- ✔ Web Browser mit HbbTV Unterstützung & Freies Internet Streaming TV und Radio | erweiterbar durch Add-Ons & Plug-Ins
 - ✔ Geeignet für alle frei empfangbaren TV- und Radiosender über Satellit, Kabel und DVB-T2 und als Mediacenter für all gänginen Musik & Film-Dateien
+- ✔ Web Browser mit HbbTV Unterstützung & Freies Internet Streaming TV und Radio | erweiterbar durch Add-Ons & Plug-Ins
 - ✔ Lieferumfang: Edision OS Nino+ 1x DVB-S2 1x DVB-T2/C, Edision Universal Fernbedienung, externes Netzteil (12V/2A), externes Infrarot-Auge, Kurzanleitung
+- ✔ WLAN onboard für Internetfunktionen wie YouTube, Web TV, u.v.m. | Bluetooth onboard | Unicable, Unicable 2 und JESS kompatibel | SAT>IP Client Funktion
 - ✔ Edision OS Nino+ DVB-S2 und DVB-T2/C Digitaler Satelliten, Terrestrischer und Kabel Receiver | openATV Linux E2 Betriebssystem vorinstalliert
+- Für Verbindungs- und Einschaltprobleme: Verbinden Sie den Receiver mit einem HDMI-Kabel über den HD-Ausgangsanschluss mit dem HD-Eingangsanschluss Ihres Fernsehgeräts. Verbinden Sie nun den Receiver über den Eingang ANT IN oder LNB IN mit dem Kabel der Satellitenantenne. Legen Sie die Batterien in die Fernbedienung ein. Hinweise zur Fernbedienung finden Sie auf der Rückseite dieser Anleitung. Schließen Sie den Empfänger an die Stromversorgung an. Der Receiver startet mit dem BOOT-Vorgang und ist innerhalb kurzer Zeit betriebsbereit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0794QQDKX{{</world>}}

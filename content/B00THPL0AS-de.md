@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ein lichtstarkes Weitwinkel-Objektiv mit einer hervorragenden Abbildungsleistung
-- Hervorragende Korrektur chromatischer Aberration
 - Für Reisen, Natur / Landschaft, Available Light, Architektur / Innenaufnahmen, Veranstaltungen
-- Hervorragende Korrektur sagittaler Koma
+- Hervorragende Korrektur chromatischer Aberration
 - Hohe Randausleuchtung
+- Hervorragende Korrektur sagittaler Koma
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00THPL0AS{{</world>}}

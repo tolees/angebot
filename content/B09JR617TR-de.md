@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Dieses 2 m Ladekabel hat einen magnetischen MagSafe 3 Anschluss, mit dem der Stecker wie von selbst zum Netz­anschluss deines MacBook Pro findet
 - Eine LED leuchtet Orange, wenn die Batterie lädt, und Grün, wenn sie voll geladen ist
 - Kombiniere es mit einem kompatiblen USB‑C Netzteil, um dein MacBook Pro an einer Steck­dose zu laden und die Möglichkeit zum schnellen Laden zu nutzen
-- Falls aber jemand über das Kabel stolpert, löst es sich – und dein MacBook Pro bleibt, wo es ist
-- Dieses 2 m Ladekabel hat einen magnetischen MagSafe 3 Anschluss, mit dem der Stecker wie von selbst zum Netz­anschluss deines MacBook Pro findet
-- Gefertigt mit einem gewobenen Design für lange Haltbarkeit
 - Die magnetische Verbindung ist stark genug, um ein versehent­liches Trennen in den meisten Fällen zu verhindern
+- Falls aber jemand über das Kabel stolpert, löst es sich – und dein MacBook Pro bleibt, wo es ist
+- Gefertigt mit einem gewobenen Design für lange Haltbarkeit
 - USB‑C Power Adapter separat erhältlich.
 
 [🛒 Hier!!]({{< param buyurl >}})

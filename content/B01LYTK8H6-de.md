@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Objektiv, Objektivdeckel (LC-62F), Objektiv-Rückdeckel (LR-2), Gegenlichtblende (LH-66B), Objektivbeutel (LSC-0811), Bedienungsanleitung, Olympus Garantiekarte.
-- Nahezu lautloser High-Speed-Autofokus.
 - Herausragende Bildqualität, trotz sehr kompakter Bauweise mit gestochen scharfen Bildern bis an die Bildränder.
-- Beeindruckende Naheinstellgrenzen von ca. 0,25 m sorgen für außergewöhnliche Aufnahmemöglichkeiten aus jedem Blickwinkel.
-- Einsatzbereiche: Landschaft, Reisen, Natur, Low-Light und Porträt - entspricht einem 50mm Kleinbild-Objektiv.
 - Volle Kontrolle über Schärfentiefe und Lichtverhältnisse dank des äußerst lichtstarken Objektivs mit einer großen Blendenöffnung von F1.2.
+- Beeindruckende Naheinstellgrenzen von ca. 0,25 m sorgen für außergewöhnliche Aufnahmemöglichkeiten aus jedem Blickwinkel.
 - Exzellente Verarbeitung und hochwertiges Metallbajonett.
+- Lieferumfang: Objektiv, Objektivdeckel (LC-62F), Objektiv-Rückdeckel (LR-2), Gegenlichtblende (LH-66B), Objektivbeutel (LSC-0811), Bedienungsanleitung, Olympus Garantiekarte.
+- Einsatzbereiche: Landschaft, Reisen, Natur, Low-Light und Porträt - entspricht einem 50mm Kleinbild-Objektiv.
+- Nahezu lautloser High-Speed-Autofokus.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01LYTK8H6{{</world>}}

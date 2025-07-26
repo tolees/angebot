@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 125
-- Deutsch, Japanisch
 - Kenji Nagasaki
+- Deutsch, Japanisch
 - BRD
 
 [🛒 Hier!!]({{< param buyurl >}})

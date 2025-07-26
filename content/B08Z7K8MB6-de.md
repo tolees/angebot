@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - USB 3.2 Gen 1-Schnittstelle
-- Aluminium-Metallgehäuse mit goldenem Farbton
 - Dualer Anschluss, kompatibel mit USB Typ-A und Typ-C Geräten
 - Bis zu 420MB/s Lesegeschwindigkeit und 400MB/s Schreibgeschwindigkeit
+- Aluminium-Metallgehäuse mit goldenem Farbton
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08Z7K8MB6{{</world>}}

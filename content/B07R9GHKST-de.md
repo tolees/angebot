@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GORE WINDSTOPPER Technologie: Winddicht, wasserabweisend und extrem atmungsaktiv
-- Brusttasche mit Reißverschluss mit Kabelausgang, Reißverschlusstaschen hinten und vorne, Rucksacktauglich
-- Schmale Passform/Bike-Spezifischer Schnitt, Reflektierende Details
 - GORE C5 GORE WINDSTOPPER Thermo Trail Jacket, Größe: XL, Farbe: Schwarz/Neon-Gelb, 100376
+- Schmale Passform/Bike-Spezifischer Schnitt, Reflektierende Details
+- GORE WINDSTOPPER Technologie: Winddicht, wasserabweisend und extrem atmungsaktiv
 - Warme und vielseitig einsetzbare Herren Jacke für Fahrradfahrer bei kühlen Wetterbedingungen
+- Brusttasche mit Reißverschluss mit Kabelausgang, Reißverschlusstaschen hinten und vorne, Rucksacktauglich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07R9GHKST{{</world>}}

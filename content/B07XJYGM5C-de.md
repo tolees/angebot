@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Full HD VGA Port mit 1920 x 1080 oder 1280 x 720 bei 60 Hz
 - DisplayPort 4K auf 3840 x 2160 oder 4096 x 2160 bei 60 Hz
-- HDMI 4K auf 3840 x 2160 oder 4096 x 2160 bei 30 Hz
-- Wireless N300-Technologie mit Geschwindigkeiten von bis zu 300 Mbit/s
-- Windows-Display auf drei Monitore gleichzeitig erweitern (4K-HDMI, 4K-DisplayPort, 1080p-VGA); Mac-Display auf einmal spiegeln auf einen 1080p-HDMI-, 1080p-DisplayPort- und 1080p-VGA-Monitor.
 - Keine Treiberinstallation oder Softwareeinrichtung nötig, Plug & Play, kompatibel mit Windows 10, Mac OS und Chrome OS
+- Windows-Display auf drei Monitore gleichzeitig erweitern (4K-HDMI, 4K-DisplayPort, 1080p-VGA); Mac-Display auf einmal spiegeln auf einen 1080p-HDMI-, 1080p-DisplayPort- und 1080p-VGA-Monitor.
+- HDMI 4K auf 3840 x 2160 oder 4096 x 2160 bei 30 Hz
+- Full HD VGA Port mit 1920 x 1080 oder 1280 x 720 bei 60 Hz
+- Wireless N300-Technologie mit Geschwindigkeiten von bis zu 300 Mbit/s
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XJYGM5C{{</world>}}

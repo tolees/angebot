@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 【Portkeys Monitor 5 Zoll HDMI-Zubehör】 Anti-Drop-Zubehör kann auf beiden Seiten des PT5 II-Monitors installiert und mit Sonnenschutz verwendet werden.
 - 【Flexible Akkuplatte für zwei Zwecke】 Eingebaute Zwei-in-Eins-Akkuplatte. Sie müssen Batterieplatten nicht separat kaufen. (Hinweis: Es sind keine Batterien enthalten.) Unterstützt 5-V-Typ-C-Eingang, der über ein Handy-Ladegerät oder eine Powerbank mit Strom versorgt werden kann. (Mindestens 5 V/2 A)
 - 【Benutzerdefinierte 3D-LUT-Unterstützung】 Die LUT-Ladefunktion macht die Farbkalibrierung einfacher und intuitiver und hilft Ihnen, den Arbeitsablauf effizient zu optimieren. Sie können 3D-LUT-Würfel über eine SD-Karte auf den Portkey PT5 ii-Monitor hochladen.
-- 【Portkeys Monitor 5 Zoll HDMI-Zubehör】 Anti-Drop-Zubehör kann auf beiden Seiten des PT5 II-Monitors installiert und mit Sonnenschutz verwendet werden.
 - 【Perfektes Gesamtdesign，Das neue Upgrade PT5 ii】Portkeys PT5 ii DSLR On Camera Monitor verfügt über einen 5 Zoll 4K 30° FHD IPS Touch Sereen, Full HD 1920x1080 Auflösung, leichtes und schlankes Design, wiegt nur 130 Gramm.
 - 【Neuester innovativer Touchscreen】 Befreien Sie sich von komplizierten Schaltflächen! Alle Funktionen stehen Ihnen zur Verfügung. Das neue IU-Menü macht den Touchscreen einfacher und schneller RGB-Wellenform.
 

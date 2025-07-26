@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 prozent recycelter Polyester (einfach gewebt)
 - Seitentaschen aus Mesh
 - Volumen: 26
+- 100 prozent recycelter Polyester (einfach gewebt)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B3XTC7SF{{</world>}}

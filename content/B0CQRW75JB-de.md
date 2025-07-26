@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfacher und elastischer Einstieg
 - Komfortweite für breitere Füße
+- Einfacher und elastischer Einstieg
 - Extra weiche Decksohle
 - Griffige und flexible Sohle
 

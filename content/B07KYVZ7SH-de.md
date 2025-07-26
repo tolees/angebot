@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibel mit allen Quad Lock Cases und Adaptern (im Lieferumfang nicht enthalten). Ein Adapter zur Befestigung einer Action-Kamera ist als Zubehör erhältlich
 - Schnelles Ver- und Entriegeln für einen unkomplizierten Zugriff auf Ihre Apps unterwegs
+- Kompatibel mit allen Quad Lock Cases und Adaptern (im Lieferumfang nicht enthalten). Ein Adapter zur Befestigung einer Action-Kamera ist als Zubehör erhältlich
+- Superflache Halterung mit einem verwindungssteifen Arm aus anodisiertem Aluminium
 - Geeignet für Lenker mit einem Durchmesser von 31,8mm, 25,4mm und 22mm
 - Patentierte zweistufige Verriegelung sorgt dafür, dass das Handy immer sicher am Fahrrad befestigt ist
-- Superflache Halterung mit einem verwindungssteifen Arm aus anodisiertem Aluminium
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07KYVZ7SH{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- soccer jacket
-- full-length front zip and side pockets
 - nike dry fabric
+- full-length front zip and side pockets
+- soccer jacket
 - Sporttyp: Athletic Sports Apparel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

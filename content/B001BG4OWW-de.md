@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- auch für Whiteboards geeignet
 - für einfaches Reinigen der Ecken
-- für Tafeln aus Naturschiefer
 - Dose mit Froschaufdruck
 - dreieckige Form
-- auch für Whiteboards geeignet
+- für Tafeln aus Naturschiefer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001BG4OWW{{</world>}}

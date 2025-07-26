@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Multi-Control: Verbinden Sie ein Paar von Wechselschalter durch die Verdrahtung, um zwei Schalter zu realisieren, die ein Licht zur gleichen Zeit steuern. In der Zwischenzeit können Sie andere intelligente Schalter über die App verbinden, um mehrere Schalter zu erreichen, die ein Licht gleichzeitig steuern.
-- Zeitplan und Familienfreigabe: Sie können in der App einen Timer einstellen, der sich automatisch zu einer bestimmten Zeit einschaltet. Er kann mit mehreren Geräten verbunden werden, sodass Sie die Steuerung mit Ihrer Familie teilen können.
-- Sprachsteuerung: Das intelligente Modul ist kompatibel mit Alexa und Google Assistant, Sie können Ihr Gerät mit einfachen Sprachbefehlen steuern. Befreien Sie Ihre Hände und genießen Sie ein komfortables und einfaches Leben.
-- APP-Steuerung: Wo auch immer Sie sind, verwenden Sie einfach die Smart Life App oder die Tuya APP, um den intelligenten Schalter aus der Ferne zu steuern. Mit der App können Sie auch Zeitpläne, Gruppenfreigaben, Szenenerstellung und andere funktionen. Kein Hub erforderlich, nur 2,4GHz.
 - Smart Ihr Traditionelle Schalter: Das Smart Mini Lichtschalter Relais Modul (Größe: 40*40*20mm) kann hinter dem vorhandenen Schalter installiert werden, um den vorhandenen traditionellen Schalter in einen intelligenten Schalter zu verwandeln. Neutralleiter erforderlich. 16A max.
+- APP-Steuerung: Wo auch immer Sie sind, verwenden Sie einfach die Smart Life App oder die Tuya APP, um den intelligenten Schalter aus der Ferne zu steuern. Mit der App können Sie auch Zeitpläne, Gruppenfreigaben, Szenenerstellung und andere funktionen. Kein Hub erforderlich, nur 2,4GHz.
+- Sprachsteuerung: Das intelligente Modul ist kompatibel mit Alexa und Google Assistant, Sie können Ihr Gerät mit einfachen Sprachbefehlen steuern. Befreien Sie Ihre Hände und genießen Sie ein komfortables und einfaches Leben.
+- Zeitplan und Familienfreigabe: Sie können in der App einen Timer einstellen, der sich automatisch zu einer bestimmten Zeit einschaltet. Er kann mit mehreren Geräten verbunden werden, sodass Sie die Steuerung mit Ihrer Familie teilen können.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CYZLR64F{{</world>}}

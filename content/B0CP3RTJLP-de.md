@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Video: Metal Gear Solid: Digital Graphic Novel, Metal Gear Solid 2: Digital Graphic Novel
-- Die Mutter aller Stealth-Action-Spiele kehrt zurück. METAL GEAR SOLID: MASTER COLLECTION Vol. 1 vereint die Anfänge des METAL GEAR-Spielerlebnisses in einem einzigen Komplettpaket. Infiltriere feindliche Festungen rund um die Welt, erledige deine Missionen im Stealth-Modus und erlebe die spannende filmische Geschichte der METAL GEAR-Reihe.
-- Soundtrack: Metal Gear Solid: Digital Soundtrack
 - Digital book: Metal Gear Solid: Screenplay Book, Metal Gear Solid: Master Book, Metal Gear Solid 2: Screenplay Book, Metal Gear Solid 2: Master Book, Metal Gear Solid 3: Screenplay Book, Metal Gear Solid 3: Master Book, Metal Gear & Metal Gear 2: Screenplay Book, Metal Gear & Metal Gear 2: Master Book
 - Title Lineup: Metal Gear, Metal Gear 2: Solid Snake, Metal Gear Solid (Including VR Missions/Special Missions), Metal Gear Solid 2: Sons of Liberty (HD Collection version), Metal Gear Solid 3: Snake Eater (HD Collection version), Metal Gear (NES/FC version), Snakes Revenge
+- Video: Metal Gear Solid: Digital Graphic Novel, Metal Gear Solid 2: Digital Graphic Novel
+- Soundtrack: Metal Gear Solid: Digital Soundtrack
+- Die Mutter aller Stealth-Action-Spiele kehrt zurück. METAL GEAR SOLID: MASTER COLLECTION Vol. 1 vereint die Anfänge des METAL GEAR-Spielerlebnisses in einem einzigen Komplettpaket. Infiltriere feindliche Festungen rund um die Welt, erledige deine Missionen im Stealth-Modus und erlebe die spannende filmische Geschichte der METAL GEAR-Reihe.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CP3RTJLP{{</world>}}

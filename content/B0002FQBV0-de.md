@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DAS SCHWEIZER ORIGINAL GEGEN KALK - SEIT 1951: Dank dem hohen Kalklösevermögen sorgt der hochwirksame Kalkreiniger für hygienische Sauberkeit ohne Rückstände - nach dem Entkalken & anschließendem Spülen ist die Maschine lebensmittelsicher
-- EINFACH UND SCHNELL ANZUWENDEN: Eine 125ml Kalklöser Flasche ist auf eine vollständige Entkalkung der Kaffeemaschine abgestimmt und entfernt Kalk mühelos und schnell, ohne zusätzliche Einwirkzeit - für eine einfache Anwendung
-- LIEFERUMFANG: 2 x 125 ml Spezial Entkalker swiss espresso von durgol - für eine gründliche Entfernung von Kalkablagerungen und perfekte Pflege von Kaffeemaschinen aller Typen und Marken
 - FÜR ALLE KAFFEEMASCHINEN GEEIGNET: Der Flüssig-Entkalker eignet sich für alle Kaffeevollautomaten, Pad- & Kapselmaschinen, Espressomaschinen wie z.B. Jura, Saeco, Philips Senseo, Krups etc. - die ideale Lösung für den perfekten Kaffeegenuss
+- EINFACH UND SCHNELL ANZUWENDEN: Eine 125ml Kalklöser Flasche ist auf eine vollständige Entkalkung der Kaffeemaschine abgestimmt und entfernt Kalk mühelos und schnell, ohne zusätzliche Einwirkzeit - für eine einfache Anwendung
+- DAS SCHWEIZER ORIGINAL GEGEN KALK - SEIT 1951: Dank dem hohen Kalklösevermögen sorgt der hochwirksame Kalkreiniger für hygienische Sauberkeit ohne Rückstände - nach dem Entkalken & anschließendem Spülen ist die Maschine lebensmittelsicher
+- LIEFERUMFANG: 2 x 125 ml Spezial Entkalker swiss espresso von durgol - für eine gründliche Entfernung von Kalkablagerungen und perfekte Pflege von Kaffeemaschinen aller Typen und Marken
 - LANGE LEBENSDAUER DER KAFFEEMASCHINE: Das Entkalkungsmittel verlängert dank Schutz- und Pflegeformel die Lebensdauer der Kaffee Maschine und stellt durch effektives Entkalken eine optimale Kaffee-Qualität sicher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

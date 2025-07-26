@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verpackungsabmessungen: : 4.8 L x 22.8 H x 14.4 W (zentimeters)
 - Schnellladegerät 5 A für max. - Schwarz - Kapazität - Leistung 210 W - Ladezeit ca. 3 Stunden.
 - Herkunftsland:- China
-- Verpackungsabmessungen: : 4.8 L x 22.8 H x 14.4 W (zentimeters)
 - Abteilung: Unisex
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

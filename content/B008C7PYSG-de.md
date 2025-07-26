@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Elliptisch
 - Inklusive Aufbewahrungstasche Canvas
 - Komplett Poliert Schraubenschlüssel
-- Elliptisch
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B008C7PYSG{{</world>}}

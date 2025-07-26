@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 STUNDEN VOLLAUFLADUNG: ECHTPower Switch Ladegrät mit 1,5M USB C Ladekabel unterstützt das Schnelllademodell Power Delivery (PD). Es lädt Ihr Konsole zu 50% in 30 Minuten auf und ist 70% schneller als andere normale Netzteile.
-- SICHERHEIT: ECHTPower Switch Ladegerät hat CE / FCC / ROHS Zertifikate bestanden. Das thermische Materialdesign und das integrierte intelligente PD (Power Transfer) IC schützen Ihre Geräte vor Überstrom, Überspannung und Überladung.
-- PRAKTISCHES ZUBEHÖR FÜR SIE: ECHTPower Charger besteht aus hochwertigem ABS Material und tausende Male biegbares Kabel garantiert eine lange Verwendungsdauer. ECHTPower Netzteil für Nintend Switch ist ein gutes Geschenk für Ihre Freunde und Familie.
 - KOMPATIBEL MIT SWITCH: ECHTPower Netzteil mit OUTPUT 5V 1.5A / 15V 2,6A unterstützt alle USB C Geräte wie Ninteodo Switch, Switch OLED， originaler Pro Controller, Andriod Smartphone und Pad usw.. Egal ob Sie zu Hause, auf Reise, in der Freizeit oder unterwegs sind, ist dieses Ladekabel einer guter Begleiter für Sie!
+- PRAKTISCHES ZUBEHÖR FÜR SIE: ECHTPower Charger besteht aus hochwertigem ABS Material und tausende Male biegbares Kabel garantiert eine lange Verwendungsdauer. ECHTPower Netzteil für Nintend Switch ist ein gutes Geschenk für Ihre Freunde und Familie.
+- SICHERHEIT: ECHTPower Switch Ladegerät hat CE / FCC / ROHS Zertifikate bestanden. Das thermische Materialdesign und das integrierte intelligente PD (Power Transfer) IC schützen Ihre Geräte vor Überstrom, Überspannung und Überladung.
+- 2 STUNDEN VOLLAUFLADUNG: ECHTPower Switch Ladegrät mit 1,5M USB C Ladekabel unterstützt das Schnelllademodell Power Delivery (PD). Es lädt Ihr Konsole zu 50% in 30 Minuten auf und ist 70% schneller als andere normale Netzteile.
 - UNTERSTÜTZT TV-MODUS & ORIGILANE SWITCH DOCK STATION& SWITCH LITE: ECHTPower Switch Netzteil ist Speziell für Switch entwickelt. Es ist mit jedem Spielmodus perfekt kompetibel und ermöglicht es Ihnen auch Ihre Konsole während des Spielens aufzuladen, HINWEIS: Bitte benutzen Sie nur die originale Switch Docking Station.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

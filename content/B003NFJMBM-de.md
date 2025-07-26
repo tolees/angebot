@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 1-12 Spieler | Ab 6+ Jahren | Bis zu 20+ Minuten Spielzeit je Partie | Spiel in Deutsch
+- Ihr seid abwechselnd als Erzähler an der Reihe. Werft alle Würfel und beginnt eure kreative Geschichte mit: Es war einmal… Der Erzähler muss alle neun Würfel zu einer Geschichte verknüpfen
 - Lasst eurer Fantasie freien Lauf, denn es gibt hier kein richtig oder falsch. Versucht jeweils drei Würfel für den Anfang, den Mittelteil und den Schluss zu verwenden
 - In diesem kooperativen Familienspiel taucht ihr in klassische Themen ein. Erzählt eure eigenen Geschichten über Themen aller Art mit Hilfe der neun Würfel
-- Ihr seid abwechselnd als Erzähler an der Reihe. Werft alle Würfel und beginnt eure kreative Geschichte mit: Es war einmal… Der Erzähler muss alle neun Würfel zu einer Geschichte verknüpfen
 - Erschafft epische Geschichten, bei denen jeder Spieler ein Kapitel erzählt. Diese bauen schließlich aufeinander auf. Nutzt die vielfältigen Möglichkeiten, um eure Geschichte abwechslungsreich zu gestalten
 
 [🛒 Hier!!]({{< param buyurl >}})

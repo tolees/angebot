@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserabweisend bis 3 bar Wasserspritzer oder Regen richten keine Schäden an, solange das Gehäuse, die Krone und das Glas intakt bleiben.
-- Schwarzes Zifferblatt mit vertikaler Bürstung
-- Quarz-Uhrwerk mit drei Zeigern
 - Gehäusedicke 9,3 mm, Durchmesser des Gehäuses: 43 mm
+- Quarz-Uhrwerk mit drei Zeigern
+- Schwarzes Zifferblatt mit vertikaler Bürstung
+- Wasserabweisend bis 3 bar Wasserspritzer oder Regen richten keine Schäden an, solange das Gehäuse, die Krone und das Glas intakt bleiben.
 - Schwarzes Edelstahl-Armband mit IP-Beschichtung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

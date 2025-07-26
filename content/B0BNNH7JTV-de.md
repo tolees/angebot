@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PUMA Nr. 1 Logo auf der Zunge
-- Obermaterial Leder
 - Aktualisiertes Eyestay-Design
+- Obermaterial Leder
+- PUMA Nr. 1 Logo auf der Zunge
 - Spitzenverschluss für eine gute Passform
 - Durchgenähter und gepolsterter Kragen
 

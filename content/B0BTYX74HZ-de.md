@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 15,4 cm (6,1 Zoll) Dynamic AMOLED Display mit 2340 x 1080 Pixel
-- 3,36 GHz Qualcomm Snapdragon 8 Gen 2 Octa-Core-Prozessor
 - Farbe: schwarz
+- 3,36 GHz Qualcomm Snapdragon 8 Gen 2 Octa-Core-Prozessor
 - 50 Megapixel Hauptkamera mit optischer Bildstabilisierung
+- 15,4 cm (6,1 Zoll) Dynamic AMOLED Display mit 2340 x 1080 Pixel
 - 128 GB interner Speicher, Wassergeschützt, Android 13.0
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

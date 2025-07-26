@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Ideale Mountainbike Helm für jeden Fahrstil, von Trailriding bis Downhill
 - Der Integrität der Konstruktion des Helmes bei gleichzeitig niedrigem Gewicht
 - Leichter MTB-Helm mit einteiliger EPS-Schale, verstärktem EPS-Einsatz und aramidfaserverstärkten Helmbrücken für eine bessere Strukturintegrität und leichten, dauerhaften Schutz
+- Der Ideale Mountainbike Helm für jeden Fahrstil, von Trailriding bis Downhill
 - Verstellbarer Fahrradhelm mit einem 360° Größen-Regler für eine individuelle, sichere und komfortable Passform sowie eine optimale Belüftung selbst bei heißem Wetter
 - Bietet eine weitere Verbesserung der Sicherheitseigenschaften
 

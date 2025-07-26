@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINFACHE LOKALE VERWALTUNG: Einrichtung, Konfiguration und Verwaltung über den Schnell-Setup-Assistenten per deutscher/englischer Weboberfläche, für Standalone Access Point kein Cloud-Abo notwendig
-- SICHERHEIT AUF HÖCHSTEM NIVEAU: WiFi 6 Access Point unterstützt WPA3, sowie WPA/WPA2
-- POE+ ODER NETZTEIL: Einfache Bereitstellung per PoE+ Port (15,2 W) oder externem Netzteil (separat erhältlich, zB Netgear PAV12V)
 - HOHE WIFI 6 LEISTUNG: Geschwindigkeit und Kapazität von AX4200 Dualband unterstützen in Verbindung mit MU-MIMO Technologie (Up- & Downstream), Beamforming+ und OFDMA bis zu 256 Endgeräte
+- SICHERHEIT AUF HÖCHSTEM NIVEAU: WiFi 6 Access Point unterstützt WPA3, sowie WPA/WPA2
 - FLEXIBLE MONTAGE: WLAN Access Points einfach und sicher an Wand oder Decke mit den mitgelieferten Befestigungsteilen montieren (Abmessung 19.6 x 19.6 x 4.4 cm)
 - PRIVATES UND SICHERES WLAN-NETZWERK: Einfache Einrichtung für Arbeitszimmer (zB. Home Office), kleinere bis mittelgroße Konferenzräume oder beliebige Orte, an denen Sie ein dediziertes und sicheres WLAN-Netzwerk ohne Mesh-Funktion benötigen
+- POE+ ODER NETZTEIL: Einfache Bereitstellung per PoE+ Port (15,2 W) oder externem Netzteil (separat erhältlich, zB Netgear PAV12V)
+- EINFACHE LOKALE VERWALTUNG: Einrichtung, Konfiguration und Verwaltung über den Schnell-Setup-Assistenten per deutscher/englischer Weboberfläche, für Standalone Access Point kein Cloud-Abo notwendig
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BN41M1VN{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- · DIE BESTEN PAKETE ZUM SPIELEN EINES DRAFTS: Draft-Packs dienen dazu, ein Deck zusammenzustellen und mit Freunden zu spielen. Jeder muss 3 Packs haben und diese durchgehen, um Karten auszuwählen. Füge Land hinzu und schon bist du bereit für epische 2-Spieler-Schlachten
 - · EIN BRIEF MIT RETRO-RAHMEN IN JEDEM UMSCHLAG: Durchsuche die Truhe voller Erinnerungen dank des Briefes mit einem speziellen Retro-Rahmen in jedem Umschlag!
-- · WERDE MITGLIED EINER DER GILDEN: Es gibt keinen anderen Ort wie Rávnica. Schlendern Sie also durch vertraute Straßen voller beliebter Nachdrucke seiner Vergangenheit und der zehn einzigartigen Gilden, die die Stadt regieren
 - · EINE SELTENE ODER SELTENE MYTHISCHE KARTE IN JEDEM UMSCHLAG: Alle Umschläge enthalten mindestens 1 seltene Karte oder eine Karte mit höherer Seltenheit und können bis zu 3 Karten enthalten, einschließlich einer möglichen seltenen oder seltenen mythischen Karte mit einer traditionellen glänzenden Folienbehandlung
+- · WERDE MITGLIED EINER DER GILDEN: Es gibt keinen anderen Ort wie Rávnica. Schlendern Sie also durch vertraute Straßen voller beliebter Nachdrucke seiner Vergangenheit und der zehn einzigartigen Gilden, die die Stadt regieren
 - · ENTDECKE EIN SPIEL, DAS KUNST, GESCHICHTEN UND STRATEGIE VEREINT: Magic: The Gathering ist ein Sammelkartenspiel, in dem Strategie, Kunst und Mechanik zusammenkommen, um die Themen verschiedener Welten und ihre Geschichte zu erkunden. Egal, ob du daran interessiert bist, mit deinen Freunden Gelegenheitsspiele zu spielen, unglaubliche Karten zu sammeln oder dich in die Wettbewerbslandschaft zu stürzen, Magic heißt dich willkommen
+- · DIE BESTEN PAKETE ZUM SPIELEN EINES DRAFTS: Draft-Packs dienen dazu, ein Deck zusammenzustellen und mit Freunden zu spielen. Jeder muss 3 Packs haben und diese durchgehen, um Karten auszuwählen. Füge Land hinzu und schon bist du bereit für epische 2-Spieler-Schlachten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CL8HSMSQ{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zur Aufnahme von bis zu 10.000 Stunden Full HD-Video (64GB); bis zu 5.000 Stunden Full HD-Video (32GB)
 - Herstellergarantie: 24 Monate bei Verkauf und Versand durch Amazon. Bei Verkauf und Versand durch einen Drittanbieter gelten die Angaben des jeweiligen Verkäufers
-- Lieferumfang: SanDisk High Endurance 64GB Video Monitoring Card up to 20MB/s Read (SDSDQQ-064G-G46A)
 - Für den Einsatz unter widrigsten Bedingungen konzipiert und getestet, temperaturbeständig, stoßfest, wasserdicht
+- Zur Aufnahme von bis zu 10.000 Stunden Full HD-Video (64GB); bis zu 5.000 Stunden Full HD-Video (32GB)
+- Lieferumfang: SanDisk High Endurance 64GB Video Monitoring Card up to 20MB/s Read (SDSDQQ-064G-G46A)
 - Class 10 Geschwindigkeitsleistung für Full HD-Video-Aufzeichnung (1080p) und -Wiedergabe; Ideal für Dashboard-Kameras und private Überwachungskameras
 
 [🛒 Hier!!]({{< param buyurl >}})

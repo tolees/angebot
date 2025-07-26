@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Präzise Wärmeregulierung: Smarte Unterputzsteuerung für kabelgebundene Heizsysteme oder bestehende Fußbodenheizungen sorgt für optimale Wohlfühltemperatur
-- Temperatur im Blick: Thermostat zeigt aktuelle Raumtemperatur, Heiz-Status und relative Luftfeuchtigkeit auf LED-Matrix-Display
-- Lieferumfang: 1x Raumthermostat II 230V, 1x Unterputzgehäuse 230V, 1x Drahtbrücke, Quickstart Guide (11 Sprachen)
 - Komfortable Steuerung: Wärmeregulierung direkt am Gerät über Dreh- und Druckknopf, vollautomatisiert, in der App aus der Ferne, oder per Sprache via Amazon Alexa und Google Assistant möglich
 - Flexible Zeitprogramme: Temperatursteuerung über individuelle Heizpläne oder auch anpassbare Heizpausen möglich, sodass der Heizbetrieb bei Bedarf flexibel pro Raum pausiert werden kann
+- Lieferumfang: 1x Raumthermostat II 230V, 1x Unterputzgehäuse 230V, 1x Drahtbrücke, Quickstart Guide (11 Sprachen)
+- Temperatur im Blick: Thermostat zeigt aktuelle Raumtemperatur, Heiz-Status und relative Luftfeuchtigkeit auf LED-Matrix-Display
 - Maximaler Mehrwert im System: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller erforderlich
 
 [🛒 Hier!!]({{< param buyurl >}})

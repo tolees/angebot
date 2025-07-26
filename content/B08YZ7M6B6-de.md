@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Marke:CLINIQUE
 - Clinique
-- Pflegendes Serum
 - ModelNummer:192333027240
+- Pflegendes Serum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08YZ7M6B6{{</world>}}

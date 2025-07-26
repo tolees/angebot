@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Boardcatcher
 - 3 weitere Fächer mit Reißverschluss
 - Verstellbarer Brust- und Taillengurt
+- Boardcatcher
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00ZUH5NBE{{</world>}}

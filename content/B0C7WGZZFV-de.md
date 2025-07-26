@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Du erhältst außerdem 1 besondere holografische Promokarte mit Friedwuff und 1 Code-Karte für Pokémon-Sammelkartenspiel-Live.
-- Einigen Pokémon-ex wie Despotar, Kubuin und Honweisel wird in dieser Erweiterung aufgrund des glitzernden Phänomens der Terakristallisierung ein anderer Typ als üblich verliehen.
 - Flammenrote Glut erhellt die pechschwarze Nacht und Funken entfachen ein loderndes Inferno, wenn Glurak-ex mit neu entdeckten Kräften der Finsternis vorwärtsdrängt!
+- Einigen Pokémon-ex wie Despotar, Kubuin und Honweisel wird in dieser Erweiterung aufgrund des glitzernden Phänomens der Terakristallisierung ein anderer Typ als üblich verliehen.
 - Dragoran-ex und Schlaraffel-ex zeigen meisterhaft ihre eigenen inneren Stärken.
+- Du erhältst außerdem 1 besondere holografische Promokarte mit Friedwuff und 1 Code-Karte für Pokémon-Sammelkartenspiel-Live.
 - Dieses Set enthält 3 Boosterpacks der Pokémon-Sammelkartenspiel-Erweiterung Karmesin & Purpur – Obsidianflammen (jedes Boosterpack enthält 10 Karten und 1 Basis-Energie, mit 3 garantierten holografischen Karten pro Boosterpack).
 
 [🛒 Hier!!]({{< param buyurl >}})

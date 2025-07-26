@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 95% Baumwolle, 5% Elasthan
 - elastischer Bund mit umlaufendem PUMA-Schriftzug
+- 95% Baumwolle, 5% Elasthan
 - eng anliegende Shorts im 6er Pack
 - doppelter Frontbereich ohne Eingriff
 

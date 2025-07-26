@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leica 1" Hauptkamera: Stufenlos verstellbare Blende von f/1,63 bis f/4,0 für atemberaubende Aufnahmen mit 50 Megapixeln
-- Lange Akkulaufzeit + Schnellladefunktion: 5000mAh starker Akku mit 90W HyperCharge-System
-- Experience revolutionary speeds, faster streaming, quicker downloads, as well as enhanced AI features and hyper-accurate functions with the Qualcomm Snapdragon 8 Gen3 Mobile processor and 16GB of RAM provide effortlessly smooth performance. More sharing, more gaming, more experiences, never miss a beat
-- The stylish and distinctive textured design offers a better slip-resistant grip, elegant from every angle
-- Leica Kamerasystem: Vier Objektive mit sechs Brennweiten und Leica Summilux Objektiv mit 75mm Floating Tele- und 120mm Periskop-Objektiv
-- Snapdragon 8+ Gen 3 Flaggschiff-Prozessor: Ultraschneller und leistungseffizienter Prozessor für ganztägige Akkulaufzeit und ruckelfreie Nutzung
-- Capture beautifully detailed photos day or night with advanced 50MP Leica camera system’s help,and explore up close with a dedicated Macro Vision lens 6.73“ WQHD+LTPO display
-- Dynamisches Display: 1-120Hz WQHD+ AMOLED Display mit 3200 × 1440px für superflüssige Reaktionsfähigkeit und unglaubliche Details
 - The massive 5000 mAh battery with 90W hyper charging allows you to worry less about your battery levels. The two-day battery life keeps you going and doing what you love, while the intelligent charging mode prolongs the batterys lifespan.
+- The stylish and distinctive textured design offers a better slip-resistant grip, elegant from every angle
+- Capture beautifully detailed photos day or night with advanced 50MP Leica camera system’s help,and explore up close with a dedicated Macro Vision lens 6.73“ WQHD+LTPO display
 - The large and crystal clear 6.73 2K AMOLED display makes gaming, media, or even just scrolling look and feel extremely fluid
+- Experience revolutionary speeds, faster streaming, quicker downloads, as well as enhanced AI features and hyper-accurate functions with the Qualcomm Snapdragon 8 Gen3 Mobile processor and 16GB of RAM provide effortlessly smooth performance. More sharing, more gaming, more experiences, never miss a beat
+- Snapdragon 8+ Gen 3 Flaggschiff-Prozessor: Ultraschneller und leistungseffizienter Prozessor für ganztägige Akkulaufzeit und ruckelfreie Nutzung
+- Leica 1" Hauptkamera: Stufenlos verstellbare Blende von f/1,63 bis f/4,0 für atemberaubende Aufnahmen mit 50 Megapixeln
+- Leica Kamerasystem: Vier Objektive mit sechs Brennweiten und Leica Summilux Objektiv mit 75mm Floating Tele- und 120mm Periskop-Objektiv
+- Lange Akkulaufzeit + Schnellladefunktion: 5000mAh starker Akku mit 90W HyperCharge-System
+- Dynamisches Display: 1-120Hz WQHD+ AMOLED Display mit 3200 × 1440px für superflüssige Reaktionsfähigkeit und unglaubliche Details
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CP9WZLXF{{</world>}}

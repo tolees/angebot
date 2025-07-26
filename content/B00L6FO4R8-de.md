@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktgewicht: 0,5 kg
+- Modellnummer: 37-946
 - Die Polierpapiere von 3M haben eine super flexible Vliesunterlage für einfaches Polieren von flachen und konturierten Oberflächen
 - Verpackungsmaße: 25,4 cm L x 15,2 cm B x 2,5 cm H
-- Modellnummer: 37-946
+- Produktgewicht: 0,5 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00L6FO4R8{{</world>}}

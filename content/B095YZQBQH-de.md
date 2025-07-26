@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Skinny Fit
 - Materialzusammensetzung: 53% LENZING ECOVERO Viscose, 29% Baumwolle, 17% Polyester, 1% Elasthan
-- Mittlere Taille
 - Skinny Jeans
+- Skinny Fit
+- Mittlere Taille
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B095YZQBQH{{</world>}}

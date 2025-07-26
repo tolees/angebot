@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Razer Gamepad App: Die App wurde extra dafür entwickelt, Smartphones mit dem Razer Junglecat zu verbinden, damit die angesagtesten Spiele direkt mit einem vordefinierten Profil gespielt oder eigene Profile für Hunderte weiterer unterstützter Titel angepasst werden können
-- Modulares Design: Dank der verschiedenen Varianten lassen sich die linke, die rechte oder beide Seiten des Razer Junglecat mit Razer Phone 2, Huawei P30 Pro und Samsung Galaxy S10+ verbinden, und mit einem Adapter wird er zu einem eigenständigen Controller, der genau wie andere Android-Geräte funktioniert
-- Verbindung mit niedrigen Latenzen: Blitzschnell ziehen und Moves im Handumdrehen im Handumdrehen entfesseln – dank einer zuverlässigen Verbindung mit dem Smartphone mit einer Latenz von weniger als 14ms
 - Mobiler Doppelseitiger Controller: Die Präzision und den Vorteil gleich zweier analoger Sticks und Bumper-Tasten genießen, alles in einem kompakten, ergonomischen Gehäuse - für komfortables Handheld Gaming
+- Razer Gamepad App: Die App wurde extra dafür entwickelt, Smartphones mit dem Razer Junglecat zu verbinden, damit die angesagtesten Spiele direkt mit einem vordefinierten Profil gespielt oder eigene Profile für Hunderte weiterer unterstützter Titel angepasst werden können
+- Verbindung mit niedrigen Latenzen: Blitzschnell ziehen und Moves im Handumdrehen im Handumdrehen entfesseln – dank einer zuverlässigen Verbindung mit dem Smartphone mit einer Latenz von weniger als 14ms
+- Modulares Design: Dank der verschiedenen Varianten lassen sich die linke, die rechte oder beide Seiten des Razer Junglecat mit Razer Phone 2, Huawei P30 Pro und Samsung Galaxy S10+ verbinden, und mit einem Adapter wird er zu einem eigenständigen Controller, der genau wie andere Android-Geräte funktioniert
 - Bluetooth Low Energy: Energieeffizienz sorgt dafür, dass selbst unterwegs über 100 Stunden Spielspaß genossen werden können, bevor der Controller wieder aufgeladen werden muss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

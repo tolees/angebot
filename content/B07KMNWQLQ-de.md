@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Funktioniert mit Amazon Alexa für Sprachsteuerung (Echo/ Echo Dot und notwendige Hue Bridge separat erhältlich). Das Smart Home Erlebnis für Ihr Zuhause
-- IP44 Schutzklasse für den Außenbereich: Durch das hochwertige Gehäuse ist die Gartenleuchte vor Feuchtigkeit & Staub geschützt. Durch das Hochvolt-System (220 - 240V) kann die Leuchte an Ihre Stromleitung (230V) im Außenbereich angeschlossen werden.
-- Sehr hohe Leuchtkraft und robustes Design vereint: Programmieren Sie die Leuchte basierend auf Uhrzeiten für ein automatisches An- und Ausschalten von Licht, oder kombinieren Sie die Leuchte mit dem Hue Außensensor für Licht basierend auf Bewegung
 - Philips Hue Flutlicht Discover – Die White & Color Ambiance Leuchte lässt sich einfach in ein bestehendes Philips Hue System integrieren. Zur Steuerung ist eine Philips Hue Bridge notwendig (nicht im Lieferumfang enthalten)
 - Farbtemperatur: 2.000 bis 6.500 Kelvin. Wählen Sie eine aus 16 Millionen Farben in der Hue App und beleuchten somit personalisiert Ihren Außenbereich. Eine Hue Bridge ist erforderlich (nicht im Lieferumfang enthalten)
+- Sehr hohe Leuchtkraft und robustes Design vereint: Programmieren Sie die Leuchte basierend auf Uhrzeiten für ein automatisches An- und Ausschalten von Licht, oder kombinieren Sie die Leuchte mit dem Hue Außensensor für Licht basierend auf Bewegung
+- IP44 Schutzklasse für den Außenbereich: Durch das hochwertige Gehäuse ist die Gartenleuchte vor Feuchtigkeit & Staub geschützt. Durch das Hochvolt-System (220 - 240V) kann die Leuchte an Ihre Stromleitung (230V) im Außenbereich angeschlossen werden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07KMNWQLQ{{</world>}}

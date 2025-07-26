@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- POP! Vinylfigur
 - Kait Armored
+- POP! Vinylfigur
 - gow
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

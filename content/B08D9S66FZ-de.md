@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Co Guard Kohlenmonoxid-Abschaltung
 - Zwei 230-V-Haushaltssteckdosen, eine 12-V-Gleichstrom-Ladesteckdose und zwei 5-V-USB-Anschluss bieten genug Flexibilität, um eine umfangreiche Kombination von Leuchten und mehr zu betreiben
-- 13 l Treibstofftank für bis zu 16 Stunden Dauerbetrieb bei einer Last von 25 Prozent
-- Diese Inverter-Technologie liefert gleichmäßigeren Strom
-- Starten Sie den Motor schnell und einfach durch Drücken einer Taste
 - Leiser und leistungsstarker Wechselrichter-Generator. Der 224cc Ohv Motor produziert 4500 Anlaufleistung in Watt und 3700 Betriebsleistung in Watt
+- Diese Inverter-Technologie liefert gleichmäßigeren Strom
+- 13 l Treibstofftank für bis zu 16 Stunden Dauerbetrieb bei einer Last von 25 Prozent
+- Co Guard Kohlenmonoxid-Abschaltung
+- Starten Sie den Motor schnell und einfach durch Drücken einer Taste
 - Von den Geräten, die mit Strom versorgt werden sollen, wird die Motordrehzahl automatisch geregelt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

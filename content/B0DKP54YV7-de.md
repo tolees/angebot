@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 120Hz Augenschutzdisplay, Berührungssteuerung mit nassen Fingern
 - Corning Gorilla Glass 5
 - 108MP AI-Kamerasystem
+- 120Hz Augenschutzdisplay, Berührungssteuerung mit nassen Fingern
 - 5500mAh Akku mit 33W TurboCharge
 - MediaTek Helio G99-Ultra, 6nm Fertigungsprozess-Technologie
 

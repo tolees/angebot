@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- fluffige Slice of Life Serie mit viel Comedy
 - romantische Boys-Love-Serie, die übers Küssen hinaus geht
-- erfüllt den Wunsch nach mehr Boys-Love-Animes in Deutschland
-- unterhaltsame Einblicke in die Arbeit eines Shojo-Manga-Verlags
 - Hauptserie Junjo Romantica erscheint ebenfalls bei Crunchyroll
+- erfüllt den Wunsch nach mehr Boys-Love-Animes in Deutschland
+- fluffige Slice of Life Serie mit viel Comedy
+- unterhaltsame Einblicke in die Arbeit eines Shojo-Manga-Verlags
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BNJ78Q5L{{</world>}}

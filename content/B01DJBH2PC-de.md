@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unverkennbare Druckmechanik zum Ein- und Ausfahren der Mine
 - Ausgestattet mit einer Quinkflow-Kugelschreibermine für optimalen Tintenfluss und ein geschmeidiges Schreiberlebnis; blaue Tinte; mittlere Spitze; kann auch mit PARKER-Gelminen bestückt werden
+- Unverkennbare Druckmechanik zum Ein- und Ausfahren der Mine
 - Vom rot beschichteten Edelstahlschaft setzen sich die Hochglanz-Zierteile und der Pfeilclip ab
 - Frischer Wind für unser schlankes, ikonisches Jotter-Design, das seit über 60 Jahren als Klassiker gilt
 - Enthält 1 Parker Jotter Kugelschreiber inkl. 1 Quinkflow Kugelschreibermine mit blauer Tint

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehr gute Belüftung
 - Sehr bequem
-- gut verstellbar
 - Aufklappbares Visier zum Aufstellen der Maske
+- gut verstellbar
+- Sehr gute Belüftung
 - Leicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

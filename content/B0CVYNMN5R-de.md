@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Tief angesetzte Schulter,
-- Rundhals
 - Locker geschnitten
 - 3/4 Arm
+- Rundhals
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CVYNMN5R{{</world>}}

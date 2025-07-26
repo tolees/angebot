@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wiegt nur 167 g
-- Blende mit 7 Lamellen für natürliches Bokeh
-- Standard-Zoomobjektiv für Vollformatkameras mit hoher Bildqualität
 - Schnelle, geräuschlose AF-Leistung durch Linearmotor
+- Standard-Zoomobjektiv für Vollformatkameras mit hoher Bildqualität
+- Blende mit 7 Lamellen für natürliches Bokeh
 - Das kompakteste und leichteste Standard-Zoomobjektiv für Vollformatkameras der Welt
 - Lieferumfang: Vordere Objektivkappe: ALC-F405S, Hintere Objektivkappe: ALC-R1EM
-- Geeignet für Vollformat-Kameras
 - Gegen Staub und Spritzwasser geschützt
+- Wiegt nur 167 g
+- Geeignet für Vollformat-Kameras
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08JB5RS1P{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stretch
+- Knopfverschluss
 - Tapered
 - Medium treated
-- Knopfverschluss
+- Stretch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09MJ61Q2Q{{</world>}}

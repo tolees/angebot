@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H): 26.0 x 23.0 x 2.0 Zm
 - Material: 60% Baumwolle / 40% Polyester
 - Herkunftsland:- Kambodscha
+- Verpackungsabmessungen (L x B x H): 26.0 x 23.0 x 2.0 Zm
 - Farbe: Schwarz-Weiss
 
 [🛒 Hier!!]({{< param buyurl >}})

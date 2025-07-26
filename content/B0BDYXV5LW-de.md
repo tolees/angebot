@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Grafiktablett-Stifte
 - Lenovo
 - hohe Qualität
 - Stift für das Lenovo M10 Tablet Plus 3rd Gen
+- Grafiktablett-Stifte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BDYXV5LW{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Exzellenter Klang: Das 3,5-mm-Audiokabel (Stecker auf Stecker) überträgt brillantes Stereo-Audio auf Kopfhörer, Headsets oder Verstärker – für Smartphone oder Tablet, PC oder Laptop, MP3-Player, Autoradio und andere Geräte mit 3,5-mm-Anschluss
 - Entwickelt in Deutschland: Das Aux-Kabel von KabelDirekt ist maschinell getestet und weltweit bei Millionen Kunden anerkannt für seine Zuverlässigkeit. Die Lötstellen der vergoldeten Stecker sind von einer bruchfesten Metallhülse umgeben
-- Maximale Flexibilität: Die hochreinen Kupferleitungen des KabelDirekt-Klinkenkabels sind durch einen PVC-Mantel sowie durchgängige Abschirmung bestens geschützt – dennoch bleibt das Audiokabel flexibel genug für unterwegs
-- Höchste Sicherheit: 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
+- Exzellenter Klang: Das 3,5-mm-Audiokabel (Stecker auf Stecker) überträgt brillantes Stereo-Audio auf Kopfhörer, Headsets oder Verstärker – für Smartphone oder Tablet, PC oder Laptop, MP3-Player, Autoradio und andere Geräte mit 3,5-mm-Anschluss
 - Hinweis: Optimal geeignet für Kopfhörer, nicht für Headsets mit Mikrofon. Für das iPhone ab Generation 7 wird ein Adapter benötigt
+- Höchste Sicherheit: 36 Monate Herstellergarantie. Ihre gesetzlichen Gewährleistungsrechte bleiben hiervon unberührt (die vollständigen Garantiebedingungen sind weiter unten auf der Produktdetailseite zu finden)
+- Maximale Flexibilität: Die hochreinen Kupferleitungen des KabelDirekt-Klinkenkabels sind durch einen PVC-Mantel sowie durchgängige Abschirmung bestens geschützt – dennoch bleibt das Audiokabel flexibel genug für unterwegs
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00B79JGE4{{</world>}}

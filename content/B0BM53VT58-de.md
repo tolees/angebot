@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle:Gummi
-- Absatzform:Kein Absatz
 - Verschluss:Pull-On
+- Absatzform:Kein Absatz
+- Sohle:Gummi
 - Obermaterial:Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

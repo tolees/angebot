@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
 - Bequemes Tragegefühl dank optimaler Dämpfung
-- Obermaterial aus Synthetikleder
+- Textilfutter
 - Reguläre Passform
+- Obermaterial aus Synthetikleder
 - Schnürsenkel
 - EVA-Einlegesohle
 

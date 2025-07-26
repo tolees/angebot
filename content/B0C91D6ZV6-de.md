@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktische Portionierung – Der frische Kleber wird in drei original versiegelten 1g-Tuben geliefert und als wasserfester Kleber eignet er sich auch für den Außenbereich.
 - Einfache Anwendung – Mit seiner Formel klebt der Sekundenkleber Plastik, aber auch flexible Materialien wie Gummi und Leder oder poröse Materialien wie Holz und Keramik.
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- Leistungsstark & flexibel – Durch die patentierte Henkel Rezeptur ist der Sekundenkleber extra stark und dank der Mikro-Gummipartikel zusätzlich besonders flexibel.
+- Praktische Portionierung – Der frische Kleber wird in drei original versiegelten 1g-Tuben geliefert und als wasserfester Kleber eignet er sich auch für den Außenbereich.
 - Kein Tropfen – Mit ihrer gelförmigen Konsistenz tropft die Super Glue nicht. Sie eignet sich für viele Sofortreparaturen in Bereichen wie Haushalt oder Werkstatt.
+- Leistungsstark & flexibel – Durch die patentierte Henkel Rezeptur ist der Sekundenkleber extra stark und dank der Mikro-Gummipartikel zusätzlich besonders flexibel.
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Praktischer Lieferumfang: 3 Tuben zu je 1 g Pattex Sekundenkleber Ultra Gel Mini Trio, 3 original versiegelte Mini-Tuben, stark & flexibel, lösemittelfrei, Cyanacrylat, farblos
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

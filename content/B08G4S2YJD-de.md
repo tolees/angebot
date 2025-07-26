@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Prüfe die Kompatibilität deines Geräts - lade die kostenlose App herunter und nimm vor dem Kauf dein erstes Musikvideo mit einem kostenlosen digitalen Bandmate auf. Suche im App Store oder bei Google Play nach "LEGO VIDIYO"
+- Vom Hersteller empfohlenes Alter: 7+
 - Anzahl der Teile: 84
 - Mit der kostenlosen LEGO VIDIYO Music Video Maker App führen Kinder in kürzester Zeit Regie, produzieren und spielen in ihren eigenen Musikvideos
-- Vom Hersteller empfohlenes Alter: 7+
+- Prüfe die Kompatibilität deines Geräts - lade die kostenlose App herunter und nimm vor dem Kauf dein erstes Musikvideo mit einem kostenlosen digitalen Bandmate auf. Suche im App Store oder bei Google Play nach "LEGO VIDIYO"
 - Unicorn DJ BeatBox
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

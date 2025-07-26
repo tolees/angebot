@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
-- Absatzform: Flach
 - Verschluss: Schnürung
-- Obermaterial: Leder
 - Sohle: Gummi
+- Obermaterial: Leder
+- Absatzform: Flach
+- Innenmaterial: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C69P5D2R{{</world>}}

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Techlite Zwischensohle für komfortable Dämpfung und hohe Energierückgabe
-- Omni-Tech wasserdichte und atmungsaktive Konstruktion
 - Omni-Grip Außensohle für abriebfeste Bodenhaftung
+- Omni-Tech wasserdichte und atmungsaktive Konstruktion
 - Zwickel-Zunge und schützende Zehenkappe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

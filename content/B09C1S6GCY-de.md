@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - MAP 2.0 TECHNOLOGIE MIT K.I.: Geleitet vom smarten Kartierungssystem weiß der RoboVac X8 ganz genau, wo er sich befindet und wo er reinigt, egal ob im ersten Stock, im Keller oder auf dem Dachboden.
 - iPATH LASER-NAVIGATION: Um die effizienteste Reinigungsroute zu finden, scannt die iPathTM Laser-Navigation das Zuhause ganz clever mit einem Laser in wenigen Augenblicken und erstellt in Echtzeit eine virtuelle Reinigungskarte - inklusive alle Ecken und Kanten.
-- IM LIEFERUMFANG: Ein RoboVac X8 Hybrid Saugroboter mit Wischfunktion, eine Ladestation, ein Netzteil, 2 Seitenbürsten, ein zusätzlicher Filter, ein Reinigungswerkzeug, einen Wasserbehälter, einen Wischmopp-Zusatz, 5 Einweg-Wischtücher, eine wasserfeste Unterlage, 5 Kabelbinder und eine Bedienungsanleitung.
-- 2-IN-1 SAUGER & WISCHMOPP: Ein RoboVac für zwei Funktionen! Der extra große 250 ml Wassertank fasst genug Wasser für ca. 140 Minuten Wischen und bis zu 180 Minuten Saugen.
 - TWIN TURBINE TECHNOLOGIE: Dank der enormen Kraft der Twin Turbines entfernt der um 80% erhöhte Luftdurchlass effektiv um 57,6% mehr Tierhaare und reduziert gleichzeitig das Verheddern in der Rollbürste. *Im Vergleich zu Saugrobotern RoboVac 30C.
+- 2-IN-1 SAUGER & WISCHMOPP: Ein RoboVac für zwei Funktionen! Der extra große 250 ml Wassertank fasst genug Wasser für ca. 140 Minuten Wischen und bis zu 180 Minuten Saugen.
+- IM LIEFERUMFANG: Ein RoboVac X8 Hybrid Saugroboter mit Wischfunktion, eine Ladestation, ein Netzteil, 2 Seitenbürsten, ein zusätzlicher Filter, ein Reinigungswerkzeug, einen Wasserbehälter, einen Wischmopp-Zusatz, 5 Einweg-Wischtücher, eine wasserfeste Unterlage, 5 Kabelbinder und eine Bedienungsanleitung.
 - UltraPack Staubkompressionstechnologie für 127% mehr Kapazität Schmutz wird dicht in den Staubbehälter gepackt, wodurch die aufgenommene Menge um 127% erhöht wird.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

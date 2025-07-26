@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Minecraft Abenteuer-Spielzeug für Mädchen und Jungen ab 8 Jahren: Die Expedition zur Gürteltiermine ist ein faszinierendes LEGO Minecraft Spielset mit Figuren aus dem beliebten Videospiel
-- Minecraft Action in der echten Welt: LEGO Minecraft Bauspielzeuge lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
 - Enthält Minecraft Minifiguren: Das Set beinhaltet eine Höhlenspinne und einen Wolf, sowie 2 Gürteltiere, die Hornschild zur Fertigung einer Wolfsrüstung liefern
+- Minecraft Action in der echten Welt: LEGO Minecraft Bauspielzeuge lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
 - Viele Spielmöglichkeiten: Dieses LEGO Minecraft Bauspielzeug lässt sich mühelos umgestalten, um neue Abenteuer und unzählige Geschichten im Minecraft Universum darstellen zu können
-- Minecraft Geschenk für Kinder: Dieses LEGO Bau- und Spielset ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Mädchen und Jungen ab 8 Jahren
 - Noch mehr Spielspaß mit weiteren Sets zum Videospiel: Schau dir auch all die anderen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls fantasievoll spielen lassen
+- Minecraft Abenteuer-Spielzeug für Mädchen und Jungen ab 8 Jahren: Die Expedition zur Gürteltiermine ist ein faszinierendes LEGO Minecraft Spielset mit Figuren aus dem beliebten Videospiel
+- Minecraft Geschenk für Kinder: Dieses LEGO Bau- und Spielset ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Mädchen und Jungen ab 8 Jahren
 - Spielset zum Videospiel: Der Actionspaß spielt sich in einer Mine im Savannen-Biom ab; Das Bauset beinhaltet ein Modell mit einem Hebel, um TNT explodieren zu lassen und einen Teil des Geländes wegzusprengen und kostbares Erz freizulegen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

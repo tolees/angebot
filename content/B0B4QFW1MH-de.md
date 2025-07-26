@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Übernimm die Steuerung über mehr als 70 Baumaschinen und gehe auf zwei gigantischen Karten die Bauprojekte deiner Träume an – alleine oder zusammen mit Freunden!
-- Online-Mehrspieler-Modus mit bis zu vier Spielern.
-- Zwei gigantische Karten, inspiriert von den USA und Deutschland. Jede Karte kommt mit eigener Kampagne.
 - Über 70 Baumaschinen, Fahrzeuge, LKW und Zusatzgeräte.
+- Zwei gigantische Karten, inspiriert von den USA und Deutschland. Jede Karte kommt mit eigener Kampagne.
+- Online-Mehrspieler-Modus mit bis zu vier Spielern.
 - Über 90 Aufträge, die dich fordern werden und 11 neue Lizenzpartner, 25 offizielle Lizenzpartner insgesamt.
 
 [🛒 Hier!!]({{< param buyurl >}})

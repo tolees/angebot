@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UHS-I U1 & Video-Class V10: UHS-I U1 in Kombination mit der Videoklasse V10 bietet die richtigen Spezifikationen für eine hochwertige Echtzeit-Videoaufzeichnung.
 - Philips MicroSDXC Ultra Speed Speicherkarten der Klasse 10 UHS-I U1 eignen sich für Anwendungen, die hohe Schreibgeschwindigkeiten erfordern, wie z. B. (Full) HD-Videoaufnahmen. Sie können Dateien mit einer maximalen Geschwindigkeit von 80 MB/s lesen. Unterstützt die A1 Fast App-Performance, die es den Nutzern ermöglicht, Apps schneller direkt von der Speicherkarte auszuführen.
+- UHS-I U1 & Video-Class V10: UHS-I U1 in Kombination mit der Videoklasse V10 bietet die richtigen Spezifikationen für eine hochwertige Echtzeit-Videoaufzeichnung.
 - Philips MicroSDXC Ultra Speed Speicherkarten können in Smartphones, Tablet-PCs und allen anderen Geräten mit Micro SDHC/XC-Kartensteckplätzen verwendet werden. Mit dem mitgelieferten Micro SD-Adapter können die Karten auch in Geräten verwendet werden, die das herkömmliche SDHC/XC Karten Format akzeptieren.
 - Lieferumfang: Philips MicroSDXC UHS-I U1 Speicherkarte 64 GB incl. Micro SD-Adapter (unterstützt A1 Fast App-Performance, V10, Class 10, (Full) HD-Video)
 - 64 GB Speicherkapazität: Bietet genügend Kapazität für die Speicherung von mindestens 18.000 Ihrer Lieblingsfotos minimal 10 Stunden Full-HD-Videoaufzeichnung*). *) Basierend auf 10MP jpg komprimiertem Fotoformat und 13MB/s Full HD Video.

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Controller für die Nintendo Switch im traditionellen Stil
-- Offiziell von Nintendo lizenziert
 - 2,5 m langes abnehmbares USB-Kabel
 - Soft-Touch-Oberfläche
+- Offiziell von Nintendo lizenziert
 - Spezialedition Yoshi-Design
+- Controller für die Nintendo Switch im traditionellen Stil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07BRRB24N{{</world>}}

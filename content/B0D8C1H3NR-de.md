@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modellnummer: 1031006
 - Kurzärmliges Poloshirt für Herren von Tom Tailor
+- Modellnummer: 1031006
 - Optimale Passform & hoher Tragekomfort
 
 [🛒 Hier!!]({{< param buyurl >}})

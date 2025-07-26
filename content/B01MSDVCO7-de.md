@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reduziert deutlich Gewicht und Masse auf jedem Gestell
-- Konzipiert für den flüssigen Einsatz mit Seilen aller Durchmesser
 - Optimiertes Design erhöht die Kraft und reduziert das Gewicht
+- Konzipiert für den flüssigen Einsatz mit Seilen aller Durchmesser
 - Das Rack-Pack enthält die sechs beliebtesten Cam-Farben
 - Einer der leichtesten Karabiner auf dem Markt
 

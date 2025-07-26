@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - - 5G-Netzwerk: 1, 3, 5, 7, 8, 26, 28, 40, 41, 66, 77, 78 SA/NSA/Sub6
-- - Typ: Smartphone
+- - 4G-Netzwerk: 1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 38, 40, 41, 66
 - - 2G-Netzwerk: GSM 850/900/1800/1900 - SIM 1 und SIM 2
 - - 3G-Netzwerk: HSDPA 850/900/1700 (AWS)/1900/2100
-- - 4G-Netzwerk: 1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 38, 40, 41, 66
+- - Typ: Smartphone
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CNKTWRL6{{</world>}}

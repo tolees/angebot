@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Ethylenvinylacetat
 - Obermaterial: Leder
+- Verschluss: Ethylenvinylacetat
 - Absatzform: Blockabsatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

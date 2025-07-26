@@ -30,10 +30,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit natürlichen ätherischen Ölen
 - Bewahrt die Feuchtigkeit der Haut
-- Kosmetisches Mittel. Nicht einnehmen und für Kinder unzugänglich aufbewahren. Bitte Badekristalle nicht mit empfindlichen Gegenständen in Kontakt bringen.
 - Mit wertvollem Extrakt der Arnika und natürlichen ätherischen Ölen aus Cabreuva, Rosmarin und Pinus-Arten
-- Wohltuend, wärmend & entlastend
+- Kosmetisches Mittel. Nicht einnehmen und für Kinder unzugänglich aufbewahren. Bitte Badekristalle nicht mit empfindlichen Gegenständen in Kontakt bringen.
 - Mit hohem Anteil Tiefensalz
+- Wohltuend, wärmend & entlastend
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00P7YEDCK{{</world>}}

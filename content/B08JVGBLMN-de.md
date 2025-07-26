@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Funktionen: Vorwärts / rückwärts / links / rechts / Stopp
-- Hochwertige Verarbeitung
-- Offiziell lizenziert
 - Bis zu 1 Stunde Fahrzeit bei ca. 9 Km/h
+- Funktionen: Vorwärts / rückwärts / links / rechts / Stopp
+- Offiziell lizenziert
+- Hochwertige Verarbeitung
 - Perfekt nachgebildete Details
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

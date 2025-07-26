@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Enthält zusätzliche Marker für diverse Spielsituationen
-- Set mit 55 Markern. Entworfen für Star Wars: Unlimited
 - Premium-Marker aus Acryl im ikonischen Design aus der Star Wars Galaxie
+- Set mit 55 Markern. Entworfen für Star Wars: Unlimited
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CK2PD84B{{</world>}}

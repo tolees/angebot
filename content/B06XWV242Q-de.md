@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 x 60 Speicherplätze
+- Großes, gut ablesbares Display
 - Abschaltautomatik
 - Vollautomatische Blutdruck- und Pulsmessung am Handgelenk
-- Großes, gut ablesbares Display
+- 2 x 60 Speicherplätze
 - Einstufung der Messergebnisse mit farbiger Skala und Arrhythmie-Erkennung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

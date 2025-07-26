@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein Geschenk, um die liebevollen Beziehungen zu feiern, die sich zwischen Eltern und Kind, Großeltern und Kindern entwickeln. Verpackt in einer Schachtel zum Verschenken
-- Die Künstlerin Susan Lordi schnitzt das Original jedes Stücks von Willow Tree aus ihrem Atelier in Kansas City, MO; Dieses Stück ist aus Susans Originalschnitzerei gegossen und von Hand bemalt
-- Diese Figur kommuniziert durch eine Geste, um eine Emotion darzustellen oder eine Erinnerung zu markieren. Willow Tree Skulpturen drücken Liebe, Nähe, Heilung, Mut und Hoffnungsgefühle eines gut gelebten Lebens aus
-- Sentiment: "Wir haben gerade erst angefangen . . . für immer meine Kleine", geschrieben auf Beilagenkarte
 - 4 Zoll handbemalte Harzfigur; Verpackt in einer Schachtel zum Verschenken
+- Ein Geschenk, um die liebevollen Beziehungen zu feiern, die sich zwischen Eltern und Kind, Großeltern und Kindern entwickeln. Verpackt in einer Schachtel zum Verschenken
+- Sentiment: "Wir haben gerade erst angefangen . . . für immer meine Kleine", geschrieben auf Beilagenkarte
+- Diese Figur kommuniziert durch eine Geste, um eine Emotion darzustellen oder eine Erinnerung zu markieren. Willow Tree Skulpturen drücken Liebe, Nähe, Heilung, Mut und Hoffnungsgefühle eines gut gelebten Lebens aus
+- Die Künstlerin Susan Lordi schnitzt das Original jedes Stücks von Willow Tree aus ihrem Atelier in Kansas City, MO; Dieses Stück ist aus Susans Originalschnitzerei gegossen und von Hand bemalt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083ZXC3TM{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- - PERSONALISIERTE EQs: Mit der soundcore App kannst du die Steuerung der Bluetooth-Kopfhörer anpassen und aus 22 EQ-Voreinstellungen wählen. Mit "Find My Earbuds" kann ein verlorener Bluetooth-Kopfhörer Geräusche abgeben, damit du ihn wiederfindest.
-- - KOMPAKTES DESIGN, IDEAL FÜR UNTERWEGS: Die soundcore P20i True Wireless Bluetooth-Kopfhörer und die Ladehülle sind kompakt und leicht und zusätzlich mit einer Trageschlaufe versehen. So passen sie in jede Tasche oder an auch sogar an den Schlüsselbund – über Platz brauchst du dir also keine Gedanken zu machen.
 - - KRAFTVOLLER BASS: Die kabellosen soundcore P20i Earbuds haben übergroße 10-mm-Treiber, die einen kraftvollen Sound mit verstärkten Bässen liefern, damit du dich in deinen Lieblingssongs verlieren kannst.
 - - LANGE SPIELZEIT, SCHNELLE AUFLADUNG: Die soundcore P20i True Wireless Bluetooth-Kopfhörer halten mit einer einzigen Aufladung 10 Stunden und inklusive Ladehülle ganze 30 Stunden durch. Einmal leer, kannst du sie mit einer 10-minütigen Ladung für ganze 2 Stunden weiternutzen.
+- - KOMPAKTES DESIGN, IDEAL FÜR UNTERWEGS: Die soundcore P20i True Wireless Bluetooth-Kopfhörer und die Ladehülle sind kompakt und leicht und zusätzlich mit einer Trageschlaufe versehen. So passen sie in jede Tasche oder an auch sogar an den Schlüsselbund – über Platz brauchst du dir also keine Gedanken zu machen.
+- - PERSONALISIERTE EQs: Mit der soundcore App kannst du die Steuerung der Bluetooth-Kopfhörer anpassen und aus 22 EQ-Voreinstellungen wählen. Mit "Find My Earbuds" kann ein verlorener Bluetooth-Kopfhörer Geräusche abgeben, damit du ihn wiederfindest.
 - - WASSERDICHT NACH IPX5: Die soundcore P20i Bluetooth-Kopfhörer sind wasserfest, sodass du sie dank Spritzwasserschutz auch bei schweißtreibendem Training oder draußen im Regen tragen kannst.
 - - KLARE ANRUFE MITHILFE VON KI: Die 2 integrierten Mikrofone der P20i Bluetooth Kopfhörer mit einem KI-Algorithmus sorgen dafür, dass du immer deutlich zu hören bist.
 

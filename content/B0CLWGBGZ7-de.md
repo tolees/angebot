@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Omni-Grip abriebfester Traktionsgummi
 - Leichte Techlite-Zwischensohle für lang anhaltenden Komfort, hervorragende Dämpfung und hohe Energierückgabe
+- Omni-Grip abriebfester Traktionsgummi
 - Obermaterial aus Wildleder und Synthetik mit Metallbeschlägen. Omni-Tech wasserdichte, atmungsaktive Konstruktion.
 
 [🛒 Hier!!]({{< param buyurl >}})

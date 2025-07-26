@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wirksam gegen schlechten geschmack
 - Sportart: Camping und Outdoor
+- Wirksam gegen schlechten geschmack
 - Für den einzelgebrauch
 
 [🛒 Hier!!]({{< param buyurl >}})

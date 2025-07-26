@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnelle Kopplung Dank Smart Intercom Pairing indem einfach QR codes mit der Sena Utility App gescannt werden
-- Klapphelm mit integrierter Sonnenblende
-- 4-Wege Bluetooth Intercom bzw. 2-Wege HD Intercom über Bluetooth 5.0
-- Lautsprecher & Mikrofon im Helm integegriert
 - ECE zertifiziert, Doppelhomologation P/J
+- Schnelle Kopplung Dank Smart Intercom Pairing indem einfach QR codes mit der Sena Utility App gescannt werden
+- Lautsprecher & Mikrofon im Helm integegriert
+- 4-Wege Bluetooth Intercom bzw. 2-Wege HD Intercom über Bluetooth 5.0
 - Drei-Knopf Bedienung an der linken Helmseite
+- Klapphelm mit integrierter Sonnenblende
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09K3FHN53{{</world>}}

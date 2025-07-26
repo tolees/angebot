@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Made in Germany
 - Zubehör für Werkzeuge und Elektrowerkzeuge
+- Made in Germany
 - Marke: Bosch Professional
 - Qualität von Bosch
 - Stylischer und modischer

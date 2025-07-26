@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Active-Passform mit viel Bewegungsfreiheit, Sehr schickes Design
-- Gut für Reisen geeignet dank leichter Mischung aus Modal- und Polyesterstoff, Schnitt gut zum Tragen mehrerer Kleidungsschichten geeignet
 - Schickes Polohemd für verschiedene Abenteuer, von Golf über Wanderungen bis hin zu Kneipenbesuchen mit Freunden
+- Active-Passform mit viel Bewegungsfreiheit, Sehr schickes Design
 - Lieferumfang: 1 x Columbia Poloshirt Herren, Nelson Point, Farbe: Columbia Grey, Größe: L, Art.-Nr.: 1772721
+- Gut für Reisen geeignet dank leichter Mischung aus Modal- und Polyesterstoff, Schnitt gut zum Tragen mehrerer Kleidungsschichten geeignet
 - Knopfleiste mit 3 Knöpfen als passende Ergänzung zum wunderbar strukturierten, weiten Kragen (hochstellbar zum Schutz vor starker Sonnenstrahlung)
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Horizontale Stützbalken; Tragetasche; Maximalgewichtsbeschränkung: 300 lb (136 kg)
 - Enthalten 220-240 V interne elektrische Pumpe
+- Horizontale Stützbalken; Tragetasche; Maximalgewichtsbeschränkung: 300 lb (136 kg)
 - Ungefähre Größe aufgeblasen: 99 cm x 1,91 m x 46 cm
 - Fiber-Tech -Technologie; zweilagige Komfortoberfläche sorgt für eine glatte Liegefläche; einzigartige Kanten- und Bodenringkonstruktion sorgen für hervorragende Stabilität; obere und untere Kantenstütze
 

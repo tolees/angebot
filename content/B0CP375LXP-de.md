@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Easy access to all ports】Designed for user convenience, the case allows for quick and hassle-free installation of the Raspberry Pi 5. The precise cutouts provide easy access to all ports, buttons, and features.
-- 【Passive Cooling Design】Dont need extra fan, the case itself acts as a heat sink and built-in Five Heatsink Pillars for better heat dissipation and comes with thermal pads for passive cooling. Can cool your Raspberry Pi no fan and no noise.
-- 【Sturdy and Portable】CNC aluminum alloy with high accuracy, it has double-layer grooved design with large surface area. can provide a strong and durable protection for your Raspberry Pi.
-- 【Wiki】https://wiki.52pi.com/index.php?title=C-0047
 - 【Packing List】1 x Raspberry Pi 5 Aluminum Case;5 x Thermal Pads;1 x Screws Pack;1x Allen Wrench
+- 【Wiki】https://wiki.52pi.com/index.php?title=C-0047
+- 【Sturdy and Portable】CNC aluminum alloy with high accuracy, it has double-layer grooved design with large surface area. can provide a strong and durable protection for your Raspberry Pi.
+- 【Passive Cooling Design】Dont need extra fan, the case itself acts as a heat sink and built-in Five Heatsink Pillars for better heat dissipation and comes with thermal pads for passive cooling. Can cool your Raspberry Pi no fan and no noise.
+- 【Easy access to all ports】Designed for user convenience, the case allows for quick and hassle-free installation of the Raspberry Pi 5. The precise cutouts provide easy access to all ports, buttons, and features.
 - 【Pi 5 Aluminum Case】GeeekPi Raspberry Pi Armor Case V5 is specially designed for Raspberry Pi 5 8GB/4GB. With Power Supply Kit, ASIN: B0CQ1R3Y6P, For Pi5 4GB Starter Kit,ASIN: B0CSBWBZ86, Pi5 8GB Starter Kit,ASIN: B0CSBVH8K9
 
 [🛒 Hier!!]({{< param buyurl >}})

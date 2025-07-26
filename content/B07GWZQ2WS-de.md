@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stufenlose Temperaturregelung
-- 2-stufige Dampfregelung
 - Transparenter Wassertank (ca. 150 ml) inklusive Messbecher
 - Edelstahlspezialsohle
 - 7 Funktionen: Sprüheinrichtung, Dampfstoß, Vertikaldampf, Trockenfunktion (Dampf kann abgeschaltet werden), Selbstreinigungsfunktion (zuschaltbar), Tropfstopp, Anti-Kalk
+- 2-stufige Dampfregelung
+- Stufenlose Temperaturregelung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07GWZQ2WS{{</world>}}

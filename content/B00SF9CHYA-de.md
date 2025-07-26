@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schmale Taille
 - Vorne tief sitzend und am Rücken normal hoch
 - Eng anliegend vom Oberschenkel bis zum Saum
-- Schmale Taille
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00SF9CHYA{{</world>}}

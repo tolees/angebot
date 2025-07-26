@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 - 10 Spieler - ab 16 Jahren - 30 Minuten Spieldauer
 - Bitte beachten Sie, dass die jeweiligen Sprachvarianten nur in den entsprechenden Ländern richtig funktionieren, da die URL-Links auf Spotify nicht überall identisch sind.
-- IDEAL FÜR FREUNDE UND FAMILIE: Mit über 300 der größten Hits der letzten 100 Jahre ist HITSTER das perfekte Partyspiel für einen Abend voller Lachen, Singen, Tanzen und gemeinsamen Erinnerungen.
-- Mit Spotify Premium bekommst du das beste Spielerlebnis, denn jeder kann mitspielen! Mit Spotify Free ist ein Player der DJ oder Ihr wechselt euch ab, so kann jeder Spieler einmal teilnehmen. Bei der Nutzung eines anderen Musik-Streaming-Dienstes spielt ein Spieler den DJ oder die Spieler müssen abwechselnd den Titel auf der Karte manuell auswählen.
-- Spotify und Android / IOS entwickeln sich stetig weiter, deshalb entwickeln wir die App ebenfalls weiter, um das Spielen einfacher zu machen. Es wird empfohlen, im App Store nach Updates und Kommentaren zu suchen
-- SUPER EINFACHE REGELN und keinerlei Spielvorbereitung lassen die Party im Handumdrehen beginnen. Scanne einfach eine Karte mit der kostenlosen Hitster-App und die Musik wird automatisch auf Spotify abgespielt. Jeder ist zur Hitster-Party eingeladen!
 - EIN LUSTIGES KARTENSPIEL: Mit HITSTER, dem Musikkartenspiel des Jahrhunderts, könnt ihr sofort die ultimative Party feiern!
+- Spotify und Android / IOS entwickeln sich stetig weiter, deshalb entwickeln wir die App ebenfalls weiter, um das Spielen einfacher zu machen. Es wird empfohlen, im App Store nach Updates und Kommentaren zu suchen
+- 2 - 10 Spieler - ab 16 Jahren - 30 Minuten Spieldauer
+- Mit Spotify Premium bekommst du das beste Spielerlebnis, denn jeder kann mitspielen! Mit Spotify Free ist ein Player der DJ oder Ihr wechselt euch ab, so kann jeder Spieler einmal teilnehmen. Bei der Nutzung eines anderen Musik-Streaming-Dienstes spielt ein Spieler den DJ oder die Spieler müssen abwechselnd den Titel auf der Karte manuell auswählen.
 - Hört euch die HITS aus über 100 Jahren an, ordnet sie abwechselnd in chronologischer Reihenfolge auf eurer Musik-Zeitleiste an und gestaltet eure Reise in die Vergangenheit.
+- IDEAL FÜR FREUNDE UND FAMILIE: Mit über 300 der größten Hits der letzten 100 Jahre ist HITSTER das perfekte Partyspiel für einen Abend voller Lachen, Singen, Tanzen und gemeinsamen Erinnerungen.
+- SUPER EINFACHE REGELN und keinerlei Spielvorbereitung lassen die Party im Handumdrehen beginnen. Scanne einfach eine Karte mit der kostenlosen Hitster-App und die Musik wird automatisch auf Spotify abgespielt. Jeder ist zur Hitster-Party eingeladen!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09T3K9ZC6{{</world>}}

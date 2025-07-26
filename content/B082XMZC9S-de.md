@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bequeme Lichtsteuerung: Kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation) lässt sich der Hue Spot mit Sprache oder einem Klick steuern
-- Ihr Zuhause gestalten: Durch die hohe Schutzart IP65 ist die Gartenlampe vor Feuchtigkeit und Staub wetterfest geschützt und erhellt den Außenbereich zu jeder Jahreszeit
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse G
-- Einzigartige Atmosphäre: Dank 16 Mio. Farben und kühlen bis warmen Weißtönen schafft die dimmbare Gartenleuchte ein besonderes, individuell anpassbares Ambiente
 - Einfache Installation: Dank der Niedervolt-Technologie werden die Spots an den Niederspannungsadapter angeschlossen – ganz ohne komplizierte Verkabelung
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse G
+- Ihr Zuhause gestalten: Durch die hohe Schutzart IP65 ist die Gartenlampe vor Feuchtigkeit und Staub wetterfest geschützt und erhellt den Außenbereich zu jeder Jahreszeit
+- Einzigartige Atmosphäre: Dank 16 Mio. Farben und kühlen bis warmen Weißtönen schafft die dimmbare Gartenleuchte ein besonderes, individuell anpassbares Ambiente
 - Smarte Erweiterung: Die separat erhältliche Hue Bridge Steuerungszentrale ist für alle Outdoor Artikel notwendig und ermöglicht die Automatisierung und weltweite Steuerung der Spots und anderer Lampen
 
 [🛒 Hier!!]({{< param buyurl >}})

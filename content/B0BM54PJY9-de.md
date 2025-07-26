@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Textil
 - Verschluss: Schnüren
+- Obermaterial: Textil
 - Sohle: Gummi
 - Absatzform: Flach
 

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Pflegetipps: Kunstfasern nehmen kaum Feuchtigkeit auf. Daher ist eine Reinigung mit einem feuchten Tuch oder Schwamm möglich. Zudem kann der Teppich mit einem Staubsauger abgesaugt werden.
-- Qualität: - Gesamtgewicht von ca 2,0 kg/m² Gesamtgewicht - Florhöhe von ca. 30 mm - Textilrücken aus Jute - ringsum eingefasst (gekettelt) - das Maß kann +/- 2 cm abweichen
-- Details: - einfarbiger Shaggy-Teppich (Hochflor) - rechteckige Form in Dunkelgrau/ Anthrazit - in alle Gestaltungskonzepte und -räume integrierbar - geeignet für Fußbodenheizung
 - Sorglos bestellen! Mit dem unabhängigen Prüfsiegel Öko Tex Standard 100 werden unsere Teppiche auf gesetzlich verbotene und gesundheitsschädliche Chemikalien und Substanzen untersucht.
 - Flormaterial: -maschinell hergestellt aus 100% Polypropylen - Textilrücken aus Jute - kuschlig, weicher Flor - strapazierfähig und pflegeleicht
+- Details: - einfarbiger Shaggy-Teppich (Hochflor) - rechteckige Form in Dunkelgrau/ Anthrazit - in alle Gestaltungskonzepte und -räume integrierbar - geeignet für Fußbodenheizung
+- Qualität: - Gesamtgewicht von ca 2,0 kg/m² Gesamtgewicht - Florhöhe von ca. 30 mm - Textilrücken aus Jute - ringsum eingefasst (gekettelt) - das Maß kann +/- 2 cm abweichen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B016BZAHGO{{</world>}}

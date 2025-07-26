@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fleischfressender Spaß! Durch die beweglichen Gelenke und das Maul, das sich bis zu 35 Grad öffnen lässt und sogar Mini-Dinosaurier „verschlingt“, können Kampfbewegungen realistisch nachgespielt werden. (Mini-Dinosaurierfiguren separat erhältlich.)
 - T.-rex in großem Maßstab! Mit dieser ca. 99 cm großen Tyrannosaurus-rex-Actionfigur die Spannung von Jurassic World: Die Wiedergeburt nach Hause holen.
-- Furchteinflößendes Design! Der allseits beliebte Tyrannosaurus rex überzeugt durch sein Design getreu dem Film Jurassic World: Die Wiedergeburt. Diese Figur wertet jede Jurassic World-Sammlung auf!
 - Immer neuer Spielspaß! Wird der Bauch des Dinosauriers geöffnet, purzelt die gefressene Beute wieder heraus.
+- Furchteinflößendes Design! Der allseits beliebte Tyrannosaurus rex überzeugt durch sein Design getreu dem Film Jurassic World: Die Wiedergeburt. Diese Figur wertet jede Jurassic World-Sammlung auf!
+- Fleischfressender Spaß! Durch die beweglichen Gelenke und das Maul, das sich bis zu 35 Grad öffnen lässt und sogar Mini-Dinosaurier „verschlingt“, können Kampfbewegungen realistisch nachgespielt werden. (Mini-Dinosaurierfiguren separat erhältlich.)
 - Starke Präsenz! Dieser T.-rex ist ein tolles Geschenk für Dinosaurierfans ab 4 Jahren, insbesondere für Fans von Jurassic World.
 
 [🛒 Hier!!]({{< param buyurl >}})

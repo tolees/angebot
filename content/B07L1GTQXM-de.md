@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Abmessungen: Höhe: 32 cm, Durchmesser Lampenschirm: 15 cm, Durchmesser Leuchtenfuß: 12 cm
-- Die Lampe bietet mit ihrem besonderen Design ein Highlight in jedem Raum – egal, ob im Schlafzimmer, Wohnzimmer oder Esszimmer
 - Die Tischlampe mit einem Lampenfuß im angesagten Boho-Muster aus Keramik in Naturweiß und einem Lampenschirm aus Textil in Weiß fügt sich nahtlos in den modernen Skandi-Trend ein
 - Kein Leuchtmittel im Lieferumfang enthalten. Geeignet für jedes Leuchtmittel mit E14 Sockel, maximal 40 Watt pro Fassung
+- Die Lampe bietet mit ihrem besonderen Design ein Highlight in jedem Raum – egal, ob im Schlafzimmer, Wohnzimmer oder Esszimmer
 - Bequem Ein- und Ausschalten lässt sich die Tischleuchte über einen Schalter am Kabel
 
 [🛒 Hier!!]({{< param buyurl >}})

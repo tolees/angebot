@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- seitliche Einschubtaschen, Back Pocket mit Zipper
-- aus Interlock-Jersey
 - Kapuze und unterer Rücken aus Ripstop-Polyester
-- Kapuze mit Gummizugband
+- seitliche Einschubtaschen, Back Pocket mit Zipper
 - Rippbündchen an Ärmeln und Saum
+- Kapuze mit Gummizugband
+- aus Interlock-Jersey
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5CYTWW{{</world>}}

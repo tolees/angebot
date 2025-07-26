@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Adapter mit Schalter】 Der praktische Netzadapter verfügt über einen Schalter, der die Lebensdauer des Geräts verlängert und einen besseren Schutz für das Dateisystem und die Datenintegrität des Raspberry Pi bietet. Dadurch werden potenzielle Probleme durch plötzliches Abschalten vermieden.
-- 【Raspberry Pi OS vorinstalliert】 Das Raspberry Pi OS ist bereits auf der Speicherkarte vorinstalliert. Stecken Sie einfach den Raspberry Pi ein und Sie können sofort loslegen, ohne den lästigen Download und das Brennen des Betriebssystems zu durchlaufen.
-- 【Verbesserte Kühlung】 Mit einem ultraleisen PWM-Lüfter und vier Aluminiumkühlkörpern ausgestattet, garantiert der Raspberry Pi eine herausragende Kühlleistung für optimale Leistung und Betriebssicherheit.
-- 【Leistungsstarke Performance】 Der Raspberry Pi 4 ist mit einer leistungsstarken 1,5 GHz 64-Bit-Quad-Core-CPU (4 GB RAM) ausgestattet. Er bietet eine beeindruckende Rechenleistung, um komplexe Aufgaben mühelos zu bewältigen und mehrere Anwendungen gleichzeitig auszuführen.
 - 【Type-C-Kartenleser】 Der Type-C-Kartenleser ermöglicht eine schnellere Datenübertragungsgeschwindigkeit und ist kompatibel mit einer Vielzahl von Geräten. Dadurch wird ein reibungsloses und angenehmes Benutzererlebnis gewährleistet.
+- 【Verbesserte Kühlung】 Mit einem ultraleisen PWM-Lüfter und vier Aluminiumkühlkörpern ausgestattet, garantiert der Raspberry Pi eine herausragende Kühlleistung für optimale Leistung und Betriebssicherheit.
+- 【Adapter mit Schalter】 Der praktische Netzadapter verfügt über einen Schalter, der die Lebensdauer des Geräts verlängert und einen besseren Schutz für das Dateisystem und die Datenintegrität des Raspberry Pi bietet. Dadurch werden potenzielle Probleme durch plötzliches Abschalten vermieden.
+- 【Leistungsstarke Performance】 Der Raspberry Pi 4 ist mit einer leistungsstarken 1,5 GHz 64-Bit-Quad-Core-CPU (4 GB RAM) ausgestattet. Er bietet eine beeindruckende Rechenleistung, um komplexe Aufgaben mühelos zu bewältigen und mehrere Anwendungen gleichzeitig auszuführen.
+- 【Raspberry Pi OS vorinstalliert】 Das Raspberry Pi OS ist bereits auf der Speicherkarte vorinstalliert. Stecken Sie einfach den Raspberry Pi ein und Sie können sofort loslegen, ohne den lästigen Download und das Brennen des Betriebssystems zu durchlaufen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CJRHZC54{{</world>}}

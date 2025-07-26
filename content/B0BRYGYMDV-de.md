@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Moderne Passform
 - Hoher Tragekomfort
+- Moderne Passform
 - Hochwertiges Produkt
 - Marke: Nike
 - Absolute Bewegungsfreiheit

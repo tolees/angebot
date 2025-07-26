@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hervorragend Verarbeitet
 - Original Produkt vom Herstelle
+- Hervorragend Verarbeitet
 - Modellnummer: 23106-Hbsupp
 - Zu Kaufen
 

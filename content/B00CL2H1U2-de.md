@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zum Beißen geeignet, weich und flexibel für die Kleinen
-- Der Artikel ist farblich sortiert. Eine Farbe auswahl ist leider nicht möglich
 - In jedem Rad befinden sich lustige Rasselperlen, die für Geräuscheffekte und visuelle Stimulation sorgen
 - Verkauft durch zufällige Farbe blau oder rot
+- Der Artikel ist farblich sortiert. Eine Farbe auswahl ist leider nicht möglich
+- Zum Beißen geeignet, weich und flexibel für die Kleinen
 - Oball macht dieses Auto super einfach zu greifen und zu rollen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

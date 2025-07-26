@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gemeinnützige Produktion für mehr Integration:
 - Umfassendes Lernpaket für angehende Jongleure:
 - Vielseitiges Set für Kreativität und Bewegung:
+- Gemeinnützige Produktion für mehr Integration:
 - Hochwertige Materialien für dauerhafte Freude:
 - 12 Farben für grenzenlose Kreativität:
 

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rumbullion! wird hergestellt aus einem Blend karibischer Rums von höchster Qualität, welcher anschließend mit einer speziellen Gewürzmischung verfeinert wird
+- Rumbullion! überzeugt durch einen außergewöhnlich würzigen und ausbalancierten Geschmack mit Noten von Orangen, Nelke, Zimt, Honig & Vanille
 - Die Rezeptur dieses Premium Spiced Rum wurde so gewählt, dass dieser perfekt mit Cola harmoniert, aber auch pur auf Eis ein Genuss ist oder in verschiedenen Cocktails wie z.B. Old Fashioned, Darkn Stormy, Cuba Libre, uvm perfekt zur Geltung kommt
 - Jede Flasche Rumbullion! ist ein Unikat, da sie von Hand eingewickelt, gebunden und mit Wachs versiegelt wird: das perfekte Geschenk
 - Ein mehrfach ausgezeichneter Premium-Caribbean Spiced Rum (u.a. Gold als "Worlds Best Traditional Spiced" bei den World Rum Awards 2021) mit einzigartiger Rezeptur und besonderem Geschmack
-- Rumbullion! überzeugt durch einen außergewöhnlich würzigen und ausbalancierten Geschmack mit Noten von Orangen, Nelke, Zimt, Honig & Vanille
+- Rumbullion! wird hergestellt aus einem Blend karibischer Rums von höchster Qualität, welcher anschließend mit einer speziellen Gewürzmischung verfeinert wird
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00JWYR7QA{{</world>}}

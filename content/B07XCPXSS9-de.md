@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H): 295.0 x 295.0 x 85.0 mm
 - Verpackungsgewicht: 1000.0 Gramm
-- Farbe: Mehrfarbig
+- Verpackungsabmessungen (L x B x H): 295.0 x 295.0 x 85.0 mm
 - Herkunftsland:- China
+- Farbe: Mehrfarbig
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XCPXSS9{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: AdvancedLeafBlower 36V-750, Karton
 - Das Axialgebläse ermöglicht das einfache Lösen hartnäckiger Gartenabfälle von harten, unebenen Oberflächen
 - Leistungsstarker Akku-Laubbläser für anspruchsvolle Reinigungsarbeiten im Garten ohne Emissionen
 - Großer Leistungsbereich durch stufenlose Drehzahlregelung für die optimale Wahl von Leistung, Geräuschpegel und Laufzeit
-- Lieferumfang: AdvancedLeafBlower 36V-750, Karton
 - Die Advanced Gartengeräte von Bosch - die leistungsstärksten Produkte für anspruchsvolle Aufgaben
 
 [🛒 Hier!!]({{< param buyurl >}})
