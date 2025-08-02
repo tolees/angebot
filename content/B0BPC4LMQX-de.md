@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'LEGO Disney Classic Videokassette 43227'
+date: 2024-06-28 16:24:16
+image: 'https://m.media-amazon.com/images/I/41lpM1fCtbL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BPC4LMQX-de LEGO Disney Classic Videokassette 43227'
+sku: 'B0BPC4LMQX-de'
+tags: [ '🇩🇪', ]
+actualPrice: 109.89 EUR
+currency: EUR
+price: 109.89
+comparePrice: 139.49 EUR
+prodname: 'LEGO Disney Classic Videokassette 43227'
+country: 'de'
+flag: '🇩🇪'
+brand: ''
+buyurl: 'https://www.amazon.de/dp/B0BPC4LMQX/?tag=tolees0ca-21'
+descuento: '21.22'
+average: '109.89'
+---
+
+Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Bösewicht Icons
+- Collectable item, not requarily suitable as a childs gift
+- Contains 1540 Pieces
+- Lieferung in werkseitig versiegelter Box
+
+[🛒 kauf es hier!!]({{< param buyurl >}})
+{{<world>}}B0BPC4LMQX{{</world>}}
