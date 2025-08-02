@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Beschwöre Einherier, starke Kriegergeister, die von der Walküre ausgewählt werden und die dir im Kampf beistehen!
 - Gleite mühelos über das Schlachtfeld und führe mit dem neuen Seelenketten-System extrem schnelle Aktionen aus
 - Die "Künsteleiste" füllt sich, wenn der Spieler fortwährend Angriffe ausführt und Kombos aufrechterhält
-- Beschwöre Einherier, starke Kriegergeister, die von der Walküre ausgewählt werden und die dir im Kampf beistehen!
 - Verbessere deine Waffen, Fertigkeiten und Einherier-/Göttliche Künste-Kombos, um deinen Spielstil anzupassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

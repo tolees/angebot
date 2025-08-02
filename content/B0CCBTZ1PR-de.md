@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dein Lieblings -Star Wars: The Mandalorian Pops! Ich bin in Bitty Pops geschrumpft worden! Erweitern Sie Ihre Sammlung mit diesem Sortiment von Bitty Pop! Sammlerstücke mit den beliebtesten Charakteren in der Galaxie! Dieser 4-Pack enthält Bitty Pop! Heavy Infantry Mandalorian , Bitty Pop! The Armorer , Bitty Pop! Bo-Katan Kryze und ein mysteriöser Bitty Pop! Figur
-- Vier Sammlerstücke pro Einzelpaketkauf
 - Bitty Pops! sind in harten Acrylfällen mit abnehmbaren Bodendeckel verpackt
 - Das mögliche Mysterium Bitty Pops! sind hyper -selten (1/6) Grogu , hyper -seltene (1/6) Grogu mit Tasse, seltener (1/3) Grogu mit Frosch und seltener (1/3) Grogu mit Keksen
+- Vier Sammlerstücke pro Einzelpaketkauf
 - Warnung: Erstickungsgefahr. Nicht für Kinder unter 3 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})

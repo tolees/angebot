@@ -29,14 +29,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Besonders hohe Langlebigkeit durch Bosch Electronic Cell Protection (ECP), was den Akku vor Überlastung, Überhitzung und Tiefentladung schützt
-- Kein Memory-Effekt bei häufiger Teilentladung: Akku stellt stets die ursprüngliche Energiemenge zur Verfügung
-- Kein Memory-Effekt bei häufiger Teilentladung: Akku stellt stets die ursprüngliche Energiemenge zur Verfügung
 - Der Akku kann für alle Bosch Home & Garden 12V-Geräte verwendet werden
+- Lieferumfang: 1x Akku 12V 2,0 Ah, Karton
 - Der Ersatzakku PBA 12 Volt - immer einsatzbereit dank Lithium-Ionen Technologie
+- Kein Memory-Effekt bei häufiger Teilentladung: Akku stellt stets die ursprüngliche Energiemenge zur Verfügung
+- Kein Memory-Effekt bei häufiger Teilentladung: Akku stellt stets die ursprüngliche Energiemenge zur Verfügung
+- Besonders hohe Langlebigkeit durch Bosch Electronic Cell Protection (ECP), was den Akku vor Ãœberlastung, Ãœberhitzung und Tiefentladung schützt
 - Der Akku kann für alle Bosch Home and Garden 12V-Geräte verwendet werden
 - Lieferumfang: 1x Akku 12V 2,0 Ah, Karton
-- Lieferumfang: 1x Akku 12V 2,0 Ah, Karton
-- Besonders hohe Langlebigkeit durch Bosch Electronic Cell Protection (ECP), was den Akku vor Ãœberlastung, Ãœberhitzung und Tiefentladung schützt
 - Der Ersatzakku PBA 12 Volt - immer einsatzbereit dank Lithium-Ionen Technologie
 
 [🛒 Hier!!]({{< param buyurl >}})

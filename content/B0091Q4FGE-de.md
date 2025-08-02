@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Speziell für die Fotografie und Videografie entwickelt, hervorragendes Weitwinkelobjektiv für Architekt- und Landschaftsaufnahmen
-- Lieferumfang: 1x Walimex Pro 14mm 1:3,1 Foto- und Videoobjektiv (inkl. fester Gegenlichtblende) für Nikon Objektivbajonett inkl. Gegenlichtblende, Objektivdeckel und Objektivtasche
-- Weiche, leichtgängige Schärfeneinstellung, Blendenring und Fokusring mit Zahnkranz für Schärfezieheinrichtungen
-- Manuelle Belichtungseinstellung und Fokussierung, stufenlose Blendeneinstellung, feste Gegenlichtblende
 - Hochwertige Qualität in Optik und Mechanik mit vergüteten Glaslinsen, Entfernungs- und Blendenskala seitlich angeordnet
+- Weiche, leichtgängige Schärfeneinstellung, Blendenring und Fokusring mit Zahnkranz für Schärfezieheinrichtungen
+- Lieferumfang: 1x Walimex Pro 14mm 1:3,1 Foto- und Videoobjektiv (inkl. fester Gegenlichtblende) für Nikon Objektivbajonett inkl. Gegenlichtblende, Objektivdeckel und Objektivtasche
+- Speziell für die Fotografie und Videografie entwickelt, hervorragendes Weitwinkelobjektiv für Architekt- und Landschaftsaufnahmen
+- Manuelle Belichtungseinstellung und Fokussierung, stufenlose Blendeneinstellung, feste Gegenlichtblende
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0091Q4FGE{{</world>}}

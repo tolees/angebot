@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Waist : Normale Bundhöhe
 - Verschluss : Hosenschlitz mit Reißverschluss
 - Materialzusammensetzung: 50% Recycelter Polyester, 21% Nylon, 17% Viskose, 10% Elasthan, 2% Polyester
-- Waist : Normale Bundhöhe
 - Produktart : Chinohose
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

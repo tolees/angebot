@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hält kühl und bequem
 - Gute Qualität
+- Hält kühl und bequem
 - Innovative Produkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

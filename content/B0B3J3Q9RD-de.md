@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Fehlerbehebung】Wenn es kein Wasser versprüht, vergewissern Sie sich, dass der Reinwassertank richtig installiert ist ( senkrecht einsetzen, ohne Spalt zwischen Tank und Gehäuse), oder lösen Sie die Schraubkappe an der Unterseite des Schmutzwassertanks leicht (vergewissern Sie sich, dass kein Wasser tropft).
-- 【Geeignete Reinigungsmittel】 Schwach saures Elektrolytwasser mit wenig Schaum wird empfohlen, um Schaumbildung und mögliche Lecks zu verhindern (Reinigungsmittel enthalten). Nicht geeignet zum Aufsaugen von trockenem Staub, großen Plastiktaschen, Metallgegenständen (z. B. Nadeln), großen Mengen Abfall, Pulver, Sand und Kies
 - 【Leistungsstarke Reinigung】 Der 400W Motor ist ideal für die effektive Reinigung von Teppich oder Sofa sowie der Sitze und Polster Ihres Autos. 1 Bürstendüse für Teppiche, Polstermöbel, Treppen und 1 Winkeldüse für Ritzen. Perfekte Passform für die Reinigung von Flecken in allen Ecken. Mit 120 cm integriertem Schlauch und separater Schlauchaufbewahrung.
-- 【Leicht zu transportieren】Der Waschsauger wiegt 3,4 kg und hat einen praktischen Griff an der Oberseite, mit dem Sie alle Ecken Ihres Hauses leicht erreichen können. Mit integriertem 120cm Schlauch zum Entfernen von Flecken und wickeln Sie den Schlauch zur einfachen Aufbewahrung um den Halter
+- 【Fehlerbehebung】Wenn es kein Wasser versprüht, vergewissern Sie sich, dass der Reinwassertank richtig installiert ist ( senkrecht einsetzen, ohne Spalt zwischen Tank und Gehäuse), oder lösen Sie die Schraubkappe an der Unterseite des Schmutzwassertanks leicht (vergewissern Sie sich, dass kein Wasser tropft).
 - 【Doppelter Wassertank】 Abnehmbarer Wassertank zum einfachen Befüllen und Entleeren. Das Doppeltanksystem ermöglicht Reinigung mit sauberem Wasser, während Schmutz und Staub separat gespeichert werden. Reinwassertank: 1100 ml, Schmutzwassertank: 500 ml
+- 【Leicht zu transportieren】Der Waschsauger wiegt 3,4 kg und hat einen praktischen Griff an der Oberseite, mit dem Sie alle Ecken Ihres Hauses leicht erreichen können. Mit integriertem 120cm Schlauch zum Entfernen von Flecken und wickeln Sie den Schlauch zur einfachen Aufbewahrung um den Halter
+- 【Geeignete Reinigungsmittel】 Schwach saures Elektrolytwasser mit wenig Schaum wird empfohlen, um Schaumbildung und mögliche Lecks zu verhindern (Reinigungsmittel enthalten). Nicht geeignet zum Aufsaugen von trockenem Staub, großen Plastiktaschen, Metallgegenständen (z. B. Nadeln), großen Mengen Abfall, Pulver, Sand und Kies
 - 【Smart Stop】Wenn das Abwasser die MAX-Linie erreicht, stoppt der Staubsauger automatisch die Absaugung (der Motor läuft noch). Schalten Sie das Gerät aus und den Abwassertank entleeren. Bitte nicht zu viel Wasser auf einmal versprühen und das Wasser sofort aufsaugen.
 
 [🛒 Hier!!]({{< param buyurl >}})

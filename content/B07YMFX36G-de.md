@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkttyp: ABIS MUSIC
 - Groovin At Smalls Paradise Vinyl
+- Produkttyp: ABIS MUSIC
 - Marke: BLUE NOTE
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

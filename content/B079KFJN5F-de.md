@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die bei Kindern beliebten City-Sets und Dino-Abenteuer regen die Fantasie und das Erzählen von Geschichten an.
 - Alle Sets (separat erhältlich) lassen sich miteinander verbinden. Die Sets sind mit anderen Hot Wheels City Sets und Tracks kompatibel.
+- Die bei Kindern beliebten City-Sets und Dino-Abenteuer regen die Fantasie und das Erzählen von Geschichten an.
 - Die Hot Wheels City Sets bieten Kindern im Alter von 3 bis 8 Jahren interaktive Spielaction.
 - Mit den drei Sets: Flugsaurier-Attacke, Dino Achterbahn-Attacke und T-Rex Supermarkt-Alarm, lässt sich eine ganze Hot Wheels City mit legendären Orten nachbauen!
 

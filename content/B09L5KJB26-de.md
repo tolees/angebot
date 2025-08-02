@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SOFTFOAM+: Step-in-Komfort-Einlegesohle, die dank der extradicken Ferse für eine weiche Dämpfung sorgt
 - PUMA Formstreifen an der Innen- und Außenseite
+- SOFTFOAM+: Step-in-Komfort-Einlegesohle, die dank der extradicken Ferse für eine weiche Dämpfung sorgt
 - Zungenkonstruktion auf dem Obermaterial mit Formteilen in Heißschnitt und zusätzlichem Support
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

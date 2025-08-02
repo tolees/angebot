@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 128 GB interner Speicher, Android 14.0
 - Farbe: blau/schwarz
 - 16,4 cm (6,5 Zoll) Super AMOLED Display mit 1080 x 2340 Pixel
 - 2,2 GHz MediaTek MT6789V/CD Octa-Core-Prozessor
-- 128 GB interner Speicher, Android 14.0
 - 50 Megapixel Hauptkamera
 
 [🛒 Hier!!]({{< param buyurl >}})

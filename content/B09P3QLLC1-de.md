@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Circa 6 cm groß
-- Kopf, Arme und Beine sind beweglich
-- Für Kinder ab 3 Jahren geeignet
 - Mit Elefanten Mädchen Figur
+- Kopf, Arme und Beine sind beweglich
 - Mit Grill, Tisch und Stühlen und zahlreichem Grillzubehör
+- Circa 6 cm groß
+- Für Kinder ab 3 Jahren geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09P3QLLC1{{</world>}}

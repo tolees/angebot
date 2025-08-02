@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Stereo-Lautsprecherkabel mit einem Querschnitt von 2x4,0 mm², welches eine hohe Klangqualität garantiert. Das Lautsprecherkabel wird auf einer praktischen Kabelspule geliefert und besitzt eine sichtbare Polaritätsmarkierung.
+- Das Lautsprecherkabel ist für Verstärkerleistungen bis ca. 180 Watt geeignet.
 - Lieferumfang: Lautsprecherkabel auf Mini-Spule in der angegebenen Länge, 2x4,0 mm²
 - Durch den Einsatz von hochwertigem und reinem OFC (sauerstofffreies Kupfer), das als Leitmaterial verwendet wird, überträgt dieses Lautsprecherkabel einen absolut klaren Klang.
-- Das Lautsprecherkabel ist für Verstärkerleistungen bis ca. 180 Watt geeignet.
 - Das Lautsprecherkabel besteht aus vielen ultradünnen Kupferlitzen und dieser spezielle Aufbau ermöglicht es, dass das Kabel besonders leitfähig und flexibel ist.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

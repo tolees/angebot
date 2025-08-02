@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Diebstahlgeschützt ist der Rasenroboter durch einen PIN-Code und das Warnsignal. Die Rückkehr zur Ladestation und auch der Ladevorgang erfolgt automatisch bei Bedarf.
+- Der Einhell FREELEXO 300 Solo gehört zur leistungsstarken Power X-Change-Familie, die grenzenlose Flexibilität innerhalb der Systemfamilie gewährt.
+- Die Sicherheitssensorik verfügt über Regen-, Stoß-, Kipp- und Hebesensoren, so dass der Mähroboter selbstständig Hindernisse erkennt.
 - Der Mähroboter ist ausgelegt für eine Rasenfläche bis zu 300 m². Der Mähroboter verfügt über eine 20 mm bis 60 mm Schnitthöhenverstellung und ist geeignet für Steigungen bis zu 35%.
 - Über das intuitiv bedienbare Tastenfeld lässt sich die Arbeitszeit in 8 Stufen programmieren und ein eigenständiges Programm für die Nebenflächen kann gestartet werden.
-- Die Sicherheitssensorik verfügt über Regen-, Stoß-, Kipp- und Hebesensoren, so dass der Mähroboter selbstständig Hindernisse erkennt.
 - Der FREELEXO 300 Solo beinhaltet alles, was für die Installation und den Betrieb eines Einhell Mähroboters aus der FREELEXO Serie benötigt wird.
-- Der Einhell FREELEXO 300 Solo gehört zur leistungsstarken Power X-Change-Familie, die grenzenlose Flexibilität innerhalb der Systemfamilie gewährt.
-- Diebstahlgeschützt ist der Rasenroboter durch einen PIN-Code und das Warnsignal. Die Rückkehr zur Ladestation und auch der Ladevorgang erfolgt automatisch bei Bedarf.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09G6X1LC4{{</world>}}

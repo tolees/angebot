@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kapuze mit Rubber Prints, verstelbarem Gummizug, reflektierenden Tapes innen
 - Rubber Artworks auf Kapuze, Ärmel, Vorder- und Rückseite
 - Einschubtaschen aus Ripstop mit Reißverschlüssen
+- Kapuze mit Rubber Prints, verstelbarem Gummizug, reflektierenden Tapes innen
 - toniger Materialmix aus Interlock und Ripstop-Polyester
 - Bündchen an Ärmeln und Saum
 

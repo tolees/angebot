@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Cachaça 51 - Duft: Ins Glas kommt diese Spitzenspirituose vollkommen klar und verströmt aromatische Noten von allerlei Früchten, zuvorderst Banane
-- Der bekannteste Cocktail, der Cachaça enthält, ist die Caipirinha
-- Cachaca 51 ist der beliebteste Cachaça Brasiliens - Die Herstellung erfolgt in Pirassununga, dem Herzen der größten Zuckerrohrplantagen von Sao Paulo
 - Geschmack: Außergewöhnliche Frische, intensiver Cachaça Geschmack Sanft und süß am Gaumen mit fruchtigen Noten nach Zitrusfrüchten und Banane Auch im Abgang und Nachhall zeigt sich der Cachaça sehr weich und ausgeglichen
+- Cachaca 51 ist der beliebteste Cachaça Brasiliens - Die Herstellung erfolgt in Pirassununga, dem Herzen der größten Zuckerrohrplantagen von Sao Paulo
+- Cachaça 51 - Duft: Ins Glas kommt diese Spitzenspirituose vollkommen klar und verströmt aromatische Noten von allerlei Früchten, zuvorderst Banane
 - Bei der International Wine & Spirit Competition 2014 wurde der Cachaça 51 mit Silber ausgezeichnet
+- Der bekannteste Cocktail, der Cachaça enthält, ist die Caipirinha
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0029ZCLSS{{</world>}}

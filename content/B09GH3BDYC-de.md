@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dual Akku: 2 Akkus für doppelte Laufzeit (Bis zu 120 Min.)
 - Saugkraft: Turbo Modus: 200 W // PowerModus: 40 W // Saugkraft Normal Modus: 20 W
+- Dual Akku: 2 Akkus für doppelte Laufzeit (Bis zu 120 Min.)
 - Teppichaufsatz, Tierhaar-Aufsatz, 2in 1 Kombinationszubehör, Fugenaufsatz
 - inkl. Wischaufsatz mit rotierenden Wischpads und
 

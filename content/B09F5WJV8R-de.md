@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geschwindigkeiten bis zu 2.000MB/s¹ mit USB 3.2 Gen 2x2
 - Schutzklasse IP55⁴ mit abnehmbarer Gummihülle
 - Kompakter Formfaktor im Taschenformat
+- Geschwindigkeiten bis zu 2.000MB/s¹ mit USB 3.2 Gen 2x2
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09F5WJV8R{{</world>}}

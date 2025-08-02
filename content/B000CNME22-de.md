@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Frische, sinnliche Kopfnote.
 - Ein intensiver Duft, der langanhaltend ist.
+- Frische, sinnliche Kopfnote.
 - Duftnoten: Holzig, Orientalisch.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

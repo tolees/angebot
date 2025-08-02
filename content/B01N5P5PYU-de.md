@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Plattform-Abschnitte, Rätsel, Forschungstouren, Kämpfe und eine originelle Story mit zahlreichen witzigen Szenen kombiniert - das sorgt regelmäßig für Lacher
-- Auswahl von über 100 Fahrzeugen
 - Viele Rollen und Verwandlungen sind möglich, um Rätsel zu lösen und in geheime Bereiche vorzudringen
+- Plattform-Abschnitte, Rätsel, Forschungstouren, Kämpfe und eine originelle Story mit zahlreichen witzigen Szenen kombiniert - das sorgt regelmäßig für Lacher
 - Mit ihren mehr als 20 Bezirken ist LEGO City eine pulsierende Metropole
+- Auswahl von über 100 Fahrzeugen
 - LEGO City Undercover bietet das gesamte klassische LEGO Gameplay, tolle Action, einzigartigen Humor
 
 [🛒 Hier!!]({{< param buyurl >}})

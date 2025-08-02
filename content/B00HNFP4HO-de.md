@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 2 externe Antennen sorgen für optimale WLAN-Abdeckung und -Reichweite
 - Einfache WLAN-Sicherheitsverschlüsselung durch Drücken der WPS-Taste
-- Die IP-basierte Bandbreitenkontrolle ermöglicht eine optimale Zuweisung der Leistungskapazität je Benutzer
-- Lieferumfang: 300Mbit/s-WLAN-Router TL-WR840N, Netzteil, CD, LAN-Kabel (RJ45), Schnellinstallationsanleitung
 - Bis zu 300 Mbit/s WLAN-Geschwindigkeit, ideal für Internet-Basisanwendungen
+- Lieferumfang: 300Mbit/s-WLAN-Router TL-WR840N, Netzteil, CD, LAN-Kabel (RJ45), Schnellinstallationsanleitung
+- Die IP-basierte Bandbreitenkontrolle ermöglicht eine optimale Zuweisung der Leistungskapazität je Benutzer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00HNFP4HO{{</world>}}

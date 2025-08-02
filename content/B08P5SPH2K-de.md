@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Taille : Hohe Taille
 - Taschen : Seitentaschen
 - Produkttyp : Hose mit weitem Beinschnitt
-- Taille : Hohe Taille
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08P5SPH2K{{</world>}}

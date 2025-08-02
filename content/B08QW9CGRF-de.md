@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Warmes Tragegefühl
 - Rippmaterial an Bündchen und Saum ermöglicht eine rutschfreie, bewegungsfreundliche Passform
+- Warmes Tragegefühl
 - Standardpassform für ein relaxtes, unkompliziertes Tragegefühl
 
 [🛒 Hier!!]({{< param buyurl >}})

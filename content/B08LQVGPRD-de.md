@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- marca clinique
-- crema
 - código de barras: 0192333042816
 - favorece la hidratación profunda y duradera de la piel protegiéndola de las agresiones externas
+- crema
+- marca clinique
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08LQVGPRD{{</world>}}

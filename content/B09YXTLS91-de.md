@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PUMA Cat Logo an der Ferse
-- Gummi-Außensohle
 - Gummizwischensohle
+- PUMA Cat Logo an der Ferse
 - Obermaterial Leder
+- Gummi-Außensohle
 - PUMA Formstrip auf der medialen und lateralen Seite
 
 [🛒 Hier!!]({{< param buyurl >}})

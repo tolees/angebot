@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kosmetische Qualität
-- Unsere Duftöle wurden speziell für Seifen, Kerzen und Haut- und Haarpflegeprodukte entwickelt.
-- Kirschduftöl - 100ml
 - Unsere Duftöle wurden speziell für Seifen, Kerzen und Haut- und Haarpflegeprodukte entwickelt.
 - Sie werden mit modernster technischer Ausrüstung hergestellt, darunter Massenspektroskopie, Gaschromatographie, simulierte kritische Flüssigkeitsextraktion und Rotationsdampfextraktionsverfahren.
+- Kirschduftöl - 100ml
+- Kosmetische Qualität
+- Unsere Duftöle wurden speziell für Seifen, Kerzen und Haut- und Haarpflegeprodukte entwickelt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BTWWW2M{{</world>}}

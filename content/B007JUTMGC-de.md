@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jogginghose
 - Modellnummer: 250218
-- 94 Prozent Baumwolle Sechs Prozent Elasthan
+- Jogginghose
 - Verschluss: Tunnelzug
+- 94 Prozent Baumwolle Sechs Prozent Elasthan
 - Pflegehinweis: Maschinenwäsche
 
 [🛒 Hier!!]({{< param buyurl >}})

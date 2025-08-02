@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwei aufgesetzte Taschen am Gesäß
-- Zwei Taschen auf der Vorderseite mit Münztasche
 - Bund mit Gürtelschlaufen, Knopf und Zipper
+- Zwei Taschen auf der Vorderseite mit Münztasche
+- Zwei aufgesetzte Taschen am Gesäß
 - 501 JEANS FOR WOMEN
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das Gehäuse ist mit wenigen Handgriffen montiert und bietet Ihrem Raspberry durch eine stabile Bauweise ausreichend Schutz
 - Eigenschaften und Vorteile des Raspberry Pi-Gehäuses: Einfache Einrastmontage Ausschnitte für alle Anschlusspunkte microSD-Kartenausschnitt Kunststoff-LED-Leuchtenschutz Gummifüße zum Ankleben für Gehäusestabilität
 - Für Raspberry Pi 4 B · Zugang zu sämtlichen Schnittstellen · Original Raspberry PI Gehäuse · Modularer Aufbau
-- Das Gehäuse ist mit wenigen Handgriffen montiert und bietet Ihrem Raspberry durch eine stabile Bauweise ausreichend Schutz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07WQ5G6YY{{</world>}}

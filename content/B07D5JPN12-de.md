@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Zwei-Phasen-Formel für Pflege und Schutz
 - Spendet Feuchtigkeit und macht das Haar glänzend
+- Leichte Zwei-Phasen-Formel für Pflege und Schutz
 - Das Haar ist geschmeidig, pflegeleicht und voller Vitalität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Es hilft Ihnen, bleiben trocken und komfortabel
-- Dri- Fit
 - stricken Stoff ist weich und bequem
+- Dri- Fit
+- Es hilft Ihnen, bleiben trocken und komfortabel
 - Fits Standard für entspanntes Gefühl
 - Seitentaschen mit Netzfutter
 

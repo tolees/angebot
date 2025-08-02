@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- U3- und V30-Geschwindigkeitsleistung
 - Langlebig
 - Überragende Übertragungsgeschwindigkeiten von bis zu 170MB/s138
 - Ideal für Action-Kameras, Drohnen und Android-Geräte
+- U3- und V30-Geschwindigkeitsleistung
 - Unterstützt die A2 App-Leistungsklasse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

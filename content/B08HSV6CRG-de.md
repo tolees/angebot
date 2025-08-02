@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Spieler / Spielerinnen bestreiten in Riders Republic ihren eigenen Weg. Sie erhalten beim Aufstieg neue Ausrüstung und können ihren Spielcharakter individualisieren
-- Den Spielern / Spielerinnen wird eine breite Auswahl diverser Mehrspieler-Modi, wie Trick Challenges, Mehrspieler-Arenen, Online Cups und viele weitere geboten
 - In schneebedeckten Bergen oder tiefen Canyons können Sie die herrlichen Reiseziele, der amerikanischen Nationalparks erleben
 - Auch spielbar auf Xbox Series X
+- Die Spieler / Spielerinnen bestreiten in Riders Republic ihren eigenen Weg. Sie erhalten beim Aufstieg neue Ausrüstung und können ihren Spielcharakter individualisieren
+- Den Spielern / Spielerinnen wird eine breite Auswahl diverser Mehrspieler-Modi, wie Trick Challenges, Mehrspieler-Arenen, Online Cups und viele weitere geboten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08HSV6CRG{{</world>}}

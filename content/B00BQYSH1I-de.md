@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SANDFILTERANLAGE: Filterleistung = 10.200L/H ; Schutzklasse: IPX5 (Strahlwasserschutz) Leistung: 400W ; großes Tankvolumen 25L - Material: Behälter und Leitungen robuster Kunststoff - wetterfestes Gehäuse: stabiles Metall und harter ABS Kunststoff
-- WASSER SPAREN IM SOMMER: Ihr Pool - das Herz des Gartens, er bringt Abkühlung, Entspannung und Spaß für Kinder, wie auch Erwachsene. Ein starker Poolfilter zügelt den Wasserverbrauch enorm. Deswegen greifen sie zu unserer bewährten Sandfilteranlage.
 - WICHTIGER BETRIEBSHINWEIS: Vor dem Ersteinsatz, muss man zunächst zwingend den Filterkessel komplett mit Wasser befüllen, anschließend versorgt sich die Sandfilteranlage selbstansaugend. Mit dem TOP-Mount 7-Wege Ventil optimieren sie die Nutzung.
+- SANDFILTERANLAGE: Filterleistung = 10.200L/H ; Schutzklasse: IPX5 (Strahlwasserschutz) Leistung: 400W ; großes Tankvolumen 25L - Material: Behälter und Leitungen robuster Kunststoff - wetterfestes Gehäuse: stabiles Metall und harter ABS Kunststoff
 - LEISTUNGSSTARK: Dabei erbringt die Sandfilteranlage eine hohe Förderleistung von bis zu 10.200 l/h und besitzt ein komfortables, 1,9m langes Netzkabel. Mit der praktischen Druckanzeige behalten Sie den Filterprozess des Poolwassers im Blick.
+- WASSER SPAREN IM SOMMER: Ihr Pool - das Herz des Gartens, er bringt Abkühlung, Entspannung und Spaß für Kinder, wie auch Erwachsene. Ein starker Poolfilter zügelt den Wasserverbrauch enorm. Deswegen greifen sie zu unserer bewährten Sandfilteranlage.
 - SAUBERES POOLWASSER: Durch die kraftvolle Sandfilteranlage SF12K von MONZANA , die für alle Filtermedien wie Filterballs z.b. geeignet ist, hältst Du deinen bis 35.000L fassenden Pool stets sauber und tauchst in glasklares Wasser ein.
 
 [🛒 Hier!!]({{< param buyurl >}})

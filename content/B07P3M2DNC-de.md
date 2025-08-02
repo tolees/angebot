@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Originalgetreue Optik
 - Sound und Hupe am Lenkrad
-- Kippschutz
 - Kinderfahrzeug. Kofferraum unter der Sitzfläche
+- Kippschutz
+- Originalgetreue Optik
 - Schub- und Haltestange mit Lenkfunktion und Getränkehalter, Rückenlehne mit seitlichen Schutzbügel, ausziehbare Fußauflage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

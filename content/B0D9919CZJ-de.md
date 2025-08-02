@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- klassische Passform
 - Rubber Prints vorne, hinten und am rechten Ärmel
 - V-Ausschnitt mit Rippblende
+- klassische Passform
 - gestreiftes Necktape
 
 [🛒 Hier!!]({{< param buyurl >}})

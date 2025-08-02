@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HGiG-Unterstützung für realistische HDR-Darstellung in Spielen
-- Filmmaker Mode für kinogleiches Entertainment
 - α5 Gen7 4K AI-Prozessor mit zahlreichen AI-Funktionen für bestmögliche Bildqualität und optimalen Sound
+- Filmmaker Mode für kinogleiches Entertainment
+- HGiG-Unterstützung für realistische HDR-Darstellung in Spielen
 - 4K NanoCell-Display mit LED-Backlight für reine Farben
 - webOS24 mit 4 Jahren Upgrade-Garantie und Magic Remote-Fernbedienung für komfortable Bedienung
 

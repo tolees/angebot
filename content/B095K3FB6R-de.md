@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die Piece lässt sich unkompliziert up- oder downdressen
-- Im Eleganten Look
 - Der Bund ist Mittelhoch
+- Im Eleganten Look
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B095K3FB6R{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bis zu 20 Stunden Akkulaufzeit mit Ladeetui. IPX4 Schutz gegen allseitiges Spritzwasser.
-- Diese Kopfhörer von Sony bieten dir das Beste aus beiden Welten natürlichen Umgebungsklang, wenn du mit deiner Umwelt interagieren möchtest, und hochwertiges Noise Cancelling, wenn du dich konzentrieren willst.
 - Die kleinsten und leichtesten kabellosen Hi-Res-Kopfhörer von Sony mit Noise Cancelling. Mit dem neuen Firmware Update, welches 17. November 2022 bereitgestellt wird, ist nun auch eine Multipoint Connection möglich. Für absoluten Komfort können die Bluetooth-Kopfhörer mit zwei Bluetooth-Geräten gleichzeitig gekoppelt werden. Bei Eingang eines Anrufes, weiß der Kopfhörer, welches der Geräte klingelt und verbindet sich automatisch mit diesem.
-- Intelligente Funktionen sorgen für ein müheloses Hörerlebnis. Speak-to-Chat stoppt die Musik automatisch, wenn du ein Gespräch beginnst, alternativ verfügen die Earbuds auch über eine intuitive Touch-Steuerung.
-- Stand 30. März 2022. Gemäß Untersuchungen der Sony Corporation, gemessen anhand der Strategy Analytics-Richtlinien im Truly Wireless-Stil, der Geräuschunterdrückung unterstützt und mit dem LDAC-Kopfhörermarkt kompatibel ist. LDAC ist ein zertifizierter Codec von „Hi-Res Audio Wireless“.
 - Genieße mit diesen Bluetooth-Kopfhörern kabelloses High-Resolution Audio und kristallklare Telefongespräche.
+- Bis zu 20 Stunden Akkulaufzeit mit Ladeetui. IPX4 Schutz gegen allseitiges Spritzwasser.
+- Stand 30. März 2022. Gemäß Untersuchungen der Sony Corporation, gemessen anhand der Strategy Analytics-Richtlinien im Truly Wireless-Stil, der Geräuschunterdrückung unterstützt und mit dem LDAC-Kopfhörermarkt kompatibel ist. LDAC ist ein zertifizierter Codec von „Hi-Res Audio Wireless“.
 - Vergewissern Sie sich, dass das Bluetooth-Gerät eingeschaltet und die BluetoothFunktion aktiviert ist.
+- Intelligente Funktionen sorgen für ein müheloses Hörerlebnis. Speak-to-Chat stoppt die Musik automatisch, wenn du ein Gespräch beginnst, alternativ verfügen die Earbuds auch über eine intuitive Touch-Steuerung.
+- Diese Kopfhörer von Sony bieten dir das Beste aus beiden Welten natürlichen Umgebungsklang, wenn du mit deiner Umwelt interagieren möchtest, und hochwertiges Noise Cancelling, wenn du dich konzentrieren willst.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Y2M4DD3{{</world>}}

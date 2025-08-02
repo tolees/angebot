@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 1
-- 2
 - 3
 - Music
+- 2
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BZJTDXXQ{{</world>}}

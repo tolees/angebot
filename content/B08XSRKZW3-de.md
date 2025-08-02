@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innovative Düsentechnologie: Das Sprühextraktionsgerät verfügt über die innovative Kärcher Düsentechnologie, die dafür sorgt, dass feucht gereinigte Flächen schneller wieder begehbar sind
 - Effektive Reinigung: Der Waschsauger SE 4001 Plus ermöglicht eine fasertiefe Reinigung von Teppichböden. Die zusätzliche Polsterwaschdüse eignet sich bestens für Polstermöbel oder Autositze
 - Lieferumfang: Zum Set gehören der Kärcher Waschsauger SE 4001, eine Waschdüse mit Hartbodenaufsatz, eine Nass-/Trocken- und Trockensaugdüse, eine Fugendüse, eine Polsterwaschdüse und Vliesfilterbeutel
+- Innovative Düsentechnologie: Das Sprühextraktionsgerät verfügt über die innovative Kärcher Düsentechnologie, die dafür sorgt, dass feucht gereinigte Flächen schneller wieder begehbar sind
 - Multifunktioneller Einsatz: Mit der Nass-/Trockendüse eignet sich der Waschsauger auch als Nass-/Trockensauger, um trockenen und feuchten Schmutz von Böden und anderen Hartflächen zu beseitigen
 - Praktische Ausstattung: Der SE 4001 Plus hat einen abnehmbaren Frischwassertank. Mit dem 3-in-1-Bügelgriff lässt sich der Waschsauger bequem öffnen und schließen, um den Behälter zu entleeren
 

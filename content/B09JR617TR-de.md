@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die magnetische Verbindung ist stark genug, um ein versehent­liches Trennen in den meisten Fällen zu verhindern
+- USB‑C Power Adapter separat erhältlich.
+- Falls aber jemand über das Kabel stolpert, löst es sich – und dein MacBook Pro bleibt, wo es ist
 - Gefertigt mit einem gewobenen Design für lange Haltbarkeit
 - Kombiniere es mit einem kompatiblen USB‑C Netzteil, um dein MacBook Pro an einer Steck­dose zu laden und die Möglichkeit zum schnellen Laden zu nutzen
-- Falls aber jemand über das Kabel stolpert, löst es sich – und dein MacBook Pro bleibt, wo es ist
-- Die magnetische Verbindung ist stark genug, um ein versehent­liches Trennen in den meisten Fällen zu verhindern
-- Dieses 2 m Ladekabel hat einen magnetischen MagSafe 3 Anschluss, mit dem der Stecker wie von selbst zum Netz­anschluss deines MacBook Pro findet
 - Eine LED leuchtet Orange, wenn die Batterie lädt, und Grün, wenn sie voll geladen ist
-- USB‑C Power Adapter separat erhältlich.
+- Dieses 2 m Ladekabel hat einen magnetischen MagSafe 3 Anschluss, mit dem der Stecker wie von selbst zum Netz­anschluss deines MacBook Pro findet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09JR617TR{{</world>}}

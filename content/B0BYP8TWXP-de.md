@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Frequenzbereich & Genauigkeit: True RMS 50 - 400 Hz ; +/- 3% + 3mV
+- Praktische Flex-Stromzange: Geeignet für Leitungsdurchmesser von bis max.160 mm
+- Einfache Anwendung: 4mm Stecker an ein Multimeter mit mV AC Funktion anschließen und der A AC Messwert wird als mV AC Messwert angezeigt
 - Umrechnungsfaktoren: 30A = 100mV/a ; 300A = 10mV/A ; 3000A = 1 mV/A
 - Sicherheit: EN-61010-1 ; CAT III 1000V / CAT IV 600V
-- Einfache Anwendung: 4mm Stecker an ein Multimeter mit mV AC Funktion anschließen und der A AC Messwert wird als mV AC Messwert angezeigt
-- Praktische Flex-Stromzange: Geeignet für Leitungsdurchmesser von bis max.160 mm
 - Batterien: Betrieb über 2 x 1,5V AAA Batterien (beiliegend) mit Power-LED und Zustandsanzeige
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

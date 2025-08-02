@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank kompaktem Format ein perfektes Geburtstagsgeschenk oder als Reise- und Mitbringspiel
+- Die Suspects-Fälle erlebt ihr als einmaliges Krimispiel-Erlebnis. Das Spielmaterial bleibt jedoch intakt, sodass ihr die Spiele weitergeben könnt
 - Für 1-5 Krimi-Fans ab 12 Jahren
-- Ein Detektivspiel mit einfachen Regeln
+- Dank kompaktem Format ein perfektes Geburtstagsgeschenk oder als Reise- und Mitbringspiel
 - Ideal als Partyspiel oder Eventspiel für einen spannenden Spieleabend
 - Hinweise sammeln, Verdächtige befragen oder den Tatort untersuchen – gemeinsam ermitteln und den Fall lösen
-- Die Suspects-Fälle erlebt ihr als einmaliges Krimispiel-Erlebnis. Das Spielmaterial bleibt jedoch intakt, sodass ihr die Spiele weitergeben könnt
+- Ein Detektivspiel mit einfachen Regeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLXY6YCQ{{</world>}}

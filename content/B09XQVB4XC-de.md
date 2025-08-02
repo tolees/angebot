@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewinde für Auslegerarm und Mikrofonstativ
-- Stummschalten durch Antippen und LED-Statusanzeige, Flexibler, verstellbarer Ständer
 - Personalisierbar über HyperX NGENUITY Software
-- Plug und Play-Audioaufnahme mit USB-C-Anschluss, Hi-Res-Aufnahme mit 24 Bit/96kHz
+- Stummschalten durch Antippen und LED-Statusanzeige, Flexibler, verstellbarer Ständer
+- Gewinde für Auslegerarm und Mikrofonstativ
 - Mehrgeräte- und-Programm-Kompatibilität
+- Plug und Play-Audioaufnahme mit USB-C-Anschluss, Hi-Res-Aufnahme mit 24 Bit/96kHz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09XQVB4XC{{</world>}}

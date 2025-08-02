@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die D3O-gepolsterte Handinnenfläche absorbiert hohe Schlagenergie durch die Handfläche und baut sie ab.
 - Knöchelschutz und Fingerschutz über die gesamte Länge aus Thermoplastic Rubber (TPR) senken das Risiko von Stoß- und Klemmverletzungen.
 - Die Verstärkung der inneren Fingerspitzen aus Material4X sorgt für zusätzliche Haltbarkeit.
-- Die D3O-gepolsterte Handinnenfläche absorbiert hohe Schlagenergie durch die Handfläche und baut sie ab.
 - Maschinenwaschbar: Wir empfehlen, unsere Material4X Kunstlederhandschuhe mit Haushaltswaschmittel und warmem Wasser zu waschen und an der Luft zu trocknen, um die langfristige Leistung zu erhalten.
 - Material4X-Kunstleder bietet größere Abriebfestigkeit und bessere Reißfestigkeit als Standard-Handschuhe aus Synthetik.
 

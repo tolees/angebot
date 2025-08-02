@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- stilprägend für das Genre Boys Love
 - basiert auf dem erfolgreichen Manga Junjo Romantica (in Deutschland bei Carlsen Manga erschienen)
+- stilprägend für das Genre Boys Love
 - erfüllt den Wunsch nach mehr Boys-Love-Animes in Deutschland
 - Spin-Off Sekaiichi Hatsukoi erscheint ebenfalls bei Crunchyroll
 

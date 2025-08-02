@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100% Polyester
 - Mantel, Kapuze, gemütlich, Reißverschluss
+- 100% Polyester
 - Maschinenwäsche
 - Jacket für Damen, Teddyfell, Teddyjacke
 

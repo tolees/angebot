@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 1x siku 2527 SAR-Transporthubschrauber, 1 Trage, 1 zu rettende Spielfigur, Maßstab: 1:50, Material: Metall/Kunststoff, Abmessungen: 36,8 x 29,5 x 7,4 cm, Gewicht: 0,46 kg, Farbe: Silber, Serie: SIKU SUPER
+- Detailliertes Spielzeugmodell eines Transporthubschraubers im "SAR - Search and Rescue"-Design zum Spielen und Sammeln
 - Ideal als Geschenk für kleine und große Hubschrauber und Rettungskräfte-Fans geeignet, Perfekte Ergänzung zu siku-Spielwelten
 - Langanhaltender Spielspaß durch unzählige Kombinationsmöglichkeiten innerhalb der siku-Spielwelt
-- Detailliertes Spielzeugmodell eines Transporthubschraubers im "SAR - Search and Rescue"-Design zum Spielen und Sammeln
-- Lieferumfang: 1x siku 2527 SAR-Transporthubschrauber, 1 Trage, 1 zu rettende Spielfigur, Maßstab: 1:50, Material: Metall/Kunststoff, Abmessungen: 36,8 x 29,5 x 7,4 cm, Gewicht: 0,46 kg, Farbe: Silber, Serie: SIKU SUPER
 - Umfangreiche Funktionen: Öffenbare Seiten- und Heckklappe, Drehbare Rotoren, Automatisch einziehbare Seilwinde, Einklappbares Fahrwerk
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mehr Heizleistung: Die SUN LDPE Kollektoren können mit nur zwei Handgriffen untereinander verbunden werden - der Anschluss erfolgt zwischen Filterpumpe und Beckeneinlaufdüse
+- Lieferumfang: 2 x Steinbach Solarkollektor Compact / Für Pools bis 12.000 l / Maße: 300 x 40 cm / Auch für Salzwasser geeignet / Schlauchanschluss Ø 32/38 mm / Max. Durchflussmenge 10.000 l/h
 - Der Sonnenkollektor eignet sich für Pools bis zu 24.000 Liter und ist beliebig erweiterbar - je nach Wunschtemperatur können ein oder mehrere Elemente in Serie verbunden werden
 - Die Kollektoren werden bereits montagefertig geliefert - nur die zwei Anschlussadapter für Ø 32 mm oder Ø 38 mm Schwimmbadschläuche müssen montiert werden, ein Werkzeug ist nicht erforderlich
 - Der Steinbach Solarkollektor Compact sorgt dank der hochwertigen und langlebigen LDPE Kollektoren im Pool für angenehm warmes Wasser in kürzester Zeit - so kann der Sommer kommen
-- Lieferumfang: 2 x Steinbach Solarkollektor Compact / Für Pools bis 12.000 l / Maße: 300 x 40 cm / Auch für Salzwasser geeignet / Schlauchanschluss Ø 32/38 mm / Max. Durchflussmenge 10.000 l/h
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01DVUULF4{{</world>}}

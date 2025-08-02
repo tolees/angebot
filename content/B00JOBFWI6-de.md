@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein portabler Smartphone Drucker der das direkte Drucken vom Smartphone ermöglicht
+- Mit der App gibt es über 30 Templates
 - Verbindung über Bluetooth mit dem Smartphone
+- Ein portabler Smartphone Drucker der das direkte Drucken vom Smartphone ermöglicht
 - geeignet für die instax WIDE Filme 108 (b) x 85 (h) und einer Bildgröße von 99 (b) und 62 (h) mm
 - Der QR Code Modus ermöglicht Sprachnachrichten und Texte abzurufen
-- Mit der App gibt es über 30 Templates
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JOBFWI6{{</world>}}

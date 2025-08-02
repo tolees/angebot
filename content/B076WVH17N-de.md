@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Frostsicher: Der frostgeschützte Hahnverbinder garantiert einen ganzjährigen und langlebigen Einsatz
-- Lieferumfang beinhaltet: 1x Gardena Premium Hahnverbinder
 - Geballte Wasserkraft: Maximaler Wasserfluss durch die innovative Innengeometrie des Anschlussstücks
+- Lieferumfang beinhaltet: 1x Gardena Premium Hahnverbinder
 - Schneller Anschluss: Einfacher und tropfsicherer Anschluss mit dem Gardena Klicksystem an den Wasserhahn
 - Anti-Splash: Mit der Anti-Splash-Technologie für ein tropf- und sprizfreies Arbeiten am Wasserhahn
 

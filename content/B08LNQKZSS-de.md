@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus pflegeleichtem Material mit Stretchanteil
 - Figurumspielende Form mit Reißverschluss
+- Aus pflegeleichtem Material mit Stretchanteil
 - Blousonjacke von VERO MODA
 - Mit Rippbündchen
 

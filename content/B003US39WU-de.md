@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SCHWENKBARER KOPF - Optimal für größere oder verwinkelte Räume ist der schwenkbare Kopf dieser Leuchte. Stelle den Ausleuchtungsbereich ganz flexibel ein, so dass keine dunklen Ecken entstehen.
-- LED-LEUCHTMITTEL VERWENDBAR - Setze eine energiesparende Glühbirne in diese Leuchte ein, denn damit tust Du nicht nur der Umwelt etwas Gutes, sondern sparst auch Strom
 - TOLLE ATMOSPHÄRE - Gemütliches Licht für Ihre Wohnräume
 - ZULEITUNG + SCHALTER VORHANDEN - Diese Leuchte ist mit einer Zuleitung und einem Schnurzwischenschalter ausgestattet.
+- LED-LEUCHTMITTEL VERWENDBAR - Setze eine energiesparende Glühbirne in diese Leuchte ein, denn damit tust Du nicht nur der Umwelt etwas Gutes, sondern sparst auch Strom
+- SCHWENKBARER KOPF - Optimal für größere oder verwinkelte Räume ist der schwenkbare Kopf dieser Leuchte. Stelle den Ausleuchtungsbereich ganz flexibel ein, so dass keine dunklen Ecken entstehen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B003US39WU{{</world>}}

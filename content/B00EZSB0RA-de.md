@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Robustes Design steht für sich allein
-- Kann manuell oder mit einem Elektroschrauber verwendet werden
 - Ideal geeignet für Handwerk und Industrie
+- Kann manuell oder mit einem Elektroschrauber verwendet werden
 - Vernickelt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

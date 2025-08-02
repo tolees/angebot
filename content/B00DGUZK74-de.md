@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzärmliges Baumwoll-T-Shirt
 - Rundhalsausschnitt
+- Kurzärmliges Baumwoll-T-Shirt
 - Großer Logoprint auf der Brust
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BEEINDRUCKENDE EFFEKTE: integriertes Soundmodul mit Original-Motorsound lässt das Motorenmodell auf Knopfdruck lebendig werden
-- LIEBEVOLLE DETAILS: transparenter Motorblock für einen spannenden Blick ins Innere - Kurbelwelle, Kolben und Ventile bewegen sich detailgetreu, LEDs simulieren die Zündfunken
 - EXKLUSIVES ZUBEHÖR: ausführliche Anleitung und umfassendes, exklusives Handbuch mit vielen spannenden Infos zur Geschichte des Transporters aus Wolfsburg, Podest mit beschriftetem Label zum Aufstellen
-- OFFIZIELLES VOLKSWAGEN-LIZENZPRODUKT: transparentes Funktionsmodell des 4-Zylinder Boxermotors des legendären Bulli T1 aus den Jahren 1950 - 1953, dem Maßstab 1:4 entsprechend, ca. 22 x 20 x 17 cm groß
 - ORIGINALGETREUES FUNKTIONSMODELL: der hochwertige Bausatz mit 200 Komponenten aus Kunststoff zum Schrauben und Stecken sorgt für ein angenehmes Modellbauerlebnis – Montage in ca. 2 Stunden, ganz ohne Kleben
+- LIEBEVOLLE DETAILS: transparenter Motorblock für einen spannenden Blick ins Innere - Kurbelwelle, Kolben und Ventile bewegen sich detailgetreu, LEDs simulieren die Zündfunken
+- BEEINDRUCKENDE EFFEKTE: integriertes Soundmodul mit Original-Motorsound lässt das Motorenmodell auf Knopfdruck lebendig werden
+- OFFIZIELLES VOLKSWAGEN-LIZENZPRODUKT: transparentes Funktionsmodell des 4-Zylinder Boxermotors des legendären Bulli T1 aus den Jahren 1950 - 1953, dem Maßstab 1:4 entsprechend, ca. 22 x 20 x 17 cm groß
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0987XD3NW{{</world>}}

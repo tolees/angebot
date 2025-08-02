@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwenderhinweis: Das Kerbschnitzmesser wird gebrauchsfertig und auf 20 bis 30 Grad extra scharf vorgeschliffen geliefert. Es kann je nach Bedarf nachgeschärft werden
-- Robuste Anfertigung: Der lange, handliche Griff und die stabile Klinge gewährleisten eine hohe und beständige Schneidleistung
-- Qualitätsstahl: Die Klinge aus Spezial-Kohlenstoffstahl, in moderner, werkseigener Härterei auf 58-60 HRC wärmebehandelt, garantiert maximale Stabilität und Langlebigkeit
-- Vielseitige Verwendung: Das Messer eignet sich ideal für Kerbschnitte bei Holzschnitzereien. Es wird zum Herstellen von Linolschnitten, Reliefs, Intarsien (Einlegearbeiten) und beim figürlichem Schnitzen eingesetzt
 - Ergonomischer Holzgriff: Mit seinem abgerundeten, ergonomischen und lackierten Buchenholzheft liegt das Kerbschnitzmesser gut in der Hand und ermöglicht ermüdungsfreies Arbeiten
+- Robuste Anfertigung: Der lange, handliche Griff und die stabile Klinge gewährleisten eine hohe und beständige Schneidleistung
+- Anwenderhinweis: Das Kerbschnitzmesser wird gebrauchsfertig und auf 20 bis 30 Grad extra scharf vorgeschliffen geliefert. Es kann je nach Bedarf nachgeschärft werden
+- Vielseitige Verwendung: Das Messer eignet sich ideal für Kerbschnitte bei Holzschnitzereien. Es wird zum Herstellen von Linolschnitten, Reliefs, Intarsien (Einlegearbeiten) und beim figürlichem Schnitzen eingesetzt
+- Qualitätsstahl: Die Klinge aus Spezial-Kohlenstoffstahl, in moderner, werkseigener Härterei auf 58-60 HRC wärmebehandelt, garantiert maximale Stabilität und Langlebigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00OYTZL2K{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Verarbeitung
-- Rundhalsausschnitt
 - Regular Fit
+- Rundhalsausschnitt
+- Hochwertige Verarbeitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09QMC2RXP{{</world>}}

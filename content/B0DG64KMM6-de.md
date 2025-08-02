@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 50MP KI-Hauptkamera: Halte die schönsten Momente in atemberaubenden Details fest. Die leistungsstarke POCO Imaging Engine optimiert zudem Bildqualität und Geschwindigkeit.
-- 6,88" HD+ Dot Drop Display mit 120Hz: Genieße flüssige Animationen und lebendige Bilder auf einem großen, immersiven Display. Die hohe Bildwiederholrate sorgt für ein besonders geschmeidiges Scrollen und Grafikerlebnis.
 - Viele Features: microSD Erweiterung, seitlicher Fingerabdrucksensor, AI-Gesichtserkennung und 3,5mm Kopfhörerbuchse
+- 6,88" HD+ Dot Drop Display mit 120Hz: Genieße flüssige Animationen und lebendige Bilder auf einem großen, immersiven Display. Die hohe Bildwiederholrate sorgt für ein besonders geschmeidiges Scrollen und Grafikerlebnis.
 - Großer 5160mAh Akku mit 18W FastCharge: Bleibe den ganzen Tag in Verbindung, ohne sich Sorgen um den Akkuladestand machen zu müssen. Die Schnellladefunktion sorgt dafür, dass du schnell wieder einsatzbereit sind.
 - Lieferumfang: 1 x POCO C75 Gerät (HyperOS), USB Typ-C-Kabel, Kurzanleitung, SIM-Auswurftool, Garantiekarte und Sicherheitshinweise
 

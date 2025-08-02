@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält verschiedene Minecraft Minifiguren: Beinhaltet einen Helden im Wolfsskin, ein Babyschwein, eine Biene, ein erwachsenes Schwein und einen Zombie-Piglin
 - Minecraft Geschenk für Kinder: Dieses LEGO Bau- und Spielset ist ein tolles Geburtstags-, Weihnachts- oder Überraschungsgeschenk für Mädchen und Jungen ab 7 Jahren
-- Kinderspielzeug mit authentischen Details: Die Minecraft Werkbank, ein Bett und ein Bücherregal lassen Kinder besonders fantasievoll in dem Haus spielen
+- Enthält verschiedene Minecraft Minifiguren: Beinhaltet einen Helden im Wolfsskin, ein Babyschwein, eine Biene, ein erwachsenes Schwein und einen Zombie-Piglin
 - LEGO Minecraft Spielzeug mit Tieren: Das Babyschwein-Haus ist ein Spielset für Kinder ab 7 Jahren, die Minecraft, Tiere und Farmen lieben und gerne Häuser bauen; Jungen und Mädchen können sich auf jede Menge aktiven Bau- und Spielspaß freuen
-- LEGO Minecraft Spielzeughaus: Kinder bauen ein Haus, das wie ein Ferkel geformt ist; Zu der Farm gehören ein Acker für den Anbau von Kartoffeln und Futterrüben sowie ein Tor, um das Babyschwein aufs Feld hinausführen zu können
 - Minecraft Action in der echten Welt: LEGO Minecraft Bauspielzeuge lassen Kinder das Videospiel auf eine ganz andere Art erleben; Kreaturen, Szenen und Funktionen werden mit LEGO Steinen und der eigenen Kreativität zum Leben erweckt
+- LEGO Minecraft Spielzeughaus: Kinder bauen ein Haus, das wie ein Ferkel geformt ist; Zu der Farm gehören ein Acker für den Anbau von Kartoffeln und Futterrüben sowie ein Tor, um das Babyschwein aufs Feld hinausführen zu können
+- Kinderspielzeug mit authentischen Details: Die Minecraft Werkbank, ein Bett und ein Bücherregal lassen Kinder besonders fantasievoll in dem Haus spielen
 - Noch mehr Spielspaß mit weiteren Sets zum Videospiel: Schau dir auch all die anderen (separat erhältlichen) LEGO Minecraft Spielzeuge an, die dein Kind ebenfalls fantasievoll spielen lassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Im Griff integrierte Ratschenmechanik
-- Bits-Handhalter mit Rapidaptor Schnellwechselfutter für Bits mit 1/4"-Außensechskantantrieb nach DIN ISO 1173-C 6,3 und E 6,3 und Wera Anschluss-Reihen 1 und 4
 - Die integrierte Ratsche mit Feinverzahnung sorgt für schnelles und sicheres Arbeiten
+- Im Griff integrierte Ratschenmechanik
 - Hohe Arbeitsgeschwindigkeit: Mit der Ratschenmechanik kann beim Verschrauben auch "gezwirbelt" werden
 - Ergonomisches intuitives Umschalten auf Rechts-/Links- oder 0-Position
+- Bits-Handhalter mit Rapidaptor Schnellwechselfutter für Bits mit 1/4"-Außensechskantantrieb nach DIN ISO 1173-C 6,3 und E 6,3 und Wera Anschluss-Reihen 1 und 4
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CVXDC67D{{</world>}}

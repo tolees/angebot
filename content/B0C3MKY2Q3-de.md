@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das gerade geschnittene Polo mit klassischer Silhouette ist aus atmungsaktivem Piqué gefertigt
 - Kurze Ärmel
+- Das gerade geschnittene Polo mit klassischer Silhouette ist aus atmungsaktivem Piqué gefertigt
 - Regular Fit
 - Ein Brand Logo-Etikett an der Seitennaht rundet das schicke Shirt ab
 - Standardlänge

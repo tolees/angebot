@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 【After-Sales-Garantie】SUNLU, gegründet 2013, ist ein High-Tech-Unternehmen, das sich der forschung und entwicklung, produktion und dem vertrieb von 3D-Drucker-Filamenten, 3D-Druckern und verschiedenen 3D-Druckmaterialien wie PLA, PETG, 3D-Harz usw. Wir sind bestrebt, kontinuierlich außergewöhnliche beiträge zur 3D-Druckbranche zu leisten.
+- 【Empfohlene Einstellungen】- Düsentemperatur: 235°C - 245°C (455°F - 473°F); Bett-Temperatur: 65°C - 80°C(149°F - 176°F); Kühlgebläse: Ausgeschaltet oder 50%.
 - 【SUNLU Starkes PETG Filament】- SUNLU PETG Filament 1.75 aus PETG Kunststoff, bietet das Beste von PLA und ABS, einfach zu bedienen wie PLA und dauerhafte Stärke wie ABS, es ist ein starkes Filament.
 - 【Hohe Kompatibilität】- 1.75mm Filament Durchmesser (Maßgenauigkeit +/- 0.02mm), das PETG Filament kann in einer Vielzahl von gängigen 3D-Druckern verwendet werden, überprüfen Sie einfach die Spulengröße, um die Kompatibilität sicherzustellen.
-- 【After-Sales-Garantie】SUNLU, gegründet 2013, ist ein High-Tech-Unternehmen, das sich der forschung und entwicklung, produktion und dem vertrieb von 3D-Drucker-Filamenten, 3D-Druckern und verschiedenen 3D-Druckmaterialien wie PLA, PETG, 3D-Harz usw. Wir sind bestrebt, kontinuierlich außergewöhnliche beiträge zur 3D-Druckbranche zu leisten.
 - 【Einfach zu bedienen】- Kein Verheddern, kein Verstopfen, keine Blasenbildung. SUNLU PETG-Filament ist für die meisten 3D-Drucker geeignet, es ist sehr einfach zu verwenden, genau wie das PLA-Filament 1,75 mm.
-- 【Empfohlene Einstellungen】- Düsentemperatur: 235°C - 245°C (455°F - 473°F); Bett-Temperatur: 65°C - 80°C(149°F - 176°F); Kühlgebläse: Ausgeschaltet oder 50%.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TJXMRVH{{</world>}}

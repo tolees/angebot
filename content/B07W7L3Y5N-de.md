@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mehr Möglichkeiten: Die Fn-Tasten aktivieren, Beleuchtungseffekte zuweisen, die computerübergreifende Flow-Steuerung oder die Steuerung mehrerer Geräte u. v. m. in den Logi Options+(1) aktivieren
-- Flüssiges, leises Tippen: Die Tastatur bietet taktile, leise Tasten, die ein hervorragendes Tastgefühl mit geringerem Geräuschpegel bieten - klickende und lineare Tasten sind auch erhältlich
-- Mehrere Geräte und Betriebssysteme: Das Wireless Keyboard über Bluetooth Low Energy oder den mitgelieferten Logi Bolt-Empfänger(2) mit bis zu 3 Geräten auf fast allen Betriebssystemen koppeln
-- Die Kunststoffteile in MX Mechanical enthalten zertifizierten recycelten Kunststoff (Grafit: 45 %(5)).
 - USB-C-Schnellladung: Die mechanische MX Tastatur bleibt bis zu 15 Tage mit einer vollen Ladung oder bis zu 10 Monate mit ausgeschalteter Hintergrundbeleuchtung eingeschaltet(3)
 - Flache Tasten, mehr Komfort: Die Tastatur überzeugt durch ein Layout, das für mühelose Präzision entwickelt wurde, mit einem Full-Size-Format und flachen mechanischen Tasten für bessere Ergonomie
 - Intelligente Beleuchtung: Die hintergrundbeleuchteten Tasten leuchten auf, sobald sich die Hände der kabellosen Tastatur nähern, und passen sich automatisch den wechselnden Lichtverhältnissen an
+- Mehrere Geräte und Betriebssysteme: Das Wireless Keyboard über Bluetooth Low Energy oder den mitgelieferten Logi Bolt-Empfänger(2) mit bis zu 3 Geräten auf fast allen Betriebssystemen koppeln
+- Flüssiges, leises Tippen: Die Tastatur bietet taktile, leise Tasten, die ein hervorragendes Tastgefühl mit geringerem Geräuschpegel bieten - klickende und lineare Tasten sind auch erhältlich
+- Die Kunststoffteile in MX Mechanical enthalten zertifizierten recycelten Kunststoff (Grafit: 45 %(5)).
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07W7L3Y5N{{</world>}}

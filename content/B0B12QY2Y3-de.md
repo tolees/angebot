@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Figur ist 9.5 cm groß und wird in einer Schaufensterbox geliefert
-- Sammle sie alle!
-- Funko POP! Vinyl
 - Schauen Sie sich auch die anderen Funko-Figuren an, die dieser Sammlung gewidmet sind
+- Funko POP! Vinyl
+- Sammle sie alle!
+- Die Figur ist 9.5 cm groß und wird in einer Schaufensterbox geliefert
 - Funko POP! ist das Peoples Choice-Spielzeug des Jahres 2018
 
 [🛒 Hier!!]({{< param buyurl >}})

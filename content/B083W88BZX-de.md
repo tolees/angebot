@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kapuze mit Tunnelzug
+- Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
 - Elastische Bündchen
 - Langarm-Shirt
-- Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
-- Kapuze mit Tunnelzug
 - PUMA Cat Logo in Brusthöhe rechts
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

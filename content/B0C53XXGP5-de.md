@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Innenmaterial: Leder
 - Absatzform: Flach
 - Sohle: Gummi
 - Obermaterial: Leder
-- Innenmaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C53XXGP5{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
-- Nicht wasserfest
 - Sohle: Ethylen-Vinylacetat
+- Nicht wasserfest
+- Obermaterial: Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BM52ZNCT{{</world>}}

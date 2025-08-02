@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ergonomisches Design: Kompakte Kopflänge von 126 mm ermöglicht Arbeiten auf engem Raum
 - AMPShare: Akkus und Ladegeräte sind vollständig mit dem Bosch Professional 18V System sowie mit vielen anderen Werkzeugen der Marken aus der Akku-Partnerschaft AMPShare kompatibel.
-- Verlängerte Akkulaufzeit und Lebensdauer: ausgezeichnete Akkulaufleistung und lange Werkzeuglebensdauer dank bürstenlosem Motor
 - Lieferumfang: GDR 18V-200, Karton
+- Verlängerte Akkulaufzeit und Lebensdauer: ausgezeichnete Akkulaufleistung und lange Werkzeuglebensdauer dank bürstenlosem Motor
+- Ergonomisches Design: Kompakte Kopflänge von 126 mm ermöglicht Arbeiten auf engem Raum
 - Hervorragende Werkzeugkontrolle: Gasgebeschalter für eine bessere Kontrolle über Drehzahl und Drehmoment; starkes Anziehmoment von 200 Nm
 
 [🛒 Hier!!]({{< param buyurl >}})

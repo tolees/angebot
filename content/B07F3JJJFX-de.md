@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Innenmaterial: Synthetik
 - Absatzform: Flach
+- Obermaterial: Synthetik
 - Nicht Wasserfest
 - Sohle: Gummi
-- Obermaterial: Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07F3JJJFX{{</world>}}

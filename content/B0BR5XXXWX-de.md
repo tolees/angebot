@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Better Leather
+- Farbe: Pastel Blau
 - Sohle: 100% Gummi
 - Obermaterial: 100 % Rindsleder
-- Farbe: Pastel Blau
+- Better Leather
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BR5XXXWX{{</world>}}

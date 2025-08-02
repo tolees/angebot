@@ -29,14 +29,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Wärmebeständigkeit bis 90 °C
-- Belastung K3-300 kg
+- Durchflußmenge: KV-110: 390 l/min.
+- Mit integrierter Trockenpendelklappe als Geruchsstopp
+- Hergestellt aus hochschlag- u. stoßfestem Polypropylen - Norm EN 1253-1
 - Einbautiefe: 275 mm
 - Gewicht: ca.1,20 kg
-- Abmessungen: 305 x 155 x 275 mm
-- Durchflußmenge: KV-110: 390 l/min.
-- Hergestellt aus hochschlag- u. stoßfestem Polypropylen - Norm EN 1253-1
+- Belastung K3-300 kg
 - Frostsicher, da leerlaufend durch schräge Fließsohle
-- Mit integrierter Trockenpendelklappe als Geruchsstopp
+- Abmessungen: 305 x 155 x 275 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0055RN1NG{{</world>}}

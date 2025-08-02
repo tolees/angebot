@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ETRA DURABLE INGREDIENTS
 - CUSHIONING
 - SOFT FEELING
+- ETRA DURABLE INGREDIENTS
 - LIGHTWEIGHT
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

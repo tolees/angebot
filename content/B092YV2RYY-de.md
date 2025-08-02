@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fearless (Taylor’s Version)
-- Hey Stephen (Taylor’s Version)
 - White Horse (Taylor’s Version)
+- Hey Stephen (Taylor’s Version)
 - Fifteen (Taylor’s Version)
 - Love Story (Taylor’s Version)
+- Fearless (Taylor’s Version)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B092YV2RYY{{</world>}}

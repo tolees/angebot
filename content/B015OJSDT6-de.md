@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gepolsterter Bund für noch mehr Komfort.
-- Perforationen für bessere Atmungsaktivität.
 - Obermaterial aus Veloursleder.
+- Perforationen für bessere Atmungsaktivität.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B015OJSDT6{{</world>}}

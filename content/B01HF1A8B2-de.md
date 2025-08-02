@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hochwertige Materialien
-- Für jedes Wetter geeignet
-- Modernes und elegantes Design
 - Leuchtmittel nicht enthalten
+- Modernes und elegantes Design
+- Für jedes Wetter geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01HF1A8B2{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die LEGO Bauplatte hält die Steine in jedem Winkel fest (sogar kopfüber!) und lässt sich dennoch leicht entfernen
 - Stabil und langlebig - 1.024 Noppen bieten den Bauherren einen festen und dauerhaften Halt für ihre LEGO Bausteine
 - Eine Grundlage für kreatives Spielen - diese LEGO Grundplatte mit 32 x 32 Noppen bietet eine leere "Leinwand" für kreative Ideen
+- Die LEGO Bauplatte hält die Steine in jedem Winkel fest (sogar kopfüber!) und lässt sich dennoch leicht entfernen
 - Von Strandkulissen bis hin zu Segelschiffen - Kinder können auf dieser LEGO Basis alles bauen
 - Die blaue LEGO Basisplatte ist ein tolles Geschenk für Kinder ab 4 Jahren als Grundlage für spannende Bauprojekte
 

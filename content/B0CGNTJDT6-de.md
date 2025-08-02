@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - atmungsaktive Zonen
+- vorgeformter Ärmel
 - Stretcheinsätze
 - sportive Schnittführung
-- vorgeformter Ärmel
 - teilweise wattiert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

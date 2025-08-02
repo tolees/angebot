@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TV-Serie bekannt aus der TV-Ausstrahlung auf ProSieben MAXX
 - 30 Jahre internationales Fandom
 - der 2. Kinofilm des Dragon Ball Super-Franchises
+- TV-Serie bekannt aus der TV-Ausstrahlung auf ProSieben MAXX
 - Originalstory von Dragon Ball-Schöpfer Akira Toriyama
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

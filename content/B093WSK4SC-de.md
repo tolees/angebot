@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Musik für unterwegs: DAB Radio in handlichem Design mit wiederaufladbarem Akku (3h Laden - 8h Spielzeit), großem 2,4 LCD Display, fester Antenne, 5W
 - Vielfältiges Digital-Radio: Unglaubliche Senderauswahl in der Welt des Radios und dazu noch rauschfreie Qualität durch DAB/DAB+ Plus
 - Das Beste vereint: Digitalradio & Bluetooth Lautsprecher in einem Gerät und auch noch tragbar, dank Li-Ionen Akku - perfekt für zu Hause & unterwegs
 - Mobiler Bluetooth-Lautsprecher: Musikbox ausgestattet mit Bluetooth und AUX für den perfekten Musikgenuss mit dem Smartphone, Tablet, PC oder Notebook
+- Musik für unterwegs: DAB Radio in handlichem Design mit wiederaufladbarem Akku (3h Laden - 8h Spielzeit), großem 2,4 LCD Display, fester Antenne, 5W
 - Lieferumfang: 1x Hama Digitalradio DR200BT Bluetooth Box, 1x USB-C-Ladekabel (bis zu 3 A), 1x Kurzhandbuch (mehrsprachig)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

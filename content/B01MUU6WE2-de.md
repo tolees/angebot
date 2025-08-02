@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Drehmomentschraubendreher: Durch ein deutlich hör- + fühlbares Signal bei Auslösen des Drehmoments wird prozesssichere Drehmomentmechanik gewährleistet (Schutz vor Materialbeschädigungen + Nacharbeit)
-- Bit Schraubendreher: Kalibrierungsprotokoll mit einer Genauigkeit von +/-6% bei allen Drehmoment-Werkzeugen von Wiha.
 - Elektro Schraubendreher: Um Sicherheit bei Arbeiten an spannungsführenden Teilen zu gewährleisten, ist es notwendig, dass KEINE handelsüblichen, nicht isolierten ¼“ Bits in die Bitaufnahme passen.
-- VDE Bithalter: Schnelle und präzise Einstellung der Drehmoment-Werte durch digitale Anzeige, variabel einstellbares Drehmoment deckt großen Anwendungsbereich ab.
 - Ergonomischer Griff: Für hand- und muskelschonenedes Arbeiten, von deutschen Ärzten und Therapeuten des AGR empfohlen! SlimBits bei 10.000 V AC getestet und zugelassen für 1.000 V AC.
+- Bit Schraubendreher: Kalibrierungsprotokoll mit einer Genauigkeit von +/-6% bei allen Drehmoment-Werkzeugen von Wiha.
+- VDE Bithalter: Schnelle und präzise Einstellung der Drehmoment-Werte durch digitale Anzeige, variabel einstellbares Drehmoment deckt großen Anwendungsbereich ab.
+- Drehmomentschraubendreher: Durch ein deutlich hör- + fühlbares Signal bei Auslösen des Drehmoments wird prozesssichere Drehmomentmechanik gewährleistet (Schutz vor Materialbeschädigungen + Nacharbeit)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01MUU6WE2{{</world>}}

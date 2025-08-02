@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Baue dein eigenes MotoGP-Team auf und triff wichtige Entscheidungen
 - Passe deinen Fahrer und dein Motorrad an und zeige allen, wer neben dem besten Fahrstil auch den coolsten Style hat
 - Die MotoGP 21-Saison so mitreißend wie nie zuvor
-- Verfolge deine Karriere und werde zum Held der MotoGP-Meisterschaft
 - Vorbestellerbonus - Jetzt MotoGP 21 für die PlayStation 4, PlayStation 5, Xbox One, Xbox Series X oder PC vorbestellen und den DLC „MotoGP - Limited Edition Liveries“ erhalten.
+- Baue dein eigenes MotoGP-Team auf und triff wichtige Entscheidungen
+- Verfolge deine Karriere und werde zum Held der MotoGP-Meisterschaft
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08WZD75ZF{{</world>}}

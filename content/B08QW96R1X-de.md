@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herkunftsland: KH
 - cotton
-- Größe: L
+- Herkunftsland: KH
 - Pflegehinweise: Machine Wash
+- Größe: L
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QW96R1X{{</world>}}

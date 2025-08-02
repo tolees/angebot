@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herkunftsland:- China
-- Abteilung: Unisex
 - Schnellladegerät 5 A für max. - Schwarz - Kapazität - Leistung 210 W - Ladezeit ca. 3 Stunden.
+- Abteilung: Unisex
+- Herkunftsland:- China
 - Verpackungsabmessungen: : 4.8 L x 22.8 H x 14.4 W (zentimeters)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

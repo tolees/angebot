@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brillantes 12,9" Liquid Retina XDR Display mit ProMotion, True Tone und großem P3 Farbraum
-- Superschnelles WLAN 6E und 5G Mobilfunk
-- Kompatibel mit Apple Pencil (2. Generation), Magic Keyboard und Smart Keyboard Folio
 - USB C Anschluss mit Unterstützung für Thunderbolt / USB 4
 - Unterstützt die Apple Pencil Schwebefunktion für präziseres Markieren und Skizzieren
-- Mach mehr mit Batterie für den ganzen Tag
 - 12 MP Ultraweitwinkel-Frontkamera mit Folgemodus
+- Kompatibel mit Apple Pencil (2. Generation), Magic Keyboard und Smart Keyboard Folio
+- Brillantes 12,9" Liquid Retina XDR Display mit ProMotion, True Tone und großem P3 Farbraum
+- Mach mehr mit Batterie für den ganzen Tag
 - 12 MP Weitwinkel-Kamera, 10 MP Ultraweitwinkel-Rückkamera und LiDAR Scanner für faszinierendes AR
-- Face ID für sicheres Authentifizieren und Apple Pay
 - M2 Chip mit 8 Core CPU und 10 Core GPU
+- Superschnelles WLAN 6E und 5G Mobilfunk
+- Face ID für sicheres Authentifizieren und Apple Pay
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BJMKK96V{{</world>}}

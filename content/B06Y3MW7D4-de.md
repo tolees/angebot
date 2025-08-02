@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ladegerät zum Schnellladen des Akkus über USB Typ-C
-- Zwei Ampere
 - Einsatz für kompatible Endgeräte (Micro-USB)
-- Eingangsspannung: 100 - 240 V
 - Inkl. USB Typ-C Kabel zum Aufladen oder Synchronisieren
+- Ladegerät zum Schnellladen des Akkus über USB Typ-C
+- Eingangsspannung: 100 - 240 V
+- Zwei Ampere
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06Y3MW7D4{{</world>}}

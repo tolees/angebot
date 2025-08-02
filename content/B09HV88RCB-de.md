@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Universal-Kompatibilität zu allen Xbox-Controllern*: Ob Next-Gen, Last-Gen oder Oldschool, die Razer Universal-Schnellladestation für Xbox funktioniert mit allen alten und neuen Controllern. *Außer Xbox Elite Controller 2
-- Einhändige Bedienung Praktischer Einsatz beim Aufladen: Die Ladestation hat ein ergonomisches Design, damit du den Controller auch im angedockten Zustand zum Bedienen des Xbox-Dashboards verwenden kannst.
 - Passt zu deinem Xbox-Controller für einen einheitlichen Look: Um deinem Setup den letzten Schliff zu geben, setzt diese Ladestation auf das gleiche robuste Material und die gleichen auffälligen Farben wie die offiziellen Xbox Series X|S Controller.
-- Aufladen per USB Für flexible Konnektivität: Verbinde die Ladestation einfach mit deiner Xbox, deinem PC oder einem kompatiblen Anschluss, und schon kanns losgehen.
-- Schnellladung Minimale Wartezeit: Die Station kann deinen Controller in weniger als 3 Stunden wieder voll aufladen und verfügt über einen Überladungsschutz, um Überhitzung und Kurzschlüssen vorzubeugen.
+- Universal-Kompatibilität zu allen Xbox-Controllern*: Ob Next-Gen, Last-Gen oder Oldschool, die Razer Universal-Schnellladestation für Xbox funktioniert mit allen alten und neuen Controllern. *Außer Xbox Elite Controller 2
 - Magnetkontakt-System zum sicheren Aufladen: Du kannst deinen Controller ganz leicht verbinden und brauchst dir keine Sorgen machen, dass das Aufladen unterbrochen werden könnte, weil der Controller per Magnet an der Station festgehalten wird.
+- Schnellladung Minimale Wartezeit: Die Station kann deinen Controller in weniger als 3 Stunden wieder voll aufladen und verfügt über einen Überladungsschutz, um Überhitzung und Kurzschlüssen vorzubeugen.
+- Aufladen per USB Für flexible Konnektivität: Verbinde die Ladestation einfach mit deiner Xbox, deinem PC oder einem kompatiblen Anschluss, und schon kanns losgehen.
+- Einhändige Bedienung Praktischer Einsatz beim Aufladen: Die Ladestation hat ein ergonomisches Design, damit du den Controller auch im angedockten Zustand zum Bedienen des Xbox-Dashboards verwenden kannst.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09HV88RCB{{</world>}}

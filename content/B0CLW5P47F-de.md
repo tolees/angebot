@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das NAVIC Fit-System bietet eine natürliche Blockierung im Mittelfuß. Wasserdichte und atmungsaktive OutDry-Konstruktion. Nahtloses Mesh bietet außergewöhnliche Passform und Unterstützung. Der 3D-Druck sorgt für leichte Stabilität
 - Die Adapt Trax-Außensohle bietet außergewöhnliche Traktion bei nassen und trockenen Bedingungen
 - Spezifische Traktion für Wanderungen mit 5 mm Zungenhöhe. Die OrthoLite Eco-Einlegesohle ist zu 17 % des gesamten ökologischen Anteils verpflichtet und bietet eine verbesserte Atmungsaktivität und leichte Dämpfung auf lange Sicht
+- Das NAVIC Fit-System bietet eine natürliche Blockierung im Mittelfuß. Wasserdichte und atmungsaktive OutDry-Konstruktion. Nahtloses Mesh bietet außergewöhnliche Passform und Unterstützung. Der 3D-Druck sorgt für leichte Stabilität
 - Die Techlite+-Schaumstoff-Zwischensohle mit einzigartiger Dichte bietet ein reaktionsschnelles Dämpfungserlebnis unter den Füßen und bietet gleichzeitig überlegenen Komfort und Stabilität auf dem Weg
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Versammle ein Team aus beliebten Helden, um dich den Armeen der Unterdrücker in spannenden rundenbasierten Kämpfen zu stellen
-- In der Erstauflage ist zusätzlich zum Spiel ein DLC-Code für 2 Persona Spiele ("Orpheus Picaro" & "Izanagi Picaro") in der Box enthalten
 - Schlage deine Feinde mithilfe mächtiger Personas, einer Auswahl an Waffen und besiege sie mit Stil!
+- In der Erstauflage ist zusätzlich zum Spiel ein DLC-Code für 2 Persona Spiele ("Orpheus Picaro" & "Izanagi Picaro") in der Box enthalten
+- Versammle ein Team aus beliebten Helden, um dich den Armeen der Unterdrücker in spannenden rundenbasierten Kämpfen zu stellen
 - Führe in einer brandneuen Story einen Aufstand der Herzen an, der im legendären Persona-Universum spielt
 
 [🛒 Hier!!]({{< param buyurl >}})

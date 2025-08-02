@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Synthetik und beschichtetem Leder
 - Regular Fit
 - Mesh-Futter
 - Robuste Gummilaufsohle
+- Obermaterial aus Synthetik und beschichtetem Leder
 - Mit Schnürung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

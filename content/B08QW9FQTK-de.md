@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalskrasen
-- T-Shirt zum Training oder zur Präsentation
 - Großer Nike Logo Print
 - Leichte elastische Eigenschaften
+- T-Shirt zum Training oder zur Präsentation
+- Rundhalskrasen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QW9FQTK{{</world>}}

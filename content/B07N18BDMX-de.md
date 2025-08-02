@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht
-- gut verstellbar
-- Sehr bequem
 - Sehr gute Belüftung
+- Leicht
+- Sehr bequem
 - Aufklappbares Visier zum Aufstellen der Maske
+- gut verstellbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07N18BDMX{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Synthetik-Obermaterial
 - Reguläre Passform
+- Synthetik-Obermaterial
 - Schnürsenkel, Synthetikfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

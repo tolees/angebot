@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für Kinder ab 4 Jahren
-- 600 Perlen
 - Bastelperlen im Aquabeads Einzelpack zum Nachfüllen (hellgrün)
+- Geeignet für Kinder ab 4 Jahren
 - Ähnlich wie Bügelperlen verbinden sich die Aquabeads Bastelperlen magisch. Das Ganze funktioniert ohne Bügeln und nur durch das Sprühen von Wasser.
+- 600 Perlen
 - Noch mehr Bastelspaß
 
 [🛒 Hier!!]({{< param buyurl >}})

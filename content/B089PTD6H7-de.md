@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Angenehme Materialqualität
 - Einfarbiger Strickpullover mit V-Ausschnitt
+- Angenehme Materialqualität
 - Überschnittene Schultern
 
 [🛒 Hier!!]({{< param buyurl >}})

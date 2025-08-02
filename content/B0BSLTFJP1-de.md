@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- warm gefüttert
-- besonders atmungsaktiv und wasserabweisend
-- Absatzhöhe: 6.5 cm
 - gepolsterte TOUCH-IT Decksohle
+- besonders atmungsaktiv und wasserabweisend
+- warm gefüttert
+- Absatzhöhe: 6.5 cm
 - Absatztyp: Blockabsatz
 
 [🛒 Hier!!]({{< param buyurl >}})

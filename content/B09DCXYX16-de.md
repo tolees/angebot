@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Man Intense
 - Langlebig
-- Flexible Gestaltung
 - Hält kühl und bequem
+- Man Intense
+- Flexible Gestaltung
 - Bringt Ihnen einen zusätzlichen Komfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

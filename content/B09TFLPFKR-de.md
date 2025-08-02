@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Robustes Design – Magnesium Gehäuse, Kälte-/Staub-undSpritzwasserschutz, 2 Karten-Slots (CFe und SD), Joystick, frei schwenkbarer LCD, großer OLED-Sucher
+- Bildstabilisator – Doppelte Stabilisierung mit bis zu 7,5 Stufen: 5-Achsen-Body I.S. + O.I.S. im Objektiv
+- Bildqualität – neuer 25MP Sensor und neuer Prozessor / 100MP HighRes Aufnahme aus der Hand
 - Professionelle Videoaufnahmen 2 – 5,7K 30p Apple ProRes 422 HQ interne Aufzeichnung
 - Professionelle Videoaufnahmen 1 – 4K 120p oder 5,7k 60p mit 10Bit / Full-HD mit max. 300 B/s
-- Robustes Design – Magnesium Gehäuse, Kälte-/Staub-undSpritzwasserschutz, 2 Karten-Slots (CFe und SD), Joystick, frei schwenkbarer LCD, großer OLED-Sucher
-- Bildqualität – neuer 25MP Sensor und neuer Prozessor / 100MP HighRes Aufnahme aus der Hand
-- Bildstabilisator – Doppelte Stabilisierung mit bis zu 7,5 Stufen: 5-Achsen-Body I.S. + O.I.S. im Objektiv
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09TFLPFKR{{</world>}}

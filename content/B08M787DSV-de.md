@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Flexible Gestaltung
+- Langlebig
 - Hochwertige Abmessungen
 - connector_type; usb amicro-usb b
-- Langlebig
 - Hochwertige Material
 
 [🛒 Hier!!]({{< param buyurl >}})

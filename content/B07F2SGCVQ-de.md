@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Leichter, fließender Modal-Stoff
 - Hohe Atmungsaktivität und Strapazierfähigkeit
-- Lockerer, legerer Schnitt mit 3/4-Ärmeln
 - Super geeignet für Sport und Freizeit
 - Made in Europe!
+- Lockerer, legerer Schnitt mit 3/4-Ärmeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07F2SGCVQ{{</world>}}

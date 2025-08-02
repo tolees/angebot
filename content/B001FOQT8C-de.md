@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schützender SafeCut Guard - Schneidemaschine kann nur bei aktiviertem Schutz bedient werden
-- Formatraster für verschiedene Formate; Langlebiges Schneidbett aus Metall
 - Schneidet bis zu 10 Blatt (80g/m²) gleichzeitig
 - Papierklemme minimiert das Risiko eines Verrutschens des Papiers während des Schneidens
+- Formatraster für verschiedene Formate; Langlebiges Schneidbett aus Metall
+- Schützender SafeCut Guard - Schneidemaschine kann nur bei aktiviertem Schutz bedient werden
 - Lieferumfang: Fellowes 5410901 Kleinbüro Hebelschneidemaschine schwarz/metallic
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

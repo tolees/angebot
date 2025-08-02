@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Musik
-- FOREIGNER 1977-1991
 - R&P International
 - INTERNATIONAL
+- Musik
+- FOREIGNER 1977-1991
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00LW2K9AQ{{</world>}}

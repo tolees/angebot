@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Doppelte Leistung durch zwei EXPEED-Prozessoren
 - Faszinierenden Lichtausbeute
+- Doppelte Leistung durch zwei EXPEED-Prozessoren
 - Hybrid-AF mit extrem großer Bildfeldabdeckung
 
 [🛒 Hier!!]({{< param buyurl >}})

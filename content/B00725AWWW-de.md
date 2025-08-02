@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Made in Germany: TÜV zertifiziert. Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
-- Lieferumfang: 1 SPAX Box, 200 Stück Universalschraube, T-STAR plus, Halbrundkopf, Vollgewinde, 4CUT, WIROX-Oberfläche, Gewindedurchmesser (Ød1)= 6mm x Gesamtlänge (Ls) = 80mm, Vollgewindelänge (LgV) = 61mm, Kopfdurchmesser (Ødk): 11,6mm, Bit nicht enthalten
 - Ermüdungsfreies Arbeiten und längere Akku-Lebensdauer: Kein Vorbohren (holzabhängig). Leichteres Eindringen, Verringerung der Spaltwirkung durch 4CUT: Vier Kanten in der Schraubenspitze. Einfacheres Durchtrennen der Holzfaser durch SPAX-Wellenprofil
 - Aufliegender Halbrundkopf mit bündiger Anzugsfläche. Geeignet für dünne Beschläge mit Durchgangsloch. Optimale Kraftübertragung und sauberer Passsitz auch beim Verarbeiten über Kopf mit SPAX Bit T-STAR plus T30 mit Führungszapfen
+- Made in Germany: TÜV zertifiziert. Bauaufsichtlich zugelassen: Europäisch Technische Zulassung für Schrauben als Holzverbindungsmittel in tragenden Holzkonstruktionen (ETA-12/0114)
 - Einsatz: Universell im Innenbereich. SPAX-exklusive WIROX-Oberfläche: 20fach höherer Korrosionsschutz gegenüber herkömmlicher blanker Verzinkung als nach Norm gefordert
+- Lieferumfang: 1 SPAX Box, 200 Stück Universalschraube, T-STAR plus, Halbrundkopf, Vollgewinde, 4CUT, WIROX-Oberfläche, Gewindedurchmesser (Ød1)= 6mm x Gesamtlänge (Ls) = 80mm, Vollgewindelänge (LgV) = 61mm, Kopfdurchmesser (Ødk): 11,6mm, Bit nicht enthalten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00725AWWW{{</world>}}

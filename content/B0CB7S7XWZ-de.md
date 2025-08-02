@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OrthoLite-Einlegesohle.
 - Sehr abriebfeste Gummi-Außensohle.
+- OrthoLite-Einlegesohle.
 - Obermaterial aus Leder.
 - Sehr abriebfeste Gummi-Außensohle.
 

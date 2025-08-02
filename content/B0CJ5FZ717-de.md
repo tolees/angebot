@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- höchster Tragecomfort und optimale Passform
+- BOSS Round-Neck T-Shirt Classic im 3er Pack, Regular Fit
 - BOSS Trunk im 3er Pack
+- höchster Tragecomfort und optimale Passform
 - 100% Baumwolle, höchster Tragecomfort und optimale Passform
 - klares Design, BOSS Logo auf der Brust
 - klares Design, BOSS Logo im komfortablen Bundband
-- BOSS Round-Neck T-Shirt Classic im 3er Pack, Regular Fit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJ5FZ717{{</world>}}

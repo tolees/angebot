@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Screen
-- Camera
-- Charging
 - Oxygen OS
 - Design
+- Charging
+- Camera
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BQRRSP5M{{</world>}}

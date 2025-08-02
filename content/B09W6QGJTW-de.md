@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das ideale Geschenk für die ganze Familie
-- Basierend auf den Geschichten von J.R.R. Tolkien
+- Leicht zugängliches Familienspiel im Der Herr der Ringe Universum
 - Einfach Losspielen mit der kostenlosen Erklär-App
 - Brettspiel für 1-4 Personen ab 10 Jahren
-- Leicht zugängliches Familienspiel im Der Herr der Ringe Universum
 - Eine kooperative Abenteuerreise durch Mittelerde
+- Das ideale Geschenk für die ganze Familie
+- Basierend auf den Geschichten von J.R.R. Tolkien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09W6QGJTW{{</world>}}

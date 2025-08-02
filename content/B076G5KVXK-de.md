@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durchgehende Schnürung für einen festen Sitz
 - Nicht abfärbende Gummisohle
+- Durchgehende Schnürung für einen festen Sitz
 - PUMA-Branding auf der Schuhzunge
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Katamaran ist schwimmfähig
 - Täglich bespielbar: Anleitung zum Aufbau gemeinsam mit den Eltern, hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Der Katamaran ist schwimmfähig
 - Der Artikel kann mit einem Unterwassermotoer ergänzt werden (nicht enthalten).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

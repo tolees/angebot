@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schutz gegen Staub und Wasser mit hoher Klassifizierung (IP68)
-- Klasse 10 (Geschwindigkeitsklasse SD), Klasse 3 (Geschwindigkeitsklasse UHS), V60 (videogeschwindigkeit)
 - Hohe Schreibgeschwindigkeit mit bis zu 150 MB/s für Serien- und hochauflösende Aufnahmen
-- Tough-spezifikation mit bruchsicherem und stoßfestem Design
+- Klasse 10 (Geschwindigkeitsklasse SD), Klasse 3 (Geschwindigkeitsklasse UHS), V60 (videogeschwindigkeit)
 - Das Rippen- und schalterlose Design erhöht die Zuverlässigkeit und verringert das Bruchrisiko
+- Schutz gegen Staub und Wasser mit hoher Klassifizierung (IP68)
+- Tough-spezifikation mit bruchsicherem und stoßfestem Design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07YNSS9X2{{</world>}}

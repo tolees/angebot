@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite : Medium
 - Absatzform : Flach
-- Obermaterial : Synthetik
+- Schuhweite : Medium
 - Innenmaterial : Synthetik
+- Obermaterial : Synthetik
 - Wasserbeständigkeitsgrad : Wasserfest
 
 [🛒 Hier!!]({{< param buyurl >}})

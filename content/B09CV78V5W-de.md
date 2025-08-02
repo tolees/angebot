@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Joghurt-Programm - für selbst gemachten Joghurt zuhause
 - Reguliert die Eiskonsistenz in drei Stufen (von Softeis über Frozen Yogurt, Sorbet bis klassische Eiscreme)
 - Komfortables Touch-Display mit vielen Einstellmöglichkeiten
-- Joghurt-Programm - für selbst gemachten Joghurt zuhause
 - Automatische Kühlfunktion – kühlt direkt nach der Zubereitung (120 Min.)
 
 [🛒 Hier!!]({{< param buyurl >}})

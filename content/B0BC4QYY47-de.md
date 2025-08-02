@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal als Geschenk
 - 1000-teiliges Puzzle im Format 96 x 32 cm
+- Ideal als Geschenk
 - Hergestellt in Blueboard-Qualität
 - Perfekt als Wohndeko
 

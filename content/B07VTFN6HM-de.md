@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Unbefugte Personen haben keinen Zugriff auf Ihre privaten Inhalte. Mit unserer Software vergeben Sie ein Passwort und schon sind Ihre Daten auf dem externen Speicher vor fremden Blicken geschützt.
 - WD My Passport externe Festplatte 2 TB (herunterladbare Software, SuperSpeed-USB-Kabel, Schnellinstallationsanleitung) schwarz; 3 Jahre Garantie
 - Einfach loslegen. Dank der mitgelieferten Kabel sind Sie sofort startklar. Einfach anschließen und schon übertragen Sie Ihre wichtigsten Daten mit dem SuperSpeed USB.
-- Vom PC nicht erkennbar und kann nicht per Software repariert werden – Stellen Sie eine Verbindung zu einem anderen Computer her, um zu überprüfen, ob das Problem mit dem lokalen Host oder Produkt zusammenhängt. Darüber hinaus MUSS das Produkt sicher vom Host entfernt oder ausgeworfen werden, da das nicht ordnungsgemäße Entfernen des Produkts vom PC auch zu Problemen wie den unten aufgeführten führt.
-- Unbefugte Personen haben keinen Zugriff auf Ihre privaten Inhalte. Mit unserer Software vergeben Sie ein Passwort und schon sind Ihre Daten auf dem externen Speicher vor fremden Blicken geschützt.
 - Die My Passport ist ein zuverlässiger mobiler Speicher zur vielseitigen Nutzung unterwegs. Die externe HDD bietet ein attraktives Design sowie Platz zum Speichern, Organisieren und Teilen von Dateien.
+- Vom PC nicht erkennbar und kann nicht per Software repariert werden – Stellen Sie eine Verbindung zu einem anderen Computer her, um zu überprüfen, ob das Problem mit dem lokalen Host oder Produkt zusammenhängt. Darüber hinaus MUSS das Produkt sicher vom Host entfernt oder ausgeworfen werden, da das nicht ordnungsgemäße Entfernen des Produkts vom PC auch zu Problemen wie den unten aufgeführten führt.
 - Dieses Produkt entspricht den Kompatibilitätsstandards von Google und ist entsprechend zertifiziert. Chromebook und das Works with Chromebook-Logo sind Marken von Google LLC.
 - Vergessen Sie nie wieder ein Backup und vermeiden somit Datenverlust. Die mobile Festplatte erstellt für Sie automatische Backups. Dafür müssen Sie nur noch den Zeitpunkt und die Häufigkeit festlegen.
 

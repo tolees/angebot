@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserbeständigkeitsgrad : Nicht Wasserfest
 - Innenmaterial : Synthetik
 - Absatzform : Flach
+- Wasserbeständigkeitsgrad : Nicht Wasserfest
 - Schuhweite : Medium
 - Obermaterial : Wildleder
 

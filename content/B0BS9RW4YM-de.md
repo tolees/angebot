@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Vielseitigkeit: Das FlexiClick System ermöglicht ein schnelles und einfaches Wechseln von 2 Zubehören, die auf bis zu 8 verschiedene Weisen kombiniert werden können.
+- Große Materialauswahl: Der Bohrschrauber ist für Bohr- und Schraubanwendungen in Holz und Stahl geeignet
 - Kraftvoll und kompakt: Der Akku-Schrauber GSR 12V-35 FC ist extrem kompakt bei gleichzeitig hoher Leistungskapazität (35 Nm und 1.750 min⁻¹) für optimale Handlichkeit an schwer zugänglichen Stellen
 - Professional 12V System: Kompakte Performance. Maximale Freiheit. Das Werkzeug ist mit allen Bosch Professional 12V- und 10.8V-Akkus und -Ladegeräten kompatibel.
-- Große Materialauswahl: Der Bohrschrauber ist für Bohr- und Schraubanwendungen in Holz und Stahl geeignet
-- Vielseitigkeit: Das FlexiClick System ermöglicht ein schnelles und einfaches Wechseln von 2 Zubehören, die auf bis zu 8 verschiedene Weisen kombiniert werden können.
 - Enthalten: GSR 12V-35 FC, 1 x GFA 12-H, 1 x GFA 12-B, 1 x GFA 12-E, 1 x GFA 12-W, 1 x GFA 12-X, 2 x Akku GBA 12V 3.0Ah, Schnellladegerät GAL 12V-40, L-BOXX
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

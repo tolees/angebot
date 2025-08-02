@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus Bio-Baumwolle hergestellt
 - Weiches Jersey-Tragegefühl
 - Jeans und ein langärmeliges T-Shirt Nenne uns ein perfekteres Duo.Wir haben das klassische T-Shirt genommen und es mit 100 Prozent Baumwolle und einem der kultigsten Logos der Branche noch besser gemacht
+- Aus Bio-Baumwolle hergestellt
 - Kleines gesticktes Brand Housemark-Logo
 - Das Basic-T-Shirt perfektioniert
 

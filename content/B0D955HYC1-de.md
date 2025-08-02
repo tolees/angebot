@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Artwork vorne mit Stickereien und Patch
 - Ärmelbündchen mit Kontrastkante
+- Trikotkragen mit Kontrastkante und Print auf der Unterseite
+- Artwork vorne mit Stickereien und Patch
 - 2-Knopfleiste
 - leger geschnitten
-- Trikotkragen mit Kontrastkante und Print auf der Unterseite
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D955HYC1{{</world>}}

@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserinhalt bei 90 % Befüllung: 6. 503 l
-- Pool Ø 366 x 76 cm
-- 2-fach gesichertes Entleerungsventil
-- Hohe Stabilität durch integrierte Stützkonstruktion
-- Folienstärke Wand 0, 50 mm
 - 3 Lagen SUPER-TOUGH Material
-- Wassertiefe 61 cm
+- Folienstärke Wand 0, 50 mm
+- Hohe Stabilität durch integrierte Stützkonstruktion
 - Folienstärke Boden 0, 32 mm
+- Wasserinhalt bei 90 % Befüllung: 6. 503 l
+- 2-fach gesichertes Entleerungsventil
+- Wassertiefe 61 cm
+- Pool Ø 366 x 76 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07FBC8QKY{{</world>}}

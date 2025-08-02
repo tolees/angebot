@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kapuze mit Kordelzug
-- Taillierter Schnitt
 - Aufgesetzte Kängurutasche
-- Weicher Baumwollmix
+- Kapuze mit Kordelzug
 - Rippbündchen an Ärmel und Saum
+- Weicher Baumwollmix
+- Taillierter Schnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08VNMBPPG{{</world>}}

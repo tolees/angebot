@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Artikelname: Ragas & Talas (Ltd.180g Vinyl) Vinyl LP
 - Produkttyp: ABIS MUSIC
+- Artikelname: Ragas & Talas (Ltd.180g Vinyl) Vinyl LP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N4PT4AE{{</world>}}

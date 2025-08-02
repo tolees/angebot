@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Breite [mm]: 220
 - Dicke/Stärke [mm]: 0,8
-- Länge [mm]: 450
 - Gewicht [g]: 22,641
+- Breite [mm]: 220
+- Länge [mm]: 450
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00DQERHJO{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Normal geschnitten
 - Elastische Bündchen
 - Tief angesetzte Schulter
-- Normal geschnitten
 - Langarmshirt für Damen der dänischen Marke VERO MODA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

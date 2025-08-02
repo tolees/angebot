@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Individuelles Licht für jeden Anlass: Ob für eine Dinnerparty, Ihre täglichen Routinen oder einem entspannten Tagesausklang - erschaffen Sie die perfekte Atmosphäre
+- ntelligente Beleuchtung: Philips Hue ist kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation)
 - Personalisierte Beleuchtung: Wählen Sie aus Millionen von Farben und Weißtönen und stellen Sie Automatisierungen ein, um die Stimmung in Ihrem Zuhause individuell anpassen zu können
 - Volles Smart Home Erlebnis: Mit der Philips Hue Bridge (im Lieferumfang enthalten) können bis zu 50 Hue Lampen und Leuchten (Indoor und Outdoor) sowie bis zu 12 Hue Zubehörteile ins System hinzugefügt werden
-- ntelligente Beleuchtung: Philips Hue ist kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation)
 - Einfache Einrichtung mit der Hue Bridge: Hue Lampen eindrehen, App downloaden, mit der Hue Bridge verbinden und schon können Sie Ihre Lampen dimmen, Lichtszenen einstellen und vieles mehr
 
 [🛒 Hier!!]({{< param buyurl >}})

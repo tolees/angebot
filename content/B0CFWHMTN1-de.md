@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ENTFERNUNGSMESSER ZUM HERUNTERKLAPPEN UND STIMMVERZERRER: Wird der Entfernungsmesser hoch- und runtergeklappt sind Soundeffekte aus der Serie zu hören und mit dem Knopf an der linken Seite des Helms wird die eigene Stimme verzerrt
+- KLON CAPTAIN REX: Ahsoka spielt nach dem Fall des Imperiums und handelt von der ehemaligen Jedi-Ritterin Ahsoka Tano, die eine neue Bedrohung für eine verwundbare Galaxis untersucht
 - STAR WARS: AHSOKA: Dieser Helm des Klon Captain Rex aus der Star Wars Black Series ist von der mit Vorfreude erwarteten Live-Action-Serie Star Wars: Ahsoka auf Disney+ inspiriert
+- ANPASSBARE GRÖSSE: Dieser Klonkrieger-Helm kann in der Größe verändert werden und ist so für die meisten Kopfgrößen passend
 - ELEKTRONISCHER PREMIUM HELM: Dieser orginalgroße Helm aus der Black Series wartet mit einem besonders detaillierten, von der Serie inspirierten Design auf und ist eine kultige Ergänzung für jede Star Wars Fansammlung
 - EINE EPISCHE SAMMLUNG AUFBAUEN: Es gibt noch andere Premium-Rollenspielartikel aus der Star Wars The Black Series, wie z. B. die Force FX Lichtschwerter Kollektion. (Separat erhältlich. Je nach Verfügbarkeit)
-- KLON CAPTAIN REX: Ahsoka spielt nach dem Fall des Imperiums und handelt von der ehemaligen Jedi-Ritterin Ahsoka Tano, die eine neue Bedrohung für eine verwundbare Galaxis untersucht
-- ANPASSBARE GRÖSSE: Dieser Klonkrieger-Helm kann in der Größe verändert werden und ist so für die meisten Kopfgrößen passend
-- ENTFERNUNGSMESSER ZUM HERUNTERKLAPPEN UND STIMMVERZERRER: Wird der Entfernungsmesser hoch- und runtergeklappt sind Soundeffekte aus der Serie zu hören und mit dem Knopf an der linken Seite des Helms wird die eigene Stimme verzerrt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFWHMTN1{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Ken-Puppe trägt ein pastellrosa und mintgrün gestreiftes Oberteil. Die dazu passenden Shorts haben sogar Taschen!
-- Die gesamte Kollektion zum Barbie-Spielfilm enthält weitere fantastische Geschenkideen! Alle Artikel separat erhältlich.
 - Mit dieser Ken-Puppe können alle den Barbie-Spielfilm nach Hause holen! Mit seinem lässigen Surf-Outfit hat Ken jede Menge Spaß in der Welt von Barbie!
 - Er sieht mit seinem Surfbrett, dem platinblonden Haar, dem offenen Oberteil und den weißen Turnschuhen genauso locker und lässig aus wie Ken im Film.
+- Die gesamte Kollektion zum Barbie-Spielfilm enthält weitere fantastische Geschenkideen! Alle Artikel separat erhältlich.
+- Die Ken-Puppe trägt ein pastellrosa und mintgrün gestreiftes Oberteil. Die dazu passenden Shorts haben sogar Taschen!
 - Sein Körper ist beweglich und kann in der Verpackung ausgestellt werden. Diese Ken-Puppe ist das perfekte Geschenk für Fans und Sammler!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

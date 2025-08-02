@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UHS-I Class 10-Geschwindigkeiten von bis zu 100 MB/s*
 - Kapazitäten bis zu 512 GB**
+- UHS-I Class 10-Geschwindigkeiten von bis zu 100 MB/s*
 - Erfassen Sie Bilder und Videos in den Formaten Full HD (1080 Pixel) und UHD 4K
 - Kompatibilität UHS-I, U1, V10 (64 GB), UHS-I, U3, V30 (128 GB-512 GB)
 

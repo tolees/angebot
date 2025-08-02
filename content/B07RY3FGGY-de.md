@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Decksohle: Sonstiges Material
+- Futter: Materialmix aus Synthetik und Textil
+- Laufsohle: EVA-Sohle
 - Obermaterial: PU
 - Verschluss: Klettverschluss
-- Laufsohle: EVA-Sohle
-- Futter: Materialmix aus Synthetik und Textil
+- Decksohle: Sonstiges Material
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RY3FGGY{{</world>}}

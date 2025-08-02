@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Ein einzelner bedienknopf räumt dir die volle kontrolle über deinen kopfhörer ein
 - Der Major IV kann ohne kabel aufgeladen werden – noch nie war das aufladen so einfach. Kabelloser Anschluss: Bluetooth 5.0
-- Der Major IV verbindet verbesserte benutzerfreundlichkeit mit klassischen marshall-elementen zu einem legendären und gleichzeitig innovativen design
 - Der Major IV liefert mehr als 80 stunden kabellose spieldauer
 - Das neue, verbesserte ergonomische design des Major IV sorgt dafür, dass er nach zehn stunden noch genauso komfortabel ist wie am anfang
+- Der Major IV verbindet verbesserte benutzerfreundlichkeit mit klassischen marshall-elementen zu einem legendären und gleichzeitig innovativen design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09CHFX22K{{</world>}}

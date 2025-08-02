@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DS40T.DDEULLK
-- Optimaler Sound dank AI Sound Pro
-- WOW Interface bietet maximalen Komfort, Lautstärke, Verbindungsstatus oder Klangmodus lassen sich direkt über den TV steuern
 - 3.1.1 Dolby Atmos Soundbar mit 400 Watt mit kabellosem Subwoofer
+- WOW Interface bietet maximalen Komfort, Lautstärke, Verbindungsstatus oder Klangmodus lassen sich direkt über den TV steuern
+- Optimaler Sound dank AI Sound Pro
+- DS40T.DDEULLK
 - Unterstützte Audio-Formate: LPCM, Dolby Digital, DTS Digital Surround
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

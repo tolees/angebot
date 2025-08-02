@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ocean Teal, Android 13, 5G
-- Prozessor: Qualcomm Snapdragon 7s Gen 2
 - Frontkamera: 16 MP
 - Display: 16,9 cm (6,67 Zoll)
+- Ocean Teal, Android 13, 5G
+- Prozessor: Qualcomm Snapdragon 7s Gen 2
 - Hauptkamera: 200 MP + 8 MP + 2 MP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

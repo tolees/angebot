@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sinnlich feminin
 - Erfrischt die Haut
+- Sinnlich feminin
 - Essenzen grüner Früchte
 
 [🛒 Hier!!]({{< param buyurl >}})

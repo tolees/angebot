@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für Kinder ab 3 Jahre
 - Mit anderen Artikeln der Baby Serie kombinierbar
+- Geeignet für Kinder ab 3 Jahre
 - Spielzeug
 - Mit anderen Artikeln der Baby Serie kombinierbar
 

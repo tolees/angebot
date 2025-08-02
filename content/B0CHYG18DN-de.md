@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Limited Black Edition
-- COMBI-SET-A
-- Aktionsset mit 3 Combi Scheren
-- 1x D47-2 Black Edition + 1x D48-2 Black Edition + 1x D48A-2 Black Edition
 - Klingen aus rostfreiem Edelstahl
+- Aktionsset mit 3 Combi Scheren
 - D48A-2: abgewinkelte Schneiden
+- 1x D47-2 Black Edition + 1x D48-2 Black Edition + 1x D48A-2 Black Edition
+- COMBI-SET-A
 - ERGO-Griff für ermüdungsarmes Arbeiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

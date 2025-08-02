@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
 - Strap: T-Riemen
-- Runde Form
-- Schuhweite: Medium
-- Obermaterial: Leder
 - Leder: Kuh
+- Runde Form
+- Obermaterial: Leder
+- Schuhweite: Medium
+- Innenmaterial: Synthetik
 - Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})

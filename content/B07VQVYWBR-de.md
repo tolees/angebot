@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit sportlicher Silhouette
 - Mit OrthoLite
 - Lightweight
+- Mit sportlicher Silhouette
 - Dieser Herrensneaker aus weichem Leder
 - Durability
 

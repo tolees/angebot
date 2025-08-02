@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfacher und kostengünstiger HDD-Austausch für Ihr vorhandenes PC-System
-- Speicherkapazität: 250GB
-- Lesegeschwindigkeit bis zu 535 MB/s, Schreibgeschwindigkeit bis zu 500 MB/s
 - Format: 2.5 Zoll
 - Schnittstelle: Serial ATA III / 6 Gbps (Abwärtskompatibel mit SATA-II)
+- Speicherkapazität: 250GB
+- Lesegeschwindigkeit bis zu 535 MB/s, Schreibgeschwindigkeit bis zu 500 MB/s
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07XZLW68F{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unsere wunderbar weichen Taschentücher bestehen aus Frischzellstoff, wurden dermatologisch getestet, sind hautfreundlich und bieten softeste Pflege für den täglichen Gebrauch der ganzen Familie
 - Dank der Aloe Vera Lotion haben die Softis Taschentücher einen wohltuenden, dezenten Duft und sind besonders zärtlich zur Nase
-- Unser Einweg-Taschentuch-Multipack enthält 300 Päckchen mit jeweils 9 Taschentüchern; Die Päckchen dieser 4-lagigen Taschentücher verfügen über eine praktische und hygienische Seitenöffnung
+- Unsere wunderbar weichen Taschentücher bestehen aus Frischzellstoff, wurden dermatologisch getestet, sind hautfreundlich und bieten softeste Pflege für den täglichen Gebrauch der ganzen Familie
 - Mit den FSC-zertifizierten Softis Aloe Vera Taschentüchern schützen Sie die Umwelt, da sie aus Rohstoffen (Zellulose) hergestellt werden, die aus nachhaltig bewirtschafteten Wäldern und kontrollierten Quellen gewonnen wurden
+- Unser Einweg-Taschentuch-Multipack enthält 300 Päckchen mit jeweils 9 Taschentüchern; Die Päckchen dieser 4-lagigen Taschentücher verfügen über eine praktische und hygienische Seitenöffnung
 - Softis Aloe Vera Taschentücher sind ein Produkt der Sofidel-Gruppe, die seit 2008 Teil des WWF-Klimaschutzprogramms ist, das auf eine CO2-Reduzierung abzielt
 
 [🛒 Hier!!]({{< param buyurl >}})

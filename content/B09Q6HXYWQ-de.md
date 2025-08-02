@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aura Sync RGB: Onboard adressierbare Gen 2-Header für RGB-LED-Streifen, einfach mit Aura Sync-fähiger Hardware zu synchronisieren
-- ASUS Control Center Express (ACCE) für ein einfacheres Management von IT-Endgeräten
 - Intel LGA 1700 Sockel: Bereit für Intel Prozessoren der 12. Generation
+- ASUS Control Center Express (ACCE) für ein einfacheres Management von IT-Endgeräten
 - Umfassende Kühlung: VRM-Kühlkörper, PCH-Kühlkörper und Fan Xpert 2+
+- Aura Sync RGB: Onboard adressierbare Gen 2-Header für RGB-LED-Streifen, einfach mit Aura Sync-fähiger Hardware zu synchronisieren
 - Ultraschnelle Konnektivität: 32Gbps M.2 Steckplatz, Intel 1 Gb Ethernet und USB 3.2 Gen 2 Anschlüsse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

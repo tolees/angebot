@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DETAILLIERTES HÖHEN- UND SEITENLEITWERK: Der Modellbausatz umfasst ein detailliertes Höhen- und Seitenleitwerk, das dem Original nachempfunden ist. Diese Teile tragen zur Genauigkeit der Nachbildung bei.
-- MODELLNACHBILDUNG DES AIRBUS A380: Dieser Modellbausatz ermöglicht die detailgetreue Nachbildung des Airbus A380, dem nach wie vor größten und modernsten Passagierflugzeug der Welt.
-- 4 RR TRENT 900 TRIEBWERKE: Das Modell verfügt über vier RR Trent 900 Triebwerke, die detailgetreu gestaltet sind. Sie sind ein markantes Merkmal des Airbus A380 und werden in der Modellnachbildung präzise dargestellt.
 - DETAILLIERTES FAHRWERK: Der Modellbausatz enthält ein detailliertes Fahrwerk, das präzise nachgebildet ist. Es verfügt über 22 Räder mit detaillierten Felgen, die dem Originalflugzeug entsprechen.
+- 4 RR TRENT 900 TRIEBWERKE: Das Modell verfügt über vier RR Trent 900 Triebwerke, die detailgetreu gestaltet sind. Sie sind ein markantes Merkmal des Airbus A380 und werden in der Modellnachbildung präzise dargestellt.
+- MODELLNACHBILDUNG DES AIRBUS A380: Dieser Modellbausatz ermöglicht die detailgetreue Nachbildung des Airbus A380, dem nach wie vor größten und modernsten Passagierflugzeug der Welt.
 - SUPER ABZIEHBILD: Der Modellbausatz enthält ein super Abziehbild mit dem neuen Lufthansa-Dekor und umfangreichen Wartungsmarkierungen. Dies ermöglicht eine individuelle Gestaltung des Modells und verleiht ihm einen authentischen Look.
+- DETAILLIERTES HÖHEN- UND SEITENLEITWERK: Der Modellbausatz umfasst ein detailliertes Höhen- und Seitenleitwerk, das dem Original nachempfunden ist. Diese Teile tragen zur Genauigkeit der Nachbildung bei.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07JLVSQ2Y{{</world>}}

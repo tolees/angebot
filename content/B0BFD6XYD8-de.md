@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Acht Reisende, ein jeder mit anderer Herkunft, Motivation und einzigartigen Begabungen
 - Eine neue und vielfältige Welt zur Erkundung
 - Verbesserte HD-2D-Grafik
+- Acht Reisende, ein jeder mit anderer Herkunft, Motivation und einzigartigen Begabungen
 - Verbesserte Spielmechaniken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

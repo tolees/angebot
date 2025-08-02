@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1. 4GHz 64-bit quad-core ARMv8 CPU (BCM2837B0), 1 GB RAM
-- Bluetooth 4. 2, Bluetooth low energy
 - Made by Rs Components and COMES in Rs Components packaging
-- Dual band 2. 4GHz and 5GHz IEEE 802. 11. B/g/n/ac Wireless LAN
+- 1. 4GHz 64-bit quad-core ARMv8 CPU (BCM2837B0), 1 GB RAM
 - Poe hat support, camera interface (CSI), Display interface (DSI), 40 GPIO pins
+- Dual band 2. 4GHz and 5GHz IEEE 802. 11. B/g/n/ac Wireless LAN
+- Bluetooth 4. 2, Bluetooth low energy
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07BFH96M3{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: Paramount Pictures (Universal Pictures)
 - GI Joe – Geheimauftrag Cobra 4K, 2 UHD-Blu-ray
+- Marke: Paramount Pictures (Universal Pictures)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07D57FF5M{{</world>}}

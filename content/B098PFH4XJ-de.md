@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIGHTWEIGHT
-- CUSHIONING
 - ETRA DURABLE INGREDIENTS
 - SOFT FEELING
+- LIGHTWEIGHT
+- CUSHIONING
 - RECYCLED
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

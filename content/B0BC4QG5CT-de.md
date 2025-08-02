@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 500 Teile Puzzle im Format 47 x 33 cm
 - Perfekt als Dekoration in der Wohnung
+- 500 Teile Puzzle im Format 47 x 33 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BC4QG5CT{{</world>}}

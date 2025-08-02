@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ENERGIZER LINTERNAS AIRE LIBRE, DEPORTE Y CAMPING
-- Schwarz-grün
 - Makers of the WORLDS LONGEST LASTING PACK
+- Schwarz-grün
 - Home Improvement
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Jetzt sind die beliebtesten Harry-Potter-Figuren bei UNO mit von der Partie! Das Kartenspiel entspricht der Grundversion von UNO, ist jedoch mit Bildern von Hermine, Harry, Ron und anderen Figuren aus der magischen Welt von Harry Potter gestaltet.
-- Ein wunderbares Geschenk für Harry-Potter-Fans ab 7Jahren. Inhalt: 112Karten, Spielregeln. Abweichungen in Farbe und Gestaltung vorbehalten.
-- Wird die Karte mit dem Sprechenden Hut gespielt, muss ein ausgewählter Mitspieler solange Karten ziehen, bis eine Gryffindor-Karte kommt.
 - Besondere Aktionskarten sind Aussetzen-Karten, Retour-Karten, Zieh Zwei“-Karten und Farbenwahl-Karten.
+- Wird die Karte mit dem Sprechenden Hut gespielt, muss ein ausgewählter Mitspieler solange Karten ziehen, bis eine Gryffindor-Karte kommt.
+- Ein wunderbares Geschenk für Harry-Potter-Fans ab 7Jahren. Inhalt: 112Karten, Spielregeln. Abweichungen in Farbe und Gestaltung vorbehalten.
 - Ziel des Spiels ist es, als erster Spieler alle Karten abzulegen. Der Spieler oder das Team, der oder das zuerst 500 Punkte erreicht, gewinnt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

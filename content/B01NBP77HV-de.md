@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Während die Alten den Einstieg in unsere Welt suchen, arbeiten ein bis zwei Ermittler (oder bis zu vier mit zwei Kern-Sets) daran, arkane Geheimnisse und Verschwörungen zu entwirren.
-- Dies ist keine eigenständige Erweiterung. Es erfordert eine Kopie des Arkham Horror: The Card Game Core Sets zum Spielen
-- Arkham Horror: Das Kartenspiel ist ein kooperatives Living-Kartenspiel-Set inmitten einer Kulisse des Lovecraftian Horror.
-- Carnevale of Horrors kommt mit allen Akt-, Agenda-, Standort- und Begegnungskarten, die Sie brauchen, um sein Abenteuer zu genießen.
 - Englische Version, 1 bis 2 Spieler, ab 14 Jahren, 60 bis 120 Minuten Spieldauer
+- Carnevale of Horrors kommt mit allen Akt-, Agenda-, Standort- und Begegnungskarten, die Sie brauchen, um sein Abenteuer zu genießen.
+- Arkham Horror: Das Kartenspiel ist ein kooperatives Living-Kartenspiel-Set inmitten einer Kulisse des Lovecraftian Horror.
+- Dies ist keine eigenständige Erweiterung. Es erfordert eine Kopie des Arkham Horror: The Card Game Core Sets zum Spielen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01NBP77HV{{</world>}}

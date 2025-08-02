@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Elastischer Bund mit Kordelzug
 - Perfekte Atmungsaktivität
+- Standard Passform
 - Dri-fit-technologie
 - Angewinkelte Nähte an den Seiten ermöglichen uneingeschränkte Bewegungsfreiheit
-- Standard Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07W966LFF{{</world>}}

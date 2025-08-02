@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spin-Off Sekaiichi Hatsukoi erscheint ebenfalls bei Crunchyroll
-- stilprägend für das Genre Boys Love
-- erfüllt den Wunsch nach mehr Boys-Love-Animes in Deutschland
 - basiert auf dem erfolgreichen Manga Junjo Romantica (in Deutschland bei Carlsen Manga erschienen)
+- erfüllt den Wunsch nach mehr Boys-Love-Animes in Deutschland
+- stilprägend für das Genre Boys Love
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C3458BZM{{</world>}}

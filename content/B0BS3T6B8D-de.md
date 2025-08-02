@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Perfekte Passform und erhältlich in 5 verschiedenen Sattelbreiten (12, 13, 14, 15 und 16 cm).
 - Dieses Sattelmodell vereint die Vorteile der bekannten 611 (MTB) und 612 (Road).
-- Taillierte Formgebung für maximale Beinfreiheit im Gelände und plus an Polsterung für maximalen Komfort und Dämpfung im ruppigen Gelände.
-- Kevlar verstärktes Heck. Rückenfreundlich durch die neue active Satteltechnologie 2.1.
 - Allrounder für Straße und Gelände. Der neue Gravel Fahrradsattel von SQlab.
+- Kevlar verstärktes Heck. Rückenfreundlich durch die neue active Satteltechnologie 2.1.
+- Taillierte Formgebung für maximale Beinfreiheit im Gelände und plus an Polsterung für maximalen Komfort und Dämpfung im ruppigen Gelände.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BS3T6B8D{{</world>}}

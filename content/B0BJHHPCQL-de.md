@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ENORM KÜHL: Unterstützt Radiatoren bis zu 360mm in den oberen, seitlichen und unteren Panel. Passend für bis zu 10 x 120-mm-Lüfter oder 6 x 140-mm-Lüfter plus 1 x 120-mm-Lüfter
 - VEREINFACHTES BAUEN: Geräumiger Innenraum mit intuitivem Kabelmanagement, einem dedizierten SSD-Wandpanel und abnehmbaren oberen und seitlichen Montagehalterungen.
-- LEISTUNGSSTARKER Airflow: Perforierte Ober- und Seitenwände leiten gefilterte Luft durch das Gehäuse, um Komponenten abzukühlen und die Leistung zu verbessern.
+- ENORM KÜHL: Unterstützt Radiatoren bis zu 360mm in den oberen, seitlichen und unteren Panel. Passend für bis zu 10 x 120-mm-Lüfter oder 6 x 140-mm-Lüfter plus 1 x 120-mm-Lüfter
 - KLARE SICHT: Nahtloses Glas über die Front- und Seitenwände verleiht den Komponenten deines Builds die ungeteilte Aufmerksamkeit, die sie verdienen.
 - ZWEIKAMMER-DESIGN: Kabel, Speicher und Netzteil sind von anderen Komponenten getrennt, um ein sauberes Design zu erhalten und den Airflow zur GPU zu maximieren.
+- LEISTUNGSSTARKER Airflow: Perforierte Ober- und Seitenwände leiten gefilterte Luft durch das Gehäuse, um Komponenten abzukühlen und die Leistung zu verbessern.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BJHHPCQL{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Baumwollmischung
-- gerippte Bündchen
 - Markendetails
-- bequemer Hoodie
 - Kapuze mit Kordel
+- bequemer Hoodie
+- gerippte Bündchen
+- Baumwollmischung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07B5TYD76{{</world>}}

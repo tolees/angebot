@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Betriebsdauer von zehn Minuten, mit Überhitzungs- und Überlastungsanzeige sowie Start-Stopp-Funktion
 - Aktenvernichter im Mikroschnitt für 10 DIN A4-Blätter oder eine Kreditkarte, ideal für kleinere Büroumgebungen, Arztpraxen und Kanzleien
-- Anti-Papierstau-Technologie durch automatische Rücklauffunktion
-- Herausziehbarer Abfallbehälter mit einem Volumen von 20 Liter und Sichtfenster, einfache Entleerung
 - DSGVO-konforme Aktenvernichtung in 2 mm x 15 mm kleine Schnipsel mit der Sicherheitsstufe P-5
+- Herausziehbarer Abfallbehälter mit einem Volumen von 20 Liter und Sichtfenster, einfache Entleerung
+- Betriebsdauer von zehn Minuten, mit Überhitzungs- und Überlastungsanzeige sowie Start-Stopp-Funktion
+- Anti-Papierstau-Technologie durch automatische Rücklauffunktion
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08V1B33KL{{</world>}}

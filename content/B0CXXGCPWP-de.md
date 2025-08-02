@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verbessere deine Fähigkeiten, um deinen Gegnern gewachsen zu sein
-- Erlebe die nicht-lineare Geschichte in deinem eigenen Tempo
 - Stelle dich den Horden einer verrückt gewordenen KI
 - Begib dich in den Cyberspace und öffne alternative Wege
+- Erlebe die nicht-lineare Geschichte in deinem eigenen Tempo
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CXXGCPWP{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
-- Obermaterial: Leder
 - Verschluss: Reißverschluss
 - Absatzform: Kein Absatz
+- Obermaterial: Leder
+- Sohle: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BM53V8VL{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPIELE ALS DEINE LIEBLINGSCHARAKTERE – Steuere die Dino-Freunde Mazu, Rocky, Bill und Tiny.
-- BESUCHE GIGANTOS WELT – Mit farbenfrohen 3D-Animationen, die von der Fernsehserie inspiriert sind.
 - GESTALTE NEUE HERAUSFORDERUNGEN – Erstelle deine eigenen Giganto-Spiele-Events.
 - JETZT GEHT DIE PARTY LOS! – Rase, fliege und sprenge dich durch acht Spiele im Dino-Stil.
+- BESUCHE GIGANTOS WELT – Mit farbenfrohen 3D-Animationen, die von der Fernsehserie inspiriert sind.
 - MEHRSPIELER-CHAOS – Bis zu vier Spieler können im Splitscreen-Modus gegeneinander antreten.
+- SPIELE ALS DEINE LIEBLINGSCHARAKTERE – Steuere die Dino-Freunde Mazu, Rocky, Bill und Tiny.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D1XZ2JL1{{</world>}}

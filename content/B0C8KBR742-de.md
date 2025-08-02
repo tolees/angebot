@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: 100 % Rindsleder
 - Farbe: Rot
+- Obermaterial: 100 % Rindsleder
 - Sohle: 80% Gummi - 20% recycelter Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

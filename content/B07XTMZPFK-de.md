@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der TE-CD 18/2 Li Akku-Bohrschrauber gehört zur leistungsstarken Power X-Change-Familie und ist ein kraftvoller, robuster und vielseitiger Helfer bei anspruchsvollen Schraub- und Bohrarbeiten.
-- Als Mitglied der Power X-Change Familie ist der Akku-Bohrschrauber TE-CD 18/2 Li mit allen PXC Akkus kombinierbar. Akku und Ladegerät der Reihe sind nicht im Lieferumfang enthalten.
-- Der Schrauber setzt im Leerlauf max. 350 min-1 (1. Gang) und 1.250 min-1 (2. Gang) um. Mittels fein dosierbarer Drehzahlelektronik ist ein gefühlvolles Schrauben gewährleistet.
-- Der ergonomische Softgrip und der praktische Gürtelclip sorgen jederzeit für bequemes Arbeiten, und das helle LED-Licht ermöglicht zudem eine optimale Ausleuchtung des Arbeitsbereichs.
-- Das widerstandsfähige, langlebige 2-Gang-Getriebe und der leistungsstarke Motor sorgen für ein hohes Drehmoment und erlauben kraftvolles Schrauben und schnelles Bohren mit maximal 44 Nm Drehmoment.
-- Die Lithium-Ionen-Akkus sind unter den Geräten der PXC-Systemreihe von Einhell unbegrenzt austauschbar. Jeder System-Akku kann bei jedem Power X-Change-Gerät verwendet werden.
 - Der Akku-Bohrschrauber ist mit einem einhülsigen Schnellspannbohrfutter mit Quick-Stop und automatischer Spindelarretierung ausgestattet, was einen schnellen, werkzeuglosen Bohrerwechsel ermöglicht.
+- Der ergonomische Softgrip und der praktische Gürtelclip sorgen jederzeit für bequemes Arbeiten, und das helle LED-Licht ermöglicht zudem eine optimale Ausleuchtung des Arbeitsbereichs.
+- Der Schrauber setzt im Leerlauf max. 350 min-1 (1. Gang) und 1.250 min-1 (2. Gang) um. Mittels fein dosierbarer Drehzahlelektronik ist ein gefühlvolles Schrauben gewährleistet.
+- Die Lithium-Ionen-Akkus sind unter den Geräten der PXC-Systemreihe von Einhell unbegrenzt austauschbar. Jeder System-Akku kann bei jedem Power X-Change-Gerät verwendet werden.
+- Als Mitglied der Power X-Change Familie ist der Akku-Bohrschrauber TE-CD 18/2 Li mit allen PXC Akkus kombinierbar. Akku und Ladegerät der Reihe sind nicht im Lieferumfang enthalten.
+- Das widerstandsfähige, langlebige 2-Gang-Getriebe und der leistungsstarke Motor sorgen für ein hohes Drehmoment und erlauben kraftvolles Schrauben und schnelles Bohren mit maximal 44 Nm Drehmoment.
+- Der TE-CD 18/2 Li Akku-Bohrschrauber gehört zur leistungsstarken Power X-Change-Familie und ist ein kraftvoller, robuster und vielseitiger Helfer bei anspruchsvollen Schraub- und Bohrarbeiten.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XTMZPFK{{</world>}}

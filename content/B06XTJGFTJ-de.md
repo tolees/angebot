@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideale Qualität
-- Kompatibel mit Fusion, HERO6 Black, HERO5, HERO4, HERO Session
 - Verwenden Sie die Fernbedienung, um Videos und Fotos mit einer Kamera oder mehreren Kameras aufzunehmen.
+- Kompatibel mit Fusion, HERO6 Black, HERO5, HERO4, HERO Session
+- Ideale Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06XTJGFTJ{{</world>}}

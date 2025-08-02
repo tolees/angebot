@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spannende, rundenbasierte Kämpfe – Timing-Treffer, Kombos, stärkende Kugeln, unterschiedlichen Schadensarten und das Unterbrechen von Zaubern.
 - Ein von den Klassikern inspiriertes, rundenbasiertes Rollenspiel!
-- Ein Abenteuer voller Geschichten – Dank Dutzender Charaktere und Handlungsstränge wird deine Reise nie langweilig.
+- Spannende, rundenbasierte Kämpfe – Timing-Treffer, Kombos, stärkende Kugeln, unterschiedlichen Schadensarten und das Unterbrechen von Zaubern.
 - Eine Welt zum Anfassen – Etwas Abwechslung würde dir guttun? Dann segle, koche, angle oder finde eine Taverne, um dich zu entspannen.
+- Ein Abenteuer voller Geschichten – Dank Dutzender Charaktere und Handlungsstränge wird deine Reise nie langweilig.
 - Sei völlig frei – In dieser Welt sind dir beim Schwimmen, Klettern und Springen keine Grenzen gesetzt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

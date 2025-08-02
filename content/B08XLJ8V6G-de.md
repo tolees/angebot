@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Beweise dich gegen deine Freunde im 2-Spieler-Splitscreen-Modus oder fahre im 12-Spieler-Online-Modus gegen Hot Wheels-Fans aus der ganzen Welt
-- Die Day One Edition enthält zusätzlich zum Spiel den Hot Wheels - Sportcars Pack: Track Manga + GT-Scorcher DLC
-- Werde kreativ und baue eigene Strecken, lackiere deine Hot Wheels und entdecke spannenden Community-Content
 - Sammle die coolsten Hot Wheels und fahre Rennen auf den verrücktesten Strecken
+- Werde kreativ und baue eigene Strecken, lackiere deine Hot Wheels und entdecke spannenden Community-Content
+- Die Day One Edition enthält zusätzlich zum Spiel den Hot Wheels - Sportcars Pack: Track Manga + GT-Scorcher DLC
+- Beweise dich gegen deine Freunde im 2-Spieler-Splitscreen-Modus oder fahre im 12-Spieler-Online-Modus gegen Hot Wheels-Fans aus der ganzen Welt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08XLJ8V6G{{</world>}}

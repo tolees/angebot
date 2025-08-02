@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Betriebssystem: Windows 11/10/8/7/Vista/XP und MacOS 9.0 oder höher
-- Besonders klein, integriert sich daher unauffällig in Gerätefront, Maße Breite: 15 x 20 x 6 mm (B x H x T)
-- Extrem kleines Wechselspeichermedium, ideal zur Kapazitätserweiterung
-- Lieferumfang: 1 FlashPen "Smartly"
 - Mit Verschlusskappe, auch als kleines Wechselspeichermedium für das Autoradio mit USB-Slot geeignet (kann kaum sichtbar am Autoradio stecken bleiben)
+- Lieferumfang: 1 FlashPen "Smartly"
+- Betriebssystem: Windows 11/10/8/7/Vista/XP und MacOS 9.0 oder höher
+- Extrem kleines Wechselspeichermedium, ideal zur Kapazitätserweiterung
+- Besonders klein, integriert sich daher unauffällig in Gerätefront, Maße Breite: 15 x 20 x 6 mm (B x H x T)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002L4OBLC{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- fleece-stoff fühlt sich weich und warm.
 - Hülsentyp: Langarm
 - kordelzug kapuze können sie ihre abdeckung anpassen.
+- fleece-stoff fühlt sich weich und warm.
 - Pflegehinweise: Nur Handwäsche
 - kängurutasche auf der vorderseite
 

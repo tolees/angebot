@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bungee
 - Sohle: Ethylen-Vinylacetat
+- Bungee
 - Flach
 - Nicht wasserfest
 

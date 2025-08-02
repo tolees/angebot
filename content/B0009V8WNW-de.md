@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit transparentem Fenster zur leichten Identifizierung, damit CD/DVD/Blu-ray direkt gesehen werden kann (Durchmesser Sichtfenster 11 cm)
 - Inhalt 100er Pack Stück, in Folie verschweißt, Abmessung einer Papierhülle: ca. 12,5 x 12,5 cm
-- Lieferumfang: 1x00 CD-/DVD-/Blu-ray Papierhüllen
-- Papierumschläge mit Sichfenster zur Aufbewahrung und zum Transport einzelner CD-ROMs/DVDs/Blu-rays
 - Mit praktischer Einstecklasche auf der Rückseite zum einfachen Verschließen und Öffnen, ohne Klebestreifen
+- Papierumschläge mit Sichfenster zur Aufbewahrung und zum Transport einzelner CD-ROMs/DVDs/Blu-rays
+- Mit transparentem Fenster zur leichten Identifizierung, damit CD/DVD/Blu-ray direkt gesehen werden kann (Durchmesser Sichtfenster 11 cm)
+- Lieferumfang: 1x00 CD-/DVD-/Blu-ray Papierhüllen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0009V8WNW{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Display: 6,60" Waterdrop HD+ Display, 90 Hz; 720 x 1612 (20:9)
 - Arbeitsspeicher: 4 GB RAM + 4GB Dynamic RAM Intern: 64 GB interner Speicher Extern: microSDXC erweiterbar bis zu 1 TB
+- Display: 6,60" Waterdrop HD+ Display, 90 Hz; 720 x 1612 (20:9)
 - Prozessor: SC9863A Octa-Core (4x Cortex-A55 1.6GHz + 4x Cortex-A55 1.2GHz)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

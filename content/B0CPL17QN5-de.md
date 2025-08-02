@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jede maßstabsgetreue Masterverse Deluxe-Actionfigur ist ca. 18 cm groß und mit hochwertigen Details ihrem Vorbild aus Masters of the Universe authentisch nachempfunden. Eine Figur pro Set enthalten.
-- Für noch aufregendere Geschichten und Präsentationen sind mit jeder Figur austauschbare Teile, Rüstungsteile und/oder anderes originalgetreues Zubehör enthalten.
 - Jede Masterverse Figur ist ein tolles Geschenk für Sammler und Fans ab 6 Jahren, die sich über die Wahrung von MOTU Traditionen in Kombination mit moderneren Designelementen freuen.
+- Für noch aufregendere Geschichten und Präsentationen sind mit jeder Figur austauschbare Teile, Rüstungsteile und/oder anderes originalgetreues Zubehör enthalten.
 - Die Masters of the Universe Masterverse Kollektion feiert MOTU-Geschichten aus Masters of the Universe: Revelation to New Eternia und Masters of the Universe: Revolution. Alle Artikel separat erhältlich.
+- Jede maßstabsgetreue Masterverse Deluxe-Actionfigur ist ca. 18 cm groß und mit hochwertigen Details ihrem Vorbild aus Masters of the Universe authentisch nachempfunden. Eine Figur pro Set enthalten.
 - Dank der 30 Bewegungspunkte kann jede Sammelfigur die Action-Moves und legendären Posen des Charakters ausführen, den sie darstellt.
 
 [🛒 Hier!!]({{< param buyurl >}})

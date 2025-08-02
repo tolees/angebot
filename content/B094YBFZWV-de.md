@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verwendung von zweiseitig bestückten SSDs möglich
 - Datentransferrate von bis zu 64 Gbit/s
+- Verwendung von zweiseitig bestückten SSDs möglich
 - Kühlkörper aus Aluminium inklusive Wärmeleitpads
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

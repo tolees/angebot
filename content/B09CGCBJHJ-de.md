@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jedes Teil lässt sich mit anderen Hot Wheels Tracksets verbinden, sodass Kinder ihr eigenes Tracksystem entwerfen können. (Zusätzliche Tracksets separat erhältlich.)
-- Das Set ist ein tolles Geschenk für Kinder ab 6 Jahren und enthält ein Hot Wheels Fahrzeug.
 - Die Fahrzeuge können durch die Twister-Loopings rasen, bevor sie den Sprung zum Ziel machen oder direkt auf das Ziel zusteuern. Kinder experimentieren mit physikalischen Kräften, um die Herausforderung zu meistern.
+- Das Set ist ein tolles Geschenk für Kinder ab 6 Jahren und enthält ein Hot Wheels Fahrzeug.
+- Jedes Teil lässt sich mit anderen Hot Wheels Tracksets verbinden, sodass Kinder ihr eigenes Tracksystem entwerfen können. (Zusätzliche Tracksets separat erhältlich.)
 - Das Hot Wheels Track Builder Unlimited Looping-Twister Set bietet epischen Spielspaß! Kinder können ihre Hot Wheels Fahrzeuge auf zwei Arten durch den Twister rasen lasen, um das Ziel zu treffen.
 - Der Starter, das Ziel und die Trackteile lassen sich bequem in der Basis verstauen.
 

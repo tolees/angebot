@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Textil
-- Absatzform: Flach
 - Obermaterial: Leder
 - Nicht Wasserfest
 - Sohle: Gummi
+- Absatzform: Flach
+- Innenmaterial: Textil
 - Verschluss: Schnürung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

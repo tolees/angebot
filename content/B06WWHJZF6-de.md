@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 2 x 3 dBi externe Antennen erweitern Ihr WLAN auf bis zu 200 m²
 - Universell kompatibel mit 802.11n WLAN Routern und WLAN DSL anderer Marken
-- Dank der Signalstärke Kontroll-LED, finden Sie immer den perfekten Ort für den A9
-- Erweitern Sie Ihr WLAN spielend leicht per Tastendruck
 - 300 MBit/s 802.11n WLAN Geschwindigkeiten
+- Erweitern Sie Ihr WLAN spielend leicht per Tastendruck
+- Dank der Signalstärke Kontroll-LED, finden Sie immer den perfekten Ort für den A9
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06WWHJZF6{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schuhweite : Medium
 - Absatzform : Kein Absatz
 - Wasserbeständigkeitsgrad : Nicht wasserfest
-- Schuhweite : Medium
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM51QZDF{{</world>}}

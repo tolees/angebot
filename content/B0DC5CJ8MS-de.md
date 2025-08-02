@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Rippbündchen an Ärmeln und Saum
 - seitliche Einschubtaschen
 - toniges Tape an Kragen und Schultern
-- Stehkragen innen mit Baumwollripp abgesetzt
 - Frontzipper, Meshfutter
+- Stehkragen innen mit Baumwollripp abgesetzt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5CJ8MS{{</world>}}

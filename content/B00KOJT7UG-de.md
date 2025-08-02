@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leichte Techlite Zwischensohle
-- Abtriebfeste Omni-Grip Gummi-Außensohle für ideale Bodenhaftung
 - Omni-Tech wasserdichte/atmungsaktive Schuhkonstruktion mit versiegelten Nähten
+- Abtriebfeste Omni-Grip Gummi-Außensohle für ideale Bodenhaftung
 - Obermaterial aus wasserdichtem Netzgewebe/Leder
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tuner & Anschlüsse: DVB-T/T2/T2-HD/C/S/S2, 4 x HDMI, 2 x USB, Bluetooth 5.0, WLAN, Satellitenanschluss, Common Interface Plus (CI+), Digitaler Audio-Ausgang (optisch), Ethernet-LAN RJ-45, Kopfhörerausgang, Service-Anschluss
-- Smart TV: Google TV, Speicherkapazität: 16 GB (Flash), Sprachsteuerung: Google Assistant integriert (Alexa kompatibel), HbbTV, Apps: Apple TV, YouTube, Netflix, Disney+, Amazon Prime Video, DAZN, Rakuten TV, Fernbedienung mit Mikrofon
 - Gaming: Auto Low Latency Mode, HDMI 2.1, VRR, Dolby Vision Game, AMD FreeSync Premium
 - Bildqualität: 4K UHD, 120 Hz, HDR10+, P5 Perfect Picture Engine, Micro Dimming Pro, Dolby Vision, CalMAN Ready
+- Tuner & Anschlüsse: DVB-T/T2/T2-HD/C/S/S2, 4 x HDMI, 2 x USB, Bluetooth 5.0, WLAN, Satellitenanschluss, Common Interface Plus (CI+), Digitaler Audio-Ausgang (optisch), Ethernet-LAN RJ-45, Kopfhörerausgang, Service-Anschluss
 - Ambilight: 3-seitiges Ambilight, Anpassung an die Wandfarbe, Lounge-Modus, Spielmodus, Ambilight Musik, AmbiWakeup, AmbiSleep, Philips Wireless Lautsprecher für zuhause, Ambilight Aurora, Ambilight Bootup Animation
 - Besonderheiten: Drehbarer Standfuß
+- Smart TV: Google TV, Speicherkapazität: 16 GB (Flash), Sprachsteuerung: Google Assistant integriert (Alexa kompatibel), HbbTV, Apps: Apple TV, YouTube, Netflix, Disney+, Amazon Prime Video, DAZN, Rakuten TV, Fernbedienung mit Mikrofon
 - Sound: Ausgangsleistung 40 W (RMS), DTS:X, Lautsprecherkonfiguration: 4 x 10 W Lautsprecher für mittlere bis hohe Frequenzen, Verbesserung der Soundqualität: KI-Sound, Clear Dialogue, Dolby Atmos, Dolby-Bassverstärkung, Dolby-Lautstärkeregler, NIGHT MODE (Nachtbetrieb), KI-Equalizer, DTS Play-Fi, Personalisierung des Mimi-Sounds, Raumkalibrierung
 
 [🛒 Hier!!]({{< param buyurl >}})

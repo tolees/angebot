@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- bourjois eyeliner slim liner feutre ultra black
 - Anzahl der einheiten: 1.0
+- bourjois eyeliner slim liner feutre ultra black
 - Anzahl der artikel: 1
 - Einheitenanzahltyp: stück
 
