@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 80Plus Bronze zertifiziert
-- modulares Kabelmanagement mit flachen Kabeln
 - Robuste einzelne +12V Schiene
 - Hochwertiger Kondensator aus japanischer Produktion
+- modulares Kabelmanagement mit flachen Kabeln
+- 80Plus Bronze zertifiziert
 - Digitale DPS G App Software (Digitale Überwachung und Auswertung des Computers, sowie teilen der Auswertung mit Freunden per Mail oder Facebook.)
 
 [🛒 Hier!!]({{< param buyurl >}})

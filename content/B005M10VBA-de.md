@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- UNIVERSAL MUSIC GROUP
 - Shrink-wrapped
+- UNIVERSAL MUSIC GROUP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005M10VBA{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Better Leather
-- Obermaterial: 100 % Rindsleder
 - Farbe: Mittelbraun
+- Obermaterial: 100 % Rindsleder
 - Sohle: 80% TPU - 20% recyceltes TPU
+- Better Leather
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C8K19MH1{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Extrait de Parfum
 - Lange Haltbarkeit
 - Duftprobe
-- Extrait de Parfum
 - Intensiv
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

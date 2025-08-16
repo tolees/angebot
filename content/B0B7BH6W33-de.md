@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stromversorgung über jeden USB-Anschluss (TV, PC), oder über mitgeliefertes Netzteil samt 1,8 m langes Kabel mit 24 Karat vergoldeten Kontakten für eine hohe Kontaktsicherheit, gesteigerter elektrischer Leitfähigkeit und langer Lebensdauer
 - Der Nachfolger unserer preisgekrönten DVB-T2 Zimmerantenne ist endlich da: Verbesserte Technik und noch besseren Empfang, dank 5G Filter
-- Unser Verstärker wurde technisch auf ein neues Level gehoben, ist noch rauschärmer und bietet eine bemerkenswerte Empfangsqualität
+- Stromversorgung über jeden USB-Anschluss (TV, PC), oder über mitgeliefertes Netzteil samt 1,8 m langes Kabel mit 24 Karat vergoldeten Kontakten für eine hohe Kontaktsicherheit, gesteigerter elektrischer Leitfähigkeit und langer Lebensdauer
 - Die beste DVB-T2 Zimmerantenne auf dem Markt wurde noch einmal verbessert. Setzen Sie Störquellen dank hochwertigem 5G Filter ein Ende
+- Unser Verstärker wurde technisch auf ein neues Level gehoben, ist noch rauschärmer und bietet eine bemerkenswerte Empfangsqualität
 - Hinweis: Bitte führen Sie einen DVB-T2-Check durch, um festzustellen, ob Sie eine Dach-, Außen- oder Innenantenne benötigen
 
 [🛒 Hier!!]({{< param buyurl >}})

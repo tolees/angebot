@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - H.265/HEVC wird von diesem Gerät nicht unterstützt.
-- Den Tag immer im Griff – Mit anpassbaren Widgets wie Kalendern, persönlichen Haftnotizen und To-do-Listen ist die ganze Familie immer gut organisiert. Bitte Alexa täglich um Ideen für deine Mahlzeiten, koche bei Schritt-für-Schritt-Rezepten mit, ohne die Navigation mit deinen Händen steuern zu müssen, und füge Einträge zu deiner Einkaufsliste hinzu.
-- Ideal als Küchen-TV geeignet – Mit Fire TV kannst du Hunderttausende Filme und Serienepisoden streamen. Schau deine Lieblingsinhalte mit deinen Abonnements für Netflix, Prime Video, Disney+, RTL+ und mehr.
 - Füll den Bildschirm mit deinen Erinnerungen aus – Im Bilderrahmen-Modus kannst du deine Alben von Amazon Photos auf Echo Show 15 zur Schau stellen.
 - Alles Wichtige auf einen Blick – Mit dem 15,6 Zoll (40 cm) großen 1080p-Smart-Display in Full HD und Fire TV werden Unterhaltungsinhalte und Elemente für die Familienorganisation in brillanter Bildqualität dargestellt.
+- Den Tag immer im Griff – Mit anpassbaren Widgets wie Kalendern, persönlichen Haftnotizen und To-do-Listen ist die ganze Familie immer gut organisiert. Bitte Alexa täglich um Ideen für deine Mahlzeiten, koche bei Schritt-für-Schritt-Rezepten mit, ohne die Navigation mit deinen Händen steuern zu müssen, und füge Einträge zu deiner Einkaufsliste hinzu.
+- Ideal als Küchen-TV geeignet – Mit Fire TV kannst du Hunderttausende Filme und Serienepisoden streamen. Schau deine Lieblingsinhalte mit deinen Abonnements für Netflix, Prime Video, Disney+, RTL+ und mehr.
 - Entwickelt, um Datenschutz zu gewährleisten – Umfasst Datenschutz- und Kontrollmaßnahmen auf mehreren Ebenen. Schalte die Mikrofone per Knopfdruck aus oder schiebe die integrierte Kameraabdeckung vor die Linse.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

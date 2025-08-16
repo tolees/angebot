@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Tragbar】Die größe der gefaltete drohne beträgt 12 x 6 x 6 cm. Es wird mit einer schwarzen tasche geliefert, welche macht diese mini-drohne leicht zu tragen ist. Eine großartige wahl für ausflüge und luftaufnahmen.
-- 【Lange Flugdauer】2 wiederaufladbare und leistungsstarke batterien unterstützen jeweils bis zu 12-14 minuten, insgesamt 28 minuten. Sie können den akku während des fliegens aufladen und den akku ersetzen, wenn er verwendet wird, um eine längere lebensdauer und mehr Spaß zu haben.
 - 【FPV Drohne】T27 Drohne ist mit einer 720p kamera ausgestattet und kann per fernbedienung um 360-grad gedreht werden, um eine ideale sicht zu ermöglichen. sie können das Live-Bild direkt auf Ihrem telefon anzeigen, videoübertragungsentfernung bis zu 80 meter.
 - 【Geste Selfie】Geste als V oder handfläche vor der kamera, die Drohne kann automatisch fotos aufnehmen, eine faustgeste zum aufnehmen von videos, mehr komfort für selfies. Altitude hold kann die drohne auf einer bestimmten höhe halten, wodurch es so einfach ist, qualitativ hochwertige fotos/videos aufzunehmen.
 - 【Mulitifunktionelle】Funktionen mit niedrigem leistungsalarm, Not-Anschlag, Ein-Knopfstart/Lande, 3-Gang-Einstellbar, Korrektureinstellung, Indikatorlicht. Drücken sie die joysticks, um flips auszuführen; Sie 2 sekunden lang gedrückt, halten sie starten sie den kopflosenmodus. Für die grüne hand ist es eine drohne mit einem kameral, das multifunktional und leicht zu lernen ist.
+- 【Tragbar】Die größe der gefaltete drohne beträgt 12 x 6 x 6 cm. Es wird mit einer schwarzen tasche geliefert, welche macht diese mini-drohne leicht zu tragen ist. Eine großartige wahl für ausflüge und luftaufnahmen.
 - 【Schwerkraftkontrolle】Die drohne funktioniert mit der telefon-app, sie können die richtung steuern, indem sie Ihren telefonsensor durch die schwerkraft bewegen. Genießen Sie mehr spaß mit dem coolen design der drohne.
+- 【Lange Flugdauer】2 wiederaufladbare und leistungsstarke batterien unterstützen jeweils bis zu 12-14 minuten, insgesamt 28 minuten. Sie können den akku während des fliegens aufladen und den akku ersetzen, wenn er verwendet wird, um eine längere lebensdauer und mehr Spaß zu haben.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D3GZPXZK{{</world>}}

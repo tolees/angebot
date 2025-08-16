@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mini-Format zum Mitnehmen
-- Eine besonders reichhaltige und sanfte Pflege für alle
 - Ideal für den täglichen Gebrauch, wo Ihre Haut es braucht
+- Eine besonders reichhaltige und sanfte Pflege für alle
 - NIVEA Creme ist die ideale Pflege für die ganze Familie
 
 [🛒 Hier!!]({{< param buyurl >}})

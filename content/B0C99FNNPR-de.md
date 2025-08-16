@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umweltfreundlich und leistungsfähig: Das Paketband beweist hohe Klebekraft, verfügt über eine hohe UV- sowie Alterungsbeständigkeit und ist mit dem ecoLogo-Label zertifiziert
-- tesapack Eco und Strong: Umweltschonendes, transparentes Paketband aus dem recyceltem Kunststoff Polypropylen - ideal zum Verpacken sowie Verkleben von Kartons und anderen Objekten
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- Lieferumfang: 1 x tesapack Eco und Strong, 66 m x 50 mm, transparent
 - Nachhaltig: Sowohl der Rollenkern als auch die Trägerfolie bestehen zu 100 Prozent aus recyceltem Material - kompatibel mit allen tesapack Handabrollern für noch effizienteres Kleben
+- Umweltfreundlich und leistungsfähig: Das Paketband beweist hohe Klebekraft, verfügt über eine hohe UV- sowie Alterungsbeständigkeit und ist mit dem ecoLogo-Label zertifiziert
+- Lieferumfang: 1 x tesapack Eco und Strong, 66 m x 50 mm, transparent
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Geräuscharmes, gleichmäßiges Abrollen: Im Gegensatz zu anderen Klebebändern macht die Kleberolle von tesa keine lauten Geräusche beim Abrollen und ermöglicht so ein ruhiges Arbeiten
+- tesapack Eco und Strong: Umweltschonendes, transparentes Paketband aus dem recyceltem Kunststoff Polypropylen - ideal zum Verpacken sowie Verkleben von Kartons und anderen Objekten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C99FNNPR{{</world>}}

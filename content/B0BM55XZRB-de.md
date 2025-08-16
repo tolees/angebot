@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verschluss: Schnüren
-- Obermaterial: Textil
 - Sohle: Gummi
+- Obermaterial: Textil
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM55XZRB{{</world>}}

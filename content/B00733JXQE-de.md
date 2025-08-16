@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Deodorant
 - Marke Beauty-Produkte
 - Marke Armani
-- Deodorant
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00733JXQE{{</world>}}

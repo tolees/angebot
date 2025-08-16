@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leuchtmittel nicht enthalten
-- Modernes und elegantes Design
 - Hochwertige Materialien
+- Modernes und elegantes Design
+- Leuchtmittel nicht enthalten
 - Für jedes Wetter geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Philips SDHC Ultra Speed Speicherkarten können in Kameras und allen anderen Geräten mit SDHC/XC-Kartensteckplätzen verwendet werden.
 - 32 GB Speicherkapazität: Bietet genügend Kapazität für die Speicherung von mindestens 9.000 Ihrer Lieblingsfotos minimal 5 Stunden Full-HD-Videoaufzeichnung*). *) Basierend auf 10MP jpg komprimiertem Fotoformat und 13MB/s Full HD Video.
-- Philips SDHC Ultra Speed Speicherkarten der Klasse 10 UHS-I U1 eignen sich für Anwendungen, die hohe Schreibgeschwindigkeiten erfordern, wie z. B. (Full) HD-Videoaufnahmen. Sie können Dateien mit einer maximalen Geschwindigkeit von 80 MB/s lesen.
-- Lieferumfang: Philips SDHC UHS-I U1 Speicherkarte 32 GB (V10, Class 10, (Full) HD-Video, geeignet für Kameras und alle anderen Geräte mit SDHC/XC-Kartensteckplatz)
 - UHS-I U1 & Video-Class V10: UHS-I U1 in Kombination mit der Videoklasse V10 bietet die richtigen Spezifikationen für eine hochwertige Echtzeit-Videoaufzeichnung.
+- Philips SDHC Ultra Speed Speicherkarten der Klasse 10 UHS-I U1 eignen sich für Anwendungen, die hohe Schreibgeschwindigkeiten erfordern, wie z. B. (Full) HD-Videoaufnahmen. Sie können Dateien mit einer maximalen Geschwindigkeit von 80 MB/s lesen.
+- Philips SDHC Ultra Speed Speicherkarten können in Kameras und allen anderen Geräten mit SDHC/XC-Kartensteckplätzen verwendet werden.
+- Lieferumfang: Philips SDHC UHS-I U1 Speicherkarte 32 GB (V10, Class 10, (Full) HD-Video, geeignet für Kameras und alle anderen Geräte mit SDHC/XC-Kartensteckplatz)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007SV0M4S{{</world>}}

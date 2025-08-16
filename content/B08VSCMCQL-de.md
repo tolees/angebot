@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dickes Material
-- Rundhalsausschnitt
 - Regulär geschnitten
+- Rundhalsausschnitt
 - 100 % Baumwolle (Single Jersey)
 - Kurzärmelig
 

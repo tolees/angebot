@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
-- connector_type; usb amicro-usb b
 - Hochwertige Abmessungen
+- connector_type; usb amicro-usb b
+- Langlebig
 - Hochwertige Material
 - Flexible Gestaltung
 

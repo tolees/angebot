@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sportshirt
 - Nike-Logo
 - Gelegenheitssport
+- Sportshirt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08TM7XKB5{{</world>}}

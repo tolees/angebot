@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4K Ultra HD & 3-Achsen-Gimbal für Aufnahmen in Kinoqualität – Fange atemberaubende Momente bei allen Lichtverhältnissen, sei es bei Sonnenaufgängen, Sonnenuntergängen oder Nachtaufnahmen. Dank des 3-Achsen-Gimbals kannst du Aufnahmen in Kinoqualität machen.
-- Einsteigerfreundlich und sicher – DJI Mini 4K unterstützt das Starten/Landen auf Knopfdruck, GPS autom. Rückkehr (RTH) und stabiles Schweben. Zudem verfügt es über eine einfache Bedienung per Tastendruck für Einsteiger. Mit zusätzlichen In-App-Lehrmaterialien kannst du das Fliegen schnell erlernen.
 - Flugfähig bis Windstärke 5 (38 km/h) – Bürstenlose Motoren erhöhen die Leistung und ermöglichen das Starten in Höhen von bis zu 4.000 Metern. Außerdem beträgt die Übertragungsreichweite bis zu 10 km. [2]
 - Mehr Inspiration mit intelligenten QuickShots – Die Mini 4K nimmt mit wenigen Fingertipps automatisch professionelle Videos mit den QuickShots Helix, Dronie, Rocket, Circle und Boomerang auf.
 - Ununterbrochene Aufnahmen mit verlängerter Akkulaufzeit – Drei Sets stehen zur Auswahl: 1 Akku-Set (31 min), 2 Akku-Set (62 min) oder 3 Akku-Set (93 min) Nie wieder Akkusorgen.
-- Enthält die DJI Mini 4K, 1 Akku, eine RC-N1C Fernsteuerung und alles, was man für einfache 4K-Flüge braucht. Eine gute und preisgünstige Wahl für Anfänger.
+- 4K Ultra HD & 3-Achsen-Gimbal für Aufnahmen in Kinoqualität – Fange atemberaubende Momente bei allen Lichtverhältnissen, sei es bei Sonnenaufgängen, Sonnenuntergängen oder Nachtaufnahmen. Dank des 3-Achsen-Gimbals kannst du Aufnahmen in Kinoqualität machen.
 - Weniger als 249 g, Zertifizierung der Klasse C0 - Dank des ultraleichten Gewichts darf die Mini 4K in den Kategorien A1 und A3 fliegen. Piloten müssen keine Prüfungen ablegen.
 - Hinweise: Je nachdem, wie die Drohne eingesetzt wird, können die entsprechenden rechtlichen Vorschriften variieren. Zu deiner Sicherheit solltest du dich im Vorfeld über die aktuellen örtlichen Gesetze und Vorschriften informieren und diese strikt einhalten.
+- Einsteigerfreundlich und sicher – DJI Mini 4K unterstützt das Starten/Landen auf Knopfdruck, GPS autom. Rückkehr (RTH) und stabiles Schweben. Zudem verfügt es über eine einfache Bedienung per Tastendruck für Einsteiger. Mit zusätzlichen In-App-Lehrmaterialien kannst du das Fliegen schnell erlernen.
+- Enthält die DJI Mini 4K, 1 Akku, eine RC-N1C Fernsteuerung und alles, was man für einfache 4K-Flüge braucht. Eine gute und preisgünstige Wahl für Anfänger.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CXJ9GM3G{{</world>}}

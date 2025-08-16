@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kontrastnähte
 - softe Haptik
-- Artwork mit Rubber-Details
+- Kontrastnähte
 - Kapuze mit Kordelzug
+- Artwork mit Rubber-Details
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5F6LBX{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial: 100 % recyceltes PET
-- Recycled Synthetics
-- Farbe: Mittelorange
 - Sohle: 100% EVA
+- Farbe: Mittelorange
+- Recycled Synthetics
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8JZW4F8{{</world>}}

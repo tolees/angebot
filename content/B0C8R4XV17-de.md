@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
-- Obermaterial: Leder
 - Verschluss: Gummizug
 - Absatzform: Flach
+- Obermaterial: Leder
+- Innenmaterial: Synthetik
 - Sohle: Polyurethan
 
 [🛒 Hier!!]({{< param buyurl >}})

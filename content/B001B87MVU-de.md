@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- kalt geschmiedet
-- offene Ringseiten 15° abgewinkelt
-- gefertigt aus Chrom-Vanadium-Stahl
 - offener Doppel-Ringschlüssel SW 12 x 13 mm (Art. 1751)
 - matt verchromt
+- kalt geschmiedet
 - offener Doppel-Ringschlüssel SW 10 x 11 mm (Art. 1750)
+- gefertigt aus Chrom-Vanadium-Stahl
+- offene Ringseiten 15° abgewinkelt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001B87MVU{{</world>}}

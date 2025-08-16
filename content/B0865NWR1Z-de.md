@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inklusive Home Kit: Zum Set gehören der Flächenreiniger T 1 und das Reinigungsmittel "Patio & Deck". So lassen sich größere Flächen wie Terrassen gründlich reinigen
 - Lieferumfang: Zum Set gehören Kärcher Hochdruckreiniger K 2 Universal Edition Home, Hochdruckpistole, 3-m-Hochdruckschlauch, Dreckfräser, Flächenreiniger T 1, Reiniger "Patio & Deck" (500 ml)
-- Für gelegentliche Einsätze: Der Kärcher K 2 Universal Edition Home ist für leichte Verschmutzungen und gelegentliche Einsätze in Haus und Garten bestens geeignet
+- Inklusive Home Kit: Zum Set gehören der Flächenreiniger T 1 und das Reinigungsmittel "Patio & Deck". So lassen sich größere Flächen wie Terrassen gründlich reinigen
 - Dreckfräser: Der Kärcher Hochdruckreiniger wird mit einem Dreckfräser mit rotierendem Strahl geliefert, der auch hartnäckigen Schmutz wie Moos entfernt
+- Für gelegentliche Einsätze: Der Kärcher K 2 Universal Edition Home ist für leichte Verschmutzungen und gelegentliche Einsätze in Haus und Garten bestens geeignet
 - Quick Connect-System: Der 3 Meter lange Hochdruckschlauch lässt sich per Quick Connect mühelos in die Hochdruckpistole und das Gerät ein- und ausstecken
 
 [🛒 Hier!!]({{< param buyurl >}})

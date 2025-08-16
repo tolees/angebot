@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fügen Sie Thanos zu jedem Funkoverse-Team hinzu oder spielen Sie in seinem kosmischen Modus, in dem er es mit mehreren Rivalen alleine aufnehmen kann, mit Ultra-Ultra-Power
-- EXKLUSIVER Funko Pop Figur nur im Spiel gefunden Spezielles Infinity Gauntlet-Szenario Kombiniere diesen Charakter mit deinen Funkoverse-Strategiespielen
 - Balanciere das Universum mit den allmächtigen Thanos
 - Einführung in das Infinity Gauntlet-Szenario: Rennen, um die Infinity Stones vor Ihren Rivalen zu sammeln
+- Fügen Sie Thanos zu jedem Funkoverse-Team hinzu oder spielen Sie in seinem kosmischen Modus, in dem er es mit mehreren Rivalen alleine aufnehmen kann, mit Ultra-Ultra-Power
+- EXKLUSIVER Funko Pop Figur nur im Spiel gefunden Spezielles Infinity Gauntlet-Szenario Kombiniere diesen Charakter mit deinen Funkoverse-Strategiespielen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08VWQ224N{{</world>}}

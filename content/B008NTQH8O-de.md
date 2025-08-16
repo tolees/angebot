@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: Universum Film GmbH
 - Lego Friends (CD1)
+- Marke: Universum Film GmbH
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008NTQH8O{{</world>}}

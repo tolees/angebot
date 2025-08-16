@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verbesserte Spielmechaniken
 - Verbesserte HD-2D-Grafik
+- Verbesserte Spielmechaniken
 - Acht Reisende, ein jeder mit anderer Herkunft, Motivation und einzigartigen Begabungen
 - Eine neue und vielfältige Welt zur Erkundung
 

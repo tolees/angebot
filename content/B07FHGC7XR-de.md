@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100% Blizzard
-- Original Blizzard Overwatch Artikel
-- Merchandise
 - Cute But Deadly Vinyl Action Figure
+- Merchandise
+- 100% Blizzard
 - Ein Muss für alle Gamer und Video-Spiel Liebhaber.
+- Original Blizzard Overwatch Artikel
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FHGC7XR{{</world>}}

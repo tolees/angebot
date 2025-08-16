@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Aus recycelten Materialien: hergestellt aus Recyclingfasern für einen geringeren ökologischen Footprint
 - Normale Passform
 - Reißverschlusstaschen
 - Mesh-Bündchen in Kontrastfarbe
-- Aus recycelten Materialien: hergestellt aus Recyclingfasern für einen geringeren ökologischen Footprint
 - dryCELL: Technologie von PUMA zum Transport der Feuchtigkeit nach außen für trockenen Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

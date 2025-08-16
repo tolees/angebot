@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sofort volles Licht, keine Aufwärmzeit durch das integrierte und stromsparende LED-Modul
-- Gehäusematerial aus hochwertigem Aluminium
 - Stromzufuhr über ein 1 Meter langes und offenes Kabel
+- Gehäusematerial aus hochwertigem Aluminium
+- Sofort volles Licht, keine Aufwärmzeit durch das integrierte und stromsparende LED-Modul
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse F
 
 [🛒 Hier!!]({{< param buyurl >}})

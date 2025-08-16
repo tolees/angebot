@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Machen Sie bereit - Modern Warfare ist zurück
-- Call of Duty: Modern Warfare stürzt Dich in eine packende und dramatische Geschichte
 - Erlebe den Online-Mehrspieler mit klassischen Mehrspieler-Modi oder stelle dich im Coop-Modus einer Vielzahl von Herausforderungen
+- Call of Duty: Modern Warfare stürzt Dich in eine packende und dramatische Geschichte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SFYSJKW{{</world>}}

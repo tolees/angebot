@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - AUSGEZEICHNET - als rückenfreundliche Babytrage mit dem Gütesiegel der „Aktion gesunder Rücken e.V.“
-- HOHER TRAGEKOMFORT - Individuell anpassbare, leicht gepolsterte Schultergurte sowie der leicht gepolsterte Hüftgurt sorgen für eine noch komfortablere Passform und Trage-Komfort
-- FÜR SPONTANE TRAGEMOMENTE - Ideal als Zweittrage oder für unterwegs. Die Trage lässt sich ganz einfach in sich selbst zusammenpacken und dient damit als bequeme Trage-Alternative, wenn die Kleinen spontan getragen werden möchten oder müde werden
 - KOMPAKT IM ALLTAG - Zusammengefaltet in der Transporttasche verstaut, passt die Ergobaby Away Reisetrage problemlos in die Wickel- oder Handtasche
+- FÜR SPONTANE TRAGEMOMENTE - Ideal als Zweittrage oder für unterwegs. Die Trage lässt sich ganz einfach in sich selbst zusammenpacken und dient damit als bequeme Trage-Alternative, wenn die Kleinen spontan getragen werden möchten oder müde werden
+- HOHER TRAGEKOMFORT - Individuell anpassbare, leicht gepolsterte Schultergurte sowie der leicht gepolsterte Hüftgurt sorgen für eine noch komfortablere Passform und Trage-Komfort
 - ERGONOMISCHE BABYTRAGE - mit 2 Tragepositionen: Bauch- und Rückentrageweise. Ergonomische und bequeme Haltung in jeder Einstellung
 
 [🛒 Hier!!]({{< param buyurl >}})

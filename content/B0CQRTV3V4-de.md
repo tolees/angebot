@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erstrahle hell mit Pokémon aus Paldea!
+- Enthält 1 holografische Promokarte und 1 Tech-Sticker mit Gruff.
 - Ein Schillerndes Pokémon als Aufkleber!
 - Du findest ebenfalls 3 Boosterpacks der Pokémon-Sammelkartenspiel-Erweiterung Karmesin & Purpur – Paldeas Schicksale um deine Sammlung zu erweitern und eine Code-Karte für Pokémon-Sammelkartenspiel-Live.
-- Enthält 1 holografische Promokarte und 1 Tech-Sticker mit Gruff.
+- Erstrahle hell mit Pokémon aus Paldea!
 - Verleih deinem Smartphone, Laptop oder einem anderen Gerät mit einem loyalen und freundlichen Schillernden Pokémon aus der Paldea-Region den letzten Schliff!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

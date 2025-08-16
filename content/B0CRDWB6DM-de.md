@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hylkies Sammelfigur #06 – Stormtrooper: Auch ein Sturmtruppler in der Uniform der Original-Filmtrilogie darf bei den Hylkies nicht fehlen.
 - Die Hylkies kommen in der gewohnt hohen Ravensburger-Qualität: Ein hochwertiges Erlebnis von der Verpackung bis zum Inhalt, vom Auspacken bis zum Aufbau.
-- Die liebenswerten Hylkie-Kapseln werden selbst zusammengebaut: aus 54 hochwertigen und auf der Rückseite nummerierten Teilen - und ganz ohne Kleben.
 - Inhalt: 1 Sammelkarte, 54 auf der Rückseite nummerierte, dreidimensional geformte Kunststoff-Puzzleteile, Kunststoff-Standfuß, Kurzanleitung. Maße des aufgebauten Produktes inklusive Standfuß (HxBxT): ca. 12,5cm x 7,7cm x 8cm. Kapseldurchmesser ca. 6cm.
 - Verliebe dich ganz neu in deine beliebtesten Filmhelden und zeige der Welt, dass du ein großer Fan bist. Ob als Einzelstück oder Teil einer Sammlung - Hylkies sind in jedem Regal ein Highlight.
+- Die liebenswerten Hylkie-Kapseln werden selbst zusammengebaut: aus 54 hochwertigen und auf der Rückseite nummerierten Teilen - und ganz ohne Kleben.
+- Hylkies Sammelfigur #06 – Stormtrooper: Auch ein Sturmtruppler in der Uniform der Original-Filmtrilogie darf bei den Hylkies nicht fehlen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRDWB6DM{{</world>}}

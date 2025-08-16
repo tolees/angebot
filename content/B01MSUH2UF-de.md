@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EIN WAHRER KLASSIKER: Ricola Kräuterzucker-Bonbons sind das bekannteste Produkt der Ricola Familie, Die Bonbons in der praktischen Rund-Dose sind von Natur aus laktosefrei und glutenfrei sowie vegan
-- NATÜRLICH NACHHALTIG: Seit jeher gehören nachhaltiges Denken und Handeln zu Ricola und bilden bereits seit Jahrzehnten eine wichtige Entscheidungsgrundlage für die Unternehmensführung
-- KRÄUTER-GENUSS: Erfrischend-ausgewogener Geschmack dank natürlichem Menthol in Kombination mit 13 Schweizer Alpenkräutern - wohltuend gut
 - PRAKTISCHE DOSE: Die 250g Dose Ricola Schweizer Kräuterzucker ist stets ein treuer und robuster Begleiter und sorgt langfristig vitalisierende Momente - ob zu Hause, Unterwegs oder zum Teilen
 - SCHWEIZER QUALITÄT: Am wichtigsten ist Ricola die Qualität der verwendeten Rohstoffe sowie deren sorgfältige Weiterverarbeitung zu den verschiedenen Kräuter-Spezialitäten wie Kräuterbonbons
+- KRÄUTER-GENUSS: Erfrischend-ausgewogener Geschmack dank natürlichem Menthol in Kombination mit 13 Schweizer Alpenkräutern - wohltuend gut
+- NATÜRLICH NACHHALTIG: Seit jeher gehören nachhaltiges Denken und Handeln zu Ricola und bilden bereits seit Jahrzehnten eine wichtige Entscheidungsgrundlage für die Unternehmensführung
+- EIN WAHRER KLASSIKER: Ricola Kräuterzucker-Bonbons sind das bekannteste Produkt der Ricola Familie, Die Bonbons in der praktischen Rund-Dose sind von Natur aus laktosefrei und glutenfrei sowie vegan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01MSUH2UF{{</world>}}

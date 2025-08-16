@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- wasserfest und lichtecht nach ISO 14145-2 zertifiziert
+- alle Strichstärken Schreibfarbe schwarz, 0,5mm zusätzlich in graun, sepia, sanguine
 - kann mit wasservermalbaren Produkten kombiniert werden
 - Set enthält 11 Strichstärken: 0,03/0,05/0,1/0,2/0,3/0,4/0,5/0,8/1,0/2,0 Kalligraphie /3,0 Kalligraphie
 - perfekt zum feinen Zeichnen, Skizzieren, Illustrieren und Schreiben
-- alle Strichstärken Schreibfarbe schwarz, 0,5mm zusätzlich in graun, sepia, sanguine
+- wasserfest und lichtecht nach ISO 14145-2 zertifiziert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CQ7S99TH{{</world>}}

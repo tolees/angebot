@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- und Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung und Entsorgung
-- Hochwertige MANN-FILTER Innenraumfilter mit Aktivkohle bieten nahezu 100 Prozent igen Schutz vor Partikeln wie Pollen, Dieselruß und Reifenabrieb / Schützen zusätzlich vor Schadgasen und unangenehmen Gerüchen
 - Finden Sie den passenden Filter: Ersatzteil über die Auswahl von Marke, Modell, Fahrzeugtyp und Motorisierung im oberen Bereich oder auch über die Schlüsselnummern (HSN/TSN) aus den Fahrzeugpapieren
+- Hochwertige MANN-FILTER Innenraumfilter mit Aktivkohle bieten nahezu 100 Prozent igen Schutz vor Partikeln wie Pollen, Dieselruß und Reifenabrieb / Schützen zusätzlich vor Schadgasen und unangenehmen Gerüchen
+- MANN-FILTER Produkte erfüllen alle Anforderungen der EU REACH-Verordnung zur Gewährleistung des Gesundheits- und Umweltschutzes bei Prozessen der Entwicklung, Herstellung, Verwendung und Entsorgung
 - Die verarbeitete hochwirksame Aktivkohle bietet Schutz vor Schadgasen wie Ozon, Stickoxid oder Schwefeldioxid und eliminiert effektiv unangenehme Gerüche während des gesamten Serviceintervalls
 - MANN-FILTER Innenraumfilter CUK 23 014-2 / Kabinenluftfilter Satz (2er Set) mit Aktivkohle / Maße (mm): H = 30 ; A = 230 ; B = 166 / Premium-Filter in Erstausrüstungsqualität
 

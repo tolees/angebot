@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Better Leather
 - Obermaterial: 90 % Rindsleder 10 % Rindsleder
 - Farbe: Dunkelblau
+- Better Leather
 - Sohle: 100% EVA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

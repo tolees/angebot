@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Pullover mit halber Druckknopfleiste für dauerhaften Komfort für alle Jahreszeiten
 - Optimaler Komfort und Wärme dank Fleecematerial.
-- Hoher Kragen für mehr Wärme und Schutz vor den Elementen
 - Vielseitig kombinierbar, Erhältlich in verschiedenen Farben, Ideal für den täglichen Gebrauch
+- Hoher Kragen für mehr Wärme und Schutz vor den Elementen
 - Lieferumfang: 1x Columbia Herren Steens Mountain Half Snap Pullover, Charcoal Heather, Shark, M, Art. No. 1861681
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

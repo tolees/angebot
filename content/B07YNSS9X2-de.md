@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tough-spezifikation mit bruchsicherem und stoßfestem Design
-- Hohe Schreibgeschwindigkeit mit bis zu 150 MB/s für Serien- und hochauflösende Aufnahmen
-- Das Rippen- und schalterlose Design erhöht die Zuverlässigkeit und verringert das Bruchrisiko
-- Schutz gegen Staub und Wasser mit hoher Klassifizierung (IP68)
 - Klasse 10 (Geschwindigkeitsklasse SD), Klasse 3 (Geschwindigkeitsklasse UHS), V60 (videogeschwindigkeit)
+- Tough-spezifikation mit bruchsicherem und stoßfestem Design
+- Das Rippen- und schalterlose Design erhöht die Zuverlässigkeit und verringert das Bruchrisiko
+- Hohe Schreibgeschwindigkeit mit bis zu 150 MB/s für Serien- und hochauflösende Aufnahmen
+- Schutz gegen Staub und Wasser mit hoher Klassifizierung (IP68)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07YNSS9X2{{</world>}}

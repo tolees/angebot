@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ersatzteil für 35100,35101 Neutral
-- Plumbing Fixture
-- Hochwertige Verarbeitung
 - Temperaturregeleinheit
+- Hochwertige Verarbeitung
+- Plumbing Fixture
+- Ersatzteil für 35100,35101 Neutral
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00AOIPNFK{{</world>}}

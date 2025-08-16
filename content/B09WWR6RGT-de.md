@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STAR WARS: ANDOR: Diese durch die Live-Action-Serie Star Wars: Andor auf Disney+ inspirierte Premium Figur der Senatorin Mon Mothma lädt Fans und Sammler dazu ein, Szenen aus der Star Wars Galaxis nachzustellen
-- SENATORIN MON MOTHMA: In einer Zeit voller Gefahren, Täuschungen und Intrigen begibt sich Cassian Andor auf einen Weg, der ihn zu dem Rebellenhelden macht, der das böse Galaktische Imperium herausfordert
-- ES GIBT NOCH ANDERE FIGUREN AUS EINER WEIT, WEIT ENTFERNTEN GALAXIS: Mit Figuren aus der Star Wars Black Series zu den Filmen und Serien lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
 - PREMIUM BEWEGUNGSPUNKTE UND DETAILS: Star Wars Fans und Sammler können diese vollbewegliche Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
+- ES GIBT NOCH ANDERE FIGUREN AUS EINER WEIT, WEIT ENTFERNTEN GALAXIS: Mit Figuren aus der Star Wars Black Series zu den Filmen und Serien lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- SENATORIN MON MOTHMA: In einer Zeit voller Gefahren, Täuschungen und Intrigen begibt sich Cassian Andor auf einen Weg, der ihn zu dem Rebellenhelden macht, der das böse Galaktische Imperium herausfordert
+- STAR WARS: ANDOR: Diese durch die Live-Action-Serie Star Wars: Andor auf Disney+ inspirierte Premium Figur der Senatorin Mon Mothma lädt Fans und Sammler dazu ein, Szenen aus der Star Wars Galaxis nachzustellen
 - THE BLACK SERIES: Star Wars The Black Series umfasst Figuren, Fahrzeuge und Rollenspiel-Produkte der über 40-jährigen Geschichte der Star Wars Galaxis
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

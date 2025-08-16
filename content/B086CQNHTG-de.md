@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abnehmbare Teile sind spülmaschinenfest, Leistung: 1850 W
 - Individuell einstellbare Temperatur von 80 bis 200 °C
 - Fettarme Heißluftfritteuse mit extra großer Kapazität: Fassungsvermögen 5,6 l/1,6 kg für bis zu 8 Portionen, XXL-Fassungsvermögen, Edelstahlverkleidung
+- Abnehmbare Teile sind spülmaschinenfest, Leistung: 1850 W
+- komfortable Bedienoberfläche mit Touch-Screen, digitaler 60-Minuten-Timer, automatische Abschaltung, Antihaftbeschichtung, 3D Air Pulse-Technologie
 - Kaum bis kein Öl zum Frittieren, Grillen, Braten, Backen (4-in-1)
 - HINWEIS: Die Beschichtung kann durch scharfe, metallische Küchenutensilien sowie aggressive Tabs bei der Reinigung in der Spülmaschine beschädigt werden. Wir empfehlen daher, von Hand zu spülen und Küchenutensilien aus Holz, Kunststoff oder Silikon zu verwenden.
-- komfortable Bedienoberfläche mit Touch-Screen, digitaler 60-Minuten-Timer, automatische Abschaltung, Antihaftbeschichtung, 3D Air Pulse-Technologie
 - 8 automatische Menüs: Pommes Frites, Kotelett, Shrimps, Kuchen, Pizza, Fisch, Grill, Braten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

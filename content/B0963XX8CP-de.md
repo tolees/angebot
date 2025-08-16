@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Omni-Grip Außensohle für sicheren Halt auch auf anspruchsvollem Terrain
 - Techlite leichte Zwischensohle für Komfort und Energieeinsparung
+- Omni-Grip Außensohle für sicheren Halt auch auf anspruchsvollem Terrain
 - Omni-Tech wasserdichtes und atmungsaktives Obermaterial
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

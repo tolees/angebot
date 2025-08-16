@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hält bis zu 5-mal länger als ein Bosch C420 Schleifpapier
 - Ideal für Flachschliffarbeiten, zum Beispiel beim Entfernen alter Farbe von Fensterrahmen. Quadratkanten und fester Teller unterstützen die Formgebung zum Beispiel beim Brechen scharfer Kanten
 - Starke, flexible Verbindung der Schleifkörner mit dem Vlies dank Bosch Surface Structure
-- Hält bis zu 5-mal länger als ein Bosch C420 Schleifpapier
 - Lieferumfang: EXPERT S471 Standard Block, 97 x 69 x 26 mm, superfein, 20-tlg.
 
 [🛒 Hier!!]({{< param buyurl >}})

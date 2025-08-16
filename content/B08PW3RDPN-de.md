@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Speicherlayout (Module x Größe): 2 x 8 GB
-- Memory Formfaktor: 288-pin DIMM, CAS Latenz: 16
-- Interner Speichertyp: DDR4
 - Speichertaktfrequenz: 3600 MHz
 - RAM-Speicher: 16 GB
+- Interner Speichertyp: DDR4
+- Speicherlayout (Module x Größe): 2 x 8 GB
+- Memory Formfaktor: 288-pin DIMM, CAS Latenz: 16
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08PW3RDPN{{</world>}}

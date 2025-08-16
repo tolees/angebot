@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der neue Google Tensor G3-Prozessor mit Google-KI ermöglicht innovative Foto‑ und Videofunktionen und erleichtert dir den Alltag auf smarte Weise. Er sorgt dafür, dass Pixel 8 Pro superschnell und effizient ist.
 - Pixel 8 Pro bietet ein Dreifach-Rückkamerasystem auf Profiniveau und den besten Zoom, den es bei Pixel bisher gab. Pro-Funktionen sorgen für erweiterte Einstellungen und Aufnahmen in voller Auflösung.
 - Mit dem integrierten VPN von Google One trägt Pixel 8 Pro zum Schutz deiner Aktivitäten im Internet bei – egal, welche App oder welchen Browser du verwendest.
-- Mit der Video-Optimierung (voraussichtlich ab Winter 2023 verfügbar) werden Farben, Belichtung, Stabilisierung und Details automatisch verbessert – für ein optimiertes Gesamtbild.
-- Mit Schutzklasse IP68 und dank Corning Gorilla Glass Victus 2 sind kleine Missgeschicke oder ein wenig Wasser und Staub für Pixel 8 Pro kein Problem.
 - Das 6,7"-Display bietet eine gestochen scharfe Anzeige. Die Aktualisierungsrate wird automatisch auf einen Wert zwischen 1 und 120 Hz angepasst und sorgt für ein flüssiges Bild.
+- Mit Schutzklasse IP68 und dank Corning Gorilla Glass Victus 2 sind kleine Missgeschicke oder ein wenig Wasser und Staub für Pixel 8 Pro kein Problem.
 - Dank Live-Übersetzung kannst du Gespräche in 49 Sprachen dolmetschen und Speisekarten mit deiner Kamera sowie Chats in Echtzeit übersetzen lassen.
-- Jemand hat geniest, geblinzelt oder weggesehen? Mit der Pixel-Funktion „Beste Aufnahme“ entsteht aus ähnlichen Aufnahmen einer Reihe ein einzelnes optimiertes Foto – auf dem alle in die Kamera blicken und sich von ihrer besten Seite zeigen.
 - Der intelligente Akku kann länger als 24 Stunden durchhalten. Bei Verwendung des Extrem-Energiesparmodus direkt nach dem Aufladen kann er sogar bis zu 72 Stunden halten. Außerdem lädt er so schnell wie noch nie.
+- Der neue Google Tensor G3-Prozessor mit Google-KI ermöglicht innovative Foto‑ und Videofunktionen und erleichtert dir den Alltag auf smarte Weise. Er sorgt dafür, dass Pixel 8 Pro superschnell und effizient ist.
+- Mit der Video-Optimierung (voraussichtlich ab Winter 2023 verfügbar) werden Farben, Belichtung, Stabilisierung und Details automatisch verbessert – für ein optimiertes Gesamtbild.
+- Jemand hat geniest, geblinzelt oder weggesehen? Mit der Pixel-Funktion „Beste Aufnahme“ entsteht aus ähnlichen Aufnahmen einer Reihe ein einzelnes optimiertes Foto – auf dem alle in die Kamera blicken und sich von ihrer besten Seite zeigen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CGVS2H6T{{</world>}}

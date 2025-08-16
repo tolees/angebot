@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhals Ausschnitt
-- Frontprint
 - bewährte Jack & Jones Qualität
+- Frontprint
+- Rundhals Ausschnitt
 - Jack & Jones
 - kurzarm
 

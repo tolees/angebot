@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- <b>Produktgruppe: </b>Parfümerie
 - <b>Geschlecht: </b>für Sie / for Her / pour Femme
+- <b>Produktgruppe: </b>Parfümerie
 - <b>Designer - Hersteller: </b>Clinique
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

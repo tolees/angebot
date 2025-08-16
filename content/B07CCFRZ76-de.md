@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: DRAKKAR RECORDS
 - Wettlauf zur Auferstehung
+- Marke: DRAKKAR RECORDS
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07CCFRZ76{{</world>}}

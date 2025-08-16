@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse "F". Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können.
-- Stromversorgung über 1m langes Kabel mit offenen Anschlüssen
-- Gehäusematerial aus hochwertigem Aluminium
 - Bedenkenlose Außenanwendung durch IP65-Schutzklasse
+- Gehäusematerial aus hochwertigem Aluminium
+- Stromversorgung über 1m langes Kabel mit offenen Anschlüssen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TWVVMNP{{</world>}}

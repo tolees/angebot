@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SERVIERVORSCHLAG - Ideal als Longdrink auf Eis, mit Limonade gemischt und mit Himbeeren garniert, oder als Spritz mit Limonade und Prosecco in einem Weinglas vereint
 - AROMA PUR - Außergewöhnlich weich, mit dem erfrischenden und saftigen Geschmack von Himbeeren, nebst einem herben und fruchtigen Abgang, der sowohl die Nase als auch den Gaumen anspricht
 - ENGLISCHE MEISTERKLASSE - Smirnoff Raspberry Crush ist ein weicher Premium-Wodka, basierend auf Smirnoff No. 21, destilliert aus feinstem Getreide und angereichert mit natürlichen, saftigen Himbeeraromen
 - GESCHENKIDEE – Smirnoff Raspberry Crush ist die perfekte Begleitung für einen frühen Abendspaß mit Freunden. Ideal zum Genießen in Ihren engsten Kreisen oder als Geschenk für Geburtstage und andere Gelegenheiten
+- SERVIERVORSCHLAG - Ideal als Longdrink auf Eis, mit Limonade gemischt und mit Himbeeren garniert, oder als Spritz mit Limonade und Prosecco in einem Weinglas vereint
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BH99X11S{{</world>}}

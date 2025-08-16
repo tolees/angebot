@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Laufsohle: transparente TPR-Laufsohle
-- Obermaterial: Synthetik
 - Futter: Textilfutter
+- Obermaterial: Synthetik
 - Innensohle: auswechselbare Textileinlegesohle
 - Verschluss: Klettverschluss
 

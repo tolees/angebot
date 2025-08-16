@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein lichtstarkes Weitwinkel-Objektiv mit einer hervorragenden Abbildungsleistung
 - Hervorragende Korrektur sagittaler Koma
-- Hohe Randausleuchtung
 - Für Reisen, Natur / Landschaft, Available Light, Architektur / Innenaufnahmen, Veranstaltungen
+- Ein lichtstarkes Weitwinkel-Objektiv mit einer hervorragenden Abbildungsleistung
 - Hervorragende Korrektur chromatischer Aberration
+- Hohe Randausleuchtung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00THPL0AS{{</world>}}

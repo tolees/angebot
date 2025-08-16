@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Neben dem Basisspiel Persona 5 Royal sind mehr als 40 zuvor als DLC-Inhalte veröffentlichte Gegenstände enthalten
-- Erkunde Tokio, schalte Personas frei, gestalte deinen ganz persönlichen Diebesunterschlupf, erlebe alternative Enden und mehr
 - Werde zum ultimativen Phantomdieb und setze dich über alle Regeln hinweg, entdecke die Kraft in dir und kämpfe für Gerechtigkeit
+- Erkunde Tokio, schalte Personas frei, gestalte deinen ganz persönlichen Diebesunterschlupf, erlebe alternative Enden und mehr
 - Enthält über 40 zuvor veröffentlichte herunterladbare Inhalte
 
 [🛒 Hier!!]({{< param buyurl >}})

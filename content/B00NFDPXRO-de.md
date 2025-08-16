@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Grundlage für die Töpfe mit Technologie Sigma Classic
-- Spülmaschinenfest
 - Geeignet für alle Herdarten einschließlich der Induktion
 - Glänzende Oberfläche
+- Spülmaschinenfest
 - Edelstahl 18/10
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

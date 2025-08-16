@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe:12 Belle Brune
 - Material: Glas
+- Farbe:12 Belle Brune
 - Rouge Velvet Ink
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

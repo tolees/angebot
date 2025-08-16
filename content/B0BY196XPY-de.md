@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nutze grenzenlose Anpassungsmöglichkeiten mit exklusiven Optionen für die Tastenbelegung in der Xbox Zubehör-App — du kannst dir sogar aussuchen, in welcher Farbe die Xbox-Taste leuchtet.
 - Der Controller enthält alle Komponenten, die du für optimales Gaming brauchst. Weitere Komponenten sind separat erhältlich.
-- Speichere bis zu 3 benutzerdefinierte Profile auf dem Controller und wechsle jederzeit zwischen ihnen.
-- Nutze Xbox Wireless, Bluetooth oder das mitgelieferte USB-C-Kabel, um mit der Xbox Series X|S, Xbox One und einem Windows PC zu spielen.
-- Spiele wie ein Profi mit dem Xbox Elite Wireless Controller Series 2 – Core Edition in Blau, der über Thumbsticks mit anpassbarer Spannung, einen gummierten Rundumgriff und kürzere Trigger-Locks verfügt.
 - Bleibe im Spiel mit bis zu 40 Stunden Akkulaufzeit und überarbeiteten Komponenten, die auf Langlebigkeit ausgelegt sind.
+- Nutze Xbox Wireless, Bluetooth oder das mitgelieferte USB-C-Kabel, um mit der Xbox Series X|S, Xbox One und einem Windows PC zu spielen.
+- Nutze grenzenlose Anpassungsmöglichkeiten mit exklusiven Optionen für die Tastenbelegung in der Xbox Zubehör-App — du kannst dir sogar aussuchen, in welcher Farbe die Xbox-Taste leuchtet.
+- Speichere bis zu 3 benutzerdefinierte Profile auf dem Controller und wechsle jederzeit zwischen ihnen.
+- Spiele wie ein Profi mit dem Xbox Elite Wireless Controller Series 2 – Core Edition in Blau, der über Thumbsticks mit anpassbarer Spannung, einen gummierten Rundumgriff und kürzere Trigger-Locks verfügt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BY196XPY{{</world>}}

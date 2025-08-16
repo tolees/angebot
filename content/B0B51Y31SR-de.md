@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Kabeltrommel mit 50m Kabellänge (AT-N05V3V3-F 3G1,5) mit Bremaxx Kabel -extrem stabil, einsetzbar bis -35 °C, öl- und UV-beständig und zudem extrem abriebfest
 - Innovativer Tragegriff "cablepilot" sorgt für eine perfekte Kabelführung und verhindert das Abgleiten des Kabels beim Auf- und Abrollen, sorgt für freie Hände beim Transport und praktisches Aufhängen
 - Kabeltrommel 50m outdoor mit Überhitzungsschutz, Kontroll-Leuchte bei Überhitzung und Überlastung
-- Trommelkörper aus Spezialkunststoff auf verzinktem Tragegestell und Drehgriff für ein komfortables Aufrollen
 - Die Brennenstuhl Kabeltrommeln überzeugen anhand folgender Features: Made in Germany, Cablepilot mit Steckergarage, Kabelclip, robustes Kabel, Überhitzungsschutz, Trommelbremse, Trommeltritt als perfekte Ergänzung und zahlreiche Qualitätsprüfungen
+- Trommelkörper aus Spezialkunststoff auf verzinktem Tragegestell und Drehgriff für ein komfortables Aufrollen
 - Kabeltrommel außen mit 3 Schutzkontakt-Steckdosen, spritzwassergeschützt IP44, mit selbstschließenden Deckeln
 
 [🛒 Hier!!]({{< param buyurl >}})

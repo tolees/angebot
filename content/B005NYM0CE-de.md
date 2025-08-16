@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 🧂 PFLEGE: Der Streuer ist spülmaschinengeeignet. Dafür bitte den Deckel vom Streuer abschrauben, damit alles komplett gereinigt werden kann.
-- 🧂 DIE MARKE: Hinter der Marke APS steht ein deutsches Traditionsunternehmen, welches seit Jahrzehnten über fundierte Kenntnisse in der Herstellung von Gastronomie- und Servierartikeln verfügt. Das Familienunternehmen befindet sich bereits in der vierten Generation. Weltweit vertreibt APS Produkte aus den Bereichen Buffet, Tabletop und Bar.
 - 🧂 DATEN: Der Salzstreuer hat eine Größe von 8 x 8 cm. Die Höhe beträgt 12 cm. Das Gesamtgewicht liegt bei 0,275 kg.
 - 🧂 MATERIAL: Der Streuer ist komplett aus Edelstahl hergestellt. Edelstahl Poliert
+- 🧂 PFLEGE: Der Streuer ist spülmaschinengeeignet. Dafür bitte den Deckel vom Streuer abschrauben, damit alles komplett gereinigt werden kann.
+- 🧂 DIE MARKE: Hinter der Marke APS steht ein deutsches Traditionsunternehmen, welches seit Jahrzehnten über fundierte Kenntnisse in der Herstellung von Gastronomie- und Servierartikeln verfügt. Das Familienunternehmen befindet sich bereits in der vierten Generation. Weltweit vertreibt APS Produkte aus den Bereichen Buffet, Tabletop und Bar.
 - 🧂 NUTZEN: Dieser große Salzstreuer ist perfekt geeignet für das Verteilen auf Pommes Frites. Durch den abschraubbaren Deckel ist ein einfaches Nachfüllen gewährleistet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

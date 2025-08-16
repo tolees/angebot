@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- keine farbe
-- LOréal Paris
 - LOréal Shampoo Série Expert Blondifier Gloss Shampoo
 - E3554600
+- keine farbe
+- LOréal Paris
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0918DXG2B{{</world>}}

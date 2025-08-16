@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für noch bessere Ergebnisse wird die Verwendung der komplette re/Start recovery Reihe empfohlen*
-- number_of_items- 1
 - Repariert Haarfasern von innen und außen für doppelt so starkes Haar
+- number_of_items- 1
+- Für noch bessere Ergebnisse wird die Verwendung der komplette re/Start recovery Reihe empfohlen*
 - Regenerierende Intensiv-Maske für geschädigtes Haar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

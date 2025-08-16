@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verbessere deine Fähigkeiten, um deinen Gegnern gewachsen zu sein
+- Erlebe die nicht-lineare Geschichte in deinem eigenen Tempo
 - Begib dich in den Cyberspace und öffne alternative Wege
 - Stelle dich den Horden einer verrückt gewordenen KI
-- Erlebe die nicht-lineare Geschichte in deinem eigenen Tempo
+- Verbessere deine Fähigkeiten, um deinen Gegnern gewachsen zu sein
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CXXR5FL1{{</world>}}

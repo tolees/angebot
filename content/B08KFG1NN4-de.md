@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nach Verwendung des RE/START Haarshampoos bis in die Spitzen verteilen und nach 2 - 3 Minuten gründlich ausspülen.
 - Schenken Sie Ihrem Haar einen Neustart und bringen das Mikrobiom der Kopfhaut* in ein natürliches Gleichgewicht, während Sie Ihre Haare von innen stärken und reparieren ‒ der doppelwirksame Conditioner kombiniert Wirkstoffe der Hautpflege mit moderner Haarpflege und versiegelt die Haaroberfläche.
+- Nach Verwendung des RE/START Haarshampoos bis in die Spitzen verteilen und nach 2 - 3 Minuten gründlich ausspülen.
 - Zart-cremiges Haarprodukt mit biomimetischen Ceramiden und bindenden Molekülen zur 2-fachen Stärkung und Reparatur.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

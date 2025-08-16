@@ -30,12 +30,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Verdünnen Sie 100ml der Lösung mit 1L Wasser; Befolgen Sie für den Entkalkungsvorgang immer die Anweisungen im Handbuch Ihrer DeLonghi-Kaffeemaschine
 - ERHÖHT DIE LEBENSDAUER IHRER MASCHINE: Die richtige Reinigung und Pflege von Kaffeemaschine und Kaffeevollautomaten sorgt für eine lange Lebensdauer der Maschine
-- Inhalt: 500 ml
-- EINFACH UND SICHER ZU VERWENDEN: Der Entkalker ist nicht ätzend. Einfach anzuwenden und sicher im Gebrauch
-- UNIVERSAL KALKLÖSER: Verbessert den Kaffeegeschmack und verlängert die Lebensdauer Ihrer Kaffeemaschine
 - WIRKUNG: Der DeLonghi Entkalker löst Kalkablagerungen auf und verlängert bei regelmäßiger Anwendung die Lebensdauer der Maschine
-- Original De`Longhi
+- EINFACH UND SICHER ZU VERWENDEN: Der Entkalker ist nicht ätzend. Einfach anzuwenden und sicher im Gebrauch
 - UNBEDENKLICH: Der Entkalker für Kaffeemaschinen und Kaffeevollautomaten ist vollständig abbaubar
+- Original De`Longhi
+- UNIVERSAL KALKLÖSER: Verbessert den Kaffeegeschmack und verlängert die Lebensdauer Ihrer Kaffeemaschine
+- Inhalt: 500 ml
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008YETL18{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Elementanzeigevolumen: 300.0 milliliter
+- Intensiv-Shampoo für langes und dünnes Haar
 - Anzahl der einheiten: 300.0
 - Einheitenanzahltyp: milliliter
-- Intensiv-Shampoo für langes und dünnes Haar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0918G6JWS{{</world>}}

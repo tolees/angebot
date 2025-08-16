@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MECHANISCHE RAZER GREEN SWITCHES: Mit jedem Tastenanschlag ist das satte Feedback zu hören und zu spüren und das klassische Design verwöhnt mit optimierter Auslösung und Rückschaltepunkten, die eine noch bessere Performance beim Gaming ermöglichen.
+- DOUBLESHOT-ABS-TASTENKAPPEN: Dank eines Doubleshot-Gussverfahrens kann sich die Beschriftung niemals abnutzen und die Tastenkappen haben extra dicke Seiten, wodurch sie extrem robust sind und auch ständiges Spamming locker wegstecken.
 - KABELLOSE RAZER HYPERSPEED TECHNOLOGIE: Latenzfreies kabelloses Gaming dank Razer HyperSpeed erleben oder bis zu 3 Geräte per Bluetooth verbinden — mit nur einem Schalter nahtlos zwischen ihnen umschalten. Inklusive abnehmbarem USB-C-Kabel zum Aufladen während des Spielens.
 - TRANSPARENTES SWITCH-GEHÄUSE: Das vollkommen durchsichtige Design zeigt die wahre Leuchtkraft von Razer Chroma RGB — von detaillierten Beleuchtungsanpassungen bis hin zu noch mehr Immersion, denn die Tastatur reagiert dynamisch auf über 150 kompatible Spiele.
-- DOUBLESHOT-ABS-TASTENKAPPEN: Dank eines Doubleshot-Gussverfahrens kann sich die Beschriftung niemals abnutzen und die Tastenkappen haben extra dicke Seiten, wodurch sie extrem robust sind und auch ständiges Spamming locker wegstecken.
+- MECHANISCHE RAZER GREEN SWITCHES: Mit jedem Tastenanschlag ist das satte Feedback zu hören und zu spüren und das klassische Design verwöhnt mit optimierter Auslösung und Rückschaltepunkten, die eine noch bessere Performance beim Gaming ermöglichen.
 - DIGITALER MULTIFUNKTIONSREGLER UND MEDIEN-TASTE: Diese Tasten lassen sich so konfigurieren, dass sich mit ihnen Musikstücke pausieren, wiedergeben und überspringen lassen. Auch Lautstärke oder Helligkeit lassen sich anpassen — so geht perfektes Entertainment.
 
 [🛒 Hier!!]({{< param buyurl >}})

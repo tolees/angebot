@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Für die Hand- und Maschinenbetätigung (non-impact), mit Kugelfangrille
+- Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Größen
+- Aus mattverchromtem Chrom-Vanadium
 - Sechskantprofil ermöglicht präzises Verschrauben mit hoher Kraftübertragung und schont dabei das Profil
 - Lange Steckschlüssel für tiefliegende Verschraubungen und teilweise auch bei überstehenden Gewindestangen in engen Bauräumen
-- Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Größen
-- Für die Hand- und Maschinenbetätigung (non-impact), mit Kugelfangrille
-- Aus mattverchromtem Chrom-Vanadium
 - Rändelung am hinteren Ende für hohe Griffigkeit bei Handbetätigung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

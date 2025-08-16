@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ultrla fast write max write 1900MB/s
+- Compatible with major CF-express type B comaptible DSLR.
+- High cost performance for casula to Professionnal usage
 - Urtla fast read for comportable editing max read 1950MB/s
 - HIgh capacity storage 512GB
-- Compatible with major CF-express type B comaptible DSLR.
-- Ultrla fast write max write 1900MB/s
-- High cost performance for casula to Professionnal usage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C7NZC6RS{{</world>}}

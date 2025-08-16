@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Besteht zu mindestens 20 % aus recycelten Materialien
-- Obermaterial aus Textil
-- Textilfutter
 - Synthetik-Außensohle
+- Obermaterial aus Textil
 - Reguläre Passform
+- Textilfutter
 - Textilfutter
 - Cloudfoam Zwischensohle
 

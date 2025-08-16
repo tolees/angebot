@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AROMA PUR - Der Geruch ist sehr erdig, mit einem reichhaltigen Sherry-Aspekt. Geschmacklich setzen sich Sherry, Gewürze, Holz und pikante Noten durch, gefolgt von einem Abgang mit Holzasche, Walnuss, Tanninen und herben Kräutern
 - SPEYSIDE RARITÄT - Dailuaine 16 ist ein zutiefst komplexer Speyside Single Malt Scotch Whisky, den man bislang kaum je in seiner Reinform probieren konnte. Er gehört zu den elf Abfüllungen der Flora & Fauna Kollektion. Er wird normalerweise für Blended Scotch verwendet und ist nur sehr selten als eigenständiger Single Malt erhältlich
-- GESCHENKIDEE - Ein hervorragendes Raritäten-Geschenk für Kenner und Whisky-Liebhaber. Die Flora & Fauna Collection ist eine exklusive Edition extrem seltener Single Malt Whiskys von kaum bekannten Brennereien aus ganz Schottland
 - SERVIERVORSCHLAG - Der zutiefst komplexe Charakter von Dailuaine 16 Jahre erschließt sich am besten, wenn man ihn pur oder auf Eis ganz in Ruhe und mit viel Muße genießt
+- GESCHENKIDEE - Ein hervorragendes Raritäten-Geschenk für Kenner und Whisky-Liebhaber. Die Flora & Fauna Collection ist eine exklusive Edition extrem seltener Single Malt Whiskys von kaum bekannten Brennereien aus ganz Schottland
+- AROMA PUR - Der Geruch ist sehr erdig, mit einem reichhaltigen Sherry-Aspekt. Geschmacklich setzen sich Sherry, Gewürze, Holz und pikante Noten durch, gefolgt von einem Abgang mit Holzasche, Walnuss, Tanninen und herben Kräutern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B004EAHJLK{{</world>}}

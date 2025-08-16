@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Assassins Creed Mirage Launch Edition beinhaltet: Das Hauptspiel, eine Karte von Bagdad und drei Lithografien
-- Erlebe einen modernen Blick auf die berühmten Features und das Gameplay, die seit 15 Jahren eine Reihe definieren, Du bewegst dich nahtlos im Parkour durch die Stadt und tötest Ziele aus dem Hinterhalt mit wilderen Attentaten als je zuvor
-- Entdecke ein dichtes, vom Plot getriebenes Action-Adventure, das der Verwandlung eines widerspenstigen jungen Mannes in einen gebildeten Meisterassassinen folgt
-- Erkunde eine unglaublich dichte und lebendige Stadt, deren Einwohner auf jede deiner Bewegungen reagieren, und enthülle die Geheimnisse von vier unterschiedlichen Bezirken, während du dich durch das Goldene Zeitalter Bagdads kämpfst
-- Bestelle jetzt vor und erhalte eine Bonusmission: „Die vierzig Räuber“
 - Reise in dieser liebevollen Hommage an das Spiel, mit dem alles begann, nach Alamut, der legendären Heimat der Assassinen, die das Fundament des Kredos legten
+- Erlebe einen modernen Blick auf die berühmten Features und das Gameplay, die seit 15 Jahren eine Reihe definieren, Du bewegst dich nahtlos im Parkour durch die Stadt und tötest Ziele aus dem Hinterhalt mit wilderen Attentaten als je zuvor
+- Erkunde eine unglaublich dichte und lebendige Stadt, deren Einwohner auf jede deiner Bewegungen reagieren, und enthülle die Geheimnisse von vier unterschiedlichen Bezirken, während du dich durch das Goldene Zeitalter Bagdads kämpfst
+- Die Assassins Creed Mirage Launch Edition beinhaltet: Das Hauptspiel, eine Karte von Bagdad und drei Lithografien
+- Entdecke ein dichtes, vom Plot getriebenes Action-Adventure, das der Verwandlung eines widerspenstigen jungen Mannes in einen gebildeten Meisterassassinen folgt
+- Bestelle jetzt vor und erhalte eine Bonusmission: „Die vierzig Räuber“
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C69TM17L{{</world>}}

@@ -30,10 +30,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt;Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können
 - Dimmbares Licht, eignet sich als Lese-und Nachttischlampe, Schlummerfunktion, UKW Radio
-- AmbiTrack-Sensor und SleepMapper App zur Überwachung der Schlafumgebung
 - RelaxBreathe: lichtgeführte Entspannungsfunktion für ein leichteres Einschlafen
-- PowerWake, 8 Wecktöne
 - Sonnenaufgangssimulation: von sanften Morgenrot zu natürlichem Tageslicht, 4 vorinstallierte Lichtmotive
+- PowerWake, 8 Wecktöne
+- AmbiTrack-Sensor und SleepMapper App zur Überwachung der Schlafumgebung
 - Kein Leuchtmittel enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

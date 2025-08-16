@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Stretch-Fleece-Einsätze an den Unterarmen und seitlich am Körper erhöhen die Funktionalität
 - Doppeltstrick-Stretch-Polyester-Fleece mit gebürsteter Rückseite
 - Gesicherte Brusttasche mit Reißverschluss
-- Stretch-Fleece-Einsätze an den Unterarmen und seitlich am Körper erhöhen die Funktionalität
 - Leichter Polyester Pulloverstrick gebondet mit Anti-Pilling-Fleece
 - YKK-Reißverschlüsse
 

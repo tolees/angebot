@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Flach
-- Verschluss: Gummi
-- Obermaterial: Leder
 - Innenmaterial: Synthetik
+- Verschluss: Gummi
+- Absatzform: Flach
+- Obermaterial: Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07TKDGKY8{{</world>}}

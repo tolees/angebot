@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- , Height:7.52 cm
-- , Width:11 cm
 - , Depth:6.58 cm
+- , Width:11 cm
+- , Height:7.52 cm
 - , Localisation:Europe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

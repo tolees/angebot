@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 30 Jahre internationales Fandom
 - Originalstory von Dragon Ball-Schöpfer Akira Toriyama
-- TV-Serie bekannt aus der TV-Ausstrahlung auf ProSieben MAXX
 - der 2. Kinofilm des Dragon Ball Super-Franchises
+- 30 Jahre internationales Fandom
+- TV-Serie bekannt aus der TV-Ausstrahlung auf ProSieben MAXX
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BWDYYDFY{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Widrige Umstände bringen ungleiche Menschen zusammen. So wie den jungen Privatdetektiv Doe und den geheimnisvollen Exorzisten Gram
-- Mato ist keine gewöhnliche Stadt, obwohl sie so scheint. Wer hätte ahnen können, dass sich das Böse unter der Oberfläche verbirgt?
 - Inhalt: Zusätzlich zum Spiel erhälst du das exklusive Artbook mit über 30 Seiten atemberaubender Konzeptkunst des Spiels
 - Mithilfe ihrer Fähigkeiten wollen sie das Geheimnis um Mato lüften und die bösen Mächte bezwingen
+- Widrige Umstände bringen ungleiche Menschen zusammen. So wie den jungen Privatdetektiv Doe und den geheimnisvollen Exorzisten Gram
+- Mato ist keine gewöhnliche Stadt, obwohl sie so scheint. Wer hätte ahnen können, dass sich das Böse unter der Oberfläche verbirgt?
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BNMN4MHM{{</world>}}

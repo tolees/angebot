@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anzahl der einheiten: 240.0
-- Besser kämmbar
-- Einheitenanzahltyp: milliliter
-- Farbe: 600 rot inhalt: 240ml
-- Pflegt das haar und frischt die farbe auf
-- Elementanzeigevolumen: 240.0 milliliters
-- Versorgt mit nährstoffen
 - Anwendung: nach der haarwäsche wie eine kur mit kamm oder händen auftragen und ca. 3-5 minuten einwirken lassen. für fantasie effekte 15 minuten einwirken lassen. dann sanft mit lauwarmen wasser ausspülen. handschuhe sind ratsam da die intensiven farben haut und nägel mit anfärben.
+- Einheitenanzahltyp: milliliter
+- Anzahl der einheiten: 240.0
+- Elementanzeigevolumen: 240.0 milliliters
+- Farbe: 600 rot inhalt: 240ml
+- Versorgt mit nährstoffen
+- Pflegt das haar und frischt die farbe auf
+- Besser kämmbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08HRQ1PN3{{</world>}}

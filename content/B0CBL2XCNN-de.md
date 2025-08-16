@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Langlebig
-- Xiaomi Redmi 12 8/256GB Sky Blue EU
 - Die besten Produkte
+- Xiaomi Redmi 12 8/256GB Sky Blue EU
 - Hochwertige Abmessungen
 - Flexible Gestaltung
 

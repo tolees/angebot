@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial: Leder
 - Baumwolle
 - RFID geschützt Verschluss: Ethylen-Vinylacetat
-- Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B098PC3TZ3{{</world>}}

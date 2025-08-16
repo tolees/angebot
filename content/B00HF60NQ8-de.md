@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verpackung kann variieren
-- Geschmacksneutral, passt also Ideal zu Ihren Lieblings-Protein-Shakes
-- Auch in einer Reihe von verschiedenen Geschmacksrichtungen erhältlich
-- 100% reines L-Glutamin; die im Körper am häufigsten vorkommende Aminosäure, die im Muskelgewebe hochkonzentriert ist
-- Hochwertiges, geschmacksneutrales Glutamin-Pulver von einer führenden Sporternährungs-Marke
 - Am guten verzehrt nach dem Training oder während des Trainings
+- Geschmacksneutral, passt also Ideal zu Ihren Lieblings-Protein-Shakes
+- 100% reines L-Glutamin; die im Körper am häufigsten vorkommende Aminosäure, die im Muskelgewebe hochkonzentriert ist
+- Auch in einer Reihe von verschiedenen Geschmacksrichtungen erhältlich
+- Hochwertiges, geschmacksneutrales Glutamin-Pulver von einer führenden Sporternährungs-Marke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00HF60NQ8{{</world>}}

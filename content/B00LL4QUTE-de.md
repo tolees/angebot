@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unterstützt die neueste CFast 2.0 Spezifikation
-- SATA III 6 GB/s Schnittstelle, Betriebstemperatur : -5°C bis 70°C
 - MLC Nand Flash Chips , Ideal für professionelle Videodrehs in Full HD oder 4K Auflösung
 - Bis zu 510 MB/s Lesen; 370 MB/s Schreiben
+- SATA III 6 GB/s Schnittstelle, Betriebstemperatur : -5°C bis 70°C
 - 128 GB Speicherkapazität
+- Unterstützt die neueste CFast 2.0 Spezifikation
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00LL4QUTE{{</world>}}

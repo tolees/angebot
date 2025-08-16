@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- angenehm leichte Qualität
 - hüftlang
 - schlichter Damenpulli von ONLY
+- angenehm leichte Qualität
 - Rundhals-Ausschnitt
 - softe Haptik
 

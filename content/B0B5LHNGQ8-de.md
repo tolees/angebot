@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Vibrationsfeedback - Zwei Motoren in den Griffen sorgen für immersives und realistisches Next-Gen-Gameplay.
 - Spielverbessernde Audio-Bedienelemente - Schnell erreichbare Audio-Bedienelemente, einschließlich Superhuman Hearing, Lautstärkeregelung für In-Game- und Chat-Lautstärke sowie Mikrofonstummschaltung sind jederzeit verfügbar.
-- Offiziell lizenziert für Xbox - Der REACT-R Controller ist konzipiert für Xbox Series X, Xbox Series S, Xbox One und Windows 10 oder 11 PCs.
 - Superhuman Hearing - Ob leise Schritte oder das Nachladen von Waffen, mit der Turtle Beach exklusiven Superhuman Hearing Klangeinstellung genießt du den ultimativen Sound-Vorteil.
 - Reaktionsstarke Steuerung - Reagiere schneller mit strukturierten Triggern und Bumpern, präzisem 8-Richtungen-Steuerkreuz und komfortabel steuerbarem Ministick.
-- Vibrationsfeedback - Zwei Motoren in den Griffen sorgen für immersives und realistisches Next-Gen-Gameplay.
+- Offiziell lizenziert für Xbox - Der REACT-R Controller ist konzipiert für Xbox Series X, Xbox Series S, Xbox One und Windows 10 oder 11 PCs.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B5LHNGQ8{{</world>}}

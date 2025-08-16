@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WIFI: Teilen Sie Ihre schnelle Internetverbindung über das WLAN Ihres 4G+ LTE-Routers und surfen Sie mit bis zu 1200 Mbit/s, per Ethernet-Anschluss lassen sich zusätzlich mehrere Geräte über Kabel verbinden
-- 4G LTE: Stecken Sie eine SIM Karte eines beliebigen Anbieters ein und surfen Sie einfach los mit bis zu 300 Mbit/s, eine Konfiguration nötig und keine Bindung, bei freier Wahl des Anbieters
 - SICHERHEIT: Router kann mit beliebigen SIM Karten Formaten betrieben werden; WPA/WPA2 für die höchste Sicherheit Ihrer WLAN Verbindung; Connect & Secure Taste für eine optimierte Netzwerksicherheit. WLAN Ein/Aus Taste
+- 4G LTE: Stecken Sie eine SIM Karte eines beliebigen Anbieters ein und surfen Sie einfach los mit bis zu 300 Mbit/s, eine Konfiguration nötig und keine Bindung, bei freier Wahl des Anbieters
 - LIEFERUMFANG: 1x STRONG 4G+ LTE Router 1200, 1x RJ45 Ethernet-Kabel, 1x Externer Netzadapter, 2x Abnehmbare, externe 4G+ LTE Antennen, 1x Anleitung, 1x Garantiekarte, 1x Micro- auf Standard-SIM Adapter, 1x Nano- auf Standard-SIM Adapter
+- WIFI: Teilen Sie Ihre schnelle Internetverbindung über das WLAN Ihres 4G+ LTE-Routers und surfen Sie mit bis zu 1200 Mbit/s, per Ethernet-Anschluss lassen sich zusätzlich mehrere Geräte über Kabel verbinden
 - ABDECKUNG: Das Produkt beinhaltet 2 externe, abnehmbare Antennen für einen verbesserten 4G+ LTE Empfang, sowie 2 SIM Karten Adapter, um SIM Karten jeden beliebigen Formats verwenden zu können
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Erhältlich in 7 Farben
 - Mehrere Funktionen, sowohl Eyeliner als auch Lidschatten
-- Durch Anreicherung mit Vitamin E und Jojobaöl sanft zu den Augen
 - Eine wasserfeste Formel verhindert Verschmieren und Verlaufen
 - Ein wasserfester Bourjois Eyeliner in leuchtenden Farben für den idealen Ausgeh-Look
-- Erhältlich in 7 Farben
+- Durch Anreicherung mit Vitamin E und Jojobaöl sanft zu den Augen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001PR0X0Y{{</world>}}

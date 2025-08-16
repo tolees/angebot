@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
-- Innenmaterial: Synthetik
-- Obermaterial: Glattleder
 - Verschluss: Elastic
+- Obermaterial: Glattleder
+- Innenmaterial: Synthetik
+- Sohle: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06XQ24SDH{{</world>}}

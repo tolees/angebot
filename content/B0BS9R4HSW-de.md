@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nike Dri-FIT
-- Standard-Passform
 - Atmungsaktiv
+- Standard-Passform
+- Nike Dri-FIT
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BS9R4HSW{{</world>}}

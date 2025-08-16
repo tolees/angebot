@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultimative Geschwindigkeiten für den professionellen Kameraeinsatz
 - Leistungsstarker UHS-II-Standard
+- Ultimative Geschwindigkeiten für den professionellen Kameraeinsatz
 - Große Speicherkapazitäten für digitale Bibliotheken
 
 [🛒 Hier!!]({{< param buyurl >}})

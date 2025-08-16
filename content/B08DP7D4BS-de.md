@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GORE WEAR Passion Shorts, Größe: L, Farbe: Schwarz, 100722
 - Vielseitig einsetzbare Herren-Shorts für Fahrradfahrer, Ideal bei warmen Wetterbedingungen
-- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
+- GORE WEAR Passion Shorts, Größe: L, Farbe: Schwarz, 100722
 - Verstellbarer Taillenbund mit Klettverschlüssen, Gummizug am Rückenbund, Wasserabweisendes Gewebe, 2 Fronttaschen
+- GORE Selected Fabrics Stoffe: Rascher Feuchtigkeitstransport und extrem atmungsaktiv
 - Komfortable Passform mit lockerem, aber Bike-Spezifischen Schnitt für ein Maximum an Bewegungsfreiheit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

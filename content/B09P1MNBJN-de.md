@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Weicher Stoff
 - 100 % recycelter Polyester (Doppelstrick)
 - Langlebig
-- Weicher Stoff
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09P1MNBJN{{</world>}}

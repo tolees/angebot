@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
 - Kurze Ärmel
+- PUMA Cat Logo in Brusthöhe rechts
+- Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
 - 100 % Baumwolle
 - Rundhalsausschnitt
-- PUMA Cat Logo in Brusthöhe rechts
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08418KMRH{{</world>}}

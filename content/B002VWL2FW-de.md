@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Porenreinigung: Dieses Peeling mit Weidenrindenextrakt reinigt bis tief in die Poren und entfernt Schmutz, Öl und andere Unreinheiten
 - Porenreinigung: Wenden Sie dieses sanfte GesichtsPeeling als Teil des Burts Bees Hautpflege-Programms für eine natürlich gesunde Haut an
-- Gesichtsreinigung: Mit diesem Pfirsich- und Weidenrinden-Peeling für tiefe Porenreinigung von Burts Bees wird Ihre Haut erfrischend sauber
 - Peeling: Fein gemahlene Pfirsichkerne sorgen für ein glatteres Hautbild und entfernen abgestorbene Hautzellen sanft und auf natürlich Weise
+- Porenreinigung: Dieses Peeling mit Weidenrindenextrakt reinigt bis tief in die Poren und entfernt Schmutz, Öl und andere Unreinheiten
+- Gesichtsreinigung: Mit diesem Pfirsich- und Weidenrinden-Peeling für tiefe Porenreinigung von Burts Bees wird Ihre Haut erfrischend sauber
 - Natürliche Gesichtsreinigung: Geeignet für alle Hauttypen, mit 99 Prozent natürlichen Inhaltsstoffen und frei von Parabenen, Phthalaten und Mineralölen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

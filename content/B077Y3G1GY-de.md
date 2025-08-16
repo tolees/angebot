@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktische Herren Regen-Kappe für Fahrradfahrer bei allen Wetterbedingungen - auch unter dem Helm tragbar
-- GORE-TEX Active Shakedry Technologie: Wasserdichtes, winddichtes, extrem atmungsaktives und permanent abperlendes Obermaterial
 - Modellnummer: 100311
 - Hauptstoff Oberstoff Innenseite: 100% Polyamid
-- Elastisches Material hinten für optimale Passform
+- GORE-TEX Active Shakedry Technologie: Wasserdichtes, winddichtes, extrem atmungsaktives und permanent abperlendes Obermaterial
 - C5 Tex Shakedry
 - Hohe Sicherheit dank reflektierenden Elementen
+- Elastisches Material hinten für optimale Passform
+- Praktische Herren Regen-Kappe für Fahrradfahrer bei allen Wetterbedingungen - auch unter dem Helm tragbar
 - GORE C5 GORE-TEX SHAKEDRY Cap, Größe: Einheitsgröße (Kopfumfang: 54-58 cm), 100312
 
 [🛒 Hier!!]({{< param buyurl >}})

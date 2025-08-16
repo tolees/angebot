@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lieferumfang: 1x SecureDigital 2GB Card
 - Nur geeignet für Endgeräte mit SD- oder SDHC-Steckplatz, SD-Karte mit mechanischem Schreibschutz. Dieser wird aufgehoben, indem man den Riegel an der Seite nach oben schiebt.
 - SecureDigital Card (SD), entspricht SD-2.0-Standard, mechanischer Schreibschutz gegen versehentliches Löschen
-- Lieferumfang: 1x SecureDigital 2GB Card
 - SD Karte 2 GB: Beliebig oft beschreib- und löschbares Wechselspeichermedium, hohe Schreib- und Lesegeschwindigkeit
 - Mit Beschriftungsfeld für kurze Notizen
 

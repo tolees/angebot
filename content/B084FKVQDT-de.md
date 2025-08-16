@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mimikfalten und dauerhaft-sichtbare Falten wirken geglättet
 - Diadermine Lift+ Botology: unsere Alternative zu Mimikfalten-glättungs-injektionen
-- Die Haut um die Augen fühlt sich straffer an
 - Transparente Formeln: 92% Inhaltsstoffe natürlichen Ursprungs (inkl. Wasser). Hohe Hautverträglichkeit.
+- Mimikfalten und dauerhaft-sichtbare Falten wirken geglättet
+- Die Haut um die Augen fühlt sich straffer an
 - Dunkle Augenringe und Schwellungen wirken gemildert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

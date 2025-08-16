@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dein komplettes Schuhputzset zur Sneakerreinigung: Du bekommst alles was du zur Reinigung und Pflege deiner Schuhe & Sneaker benötigst.
-- Lässt auch weiße Schuhe wieder erstrahlen: Geeignet für sämtliche Farben. Kräftigt und stärkt die Farben deiner Schuhe.
 - Sneaker Cleaning Kit: Für eine professionelle Reinigung von Schuhen & Sneakern. 118ml Canzt Professional Sneaker Cleaner, Canzt Professional Microfasertuch und Canzt Professional Schmutzbürste.
+- Lässt auch weiße Schuhe wieder erstrahlen: Geeignet für sämtliche Farben. Kräftigt und stärkt die Farben deiner Schuhe.
 - Biologisch abbaubar: Der Canzt Professional Cleaner bestehen aus natürlichen und biologisch abbaubaren Materialien. Schont Sneaker, Schuhe und die Umwelt.
+- Dein komplettes Schuhputzset zur Sneakerreinigung: Du bekommst alles was du zur Reinigung und Pflege deiner Schuhe & Sneaker benötigst.
 - Reinigt & pflegt schonend: Empfehlenswert bei fast allen Materialien wie Mesh, Wildleder, Suede, Nylon, Baumwolle. Auch für Boost Sohlen geeignet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

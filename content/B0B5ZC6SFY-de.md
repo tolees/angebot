@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die "Künsteleiste" füllt sich, wenn der Spieler fortwährend Angriffe ausführt und Kombos aufrechterhält
 - Verbessere deine Waffen, Fertigkeiten und Einherier-/Göttliche Künste-Kombos, um deinen Spielstil anzupassen
+- Die "Künsteleiste" füllt sich, wenn der Spieler fortwährend Angriffe ausführt und Kombos aufrechterhält
 - Gleite mühelos über das Schlachtfeld und führe mit dem neuen Seelenketten-System extrem schnelle Aktionen aus
 - Beschwöre Einherier, starke Kriegergeister, die von der Walküre ausgewählt werden und die dir im Kampf beistehen!
 

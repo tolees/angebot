@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SOFT FEELING
-- EASY FIT
 - RECYCLED
-- LIGHTWEIGHT
 - FLEXIBLE
+- LIGHTWEIGHT
+- EASY FIT
+- SOFT FEELING
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B098PB8GTS{{</world>}}

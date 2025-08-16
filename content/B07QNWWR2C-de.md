@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DIN ISO 2936
-- ideal geeignet für schwer zugängliche Schrauben
-- durchgehend gehärtet
 - mit Kugelkopf am langen Ende
+- ideal geeignet für schwer zugängliche Schrauben
+- DIN ISO 2936
 - kurze Ausführung
+- durchgehend gehärtet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07QNWWR2C{{</world>}}

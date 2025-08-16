@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit 22,23 mm Bohrungsdurchmesser für Standard Winkelschleifer mit Spannmutter
+- Lieferumfang: PRO Multi Material Diamanttrennscheibe, 125 x 22,23 mm
 - Zum Schneiden verschiedener Baumaterialien z. B. Stein, Ziegel, Stahlbeton und anderer gängiger Baumaterialien sowie Verbundwerkstoffe
 - Hält bis zu 1,5x länger als eine Bosch Eco for Universal Trennscheibe
-- Lieferumfang: PRO Multi Material Diamanttrennscheibe, 125 x 22,23 mm
+- Mit 22,23 mm Bohrungsdurchmesser für Standard Winkelschleifer mit Spannmutter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0711LSCTP{{</world>}}

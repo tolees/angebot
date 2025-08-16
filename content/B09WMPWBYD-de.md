@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wechselobjektiv-System: Die einzige Action-Cam mit auswechselbaren Objektiven. Rüste deine Kamera jederzeit auf, indem du dir ein zusätzliches Objektiv wie das ultrakreative 360°-Objektiv kaufst.
 - FlowState-Stabilisierung: Erhalte butterweiche Aufnahmen, egal wie heftig die Action ist. Mit dem neuen RS Kern findet die FlowState-Stabilisierung jetzt kamera-intern statt. Kein Editing erforderlich.
-- Lieferumfang: 1x 4K Boost Objektiv, 1x ONE RS Kern, 1x ONE RS Akku-Basis und 1x ONE RS Halterung.
-- Active HDR & 6K Breitbild: Mit innovativen Modi wie Active HDR und 6K Breitbild kannst du deine Aufnahmen enorm verbessern.
 - 4K 60fps & 48 MP Fotos: Absolut robuste und widerstandsfähige Action-Cam mit brandneuem 1/2" 48MP Bildsensor. Nimm mit dem 4K Boost Objektiv unglaublich detaillierte Videos und Fotos auf.
+- Active HDR & 6K Breitbild: Mit innovativen Modi wie Active HDR und 6K Breitbild kannst du deine Aufnahmen enorm verbessern.
+- Lieferumfang: 1x 4K Boost Objektiv, 1x ONE RS Kern, 1x ONE RS Akku-Basis und 1x ONE RS Halterung.
+- Wechselobjektiv-System: Die einzige Action-Cam mit auswechselbaren Objektiven. Rüste deine Kamera jederzeit auf, indem du dir ein zusätzliches Objektiv wie das ultrakreative 360°-Objektiv kaufst.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09WMPWBYD{{</world>}}

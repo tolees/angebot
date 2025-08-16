@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Flach
-- Verschluss: Gummi
 - Obermaterial: Synthetik
 - Innenmaterial: Synthetik
+- Absatzform: Flach
+- Verschluss: Gummi
 - Schuhweite: Medium
 
 [🛒 Hier!!]({{< param buyurl >}})

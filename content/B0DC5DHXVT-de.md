@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kapuze mit Kordelzug
-- Kontrastnähte
 - softe Haptik
+- Kontrastnähte
+- Kapuze mit Kordelzug
 - Artwork mit Rubber-Details
 
 [🛒 Hier!!]({{< param buyurl >}})

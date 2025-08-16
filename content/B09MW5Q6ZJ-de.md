@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Transparenter Polypropylen-Bezug: manipulationssicher, reißfester und wasserfester Schutz, keine Heftschoner mehr nötig
-- PEFC-ZERTIFIZIERT: für die nachhaltige Bewirtschaftung der Wälder
 - Maxi-Format: Schulformat, ideal zum Einschieben oder Einkleben von A4-Blättern (21 x 29,7 cm), die im Klassenzimmer verteilt sind
+- Transparenter Polypropylen-Bezug: manipulationssicher, reißfester und wasserfester Schutz, keine Heftschoner mehr nötig
 - Papier: Pergamentweiß, 90 g/m², hohe Festigkeit und Deckkraft
+- PEFC-ZERTIFIZIERT: für die nachhaltige Bewirtschaftung der Wälder
 - Hergestellt in Frankreich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

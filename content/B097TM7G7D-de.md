@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AMD Ryzen-Ready
-- Plug-and-Play Funktionalität für eine automatische Übertaktung¹
 - Intel XMP-Ready Profile
+- AMD Ryzen-Ready
 - Hohe Leistung trifft geringen Stromverbrauch
 - Schlanke Form, elegantes Design
+- Plug-and-Play Funktionalität für eine automatische Übertaktung¹
 - Leistungsstarke SODIMM-Performance
 
 [🛒 Hier!!]({{< param buyurl >}})

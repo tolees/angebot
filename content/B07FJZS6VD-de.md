@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Synthetik
-- Kunstleder / PU
 - Synthetik
 - Ohne Verschluss
+- Kunstleder / PU
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07FJZS6VD{{</world>}}

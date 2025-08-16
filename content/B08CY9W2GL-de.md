@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Glatte Carbonfaserverzierungen mit mattschwarzer Oberfläche
-- Vollständig kompatibel mit dem S-Pen und verfügt über eine integrierte Stiftlagerung.
 - Voll kompatibel mit dem Galaxy Tab S8 / S7 11" (2022 / 2020)
 - Voller Zugriff auf alle Funktionen mit präzisen Ausschnitten
+- Vollständig kompatibel mit dem S-Pen und verfügt über eine integrierte Stiftlagerung.
 - Mil-Grade-Zertifizierung mit Luftpolstertechnologie in den Ecken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Optimiert für maximale Leistung - Durch die Nutzung des TYP-C-Anschlusses deines Smartphones eliminiert der Kishi V2 die Eingabe-Latenz und ermöglicht eine reaktionsschnelle, nahtlose Steuerung - und mit einer Passthrough-Ladefunktion, kannst du dein Smartphone beim Gaming aufladen.
-- Mobile Gaming in Konsolen-Qualität: Der Razer Kishi entspricht ab Werk den Standards kompetitiver Konsolen-Controller mit modernsten Microswitch-Tasten, analogen Triggern und programmierbaren Makros
-- Perfekte Passform dank flexiblem Mittelteil: Der Razer Kishi V2 verfügt über ein robustes, ausziehbares Mittelteil, das perfekt für die meisten beliebten IPhone- ist und ihnen sicheren Halt bietet, damit dir im Spiel nicht plötzlich dein Handy wegrutscht
-- Benötigt - Android 12 oder höher | iOS 17
-- Virtual-Controller-Modus - Mit dem Virtual-Controller-Modus kannst du die Touchscreen-Steuerung auf den Kishi V2 übertragen.
 - Powered by Razer Nexus App – Starte das Spiel, passe die Steuerung an, zeichne das Gameplay auf und halte dich mit der App auf dem Laufenden, über eine spezielle Taste die einfach aufgerufen werden kann.
+- Mobile Gaming in Konsolen-Qualität: Der Razer Kishi entspricht ab Werk den Standards kompetitiver Konsolen-Controller mit modernsten Microswitch-Tasten, analogen Triggern und programmierbaren Makros
+- Virtual-Controller-Modus - Mit dem Virtual-Controller-Modus kannst du die Touchscreen-Steuerung auf den Kishi V2 übertragen.
+- Perfekte Passform dank flexiblem Mittelteil: Der Razer Kishi V2 verfügt über ein robustes, ausziehbares Mittelteil, das perfekt für die meisten beliebten IPhone- ist und ihnen sicheren Halt bietet, damit dir im Spiel nicht plötzlich dein Handy wegrutscht
 - PC- und Konsolen-Spiele streamen: Mit deinem Razer Kishi kannst du aktuelle PC- und Konsolen-Spiele direkt auf deinem Handy spielen, wobei wir die größten Streaming-Apps unterstützen. Du kannst von deinem eigenen Gerät steamen oder über die Cloud spielen (Drittanbieter-Hardware und -Services unter Umständen erforderlich).
+- Benötigt - Android 12 oder höher | iOS 17
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CY2KVBS9{{</world>}}

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - elegantes Design
-- Edelstahl
 - Touchscreen-Farbdisplay
+- Edelstahl
 - Kitchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hohe Geschwindigkeit: Ideal geeignet für 4K UHD- und Serienbildaufnahmen mit bis zu 130 MB/s Transfergeschwindigkeit (UHS-I U3)
-- Jede Menge Speicher: Wählen Sie zwischen 32GB, 64GB, 128GB und 256GB Speicherkapazität
-- Zuverlässige und robuste Speicherkarte mit hohen Geschwindigkeiten für den täglichen Einsatz in Digitalkameras
 - Optimal für Reisen: übersteht bis zu 72 Stunden in Salzwasser und Temperaturen von -25°C bis +85°C (in Betrieb)
+- Zuverlässige und robuste Speicherkarte mit hohen Geschwindigkeiten für den täglichen Einsatz in Digitalkameras
+- Jede Menge Speicher: Wählen Sie zwischen 32GB, 64GB, 128GB und 256GB Speicherkapazität
 - Kompatibel mit digitalen Spiegelreflex- & spiegellosen Systemkameras. Nicht kompatibel mit Smartphones, hierfür empfehlen wir die microSD EVO Select
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

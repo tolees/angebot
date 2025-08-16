@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- New Store Stock
 - manufacturer: UNION SQUARE
 - brand: BMG RIGHTS MANAGEMENT
+- New Store Stock
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09Z636RNT{{</world>}}

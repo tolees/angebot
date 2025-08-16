@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Intelligente Energiespartechnologie für längere Arbeitszeit
 - Robuster Schutz gegen Display-Kratzer
-- Benachrichtigungen erhalten ohne gestresst zu werden
 - Zeitloses Design
+- Benachrichtigungen erhalten ohne gestresst zu werden
 - Beeindruckende Haptik
 
 [🛒 Hier!!]({{< param buyurl >}})

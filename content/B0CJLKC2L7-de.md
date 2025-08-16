@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Schicksal führt zwei legendäre Helden zusammen, oder ist es doch eine unheilvollere Macht ...?
-- Erlebe einzigartig dynamische, rundenbasierte rasante Kämpfe. Nutze das Schlachtfeld als deine Waffe, denn hier ist alles möglich
 - An jeder Ecke warten unvergessliche Momente
+- Erlebe einzigartig dynamische, rundenbasierte rasante Kämpfe. Nutze das Schlachtfeld als deine Waffe, denn hier ist alles möglich
 - Tobe dich in Japan aus und erkunde Hawaii oder umgekehrt, denn in diesem gewaltigen Abenteuer überquerst du den Pazifik
 
 [🛒 Hier!!]({{< param buyurl >}})

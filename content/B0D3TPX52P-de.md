@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flacher Riemen mit ergonomischer Teilung und innerer Textur
 - Superweiche Dichtungen mit neuem Kerbendesign
+- Flacher Riemen mit ergonomischer Teilung und innerer Textur
 - Druckmechanismus zum einfachen Einstellen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

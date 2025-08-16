@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Tolle Detektiv-Gimmicks zum Sammeln.
+- Besondere Mechanik: Jeden Tag muss ein Rätsel in der Geschichte gelöst werden, um das nächste Türchen zu finden.
 - Adventskalender 2024 mit spannender Detektiv-Geschichte zum Knobeln.
 - Die drei !!! ermitteln im Tierheim.
-- Besondere Mechanik: Jeden Tag muss ein Rätsel in der Geschichte gelöst werden, um das nächste Türchen zu finden.
 - Super Geschenk für Hobbydetektivinnen und -detektive ab 8 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stoßgedämpfte Sohle
 - Leichte Schuhe
 - Breathable
 - Herausnehmbare Innensohle
+- Stoßgedämpfte Sohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D6NFN6C5{{</world>}}

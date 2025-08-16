@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Schuhweite: Medium
 - Verschluss: Gummi
-- Innenmaterial: Synthetik
 - Absatzform: Flach
+- Innenmaterial: Synthetik
 - Obermaterial: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

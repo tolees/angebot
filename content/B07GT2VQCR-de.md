@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke Beauty-Produkte
-- Lippenfärbung
 - Marke Beauty-Produkte Bourjois
+- Lippenfärbung
+- Marke Beauty-Produkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07GT2VQCR{{</world>}}

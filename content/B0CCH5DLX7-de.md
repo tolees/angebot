@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spieldauer: ca. 120 Minuten
 - Spieleranzahl: 1 - 4 Spieler
-- Bei diesem kooperativen Kennerspiel schlüpfen die Mitspielenden in die Rolle der global Player und versuchen gemeinsam das große Ziel zu erreichen: Die weltweiten Emissionen auf Null zu reduzieren, um damit die Erderwärmung zu stoppen!
 - Ein hochaktuelles Thema, brillant umgesetzt mit einem eingängigen Kartenmechanismus und sehr starkem Bezug zur Realität
+- Spieldauer: ca. 120 Minuten
+- Bei diesem kooperativen Kennerspiel schlüpfen die Mitspielenden in die Rolle der global Player und versuchen gemeinsam das große Ziel zu erreichen: Die weltweiten Emissionen auf Null zu reduzieren, um damit die Erderwärmung zu stoppen!
 - Empfohlenes Alter: ab 10 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})

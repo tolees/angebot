@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Separate Crimpstelle für Zugentlastung (cable clip)
-- Crimpt sicher geschirmte und nicht geschirmte Westernstecker RJ45 (8P8C)
 - Genaues Verpressen durch Parallelcrimp und gleichbleibend hohe Crimpqualität durch Zwangssperre (entriegelbar)
-- All-in-One-Werkzeug für Kabelschnitt, Rundkabel-Abmantelfunktion und Crimpen gängiger RJ45-Stecker
+- Separate Crimpstelle für Zugentlastung (cable clip)
 - Mit verstellbarem Halteriegel, für alle gängigen RJ45-Stecker mit geschlossenen und nicht geschlossenen Gehäusen
+- All-in-One-Werkzeug für Kabelschnitt, Rundkabel-Abmantelfunktion und Crimpen gängiger RJ45-Stecker
+- Crimpt sicher geschirmte und nicht geschirmte Westernstecker RJ45 (8P8C)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B3RJMR4J{{</world>}}

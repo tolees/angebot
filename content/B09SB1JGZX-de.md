@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Sustained Performance for RAW 8K+
 - Exceptional Processing Power
-- Read Speed 1785 MB/s - Write Speed 850 MB/s
 - CFexpress 2.0 | Type B
+- Read Speed 1785 MB/s - Write Speed 850 MB/s
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09SB1JGZX{{</world>}}

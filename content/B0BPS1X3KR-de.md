@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Beginnen Sie das Jahr mit Ihrem 12-Monate Wochenplaner für das gesamte Jahr, Januar bis Dezember 2024
-- Der Kalender verfügt über abgerundete Ecken, einen elastischen Verschluss, ein Lesezeichen mit Band und einen Vermerk "bei Verlust" auf der ersten Seite. 70 g/m² elfenbeinfarbenes, säurefreies Papier
 - Im Lieferumfang enthalten ist ein Wochenplanermit Platz für Notizen, mit Softcover, Large 13x21, Farbe Schwarz
 - Auf der linken Seite befindet sich eine Seite mit den Terminen der Woche und auf der rechten Seite eine linierte Seite, auf der Notizen und Ideen festgehalten werden können
+- Der Kalender verfügt über abgerundete Ecken, einen elastischen Verschluss, ein Lesezeichen mit Band und einen Vermerk "bei Verlust" auf der ersten Seite. 70 g/m² elfenbeinfarbenes, säurefreies Papier
+- Beginnen Sie das Jahr mit Ihrem 12-Monate Wochenplaner für das gesamte Jahr, Januar bis Dezember 2024
 - Nützliche Tools: Kalender, Reiseplaner, Ideen und Ziele, linierte Seiten für Notizen. Mit Aufklebern zur Personalisierung Ihrer Einträge und Jahresaufklebern für den Buchrücken
 
 [🛒 Hier!!]({{< param buyurl >}})

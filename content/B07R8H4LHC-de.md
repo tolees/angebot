@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserabweisende und atmungsaktive Wanderhose für unterschiedliche Outdoor-Aktivitäten wie Trekking und Hiking oder für den Alltag, Besonders für kalte Tage
-- Lieferumfang: 1 x Maier Sports Herrmann, PFC-frei, Passform: Regular Fit, Farbe: Blau, Größe: 98 (W33/L34)
 - Angenehmer Tragekomfort und hohe Bewegungsfreiheit dank 2-Wege-Stretch Material, Elastischer Bund mit Gürtelschlaufen für optimale Passform
-- PFC-freie Imprägnierung, 4 geräumige Taschen mit Reißverschluss, Aufgeraute Innenseite für mehr Wärme, PES-Anteil des Materials aus recyceltem Plastik
 - Elastisches mSTRETCH Pro 2 für angenehmen Tragekomfort und viel Bewegungsfreiheit, Kein unangenehmes Kältegefühl dank schnelltrocknender Dryprotec Technologie
+- Lieferumfang: 1 x Maier Sports Herrmann, PFC-frei, Passform: Regular Fit, Farbe: Blau, Größe: 98 (W33/L34)
+- PFC-freie Imprägnierung, 4 geräumige Taschen mit Reißverschluss, Aufgeraute Innenseite für mehr Wärme, PES-Anteil des Materials aus recyceltem Plastik
+- Wasserabweisende und atmungsaktive Wanderhose für unterschiedliche Outdoor-Aktivitäten wie Trekking und Hiking oder für den Alltag, Besonders für kalte Tage
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07R8H4LHC{{</world>}}

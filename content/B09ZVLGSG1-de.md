@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Flach
 - Nicht wasserfest
+- Absatzform: Flach
 - Sohle: Thermoplastische Elastomere
 
 [🛒 Hier!!]({{< param buyurl >}})

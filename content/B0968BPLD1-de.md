@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - SOS Taste - Bis zu fünf hinterlegte Nummern werden im Notfall nacheinander angerufen
-- Hörgerätekompatibel – keine störenden Rückkopplungen beim Telefonieren
 - Großes Display - 6,0cm / 2,4" TFT Farbdisplay mit großen Symbolen und entprechender Schrift, für einfache Lesbarkeit
 - Große getrennte Tasten - Übersichtlich und einfach zu bedienen
 - Displaybeleuchtung – Hintergrundbeleuchtung kann individuell in fünf Schritten angepasst werden
+- Hörgerätekompatibel – keine störenden Rückkopplungen beim Telefonieren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0968BPLD1{{</world>}}

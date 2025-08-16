@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bemessungswerte: 40 A Bemessungsstrom und 30 mA Bemessungsfehlerstrom
-- Normenkonformität: Entspricht den Normen DIN VDE 0100-410 und DIN VDE 0100-530.
 - Polzahl: 4-Polige Ausführung, geeignet für dreiphasige Netze mit Neutralleiter.
+- Normenkonformität: Entspricht den Normen DIN VDE 0100-410 und DIN VDE 0100-530.
 - Fehlerstromerkennung: Erkennt sinusförmige Wechsel- und pulsierende Gleichfehlerströme.
+- Bemessungswerte: 40 A Bemessungsstrom und 30 mA Bemessungsfehlerstrom
 - Anwendungsbereiche: Ideal für Wohn-, Gewerbe- und Industrieanwendungen.
 
 [🛒 Hier!!]({{< param buyurl >}})

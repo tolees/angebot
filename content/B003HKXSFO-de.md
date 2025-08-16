@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langanhaltende Textur wirkt wischfest und langanhaltend - Für ein perfektes Augen-Make-Up ohne Verschmieren
-- Der Augenbrauenstift zum Anspitzen gibt die Farbe dezent ab für einen natürlichen Look
 - Lieferumfang: 1 x 1,1 g ARTDECO Eyebrow Pencil in der Farbe Nr. 3 - soft brown / Augenbrauenstift braun
+- Der Augenbrauenstift zum Anspitzen gibt die Farbe dezent ab für einen natürlichen Look
 - Augenbrauen Stil "Classic und Define": Der Eyebrow Pen ermöglicht eine exakte Linienzeichnung an den Augenbrauen und eigenet sich ideal zur Lückenauffüllung und Imitation der feinen Härchen
+- Langanhaltende Textur wirkt wischfest und langanhaltend - Für ein perfektes Augen-Make-Up ohne Verschmieren
 - Anwendung: Augenbrauen mit dem Stift nachziehen, anschließend mit einem Wimpernbürstchen in Form bringen
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Basic Pullover in Unifarben mit tonaler Logo-Stickerei auf der Brust. Mit Rippbündchen am Saum
-- Aus weichem Strickmaterial, ideal zum Überziehen im Herbst, Winter & Frühling
-- Passform: Regular Fit, Rückenlänge bei Größe L ca. 72 cm
 - Wenn Sie sich für unsere Baumwollprodukte entscheiden, unterstützen Sie unsere Investition in die Mission von Better Cotton. „Better Cotton“ wird über ein Massenbilanzsystem bezogen und ist nicht physisch bis zum Endprodukt rückverfolgbar. Weitere Informationen finden Sie unter bettercotton.org/massbalance.
+- Passform: Regular Fit, Rückenlänge bei Größe L ca. 72 cm
 - Langärmlig mit V-Ausschnitt
+- Aus weichem Strickmaterial, ideal zum Überziehen im Herbst, Winter & Frühling
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D8C417KZ{{</world>}}

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial aus Leder.
-- OrthoLite-Einlegesohle.
 - Sehr abriebfeste Gummi-Außensohle.
+- OrthoLite-Einlegesohle.
 - Sehr abriebfeste Gummi-Außensohle.
 
 [🛒 Hier!!]({{< param buyurl >}})

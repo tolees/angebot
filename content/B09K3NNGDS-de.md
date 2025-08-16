@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Low Profile-Aluminium-Kühlkörper aus Graphen
 - Unglaubliche PCIe Gen 4x4 NVMe-Leistung
+- Low Profile-Aluminium-Kühlkörper aus Graphen
 - Schlanker M.2 2280-Formfaktor
 
 [🛒 Hier!!]({{< param buyurl >}})

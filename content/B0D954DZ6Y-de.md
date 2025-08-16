@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Anlässe: Freizeit
-- Label Patches auf Ärmel und Rücken
-- mit Necktape
-- V-Ausschnitt mit Rippblende
 - All Over Print
+- V-Ausschnitt mit Rippblende
+- mit Necktape
+- Label Patches auf Ärmel und Rücken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D954DZ6Y{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inklusive Batman-Figur aus Metall
 - Für Jungen und Mädchen ab 8 Jahren
+- Inklusive Batman-Figur aus Metall
 - Mit Freilauf-System, Vorder- und Rücklicht und Türöffnung
-- Batmobil 1:18 The Batman-Film 2022
 - Hergestellt aus Druckguss mit Gummibereifung
+- Batmobil 1:18 The Batman-Film 2022
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09PV8SBC1{{</world>}}

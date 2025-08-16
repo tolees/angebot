@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stecken, klicken, schrauben - ganz ohne Klebstoff entsteht der Roboterarm in diesem hochwertigen Modellbausatz
-- Die altersgerechte Anleitung führt in die Welt der Robotik ein und erklärt das Zusammenbauen detailliert und Schritt für Schritt
-- Genau das Richtige für Kinder von 10 bis 14 Jahren, die Lust am Bauen haben
-- Ein KOSMOS Experimentierkasten für alle, die Technik entdecken und erleben wollen
 - Die 5 Motoren lassen sich über eine Steuereinheit bedienen und machen eine präzise Bewegung um bis zu 300° möglich. Im Dunkeln kommt die LED-Beleuchtung zum Einsatz
+- Stecken, klicken, schrauben - ganz ohne Klebstoff entsteht der Roboterarm in diesem hochwertigen Modellbausatz
+- Ein KOSMOS Experimentierkasten für alle, die Technik entdecken und erleben wollen
+- Genau das Richtige für Kinder von 10 bis 14 Jahren, die Lust am Bauen haben
+- Die altersgerechte Anleitung führt in die Welt der Robotik ein und erklärt das Zusammenbauen detailliert und Schritt für Schritt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MK45L7T{{</world>}}

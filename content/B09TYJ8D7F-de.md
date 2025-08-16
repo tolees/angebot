@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Integrierte Mesh- und Bluetooth-Konnektivität für die Kommunikation über Ihr Smartphone oder mit anderen Sena-ausgestatteten Fahrern.
-- Premium-Polsterung mit akustischer Dämpfung für ein unvergleichliches Audioerlebnis.
 - SOUND von Harman Kardon Lautsprecher und Mikrofon für hervorragende Klarheit bei eingehenden und ausgehenden Gesprächen.
+- Premium-Polsterung mit akustischer Dämpfung für ein unvergleichliches Audioerlebnis.
 - ECE-zertifizierter Integralhelm
 - Das LED-Rücklicht sorgt für mehr Sichtbarkeit bei Tag und Nacht. Einklappbares Sonnenschutzvisier hinter dem klaren Gesichtsschutz für bessere Sicht bei unterschiedlichen Lichtverhältnissen. Magnetischer Pogo-Ladeanschluss
 

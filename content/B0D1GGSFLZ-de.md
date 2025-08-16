@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 14 Prozessorkerne (6P+8E), 20 Threads, 24MB Smart Cache, 35W TDP
-- Qualifiziert für den 24×7-Betrieb
-- 13. Generation Intel Core i7 mit integrierter Intel Iris XE-Grafik
 - Zwei HDMI 2.1- und Thunderbolt4-Anschlüsse bieten Unternehmen Flexibilität für den Anschluss von Bildschirmen mit bis zu 4K Auflösung
+- 13. Generation Intel Core i7 mit integrierter Intel Iris XE-Grafik
+- 14 Prozessorkerne (6P+8E), 20 Threads, 24MB Smart Cache, 35W TDP
 - Blitzschnelle kabelgebundene und kabellose Verbindungen mit bis zu 2,5 Gbit/s Intel Ethernet-Anschluss und Intel Wi-Fi 6E (Gig+)
+- Qualifiziert für den 24×7-Betrieb
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D1GGSFLZ{{</world>}}

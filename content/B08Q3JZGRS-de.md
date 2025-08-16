@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus pflegeleichte, weicher Polyester-Viskose Mischung für einen angenehmen Tragekomfort.
-- Passform: Relaxed Fit - normale Bundhöhe, lockeres Bein, schmal zulaufende Beinöffnung in Ankle-Länge. Beininnenlänge bei allen Größen ca. 71 cm.
 - Gemütliche Stoffhose im Chino-Style mit seitlichen Eingriffstaschen & Gürtelschlaufen am elatischen Hosenbund.
+- Passform: Relaxed Fit - normale Bundhöhe, lockeres Bein, schmal zulaufende Beinöffnung in Ankle-Länge. Beininnenlänge bei allen Größen ca. 71 cm.
+- Aus pflegeleichte, weicher Polyester-Viskose Mischung für einen angenehmen Tragekomfort.
 - Waschhinweis: Keine chemische Reinigung möglich, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei niedriger Temperatur bügeln (110° C), Schonwaschgang bei max. 30°C
 - Ideal für die Freizeit, im Büro, auf der Arbeit oder festliche Anlässe wie Business, Konfirmation, Kommunion, Hochzeit, Taufe, Abschlussball und Geburtstag.
 

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Elefanten Mädchen Figur
-- Circa 6 cm groß
-- Mit Grill, Tisch und Stühlen und zahlreichem Grillzubehör
 - Für Kinder ab 3 Jahren geeignet
+- Circa 6 cm groß
+- Mit Elefanten Mädchen Figur
+- Mit Grill, Tisch und Stühlen und zahlreichem Grillzubehör
 - Kopf, Arme und Beine sind beweglich
 
 [🛒 Hier!!]({{< param buyurl >}})

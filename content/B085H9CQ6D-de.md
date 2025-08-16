@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang: 1x siku 5608 Bauernhof, Materil: Kunststoff, Inkl. John Deere Gator 1:32, Material: Metall/Kunststoff, Abmessungen: 39,6 x 21,3 x 51,9 cm, Gewicht: 1,374 kg, Farbe: Multicolor, Serie: SIKU WORLD
 - Ideal als Geschenk für jeden kleinen und großen Landwirtschaftsfan geeignet
-- Umfangreiche Funktionen: Kran für Heuballen, John Deere Gator mit Milchkannen, 2 Kühe, Modulares Stecksystem für kreative Konstruktionen
 - Realitätsnahe Nachbildung eines Bauernhofs zum weiteren Ausbau der Stadt
+- Umfangreiche Funktionen: Kran für Heuballen, John Deere Gator mit Milchkannen, 2 Kühe, Modulares Stecksystem für kreative Konstruktionen
 - Nutzung als einzelnes Spielelement möglich, Kompatibel mit anderen Sets der SIKU WORLD, Ideale Ergänzung zum Pferdehof und dem Set Feldwege und Wald
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

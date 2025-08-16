@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang Amazon Exclusive: 1x Wasserwaage magnetisch, Blister
 - Einfach Ablesen in allen Arbeitspositionen dank einzigartigem Sichtfenster an der Stirnseite
-- Praktische Befestigungsmöglichkeit auf Metalloberflächen durch 3 eingelassene Ferrit Magnete auf der Stirnseite
 - Extrem vielseitige und kompakte Wasserwaage, die bequem in jeder Werkzeugtasche verstaut werden kann
+- Praktische Befestigungsmöglichkeit auf Metalloberflächen durch 3 eingelassene Ferrit Magnete auf der Stirnseite
 - Die rutschfesten Endkappen helfen, Abweichungen beim Ablesen zu vermeiden und sorgen für zusätzliche Stabilität während der Arbeit.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

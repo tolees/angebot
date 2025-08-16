@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 77326
-- Zubehör
 - Fjällräven Unisex Lappland Fleece StrickMütze, Grün (Dark Olive 633), Einheitsgröße EU
+- Zubehör
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00XL5PJH0{{</world>}}

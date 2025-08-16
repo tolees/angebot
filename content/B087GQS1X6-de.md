@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MIX & MATCH: Das puristische und exklusive Design sowie der Kontrast der authentischen mattschwarzen Schieferoptik machen alle Trinkgläser zu einem echten Highlight und passen perfekt zum Manufacture Rock Geschirr von Villeroy & Boch
-- EXQUISITES GLÄSERSET: Das Villeroy & Boch Manufacture Rock Rotweinglas Set, bestehend aus 4 Gläsern für Rotwein, besticht durch seinen puristischer Look in rauer Schieferoptik
 - HANDVEREDELT: Langlebiges, brillantes Kristallglas mit matt-schwarzer Veredelung für ein luxuriöses Erlebnis, einfach per Handwäsche zu pflegen
 - FÜR WEINKENNER: Die Rotweingläser der Manufacture Rock Kollektion bestechen durch ein raffiniert gestaltetes Kristallglas mit einem modernen, schwarz-matten Stiel - so kann der Rotwein am Abend zelebriert werden
+- MIX & MATCH: Das puristische und exklusive Design sowie der Kontrast der authentischen mattschwarzen Schieferoptik machen alle Trinkgläser zu einem echten Highlight und passen perfekt zum Manufacture Rock Geschirr von Villeroy & Boch
 - LIEFERUMFANG: 1x Villeroy & Boch Manufacture Rock Rotweinglas-Set 4-tlg., Füllmenge: 380 ml, Gewicht: 700 g, Material: Kristallglas, Farbe: klar/mattschwarz (Art.-Nr. 11-3798-8110)
+- EXQUISITES GLÄSERSET: Das Villeroy & Boch Manufacture Rock Rotweinglas Set, bestehend aus 4 Gläsern für Rotwein, besticht durch seinen puristischer Look in rauer Schieferoptik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B087GQS1X6{{</world>}}

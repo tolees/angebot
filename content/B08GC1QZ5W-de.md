@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Max. Kapazität ca. 7.6 l, Maximaltemperatur bis zu 240 °C
 - Zusätzlich enthalten: Grillrost
+- Max. Kapazität ca. 7.6 l, Maximaltemperatur bis zu 240 °C
 - Heißluftfritteuse mit 2400 W Leistung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bitte beachten Sie, dass dies ein strombetriebenes Modell ist, keine Batteriekamera, Wenn Sie ein Akku-Kamera benötigen, wählen Sie bitte die Tapo C420S2 oder Tapo C425
-- Das Tapo C500 hat keinen LAN-Anschluss und unterstützt nur drahtlose Verbindungen, Größe: 123,84*123*90mm(ohne Montagevorlage) 163,6*138*90mm(mit Montagevorlage), Wir empfehlen das Modell Tapo C510W und C520WS, wenn Sie eine 2K-Auflösung und Nachtsicht in Vollfarbe benötigen, Wenn Sie auch eine Ethernet-Verbindung benötigen, wählen Sie bitte Tapo C520WS
-- 360° Sichtbereich - Bietet 360° horizontalen und 130° vertikalen Bereich, um jeden Winkel abzudecken
-- Nachtsicht (bis zu 30m) - Sorgt für Ihre Sicherheit durch eine klare Sichtweite von bis zu 30m auch bei völliger Dunkelheit
-- Mehrere Installationsoptionen - Verwenden Sie die Montageschrauben, die Schablone und die Schlaufen, um die Kamera an einer beliebigen Wand, Decke oder einem Mast zu befestigen - wo immer Sie wollen
-- Anpassbarer Tonalarm - Zeichnen Sie Ihren individuellen Ton als Alarm auf, um Ihre Nutzungsmöglichkeiten zu erweitern; Zwei-Wege-Audio - Ermöglicht die Kommunikation über ein eingebautes Mikrofon und einen Lautsprecher; IP65 Wasser- und staubgeschützt
 - Personenerkennung und Bewegungsverfolgung - Intelligente künstliche Intelligenz identifiziert eine Person, während sie Bewegungen mit Hochgeschwindigkeitsrotation verfolgt und den Benutzer bei Bedarf benachrichtigt
-- Flexible Speicheroptionen - Speichern Sie aufgezeichnete Videos auf einer installierten microSD-Karte (bis zu 512 GB) oder nutzen Sie den Cloud-Speicherdienst Tapo Care
+- Mehrere Installationsoptionen - Verwenden Sie die Montageschrauben, die Schablone und die Schlaufen, um die Kamera an einer beliebigen Wand, Decke oder einem Mast zu befestigen - wo immer Sie wollen
 - Auflösung: 1080p Full HD(1920 x 1080 px), Wir empfehlen das Modell Tapo C510W, wenn Sie eine 2K-Auflösung und Nachtsicht in Vollfarbe benötigen
+- Flexible Speicheroptionen - Speichern Sie aufgezeichnete Videos auf einer installierten microSD-Karte (bis zu 512 GB) oder nutzen Sie den Cloud-Speicherdienst Tapo Care
 - Physikalischer Sichtschutzmodus - Bewahrt Ihre Privatsphäre, indem das Objektiv durch das Gehäuse physisch blockiert wird
+- Anpassbarer Tonalarm - Zeichnen Sie Ihren individuellen Ton als Alarm auf, um Ihre Nutzungsmöglichkeiten zu erweitern; Zwei-Wege-Audio - Ermöglicht die Kommunikation über ein eingebautes Mikrofon und einen Lautsprecher; IP65 Wasser- und staubgeschützt
+- Das Tapo C500 hat keinen LAN-Anschluss und unterstützt nur drahtlose Verbindungen, Größe: 123,84*123*90mm(ohne Montagevorlage) 163,6*138*90mm(mit Montagevorlage), Wir empfehlen das Modell Tapo C510W und C520WS, wenn Sie eine 2K-Auflösung und Nachtsicht in Vollfarbe benötigen, Wenn Sie auch eine Ethernet-Verbindung benötigen, wählen Sie bitte Tapo C520WS
+- Nachtsicht (bis zu 30m) - Sorgt für Ihre Sicherheit durch eine klare Sichtweite von bis zu 30m auch bei völliger Dunkelheit
+- Bitte beachten Sie, dass dies ein strombetriebenes Modell ist, keine Batteriekamera, Wenn Sie ein Akku-Kamera benötigen, wählen Sie bitte die Tapo C420S2 oder Tapo C425
+- 360° Sichtbereich - Bietet 360° horizontalen und 130° vertikalen Bereich, um jeden Winkel abzudecken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BQJVKVQR{{</world>}}

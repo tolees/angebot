@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Produziert unter strengen Kontrollen
-- Zubehör für Makita Werkzeug
-- 1Zwei Stück
 - 8mm
+- 1Zwei Stück
+- Zubehör für Makita Werkzeug
 - Packung die Größe: 22.2 L x 5.4 H x 16.2 W (cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

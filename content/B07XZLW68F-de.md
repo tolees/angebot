@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnittstelle: Serial ATA III / 6 Gbps (Abwärtskompatibel mit SATA-II)
-- Lesegeschwindigkeit bis zu 535 MB/s, Schreibgeschwindigkeit bis zu 500 MB/s
-- Speicherkapazität: 250GB
 - Format: 2.5 Zoll
+- Speicherkapazität: 250GB
+- Lesegeschwindigkeit bis zu 535 MB/s, Schreibgeschwindigkeit bis zu 500 MB/s
+- Schnittstelle: Serial ATA III / 6 Gbps (Abwärtskompatibel mit SATA-II)
 - Einfacher und kostengünstiger HDD-Austausch für Ihr vorhandenes PC-System
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Leichtgewicht】Das Gewicht des gesamten Fahrwerks beträgt nur 10 g, und das leichte Design wird den Flug des Mini 2 / Mavic Mini nicht zusätzlich belasten
 - 【Effektiver Schutz】Wenn Mini 2 / Mavic Mini startet oder auf unebenem Boden landet, kann das Fahrwerk den Aufprall verringern, die Drohne reibungslos landen lassen und den Körper und die Kardankamera der Drohne schützen, um Schäden zu vermeiden.
-- 【Effektive Höhe】Dieses Fahrwerk kann den Abstand zwischen dem Mini 2 / mavic mini und dem Boden effektiv um 15 mm vergrößern und sicherstellen, dass die Drohne keine Steine, Blumen und andere Fremdkörper berührt
-- 【Zusammenklappbares Design】Dieses Fahrwerk verfügt über ein faltbares und schnell lösbares Design, das bequem zu tragen und einfach zu installieren oder zu demontieren ist.
 - 【Anwendbare Modell】Die Fahrwerksbeine wurden speziell für Mini 2 / Mavic Mini entwickelt und ist sehr gut für den Einsatz geeignet
+- 【Effektive Höhe】Dieses Fahrwerk kann den Abstand zwischen dem Mini 2 / mavic mini und dem Boden effektiv um 15 mm vergrößern und sicherstellen, dass die Drohne keine Steine, Blumen und andere Fremdkörper berührt
+- 【Leichtgewicht】Das Gewicht des gesamten Fahrwerks beträgt nur 10 g, und das leichte Design wird den Flug des Mini 2 / Mavic Mini nicht zusätzlich belasten
+- 【Zusammenklappbares Design】Dieses Fahrwerk verfügt über ein faltbares und schnell lösbares Design, das bequem zu tragen und einfach zu installieren oder zu demontieren ist.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B084WXBN8P{{</world>}}

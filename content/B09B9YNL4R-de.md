@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trefl
+- Entdecke das Geheimnis dieses Puzzles.
 - In der "Hidden Shape" Reihe von Trefl verbergen sich 10 einzigartige Formen, die man erst entdecken kann, wenn man das Puzzle vollständig zusammensetzt.
 - Das ist doppelter Puzzlespaß!
-- Entdecke das Geheimnis dieses Puzzles.
+- Trefl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09B9YNL4R{{</world>}}

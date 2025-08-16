@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erhältlich in einer breiten Palette von Farbtönen
-- Sorgt bis zu 10 Stunden intensive und langanhaltende Farbe
 - Lässt sich dank der hochwirksamen Farbe in nur einem Zug präzise auftragen
+- Sorgt bis zu 10 Stunden intensive und langanhaltende Farbe
+- Erhältlich in einer breiten Palette von Farbtönen
 - Die feuchtigkeitsspendende Wirkung sorgt dafür, dass sich die Lippen den ganzen Tag lang gut anfühlen
 - Ein leichtes Tragegefühl dank der cremigen Formel
 

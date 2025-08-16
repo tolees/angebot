@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ideal für Action-Kameras, Drohnen und Android-Geräte
-- Überragende Übertragungsgeschwindigkeiten von bis zu 170MB/s138
 - Langlebig
+- Überragende Übertragungsgeschwindigkeiten von bis zu 170MB/s138
 - Unterstützt die A2 App-Leistungsklasse
 - U3- und V30-Geschwindigkeitsleistung
 

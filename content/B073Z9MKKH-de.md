@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Unterstützte Spielemulatoren】 Der USB Gamepad-Joystick funktioniert mit den meisten Emulatoren. USB Controller für SNES NES Emulator / Joypad / USB Gamepad / Super SNES Controller. Hinweis: Es handelt sich um einen USB-Controller eines Drittanbieters, nicht um einen Original-SNES / NES-Controller. Aber es funktioniert phänomenal mit der Raspberry Pi-Spielemulation und so weiter.
 - 【Einfaches USB-Plug-and-Play】Der USB Gamepad-Joystick 2er-Pack, 1,5 m lange USB-Kabel, Plug-and-Play-Betriebssystem, schnelle Verbindung und hohe Leistung, keine zusätzlichen Treiber erforderlich.
-- 【Produktservice】Wir bieten Ihnen einen freundlichen Kundenservice. Wenn Sie während des Gebrauchs Probleme haben, kontaktieren Sie uns bitte über Amazon, um diese so schnell wie möglich zu lösen.
-- 【Retro USB SNES Gamepad Compatibility】USB Classic Controller Gamepad kompatibel mit Windows 98 / ME / Vista / 2000/2003 / XP / 7/8 / 8.1 / 10, Mac OS X und höher, Raspberry Pi; Raspberry PI 2 Modell B; Retro Pi OS. HINWEIS: Für Tesla Model 3 funktioniert dies nicht.
 - 【Hohe Empfindlichkeit, keine Verzögerung】 Das snes controller usb verfügt über supersensitive Tasten zur Präzisionssteuerung: 6 Auslösetasten, eine Starttaste und eine Auswahltaste, Bewegungssteuerungskreuz. Spielen Sie Ihre Lieblingsspiele mit klassischem Retro-Feeling. Sehr gut geeignet für die Hände, aber auch für die Aktion von zwei Spielern.
+- 【Retro USB SNES Gamepad Compatibility】USB Classic Controller Gamepad kompatibel mit Windows 98 / ME / Vista / 2000/2003 / XP / 7/8 / 8.1 / 10, Mac OS X und höher, Raspberry Pi; Raspberry PI 2 Modell B; Retro Pi OS. HINWEIS: Für Tesla Model 3 funktioniert dies nicht.
+- 【Produktservice】Wir bieten Ihnen einen freundlichen Kundenservice. Wenn Sie während des Gebrauchs Probleme haben, kontaktieren Sie uns bitte über Amazon, um diese so schnell wie möglich zu lösen.
+- 【Unterstützte Spielemulatoren】 Der USB Gamepad-Joystick funktioniert mit den meisten Emulatoren. USB Controller für SNES NES Emulator / Joypad / USB Gamepad / Super SNES Controller. Hinweis: Es handelt sich um einen USB-Controller eines Drittanbieters, nicht um einen Original-SNES / NES-Controller. Aber es funktioniert phänomenal mit der Raspberry Pi-Spielemulation und so weiter.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B073Z9MKKH{{</world>}}

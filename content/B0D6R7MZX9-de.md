@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perfekte Momente einfangen - Mit der Dreifach-Hauptkamera, bestehend aus 13+2+0,3 Megapixeln, entstehen gestochen scharfe Fotos und Videos, die Ihre Erinnerungen auch in HD lebendig machen. Die 8 MP Frontkamera zaubert zudem hochwertige Selfies.
 - Bediensicherheit und Unterstützung - Das emporiaSMART.6lite wird mit einem umfangreichen Handbuch und einem Smartcover mit 4 Tasten geliefert. Zusätzlich bietet der emporiaCOACH verständliche Anleitungen für den Umgang mit dem Smartphone.
 - Komfortable Nutzung - Das emporiaSMART.6lite mit seinem handlichen 5,5-Zoll-Display und dem Smartcover bietet eine ideale Größe und maximale Bediensicherheit. Die Ladeschale ermöglicht einfaches Laden und angenehmes Freisprechen.
+- Perfekte Momente einfangen - Mit der Dreifach-Hauptkamera, bestehend aus 13+2+0,3 Megapixeln, entstehen gestochen scharfe Fotos und Videos, die Ihre Erinnerungen auch in HD lebendig machen. Die 8 MP Frontkamera zaubert zudem hochwertige Selfies.
 - Optimale Sicherheit - Der Fingerabdrucksensor und die NFC-Technologie gewährleisten maximale Sicherheit für Ihre Daten und ermöglichen kontaktloses Bezahlen. Sicher und bequem!
 - Schnelle Hilfe auf Knopfdruck - Durch das Drücken der No-Panic-Taste werden automatisch 5 Notrufnummern nacheinander angerufen. Sobald der Notruf bestätigt wurde, wird eine Notfall-SMS an Ihre gespeicherten Nummern gesendet.
 

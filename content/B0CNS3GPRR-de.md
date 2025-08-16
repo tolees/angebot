@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gebürstetes Material mit weicher Innenseite
-- Locker geschnitten
 - Futter Kapuze aus gleichem Material
+- Locker geschnitten
+- Gebürstetes Material mit weicher Innenseite
 - In den Stoff gestanzter Print mit 3D-Look
 
 [🛒 Hier!!]({{< param buyurl >}})
