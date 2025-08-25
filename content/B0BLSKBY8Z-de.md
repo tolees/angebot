@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- herausnehmbares Laptopfach
 - bequemes Tragesystem mit breiten Gurten
+- herausnehmbares Laptopfach
 - Laptoprucksack für Freizeit und Büro
 - PFC-frei
 - bluesign-zertifiziert

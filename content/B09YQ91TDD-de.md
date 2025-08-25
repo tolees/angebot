@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastischer Bund mit Kordelzug
 - 70 prozent Baumwolle / 30 prozent recycelter Polyester (Fleece)
+- Elastischer Bund mit Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09YQ91TDD{{</world>}}

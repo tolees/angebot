@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Praktischer, durchgehender Reißverschluss, 2 Reißverschlusstaschen für warme Hände und eine sichere Aufbewahrung von Gegenständen
 - Funktioneller Stil und Wärme in Verbindung mit anderen Columbia-Produkten
-- Zusätzlicher Schutz vor Wind und Kälte durch hohen Kragen und kuschelig-leichtes Fleece-Material
-- Lieferumfang: 1x Columbia Herren Fleece-Jacke, Mit durchgehendem Reißverschluss, Fast Trek Light, Farbe: BLACK (Schwarz), Größe: L, Art.-Nr.: 1772751
 - Fleece-Jacke für Herren für das ganze Jahr, Tags- und nachtsüber tragbar, Ideal für Wanderungen, Trailrunning und andere Outdoor-Aktivitäten, Aktive Passform
+- Lieferumfang: 1x Columbia Herren Fleece-Jacke, Mit durchgehendem Reißverschluss, Fast Trek Light, Farbe: BLACK (Schwarz), Größe: L, Art.-Nr.: 1772751
+- Zusätzlicher Schutz vor Wind und Kälte durch hohen Kragen und kuschelig-leichtes Fleece-Material
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0771QSHXN{{</world>}}

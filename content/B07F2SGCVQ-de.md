@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Super geeignet für Sport und Freizeit
 - Leichter, fließender Modal-Stoff
-- Hohe Atmungsaktivität und Strapazierfähigkeit
+- Super geeignet für Sport und Freizeit
 - Lockerer, legerer Schnitt mit 3/4-Ärmeln
 - Made in Europe!
+- Hohe Atmungsaktivität und Strapazierfähigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07F2SGCVQ{{</world>}}

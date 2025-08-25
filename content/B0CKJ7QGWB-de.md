@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Empfohlen für: neutrale Pronation
-- Oberflächenart: Straßenlauf
 - Mit Schnürung
+- Oberflächenart: Straßenlauf
 - Gummizonen für bessere Traktion
+- Empfohlen für: neutrale Pronation
 - Sprengung: 9 mm
 
 [🛒 Hier!!]({{< param buyurl >}})

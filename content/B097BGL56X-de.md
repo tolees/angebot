@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Packungage die Größe: 9.9 L x 25.8 H x 9.9 W (cm)
 - Hält kühl und bequem
 - Bringt Ihnen einen zusätzlichen Komfort
 - Langlebig
+- Packungage die Größe: 9.9 L x 25.8 H x 9.9 W (cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B097BGL56X{{</world>}}

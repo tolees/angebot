@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Zwischensohle ist strapazierfähig genug, um als Außensohle zu dienen
 - Atmungsaktiv
 - Eingespritzte Unitsole bietet ultraleichte Dämpfung
-- Die Zwischensohle ist strapazierfähig genug, um als Außensohle zu dienen
 - Das Obermaterial aus Mesh und Synthetik ist flexibel
 
 [🛒 Hier!!]({{< param buyurl >}})

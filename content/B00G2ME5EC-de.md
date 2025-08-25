@@ -29,15 +29,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gummibeschichteter für besseren Halt und verbesserte Kontrolle
-- Aufbewahrungskasten
-- Leerlaufdrehzahl : 2.000 - 5.300 U/Min.
-- 165-mm-Sägeblatt mit 60 Zähnen
 - Staubabsaugung mit Universaladapter für Staubabsaugsysteme und um 360° drehbarem Absaugstutzen
-- Leistung 1400 W
+- Leerlaufdrehzahl : 2.000 - 5.300 U/Min.
+- Leistung: 1400 W
+- Aufbewahrungskasten
 - Arretierung im Tauchmodus
+- 165-mm-Sägeblatt mit 60 Zähnen
 - Gehrungswinkelbereich : 0 - 48°
 - Schneller Sägeblattwechsel dank leicht zugänglicher Arretierungsvorrichtung
-- Leistung: 1400 W
+- Leistung 1400 W
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00G2ME5EC{{</world>}}

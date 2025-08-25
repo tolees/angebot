@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erweiterungskit: Dieses Produkt ist eine Erweiterung zum LL120 RGB LED 3 Lüfter-Kit mit Lighting Node PRO CO-9050072-WW
-- Steuerung, Anpassung und Synchronisierung: Der im Lieferumfang enthaltene Corsair Lighting Node PRO macht fantastische Lichteffekte mit anderen unterstützten Corsair-Link-Produkten möglich. Erweiterbar mit LL120 RGB Lüfter CO-9050071-WW
 - Doppelte RGB-Lichtschleife: 16 unabhängige RGB-LEDs pro Lüfter, verteilt auf zwei separate Lichtschleifen ermöglichen nahezu endlose Anpassungsoptionen
+- Steuerung, Anpassung und Synchronisierung: Der im Lieferumfang enthaltene Corsair Lighting Node PRO macht fantastische Lichteffekte mit anderen unterstützten Corsair-Link-Produkten möglich. Erweiterbar mit LL120 RGB Lüfter CO-9050071-WW
+- Erweiterungskit: Dieses Produkt ist eine Erweiterung zum LL120 RGB LED 3 Lüfter-Kit mit Lighting Node PRO CO-9050072-WW
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07CYJQY8L{{</world>}}

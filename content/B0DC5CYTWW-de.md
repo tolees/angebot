@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Rippbündchen an Ärmeln und Saum
 - seitliche Einschubtaschen, Back Pocket mit Zipper
-- Kapuze mit Gummizugband
 - aus Interlock-Jersey
+- Kapuze mit Gummizugband
 - Kapuze und unterer Rücken aus Ripstop-Polyester
 
 [🛒 Hier!!]({{< param buyurl >}})

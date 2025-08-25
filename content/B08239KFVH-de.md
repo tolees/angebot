@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trendiger Kombipartner
-- Regular-fit, normale Form
-- T-Shirt: BIG GRAPHIC TEE von Levis
 - Aus reiner Baumwolle
+- T-Shirt: BIG GRAPHIC TEE von Levis
+- Regular-fit, normale Form
 - Mit Logofrontprint
+- Trendiger Kombipartner
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08239KFVH{{</world>}}

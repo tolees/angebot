@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ärmellänge : Langarm
 - Rüschenbesatz
+- Ärmellänge : Langarm
 - Passform : Komfort Fit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

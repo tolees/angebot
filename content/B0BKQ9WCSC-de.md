@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HOCHWERTIGE QUALITÄT: Stylisches Home Accessoires aus robustem Borosilikatglas (transparent) mit wundervoller Lichtbrechung und Sockel aus Premium Porzellan, abgestimmt zur Kollektion Manuafcture Rock
 - LIEFERUMFANG: 1 x Manufacture Rock Home Windlicht Größe M, 12x12x19,5 cm, Farbe: Schwarz, Material: Premium Porzellan und Borosilikatglas (Artikelnummer: 1042898374)
 - WINDLICHT IN SCHIEFEROPTIK: Das Windlicht im angesagten Schiefer Look ist ein echter Hingucker und sorgt für Wohlfühlmomente in den eigenen vier Wänden
 - COOLE GESCHENKIDEE: Das Windlicht in Größe M kommt in einer hochwertigen Geschenke-Box daher – perfekt als Geburtstags-, Einweihungs- oder Hochzeitsgeschenk um den Liebsten eine Freude zu bereiten
+- HOCHWERTIGE QUALITÄT: Stylisches Home Accessoires aus robustem Borosilikatglas (transparent) mit wundervoller Lichtbrechung und Sockel aus Premium Porzellan, abgestimmt zur Kollektion Manuafcture Rock
 - GARANTIERTER BLICKFANG: Ob als Deko-Highlight oder in Kombination mit anderen Interior Must-Haves wie Duftkerzen, Vasen oder Coffee Table Books, die Windlichter sorgen für stimmungsvolle Abende
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IP68 Staub- und Wasserbeständigkeit: Robuste Struktur gegen Wasser und Staubbeständigkeit
 - 200MP Profi-Qualität AI Kamerasystem: KI macht das Fotografieren viel unterhaltsamer, einfacher und intelligenter und verbessert das gesamte Benutzererlebnis.
-- IP68 Staub- und Wasserbeständigkeit: Robuste Struktur gegen Wasser und Staubbeständigkeit
 - 120W HyperCharge mit 5110mAh Akku; 1,5K 120Hz Augenpflege-Display, Corning Gorilla Glass Victus 2
+- IP68 Staub- und Wasserbeständigkeit: Robuste Struktur gegen Wasser und Staubbeständigkeit
+- IP68 Staub- und Wasserbeständigkeit: Robuste Struktur gegen Wasser und Staubbeständigkeit
 - Leistungsstarker und energieeffizienter 4nm 5G Prozessor, Snapdragon 7s Gen 3
 
 [🛒 Hier!!]({{< param buyurl >}})

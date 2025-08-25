@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- REGULAR FIT: Enge, aber bequeme Passform mit guter Bewegungsfreiheit
-- DETAILS: Verfügt über einen klassischen Rundhalsausschnitt und kurze Ärmel für einen lässigen und souveränen Stil
 - UNVERZICHTBARES T-SHIRT: Dieses vielseitige T-Shirt ist ein klassisches Must-have für jede Garderobe. Es lässt sich hervorragend unter Ihrer Lieblingsjacke oder Strickjacke kombinieren oder solo für einen lässigen Alltagslook tragen.
+- DETAILS: Verfügt über einen klassischen Rundhalsausschnitt und kurze Ärmel für einen lässigen und souveränen Stil
+- REGULAR FIT: Enge, aber bequeme Passform mit guter Bewegungsfreiheit
 - JERSEY AUS BAUMWOLL-MODAL-MISCHUNG: Superweicher Baumwoll-Modal-Jersey mit zusätzlichem Stretch für ganztägigen Tragekomfort
 
 [🛒 Hier!!]({{< param buyurl >}})

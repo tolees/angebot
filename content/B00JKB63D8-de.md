@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Plug-and-Play, keine Konfiguration erforderlich
-- Mehrere Montagemöglichkeiten: Unterstützt die Desktop- und Wandmontage
 - Erweitern Sie Ihr Netzwerk: 8 Gigabit Port (10/100/1000 MBit/s) RJ45 LAN Ethernet LAN Switch
 - Management und Kontrolle: Management-Software mit intuitiver WebGUI ermöglicht Funktionen zum Konfigurieren, Sichern und Überwachen des Netzwerks, einschließlich QoS, IGMP, VLAN
+- Mehrere Montagemöglichkeiten: Unterstützt die Desktop- und Wandmontage
 - Energieeffizient: Optimieren Sie automatisch den Energieverbrauch und senken Sie die Betriebskosten
 - Lange Lebensdauer: Jeder TP-LINK-Switch hat viele Zuverlässigkeitstests bestanden und ist durch ein hochwertiges Metallgehäuse geschützt
 

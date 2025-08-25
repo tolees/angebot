@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Für Schlauch-Innen-Ø: 19mm
-- max. zulässiger Überdruck: 10 bar
 - Temperaturbereich: -40°C bis +90°C
+- max. zulässiger Überdruck: 10 bar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00K80MUP0{{</world>}}

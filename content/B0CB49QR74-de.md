@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmal zulaufendes Bein
 - Mittelhohe Taille
+- Schmal zulaufendes Bein
 - Normale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

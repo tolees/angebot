@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EXTRA DURABLE INGREDIENTS
 - EXTRA COMFORTABLE HEIGHT
+- EXTRA DURABLE INGREDIENTS
 - SOFT FEELING
 
 [🛒 Hier!!]({{< param buyurl >}})

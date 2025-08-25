@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 4 players
-- 19" LCD monitor
 - Light-up Marquee
 - Wi-Fi
+- 19" LCD monitor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B73V88TB{{</world>}}

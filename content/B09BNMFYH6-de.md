@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Jeans für Frauen, Straight Fit Jeans, High Waist, Knöchellänge
 - klassischer 5-Pocket-Style, gerades Bein, weiches und elastisches Material
-- Weiches und elastisches Material
-- Straight Fit Jeans, High Waist, Knöchellänge
 - Gerades Bein
+- Straight Fit Jeans, High Waist, Knöchellänge
+- Weiches und elastisches Material
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BNMFYH6{{</world>}}

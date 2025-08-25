@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kordelzug mit Emaille-Enden
 - elastischer Bund mit regulierbarem Kordelzug
 - nur WH - Weiß: Mesh Pant
-- Reißverschluss am Beinsaum
 - Stecktaschen
+- Reißverschluss am Beinsaum
+- Kordelzug mit Emaille-Enden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09SD6MMQP{{</world>}}

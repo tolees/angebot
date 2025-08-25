@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Aus umweltfreundlichem, recyclingfähigem Kunststofffilm (PEVA)
 - Absolut wasserdicht und pflegeleicht
-- Maße (B x H): 180 x 200 cm
 - Inkl. 12 weißen Duschvorhangringen
 - Dimensions (L x H) : 180 x 200 cm
+- Maße (B x H): 180 x 200 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000SLVWC6{{</world>}}

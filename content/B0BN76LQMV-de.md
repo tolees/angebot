@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Gummi
 - Innenmaterial: Tissue
+- Verschluss: Gummi
 - Absatzform: Kein Absatz
 - Obermaterial: Leder
 

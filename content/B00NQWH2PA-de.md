@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Multibox kann an das Aquariumglas oder an die Schranktür gehängt werden (Haken verstellbar von 4 bis 20 mm).
-- Es ist sowohl ein Aufbewahrungs- als auch Transportbehälter für eingetränkte Gegenstände (z.B. Außenfilter), ein Tank zum Bewegen oder Ansammeln von Tieren, eine Quarantäne oder Behandlungsstation (der in die Hälfte geteilt Deckel verhindert, dass Fische nach draußen springen).
 - Die eheim Multibox ist sehr praktisch für die Wartung Ihres Aquariums. Es bietet bequeme Lagerung und Lagerung direkt am Aquarium während der Wartung und Aquascaping (Werkzeuge, Pflanzen, Utensilien, etc.).
+- Es ist sowohl ein Aufbewahrungs- als auch Transportbehälter für eingetränkte Gegenstände (z.B. Außenfilter), ein Tank zum Bewegen oder Ansammeln von Tieren, eine Quarantäne oder Behandlungsstation (der in die Hälfte geteilt Deckel verhindert, dass Fische nach draußen springen).
 - Herkunftsland ist Deutschland
+- Die Multibox kann an das Aquariumglas oder an die Schranktür gehängt werden (Haken verstellbar von 4 bis 20 mm).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00NQWH2PA{{</world>}}

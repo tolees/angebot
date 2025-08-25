@@ -30,11 +30,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Im Rahmen einer Entwässerungs-Kur wird das Elektrolytgleichgewicht unterstützt.
 - Die angegebene empfohlene tägliche Verzehrmenge darf nicht überschritten werden
-- Empfehlenswert für eine kurmäßige Anwendung
-- Für die Unterstützung einer Entwässerung auf natürliche Weise
-- Nahrungsergänzungsmittel sind kein Ersatz für eine ausgewogene und abwechslungsreiche Ernährung und eine gesunde Lebensweise
 - Im Rahmen einer Entwässerungs-Kur wird das Elektrolytgleichgewicht unterstützt
+- Empfehlenswert für eine kurmäßige Anwendung
 - Außerhalb der Reichweite von kleinen Kindern aufbewahren
+- Nahrungsergänzungsmittel sind kein Ersatz für eine ausgewogene und abwechslungsreiche Ernährung und eine gesunde Lebensweise
+- Für die Unterstützung einer Entwässerung auf natürliche Weise
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000WNJ54M{{</world>}}

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Puissance: 500 W
-- Gusseisenplatte
-- Plattendurchmesser 11 cm
-- Temperaturanpassung
 - Nicht -slip -stützfüsse
 - Régime: ac 220-240v - 50/60hz
+- Puissance: 500 W
+- Gusseisenplatte
+- Temperaturanpassung
+- Plattendurchmesser 11 cm
 - Zündlicht
 
 [🛒 Hier!!]({{< param buyurl >}})

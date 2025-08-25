@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserbasierter Druck auf Vorder- und Rückseite
 - T-Shirt mit Rundhalsausschnitt, klassischer Länge
+- Wasserbasierter Druck auf Vorder- und Rückseite
 - Maschinenwaschbar
 
 [🛒 Hier!!]({{< param buyurl >}})

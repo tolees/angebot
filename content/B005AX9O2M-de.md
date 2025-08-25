@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sohle: Ethylen-Vinylacetat
-- Obermaterial: Leder
 - Verschluss: Schnürung
+- Obermaterial: Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005AX9O2M{{</world>}}

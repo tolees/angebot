@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: I-BOXX 53
 - Transparenter Deckel gewährt klare Sicht auf den Inhalt der Box
+- Lieferumfang: I-BOXX 53
 - Flexible Gestaltung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

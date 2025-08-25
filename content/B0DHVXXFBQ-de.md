@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Vulkanisierte Gummiaußensohle
+- Dämpfende Zwischensohle
 - Textilfutter
 - Der Größe entsprechend
-- Dämpfende Zwischensohle
 - Obermaterial aus beschichtetem Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

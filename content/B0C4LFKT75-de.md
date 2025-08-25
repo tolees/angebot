@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Weichen Leggings aus schweißableitender Technologie
-- Taillierter Schnitt
 - Kühl und trocken bleiben
+- Taillierter Schnitt
 - Enge Passform für ein körpernahes Tragegefühl
 - Elastischer Bund
 

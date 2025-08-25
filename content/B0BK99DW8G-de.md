@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Synthetisches Obermaterial
-- Einlegesohle aus softfoam
 - Gummilaufsohle
+- Einlegesohle aus softfoam
+- Synthetisches Obermaterial
 - Zwischensohle aus Gummi
 - Mittelhoher Schaft
 

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Känguru Tasche
 - Locker geschnitten
+- Känguru Tasche
 - Pigmentprint für einen weichen Print auf leichter Kleidung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

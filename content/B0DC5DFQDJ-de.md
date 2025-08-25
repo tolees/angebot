@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Frontzipper, Meshfutter
 - toniges Tape an Kragen und Schultern
 - Rippbündchen an Ärmeln und Saum
 - Stehkragen innen mit Baumwollripp abgesetzt
 - seitliche Einschubtaschen
+- Frontzipper, Meshfutter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5DFQDJ{{</world>}}

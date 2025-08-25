@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 1 Bithalter
+- 1 Verlängerung 6,3 mm (1/4"), 50 mm
+- gefertigt aus Chrom-Vanadium-Stahl
+- 16 Bits, S2-Sonderstahl, Antrieb Außensechskant 6,3 mm (1/4"): Kreuzschlitz PH1 + PH2 / PZ1 + PZ2 | Schlitz 4,5 + 6 mm | Innensechskant 3 + 4 + 5 mm | T-Profil (für Torx) T10 - T15 - T20 - T25 - T27 - T30 - T40
+- 1 Knarre, feinverzahnt, 72 Zähne (extra kurz nur 108 mm)
 - 9 Steckschlüssel-Einsätze mit Gear Lock-Profil: SW 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 mm
 - in praktischer Hartschalenkassette
-- gefertigt aus Chrom-Vanadium-Stahl
-- 1 Bithalter
-- 1 Knarre, feinverzahnt, 72 Zähne (extra kurz nur 108 mm)
-- 1 Verlängerung 6,3 mm (1/4"), 50 mm
 - durch Gear Lock-Profil passend für Sechskant, Zwölfkant, E-Profil, metrische und zöllige Schrauben
-- 16 Bits, S2-Sonderstahl, Antrieb Außensechskant 6,3 mm (1/4"): Kreuzschlitz PH1 + PH2 / PZ1 + PZ2 | Schlitz 4,5 + 6 mm | Innensechskant 3 + 4 + 5 mm | T-Profil (für Torx) T10 - T15 - T20 - T25 - T27 - T30 - T40
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000WZOV0S{{</world>}}

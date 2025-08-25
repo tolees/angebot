@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlichtes Sweatshirt mit Rundhalsausschnitt
 - Aus weicher Bauwollmischfaser
+- Schlichtes Sweatshirt mit Rundhalsausschnitt
 - Klassischer Rundhalsausschnitt
 - Fleece-Style
 

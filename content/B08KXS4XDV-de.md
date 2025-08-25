@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - meliertes Kurzarmshirt
-- Splitneck-Ausschnitt
 - weicher Baumwollstoff
+- Splitneck-Ausschnitt
 - 1er Pack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

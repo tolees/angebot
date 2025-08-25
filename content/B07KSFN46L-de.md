@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Regenjacke mit Kapuze für Damen, Tagsüber, nachtsüber und ganzjährig tragbar, Wandern, Trail Running und andere Outdoor-Aktivitäten, Aktive Passform
+- Lieferumfang: 1x Columbia Wasserdichte Regenjacke für Damen, POURING ADVENTURE II JACKET, Obermaterial: 100 Percentage Full-Dull Ripstop 2L Nylon, Futter: 100 Percentage Fine Mesh Polyester, Gewicht: 370 g, Farbe: Schwarz (Black), Gr. L, 1760071
 - Jacke für den ganzjährigen Gebrauch: Wasserdichtes Material, Verstellbare Kapuze und elastische Bündchen
 - Praktischer, durchgehender Reißverschluss, 2 Reißverschlusstaschen für warme sichere Hände, 1 Brusttasche für handliche Gegenstände, Lässt sich in Eingrifftasche verpacken
-- Lieferumfang: 1x Columbia Wasserdichte Regenjacke für Damen, POURING ADVENTURE II JACKET, Obermaterial: 100 Percentage Full-Dull Ripstop 2L Nylon, Futter: 100 Percentage Fine Mesh Polyester, Gewicht: 370 g, Farbe: Schwarz (Black), Gr. L, 1760071
 - Windund wasserdicht, extrem atmungsaktiv und wasserabweisend durch vollständig versiegelte Nähte dank Omni-Tech-Technologie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

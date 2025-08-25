@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
-- Elastische Bündchen
-- Langarm-Shirt
 - PUMA Cat Logo in Brusthöhe rechts
+- Elastische Bündchen
+- Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
+- Langarm-Shirt
 - Kapuze mit Tunnelzug
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

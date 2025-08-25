@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Meistere ein schnelles, flüssiges und taktisches Kampfsystem
 - Triff eine Vielzahl von Charakteren, die dir nur zu gerne ihre fragwürdige Hilfe anbieten
-- Erkunde die Welt Seite an Seite in einem ununterbrochenen Online-Mehrspielermodus
 - Erkunde zwei riesige Parallelwelten - die der Lebenden und die der Toten
+- Erkunde die Welt Seite an Seite in einem ununterbrochenen Online-Mehrspielermodus
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5SW56P1{{</world>}}

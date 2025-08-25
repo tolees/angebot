@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Synthetik
 - Obermaterial: Canvas
+- Sohle: Synthetik
 - Innenmaterial: Synthetik
 - Verschluss: Schnürsenkel
 

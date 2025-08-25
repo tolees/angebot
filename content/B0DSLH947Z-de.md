@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Professionnel Paris - L Oréal Professionnel Haarserum für ultrastarken Glanz bei allen Haartypen und sofortigen Glass Shine  Mit 5% Alpha-Silane  Vegan  Serie Expert  Vitamino Color Spectrum Glass Shine Serum  50 ml'
-date: 2025-08-17 16:44:16
+date: 2025-08-25 09:58:16
 image: 'https://m.media-amazon.com/images/I/31zKkNKDzmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

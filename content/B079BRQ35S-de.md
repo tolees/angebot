@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- T-Shirt
-- Print
-- bequem
 - Baumwolle
+- bequem
+- Print
+- T-Shirt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B079BRQ35S{{</world>}}

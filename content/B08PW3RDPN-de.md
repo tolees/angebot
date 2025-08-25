@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Interner Speichertyp: DDR4
 - RAM-Speicher: 16 GB
 - Speichertaktfrequenz: 3600 MHz
+- Interner Speichertyp: DDR4
 - Speicherlayout (Module x Größe): 2 x 8 GB
 - Memory Formfaktor: 288-pin DIMM, CAS Latenz: 16
 

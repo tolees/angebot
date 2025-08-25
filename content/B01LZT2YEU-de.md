@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Systemkompatibilität: Diese Festplatte ist kompatibel mit den Betriebssystemen Microsoft Windows 7 / 8 / 8.1 / 10, Mac OS 10.x/11.x
 - 2,5 Zoll externe Festplatte, flaches Kunststoffgehäuse, FAT32, Plug & Play, LED Anzeige
+- Sofort startklar ohne Installation (Plug & Play), SuperSpeed USB Anschluss 3.0 (abwärtskompatibel zu USB 2.0), Stromversorgung über USB Anschluss
 - Lieferumfang: Intenso Memory Case 4TB externe Festplatte, USB 3.0 Kabel, mehrsprachige Bedienungsanleitung
 - Max. Datentransferrate: Lesen: 85 MB/s und Schreiben 75 MB/s. / Umdrehungen: bis zu 5400 U/min. / Cache: 8 MB
-- Sofort startklar ohne Installation (Plug & Play), SuperSpeed USB Anschluss 3.0 (abwärtskompatibel zu USB 2.0), Stromversorgung über USB Anschluss
+- Systemkompatibilität: Diese Festplatte ist kompatibel mit den Betriebssystemen Microsoft Windows 7 / 8 / 8.1 / 10, Mac OS 10.x/11.x
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01LZT2YEU{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verschluss: Gummi
 - Collection: Frühjahr-Sommer 23
 - Material: Obermaterial: Leder 100%
-- Verschluss: Gummi
 - Leder: Suede Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

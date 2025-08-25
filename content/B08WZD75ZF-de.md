@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vorbestellerbonus - Jetzt MotoGP 21 für die PlayStation 4, PlayStation 5, Xbox One, Xbox Series X oder PC vorbestellen und den DLC „MotoGP - Limited Edition Liveries“ erhalten.
-- Passe deinen Fahrer und dein Motorrad an und zeige allen, wer neben dem besten Fahrstil auch den coolsten Style hat
 - Baue dein eigenes MotoGP-Team auf und triff wichtige Entscheidungen
+- Passe deinen Fahrer und dein Motorrad an und zeige allen, wer neben dem besten Fahrstil auch den coolsten Style hat
+- Vorbestellerbonus - Jetzt MotoGP 21 für die PlayStation 4, PlayStation 5, Xbox One, Xbox Series X oder PC vorbestellen und den DLC „MotoGP - Limited Edition Liveries“ erhalten.
 - Die MotoGP 21-Saison so mitreißend wie nie zuvor
 - Verfolge deine Karriere und werde zum Held der MotoGP-Meisterschaft
 

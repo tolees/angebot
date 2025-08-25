@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bequeme, weite Passform
 - Eine klassische Karottenhose für den Alltag
-- Eine elegante, moderne Alternative zur gerade geschnittenen Jeans
 - Dies ist ein originales Levis Produkt
+- Eine elegante, moderne Alternative zur gerade geschnittenen Jeans
+- Bequeme, weite Passform
 - Dies ist ein originales Levis Produkt
 
 [🛒 Hier!!]({{< param buyurl >}})

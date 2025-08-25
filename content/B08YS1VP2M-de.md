@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Luftqualitätsmessgerät: Luftgütemonitor erinnert ans Lüften, inkl. Temperatur- und Luftfeuchtigkeitsmesser, hilft so gegen die Bildung von Schimmel oder gegen zu trockene Luft
-- CO2 Luftmessgerät: Ermittelt die Konzentration von Kohlendioxid (CO2) mittels NDIR-Sensor und zeigt den Wert in ppm an, mit CO2-Ampel (Grün/Gelb/Rot) und Alarmton bei sehr schlechtem Raumklima
 - Lieferumfang: 1x Luftqualitätsmessgerät „Safe“, 1x Micro USB Kabel, 1x Bedienungsanleitung
-- Mobiles Luftmessgerät: Das Luftqualitätsmessgerät lässt sich ca. 3,5 Stunden per Akku oder dauerhaft über Kabel betreiben (USB Netzteil benötigt)
+- Luftqualitätsmessgerät: Luftgütemonitor erinnert ans Lüften, inkl. Temperatur- und Luftfeuchtigkeitsmesser, hilft so gegen die Bildung von Schimmel oder gegen zu trockene Luft
 - Zur Überwachung des Raumklimas: Hochwertiger, kompakter Raumluftsensor zur Messung der Luftqualität in Innenräumen, z.B. Schlafzimmer, Wohnzimmer, Kinderzimmer, Büro bzw. in Räumen bis ca. 50m2
+- CO2 Luftmessgerät: Ermittelt die Konzentration von Kohlendioxid (CO2) mittels NDIR-Sensor und zeigt den Wert in ppm an, mit CO2-Ampel (Grün/Gelb/Rot) und Alarmton bei sehr schlechtem Raumklima
+- Mobiles Luftmessgerät: Das Luftqualitätsmessgerät lässt sich ca. 3,5 Stunden per Akku oder dauerhaft über Kabel betreiben (USB Netzteil benötigt)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08YS1VP2M{{</world>}}

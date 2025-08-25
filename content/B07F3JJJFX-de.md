@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
-- Obermaterial: Synthetik
-- Absatzform: Flach
 - Innenmaterial: Synthetik
+- Obermaterial: Synthetik
+- Sohle: Gummi
 - Nicht Wasserfest
+- Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07F3JJJFX{{</world>}}

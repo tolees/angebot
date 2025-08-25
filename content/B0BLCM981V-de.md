@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwischensohle aus Gummi
-- Leichtgewichtig
-- PUMA Cat Logo an der Ferse
-- Abriebfeste Gummi-Außensohle
 - PUMA Formstrip an den seitlichen und medialen Seiten
+- PUMA Cat Logo an der Ferse
+- Leichtgewichtig
+- Zwischensohle aus Gummi
+- Abriebfeste Gummi-Außensohle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BLCM981V{{</world>}}

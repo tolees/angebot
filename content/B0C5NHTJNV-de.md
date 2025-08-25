@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine Nummer größer kaufen
-- Gummiaußensohle
-- Schnürsenkel
 - Obermaterial aus Leder
+- Schnürsenkel
 - Cloudfoam Zwischensohle
+- Gummiaußensohle
+- Eine Nummer größer kaufen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5NHTJNV{{</world>}}

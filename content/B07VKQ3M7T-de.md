@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Installation und Konfiguration, Bitte unbedingt beachten: zuerst die neuste Software laut TechniSat Homepage auf den Receiver/TV installieren, da der Stick sonst nicht erkannt wird
-- Leistungsfähiger USB Adapter: Stick zur kabellosen Einbindung ausgewählter TechniSat Geräte per Funk in ein Heimnetzwerk, stabile und schnelle Funk-Verbindung mit hoher Reichweite
 - Nur geeignet für: DIGIT ISIO (S2, UHD+,ISIO STC/STC+), TECHNISTAR K4 ISIO, SONATA 1, DIGIPAL DAB+ und SMART HOME, TECHNIMEDIA UHD+ (SL), TECHNIVISTA SL, TECHNILINE PRO und PLUS, TECHNILINE ISI 32/43
 - WLAN 2,4 GHz (150 Mbit/s), 5 GHz (433 Mbit/s), 802.11ac/a/b/g/n, Übertragungsgeschwindigkeit bis zu 135 Mbit/s im 802.11n-Betriebsmodus
 - Lieferumfang: 1 x TechniSat TELTRONIC ISIO USB-Dualband-WLAN-Adapter, USB-Kabel, Treiber-CD, Kurzanleitung
+- Einfache Installation und Konfiguration, Bitte unbedingt beachten: zuerst die neuste Software laut TechniSat Homepage auf den Receiver/TV installieren, da der Stick sonst nicht erkannt wird
+- Leistungsfähiger USB Adapter: Stick zur kabellosen Einbindung ausgewählter TechniSat Geräte per Funk in ein Heimnetzwerk, stabile und schnelle Funk-Verbindung mit hoher Reichweite
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VKQ3M7T{{</world>}}

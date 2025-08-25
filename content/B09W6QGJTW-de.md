@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leicht zugängliches Familienspiel im Der Herr der Ringe Universum
-- Eine kooperative Abenteuerreise durch Mittelerde
-- Einfach Losspielen mit der kostenlosen Erklär-App
 - Das ideale Geschenk für die ganze Familie
+- Eine kooperative Abenteuerreise durch Mittelerde
 - Brettspiel für 1-4 Personen ab 10 Jahren
+- Einfach Losspielen mit der kostenlosen Erklär-App
 - Basierend auf den Geschichten von J.R.R. Tolkien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

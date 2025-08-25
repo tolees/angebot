@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- FlexibleFlexible
 - Verschluss: Thermoplastisches Polyurethan
 - 14.0157480172 inches
-- FlexibleFlexible
 - Leder: Smooth Leather
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3x ergiebiger als duschgel - unsere feste dusche ist je nach haarlänge und anwendungsgewohnheit dreimal ergiebiger als duschgel.
-- das kartonmaterial der faltschachtel ist recycelbar und besteht zu 100% aus recyclingfasern
-- reinigt haut und haar sanft, ohne auszutrocknen. für ein gepflegtes hautgefühl schon bei der anwendung
 - biologisch abbaubare rezepturen ohne silikone, ohne festes mikroplastik und ohne künstliche farb- und konservierungsstoffe ( gem. eu-kosmetik vo)
-- Elementanzeigegewicht: 50.0 kilograms
-- Einheitenanzahltyp: stück
 - bietet ein angenehmes schaumerlebnis mit natürlichem duft.
+- 3x ergiebiger als duschgel - unsere feste dusche ist je nach haarlänge und anwendungsgewohnheit dreimal ergiebiger als duschgel.
+- Einheitenanzahltyp: stück
+- reinigt haut und haar sanft, ohne auszutrocknen. für ein gepflegtes hautgefühl schon bei der anwendung
+- Elementanzeigegewicht: 50.0 kilograms
+- das kartonmaterial der faltschachtel ist recycelbar und besteht zu 100% aus recyclingfasern
 - Anzahl der einheiten: 1.0
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

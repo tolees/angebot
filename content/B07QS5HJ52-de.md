@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feuchtigkeitsschutz IP67
-- 2400 mAh Akku
 - Frequenz 118 - 136,99166 MHz
 - Anzahl der Pins 2-Pin-Audiozubehör Typ Midland
+- Feuchtigkeitsschutz IP67
+- 2400 mAh Akku
 - Emissionsleistung 6 (PEP), 1,8 W (CW)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

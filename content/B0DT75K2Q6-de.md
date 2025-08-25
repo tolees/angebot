@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale Passform
 - Gesticktes Logo
 - Absolute Bewegungsfreiheit
+- Normale Passform
 - Einfache Passform und moderner Look
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

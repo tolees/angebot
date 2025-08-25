@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pflegehinweise: Maschinenwäsche
 - kordelzug kapuze können sie ihre abdeckung anpassen.
-- kängurutasche auf der vorderseite
 - Hülsentyp: Langarm
+- Pflegehinweise: Maschinenwäsche
+- kängurutasche auf der vorderseite
 - fleece-stoff fühlt sich weich und warm.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

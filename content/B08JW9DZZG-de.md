@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eve Door & Window erkennt, ob Ihre Tür oder Ihr Fenster offen oder geschlossen ist
-- Fernzugriff und anwesenheitsbasierte Heizungssteuerung über die Steuerzentrale (Apple TV/HomePod)
-- Bleiben Sie auf dem Laufenden: Erhalten Sie Mitteilungen, sobald sich der Status ändert
-- Fenster auf - Heizung aus: Energie sparen leicht gemacht; Eve Thermo pausiert automatisch das Heizen, während Sie lüften - durch die nahtlose Integration des Kontaktsensors Eve Door & Window
 - Wohlfühltemperatur mühelos per App (iPhone, iPad, Mac), Siri oder direkt an der Heizung einstellen
+- Bleiben Sie auf dem Laufenden: Erhalten Sie Mitteilungen, sobald sich der Status ändert
+- Eve Door & Window erkennt, ob Ihre Tür oder Ihr Fenster offen oder geschlossen ist
+- Fenster auf - Heizung aus: Energie sparen leicht gemacht; Eve Thermo pausiert automatisch das Heizen, während Sie lüften - durch die nahtlose Integration des Kontaktsensors Eve Door & Window
+- Fernzugriff und anwesenheitsbasierte Heizungssteuerung über die Steuerzentrale (Apple TV/HomePod)
 - Erstellen Sie Szenen: Steuern Sie automatisch andere HomeKit-fähige Geräte
 
 [🛒 Hier!!]({{< param buyurl >}})

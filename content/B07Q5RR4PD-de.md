@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: 2x ProCORE18V 4.0Ah Akku, GAL 18V-40
+- Extrem schnelle Aufladezeit für alle 18V-Akkus, beispielsweise Aufladen eines ProCORE18V 4.0 Ah Akkus in nur 48 Minuten zu 80 %
 - Neue Zellentechnologie mit gleicher Leistung wie ein 18V 4.0 Ah-Standardakku bei optimierten Abmessungen und geringerem Gewicht.
 - Kompatibel seit 2008: Alle unsere Akkus passen innerhalb der jeweiligen Voltklasse in die neuen und die bereits vorhandenen Bosch Professional Werkzeuge.
-- Extrem schnelle Aufladezeit für alle 18V-Akkus, beispielsweise Aufladen eines ProCORE18V 4.0 Ah Akkus in nur 48 Minuten zu 80 %
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07Q5RR4PD{{</world>}}

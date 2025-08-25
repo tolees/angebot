@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 2300 Watt Haartrockner mit austauschbaren Aufsätzen
+- Ionen-Generator produziert 90% mehr Ionen im Vergleich zu Standard Remington Haartrocknern
 - 85 km/h Luftstrom
 - 3 Heiz- und 2 separate Gebläsestufen
-- Ionen-Generator produziert 90% mehr Ionen im Vergleich zu Standard Remington Haartrocknern
-- 2300 Watt Haartrockner mit austauschbaren Aufsätzen
 - Abkühlstufe
 - Hinweis- Stellen Sie während des Gebrauchs immer sicher, dass die Einlass- und Auslassgitter in keiner Weise blockiert sind, da dies dazu führt, dass das Gerät automatisch stoppt. Sollte dies der Fall sein, schalten Sie das Gerät aus und lassen Sie es abkühlen
 

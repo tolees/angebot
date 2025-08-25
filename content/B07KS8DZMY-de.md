@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hüfttaschen
-- Gedrucktes Logo
 - Hummel steht für skandinavische Sportbekleidung in hoher Qualität und zeichnet sich durch sportliche, geradlinige Designs in extravanten Looks mit kräftigen Farbkombinationen aus
 - Knöchel-Chevrons
+- Hüfttaschen
+- Gedrucktes Logo
 - Weiches Sweat-Gewebe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

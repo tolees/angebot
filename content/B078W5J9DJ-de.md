@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 2607017392
-- FASTENER DRIVE BIT
-- Anzahl der Packung: 1
 - Verpackungsabmessungen (L x B x H): 4.32 zm x 13.97 zm x 22.35 zm
+- Anzahl der Packung: 1
+- FASTENER DRIVE BIT
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B078W5J9DJ{{</world>}}

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verschluss: Gummi
-- Leder: Kunstleder
 - 13.3464566793 zoll
+- Leder: Kunstleder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07TGVGLYK{{</world>}}

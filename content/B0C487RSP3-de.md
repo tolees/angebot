@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - T-shirt
-- Kurzarm
 - Materialzusammensetzung: 100% Bio-Baumwolle
+- Kurzarm
 - Standard Fit
 
 [🛒 Hier!!]({{< param buyurl >}})

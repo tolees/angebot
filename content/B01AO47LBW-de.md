@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reiseladestation / Ladegerät
 - Philips Ladestation HX 6100 Black Edition
+- Reiseladestation / Ladegerät
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01AO47LBW{{</world>}}

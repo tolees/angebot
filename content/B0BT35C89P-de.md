@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- IMMER BESTENS ORIENTIERT: Der hochempfindliche GPS- und GLONASS-Empfänger sorgt für eine schnelle und präzise Positionsbestimmung. So wissen Sie immer wo Sie gerade sind
+- FÜR JEDE OUTDOOR-TOUR GEMACHT: Das robuste und wasserdichte (IPX7) GPS-Navi ist bereit für Ihre nächste Tour. Selbst bei Sonnenlicht ist das 2,2“ große MIP-Display ideal ablesbar und lässt sich auch mit Handschuhen dank Tastenbedienung bedienen
+- AUSDAUERND: Mit einer Akkulaufzeit bis zu 1 Woche im GPS-Modus ist Ihr eTrex bereit für Ihre großen Touren. Sie können den eTrex SE mit Batterien oder auch mit geeigneten Akkus betreiben und mit dem neuen USB-C Anschluss laden
 - GEOCACHING OHNE PAPIER: Laden Sie ganz einfach Geocaches herunter und übertragen diese auf den eTrex SE. Erhalten Sie automatische Cache Updates, inkl. Beschreibungen, Protokolle und Hinweise, wenn das Gerät mit der Garmin Explore App gekoppelt ist
 - AUSDAUERND: Mit den auswechselbaren 2AA Batterien (nicht im Lieferumfang enthalten) ist eine Batterielaufzeit von bis zu 168 Stunden (bei 1-sekündigem Tracking) und bis zu 1800 Stunden im Expeditionsmodus möglich
-- IMMER BESTENS ORIENTIERT: Der hochempfindliche GPS- und GLONASS-Empfänger sorgt für eine schnelle und präzise Positionsbestimmung. So wissen Sie immer wo Sie gerade sind
-- AUSDAUERND: Mit einer Akkulaufzeit bis zu 1 Woche im GPS-Modus ist Ihr eTrex bereit für Ihre großen Touren. Sie können den eTrex SE mit Batterien oder auch mit geeigneten Akkus betreiben und mit dem neuen USB-C Anschluss laden
 - ORIENTIERUNG JEDERZEIT: Der eingebaute digitale Kompass liefert auch im Stillstand einen genauen Kurs und hilft Ihnen bei der Orientierung
-- FÜR JEDE OUTDOOR-TOUR GEMACHT: Das robuste und wasserdichte (IPX7) GPS-Navi ist bereit für Ihre nächste Tour. Selbst bei Sonnenlicht ist das 2,2“ große MIP-Display ideal ablesbar und lässt sich auch mit Handschuhen dank Tastenbedienung bedienen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BT35C89P{{</world>}}

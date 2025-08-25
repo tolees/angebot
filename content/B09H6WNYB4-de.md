@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sportbekleidung aus hochwertigen Materialien für jede sportliche Aktivität
-- 70 prozent Baumwolle / 30 prozent recycelter Polyester (Fleece)
 - Regulär geschnitten
+- 70 prozent Baumwolle / 30 prozent recycelter Polyester (Fleece)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09H6WNYB4{{</world>}}

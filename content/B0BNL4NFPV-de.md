@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktgröße: Hohe Durchmessergenauigkeit: 1,75 mm, minimale Auslauftoleranz +/- 0,02 mm, was eine gleichmäßige Zuführung und einen reibungslosen Druck gewährleistet. 1kg-Rolle (2.2lbs)
-- Produkt-Verpackung: ERYONE Kohlenstofffasern werden vor dem Verpacken 24 Stunden lang getrocknet und dann vakuumverpackt. Da PETG-Filamente feuchtigkeitsempfindlich sind, sollten sie nach dem Öffnen in wiederverschließbaren Alufolienbeuteln aufbewahrt werden, um die hervorragende Druckleistung zu erhalten.
-- Empfohlene Druckbedingungen: Empfohlene Drucktemperatur/Düsentemperatur: 240-260°C (464-500°F), Grundplattentemperatur: 100°C (212°F)
 - ERYONE PETG Kohlenstoff-Faser Filament: Hat den Vorteil, "leicht und stark" zu sein. Geruchsneutral und antistatisch. Im Vergleich zu PLA ist das Kohlefaserfilament dehnbarer, stärker und steifer, fühlt sich spröde an, hat eine geringe Schrumpfung und eine hohe Fließfähigkeit, wodurch es sich für den Druck von Industrieprodukten eignet.
 - Eryone PETG Carbon Fiber Vorteile: Kohlefaser-PETG-Filament hat eine bessere Dimensionsstabilität für einen verzugsfreien Druck, eine hervorragende Schichthaftung und eine einfache Entfernung von Trägern.
+- Produkt-Verpackung: ERYONE Kohlenstofffasern werden vor dem Verpacken 24 Stunden lang getrocknet und dann vakuumverpackt. Da PETG-Filamente feuchtigkeitsempfindlich sind, sollten sie nach dem Öffnen in wiederverschließbaren Alufolienbeuteln aufbewahrt werden, um die hervorragende Druckleistung zu erhalten.
+- Empfohlene Druckbedingungen: Empfohlene Drucktemperatur/Düsentemperatur: 240-260°C (464-500°F), Grundplattentemperatur: 100°C (212°F)
+- Produktgröße: Hohe Durchmessergenauigkeit: 1,75 mm, minimale Auslauftoleranz +/- 0,02 mm, was eine gleichmäßige Zuführung und einen reibungslosen Druck gewährleistet. 1kg-Rolle (2.2lbs)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BNL4NFPV{{</world>}}

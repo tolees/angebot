@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Läuft nicht aus und färbt nicht ab.
-- Intensive Farben - mit Hyaluron-Füller
-- Das perfekte Gloss-Finish zaubert einen sensationell glamourösen Look.
 - Samtweiches Lippengefühl
+- Das perfekte Gloss-Finish zaubert einen sensationell glamourösen Look.
+- Intensive Farben - mit Hyaluron-Füller
 - Langanhaltende Feuchtigkeit und Pflege
 
 [🛒 Hier!!]({{< param buyurl >}})

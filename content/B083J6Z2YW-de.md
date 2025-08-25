@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Scharniere mit Schnellverschluss
 - Geberit iCon WC-Sitz mit Bezug, Weiß
-- Scharniere: Messing verchromt
 - Absenkautomatik
+- Scharniere mit Schnellverschluss
+- Scharniere: Messing verchromt
 - Überlappender WC-Sitz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

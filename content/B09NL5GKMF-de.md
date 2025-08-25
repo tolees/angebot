@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
-- Reguläre Passform
-- Gummi-Cupsohle
 - Obermaterial aus Synthetikleder
-- Textilfutter
+- Schnürsenkel
 - Dämpfende Zwischensohle
+- Gummi-Cupsohle
+- Reguläre Passform
+- Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NL5GKMF{{</world>}}

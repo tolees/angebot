@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Sluban Bausteine sind voll kompatibel zu anderen gängigen Konstruktionsbausteinen anderer Hersteller
 - Mit bebilderter Anleitung für einfachen Zusammenbau
-- Die kleine Größe und die wenigen Teile sorgen für schnellen Bau- und Spielspaß
 - Für Kinder ab 4 Jahren
+- Die kleine Größe und die wenigen Teile sorgen für schnellen Bau- und Spielspaß
+- Die Sluban Bausteine sind voll kompatibel zu anderen gängigen Konstruktionsbausteinen anderer Hersteller
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08GKHSGBM{{</world>}}

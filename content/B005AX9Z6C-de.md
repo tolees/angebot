@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EXTRA WARM
-- RECYCLED
-- GOOD GRIP
 - CUSHIONING
+- RECYCLED
+- EXTRA WARM
+- GOOD GRIP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005AX9Z6C{{</world>}}

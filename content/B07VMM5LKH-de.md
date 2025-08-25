@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für Langlebigkeit gebaut: Das Wabendesign der Model O- trägt dazu bei, das Gewicht der Maus extrem gering zu halten, ohne dabei auf Haltbarkeit zu verzichten. Omron-Schalter auf höchstem Stand der Technik, die 20 Mio. Klicks aushalten, und höchste Fertigungsqualität machen die Model O- (Minus) zum Haltbarkeitswunder.
-- Mausfüße: Die Glorious Skates bestehen aus 100 % reinem PTFE, das wie Kufen auf dem Eis gleitet und Ihnen selbst bei höchstem Tempo die volle Kontrolle gibt.
 - Optimiert für ehrgeiziges Gaming: Pixelgenaues Tracking, null Mausbeschleunigung, kein Springen mehr, 1.000 Hz Abrufrate, weniger als 0,7 mm Abhebedistanz. Klick-/Scroll-Geschwindigkeit, 6 Tasten mit Makro-Unterstützung und vieles mehr.
-- Ultraflexibles Kabel: Unser Paracord-Kabel „Ascended“ ist so leicht, dass es reibungsfreie Nutzung ermöglicht. Die ultimative Kabelmaus, die sich wie eine drahtlose Gaming-Maus anfühlt.
+- Für Langlebigkeit gebaut: Das Wabendesign der Model O- trägt dazu bei, das Gewicht der Maus extrem gering zu halten, ohne dabei auf Haltbarkeit zu verzichten. Omron-Schalter auf höchstem Stand der Technik, die 20 Mio. Klicks aushalten, und höchste Fertigungsqualität machen die Model O- (Minus) zum Haltbarkeitswunder.
 - Größe & Stil: Beidhändige, leichtgewichtige Maus für Gaming. Mit optimalem Gewicht und hoher Haltbarkeit auf Tempo, Kontrolle und Komfort ausgelegt. Die Model O- (Minus) ist ideal für mittelgroße bis kleine Hände.
+- Mausfüße: Die Glorious Skates bestehen aus 100 % reinem PTFE, das wie Kufen auf dem Eis gleitet und Ihnen selbst bei höchstem Tempo die volle Kontrolle gibt.
+- Ultraflexibles Kabel: Unser Paracord-Kabel „Ascended“ ist so leicht, dass es reibungsfreie Nutzung ermöglicht. Die ultimative Kabelmaus, die sich wie eine drahtlose Gaming-Maus anfühlt.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VMM5LKH{{</world>}}

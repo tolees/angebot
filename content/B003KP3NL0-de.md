@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robustes Gehäuse und fuktionelles Design; Lkw und Steckdose
-- Abmessungen (B x H x T): 500 x 441 x 508 mm, Gewicht: 16,0 kg
-- Lautlose Absorber-Kühlbox für Auto, Steckdose und Gas-Anschluss (50 mbar)
 - Absorberbox 12 Volt, 230 Volt und Gas 50 mbar
+- Robustes Gehäuse und fuktionelles Design; Lkw und Steckdose
+- Lautlose Absorber-Kühlbox für Auto, Steckdose und Gas-Anschluss (50 mbar)
+- Abmessungen (B x H x T): 500 x 441 x 508 mm, Gewicht: 16,0 kg
 - Bis 25° C unter Umgebungstemperatur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

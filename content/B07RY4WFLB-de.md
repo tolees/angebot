@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Wartungshinweis】Bitte reinigen Sie den Filter häufig, ersetzen Sie die Bürste und den Filter alle 2 Monate, damit der Staubsauger mit hoher Leistung arbeitet.
 - 【Wertvolles Paket】 Enthält 1 x Ersatz-Gummibürsten, 8 x Hochleistungsfiltern, 8 x Stück Eck- und Kantenbürsten, 3 x Schrauben, 1 x Schraubendreher, 1 x Filterreinigungsbürste.
+- 【Wartungshinweis】Bitte reinigen Sie den Filter häufig, ersetzen Sie die Bürste und den Filter alle 2 Monate, damit der Staubsauger mit hoher Leistung arbeitet.
 - 【Warme Tipps】Diese Ersatzteile sind nur für Roomba e und i Serie, nicht für andere Roomba Modelle, bitte bestätigen Sie Ihr Roomba Modell und Teile vor der Bestellung.
 - 【Kompatible Modelle】Das Ersatzteilset ist kompatibel mit iRobot Roomba e/i/j Serie i7 i7+ i3 i3+ i1 i1+ i2 i2+ i4 i4+ i5 i5+ i6 i6+ i8 i8+, j5 j5+ j6 j6+ j8 j8+ j7 j7+ & E5 E6 Staubsauger (Gilt nicht für Combo J7+/ Combo J9+)
 - 【Nach dem Dienst】Unterstützt durch professionelle Vakuum-Teile-Lieferanten, kontaktieren Sie uns bitte, wenn Sie irgendwelche Fragen haben, wenn Sie unsere Produkte verwenden.

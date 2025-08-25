@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lässiges und bequemes Tee für Damen von Urban Classics
-- Die große Farbauswahl macht das Shirt zu einem echten Allrounder-Basic, das sich problemlos mit allen Outfits kombinieren lässt
 - Leicht überschnittene Schultern und turnup-ärmel verleihen dem Shirt einen entspannten und modernen Look
 - Das Material aus reiner Baumwolle und der lässige Schnitt sorgen für den passenden Tragekomfort und eine tolle Passform
+- Die große Farbauswahl macht das Shirt zu einem echten Allrounder-Basic, das sich problemlos mit allen Outfits kombinieren lässt
+- Lässiges und bequemes Tee für Damen von Urban Classics
 - Ein Klick auf das Markenlogo führt zum Urban Classics Brand store und noch mehr angesagter Streetwear
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

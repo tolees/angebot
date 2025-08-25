@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- OPTIMALE PASSFORM: Das minimalistische Poloshirt mit Stretch-Piqué aus Bio-Baumwolle ist in schlichtem Design gehalten und sitzt figurbetont.
+- PREMIUM DESIGN: Der zeitlose Style des Oberteils legt den Grundstein für jedes smart-casual Outfit. Außerdem eignet sich das moderne Shirt auch perfekt als Geschenk.
 - SCHLICHT & ELEGANT: Das moderne Shirt zeichnet sich durch seinen klassischen Kragen und nachhaltige Materialien aus. Die drei Knöpfe sowie die dezente Flag auf der Brust machen den Look komplett.
 - BEWÄHRTE QUALITÄT: Seit 1985 überzeugt die Designer-Marke weltweit durch ihre Qualität und Leichtigkeit mit vielfältigen Styles in den bekannten Farben Dunkelblau, Weiß und Rot.
-- PREMIUM DESIGN: Der zeitlose Style des Oberteils legt den Grundstein für jedes smart-casual Outfit. Außerdem eignet sich das moderne Shirt auch perfekt als Geschenk.
-- OPTIMALE PASSFORM: Das minimalistische Poloshirt mit Stretch-Piqué aus Bio-Baumwolle ist in schlichtem Design gehalten und sitzt figurbetont.
 - HOCHWERTIGES MATERIAL: Das vielseitige Polo besteht aus 96% Bio-Baumwolle, 4% Elasthan.
 
 [🛒 Hier!!]({{< param buyurl >}})

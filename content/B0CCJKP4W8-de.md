@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ziernähte
 - Ausschnitt mit Rollsaum
+- Ziernähte
 - Labelaufnäher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

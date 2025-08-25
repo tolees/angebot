@@ -30,10 +30,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Seitenschlitze am Saum
 - 100 % recycelter Polyester (Doppelstrick)
-- Elastischer Bund mit Kordelzug
 - Regulär geschnitten
-- AEROREADY
 - Reißverschlusstaschen
+- Elastischer Bund mit Kordelzug
+- AEROREADY
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BQWVHZ8C{{</world>}}

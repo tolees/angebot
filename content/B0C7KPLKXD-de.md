@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ambilight: 3-seitiges Ambilight, Anpassung an die Wandfarbe, Lounge-Modus, Spielmodus, Ambilight Musik, AmbiWakeup, AmbiSleep, Philips Wireless Lautsprecher für zuhause, Ambilight Aurora, Ambilight Bootup Animation
-- Gaming: Auto Low Latency Mode, HDMI VRR, Dolby Vision Game, AMD FreeSync Premium
 - Sound: Ausgangsleistung 20 W (RMS), DTS:X, Lautsprecherkonfiguration: 2 x 10 W Lautsprecher, Verbesserung der Soundqualität: KI-Sound, Clear Dialogue, Dolby Atmos, Dolby-Bassverstärkung, Dolby-Lautstärkeregler, NIGHT MODE (Nachtbetrieb), KI-Equalizer, DTS Play-Fi, Personalisierung des Mimi-Sounds, Raumkalibrierung
+- Gaming: Auto Low Latency Mode, HDMI VRR, Dolby Vision Game, AMD FreeSync Premium
 - Bildqualität: 4K UHD, 60 Hz, HDR10+, P5 Perfect Picture Engine, Micro Dimming Pro, Dolby Vision, CalMAN Ready
+- Ambilight: 3-seitiges Ambilight, Anpassung an die Wandfarbe, Lounge-Modus, Spielmodus, Ambilight Musik, AmbiWakeup, AmbiSleep, Philips Wireless Lautsprecher für zuhause, Ambilight Aurora, Ambilight Bootup Animation
 - Smart TV: Google TV, Speicherkapazität: 16 GB (Flash), Sprachsteuerung: Google Assistant integriert (Alexa kompatibel), HbbTV, Apps: Apple TV, YouTube, Netflix, Amazon Prime Video, DAZN, Rakuten TV, Fernbedienung mit Mikrofon
 
 [🛒 Hier!!]({{< param buyurl >}})

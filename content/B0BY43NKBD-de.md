@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Compatible with major SDXC UHS2 compatible camera
+- 5 Years warranty
+- V60 compatible for 4K video recording
 - Max read speed 280MB/s Max write speed 170MB/s
 - File resucue software download
-- V60 compatible for 4K video recording
-- 5 Years warranty
-- Compatible with major SDXC UHS2 compatible camera
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BY43NKBD{{</world>}}

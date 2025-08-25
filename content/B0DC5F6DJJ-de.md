@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kapuze mit Print, Innentape und Kordelzug
-- Rippbündchen an Ärmeln und Saum
 - Artwork mit Stickereien vorne rechts
+- Rippbündchen an Ärmeln und Saum
+- Kapuze mit Print, Innentape und Kordelzug
 - mit Farbverlauf
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

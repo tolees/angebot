@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elegantes Design mit eloxiertem Aluminium und IPX4-Wasserbeständigkeit, kabellos mit austauschbarer Batterie
-- Siri nach Temperatur und Luftfeuchtigkeit direkt vor der Haustür befragen
+- Strengster Datenschutz: keine Eve-Cloud, keine Registrierung, kein Profiling
 - HomeKit-Technologie: Ungeahnter Bedienkomfort und hohe Sicherheit; Kinderleichte, schnelle Einrichtung in HomeKit ohne Bridge oder Gateway; Integriert sich automatisch in ein Thread-Netzwerk (unterstützt Bluetooth und Thread)
 - Hinweis: Um das Gerät über Thread (und nicht über Bluetooth) zu verwenden, ist ein Thread Border Router von Apple erforderlich
-- Eve Weather erfordert ein iPhone oder iPad mit der neuesten Version von iOS/iPadOS
-- Entwickelt in Deutschland. Unser deutschsprachiger Produkt-Support steht Ihnen bei Rückfragen gerne zur Verfügung
+- Siri nach Temperatur und Luftfeuchtigkeit direkt vor der Haustür befragen
 - Außentemperatur, Luftfeuchtigkeit und Luftdruck im Zeitverlauf verfolgen und den Wettertrend im Blick behalten – auf dem iPhone oder direkt am Display
-- Strengster Datenschutz: keine Eve-Cloud, keine Registrierung, kein Profiling
+- Eve Weather erfordert ein iPhone oder iPad mit der neuesten Version von iOS/iPadOS
+- Elegantes Design mit eloxiertem Aluminium und IPX4-Wasserbeständigkeit, kabellos mit austauschbarer Batterie
+- Entwickelt in Deutschland. Unser deutschsprachiger Produkt-Support steht Ihnen bei Rückfragen gerne zur Verfügung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08XXBRG71{{</world>}}

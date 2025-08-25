@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Label Patch am linken Ärmel
 - gestreiftes Necktape
-- großer Wording Print vorne, kleiner hinten
 - softe Haptik
+- Label Patch am linken Ärmel
 - Rundhalsausschnitt mit Rippblende
+- großer Wording Print vorne, kleiner hinten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D99HSN74{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FOREIGNER 1977-1991
 - Musik
 - INTERNATIONAL
+- FOREIGNER 1977-1991
 - R&P International
 
 [🛒 Hier!!]({{< param buyurl >}})

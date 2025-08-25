@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Perfekte Atmungsaktivität
 - Dri-fit-technologie
 - Elastischer Bund mit Kordelzug
-- Perfekte Atmungsaktivität
 - Angewinkelte Nähte an den Seiten ermöglichen uneingeschränkte Bewegungsfreiheit
 - Standard Passform
 

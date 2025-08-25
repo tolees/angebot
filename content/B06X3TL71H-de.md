@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HommeMan Eau de Toilette
 - Hergestellt im Germany
+- HommeMan Eau de Toilette
 - Männlich intensiv
 - Würzig-frischer Herrenduft
 

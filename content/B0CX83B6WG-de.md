@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sanft
+- mit Stahlkappe
+- Kevlar Zwischensohle
 - Atmungsaktiv
 - Verschleißfest
-- Kevlar Zwischensohle
-- mit Stahlkappe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CX83B6WG{{</world>}}

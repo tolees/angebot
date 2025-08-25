@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPARSAM - LED Technik spart bis zu 80% Energie gegenüber herkömmlichen Glühlampen
 - KOMPLETTSET - Inklusive Strip, Power Supply und RGB-Controller
+- SPARSAM - LED Technik spart bis zu 80% Energie gegenüber herkömmlichen Glühlampen
 - MONTAGEFREUNDLICH - Rückseitig selbstklebend für eine einfache DIY Montage
 - FARBVIELFALT - RGB-Multicolor Farbwechsel ermöglicht individuelles, breites Farbspektrum
 

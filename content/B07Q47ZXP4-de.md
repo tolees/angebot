@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: DISCIPLINE
-- Heaven and Earth Limited Edition 24 Discs Boxed Set
 - Produktart: ABIS_MUSIC
+- Heaven and Earth Limited Edition 24 Discs Boxed Set
+- Marke: DISCIPLINE
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07Q47ZXP4{{</world>}}

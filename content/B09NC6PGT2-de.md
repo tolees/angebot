@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Innenmaterial : Synthetik
 - Absatzform : Flach
 - Obermaterial : Leder
-- Schuhweite : Normal
 - Wasserbeständigkeitsgrad : Nicht Wasserfest
+- Schuhweite : Normal
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NC6PGT2{{</world>}}

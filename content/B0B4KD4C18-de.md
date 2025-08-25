@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 5 Premium-Helden-Skins
 - KANNST DU AN DER SEITE VON LEGENDEN BESTEHEN? Wird es Doctor Strange, Iron Man und Blade gelingen, ihre Differenzen im Angesicht dieser apokalyptischen Bedrohung zu vergessen?
 - DU BIST HUNTER, EIN E LEGENDÄRE R DÄMONENJÄGER IN MIT EINER MYSTERIÖSEN VERGANGENHEIT Du musst du eine äußerst ungewöhnliche Gruppe aus erfahrenen Superheld innen und gefährlichen übernatürlichen Krieger innen anführen
 - Pre-order bonus: Doctor Strange, Defender’s Skin
-- 5 Premium-Helden-Skins
 - ENTFESSELE DIE DUNKLERE SEITE VON MARVEL Nun, da sich die Dämonin Lilith und ihre furchterregende Horde mit den dunklen Armeen von Hydra vereint haben, ist es an der Zeit, die dunkle Seite von Marvel zu entfesseln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

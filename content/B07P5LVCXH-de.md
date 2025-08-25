@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Körper Sonnencreme
-- Marke Beauty-Produkte
 - Marke Beauty-Produkte Delial
+- Marke Beauty-Produkte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07P5LVCXH{{</world>}}

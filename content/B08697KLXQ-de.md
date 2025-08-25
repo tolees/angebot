@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Fit: Normal
-- Standard
 - Model: VMANA S / L LACE TOP NOOS
+- Standard
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08697KLXQ{{</world>}}

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Korrosionsbeständiges Edelstahl
 - Dient der sicheren Aufbewahrung von Kleinteilen wie Schrauben, Muttern, Nägeln usw.
-- 150 x 225 mm
-- Weiche, gummierte Magnetfüße verkratzen die Oberfläche nicht
 - Haftet fest an eisenhaltigen Oberflächen und verrutscht nicht
+- Weiche, gummierte Magnetfüße verkratzen die Oberfläche nicht
+- 150 x 225 mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000T9W5LY{{</world>}}

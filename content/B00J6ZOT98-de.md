@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abschluss durch hochwertige Aluminium-Klemmleiste
 - Toller Effekt durch fotorealistisches Digitaldruckverfahren!
 - inklusive Paneelwagen (für alle gängigen Gardinenschienen) mit komplettem Zubehör (inkl. Mitnehmer, Röllchen & Gleitern) Einfach Aufhängen und Fertig!
 - Schiebevorhang aus halbtransparentem, dichtem Dekostoff, digital bedruckt
+- Abschluss durch hochwertige Aluminium-Klemmleiste
 - Inklusive Montageanleitung, Material: 100% Polyester, verpackt im Köcher
 - Auf jede beliebige Höhe kürzbar
 

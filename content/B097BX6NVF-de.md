@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPEZIELLE MEDIENSTEUERUNGEN – Mit einem kompletten Satz Medientasten und einem Lautstärkeregler zum Stummschalten hast du die volle Medienkontrolle, ohne dein Spiel zu unterbrechen.
-- AIMO BELEUCHTUNG – AIMO-Beleuchtungstechnologie erzeugt sofort lebendige RGB-Lichteffekte und kann mit anderen kompatiblen AIMO-fähigen Produkten synchronisiert werden.
-- ABNEHMBARE HANDBALLENAUFLAGE – Die abnehmbare, gepolsterte Handballenauflage bietet Unterstützung für lange Gaming-Sessions.
 - TITAN II MECHANISCHE SCHALTER - TITAN II Linear Schalter haben ein sanftes, lineares Gefühl mitminimalem Widerstand, was sie ideal für kompetitives Gaming macht. TITAN II Schalter haben ein optimiertes transparentes Gehäuse für ein besseres Beleuchtungserlebnis und eine getestete Haltbarkeit von 80 Millionen Anschlägen.
 - ANTI-GHOSTING & NKRO – Vollständiger n-key rollover und anti-ghosting stellen sicher, dass jeder einzelne Tastendruck und jede Tastenkombination immer wie vorgesehen registriert wird.
+- ABNEHMBARE HANDBALLENAUFLAGE – Die abnehmbare, gepolsterte Handballenauflage bietet Unterstützung für lange Gaming-Sessions.
+- AIMO BELEUCHTUNG – AIMO-Beleuchtungstechnologie erzeugt sofort lebendige RGB-Lichteffekte und kann mit anderen kompatiblen AIMO-fähigen Produkten synchronisiert werden.
+- SPEZIELLE MEDIENSTEUERUNGEN – Mit einem kompletten Satz Medientasten und einem Lautstärkeregler zum Stummschalten hast du die volle Medienkontrolle, ohne dein Spiel zu unterbrechen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B097BX6NVF{{</world>}}

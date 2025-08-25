@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vorne tief sitzend und am Rücken normal hoch
 - Schmale Taille
+- Vorne tief sitzend und am Rücken normal hoch
 - Eng anliegend vom Oberschenkel bis zum Saum
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Voreingestellte Mengen: 40 ml für Espresso und 110 ml für Lungo
-- 0,8 Liter Wassertank
-- Thermoblock-Heizelement: schnelles Aufheizen in nur 25 sek.
-- Kapselbehälter für ca. 10 gebrauchte Kapseln
 - Automatische Abschaltung 9 min. nach dem letzten Tassenbezug
+- Thermoblock-Heizelement: schnelles Aufheizen in nur 25 sek.
+- 0,8 Liter Wassertank
 - inkl. Aeroccino Milchaufschäumer
+- Voreingestellte Mengen: 40 ml für Espresso und 110 ml für Lungo
+- Kapselbehälter für ca. 10 gebrauchte Kapseln
 - Flow Stop Funktion: automatische und programmierbare
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

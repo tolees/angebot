@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - zeigt die alltäglichen Abenteuer von Rimuru und Co. aus Meine Wiedergeburt als Schleim in einer anderen Welt
 - Anime-Adaption des Manga-Hits von Taiki Kawakami und Fuse (Manga und Light Novel bei Altraverse erhältlich)
-- für Fans von Wise Mans Grandchild, Interviews mit Monster-Mädchen und Monster Girl Doctor
 - beleuchtet Nebencharaktere, die in der Hauptserie zu kurz kommen
+- für Fans von Wise Mans Grandchild, Interviews mit Monster-Mädchen und Monster Girl Doctor
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BNJ6SH91{{</world>}}

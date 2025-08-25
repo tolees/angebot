@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Funktion Overclock: Unterstützung für XMP 3.0 für automatisches Übertakten
 - Garantie: Begrenzte lebenslange Garantie
 - Kompatibilität: Getestet auf den neuesten Intel DDR5 Plattformen
 - Kapazität: 32GB (2 x 16GB) 6000MHz DDR5 RGB Kit
-- Funktion Overclock: Unterstützung für XMP 3.0 für automatisches Übertakten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09XY6KX8P{{</world>}}

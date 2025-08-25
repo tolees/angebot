@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Herausnehmbare Innensohle
-- Leicht verstellbare Passform dank Schnürverschluss
 - Leichter Schuh für mehr Bewegungsfreiheit
 - Die patentierten Geox
+- Leicht verstellbare Passform dank Schnürverschluss
 - Ein Schuh mit optimaler Stoßdämpfung, die vor Stößen und Schlägen schützt
 - Absatzhöhe: 3 cm / 1,2"
 

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
 - Wer immer den Schlüssel zu deinem Herzen hält, feiere die ewige Liebe mit diesem bedeutungsvollen Vorhängeschloss & Herzschlüssel Charm
 - Dieses romantische Vorhängeschloss & Herzschlüssel Charm ist inspiriert von den Schlössern, die Liebende an Brücken auf der ganzen Welt befestigen
-- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
 - Dieses besondere Charm mit einem ausgestanzten Herz für den Schlüssel in der Mitte ist aus Sterling-Silber handveredelt und trägt die Gravur „Be Mine“
 - Schenke es dir selbst oder jemand anderem zum Valentinstag, um deine Liebe immer in der Nähe zu haben
 

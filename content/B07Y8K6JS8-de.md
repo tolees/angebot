@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NETATMO HILFE: Wenn Sie bei der Installation oder Anwendung Ihres Produktes Unterstützung benötigen, können Sie unser Hilfs-Menü unter unsere website
-- UMFASSENDER SCHUTZ: Der 110 Dezibel-Alarm Ihrer Smarten Innen-Alarmsirene wird automatisch ausgelöst, sobald die Smarte Innenkamera einen Eindringling erfasst
-- ABSPIELEN VORAB AUFGENOMMENER GERÄUSCHE, damit es so klingt, als ob Sie Zuhause wären - und zwar auch dann, wenn Sie es nicht sind, App-Kompatibilität: Mindestens iOS 10 erforderlich, Mindestens Android 5.0 erforderlich, PC und Mac über die Webapp
-- AUTOMATISCHE AKTIVIERUNG und DEAKTIVIERUNG: Die Intelligente Alarmanlage aktiviert sich automatisch, wenn Sie Ihr Zuhause verlassen, Sie deaktiviert sich wieder, wenn Sie Zuhause zurück sind
-- DAS ZUBEHÖR für die Smarte Innenkamera von Netatmo wird separat verkauft
 - EINFACHE INSTALLATION: Laden Sie die Security-App herunter und platzieren Sie die Innen-Alarmsirene in der Nähe der Innenkamera
+- UMFASSENDER SCHUTZ: Der 110 Dezibel-Alarm Ihrer Smarten Innen-Alarmsirene wird automatisch ausgelöst, sobald die Smarte Innenkamera einen Eindringling erfasst
+- DAS ZUBEHÖR für die Smarte Innenkamera von Netatmo wird separat verkauft
+- ABSPIELEN VORAB AUFGENOMMENER GERÄUSCHE, damit es so klingt, als ob Sie Zuhause wären - und zwar auch dann, wenn Sie es nicht sind, App-Kompatibilität: Mindestens iOS 10 erforderlich, Mindestens Android 5.0 erforderlich, PC und Mac über die Webapp
+- NETATMO HILFE: Wenn Sie bei der Installation oder Anwendung Ihres Produktes Unterstützung benötigen, können Sie unser Hilfs-Menü unter unsere website
+- AUTOMATISCHE AKTIVIERUNG und DEAKTIVIERUNG: Die Intelligente Alarmanlage aktiviert sich automatisch, wenn Sie Ihr Zuhause verlassen, Sie deaktiviert sich wieder, wenn Sie Zuhause zurück sind
 - DIE PRODUKTE DES ÖKOSYSTEMS DER NETATMO KAMERAS KOMMUNIZIEREN UNTEREINANDER: Vertreiben Sie dank der neuen Interoperabilität Eindringlinge, ganz egal, ob diese drinnen oder draußen erfasst werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

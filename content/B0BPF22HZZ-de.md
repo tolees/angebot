@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
 - Textilfutter
-- Schnürsenkel
+- Reguläre Passform
 - Abriebfestes, wasserdichtes Obermaterial aus Mesh; Synthetik-Overlays
+- Schnürsenkel
 - EVA-Zwischensohle
 - Mit dem Obermaterial verbundene Zunge
 

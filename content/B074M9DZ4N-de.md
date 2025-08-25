@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kein Verstopfen mehr: Mit seinen Mikroporen befreit der Filter das Wasser von Kalk
 - Bitte verwenden Sie ausschlieÃŸlich den Philips AquaClean Filter, um die maximale Lebensdauer und Sicherheit Ihrer Philips oder Saeco Espressomaschine sicherzustellen
 - Besserer Geschmack, längere Lebensdauer: Mit dem innovativen AquaClean Kalk- und Wasserfilter können Sie bis zu 5.000 Tassen zubereiten, ohne das Gerät entkalken zu müssen
 - Einfache Installation: Mühelos und intuitiv dank dem Click-and-Go-System
+- Kein Verstopfen mehr: Mit seinen Mikroporen befreit der Filter das Wasser von Kalk
 - Verwenden Sie für einen zuverlässigen Schutz Ihrer Maschine nur Philips Zubehör
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

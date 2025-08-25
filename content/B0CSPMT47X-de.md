@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 21 Flughafenmissionen mit unterschiedlichen Schwierigkeitsgraden.
+- Kooperatives Spiel für genau zwei Personen.
 - Ausgezeichnet zum Spiel des Jahres 2024
 - Für genau zwei Personen ab 10 Jahren
 - Einfache Regeln, viel Nervenkitzel
-- 21 Flughafenmissionen mit unterschiedlichen Schwierigkeitsgraden.
-- Kooperatives Spiel für genau zwei Personen.
 - Originelles Thema: Landung eines Jumbo-Jets
 
 [🛒 Hier!!]({{< param buyurl >}})

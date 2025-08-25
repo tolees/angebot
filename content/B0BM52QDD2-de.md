@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verschluss: Ethylenvinylacetat
-- Absatzform: Blockabsatz
 - Obermaterial: Leder
+- Absatzform: Blockabsatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BM52QDD2{{</world>}}

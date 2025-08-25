@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herznote: Tuberose, Jasmin, Ylang - Ylang, Rose, Orangenblüte, Nelke, Orris
-- Berühren Sie die Sinne und den Geist auf subtile, angenehme Weise
 - Basisnote: Weihrauch, Moschus, Moos, Sandelholz, Vetiver, Patchouli
+- Berühren Sie die Sinne und den Geist auf subtile, angenehme Weise
+- Herznote: Tuberose, Jasmin, Ylang - Ylang, Rose, Orangenblüte, Nelke, Orris
 - Kopfnote: Salbei, Zitronenverbene, brasilisches Rosenholz, Kamille, Aldehyde, Bergamotte, Koriander
 - Aromatics Elixir spricht die Individualistin jeder Frau an
 

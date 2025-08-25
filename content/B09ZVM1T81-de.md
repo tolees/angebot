@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leder: Smooth Leather
+- ElastanElastan
 - Verschluss: Thermoplastische Elastomere
 - 10.9448818786 inches
-- ElastanElastan
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVM1T81{{</world>}}

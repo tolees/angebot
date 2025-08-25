@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herbst-Winter
 - 167008 CHOC
-- Weiblich
-- TREGO BASE CAMP
+- Herbst-Winter
 - Wandern
+- TREGO BASE CAMP
+- Weiblich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07V2NRXKX{{</world>}}

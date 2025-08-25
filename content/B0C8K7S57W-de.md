@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial: 100 % Rindsleder
-- Sohle: 51% recyceltes EVA - 49% EVA
 - Better Leather,Better Outsoles
+- Sohle: 51% recyceltes EVA - 49% EVA
 - Farbe: Mittelgrün
 
 [🛒 Hier!!]({{< param buyurl >}})

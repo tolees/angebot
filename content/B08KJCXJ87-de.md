@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Als Innen- und Außenabzieher verwendbar
 - Zum Abziehen von z.B. Innenlager, Außenlager, Kugellager etc
 - Ein Qualitätswerkzeug powered by KS TOOLS
-- Als Innen- und Außenabzieher verwendbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08KJCXJ87{{</world>}}

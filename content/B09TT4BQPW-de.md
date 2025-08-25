@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony kabellose WI-C100 In-Ear-Kopfhörer  bis zu 25 Stunden Akkulaufzeit  optimiert für Sprachassistenten  integriertes Mikrofon für Telefonate  Bluetooth   Schwarz  klein'
-date: 2025-07-15 17:46:23
+date: 2025-08-25 09:42:25
 image: 'https://m.media-amazon.com/images/I/31u6oNEVPtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony'
 buyurl: 'https://www.amazon.de/dp/B09TT4BQPW/?tag=tolees0ca-21'
 descuento: '40.01'
-average: '29.7042857142857'
+average: '29.7677777777778'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ihr Sound, nach Ihrem Geschmack
+- Lange Akkulaufzeit von bis zu 25 Stunden
 - Ganz natürlich klingende Musik
 - Voll mit nützlichen Funktionen
-- Lange Akkulaufzeit von bis zu 25 Stunden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TT4BQPW{{</world>}}

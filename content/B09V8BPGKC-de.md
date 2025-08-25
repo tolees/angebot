@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wenn niemand zuhause ist oder ein offenes Fenster erkannt wurde, erinnert Sie die tado° App per Push-Nachricht daran, die Heizung herunterzuregeln
 - Der tado° Funk-Temperatursensor misst die Temperatur, wo sie Ihnen am wichtigsten ist und stellt die Raumtemperatur genau nach Ihren Wünschen ein
-- Dank Intelligenter Zeitpläne stellt tado° individuell für jeden Raum, zu jeder Zeit die ideal Temperatur ein – natürlich nur, wenn jemand zuhause ist; Ein- und Ausschalten auch per Kurzbefehl
+- Wenn niemand zuhause ist oder ein offenes Fenster erkannt wurde, erinnert Sie die tado° App per Push-Nachricht daran, die Heizung herunterzuregeln
 - Das Gerät kann an einer Wand oder einer beliebigen anderen Oberfläche platziert werden – kein Bohren erforderlich; der passende Standfuß ist optional erhältlich
 - Zusatzprodukt für tado° Smarte Heizkörper-Thermostate; der Funk-Temperatursensor steuert ein oder mehrere Smarte Heizkörper-Thermostate im selben Raum, um die ideale Temperatur zu erreichen
+- Dank Intelligenter Zeitpläne stellt tado° individuell für jeden Raum, zu jeder Zeit die ideal Temperatur ein – natürlich nur, wenn jemand zuhause ist; Ein- und Ausschalten auch per Kurzbefehl
 - Steuern Sie Ihre Heizung von überall aus mit der tado° App, reduzieren Sie Ihren Energieverbrauch und sparen Sie Geld mit den intelligenten Funktionen von tado°
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

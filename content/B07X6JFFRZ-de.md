@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit Werkzeugfinder "Take it easy": Farbkennzeichnung nach Größen
-- Sechskantprofil ermöglicht präzises Verschrauben mit hoher Kraftübertragung und schont dabei das Profil
-- Für die Hand- und Maschinenbetätigung (non-impact), mit Kugelfangrille
-- Rändelung am hinteren Ende für hohe Griffigkeit bei Handbetätigung
 - Lange Steckschlüssel für tiefliegende Verschraubungen und teilweise auch bei überstehenden Gewindestangen in engen Bauräumen
+- Für die Hand- und Maschinenbetätigung (non-impact), mit Kugelfangrille
+- Sechskantprofil ermöglicht präzises Verschrauben mit hoher Kraftübertragung und schont dabei das Profil
+- Rändelung am hinteren Ende für hohe Griffigkeit bei Handbetätigung
 - Aus mattverchromtem Chrom-Vanadium
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

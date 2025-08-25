@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet bei Erschöpfung, Müdigkeit oder einer reduzierten Leistungsfähigkeit. Vor allem auch bei Menschen ab 50 Jahren, da hier der Vitamin-B12-Spiegel wissenschaftlicher Untersuchungen zufolge bereits verringert sein kann.
-- Als Aufbaukur über 30 Tage empfohlen (mehrmals pro Jahr, z.B. im Frühjahr oder Herbst), um dein Energie-Depot nachhaltig aufzuladen
 - 1 Trinkfläschchen am Tag hilft, den empfohlenen B12-Tagesbedarf zu decken und den Vitamin B12-Speicher aufzufüllen.
-- Hochdosierte Vitamin B12-Aufbaukur zur Verbesserung deiner geistigen und körperlichen Energie, für mehr Lebenskraft im Alltag
+- Als Aufbaukur über 30 Tage empfohlen (mehrmals pro Jahr, z.B. im Frühjahr oder Herbst), um dein Energie-Depot nachhaltig aufzuladen
+- Geeignet bei Erschöpfung, Müdigkeit oder einer reduzierten Leistungsfähigkeit. Vor allem auch bei Menschen ab 50 Jahren, da hier der Vitamin-B12-Spiegel wissenschaftlicher Untersuchungen zufolge bereits verringert sein kann.
 - Mit hochdosiertem Vitamin B12 (500µg) und wertvollen Eiweißbausteinen, zur Verbesserung des Allgemeinbefindens – für stärkere Konzentrationsfähigkeit und zur Unterstützung des Nervensystems. Kann Müdigkeit und Erschöpfung spürbar verringern.
+- Hochdosierte Vitamin B12-Aufbaukur zur Verbesserung deiner geistigen und körperlichen Energie, für mehr Lebenskraft im Alltag
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B089HL2WWG{{</world>}}

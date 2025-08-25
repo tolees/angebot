@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke:Clinique
-- Skin type: Face
+- Einfacheres Auftragen und weniger Abfall
 - Marke:Clinique
 - Tragbar und Multifunktion
-- Einfacheres Auftragen und weniger Abfall
+- Marke:Clinique
+- Skin type: Face
 - Einfacheres Auftragen und weniger Abfall
 - Hair type: Normal
 - Tragbar und Multifunktion

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwei Innentaschen, davon eine mit Reißverschluss.
 - Verstellbarer Schulterriemen
 - Metallplakette mit elegant-dezentem Geox-Logo.
+- Zwei Innentaschen, davon eine mit Reißverschluss.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B4PKSRZB{{</world>}}

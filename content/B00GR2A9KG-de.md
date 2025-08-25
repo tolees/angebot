@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Produkte
 - 40 mm Breite
+- Hochwertige Produkte
 - Konisch geschliffen
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Easy-Fit
 - Lightweight
+- Easy-Fit
 - Flexibility
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

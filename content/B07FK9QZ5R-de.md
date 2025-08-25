@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: Nike
 - Effektives Feuchtigkeitsmanagement
-- 100% Polyester
 - Absolute Bewegungsfreiheit
+- 100% Polyester
+- Marke: Nike
 - Hoher Tragekomfort
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 77326
 - Fjällräven Unisex Lappland Fleece StrickMütze, Grün (Dark Olive 633), Einheitsgröße EU
+- 77326
 - Zubehör
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

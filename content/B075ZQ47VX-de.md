@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - exklusives Gehäuse aus gebürstetem Alu-Druckguss, massive, abnehmbare Alu-Druckguss-Grillplatte, je 41 x 10 cm
-- Inklusive: 8 hochwertige, antihaftbeschichtete Pfännchen mit wärmeisolierten Griffen, 8 Wendeschaber, 2 Netzkabeln, 1 Verbindungskabel
 - stufenlose Temperaturregelung, Kontrolllampe, Überhitzungsschutz, extra langes, abnehmbares XXL-Kabel (2 m)
+- Inklusive: 8 hochwertige, antihaftbeschichtete Pfännchen mit wärmeisolierten Griffen, 8 Wendeschaber, 2 Netzkabeln, 1 Verbindungskabel
 - Grillplatte mit hochwertiger 2-Lagen Antihaftbeschichtung Xylan Plus, für beste Ergebnisse und superleichte Reinigung
 - praktisches Parkdeck für heiße und unbenutzte Pfännchen, Pfännchen von allen Seiten einschiebbar
 

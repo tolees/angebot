@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GENTLE ON SKIN
 - EXTRA DURABLE
+- GENTLE ON SKIN
 - CUSHIONING
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

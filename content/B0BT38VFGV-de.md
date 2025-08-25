@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält das Minecraft Legends Basisspiel und das Deluxe Skin Pack mit sechs zusätzlichen In-Game-Skins: ein*e Held*in, vier Mounts und einen zusätzlichen Mount-Skin, sobald dieser verfügbar ist.
 - Fordere deine Freund*innen heraus oder schließe dich zusammen, um in erbitterten Kämpfen dein Dorf zu verteidigen und deine Einheiten bei der Zerstörung der gegnerischen Siedlungen anzuführen.
-- Erlebe eine der größten Legenden des Minecraft-Universums und die Oberwelt, wie du sie noch nie zuvor gesehen hast.
+- Enthält das Minecraft Legends Basisspiel und das Deluxe Skin Pack mit sechs zusätzlichen In-Game-Skins: ein*e Held*in, vier Mounts und einen zusätzlichen Mount-Skin, sobald dieser verfügbar ist.
 - Willst du die*der bestgekleidete Held*in auf dem Schlachtfeld sein? Kämpfe gegen die Bedrohung durch die Piglins in einigen der besten Gewänder, die die Oberwelt je gesehen hat! Kleide deine*n Held*in und sein*ihr treues Ross in exquisite Gewänder mit dem Minecraft Legends Deluxe Skin Pack, das einen Hero-Skin, vier Mount-Skins und einen zusätzlichen Mount-Skin enthält, sobald dieser verfügbar ist. Aber vergiss nicht, dass diese Skins dir keinen Vorteil auf dem Schlachtfeld verschaffen – abgesehen von einem Schub Selbstvertrauen natürlich!
-- Durchlaufe eine opulente, dynamische Welt, die reich an Ressourcen ist und sich in jedem Durchgang verändert .
+- Erlebe eine der größten Legenden des Minecraft-Universums und die Oberwelt, wie du sie noch nie zuvor gesehen hast.
 - Schmiede Allianzen mit neuen Freund*innen und vertrauten Mobs und übernimm die Führung in spektakulären Schlachten gegen die grimmigen Piglins und verteidige die Oberwelt.
+- Durchlaufe eine opulente, dynamische Welt, die reich an Ressourcen ist und sich in jedem Durchgang verändert .
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BT38VFGV{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tauche in ein Wolkenmeer und entdecke ein Land, das nicht an die Zeit gebunden zu sein scheint!
-- Pokémon aus der Vergangenheit wie Donnersichel-ex und Sandfell-ex sowie Pokémon aus der Zukunft wie Eisenkrieger-ex und Eisenhand-ex erscheinen mit gewaltigen Attacken.
-- Enthält 36 Boosterpacks der Pokémon-Sammelkartenspiel-Erweiterung Karmesin & Purpur – Paradoxrift (jedes Boosterpack enthält 10 Karten und 1 Basis-Energie, mit 3 garantierten holografischen Karten pro Boosterpack).
 - Diese Box eignet sich hervorragend dazu, deine Sammlung zu erweitern!
+- Tauche in ein Wolkenmeer und entdecke ein Land, das nicht an die Zeit gebunden zu sein scheint!
+- Enthält 36 Boosterpacks der Pokémon-Sammelkartenspiel-Erweiterung Karmesin & Purpur – Paradoxrift (jedes Boosterpack enthält 10 Karten und 1 Basis-Energie, mit 3 garantierten holografischen Karten pro Boosterpack).
+- Pokémon aus der Vergangenheit wie Donnersichel-ex und Sandfell-ex sowie Pokémon aus der Zukunft wie Eisenkrieger-ex und Eisenhand-ex erscheinen mit gewaltigen Attacken.
 - Diese Erweiterung enthält Knakrack-ex, Mewtu-ex und andere, die nach der Terakristallisierung neue Typen erhalten.
 
 [🛒 Hier!!]({{< param buyurl >}})

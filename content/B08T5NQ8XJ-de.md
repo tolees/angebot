@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standard Passform
-- 100 prozent Polyester
 - Rundhalsausschnitt
 - Ideale Atmungsaktivität
+- Standard Passform
+- 100 prozent Polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08T5NQ8XJ{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PORTABLE TOOL BOX
-- Perel
 - Inhalt: 1 Stück
+- Perel
+- PORTABLE TOOL BOX
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009EO0IAU{{</world>}}

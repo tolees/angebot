@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deutsch, Japanisch
 - BRD
 - 235
+- Deutsch, Japanisch
 - Yuichiro Hayashi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

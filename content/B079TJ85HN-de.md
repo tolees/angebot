@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Offizielles Lizenzprodukt
-- Jurassic World 2: Fallen Kingdom
-- Sehr detailliert
 - Funko POP! Movies
 - Claire Dearing
+- Jurassic World 2: Fallen Kingdom
+- Sehr detailliert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B079TJ85HN{{</world>}}

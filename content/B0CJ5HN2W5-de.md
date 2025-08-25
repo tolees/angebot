@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 1: lässiges Jeans-Jäckchen in angesagter gewaschener Optik
 - Produkt 2: lässiges Jeans-Jäckchen in angesagter gewaschener Optik
+- Produkt 1: lässiges Jeans-Jäckchen in angesagter gewaschener Optik
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJ5HN2W5{{</world>}}

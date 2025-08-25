@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alleinfuttermittel für ausgewachsene Katzen
 - Hochwertiges Nassfutter, das deine Katze mit allen Nährstoffen versorgt
 - Köstliches Nassfutter in Sauce aus erlesenen Zutaten
+- Alleinfuttermittel für ausgewachsene Katzen
 - Serviert in einem 50g Portionsbeutel
 
 [🛒 Hier!!]({{< param buyurl >}})

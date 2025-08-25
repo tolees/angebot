@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wildleder, Textil und Gewebe
 - Omni-Grip spurlose Traktions-Gummisohle für idealen Grip
+- Wildleder, Textil und Gewebe
 - Wasserdichtes Material
 - Techlite leichte Mittelsohle für Komfort und Dämpfung
 

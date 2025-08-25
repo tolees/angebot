@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zuverlässige microSD-Speicherkarte mit hoher Geschwindigkeit für den Einsatz in Drohnen, Action Kameras, 360° Kameras, Smartphones und Tablets (inkl. SD-Adapter)
-- Lieferumfang: 1 x Samsung PRO Ultimate microSD Speicherkarte (MB-MY128SA/WW), 128 GB, Inkl. SD-Adapter, Maße (L x B x T): 15 x 11 x 1 mm, Gewicht: 0,26 g
 - Geeignet für 4K-/UHD- und Serienaufnahmen mit hohen Übertragungsgeschwindigkeiten von bis zu 200 MB/s Lese- und 130 MB/s Schreibgeschwindigkeit (UHS-I U3)
-- Robust dank 6-fach Schutz: wasserfest, temperaturbeständig, röntgensicher, magnetresistent, sturzsicher und verschleißfrei (Erläuterungen siehe Abschnitt "Produktbeschreibung des Herstellers")
+- Lieferumfang: 1 x Samsung PRO Ultimate microSD Speicherkarte (MB-MY128SA/WW), 128 GB, Inkl. SD-Adapter, Maße (L x B x T): 15 x 11 x 1 mm, Gewicht: 0,26 g
+- Zuverlässige microSD-Speicherkarte mit hoher Geschwindigkeit für den Einsatz in Drohnen, Action Kameras, 360° Kameras, Smartphones und Tablets (inkl. SD-Adapter)
 - SD-Karte mit bis zu 128 GB Speicherkapazität für bis zu 7,5 Stunden Aufnahmezeit von 4K-/UHD-Videos oder 67.518 Fotos in FHD, Fotografie- und Kamera-Zubehör für Kreative, Foto- und Medienprofis
+- Robust dank 6-fach Schutz: wasserfest, temperaturbeständig, röntgensicher, magnetresistent, sturzsicher und verschleißfrei (Erläuterungen siehe Abschnitt "Produktbeschreibung des Herstellers")
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CBMGDBTH{{</world>}}

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Figur Circa 4 cm groß
+- Kopf, Arme und Beine sind beweglich
 - Mit Pool, Flugzeugbett, Klavier und Strickleiter
 - süßer Heißluftballon Mit Tür zum Öffnen
 - Inkl. Tuxedo Katzen Baby Figur
-- Kopf, Arme und Beine sind beweglich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09P3QMQ91{{</world>}}

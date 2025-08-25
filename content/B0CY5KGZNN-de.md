@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - bunt bedruckt mit Figuren aus Hot Wheels
-- Spielball mit offiziell lizenziertem Hot Wheels Motiv
 - Durchmesser 9" ca. 23 cm
+- Spielball mit offiziell lizenziertem Hot Wheels Motiv
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CY5KGZNN{{</world>}}

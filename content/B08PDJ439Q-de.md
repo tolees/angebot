@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dezentem Logo auf der Brust
-- Aus leichtem, atmungsaktivem Pikeegewebe
 - Ein vielseitiges Poloshirt, das stilvoll, schick und alles andere als altbacken ist
+- Aus leichtem, atmungsaktivem Pikeegewebe
+- Mit dezentem Logo auf der Brust
 - Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Chlorresistent, für lange Lebensdauer des Gewebes
 - Weiches, strapazierfähiges Material
 - Niedrige Bundhöhe
+- Chlorresistent, für lange Lebensdauer des Gewebes
 - Aus recyceltem Nylon hergestellt
 - Minimale Abdeckung
 

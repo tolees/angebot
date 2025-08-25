@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1000 GB Schwarz
-- Lesegeschwindigkeit: 1050 MB/s Schreibgeschwindigkeit: 950 MB/s
-- Hardwareverschlüsselung
 - Gehäusematerial: Aluminium
+- Lesegeschwindigkeit: 1050 MB/s Schreibgeschwindigkeit: 950 MB/s
 - USB Typ-A auf USB Typ-C Thunderbolt-Technologie
+- 1000 GB Schwarz
+- Hardwareverschlüsselung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C3B32H9M{{</world>}}

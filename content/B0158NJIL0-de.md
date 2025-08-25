@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MUST-HAVE: diese Decke mit langen Ärmeln hüllt Sie rundum mollig ein und ermöglicht die Hände frei zu bewegen. Für das perfekte Arbeiten zu Hause, im Büro, auch bequem beim Fernsehen oder lesen
 - KUSCHELWEICH: Sofadecke aus 100% Polyester, Coral-Fleece, ca. 240g/qm, maschinenwaschbar bis 40 Grad, trocknergeeignet, hautfreundlich, pflegeleicht und antistatisch ausgerüstet
-- KOMFORT: durch die praktische 2 in 1 Außentasche, sind Handys, Fernbedienungen und vieles mehr schnell zur Hand und geschützt. Dazu verfügt diese Fleecedecke über eine Fußtasche - Nie mehr kalte Füße
 - PREMIUM MARKE TV-DECKE ULTRA SOFT: diese anschmiegsame Mikrofaser Tagesdecke ist angenehm weich, federleicht, hält warm und ist darüber hinaus ein perfektes Accessoire für ein kuscheliges Zuhause
+- KOMFORT: durch die praktische 2 in 1 Außentasche, sind Handys, Fernbedienungen und vieles mehr schnell zur Hand und geschützt. Dazu verfügt diese Fleecedecke über eine Fußtasche - Nie mehr kalte Füße
+- MUST-HAVE: diese Decke mit langen Ärmeln hüllt Sie rundum mollig ein und ermöglicht die Hände frei zu bewegen. Für das perfekte Arbeiten zu Hause, im Büro, auch bequem beim Fernsehen oder lesen
 - QUALITÄT GEPRÜFT: zertifiziert nach OEKO-TEX CONFIDENCE IN TEXTILES - Standard 100. Ein echter Hingucker und ein tolles Geschenk ist die Verpackung jeder Schmusedecke mit einer Satinband Schleife
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

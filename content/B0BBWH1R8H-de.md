@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erweiterte Speicherkapazitäten
-- Gen 4x4 NVMe PCIe-Leistung
 - Ideal für Laptops und PCs mit kleinem Formfaktor
+- Gen 4x4 NVMe PCIe-Leistung
+- Erweiterte Speicherkapazitäten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BBWH1R8H{{</world>}}
