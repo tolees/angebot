@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - EASY FIT
-- SOFT FEELING
-- RECYCLED
 - LIGHTWEIGHT
+- RECYCLED
+- SOFT FEELING
 - FLEXIBLE
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

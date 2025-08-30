@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale Passform
-- Gesticktes Logo
 - Absolute Bewegungsfreiheit
 - Einfache Passform und moderner Look
+- Gesticktes Logo
+- Normale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DT75K2Q6{{</world>}}

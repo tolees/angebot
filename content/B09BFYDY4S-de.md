@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Große Räder für sicheren Stand
-- Anhängerkupplung
 - Funktionen: Schaufel heben/senken/abkippen
+- Große Räder für sicheren Stand
 - Abmessungen: ca. 615 x 275 x 340 mm
+- Anhängerkupplung
 - Robustes Kunststoffgehäuse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

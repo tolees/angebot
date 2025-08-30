@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gefüttertes Fach für elektronische Geräte
 - Rucksack mit zwei Hauptfächern und großer Fronttasche
-- Maße: 36,5 x 26 x 10cm
+- Gefüttertes Fach für elektronische Geräte
 - Sicherheitstasche auf der Rückseite und schützende Frontklappe
+- Maße: 36,5 x 26 x 10cm
 - Verstellbare Schultergurte
 
 [🛒 Hier!!]({{< param buyurl >}})

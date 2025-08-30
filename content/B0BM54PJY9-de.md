@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnüren
-- Absatzform: Flach
 - Obermaterial: Textil
+- Verschluss: Schnüren
 - Sohle: Gummi
+- Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM54PJY9{{</world>}}

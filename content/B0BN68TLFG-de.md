@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserbeständigkeitsgrad : Wasserdicht
-- Absatzform : Flach
 - Schuhweite : Medium
+- Absatzform : Flach
+- Wasserbeständigkeitsgrad : Wasserdicht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BN68TLFG{{</world>}}

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der BatteryProtect kann auf verschiedene Spannungen eingestellt werden, um ein- / auszuschalten, das Sieben-Segment-Display zeigt an, welche Einstellung gewählt wurde
-- Victron Energy BatteryProtect trennt die Batterie von nicht benötigten Lasten, bevor sie vollständig entladen ist (was die Batterie beschädigen würde) oder bevor sie nicht mehr genügend Leistung hat, um den Motor zu starten
-- 12/24-Volt-Auto-Ranging - Der BatteryProtect erkennt automatisch die Systemspannung
 - Eine unsachgemäße Installation kann gefährlich sein. Bitte wenden Sie sich an einen zugelassenen Fachmann und befolgen Sie bei der Installation alle geltenden Elektrovorschriften
 - Maximaler Dauerlaststrom 65 Ampere und Spitzenstrom (während 30 Sekunden) 250 Ampere
+- 12/24-Volt-Auto-Ranging - Der BatteryProtect erkennt automatisch die Systemspannung
+- Victron Energy BatteryProtect trennt die Batterie von nicht benötigten Lasten, bevor sie vollständig entladen ist (was die Batterie beschädigen würde) oder bevor sie nicht mehr genügend Leistung hat, um den Motor zu starten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N6ATT8C{{</world>}}

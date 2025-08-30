@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kopf, Arme und Beine sind beweglich
-- ca. 8 cm groß
 - tolles Popcorn Lieferwagen Spielset mit Dreirad, Popcorn Verkaufsstand, Fahrradkorb, Verkaufsstand und zahlreichem Popcorn und Lolli Zubehör
+- ca. 8 cm groß
+- Kopf, Arme und Beine sind beweglich
 - mit Schaf Mutter Figur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

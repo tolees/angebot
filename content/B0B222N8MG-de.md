@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- High Resolution Audio
-- Bluetooth (v4.2)
 - AI Sound Pro für automatische Klanganpassung
+- Bluetooth (v4.2)
+- High Resolution Audio
 - TV Sound Mode Share
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

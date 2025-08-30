@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - umstellbar von 100 mm auf 130/135 mm
-- automatische Mittigstellung beim Einspannen des Laufrades
 - Alu/Stahl, zusammenklappbar
 - für 12"-29" Laufräder
+- automatische Mittigstellung beim Einspannen des Laufrades
 - simultane Kontrolle des Höhen- und Seitenschlages möglich
 
 [🛒 Hier!!]({{< param buyurl >}})

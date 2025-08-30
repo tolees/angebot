@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Classical
 - Harmonia Mundi
+- Classical
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08NZSY27Q{{</world>}}

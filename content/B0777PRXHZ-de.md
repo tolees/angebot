@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Energieverbrauch 11 kWh/1000h bei 1055 lm
 - Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt)
 - Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
-- Sofort volles Licht, keine Aufwärmzeit
 - Lange Lebensdauer bis zu 15000 Stunden und bis zu 100000 Schaltzyklen
 - Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 75-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
+- Sofort volles Licht, keine Aufwärmzeit
+- Energieverbrauch 11 kWh/1000h bei 1055 lm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0777PRXHZ{{</world>}}

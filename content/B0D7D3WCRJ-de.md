@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MATERIAL & PFLEGE: Das Poloshirt besteht aus 96% Bio-Baumwolle und 4% Elastan. Es kann in der Maschine gewaschen werden.
-- BEWÄHRTE QUALITÄT: Seit 1985 überzeugt die Designer-Marke weltweit durch ihre Qualität und Leichtigkeit mit vielfältigen Styles in den bekannten Farben Dunkelblau, Weiß und Rot.
 - SCHLICHT & ELEGANT: Das moderne Shirt zeichnet sich durch seinen klassischen Kragen und den besonders hohen Tragekomfort aus. Die zwei Knöpfe sowie die dezente Flag auf der Brust machen den Look komplett.
 - OPTIMALE PASSFORM: Das Regular Fit Poloshirt ist ein zeitloser Klassiker, der durch seine bequeme Passform überzeugt. Das Shirt aus weichem Material mit Stretchanteil sorgt für ein angenehmes Tragegefühl.
+- MATERIAL & PFLEGE: Das Poloshirt besteht aus 96% Bio-Baumwolle und 4% Elastan. Es kann in der Maschine gewaschen werden.
+- BEWÄHRTE QUALITÄT: Seit 1985 überzeugt die Designer-Marke weltweit durch ihre Qualität und Leichtigkeit mit vielfältigen Styles in den bekannten Farben Dunkelblau, Weiß und Rot.
 - PREMIUM DESIGN: Das Oberteil mit zeitlosem Design liegt angenehm auf der Haut und zeichnet sich durch seinen hohen Tragekomfort aus. Egal, ob im Büro oder in der Freizeit, das Shirt bietet immer eine perfekte Kombination aus Komfort und Stil.
 
 [🛒 Hier!!]({{< param buyurl >}})

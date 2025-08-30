@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gesichtsreinigung dermatologisch getestet, Nicht-komedogene Formel mit 3 essenziellen Ceramiden pflanzlichen Ursprungs, Hyaluronsäure, Glycerin, Vitamin E und Niacinamid, Ohne Parfum
-- Wirkung: Pflegende Reinigung zur Entfernung von überschüssigem Talg und Makeup, Optimale Feuchtigkeitsversorgung, Stärkung der natürlichen Hautschutzbarriere
-- Lieferumfang: 1x CeraVe Schäumendes Reinigungsgel für normale bis fettige Haut, Inhalt: 562 ml
 - Hautpflege für die tägliche Anwendung am Morgen, Abend und nach Bedarf: Waschlotion auf das angefeuchtete Gesicht oder unter der Dusche auf dem Körper auftragen, sanft einmassieren und gründlich abspülen
+- Lieferumfang: 1x CeraVe Schäumendes Reinigungsgel für normale bis fettige Haut, Inhalt: 562 ml
+- Wirkung: Pflegende Reinigung zur Entfernung von überschüssigem Talg und Makeup, Optimale Feuchtigkeitsversorgung, Stärkung der natürlichen Hautschutzbarriere
 - Schäumendes Reinigungsgel mit kontrollierter Wirkstoff-Freisetzung zur Feuchtigkeitsversorgung den ganzen Tage lang, Geeignet für normale bis ölige Haut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

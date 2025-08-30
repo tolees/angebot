@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Falsche Wimpern für einen strahlenden Augenaufschlag, Schwarze Farbe mit Jumbo-Volumen und -Länge, Kann bei richtiger Pflege bis zu 15 Mal getragen werden, Wimpernkleber separat erhältlich
-- Für dichte, lange und voluminöse Wimpern, Dramatischer Wimpern Look, Ideal für ein gewagtes Augen-Make-up
+- Lieferumfang: 1x NYX Professional Makeup Jumbo Lash!, Wiederverwendbare & kombinierbare vegane falsche Wimpern, Extension Clusters
 - Leichte, komfortable und innovative Wimpern, Unsichtbare, ultraflexible Wimpernbänder, Vegane Formel ohne Inhaltsstoffe trierischen Ursprungs
 - Einfache Anwendung: Den 2in1 Liner und Wimpernkleber auf den Wimpernansatz auftragen (separat erhältlich) und die Wimpern mit den Fingern, einer Pinzette oder Wimpernapplikator aufsetzen
-- Lieferumfang: 1x NYX Professional Makeup Jumbo Lash!, Wiederverwendbare & kombinierbare vegane falsche Wimpern, Extension Clusters
+- Falsche Wimpern für einen strahlenden Augenaufschlag, Schwarze Farbe mit Jumbo-Volumen und -Länge, Kann bei richtiger Pflege bis zu 15 Mal getragen werden, Wimpernkleber separat erhältlich
+- Für dichte, lange und voluminöse Wimpern, Dramatischer Wimpern Look, Ideal für ein gewagtes Augen-Make-up
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09XGWZMRK{{</world>}}

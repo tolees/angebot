@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Dünne Ausführung für Lamellen und andere schwer zugängliche Stellen
 - Dazu passende Schleifblätter 93 x 280 mm
-- Verlängerte Schleifplatte für Schwingschleifer von Bosch
-- Mit Kletthaftung
 - Passend zu GSS 230 A, GSS 230 AE, GSS 280 A und GSS 280 AE Professional
+- Mit Kletthaftung
+- Verlängerte Schleifplatte für Schwingschleifer von Bosch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0014GTSOI{{</world>}}

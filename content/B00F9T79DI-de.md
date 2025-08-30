@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Durch die unterschiedlichen Gößen können die Boxen individuell zusammengestellt werden
-- zur ordentlichen Aufbewahrung
-- Technische Merkmale: Abmessung (L x B x H) 60 x 60.00 x 71.00 mm; Inhalt: 6 Stück
-- Verbrauchsmaterial und Kleinteile übersichtlich sortieren und aufbewahren
 - Lieferumfang: Festool Einsatzboxen Box 60x60x71/6 SYS-SB
+- zur ordentlichen Aufbewahrung
+- Verbrauchsmaterial und Kleinteile übersichtlich sortieren und aufbewahren
+- Technische Merkmale: Abmessung (L x B x H) 60 x 60.00 x 71.00 mm; Inhalt: 6 Stück
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00F9T79DI{{</world>}}

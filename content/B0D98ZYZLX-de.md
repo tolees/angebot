@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- V-Ausschnitt mit Rippblende
 - senkrechtes Artwork mit Stickereien vorne
-- Logo Print auf dem oberen Rücken
 - mit Farbverlauf
+- V-Ausschnitt mit Rippblende
+- Logo Print auf dem oberen Rücken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D98ZYZLX{{</world>}}

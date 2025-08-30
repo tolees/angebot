@@ -29,14 +29,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - IP68-zertifizierte Staub- und Wasserbeständigkeit.
-- Bluetooth 5.4, Qualcomm aptX Adaptive und aptX Lossless, 3,5-mm-Kopfhörerbuchse.
-- Rückwärtige Hauptkamera: Sony IMX890 50 MP Bildsensor mit Gimbal 3.0, Zweite Rückkamera: 13 MP, 120° Ultraweitwinkelkamera, Dritte Rückkamera: 32 MP, Frontkamera: 32 MP.
-- Android 14.
+- Video-Aufnahme: Exklusiver Cinematic-Modus, bis zu 8K UHD in 24 FPS und 4K UHD in 60 FPS.
 - 12 GB LPDDR5X RAM und 256 GB UFS 4.0-Speicher.
+- ASUS AI-Funktionen: Semantische Suche, Anrufübersetzer, AI Wallpaper und Geräuschunterdrückung.
+- Bluetooth 5.4, Qualcomm aptX Adaptive und aptX Lossless, 3,5-mm-Kopfhörerbuchse.
 - 6,78" Flexibles AMOLED LTPO 144Hz Display, Spitzenhelligkeit bis zu 2500 nits.
 - 5500mAh Akku, Quick Charge 5.0 und PD Charging.
-- Video-Aufnahme: Exklusiver Cinematic-Modus, bis zu 8K UHD in 24 FPS und 4K UHD in 60 FPS.
-- ASUS AI-Funktionen: Semantische Suche, Anrufübersetzer, AI Wallpaper und Geräuschunterdrückung.
+- Android 14.
+- Rückwärtige Hauptkamera: Sony IMX890 50 MP Bildsensor mit Gimbal 3.0, Zweite Rückkamera: 13 MP, 120° Ultraweitwinkelkamera, Dritte Rückkamera: 32 MP, Frontkamera: 32 MP.
 - Qualcomm Snapdragon 8 Gen 3 Mobile Plattform.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

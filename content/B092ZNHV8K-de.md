@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompaktes, leichtes und ergonomisches Werkzeug für komfortables Handling und einfaches Bohren von bis zu 12 mm Durchmesser in Mauerwerk und bis zu 25 mm in Holz
+- Standardausstattung: EasyImpact 600, Koffer
+- Das Bosch Electronic System ermöglicht die Regelung der Geschwindigkeit beim Bohren durch Abstufung der Druckkraft auf den
 - Das zweiteilige Schnellspannbohrfutter ermöglicht einen schnellen und einfachen Wechsel der Bohrer
 - Werkzeuge der Easy Serie von Bosch - Das handliche Werkzeug für alle kleinen Projekte
-- Das Bosch Electronic System ermöglicht die Regelung der Geschwindigkeit beim Bohren durch Abstufung der Druckkraft auf den
-- Standardausstattung: EasyImpact 600, Koffer
+- Kompaktes, leichtes und ergonomisches Werkzeug für komfortables Handling und einfaches Bohren von bis zu 12 mm Durchmesser in Mauerwerk und bis zu 25 mm in Holz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B092ZNHV8K{{</world>}}

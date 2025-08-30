@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schneefang, Kantenschutz, Träger
 - Langgröße/ lange Beinlänge
 - 4 Wege Stretch Material/ elastische Qualität
-- Schneefang, Kantenschutz, Träger
 - Getapte Nähte/ Wind- und wasserdicht
 - 10.000mm Wassersäule/ Atmungsaktivität 5000g/m²/24 h
 

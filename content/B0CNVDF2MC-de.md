@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Good Heat Dissipation Effect】With 3510 ultra-quiet cooling fan and thermal pads, it can lower the temperature of Raspberry Pi Board quickly.
-- 【Support PWM Speed Control】Different from ordinary fans, this cooling fan supports PWM speed regulation, which is perfectly compatible with Raspberry Pi OS.
 - 【Package Includes】1 x Armor lite V5 for Raspberry Pi 5, 1 x Screw driver, 2 x Screws, 4 x Thermal Pads, 1 x User Manual
+- 【Good Heat Dissipation Effect】With 3510 ultra-quiet cooling fan and thermal pads, it can lower the temperature of Raspberry Pi Board quickly.
+- 【Lightweight and Easy to Install】 With screwdriver and 2pcs screws, its easy to fix the heatsinks with Raspberry Pi Board.
+- 【Support PWM Speed Control】Different from ordinary fans, this cooling fan supports PWM speed regulation, which is perfectly compatible with Raspberry Pi OS.
 - 【Compatible with Raspberry Pi 5】This Armor Lite V5 Aluminum Heatsink is only designed for Raspberry Pi 5 4GB/8GB. For Raspberry Pi 5 ABS Case with Heatsink Fan, please refer to ASIN B0CP58WXDG (Black)，B0CP592LSW (White)
 - 【Wiki】https://wiki.52pi.com/index.php?title=ZP-0166
-- 【Lightweight and Easy to Install】 With screwdriver and 2pcs screws, its easy to fix the heatsinks with Raspberry Pi Board.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CNVDF2MC{{</world>}}

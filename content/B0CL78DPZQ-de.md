@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Funktionsweise : Wasserabweisend
 - Taschen vorn
+- Funktionsweise : Wasserabweisend
 - Ideal für den Alltag
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

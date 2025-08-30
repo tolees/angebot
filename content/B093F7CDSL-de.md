@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Schaumstoff-Zwischensohle sorgt für zusätzliche Dämpfung
 - Die Gummi-Außensohle bietet Traktion und Strapazierfähigkeit
 - Traditionelle Schnürung
-- Die Schaumstoff-Zwischensohle sorgt für zusätzliche Dämpfung
 - Flexkerben in der Sohle lassen Ihren Fuß sich natürlich bewegen
 
 [🛒 Hier!!]({{< param buyurl >}})

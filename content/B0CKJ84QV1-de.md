@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Schnürung
-- Zwischensohle aus Gummi
-- Regular Fit
 - Gummilaufsohle
+- Zwischensohle aus Gummi
+- Mit Schnürung
 - Obermaterial aus Synthetik und Wildleder
+- Regular Fit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKJ84QV1{{</world>}}

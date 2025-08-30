@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Standardpassform für ein unkompliziertes, relaxtes tragegefühl
 - Fleece material sorgt für ein geschmeidiges, weiches tragegefühl
 - Sporthose aus bequemem stoff sportliche passform ideal für verschiedene anlässe für einen lässigen stil
-- Standardpassform für ein unkompliziertes, relaxtes tragegefühl
 - Gerippte bündchen sind für den klassischen jogger-look verantwortlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

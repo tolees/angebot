@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne Abspülen
 - Entfernt Make-up von Gesicht und Augen
-- Befreit die Haut von Unreinheiten und Schmutzpartikeln
 - Reinigung, Make-up-Entferner und Gesichtswasser in Einem
+- Ohne Abspülen
+- Befreit die Haut von Unreinheiten und Schmutzpartikeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007V6FRRM{{</world>}}

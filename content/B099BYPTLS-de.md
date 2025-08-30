@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alle drei Before-Filme zum ersten Mal zusammen in einer Box
-- Eine einzigartige Liebegeschichte die an drei wunderschöne Orte Europas führt
 - Inszeniert von "Boyhood" und "School of Rock"-Regisseur Richard Linklater
+- Eine einzigartige Liebegeschichte die an drei wunderschöne Orte Europas führt
+- Alle drei Before-Filme zum ersten Mal zusammen in einer Box
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B099BYPTLS{{</world>}}

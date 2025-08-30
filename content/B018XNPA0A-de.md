@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für Kinder ab 3 Jahren
-- Bewegliche Püppchen zum An- und Ausziehen mit einer Größe von ca. 6-8 cm
 - Familie Hoppel der Sylvanian Families Spielfiguren: Vater, Mutter, Bruder und Schwester
+- Bewegliche Püppchen zum An- und Ausziehen mit einer Größe von ca. 6-8 cm
+- Geeignet für Kinder ab 3 Jahren
 - Ideales Geburtstagsgeschenk für Mädchen
 - Das Spielzeug fördert durch abwechslungsreiche Rollenspiele die Fantasie der Kinder
 

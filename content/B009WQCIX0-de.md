@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Intenso Alu Line USB-Stick anthrazit
 - Material: Aluminium
-- Gewicht: federleichte 4 g; Abmessungen: 17 x 59 x 7 mm
 - Hochwertiger USB-Speicherstick im Aluminiumgehäuse
+- Lieferumfang: Intenso Alu Line USB-Stick anthrazit
 - Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
+- Gewicht: federleichte 4 g; Abmessungen: 17 x 59 x 7 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B009WQCIX0{{</world>}}

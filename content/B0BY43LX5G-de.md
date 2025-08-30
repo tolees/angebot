@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5 Years warranty
-- Max red speed 280MB/s Max write speed 100MB/s
 - File resucue software download
 - V60 compatible for 4K video recording
+- 5 Years warranty
+- Max red speed 280MB/s Max write speed 100MB/s
 - Compatible with major SD UHS2 compatible camera
 
 [🛒 Hier!!]({{< param buyurl >}})

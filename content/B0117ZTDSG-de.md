@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mediaserver (UPnP AV) verteilt Filme, Fotos und Musik im Heimnetz an Tablets, PCs, TV, HiFi-Anlage u.a.
-- Lieferumfang: FRITZ!Box 7430, 4,25 Meter DSL-Kabel, 1,5 Meter LAN-Kabel, Netzteil, Kurzanleitung
-- Ideal zugeschnitten für die IP-basierten Telefon-Anschlüsse der Deutschen Telekom sowie anderer Anbieter auf IP-Basis
 - Telefonanlage für Voice over IP mit DECT-Basis für bis zu 6 Schnurlostelefone und Anschluss für Analogtelefon
+- Lieferumfang: FRITZ!Box 7430, 4,25 Meter DSL-Kabel, 1,5 Meter LAN-Kabel, Netzteil, Kurzanleitung
+- Mediaserver (UPnP AV) verteilt Filme, Fotos und Musik im Heimnetz an Tablets, PCs, TV, HiFi-Anlage u.a.
+- Ideal zugeschnitten für die IP-basierten Telefon-Anschlüsse der Deutschen Telekom sowie anderer Anbieter auf IP-Basis
 - VDSL- und ADSL-/ADSL2+-Modem, moderner WLAN N-Router mit bis zu 450 MBit/s (2,4 GHz), 4 x Fast-Ethernet-LAN, 1 x USB 2.0
 
 [🛒 Hier!!]({{< param buyurl >}})

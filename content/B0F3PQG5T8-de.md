@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erlebe den unverwechselbaren Crunch von Doritos BBQ Flavour
-- Gemeinsam mit Freunden schöne Momente schaffen und dabei Maischips knabbern
 - Lieferumfang: 12 x 110g Tüte Doritos Barbecue, knusprige Tortilla Chips mit BBQ-Geschmack
+- Gemeinsam mit Freunden schöne Momente schaffen und dabei Maischips knabbern
 - Der Gaumenschmaus auf jeder Party: Mit ihrem intensiven Geschmack, dem starken Crunch und der dreieckigen Form sind Doritos BBQ der geeignete Partysnack zum Spaß haben mit Freunden
 - Bei der Ernte wird nur der gute Mais gewählt - ist der Mais zum Teig gemahlen, werden die einzigartigen Doritos-Dreiecke gebacken, Maximaler Crunch und aromatisch-intensiver Geschmack
 

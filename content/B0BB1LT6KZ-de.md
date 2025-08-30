@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Deluxe Edition: Das Spiel "Raiden IV x MIKADO remix", digitaler Soundtrack zum Download und ein Poster
 - Moderne Musik: Neu abgemischte BGM aus dem Original-Klassiker, einschließlich Live-Auftritten und neuen Arrangements
 - Eine eigene Art zu Spielen: Modi wie Dual Play und Double Play bringen das Abenteuer auf die nächste Stufe
+- Deluxe Edition: Das Spiel "Raiden IV x MIKADO remix", digitaler Soundtrack zum Download und ein Poster
 - Old-school Vibes: Mit dem vertikalen Bildschirm können die Spieler das ursprüngliche Arcade-Erlebnis nachempfinden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

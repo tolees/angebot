@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robustheit
 - Größe 12mm
 - Flexible Gestaltung
+- Robustheit
 - Schriftcharakter nach DIN 1451
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

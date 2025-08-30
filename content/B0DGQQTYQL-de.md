@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ergebnis: Mildert Pickel in nur 8 Stunden und wirkt einer Verschlimmerung entgegen, indem Flüssigkeiten und Verunreinigungen aufgesaugt werden, um den Pickel abzuflachen
+- Anwendung: Vor der Anwendung Gesicht und Hände reinigen. Patch abziehen. Direkt auf den Pickel auftragen. Mindestens 8 h einwirken lassen, dann entfernen
 - Pflegende Formel aus Hydrocolloid-Patches zur Bildung einer Schutzschicht über dem Pickel; ohne Inhaltsstoffe tierischen Ursprungs
 - Lieferumfang: 1x PureActive Hautklar Pimple Patch Invisible, 44 Stück
 - Unsichtbare Pickel-Patches zur punktuellen Anwendung, insbesondere bei reifen Pickeln
-- Anwendung: Vor der Anwendung Gesicht und Hände reinigen. Patch abziehen. Direkt auf den Pickel auftragen. Mindestens 8 h einwirken lassen, dann entfernen
+- Ergebnis: Mildert Pickel in nur 8 Stunden und wirkt einer Verschlimmerung entgegen, indem Flüssigkeiten und Verunreinigungen aufgesaugt werden, um den Pickel abzuflachen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DGQQTYQL{{</world>}}

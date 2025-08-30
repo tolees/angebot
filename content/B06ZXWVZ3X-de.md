@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [ UMWELTFREUNDLICHER BEGLEITER ] Rocketbook ist Ihr umweltfreundlicher Begleiter. Notizen nehmen, sofort abspeichern, mit anderen teilen und dann abwischen und wiederverwenden!
 - [ UNSCHLAGBARE APP ] Unsere revolutionäre AI Technologie erlaubt ihnen nach handgeschriebenen Notizen zu suchen und automatisch Titel zu erstellen.
-- [ DIGITALE NOTIZEN ] Laden sie Ihre Notizen auf die Cloud hoch. Wir unterstützen Google Docs, Dropbox, iCloud, Evernote, Email und mehr.
+- [ UMWELTFREUNDLICHER BEGLEITER ] Rocketbook ist Ihr umweltfreundlicher Begleiter. Notizen nehmen, sofort abspeichern, mit anderen teilen und dann abwischen und wiederverwenden!
 - [ NIE WIEDER EIN NOTIZBUCH KAUFEN ] Das weltweit erste wiederverwendbare Notizbuch - 36 Seiten mit Pilot Frixion Stiften benutzen und mit einem feuchten Tuch sauber machen. In Amerika hergestellt.
+- [ DIGITALE NOTIZEN ] Laden sie Ihre Notizen auf die Cloud hoch. Wir unterstützen Google Docs, Dropbox, iCloud, Evernote, Email und mehr.
 - [ NOTIZBUCH DAS IHNEN PASST ] Executive A5 Notizbuch Größe mit karierten/punktierten Seiten.
 
 [🛒 Hier!!]({{< param buyurl >}})

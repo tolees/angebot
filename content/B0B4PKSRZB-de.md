@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verstellbarer Schulterriemen
 - Metallplakette mit elegant-dezentem Geox-Logo.
+- Verstellbarer Schulterriemen
 - Zwei Innentaschen, davon eine mit Reißverschluss.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zehenschutz
-- Schnürsenkel
-- Textilfutter
-- Obermaterial aus Synthetikleder
 - Eine Nummer größer kaufen
+- Obermaterial aus Synthetikleder
+- Textilfutter
+- Schnürsenkel
+- Zehenschutz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKY1B8G2{{</world>}}

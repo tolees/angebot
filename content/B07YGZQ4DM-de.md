@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
 - Fotos und Videos in Full-HD (1080p) und 4K UHD aufnehmen
 - Geschwindigkeiten gemäß Klasse 10 UHS-I mit bis zu 100MB/s
+- Langlebig
 - Speicherkapazitäten bis zu 512GB
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

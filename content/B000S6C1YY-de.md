@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - VIELSEITIG NUTZBAR: Details wie die sanften Rundungen und der brilliante Weißton verleihen dieser schönen Tasse ihre zeitlose Eleganz - Ideal für Kaffee, Tee oder andere Heißgetränke
+- LIEFERUMFANG: 1x Villeroy & Boch Royal Kaffeetasse, Füllmenge: 220 ml, Gewicht: 118 g (Art.-Nr. 10-4412-1300)
 - ELEGANTES DESIGN: Klassisch weiße Tasse für eine stilvolle Tischdekoration. Der puristische Tee- oder Kaffeebecher passt unter die meisten Kaffeeautomaten, der geschwungene Henkel liegt gut in der Hand
 - QUALITÄT MADE IN GERMANY: Dieses Geschirr aus Premium Porzellan hat stoß- und schlagfeste Kanten und ist spülmaschinenfest sowie mikrowellengeeignet
-- LIEFERUMFANG: 1x Villeroy & Boch Royal Kaffeetasse, Füllmenge: 220 ml, Gewicht: 118 g (Art.-Nr. 10-4412-1300)
 - ROYALES GESCHIRR: Diese Kaffeetasse setzt stilvolle Akzente, kombiniert mit anderen Teilen der Royal Kollektion entsteht eine glanzvolle Kaffeetafel
 
 [🛒 Hier!!]({{< param buyurl >}})

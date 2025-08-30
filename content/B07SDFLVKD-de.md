@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
-- Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs, Android-Smartphones sowie Tablets
+- AA-Batterien für bis zu 40 Stunden Batterielebensdauer (Die Batterielebensdauer variiert erheblich mit Headsets, zusätzlichem Zubehör, Verwendung und anderen Faktoren. Von Microsoft mit Vorproduktionsgeräten durchgeführte Tests)
 - Sie können den Controller auf ihre Bedürfnisse anpassen und über die Xbox Zubehör-App die Tasten so zuweisen, wie Sie möchten
 - Erleben Sie das modernisierte Design des Xbox Wireless Controllers in Carbon Black, der mit seinen geformten Oberflächen und der verfeinerten Geometrie für mehr Komfort beim Spielen sorgt. Bleiben Sie dank der strukturierten Grifffläche und dem hybriden D-Pad auf Zielkurs
-- AA-Batterien für bis zu 40 Stunden Batterielebensdauer (Die Batterielebensdauer variiert erheblich mit Headsets, zusätzlichem Zubehör, Verwendung und anderen Faktoren. Von Microsoft mit Vorproduktionsgeräten durchgeführte Tests)
+- Verfügt über Xbox Wireless- und Bluetooth-Technologie für drahtloses Gaming auf unterstützten Konsolen, Windows 10-PCs, Android-Smartphones sowie Tablets
+- An der 3,5mm-Stereo-Headsetbuchse kannst du kompatible Headsets und Kopfhörer anschließen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SDFLVKD{{</world>}}

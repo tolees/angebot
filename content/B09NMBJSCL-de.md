@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hauptkamera: 12 MP + 12 MP + 8 MP
-- Display: 16,26 cm (6,4 Zoll)
-- Frontkamera: 32 MP
-- Prozessor: Qualcomm Snapdragon 888
 - Bauart: Smartphone
+- Frontkamera: 32 MP
+- Display: 16,26 cm (6,4 Zoll)
+- Prozessor: Qualcomm Snapdragon 888
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NMBJSCL{{</world>}}

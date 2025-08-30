@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Strichstärke 0,35 mm
 - nachfüllbar mit Mine BKL77
 - extra robuste Wolframkarbid-Schreibkugel
-- Strichstärke 0,35 mm
-- Kappe mit Clip
 - gleichbleibende, lang andauernde Schreibqualität
+- Kappe mit Clip
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000JTMF96{{</world>}}

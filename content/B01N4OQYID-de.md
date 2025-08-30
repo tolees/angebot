@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 20 Haken
-- Original bosch Qualität
-- Kunststoffheringe zum Fixieren des Begrenzungsdrahts
 - Befestigungsklammern für das Indego-Begrenzungskabel
+- Lieferumfang: 20 Haken
+- Kunststoffheringe zum Fixieren des Begrenzungsdrahts
+- Original bosch Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N4OQYID{{</world>}}

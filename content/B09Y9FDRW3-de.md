@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- CHAOS:HEAD NOAH und die Eröffnungsfilme wurden in HD Remastered, einschließlich aller neuen Songs, die während der ursprünglichen CHAOS:HEAD NOAH-Portierung aufgenommen wurden.
-- Zwei Wahnvorstellungen werden eins. Genieße beide Delusional Science Adventure-Serien in einer Cartridge!
 - Beide Spiele bieten verzweigte Pfade und mehrere Endungen. Wohin wird dich deine Wahnvorstellung führen?
 - Mit japanischem und englischem Text und japanischer Originalstimme im Spiel.
+- Zwei Wahnvorstellungen werden eins. Genieße beide Delusional Science Adventure-Serien in einer Cartridge!
+- CHAOS:HEAD NOAH und die Eröffnungsfilme wurden in HD Remastered, einschließlich aller neuen Songs, die während der ursprünglichen CHAOS:HEAD NOAH-Portierung aufgenommen wurden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Y9FDRW3{{</world>}}

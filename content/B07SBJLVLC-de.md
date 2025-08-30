@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Passform: Regular Fit, Rückenlänge bei Gr. L ca. 70 cm
 - Aus atmungsaktiver und weicher Baumwolle
+- Langärmlig mit V-Ausschnitt
 - Basic Pullover in Unifarben mit tonaler Logo-Stickerei auf der Brust, ideal für den Frühling, Herbst & Winter
 - Waschhinweis: schonend reinigen mit Perchlorethylen, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei hoher Temperatur bügeln (200° C), Schonwaschgang bei max. 30°C
-- Langärmlig mit V-Ausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SBJLVLC{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- vegan, ohne Alkohol, ohne Parabene, ohne Mikroplastikpartikel, Nanopartikel frei, glutenfrei, acetonfrei
 - Ultra-glossy, shiny Finish & fruchtiger Duft
 - Wir sagen Nein zu Tierversuchen. cosnova ist mit essence und CATRICE sowohl bei PETA Deutschland als auch bei PETA international gelistet.
-- Einheitsfarbe, glänzend, schimmernd, strahlend frisch
 - Nicht-klebende Textur
+- Einheitsfarbe, glänzend, schimmernd, strahlend frisch
+- vegan, ohne Alkohol, ohne Parabene, ohne Mikroplastikpartikel, Nanopartikel frei, glutenfrei, acetonfrei
 - Leichter Auftrag dank angeschrägter Applikatorspitze
 
 [🛒 Hier!!]({{< param buyurl >}})

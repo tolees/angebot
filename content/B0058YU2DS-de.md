@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x Columbia Unisex, Bora Bora Booney, Hut, Kunstfaser, Beige (Fossil), Einheitsgröße (Verstellbar), 1447091
-- Mehr Schutz bei langen Tagesausflügen in der freien Natur
 - Verstellbarer Kordelzug mit Kordelschieber auf der Rückseite des Hutes für eine ideale Passform
-- Robuster Hut, Schweißband und Belüftung aus Netzstoff für eine bessere Kühlung, Ideal für Angler
 - Omni-Wick-Schweißband und Belüftung aus Netzstoff zum Wegleiten der Feuchtigkeit von der Haut
+- Lieferumfang: 1 x Columbia Unisex, Bora Bora Booney, Hut, Kunstfaser, Beige (Fossil), Einheitsgröße (Verstellbar), 1447091
+- Robuster Hut, Schweißband und Belüftung aus Netzstoff für eine bessere Kühlung, Ideal für Angler
+- Mehr Schutz bei langen Tagesausflügen in der freien Natur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0058YU2DS{{</world>}}

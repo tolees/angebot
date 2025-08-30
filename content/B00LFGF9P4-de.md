@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 50 Stück Holzbastelstäbchen
 - Lieferung in hängender Packung
 - Aus natürlichem Holz
-- 100 % recycelbar
-- 50 Stück Holzbastelstäbchen
 - Ideal zum Basteln, Dekorieren und Malen
+- 100 % recycelbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00LFGF9P4{{</world>}}

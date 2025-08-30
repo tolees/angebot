@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lässt sich für spannenden Spielspaß mit anderen Hot Wheels Tracksets (separat erhältlich) verbinden
 - Enthält zwölf 22,9 cm lange Tracks, sechs 30,5 cm lange Tracks und 18 Verbindungsstücke
+- Lässt sich für spannenden Spielspaß mit anderen Hot Wheels Tracksets (separat erhältlich) verbinden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00IVLIC1O{{</world>}}

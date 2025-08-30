@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Dank ihrer hohen Gelenkigkeit mit vollbeweglichem Kopf, Armen und Beinen kann die Star Wars Fennec Shand Figur in jeder Star Wars Action-Figur- und Fahrzeug-Kollektionen präsentiert werden
-- AUF STAR WARS: THE BOOK OF BOBA FETT BASIERENDES, ZUM CHARAKTER PASSENDES ZUBEHÖR: Diese Action-Figur aus der Vintage Collection kommt mit 2 Accessoires, die sich an der Serie orientieren, perfekt für jede Star Wars Kollektion
 - KLASSISCHE STAR WARS FIGUR: Diese Fennec Shand Action-Figur ist an den Charakter in Star Wars: The Book of Boba Fett angelehnt und perfekt als Geschenk für Star Wars Sammler und Fans ab 4 Jahren geeignet
+- AUF STAR WARS: THE BOOK OF BOBA FETT BASIERENDES, ZUM CHARAKTER PASSENDES ZUBEHÖR: Diese Action-Figur aus der Vintage Collection kommt mit 2 Accessoires, die sich an der Serie orientieren, perfekt für jede Star Wars Kollektion
 - FENNEC SHAND: Fennec Shand ist eine Attentäterin und Elitesoldatin, die für alle führenden Syndikate gearbeitet hat. Sie ist clever, kompetent und listig, sollte nicht unterschätzt werden und steckt voller Überraschungen
 - VERPACKUNG IM VINTAGE-STIL: Die 9,5 cm großen klassischen Star Wars Figuren und Fahrzeuge aus der Star Wars The Vintage Collection haben das originale Kenner Branding (Jeweils separat erhältlich. Je nach Verfügbarkeit.)
 

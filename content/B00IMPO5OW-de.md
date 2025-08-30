@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Unterstützung für Netzwerk-Videorekorder-Überwachungssysteme mit mehr als acht Laufwerkschächten für bis zu 64 HD-Kameras.
+- Lieferumfang: WD Purple 4 TB (WD40PURX) interne Festplatte mit IntelliPower (8,9 cm (3,5 Zoll), 64 MB Cache, SATA III) bulk
 - Höhere Betriebsbelastbarkeit (TB/Jahr) bei optimiertem Stromverbrauch.
 - Speziell auf Netzwerk-Videorekorder-Überwachungssysteme ausgelegt (und rückwärtskompatibel mit DVR-Systemen).
-- Lieferumfang: WD Purple 4 TB (WD40PURX) interne Festplatte mit IntelliPower (8,9 cm (3,5 Zoll), 64 MB Cache, SATA III) bulk
 - Aus anlaufbeständigen Komponenten gefertigt - für optimalen Schutz in typischen Überwachungsanwendungen.
 
 [🛒 Hier!!]({{< param buyurl >}})

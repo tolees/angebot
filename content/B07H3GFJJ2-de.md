@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sieben programmierbare Tasten
 - Komfortables symmetrisches Design
 - Einfache Personalisierung mit der HyperX NGenuity Software
 - Extragroße Mausrollen für flüssige, kontrollierte Bewegungen
+- Sieben programmierbare Tasten
 - Optischer Pixart 3327 Sensor mit nativen DPI-Einstellungen bis zu 6200 DPI
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

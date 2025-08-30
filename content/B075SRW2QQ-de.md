@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimale Eigenschaften – Das langlebige Kakteen- und Sukkulenten-Granulat besteht aus Lava, gebrochenem Blähton und Pflanz-Granulat. Dadurch schafft das Kultur-Substrat optimale Wachstumsbedingungen.
-- Lieferumfang & Hinweis – Seramis Spezial-Substrat für Kakteen und Sukkulenten im 7 l Beutel, in Ton-Farbe. Das Wasserspeicher-Granulat ist allergikerfreundlich. Art.-Nr.: 731335.
-- Seramis bietet ein umfangreiches Sortiment an hochwertigen Pflege- sowie Nährstofflösungen, welche speziell auf die individuellen Bedürfnisse unterschiedlicher Blumen und Pflanzen abgestimmt sind.
 - Ideale Nährstoffversorgung – Die Granulat-Mischung hat eine lockere Struktur und speichert Wasser sowie wichtige Nährstoffe. Durch das Pflanzen-Granulat wird eine verbesserte Drainage-Wirkung erzielt.
+- Lieferumfang & Hinweis – Seramis Spezial-Substrat für Kakteen und Sukkulenten im 7 l Beutel, in Ton-Farbe. Das Wasserspeicher-Granulat ist allergikerfreundlich. Art.-Nr.: 731335.
 - Perfekter Pflanzenschutz – Das Kakteen-Substrat beugt Schädlingsbefall vor. Als Pflanzenerde-Ersatz sorgt es für eine optimale Luft- und Wasserführung, wodurch Staunässe und Wurzelfäule verhindert werden.
+- Optimale Eigenschaften – Das langlebige Kakteen- und Sukkulenten-Granulat besteht aus Lava, gebrochenem Blähton und Pflanz-Granulat. Dadurch schafft das Kultur-Substrat optimale Wachstumsbedingungen.
+- Seramis bietet ein umfangreiches Sortiment an hochwertigen Pflege- sowie Nährstofflösungen, welche speziell auf die individuellen Bedürfnisse unterschiedlicher Blumen und Pflanzen abgestimmt sind.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B075SRW2QQ{{</world>}}

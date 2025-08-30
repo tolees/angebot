@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 100 % recycelter Polyester (Doppelstrick)
 - 3 Streifen entlang der Ärmel
 - Durchgehender Reißverschluss
-- 100 % recycelter Polyester (Doppelstrick)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08R7LYNHN{{</world>}}

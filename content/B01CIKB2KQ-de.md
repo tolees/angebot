@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geschwindigkeit bis zu 10km/h
-- 30 cm, Maßstab 1: 16
 - Frontlicht während der Fahrt, Lenkungsfeineinstellung
+- Geschwindigkeit bis zu 10km/h
 - schlagfeste Stoßstange, Hochleistungsgummireifen
+- 30 cm, Maßstab 1: 16
 - Spielzeugauto mit Funkfernsteuerung (2-Kanal, 27 Mhz)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

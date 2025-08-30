@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Klassisches, aufgesticktes Logo auf der linken Brust
+- Regular
 - Standard Passform für ein entspanntes, leichtes Gefühl
 - Standardpassform für ein relaxtes, unkompliziertes Tragegefühl
-- Regular
-- Klassisches, aufgesticktes Logo auf der linken Brust
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07H4KSBJY{{</world>}}

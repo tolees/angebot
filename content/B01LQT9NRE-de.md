@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Wasserbeständig, mit Ärmeln
 - Verstärkt auf der Rückseite und über den Schultern
 - Aus 2, 5-lagigem Eco-Shell
 - Ausrollbare Frontlasche schützt Fernglas, Kamera und andere wasserempfindliche Ausrüstungsgegenstände
 - Fluorcarbonfreie DWR-Beschichtung
-- Wasserbeständig, mit Ärmeln
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01LQT9NRE{{</world>}}

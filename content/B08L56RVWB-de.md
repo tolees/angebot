@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- elastischer Bund mit umlaufendem PUMA-Schriftzug
-- doppelter Frontbereich ohne Eingriff
-- eng anliegende Shorts im 6er Pack
 - 95% Baumwolle, 5% Elasthan
+- elastischer Bund mit umlaufendem PUMA-Schriftzug
+- eng anliegende Shorts im 6er Pack
+- doppelter Frontbereich ohne Eingriff
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08L56RVWB{{</world>}}

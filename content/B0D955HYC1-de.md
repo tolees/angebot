@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2-Knopfleiste
 - leger geschnitten
 - Trikotkragen mit Kontrastkante und Print auf der Unterseite
 - Ärmelbündchen mit Kontrastkante
+- 2-Knopfleiste
 - Artwork vorne mit Stickereien und Patch
 
 [🛒 Hier!!]({{< param buyurl >}})

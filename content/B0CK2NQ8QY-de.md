@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spielmatten-Design mit Karten- und Spielzonen. Weiche Spielmatte, mit einer angenehmen Dicke von 2 mm
 - Besonders feine Oberfläche, mit rutschfester Rückseite. Aus Naturkautschuk hergestellt
+- Spielmatten-Design mit Karten- und Spielzonen. Weiche Spielmatte, mit einer angenehmen Dicke von 2 mm
 - XL-Spielmatte mit hochwertigem Hyperspace-Design, welche Ideal für 2 Spieler ist
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

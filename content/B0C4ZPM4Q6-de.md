@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Star Wars
 - Star Wars Hasbro The Bad Batch Black Series Clone Commando Figur, 15 cm
+- Star Wars
 - HASF8331
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

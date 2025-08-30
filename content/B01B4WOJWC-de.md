@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Multifunktional: Der kompakte Campinggrill bietet Campern die Wahl zwischen normaler Kochflamme oder dem Grillen auf dem emaillierten Grillrost
-- Starke Leistung: Der 2000 W Mini Grill wird mit der Campingaz CV 470 Plus Gaskartusche betrieben (Brenndauer bis zu 3 Std); sichere Zündung bei jedem Wetter dank Piezo-Zündung
-- Flachendeckende Gasverorgung: Die CV 470 Plus Kartusche ist dank unseres weltweiten Händlernetzes in über 50 Ländern verfügbar
 - Reinigung und Transport: Der integrierte Wasserbehälter sammelt heruntertropfendes Fett; Topfkreuz und Rost sind spülmaschinenfest; alle Elemente werden zum Transport im Gerät verstaut
+- Multifunktional: Der kompakte Campinggrill bietet Campern die Wahl zwischen normaler Kochflamme oder dem Grillen auf dem emaillierten Grillrost
+- Flachendeckende Gasverorgung: Die CV 470 Plus Kartusche ist dank unseres weltweiten Händlernetzes in über 50 Ländern verfügbar
+- Starke Leistung: Der 2000 W Mini Grill wird mit der Campingaz CV 470 Plus Gaskartusche betrieben (Brenndauer bis zu 3 Std); sichere Zündung bei jedem Wetter dank Piezo-Zündung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01B4WOJWC{{</world>}}

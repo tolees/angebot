@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sorgt für schnelle und lang anhaltende Wirkung
 - Einfach anzuwenden
+- Sorgt für schnelle und lang anhaltende Wirkung
 - Schöner Duft
 
 [🛒 Hier!!]({{< param buyurl >}})

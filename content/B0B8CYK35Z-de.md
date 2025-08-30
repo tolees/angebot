@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Technischer Schnitt mit vorgeformten Beinen und vorgeformten Knien.
 - Strapazierfähige Trekkinghose aus G-1000 Silent
+- Technischer Schnitt mit vorgeformten Beinen und vorgeformten Knien.
 - Sechs Taschen
 
 [🛒 Hier!!]({{< param buyurl >}})

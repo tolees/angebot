@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Laptoprucksack für Freizeit und Büro
-- herausnehmbares Laptopfach
 - PFC-frei
 - bequemes Tragesystem mit breiten Gurten
+- herausnehmbares Laptopfach
+- Laptoprucksack für Freizeit und Büro
 - bluesign-zertifiziert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

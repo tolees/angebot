@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kapuze mit Kordelzug
+- Artwork mit Rubber-Details
 - softe Haptik
 - Kontrastnähte
-- Artwork mit Rubber-Details
-- Kapuze mit Kordelzug
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5F6LBX{{</world>}}

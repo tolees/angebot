@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Motorisierbar & beleuchtbar mit „Power System“ S054-003 von CaDA (NICHT enhalten!) | kompatibel mit den Bausteinen und Bauelementen von LEGO Technic
-- höhenverstellbares Fahrwerk, offener 6-Zylinder-Motor, funktionierender Lenkung, 4 Türen öffnen & schließen, Kofferraumdeckel/Heckklappe öffnet & schließt
 - ab 8 Jahren und für jung gebliebene über 18 Jahren (und AFOLs)
 - Reifenhöhe 70mm, Reifenbreite 37mm, Stickerset mit 8 Aufklebern
+- höhenverstellbares Fahrwerk, offener 6-Zylinder-Motor, funktionierender Lenkung, 4 Türen öffnen & schließen, Kofferraumdeckel/Heckklappe öffnet & schließt
 - 2208 Teile, gedruckte Anleitung (235 Seiten), hochwertiger Karton mit Matt-Lack (über 3kg)
+- Motorisierbar & beleuchtbar mit „Power System“ S054-003 von CaDA (NICHT enhalten!) | kompatibel mit den Bausteinen und Bauelementen von LEGO Technic
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08H8GH3TJ{{</world>}}

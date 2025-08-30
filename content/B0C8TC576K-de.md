@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - EINFACHE WARTUNG: Die intelligente automatische Kettenschmierung passt den Ölverbrauch automatisch an die Dicke des zu schneidenden Astes an. Lösen Sie einfach den Knauf für werkzeugloses Mini-Kettensäge mit akku-Spannen und -Wechseln (Das Schmieröl ist separat erhältlich).
-- UNÜBERTROFFENE LEISTUNG: Der bürstenlose Motor der akku Mini-Kettensäge liefert eine bis zu 50 % höhere Leistung als das Vorgängermodell mit einer schnellen Kettengeschwindigkeit von 10 m/s, bis zu 160 Schnitten pro Ladung.
 - Lieferumfang: Worx Nitro Mini Kettensäge WG325E, 1x Kette WA0142, 1x Sägeketten-Führungsschiene WA0151, 1x Schutzabdeckung für das Sägeblatt
-- MOBIL UND SICHER: Diese leichte Astsäge verfügt über einen dreifachen Sicherheitsschutz, einen weichen Griff und einen doppelten Einrastschalter für zusätzliche Sicherheit
 - GLEICHER AKKU, ERWEITERBARE ENERGIE: Der Worx PowerShare-Akku ist mit allen Worx 20V-, 40V- und 80V-Werkzeugen, Outdoor Power- und Lifestyle-Produkten kompatibel
+- UNÜBERTROFFENE LEISTUNG: Der bürstenlose Motor der akku Mini-Kettensäge liefert eine bis zu 50 % höhere Leistung als das Vorgängermodell mit einer schnellen Kettengeschwindigkeit von 10 m/s, bis zu 160 Schnitten pro Ladung.
+- MOBIL UND SICHER: Diese leichte Astsäge verfügt über einen dreifachen Sicherheitsschutz, einen weichen Griff und einen doppelten Einrastschalter für zusätzliche Sicherheit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8TC576K{{</world>}}

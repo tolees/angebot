@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gummiaußensohle
-- Cloudfoam Zwischensohle
 - Eine Nummer größer kaufen
+- Cloudfoam Zwischensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C4PT2P4Z{{</world>}}

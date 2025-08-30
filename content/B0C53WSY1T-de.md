@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
 - Reguläre Passform
 - Textilfutter
 - Obermaterial aus beschichtetem Leder
+- Schnürsenkel
 - Dämpfende Zwischensohle
 
 [🛒 Hier!!]({{< param buyurl >}})

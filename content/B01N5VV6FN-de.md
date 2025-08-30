@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nur aus besten biologischen Zutaten zubereitet
 - Geeignet für Vegetarier
 - Enthält weder Käse noch Knoblauch
+- Nur aus besten biologischen Zutaten zubereitet
 - In Bio Qualität
 - Pesto mit Basilikum und Pinienkernen
 

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - VIELSEITIG: dieses robuste Abflussrohr eignet sich ideal zur Entwässerung von Gebäuden als Schmutzwasserleitung, Regenwasserleitung oder Lüftungsleitung und dient als Übergang von Blei- und Kunststoffrohre
-- ROBUST: das Abwasserrohr DN 40x32 mm ist aus strapazierfähigem Kunststoff gefertigt und überzeugt durch eine sehr robuste Bauform
 - SPEZIFIKATION: Anschlussdurchmesser: ø 50 auf ø 40 mm | Farbe: verkehrsgrau | Type: HT 50/40 MM
 - LIEFERUMFANG: Abflussrohr DN 50/40mm, Kunststoff in Verkehrsgrau
+- ROBUST: das Abwasserrohr DN 40x32 mm ist aus strapazierfähigem Kunststoff gefertigt und überzeugt durch eine sehr robuste Bauform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075HXHMXW{{</world>}}

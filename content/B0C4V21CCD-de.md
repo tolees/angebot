@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wähle zwei Kämpfer und wechsle nahtlos zwischen ihnen. Damit stehen dir mehrere Strategien für durchschlagende Kombos sowie defensive und offensive Moves offen.
 - Die physische Ausgabe enthält einen Double Dragon Gaiden-Charakteraufkleber und ein Double Dragon Gaiden Grafikposter
-- Die Double Dragon-Brüder sind wieder da in diesem Neuzugang zur kultigen Beat-ˈem-up-Franchise. Bei jedem Durchspielen gibt es eine neue Chance auf frische Action.
-- 15 einzigartige spielbare Charaktere – Starte den Kampf mit Billy, Jimmy, Marian und Onkel Matin. Verdiene unterwegs Tokens, um 9 weitere Charaktere mit einzigartigen Spielstilen und Stärken freizuschalten
 - Erlebe endlose Durchspiel-Möglichkeiten mit einer dynamischen Missionsauswahlfunktion. Die Reihenfolge, in der du deine Missionen auswählst, wird die Länge der Mission, die Anzahl der Gegner und den Schwierigkeitsgrad beeinflussen.
+- 15 einzigartige spielbare Charaktere – Starte den Kampf mit Billy, Jimmy, Marian und Onkel Matin. Verdiene unterwegs Tokens, um 9 weitere Charaktere mit einzigartigen Spielstilen und Stärken freizuschalten
+- Wähle zwei Kämpfer und wechsle nahtlos zwischen ihnen. Damit stehen dir mehrere Strategien für durchschlagende Kombos sowie defensive und offensive Moves offen.
+- Die Double Dragon-Brüder sind wieder da in diesem Neuzugang zur kultigen Beat-ˈem-up-Franchise. Bei jedem Durchspielen gibt es eine neue Chance auf frische Action.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C4V21CCD{{</world>}}

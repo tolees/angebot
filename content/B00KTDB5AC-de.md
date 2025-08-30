@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Datenübertragungsraten bis zu 5 Gbit/s
-- Entwickelt und konstruiert gemäß den SuperSpeed USB 32 Gen1-Spezifikationen
 - Abwärts kompatibel mit USB 20-Geräten
+- Entwickelt und konstruiert gemäß den SuperSpeed USB 32 Gen1-Spezifikationen
+- Datenübertragungsraten bis zu 5 Gbit/s
 - Hochwertige abgeschirmte Twisted Pair (STP)-Konstruktion
 
 [🛒 Hier!!]({{< param buyurl >}})

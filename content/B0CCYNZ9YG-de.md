@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
-- Qualität/Haltbarkeit
 - Flexible Gestaltung
+- Qualität/Haltbarkeit
+- Langlebig
 - Hält kühl und bequem
 
 [🛒 Hier!!]({{< param buyurl >}})

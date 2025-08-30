@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Includes Xbox Wireless and Bluetooth technology for wireless gaming on supported consoles, Windows 10 PCs, Android and tablets
-- Make the controller your own by customizing button mapping with the Xbox Accessories app
-- Plug in any compatible headset with the 3.5mm audio headset jack
 - Experience the modernised design of the Xbox Wireless Controller – Shock Blue, featuring sculpted surfaces and refined geometry for enhanced comfort and effortless control during gameplay
+- Plug in any compatible headset with the 3.5mm audio headset jack
+- Make the controller your own by customizing button mapping with the Xbox Accessories app
 - Stay on target with textured grip on the triggers, bumpers, and back case and with a new hybrid D-pad for accurate, yet familiar input
+- Includes Xbox Wireless and Bluetooth technology for wireless gaming on supported consoles, Windows 10 PCs, Android and tablets
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B087VMGP5G{{</world>}}

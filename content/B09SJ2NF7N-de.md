@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HINDERNISS VERMEIDUNG: mit Ultraschall-Sensoren und der intelligenten Autopilot-Technologie müssen Sie nichts weiter machen, als den Mähroboter einzuschalten und mähen zu lassen. Der Mähroboter kann damit sich aktiv das Hinderniss vermeiden
-- Optionales Zusatzmodul für alle neuen Landroid Modelle ab 2019 - nicht für WORX Vision Mähroboter
 - EINFACHE INSTALLATION: Sie müssen nur ein paar Schrauben drehen. Der Landroid erkennt das neue Modul automatisch
 - KOMPATIBILITÄT: Geeignet für WR141E, WR142E, WR147E, WR147E.1, WR153E, WR155E, WR165E, WR167E, WR184E
+- Optionales Zusatzmodul für alle neuen Landroid Modelle ab 2019 - nicht für WORX Vision Mähroboter
+- HINDERNISS VERMEIDUNG: mit Ultraschall-Sensoren und der intelligenten Autopilot-Technologie müssen Sie nichts weiter machen, als den Mähroboter einzuschalten und mähen zu lassen. Der Mähroboter kann damit sich aktiv das Hinderniss vermeiden
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09SJ2NF7N{{</world>}}

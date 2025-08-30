@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Variofoam Zwischensohle
 - Variomesh-Obermaterial bietet Atmungsaktivität und Komfort
-- Gummi-Außensohle
 - Weicher Schaumstoff plus Einlegesohle für Halt und Komfort
+- Gummi-Außensohle
 - Stabilitätsrahmen für seitliche und mediale Unterstützung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

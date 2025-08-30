@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
 - Qualität/Haltbarkeit
+- Langlebig
 - Flexible Gestaltung
 
 [🛒 Hier!!]({{< param buyurl >}})

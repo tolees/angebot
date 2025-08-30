@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Weiches, flaches Mesh-Obermaterial mit Bungee-Schnürung vorne
-- Leichte, flexible, stoßdämpfende Zwischensohle
 - Flexible Traktions-Laufsohle aus Gummi
+- Leichte, flexible, stoßdämpfende Zwischensohle
 - Sportliches Sneaker-Design zum Hineinschlüpfen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

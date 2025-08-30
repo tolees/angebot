@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Groovin At Smalls Paradise Vinyl
 - Marke: BLUE NOTE
 - Produkttyp: ABIS MUSIC
+- Groovin At Smalls Paradise Vinyl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07YMFX36G{{</world>}}

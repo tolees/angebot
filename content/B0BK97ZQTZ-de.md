@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial aus Kunstleder
 - PUMA-Branding-Details auf Obermaterial, Ferse und Zunge
+- PUMA Formstrip auf lateraler und medialer Seite
 - Gummizwischensohle
 - Gummi-Außensohle
-- PUMA Formstrip auf lateraler und medialer Seite
-- Obermaterial aus Kunstleder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BK97ZQTZ{{</world>}}

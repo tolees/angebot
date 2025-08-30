@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hohe Stabilität durch integrierte Stützkonstruktion
 - 3 Lagen SUPER-TOUGH Material
-- Folienstärke Boden 0, 32 mm
+- Wasserinhalt bei 90 % Befüllung: 6. 503 l
 - Folienstärke Wand 0, 50 mm
 - Wassertiefe 61 cm
-- Hohe Stabilität durch integrierte Stützkonstruktion
-- Wasserinhalt bei 90 % Befüllung: 6. 503 l
+- Folienstärke Boden 0, 32 mm
 - 2-fach gesichertes Entleerungsventil
 - Pool Ø 366 x 76 cm
 

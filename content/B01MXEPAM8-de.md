@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse "G". Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können.
-- VERKETTBAR - Unbegrenzte und werkzeuglose Verkettung der Einzelleuchten mittels Schnellklemmen
 - SPRITZWASSERGESCHÜTZT - IP44 Schutz - für Feuchträume oder den Außenbereich
+- VERKETTBAR - Unbegrenzte und werkzeuglose Verkettung der Einzelleuchten mittels Schnellklemmen
 - SPARSAM - Die Lampe arbeitet mit moderner LED Technik & spart bis zu 80% Strom gegenüber herkömmlichen Glühlampen
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse "G". Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können.
 - KOMPLETTSET - Das Set besteht aus 3 Spots inklusive wechselbaren LED-Modulen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

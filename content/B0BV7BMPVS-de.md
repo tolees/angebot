@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses LEGO | Disney Set für Erwachsene ist ein besonderes Geschenk für Frauen und Männer zum Geburtstag, Jubiläum oder ohne besonderen Anlass für jeden Disney-Fan
 - Das Disney Erinnerungs-Set enthält 3 LEGO Disney Minifiguren: Mickey Maus, Minnie Maus und Walt Disney sowie die LEGO Tierfiguren Bambi und Dumbo
+- Dieses LEGO | Disney Set für Erwachsene ist ein besonderes Geschenk für Frauen und Männer zum Geburtstag, Jubiläum oder ohne besonderen Anlass für jeden Disney-Fan
 - Zu diesem besonderen Set gehört auch ein Premium-Booklet mit vielen Details zu Disney, der Kamera, dem Set selbst und Anleitungen, die dich durch den Bauprozess führen
 - Entdecke die LEGO Walt Disney Hommage Kamera, ein ausstellungswürdiges Disney-Sammlerstück mit einer Minifigur von Walt Disney selbst und einigen seiner liebenswerten Charaktere
 - Ebenfalls enthalten sind eine Regisseurklappe mit Platz für alle enthaltenen Disney-Figuren und eine Multiplan-Kamera im Minifigurenmaßstab mit drei gedruckten Bildschirmen, die zeigen, wie Disneys Kurzfilm "Die alte Mühle" entstanden ist

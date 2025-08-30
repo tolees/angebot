@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schuh mit Skate-Vibe für jeden Tag
+- Obermaterial aus Wildleder
 - Reguläre Passform
 - Schnürsenkel
 - OrthoLite Einlegesohle
-- Obermaterial aus Wildleder
 - Weiches Tragegefühl
 
 [🛒 Hier!!]({{< param buyurl >}})

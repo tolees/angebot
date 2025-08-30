@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gelieferte Artikel: 1x Helly Hansen Herren Hydropower Racing Lifaloft Segeljacke,L,Ebenholz
 - Die Racing LIFALOFT Jacke basiert auf den Erfahrungen professioneller Rennfahrer und ist unsere technischste Midlayer-Option mit der LIFALOFT Isolierung für Wärme und einer voll dehnbaren HELLY TECH Performance Außenschicht zum Schutz vor Gischt auf dem Meer und nassem Wetter. Gebaut für das Segeln rund um die Welt und sieht sowohl auf dem Meer als auch an Land gut aus.
-- Futter: 100% Polyamid - Futter 2: 100% Polyester (Recycelt) - Isolierung: 70% Polypropylen, 30% Polyester
 - Wasserdichte Midlayer-Jacke mit LIFALOFT in schlichtem und technischem Allzweck-Marine-Design.
+- Futter: 100% Polyamid - Futter 2: 100% Polyester (Recycelt) - Isolierung: 70% Polypropylen, 30% Polyester
+- Gelieferte Artikel: 1x Helly Hansen Herren Hydropower Racing Lifaloft Segeljacke,L,Ebenholz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B094NWWKTV{{</world>}}

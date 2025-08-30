@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke Beauty-Produkte Bourjois
 - Marke Beauty-Produkte
+- Marke Beauty-Produkte Bourjois
 - Lippenfärbung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

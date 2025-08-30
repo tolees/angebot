@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enthält 6 Boosterpacks des Pokémon-Sammelkartenspiels, 1 holografische Vollbild-Unterstützerkarte mit Enigmara und 3 zusätzliche holografische Unterstützerkarten mit Enigmara (Boosterpacks werden zufällig gewählt und enthalten 10 Spielkarten sowie 1 Basis-Energie oder 1 VSTAR-Marke).
-- Perfekt für Pokémon-Spieler. Für Jungen und Mädchen ab 6 Jahren.
-- Du erhältst außerdem 65 Kartenhüllen mit Enigmara, 2 Marken für Spezielle Zustände, 6 bei Wettbewerben zulässige Schadensmarken-Würfel, 1 große Münze mit Enigmara und 1 stabile Deckbox mit Enigmara.
 - Preise en masse mit dieser spielstarken Kollektion, die ein ganzes Spielset für dein nächstes Deck enthält!
 - Die Arenaleiterin von Fermanca City und Mega-Influencerin Enigmara kann deinen Gegner in ihrem Elektronetz fangen.
+- Du erhältst außerdem 65 Kartenhüllen mit Enigmara, 2 Marken für Spezielle Zustände, 6 bei Wettbewerben zulässige Schadensmarken-Würfel, 1 große Münze mit Enigmara und 1 stabile Deckbox mit Enigmara.
+- Enthält 6 Boosterpacks des Pokémon-Sammelkartenspiels, 1 holografische Vollbild-Unterstützerkarte mit Enigmara und 3 zusätzliche holografische Unterstützerkarten mit Enigmara (Boosterpacks werden zufällig gewählt und enthalten 10 Spielkarten sowie 1 Basis-Energie oder 1 VSTAR-Marke).
+- Perfekt für Pokémon-Spieler. Für Jungen und Mädchen ab 6 Jahren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CV4PM18B{{</world>}}

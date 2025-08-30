@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Farbe: Mittelbraun
-- Obermaterial: 100 % Rindsleder
 - Better Leather,Better Outsoles
 - Sohle: 51% recyceltes EVA - 49% EVA
+- Obermaterial: 100 % Rindsleder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C8K7S87M{{</world>}}

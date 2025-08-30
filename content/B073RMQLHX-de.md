@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
-- Obermaterial: Wildleder / Textil
-- Wasserfeste, versiegelte Innenstiefel-Kontruktion
-- Abriebfeste Omni-Grip Außensohle aus Gummi
 - Leichte Techlite Zwischensohle
+- Wasserfeste, versiegelte Innenstiefel-Kontruktion
+- Obermaterial: Wildleder / Textil
+- Innenmaterial: Synthetik
+- Abriebfeste Omni-Grip Außensohle aus Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B073RMQLHX{{</world>}}

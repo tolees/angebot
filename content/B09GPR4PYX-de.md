@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Razer HyperClear Kardioiden-Mikrofon für noch bessere Sprachqualität: Das biegsame Mikrofon hat ein verbessertes Gehäuse und kann die Stimme jetzt noch besser aufzeichnen, weil Geräusche von hinten und den Seiten unterdrückt werden — inklusive Mikrofonüberwachung und Spiel/Chat-Balance für einen optimalen ausgeglichenen Sound.
 - Razer TriForce 50-mm-Treiber für Sound in Hi-Fi-Qualität: Der Razer Kaira X kann mit seinen hoch modernen Treibern Höhen, Mitten und Bässe separat abstimmen — für einen noch klareren, saubereren Sound mit komplexeren Höhen und einem noch satteren Bass.
 - Integrierte Bedienelemente für maximalen Komfort: Die Audio-Einstellungen können ganz leicht mithilfe der Mikrofon-Stumm-Taste und dem Lautstärkeregler an der Unterseite der linke Ohrmuschel angepasst werden.
+- Razer HyperClear Kardioiden-Mikrofon für noch bessere Sprachqualität: Das biegsame Mikrofon hat ein verbessertes Gehäuse und kann die Stimme jetzt noch besser aufzeichnen, weil Geräusche von hinten und den Seiten unterdrückt werden — inklusive Mikrofonüberwachung und Spiel/Chat-Balance für einen optimalen ausgeglichenen Sound.
 - Flowknit-Ohrpolster aus Memory-Schaumstoff für langanhaltenden Komfort: Das atmungsaktive Gewebe sorgt dafür, dass so wenig Schweiß wie möglich entsteht und sich die Hitze nicht stauen kann, und der ultra weiche Schaumstoff ist noch weiter verdichtet, damit das Headset bei Gaming-Marathons noch weniger auf dem Kopf drückt.
 - Unterstützt Windows Sonic für immersiven Raumklang: Endlich wirklich lebensechten Surround Sound erleben, denn dieses Headset kann Geräusche mit punktgenauer Präzision wiedergeben, damit im Spiel nichts untergeht und dem Wettbewerbsvorteil und einem immersiven Gaming-Erlebnis nichts mehr im Wege steht.
 

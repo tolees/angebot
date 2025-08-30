@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- gut verstellbar
 - Leicht
 - Sehr bequem
-- gut verstellbar
 - Aufklappbares Visier zum Aufstellen der Maske
 - Sehr gute Belüftung
 

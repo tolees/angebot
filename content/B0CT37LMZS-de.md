@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produkt 2: IMMER ZUVERLÄSSIG: Ein staub- und feuchtigkeitsresistentes Design bietet die nötige Zuverlässigkeit für den Außeneinsatz unter schwierigen Bedingungen
-- Produkt 2: SCHÖNES BOKEH: Das sanfte Bokeh wird durch eine zirkulare Blende mit 9 Lamellen unterstützt und sorgt für natürlich wirkende Ergebnisse
 - Produkt 1: SCHNELL UND PRÄZISE: Der XD-Linearmotor nutzt das Geschwindigkeitspotenzial des Kameragehäuses voll aus und fokussiert und verfolgt auch schnell bewegte Motive mit herausragender Geschwindigkeit und Präzision
 - Produkt 1: SCHÖNES BOKEH: Eine Zirkuläre Blende mit 7 Lamellen sorgt für ein wunderschönes Bokeh
 - Produkt 2: SCHNELL UND PRÄZISE: Ein leistungsstarkes DDSSM-Fokusantriebssystem (Direct Drive SSM) sorgt für die Geschwindigkeit und Präzision, die sowohl bei Foto- als auch bei Videoaufnahmen erforderlich sind
+- Produkt 2: SCHÖNES BOKEH: Das sanfte Bokeh wird durch eine zirkulare Blende mit 9 Lamellen unterstützt und sorgt für natürlich wirkende Ergebnisse
+- Produkt 2: ZUVERLÄSSIGER AF: Bei der geringeren Tiefenschärfe einer F1,8-Blende ist der Fokus entscheidend. Aber das hochpräzise linearmotorische AF-Antriebssystem sorgt für einen präzisen und leisen Fokus
 - Produkt 1: UNGLAUBLICH SCHARF: Ein asphärisches Element und drei ED-Glaselemente (Extra-low Dispersion) in einem optischen Präzisionsdesign unterdrücken Aberration im gesamten Zoombereich des Objektivs
 - Produkt 1: IMMER ZUVERLÄSSIG: Ein staub- und feuchtigkeitsresistentes Design bietet die nötige Zuverlässigkeit für den Außeneinsatz unter schwierigen Bedingungen
-- Produkt 2: ZUVERLÄSSIGER AF: Bei der geringeren Tiefenschärfe einer F1,8-Blende ist der Fokus entscheidend. Aber das hochpräzise linearmotorische AF-Antriebssystem sorgt für einen präzisen und leisen Fokus
+- Produkt 2: IMMER ZUVERLÄSSIG: Ein staub- und feuchtigkeitsresistentes Design bietet die nötige Zuverlässigkeit für den Außeneinsatz unter schwierigen Bedingungen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CT37LMZS{{</world>}}

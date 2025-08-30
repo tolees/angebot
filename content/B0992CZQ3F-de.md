@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform : Klassischer Regular Fit von der Taille bis zur Beinöffnung
 - Taille : Mittlere Taille
+- Passform : Klassischer Regular Fit von der Taille bis zur Beinöffnung
 - Länge,Größe : Midi
 
 [🛒 Hier!!]({{< param buyurl >}})

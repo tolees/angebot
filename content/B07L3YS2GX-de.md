@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fürchte die Nacht
-- Den Druck aushalten
 - Entwirre das Geheimnis
+- Den Druck aushalten
 - Tauche unter den Ozeanboden
 - Unterbricht die Nahrungskette
+- Fürchte die Nacht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07L3YS2GX{{</world>}}

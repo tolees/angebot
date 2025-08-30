@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- LEGO Sets für erwachsene Künstlerinnen und Künstler: Die LEGO Art Sets bieten Erwachsenen die Chance, einer großen Leidenschaft nachzugehen und Kunstwerke aus LEGO Steinen zu erschaffen und dann im Wohnzimmer oder Büro aufzuhängen
+- Mona Lisa – das berühmte Gemälde aus LEGO Steinen: Die LEGO Art Mona Lisa ist ein Bauset für Erwachsene, das dich deine eigene Version des Meisterwerks von Leonardo da Vinci erschaffen lässt
 - Geschenk für Männer und Frauen, die Kunst lieben: Beschenke dich selbst oder andere Kunstliebhaber, die sich über eine ebenso fesselnde wie kreative Aktivität riesig freuen, mit diesem Wandschmuck
 - Abnehmbarer Rahmen: Diese Darstellung der Mona Lisa wird von einem goldfarbenen Rahmen umsäumt, in dem man auch andere LEGO Art Werke aus einer bereits vorhandenen Kollektion präsentieren kann
-- Mona Lisa – das berühmte Gemälde aus LEGO Steinen: Die LEGO Art Mona Lisa ist ein Bauset für Erwachsene, das dich deine eigene Version des Meisterwerks von Leonardo da Vinci erschaffen lässt
-- LEGO Sets für erwachsene Künstlerinnen und Künstler: Die LEGO Art Sets bieten Erwachsenen die Chance, einer großen Leidenschaft nachzugehen und Kunstwerke aus LEGO Steinen zu erschaffen und dann im Wohnzimmer oder Büro aufzuhängen
-- Feiere ein Meisterwerk: Diesem LEGO Art Set liegt eine Broschüre mit Bauanleitung bei. Du musst nur den QR-Code scannen, um dir den Soundtrack anzuhören und zu erfahren, was den zeitlosen Reiz dieses Werks ausmacht
 - LEGO Wandporträt: Diese LEGO Interpretation der Mona Lisa wurde so konzipiert, dass sie an einer Wand aufgehängt werden kann
+- Feiere ein Meisterwerk: Diesem LEGO Art Set liegt eine Broschüre mit Bauanleitung bei. Du musst nur den QR-Code scannen, um dir den Soundtrack anzuhören und zu erfahren, was den zeitlosen Reiz dieses Werks ausmacht
 - Wandschmuck mit 2 Augenpaaren: Man kann die berühmten Augen der Mona Lisa durch unbedruckte Teile ersetzen, um das Gemälde abstrakter wirken zu lassen
 
 [🛒 Hier!!]({{< param buyurl >}})

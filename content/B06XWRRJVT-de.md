@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ZUCKERARMER GENUSS: Jeder Riegel enthält nur wenig Zucker. Das macht die Nutrition Smart Protein Bars von PhD geeignet für eine zuckerarme Ernährung. Auf Palmöl wird vollkommen verzichtet
-- EIWEISSRIEGEL MIT VIEL PROTEIN: Leckere Proteinriegel mit hohem Eiweißanteil. Ein 64g Riegel enthält 21g Protein - ein Anteil von fast 30%. Die perfekten Protein Snacks zum Mitnehmen, ideal als Stärkung beim Sport
 - Elementanzeigegewicht: 64.0 gramm
+- EIWEISSRIEGEL MIT VIEL PROTEIN: Leckere Proteinriegel mit hohem Eiweißanteil. Ein 64g Riegel enthält 21g Protein - ein Anteil von fast 30%. Die perfekten Protein Snacks zum Mitnehmen, ideal als Stärkung beim Sport
+- ZUCKERARMER GENUSS: Jeder Riegel enthält nur wenig Zucker. Das macht die Nutrition Smart Protein Bars von PhD geeignet für eine zuckerarme Ernährung. Auf Palmöl wird vollkommen verzichtet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06XWRRJVT{{</world>}}

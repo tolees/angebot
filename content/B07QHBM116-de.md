@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Voodoo T-Shirt (Shb06835)
-- Ellesse Sportbekleidung
 - Sportliches Freizeitshirt für Herren
+- Ellesse Sportbekleidung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07QHBM116{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dem herumwirbelnden Strudel muss man entgehen, ohne vom Kiefer des riesigen Alligator verspeist zu werden!
-- Die beweglichen Rollen und Bürsten zum Waschen des Autos schulen motorische Fähigkeiten, während magische“ Farbwechsel die Fantasie des Kindes anregen.
-- Eindrucksvolles, großes und maßstabsgetreues Autowaschanlage-Set mit Farbwechsel und riesigem Alligator!
 - Das Set enthält einen Lastaufzug mit Handkurbel, einen verrückten Track, einen Wasserspeicher, ein Tauchbecken mit Strudel und ein Color-Shifters-Auto.
+- Eindrucksvolles, großes und maßstabsgetreues Autowaschanlage-Set mit Farbwechsel und riesigem Alligator!
+- Die beweglichen Rollen und Bürsten zum Waschen des Autos schulen motorische Fähigkeiten, während magische“ Farbwechsel die Fantasie des Kindes anregen.
+- Dem herumwirbelnden Strudel muss man entgehen, ohne vom Kiefer des riesigen Alligator verspeist zu werden!
 - Durch das Kurbeln am Aufzug fährt das Auto nach oben und dann den Track entlang, wo es sich auf eine witzige Wasch- und Farbwechselreise begibt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verschluss:Reißverschluss
-- Absatzform:Blockabsatz
-- Obermaterial: Leder
 - Sohle:Ethylenvinylacetat
+- Absatzform:Blockabsatz
 - Innermaterial:N/A
+- Obermaterial: Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BM51KZJ8{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rippbündchen an Ärmeln und Saum
-- locker geschnitten
 - plakative Label Prints vorne und auf den Ärmeln
 - Rundhalsausschnitt mit Rippblende
 - softer Griff
+- Rippbündchen an Ärmeln und Saum
+- locker geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5FL8W3{{</world>}}

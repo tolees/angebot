@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Bei dieser Zeitschaltuhr können Sie Schaltzeiten im Abstand von 120 Minuten programmieren, was eine maximale Anzahl von 84 verschiedenen Zeiten in einem Schaltprogramm (24h) ermöglicht. Max. 3680W
 - Die sich am Rand der Drehscheibe befindlichen schwarzen Schaltstifte sind im Auslieferungszustand nach unten gedrückt, also eingeschaltet. Durch einfaches Herausziehen wird der Strom deaktiviert
-- Steuern Sie mit dieser Schaltuhr elektrische Geräte, oder Beleuchtung in Ihrer Wohnung zu verschiedenen Zeiten und suggerieren Sie während dem Sie außer Haus sind Ihre Anwesenheit (einbruchshemmend)
 - Zeitschaltuhr mit Schutzleiter und erhöhtem Berührungsschutz. Für die Verwendung in trockenen Innenräumen. Leistungsaufnahme bei Nullast: 1W. Abmessungen (BxTxH): 72 x 58 x 127 mm. Gewicht 151g
 - Steckdose mit Zeitschaltuhr. Die Einstellung der Uhrzeit erfolgt durch Drehen der Drehscheibe nach rechts bis die aktuelle Uhrzeit mit dem schwarzen Markierungspfeil übereinstimmt. Schiebeschalter
+- Steuern Sie mit dieser Schaltuhr elektrische Geräte, oder Beleuchtung in Ihrer Wohnung zu verschiedenen Zeiten und suggerieren Sie während dem Sie außer Haus sind Ihre Anwesenheit (einbruchshemmend)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007YEWHO2{{</world>}}

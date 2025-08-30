@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Separates Bodenfach mit herausnehmbarem Zwischenboden
 - Rückenlängen-Anpassung durch verstellbare Trägerhöhe mit dem VariQuick System
 - Perfekte Lastübertragung und optimal ausbalancierter, sicherer Sitz durch das Aircontact Kontaktrücken-System
-- Separates Bodenfach mit herausnehmbarem Zwischenboden
 - Schlanke, ergonomische Hüftflossen mit Reißverschluss-Taschen, ausgelegt für mittlere Lasten
 - Vorrichtung für Trinksystem (deuter Streamer 3.0 - nicht enthalten!)
 

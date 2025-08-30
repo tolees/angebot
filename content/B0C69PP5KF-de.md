@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Sohle: Gummi
 - Absatzform: Flach
-- Innenmaterial: Synthetik
 - Obermaterial: Leder
 - Verschluss: Schnürung
+- Innenmaterial: Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C69PP5KF{{</world>}}

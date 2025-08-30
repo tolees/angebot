@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set, das die Form eines Benzinkanisters hat, öffnet sich zu einer Mini-Stunt-Arena und einem Reparaturbereich.
-- Muss der Motosaurus repariert werden? Kein Problem! Einfach auf die Hebebühne fahren und anheben, um die erforderlichen Arbeiten zu erledigen.
 - Der Benzinkanister funktioniert gleichzeitig als Aufbewahrungsbehälter und verfügt über ein transparentes Fenster, damit der Motosaurus immer gut zu sehen ist.
 - Mit dem Hot Wheels Monster Trucks Fuel N Go-Spielset in epische Abenteuer eintauchen!
+- Das Set, das die Form eines Benzinkanisters hat, öffnet sich zu einer Mini-Stunt-Arena und einem Reparaturbereich.
 - Mit dem im Lieferumfang enthaltenen Motosaurus im Maßstab 1:64 geht es die Rampe hoch und dann hinab auf die 2 zerdrückten Autos. Weitere Autos und Trucks steigern das Ausmaß der Zerstörung! (Zwei zerdrückte Autos im Lieferumfang enthalten. Zusätzlich abgebildete Fahrzeuge separat erhältlich.)
+- Muss der Motosaurus repariert werden? Kein Problem! Einfach auf die Hebebühne fahren und anheben, um die erforderlichen Arbeiten zu erledigen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CQMDZV15{{</world>}}

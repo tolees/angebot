@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Neues Verriegelungssystem
-- Nockenmechanik - gewährleistet, bei gleichbleibender Klemmkraft, automatische Einstellung auf jede Größe
 - Variable Klemmkraft-Einstellung
+- Nockenmechanik - gewährleistet, bei gleichbleibender Klemmkraft, automatische Einstellung auf jede Größe
+- Neues Verriegelungssystem
 - Einfache und sichere Entriegelung - Zange bleibt geschlossen bis Entriegelung betätigt wird
 - Mit Einhand-Bedienung und automatischer Einstellung
 

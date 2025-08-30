@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leder: Kein Leder
 - 14.4488188829 inches
-- Verschluss: Gummi
+- Leder: Kein Leder
 - LeichteLeichte
+- Verschluss: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0983KPS2Z{{</world>}}

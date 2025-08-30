@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verbesserte HD-2D-Grafik
+- Verbesserte Spielmechaniken
 - Eine neue und vielfältige Welt zur Erkundung
 - Acht Reisende, ein jeder mit anderer Herkunft, Motivation und einzigartigen Begabungen
-- Verbesserte Spielmechaniken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BFD6XYD8{{</world>}}

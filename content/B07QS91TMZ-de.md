@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- matt verchromt
-- extra lange Ausführung
 - jede Schlüsselweite mit Farbcode
 - durchgehend gehärtet
+- matt verchromt
+- extra lange Ausführung
 - Spezial-Werkzeugstahl
 
 [🛒 Hier!!]({{< param buyurl >}})

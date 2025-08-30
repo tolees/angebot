@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Nach vorne versetzte Seitennaht für verbesserte Passform
 - Aus recycelten Materialien: hergestellt aus Recyclingfasern für einen geringeren ökologischen Footprint
-- Mit Jersey gefütterte Kapuze mit Zugband für individuellen Komfort
 - Ärmelbündchen und Saum gerippt
+- Mit Jersey gefütterte Kapuze mit Zugband für individuellen Komfort
 - Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

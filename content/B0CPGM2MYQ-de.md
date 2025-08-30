@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Diese leichte Jacke ist wasserdicht und atmungsaktiv und verfügt über eine verstellbare Kapuze, Seitentaschen mit Reißverschluss, verstellbare Ärmelbündchen und eine strapazierfähige Außenhülle.
-- Halte die Elemente mit der verstellbaren Kapuze, den Ärmelbündchen und dem verstellbaren Kordelzug-Saum fern
 - Hergestellt mit wasserdichter Omni-Tech-Technologie mit atmungsaktiven, versiegelten Nähten
 - Verstaubar: Die Jacke lässt sich zur leichteren Aufbewahrung in der Jackentasche verstauen
+- Halte die Elemente mit der verstellbaren Kapuze, den Ärmelbündchen und dem verstellbaren Kordelzug-Saum fern
 - Lieferumfang: 1x Columbia Pouring Adventure III Herrenjacke, Farbe: Schwarz, Größe: L, Art.-Nr.: 2117171
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

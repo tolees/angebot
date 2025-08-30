@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langlebig
 - Flexible Gestaltung
+- Langlebig
 - Die besten Produkte
 - Hochwertige Abmessungen
 

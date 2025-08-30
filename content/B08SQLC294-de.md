@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - TOY FIGURE
+- Multi
 - hohe Qualität
 - Hasbro
-- Multi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08SQLC294{{</world>}}

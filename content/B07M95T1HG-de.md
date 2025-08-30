@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Glatter Stoff
 - Flexibler Bund
+- Glatter Stoff
 - Fünferpack Unterhosen
 
 [🛒 Hier!!]({{< param buyurl >}})

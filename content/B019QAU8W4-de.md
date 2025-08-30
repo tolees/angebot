@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Energieverbrauch 5 kWh/1000h bei 470 lm
 - Wir können die Helligkeit nicht dimmen
 - Erfolgt herkömmliche Glühlampen, ersetzt eine 4,9-W-Glühlampe (Verwendung im Freien nur mit entsprechenden Leuchten)
-- Energieverbrauch 5 kWh/1000h bei 470 lm
 - Warmweißes Licht für eine Atmosphäre der Entspannung und des Wohlbefindens, ideal in Schlaf- oder Kinderzimmern
 - Sofort eingeschaltet, keine Aufwärmzeit
 - Lange Lebensdauer — bis zu 15.000 Stunden und 100.000 Schaltzyklen

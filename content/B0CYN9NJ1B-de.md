@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Synthetikleder
 - Schaft und Futter aus Mesh
-- Zehenkappe aus Wildleder
 - Reguläre Passform
+- Obermaterial aus Synthetikleder
+- Zehenkappe aus Wildleder
 - Schnürsenkel
 
 [🛒 Hier!!]({{< param buyurl >}})

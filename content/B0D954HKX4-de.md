@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 3-Knopfleiste
-- Print -Artwork vorne und auf den Ärmelbündchen
-- Tapes auf den Schultern
 - Flammgarnstruktur
 - Trikotkragen mit Kontrastkante und gebrandeter Unterseite
+- Tapes auf den Schultern
+- Print -Artwork vorne und auf den Ärmelbündchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D954HKX4{{</world>}}

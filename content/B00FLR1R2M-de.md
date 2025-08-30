@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Echtes Wildleder
 - Viertel-Chevrons
+- Echtes Wildleder
 - Gummi-Außensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

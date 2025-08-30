@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Laufsohle: 100% EVA
 - Farbe: Dunkelgrün
-- Futter: 59 % Schweinsleder 41 % recyceltes Polyester
+- Laufsohle: 100% EVA
 - Better Leather
+- Futter: 59 % Schweinsleder 41 % recyceltes Polyester
 - Obbermaterial: 100% Rindsleder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

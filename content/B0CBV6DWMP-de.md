@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gummidruck sorgt für ein weiches Tragegefühl
-- Einfacher als ein T-Shirt geht es nicht. Kann mit allem aus der Garderobe getragen werden
 - Das gekämmte Jersey ist dehnbar und fühlt sich weich an, ideal für den täglichen Trage
+- Einfacher als ein T-Shirt geht es nicht. Kann mit allem aus der Garderobe getragen werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CBV6DWMP{{</world>}}

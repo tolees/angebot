@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PROZESSOR: Intel Core i5-1235U (3,3 GHz E-Core | 4,4 GHz P-Core Max Turbo Frequency) GRAFIKKARTE: Intel Iris Xe Grafik FESTPLATTE: 1.000 GB PCIe Gen4 NVMe (SSD) ARBEITSSPEICHER: 16 GB DDR4 RAM
-- LIEFERUMFANG: Acer Aspire 3, Netzteil TASTATUR: Nummernblock, QWERTZ Layout | TOUCHPAD
-- DISPLAY: Dank dem FHD Bildschirm erleben Sie gestochen scharfe Bilder. Mit der IPS Technologie genießen Sie kräftige Farben und einen stabilen Blickwinkel. DISPLAYAUFLÖSUNG: 1.920 x 1.080 Pixel WEBCAM: HD Webcam
 - ANSCHLÜSSE: 1xHDMI, 3xUSB 3.2 Type-A Gen.1, Ethernet/LAN, 1x Lautsprecher/Kopfhörer/Line-out (unterstützt Headsets mit integriertem Mikrofon) KABELLOS: Bluetooth 5.0, WLAN
+- DISPLAY: Dank dem FHD Bildschirm erleben Sie gestochen scharfe Bilder. Mit der IPS Technologie genießen Sie kräftige Farben und einen stabilen Blickwinkel. DISPLAYAUFLÖSUNG: 1.920 x 1.080 Pixel WEBCAM: HD Webcam
 - AKKULAUFZEIT: Bis zu 6 Stunden (basierend auf dem MobileMark 2018 Test) AKKU: Li-Ion Akku (3 Zellen / 40 Wh) ANWENDUNGSBEREICH: Das Aspire 3 bewältigt alle Aufgaben, die im Alltag anfallen, problemlos - egal, ob sie Office-Anwendungen nutzen, Filme streamen oder einfach nur im Internet surfen
+- LIEFERUMFANG: Acer Aspire 3, Netzteil TASTATUR: Nummernblock, QWERTZ Layout | TOUCHPAD
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B9MQ6HC2{{</world>}}

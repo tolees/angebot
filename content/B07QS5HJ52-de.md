@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Frequenz 118 - 136,99166 MHz
-- Emissionsleistung 6 (PEP), 1,8 W (CW)
 - Feuchtigkeitsschutz IP67
-- Anzahl der Pins 2-Pin-Audiozubehör Typ Midland
+- Emissionsleistung 6 (PEP), 1,8 W (CW)
 - 2400 mAh Akku
+- Anzahl der Pins 2-Pin-Audiozubehör Typ Midland
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07QS5HJ52{{</world>}}

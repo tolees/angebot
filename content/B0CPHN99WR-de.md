@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktischer Lieferumfang – NIVEA SUN UV Gesicht Mattierender Sonnenschutz LSF 50 (50 ml), Artikelnummer 86007
 - Hoher Schutz – Die Sonnencreme mit LSF 50 und UVA/UVB-Filter schützt Gesicht, Hals und Dekolleté wirksam gegen UVA/UVB-Strahlung und den Effekten von blauem Licht.
 - Mattierender Effekt – Die Tagescreme mit Lichtschutzfaktor absorbiert überschüssigen Talg und mattiert langanhaltend – ideal für die tägliche Anwendung.
+- Praktischer Lieferumfang – NIVEA SUN UV Gesicht Mattierender Sonnenschutz LSF 50 (50 ml), Artikelnummer 86007
 - Haut & Umwelt – Aus Liebe zu Haut und Umwelt ist die Formel der Sonnenschutzcreme frei von den umweltschädlichen UV-Filtern Octocrylen, Octinoxat, Oxybenzon und Homosalat.
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 - Leichte Textur – Mit ihrer feuchtigkeitsspendenden und leichten Formel hinterlässt die schützende Gesichtscreme ein seidig-weiches, 0% fettiges Hautgefühl.

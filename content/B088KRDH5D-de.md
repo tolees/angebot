@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Intenso Rainbow Line USB-Stick rot
-- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
 - Gewicht: federleichte 6 g; Abmessungen: 64 x 19 x 7 mm
+- Lieferumfang: Intenso Rainbow Line USB-Stick rot
 - Hochwertiger USB-Speicherstick im transparent-roten Design-Gehäuse
+- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
 - Material: Kunststoff
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Energiebooster im Alltag
 - Natürliche Unterstützung für Ihre Ernährung
 - Verantwortungsvolle Inhaltsstoffe
+- Energiebooster im Alltag
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00EAM6WA6{{</world>}}

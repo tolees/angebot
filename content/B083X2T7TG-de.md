@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Als Akku-Gerät ist die Oberflächenbürste rund um Haus und Garten flexibel einsetzbar – ohne von Stromquellen abhängig zu sein, Lieferung inklusive Bürste MEDIUM zur Steinreinigung
-- Das Alurohr kann zum für rückenschonenden Arbeiten in der Höhe verstellt werden. Zudem verfügt die PICOBELLA 18/215 über einen ergonomischen Handgriff mit Softgrip und einen Zusatzhandgriff
-- Als Mitglied des grenzenlos kombinierbaren Akkusystems Power X-Change kann jeder Systemakku mit der PICOBELLA 18/215 kombiniert werden - Lieferung erfolgt ohne Akku und Ladegerät
-- Eine spezielle Seitenbürste ist für randnahes Arbeiten bis an die Kante geeignet, Spritzschutzhaube lenkt den Schmutz in geregelte Bahnen, extra breite Bürstenwalzen sorgen für schnelle Resultate
 - Die Einhell Akku-Oberflächenbürste PICOBELLA 18/215 ist ein multifunktioneller Helfer zur Reinigung und Erfrischung von Steinoberflächen, Holz, Kunstrasen, sowie Ecken und Kanten
 - Durch den flexiblen Vorwärts-/Rückwärtslauf der Bürste können max. Ergebnisse bei einer ruhigen Bürstenführung erzielt werden, Drehzahlregulierung sorgt dabei für ein Plus an Flexibilität
+- Eine spezielle Seitenbürste ist für randnahes Arbeiten bis an die Kante geeignet, Spritzschutzhaube lenkt den Schmutz in geregelte Bahnen, extra breite Bürstenwalzen sorgen für schnelle Resultate
+- Als Mitglied des grenzenlos kombinierbaren Akkusystems Power X-Change kann jeder Systemakku mit der PICOBELLA 18/215 kombiniert werden - Lieferung erfolgt ohne Akku und Ladegerät
+- Das Alurohr kann zum für rückenschonenden Arbeiten in der Höhe verstellt werden. Zudem verfügt die PICOBELLA 18/215 über einen ergonomischen Handgriff mit Softgrip und einen Zusatzhandgriff
 - Der integrierte Gartenschlauchanschluss inklusive Wasser Regulierventil ermöglicht eine einfache, sparsame Nassreinigung in nur einem Arbeitsschritt für eine gründliche, komplette Reinigung
 
 [🛒 Hier!!]({{< param buyurl >}})

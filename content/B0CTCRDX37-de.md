@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- T-Shirt mit Rundhalsausschnitt, klassischer Länge
 - Maschinenwaschbar
+- T-Shirt mit Rundhalsausschnitt, klassischer Länge
 - Wasserbasierter Druck auf Vorder- und Rückseite
 
 [🛒 Hier!!]({{< param buyurl >}})

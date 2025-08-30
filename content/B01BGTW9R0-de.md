@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normaler Bund
 - Reißverschluss
+- Normaler Bund
 - Normale Leibhöhe
 - Zum Knöchel hin schmal zulaufend
 

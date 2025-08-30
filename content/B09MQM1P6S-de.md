@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlüssel Clip
-- Reflektierende Elemente
-- Reißverschluss-Deckelfach
 - Angenehme Belüftung durch Airstripes-Rückensystem
+- Schlüssel Clip
+- Reißverschluss-Deckelfach
+- Reflektierende Elemente
 - Namensetikett innen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

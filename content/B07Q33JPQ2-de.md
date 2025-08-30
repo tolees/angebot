@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gesticktes ellesse Logo auf der Brust
 - Material: 100 % Baumwolle
-- Aus unserer Kernkollektion, die den ganzen Tag Komfort garantiert
 - Gewebte Lasche am Ärmel
+- Gesticktes ellesse Logo auf der Brust
+- Aus unserer Kernkollektion, die den ganzen Tag Komfort garantiert
 - Klassische Passform mit hochgeschlossenem Rippkragen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NACHHALTIG: Die Umwelt ist uns besonders wichtig, daher ist Rockwood aus 75% recycelten Materialien hergestellt und kann zu 100% recycelt werden.
-- OUTDOOR: Die Keterbox Rockwood ist wasserdicht, absolut wetterfest (UV beständig, kein Ausbleichen) und damit die perfekte Aufbewahrungsbox für Ihren Garten
-- DURCHDACHT: inkl. Gasdruckfeder für ein leichtes Öffnen, abschließbar (Schloss nicht im Lieferumfang enthalten)
-- TECHNISCHE DATEN: Abmessung (LxBxH): außen ca. 155 x 72,4 x 64,4 cm/ innen ca. 142,4 x 62,6 x 57,9 cm; großes Fassungsvolumen 570l
 - GEEIGNET FÜR: Pool Zubehör, Kissenauflagen, Gartenliegen, Sitzkissen, Sonnenschirm, Kinderspielzeug und alles, was für Ihren Garten unentbehrlich ist.
+- NACHHALTIG: Die Umwelt ist uns besonders wichtig, daher ist Rockwood aus 75% recycelten Materialien hergestellt und kann zu 100% recycelt werden.
+- TECHNISCHE DATEN: Abmessung (LxBxH): außen ca. 155 x 72,4 x 64,4 cm/ innen ca. 142,4 x 62,6 x 57,9 cm; großes Fassungsvolumen 570l
+- DURCHDACHT: inkl. Gasdruckfeder für ein leichtes Öffnen, abschließbar (Schloss nicht im Lieferumfang enthalten)
+- OUTDOOR: Die Keterbox Rockwood ist wasserdicht, absolut wetterfest (UV beständig, kein Ausbleichen) und damit die perfekte Aufbewahrungsbox für Ihren Garten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FB33GYC{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Ultraflaches Design & große Staubbox】 Mit nur 6,9cm Höhe und 28cm Durchmesser reinigt der staubsauger roboter auch unter Betten, Sofas und Möbeln mühelos. Die transparente 600ml Staubbox mit HEPA-Filter fängt selbst mikroskopisch feine Partikel auf und verhindert Sekundärverschmutzung.
 - 【Präzise PSD-Hindernisvermeidung】 Der LEFANT F1 staubsauger roboter ohne wischfunktion nutzt fortschrittliche PSD-Sensorik mit 8 Front-Dreiecksensoren. Damit erkennt der Roboter Hindernisse aus einem Erfassungswinkel von über 180° präzise und weicht diesen zuverlässig aus – selbst Tisch- und Stuhlbeine werden erkannt und sanft umfahren.
-- 【Intuitive App- & Sprachsteuerung】 Mit der LEFANT-App erstellen Sie Reinigungspläne, wählen Reinigungsmodi oder passen die Saugkraft an – ganz flexibel von überall. Kompatibel mit Google Assistant & Alexa für bequeme Sprachsteuerung. Hinweis: Nur mit 2,4GHz-WLAN nutzbar.
 - 【Extrem starke Saugkraft von 5000Pa】 Der roboterstaubsauger F1 überzeugt mit 5000Pa Saugkraft, ideal zur gründlichen Reinigung von Tierhaaren, Staub und Krümeln – selbst auf unebenen Böden. Die Kombination mit der 600ml großen Staubbox ermöglicht längeres Saugen ohne häufiges Entleeren.
+- 【Intuitive App- & Sprachsteuerung】 Mit der LEFANT-App erstellen Sie Reinigungspläne, wählen Reinigungsmodi oder passen die Saugkraft an – ganz flexibel von überall. Kompatibel mit Google Assistant & Alexa für bequeme Sprachsteuerung. Hinweis: Nur mit 2,4GHz-WLAN nutzbar.
+- 【Ultraflaches Design & große Staubbox】 Mit nur 6,9cm Höhe und 28cm Durchmesser reinigt der staubsauger roboter auch unter Betten, Sofas und Möbeln mühelos. Die transparente 600ml Staubbox mit HEPA-Filter fängt selbst mikroskopisch feine Partikel auf und verhindert Sekundärverschmutzung.
 - 【250 Minuten Laufzeit & automatische Rückkehr】 Der roboterstaubsauger bietet im Leise-Modus eine Laufzeit von bis zu 250 Minuten. Nach der Reinigung oder bei niedrigem Akkustand kehrt er automatisch zur Ladestation zurück – ideal für größere Flächen mit mehreren Räumen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

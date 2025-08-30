@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einlegesohle zum Hineinsteigen
 - Markenlogo-Detail
+- Einlegesohle zum Hineinsteigen
 - Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flauschige Herren-Weste mit Wärmereflexion, Ideal zum Einschließen der Wärme in den kalten Wintermonaten
-- Lieferumfang: 1x Columbia Herrenweste, Powder Lite II, Farbe: Schwarz, Größe: XL, Art. 2086974
 - Optimale Passform dank verstellbarem Kordelzug am Saum
 - Reflektierende Omni-Heat-Technologie für verbesserte Isolierung und Wärme auch an den kältesten Tagen
+- Lieferumfang: 1x Columbia Herrenweste, Powder Lite II, Farbe: Schwarz, Größe: XL, Art. 2086974
+- Flauschige Herren-Weste mit Wärmereflexion, Ideal zum Einschließen der Wärme in den kalten Wintermonaten
 - Einfassung an Kragen und Armloch, Innenliegende Sicherheitstasche
 
 [🛒 Hier!!]({{< param buyurl >}})

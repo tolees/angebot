@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hartmetallbestückte Zähne für hervorragende Schneidleistung und Haltbarkeit.
 - Schnitt-Tiefe 54 mm (2 1/8").
+- Hartmetallbestückte Zähne für hervorragende Schneidleistung und Haltbarkeit.
 - Feiner, glatter Schnitt bei minimaler Wärmeentwicklung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

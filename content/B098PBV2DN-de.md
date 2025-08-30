@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Sohle: Ethylen-Vinylacetat
 - Nicht wasserfest
-- Flach
 - Bungee
+- Flach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B098PBV2DN{{</world>}}

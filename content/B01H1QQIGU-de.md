@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erleben Sie eine eigenständige Geschichte
 - Werden Sie zu Spider-Man
 - Stürzen Sie sich in eine offene Welt
+- Erleben Sie eine eigenständige Geschichte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01H1QQIGU{{</world>}}

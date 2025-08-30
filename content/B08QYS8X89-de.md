@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Pflegehinweise: Nur Handwäsche
+- fleece-stoff fühlt sich weich und warm.
 - Hülsentyp: Langarm
 - kängurutasche auf der vorderseite
-- fleece-stoff fühlt sich weich und warm.
-- Pflegehinweise: Nur Handwäsche
 - kordelzug kapuze können sie ihre abdeckung anpassen.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Prozessor: MediaTek Dimensity 6080
+- Hauptkamera: 100 MP + 2 MP
 - Bauart: Smartphone
 - Frontkamera: 16 MP
-- Hauptkamera: 100 MP + 2 MP
 - Arctic White, Android 13, 5G
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke CLINIQUE
-- Stiftung
 - Beauty-Produkte
+- Stiftung
+- Marke CLINIQUE
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B003BMLKVW{{</world>}}

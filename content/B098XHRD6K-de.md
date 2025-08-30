@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ABGESTIMMTER MAHLGRAD: Filterfein gemahlen, kein Verstopfen des Filters und gleichmäßiger Durchfluss für optimale Brüh-Ergebnisse im Handfilter, French-Press oder in der Filterkaffeemaschine
 - TRADITION SEIT 1908: Bei Melitta Kaffee dreht sich seit mehr als 100 Jahren alles um Kaffee - von Filterkaffee über Ganze Bohnen bis hin zu Spezialitätenkaffees
-- INDIVIDUELLE REZEPTUR: Anhand speziell durch den Röstmeister in Bremen erstellten Röstprofilen und Rezepturen ergibt sich der beste Geschmack aus jeder Bohne
 - PERFEKTE RÖSTUNG: Dank des perfekten Röstzeitpunktes bis zum sogenannten Second-Crack, der bei jedem Röst-Vorgang des Kaffees individuell eingestellt wird, entstehen über 800 Aromen für besten Geschmack
+- INDIVIDUELLE REZEPTUR: Anhand speziell durch den Röstmeister in Bremen erstellten Röstprofilen und Rezepturen ergibt sich der beste Geschmack aus jeder Bohne
 - GERÖSTET IN DEUTSCHLAND: Unter höchsten Qualitäts-Standards und Prüfungen in Deutschland geröstet
-- AROMAVERPACKT: Durch vakuumierte Verpackung sind alle Aromen im Kaffee versiegelt und es gibt keinen Geschmacksverlust über die gesamte Haltbarkeitsdauer
+- ABGESTIMMTER MAHLGRAD: Filterfein gemahlen, kein Verstopfen des Filters und gleichmäßiger Durchfluss für optimale Brüh-Ergebnisse im Handfilter, French-Press oder in der Filterkaffeemaschine
 - KRÄFTIGE RÖSTUNG: Für einen besonders intensiven Geschmack wurde ein Röstprofil bis hin zur dunklen Röstung gewählt, um einen besonders kräftigen Geschmack rauszuarbeiten
+- AROMAVERPACKT: Durch vakuumierte Verpackung sind alle Aromen im Kaffee versiegelt und es gibt keinen Geschmacksverlust über die gesamte Haltbarkeitsdauer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B098XHRD6K{{</world>}}

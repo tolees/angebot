@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kooperatives Erlebnisspiel im Level: Einsteiger
 - Da die Materialien für die außergewöhnlichen Rätsel verändert werden, nur einmal spielbar
-- Mit Tutorial und Timer in der kostenlosen KOSMOS-Erklär-App. Mit und ohne App spielbar
+- Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Das Escape-Room-Spiel für zu Hause
+- Ideal als Partyspiel, Eventspiel und als Geburtstagsgeschenk
+- Kooperatives Erlebnisspiel im Level: Einsteiger
 - Taucht ein in eine magische Welt und löst die Rätsel in der Zauberschule 1-4 SpielerInnen lösen im Team clevere Rätsel und brauchen dazu Teamgeist, Kreativität und Kombinationsgeschick
 - Gesellschaftsspiel für Erwachsene, Fans von Live Escape Rooms und Familien ab 10 Jahren
-- Ideal als Partyspiel, Eventspiel und als Geburtstagsgeschenk
-- Aus der erfolgreichen Spielereihe „EXIT – Das Spiel“. Das Escape-Room-Spiel für zu Hause
+- Mit Tutorial und Timer in der kostenlosen KOSMOS-Erklär-App. Mit und ohne App spielbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLXXSFVV{{</world>}}

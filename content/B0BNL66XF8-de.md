@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [Tees You Can Trust] Jeder braucht T-Shirts, denen man vertrauen kann. Hören Sie auf, mit dem VANS Mini Script T-Shirt zu suchen und konzentrieren Sie sich auf die wichtigsten Dinge.
-- [Spezifikationen] 100 % Baumwolle (50 % Baumwolle, 50 % Polyester). 155 g/m², kurze Ärmel, Rundhalsausschnitt mit Siebdruck-Mini-Logo. Maschinenwaschbar. Passform: klassisch, gerade Shirts für Erwachsene, Männer und Jungen.
 - Klassische Passform
+- [Spezifikationen] 100 % Baumwolle (50 % Baumwolle, 50 % Polyester). 155 g/m², kurze Ärmel, Rundhalsausschnitt mit Siebdruck-Mini-Logo. Maschinenwaschbar. Passform: klassisch, gerade Shirts für Erwachsene, Männer und Jungen.
+- [Tees You Can Trust] Jeder braucht T-Shirts, denen man vertrauen kann. Hören Sie auf, mit dem VANS Mini Script T-Shirt zu suchen und konzentrieren Sie sich auf die wichtigsten Dinge.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BNL66XF8{{</world>}}

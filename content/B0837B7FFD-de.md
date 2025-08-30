@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Innenmaterial: Leder
 - Sohle: Synthetik
-- Verschluss: Schnürung
 - Obermaterial: Leder
+- Verschluss: Schnürung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0837B7FFD{{</world>}}

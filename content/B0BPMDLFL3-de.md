@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- PvP: Der Kampf nimmt eine dramatische Wendung, wenn ihr PvP-Zonen betretet
 - Stützpunkte: Heldenhafte Abenteurer können Stützpunkte wie diese säubern und sie für die Bewohner von Sanktuario zurückerobern
 - Sanktuarios Helden: Erschafft einen Charakter und passt ihn nach euren Wünschen an, um die unaussprechlichen Schrecken zu bekämpfen
 - Überlebt und bezwingt die Finsternis - oder versinkt in den Schatten
-- PvP: Der Kampf nimmt eine dramatische Wendung, wenn ihr PvP-Zonen betretet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BPMDLFL3{{</world>}}

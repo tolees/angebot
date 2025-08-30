@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehr detailliert
 - Funko POP! Movies
-- Offizielles Lizenzprodukt
 - Jurassic World 2: Fallen Kingdom
+- Offizielles Lizenzprodukt
+- Sehr detailliert
 - Claire Dearing
 
 [🛒 Hier!!]({{< param buyurl >}})

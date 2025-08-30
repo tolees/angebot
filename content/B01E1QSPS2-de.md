@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - DAS ORIGINAL SEIT 1865: Die Pastillen der Marke Fishermans Friend haben eine lange Tradition, Bereits seit 1865 werden sie nach dem Originalrezept hergestellt
-- OHNE ZUCKER UND VEGAN: Fishermans Friend gibt es in verschiedenen Sorten, Die Bonbons sind zuckerfrei, vegan, glutenfrei und enthalten keine künstlichen Farb- oder Konservierungsstoffe
 - PRAKTISCHER VORRAT IM SCHICKEN THEKENDISPLAY FORMAT: Unsere 24er Vorrats-Box kommt in der plastikfreien Kartonverpackung und enthält 24 Beutel à 25g, IDEAL zum Aufstellen im Kiosk oder als Vorrat für zu Hause
-- STARKER GESCHMACK: Saftige Himbeeren & intensives Menthol sorgen für das unverwechselbare Aroma der Pastillen, Dank starkem Aroma erfrischen die Pastillen & sorgen für das langanhaltende Gefühl angenehmer Atemfrische
 - ATEMFRISCHE FÜR DIE HOSENTASCHE: Die einzelnen Beutel passen in jede Hand- oder Hosentasche und sind nach dem Essen, für zwischendurch oder unterwegs sehr praktisch, Wir sind immer an deiner Seite!
+- STARKER GESCHMACK: Saftige Himbeeren & intensives Menthol sorgen für das unverwechselbare Aroma der Pastillen, Dank starkem Aroma erfrischen die Pastillen & sorgen für das langanhaltende Gefühl angenehmer Atemfrische
+- OHNE ZUCKER UND VEGAN: Fishermans Friend gibt es in verschiedenen Sorten, Die Bonbons sind zuckerfrei, vegan, glutenfrei und enthalten keine künstlichen Farb- oder Konservierungsstoffe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01E1QSPS2{{</world>}}

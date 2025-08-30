@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leder: Lackleder
 - AtmungsaktivAtmungsaktiv
 - 13.7795 inches
 - Verschluss: Gummi
+- Leder: Lackleder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BN6QBZMK{{</world>}}

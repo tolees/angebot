@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke Armani
 - Marke Beauty-Produkte
+- Marke Armani
 - Deodorant
 
 [🛒 Hier!!]({{< param buyurl >}})

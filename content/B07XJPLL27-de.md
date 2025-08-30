@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gepolsterte, verstellbare Schultergurte
 - Zwei-Wege-Reißverschluss zum großen Hauptfach
 - Mesh-Tasche für Trinkflaschen auf der rechten Seite
+- Gepolsterte, verstellbare Schultergurte
 - Gewebter Tragegriff oben
 - Zusätzliches, großes Reißverschlussfach vorne
 

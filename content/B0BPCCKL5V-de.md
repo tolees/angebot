@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideale Unterstützung für Spiel und Phantasie
 - Ideal als Geschenk
+- Ideale Unterstützung für Spiel und Phantasie
 - Ideale Produkte
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Schwarz
 - Aureday Kamera Stativ, 162cm Handy Stativ mit Reisetasche Stativ Smartphone mit Drahtloser Fernbedienung und Handyhalterung für DSLR-Kameras, Handys, Projektoren, Spektiv-Fernglas (Schwarz)
+- Farbe: Schwarz
 - Marke: Aureday
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Haben Sie keine Sorge mehr, eine wichtige Steckdose für Ihre Geräte zu verlieren. Dank der integrierten Steckdose des TL-WA860RE ist die Stromversorgung zu Ihrem Computer, Lampe oder Geräten gewährleistet.
-- Über den LAN-Port des TL-WA860RE können kabelgebundene Netzwerkgeräte ohne eigene WLAN-Funktion wie Blue-ray Player, Spielekonsolen und Smart TVs in das vorhandene WLAN eingebunden werden.
-- Mit zwei externen Antennen verlängert TL-WA860RE das WLAN-Signal einwandfrei in bisher unerreichte oder schwer zu verkabelnde Bereiche und sorgt für einen stabilen Empfang für Computer, Laptops, Smartphones und Mediaplayer.
-- Die neue Tether-App: Downloaden Sie die neue Tether-App mit Ihrem Smartphone oder Tablet (unter Android und iOS). Steuern Sie somit die Einstellung.
 - Die intelligenten Signalleuchten zeigen die aktuell durch den TL-WA860RE empfangene Signalstärke. So können Sie ganz einfach den besten Betriebsort finden.
+- Mit zwei externen Antennen verlängert TL-WA860RE das WLAN-Signal einwandfrei in bisher unerreichte oder schwer zu verkabelnde Bereiche und sorgt für einen stabilen Empfang für Computer, Laptops, Smartphones und Mediaplayer.
+- Über den LAN-Port des TL-WA860RE können kabelgebundene Netzwerkgeräte ohne eigene WLAN-Funktion wie Blue-ray Player, Spielekonsolen und Smart TVs in das vorhandene WLAN eingebunden werden.
+- Die neue Tether-App: Downloaden Sie die neue Tether-App mit Ihrem Smartphone oder Tablet (unter Android und iOS). Steuern Sie somit die Einstellung.
 - Die Inbetriebnahme das TL-WA860RE ist kinderleicht und erfordert keinerlei Konfiguration. Um den Repeater mit dem Router zu verbinden, drücken Sie zunächst die WPS-Taste am Router gefolgt von der WPS-Taste am Repeater. Das wars! (kann auch über WEB konfiguriert werden)
 
 [🛒 Hier!!]({{< param buyurl >}})

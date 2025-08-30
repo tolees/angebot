@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sonnensensor zur helligkeitsabhängigen Steuerung von Markisen, Rollläden, Jalousien, Screens & Raffstores
-- Lieferumfang: 1x Somfy Funk-Helligkeitssensor Sunis WireFree II io inkl Wandhalterung und 2x LR6-Batterien
-- Einfach und schnelle Integration in Ihr Somfy Smart Home - System (z.B. TaHoma Switch)
-- Aktiviert das Herunter- und Hochfahren von Rollläden und Jalousien in Abhängigkeit von der Sonneneinstrahlung, entsprechend dem festgelegten Schwellenwert
-- Messbereich der Sonneneinstrahlungen: 50 - 100.000 Lux
-- Einfache Installation ohne Verkabelung dank Batteriebetrieb und intelligenter Funktechnologie von Somfy
-- Laufende Messung der aktuellen Sonneneinstrahlung
 - Anwendungsbereich: Innen- oder Außenbereich
+- Aktiviert das Herunter- und Hochfahren von Rollläden und Jalousien in Abhängigkeit von der Sonneneinstrahlung, entsprechend dem festgelegten Schwellenwert
+- Einfach und schnelle Integration in Ihr Somfy Smart Home - System (z.B. TaHoma Switch)
+- Sonnensensor zur helligkeitsabhängigen Steuerung von Markisen, Rollläden, Jalousien, Screens & Raffstores
+- Messbereich der Sonneneinstrahlungen: 50 - 100.000 Lux
+- Laufende Messung der aktuellen Sonneneinstrahlung
+- Einfache Installation ohne Verkabelung dank Batteriebetrieb und intelligenter Funktechnologie von Somfy
+- Lieferumfang: 1x Somfy Funk-Helligkeitssensor Sunis WireFree II io inkl Wandhalterung und 2x LR6-Batterien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00O8TYHKS{{</world>}}

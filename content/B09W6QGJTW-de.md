@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Brettspiel für 1-4 Personen ab 10 Jahren
 - Das ideale Geschenk für die ganze Familie
 - Basierend auf den Geschichten von J.R.R. Tolkien
 - Eine kooperative Abenteuerreise durch Mittelerde
-- Brettspiel für 1-4 Personen ab 10 Jahren
 - Einfach Losspielen mit der kostenlosen Erklär-App
 - Leicht zugängliches Familienspiel im Der Herr der Ringe Universum
 
