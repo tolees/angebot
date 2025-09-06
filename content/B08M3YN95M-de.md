@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - FLOWSTATE STABILISIERUNG: Die bestmögliche Stabilisierung. Die FlowState Stabilisierung ist zurück - und das mit einem besseren Algorithmus als je zuvor. Vergesse sperrige oder fragile Gimbals und schnapp dir die kleine Steady-Cam für deine Hosentasche.
-- Eine Kameracrew in deiner Tasche: Mit nur einem Gerät beides erreichen, beide Linsen verwenden und 360° Videos mit Super 5,7K mit H.265 und 100 MBit/s aufnehmen oder die komplette Leistung der Kamera auf ein Objektiv konzentrieren - mit dem Steady-Cam Modus. Für ultra-stabile Weitwinkelaufnahmen, die sich im Handumdrehen teilen lassen.
 - Lieferumfang: 1x Insta360 ONE X2, 1x Ladekabel, 1x Akku, 1x Schutztasche, 1x Objektiv-Reinigungstuch, 1x Benutzerhandbuch.
+- Eine Kameracrew in deiner Tasche: Mit nur einem Gerät beides erreichen, beide Linsen verwenden und 360° Videos mit Super 5,7K mit H.265 und 100 MBit/s aufnehmen oder die komplette Leistung der Kamera auf ein Objektiv konzentrieren - mit dem Steady-Cam Modus. Für ultra-stabile Weitwinkelaufnahmen, die sich im Handumdrehen teilen lassen.
 - UNSICHTBARER SELFIE-STICK: Nimm mit dem unsichtbaren Selfie-Stick auf und schau dir an, wie er beim Editing verschwindet. Nimm mühelos Videos aus der Vogelperspektive auf - ohne das du dafür eine Drohne brauchst.
 - IPX8 WASSERGESCHÜTZT: Eine wasserdichte 360° Kamera im Taschenformat. Die Insta360 ONE X2 ist bis 10 Meter IPX8 wasserdicht. Nimm sie bedenkenlos mit raus in einen Regenschauer oder an den Pool - oder schnapp dir das Dive Case für nahtloses Unterwasser-Stitching in Tiefen von bis zu 45 Metern.
 

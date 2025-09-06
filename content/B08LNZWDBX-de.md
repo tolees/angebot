@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LidLock Fahrradhelmbefestigung
-- Innenfach aus Mesh
-- Vorderes Organisationsfach
 - Tragegriff oben
+- Vorderes Organisationsfach
+- Innenfach aus Mesh
 - Belüftete AirScape Rückenplatte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

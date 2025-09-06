@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ausschnitt mit Rollsaum
-- Labelaufnäher
 - Ziernähte
+- Labelaufnäher
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CCJKP4W8{{</world>}}

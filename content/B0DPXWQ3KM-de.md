@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- PRODUKTDUFT: Conditioner für trockene Haare mit Noten von Jasmin, Vanille, Bergamotte, Pfirsich und Sandelholz - genießen Sie bei jeder Anwendung neben der Geschmeidigkeit den Duft eines Blumenbouquets
 - ANWENDUNG: Conditioner für trockenes, krauses Haar auf die sauberen, feuchten Haarpartien auftragen und 30 Sek. bis 3 Minuten einwirken lassen - mit einer cremigen, zarten Textur für den täglichen Gebrauch
 - CONDITIONER: Pflegespülung für glatte und glänzende Haare - in Verbindung mit dem Miracle Oil Serum, pflegt es in 30 Sekunden, die Geschmeidigkeit hält bis zu 3 Tage an*
-- PRODUKTDUFT: Conditioner für trockene Haare mit Noten von Jasmin, Vanille, Bergamotte, Pfirsich und Sandelholz - genießen Sie bei jeder Anwendung neben der Geschmeidigkeit den Duft eines Blumenbouquets
-- ANTI-FRIZZ-PRODUKTE: Mit Squalan & Omega 9, um das Haar von innen zu nähren und von außen aufzufüllen für glatte, glänzende Haare - dermatologisch getestet & für coloriertes Haar geeignet
 - HAARPFLEGEROUTINE: Für beste Ergebnisse mit ULTIMATE SMOOTH Shampoo, Haarmaske (wöchentlich) oder Miracle Haaröl verwenden - ideal zur Selbstpflege oder als Schönheitsgeschenk
+- ANTI-FRIZZ-PRODUKTE: Mit Squalan & Omega 9, um das Haar von innen zu nähren und von außen aufzufüllen für glatte, glänzende Haare - dermatologisch getestet & für coloriertes Haar geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DPXWQ3KM{{</world>}}

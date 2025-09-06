@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Technische Armaturen in Markenqualität: Messinglegierungen verbinden Korrosionsbeständigkeit mit hoher Festigkeit
 - Wasserstrahl abstellbar und stufenlos regulierbar.
-- Lieferumfang beinhaltet: 1x Gardena Standard Messing-Spritze
 - Komfortabel: Die Spritze lässt sich problemlos an 13 mm (1/2 Zoll)-Schläuchen einsetzen
+- Lieferumfang beinhaltet: 1x Gardena Standard Messing-Spritze
 - Flexibel: Der Wasserstrahl ist abstellbar und stufenlos regulierbar
 
 [🛒 Hier!!]({{< param buyurl >}})

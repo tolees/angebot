@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- circa" 75 x 50 mm
-- Für werkzeuglose Montage am Lenkerende oder Lenkerzusatzgriff
 - 3-dimensional verstellbar
+- Für werkzeuglose Montage am Lenkerende oder Lenkerzusatzgriff
+- circa" 75 x 50 mm
 - Mit 2 Haltern für unterschiedliche Lenkerdurchmesser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

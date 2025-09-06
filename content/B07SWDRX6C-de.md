@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 440 Watt maximale Gesamtausgangsleistung
-- 3.1 Home Theatre System mit Dolby Atmos Technologie und 4K-Durchschleifen, Außenmaße Soundbar: 95 x 11 x 7 cm, Außenmaße Subwoofer: 24 x 24 x 41.5 cm
 - Lieferumfang: HT-SBW460 Soundbar, Subwoofer, Soundbar-Fernbedienung (inklusive Batterien), 2 x AC-Netzkabel, 3.5 mm zu 3.5 mm Audiokabel, HDMI-Kabel, 2x Wandhalterung, Bedienungsanleitung, Quick Start Guide, Garantieheft
+- 3.1 Home Theatre System mit Dolby Atmos Technologie und 4K-Durchschleifen, Außenmaße Soundbar: 95 x 11 x 7 cm, Außenmaße Subwoofer: 24 x 24 x 41.5 cm
 - Anschlüsse: 2 x HDMI-Eingänge, 1 x HDMI-Ein- und Ausgang mit ARC und CEC, 1 x Digital Optical Input, 1 x Koaxial, 1 x Aux-In 3.5 mm, 1 x USB, 1 x Bluetooth
 - LED-Display, Metall-Frontgitter mit mattschwarzer Oberfläche, Wandmontage oder Tischaufstellung möglich
 

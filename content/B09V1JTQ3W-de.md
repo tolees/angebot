@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMPAKTE MAßE: Mit einer Länge von nur 15cm passt die Lampe in jede Tasche und in jeden Rucksack
-- LEISTUNGSSTARKE LAMPE: Eine hohe Leuchtkraft von 325 Lumen lässt die Nacht zum Tag werden, Strahlweite bis zu 250 Meter
 - VIELSEITIG EINSETZBAR: Ideal geeignet für nächtliche Wandertouren, für Campingtrips oder Festivals; direkt einsetzbar, da Batterien bereits im Lieferumfang enthalten sind
-- Details: 325 Lumen; Strahlweite: 250 Meter; Laufzeit: bis zu 200 Stunden; Batterien: 3 x AAA-Batterien (enthalten); Merkmale: BatteryGuard Technologie; IPX-Stufe: IPX 4; Größe: 5 x 15 cm; Gewicht: 98,5 g
+- KOMPAKTE MAßE: Mit einer Länge von nur 15cm passt die Lampe in jede Tasche und in jeden Rucksack
 - EFFIZIENTE BATTERIENUTZUNG: Der Coleman BatteryGuard sorgt dafür, dass die Lampe beim Ausschalten vom Kontakt getrennt wird und verhindert so das stetige Entladen der Batterie
+- LEISTUNGSSTARKE LAMPE: Eine hohe Leuchtkraft von 325 Lumen lässt die Nacht zum Tag werden, Strahlweite bis zu 250 Meter
+- Details: 325 Lumen; Strahlweite: 250 Meter; Laufzeit: bis zu 200 Stunden; Batterien: 3 x AAA-Batterien (enthalten); Merkmale: BatteryGuard Technologie; IPX-Stufe: IPX 4; Größe: 5 x 15 cm; Gewicht: 98,5 g
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09V1JTQ3W{{</world>}}

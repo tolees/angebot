@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inkl. Bedienungsanleitung, Fernbedienung, Batterien (2x AA), HDMI-Kabel, optischem Kabel, Wandhalterung; Maße Soundbar: 89,0 x 6,5 x 11,9 cm, Maße Subwoofer: 18,0 x 39,4 x 29,0 cm
-- Leistung: 380 Watt (2x 30 Watt Front, 30 Watt Center, 2x 35 Watt Top, 220 Watt Subwoofer)
+- Unterstützte Audio-Formate: LPCM, Dolby Atmos, Dolby TrueHD, Dolby Digital Plus, Dolby Digital, DTS- HD Master Audio, DTS-HD High Resolution, DTS Digital Surround , AAC / AAC+; MERIDIAN-Klangtechnologie; inkl. TV Sound Mode Share & Soundbar Mode Control, High Resolution Audio, DTS:X, AI Sound Pro und 4K-Pass-Through mit HDR
 - Konnektivität: LG Sound Sync via optischem Kabel, ARC / eARC, 2x HDMI (In & Out, LG SIMPLINK), USB- und optischer Anschluss, Wi-Fi, Bluetooth (v4.2); kompatibel zu Amazon Alexa, Google Assistant, Apple AirPlay 2 & Spotify Connect
 - 3.1.2-Kanal-Soundbar mit kabellosem Subwoofer, Dolby Atmos und High-Res-Audio-Unterstützung
-- Unterstützte Audio-Formate: LPCM, Dolby Atmos, Dolby TrueHD, Dolby Digital Plus, Dolby Digital, DTS- HD Master Audio, DTS-HD High Resolution, DTS Digital Surround , AAC / AAC+; MERIDIAN-Klangtechnologie; inkl. TV Sound Mode Share & Soundbar Mode Control, High Resolution Audio, DTS:X, AI Sound Pro und 4K-Pass-Through mit HDR
+- Leistung: 380 Watt (2x 30 Watt Front, 30 Watt Center, 2x 35 Watt Top, 220 Watt Subwoofer)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TVBV6ZL{{</world>}}

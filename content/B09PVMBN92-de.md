@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hals : Rundhals
 - Ärmel : Tief angesetzte Schulter
 - Passform : Locker geschnitten
+- Hals : Rundhals
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09PVMBN92{{</world>}}

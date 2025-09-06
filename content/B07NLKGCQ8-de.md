@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - EASY FIT
 - GOOD GRIP
-- RECYCLED
 - CUSHIONING
+- RECYCLED
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07NLKGCQ8{{</world>}}

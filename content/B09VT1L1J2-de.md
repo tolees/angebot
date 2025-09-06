@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
 - Obermaterial aus Synthetikleder
-- Schnürsenkel
-- Gummiaußensohle
+- Reguläre Passform
 - Synthetikfutter
+- Gummiaußensohle
+- Schnürsenkel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09VT1L1J2{{</world>}}

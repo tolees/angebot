@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Regular
 - Standard Passform für ein entspanntes, leichtes Gefühl
 - Standardpassform für ein relaxtes, unkompliziertes Tragegefühl
-- Regular
 - Klassisches, aufgesticktes Logo auf der linken Brust
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

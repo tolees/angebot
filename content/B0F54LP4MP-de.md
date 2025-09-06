@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gesticktes ellesse-Logo auf der Brust.
 - Aus unserer Hauptkollektion, die den ganzen Tag über Komfort garantiert.
 - Gewebtes Etikette am Ärmel.
+- Gesticktes ellesse-Logo auf der Brust.
 - Klassische Passform mit hochgeschlossenem, geripptem Kragen
 - Gewebe: 100 % Baumwolle.
 

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Geeignet für 4K-/UHD- und Serienaufnahmen² dank hohen Übertragungsgeschwindigkeiten von bis zu 200 MB/s beim Lesen und 130 MB/s beim Schreiben³ (UHS-I U3)¹ ¹⁹
 - Lieferumfang: 1 x Samsung PRO Plus SD-Speicherkarte (MB-SY256S/WW), 256 GB, Maße (L x B x T): 15 x 11 x 1 mm, Gewicht: 0,26 g
+- SD-Karte mit bis zu 256 GB⁴ Speicherkapazität für bis zu 8,5 Stunden Aufnahmezeit von 4K-/UHD-Videos⁶ oder 56.841 FHD-Fotos⁹, Fotografie- und Kamera-Zubehör für Kreative, Foto- und Medienprofis⁵
 - Robust dank 7-fach Schutz¹⁰ ¹¹: wasserfest¹², temperaturbeständig¹³, röntgensicher¹⁴, magnetresistent¹⁵, stoßfest¹⁶, sturzsicher¹⁷ und verschleißfrei¹⁸
 - Leistungsstarke, robuste SD-Speicherkarte für den Einsatz in DSLR-, spiegellosen oder Digitalkameras sowie für PCs und Laptops
-- SD-Karte mit bis zu 256 GB⁴ Speicherkapazität für bis zu 8,5 Stunden Aufnahmezeit von 4K-/UHD-Videos⁶ oder 56.841 FHD-Fotos⁹, Fotografie- und Kamera-Zubehör für Kreative, Foto- und Medienprofis⁵
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CHMQ18PN{{</world>}}

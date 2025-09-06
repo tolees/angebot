@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Flexible Gestaltung
 - Hochwertige Abmessungen
-- connector_type; usb amicro-usb b
 - Hochwertige Material
 - Langlebig
+- connector_type; usb amicro-usb b
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08M787DSV{{</world>}}

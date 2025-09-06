@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material: Stahl
 - Herkunftsland:- Italien
+- Material: Stahl
 - Verpackungsgewicht: 11.0 Kg
 - Verpackungsabmessungen (L x B x H): 25.0 x 41.0 x 47.0 Zm
 

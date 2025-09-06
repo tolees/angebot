@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Instinktiv geführte, spektakuläre und unerbittlich harte Kämpfe
 - Zerstöre gigantische Maschinen und vernichte Mutanten mit deinen Fähigkeiten und fortschrittlichen Waffen
-- Eine gleichermaßen irrsinnige und grandiose utopische Welt
 - Zusätzlich zum Spiel sind zwei Waffen-SKIN DLCs "Swede" + "Electro" enthalten
+- Instinktiv geführte, spektakuläre und unerbittlich harte Kämpfe
+- Eine gleichermaßen irrsinnige und grandiose utopische Welt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLBDZ66J{{</world>}}

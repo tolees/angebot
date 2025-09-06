@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Ethylen-Vinylacetat
 - 12.992125971 inches
+- Verschluss: Ethylen-Vinylacetat
 - Leder: Textile
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

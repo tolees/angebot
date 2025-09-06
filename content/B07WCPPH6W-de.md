@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tasse mit Inhalt von 320 ml
 - für Mikrowelle und Geschirrspüler geeignet
 - 100% offiziell
+- Tasse mit Inhalt von 320 ml
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07WCPPH6W{{</world>}}

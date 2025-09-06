@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die Gesichtsmaske sorgt für ein klares und strahlendes Hautbild
 - Die Glow Gesichtsmaske von Tonerde Absolue mit 100% reiner Tonerde reinigt die Haut intensiv
-- Die gelbe Maske mit Yuzu Lemon klärt die Haut und glättet den Hautton
 - Unreinheiten werden absorbiert und die Poren wirken verfeinert
+- Die gelbe Maske mit Yuzu Lemon klärt die Haut und glättet den Hautton
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07CPKRL8Z{{</world>}}

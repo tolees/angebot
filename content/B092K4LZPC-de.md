@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Liefere dir online im Mehrspieler einen Wettstreit: Soziale Rennen und Ranglistenrennen, s Schnellbeitritts-Format, Ligen, anpassbare Autolackierungen und wöchentliche Events.
-- Dem offiziellen Videospiel zur 2021 FIA FORMULA ONE WORLD CHAMPIONSHIP
-- Mosies „My Team“ - kreiere einen Fahrer, wähle einen Sponsoren, wähle einen Motorenhersteller, stelle ein Teammitglied ein und seid als 11. Team im Rennen am Start.
+- Rennmodi: Zeitrennen, Optionen für kürzere Saisonlänge, „Grand Prix”-Mosies und erlebe stolze Momente noch mal mit speicherbaren automatisierten Highlights und (nur PC) kompletten Replays.
 - „Braking Point“ – das spannende Story-Erlebnis
 - Spielmodi: Zwei-Spieler-Karriere und „Realer Saisonstart“.
-- Rennmodi: Zeitrennen, Optionen für kürzere Saisonlänge, „Grand Prix”-Mosies und erlebe stolze Momente noch mal mit speicherbaren automatisierten Highlights und (nur PC) kompletten Replays.
+- Mosies „My Team“ - kreiere einen Fahrer, wähle einen Sponsoren, wähle einen Motorenhersteller, stelle ein Teammitglied ein und seid als 11. Team im Rennen am Start.
+- Dem offiziellen Videospiel zur 2021 FIA FORMULA ONE WORLD CHAMPIONSHIP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B092K4LZPC{{</world>}}

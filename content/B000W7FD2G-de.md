@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Höhe: 3,6 mm
 - Farbcode: Gelb
-- Durchmesser: 5,8 mm
 - Kennziffer: 10
+- Höhe: 3,6 mm
+- Durchmesser: 5,8 mm
 - Sparpack mit 10 Päckchen Hörgerätebatterien
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

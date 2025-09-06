@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Benötigt einen multiAnker Sauger!
 - multiAnker Sauger nicht im Lieferumfang enthalten
+- Benötigt einen multiAnker Sauger!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07D4GWBC4{{</world>}}

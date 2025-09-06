@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lange Schneiden für dickere Kabel
 - Mit Schneiden für weichen und harten Draht
-- Schneiden zusätzlich induktiv gehärtet, Schneidenhärte ca. 60 HRC
 - Mit Greifzonen für Flach- und Rundmaterial für vielseitigen Einsatz
+- Schneiden zusätzlich induktiv gehärtet, Schneidenhärte ca. 60 HRC
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002UTXS6M{{</world>}}

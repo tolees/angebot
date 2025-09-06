@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIGHTWEIGHT
-- RECYCLED
 - ETRA DURABLE INGREDIENTS
+- RECYCLED
+- LIGHTWEIGHT
 - CUSHIONING
 - SOFT FEELING
 

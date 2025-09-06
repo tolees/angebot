@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Rundhalsausschnitt
 - Sportbekleidung aus hochwertigen Materialien für jede sportliche Aktivität
 - 70 prozent recycelter Polyester / 30 prozent Baumwolle (Single Jersey)
-- Rundhalsausschnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BP7LHN6X{{</world>}}

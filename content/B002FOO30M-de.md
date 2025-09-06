@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Farbe: weiß
-- Fackelmann
 - Produktabmessungen: 8 cm x 4,2 cm ⌀
 - aus Glas
+- Fackelmann
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002FOO30M{{</world>}}

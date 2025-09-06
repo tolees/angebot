@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5 Years warranty
+- File resucue software download
 - V90 compatible for 8K video recording
 - Compatible with major SD UHS2 compatible camera
 - Max write speed 299MB/s Max read speed300MB/s
-- File resucue software download
+- 5 Years warranty
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BY42TYHG{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Gummi
 - Absatzform: Flach
+- Verschluss: Gummi
 - Innenmaterial: Synthetik
 - Obermaterial: Leder
 

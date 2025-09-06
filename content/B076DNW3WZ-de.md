@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weichen Griff
-- DIN/Orion
-- Magazinanzeige
 - Luftdruck: 4-7 bar
+- DIN/Orion
+- Weichen Griff
 - Sicherheitsschalter
+- Magazinanzeige
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B076DNW3WZ{{</world>}}

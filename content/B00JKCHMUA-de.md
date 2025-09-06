@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Installationswerkzeuge inklusive
 - Bis zu 570 MB/s Lesen; 460 MB/s Schreiben
-- Kostenloser Download der JetDrive Toolbox Software
+- Installationswerkzeuge inklusive
 - Kompatibel mit MacBook Pro Retina 13” (Ende 2012 - Anfang 2013)
 - SATA III 6Gb/s Schnittstelle
+- Kostenloser Download der JetDrive Toolbox Software
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JKCHMUA{{</world>}}

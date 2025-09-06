@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
-- Gewicht: federleichte 6 g; Abmessungen: 65 x 19 x 9 mm
 - Hochwertiger USB-Speicherstick im transparent-grünen Design-Gehäuse
-- Lieferumfang: Intenso Rainbow Line USB-Stick grün
 - Material: Kunststoff
+- Gewicht: federleichte 6 g; Abmessungen: 65 x 19 x 9 mm
+- Lieferumfang: Intenso Rainbow Line USB-Stick grün
+- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0011UD7BW{{</world>}}

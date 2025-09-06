@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Löse uralte Mysterien: Finde Schätze der antiken Welt, indem du Puzzle löst und finde Mysterien, die der Zeit zum Opfer fielen.
-- Spiele die drei originalen Abenteuer von Tomb Raider: Spiele mit dieser maßgeblichen Kollektion zum ersten Mal das volle Erlebnis mit allen Erweiterungen und Geheimleveln auf modernen Plattformen.
-- Beinhaltete Spiel-Titel: Tomb Raider I + The Unfinished Business Expansion, Tomb Raider II + The Gold Mask Expansion, Tomb Raider III + The Lost Artifact Expansion
-- Globetrotter-Abenteuer: Folge Lara Croft um die Welt und stelle dich tödlichen Feinden und gefährlichen Mythen.
 - Entdecke Lara Crofts Original-Abenteuer, originalgetreu wiederaufgearbeitet!
+- Globetrotter-Abenteuer: Folge Lara Croft um die Welt und stelle dich tödlichen Feinden und gefährlichen Mythen.
+- Beinhaltete Spiel-Titel: Tomb Raider I + The Unfinished Business Expansion, Tomb Raider II + The Gold Mask Expansion, Tomb Raider III + The Lost Artifact Expansion
+- Spiele die drei originalen Abenteuer von Tomb Raider: Spiele mit dieser maßgeblichen Kollektion zum ersten Mal das volle Erlebnis mit allen Erweiterungen und Geheimleveln auf modernen Plattformen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D4QQTP9X{{</world>}}

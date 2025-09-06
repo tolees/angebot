@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das kompetitive Familienspiel 5211: Azul Special Edition ist ein eigenständiges Spiel der Azul-Reihe. Es eignet sich für schnelle Runden im Familien- und Freundeskreis
+- Eine Partie besteht aus mehreren Durchgängen. In jedem Durchgang werden 4 Handkarten pro Person ausgespielt und dann gewertet. Je nach ausgespielten Karten wertest du nach Hahn-Karten oder Farben
+- In dem schnellen Kartenspiel 5211: Azul Special Edition wird Taktik mit Bluffen und einer Portion Glück kombiniert. Schätze deine Mitspieler gut ein und gestalte die wertvollsten Wände
 - 2-5 Spieler | Ab 8+ Jahren | 20 Minuten Spielzeit je Partie | Autor: Tsuyoshi Hashigucki | Spiel in Deutsch
 - Karte um Karte fügen sich die Fliesen des Königs aneinander. Fliese die meisten Azulejos und erhalte den Dank des Königs. Aber häufig gespielte Farben werden vom König abgelehnt
-- In dem schnellen Kartenspiel 5211: Azul Special Edition wird Taktik mit Bluffen und einer Portion Glück kombiniert. Schätze deine Mitspieler gut ein und gestalte die wertvollsten Wände
-- Eine Partie besteht aus mehreren Durchgängen. In jedem Durchgang werden 4 Handkarten pro Person ausgespielt und dann gewertet. Je nach ausgespielten Karten wertest du nach Hahn-Karten oder Farben
+- Das kompetitive Familienspiel 5211: Azul Special Edition ist ein eigenständiges Spiel der Azul-Reihe. Es eignet sich für schnelle Runden im Familien- und Freundeskreis
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NNTPP42{{</world>}}

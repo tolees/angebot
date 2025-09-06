@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AI Sound Pro für automatische Klanganpassung
-- TV Sound Mode Share
 - High Resolution Audio
+- TV Sound Mode Share
+- AI Sound Pro für automatische Klanganpassung
 - Bluetooth (v4.2)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

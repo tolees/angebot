@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DAS ULTIMATIVE GAMING ERLEBNIS - MSI Gaming Intelligence bietet mit Smart Crosshair, Optix Scope Wettbewerbsvorteil und unterstützt KI-Software (Smart Brightness, Sound Tune). Dank KVM 3.0 Technologie lassen sich 2 Systeme gleichzeitig an den Monitor anschliessen
 - SMARTES DESIGN & AUSSTATTUNG - Der Monitor verfügt über einen schmalen Rahmen, Mystic Light RGB-Beleuchtung, integrierten Kabelbinder, 3-fach verstellbaren Standfuß, True Colour Sync und Gaming Intelligence für Multi-Display/-Controller-Funktionalität
-- 32 Zoll 4K UHD, 144HZ IPS - Das ultrahochauflösende 3840x2160 IPS-Panel (16:9) bietet hohe 144Hz Bildwiederholfrequenz (G-SYNC-kompatibel) für reibungslose Ziel-/ Bewegungsverfolgung. Niedrige 1ms Reaktionszeit verhindert Bildschirmrisse und abgehackte Bilder
 - HOCHMODERNE KONNEKTIVITÄT - Videoschnittstellenoptionen: DisplayPort 1.4a, USB Typ-C (4K/144Hz) sowie HDMI 2.1-Anschlüsse (4K/144Hz) mit CEC-Funktionalität. Weitere Anschlüsse sind USB 2.0 Typ-A & -B, Audio-Kombibuchse, 5-Wege-Joystick-Navigator
+- 32 Zoll 4K UHD, 144HZ IPS - Das ultrahochauflösende 3840x2160 IPS-Panel (16:9) bietet hohe 144Hz Bildwiederholfrequenz (G-SYNC-kompatibel) für reibungslose Ziel-/ Bewegungsverfolgung. Niedrige 1ms Reaktionszeit verhindert Bildschirmrisse und abgehackte Bilder
+- DAS ULTIMATIVE GAMING ERLEBNIS - MSI Gaming Intelligence bietet mit Smart Crosshair, Optix Scope Wettbewerbsvorteil und unterstützt KI-Software (Smart Brightness, Sound Tune). Dank KVM 3.0 Technologie lassen sich 2 Systeme gleichzeitig an den Monitor anschliessen
 - QUANTUM DOT FARBINTENSITÄT - Der Optix MPG321URDE-QD unterstützt ultrarealistische Spieleinstellungen mit 10-Bit-Farbtiefe von 1,07 Milliarden Farben (143% sRGB, 97% DCI-P3), VESA DISPLAYHDR 600 Helligkeit (400 cd/m², max. 600 cd/m²) und dynamischem Kontrast
 
 [🛒 Hier!!]({{< param buyurl >}})

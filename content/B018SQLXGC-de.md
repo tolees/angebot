@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Knabberstückchen des Trockenfutters für erwachsene Katzen reinigen die Zähne durch sanfte abrasive Wirkung
-- Lieferumfang: WHISKAS Trockenfutter 7 kg Adult 1+, Trockenfutter Katze, mit Huhn, 1 x 7kg
 - 100% vollwertiges und ausgewogenes Katzentrockenfutter, das u.a. die Harnwegsgesundheit unterstützt
+- Lieferumfang: WHISKAS Trockenfutter 7 kg Adult 1+, Trockenfutter Katze, mit Huhn, 1 x 7kg
 - WHISKAS Katzenfutter 1+ mit Omega-6-Fettsäuren und Zink zur Unterstützung von gesunder Haut und Fell. Das Katzentrockenfutter ist mit Vitamin A angereichert für eine gute Sehkraft.
+- Die Knabberstückchen des Trockenfutters für erwachsene Katzen reinigen die Zähne durch sanfte abrasive Wirkung
 - Enthält lecker gefüllte Knackits - außen knusprig, innen mit weichem Kern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

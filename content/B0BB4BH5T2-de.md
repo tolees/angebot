@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Set enthält zudem 4 beliebte Freundefiguren: Madame Pottine, die Tasse Chip, Lumière und den Kleiderschrank mit sich öffnenden Türen.
-- Das Spielset lässt sich öffnen und enthält im Inneren ein Puppenhaus mit mehreren Spielbereichen, die Kinder aus dem Film wiedererkennen werden.
-- Die kleine Belle-Puppe trägt ihr klassisches gelbes Kleid mit einem abnehmbaren weichen Rock; Arme, Beine und der Kopf sind beweglich.
 - Das durch den animierten Disney-Klassiker Die Schöne und das Biest“ inspirierte Schloss-Spielset ermöglicht es Kindern, ihre Lieblingsszenen an diesem denkwürdigen Ort nachzuspielen.
+- Die kleine Belle-Puppe trägt ihr klassisches gelbes Kleid mit einem abnehmbaren weichen Rock; Arme, Beine und der Kopf sind beweglich.
+- Das Spielset lässt sich öffnen und enthält im Inneren ein Puppenhaus mit mehreren Spielbereichen, die Kinder aus dem Film wiedererkennen werden.
 - Die Zimmer umfassen Belles Schlafzimmer mit einem ausklappbaren Bett, den Speisesaal mit drehbarem Tisch und ein verstecktes Badezimmer mit Schaumbad.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

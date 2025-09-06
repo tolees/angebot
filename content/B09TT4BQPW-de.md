@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Voll mit nützlichen Funktionen
-- Ihr Sound, nach Ihrem Geschmack
 - Lange Akkulaufzeit von bis zu 25 Stunden
+- Ihr Sound, nach Ihrem Geschmack
 - Ganz natürlich klingende Musik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

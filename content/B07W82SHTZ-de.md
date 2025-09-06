@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt
-- Standard Passform
-- Mesh-einsätze am Rücken
 - Pflegehinweise: Maschinenwäsche
+- Standard Passform
+- Rundhalsausschnitt
+- Mesh-einsätze am Rücken
 - Perfekte Atmungsaktivität
 - Dri-fit-technologie
 

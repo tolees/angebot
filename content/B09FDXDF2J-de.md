@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die ideale Mischung aus Hautpflege und Make-up: getöntes Serum mit einem Prozent Hyaluronsäure, das wie ein Serum Feuchtigkeit spendet und wie eine Foundation bedeckt
 - Ergebnisse: hellt die Haut auf, glättet sie und spendet Feuchtigkeit, verleiht der Haut ein natürliches, strahlendes Finish, entspricht 99 Prozent des britischen Hauttons* (*Verbrauchertest, 204 Frauen, 2021)
+- Die ideale Mischung aus Hautpflege und Make-up: getöntes Serum mit einem Prozent Hyaluronsäure, das wie ein Serum Feuchtigkeit spendet und wie eine Foundation bedeckt
 - Anwendung: Die Flasche vor Gebrauch gut schütteln, 2-3 Tropfen auf die Handflächen auftragen und leicht mit den Finger verteilen, als ob man ein Tagesserum verwenden würde, indem eine kleine Menge auf die gereinigte Haut geglättet wird
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

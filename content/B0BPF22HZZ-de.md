@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit dem Obermaterial verbundene Zunge
-- Textilfutter
 - Abriebfestes, wasserdichtes Obermaterial aus Mesh; Synthetik-Overlays
+- Textilfutter
 - Reguläre Passform
+- Mit dem Obermaterial verbundene Zunge
 - Schnürsenkel
 - EVA-Zwischensohle
 

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - KREATIVE FREIHEIT - Lasse deiner Kreativität freien Lauf. Mit dem Kreativ-Assistenten der Canon EOS R Kamera kannst du Effekte sowie Licht, Farbe und Hintergrundschärfe für großartige Ergebnisse individuell anpassen
+- EINFACHER EINSTIEG - Die Canon EOS R100 Digitalkamera mit 24,1 MP APS-C Sensor und Dual Pixel CMOS AF bietet einfache Bedienung und gestochen scharfe Bilder. Perfekt für Einsteiger und Fortgeschrittene in der Fotografie
 - LIEFERUMFANG - 1x EOS R100 Kamera, 1x RF-S 18-45mm IS STM Objektiv, 1x Kameratasche, 1x 64GB SD-Speicherkarte,1x Akkuladegerät LC-E17E, 1x Akku, 1x Netzkabel
 - KOMPLETT BUNDLE - Das Canon EOS R100 Set enthält das RF-S 18-45mm F4.5-6.3 IS STM Objektiv, eine Kameratasche und eine 64GB SD-Speicherkarte. Perfekt für sofortige Nutzung und Fotografie-Abenteuer
-- EINFACHER EINSTIEG - Die Canon EOS R100 Digitalkamera mit 24,1 MP APS-C Sensor und Dual Pixel CMOS AF bietet einfache Bedienung und gestochen scharfe Bilder. Perfekt für Einsteiger und Fortgeschrittene in der Fotografie
 - PRÄZISE & PRAKTISCH - Der STM-Motor der Canon Digitalkamera ermöglicht sanfte, geräuschlose Fokussierung. Die 7-Lamellen-Irisblende (F4.5-6.3) sorgt für attraktive Hintergrundunschärfe und Bokeh-Effekte
 
 [🛒 Hier!!]({{< param buyurl >}})

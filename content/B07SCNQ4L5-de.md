@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Aus atmungsaktiver und weicher Baumwolle
-- Langärmlig mit Rundhals-Ausschnitt
-- Passform: Regular Fit, Rückenlänge bei Gr. L ca. 70 cm
 - Basic Pullover in Unifarben mit tonaler Logo-Stickerei auf der Brust, ideal für den Frühling, Herbst & Winter
 - Waschhinweis: schonend reinigen mit Perchlorethylen, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei hoher Temperatur bügeln (200° C), Schonwaschgang bei max. 30°C
+- Passform: Regular Fit, Rückenlänge bei Gr. L ca. 70 cm
+- Langärmlig mit Rundhals-Ausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SCNQ4L5{{</world>}}

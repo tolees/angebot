@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Überhang ca. 25 cm
-- mit Entwässerungslöchern
 - 0,18 mm starkes Vinyl
+- mit Entwässerungslöchern
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B003XNFZPQ{{</world>}}

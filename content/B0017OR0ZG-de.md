@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- befüllt mit einem Radierstück (Z2-1N) und 2 Feinminen, Härtegrad HB
-- 4 mm starre Minenführung
 - individuell einstellbarer Härtegradindikator
+- 4 mm starre Minenführung
+- befüllt mit einem Radierstück (Z2-1N) und 2 Feinminen, Härtegrad HB
 - Metallclip
 - silberfarbenes Kunststoffgehäuse mit fein strukturierter Metallgriffzone
 

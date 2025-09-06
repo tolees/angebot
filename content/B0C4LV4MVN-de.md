@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gepolsterter Komfort
-- Eine neu gestaltete Platte und ein raffiniertes Obermaterial machen den Legend 9 zum leichtesten Tiempo aller Zeiten
-- Das Obermaterial aus Kalbsleder mit weichen Schaumstoffpolstern lässt Sie Ihre Schüsse präzise platzieren
 - Für den Einsatz auf kurzem Rasen oder Kunstrasen
+- Gepolsterter Komfort
+- Das Obermaterial aus Kalbsleder mit weichen Schaumstoffpolstern lässt Sie Ihre Schüsse präzise platzieren
+- Eine neu gestaltete Platte und ein raffiniertes Obermaterial machen den Legend 9 zum leichtesten Tiempo aller Zeiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C4LV4MVN{{</world>}}

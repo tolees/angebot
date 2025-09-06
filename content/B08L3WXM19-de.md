@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Übernimm in ZWEI von Kritikern gefeierten Story-Kampagnen mit verschiedene Zeitlinien die Kontrolle über die Beschützer des Erdenreichs
-- Enthält Mortal Kombat 11, Kombat-Pack 1, Mortal Kombat 11: Aftermath und Kombat-Pack 2, "Time Warriors Skin Pack" DLC
 - Enthält mit 37 Charakteren das komplette Charakteraufgebot, einschließlich den drei Neulingen Rain, Mileena und Rambo
+- Übernimm in ZWEI von Kritikern gefeierten Story-Kampagnen mit verschiedene Zeitlinien die Kontrolle über die Beschützer des Erdenreichs
 - Unterstützt Crossplay: Spieler können in ausgewählten Modi plattformübergreifend auf PS5, PS4, Xbox Series X|S und Xbox One gegeneinander antreten
+- Enthält Mortal Kombat 11, Kombat-Pack 1, Mortal Kombat 11: Aftermath und Kombat-Pack 2, "Time Warriors Skin Pack" DLC
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08L3WXM19{{</world>}}

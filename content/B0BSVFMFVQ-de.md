@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit 1,5 Millionen Zuschauern kehrte das legendäre Detektiv-Trio endlich auf die Kinoleinwand zurück
-- Produziert von Deutschlands Erfolgsschmiede Wiedemann & Berg (WILLKOMMEN BEI DEN HARTMANNS)
 - Bis in die Nebenrollen blendend besetzt u.a. mit Mark Waschke (DARK), Gedeon Burkhard (KOKOWÄÄH 2) und Gudrun Landgrebe (ROSSINI)
+- Produziert von Deutschlands Erfolgsschmiede Wiedemann & Berg (WILLKOMMEN BEI DEN HARTMANNS)
+- Mit 1,5 Millionen Zuschauern kehrte das legendäre Detektiv-Trio endlich auf die Kinoleinwand zurück
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BSVFMFVQ{{</world>}}

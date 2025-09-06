@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEICHTER EINBAU: Der marderabwehr im auto wird mit der 12V-Autobatterie verbunden. Die Installation dauert nur 5 Minuten, und eine detaillierte Anleitung liegt bei. Eine Sicherheitsfunktion ist die automatische Abschaltung während der Fahrt.
-- EINFACH MARDER VERTREIBEN: Der Maderschrecker auto sendet periodisch hohe Töne im Ultraschallbereich die für den Marder sehr unangenehm sind. Die interne Schaltung verhindert ein Gewöhnungseffekt.
+- GEZIELTER EINSATZ: Ist unsere marderschreck auto batteriebetrieben im Motorraum installieren hört man die Geräusche außen kaum. Für zusätzlich Schutz empfehlen wir das zweite Gerät außerhalb zu installieren. Der Wirkungsbereich beträgt etwa 60qm.
 - VERTRÄGLICH FÜR MENSCH und HAUSTIER: Die sehr hohen Töne unserer marderabwehr auto stören den Marder, werden von Mensch und Haustier jedoch nicht wahrgenommen. Kann daher überall als Abwehr gegen Marder verwendet werden.
 - DEUTSCHER ANBIETER: Unser Firmensitz mit Vertrieb und Support sind in Deutschland. Im Garantie- oder Gewährleistungsfall sind sie damit immer auf der sicheren Seite.
-- GEZIELTER EINSATZ: Ist unsere marderschreck auto batteriebetrieben im Motorraum installieren hört man die Geräusche außen kaum. Für zusätzlich Schutz empfehlen wir das zweite Gerät außerhalb zu installieren. Der Wirkungsbereich beträgt etwa 60qm.
+- LEICHTER EINBAU: Der marderabwehr im auto wird mit der 12V-Autobatterie verbunden. Die Installation dauert nur 5 Minuten, und eine detaillierte Anleitung liegt bei. Eine Sicherheitsfunktion ist die automatische Abschaltung während der Fahrt.
+- EINFACH MARDER VERTREIBEN: Der Maderschrecker auto sendet periodisch hohe Töne im Ultraschallbereich die für den Marder sehr unangenehm sind. Die interne Schaltung verhindert ein Gewöhnungseffekt.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08R7K9THX{{</world>}}

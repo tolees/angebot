@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbschutz
 - sulfatfrei
+- Farbschutz
 - antioxidant
 
 [🛒 Hier!!]({{< param buyurl >}})

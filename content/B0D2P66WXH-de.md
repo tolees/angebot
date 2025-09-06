@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Glumanda und Evoli zum Aufbauen
+- Offizielles Lizenzprodukt von The Pokémon Company International
 - Set mit Pokébällen mit 2 aufbaubaren Pokémon und 2 Pokébällen
 - Diese Bauspielzeuge eignen sich perfekt für Kinder ab 7 Jahren, regen die Fantasie an und fördern die Problemlösungskompetenz.
-- Offizielles Lizenzprodukt von The Pokémon Company International
+- Mit Glumanda und Evoli zum Aufbauen
 - Die Teile sind mit allen Pokémon-Bausets von MEGA und anderen Marken kompatibel.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

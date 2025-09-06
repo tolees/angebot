@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfacher und schneller Fräserwechsel durch integrierte Spindelarretierung
 - Lieferumfang: POF 1400 ACE, Absaugadapter, Gabelschlüssel, Kopierhülse, Nutfräser, Parallelanschlag, Zentrierstift, 3x Spannzangen, Koffer (3165140451666)
 - Anschluss zur Staubabsaugung- für staubfreies Arbeiten
+- Einfacher und schneller Fräserwechsel durch integrierte Spindelarretierung
 - Ideal für anspruchsvolle Arbeiten bis auf 1/10 mm genau dank Frästiefeneinstellung
 - Die Oberfräse POF 1400 ACE - Kreatives und komfortables Arbeiten mit Holz
 

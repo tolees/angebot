@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der 6M kann bis zu 5 Minuten am Stück betrieben werden, bevor er sich für 3 Minuten in einen sicheren Abkühlmodus schaltet, um eine Überhitzung zu verhindern.
-- Der 6M Mini-Cut Aktenvernichter bringt höchste Sicherheit direkt in Ihr Zuhause oder Home Office, denn er zerkleinert jedes A4 Blatt in über 1000 winzige Stücke - 4x mehr als ein Standard Crosscut Aktenvernichter.
+- Der 6M wurde für die tägliche Nutzung im Haushalt oder Home Office entwickelt und schneidet bis zu 6 Blatt gleichzeitig in 4 x 12 mm Minipartikel und verarbeitet auch Heft- und Büroklammern sowie Kreditkarten problemlos.
 - Der 13-Liter Papierkorb ist groß genug für regelmäßiges Schreddern und dank der kleineren Mini-Cut Partikel fasst er bis zu 115 Blatt A4 und Sie müssen den Papierkorb seltener leeren.
 - Wenn die patentierte Sicherheitssperre aktiviert ist, lässt sich der Aktenvernichter nicht betreiben - eine extra Sicherheitsfunktion, damit insbesondere Kinder im Home Office geschützt sind.
-- Der 6M wurde für die tägliche Nutzung im Haushalt oder Home Office entwickelt und schneidet bis zu 6 Blatt gleichzeitig in 4 x 12 mm Minipartikel und verarbeitet auch Heft- und Büroklammern sowie Kreditkarten problemlos.
+- Der 6M kann bis zu 5 Minuten am Stück betrieben werden, bevor er sich für 3 Minuten in einen sicheren Abkühlmodus schaltet, um eine Überhitzung zu verhindern.
+- Der 6M Mini-Cut Aktenvernichter bringt höchste Sicherheit direkt in Ihr Zuhause oder Home Office, denn er zerkleinert jedes A4 Blatt in über 1000 winzige Stücke - 4x mehr als ein Standard Crosscut Aktenvernichter.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07Q6GYNY9{{</world>}}

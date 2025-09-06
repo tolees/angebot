@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Erweiterung Hydra Resurrection ergänzt euer Grundspiel Marvel Zombies, um weitere zombifizierte und lebende Helden, die gegen Red Skull und seine Heerscharen untoter Hydra-Soldaten kämpfen
+- Zum Spielen dieser Erweiterung benötigt ihr das Grundspiel Marvel Zombies, um im Zombiemodus zu spielen, und/oder das Grundspiel X-Men Resistance, um im Heldenmodus zu spielen
 - 1-6 Spieler | Ab 14+ Jahren | 60 Minuten Spielzeit je Partie | Autoren: Michael Shinall und Fabia Cury | Spiel in Deutsch
 - Erfüllt Missionsziele, besiegt Gegner und verteidigt oder verschlingt Nebencharaktere, je nachdem welchen Modus ihr gewählt habt. Verstärkt eure Helden und setzt eure Fähigkeiten strategisch ein
-- Zum Spielen dieser Erweiterung benötigt ihr das Grundspiel Marvel Zombies, um im Zombiemodus zu spielen, und/oder das Grundspiel X-Men Resistance, um im Heldenmodus zu spielen
 - Arbeitet zusammen, um eure Missionsziele zu erfüllen und am Leben zu bleiben. Solltet ihr das Missionsziel nicht erreichen oder einer von euch sterben, habt ihr verloren
-- Die Erweiterung Hydra Resurrection ergänzt euer Grundspiel Marvel Zombies, um weitere zombifizierte und lebende Helden, die gegen Red Skull und seine Heerscharen untoter Hydra-Soldaten kämpfen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CFT46CB4{{</world>}}

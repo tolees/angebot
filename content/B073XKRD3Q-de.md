@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Herausnehmbarer Kaffeepulver-Behälter
+- Kegelmahlwerk
 - Sicherheitsverriegelung: Betrieb nur mit Kaffeebohnen-Behälter in Position möglich
 - Mahlgrad-Regler von grob bis fein
-- Kegelmahlwerk
-- Herausnehmbarer Kaffeepulver-Behälter
 - Großes Fassungsvermögen - 300 Gramm
 
 [🛒 Hier!!]({{< param buyurl >}})

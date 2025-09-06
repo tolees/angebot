@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sechs Single-Strip-Comic-Sammelkarten, die das Team von Studio MDHR liebevoll beschriftet und illustriert hat, die werden dich bestimmt aufheitern
 - Eine nummerierte, Cuphead Club Membership-Karte, die an klassische Clubkarten der 30er-Jahre erinnert, unterschreibe deine Karte und verwahre sie in deiner Geldbörse, wer weiß, vielleicht brauchst du sie mal
-- Ein wunderschönes handgezeichnetes Wendecover, das klassische Animationsfilmplakate und die fantastische Welt von Cuphead würdigt und die Hauptcharaktere des Spiels zeigt
-- Enthält die Erweiterung Delicious Last Course mit Bossen und dem brandneuen Charakter Ms chalice
 - Erlebe klassische Shoot-’em-up-Action mit einem Freund im lokalen 2-Spieler-Koop-Modus
+- Sechs Single-Strip-Comic-Sammelkarten, die das Team von Studio MDHR liebevoll beschriftet und illustriert hat, die werden dich bestimmt aufheitern
+- Enthält die Erweiterung Delicious Last Course mit Bossen und dem brandneuen Charakter Ms chalice
+- Ein wunderschönes handgezeichnetes Wendecover, das klassische Animationsfilmplakate und die fantastische Welt von Cuphead würdigt und die Hauptcharaktere des Spiels zeigt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5BSLBB3{{</world>}}

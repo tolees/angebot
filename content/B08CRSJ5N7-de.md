@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zubehör
 - Langlebigkeit
+- Zubehör
 - Flexible Gestaltung
 
 [🛒 Hier!!]({{< param buyurl >}})

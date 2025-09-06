@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In-Game-Bonus: Als Bonus für das Videospiel LEGO Fortnite beinhaltet das Set ein Beefboss-Outfit, das die Baumeister freischalten können, indem sie den QR-Code auf der Bauanleitung scannen
 - Gamer Geschenk: Dieses LEGO Fortnite Spielset ist ein tolles Geschenk für Gamer, angehende Köche und LEGO Fans jeden Alters
 - 4 LEGO Minifiguren: Strandbomber, Beefboss, Schmierfink und ein Skelett erwecken den Actionspaß zum Leben und laden zu fantasievollen Rollenspielen ein
 - LEGO Builder App: Die Bauanleitung zu diesem Set ist auch in der LEGO Builder App verfügbar, in der App können Baumeister Modellansichten vergrößern und drehen und ihren Baufortschritt verfolgen
-- Modell des Durrr Burger Restaurants: Das LEGO Fortnite Durrr Burger Restaurant aus diesem Baukasten für Kinder ab 10 Jahren entwickelt die Kreativität
+- In-Game-Bonus: Als Bonus für das Videospiel LEGO Fortnite beinhaltet das Set ein Beefboss-Outfit, das die Baumeister freischalten können, indem sie den QR-Code auf der Bauanleitung scannen
 - Entdecke LEGO Fortnite: Unsere Kollektion aus separat erhältlichen LEGO Fortnite Bausets lässt dich besonders kreativ spielen und die Abenteuer aus dem Videospiel in die echte Welt holen
+- Modell des Durrr Burger Restaurants: Das LEGO Fortnite Durrr Burger Restaurant aus diesem Baukasten für Kinder ab 10 Jahren entwickelt die Kreativität
 - LEGO Spielzeug zum Videospiel: Dieses modulare Bauset enthält eine Kasse, eine Gewürzstation und einen Getränkeautomaten, auf dem Drive-Thru-Schild ist eine Speisekarte abgebildet, eine Peperoni und Dünger vollenden das Set
 
 [🛒 Hier!!]({{< param buyurl >}})

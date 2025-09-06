@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trailer
-- Deutsche Synchronfassung auch bei Teil 3 wieder aus der Feder und gesprochen von Comedy-Star und OSS 117-Fan Oliver Kalkofe!
 - Frankreichs Antwort auf James Bond: Agent OSS 117 ist zurück mit Teil 3 der Kultfilmreihe, der in Cannes 2021 als Abschlussfilm lief
 - Mit Oscar-Gewinner Jean Dujardin (THE WOLF OF WALL STREET) und Aufsteiger Pierre Niney (IT BOY) in den Hauptrollen. Von César-Gewinner Nicolas Bedos
+- Trailer
+- Deutsche Synchronfassung auch bei Teil 3 wieder aus der Feder und gesprochen von Comedy-Star und OSS 117-Fan Oliver Kalkofe!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09HL2WKQP{{</world>}}

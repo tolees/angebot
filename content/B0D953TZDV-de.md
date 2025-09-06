@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Rundhalsausschnitt mit Rippblende
 - mit Necktape
-- plakativer Print vorne, etwas kleinerer Print hinten
 - Inside Oil Dyed
+- plakativer Print vorne, etwas kleinerer Print hinten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D953TZDV{{</world>}}

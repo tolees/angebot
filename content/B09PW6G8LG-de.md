@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100-jähriger Kalender 2023 - Bildkalender 24x34 cm: Mit täglichen Wetterprognosen und Bauernregeln
 - Marke: Alpha Edition
+- 100-jähriger Kalender 2023 - Bildkalender 24x34 cm: Mit täglichen Wetterprognosen und Bauernregeln
 - Produkttyp: ABIS_BOOK
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

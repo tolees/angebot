@@ -33,8 +33,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Die integrierte GaN-Technologie ermöglicht effizientes Laden mit hoher Leistung und ohne Überhitzung
 - PPS-Technologie sorgt dynamisch für eine optimale Stromversorgung kompatibler Geräte
 - Optimiert für Apple, Samsung, Nintendo Switch und andere kompatible Geräte
-- Kompaktes Format, ideal für zu Hause, das Büro oder Reisen
 - USB-C PD 3.0-fähig zum Laden eines iPhone 13 in 28 Minuten von 0 auf 50 % und eines Samsung Galaxy S21+ in 27 Minuten von 0 auf 50 %
+- Kompaktes Format, ideal für zu Hause, das Büro oder Reisen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B1Q9LS6K{{</world>}}

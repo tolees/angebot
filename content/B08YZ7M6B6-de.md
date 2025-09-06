@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke:CLINIQUE
 - Pflegendes Serum
+- Marke:CLINIQUE
 - Clinique
 - ModelNummer:192333027240
 

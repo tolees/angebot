@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ORICO 128GB M.2 NVMe SSD TLC NAND Flash 1700MB/s PCIe 3.0 M2 2280 SSD  Internes Solid State Laufwerk Kompatibel mit Desktop-Laptop - D10'
-date: 2025-09-02 11:49:12
+date: 2025-09-05 09:43:04
 image: 'https://m.media-amazon.com/images/I/41PhocFSMqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'ORICO'
 buyurl: 'https://www.amazon.de/dp/B0DF75JM3K/?tag=tolees0ca-21'
 descuento: '15.80'
-average: '18.6566666666667'
+average: '17.99'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

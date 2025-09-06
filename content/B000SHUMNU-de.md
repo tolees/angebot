@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Alle Oberflächen, alle Verwendungszwecke
-- 4,3 mm konische Spitze
+- Extreme Widerstandsfähigkeit 1000m Schreiben möglich
 - Pentel Pen N50 Permanentmarker, schwarze Tinte
 - Metallgehäuse
-- Extreme Widerstandsfähigkeit 1000m Schreiben möglich
+- 4,3 mm konische Spitze
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000SHUMNU{{</world>}}

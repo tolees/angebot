@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Textil
 - Absatzform: Kein Absatz
+- Innenmaterial: Textil
 - Verschluss: Gummi
 - Obermaterial: Synthetik
 

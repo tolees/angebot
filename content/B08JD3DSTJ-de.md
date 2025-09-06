@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston DataTraveler Exodia DTX/256GB USB-Stick 3.2 Gen 1 - mit Schutzkappe und Schlüsselring in mehreren Farben  schwarz'
-date: 2025-09-03 20:58:07
+date: 2025-09-05 15:43:11
 image: 'https://m.media-amazon.com/images/I/21V2L92emFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Kingston'
 buyurl: 'https://www.amazon.de/dp/B08JD3DSTJ/?tag=tolees0ca-21'
 descuento: '38.65'
-average: '16.1775'
+average: '15.9331818181818'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

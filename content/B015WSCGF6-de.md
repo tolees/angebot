@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die ultraleichte Formel sorgt für ein pures Hautgefühl und ein sanften Look
-- Für alle Hauttypen geeignet, auch für Mischhaut
 - Das Bourjois Air Mat Compact Puder verschmilzt mit der Haut, für ein natürlich aussehendes, mattes Finish mit bis zu 14 Stunden Glanzkontrolle
+- Für alle Hauttypen geeignet, auch für Mischhaut
 - Verursacht kein Gefühl von trockener Haut
+- Die ultraleichte Formel sorgt für ein pures Hautgefühl und ein sanften Look
 - Mattiert die Haut und kaschiert Unebenheiten für ein makelloses Aussehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

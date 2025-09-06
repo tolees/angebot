@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Taillierter Schnitt
-- Enge Passform für ein körpernahes Tragegefühl
 - Kühl und trocken bleiben
 - Elastischer Bund
+- Enge Passform für ein körpernahes Tragegefühl
+- Taillierter Schnitt
 - Weichen Leggings aus schweißableitender Technologie
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale Passform
 - PUMA Cat Logo als Hitzetransfer auf dem linken Bein
-- Klassisches Trikot-Design
+- Normale Passform
 - dryCELL: PUMAs Kennzeichnung für feuchtigkeitstransportierende Eigenschaften und für trockenen Tragekomfort
 - Nackenband
+- Klassisches Trikot-Design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078T6XYDM{{</world>}}

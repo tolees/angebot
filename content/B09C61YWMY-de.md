@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sneaker
 - leichter schuh für immer angenehmes gehen während des ganzen tages.
 - Collection: NOS
-- Sneaker
 - Leder: smooth leather
 
 [🛒 Hier!!]({{< param buyurl >}})

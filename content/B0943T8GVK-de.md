@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - BRD
 - 235
-- Deutsch, Japanisch
 - Yuichiro Hayashi
+- Deutsch, Japanisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0943T8GVK{{</world>}}

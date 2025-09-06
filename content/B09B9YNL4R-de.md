@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Trefl
 - Das ist doppelter Puzzlespaß!
 - Entdecke das Geheimnis dieses Puzzles.
-- Trefl
 - In der "Hidden Shape" Reihe von Trefl verbergen sich 10 einzigartige Formen, die man erst entdecken kann, wenn man das Puzzle vollständig zusammensetzt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

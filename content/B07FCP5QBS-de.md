@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - variabel einsetzbar für Sakkos, Blusen, Hemden etc.
-- ermöglicht platzsparende Aufbewahrung im Kleiderschrank
 - Maße: ca. 43 x 58, 5 cm
+- ermöglicht platzsparende Aufbewahrung im Kleiderschrank
 - Material: Metall
 - praktischer Mehrfach-Kleiderbügel mit fünf vollständig entnehmbaren Kleiderbügeln
 

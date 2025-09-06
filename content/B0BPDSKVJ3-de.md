@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sie ist ca. 18 cm groß und wird mit weiterem Zubehör und Base in einer Fensterbox geliefert.
 - Die im "Ultra Articulation"-Design entworfene Figur verfügt über 22 Artikulationspunkte und kommt mit einer Sammelkarte mit Charakter-Biografie auf der Rückseite.
 - Spawn Actionfigur Sinn 18 cm
+- Sie ist ca. 18 cm groß und wird mit weiterem Zubehör und Base in einer Fensterbox geliefert.
 - Zum Comic "Spawn" kommt diese detailreiche, bewegliche Actionfigur.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reißverschluss-Deckelfach
+- Namensetikett innen
 - Schlüssel Clip
 - Angenehme Belüftung durch Airstripes-Rückensystem
-- Namensetikett innen
 - Reflektierende Elemente
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

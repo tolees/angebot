@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Personalisierung mit der HyperX NGenuity Software
-- Optischer Pixart 3327 Sensor mit nativen DPI-Einstellungen bis zu 6200 DPI
-- Extragroße Mausrollen für flüssige, kontrollierte Bewegungen
 - Komfortables symmetrisches Design
+- Extragroße Mausrollen für flüssige, kontrollierte Bewegungen
+- Optischer Pixart 3327 Sensor mit nativen DPI-Einstellungen bis zu 6200 DPI
+- Einfache Personalisierung mit der HyperX NGenuity Software
 - Sieben programmierbare Tasten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

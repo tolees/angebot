@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Synthetik
-- Schuhweite: Medium
-- Verschluss: Gummi
 - Absatzform: Flach
+- Verschluss: Gummi
+- Schuhweite: Medium
+- Obermaterial: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09N7N4RQ2{{</world>}}

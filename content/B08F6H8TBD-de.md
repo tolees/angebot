@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ergonomisches Design mit Standardtastenlayout für Komfort und Vertrautheit
 - Steuerung kompatibler Xbox-Spiele in der Cloud oder auf Mobilgeräten
 - Laden des Smartphones während des Spielens oder zwischen Spielesitzungen mit der integrierten Powerbank
-- Unterstützung von Controller-kompatiblen Spielen auf Android-Geräten und PCs
-- Fester Griff beim Spielen durch bequeme eingelassene Gummigriffe auf der Rückseite
-- Präzision von Controller-Eingaben für das Spielen auf Mobilgeräten, statt auf Touchscreens angewiesen zu sein
-- Vorteile im Wettkampf mit zwei programmierbaren Tasten für erweiterte Spielfunktionen
-- Sichere Kontrolle und sicherer Griff dank präzise abgestimmter analoger Daumensticks
+- Ergonomisches Design mit Standardtastenlayout für Komfort und Vertrautheit
 - Abnehmbarer Smartphone-Clip mit einstellbarem Arm für Geräte mit einer Breite bis zu 79 mm
+- Sichere Kontrolle und sicherer Griff dank präzise abgestimmter analoger Daumensticks
+- Fester Griff beim Spielen durch bequeme eingelassene Gummigriffe auf der Rückseite
 - Verbindung von Android-Smartphone/Tablet oder Laptop/PC kabellos über Bluetooth oder kabelgebunden über USB*
+- Vorteile im Wettkampf mit zwei programmierbaren Tasten für erweiterte Spielfunktionen
+- Unterstützung von Controller-kompatiblen Spielen auf Android-Geräten und PCs
+- Präzision von Controller-Eingaben für das Spielen auf Mobilgeräten, statt auf Touchscreens angewiesen zu sein
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08F6H8TBD{{</world>}}

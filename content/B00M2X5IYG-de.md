@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimal für Autoradio und Notebook aufgrund der minimalen Größe
-- Dank der USB 3.2 Gen 1x1 Schnittstelle werden Übertragungsraten von bis zu 100 MB/s erreicht
 - Zur Anwendung des USB 3.2 Standards wird 3.x fähige Hardware benötigt
+- Dank der USB 3.2 Gen 1x1 Schnittstelle werden Übertragungsraten von bis zu 100 MB/s erreicht
+- Optimal für Autoradio und Notebook aufgrund der minimalen Größe
 - Lieferumfang: Intenso Slim Line USB-A Speicherstick mit 64 GB Speicherplatz und praktischem Schlüsselband
 - Gewicht: federleichte 2 g; Abmessungen: 20 x 15 x 7 mm
 

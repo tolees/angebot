@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 10 Jahre Garantie
 - Im robusten Kunststoffkoffer
+- 10 Jahre Garantie
 - TÜV/GS geprüft
 
 [🛒 Hier!!]({{< param buyurl >}})

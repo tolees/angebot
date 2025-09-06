@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kräftig
-- Verpackungsabmessungen (L x B x H): 4.0 x 10.0 x 13.0 Zm
 - Adaptiert an Pistole
+- Verpackungsabmessungen (L x B x H): 4.0 x 10.0 x 13.0 Zm
 - Herkunftsland:- Deutschland
 
 [🛒 Hier!!]({{< param buyurl >}})

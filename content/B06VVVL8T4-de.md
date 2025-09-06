@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vorgeformte Knie
-- Strapazierfähiges G-1000 Material kann gewachst werden, um die Wasserbeständigkeit zu erhöhen
 - Verstärkte Bereiche erhöhen die Strapazierfähigkeit
+- Strapazierfähiges G-1000 Material kann gewachst werden, um die Wasserbeständigkeit zu erhöhen
+- Vorgeformte Knie
 - Reguläre Passform
 - Abtrennbare Beine
 

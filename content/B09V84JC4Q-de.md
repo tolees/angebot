@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auf jeDer Seite befinden sich fünf einstecktaschen (3 im querformat und 2 im hochformat)
 - Die Fotos werden in praktische einstecktaschen gesteckt
+- Auf jeDer Seite befinden sich fünf einstecktaschen (3 im querformat und 2 im hochformat)
 - Das Album hat schwarze seiten und bietet platz für 400 fotos im format 10 x 15 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Einfaches und zusätzlich sicheres Greifen und Wenden des Bratgutes
 - Maße: ca. 30 x 1,5 x 2,5 cm
 - Material: Edelstahl - spülmaschinengeeignet
+- Anwendung: Einfaches und zusätzlich sicheres Greifen und Wenden des Bratgutes
 - Lieferumfang: 1 x Steakpinzette - in bewährter Qualität von Fackelmann
 - Multitalent: Die zarte Zange aus Kedelstahl ist als Küchen- und Grillzange verwendbar
 

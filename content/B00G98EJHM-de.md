@@ -30,12 +30,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Kompakte Größe: Effizientes Design mit kompakter Technologie
 - Nachhaltigkeit: Nespresso Kaffeekapseln sind recycelbar und können ganz einfach über die Gelbe Tonne, die Nespresso Boutiquen und an Wertstoffsammelstellen entsorgt und so wiederverwertet werden
-- 2 Optionen zur Kaffeeauswahl: Wählen Sie zwischen Espresso und Lungo
 - Die Inissia ist eine Kaffeemaschine, mit der Sie bequem eine große Auswahl an Espressospezialitäten zubereiten können
-- Die Kapseln werden mit mindestens 80% recyceltem Aluminium hergestellt, einem Material, welches bei entsprechender Entsorgung unendlich oft recycelbar ist
-- Nespresso Original bietet Ihnen mit klassischen Espressos und außergewöhnlichen Kaffeekreationen einen unvergesslichen Kaffeegenuss
 - Nur für Nespresso Original Kapseln
 - Energiesparend: Die Kaffeemaschine schaltet sich nach 9 Minuten Inaktivität automatisch aus
+- Die Kapseln werden mit mindestens 80% recyceltem Aluminium hergestellt, einem Material, welches bei entsprechender Entsorgung unendlich oft recycelbar ist
+- Nespresso Original bietet Ihnen mit klassischen Espressos und außergewöhnlichen Kaffeekreationen einen unvergesslichen Kaffeegenuss
+- 2 Optionen zur Kaffeeauswahl: Wählen Sie zwischen Espresso und Lungo
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00G98EJHM{{</world>}}

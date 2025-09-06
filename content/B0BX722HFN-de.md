@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMFORT IM FOKUS – Forta hat unglaublich bequeme ohrumschließende Polster, bewegliche Hörmuscheln und einen verstellbaren gefütterten Kopfbügel
-- PLUG & PLAY IST VOLL O.K. – Einfach mit dem abnehmbaren 3,5-mm-Kabel an deinen kabellosen DualSense-Controller anschließen und los gamen
-- GRÜNER GAMEN – Entscheide dich für ein nachhaltigeres Gaming-Setup, denn 35 % des verwendeten Kunststoffs wurde recycelt
 - MUSIK IN DEINEN OHREN – 50-mm-Treiber und ein flexibles, abnehmbares Mikrofon mit Popfilter sorgen für kraftvollen Sound und kristallklare Kommunikation
+- GRÜNER GAMEN – Entscheide dich für ein nachhaltigeres Gaming-Setup, denn 35 % des verwendeten Kunststoffs wurde recycelt
+- PLUG & PLAY IST VOLL O.K. – Einfach mit dem abnehmbaren 3,5-mm-Kabel an deinen kabellosen DualSense-Controller anschließen und los gamen
+- KOMFORT IM FOKUS – Forta hat unglaublich bequeme ohrumschließende Polster, bewegliche Hörmuscheln und einen verstellbaren gefütterten Kopfbügel
 - ES IST OFFIZIELL – Forta ist offiziell für PlayStation5-Konsolen lizenziert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

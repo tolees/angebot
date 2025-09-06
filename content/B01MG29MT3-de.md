@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - auch für andere Arbeiten geeignet
 - Für die Verwendung der Maschine mit Führungsschiene 194368-5 ist der Adapter mit der Artikelnummer 197005-0 erforderlich
 - 1 Paar (2 Stück)
-- Original Makita-Qualität, langlebig und robust
 - Leistungsstark und Robust
+- Original Makita-Qualität, langlebig und robust
 - ideal für Makita - Führungsschiene
 
 [🛒 Hier!!]({{< param buyurl >}})

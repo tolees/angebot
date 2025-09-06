@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Taillierter Schnitt
 - Rippbündchen an Ärmel und Saum
 - Weicher Baumwollmix
-- Taillierter Schnitt
 - Aufgesetzte Kängurutasche
 - Kapuze mit Kordelzug
 

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sprachen: Sprache: N/A; Untertitel: Englisch, Französisch, Vereinfachtes Chinesisch, Japanisch.
-- ARBEITE. WERDE BEZAHLT. ÜBERLEBE. - Beim von Tabletop-Rollenspielen inspirierten Citizen Sleeper kommen Würfel, Uhren und Antriebe zum Einsatz. In jedem Zyklus benutzt du die erhaltenen Würfel, um zu entscheiden, was du mit deiner Zeit machst. Gehe Allianzen ein, decke Wahrheiten auf und entkomme den Jägern. Überlebe und entwickle dich weiter.
-- DIE PHYSISCH EDITION ENTHÄLT: Drei Kunstpostkarten, eine gefaltete doppelseitige Karte/Poster, eine umkehrbare Hülle und eine Aufkleberfolie.
-- STEHE FÜR DEINE FREUNDE EIN - Auf der Station sind Charaktere aus allen Lebensbereichen zu Hause, die versuchen, sich zwischen den Sternen durchzuschlagen. Schrottsammler, Techniker, Hacker, Barkeeper, Essensverkäufer - jeder von ihnen hat eine Geschichte. Du wählst aus, wem du helfen möchtest, und gestaltest gemeinsam mit ihnen die Zukunft.
 - DAS VOLLE ERLEBNIS - Citizen Sleeper enthält jetzt alle drei DLC-Episoden FLUX, REFUGE und PURGE nach dem Start, die das Spiel erweitern und zusätzliche Charaktere und Orte in Erlins Eye in eine aufregende neue Handlung im Endspiel einführen.
+- STEHE FÜR DEINE FREUNDE EIN - Auf der Station sind Charaktere aus allen Lebensbereichen zu Hause, die versuchen, sich zwischen den Sternen durchzuschlagen. Schrottsammler, Techniker, Hacker, Barkeeper, Essensverkäufer - jeder von ihnen hat eine Geschichte. Du wählst aus, wem du helfen möchtest, und gestaltest gemeinsam mit ihnen die Zukunft.
+- Sprachen: Sprache: N/A; Untertitel: Englisch, Französisch, Vereinfachtes Chinesisch, Japanisch.
+- DIE PHYSISCH EDITION ENTHÄLT: Drei Kunstpostkarten, eine gefaltete doppelseitige Karte/Poster, eine umkehrbare Hülle und eine Aufkleberfolie.
+- ARBEITE. WERDE BEZAHLT. ÜBERLEBE. - Beim von Tabletop-Rollenspielen inspirierten Citizen Sleeper kommen Würfel, Uhren und Antriebe zum Einsatz. In jedem Zyklus benutzt du die erhaltenen Würfel, um zu entscheiden, was du mit deiner Zeit machst. Gehe Allianzen ein, decke Wahrheiten auf und entkomme den Jägern. Überlebe und entwickle dich weiter.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CZ75CYV6{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
 - Absatzform: Blockabsatz
 - Obermaterial: Synthetik
+- Innenmaterial: Synthetik
 - Sohle: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

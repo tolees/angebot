@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kordelzug im Bund
 - Weite Passform
 - Fleece-Material
+- Kordelzug im Bund
 - Reißverschlusstaschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

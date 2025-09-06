@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Energiesparende Funktionen mit D-Link Green
+- Automatische MDI/MDIX-Erkennung an allen Anschlüssen
 - Im Full Duplex Modus bis zu 2000 Mbit/s pro Port
 - Arbeitet geräuschlos durch eine lüfterlose Bauweise
-- Automatische MDI/MDIX-Erkennung an allen Anschlüssen
 - Sicheres Store-and-Forward Weiterleitungsverfahren
+- Energiesparende Funktionen mit D-Link Green
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000BC7QMM{{</world>}}

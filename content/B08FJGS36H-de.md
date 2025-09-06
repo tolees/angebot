@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sicher und zuverlässig: Blaue LED Energieanzeige, Überspannungsschutz, Entladeschutz, Überladeschutz, Kurzschlusssicherung
+- Verschiedene Lademöglichkeiten: Ein USB-A Anschluss und ein integriertes USB-C Kabel ermöglichen das Laden von zwei Geräten gleichzeitig. Input: 5. 0V - 2. 1A; Output: 5. 0V - 3. 1A schnelles Laden ist möglich über USB-C In/Out
+- Universelle Kompatibilität: Externer Akku kompatible mit praktisch allen USB-C und USB-A aufladbaren Geräten iPhone Huawei Samsung Galaxy iPad Air/Mini und andere Smartphones, Actioncams GoPro, Nintendo Switch und mehr
 - Lieferumfang: Intenso XC10000 Powerbank, USB-A zu USB-C Ladekabel, Bedienungsanleitung
 - Kleines Energiewunder: Die kompakte Powerbank wiegt nur 210g und passt durch ihr minimalistisches Design in jede Jacken- oder Hosentasche
-- Universelle Kompatibilität: Externer Akku kompatible mit praktisch allen USB-C und USB-A aufladbaren Geräten iPhone Huawei Samsung Galaxy iPad Air/Mini und andere Smartphones, Actioncams GoPro, Nintendo Switch und mehr
-- Verschiedene Lademöglichkeiten: Ein USB-A Anschluss und ein integriertes USB-C Kabel ermöglichen das Laden von zwei Geräten gleichzeitig. Input: 5. 0V - 2. 1A; Output: 5. 0V - 3. 1A schnelles Laden ist möglich über USB-C In/Out
-- Sicher und zuverlässig: Blaue LED Energieanzeige, Überspannungsschutz, Entladeschutz, Überladeschutz, Kurzschlusssicherung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08FJGS36H{{</world>}}

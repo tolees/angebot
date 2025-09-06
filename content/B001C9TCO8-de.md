@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- QUALITÄT: HAZET ist einer der führenden Hersteller von Qualitäts-Werkzeugen in Deutschland für die professionelle Anwendung und verfügt dabei über mehr als 155 Jahre Erfahrung in Entwicklung und Produktion
 - ROBUST: Hergestellt aus hochwertigem Stahl, hat der Einmaulschlüssel eine lange Lebensdauer und zuverlässige Leistung für verschiedene Anwendungen
+- QUALITÄT: HAZET ist einer der führenden Hersteller von Qualitäts-Werkzeugen in Deutschland für die professionelle Anwendung und verfügt dabei über mehr als 155 Jahre Erfahrung in Entwicklung und Produktion
 - LIEFERUMFANG: 1x HAZET Einmaulschlüssel 279-8 I mit Skala I Abmessungen: 20,5 x 1,3 x 6 cm I Gewicht: 240 g I Phosphatiert I Kopf Poliert I Legierrter Stahl
 - VIELSEITIG: Der Einmaulschlüssel ist ein verstellbarer Rollgabelschlüssel aus legiertem Stahl, welcher sich durch seine Robustheit und Vielseitigkeit auszeichnet
 - HOCHWERTIG: Der Schlüssel hat eine verstellbare Skala und ist somit individuell einsetzbar

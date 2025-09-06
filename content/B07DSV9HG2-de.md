@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kompatibel mit UHS-II U3 und V90 Standards
 - Perfekt für ein ruhiges und ungestörtes 4K Video Erlebnis, getestet, um extremen Bedingungen zu widerstehen
 - Die SDXC / SDHC 700S-Speicherkarten von Transcend wurden speziell für aktuelle UHS-II-kompatible Spiegelreflexkameras und Camcorder entwickelt
-- 64 GB Speicherkapazität
 - Bis zu 285 MB/s Lesen; 180 MB/s Schreiben
+- 64 GB Speicherkapazität
+- Kompatibel mit UHS-II U3 und V90 Standards
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DSV9HG2{{</world>}}

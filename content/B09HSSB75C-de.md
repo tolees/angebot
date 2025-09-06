@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Probiere den auf Motorsport ausgerichteten Endurance Championship-Modus in einer Kampagne aus, die dem 24H-Rennen von Le Mans und GT-Fahrzeugen gewidmet ist: Bereite dich auf das Rennen vor und manage deine Tankfüllungen, die Abnutzung der Reifen und die Boxenstopps
-- Fahre legendäre Fahrzeuge auf einer riesigen Karte mit vielfältigen und abwechslungsreichen Strecken
-- Entdecke den Porsche Series-Modus und fahre viele Fahrzeuge des berühmten Herstellers, um die Chance zu haben, den legendären 911 930 Turbo zu fahren
 - Die umfassendste Version von Gear.Club Unlimited 2 inklusiver aller jemals erschienenen DLCs
+- Entdecke den Porsche Series-Modus und fahre viele Fahrzeuge des berühmten Herstellers, um die Chance zu haben, den legendären 911 930 Turbo zu fahren
+- Probiere den auf Motorsport ausgerichteten Endurance Championship-Modus in einer Kampagne aus, die dem 24H-Rennen von Le Mans und GT-Fahrzeugen gewidmet ist: Bereite dich auf das Rennen vor und manage deine Tankfüllungen, die Abnutzung der Reifen und die Boxenstopps
 - Allein oder mit Freunden: Das Spiel bietet viele Multiplayer-Möglichkeiten, mit bis zu 4 Spielern im lokalen Splitscreen-Modus und bis zu 8 Spielern online & im LAN-Modus.
+- Fahre legendäre Fahrzeuge auf einer riesigen Karte mit vielfältigen und abwechslungsreichen Strecken
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09HSSB75C{{</world>}}

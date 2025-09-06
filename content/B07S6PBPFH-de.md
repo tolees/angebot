@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Puma Formstrip an der Seite
 - Puma Wordmark auf der Schuhzunge
+- Puma Formstrip an der Seite
 - Außensohle aus abriebfestem Gummi für Grip
-- EVA-Zwischensohle für maximalen Tragekomfort
 - Niedriger Schuh
+- EVA-Zwischensohle für maximalen Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07S6PBPFH{{</world>}}

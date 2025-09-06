@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Professional 32tlg. Schrauberbit-Set von Bosch - mit Außensechskantschaft der Größe 1/4-Zoll für allgemeine Schraubarbeiten mit Schraubendrehern und Bohrschraubern bestens geeignet
 - Für eine schnelle Übersicht und Identifizierung des richtigen Bittyps sind die Bits farbcodiert
 - Praktische Verpackung mit transparentem Deckel inkl. Gürtelclip damit die Box griffbereit an den Gürtel passt
+- Das Professional 32tlg. Schrauberbit-Set von Bosch - mit Außensechskantschaft der Größe 1/4-Zoll für allgemeine Schraubarbeiten mit Schraubendrehern und Bohrschraubern bestens geeignet
 - Lieferumfang: 31 x Schrauberbits Länge 25 mm (4 x Kreuzschlitz PH 1/2/2/3, 4 x Pozidriv PZ 1/2/2/3, 4 x Schlitz S 3/4/5/6, 8 x Torx T 10/15/20/20/25/27/30/40, 7 x Sicherheits-Torx Th 10/15/20/25/27/30/40, 4 x Hex H 3/4/5/6), 1 x Universalhalter magnetisch mit Quick-Change-Funktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

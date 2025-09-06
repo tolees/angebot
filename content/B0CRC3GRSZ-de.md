@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Futter: 59 % Schweinsleder 41 % recyceltes Polyester
+- Farbe: Dunkelbraun
 - Better Leather
 - Obbermaterial: 100% Rindsleder
-- Futter: 59 % Schweinsleder 41 % recyceltes Polyester
 - Laufsohle: 100% EVA
-- Farbe: Dunkelbraun
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CRC3GRSZ{{</world>}}

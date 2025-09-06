@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Zwischensohle aus Gummi
 - Puma Formstrip an den seitlichen und medialen Seiten
-- Puma Nein 2-Logo auf der Seite
 - Gepolsterter Kragen
+- Puma Nein 2-Logo auf der Seite
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BLCQYKT1{{</world>}}

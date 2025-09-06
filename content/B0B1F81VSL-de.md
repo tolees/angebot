@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- XL Extralight Brandsohle für mehr Leichtigkeit und Stoßdämpfung
 - EVA-Laufsohle für geringes Gewicht
+- XL Extralight Brandsohle für mehr Leichtigkeit und Stoßdämpfung
 - Zertifikat der Leather Working Group
 
 [🛒 Hier!!]({{< param buyurl >}})

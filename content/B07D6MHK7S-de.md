@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das G3 Flex verfügt über ein Weitwinkelobjektiv und eine 1080p-Videoleistung für eine erweiterte Überwachungsabdeckung
-- Höhe x Breite x Tiefe: 107,5 x 48 x 48 mm, Gewicht: 170 g
 - Vollständiges Überwachungsmanagement und Skalierbarkeit. Verwaltungsoberfläche: UniFi Video
-- Sensor und Linse: Sensor: 1 / 2,7 ”2-Megapixel-HDR-Sensor, Objektiv: EFL 4mm / f2.0, Auflösung: 1080p FHD (1920 x 1080), Maximale Bildrate: 25 FPS
+- Das G3 Flex verfügt über ein Weitwinkelobjektiv und eine 1080p-Videoleistung für eine erweiterte Überwachungsabdeckung
 - Die Infrarot-LEDs und der automatische IR-Sperrfilter bieten eine hochwertige Überwachung bei Tag und Nacht
+- Sensor und Linse: Sensor: 1 / 2,7 ”2-Megapixel-HDR-Sensor, Objektiv: EFL 4mm / f2.0, Auflösung: 1080p FHD (1920 x 1080), Maximale Bildrate: 25 FPS
+- Höhe x Breite x Tiefe: 107,5 x 48 x 48 mm, Gewicht: 170 g
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07D6MHK7S{{</world>}}

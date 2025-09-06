@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für Hand- und Schlagschrauberbetrieb geeignet
-- Mit Kunststoffmantel und Kunststoffeinsatz zum Schutz der Alufelgen
 - Drehmoment max.: 510 Nm
+- Mit Kunststoffmantel und Kunststoffeinsatz zum Schutz der Alufelgen
+- Für Hand- und Schlagschrauberbetrieb geeignet
 - Farblich codierte Nuss
 
 [🛒 Hier!!]({{< param buyurl >}})

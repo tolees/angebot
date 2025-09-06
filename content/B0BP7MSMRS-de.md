@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 prozent Baumwolle (Single Jersey)
 - Gerippter Rundhalsausschnitt
+- 100 prozent Baumwolle (Single Jersey)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BP7MSMRS{{</world>}}

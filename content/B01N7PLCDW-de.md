@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der beliebte Bewegungsspiel-Klassiker seit Generationen für Jung und Alt
-- Die Klettfläche ist fest mit dem Neopren versteppt, kein Ausreißen der Klettfläche
-- Handfänger mit weitenverstellbarer Handschlaufe für den sicheren Halt. Salzwasserfest
 - Inkl. 1 Klettball (Ø 6,25cm), alles in wiederverschliessbarer Netztasche
+- Die Klettfläche ist fest mit dem Neopren versteppt, kein Ausreißen der Klettfläche
+- Der beliebte Bewegungsspiel-Klassiker seit Generationen für Jung und Alt
+- Handfänger mit weitenverstellbarer Handschlaufe für den sicheren Halt. Salzwasserfest
 - 2 weiche Neopren-Klettball Handfänger (Ø 17 cm), besonders haltbar durch die angenähte Klett-/Fangfläche
 
 [🛒 Hier!!]({{< param buyurl >}})

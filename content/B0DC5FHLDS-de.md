@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Artwork mit Stickereien vorne rechts
 - Rippbündchen an Ärmeln und Saum
-- mit Farbverlauf
 - Kapuze mit Print, Innentape und Kordelzug
+- mit Farbverlauf
+- Artwork mit Stickereien vorne rechts
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5FHLDS{{</world>}}

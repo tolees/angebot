@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hauptkamera: 50 MP + 8 MP + 2 MP
-- Display: 16,94 cm (6,67 Zoll)
 - Prozessor: Dimensity 1080
+- Display: 16,94 cm (6,67 Zoll)
+- Hauptkamera: 50 MP + 8 MP + 2 MP
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BY6QM6XL{{</world>}}

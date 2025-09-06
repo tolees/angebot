@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatztyp: Flach, Absatzhöhe: 3.3 cm, Schafttyp: Kurzschaft
 - Produkttyp: Halbschuhe,Slip On,Slipper,Herrenschuhe,Halbschuhe,College Schuhe,Loafer,Businessschuhe,Anzugschuhe,elegant,Office,Büro,Freizeit
 - Die Extraweite bietet sehr breiten bis kräftigen Füßen eine optimale Passform und mehr Bewegungsfreiheit für die Zehen. Das hochwertige Naturprodukt Leder sorgt für ein natürliches Fußklima durch eine hohe Atmungsaktivität.
+- Absatztyp: Flach, Absatzhöhe: 3.3 cm, Schafttyp: Kurzschaft
 - Weite: Weit (H), Verschluss: Ohne Verschluss
 - Obermaterial: Glattleder, Innenmaterial: Synthetik, Laufsohle: PU-Sohle, Decksohle: Leder
 

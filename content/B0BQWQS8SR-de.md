@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 prozent Baumwolle (French Terry)
 - Kapuze mit weitenregulierbarem Kordelzug
+- 100 prozent Baumwolle (French Terry)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BQWQS8SR{{</world>}}

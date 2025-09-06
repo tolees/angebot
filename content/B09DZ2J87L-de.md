@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bund mit Gürtelschlaufen, Knopf und Zipper
 - Zwei aufgesetzte Taschen am Gesäß
+- Bund mit Gürtelschlaufen, Knopf und Zipper
 - Zwei Taschen auf der Vorderseite mit Münztasche
 
 [🛒 Hier!!]({{< param buyurl >}})

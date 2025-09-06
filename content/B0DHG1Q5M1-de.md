@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kraftvolle Saugleistung für die meisten Pooltypen: Der Poolroboter entfernt effektiv typische Verschmutzungen wie Sand, Blätter und kleine Partikel – selbst bei Neigungen bis zu 15°. Bei sehr feinen Ablagerungen wie Pollen empfehlen wir regelmäßige Wartung
+- Leichtgewicht mit langer Laufzeit: Mit nur 3,3 kg Gewicht und bis zu 75 Minuten Laufzeit ist dieser Poolroboter besonders einfach zu handhaben und transportieren
+- Doppeltes Filtersystem für gründliche Reinigung: Der Poolroboter verwendet ein innovatives Doppelfiltersystem mit 180 μm Feinnetz und Schaumfilter für energiesparende, effektive Poolreinigung
 - Kabelloser Poolroboter mit leistungsstarkem Akku: Unser Poolroboter arbeitet komplett kabellos mit integriertem Akku (3-4 Stunden Schnellladung) und elegantem transparentem Design für einfache Navigation im Pool
 - Automatische Funktionen für einfache Bedienung: Der Poolroboter startet und stoppt automatisch, dockt bei niedrigem Akku selbstständig an und ist sofort einsatzbereit - auch für Erstbenutzer
-- Doppeltes Filtersystem für gründliche Reinigung: Der Poolroboter verwendet ein innovatives Doppelfiltersystem mit 180 μm Feinnetz und Schaumfilter für energiesparende, effektive Poolreinigung
-- Leichtgewicht mit langer Laufzeit: Mit nur 3,3 kg Gewicht und bis zu 75 Minuten Laufzeit ist dieser Poolroboter besonders einfach zu handhaben und transportieren
+- Kraftvolle Saugleistung für die meisten Pooltypen: Der Poolroboter entfernt effektiv typische Verschmutzungen wie Sand, Blätter und kleine Partikel – selbst bei Neigungen bis zu 15°. Bei sehr feinen Ablagerungen wie Pollen empfehlen wir regelmäßige Wartung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DHG1Q5M1{{</world>}}

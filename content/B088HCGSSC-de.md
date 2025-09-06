@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhals-Ausschnitt
 - softe Haptik
-- angenehm leichte Qualität
 - hüftlang
+- angenehm leichte Qualität
+- Rundhals-Ausschnitt
 - schlichter Damenpulli von ONLY
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

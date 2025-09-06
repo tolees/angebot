@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Anti-Gelbstich-Toner für 4 Wochen lang kühles Blond mit langanhaltender Abmattierung in nur 5 Minuten, Ausschließlich für blondiertes Haar geeignet, Nicht auf natürlichem oder gefärbtem Haar anwenden
-- Neutralisiert Gelbstich und unerwünschte warme Nuancen, Für genährtes, weiches und glänzendes Haar, Wirkt orangen- und gelben Untertönen entgegen, Nicht auf sehr hellem reinem Blond oder auf grauem Haar anwenden
-- Lieferumfang: 1x LOréal Paris Préférence Acidic Toner, Anti-Gelbstich-Toner, Farbe: Pearly Boost
 - Säurehaltige Formel ohne Ammoniak, Creme-Textur zum Bewahren der Haarqualität und Wiederherstellen des pH-Werts
+- Lieferumfang: 1x LOréal Paris Préférence Acidic Toner, Anti-Gelbstich-Toner, Farbe: Pearly Boost
+- Neutralisiert Gelbstich und unerwünschte warme Nuancen, Für genährtes, weiches und glänzendes Haar, Wirkt orangen- und gelben Untertönen entgegen, Nicht auf sehr hellem reinem Blond oder auf grauem Haar anwenden
 - Anwendung: Mit Entwicklercreme mischen und schütteln, zuerst auf den Ansatz, dann auf die Längen auftragen, 5 Min. einwirken lassen und ausspülen, Die Einwirkzeit von 5 Min. sollte nicht überschritten werden, da das Ergebnis sonst abweichen kann
 
 [🛒 Hier!!]({{< param buyurl >}})

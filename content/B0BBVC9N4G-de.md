@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PETG Filament 1.75mm, Nettogewicht 1kg, trocken halten ist gut zum Drucken
 - PETG-Einstellung, Düse 195-220 Grad, Druckgeschwindigkeit 23-35 mm/s
+- PETG Filament 1.75mm, Nettogewicht 1kg, trocken halten ist gut zum Drucken
 - PETG Filament, PETG transluzente mehrfarbige Farben, PETG Regenbogen, durchsichtig, einige Luftblasen sind sichtbar, haben aber keinen Einfluss auf den Druck.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

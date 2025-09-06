@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absorberbox 12 Volt, 230 Volt und Gas 50 mbar
-- Lautlose Absorber-Kühlbox für Auto, Steckdose und Gas-Anschluss (50 mbar)
 - Bis 25° C unter Umgebungstemperatur
+- Absorberbox 12 Volt, 230 Volt und Gas 50 mbar
 - Abmessungen (B x H x T): 500 x 441 x 508 mm, Gewicht: 16,0 kg
+- Lautlose Absorber-Kühlbox für Auto, Steckdose und Gas-Anschluss (50 mbar)
 - Robustes Gehäuse und fuktionelles Design; Lkw und Steckdose
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

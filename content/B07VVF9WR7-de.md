@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Flexibel.
+- Guter Halt
 - Einfach anzubringen.
 - Extra langlebige Inhaltsstoffe
-- Guter Halt
-- Flexibel.
 - Weiches Gefühl
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größe: XXL
 - Columbia Inner Limits II wasserdichte Jacke
+- Größe: XXL
 - Farbe: Black, Graphite Heather
 
 [🛒 Hier!!]({{< param buyurl >}})

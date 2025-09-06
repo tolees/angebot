@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ausgestattet mit kabelloser Fernbedienung bis zu 30 m.
 - Kabelaufstiegsgeschwindigkeit: 8m/min (einfach) - 4m/min (doppelt).
+- Ausgestattet mit kabelloser Fernbedienung bis zu 30 m.
 - Einphasiger Elektromotor 230V~50Hz
 - Belastung: 400 kg mit Einzelseil - 800 kg mit Seilzug
 

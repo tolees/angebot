@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Die Spielsammlung enthält vier Spielpläne mit bekannten Mechaniken rund um die Disney-Themenwelten: Leiterspiel, Wer hat die 6?, Laufspiel, Wettrennen
 - Mit der Disney 100 Spielesammlung macht das Spielen doppelt Spaß
+- Wir feiern 100 Jahre Disney
 - Trefft im Spiel verschiedene Disney Figuren aus Die Eiskönigin, Monter AG, Lilo & Stitch und viele weitere wieder
 - Mit den Spielkarten sind zusätzlich verschiedene Kartenspiele, wie Mau Mau oder Memo, für die ganze Familie möglich
-- Wir feiern 100 Jahre Disney
 - Inhalt: 4 Spielpläne, 32 Karten, 1 Spielanleitung, 16 Spielfiguren, 1 Würfel
 
 [🛒 Hier!!]({{< param buyurl >}})

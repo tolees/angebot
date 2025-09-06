@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entwirre das Geheimnis
 - Unterbricht die Nahrungskette
 - Den Druck aushalten
 - Fürchte die Nacht
+- Entwirre das Geheimnis
 - Tauche unter den Ozeanboden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

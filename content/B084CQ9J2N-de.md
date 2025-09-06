@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - STAR WARS Ep. IV: Eine neue Hoffnung [Blu-ray]'
-date: 2025-08-18 03:45:11
+date: 2025-09-05 15:20:03
 image: 'https://m.media-amazon.com/images/I/51zVEpvFb9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Disney'
 buyurl: 'https://www.amazon.de/dp/B084CQ9J2N/?tag=tolees0ca-21'
 descuento: '34.88'
-average: '20.9370000000001'
+average: '20.3945454545455'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

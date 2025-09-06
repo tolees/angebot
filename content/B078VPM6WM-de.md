@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herausragendes optisches Design mit einem asphärischen Element für hohe Auflösung von der Bildmitte bis zum Rand
 - Lieferumfang: Streulichtblende (Modell): ALC-SH153, Vordere Objektivkappe: ALC-F55S, Hintere Objektivkappe: ALC-R1EM
+- Herausragendes optisches Design mit einem asphärischen Element für hohe Auflösung von der Bildmitte bis zum Rand
 - Moderne, lineare Motortechnologie für schnelle, präzise und leise Fokuskontrolle
 - APS-C Standard-Zoomobjektiv mit starker Vergrößerung
 

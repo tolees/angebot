@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Marke Beauty-Produkte
-- Gesichts-Make-up-Entferner
 - Qualitätsprodukt
+- Gesichts-Make-up-Entferner
 - Marke CLINIQUE
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

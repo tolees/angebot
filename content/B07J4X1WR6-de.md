@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINFACH & SICHER: Anti-Papierstau-Technologie, Dauerbetrieb von 6 min, LED-Signal für Abkühlungsphasen, Touch-Control-Bedienung, leicht zu leerender 23L Papierkorb (225 A4-Seiten), ECO-Schlafmodus
-- HOCHWERTIG & LEISTUNGSSTARK: Zerkleinert mit scharfen Klingen bis zu 10 Blatt (80 g/m²) bzw. 12 Blatt (70 g/m²) in einem Durchgang in ca. 400 Stücke pro A4 Blatt (4 x 28 mm, Partikelschnitt P4)
-- SEHR LEISE & KOMPAKT: Papierschredder passend für den täglichen Einsatz im Büro oder Home Office für eine ruhige Arbeitsumgebung (58 dB), Regelmäßige Verwendung von Leitz Ölpapier (80070000) empfohlen
-- TÜV SÜD & GS ZERTIFIZIERT: Geprüfter Papierschredder für eine sichere, effiziente Vernichtung vertraulicher Dokumente (Einhaltung DSGVO), Papier (auch z.B. gefaltet, hochglanz), Büro- & Heftklammern
 - SERVICE & LIEFERUMFANG: 1x Leitz IQ Aktenvernichter Home Office P4, Maße (LxBxH): 23,8x35,6x42cm, 6,5 kg, 80090000, Kostenlose Garantieverlängerung von 2 auf 3 Jahre bei Produktregistrierung; Bitte Hinweise zum Gebrauch in Bedienungsanleitung beachten
+- HOCHWERTIG & LEISTUNGSSTARK: Zerkleinert mit scharfen Klingen bis zu 10 Blatt (80 g/m²) bzw. 12 Blatt (70 g/m²) in einem Durchgang in ca. 400 Stücke pro A4 Blatt (4 x 28 mm, Partikelschnitt P4)
+- TÜV SÜD & GS ZERTIFIZIERT: Geprüfter Papierschredder für eine sichere, effiziente Vernichtung vertraulicher Dokumente (Einhaltung DSGVO), Papier (auch z.B. gefaltet, hochglanz), Büro- & Heftklammern
+- SEHR LEISE & KOMPAKT: Papierschredder passend für den täglichen Einsatz im Büro oder Home Office für eine ruhige Arbeitsumgebung (58 dB), Regelmäßige Verwendung von Leitz Ölpapier (80070000) empfohlen
+- EINFACH & SICHER: Anti-Papierstau-Technologie, Dauerbetrieb von 6 min, LED-Signal für Abkühlungsphasen, Touch-Control-Bedienung, leicht zu leerender 23L Papierkorb (225 A4-Seiten), ECO-Schlafmodus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07J4X1WR6{{</world>}}

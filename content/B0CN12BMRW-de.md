@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertiges material
 - Langlebig
+- Hochwertiges material
 - Flexible Gestaltung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

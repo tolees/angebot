@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unsere neuseeländischen Bioaktivstoffe stammen aus nachhaltiger biologischer Landwirtschaft, die die reinsten Inhaltsstoffe für die Vitalität der Haut produziert. Vinanza Traube & Kiwi kombiniert mit Vinanza Oxifend, roten Pinot Noir-Trauben und Mamaku-Schwarzfarn, um Ihre ultimative Schönheit mit frischem Gesicht zu liefern. Für die meisten Hauttypen geeignet.
 - Antipodes engagiert sich für die Wiederverwendung, Wiederverwendung und das Recycling, einschließlich der Verwendung recycelbarer Kartons aus 100 % biologisch abbaubarem Karton aus nachhaltiger Forstwirtschaft sowie Glasflaschen, Aluminiumtuben und Drucken mit 100 % Öko-Tinte aus Gemüse.
+- Unsere neuseeländischen Bioaktivstoffe stammen aus nachhaltiger biologischer Landwirtschaft, die die reinsten Inhaltsstoffe für die Vitalität der Haut produziert. Vinanza Traube & Kiwi kombiniert mit Vinanza Oxifend, roten Pinot Noir-Trauben und Mamaku-Schwarzfarn, um Ihre ultimative Schönheit mit frischem Gesicht zu liefern. Für die meisten Hauttypen geeignet.
 - Dieses Serum ist von BioGro New Zealand, einer international anerkannten und akkreditierten Organisation, die sicherstellt, dass die Formulierungen frei von toxischen Inhaltsstoffen sind, als biologisch zertifiziert.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

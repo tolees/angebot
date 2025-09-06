@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Produktlinie LEGO Architecture ist eine Hommage an die Welt der Architektur in Form von LEGO Steinen und spricht jeden an, der sich für Design, Architektur und Geschichte interessiert
-- Mit der Kollektion LEGO Architecture Skyline kannst du einige der weltweit schönsten Städte und Sehenswürdigkeiten als Bausatzmodelle nachbilden
+- Enthält das Flatiron Building, das Chrysler Building, das Empire State Building, das One World Trade Center sowie die Freiheitsstatue
 - Ebenfalls enthalten: eine 4x32-Grundplatte mit Platten und dem dekorativen Namensschild „New York City“
 - Das beiliegende Heft enthält Informationen über den Designer, die Architektur und die Geschichte der einzelnen Bauwerke sowie historische Fakten zu New York City
-- Enthält das Flatiron Building, das Chrysler Building, das Empire State Building, das One World Trade Center sowie die Freiheitsstatue
+- Die Produktlinie LEGO Architecture ist eine Hommage an die Welt der Architektur in Form von LEGO Steinen und spricht jeden an, der sich für Design, Architektur und Geschichte interessiert
+- Mit der Kollektion LEGO Architecture Skyline kannst du einige der weltweit schönsten Städte und Sehenswürdigkeiten als Bausatzmodelle nachbilden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B012NOGGHQ{{</world>}}

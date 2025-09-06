@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehr kompakt: Bis zu zwei Portionen in einer ultra kompakten Größe (1,6 l), optimal für kleine Haushalte
-- Thermostat: Die Temperatur ist einstellbar von 80° C bis zu 200° C; Timer (bis zu 30 Minuten); abnehmbare Teile sind spülmaschinengeeignet (Grillrost im Garkorb)
-- Sechs automatische Programme: Pommes frites, Grill, Snacks, Hühnchen, Fisch, Kuchen; digitales Display mit Touchscreen Interface
 - Easy Fry Compact Digital Heißluftfritteuse: Köstliches Essen für alle mit wenig bis gar keinem Öl
+- Thermostat: Die Temperatur ist einstellbar von 80° C bis zu 200° C; Timer (bis zu 30 Minuten); abnehmbare Teile sind spülmaschinengeeignet (Grillrost im Garkorb)
+- Sehr kompakt: Bis zu zwei Portionen in einer ultra kompakten Größe (1,6 l), optimal für kleine Haushalte
+- Sechs automatische Programme: Pommes frites, Grill, Snacks, Hühnchen, Fisch, Kuchen; digitales Display mit Touchscreen Interface
 - Lieferumfang: Tefal EY3018 Easy Fry Compact Digital Heißluftfritteuse, Bedienungsanleitung
 
 [🛒 Hier!!]({{< param buyurl >}})

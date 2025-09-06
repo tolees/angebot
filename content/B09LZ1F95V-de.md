@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ghostbusters Legacy Blu-ray
-- KÖRPERFILM
 - Sony Pictures Entertainment Deutschland GmbH
+- KÖRPERFILM
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09LZ1F95V{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIEFERUMFANG: Acer Aspire 5, Netzteil TASTATUR: beleuchtet, Nummernblock, QWERTZ Layout | TOUCHPAD | FINGERPRINTSENSOR
-- AKKULAUFZEIT: Bis zu 7,5 Stunden (basierend auf MobileMark 2018 Test) AKKU: Li-Ion Akku (3 Zellen / 48,85 Wh) ANWENDUNGSBEREICH: Dank der zahlreichen Funktionen des Acer Aspire 5 können Sie unzählige Aufgaben erledigen. Mit den neuesten Intel Core Prozessoren und je nach Modell vorhandenen NVIDIA Grafikkarten erleben Sie gestochen scharfes Multitasking und können Ihren Leidenschaften nachgehen.
 - ANSCHLÜSSE: 1xHDMI, DisplayPort über USB-C, Thunderbolt 4 über USB Type-C, 4xUSB 3.2 (1x USB Type -C Gen. 2, 3x USB Type-A Gen. 1 (1x mit Power-Off USB Charging)), 1xEthernet/LAN, 1xAudio Anschluss, KABELLOS: Bluetooth 5.2, WLAN
+- LIEFERUMFANG: Acer Aspire 5, Netzteil TASTATUR: beleuchtet, Nummernblock, QWERTZ Layout | TOUCHPAD | FINGERPRINTSENSOR
 - PROZESSOR: Intel Core i5-12450H (2,5 GHz mit bis zu 4,5 GHz Intel Turbo Boost Max Technology 3.0) GRAFIKKARTE: Intel UHD Grafik FESTPLATTE: 512 GB PCIe NVMe (SSD) ARBEITSSPEICHER: 16 GB DDR4 RAM
 - DISPLAY: Dank dem WQHD Bildschirm erleben Sie gestochen scharfe Bilder. WEBCAM: HD Webcam
+- AKKULAUFZEIT: Bis zu 7,5 Stunden (basierend auf MobileMark 2018 Test) AKKU: Li-Ion Akku (3 Zellen / 48,85 Wh) ANWENDUNGSBEREICH: Dank der zahlreichen Funktionen des Acer Aspire 5 können Sie unzählige Aufgaben erledigen. Mit den neuesten Intel Core Prozessoren und je nach Modell vorhandenen NVIDIA Grafikkarten erleben Sie gestochen scharfes Multitasking und können Ihren Leidenschaften nachgehen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C9R3ZYVH{{</world>}}

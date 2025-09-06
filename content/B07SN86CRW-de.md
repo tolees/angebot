@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pokemon 25 Jahre Jubiläum Aufkleber auf der Bo
 - Funko Pop Limited Edition
+- Pokemon 25 Jahre Jubiläum Aufkleber auf der Bo
 - Pokemon Merch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

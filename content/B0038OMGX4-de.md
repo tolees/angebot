@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPER Damen Peu Cami Sneakers  Schwarz  41 EU'
-date: 2025-09-03 14:32:52
+date: 2025-09-05 14:10:56
 image: 'https://m.media-amazon.com/images/I/31q1whEkQ7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Camper'
 buyurl: 'https://www.amazon.de/dp/B0038OMGX4/?tag=tolees0ca-21'
 descuento: '20.67'
-average: '114.991428571429'
+average: '115.88'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Obermaterial: Leder (Rindsleder)
 - Laufsohle/Eigenschaften: TPU-Laufsohle mit Contact Earth-Technologie für hohe Abriebfestigkeit
-- Farbe: Schwarz
 - Rundumnaht für hohe Langlebigkeit
 - Elastikriemen für bequeme Passform
+- Farbe: Schwarz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0038OMGX4{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: Warner Classics
 - The Complete Warner Classics Recordings
+- Marke: Warner Classics
 - Produkttyp: ABIS MUSIC
 
 [🛒 Hier!!]({{< param buyurl >}})

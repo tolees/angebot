@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alltagskomfort
 - Fitnesstraining
+- Alltagskomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07VFW6NHL{{</world>}}

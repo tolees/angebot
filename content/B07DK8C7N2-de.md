@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DER KOMPAKTE PORTRAIT-PROFI: Die besonders große Offenblende F1.4 macht das hochwertige 85mm EF Mount Objektiv außergewöhnlich lichtstark. 9 abgerundete Blendenlamellen sorgen für ein besonders harmonisches Bokeh & 18-strahlige Sonnensterne. Bildwinkel: 28,4° an Vollformat (19,0° an APS-C). Dabei mit nur 485g angenehm leicht & kompakt.
-- NEU ENTWICKELT FÜR SPIEGELREFLEX CANON EF KAMERAS: Speziell konstruiert für Canon Spiegelreflexkameras: Canon EOS 250D, EOS 90D, EOS 850D, EOS 200D, EOS 700D, EOS 5D Mark IV.
 - FÜR HÖCHSTE ANSPRÜCHE: Der Dual Linear Supersonic Motor bewegt den Autofokus schnell, präzise & leise. Mit AF/MF Schalter für einfachen Wechsel auf manuelles Fokussieren. Die speziell entwickelte Linsenkonstruktion (9 Elementen in 7 Gruppen) inklusive 1 Hybrid ASP-Linse sorgt für kristallklare Abbildungen. Mit UMC (Ultra Multi Coating) Vergütung gegen Reflexionen & Ghosting.
 - ANWENDUNGSGEBIETE: Perfekt für Portraitaufnahmen. Dank Wetterschutz und leichtem, robustem Aluminiumgehäuse das ideale Teleobjektiv für Reisen & Städtetrips. Auch hervorragend für Videoaufnahmen geeignet.
+- NEU ENTWICKELT FÜR SPIEGELREFLEX CANON EF KAMERAS: Speziell konstruiert für Canon Spiegelreflexkameras: Canon EOS 250D, EOS 90D, EOS 850D, EOS 200D, EOS 700D, EOS 5D Mark IV.
+- DER KOMPAKTE PORTRAIT-PROFI: Die besonders große Offenblende F1.4 macht das hochwertige 85mm EF Mount Objektiv außergewöhnlich lichtstark. 9 abgerundete Blendenlamellen sorgen für ein besonders harmonisches Bokeh & 18-strahlige Sonnensterne. Bildwinkel: 28,4° an Vollformat (19,0° an APS-C). Dabei mit nur 485g angenehm leicht & kompakt.
 - UMFANGREICHES ZUBEHÖR: Gegenlichtblende, Objektivdeckel, Bajonett Schutzkappe, Aufbewahrungsbeutel, Anleitung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

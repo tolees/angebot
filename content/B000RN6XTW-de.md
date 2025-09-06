@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 50 ml Eau de Toilette (EDT) Spray.
 - Ein Duft, der langanhaltend ist, bestehend aus Zitrusnoten
+- 50 ml Eau de Toilette (EDT) Spray.
 - Duftnoten: Aromatisch, Citrus, Fruchtig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

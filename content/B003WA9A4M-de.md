@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- doppelter Rückflussverhinderer
-- mit flexiblen Anschlussschläuchen
-- mit schwenkbaren 360° Auslauf
-- Edelstahlarmatur
 - keramische Dichtscheiben
+- mit schwenkbaren 360° Auslauf
+- mit flexiblen Anschlussschläuchen
+- Edelstahlarmatur
+- doppelter Rückflussverhinderer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003WA9A4M{{</world>}}

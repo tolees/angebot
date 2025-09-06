@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abläufe und Zeitpläne – Planen Sie bestimmte Zeiten zum Ein- oder Ausschalten Ihrer Glühbirnen ; Eingang: 220–240 V, 50/60 Hz, 73 mA
 - Fernzugriff – Steuern Sie Ihre Smarte Glühbirne bequem übers Smartphone mit Tapo App – überall und zu jeder Zeit
 - Lieferumfang - Tapo L510E, Schnellinstallationsanleitung
+- Abwesenheitsmodus – Lassen Sie Ihre Beleuchtung zu unterschiedlichen Zeiten automatisch an- und ausgehen, um die Anwesenheit einer Person zu simulieren
+- Dimmbares Licht – Wählen Sie mit individuell einstellbarer Helligkeit die Beleuchtung, die zur Situation passt
+- Abläufe und Zeitpläne – Planen Sie bestimmte Zeiten zum Ein- oder Ausschalten Ihrer Glühbirnen ; Eingang: 220–240 V, 50/60 Hz, 73 mA
 - Funktioniert nur mit 2,4-GHz-WLAN. Wenn Sie ein Problem haben oder das Produkt zurücksetzen möchten, besuchen Sie bitte die TP-Link-Supportseite
 - Sprachsteuerung – Kompatibel mit Amazon Alexa oder Google Assistant
-- Dimmbares Licht – Wählen Sie mit individuell einstellbarer Helligkeit die Beleuchtung, die zur Situation passt
-- Abwesenheitsmodus – Lassen Sie Ihre Beleuchtung zu unterschiedlichen Zeiten automatisch an- und ausgehen, um die Anwesenheit einer Person zu simulieren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QRPVW9S{{</world>}}

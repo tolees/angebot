@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Abtriebsprofilgröße, metrisch: 12,5 mm | Abtriebsprofilgröße, Zollmaß: 1/2"
-- Belastbarkeit max.: 614Nm
 - Länge: 610 mm
 - gefertigt aus Chrom-Vanadium-Stahl
+- Abtriebsprofilgröße, metrisch: 12,5 mm | Abtriebsprofilgröße, Zollmaß: 1/2"
+- Belastbarkeit max.: 614Nm
 - Abtriebsprofil: Außenvierkant
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

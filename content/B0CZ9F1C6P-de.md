@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auf Geschwindigkeit optimierte microSD Speicherkarte perfekt für den Einsatz in Smartphones und Tablets (inkl. SD Adapter)
 - Bis zu 512 GB Speicherkapazität für bis zu 30 Stunden Aufnahmezeit von 4K UHD Videos oder 207.159 Fotos
 - Geeignet für 4K UHD- und Super Slow Motion Aufnahmen mit bis zu 160 MB/s Übertragungsgeschwindigkeit (UHS-I U3)
+- Auf Geschwindigkeit optimierte microSD Speicherkarte perfekt für den Einsatz in Smartphones und Tablets (inkl. SD Adapter)
 - Besonders robust dank 6-fach Schutz: Wasserfest, temperaturbeständig, röntgensicher, magnetresistent, sturzsicher & verschleißfrei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

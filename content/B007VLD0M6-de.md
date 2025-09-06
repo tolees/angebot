@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3-er Set
 - inklusive Klarsichtbox
 - Karabinerhaken aus eloxiertem Aluminium
+- 3-er Set
 - TÜV geprüft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

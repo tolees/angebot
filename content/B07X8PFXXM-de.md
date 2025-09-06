@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Känguru-Tasche vorne
 - Baumwolle, Polyester und Elasthan
 - Kapuze mit Kordelzug
 - PUMA Cat Logo auf der rechten Brust
+- Känguru-Tasche vorne
 - Langärmlig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

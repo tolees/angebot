@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 3 x Verlängerungen Außen-/Innenvierkant 12,5 mm (1/2"): 50 - 125 - 250 mm
+- Oberflächenvergütung: verchromt, matt
 - mit Rändelung
 - gefertigt aus Chrom-Vanadium-Stahl
-- Oberflächenvergütung: verchromt, matt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001ILAF50{{</world>}}

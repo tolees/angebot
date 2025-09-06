@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BASIC - Ein Allrounder für Everyday Tragekomfort. JACHUEY
 - MATERIAL - 95% Baumwolle, 5% Elasthan
 - PERFEKT- Kurze Unterhose mit Logo bedrucktem Gummizug.
+- BASIC - Ein Allrounder für Everyday Tragekomfort. JACHUEY
 - PASSFORM - Oberschenkellanger Slim Fit Schnitt.
 - JACHUEY TRUNKS 7 PACK NOOS
 

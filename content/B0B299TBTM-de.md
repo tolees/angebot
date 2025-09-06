@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzhhe: 00 cm
-- Schuhweite: schmal
-- Lining: ungefüttert
-- Leder: lackleder
 - Obermaterial: synthetik
+- Lining: ungefüttert
 - Absatzform: flach
-- Innenmaterial: synthetik
+- Schuhweite: schmal
 - Verschluss: gummi
+- Absatzhhe: 00 cm
+- Leder: lackleder
+- Innenmaterial: synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B299TBTM{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Basierend auf der Boruto Naruto Next Generations Anime-Serie
-- Zeichnen Sie auf Inojin, um Ihre Boruto Next Generations Kollektion mit diesem Pop! Inojin
 - Hergestellt aus hochwertigem Vinyl-Material
+- Zeichnen Sie auf Inojin, um Ihre Boruto Next Generations Kollektion mit diesem Pop! Inojin
 - Inojin Inojins Zeichnungen sind bereit, zum Leben zu erwecken, als Pop! Inojin trägt seine Schriftrolle und Pinsel.
+- Basierend auf der Boruto Naruto Next Generations Anime-Serie
 - Vinyl figure is 8.9 cm tall.
 
 [🛒 Hier!!]({{< param buyurl >}})

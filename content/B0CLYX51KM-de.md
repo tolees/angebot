@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Freiliegender Schaumstoff legt eine weiche Schicht unter Ihre Füße.
 - Das Obermaterial aus Leder altert perfekt und sorgt so für ideale Weichheit.
+- Freiliegender Schaumstoff legt eine weiche Schicht unter Ihre Füße.
 - Wählen Sie aus einer Vielzahl von College-inspirierten Farbvarianten, die zu jeder Stimmung und jedem Look passen.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- t-shirt zum training oder zur präsentation
-- leichte elastische eigenschaften
-- rundhalskrasen
-- Sporttyp: Fußball
 - großer nike logo print
+- Sporttyp: Fußball
+- t-shirt zum training oder zur präsentation
+- rundhalskrasen
+- leichte elastische eigenschaften
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QW9SK1K{{</world>}}

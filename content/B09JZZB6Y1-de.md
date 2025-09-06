@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit deinem Jetpack springen, düsen und gleiten sowie die fantastische offene Welt des Spiels in rasanter Geschwindigkeit durchqueren
 - Dich mit der Kultur der Talaner vertraut machen, während du ihnen bei der Befreiung ihrer Dörfer und der Suche nach uralten talanischen Kräften hilfst, um deine Gegner mit Naturgewalten zu vernichten
-- Die Welt ohne Grenzen erkunden und dabei auf verborgene Tempel und gefährliche Tiere stoßen
 - Eine wunderschöne, handgefertigte Welt erleben, die mit einem epischen Soundtrack aus der Feder von Lennie Moore, dem Komponisten des ersten Outcast-Teils, untermalt ist
 - Dutzende unterschiedliche Module miteinander kombinieren, um deine eigene Waffe zu erschaffen, mit der du die Roboterinvasoren erledigst
+- Mit deinem Jetpack springen, düsen und gleiten sowie die fantastische offene Welt des Spiels in rasanter Geschwindigkeit durchqueren
+- Die Welt ohne Grenzen erkunden und dabei auf verborgene Tempel und gefährliche Tiere stoßen
 - Die totale Kontrolle haben, damit du die Geschichte in dieser nicht-linearen Welt in deinem eigenen Tempo erleben kannst
 
 [🛒 Hier!!]({{< param buyurl >}})

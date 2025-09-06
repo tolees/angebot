@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2-seitig Nutzbar: Das Liegekissen besteht auf der einen Seite aus einem warmen Softplüschbezug und auf der anderen Seite aus einem weichen Velourstoff.
 - Hoher Liegekomfort: das Liegekissen ist gefüllt mit PP-Watte und sorgt somit für einen angenehmen und wohligen Liegekomfort.
 - Einfache Reinigung: geben Sie das Liegekissen zur Reinigung einfach komplett bei 30° in die Waschmaschine.
+- 2-seitig Nutzbar: Das Liegekissen besteht auf der einen Seite aus einem warmen Softplüschbezug und auf der anderen Seite aus einem weichen Velourstoff.
 - Viele Einsatzbereiche: Das Liegekissen bietet sich optimal an um Transportboxen, Katzenhäuser, Hundehütten oder dergleichen zu gemütlicher zu gestalten.
 - Zeitloses Design: Durch sein schlichtes Design fügt sich das Haustierkissen gut in die meisten Räumlichkeiten ein.
 
