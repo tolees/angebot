@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sehr warm wattierte Innenjacke
-- Bluesign-zertifiziert
-- Belüftungsreißverschlüsse
 - 3-in-1-Jacke
 - Sehr wasserdicht, winddicht
+- Bluesign-zertifiziert
+- Belüftungsreißverschlüsse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BXVP74LX{{</world>}}

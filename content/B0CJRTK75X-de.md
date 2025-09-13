@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Columbia Herren Gebrauchshose, Silver Ridge, Farbe: Grau (City Grey), Größe: W36/L32, Art. 2012952
 - Omni-Wick-Technologie für ein hohes Maß an Wasserfestigkeit, Omni-Shade Broad Spectrum-Sonnenschutz UPF 50
+- Lieferumfang: 1x Columbia Herren Gebrauchshose, Silver Ridge, Farbe: Grau (City Grey), Größe: W36/L32, Art. 2012952
 - Hergestellt aus Polyester, Reguläre Passform: Universelle, leichte Passform für komfortable Bewegungsfreiheit
 - Sicherheitstasche mit Reißverschluss für sicher und trocken aufbewahrte Gegenstände beim Erkunden, Gesäßtaschen
 - Funktionelle Herren-Wanderhose, Bequeme Passform mit teilweise elastischem Bund und abnehmbarem Gürtel

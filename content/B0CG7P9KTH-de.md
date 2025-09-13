@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NEW POLAROID GO Gen 2 CAMERA: The Polaroid GO is so cute you want to squeeze its cheeks. Create big, with the tiniest member of the Polaroid family. Now with 30% recycled plastic.
 - SELF-TIMER & SELFIE-READY: Find your light with the reflective selfie mirror, and pick your pose with plenty of time, thanks to the self-timer.
+- NEW POLAROID GO Gen 2 CAMERA: The Polaroid GO is so cute you want to squeeze its cheeks. Create big, with the tiniest member of the Polaroid family. Now with 30% recycled plastic.
+- CREATE BIG, SMALLER: Portable, wearable, and take-anywhere-able. The Polaroid Go camera is your new mini partner in creativity.
 - DOUBLE EXPOSURE, HALF THE SIZE: Add another layer to your creative vision with the easy-to-use double exposure feature.
 - NEW FILM FORMAT: The Polaroid Go camera only takes Polaroid Go format film. Its the same Polaroid magic you know and love, only smaller.
-- CREATE BIG, SMALLER: Portable, wearable, and take-anywhere-able. The Polaroid Go camera is your new mini partner in creativity.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CG7P9KTH{{</world>}}

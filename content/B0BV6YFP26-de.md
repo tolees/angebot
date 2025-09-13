@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Motorik wird spielerisch gefördert
 - Spielzeug für Kinder ab 18 Monaten
+- Motorik wird spielerisch gefördert
 - Hochwertiges, farbenfrohes Design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

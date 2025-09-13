@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Handhabung: Der Name Easy Squeez- e ist Programm, denn durch einfaches Quetschen des formschönen Spenders wird die portionierte Menge an Seife, Lotion, Spülmittel oder Duschgel abgegeben
-- Ausgezeichneter Komfort: Der Spülmittelspender wurde von der unabhängigen Jury des Plus X Awards im Jahre 2017 für Bedienkomfort und Funktionalität ausgezeichnet
 - Nachfüllbarer Spülmittelspender: Der praktische Küchenhelfer kann als Spülmittelspender sowie auch als Seifenspender für Handseife am Spülbecken und in Bad oder Gäste-WC eingesetzt werden
 - Lieferumfang: Easy Squeez-e Spülmittelspender von WENKO, moderner Seifenspender aus Silikon, Fassungsvermögen ca. 250 ml, Maße (B/T x H): Ø 6 x 14 cm
+- Einfache Handhabung: Der Name Easy Squeez- e ist Programm, denn durch einfaches Quetschen des formschönen Spenders wird die portionierte Menge an Seife, Lotion, Spülmittel oder Duschgel abgegeben
+- Ausgezeichneter Komfort: Der Spülmittelspender wurde von der unabhängigen Jury des Plus X Awards im Jahre 2017 für Bedienkomfort und Funktionalität ausgezeichnet
 - Puristische Form: Die schlichte und doch originelle Form des Seifenspenders, der aus auslaufsicherem Silikon im schlichten Grau gefertigt ist, macht an Spüle und Waschbecken immer eine gute Figur
 
 [🛒 Hier!!]({{< param buyurl >}})

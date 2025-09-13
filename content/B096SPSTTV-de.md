@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Natur neu entdecken bis in die Dämmerung – durch das lichtstarke Dachkant-Fernglas mit voll mehrschichtvergütetem BaK-4-Glas
-- Lieferumfang: Fernglas, Staubschutzkappen, Tragetsche, Tragegurt, Linsenputztuch, Bedienungsanleitung
-- Maße: 175 x 150 x 66 mm / Gewicht: 1072 g
 - Kompaktes Dachkant-Fernglas, Vergrößerung: 8x / Objektivdurchmesser: 56 mm, Mitteltrieb-Fokussierung, Nahfokus: 3 Meter, Sehfeld: 101 m (auf 1000 m Entfernung)
 - Dank des Dioptrienausgleichs (+/-4) und der Twist-up-Augenmuscheln auch perfekt für Brillenträger geeignet, voll mehrschichtvergütetes BaK-4 Glas
+- Maße: 175 x 150 x 66 mm / Gewicht: 1072 g
+- Lieferumfang: Fernglas, Staubschutzkappen, Tragetsche, Tragegurt, Linsenputztuch, Bedienungsanleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B096SPSTTV{{</world>}}

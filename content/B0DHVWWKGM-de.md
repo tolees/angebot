@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Leder
 - Textilfutter
-- Der Größe entsprechend
+- Obermaterial aus Leder
 - Gummiaußensohle
+- Der Größe entsprechend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHVWWKGM{{</world>}}

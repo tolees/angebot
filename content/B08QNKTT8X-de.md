@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Absatzform: Flach
-- Innenmaterial: Textil
-- Sohle: Gummi
-- Obermaterial: Leder
 - Verschluss: Klettverschluss
+- Obermaterial: Leder
+- Sohle: Gummi
+- Innenmaterial: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QNKTT8X{{</world>}}

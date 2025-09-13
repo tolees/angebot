@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Qualität/Haltbarkeit
 - H7 12V 55W
-- Die besten Produkte
-- E-Zulassung
 - Gut zu gebrauchen
+- E-Zulassung
+- Die besten Produkte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001BAZKPI{{</world>}}

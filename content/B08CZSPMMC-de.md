@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100% Polyester
-- Jacket für Damen, Teddyfell, Teddyjacke
-- Maschinenwäsche
 - Mantel, Kapuze, gemütlich, Reißverschluss
+- Maschinenwäsche
+- Jacket für Damen, Teddyfell, Teddyjacke
+- 100% Polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08CZSPMMC{{</world>}}

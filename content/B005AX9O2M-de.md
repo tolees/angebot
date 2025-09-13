@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnürung
 - Obermaterial: Leder
+- Verschluss: Schnürung
 - Sohle: Ethylen-Vinylacetat
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

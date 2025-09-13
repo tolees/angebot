@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform: Schlank
 - bequeme Stretch Qualität mit 85% Baumwolle (davon 10% nachhaltig produzierte Bio-Baumwolle) und 2% Elasthan
+- Passform: Schlank
 - niedriger Taillensitz, klassischer 5-Pocket Style, Tabacco-Nähte, Gürtelschlaufen
 - Slim-Fit Jeans mit geradem Beinschnitt, leichter Faded-Look
 

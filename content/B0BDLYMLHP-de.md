@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Offizielle Lizenz
 - Figur zum Spielen und auch zum Dekorieren
 - Star Wars Fanartikel
-- Offizielle Lizenz
 - Star Wars Geschenke
 - Sammlerfigur
 

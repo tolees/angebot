@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Duftnoten: Würzig, Holzig
 - Hauttyp: Normale Haut
-- Durch die Duftzusammensetzung von BOSS entsteht ein intensiver und langhaltender Duft
 - Vibrant with fresh and sensuous notes, the fragrance exudes distinction, sophistication and pure joie de vivre
+- Duftnoten: Würzig, Holzig
+- Durch die Duftzusammensetzung von BOSS entsteht ein intensiver und langhaltender Duft
 - Ein schönes maskulines Herrenduschgel - duftet nach Hugo Boss Bottled
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

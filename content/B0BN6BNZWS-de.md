@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserbeständigkeitsgrad : Nicht wasserfest
 - Absatzform : Blockabsatz
+- Wasserbeständigkeitsgrad : Nicht wasserfest
 - Schuhweite : Medium
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

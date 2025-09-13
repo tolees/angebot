@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vegeta
 - POP! Vinylfigur
-- Yes
+- Vegeta
 - Dragonball Z
+- Yes
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KZFY812{{</world>}}

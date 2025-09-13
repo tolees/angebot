@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - interner Speicher: 256GB, Xiaomi HyperOS Android 14
-- 16.97 cm (6.67Zoll) AMOLED Display mit 2.712 x 1.220 Pixel; bis zu 120Hz
-- 2.5 GHz MediaTek Dimensity 7300 - Ultra; 8-Kern-Prozessor
-- Farbe: Lila
 - 200 Megapixel Hauptkamera mit optischer Bildstabilisierung
+- 16.97 cm (6.67Zoll) AMOLED Display mit 2.712 x 1.220 Pixel; bis zu 120Hz
+- Farbe: Lila
+- 2.5 GHz MediaTek Dimensity 7300 - Ultra; 8-Kern-Prozessor
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DPHKW26P{{</world>}}

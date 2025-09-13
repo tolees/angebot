@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 2-fach gesichertes Entleerungsventil
 - 3 Lagen SUPER-TOUGH Material
-- Hohe Stabilität durch integrierte Stützkonstruktion
 - Pool Ø 366 x 76 cm
+- Hohe Stabilität durch integrierte Stützkonstruktion
 - Folienstärke Wand 0, 50 mm
 - Wasserinhalt bei 90 % Befüllung: 6. 503 l
 - Folienstärke Boden 0, 32 mm

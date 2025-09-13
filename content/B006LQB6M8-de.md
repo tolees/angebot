@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - trocknet blitzschnell
-- kein Verschmieren, auch für Linkshänder geeignet
 - mit allen EnerGel Minen nachfüllbar (LRN5, LR7, LR10)
+- kein Verschmieren, auch für Linkshänder geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B006LQB6M8{{</world>}}

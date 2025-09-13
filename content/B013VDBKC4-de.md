@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Längere Lebensdauer dank Power Protection Plus
-- Bitte verwenden Sie den Fahrzeugkonfigurator oben auf dieser Seite, um sicher zu stellen, dass der Scheibenwischer auf Ihr Fahrzeug passt, und beachten Sie alle Einschränkungen
 - Schnelle und leichte Montage mit vormontiertem Adapter
+- Bitte verwenden Sie den Fahrzeugkonfigurator oben auf dieser Seite, um sicher zu stellen, dass der Scheibenwischer auf Ihr Fahrzeug passt, und beachten Sie alle Einschränkungen
 - Lieferumfang: 1 Set für Frontscheibe, Fahrerseite (Länge: 500mm) und Beifahrerseite (Länge: 360mm)
 - Hervorragende Wischleistung bei jeder Witterung
 

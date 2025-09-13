@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
 - Obermaterial: Leder
+- Verschluss: Reißverschluss
+- Sohle: Gummi
 - Innenmaterial: Wolle
 - Absatzform: Flach
-- Verschluss: Reißverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07B24QD4Z{{</world>}}

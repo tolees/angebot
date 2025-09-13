@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlanke Form, elegantes Design
-- Hohe Leistung trifft geringen Stromverbrauch
 - AMD Ryzen-Ready
+- Schlanke Form, elegantes Design
 - Leistungsstarke SODIMM-Performance
-- Plug-and-Play Funktionalität für eine automatische Übertaktung¹
+- Hohe Leistung trifft geringen Stromverbrauch
 - Intel XMP-Ready Profile
+- Plug-and-Play Funktionalität für eine automatische Übertaktung¹
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B097TM7G7D{{</world>}}

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfache Installation: Dieses Schutzglas wird durch Plasmaspritzen und Auto-Adsorptions-Technologie angetrieben somit kann einfach ohne Blasen.Bitte folgen Sie den Anweisungen zu Installation, um Fehler zu vermeiden
+- Achtung: Diese Schutzfolie wurde speziell für Xiaomi Redmi Note 13 und Note 13 Pro 4G/5G 2024 6,67 Zoll, nicht kompatibel mit Note 13 Pro Plus（Pro+） /Redmi 13C und anderen Modellen.
 - Empfindliche Berührung: Nur 0,33 mm dicke Redmi Note 13 /13 Pro ultraklare transparente Displayfolie , behält die ursprüngliche Berührung beibehält und das uursprüngliche Seherlebnis Ihres Geräts
 - Härtegrad 9H:Dieses gehärtete Glas für Xiaomi Redmi Note 13/13 Pro hat einen Härtegrad von 9H, das kratzfest und bruchsicher ist,der Ihr Handy effektiv vor Kratzern durch Schlüssel oder andere harte Gegenstände schützen
 - Hüllenfreundlich: Alle Seiten sind mit speziell entworfenen runden 2,5-D-Kanten für zusätzlichen Komfort und verbesserten Kantenschutz belassen, während diese Redmi Note 13/13 Pro Displayschutzfolie frei auf Ihre Handyhülle passt
-- Achtung: Diese Schutzfolie wurde speziell für Xiaomi Redmi Note 13 und Note 13 Pro 4G/5G 2024 6,67 Zoll, nicht kompatibel mit Note 13 Pro Plus（Pro+） /Redmi 13C und anderen Modellen.
 - Achtung: Xiaomi-Handymodelle sind ähnlich, Sie können das Telefonmodell vor dem Kauf über "Einstellungen" - "Mein Telefon" überprüfen um den Kauf eines falschen Produkts zu vermeiden.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - großer Logo-Druck vorne
-- Maschinenwäsche
 - Rundhals Ausschnitt
-- normaler Schnitt
+- Maschinenwäsche
 - 60% Baumwolle, 40% Polyester
+- normaler Schnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B004QWRI3K{{</world>}}

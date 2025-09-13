@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Synthetik
-- Absatzform: Kein Absatz
 - Verschluss: Gummi
+- Absatzform: Kein Absatz
 - Innenmaterial: Textil
+- Obermaterial: Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NJNV7HG{{</world>}}

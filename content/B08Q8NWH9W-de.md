@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Schaumstoff-Zwischensohle
 - Hausschuhe aus Gummi
 - Hochwertiges Lederimitat
 - Gepolstertes Fußbett
 - Schuhweite: Mittel
-- Schaumstoff-Zwischensohle
 - Passform: Regulär
 - Idealer Komfort
 

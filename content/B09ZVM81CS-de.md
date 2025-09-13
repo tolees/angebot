@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - The Complete Warner Classics Recordings
-- Produkttyp: ABIS MUSIC
 - Marke: Warner Classics
+- Produkttyp: ABIS MUSIC
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVM81CS{{</world>}}

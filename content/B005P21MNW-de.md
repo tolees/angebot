@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- leistung: z.b. bei 100 v – 1600 w / 250 v – 4000 w
-- nutzbar für reisende aus aller welt, wie z.b. aus australien, schweiz, italien, uk, japan, usa; kein schuko-eingang
-- Kompatible geräte: Schuko-Stecker
-- geeignet für den anschluss von 2- und 3-pol-geräten
 - kompakter reiseadapter für reisen in länder, die den schuko-standard verwenden.
+- geeignet für den anschluss von 2- und 3-pol-geräten
+- nutzbar für reisende aus aller welt, wie z.b. aus australien, schweiz, italien, uk, japan, usa; kein schuko-eingang
+- leistung: z.b. bei 100 v – 1600 w / 250 v – 4000 w
+- Kompatible geräte: Schuko-Stecker
 - safe - simple - swiss: schweizer qualität steht für durchdachtes design, intuitive und einfache handhabung sowie einhaltung relevanter internationaler sicherheitsnormen.
 
 [🛒 Hier!!]({{< param buyurl >}})

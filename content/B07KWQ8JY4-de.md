@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mirabel trägt eine kultige Brille, Pom-Pom-Ohrringe und Espadrille-Schuhe zu ihrem Kleid, das durch authentische Filmdetails und -designs auffällt.
 - Diese wunderschöne Puppe wird für Kinder ab 3 Jahren empfohlen.
+- Mirabel trägt eine kultige Brille, Pom-Pom-Ohrringe und Espadrille-Schuhe zu ihrem Kleid, das durch authentische Filmdetails und -designs auffällt.
 - Die Puppe Mirabel ist 26cm groß und hat bewegliche Gliedmaßen und eine wunderschöne lockige Frisur.
 - Enthalten: 1 Puppe, 1 Puppenkleid, 1 Blumen-Haarspange, 1 Paar Puppenschuhe
 

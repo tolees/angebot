@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Funktionen: Anzeige der Höchst- und Tiefstwerte werden als wichtige Informationen zur Raumklimakontrolle angegeben
-- Lieferumfang: Zum Lieferumfang gehört die Basisstation, ein Aussensensor bzw. Temperatursensor (kabellos) und eine Bedienungsanleitung
 - Außensender: Zwei weitere Sender (separat erhältlich) zur Temperaturkontrolle sind anschließbar, z. Bsp. für den Keller, Schlafzimmer oder Garage
-- Digitales Thermometer: Das Thermometer mit Funk verfügt über eine digitale Anzeige der aktuellen Raum- und Außentemperatur
+- Funktionen: Anzeige der Höchst- und Tiefstwerte werden als wichtige Informationen zur Raumklimakontrolle angegeben
 - Funkthermometer: Messung der Innen- und Außentemperatur, Thermometer mit Sensoren für Innen und Außensensor für Außen
+- Digitales Thermometer: Das Thermometer mit Funk verfügt über eine digitale Anzeige der aktuellen Raum- und Außentemperatur
+- Lieferumfang: Zum Lieferumfang gehört die Basisstation, ein Aussensensor bzw. Temperatursensor (kabellos) und eine Bedienungsanleitung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B081FLR6WR{{</world>}}

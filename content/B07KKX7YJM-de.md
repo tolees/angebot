@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Rundhalsausschnitt
 - Langer Saum hinten
 - Nike Swoosh Logo auf der linken Brust
-- Rundhalsausschnitt
 - Dri-FIT-Technologie
 
 [🛒 Hier!!]({{< param buyurl >}})

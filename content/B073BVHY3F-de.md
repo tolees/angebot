@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - The Nintendo Classic Mini: Super Nintendo Entertainment System has the same look and feel of the original system only smaller and comes pre-loaded with 21 games.
-- Step back into the 90s and re-experience some timeless classics when the Nintendo Classic Mini: Super Nintendo Entertainment System
-- The Nintendo Classic Mini: Super Nintendo Entertainment System contains 21 pre-installed classic games - classics such as Super Mario World, The Legend of Zelda: A Link to the Past, Super Mario Kart, Super Metroid and -ZERO
-- Launched in Europe in 1992, the Super Nintendo introduced what many consider some of the greatest video games of all time
 - This refurbished product is tested and certified to look and work like new. The refurbishing process includes functionality testing, basic cleaning, inspection, and repackaging. The product ships with all relevant accessories, and may arrive in a generic box
+- Step back into the 90s and re-experience some timeless classics when the Nintendo Classic Mini: Super Nintendo Entertainment System
+- Launched in Europe in 1992, the Super Nintendo introduced what many consider some of the greatest video games of all time
+- The Nintendo Classic Mini: Super Nintendo Entertainment System contains 21 pre-installed classic games - classics such as Super Mario World, The Legend of Zelda: A Link to the Past, Super Mario Kart, Super Metroid and -ZERO
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B073BVHY3F{{</world>}}

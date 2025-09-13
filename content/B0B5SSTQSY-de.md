@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EINFACHER, SCHNELLER AUFBAU UND FLEXIBLE PROJEKTION: Verstellbarer 135-Grad-Projektionswinkel, automatische vertikale Keystone-Korrektur
-- TRAGBARER MINI-BEAMER: HDMI1.4 und USB-A als Anschlussmöglichkeiten für Mediareader, mit Tragetasche und fallsicher bis 50 cm für aktiven Lifestyle
-- SURROUND-LAUTSPRECHER: 270° 5-Watt-Lautsprecher mit Bass Extension
 - GROSSE, KLARE KINOBILDER: 480p Auflösung und 200 ANSI-Lumen für Streaming-Spaß im Großformat bequem zuhause
+- TRAGBARER MINI-BEAMER: HDMI1.4 und USB-A als Anschlussmöglichkeiten für Mediareader, mit Tragetasche und fallsicher bis 50 cm für aktiven Lifestyle
+- EINFACHER, SCHNELLER AUFBAU UND FLEXIBLE PROJEKTION: Verstellbarer 135-Grad-Projektionswinkel, automatische vertikale Keystone-Korrektur
+- SURROUND-LAUTSPRECHER: 270° 5-Watt-Lautsprecher mit Bass Extension
 - ALL-IN-ONE-ENTERTAINMENT: Integriertes, zertifiziertes Android TV, kabellose Übertragung per AirPlay und Chromecast. HINWEIS: Netflix unterstützt nur bestimmte Geräte und ist werkseitig nicht auf BenQ Smart Beamern verfügbar.
 
 [🛒 Hier!!]({{< param buyurl >}})

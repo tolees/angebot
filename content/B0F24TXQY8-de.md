@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Konnersports Vermächtnis nach Braking Point: Zum ersten Mal kannst du deine Erfahrung mit Konnersport auch auf andere Spielmodi ausweiten; Sobald du Braking Point beendet hast, kannst du mit dem Team die Fahrerkarriere oder My Team starten
-- Besitze selbst ein Team in My Team 2,0: Erstelle deine eigene F1Geschichte im beliebten My-Team-Modus mit dem größten Update seit seiner Einführung In My Team übernimmst du als Besitzer:in deines eigenen Formula One-Teams die Kontrolle über die Entwicklung der Fahrer:innen und des Teams selbst
 - Erlebe das nächste aufregende Kapitel von Braking Point Das: Vermächtnis des Konnersport-Teams steht auf dem Spiel, als ein dramatisches Ereignis das Team ins Chaos stürzt
+- Besitze selbst ein Team in My Team 2,0: Erstelle deine eigene F1Geschichte im beliebten My-Team-Modus mit dem größten Update seit seiner Einführung In My Team übernimmst du als Besitzer:in deines eigenen Formula One-Teams die Kontrolle über die Entwicklung der Fahrer:innen und des Teams selbst
 - EA SPORTS F1 25 ist die offiziellen Videospiel der FIA Formula One World Championship 2025, ein Zeichen in der Welt des Rennsports, Die Standard Edition bietet einen überarbeiteten My Team Modus und das spannende dritte Kapitel von Braking Point
 - In My Team übernimmst du als Besitzer:in deines eigenen Formula One-Teams die Kontrolle über die Entwicklung der Fahrer:innen und des Teams selbst
 

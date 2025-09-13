@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Linearer Motor für eine präzise, ruhige Fokussierung
 - Lichtstarkes Teleobjektiv
+- Zirkuläre Blende mit neun Lamellen für wunderschöne Unschärfe-Effekte, minimale Fokusentfernung 0,8 m
 - Lieferumfang : SEL-85F18, Kappe: ALC-SH150, vordere Objektivkappe: ALC-F67S, hintere Objektivkappe: ALC-R1EM
 - ED-Glas kompensiert Abbildungsfehler
-- Linearer Motor für eine präzise, ruhige Fokussierung
-- Zirkuläre Blende mit neun Lamellen für wunderschöne Unschärfe-Effekte, minimale Fokusentfernung 0,8 m
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06VTFTZ17{{</world>}}

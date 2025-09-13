@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Baumwollmischung
-- Kapuze mit Kordel
 - Markendetails
+- Baumwollmischung
 - gerippte Bündchen
 - bequemer Hoodie
+- Kapuze mit Kordel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07B5TYD76{{</world>}}

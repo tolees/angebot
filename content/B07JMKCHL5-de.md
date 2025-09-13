@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ravensburger Exit Puzzle: Puzzeln - Rätseln Lösen! Die EXIT Puzzles bieten mysteriöse Puzzlemotive, die mit viel Liebe zum Detail illustriert wurden, spannende Rätsel rund um eine geheimnisumwobene Mission
-- Entdecke die Ravensburger Qualitätsmerkmale auf einen Blick: Formenvielfalt durch handgefertigte Stanzmesser, passgenaue Puzzleteile, reflexfreies Puzzlebild durch Naturleinenprägung, knickstabile Puzzleteile, hergestellt aus recycelter Pappe
 - Ravensburger EXIT Puzzles sind das beste Geschenk zu jedem Anlass: Geburtstag, Weihnachten, Ostern oder einfach als tolle Freizeitbeschäftigung
+- Entdecke die Ravensburger Qualitätsmerkmale auf einen Blick: Formenvielfalt durch handgefertigte Stanzmesser, passgenaue Puzzleteile, reflexfreies Puzzlebild durch Naturleinenprägung, knickstabile Puzzleteile, hergestellt aus recycelter Pappe
+- Ravensburger Exit Puzzle: Puzzeln - Rätseln Lösen! Die EXIT Puzzles bieten mysteriöse Puzzlemotive, die mit viel Liebe zum Detail illustriert wurden, spannende Rätsel rund um eine geheimnisumwobene Mission
 - Ob mit Freunden oder Alleine: wenn der Puzzlespaß zu Ende ist, geht es ans Eingemachte und die EXIT Mission startet
 - Jedes Ravensburger EXIT Puzzle enthält ein detailreiches Puzzle-Motiv im Format 70x50 cm mit 759 Teilen, einen Lösungsumschlag und eine Anleitung. Ab 12 Jahre geeignet
 

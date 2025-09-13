@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Fit: Normal
-- MittlereTaille
 - Model: 2063076
+- MittlereTaille
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07V2FKF68{{</world>}}

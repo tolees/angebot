@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Filterkartusche A
-- Kartuschenfilter 5.678 l/h
 - Anschluss: O 38 mm mit Verschraubung 2" IG
 - geringer Stromverbrauch, nur 165 Watt
+- Filterkartusche A
+- Kartuschenfilter 5.678 l/h
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00G9YZ2Y0{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 GHz Unisoc Tiger T616 Octa-Core-Prozessor
-- 50 Megapixel Hauptkamera
 - 16,5 cm (6,5 Zoll) IPS Display mit 1080 x 2400 Pixel
 - 128 GB interner Speicher, Wassergeschützt, Android 13.0
 - Farbe: grausilber
+- 2 GHz Unisoc Tiger T616 Octa-Core-Prozessor
+- 50 Megapixel Hauptkamera
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CC678WS9{{</world>}}

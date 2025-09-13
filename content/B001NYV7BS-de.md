@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- DER RICHTIGE DREH: Dank KS Tools Drehmomentschlüssel lässt sich das Drehmoment auf die Werte 80-420 Nm schnell und einfach einstellen. Mit einer Doppelskala in Nm und lbfft ist die Einstellung sehr genau
 - KS TOOLS: Als weltweit führender Hersteller von Profi Werkzeugen & Werkstatteinrichtungen, bieten wir erstklassige Produkte mit großer Flexibilität! Ein überzeugendes Sortiment mit Handwerkzeugen, KFZ-Spezialwerkzeugen, Sanitärwerkzeugen uvm
 - PRÄZISION BEIM SCHRAUBEN: Wenn das gewünschte Drehmoment erreicht ist, macht sich das durch die Kurzwegauslösung im Schraubschlüssel bemerkbar. Die Toleranz beträgt ±3 % vom eingestellten Skalenwert
-- DER RICHTIGE DREH: Dank KS Tools Drehmomentschlüssel lässt sich das Drehmoment auf die Werte 80-420 Nm schnell und einfach einstellen. Mit einer Doppelskala in Nm und lbfft ist die Einstellung sehr genau
 - EINSTECK TOOL 14X18 MM: Der Drehmoment Schlüssel mit Schnellverriegelungs-Steckverbindung eignet sich für 14x18 mm Einsteckwerkzeuge. Der Schlüssel lässt sich rasch austauschen
 - DREHMOMENTSCHLÜSSEL AUTO UND MEHR: Ein praktischer Helfer für ein breites Anwendungsfeld. Ganz gleich, ob als Radschlüssel für Fahrzeuge oder für Industriemaschinen und -anlagen
 

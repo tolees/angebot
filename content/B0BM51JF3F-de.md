@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Textil
 - Innenmaterial: Textil
+- Obermaterial: Textil
 - Sohle: Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})

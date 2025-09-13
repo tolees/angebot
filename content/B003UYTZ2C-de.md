@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Antennensteckdose
 - Einfach Montage durch flexiblen Anschlussdeckel, abgerundete Kabelzuführung (schützt vor ungewolltem Knicken des Koaxialkabels), Außenmantel und Innenleiter werden geklemmt und bleiben damit unversehrt
 - passend zu allen gängigen Schalterprogrammen, Montage in Unterputz- oder Hohlwanddosen, mit zusätzlichem Aufputzrahmen nahezu überall
 - 3-Loch Antennensteckdose speziell für Kabelfernsehen mit Filtertechnik und Data/Modem-Ausgang (Tripleplay), Rückkanaltauglich
+- Lieferumfang: Antennensteckdose
 - Ausgänge TV (IEC-M) 109-1006 MHz, Radio (IEC-F) 87,5-108 MHz, Data (F-Buchse) 5-1006 MHz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

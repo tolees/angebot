@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses einfach zu bauende Spielset für 4+ wird mit einem praktischen LEGO Starter Brick Element und einer bebilderten Anleitung sowie digitalen Anleitungen auf der LEGO Builder App
 - Fördere die Kreativität von Kindern, wenn du dieses Lernspielzeug-Bauset als Weihnachts- oder Geburtstagsgeschenk für Kinder ab 4 Jahren verschenkst
-- Das Konstruktionsspielzeugset enthält 3 Minifiguren von Arbeitern und eine von Ingenieuren sowie lustiges Zubehör wie eine Spielzeug-Brechstange, eine Schubkarre und mehr
-- Das Set enthält 3 Baufahrzeuge: einen Transporter, einen Abrisskran und einen Muldenkipper sowie ein verfallenes Haus mit Abrissfunktion
 - Dieses LEGO City Spielset ist für Jungen, Mädchen und alle kindlichen Baufahrzeug-Liebhaber ab 4 Jahren geeignet. Es enthält 3 Fahrzeuge, 3 Minifiguren und Zubehör
+- Das Set enthält 3 Baufahrzeuge: einen Transporter, einen Abrisskran und einen Muldenkipper sowie ein verfallenes Haus mit Abrissfunktion
+- Das Konstruktionsspielzeugset enthält 3 Minifiguren von Arbeitern und eine von Ingenieuren sowie lustiges Zubehör wie eine Spielzeug-Brechstange, eine Schubkarre und mehr
+- Dieses einfach zu bauende Spielset für 4+ wird mit einem praktischen LEGO Starter Brick Element und einer bebilderten Anleitung sowie digitalen Anleitungen auf der LEGO Builder App
 - Die Kinder schwingen den Ausleger, um das baufällige Haus abzureißen, und tauschen dann den Abrissbirnenaufsatz gegen die Schaufel aus, um den Schutt in den Muldenkipper zu schaufeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

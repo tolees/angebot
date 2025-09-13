@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unterstützt Auto-Tiering, Qtier Auto-Tiering-Technologie und SSD-Caching ermöglichen eine konstante Speicheroptimierung
-- Das TS-264 ist mit einem Intel Celeron N5095 Quad-Core-Prozessor ausgestattet und unterstützt bis zu 8 GB DDR4-Speicher, zwei 2,5-GbE-Anschlüsse und SATA-6-Gb/s-Laufwerke. Die integrierte Intel AES-NI-Verschlüsselungsengine trägt auch zum Schutz sensibler Daten bei, ohne die Systemleistung zu beeinträchtigen
-- 2,5GbE-Konnektivität Durch die Einrichtung der Portbindung mit den beiden integrierten 2,5GbE-Ports (2,5G/1G/100M) können Übertragungsraten von bis zu 5 Gbit/s erreicht werden
-- Quad-Core-Dual-Port-2,5GbE-NAS mit Unterstützung für M.2-SSD-Caching und PCIe-Erweiterbarkeit für Hochgeschwindigkeitsübertragungs- und Virtualisierungsanwendungen
-- PCIe-Erweiterbarkeit Installieren Sie eine PCIe Gen3 x2-Karte, um die Kernfunktionalität des TS-264 zu erweitern, einschließlich einer Multi-Gig 10GbE/5GbE/2,5GbE Netzwerkkarte, einer QM2-Karte oder einer USB 3.2 Gen 2 (10 Gbit/s) -Karte
 - 4K HDMI 4K H.264-Hardwaredekodierung und Echtzeit-Transcodierung für ein flüssiges Multimedia-Erlebnis im Großformat
+- Das TS-264 ist mit einem Intel Celeron N5095 Quad-Core-Prozessor ausgestattet und unterstützt bis zu 8 GB DDR4-Speicher, zwei 2,5-GbE-Anschlüsse und SATA-6-Gb/s-Laufwerke. Die integrierte Intel AES-NI-Verschlüsselungsengine trägt auch zum Schutz sensibler Daten bei, ohne die Systemleistung zu beeinträchtigen
+- Quad-Core-Dual-Port-2,5GbE-NAS mit Unterstützung für M.2-SSD-Caching und PCIe-Erweiterbarkeit für Hochgeschwindigkeitsübertragungs- und Virtualisierungsanwendungen
 - M.2 SSD-Caching Zwei M.2 PCIe Gen 3-Steckplätze ermöglichen NVMe SSD-Caching oder SSD-Speicherpools für eine verbesserte Leistung oder Edge TPU für AI-Bilderkennung
-- Mit zwei USB 3.2 Gen 2-Anschlüssen (10 Gbit/s) und einem USB 2.0-Anschluss (480 Mbit/s) können Sie große Dateien schnell sichern und zum/vom TS-264 übertragen. USV und andere kompatible USB-Geräte können ebenfalls angeschlossen werden, um die Funktionalität und das Anwendungspotenzial zu erweitern
 - Das TS-264 ist mit zwei M.2 PCIe Gen3-Steckplätzen ausgestattet, die SSD-Caching oder SSD-Speicherpools für eine verbesserte Leistung oder Edge-TPU für KI-Bilderkennung ermöglichen.
+- Unterstützt Auto-Tiering, Qtier Auto-Tiering-Technologie und SSD-Caching ermöglichen eine konstante Speicheroptimierung
+- Mit zwei USB 3.2 Gen 2-Anschlüssen (10 Gbit/s) und einem USB 2.0-Anschluss (480 Mbit/s) können Sie große Dateien schnell sichern und zum/vom TS-264 übertragen. USV und andere kompatible USB-Geräte können ebenfalls angeschlossen werden, um die Funktionalität und das Anwendungspotenzial zu erweitern
+- 2,5GbE-Konnektivität Durch die Einrichtung der Portbindung mit den beiden integrierten 2,5GbE-Ports (2,5G/1G/100M) können Übertragungsraten von bis zu 5 Gbit/s erreicht werden
+- PCIe-Erweiterbarkeit Installieren Sie eine PCIe Gen3 x2-Karte, um die Kernfunktionalität des TS-264 zu erweitern, einschließlich einer Multi-Gig 10GbE/5GbE/2,5GbE Netzwerkkarte, einer QM2-Karte oder einer USB 3.2 Gen 2 (10 Gbit/s) -Karte
 - Lizenzfreie virtualisierte Umgebung Hosten Sie mehrere containerisierte Apps, um eine Vielzahl von Anwendungen und Diensten auszuführen
 
 [🛒 Hier!!]({{< param buyurl >}})

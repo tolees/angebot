@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Microsoft Flight Simulator 40th Anniversary Edition wird zum ersten Mal seit 2006 Hubschrauber und Segelflugzeuge enthalten, die von unserer Community am häufigsten nachgefragten Verbesserungen.
-- Zusätzlich zu den Helikoptern und Segelflugzeugen werden wir ein weiteres heiß begehrtes Community-Feature vorstellen: ein lebensechtes Verkehrsflugzeug, den ausgeklügelten Airbus A-310, bei dem fast jeder einzelne Knopf wie erwartet funktioniert.
-- Zusammenfassend wird die 40. Jubiläumsausgabe Folgendes vorstellen - 4 klassische Verkehrsflughäfen, 10 Segelflugplätze, 12 neue Flugzeuge, 14 Hubschrauberlandeplätze, 20 klassische Missionen aus der Vergangenheit des Franchise.
 - Feiern Sie die bewegte Geschichte der Luftfahrt mit sieben berühmten historischen Flugzeugen in der Microsoft Flight Simulator 40th Anniversary Edition.
+- Die Microsoft Flight Simulator 40th Anniversary Edition wird zum ersten Mal seit 2006 Hubschrauber und Segelflugzeuge enthalten, die von unserer Community am häufigsten nachgefragten Verbesserungen.
 - Wir fügen auch vier klassische Flughäfen hinzu, darunter das Meigs Field in Chicago, das ein traditioneller Startflughafen für das Microsoft Flight Simulator-Franchise ist. Es ist ein aufregendes Update voller Luftfahrtgeschichte, um unsere Community und die Schönheit der Luftfahrt zu feiern! Der Himmel ruft!
+- Zusammenfassend wird die 40. Jubiläumsausgabe Folgendes vorstellen - 4 klassische Verkehrsflughäfen, 10 Segelflugplätze, 12 neue Flugzeuge, 14 Hubschrauberlandeplätze, 20 klassische Missionen aus der Vergangenheit des Franchise.
+- Zusätzlich zu den Helikoptern und Segelflugzeugen werden wir ein weiteres heiß begehrtes Community-Feature vorstellen: ein lebensechtes Verkehrsflugzeug, den ausgeklügelten Airbus A-310, bei dem fast jeder einzelne Knopf wie erwartet funktioniert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BKSFBS83{{</world>}}

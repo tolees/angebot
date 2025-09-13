@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - ABSOLUT WETTERFEST: Dank der IP67-Wasserschutzklasse hält Ihre eufyCam 2C so gut wie alles aus, Sommerhitze, Regen und sogar den deutschen Winter!
-- FULL HD QUALITÄT: 1080p Auflösung stellt sicher, dass jede Aufnahme kristallklar aufgezeichnet wird. Das 135° Weitwinkelobjektiv garantiert eine glasklare Panoramaansicht - von der Garage bis zur Haustüre ist alles mit dabei.
-- 180 TAGE AKKULAUFZEIT: Ihre Überwachungskamera aussen dient Ihnen nach einem Aufladen ein halbes Jahr lang!
 - PERSONENERKENNUNG: eufyCam 2C erkennt Vögel, Hunde und Blätter im Wind und reduziert falschen Alarm(1) um 95%, damit Sie wirklich nur im richtigen Moment alarmiert werden.
 - TAG UND NACHT: Unsere fortschrittliche Nachtsicht-Technologie garantiert, dass Ihr Zuhause tagsüber und vor allem nachts absolut geschützt ist.
+- FULL HD QUALITÄT: 1080p Auflösung stellt sicher, dass jede Aufnahme kristallklar aufgezeichnet wird. Das 135° Weitwinkelobjektiv garantiert eine glasklare Panoramaansicht - von der Garage bis zur Haustüre ist alles mit dabei.
+- 180 TAGE AKKULAUFZEIT: Ihre Überwachungskamera aussen dient Ihnen nach einem Aufladen ein halbes Jahr lang!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08PDG8L95{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bringt dem Baby das Konzept unterschiedlicher Größen näher
 - Stapelspielzeug für Babys mit 5 bunten Ringen zum Greifen, Schütteln und Stapeln
 - Für Babys ab 6 Monaten
-- Bringt dem Baby das Konzept unterschiedlicher Größen näher
 - Schaukelbasis zum Anstupsen
 - Der oberste Ring hat eine glänzende Oberfläche mit Rasselperlen im Inneren
 

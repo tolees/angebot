@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang Autan Zeckenschutz Pumpspray 100 ml Wirkstoff Icaridin 25 Prozent
-- Autan Zeckenschutz Pumpspray schützt effektiv bis zu 12h vor Zecken
 - Dermatologisch getestet und bereits für Kinder ab 2 Jahren geeignet
 - Autan Zeckenschutz kann nach Gebrauchsanweisung bereits bei Kindern ab 2 Jahren angewendet werden
+- Autan Zeckenschutz Pumpspray schützt effektiv bis zu 12h vor Zecken
 - Schützt zusätzlich bis zu 10h vor Mücken
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

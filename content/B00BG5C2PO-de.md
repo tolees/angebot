@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Philips SDXC Ultra Speed Speicherkarten der Klasse 10 UHS-I U1 eignen sich für Anwendungen, die hohe Schreibgeschwindigkeiten erfordern, wie z. B. (Full) HD-Videoaufnahmen. Sie können Dateien mit einer maximalen Geschwindigkeit von 80 MB/s lesen.
-- 64 GB Speicherkapazität: Bietet genügend Kapazität für die Speicherung von mindestens 18.000 Ihrer Lieblingsfotos minimal 10 Stunden Full-HD-Videoaufzeichnung*). *) Basierend auf 10MP jpg komprimiertem Fotoformat und 13MB/s Full HD Video.
 - UHS-I U1 & Video-Class V10: UHS-I U1 in Kombination mit der Videoklasse V10 bietet die richtigen Spezifikationen für eine hochwertige Echtzeit-Videoaufzeichnung.
 - Philips SDXC Ultra Speed Speicherkarten können in Kameras und allen anderen Geräten mit SDHC/XC-Kartensteckplätzen verwendet werden.
+- 64 GB Speicherkapazität: Bietet genügend Kapazität für die Speicherung von mindestens 18.000 Ihrer Lieblingsfotos minimal 10 Stunden Full-HD-Videoaufzeichnung*). *) Basierend auf 10MP jpg komprimiertem Fotoformat und 13MB/s Full HD Video.
 - Lieferumfang: Philips SDXC UHS-I U1 Speicherkarte 64 GB (V10, Class 10, (Full) HD-Video, geeignet für Kameras und alle anderen Geräte mit SDHC/XC-Kartensteckplatz)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

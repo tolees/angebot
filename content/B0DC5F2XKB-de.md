@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- eine geknöpfte Brusttasche
-- leger geschnitten
-- 1-Knopfmanschetten
 - durchgehende Knopfleiste
+- 1-Knopfmanschetten
 - gestickte Logo-Artworks vorne, hinten und auf dem Ärmel
+- leger geschnitten
+- eine geknöpfte Brusttasche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5F2XKB{{</world>}}

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für Räume bis ca. 50 m3 / 20m2
-- WEEE-Nr.: DE55703080
-- Abnehmbarer Wassertank
-- 2.1 Liter Wassertank
-- Übersichtlich gestaltetes Bedienfeld für einfache Einstellung
 - Entfeuchtungsleistung max./24h: 12 Liter
+- 2.1 Liter Wassertank
+- Geeignet für Räume bis ca. 50 m3 / 20m2
+- Abnehmbarer Wassertank
+- WEEE-Nr.: DE55703080
+- Übersichtlich gestaltetes Bedienfeld für einfache Einstellung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B085ZLYV2C{{</world>}}

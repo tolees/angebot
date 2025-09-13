@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regulär geschnitten; mittelhoher Bund
 - Sportbekleidung aus hochwertigen Materialien für jede sportliche Aktivität
 - 70 prozent Baumwolle / 30 prozent recycelter Polyester (Fleece)
+- Regulär geschnitten; mittelhoher Bund
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09HKQYWLT{{</world>}}

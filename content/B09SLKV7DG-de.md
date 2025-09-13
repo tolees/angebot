@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feuchtigkeitsabsorbierende AEROREADY Technologie
 - 100 % recycelter Polyester (Doppelstrick)
+- Feuchtigkeitsabsorbierende AEROREADY Technologie
 - Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

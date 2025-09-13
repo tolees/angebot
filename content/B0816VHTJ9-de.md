@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sehr detailreiche Figur, inspiriert durch die Operatoren aus Rainbow Six Sieg
-- Beinhaltet einen einzigartigen Code, der einen Waffen-Talisman in Rainbow Six Siege freischaltet
 - Größe 10cm, Material PVC & ABS
+- Beinhaltet einen einzigartigen Code, der einen Waffen-Talisman in Rainbow Six Siege freischaltet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0816VHTJ9{{</world>}}

@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KABELLOS, WIEDERAUFLADBAR, PRAKTISCH – Das Magic Keyboard mit Touch ID und Ziffernblock verbindet sich drahtlos über Bluetooth mit deinem Mac. Und mit der integrierten wiederaufladbaren Batterie benötigst du keine einzelnen Batterien mehr zum Tauschen.
-- POWER FÜR MEHRERE WOCHEN – Die integrierte Batterie hält unglaublich lange. Voll geladen versorgt sie deine Tastatur ungefähr einen Monat, aber auch länger, mit Strom. (Die Batterielaufzeit variiert abhängig von der Verwendung.)
-- SYSTEM­ANFORDERUNGEN – Erfordert einen Mac mit Apple Chip und macOS 11.4 oder neuer.
-- KOMPATIBEL MIT ALLEN MAC COMPUTERN MIT APPLE CHIP – Es koppelt sich automatisch mit deinem Mac mit Apple Chip und ist direkt einsatzbereit. Oben die Liste der kompatiblen Geräte.
-- VERBESSERTES TIPPEN – Das Magic Keyboard macht präzises Tippen besonders angenehm und einfach. Das erweiterte Layout enthält Navigationstasten für schnelles Scrollen in Dokumenten und normalgroße Pfeiltasten.
-- LADEKABEL IM LIEFERUMFANG ENTHALTEN – Es kommt mit einem gewebten USB‑C auf Lightning Kabel, das zum Laden und Koppeln über einen USB‑C Anschluss mit dem Mac verbunden wird.
 - SCHNELLER ARBEITEN MIT DEM ZIFFERNBLOCK – Der Ziffernblock ist ideal für Tabellen und Finanzanwendungen.
+- LADEKABEL IM LIEFERUMFANG ENTHALTEN – Es kommt mit einem gewebten USB‑C auf Lightning Kabel, das zum Laden und Koppeln über einen USB‑C Anschluss mit dem Mac verbunden wird.
+- VERBESSERTES TIPPEN – Das Magic Keyboard macht präzises Tippen besonders angenehm und einfach. Das erweiterte Layout enthält Navigationstasten für schnelles Scrollen in Dokumenten und normalgroße Pfeiltasten.
 - SCHNELLES ENTSPERREN MIT TOUCH ID – Mit Touch ID kannst du schnell, einfach und sicher deinen Mac entsperren und dich bei Apps und Websites anmelden.
+- POWER FÜR MEHRERE WOCHEN – Die integrierte Batterie hält unglaublich lange. Voll geladen versorgt sie deine Tastatur ungefähr einen Monat, aber auch länger, mit Strom. (Die Batterielaufzeit variiert abhängig von der Verwendung.)
+- KABELLOS, WIEDERAUFLADBAR, PRAKTISCH – Das Magic Keyboard mit Touch ID und Ziffernblock verbindet sich drahtlos über Bluetooth mit deinem Mac. Und mit der integrierten wiederaufladbaren Batterie benötigst du keine einzelnen Batterien mehr zum Tauschen.
+- KOMPATIBEL MIT ALLEN MAC COMPUTERN MIT APPLE CHIP – Es koppelt sich automatisch mit deinem Mac mit Apple Chip und ist direkt einsatzbereit. Oben die Liste der kompatiblen Geräte.
+- SYSTEM­ANFORDERUNGEN – Erfordert einen Mac mit Apple Chip und macOS 11.4 oder neuer.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09BRFSBLM{{</world>}}

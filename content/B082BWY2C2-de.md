@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unterstützt LDPC (Low Density Parity Check) zur Fehlerkorrektur beim Lesen zur Gewährleistung der Datenintegrität und NANDXtend ECC-Technologie zur Verlängerung der Lebensdauer von NAND-Flash
 - Phison E13T Series Controller; 2280 M.2 PCIe Gen3 x 4, NVMe 1.3
-- SEQ-Leistung: Lesen bis zu 1.700MB/s, Schreiben bis zu 1.100MB/s; 4K Ausgerichtetes zufälliges Schreiben: bis zu 260K IOPs
 - Eingebaute End-to-End-Datenpfadschutz-, SmartECC- und Thermal-Throttling-Technologie
+- SEQ-Leistung: Lesen bis zu 1.700MB/s, Schreiben bis zu 1.100MB/s; 4K Ausgerichtetes zufälliges Schreiben: bis zu 260K IOPs
+- Unterstützt LDPC (Low Density Parity Check) zur Fehlerkorrektur beim Lesen zur Gewährleistung der Datenintegrität und NANDXtend ECC-Technologie zur Verlängerung der Lebensdauer von NAND-Flash
 - 5 Jahre Garantie; Betriebssysteme unterstützt: Windows 7*/8.0*/8.1/10/11
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

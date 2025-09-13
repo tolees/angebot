@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
+- Material: Kunststoff
 - Gewicht: federleichte 4 g; Abmessungen: 20 x 58 x 10 mm
 - Lieferumfang: Intenso Business Line 32GB USB-Stick schwarz
-- Material: Kunststoff
 - Hochwertiger USB-A 2.0 Speicherstick im edlen Design
+- Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KIOWQZ0{{</world>}}

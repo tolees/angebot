@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerippte Bündchen sind für den klassischen jogger-look verantwortlich
 - Fleece Material sorgt für ein geschmeidiges, weiches Tragegefühl
+- Gerippte Bündchen sind für den klassischen jogger-look verantwortlich
 - Standardpassform für ein unkompliziertes, relaxtes Tragegefühl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

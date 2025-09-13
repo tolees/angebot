@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langfristige Sicherheit mit der im Lieferumfang enthaltenen beschränkten 2-Jahres-Garantie und den Rescue Data Recovery Services zur Datenwiederherstellung
 - Passwortgeschützte externe Festplatte mit AES-256-Hardwareverschlüsselung und USB-Hub zur Sicherung all Ihrer digitalen Inhalte.
 - externe festplatte, HUB, Xbox, PS5, PS4, Mac
+- Langfristige Sicherheit mit der im Lieferumfang enthaltenen beschränkten 2-Jahres-Garantie und den Rescue Data Recovery Services zur Datenwiederherstellung
 - Ohne weitere Konfiguration mit Windows und Mac kompatibel
 - Inklusive Sicherungssoftware Seagate Toolkit für Ein-Klick- und zeitplanbasierte Sicherungen und Dateispiegelung
 

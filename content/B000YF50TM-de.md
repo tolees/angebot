@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Oberteil überzeugt mit perfekter Passform, hohem Tragekomfort und hautfreundlicher, supergekämmter Baumwolle
+- Größe: 50
 - 60° Wäsche, trocknergeeignet
 - Setzt sich zusammen aus 100% Baumwolle
-- Größe: 50
 - Klassisches Kurzarm-Shirt mit Rundhalsausschnitt aus hochwertiger Baumwolle-Qualität
+- Das Oberteil überzeugt mit perfekter Passform, hohem Tragekomfort und hautfreundlicher, supergekämmter Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000YF50TM{{</world>}}

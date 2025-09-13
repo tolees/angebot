@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einphasiger Elektromotor 230V~50Hz
-- Ausgestattet mit kabelloser Fernbedienung bis zu 30 m.
 - Kabelaufstiegsgeschwindigkeit: 8m/min (einfach) - 4m/min (doppelt).
 - Belastung: 400 kg mit Einzelseil - 800 kg mit Seilzug
+- Ausgestattet mit kabelloser Fernbedienung bis zu 30 m.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0855XZGQK{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Farbverlauf
-- Artwork mit Stickereien vorne rechts
 - Kapuze mit Print, Innentape und Kordelzug
+- Artwork mit Stickereien vorne rechts
 - Rippbündchen an Ärmeln und Saum
+- mit Farbverlauf
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5F6DJJ{{</world>}}

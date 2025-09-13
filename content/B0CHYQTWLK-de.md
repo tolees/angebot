@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KRÄFTIGER, EDLER DESIGN-KARTON - Die Rubbelkarte besteht aus besonders kräftigem, hochwertigen Postkartenkarton (kräftiger, als bei vielen anderen Karten). Das verleiht dem Rubbelgutschein eine edle Haptik und gute Stabilität.
-- MIT GOLDENER FOLIE VEREDELT - Unser Geschenkgutschein ist mit einer goldenen Heißfolien Veredelung versehen. Durch diese Veredelung wird eine gold-glänzende Oberfläche erreicht, welche der Karte eine besondere Exklusivität verleiht. Ein echter Hingucker!
-- ALLES IN EINEM GESCHENKSET - Unser Gutscheinkarte Set enthält neben der Blanko Gutscheinkarte noch einen goldenen Umschlag und das passende Rubbeletikett. Einfach das Goldene Ticket beschriften, das Feld mit dem Rubbelaufkleber überkleben, die Karte in den goldenen Umschlag verpacken und fertig ist eine unvergessliche Geschenkidee.
-- FÜR VIELE EVENTS ANPASSBAR - Die Rubbel Grußkarte lässt sich einfach selbst gestalten und ist die perfekte Geschenkidee für viele verschiedene Anlässe. Ideal als Geburtstagskarte, Kinogutschein, Essengutschein zum essen gehen, Theater Gutschein, gemeinsame Zeit, Ausflüge, Reisegutschein und vieles mehr!
 - EINZIGARTIGE GESCHENKIDEE - Unsere Goldenes Ticket Rubbel Karte ist eine besondere und einzigartige Möglichkeit, ein besonderes Event oder eine Einladung zu verschenken. Die zu beschenkende Person kann die Überraschung nach Erhalt der Karte freirubbeln.
+- FÜR VIELE EVENTS ANPASSBAR - Die Rubbel Grußkarte lässt sich einfach selbst gestalten und ist die perfekte Geschenkidee für viele verschiedene Anlässe. Ideal als Geburtstagskarte, Kinogutschein, Essengutschein zum essen gehen, Theater Gutschein, gemeinsame Zeit, Ausflüge, Reisegutschein und vieles mehr!
+- MIT GOLDENER FOLIE VEREDELT - Unser Geschenkgutschein ist mit einer goldenen Heißfolien Veredelung versehen. Durch diese Veredelung wird eine gold-glänzende Oberfläche erreicht, welche der Karte eine besondere Exklusivität verleiht. Ein echter Hingucker!
+- KRÄFTIGER, EDLER DESIGN-KARTON - Die Rubbelkarte besteht aus besonders kräftigem, hochwertigen Postkartenkarton (kräftiger, als bei vielen anderen Karten). Das verleiht dem Rubbelgutschein eine edle Haptik und gute Stabilität.
+- ALLES IN EINEM GESCHENKSET - Unser Gutscheinkarte Set enthält neben der Blanko Gutscheinkarte noch einen goldenen Umschlag und das passende Rubbeletikett. Einfach das Goldene Ticket beschriften, das Feld mit dem Rubbelaufkleber überkleben, die Karte in den goldenen Umschlag verpacken und fertig ist eine unvergessliche Geschenkidee.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CHYQTWLK{{</world>}}

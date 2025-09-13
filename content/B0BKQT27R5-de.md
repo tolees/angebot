@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - A Water Point with Tap
 - A Box for Storing Water Bombs
-- Many Water Bombs
 - Two Ready-to-Play Children
 - Playmobil 71166 Childrens and Water Balloons
+- Many Water Bombs
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BKQT27R5{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Konnektivität und Vielseitigkeit – Verbinden Sie bis zu drei Geräte, zwei über Bluetooth und eines über 2,4 GHz USB-A-Dongle, und wechseln Sie auf Knopfdruck zwischen den Geräten
-- Langlebiger wiederaufladbarer Akku – Hält über 6 Monate und ist aufladbar via USB-C
 - CHIP Note sehr gut (1,2) – Die HP 975 Wireless Tastatur wurde im CHIP Bluetooth Tastatur Test Mai 2023 zum Tesieger gekührt
 - Benutzerdefinierte Anpassung – Ganz bequem die Hintergrundbeleuchtung anpassen & über 20 Tasten mit Verknüpfungen für Ihre am häufigsten verwendeten Apps programmieren
+- Langlebiger wiederaufladbarer Akku – Hält über 6 Monate und ist aufladbar via USB-C
+- Konnektivität und Vielseitigkeit – Verbinden Sie bis zu drei Geräte, zwei über Bluetooth und eines über 2,4 GHz USB-A-Dongle, und wechseln Sie auf Knopfdruck zwischen den Geräten
 - Datenschutz und Schutz des PCs – Mit AES-128-Datenverschlüsselung und einer 1-Tasten-PC-Sperre sind Ihre Daten rundum geschützt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

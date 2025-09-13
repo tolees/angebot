@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BUTTERY SOFT FEEL: The creamy, smooth stick melts onto lips thanks to the unique blend of low-melting-point waxes in the formula
-- MAJORLY MOISTURISING FORMULA: The hydrating, paraben-free lip colour is infused with hyaluronic acid, aloe, and rose quartz for intense moisture and a full, plump look
-- WON’T FEATHER OR BLEED: Each luscious and vibrant colour wraps onto lips without feathering or bleeding for a glassy pout that stays put
-- 9 SHINY SHADES: Go for super-shiny colour in 9 unique shades from nudes, to pinks, to reds, and more
 - HIGH-SHINE LIP COLOUR: This brilliant lipstick is made with high-shine emollients that reflect light for a super glossy finish
+- WON’T FEATHER OR BLEED: Each luscious and vibrant colour wraps onto lips without feathering or bleeding for a glassy pout that stays put
+- MAJORLY MOISTURISING FORMULA: The hydrating, paraben-free lip colour is infused with hyaluronic acid, aloe, and rose quartz for intense moisture and a full, plump look
+- 9 SHINY SHADES: Go for super-shiny colour in 9 unique shades from nudes, to pinks, to reds, and more
+- BUTTERY SOFT FEEL: The creamy, smooth stick melts onto lips thanks to the unique blend of low-melting-point waxes in the formula
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07XVTVT4S{{</world>}}

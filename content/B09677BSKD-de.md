@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- T-shirt
-- Kurzarm
 - Standard Fit
+- T-shirt
 - Materialzusammensetzung: 100% Baumwolle
+- Kurzarm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09677BSKD{{</world>}}

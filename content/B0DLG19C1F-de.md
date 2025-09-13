@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Inverter Motor / APP-Steuerung
 - Waschtrockner: 8 kg Waschen/ 6 kg Trocknen
-- Slim Line - nur 480 mm tief
 - Energieeffizienz D/A / 1400 Umdrehungen pro Minute
 - 1 h Auto Waschen und Trocknen - Das 60 Min. Waschen und Trocknen Programm wäscht und trocknet bis zu 1 kg Wäsche in nur einer Stunde
+- Slim Line - nur 480 mm tief
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DLG19C1F{{</world>}}

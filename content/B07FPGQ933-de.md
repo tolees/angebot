@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gaming-Software
+- Gaming-Modus mit deaktivierter Windows-Taste
 - Onboard-Speicher für Spiel-Profile
 - Gaming-Tastatur mit RGB-Hintergrundbeleuchtung
-- Gaming-Modus mit deaktivierter Windows-Taste
+- Gaming-Software
 - Individuell konfigurierbare Tastenfunktionen
 
 [🛒 Hier!!]({{< param buyurl >}})

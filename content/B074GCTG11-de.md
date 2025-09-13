@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ✅ LOKAL PRODUZIERT: Alle Alpha Foods werden vollumfänglich in Deutschland zertifiziert hergestellt.
+- ✨ OPTIMAL VERWERTBARES PFLANZLICHES EIWEISS: Veganes Eiweißpulver u.a. aus Soja, gekeimtem Wildreis, Kürbiskernen, Sonnenblumenkernen, Leinsamen und gekeimten gelben Erbsen. Die Kombination der verschiedenen Eiweiße in unserem Vegan Protein ergibt ein komplettes EAA und BCAA Aminosäureprofil, welches Whey-Protein in nichts nachsteht.
+- 🔍 LABORGEPRÜFTE REINHEIT: Unser aller Sicherheit hat für uns oberste Priorität, weshalb Alpha Foods den umfangreichsten Kontrollverfahren unterliegt. Wir stellen keine industriellen Massenprodukte her und mischen all unsere Pulver in kleinen Chargen in einer modernen Produktionsstätte gemäß des höchsten Qualitätsstandards. Alle Produkte basieren auf zertifizierten Rohstoffen im Einklang mit den geltenden EU-Vorschriften.
 - 🌿 AUTHENTISCH UND VORALLEM LECKER: Eine pflanzliche Rezeptur in der bekannten Alpha Foods Qualität. Cremig und schmeckt herrlich nach Zimt und Zucker. Unser Proteinpulver eignet sich nicht nur als Protein-Shake, sondern kann sowohl zum Kochen als auch zum Backen verwendet werden. Auch für Nicht-Veganer.
 - ♻️WIR MACHEN SCHLUSS MIT SCOOPS: Der Umwelt zuliebe legen wir unseren Verpackungen zukünftig keinen Messlöffel mehr bei – und helfen dir, wie du mit anderen Mitteln dosierst. Die Umstellung vollzieht sich schrittweise, sodass deine liebsten Alpha Foods derzeit mit oder ohne Scoop bei dir ankommen können.
-- ✅ LOKAL PRODUZIERT: Alle Alpha Foods werden vollumfänglich in Deutschland zertifiziert hergestellt.
-- 🔍 LABORGEPRÜFTE REINHEIT: Unser aller Sicherheit hat für uns oberste Priorität, weshalb Alpha Foods den umfangreichsten Kontrollverfahren unterliegt. Wir stellen keine industriellen Massenprodukte her und mischen all unsere Pulver in kleinen Chargen in einer modernen Produktionsstätte gemäß des höchsten Qualitätsstandards. Alle Produkte basieren auf zertifizierten Rohstoffen im Einklang mit den geltenden EU-Vorschriften.
-- ✨ OPTIMAL VERWERTBARES PFLANZLICHES EIWEISS: Veganes Eiweißpulver u.a. aus Soja, gekeimtem Wildreis, Kürbiskernen, Sonnenblumenkernen, Leinsamen und gekeimten gelben Erbsen. Die Kombination der verschiedenen Eiweiße in unserem Vegan Protein ergibt ein komplettes EAA und BCAA Aminosäureprofil, welches Whey-Protein in nichts nachsteht.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B074GCTG11{{</world>}}

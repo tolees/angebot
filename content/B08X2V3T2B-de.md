@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Messen und Nachverfolgen – Fünf wichtige Faktoren zur Kontrolle der Luftqualität: Feinstaub (PM2,5), flüchtige organische Verbindungen (VOCs), Kohlenmonoxid (CO), Luftfeuchtigkeit und Temperatur.
-- Benachrichtigungen – Wenn Alexa erkennt, dass die Luftqualität schlecht ist, kann sie dir Benachrichtigungen auf dein Smartphone senden oder sogar Ankündigungen auf Echo-Geräten machen.
 - Deine Luftwerte im Blick – Der Amazon Smart Air Quality Monitor macht die Luftwerte im Innenbereich verständlich.
 - Stets informiert – Der leicht verständliche Luftqualitätswert in der Alexa App und die Farb-LED geben dir jederzeit einen schnellen Eindruck von der aktuellen Luftqualität.
+- Messen und Nachverfolgen – Fünf wichtige Faktoren zur Kontrolle der Luftqualität: Feinstaub (PM2,5), flüchtige organische Verbindungen (VOCs), Kohlenmonoxid (CO), Luftfeuchtigkeit und Temperatur.
+- Benachrichtigungen – Wenn Alexa erkennt, dass die Luftqualität schlecht ist, kann sie dir Benachrichtigungen auf dein Smartphone senden oder sogar Ankündigungen auf Echo-Geräten machen.
 - Aktiviere Routinen, um bei schlechter Luftqualität deine Alexa-fähigen Geräte, beispielsweise Luftreiniger, Luftentfeuchter und Ventilatoren, einzuschalten und automatisch wieder auszuschalten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

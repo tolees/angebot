@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke: Leonina
 - Iron Man 3 (inkl. Version 32D
+- Marke: Leonina
 - Produkttyp:FILM_FISICO
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

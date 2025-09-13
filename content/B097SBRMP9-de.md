@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Equip Allies and defeat Enemies as you make your way from the outer rings toward the final central location of Hogwarts Castle. Familiar locations include Hogsmeade, Kings Cross Station, Diagon Alley, Quidditch Pitch, Hagrids Hut, and many more.
 - 2-6 Players | Ages 11+ | 90+ Min Play Time﻿
-- Lord Voldemort is growing stronger by the minute and its up to you to either stop him and his followers or aid him in his quest for complete control.
 - Featuring a custom illustrated game board and custom-sculpted character figures featuring Harry Potter, Minerva McGonagall, Rubeus Hagrid, Albus Dumbledore, Draco Malfoy, Lucius Malfoy, Bellatrix LeStrange, Peter Pettigrew, and Voldemort.
+- Equip Allies and defeat Enemies as you make your way from the outer rings toward the final central location of Hogwarts Castle. Familiar locations include Hogsmeade, Kings Cross Station, Diagon Alley, Quidditch Pitch, Hagrids Hut, and many more.
 - Includes 1 Game Board, 9 Character Cards, 9 Custom Sculpted Character Figures, 100 Encounter Cards, 21 Purchase Cards, 24 Spell Cards, 3 Hallows Cards, 2 Ferret Cards, 4 6-sided Dice, 6 Stat Boards, 20 Galleons, 36 Fate Tokens, 1 Advantage Token.
+- Lord Voldemort is growing stronger by the minute and its up to you to either stop him and his followers or aid him in his quest for complete control.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B097SBRMP9{{</world>}}

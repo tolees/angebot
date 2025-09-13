@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Funktionen: Schaufel heben/senken/abkippen
-- Große Räder für sicheren Stand
-- Abmessungen: ca. 615 x 275 x 340 mm
 - Robustes Kunststoffgehäuse
+- Große Räder für sicheren Stand
 - Anhängerkupplung
+- Abmessungen: ca. 615 x 275 x 340 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BFYDY4S{{</world>}}

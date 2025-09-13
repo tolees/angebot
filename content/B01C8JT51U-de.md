@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Farbe: blau
 - Aussenmaterial: Rostfreies Metall
 - Hergestellt in China.
-- Farbe: blau
 - Verpackungsgewicht: 1.99 Kilogramm
 
 [🛒 Hier!!]({{< param buyurl >}})

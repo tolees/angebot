@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Speicherkapazität: 2 GB
-- Produktpalette : C-320 Serie
 - Blank Media Flash Memory-Typ: Compact Flash Card, Typ I
+- Produktpalette : C-320 Serie
+- Speicherkapazität: 2 GB
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07QJXCDBR{{</world>}}

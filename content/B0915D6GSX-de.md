@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ausdauernder Akku mit 30W Schnellladen: Mit der VOOC Schnelllade-Technologie von OPPO lässt sich der 4.310 mAh große Akku mit 30W richtig schnell aufladen. ColorOS 11.1 sorgt für mehr Effizienz
 - Edles Design: Das schlanke Smartphone liegt gut in der Hand und ist nur 173 g schwer. Im Display sitzt die dezente Punch-Hole-Frontkamera; Corning Gorilla Glass 5 bietet optimalen Schutz
 - Vierfachkamera mit Ultra Nacht Video: Gemeinsam mit der 48 MP Hauptkamera sorgt der Ultra Nacht Video-Algorithmus für helle Nachtvideos und unglaublich lebendige Farben auch bei wenig Licht
-- Ausdauernder Akku mit 30W Schnellladen: Mit der VOOC Schnelllade-Technologie von OPPO lässt sich der 4.310 mAh große Akku mit 30W richtig schnell aufladen. ColorOS 11.1 sorgt für mehr Effizienz
 - Schnelles Surfen im 5G-Netz: Das OPPO A94 5G ist mit dem MediaTek Dimensity 800U 5G-Prozessor und 8 GB Arbeitsspeicher ausgestattet - schnelles Surfen und eine starke Leistung ist damit sicher
 - Helles FHD+ AMOLED Display: Das 6,43 Zoll große FHD+ AMOLED Display zeigt HD-Filme oder -Serien in satten Farben und Kontrasten und läuft mit einer Bildwiederholrate von 90 Hz sehr flüssig
 

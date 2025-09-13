@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 95% Polyester, 5% Elasthan
 - atmungsaktiv
-- Es reguliert das Mikroklima, wirkt geruchshemmend und ist von Natur aus dehnbar.
-- Marke: BUFF
+- 95% Polyester, 5% Elasthan
 - wasserabweisend
+- Marke: BUFF
+- Es reguliert das Mikroklima, wirkt geruchshemmend und ist von Natur aus dehnbar.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07GKXWNSR{{</world>}}

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Ein Brand Logo-Etikett an der Seitennaht rundet das schicke Shirt ab
 - Das gerade geschnittene Polo mit klassischer Silhouette ist aus atmungsaktivem Piqué gefertigt
+- Kurze Ärmel
 - Regular Fit
 - Standardlänge
-- Kurze Ärmel
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C3MKY2Q3{{</world>}}

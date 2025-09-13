@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erlebe das prägende Spiel der Persona-Reihe in hochmoderner Grafik, mit modernisierten Funktionen und stylischer UI
 - Baue dein optimales Team auf und führe es im Kampf, um die Schatten einer fremden Welt zu besiegen und der Wahrheit näher zu kommen
 - Begib dich auf eine emotional fesselnde Reise mit neuen Szenen und Charakterinteraktionen, zusätzlicher Sprachausgabe und erneuertem Soundtrack
+- Erlebe das prägende Spiel der Persona-Reihe in hochmoderner Grafik, mit modernisierten Funktionen und stylischer UI
 - Verbringe deine Tage mit verschiedenen Aktivitäten, erkunde Tatsumi Port Island oder baue Beziehungen zu deinen Lieblingscharakteren auf
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

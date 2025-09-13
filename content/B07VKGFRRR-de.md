@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weiches Baumwollmaterial
 - Lockere Passform
+- Weiches Baumwollmaterial
 - Klassischer Umschlagkragen mit zwei Knöpfen
 
 [🛒 Hier!!]({{< param buyurl >}})

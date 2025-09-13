@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Swivel any direction for added convenience during everyday kitchen tasks.
+- Wear-resistant ceramic disc valve for leak-free operation.
 - Sleek design with the charm of simplicity.
 - Install with confidence and backed by Grifema Mixers 2 years Limited Warranty.
-- Wear-resistant ceramic disc valve for leak-free operation.
+- Swivel any direction for added convenience during everyday kitchen tasks.
 - Strong all-brass construction body with lead-free waterways.
 
 [🛒 Hier!!]({{< param buyurl >}})

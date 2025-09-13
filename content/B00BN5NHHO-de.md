@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kurzärmliges T-Shirt aus Baumwolle
-- Rundhalsausschnitt
 - Schmale Passform
+- Rundhalsausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00BN5NHHO{{</world>}}

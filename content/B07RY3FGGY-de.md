@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verschluss: Klettverschluss
 - Futter: Materialmix aus Synthetik und Textil
 - Laufsohle: EVA-Sohle
-- Verschluss: Klettverschluss
 - Decksohle: Sonstiges Material
 - Obermaterial: PU
 

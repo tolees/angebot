@@ -31,11 +31,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Absatzhöhe: 3.5 centimeters
 - Innenmaterial: Canvas
 - Fit: Bedenken Sie, dass Geox-Schuhe eine bequeme Passform haben, daher empfehlen wir, eine halbe Größe zu wählen
-- 10.5 centimeters10.5 centimeters
-- not_water_resistant
-- Verschluss: Zip
-- Absatzform: Block Heel
 - Sohle: Synthetic
+- not_water_resistant
+- Absatzform: Block Heel
+- Verschluss: Zip
+- 10.5 centimeters10.5 centimeters
 - Obermaterial: Smooth Leather
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

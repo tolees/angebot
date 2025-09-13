@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FARBTEMPERATUR - 2700 Kelvin: warmweißes Licht wie von der Glühlampe gewohnt, gemütliches Licht zum Entspannen
 - SPARSAM - Die Lampe arbeitet mit moderner LED Technik & spart bis zu 80% Strom gegenüber herkömmlichen Glühlampen
-- Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse "F". Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können.
+- FARBTEMPERATUR - 2700 Kelvin: warmweißes Licht wie von der Glühlampe gewohnt, gemütliches Licht zum Entspannen
 - DEKORATIV - Dekorative Lichteffekte setzen die Wand in Szene
 - ZUBEHÖR - Für handelsübliche Geräteeinbaudosen mit 68mm Durchmesser
+- Bei diesem Produkt handelt es sich um ein umgebendes Produkt mit einem Leuchtmittel der Energieeffizienzklasse "F". Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01L983OTA{{</world>}}

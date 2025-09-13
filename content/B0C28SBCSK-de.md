@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Schloss: Asymmetrischer Kampf zwischen der „Schloss“-Seite, die die Schatztruhe beschützt, und der „Angriffs“-Seite, die versucht, die Schatztruhe zu erobern!
 - Level-Editor: Individuell gestaltete Levels mit Blöcken und Gimmicks können online geteilt werden! Entwirf, spiele, teile und erkunde verschiedene Levels mit dem Level-Editor
 - Der neueste Titel der Party-Kampfspiel-Serie: SUPER BOMBERMAN R! Mit neuen Abenteuern und Spielmodi bietet sie das größte Inhaltsvolumen in der Geschichte der Serie!
-- Kampfmodus: Genieße 4 Kampfmodi, einschließlich des neuen Modus „Schloss“!
 - Story-Modus: Genieße den verbesserten Story-Modus! Besuche neue Planeten mit Bombermans neuen Freunden, den „Ellons“, und stelle dich der Bedrohung des Universums
+- Kampfmodus: Genieße 4 Kampfmodi, einschließlich des neuen Modus „Schloss“!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C28SBCSK{{</world>}}

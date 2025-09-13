@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Modischer Cardigan von VERO MODA
 - Kurze, lässige Form
 - Cooler Style mit extra langen Bündchen
-- Modischer Cardigan von VERO MODA
 - Softe Grobstrick Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

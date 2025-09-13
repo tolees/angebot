@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rippbündchen am Saum
-- Seitentapes mit Prägungen
-- Elastikbund aus Ripstop mit verstellbarem Gummizug
-- kleines Rubber Artwork vorne, größeres hinten auf der rechten Wade
 - seitliche Einschubtaschen mit Zipper
+- Rippbündchen am Saum
+- Elastikbund aus Ripstop mit verstellbarem Gummizug
+- Seitentapes mit Prägungen
+- kleines Rubber Artwork vorne, größeres hinten auf der rechten Wade
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5DYQBT{{</world>}}

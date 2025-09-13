@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ESS Elevated Tee
+- Geeignet für verschiedene Sportarten und Aktivitäten
 - Hält verschiedenen Wetterbedingungen stand
 - Einfach zu reinigen und zu pflegen
-- Geeignet für verschiedene Sportarten und Aktivitäten
-- ESS Elevated Tee
 - Ergonomisches Design für angenehme Handhabung
 - Hergestellt aus robusten Materialien für langanhaltende Nutzung
 

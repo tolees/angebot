@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3-Knopfleiste
 - Tapes auf den Schultern
+- 3-Knopfleiste
+- Flammgarnstruktur
 - Print -Artwork vorne und auf den Ärmelbündchen
 - Trikotkragen mit Kontrastkante und gebrandeter Unterseite
-- Flammgarnstruktur
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D954RFX9{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
 - Nicht wasserfest
+- Obermaterial: Leder
 - Sohle: Ethylen-Vinylacetat
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

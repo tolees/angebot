@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gesichtsfalle, bedrohliche Bösewichte und übernatürliche Bedrohungen in diesem puzzligen, actiongeladenen „Escape Room“ -Pspiel. Mit Dr. Jones Journal als Leitfaden entschlüsseln Sie alte Texte, entdecken wertvolle Hinweise und besiegen Sie unbekannte Übel mit Logik, Abzug und kreativem Denken
-- Puzzle durch über 80 Seiten des Dr. Jones Journal
 - Zeichnen Sie Ihren Weg durch 18 actionreiche Szenen aus den Filmen!
+- Gesichtsfalle, bedrohliche Bösewichte und übernatürliche Bedrohungen in diesem puzzligen, actiongeladenen „Escape Room“ -Pspiel. Mit Dr. Jones Journal als Leitfaden entschlüsseln Sie alte Texte, entdecken wertvolle Hinweise und besiegen Sie unbekannte Übel mit Logik, Abzug und kreativem Denken
 - Alter 10+, 1OR mehr Spieler, 60-90 Minuten Spiel pro Abenteuer
 - Enthält 3 Abenteuer mit einzigartigen Umschlägen von Komponenten, um Hinweise zu entschlüsseln, Feinde zu überlisten und Gefahren zu entkommen!
+- Puzzle durch über 80 Seiten des Dr. Jones Journal
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BCXKG2LS{{</world>}}

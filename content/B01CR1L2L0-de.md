@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- hohe Schnittfestigkeit
-- mit Saftrille für Fleisch- und Gemüsesaft
 - besonders messerschonend
+- mit Saftrille für Fleisch- und Gemüsesaft
+- hohe Schnittfestigkeit
 - aus FSC-zertifiziertem Holz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

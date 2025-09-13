@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- interner Speicher: 256GB, Android Android 13.0
-- Farbe: Schwarz
 - 17.2 cm (6.79Zoll) LED Display mit 1.080 x 2.460 Pixel; bis zu 90Hz
-- 108 Megapixel Hauptkamera
 - 2 GHz MediaTek G91; 8-Kern-Prozessor
+- 108 Megapixel Hauptkamera
+- Farbe: Schwarz
+- interner Speicher: 256GB, Android Android 13.0
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D4SMFD94{{</world>}}

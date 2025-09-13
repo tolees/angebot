@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für 2 Spieler
 - Material: ein doppelseitiges Brett, 24 Teile aus Holz, 36 Aufkleber, Spielregeln
 - 15 Minuten
-- Von 7 bis 107 Jahren
 - Im Land der aufgehenden Sonne, am Ende eines Waldes, trotzen sich Geister – die Yōkaï – freundlich auf ihrem Lieblingsspielplatz: Ihr Ziel ist es, das gegnerische Koropokkuru einzufangen..
+- Für 2 Spieler
+- Von 7 bis 107 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00GD7OZ3C{{</world>}}

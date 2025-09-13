@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PREMIUM DESIGN UND BEWEGLICHKEIT: Marvel Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
-- IRON MAN: Als der Milliardär und Industrielle Tony Stark eine von ihm selbst entworfene, hochentwickelte Rüstung anlegt, wird er zu einer lebenden Hightech-Waffe und zur größten menschlichen Kampfmaschine der Welt − dem unbesiegbaren Iron Man
-- EIN GANZES MULTIVERSUM AN SAMMELFIGUREN: Es können noch weitere Marvel Legends Action-Figuren gesammelt werden, um ein eigenes Marvel Multiverse mit 15 cm großen Figuren zu erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
 - ZUM 60. JUBILÄUM: Die Iron Man (Model 01) Action-Figur ist von der ersten Erscheinung des Charakters in den Comics Tales of Suspense inspiriert und eine tolle Ergänzung zu jeder Kollektion von Marvel Legends Action-Figuren
+- IRON MAN: Als der Milliardär und Industrielle Tony Stark eine von ihm selbst entworfene, hochentwickelte Rüstung anlegt, wird er zu einer lebenden Hightech-Waffe und zur größten menschlichen Kampfmaschine der Welt − dem unbesiegbaren Iron Man
 - VON DEN COMICS INSPIRIERTE ACCESSOIRES: Diese Marvel Legends Sammelfigur von Hasbro kommt mit 6 Accessoires wie austauschbaren Händen und Battle-Effekten
+- EIN GANZES MULTIVERSUM AN SAMMELFIGUREN: Es können noch weitere Marvel Legends Action-Figuren gesammelt werden, um ein eigenes Marvel Multiverse mit 15 cm großen Figuren zu erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BDJ3GHDQ{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EXTRA DURABLE INGREDIENTS
 - CUSHIONING
 - GOOD GRIP
+- EXTRA DURABLE INGREDIENTS
 - EXTRA DURABLE INGREDIENTS
 
 [🛒 Hier!!]({{< param buyurl >}})

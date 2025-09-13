@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke Beauty-Produkte
 - Marke CLINIQUE
+- Marke Beauty-Produkte
 - Gesichts-Make-up-Entferner
 - Qualitätsprodukt
 

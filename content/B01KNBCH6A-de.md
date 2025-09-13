@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke Beauty-Produkte
-- Hochwertige Produkte
 - Marke: Clinique
 - Eyeliner
-- Marke CLINIQUE
+- Marke Beauty-Produkte
 - Item_Display_Weight: 0.28 grams
+- Hochwertige Produkte
+- Marke CLINIQUE
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01KNBCH6A{{</world>}}

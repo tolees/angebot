@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für elastische und gestärkte Haut.
 - Ihre Haut sieht ebenmäßiger aus und ist gestärkt.
+- Für elastische und gestärkte Haut.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07K6K8DNX{{</world>}}

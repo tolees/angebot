@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der patentierte Wirkstoffkomplex mit Filler A-100 und Aminosäuren schenkt dünnen Haarspitzen und plattem Haar mehr Volumen. Zudem schützt er das Haar vor Haarbruch und Spliss.
 - Die regenerierende Haarspülung von LOréal Professionnel kräftigt langes Haar mit dünnen Spitzen, schützt vor Haarbruch und verleiht den Haaren einen gesunden Glanz. Die optimale Pflege für vollere Spitzen und geschmeidiges Haar, das sich gesund anfühlt.
+- Der patentierte Wirkstoffkomplex mit Filler A-100 und Aminosäuren schenkt dünnen Haarspitzen und plattem Haar mehr Volumen. Zudem schützt er das Haar vor Haarbruch und Spliss.
 - Nach dem Waschen eine kleine Menge des Conditioners auf die handtuchtrockenen Längen und Spitzen auftragen, durchkämmen und gründlich ausspülen. Für optimale Ergebnisse mit dem Pro Longer Shampoo, der Haarmaske und Leave-in Pflegecreme kombinieren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

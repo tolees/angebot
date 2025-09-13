@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Starker 5000-mAh-Akku & 33 W Dart-Aufladung
-- 120 Hz Bildwiederholrate & Touch-Abtastrate von 240 Hz
 - Mit dem realme 9 Pro kannst du zwei 5G-SIM-Karten gleichzeitig verwenden
-- 64 MP Nachtlandschaft-Kamera & 16 MP Selfie-Kamera
+- Starker 5000-mAh-Akku & 33 W Dart-Aufladung
 - Qualcomm Snapdragon 695-Prozessor verwendet eine fortschrittliche 6 nm-Technologie
+- 64 MP Nachtlandschaft-Kamera & 16 MP Selfie-Kamera
+- 120 Hz Bildwiederholrate & Touch-Abtastrate von 240 Hz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09PBWYFNX{{</world>}}

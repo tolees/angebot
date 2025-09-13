@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kontinuierliches Schneiden: Unterbrechungsfreies Schneiden mit dem Bosch Rasentrimmer mit Akku durch Nachführen des Fadens bei jedem Loslassen des Schalters
 - Bequeme Handhabung: Leichte Bauweise und kraftvoller Motor für einfaches, müheloses Trimmen
-- Die Easy Gartengeräte von Bosch – für kleine und mittelgroße Gärten
 - POWER FOR ALL ALLIANCE: 1 AKKU, ​10+ MARKEN, ​150+ GERÄTE.​
 - Lieferumfang: EasyGrassCut 18V-26, Karton
+- Kontinuierliches Schneiden: Unterbrechungsfreies Schneiden mit dem Bosch Rasentrimmer mit Akku durch Nachführen des Fadens bei jedem Loslassen des Schalters
+- Die Easy Gartengeräte von Bosch – für kleine und mittelgroße Gärten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09LM6MSGQ{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Video Performance Garantie (VPG-20)
-- MLC NAND Flash Chips, Ideal für Full-HD und 3D Videoaufnahmen
-- Unterstützt den High-Speed Ultra DMA Transfermodus 7
 - 128GB Speicherkapazität
+- Unterstützt den High-Speed Ultra DMA Transfermodus 7
+- MLC NAND Flash Chips, Ideal für Full-HD und 3D Videoaufnahmen
+- Video Performance Garantie (VPG-20)
 - Bis zu 120 MB/s Lesen; 60 MB/s Schreiben
 
 [🛒 Hier!!]({{< param buyurl >}})

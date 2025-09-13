@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Helmkonstruktion bei höchster Schlagfestigkeit durch die untrennbar verbundene Schale aus EPS-Innenschicht und Polycarbonat-Außenschicht
-- Optimale Anpassung an Kopfumfang und Kopfform durch das uvex 3D IAS 3.0 System inkl. Höhenverstellung
-- Erweiterbar mit einem ansteckbarem LED-Licht (optional)
 - Das FAS-Gurtband lässt sich leicht und stufenlos exakt an die eigene Kopfform anpassen
+- Optimale Anpassung an Kopfumfang und Kopfform durch das uvex 3D IAS 3.0 System inkl. Höhenverstellung
+- Leichte Helmkonstruktion bei höchster Schlagfestigkeit durch die untrennbar verbundene Schale aus EPS-Innenschicht und Polycarbonat-Außenschicht
+- Erweiterbar mit einem ansteckbarem LED-Licht (optional)
 - Herausnehmbare, waschbare Helmpolster
 
 [🛒 Hier!!]({{< param buyurl >}})

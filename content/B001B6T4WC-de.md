@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kombination aus Toilettenpapier-Rollenhalter und offenem Toilettenbürstenhalter
-- Maße (B x H x T): 19 x 73 x 19 cm
-- Mit massivem Standfuß aus satiniertem Sicherheitsglas für festen Halt
 - Inkl. WC-Bürste mit auswechselbarem, weißem Bürstenkopf von Ø 8,5 cm und Chrom-Stiel
+- Kombination aus Toilettenpapier-Rollenhalter und offenem Toilettenbürstenhalter
+- Mit massivem Standfuß aus satiniertem Sicherheitsglas für festen Halt
+- Maße (B x H x T): 19 x 73 x 19 cm
 - Elegantes Edelstahl-Gestell mit stilvollem Eckdesign ideal für Bad und Gäste-WC
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- All Over Print
 - V-Ausschnitt mit Rippblende
 - Anlässe: Freizeit
-- All Over Print
 - Label Patches auf Ärmel und Rücken
 - mit Necktape
 

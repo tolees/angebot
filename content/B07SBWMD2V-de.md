@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Niedriger Schnitt
 - Textiles Mesh-Obermaterial
+- Niedriger Schnitt
 - SoftFoam+: PUMAs innovative weiche Innensohle für maximalen Laufkomfort vom ersten bis zum letzen Schritt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

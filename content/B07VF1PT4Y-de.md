@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lightweight
 - Flexibility
 - Easy-Fit
+- Lightweight
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07VF1PT4Y{{</world>}}

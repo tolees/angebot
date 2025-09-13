@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein tolles Geschenk für Kinder und Erwachsene, für Spieleabende mit der Familie; für 2 bis 10 Spieler ab 7 Jahren
 - Wie im klassischen UNO-Kartenspiel versuchen die Spieler, zu den Farben, Zahlen und Symbolen der obersten Karte des Ablagestapels passende Karten abzulegen
-- Beinhaltet ein Kartendeck in Metallbox, verziert mit Figuren und Bildern aus der beliebten Serie
 - Mit der Sonderkarte Das ist der Weg“ können Aktionskarten abgewehrt werden
+- Ein tolles Geschenk für Kinder und Erwachsene, für Spieleabende mit der Familie; für 2 bis 10 Spieler ab 7 Jahren
+- Beinhaltet ein Kartendeck in Metallbox, verziert mit Figuren und Bildern aus der beliebten Serie
 - Das klassische UNO Kartenspiel mit Motiven inspiriert von der Disney+ Serie Star Wars The Mandalorian bringt Schwung in jeden Spielabend
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürung
 - Tissue
+- Schnürung
 - Kunstpelz
 - Sportschuhe
 - Tomaia im ähnlichen

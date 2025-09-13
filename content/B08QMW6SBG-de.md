@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Kein Absatz
-- Verschluss: Gummi
-- Innenmaterial: Leder
 - Obermaterial: Leder
+- Verschluss: Gummi
+- Absatzform: Kein Absatz
+- Innenmaterial: Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QMW6SBG{{</world>}}

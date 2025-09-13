@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Empfohlen für Männer und Frauen.
 - Mit Serenos Repens und Trichogen.
 - Auf das feuchte Haar auftragen. Mit Wasser ausspülen und mit einer gründlichen Massage wiederholen, wobei der Schaum einige Minuten lang einwirken muss. Mit Wasser ausspülen. Für die äußere Anwendung.
 - Hilft, übermäßigen Haarausfall zu reduzieren und das Follikelwachstum zu stimulieren.
+- Empfohlen für Männer und Frauen.
 - Stimuliert die Haarfollikel, normalisiert die Talgproduktion, pflegt und stärkt das Haar.
 - Verleiht dem Haar Dichte, Stärke und Volumen.
 

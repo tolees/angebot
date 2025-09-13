@@ -30,11 +30,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - ERGO-Griff für ermüdungsarmes Arbeiten
 - Limited Black Edition
-- D48A-2: abgewinkelte Schneiden
-- Aktionsset mit 3 Combi Scheren
-- Klingen aus rostfreiem Edelstahl
-- COMBI-SET-A
 - 1x D47-2 Black Edition + 1x D48-2 Black Edition + 1x D48A-2 Black Edition
+- Aktionsset mit 3 Combi Scheren
+- COMBI-SET-A
+- D48A-2: abgewinkelte Schneiden
+- Klingen aus rostfreiem Edelstahl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CHYG18DN{{</world>}}

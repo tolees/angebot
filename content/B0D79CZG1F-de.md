@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obbermaterial: 100% Rindsleder
+- Das Leder mit einem Tuch polieren.Wenn Sie Ihre Schuhe gut pflegen dann kommen Sie mit Ihnen auch sehr weit
+- Das Leder mithilfe unserer Schuhcreme pflegen. Eine dünne Schicht auftragen und fünf Minuten einwirken lassen
+- Das Leder mithilfe unserer Reinigungs- und Pflegelotion säubern und mit Feuchtigkeit versorgen
+- Laufsohle: 80% EVA - 20% recyceltes EVA
+- Farbe: Mittelgrau
 - Futter: 63% Schweinsleder - 37% Stoff (100% recyceltes Polyester)
 - Das Leder mithilfe unseres Schutz- und Pflegesprays vor Schmutz und Nässe schützen
-- Das Leder mit einem Tuch polieren.Wenn Sie Ihre Schuhe gut pflegen dann kommen Sie mit Ihnen auch sehr weit
-- Das Leder mithilfe unserer Reinigungs- und Pflegelotion säubern und mit Feuchtigkeit versorgen
-- Farbe: Mittelgrau
 - Für zusätzlichen Schutz unser wasserdichtes Nanopro-Spray auftragen. Dieses Produkt wird exklusiv in unseren Stores verkauft
-- Laufsohle: 80% EVA - 20% recyceltes EVA
-- Das Leder mithilfe unserer Schuhcreme pflegen. Eine dünne Schicht auftragen und fünf Minuten einwirken lassen
+- Obbermaterial: 100% Rindsleder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D79CZG1F{{</world>}}

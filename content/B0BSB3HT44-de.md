@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Praktisches Design mit beweglicher Kappe
-- Bis zu 200MB/s beim Lesen²
 - Für die Nutzung mit USB-C¹ Geräten entwickelt
+- Bis zu 200MB/s beim Lesen²
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BSB3HT44{{</world>}}

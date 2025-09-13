@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EVA-Einlegesohle
 - Schnürsenkel
-- Reguläre Passform
 - Obermaterial aus Synthetikleder
 - Textilfutter
+- EVA-Einlegesohle
+- Reguläre Passform
 - Bequemes Tragegefühl dank optimaler Dämpfung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

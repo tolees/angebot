@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DIE JÄGER DES VERLORENEN SCHATZES: Indiana Jones reist im Wettlauf mit den Schurken auf der Suche nach der verschollenen Bundeslade um die Welt
-- EIN ARTEFAKT ERSTELLEN: Wer alle Figuren aus diesem Adventure Series Sortiment sammelt, erhält weitere Elemente, die benötigt werden, um die Bundeslade zu erstellen
 - PREMIUM BEWEGLICHKEIT UND DETAILS: Fans können diese vollbewegliche Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung zur Schau stellen
 - ACCESSOIRES ZUM FILM: Die René Belloq (Zeremoniell) Figur zum Sammeln kommt mit einem abnehmbaren Ziegenkopf-Stab
 - VON DER FILMREIHE INSPIRIERTER LOOK: Mit dem René Belloq (Zeremoniell) Premium-Spielzeug, das von Indiana Jones und die Jäger des verlorenen Schatzes inspiriert ist, können sich die Fans spannende Action vorstellen
+- DIE JÄGER DES VERLORENEN SCHATZES: Indiana Jones reist im Wettlauf mit den Schurken auf der Suche nach der verschollenen Bundeslade um die Welt
+- EIN ARTEFAKT ERSTELLEN: Wer alle Figuren aus diesem Adventure Series Sortiment sammelt, erhält weitere Elemente, die benötigt werden, um die Bundeslade zu erstellen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000GHVZEW{{</world>}}

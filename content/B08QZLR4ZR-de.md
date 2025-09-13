@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - CW6902
-- Zubehör
 - Nike Herren Team Club 20 Crewneck sweatshirt, Grau, XXL EU
+- Zubehör
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08QZLR4ZR{{</world>}}

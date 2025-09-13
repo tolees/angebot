@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erlebe 4K-Auflösung, 60 FPS, deutlich verbesserte Grafik und schnelle Ladezeiten auf der PlayStation 5 und Xbox Series X
-- 40 einzigartige Fahrzeuge, die sich freischalten, aufwerten und anpassen lassen
 - Dutzende anspruchsvolle Missionen in einer vernetzten Welt
+- 40 einzigartige Fahrzeuge, die sich freischalten, aufwerten und anpassen lassen
 - In SnowRunner fährst du leistungsstarke Fahrzeuge und eroberst so extremes offenes Gelände
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

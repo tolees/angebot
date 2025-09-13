@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PASSFORM - Lockerer Regular Fit Schnitt mit Rundhals-Ausschnitt und Rollkanten Abschluss. Das Model trägt Größe S. Die Länge bei der Größe S beträgt: 64 cm.
-- BASIC - Zeitloses und minimalistisches Design, ein Klassiker in der Modewelt! Ein vielseitig kombinierbarer Allrounder ONLLUCY - 15215721, perfekt für Deine Everyday Statement Styles.
-- KOMFORT - Das Kurzarm Oberteil überzeugt durch hochwertige Verarbeitung. Passend auf all Deine Streetwear Outfits in diesem bedruckten Design mit Spruch-Print auf der Vorderseite!
 - MATERIAL - Der bequeme Stoff aus 100% Baumwolle sorgt dabei für angenehm leichten Tragekomfort und viel Bewegungsfreiheit.
+- KOMFORT - Das Kurzarm Oberteil überzeugt durch hochwertige Verarbeitung. Passend auf all Deine Streetwear Outfits in diesem bedruckten Design mit Spruch-Print auf der Vorderseite!
+- BASIC - Zeitloses und minimalistisches Design, ein Klassiker in der Modewelt! Ein vielseitig kombinierbarer Allrounder ONLLUCY - 15215721, perfekt für Deine Everyday Statement Styles.
 - ONLLUCY REG S/S TOP JRS NOOS
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

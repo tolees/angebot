@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 1 x Aroma-Pflegedusche Gute Laune 75 ml, 1 x Aroma-Pflegedusche Lebensfreude 75 ml, 1 x Cremedusche Hautzarte Verwöhnung 75 ml
 - Über 50% eingespartes Material bei der Karton-Verpackung im Vergleich zum Vorgänger-Produkt bis 2021
-- Klimaneutralisierte Verpackung
 - FSC zertifiziertes Papier aus verantwortungsvollen Quellen
+- Klimaneutralisierte Verpackung
+- Inhalt: 1 x Aroma-Pflegedusche Gute Laune 75 ml, 1 x Aroma-Pflegedusche Lebensfreude 75 ml, 1 x Cremedusche Hautzarte Verwöhnung 75 ml
 - Rezepturen ohne Mikroplastik
 
 [🛒 Hier!!]({{< param buyurl >}})

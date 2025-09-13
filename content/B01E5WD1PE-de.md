@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - G-loft Supreme Füllung wärmt auch in nassem Zustand
-- Strapazierfähiges G-1000 Original Material Kann gewachst werden, um die Wasserbeständigkeit zu erhöhen
 - Pflegehinweise: Maschinenwäsche warm (40° +) ; Nicht chemisch reinigen ; Nicht bleichen ; Nicht trocknen ; Bügeln Stufe 1 – max. 110 °C
+- Strapazierfähiges G-1000 Original Material Kann gewachst werden, um die Wasserbeständigkeit zu erhöhen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01E5WD1PE{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
-- Bequemes Tragegefühl dank optimaler Dämpfung
 - Obermaterial aus Synthetikleder
-- EVA-Einlegesohle
 - Schnürsenkel
+- Bequemes Tragegefühl dank optimaler Dämpfung
+- EVA-Einlegesohle
+- Reguläre Passform
 - Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

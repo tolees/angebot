@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- FREUNDEN HELFEN – Die einzigartigen Talente müssen zusammenarbeiten, um die erste Aufgabe zu bewältigen.
 - RÄTSELSPASS – Hinweise finden, Regenbogendiamanten sammeln und die coolsten Outfits freischalten.
 - FREIE BFF-WAHL – Es kann als Ruby, Poppy, Sunny, Jade, Skyler und Violet gespielt werden.
-- FREUNDEN HELFEN – Die einzigartigen Talente müssen zusammenarbeiten, um die erste Aufgabe zu bewältigen.
 - DIE SCHULE ERKUNDEN – Die Klassenzimmer, die Schlafzimmer, das Regenbogencafé und mehr stehen offen.
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leistung: 1.000 mW. Steckertyp: Gold, Stereo-Unimatch-Stecker 1/4 Zoll und 1/8 Zoll
-- Treibergröße: 40,0 mm, Frequenzgang: 10-20 kHz
-- Impedanz: 63 Ohm Empfindlichkeit: 106 dB/W/m
-- Kabellänge: 3 m, Gewicht: 230 g
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- Kabellänge: 3 m, Gewicht: 230 g
+- Impedanz: 63 Ohm Empfindlichkeit: 106 dB/W/m
+- Treibergröße: 40,0 mm, Frequenzgang: 10-20 kHz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000AJIF4E{{</world>}}

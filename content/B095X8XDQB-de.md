@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kugelschreiber mit Kappe.
 - Originalprodukt von Mr. Wonderful
+- Kugelschreiber mit Kappe.
 - Einzigartig und aus hochwertigen Materialien.
 - Kugelschreiber mit blauer und schwarzer Tinte.
 - Set aus zwei Metall-Kugelschreibern mit motivierenden Botschaften.

@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Holzanteil aus PEFC-zertifizierten, nachhaltig bewirtschafteten Wäldern
 - Leuchtende Farben und intensiver Farbabstrich für ungebremste Kreativität; im klassischen Sechskantformat
 - Rutschfeste Soft-Oberfläche und hohe Bruchfestigkeit für sorgenfreien Malspaß
-- Leuchtende Farben und intensiver Farbabstrich für ungebremste Kreativität; im klassischen Sechskantformat
+- Rutschfeste Soft-Oberfläche und hohe Bruchfestigkeit für sorgenfreien Malspaß
 - Lieferumfang: 36 Noris colour Buntstifte im Kartonetui
-- Rutschfeste Soft-Oberfläche und hohe Bruchfestigkeit für sorgenfreien Malspaß
 - Made from Upcycled Wood - Herstellung aus wiederaufbereiteten Holzspänen
 - Lieferumfang: 36 Noris colour Buntstifte im Kartonetui
 - Holzanteil aus PEFC-zertifizierten, nachhaltig bewirtschafteten Wäldern
+- Holzanteil aus PEFC-zertifizierten, nachhaltig bewirtschafteten Wäldern
 - Made from Upcycled Wood - Herstellung aus wiederaufbereiteten Holzspänen
+- Leuchtende Farben und intensiver Farbabstrich für ungebremste Kreativität; im klassischen Sechskantformat
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07CXYN3DR{{</world>}}

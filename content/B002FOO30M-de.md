@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fackelmann
 - aus Glas
+- Fackelmann
 - Farbe: weiß
 - Produktabmessungen: 8 cm x 4,2 cm ⌀
 
