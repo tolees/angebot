@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Das Gewicht wird auf dem Grill aufgeheizt und im heißen Zustand auf das Gargut gelegt
 - Vorteil: Schnelleres Garen durch Hitze von beiden Seiten - sorgt für ein schönes Branding und guten Kontakt zwischen Grillrost und Grillgut
+- Anwendung: Das Gewicht wird auf dem Grill aufgeheizt und im heißen Zustand auf das Gargut gelegt
 - Material: Aus emailliertem Gusseisen hergestellt ist das hochwertige Gewicht ca. 1 kg schwer - mit dunkem Walnussholzgriff ausgestattet lässt ist die eine optimale Handhabung auf dem Grill gegeben
 - Länge 17,7 cm - Breite 17,7 cm - Höhe 7,5 cm - Grifflänge 14,4 cm - Griffdurchmesser 25 mm - Gusseisen emailliert matt schwarz, Walnuss glatt braun
 - RÖSLE Barbecue-Gewicht: Hochwertiges Gewicht zum Grillen von Burgern, Steaks und Kurzgebratenem - Grillzubehör für alle Steak- und Burger-Liebhaber

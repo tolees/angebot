@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das patentierte 3D Bionic Sphere System mit ThermoSyphon Technologie maximiert den Luftaustausch, kühlen, wenn du schwitzt, und wärmen, wenn du frierst.Patentiert in 29 Ländern.
 - 100% Forschung, Entwicklung, Design und Kommunikation in der Schweiz.Hergestellt in Italien . Mehr als 600 Auszeichnungen und Testsiege, weltweit über 800 Patentanmeldungen für X-BIONIC.
 - Mit ihrer moderaten Kompression erfüllen die Pants MEN alle Wünsche anspruchsvoller Wintersportler, die von herausragendem Tragekomfort und leistungsoptimierender Thermoregulation profitieren wollen.
-- Das patentierte 3D Bionic Sphere System mit ThermoSyphon Technologie maximiert den Luftaustausch, kühlen, wenn du schwitzt, und wärmen, wenn du frierst.Patentiert in 29 Ländern.
 - Auf Präzisionsmaschinen in ultra-hochauflösender Retina-Technologie gefertigt. Im ultradichten Gestrick lassen sich intelligente Funktionszonen noch exakter für eine gezielte Wirkung positionieren.
 - Die Innerlap AirConditioning Zone,Sweat Traps für den gezielten Umgang mit einem Überschuss an Schweiss wirken temperaturregulierend und steigern dadurch die Leistung.
 

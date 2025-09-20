@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der kleine Speaker bietet dank des integrierten Lithium-Ionen-Akkus jederzeit und überall bis zu 10 Stunden Musikwiedergabe - für stundenlangen Musikgenuss
 - Lieferumfang: 1 x Clip 4 Bluetooth Lautsprecher von JBL inkl. Mikro-USB-Kabel / Mini-Lautsprecher mit integriertem Karabiner in Schwarz / Lange Akkulaufzeit / 5 Watt / Inkl. Kurzanleitung
+- Der kleine Speaker bietet dank des integrierten Lithium-Ionen-Akkus jederzeit und überall bis zu 10 Stunden Musikwiedergabe - für stundenlangen Musikgenuss
 - Robust, handlich und ein cooler Look: Der kleine, wasserdichte Clip 4 Lautsprecher überzeugt mit seinem erstklassigen JBL Sound sowie dem stylischen, ovalen Design - erhältlich in zahlreichen Farben
 - Bereit fürs Abenteuer: Die kabellose Soundbox hat einen integrierten Karabinerhaken, der einfach am Rucksack oder der Kleidung befestigt werden kann - die ideale Musik Box für jede Lebenslage
 - Idealer Begleiter für jeden Outdoor Spaß: Der robuste, wasserdichte Lautsprecher kann einfach mit an den Strand oder den Pool genommen werden - dank IP67 ist Wasser kein Problem

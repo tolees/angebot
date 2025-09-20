@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit breiten Felgen, verbreiterten Kotflügeln und coolen Scheinwerfern kannst du die Ganoven aus LEGO City bei rasanten Verfolgungsjagden schnappen
-- Die LEGO City Polizei-Spielzeuge sind ideale Geschenke für Kinder ab 5 Jahren zum Geburtstag oder zu jedem anderen Anlass
 - Dieses LEGO City Set enthält eine gedruckte bebilderte Anleitung und eine digitale Bauanleitung, die in der LEGO Bauanleitungen App verfügbar ist
 - Dieses LEGO City Set für Kinder enthält die Mini-Figur eines LEGO Polizistenn mit Spielzeug-Taschenlampe und einer Polizeimütze
-- Enthält ein Polizeiauto, das in der Fahrerkabine Platz für die Mini-Figur des Polizisten bietet – für stundenlange, fantasievolle Verbrecherjagden
 - Spiele unterwegs! Das Polizeiauto ist aufgebaut 11 cm lang und 5 cm breit und eignet sich perfekt für jede Menge Spielspaß unterwegs
+- Enthält ein Polizeiauto, das in der Fahrerkabine Platz für die Mini-Figur des Polizisten bietet – für stundenlange, fantasievolle Verbrecherjagden
+- Die LEGO City Polizei-Spielzeuge sind ideale Geschenke für Kinder ab 5 Jahren zum Geburtstag oder zu jedem anderen Anlass
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09BNVCL8N{{</world>}}

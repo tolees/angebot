@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Maschinenwaschbar
 - Wasserbasierter Druck auf Vorder- und Rückseite
 - T-Shirt mit Rundhalsausschnitt, klassischer Länge
-- Maschinenwaschbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CTCRDX37{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Diese kommt in einem schönen mittleren Stonewash Blau & ist somit ideal für die Frühjahr - Sommer Session.
 - Perfekt für die Männer die es unkompliziert mögen und besonders bequem - die Hose verfügt über ein gerades Bein mit lockerer Oberschenkel & Knie weite.
+- Diese kommt in einem schönen mittleren Stonewash Blau & ist somit ideal für die Frühjahr - Sommer Session.
 - Jeans für Herren in Standard der dänischen Marke JACK&JONES
 - Der Schnitt ist zudem gerade Mega angesagt & läßt sich prima zu verschiedenen Styles Kombinieren.
 

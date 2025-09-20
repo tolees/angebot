@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 prozent recycelter Polyester (einfach gewebt)
 - Elastischer Bund mit Kordelzug
+- 100 prozent recycelter Polyester (einfach gewebt)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BPGQR3MT{{</world>}}

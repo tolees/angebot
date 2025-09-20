@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standardpassform
 - Fleece-Material für ein weiches Tragegefühl
+- Standardpassform
 - Rippmaterial an Bündchen und Saum
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Setzen Sie das fertig montierte Modell in den Rampenlichtern auf und bewundern Sie es auf Ihrem Präsentationsbrett. Mit seinen 25x12x8 cm ist es ein beeindruckendes Zierstück, das die räumliche Vorstellungskraft und das kreative Denken fördert.
+- Das -Bauleset bietet sechs Stunden voller Freude beim Bau und ist sowohl für die Anzeige auf einem Regal als auch für Action auf der Rennstrecke geeignet. Die detaillierte Anleitung ermöglicht auch 6-jährigen Kindern den einfachen Bau.
 - Das -Bauleset in klassischem Weiß mit aufstrebenden roten Auflagen ist nicht nur ein Baumodell, sondern auch ein fahrbares RC-Rennauto. Ein 1:16-Modell voller Authentizität und Technologie.
 - Dieses RC-Auto aus 420 Bausteinen bietet echte Details: ein lenkbares Steuerrad, drehbare Räder, eine aufklappbare Motorhaube und Türen.
-- Das -Bauleset bietet sechs Stunden voller Freude beim Bau und ist sowohl für die Anzeige auf einem Regal als auch für Action auf der Rennstrecke geeignet. Die detaillierte Anleitung ermöglicht auch 6-jährigen Kindern den einfachen Bau.
 - Mit einem 2,4-GHz-Fernsteuersystem und einer maximalen Reichweite von 50 Metern flitzt das Modell mit bis zu 2 Metern pro Sekunde über den Boden – ein echter Traum für jeden Rennwagen-Fan. Das Auto wird mit 3 AA-Batterien betrieben, die Fernsteuerung benötigt 2 AA-Batterien. (Batterien sind nicht im Lieferumfang enthalten.)
+- Setzen Sie das fertig montierte Modell in den Rampenlichtern auf und bewundern Sie es auf Ihrem Präsentationsbrett. Mit seinen 25x12x8 cm ist es ein beeindruckendes Zierstück, das die räumliche Vorstellungskraft und das kreative Denken fördert.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DFT3DM8D{{</world>}}

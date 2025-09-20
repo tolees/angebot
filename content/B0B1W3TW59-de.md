@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnelle Datenübertragung von bis zu 200MB/s¹ beim Lesen
 - Speicher mit hoher Kapazität von bis zu 256 GB²
+- Schnelle Datenübertragung von bis zu 200MB/s¹ beim Lesen
 - Superkleines, hochwertiges Metalldesign
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vollbringe Heldentaten und lass deinen Ruhm in fünf Reichen wachsen
 - Durchreise eine lebendige Welt, stelle Einheiten zusammen und führe sie in kunstvoll animierte Gefechte
-- Stelle dich dem Schicksal und kämpfe mit deinen treuen Verbündeten um deinen rechtmäßigen Thron
 - Versammle eine riesige Armee mit über 60 einzigartigen Charakteren, von Menschen und Elfen zu riesigen Bestien und himmlischen Engeln
+- Stelle dich dem Schicksal und kämpfe mit deinen treuen Verbündeten um deinen rechtmäßigen Thron
+- Vollbringe Heldentaten und lass deinen Ruhm in fünf Reichen wachsen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJHT9PBT{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sofortbildkamera mit Fotos im Scheckkartenformat
 - Retro-Design im klassischen Stil, metallisch anmutende Oberfläche mit orangefarbenen Akzenten
-- Einfache Bedienung mit automatischer Belichtung, Blitzsteuerung, Nahaufnahmemodus mit Parallaxenkorrektur
 - Eingebaute Selfielinse und Selfiespiegel
+- Sofortbildkamera mit Fotos im Scheckkartenformat
+- Einfache Bedienung mit automatischer Belichtung, Blitzsteuerung, Nahaufnahmemodus mit Parallaxenkorrektur
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DYVSGMT5{{</world>}}

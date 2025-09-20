@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hinterlässt einen frischen Duft
 - Lindert die Haut nach der Rasur sofort
 - Stärkt die natürliche Schutzbarriere der Haut
-- Hinterlässt einen frischen Duft
 - erfrischt die Gesichtshaut
 - Zieht schnell ein
 

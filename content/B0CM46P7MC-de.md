@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Farbe: weiß
+- Ausgang: 5,1V, 5A; 9V, 3A; 12V, 2,25A; 15V, 1,8A (Power Delivery)
 - Anschluss: USB-C
 - Kabel: 1,2m 18AWG
-- Ausgang: 5,1V, 5A; 9V, 3A; 12V, 2,25A; 15V, 1,8A (Power Delivery)
-- Farbe: weiß
 - Eingang: 100 - 240V AC
 
 [🛒 Hier!!]({{< param buyurl >}})

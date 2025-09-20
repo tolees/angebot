@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - [Dimensity 7050 5G Chipset] 48-month long lasting fluency CPU：TSMC 6nm Process, Octa-core, Up to 2.6Ghz GPU：Mali-G68
 - [67W SUPERVOOC Charge + 5000mAh Battery]A super speedy, super secure, super reliable 67W(MAX) SUPERVOOC Charge ensures you enjoy a no-nonsense phone experience, capable of charging up to 50% in 18 minutes. A massive 5000mAh battery that can last up to 19 hours of video playback
 - [Premium Vegan Leather Design] realme Design Studio × Matteo Menotto collaborated design. For this collaboration, Matteo Menotto has created a print that incorporates a Milan urban fashion aesthetic into the design of the realme 11 Pro series.
-- [120Hz Curved Vision Display] 1 billion rich colours, with high brilliance, brightness, and clarity, bringing a delectable viewing experience that always hits just right.
 - [100MP OIS ProLight Camera] Advanced In-sensor Zoom technology brings a 2× zoom that is far sharper than normal digital zooms. SuperOIS technology helps you capture moving subjects with greater confidence.
+- [120Hz Curved Vision Display] 1 billion rich colours, with high brilliance, brightness, and clarity, bringing a delectable viewing experience that always hits just right.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C3RGXWHY{{</world>}}

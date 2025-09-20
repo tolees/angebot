@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Liefermenge 1 Stück
 - Porzellan
+- Liefermenge 1 Stück
 - 18 x 15,5 x 15 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

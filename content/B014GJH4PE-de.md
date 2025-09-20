@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Natürliches Leuchten für jede Haut
 - Langanhaltend
+- Natürliches Leuchten für jede Haut
 - Lebendig-leichte bis mittlere Deckkraft schenkt dem Teint ein ebenmäßiges Aussehen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

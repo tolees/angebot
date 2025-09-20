@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Längere Leuchtdauer, besserer Sichtkomfort und reduzierte manuelle Eingriffe mit dem REACTIVE LIGHTING-Modus: Die Leuchtkraft und die Form des Lichtkegels werden über einen Helligkeitssensor automatisch angepasst, um die Akkulaufzeit zu optimieren.
-- Lithium-Ionen-Akku 2350 mAh, aufladbar über Micro-USB-Anschluss Typ B.
+- Tragekomfort dank des ergonomischen, anpassbaren, zweiteiligen Kopfbands für optimalen Halt bei dynamischen Aktivitäten. Kopfband aus reflektierendem Material am Hinterkopf, um im Dunkeln gut sichtbar zu sein. Abnehmbares, waschbares Kopfband.
 - Die LOCK-Funktion verhindert ein unbeabsichtigtes Einschalten während des Transports und bei Nichtbenutzung der Lampe.
 - Der Lampenkörper lässt sich nach oben schwenken, um den Weg auszuleuchten, wenn die Lampe um den Hals getragen wird.
+- Längere Leuchtdauer, besserer Sichtkomfort und reduzierte manuelle Eingriffe mit dem REACTIVE LIGHTING-Modus: Die Leuchtkraft und die Form des Lichtkegels werden über einen Helligkeitssensor automatisch angepasst, um die Akkulaufzeit zu optimieren.
 - Sichtkomfort dank des kombinierten Lichtkegels für eine leistungsstarke Beleuchtung bei Outdoor-Aktivitäten: Sicht im Umgebungsbereich, Fortbewegung und Fernsicht.
-- Tragekomfort dank des ergonomischen, anpassbaren, zweiteiligen Kopfbands für optimalen Halt bei dynamischen Aktivitäten. Kopfband aus reflektierendem Material am Hinterkopf, um im Dunkeln gut sichtbar zu sein. Abnehmbares, waschbares Kopfband.
+- Lithium-Ionen-Akku 2350 mAh, aufladbar über Micro-USB-Anschluss Typ B.
 - Kompakte, sehr leistungsstarke, aufladbare Stirnlampe mit REACTIVE LIGHTING-Technologie. Leuchtstärke von 1100 Lumen bei einem Gewicht von nur 100 g.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

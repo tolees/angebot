@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unterstützt dank integriertem Phono-EQ sowohl Phono- als auch Line-Ausgänge
 - Zwei Geschwindigkeiten: 33 1/3 und 45 Umdrehungen/Min.
 - Vollautomatisiert zum Schutz Ihrer Platten vor Kratzern und Beschädigungen
 - Bluetooth Schnittstelle für kabellose Verbindung zu Kopfhörern, Lautsprechern, Soundbars und anderen Bluetooth Geräten
+- Unterstützt dank integriertem Phono-EQ sowohl Phono- als auch Line-Ausgänge
 - Diamantnadel für herausragende Klangwiedergabe
 
 [🛒 Hier!!]({{< param buyurl >}})

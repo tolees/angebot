@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastischer Mesh-Bund
 - Schweißableitendes Material
+- Elastischer Mesh-Bund
 - Dri-FIT-Technologie
 - Schmale Passform
 

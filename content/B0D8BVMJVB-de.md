@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Passform: Regular Fit, Rückenlänge bei Größe M ca. 63 cm
+- Klassisches T-Shirt mit Rundhalsausschnitt und Logo-print auf der Vorderseite
 - Ideal zu folgenden Anlässen: Freizeit, Party, Geburtstag, Business, Büro, Urlaub, Konzert
 - Aus atmungsaktiver und weicher Baumwolle für ein angenehmes Tragegefühl
-- Klassisches T-Shirt mit Rundhalsausschnitt und Logo-print auf der Vorderseite
-- Passform: Regular Fit, Rückenlänge bei Größe M ca. 63 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D8BVMJVB{{</world>}}

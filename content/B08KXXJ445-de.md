@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Aus weicher Bauwollmischfaser
-- Schlichtes Sweatshirt mit Rundhalsausschnitt
-- Klassischer Rundhalsausschnitt
 - Fleece-Style
+- Klassischer Rundhalsausschnitt
+- Schlichtes Sweatshirt mit Rundhalsausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08KXXJ445{{</world>}}

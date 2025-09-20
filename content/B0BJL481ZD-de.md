@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Textilfutter
 - Reguläre Passform
 - Zwischensohle in vulkanisierter Optik
-- Textilfutter
 - Obermaterial aus Synthetik-Nubuk
 - Schnürsenkel
 

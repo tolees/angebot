@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ✅ Zellen der Zahnwurzelhaut (Desmodont) bleiben bis zur Replantation intakt
 - ✅ Sichere Aufbewahrung bis zu 48 Stunden
 - ✅ Sofort einsatzbereit
 - ✅ Wiedereinsetzten des Zahnes möglich
+- ✅ Zellen der Zahnwurzelhaut (Desmodont) bleiben bis zur Replantation intakt
 - ✅ Sterile Transportbox für ausgeschlagene Zähne & Zahnfragmente
 
 [🛒 Hier!!]({{< param buyurl >}})

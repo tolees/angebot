@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Wir entwickeln intelligente kombinierte Connectivity-Lösungen, die unsere IT- und AV-Welt sukzessive verschmelzen
-- Langlebig und robust
 - Dabei denken wir ganzheitlich und sorgen für ein harmonisches Zusammenspiel aller Komponenten
+- Langlebig und robust
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09YNN2PKG{{</world>}}

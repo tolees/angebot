@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EASY FIT
-- RECYCLED
-- LIGHTWEIGHT
-- ETRA DURABLE INGREDIENTS
 - GOOD GRIP
+- EASY FIT
+- LIGHTWEIGHT
+- RECYCLED
+- ETRA DURABLE INGREDIENTS
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B098PCF24J{{</world>}}

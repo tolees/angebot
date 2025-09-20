@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Auch für Fahrräder mit Oversize und Y-Rahmen geeignet
-- Max. Nutzlast: ca. 50 kg
-- Zum Transportieren von Fahrrädern auf der Anhängerkupplung
 - für 4 Fahrräder
+- Zum Transportieren von Fahrrädern auf der Anhängerkupplung
+- Max. Nutzlast: ca. 50 kg
 - Material aus Stahl und pulverlackbeschichtet
+- Auch für Fahrräder mit Oversize und Y-Rahmen geeignet
 - Tiefe: Ca. 4,5 cm; Kugeldurchmesser: 5 cm
 
 [🛒 Hier!!]({{< param buyurl >}})

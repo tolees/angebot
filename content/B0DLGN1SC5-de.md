@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In einem intergalaktischen Krieg zwischen zwei außerirdischen Völkern wurde 2054 die Erde zerstört. Eine kleine Gruppe Überlebender muss mit ihrem Raumschiff auf dem riesigen unerschlossenen Planeten Mira notlanden – und nun ist es an dir, die Menschheit vor ihrer Auslöschung zu bewahren!
+- Spiel alleine oder bilde online ein Team mit bis zu 31 anderen Spielern von nah und fern in Truppaufgaben, Online-Missionen und besonders herausfordernden Nemesis-Kämpfen! Für das online Spielen ist eine Nintendo Switch Online-Mitgliedschaft erforderlich (nicht enthalten).
+- Spieleranzahl: 1 Spieler
+- Diese grafisch verbesserte Version des epischen Sci-Fi-RPGs bietet zusätzliche Inhalte – darunter neue Story-Elemente.
+- Dir steht eine riesige Auswahl an Spezialattacken, Fähigkeiten und Klassen zur Verfügung in einem Kampfsystem, das so einfach oder komplex sein kann, wie du möchtest.
 - Genre: Adventure, RPG
 - Mira ist eine riesige fremde Welt voller gigantischer Ozeane, weiter Grassteppen, hoher Bergzüge, exotischer Dschungel und noch mehr. Überall gibt es Geheimnisse zu entdecken und Bedrohungen zu bekämpfen.
-- Spieleranzahl: 1 Spieler
-- Spiel alleine oder bilde online ein Team mit bis zu 31 anderen Spielern von nah und fern in Truppaufgaben, Online-Missionen und besonders herausfordernden Nemesis-Kämpfen! Für das online Spielen ist eine Nintendo Switch Online-Mitgliedschaft erforderlich (nicht enthalten).
-- Dir steht eine riesige Auswahl an Spezialattacken, Fähigkeiten und Klassen zur Verfügung in einem Kampfsystem, das so einfach oder komplex sein kann, wie du möchtest.
-- Diese grafisch verbesserte Version des epischen Sci-Fi-RPGs bietet zusätzliche Inhalte – darunter neue Story-Elemente.
+- In einem intergalaktischen Krieg zwischen zwei außerirdischen Völkern wurde 2054 die Erde zerstört. Eine kleine Gruppe Überlebender muss mit ihrem Raumschiff auf dem riesigen unerschlossenen Planeten Mira notlanden – und nun ist es an dir, die Menschheit vor ihrer Auslöschung zu bewahren!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DLGN1SC5{{</world>}}

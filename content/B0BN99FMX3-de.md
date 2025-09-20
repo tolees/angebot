@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Produkttyp: Pumps,Klassische Pumps,Court Shoes,Absatzschuhe,Stöckelschuhe,Businessschuhe,Büro,Office,elegant
+- Weite: Normal, Verschluss: ohne, Schuhspitze: rund
 - Absatztyp: Trichterabsatz, Absatzhöhe: 7 cm, Schafttyp: Kurzschaft, Schafthöhe: 6.5 cm
 - Funktion: TOUCH-IT, Absatztechnologie: A.slide/A.shokk
-- Weite: Normal, Verschluss: ohne, Schuhspitze: rund
 - Obermaterial: Leder, Innenmaterial: Materialmix aus Textil und Synthetik, Laufsohle: Synthetik, Decksohle: Materialmix aus Textil und Synthetik
-- Produkttyp: Pumps,Klassische Pumps,Court Shoes,Absatzschuhe,Stöckelschuhe,Businessschuhe,Büro,Office,elegant
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BN99FMX3{{</world>}}

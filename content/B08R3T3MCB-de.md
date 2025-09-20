@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nike dri-fit technology helps to stay dry and comfortable
 - Elastic waistband and hidden drawcord give a snug fit
-- Material: Polyester
 - Knit fabric feels smooth and lightweight
+- Nike dri-fit technology helps to stay dry and comfortable
+- Material: Polyester
 - Sport type: soccer
 
 [🛒 Hier!!]({{< param buyurl >}})

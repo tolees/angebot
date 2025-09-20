@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hals : Rundhals
 - Ärmel : Tief angesetzte Schulter
+- Hals : Rundhals
 - Passform : Locker geschnitten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

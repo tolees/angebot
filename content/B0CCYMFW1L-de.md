@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwei Taschen auf der Vorderseite mit Münztasche
 - Bund mit Gürtelschlaufen, Knopf und Zipper
 - Standardlänge
+- Zwei Taschen auf der Vorderseite mit Münztasche
 - Einem angenehmen Tragegefühl und der weichen Haptik
 - Mit regulärer Passform
 

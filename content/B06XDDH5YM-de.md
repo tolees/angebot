@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Für weiches Haar, gesunde und Austrocknen; mehrfach gereinigten Kopfhaut
 - Für Fette, Spitzen trockene Wurzeln, ohne Silikonen und ohne Parabene
 - Mit Wasser- und Kokosfaser Agenten Fußpflaster
-- Für weiches Haar, gesunde und Austrocknen; mehrfach gereinigten Kopfhaut
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06XDDH5YM{{</world>}}

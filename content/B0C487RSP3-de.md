@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 100% Bio-Baumwolle
 - Standard Fit
+- Materialzusammensetzung: 100% Bio-Baumwolle
 - Kurzarm
 - T-shirt
 

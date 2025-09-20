@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Figuren von Evoli, Aquana, Blitza, Flamara, Psiana, Nachtara, Folipurba, Glaziola und Feelinara zum Zusammenbauen
-- Jede Figur ist voll beweglich
-- Einfach organisierter farbcodierter Zusammenbau und Anleitungen
 - Mit Pokemon lässt sich eine tolle Spielwelt ohne Grenzen bauen
+- Einfach organisierter farbcodierter Zusammenbau und Anleitungen
+- Jede Figur ist voll beweglich
 - Lässt sich mit anderen Pokemon-Bausets von Mega Construx ergänzen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

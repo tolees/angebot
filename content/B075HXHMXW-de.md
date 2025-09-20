@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPEZIFIKATION: Anschlussdurchmesser: ø 50 auf ø 40 mm | Farbe: verkehrsgrau | Type: HT 50/40 MM
 - VIELSEITIG: dieses robuste Abflussrohr eignet sich ideal zur Entwässerung von Gebäuden als Schmutzwasserleitung, Regenwasserleitung oder Lüftungsleitung und dient als Übergang von Blei- und Kunststoffrohre
+- SPEZIFIKATION: Anschlussdurchmesser: ø 50 auf ø 40 mm | Farbe: verkehrsgrau | Type: HT 50/40 MM
 - ROBUST: das Abwasserrohr DN 40x32 mm ist aus strapazierfähigem Kunststoff gefertigt und überzeugt durch eine sehr robuste Bauform
 - LIEFERUMFANG: Abflussrohr DN 50/40mm, Kunststoff in Verkehrsgrau
 

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Wanderschuh für Tagestouren
-- gut dämpfende, robuste Wandersohle
 - komfortable Passform, griffiges Profil
 - Aktivitätsindex: A (Hiking)
+- gut dämpfende, robuste Wandersohle
 - wasserdicht, atmungsaktiv
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

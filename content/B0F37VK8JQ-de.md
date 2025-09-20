@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SICHER FÜR KINDER UND HAUSTIERE – Die winzigen Schlupfwespen (nur 0,04 mm groß) sind eine natürliche und sichere Mottenfalle Lebensmittel. Sie sind vollkommen unbedenklich für Mensch und Tier und zerfallen nach dem Einsatz rückstandslos zu Hausstaub.
-- KINDERLEICHTE ANWENDUNG – Einfach die Karten in der Nähe der befallenen Vorräte platzieren – die Schlupfwespen arbeiten ganz von allein. Eine natürliche Alternative zur klassischen Mottenfalle Lebensmittelmotten.
 - FRISCH AUS DEUTSCHER ZUCHT – Unsere Nützlinge werden täglich frisch gezüchtet und direkt verschickt. Der zuverlässige Mottenschutz sorgt dafür, dass Sie nach 8 Wochen garantiert keine Lebensmittelmotten mehr im Haus haben. Für eine optimale Behandlung empfehlen wir, alle zwei Wochen eine neue Karte zu verwenden, bis der empfohlene Behandlungszyklus abgeschlossen ist.
-- LEBENSMITTELMOTTEN ADE – Die Wolkenfeld Schlupfwespen gegen Motten und Vorratsschädlinge helfen dabei, lebensmittelmotten bekämpfen direkt an der Quelle – nachhaltig, effektiv und ganz ohne Chemie. Deutlich wirksamer als klassische Mottenfallen oder Sprays.
+- SICHER FÜR KINDER UND HAUSTIERE – Die winzigen Schlupfwespen (nur 0,04 mm groß) sind eine natürliche und sichere Mottenfalle Lebensmittel. Sie sind vollkommen unbedenklich für Mensch und Tier und zerfallen nach dem Einsatz rückstandslos zu Hausstaub.
 - ZUVERLÄSSIGE EINZELLIEFERUNG – Jetzt Schlupfwespen von Wolkenfeld kaufen und gezielt zur laufenden Mottenbehandlung ergänzen. Ideal als natürliche Ergänzung oder Alternative zur Lebensmittelmotten Falle – mit täglich frischem Versand für maximale Wirksamkeit.
+- KINDERLEICHTE ANWENDUNG – Einfach die Karten in der Nähe der befallenen Vorräte platzieren – die Schlupfwespen arbeiten ganz von allein. Eine natürliche Alternative zur klassischen Mottenfalle Lebensmittelmotten.
+- LEBENSMITTELMOTTEN ADE – Die Wolkenfeld Schlupfwespen gegen Motten und Vorratsschädlinge helfen dabei, lebensmittelmotten bekämpfen direkt an der Quelle – nachhaltig, effektiv und ganz ohne Chemie. Deutlich wirksamer als klassische Mottenfallen oder Sprays.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F37VK8JQ{{</world>}}

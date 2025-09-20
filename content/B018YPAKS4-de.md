@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Professioneller, kleiner Winkelschleifer mit einem geringen Griffumfang von 176 mm, bietet optimierte Ergonomie für ermüdungsarmes Arbeiten
-- Kompakter 720-Watt-Motor bietet das beste Verhältnis zwischen Leistung und Griffigkeit für kontinuierliches Arbeiten
-- Lieferumfang: GWS 7-125, Zusatzhandgriff, Aufnahmeflansch, Schutzhaube, Spannmutter, Zweilochschlüssel
-- Flacher Getriebekopf sorgt auch an engen Stellen für guten Arbeitsfortschritt
 - Kleinster Griffumfang in der 720-Watt-Klasse
+- Kompakter 720-Watt-Motor bietet das beste Verhältnis zwischen Leistung und Griffigkeit für kontinuierliches Arbeiten
+- Flacher Getriebekopf sorgt auch an engen Stellen für guten Arbeitsfortschritt
+- Lieferumfang: GWS 7-125, Zusatzhandgriff, Aufnahmeflansch, Schutzhaube, Spannmutter, Zweilochschlüssel
+- Professioneller, kleiner Winkelschleifer mit einem geringen Griffumfang von 176 mm, bietet optimierte Ergonomie für ermüdungsarmes Arbeiten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B018YPAKS4{{</world>}}

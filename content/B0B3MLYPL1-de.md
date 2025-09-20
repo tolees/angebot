@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Inklusive klappbarem Smartphone-Ständer (kompatibel mit Handys und Tablets)
 - Mixen Sie ganz einfach auf Ihrem Smartphone über Bluetooth – die Verbindung erfolgt einfach und schnell!
+- TBC
+- Kabelloser Controller mit Bluetooth für Android-Smartphones und iPhones, sowie für Android-Tablets und iPads
 - Jogwheels zum Mixen und Scratchen sowie Fader, Drehregler und Pads: Mixen wie mit einem richtig großen DJ-Controller, wo immer Sie wollen
 - Ermöglicht den Zugriff auf wichtige Funktionen für das DJing: Cue-Punkte, Samples, Effekte, Loops
-- Genießen Sie das Mixen mit 4 SoundCloud-Playlists mit 20 tollen Songs, kostenlos und ohne sich anmelden zu müssen
 - Abhören von Tracks: Hören Sie Ihren Mix über Kopfhörer mit dem mitgelieferten Splitterkabel
-- Kabelloser Controller mit Bluetooth für Android-Smartphones und iPhones, sowie für Android-Tablets und iPads
 - In der djay-App können Sie mit Tracks mixen, die auf Ihrem Smartphone gespeichert sind oder von unterstützten Musik-Streamingdiensten stammen (TIDAL und SoundCloud (iOS und Android), Beatport ADVANCED und Beatsource (nur bei iOS), Abonnements für Musik-Streaming-Dienste sind erforderlich
-- TBC
-- Inklusive klappbarem Smartphone-Ständer (kompatibel mit Handys und Tablets)
+- Genießen Sie das Mixen mit 4 SoundCloud-Playlists mit 20 tollen Songs, kostenlos und ohne sich anmelden zu müssen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B3MLYPL1{{</world>}}

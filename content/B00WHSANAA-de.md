@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 125ml
 - Produktart: Moisturizing Emulzion
+- Inhalt: 125ml
 - Produktlinie: Dramatically Different
 - Designer - Hersteller: Clinique
 

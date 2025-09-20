@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Logo Artworks vorne und hinten
-- Knopfriegel am kontrastvollen Ärmelsaum
-- Dobby-Bindung mit Streifenstruktur
 - durchgehende Knopfleiste
 - Klappentaschen mit Knopfverschluss
+- Dobby-Bindung mit Streifenstruktur
+- Knopfriegel am kontrastvollen Ärmelsaum
+- Logo Artworks vorne und hinten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D991CB2J{{</world>}}

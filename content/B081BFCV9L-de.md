@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H): 5.5 zm x 15.0 zm x 20.0 zm
 - Herkunftsland:- China
+- Verpackungsabmessungen (L x B x H): 5.5 zm x 15.0 zm x 20.0 zm
 - Beschreibung der Altersgruppe: Für Babys und Erwachsene.
 - Verpackungsgewicht: 140 g
 

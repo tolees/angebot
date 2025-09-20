@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durchgehende Schnürung für einen festen Sitz
 - Obermaterial aus Veloursleder
+- Durchgehende Schnürung für einen festen Sitz
 - Dämpfende Zwischensohle für Komfort
 
 [🛒 Hier!!]({{< param buyurl >}})

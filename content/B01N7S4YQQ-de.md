@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mit intelligentem ausklappbarem Griff - ermöglicht einfaches Ausstecken des Flachsteckers aus der Steckdose ohne Kraftaufwand
 - Verlängerungskabel eignet sich ideal für den praktischen und platzsparenden Einsatz im Innenbereich
-- Schutzkontakt-Winkelstecker und Schutzkontakt-Kupplung aus stabilem Kunststoff
 - Extraflacher Schutzkontakt-Winkelstecker und Schutzkontakt-Kupplung aus Kunststoff mit 10m Kabellänge H05VV-F 3G1,5 und erhöhtem Berührungsschutz
+- Schutzkontakt-Winkelstecker und Schutzkontakt-Kupplung aus stabilem Kunststoff
 - Lieferumfang: 1 x Verlängerungskabel mit ausklappbarem Griff - in bester Qualität von brennenstuhl
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

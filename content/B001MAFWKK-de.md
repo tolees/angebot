@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ob Walken oder Wandern diese Trekkingsocken bieten Ihnen festen Schuhkontakt und eine hohe Dämpfung in Wanderschuhen (Schuhkategorien A B); bei Zwischengrößen empfehlen wir die kleinere Größe
 - Die hochwertige Merinowolle wärmt bei kalten und kühlt bei warmen Temperaturen Ihre Füße; die Ganzjahreswandersocken begleiten Sie bei Ihren Outdooraktivitäten bei allen Wetterbedingungen
+- Spezielle geschlechtsspezifische Strickverfahren, die auf die anatomischen Unterschiede Ihres rechten und linken Fußes abgestimmt sind, sorgen für hohen Tragekomfort und eine faltenfreie Passform
 - Die Wandersocken für das Mittelgebirge aus geruchshemmender, atmungsaktiver Wolle und Funktionsmaterial halten Ihre Füße aufgrund der 3 lagigen feuchtigkeitsabsobierenden Sohlenkonstruktion trocken
 - Die mittelstarke Polsterung an den Belastungszonen der Thermosocken für das einfache Gelände bieten Ihnen einen hohen Tragekomfort; die flache Zehennaht verhindert Druckstellen, Reibung und Blasen
-- Spezielle geschlechtsspezifische Strickverfahren, die auf die anatomischen Unterschiede Ihres rechten und linken Fußes abgestimmt sind, sorgen für hohen Tragekomfort und eine faltenfreie Passform
+- Ob Walken oder Wandern diese Trekkingsocken bieten Ihnen festen Schuhkontakt und eine hohe Dämpfung in Wanderschuhen (Schuhkategorien A B); bei Zwischengrößen empfehlen wir die kleinere Größe
 - Das Familienunternehmen FALKE, gegründet 1895, basiert auf festen Werten: Bedingungslose Qualität, höchste Handwerkskunst, innovative Artikel und umweltfreundliche Verpackung ohne Plastikhaken
 
 [🛒 Hier!!]({{< param buyurl >}})

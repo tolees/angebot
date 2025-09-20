@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absolut lässige Jeans in schönen Waschungen
 - Logo geprägte Knöpfe und Nieten
-- Passform: Slim Fit / am Bein sehr eng geschnitten
-- Material: 70% Baumwolle, 28% Polyester, 2% Elasthan
 - Leder-Patch am Bund & auf der Kleingeldtasche
+- Material: 70% Baumwolle, 28% Polyester, 2% Elasthan
+- Absolut lässige Jeans in schönen Waschungen
+- Passform: Slim Fit / am Bein sehr eng geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07JQBGTYS{{</world>}}

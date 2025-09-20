@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus recyelte PET
 - OrthoLite Recycling Innersohle für Dämpfung und Atmungsaktivität
+- Obermaterial aus recyelte PET
 - EVA-Laufsohle für geringes Gewicht (20% recycelt)
 
 [🛒 Hier!!]({{< param buyurl >}})

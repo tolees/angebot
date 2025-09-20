@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die eloxierte Kugel ist perfekt gegen Kratzer geschützt
-- universelle, Arca kompatible Platte mit eingebautem Sicherheitsstift, QS-60V2
 - separater Arretierungsknopf
 - Gewicht: 0,58 kg
-- Friktionsknopf und Schwenkknopf
 - Max. Belastung: 20 kg
+- Friktionsknopf und Schwenkknopf
+- universelle, Arca kompatible Platte mit eingebautem Sicherheitsstift, QS-60V2
+- Die eloxierte Kugel ist perfekt gegen Kratzer geschützt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B06ZXY5ZX3{{</world>}}

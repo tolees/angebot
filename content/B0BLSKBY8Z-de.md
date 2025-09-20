@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PFC-frei
-- bluesign-zertifiziert
 - bequemes Tragesystem mit breiten Gurten
-- Laptoprucksack für Freizeit und Büro
+- bluesign-zertifiziert
 - herausnehmbares Laptopfach
+- Laptoprucksack für Freizeit und Büro
+- PFC-frei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BLSKBY8Z{{</world>}}

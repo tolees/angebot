@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Formel bestehend aus Aloe Water und Hyaluronsäure für 72 Stunden lange Feuchtigkeitsversorgung, Zartpflegende Öle und Wasser für optimales Verteilen und Einziehen in die Haut
 - Hydratisierendes Feuchtigkeitsfluid mit sofortigem Feuchtigkeitsboost und tiefenwirksamer Pflege, Erfrischende Wirkung, Für normale Haut bis Mischhaut geeignet
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Lieferumfang: 1x LOréal Paris Hydra Genius Aloe Water Feuchtigkeitsfluid, 70 ml
 - Anwendung: Tägliches Auftragen morgens und abends auf das gereinigte Gesicht, Leichtes Einmassieren in die Haut durch kreisende Bewegungen
-- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Ergebnis: Sofort frischere, weichere und geschmeidigere Haut, Tiefe und langanhaltend hydratisierte Hautstruktur, Natürlich schönes und belebtes Hautbild
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

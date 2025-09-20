@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anti-Rutsch
 - Maximale Tragkraft
+- Anti-Rutsch
 - Präzise Messung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

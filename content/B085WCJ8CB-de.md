@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nicht für Stahldraht und hartgezogene Kupferleiter geeignet
-- Abmessungen (B x H x T): 75 x 180 x 55 mm
-- Schneidet glatt und sauber, ohne zu quetschen
-- Werkzeugtasche aus strapazierfähigem Polyestergewebe, mit Klettverschluss und Gürtelclip
 - Leichter Schnitt bei Einhandbedienung
+- Werkzeugtasche aus strapazierfähigem Polyestergewebe, mit Klettverschluss und Gürtelclip
+- Abmessungen (B x H x T): 75 x 180 x 55 mm
+- Nicht für Stahldraht und hartgezogene Kupferleiter geeignet
+- Schneidet glatt und sauber, ohne zu quetschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B085WCJ8CB{{</world>}}

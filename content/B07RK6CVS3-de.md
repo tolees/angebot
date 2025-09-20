@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Green IT, spart bis zu 60% Energie; Lüfterlose Ruhe; Betriebstemperatur: 0°C ~ 40°C
 - Produktabmessungen: 105 × 70 × 25mm
+- 5-Port Gigabit-Netzwerk Switch mit Autoabstimmung und Auto-MDI/MDIX; Bis 2000 Mbit/s
 - Plug-and-Play, keine Konfiguration notwendig; Optimiert Datenverkehr
 - Lieferumfang: 5-Port Gigabit Netzwerk Switch(MS105G), Spannungsadapter, Bedienungsanleitung
-- 5-Port Gigabit-Netzwerk Switch mit Autoabstimmung und Auto-MDI/MDIX; Bis 2000 Mbit/s
+- Green IT, spart bis zu 60% Energie; Lüfterlose Ruhe; Betriebstemperatur: 0°C ~ 40°C
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07RK6CVS3{{</world>}}

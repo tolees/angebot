@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Leather
 - Absatzform: Lace-Up
+- Innenmaterial: Leather
 - Obermaterial: smooth_leather
 - Sohle: Rubber
 

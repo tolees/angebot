@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenmaterial: Textil
-- Wasserfeste Membran CLIMAPROTECT
 - Absatzform: Schnürsenkel
+- Wasserfeste Membran CLIMAPROTECT
 - Sohle: Gummi
 - Obermaterial: Synthetik
 

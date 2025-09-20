@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Logo Artworks vorne und hinten
-- Klappentaschen mit Knopfverschluss
 - durchgehende Knopfleiste
+- Logo Artworks vorne und hinten
 - Knopfriegel am kontrastvollen Ärmelsaum
 - Dobby-Bindung mit Streifenstruktur
+- Klappentaschen mit Knopfverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D99GTQMF{{</world>}}

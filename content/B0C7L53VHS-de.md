@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hauptmaterial zu 100% aus recycelten Materialien und bluesign zertifiziert
 - Vorrichtung für Trinksystem (deuter Streamer 2.0 - nicht enthalten!)
 - Viel Bewegungsfreiheit und optimaler Lastenschwerpunkt dank des V-Schnitts
 - Schlaufen für Helmhalterung (als Accessoire erhätlich)
-- Hauptmaterial zu 100% aus recycelten Materialien und bluesign zertifiziert
 - Leichtgewicht (390g)
 
 [🛒 Hier!!]({{< param buyurl >}})

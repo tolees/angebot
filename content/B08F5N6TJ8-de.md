@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Lieferung erfolgt inklusive 3x K40, 4x K80 und 3x K240 Schleifpapier von kwb um sofort mit der Arbeit beginnen zu können.
 - Durch Micro-Klett und Klemmvorrichtung ist ein einfacher und schneller Schleifpapierwechsel und der Einsatz von Schleifpapier ohne Kletthaftung gewährleistet. Die Lieferung erfolgt inklusive 1 x Schleifpapier für den sofortigen Projektstart.
 - Im Lieferumfang nicht enthalten sind Akku und Ladegerät der leistungsstarken Lithium-Ionen-Reihe Power X-Change, diese sind separat erhältlich, zum Beispiel als Starter-Set.
-- Der Akku-Schwingschleifer ist perfekt geeignet für das Schleifen von ebenen Flächen, großen Werkstücken, Verkleidungen oder Paneelen. Große Griffflächen mit Softgrip sorgen für eine komfortable Handhabung.
-- Der Einhell Akku-Schwingschleifer TC-OS 18/187 Li Solo ist ein leichter, handlicher Schwingschleifer aus der Power X-Change-Familie, mit allen Vorteilen der flexiblen, untereinander grenzenlos kombinierbaren Systemreihe.
 - Der Staubfangsack sammelt anfallenden Schleifstaub auf. Zudem bietet die Möglichkeit, einen Sauger anzuschließen, maximale Sauberkeit auf der Arbeitsfläche.
+- Der Einhell Akku-Schwingschleifer TC-OS 18/187 Li Solo ist ein leichter, handlicher Schwingschleifer aus der Power X-Change-Familie, mit allen Vorteilen der flexiblen, untereinander grenzenlos kombinierbaren Systemreihe.
+- Die Lieferung erfolgt inklusive 3x K40, 4x K80 und 3x K240 Schleifpapier von kwb um sofort mit der Arbeit beginnen zu können.
+- Der Akku-Schwingschleifer ist perfekt geeignet für das Schleifen von ebenen Flächen, großen Werkstücken, Verkleidungen oder Paneelen. Große Griffflächen mit Softgrip sorgen für eine komfortable Handhabung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08F5N6TJ8{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Material: 925 Sterlingsilber
 - perfekt zum kombinieren
 - ein schlichter dennoch schöner Ring
-- Material: 925 Sterlingsilber
 - Modell: Metallperlen
 - Größe: 56 (17,8 mm)
 

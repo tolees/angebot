@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfach zu bestückendes Klammermagazin mit Nachfüllanzeige
-- Der Elektrotacker PTK 3,6 LI - klein, handlich und leicht zu bedienen
-- Ladezustandsanzeige informiert jederzeit über den aktuellen Batteriestatus
-- Sichere und komfortable Handhabung dank rutschfesten Griffauflagen
 - Lieferumfang: PTK 3,6 LI, 1000 Klammern, Ladegerät, Metalldose
+- Der Elektrotacker PTK 3,6 LI - klein, handlich und leicht zu bedienen
+- Sichere und komfortable Handhabung dank rutschfesten Griffauflagen
+- Einfach zu bestückendes Klammermagazin mit Nachfüllanzeige
+- Ladezustandsanzeige informiert jederzeit über den aktuellen Batteriestatus
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08VRS7B87{{</world>}}

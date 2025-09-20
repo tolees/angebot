@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 6,67 Zoll / 16,94 cm
-- Fingerabdrucksensor - 5100 mAh Akku
 - 12 GB Arbeitsspeicher
+- Fingerabdrucksensor - 5100 mAh Akku
 - 256 GB interner Speicher
+- 6,67 Zoll / 16,94 cm
 - Triple-Kamera: 64 MP + 8 MP + 2 MP
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Integrierte Audio- und Mikrofonbedienelemente, Kompatibel mit: PC, PS5, PS4, Xbox Series X|S, Xbox One, Nintendo Switch, Mobilgeräte
 - Für HyperX typischer Komfort und Langlebigkeit
 - DTS Headphone:X Spatial Audio
+- Integrierte Audio- und Mikrofonbedienelemente, Kompatibel mit: PC, PS5, PS4, Xbox Series X|S, Xbox One, Nintendo Switch, Mobilgeräte
 - Abgewinkelte 53mm-Treiber, abgestimmt für tadellosen Sound
 - Ultraklares Mikrofon mit Stummschalt-LED
 

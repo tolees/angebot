@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der leistungsstarke GN60-Blitz erfüllt professionelle Anforderungen und macht ihn zu einem fantastischen Blitz für Hochzeits- und Porträtfotografie und vielem mehr.
-- Vielseitige, kabellose Funkkommunikation
 - Zuverlässige High-Speed- und Mehrfachblitzfunktionen von Sony
 - Umfassende Steuerungsmöglichkeiten über kompatible Kameras
+- Vielseitige, kabellose Funkkommunikation
+- Der leistungsstarke GN60-Blitz erfüllt professionelle Anforderungen und macht ihn zu einem fantastischen Blitz für Hochzeits- und Porträtfotografie und vielem mehr.
 - Intelligente Funkkommunikation mit dem leistungsstarken Blitzsystem von Sony
 
 [🛒 Hier!!]({{< param buyurl >}})

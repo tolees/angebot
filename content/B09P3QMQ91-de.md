@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Pool, Flugzeugbett, Klavier und Strickleiter
-- Figur Circa 4 cm groß
 - Inkl. Tuxedo Katzen Baby Figur
+- Figur Circa 4 cm groß
+- Mit Pool, Flugzeugbett, Klavier und Strickleiter
 - Kopf, Arme und Beine sind beweglich
 - süßer Heißluftballon Mit Tür zum Öffnen
 

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- EVA-Laufsohle für geringes Gewicht (20% recycelt)
 - OrthoLite Recycling Innersohle für Dämpfung und Atmungsaktivität
+- EVA-Laufsohle für geringes Gewicht (20% recycelt)
 - Global Recycled Standard-Zertifizierung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

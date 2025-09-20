@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Ethylen-Vinylacetat
-- Leder: Smooth Leather
 - 12.1299999876274 inches
+- Verschluss: Ethylen-Vinylacetat
 - LightweightLightweight
+- Leder: Smooth Leather
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVMGGVL{{</world>}}

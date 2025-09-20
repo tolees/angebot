@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erhöhte Grasaufnahme
 - Zweistufig einstellbare Griffhöhe
-- Durch eine elektronische Steuerung liefert der bürstenlose Motor eine verlängerte Akku-Laufzeit
+- Erhöhte Grasaufnahme
 - Soft-Start für weiches Anlaufen
+- Durch eine elektronische Steuerung liefert der bürstenlose Motor eine verlängerte Akku-Laufzeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B1KF36QM{{</world>}}

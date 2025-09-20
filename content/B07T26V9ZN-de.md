@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - SCHÖNES BOKEH: Eine zirkulare Blende mit 11 Lamellen ermöglicht es, die geringe Tiefenschärfe bei Super-Telezoom-Brennweiten für eindrucksvolle Bilder zu nutzen
 - UNGLAUBLICH SCHARF: Fünf ED-Glaselemente (Extra-low Dispersion) und ein asphärisches Element in einem neuen optischen Design bieten eine hervorragende Auflösung und Bildqualität über den gesamten Zoombereich
+- ALLE DETAILS EINFANGEN: Sony Nano AR-Beschichtung reduziert Geister- und Lichteffekte
 - SCHNELL UND PRÄZISE: Ein leistungsstarkes DDSSM-Fokusantriebssystem (Direct Drive SSM) sorgt für die Geschwindigkeit und Präzision, die sowohl bei Foto- als auch bei Videoaufnahmen erforderlich sind
 - PROFESSIONELLE ERGONOMIE: Die integrierte optische SteadyShot-Bildstabilisierung kompensiert Kameraverwacklungen, die bei handgeführten Aufnahmen zu unscharfen Bildern führen können
-- ALLE DETAILS EINFANGEN: Sony Nano AR-Beschichtung reduziert Geister- und Lichteffekte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07T26V9ZN{{</world>}}

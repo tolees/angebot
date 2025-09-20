@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Teile deine Power zwischen zwei kompatiblen Endgeräten mit USB Type-C
 - Usb Type-C zu USB Type-C Kabel unterstützt USB 2.0
-- Kabellänge: 1 m
 - Ausgangsleistung Max. 60 Watt (20 V 3 A)
+- Kabellänge: 1 m
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07T99CGDF{{</world>}}

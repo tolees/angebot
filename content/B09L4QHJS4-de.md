@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Innenmaterial: Synthetik
 - Verschluss: Gummi
-- Absatzform: Kein Absatz
 - Obermaterial: Kunstleder
+- Absatzform: Kein Absatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09L4QHJS4{{</world>}}

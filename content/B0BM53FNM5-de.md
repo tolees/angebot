@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss:Reißverschluss
-- Obermaterial:Leder
 - Sohle:Gummi
 - Absatzform:Flach
+- Obermaterial:Leder
+- Verschluss:Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM53FNM5{{</world>}}

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Natürlicher Verdunstungsprozess
-- Feedback zu Luftfeuchtigkeit in Echtzeit
-- Ruhemodus
-- 3 Lüftergeschwindigkeiten
-- Keine weißen Flecken oder nassen Stellen
-- Automatische Messung
 - 3 Feuchtigkeitsstufen
+- Ruhemodus
+- Feedback zu Luftfeuchtigkeit in Echtzeit
+- Natürlicher Verdunstungsprozess
+- Keine weißen Flecken oder nassen Stellen
+- 3 Lüftergeschwindigkeiten
+- Automatische Messung
 - Verbreitet 99 % weniger Bakterien*
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robustheit
+- Schriftcharakter nach DIN 1451
 - Flexible Gestaltung
 - Größe 12mm
-- Schriftcharakter nach DIN 1451
+- Robustheit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003XMX26G{{</world>}}

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spielfiguren-Set für Kinder ab 5 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- Auf dem Rückenpanzer des Dinos befindet sich ein Stehplatz mit Steuerpult für eine PLAYMOBIL-Figur. Die seitliche Kanone ist abnehmbar
 - Lieferumfang: 37-teiliges Spielfiguren-Set mit Anleitung: 2 Figuren, 2 Tiere, 33 Zubehörteile, , LxTxH 15 x 22 x 13 cm, Gewicht: 238 g, 71262
 - Milow schlägt sich durch das Dschungeldickicht und versucht den Triceratops aus den Händen des gemeinen Bösewichts zu befreien
+- Auf dem Rückenpanzer des Dinos befindet sich ein Stehplatz mit Steuerpult für eine PLAYMOBIL-Figur. Die seitliche Kanone ist abnehmbar
 - Täglich bespielbar: Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
 
 [🛒 Hier!!]({{< param buyurl >}})

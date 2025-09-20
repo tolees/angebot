@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Absatzform:Flach
-- Sohle:Ethylen-Vinylacetat
 - Obermaterial:Textil
+- Sohle:Ethylen-Vinylacetat
 - Verschluss:Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

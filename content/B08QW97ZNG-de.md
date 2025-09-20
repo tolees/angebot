@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Heizmaterial
 - Für alle Altersgruppen geeignet
-- Kordelzug
 - Bündchen an den Knöcheln
 - Fleece-Futter
+- Das Heizmaterial
+- Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QW97ZNG{{</world>}}

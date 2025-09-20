@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 3.1.2-Soundbar mit MERIDIAN-Technologie und High-Res-Audio-Unterstützung
-- Unterstützt Dolby Atmos, DTS:X Sound, Soundbar Mode Control, TV Sound Share sowie High-Res-Audio (bis zu 24 Bit / 96 kHz); AI-Raumkalibrierung für perfekten Sound
-- Kompatibel zu optionalen kabellosen Rücklautsprechern, inkl. Subwoofer, Fernbedienung (RAV21) mit 2x AA-Batterien, Schnellstartanleitung, Optisches Kabel, Wandhalterung, Garantiekarte, Anleitung: Montage der Wandhalterung
-- Leistung: 440 Watt (2x 40 Watt Front, 40 Watt Center, 2x 50 Watt Höhe, 220 Watt Subwoofer)
 - Stromquellentyp: Batteriebetrieben
+- Leistung: 440 Watt (2x 40 Watt Front, 40 Watt Center, 2x 50 Watt Höhe, 220 Watt Subwoofer)
 - Konnektivität: Unterstützt eARC und LG SIMPLINK (HDMI CEC), LG Sound Sync via optischem Kabel, Steuerung und Playback via Smartphone; 2x HDMI 2.1 mit 4K Pass-Through (In & Out), USB- und optischer Anschluss; WLAN und Bluetooth (v5.0)
+- Kompatibel zu optionalen kabellosen Rücklautsprechern, inkl. Subwoofer, Fernbedienung (RAV21) mit 2x AA-Batterien, Schnellstartanleitung, Optisches Kabel, Wandhalterung, Garantiekarte, Anleitung: Montage der Wandhalterung
+- Unterstützt Dolby Atmos, DTS:X Sound, Soundbar Mode Control, TV Sound Share sowie High-Res-Audio (bis zu 24 Bit / 96 kHz); AI-Raumkalibrierung für perfekten Sound
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08WM2MKXV{{</world>}}

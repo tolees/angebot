@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verpackungsabmessungen (L x B x H): 10.0 x 3.8 x 3.2 zm
 - Geeignet für beschichtete Bauelemente aus Holzwerkstoffen oder weiche und harte Massivhölzer und Plattenwerkstoffe
+- Verpackungsabmessungen (L x B x H): 10.0 x 3.8 x 3.2 zm
 - Herkunftsland:- Deutschland
 - Der äuÃŸerst präzise Freiwinkel sorgt für ein besonders gutes Schnittbild
 

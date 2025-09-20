@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Farbe: Schwarz-Weiss
-- Herkunftsland:- Kambodscha
-- Verpackungsabmessungen (L x B x H): 26.0 x 23.0 x 2.0 Zm
 - Material: 60% Baumwolle / 40% Polyester
+- Verpackungsabmessungen (L x B x H): 26.0 x 23.0 x 2.0 Zm
+- Herkunftsland:- Kambodscha
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QW7LFHC{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wickelkleid
 - Volant
 - Muster
+- Wickelkleid
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08KDF45M6{{</world>}}

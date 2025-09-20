@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WEEE-Nr.: DE55703080
 - 10 Liter / 24 Stunden, Slim Design, 2, 1L abnehmbarer Wassertank, Tragegriff, LED Display, Feuchtigkeitskontrolle
+- WEEE-Nr.: DE55703080
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07KJY9KKD{{</world>}}

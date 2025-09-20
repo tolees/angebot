@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zusätzliches, großes Reißverschlussfach vorne
-- Gewebter Tragegriff oben
 - Gepolsterte, verstellbare Schultergurte
 - Zwei-Wege-Reißverschluss zum großen Hauptfach
+- Gewebter Tragegriff oben
 - Mesh-Tasche für Trinkflaschen auf der rechten Seite
 
 [🛒 Hier!!]({{< param buyurl >}})

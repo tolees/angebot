@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 3 ARTEN DER HÖHENVERSTELLUNG: Die Universal TV Ständer ist mit 3 Stufen der Höhenverstellung, jede Stufe kann um 60mm für die optimale Betrachtungsposition verstellt werden.
-- 2 INSTALLATIONSLÖSUNGEN: Mittelteil wird abgeschraubt, um eine perfekte Lösung für kleinere TVs (22" mit max. VESA-Größe von 400 x 200 mm) zu bieten. Bitte beachten Sie: Wenn Ihr Fernseher weniger als 300 mm hoch ist, können die TV-Haltearme hinter dem Fernseher hervorstehen.
 - NIEDRIGES PROFIL & PLATZSPAREND DESIGN: Der Platz zwischen zwei Beinen bietet eine perfekte Platzierung für Audiogeräte oder Zubehör, was Ihre Unterhaltungsanlage ordentlich und sauber macht. Seine robuste Stahlkonstruktion mit zwei Beine System ermöglicht eine hohe Stabilität und Haltbarkeit; Bodenpads verhindern ein Verkratzen der Oberfläche.
+- 2 INSTALLATIONSLÖSUNGEN: Mittelteil wird abgeschraubt, um eine perfekte Lösung für kleinere TVs (22" mit max. VESA-Größe von 400 x 200 mm) zu bieten. Bitte beachten Sie: Wenn Ihr Fernseher weniger als 300 mm hoch ist, können die TV-Haltearme hinter dem Fernseher hervorstehen.
+- 3 ARTEN DER HÖHENVERSTELLUNG: Die Universal TV Ständer ist mit 3 Stufen der Höhenverstellung, jede Stufe kann um 60mm für die optimale Betrachtungsposition verstellt werden.
 - EINFACH ZU INSTALLIEREN: Die leichte verständliche Bedienungsanleitung und kostenfrei Montage Hardware werden mitgeliefert. Sollten Sie Hilfe benötigen, wenden Sie sich bitte an unser Kundenbetreuungsteam, das Ihnen bei Bedarf zur Seite steht.
 - Kompatibilitä: Universal TV Beine Füße Standfüße für TV-Geräte, PC-Monitore mit Bildschirmdiagonale 22 27 30 32 37 40 42 47 50 55 60 63 65 Zoll; VESA Kompatibilität: zwischen 50mm x 50mm and 800mm x 400mm; Bildschirmaufnahme belastbar max. ca.50 kg.
 

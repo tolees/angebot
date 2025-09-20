@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Aufbewahrungsbeutel für schnelles und einfaches Aufräumen
 - Passend für alle Mega Bloks Sets
+- Mit Aufbewahrungsbeutel für schnelles und einfaches Aufräumen
 - 60 leuchtend bunte Mega Bloks Bausteine
 - Perfekt für kleine Kinderhände
 

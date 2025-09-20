@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kapuzenpullover
-- In Eleganter Optik Look
 - Normal geschnitten
+- In Eleganter Optik Look
+- Kapuzenpullover
 - Einem angenehmen Tragegefühl und der weichen Haptik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

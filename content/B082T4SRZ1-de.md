@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reguläre Passform
+- Weiches Tragegefühl
 - OrthoLite Einlegesohle
 - Schuh mit Skate-Vibe für jeden Tag
-- Weiches Tragegefühl
+- Reguläre Passform
 - Schnürsenkel
 - Obermaterial aus Wildleder
 

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trocken misch- und wischbar
-- Erhältlich in 60 Farben
-- Teilvermalbar: Konturen bleiben sichtbar
 - Pastellkreidestift mit trockenem, staubigem Abstrich wie bei Holz- oder Zeichenkohle
 - Hervorragende Lichtechtheit, brillante Farben und starke Leucht- und Deckkraft
 - Minendurchmesser: 4,4 mm
+- Teilvermalbar: Konturen bleiben sichtbar
+- Trocken misch- und wischbar
+- Erhältlich in 60 Farben
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0011UP7BK{{</world>}}

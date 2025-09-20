@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Heißluftfritteuse mit 2400 W Leistung
 - Max. Kapazität ca. 7.6 l, Maximaltemperatur bis zu 240 °C
+- Heißluftfritteuse mit 2400 W Leistung
 - Zusätzlich enthalten: Grillrost
 
 [🛒 Hier!!]({{< param buyurl >}})

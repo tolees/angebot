@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maße: 110 cm Durchmesser, 98 cm Höhe
 - Vielfältige Möglichkeiten und auch ein großer Spaß für die Kleinen
+- Maße: 110 cm Durchmesser, 98 cm Höhe
 - Dank Gaze haben die Kids beim Spielen noch eine völlig klare Sicht
 - Eingang lässt sich durch Bänder öffnen oder durch Klettverschluss schließen
 

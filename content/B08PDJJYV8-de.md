@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
 - Ein vielseitiges Poloshirt, das stilvoll, schick und alles andere als altbacken ist
 - Aus leichtem, atmungsaktivem Pikeegewebe
 - Mit dezentem Logo auf der Brust
+- Wähle eine Nummer größer für einen lässigen Stil oder bleib bei deiner Größe für einen klassischen Look
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08PDJJYV8{{</world>}}

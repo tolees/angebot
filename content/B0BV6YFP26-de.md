@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertiges, farbenfrohes Design
 - Spielzeug für Kinder ab 18 Monaten
+- Hochwertiges, farbenfrohes Design
 - Motorik wird spielerisch gefördert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

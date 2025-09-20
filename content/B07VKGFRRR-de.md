@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lockere Passform
 - Klassischer Umschlagkragen mit zwei Knöpfen
 - Weiches Baumwollmaterial
+- Lockere Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VKGFRRR{{</world>}}

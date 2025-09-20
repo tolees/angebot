@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial : Leder
 - Innenmaterial : Synthetik
+- Obermaterial : Leder
 - Absatzform : Flach
 - Schuhweite : Normal
 - Wasserbeständigkeitsgrad : Nicht Wasserfest

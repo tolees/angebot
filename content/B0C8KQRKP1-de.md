@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Pastellrosa
 - Natural Textiles,Recycled Synthetics
-- Sohle: 100% Gummi
 - Obermaterial: 100 % recycelte Baumwolle
+- Sohle: 100% Gummi
+- Farbe: Pastellrosa
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C8KQRKP1{{</world>}}

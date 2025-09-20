@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Inhalt: 1 Stück
 - inklusive herausnehmbarer Schneide und Klingenschutz
-- Maße: ca. 161,7 x 64 x 125,2 mm
 - Lieferumfang: Festool Pizzaschneider PIZZ-TS
+- Maße: ca. 161,7 x 64 x 125,2 mm
 - für Links- und Rechtshänder gleichermaßen geeignet
+- Inhalt: 1 Stück
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BPQL6GH1{{</world>}}

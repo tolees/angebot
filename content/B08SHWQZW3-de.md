@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sylvanian Families
-- 5535
-- TOY FIGURE
 - abnehmbarer Dachgepäckträger mit Hüpfspiel
+- Sylvanian Families
+- TOY FIGURE
+- 5535
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08SHWQZW3{{</world>}}

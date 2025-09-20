@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Asus LTE WLAN-Router, RJ45 LAN Kabel, Netzteil, Schnellstartanleitung
-- Zwei starke LTE Antennen für die optimierte Performance auf der Internet-Link Seite, sowie modernes 802.11ax WLAN auf der Heimnetzwerk-Seite
-- Sicherheit auf professionellem Niveau - ASUS AiProtection bietet fortschrittlichen Schutz für alle mit dem Heimnetzwerk verbundenen Geräte
 - Smarter LTE-Router zum Teilen einer 600 Mbits Cat-12 Internetverbindung mit mehreren WLAN-Geräten
-- Sicherheit auf professionellem Niveau - ASUS AiProtection bietet fortschrittlichen Schutz für alle mit dem Heimnetzwerk verbundenen Geräte
-- Zwei starke externe LTE Antennen für die optimierte Performance auf der Internet-Link Seite, sowie modernes 802.11ac WLAN auf der Heimnetzwerk-Seite
-- AC2600 WLAN Gesamt-Geschwindigkeit (Simultane Dual-Band WLAN Bandbreite mit bis 1733 Mbits über 5 GHz & 800 Mbits über 2.4 GHz) + Gigabit WAN / LAN
-- AX1800 WLAN Gesamt-Geschwindigkeit (Simultane Dual-Band WLAN Bandbreite mit bis 1201 Mbits über 5 GHz & 574 Mbits über 2.4 GHz) + Gigabit WAN / LAN
 - Lieferumfang: Asus LTE WLAN-Router, RJ45 LAN Kabel, Netzteil, Schnellstartanleitung
 - Smarter LTE-Router zum Teilen einer 300 Mbits Cat.6 Internetverbindung mit mehreren WLAN-Geräten
+- Zwei starke externe LTE Antennen für die optimierte Performance auf der Internet-Link Seite, sowie modernes 802.11ac WLAN auf der Heimnetzwerk-Seite
+- Lieferumfang: Asus LTE WLAN-Router, RJ45 LAN Kabel, Netzteil, Schnellstartanleitung
+- Sicherheit auf professionellem Niveau - ASUS AiProtection bietet fortschrittlichen Schutz für alle mit dem Heimnetzwerk verbundenen Geräte
+- Sicherheit auf professionellem Niveau - ASUS AiProtection bietet fortschrittlichen Schutz für alle mit dem Heimnetzwerk verbundenen Geräte
+- AX1800 WLAN Gesamt-Geschwindigkeit (Simultane Dual-Band WLAN Bandbreite mit bis 1201 Mbits über 5 GHz & 574 Mbits über 2.4 GHz) + Gigabit WAN / LAN
+- AC2600 WLAN Gesamt-Geschwindigkeit (Simultane Dual-Band WLAN Bandbreite mit bis 1733 Mbits über 5 GHz & 800 Mbits über 2.4 GHz) + Gigabit WAN / LAN
+- Zwei starke LTE Antennen für die optimierte Performance auf der Internet-Link Seite, sowie modernes 802.11ax WLAN auf der Heimnetzwerk-Seite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08X2QWR6J{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wir stellen zum ersten Mal unser neuester Formfaktor Vinyl-Soda vor
 - Bitte wenden Sie sich an Ihren Vertriebsmitarbeiter für weitere Informationen. Diese Figuren sind limitiert und sind nicht zur Nachbestellung erhältlich, sobald alle Mengen zugeordnet sind
+- Im Lieferumfang enthalten ist eine Sammelkarte in POG-Form und eine 10 x 5 cm große Vinyl-Figur
+- Wir stellen zum ersten Mal unser neuester Formfaktor Vinyl-Soda vor
 - Die unten stehenden Artikel sind derzeit für ausgewählte Spezialkunden erhältlich
 - Alles wird hübsch verpackt in einer Soda-Sammeldose geliefert
-- Im Lieferumfang enthalten ist eine Sammelkarte in POG-Form und eine 10 x 5 cm große Vinyl-Figur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09H3PXV2C{{</world>}}

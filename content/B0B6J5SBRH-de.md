@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lüfte in Stray ein uraltes Geheimnis und fliehe aus einer längst vergessenen Cyberstadt
 - Verpasse nicht dieses einzigartige Third-Person-Katzenadventure, das von BlueTwelve Studio für PlayStation 5 entwickelt wurde
 - Die physische Ausgabe des Spiels enthält 6 farbige Kunstkarten
-- Lüfte in Stray ein uraltes Geheimnis und fliehe aus einer längst vergessenen Cyberstadt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B6J5SBRH{{</world>}}

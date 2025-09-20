@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STAR WARS: THE MANDALORIAN: Mit der Premium Magistrate Greef Karga Figur, die an die Serie Star Wars: The Mandalorian angelehnt ist, können Fans und Sammler Szenen aus der Star Wars Galaxis nachstellen
-- AUF DER SERIE BASIERENDES, VOM CHARAKTER INSPIRIERTES ZUBEHÖR: Diese Action-Figur aus der Star Wars The Black Series kommt mit einem galaktischen Accessoire, das sie zu einer tollen Erweiterung jeder Star Wars Kollektion macht
-- MAGISTRAT GREEF KARGA: Einst war Greef Karga ein Disponent der Kopfgeldjägergilde und leitete den Handel auf Nevarro. Jetzt ist Greef Magistrat von Nevarro und räumt in dieser rauen Welt auf
-- ES GIBT NOCH ANDERE FIGUREN AUS EINER WEIT, WEIT ENTFERNTEN GALAXIS: Mit Figuren aus der Star Wars Black Series zu den Filmen und Serien lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
 - PREMIUM BEWEGLICHKEIT UND DETAILS: Star Wars Fans und Sammler können diese vollbewegliche Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihrer eigenen Sammlung präsentieren
+- STAR WARS: THE MANDALORIAN: Mit der Premium Magistrate Greef Karga Figur, die an die Serie Star Wars: The Mandalorian angelehnt ist, können Fans und Sammler Szenen aus der Star Wars Galaxis nachstellen
+- MAGISTRAT GREEF KARGA: Einst war Greef Karga ein Disponent der Kopfgeldjägergilde und leitete den Handel auf Nevarro. Jetzt ist Greef Magistrat von Nevarro und räumt in dieser rauen Welt auf
+- AUF DER SERIE BASIERENDES, VOM CHARAKTER INSPIRIERTES ZUBEHÖR: Diese Action-Figur aus der Star Wars The Black Series kommt mit einem galaktischen Accessoire, das sie zu einer tollen Erweiterung jeder Star Wars Kollektion macht
+- ES GIBT NOCH ANDERE FIGUREN AUS EINER WEIT, WEIT ENTFERNTEN GALAXIS: Mit Figuren aus der Star Wars Black Series zu den Filmen und Serien lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09H1QQL2J{{</world>}}

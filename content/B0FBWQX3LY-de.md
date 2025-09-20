@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 🎁🎁【Garantie】Ein Jahr & 24 Stunden Garantie & freundlicher Kundenservice & 🎁 Bedingungslose Rückerstattung oder Ersatz einer neuen Batterie bei Qualitätsproblemen.
-- 🎁🎁【Produktdetails】Spannung: 18V | Leistung: 99W | Neue Batterie | Lieferumfang: 2 x Ersatzakku für Makita 18 Volt
 - 🎁🎁【Anwendbares Modell】Compatible with: BL1860B, BL1860, BL1850B, BL1850, BL1840B, BL1860B, BL1840, BL1830B, BL1830, BL1820, BL1815, BL1825, BL1835, BL1845, 194205-3,194309-1,194204-5,196399 -0, 196673-6, LXT-40 usw. Nicht geeignet für Repid-Ladegeräte DC18RA und DC18RD.
-- 🎁🎁【Anwendbares Modell】Compatible with: BL1860B, BL1860, BL1850B, BL1850, BL1840B, BL1840, BL1830B, BL1830, BL1820, BL1815, BL1825, BL1835, BL1860B,BL1845, 194205-3,194309-1.
 - 🎁🎁【Mehrfachschutz】 Schutzfunktionen gegen Tiefentladung des Akkus, falsche Spannung, Überlastung des Ersatzakkus, Kurzschluss, interne Überhitzung. Außerdem können Sie den Akku jederzeit aufladen, kein Memory-Effekt, sehr bequem zu bedienen.
+- 🎁🎁【Produktdetails】Spannung: 18V | Leistung: 99W | Neue Batterie | Lieferumfang: 2 x Ersatzakku für Makita 18 Volt
+- 🎁🎁【Anwendbares Modell】Compatible with: BL1860B, BL1860, BL1850B, BL1850, BL1840B, BL1840, BL1830B, BL1830, BL1820, BL1815, BL1825, BL1835, BL1860B,BL1845, 194205-3,194309-1.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0FBWQX3LY{{</world>}}

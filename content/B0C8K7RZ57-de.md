@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: 80% TPU - 20% recyceltes TPU
 - Obermaterial: 100 % Rindsleder
+- Sohle: 80% TPU - 20% recyceltes TPU
 - Better Leather
 - Farbe: Mittelbraun
 

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Normale Passform
 - Dri-Fit-Technologie
 - Rundhalsausschnitt
-- Normale Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08R5JM7MH{{</world>}}

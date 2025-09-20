@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Im Eleganten Look
 - Der Bund ist Mittelhoch
+- Im Eleganten Look
 - Die Piece lässt sich unkompliziert up- oder downdressen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

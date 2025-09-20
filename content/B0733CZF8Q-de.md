@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mikrowellen- und spülmaschinengeeignet
 - ABYstyle Tassen und Becher reproduzieren Logos oder ikonische Figuren aus Filmen, Fernsehserien, Zeichentrickserien, Comics, Videospielen und vielem mehr
-- Die Tassen sind aus Keramik und die Gläser aus Glas
 - Offiziell lizenzierter Artikel
+- Die Tassen sind aus Keramik und die Gläser aus Glas
 - Das Produkt wird in der Originalverpackung verkauft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

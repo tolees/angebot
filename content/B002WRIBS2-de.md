@@ -29,11 +29,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Made in Switzerland
-- Zur Verwendung mit Politur oder zum Einarbeiten von Oberflächenversiegelungen auf gewölbten und ebenen Flächen
-- Hochglanzpolieren von leicht verschmutzten, zerkratzten oder vorpolierten Oberflächen
-- Durchmesser 125 mm; Ein stück
 - Polierschwamm für Exzenterschleifer
+- Zur Verwendung mit Politur oder zum Einarbeiten von Oberflächenversiegelungen auf gewölbten und ebenen Flächen
 - Geeignet für Holz, Lack, Plexiglas und Corian
+- Durchmesser 125 mm; Ein stück
+- Hochglanzpolieren von leicht verschmutzten, zerkratzten oder vorpolierten Oberflächen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B002WRIBS2{{</world>}}

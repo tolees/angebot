@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hier finden Kinder einen Heißluftballon, eine Bananensplit-Wippe, einen Eiscreme-Sandwich-Brunnen und einen Eiswaffel-Brunnen (die Zubehör-Sirupflasche mit Wasser füllen und oben in das Eiscreme-Sandwich stecken, um Wasser nach oben spritzen zu lassen, oder in die Eiswaffel stecken, um Wasser nach unten plätschern zu lassen) und eine Rutschstange.
+- Kinder können zauberhafte Abenteuer direkt im Spielset oder außerhalb erleben. Wenn sie vom Spielen genug haben, lässt sich alles einfach wieder in die Schatulle packen, damit sie jederzeit und überall für weitere Abenteuer bereit ist! Jede Schatulle hat einen langen Schultergurt, damit sie wie eine Tasche getragen werden kann.
 - Im Freizeitpark erwarten Polly Pocket und ihre Freundinnen viele Abenteuer!
 - Einige Zubehörteile können an verschiedenen Stellen im Spielset angebracht werden. Das sorgt für noch mehr Abwechslung beim Spielen.
-- Kinder können zauberhafte Abenteuer direkt im Spielset oder außerhalb erleben. Wenn sie vom Spielen genug haben, lässt sich alles einfach wieder in die Schatulle packen, damit sie jederzeit und überall für weitere Abenteuer bereit ist! Jede Schatulle hat einen langen Schultergurt, damit sie wie eine Tasche getragen werden kann.
 - Der Ausklappspaß-Spielplatz hat die Form einer Eiswaffel. Wenn der Deckel geöffnet wird, kommen drei Etagen voller Spielspaß zum Vorschein. Das Spielset enthält außerdem 25 zum Thema passende Überraschungen darunter die Puppen Polly, Lila und Pollys Hund Peaches. Die Puppen haben 5 bewegliche Gelenke für actiongeladenen Spielspaß.
 
 [🛒 Hier!!]({{< param buyurl >}})

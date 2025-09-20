@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Akku: 4500 mAh
 - Kamera: Dreifach, 64MP + 8MP + 2MP
 - Anzeige: 6,43", 1080 x 2400 Pixel
 - Prozessor: Snapdragon 888 2,84 GHz
-- Kamera: Dreifach, 64MP + 8MP + 2MP
-- Anzeige: 6,43", 1080 x 2400 Pixel
 - Akku: 4500 mAh
 - Prozessor: Snapdragon 888 2,84 GHz
+- Akku: 4500 mAh
+- Kamera: Dreifach, 64MP + 8MP + 2MP
+- Anzeige: 6,43", 1080 x 2400 Pixel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09B15TR4B{{</world>}}

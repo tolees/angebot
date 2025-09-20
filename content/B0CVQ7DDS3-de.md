@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2,75 GHz Exynos 1480 Octa-Core-Prozessor
 - 16,8 cm (6,6 Zoll) Super AMOLED Display mit 1080 x 2340 Pixel
-- 128 GB interner Speicher, Android 14.0
 - Farbe: blau
 - 50 Megapixel Hauptkamera mit optischer Bildstabilisierung
+- 128 GB interner Speicher, Android 14.0
+- 2,75 GHz Exynos 1480 Octa-Core-Prozessor
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CVQ7DDS3{{</world>}}

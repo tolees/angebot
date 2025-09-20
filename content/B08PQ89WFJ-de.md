@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Märchenwelten aus 1000 Teilen: ein Wiedersehen mit Aladdin, Cinderella, Susi und Strolch und anderen Filmstars
 - Die liebevoll gestaltete Sammleredition ist das perfekte Geschenk für jeden Anlass und eignet sich gepuzzelt und geklebt auch wunderbar als Wanddekoration
-- Inhalt: 1000 Teile Ravensburger Puzzle, im Format 70 x 50 cm, ab 14 Jahren
-- Mehr als nur ein Legespiel: Puzzles von Ravensburger sind ideales Konzentrationstraining für Kinder und Jugendliche, Gehirnjogging für Erwachsene und für Puzzler jeden Alters eine kleine Auszeit vom turbulenten Alltag
 - Ravensburger Qualitätsmerkmale auf einen Blick: Formenvielfalt durch handgefertigte Stanzmesser, passgenaue Puzzleteile, reflexfreies Puzzlebild durch Naturleinenprägung, knickstabile Puzzleteile, hergestellt aus recycelter Pappe
+- Mehr als nur ein Legespiel: Puzzles von Ravensburger sind ideales Konzentrationstraining für Kinder und Jugendliche, Gehirnjogging für Erwachsene und für Puzzler jeden Alters eine kleine Auszeit vom turbulenten Alltag
+- Inhalt: 1000 Teile Ravensburger Puzzle, im Format 70 x 50 cm, ab 14 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08PQ89WFJ{{</world>}}

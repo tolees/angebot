@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MATERIAL: Das Außenmaterial der wasserdichten Regenjacke besteht aus 100% recyceltem Polyester. Der obere Teil des Innenfutters der Outdoorjacke besteht aus Mesh & der untere Teil aus Tafetta
-- PRAKTISCH: Ärmelbund, Saum & Kapuze sind individuell regulierbar. Die Kapuze lässt sich im Kragen der Wanderjacke verstauen. Durch die zwei Taschen kann der Kordelzug im Saum eingestellt werden
 - WETTERFEST: Die VAUDE Regenjacke Damen ist dank Ceplex-Active Membran winddicht, wasserdicht & atmungsaktiv. Bestens geeignet zum Wandern, Radfahren oder Spazierengehen bei wechselhaftem Wetter
+- MATERIAL: Das Außenmaterial der wasserdichten Regenjacke besteht aus 100% recyceltem Polyester. Der obere Teil des Innenfutters der Outdoorjacke besteht aus Mesh & der untere Teil aus Tafetta
 - NACHHALTIG: VAUDE ist seit 2022 klimaneutral. Aktuell nicht vermeidbare Emissionen werden vollständig über „myclimate“ durch zertifizierte Gold-StandardKlimaschutzprojekte kompensiert
+- PRAKTISCH: Ärmelbund, Saum & Kapuze sind individuell regulierbar. Die Kapuze lässt sich im Kragen der Wanderjacke verstauen. Durch die zwei Taschen kann der Kordelzug im Saum eingestellt werden
 - VIELSEITIG: Die Damen Regenjacke mit Kapuze ist der ideale Begleiter für lange Wandertouren oder im Alltag. Dank hoher Atmungsaktivität & regenabweisender Eco-Finish ist man auf Alles vorbereitet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

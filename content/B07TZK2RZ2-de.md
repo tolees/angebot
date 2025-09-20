@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Struktur
-- Pattern: Einfarbig
-- Collection: Durchläufer (Nos)
-- Strickpullover
-- Locker
 - Model: Jjehill Knit Crew Neck Noos
+- Locker
+- Collection: Durchläufer (Nos)
+- Pattern: Einfarbig
+- Strickpullover
+- mit Struktur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07TZK2RZ2{{</world>}}

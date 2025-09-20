@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Sohle:Gummi
 - Verschluss:Reißverschluss
-- Obermaterial:Leder
 - Absatzform:Flach
+- Obermaterial:Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BM544PCX{{</world>}}

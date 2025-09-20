@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ausgang Kabel
 - Geräte, vormontiert
-- Hinweis Das Produkt wird "vormontiert" ohne Kralle verkauft
 - Farbe Glänzend
 - Verpackungsabmessungen (L x B x H) 10.3 x 9.50 x 3.9 cm
-- Ausgang Kabel
+- Hinweis Das Produkt wird "vormontiert" ohne Kralle verkauft
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00GY47QUS{{</world>}}

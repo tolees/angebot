@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4-teiliger Zangensatz
-- Zangen aus hochwertigem Werkzeugstahl gefertigt und schwarz "spiegelpoliert"
 - Beinhaltet je 1x: Kombizange 180 mm, Telefonzange 160 mm, Seitenschneider 160 mm und Wassepumpenzange 250 mm
+- Zangen aus hochwertigem Werkzeugstahl gefertigt und schwarz "spiegelpoliert"
+- 4-teiliger Zangensatz
 - 2-Komponenten-Griffhüllen mit Abgleitschutz
 
 [🛒 Hier!!]({{< param buyurl >}})

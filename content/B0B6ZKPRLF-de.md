@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Spiel bietet eine einzigartige und wunderschöne Welt, die Einflüsse aus Fantasy, Mittelalter und Moderne verbindet
 - Tiefgehende, strategische und taktische Kämpfe in Echtzeit
 - Realistische Kampfszenen im "Diorama"-Stil
 - Nutze eine Vielzahl Fertigkeiten, Klassen und Ausrüstung, um deine Mission abzuschließen
+- Das Spiel bietet eine einzigartige und wunderschöne Welt, die Einflüsse aus Fantasy, Mittelalter und Moderne verbindet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B6ZKPRLF{{</world>}}

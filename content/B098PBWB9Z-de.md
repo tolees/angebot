@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - LIGHTWEIGHT
 - EASY FIT
-- RECYCLED
 - SOFT FEELING
+- RECYCLED
 - FLEXIBLE
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2 Optionen zur Kaffeeauswahl: Wählen Sie zwischen Espresso und Lungo
-- Die Inissia ist eine Kaffeemaschine, mit der Sie bequem eine große Auswahl an Espressospezialitäten zubereiten können
-- Energiesparend: Die Kaffeemaschine schaltet sich nach 9 Minuten Inaktivität automatisch aus
 - Kompakte Größe: Effizientes Design mit kompakter Technologie
-- Nespresso Original bietet Ihnen mit klassischen Espressos und außergewöhnlichen Kaffeekreationen einen unvergesslichen Kaffeegenuss
-- Die Kapseln werden mit mindestens 80% recyceltem Aluminium hergestellt, einem Material, welches bei entsprechender Entsorgung unendlich oft recycelbar ist
-- Nur für Nespresso Original Kapseln
 - Nachhaltigkeit: Nespresso Kaffeekapseln sind recycelbar und können ganz einfach über die Gelbe Tonne, die Nespresso Boutiquen und an Wertstoffsammelstellen entsorgt und so wiederverwertet werden
+- Energiesparend: Die Kaffeemaschine schaltet sich nach 9 Minuten Inaktivität automatisch aus
+- Die Inissia ist eine Kaffeemaschine, mit der Sie bequem eine große Auswahl an Espressospezialitäten zubereiten können
+- Nur für Nespresso Original Kapseln
+- Nespresso Original bietet Ihnen mit klassischen Espressos und außergewöhnlichen Kaffeekreationen einen unvergesslichen Kaffeegenuss
+- 2 Optionen zur Kaffeeauswahl: Wählen Sie zwischen Espresso und Lungo
+- Die Kapseln werden mit mindestens 80% recyceltem Aluminium hergestellt, einem Material, welches bei entsprechender Entsorgung unendlich oft recycelbar ist
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00G98EJHM{{</world>}}

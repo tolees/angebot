@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modernste Hardware: Unsere Rocket V60 SD UHS-II Speicherkarten verwenden einen leistungsstarken neuen Controller kombiniert mit 112-Layer TLC. Dies gewährleistet eine zuverlässige Leistung von bis zu 270/170 MBps oder mehr für Lesen & Schreiben;
-- Mehr Speicher: Genießen Sie bis zu 1 TB Kapazität, wenn Sie es brauchen. Haben Sie weniger Karten zum Mitnehmen, oder widmen Sie einfach nur eine Karte für ein einzelnes Projekt. Wir bieten verschiedene Kartenkapazitäten an;
 - Freundliches Design: Eine außergewöhnliche Investition. Die Speicherkarten verfügen auch über einen praktischen, mechanischen Schreibschutzschalter, der dafür sorgt, dass Sie Ihre Inhalte nie versehentlich löschen oder überschreiben.
+- Mehr Speicher: Genießen Sie bis zu 1 TB Kapazität, wenn Sie es brauchen. Haben Sie weniger Karten zum Mitnehmen, oder widmen Sie einfach nur eine Karte für ein einzelnes Projekt. Wir bieten verschiedene Kartenkapazitäten an;
 - Filmen Sie in hoher Auflösung ab: Unsere Rocket V60 SD UHS-II Speicherkarten sind ideal für 8K, 4K & 1080p Video & alles dazwischen. Diese Karten behalten problemlos über 60 MBps anhaltende Schreibvorgänge für verzögerungsfreie Aufnahmen;
+- Modernste Hardware: Unsere Rocket V60 SD UHS-II Speicherkarten verwenden einen leistungsstarken neuen Controller kombiniert mit 112-Layer TLC. Dies gewährleistet eine zuverlässige Leistung von bis zu 270/170 MBps oder mehr für Lesen & Schreiben;
 - Definitive Leistung: Diese Karten erfüllen den V60-Standard & übertreffen die Anforderungen der UHS-Geschwindigkeitsklasse 3 (U3). Sie erfüllen auch A1-Anwendungen Performance Class Spezifikationen für 1500/500 Lesen/Schreiben IOPS garantiert;
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

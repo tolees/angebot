@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Übernehmen Sie die Rolle eines Bitoku-Geistes des Waldes.
-- Sie werden die Hilfe von Yokai, Kodama und Pilgern auf dem Weg haben!
 - Begeben Sie sich auf Ihren Weg zur Transzendenz, mit dem Ziel, den großen Geist des Waldes zu erheben und zu werden!
+- Sie werden die Hilfe von Yokai, Kodama und Pilgern auf dem Weg haben!
+- Übernehmen Sie die Rolle eines Bitoku-Geistes des Waldes.
 - Manuelle Verwaltung. ement, Motorbauspiel mit mehreren Wegen zum Sieg.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

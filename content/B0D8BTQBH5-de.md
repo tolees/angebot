@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- T-Shirt in Unifarben mit Logo-Print aus Single-Jersey-Stoff aus Baumwolle
-- Aus weichem Single-Jersey Stoff
 - Rundhalsausschnitt | Kurzarm
+- Aus weichem Single-Jersey Stoff
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm
+- T-Shirt in Unifarben mit Logo-Print aus Single-Jersey-Stoff aus Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D8BTQBH5{{</world>}}

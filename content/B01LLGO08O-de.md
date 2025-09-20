@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- USB-C Port unterstützt Power Delivery und Datentransfer
 - Gehäuse aus Aluminium
 - Überträgt Audio und Video über HDMI (bis zu 4K); 3x USB 3.0 Anschluss (1x mit 1.5 A Stromausgang zum Laden von Smartphones und Tablets)
+- USB-C Port unterstützt Power Delivery und Datentransfer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01LLGO08O{{</world>}}

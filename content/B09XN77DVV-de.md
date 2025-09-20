@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Gestaltung
 - Eine längere Haltbarkeit
+- Flexible Gestaltung
 - Sandbox-Schatz: Hol dir das Taiga-Biom aus dem Spiel direkt in dein Zuhause mit diesem Minecraft Baby-Fuchs-Licht. Diese 16 cm breite Lampe ist einem der orangefarbenen Füchse aus dem Spiel nachempfunden
 
 [🛒 Hier!!]({{< param buyurl >}})

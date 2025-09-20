@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- XL-Spielmatte mit hochwertigem Hyperspace-Design, welche Ideal für 2 Spieler ist
 - Spielmatten-Design mit Karten- und Spielzonen. Weiche Spielmatte, mit einer angenehmen Dicke von 2 mm
+- XL-Spielmatte mit hochwertigem Hyperspace-Design, welche Ideal für 2 Spieler ist
 - Besonders feine Oberfläche, mit rutschfester Rückseite. Aus Naturkautschuk hergestellt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die rutschfeste Außensohle mit Steinmotiv von Grip Styk arbeitet hart, um zu verhindern, dass Sie auswischen
 - Zehenkappe aus Verbundmaterial schützt Ihre Ziffern vor allen Gefahren, entspricht ASTM F2413-Standards
+- Die rutschfeste Außensohle mit Steinmotiv von Grip Styk arbeitet hart, um zu verhindern, dass Sie auswischen
 - EN ISO 20345, S3S, durchtrittsichere Zwischensohle, Kunststoffkappe, elektrostatische Entladung (ESD), rutschfeste, kraftstoff-/ölbeständige Außensohle, hitzebeständige Außensohle
 - Skate-inspiriertes Obermaterial und Silhouetten, mit denen Sie Ihrer Persönlichkeit bei der Arbeit treu bleiben
 - Soft Landing Comfort Einlegesohle hilft Ihnen, sich bei jedem Schritt zu erholen

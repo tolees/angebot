@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verbreitet einen sanften Blütenduft
-- Es spendet Feuchtigkeit
 - Verfeinert das Hautbild
+- Es spendet Feuchtigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08BCJ9HB6{{</world>}}

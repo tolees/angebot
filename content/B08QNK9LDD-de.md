@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Textil
-- Absatzform: Flach
-- Verschluss: Gummi
 - Obermaterial: Leder
+- Absatzform: Flach
+- Innenmaterial: Textil
+- Verschluss: Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QNK9LDD{{</world>}}

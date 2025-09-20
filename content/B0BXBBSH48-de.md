@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Höchste WELEDA Qualität: Frei von synthetischen Duft-, Farb- und Konservierungsstoffen sowie Rohstoffen auf Mineralölbasis sorgt das straffende Gesichtkonzentrat für eine straffere Haut, die natürlich strahlt. Das Serum ist 100% vegan, nicht komedogen und die Hautverträglichkeit ist dermatologisch bestätigt
 - Kräftigt die Hautstruktur: Die Wirkstoffkombination aus antioxidativ wirkendem Granatapfelsamenöl und Maca-Peptiden aktivieren die Zellerneuerung der Haut. Zusätzliches Aloe Vera pflegt die Haut und versorgt sie intensiv mit Feuchtigkeit. Die Haut fühlt sich frisch, straff und elastisch an
-- Ideal für die tägliche Hautpflege: Das Serum kann sanft in die gereinigte Haut von Gesicht, Hals und Dekolleté eingeklopft werden. Danach kann die Tages- oder Nachtpflege aufgetragen werden. Die sinnlich duftende Gesichtspflege entführt Sie auf eine exotische Reise. Während die frischen Nuancen der Orange die Sinne beleben, verleiht die samtig-balsamische Note der Vanille Tiefe und Süße
-- Mindert Zeichen der Hautalterung: Das nicht komedogene Serum mindert Falten und Linien, spendet sofort intensive Feuchtigkeit und verbessert die Elastizität und Spannkraft der anspruchsvoll werdenden Haut ab 40. Wirkt dem Alterungsprozess der Haut natürlich entgegen
 - Lieferumfang: 1x WELEDA straffendes Natural Anti Aging Gesicht Serum. Hochwirksame Rezeptur mit Bio Granatapfelsamenöl und Peptiden der Bio Maca Wurzel für sichtbar straffere und strahlend aussehende Haut. Wirkt dem Alterungsprozess der Haut natürlich entgegen für die anspruchsvoll werdende Haut ab 40 Jahren (1 x 30ml)
+- Mindert Zeichen der Hautalterung: Das nicht komedogene Serum mindert Falten und Linien, spendet sofort intensive Feuchtigkeit und verbessert die Elastizität und Spannkraft der anspruchsvoll werdenden Haut ab 40. Wirkt dem Alterungsprozess der Haut natürlich entgegen
+- Ideal für die tägliche Hautpflege: Das Serum kann sanft in die gereinigte Haut von Gesicht, Hals und Dekolleté eingeklopft werden. Danach kann die Tages- oder Nachtpflege aufgetragen werden. Die sinnlich duftende Gesichtspflege entführt Sie auf eine exotische Reise. Während die frischen Nuancen der Orange die Sinne beleben, verleiht die samtig-balsamische Note der Vanille Tiefe und Süße
+- Höchste WELEDA Qualität: Frei von synthetischen Duft-, Farb- und Konservierungsstoffen sowie Rohstoffen auf Mineralölbasis sorgt das straffende Gesichtkonzentrat für eine straffere Haut, die natürlich strahlt. Das Serum ist 100% vegan, nicht komedogen und die Hautverträglichkeit ist dermatologisch bestätigt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BXBBSH48{{</world>}}

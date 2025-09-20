@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geringe Latenz und niedriger Stromverbrauch
 - 13 TOPS bei Hailo-8 Unterstützung
-- Echtzeit-Erkennung für Gesichter und Objekte
+- Geringe Latenz und niedriger Stromverbrauch
 - Ideal für Machine Vision und AI-Edge-Computing
 - Direkt auf PCB integriertes Hailo-Modul
+- Echtzeit-Erkennung für Gesichter und Objekte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DKTTDW79{{</world>}}

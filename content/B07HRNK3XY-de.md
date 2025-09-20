@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sie ist in den Größen S - 3XL für Herren, 34/36 bis 42/44 für Damen und 104 bis 164 für Kinder erhältlich
-- Ohne Innenslip und aus funktionalem Polyester unterstützt die Short den Feuchtigkeitstransport vom Körper weg und garantiert ein angenehmes Tragegefühl
 - 11 verschieden Farben stehen Kindern und M zur Auswahl. Frauen können aus fünf Farben auswählen
-- Elastischer Bund mit Kordelzug
+- Ohne Innenslip und aus funktionalem Polyester unterstützt die Short den Feuchtigkeitstransport vom Körper weg und garantiert ein angenehmes Tragegefühl
 - Durch ihr vielfältig kombinierbares Design mit dem Jako Logo auf dem linken Hosenbein passt Die Jako Sporthose Manchester 2.0 zu jedem Outfit und kann vielseitig kombiniert werden
+- Elastischer Bund mit Kordelzug
+- Sie ist in den Größen S - 3XL für Herren, 34/36 bis 42/44 für Damen und 104 bis 164 für Kinder erhältlich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07HRNK3XY{{</world>}}

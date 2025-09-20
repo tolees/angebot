@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Passform: Schmal
-- Schuhweite: Mittel
+- Die Zwischensohle ist strapazierfähig genug, um als Außensohle zu dienen
 - Atmungsaktiv
 - Das Obermaterial aus Mesh und Synthetik ist flexibel
-- Die Zwischensohle ist strapazierfähig genug, um als Außensohle zu dienen
+- Schuhweite: Mittel
 - Eingespritzte Unitsole bietet ultraleichte Dämpfung
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spritzwassergeschützt, Röntgenstrahlenbeständig, Temperaturbeständig
-- inkl. SD-Karten-Adapter
 - Maximaltemperatur -25 - 85 °C
+- inkl. SD-Karten-Adapter
+- Spritzwassergeschützt, Röntgenstrahlenbeständig, Temperaturbeständig
 - Wasserdicht bis 1m (IPX7)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

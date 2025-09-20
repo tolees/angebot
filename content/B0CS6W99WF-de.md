@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Klassisches T-Shirt mit Logo-Schriftzug auf der Brust und Rippbündchen am Kragen
+- Aus weichem Single-Jersey-Stoff
 - Kurzärmlig mit Rundhalsausschnitt, perfekt für Sommer und Herbst oder zum Unterziehen
 - Passform: Regular Fit, Rückenlänge bei Größe L ca. 74 cm
-- Aus weichem Single-Jersey-Stoff
-- Klassisches T-Shirt mit Logo-Schriftzug auf der Brust und Rippbündchen am Kragen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CS6W99WF{{</world>}}
