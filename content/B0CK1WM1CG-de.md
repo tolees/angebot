@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'PLAYMOBIL Action Heroes 71463 Feuerwehrflugzeug mit Löschfunktion  heldenhafte Rettungsmissionen  inklusive Feuerwehrmann und vielfältigem Zubehör  detailreiches Spielzeug für Kinder ab 4 Jahren'
+date: 2025-09-16 22:21:55
+image: 'https://m.media-amazon.com/images/I/51W0AL4s-TL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CK1WM1CG-de PLAYMOBIL Action Heroes 71463 Feuerwehrflugzeug mit...'
+sku: 'B0CK1WM1CG-de'
+tags: [ 'Spielfigur Spielsets','Spielzeug','Spielzeugfiguren & Spielsets','playmobil','🇩🇪', ]
+actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
+comparePrice: 39.99 EUR
+prodname: 'PLAYMOBIL Action Heroes 71463 Feuerwehrflugzeug mit Löschfunktion  heldenhafte Rettungsmissionen  inklusive Feuerwehrmann und vielfältigem Zubehör  detailreiches Spielzeug für Kinder ab 4 Jahren'
+country: 'de'
+flag: '🇩🇪'
+brand: 'PLAYMOBIL'
+buyurl: 'https://www.amazon.de/dp/B0CK1WM1CG/?tag=tolees0ca-21'
+descuento: '25.01'
+average: '29.98'
+---
+
+Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Spielfiguren-Set: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- PLAYMOBIL Neuheit 2024
+- Täglich bespielbar: Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+
+[🛒 Hier!!]({{< param buyurl >}})
+{{<world>}}B0CK1WM1CG{{</world>}}
