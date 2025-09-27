@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Intenso SDHC Karte Class10
-- Verfügbar bis zu 8 GB für viele Fotos
-- Maximale Datentransferrate: Bis zu 25 MB/s
 - Geeignet für Endgeräte mit SD- oder SDHC-Steckplatz. Unterstützt Dateiformat FAT32
+- Maximale Datentransferrate: Bis zu 25 MB/s
+- Lieferumfang: Intenso SDHC Karte Class10
 - Garantierte Mindestgeschwindigkeit 10 MB/s, Geschwindigkeitsklasse 10
+- Verfügbar bis zu 8 GB für viele Fotos
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008RDCDAW{{</world>}}

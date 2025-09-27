@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für sensible Kinderhaut
-- Bewahrt die Hautschutzbarriere
-- Mit langanhaltendem Schaum
-- Pfirsichduft
 - Rezeptur ohne Mikroplastik
+- Für sensible Kinderhaut
+- Pfirsichduft
 - Ausreichend für 1 Vollbad.
+- Mit langanhaltendem Schaum
+- Bewahrt die Hautschutzbarriere
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DG95FL4J{{</world>}}

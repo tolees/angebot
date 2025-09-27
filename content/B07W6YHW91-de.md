@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Standard Passform
 - Perfekte Atmungsaktivität
-- Seitentaschen
 - Dri-fit-technologie
+- Seitentaschen
 - Elastischer Bund mit Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})

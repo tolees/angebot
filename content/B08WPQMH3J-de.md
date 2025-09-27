@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - INTEGRIERTE DACHÖSEN: Um die Bildung von Wassersäcken bei Regen zu vermeiden, sind Metallösen im Dach integriert. Diese können Sie nach Ihren Wünschen auch mit den mitgelieferten Kunststoffstopfen schließen.
-- PRODUKTDETAILS: Grundfläche aufgebaut - 3x4m / Durchgangshöhe - 2,69m / Material Bespannung Oberschicht und Innenschicht - 100% Polyester und 100% Polyurethan // LIEFERUMFANG: 1x Pavillon Topas in der Farbe anthrazit / 18x Hering / Abspannseile / Zubehörbeutel / Montagematerial / Aufbauanleitung
-- PRAKTISCH UND STABIL: Die Innenseite des Dachs besteht aus einer wasserabweisenden PU-Beschichtung. Die Pulverbeschichtung der Metallkonstruktion bietet Schutz vor Korrosion. Mit den mitgelieferten Heringen und Abspannseilen kann der Pavillon stabil im Boden verankert werden.
 - DACH UND SEITENTEILE: Die UV 50+ Dachbespannung besteht aus reißfestem Polyester. Zudem kann das Dach mit Klettverschlüssen schnell und einfach am Gestänge befestigt werden, wodurch es stramm gespannt ist. Die Seitenteile können mit Reißverschlüssen geöffnet oder geschlossen werden.
 - SCHATTENSPENDER: Mit diesem modernen Pavillon können Sie die sonnigen Tage genießen. Die 3x4m bieten ausreichend Platz im Schatten. Dank der Dachhaube kann die Luft wunderbar zirkulieren und die UV 50+ Dachbespannung besteht aus reißfestem Polyester.
+- PRODUKTDETAILS: Grundfläche aufgebaut - 3x4m / Durchgangshöhe - 2,69m / Material Bespannung Oberschicht und Innenschicht - 100% Polyester und 100% Polyurethan // LIEFERUMFANG: 1x Pavillon Topas in der Farbe anthrazit / 18x Hering / Abspannseile / Zubehörbeutel / Montagematerial / Aufbauanleitung
+- PRAKTISCH UND STABIL: Die Innenseite des Dachs besteht aus einer wasserabweisenden PU-Beschichtung. Die Pulverbeschichtung der Metallkonstruktion bietet Schutz vor Korrosion. Mit den mitgelieferten Heringen und Abspannseilen kann der Pavillon stabil im Boden verankert werden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08WPQMH3J{{</world>}}

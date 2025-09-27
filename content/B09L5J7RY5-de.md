@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Recyceltes Obermaterial
 - Gummilaufsohle
+- Recyceltes Obermaterial
 - Zwischensohle aus Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})

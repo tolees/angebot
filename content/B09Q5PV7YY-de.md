@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
 - Dieser Drehender Kompass Charm-Anhänger inspiriert dich deinem Herzen zu vertrauen und dein nächstes Abenteuer zu wählen
 - Mit einem sich drehenden inneren Kompass wäre dieser besondere Charm-Anhänger ein perfektes Geschenk, um einen geliebten Menschen die richtige Richtung zu weisen
-- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
-- Aus der Pandora Moments Kollektion
 - Der aus Sterling-Silber handveredelte Charm-Anhänger ist mit leuchtend blauen Kristallen besetzt und trägt die Gravur „Always follow your heart“
+- Aus der Pandora Moments Kollektion
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Q5PV7YY{{</world>}}

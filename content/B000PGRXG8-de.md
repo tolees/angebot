@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- inkl. Reparaturflicken
-- 67 x 55 cm
 - 0.25mm starkes, geprüftes Vinyl mit 0.18mm starken Vinyl Ball
+- 67 x 55 cm
+- inkl. Reparaturflicken
 - beinhaltet aufblasbaren Basketball
 - Nicht geeignet für Kinder unter 36 Monaten
 

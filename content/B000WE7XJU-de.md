@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewicht: federleichte 6 g; Abmessungen: 65 x 19 x 9 mm
-- Lieferumfang: Intenso Rainbow Line 4GB USB-Stick blau
-- Material: Kunststoff
 - Transferraten: Lesen: bis 28,00 MB/s (187x), Schreiben: bis 6,50 MB/s (43x)
+- Lieferumfang: Intenso Rainbow Line 4GB USB-Stick blau
+- Gewicht: federleichte 6 g; Abmessungen: 65 x 19 x 9 mm
 - Hochwertiger USB-Speicherstick im transparent-blauen Design-Gehäuse
+- Material: Kunststoff
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000WE7XJU{{</world>}}

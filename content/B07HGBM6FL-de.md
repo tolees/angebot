@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- K ist den Genres Action, Mystery und Supernatural zuzuordnen und zeichnet sich durch seine bildgewaltige Animation und seine verwobene Handlung aus
 - K - RETURN OF KINGS ist die zweite Staffel von K und führt die Handlung aus K - MISSING KINGS weiter
 - Produziert von Studio GoHands (COPPELION), unter der Regie von Hiromichi Kanazawa
+- K ist den Genres Action, Mystery und Supernatural zuzuordnen und zeichnet sich durch seine bildgewaltige Animation und seine verwobene Handlung aus
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07HGBM6FL{{</world>}}

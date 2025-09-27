@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen
-- Durchmessertoleranz +/- 0.02mm
 - Druck Temperatur: 190-220℃
+- Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen
 - Keine Verunreinigungen, Kein verstopft
 - 2x1kg Spool 1.75mm Filament PETG in der Vakuumverpackung
+- Durchmessertoleranz +/- 0.02mm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C9LYR79L{{</world>}}

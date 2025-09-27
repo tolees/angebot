@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HOCHWERTIGES HARRY POTTER SCHREIBWAREN SET - perfekt, um Zaubersprüche aufzuschreiben, Zaubertrankrezepte im Unterricht zu notieren oder den Spielstand beim Quidditch zu notieren. Dieses Schreib- und Zeichenset wird in jedem Federmäppchen hervorstechen.
-- ECHTE HARRY POTTER MERCHANDISE - inspiriert von den Filmen mit HARRY POTTER und seinen Freunden Hermine Granger und Ron Weasley und genehmigt von Warner Bros für ein echtes Stück der Zaubererwelt
 - GROSSARTIGE HARRY POTTER GESCHENKE FÜR FANS ALLER ALTERSGRUPPEN - jeder, der die Geschichten des berühmten Zauberers liebt, wird sich über dieses unverwechselbare Harry-Potter-Geschenk freuen, das die magische Welt, in der Harry lebt, heraufbeschwört
-- Der Stift hat die Form eines Zauberstabs, wie ihn Zauberer und Hexen wie HARRY POTTER, Draco Malfoy und Luna Lovegood benutzen.
+- ECHTE HARRY POTTER MERCHANDISE - inspiriert von den Filmen mit HARRY POTTER und seinen Freunden Hermine Granger und Ron Weasley und genehmigt von Warner Bros für ein echtes Stück der Zaubererwelt
+- HOCHWERTIGES HARRY POTTER SCHREIBWAREN SET - perfekt, um Zaubersprüche aufzuschreiben, Zaubertrankrezepte im Unterricht zu notieren oder den Spielstand beim Quidditch zu notieren. Dieses Schreib- und Zeichenset wird in jedem Federmäppchen hervorstechen.
 - PENCIL HAS BROOMSTICK DESIGN - geformt wie ein Nimbus 2000, einer der erfolgreichsten fliegenden Besenstiele in der Geschichte der Zauberer, im Besitz von HARRY POTTER
+- Der Stift hat die Form eines Zauberstabs, wie ihn Zauberer und Hexen wie HARRY POTTER, Draco Malfoy und Luna Lovegood benutzen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003O6SRXE{{</world>}}

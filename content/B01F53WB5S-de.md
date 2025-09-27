@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innensohle: auswechselbare Textileinlegesohle
-- Laufsohle: transparente TPR-Laufsohle
-- Futter: Textilfutter
 - Obermaterial: Synthetik
+- Laufsohle: transparente TPR-Laufsohle
+- Innensohle: auswechselbare Textileinlegesohle
 - Verschluss: Klettverschluss
+- Futter: Textilfutter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01F53WB5S{{</world>}}

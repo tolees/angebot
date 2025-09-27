@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendungsempfehlung: Auf das nasse Haar auftragen, einmassieren und ausspülen
-- Inhalt: 1x Hair Food Garnier Shampoo, regenerierende Kakaobutter, Formel 97% natürlichen Ursprungs und ohne Silikone, 350ml
 - Für sofort gepflegte, reparierte und gefederte Locken. Für ein regeneriertes Haar ohne Knoten, nicht beschwert
+- Inhalt: 1x Hair Food Garnier Shampoo, regenerierende Kakaobutter, Formel 97% natürlichen Ursprungs und ohne Silikone, 350ml
+- Anwendungsempfehlung: Auf das nasse Haar auftragen, einmassieren und ausspülen
 - Regenerierender und entwirrender Conditioner mit Kakaobutter-Extrakt, ideal für trockenes und lockiges Haar
 - Ultraleichte Formel mit 97% natürlichen Inhaltsstoffen und ohne Silikone, nährt und enthärtet das Haar und umhüllt es in einen süßen Duft
 

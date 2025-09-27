@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standard Fit für ein entspanntes, einfaches Gefühl.
 - Ripper Kragen.
+- Standard Fit für ein entspanntes, einfaches Gefühl.
 - Leichte Wesentliche für das Training oder Wettbewerb
 
 [🛒 Hier!!]({{< param buyurl >}})

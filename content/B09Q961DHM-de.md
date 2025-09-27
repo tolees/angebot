@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferung ohne Akku - Der Akku-Rasentrimmer GE-CT 18/30 Li-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert. Diese sind separat erhältlich.
-- Leistung - Der 18V-Akku-Rasentrimmer erreicht eine Leerlaufdrehzahl von bis zu 8.500 Umdrehungen pro Minute. So lässt sich mit dem 2,1 kg leichten Gerät effektiv arbeiten.
-- Handhabung – Zum ergonomischen Arbeiten kann der Zusatzhandgriff stufenlos verstellt und der Aluminium-Führungsholm mit einem Hebel am Handgriff in der Länge angepasst werden.
-- Power X-Change - Der Akku-Rasentrimmer GE-CT 18/30 Li-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte kombiniert werden können.
 - Dreh- & neigbarer Motorkopf - Der Rasentrimmer ist ausgestattet mit einem 90° drehbaren und 3-fach neigbaren Motorkopf zum Trimmen an Kanten und Engstellen.
+- Lieferung ohne Akku - Der Akku-Rasentrimmer GE-CT 18/30 Li-Solo wird ohne Power X-Change Akku und ohne Ladegerät geliefert. Diese sind separat erhältlich.
+- Power X-Change - Der Akku-Rasentrimmer GE-CT 18/30 Li-Solo ist Teil der Einhell Power X-Change Familie, in der Akkus, Ladegeräte und Systemgeräte kombiniert werden können.
 - Fadentechnologie - Mit der Fadenspule (Schnittbreite 30 cm) werden präzise Schnittergebnisse erzielt. Mit der Tipp-Automatik kann der Faden einfach nachgeführt werden.
 - Schutz für Blumen - Der Flowerguard aus stabilem Metall schützt Blumen, Zierpflanzen und andere empfindliche Objekte vor dem Akku-Rasentrimmer.
+- Leistung - Der 18V-Akku-Rasentrimmer erreicht eine Leerlaufdrehzahl von bis zu 8.500 Umdrehungen pro Minute. So lässt sich mit dem 2,1 kg leichten Gerät effektiv arbeiten.
+- Handhabung – Zum ergonomischen Arbeiten kann der Zusatzhandgriff stufenlos verstellt und der Aluminium-Führungsholm mit einem Hebel am Handgriff in der Länge angepasst werden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09Q961DHM{{</world>}}

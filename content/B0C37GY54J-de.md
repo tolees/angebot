@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für ein gepflegtes, shiny Finish
-- vegan, ohne Parabene, ohne Mikroplastikpartikel, Nanopartikel frei, glutenfrei, acetonfrei
-- Mit funkelnden Glitzerpartikeln
-- Wir sagen Nein zu Tierversuchen. cosnova ist mit essence und CATRICE sowohl bei PETA Deutschland als auch bei PETA international gelistet.
 - Passt sich individuell dem pH-Wert der Lippen an
+- Mit funkelnden Glitzerpartikeln
+- Für ein gepflegtes, shiny Finish
+- Wir sagen Nein zu Tierversuchen. cosnova ist mit essence und CATRICE sowohl bei PETA Deutschland als auch bei PETA international gelistet.
 - farbanpassend, sofortiges Ergebnis, pflegend, feuchtigkeitsspendend, glitzernd, strahlend, glänzend, schimmernd
+- vegan, ohne Parabene, ohne Mikroplastikpartikel, Nanopartikel frei, glutenfrei, acetonfrei
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C37GY54J{{</world>}}

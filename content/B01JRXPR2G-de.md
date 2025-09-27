@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x 4 Tischtuchklammern - in bewährter Qualität von Fackelmann
-- Maße: ca. 15 x 1 x 9.7 cm
 - Anwendung: Zum Befestigen der Tischdecke an der Tischplatte. | Praktisch: Verstellbar von 18 - 55 mm Spannweite. Material: Edelstahl
+- Maße: ca. 15 x 1 x 9.7 cm
+- Lieferumfang: 1 x 4 Tischtuchklammern - in bewährter Qualität von Fackelmann
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01JRXPR2G{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
-- Textilfutter
-- Obermaterial aus Leder
 - Verstärkter Zehenbereich
+- Textilfutter
+- Textilfutter
 - Schnürsenkel
+- Obermaterial aus Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXXWMTY{{</world>}}

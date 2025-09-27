@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
 - Lining: Baumwolle
+- Obermaterial: Leder
 - Casual
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

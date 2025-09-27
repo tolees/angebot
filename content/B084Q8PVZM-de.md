@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Porzellan
 - 18 x 15,5 x 15 cm
 - Liefermenge 1 Stück
+- Porzellan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B084Q8PVZM{{</world>}}

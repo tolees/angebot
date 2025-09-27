@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Beach Boys The
 - Musik
-- INTERNATIONAL
 - PET SOUNDS (2 CDS)
+- Beach Boys The
+- INTERNATIONAL
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01DB0EADI{{</world>}}

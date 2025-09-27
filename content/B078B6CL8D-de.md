@@ -29,12 +29,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dunstabzugshaube 60 cm Touch
-- 11 kWh pro Jahr
+- Saugleistung von 650 m³/h
 - Energieeffizienzklasse: A++
-- Abluftbetrieb und Umluftbetrieb
+- 11 kWh pro Jahr
 - Beleuchtungseffizienzklasse: A
 - LED Beleuchtung max.: 2 x 1Watt
-- Saugleistung von 650 m³/h
+- Abluftbetrieb und Umluftbetrieb
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B078B6CL8D{{</world>}}

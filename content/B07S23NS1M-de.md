@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weight: 4,05 kg
-- Product made of biopolymer created using raw materials from renewable sources of non-GMO agricultural origin
+- Dimensions: H 58 x diameter 32 cm
 - Made in Italy
 - Design Anna Castelli Ferrieri, 2019
-- Dimensions: H 58 x diameter 32 cm
+- Weight: 4,05 kg
+- Product made of biopolymer created using raw materials from renewable sources of non-GMO agricultural origin
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07S23NS1M{{</world>}}

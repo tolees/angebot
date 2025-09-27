@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein komplettes Zubehör-Paket für die einfache Autoreinigung inkl. Verlängerungsschlauch, weicher Bürste und Fugendüse
 - Geeignet für Philips Akkusauger SpeedPro, SpeedPro Max & SpeedPro Max Aqua
-- Der Verlängerungsschlauch zum Reinigen des Fahrzeuginnenraums
+- Ein komplettes Zubehör-Paket für die einfache Autoreinigung inkl. Verlängerungsschlauch, weicher Bürste und Fugendüse
 - Die weiche Bürste für Oberflächen, die besonderen Schutz benötigen
+- Der Verlängerungsschlauch zum Reinigen des Fahrzeuginnenraums
 - Die lange Fugendüse für die problemlose Reinigung von engen und schwer erreichbaren Stellen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

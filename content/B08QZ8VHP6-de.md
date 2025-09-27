@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fleece-Stoff fühlt sich weich und warm.
 - Kordelzug Kapuze können Sie Ihre Abdeckung anpassen.
+- Fleece-Stoff fühlt sich weich und warm.
 - Kängurutasche auf der Vorderseite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

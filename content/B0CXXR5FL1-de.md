@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Erlebe die nicht-lineare Geschichte in deinem eigenen Tempo
+- Stelle dich den Horden einer verrückt gewordenen KI
 - Begib dich in den Cyberspace und öffne alternative Wege
 - Verbessere deine Fähigkeiten, um deinen Gegnern gewachsen zu sein
-- Stelle dich den Horden einer verrückt gewordenen KI
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CXXR5FL1{{</world>}}

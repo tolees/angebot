@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- INNOVATIV: Das mit Wasser befüllte Ventil schützt dein Ferment vor dem Kontakt mit Sauerstoff, der die Gärung gefährden könnte, lässt aber Luft und Gase entweichen. Rezepte und Anleitung inklusive.
-- GESUND: Mit Fermentation tust du deiner Gesundheit etwas Gutes. Es entstehen viele Mikroorganismen, die deiner Verdauung helfen, die Nahrung zu verarbeiten und wichtige Nährstoffe zu erhalten.
 - ANWENDUNG: Gemüse, Salz, Wasser und eventuell Gewürze in das Fermentieren Set füllen, verschließen und nach entsprechender Zeit genießen Sie besonders schmackhaftes und vitaminreiches Gemüse.
 - SCHNELL & EINFACH: Jedes Gemüse, dass du selbst anbaust oder im Laden kaufst, einfach und unkompliziert zu Hause fermentieren und haltbar machen mit dem großen Fermentierglas mit Ventil von Kilner.
 - LIEFERUMFANG: 1x Kilner Fermentierglas 3 Liter, 1x Silkondeckel, 1x Kunststoffventil und 2x Keramikgewichte. Silikondichtung vor Reinigung in der Spülmaschine entfernen! Rezepte und Anleitung inklusive.
+- INNOVATIV: Das mit Wasser befüllte Ventil schützt dein Ferment vor dem Kontakt mit Sauerstoff, der die Gärung gefährden könnte, lässt aber Luft und Gase entweichen. Rezepte und Anleitung inklusive.
+- GESUND: Mit Fermentation tust du deiner Gesundheit etwas Gutes. Es entstehen viele Mikroorganismen, die deiner Verdauung helfen, die Nahrung zu verarbeiten und wichtige Nährstoffe zu erhalten.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01N7V7PFI{{</world>}}

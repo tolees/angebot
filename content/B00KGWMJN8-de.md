@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Kurzärmlig mit Rundhals-Ausschnitt
+- Basic T-Shirt in Unifarben im praktischen 2-er Pack. Aus einem Single-Jersey-Stoff aus Baumwolle.
 - Aus weichem & pflegeleichtem Single-Jersey-Stoff aus Baumwolle
 - Passform: Regular Fit, Rückenlänge bei L ca. 74 cm
-- Basic T-Shirt in Unifarben im praktischen 2-er Pack. Aus einem Single-Jersey-Stoff aus Baumwolle.
-- Kurzärmlig mit Rundhals-Ausschnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KGWMJN8{{</world>}}

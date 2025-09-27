@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Manuelle Verwaltung. ement, Motorbauspiel mit mehreren Wegen zum Sieg.
 - Sie werden die Hilfe von Yokai, Kodama und Pilgern auf dem Weg haben!
+- Manuelle Verwaltung. ement, Motorbauspiel mit mehreren Wegen zum Sieg.
 - Übernehmen Sie die Rolle eines Bitoku-Geistes des Waldes.
 - Begeben Sie sich auf Ihren Weg zur Transzendenz, mit dem Ziel, den großen Geist des Waldes zu erheben und zu werden!
 

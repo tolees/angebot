@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bild und Ton: Active HDR (HDR10 Pro, HLG, Filmmaker Mode), HDR Dynamic Tone Mapping, 4K Upscaling ; 2.0-Soundsystem mit 20 Watt (10W je Kanal)
 - Tunertyp und Konnektivität: Single Triple Tuner (DVB-T2/-C/-S2), LAN (Ethernet), WLAN (802.11ac), 3x HDMI 2.0 (mit eARC & ALLMS), 2x USB, Optischer Digitalausgang (S/PDIF, Lichtwellenleiter), CI+-Slot
 - Prozessor: α5 Gen6 4K AI-Prozessor mit AI Brightness Control, & AI Sound (Virtual 5.1 Up-mix); Gaming Features: HGiG-kompatibel, Game Optimizer (ALLM)
-- Bild und Ton: Active HDR (HDR10 Pro, HLG, Filmmaker Mode), HDR Dynamic Tone Mapping, 4K Upscaling ; 2.0-Soundsystem mit 20 Watt (10W je Kanal)
-- 4K Ultra HD-Display mit Direct-LED; 109 cm (43 Zoll) Bildschirmdiagonale
 - Smart TV: webOS 23 (LG ThinQ AI & AI Concierge) mit Google Assistant, Amazon Alexa, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, unterstützt WOW Interface inkl. LG Fernbedienung und 2x AA Batterien
+- 4K Ultra HD-Display mit Direct-LED; 109 cm (43 Zoll) Bildschirmdiagonale
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BWWJQVGZ{{</world>}}

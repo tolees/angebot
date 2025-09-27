@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- City Block Sheer
 - 40 ml
+- City Block Sheer
 - Gesichtsschutz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

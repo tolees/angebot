@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fit: regular fit, back length for size L approximate 74 cm
-- Made of soft single jersey fabric with organic cotton
 - Basic t-shirt in plain colours in a practical multipack (pack of two): two t-shirts in the same colour per pack
-- Washing instructions: Do not dry clean, Do not tumble dry, No bleach allowed, Iron at high temperature (200°C), machine wash max 40°C
+- Made of soft single jersey fabric with organic cotton
 - Short-sleeved with a round neckline, ideal for wearing as an undershirt under a shirt or sweater
+- Fit: regular fit, back length for size L approximate 74 cm
+- Washing instructions: Do not dry clean, Do not tumble dry, No bleach allowed, Iron at high temperature (200°C), machine wash max 40°C
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BSL1X6QW{{</world>}}

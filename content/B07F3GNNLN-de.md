@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nicht Wasserfest
-- Sohle: Gummi
 - Obermaterial: Synthetik
-- Innenmaterial: Synthetik
-- Absatzform: Flach
 - Verschluss: Klettverschluss + Schnürsenkel
+- Sohle: Gummi
+- Nicht Wasserfest
+- Absatzform: Flach
+- Innenmaterial: Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07F3GNNLN{{</world>}}

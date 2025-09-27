@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - KOMPAKT: Schlankes Design für einfachen Stauraum
-- HINWEIS: Verwenden Sie immer eine feste, ebene Oberfläche. Um die Waage zurückzusetzen, tippen Sie auf die Taste null.
 - HINZUFÜGEN & WIEGEN: Tarafunktion
+- HINWEIS: Verwenden Sie immer eine feste, ebene Oberfläche. Um die Waage zurückzusetzen, tippen Sie auf die Taste null.
 - ROSTFREIER STAHL: Rostfreie stahl Plattform
 - HOHE PRÄZISIONSSENSOR: Wiege Nahrungsmittel genau bis zu 5KG
 

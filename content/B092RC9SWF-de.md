@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Crystal Prozessor 4K: Eine Vielfalt an Farbnuancen genießen
 - Design: Faszinierendes, ultraschlankes Design für den eigenen UHD TV
 - HDR: Spannende Details in verschiedenen Szenen entdecken
-- Crystal Prozessor 4K: Eine Vielfalt an Farbnuancen genießen
 - Q-Symphony: TV und Soundbar in neuer Harmonie erleben
 - Contrast Enhancer: Große Tiefenwirkung und hohe Farbkontraste
 

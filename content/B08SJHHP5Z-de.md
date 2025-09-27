@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Marke: Puma
 - Logo Gummidruck auf der Brust
 - Material: 80% Baumwolle 20% Polyester
-- Marke: Puma
 - Gerippter Rundhalsausschnitt
 - Normale Passform
 

@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - 150 Watt maximale Gesamtausgangsleistung
 - LED-Display, Metall-Frontgitter mit mattschwarzer Oberfläche, Wandmontage oder Tischaufstellung möglich
 - Lieferumfang: HT-SB147, Soundbar Fernbedienung (inklusive Batterien), Stromkabel, Wandhalterung, Bedienungsanleitung, Quick Start Guide
-- 2.0 Soundbar für 40 Zoll Fernseher oder größer, Außenmaße: 9.2 x 8.8 x 6.3 cm
 - Anschlüsse: 1 x HDMI mit ARC und CEC, 1 x Digital Optical Input, 1 x Aux-In 3.5 mm, 1 x USB, 1 x Bluetooth v4.2
+- 2.0 Soundbar für 40 Zoll Fernseher oder größer, Außenmaße: 9.2 x 8.8 x 6.3 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08HR1S1YM{{</world>}}

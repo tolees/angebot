@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Hood with lanyard
 - Sehr komfort
-- Scuba-kapuze für besseren Schutz
 - Baumwoll-mix
+- Scuba-kapuze für besseren Schutz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07T4LSKV7{{</world>}}

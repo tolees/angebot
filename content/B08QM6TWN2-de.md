@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leicht verstellbare Passform dank Schnürverschluss
-- Herausnehmbare Innensohle
 - Das Zero Shock System mit dämpfenden Kugeln steigert die Stoßdämpfung und gewährleistet eine bessere Absorption von Schlägen und Stößen
+- Herausnehmbare Innensohle
 - Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
 - Leichter Schuh für mehr Bewegungsfreiheit
 

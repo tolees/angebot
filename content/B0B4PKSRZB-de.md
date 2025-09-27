@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Metallplakette mit elegant-dezentem Geox-Logo.
 - Zwei Innentaschen, davon eine mit Reißverschluss.
+- Metallplakette mit elegant-dezentem Geox-Logo.
 - Verstellbarer Schulterriemen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schaft und Futter aus Mesh
-- Reguläre Passform
 - Zehenkappe aus Wildleder
+- Reguläre Passform
+- Schaft und Futter aus Mesh
 - Schnürsenkel
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

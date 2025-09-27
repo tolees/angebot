@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Better Leather,Better Linings
+- Laufsohle: 100% EVA
 - Farbe: Mittelbraun
 - Futter: 100 % recyceltes PET
-- Laufsohle: 100% EVA
 - Obbermaterial: 100% Rindsleder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

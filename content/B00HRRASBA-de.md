@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Tierfamilie bestehend aus 4 Figuren der Familie Pelzig: Vater, Mutter, Bruder und Schwester
-- Geeignet für Kinder ab 3 Jahren
 - Größe einer Ankleidepuppe ca. 6-8 cm
 - Schönes Geburtstagsgeschenk für Mädchen
+- Geeignet für Kinder ab 3 Jahren
 - Bewegliche Püppchen mit samtigem Fell
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

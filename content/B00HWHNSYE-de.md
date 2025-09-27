@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perfektes Weihnachtsgeschenk für Kinder jeden Alters
-- Stabile Ausführung
-- Passend zu den Tutus Röcken zum Verkleiden und Step In Style Schuhe zum Verkleiden (I believe this refers to SKU - Step In Style! Dress-Up Shoes, #18544 which has been discontinued, no stock so should be taken out from product description)
-- 4 Diademe und Kronen zum Ankleiden für königliche Rollenspiele
 - Passend für 3 - 5 Jahre
+- Stabile Ausführung
+- 4 Diademe und Kronen zum Ankleiden für königliche Rollenspiele
+- Perfektes Weihnachtsgeschenk für Kinder jeden Alters
+- Passend zu den Tutus Röcken zum Verkleiden und Step In Style Schuhe zum Verkleiden (I believe this refers to SKU - Step In Style! Dress-Up Shoes, #18544 which has been discontinued, no stock so should be taken out from product description)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00HWHNSYE{{</world>}}

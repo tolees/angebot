@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Verwandelt Stress in positive Energie
 - Frischer und klärender Duft
 - Mit natürlichen ätherischen Ã–len Der Wasserminze und Rosmarin
-- Türkis im Wasser
 - Diesem Produkt wurden keine tierischen Bestandteile zugesetzt
+- Türkis im Wasser
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07WVLF4LT{{</world>}}

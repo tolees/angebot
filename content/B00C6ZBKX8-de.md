@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Verpackungsinhalt: DVD-Player, Referenzhandbuch, Schnellstartanleitung, Fernbedienung, Batterien (1 x AA-Typ)
 - LINE (RGB) -TV-Eingang/Ausgang: 21-poliger USB*: USB-Typ-A-Buchse, maximaler Strom 500 mA (zum Anschluss eines USB-Geräts)
 - Video Equalizer, Audio DRC (Dynamic Range Control) Stilvolles, kompaktes und platzsparendes Design mit einer Dicke von nur 270 mm
-- Verpackungsinhalt: DVD-Player, Referenzhandbuch, Schnellstartanleitung, Fernbedienung, Batterien (1 x AA-Typ)
 - Spielen Sie Filme, Musik und Fotos ab, die auf USB gespeichert sind
 - Kompatibel mit XviD, CD/R/RW, MP3, JPEG
 

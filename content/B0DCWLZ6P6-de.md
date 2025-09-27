@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Duftprobe
-- Intensiv
 - Extrait de Parfum
+- Duftprobe
 - Lange Haltbarkeit
+- Intensiv
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DCWLZ6P6{{</world>}}

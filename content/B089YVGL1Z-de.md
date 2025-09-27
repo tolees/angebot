@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standard
 - Model: SLHBERG FULL ZIP Cardigan B NOOS
+- Standard
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089YVGL1Z{{</world>}}

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Urtla fast read for comportable editing max read 1950MB/s
+- High cost performance for casula to Professionnal usage
 - Ultrla fast write max write 1750MB/s
 - Compatible with major CF-express type B comaptible DSLR.
-- High cost performance for casula to Professionnal usage
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CHY9GBBV{{</world>}}

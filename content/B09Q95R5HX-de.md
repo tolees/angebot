@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Formbund – steht nicht ab
-- 5 Taschen, schräge Münztasche
 - Hoher Bund
+- 5 Taschen, schräge Münztasche
+- Formbund – steht nicht ab
 - Reißverschluss
 - Eng anliegend vom Bund bis zum Saum
 

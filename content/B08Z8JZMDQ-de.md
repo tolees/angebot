@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 65 % Formfaktor: Ideal für minimalistische oder kompaktere Setups, bei denen jeder Quadratzentimeter zählt, und dank der Pfeiltasten gibt es keine Kompromisse bei der Funktionalität
 - Doubleshot-ABS-Tastenkappen: Dank eines Doubleshot-Gussverfahrens kann sich die Beschriftung niemals abnutzen und die Tastenkappen haben extra dicke Seiten, wodurch sie extrem robust sind und auch Dauerbetrieb locker wegstecken
-- Mechanische Razer Yellow Switches: Schalldämpfer verringern die ohnehin schon geringe Geräuschentwicklung. Diese Switches sorgen für extrem sanfte Tastenanschläge und sorgen im Zusammenspiel mit den Tasten in voller Bauhöhe dafür, dass beim Gaming keine Kompromisse nötig sind
+- 65 % Formfaktor: Ideal für minimalistische oder kompaktere Setups, bei denen jeder Quadratzentimeter zählt, und dank der Pfeiltasten gibt es keine Kompromisse bei der Funktionalität
 - Drei Verbindungsmodi: Übergangslos zwischen kabellosem Gaming mit niedrigen Latenzen und Bluetooth für bis zu drei Geräte wechseln. Inklusive abnehmbarem USB-C-Kabel zum Aufladen während des Spielens
+- Mechanische Razer Yellow Switches: Schalldämpfer verringern die ohnehin schon geringe Geräuschentwicklung. Diese Switches sorgen für extrem sanfte Tastenanschläge und sorgen im Zusammenspiel mit den Tasten in voller Bauhöhe dafür, dass beim Gaming keine Kompromisse nötig sind
 - Bis zu 200 Stunden Akku-Laufzeit: Durchgehender Einsatz per Razer HyperSpeed Wireless oder im Bluetooth-Modus, und in unter fünf Stunden ist die Tastatur wieder voll aufgeladen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

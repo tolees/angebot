@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Rippbündchen an Ärmeln und Saum
-- toniges Tape an Kragen und Schultern
 - seitliche Einschubtaschen
 - Frontzipper, Meshfutter
+- toniges Tape an Kragen und Schultern
 - Stehkragen innen mit Baumwollripp abgesetzt
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus weichem Single-Jersey-Stoff
 - Kurzärmlig mit Rundhalsausschnitt, perfekt für Sommer und Herbst oder zum Unterziehen
+- Aus weichem Single-Jersey-Stoff
 - Passform: Regular Fit, Rückenlänge bei Größe L ca. 74 cm
 - Klassisches T-Shirt mit Logo-Schriftzug auf der Brust und Rippbündchen am Kragen
 

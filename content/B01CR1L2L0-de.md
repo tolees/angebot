@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - mit Saftrille für Fleisch- und Gemüsesaft
-- aus FSC-zertifiziertem Holz
 - besonders messerschonend
+- aus FSC-zertifiziertem Holz
 - hohe Schnittfestigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

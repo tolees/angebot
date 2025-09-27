@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bequeme Lichtsteuerung: Kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation) lässt sich die Hue LED Wandlampe mit Sprache oder einem Klick steuern
 - Einzigartige Atmosphäre: Dank 16 Mio. Farben und kühlen bis warmen Weißtönen schafft die individuell anpassbare, dimmbare Außenleuchte für jeden Anlass die passende Stimmung
 - Intelligente Beleuchtung: Die Hue LED Außenleuchte kann in der App durch personalisierte Zeitpläne automatisch an- oder ausgeschaltet werden – für ein bewohnt aussehendes Zuhause
+- Bequeme Lichtsteuerung: Kompatibel mit dem Amazon Echo Dot (3.Generation), Echo Plus und Echo Show (2.Generation) lässt sich die Hue LED Wandlampe mit Sprache oder einem Klick steuern
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthält eine Lichtquelle der Energieeffizienzklasse G
 - Smarte Erweiterung: Die separat erhältliche Hue Bridge Steuerungszentrale ist für alle Outdoor Artikel notwendig und ermöglicht die Automatisierung und weltweite Steuerung der Hue Wandleuchte und anderer Lampen
 - Personalisierte Wandbeleuchtung: Durch die Schutzart IP44 ist die LED Wandleuchte vor Feuchtigkeit & Staub geschützt und ist somit ideal für den Außenbereich

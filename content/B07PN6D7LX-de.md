@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - hochwertiges kosmetikprodukt eines renommierten herstellers
-- Anzahl der einheiten: 1.0
 - Einheitenanzahltyp: stück
+- Anzahl der einheiten: 1.0
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07PN6D7LX{{</world>}}

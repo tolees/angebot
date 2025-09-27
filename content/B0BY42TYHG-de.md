@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - V90 compatible for 8K video recording
 - 5 Years warranty
+- Max write speed 299MB/s Max read speed300MB/s
 - File resucue software download
 - Compatible with major SD UHS2 compatible camera
-- Max write speed 299MB/s Max read speed300MB/s
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BY42TYHG{{</world>}}

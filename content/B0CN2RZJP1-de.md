@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- Dimensions: 7,5 x 7,5 x 4 cm
 - Matt-Effekt
-- Design auf Produkt kann variieren, aber Produkt bleibt gleich
 - Starker Halt
+- Design auf Produkt kann variieren, aber Produkt bleibt gleich
 - 0
+- Dimensions: 7,5 x 7,5 x 4 cm
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CN2RZJP1{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial : Leder
-- Absatzform : Flach
 - Innenmaterial : Synthetik
-- Schuhweite : Normal
 - Wasserbeständigkeitsgrad : Nicht Wasserfest
+- Absatzform : Flach
+- Obermaterial : Leder
+- Schuhweite : Normal
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09NC6PGT2{{</world>}}

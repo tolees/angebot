@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang & Details – NIVEA SUN Schutz & Pflege Sonnenmilch LSF 20, 250 ml, leichte und nicht fettende Sonnenlotion, Artikelnummer 85605
-- Haut & Umwelt – Aus Rücksicht auf den Ozean ist die Formel der Sonnenlotion frei von Mikroplastik und den UV-Filtern Octocrylen, Octinoxat und Oxybenzon.
 - Wasserfeste* Formel – Die zuverlässige Sonnenmilch überzeugt mit ihrer wasserfesten* Formel. Die Hautverträglichkeit ist dermatologisch bestätigt. (*Nach 2 x 20 Min. Aufenthalt im Wasser bestehen noch min. 50% des Lichtschutzfaktors.)
+- Haut & Umwelt – Aus Rücksicht auf den Ozean ist die Formel der Sonnenlotion frei von Mikroplastik und den UV-Filtern Octocrylen, Octinoxat und Oxybenzon.
 - Schutz & Pflege – Die Sonnencreme schützt die Haut doppelt: Das UVA/UVB-Filtersystem schützt sofort und hochwirksam und die Creme pflegt gleichzeitig die Haut.
 - Mikrobiom Balance – Die pflegende Formel der NIVEA SUN Sonnencreme spendet 48h Feuchtigkeit und wirkt im Gleichgewicht mit dem hauteigenen Mikrobiom.
+- Lieferumfang & Details – NIVEA SUN Schutz & Pflege Sonnenmilch LSF 20, 250 ml, leichte und nicht fettende Sonnenlotion, Artikelnummer 85605
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01B66RYV4{{</world>}}

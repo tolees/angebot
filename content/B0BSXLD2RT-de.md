@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Model Number: 27491
-- Item Weight: 1177.0 g
 - Material: Cardboard Plastic
+- Item Weight: 1177.0 g
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BSXLD2RT{{</world>}}

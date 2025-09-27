@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal für dynamische Abenteuer dank atmungsaktivem Omni-Wick-Schweißtransportsystem
-- Leistungsstarkes Herren-Poloshirt mit klassischer Passform und technischen Eigenschaften, Für die Stadt oder die Natur
 - Lieferumfang: 1 x Columbia Poloshirt Herren, Tech Trail, Farbe: Shark, Größe: XL, Art.-Nr.: 1768701
+- Ideal für dynamische Abenteuer dank atmungsaktivem Omni-Wick-Schweißtransportsystem
 - Verschweißte Nähte für mehr Langlebigkeit und Kratzfestigkeit, Kragen für angemessenen Nackenschutz (bei Bedarf hochstellbar)
 - Design für ausgiebige Ausflüge in der freien Natur, Ideal für den alltäglichen Gebrauch
+- Leistungsstarkes Herren-Poloshirt mit klassischer Passform und technischen Eigenschaften, Für die Stadt oder die Natur
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B089K25QXK{{</world>}}

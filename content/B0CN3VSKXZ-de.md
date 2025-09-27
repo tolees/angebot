@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wasserdichte und atmungsaktive Omni-Tech-Technologie für mehr Komfort und Trockenheit, Omni-Heat-Wärmeisolierung sorgt für Wärme zu jeder Jahreszeit
-- Lieferumfang: 1x Columbia Regenjacke für Herren, Element Blocker III Interchange, Farbe: Grün (Stone Green), Größe: M, Art. 2090122
 - Vielseitig einsetzbare, wasserdichte 3-in-1-Jacke mit widerstandsfähiger Außenhülle, Mit isolierter Fütterung als Innenschicht oder als separate Jacke, Aktive Passform
 - Gute Bewegungsfreiheit und geeignet für Outdoor-Aktivitäten dank abnehmbarer Kapuze, verstellbaren Ärmelbündchen und verstellbarem Kordelzug am Saum
+- Lieferumfang: 1x Columbia Regenjacke für Herren, Element Blocker III Interchange, Farbe: Grün (Stone Green), Größe: M, Art. 2090122
+- Wasserdichte und atmungsaktive Omni-Tech-Technologie für mehr Komfort und Trockenheit, Omni-Heat-Wärmeisolierung sorgt für Wärme zu jeder Jahreszeit
 - Aufbewahrung von Wertgegenständen dank Reißverschluss-Seitentaschen und innenliegender Sicherheitstasche, Wechselsystem für drei verschiedene Jackenarten
 
 [🛒 Hier!!]({{< param buyurl >}})

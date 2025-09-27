@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weiches Jersey-Tragegefühl
-- Levis Housemark-Logo auf der Brust
 - Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
+- Levis Housemark-Logo auf der Brust
+- Weiches Jersey-Tragegefühl
 - Dies ist ein originales Levis Produkt
 - Dies ist ein originales Levis Produkt
 

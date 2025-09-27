@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Jeder Duft wird sorgfältig ausgewählt und getestet, um sicherzustellen, dass diese Kerze den Raum mit einem lang anhaltenden Duft erfüllt
-- Der patentierte Holzdocht der Pluswick -Kerzen knistert beim Brennen und sorgt so für ein raffiniertes Kaminfeuergefühl
-- Gemütlich und rustikal... wie ein warmes, knisterndes Kaminfeuer
-- Die hochwertige Wachsmischung sorgt für eine wunderschöne Flamme ohne unangenehme Rückstände
 - Enthält Amyl Cinnamal, Cinnamal, Citral, Coumarin, Eugenol, Hexyl Cinnamal, Isocyclemone E, Isoeugenol, Octabenzone, Oils, Cinnamon, Oils, Eucalyptus. Kann allergische Reaktionen hervorrufen.
+- Gemütlich und rustikal... wie ein warmes, knisterndes Kaminfeuer
 - Die Kerze im Sanduhrglas bietet eine größere Öffnung, sodass das Wachs vollständig schmelzen kann und für ein einheitlicheres Dufterlebnis sorgt
+- Der patentierte Holzdocht der Pluswick -Kerzen knistert beim Brennen und sorgt so für ein raffiniertes Kaminfeuergefühl
+- Die hochwertige Wachsmischung sorgt für eine wunderschöne Flamme ohne unangenehme Rückstände
+- Jeder Duft wird sorgfältig ausgewählt und getestet, um sicherzustellen, dass diese Kerze den Raum mit einem lang anhaltenden Duft erfüllt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001PNIL4I{{</world>}}

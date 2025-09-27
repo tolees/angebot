@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nike-Logo
 - Gelegenheitssport
+- Nike-Logo
 - Sportshirt
 
 [🛒 Hier!!]({{< param buyurl >}})

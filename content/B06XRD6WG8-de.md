@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - LCD-Anzeige
-- Optimierte Batterielebensdauer durch ABM -Technologie
 - Packungage die Größe: 23.0 L x 58.0 H x 55.0 W (cm)
+- Optimierte Batterielebensdauer durch ABM -Technologie
 - Rackmodell inkl. Steckplatz für optionale Management-Karten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

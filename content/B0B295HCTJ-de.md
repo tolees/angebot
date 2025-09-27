@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leder: Lackleder
 - Obermaterial: Synthetik
-- Schuhweite: Schmal
 - Innenmaterial: Textilgewebe
+- Leder: Lackleder
 - Absatzform: Plateauabsatz
+- Schuhweite: Schmal
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B295HCTJ{{</world>}}

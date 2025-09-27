@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bewahrt die feuchtigkeit der haut
+- Kornblume und malve
 - 98 prozent biologisch abbaubare inhaltsstoffe
 - Rezeptur ohne mikroplastik
 - Schmaler deckel - weniger plastik
-- Kornblume und malve
-- Bewahrt die feuchtigkeit der haut
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CN4YS3PT{{</world>}}

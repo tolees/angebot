@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wetterbeständige Konstruktion
 - Manuelle Scharfstellung
+- Wetterbeständige Konstruktion
 - Ausgezeichnete optische Leistung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
-- Absatzform: Flach
-- Innenmaterial: Synthetik
 - Sohle: Gummi
+- Absatzform: Flach
+- Obermaterial: Leder
+- Innenmaterial: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C69JWM4M{{</world>}}

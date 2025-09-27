@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus Baumwolle
 - Regular Fit
+- Aus Baumwolle
 - Aufgesetzte Gesäßtaschen und Seitentaschen
 - Männer Jeans mit ausgestelltem Bein und dreieckigem Einsatz
 

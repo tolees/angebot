@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sneaker
+- Colour Blocking
 - Netz
 - Materialzusammensetzung: Obermaterial: 70% Polyurethan, 30% Mesh; Sohle: 100% Gummi; Innenseite: 70% Polyurethan, 30% Polyester; Einlegesohle: 70% Polyurethan, 30% Polyester
-- Colour Blocking
+- Sneaker
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07ZZMD5G5{{</world>}}

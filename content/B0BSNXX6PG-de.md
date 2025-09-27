@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BEIDE 16-Bit-Konsolenspiele von Aladdin sind zum ersten Mal seit ihrer ursprünglichen Veröffentlichung enthalten. Auf vielfachen Wunsch sind zwei völlig unterschiedliche und gleichermaßen geliebte Aladdin-Spiele nun endlich auch für moderne Konsolen erhältlich. Welches Aladdin-Spiel ist DEIN Favorit?
 - Die Expanded Collection: Spiele mehrere verschiedene Versionen der beliebten Spiele Aladdin, Der König der Löwen und Das Dschungelbuch durch, die im Laufe der Jahre entstanden sind, darunter sowohl Konsolen- als auch Handheld-Versionen. Diese unglaubliche Kombination macht diese Ausgabe zur bisher besten Edition von Disney Classic Games.
+- BEIDE 16-Bit-Konsolenspiele von Aladdin sind zum ersten Mal seit ihrer ursprünglichen Veröffentlichung enthalten. Auf vielfachen Wunsch sind zwei völlig unterschiedliche und gleichermaßen geliebte Aladdin-Spiele nun endlich auch für moderne Konsolen erhältlich. Welches Aladdin-Spiel ist DEIN Favorit?
 - Moderne Funktionen: Sofortiges Zurückspulen eines beliebigen Spiels in Echtzeit, um schwierige Stellen erneut zu versuchen, Anzeige vollständiger Spielverläufe mit der Möglichkeit, vorzuspringen, einzusteigen und an einem beliebigen Punkt mit dem Spiel zu beginnen, und schnelles Speichern deines Fortschritts und Fortsetzen deines Abenteuers, wo und wann immer du willst.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aluminium-Frontpanel; Interne Speicherkapazität von 8 GB
 - Lange Akkulaufzeit von bis zu 35 Stunden bei der Wiedergabe von MP3s
-- Lautstärkeregler und Hold-Taste befinden sich an der Seite. Ladezeit: 2 Stunden
-- Musikwiedergabe, Speicherung von Fotos und UKW-Radio-Funktion
+- Aluminium-Frontpanel; Interne Speicherkapazität von 8 GB
 - Lieferumfang: Sony NW-E394 Walkman 8GB blau
+- Musikwiedergabe, Speicherung von Fotos und UKW-Radio-Funktion
+- Lautstärkeregler und Hold-Taste befinden sich an der Seite. Ladezeit: 2 Stunden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01BBWU686{{</world>}}

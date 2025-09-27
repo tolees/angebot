@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schickes Polohemd für verschiedene Abenteuer, von Golf über Wanderungen bis hin zu Kneipenbesuchen mit Freunden
-- Active-Passform mit viel Bewegungsfreiheit, Sehr schickes Design
-- Lieferumfang: 1 x Columbia Herren Poloshirt, Nelson Point, Farbe: Blau (Dark Mountain), Größe: L, Art.: 1772721
 - Gut für Reisen geeignet dank leichter Mischung aus Modal- und Polyesterstoff, Schnitt gut zum Tragen mehrerer Kleidungsschichten geeignet
 - Knopfleiste mit 3 Knöpfen als passende Ergänzung zum wunderbar strukturierten, weiten Kragen (hochstellbar zum Schutz vor starker Sonnenstrahlung)
+- Lieferumfang: 1 x Columbia Herren Poloshirt, Nelson Point, Farbe: Blau (Dark Mountain), Größe: L, Art.: 1772721
+- Active-Passform mit viel Bewegungsfreiheit, Sehr schickes Design
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B099NYNMGX{{</world>}}

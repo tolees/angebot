@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Mechanische, detailreiche Glurak-Figur zum Zusammenbauen mit Basis zum Ausstellen
 - Die Flügel, Beine, Arme, der Schwanz und der Kopf lassen sich bewegen. So werden zahlreiche Ausstellmöglichkeiten geboten.
-- Offizielles Lizenzprodukt von The Pokémon Company International
 - Dieser Sammlerartikel für Erwachsene ist die Krönung jedes Sammlerregals.
 - 1664-teiliges Bauset mit authentischer Bewegung: An der Kurbel drehen und schon bewegt sich Glurak.
+- Offizielles Lizenzprodukt von The Pokémon Company International
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BBSXNN9Q{{</world>}}

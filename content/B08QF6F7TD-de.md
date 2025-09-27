@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Koop in seiner Reinform: Begebt euch als Cody und May auf eine verrückte Reise, die ausschließlich auf kooperatives Spielen mit zwei Spielern im Couch-Koop oder online über den Freunde-Pass ausgelegt ist
-- Greift euch gegenseitig unter die Arme, überwindet unerwartete Hindernisse und erlebt dabei Momente, die euch zum Lachen bringen werden; Erlebt eine herzliche und urkomische Geschichte, in der Erzählung und Gameplay in einem einzigartigen metaphorischen Erlebnis miteinander verwoben sind
-- Chaotisch-vergnügliches Gameplay: Nutzt und meistert in jedem Level einzigartige verbundene Charakterfähigkeiten. Ihr wisst nie, was euch als Nächstes erwartet
-- Kaufe It Takes Two einmalig und erhalte sowohl die PS4- als auch die verbesserte PS5-Version
 - Eine universelle Geschichte über Beziehungen: Entdeckt eine metaphorische Verschmelzung von Gameplay und Story in einer heiteren Geschichte über die Strapazen des Miteinanderauskommens
+- Greift euch gegenseitig unter die Arme, überwindet unerwartete Hindernisse und erlebt dabei Momente, die euch zum Lachen bringen werden; Erlebt eine herzliche und urkomische Geschichte, in der Erzählung und Gameplay in einem einzigartigen metaphorischen Erlebnis miteinander verwoben sind
+- Kaufe It Takes Two einmalig und erhalte sowohl die PS4- als auch die verbesserte PS5-Version
+- Koop in seiner Reinform: Begebt euch als Cody und May auf eine verrückte Reise, die ausschließlich auf kooperatives Spielen mit zwei Spielern im Couch-Koop oder online über den Freunde-Pass ausgelegt ist
 - It Takes Two wird vom preisgekrönten Studio Hazelight, dem Branchenführer des kooperativen Spiels, entwickelt; Sie nehmen dich mit auf eine wilde und wundersame Reise, auf der nur eines sicher ist: Wir sind besser zusammen
+- Chaotisch-vergnügliches Gameplay: Nutzt und meistert in jedem Level einzigartige verbundene Charakterfähigkeiten. Ihr wisst nie, was euch als Nächstes erwartet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QF6F7TD{{</world>}}

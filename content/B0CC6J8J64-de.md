@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die HT-AX7 ist kompakt und hat eine Akkulaufzeit von 30 Stunden (plus Schnellladefunktion) - man kann sie somit überallhin mitnehmen! Die X-Balanced-Lautsprechereinheiten liefern einen kraftvollen Klang mit außergewöhnlicher Klarheit - für ununterbrochenen Surround Sound.
 - Mit der 360 Spatial Sound Mapping-Technologie wird man vollständig in den Klang eingehüllt. Stereo wird mit einem fortschrittlichen Up-Mixing-Algorithmus in einen immersiven Raumklang umgewandelt - egal, was man sich ansieht oder anhört.
+- Die HT-AX7 ist kompakt und hat eine Akkulaufzeit von 30 Stunden (plus Schnellladefunktion) - man kann sie somit überallhin mitnehmen! Die X-Balanced-Lautsprechereinheiten liefern einen kraftvollen Klang mit außergewöhnlicher Klarheit - für ununterbrochenen Surround Sound.
 - Das elegante Design fügt sich in jeden Raum ein, und dank des geringen Gewichts und der einhändigen Tragbarkeit kann man diesen Bluetooth-Lautsprecher von Sony überall aufstellen.
 - Mit der Sony | Home Entertainment Connect App wird man durch die Einrichtung geführt und hat somit die vollständige Kontrolle über die Lautstärke, das Klangfeld und vieles mehr. Bluetooth macht das Verbinden und Abspielen einfach.
 

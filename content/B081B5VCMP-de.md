@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Black
 - Größe: M
+- Farbe: Black
 - Columbia CSC Basic kurzärmeliges T-Shirt
 
 [🛒 Hier!!]({{< param buyurl >}})

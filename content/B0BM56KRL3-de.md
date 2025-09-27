@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sohle:Gummi
-- Obermaterial: Leder
 - Verschluss:Reißverschluss
 - Innermaterial:N/A
 - Absatzform:Kein Absatz
+- Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BM56KRL3{{</world>}}

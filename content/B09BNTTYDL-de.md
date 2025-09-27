@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses kultige Rennauto ist ein perfektes Geschenk zu jedem Anlass für Jungen und Mädchen, die Spielzeug-Rennautos lieben
-- Baue deinen eigenen Lamborghini Countach, zeige ihn deinen Freunden und genieße die Rennaction gegen andere LEGO Rennwagen
-- Dieses Auto-Spielzeug für Kinder ab 8 Jahren verfügt über ein offenes Cockpit mit 2 Sitzen und viele authentische Details
-- Der ikonische Supersportwagen wird von Fans auf der ganzen Welt für sein einmaligen Design und seine erstklassige Leistung verehrt
 - Mit den Modellauto Bausätzen können Kinder einige der berühmtesten Fahrzeug-Nachbildungen der Welt bauen, damit spielen und ausstellen
-- Die LEGO Builder App für Smartphones und Tablets ermöglicht das Zoomen, Drehen und Betrachten von Modellen von allen Seiten
+- Dieses kultige Rennauto ist ein perfektes Geschenk zu jedem Anlass für Jungen und Mädchen, die Spielzeug-Rennautos lieben
+- Dieses Auto-Spielzeug für Kinder ab 8 Jahren verfügt über ein offenes Cockpit mit 2 Sitzen und viele authentische Details
 - Enthält ein weißes Lamborghini Countach Auto-Modell mit einer Rennfahrer-Minifigur mit Sturzhelm, Perücke und Schraubenschlüssel
+- Der ikonische Supersportwagen wird von Fans auf der ganzen Welt für sein einmaligen Design und seine erstklassige Leistung verehrt
+- Die LEGO Builder App für Smartphones und Tablets ermöglicht das Zoomen, Drehen und Betrachten von Modellen von allen Seiten
+- Baue deinen eigenen Lamborghini Countach, zeige ihn deinen Freunden und genieße die Rennaction gegen andere LEGO Rennwagen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09BNTTYDL{{</world>}}

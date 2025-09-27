@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Perfekte Atmungsaktivität
-- Dri-fit-technologie
 - Standard Passform
 - Rundhalsausschnitt
+- Dri-fit-technologie
 - Mesh-einsätze am Rücken
 
 [🛒 Hier!!]({{< param buyurl >}})

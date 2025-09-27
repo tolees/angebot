@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: blau/schwarz
-- 50 Megapixel Hauptkamera
 - 2,2 GHz MediaTek MT6789V/CD Octa-Core-Prozessor
 - 16,4 cm (6,5 Zoll) Super AMOLED Display mit 1080 x 2340 Pixel
 - 128 GB interner Speicher, Android 14.0
+- 50 Megapixel Hauptkamera
+- Farbe: blau/schwarz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CR77BGWB{{</world>}}

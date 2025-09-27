@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - STRAHLENDER BLICK – Die NIVEA Gesichtscreme strafft und belebt die Augenpartie und versorgt diese mit intensiver Feuchtigkeit. Falten werden sichtbar geglättet.
 - EFFEKTIVE WIRKUNG – Die Formel der Gesichtspflege mit Duo Kollagen Booster ist speziell für die empfindliche Augenpartie und enthält pures Q10, Kreatin & Hyaluronsäure.
 - ANTI -Falten POWER – Mit purem Q10 und Kreatin mildert die NIVEA Augencreme Augenfältchen, wirkt auch gegen Augenringe und belebt die Augenpartie erkennbar.
-- BESTÄTIGTE VERTRÄGLICHKEIT – Auch für Kontaktlinsenträger*innen ist die Augenpflege geeignet. Die Verträglichkeit ist dermatologisch und augenärztlich bestätigt.
 - LIEFERUMFANG & DETAILS – NIVEA Q10 Anti-Falten POWER Extra Straffende Augenpflege, 15 ml, Augencreme gegen Falten und Augenringe, für alle Hauttypen, Artikelnr. 81288
+- BESTÄTIGTE VERTRÄGLICHKEIT – Auch für Kontaktlinsenträger*innen ist die Augenpflege geeignet. Die Verträglichkeit ist dermatologisch und augenärztlich bestätigt.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DTT4KKX3{{</world>}}

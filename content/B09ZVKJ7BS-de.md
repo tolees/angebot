@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nicht wasserfest
-- Sohle: Ethylen-Vinylacetat
 - Obermaterial: Stoff
+- Sohle: Ethylen-Vinylacetat
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVKJ7BS{{</world>}}

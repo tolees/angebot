@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Speicherkapazität: Kompaktes Gehäuse mit großem Speicher von 2 TB⁶ und einem geringen Gewicht von nur 122 g⁷, Dynamic Thermal Guard-Funktion zum Schutz vor Überhitzung⁵
-- Schneller Anschluss: Kompatibel mit PCs, Macs, Android-Geräten, iPhone 15, Spielekonsolen, 12K-Kameras und mehr für flexible Anschlussmöglichkeiten der PSSD²
-- Lieferumfang: 1 x Samsung Portable SSD T9 (MU-PG2T0B/EU), 2 TB, Inkl. 2x USB-Kabel (Typ-C zu C und Typ-C zu A), Maße (L x B x T): 88 x 60 x 14 mm, Gewicht: ca. 122 g
 - Rasante Datenübertragung: NVMe SSD mit USB 3.2 Gen 2x2 und sequenziellen Lese-/Schreibgeschwindigkeiten von bis zu 2.000 MB/s für mehr Turbo in deinem Workflow¹
 - Die kostenlose Samsung Magician Software optimiert für Sie die Leistungsfähigkeit und hält das Laufwerk mit Updates immer auf dem neuesten Stand⁸ ⁹
+- Speicherkapazität: Kompaktes Gehäuse mit großem Speicher von 2 TB⁶ und einem geringen Gewicht von nur 122 g⁷, Dynamic Thermal Guard-Funktion zum Schutz vor Überhitzung⁵
+- Lieferumfang: 1 x Samsung Portable SSD T9 (MU-PG2T0B/EU), 2 TB, Inkl. 2x USB-Kabel (Typ-C zu C und Typ-C zu A), Maße (L x B x T): 88 x 60 x 14 mm, Gewicht: ca. 122 g
+- Schneller Anschluss: Kompatibel mit PCs, Macs, Android-Geräten, iPhone 15, Spielekonsolen, 12K-Kameras und mehr für flexible Anschlussmöglichkeiten der PSSD²
 - Rundum verlässlich: Sturzsicher aus zu zu 3 Metern Höhe³, Rutschfeste Oberfläche, Zusätzliche Absicherung durch 5 Jahre eingeschränkte Herstellergarantie von Samsung⁴
 
 [🛒 Hier!!]({{< param buyurl >}})

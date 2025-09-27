@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Garantierte Mindestgeschwindigkeit 10 MB/s, Geschwindigkeitsklasse 10
 - Extreme Speed: Lesegeschwindigkeiten von bis zu 45 MB/s (300x)
+- besonders empfehlenswert für hochwertige Digitalkameras und Camcorder, ideal für hochauflösende Full-HD-Videoaufnahmen
 - Schutz gegen unbeabsichtiges Überschreiben der Daten durch mechanischen Schreibschutz
 - Lieferumfang: Intenso SD-HC Karte Class10 UHS-I
-- besonders empfehlenswert für hochwertige Digitalkameras und Camcorder, ideal für hochauflösende Full-HD-Videoaufnahmen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KIOWWFO{{</world>}}

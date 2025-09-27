@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Cups geben Halt und formen einen natürlichen Busen
 - Hoher Steg
 - Triumph Damen BH
-- Cups geben Halt und formen einen natürlichen Busen
 - Cups schließen Busen vollständig ein
 - Minimizer
 

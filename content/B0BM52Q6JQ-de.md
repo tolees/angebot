@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss:Reißverschluss
-- Obermaterial:Leder
 - Sohle:Gummi
+- Obermaterial:Leder
+- Verschluss:Reißverschluss
 - Absatzform:Flach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

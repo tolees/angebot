@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 1000 Puzzleteile
-- Empfohlenes Alter: ab 12 n
-- Puzzle vom Painter of Light Thomas Kinkade
 - SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können
+- Empfohlenes Alter: ab 12 n
 - Puzzlemaße: 69, 30 x 49, 30 cm
+- Puzzle vom Painter of Light Thomas Kinkade
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N4V0F6A{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal Passform
 - Gürtelschlaufen
+- Ideal Passform
 - Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

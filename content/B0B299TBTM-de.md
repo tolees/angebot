@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: synthetik
-- Absatzform: flach
+- Leder: lackleder
 - Lining: ungefüttert
 - Absatzhhe: 00 cm
-- Leder: lackleder
 - Schuhweite: schmal
+- Obermaterial: synthetik
+- Absatzform: flach
 - Verschluss: gummi
 - Innenmaterial: synthetik
 

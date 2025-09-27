@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenmaterial: Textil
-- Sohle: Gummi
-- Verschluss: Schnürung
 - Obermaterial: Canvas
+- Verschluss: Schnürung
+- Sohle: Gummi
 - Absatzform: Flach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

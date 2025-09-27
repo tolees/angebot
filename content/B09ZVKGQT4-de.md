@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastikbänder: bequeme Passform (84% Recyceltes PET)
 - Genähte Gummi-Außensohlen für hohe Haltbarkeit und guter Griff
+- Elastikbänder: bequeme Passform (84% Recyceltes PET)
 - Gummi Laufsohle für außergewöhnliche Griffe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

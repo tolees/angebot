@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Normal geschnitten
 - Tief angesetzte Schulter
-- Langarmshirt für Damen der dänischen Marke VERO MODA
 - Elastische Bündchen
+- Langarmshirt für Damen der dänischen Marke VERO MODA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BS74TKNY{{</world>}}

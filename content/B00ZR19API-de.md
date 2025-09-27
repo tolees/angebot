@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 3 Series 5000 Scherköpfe
 - Einfacher Austausch: In nur 5 Schritten können Sie den Kopf Ihres elektrischen Rasierers austauschen
 - Erinnerung: Das integrierte Erinnerungssymbol leuchtet auf, wenn Sie die Scherköpfe wechseln müssen
 - Zurücksetzen des Rasierers: Drücken Sie die Ein-/Ausschalttaste länger als 7 Sekunden
+- Lieferumfang: 3 Series 5000 Scherköpfe
 - Kompatibel mit Serie S5000 (S5xxx), Serie S6000 (S6xxx), Serie AquaTouch (AT8xx und AT7xx), Serie PowerTouch (PT8xx und PT7xx)
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache und entspannte Passform
 - Schnell trocknend
+- Einfache und entspannte Passform
 - Gerippter Kragen
 - Aus weichem und bequemem Stoff
 

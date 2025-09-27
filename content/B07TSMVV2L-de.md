@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Memory Card File Rescue Software
-- Lesegeschwindigkeit: bis zu 800MB/s, Schreibgeschwindigkeit: bis zu 700MB/s
 - Diagnose-Software Media Scan Utility
+- Memory Card File Rescue Software
 - Flash Memory Überprüfung mit Medien-Scan-Dienstprogramm
+- Lesegeschwindigkeit: bis zu 800MB/s, Schreibgeschwindigkeit: bis zu 700MB/s
 - IPX7 gegenüber Wassereintritt und IP5X gegenüber eindringendem Staub – IP57 für erhöhte Haltbarkeit.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

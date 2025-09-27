@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- MagSafe-kompatibles Schnellladen: 15W Ladeleistung magnetisch fixiert Ihr iPhone der Serien 15/14/13/12, für effizientes Aufladen ohne Wartezeit.
 - Komplettes Ladeset: Mit Anker 3-in-1 Cube, 30W Netzteil und 150cm USB-C Kabel sofort einsatzbereit, ohne zusätzliche Käufe – Ihre umfassende anker ladestation.
 - 3-in-1 Ladelösung: Ein Gerät lädt gleichzeitig iPhone, Apple Watch und AirPods, perfekt für Reisen oder einen aufgeräumten Schreibtisch.
-- MagSafe-kompatibles Schnellladen: 15W Ladeleistung magnetisch fixiert Ihr iPhone der Serien 15/14/13/12, für effizientes Aufladen ohne Wartezeit.
 - Einstellbarer Winkel: Bis zu 60° Neigung für flexible iPhone-Nutzung im Hoch- oder Querformat während des Ladens, für maximale Handlichkeit – nutze es als iPhone induktives Ladegerät.
 - Kompaktes, faltbares Design: Passt in jede Laptop-Tasche, ideal für den mobilen Einsatz und platzsparend auf jedem Schreibtisch.
 

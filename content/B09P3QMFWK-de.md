@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- tolles Friseur Spielset Mit Friseurwagen und zahlreichem Friseurzubehör wie Schere, Kamm, Fön und Glätteisen
-- Kopf, Arme und Beine sind beweglich
 - Circa 8 cm groß
+- Kopf, Arme und Beine sind beweglich
+- tolles Friseur Spielset Mit Friseurwagen und zahlreichem Friseurzubehör wie Schere, Kamm, Fön und Glätteisen
 - Mit Pony Mutter Figur Mit langen Haaren zum frisieren
 - Für Kinder ab 3 Jahren geeignet
 

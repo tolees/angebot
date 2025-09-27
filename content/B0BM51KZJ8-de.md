@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innermaterial:N/A
 - Obermaterial: Leder
+- Innermaterial:N/A
 - Sohle:Ethylenvinylacetat
 - Absatzform:Blockabsatz
 - Verschluss:Reißverschluss

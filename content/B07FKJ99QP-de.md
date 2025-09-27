@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lesegeschwindigkeit bis zu 100 MB/s Schreibgeschwindigkeit bis zu 80 MB/s
+- SD Adapter included
 - Videogeschwindigkeitsklasse: V30
 - A1 App Leistungsklasse
 - 4K-Videoaufzeichnung
-- SD Adapter included
+- Lesegeschwindigkeit bis zu 100 MB/s Schreibgeschwindigkeit bis zu 80 MB/s
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07FKJ99QP{{</world>}}

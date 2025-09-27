@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BAUMWOLL-MODAL-JERSEY: Superweicher Baumwoll-Modal-Jersey mit zusätzlichem Stretch für ganztägigen Tragekomfort.
 - DETAILS: Mit klassischem V-Ausschnitt und 3/4-Ärmeln für einen lässigen und mühelosen Stil.
+- BAUMWOLL-MODAL-JERSEY: Superweicher Baumwoll-Modal-Jersey mit zusätzlichem Stretch für ganztägigen Tragekomfort.
 - KLASSISCHE PASSFORM: Enge, aber bequeme Passform mit Bewegungsfreiheit.
 - ESSENTIAL T-SHIRT: Dieses vielseitige T-Shirt ist ein klassisches Kleidungsstück, das du perfekt unter deiner Lieblingsjacke oder einem Cardigan tragen kannst, aber auch als eigenständiges Kleidungsstück für einen lässigen Alltagslook.
 

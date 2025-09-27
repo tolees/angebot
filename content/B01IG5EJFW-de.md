@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klassischer Camper Beetle Sneaker
 - Sportlicher Camper Sneaker
+- Klassischer Camper Beetle Sneaker
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01IG5EJFW{{</world>}}

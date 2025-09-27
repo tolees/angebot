@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Bedienung
 - Täglicher Gebrauch
+- Einfache Bedienung
 - Lang anhaltend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

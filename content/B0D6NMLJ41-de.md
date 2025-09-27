@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Modell Perth Material in gewachster Lederoptik
-- Breathable
 - Mit Klettverschluss
+- Breathable
 - Elastischen Schnürsenkeln
 
 [🛒 Hier!!]({{< param buyurl >}})

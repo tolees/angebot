@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- IEEE802.3x-Flusskontrolle sorgt für eine zuverlässige Datenübertragung
-- 5 Gigabit-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
-- Ethernet mit Stromsparfunktion, Plastikgehäuse für Tischaufbau oder Wandmontage
-- Plug-and-Play, keine Konfiguration notwendig. Betriebstemperatur: 0°C..40°C.
 - Lieferumfang: 5-Port-Gigabit-Desktopswitch TL-SG1005D, Spannungsadapter, Bedienungsanleitung
+- IEEE802.3x-Flusskontrolle sorgt für eine zuverlässige Datenübertragung
+- Plug-and-Play, keine Konfiguration notwendig. Betriebstemperatur: 0°C..40°C.
+- Ethernet mit Stromsparfunktion, Plastikgehäuse für Tischaufbau oder Wandmontage
+- 5 Gigabit-RJ45-Ports mit Autoabstimmung und Auto-MDI/MDIX
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00YMTNVEM{{</world>}}

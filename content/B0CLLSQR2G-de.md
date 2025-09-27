@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Android TV: Greifen Sie auf über 400.000 Filme und Serien von Streaming-Diensten wie Netflix, Prime Video, YouTube, Canal+ etc zu.* Bitten Sie Google Filme zu empfehlen, das Licht zu dimmen und vieles mehr mit Ihrer Stimme. Und übertragen Sie Fotos, Videos und Musik von Smart- Geräten direkt auf Ihren Fernseher mit dem Chromecast built-in.
 - Triple-Tuner und CI+: Empfangen Sie verschlüsselte Programme ohne zusätzliche Hardware über Kabel (DVB-C), Satellit (DVB-S2) oder terrestrisches Fernsehen (DVB-T2).
+- Android TV: Greifen Sie auf über 400.000 Filme und Serien von Streaming-Diensten wie Netflix, Prime Video, YouTube, Canal+ etc zu.* Bitten Sie Google Filme zu empfehlen, das Licht zu dimmen und vieles mehr mit Ihrer Stimme. Und übertragen Sie Fotos, Videos und Musik von Smart- Geräten direkt auf Ihren Fernseher mit dem Chromecast built-in.
 - Das Thomson Versprechen: Sorgenfreie Unterhaltung mit der 3-jährigen Garantie, präzise Bilder ohne tote Pixel mit dem A+ Panel und höchste Qualität dank Montage in Europa.
 - Ideal für Ihren Camping-Urlaub: Mit 12 V Netzteil für beste Unterhaltung unterwegs. Variable Standfußposition: Von 60 auf 30 cm reduzierbar (für 24“ und 32“).
 - Beleuchtete Fernbedienung: Mit den hintergrundbeleuchteten Tasten haben Sie auch im Dunkeln alles im Blick.

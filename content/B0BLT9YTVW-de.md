@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- TINY, DETAILED COLLECTIBLES - Enjoy 0.9-inch (2.3 cm) Officially licensed merchandise of TMNT; Warning: not for children under 3 years old, Choking Hazard.
-- BILDEN SIE IHRE SAMMLUNG - Sammeln Sie alle Bitty Pops!, um eine beeindruckende Sammlung an Miniaturfiguren zu schaffen, beginnend mit diesem 4er-Pack, verpackt in harten Acrylregalen mit abnehmbaren Bodendeckeln.
-- CAPTIVATING CAKE TOPPERS - verwandeln Sie Ihre besonderen Momente, indem Sie sie als auffällige Tortenaufleger verwenden. Sie sind ideal für Geburtstage und besondere Anlässe und machen jeden Anlass magisch und unvergesslich für Kinder und Erwachsene gleichermaßen.
 - Bitte beachten Sie, dass bestimmte Artikel nicht angefordert werden können.
-- VIELSEITIGE PARTY ESSENTIALS - Als Partytütenfüller für Kinder, Weihnachtsstrumpfüberraschungen und auffällige Tortenaufleger, die Geburtstagen und Veranstaltungen eine besondere Note verleihen.
+- TINY, DETAILED COLLECTIBLES - Enjoy 0.9-inch (2.3 cm) Officially licensed merchandise of TMNT; Warning: not for children under 3 years old, Choking Hazard.
 - IDEALES GESCHENK FÜR TELEVISION FANS - Ideal für Comic-, Film- und Serienfans, bringen diese sammelbaren Bitty Pops! Aufregung und Freude zu jeder Gelegenheit und sprechen sowohl Kinder als auch Erwachsene an.
+- CAPTIVATING CAKE TOPPERS - verwandeln Sie Ihre besonderen Momente, indem Sie sie als auffällige Tortenaufleger verwenden. Sie sind ideal für Geburtstage und besondere Anlässe und machen jeden Anlass magisch und unvergesslich für Kinder und Erwachsene gleichermaßen.
+- BILDEN SIE IHRE SAMMLUNG - Sammeln Sie alle Bitty Pops!, um eine beeindruckende Sammlung an Miniaturfiguren zu schaffen, beginnend mit diesem 4er-Pack, verpackt in harten Acrylregalen mit abnehmbaren Bodendeckeln.
+- VIELSEITIGE PARTY ESSENTIALS - Als Partytütenfüller für Kinder, Weihnachtsstrumpfüberraschungen und auffällige Tortenaufleger, die Geburtstagen und Veranstaltungen eine besondere Note verleihen.
 - MYSTERY MINI FIGURE - Die Chance, eine Hyper Rare (1/6) Casey Jones, Hyper Rare (1/6) Leatherhead, Rare (1/3) 8-Bit Michelangelo, and Rare (1/3) Bebop aus dem Karton zu holen; genieße den Reiz, einzigartige Minifiguren zu sammeln.
 
 [🛒 Hier!!]({{< param buyurl >}})

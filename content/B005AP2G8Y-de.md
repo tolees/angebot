@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Textil
 - Verschluss: Schnürung
-- Sohle: Gummi
 - Innenmaterial: Synthetik
+- Sohle: Gummi
+- Obermaterial: Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B005AP2G8Y{{</world>}}

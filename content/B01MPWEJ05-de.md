@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 2 Bauanleitungen
-- Das Set enthält 250 Teile
 - 24 Kits, die nicht gleichzeitig eingerichtet werden können
+- Das Set enthält 250 Teile
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MPWEJ05{{</world>}}

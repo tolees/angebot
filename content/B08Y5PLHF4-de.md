@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Stoff mit Stretchanteil
 - Lockere Passform
+- Stoff mit Stretchanteil
 - Einfarbiges Oberteil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

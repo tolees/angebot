@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Verschluss:Pull-On
 - Absatzform:Kein Absatz
-- Sohle:Gummi
 - Obermaterial:Leder
+- Sohle:Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BM53VT58{{</world>}}

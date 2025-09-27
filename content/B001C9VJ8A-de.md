@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Variable Klemmkraft-Einstellung
-- Mit Einhand-Bedienung und automatischer Einstellung
 - Nockenmechanik - gewährleistet, bei gleichbleibender Klemmkraft, automatische Einstellung auf jede Größe
 - Neues Verriegelungssystem
+- Variable Klemmkraft-Einstellung
+- Mit Einhand-Bedienung und automatischer Einstellung
 - Einfache und sichere Entriegelung - Zange bleibt geschlossen bis Entriegelung betätigt wird
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

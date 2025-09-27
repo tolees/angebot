@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Fokus auf Tragekomfort und Vielfältigkeit designt
 - Rundhalsausschnitt
+- Mit Fokus auf Tragekomfort und Vielfältigkeit designt
 - Ein klassisches Rundhalsshirt, das einfach zu allem passt
 - Reguläre Passform
 

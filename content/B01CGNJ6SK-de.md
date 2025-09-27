@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Basisnote: Weihrauch, Moschus, Moos, Sandelholz, Vetiver, Patchouli
-- Aromatics Elixir spricht die Individualistin jeder Frau an
-- Berühren Sie die Sinne und den Geist auf subtile, angenehme Weise
 - Herznote: Tuberose, Jasmin, Ylang - Ylang, Rose, Orangenblüte, Nelke, Orris
 - Kopfnote: Salbei, Zitronenverbene, brasilisches Rosenholz, Kamille, Aldehyde, Bergamotte, Koriander
+- Berühren Sie die Sinne und den Geist auf subtile, angenehme Weise
+- Aromatics Elixir spricht die Individualistin jeder Frau an
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01CGNJ6SK{{</world>}}

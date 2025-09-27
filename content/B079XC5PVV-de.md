@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnellere Starts, Uploads und Dateiübertragungen
-- SSDs sollten im BIOS des Hostsystems ordnungsgemäß konfiguriert sein, wobei der SATA-Modus auf AHCI eingestellt ist, SATA-Kabel sollten SATA-6-Versionen und ohne Knicke/Biegungen sein und sie sollten an einen nativen SATA-Port auf der Hauptplatine angeschlossen sein
 - Mehrere Kapazitäten mit ausreichend Speicherplatz für Anwendungen oder zum Austausch einer Festplatte
+- SSDs sollten im BIOS des Hostsystems ordnungsgemäß konfiguriert sein, wobei der SATA-Modus auf AHCI eingestellt ist, SATA-Kabel sollten SATA-6-Versionen und ohne Knicke/Biegungen sein und sie sollten an einen nativen SATA-Port auf der Hauptplatine angeschlossen sein
+- Schnellere Starts, Uploads und Dateiübertragungen
 - Zuverlässiger und langlebiger als eine Festplatte
 
 [🛒 Hier!!]({{< param buyurl >}})

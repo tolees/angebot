@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Keinen Moment Verpassen: Bis zu 20fps mit Autofokus
 - Ideal Für Video-Creator: Interne 4K Video-Aufnahmen mit Pro-Funktionen und Bildstabilisierung
 - Atemberaubende Bildqualität: Der große Bildsensor vom Typ 1.0 hat eine Auflösung von 20,1 Megapixeln, die mit der Back-Illuminated-Technologie einen großen Empfindlichkeitsbereich erreichen
-- Schneller und Präziser Autofokus: Verfügt über Funktionen der Alpha 9-Klasse mit bis zu 60facher/sec AF/AE-Berechnung, 0,02s Af, Real Time Tracking und Augen Af, um Ihr Motiv in jeder Situation scharf zu halten
-- Keinen Moment Verpassen: Bis zu 20fps mit Autofokus
 - Großer Zoombereich: Zeiss Vario-Sonnar T 24-200 mm F2.8-4.5 hochauflösendes Zoom-Objektiv
+- Schneller und Präziser Autofokus: Verfügt über Funktionen der Alpha 9-Klasse mit bis zu 60facher/sec AF/AE-Berechnung, 0,02s Af, Real Time Tracking und Augen Af, um Ihr Motiv in jeder Situation scharf zu halten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VLJ5JDV{{</world>}}

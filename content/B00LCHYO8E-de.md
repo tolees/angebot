@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Kraftform Micro Schraubendreher für Kreuzschlitzschrauben Phillips-Recess
 - Mehrkomponentiger Kraftform Micro Griff für schnelles und ergonomisches Verschrauben
-- Z. B. für Elektroniker, Optiker, Feinmechaniker, Juweliere oder EDV-Hardwaremonteure
 - Die Wera Black Point-Spitze bietet Passgenauigkeit und optimierten Korrosionsschutz
+- Z. B. für Elektroniker, Optiker, Feinmechaniker, Juweliere oder EDV-Hardwaremonteure
 - Mit Abrollschutz und drehbarer Kappe für schnelles Zwirbeln
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

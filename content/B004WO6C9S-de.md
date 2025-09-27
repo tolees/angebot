@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Geeignet für Aluminium, Metalle, Buntmetalle, Kunststoffe, Acrylglas, Holz, Gipskarton
-- Durchmesser: 60 mm
 - Geeignet für Bohrmaschinen mit 11-mm-Sechskantschaftaufnahme
-- Einteiliges System für präzisen Rundlauf. Geeignet für Rohrdurchführungen für Sanitär-, Elektro- und Ventilationsrohre sowie Hohllochbohrungen für Schalt- und Abzweigdosen.
+- Durchmesser: 60 mm
 - Zahnform Vario-Pitch für ruhigen und vibrationsarmen Lauf und gute Schnittgeschwindigkeit
+- Einteiliges System für präzisen Rundlauf. Geeignet für Rohrdurchführungen für Sanitär-, Elektro- und Ventilationsrohre sowie Hohllochbohrungen für Schalt- und Abzweigdosen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B004WO6C9S{{</world>}}

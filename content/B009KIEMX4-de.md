@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- schützt den Dieselpartikelfilter
-- reduziert den Rußausstoß
 - Regenerationshilfe für Dieselpartikelfilter
+- reduziert den Rußausstoß
 - gewährleistet optimale Verbrennung
+- schützt den Dieselpartikelfilter
 - für Kurzstrecken- und Stadtfahrzeuge besonders geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

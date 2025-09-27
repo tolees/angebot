@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 78% Baumwolle, 20% Recyelte Baumwolle, 2% Elasthan
 - Slim Fit
+- Materialzusammensetzung: 78% Baumwolle, 20% Recyelte Baumwolle, 2% Elasthan
 - Niedrige Taille
 - Cargo-Hose
 

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Manufacturer Name: BEHRINGER
-- Manufacturer Part Number: C-2
 - STUDIO CONDENSER MICROPHONES C-2 C-2 By BEHRINGER
+- Manufacturer Part Number: C-2
+- Manufacturer Name: BEHRINGER
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000CZ0RLU{{</world>}}

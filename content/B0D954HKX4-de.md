@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Tapes auf den Schultern
+- Trikotkragen mit Kontrastkante und gebrandeter Unterseite
 - Print -Artwork vorne und auf den Ärmelbündchen
 - 3-Knopfleiste
-- Tapes auf den Schultern
 - Flammgarnstruktur
-- Trikotkragen mit Kontrastkante und gebrandeter Unterseite
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D954HKX4{{</world>}}

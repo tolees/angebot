@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ✅ GUTES AUS DER NATUR FÜR DICH: Himbeerblätter enthalten eine Vielzahl an Gerbstoffen und Flavanoiden sowie viel Eisen und Vitamin C. Himbeerblättertee kann übrigens nicht nur pur getrunken, sondern auch als Tinktur verwendet werden.
-- ✅ 100% NATÜRLICH: Unser leckerer naturbelassener Bio Himbeerblätter-Tee ist selbstverständlich frei von Zusatzstoffen, künstlichen Aromen, Geschmacksverstärkern, Farbstoffen & Co.
-- ❤️ WIR SIND NANANATURA: Unser vierköpfiger Familienbetrieb aus Mittelfranken steht für hervorragende Bio-Lebensmittel, die mit höchster Professionalität und Leidenschaft für Dich ausgesucht und verarbeitet werden. Wir sind eng mit unseren Bio-Betrieben verbunden. Bei uns stehen die soziale Verantwortung, vertrauensvolle Geschäftsbeziehungen und natürlich die Top-Produktqualität an erste Stelle.
 - ✅ VON HEBAMMEN EMPFOHLEN: Zur Vorbereitung auf die Geburt raten viele Hebammen dazu, in den letzten Wochen der Schwangerschaft Bio Himbeerblättertee zu konsumieren. Spreche den Genuß von Himbeerblätter-Tee auf jeden Fall mit Deiner Hebamme ab.
 - ✅ HERKUNFT & HERSTELLUNG: Für unseren Bio Himbeerblättertee verwenden wir Himbeerblätter aus Wildsammlung in Albanien. Hier ermöglichen der nährstoffreiche Boden und das milde Klima das Wachstum von Pflanzen mit besonders hohem Vitalstoffgehalt. Die luftgetrockneten Blätter werden in unserem kleinen biozertifizierten Familienunternehmen aus Nürnberg in Mittelfranken kontrolliert und von Hand in unbegrenzt wiederverschließbare Beutel aus Kraftpapier mit Schutzbarriere abgefüllt.
+- ❤️ WIR SIND NANANATURA: Unser vierköpfiger Familienbetrieb aus Mittelfranken steht für hervorragende Bio-Lebensmittel, die mit höchster Professionalität und Leidenschaft für Dich ausgesucht und verarbeitet werden. Wir sind eng mit unseren Bio-Betrieben verbunden. Bei uns stehen die soziale Verantwortung, vertrauensvolle Geschäftsbeziehungen und natürlich die Top-Produktqualität an erste Stelle.
+- ✅ 100% NATÜRLICH: Unser leckerer naturbelassener Bio Himbeerblätter-Tee ist selbstverständlich frei von Zusatzstoffen, künstlichen Aromen, Geschmacksverstärkern, Farbstoffen & Co.
+- ✅ GUTES AUS DER NATUR FÜR DICH: Himbeerblätter enthalten eine Vielzahl an Gerbstoffen und Flavanoiden sowie viel Eisen und Vitamin C. Himbeerblättertee kann übrigens nicht nur pur getrunken, sondern auch als Tinktur verwendet werden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DYP73SBT{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Synthetik
-- Sohle: Gummi
 - Absatzform: Flach
+- Sohle: Gummi
+- Obermaterial: Synthetik
 - Innenmaterial: Synthetik
 - Verschluss: Schnüren
 

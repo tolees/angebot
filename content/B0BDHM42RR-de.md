@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - STAR WARS: DAS BUCH VON BOBA FETT: Diese Krrsantan Action-Figur ist von der Live-Action-Serie Star Wars: Das Buch von Boba Fett auf Disney+ inspiriert und perfekt als Geschenk für Sammler und Fans ab 4 Jahren geeignet
 - ZUM CHARAKTER PASSENDES ACCESSOIRE: Die Action-Figur zum Sammeln aus der Star Wars The Black Series kommt mit einem Blaster als Accessoire
-- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihren eigenen Kollektionen präsentieren
-- KRRSANTAN: Der frühere Gladiator Krrsantan, der zum tödlichen Kopfgeldjäger wurde, ist ein hochragender Wookiee mit schwarzem Fell, der sich durch seine bedrohliche Erscheinung und Stärke einen Namen in der kriminellen Unterwelt gemacht hat
 - EINE GALAXIS MIT SAMMELFIGUREN: Mit den von der Serie inspirierten Figuren aus der Star Wars The Black Series lässt sich eine ganze Star Wars Galaxis erschaffen. (Jeweils separat erhältlich. Je nach Verfügbarkeit)
+- KRRSANTAN: Der frühere Gladiator Krrsantan, der zum tödlichen Kopfgeldjäger wurde, ist ein hochragender Wookiee mit schwarzem Fell, der sich durch seine bedrohliche Erscheinung und Stärke einen Namen in der kriminellen Unterwelt gemacht hat
+- PREMIUM DESIGN UND HOHE BEWEGLICHKEIT: Star Wars Fans und Sammler können diese vollbewegliche, 15 cm große Action-Figur mit flexiblem Kopf, Armen und Beinen sowie einem Premium Dekor in ihren eigenen Kollektionen präsentieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BDHM42RR{{</world>}}

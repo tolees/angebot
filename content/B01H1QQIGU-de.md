@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Werden Sie zu Spider-Man
 - Stürzen Sie sich in eine offene Welt
+- Werden Sie zu Spider-Man
 - Erleben Sie eine eigenständige Geschichte
 
 [🛒 Hier!!]({{< param buyurl >}})

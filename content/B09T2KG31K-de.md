@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Enjoy comfort and fashion at the same time with this unique product from Disney, designed by an exclusive collaboration with top brands & world-class artists
 - Disney - Princess/Frozen
-- Short Sleeve Tee
 - Officially licensed merchandise, printed in the EU with Eco-Friendly Inks
+- Short Sleeve Tee
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09T2KG31K{{</world>}}

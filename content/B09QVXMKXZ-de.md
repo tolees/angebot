@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Spieleklassiker von Piatnik
 - Smart 10 Harry Potter 100 Neue Fragen
+- Der Spieleklassiker von Piatnik
 - Für Zuhause und Unterwegs
 - Geeignet für Spieleabende/ Quizrunden
 

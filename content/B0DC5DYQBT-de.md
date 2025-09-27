@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- seitliche Einschubtaschen mit Zipper
-- kleines Rubber Artwork vorne, größeres hinten auf der rechten Wade
 - Seitentapes mit Prägungen
+- kleines Rubber Artwork vorne, größeres hinten auf der rechten Wade
 - Elastikbund aus Ripstop mit verstellbarem Gummizug
+- seitliche Einschubtaschen mit Zipper
 - Rippbündchen am Saum
 
 [🛒 Hier!!]({{< param buyurl >}})

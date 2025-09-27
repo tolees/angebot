@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit neuen spielbaren Charakteren, Modi, Herausforderungen, Hinter-den-Kulissen-Inhalten und vielem mehr
-- Zusätzlich zum Spiel inkl. 16 klassische Spiele + neue spielbare Charaktere ist ein Wendecover im Retro-Stil + ein 20-seitiges Artbook enthalten
 - Erlebe 12 beliebte Sonic Game Gear-Titel auf Plattformen der aktuellen Generation
+- Zusätzlich zum Spiel inkl. 16 klassische Spiele + neue spielbare Charaktere ist ein Wendecover im Retro-Stil + ein 20-seitiges Artbook enthalten
 - Erlebe die gesammelten Abenteuer von Sonic the Hedgehog in dem neu überarbeiteten Sonic Origins Plus mit 16 legendären Sonic-Titeln
 
 [🛒 Hier!!]({{< param buyurl >}})

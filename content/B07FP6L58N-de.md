@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hat ein cooles Farbmuster in Rot, Schwarz und Grau mit Flammenaufklebern für einen knallharten Bösewicht-Look
-- Anzahl der Teile: 128
+- Vom Hersteller empfohlenes Alter: 7+
 - Hol dir auch noch das Set Polizei-Verfolgungsjagd (42091) und lasse die Verfolgung beginnen
 - Fluchtfahrzeug
-- Vom Hersteller empfohlenes Alter: 7+
+- Anzahl der Teile: 128
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07FP6L58N{{</world>}}

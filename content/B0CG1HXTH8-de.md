@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Modern Warfare III feiert das 20. Jubiläum von Call of Duty mit der größten Sammlung an Mehrspieler-Karten, die es jemals gab
-- Modern Warfare Zombies (MWZ) erzählt eine neue Zombie-Geschichte von Treyarch mit Missionen, bekannten Zombies-Funktionen und versteckten Geheimnissen
-- Schließt euch das erste Mal mit anderen Trupps zusammen und kämpft gemeinsam gegen gewaltige untote Horden ums Überleben
 - Zu kämpfen bedeutet Entscheidungen zu treffen - verschiedene Ausrüstungen, verschiedene Wege durch die Mission
+- Schließt euch das erste Mal mit anderen Trupps zusammen und kämpft gemeinsam gegen gewaltige untote Horden ums Überleben
+- Modern Warfare Zombies (MWZ) erzählt eine neue Zombie-Geschichte von Treyarch mit Missionen, bekannten Zombies-Funktionen und versteckten Geheimnissen
+- Modern Warfare III feiert das 20. Jubiläum von Call of Duty mit der größten Sammlung an Mehrspieler-Karten, die es jemals gab
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CG1HXTH8{{</world>}}

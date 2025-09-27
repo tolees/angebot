@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Canvas
 - Sohle: Gummi
 - Obermaterial: Glatt Leder
+- Innenmaterial: Canvas
 - Verschluss: Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

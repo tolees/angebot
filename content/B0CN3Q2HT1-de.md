@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Erhältlich in verschiedenen Farben mit spannenden und vielseitigen Kombinationsmöglichkeiten
-- Stylisches Design mit Columbia-Logo, Sowohl frische als auch klassische Farbkontraste für den vertrauten Sammler, Toller Look für Erstträger
-- Herren-Kurzarm-Oberteil, Ideal für das ganze Jahr, Effektiv als Außenschicht oder als Basisschicht
 - Lieferumfang: 1 x Columbia Herren T-Shirt, Kurzärmelig, mit Columbia-Logo, Farbe: Grün (Safari, CSC Branded), Größe: XL, Art.: 1680053
+- Stylisches Design mit Columbia-Logo, Sowohl frische als auch klassische Farbkontraste für den vertrauten Sammler, Toller Look für Erstträger
 - Optimaler Komfort dank Jersey-Stoff aus 100 % Baumwolle
+- Erhältlich in verschiedenen Farben mit spannenden und vielseitigen Kombinationsmöglichkeiten
+- Herren-Kurzarm-Oberteil, Ideal für das ganze Jahr, Effektiv als Außenschicht oder als Basisschicht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CN3Q2HT1{{</world>}}

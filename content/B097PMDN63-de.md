@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform : Normal geschnitten
 - Angenehmes Tragekomfort
+- Passform : Normal geschnitten
 - Details : Hinten länger
 
 [🛒 Hier!!]({{< param buyurl >}})

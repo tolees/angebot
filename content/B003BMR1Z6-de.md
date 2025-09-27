@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gesichtspeeling
 - Marke Beauty-Produkte
+- Gesichtspeeling
 - Marke CLINIQUE
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial aus Leder
-- Gummiaußensohle
 - Cloudfoam Zwischensohle
 - Eine Nummer größer kaufen
+- Gummiaußensohle
 - Schnürsenkel
 
 [🛒 Hier!!]({{< param buyurl >}})

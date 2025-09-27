@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite: Medium
 - Obermaterial: Synthetik
+- Schuhweite: Medium
 - Verschluss: Gummi
 - Innenmaterial: Synthetik
 

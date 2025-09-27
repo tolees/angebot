@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Fragrance aus 20 cm Entfernung auf die Haut warmer Körperstellen sprühen. Durch den enthaltenen Anteil an Parfümöl bietet Only the Brave EdT ein langanhaltendes Dufterlebnis, das dennoch leicht und dezent wirkt. Das Herren Parfum lässt sich hervorragend mit dem gleichnamigen Deo kombinieren.
 - Ikonische Männlichkeit, die magnetisch anzieht. Zitrische Noten werden von unkonventionellem Koriander Aroma begleitet und verleihen dem Herrenduft seine Frische. In der Basis setzt der Duft nach feinem Leder ein Statement und vervollständigt den Duft mit seiner einzigartigen Wärme und Eleganz.
 - Stolz und souverän - Ein Mann, der den Duft Only the Brave trägt, ist zielstrebig und lässt sich nicht täuschen. Der Flakon in Form einer Faust unterstreicht die kraftvolle Wirkung dieses markanten Herrendufts.
-- Fragrance aus 20 cm Entfernung auf die Haut warmer Körperstellen sprühen. Durch den enthaltenen Anteil an Parfümöl bietet Only the Brave EdT ein langanhaltendes Dufterlebnis, das dennoch leicht und dezent wirkt. Das Herren Parfum lässt sich hervorragend mit dem gleichnamigen Deo kombinieren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00IOEEOCE{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Textur des Apres Sun sorgt für leichtes und angenehmes auftragen für Gesicht und Körper
+- Beruhigende Feuchtigkeitscreme ist angereichert mit Cold Cream - Sofort nach der Anwendung ist die Haut erfrischt
 - Lieferumfang: 1 x 400ml Aftersun Gel, ohne Parabene, unter medizinischer Aufsicht getestet
 - Lindernde Feuchtigkeitsmilch speziell entwickelt, um die Haut zu erfrischen und die Hitze-Einwirkung auf der Haut zu beruhigen
+- Leichte Textur des Apres Sun sorgt für leichtes und angenehmes auftragen für Gesicht und Körper
 - After Sun Lotion repariert sichtbar die Auswirkungen von Sonneneinstrahlung und spendet 24h Feuchtigkeit
-- Beruhigende Feuchtigkeitscreme ist angereichert mit Cold Cream - Sofort nach der Anwendung ist die Haut erfrischt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0013IOIO2{{</world>}}

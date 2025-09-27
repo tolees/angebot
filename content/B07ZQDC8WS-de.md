@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Slip-On-Design
-- Leichtes Design
-- Regulär geschnitten
 - Eine bequeme Adilette für die Dusche
+- Slip-On-Design
+- Regulär geschnitten
+- Leichtes Design
 - Weiches Cloudfoam Fußbett
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

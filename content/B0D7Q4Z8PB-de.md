@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Große Kapazität: Die Powerbank bietet eine Kapazität von 10.000 mAh für langanhaltende Energie, dabei kann die F10000 Powerbank selbst kann über den USB-C Anschluss blitzschnell wieder aufgeladen werden.
-- Zwei Geräte gleichzeitig laden: Die Intenso Powerbank F10000 verfügt sowohl über einen USB-A als auch einen USB-C Anschluss, sodass du zwei Geräte gleichzeitig laden kannst. Dabei teilen sich die Anschlüsse eine maximale Ausgangsleistung von 15W.
 - Tragbare Größe und Digitalanzeige: Mit ihrem schlanken Design passt die Powerbank problemlos in jede Tasche. Die Digitalanzeige gibt zu jeder Zeit Auskunft über den Ladestatus der Powerbank F10000 von Intenso.
 - Lieferumfang: Intenso F10000 Powerbank Lila, USB-C zu USB-C Ladekabel (unterstützt PD), Bedienungsanleitung
+- Große Kapazität: Die Powerbank bietet eine Kapazität von 10.000 mAh für langanhaltende Energie, dabei kann die F10000 Powerbank selbst kann über den USB-C Anschluss blitzschnell wieder aufgeladen werden.
+- Zwei Geräte gleichzeitig laden: Die Intenso Powerbank F10000 verfügt sowohl über einen USB-A als auch einen USB-C Anschluss, sodass du zwei Geräte gleichzeitig laden kannst. Dabei teilen sich die Anschlüsse eine maximale Ausgangsleistung von 15W.
 - 20W Ladung: Der USB-C Anschluss unterstützt Power Delivery mit 20W, während der USB-A Anschluss den Qualcomm Quick Charge Standard mit 18W bietet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

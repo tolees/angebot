@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Synthetik
 - Verschluss: Klettverschluss
 - Sohle: Gummi
+- Innenmaterial: Synthetik
 - Obermaterial: Leder
 - Absatzform: Flach
 

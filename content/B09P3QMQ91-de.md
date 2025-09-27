@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- süßer Heißluftballon Mit Tür zum Öffnen
-- Kopf, Arme und Beine sind beweglich
 - Inkl. Tuxedo Katzen Baby Figur
 - Figur Circa 4 cm groß
 - Mit Pool, Flugzeugbett, Klavier und Strickleiter
+- süßer Heißluftballon Mit Tür zum Öffnen
+- Kopf, Arme und Beine sind beweglich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09P3QMQ91{{</world>}}
