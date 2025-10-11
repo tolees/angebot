@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spannende Spielgeräusche dramatisieren den Spieleffekt.
 - PLAYSET mit Sounds und zwei Spielstufen.
 - Ab 3 Jahren geeignet.
-- 2xLR03/AAA Batterien werden benötigt und sind nicht enthalten.
-- Das Set besteht aus 19 Teilen, inklusive Burg, den Figuren Bowser, Mario, Luigi, Prinzessin Peach und natürlich Accessoires wie Käfig, Aufzug und Co.
 - Das Set enthält 1 exklusive Bowser Figur.
+- Das Set besteht aus 19 Teilen, inklusive Burg, den Figuren Bowser, Mario, Luigi, Prinzessin Peach und natürlich Accessoires wie Käfig, Aufzug und Co.
+- 2xLR03/AAA Batterien werden benötigt und sind nicht enthalten.
+- Spannende Spielgeräusche dramatisieren den Spieleffekt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07KWR92DG{{</world>}}

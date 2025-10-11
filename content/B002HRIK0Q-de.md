@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verhindert Schäden durch raues Wetter oder Hitzestyling
-- Pflegt trockenes, sprödes Haar reichhaltig mit tief eindringender Sheabutter und Ölen.
-- Pflegt, repariert und stärkt das Haar, um Spliss und Haarbruch zu reduzieren.
-- Verpackung kann variieren, Rezeptur bleibt unverändert.
 - Verleiht Glanz
+- Pflegt, repariert und stärkt das Haar, um Spliss und Haarbruch zu reduzieren.
+- Pflegt trockenes, sprödes Haar reichhaltig mit tief eindringender Sheabutter und Ölen.
+- Verpackung kann variieren, Rezeptur bleibt unverändert.
 - Revitalisiert, entwirrt und verleiht dem Haar Glanz.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

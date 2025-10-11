@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SOFT FEELING
 - ETRA DURABLE INGREDIENTS
+- SOFT FEELING
 - LIGHTWEIGHT
 - CUSHIONING
 

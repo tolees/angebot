@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Apple empfiehlt, dass du dieses Netzteil mit deinem 16" MacBook Pro (2021) und einem USB‑C auf MagSafe 3 Kabel oder USB‑C Ladekabel verwendest, um das schnelle Laden zu nutzen, mit dem du in etwa 30 Minuten von 0 % auf 50 % laden kannst
-- Der 140W USB‑C Power Adapter ermöglicht schnelles, effizientes Aufladen zu Hause, im Büro oder unterwegs
 - Ladekabel separat erhältlich.
+- Apple empfiehlt, dass du dieses Netzteil mit deinem 16" MacBook Pro (2021) und einem USB‑C auf MagSafe 3 Kabel oder USB‑C Ladekabel verwendest, um das schnelle Laden zu nutzen, mit dem du in etwa 30 Minuten von 0 % auf 50 % laden kannst
 - Er ist kompatibel mit vielen USB‑C Ladekabeln
+- Der 140W USB‑C Power Adapter ermöglicht schnelles, effizientes Aufladen zu Hause, im Büro oder unterwegs
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D22PQWJX{{</world>}}

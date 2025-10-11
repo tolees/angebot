@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Raglanärmel sorgen für natürliche Bewegungsfreiheit
 - Schnell trocknendes dri-fit-gewebe
+- Raglanärmel sorgen für natürliche Bewegungsfreiheit
 - Rundhals Design für bewegungsfreundliche Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

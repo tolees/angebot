@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die beliebte Erfolgsserie von Produktionsstudio Pierrot (TOKYO GHOUL, BLEACH) zum ersten Mal auf deutsch synchronisiert
-- In Deutschland sind bereits 50 Bände erschienen, ebenso Artbooks, Bücher , Spiel- und Sammelkarten sowie mannigfaltig andere Fanartikel
 - NARUTO und NARUTO SHIPPUDEN laufen erfolgreich auf ProSieben Maxx mit konstant hohen Einschaltquoten
+- In Deutschland sind bereits 50 Bände erschienen, ebenso Artbooks, Bücher , Spiel- und Sammelkarten sowie mannigfaltig andere Fanartikel
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01AKXCSHY{{</world>}}

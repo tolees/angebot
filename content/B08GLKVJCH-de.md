@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Material und Passform – Under Armour UA HG Armour Leggings, atmungsaktive Herren Sport Leggings, Material: 84 % Polyester / 16 % Elastan, Mesh: 92 % Polyester / 8 % Elastan.
-- Funktionale Hose – Die eng geschnittenen Herren Leggings sind aus leichtem HeatGear-Stoff gefertigt und eignen sich daher ideal für das Training.
 - Vielseitiges Material – Dank des funktionalen Materials leitet die Kompressionshose Schweiß vom Körper weg und trocknet sehr schnell.
+- Funktionale Hose – Die eng geschnittenen Herren Leggings sind aus leichtem HeatGear-Stoff gefertigt und eignen sich daher ideal für das Training.
+- Material und Passform – Under Armour UA HG Armour Leggings, atmungsaktive Herren Sport Leggings, Material: 84 % Polyester / 16 % Elastan, Mesh: 92 % Polyester / 8 % Elastan.
 - Anhaltende Frische – Durch die Anti-Geruch-Technologie der Sport Leggings wird das Wachstum von geruchsverursachenden Mikroben verhindert.
 - Cleveres Design – Die Trainingshose verfügt über ein ergonomisches Design, einen breiten Elastikbund sowie eine Drop-in Strength Tasche rechts.
 

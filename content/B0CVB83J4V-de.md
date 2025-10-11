@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Moderate coverage
 - Soft touch elastic fabric
 - Soft cotton modal
-- Moderate coverage
-- Mid-rise design
 - Easy everyday comfort
+- Mid-rise design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVB83J4V{{</world>}}

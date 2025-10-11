@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durchgenähter und gepolsterter Kragen
-- PUMA Nr. 1 Logo auf der Zunge
 - Spitzenverschluss für eine gute Passform
+- PUMA Nr. 1 Logo auf der Zunge
 - Aktualisiertes Eyestay-Design
+- Durchgenähter und gepolsterter Kragen
 - Obermaterial Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

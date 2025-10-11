@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform: Regular Fit, Rückenlänge bei Gr. L ca. 70 cm
-- Waschhinweis: schonend reinigen mit Perchlorethylen, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei hoher Temperatur bügeln (200° C), Schonwaschgang bei max. 30°C
-- Aus atmungsaktiver und weicher Baumwolle
 - Basic Pullover in Unifarben mit tonaler Logo-Stickerei auf der Brust, ideal für den Frühling, Herbst & Winter
+- Aus atmungsaktiver und weicher Baumwolle
+- Waschhinweis: schonend reinigen mit Perchlorethylen, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei hoher Temperatur bügeln (200° C), Schonwaschgang bei max. 30°C
+- Passform: Regular Fit, Rückenlänge bei Gr. L ca. 70 cm
 - Langärmlig mit V-Ausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})

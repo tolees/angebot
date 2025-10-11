@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 𝗦𝗵𝗲𝗹𝗹𝘆 𝗕𝗟𝗨 𝗛&𝗧 𝗶𝗻𝗸𝗹𝘂𝘀𝗶𝘃𝗲: Wird mit einem Shelly BLU H&T Bluetooth-Sensor für sofortige und präzise Raumtemperatur- und Feuchtigkeitsmessungen geliefert
 - 𝗔𝗻𝗽𝗮𝘀𝘀𝗯𝗮𝗿𝗲𝗿 𝗛𝗼𝗺𝗲𝘀𝗰𝗿𝗲𝗲𝗻: Personalisiere die Oberfläche, um bis zu sechs bevorzugte Geräte oder Messwerte anzuzeigen, damit Du schnellen Zugriff auf wichtige Steuerungen hast
-- 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝗲𝗿𝘁𝗲 𝗨𝗺𝘄𝗲𝗹𝘁𝘀𝗲𝗻𝘀𝗼𝗿𝗲𝗻: Mit Temperatur-, Feuchtigkeits- und LUX-(Lichtintensitäts-)Sensoren für Echtzeit-Überwachung und Automatisierung
 - 𝟰-𝗭𝗼𝗹𝗹-𝗧𝗼𝘂𝗰𝗵𝘀𝗰𝗿𝗲𝗲𝗻-𝗦𝗺𝗮𝗿𝘁-𝗦𝘁𝗲𝘂𝗲𝗿𝘂𝗻𝗴𝘀𝗽𝗮𝗻𝗲𝗹: Verwalte und überwache Dein gesamtes Shelly Ökosystem über einen intuitiven 4-Zoll-Farb-Touchscreen mit zentralem Zugriff auf Geräte und Szenen
 - 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝗲𝗿𝘁𝗲𝗿 𝟱-𝗔-𝗥𝗲𝗹𝗮𝗶𝘀-𝗦𝗰𝗵𝗮𝗹𝘁𝗲𝗿: Ersetze herkömmliche Lichtschalter mühelos mit dem integrierten 5-A-Relais für die direkte Steuerung von Beleuchtung und Geräten
+- 𝗦𝗵𝗲𝗹𝗹𝘆 𝗕𝗟𝗨 𝗛&𝗧 𝗶𝗻𝗸𝗹𝘂𝘀𝗶𝘃𝗲: Wird mit einem Shelly BLU H&T Bluetooth-Sensor für sofortige und präzise Raumtemperatur- und Feuchtigkeitsmessungen geliefert
 - 𝗪𝗟𝗔𝗡-𝗴𝗲𝘀𝘁𝗲𝘂𝗲𝗿𝘁 + 𝗦𝗰𝗵𝗻𝗲𝗹𝗹𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻: 2,4 GHz-WLAN für eine unterbrechungsfreie Smart-Home-Steuerung; Bluetooth für eine vereinfachte Einrichtung
+- 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝗲𝗿𝘁𝗲 𝗨𝗺𝘄𝗲𝗹𝘁𝘀𝗲𝗻𝘀𝗼𝗿𝗲𝗻: Mit Temperatur-, Feuchtigkeits- und LUX-(Lichtintensitäts-)Sensoren für Echtzeit-Überwachung und Automatisierung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D66PLGMF{{</world>}}

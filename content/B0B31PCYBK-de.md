@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
-- Schnürsenkel
-- Obermaterial aus Synthetikleder
 - Abriebfeste Non Marking Gummiaußensohle
+- Textilfutter
+- Obermaterial aus Synthetikleder
+- Schnürsenkel
 - Reguläre Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

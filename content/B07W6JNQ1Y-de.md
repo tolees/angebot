@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Logi Bolt USB-Empfänger Erfordert einen freien USB-Anschluss Windows 10, 11 oder höher macOS 10.15 oder höher Linux 11Die Grundfunktionen des Geräts werden ohne Software für andere Systeme als Windows und macOS unterstützt. ChromeOS 12Grundfunktionen des Geräts werden auch ohne Software für andere Systeme als Windows und macOS unterstützt Nicht kompatibel mit anderen Logitech-USB-Empfängern.
 - Intelligente Beleuchtung: Die hintergrundbeleuchteten Tasten der Funktastatur leuchten auf, sobald sich die Hände annähern - dabei passt sich die Intensität automatisch den Lichtverhältnissen an
-- Die Kunststoffteile von MX Keys Mini bestehen teilweise aus zertifiziertem recyceltem Kunststoff (Grafit: 30 %, Hellgrau und Rosa 12 %(5)).
-- Wiederaufladbar über USB-C: Die MX Keys Mini Bluetooth-Tastatur kann bis zu 10 Tage mit einer vollen Ladung oder bis zu 5 Monate mit ausgeschalteter Hintergrundbeleuchtung genutzt werden (3)
-- Kompatibilität Bluetooth Niedrigenergie Erfordert Bluetooth Low Energy Technologie Entwickelt für Intel Evo Laptops Windows 10, 11 oder höher macOS 10.15 oder höher Linux 8Gerätegrundfunktionen werden ohne Software für andere Systeme als Windows und macOS unterstützt ChromeOS 9Geräte-Grundfunktionen werden auch ohne Software für andere Systeme als Windows und macOS unterstützt iPadOS 14 oder höher 10Geräte-Grundfunktionen werden ohne Software für andere Systeme als Windows und macOS unterstützt Android 8.0 oder höher
-- Zertifiziert klimaneutral: Die CO2-Belastung durch MX Keys Mini wurde auf Null reduziert.
-- Multi-Device, Multi OS: Die MX Keys Mini Tastatur über Bluetooth Low Energy mit bis zu drei Geräten mit nahezu allen Betriebssystemen verbinden und nahtlos zwischen ihnen umschalten
-- Optimaler Tastenanschlag (1): Die Tastatur überzeugt durch Tasten, die den Fingerspitzen angepasst sind - mit Diktierfunktion (4) für automatische Texteingabe, Mikrofonstummschaltung und Emoji-Tasten
 - Mehrere Computer, ein Workflow: Die schlanke MX Keys Mini mit der MX Master 3 oder der MX Anywhere 3 verbinden und auf mehreren Computern oder Laptops in einem flüssigen Workflow (1) tippen
+- Optimaler Tastenanschlag (1): Die Tastatur überzeugt durch Tasten, die den Fingerspitzen angepasst sind - mit Diktierfunktion (4) für automatische Texteingabe, Mikrofonstummschaltung und Emoji-Tasten
+- Wiederaufladbar über USB-C: Die MX Keys Mini Bluetooth-Tastatur kann bis zu 10 Tage mit einer vollen Ladung oder bis zu 5 Monate mit ausgeschalteter Hintergrundbeleuchtung genutzt werden (3)
+- Zertifiziert klimaneutral: Die CO2-Belastung durch MX Keys Mini wurde auf Null reduziert.
+- Kompatibilität Bluetooth Niedrigenergie Erfordert Bluetooth Low Energy Technologie Entwickelt für Intel Evo Laptops Windows 10, 11 oder höher macOS 10.15 oder höher Linux 8Gerätegrundfunktionen werden ohne Software für andere Systeme als Windows und macOS unterstützt ChromeOS 9Geräte-Grundfunktionen werden auch ohne Software für andere Systeme als Windows und macOS unterstützt iPadOS 14 oder höher 10Geräte-Grundfunktionen werden ohne Software für andere Systeme als Windows und macOS unterstützt Android 8.0 oder höher
+- Die Kunststoffteile von MX Keys Mini bestehen teilweise aus zertifiziertem recyceltem Kunststoff (Grafit: 30 %, Hellgrau und Rosa 12 %(5)).
+- Logi Bolt USB-Empfänger Erfordert einen freien USB-Anschluss Windows 10, 11 oder höher macOS 10.15 oder höher Linux 11Die Grundfunktionen des Geräts werden ohne Software für andere Systeme als Windows und macOS unterstützt. ChromeOS 12Grundfunktionen des Geräts werden auch ohne Software für andere Systeme als Windows und macOS unterstützt Nicht kompatibel mit anderen Logitech-USB-Empfängern.
+- Multi-Device, Multi OS: Die MX Keys Mini Tastatur über Bluetooth Low Energy mit bis zu drei Geräten mit nahezu allen Betriebssystemen verbinden und nahtlos zwischen ihnen umschalten
 - Kleine Größe, starke Leistung: Das Keyboard bietet ein präzises Layout mit einer minimalistischen Form - eine ergonomische und tragbare Tastatur, die überall mitgenommen werden kann
 
 [🛒 Hier!!]({{< param buyurl >}})

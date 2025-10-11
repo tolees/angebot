@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- abnehmbarer Dachgepäckträger mit Hüpfspiel
 - TOY FIGURE
+- abnehmbarer Dachgepäckträger mit Hüpfspiel
 - 5535
 - Sylvanian Families
 

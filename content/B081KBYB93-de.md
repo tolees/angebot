@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Innenmaterial: Synthetic
-- Sohle: EVA
 - Absatzform: Pull On
+- Sohle: EVA
 - Obermaterial: Synthetic
 
 [🛒 Hier!!]({{< param buyurl >}})

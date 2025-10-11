@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DURCHDACHT: Zwei Regale sind bereits im Lieferumfang der Gartenhütte enthalten, damit Sie mehr Möglichkeiten haben, um Ihre Gartengeräte, Rasenmäher, Werkzeuge ordentlich zu verstauen
 - MATERIAL: Hergestellt aus langlebigem Kunststoff mit Stahlverstärkung für zusätzliche Stabilität, wasserdicht, wetterfest, UV-geschützt, ideal für den Außenbereich
-- FEATURES: 1 feststehendes Fenster (Größe (BxH): ca. 43 x 61 cm) und durchgehendes Oberlicht für viel Tageslicht, integrierte Lüftungsschlitze, Edelstahl-Schließsystem für zusätzliche Sicherheit (Schloss nicht im Lieferumfang enthalten)
 - ROBUST: Der strapazierfähige Schwerlastboden, das geräumige Design und die hohen Doppeltüren sorgen für besonders komfortablen Zugang auch zu großem Lagergut
+- FEATURES: 1 feststehendes Fenster (Größe (BxH): ca. 43 x 61 cm) und durchgehendes Oberlicht für viel Tageslicht, integrierte Lüftungsschlitze, Edelstahl-Schließsystem für zusätzliche Sicherheit (Schloss nicht im Lieferumfang enthalten)
+- DURCHDACHT: Zwei Regale sind bereits im Lieferumfang der Gartenhütte enthalten, damit Sie mehr Möglichkeiten haben, um Ihre Gartengeräte, Rasenmäher, Werkzeuge ordentlich zu verstauen
 - DATEN: Außenmaße (B/T/H): 256.5 x 255 x 243 cm, Innenmaße: 236.5 x 237 x 238.5 cm, Grundfläche (BxT): 248.5 x 255 cm, Doppeltür Öffnung (BxH): ca. 138.5 x 191 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Fördert die Feinmotorik und die Auge-Hand-Koordination
-- Gleich 3 Motive in einer Packung: Feuerwehr-, Polizei- und Rettungseinsatz
-- Die Puzzles Polizei, Feuerwehr & Co. von HABA bieten kleinen Puzzle-Fans ab 3 Jahren Einblicke in die spannende Welt der Einsatzkräfte
 - 3 Puzzles mit 12, 15 und 18 Puzzleteilen
 - Die großen, griffigen Teile aus stabiler Pappe sind einfach zu greifen und zu puzzeln
+- Die Puzzles Polizei, Feuerwehr & Co. von HABA bieten kleinen Puzzle-Fans ab 3 Jahren Einblicke in die spannende Welt der Einsatzkräfte
+- Gleich 3 Motive in einer Packung: Feuerwehr-, Polizei- und Rettungseinsatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06X6CQFC4{{</world>}}

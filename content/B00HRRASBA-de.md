@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schönes Geburtstagsgeschenk für Mädchen
-- Tierfamilie bestehend aus 4 Figuren der Familie Pelzig: Vater, Mutter, Bruder und Schwester
 - Geeignet für Kinder ab 3 Jahren
+- Tierfamilie bestehend aus 4 Figuren der Familie Pelzig: Vater, Mutter, Bruder und Schwester
+- Schönes Geburtstagsgeschenk für Mädchen
 - Bewegliche Püppchen mit samtigem Fell
 - Größe einer Ankleidepuppe ca. 6-8 cm
 

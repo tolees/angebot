@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5 Speeder (je 1 FUN-, 1 CROSS- und 1 NIGHT Speeder sowie 2 MATCH Speeder) und 1 Windring
 - 1 Settasche mit verstärktem Schultergurt und Spielanleitung
-- 2 S400 Schläger aus Carbon-Composite mit Mega Power Zone (MPZ) und U-Profil
 - 1 x Speedlights zum Speeden in der Dunkelheit
+- 2 S400 Schläger aus Carbon-Composite mit Mega Power Zone (MPZ) und U-Profil
+- 5 Speeder (je 1 FUN-, 1 CROSS- und 1 NIGHT Speeder sowie 2 MATCH Speeder) und 1 Windring
 - 1 Easy Court Basic, transportables Spielfeld aus rotem Gurtband
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Cloudfoam Zwischensohle
-- Textilfutter
-- Besteht zu mindestens 20 % aus recycelten Materialien
 - Textilfutter
 - Reguläre Passform
+- Cloudfoam Zwischensohle
+- Textilfutter
 - Obermaterial aus Textil
+- Besteht zu mindestens 20 % aus recycelten Materialien
 - Synthetik-Außensohle
 
 [🛒 Hier!!]({{< param buyurl >}})

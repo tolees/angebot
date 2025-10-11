@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurze Hose mit Gürtelschlaufen & Logo-Batch hinten, ideal für den Frühling & Sommer
 - Passform: Morris Relaxed Fit - mittlere Bundhöhe, gerades Bein. Beininnenlänge bei Größe 33 ca. 31 cm
 - Aus pflegeleichtem Baumwoll-Stoff mit kühlendem Lyocell & Stretch-Anteil für mehr Bewegungsfreiheit
+- Kurze Hose mit Gürtelschlaufen & Logo-Batch hinten, ideal für den Frühling & Sommer
 - Kurze, bequeme Jeanshose in verschiedenen Waschungen, im Five-Pocket-Style
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

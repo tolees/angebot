@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sporttyp: Fußball
-- t-shirt zum training oder zur präsentation
 - rundhalskrasen
+- t-shirt zum training oder zur präsentation
+- Sporttyp: Fußball
 - leichte elastische eigenschaften
 - großer nike logo print
 

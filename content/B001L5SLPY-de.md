@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bemessungswerte: 40 A Bemessungsstrom und 30 mA Bemessungsfehlerstrom
 - Fehlerstromerkennung: Erkennt sinusförmige Wechsel- und pulsierende Gleichfehlerströme.
-- Anwendungsbereiche: Ideal für Wohn-, Gewerbe- und Industrieanwendungen.
 - Normenkonformität: Entspricht den Normen DIN VDE 0100-410 und DIN VDE 0100-530.
 - Polzahl: 4-Polige Ausführung, geeignet für dreiphasige Netze mit Neutralleiter.
+- Anwendungsbereiche: Ideal für Wohn-, Gewerbe- und Industrieanwendungen.
+- Bemessungswerte: 40 A Bemessungsstrom und 30 mA Bemessungsfehlerstrom
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001L5SLPY{{</world>}}

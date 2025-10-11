@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die Figuren sind ca. 2,5 cm groß. Sie kommen inklusive einer Schutzhülle aus klarem Acryl in einer Fensterbox. Nimm diesen exklusiven, gepanzerten Bitty POP! aus seiner Vitrine, damit er im Bitty POP! Ride Platz nehmen kann!
+- Die Figuren sind ca. 2,5 cm groß. Sie kommen inklusive einer Schutzhülle aus klarem Acryl in einer Fensterbox. Nimm diesen exklusiven, gepanzerten Bitty POP! aus seiner Vitrine, damit er im Bitty POP! Ride Platz nehmen kann!
 - Eine Funko Pop Miniatur zum Sammeln.
-- Die Figuren sind ca. 2,5 cm groß. Sie kommen inklusive einer Schutzhülle aus klarem Acryl in einer Fensterbox. Nimm diesen exklusiven, gepanzerten Bitty POP! aus seiner Vitrine, damit er im Bitty POP! Ride Platz nehmen kann!
-- Die Figuren sind ca. 2,5 cm groß. Sie kommen inklusive einer Schutzhülle aus klarem Acryl in einer Fensterbox. Nimm diesen exklusiven, gepanzerten Bitty POP! aus seiner Vitrine, damit er im Bitty POP! Ride Platz nehmen kann!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQSTWCGF{{</world>}}

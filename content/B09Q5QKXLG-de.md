@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
-- Aus der Pandora Timeless Kollektion
 - Inspiriert von historischen königlichen Kopfbedeckungen, verleiht dieser 14 Karat vergoldete Wishbone-Ring deinem Alltagslook ein königliches Gefühl
 - Das winkelförmige Schmuckstück ist mit einer Reihe glitzernder Cubic Zirkonia in klassischen Steinfassungen besetzt und bildet den krönenden Abschluss jeder Ringkombination
+- Das Produkt wird nicht in einer Box versendet, diese muss separat gekauft werden
+- Aus der Pandora Timeless Kollektion
 - Bring mit diesem glitzernden Diadem-Ring mehr Strahlen in dein Leben, perfekt für moderne Prinzessinnen
 
 [🛒 Hier!!]({{< param buyurl >}})

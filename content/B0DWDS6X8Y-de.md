@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Altersangabe: ab 14 Jahren
 - Serie: Ninjago
 - Teile: 1.650 -teilig
+- Altersangabe: ab 14 Jahren
 - Material: Kunststoff
 - Art: Konstruktionsspielzeug
 

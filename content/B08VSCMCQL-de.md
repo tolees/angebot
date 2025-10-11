@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dickes Material
-- Kurzärmelig
-- Regulär geschnitten
-- Rundhalsausschnitt
 - 100 % Baumwolle (Single Jersey)
+- Dickes Material
+- Rundhalsausschnitt
+- Regulär geschnitten
+- Kurzärmelig
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08VSCMCQL{{</world>}}

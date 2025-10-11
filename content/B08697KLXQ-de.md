@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Model: VMANA S / L LACE TOP NOOS
 - Fit: Normal
+- Model: VMANA S / L LACE TOP NOOS
 - Standard
 
 [🛒 Hier!!]({{< param buyurl >}})

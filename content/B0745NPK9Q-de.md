@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hilft, Ihr coloriertes Haar vor Stylingschäden zu schützen
-- Die Intensivpflege hilft Anzeichen von Haarschäden in nur 2 Minuten zu bekämpfen
 - Die weiterentwickelte Pantene Pro-V Pflegeformel
+- Die Intensivpflege hilft Anzeichen von Haarschäden in nur 2 Minuten zu bekämpfen
+- Hilft, Ihr coloriertes Haar vor Stylingschäden zu schützen
 - Verleiht gesund aussehendes und glänzendes Haar
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- hervorragende Laufruhe
-- bruchsicher
 - Hohe Temperaturbelastbarkeit, hervorragende Laufruhe
+- bruchsicher
+- hervorragende Laufruhe
 - Gummischleifteller für Winkelschleifer, Klettsystem
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

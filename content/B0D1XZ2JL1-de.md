@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - MEHRSPIELER-CHAOS – Bis zu vier Spieler können im Splitscreen-Modus gegeneinander antreten.
+- BESUCHE GIGANTOS WELT – Mit farbenfrohen 3D-Animationen, die von der Fernsehserie inspiriert sind.
 - SPIELE ALS DEINE LIEBLINGSCHARAKTERE – Steuere die Dino-Freunde Mazu, Rocky, Bill und Tiny.
 - GESTALTE NEUE HERAUSFORDERUNGEN – Erstelle deine eigenen Giganto-Spiele-Events.
-- BESUCHE GIGANTOS WELT – Mit farbenfrohen 3D-Animationen, die von der Fernsehserie inspiriert sind.
 - JETZT GEHT DIE PARTY LOS! – Rase, fliege und sprenge dich durch acht Spiele im Dino-Stil.
 
 [🛒 Hier!!]({{< param buyurl >}})

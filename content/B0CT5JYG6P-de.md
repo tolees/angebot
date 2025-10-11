@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Offiziell für Nintendo Switch und Nintendo Switch Lite + Nintendo Switch (OLED model) lizenzierter kabelloser Gaming-Controller
-- USB-C-Ladekabel von 3 m Länge inbegriffen
-- Intuitive Nintendo-Buttonanordnung
-- Zwei benutzerdefinierbare Advanced Gaming Buttons
-- Kabelloser Controller mit Bluetooth-5.0-Technologie
-- Integrierte Anti-Reibungs-Ringe für geschmeidige Thumbstick-Steuerung
-- Wiederaufladbarer Lithium-Ionen-Akku: Bis zu 30 Stunden pro Ladung*
-- Ausgezeichnete Ergonomie für stundenlanges komfortables Spielen
 - LED-Warnanzeige für niedrigen Akkustand
+- Kabelloser Controller mit Bluetooth-5.0-Technologie
+- USB-C-Ladekabel von 3 m Länge inbegriffen
+- Wiederaufladbarer Lithium-Ionen-Akku: Bis zu 30 Stunden pro Ladung*
+- Integrierte Anti-Reibungs-Ringe für geschmeidige Thumbstick-Steuerung
+- Zwei benutzerdefinierbare Advanced Gaming Buttons
+- Offiziell für Nintendo Switch und Nintendo Switch Lite + Nintendo Switch (OLED model) lizenzierter kabelloser Gaming-Controller
+- Ausgezeichnete Ergonomie für stundenlanges komfortables Spielen
+- Intuitive Nintendo-Buttonanordnung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CT5JYG6P{{</world>}}

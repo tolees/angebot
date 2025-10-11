@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Samsung
 - Marke: Samsung
+- Samsung
 - Farbe: grau
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

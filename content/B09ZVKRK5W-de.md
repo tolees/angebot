@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Textil
-- Verschluss: Thermoplastische Elastomere
-- Absatzform: Flach
 - Obermaterial: Leder
+- Verschluss: Thermoplastische Elastomere
+- Innenmaterial: Textil
+- Absatzform: Flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVKRK5W{{</world>}}

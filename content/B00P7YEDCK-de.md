@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit hohem Anteil Tiefensalz
 - Bewahrt die Feuchtigkeit der Haut
-- Wohltuend, wärmend & entlastend
+- Mit hohem Anteil Tiefensalz
 - Kosmetisches Mittel. Nicht einnehmen und für Kinder unzugänglich aufbewahren. Bitte Badekristalle nicht mit empfindlichen Gegenständen in Kontakt bringen.
 - Mit natürlichen ätherischen Ölen
+- Wohltuend, wärmend & entlastend
 - Mit wertvollem Extrakt der Arnika und natürlichen ätherischen Ölen aus Cabreuva, Rosmarin und Pinus-Arten
 
 [🛒 Hier!!]({{< param buyurl >}})

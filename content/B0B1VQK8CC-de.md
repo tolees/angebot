@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Atmungsaktiver Stoff
 - Vergessen Sie nicht, eines davon für Ihren Urlaub einzupacken
-- Damen T-Shirt der dänischen Marke Vero Moda
 - Shirt für Damen der dänischen Marke VERO MODA
+- Damen T-Shirt der dänischen Marke Vero Moda
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B1VQK8CC{{</world>}}

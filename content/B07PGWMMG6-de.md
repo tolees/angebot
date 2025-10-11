@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Makers of the WORLDS LONGEST LASTING PACK
 - Home Improvement
+- Makers of the WORLDS LONGEST LASTING PACK
 - Schwarz-grün
 - ENERGIZER LINTERNAS AIRE LIBRE, DEPORTE Y CAMPING
 

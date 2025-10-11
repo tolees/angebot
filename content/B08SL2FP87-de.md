@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leder: Textile
+- Collection: Frühjahr-Sommer 19
 - 11.0629921147 inches
 - Verschluss: Ethylen-Vinylacetat
-- Collection: Frühjahr-Sommer 19
 - flacher Absatzflacher Absatz
 
 [🛒 Hier!!]({{< param buyurl >}})

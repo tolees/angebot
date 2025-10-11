@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIGHTWEIGHT
-- EASY FIT
 - SOFT FEELING
 - RECYCLED
+- EASY FIT
+- LIGHTWEIGHT
 - FLEXIBLE
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

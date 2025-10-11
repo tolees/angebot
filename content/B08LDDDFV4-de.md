@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Länge: Standardlänge
-- Knopf
-- Pattern: Einfarbig
 - Baumwolle
+- Pattern: Einfarbig
+- Knopf
+- Länge: Standardlänge
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08LDDDFV4{{</world>}}

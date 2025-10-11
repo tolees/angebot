@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Widerstandsfestes Gummi -Sohle
+- Widerstandsfestes Gummi -Sohle
 - Retro-Stil
 - Basketball Schuhe
-- Widerstandsfestes Gummi -Sohle
 - Retro-Stil
 - Basketball Schuhe
 

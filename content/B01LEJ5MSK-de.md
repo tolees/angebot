@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Feuchtigkeitsspendende Gesichtscreme mit Schneckenschleim und Hyaluronsäure für trockene und sensible Haut.
 - Es kommen KEINE Schnecken zu Schaden. Schneckenschleim wird auf sichere und umweltfreundliche Weise in einer für Schnecken angenehmen Umgebung gewonnen und zu Kosmetikrohstoff weiterverarbeitet. 100 % natürlich, hypoallergen, dermatologisch getestet.
-- Hocheffektive reparierende Feuchtigkeitspflege: Eine leichte Creme, die irritierte, gereizte Haut nach Ausbrüchen von Rosazea und dergleichen beruhigt und regeneriert.
 - Schneckenschleim ist ein HOCHWIRKSAMEN Inhaltsstoff für unreine, trockene und empfindliche Haut. Er lässt die Feuchtigkeit tief in die Haut eindringen und hilft bei Akneausbrüchen und Falten.
 - COSRX-Standards: Reine Schönheit – Alle COSRX-Produkte sind aus hautfreundlichen Inhaltsstoffen zubereitet, die Hautreizungen mildern. Hypoallergen, dermatologisch getestet, ohne Tierversuch, ohne Parabene, ohne Alkohol, ohne Sulfate, ohne Phthalate.
+- Hocheffektive reparierende Feuchtigkeitspflege: Eine leichte Creme, die irritierte, gereizte Haut nach Ausbrüchen von Rosazea und dergleichen beruhigt und regeneriert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01LEJ5MSK{{</world>}}

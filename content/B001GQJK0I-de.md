@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- LIEFERUMFANG: AEG vollellektronischer Durchlauferhitzer DDLE ÖKO ThermoDrive, Aufhängeleiste, Montageschablone, Sonderzubehör, Bedienungs- und Installationsanleitung, Temperaturfunktaster FBM Comfort (Kann als Ersatzteil nachbestellt werden)
 - EINSATZBEREICH: Vollelektronisch geregelter Durchlauferhitzer für eine oder mehrere Wasserstelleln (z.B. Waschtisch, Dusche und Badewanne), Temperatureinstellung 30° - 60°C
-- KONSTANTE TEMPERATUR: Schnelle Steuerelektronik und präzises Erfassen der Durchflussmenge gewährleistet eine konstante Auslauftemperatur des Warmwassers
 - QUALITÄT: Made in Germany – Energieeffizient, Spritzwasserschutz, Geräteschutz durch elektronische Luftblasenerkennung, solartauglich bis 60° C
 - KOMFORTABLE BEDIENUNG: Stufenlose Temperatureinstellung mit zweifarbigem LC-Display und Drehknopf, Komfortfunktionen, Wellnessprogramm, 2 programmierbare Speichertasten, Anzeige von Temperatur, Durchflussmenge, Energieverbrauch, Uhrzeit, wählbare Leistung 18, 21 bzw. 24 kW (3 Geräte in 1)
-- LIEFERUMFANG: AEG vollellektronischer Durchlauferhitzer DDLE ÖKO ThermoDrive, Aufhängeleiste, Montageschablone, Sonderzubehör, Bedienungs- und Installationsanleitung, Temperaturfunktaster FBM Comfort (Kann als Ersatzteil nachbestellt werden)
+- KONSTANTE TEMPERATUR: Schnelle Steuerelektronik und präzises Erfassen der Durchflussmenge gewährleistet eine konstante Auslauftemperatur des Warmwassers
 - LÄNDERZULASSUNG: Deutschland
 - EINFACHE INSTALLATION: Montage durch Elektrofachkraft erforderlich. Flexible Übertisch- oder Untertischmontage (UT104) mit entsprechendem Zubehör möglich, nutzbar mit allen handelsüblichen Druckarmaturen
 

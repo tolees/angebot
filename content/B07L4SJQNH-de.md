@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Extended Progressive Diagonal Rollbar (PDRB)
 - Innovative, rutschfeste Außensohle
+- Extended Progressive Diagonal Rollbar (PDRB)
 - Weiche, dynamische BioMoGo DNA-Dämpfung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

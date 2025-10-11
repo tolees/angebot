@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Großer Nike Logo Print
 - Rundhalskrasen
+- Großer Nike Logo Print
 - T-Shirt zum Training oder zur Präsentation
 - Leichte elastische Eigenschaften
 

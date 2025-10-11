@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dieses LEGO Set für Erwachsene steckt voller realistischer Details: Eine Gerbera und eine Rose stehen im Mittelpunkt, und die warmen, lebhaften Farben sorgen für einen unerwarteten Anblick, der die Leute zweimal hinschauen lässt
 - Das LEGO Set ist Teil der Botanical Collection, die von echten Pflanzen und Blumen inspiriert ist und Elemente aus pflanzlichem Kunststoff enthält, der aus nachhaltig gewonnenem Zuckerrohr hergestellt wird
+- Dieses LEGO Set für Erwachsene steckt voller realistischer Details: Eine Gerbera und eine Rose stehen im Mittelpunkt, und die warmen, lebhaften Farben sorgen für einen unerwarteten Anblick, der die Leute zweimal hinschauen lässt
 - Dieses LEGO Botanical Collection Set bietet ein entspannendes Erlebnis während der Bauphasen: Das Modell hat ein geteiltes Design, so dass 2 Personen zusammen bauen und viel Zeit damit verbringen können
 - Das LEGO Icons Trockenblumengesteck ist von den Farben des Herbstes inspiriert und kann als Tafelaufsatz verwendet oder als beeindruckende Wanddeko an die Wand gehängt werden
 - Wenn du das LEGO Blumen-Set fertiggestellt hast, wird es zu einer prächtigen Tischdeko oder einer Wanddeko, die du für immer in Erinnerung behalten wirst

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang beinhaltet: 1x Gardena Premium Multibrause
-- Stufenlose Regulierung: Ergonomische Auslösetaste für eine stufenlose Wasserzufuhr mit nur einem Finger
 - Fünf verschiedene Sprühbilder: Egal ob für zarte Setzlinge oder gezielte Bewässerung von Pflanzflächen
 - Robuste Qualität: Das Anschlussstück sowie Teile des Brausekopfes sind aus Metall gefertigt
+- Lieferumfang beinhaltet: 1x Gardena Premium Multibrause
+- Stufenlose Regulierung: Ergonomische Auslösetaste für eine stufenlose Wasserzufuhr mit nur einem Finger
 - Frostsicher: Mit integriertem Frostschutz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

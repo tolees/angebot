@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Soundbar für TV-Geräte mit spektakulärem 3.1-Kanal-Surround-Sound, Mit 7 integrierten Lautsprechern und externem 6,5"-Subwoofer
 - Lieferumfang: 1 x Samsung HW-Q64GC 3.1-Kanal Q-Soundbar mit externem Subwoofer, Maße Soundbar: 103 x 5,7 x 10,5 cm, Maße Subwoofer: 18,4 x 34,3 x 29,5 cm
 - Mit Q-Symphony für eine perfekte Abstimmung zwischen den Lautsprechern des Fernsehers und der Soundbar, Adaptive Sound Lite für automatisch angepassten Sound bei den eigenen Lieblingsinhalten
+- Soundbar für TV-Geräte mit spektakulärem 3.1-Kanal-Surround-Sound, Mit 7 integrierten Lautsprechern und externem 6,5"-Subwoofer
 - Bester Surround-Sound dank Dolby Atmos und DTS Virtual:X
 - Game Mode: Dynamischer 3D-Gaming-Sound während des Spiels mit Cross-Talk-Cancellation-Technologie zur Minimierung störender Geräusche
 

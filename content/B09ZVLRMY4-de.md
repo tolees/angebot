@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Verschluss: Thermoplastische Elastomere
 - AtmungsaktivAtmungsaktiv
-- 10.9842519573 inches
 - Leder: Textile
+- 10.9842519573 inches
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVLRMY4{{</world>}}

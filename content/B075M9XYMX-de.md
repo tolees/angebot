@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktabmessungen: 82 x 49 x 21mm
-- 5-Port 10/100Mbit/s-Netzwerk Switch mit Autoabstimmung und Auto-MDI/MDIX
-- Plug-and-Play, keine Konfiguration notwendig; Optimiert Datenverkehr
-- Green IT, spart bis zu 60% Energie; Lüfterlose Ruhe; Betriebstemperatur: 0°C ~ 40°C
 - Lieferumfang: 5-Port 10/100MBit/s Netzwerk Switch(MS105), Spannungsadapter, Bedienungsanleitung
+- Plug-and-Play, keine Konfiguration notwendig; Optimiert Datenverkehr
+- Produktabmessungen: 82 x 49 x 21mm
+- Green IT, spart bis zu 60% Energie; Lüfterlose Ruhe; Betriebstemperatur: 0°C ~ 40°C
+- 5-Port 10/100Mbit/s-Netzwerk Switch mit Autoabstimmung und Auto-MDI/MDIX
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B075M9XYMX{{</world>}}

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Anzahl der einheiten: 200.0
-- pflanzliche pflegeformel
-- kombination von aroma- & farbtherapie
-- verbessertes hautgefühl
 - sonniger glücksduft nach apfelsine
+- verbessertes hautgefühl
+- kombination von aroma- & farbtherapie
+- pflanzliche pflegeformel
 - Elementanzeigevolumen: 200.0 milliliters
 - haut wird vor dem austrocknen geschützt und minimiert den feuchtigkeitsverlust
 

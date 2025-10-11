@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wir feiern 100 Jahre Disney - mit unserem hochwertigem Disney Mau Mau!
 - Limitierte Auflage
-- Mit veredelter Verpackung und liebevoll gestalteten Karten
+- Wir feiern 100 Jahre Disney - mit unserem hochwertigem Disney Mau Mau!
 - Hier ist für jeden Fan etwas dabei!
+- Mit veredelter Verpackung und liebevoll gestalteten Karten
 - Große Auswahl an verschiedenen Disney Figuren
 
 [🛒 Hier!!]({{< param buyurl >}})

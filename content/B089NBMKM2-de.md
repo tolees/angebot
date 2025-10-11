@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standard
 - Strickpullover mit rundem Halsausschnitt
 - Weiche Baumwollqualität
+- Standard
 - Stretchanteil für mehr Komfort
 - Aus angenehmer Baumwolle
 

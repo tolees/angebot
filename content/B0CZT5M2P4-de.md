@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - REGULAR FIT: Der moderne U-Boot-Ausschnitt und die schmalen Ärmel sorgen für eine schmeichelnde Silhouette. Das Regular Fit Shirt sitzt angenehm locker, ist gerade geschnitten und bietet ideale Bewegungsfreiheit.
 - VIELSEITIG KOMBINIERBAR: Ob klassisch mit Jeans und Trenchcoat oder im Stilbruch zu Rock und Boots – dieses Basic Longsleeve ist ein echtes Allround-Talent für jeden Tag. Perfekt für Casual Chic und elegante Outfits.
-- BIO-BAUMWOLLE: Dieses Oberteil aus 100 % zertifizierter Bio-Baumwolle überzeugt durch weichen Tragekomfort und nachhaltige Qualität. Es kann schonend bei 30 °C gewaschen werden.
 - KLASSISCHES STREIFENMUSTER: Das Ringel-Langarmshirt vereint französische Eleganz und nordische Lässigkeit. Das klassische Streifenmuster verleiht dem Shirt einen zeitlosen Look.
+- BIO-BAUMWOLLE: Dieses Oberteil aus 100 % zertifizierter Bio-Baumwolle überzeugt durch weichen Tragekomfort und nachhaltige Qualität. Es kann schonend bei 30 °C gewaschen werden.
 - MARC OߴPOLO DENIM: Die urbane Linie von Marc OߴPolo steht für lässigen Streetstyle mit skandinavischem Einfluss. Nachhaltige Materialien und moderne Schnitte schaffen vielseitige Looks, die Authentizität und individuellen Stil verkörpern – the freedom to be yourself.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

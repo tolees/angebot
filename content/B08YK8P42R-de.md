@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 📅 VORRATSPACKUNG: Eine Dose Vitamin D3 + K2 enthält 180 kleine Tabletten - Vorrat für die ganze Familie - optimal mit Vitamin D3 und Vitamin K2 versorgt.
-- 🔬 LABORGEPRÜFT & MADE IN GERMANY: Unsere VITAMIN D3 + K2 Tabletten werden ausschließlich in Deutschland hergestellt. Wir lassen die Tabletten regelmäßig von einem unabhängigen und zertifizierten Lebensmittel-Labor untersuchen und können somit eine erstklassige Produktqualität garantieren (Analyse-Zertifikat siehe 5. Bild in der Bildergalerie).
 - ☀️🌱 VITAMIN D3 VEGAN: Unser VITAMIN D3 + K2 enthält hochwertiges veganes Vitamin D3, welches aus Flechten (statt aus tierischem Lanolin) gewonnen wird - 100% vegan.
 - ⚡ HOCHDOSIERT: Jede Tablette enthält 5.000 IE Vitamin D3 + 200mcg Vitamin K2. Empfohlene Einnahme: 1 Tablette jeden 5. Tag - entspricht einer Tagesdosis von 1.000 IE Vitamin D3 + 40mcg Vitamin K2.
+- 📅 VORRATSPACKUNG: Eine Dose Vitamin D3 + K2 enthält 180 kleine Tabletten - Vorrat für die ganze Familie - optimal mit Vitamin D3 und Vitamin K2 versorgt.
+- 🔬 LABORGEPRÜFT & MADE IN GERMANY: Unsere VITAMIN D3 + K2 Tabletten werden ausschließlich in Deutschland hergestellt. Wir lassen die Tabletten regelmäßig von einem unabhängigen und zertifizierten Lebensmittel-Labor untersuchen und können somit eine erstklassige Produktqualität garantieren (Analyse-Zertifikat siehe 5. Bild in der Bildergalerie).
 - 🦴 MIT VITAMIN K2: Mit dem Vitamin K2 wurde das Vitamin D3 optimal ergänzt. Wir verwenden mit dem Vitamin K2 MK-7 in der all-trans-Form. Vitamin K2 trägt zum Erhalt normaler Knochen bei.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

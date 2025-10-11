@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine Geschwindigkeit
-- Plastiker Stab; nicht abnehmbar
 - Mit Aufhäng Haken
+- Plastiker Stab; nicht abnehmbar
+- Eine Geschwindigkeit
 - Edelstahl Messer
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

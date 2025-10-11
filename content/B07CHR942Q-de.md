@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Weiches Jersey-Tragegefühl
+- Levis Housemark-Logo auf der Brust
+- Dies ist ein originales Levis Produkt
 - Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
 - Dies ist ein originales Levis Produkt
-- Dies ist ein originales Levis Produkt
-- Levis Housemark-Logo auf der Brust
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07CHR942Q{{</world>}}

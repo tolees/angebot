@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Obermaterial: Leder
 - Innenmaterial: Tissue
-- Verschluss: Gummi
 - Absatzform: Kein Absatz
+- Verschluss: Gummi
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BN76LQMV{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Vielzahl an Ablagemöglichkeiten für Saugschlauch, Düsen und Netzkabel sorgt für einen flexiblen Einsatz und für ein platzsparendes Verstauen des Saugers
 - Der Sauger ist zudem mit einem robusten Fahrgestell und einem ergonomisch angebrachten Transporthandgriff ausgestattet
+- Die Vielzahl an Ablagemöglichkeiten für Saugschlauch, Düsen und Netzkabel sorgt für einen flexiblen Einsatz und für ein platzsparendes Verstauen des Saugers
 - Die AERO 21 / AERO 21 INOX sind die kleinsten Modelle der neuen AERO-Baureihe. Sie verfügen über ein kompaktes Design sowie über einfach zu bedienende Funktionen
 - Es ist eine leichte Maschine für Reinigungsanforderungen aus der Industrie, dem Kfz-Gewerbe und aus der Baubranche
 

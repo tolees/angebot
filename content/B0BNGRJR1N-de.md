@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gebürsteter Stoff
 - Innenfutter der Kapuze aus Innenstoff
+- Gebürsteter Stoff
 - Der innen besonders weich ist
 
 [🛒 Hier!!]({{< param buyurl >}})

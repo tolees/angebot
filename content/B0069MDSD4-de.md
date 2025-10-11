@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial Canvas
 - Ohne Verschuss - Slip on Variante
+- Obermaterial Canvas
 - Innenschuh komplette aus Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

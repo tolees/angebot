@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit einem Nachfüllflakon für den Duftstecker lässt sich bis zu 120 Tage angenehmer Raumduft genießen - mit dem 6er Pack also 24 Monate kontinuierlich Wohlfühlen
-- Auf die Kleinigkeiten kommt es an: Die Duftöle enthalten ätherische Öle und naturbasierte Inhaltsstoffe, um mehr Frische in den Alltag zu bringen und eine angenehme Atmosphäre zu schaffen
-- GEMEINSAM GEGEN PLASTIK IM OZEAN: Mit jedem Kauf helfen Sie uns insgesamt 5 Millionen Plastikflaschen aus der Umwelt zu sammeln (Bei Verkauf durch Amazon/Sediva/Lamos4u 1 Flasche = 20g Plastikmüll)​
 - Lieferumfang: 6 x Air Wick Öl Flakon in der Duftrichtung Sommervergnügen / In Kombination mit Gerät: Regulierbare Duftintensität in 5 Stufen / Der Lieblingsduft im praktischen Set
 - Eine Wohlfühloase zuhause: Der Duft nach frischen weißen Blüten, fruchtiger Melone und süßer Vanille erinnert an sonnige Tage und sorgt für einen angenehmen und frischen Duft in jedem Raum
 - Nachfüller für das Air Wick Duftölflakon-Gerät: Unter Beachtung der Gebrauchsanweisung und der Sicherheitshinweise einfach das Gerät aus der Steckdose nehmen und den Duftflakon austauschen
+- Mit einem Nachfüllflakon für den Duftstecker lässt sich bis zu 120 Tage angenehmer Raumduft genießen - mit dem 6er Pack also 24 Monate kontinuierlich Wohlfühlen
+- GEMEINSAM GEGEN PLASTIK IM OZEAN: Mit jedem Kauf helfen Sie uns insgesamt 5 Millionen Plastikflaschen aus der Umwelt zu sammeln (Bei Verkauf durch Amazon/Sediva/Lamos4u 1 Flasche = 20g Plastikmüll)​
+- Auf die Kleinigkeiten kommt es an: Die Duftöle enthalten ätherische Öle und naturbasierte Inhaltsstoffe, um mehr Frische in den Alltag zu bringen und eine angenehme Atmosphäre zu schaffen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01BOM1G1O{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial: 64 % recycelte Baumwolle 36 % Rindsleder
 - Sohle: 51% recyceltes EVA - 49% EVA
 - Farbe: Mittelbeige
-- Obermaterial: 64 % recycelte Baumwolle 36 % Rindsleder
 - Better Outsoles,Natural Textiles
 
 [🛒 Hier!!]({{< param buyurl >}})

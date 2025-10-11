@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Streifen- und Label-Print auf dem Rücken
+- Kapuze mit verstellbarem Gummizug und Tapes innen
 - verstellbarer Gummizug im Saum
 - Frontzipper
-- Kapuze mit verstellbarem Gummizug und Tapes innen
-- Streifen- und Label-Print auf dem Rücken
 - seitliche Einschubtaschen mit Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

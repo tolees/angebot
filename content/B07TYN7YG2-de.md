@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Original Produkt vom Herstelle
+- Zu Kaufen
 - Hervorragend Verarbeitet
 - Modellnummer: 23106-Hbsupp
-- Zu Kaufen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07TYN7YG2{{</world>}}

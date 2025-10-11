@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Herausnehmbarer und waschbarer Kalkfilter. Spart bis zu 60 % Energie
 - Ausgießer für perfektes Ausgießen, leicht zu öffnender Klappdeckel, 360° drehbarer Boden, Kabelaufbewahrung und rutschfester Griff, Betriebsknopf mit Kontrollleuchte
-- Stilvolle Oberflächen aus gebürstetem Stahl mit mattschwarzen Akzenten
+- Herausnehmbarer und waschbarer Kalkfilter. Spart bis zu 60 % Energie
 - Kompakter Wasserkocher mit 2400 W – ideales Fassungsvermögen von 1 l
+- Stilvolle Oberflächen aus gebürstetem Stahl mit mattschwarzen Akzenten
 - Sichtbarer Wasserstand, Schnellkochzonen für präzises Dosieren - Markierung für 1, 2 und 3 Tassen - Eine Tasse fertig in 50 Sekunden flach
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

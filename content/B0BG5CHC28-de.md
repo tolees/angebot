@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Grafische Gant-Stickerei auf der Brust
 - Kängurutasche
 - Normale Passform
-- Grafische Gant-Stickerei auf der Brust
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BG5CHC28{{</world>}}

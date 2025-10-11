@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache WLAN-Erweiterung und Verschlüsselung per Knopfdruck (WPS-Taste)
-- 2-3 Zimmer Wohnung
-- Ein LAN-Port zur Einbindung von kabelgebundenen Netzwerkgeräten wie Fernsehern, Spielekonsolen etc. in ein WLAN
 - Lieferumfang: TP-Link RE200 AC750 Dualband WLAN Repeater, Schnellinstallationsanleitung
+- 2-3 Zimmer Wohnung
 - Simultanes Dualband nach dem WLAN-Standard der neuen Generation, 802.11ac, Geschwindigkeit bis zu 450 MB auf 5 GHz und 300 MB auf 2,4 GHz
-- Signal-LEDs zeigen die aktuelle Signalstärke an und helfen bei der optimalen Platzierung
 - Kompatibel zu allen gängigen WLAN-Routern (802.11a/b/g/n/ac) unterstützt alle 5 GHz Frequenzbänder in Europa nach Firmware-Update (siehe Herstellerwebsite)
+- Einfache WLAN-Erweiterung und Verschlüsselung per Knopfdruck (WPS-Taste)
+- Signal-LEDs zeigen die aktuelle Signalstärke an und helfen bei der optimalen Platzierung
+- Ein LAN-Port zur Einbindung von kabelgebundenen Netzwerkgeräten wie Fernsehern, Spielekonsolen etc. in ein WLAN
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00KXULGJQ{{</world>}}

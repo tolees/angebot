@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Präziser Auftrag dank Mini-Bürste
-- Getöntes Augenbrauen-Gel füllt lichte Stellen in den Brauen aus und lässt Augenbrauen sofort voller und dichter wirken
 - Getöntes Augenbrauengel mit Fiber-Härchen für Volumen-Brauen
+- Getöntes Augenbrauen-Gel füllt lichte Stellen in den Brauen aus und lässt Augenbrauen sofort voller und dichter wirken
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000V1GHLY{{</world>}}

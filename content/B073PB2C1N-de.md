@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 12 matte & intensive Schattierungen
 - extremer Verschleiß & Komfort
 - hochpräzise Kugel
-- 12 matte & intensive Schattierungen
 - makellose kräftige matte Farbe für bis zu 24HRS
 - leichte Textur
 

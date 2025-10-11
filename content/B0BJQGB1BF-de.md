@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Daybag NK ACDMY TEAM BKPK 2.3. -
-- Großes Hauptfach
 - Strapazierfähiger Stoff
+- Großes Hauptfach
+- Daybag NK ACDMY TEAM BKPK 2.3. -
 - Gepolsterte und verstellbare Schultergurte
 
 [🛒 Hier!!]({{< param buyurl >}})

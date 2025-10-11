@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Home Entertainment - Monster House [3D Blu-ray]'
-date: 2025-10-02 11:03:59
+date: 2025-10-11 05:11:30
 image: 'https://m.media-amazon.com/images/I/61N5-7YGorL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Sony Pictures Home Entertainment'
 buyurl: 'https://www.amazon.de/dp/B003XTY8M6/?tag=tolees0ca-21'
 descuento: '26.51'
-average: '10.959178082192'
+average: '10.9589333333336'
 ---
 
 Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:

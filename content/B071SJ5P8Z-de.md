@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In Eleganter Optik Look
 - Bund mit Gürtelschlaufen, Knopf und Zipper
 - Zwei Taschen auf der Vorderseite mit Münztasche
+- In Eleganter Optik Look
 - Einem angenehmen Tragegefühl und der weichen Haptik
 - Zwei aufgesetzte Taschen am Gesäß
 

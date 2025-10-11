@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Fernseherlebnis der Extraklasse: Erlebe mit TIZEN atemberaubende Multimediafunktionen, blitzschnelle Ladezeiten sowie eine intuitive Navigation und mache dein Fernseherlebnis noch smarter und unterhaltsamer.
 - Smart LED-Fernseher mit Samsung Tizen OS - 32 Zoll (80 cm) Bildschirmdiagonale mit einer HD Auflösung (1366 x 768 Pixel) und einer Bildwiederholrate von 50/60 Hz.
-- Lebendige HD-Bildqualität: Genieße klare Bilder und satte Farben – perfekt für Serien, Filme und Streaming in kompakter Größe.
 - Smart Hub: Mit dem Samsung Smart Hub hast du schnellen & einfachen Zugriff auf Apps, Filme, Musik und vieles mehr.
+- Lebendige HD-Bildqualität: Genieße klare Bilder und satte Farben – perfekt für Serien, Filme und Streaming in kompakter Größe.
 - Grenzenlose Welten: Samsung TV Plus bietet Dir eine Vielzahl von Live-Kanälen, On-Demand-Inhalten, spannende Serien oder fesselnde Filme - komplett ohne Abonnement.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastic waistband and hidden drawcord give a snug fit
-- Sport type: soccer
 - Knit fabric feels smooth and lightweight
+- Elastic waistband and hidden drawcord give a snug fit
 - Material: Polyester
+- Sport type: soccer
 - Nike dri-fit technology helps to stay dry and comfortable
 
 [🛒 Hier!!]({{< param buyurl >}})

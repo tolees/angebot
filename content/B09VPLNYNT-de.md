@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2,4 GHz für Gaming und Bluetooth 5.2 | Bis zu 100 Stunden Akkulaufzeit
 - compatible devices: spielkonsole
-- Leichtes, symmetrisches Shape
-- Wasser- und staubresistent mit 4 RGB-Beleuchtungszonen
 - Bis zu 100 Stunden Akkulaufzeit | Abnehmbares USB-C-Kabel für Schnellaufladung
+- 2,4 GHz für Gaming und Bluetooth 5.2 | Bis zu 100 Stunden Akkulaufzeit
+- Wasser- und staubresistent mit 4 RGB-Beleuchtungszonen
 - Optische Schalter mit einer getesteten Lebensdauer von 100 Millionen Klicks | Optischer Sensor mit 19.000 DPI und 400 IPS
+- Leichtes, symmetrisches Shape
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09VPLNYNT{{</world>}}

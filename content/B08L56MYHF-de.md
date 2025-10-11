@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Fernsehen der nächsten Generation: Mit dem Smart-TV von MEDION erleben Sie das Internet im Wohnzimmer: Apps, Streamingdienste, News und vieles mehr!
-- Extra scharf: Mit dem Full HD Fernseher erleben Sie Ihr TV-Programm in bester Bildqualität!
 - Komfort pur: Fotos und Videos können Sie über den integrierten Mediaplayer ganz einfach am großen Fernsehschirm genießen.
 - Lieferumfang: MEDION LIFE Smart-TV P14313 MD30020, Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (AAA), Bedienungsanleitung, Garantie-Booklet
+- Extra scharf: Mit dem Full HD Fernseher erleben Sie Ihr TV-Programm in bester Bildqualität!
 - 43-Zoll-Smart-TV mit Full HD Auflösung, HDR, PVR ready, integr. WLAN, Netflix, Amazon Prime Video und Bluetooth
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

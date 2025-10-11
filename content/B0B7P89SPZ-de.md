@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Intelligente LED Anzeige & iOS/Android NIU-App Anbindung
-- Reichweite von bis zu 50km (variiert abhängig von Farhweise, Reifenluftdruck, Straßengegebenheiten, Körpergröße & -gewicht, Außentemperatur), Akku voll aufladbar in ca. 6h
-- Leicht zusammenklappbares Design aus robustem & leichtem Luftfahrtaluminium mit einem Gesamtgewicht von 20kg komfortabel zu transportieren
 - Maximale Geschwindigkeit von bis zu 20km/h im Sport-Modus
-- Sehr hohe Motorleistung ermöglicht Befahren von Steigungen mit bis zu 20%
 - E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen (Datenbestätigung im Lieferumfang beiliegend mit Angabe der Fahrzeugidentifikationsnummer (FIN)
 - 9,5" x 2,5" schlauchlose Luftreifen für ein sicheres Fahrgefühl auch bei Unebenheiten & unbefestigtem Untergrund
+- Intelligente LED Anzeige & iOS/Android NIU-App Anbindung
+- Leicht zusammenklappbares Design aus robustem & leichtem Luftfahrtaluminium mit einem Gesamtgewicht von 20kg komfortabel zu transportieren
 - Maximale Traglast von bis zu 100kg
+- Reichweite von bis zu 50km (variiert abhängig von Farhweise, Reifenluftdruck, Straßengegebenheiten, Körpergröße & -gewicht, Außentemperatur), Akku voll aufladbar in ca. 6h
+- Sehr hohe Motorleistung ermöglicht Befahren von Steigungen mit bis zu 20%
 - Dual Scheibenbremse mit Energierückgewinnung, Frontlicht, Bremslicht sowie seitliche Reflektoren für höchste Sicherheit im Straßenverkehr
 
 [🛒 Hier!!]({{< param buyurl >}})

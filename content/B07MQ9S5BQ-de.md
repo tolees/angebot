@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Nubukleder
-- Sohle: PU
 - Absatzform: Klettverschluss
 - Innenmaterial: Synthetik
+- Obermaterial: Nubukleder
+- Sohle: PU
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07MQ9S5BQ{{</world>}}

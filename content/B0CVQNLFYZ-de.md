@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FÜR JEDES AUSFLUGSZIEL: tillvex Kühlbox mit fest installiertem 12V KFZ Bordspannungsanschluß und 220-240V Anschluss. Ideal zum Campen, für den Urlaub oder den Ausflug zum Badesee.
-- KÜHL- UND WÄRMEFUNKTION: Die Kühlfunktion ermöglicht eine Reduzierung auf bis zu 18°C unter der Außentemperatur. Die integrierte Warmhaltefunktion erlaubt das Warmhalten von Speisen bis zu einer Temperatur von 65°C. So bleiben Lebensmittel & Getränke in dieser 32 Liter großen Kühlbox warm und kühl.
 - HOCHWERTIGE VERARBEITUNG: Hochwertige Kühlbox mit robustem Kunststoffgehäuse. Zusätzlichen Schutz bietet eine Schmelzsicherung im 12 V Stecker, auch bei Dysfunktion des Zigarettenanzünders.
 - 2 STUFEN - ECO & MAX: Der Energiesparmodus kann per Schalterstellung verwendet werden. In diesem Modus ist der Mini-Kühlschrank sehr leise und wird mit verminderter Leistung betrieben (8 Watt). Der MAX Modus ermöglicht die maximale Leistung.
+- FÜR JEDES AUSFLUGSZIEL: tillvex Kühlbox mit fest installiertem 12V KFZ Bordspannungsanschluß und 220-240V Anschluss. Ideal zum Campen, für den Urlaub oder den Ausflug zum Badesee.
 - MIT TRAGEFRIFF & GITTEREINSATZ: Der handliche Tragefriff der Kühlbox sorgt für einen leichten Transport. Der herausnehmbare Gittereinsatz ermöglicht ein Trennen von Speisen und Getränken und erleichtert zudem die Reinigung. Abgerundet wird das Design mit einem abnehmbaren Deckel, Deckelverriegelung und einem praktischem Kabelfach zur sicheren Aufbewahrung.
+- KÜHL- UND WÄRMEFUNKTION: Die Kühlfunktion ermöglicht eine Reduzierung auf bis zu 18°C unter der Außentemperatur. Die integrierte Warmhaltefunktion erlaubt das Warmhalten von Speisen bis zu einer Temperatur von 65°C. So bleiben Lebensmittel & Getränke in dieser 32 Liter großen Kühlbox warm und kühl.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CVQNLFYZ{{</world>}}

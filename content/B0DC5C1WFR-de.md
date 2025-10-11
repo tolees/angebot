@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- aus softem Thermo-Mikrofleece
-- Troyerkragen mit gebrandetem Reißverschluss
-- Prägedrucke vorne und an den Seiten
-- tonige, gebrandete Tapes auf Schultern und Armen
 - Troyerkragen hinten aus tonigem Ripstop mit verstellbaren Gummizug
+- Troyerkragen mit gebrandetem Reißverschluss
+- aus softem Thermo-Mikrofleece
+- tonige, gebrandete Tapes auf Schultern und Armen
+- Prägedrucke vorne und an den Seiten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5C1WFR{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Känguru Tasche
-- Locker geschnitten
 - Pigmentprint für einen weichen Print auf leichter Kleidung
+- Locker geschnitten
+- Känguru Tasche
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BRP24SMC{{</world>}}

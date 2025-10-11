@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kordelzug
-- Fleece-Futter
-- Für alle Altersgruppen geeignet
 - Bündchen an den Knöcheln
+- Kordelzug
+- Für alle Altersgruppen geeignet
+- Fleece-Futter
 - Das Heizmaterial
 
 [🛒 Hier!!]({{< param buyurl >}})

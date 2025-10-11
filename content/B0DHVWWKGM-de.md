@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Textilfutter
-- Gummiaußensohle
 - Obermaterial aus Leder
+- Gummiaußensohle
 - Der Größe entsprechend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

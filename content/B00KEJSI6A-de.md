@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MICHELIN Motion for Life Seit mehr als 130 Jahren entwickelt Michelin Reifen, Dienstleistungen und Lösungen, um die Mobilität nachhaltig zu verbessern
-- VIELSEITIGE VERWENDUNG Der Digitale Reifen Manometer von MICHELIN kann sowohl am Auto, Motorrad, Wohnwagen, Anhänger und Fahrrad benutz werden. Der Druckbereich liegt zwischen 0,4-6,8 bar / 5-99PSI / 40-680kPA/ 0,4-6,80 kg/cm2
 - SCHNELL UND PRÄZISE Mit der Zeit verlieren Reifen immer etwas an Luft, daher ist es wichtig regelmäßig den Reifendruck zu kontrollieren. Mit dem MICHELIN Reifenluftdruckprüfer lässt sich ganz einfach und präzise der Reifendruck messen
+- VIELSEITIGE VERWENDUNG Der Digitale Reifen Manometer von MICHELIN kann sowohl am Auto, Motorrad, Wohnwagen, Anhänger und Fahrrad benutz werden. Der Druckbereich liegt zwischen 0,4-6,8 bar / 5-99PSI / 40-680kPA/ 0,4-6,80 kg/cm2
+- MICHELIN Motion for Life Seit mehr als 130 Jahren entwickelt Michelin Reifen, Dienstleistungen und Lösungen, um die Mobilität nachhaltig zu verbessern
 - PROFILTIEFENMESSER Die Profiltiefe zu messen, benötigt nur wenige Minuten und ist sehr einfach mit dem digitalem Profiltiefenmesser durchführbar
 - GROSSES LCD DISPLAY Der Reifendruck lässt sich ganz einfach auf dem großen Display ablesen. Durch die LCD Anzeige lassen sich die Daten auch in schwach beleuchteten Bereichen einfach ablesen
 

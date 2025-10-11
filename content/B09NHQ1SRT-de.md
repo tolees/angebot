@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - IP54 geschützt: Durch die hohe Schutzklasse ist die Außenleuchte ideal für den Außeneinsatz geeignet und vor Spritzwasser und Staub geschützt
-- Produkt mit EyeComfort Siegel: Philips LED-Leuchten bieten komfortables Licht, das Ihre Augen schont
-- Philips LED Deckenleuchte: Setzen Sie Ihren Garten und Terrasse in Szene mit angenehmen, kaltweißem Licht 4.000K
-- 3 Helligkeitsstufen: Stellen Sie 3 unterschiedliche Lichteinstellungen ein und wählen Sie aus immer heller werdenden Licht
 - Bei diesem Produkt handelt es sich um ein umgebendes Produkt. Umgebende Produkte sind Leuchten, die zur separaten Überprüfung der enthaltenen Lichtquelle(n) zerlegt werden können. Dieses Produkt enthaelt eine Lichtquelle der Energieeffizienzklasse E
+- Philips LED Deckenleuchte: Setzen Sie Ihren Garten und Terrasse in Szene mit angenehmen, kaltweißem Licht 4.000K
+- Produkt mit EyeComfort Siegel: Philips LED-Leuchten bieten komfortables Licht, das Ihre Augen schont
+- 3 Helligkeitsstufen: Stellen Sie 3 unterschiedliche Lichteinstellungen ein und wählen Sie aus immer heller werdenden Licht
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NHQ1SRT{{</world>}}

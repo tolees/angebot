@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Polyurethan
 - Leder: Smooth Leather
+- Verschluss: Polyurethan
 - 11.023622036 inches
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

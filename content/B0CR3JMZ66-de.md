@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Frontkamera: 16 MP
 - Moonlight White, Android 13, 5G
-- Prozessor: MediaTek Dimensity 7200 Ultra
 - Hauptkamera: 200 MP + 8 MP + 2 MP
 - Display: 16,9 cm (6,67 Zoll)
+- Prozessor: MediaTek Dimensity 7200 Ultra
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CR3JMZ66{{</world>}}

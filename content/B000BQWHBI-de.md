@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlagfester Plastikstiel
 - Für streifenfreies Resultat
+- Schlagfester Plastikstiel
 - Fensterwischer mit Super Ettore gummi 25 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

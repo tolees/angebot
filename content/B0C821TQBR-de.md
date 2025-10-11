@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Das separate Trinkblasenfach ist kompartibel für Trinksysteme bis 2 Liter
 - Brillen- und Stockhalterung
-- abnehmbare Regenhülle
 - Maximale Belüftung durch das Aircomfort Netzrücken-System sorgt für besten Tragekomfort
+- abnehmbare Regenhülle
 - Brustgurt stufenlos verstellbar
 
 [🛒 Hier!!]({{< param buyurl >}})

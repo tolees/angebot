@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein vielseitiger Sneaker für jeden Tag
 - Cloudfoam Zwischensohle
+- Ein vielseitiger Sneaker für jeden Tag
 - Reguläre Passform
 - Textilfutter
 

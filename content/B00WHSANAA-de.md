@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktart: Moisturizing Emulzion
-- Designer - Hersteller: Clinique
-- Produktlinie: Dramatically Different
 - Inhalt: 125ml
+- Produktart: Moisturizing Emulzion
+- Produktlinie: Dramatically Different
+- Designer - Hersteller: Clinique
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00WHSANAA{{</world>}}

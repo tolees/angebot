@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- inhalt: - 30ml
 - designer - hersteller: - clinique
+- inhalt: - 30ml
 - geschlecht: - für sie / for her / pour femme
 - produktart: - kosmetik
 

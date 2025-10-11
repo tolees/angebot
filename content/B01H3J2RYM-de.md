@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für beste Ergebnisse empfehlen wir die kombinierte Verwendung mit Ureadin Bath Gel
-- Fördert die Wiederherstellung der Hautbarriere dank der Kombination von Urea ISDIN und Dexpanthenol; zur Behandlung von Veränderungen der Barrierefunktion wie Xerose und seniler Haut
-- Sofortige Flüssigkeitszufuhr, die hilft, den Juckreiz im Zusammenhang mit Trockenheit zu reduzieren
 - Intensiv feuchtigkeitsspendende Körperlotion zur täglichen Pflege und zum Schutz sehr trockener und schuppender Haut
+- Fördert die Wiederherstellung der Hautbarriere dank der Kombination von Urea ISDIN und Dexpanthenol; zur Behandlung von Veränderungen der Barrierefunktion wie Xerose und seniler Haut
+- Für beste Ergebnisse empfehlen wir die kombinierte Verwendung mit Ureadin Bath Gel
+- Sofortige Flüssigkeitszufuhr, die hilft, den Juckreiz im Zusammenhang mit Trockenheit zu reduzieren
 - Leichte und nicht fettende Textur mit schneller Absorption
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

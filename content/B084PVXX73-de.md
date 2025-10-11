@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Reise-Zoom-Objektiv mit nur 570 g
-- aufwendige Vergütung für brillante Ergebnisse
 - Zoomarretierung für kompakte Transportmaße
 - integrierte Bildstabilisierung
 - aufwendige Abdichtung gegen Staub und Feuchtigkeit
+- aufwendige Vergütung für brillante Ergebnisse
+- Reise-Zoom-Objektiv mit nur 570 g
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B084PVXX73{{</world>}}

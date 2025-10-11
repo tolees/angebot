@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Runde Form
 - Atmungsaktiv
+- Runde Form
 - Leicht
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lieferumfang: Anker USB C auf USB C Kabel (1,8m, 240W, geflochten), Kurzanleitung, 24-monatige Garantie und unser freundlicher Kundenservice.
-- Flexibel und robust: Die Oberfläche des Kabels bietet eine angenehm weiche Haptik, die über 10.000 Biegungen standhält.
 - Full-Speed Laden mit 240W: Lade dein MacBook Pro 16" (M3) auf 50% in nur 25 Minuten und dein iPad Pro 13" (M4) in nur 48 Minuten. Darüber hinaus ist dieses Kabel für eine Vielzahl anderer leistungsstarker Geräten geeignet.
-- Schmutzabweisendes Kabel im Unibody-Design: Das stylische Unibody-Design wird durch eine schmutzabweisende Beschichtung ergänzt, die Verschmutzungen vorbeugt und für eine saubere Optik sorgt.
 - Schlanker, flacher Stecker: Der Stecker verfügt über ein 5,8mm flaches Profil und lädt dein Handy selbst mit Hülle problemlos auf.
+- Flexibel und robust: Die Oberfläche des Kabels bietet eine angenehm weiche Haptik, die über 10.000 Biegungen standhält.
+- Schmutzabweisendes Kabel im Unibody-Design: Das stylische Unibody-Design wird durch eine schmutzabweisende Beschichtung ergänzt, die Verschmutzungen vorbeugt und für eine saubere Optik sorgt.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DXDTX47W{{</world>}}

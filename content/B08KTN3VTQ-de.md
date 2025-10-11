@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spielspaß mit Spirit und Lucky: PLAYMOBIL Rodeo Pru mit Pru, Pferd Chica Linda und Zubehör zum detailgetreuen Nachspielen des Turniers
 - Spielfiguren-Set für Kinder ab 4 Jahren: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
-- 1 Spiritcharakter Pru mit abnehmbarem Hut, 1 Pferd mit Sattel und Zaumzeug, 1 Siegertreppchen, 1 Siegerpokal, 1 Siegerkranz uvm.
+- Spielspaß mit Spirit und Lucky: PLAYMOBIL Rodeo Pru mit Pru, Pferd Chica Linda und Zubehör zum detailgetreuen Nachspielen des Turniers
 - Täglich bespielbar: Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- 1 Spiritcharakter Pru mit abnehmbarem Hut, 1 Pferd mit Sattel und Zaumzeug, 1 Siegertreppchen, 1 Siegerpokal, 1 Siegerkranz uvm.
 - Spielfiguren-Set: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- doppelt verarbeiteter Frontbereich ohne Eingriff
 - breiter elastischer Bund
-- 10er Pack Trunks
+- doppelt verarbeiteter Frontbereich ohne Eingriff
 - Baumwollmischung
+- 10er Pack Trunks
 - Bund mit Markenschriftzug verziert
 
 [🛒 Hier!!]({{< param buyurl >}})

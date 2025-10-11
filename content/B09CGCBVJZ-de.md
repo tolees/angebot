@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinder im Alter von 4 bis 8 Jahren werden das Hot Wheels City Gorilla-Angriff Spielset lieben. Ein großartiges Geschenk, das das freie Spiel und die Kreativität fördert.
-- Garys Arme sind über 90 cm lange biegsame Streckenstücke, die mit anderen Sets verbunden werden können. An einem Ende befindet sich eine Abschussvorrichtung, mit denen Kinder ihre Autos durch das Gorillamaul schießen können, ohne gefressen zu werden.
-- Um Gary direkt herauszufordern ist 1 Hot Wheels Fahrzeug enthalten. So kann das Auto sofort über seine Arme und durch sein Maul rasen.
 - Die Hot Wheels City Tankstelle wurde von einem monströsen Gorilla namens Gary übernommen, der alle Autos frisst, die nicht entkommen können!
+- Um Gary direkt herauszufordern ist 1 Hot Wheels Fahrzeug enthalten. So kann das Auto sofort über seine Arme und durch sein Maul rasen.
+- Garys Arme sind über 90 cm lange biegsame Streckenstücke, die mit anderen Sets verbunden werden können. An einem Ende befindet sich eine Abschussvorrichtung, mit denen Kinder ihre Autos durch das Gorillamaul schießen können, ohne gefressen zu werden.
+- Kinder im Alter von 4 bis 8 Jahren werden das Hot Wheels City Gorilla-Angriff Spielset lieben. Ein großartiges Geschenk, das das freie Spiel und die Kreativität fördert.
 - Durch mehrere Verbindungspunkte kann dieses Spielset mit anderen Hot Wheels Sets verbunden werden und so eine furchteinflößende Stadtlandschaft geschaffen werden (alle Artikel separat erhältlich).
 
 [🛒 Hier!!]({{< param buyurl >}})

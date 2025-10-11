@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - enthält SVHC
-- Klasse C
-- Für Zählermontage und Zählersperrung
 - Einsatzbereich bis -40°C
+- Für Zählermontage und Zählersperrung
+- Klasse C
 - Vollisolierung reduziert das Kurzschlussrisiko
 
 [🛒 Hier!!]({{< param buyurl >}})

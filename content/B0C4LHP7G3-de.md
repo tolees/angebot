@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Einrichtung: Scannen Sie den Code und alles ist erledigt. Das standardisierte und einfache Protokoll erleichtert die Implementierung und Verwendung von Matter-Geräten. Vorausgesetzt wird ein vorhandenes 2,4-GHz-Wi-Fi-Netzwerk sowie ein Smartphone mit iOS 16.1 oder höher bzw. Android 8.1 oder höher. Erscheinungsbild Patent Nr.: 009198401-0001.
 - Über MATTER: Das MATTER-Protokoll wird von großen Öko-Plattformen wie Apple, Google, Alexa, Samsung und über 500 globalen Unternehmen geleitet. Es ist keine Installation von Drittanbieter-Apps erforderlich, es ist keine Registrierung eines Cloud-Kontos erforderlich und es gibt keine Nachverfolgung.
-- Stromverbrauchsmesser: Smarte Steckdosen verfolgen den Stromverbrauch. Mit dem internen Stromzähler für Steckdosen liefert die Meross-App Echtzeitberichte darüber, wie hoch der Stromverbrauch Ihrer Geräte ist, sowie historische Daten. Darüber hinaus kann es auch die Stromerzeugung messen, was sich zur Überwachung von Balkonkraftwerk Photovoltaik eignet.
-- Voraussetzungen für Apple-Benutzer: iOS, iPadOS 16.1 (oder höher), 2,4 GHz sowie einen Hub für die gewählte Plattform, wie Apple TV 4K (2. oder 3. Generation) oder HomePod Mini.
-- Offline-Steuerung: Matter-Geräte können auch ohne Internetverbindung nahtlos im lokalen Netzwerk kommunizieren und sich untereinander steuern. Alternativ können Sie weiterhin WLAN-Steckdosen über die Meross App steuern. Ihr Smartphone und Ihr intelligentes Gerät müssen sich im selben WLAN-Netzwerk befinden.
-- Voraussetzungen für Android-Nutzer: Die Tuya App auf Android unterstützt zur Zeit keine Matter. Android 8.1 oder höher, 2,4 GHz sowie einen Hub für die gewählte Plattform, wie Samsung SmartThings Hub v3, Amazon Echo (4. Generation), Google Nest Hub (2. Generation), Nest Hub Max oder Nest Wifi Pro.
+- Einfache Einrichtung: Scannen Sie den Code und alles ist erledigt. Das standardisierte und einfache Protokoll erleichtert die Implementierung und Verwendung von Matter-Geräten. Vorausgesetzt wird ein vorhandenes 2,4-GHz-Wi-Fi-Netzwerk sowie ein Smartphone mit iOS 16.1 oder höher bzw. Android 8.1 oder höher. Erscheinungsbild Patent Nr.: 009198401-0001.
 - Zeitplan: Passen Sie den Zeitplan und die Routine nach Ihren Bedürfnissen über die Meross App an. Melden Sie sich mit demselben Meross-Konto wie Ihre Familie an, und die Geräte können gemeinsam genutzt werden.
+- Offline-Steuerung: Matter-Geräte können auch ohne Internetverbindung nahtlos im lokalen Netzwerk kommunizieren und sich untereinander steuern. Alternativ können Sie weiterhin WLAN-Steckdosen über die Meross App steuern. Ihr Smartphone und Ihr intelligentes Gerät müssen sich im selben WLAN-Netzwerk befinden.
+- Voraussetzungen für Apple-Benutzer: iOS, iPadOS 16.1 (oder höher), 2,4 GHz sowie einen Hub für die gewählte Plattform, wie Apple TV 4K (2. oder 3. Generation) oder HomePod Mini.
+- Stromverbrauchsmesser: Smarte Steckdosen verfolgen den Stromverbrauch. Mit dem internen Stromzähler für Steckdosen liefert die Meross-App Echtzeitberichte darüber, wie hoch der Stromverbrauch Ihrer Geräte ist, sowie historische Daten. Darüber hinaus kann es auch die Stromerzeugung messen, was sich zur Überwachung von Balkonkraftwerk Photovoltaik eignet.
+- Voraussetzungen für Android-Nutzer: Die Tuya App auf Android unterstützt zur Zeit keine Matter. Android 8.1 oder höher, 2,4 GHz sowie einen Hub für die gewählte Plattform, wie Samsung SmartThings Hub v3, Amazon Echo (4. Generation), Google Nest Hub (2. Generation), Nest Hub Max oder Nest Wifi Pro.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C4LHP7G3{{</world>}}

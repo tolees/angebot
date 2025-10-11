@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Für strapazierte und trockene Hände
 - Besonders reichhaltige Textur aus Sheabutter und Magnolie
-- Feuchtigkeitsspendend und rückfettend
 - Mit hautberuhigendem Dexpanthenol
+- Feuchtigkeitsspendend und rückfettend
 - Schützt vor dem Austrocknen
 
 [🛒 Hier!!]({{< param buyurl >}})

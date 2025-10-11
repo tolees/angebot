@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maximaler Luftstrom: 2,79 CFM
 - Eingangsspannung: 5V DC über die vierpolige Lüfterleiste des Raspberry Pi 5
 - Steuerung der Lüftergeschwindigkeit: Pulsweitenmodulationssteuerung mit Tachometer
 - Maximale Lüfterdrehzahl: 8000 RPM +/- 15%
 - Gehäuse-Material: ABS (Boden, Rahmen, Deckel) und PC (Lüftereinheit)
+- Maximaler Luftstrom: 2,79 CFM
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CLY2974P{{</world>}}

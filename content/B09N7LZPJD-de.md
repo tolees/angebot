@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Gummi
 - Obermaterial: Leder
-- Absatzform: Flach
-- Schuhweite: Schmal
 - Wasserfest
 - Innenmaterial: Synthetik
+- Verschluss: Gummi
+- Absatzform: Flach
+- Schuhweite: Schmal
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09N7LZPJD{{</world>}}

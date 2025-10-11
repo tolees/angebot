@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- item display volume; 100.0 milliliters
+- item display weight; 450.0 grams
 - Trussardi
 - PERSONAL FRAGRANCE
-- item display weight; 450.0 grams
+- item display volume; 100.0 milliliters
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B072KNHR75{{</world>}}

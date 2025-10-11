@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnürsenkel
-- Gummiaußensohle in vulkanisierter Optik
-- Reguläre Passform
 - Obermaterial aus Synthetik-Nubuk
+- Schnürsenkel
+- Reguläre Passform
+- Gummiaußensohle in vulkanisierter Optik
 - Gewebte Zugschlaufe im Fersenbereich
 
 [🛒 Hier!!]({{< param buyurl >}})

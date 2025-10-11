@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sämtliche Kommunikation mit dem „Wo ist?“ Netzwerk ist anonym und verschlüsselt, damit die Privatsphäre geschützt bleibt
-- Die austauschbare Batterie hält über ein Jahr lang und AirTag ist nach IP67 vor Wasser und Staub geschützt
-- Nur einmal Tippen reicht, um dein AirTag mit deinem iPhone oder iPad zu koppeln
 - Erfordert ein iPhone SE, iPhone 6s oder neuer oder einen iPod touch (7. Generation) mit iOS 14.5 oder neuer; oder ein iPad Pro, iPad (5. Generation oder neuer), iPad Air 2 oder neuer oder ein iPad mini 4 oder neuer mit iPadOS 14.5 oder neuer.
+- Spiel einen Ton mit dem integrierten Lautsprecher ab und finde deine Sachen. Oder bitte einfach Siri um Hilfe
 - Aktiviere den Modus „Verloren“ für AirTag und du wirst automatisch benachrichtigt, wenn es im „Wo ist?“ Netzwerk gefunden wird
 - Die Genaue Suche nutzt eine Ultrabreitband-Technologie, um dich direkt zu deinem AirTag in der Nähe zu führen (iPhone 11 oder neuer)
-- Behalte deine Sachen im Blick und finde sie, deine Freund:innen und deine anderen Geräte in der „Wo ist?“ App
 - Finde weiter entfernte Gegenstände mit der Hilfe von hunderten Millionen Apple Geräten im „Wo ist?“ Netzwerk
-- Spiel einen Ton mit dem integrierten Lautsprecher ab und finde deine Sachen. Oder bitte einfach Siri um Hilfe
+- Nur einmal Tippen reicht, um dein AirTag mit deinem iPhone oder iPad zu koppeln
 - Standortdaten und deren Verlauf werden niemals auf dem AirTag gespeichert
+- Sämtliche Kommunikation mit dem „Wo ist?“ Netzwerk ist anonym und verschlüsselt, damit die Privatsphäre geschützt bleibt
+- Die austauschbare Batterie hält über ein Jahr lang und AirTag ist nach IP67 vor Wasser und Staub geschützt
+- Behalte deine Sachen im Blick und finde sie, deine Freund:innen und deine anderen Geräte in der „Wo ist?“ App
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0935DN1BN{{</world>}}

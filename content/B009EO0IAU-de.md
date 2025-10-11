@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perel
 - PORTABLE TOOL BOX
+- Perel
 - Inhalt: 1 Stück
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

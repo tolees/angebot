@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BRIGHTNESS INTELLIGENCE TECH: passt die Helligkeit automatisch an das Umgebungslicht an
-- IPS PANEL Farbmodi: Mit Gaming Mode, Coding Mode und ePaper Mode, die Augenkomfort bei langen Lesesitzungen oder Spielesessions gewährleisten
 - GAMING 100Hz Bildwiederholrate: für ein flüssiges Spielerlebnis führt
 - INPUT HOTKEY: 27 Zoll IPS 1080P FHD Display mit Input Hotkey für schnelles Umschalten zwischen Arbeit und Spiel mit einem einzigen Klick
+- IPS PANEL Farbmodi: Mit Gaming Mode, Coding Mode und ePaper Mode, die Augenkomfort bei langen Lesesitzungen oder Spielesessions gewährleisten
+- BRIGHTNESS INTELLIGENCE TECH: passt die Helligkeit automatisch an das Umgebungslicht an
 - LOW BLUE LIGHT PLUS: filtert die kürzere, energiereiche blau-violette Strahlung heraus, die für die Augen schädlich ist, und behält trotzdem die starken Farben bei
 
 [🛒 Hier!!]({{< param buyurl >}})

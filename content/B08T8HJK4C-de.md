@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nach dem Zusammensetzen des Puzzlespiels entsteht ein Panoramabild mit den Abmessungen 683x480 mm. Das fertige Puzzle kann man auf Karton kleben und das so entstandene Bild an die Wand hängen - der Spezialkleber von Trefl ist auch im Handel erhältlich.
-- Eine hohe Farbsättigung und hohe Zusammensetzsicherheit garantiert das kalandrierte, lichtreflektierende Papier.
 - Die Matte, die das Zusammensetzen der Puzzles und das Aufbewahren von nicht fertiggestellten Arbeiten leichter macht, ist auch im Handel erhältlich.
 - Das Puzzlespiel besteht aus 1000 hochwertigen Teilen. Ideal für Erholung und Entspannung.
+- Eine hohe Farbsättigung und hohe Zusammensetzsicherheit garantiert das kalandrierte, lichtreflektierende Papier.
+- Nach dem Zusammensetzen des Puzzlespiels entsteht ein Panoramabild mit den Abmessungen 683x480 mm. Das fertige Puzzle kann man auf Karton kleben und das so entstandene Bild an die Wand hängen - der Spezialkleber von Trefl ist auch im Handel erhältlich.
 - Ein perfektes Geschenk für Kinder ab 12 Jahren und für Erwachsene.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

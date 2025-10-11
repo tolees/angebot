@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Produktart: PHYSICAL_VIDEO_GAME_SOFTWARE
 - Brand: ak tronic
+- Produktart: PHYSICAL_VIDEO_GAME_SOFTWARE
 - LEGO Star Wars Das Erwachen der Macht
 
 [🛒 Hier!!]({{< param buyurl >}})

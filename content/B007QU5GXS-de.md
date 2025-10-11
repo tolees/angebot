@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Avatar - Aufbruch nach Pandora 3D'
-date: 2025-10-09 11:11:29
+date: 2025-10-10 23:13:52
 image: 'https://m.media-amazon.com/images/I/51NzDndVoeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇩🇪'
 brand: 'Disney'
 buyurl: 'https://www.amazon.de/dp/B007QU5GXS/?tag=tolees0ca-21'
 descuento: '16.26'
-average: '17.5317171717172'
+average: '17.4813861386139'
 ---
 
 Sie können [{{< param title >}}]({{< param buyurl >}}) hier:

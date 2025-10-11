@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Innermaterial:Synthetic
 - Verschluss:Klettverschluss
-- Sohle:Gummi
 - Absatzform:Flach
+- Sohle:Gummi
 - Obermaterial: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

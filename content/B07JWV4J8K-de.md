@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Techlite leichte Mittelsohle für Komfort und Dämpfung
 - Wasserdichtes Material
+- Techlite leichte Mittelsohle für Komfort und Dämpfung
 - Omni-Grip spurlose Traktions-Gummisohle für idealen Grip
 - Wildleder, Textil und Gewebe
 

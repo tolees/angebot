@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ergonomische Passform: Die breite Ausführung garantiert Bewegungsfreiheit und erhöhten Komfort den ganzen Tag über.
 - Hand Finish: Durch das aufwendige, händische Two-Tone-Finishing des Leders ist jeder Schuh ein Unikat
-- Comfort Wide: Zusätzlicher Raum im Vorderfuß-Bereich für Bewegungsfreiheit von Zehen und Ballen
 - Care Impregnate: Pflegemittel / Imprägnierspray zuerst auf Innenseite oder Lasche ausprobieren
+- Ergonomische Passform: Die breite Ausführung garantiert Bewegungsfreiheit und erhöhten Komfort den ganzen Tag über.
+- Comfort Wide: Zusätzlicher Raum im Vorderfuß-Bereich für Bewegungsfreiheit von Zehen und Ballen
 - Vielseitiger Stil: Ergänzt Geschäftskleidung perfekt, verleiht jedem Outfit einen Hauch von Raffinesse und Eleganz.
 
 [🛒 Hier!!]({{< param buyurl >}})

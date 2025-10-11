@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gehäuse in Carbon-Optik mit gummierter Griffzone
 - Die pigmentierte Gel-Tinte ist wasserfest und lichtbeständig
-- Strichstärke 0,35mm, nachfüllbar mit Mine KFR7
 - Gel-Tintenroller mit weich schreibender Gel-Tinte
+- Gehäuse in Carbon-Optik mit gummierter Griffzone
 - Druckknopf farblich passend zur Schreibfarbe
+- Strichstärke 0,35mm, nachfüllbar mit Mine KFR7
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003VNOV8K{{</world>}}

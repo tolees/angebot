@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Speziell entwickelt für Profis – In Zusammenarbeit mit E-Sport-Profis für Leistung, Geschwindigkeit und Präzision entwickelt, die Turnieransprüchen genügen
-- LIGHTSYNC RGB – Mit LIGHTSYNC kannst du Tasten hervorheben und statische Beleuchtungsabläufe für Fälle, in denen das Turniersystem die Installation von G HUB nicht zulässt, im internen Speicher programmieren. * * Die Programmierung der LIGHTSYNC RGB-Beleuchtung erfordert die Logitech G HUB Software
-- Abnehmbares Kabel – Das abnehmbare Mikro-USB-Kabel hat einen dreizackigen Stecker für eine einfache, sichere Verbindung und sicheren Transport in deiner Reisetasche
 - GX Blue Switches mit Klickresonanz in Profiqualität – Strapazierfähige GX Blue Switches mit hörbarem Klickgeräusch und taktilem Feedback sorgen für sicheren, deutlichen Tastendruck
+- Speziell entwickelt für Profis – In Zusammenarbeit mit E-Sport-Profis für Leistung, Geschwindigkeit und Präzision entwickelt, die Turnieransprüchen genügen
 - Kompaktes Design perfekt für Unterwegs – das kompakte Design ohne Ziffernblock lässt mehr Spielraum für Mausbewegungen. Und die Tastatur lässt sich leicht Einpacken und zu Turnieren mitnehmen
+- Abnehmbares Kabel – Das abnehmbare Mikro-USB-Kabel hat einen dreizackigen Stecker für eine einfache, sichere Verbindung und sicheren Transport in deiner Reisetasche
+- LIGHTSYNC RGB – Mit LIGHTSYNC kannst du Tasten hervorheben und statische Beleuchtungsabläufe für Fälle, in denen das Turniersystem die Installation von G HUB nicht zulässt, im internen Speicher programmieren. * * Die Programmierung der LIGHTSYNC RGB-Beleuchtung erfordert die Logitech G HUB Software
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07W6JNQ82{{</world>}}

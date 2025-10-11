@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Fünf Taschen
+- Fünf Gürtelschlaufen
+- Dehnbarer Stoff
 - Knöchellänge
 - Offene Säume
-- Dehnbarer Stoff
-- Fünf Taschen
-- Frontverschluss
-- Fünf Gürtelschlaufen
 - Skinny Jeans mit Normal Waist
+- Frontverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07M8HWKYG{{</world>}}

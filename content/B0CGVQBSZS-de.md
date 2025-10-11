@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Insgesamt ca. 1212 Stück
-- Vereinsaufkleber für die Front, die Rückseite und die Seiten des Busses enthalten
-- Geeignet ab 12 Jahren | Ca. 23 cm x 8 cm x 6 cm im fertig montierten Zustand
 - Konstruktionsspielzeug, das sich zu einem Miniatur-Teamtrainer zusammensetzt
 - Warnung: Erstickungsgefahr – Kleinteile
+- Geeignet ab 12 Jahren | Ca. 23 cm x 8 cm x 6 cm im fertig montierten Zustand
+- Vereinsaufkleber für die Front, die Rückseite und die Seiten des Busses enthalten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CGVQBSZS{{</world>}}

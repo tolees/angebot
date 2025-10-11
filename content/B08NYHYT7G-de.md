@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Enge Passform
-- Elastischer Bund
-- Mittelhohes Design
 - Nike Dri-FIT Technologie
+- Elastischer Bund
+- Enge Passform
+- Mittelhohes Design
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08NYHYT7G{{</world>}}

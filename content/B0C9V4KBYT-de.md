@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- winddicht, wasserabweisend
+- Softshelljacke
 - atmungsaktiv
 - geschmeidig
-- Softshelljacke
-- winddicht, wasserabweisend
 - elastisch
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

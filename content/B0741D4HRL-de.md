@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: GOP 12V-28, 1x Starlock BIM Tauchsägeblatt AIZ 32 APB
 - Starlock Werkzeugaufnahme: für schnelleren Arbeitsfortschritt und maximale Kraftübertragung dank dreidimensionaler Aufnahme
 - Schneller und einfacher Zubehörwechsel durch SDS-Verriegelung: Klickt die Verriegelung beim Einsetzen, ist das Zubehör sicher und richtig befestigt (nur bei GOP 18V-28; GOP 40-30 und GOP 55-36)
+- Lieferumfang: GOP 12V-28, 1x Starlock BIM Tauchsägeblatt AIZ 32 APB
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0741D4HRL{{</world>}}

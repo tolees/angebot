@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NACHHALTIGKEIT: 99 % der Verpackung bestehen aus Holzfaserwerkstoffen, die aus verantwortungsvoll bewirtschafteten Wäldern oder recycelten Quellen bezogen wurden. Zudem wurden 95 % der Gewebe und 55 % der Kunststoffe aus wiederverwerteten Verbraucherabfällen gewonnen.
-- DATENSCHUTZ: Umfasst Datenschutzmaßnahmen auf mehreren Ebenen, darunter eine Mikrofon-aus-Taste, mit der die Stromzufuhr zu den Mikrofonen elektronisch unterbrochen wird.
-- SMARTES WOHNEN GANZ EINFACH: Steuere kompatible Smart-Home-Geräte per Sprachbefehl und erstelle Routinen für temperaturbasierte Aktionen.
-- IMMER ZU DIENSTEN: Lass dir von Alexa sagen, wie das Wetter wird. Sie kann auch Timer stellen und Fragen beantworten, und ist immer bereit für unterhaltsame Gespräche.
 - MUSIK UND PODCASTS: Genieße Musik, Hörbücher und Podcasts von Amazon Music, Audible, Apple Music, Spotify und weiteren, über WLAN oder Bluetooth.
 - GEMEINSAM BESSER: Synchronisiere mehrere kompatible Echo-Geräte oder kopple sie mit Fire TV für ein cineastisches Erlebnis.
+- DATENSCHUTZ: Umfasst Datenschutzmaßnahmen auf mehreren Ebenen, darunter eine Mikrofon-aus-Taste, mit der die Stromzufuhr zu den Mikrofonen elektronisch unterbrochen wird.
+- NACHHALTIGKEIT: 99 % der Verpackung bestehen aus Holzfaserwerkstoffen, die aus verantwortungsvoll bewirtschafteten Wäldern oder recycelten Quellen bezogen wurden. Zudem wurden 95 % der Gewebe und 55 % der Kunststoffe aus wiederverwerteten Verbraucherabfällen gewonnen.
 - GROSSARTIGER KLANG: Die noch bessere Audioausgabe – klarere Stimmen, gewaltiger Bass – sorgt für ein immersives Echo Dot-Erlebnis.
+- SMARTES WOHNEN GANZ EINFACH: Steuere kompatible Smart-Home-Geräte per Sprachbefehl und erstelle Routinen für temperaturbasierte Aktionen.
+- IMMER ZU DIENSTEN: Lass dir von Alexa sagen, wie das Wetter wird. Sie kann auch Timer stellen und Fragen beantworten, und ist immer bereit für unterhaltsame Gespräche.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09B8RF4PY{{</world>}}

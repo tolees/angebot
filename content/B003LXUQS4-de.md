@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Garantie : 1 Monat
 - Farbe : Schwarz
-- Verpackungsinhalt: 1
 - Material : Klinge aus rostfreiem Edelstahl
+- Verpackungsinhalt: 1
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003LXUQS4{{</world>}}

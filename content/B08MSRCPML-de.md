@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial aus weichem Leder
 - weiterentwickelte Laufsohle mit klarem Design
 - zeitlose Klassiker
-- Obermaterial aus weichem Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08MSRCPML{{</world>}}

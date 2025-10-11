@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 2 GHz MediaTek G91; 8-Kern-Prozessor
-- interner Speicher: 256GB, Android Android 13.0
-- 108 Megapixel Hauptkamera
 - 17.2 cm (6.79Zoll) LED Display mit 1.080 x 2.460 Pixel; bis zu 90Hz
 - Farbe: Schwarz
+- interner Speicher: 256GB, Android Android 13.0
+- 108 Megapixel Hauptkamera
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D4SMFD94{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PTZ Kamera mit 8MP Auflösung: Das Objektiv der Kamera Garten kann horizontal um 340° und vertikal um 70° gedreht werden. Über die EZVIZ-App können Sie bis zu 12 Winkel einstellen. Klicken Sie einfach auf einen voreingestellten Punkt und die Kamera outdoor dreht sich automatisch in diesen Winkel zurück.
-- Zwei Patrouillenmodi: Nach Aktivierung des Patrouillenmodus dreht sich die Außenkamera automatisch, um das Geschehen im Überwachungsbereich aufzuzeichnen. Sie können auch Ihre eigenen Patrouillenrouten definieren, sodass sich die outdoor camera wifi zur Überwachung mit einer festen Frequenz dreht.
-- Zwei Objektive für brillante Farbnachtsicht: Diese Überwachungskamera außen ist mit zwei Objektiven ausgestattet: Eines bietet Ihnen 4K-Ultra-HD-Aufnahmen, das andere verfügt über eine große F1.0-Blende und liefert auch bei schwachem Licht eine hervorragende Farbnachtsicht – ganz ohne den Einsatz zusätzlicher Scheinwerfer.
 - Intelligente Personen-/Fahrzeugerkennung & automatische Verfolgung: Mit Hilfe von der KI kann die WLAN Kamera Personen und Fahrzeuge genauer von anderen sich bewegenden Objekten unterscheiden. Wenn jemand den Überwachungsbereich betritt, verfolgt die Kamera das Ziel automatisch und zoomt es heran.
+- Zwei Objektive für brillante Farbnachtsicht: Diese Überwachungskamera außen ist mit zwei Objektiven ausgestattet: Eines bietet Ihnen 4K-Ultra-HD-Aufnahmen, das andere verfügt über eine große F1.0-Blende und liefert auch bei schwachem Licht eine hervorragende Farbnachtsicht – ganz ohne den Einsatz zusätzlicher Scheinwerfer.
+- Zwei Patrouillenmodi: Nach Aktivierung des Patrouillenmodus dreht sich die Außenkamera automatisch, um das Geschehen im Überwachungsbereich aufzuzeichnen. Sie können auch Ihre eigenen Patrouillenrouten definieren, sodass sich die outdoor camera wifi zur Überwachung mit einer festen Frequenz dreht.
 - Aktive Verteidigung mit Wasserdichtem Gehäuse: Wenn die Kamera einen Eindringling entdeckt, löst sie eine starke Sirene aus und lässt zwei Scheinwerfer leuchten, um ihn zu warnen. Benutzer können den Ton- und Lichtalarm an ihre Vorlieben anpassen. Durch das wasserdichte Gehäuse bietet diese Kamera auch bei widrigen Wetterbedingungen eine langfristige Leistung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
