@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - durchgehende Knopfleiste
 - leger geschnitten
-- 1-Knopfmanschetten
 - eine geknöpfte Brusttasche
+- 1-Knopfmanschetten
 - gestickte Logo-Artworks vorne, hinten und auf dem Ärmel
 
 [🛒 Hier!!]({{< param buyurl >}})

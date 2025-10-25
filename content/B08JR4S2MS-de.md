@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwei flache Reißverschluss-Netztaschen
-- Handlicher Kulturbeutel für Hygieneartikel-Grundausstattung
 - Schlaufen zum Fixieren von Zahnbürsten und kleineren Hygieneartikeln
+- Zwei flache Reißverschluss-Netztaschen
 - Eine große Reißverschluss-Tasche
+- Handlicher Kulturbeutel für Hygieneartikel-Grundausstattung
 - Verstaubarer Haken zum Aufhängen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

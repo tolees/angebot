@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schultereinsatz aus Jacquard
-- Kontrast-Tape im Schulterbereich
-- Polyester-Fleece (aus 100% recyceltem Polyester)
-- Seitentaschen
 - Kapuze mit Kordelzug (bei Kindergrößen ohne Kordelzug)
+- Kontrast-Tape im Schulterbereich
+- Seitentaschen
+- Schultereinsatz aus Jacquard
+- Polyester-Fleece (aus 100% recyceltem Polyester)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09SJW483V{{</world>}}

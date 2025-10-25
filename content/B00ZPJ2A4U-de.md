@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für empfindliche Augen und Kontaktlinsenträger
-- Die aufbaubare Formel macht die Wimpern voluminöser, ohne sie zu verhärten
-- Schwung und Volumen verleihende Bourjois Mascara, die bis zu 16 Stunden hält
-- Verleiht den Wimpern einen schönen Schwung und macht sie dicker, ohne zu verklumpen
 - Die anhebende Bürste maximiert das Volumen vom ersten Auftrag an
+- Geeignet für empfindliche Augen und Kontaktlinsenträger
+- Schwung und Volumen verleihende Bourjois Mascara, die bis zu 16 Stunden hält
+- Die aufbaubare Formel macht die Wimpern voluminöser, ohne sie zu verhärten
+- Verleiht den Wimpern einen schönen Schwung und macht sie dicker, ohne zu verklumpen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00ZPJ2A4U{{</world>}}

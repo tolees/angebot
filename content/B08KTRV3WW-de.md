@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 92% Baumwolle, 6% Elastomultiester, 2% Elastane
 - Only Blush Mid Rise Skinny Jeans
+- 92% Baumwolle, 6% Elastomultiester, 2% Elastane
 - Regular
 
 [🛒 Hier!!]({{< param buyurl >}})

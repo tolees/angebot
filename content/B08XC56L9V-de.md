@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vinyl figure is 8.9 cm tall.
 - Inojin Inojins Zeichnungen sind bereit, zum Leben zu erwecken, als Pop! Inojin trägt seine Schriftrolle und Pinsel.
+- Vinyl figure is 8.9 cm tall.
 - Hergestellt aus hochwertigem Vinyl-Material
 - Zeichnen Sie auf Inojin, um Ihre Boruto Next Generations Kollektion mit diesem Pop! Inojin
 - Basierend auf der Boruto Naruto Next Generations Anime-Serie

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Kunstleder
-- Verschluss: Gummi
 - Absatzform: Kein Absatz
+- Verschluss: Gummi
+- Obermaterial: Kunstleder
 - Innenmaterial: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

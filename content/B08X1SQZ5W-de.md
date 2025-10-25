@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Muster: Einfarbig
 - Kalt gefüttert
+- Muster: Einfarbig
 - Lebensstil: Fashion Casual
 
 [🛒 Hier!!]({{< param buyurl >}})

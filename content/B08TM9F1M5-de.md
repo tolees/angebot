@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leichte Wesentliche für das Training oder Wettbewerb
-- Ripper Kragen.
 - Standard Fit für ein entspanntes, einfaches Gefühl.
+- Ripper Kragen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08TM9F1M5{{</world>}}

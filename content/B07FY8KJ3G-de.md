@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durchgehend gehärtet
 - Feinster Chrom Vanadium Stahl, hochglanz verchromt
+- Durchgehend gehärtet
 - metrisch
 
 [🛒 Hier!!]({{< param buyurl >}})

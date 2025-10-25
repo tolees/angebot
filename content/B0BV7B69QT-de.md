@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit diesem LEGO Star Wars Yodas Jedi Starfighter Bauspielzeug können sich Star Wars: The Clone Wars Fans ab 8 Jahren mit den LEGO Star Wars Figuren Meister Yoda und R2-D2 zusammentun
+- LEGO Star Wars Sets ermöglichen es Kindern und erwachsenen Star Wars Fans, ikonische Szenen nachzustellen, ihre eigenen Action-Abenteuer zu erschaffen oder einfach die baubaren Modelle auszustellen
 - Teil einer riesigen Auswahl an LEGO Star Wars Sets zum Bauen, die Star Wars Fans jeden Alters begeistern
 - Der LEGO Star Wars Starfighter verfügt über ein aufklappbares Cockpit, dahinter Platz für die LEGO R2-D2 Figur, 2 federunterstützte Shooter und verstellbare Flügel für Flug und Landung
-- LEGO Star Wars Sets ermöglichen es Kindern und erwachsenen Star Wars Fans, ikonische Szenen nachzustellen, ihre eigenen Action-Abenteuer zu erschaffen oder einfach die baubaren Modelle auszustellen
 - Das Star Wars Spielzeug enthält außerdem zwei ikonische Charaktere: eine LEGO Star Wars Yoda Minifigur mit Lichtschwert und eine LEGO Droidenfigur R2-D2
 
 [🛒 Hier!!]({{< param buyurl >}})

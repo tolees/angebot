@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache und entspannte Passform
+- Gerippter Kragen
 - Aus weichem und bequemem Stoff
 - Schnell trocknend
-- Gerippter Kragen
+- Einfache und entspannte Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07QFDL9FJ{{</world>}}

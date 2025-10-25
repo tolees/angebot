@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- softe Haptik
 - Kontrastnähte
-- Artwork mit Rubber-Details
+- softe Haptik
 - Kapuze mit Kordelzug
+- Artwork mit Rubber-Details
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5DHXVT{{</world>}}

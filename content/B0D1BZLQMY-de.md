@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Geschenkbox: zusätzlich zur farbigen produktverpackung wird das mikroskop in einer geschenkbox geliefert. diese schützt nicht nur das mikroskop und die dias besser, sondern bewahrt auch die überraschung und macht es zum idealen geschenk für neugierige junge wissenschaftler.
 - 1000 Vergrößerung: 5-stufigen zoom von 200x bis 1000x ermöglicht dieses mikroskop die erkundung einer vielzahl von proben, von kleinen insekten bis zu großen pflanzen. es regt das interesse der kinder an der wissenschaft und natur spielerisch an und eröffnet neue perspektiven auf die mikroskopische welt.
+- Wiederaufladbar: unser digitales mikroskop ist mit einem großen, wiederaufladbaren akku ausgestattet und ermöglicht eine kontinuierliche nutzung von bis zu 2,5 stunden nach vollständiger aufladung. ein ladekabel ist im lieferumfang enthalten, sodass dem entdecken keine grenzen gesetzt sind.
 - Tragbarkeit: dieses kinder-mikroskop wiegt nur 200g und hat eine kompakte größe von 82*51*104mm. es passt leicht in die tasche oder den rucksack ihres kindes und ist mit einem verdickten nackenband ausgestattet, das die hände beim laufen frei hält. ideal für kleine entdecker unterwegs.
 - Vorbereitete Mikroskopdias: mit laborqualitätigen glasdias geliefert. wir haben die dia-betrachtungsschlitze um 1mm erweitert, um ein reibungsloseres durchschieben zu ermöglichen. zusätzlich ist ein EVA-hartschalenkoffer enthalten, der sowohl den transport als auch die aufbewahrung erleichtert.
-- Geschenkbox: zusätzlich zur farbigen produktverpackung wird das mikroskop in einer geschenkbox geliefert. diese schützt nicht nur das mikroskop und die dias besser, sondern bewahrt auch die überraschung und macht es zum idealen geschenk für neugierige junge wissenschaftler.
-- Wiederaufladbar: unser digitales mikroskop ist mit einem großen, wiederaufladbaren akku ausgestattet und ermöglicht eine kontinuierliche nutzung von bis zu 2,5 stunden nach vollständiger aufladung. ein ladekabel ist im lieferumfang enthalten, sodass dem entdecken keine grenzen gesetzt sind.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D1BZLQMY{{</world>}}

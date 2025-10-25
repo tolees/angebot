@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schuhweite : Medium
-- Obermaterial : Leder
-- Wasserbeständigkeitsgrad : Nicht Wasserfest
 - Absatzform : Kein Absatz
+- Schuhweite : Medium
+- Wasserbeständigkeitsgrad : Nicht Wasserfest
+- Obermaterial : Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07B98RQPX{{</world>}}

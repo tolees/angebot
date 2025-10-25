@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Smart TV: webOS 23 (LG ThinQ AI & AI Concierge) mit Google Assistant, Amazon Alexa, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, unterstützt WOW Interface inkl. LG Magic Remote-Fernbedienung und 2x AA Batterien
 - 4K Ultra HD-Display mit Direct-LED; 140 cm (55 Zoll) Bildschirmdiagonale, Außenmaße (ohne Standfuß): 123,5 x 71,5 x 5,75 cm, VESA Norm: 300 x 300 mm
-- Bild und Ton: Active HDR (HDR10 Pro, HLG, Filmmaker Mode), HDR Dynamic Tone Mapping, 4K Upscaling ; 2.0-Soundsystem mit 20 Watt (10W je Kanal)
+- Smart TV: webOS 23 (LG ThinQ AI & AI Concierge) mit Google Assistant, Amazon Alexa, kompatibel mit Amazon Echo, Google Home, Apple AirPlay 2 & HomeKit; Home Dashboard, unterstützt WOW Interface inkl. LG Magic Remote-Fernbedienung und 2x AA Batterien
 - Tunertyp und Konnektivität: Single Triple Tuner (DVB-T2/-C/-S2), LAN (Ethernet), WLAN (802.11ac), 3x HDMI 2.0 (mit eARC & ALLMS), 2x USB, Optischer Digitalausgang (S/PDIF, Lichtwellenleiter), CI+-Slot
 - Prozessor: α5 Gen6 4K AI-Prozessor mit AI Brightness Control, & AI Sound Pro (Virtual 5.1 Up-mix); Gaming Features: HGiG-kompatibel, Game Optimizer (ALLM)
+- Bild und Ton: Active HDR (HDR10 Pro, HLG, Filmmaker Mode), HDR Dynamic Tone Mapping, 4K Upscaling ; 2.0-Soundsystem mit 20 Watt (10W je Kanal)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BWWM36K3{{</world>}}

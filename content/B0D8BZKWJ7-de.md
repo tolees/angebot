@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nicht auf Verzierung bügeln | Bügeln bei mäßiger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | 30°C Feinwäsche | Mit ähnlichen Farben waschen | Nass in Form ziehen
+- Passform: Regular Fit, Rückenlänge bei Größe M ca. 64 cm
 - Aus weichem, atmungsaktivem Single Jersey Stoff aus Baumwolle
 - Rundhalsausschnitt | Kurzarm
-- Passform: Regular Fit, Rückenlänge bei Größe M ca. 64 cm
 - T-Shirt in Unifarben aus Single-Jersey-Stoff aus Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})

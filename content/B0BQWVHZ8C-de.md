@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 100 % recycelter Polyester (Doppelstrick)
 - Elastischer Bund mit Kordelzug
 - AEROREADY
 - Seitenschlitze am Saum
+- 100 % recycelter Polyester (Doppelstrick)
 - Regulär geschnitten
 - Reißverschlusstaschen
 

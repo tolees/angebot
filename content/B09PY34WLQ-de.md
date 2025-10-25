@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verleihen Sie Ihrem Training flexiblen Komfort mit Skechers Track – Ripkent
 - Obermaterial aus weichem Mesh
+- Verleihen Sie Ihrem Training flexiblen Komfort mit Skechers Track – Ripkent
 - Schnürverschluss vorne
 - Gepolsterte Skechers Memory Foam Einlegesohle
 

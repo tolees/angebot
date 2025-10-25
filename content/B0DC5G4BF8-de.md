@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brusttasche und Logo Print auf der linken Vorderseite
 - gefütterte Kapuze mit Logo Print innen
-- Flammgarnstruktur, Melange-Effekte
+- Brusttasche und Logo Print auf der linken Vorderseite
 - Kontrastnähte
 - Tunnelzugband an der Kapuze
+- Flammgarnstruktur, Melange-Effekte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5G4BF8{{</world>}}

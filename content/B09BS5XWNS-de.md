@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Importiere Dokumente und mach darin Notizen – Schreibe Notizen direkt in PDFs oder erstelle in Microsoft Word Haftnotizen.
 - Schreib in das Buch, wenn du dich inspiriert fühlst – Fang auf der Seite mit dem Schreiben an und Active Canvas erstellt einen Bereich für deine Notizen. Nutze den erweiterbaren Randbereich, um weitere Notizen hinzuzufügen, oder verberge ihn, um die Originalseite anzuzeigen.
+- Lesen und Schreiben ganz wie auf Papier – das weltweit erste blendfreie 10,2-Display mit 300 ppi und Frontlicht.
 - Der Kindle mit der längsten Akkulaufzeit – Im Gegensatz zu Tablets bietet Kindle Scribe monatelanges Lese- und wochenlanges Schreibvergnügen mit nur einer Akkuladung.
 - Mach beim Lesen handschriftliche Notizen – Schreib Notizen in Millionen von im Kindle-Shop erhältlichen Titeln.
-- Lesen und Schreiben ganz wie auf Papier – das weltweit erste blendfreie 10,2-Display mit 300 ppi und Frontlicht.
 - Kindle-Notizbücher für alle Gelegenheiten – Digitale Notizbücher für alles, was du schriftlich festhalten willst: Notizen, Tagebücher, Zeichnungen, und noch viel mehr.
 - Der einzige Kindle, der auch ein digitales Notizbuch ist und mit einem Eingabestift ausgeliefert wird. Du kannst direkt in deine Bücher oder in ein separates Notizbuch schreiben, und das ohne Ablenkungen.
 

@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: Intenso USB Stick Speed Line USB 3.2 Gen 1x1
-- Super Speed USB 3.2 Gen 1x1
-- Sehr große Speicherkapazität 256GB
 - Max. Datentransferrate: Bis zu 70,00 MB/s
-- HINWEIS: Das USB 3.2 Gen 1x1-Etikett entspricht dem ursprünglichen USB 3.1 Gen 1 / USB 3.0-Etikett
+- Super Speed USB 3.2 Gen 1x1
 - Material: Kunststoff; Gewicht: 8 g; Abmessungen: 19 x 65 x 9 mm
+- Lieferumfang: Intenso USB Stick Speed Line USB 3.2 Gen 1x1
+- Sehr große Speicherkapazität 256GB
+- HINWEIS: Das USB 3.2 Gen 1x1-Etikett entspricht dem ursprünglichen USB 3.1 Gen 1 / USB 3.0-Etikett
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00YMZBOIQ{{</world>}}

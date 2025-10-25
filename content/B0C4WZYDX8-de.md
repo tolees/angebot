@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Die 4-stellig LCD-Anzeige (6
 - CAT III 600 V, CAT IV 300 V
 - 000 Punkte) ist beleuchtet
-- Die 4-stellig LCD-Anzeige (6
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C4WZYDX8{{</world>}}

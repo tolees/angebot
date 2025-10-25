@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- softe Haptik
 - Rundhalsausschnitt mit Rippblende
+- softe Haptik
 - Photoprint vorne, kleiner Logo Print hinten
 - gestreiftes Necktape
 - Label Patch am linken Ärmel

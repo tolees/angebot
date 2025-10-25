@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Festina
-- 10 ATM
-- Edelstahl
-- Round
 - Watch Case Size: 43
+- 10 ATM
+- Festina
+- Round
+- Edelstahl
 - Armbanduhr Calendario Titanium
 
 [🛒 Hier!!]({{< param buyurl >}})

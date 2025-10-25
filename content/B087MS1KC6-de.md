@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- komfortable Passform, griffiges Profil
 - wasserdicht, atmungsaktiv
-- Aktivitätsindex: A (Hiking)
+- komfortable Passform, griffiges Profil
 - Wanderschuh für Tagestouren
+- Aktivitätsindex: A (Hiking)
 - gut dämpfende, robuste Wandersohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

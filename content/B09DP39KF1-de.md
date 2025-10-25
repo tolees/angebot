@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte, nicht fettende Creme-Gel-Formel
-- Befreit von 5 Zeichen gereizter Haut: Brennen, Rötungen, Juckreiz sowie Spannungs- und Trockenheitsgefühl
 - Enthält Kamille und Vitamin E spendet Feuchtigkeit und lindert die Haut
 - Ohne Ethylalkohol
+- Leichte, nicht fettende Creme-Gel-Formel
+- Befreit von 5 Zeichen gereizter Haut: Brennen, Rötungen, Juckreiz sowie Spannungs- und Trockenheitsgefühl
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09DP39KF1{{</world>}}

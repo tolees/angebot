@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideal Details formiert in handgemachte Kunstharz
-- Gepackt in Markgeschenkkarton
 - Schöne Figur von der Disney Traditions von Jim Shore Kollektion
 - Wunderlich erfasstet in schöne handbemalte Details
 - Kombiniert klassische Disney Charaktere mit Volkkunstmotiven
+- Gepackt in Markgeschenkkarton
+- Ideal Details formiert in handgemachte Kunstharz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01GS73NAM{{</world>}}

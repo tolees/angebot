@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Comes with a FPC PCIe ribbon, M2 and M2.5 screws, spacers, and extra custom CNC SSD mount screw.
-- N04 M.2 NVMe to PCIe Adapter is designed for the latest Raspberry Pi 5. It supports the installation of NVMe (M-key) drives in M.2 format sizes 2230, 2242, 2260 and 2280. Extra custom CNC SSD mount screw, no soldering required.
 - PCIe x1 interface in both Gen2 & Gen3 standards. The short trace routing of PCIe is more reliable and faster, fully meeting the signal requirements of PCIe 3.0.
+- Comes with a FPC PCIe ribbon, M2 and M2.5 screws, spacers, and extra custom CNC SSD mount screw.
 - Ventilation hole design provides excellent ventilation airflow for cooling; Integrated voltage regulator delivering up to 3A for the 3.3V power rail, compliant with M.2 (NGFF) standard.
 - 【Matching Case (NOT included)】Metal Case for N04 & Raspberry Pi 5, refer to ASIN: B0CMZG29LG; Aluminum Case for N04 & Raspberry Pi 5,refer to ASIN: B0CMZCG8P7
+- N04 M.2 NVMe to PCIe Adapter is designed for the latest Raspberry Pi 5. It supports the installation of NVMe (M-key) drives in M.2 format sizes 2230, 2242, 2260 and 2280. Extra custom CNC SSD mount screw, no soldering required.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CTLX5MW5{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Columbia Gefütterte Herrenjacke, Pike Lake, Farbe: Schwarz, Größe: XL, Art. 2050941
 - Durchgehender Reißverschluss, 2 Reißverschluss-Taschen für warme und sichere Hände, Innenliegende Sicherheitstasche für wichtige Gegenstände
-- Warme Herrenjacke, Ideal für kalte Wintertage in der Stadt, beim Wandern und bei anderen Outdoor-Aktivitäten, Moderne Passform
+- Lieferumfang: 1x Columbia Gefütterte Herrenjacke, Pike Lake, Farbe: Schwarz, Größe: XL, Art. 2050941
 - Optimale Passform dank Kordelzug am Saum und teilweise elastischen Bündchen
+- Warme Herrenjacke, Ideal für kalte Wintertage in der Stadt, beim Wandern und bei anderen Outdoor-Aktivitäten, Moderne Passform
 - Besonders warmhaltend dank Omni-Heat-Wärmetechnologie mit wärmereflektierendem Futter, Wasserabweisend für optimalen Schutz vor Regen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

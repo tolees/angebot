@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1.1kg spool 1.75mm Filament PLA in der Vakuumverpackung
 - 5.Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen
 - 2.Einfach zu bedienen: Keine Verwicklungen, kein Verstopfen, keine Blasen, können in verschiedenen gängigen 3D-Druckern verwendet werden
 - 3.Druck Temperatur: 190-220℃
 - 4.Durchmessertoleranz +/- 0.02mm
+- 1.1kg spool 1.75mm Filament PLA in der Vakuumverpackung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07MMZCL38{{</world>}}

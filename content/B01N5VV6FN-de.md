@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Geeignet für Vegetarier
 - Nur aus besten biologischen Zutaten zubereitet
 - Enthält weder Käse noch Knoblauch
-- Pesto mit Basilikum und Pinienkernen
 - In Bio Qualität
-- Geeignet für Vegetarier
+- Pesto mit Basilikum und Pinienkernen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01N5VV6FN{{</world>}}

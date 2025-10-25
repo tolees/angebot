@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- rose
+- Marke Beauty-Produkte Bourjois
 - 29101273010
 - LOréal Paris
-- Marke Beauty-Produkte Bourjois
+- rose
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00SYPI6JK{{</world>}}

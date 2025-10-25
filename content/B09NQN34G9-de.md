@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GOOD GRIP
 - CUSHIONING
+- GOOD GRIP
 - EXTRA DURABLE INGREDIENTS
 
 [🛒 Hier!!]({{< param buyurl >}})

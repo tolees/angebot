@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Es reguliert das Mikroklima, wirkt geruchshemmend und ist von Natur aus dehnbar.
-- Marke: BUFF
-- atmungsaktiv
 - wasserabweisend
+- Marke: BUFF
+- Es reguliert das Mikroklima, wirkt geruchshemmend und ist von Natur aus dehnbar.
+- atmungsaktiv
 - 95% Polyester, 5% Elasthan
 
 [🛒 Hier!!]({{< param buyurl >}})

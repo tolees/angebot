@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Triple Tuner (DVB-T2/-C/-S2) mit EPG und Teletext
-- 27 Zoll IPS-Panel mit Full-HD-Auflösung
 - Hybrid-Gerät aus Monitor und Smart-TV
+- 27 Zoll IPS-Panel mit Full-HD-Auflösung
 - Smart-TV mit webOS 22 inkl. LG ThinQ-Support
+- Triple Tuner (DVB-T2/-C/-S2) mit EPG und Teletext
 - Magic Remote-Fernbedienung mit Spracherkennung
 
 [🛒 Hier!!]({{< param buyurl >}})

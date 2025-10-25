@@ -28,16 +28,16 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Powerbeats Pro 2 liefern bis zu 45 Stunden Akkulaufzeit mit dem Ladecase, angetrieben durch die außerordentliche Effizienz des Apple H2 Chip. Das Case ist 33 % kleiner als sein Vorgänger und unser erstes Ladecase, das mit der kabellosen Qi Ladefunktion ausgestattet ist.
-- Die Sensoren zur Messung der Herzfrequenz leuchten über 100 Mal pro Sekunde auf, um den Puls in Echtzeit zu messen. Und die Powerbeats Pro 2 sind schweiß- und wasserabweisend mit IPX4-Zertifizierung, damit sie robust genug sind, um intensiven Trainingseinheiten bei Regen, Schnee und Hitze standzuhalten.
-- Der Ohrbügel wurde für phänomenale Flexibilität, Griffigkeit und Komfort mit einer Nickel-Titan-Legierung verstärkt. Das macht die neu aufgelegten Powerbeats Pro 2 um 20 % leichter als ihre Vorgänger. Ohreinsätze in fünf Größen sind im Lieferumfang enthalten, um personalisierten Komfort zu bieten.
-- Durch die Knöpfe am Ohr, taktile Lautstärkeregler und Steuerung über die Stimme kannst du dich besser aufs Trainieren konzentrieren, ohne deinen Flow zu unterbrechen.
 - Kompatibel mit Apple (Koppeln per 1-Klick, automatisches Umschalten, Audiofreigabe, freihändiges Siri, „Wo ist?“) und Android (die Beats App gibt Zugriff auf Koppeln per 1-Klick, die Herzfrequenzmessung, anpassbare Bedienelemente, Akkustandanzeige und „Meine Beats finden“.
-- Die Powerbeats Pro 2 sind die innovativsten Kopfhörer, die wir je entwickelt haben, mit sicher sitzenden Ohrbügeln, die an Ort und Stelle bleiben, während du Sport treibst. Sie wurden über 1.500 Stunden durch Sportler:innen getestet, um eine sichere, bequeme Passform für alle Ohrformen und Intensitätsstufen zu gewährleisten.
-- Lieferumfang: Powerbeats Pro 2 In-Ear Kopfhörer, Ladecase, Kurzanleitung, Garantiekarte. *USB-C zu USB-C Ladekabel nicht enthalten.
-- Telefoniere, verwende FaceTime mit 3D Audio und aktiviere Siri mit Hilfe der branchenführenden erstklassigen Bluetooth Konnektivität. Jeder In-Ear Kopfhörer ist mit modernsten Mikrofonen ausgestattet, die überarbeitet wurden, um eine herausragende Anrufqualität zu gewährleisten.
+- Die Sensoren zur Messung der Herzfrequenz leuchten über 100 Mal pro Sekunde auf, um den Puls in Echtzeit zu messen. Und die Powerbeats Pro 2 sind schweiß- und wasserabweisend mit IPX4-Zertifizierung, damit sie robust genug sind, um intensiven Trainingseinheiten bei Regen, Schnee und Hitze standzuhalten.
 - Der Adaptive EQ verwendet modernste Mikrofone, um zu messen, was du hörst und stimmt dann die Frequenzen deiner Musik auf dich ab. Das personalisierte 3D Audio mit dynamischem Headtracking liefert immersiven Sound mit klaren Höhen, satten Mitteltönen und kräftigen Bässen.
+- Lieferumfang: Powerbeats Pro 2 In-Ear Kopfhörer, Ladecase, Kurzanleitung, Garantiekarte. *USB-C zu USB-C Ladekabel nicht enthalten.
+- Der Ohrbügel wurde für phänomenale Flexibilität, Griffigkeit und Komfort mit einer Nickel-Titan-Legierung verstärkt. Das macht die neu aufgelegten Powerbeats Pro 2 um 20 % leichter als ihre Vorgänger. Ohreinsätze in fünf Größen sind im Lieferumfang enthalten, um personalisierten Komfort zu bieten.
+- Die Powerbeats Pro 2 sind die innovativsten Kopfhörer, die wir je entwickelt haben, mit sicher sitzenden Ohrbügeln, die an Ort und Stelle bleiben, während du Sport treibst. Sie wurden über 1.500 Stunden durch Sportler:innen getestet, um eine sichere, bequeme Passform für alle Ohrformen und Intensitätsstufen zu gewährleisten.
+- Durch die Knöpfe am Ohr, taktile Lautstärkeregler und Steuerung über die Stimme kannst du dich besser aufs Trainieren konzentrieren, ohne deinen Flow zu unterbrechen.
 - Für absolute Konzentration auf den Sport haben wir das leistungsstärkste Aktive Noise Cancelling (ANC), das wir je entwickelt haben, hinzugefügt, sowie den Transparenzmodus, damit du die Welt um dich herum hören kannst. So bekommst du das beste Hörerlebnis, egal, wo du trainierst.
+- Telefoniere, verwende FaceTime mit 3D Audio und aktiviere Siri mit Hilfe der branchenführenden erstklassigen Bluetooth Konnektivität. Jeder In-Ear Kopfhörer ist mit modernsten Mikrofonen ausgestattet, die überarbeitet wurden, um eine herausragende Anrufqualität zu gewährleisten.
+- Die Powerbeats Pro 2 liefern bis zu 45 Stunden Akkulaufzeit mit dem Ladecase, angetrieben durch die außerordentliche Effizienz des Apple H2 Chip. Das Case ist 33 % kleiner als sein Vorgänger und unser erstes Ladecase, das mit der kabellosen Qi Ladefunktion ausgestattet ist.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DT4WBD72{{</world>}}

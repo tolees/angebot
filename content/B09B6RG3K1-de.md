@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Skinny Fit Jeans schmiegt sich von der Hüfte bis zum Knöchel an Ihre Beine
 - Gürtelschlaufen
+- Skinny Fit Jeans schmiegt sich von der Hüfte bis zum Knöchel an Ihre Beine
 - Taschen vorn
 
 [🛒 Hier!!]({{< param buyurl >}})

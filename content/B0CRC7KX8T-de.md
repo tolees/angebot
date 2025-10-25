@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obbermaterial: 100% Rindsleder
+- Farbe: Dunkelgrün
 - Laufsohle: 100% EVA
 - Better Leather
-- Farbe: Dunkelgrün
-- Obbermaterial: 100% Rindsleder
 - Futter: 59 % Schweinsleder 41 % recyceltes Polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

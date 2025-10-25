@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innermaterial:N/A
 - Verschluss:Reißverschluss
 - Absatzform:Kein Absatz
 - Sohle:Gummi
+- Innermaterial:N/A
 - Obermaterial: Leder
 
 [🛒 Hier!!]({{< param buyurl >}})

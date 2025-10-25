@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit vollständigem Tastensatz, Hintergrundbeleuchtung, Fingerprintsensor und großem Trackpad für präzise Navigation und Steuerung
-- Kompaktes Tippen und Schreiben in einem – mit der Microsoft Surface Pro Signature Keyboard können Sie schnell und genau wie mit einer herkömmlichen Full-Size-Tastatur tippen und zusätzlich mit Microsoft Surface Slim Pen 2 vom natürlichen Schreiberlebnis auf dem Bildschirm profitieren (separat erhältlich)
 - Im geschlossenen Zustand wird der Bildschirm geschützt und der Akku geschont, ganz nach hinten gefaltet erhalten Sie ein Tablet
 - Arbeiten Sie, wie es Ihnen gefällt. Microsoft Surface Pro Signature Keyboard rastet sofort ein und bleibt sicher aufbewahrt, sodass Sie Ihren Stift und Ihre Tastatur immer griffbereit haben. Mit Microsoft Surface Pro 8 oder Microsoft Surface Pro X Kickstand verwenden, um einen vollständigen Laptop zu erhalten
+- Kompaktes Tippen und Schreiben in einem – mit der Microsoft Surface Pro Signature Keyboard können Sie schnell und genau wie mit einer herkömmlichen Full-Size-Tastatur tippen und zusätzlich mit Microsoft Surface Slim Pen 2 vom natürlichen Schreiberlebnis auf dem Bildschirm profitieren (separat erhältlich)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09F3MQHGD{{</world>}}

@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Noch spannendere Rennen: Schau dir auch unbedingt die anderen separat erhältlichen LEGO Speed Champions Spielsets mit originalgetreu nachgebildeten Flitzern an
-- Authentische Bugatti-Details: Der LEGO Bugatti Mini-Flitzer hat 5 runde Lufteinlässe an den Seiten, einzigartige Felgen, markante Scheinwerfer, einen hufeisenförmigen Kühlergrill, einen überhängenden Heckflügel und 4 Heckauspuffrohre
-- LEGO Bugatti Modell zum Ausstellen: Nach jeder Menge Spielspaß und vielen packenden Rennen mit dem Flitzer aus LEGO Steinen können Kinder das Modell im Regal oder auf dem Nachttisch ausstellen
-- Abmessungen: Der Bugatti Centodieci Hypersportwagen aus diesem 291-teiligen LEGO Set it 4 cm hoch, 15 cm lang und 7 cm breit
-- Bugatti-Spielzeugflitzer für Kinder: Der LEGO Speed Champions Bugatti Centodieci Hypersportwagen ist ein Spielzeug für Jungen und Mädchen ab 9 Jahren und lässt Sportwagenfans einen tollen Flitzer bauen, ausstellen und in Rennen schicken
 - Spielzeugautos zum Verschenken: Dieses Modell bietet ein faszinierendes Bau- und Spielerlebnis und ist eine tolle Geschenkidee für Kinder ab 9 Jahren sowie für erwachsene Modellautosammler
 - 1 Minifigur: Das Spielset beinhaltet eine Rennfahrer-Minifigur im Bugatti-Rennoverall, die Kinder ans Steuer setzen und in spannende Rennen schicken können
+- LEGO Bugatti Modell zum Ausstellen: Nach jeder Menge Spielspaß und vielen packenden Rennen mit dem Flitzer aus LEGO Steinen können Kinder das Modell im Regal oder auf dem Nachttisch ausstellen
+- Noch spannendere Rennen: Schau dir auch unbedingt die anderen separat erhältlichen LEGO Speed Champions Spielsets mit originalgetreu nachgebildeten Flitzern an
+- Authentische Bugatti-Details: Der LEGO Bugatti Mini-Flitzer hat 5 runde Lufteinlässe an den Seiten, einzigartige Felgen, markante Scheinwerfer, einen hufeisenförmigen Kühlergrill, einen überhängenden Heckflügel und 4 Heckauspuffrohre
+- Bugatti-Spielzeugflitzer für Kinder: Der LEGO Speed Champions Bugatti Centodieci Hypersportwagen ist ein Spielzeug für Jungen und Mädchen ab 9 Jahren und lässt Sportwagenfans einen tollen Flitzer bauen, ausstellen und in Rennen schicken
+- Abmessungen: Der Bugatti Centodieci Hypersportwagen aus diesem 291-teiligen LEGO Set it 4 cm hoch, 15 cm lang und 7 cm breit
 - Legendäre Fahrzeuge zum Spielen und Ausstellen: LEGO Speed Champions Bausets lassen Kinder und begeisterte Autofans Nachbildungen von einigen der berühmtesten Autos der Welt erschaffen
 
 [🛒 Hier!!]({{< param buyurl >}})

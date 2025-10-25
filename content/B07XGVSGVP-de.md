@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - PUMA Cat Logo in Brusthöhe rechts
 - Durch den Kauf von Baumwollprodukten von PUMA unterstützt du eine nachhaltige Baumwollproduktion. Erfahre mehr auf PUMA.COM/FOREVERBETTER
-- Polokragen mit zwei Knöpfen
 - Baumwolle und Elastan
+- Polokragen mit zwei Knöpfen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XGVSGVP{{</world>}}

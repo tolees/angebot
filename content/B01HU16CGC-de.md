@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Feinstes Gourmet-Gewürz-Set von Hallingers - in 12 Minigläsern luftdicht und wiederverschließbar, wiederbefüllbar und lange haltbar. Perfektes Gewürz-Geschenk für Mann und Frau!
-- Verbesserte Edition: Noch stabiler, noch edler! Nach wie vor: Nur erlesenste Rohstoffe werden verwendet, frei von Konservierungsstoffen, möglichst Naturbelassen, nach unseren Original-Rezepturen in der Manufaktur bereitet
-- In zwölf wiederverschließbaren (und auch wiederbefüllbaren) Minigläsern - damit besonders nachhaltig. Jedes Gefäß ist jetzt mit Namen, Zutaten, Nährwerten und Zubereitungshinweisen versehen und damit auch außerhalb des Gewürz-Sets lange nutzbar
-- Wir setzen auf erlesene, naturbelassene Rohstoffe, ohne Konservierungsstoffe, Geschmacksverstärker oder künstliche Farbstoffe. Unsere Produkte sind ein Genuss für Gourmets, perfekt zum Verschenken oder Selbstgenießen. ALLERGENE: Kann Spuren von Gluten und Nüssen enthalten. Enthält: Sellerie, Senf. --- Hinweis zu(r) Primärzutat(en): Gewürze nicht aus Bayern/DE stammend
 - Das perfekte Geschenk für Mama, Papa, Mann, Frau, Opa, Oma, Onkel, Tante – Für mehr Genuß und Spaß in der Küche und beim Kochen
+- Feinstes Gourmet-Gewürz-Set von Hallingers - in 12 Minigläsern luftdicht und wiederverschließbar, wiederbefüllbar und lange haltbar. Perfektes Gewürz-Geschenk für Mann und Frau!
+- In zwölf wiederverschließbaren (und auch wiederbefüllbaren) Minigläsern - damit besonders nachhaltig. Jedes Gefäß ist jetzt mit Namen, Zutaten, Nährwerten und Zubereitungshinweisen versehen und damit auch außerhalb des Gewürz-Sets lange nutzbar
+- Verbesserte Edition: Noch stabiler, noch edler! Nach wie vor: Nur erlesenste Rohstoffe werden verwendet, frei von Konservierungsstoffen, möglichst Naturbelassen, nach unseren Original-Rezepturen in der Manufaktur bereitet
+- Wir setzen auf erlesene, naturbelassene Rohstoffe, ohne Konservierungsstoffe, Geschmacksverstärker oder künstliche Farbstoffe. Unsere Produkte sind ein Genuss für Gourmets, perfekt zum Verschenken oder Selbstgenießen. ALLERGENE: Kann Spuren von Gluten und Nüssen enthalten. Enthält: Sellerie, Senf. --- Hinweis zu(r) Primärzutat(en): Gewürze nicht aus Bayern/DE stammend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01HU16CGC{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinder platzieren das enthaltene Hot Wheels Fahrzeug in der Polizeiwache und schlagen dann auf den Schnellstarter, um das Auto durch einen großen Looping in die Niederwerfungszone zu befördern.
 - Wenn der Dinosaurier besiegt umfällt, werden statt seiner zornigen Augen Kreuze angezeigt.
 - Die Basis der Strecke enthält Details im Design einer Polizeiwache, um kreatives Geschichtenerzählen zu fördern und lässt sich mit anderen Sets verbinden, damit Kinder ihre Hot Wheels City ausbauen können. (Zusätzliche Sets separat erhältlich.)
-- Enthält 1 Hot Wheels Fahrzeug im Maßstab 1:64. Tolles Geschenk für Kinder ab 4 Jahren.
+- Kinder platzieren das enthaltene Hot Wheels Fahrzeug in der Polizeiwache und schlagen dann auf den Schnellstarter, um das Auto durch einen großen Looping in die Niederwerfungszone zu befördern.
 - Durch das Maul eines riesigen T-Rex rasen, der Hot Wheels City fressen will. Genaues Timing ist wichtig, um den Dinosaurier auszuschalten und den Tag zu retten!
+- Enthält 1 Hot Wheels Fahrzeug im Maßstab 1:64. Tolles Geschenk für Kinder ab 4 Jahren.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B61SYRSZ{{</world>}}

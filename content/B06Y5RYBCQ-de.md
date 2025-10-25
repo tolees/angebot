@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang & Maße: 6 Getränke-Gläser, Maße pro Glas: 13 x 7,5 x 7,5 cm (HxBxT), Ø 6 cm, 232 g, 300 ml Nutzinhalt, 365 ml randvoll
 - Spülmaschinenfest: Die Trink-Gläser lassen sich komfortabel in der Spülmaschine reinigen und diese Trink-Becher aus Glas sind mit einem Schutzschild gegen Glaskorrosion ausgestattet, welcher für dauerhaften Glanz sorgt
 - Hohe Qualität: Unsere Teqton Produkte überzeugen durch eine größere Oberflächenhärte welches die Wassergläser besonders stabil und kratzfest macht und für eine dauerhafte Brillanz und eine ungetrübte Transparenz ist also gesorgt
 - Vielseitiges Glas-Set: Das Bar-Glas ist für den klassischen Whiskey on Ice ebenso geeignet, wie für alkoholfreie Getränke und sogar als Dessert-Gläser machen die Trink-Gläser eine gute Figur
+- Lieferumfang & Maße: 6 Getränke-Gläser, Maße pro Glas: 13 x 7,5 x 7,5 cm (HxBxT), Ø 6 cm, 232 g, 300 ml Nutzinhalt, 365 ml randvoll
 - Hochwertiges Design: Leonardo steht für feines und innovatives Design - das Gläser-Set aus der Serie Puccini ist im modernen Stil gehalten und überzeugt mit einer klaren Optik
 
 [🛒 Hier!!]({{< param buyurl >}})

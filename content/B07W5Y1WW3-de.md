@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hose
-- Herren
 - Reguläre Passform
+- Herren
+- Hose
 - Packungage die Größe: 6.8 L x 27.8 H x 21.4 W (cm
 - Erwachsener
 - Elastischer Bund und Kordelzug

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Leichte Schuhe
 - Breathable
 - Schnelles und einfaches Anziehen
-- Leichte Schuhe
 - Verschluss mit Schnürsenkeln und Reißverschluss, Herausnehmbare Innensohle
 
 [🛒 Hier!!]({{< param buyurl >}})

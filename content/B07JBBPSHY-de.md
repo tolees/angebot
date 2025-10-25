@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Über 50% eingespartes Material bei der Karton-Verpackung im Vergleich zum Vorgänger-Produkt bis 2021
 - Rezepturen ohne Mikroplastik
+- FSC zertifiziertes Papier aus verantwortungsvollen Quellen
 - Klimaneutralisierte Verpackung
 - Inhalt: 1 x Aroma-Pflegedusche Gute Laune 75 ml, 1 x Aroma-Pflegedusche Lebensfreude 75 ml, 1 x Cremedusche Hautzarte Verwöhnung 75 ml
-- FSC zertifiziertes Papier aus verantwortungsvollen Quellen
+- Über 50% eingespartes Material bei der Karton-Verpackung im Vergleich zum Vorgänger-Produkt bis 2021
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07JBBPSHY{{</world>}}

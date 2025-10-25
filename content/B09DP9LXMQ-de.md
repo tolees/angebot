@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zieht schnell ein, hinterlässt keine Fettschicht
-- Verfügt über einen männlichen Duft
-- Geeignet zur Gesichts-, Hand- und Körperpflege
 - Pflegt und befeuchtet die Haut
+- Zieht schnell ein, hinterlässt keine Fettschicht
+- Geeignet zur Gesichts-, Hand- und Körperpflege
+- Verfügt über einen männlichen Duft
 - Verhindert Austrocknung der Haut
 
 [🛒 Hier!!]({{< param buyurl >}})

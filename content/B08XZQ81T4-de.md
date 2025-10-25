@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hohe Qualität
-- Ideal als Geschenk
 - Ideale Unterstützung für Spiel und Phantasie
+- Ideal als Geschenk
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08XZQ81T4{{</world>}}

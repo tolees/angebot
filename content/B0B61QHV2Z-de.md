@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Polyurethan
 - Sohle: Gummi
+- Innenmaterial: Polyurethan
 - Verschluss: Schnürung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

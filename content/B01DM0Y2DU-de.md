@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Touch-Proof-System verhindert das Abfärben auf die Kleidung
-- Pumpspender für eine praktische, saubere Anwendung
 - Lsf 20
 - Spezielle Formel garantiert 24 Stunden Halt
+- Pumpspender für eine praktische, saubere Anwendung
+- Das Touch-Proof-System verhindert das Abfärben auf die Kleidung
 - Feuchtigkeitsspendende Formel mit halbmattem Finish und LSF 20
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

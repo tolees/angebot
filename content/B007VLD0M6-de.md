@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- inklusive Klarsichtbox
 - 3-er Set
+- inklusive Klarsichtbox
 - Karabinerhaken aus eloxiertem Aluminium
 - TÜV geprüft
 

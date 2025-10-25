@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SCHÖNE GESCHENKIDEE: Ob als Weihnachts-, Hochzeits-, Jubiläum-, Geburtstagsgeschenk oder als Aufmerksamkeit für die Liebsten, die qualitativ hochwertige Vase zaubert jedem ein Lächeln ins Gesicht
 - Mix & Match: Die Vase ist dank moderner Formgebung mit allen Teilen der Rose Garden Kollektion von Villeroy & Boch kombinierbar
 - LIEFERUMFANG: 1 x Rose Garden Home Vase (20 cm), Material: Kristallglas, Farbe: Rosa (Artikelnummer: 1042885410)
+- SCHÖNE GESCHENKIDEE: Ob als Weihnachts-, Hochzeits-, Jubiläum-, Geburtstagsgeschenk oder als Aufmerksamkeit für die Liebsten, die qualitativ hochwertige Vase zaubert jedem ein Lächeln ins Gesicht
 - EINE VASE, VIELE MÖGLICHKEITEN: Die Design Vase verleiht jeder Wohnung einen frischen und romantischen Touch und macht jeden Blumenstrauß, Pampasgras, Trockenblumen zum Hingucker
 - HÖCHSTE QUALITÄT: Die Vase aus brillanten Kristallglas erfüllt immer ihren Zweck – ob als Eyecatcher für den gedeckten Wohnzimmertisch oder einfach nur als neue Deko fürs Schlafzimmer
 

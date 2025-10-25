@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Leder: Smooth Leather
-- 11.023622036 inches
 - Verschluss: Polyurethan
+- 11.023622036 inches
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09ZVM2MZS{{</world>}}

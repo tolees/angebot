@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Textil
-- Schuhweite: Mittel
-- Verschluss: Gummi
-- Absatzform: Flach
 - Obermaterial: Textil
+- Absatzform: Flach
+- Verschluss: Gummi
+- Schuhweite: Mittel
+- Innenmaterial: Textil
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B093PNRBXQ{{</world>}}

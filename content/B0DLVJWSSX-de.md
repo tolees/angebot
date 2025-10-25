@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ideal, um jedem Raum einen Hauch von Star-Wars-Magie zu verleihen
+- Hochwertige Details, die ikonische Star-Wars-Funktionen einfangen
 - Ideal für Fans jeden Alters und Sammler
 - Display mit 32 Minifiguren aus Vinyl. Diese sind jeweils ca. 2 cm groß und in Blind Boxen verpackt. Man sieht also nicht, welche Figur in der jeweiligen Verpackung steckt.
-- Hochwertige Details, die ikonische Star-Wars-Funktionen einfangen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DLVJWSSX{{</world>}}

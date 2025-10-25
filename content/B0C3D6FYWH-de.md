@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regulär geschnitten
-- AEROREADY
 - 100 % recycelter Polyester (Doppelstrick)
 - Seitenschlitze am Saum
+- Regulär geschnitten
+- AEROREADY
 - Reißverschlusstaschen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

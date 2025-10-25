@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Product made of biopolymer created using raw materials from renewable sources of non-GMO agricultural origin
-- Made in Italy
 - Design Anna Castelli Ferrieri, 2019
 - Weight: 4,05 kg
 - Dimensions: H 58 x diameter 32 cm
+- Made in Italy
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07S23NS1M{{</world>}}

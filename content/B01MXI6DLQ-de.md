@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Flexibilität und Bodenhaftung
-- Außensohle mit Flex Kerben für gute Bewegungsfreiheit
 - Weiche TPU Riemen
+- Außensohle mit Flex Kerben für gute Bewegungsfreiheit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01MXI6DLQ{{</world>}}

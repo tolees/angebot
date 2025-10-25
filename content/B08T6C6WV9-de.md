@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In diesem genreübergreifenden Plattformer-Adventure mit seiner puren Koop-Ausrichtung ist nur eins gewiss: Zusammen sind wir besser.
 - Lade mit Remote Play Together kostenlos einen Freund ein und erlebt als das getrennte Paar Cody und May chaotisch-vergnügliche Herausforderungen.
 - Begib dich in It Takes Two auf die verrückteste Reise deines Lebens.
+- In diesem genreübergreifenden Plattformer-Adventure mit seiner puren Koop-Ausrichtung ist nur eins gewiss: Zusammen sind wir besser.
 - Ausschließlich Koop (Couch-Koop mit Splitscreen-Option und online)
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- VARIABEL: sicheres Arretierungssystem und individuell einstellbare Füße - damit auch für unebene Flächen geeignet
 - ABSOLUTE PROFIQUALITÄT: extra starke Metallbeine mit einer Traglast von bis zu 1.360 kg, individuell einstellbare Füße, inklusive austauschbarer Holzauflage, 25 Jahre Garantie
+- MASSE: 71 x 6,9 x 82 cm
 - ANWENDUNGSBEREICHE: Keller, Garage, Werkstatt, Hobbyraum
 - NACHHALTIG: inklusive austauschbarem Kantholz als stabile Auflage
-- MASSE: 71 x 6,9 x 82 cm
-- VARIABEL: sicheres Arretierungssystem und individuell einstellbare Füße - damit auch für unebene Flächen geeignet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07B6M4GM5{{</world>}}

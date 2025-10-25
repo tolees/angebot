@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- für Handbetätigung
-- Innenvierkant nach DIN 3120/ ISO 1174 mit Kugelfangrille
-- FlankTraction-Profil
 - 6-kant
+- FlankTraction-Profil
+- Innenvierkant nach DIN 3120/ ISO 1174 mit Kugelfangrille
+- für Handbetätigung
 - nach DIN 3124/ ISO 2725
 
 [🛒 Hier!!]({{< param buyurl >}})

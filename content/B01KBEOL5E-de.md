@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entwickelt für VESA-Größen von 100 x 100 mm bis 400 x 400 mm.
-- Entworfen für Beton-, Ziegel- und Holzbolzenwände (Einzelbolzen).
-- Wichtig: Sieh dir das Video an und erfahre mehr über die unten aufgeführten Details zu „Entworfen für ...“!
-- Komfortable Sicht mit Neigungsbereich von +10 ° bis -5 °.
 - Gelenkbereich von 6,6 cm bis 41,4 cm; 180 Grad drehbar.
 - Geeignet für Fernseher mit bis zu 36,3 kg und Bildschirmgröße von 66 cm bis 140 cm (26 bis 55 Zoll).
+- Wichtig: Sieh dir das Video an und erfahre mehr über die unten aufgeführten Details zu „Entworfen für ...“!
+- Entworfen für Beton-, Ziegel- und Holzbolzenwände (Einzelbolzen).
+- Entwickelt für VESA-Größen von 100 x 100 mm bis 400 x 400 mm.
+- Komfortable Sicht mit Neigungsbereich von +10 ° bis -5 °.
 - Montagematerial, Wasserwaage, Montageschablone und Bedienungsanleitung (eventuell nicht in deutscher Sprache) im Lieferumfang enthalten.
 
 [🛒 Hier!!]({{< param buyurl >}})

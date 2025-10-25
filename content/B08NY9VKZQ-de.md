@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Auf die Nüsse! - das knackige Würfelspiel sorgt für Stimmung am Spieltisch!
-- Wer erreicht als Erster 50 Punkte bei diesem rasanten Zockerspiel für Jung und Alt?
-- Das wilde Würfelwettrennen ist in einer praktischen und hochwertigen Metall-Schachtel verpackt - ideal zur Aufbewahrung, auf Reisen, für unterwegs, zum Verschenken. Das Spiel passt in die Hosentasche und ist immer mit dabei!
 - Sammle was das Zeug hält: gewürfelte Nüsse zählen als Punkt - aber vorsicht vor den Eichhörnchen, Tannenhähern - und den Hunde-Würfeln deiner Mitspieler. Sie alle bringen turbulente Mechaniken mit ins Spiel.
 - Spieldauer: ca. 15 Minuten. Spieleranzahl: 2 - 4. Empfohlenes Alter: ab 8 Jahren
+- Das wilde Würfelwettrennen ist in einer praktischen und hochwertigen Metall-Schachtel verpackt - ideal zur Aufbewahrung, auf Reisen, für unterwegs, zum Verschenken. Das Spiel passt in die Hosentasche und ist immer mit dabei!
+- Wer erreicht als Erster 50 Punkte bei diesem rasanten Zockerspiel für Jung und Alt?
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08NY9VKZQ{{</world>}}

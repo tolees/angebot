@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - In der Deluxe Edition ist zusätzlich zum Spiel ein digitaler Soundtrack zum Download und ein Mini-Art-Book enthalten
-- Unbeschwertes Abenteuer: Erlebe Spaß und schließe neue Freundschaften bei der Suche nach Ash
 - Spiele es auf deine Art: Stelle ein Team von Verbündeten aus über 50 Einheitentypen zusammen und schicke sie in die Schlacht!
+- Unbeschwertes Abenteuer: Erlebe Spaß und schließe neue Freundschaften bei der Suche nach Ash
 - Phantom Kontrolle: Nimm an taktischen, rundenbasierten RPG-Kämpfen teil und nutze das Confine-System
 
 [🛒 Hier!!]({{< param buyurl >}})

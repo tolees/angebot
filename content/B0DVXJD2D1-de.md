@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 200 ml Gel
 - PZN-19362705
+- 200 ml Gel
 - freiverkäuflich
 
 [🛒 Hier!!]({{< param buyurl >}})

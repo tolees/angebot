@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Midnight Black, Android 13, LTE
-- Hauptkamera: 100 MP + 2 MP
 - Display: 16,9 cm (6,67 Zoll)
+- Hauptkamera: 100 MP + 2 MP
+- Midnight Black, Android 13, LTE
 - Frontkamera: 16 MP
 - Prozessor: Dimensity 6080
 

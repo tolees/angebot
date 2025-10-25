@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Elastikriemen für bequeme Passform
-- Laufsohle/Eigenschaften: TPU-Laufsohle mit Contact Earth-Technologie für hohe Abriebfestigkeit
-- Farbe: Schwarz
 - Obermaterial: Leder (Rindsleder)
 - Rundumnaht für hohe Langlebigkeit
+- Farbe: Schwarz
+- Laufsohle/Eigenschaften: TPU-Laufsohle mit Contact Earth-Technologie für hohe Abriebfestigkeit
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0038OMGW0{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Aufgesticktes Logo
-- Normale Passform
-- Absolute Bewegungsfreiheit
 - Einfache Passform und einen modernen Look
+- Absolute Bewegungsfreiheit
+- Normale Passform
 - Material-Prozentangaben können variieren. Genaue Angaben findest du auf dem Label
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

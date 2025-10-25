@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Pendlerfunktion: Mit Dauerlicht durch die Dunkelheit. Haltet beide Tasten 10 Sekunden gedückt und die Dauerlichtfunktion ist aktiv. Der Clou bei der Funktion ist die automatische Abschlatung nach 5 Minuten wenn der Computer kein Signal bekommt. Somit geht euch nie die Energie aus.
-- 4 kraftvolle Farben: Der Neue PROTOS kommt in grün, rot blau sowie klassisch schwarz daher. Ihr könnt also euer Bike mit einem passen PROTOS personalisieren.
-- 2 Tasten 13 Funktionen: Hier ist für jeden was dabei: Geschwindigkeit (akt. / durchschn. /max), Geschwindigkeitsvergleich, Fahrzeit und Fahrzeit total, Distanz und Gesamtkilometer, Licht und Licht-Pendlerfunktion, kcal (aktuell und gesamt), Auto Start/Stop, Uhrzeit 12/24, Batteriewechsel Anzeige
-- 4 Zeilen Display: Mit dem großen und sehr gut ablesbaren 4 Zeilen Display bekommt ihr genau die Informationen die Ihr braucht.
 - schneller Reset: Interessant für alle Verleiher. Haltet die linke Taste für 10 Sekunden gdrückt und das Gerät ist fresh und ready für den nächsten Biker.
 - Frisches Design: Durch sein echt Silikonband an der Seite bekommt der PROTOS ein frisches und mordernes Design. Das Silikonband ist aber nicht nur stylisch sondern bietet euch einen zusätzlichen Schutz bei einem Sturz.
+- 2 Tasten 13 Funktionen: Hier ist für jeden was dabei: Geschwindigkeit (akt. / durchschn. /max), Geschwindigkeitsvergleich, Fahrzeit und Fahrzeit total, Distanz und Gesamtkilometer, Licht und Licht-Pendlerfunktion, kcal (aktuell und gesamt), Auto Start/Stop, Uhrzeit 12/24, Batteriewechsel Anzeige
+- Pendlerfunktion: Mit Dauerlicht durch die Dunkelheit. Haltet beide Tasten 10 Sekunden gedückt und die Dauerlichtfunktion ist aktiv. Der Clou bei der Funktion ist die automatische Abschlatung nach 5 Minuten wenn der Computer kein Signal bekommt. Somit geht euch nie die Energie aus.
+- 4 kraftvolle Farben: Der Neue PROTOS kommt in grün, rot blau sowie klassisch schwarz daher. Ihr könnt also euer Bike mit einem passen PROTOS personalisieren.
+- 4 Zeilen Display: Mit dem großen und sehr gut ablesbaren 4 Zeilen Display bekommt ihr genau die Informationen die Ihr braucht.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0845B7CWB{{</world>}}

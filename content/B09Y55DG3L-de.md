@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verstellbarer Standfuß – Einfaches Ändern der Position vom Monitor für maximale Ergonomie.
 - 32 Zoll Rapid-IPS-Panel - 1 ms schnelle GtG-Reaktionszeit, optimiert Bildschirmfarben und Helligkeit.
 - HDMI 2.1 - 4K 120Hz mit HDMI-Anschluss und somit auch perfekt für Konsolen geeignet. Bandbreiten von bis zu 48Gb.
+- Verstellbarer Standfuß – Einfaches Ändern der Position vom Monitor für maximale Ergonomie.
 - 4K UHD Auflösung - Spiele in vollster Schärfe und mehr Details.
 - 160Hz Bildwiederholrate – Schnelleres Reagieren mit flüssigeren Bildern.
 

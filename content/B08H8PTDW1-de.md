@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfache Bedienung von unterwegs: Per App können Sie individuelle Heizprofile für bspw. Küche, Kinder-, Wohnzimmer und Bad erstellen und den intelligenten Temperaturregler von überall in Echtzeit bedienen.
-- Optimales Smart-Home Zubehör: Mit dem Thermostat steuern Sie die Raumtemperatur bequem über jedes 2,4 GHz WLAN-Netzwerk. Der mit Alexa kompatible Heizungsregler ist ohne zusätzliches Gateway in Ihr Smarthome integrierbar.
 - Heizkosten sparen: Die Urlaubsfunktion und die Fenster-offen-Erkennung ermöglichen eine automatische Regulierung und somit ein besonders energieeffizientes Heizen, womit Sie bis zu 30% Heizkosten sparen können.
 - Lieferumfang: Eurotronic Comet WiFi 2021 Energiesparregler, Kurzbedienungsanleitung, 2 AA Batterien, 3 Kunststoff-Adapter (Danfoss RA, RAV, RAVL) - Farbe: Weiß
+- Optimales Smart-Home Zubehör: Mit dem Thermostat steuern Sie die Raumtemperatur bequem über jedes 2,4 GHz WLAN-Netzwerk. Der mit Alexa kompatible Heizungsregler ist ohne zusätzliches Gateway in Ihr Smarthome integrierbar.
 - Modernes Design: Der Heizungsregler kommt mit LED-Anzeige und Touch-Sensortasten am Gerät zur manuellen Steuerung. Das Thermostat passt auf fast alle Heizkörperventile und läuft besonders geräuscharm.﻿
 
 [🛒 Hier!!]({{< param buyurl >}})

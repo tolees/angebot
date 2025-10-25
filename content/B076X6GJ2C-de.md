@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
 - Obermaterial: Synthetik
+- Sohle: Gummi
 - Absatzform: Flach
 - Innenmaterial: Synthetik
 

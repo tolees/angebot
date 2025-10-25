@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LeichteLeichte
 - 14.4488188829 inches
-- Passform: Schmal
-- Schuhweite: Mittel
-- Verschluss: Gummi
+- LeichteLeichte
 - Leder: Kein Leder
+- Verschluss: Gummi
+- Schuhweite: Mittel
+- Passform: Schmal
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0983LYCRN{{</world>}}

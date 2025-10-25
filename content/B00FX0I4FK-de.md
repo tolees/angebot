@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- rutschfeste und flexible Gummisohle
 - aus der innovativen ANTISTRESS-Kollektion
+- rutschfeste und flexible Gummisohle
 - Innenfutter aus Leder und Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfache Handhabung
-- Markendetails
 - Material in Profiqualität
+- Markendetails
 - Lieferumfang: 1 Stück
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

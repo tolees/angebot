@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Farbe: Dunkelblau
 - Sohle: 51% recyceltes EVA - 49% EVA
-- Better Outsoles,Natural Textiles
 - Obermaterial: 64 % recycelte Baumwolle 36 % Rindsleder
+- Better Outsoles,Natural Textiles
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8KB2BVC{{</world>}}

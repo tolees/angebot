@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Herausnehmbare Innensohle
-- Antibakterielle Innensohle
 - Patentierte Systeme Geox garantieren die Atmungsaktivität der Sohle und das Wohlbefinden der Füße
 - Einfach zu tragen für einzigartigen Komfort
+- Antibakterielle Innensohle
 - Schuhe, die optimal dämpfen und vor Stößen und Belastungen schützen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

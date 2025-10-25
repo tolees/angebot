@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sparpack mit 10 Päckchen Hörgerätebatterien
-- Durchmesser: 5,8 mm
 - Kennziffer: 10
+- Durchmesser: 5,8 mm
 - Höhe: 3,6 mm
+- Sparpack mit 10 Päckchen Hörgerätebatterien
 - Farbcode: Gelb
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - in angenehm weicher Single-Jersey-Qualität // erhältlich auch in besonderen Größen
+- aus der SCHIESSER-Serie ""Dark Sapphire""
 - Oberteil mit Blockringeln in Weiß und Dunkelblau
 - mit bequemen, dunkelblauen Bündchen an den Arm-, Saum- und Beinabschlüssen
-- aus der SCHIESSER-Serie ""Dark Sapphire""
 - V-Ausschnitt mit uni-dunkelblauem Halsrand
 
 [🛒 Hier!!]({{< param buyurl >}})

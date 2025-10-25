@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Puma Wordmark auf der Schuhzunge
 - Niedriger Schuh
-- EVA-Zwischensohle für maximalen Tragekomfort
+- Puma Wordmark auf der Schuhzunge
 - Puma Formstrip an der Seite
+- EVA-Zwischensohle für maximalen Tragekomfort
 - Außensohle aus abriebfestem Gummi für Grip
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

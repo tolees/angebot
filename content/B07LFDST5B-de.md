@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Doppelpack
 - Levis Logo auf der Brust
+- Doppelpack
 - T-Shirt aus weicher Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})

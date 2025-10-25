@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - HOCHWERTIGE QUALITÄT: Die weißen Tassen aus Premium Porzellan sind Made in Germany, Spülmaschinenfest und mikrowellengeeignet
-- ERGONOMISCHER GRIFF: Leicht zu halten und zu transportieren, perfekt für heiße - der elegante Henkel ermöglicht ein einfaches und stilvolles Servieren diverser Heißgetränke
 - LIEFERUMFANG: 1x vivo by Villeroy & Boch Basic White Tassen Set für 6 Personen, Inhalt: 6x Kaffeetasse mit Henkel, Füllmenge: 320 ml brutto und 260 ml netto, Gewicht: 1,236 kg, Material: Premium Porzellan, Farbe: weiß (Art.-Nr. 19-5277-7700)
 - PRAKTISCH & SCHÖN: Die Tassen sind auch für die Gastronomie geeignet dank der handlichen Form sowie den stoß- und schlagfesten Kanten - ergänzt das Sortiment des Basic White-Geschirrs perfekt
+- ERGONOMISCHER GRIFF: Leicht zu halten und zu transportieren, perfekt für heiße - der elegante Henkel ermöglicht ein einfaches und stilvolles Servieren diverser Heißgetränke
 - TASSEN-SET: Moderne Kaffeetassen mit Henkel für den stilvollen Genuss von leckeren Kaffeegetränken, ideal für den Alltag und besondere Anlässe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

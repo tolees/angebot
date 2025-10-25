@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sprengung: 9 mm
+- Gummizonen für bessere Traktion
 - Oberflächenart: Straßenlauf
 - Empfohlen für: neutrale Pronation
-- Sprengung: 9 mm
 - Mit Schnürung
-- Gummizonen für bessere Traktion
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKJ7QGWB{{</world>}}

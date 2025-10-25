@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NEUE KLINGENBESCHICHTUNG: Entwickelt, um Hautirritationen zu reduzieren
 - VERBESSERTER GLEITSTREIFEN: Verfügt über einen verbesserten Gleitstreifen für ein sanftes Gleiten (*im Vergleich zu Mach3 Standard)
 - 1 Ersatzklinge = 15 Rasuren (bei 3 Rasuren pro Woche)
+- NEUE KLINGENBESCHICHTUNG: Entwickelt, um Hautirritationen zu reduzieren
 - PASST AUF ALLE GILLETTE MACH3 RASIERER
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

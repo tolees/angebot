@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmale Passform
 - Mesh-Einsätze am Rücken gewährleisten Atmungsaktivität
+- Schmale Passform
 - Die Dri-FIT-Technologie sorgt für trockenen Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss : Haken- und Ösenverschluss mit Reißverschluss
 - Passform : Slim Fit
+- Verschluss : Haken- und Ösenverschluss mit Reißverschluss
 - Details : Gürtelschlaufen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

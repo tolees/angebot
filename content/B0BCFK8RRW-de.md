@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Lust auf eine neue Herausforderung? WOODEN Puzzles das sind Holzpuzzles mit stabilen, unregelmäßig geformten Puzzleteilen für Erwachsene und für Kinder ab 10 Jahren
-- 500 Teile WOODEN Puzzle: rechteckiges Format, ca. 40 x 27 cm, inklusive 40 Whimsies. Für Erwachsene und Kinder ab 14 Jahren
-- Extra Puzzlespaß mit den Whimsies: In jedem Puzzle verstecken sich kleine Holzfiguren, die thematisch passend zum Puzzlemotiv gestaltet sind
-- Nachhaltigkeit durch plastikreduzierte Verpackung
 - 150 Teile WOODEN Puzzle, konturgestanzt, ca. 27 x 20 cm, inklusive 15 Whimsies
+- Nachhaltigkeit durch plastikreduzierte Verpackung
+- Extra Puzzlespaß mit den Whimsies: In jedem Puzzle verstecken sich kleine Holzfiguren, die thematisch passend zum Puzzlemotiv gestaltet sind
+- 500 Teile WOODEN Puzzle: rechteckiges Format, ca. 40 x 27 cm, inklusive 40 Whimsies. Für Erwachsene und Kinder ab 14 Jahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BCFK8RRW{{</world>}}

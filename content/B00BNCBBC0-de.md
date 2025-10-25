@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Platz für ein Namensschild vorhanden.
 - Kommt mit verstellbarem Schultergurt.
+- Platz für ein Namensschild vorhanden.
 - Passend für k&m 10065 und 10062 Notenständer
 - Geeignet für Notenständer, Rednerpulte und DJ-Kabinen
 - Doppeltes LED-Licht zum Anklippen

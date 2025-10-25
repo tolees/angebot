@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Alkoholfreie Erfrischung für den ganzen Tag! Durch Verzicht auf künstliche Zusatzstoffe ist Gösser Natur Radler Alkoholfrei ein einzigartiger Durstlöscher mit harmonisch-natürlichem Geschmack.
-- Gösser Natur Radler Alkoholfrei - vollmundiges Alkoholfreies Gösser Bier und natürlicher Zitronensaft stehen für Radler Genuss mit natürlicher Trübung.
 - 0, 5l Einweg Dose - Die perfekte Größe für zu Hause oder unterwegs. Eiskalt genießen.
+- Gösser Natur Radler Alkoholfrei - vollmundiges Alkoholfreies Gösser Bier und natürlicher Zitronensaft stehen für Radler Genuss mit natürlicher Trübung.
 - Das ideale Geschenk für Freunde
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

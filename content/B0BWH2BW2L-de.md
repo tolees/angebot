@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfach zu reinigen und schnelltrocknend
-- Besonders atmungsaktives Design
 - Kippbare Fersenriemen für einen sicheren Sitz
+- Besonders atmungsaktives Design
 - Leicht, wasserfreundlich und schwimmfähig
 - Leicht und angenehm zu tragen
 

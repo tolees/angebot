@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dartscheibe
-- PLAYMOBIL 71165 Dartspieler
+- Playmobil Dartpfeile
 - Ein Vintage-Spieler
-- Playmobil Dartpfeile
-- Dartscheibe
-- Playmobil Dartpfeile
 - Playmobil 71165 Dartspieler
 - Ein Vintage-Spieler
+- PLAYMOBIL 71165 Dartspieler
+- Dartscheibe
+- Playmobil Dartpfeile
+- Dartscheibe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BKQRLJYV{{</world>}}

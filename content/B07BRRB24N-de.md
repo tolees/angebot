@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2,5 m langes abnehmbares USB-Kabel
-- Spezialedition Yoshi-Design
 - Controller für die Nintendo Switch im traditionellen Stil
+- Spezialedition Yoshi-Design
 - Soft-Touch-Oberfläche
+- 2,5 m langes abnehmbares USB-Kabel
 - Offiziell von Nintendo lizenziert
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ultra schlanker Formfaktor für maximale Mobilität und ein besonders geringes Gewicht von nur 1.350 g
-- Leistungsstarker Intel Core Ultra 7 Prozessor mit integrierte Intel Arc Grafik für starke Darstellungsqualität
-- Der integrierte Akku mit großer Kapazität (77 Wh) ermöglicht bis zu 21,5 Stunden Videowiedergabe mit einer Ladung (Helligkeit 150 cd/m2 / WLAN aus / Audioausgabe über Kopfhörer)
-- Entspiegeltes IPS-Display mit nativer Auflösung von 2.560 x 1.600 Pixeln und 99% DCI-P3
 - 32 GByte LPDDR5X Arbeitspeicher (Dual Channel, 7.467 MHz) und 2 TByte SSD (NVME)
+- Der integrierte Akku mit großer Kapazität (77 Wh) ermöglicht bis zu 21,5 Stunden Videowiedergabe mit einer Ladung (Helligkeit 150 cd/m2 / WLAN aus / Audioausgabe über Kopfhörer)
+- Ultra schlanker Formfaktor für maximale Mobilität und ein besonders geringes Gewicht von nur 1.350 g
+- Entspiegeltes IPS-Display mit nativer Auflösung von 2.560 x 1.600 Pixeln und 99% DCI-P3
+- Leistungsstarker Intel Core Ultra 7 Prozessor mit integrierte Intel Arc Grafik für starke Darstellungsqualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CWHB6TVV{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Produkte
 - Marke: XIAOMI
 - MZB0FM7EU
+- Hochwertige Produkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CP17PN8H{{</world>}}

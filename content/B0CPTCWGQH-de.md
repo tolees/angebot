@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lenke eine dynamische Geschichte, die sich mit deinen Entscheidungen entwickelt.
 - Stelle dich deinen Gegnern in einem aufregenden, völlig neuen Kampfsystem.
-- Japan, 1863. Im Chaos eines geteilten Landes muss ein herrenloser Samurai sein Schicksal in die Hand nehmen und den Verlauf der Geschichte lenken.
 - Erkunde eine historische Welt, in der Ost und West zusammenprallen.
+- Japan, 1863. Im Chaos eines geteilten Landes muss ein herrenloser Samurai sein Schicksal in die Hand nehmen und den Verlauf der Geschichte lenken.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CPTCWGQH{{</world>}}

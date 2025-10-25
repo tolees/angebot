@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ohne Verschuss - Slip on Variante
-- Innenschuh komplette aus Textil
 - Obermaterial Canvas
+- Innenschuh komplette aus Textil
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0069MDSD4{{</world>}}

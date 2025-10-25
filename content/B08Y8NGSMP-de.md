@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zwei Mini-X-Line Mixed Sets mit Schrauberbits und Spiralbohrern, kombiniert mit einem nützlichen kostenlosen Bosch Handschrauber. Für alle Bohr- und Schraubarbeiten
-- 16 SDBs, L = 25 mm, PH 1/2/3, PZ 1/2/3, S 4,5/5,5/8,0, HEX 4/5/6, T 15/20/25/30; 8 Schrauberbits, L = 50 mm, PH 1/2/3, S 4,5/5,5, T 15/20/25; 1 Universalhalter, magnetisch; 1x Handschraubendreher
-- Das 15-teilige Mixed Set Mini-X-Line ist ideal für Bohrarbeiten in Mauerwerk, Holz und Metall geeignet. Das 25-teilige Schrauberbit-Set Mini-X-Line eignet sich ideal zum Schrauben. Es handelt sich um ein Basis-Set aus zwei verschiedenen Längen von Schrauberbits für die meisten gängigen Schraubentypen
 - 5 Metallbohrer Ø 3/4/5/6/8 mm; 5 Mauerwerkbohrer Ø 3/4/5/6/8 mm; 5 Holzbohrer Ø 3/4/5/6/8 mm
+- 16 SDBs, L = 25 mm, PH 1/2/3, PZ 1/2/3, S 4,5/5,5/8,0, HEX 4/5/6, T 15/20/25/30; 8 Schrauberbits, L = 50 mm, PH 1/2/3, S 4,5/5,5, T 15/20/25; 1 Universalhalter, magnetisch; 1x Handschraubendreher
 - Lieferumfang: 5 Metallbohrer Ø 3/4/5/6/8 mm; 5 Mauerwerkbohrer Ø 3/4/5/6/8 mm; 5 Holzbohrer Ø 3/4/5/6/8 mm, 16 SDBs, L = 25 mm, PH 1/2/3, PZ 1/2/3, S 4,5/5,5/8,0, HEX 4/5/6, T 15/20/25/30; 8 Schrauberbits, L = 50 mm, PH 1/2/3, S 4,5/5,5, T 15/20/25; 1 Universalhalter, magnetisch; 1x Handschraubendreher,
+- Das 15-teilige Mixed Set Mini-X-Line ist ideal für Bohrarbeiten in Mauerwerk, Holz und Metall geeignet. Das 25-teilige Schrauberbit-Set Mini-X-Line eignet sich ideal zum Schrauben. Es handelt sich um ein Basis-Set aus zwei verschiedenen Längen von Schrauberbits für die meisten gängigen Schraubentypen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08Y8NGSMP{{</world>}}

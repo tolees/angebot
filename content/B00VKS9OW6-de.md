@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Jethro
 - Aqualung
 - (Steven
-- Jethro
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00VKS9OW6{{</world>}}

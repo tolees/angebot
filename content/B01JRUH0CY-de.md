@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Benötigte Treiber und Software sowie die Anleitung werden vollständig auf der mitgelieferten CD bereitgestellt oder können Sie das E-Handbuch von unserer offiziellen ELEGOO-Website oder von der Rubrik "Produktleitfäden und Dokumente" in der Mitte dieser Seite herunterladen.
-- Dieser TFT Touch Screen ist 100 % kompatibel mit Raspberry Pi 3 2 Modell B B+ A+ A, die ideale Alternativlösung für einen HDMI-Monitor.
-- Der 3.5" LCD Bildschirm verfügt über GPIO-Anschlüsse. Die Installation dieses Display an Ihrem Raspberry Pi2 oder Pi3 fällt schnell und einfach auf.
 - Tolles Preis-Leistung-Verhältnis: Das Display zu einem kleinen Preis hat eine Auflösung von 480x320 welche vollkommend ausreichend für kleine Projekte ist.
+- Benötigte Treiber und Software sowie die Anleitung werden vollständig auf der mitgelieferten CD bereitgestellt oder können Sie das E-Handbuch von unserer offiziellen ELEGOO-Website oder von der Rubrik "Produktleitfäden und Dokumente" in der Mitte dieser Seite herunterladen.
+- Der 3.5" LCD Bildschirm verfügt über GPIO-Anschlüsse. Die Installation dieses Display an Ihrem Raspberry Pi2 oder Pi3 fällt schnell und einfach auf.
+- Dieser TFT Touch Screen ist 100 % kompatibel mit Raspberry Pi 3 2 Modell B B+ A+ A, die ideale Alternativlösung für einen HDMI-Monitor.
 - Touch Display von Guter Verarbeitung: guter Klang, gute Farben und Kontrast; Touch reagiert gut mit dem mitgelieferten Stift und Texte waren gut lesbar (Bildrate: 5 - 12 FPS).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

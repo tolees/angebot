@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Baumwolle
 - elastisch
 - Pullover
-- Baumwolle
 - bequem
 - weich
 

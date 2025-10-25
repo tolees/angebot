@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 🌻 SUPER KALORIENARM - nur 109 Kalorien pro Portion!
 - 🌻 ÜBER 25G pures Protein pro Portion
 - 🌻 Milchfrei, laktosefrei, glutenfrei und weizenfrei
 - 🌻 FETTARM - nur 0,2g pro Portion
-- 🌻 SUPER KALORIENARM - nur 109 Kalorien pro Portion!
 - 🌻 100% PFLANZLICHER PROTEINSHAKE: nachhaltig und ethisch einwandfrei
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Muster: Einfarbig
 - Leder: smooth leather
+- Muster: Einfarbig
 - Lebensstil: Outdoor
 - Mode: Sneaker
 

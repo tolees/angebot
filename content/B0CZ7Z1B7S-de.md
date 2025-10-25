@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Mobile Wallbox 11kW, kein Installation】Keine Installation erforderlich, an vorhandenen CEE-Stecker anschließen, um max. 11 kW zu erhalten, einfach und kostengünstig. Funktioniert als stationäre Wallbox zu Hause oder am Arbeitsplatz und als tragbares Ladegerät für unterwegs.
 - 【3x schneller als Haushaltsstecker】Mit 3-Phasig CEE 16A Stecker erhalten Sie 11kW Ladeleistung pro Stunde (230Vx16Ax3). 3 x schneller als normale Haushalts-Schuko-Stecker, 230 V x 16 A. Sparen Sie 13 Stunden, indem Sie von Schuko auf CEE Red 16A-Ladegerät wechseln.
 - 【Breite Kompatibilität】 Kompatibel mit den meisten Fahrzeugen mit Typ 2 Stecker wie ID.3, ID.4, ID.5, e-Golf, e-Up, Model Y, Model 3, Spring, Kona, Ioniq 5, e -tron, ZOE, i3, i4, 500 Hybrid und andere BEV/PHEV.
+- 【Mobile Wallbox 11kW, kein Installation】Keine Installation erforderlich, an vorhandenen CEE-Stecker anschließen, um max. 11 kW zu erhalten, einfach und kostengünstig. Funktioniert als stationäre Wallbox zu Hause oder am Arbeitsplatz und als tragbares Ladegerät für unterwegs.
 - 【Paket beinhaltet】11 kW Ladestation EV-Ladekabel, wasserdichte Tasche, Tragegurt, Mikrofasertuch und Schuko-Adapter im Lieferumfang enthalten. Eine spritzwassergeschützte Tasche zur Aufbewahrung Ihres Kabels im Kofferraum. Kompakte und zusammenklappbare Design spart Platz und verhindert, dass es im LKW herumgeworfen wird. Ein Tragegurt zum Kabelmanagement, zum Mitnehmen oder zum Aufhängen an der Wand. Ein Reinigungstuch im Koffer und eine wasserdichte Tasche für den Einsatz bei Regen.
 - 【2-IN-1-Funktion】Eine 11-kW-Wallbox + ein 15 m langes Typ-2-zu-Typ-2-Kabel. Sparen Sie zusätzliche Kosten und Platz, indem Sie sich für dieses tragbare 2-in-1-Ladegerät entscheiden. 15M lang bietet Ihnen eine größere Reichweite, laden Sie Ihr zweites Fahrzeug auf der Einfahrt/in der Garage auf.
 

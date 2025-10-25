@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regular Fit
 - Hochwertige Verarbeitung
+- Regular Fit
 - Rundhalsausschnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

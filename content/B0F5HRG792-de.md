@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schadstofffreies Wasser selbst im Altbau Freies Chlor sowie Schwermetalle wie Blei und Quecksilber werden aus dem Leitungswasser entfernt. Auch Rost und Sedimente werden aus dem Wasser gefiltert
 - Reines Wasser in Quellwasserqualität Durch das Entfernen von Schadstoffen und Verunreinigungen sorgt der Duschfilter für ein angenehmes und erfrischendes Erlebnis mit sauberem, weichem Duschwasser
-- Für spürbar weicheres Duschwasser Hartes Wasser trocknet Haut und Kopfhaut aus und lässt Haare stumpf werden. Der Filter enthärtet das Wasser effektiv. Besonders ideal auch bei Hautproblemen
-- Gegen Bakterien, Pilze und Co. Die Oxidierung im Filter wirkt wie ein Desinfektionsmittel. Bakterienwachstum, Verkeimung sowie Pilz- und Schimmelsporen im Bad- und Duschbereich werden reduziert
 - Die folgenden Informationen gelten für jede Einheit pro Packung
+- Gegen Bakterien, Pilze und Co. Die Oxidierung im Filter wirkt wie ein Desinfektionsmittel. Bakterienwachstum, Verkeimung sowie Pilz- und Schimmelsporen im Bad- und Duschbereich werden reduziert
 - Sparsam Die Wechsel-Kartusche passt in den Philips Duschfilter AWP17510 und hat eine Filter-Kapazität von 50.000 l. Dies entspricht einer durchschnittlichen Nutzungsdauer von 4 bis 6 Monaten
+- Schadstofffreies Wasser selbst im Altbau Freies Chlor sowie Schwermetalle wie Blei und Quecksilber werden aus dem Leitungswasser entfernt. Auch Rost und Sedimente werden aus dem Wasser gefiltert
+- Für spürbar weicheres Duschwasser Hartes Wasser trocknet Haut und Kopfhaut aus und lässt Haare stumpf werden. Der Filter enthärtet das Wasser effektiv. Besonders ideal auch bei Hautproblemen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F5HRG792{{</world>}}

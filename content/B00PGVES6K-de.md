@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Bunte Farben aus der Natur
-- Große Linsen mit einem Kern aus Vollmilchschokolade
 - 100% Kakao aus nachhaltigem Anbau
 - Recyclebare Verpackung aus Papier
+- Große Linsen mit einem Kern aus Vollmilchschokolade
 - Wiederverschließbar
 - Ohne Aromen und Zusatzstoffe
 
