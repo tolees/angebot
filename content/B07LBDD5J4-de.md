@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastischer farblich abgesetzter Bund mit Labelschriftzug von Jack & Jones
 - 95% Baumwolle 5% Elasthan
-- Jack & Jones
 - Pflegehinweis: Maschinenwäsche warm (40° +)
+- Jack & Jones
+- Elastischer farblich abgesetzter Bund mit Labelschriftzug von Jack & Jones
 - Boxershorts 5er Pack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

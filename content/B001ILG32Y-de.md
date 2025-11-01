@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Länge 25 mm
 - Material Chrom-Vanadium-Stahl (S2)
 - Abtriebsprofil: T-Profil (für Torx) mit Bohrung T25
+- Länge 25 mm
 - Antriebsprofil Außensechskant
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

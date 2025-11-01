@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Glattleder
 - Innenmaterial: Synthetik
+- Obermaterial: Glattleder
 - Sohle: Gummi
 - Verschluss: Elastic
 

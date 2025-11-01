@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schneidet glatt und sauber, ohne zu quetschen
-- Leichter Schnitt bei Einhandbedienung
 - Werkzeugtasche aus strapazierfähigem Polyestergewebe, mit Klettverschluss und Gürtelclip
 - Nicht für Stahldraht und hartgezogene Kupferleiter geeignet
+- Leichter Schnitt bei Einhandbedienung
 - Abmessungen (B x H x T): 75 x 180 x 55 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ✔️ Kompatibilität: Das Gehäuse ist kompatibel mit den neuesten Motherboards mit versteckten Anschlüssen, wie der ASUS BTF Series und der MSI PROJECT ZERO Series.
-- ✔️ Einfache Kabelführung: Zwei abnehmbare Platten auf der linken und rechten Seite der Rückseite ermöglichen einen einfachen Zugang zur Kabelführung.
 - ✔️ vertikales Design: Das Gehäuse hat ein vertikales Design in einer achteckigen Prismenform, die sowohl ästhetisch ansprechend als auch funktional ist.
+- ✔️ Einfache Kabelführung: Zwei abnehmbare Platten auf der linken und rechten Seite der Rückseite ermöglichen einen einfachen Zugang zur Kabelführung.
 - ✔️ Erweiterungsmöglichkeiten: Mit optionalen Kits wie dem 3,9" LCD Screen Kit und dem Chassis Stand Kit kann das Gehäuse weiter personalisiert und aufgewertet werden.
+- ✔️ Kompatibilität: Das Gehäuse ist kompatibel mit den neuesten Motherboards mit versteckten Anschlüssen, wie der ASUS BTF Series und der MSI PROJECT ZERO Series.
 - ✔️ Kühlungsunterstützung: Es unterstützt bis zu einen 420-mm-AIO-Radiator auf der rechten Seite und einen 360-mm-AIO-Radiator auf der linken Seite, sowie bis zu dreizehn 120-mm-Lüfter oder neun 140-mm-Lüfter.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

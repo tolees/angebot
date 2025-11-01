@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rezeptur ohne mikroplastik
 - Bewahrt die feuchtigkeit der haut
+- Rezeptur ohne mikroplastik
 - Kornblume und malve
 - Schmaler deckel - weniger plastik
 - 98 prozent biologisch abbaubare inhaltsstoffe

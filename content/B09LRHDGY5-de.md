@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ton-in-Ton-Nähte
 - Mit Seitliche Eingrifftaschen
+- Ton-in-Ton-Nähte
 - Mit Abgesteppter Saum/Kante
 
 [🛒 Hier!!]({{< param buyurl >}})

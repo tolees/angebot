@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Basic Pullover in Unifarben aus weichem Strickmaterial mit leicht gerollten Saumkanten.
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 62 cm
+- Basic Pullover in Unifarben aus weichem Strickmaterial mit leicht gerollten Saumkanten.
 - Aus einem weichen Baumwoll-Viskose-Stoff
 - Langärmlig mit V-Ausschnitt
 

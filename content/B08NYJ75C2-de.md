@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Atmungsaktives Gewebe
-- Schlanke Passform
 - Elastischer Bund mit Kordelzug
+- Schlanke Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08NYJ75C2{{</world>}}

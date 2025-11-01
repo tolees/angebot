@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Basic-T-Shirt perfektioniert
 - Kleines gesticktes Brand Housemark-Logo
-- Weiches Jersey-Tragegefühl
 - Aus Bio-Baumwolle hergestellt
+- Weiches Jersey-Tragegefühl
+- Das Basic-T-Shirt perfektioniert
 - Jeans und ein langärmeliges T-Shirt Nenne uns ein perfekteres Duo.Wir haben das klassische T-Shirt genommen und es mit 100 Prozent Baumwolle und einem der kultigsten Logos der Branche noch besser gemacht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

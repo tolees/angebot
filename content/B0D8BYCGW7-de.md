@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit Stretch-Anteil für einen angenehmen Tragekomfort und mehr Bewegungsfreiheit
-- Mit Gürtelschlaufen & Logo-Badge hinten am Hosenbund
-- Waschhinweis: Keine chemische Reinigung möglich, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei niedriger Temperatur bügeln (110° C), Normalwaschgang bei max. 30°C
 - Klassische Jeanshose im Five-Pocket-Style mit seitlichen Eingriffstaschen vorne und aufgesetzten Taschen hinten
+- Waschhinweis: Keine chemische Reinigung möglich, Trocknen im Trockner nicht möglich, Kein Bleichmittel erlaubt, Bei niedriger Temperatur bügeln (110° C), Normalwaschgang bei max. 30°C
+- Mit Gürtelschlaufen & Logo-Badge hinten am Hosenbund
 - Passform: Alexa Skinny Fit - mittlere Bundhöhe, enges Bein, schmale Beinöffnung. Beininnenbeinlänge bei 30L ca. 75 cm, 32L ca. 80 cm, 34L ca. 85 cm
 
 [🛒 Hier!!]({{< param buyurl >}})

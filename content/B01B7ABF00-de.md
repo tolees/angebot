@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Übertragen Sie Inhalte von einer Vielzahl an Online-Anbietern
 - Erleben Sie lebendige Farben mit TRILUMINOS Colour
 - Einfache Bedienung dank neuer benutzerfreundlicher Oberfläche
 - Wenn die Wiedergabe nicht ab dem Fortsetzungspunkt beginnt, an dem die Wiedergabe zuletzt unterbrochen wurde, beachten Sie bitte: Je nach Disc kann der Fortsetzungspunkt aus dem Speicher gelöscht werden, wenn - das Disc-Fach ausgeworfen wird - das USB-Gerät getrennt wird - andere Inhalte wiedergegeben - der Player ist ausgeschaltet
+- Übertragen Sie Inhalte von einer Vielzahl an Online-Anbietern
 - Genießen Sie all Ihre Filme in Full HD-Qualität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

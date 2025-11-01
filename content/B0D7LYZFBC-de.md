@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Spiele es auf deine Art: Stelle ein Team von Verbündeten aus über 50 Einheitentypen zusammen und schicke sie in die Schlacht!
+- Phantom Kontrolle: Nimm an taktischen, rundenbasierten RPG-Kämpfen teil und nutze das Confine-System
 - Unbeschwertes Abenteuer: Erlebe Spaß und schließe neue Freundschaften bei der Suche nach Ash
 - In der Deluxe Edition ist zusätzlich zum Spiel ein digitaler Soundtrack zum Download und ein Mini-Art-Book enthalten
-- Phantom Kontrolle: Nimm an taktischen, rundenbasierten RPG-Kämpfen teil und nutze das Confine-System
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D7LYZFBC{{</world>}}

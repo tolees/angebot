@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Schnürsenkel
 - Innenmaterial: Synthetik
-- Sohle: Synthetik
+- Verschluss: Schnürsenkel
 - Obermaterial: Canvas
+- Sohle: Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07STLQNX5{{</world>}}

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 50 Megapixel Hauptkamera mit optischer Bildstabilisierung
 - 2,75 GHz Exynos 1480 Octa-Core-Prozessor
-- 128 GB interner Speicher, Android 14.0
 - 16,8 cm (6,6 Zoll) Super AMOLED Display mit 1080 x 2340 Pixel
+- 128 GB interner Speicher, Android 14.0
 - Farbe: blau
 
 [🛒 Hier!!]({{< param buyurl >}})

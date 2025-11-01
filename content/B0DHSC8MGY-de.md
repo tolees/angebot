@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- So macht das Lernen Spaß: LEGO City Bau- und Lernspielzeuge lassen dein Kind beim kreativen Bauen und Spielen Selbstvertrauen und wichtige Fähigkeiten fürs ganze Leben entwickeln
-- Fantasievoller Spielspaß: Kinder können die Seifenkistenfahrer Spielzeugfiguren in die Cockpits der LEGO Spielzeug Autos setzen und viele spannende Rennen und Geschichten erfinden
 - Fantasievolle Geschenkidee zu Weihnachten oder zum Geburtsttag: Du suchst nach einem coolen Geschenk für ein Kind ab 5 Jahren? Dann überrasche deinen kleinen Rennsportfan mit diesem LEGO Fahrzeug Set
+- Fantasievoller Spielspaß: Kinder können die Seifenkistenfahrer Spielzeugfiguren in die Cockpits der LEGO Spielzeug Autos setzen und viele spannende Rennen und Geschichten erfinden
+- So macht das Lernen Spaß: LEGO City Bau- und Lernspielzeuge lassen dein Kind beim kreativen Bauen und Spielen Selbstvertrauen und wichtige Fähigkeiten fürs ganze Leben entwickeln
 - Cooles Auto Set für spannende Rennen – mit interaktiver Anleitung: In der intuitiven LEGO Builder App können Kinder virtuelle Spielsets erkunden und speichern, den Baufortschritt verfolgen und 3D-Modellansichten vergrößern und drehen
 - Spielset für spannende Seifenkistenrennen: LEGO City Flugzeug vs. Krankenhausbett ist eine tolle Überraschung für junge Rennsportfans und Jungen und Mädchen ab 5 Jahren
 - Actionspaß ohne Limits: Für noch mehr rasante Rennen kannst du dieses Spielset mit anderen separat erhältlichen LEGO City Modellen und Bausets kombinieren

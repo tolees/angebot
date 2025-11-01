@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Geeignet für alle Majirel Marken
-- Platine und Platifiz. Bitte immer Gebrauchsanweisung sorgfältig lesen!
+- Majiblond ultra
 - Luocolor
 - Color Supreme
-- Majiblond ultra
+- Platine und Platifiz. Bitte immer Gebrauchsanweisung sorgfältig lesen!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007VRDQR4{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform : Blockabsatz
 - Wasserbeständigkeitsgrad : Nicht wasserfest
+- Absatzform : Blockabsatz
 - Verschluss: Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

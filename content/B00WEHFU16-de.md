@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PERFEKT SCHNEIDEN: Unser Kochmesser ist mit einer schmalen, extra scharfen und extra breiten Klinge ausgestattet, damit Sie verschiedene Speisen mit Präzision und Eleganz schneiden.
-- HÖCHSTE SCHWEIZER QUALITÄT: Victorinox steht für meisterhafte Handwerkskunst und innovatives Design. In die Entwicklung unserer ikonischen, hochwertigen Messer, Uhren, Taschen, Koffer und Düfte bringen wir 130 Jahre Erfahrung mit ein.
 - BEWEISEN SIE IHR KÖNNEN: Unser in der Schweiz gefertigtes Kochmesser besitzt einen ergonomischen, rutschfesten Griff und eine ausbalancierte Klinge für absolute Stabilität auf dem Schneidebrett. So bahnt es Ihnen den Weg zu kulinarischen Spitzenleistungen.
+- HÖCHSTE SCHWEIZER QUALITÄT: Victorinox steht für meisterhafte Handwerkskunst und innovatives Design. In die Entwicklung unserer ikonischen, hochwertigen Messer, Uhren, Taschen, Koffer und Düfte bringen wir 130 Jahre Erfahrung mit ein.
+- PERFEKT SCHNEIDEN: Unser Kochmesser ist mit einer schmalen, extra scharfen und extra breiten Klinge ausgestattet, damit Sie verschiedene Speisen mit Präzision und Eleganz schneiden.
 - SWISS CLASSIC KOCHMESSER: Bei Victorinox sind wir der Meinung, dass Tranchieren mühelos von der Hand gehen sollte. Deshalb haben wir ein Kochmesser entworfen, das bei jeder Art von Fleisch exakte, gerade Schnitte liefert.
 - ABMESSUNGEN: 344 mm lang × 59 mm breit × 20 mm hoch. Gewicht: 160 g. Material: Thermoplastische Elastomere (TPE). Farbe: Schwarz. Artikelnummer: 6.8063.20B.
 

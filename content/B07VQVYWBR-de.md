@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit OrthoLite
-- Durability
 - Mit sportlicher Silhouette
 - Dieser Herrensneaker aus weichem Leder
+- Durability
+- Mit OrthoLite
 - Lightweight
 
 [🛒 Hier!!]({{< param buyurl >}})

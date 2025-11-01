@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzarm
 - Materialzusammensetzung: 100% Baumwolle
+- Kurzarm
 - Standard Fit
 - T-shirt
 

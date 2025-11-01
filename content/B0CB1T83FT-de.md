@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Synthetik-Obermaterial
 - Reguläre Passform
 - Schnürsenkel, Synthetikfutter
+- Synthetik-Obermaterial
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CB1T83FT{{</world>}}

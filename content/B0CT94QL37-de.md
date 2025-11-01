@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Adventskalender 2024 mit spannender Detektiv-Geschichte zum Knobeln.
 - Tolle Detektiv-Gimmicks zum Sammeln.
-- Besondere Mechanik: Jeden Tag muss ein Rätsel in der Geschichte gelöst werden, um das nächste Türchen zu finden.
-- Super Geschenk für Hobbydetektivinnen und -detektive ab 8 Jahren
 - Die drei !!! ermitteln im Tierheim.
+- Adventskalender 2024 mit spannender Detektiv-Geschichte zum Knobeln.
+- Super Geschenk für Hobbydetektivinnen und -detektive ab 8 Jahren
+- Besondere Mechanik: Jeden Tag muss ein Rätsel in der Geschichte gelöst werden, um das nächste Türchen zu finden.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CT94QL37{{</world>}}

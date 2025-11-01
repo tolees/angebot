@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit Abklappmechanismus
+- Radstand: max. 126 cm
 - Befestigung der Fahrräder durch Rahmenhalter und Textilspanngurte
 - Schienenabstand: ca. 19 cm
-- Max. Reifenbreite in der Schiene: bis 2,2 Zoll
-- Radstand: max. 126 cm
-- Für Fahrräder mit Oversize und Y-Rahmen bis Ø8,5 cm geeignet
-- Zum Transport von 4 Fahrrädern auf der Anhängerkupplung
-- Max. Nutzlast: 60 kg
 - Mit Schnellverschluss - abschließbar
 - Abklappmechanismus mit Zusatzsicherung ermöglicht in der Regel das Öffnen des Kofferraums auch mit montierten Fahrrädern
+- Für Fahrräder mit Oversize und Y-Rahmen bis Ø8,5 cm geeignet
+- Max. Nutzlast: 60 kg
+- Max. Reifenbreite in der Schiene: bis 2,2 Zoll
+- Zum Transport von 4 Fahrrädern auf der Anhängerkupplung
+- Mit Abklappmechanismus
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01BPNJYJS{{</world>}}

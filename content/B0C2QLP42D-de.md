@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Sprengung: 9,5 mm (Rückfußhöhe: 33 mm / Vorfußhöhe: 23,5 mm)
 - Leichtes, stabiles Tragegefühl
-- Eine Nummer größer kaufen
 - LIGHTMOTION Dämpfung
 - Obermaterial aus Mono-Mesh
+- Eine Nummer größer kaufen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C2QLP42D{{</world>}}

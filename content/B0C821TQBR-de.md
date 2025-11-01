@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Brustgurt stufenlos verstellbar
-- abnehmbare Regenhülle
 - Brillen- und Stockhalterung
+- abnehmbare Regenhülle
 - Maximale Belüftung durch das Aircomfort Netzrücken-System sorgt für besten Tragekomfort
+- Brustgurt stufenlos verstellbar
 - Das separate Trinkblasenfach ist kompartibel für Trinksysteme bis 2 Liter
 
 [🛒 Hier!!]({{< param buyurl >}})

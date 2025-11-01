@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Gestaltung
 - Hochwertige Material
+- Flexible Gestaltung
 - - Xiaomi Redmi Note 12 Pro 5G 128GB/6GB RAM Dual-SIM schwarz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

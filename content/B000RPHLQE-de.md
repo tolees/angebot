@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein schönes maskulines Herrenduschgel - duftet nach Hugo Boss Bottled
-- Hauttyp: Normale Haut
-- Vibrant with fresh and sensuous notes, the fragrance exudes distinction, sophistication and pure joie de vivre
 - Duftnoten: Würzig, Holzig
+- Vibrant with fresh and sensuous notes, the fragrance exudes distinction, sophistication and pure joie de vivre
 - Durch die Duftzusammensetzung von BOSS entsteht ein intensiver und langhaltender Duft
+- Hauttyp: Normale Haut
+- Ein schönes maskulines Herrenduschgel - duftet nach Hugo Boss Bottled
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000RPHLQE{{</world>}}

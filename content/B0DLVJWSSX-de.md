@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Display mit 32 Minifiguren aus Vinyl. Diese sind jeweils ca. 2 cm groß und in Blind Boxen verpackt. Man sieht also nicht, welche Figur in der jeweiligen Verpackung steckt.
+- Hochwertige Details, die ikonische Star-Wars-Funktionen einfangen
 - Ideal, um jedem Raum einen Hauch von Star-Wars-Magie zu verleihen
 - Ideal für Fans jeden Alters und Sammler
-- Hochwertige Details, die ikonische Star-Wars-Funktionen einfangen
+- Display mit 32 Minifiguren aus Vinyl. Diese sind jeweils ca. 2 cm groß und in Blind Boxen verpackt. Man sieht also nicht, welche Figur in der jeweiligen Verpackung steckt.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DLVJWSSX{{</world>}}

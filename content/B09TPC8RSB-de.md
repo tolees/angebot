@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Von Augenärzten getestet
-- Wimperntusche mit einer Bürste mit zwei Positionen, die die Wimpern länger und voluminöser macht
-- Die verlängerte Position der Bürste verlängert die Wimpern
-- Die rotierende Position der Bürste intensiviert und verleiht den Wimpern Volumen
 - Geeignet für Kontaktlinsenträger und empfindliche Augen
+- Die rotierende Position der Bürste intensiviert und verleiht den Wimpern Volumen
+- Die verlängerte Position der Bürste verlängert die Wimpern
+- Wimperntusche mit einer Bürste mit zwei Positionen, die die Wimpern länger und voluminöser macht
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09TPC8RSB{{</world>}}

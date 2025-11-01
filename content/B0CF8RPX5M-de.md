@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SICHERHEIT IN FARBE, AUCH BEI NACHT: Wir bringen Licht ins Dunkel mit unserem branchenweit einzigartigen Dual-Licht-System. Mit einem fortschrittlichen Lichterfassungs-Algorithmus sorgt es in der Nacht für weniger Unschärfe als frühere Versionen und eine erweiterte Sicht von bis zu 5m.
-- BATTERIE ODER KABEL, DU ENTSCHEIDEST: Wähle den Akkubetrieben für eine unkomplizierte Installation oder entscheide dich für den Kabelbetrieb, um das Aufladen gänzlich zu umgehen. Mit dem schnell austauschbaren Akku vermeidest du jeglichen Ausfall während des Aufladens.
 - IM LIEFERUMFANG ENTHALTEN: Video-Türklingel*1, wiederaufladbarer Akku*1, USB-C Ladekabel*1, Montagehalterung*1, 15-Grad-Montageadapter*1, Schraubenpositions-Karte*1, Verlängerungskabel*2, Überbrückungskabel für die Klingel*2, Abnehmstift für Türklingel*1, Warnsticker*1, Schnellstartanleitung*1.
+- SICHERHEIT IN FARBE, AUCH BEI NACHT: Wir bringen Licht ins Dunkel mit unserem branchenweit einzigartigen Dual-Licht-System. Mit einem fortschrittlichen Lichterfassungs-Algorithmus sorgt es in der Nacht für weniger Unschärfe als frühere Versionen und eine erweiterte Sicht von bis zu 5m.
 - ERKENNE DAS WESENTLICHE IN 2K FHD SCHÄRFE: Mit knackiger 2K Auflösung entgeht dir kein Detail. Erhalte kristallklare Bilder von jedem, der an deiner Tür vorbeikommt.
 - ZWEI KAMERAS, DOPPELTE SICHERHEIT: Zwei Kameras ergänzen sich für eine erweiterte Sicht. Die Frontkamera konzentriert sich auf Personen, während die nach unten gerichtete Kamera den Boden vor deiner Tür im Blick hat.
+- BATTERIE ODER KABEL, DU ENTSCHEIDEST: Wähle den Akkubetrieben für eine unkomplizierte Installation oder entscheide dich für den Kabelbetrieb, um das Aufladen gänzlich zu umgehen. Mit dem schnell austauschbaren Akku vermeidest du jeglichen Ausfall während des Aufladens.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CF8RPX5M{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- griffige Sohle
 - moderner Wanderschuh
-- sehr gute Dämpfung
-- Aktivitätsindex: A (Hiking)
 - leicht, atmungsaktiv
+- griffige Sohle
+- Aktivitätsindex: A (Hiking)
+- sehr gute Dämpfung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5CYQWWW{{</world>}}

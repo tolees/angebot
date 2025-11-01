@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Harry Potter: The Complete Collection
 - 8 Filme
+- Harry Potter: The Complete Collection
 - Untertitel: Englisch, Deutsch
 
 [🛒 Hier!!]({{< param buyurl >}})

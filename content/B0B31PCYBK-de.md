@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Reguläre Passform
 - Abriebfeste Non Marking Gummiaußensohle
 - Schnürsenkel
-- Reguläre Passform
-- Obermaterial aus Synthetikleder
 - Textilfutter
+- Obermaterial aus Synthetikleder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B31PCYBK{{</world>}}

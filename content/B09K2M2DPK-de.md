@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Synthetik
-- Verschluss: Gummi
-- Innenmaterial: Synthetik
 - Schuhweite: Medium
+- Innenmaterial: Synthetik
+- Verschluss: Gummi
+- Obermaterial: Synthetik
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09K2M2DPK{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Komfort
 - Atmungsaktivität
 - Die Rückwand Mesh bietet eine bessere Belüftung
+- Komfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07W5XZL94{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absolute Bewegungsfreiheit
 - Gesticktes Logo
+- Absolute Bewegungsfreiheit
 - Einfache Passform und moderner Look
 - Normale Passform
 

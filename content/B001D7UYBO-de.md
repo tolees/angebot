@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Inklusive Kabelklemmen, Schraubzwinge für Tischplatten bis zu 55 mm Dicke und Hohlbolzen zur Festmontage an Tischplatten bis zu 70 mm Dicke
 - Professionelles Rundfunk-Gelenkarmstativ für Streaming, Podcasting, Recording und Content Creation
 - Geeignet sowohl zur Front- und Seiteneinsprache
-- Inklusive Kabelklemmen, Schraubzwinge für Tischplatten bis zu 55 mm Dicke und Hohlbolzen zur Festmontage an Tischplatten bis zu 70 mm Dicke
+- 0
+- 82 cm horizontale Reichweite und 84 cm vertikale Reichweite
 - 0
 - Für Mikrofone zwischen 700 und 1100 g Gewicht
 - Robustes Design und geräuschloser Betrieb eignen sich für den Einsatz zu Hause, im Büro und im Studio
-- 82 cm horizontale Reichweite und 84 cm vertikale Reichweite
-- 0
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B001D7UYBO{{</world>}}

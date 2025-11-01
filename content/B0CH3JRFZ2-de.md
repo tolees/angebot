@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ohne Mineralöle
-- Ohne Parfümöle
 - Hautverträglichkeit dermatologisch bestätigt
+- Ohne Mineralöle
 - Frei von Farb- und Konservierungsstoffen
-- PH-hautneutral
 - Die folgenden Informationen gelten für jede Einheit pro Packung
+- Ohne Parfümöle
+- PH-hautneutral
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CH3JRFZ2{{</world>}}

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Kompatibel mit: HERO12 Black, HERO11 Black, HERO10 Black, HERO9 Black
 - Integrierte Kameratasten für einhändige Steuerung
-- Drahtlose Fernsteuerung der Kamera aus einer Entfernung von bis zu 30 m
 - Eingebauter Akku für mehr als 4 Stunden Aufnahmezeit bei 5,3K/30
 - Ausklappbare Stativbeine für stationäre Aufnahmen
+- Drahtlose Fernsteuerung der Kamera aus einer Entfernung von bis zu 30 m
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09YVRTD3W{{</world>}}

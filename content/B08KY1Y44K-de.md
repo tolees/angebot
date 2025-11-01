@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform : Lang geschnitten
 - Ärmel : Kurzarm
+- Passform : Lang geschnitten
 - Klassisches schlichtes T-Shirt
 - Hals : Rundhals
 

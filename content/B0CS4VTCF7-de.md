@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlaufe zum Anziehen
 - Kordelzug mit Kordelstopper vorne
+- Schlaufe zum Anziehen
 - Einsätze mit verschiedenen Strukturen
 - Seitliche Tommy Hilfiger Flag aus Emaille
 

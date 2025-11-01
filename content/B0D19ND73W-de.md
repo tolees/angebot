@@ -29,13 +29,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
-- 55 % Baumwolle / 36 % Polyester (recycelt) / 9 % Viskose
-- Kapuze mit weitenregulierbarem Kordelzug
-- Bündchen und Saum gerippt
-- Überschnittene Schultern
-- Kängurutasche
 - Hinten etwas kürzerer geschnitten
+- Bündchen und Saum gerippt
+- 55 % Baumwolle / 36 % Polyester (recycelt) / 9 % Viskose
 - Regulär geschnitten
+- Kängurutasche
+- Überschnittene Schultern
+- Kapuze mit weitenregulierbarem Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D19ND73W{{</world>}}

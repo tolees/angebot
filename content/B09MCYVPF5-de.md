@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Material: 100% Baumwolle 190 gr/m²
-- Design: Polygon Bär Logo auf der Brust
-- Erhältliche Farben: schwarz, blau, schwarz/bronze, lila/pastell, pastellgrün/grün, braun/blau, dunkelblau, dunkelgrün
-- Erhältliche Größen: S - 4XL // Sportlicher Schnitt - fällt ab 3XL etwas kleiner aus.
 - Features: stylisch und hochwertig
+- Design: Polygon Bär Logo auf der Brust
+- Erhältliche Größen: S - 4XL // Sportlicher Schnitt - fällt ab 3XL etwas kleiner aus.
+- Erhältliche Farben: schwarz, blau, schwarz/bronze, lila/pastell, pastellgrün/grün, braun/blau, dunkelblau, dunkelgrün
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09MCYVPF5{{</world>}}

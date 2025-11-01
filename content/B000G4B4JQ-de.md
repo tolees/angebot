@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Importiert
 - Mit Klettverschluss
 - Materialien: 43 % Polyester, 30 % Nylon und 27 % Gummi
+- Importiert
 - Velcro Markenverschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

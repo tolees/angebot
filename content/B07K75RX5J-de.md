@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kleines gesticktes Brand Housemark-Logo
-- Weiches Jersey-Tragegefühl
-- Aus Bio-Baumwolle hergestellt
-- Jeans und ein langärmeliges T-Shirt Nenne uns ein perfekteres Duo.Wir haben das klassische T-Shirt genommen und es mit 100 Prozent Baumwolle und einem der kultigsten Logos der Branche noch besser gemacht
 - Das Basic-T-Shirt perfektioniert
+- Jeans und ein langärmeliges T-Shirt Nenne uns ein perfekteres Duo.Wir haben das klassische T-Shirt genommen und es mit 100 Prozent Baumwolle und einem der kultigsten Logos der Branche noch besser gemacht
+- Weiches Jersey-Tragegefühl
+- Kleines gesticktes Brand Housemark-Logo
+- Aus Bio-Baumwolle hergestellt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07K75RX5J{{</world>}}

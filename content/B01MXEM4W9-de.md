@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Alkoholfreier, fruchtig-herber Weizenmix aus 50% alkoholfreiem Schöfferhofer Hefeweizenbier und 50% Grapefruit-Erfrischungsgetränk
+- Erfrischt dich zu jeder Tageszeit und sorgt für sommerliche Genussmomente.
 - Genieße den fruchtig-herben Geschmack von sanft prickeldem Schöfferhofer Weizen und sonnengereifter Grapefruit - ganz ohne Alkohol.
 - Lieferumfang: 24 x 0,5 l Schöfferhofer Grapefruit Alkoholfrei Dosen-Bier, Kaufpreis zzgl. 6€ Pfand
-- Erfrischt dich zu jeder Tageszeit und sorgt für sommerliche Genussmomente.
+- Alkoholfreier, fruchtig-herber Weizenmix aus 50% alkoholfreiem Schöfferhofer Hefeweizenbier und 50% Grapefruit-Erfrischungsgetränk
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01MXEM4W9{{</world>}}

@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Für intensiv verlängert wirkende Wimpern ohne zu beschweren und einen gleichmäßig aufgetragenen Lidstrich
 - Die leichte Faser-Formel verlängert die Wimpern optisch und verleiht ein intensives Schwarz, der Gel Liner ist wisch- und schmierfest
 - Die innovative Formel enthält Bambusextrakt, dank der geschmeidigen Gel-Textur des Eyeliners entsteht ein gleichmäßiger, deckender Farbauftrag
 - Set mit der Sky High Lash Sensational Sky High Mascara und dem Tattoo Liner Gel Pencil in Tealtini für intensive Augen-Looks
 - Sky-High-Technologie für extreme Länge und volles Volumen - Wimper für Wimper
+- Für intensiv verlängert wirkende Wimpern ohne zu beschweren und einen gleichmäßig aufgetragenen Lidstrich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CZS6X5CW{{</world>}}

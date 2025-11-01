@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kängurutasche auf der vorderseite
 - Normaler Schnitt
 - Packung die Größe: 7.7 L x 40.79 H x 31.6 W (cm)
+- Kängurutasche auf der vorderseite
 - Kapuze mit Kordelzug
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

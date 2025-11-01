@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Robustheit
 - Hochwertige material
-- Die besten Produkte
 - Langlebigkeit
+- Die besten Produkte
 - Die besten Produkte
 - Langlebigkeit
 

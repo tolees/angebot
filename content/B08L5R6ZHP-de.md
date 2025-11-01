@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die magnetische Ausrichtung funktioniert nur bei iPhone 14, iPhone 14 Pro, iPhone 13, iPhone 13 Pro, iPhone 12 und iPhone 12 Pro Modellen.
 - Kompatibilität AirPods modelle: AirPods Pro (1. und 2. Generation), AirPods (3. Generation), AirPods mit kabellosem Ladecase (2. Generation), Kabelloses Ladecase für AirPods
-- Das MagSafe Ladegerät unterstützt kabelloses Laden mit Qi. Du kannst damit also dein iPhone 8 oder neuer sowie AirPods Modelle mit kabellosem Ladecase kabellos laden – wie mit jedem Qi zertifizierten Ladegerät.
 - Kompatibilität iPhone modelle: iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 13 mini, iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, iPhone SE (3. Generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2. Generation), iPhone XS, iPhone XS Max, iPhone XR, iPhone X, iPhone 8, iPhone 8 Plus
-- Empfohlen: 20W USB C Power Adapter (separat erhältlich)
+- Das MagSafe Ladegerät unterstützt kabelloses Laden mit Qi. Du kannst damit also dein iPhone 8 oder neuer sowie AirPods Modelle mit kabellosem Ladecase kabellos laden – wie mit jedem Qi zertifizierten Ladegerät.
 - Mit dem MagSafe Ladegerät ist kabelloses Laden ganz einfach. Die perfekt ausgerichteten Magnete docken an deinem iPhone 14, iPhone 14 Pro, iPhone 13, iPhone 13 Pro, iPhone 12 oder iPhone 12 Pro an und sorgen für schnelleres kabelloses Laden mit bis zu 15 W.
+- Die magnetische Ausrichtung funktioniert nur bei iPhone 14, iPhone 14 Pro, iPhone 13, iPhone 13 Pro, iPhone 12 und iPhone 12 Pro Modellen.
+- Empfohlen: 20W USB C Power Adapter (separat erhältlich)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08L5R6ZHP{{</world>}}

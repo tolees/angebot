@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gekämmtes Jerseygewebe
-- Regular fit
 - Gummidruck für Weichheit
+- Regular fit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CL8KT3CH{{</world>}}

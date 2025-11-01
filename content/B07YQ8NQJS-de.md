@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ORIGINAL AHOJ-BRAUSE - Ahoj-Brause ist eine der bekanntesten und ältesten Marken Deutschlands! Denn bereits seit 1925 bringt Ahoj-Brause bunten Brause-Spaß für Jung und Alt
-- LECKER BRAUSE – Die bunten Bonbons schmecken nicht nur süß -, sondern auch fruchtig und herrlich sauer –Prickeln auf der Zunge inklusive
 - PARTY-SPASS – Ob Kindergeburtstag oder Party: Mit Ahoj-Brause Brause-Bonbons macht man kleinen und großen Naschkatzen eine große Freude
+- LECKER BRAUSE – Die bunten Bonbons schmecken nicht nur süß -, sondern auch fruchtig und herrlich sauer –Prickeln auf der Zunge inklusive
+- ORIGINAL AHOJ-BRAUSE - Ahoj-Brause ist eine der bekanntesten und ältesten Marken Deutschlands! Denn bereits seit 1925 bringt Ahoj-Brause bunten Brause-Spaß für Jung und Alt
 - VERSCHIEDENE GESCHMACKSRICHTUNGEN – Die bunten Candys gibt es in 4 unterschiedlichen Sorten: Zitrone, Orange, Himbeere und Cola
 - DIE KLASSIKER – Keine Nasch-Tüte ohne Brause-Bonbons! Die süßen Brausetabletten sind der Klassiker von Ahoj-Brause. Seit Generationen lieben Süßigkeiten-Fans die kleinen sauren Drops
 

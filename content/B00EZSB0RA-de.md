@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vernickelt
 - Robustes Design steht für sich allein
+- Vernickelt
 - Ideal geeignet für Handwerk und Industrie
 - Kann manuell oder mit einem Elektroschrauber verwendet werden
 

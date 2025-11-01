@@ -28,14 +28,14 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LIGHTSYNC Technologie: Die Logitech G LIGHTSYNC Technologie bietet ein vollständig anpassbare RGB-Beleuchtung, die sich auch mit dem Geschehen im Spiel synchronisieren lässt
-- Anpassbare Gewichte: Bis zu fünf 3,6-g-Gewichte ermöglichen eine personalisierte Konfiguration von Gewicht und Balance
-- Sensor der nächsten Generation: Erkennt Bewegungen kleiner als ein Mikron, kann Bewegungen, die kleiner sind als ein Millionstel Meter, haarscharf abtasten. Kabellänge: 2.1 m.
-- Weltweit die #1: Die meistverkaufte Marke für Gaming Zubehör - Basierend auf unabhängigen aggregierten Verkaufsdaten (Februar 2019 bis Februar 2020) für Gaming-Keyboards, Mäuse und PC-Headsets in Einheiten
-- Verpackung und Bedienungsanleitung auf Deutsch
 - 11 programmierbare Tasten: Individuelle Tasteneinstellungen und ein ultraschnelles Scrollrad mit zwei Bildlaufmodi ermöglichen eine vollständig anpassbare Steuerung beim Spielen und sind die ideale Kombination zur Gaming Tastatur
+- Verpackung und Bedienungsanleitung auf Deutsch
+- Weltweit die #1: Die meistverkaufte Marke für Gaming Zubehör - Basierend auf unabhängigen aggregierten Verkaufsdaten (Februar 2019 bis Februar 2020) für Gaming-Keyboards, Mäuse und PC-Headsets in Einheiten
+- LIGHTSYNC Technologie: Die Logitech G LIGHTSYNC Technologie bietet ein vollständig anpassbare RGB-Beleuchtung, die sich auch mit dem Geschehen im Spiel synchronisieren lässt
 - Mechanische Switches mit Tastenfederspannung: Ein Spannungssystem mit Federn und Drehgelenken aus Metall ist in die linke und rechte Maustaste integriert und sorgt für ein promptes und klares Klickgefühl mit sofortiger Rückmeldung an den PC
+- Sensor der nächsten Generation: Erkennt Bewegungen kleiner als ein Mikron, kann Bewegungen, die kleiner sind als ein Millionstel Meter, haarscharf abtasten. Kabellänge: 2.1 m.
 - HERO-Sensor: Der HERO Sensor der nächsten Generation für präzise Abtastung (bis zu 25 600 DPI) ohne Glättung, Filterung oder Beschleunigung
+- Anpassbare Gewichte: Bis zu fünf 3,6-g-Gewichte ermöglichen eine personalisierte Konfiguration von Gewicht und Balance
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07GS6ZS8J{{</world>}}

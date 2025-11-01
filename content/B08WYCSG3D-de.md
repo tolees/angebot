@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Aus recycelten Materialien: hergestellt aus Recyclingfasern für einen geringeren ökologischen Footprint
 - Ärmelbündchen und Saum gerippt
 - Nach vorne versetzte Seitennaht für verbesserte Passform
-- Aus recycelten Materialien: hergestellt aus Recyclingfasern für einen geringeren ökologischen Footprint
 - Normale Passform
 - Mit Jersey gefütterte Kapuze mit Zugband für individuellen Komfort
 

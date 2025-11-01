@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Multibit-Schraubendreher, 1x Bit-Organizer, 33x Bit
-- Robust und langlebig: Bits bestehen aus hochwertigem Chrom-Vanadium-Stahl
 - Umfangreiches Set: 34-teilig mit Multibit-Schraubendreher, Bit-Organizer und 33 Bits (1 Zoll/25mm)
+- Robust und langlebig: Bits bestehen aus hochwertigem Chrom-Vanadium-Stahl
+- Lieferumfang: 1x Multibit-Schraubendreher, 1x Bit-Organizer, 33x Bit
 - Praktischer Bithalter: Magnetischer Halter für zugehörige Bits
 - Schraubenzieher für vielseitige Anwendung: Die Bits passen für sehr viele Schraubenarten und eignen sich beispielsweise ideal zum Möbelaufbau
 

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inkl. Adapter auf SD-Kartenformat
-- micro SecureDigital Extended Capacity Card (microSDXC), entspricht neuem SD-3.01-Standard
 - Lieferumfang: 1 microSDXC-Karte, 1 SD-Adapter
+- micro SecureDigital Extended Capacity Card (microSDXC), entspricht neuem SD-3.01-Standard
 - Besonders geeignet für Real-time Full-HD-Video- und 3D-Videoaufnahmen: für Real-time/Broadcast-Aufnahmen, ermöglicht schnelle und direkte Datenübertragung zwischen Speicherkarte und UHS-I-fähigem Endgerät
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

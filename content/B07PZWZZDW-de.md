@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Weite: Normal (F 1/2), Verschluss: Reißverschluss
-- Absatztyp: Blockabsatz, Absatzhöhe: 3.9 cm, Schafttyp: Halbschaft, Schafthöhe: 13 cm
 - Obermaterial: Kunstleder, Innenmaterial: Textil, Laufsohle: TR-Sohle, Decksohle: Textil
+- Absatztyp: Blockabsatz, Absatzhöhe: 3.9 cm, Schafttyp: Halbschaft, Schafthöhe: 13 cm
 - Produkttyp: Stiefeletten,Stiefeletten,Ankle Boots,Damenschuhe,Stiefel,Kurzstiefel,Booties,flach
 
 [🛒 Hier!!]({{< param buyurl >}})

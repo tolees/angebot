@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ganzjährig nachfüllbar
-- Flach
-- Obermaterial aus Textil
-- Stoff
 - Schnürverschluss
 - Synthetik
+- Ganzjährig nachfüllbar
+- Stoff
+- Obermaterial aus Textil
+- Flach
 - Flexkerben in EVA-Außensohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

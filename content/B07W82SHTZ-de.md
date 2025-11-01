@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Perfekte Atmungsaktivität
+- Rundhalsausschnitt
 - Pflegehinweise: Maschinenwäsche
-- Standard Passform
 - Mesh-einsätze am Rücken
 - Dri-fit-technologie
-- Rundhalsausschnitt
-- Perfekte Atmungsaktivität
+- Standard Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07W82SHTZ{{</world>}}

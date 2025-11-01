@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Atemberaubendes Design
 - Multi-Kamerasystem
+- Atemberaubendes Design
 - Mit Rechenleistung von bis zu 6 GB RAM
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- leger geschnitten
-- Trikotkragen mit Print und Streifen-Design auf der Unterseite
 - getapter Zipper
 - Tapes mit Prägungen auf den Schultern
+- leger geschnitten
+- Trikotkragen mit Print und Streifen-Design auf der Unterseite
 - auffällige Prints auf Vorder- und Rückseite, sowie den Ärmelbündchen
 
 [🛒 Hier!!]({{< param buyurl >}})

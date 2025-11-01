@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textiles Mesh-Obermaterial
 - SoftFoam+: PUMAs innovative weiche Innensohle für maximalen Laufkomfort vom ersten bis zum letzen Schritt
+- Textiles Mesh-Obermaterial
 - Niedriger Schnitt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

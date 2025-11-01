@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Welt des Rennsports erwartet Sportwagen-Liebhaber mit anderen LEGO Speed Champions Sets wie dem Ferrari 812 Competizione (76914) und dem Porsche 963 (76916)
 - Dieses LEGO Speed Champions Doppelpack enthält 2 nachbaubare Spielzeugauto-Modelle: McLaren Solus GT und McLaren F1 LM zum Bauen und Ausstellen
 - Das Rennwagen-Modell McLaren F1 LM hat seine charakteristische papaya-orange Farbe, einen zentralen Fahrersitz und Kühlkanäle an beiden Seiten
 - Das Solus GT Auto-Spielzeug enthält auch Details der echten Version: ein weißes, schwarzes und oranges Farbschema, markante Radkästen und ein Cockpit
-- Der Hypercars-Bausatz eignet sich perfekt, um spannende Hochgeschwindigkeitsrennen zu veranstalten, und enthält außerdem 2 LEGO Fahrer-Minifiguren
 - Mit den klassischen F1 LM- und den modernen Solus GT-Nachbauten können Kinder ab 9 Jahren nach Herzenslust bauen, bevor sie die Auto-Modelle stolz zur Schau stellen
+- Die Welt des Rennsports erwartet Sportwagen-Liebhaber mit anderen LEGO Speed Champions Sets wie dem Ferrari 812 Competizione (76914) und dem Porsche 963 (76916)
+- Der Hypercars-Bausatz eignet sich perfekt, um spannende Hochgeschwindigkeitsrennen zu veranstalten, und enthält außerdem 2 LEGO Fahrer-Minifiguren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BBRXB13N{{</world>}}

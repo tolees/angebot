@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 1000 Teile Puzzle, Puzzlemaße: 69,3 x 49,3 cm
+- Empfohlenes Alter: ab 12 Jahren
 - SCHMIDT SPIELE Puzzles in Premium-Qualität, Hochwertiger Druck, präzise Stanzung und langlebiges Material
 - Perfektes Geschenk für Harry Potter Fans – Dekoratives Puzzle für Sammler, Filmfans und Puzzleliebhaber.
-- Empfohlenes Alter: ab 12 Jahren
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CQM5JMSW{{</world>}}

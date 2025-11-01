@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Ideal für Machine Vision und AI-Edge-Computing
 - Echtzeit-Erkennung für Gesichter und Objekte
 - Direkt auf PCB integriertes Hailo-Modul
 - 13 TOPS bei Hailo-8 Unterstützung
-- Ideal für Machine Vision und AI-Edge-Computing
 - Geringe Latenz und niedriger Stromverbrauch
 
 [🛒 Hier!!]({{< param buyurl >}})

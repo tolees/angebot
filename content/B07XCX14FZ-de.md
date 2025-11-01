@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Durchgehender Reißverschluss
 - PUMA Cat-Logo auf der linken Brust
+- Durchgehender Reißverschluss
 - Kontrastierendes Colourblock-Design an Schultern und Unterseite
-- Elastische Bündchen
 - Ungefüttert
+- Elastische Bündchen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07XCX14FZ{{</world>}}

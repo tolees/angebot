@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Altersangabe: ab 14 Jahren
-- Teile: 1.650 -teilig
-- Art: Konstruktionsspielzeug
-- Serie: Ninjago
 - Material: Kunststoff
+- Teile: 1.650 -teilig
+- Serie: Ninjago
+- Art: Konstruktionsspielzeug
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DWDS6X8Y{{</world>}}

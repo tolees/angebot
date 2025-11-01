@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Optimale Flexibilität
+- Herausnehmbare Innensohle
 - Schuh mit abriebfester Sohle
+- Antibakterielle Innensohle
 - Leichter Einstieg für einmaligen Tragekomfort
 - Innensohle aus chromfreiem, ungiftigem Leder
-- Antibakterielle Innensohle
-- Herausnehmbare Innensohle
 - Leichter Einstieg und verstellbare Passform mit Reißverschluss und Schnürsenkeln
+- Optimale Flexibilität
 - Die patentierten Geox-Systeme garantieren die Atmungsaktivität der Sohle und sorgen für Wohlbefinden des Fußes
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

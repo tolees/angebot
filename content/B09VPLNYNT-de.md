@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Optische Schalter mit einer getesteten Lebensdauer von 100 Millionen Klicks | Optischer Sensor mit 19.000 DPI und 400 IPS
+- Wasser- und staubresistent mit 4 RGB-Beleuchtungszonen
+- compatible devices: spielkonsole
+- Bis zu 100 Stunden Akkulaufzeit | Abnehmbares USB-C-Kabel für Schnellaufladung
 - Leichtes, symmetrisches Shape
 - 2,4 GHz für Gaming und Bluetooth 5.2 | Bis zu 100 Stunden Akkulaufzeit
-- compatible devices: spielkonsole
-- Optische Schalter mit einer getesteten Lebensdauer von 100 Millionen Klicks | Optischer Sensor mit 19.000 DPI und 400 IPS
-- Bis zu 100 Stunden Akkulaufzeit | Abnehmbares USB-C-Kabel für Schnellaufladung
-- Wasser- und staubresistent mit 4 RGB-Beleuchtungszonen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09VPLNYNT{{</world>}}

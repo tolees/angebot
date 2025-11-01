@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- toniges Artwork mit Flockprint vorne
-- Rundhalsausschnitt mit Rippblende
 - softer Griff
+- Rundhalsausschnitt mit Rippblende
 - Rippbündchen an Ärmeln und Saum
 - locker geschnitten
+- toniges Artwork mit Flockprint vorne
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5CPJRH{{</world>}}

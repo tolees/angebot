@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- leichte elastische eigenschaften
 - großer nike logo print
-- rundhalskrasen
+- leichte elastische eigenschaften
 - t-shirt zum training oder zur präsentation
 - Sporttyp: Fußball
+- rundhalskrasen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QW8NYQ9{{</world>}}

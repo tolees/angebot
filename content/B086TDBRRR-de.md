@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Langanhaltende
 - Feuchtigkeitsspendend und Pflegend
 - Hochpigmentierter Lippenstift
+- Langanhaltende
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B086TDBRRR{{</world>}}

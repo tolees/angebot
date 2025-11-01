@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Futter:
+- Laufsohle/Eigenschaften: EVA-Laufsohle für geringes Gewicht
+- Farbe: Schwarz
 - Obermaterial: Leder (Rindsleder)
 - 75% Polyester 10% Textil (65% Nylon - 35% Polyurethan) 10% Synthetisch (70% Polyurethan - 30% Polyester) 5% Synthetisch
-- Farbe: Schwarz
-- Laufsohle/Eigenschaften: EVA-Laufsohle für geringes Gewicht
+- Futter:
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07GC1G7GK{{</world>}}

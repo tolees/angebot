@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eine kleine Menge im gewaschenen und handtuchtrockenen Haar verteilen, sanft einmassieren und nach 3-5 Minuten sorgfältig ausspülen und wie gewohnt stylen. Für optimale Ergebnisse mit Serie Expert Vitamino Color Shampoo, Leave-In Spray und Conditioner kombinieren.
 - Die professionelle Haarpflege wurde speziell für coloriertes Haar entwickelt. Dabei ist die tiefenwirksame Intensivpflege mit pflegendem Resveratrol und schützenden Antioxidantien angereichert. Die sanfte Kur sorgt für dauerhaft geschmeidige, strahlende sowie glänzende Haare.
+- Eine kleine Menge im gewaschenen und handtuchtrockenen Haar verteilen, sanft einmassieren und nach 3-5 Minuten sorgfältig ausspülen und wie gewohnt stylen. Für optimale Ergebnisse mit Serie Expert Vitamino Color Shampoo, Leave-In Spray und Conditioner kombinieren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0918GDLPP{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Tiefer Ausschnitt, Dekollete
-- Gerader Saum
-- Fully fashioned
 - Strukturierter Griff
+- Fully fashioned
+- Gerader Saum
+- Tiefer Ausschnitt, Dekollete
 - Rippbündchen
 
 [🛒 Hier!!]({{< param buyurl >}})

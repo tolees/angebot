@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochgradig pigmentiert: reicher Farbgehalt, ein einziger Strich Farbe, für ein exquisites Lippen-Make-up
 - Lang anhaltend: Make-up kann für bis zu 16 Stunden + für einen perfekten Look, der Tag und Nacht dauert angewendet werden
-- Wasserfest: Der OULAC Lipliner-Stift enthält eine wasserfeste Formel, verschmiert nicht bei Wasser und Schweiß und bleibt immer schön
 - GESUND & SICHER: Unser Eyeliner ist eine PETA-zertifizierte und anerkannte grausamkeitsfreie Marke, die keine Tierversuche durchführt, so dass Sie ihn bedenkenlos verwenden können
+- Wasserfest: Der OULAC Lipliner-Stift enthält eine wasserfeste Formel, verschmiert nicht bei Wasser und Schweiß und bleibt immer schön
+- Hochgradig pigmentiert: reicher Farbgehalt, ein einziger Strich Farbe, für ein exquisites Lippen-Make-up
 - Vielseitig einsetzbar: Kann für Eyeliner und Lipliner sowie Augenbrauen verwendet werden, und kann als ein Gesicht Maler verwendet werden, wenn nötig, ein Strich kann für mehrere Zwecke verwendet werden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

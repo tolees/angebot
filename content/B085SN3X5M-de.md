@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Noch stärkere Lichtleistung - übertrifft Xenon Performance
-- 2.000 mm Leitung mit DEUTSCH-Stecker und offenen Kabelende
 - Der Arbeitsscheinwerfer Klassiker in LED-Technologie
+- 2.000 mm Leitung mit DEUTSCH-Stecker und offenen Kabelende
+- Noch stärkere Lichtleistung - übertrifft Xenon Performance
 - Adapterleitung für eine unkomplizierte Inbetriebnahme der Arbeitsscheinwerfer
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sicheres Store-and-Forward Weiterleitungsverfahren
+- Im Full Duplex Modus bis zu 2000 Mbit/s pro Port
+- Automatische MDI/MDIX-Erkennung an allen Anschlüssen. Betriebstemperatur: 0 bis 45 °C
 - Energiesparende Funktionen mit D-Link Green
 - Arbeitet geräuschlos durch eine lüfterlose Bauweise
-- Automatische MDI/MDIX-Erkennung an allen Anschlüssen. Betriebstemperatur: 0 bis 45 °C
-- Im Full Duplex Modus bis zu 2000 Mbit/s pro Port
+- Sicheres Store-and-Forward Weiterleitungsverfahren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000BCC0LO{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- leger geschnitten
 - durchgehende Knopfleiste
 - eine geknöpfte Brusttasche
+- leger geschnitten
 - gestickte Logo-Artworks vorne, hinten und auf dem Ärmel
 - 1-Knopfmanschetten
 

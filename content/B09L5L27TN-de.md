@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial aus Leder mit perforiertem Schuhblatt
 - Breitere vertikale Linien auf der Ferse
 - Zwischensohle und Außensohle aus Gummi
-- Obermaterial aus Leder mit perforiertem Schuhblatt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09L5L27TN{{</world>}}

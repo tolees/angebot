@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Klassische Passform mit hochgeschlossenem, geripptem Kragen
-- Gewebe: 100 % Baumwolle.
 - Gesticktes ellesse-Logo auf der Brust.
-- Gewebtes Etikette am Ärmel.
 - Aus unserer Hauptkollektion, die den ganzen Tag über Komfort garantiert.
+- Gewebe: 100 % Baumwolle.
+- Gewebtes Etikette am Ärmel.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F54LP4MP{{</world>}}

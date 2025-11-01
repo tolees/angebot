@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit 26% Butter
-- Gebäckmischung Dose
-- in der Frischedose
 - Gebäckmischung
 - Original dänische Buttercookies
+- Gebäckmischung Dose
+- in der Frischedose
+- mit 26% Butter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01D1P7IA0{{</world>}}

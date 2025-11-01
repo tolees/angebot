@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der erste öl-in-wasser-lichtschutz mit kühlender Textur, das sofort einzieht. Speziell entwickelt für empfindliche Kinder- und Babyhaut
 - Hoher Lichtschutzfaktor: LSF 50 mit UVA- und UVB-Schutz
-- Auch auf nasser Haut anwendbar. Kann nach dem Schwimmen oder Schwitzen aufgetragen werden, ohne dass der Lichtschutzfaktor darunter leidet
-- Brennt dank safe-eye Tech Formel nicht in den Augen
 - Kinderärztlich, augenärztlich und dermatologisch getestet. ISDIN engagiert sich für Projekte zur Regeneration der Meere und Ozeane
+- Brennt dank safe-eye Tech Formel nicht in den Augen
+- Auch auf nasser Haut anwendbar. Kann nach dem Schwimmen oder Schwitzen aufgetragen werden, ohne dass der Lichtschutzfaktor darunter leidet
+- Der erste öl-in-wasser-lichtschutz mit kühlender Textur, das sofort einzieht. Speziell entwickelt für empfindliche Kinder- und Babyhaut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B06Y6BKQHR{{</world>}}

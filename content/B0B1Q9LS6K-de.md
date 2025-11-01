@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- USB-C PD 3.0-fähig zum Laden eines iPhone 13 in 28 Minuten von 0 auf 50 % und eines Samsung Galaxy S21+ in 27 Minuten von 0 auf 50 %
-- Laden Sie zwei kompatible Geräte gleichzeitig und schnell über die zwei USB-C-Ports auf*
-- PPS-Technologie sorgt dynamisch für eine optimale Stromversorgung kompatibler Geräte
 - Profitieren Sie von einer Leistung von bis zu 65 W, wenn Sie nur einen USB-C-Anschluss nutzen und 45 W + 20 W, wenn beide in Betrieb sind
+- PPS-Technologie sorgt dynamisch für eine optimale Stromversorgung kompatibler Geräte
 - Kompaktes Format, ideal für zu Hause, das Büro oder Reisen
-- Die integrierte GaN-Technologie ermöglicht effizientes Laden mit hoher Leistung und ohne Überhitzung
 - Optimiert für Apple, Samsung, Nintendo Switch und andere kompatible Geräte
+- USB-C PD 3.0-fähig zum Laden eines iPhone 13 in 28 Minuten von 0 auf 50 % und eines Samsung Galaxy S21+ in 27 Minuten von 0 auf 50 %
+- Die integrierte GaN-Technologie ermöglicht effizientes Laden mit hoher Leistung und ohne Überhitzung
+- Laden Sie zwei kompatible Geräte gleichzeitig und schnell über die zwei USB-C-Ports auf*
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B1Q9LS6K{{</world>}}

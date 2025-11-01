@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 5-24.000 Hz Frequenzbereich
-- 9-mm-Neodym-Treiber für dynamischen Sound
 - Komfortable, festsitzende Silikon-Ohrhörer
+- 9-mm-Neodym-Treiber für dynamischen Sound
+- 5-24.000 Hz Frequenzbereich
 - Y-Kabel, 1,2 m Länge
 - In-Line-Mikrofon und -Fernbedienung
 

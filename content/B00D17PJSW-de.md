@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Für besonders schöne Holzarbeiten (fine wood working); Aufnahme: Zylinderschaft; Material: SP;
 - Mit Flächen, zum Bohren ausrissfreier, maßhaltiger Sacklöcher, für Randbohrungen sowie für schräg angesetzte Bohrungen in Weichholz und Harthölzer; In melaminbeschichteten Platten und Sperrholzplatten.
 - Mit Zentrierspitze, Pheripherieschneide mit Wellenschliff, 2 Schneiden und abgesetztem zylindrischen Schaft.;
-- Für besonders schöne Holzarbeiten (fine wood working); Aufnahme: Zylinderschaft; Material: SP;
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00D17PJSW{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trotzen Sie Wind und Wetter mit dieser wasserfesten Windjacke - ein Kultstück aus der Columbia-Kollektion
 - Gewicht: 0.16 kg
+- Trotzen Sie Wind und Wetter mit dieser wasserfesten Windjacke - ein Kultstück aus der Columbia-Kollektion
 - Challenger
 
 [🛒 Hier!!]({{< param buyurl >}})

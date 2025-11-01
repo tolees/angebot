@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - V-Ausschnitt mit uni-dunkelblauem Halsrand
-- mit bequemen, dunkelblauen Bündchen an den Arm-, Saum- und Beinabschlüssen
-- aus der SCHIESSER-Serie ""Dark Sapphire""
 - Oberteil mit Blockringeln in Weiß und Dunkelblau
 - in angenehm weicher Single-Jersey-Qualität // erhältlich auch in besonderen Größen
+- aus der SCHIESSER-Serie ""Dark Sapphire""
+- mit bequemen, dunkelblauen Bündchen an den Arm-, Saum- und Beinabschlüssen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B071NHFTQL{{</world>}}

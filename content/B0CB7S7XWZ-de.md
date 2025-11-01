@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sehr abriebfeste Gummi-Außensohle.
-- Sehr abriebfeste Gummi-Außensohle.
 - OrthoLite-Einlegesohle.
+- Sehr abriebfeste Gummi-Außensohle.
+- Sehr abriebfeste Gummi-Außensohle.
 - Obermaterial aus Leder.
 
 [🛒 Hier!!]({{< param buyurl >}})

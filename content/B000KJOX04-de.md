@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Material in Profiqualität
 - Einfache Handhabung
-- Markendetails
 - Lieferumfang: 1 Stück
+- Markendetails
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000KJOX04{{</world>}}

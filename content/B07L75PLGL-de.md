@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Strong all-brass construction body with lead-free waterways.
 - Install with confidence and backed by Grifema Mixers 2 years Limited Warranty.
+- Swivel any direction for added convenience during everyday kitchen tasks.
 - Wear-resistant ceramic disc valve for leak-free operation.
 - Sleek design with the charm of simplicity.
-- Swivel any direction for added convenience during everyday kitchen tasks.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07L75PLGL{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Briggs and Stratton part number 697015. Check description and parts illustrated diagrams to ensure the part is a suitable replacement.
-- Fits 14-17 HP Intek Vertical Engines.
-- This wrap style, foam pre-cleaner provides superior protection against the destructive effects of dirt ingestion.
 - Bitte überprüfen Sie vor dem Kauf die Teile Kompatibilität anhand der Bedienungsanleitung Ihres Motors oder der illustrierten Teileliste, die Sie auf der Briggs & Stratton-Website finden können
+- Fits 14-17 HP Intek Vertical Engines.
+- Briggs and Stratton part number 697015. Check description and parts illustrated diagrams to ensure the part is a suitable replacement.
+- This wrap style, foam pre-cleaner provides superior protection against the destructive effects of dirt ingestion.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0038U3HWW{{</world>}}

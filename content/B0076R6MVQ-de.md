@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Hoher Halskragen für Wärme und Schutz vor den Elementen
-- Erhältlich in einer Vielzahl von Farben, Subtiles Columbia-Logo
-- Lieferumfang: 1 x Columbia Steens Mountain Full Zip für Herren 2.0, 100 Percentage Polyester MTR-Filament-Fleece, 250g, Farbe: Schwarz, Grill, Größe: XL, Art.Nr. 1476671
-- Modernes und klassisch geschnittenes Fleece mit Vollreißverschluss für Herren, Ideal für den Alltag
 - Die Reißverschlusstaschen halten Ihre Hände warm und können auch dem sicheren Verstauen von Wertsachen wie Smartphone oder Geld dienen
+- Erhältlich in einer Vielzahl von Farben, Subtiles Columbia-Logo
+- Modernes und klassisch geschnittenes Fleece mit Vollreißverschluss für Herren, Ideal für den Alltag
+- Lieferumfang: 1 x Columbia Steens Mountain Full Zip für Herren 2.0, 100 Percentage Polyester MTR-Filament-Fleece, 250g, Farbe: Schwarz, Grill, Größe: XL, Art.Nr. 1476671
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0076R6MVQ{{</world>}}

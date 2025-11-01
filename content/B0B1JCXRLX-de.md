@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- LIVE LIFE LOUD mit dem SRS-XG300! Dieser Sony-Lautsprecher liefert dank der X-Balanced Speaker Units, den Front-Lautsprecher und der Passivradiatoren einen hochwertigen, kraftvollen Sound mit tiefen und klaren Bässen. Und falls du den Bass noch verstärken möchtest, drückst du einfach die MEGA BASS-Taste!
 - Mit dem kabellosen Lautsprecher SRS-XG300 kannst du ganz einfach mit Freunden oder Kollegen telefonieren. Dank dem Echo-Cancelling können zwei Personen gleichzeitig ohne Halleffekte sprechen. Und mit der Multipoint-Verbindung können zwei Geräte gleichzeitig gekoppelt werden.
 - Nachhaltigkeit im Sinn - Die Produkte von Sony sind nicht nur stilvoll und klanglich hochwertig, sondern werden auch umweltbewusst gestaltet. Die Einzelverpackung des SRS-XG300 besteht nur zu 5 % aus Kunststoffmaterial.
-- Mit der mehrfarbigen Beleuchtung der Passivradiatoren, die sich je nach Stimmung, Musik oder Anlass im Takt ändert, schaffst du ein besonderes Ambiente. Die Beleuchtung kann in der Sony Music Center App angepasst werden, wo du auch deine Audioeinstellungen steuern kannst.
-- LIVE LIFE LOUD mit dem SRS-XG300! Dieser Sony-Lautsprecher liefert dank der X-Balanced Speaker Units, den Front-Lautsprecher und der Passivradiatoren einen hochwertigen, kraftvollen Sound mit tiefen und klaren Bässen. Und falls du den Bass noch verstärken möchtest, drückst du einfach die MEGA BASS-Taste!
 - Mache deine Party mit Party Connect über Bluetooth noch größer. Verbinde bis zu 100 kompatible Sony Bluetooth-Lautsprecher und genieße einen gleichmäßigen Sound.
+- Mit der mehrfarbigen Beleuchtung der Passivradiatoren, die sich je nach Stimmung, Musik oder Anlass im Takt ändert, schaffst du ein besonderes Ambiente. Die Beleuchtung kann in der Sony Music Center App angepasst werden, wo du auch deine Audioeinstellungen steuern kannst.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B1JCXRLX{{</world>}}

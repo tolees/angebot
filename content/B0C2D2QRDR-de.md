@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Unser Extra Professional White-Sortiment hilft, Verfärbungen zu entfernen und das natürliche Weiß der Zähne zu erhalten. Die Formel mit Mikrogranulaten reinigt die Zähne auf spürbare Weise.
 - Länger frischen Atem haben: 30 Packungen mit je 10 Kaugummis. Das sind 300 Kaugummis von Extra!
 - Stell sicher, dass du immer einen Kaugummi dabei hast. Die Kaugummi-Großpackung eignet sich perfekt, um den Vorrat in den Schränken aufzufüllen, damit du jederzeit eine Erfrischung hast.
 - Zuckerfreier Kaugummi mit Himbeer- und Granatapfelgeschmack für einen frischen Atem.
+- Unser Extra Professional White-Sortiment hilft, Verfärbungen zu entfernen und das natürliche Weiß der Zähne zu erhalten. Die Formel mit Mikrogranulaten reinigt die Zähne auf spürbare Weise.
 - Extra Professional Kaugummi nach dem Essen oder Trinken kauen sorgt für frischen Atem den ganzen Tag lang.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

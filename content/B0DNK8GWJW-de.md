@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SCHNELLER AUTOFOKUS: Der Autofokus der S5D ist besonders schnell mit nur 0,08 s, mit Augen-AF gelingen phantasische Portraits, darüber hinaus hat sie weitere Motiverkennungen von z.B. Tieren, sie hat bis -6 EV, macht Serienbilder mit bis zu 7 B/s AFS und ist DJI Lidar AF Ready.
-- VIDEOS IN KINOQUALITÄT: Hochwertige Videos mit 4K 60p/50p 4:2:0 10-Bit-Aufnahme, 10-Bit HDMI Live-Ausgabe, 14+ Blendenstufen V-Log/V-Gamut, 4K Anamorphic-Modus und Videoaufnahme-Assistenzfunktionen.
-- KOMPROMISSLOSE BILDQUALITÄT: Detailreiche Aufnahmen mit 24,2 MP Vollformatsensor ohne Tiefpassfilter für großen Dynamikumfang, einschließlich hochauflösender 96 MP- und HLG-Fotomodi sowie Dual Native ISO für minimales Bildrauschen.
-- HÖCHSTE BILDSTABILISIERUNG: Dank 5-Achsen Gehäusestabilisator & Dual IS mit bis zu 6,5-Blendenstufen gelingen auch längerer Belichtung aus der freien Hand und Aufnahmen in der Dämmerung.
 - OLED SUCHER & MONITOR: Großer detailreicher 2.360.000 Pixel OLED Live-View-Sucher (0,74x) und 1.840.000 Pixel 180° flexibler-Monitor für Aufnahmen auch bei schwierigen Lichtsituationen und ungewöhnlichen Perspektiven.
+- HÖCHSTE BILDSTABILISIERUNG: Dank 5-Achsen Gehäusestabilisator & Dual IS mit bis zu 6,5-Blendenstufen gelingen auch längerer Belichtung aus der freien Hand und Aufnahmen in der Dämmerung.
+- VIDEOS IN KINOQUALITÄT: Hochwertige Videos mit 4K 60p/50p 4:2:0 10-Bit-Aufnahme, 10-Bit HDMI Live-Ausgabe, 14+ Blendenstufen V-Log/V-Gamut, 4K Anamorphic-Modus und Videoaufnahme-Assistenzfunktionen.
 - OBJEKTIV VIELFALT: Hochwertiges, extrem kompaktes Weitwinkel-Zoom Allrounder Objektiv mit 18-40mm Brennweite (S-R1840E) und lichtstarke F1.8 50mm Portrait-Festbrennweite - perfekt zum jederzeit dabei haben.
 - OUTDOOR: Dank Staub- und Spritzwasserschutz und hochwertigem, stabilen Magnesiumgehäuse ist die S5D auch für den rauen Outdooreinsatz bestens geeignet.
+- KOMPROMISSLOSE BILDQUALITÄT: Detailreiche Aufnahmen mit 24,2 MP Vollformatsensor ohne Tiefpassfilter für großen Dynamikumfang, einschließlich hochauflösender 96 MP- und HLG-Fotomodi sowie Dual Native ISO für minimales Bildrauschen.
+- SCHNELLER AUTOFOKUS: Der Autofokus der S5D ist besonders schnell mit nur 0,08 s, mit Augen-AF gelingen phantasische Portraits, darüber hinaus hat sie weitere Motiverkennungen von z.B. Tieren, sie hat bis -6 EV, macht Serienbilder mit bis zu 7 B/s AFS und ist DJI Lidar AF Ready.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DNK8GWJW{{</world>}}

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Textilfutter
+- TPU-Außensohle
+- Obermaterial aus Textil
 - Reguläre Passform
 - Cloudfoam Zwischensohle
-- Gewicht: 319 g (Größe 42 2/3)
-- Obermaterial aus Textil
 - Sprengung: 6 mm (Rückfußhöhe 35 mm / Vorfußhöhe 29 mm)
-- TPU-Außensohle
+- Textilfutter
+- Gewicht: 319 g (Größe 42 2/3)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXSNZ86{{</world>}}

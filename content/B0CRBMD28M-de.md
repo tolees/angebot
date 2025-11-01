@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obbermaterial: 90 % Rindsleder 10 % Rindsleder
+- Laufsohle: 100% EVA
+- Futter: 100 % recyceltes PET
 - Better Leather,Better Linings
 - Farbe: Schwarz
-- Futter: 100 % recyceltes PET
-- Laufsohle: 100% EVA
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CRBMD28M{{</world>}}

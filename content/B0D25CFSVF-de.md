@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In der Day One Edition ist zusätzlich zum Spiel der Bonusquest "Löwenwappen" DLC als Downloadcode in der Box enthalten
-- Die authentische Wiedergabe des Böhmens des 15. Jahrhunderts gibt dir die Möglichkeit, diese faszinierende Umgebung wie nie zuvor zu erleben
 - Passe Heinrichs Aussehen, seine Fähigkeiten und seine Ausrüstung nach Belieben an
 - Erlebe die Ereignisse mit den Augen Heinrichs, eines jungen Mannes, der loszieht, um den Mord an seinen Eltern zu rächen
+- In der Day One Edition ist zusätzlich zum Spiel der Bonusquest "Löwenwappen" DLC als Downloadcode in der Box enthalten
+- Die authentische Wiedergabe des Böhmens des 15. Jahrhunderts gibt dir die Möglichkeit, diese faszinierende Umgebung wie nie zuvor zu erleben
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D25CFSVF{{</world>}}

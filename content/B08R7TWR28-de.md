@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lightweight
 - Cushioning and moisture manage
+- Lightweight
 - Flexibility
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

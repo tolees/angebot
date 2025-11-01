@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- gestreiftes Necktape
 - softe Haptik
-- Label Patch am linken Ärmel
 - Rundhalsausschnitt mit Rippblende
+- gestreiftes Necktape
+- Label Patch am linken Ärmel
 - großer Wording Print vorne, kleiner hinten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

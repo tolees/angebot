@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Gestaltung
 - Langlebigkeit
+- Flexible Gestaltung
 - Hochwertige Material
 - Zubehör
 

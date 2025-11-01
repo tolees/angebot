@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Superkleines, hochwertiges Metalldesign
 - Schnelle Datenübertragung von bis zu 200MB/s¹ beim Lesen
+- Superkleines, hochwertiges Metalldesign
 - Speicher mit hoher Kapazität von bis zu 256 GB²
 
 [🛒 Hier!!]({{< param buyurl >}})

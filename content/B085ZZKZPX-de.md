@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- HYBRID DESIGN - Air Balance-Lüfterblätter kombinieren die Designelemente von Jet- und Hubschrauberblättern, um einen zuverlässigen Luftdruck (1,6 mmH2O ± 10%) für die Kühlung und einen außergewöhnlichen Luftstrom (47,2 CFM ± 10%) zu liefern
 - GERÄUSCHARM - Der MF120 Halo ist mit mehreren Schichten geräuschreduzierender Technologie und schallabsorbierenden Materialien ausgestattet, die eine gleichmäßigere Lüfterdrehzahl gewährleisten und Vibrationen und Klicks reduzieren (6 - 30 dBA)
-- SMART SENSOR - Die MF Halo-Serie verfügt über intelligente Sensoren zum Schutz vor Kabeln und Komponenten, die während des Betriebs hängen bleiben oder beschädigt werden
+- HYBRID DESIGN - Air Balance-Lüfterblätter kombinieren die Designelemente von Jet- und Hubschrauberblättern, um einen zuverlässigen Luftdruck (1,6 mmH2O ± 10%) für die Kühlung und einen außergewöhnlichen Luftstrom (47,2 CFM ± 10%) zu liefern
 - DUAL-LOOP-ARGB-BELEUCHTUNG - Die MasterFan HALO-Serie verwendet 24 individuell gesteuerte adressierbare RGB-LEDs, die in zwei Ringe unterteilt sind, um eine außergewöhnlich lebendige Farbdarstellung zu gewährleisten
+- SMART SENSOR - Die MF Halo-Serie verfügt über intelligente Sensoren zum Schutz vor Kabeln und Komponenten, die während des Betriebs hängen bleiben oder beschädigt werden
 - VOLLSTÄNDIGE KOMPATIBILITÄT - Der MF120 Halo ist vollständig kompatibel mit ARGB-Motherboard-Software (z. B. ASUS Aura, ASRock RGB und MSI RGB) und enthält einen drahtadressierbaren RGB-Controller für ältere Motherboard-Modelle
 
 [🛒 Hier!!]({{< param buyurl >}})

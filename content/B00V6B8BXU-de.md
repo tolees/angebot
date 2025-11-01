@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Neuer Slouchy Beanie mit roten Details
 - Rotes Levis Label an der Seite eingenäht
 - Collection: Durchläufer (NOS)
+- Neuer Slouchy Beanie mit roten Details
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00V6B8BXU{{</world>}}

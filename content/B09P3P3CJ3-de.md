@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Gestaltung
 - Art.-Nr. 5650
+- Flexible Gestaltung
 - Robustheit
 - Qualität/Haltbarkeit
 - Langlebig

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- VERBESSERTE CPU-KÜHLUNG - Die MAG CORELIQUID E-Serie verwendet eine vergrößerte Kupferkühlplatte für exzentrische CPU-Hotspots sowie mehr interne Mikrokanäle
-- DUAL FDB ARGB-LÜFTER - 2 x 120-mm-ARGB-Lüfter mit flüssigkeitsdynamischem Lager (600-1800 U/min, PWM) liefern einen hohen statischen Druck (0,31-2,52 mmH2O) und einen hohen Luftdurchsatz (25,5-75,04 CFM)
-- AMD & INTEL SOCKEL KOMPATIBEL - Vollständig kompatibel mit AMD (AM5, AM4) und Intel (LGA 1700, 1200, 1156, 1155, 1151, 1150) CPU-Sockeln; Inklusive Wärmeleitpaste
 - DUAL-CHAMBER, SPLIT-FLOW - Die Zweikammerpumpe trennt Heiß- und Kaltstrom, um den Temperaturunterschied (ΔT) für eine schnellere Kühlung zu erhalten, und wird von einem langlebigen 3-Phasen-Motor angetrieben
 - ANPASSBARE BELEUCHTUNG & LEISTUNG - Der Blockhead im Eclipse-Stil (270° drehbar) und die Kühlerlüfter verfügen über anpassbare Mystic Light-Effekte (erfordert 5V 3-Pin ARGB Mainboard-Header)
+- DUAL FDB ARGB-LÜFTER - 2 x 120-mm-ARGB-Lüfter mit flüssigkeitsdynamischem Lager (600-1800 U/min, PWM) liefern einen hohen statischen Druck (0,31-2,52 mmH2O) und einen hohen Luftdurchsatz (25,5-75,04 CFM)
+- AMD & INTEL SOCKEL KOMPATIBEL - Vollständig kompatibel mit AMD (AM5, AM4) und Intel (LGA 1700, 1200, 1156, 1155, 1151, 1150) CPU-Sockeln; Inklusive Wärmeleitpaste
+- VERBESSERTE CPU-KÜHLUNG - Die MAG CORELIQUID E-Serie verwendet eine vergrößerte Kupferkühlplatte für exzentrische CPU-Hotspots sowie mehr interne Mikrokanäle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CC5DT54L{{</world>}}

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Das integrierte Joystick-Design ermöglicht eine einfache Installation, selbst für Anfänger, mit einem rutschfesten erhöhten Kontaktpunkt-Design, das ein taktiles Gefühl über traditionelle werkseitig installierte Joysticks hinaus bietet.
 - Das Kit enthält folgende Teile: 1 x Y-förmige Schraube, 2 x Daumen-Greifkappen, 1 x Pinzette, 1 x Abzieher, 1 x Kreuzschlitzschraubendreher, 2 x JINGDU Hall-Ersatzjoysticks.
-- Der verbesserte JINGDU Hall-Joystick hat eine Lebensdauer von etwa 2 Millionen Zyklen, viermal länger als die traditionellen Kohlenstofffilm-Joysticks mit 500.000 Zyklen.
-- Ausgestattet mit einer intelligenten Hall-Chip-Kalibrierung hat der JINGDU Hochpräzisions-Hall-Joystick einen Schwenkbereich von ca. 19°, im Vergleich zum traditionellen Kohlenstofffilm-Joystick mit ca. 16°, was einen größeren Joystick-Antwortbereich bietet und die Gaming-Präzision verbessert.
 - Die Probleme mit Abnutzung und Drift des Joy-Con effektiv beseitigt und ein stabileres Spielerlebnis bietet. Der Hall-Sensor und der Joystick-Schaft verfügen über ein kontaktloses Strukturdesign, das Abnutzungsprobleme des Joysticks vermeidet und besonders für präzisionsfordernde Shootern geeignet ist.
+- Ausgestattet mit einer intelligenten Hall-Chip-Kalibrierung hat der JINGDU Hochpräzisions-Hall-Joystick einen Schwenkbereich von ca. 19°, im Vergleich zum traditionellen Kohlenstofffilm-Joystick mit ca. 16°, was einen größeren Joystick-Antwortbereich bietet und die Gaming-Präzision verbessert.
+- Der verbesserte JINGDU Hall-Joystick hat eine Lebensdauer von etwa 2 Millionen Zyklen, viermal länger als die traditionellen Kohlenstofffilm-Joysticks mit 500.000 Zyklen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CQYNMRW3{{</world>}}

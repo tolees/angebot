@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [60 W SuperDart-Aufladung] 50% Ladung in rund 15 Min.*
-- [Vapor Chamber-Kühlsystem] Das 5-Schicht-Kühlsystem verfügt über eine der größten Dampfkammern in der Branche
-- [Sony IMX766 Flaggschiff-Kamera] Optische und Elektronische Bildstabilisierung
 - [MediaTek Dimensity 920 5G Prozessor] 9% schnellere GPU und 35% stärkerer ISP
+- [60 W SuperDart-Aufladung] 50% Ladung in rund 15 Min.*
 - [90 Hz Super AMOLED Display] Jedes Wischen, Scrollen und Tippen fühlt sich unmittelbar an
+- [Sony IMX766 Flaggschiff-Kamera] Optische und Elektronische Bildstabilisierung
+- [Vapor Chamber-Kühlsystem] Das 5-Schicht-Kühlsystem verfügt über eine der größten Dampfkammern in der Branche
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09PBVBXQK{{</world>}}

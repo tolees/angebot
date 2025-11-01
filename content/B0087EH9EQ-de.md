@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entwickler
 - Zur Verwendung mit Inoa und Inoa Supreme
+- Entwickler
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0087EH9EQ{{</world>}}

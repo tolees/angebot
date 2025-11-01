@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt | Kurzarm
+- Nicht auf Verzierung bügeln | Bügeln bei mäßiger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | 30°C Feinwäsche | Mit ähnlichen Farben waschen | Nass in Form ziehen
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 64 cm
 - Aus weichem, atmungsaktivem Single Jersey Stoff aus Baumwolle
-- Nicht auf Verzierung bügeln | Bügeln bei mäßiger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | 30°C Feinwäsche | Mit ähnlichen Farben waschen | Nass in Form ziehen
+- Rundhalsausschnitt | Kurzarm
 - T-Shirt in Unifarben aus Single-Jersey-Stoff aus Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})

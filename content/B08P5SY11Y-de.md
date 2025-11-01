@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- waterproof
+- Verschluss: Schnürsenkel
+- Sohle: Kautschuk
 - Obermaterial: Nylon
 - Innenmaterial: Synthetik
 - Absatzform: Flach
-- Verschluss: Schnürsenkel
-- Sohle: Kautschuk
+- waterproof
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08P5SY11Y{{</world>}}

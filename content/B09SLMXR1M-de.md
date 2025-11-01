@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schmal geschnitten
 - Hält kühl und bequem
+- Schmal geschnitten
 - 100 prozent recycelter Polyester (Doppelstrick)
 - Bringt Ihnen einen zusätzlichen Komfort
 

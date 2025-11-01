@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bio-Baumwolle - Wird mit natürlichen Düngemitteln und ohne schädliche Chemikalien angebaut. Das schont die Bodengesundheit und schafft ein gesünderes Arbeitsumfeld für die Landwirte.
-- Passform: Fitted, Rückenlänge bei Größe M ca. 62 cm
-- Rundhalsausschnitt | Halbarm
 - Aus atmungsaktiver und weicher Baumwolle mit Stretch-Anteil für ein angenehmes Tragegefühl
+- Rundhalsausschnitt | Halbarm
 - Basic Slim Fit T-Shirt mit Rundhalsausschnitt. Aus einem elastischen Ripp-Material.
+- Passform: Fitted, Rückenlänge bei Größe M ca. 62 cm
+- Bio-Baumwolle - Wird mit natürlichen Düngemitteln und ohne schädliche Chemikalien angebaut. Das schont die Bodengesundheit und schafft ein gesünderes Arbeitsumfeld für die Landwirte.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D8BZY5CP{{</world>}}
