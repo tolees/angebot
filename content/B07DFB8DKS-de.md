@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Produkt wird in der originalen Window Box verkauft
-- Die Figuren sind ca. 9 cm groß, aber auch als Übergröße erhältlich
 - Funko Pop sind stilisierte Reproduktionen kultiger Figuren aus Filmen, TV-Serien, Zeichentrickserien, Comics, Videospielen und vielem mehr
+- Die Figuren sind ca. 9 cm groß, aber auch als Übergröße erhältlich
+- Das Produkt wird in der originalen Window Box verkauft
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07DFB8DKS{{</world>}}

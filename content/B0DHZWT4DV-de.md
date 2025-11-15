@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Einfache Installation: Kein Werkzeug erforderlich, einfach die Klebeschicht abziehen, um den Govee RGBIC LED-Streifen überall zu installieren. Der Controller und der Streifen sind integriert, um den Verdrahtungsaufwand zu reduzieren.
-- Intelligente APP-Steuerung LED Streifen: Entdecken Sie eine Vielzahl von Optionen, Anpassungen und Community-Funktionen in der Govee Home-App. Finden Sie aktualisierte Effekte und Farbwerkzeuge, speichern und teilen Sie DIY-Effekte usw.
-- LED Streifen mit Sprachsteuerung: Govee LED Streifen ist mit Alexa und Google Assistant kompatibel, sodass Sie den smart LED Streifen ein- und ausschalten und Helligkeit, Farbe, Szenenmodus, Musikmodus und mehr ändern können, ohne Ihr Telefon anzutippen.
 - Über 64 Voreingestellte Szeneneffekte: Mit dem Govee RGBIC LED Strip können Sie lebendige Animationseffekte auswählen, um eine Atmosphäre zu schaffen, die auf Themen wie Natur, Emotionen, Feiertage, Silvester, Geburtstage, Partys und mehr basiert.
+- LED Streifen mit Sprachsteuerung: Govee LED Streifen ist mit Alexa und Google Assistant kompatibel, sodass Sie den smart LED Streifen ein- und ausschalten und Helligkeit, Farbe, Szenenmodus, Musikmodus und mehr ändern können, ohne Ihr Telefon anzutippen.
+- Intelligente APP-Steuerung LED Streifen: Entdecken Sie eine Vielzahl von Optionen, Anpassungen und Community-Funktionen in der Govee Home-App. Finden Sie aktualisierte Effekte und Farbwerkzeuge, speichern und teilen Sie DIY-Effekte usw.
 - Verbesserter Musik Sync: Govee RGBIC LED Strip verfügt jetzt über 11 erweiterte Musikmodi mit einem eingebauten hochempfindlichen Mikrofon. Die Farben Ihres Govee LED Lichterkettes können sich im Takt der Musik oder sogar des Spieltons bewegen.
 - Segmentierte RGBIC Technologie:Govee LED Strip verwendet die spezielle Govee RGBIC-Technologie, die es diesem LED Strip ermöglicht, mehrere Farben gleichzeitig anzuzeigen, um eine lebendigere, dynamischere und anpassbare Beleuchtung zu erzielen.
 

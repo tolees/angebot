@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ein Grill mit großer Kapazität, der für perfekte Grillergebnisse sorgt
-- Enthält: 5,7-l-Kochtopf, Crisp-Korb mit 3,8 l Fassungsvermögen, Grillplatte mit 740 cm2 Fläche, Reinigungsbürste, Chefkoch-Rezeptbuch. Spülmaschinenfeste Teile
 - Mehr als nur ein Grill – 6 Zubereitungsfunktionen: Grillen, Heißluft-Frittieren, Backen, Braten, Aufwärmen und Dörren
 - Frittiertes unbeschwert genießen – dank Heißluft-Frittieren mit bis zu 75 % weniger Fett als bei herkömmlichen Frittiermethoden
+- Enthält: 5,7-l-Kochtopf, Crisp-Korb mit 3,8 l Fassungsvermögen, Grillplatte mit 740 cm2 Fläche, Reinigungsbürste, Chefkoch-Rezeptbuch. Spülmaschinenfeste Teile
+- Ein Grill mit großer Kapazität, der für perfekte Grillergebnisse sorgt
 - Smart Cook-System – Der digitale Temperaturfühler informiert Sie, sobald Ihre Mahlzeit perfekt nach Ihren Wünschen gegart ist
 
 [🛒 Hier!!]({{< param buyurl >}})

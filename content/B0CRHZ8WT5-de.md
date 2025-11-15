@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sustainable Discovery Tour: The set includes comprehensive researcher equipment, diving equipment, and an eco-friendly catamaran with a solar roof. Ideal for young explorers who want to learn about nature conservation in a playful way
 - Everyday use: instructions for assembly (with parents), High quality and robust design, To clean the parts (not including stickers), place pieces under running water containing no chemical agents
-- Toy for children ages 4+: Fits perfectly in childrens hands due to age-appropriate size pieces, easy to hold thanks to its rounded edges
-- Fascinating Underwater World: Explore the Great Barrier Reef with the catamaran and its glass bottom. The magnifying function allows a close-up view of hammerhead sharks, rays, sea turtles, and other marine life in their natural habitat
+- Sustainable Discovery Tour: The set includes comprehensive researcher equipment, diving equipment, and an eco-friendly catamaran with a solar roof. Ideal for young explorers who want to learn about nature conservation in a playful way
 - Contents: 67 pieces with instructions: 3 figures, 12 animals, 52 additional accessories; materials made from plastic; LxWxH: approx. 46 x 28.4 x 9.2 cm, weight: 880 g, 71623
+- Fascinating Underwater World: Explore the Great Barrier Reef with the catamaran and its glass bottom. The magnifying function allows a close-up view of hammerhead sharks, rays, sea turtles, and other marine life in their natural habitat
+- Toy for children ages 4+: Fits perfectly in childrens hands due to age-appropriate size pieces, easy to hold thanks to its rounded edges
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CRHZ8WT5{{</world>}}

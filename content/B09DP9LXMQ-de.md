@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Geeignet zur Gesichts-, Hand- und Körperpflege
 - Verhindert Austrocknung der Haut
 - Zieht schnell ein, hinterlässt keine Fettschicht
 - Verfügt über einen männlichen Duft
-- Geeignet zur Gesichts-, Hand- und Körperpflege
 - Pflegt und befeuchtet die Haut
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Anzahl der Teile: 128
 - Hol dir auch noch das Set Polizei-Verfolgungsjagd (42091) und lasse die Verfolgung beginnen
-- Vom Hersteller empfohlenes Alter: 7+
-- Fluchtfahrzeug
 - Hat ein cooles Farbmuster in Rot, Schwarz und Grau mit Flammenaufklebern für einen knallharten Bösewicht-Look
+- Fluchtfahrzeug
+- Vom Hersteller empfohlenes Alter: 7+
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07FP6L58N{{</world>}}

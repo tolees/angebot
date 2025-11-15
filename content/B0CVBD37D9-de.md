@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 x Samsung EVO Select 2024 micro-SD-Karte MB-ME512SA/EU, 512 GB, Inkl. SD-Adapter für eine Reihe verschiedener Geräte
-- Hohe Geschwindigkeit: geeignet für 4K UHD- und Super Slow Motion-Aufnahmen dank bis zu 160 MB/s¹ ² Übertragungsgeschwindigkeit (UHS-I U1)
-- Viel Platz: 512 GB Speicherkapazität für bis zu 30 Stunden Aufnahmezeit von 4K UHD Videos oder 270.108 Fotos⁴
 - Auf Geschwindigkeit optimierte microSD-Speicherkarte – perfekt für den Einsatz in Smartphones & Tablets
 - Hohe Sicherheit für deine Daten dank 6-fach Schutz: Wasserfest⁶, temperaturbeständig⁷, röntgensicher⁸, magnetresistent⁹, sturzsicher¹⁰ und verschleißfrei¹¹
+- Hohe Geschwindigkeit: geeignet für 4K UHD- und Super Slow Motion-Aufnahmen dank bis zu 160 MB/s¹ ² Übertragungsgeschwindigkeit (UHS-I U1)
+- Viel Platz: 512 GB Speicherkapazität für bis zu 30 Stunden Aufnahmezeit von 4K UHD Videos oder 270.108 Fotos⁴
+- Lieferumfang: 1 x Samsung EVO Select 2024 micro-SD-Karte MB-ME512SA/EU, 512 GB, Inkl. SD-Adapter für eine Reihe verschiedener Geräte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CVBD37D9{{</world>}}

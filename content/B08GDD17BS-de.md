@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Packung mit 2 Stück
-- Amazon Frustfreies Setup (FFS) — Die Einrichtung ist mit Alexa schneller als je zuvor. Verwenden Sie Ihr Echo-Gerät, um die Buchse per Sprachbefehl einzurichten
-- Achtung: kein europäischer Erdungsstecker, nur für eine Typ-C-Buchse (oder Buchsen).
-- Sprachsteuerung - Kompatibel mit Alexa und Google Assistant zur einfachen Steuerung des Smart Plug mithilfe von Sprache.
 - Maximale Belastung: 2300 W, 10 A; strenge Qualitätskontrolle durch das Labor von tp-link und Zertifizierung durch die internationale Behörde.
-- Fernzugriff — Steuern Sie mit der Tapo-App auf Ihrem Smartphone Geräte, die mit dem Smart Plug verbunden sind, überall dort, wo Internet vorhanden ist.
-- Kein Hub erforderlich — Stellt eine Verbindung zu Ihrem vorhandenen Wi-Fi-Router her.
 - Abwesenheitsmodus: Schalten Sie Ihre Geräte in programmierten Zeitabständen ein und aus, um die Präsenz im Haus zu simulieren.
+- Achtung: kein europäischer Erdungsstecker, nur für eine Typ-C-Buchse (oder Buchsen).
+- Fernzugriff — Steuern Sie mit der Tapo-App auf Ihrem Smartphone Geräte, die mit dem Smart Plug verbunden sind, überall dort, wo Internet vorhanden ist.
+- Packung mit 2 Stück
+- Sprachsteuerung - Kompatibel mit Alexa und Google Assistant zur einfachen Steuerung des Smart Plug mithilfe von Sprache.
+- Kein Hub erforderlich — Stellt eine Verbindung zu Ihrem vorhandenen Wi-Fi-Router her.
+- Amazon Frustfreies Setup (FFS) — Die Einrichtung ist mit Alexa schneller als je zuvor. Verwenden Sie Ihr Echo-Gerät, um die Buchse per Sprachbefehl einzurichten
 - Planung - Programmieren Sie den Smart Plug so, dass er automatisch Strom nach Ihren Bedürfnissen liefert. So stellen Sie die Lichter in der Abenddämmerung ein und schalten sie im Morgengrauen aus.
 
 [🛒 Hier!!]({{< param buyurl >}})

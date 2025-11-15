@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GAMING: Das Game Menu 2 bietet alles, was man zum Gewinnen braucht, an einem Ort, 4K/120fps, VRR und ALLM werden unterstützt, und PlayStation-Nutzer können zusätzliche Spielfunktionen verwenden. Mit PS Remote Play können Sie von überall aus spielen.
 - SOUNDQUALITÄT: Wie im Kino kommt der Ton dank unserer Acoustic Multi-Audio-Technologie direkt vom Geschehen auf dem Bildschirm. Voice Zoom 3 nutzt KI für eine verbesserte Lautstärke und Klarheit der Dialoge.
-- APPS: Stöbern Sie auf diesem Google TV in mehr als 400.000 Filmen und Serien aus allen Ihren Streaming-Diensten, lösen Sie 10 Filme und 24 Monate unbegrenztes Streaming auf SONY PICTURES CORE ein und genießen Sie Sprachsteuerung, Apple AirPlay 2 und vieles mehr!
 - BILDQUALITÄT: Die KI-gesteuerte, helle XR Mini LED sorgt in Kombination mit unserem XR Backlight Master Drive für naturgetreue 4K-Details und beeindruckende Kontraste - es ist dieselbe Technologie, die auch in professionellen Filmmonitoren verwendet wird.
+- GAMING: Das Game Menu 2 bietet alles, was man zum Gewinnen braucht, an einem Ort, 4K/120fps, VRR und ALLM werden unterstützt, und PlayStation-Nutzer können zusätzliche Spielfunktionen verwenden. Mit PS Remote Play können Sie von überall aus spielen.
+- APPS: Stöbern Sie auf diesem Google TV in mehr als 400.000 Filmen und Serien aus allen Ihren Streaming-Diensten, lösen Sie 10 Filme und 24 Monate unbegrenztes Streaming auf SONY PICTURES CORE ein und genießen Sie Sprachsteuerung, Apple AirPlay 2 und vieles mehr!
 - TV + SOUNDBAR: Kombinieren Sie den Fernseher mit einer Sony Soundbar, um exklusive Funktionen zu nutzen. Acoustic Centre Sync verwandelt den Fernseher in einen Center-Lautsprecher, 360 Spatial Sound bildet Phantom-Lautsprecher in einer kinoähnlichen Anordnung und vieles mehr.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

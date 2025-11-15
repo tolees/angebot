@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mundwasser gegen Krebsgeschwüre, Geschwüre oder Krebsgeschwüre. Reine Hyaluronsäure
 - Bringt schnelle und anhaltende Linderung von der ersten Anwendung an
+- Mundwasser gegen Krebsgeschwüre, Geschwüre oder Krebsgeschwüre. Reine Hyaluronsäure
 - Erzeugt einen Film, der Schmerzen lindert und vor äußeren Einflüssen schützt; spendet geschädigtem Gewebe Feuchtigkeit; erleichtert die Heilung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

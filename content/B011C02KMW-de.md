@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: SB100, inkl. Halterung für TV-Montage, Audio- und USB Kabel, Bedienungs- Installationsanleitung
 - Ideal geeignet für Reflexion TVs 16" - 32", optimale Klangerweiterung, räumlicher Klang, besserer Sound
-- Soundbar mit 2 Breitbandlautsprechern, Drehknopf mit Ein-Ausschalter und Lautstärkeregler
+- Lieferumfang: SB100, inkl. Halterung für TV-Montage, Audio- und USB Kabel, Bedienungs- Installationsanleitung
 - Stromversorgung über 5V USB, AudioGerätemaße (L/T/H): 400 x 55 x 60mm, Gewicht 450 g
+- Soundbar mit 2 Breitbandlautsprechern, Drehknopf mit Ein-Ausschalter und Lautstärkeregler
 - Anschlüsse: Audio-Anschluss für die Kopfhörer-Buchse am TV, 5V Stromanschluss
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

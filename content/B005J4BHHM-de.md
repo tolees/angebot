@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mikrowellengeeignet
 - Spülmaschinenfest
+- Mikrowellengeeignet
 - Hochwertiges Premium-Porzellan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

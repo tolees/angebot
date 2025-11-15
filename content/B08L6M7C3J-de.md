@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 80 cm (32") Android TV mit Full HD Auflösung & sprachgesteuerter Fernbedienung
-- Lieferumfang: MEDION LIFE Smart-TV P8322500 MD832100, Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (AAA), Bedienungsanleitung
 - Allzeit empfangsbereit: Nutzen Sie Kabel, Satellit und das neue digitale Antennenfernsehen DVB-T2 HD mit dem HD Triple Tuner.
+- 80 cm (32") Android TV mit Full HD Auflösung & sprachgesteuerter Fernbedienung
 - FHD Smart-TV mit HDR, PVR ready, CI+ Schnittstelle, WLAN, Bluetooth, HbbTV, Amazon Prime Video und weiteren Smart-TV-Diensten.
 - Extra scharf: Mit dem Full HD Fernseher erleben Sie Ihr TV-Programm in bester Bildqualität!
+- Lieferumfang: MEDION LIFE Smart-TV P8322500 MD832100, Standfüße inkl. Schrauben, Fernbedienung inkl. Batterien (AAA), Bedienungsanleitung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08L6M7C3J{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Produkt-Garantie】24 Monate Produktgarantie + 6 Monate verlängerte AMZ-Garantie.
 - 【Schnelle Geschwindigkeit jenseits deiner Vorstellung】 Mit theoretischen Spitzengeschwindigkeiten von 3.000 Mbit/s kannst du 4K-Filme streamen und deine Lieblingsspiele problemlos spielen.
+- 【Produkt-Garantie】24 Monate Produktgarantie + 6 Monate verlängerte AMZ-Garantie.
 - 【Visualisierte WLAN-Diagnose】 Mit dem AX3S kannst du die WLAN-Abdeckungskarte für dein Zuhause überprüfen, den Netzwerkstatus auf einen Blick sehen und Netzwerkprobleme einfach lösen, indem du die vorgeschlagenen Tipps befolgst.
 - 【Umfassende Kindersicherung】 Behalte die Online-Aktivitäten deiner Familie im Auge, blockiere unerwünschte Websites und beschränke den Zugriff auf ausgewählte Geräte.
 - 【Große Bandbreite mit 160 MHz, High-Speed】AX3S unterstützt eine große Frequenzbandbreite von 160 MHz und bietet optimale Geschwindigkeit für mehr Effizienz.

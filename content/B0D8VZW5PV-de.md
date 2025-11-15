@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Bestseller in hochwertiger Ausgabe
 - Neue, exklusive Sonderkarte sowie doppelseitige Metallmünzen
-- Original-Illustrationen von "Das Schwarze Auge
 - Ab 10 Jahre
+- Original-Illustrationen von "Das Schwarze Auge
+- Der Bestseller in hochwertiger Ausgabe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D8VZW5PV{{</world>}}

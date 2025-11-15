@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Anschlüsse: 1 x HDMI mit ARC und CEC, 1 x USB, 1 x Digital Optical Input, 1 x Aux-In 3.5 mm, 1 x Bluetooth
 - 2.0 Soundbar für Fernseher und Monitore kleiner als 32 Zoll, Außenmaße Soundbar: 65.2 x 8.8 x 6.4 cm
-- 90 Watt maximale Gesamtausgangsleistung
 - Lieferumfang: HT-SB107 Soundbar, Soundbar-Fernbedienung (inklusive Batterien), Stromkabel, 2 x Wandhalterung, Bedienungsanleitung, Quick Start Guide, Garantieheft
+- 90 Watt maximale Gesamtausgangsleistung
 - LED-Anzeige, Metall-Frontgitter mit mattschwarzer Oberfläche, Wandmontage oder Tischaufstellung möglich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

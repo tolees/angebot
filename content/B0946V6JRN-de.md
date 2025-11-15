@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 1.632 kg
 - Packungage die Größe: 10.2 L x 27.1 H x 17.6 W
+- 1.632 kg
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0946V6JRN{{</world>}}

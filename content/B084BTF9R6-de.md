@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leichte Textur
-- Mit schützender und pflegender Wirkung
 - Lang anhaltende Feuchtigkeitsversorgung
 - Feuchtigkeitscreme für das Gesicht
+- Leichte Textur
+- Mit schützender und pflegender Wirkung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B084BTF9R6{{</world>}}

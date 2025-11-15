@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Obermaterial aus Synthetikleder
 - Reguläre Passform
 - Klettverschluss
-- Obermaterial aus Synthetikleder
 - Textilfutter
 - Abriebfeste Non Marking Gummiaußensohle
 

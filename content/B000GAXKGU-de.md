@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - befüllt mit einem Radierstück und 2 Feinminen, Härtegrad HB
+- individuell einstellbarer Härtegradindikator
 - das Edelstahlgehäuse verfügt über eine duale Griffzone aus fein strukturiertem Metall und farbigen Gumminoppen
 - 4 mm voll versenkbarer Minenführung
 - das Modell verfügt über eine voll versenkbare Minenführung, die über den Clip eingezogen werden kann
-- individuell einstellbarer Härtegradindikator
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000GAXKGU{{</world>}}

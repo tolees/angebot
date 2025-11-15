@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Absatzform: Flach
-- Leder: Leder
-- Schuhweite: Medium
-- Verschluss: Gummi
-- Obermaterial: Synthetik
 - Innenmaterial: Leder
+- Absatzform: Flach
+- Obermaterial: Synthetik
+- Leder: Leder
+- Verschluss: Gummi
+- Schuhweite: Medium
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09N7KNWY3{{</world>}}

@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Made in Germany
 - Schnelle und saubere Befestigung
-- Dauerhafte Haftung
 - Dermatologisch getestet
+- Dauerhafte Haftung
 - Wieder ablösbar und wieder verwendbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

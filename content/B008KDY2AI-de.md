@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Größe: 75 x 75 mm
 - Farbe: gelb
 - Haftnotizen-Würfel
+- Größe: 75 x 75 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B008KDY2AI{{</world>}}

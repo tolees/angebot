@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Verschluss: Bungee
 - Sohle: Rubber
-- Innenmaterial: Canvas
 - Obermaterial: Seude
+- Innenmaterial: Canvas
+- Verschluss: Bungee
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00QRCGJ3W{{</world>}}

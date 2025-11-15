@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Konnektivität: Verbindung zu Xbox-Konsolen über Xbox Wireless oder über das mitgelieferte 9-Zoll-USB-C-Kabel. Verbinden Sie sich drahtlos mit PCs, Tablets, Windows 10- und Android-Geräten sowie iOS-Geräten über Bluetooth oder mit dem mitgelieferten 9-Zoll-USB-C-Kabel. Stellen Sie mit dem mitgelieferten 2,7 m langen USB-C-Kabel eine Verbindung zu einem Windows 7- oder 8.1-PC her. Einige Funktionen werden nicht unterstützt
 - Kompatibel mit Xbox Series X, Xbox One X, Xbox One S, Xbox One, Windows 10, Android und iOS. Die Funktionalität hängt vom kompatiblen Gerät und der Betriebssystemversion ab
 - Hochwertige Gaming-Equipment für anspruchsvolle Spieler
-- Konnektivität: Verbindung zu Xbox-Konsolen über Xbox Wireless oder über das mitgelieferte 9-Zoll-USB-C-Kabel. Verbinden Sie sich drahtlos mit PCs, Tablets, Windows 10- und Android-Geräten sowie iOS-Geräten über Bluetooth oder mit dem mitgelieferten 9-Zoll-USB-C-Kabel. Stellen Sie mit dem mitgelieferten 2,7 m langen USB-C-Kabel eine Verbindung zu einem Windows 7- oder 8.1-PC her. Einige Funktionen werden nicht unterstützt
 - Systemanforderungen Kompatibel mit Xbox-Systemen und PCs mit Windows 7 oder höher. Windows 10/11: Erfordert eine Bluetooth-Verbindung, ein mitgeliefertes USB-Kabel oder einen Xbox Wireless Adapter (separat erhältlich). Windows 7 oder 8.1: benötigt mitgeliefertes USB-Kabel; Einige Funktionen werden nicht unterstützt. Treiber sind unter xbox.com/xboxone/PC-controller verfügbar
 
 [🛒 Hier!!]({{< param buyurl >}})

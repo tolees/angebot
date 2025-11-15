@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kommt mit 6 Zeichenstiften und 8 Ersatzminen auf Kohlenstoffbasis 0,3 mm, 0,5 mm, 0,7 mm und 0,9 mm (HB) + 2,0 mm (4B, 2B, HB, 2H) auf Carbonbasis, 2 Radiergummis, 9 Kappenradierer, 2 Bleispitzer, aktualisierte Aufbewahrungsbox-Verpackung
 - 2 x 2 mm Minenhalter: rutschfestes Stiftrohr aus Metall mit Anspitzer auf der Kappe des 2 mm Druckbleistifts. 2 zusätzliche Anspitzer sind ebenfalls vorhanden, damit die Mine 2.0 die feine Spitze hält, während sie ausgeschaltet wird.
-- Der Messingmetallkörper sorgt für eine ideale Gewichtsbalance für ermüdungsfreies Schreiben und Zeichnen. Es bietet Ihnen effektivere und qualitativ hochwertige Aufgaben.
-- Perfektes Schulbedarf: Ideal für Künstler, Profis, Lehrer und Schüler gleichermaßen. Perfekt zum Schreiben, Zeichnen, Zeichnen und Skizzieren
+- Kommt mit 6 Zeichenstiften und 8 Ersatzminen auf Kohlenstoffbasis 0,3 mm, 0,5 mm, 0,7 mm und 0,9 mm (HB) + 2,0 mm (4B, 2B, HB, 2H) auf Carbonbasis, 2 Radiergummis, 9 Kappenradierer, 2 Bleispitzer, aktualisierte Aufbewahrungsbox-Verpackung
 - 4 mechanische Bleistifte: Die 4 mm Spitze macht es ideal für die Verwendung mit Linealen und Schablonen, verschiedene Liniengrößen (0,3 mm, 0,5 mm, 0,7 mm und 0,9 mm) erfüllen Ihre Anforderung. Die polygonale Form dieser mechanischen Bleistifte verhindert, dass sie auf Zeichentischen rutschen. Zusätzlich ist der Bleistift mit einer 90 mm Mine vorgefüllt.
+- Perfektes Schulbedarf: Ideal für Künstler, Profis, Lehrer und Schüler gleichermaßen. Perfekt zum Schreiben, Zeichnen, Zeichnen und Skizzieren
+- Der Messingmetallkörper sorgt für eine ideale Gewichtsbalance für ermüdungsfreies Schreiben und Zeichnen. Es bietet Ihnen effektivere und qualitativ hochwertige Aufgaben.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08JJ7LR6G{{</world>}}

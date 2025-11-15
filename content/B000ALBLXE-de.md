@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - geschlecht: - für sie / for her / pour femme
-- produktgruppe: - parfümerie
 - designer - hersteller: - clinique
+- produktgruppe: - parfümerie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000ALBLXE{{</world>}}

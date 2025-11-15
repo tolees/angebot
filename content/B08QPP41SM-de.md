@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
-- Verschluss: Klettverschluss
 - Sohle: Gummi
-- Innenmaterial: Textil
+- Verschluss: Klettverschluss
+- Obermaterial: Leder
 - Absatzform: Flach
+- Innenmaterial: Textil
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QPP41SM{{</world>}}

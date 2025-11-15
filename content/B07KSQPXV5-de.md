@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Columbia Herren Kapuzen-Jacke, Powder Pass, Farbe: BLACK (Schwarz), Größe: L, Art.-Nr.: 1773271
-- Wasserabweisender Stoff für Trockenheit bei allen Outdoor-Abenteuern
 - Optimale Passform dank verstellbarem Tunnelzugsaum
 - Daunenjacke mit Kapuze für Herren, Hybrid-Konstruktion
 - Kinnschutz und Scuba-Kapuze zum Schutz vor den Elementen
+- Wasserabweisender Stoff für Trockenheit bei allen Outdoor-Abenteuern
+- Lieferumfang: 1x Columbia Herren Kapuzen-Jacke, Powder Pass, Farbe: BLACK (Schwarz), Größe: L, Art.-Nr.: 1773271
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07KSQPXV5{{</world>}}

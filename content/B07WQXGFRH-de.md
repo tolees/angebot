@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- FLEXIBLE BELEUCHTUNG - Die Außenlampe ist sowohl drehbar als auch schwenkbar. Mit 90° Erfassungswinkel und einer Reichweite von 5-12m bekommt der Bewegungssensor alle relevanten Bewegungen mit
 - FÜR JEDEN WAS DABEI - Unsere Solarlampe aus robustem Kunststoff ist nur der Anfang. Wir bieten Ihnen noch Solarlampen für außen, Gartenleuchten, Wandleuchten, Außenwandleuchten und Bodenleuchten an
 - PRAKTISCHER LED STRAHLER - Die Gartenleuchte besteht aus zwei Teilen. Zum einen das Solarpanel und zum anderen den LED Strahler. Beide Komponenten sind mit einem 2,5m langen Kabel verbunden
 - WETTERFEST FÜR ALLE BEREICHE - Unsere Wandleuchte mit Bewegungsmelder ist wetterfest (IP44) und eignet sich als Außenleuchte, Gartenleuchte, Treppenbeleuchtung, Terrassenbeleuchtung oder Wegeleuchte
 - INTELLIGENT - Der LED Strahler außen besitzt 3 Modi: 1. On. 2. Auto, bei dem tagsüber aufgeladen und bei Dämmerung geleuchtet wird und 3. PIR, bei dem sich das Licht für 30 Sek. bei Bewegung aktiviert
+- FLEXIBLE BELEUCHTUNG - Die Außenlampe ist sowohl drehbar als auch schwenkbar. Mit 90° Erfassungswinkel und einer Reichweite von 5-12m bekommt der Bewegungssensor alle relevanten Bewegungen mit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07WQXGFRH{{</world>}}

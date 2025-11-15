@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Knopf
-- Länge: Standardlänge
 - Pattern: Einfarbig
+- Länge: Standardlänge
 - Baumwolle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

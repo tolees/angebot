@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Oberteil mit Blockringeln in Weiß und Dunkelblau
 - V-Ausschnitt mit uni-dunkelblauem Halsrand
-- in angenehm weicher Single-Jersey-Qualität // erhältlich auch in besonderen Größen
 - mit bequemen, dunkelblauen Bündchen an den Arm-, Saum- und Beinabschlüssen
+- in angenehm weicher Single-Jersey-Qualität // erhältlich auch in besonderen Größen
+- Oberteil mit Blockringeln in Weiß und Dunkelblau
 - aus der SCHIESSER-Serie ""Dark Sapphire""
 
 [🛒 Hier!!]({{< param buyurl >}})

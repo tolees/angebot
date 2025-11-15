@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: 100% Gummi
-- Farbe: Mittelblau
-- Natural Textiles,Recycled Synthetics
 - Obermaterial: 100 % recycelte Baumwolle
+- Sohle: 100% Gummi
+- Natural Textiles,Recycled Synthetics
+- Farbe: Mittelblau
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C8K2GY66{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 63% LENZING ECOVERO Viscose, 32% Nylon, 5% Elasthan
-- Klassische Hose
 - Mittlere Taille
+- Klassische Hose
+- Materialzusammensetzung: 63% LENZING ECOVERO Viscose, 32% Nylon, 5% Elasthan
 - Normal geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})

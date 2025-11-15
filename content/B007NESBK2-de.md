@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Country of Release: NLD
-- Record Label: Sony
 - Year of release: 2012
 - Catalog #: 88691 977369
+- Record Label: Sony
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B007NESBK2{{</world>}}

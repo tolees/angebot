@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Kunstleder, Innenmaterial: Synthetik, Laufsohle: PU-Sohle
 - Produkttyp: Sandalen,Sandalen,Keilsandalen,Damenschuhe,Sommerschuhe,Keilsandaletten,Keilabsatz,Wedge-Heel,bequem,flach
 - Absatztyp: Flach, Absatzhöhe: 3.5 cm, Schafttyp: Kurzschaft
+- Obermaterial: Kunstleder, Innenmaterial: Synthetik, Laufsohle: PU-Sohle
 - Weite: Normal (F), Verschluss: Ohne Verschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

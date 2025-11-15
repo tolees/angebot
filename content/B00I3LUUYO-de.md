@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - In-Line-Mikrofon und -Fernbedienung
-- 5-24.000 Hz Frequenzbereich
 - 9-mm-Neodym-Treiber für dynamischen Sound
+- 5-24.000 Hz Frequenzbereich
 - Y-Kabel, 1,2 m Länge
 - Komfortable, festsitzende Silikon-Ohrhörer
 

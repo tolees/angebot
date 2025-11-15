@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kampf der Giganten - Bei Duellen zwischen Domini erwarten dich gewaltige Zusammenstöße ihrer Esper
-- Jetzt vorbestellen und sich die Vorbestellerboni-DLCs: "Gil-Boost-Accessoire: Cait-Sith-Talisman" und "Bonus-Waffe: Kämpferherz" sichern
-- Valisthea - Ein Land, gesegnet mit dem Licht der Mutterkristalle
-- Das Erbe der Kristalle hat unsere Geschichte lang genug geprägt!
 - Die Kraft der Esper - Nutze verschiedene Fertigkeiten, um dich in den rasanten Kämpfen zu behaupten
+- Das Erbe der Kristalle hat unsere Geschichte lang genug geprägt!
+- Valisthea - Ein Land, gesegnet mit dem Licht der Mutterkristalle
+- Jetzt vorbestellen und sich die Vorbestellerboni-DLCs: "Gil-Boost-Accessoire: Cait-Sith-Talisman" und "Bonus-Waffe: Kämpferherz" sichern
+- Kampf der Giganten - Bei Duellen zwischen Domini erwarten dich gewaltige Zusammenstöße ihrer Esper
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BPML6RZ8{{</world>}}

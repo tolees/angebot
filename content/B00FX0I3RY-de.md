@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- aus der innovativen ANTISTRESS-Kollektion
 - Innenfutter aus Leder und Textil
+- aus der innovativen ANTISTRESS-Kollektion
 - rutschfeste und flexible Gummisohle
 
 [🛒 Hier!!]({{< param buyurl >}})

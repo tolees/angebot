@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible Gestaltung
 - Hochwertige Abmessungen
 - Langlebig
+- Flexible Gestaltung
 - Die besten Produkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

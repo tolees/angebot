@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Abnehmbarer 6mm, waschbarer, recycelter Filzinnenstiefel
 - ACHTUNG: Das Logo kann von der Abbildung abweichen.
-- Wasserdichtes Nubukleder, wasserdichte versiegelte-Naht-Konstruktion
 - Vulkanisierte Gummi-Außensohle
+- Wasserdichtes Nubukleder, wasserdichte versiegelte-Naht-Konstruktion
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0065KAUYU{{</world>}}

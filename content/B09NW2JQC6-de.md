@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexible, metallgefasste Faserspitze
 - Pigmentierten Tinte, die nach dem Trocknen wasserfest ist und für Outlines und in Kombination mit Aquarellfarbe verwendet werden kann
 - Metallgefasste Acrylspitze schreibt leicht und sanft
+- Flexible, metallgefasste Faserspitze
 - 3 Strichstärken in einem Set (fein/mittel/breit)
 - Unersetzlich für Kalligraphie und Handlettering
 

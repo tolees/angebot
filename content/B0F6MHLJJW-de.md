@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- ①【Haltbarkeit trifft Einfachheit】SUNLU PETG Filament kombiniert den sorgenfreien Druck von PLA mit der hohen Zähigkeit von ABS und ermöglicht Ihnen so mühelos stabile und langlebige Drucke.
+- ⑥【Säure- und alkalibeständig】 Unsere PETG-Filamente sind öl- und lösungsmittelbeständig und übertreffen herkömmliches PLA unter rauen Bedingungen wie in Werkstätten oder im Freien.
 - ③【Geringe Verformung und Schrumpfung】Die speziell entwickelte thermische Stabilität minimiert Schichttrennung und Verformung und gewährleistet so Maßgenauigkeit ohne Druckergehäuse.
 - ⑨【Breite Kompatibilität】 Das SUNLU PETG-Filament ist mit den meisten FDM-Druckern kompatibel. Empfohlene Düsentemperatur: 230–240 °C, empfohlene Druckgeschwindigkeit: 50–100 mm/s.
-- ⑩【SUNLU Bewährte Zuverlässigkeit】Vakuumversiegelt mit Trockenmittel. Von Ingenieuren, Bastlern und Pädagogen für industrielle und Heimwerkeranwendungen geschätzt.
-- ②【Hohe Hitzebeständigkeit】Unser PETG-3D-Druckfilament ist hitzebeständiger als herkömmliches PLA und ideal für Fahrzeugarmaturen und Elektronikgehäuse.
-- ⑦【Kristallklare Transparenz】 Dank der hohen Transparenz eignet sich das PETG Filament 1.75mm zum Drucken transparenter oder durchscheinender Lampenschirme, Vitrinen und Kunstwerke.
-- ⑥【Säure- und alkalibeständig】 Unsere PETG-Filamente sind öl- und lösungsmittelbeständig und übertreffen herkömmliches PLA unter rauen Bedingungen wie in Werkstätten oder im Freien.
 - ④【Reibungsloser Druck】Das 1,75 mm PETG Filament garantiert einen gleichmäßigen Extrusionsfluss und ermöglicht so detaillierte Miniaturen, Zahnräder und Hochgeschwindigkeits-Prototyping.
-- ①【Haltbarkeit trifft Einfachheit】SUNLU PETG Filament kombiniert den sorgenfreien Druck von PLA mit der hohen Zähigkeit von ABS und ermöglicht Ihnen so mühelos stabile und langlebige Drucke.
+- ⑦【Kristallklare Transparenz】 Dank der hohen Transparenz eignet sich das PETG Filament 1.75mm zum Drucken transparenter oder durchscheinender Lampenschirme, Vitrinen und Kunstwerke.
+- ②【Hohe Hitzebeständigkeit】Unser PETG-3D-Druckfilament ist hitzebeständiger als herkömmliches PLA und ideal für Fahrzeugarmaturen und Elektronikgehäuse.
 - ⑤【Feuchtigkeitsbeständige Formel】SUNLU PETG hat eine geringe Wasseraufnahme, wodurch die Feuchtigkeitsaufnahme während des Druckvorgangs minimiert werden kann.
+- ⑩【SUNLU Bewährte Zuverlässigkeit】Vakuumversiegelt mit Trockenmittel. Von Ingenieuren, Bastlern und Pädagogen für industrielle und Heimwerkeranwendungen geschätzt.
 - ⑧【Leuchtende Farben】 Wählen Sie aus über 20 Farben mit professionellem Finish. Keine Nachbearbeitung erforderlich – Ihre Kreationen sehen direkt nach dem Druckbett poliert aus.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

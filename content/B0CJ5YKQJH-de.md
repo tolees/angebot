@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BENACHRICHTIGUNGEN ÜBERALL IN DER WOHNUNG: Kopple deine Videotürklingel mit einem Ring Chime oder einem kompatiblen Alexa-fähigen Gerät, um Audio-Benachrichtigungen überall in deinem Zuhause zu hören.
-- INTEGRIERTER AKKU: Der integrierte Akku verfügt jetzt über ein innovatives Entnahmewerkzeug, mit dem das Aufladen noch einfacher ist.
-- BENACHRICHTIGUNGEN IN ECHTZEIT: Erhalte Benachrichtigungen direkt auf dein Telefon, wenn die Videotürklingel betätigt oder Bewegung erfasst wird.
-- MEHR ÜBERBLICK. MEHR KONTROLLE.MEHR SICHERHEIT: Speichere deine aufgezeichneten Videos bis zu 180 Tage lang, um sie jederzeit noch einmal anzusehen. Lass dich benachrichtigen, wenn Personen an deiner Tür sind oder ein Paket abgelegt wurde und vieles mehr - mit einem Ring Home-Abonnement (separat erhältlich)*.
 - PRIVATSPHÄRE-EINSTELLUNGEN: Verwalte die Einstellungen für deine Privatsphäre und deine Sicherheit über das benutzerfreundliche Dashboard in der Ring-App.
+- BENACHRICHTIGUNGEN IN ECHTZEIT: Erhalte Benachrichtigungen direkt auf dein Telefon, wenn die Videotürklingel betätigt oder Bewegung erfasst wird.
+- INTEGRIERTER AKKU: Der integrierte Akku verfügt jetzt über ein innovatives Entnahmewerkzeug, mit dem das Aufladen noch einfacher ist.
 - OPTIONALE MONTAGE OHNE BOHREN: Mit der selbsthaftenden Halterung (separat erhältlich) kannst du die Videotürklingel ganz einfach installieren, ohne bohren zu müssen. Diese robuste, wetterfeste Halterung lässt sich ebenso leicht entfernen wie montieren.
-- HD-VIDEO MIT NACHTSICHT IN FARBE: Durch 1440p-HD-Video mit Nachtsicht in Farbe hast du auch nach Einbruch der Dunkelheit ein klares Bild von dem, was vor deiner Haustür passiert. Und mit der Kopf-bis-Fuß-Aufnahme kannst du mehr von Personen und Paketen sehen.
 - VERKNÜPFE DEINE GERÄTE: Ring-Geräte sind einfach zu installieren und zu verwenden. Alle Ring-Geräte können in der Ring-App miteinander verknüpft werden, um so gemeinsam dein Zuhause zu schützen. Ring Home-Abonnement erforderlich; separat erhältlich.*
+- MEHR ÜBERBLICK. MEHR KONTROLLE.MEHR SICHERHEIT: Speichere deine aufgezeichneten Videos bis zu 180 Tage lang, um sie jederzeit noch einmal anzusehen. Lass dich benachrichtigen, wenn Personen an deiner Tür sind oder ein Paket abgelegt wurde und vieles mehr - mit einem Ring Home-Abonnement (separat erhältlich)*.
+- HD-VIDEO MIT NACHTSICHT IN FARBE: Durch 1440p-HD-Video mit Nachtsicht in Farbe hast du auch nach Einbruch der Dunkelheit ein klares Bild von dem, was vor deiner Haustür passiert. Und mit der Kopf-bis-Fuß-Aufnahme kannst du mehr von Personen und Paketen sehen.
+- BENACHRICHTIGUNGEN ÜBERALL IN DER WOHNUNG: Kopple deine Videotürklingel mit einem Ring Chime oder einem kompatiblen Alexa-fähigen Gerät, um Audio-Benachrichtigungen überall in deinem Zuhause zu hören.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CJ5YKQJH{{</world>}}

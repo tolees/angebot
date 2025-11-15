@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maße (B/T/H): ca. 30/20/10 cm
-- Sind für die normalen Bausteine geeignet
 - Die sind 100% kompatibel mit Lego
-- Ein ideales Geschwistergeschenk für lego-fans
 - Im üppigen Regenwald gibt es einen Fluss mit Krokodilen, Hummer, kleinen Fischen und einem Braunbären, der auf das Angeln wartet.
+- Maße (B/T/H): ca. 30/20/10 cm
+- Ein ideales Geschwistergeschenk für lego-fans
+- Sind für die normalen Bausteine geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07YFY8VK6{{</world>}}

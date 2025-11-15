@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schnellspannbohrfutter - Das einhülsige 13 mm-Bohrfutter nimmt das gewünschte Werkzeugzubehör im Handumdrehen auf.
-- Power X-Change - Der Akku-Bohrschrauber ist Mitglied der Power X-Change-Familie, in der alle Akkus mit allen Systemgeräten kombiniert werden können. Die Lieferung erfolgt ohne Akku und ohne Ladegerät.
 - Optimale Ausleuchtung - Um auch in dunklen, unzugänglichen Bereichen arbeiten zu können, gewährt das integrierte LED-Licht stets einwandfreie Sicht und optimale Ausleuchtung.
 - Kraftvoll - Das leistungsstarke Zwei-Gang-Getriebe des Akku-Bohrschraubers ermöglicht kraftvolles Bohren und Schrauben mit 40 Nm Drehmoment und 21 Drehmomentstufen.
+- Power X-Change - Der Akku-Bohrschrauber ist Mitglied der Power X-Change-Familie, in der alle Akkus mit allen Systemgeräten kombiniert werden können. Die Lieferung erfolgt ohne Akku und ohne Ladegerät.
+- Schnellspannbohrfutter - Das einhülsige 13 mm-Bohrfutter nimmt das gewünschte Werkzeugzubehör im Handumdrehen auf.
+- PurePOWER Brushless - Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
 - Materialgerecht arbeiten - Die Drehzahl-Elektronik ermöglicht die optimale Anpassung an jedes Material und die jeweilige Anwendung und sorgt für exakte Ergebnisse.
 - Komfort - Das ergonomische Design und die Softgrip-Fläche sorgen dafür, dass der Akku-Bohrschrauber auch bei zeitintensiven Einsätzen sicher und angenehm in der Hand liegt.
-- PurePOWER Brushless - Der wartungsarme und kraftvolle Brushless-Motor sorgt für maximale Leistung bei längerer Laufzeit im Vergleich zu herkömmlichen Kohlebürstenmotoren.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B099N2GSWY{{</world>}}

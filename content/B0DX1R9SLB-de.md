@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Gleichmäßiger und deckender Farbauftrag in nur einem Arbeitsgang: Feinste Zerstäubung dank HVLP-Technologie. Geeignet für wasserlösliche und lösemittelhaltige Lacke, Lasuren, Holzschutzmittel, Öle und mehr.
 - Kabellos dünnflüssige Materialien schnell und perfekt deckend auftragen: Unabhängig von einem Stromanschluss ermöglicht das Akku-Farbsprühsystem W 250 18V unbegrenzte Bewegungsfreiheit bei der Umsetzung kleiner und großer Lackierprojekte im Haus und Garten
-- Click&Paint-Technologie für den schnellen Wechsel des Sprühaufsatzes und einfache Reinigung
 - Vibrationssignal bei niedrigem Akkustand, um unvorhergesehene Arbeitsunterbrechungen durch einen entladenen Akku zu vermeiden
+- Click&Paint-Technologie für den schnellen Wechsel des Sprühaufsatzes und einfache Reinigung
 - BOSCH 18 V POWER FOR ALL Akkus sind mit W 250 18V kompatibel: Austauschbarer Akku bietet mehr Flexibilität beim Sprühen. ***HINWEIS: Akku und Ladegerät sind NICHT IM LIEFERUMFANG ENTHALTEN***
 
 [🛒 Hier!!]({{< param buyurl >}})

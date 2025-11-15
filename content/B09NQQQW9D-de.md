@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- GOOD GRIP
 - LIGHTWEIGHT
 - CUSHIONING
+- GOOD GRIP
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09NQQQW9D{{</world>}}

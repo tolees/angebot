@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - bequem
-- Print
-- T-Shirt
 - Baumwolle
+- T-Shirt
+- Print
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B079BWLFL2{{</world>}}

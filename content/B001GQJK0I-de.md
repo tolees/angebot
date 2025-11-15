@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- KOMFORTABLE BEDIENUNG: Stufenlose Temperatureinstellung mit zweifarbigem LC-Display und Drehknopf, Komfortfunktionen, Wellnessprogramm, 2 programmierbare Speichertasten, Anzeige von Temperatur, Durchflussmenge, Energieverbrauch, Uhrzeit, wählbare Leistung 18, 21 bzw. 24 kW (3 Geräte in 1)
-- KONSTANTE TEMPERATUR: Schnelle Steuerelektronik und präzises Erfassen der Durchflussmenge gewährleistet eine konstante Auslauftemperatur des Warmwassers
-- EINSATZBEREICH: Vollelektronisch geregelter Durchlauferhitzer für eine oder mehrere Wasserstelleln (z.B. Waschtisch, Dusche und Badewanne), Temperatureinstellung 30° - 60°C
-- EINFACHE INSTALLATION: Montage durch Elektrofachkraft erforderlich. Flexible Übertisch- oder Untertischmontage (UT104) mit entsprechendem Zubehör möglich, nutzbar mit allen handelsüblichen Druckarmaturen
-- LÄNDERZULASSUNG: Deutschland
-- QUALITÄT: Made in Germany – Energieeffizient, Spritzwasserschutz, Geräteschutz durch elektronische Luftblasenerkennung, solartauglich bis 60° C
 - LIEFERUMFANG: AEG vollellektronischer Durchlauferhitzer DDLE ÖKO ThermoDrive, Aufhängeleiste, Montageschablone, Sonderzubehör, Bedienungs- und Installationsanleitung, Temperaturfunktaster FBM Comfort (Kann als Ersatzteil nachbestellt werden)
+- KOMFORTABLE BEDIENUNG: Stufenlose Temperatureinstellung mit zweifarbigem LC-Display und Drehknopf, Komfortfunktionen, Wellnessprogramm, 2 programmierbare Speichertasten, Anzeige von Temperatur, Durchflussmenge, Energieverbrauch, Uhrzeit, wählbare Leistung 18, 21 bzw. 24 kW (3 Geräte in 1)
+- EINSATZBEREICH: Vollelektronisch geregelter Durchlauferhitzer für eine oder mehrere Wasserstelleln (z.B. Waschtisch, Dusche und Badewanne), Temperatureinstellung 30° - 60°C
+- LÄNDERZULASSUNG: Deutschland
+- KONSTANTE TEMPERATUR: Schnelle Steuerelektronik und präzises Erfassen der Durchflussmenge gewährleistet eine konstante Auslauftemperatur des Warmwassers
+- QUALITÄT: Made in Germany – Energieeffizient, Spritzwasserschutz, Geräteschutz durch elektronische Luftblasenerkennung, solartauglich bis 60° C
+- EINFACHE INSTALLATION: Montage durch Elektrofachkraft erforderlich. Flexible Übertisch- oder Untertischmontage (UT104) mit entsprechendem Zubehör möglich, nutzbar mit allen handelsüblichen Druckarmaturen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001GQJK0I{{</world>}}

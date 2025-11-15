@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Regular Fit
-- Rundhalsausschnitt mit Rippblende
 - tonige und reflektierende Label Prints vorne und hinten
+- Regular Fit
 - sportives Material
 - mit Logo-Necktape
+- Rundhalsausschnitt mit Rippblende
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DC5DP98F{{</world>}}

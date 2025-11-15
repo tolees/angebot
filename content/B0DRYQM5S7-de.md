@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Powerful 5G Chipset - Dimensity 6300 delivers excellent 5G performance, with up to 3.3Gb/s 5G downlink, 40% faster in urban areas and 30% faster in suburban areas than the competition.
-- 120Hz Eye Comfort Display: The display supports up to 120Hz for a smooth viewing experience. Along with 10 eye care methods, the screen protects eye health throughout the day.
 - 18GB Dynamic RAM & 128GB Storage: With 18GB of dynamic RAM for seamless application transition and the ability to run up to 19 simultaneous applications, as well as 128GB of storage that eliminates space worries, solid performance is guaranteed.
 - Massive 5000mAh battery: Stay on day and night! The phone, equipped with a large 5000mAh battery, ensures a day-long use, handling work or travel trips with ease.
+- 120Hz Eye Comfort Display: The display supports up to 120Hz for a smooth viewing experience. Along with 10 eye care methods, the screen protects eye health throughout the day.
+- Powerful 5G Chipset - Dimensity 6300 delivers excellent 5G performance, with up to 3.3Gb/s 5G downlink, 40% faster in urban areas and 30% faster in suburban areas than the competition.
 - 50MP AI CAMERA - 50MP mode dramatically improves clarity and preserves details even when shooting intricate buildings and landscapes. For a reliable and capable photography experience you can rely on at any time of day.
 
 [🛒 Hier!!]({{< param buyurl >}})

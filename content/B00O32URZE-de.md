@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ideale Farbe, angereichert mit Sheabutter und Traubenkernöl
-- Passt zu allen Lippenstiften der Rouge-Edition-Reihe, da die Kontur hier mit der Lippenstiftfarbe verschmilzt
 - Ein lang anhaltender Bourjois Lipliner, der das Verwischen und Verschmieren des Lippenstifts verhindert
 - Die weiche und cremige Textur gleitet ideal auf den Lippen
+- Passt zu allen Lippenstiften der Rouge-Edition-Reihe, da die Kontur hier mit der Lippenstiftfarbe verschmilzt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00O32URZE{{</world>}}

@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schritt-für-Schritt-Anleitung: Eine Bauanleitung zu diesem Set findest du in der beiliegenden Broschüre, die auch die Geschichte des Trevi-Brunnens enthält; Oder du folgst der in der LEGO Builder App verfügbaren digitalen Version
-- Andenken an Italien: Stell die baubaren Straßenlaternen und Poller vor den Brunnen und steck die Namenstafel vor dem Brunnen auf die Bauplatte; Fertig ist ein spektakulärer Hingucker für dein Büro oder Wohnzimmer
-- Modell des Trevi-Brunnens: Genieße jeden Schritt beim Bauen und Nachbilden des legendären Barockmonuments mit diesem Bauset für Erwachsene; Der Trevi-Brunnen ist ein nostalgisches Geschenk für Erwachsene
-- LEGO Sets für Erwachsene: Dieses LEGO Architecture Modell gehört zu einer ganzen Reihe von faszinierenden und entspannenden Bausets für Erwachsene wie dich, die kreative Aktivitäten lieben
-- Architektur Geschenk für Erwachsene: Dieses Set ist nicht nur ein faszinierendes Sammlerstück und Deko, sondern auch ein tolles Geschenk für kreative Erwachsene, die sich für Geschichte, Architektur, das Reisen oder Italien begeistern
 - Souvenir für Geschichtsbegeisterte und Reisefans: Dieses Bauprojekt lässt dich den legendärsten Brunnen Roms in seiner ganzen Pracht nachbilden; Freu dich auf faszinierende Bautechniken, die du bisher noch nicht kanntest
+- Modell des Trevi-Brunnens: Genieße jeden Schritt beim Bauen und Nachbilden des legendären Barockmonuments mit diesem Bauset für Erwachsene; Der Trevi-Brunnen ist ein nostalgisches Geschenk für Erwachsene
+- Architektur Geschenk für Erwachsene: Dieses Set ist nicht nur ein faszinierendes Sammlerstück und Deko, sondern auch ein tolles Geschenk für kreative Erwachsene, die sich für Geschichte, Architektur, das Reisen oder Italien begeistern
+- Andenken an Italien: Stell die baubaren Straßenlaternen und Poller vor den Brunnen und steck die Namenstafel vor dem Brunnen auf die Bauplatte; Fertig ist ein spektakulärer Hingucker für dein Büro oder Wohnzimmer
 - Detailgetreues Modell: Bestaune die Fassade, die den Hintergrund des Modells bildet, die Details an den Statuen, die winzigen hippocampi und den kleinen Brunnen der „Liebenden“ sowie weitere Elemente, die das Bauset vervollständigen
+- Schritt-für-Schritt-Anleitung: Eine Bauanleitung zu diesem Set findest du in der beiliegenden Broschüre, die auch die Geschichte des Trevi-Brunnens enthält; Oder du folgst der in der LEGO Builder App verfügbaren digitalen Version
+- LEGO Sets für Erwachsene: Dieses LEGO Architecture Modell gehört zu einer ganzen Reihe von faszinierenden und entspannenden Bausets für Erwachsene wie dich, die kreative Aktivitäten lieben
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHSD22WP{{</world>}}

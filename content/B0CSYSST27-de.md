@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umfassende Kompatibilität: Die tragbare SSD SL500 von Lexar ist kompatibel mit der iPhone 15-Serie (nicht unterstützt auf iPhone 14 und älteren Modellen), Android-Mobilgeräten, Laptops, Kameras, Xbox X|S, PS4, PS5, Spielekonsolen und mehr.
-- Datensicherheit geht vor: Lexar SSD SL500 enthält Lexar DataShieldTM 256-Bit-AES-Verschlüsselungssoftware zum Schutz von Dateien.
-- Hochgeschwindigkeitsdatenübertragung: Die externe SSD SL500 von Lexar unterstützt USB 3.2 Gen 2x2 mit bis zu 2000 MB/s Lesen und 1800 MB/s Schreiben, um Dateien schnell und effizienter zu übertragen. (Die Leistung kann geringer sein, wenn USB 3.2 Gen 2x2 auf Mac und anderen Systemen nicht unterstützt wird.)
 - Unterwegs: Das dünne, elegante und langlebige Metalldesign der externen Solid-State-Festplatte SL500 von Lexar wiegt 43 g und ist nur 4,8 mm dick. Damit ist sie kleiner als eine Karte und passt problemlos in Ihre Tasche. Sie wird mit einem Typ-C-Kabel für Plug-and-Play-Komfort geliefert.
+- Datensicherheit geht vor: Lexar SSD SL500 enthält Lexar DataShieldTM 256-Bit-AES-Verschlüsselungssoftware zum Schutz von Dateien.
+- Umfassende Kompatibilität: Die tragbare SSD SL500 von Lexar ist kompatibel mit der iPhone 15-Serie (nicht unterstützt auf iPhone 14 und älteren Modellen), Android-Mobilgeräten, Laptops, Kameras, Xbox X|S, PS4, PS5, Spielekonsolen und mehr.
 - Hinweis: Magsafe ist in dieser Version nicht verfügbar
+- Hochgeschwindigkeitsdatenübertragung: Die externe SSD SL500 von Lexar unterstützt USB 3.2 Gen 2x2 mit bis zu 2000 MB/s Lesen und 1800 MB/s Schreiben, um Dateien schnell und effizienter zu übertragen. (Die Leistung kann geringer sein, wenn USB 3.2 Gen 2x2 auf Mac und anderen Systemen nicht unterstützt wird.)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CSYSST27{{</world>}}

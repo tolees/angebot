@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Standardpassform für ein relaxtes, unkompliziertes Tragegefühl
 - Reißverschlusstaschen
+- Standardpassform für ein relaxtes, unkompliziertes Tragegefühl
 - Elastischer Bund
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

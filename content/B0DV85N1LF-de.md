@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Präsentiere deinen TIE Fighter in wahrhaft imperialem Stil! Dieser große Ständer kann auf einem Regal, Schreibtisch oder Beistelltisch stehen.
-- Lieferumfang: Star Wars TIE Fighter-Ständer und TIE Fighter-Hangar-Diorama
-- Verwandele deinen Echo Dot mit diesem exklusiven Star Wars TIE Fighter-Ständer in ein legendäres imperiales Raumschiff.
-- Abmessungen: 24 cm (Länge) x 16,68 cm (Höhe) x 14 cm (Tiefe)
-- Nur mit Amazon Echo Dot (4. und 5. Generation) kompatibel. Nicht kompatibel mit Echo Dot mit Uhr oder anderen Echo-Geräten
-- Tauche ein in die Star Wars-Galaxis und präsentiere deinen Echo Dot im mitgelieferten TIE Fighter-Hangar-Diorama.
-- Echo Dot separat erhältlich.
 - Material: Kunststoff
 - Ab 13 Jahren
+- Abmessungen: 24 cm (Länge) x 16,68 cm (Höhe) x 14 cm (Tiefe)
 - Einfache Bedienung ohne Beeinträchtigung der Funktionen von Amazon Echo Dot
+- Verwandele deinen Echo Dot mit diesem exklusiven Star Wars TIE Fighter-Ständer in ein legendäres imperiales Raumschiff.
+- Präsentiere deinen TIE Fighter in wahrhaft imperialem Stil! Dieser große Ständer kann auf einem Regal, Schreibtisch oder Beistelltisch stehen.
+- Nur mit Amazon Echo Dot (4. und 5. Generation) kompatibel. Nicht kompatibel mit Echo Dot mit Uhr oder anderen Echo-Geräten
+- Echo Dot separat erhältlich.
+- Lieferumfang: Star Wars TIE Fighter-Ständer und TIE Fighter-Hangar-Diorama
+- Tauche ein in die Star Wars-Galaxis und präsentiere deinen Echo Dot im mitgelieferten TIE Fighter-Hangar-Diorama.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DV85N1LF{{</world>}}

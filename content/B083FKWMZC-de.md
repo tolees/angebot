@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innenmaterial: Canvas
 - Obermaterial: Glatt Leder
-- Verschluss: Reißverschluss
+- Innenmaterial: Canvas
 - Sohle: Gummi
+- Verschluss: Reißverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083FKWMZC{{</world>}}

@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Mit einem leichten und weichen Stoff
-- Angenehmes Tragekomfort
 - Hochwertiges T-Shirt für den Alltag
+- Angenehmes Tragekomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BCHAEPQ{{</world>}}

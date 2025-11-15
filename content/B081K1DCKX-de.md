@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Speziell für Akustikgitarre, Saxofon, Trompete, Violine und Mundharmonika optimierte Effekte
+- 50 Speicherplätze zur Anlage benutzerdefinierter Patches
 - Der A1X FOUR bietet über 90 interne Effekte
 - Bis zu fünf Effekte gleichzeitig und in beliebiger Reihenfolge nutzbar
 - ZOOM Guitar Lab Software zur Anlage, Editierung und Verwaltung von Effekten und Patches
-- 50 Speicherplätze zur Anlage benutzerdefinierter Patches
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B081K1DCKX{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kabellos
-- 4 ergonomische Trigger-Tasten
 - 6-8 Stunden 600mAh wiederaufladbarer Aku
+- 4 ergonomische Trigger-Tasten
+- Kabellos
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BW16D2W5{{</world>}}

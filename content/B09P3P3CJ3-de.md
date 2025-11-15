@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Robustheit
-- Art.-Nr. 5650
 - Qualität/Haltbarkeit
+- Art.-Nr. 5650
 - Flexible Gestaltung
 - Langlebig
 

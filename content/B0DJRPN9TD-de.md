@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Mittelbeige
-- Obbermaterial: 52% recyceltes PET 48 % Rindsleder
-- Laufsohle: 100% vulkanisiertes Gummi
 - Futter: 63% Schweinsleder - 37% Stoff (100% recyceltes Polyester)
+- Laufsohle: 100% vulkanisiertes Gummi
 - Recycled Synthetics
+- Obbermaterial: 52% recyceltes PET 48 % Rindsleder
+- Farbe: Mittelbeige
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJRPN9TD{{</world>}}

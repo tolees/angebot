@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ANSCHLÜSSE: 4x Ethernet LAN Ports für den Anschluss von Smart TV, Receiver, Computer Spielekonsolen etc.
-- INSTALLATION: Connect & Secure Taste für eine schnelle WLAN-Implementierung, volle PIN Kontrolle, beliebige SIM-Formate (Nano/Micro), 2 SIM Karten Adapter
-- ALLGEMEINES: 4G LTE Router für schnelles Internet mit SIM Karte eines beliebigen Anbieters, mobiler Router für alle Netzwerke unlocked
 - LIEFERUMFANG: 4G LTE Router 300 V2, Ethernet-Kabel, Netzadapter, 2 abnehmbare 4G LTE-Antennen, 1x Micro- auf Standard-SIM Adapter, 1x Nano- auf Standard-SIM Adapter, Bedienungsanleitung
+- INSTALLATION: Connect & Secure Taste für eine schnelle WLAN-Implementierung, volle PIN Kontrolle, beliebige SIM-Formate (Nano/Micro), 2 SIM Karten Adapter
+- ANSCHLÜSSE: 4x Ethernet LAN Ports für den Anschluss von Smart TV, Receiver, Computer Spielekonsolen etc.
+- ALLGEMEINES: 4G LTE Router für schnelles Internet mit SIM Karte eines beliebigen Anbieters, mobiler Router für alle Netzwerke unlocked
 - LEISTUNG: Einrichtung als WLAN-Hotspot, für LTE-Leistung bis 150 Mbit/s, 2.4 GHz WLAN @ 300 Mbit/s, unterstützt 802.11n/b/g WLAN Standards
 
 [🛒 Hier!!]({{< param buyurl >}})

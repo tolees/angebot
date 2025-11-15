@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dies ist ein originales Levis Produkt
-- Ein Basic Shirt mit V-Ausschnitt, das perfekt zu deiner Lieblingsjeans passt
 - Dies ist ein originales Levis Produkt
+- Ein Basic Shirt mit V-Ausschnitt, das perfekt zu deiner Lieblingsjeans passt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07SN4X3W1{{</world>}}

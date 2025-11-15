@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit unzähligem Bonusmaterial
 - Shop Edition von Schauspiel-Legende Jean-Paul Belmondo
+- Mit unzähligem Bonusmaterial
 - Die Crème de la Crème von Belmondo in einer 16er Box
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

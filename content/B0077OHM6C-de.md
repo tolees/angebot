@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DR. WACK PREMIUM PFLEGE - Seit 1975 produziert Dr. Wack Chemie GmbH hochwirksame & innovative Pflege- & Reinigungsprodukte für Autos, Motorräder & Fahrräder in höchster Qualität - made in Germany.
-- ZUVERLÄSSIGER MATERIALSCHUTZ - Der Reiniger ist säurefrei & ist auch hervorragend für empfindliche Oberflächen wie Carbon & Mattlack geeignet - die hochwirksame & schonende Fahrradpflege!
 - EFFEKTIVE FORMEL - Die Aktiv-Fettlöseformel des Power-Gels entfernt selbsttätig & rückstandsfrei selbst hartnäckige Verschmutzungen & bringt Ihr Fahrrad inkl. Kette wieder auf Hochglanz.
+- DR. WACK PREMIUM PFLEGE - Seit 1975 produziert Dr. Wack Chemie GmbH hochwirksame & innovative Pflege- & Reinigungsprodukte für Autos, Motorräder & Fahrräder in höchster Qualität - made in Germany.
 - VIELSEITIG EINSETZBAR - Das Fahrrad Reinigungsmittel ist einfach & hochwirksam in der Anwendung und eignet sich perfekt für die Pflege von Fahrrad, E-Bike, Mountainbike, BMX Gravel, Rennrad usw.
+- ZUVERLÄSSIGER MATERIALSCHUTZ - Der Reiniger ist säurefrei & ist auch hervorragend für empfindliche Oberflächen wie Carbon & Mattlack geeignet - die hochwirksame & schonende Fahrradpflege!
 - INTENSIVE REINIGUNG - Mit dem F100 Fahrradreiniger von Dr. Wack wird Ihr Fahrrad schnell & tiefenrein von sämtlichen Rückständen & Schmutz wie Schlamm, Staub oder Öl befreit.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BELÜFTUNG: gute Ventilation durch zahlreiche Strömungskanäle - 11 Lufteinlässe und 3 Luftauslässe - für eine angenehme Fahrt auf dem Fahrrad
-- INDIVIDUELL ANPASSBAR: Zoom Evo Adult Justier-System ermöglicht es den Helm an den Kopfumfang anzupassen
-- DETAILS: Unisex Helm für Erwachsene inkl. eines abnehmbarer Schirm - Größenangabe in Zentimetern entspricht dem Kopfumfang des Trägers
-- HOHER KOMFORT: herausnehmbare und waschbare Polster für hohen Tragekomfort sowie Riemen mit weicher Oberfläche und intuitiv zu bedienenden Gurtstraffern
 - SICHERHEIT: Cityhelm mit langlebiger Verbindung aus EPS (Hartschaum) für die Innenschale und Polycarbonat für die Außenschale
+- DETAILS: Unisex Helm für Erwachsene inkl. eines abnehmbarer Schirm - Größenangabe in Zentimetern entspricht dem Kopfumfang des Trägers
+- BELÜFTUNG: gute Ventilation durch zahlreiche Strömungskanäle - 11 Lufteinlässe und 3 Luftauslässe - für eine angenehme Fahrt auf dem Fahrrad
+- HOHER KOMFORT: herausnehmbare und waschbare Polster für hohen Tragekomfort sowie Riemen mit weicher Oberfläche und intuitiv zu bedienenden Gurtstraffern
+- INDIVIDUELL ANPASSBAR: Zoom Evo Adult Justier-System ermöglicht es den Helm an den Kopfumfang anzupassen
 - LED-LICHT: eingebautes Licht im Verstellrad und Reflektoren sorgen für bessere Sichtbarkeit in der Dunkelheit und Dämmerung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

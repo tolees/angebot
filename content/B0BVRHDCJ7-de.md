@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LEICHTER AUFBAU: Schrauben und Werkzeug sind inklusive. Der Montessori Turm wird einfach montiert und das Standbrett mit zwei Schrauben, die für Sicherheit sorgen, verstellt
-- AB 1 JAHR LANGE NUTZBAR: Die sehr stabile und robuste Stehhilfe ist bis zu 40 kg belastbar. Das Standbrett ist in drei Höhen einstellbar und wächst so für viele Jahre mit dem Kind mit
 - MONTESSORI LERNTURM KINDER: Dank der erhöhten Position vom Stehturm kann das Kind selbständig unterschiedliche Tätigkeiten auf Augenhöhe mit der Familie in der Küche, am Tisch oder im Bad erledigen
-- NACHHALTIGE HERSTELLUNG: Der Kinderlernturm ist FSC zertifiziert, das heißt das Buchenholz stammt aus FSC zertifizierten Wäldern mit nachhaltiger Waldwirtschaft
 - LERNSTUHL FÖRDERT DIE ENTWICKLUNG: Das Übernehmen von Aufgaben beim Kochen, Backen usw. stärkt die Selbstständigkeit, die sprachliche und soziale Entwicklung sowie das Selbstvertrauen des Kindes
+- LEICHTER AUFBAU: Schrauben und Werkzeug sind inklusive. Der Montessori Turm wird einfach montiert und das Standbrett mit zwei Schrauben, die für Sicherheit sorgen, verstellt
+- NACHHALTIGE HERSTELLUNG: Der Kinderlernturm ist FSC zertifiziert, das heißt das Buchenholz stammt aus FSC zertifizierten Wäldern mit nachhaltiger Waldwirtschaft
+- AB 1 JAHR LANGE NUTZBAR: Die sehr stabile und robuste Stehhilfe ist bis zu 40 kg belastbar. Das Standbrett ist in drei Höhen einstellbar und wächst so für viele Jahre mit dem Kind mit
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BVRHDCJ7{{</world>}}

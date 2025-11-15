@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - PFLEGEHINWEISE: Dieses Bettlaken der Marke Jacobson ist bis zu 60°C in der Waschmaschine waschbar und ist ebenso trocknergeeignet. Das Laken ist sanforisiert und aufgrund dieser besonderen Eigenschaft hält das Spannbettlaken auch nach mehreren Waschgängen seine Passform und läuft nicht ein.
+- MATERIAL: Das Jersey Spannbettlaken besteht zu 100% aus Baumwolle und hat ein Materialgewicht von ca. 160g/m².
 - Jacobson BASIC Spannbettlaken: Die Marke Jacobson steht für höchste Ansprüche in Qualität, Haptik und Ästhetik. Die Spannbettlaken in der Größe 90x200cm - 100x200cm sind passend für Matratzen mit einer Steghöhe bis 23cm.
 - KUNDENDIENST: Unser Unternehmen legt höchsten Wert auf Kundenzufriedenheit. Solltest du trotz unserer Qualitätskontrollen im In- und Ausland doch mal ein defektes Spannbettlaken erhalten, ersetzen wir dir dein Spannbettlaken natürlich umgehend. Aufgrund des hohen Produktionsvolumens sind Fehler leider nicht zu 100% auszuschließen. Bitte melde dich bei unserem KUNDENSERVICE vor deiner Rezension.
-- MATERIAL: Das Jersey Spannbettlaken besteht zu 100% aus Baumwolle und hat ein Materialgewicht von ca. 160g/m².
 - EIGENSCHAFTEN: Die Spannbettlaken bieten folgende Produkt- und Qualitätsmerkmale (praktischer Rundumgummizug, atmungsaktiv, formstabil, elastisch, hautsympatisch, sanforisiert, bügelfrei, pflegeleicht, Öko-Text Standart 100 zertifiziert).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

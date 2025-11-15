@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gummi-Cupsohle
+- Reguläre Passform
+- Schnürsenkel
 - Dämpfende Zwischensohle
 - Obermaterial aus Synthetikleder
-- Schnürsenkel
-- Reguläre Passform
 - Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Materialzusammensetzung: Außenmaterial: 100% Polyester; Futter: 100% Polyester; Ärmel: 100% Polyester; Rib: 100% Polyester
 - Durchgehender Reißverschluss
 - 100% Polyester,
-- Materialzusammensetzung: Außenmaterial: 100% Polyester; Futter: 100% Polyester; Ärmel: 100% Polyester; Rib: 100% Polyester
 - Dänisches Design
 
 [🛒 Hier!!]({{< param buyurl >}})

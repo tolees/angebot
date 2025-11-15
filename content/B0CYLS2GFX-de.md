@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mädchen Strumpfhose
 - Strumpfhose für Mädchen der dänischen Marke NAME IT
+- Mädchen Strumpfhose
 - 2er Pack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

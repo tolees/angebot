@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Schlankes Design: POCO-Mobiltelefon Design mit zeitlos schickem Design - Höhe: 161,1 mm, Breite: 74,95 mm, Tiefe: 7,98 mm, Gewicht: 179 g
 - Lange Akkulaufzeit + Schnellladefunktion: 5000 mAh starker Akku mit 67W Turbo-Charge-System - mit dem beiliegendem Netzstecker erreicht der Akku 100% in nur 44 Minuten
-- Dreifach-Kamerasystem: 64MP Hauptkamera + 8MP Ultraweitwinkelkamera + 2MP Makrokamera - inkl. dualer OIS- + EIS-Stabilisierungstechnologie für klare, scharfe und professionelle Aufnahmen
-- Full HD+ Flow AMOLED Display: Erstklassiges Erlebnis bei Filmen, Surfen und beim Gaming - mit einer Ausflösung von 2400 x 1080 Pixel und 120 Hz Aktualisierungsrate
-- Viele Features: Corning Gorilla Glas 5 Display, 3,5mm Kopfhöreranschluss, Bluetooth 5.2, IP54 Wasserschutz, Dual-Speakers, NFC, Fingerabdrucksensor im Display und AI-Gesichtserkennung zum Entsperren
 - Helio G99-Ultra: Der im 6nm-Prozess hergestellte Prozessor mit der 2,2GHz CPU bietet eine hervorragende Leistung für Gaming & Multitasking und ist dabei besonders energieeffizient
+- Dreifach-Kamerasystem: 64MP Hauptkamera + 8MP Ultraweitwinkelkamera + 2MP Makrokamera - inkl. dualer OIS- + EIS-Stabilisierungstechnologie für klare, scharfe und professionelle Aufnahmen
+- Viele Features: Corning Gorilla Glas 5 Display, 3,5mm Kopfhöreranschluss, Bluetooth 5.2, IP54 Wasserschutz, Dual-Speakers, NFC, Fingerabdrucksensor im Display und AI-Gesichtserkennung zum Entsperren
+- Schlankes Design: POCO-Mobiltelefon Design mit zeitlos schickem Design - Höhe: 161,1 mm, Breite: 74,95 mm, Tiefe: 7,98 mm, Gewicht: 179 g
+- Full HD+ Flow AMOLED Display: Erstklassiges Erlebnis bei Filmen, Surfen und beim Gaming - mit einer Ausflösung von 2400 x 1080 Pixel und 120 Hz Aktualisierungsrate
 - Lieferumfang: 1 x POCO M6 Pro Gerät , Kopfhörer, USB Typ-C Strom-Adapter, USB Typ-C-Kabel, Kurzanleitung, SIM-Auswurftool, Garantiekarte und Sicherheitshinweise
 
 [🛒 Hier!!]({{< param buyurl >}})

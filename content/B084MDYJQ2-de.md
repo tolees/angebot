@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WASSER- & SCHWEISSRESISTENT: Es ist wasser- und schweißresistent, ideal für den Gebrauch während Aktivitäten im Freien oder beim Schwimmen.
 - UVA/UVB SCHUTZ: Das 2-Phasen-Sonnenschutzspray von KORRES bietet Schutz vor UVA- und UVB-Strahlen für Gesicht und Körper, um die Haut vor Sonnenschäden zu bewahren.
 - DEHYDRATION ENTGEGENWIRKEN: Das Spray wirkt effektiv Dehydration der Haut durch äußere Faktoren entgegen und hilft, die Hautfeuchtigkeit aufrechtzuerhalten.
 - FEUCHTIGKEITSSPENDEND & KÜHLEND: Angereichert mit Hyaluronsäure, organischem Bio-Gurkenextrakt und Panthenol, schützt es vor Dehydration durch äußere Einflüsse wie Salzwasser, Trockenheit und Sonne. Die kühlende Wirkung erfrischt die Haut.
+- WASSER- & SCHWEISSRESISTENT: Es ist wasser- und schweißresistent, ideal für den Gebrauch während Aktivitäten im Freien oder beim Schwimmen.
 - ANWENDUNGSEMPFEHLUNG: Vor Gebrauch gut schütteln und mindestens 30 Minuten vor dem Sonnenbad gleichmäßig auf Gesicht, Hals und Körper verteilen. Regelmäßig erneut auftragen, insbesondere nach dem Schwitzen, Schwimmen oder Abtrocknen, um den Schutz aufrechtzuerhalten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

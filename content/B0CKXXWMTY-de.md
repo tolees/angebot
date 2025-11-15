@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verstärkter Zehenbereich
-- Textilfutter
 - Obermaterial aus Leder
+- Textilfutter
 - Schnürsenkel
 - Textilfutter
 

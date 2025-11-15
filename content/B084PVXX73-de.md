@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- integrierte Bildstabilisierung
-- aufwendige Vergütung für brillante Ergebnisse
 - aufwendige Abdichtung gegen Staub und Feuchtigkeit
+- aufwendige Vergütung für brillante Ergebnisse
 - Zoomarretierung für kompakte Transportmaße
+- integrierte Bildstabilisierung
 - Reise-Zoom-Objektiv mit nur 570 g
 
 [🛒 Hier!!]({{< param buyurl >}})

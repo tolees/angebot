@@ -29,12 +29,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - GEGENSRECHFUNKTION: Über die Gegensprechfunktion mit Geräuschunterdrückung kannst du Besucher nicht nur sehen, sondern auch von überall aus mit ihnen sprechen.
-- NOCH MEHR FUNKTIONEN MIT PROTECT: Mit einem Protect-Abonnement holst du noch mehr aus der Überwachungskamera heraus. So kannst du Videos aufzeichnen und teilen, den Nur-Personen-Modus oder ergänzte Benachrichtigungen mit Fotovorschau nutzen.
-- KLEIN ABER OHO: Du kannst die vielseitige kabellose Kamera ganz einfach außen installieren und per Schnellwechsel-Akkupack mit Strom versorgen. Dank Nachtsicht und fortschrittlicher Bewegungserfassung hast du mit der Ring Außenkamera Akku (Stick Up Cam) immer alles im Blick.
-- ALLES IM BLICK IN HD: Die Überwachungskamera bietet Nachtsicht sowie 1080p-HD-Video mit 130° diagonalem, 110° horizontalem und 57° vertikalem Sichtfeld, damit dir rund um die Uhr nichts und niemand entgeht.
-- FORTSCHRITTLCHE BEWEGUNGSERKENNUNG: Benutzerdefinierbare Bewegungszonen und bewegungsaktivierte Benachrichtigungen sorgen dafür, dass du immer weißt, was draußen los ist.
 - FLEXIBLES DESIGN: Die kabellose und witterungsbeständige Kamera kann frei gestellt oder an der Wand montiert und ausgerichtet werden, und der Schnellwechsel-Akkupack kann optional sogar per Solar geladen werden. So behältst du per Live-Video über die Ring-App immer alles im Blick.
 - FUNKTIONIERT MIT ALEXA: Verbinde die Kamera einfach über dein WLAN mit anderen Ring Geräten wie Ring Chime oder einem kompatiblen Alexa-fähigen Gerät, um Audio-Benachrichtigungen zuhause hören und Sprachbefehle nutzen zu können.
+- FORTSCHRITTLCHE BEWEGUNGSERKENNUNG: Benutzerdefinierbare Bewegungszonen und bewegungsaktivierte Benachrichtigungen sorgen dafür, dass du immer weißt, was draußen los ist.
+- NOCH MEHR FUNKTIONEN MIT PROTECT: Mit einem Protect-Abonnement holst du noch mehr aus der Überwachungskamera heraus. So kannst du Videos aufzeichnen und teilen, den Nur-Personen-Modus oder ergänzte Benachrichtigungen mit Fotovorschau nutzen.
+- ALLES IM BLICK IN HD: Die Überwachungskamera bietet Nachtsicht sowie 1080p-HD-Video mit 130° diagonalem, 110° horizontalem und 57° vertikalem Sichtfeld, damit dir rund um die Uhr nichts und niemand entgeht.
+- KLEIN ABER OHO: Du kannst die vielseitige kabellose Kamera ganz einfach außen installieren und per Schnellwechsel-Akkupack mit Strom versorgen. Dank Nachtsicht und fortschrittlicher Bewegungserfassung hast du mit der Ring Außenkamera Akku (Stick Up Cam) immer alles im Blick.
 - SMARTE HAUSSICHERHEIT: Die Überwachungskamera bietet smarte Funktionen wie den Nur-Personen-Modus für eine präzise Personen-Erkennung, fortschrittliche Bewegungserfassung oder Sofortbenachrichtigungen mit Foto-Vorschau.
 
 [🛒 Hier!!]({{< param buyurl >}})

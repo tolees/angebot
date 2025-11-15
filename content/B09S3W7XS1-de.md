@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Artikel gehört zur Themenwelt FARM WORLD und ist für Kinder zwischen 3-8 Jahren geeignet.
 - Damit seine Hunde Rosi und Bobby fit bleiben und tolle Tricks lernen können, trainiert FW Junge Ben die zwei mit dem neuen Set Spielspaß für Hunde von schleich FARM WORLD! Ganz spielerisch bringt er seiner Bulldogge Rosi und dem Zwergschnauzer Bobby bei auf der Wippe zu balancieren, oder durch den Ring zu springen.
+- Der Artikel gehört zur Themenwelt FARM WORLD und ist für Kinder zwischen 3-8 Jahren geeignet.
 - Die schleich Figuren sind detailgetreu modelliert, liebevoll bemalt und stehen für pädagogisch wertvolles, fantasievolles Spielen. Hochwertig verarbeitet und mit einer tollen Oberflächengestaltung lassen sich schleich Figuren mit Augen und Händen erleben
 - Am liebsten balancieren die Rosi & Bobby gemeinsam auf der Wippe!
 - Mit jeder Trainingseinheit werden die beiden besser. Während sich die Hunde ihren Belohnungsknochen teilen, schaukelt Ben auf seiner Reifenschaukel so hoch er kann. Das macht so viel Spaß! Das Set ist individuell aufbaubar und sorgt für grenzenlosen Spielspaß!

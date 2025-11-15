@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- item display volume; 100.0 milliliters
-- PERSONAL FRAGRANCE
 - item display weight; 450.0 grams
+- PERSONAL FRAGRANCE
+- item display volume; 100.0 milliliters
 - Trussardi
 
 [🛒 Hier!!]({{< param buyurl >}})

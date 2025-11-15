@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Textilfutter
 - Schnürsenkel
-- Reguläre Passform
 - Zwischensohle in vulkanisierter Optik
 - Obermaterial aus Synthetik-Nubuk
+- Reguläre Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BJL51KN1{{</world>}}

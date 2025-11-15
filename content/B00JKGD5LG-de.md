@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Aufsteckbares Beschriftungsschild (6005) für einfaches Auffinden von Unterlagen als Zubehör erhältlich
 - Besonders robuste und stabile Ausführung, langlebig
 - Sehr flexibel, da sowohl im Quer- wie auch im Hochformat verwendbar
 - Passt optimal zu allen anderen Produkten der Plus Serie - für ein perfekt aussehendes Büro
-- Aufsteckbares Beschriftungsschild (6005) für einfaches Auffinden von Unterlagen als Zubehör erhältlich
 - Hohe Vorderseite, um Dokumente sicher zu halten
 
 [🛒 Hier!!]({{< param buyurl >}})

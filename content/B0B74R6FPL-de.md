@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wenn Sie Fragen oder Wünsche haben, wenden Sie sich bitte an uns über Amazon oder per Support-E-Mail. EIGHTREE ist immer für Sie da.
-- Sprachsteuerung: Der WLAN Steckdose ist kompatibel mit Alexa, Google Assistant & SmartThings. Bedienen Sie Ihr Gerät mit einem einfachen Sprachbefehl: "Alexa, schalte das Licht ein".
-- Ultra-Mini-Größe: Unser Designer hat die Größe auf 4,4 x 4,4cm reduziert. Somit passen die Smart-Steckdosen nebeneinander in die Steckdosenleisten. Die Platzoptimierung bringt mehr Komfort in Ihr Leben.
 - Überwachung des Energieverbrauchs: Während der Nutzung des Smart Plugs können Sie auch den Stromverbrauch berechnen und Ihre Stromrechnung über die Smart Life App schätzen.
-- APP-Steuerung: Steuern Sie die Beleuchtung in Ihrem Haus aus der Ferne und stellen Sie regelmäßige Zeitpläne für Fernseher, Kaffeemaschine, Luftbefeuchter usw. ein. "Smart Home" macht nicht nur Spaß, es ist auch nützlich.
+- Ultra-Mini-Größe: Unser Designer hat die Größe auf 4,4 x 4,4cm reduziert. Somit passen die Smart-Steckdosen nebeneinander in die Steckdosenleisten. Die Platzoptimierung bringt mehr Komfort in Ihr Leben.
 - ACHTUNG: Die Steckdose unterstützt kein " Tasmota". Der verbaute " Realtek"-Chip sorgt für eine bessere Stabilität der Netzwerkverbindung. Die Gefahr "offline" zu gehen ist geringer.
-- Kindersicherung: Wenn diese Funktion aktiviert ist, müssen Sie das Gerät ausschalten oder den Schalter viermal hintereinander drücken, um die Kindersicherung zudeaktivieren. Dadurch wird verhindert, dass Kinder den Schalter versehentlich betätigen.
-- Überladungsschutz: Wenn diese Funktion eingeschaltet ist und der Stecker feststellt, dass der Stromverbrauch des Geräts weniger als 3 W beträgt, schaltet er es automatisch aus, um ein Überladen zu vermeiden. Bitte aktivieren Sie diese Funktion nur, wenn Sie sie benötigen, für die beste Benutzererfahrung.
 - ACHTUNG AVM-Nutzer: Ab Fritzbox-OS. 7.20 müssen Sie Ihren Verschlüsselungsstandard auf WPA2 festlegen, um die Stecker verbinden zu können.WPA3 wird nicht unterstützt.
+- Sprachsteuerung: Der WLAN Steckdose ist kompatibel mit Alexa, Google Assistant & SmartThings. Bedienen Sie Ihr Gerät mit einem einfachen Sprachbefehl: "Alexa, schalte das Licht ein".
+- APP-Steuerung: Steuern Sie die Beleuchtung in Ihrem Haus aus der Ferne und stellen Sie regelmäßige Zeitpläne für Fernseher, Kaffeemaschine, Luftbefeuchter usw. ein. "Smart Home" macht nicht nur Spaß, es ist auch nützlich.
+- Kindersicherung: Wenn diese Funktion aktiviert ist, müssen Sie das Gerät ausschalten oder den Schalter viermal hintereinander drücken, um die Kindersicherung zudeaktivieren. Dadurch wird verhindert, dass Kinder den Schalter versehentlich betätigen.
+- Wenn Sie Fragen oder Wünsche haben, wenden Sie sich bitte an uns über Amazon oder per Support-E-Mail. EIGHTREE ist immer für Sie da.
+- Überladungsschutz: Wenn diese Funktion eingeschaltet ist und der Stecker feststellt, dass der Stromverbrauch des Geräts weniger als 3 W beträgt, schaltet er es automatisch aus, um ein Überladen zu vermeiden. Bitte aktivieren Sie diese Funktion nur, wenn Sie sie benötigen, für die beste Benutzererfahrung.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B74R6FPL{{</world>}}

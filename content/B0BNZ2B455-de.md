@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - AUSREICHEND PLATZ FÜR IHRE LIEBEN WORTE. Eine integrierte Notizkarte ist im Lieferumfang enthalten, die beschriftet und wieder in die Geschenkkarte zurückgeschoben werden kann.
-- DIE HANDGEMACHTE POP-UP KARTE IM GROSSFORMAT ist im geschlossenen Zustand 20 x 15 cm groß. Der hochwertige Geschenkgutschein ist aus festem farbigem Papier gefertigt und wird zusammen mit einem passenden, weißen Umschlag geliefert.
-- FREUDE VERSCHENKEN zu ganz besonderen Anlässen! Unsere hochwertige Hochzeitskarte eignet sich wunderbar zur Übermittlung Ihrer lieben Worte zur kirchlichen oder standesamtlichen Trauung.
 - PREMIUM FALTKARTE mit schönem „Just Married“ Schriftzug auf der Außenseite. Beim Öffnen der handgemachten Grußkarte entfaltet sich ein wunderschönes Blumenarrangement mit goldenem Glitzer Mr & Mrs Schriftzug.
+- FREUDE VERSCHENKEN zu ganz besonderen Anlässen! Unsere hochwertige Hochzeitskarte eignet sich wunderbar zur Übermittlung Ihrer lieben Worte zur kirchlichen oder standesamtlichen Trauung.
 - DIE BESONDERE HOCHZEITSKARTE mit 3D Überraschungseffekt beim Öffnen! Ob als Glückwunschkarte, Gratulationskarte oder als kreative Verpackung für ihr Geldgeschenk zur Hochzeit - mit unserer Pop-Up Karte können Sie dem Brautpaar auf eine eindrucksvolle Art „Herzlichen Glückwunsch“ wünschen.
+- DIE HANDGEMACHTE POP-UP KARTE IM GROSSFORMAT ist im geschlossenen Zustand 20 x 15 cm groß. Der hochwertige Geschenkgutschein ist aus festem farbigem Papier gefertigt und wird zusammen mit einem passenden, weißen Umschlag geliefert.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BNZ2B455{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Sohle: Gummi
 - Verschluss: Schnüren
 - Absatzform: Flach
-- Sohle: Gummi
 - Obermaterial: Textil
 
 [🛒 Hier!!]({{< param buyurl >}})

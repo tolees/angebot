@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zubehörtasche vorne
 - Interne Trennhülle
+- Zubehörtasche vorne
 - Verstellbarer Riemen
 
 [🛒 Hier!!]({{< param buyurl >}})

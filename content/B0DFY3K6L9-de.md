@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Datensicherheit geht vor: Lexar SSD ES3 enthält Lexar DataShieldTM 256-Bit-AES-Verschlüsselungssoftware zum Schutz von Dateien.
+- Umfassende Kompatibilität: Die tragbare SSD ES3 von Lexar ist kompatibel mit der iPhone 15/16 Serie (nicht unterstützt auf iPhone 14 und älteren Modellen), Android-Mobilgeräten, Laptops, Kameras, Xbox X|S, PS4, PS5, Spielekonsolen und mehr.
 - Unterwegs: Das dünne, elegante und langlebige Kunststoffedesign der externen Solid-State-Festplatte ES3 von Lexar wiegt 43 g und ist nur 4,8 mm dick. Sie wird mit einem Typ-C-Kabel für Plug-and-Play-Komfort geliefert.
 - Hochgeschwindigkeits Datenübertragung: Die externe SSD ES3 vom Lexar unterstützt USB 3.2 Gen 2 mit bis zu 1050 MB/s Lesen und 1000 MB/s Schreiben, um Dateien schnell und effizienter zu übertragen.
-- Umfassende Kompatibilität: Die tragbare SSD ES3 von Lexar ist kompatibel mit der iPhone 15/16 Serie (nicht unterstützt auf iPhone 14 und älteren Modellen), Android-Mobilgeräten, Laptops, Kameras, Xbox X|S, PS4, PS5, Spielekonsolen und mehr.
 - Hinweis: Magsafe ist in dieser Version nicht verfügbar
+- Datensicherheit geht vor: Lexar SSD ES3 enthält Lexar DataShieldTM 256-Bit-AES-Verschlüsselungssoftware zum Schutz von Dateien.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DFY3K6L9{{</world>}}

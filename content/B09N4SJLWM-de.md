@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- WLAN Mesh: Mehrere WLAN-Zugangspunkte werden zu einem einzigen intelligenten WLAN-Netz mit optimaler Leistung zusammengefasst, einfache und sichere Installation per Tastendruck (WPS)
-- Unterstützung 160 MHz breiter Kanäle für WLAN mit bis zu 3.000 MBit/s (WLAN AX) sowie Gigabit-LAN-Anschluss für den Aufbau einer LAN-Brücke oder für Netzwerkgeräte ohne WLAN-Funktion
-- Ultraschnelles Wi-Fi 6 im gesamten Heimnetz sowie intelligente automatische Bandauswahl (Cross-Band-Repeating): 5 GHz-Band (bis zu 2.400 MBit/s) und 2,4 GHz-Band (bis zu 600 MBit/s)
-- Innovatives Wi-Fi 6 ausgelegt für ein anspruchsvolles Heimnetz mit einer Vielzahl an WLAN-Endgeräten zur gleichzeitigen Verwendung
 - Lieferumfang: FRITZ!Repeater 1200 AX, Installationsanleitung, LAN-Kabel, Schutzkontakt-Adapter
+- Ultraschnelles Wi-Fi 6 im gesamten Heimnetz sowie intelligente automatische Bandauswahl (Cross-Band-Repeating): 5 GHz-Band (bis zu 2.400 MBit/s) und 2,4 GHz-Band (bis zu 600 MBit/s)
+- Unterstützung 160 MHz breiter Kanäle für WLAN mit bis zu 3.000 MBit/s (WLAN AX) sowie Gigabit-LAN-Anschluss für den Aufbau einer LAN-Brücke oder für Netzwerkgeräte ohne WLAN-Funktion
+- Innovatives Wi-Fi 6 ausgelegt für ein anspruchsvolles Heimnetz mit einer Vielzahl an WLAN-Endgeräten zur gleichzeitigen Verwendung
+- WLAN Mesh: Mehrere WLAN-Zugangspunkte werden zu einem einzigen intelligenten WLAN-Netz mit optimaler Leistung zusammengefasst, einfache und sichere Installation per Tastendruck (WPS)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09N4SJLWM{{</world>}}

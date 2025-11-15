@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- [WIE BEWERBEN] Nicht fettend und nicht klebend, zieht es leicht ein. Morgens und abends mit einer sanften kreisenden Massage auf Gesicht, Hals und Dekolleté auftragen.
 - [KONZENTRIERTES FEUCHTIGKEITSSPENDENDES SERUM] Ein Konzentrat aus Feuchtigkeit und Frische, das die Haut den ganzen Tag über mit Feuchtigkeit versorgt und weich hält, dank der Tiefenwirkung von Hyaluronsäure und Vitamin E.
+- [WIE BEWERBEN] Nicht fettend und nicht klebend, zieht es leicht ein. Morgens und abends mit einer sanften kreisenden Massage auf Gesicht, Hals und Dekolleté auftragen.
 - [HERGESTELLT IN ITALIEN & UMWELTFREUNDLICH] AMADERM-Produkte werden in zertifizierten Labors in Italien hergestellt und enthalten nur ausgewählte Inhaltsstoffe natürlichen Ursprungs und erster Qualität. Die Verpackungen sind aus Recyclingpapier (FSC-zertifiziert) hergestellt.
 - [HAUTTYPEN] I-Serum ist ideal für normale bis trockene Haut, ob allein oder als Cremegrundlage. Verstärkende Wirkung für reife Haut mit Ageless Cream
 - [REINE HYALURONSÄURE] Behandlung auf Basis von Mikro-Hyaluronsäure (40% konzentriert!) mit hoher Feuchtigkeitskraft für eine weiche, glatte und kompakte Haut. Dank ihrer flüchtigen, fast unspürbaren Textur versorgt sie die Haut bis in die Tiefe mit Feuchtigkeit und beugt den Zeichen der Hautalterung vor.

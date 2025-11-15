@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Gummi
-- Absatzform: Flach
-- Obermaterial: Leder
 - Innenmaterial: Synthetik
 - Verschluss: Klettverschluss
+- Obermaterial: Leder
+- Absatzform: Flach
+- Sohle: Gummi
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C66HV2S5{{</world>}}

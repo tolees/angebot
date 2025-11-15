@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Xiaomi
-- Premiumprodukt
 - Xiaomi Redmi 10 5G 4GB+64GB Graphite Gray ohne Simlock, ohne Branding
+- Premiumprodukt
+- Xiaomi
 - Graphitgrau
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

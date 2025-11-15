@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Untersuche die Welt um dich herum und schlage das Spiel der Reaper, um zu überleben
-- Sammle und setze hunderte Psych-Fähigkeiten ein, um gegen surreale Bedrohungen zu bestehen
 - Tauche in ein lebhaft illustriertes Shibuya ein, das mit Stil, Musik und Monstern zum Leben erwacht
+- Sammle und setze hunderte Psych-Fähigkeiten ein, um gegen surreale Bedrohungen zu bestehen
+- Untersuche die Welt um dich herum und schlage das Spiel der Reaper, um zu überleben
 - Die langersehnte Fortsetzung von The World Ends with You ist endlich da!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

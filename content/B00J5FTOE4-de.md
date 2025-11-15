@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Item: Ein
-- Packungage die Größe: 2.5 L x 13.5 H x 4.0 W (cm)
 - Marke Beauty-Produkte Bexident
+- Packungage die Größe: 2.5 L x 13.5 H x 4.0 W (cm)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00J5FTOE4{{</world>}}

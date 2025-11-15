@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus wasserdichtem Material
 - Stabilität, Komfort und Leichtigkeit
+- Obermaterial aus wasserdichtem Material
 - CMP FullOn Grip Sohle
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

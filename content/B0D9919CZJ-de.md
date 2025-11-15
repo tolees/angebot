@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- V-Ausschnitt mit Rippblende
 - Rubber Prints vorne, hinten und am rechten Ärmel
-- gestreiftes Necktape
 - klassische Passform
+- V-Ausschnitt mit Rippblende
+- gestreiftes Necktape
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D9919CZJ{{</world>}}

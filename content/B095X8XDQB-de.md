@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kugelschreiber mit blauer und schwarzer Tinte.
 - Einzigartig und aus hochwertigen Materialien.
 - Set aus zwei Metall-Kugelschreibern mit motivierenden Botschaften.
+- Kugelschreiber mit blauer und schwarzer Tinte.
 - Originalprodukt von Mr. Wonderful
 - Kugelschreiber mit Kappe.
 

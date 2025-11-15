@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Empfohlenes Alter: ab 12 Jahren
-- Puzzlemaße: 69, 3 x 49, 3 cm
 - 1000 Teile Puzzle
-- Spieleranzahl: ab 1 Spieler
+- Puzzlemaße: 69, 3 x 49, 3 cm
+- Empfohlenes Alter: ab 12 Jahren
 - SCHMIDT SPIELE Premium-Puzzles – mit Qualität, die Sie greifen können
+- Spieleranzahl: ab 1 Spieler
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083MMPYST{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Triff eine Vielzahl von Charakteren, die dir nur zu gerne ihre fragwürdige Hilfe anbieten
+- Erkunde die Welt Seite an Seite in einem ununterbrochenen Online-Mehrspielermodus
 - Erkunde zwei riesige Parallelwelten - die der Lebenden und die der Toten
 - Meistere ein schnelles, flüssiges und taktisches Kampfsystem
-- Erkunde die Welt Seite an Seite in einem ununterbrochenen Online-Mehrspielermodus
+- Triff eine Vielzahl von Charakteren, die dir nur zu gerne ihre fragwürdige Hilfe anbieten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5SW56P1{{</world>}}

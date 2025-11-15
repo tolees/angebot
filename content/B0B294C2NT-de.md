@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Verschluss: Gummi
 - Obermaterial: Synthetik
+- Innenmaterial: Synthetic
 - Absatzform: Plateauabsatz
 - Schuhweite: Schmal
-- Innenmaterial: Synthetic
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B294C2NT{{</world>}}

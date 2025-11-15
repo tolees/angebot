@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial: Leder
 - Absatzform: Kein Absatz
 - Verschluss: Gummi
+- Obermaterial: Leder
 - Innenmaterial: Leder
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

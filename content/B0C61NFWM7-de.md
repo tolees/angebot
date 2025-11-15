@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gerätemaße H x B x T (cm): 143 x 55 x 55
 - 204L Gesamtrauminhalt: 163 L Kühlteil + 41 L Gefrierteil
 - LED Licht / Reversibles Türscharnier / Sicherheitsglas
+- Gerätemaße H x B x T (cm): 143 x 55 x 55
 - Energieeffizienzklasse E / 176 kWh pro Jahr
 
 [🛒 Hier!!]({{< param buyurl >}})

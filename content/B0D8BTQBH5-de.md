@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - T-Shirt in Unifarben mit Logo-Print aus Single-Jersey-Stoff aus Baumwolle
-- Rundhalsausschnitt | Kurzarm
 - Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm
+- Rundhalsausschnitt | Kurzarm
 - Aus weichem Single-Jersey Stoff
 
 [🛒 Hier!!]({{< param buyurl >}})

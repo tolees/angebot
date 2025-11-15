@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial:Leder
 - Verschluss:Reißverschluss
+- Obermaterial:Leder
 - Sohle:Gummi
 - Absatzform:Flach
 

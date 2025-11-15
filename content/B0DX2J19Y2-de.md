@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Nach der Haarwäsche mit dem Vitamino Color Spectrum Shampoo gleichmäßig auftragen. 1-2 Min einmassieren. Ausspülen.
-- Erhält die 5 Dimensionen des Farbspektrums in der Haarfaser: Glanz, Lebendigkeit, Kontrast, Farbton, Leuchtkraft.
 - Der Vitamino Color Spectrum Deep Conditioner für stärkende Tiefenpflege ist mit 5% Ferulasäure und 2,5% Zitronensäure angereichert. Er sorgt für glänzenderes, kräftigeres Haar, bessere Kämmbarkeit und weniger Frizz.
+- Erhält die 5 Dimensionen des Farbspektrums in der Haarfaser: Glanz, Lebendigkeit, Kontrast, Farbton, Leuchtkraft.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DX2J19Y2{{</world>}}

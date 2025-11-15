@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- LOKALER MEHRSPIELER – Kämpfe gegen einen Freund im Versus-Modus.
+- WÄHLE DEINE SEITE – Halte Nemesis Prime als Autobot oder Decepticon auf.
 - RASE ZUM SIEG – Drifte und booste auf 10 actiongeladenen Strecken.
 - KÄMPFE BIS ZUM ENDE – Tritt in einer rasanten Kombination aus Rennen und Kampf an.
-- WÄHLE DEINE SEITE – Halte Nemesis Prime als Autobot oder Decepticon auf.
+- LOKALER MEHRSPIELER – Kämpfe gegen einen Freund im Versus-Modus.
 - VERBESSERE DEINEN CHARAKTER – Erhöhe das Level und passe 11 ikonische Transformers an.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

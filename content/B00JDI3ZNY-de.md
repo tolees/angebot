@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Haut Öl versorgt die Haut mit besonders hochwertiger und reichhaltiger Pflege
-- Die Formel der Body Lotion mit vier pflegenden Beauty Ölen versorgt die Haut tiefenwirksam mit Feuchtigkeit und Nährstoffen
-- Das Hautbild trockener Haut wird durch das Hautöl verbessert und glanzlose Haut wird wieder strahlend schön gepflegt
 - Lieferumfang: 1 x Körperöl zur reichhaltigen Körperpflege - für eine sichtbar glattere und strahlend schöne Haut
+- Haut Öl versorgt die Haut mit besonders hochwertiger und reichhaltiger Pflege
+- Das Hautbild trockener Haut wird durch das Hautöl verbessert und glanzlose Haut wird wieder strahlend schön gepflegt
+- Die Formel der Body Lotion mit vier pflegenden Beauty Ölen versorgt die Haut tiefenwirksam mit Feuchtigkeit und Nährstoffen
 - Die Beauty Öle aus Argan, Macadamia, Mandel und Rose sind besonders reich an hautpflegenden Inhaltsstoffen und hinterlassen nichts als gesunde und seidig schimmernde Haut
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - 10er Pack Trunks
 - Bund mit Markenschriftzug verziert
+- Baumwollmischung
 - breiter elastischer Bund
 - doppelt verarbeiteter Frontbereich ohne Eingriff
-- Baumwollmischung
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08MV6KWV7{{</world>}}

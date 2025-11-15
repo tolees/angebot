@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Corning Gorilla Glass 5
-- 5500mAh Akku mit 33W TurboCharge
 - 108MP AI-Kamerasystem
 - MediaTek Helio G99-Ultra, 6nm Fertigungsprozess-Technologie
 - 120Hz Augenschutzdisplay, Berührungssteuerung mit nassen Fingern
+- Corning Gorilla Glass 5
+- 5500mAh Akku mit 33W TurboCharge
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DKP54YV7{{</world>}}

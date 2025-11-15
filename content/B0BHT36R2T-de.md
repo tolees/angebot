@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zudem ist das 2in1 Pflegeprodukt pH-hautneutral, vegan und kommt ohne Mikroplastik und Silikone aus
 - Die Hautverträglichkeit des Showergels ist dermatologisch bestätigt
+- Zudem ist das 2in1 Pflegeprodukt pH-hautneutral, vegan und kommt ohne Mikroplastik und Silikone aus
 - Dabei erhält das Dusch-Shampoo den natürlichen Säureschutzmantel der zarten Kinderhaut
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dein Lieblings-Basic T-Shirt gibt es jetzt im praktischen Doppelpack
 - Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
+- Dein Lieblings-Basic T-Shirt gibt es jetzt im praktischen Doppelpack
 - Perfekt für den Lagenlook mit geripptem Strukturstrick
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

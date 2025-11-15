@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Langlebig
-- Qualität/Haltbarkeit
 - Robustheit
+- Qualität/Haltbarkeit
 - Flexible Gestaltung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

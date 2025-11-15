@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Diesen wilden Ritt ermöglicht dir Hazelight, die bereits für die aufregenden Koop-Erlebnisse It Takes Two und A Way Out verantwortlich sind
-- Dieses Videospiel ist das neue, unverzichtbare Abenteuerspiel mit geteiltem Bildschirm für zwei Spieler; Für dieses Spiel ist eine Internetverbindung erforderlich
-- ECHTES KOOP-ABENTEUER: Dieses Splitscreen-Abenteuer erlebt man am besten zu zweit. Erlebe kooperatives Gameplay, bei dem ihr eure Aktionen absprechen und zeitlich abstimmen müsst; Außerdem müsst ihr zusammenarbeiten, um Herausforderungen zu meistern
-- Lade eine:n Freund:in ein, auf einer beliebigen Plattform (plattformübergreifendes Spielen auf PS, Xbox & PC) kostenlos mit dir zu spielen – mit dem Friend’s Pass
 - DIE KRAFT DER FREUNDSCHAFT: Anfangs können Mio und Zoe einander nicht leiden, doch schon bald sind sie die einzige Hoffnung des jeweils anderen
+- Lade eine:n Freund:in ein, auf einer beliebigen Plattform (plattformübergreifendes Spielen auf PS, Xbox & PC) kostenlos mit dir zu spielen – mit dem Friend’s Pass
+- Diesen wilden Ritt ermöglicht dir Hazelight, die bereits für die aufregenden Koop-Erlebnisse It Takes Two und A Way Out verantwortlich sind
+- ECHTES KOOP-ABENTEUER: Dieses Splitscreen-Abenteuer erlebt man am besten zu zweit. Erlebe kooperatives Gameplay, bei dem ihr eure Aktionen absprechen und zeitlich abstimmen müsst; Außerdem müsst ihr zusammenarbeiten, um Herausforderungen zu meistern
+- Dieses Videospiel ist das neue, unverzichtbare Abenteuerspiel mit geteiltem Bildschirm für zwei Spieler; Für dieses Spiel ist eine Internetverbindung erforderlich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DQ5SD82R{{</world>}}

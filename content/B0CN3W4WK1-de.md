@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Praktischer, durchgehender Reißverschluss, 2 Reißverschluss-Taschen für warme, geschützte Hände, Einfassungen an Ärmelbündchen, Saum und Kragen
 - Kinnschutz, 650-cuin-Füllung für eine hohe Wärmespeicherung
 - Besonders warmhaltend dank Heat-Seal-Konstruktion, Wasserabweisendes Material für optimalen Schutz vor Feuchtigkeit
 - Lieferumfang: 1x Columbia Herren-Daunenjacke, Lake 22 II, Farbe: Schwarz, Größe: L, Art. 2086314
+- Praktischer, durchgehender Reißverschluss, 2 Reißverschluss-Taschen für warme, geschützte Hände, Einfassungen an Ärmelbündchen, Saum und Kragen
 - Wasserabweisende Daunenjacke für Herren, Ideal für kalte Wintertage in der Stadt, beim Wandern und anderen Outdoor-Aktivitäten, Aktive Passform
 
 [🛒 Hier!!]({{< param buyurl >}})

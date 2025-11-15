@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Türkis im Wasser
 - Verwandelt Stress in positive Energie
 - Diesem Produkt wurden keine tierischen Bestandteile zugesetzt
+- Türkis im Wasser
 - Mit natürlichen ätherischen Ã–len Der Wasserminze und Rosmarin
 - Frischer und klärender Duft
 

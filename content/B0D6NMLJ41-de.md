@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Modell Perth Material in gewachster Lederoptik
 - Elastischen Schnürsenkeln
+- Das Modell Perth Material in gewachster Lederoptik
 - Mit Klettverschluss
 - Breathable
 

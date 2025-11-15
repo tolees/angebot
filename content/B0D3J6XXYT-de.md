@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Das Smart Folio für iPad Pro ist dünn und leicht und schützt Vorder‑ und Rückseite deines Geräts.
-- Das Smart Folio verbindet sich magnetisch und du kannst es ganz einfach falten. So wird es zu einer praktischen Stütze zum Lesen, Tippen, für Videos oder FaceTime Anrufe.
 - Es weckt dein iPad automatisch auf, wenn du es öffnest, und schickt es in den Ruhemodus, wenn du es schließt.
+- Das Smart Folio verbindet sich magnetisch und du kannst es ganz einfach falten. So wird es zu einer praktischen Stütze zum Lesen, Tippen, für Videos oder FaceTime Anrufe.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D3J6XXYT{{</world>}}

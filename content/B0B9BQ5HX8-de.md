@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gepolsterte Komfort-Einlegesohle mit Memory-Schaum
 - Weiches Mesh-Obermaterial mit Batikdruck und Stretch-Schnürsenkeln
+- Gepolsterte Komfort-Einlegesohle mit Memory-Schaum
 - Leichte, flexible, stoßdämpfende Zwischensohle und Traktions-Laufsohle
 - Sportliches Sneaker-Design zum Hineinschlüpfen
 

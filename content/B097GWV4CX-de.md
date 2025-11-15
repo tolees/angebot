@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 💛 SICHERE PRODUKTION: Unter strengen Voraussetzungen und genausten Hygiene-Standards werden unsere Produkte mit Liebe in Deutschland hergestellt.
-- 🍯 FARBE & GESCHMACK: Der Manuka Honig hat einen würzig-herben und kräftigen Geschmack. Die Farbe ist bernsteinfarben und trüb, die Konsistenz ist etwas dickflüssig. Nur echt aus Neuseeland und der Manuka Pflanze.
-- INFO: Der Honig-Löffel ist nicht im Lieferumfang enthalten.
-- 🐝 ECHTER Manuka Honig aus Neuseeland: 100% Imkerqualität & natürlicher Ursprung. Der Manuka Honig wurde auf den echten MGO (Methylglyoxal) Gehalt analysiert & zertifiziert. Lt. Zertifikat besitzt dieser Manuka Honig einen MGO Gehalt von über 544!
-- 🌱 NACHHALTIGKEIT: Inkl. stilvolle, praktische Umverpackung für einen sicheren Transport. Generell verwenden wir bei unserem echten Manukahonig nur nachhaltige Materialien zB. Glas & Recycling-Etiketten.
-- 🔬 KONTROLLE: Unsere Produkte werden in regelmäßigen Abständen von zertifizierten Laboren geprüft. Reich an einem MGO 500+ Gehalt. Zusätzlich wird der Manuka Honig auf Unreinheiten getestet.
 - ✅ UNTERSTÜTZUNG: Wir von bedrop sind gegen das Bienensterben und setzen uns hierfür mit verschiedenen Imkereien, sowie Projekten ein. Du unterstützt diese Projekte mit jedem Kauf unserer Produkte. Der Manuka Honig wird von geprüften Imkereien aus Neuseeland bezogen.
+- 🔬 KONTROLLE: Unsere Produkte werden in regelmäßigen Abständen von zertifizierten Laboren geprüft. Reich an einem MGO 500+ Gehalt. Zusätzlich wird der Manuka Honig auf Unreinheiten getestet.
+- INFO: Der Honig-Löffel ist nicht im Lieferumfang enthalten.
+- 🍯 FARBE & GESCHMACK: Der Manuka Honig hat einen würzig-herben und kräftigen Geschmack. Die Farbe ist bernsteinfarben und trüb, die Konsistenz ist etwas dickflüssig. Nur echt aus Neuseeland und der Manuka Pflanze.
+- 🌱 NACHHALTIGKEIT: Inkl. stilvolle, praktische Umverpackung für einen sicheren Transport. Generell verwenden wir bei unserem echten Manukahonig nur nachhaltige Materialien zB. Glas & Recycling-Etiketten.
+- 💛 SICHERE PRODUKTION: Unter strengen Voraussetzungen und genausten Hygiene-Standards werden unsere Produkte mit Liebe in Deutschland hergestellt.
+- 🐝 ECHTER Manuka Honig aus Neuseeland: 100% Imkerqualität & natürlicher Ursprung. Der Manuka Honig wurde auf den echten MGO (Methylglyoxal) Gehalt analysiert & zertifiziert. Lt. Zertifikat besitzt dieser Manuka Honig einen MGO Gehalt von über 544!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B097GWV4CX{{</world>}}

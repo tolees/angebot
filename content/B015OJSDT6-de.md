@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perforationen für bessere Atmungsaktivität.
 - Gepolsterter Bund für noch mehr Komfort.
+- Perforationen für bessere Atmungsaktivität.
 - Obermaterial aus Veloursleder.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

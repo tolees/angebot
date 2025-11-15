@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wiederherstellung des Relaisstatus: Nach einem plötzlichen Stromausfall merkt sich der Stecker den Schalterstatus und stellt automatisch den vorherigen Arbeitsstatus wieder her, wenn die Stromversorgung wiederhergestellt ist. Natürlich können Sie den gewünschten Status auch selbst in der APP einstellen.
-- Sicherheitsgarantie: Großer Innenraum, um die Wirksamkeit der Wärmeableitung zu gewährleisten. Der Stecker ist mit einem Kurzschluss- und Überlastungsschutz ausgestattet. Maximale Stromaufnahme: 16A.
-- ACHTUNG: Die Steckdose unterstützt kein " Tasmota". Der verbaute " Realtek"-Chip sorgt für eine bessere Stabilität der Netzwerkverbindung. Die Gefahr "offline" zu gehen ist geringer.
 - ACHTUNG AVM-Nutzer: Ab Fritzbox-OS. 7.20 müssen Sie Ihren Verschlüsselungsstandard auf WPA2 festlegen, um die Stecker verbinden zu können.WPA3 wird nicht unterstützt.
+- Sicherheitsgarantie: Großer Innenraum, um die Wirksamkeit der Wärmeableitung zu gewährleisten. Der Stecker ist mit einem Kurzschluss- und Überlastungsschutz ausgestattet. Maximale Stromaufnahme: 16A.
 - APP-Steuerung: Schalten Sie Ihre Haushaltsgeräte in regelmäßigen Abständen aus und steuern Sie sie aus der Ferne mit der Smart Life APP, um Strom zu sparen und gleichzeitig Sicherheit zu gewährleisten.
-- Sprachsteuerung: Kompatibel mit Google Home, Amazon Alexa und Samsung SmartThings. Lassen Sie die Sprachassistenten Ihre Geräte steuern.
+- Wiederherstellung des Relaisstatus: Nach einem plötzlichen Stromausfall merkt sich der Stecker den Schalterstatus und stellt automatisch den vorherigen Arbeitsstatus wieder her, wenn die Stromversorgung wiederhergestellt ist. Natürlich können Sie den gewünschten Status auch selbst in der APP einstellen.
 - Energieverbrauchsüberwachung: So sehen Sie direkt, wohin jeder Cent Ihrer Stromrechnung fließt. Dies ist angesichts der aktuellen Energiekrise eine nützliche Funktion um Geld zu sparen.
+- Sprachsteuerung: Kompatibel mit Google Home, Amazon Alexa und Samsung SmartThings. Lassen Sie die Sprachassistenten Ihre Geräte steuern.
 - Wenn Sie Fragen oder Wünsche haben, wenden Sie sich bitte an uns über Amazon oder per Support-E-Mail. EIGHTREE ist immer für Sie da.
+- ACHTUNG: Die Steckdose unterstützt kein " Tasmota". Der verbaute " Realtek"-Chip sorgt für eine bessere Stabilität der Netzwerkverbindung. Die Gefahr "offline" zu gehen ist geringer.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B74P5NRV{{</world>}}

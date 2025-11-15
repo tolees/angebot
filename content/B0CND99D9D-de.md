@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DER SPIELPLAN IST ÜBER 90 CM LANG: Die Spieler lassen ihre Figuren über den langen Spielplan gleiten, welcher beliebte Monopoly Grundstücke und Felder wie Ereignis und Bahnhof zeigt
-- ZIELEN, SCHLITTERN, KOLLIDIEREN & KASSIEREN: Visiere Grundstücke an und schubse Mitspieler ins Gefängnis, auf das Steuerfeld oder ganz vom Spielplan. Wer das meiste Geld kassiert, gewinnt! Enthält 16 gleitende Spielfiguren in 4 Farben
-- IN CA. 20 MINUTEN SPIELBAR: Dieses kurzweilige Strategiespiel im Stil eines Shuffleboards ist leicht erlernbar und wird über Runden gespielt. Dabei werden spannende Aktionen, Geschicklichkeit und Strategie der Spieler auf die Probe gestellt
 - IN TEAMS ODER ALLEINE SPIELEN: Dieses spannende Monopoly Brettspiel eignet sich für 2 bis 8 Spieler und ist ein tolles Gruppenspiel für Partys, die Ferien und einen Familien-Spieleabend. Der enthaltene QR-Code führt zu einem Demo-Video
+- IN CA. 20 MINUTEN SPIELBAR: Dieses kurzweilige Strategiespiel im Stil eines Shuffleboards ist leicht erlernbar und wird über Runden gespielt. Dabei werden spannende Aktionen, Geschicklichkeit und Strategie der Spieler auf die Probe gestellt
+- ZIELEN, SCHLITTERN, KOLLIDIEREN & KASSIEREN: Visiere Grundstücke an und schubse Mitspieler ins Gefängnis, auf das Steuerfeld oder ganz vom Spielplan. Wer das meiste Geld kassiert, gewinnt! Enthält 16 gleitende Spielfiguren in 4 Farben
+- DER SPIELPLAN IST ÜBER 90 CM LANG: Die Spieler lassen ihre Figuren über den langen Spielplan gleiten, welcher beliebte Monopoly Grundstücke und Felder wie Ereignis und Bahnhof zeigt
 - AKTIVES FAMILIEN-PARTYSPIEL: Bei Monopoly Knockout geht es darum, die Spielfiguren über den Spielplan gleiten zu lassen, Gegner auszuknocken und Geld zu kassieren! Alles, was Fans an Monopoly lieben, wird in einem aktiven Partyspiel zum Leben erweckt
 
 [🛒 Hier!!]({{< param buyurl >}})

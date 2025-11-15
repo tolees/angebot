@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Nike Academy Therma-Fit
 - Weiches Gefühl auf der Haut
+- Nike Academy Therma-Fit
 - Tolles Accessoire für den täglichen Sport
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

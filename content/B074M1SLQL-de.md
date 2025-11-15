@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【26m LED Lichterkette】(23m lichterkette + 3m Verlängerungsleitung) 360er, Lichter an Lichterkette, Niederspannung 31V, 8 Blinkmodi, mit fernbedienung, warmweiß
-- 【Wasserdichtes Design】IP44, die Lichtkette und das Netzteil sind alle aus wasserdichtem Material, das auch an regnerischen und schneebedeckten Tagen verwendet werden kann
-- 【Sicher und energiesparend】GS und UL Sicherheitszertifikat, Standardspannung 31V, wird automatisch abgeschnitten, wenn die Spannung den Standardwert überschreitet, vollständig zu verhindern, dass Feuer und Explosion
 - 【9 verschiedene Modi】Kombination, Wellenform, Aufeinanderfolgend, langsam Hell werdend, aufleuchtend, langsam verblassen, Funkeln, Leuchtend, Aus. Fernbedienung oder Tasten am Netzadapter können zur Einstellung der verschiedenen Modi verwendet werden und Helligkeit
 - 【Timer & Speicherfunktion】Verwenden Sie die Fernbedienung oder halten sie die taste am steckervom drei sekunden lang gedrückt, die kontrollleuchte leuchtet grün und die timer funktion beginnt zu arbeiten. Der Speicherchip speichert Ihre letzte Modus-Einstellung, sodass Sie den Modus nicht jeden Tag zurücksetzen müssen
+- 【26m LED Lichterkette】(23m lichterkette + 3m Verlängerungsleitung) 360er, Lichter an Lichterkette, Niederspannung 31V, 8 Blinkmodi, mit fernbedienung, warmweiß
+- 【Sicher und energiesparend】GS und UL Sicherheitszertifikat, Standardspannung 31V, wird automatisch abgeschnitten, wenn die Spannung den Standardwert überschreitet, vollständig zu verhindern, dass Feuer und Explosion
+- 【Wasserdichtes Design】IP44, die Lichtkette und das Netzteil sind alle aus wasserdichtem Material, das auch an regnerischen und schneebedeckten Tagen verwendet werden kann
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B074M1SLQL{{</world>}}

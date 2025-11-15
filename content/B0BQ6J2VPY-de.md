@@ -31,8 +31,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 - Material-Prozentangaben können variieren. Genaue Angaben findest du auf dem Label
 - Einfache Passform und einen modernen Look
 - Absolute Bewegungsfreiheit
-- Normale Passform
 - Aufgesticktes Logo
+- Normale Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BQ6J2VPY{{</world>}}

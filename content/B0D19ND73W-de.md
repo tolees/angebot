@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kapuze mit weitenregulierbarem Kordelzug
-- Überschnittene Schultern
-- Hinten etwas kürzerer geschnitten
-- Regulär geschnitten
 - Besteht zu mindestens 70 % aus recycelten und erneuerbaren Materialien
-- Bündchen und Saum gerippt
+- Überschnittene Schultern
+- Regulär geschnitten
+- Kapuze mit weitenregulierbarem Kordelzug
 - 55 % Baumwolle / 36 % Polyester (recycelt) / 9 % Viskose
 - Kängurutasche
+- Bündchen und Saum gerippt
+- Hinten etwas kürzerer geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D19ND73W{{</world>}}

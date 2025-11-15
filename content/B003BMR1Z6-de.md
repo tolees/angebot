@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Marke CLINIQUE
-- Marke Beauty-Produkte
 - Gesichtspeeling
+- Marke Beauty-Produkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B003BMR1Z6{{</world>}}

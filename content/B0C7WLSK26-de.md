@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Teambasierter 3v4-Multiplayer, eine Premiere für asymmetrischen Horror.
-- Exklusives Variantenposter in jeder physischen Ausgabe enthalten, solange der Vorrat reicht.
 - Mit Schauplätzen, die im klassischen Horrorfilm von 1974 dargestellt oder davon inspiriert sind, treten in The Texas Chain Saw Massacre Teams aus Opfern und Familienangehörigen in einem tödlichen Katz-und-Maus-Spiel gegeneinander an.
 - Die Opfer müssen Teamwork, Tarnung und all ihre Fähigkeiten einsetzen, um zu versuchen, den Fängen der Slaughter Family zu entkommen. Mit einem robusten Metaspiel, das zum Erstellen von Builds anregt, und einem intensiven, furchteinflößenden Gameplay wird das Team der Opfer auf der Suche nach den Werkzeugen, die es benötigt, um Ausgänge freizuschalten und aus dem Anwesen zu fliehen, gute Chancen haben.
+- Teambasierter 3v4-Multiplayer, eine Premiere für asymmetrischen Horror.
+- Exklusives Variantenposter in jeder physischen Ausgabe enthalten, solange der Vorrat reicht.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C7WLSK26{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- STARKER SOUND UND ERWEITERTE FUNKTIONEN: Klare Gespräche ohne Unterbrechungen über den Hörer oder per Freisprechfunktion für Konferenzen. 10 Direktwahltasten, ein Headset-Anschluß und eine Taste für die direkte Annahme von Anrufen.
 - EINFACHE HANDHABUNG: Das Temporis 580 PRO funktioniert ohne Batterien oder externe Stromversorgung. Es wird direkt über die Telefonleitung betrieben, was eine geringe Energieverbrauch und eine einfache Installation ermöglicht – ideal für den intensiven Einsatz.
 - SPEZIFISCHE LEISTUNGEN FÜR UNTERNEHMEN: Dieses Festnetztelefon kann mit jeder analogen Telefonanlage, ATA, Router mit FXS-Port oder einer PSTN-Leitung eines Telekommunikationsanbieters verwendet werden. Die visuelle Anrufanzeige signalisiert eingehende Anrufe und eine neue Nachricht im Telefonanlagen-Postfach.
-- ALPHANUMERISCHES DISPLAY: Das Festnetztelefon Temporis 580 PRO verfügt über ein alphanumerisches Display mit einstellbarem Kontrast. Navigieren Sie einfach, verwalten Sie das Verzeichnis mit 50 Kontakten, identifizieren Sie Anrufer, wählen Sie ohne Abnehmen des Hörers und ändern Sie die Menüsprache.
 - MARKTFÜHRER IM BEREICH TELEFONIE: Alcatel, eine französische Marke, die auf Telekommunikation spezialisiert ist, zählt zu den globalen Spitzenreitern im Bereich der Telefonanbieter.
+- ALPHANUMERISCHES DISPLAY: Das Festnetztelefon Temporis 580 PRO verfügt über ein alphanumerisches Display mit einstellbarem Kontrast. Navigieren Sie einfach, verwalten Sie das Verzeichnis mit 50 Kontakten, identifizieren Sie Anrufer, wählen Sie ohne Abnehmen des Hörers und ändern Sie die Menüsprache.
+- STARKER SOUND UND ERWEITERTE FUNKTIONEN: Klare Gespräche ohne Unterbrechungen über den Hörer oder per Freisprechfunktion für Konferenzen. 10 Direktwahltasten, ein Headset-Anschluß und eine Taste für die direkte Annahme von Anrufen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00GN818JU{{</world>}}

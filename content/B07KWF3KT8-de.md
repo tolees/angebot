@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Perfekte Farbneutralität - Neuer Beschichtungsprozess für Nullpunktverschiebung
-- 16 Coating Layer - Anti-Kratz / Anti-Öl / Hydrophobe Beschichtungen
-- Messingrahmen - Glattes Gewinde und erhöhte Haltbarkeit
 - Fused Quartz Glass Element - löst bis zu 100MP Sensoren auf
+- 16 Coating Layer - Anti-Kratz / Anti-Öl / Hydrophobe Beschichtungen
+- Perfekte Farbneutralität - Neuer Beschichtungsprozess für Nullpunktverschiebung
+- Messingrahmen - Glattes Gewinde und erhöhte Haltbarkeit
 - Inklusive - Filter, Hartschalenkoffer, Softcase, Reinigungstuch In der Tat
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

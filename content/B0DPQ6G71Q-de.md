@@ -28,13 +28,13 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- 𝗞𝗲𝗿𝗮𝗺𝗶𝗸𝗯𝗲𝘀𝗰𝗵𝗶𝗰𝗵𝘁𝘂𝗻𝗴: Beide Kammern mit Keramikbeschichtung statt Teflon – weil wir Ihnen stets eine bessere Wahl bieten.
+- 𝗟𝗶𝗲𝗳𝗲𝗿𝘂𝗺𝗳𝗮𝗻𝗴: 2 Frittierkörbe mit Keramikbeschichtung (6,5 L & 4,3 L), 2 Backbleche mit Keramikbeschichtung, 1 Rezeptbuch, 1 Grillrost aus Edelstahl
 - 𝗘𝗻𝘁𝘄𝗶𝗰𝗸𝗲𝗹𝘁 𝘃𝗼𝗻 𝗖𝗢𝗦𝗢𝗥𝗜: COSORI sorgt durch stetige technologische Innovation für ein noch besseres Kocherlebnis
-- 𝗥𝗲𝘇𝗲𝗽𝘁𝗯𝘂𝗰𝗵: Inklusive Rezeptbuch & Edelstahlrost – mühelos drei Gerichte gleichzeitig zubereiten
 - 𝗞𝗼𝗺𝗽𝗮𝗸𝘁𝗲𝘀 𝗗𝗲𝘀𝗶𝗴𝗻: 10,8 L Kapazität mit zweischichtigem Design, das 41 % Stellfläche spart(vs COSORI TF101S)
 - 𝗙𝗼𝗿𝘁𝘀𝗰𝗵𝗿𝗶𝘁𝘁𝗹𝗶𝗰𝗵𝗲𝗿 𝗗𝗖-𝗠𝗼𝘁𝗼𝗿: 7 Funktionen mit 5 Windgeschwindigkeiten – hohe Geschwindigkeit für knusprige Pommes, niedrige für saftige Würstchen
 - 𝗗𝘂𝗮𝗹 𝗕𝗹𝗮𝘇𝗲-𝘁𝗲𝗰𝗵: Die untere Kammer verfügt über zwei Heizelemente, die Fleisch und Brot gleichmäßiger erhitzen und ungleichmäßiges Garen vermeiden
-- 𝗞𝗲𝗿𝗮𝗺𝗶𝗸𝗯𝗲𝘀𝗰𝗵𝗶𝗰𝗵𝘁𝘂𝗻𝗴: Beide Kammern mit Keramikbeschichtung statt Teflon – weil wir Ihnen stets eine bessere Wahl bieten.
-- 𝗟𝗶𝗲𝗳𝗲𝗿𝘂𝗺𝗳𝗮𝗻𝗴: 2 Frittierkörbe mit Keramikbeschichtung (6,5 L & 4,3 L), 2 Backbleche mit Keramikbeschichtung, 1 Rezeptbuch, 1 Grillrost aus Edelstahl
+- 𝗥𝗲𝘇𝗲𝗽𝘁𝗯𝘂𝗰𝗵: Inklusive Rezeptbuch & Edelstahlrost – mühelos drei Gerichte gleichzeitig zubereiten
 - 𝗣𝗿𝗼𝗱𝘂𝗸𝘁𝗺𝗮ß𝗲: Airfryer-Maße 41,3T x 30B x 40,5H cm, oberer Korb 4,3 L (H: 23,5 cm x B: 23,5 cm x T: 8,5 cm), unterer Korb 6,5 L (H: 23,5 cm x B: 23,5 cm x T: 12,5 cm)
 
 [🛒 Hier!!]({{< param buyurl >}})

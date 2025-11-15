@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - - Typ: Smartphone
-- - Netzwerktechnologie: GSM / HSPA / LTE / 5G
-- - Abmessungen: 164,4 x 77,9 x 7,9 mm
-- - SIM-Typ: Hybrid Dual SIM
 - - Gewicht: 200 g
+- - Netzwerktechnologie: GSM / HSPA / LTE / 5G
+- - SIM-Typ: Hybrid Dual SIM
+- - Abmessungen: 164,4 x 77,9 x 7,9 mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DM6HPMPR{{</world>}}

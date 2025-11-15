@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kinderleichte Steuerung: Mit One-Key Start/Landung, Notstopp, Wurfstart und stabiler Höhenhaltung lernen Kinder spielend leicht das Fliegen. Auch Anfänger steuern die Drohne schnell sicher und haben sofort Spaß.
 - Coole LED-Lichteffekte: Blau-grüne LED-Lichter mit mehreren Leuchtmodi machen die Drohne zum Hingucker – perfekt für Indoor & Outdoor Flüge, Familienmomente oder interaktives Spielen mit Haustieren, selbst im Dunkeln gut sichtbar.
 - Sicher & langlebig: Der robuste Vollschutzkäfig schützt Propeller und Kinderhände zuverlässig. Dank widerstandsfähiger Bauweise übersteht die RC Drohne zahlreiche Stürze – ideal für Anfänger und den täglichen Einsatz.
+- Kinderleichte Steuerung: Mit One-Key Start/Landung, Notstopp, Wurfstart und stabiler Höhenhaltung lernen Kinder spielend leicht das Fliegen. Auch Anfänger steuern die Drohne schnell sicher und haben sofort Spaß.
 - Perfektes Geschenk für kleine Piloten. Diese Mini Drohne für Kinder kombiniert Sicherheit, coole Effekte und kinderleichte Steuerung. Ob Geburtstag, Weihnachten oder als Überraschung zwischendurch – der Quadrocopter sorgt garantiert für strahlende Augen und unvergesslichen Spielspaß.
 - Längere Flugzeit: Die modulare Batterie ist einfacher zu installieren, sicherer zu laden und länger zu fliegen (3 batterien bis zu 21–24 Min). Im Set enthalten: 1 Mini Drohne, 2–3 Akkus, USB-Ladekabel, 4 Ersatzpropeller, Schraubendreher, Fernbedienung (AAA-Batterien nicht enthalten) und Bedienungsanleitung.
 

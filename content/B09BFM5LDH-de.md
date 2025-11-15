@@ -31,8 +31,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 - Hautverträglichkeit dermatologisch bestätigt
 - Pflegt die Haut unter den Achseln
 - Bietet 48h zuverlässigen Schutz vor Schwitzen
-- Ethylalkohol frei
 - Erstaunlicher Duft von Blumen und Zitronengras
+- Ethylalkohol frei
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09BFM5LDH{{</world>}}

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Packung mit 8 Rollen Thermorollen mit einer Grammatur von 55 g/m² und der Größe 80 x 45 x 12 mm (Breite des Tickets x Durchmesser der Rolle)
+- Apli Qualität: Hochwertiges Thermopapier, frei von Bisphenol-A (BPA) und ist rückstandsfrei, damit der Drucker frei von Verunreinigungen bleibt
 - Format: ca. 23 Meter pro Rolle; 8er Pack mit ca. 224 m Länge Thermopapier
 - Bei APLI bieten wir Thermorollen, klassisches Electra Papier für Drucke mit Tinte und selbstkopierendem Papier an
-- Apli Qualität: Hochwertiges Thermopapier, frei von Bisphenol-A (BPA) und ist rückstandsfrei, damit der Drucker frei von Verunreinigungen bleibt
 - Druck durch Wärmeübertragung ohne Tinte; besonders geeignet für Quittungen, Tickets und Kassenrechnungen, TPV-Systeme
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
