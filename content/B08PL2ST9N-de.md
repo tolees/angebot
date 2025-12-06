@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Lindert sofort Irritationen
 - Verbessert die Haut des Gesichts
 - Neutralisiert das Bräunungsgefühl der Haut nach der Rasur
 - Alkoholfreie Formel mit Kamille und Hamamamelis
-- Lindert sofort Irritationen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08PL2ST9N{{</world>}}

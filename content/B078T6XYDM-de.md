@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- dryCELL: PUMAs Kennzeichnung für feuchtigkeitstransportierende Eigenschaften und für trockenen Tragekomfort
 - PUMA Cat Logo als Hitzetransfer auf dem linken Bein
 - Klassisches Trikot-Design
 - Normale Passform
+- dryCELL: PUMAs Kennzeichnung für feuchtigkeitstransportierende Eigenschaften und für trockenen Tragekomfort
 - Nackenband
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

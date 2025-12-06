@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - FREUDE VERSCHENKEN zu besonderen Anlässen! Zur Übermittlung Ihrer Geburtstagswünsche, als Gutschein oder Geldverpackung für neues Werkzeug – unsere hochwertige Pop-Up Geschenkkarte ist immer eine besondere Überraschung, die von Herzen kommt.
-- DIE BESONDERE GLÜCKWUNSCHKARTE mit 3D Überraschungseffekt beim Öffnen! Ob für den Sohn, Vater, Mann oder Hobby-Handwerker – mit unserem ausgefallen Werkzeug-Gutschein haben Sie die Möglichkeit auf eine einzigartige Weise „Herzlichen Glückwunsch“ zu sagen.
 - AUSREICHEND PLATZ FÜR IHRE LIEBEN WORTE. Eine integrierte Einsteckkarte ist im Lieferumfang enthalten, die herausgezogen, beschriftet und wieder in die Grußkarte zurückgeschoben werden kann.
-- PREMIUM POP-UP KARTE mit einer hochwertig gestalteten Außenseite und einem detailreichen Motiv. Beim Öffnen der handgemachten Pop-Up Gutscheinkarte entfaltet sich ein großer Werkzeugkasten mit vielen Werkzeugen wie z.B. Akkuschrauber, Säge, Wasserwaage, Hammer und Zange.
+- DIE BESONDERE GLÜCKWUNSCHKARTE mit 3D Überraschungseffekt beim Öffnen! Ob für den Sohn, Vater, Mann oder Hobby-Handwerker – mit unserem ausgefallen Werkzeug-Gutschein haben Sie die Möglichkeit auf eine einzigartige Weise „Herzlichen Glückwunsch“ zu sagen.
 - DIE HANDGEMACHTE GRUSSKARTE IM GROSSFORMAT ist im geschlossenen Zustand 20 x 15 cm groß. Die hochwertige Geburtstagskarte ist aus festem farbigem Papier gefertigt und wird zusammen mit einem passenden, weißen Umschlag geliefert.
+- PREMIUM POP-UP KARTE mit einer hochwertig gestalteten Außenseite und einem detailreichen Motiv. Beim Öffnen der handgemachten Pop-Up Gutscheinkarte entfaltet sich ein großer Werkzeugkasten mit vielen Werkzeugen wie z.B. Akkuschrauber, Säge, Wasserwaage, Hammer und Zange.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C5DZV5KH{{</world>}}

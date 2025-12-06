@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bei diesem Gesellschaftsspiel für die ganze Familie sind neben Glück auch Taktik und Strategie gefragt: Wer bringt seine vier eigenen Spielfiguren zuerst ins Ziel und benutzt dabei die cleversten Kartenkombinationen? Überholen, rausschmeißen, Plätze tauschen und vieles mehr - Freude und Ärger liegen oft nah zusammen
-- Sehr schnell gelernt, da das Grundspiel auf den beliebten Laufspielen Pachisi, Ludo oder Eile mit Weile basiert. Doch statt mit einem Würfel bewegen sich die Spielfiguren mithilfe von selbst zusammengestellten Kartensets voran
 - Kurze Spielrunden sowie die Möglichkeit, sich bei HIT eigene spieltaktische Überlegungen machen zu können, machen Lust darauf, immer wieder eine Partie zu spielen
 - HIT bietet einen cleveren Mix aus klassischen Brettspiel und superleichten Deckbuilding-Elementen. Bereits Kinder ab 8 Jahren können problemlos mitspielen. Alle starten erstmal mit den gleichen Karten, doch im Verlauf des Spiels können individuelle Spielzüge hinzu erworben werden
+- Bei diesem Gesellschaftsspiel für die ganze Familie sind neben Glück auch Taktik und Strategie gefragt: Wer bringt seine vier eigenen Spielfiguren zuerst ins Ziel und benutzt dabei die cleversten Kartenkombinationen? Überholen, rausschmeißen, Plätze tauschen und vieles mehr - Freude und Ärger liegen oft nah zusammen
 - Das Gesellschaftsspiel mit langlebigen Komponenten, abwechslungsreichen Spielrunden und der Förderung von taktischen und strategischen Überlegungen begeistert Kinder und Erwachsene gleichermaßen. Ein ideales Geburtstagsgeschenk, Weihnachtsgeschenk oder Ostergeschenk
+- Sehr schnell gelernt, da das Grundspiel auf den beliebten Laufspielen Pachisi, Ludo oder Eile mit Weile basiert. Doch statt mit einem Würfel bewegen sich die Spielfiguren mithilfe von selbst zusammengestellten Kartensets voran
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CFR6FL37{{</world>}}

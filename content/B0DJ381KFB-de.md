@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus klassischem, leicht strukturiertem Piqué-Stoff
-- Passform: Basic Fit, Rückenlänge bei Größe M ca. 73 cm
 - Nicht auf Verzierung bügeln | Bügeln bei niedriger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | 30°C Feinwäsche | Mit ähnlichen Farben waschen | Nass in Form ziehen
-- Klassisches Polohemd mit einem kleinen Logo-Badge auf der Brust
 - Kurzarm | Mit Polokragen
+- Klassisches Polohemd mit einem kleinen Logo-Badge auf der Brust
+- Passform: Basic Fit, Rückenlänge bei Größe M ca. 73 cm
+- Aus klassischem, leicht strukturiertem Piqué-Stoff
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DJ381KFB{{</world>}}

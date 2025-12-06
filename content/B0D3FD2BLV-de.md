@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- leichtes T-Shirt
+- geruchshemmend
 - Jack Wolfskin Logo
 - bequemer Tragekomfort
-- geruchshemmend
 - schnelltrocknend
-- leichtes T-Shirt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D3FD2BLV{{</world>}}

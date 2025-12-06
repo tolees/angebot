@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zubehör
-- WD Red 500 GB NAS SSD 2.5 Inch SATA
 - WDS500G1R0A
+- WD Red 500 GB NAS SSD 2.5 Inch SATA
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07YFGQLYK{{</world>}}

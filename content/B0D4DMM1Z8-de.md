@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dämpfende Zwischensohle
 - Vulkanisierte Gummiaußensohle
 - Obermaterial aus Synthetikleder
+- Dämpfende Zwischensohle
 - Reguläre Passform
 - Textilfutter
 

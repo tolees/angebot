@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Farbe: Puma Schwarz
-- Baumwolle und Polyester
-- Reißverschluss über die volle Länge
-- Herren
 - Erwachsener
+- Herren
+- Farbe: Puma Schwarz
 - Puma Cat Logo auf der rechten Brust
+- Reißverschluss über die volle Länge
+- Baumwolle und Polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07XBSX9S8{{</world>}}

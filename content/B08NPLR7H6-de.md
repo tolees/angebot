@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 2.Druck Temperatur: 190-220℃
-- 5.Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen
-- 4.1kg/spool, 2 spools 1.75mm Filament PLA in der Vakuumverpackung
 - 1.Einfach zu bedienen: Keine Verwicklungen, kein Verstopfen, keine Blasen, können in verschiedenen gängigen 3D-Druckern verwendet werden
+- 4.1kg/spool, 2 spools 1.75mm Filament PLA in der Vakuumverpackung
+- 5.Umweltschutz, Hergestellt aus Stärke-Rohstoffen, die aus nachwachsenden Pflanzenressourcen stammen
+- 2.Druck Temperatur: 190-220℃
 - 3.Durchmessertoleranz +/- 0.02mm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Widerstandsfestes Gummi -Sohle
-- Basketball Schuhe
+- Retro-Stil
 - Basketball Schuhe
 - Widerstandsfestes Gummi -Sohle
 - Retro-Stil
-- Retro-Stil
+- Widerstandsfestes Gummi -Sohle
+- Basketball Schuhe
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BNJNK423{{</world>}}

@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Extrem kältebeständig und lange Akkulaufzeit – machen die längere Verwendung der Kamera in extremen Umgebungen zum Kinderspiel. Kältebeständigkeit bis zu -20 °C. Einfache Bedienung der Action-Kamera. Nimmt bis zu 150 Minuten in der Kälte auf, d. h. 2,5 Stunden in vielen Einstellungen.
-- 1/1,3-Zoll-Sensor und atemberaubende Low-Light-Aufnahmen – Ein größerer Sensor bedeutet eine bessere Bildqualität, d. h., dass deine Aufnahmen mit der 4K-Action-Kamera großartig aussehen, egal wann oder wo du sie aufgenommen hast. Effektive Bildrauschunterdrückung bei schlechten Lichtverhältnissen.
 - 4K/120fps und 155°-Ultraweitwinkel-Sichtfeld – sorgen für hochauflösendes Filmmaterial in einem weitläufigen Sichtfeld für Aufnahmen mit der 4K-Sportkamera, die dich in den Bann ziehen und dir das Gefühl geben, die Ich-Perspektive hautnah mitzuerleben. Erhalte bei sportlichen Aktivitäten klare und gleichmäßige Zeitlupen.
 - Enthält DJI Osmo Action 4, 1 Akku, 1 Schnellverschluss-Adapterhalterung und mehr. Diese Combo ist eine großartige Wahl für Anfänger, die zum ersten Mal die Action-Kamera verwenden und 4K-Filmmaterial erhalten möchten.
-- 10-Bit- und D-Log M-Farbleistung – macht die Nachbearbeitung stabil und sorgt dafür, dass Klarheit und Detailtreue erhalten bleiben. Dies erleichtert die Farbkorrektur und die Post-Produktion, wenn du die Aufnahmen deiner 4K-Action-Kamera bearbeitest.
-- Der magnetische Schnellverschluss und echte vertikale Videos – erleichtern das Ändern der Position der Vlogging-Kamera und die Aufnahmeperspektive. So lassen sich großartige Inhalte für soziale Medien im Handumdrehen erstellen und es entstehen großartige Sport-Aufnahmen mit der Action-Kamera, die direkt geteilt werden können.
-- Die 360° HorizonSteady – ist eine leistungsstarke Stabilisierungsfunktion, die das Bild auch bei einer Drehung um 360 Grad stabil hält. Eine Action-Kamera mit 3 Stabilisierungsmodi, um selbst bei rauesten Exkursionen eine weiche Kamerafahrt zu gewährleisten.
 - DJI OsmoAudio - Osmo Action 4 kann direkt mit einem DJI Mic 2/Mic Mini Sender verbunden werden und sorgt so für hochwertige Audioqualität bei Vlogs, Interviews und Livestreams - das vereinfacht deine Ausrüstung und deinen Workflow.
+- Der magnetische Schnellverschluss und echte vertikale Videos – erleichtern das Ändern der Position der Vlogging-Kamera und die Aufnahmeperspektive. So lassen sich großartige Inhalte für soziale Medien im Handumdrehen erstellen und es entstehen großartige Sport-Aufnahmen mit der Action-Kamera, die direkt geteilt werden können.
+- 10-Bit- und D-Log M-Farbleistung – macht die Nachbearbeitung stabil und sorgt dafür, dass Klarheit und Detailtreue erhalten bleiben. Dies erleichtert die Farbkorrektur und die Post-Produktion, wenn du die Aufnahmen deiner 4K-Action-Kamera bearbeitest.
+- 1/1,3-Zoll-Sensor und atemberaubende Low-Light-Aufnahmen – Ein größerer Sensor bedeutet eine bessere Bildqualität, d. h., dass deine Aufnahmen mit der 4K-Action-Kamera großartig aussehen, egal wann oder wo du sie aufgenommen hast. Effektive Bildrauschunterdrückung bei schlechten Lichtverhältnissen.
+- Extrem kältebeständig und lange Akkulaufzeit – machen die längere Verwendung der Kamera in extremen Umgebungen zum Kinderspiel. Kältebeständigkeit bis zu -20 °C. Einfache Bedienung der Action-Kamera. Nimmt bis zu 150 Minuten in der Kälte auf, d. h. 2,5 Stunden in vielen Einstellungen.
+- Die 360° HorizonSteady – ist eine leistungsstarke Stabilisierungsfunktion, die das Bild auch bei einer Drehung um 360 Grad stabil hält. Eine Action-Kamera mit 3 Stabilisierungsmodi, um selbst bei rauesten Exkursionen eine weiche Kamerafahrt zu gewährleisten.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0C783YNW7{{</world>}}

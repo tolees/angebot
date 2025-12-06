@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: GBL 18V-120, 4x Aufsätze, Standarddüse, Verlängerungsrohr, Bohrlochdüse, Staubauffangbehälter
 - Kraftvoll: dank 270 km/h (75 m/s) Luftstromgeschwindigkeit, Luftvolumenstrom: 2.0 m³/min - 120 m³/h
-- Laufzeit der zwei Geschwindigkeitsstufen: Geschwindigkeit 1: 9 min pro Ah; Geschwindigkeit 2: 5 min pro Ah
 - Leerlaufdrehzahl: 17.000 min-1
+- Laufzeit der zwei Geschwindigkeitsstufen: Geschwindigkeit 1: 9 min pro Ah; Geschwindigkeit 2: 5 min pro Ah
+- Lieferumfang: GBL 18V-120, 4x Aufsätze, Standarddüse, Verlängerungsrohr, Bohrlochdüse, Staubauffangbehälter
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01K4GC03O{{</world>}}

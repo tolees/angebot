@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sony Wiederaufladbarer Akkupack der Z-Serie NP-FZ100
 - Abmessung 38,7 x 22,7 x 51,7 mm (1 916 x 2932 x 2 18 Zoll)
 - Kapazität 7,2 V 16,4 Wh (2280 mAh)
+- Sony Wiederaufladbarer Akkupack der Z-Serie NP-FZ100
 - Gewicht Ca. 83 g (3,0 oz.)
 
 [🛒 Hier!!]({{< param buyurl >}})

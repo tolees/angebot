@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Stretcheinfassung am Kragen
 - Hergestellt aus recycelten Inhaltsstoffen
 - Eingrifftaschen mit Reißverschluss
-- Stretcheinfassung am Kragen
 - Stretcheinfassung an Bündchen und Saum.
 
 [🛒 Hier!!]({{< param buyurl >}})

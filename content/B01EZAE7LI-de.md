@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Das Stück ist aus robustem Hartporzellan gefertigt. Nicht geeignet für die Spülmaschine, am besten von Hand reinigen
 - Unsere Kollektion Christmas Toys vereint nostalgische Momente und modernes Design in einem festlichen Wunderland, in dem Weihnachtsmärkte, Schneemänner und der Nikolaus schon warten
 - Die Spieluhr "Let it Snow" in Form eines Lebkuchenhauses bietet außerdem Platz für ein Teelicht für gemütliches Licht und sanfte Klänge
-- Das Stück ist aus robustem Hartporzellan gefertigt. Nicht geeignet für die Spülmaschine, am besten von Hand reinigen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01EZAE7LI{{</world>}}

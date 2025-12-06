@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Strapazierfähiges PVC
 - Inhalt: 1 Schlauchboot, 1 Reparaturflicken
+- Strapazierfähiges PVC
 - Robuste Haltegriffe
 - Buntes Meerestier-Design
 

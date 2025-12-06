@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Logo application on the tongue
 - FuelFoam-Zwischensohle mit geprägtem Logo. Gerillte Gummi-Außensohle.
 - Leichtes, atmungsaktives Mesh-Obermaterial. Schnürsenkel.
 - Gepolsterter Knöchelbereich und Zunge. Logo-Label auf der Zunge.
-- Logo application on the tongue
 - Vollgummi-Außensohle.
 
 [🛒 Hier!!]({{< param buyurl >}})

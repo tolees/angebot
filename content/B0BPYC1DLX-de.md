@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dauerhafte Coloration für ein intensives, lebendiges Farbergebnis 8 Wochen lang
-- Cremig-samtige Textur für eine einfache und bequeme Anwendung – tropft nicht und duftet zart nach Blumen.
-- Colorations-Creme ohne Ammoniak enthält 60 % Öle, die die Farbe tief in der Haarfaser verankern und die Farbkraft aktivieren
-- Pflegt das Haar reichhaltig und schenkt ihm Geschmeidigkeit, Glanz sowie eine sichtbar verbesserte Haarstruktur.
 - In weiteren, modernen Farbtönen erhältlich mit bis zu 100 % Grauabdeckung – von hellem Blond bis hin zu intensivem Blau-Schwarz.
+- Pflegt das Haar reichhaltig und schenkt ihm Geschmeidigkeit, Glanz sowie eine sichtbar verbesserte Haarstruktur.
+- Colorations-Creme ohne Ammoniak enthält 60 % Öle, die die Farbe tief in der Haarfaser verankern und die Farbkraft aktivieren
+- Cremig-samtige Textur für eine einfache und bequeme Anwendung – tropft nicht und duftet zart nach Blumen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BPYC1DLX{{</world>}}

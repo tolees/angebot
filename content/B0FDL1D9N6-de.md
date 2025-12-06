@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Umweltfreundliches Kältemittel R290
-- Nachtmodus für besonders leisen Betrieb während des Schlafs
 - Speziell für den Einsatz in Wohnwagen und Wohnmobilen konzipiert
+- Nachtmodus für besonders leisen Betrieb während des Schlafs
+- Umweltfreundliches Kältemittel R290
 - 3-in-1 Klimagerät: Kühlung, Ventilation, Entfeuchtung
 - Integrierte Kondensatverdunstung
 

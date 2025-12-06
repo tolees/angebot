@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- AllAround-Kühlung / Doppelte Steuerung / Super-Kühlfunktion
 - 520L Nettovolumen: 338L Kühlen + 182L Gefrieren
-- LED Beleuchtung / LED Display / Tür offen Warnung / Urlaubsfunktion
 - Gerätemaße H x B x T (cm): 178,8 x 89,5 x 74,5 / WEEE-Nr.: DE55703080
-- NoFrost / Dual Inverter Kompressor / mit 3in1 Wasser-/Eisspender und Wassertank
 - Energieeffizienzklasse D / 254 kWh pro Jahr
+- NoFrost / Dual Inverter Kompressor / mit 3in1 Wasser-/Eisspender und Wassertank
+- LED Beleuchtung / LED Display / Tür offen Warnung / Urlaubsfunktion
+- AllAround-Kühlung / Doppelte Steuerung / Super-Kühlfunktion
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B096XDYMQ2{{</world>}}

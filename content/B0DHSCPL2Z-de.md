@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPANNENDER MODELLBAU: Der mächtige LEGO Donnerzahn ist mit einem Nebenmodell verkettet und kann mit den zwei enthaltenen Prismaklingen befreit werden, eine Szene direkt aus der TV-Serie
-- HELDEN UND SCHURKEN IM FIGURENSET: Das Ninjago Figuren Set enthält sechs LEGO Minifiguren: Lloyd, Nya, Arin und Sora sowie die Bösewichte Nokt und Tyr, den Anführer der Drachenmenschen
-- BAUABENTEUER MIT APP: Mit der LEGO Builder App erleben Kinder ein digitales Bauerlebnis - Modelle lassen sich in 3D drehen und vergrößern, Baufortschritte werden gespeichert und Schritt-für-Schritt erklärt
-- BEWEGLICHE LEGO NINJAGO DRACHENFIGUR: Der große Ninjago Drache verfügt über viele Gelenke an Schwanz, Flügeln, Beinen, Füßen, Kopf und Kiefer sowie über Shooter unter den Flügeln für Action beim Spielen
 - EIN TEIL DER LEGO NINJAGO WELT: Das Set lässt sich mit weiteren LEGO Ninjago Aufstieg der Drachen Sets (separat erhältlich) kombinieren und eröffnet eine große Fantasiewelt mit Ninja-Helden, Gegnern und Drachen
+- SPANNENDER MODELLBAU: Der mächtige LEGO Donnerzahn ist mit einem Nebenmodell verkettet und kann mit den zwei enthaltenen Prismaklingen befreit werden, eine Szene direkt aus der TV-Serie
 - LEGO NINJAGO DRACHE: Das Set Donnerzahn - Drache des Chaos aus der Welt von LEGO Ninjago Aufstieg der Drachen ist ein Bauspielzeug für Kinder ab 8 Jahren, das Abenteuer aus der Serie zum Leben erweckt
+- BAUABENTEUER MIT APP: Mit der LEGO Builder App erleben Kinder ein digitales Bauerlebnis - Modelle lassen sich in 3D drehen und vergrößern, Baufortschritte werden gespeichert und Schritt-für-Schritt erklärt
+- HELDEN UND SCHURKEN IM FIGURENSET: Das Ninjago Figuren Set enthält sechs LEGO Minifiguren: Lloyd, Nya, Arin und Sora sowie die Bösewichte Nokt und Tyr, den Anführer der Drachenmenschen
 - GESCHENK ZU WEIHNACHTEN FÜR KINDER UND DRACHENFANS: Ob zur Weihnachtszeit, zum Geburtstag oder einfach zwischendurch, dieses LEGO Ninjago Set ist ein beliebtes Geschenk für Kinder und Fans
+- BEWEGLICHE LEGO NINJAGO DRACHENFIGUR: Der große Ninjago Drache verfügt über viele Gelenke an Schwanz, Flügeln, Beinen, Füßen, Kopf und Kiefer sowie über Shooter unter den Flügeln für Action beim Spielen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DHSCPL2Z{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Innovativ
 - Langlebigkeit
+- Innovativ
 - Robustheit
 
 [🛒 Hier!!]({{< param buyurl >}})

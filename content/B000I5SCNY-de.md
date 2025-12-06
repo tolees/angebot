@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- beliebt bei Grafikern und Künstlern für Skizzen, Zeichnungen, Illustrationen und vielem mehr
 - Pentel Sign Pen Faserschreiber: der Profi unter den Faserschreibern
 - in 12 Farben erhältlich
+- beliebt bei Grafikern und Künstlern für Skizzen, Zeichnungen, Illustrationen und vielem mehr
 - Lieferumfang: 12 Stifte
 - metallgefasste, formstabile Schreibspitze für Strichstärken von 0, 8 - 2, 0mm
 

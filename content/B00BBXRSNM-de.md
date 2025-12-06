@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Ein Highlight für den Gourmet & Genießer
-- Grand Estates Merlot Columbia Crest - Duft: Dieser Merlot zeigt schöne Aromen von dunkler Schokolade und Schwarzkirsche
 - Passt zu: Schmeckt besonders gut zu Ente, Rind , Blauschimmelkäse
 - Geschmack: Die komplexen Fruchtaromen werden gefolgt von einem sanften, seidigen Abgang
+- Grand Estates Merlot Columbia Crest - Duft: Dieser Merlot zeigt schöne Aromen von dunkler Schokolade und Schwarzkirsche
 - Im März 2022 wurde der Grand Estates Merlot Columbia Crest von Vinous mit 89 Punkten ausgezeichnet und von James Suckling erhielt er 90 Punkte
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

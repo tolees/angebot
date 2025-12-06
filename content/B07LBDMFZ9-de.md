@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trunks
 - Baumwolle
-- Detail
 - Materialzusammensetzung: 95% Baumwolle, 5% Elasthan
+- Trunks
+- Detail
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07LBDMFZ9{{</world>}}

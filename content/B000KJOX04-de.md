@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1 Stück
 - Einfache Handhabung
+- Lieferumfang: 1 Stück
 - Material in Profiqualität
 - Markendetails
 

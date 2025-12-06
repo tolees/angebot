@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leonino
 - Die Söldner 4 [Blu-ray]
 - Physischer Film
+- Leonino
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CHV29S49{{</world>}}

@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PrimaLoft Isolation
-- Traxion Außensohle
-- COLD.RDY und wasserabweisendes Finish
-- Sprengung: 10 mm (Rückfußhöhe: 25 mm / Vorfußhöhe: 15 mm)
-- Gewicht: 540 g (Größe 42 2/3)
-- Reguläre Passform
-- Besteht zu mindestens 20 % aus recycelten und erneuerbaren Materialien
 - Obermaterial aus Wildleder
+- Gewicht: 540 g (Größe 42 2/3)
+- Sprengung: 10 mm (Rückfußhöhe: 25 mm / Vorfußhöhe: 15 mm)
+- Besteht zu mindestens 20 % aus recycelten und erneuerbaren Materialien
+- Traxion Außensohle
 - Textilfutter
+- Reguläre Passform
+- COLD.RDY und wasserabweisendes Finish
+- PrimaLoft Isolation
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXXYR2K{{</world>}}

@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Vertraue der innovativen MAXTRA PRO 4-stufigen Filtration mit natürlichen Aktivkohle- und Ionenaustauscher-Perlen: frisches Filterwasser für volleres Aroma in Kaffee & Tee und zuverlässigem Kalkschutz
-- Praktischer Klappdeckel für einhändiges Befüllen vom Tischwasserfilter / intelligenter Smart Light Sensor misst gefilterte Zeit & Volumen um an den Kartuschen Wechsel zu erinnern / spülmaschinengeeignet bis 60°C (außer Smart Light & Silikonring)
 - Filterkanne für Trinkwasser kompatibel mit MAXTRA PRO All-in-1 Filterkartusche für puren Geschmack & Extra Kalkschutz Kartusche für mehr Geräteschutz & Wasserentkalker
+- Praktischer Klappdeckel für einhändiges Befüllen vom Tischwasserfilter / intelligenter Smart Light Sensor misst gefilterte Zeit & Volumen um an den Kartuschen Wechsel zu erinnern / spülmaschinengeeignet bis 60°C (außer Smart Light & Silikonring)
 - Lieferumfang: 1 x BRITA Glas Wasserfilter Kanne in hellblau, 1 x MAXTRA PRO ALL-IN-1 Wasserfilter Kartuschen / Glaskanne mit Gesamtkapazität von 2,5l für 1,5l frisches gefiltertes Wasser
 - Wasser Filter reduziert geschmacksstörende Stoffe wie Chlor, Blei, Kupfer, Spuren von bestimmten Herbiziden, Pestiziden und Medikamenten, Kalk, sofern im Leitungswasser
 - Der erste BRITA Wasserfilter aus Glas: hochwertiges, simples Design & nachhaltige Materialien – Wasserfilter-Glaskanne 100% made in Germany
+- Vertraue der innovativen MAXTRA PRO 4-stufigen Filtration mit natürlichen Aktivkohle- und Ionenaustauscher-Perlen: frisches Filterwasser für volleres Aroma in Kaffee & Tee und zuverlässigem Kalkschutz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BZSVC51Z{{</world>}}

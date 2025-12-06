@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Stoff besteht zu 90 % aus Post-Consumer-Recyclingkunststoff und wird in einer FSC-zertifizierten Verpackung (FSC C172210, 2021) geliefert
 - Mit kontrastreichem Muster zum Spielen in der Bauchlage, anbringbarem Knisterspielzeug und Spiegel, um sich selbst zu entdecken; für anregendes sensorisches Spielen
-- Große 3-in-1 Panda-Spielmatte zum Mitnehmen; zum Spielen in Rücken- oder Bauchlage
 - Matte lässt sich unterwegs einfach und sicher zusammengerollt transportieren; ohne Spielzeuge maschinenwaschbar
+- Große 3-in-1 Panda-Spielmatte zum Mitnehmen; zum Spielen in Rücken- oder Bauchlage
+- Der Stoff besteht zu 90 % aus Post-Consumer-Recyclingkunststoff und wird in einer FSC-zertifizierten Verpackung (FSC C172210, 2021) geliefert
 - Befestigungsring des Spielzeugs: 95 % ISCC-zertifizierter Kunststoff (Massenbilanzansatz)
 
 [🛒 Hier!!]({{< param buyurl >}})

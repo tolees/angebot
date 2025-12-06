@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- - Netzwerktechnologie: GSM / HSPA / LTE
-- - Abmessungen: 162,2 x 74,9 x 8,2 mm
-- - Gewicht: 180 g
 - - Typ: Smartphone
 - - SIM-Typ: Nano-SIM
+- - Abmessungen: 162,2 x 74,9 x 8,2 mm
+- - Gewicht: 180 g
+- - Netzwerktechnologie: GSM / HSPA / LTE
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DPHN1435{{</world>}}

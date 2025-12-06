@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Neue Gebiete, Gefährten, neue spannende Quests bieten Pillars-Fans und Neu-Einsteigern großartige Rollenspiel-Unterhaltung
 - Pillars of Eternity II: Deadfire ist der Nachfolger eines der bestbewerteten Rollenspiele dieser Dekade
 - Inklusive das Spiel Pillars of Eternity II: Deadfire sowie Beast of Winter DLC, The Forgotten Sanctum DLC und Seeker, Slayer, Survivor DLC
+- Neue Gebiete, Gefährten, neue spannende Quests bieten Pillars-Fans und Neu-Einsteigern großartige Rollenspiel-Unterhaltung
 - Umfangreiches und spannendes Classic-Rollenspiel mit technisch aktuellster Präsentation
 
 [🛒 Hier!!]({{< param buyurl >}})

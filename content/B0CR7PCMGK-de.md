@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Länge/Größe : Lang
 - Seitentaschen
+- Länge/Größe : Lang
 - Winddicht
 - Reißverschluss, Knopfleiste
 

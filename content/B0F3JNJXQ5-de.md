@@ -28,16 +28,16 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der diagonale Betrachtungswinkel beträgt etwa 110°
-- Die Weitwinkellinse der Kamera umfasst den gesamten Raum und kann leicht eingestellt werden. So können auch große Gruppen gemeinsam Spaß haben
-- Die Kamera wird über den USB-C-Anschluss an der Oberseite der Konsole angeschlossen. So lässt sich die Kamera im TV-Modus, Tisch-Modus oder im Handheld-Modus nutzen
-- Ein Bildsensor mit hoher Empfindlichkeit passt die Helligkeit automatisch an, um Gesichter erkennen zu können
-- Kompatibel für die Spiele Mario Kart World und Super Mario Party Jamboree – Nintendo Switch 2 Edition
-- Der Kamera liegt ein 1,5 m langes Kabel bei|Videoaufnahmequalität: 1080p
-- Ihre kompakte Größe gewährleistet einfaches Platzieren und Bewegen der Kamera
-- Eine speziell für Nintendo Switch 2 entwickelte USB-C-Kamera, um Funktionen auf der Nintendo Switch 2-Konsole zu nutzen, darunter Video-Chat mit Freunden oder die Verwendung des eigenen Bilds innerhalb von kompatiblen Nintendo Spielen
 - Während des Spiels auf Nintendo Switch 2 jederzeit mit Freunden und Familie in Verbindung bleiben!
+- Der Kamera liegt ein 1,5 m langes Kabel bei|Videoaufnahmequalität: 1080p
 - Wenn die Kamera gerade nicht verwendet wird, kann die Linse mithilfe des Sichtschutzverschlusses verdeckt werden
+- Ein Bildsensor mit hoher Empfindlichkeit passt die Helligkeit automatisch an, um Gesichter erkennen zu können
+- Eine speziell für Nintendo Switch 2 entwickelte USB-C-Kamera, um Funktionen auf der Nintendo Switch 2-Konsole zu nutzen, darunter Video-Chat mit Freunden oder die Verwendung des eigenen Bilds innerhalb von kompatiblen Nintendo Spielen
+- Der diagonale Betrachtungswinkel beträgt etwa 110°
+- Ihre kompakte Größe gewährleistet einfaches Platzieren und Bewegen der Kamera
+- Die Weitwinkellinse der Kamera umfasst den gesamten Raum und kann leicht eingestellt werden. So können auch große Gruppen gemeinsam Spaß haben
+- Kompatibel für die Spiele Mario Kart World und Super Mario Party Jamboree – Nintendo Switch 2 Edition
+- Die Kamera wird über den USB-C-Anschluss an der Oberseite der Konsole angeschlossen. So lässt sich die Kamera im TV-Modus, Tisch-Modus oder im Handheld-Modus nutzen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F3JNJXQ5{{</world>}}

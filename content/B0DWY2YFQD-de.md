@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der DLC erscheint am 04. Dezember und führt zwei neue Bosse für den dritten Tag, neue Feldbosse, die Verschobene Erde – eine besondere Bedingung, bei der sich die Karte massiv verändert – und neue Wegpunkte in Limveld ein.
-- Die ELDEN RING NIGHTREIGN Seekers Edition enthält den DLC „The Forsaken Hollows“, der am 04. Dezember 2025 erscheint!
 - Zwei neue Nachtwandler schließen sich ebenfalls dem Kampf an, inklusive neuer Fähigkeiten, um es mit dem Nachtregen aufzunehmen.
+- Die ELDEN RING NIGHTREIGN Seekers Edition enthält den DLC „The Forsaken Hollows“, der am 04. Dezember 2025 erscheint!
 - The Forsaken Hollows ist ein zusätzlicher DLC, der 2 zusätzliche Nachtwandler, 1 neue Verschobene Erde und mehr enthält
+- Der DLC erscheint am 04. Dezember und führt zwei neue Bosse für den dritten Tag, neue Feldbosse, die Verschobene Erde – eine besondere Bedingung, bei der sich die Karte massiv verändert – und neue Wegpunkte in Limveld ein.
 - ELDEN RING NIGHTREIGN entfesselt eine neue Gefahr in Form des Dreglords: einem der neuen Endgegner im kommenden DLC ELDEN RING NIGHTREIGN: THE FORSAKEN HOLLOWS.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

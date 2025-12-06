@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Rundhals Design für bewegungsfreundliche Passform
 - Raglanärmel sorgen für natürliche Bewegungsfreiheit
 - Schnell trocknendes dri-fit-gewebe
-- Rundhals Design für bewegungsfreundliche Passform
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07W6YBR53{{</world>}}

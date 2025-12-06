@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Elastischer Bund mit Kordelzug
 - Atmungsaktives Gewebe
+- Elastischer Bund mit Kordelzug
 - Schlanke Passform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

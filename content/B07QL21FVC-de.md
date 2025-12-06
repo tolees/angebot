@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hochwertige Produkte
-- mit Außensechskantantrieb nach DIN 3126/ ISO 1173 - C 6, 3
-- für Handbetätigung und Elektroschrauber
-- Modellnummer: 918.4541
 - Marke: KS Tools
 - Torx
+- Modellnummer: 918.4541
+- für Handbetätigung und Elektroschrauber
+- Hochwertige Produkte
+- mit Außensechskantantrieb nach DIN 3126/ ISO 1173 - C 6, 3
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07QL21FVC{{</world>}}

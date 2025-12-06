@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Bequem
 - Elastischer Bund
 - Angenehmes Material
-- Bequem
 - 3er-Pack
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

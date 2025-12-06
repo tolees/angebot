@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- ANWENDUNG: Die VAUDE Fahrradtasche kann als Fahrrad Tasche & als Umhängetasche genutzt werden – besonders praktisch im Alltag. Die abnehmbaren Schulterträger lassen sich auch als Spanngurte nutzen
-- EINFACH: Dank Befestigungssystem QMR 2.0 passt die Fahrradtasche auf runde Gepäckträgerrohre mit Durchmessern von 8-16 mm. Leichte Befestigung & Abnahme der Gepäckträgertasche am Fahrrad
-- GREEN SHAPE: Die Gepäckträgertasche hat das VAUDE Green Shape-Label. Sie steht damit für ein umweltfreundliches, funktionelles Produkt aus bluesign-zertifizierten, nachhaltigen Materialien
 - MATERIAL: Die Fahrradtasche für Gepäckträger wasserdicht wird aus hochwertigen Planenmaterial hergestellt und ist PVC frei. Klimaneutral in Deutschland produziert, robust & langlebig
+- ANWENDUNG: Die VAUDE Fahrradtasche kann als Fahrrad Tasche & als Umhängetasche genutzt werden – besonders praktisch im Alltag. Die abnehmbaren Schulterträger lassen sich auch als Spanngurte nutzen
+- GREEN SHAPE: Die Gepäckträgertasche hat das VAUDE Green Shape-Label. Sie steht damit für ein umweltfreundliches, funktionelles Produkt aus bluesign-zertifizierten, nachhaltigen Materialien
+- EINFACH: Dank Befestigungssystem QMR 2.0 passt die Fahrradtasche auf runde Gepäckträgerrohre mit Durchmessern von 8-16 mm. Leichte Befestigung & Abnahme der Gepäckträgertasche am Fahrrad
 - PLATZ: Die wasserdichte Fahrradtasche bietet mit einem Volumen von 25 L ausreichend Stauraum in dem geräumigen Hauptfach. Mit dem wasserdichten Wickelverschluss lässt sich die Größe einfach variieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

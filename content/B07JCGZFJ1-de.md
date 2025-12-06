@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die Jacke hat eine reflektierende Omni-Heat-Technologie die Ihnen eine verbesserte Isolierung bietet, um Sie auch an den kältesten Tagen warm zu halten
-- Lieferumfang: 1 x Columbia Mens Powder Lite Jacke, Außenmaterial: Storm-Lite DP II 100 percent Polyester; Futter: Omni-Heat Reflective Futter 100 percent Polyester; Isolierung: Thermarator 100 percent Polyester, Farbe: Schwarz, Größe: XL, Art.Nr. 1698001
-- Herrenjacke, Ideal für Hochgebirgswanderungen dank ihres wärmereflektierenden Innenfutters, das für Wärme und Behaglichkeit sorgt
 - Die Reißverschlusstaschen bieten Ihnen Vielseitigkeit. Für warme Hände und zum sicheren Verstauen Ihrer Wertsachen wie Smartphone oder Geld
 - Wasserabweisendes Gewebe, das Sie vor leichten Regenschauern und Nebel schützt, Optimale Passform dank verstellbarem Kordelzug am Saum
+- Lieferumfang: 1 x Columbia Mens Powder Lite Jacke, Außenmaterial: Storm-Lite DP II 100 percent Polyester; Futter: Omni-Heat Reflective Futter 100 percent Polyester; Isolierung: Thermarator 100 percent Polyester, Farbe: Schwarz, Größe: XL, Art.Nr. 1698001
+- Die Jacke hat eine reflektierende Omni-Heat-Technologie die Ihnen eine verbesserte Isolierung bietet, um Sie auch an den kältesten Tagen warm zu halten
+- Herrenjacke, Ideal für Hochgebirgswanderungen dank ihres wärmereflektierenden Innenfutters, das für Wärme und Behaglichkeit sorgt
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07JCGZFJ1{{</world>}}

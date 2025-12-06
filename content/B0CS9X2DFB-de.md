@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- MATERIAL & PFLEGE: Die Jacke besteht aus 100% recyceltem Polyester. Sie kann in der Maschine gewaschen werden und ist für den Trockner geeignet.
 - BEWÄHRTE QUALITÄT: Seit 1985 überzeugt die Designer-Marke weltweit durch ihre Qualität und Leichtigkeit mit vielfältigen Styles in den bekannten Farben Dunkelblau, Weiß und Rot.
-- OPTIMALE PASSFORM: Der zeitlose Look der schlichten Übergangsjacke schmeichelt jeder Körperform. Außerdem eignet sich die sportliche Herbstjacke auch perfekt als Geschenk für Jung und Alt.
 - FÜR JEDEN ANLASS: Die leichte Steppjacke zeichnet sich durch ihre Funktionalität und den besonders hohen Tragekomfort aus. Das dezente Tommy Hilfiger Branding macht den Look der stylischen Jacke komplett.
+- MATERIAL & PFLEGE: Die Jacke besteht aus 100% recyceltem Polyester. Sie kann in der Maschine gewaschen werden und ist für den Trockner geeignet.
+- OPTIMALE PASSFORM: Der zeitlose Look der schlichten Übergangsjacke schmeichelt jeder Körperform. Außerdem eignet sich die sportliche Herbstjacke auch perfekt als Geschenk für Jung und Alt.
 - IKONISCH & ZEITLOS: Die original Tommy Hilfiger Jacke mit Reißverschluss und fixierter Kapuze ist in schlichtem Design gehalten. Sie ist aufgrund ihres warmen Materials ideal für die kalte Jahreszeit geeignet.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

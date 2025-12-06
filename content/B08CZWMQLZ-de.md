@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Ideale Lösung für die Bedienung von Fassadenfenstern, Roto Dachfenstern und Rollos, die außer Reichweite liegen. Passend für Dachfenster und Zubehörteile wie Verdunkelungsrollos, Sichtschutz-Rollos, Außenmarkisen, Faltstores und Jalousetten. Er eignet sich auch für Menschen mit körperlichen Beeinträchtigungen.
-- Der Teleskop Bedienstab ist beidseitig verwendbar.
-- Die Roto Teleskop-Bedienstange kann auf sechs verschiedene Längen eingestellt werden.
 - Designo / RotoQ / Classic: dient der Nutzung der Designo- / RotoQ- / Classic-Fensterfunktion (Q-4, R4/R6/R7/R8 und 43/6x/73/84)
+- Ideale Lösung für die Bedienung von Fassadenfenstern, Roto Dachfenstern und Rollos, die außer Reichweite liegen. Passend für Dachfenster und Zubehörteile wie Verdunkelungsrollos, Sichtschutz-Rollos, Außenmarkisen, Faltstores und Jalousetten. Er eignet sich auch für Menschen mit körperlichen Beeinträchtigungen.
 - Kann bis zu einer maximalen Länge von 1900 mm verlängert werden.
+- Die Roto Teleskop-Bedienstange kann auf sechs verschiedene Längen eingestellt werden.
+- Der Teleskop Bedienstab ist beidseitig verwendbar.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08CZWMQLZ{{</world>}}

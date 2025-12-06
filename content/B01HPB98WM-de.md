@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Robuster, langlebiger Stick: Hochwertiges Aluminium-Gehäuse. Mit Verschlusskappe für beide Anschlüsse.
-- USB-Stick mit zwei Anschlüssen: USB-3.1 (Gen 1) Type-C- und USB-3.0-Anschlüsse. Geeignet für z.B. PC, Notebook, Smartphone & Tablet (OTG-fähig)
-- Ideal auch zum Aufnehmen am Fernseher: Ermöglicht direktes Aufnehmen und Abspielen von Filmen in FullHD.
-- Lieferumfang: 1 FlashPen "C-Laeta"
 - Ultraschnelles Wechselspeichermedium: Datenübertragung mit bis zu 40 MB/s. Datensicherung von bis zu 64 GB.
+- Ideal auch zum Aufnehmen am Fernseher: Ermöglicht direktes Aufnehmen und Abspielen von Filmen in FullHD.
+- Robuster, langlebiger Stick: Hochwertiges Aluminium-Gehäuse. Mit Verschlusskappe für beide Anschlüsse.
+- Lieferumfang: 1 FlashPen "C-Laeta"
+- USB-Stick mit zwei Anschlüssen: USB-3.1 (Gen 1) Type-C- und USB-3.0-Anschlüsse. Geeignet für z.B. PC, Notebook, Smartphone & Tablet (OTG-fähig)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01HPB98WM{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sechs dedizierte Makro-Tasten mit Möglichkeit zur Integration in die Elgato Stream Deck-Software: Vollständig programmierbar mit komplexen Makros und Tastenneubelegungen
-- Das Herzstück Ihres Setups: Die CORSAIR K100 RGB verfügt über ein elegantes Design mit einem langlebigen Aluminiumrahmen, dynamischer Hintergrundbeleuchtung einzelner Tasten
 - Multifunktional programmierbar: Übernehmen Sie die Kontrolle über Hintergrundbeleuchtung, Medien-Jogging und mehr mit einem vielseitigen iCUE-Drehregler zur Programmierung von Aktionen in Spielen
+- Das Herzstück Ihres Setups: Die CORSAIR K100 RGB verfügt über ein elegantes Design mit einem langlebigen Aluminiumrahmen, dynamischer Hintergrundbeleuchtung einzelner Tasten
 - Gute CORSAIR OPX RGB optisch-mechanische Tastenschalter: Blitzschnelle Eingaben mit einem Betätigungsweg von nur 1,0 mm und ein leichter linearer Anschlag
+- Sechs dedizierte Makro-Tasten mit Möglichkeit zur Integration in die Elgato Stream Deck-Software: Vollständig programmierbar mit komplexen Makros und Tastenneubelegungen
 - Powered by CORSAIR AXON Hyper-Processing-Technologie: Das fortschrittlichste Gaming-Tastatur-Erlebnis von CORSAIR bietet einen bis zu vier Mal schnelleren Durchsatz mit nativem 4.000-Hz-Hyper-Polling
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

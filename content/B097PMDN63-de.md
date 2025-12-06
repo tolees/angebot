@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Passform : Normal geschnitten
 - Details : Hinten länger
 - Angenehmes Tragekomfort
+- Passform : Normal geschnitten
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B097PMDN63{{</world>}}

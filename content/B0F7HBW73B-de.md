@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Löst JEDEN TAG EIN RÄTSEL aus verschiedenen Schulfächern der Zauberschule. Länge der Rätsel: 10–25 Minuten pro Tag.
+- Der besondere Adventskalender für Fans von Escape-Room-Spielen, Erwachsene und Familien mit Jugendlichen AB 14 JAHREN.
 - Erhältst du die Zulassung zur berühmten Zauberschule? Löse 24 spannende Rätsel mit kreativen und abwechslungsreichen magischen Aufgaben.
 - Atmosphärische Abenteuergeschichte und cleveres Escape-Game im Potter-Universum über 24 TAGE.
 - In diesem Spiel findest du alles, um deinen Kalender in der Adventszeit in einen dekorativen Hingucker zu verwandeln!
-- Der besondere Adventskalender für Fans von Escape-Room-Spielen, Erwachsene und Familien mit Jugendlichen AB 14 JAHREN.
-- Löst JEDEN TAG EIN RÄTSEL aus verschiedenen Schulfächern der Zauberschule. Länge der Rätsel: 10–25 Minuten pro Tag.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F7HBW73B{{</world>}}

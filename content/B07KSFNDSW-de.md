@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Wasserabweisende Weste für Herren, Synthetisches Daunenimitat
+- Lieferumfang: 1x Columbia Herren Weste, Powder Pass, Farbe: BLACK (Schwarz), Größe: XL, Art.-Nr.: 1842414
 - Hybridmaterial für mehr Bewegungsfreiheit und optimalen Komfort
 - In verschiedenen stylishen Farben erhältlich, Ideal für den Alltag
-- Lieferumfang: 1x Columbia Herren Weste, Powder Pass, Farbe: BLACK (Schwarz), Größe: XL, Art.-Nr.: 1842414
-- Wasserabweisende Weste für Herren, Synthetisches Daunenimitat
 - Verstellbarer Tunnelzugsaum, Reißverschlusstaschen für die Hände, Einfassung am Armausschnitt
 
 [🛒 Hier!!]({{< param buyurl >}})

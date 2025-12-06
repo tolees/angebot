@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- PLATZSPAREND: Das kompakte Design sorgt dafür, dass diese Nespresso Maschine in jeder Küche oder jedem Büro einen Platz findet. Mit ihren Maßen ist die Essenza Mini auch ideal als Kaffeemaschine für Reisen und den Urlaub geeignet
 - LEISTUNGSSTARK: Mit der Kapselmaschine Nespresso Essenza Mini erhalten Sie dank kräftigen 19 bar Pumpendruck einen leckeren Espresso oder Lungo mit typischer Crema
 - ERWEITERBAR: Mit dem separat erhältlichen Aeroccino Milchaufschäumer genießen Sie nicht nur die klassischen Varianten Espresso und Lungo sondern außerdem Cappuccino und Latte Macchiato mit cremigem Milchschaum
 - VIELFÄLTIG: Inklusive Welcome Set mit 7 Kapseln in unterschiedlichen Geschmacksrichtungen. Entdecken Sie so die Vielfalt der Nespresso Sorten und finden Sie ihren Lieblingskaffee
+- PLATZSPAREND: Das kompakte Design sorgt dafür, dass diese Nespresso Maschine in jeder Küche oder jedem Büro einen Platz findet. Mit ihren Maßen ist die Essenza Mini auch ideal als Kaffeemaschine für Reisen und den Urlaub geeignet
 - INTUITIV: Über die 2 Direktwahltasten können Sie sich entweder für Espresso oder einen Kaffee Lungo entscheiden. Halten Sie die Tasten einfach gedrückt, um die Füllmenge individuell einzustellen
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leicht und kompakt: Die Mini 3 wiegt weniger als 249 g. Perfekt zum Mitnehmen auf deine Abenteuer, Wanderungen, Roadtrips und Tage am Strand.
-- Überprüfe sicherheitshalber immer die neuesten lokalen Gesetze und Vorschriften und halte sie vor dem Flug strikt ein.
-- Es gibt zwei Versionen für Mini 3: mit und ohne C0-Label. Beide Versionen können nach den Kategorien A1 und A3 fliegen. Piloten müssen keine Prüfungen ablegen.
-- Fliegen ist ein Kinderspiel: Lass dich nicht von etwas Wind abhalten. Die Mini 3 fliegt auch bei Windstärke 5 (38 km/h) noch stabil, sodass du stets perfekte Aufnahmen machen kannst.
-- Genieß den Moment: Mach atemberaubende Aufnahmen mit QuickShots, um dynamische Flugbewegungen auszuwählen, oder nimm mit Panorama eine perfekte Landschaft auf.
-- Echte vertikale Aufnahmen: Damit kannst du ganz einfach hohe Wahrzeichen wie Wolkenkratzer und Wasserfälle aufnehmen und deine Aufnahmen direkt in der perfekten Ausrichtung auf Instagram oder TikTok teilen.
-- Enthält die DJI RC-N1 Fernsteuerung, damit du mit leichtem Gepäck deine Kreativität genießen kannst.
 - Atemberaubende Bilder: Nimm in 4K und HDR auf, für kristallklare Videos, und erfasse alle Details in Lichtern und Schatten, egal ob bei Tag oder Nacht.
+- Es gibt zwei Versionen für Mini 3: mit und ohne C0-Label. Beide Versionen können nach den Kategorien A1 und A3 fliegen. Piloten müssen keine Prüfungen ablegen.
+- Überprüfe sicherheitshalber immer die neuesten lokalen Gesetze und Vorschriften und halte sie vor dem Flug strikt ein.
+- Echte vertikale Aufnahmen: Damit kannst du ganz einfach hohe Wahrzeichen wie Wolkenkratzer und Wasserfälle aufnehmen und deine Aufnahmen direkt in der perfekten Ausrichtung auf Instagram oder TikTok teilen.
 - Regelungsfreundlich: Bei einer Drohne mit einem Gewicht von weniger als 249 g ist in den meisten Ländern kein Test erforderlich. Genieße den Spaß am Fliegen ohne mühsames Antragsverfahren und Wartezeit.
+- Genieß den Moment: Mach atemberaubende Aufnahmen mit QuickShots, um dynamische Flugbewegungen auszuwählen, oder nimm mit Panorama eine perfekte Landschaft auf.
+- Leicht und kompakt: Die Mini 3 wiegt weniger als 249 g. Perfekt zum Mitnehmen auf deine Abenteuer, Wanderungen, Roadtrips und Tage am Strand.
+- Fliegen ist ein Kinderspiel: Lass dich nicht von etwas Wind abhalten. Die Mini 3 fliegt auch bei Windstärke 5 (38 km/h) noch stabil, sodass du stets perfekte Aufnahmen machen kannst.
+- Enthält die DJI RC-N1 Fernsteuerung, damit du mit leichtem Gepäck deine Kreativität genießen kannst.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BL3T49JF{{</world>}}

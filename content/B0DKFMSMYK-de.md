@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - AMD Ryzen 7 9800X3D 5.2GHZ AM5 BOX
 - AMD Ryzen 7 9800X3D 5.2GHZ AM5 BOX
-- Ergonomisches Design
 - Hochwertige Produkte
+- Ergonomisches Design
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DKFMSMYK{{</world>}}

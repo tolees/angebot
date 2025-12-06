@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Marke Beauty-Produkte
 - Marke Beauty-Produkte Delial
+- Marke Beauty-Produkte
 - Körper Sonnencreme
 
 [🛒 Hier!!]({{< param buyurl >}})

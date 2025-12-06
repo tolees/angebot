@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bequeme Installation: Die Klebemagnete haften auf der einen Seite auf einer ebenen Oberfläche und werden auf der anderen Seite magnetisch hinter der Lampe angezogen. Ein solches Installationsdesign ist für die Neupositionierung einfach zu demontieren
 - Unendliches Dimmen: Durch langes Drücken kann eine unendliche Dimmung (10% -100%) erreicht werden, um sich an unterschiedliche Szenenanforderungen anzupassen. Keine Sorge mehr über unzureichende Helligkeit tagsüber und blendende Lichter in der Nacht
 - 4 Einstellbare Modi: Durch kurzes Drücken können die 4-Modi (Ein/All Day/Nacht/Aus) eingestellt werden. Im Ein- oder Aus-Modus ist das Schrankbeleuchtung ständig ein- oder ausgeschaltet; In den Modi All Day und Night öffnet sich das Led Unterbauleuchte, wenn Bewegung erkannt wird, und schließt sich automatisch 15 Sekunden später, wenn keine Bewegungen erkannt werden
-- Sicherer Begleiter: Das Licht mit Bewegungsmelder beleuchtet jede dunkle Ecke und sorgt so jederzeit für die Sicherheit von älteren Menschen und Kindern. Geeignet für Küche, Schlafzimmer, Kleiderschrank, Nachttisch, Vitrine, Treppe, Foyer, Spiegel, Keller, Garage, Flur, Ecke, etc.
 - Wiederaufladbares Gerät: 1500mah Hochleistungsbatterie sorgt für ausreichende Helligkeit und längere Nutzungsdauer. Der USB-C-Anschluss lässt sich problemlos in etwa 3 Stunden vollständig aufladen, was ausreichend Strom für etwa 5 Stunden in ON-Modus oder etwa 3 Monate in Sensor-Modus (basierend auf 10-Aktivität pro Tag) bietet
+- Sicherer Begleiter: Das Licht mit Bewegungsmelder beleuchtet jede dunkle Ecke und sorgt so jederzeit für die Sicherheit von älteren Menschen und Kindern. Geeignet für Küche, Schlafzimmer, Kleiderschrank, Nachttisch, Vitrine, Treppe, Foyer, Spiegel, Keller, Garage, Flur, Ecke, etc.
+- Bequeme Installation: Die Klebemagnete haften auf der einen Seite auf einer ebenen Oberfläche und werden auf der anderen Seite magnetisch hinter der Lampe angezogen. Ein solches Installationsdesign ist für die Neupositionierung einfach zu demontieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CN2XLJWX{{</world>}}

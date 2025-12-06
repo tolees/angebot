@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- DIY firewall Soft Router PC is M.2 Key-E 2230 Slot, supports WiFi/BT Module, Additional Wi-Fi slot adapter to expand M.2 2280 NVME Slot max 2TB. 1 xUSB3.2, 1 xType-C, 4 xUSB2.0, 1 xTF card slot, 2 x HD 4K@60Hz, 1 x SPK/MIC, Power DC 12V size 5.5*2.2mm
-- Powerful CPU mini pc with Alder Lake-N 12th Gen low power N150 processor (6MB cache, 4C/4T, up to 3.6GHz), TDP 6 W, energy-saving and energy-saving. supports OPNsense, Linux, Unbutun, ESXI, OpenWrt, Unraid and so on almost compatible with most common systems
 - The small desktop computer PC fan device with motherboard two CPU fan slots inside, Unterstützt nachrüstbare 12V 4 Pin 80 x 10mm small fan, machine comes with spherical fan low noise could be removed from the motherboard.Der Lüfter verfügt über ein eingebautes solides Aluminiumgehäuse und einen Kupferblock, der sich hervorragend für aktive und passive Anwendungen eignet.
-- MNBOXCONET micro firewall mini pc box with 1 xTF card slot unterstützt data storage and system boot, 2 x HD 2.0 4K @60Hz dual display. SPK/MIC to chat with friends. For example, you can compare data while writing a report unterstützt Auto Power On, Wake On Lake, GPIO, PXE
+- Powerful CPU mini pc with Alder Lake-N 12th Gen low power N150 processor (6MB cache, 4C/4T, up to 3.6GHz), TDP 6 W, energy-saving and energy-saving. supports OPNsense, Linux, Unbutun, ESXI, OpenWrt, Unraid and so on almost compatible with most common systems
+- DIY firewall Soft Router PC is M.2 Key-E 2230 Slot, supports WiFi/BT Module, Additional Wi-Fi slot adapter to expand M.2 2280 NVME Slot max 2TB. 1 xUSB3.2, 1 xType-C, 4 xUSB2.0, 1 xTF card slot, 2 x HD 4K@60Hz, 1 x SPK/MIC, Power DC 12V size 5.5*2.2mm
 - Mini PC 10 Gigabit Ethernet 82599ES SFP Firewall mit 1 x LPDDR5 RAM 4800MHz RAM, kompatibel mit 5200/5600MHz, Max 32G. 1 x M.2 2280 NVMe SSD Slot, Max 2T. Small office computer with dual spf+ 10gbe netzwerkkarte, 2 x i226V 2.5gb network Card Chip Full UDE2.5G mit filter connector.2 pin power supply, Drücken Sie "Delete“ oder "F7" um ins UEFI BIOS zu gelangen
+- MNBOXCONET micro firewall mini pc box with 1 xTF card slot unterstützt data storage and system boot, 2 x HD 2.0 4K @60Hz dual display. SPK/MIC to chat with friends. For example, you can compare data while writing a report unterstützt Auto Power On, Wake On Lake, GPIO, PXE
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DSG8C827{{</world>}}

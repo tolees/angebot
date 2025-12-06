@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lokomotive mit Licht.
 - Mit eingebautem modernen Märklin mfx Digital Decoder.
+- Lokomotive mit Licht.
 - Die Stromabnehmer lassen sich heben und senken.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- RC-fähiges Fahrzeug (aufrüstbar mit Art.Nr. 4320 Kompakt-RC-Modul-Set)
 - Das Motorboot schwimmt im Wasser und kann mit Unterwassermotor ausgerüstet werden (Art.Nr. 7350; nicht enthalten)
-- Spielfiguren-Set: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
 - Täglich bespielbar: Hochwertige Qualität und robustes Design, Reinigung der Teile (ohne Aufkleber) unter fließendem Wasser ohne chemische Mittel
+- Spielfiguren-Set: Optimal für Kinderhände durch altersgerechte Größe und angenehme Haptik mit abgerundeten Kanten
+- RC-fähiges Fahrzeug (aufrüstbar mit Art.Nr. 4320 Kompakt-RC-Modul-Set)
 - mit abnehmbarem Frontdach, zu öffnender Heckklappe und um klappbarer Rückbank
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

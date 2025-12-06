@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Kurzärmliges Polohemd mit kleinem Logo-Label | In verschiedenen Unifarben & auch leicht melliert
+- Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm
 - Aus klassischem, leicht strukturiertem Piqué-Stoff mit Stretch-Anteil für mehr Bewegungsfreiheit & einen angenehmen Tragekomfort
 - Mit Polo-Kragen | Kurzarm
-- Passform: Regular Fit, Rückenlänge bei Größe M ca. 72 cm
+- Kurzärmliges Polohemd mit kleinem Logo-Label | In verschiedenen Unifarben & auch leicht melliert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D8BZ9RGM{{</world>}}

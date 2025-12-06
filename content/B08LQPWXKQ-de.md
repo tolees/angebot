@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 1-8 Spieler | Ab 7+ Jahren | Bis zu 30+ Minuten Spielzeit je Partie | Spiel in Deutsch
+- In diesem kompetitiven Strategiespiel tretet ihr als junge Hexen und Zauberer aus den Häusern Gryffindor, Ravenclaw, Hufflepuff und Slytherin an, um die meisten Punkte für den Hauspokal zu verdienen
 - Entdeckt in diesem zauberhaften Familienspiel die magische Welt von Harry Potter. Dabei begegnet ihr gefährlichen Gegnern in Missionskämpfen und müsst euch gegenseitig duellieren
 - Ihr habt eure Einladung erhalten, in die berühmteste Schule für Hexerei und Zauberei „Hogwarts“ einzutreten. Die Leitung der Schule übernimmt der größte Zauberer aller Zeiten: Albus Dumbledore
-- In diesem kompetitiven Strategiespiel tretet ihr als junge Hexen und Zauberer aus den Häusern Gryffindor, Ravenclaw, Hufflepuff und Slytherin an, um die meisten Punkte für den Hauspokal zu verdienen
 - Die ganze Saga wird anhand von 30 Missionskarten und spannenden Quidditch-Matches zum Leben erweckt. Die Schwierigkeit und Länge könnt ihr dabei nach euren Wünschen anpassen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

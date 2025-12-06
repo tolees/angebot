@@ -28,13 +28,13 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einfache Einrichtung und Verwendung - Schnelle und einfache tägliche Einrichtung und Verwaltung über kostenlose App (kostenfrei für IOs und Android)
 - Zugriff auch von unterwegs - Steuern Sie alle Geräte bequem über das Smartphone, überall und zu jeder Zeit
-- Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
+- *Mit Fritzbox OS. 7.20 brauchen Sie Ihren Verschlüsselungsstandard zu WPA2 zu fixieren, um Tapo P100 problemlos anzuschließen
 - Lieferumfang: Tapo P100 (nur auf 2.4GHz), Schnellinstallationsanleitung
+- Einfache Einrichtung und Verwendung - Schnelle und einfache tägliche Einrichtung und Verwaltung über kostenlose App (kostenfrei für IOs und Android)
+- Erstellen von Zeitplänen - Schalten Sie Ihre Geräte automatisch zu verschiedenen Zeiten an und aus
 - Sprachsteuerung - Aktivieren Sie Ihre smarte Steckdose mit Sprachbefehlen über Amazon Alexa oder den Google Assistant
 - WARNUNG: Keine Erdungssteckdose Europäische Steckdose, nur für eine Buchse Typ C (oder Steckdosen)
-- *Mit Fritzbox OS. 7.20 brauchen Sie Ihren Verschlüsselungsstandard zu WPA2 zu fixieren, um Tapo P100 problemlos anzuschließen
 - Abwesenheitsmodus - Schalten Sie Ihre Lichter zu unterschiedlichsten Zeiten an und aus um die Anwesenheit einer Person zu simulieren
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Taschen auf der Vorderseite
-- Regulär geschnitten
 - 100 % Polyester (recycelt)
+- Regulär geschnitten
 - Elastischer Bund mit Kordelzug
 
 [🛒 Hier!!]({{< param buyurl >}})

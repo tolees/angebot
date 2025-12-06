@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Set enthält 3 Monster Trucks und 3 Hot Wheels Fahrzeuge im Maßstab 1:64 für stundenlangen Spielspaß auch für unterwegs!
 - In die Startrampe passen entweder zwei Hot Wheels Autos im Maßstab 1:64 oder ein Monster Truck. Nacheinander gestartet ergibt sich ein prima Crash.
-- Ob offen oder geschlossen: Das Hot Wheels Monster Trucks Stunt Reifen Spielset macht immer mächtig Eindruck. Der extragroße Monster-Truck-Reifen bietet Platz für eine Stunt-Piste von über 88 cm Länge. Im geschlossenen Zustand kann das Set am Griff überall mitgenommen werden.
 - Nach dem Start schnellen die Fahrzeuge die Rampe hoch und durch einen Feuerring“. Sieger ist, wer einen Salto macht und im Gewinnerkreis landet.
 - Lässt sich mit anderen Sets kombinieren und sorgt so für Action und Abenteuer.
+- Ob offen oder geschlossen: Das Hot Wheels Monster Trucks Stunt Reifen Spielset macht immer mächtig Eindruck. Der extragroße Monster-Truck-Reifen bietet Platz für eine Stunt-Piste von über 88 cm Länge. Im geschlossenen Zustand kann das Set am Griff überall mitgenommen werden.
+- Das Set enthält 3 Monster Trucks und 3 Hot Wheels Fahrzeuge im Maßstab 1:64 für stundenlangen Spielspaß auch für unterwegs!
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09CFP81PP{{</world>}}

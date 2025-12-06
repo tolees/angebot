@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Rundhalsausschnitt mit Rippblende
-- softe Haptik
-- großer Wording Print vorne, kleiner hinten
 - Label Patch am linken Ärmel
 - gestreiftes Necktape
+- softe Haptik
+- Rundhalsausschnitt mit Rippblende
+- großer Wording Print vorne, kleiner hinten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D9926SMQ{{</world>}}

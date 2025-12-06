@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- NUR LED-Lichtset: Bitte beachten Sie, dass nur das Lichtset geliefert wird. Alle in Bildern und Videos gezeigten Bausteine Sets sind nicht enthalten.
+- Schritt-für-Schritt-Anleitung: 2D-Code aus der Schachtel scannen es kommt mit detaillierten und einfachen Anweisungen, die Sie Schritt für Schritt durch die Montage der Leuchten führen.
+- KundendienstWenn Sie Probleme oder Schwierigkeiten mit dem Produkt haben, zögern Sie bitte nicht, uns zu kontaktieren. Wir werden immer für Sie da sein.
 - Coole Geschenkauswahl: Dieses Beleuchtungsset würde Ihr Bausteine Set zum Leuchten bringen und es zu einem großartigen Geburtstagsgeschenk, Weihnachtsgeschenk für Kinder oder jeden Modellbau-Enthusiasten machen.
 - Großartige Ergänzung zu Ihrem Bausteine Set: Dieser LED Licht Bausatz ist speziell für das 77241 Speed champions 2 Fast 2 Furious – Honda S2000 Bauklötze Modell entworfen.
-- NUR LED-Lichtset: Bitte beachten Sie, dass nur das Lichtset geliefert wird. Alle in Bildern und Videos gezeigten Bausteine Sets sind nicht enthalten.
-- KundendienstWenn Sie Probleme oder Schwierigkeiten mit dem Produkt haben, zögern Sie bitte nicht, uns zu kontaktieren. Wir werden immer für Sie da sein.
-- Schritt-für-Schritt-Anleitung: 2D-Code aus der Schachtel scannen es kommt mit detaillierten und einfachen Anweisungen, die Sie Schritt für Schritt durch die Montage der Leuchten führen.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0F9DXGBJH{{</world>}}

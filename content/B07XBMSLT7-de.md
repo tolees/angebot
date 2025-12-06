@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Der LAMY Lx Füller überzeugt durch seine exzellente Verarbeitung und hochwertig veredelte Details: der charakteristische Clip und weitere Metalldetails mit farblich passendem Edelmetall veredelt
-- Die robuste, polierte und schwarz PVD beschichtete Premium Edelstahlfeder sorgt für einen angenehmen, gleichmäßigen Tintenfluss: Sie ist in verschiedenen Federbreiten erhältlich
-- Ein weiteres Highlight ist das ergonomische und durchsichtige Griffstück des LAMY Lx: Es ermöglicht einen anschaulichen Blick auf die innenliegende Mechanik des Tintenleiters
 - Ob noch genügend Tinte in der Patrone oder im Konverter vorhanden ist, lässt sich Dank des kleinen Fensters im Griffstück, perfekt erkennen
+- Ein weiteres Highlight ist das ergonomische und durchsichtige Griffstück des LAMY Lx: Es ermöglicht einen anschaulichen Blick auf die innenliegende Mechanik des Tintenleiters
 - Lieferumfang: 1x LAMY Lx Füllhalter in der Farbe marron, Federstärke M, inkl. Geschenkverpackung und 1x Tintenpatrone LAMY T 10 in blau - vorbereitet für Konverter LAMY Z 28 zur Nutzung mit Tintenglas
+- Die robuste, polierte und schwarz PVD beschichtete Premium Edelstahlfeder sorgt für einen angenehmen, gleichmäßigen Tintenfluss: Sie ist in verschiedenen Federbreiten erhältlich
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07XBMSLT7{{</world>}}

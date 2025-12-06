@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 1x Villeroy & Boch Artesano Original Antipasti-Platte (28 cm), Material: Holz, Farbe: Braun
 - Hochwertige Qualität: Natürliches Holz, Zum Reinigen mit lauwarmem Wasser und mildem Spülmittel abwaschen
+- Lieferumfang: 1x Villeroy & Boch Artesano Original Antipasti-Platte (28 cm), Material: Holz, Farbe: Braun
 - Leicht erhöhter Rand zum sauberen Servieren, Optimal für verschiedene Speisen, Integrierter Griff zum sicheren Platzieren und Weiterreichen
 - Natürliches Holz als anmutiger Blickfang auf der Tafel, Passt perfekt zum schlichten Artesano Original-Geschirr
 

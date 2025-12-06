@@ -29,10 +29,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sofort volles Licht, keine Aufwärmzeit. Einfacher Austausch von Standardglühlampen, echter Ersatz für eine 40-W-Glühbirne (Außenanwendungen nur in geeigneten Leuchten)
+- RGBW-Farben (ca. 16 Mio Farben) und Lichtfarbe von warmweiß (2700K) bis tageslichtweiß (6500K) änderbar
+- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
 - Consommation dénergie 5 kWh/1000h à 470 lm
 - Lange Lebensdauer bis zu 20000 Stunden und bis zu 100000 Schaltzyklen. Warmweißes Licht für Wohlbehagen und Entspannung in Wohn-, Schlaf-, und Kinderzimmern
-- Geringere Wärmeentwicklung (gegenüber dem Standardreferenzprodukt).
-- RGBW-Farben (ca. 16 Mio Farben) und Lichtfarbe von warmweiß (2700K) bis tageslichtweiß (6500K) änderbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BGDXRM3J{{</world>}}

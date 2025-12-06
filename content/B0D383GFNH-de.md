@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Genieße mit dieser Deluxe Edition von ONE PIECE ODYSSEY die komplette Story des Spiels
-- Die Deluxe Edition für Nintendo Switch enthält sechs DLC und weitere Bonus-Inhalte
-- Übernimm in diesem klassischen RPG in der Welt des beliebten ONE PIECE-Animes die Rollen verschiedener Mitglieder der Strohhut-Crew!
 - Das RPG, das zum 25. Jubiläum der sowohl im Original als auch als Anime beliebten "ONE PIECE"-Reihe veröffentlicht wurde, ist endlich in einer luxuriösen Edition mit zusätzlichen Szenarien und Outfits für die Nintendo Switch verfügbar!
+- Genieße mit dieser Deluxe Edition von ONE PIECE ODYSSEY die komplette Story des Spiels
+- Übernimm in diesem klassischen RPG in der Welt des beliebten ONE PIECE-Animes die Rollen verschiedener Mitglieder der Strohhut-Crew!
+- Die Deluxe Edition für Nintendo Switch enthält sechs DLC und weitere Bonus-Inhalte
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D383GFNH{{</world>}}

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Lieferumfang: Fernglas; Tasche; Schwimmgurt; Gebrauchsanweisung
 - Abmessungen: 150x130x55m / Gewicht: 825 g
-- Das vielseitige Dachkant-Fernglas der Condor Serie besitzt eine volle Mehrschichtvergütung für noch mehr Lichtsammelleistung in der Dämmerung und ist optimal für den Einsatz auf dem Wasser. Die TwistUp Augenmuscheln sorgen für einen bequemen Durchblick, auch bei Brillenträgern.
 - Die hochwertige Phasenvergütung und die BaK-4 Prismen erzeugen ein helles und klares Bild. Das wasserdichte Fernglas hat einen Schwimmgurt und ist praktisch unsinkbar.
 - Die 10-fache Vergrößerung und ein Objektivdurchmesser von 42mm ermöglichen ein Sehfeld von 101 Metern auf einer Entfernung 1000 Meter. Die vergütete Optik erzeugt eine Lichtstärke von 17.64 und die Dämmerungszahl beträgt 20.49.
+- Das vielseitige Dachkant-Fernglas der Condor Serie besitzt eine volle Mehrschichtvergütung für noch mehr Lichtsammelleistung in der Dämmerung und ist optimal für den Einsatz auf dem Wasser. Die TwistUp Augenmuscheln sorgen für einen bequemen Durchblick, auch bei Brillenträgern.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00JGJWC48{{</world>}}

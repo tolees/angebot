@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Synthetikleder
-- Reguläre Passform
-- Abriebfeste Non Marking Gummiaußensohle
 - Textilfutter
+- Obermaterial aus Synthetikleder
+- Abriebfeste Non Marking Gummiaußensohle
+- Reguläre Passform
 - Klettverschluss
 
 [🛒 Hier!!]({{< param buyurl >}})

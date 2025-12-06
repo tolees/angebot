@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 10-Zonen RGB-Beleuchtung - Großartige Farbschemen und reaktive Effekte
-- Flüsterleise Gaming-Switches - Nahezu geräuschlos für 20 Millionen reibungsarme Tastendrücke
-- Hinweis: Es wird empfohlen, die Firmware regelmäßig mit SteelSeries Engine zu aktualisieren
 - Tastaturlayout: Deutsch QWERTZ. Diese Layouts unterscheiden sich von den Produktbildern, welche das amerikanische QWERTY-Layout zeigen
+- Flüsterleise Gaming-Switches - Nahezu geräuschlos für 20 Millionen reibungsarme Tastendrücke
+- 10-Zonen RGB-Beleuchtung - Großartige Farbschemen und reaktive Effekte
+- Hinweis: Es wird empfohlen, die Firmware regelmäßig mit SteelSeries Engine zu aktualisieren
 - Premium magnetische Handballenauflage - Bietet volle Unterstützung der Hand und Komfort
 - IP32 wassergeschützt - Verhindert Schäden durch verschüttete Flüssigkeiten
 

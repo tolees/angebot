@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die feuchtigkeitsspendende Wirkung sorgt dafür, dass sich die Lippen den ganzen Tag lang gut anfühlen
-- Ein leichtes Tragegefühl dank der cremigen Formel
 - Erhältlich in einer breiten Palette von Farbtönen
 - Lässt sich dank der hochwirksamen Farbe in nur einem Zug präzise auftragen
+- Ein leichtes Tragegefühl dank der cremigen Formel
 - Sorgt bis zu 10 Stunden intensive und langanhaltende Farbe
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Geeignet für alle Hauttypen, auch für Haut mit Unverträglichkeiten gegenüber chemischen Filtern und/oder atopischer Haut.
+- 100% mineralischer Sonnenschutz, der speziell für die empfindliche Haut von Kindern und Babys entwickelt wurde (ab 6 Monaten)
 - 100% mineralischer Filter der sofort einzieht.
 - Ziel geschlecht: unisex
+- Geeignet für alle Hauttypen, auch für Haut mit Unverträglichkeiten gegenüber chemischen Filtern und/oder atopischer Haut.
 - Eine halbe Stunde vor dem Sonnenbad eine großzügige Menge auf die trockene Haut auftragen. Alle 2 Stunden und nach dem Schwimmen, Schwitzen oder Abtrocknen erneut auftragen.
-- 100% mineralischer Sonnenschutz, der speziell für die empfindliche Haut von Kindern und Babys entwickelt wurde (ab 6 Monaten)
 - Hoher UVB/UVA-Schutz LSF 50. Bietet Schutz gegen indirekte Sonneneinstrahlung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Dutzende anspruchsvolle Missionen in einer vernetzten Welt
 - Extreme Umgebungen in einer hochentwickelten physik-engine
-- 40 Fahrzeuge zum freischalten, aufwerten und anpassen
 - Spiele alleine oder im 4-spieler-koop
+- 40 Fahrzeuge zum freischalten, aufwerten und anpassen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B091DFX91F{{</world>}}

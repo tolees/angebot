@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Einheitezahltyp: stück
 - Repariert haarfasern von innen und auen für doppelt so starkes haar
+- Einheitezahltyp: stück
 - für noch bessere ergebnisse, wird die verwendung der kompletten re/start recovery reihe empfohlen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Just Dance 2026 Edition bietet 40 heiße neue Songs, darunter aktuelle Hits wie „Houdini“ von Dua Lipa und Klassiker wie „Hung Up“ von Madonna.
-- NEU: Nutze deinen ganzen Körper mit dem Kamera-Controller-Modus auf deinem Smartphone.**
-- Bis zu 6 Spieler im lokalen Mehrspielermodus, inklusive neuer Party- und Herausforderungsmodi.
-- Just Dance 2026 Edition bietet 40 heiße neue Songs, darunter aktuelle Hits wie „Houdini“ von Dua Lipa und Klassiker wie „Hung Up“ von Madonna.
 - Werde aktiv mit dem Workout-Modus, der deine Kalorienverbrennung während des Spielens misst.
+- Bis zu 6 Spieler im lokalen Mehrspielermodus, inklusive neuer Party- und Herausforderungsmodi.
+- NEU: Nutze deinen ganzen Körper mit dem Kamera-Controller-Modus auf deinem Smartphone.**
+- Just Dance 2026 Edition bietet 40 heiße neue Songs, darunter aktuelle Hits wie „Houdini“ von Dua Lipa und Klassiker wie „Hung Up“ von Madonna.
+- Just Dance 2026 Edition bietet 40 heiße neue Songs, darunter aktuelle Hits wie „Houdini“ von Dua Lipa und Klassiker wie „Hung Up“ von Madonna.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0FKZD44DY{{</world>}}

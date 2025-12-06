@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- model: 15211562
-- Beinstil: Skinny
-- jeans
-- plus size
-- Passform: Regular
 - care instructions: keine anabe
+- plus size
 - jeans
 - Stoff typ: 92% Polyester- Polyurethan Felled, 8% Elasthan - Polyurethan Felled,
 - closure: keine angabe
+- jeans
+- model: 15211562
+- Beinstil: Skinny
+- Passform: Regular
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08BKMR727{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Skinny Fit
 - Mittlere Taille
 - Skinny Jeans
+- Skinny Fit
 - Materialzusammensetzung: 92% Baumwolle, 6% Elastomultiester, 2% Elasthan
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

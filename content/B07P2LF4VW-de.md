@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Inhalt: 1x 400ml
+- Farbe: gunmetal grey metallic matt
 - Maximale Ergiebigkeit durch Leersprühen der Dose
 - Sprühfolie sprüht auch über kopf
 - Sehr gute Deckkraft, hoch elastisch und leicht aufzutragen
 - Ist ideal für KFZ, Hobby, Haus und Garten geeignet
-- Farbe: gunmetal grey metallic matt
-- Inhalt: 1x 400ml
 - Sprüh Folie ist einfach wieder abziehbar
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

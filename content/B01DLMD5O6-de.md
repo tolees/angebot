@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Exzentelle Bildqualität durch ein optisches Design mit einem asphärischen Element
-- Für Vollformat E-Mount Kameras, kompakt, leicht und handlich
-- Reinigen Sie die Linse, um Anwendungsfehler zu vermeiden
 - Wunderschöne Bokeh-Effekte mit maximaler Lichtstärke von F1.8; Längere Lebensdauer mit dem robusten Metallgehäuse
 - Brennweite 50 mm (entspricht APS-C 75 mm), Blende F1.8 (kleinste Blende F22)
 - Lieferumfang Sony SEL50F18F.SYX E-Mount Vollformat Objektiv
+- Exzentelle Bildqualität durch ein optisches Design mit einem asphärischen Element
+- Für Vollformat E-Mount Kameras, kompakt, leicht und handlich
+- Reinigen Sie die Linse, um Anwendungsfehler zu vermeiden
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01DLMD5O6{{</world>}}

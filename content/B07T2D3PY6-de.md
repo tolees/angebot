@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Passform : Komfort Fit
-- Rüschenbesatz
 - Ärmellänge : Langarm
+- Rüschenbesatz
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07T2D3PY6{{</world>}}

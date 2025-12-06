@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Trocknet die Lippen nicht aus, sondern macht sie geschmeidig und prall
-- Angereichert mit feuchtigkeitsspendenden Wachsen und leichten Ölen sowie reichhaltigen Pigmenten für ein samtiges Finish mit langer Tragezeit
-- Ein lang anhaltender Bourjois Lippenstift mit intensiver Farbe und einem wundervoll matten Finish
 - Bis zu 24 Stunden makelloser, präziser Halt
+- Angereichert mit feuchtigkeitsspendenden Wachsen und leichten Ölen sowie reichhaltigen Pigmenten für ein samtiges Finish mit langer Tragezeit
+- Trocknet die Lippen nicht aus, sondern macht sie geschmeidig und prall
+- Ein lang anhaltender Bourjois Lippenstift mit intensiver Farbe und einem wundervoll matten Finish
 - Dank der Tränenform können Sie ihn ideal in einem Zug auftragen
 
 [🛒 Hier!!]({{< param buyurl >}})

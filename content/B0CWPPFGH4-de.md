@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - DER AUSTAUSCHBARE AKKU HÄLT BIS ZU 60 MINUTEN IN ECO², 15 MINUTEN IN TURBO³: Reinigt mehr als 195 m² im Eco-Modus und mehr als 70 m² im Turbo-Modus⁴. Sie benötigen eine längere Laufzeit? Einfach einen Zusatzakku einlegen und sofort weiter saugen.
+- STARKE SAUGLEISTUNG BEI MINIMALEM BATTERIEVERBRAUCH DANK POWERCYCLONE 10: Erzeugt energieeffizient einen starken Luftstrom (bis zu 840 l/min¹), der Staub und Schmutz gründlich aufnimmt, mit längerer Laufzeit, einschließlich kurzer und langer Haare.
 - WEITERES ZUBEHÖR FÜR MEHR EINSATZMÖGLICHKEITEN: Die Haustierdüse saugt feine und lange Haare von weichen Oberflächen auf, z. B. vom Sofa oder dem Haustierbett. Mit dem Aqua-Modul können Sie eine Vielzahl von Flecken entfernen, während Sie saugen.
 - TRIACTIVE MULTI LED DÜSE MIT LICHTSTRAHL: Entfernt bis zu 99,9 % Staub, Schmutz & Haare in einem Durchgang⁶. Hervorragende Staubaufnahme auf weichen & harten Böden, reinigt bis 3 mm nah an Kanten. Ideal für alle Bodenarten.
 - EINFACHE REINIGUNG MIT 3 EINSTELLUNGEN, DISPLAY & ZUBEHÖR: Intuitives Display, als Handstaubsauger nutzbar. Mit Fugendüse für enge Stellen & 2-in-1-Kombidüse für empfindliche Oberflächen.
-- STARKE SAUGLEISTUNG BEI MINIMALEM BATTERIEVERBRAUCH DANK POWERCYCLONE 10: Erzeugt energieeffizient einen starken Luftstrom (bis zu 840 l/min¹), der Staub und Schmutz gründlich aufnimmt, mit längerer Laufzeit, einschließlich kurzer und langer Haare.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CWPPFGH4{{</world>}}

@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hitzebeständige Eigenschaften
 - Vielseitige Funktionalität
+- Hitzebeständige Eigenschaften
 - Hochwertiges Materialien
 - Platzsparendes Design
 

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- das Edelstahlgehäuse verfügt über eine duale Griffzone aus fein strukturiertem Metall und farbigen Gumminoppen
 - das Modell verfügt über eine voll versenkbare Minenführung, die über den Clip eingezogen werden kann
-- individuell einstellbarer Härtegradindikator
 - befüllt mit einem Radierstück und 2 Feinminen, Härtegrad HB
+- das Edelstahlgehäuse verfügt über eine duale Griffzone aus fein strukturiertem Metall und farbigen Gumminoppen
 - 4 mm voll versenkbarer Minenführung
+- individuell einstellbarer Härtegradindikator
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000GAXKGU{{</world>}}

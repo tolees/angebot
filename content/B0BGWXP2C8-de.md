@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit natürlichen ätherischen Ölen aus Cabreuva, Rosmarin & Pinus-Arten
 - Rezeptur ohne Mikroplastik
 - Milde Reinigung
+- Mit natürlichen ätherischen Ölen aus Cabreuva, Rosmarin & Pinus-Arten
 - Entspannung der Muskeln Dank wertvollem Extrakt der Arnika
 - Sanfte Pflege
 

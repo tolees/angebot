@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Fleece-Material für ein weiches Tragegefühl
 - Rippmaterial an Bündchen und Saum
+- Fleece-Material für ein weiches Tragegefühl
 - Standardpassform
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Eines der kultigsten Logos überhaupt
-- Superweicher Jersey
 - Sieht einfach perfekt aus
+- Superweicher Jersey
+- Eines der kultigsten Logos überhaupt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B071VLQG6M{{</world>}}

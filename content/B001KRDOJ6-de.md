@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kabelgebundene Kompakttastatur mit Nummernblock: Jederzeit einsatzbereit dank dem 175 cm langen Kabel mit USB-Anschluss (PS/2-Adapter wird mitgeliefert)
-- Konzipiert für den Dauereinsatz: Einzeltasten mit Gold Crosspoint Kontakten (CHERRY MX-Technologie) sorgen für eine dauerhaft sichere Schaltleistung
+- Hochwertige mechanische CHERRY MX BLACK Switches: Kraftvolles und direktes Tippgefühl mit linearer Schaltcharakteristik (ohne Klick) und mehr als 100 Mio. Betätigungen je Taste
 - Platzsparendes Design: Mit seinen kompakten Abmessungen von ca. 405 x 180 x 44 mm ist das Keyboard ideal für beengte Platzverhältnisse und 19" Anwendungen
 - Codeset 3 Unterstützung: Mit dem im Lieferumfang enthaltenen PS/2 Adapter kann das kompakte Keyboard beispielsweise auch für Unix-Rechner eingesetzt werden
-- Hochwertige mechanische CHERRY MX BLACK Switches: Kraftvolles und direktes Tippgefühl mit linearer Schaltcharakteristik (ohne Klick) und mehr als 100 Mio. Betätigungen je Taste
+- Konzipiert für den Dauereinsatz: Einzeltasten mit Gold Crosspoint Kontakten (CHERRY MX-Technologie) sorgen für eine dauerhaft sichere Schaltleistung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B001KRDOJ6{{</world>}}

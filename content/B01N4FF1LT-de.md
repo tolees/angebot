@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gewicht: 0.41 kg
 - Pouring Adventure
 - Diese Jacke von Columbia ist als eine ultimative Versicherung gegen einen plötzlichen Regenguss unschlagbar, wenn Sie wandern oder Outdoor-Sport oder andere Aktivitäten genießen
+- Gewicht: 0.41 kg
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01N4FF1LT{{</world>}}

@@ -29,11 +29,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Verbessertes ActiveTrack 6.0 - Verfolgen Sie Ihr Motiv aus größerer Entfernung und halten Sie es im Bild, auch wenn es sich dreht; verfolgen Sie Motive, wenn sie rennen, um ein Tor zu schießen, oder sich beim Tanzen herumdrehen
-- Handlich, faltbar und schnell - Nehmen Sie diesen kompakten Gimbal mit auf all Ihre Abenteuer; verbinden Sie ihn einfach und schnell mit der Handyklemme, um Ihre schönsten Momente festzuhalten
-- Neues Statusfeld - überprüfen Sie schnell und bequem den Akkustatus, den Systemstatus und den Gimbal-Modus; bei dynamischen Aufnahmen können Sie mit der Umschalttaste zwischen den Modi Tracking, Tilt Lock, FPV und SpinShot wechseln
 - Quer- und Hochformat - Sie können ganz einfach von Filmaufnahmen zu leichten und lockeren Social-Media-Videos und zwischen horizontalen und vertikalen Aufnahmen wechseln
-- Aufnahmen - Verbesser jede Aufnahmen mit 3-Achsen-Stabilisierung; Mit einem Steuerungsalgorithmus der nächsten Generation kompensiert der Osmo Mobile SE in Echtzeit für butterweiches Filmmaterial
+- Neues Statusfeld - überprüfen Sie schnell und bequem den Akkustatus, den Systemstatus und den Gimbal-Modus; bei dynamischen Aufnahmen können Sie mit der Umschalttaste zwischen den Modi Tracking, Tilt Lock, FPV und SpinShot wechseln
 - Einfache Bearbeitung - Ob mit den ShotGuides von DJI Mimo oder den zahlreichen Vorlagen in LightCut, Sie können ganz einfach inspirierende Videos erstellen
+- Handlich, faltbar und schnell - Nehmen Sie diesen kompakten Gimbal mit auf all Ihre Abenteuer; verbinden Sie ihn einfach und schnell mit der Handyklemme, um Ihre schönsten Momente festzuhalten
+- Aufnahmen - Verbesser jede Aufnahmen mit 3-Achsen-Stabilisierung; Mit einem Steuerungsalgorithmus der nächsten Generation kompensiert der Osmo Mobile SE in Echtzeit für butterweiches Filmmaterial
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0B7XCG225{{</world>}}

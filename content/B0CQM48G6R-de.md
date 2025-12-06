@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Kopf, Arme und Beine sind beweglich
-- Figur ca. 4 cm groß
 - inkl. Klavier, Tisch, der sich in eine Rutsche verwandelt, Tafel, die sich in ein Bettchen und eine Schaukel verwandelt, 2 Stühle und 2 Töpfchen
+- Figur ca. 4 cm groß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CQM48G6R{{</world>}}

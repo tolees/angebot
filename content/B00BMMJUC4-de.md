@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sohle: Synthetik
 - Innenmaterial: Leder
+- Sohle: Synthetik
 - Obermaterial: Smooth Leder
 - Verschluss: Schnürsenkel
 

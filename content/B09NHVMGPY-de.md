@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial: Synthetik
-- Absatzform: Kein Absatz
 - Verschluss: Gummi
+- Absatzform: Kein Absatz
 - Innenmaterial: Textil
 
 [🛒 Hier!!]({{< param buyurl >}})
