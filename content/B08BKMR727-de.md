@@ -28,15 +28,15 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- model: 15211562
-- Stoff typ: 92% Polyester- Polyurethan Felled, 8% Elasthan - Polyurethan Felled,
 - jeans
-- plus size
-- Passform: Regular
+- Beinstil: Skinny
+- Stoff typ: 92% Polyester- Polyurethan Felled, 8% Elasthan - Polyurethan Felled,
 - closure: keine angabe
 - jeans
+- Passform: Regular
+- model: 15211562
+- plus size
 - care instructions: keine anabe
-- Beinstil: Skinny
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08BKMR727{{</world>}}

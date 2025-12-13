@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Gebürstete Oberfläche für ein weicheres Gefühl
-- Bralette mit V-Ausschnitt und herausnehmbaren, atmungsaktiven Pads
 - Mittlerer Halt
+- Bralette mit V-Ausschnitt und herausnehmbaren, atmungsaktiven Pads
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0C4VNGNVF{{</world>}}

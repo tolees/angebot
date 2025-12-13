@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- This Pi 4B case contains a super quite 40mm PWM fan and 4pcs heatsinks for good heat dissipation of Raspberry Pi 4B.
 - With the included 128GB Class 10 MicroSD card and card reader, youll have plenty of room for your projects. The 4K HDMI cable is of high quality will ensure you have a great connection to your monitor or TV,and provides a clear, stable picture.
 - Power supply with Professional Certification: TUV, RoHS and CE Certification; Input: 100-240V AC~50/60Hz; Output: 5V 3.6A; Extended Cord:120cm
-- Includes Raspberry Pi 4 Model B 8GB with 1.5GHz 64-bit quad-core CPU (8GB RAM),For 4GB version, please refer to ASIN: B0BJ278V6W
+- This Pi 4B case contains a super quite 40mm PWM fan and 4pcs heatsinks for good heat dissipation of Raspberry Pi 4B.
 - 18W 5V 3.6A Type C Power Supply will make your Pi work more stable. It features multiple protection functions such as over voltage, under voltage, over temperature, over current, and short circuit protection.and With ON/OFF switch, its convenient for you to power on and power off your Raspberry Pi 4.
+- Includes Raspberry Pi 4 Model B 8GB with 1.5GHz 64-bit quad-core CPU (8GB RAM),For 4GB version, please refer to ASIN: B0BJ278V6W
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09FJH1C7Z{{</world>}}

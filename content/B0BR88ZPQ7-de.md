@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Jede 12 cm große Kapsel enthält eine 6,5 cm große Disney-Figur, mit 2 Zubehörteilen, 3 Kartondekorationen, 2 kleinen Indexkarten und einem Sammelposter.
-- Überraschung beim Öffnen Eine originelle Geschenkidee, die den Fans des Disney-Universums plötzlich gefallen wird.
-- Zum 100. Geburtstag von Disney entdecken Sie magische Kapseln, die ihre ikonischsten Charaktere enthalten
 - Diese 12 Sammelfiguren werden von einem einzigartigen Unboxing-Erlebnis und einem kleinen Diorama begleitet, das die Kultdekorationen der berühmtesten Filme aufnimmt.
+- Zum 100. Geburtstag von Disney entdecken Sie magische Kapseln, die ihre ikonischsten Charaktere enthalten
+- Überraschung beim Öffnen Eine originelle Geschenkidee, die den Fans des Disney-Universums plötzlich gefallen wird.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0BR88ZPQ7{{</world>}}

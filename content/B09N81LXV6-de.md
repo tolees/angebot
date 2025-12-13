@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Baut auf dem hochgelobten Gameplay der UNCHARTED-Reihe auf und begeistert mit erneuerten Systemen und Verfeinerungen, darunter filmreife Kämpfe, Erkundungen und Reisen durch umwerfende Umgebungen, komplexe Rätsel und vieles mehr
 - Ein neues Setting für die Abenteuer an der Südwestküste Indiens mit einem exotischen Mix aus urbanen Umgebungen, Dschungel und uralten Ruinen
 - Fließende Kämpfe und Fortbewegung mithilfe des Enterhakens sorgen für noch dynamischere und packendere Action-Situationen
 - Eine persönlichere Geschichte für Nathan Drake, bei der das preisgekrönte Storytelling von Naughty Dog noch eine Schippe drauflegt
 - Ein weltumspannendes Abenteuer mit den größten und detailliertesten Umgebungen der UNCHARTED-Reihe
-- Baut auf dem hochgelobten Gameplay der UNCHARTED-Reihe auf und begeistert mit erneuerten Systemen und Verfeinerungen, darunter filmreife Kämpfe, Erkundungen und Reisen durch umwerfende Umgebungen, komplexe Rätsel und vieles mehr
 - Die actionreichen Momente und die fesselnde Erzählung, für die Naughty Dog und die gesamte UNCHARTED-Reihe bereits bekannt sind
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

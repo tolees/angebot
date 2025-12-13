@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Logostickerei: Verleiht dem Shirt einen individuellen und modischen Touch
 - Normaler Schnitt: Sorgt für eine bequeme Passform und Bewegungsfreiheit
+- Logostickerei: Verleiht dem Shirt einen individuellen und modischen Touch
 - 100 Prozent Baumwolle: Hautsympathisch und atmungsaktiv für optimalen Tragekomfort
 - Polokragen: Modischer Kragen, der umgeklappt auch Schutz bietet
 

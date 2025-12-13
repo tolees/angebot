@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bei diesem Produkt handelt es sich um eine Blu-ray Disc
-- Die rundenbasierten Zombies kehren zurück mit zwei brandneuen Karten um Horden von Untoten zu besiegen
-- Die Kampagne bietet ein dynamisches abwechslungsreiches Gameplay, das eine Vielzahl von Spielbereichen voller Blockbuster-Qualität und Action bietet
 - Bietet noch aufregendere Karten und bahnbrechende Erlebnisse sowohl im Mehrspieler- als auch im Zombies-Modus
 - Im Mehrspieler-Modus kann man seine Fähigkeiten 16 neuen Karten testen, darunter 12 Standard-6v6-Karten und 4 Einsatz-Karten für 2v2 oder 6v6
+- Die Kampagne bietet ein dynamisches abwechslungsreiches Gameplay, das eine Vielzahl von Spielbereichen voller Blockbuster-Qualität und Action bietet
+- Bei diesem Produkt handelt es sich um eine Blu-ray Disc
+- Die rundenbasierten Zombies kehren zurück mit zwei brandneuen Karten um Horden von Untoten zu besiegen
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0D6N6MYLT{{</world>}}

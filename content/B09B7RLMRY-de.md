@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Klare, verzerrungsfreie Sicht durch dezentrierte Scheiben
-- 100% UV-A, -B, -C-Schutz
-- Die bruchfeste Ceramic-Scheibe bietet einen optimalen Schutz vor UV-Strahlung
 - Verspiegelte Scheiben reflektieren zuverlässig schädliche Infrarot-Strahlen
+- 100% UV-A, -B, -C-Schutz
+- Klare, verzerrungsfreie Sicht durch dezentrierte Scheiben
+- Die bruchfeste Ceramic-Scheibe bietet einen optimalen Schutz vor UV-Strahlung
 - Ideale Passform für Kinder
 
 [🛒 Hier!!]({{< param buyurl >}})

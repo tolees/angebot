@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Materialzusammensetzung: 75% Viskose, 20% Polyester, 5% Elasthan
 - Top
 - Normal geschnitten
-- Materialzusammensetzung: 75% Viskose, 20% Polyester, 5% Elasthan
 - Kurzarm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Schreibfarbe: blau
-- Bildprojektor-Stift
 - Ermöglicht das Projizieren von voreingestellten Designs auf eine Oberfläche
 - Batterien: 3 x AG13
+- Bildprojektor-Stift
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CB1N69Y9{{</world>}}

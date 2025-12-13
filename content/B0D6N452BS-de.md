@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Smarte Steckdose erfordert kein Hub - WiFi Stecker mit WLAN Router verbinden und angeschlossene Geräte per kostenloser App oder Sprachsteuerung mit Amazon Alexa oder Google Assistant bequem steuern
-- WLAN Steckdose mit praktischer Zeitschaltuhr mit Tages- und Wochenprogramm - Schalten Sie elektronische Geräte automatisch ein und aus und verringern Sie außerdem unnötige Standby-Stromkosten angeschlossener Geräte
-- Die Steckdose ist Matter kompatibel – Matter Geräte verschiedener Hersteller können über diesen Standard in einer App miteinander kommunizieren und verknüpft werden - Installation mit der kostenlosen Brennenstuhl Connect App im 2,4 GHz-Band des Routers
 - Die intelligente Steckdose bietet zusätzlich die Option zur manuellen Schaltung - darüber hinaus ermöglicht die App die Steuerung beliebig vieler WiFi-Steckdosen, ohne dass ein Gateway oder Hub erforderlich ist
+- WLAN Steckdose mit praktischer Zeitschaltuhr mit Tages- und Wochenprogramm - Schalten Sie elektronische Geräte automatisch ein und aus und verringern Sie außerdem unnötige Standby-Stromkosten angeschlossener Geräte
+- Smarte Steckdose erfordert kein Hub - WiFi Stecker mit WLAN Router verbinden und angeschlossene Geräte per kostenloser App oder Sprachsteuerung mit Amazon Alexa oder Google Assistant bequem steuern
+- Die Steckdose ist Matter kompatibel – Matter Geräte verschiedener Hersteller können über diesen Standard in einer App miteinander kommunizieren und verknüpft werden - Installation mit der kostenlosen Brennenstuhl Connect App im 2,4 GHz-Band des Routers
 - Smart Plug für den Innenbereich bspw. zur Steuerung von Unterhaltungselektronik (max. 3680W) per Sprache oder kostenloser App - bei Internetzugang zu jeder Uhrzeit und von überall steuern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

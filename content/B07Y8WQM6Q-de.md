@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Available in 6 shades
-- Feuchtigkeitsspendend
-- 30ml
-- Anzahl der einheiten: 1.0
-- Einheitenanzahltyp: stück
 - All day coverage
+- Einheitenanzahltyp: stück
+- 30ml
+- Available in 6 shades
+- Anzahl der einheiten: 1.0
+- Feuchtigkeitsspendend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07Y8WQM6Q{{</world>}}

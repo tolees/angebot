@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: UniversalChain 18, Karton (3165140925648)
-- POWER FOR ALL ALLIANCE: 1 AKKU, ​10+ MARKEN, ​150+ GERÄTE.​
 - Die Universal Werkzeuge von Bosch – flexibel und leistungsstark mit intelligenten Lösungen für vielfältige Projekte
+- POWER FOR ALL ALLIANCE: 1 AKKU, ​10+ MARKEN, ​150+ GERÄTE.​
 - Die kompakte Akku Kettensäge UniversalChain 18 lässt sich dank geringerem Gewicht angenehm handhaben
 - Leichteres Sägen durch neuen Anschlaghaken für saubere und einfache Unterschnitte
+- Lieferumfang: UniversalChain 18, Karton (3165140925648)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B077TFT1P4{{</world>}}

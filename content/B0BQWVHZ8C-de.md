@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Seitenschlitze am Saum
 - AEROREADY
 - 100 % recycelter Polyester (Doppelstrick)
+- Seitenschlitze am Saum
 - Reißverschlusstaschen
 - Elastischer Bund mit Kordelzug
 - Regulär geschnitten

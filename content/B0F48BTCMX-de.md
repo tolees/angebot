@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Tinte mit sehr hohe Deckkraft
-- mit 55% recycelten Materialien hergestellt (bezogen auf das Gesamtgewicht ohne Verbrauchsmaterialien)
 - auch für Fotos und andere glatte Papiere geeignet
-- 1.0 mm Kugeldurchmesser = 0.5 mm Strichstärke
 - große Strahlkraft auch auf farbigen und dunklen Papieren
+- mit 55% recycelten Materialien hergestellt (bezogen auf das Gesamtgewicht ohne Verbrauchsmaterialien)
+- 1.0 mm Kugeldurchmesser = 0.5 mm Strichstärke
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F48BTCMX{{</world>}}

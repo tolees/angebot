@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Helligkeit/Kontrast: 300 cd/m² 1.000:1, Anschlüsse: 2x HDMI 2.0, 1x DisplayPort 1.4, 2x 2 Watt Lautsprecher
-- Blitz-schnelle Aktualisierungsrate von 180 Hertz und 1ms (GtG) Reaktionszeit sorgen für ein flüssiges Spiele-Erlebnis mit geringem Input Lag
 - Flicker Free- und Low Blue Mode-Technologie sorgen für eine Reduzierung der Augenermüdung und gleichzeitige Erhöhung des Sehkomforts
 - Wechsele zwischen den integrierten Voreinstellungen für FPS-, Renn- oder RTS-Spielen oder lege Deine eigenen idealen Bedingungen fest und speichere diese ab
-- blickwinkelstabiles IPS Panel, mattes Display, Headphone out, kompatibel mit VESA Halterung 100x100, Standfuss abnehmbar
+- Helligkeit/Kontrast: 300 cd/m² 1.000:1, Anschlüsse: 2x HDMI 2.0, 1x DisplayPort 1.4, 2x 2 Watt Lautsprecher
+- Blitz-schnelle Aktualisierungsrate von 180 Hertz und 1ms (GtG) Reaktionszeit sorgen für ein flüssiges Spiele-Erlebnis mit geringem Input Lag
 - Lieferumfang: AOC Gaming 24G4XED 60,5 cm (24 Zoll) PC-Bildschirm, Stromkabel, HDMI/Displayport/Audio Treiber-CD, Garantiekarte
+- blickwinkelstabiles IPS Panel, mattes Display, Headphone out, kompatibel mit VESA Halterung 100x100, Standfuss abnehmbar
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CZ77KYCH{{</world>}}

@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Selbstreparierende schlauchlose 10" Luftreifen mit dem neuen selbstdichtendem Xiaomi DuraGel für sorgenlose Fahrten ohne Reifenpannen
 - E-Scooter mit Straßenzulassung (ABE) zur Nutzung auf öffentlichen Straßen (Datenbestätigung im Lieferumfang beiliegend mit Angabe der Fahrzeugidentifikationsnr. (FIN) + auf der Unterseite des Scooters zu finden)
-- 20 km/h und bis zu 70km Reichweite getestet unter folgenden Bedingungen: Batterie vollständig geladen, Beladung mit 75kg, konstante Geschwindigkeit von 60 Prozent der Maximalgeschwindigkeit ohne Steigung bis zum Stillstand, 124 Watt Fast Charge in 6,5h
 - Ultra hohe Motorleistung (500 Watt Nenndauerleistung) ermöglicht Befahren von Steigungen mit bis zu 25 Prozent sowie schnelle Beschleunigung im S+ Modus
+- Selbstreparierende schlauchlose 10" Luftreifen mit dem neuen selbstdichtendem Xiaomi DuraGel für sorgenlose Fahrten ohne Reifenpannen
+- 20 km/h und bis zu 70km Reichweite getestet unter folgenden Bedingungen: Batterie vollständig geladen, Beladung mit 75kg, konstante Geschwindigkeit von 60 Prozent der Maximalgeschwindigkeit ohne Steigung bis zum Stillstand, 124 Watt Fast Charge in 6,5h
 - Dual-Federungssystem (Hinter- und Vorderrad) verbessert das Fahrgefühl und passt sich an verschiedene Straßenverhältnisse an
 
 [🛒 Hier!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - 3er-Pack
-- Rippbündchen
-- 59 % Baumwolle / 38 % recycelter Polyester / 2 % Elastan / 1 % recyceltes Nylon
 - Fußgewölbeunterstützung
+- 59 % Baumwolle / 38 % recycelter Polyester / 2 % Elastan / 1 % recyceltes Nylon
+- Rippbündchen
 - Halbhoch geschnitten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

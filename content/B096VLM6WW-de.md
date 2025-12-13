@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Masque Blondifier LOréal Professionnel 250M
 - Täglicher Gebrauch
+- Masque Blondifier LOréal Professionnel 250M
 - Einfache Bedienung
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

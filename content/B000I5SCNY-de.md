@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lieferumfang: 12 Stifte
-- in 12 Farben erhältlich
-- beliebt bei Grafikern und Künstlern für Skizzen, Zeichnungen, Illustrationen und vielem mehr
 - metallgefasste, formstabile Schreibspitze für Strichstärken von 0, 8 - 2, 0mm
 - Pentel Sign Pen Faserschreiber: der Profi unter den Faserschreibern
+- in 12 Farben erhältlich
+- Lieferumfang: 12 Stifte
+- beliebt bei Grafikern und Künstlern für Skizzen, Zeichnungen, Illustrationen und vielem mehr
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B000I5SCNY{{</world>}}

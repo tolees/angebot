@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Breathable
 - Mit bequemem niedrigem Absatz
 - Leicht anzuziehende Schuhe
+- Breathable
 - Gummizug am Oberschuh für einfaches, schnelles Anziehen
 
 [🛒 Hier!!]({{< param buyurl >}})

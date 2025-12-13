@@ -28,14 +28,14 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Obermaterial aus Mesh
 - Textilfutter
-- 1 Nummer größer kaufen
-- Gewicht: 304 g (Größe 42 2/3)
-- Cloudfoam Zwischensohle
-- OrthoLite Einlegesohle
 - Sprengung: 10 mm (Rückfußhöhe 33 mm / Vorfußhöhe 23 mm)
+- 1 Nummer größer kaufen
 - Adiwear Außensohle
+- Obermaterial aus Mesh
+- OrthoLite Einlegesohle
+- Cloudfoam Zwischensohle
+- Gewicht: 304 g (Größe 42 2/3)
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CKS191RC{{</world>}}

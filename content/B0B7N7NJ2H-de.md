@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【Längere Flugzeit】Mit 2 wiederaufladbaren Akkus für bis zu 30 Minuten Flugspaß (13–15 Min. pro Akku). Mehr Zeit für Aufnahmen und Training. (SD-Karte nicht unterstützt)
-- 【Einfache Einstiegsdrohne】Leichte T6 Drohne (120 g), ideal für Anfänger und Jugendliche ab 14 Jahren. Schnell einsatzbereit – ein perfektes Geschenk zu Geburtstag oder Weihnachten.
 - 【Vielseitiger Flugspaß】Headless-Modus, 3 Geschwindigkeitsstufen, 360°-Flips, Ein-Knopf-Rückkehr und coole LED-Lichter im Perlweiß-Design – für spannende Flüge bei Tag und Nacht.
-- 【Stabil & Benutzerfreundlich】Feste Bauweise für bessere Flugstabilität. Funktionen wie Höhenhaltung, Start/Landung mit nur einer Taste und einfache Steuerung machen den Einstieg kinderleicht.
+- 【Längere Flugzeit】Mit 2 wiederaufladbaren Akkus für bis zu 30 Minuten Flugspaß (13–15 Min. pro Akku). Mehr Zeit für Aufnahmen und Training. (SD-Karte nicht unterstützt)
 - 【1080P HD Kamera mit FPV】90° verstellbare Kamera, klare 1080P-Auflösung und 2.4G-Echtzeit-Übertragung direkt aufs Smartphone. Stabile Schwebe-Funktion für scharfe Bilder und Videos.
+- 【Stabil & Benutzerfreundlich】Feste Bauweise für bessere Flugstabilität. Funktionen wie Höhenhaltung, Start/Landung mit nur einer Taste und einfache Steuerung machen den Einstieg kinderleicht.
+- 【Einfache Einstiegsdrohne】Leichte T6 Drohne (120 g), ideal für Anfänger und Jugendliche ab 14 Jahren. Schnell einsatzbereit – ein perfektes Geschenk zu Geburtstag oder Weihnachten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B7N7NJ2H{{</world>}}

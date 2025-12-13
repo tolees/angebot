@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 900 Grad Force Feedback Rennsimulator-Basis der nächsten Generation für Xbox One und PC (enthält kein Lenkrad oder Pedalset). Rotationswinkel bis zu 900 Grad anpassbar.
-- Kompatibel mit dem Eco-Produktsystem von Thrustmaster (Lenkräder, Pedalsets und Gangschaltungen sind separat erhältlich).
-- Extrem glattes und nahtloses Force Feedback; hochansprechende und realistische Force-Effekte ohne Verzögerung. Neuer reibungsfreier und optimierter Doppelgut-Mechanismus.
-- Interner Speicher und aufrüstbare Firmware (via PC-Kompatibilität), Xbox Guide Button.
 - Funktioniert mit Xbox Series X
+- 900 Grad Force Feedback Rennsimulator-Basis der nächsten Generation für Xbox One und PC (enthält kein Lenkrad oder Pedalset). Rotationswinkel bis zu 900 Grad anpassbar.
+- Interner Speicher und aufrüstbare Firmware (via PC-Kompatibilität), Xbox Guide Button.
+- Extrem glattes und nahtloses Force Feedback; hochansprechende und realistische Force-Effekte ohne Verzögerung. Neuer reibungsfreier und optimierter Doppelgut-Mechanismus.
+- Kompatibel mit dem Eco-Produktsystem von Thrustmaster (Lenkräder, Pedalsets und Gangschaltungen sind separat erhältlich).
 - Mit zentralem Befestigungssystem aus Metall. Kompatibel mit allen Schreibtischen und Tischen. Zusätzliche Schraubgewinde für den Einbau in alle Cockpits.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

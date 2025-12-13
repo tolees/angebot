@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Tiefenreinigung & Feuchtigkeit: Entfernt effektiv Unreinheiten, überschüssiges Öl und Make-up, während die Haut intensiv hydratisiert wird.
 - Sichtbare Ergebnisse: Bereits nach 2 Wochen erscheint das Hautbild geschmeidiger, hydratisierter und strahlender, die Haut fühlt sich beruhigt an.
 - Hautbarriere-Schutz: Angereichert mit Niacinamiden, Ceramid und Tonerde zum Schutz und zur Stärkung der natürlichen Hautbarriere.
 - Für alle Hauttypen: Die sanfte, pH-hautneutrale und duftstofffreie Formel ist ideal für alle Hauttypen, auch für empfindliche Haut.
-- Tiefenreinigung & Feuchtigkeit: Entfernt effektiv Unreinheiten, überschüssiges Öl und Make-up, während die Haut intensiv hydratisiert wird.
 - Porenverfeinerung: Salicylsäure und die spezielle Formel mildern sichtbar vergrößerte Poren und Hautunregelmäßigkeiten.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

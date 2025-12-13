@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Die EarPods mit Lightning Connector haben eine integrierte Fernbedienung, mit der du per Knopfdruck die Lautstärke anpassen, die Wiedergabe von Musik und Videos steuern und Anrufe annehmen oder beenden kannst.
-- Anders als bei herkömmlichen runden Ohrhörern beruht das Design der EarPods auf der Geometrie des Ohrs. Deshalb passen sie mehr Menschen als jeder andere Ohrhörer.
 - Wiedergabe von Musik und Videos steuern
+- Anders als bei herkömmlichen runden Ohrhörern beruht das Design der EarPods auf der Geometrie des Ohrs. Deshalb passen sie mehr Menschen als jeder andere Ohrhörer.
 - Die Lautsprecher in den EarPods sind so konstruiert, dass sie Klangverluste minimieren und die Klangausgabe maximieren – so bekommst du hochwertigen Sound.
 - Besserer Schutz vor Schweiß und Wasser
 

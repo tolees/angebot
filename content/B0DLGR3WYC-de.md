@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Leistungsstarker Dimensity 7300-Ultra, 4nm Prozessor und 5G-fähig
-- Corning Gorilla Glass Cover, GGV2-Glasabdeckung
-- 50MP Hauptkamera mit OIS, Sony IMX882 Sensor, AI Bildvergrößerung, AI Erase Pro, AI Film, AI Beautify
 - CrystalRes 1,5K AMOLED Curved Display, POCOs erstes 3D-gebogenes Display, sanft abgerundete Übergänge an allen vier Ecken und acht Kanten, die sowohl das horizontale als auch das vertikale Grifferlebnis verbessern
 - IP68 Staub- und Wasserbeständigkeit, Widerstand auf Flaggschiff-Niveau für starken Schutz
+- 50MP Hauptkamera mit OIS, Sony IMX882 Sensor, AI Bildvergrößerung, AI Erase Pro, AI Film, AI Beautify
+- Corning Gorilla Glass Cover, GGV2-Glasabdeckung
+- Leistungsstarker Dimensity 7300-Ultra, 4nm Prozessor und 5G-fähig
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DLGR3WYC{{</world>}}

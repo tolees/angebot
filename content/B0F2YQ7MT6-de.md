@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Rundhalsausschnitt| Langärmlig
-- Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
 - Passform: Regular Fit - gerader Schnitt | Brustweite bei Größe M ca. 54 cm | Rückenlänge bei Größe M ca. 72 cm | Unser Model ist 189 cm groß und trägt Größe L
-- Longsleeve mit Print auf der Brust.
+- Aus einem weichen Single-Jersey-Stoff aus Baumwolle.
 - Waschhinweis: 40°C Buntwäsche | Nicht auf Verzierung bügeln | Bügeln bei mäßiger Temperatur | Nicht chemisch reinigen | Nicht bleichen | Nicht im Trockner trocknen | Von links waschen und bügeln | Mit ähnlichen Farben waschen | Nass in Form ziehen
+- Longsleeve mit Print auf der Brust.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0F2YQ7MT6{{</world>}}

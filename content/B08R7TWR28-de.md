@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Flexibility
-- Cushioning and moisture manage
 - Lightweight
+- Cushioning and moisture manage
+- Flexibility
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08R7TWR28{{</world>}}

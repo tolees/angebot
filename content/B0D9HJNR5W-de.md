@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Geschwindigkeiten bis zu 1050MB/s¹ mit USB 3.2 Gen 2
+- Kompakter Formfaktor im Taschenformat
 - Gummihüllen sind nicht im Lieferumfang enthalten und werden separat verkauft
 - Erhöhter Speicherplatz bis zu 2TB²
-- Kompakter Formfaktor im Taschenformat
-- Geschwindigkeiten bis zu 1050MB/s¹ mit USB 3.2 Gen 2
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D9HJNR5W{{</world>}}

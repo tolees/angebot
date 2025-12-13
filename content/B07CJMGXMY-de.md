@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Spitz zulaufende Bürste für präzise Anwendung, Müheloses Erreichen auch der kleinsten Wimpern in den Augenwinkeln, Für den besten Effekt von den Wurzeln bis zur Spitze im Zickzack auftragen
-- Hochpigmentierte Farbe und aufbauendes Volumen, Einfache Anwendung
-- Lieferumfang: 1 NYX Professional Makeup Worth the Hype Mascara, Farbton: Schwarz, 7 ml
-- Jojobaöl für gesunde weiche Wimpern, Angenehmer und langanhaltender Halt
 - Leicht aufzutragende Mascara für voluminösere, dunklere und länger wirkende Wimpern, Zur täglichen Anwendung
+- Jojobaöl für gesunde weiche Wimpern, Angenehmer und langanhaltender Halt
+- Hochpigmentierte Farbe und aufbauendes Volumen, Einfache Anwendung
+- Spitz zulaufende Bürste für präzise Anwendung, Müheloses Erreichen auch der kleinsten Wimpern in den Augenwinkeln, Für den besten Effekt von den Wurzeln bis zur Spitze im Zickzack auftragen
+- Lieferumfang: 1 NYX Professional Makeup Worth the Hype Mascara, Farbton: Schwarz, 7 ml
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07CJMGXMY{{</world>}}

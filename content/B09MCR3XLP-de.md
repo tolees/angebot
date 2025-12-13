@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Spielart: Stadt, Land, Fluss-Block
 - Altersgruppe: Für Kinder
 - Stil: Zeitgenössisch, gelb
+- Inhalt: Block, Stift & Kategorieliste
 - Thema: Harry Potter-Welt
 - Sprache: Deutsch
-- Inhalt: Block, Stift & Kategorieliste
-- Spielart: Stadt, Land, Fluss-Block
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09MCR3XLP{{</world>}}

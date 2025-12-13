@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- BREITE FARBGAMUT - Der G2422C unterstützt bis zu 16,7 Millionen Farben bei 108 % sRGB für noch realistischere Bilder und Details; er verfügt außerdem über Less Blue Light PRO-Hardwarefilter für überragende Farbtreue und nutzt die Anti-Flicker-Technologie
 - IMMERSIVES & RAHMENLOSES GAMING - MSI Curved Monitore bieten ein intensiveres Spielerlebnis mit einer 1500R-Krümmung (1500mm Radius) und einem "rahmenlosen" Design, das Rahmenlinien zwischen den Bildschirmen reduziert
-- 23,6" FHD, 180HZ RAPID BOOST - Ein hochauflösendes VA-Panel mit 1920 x 1080 Pixeln (Seitenverhältnis 16:9) bietet eine hohe Bildwiederholfrequenz von 180 Hz (Adaptive Sync) und eine Reaktionszeit von 1ms für reibungslose Ziel- und Bewegungsverfolgung
 - HDMI-CEC-ANSCHLÜSSE - PC-, Mac-, Konsolen- und Laptop-Schnittstellenoptionen umfassen DisplayPort 1.2a (FHD/180Hz) und HDMI 2.0b CEC-Anschlüsse (FHD/180Hz); vorhanden ist ein 5-Wege-Joystick-Navigator und ein neigungsverstellbarer Standfuß
 - DYNAMISCHER KONTRAST & NIGHT VISION - Das VA-Panel verfügt über einen ausgezeichneten nativen Kontrast von 1:3000 und unterstützt dynamischen Kontrast (1:100M); MSI Night Vision kann wichtige Details in den dunkelsten Spielumgebungen verbessern
+- 23,6" FHD, 180HZ RAPID BOOST - Ein hochauflösendes VA-Panel mit 1920 x 1080 Pixeln (Seitenverhältnis 16:9) bietet eine hohe Bildwiederholfrequenz von 180 Hz (Adaptive Sync) und eine Reaktionszeit von 1ms für reibungslose Ziel- und Bewegungsverfolgung
+- BREITE FARBGAMUT - Der G2422C unterstützt bis zu 16,7 Millionen Farben bei 108 % sRGB für noch realistischere Bilder und Details; er verfügt außerdem über Less Blue Light PRO-Hardwarefilter für überragende Farbtreue und nutzt die Anti-Flicker-Technologie
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CGQ4LXBV{{</world>}}

@@ -30,9 +30,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Würfle und bereise so die Welt, sammle Punkte durch besuchte Städte und entdecke jede Menge Wissenswertes!
 - Wer als Erster alle Reiseziele besucht und am meisten Punkte gesammelt hat, ist der Sieger
-- Für 2 – 6 Spieler ab 8 Jahren, Spieldauer: 30 – 45 Minuten
-- Enthält 1 Spielplan, 173 Städtekarten mit Fotos und Informationstexten, 18 Aktionskarten, 18 Flugtickets, 6 Spielfiguren, 15 Markierungsfähnchen, 1 Würfel, 1 Anleitung (D)
 - In diesem klassischen Würfellaufspiel für die ganze Familie wird die Welt bereist und jede Menge Wissenswertes entdeckt!
+- Enthält 1 Spielplan, 173 Städtekarten mit Fotos und Informationstexten, 18 Aktionskarten, 18 Flugtickets, 6 Spielfiguren, 15 Markierungsfähnchen, 1 Würfel, 1 Anleitung (D)
+- Für 2 – 6 Spieler ab 8 Jahren, Spieldauer: 30 – 45 Minuten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B087SDMLQ4{{</world>}}

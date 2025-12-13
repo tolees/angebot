@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Anwendung: Le Shadow Stick auf das Augenlid auftragen, am inneren Augenwinkel beginnen und nach außen arbeiten, Je nach gewünschter Farbintensität mehr oder weniger Produkt verwenden, Mit den Fingerspitzen oder weichem Lidschattenpinsel verblenden
-- Ergebnis: Augen-Make-up mit sinnlicher Farbintensität und strahlend glänzendem Finish
-- Handlicher, langanhaltender Lidschatten im praktischen Stiftformat
 - Angenehme gelartige Formulierung für ein einfaches Auftragen und Verblenden
 - Lieferumfang: 1x LOréal Paris Le Shadow Stick by Paradise Lidschatten, Farbe: Nr. 150 Captivating Sepia, 1,4 g
+- Anwendung: Le Shadow Stick auf das Augenlid auftragen, am inneren Augenwinkel beginnen und nach außen arbeiten, Je nach gewünschter Farbintensität mehr oder weniger Produkt verwenden, Mit den Fingerspitzen oder weichem Lidschattenpinsel verblenden
+- Handlicher, langanhaltender Lidschatten im praktischen Stiftformat
+- Ergebnis: Augen-Make-up mit sinnlicher Farbintensität und strahlend glänzendem Finish
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DHW7LMKC{{</world>}}

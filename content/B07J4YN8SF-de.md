@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Hohe Übertragungsraten bis zu 433 Mbit/s
 - Aktiver Schutz dank WPA / WPA2 Verschlüsselung
-- Einfache Verwendung dank Plug & Play
-- Kompatibel mit Yealink SIP-T27G / T41S
 - Dualband Konnektivität
+- Kompatibel mit Yealink SIP-T27G / T41S
+- Einfache Verwendung dank Plug & Play
+- Hohe Übertragungsraten bis zu 433 Mbit/s
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07J4YN8SF{{</world>}}

@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Weiche Baumwollqualität
 - Aus angenehmer Baumwolle
+- Weiche Baumwollqualität
 - Stretchanteil für mehr Komfort
 - Strickpullover mit rundem Halsausschnitt
 - Standard

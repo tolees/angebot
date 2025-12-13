@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Größen- und Füllmengengarantie: Passt das Kissen mal nicht, tauschen wir es kostenlos um oder nehmen es zurück. Neben 40x80 bieten wir dazu 35 weitere Größen. Bei Bedarf senden wir Dir kostenlos weiteres Füllmaterial – ein Hinweis an unser Service-Team genügt
-- Qualitätsversprechen: Made in EU, zertifiziert nach Öko-Tex 100. Hochwertiger Reißverschluss für variables Hinzufügen oder Entnehmen von Füllwatte – passe die Füllmenge flexibel an, ob hoch oder flach, weich oder fest, ganz nach Deinem Schlafkomfort
+- Bezug: 100% Polyester (Mikrofaser) - ultrasoftes, allergikerfreundliches Material. Hochwertige und anschmiegsame Steppung in Wellenoptik
 - Pflege: Das Polster ist bis 60 Grad waschbar und trocknergeeignet. Nach dem Waschen das Bettkissen gut durchtrocknen und anschließend kurz kräftig aufschlagen
 - Kissenfüllung: 100% Polyester (HCS Faserkugeln) nach Öko-Tex Standard 100 (420 gr. Füllmaterial je Kopfkissen)
-- Bezug: 100% Polyester (Mikrofaser) - ultrasoftes, allergikerfreundliches Material. Hochwertige und anschmiegsame Steppung in Wellenoptik
+- Qualitätsversprechen: Made in EU, zertifiziert nach Öko-Tex 100. Hochwertiger Reißverschluss für variables Hinzufügen oder Entnehmen von Füllwatte – passe die Füllmenge flexibel an, ob hoch oder flach, weich oder fest, ganz nach Deinem Schlafkomfort
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01I58OJWS{{</world>}}

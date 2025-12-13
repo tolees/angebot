@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Gewicht: 245 g (Größe 42 2/3)
 - Textilfutter
+- Cloudfoam Zwischensohle
 - Adiwear Gummiaußensohle
 - Regulär geschnitten
-- Cloudfoam Zwischensohle
-- Gewicht: 245 g (Größe 42 2/3)
 - Obermaterial aus Textil und Synthetik
 
 [🛒 Hier!!]({{< param buyurl >}})

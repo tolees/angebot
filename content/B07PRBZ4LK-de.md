@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- OFFIZIELLE NINTENDO-LIZENZ: Das Set ist im authentischen Mario Kart-Look gestaltet und bietet hochwertige Slotcars und dekorative Elemente
 - LUSTIGE KOLLISIONEN: Spannende Kopf-an-Kopf-Rennen, bei denen Kollisionen im engen Abschnitt unvermeidbar sind, sorgen für Lachen und Spielspaß
-- REALISTISCHES FAHRERLEBNIS: Betätige die ergonomischen Geschwindigkeitsregler und manövriere die 1:50 Maßstab Slotcars durch enge Abschnitte und Flip-Elemente
 - AUS DEM VIDEOSPIEL INS KINDERZIMMER: Lass deine Kinder die wilden Duelle aus Mario Kart mit Mario und Luigi auf dieser 2,9 Meter langen Rennstrecke erleben.
+- REALISTISCHES FAHRERLEBNIS: Betätige die ergonomischen Geschwindigkeitsregler und manövriere die 1:50 Maßstab Slotcars durch enge Abschnitte und Flip-Elemente
+- OFFIZIELLE NINTENDO-LIZENZ: Das Set ist im authentischen Mario Kart-Look gestaltet und bietet hochwertige Slotcars und dekorative Elemente
 - ZUSÄTZLICHER SPIELSPAß: Die Mario Kart lizenzierte Slotcar-Rennstrecke bietet mit den Flip-Elementen von Carrera FIRST ein aufregendes Spielerlebnis
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

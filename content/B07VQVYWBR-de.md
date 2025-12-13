@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Durability
+- Dieser Herrensneaker aus weichem Leder
 - Lightweight
 - Mit OrthoLite
-- Durability
 - Mit sportlicher Silhouette
-- Dieser Herrensneaker aus weichem Leder
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07VQVYWBR{{</world>}}

@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 🌈 GESCHMACKSVIELFALT: Unser FLAVOUR UP Geschmackspulver ist in 16 einzigartigen Geschmacksvariationen erhältlich und bietet dir somit jede Menge Abwechslung. Neben den regulären Dosen mit 250 Gramm (62 Portionen) sind unsere Geschmackspulver auch als Proben mit 30 g (7 Portionen) erhältlich - hierfür einfach dein Probe-Pack #1 mit den ersten 8 Geschmacksrichtungen oder den Probe-Pack #2 mit den neuen 8 Geschmacksrichtungen auswählen.
 - 🎉 VIEL GESCHMACK - BEI SO WENIG KALORIEN: Das FLAVOUR UP Aroma Pulver liefert Dir jede Menge Geschmack und das bei nur 8-14 kcal pro Portion (je nach Geschmacksrichtung). Mit FLAVOUR UP verleihst Du Deinen Speisen einen unglaublich leckeren Geschmack und eine angenehme Süße.
-- 🍫 CHUNKY FLAVOUR EXTRAS: Unsere FLAVOUR UP Geschmackspulver enthalten leckere Extras wie z.B. leckere Schokostückchen, kleinen Fruchtstückchen, feine Kokosraspeln, knuspriges Nusskrokant oder süße Karamellstückchen.
-- 😋 UNFASSBAR LECKER: Mit dem Flavour Pulver zauberst Du ganz einfach Deinen Lieblingsgeschmack in kalte oder warme Speisen. "Pimp" damit ganz einfach Müsli, Porridge, Joghurt, Quark, Kaffee ... oder verwandle deine Milch im Handumdrehen in einen himmlisch leckeren Drink.
 - 🌱 VEGAN & FREI VON KÜNSTLICHEN FARBSTOFFEN: Alle genialen FLAVOUR UP Geschmackspulver enthalten keine tierischen Inhaltsstoffe und sind damit auch für eine vegane Ernährungsweise geeignet. Auf künstliche Farbstoffe wurde komplett verzichtet.
+- 🍫 CHUNKY FLAVOUR EXTRAS: Unsere FLAVOUR UP Geschmackspulver enthalten leckere Extras wie z.B. leckere Schokostückchen, kleinen Fruchtstückchen, feine Kokosraspeln, knuspriges Nusskrokant oder süße Karamellstückchen.
+- 🌈 GESCHMACKSVIELFALT: Unser FLAVOUR UP Geschmackspulver ist in 16 einzigartigen Geschmacksvariationen erhältlich und bietet dir somit jede Menge Abwechslung. Neben den regulären Dosen mit 250 Gramm (62 Portionen) sind unsere Geschmackspulver auch als Proben mit 30 g (7 Portionen) erhältlich - hierfür einfach dein Probe-Pack #1 mit den ersten 8 Geschmacksrichtungen oder den Probe-Pack #2 mit den neuen 8 Geschmacksrichtungen auswählen.
+- 😋 UNFASSBAR LECKER: Mit dem Flavour Pulver zauberst Du ganz einfach Deinen Lieblingsgeschmack in kalte oder warme Speisen. "Pimp" damit ganz einfach Müsli, Porridge, Joghurt, Quark, Kaffee ... oder verwandle deine Milch im Handumdrehen in einen himmlisch leckeren Drink.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BCGPLG78{{</world>}}

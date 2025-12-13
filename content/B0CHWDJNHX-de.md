@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Greif auf eine Vielzahl berühmter Anpassungen zu und gestalte deinen Neuling mit endlosen möglichen Optionen von Mützen bis hin zu einem „Cheesy Poof“-T-Shirt und Kinnklöten selbst.
-- Erlebe zum allerersten Mal Koop-Gameplay mit bis zu drei Freunden oder KI-Verbündeten in South Park – entfesselt zusammen mächtige koordinierte Angriffe auf die Gegner.
-- Kämpfe dich in einem brandneuen 3D-Koop-Spiel durch die verschneiten Straßen von South Park.
 - Ein gewaltiger Schneesturm ist über South Park hinweggefegt und nun liegt es an Cartman, Stan, Kenny, Kyle und dir, dem Neuling, die Stadt vor dem ewigen Winter zu retten.
 - Rüste dich mit vernichtenden Nah- und Fernkampfwaffen aus und werte sie weiter auf. Setze Spezialfähigkeiten und Kräfte ein, die ganze Gegnerhorden und epische Bosse in die Knie zwingen werden.
+- Erlebe zum allerersten Mal Koop-Gameplay mit bis zu drei Freunden oder KI-Verbündeten in South Park – entfesselt zusammen mächtige koordinierte Angriffe auf die Gegner.
+- Greif auf eine Vielzahl berühmter Anpassungen zu und gestalte deinen Neuling mit endlosen möglichen Optionen von Mützen bis hin zu einem „Cheesy Poof“-T-Shirt und Kinnklöten selbst.
+- Kämpfe dich in einem brandneuen 3D-Koop-Spiel durch die verschneiten Straßen von South Park.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CHWDJNHX{{</world>}}

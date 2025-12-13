@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 8-cm-Disks: Nein
 - Formate (schreiben): Disc-at-once, DVD for General, Incremental Recording, Mixed-Mode, Multisession, Packet-Writing, Sequential Recording, Session-at-Once, Track-at-Once
 - vertikaler Betrieb: Nein
 - Zuführung: Schublade
 - Formate (lesen): Audio CD, BD-AV, BD-R, BD-RE, BD-ROM, CD-text, CD-Extra, DVD Video, DVD+R/RW, DVD-R/RW, DVD-RAM, DVD-ROM, Hybrid-CD, Mixed, Multisession, Photo CD, Video CD
+- 8-cm-Disks: Nein
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01FUIYMDC{{</world>}}

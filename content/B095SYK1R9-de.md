@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 4 x effiziente Leistung - OFDMA und Beamforming für das starke, zielgerichtete WLAN
-- Gigabit-LAN-Port - Schnellere kabelgebundene Verbindungen zu Smart-TVs, Computern und Spielekonsolen
 - Unvergleichbare WiFi 6 Gigabit-Geschwindigkeit - Bis zu 3600Mbit/s auf 2,4GHz und 1300Mbit/s auf 5GHz.
+- Gigabit-LAN-Port - Schnellere kabelgebundene Verbindungen zu Smart-TVs, Computern und Spielekonsolen
+- 4 x effiziente Leistung - OFDMA und Beamforming für das starke, zielgerichtete WLAN
 - Kinderleichte Installation und Verwaltung - Einfache Inbetriebnahme durch WPS-Taste, Web UI oder die neue Tether-App zur einfachen Kontrolle (kostenfrei für jedes iOS- oder Android-Gerät erhältlich)
 - Wi-Fi 6 Technologie - WLAN der nächsten Generation mit schnellerer Geschwindigkeit, größerer Kapazität und wenigerer Ladezeit
 

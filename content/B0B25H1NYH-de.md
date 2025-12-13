@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Der Emberton II bietet über 30 Stunden Spieldauer mit nur einer Aufladung. Dank seiner kompakten Größe, seinem robusten Design und der verlässlichen Spieldauer ist er der perfekte Wegbegleiter. Wenn der Akku leer ist, lässt dich der Emberton II nicht lange warten – schließe deinen Lautsprecher einfach an, und innerhalb von 3 Stunden ist der Akku wieder aufgeladen.
-- Der Emberton II liefert satten, klaren und lauten Sound – ganz im Sinne des Erfinders. Erlebe absoluten 360°-Sound mit True Stereophonic, einer außergewöhnlichen Art des multidirektionalen Marshall Sounds, der von jedem Standpunkt aus optimal ist
 - Emberton II ist eine Verbesserung des ursprünglichen Emberton und wurde mit dem Stack-Modus ausgestattet – verbinden Sie ihn mit anderen Emberton II-Lautsprechern und verstärken Sie Ihren Sound
+- Der Emberton II bietet über 30 Stunden Spieldauer mit nur einer Aufladung. Dank seiner kompakten Größe, seinem robusten Design und der verlässlichen Spieldauer ist er der perfekte Wegbegleiter. Wenn der Akku leer ist, lässt dich der Emberton II nicht lange warten – schließe deinen Lautsprecher einfach an, und innerhalb von 3 Stunden ist der Akku wieder aufgeladen.
 - Der Emberton II ist außerordentlich hart im Nehmen und zudem nach IP67 staub- und wasserfest.
+- Der Emberton II liefert satten, klaren und lauten Sound – ganz im Sinne des Erfinders. Erlebe absoluten 360°-Sound mit True Stereophonic, einer außergewöhnlichen Art des multidirektionalen Marshall Sounds, der von jedem Standpunkt aus optimal ist
 - Der Emberton II verschafft dir ein nachhaltigeres Sound-Erlebnis. Der Lautsprecher besteht zu 50 % aus recyceltem Kunststoff von gebrauchter Elektronik, Wasserflaschen sowie Abdeckungen von Autoscheinwerfern. Außerdem ist er zu 100 % PVC-frei.
 
 [🛒 Hier!!]({{< param buyurl >}})

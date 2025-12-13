@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 10 Dinge, die ich an Dir hasse: Jubiläumsedition
 - Produkttyp: Physical Movie
+- 10 Dinge, die ich an Dir hasse: Jubiläumsedition
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00GZKDY6Q{{</world>}}

@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Wirkungsvolles Mizellenshampoo mit natürlichem Acai-Extrakt zum Schutz von farbbehandeltem Haar vor Oxidantien.
-- Das schützende Shampoo auf das nasse Haar auftragen, sanft einmassieren und anschließend gründlich ausspülen.
 - Schenken Sie Ihrem Haar einen Neustart und bringen das Mikrobiom der Kopfhaut in ein natürliches Gleichgewicht, während Sie Ihre Haare von innen heraus stärken ‒ das doppelwirksame Haarshampoo kombiniert Wirkstoffe der Hautpflege mit moderner Haarpflege und beugt dem Verblassen der Haarfarbe vor.
+- Das schützende Shampoo auf das nasse Haar auftragen, sanft einmassieren und anschließend gründlich ausspülen.
+- Wirkungsvolles Mizellenshampoo mit natürlichem Acai-Extrakt zum Schutz von farbbehandeltem Haar vor Oxidantien.
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08K4TXR3Q{{</world>}}

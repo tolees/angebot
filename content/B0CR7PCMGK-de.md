@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Winddicht
-- Seitentaschen
 - Reißverschluss, Knopfleiste
+- Seitentaschen
+- Winddicht
 - Länge/Größe : Lang
 
 [🛒 Hier!!]({{< param buyurl >}})

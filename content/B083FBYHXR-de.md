@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Die neue Generation Rollenschneider für schnelles und präzises Schneiden von Papier, Fotos und Folie mit verbesserter Ergonomie ("Zwei-Finger-Bedienung") und Präzisions-Winkelanlagen
 - Für dieses Schneidgerät ist das Creativ-Set Dahle 980 mit drei Schneideköpfen für Perforation, Falzen- und Büttenschnitt erhältlich
 - Papierschneidemaschine mit stabilem Metalltisch (449 x 209 mm) und rutschfesten Gummifüßen. Optimierte Tischbedruckung für den Beschnitt von Standardformaten (metrische und imperiale Bemaßung)
 - Der kindersichere und geschlossene Messerkopf kann einfach, schnell und intuitiv gewechselt werden
 - Der Papierschneider schafft 8 Blatt Papier (80 g/m²) gleichzeitig, die mit einer Pressschiene inkl. Markierungshilfen fixiert werden. Größte Schnittlänge: 320 mm (DIN A4); Schnitthöhe: 0, 8 mm
+- Die neue Generation Rollenschneider für schnelles und präzises Schneiden von Papier, Fotos und Folie mit verbesserter Ergonomie ("Zwei-Finger-Bedienung") und Präzisions-Winkelanlagen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B083FBYHXR{{</world>}}

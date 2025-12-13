@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zwischensohle in vulkanisierter Optik
 - Textilfutter
 - Reguläre Passform
 - Obermaterial aus Synthetik-Nubuk
+- Zwischensohle in vulkanisierter Optik
 - Schnürsenkel
 
 [🛒 Hier!!]({{< param buyurl >}})

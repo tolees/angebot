@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- gerade geschnittene T-Shirts mit einem Jack&Jones Printlogo auf der Vorder Seite
-- Herren T-shirts aus Baumwolle
 - T-shirt mit kurzen Ärmeln
+- gerade geschnittene T-Shirts mit einem Jack&Jones Printlogo auf der Vorder Seite
 - 3er Pack Herren T-shirts in schwarz, blau und weiß mit einem Rundhalsausschnitt
+- Herren T-shirts aus Baumwolle
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B08QW74Q3H{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dri-fit-technologie
-- Angewinkelte Nähte an den Seiten ermöglichen uneingeschränkte Bewegungsfreiheit
 - Standard Passform
+- Angewinkelte Nähte an den Seiten ermöglichen uneingeschränkte Bewegungsfreiheit
 - Elastischer Bund mit Kordelzug
+- Dri-fit-technologie
 - Perfekte Atmungsaktivität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

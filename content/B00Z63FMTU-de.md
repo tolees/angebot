@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Auch in den Größen 12,5" oder 16" erhältlich
+- Alle Varianten sind mit einer entnehmbaren Trage ausgestattet
 - Mit Kunststoffschliessen ausgestattet
 - Abmaße 48 cm x 25 cm x 24 cm
 - Organizer für Kleinteile und Zubehör im Deckel
-- Auch in den Größen 12,5" oder 16" erhältlich
-- Alle Varianten sind mit einer entnehmbaren Trage ausgestattet
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00Z63FMTU{{</world>}}

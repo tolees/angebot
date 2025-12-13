@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- heel type: flach
-- closure: schnürsenkel
 - lining: textil
+- closure: schnürsenkel
 - outer material: leder
+- heel type: flach
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0182HXB1W{{</world>}}

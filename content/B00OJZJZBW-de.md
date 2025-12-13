@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Innenmaterial: Canvas
 - Sohle: Rubber
 - Obermaterial: Smooth Leather
-- Innenmaterial: Canvas
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00OJZJZBW{{</world>}}

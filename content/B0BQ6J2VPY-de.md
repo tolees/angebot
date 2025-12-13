@@ -30,8 +30,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Absolute Bewegungsfreiheit
 - Aufgesticktes Logo
-- Einfache Passform und einen modernen Look
 - Normale Passform
+- Einfache Passform und einen modernen Look
 - Material-Prozentangaben können variieren. Genaue Angaben findest du auf dem Label
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

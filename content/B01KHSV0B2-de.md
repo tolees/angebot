@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Machen Sie sich bereit, sich in unsere geschmeidigen, wunderbar verblendbaren Creme-Lidschatten zu verlieben, die nicht nur wasserfest sind, sondern auch bis zu 24 Stunden halten
 - Wir haben einen Lidschattenpinsel in die Kappe integriert, um das Auftragen zu erleichtern
 - Augenärztlich getestet
-- Jedes Produkt liefert hochpigmentierte, matte oder schimmernde Farbe (oder einen kleinen Hauch von Farbe, wenn man nur einen kleinen Tupfer aufträgt)
+- Machen Sie sich bereit, sich in unsere geschmeidigen, wunderbar verblendbaren Creme-Lidschatten zu verlieben, die nicht nur wasserfest sind, sondern auch bis zu 24 Stunden halten
 - Erhältlich in verschiedenen Farbtönen
+- Jedes Produkt liefert hochpigmentierte, matte oder schimmernde Farbe (oder einen kleinen Hauch von Farbe, wenn man nur einen kleinen Tupfer aufträgt)
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B01KHSV0B2{{</world>}}

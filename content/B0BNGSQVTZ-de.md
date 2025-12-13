@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Materialzusammensetzung: 80% Baumwolle, 20% Polyester
-- Weit geschnitten jeans
-- Weiter Beinschnitt
 - Mittlere Taille
+- Materialzusammensetzung: 80% Baumwolle, 20% Polyester
+- Weiter Beinschnitt
+- Weit geschnitten jeans
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0BNGSQVTZ{{</world>}}

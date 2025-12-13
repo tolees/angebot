@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Raglanärmel mit Mesh-Einsatz für mehr Atmungsaktivität
-- Rundhalsausschnitt
-- Kontrasteinsatz aus Mesh mit PUMA Formstrip
 - dryCELL: Technologie von PUMA zum Transport der Feuchtigkeit nach außen für trockenen Tragekomfort
+- Kontrasteinsatz aus Mesh mit PUMA Formstrip
 - Aus recycelten Materialien: hergestellt aus Recyclingfasern für einen geringeren ökologischen Footprint
+- Rundhalsausschnitt
+- Raglanärmel mit Mesh-Einsatz für mehr Atmungsaktivität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0916B6KJW{{</world>}}

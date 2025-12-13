@@ -28,12 +28,12 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Maximaler Mehrwert im System: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller oder Bosch Smart Home Controller II erforderlich
+- Hinweis: Bei Einbau des Aktors in Unterputzdosen ist eine Tiefe von mind. 50mm erforderlich. Für den optimalen Einbau wird eine Dosentiefe ab 60mm empfohlen
 - Multifunktionale Steuerung: Smarte Steuerung der Beleuchtung oder elektrischer Beschattung von Rollläden, Jalousien oder Markisen (Funktion auswählbar bei Installation)
+- Maximaler Mehrwert im System: Zur Integration in das Bosch Smart Home System ist ein Bosch Smart Home Controller oder Bosch Smart Home Controller II erforderlich
 - Flexible Installation: Aktor Einbau hinter bestehendem Schalter, in Verteilerdose oder für den Außenbereich mit wetterfesten Installationsdosen vorgesehen
 - Smarte Lichtsteuerung: Ermöglicht die Steuerung von bis zu 2, bisher nicht-smarten, Lichtern
 - Steuerung der Beschattung: Bringt Antriebe von Rollläden, Jalousien und Markisen in Wunsch-Position der Höhe und auch Neigung
-- Hinweis: Bei Einbau des Aktors in Unterputzdosen ist eine Tiefe von mind. 50mm erforderlich. Für den optimalen Einbau wird eine Dosentiefe ab 60mm empfohlen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B09XJB63FH{{</world>}}

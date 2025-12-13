@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Gummiaußensohle
 - Obermaterial aus Synthetikleder
+- Gummiaußensohle
 - Reguläre Passform
 - Schaft und Futter aus Mesh
 - Zehenkappe aus Wildleder

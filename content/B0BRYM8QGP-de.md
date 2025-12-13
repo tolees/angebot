@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Hosenschlitz mit Knopfverschluss
 - Bietet Tragekomfort
 - Mit Nieten verstärkte eingesetzte Taschen, Münztasche innen am Bund
-- Hosenschlitz mit Knopfverschluss
 - G-STAR Label aus lederähnlichem Papiermaterial hinten
 - Gesäßtaschen
 

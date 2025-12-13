@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Bis einschließlich Größe 86/92 hat das Badeset einen Windeleinsatz der verhindert, dass größere Verschmutzungen ins Schwimmbecken gelangen
-- Das tolle 2-teilige Schwimmset aus schnelltrocknendem Material besteht aus einem Bade T-Shirt und einer Badehose. Das Bade-Shirt hat einen unterlegten Reißverschluss mit Zippergarage um die zarte Kinderhaut bestens zu schützen
-- UPF 50+ UV-Schutz nach EN 13758-1 (UVKB-53603)
 - Pflegehinweise: Einfach bei 30°C in der Waschmaschine waschen am besten ohne Weichspüler
+- UPF 50+ UV-Schutz nach EN 13758-1 (UVKB-53603)
 - Zweiteiliges Badeoutfit aus recyceltem Polyester mit UV Schutz 50+ für heiße Sommertage am Meer oder im Schwimmbad
+- Das tolle 2-teilige Schwimmset aus schnelltrocknendem Material besteht aus einem Bade T-Shirt und einer Badehose. Das Bade-Shirt hat einen unterlegten Reißverschluss mit Zippergarage um die zarte Kinderhaut bestens zu schützen
+- Bis einschließlich Größe 86/92 hat das Badeset einen Windeleinsatz der verhindert, dass größere Verschmutzungen ins Schwimmbecken gelangen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CQ8NR81K{{</world>}}

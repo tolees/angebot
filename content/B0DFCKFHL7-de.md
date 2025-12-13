@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- In einer Fantasiewelt mit riesigen Wüsten, üppigen Wäldern und unterirdischen Höhlen
-- Drei Modi, darunter einer für Anfänger
 - Der Sound wurde von renommierten Sounddesignern aus Japan und Übersee erstellt, um der Spielwelt mehr Farbe zu verleihen.
+- Drei Modi, darunter einer für Anfänger
+- In einer Fantasiewelt mit riesigen Wüsten, üppigen Wäldern und unterirdischen Höhlen
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0DFCKFHL7{{</world>}}

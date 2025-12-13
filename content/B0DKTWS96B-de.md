@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Das Sonnenschutz-Spray kann sowohl im Gesicht als auch am Körper verwendet werden
-- Die wasserfeste Formel schützt die Haut auch im Wasser und beim Schwitzen vor schädlicher UV-Strahlung
 - Das Hydra Protect+ 24h Sonnenschutz-Spray bietet dank Lichtschutzfaktor 50 einen sehr hohen Schutz vor UVA- und UVB-Strahlung
+- Die wasserfeste Formel schützt die Haut auch im Wasser und beim Schwitzen vor schädlicher UV-Strahlung
 - Die nicht fettende Textur zieht schnell ein und sorgt umgehend für Schutz
+- Das Sonnenschutz-Spray kann sowohl im Gesicht als auch am Körper verwendet werden
 - Das Sonnenschutz-Spray ist mit Vitamin E angereichert, wodurch sonnenbedingter Hautalterung vorgebeugt werden kann
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

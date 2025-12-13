@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Zuglasche an der Ferse und Zuglasche vorne
-- Regenschutz
 - Schlechtwetterbeständiges React
+- Regenschutz
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0D1YBQNBZ{{</world>}}

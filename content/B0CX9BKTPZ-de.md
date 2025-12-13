@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Entspannung, Wohlbefinden und Pflege
 - Mit wertvollen ätherischen Ölen
+- Entspannung, Wohlbefinden und Pflege
 - Enthält fünf unserer beliebten Badeöle
-- Inhalt: 1x Bade-Essenz Muskel Entspannung 20ml, 1x Bade-Essenz Entspannung Pur 20ml, 1x Bade-Essenz Rücken Wohl 20ml, 1x Pflegeölbad Mandelblüten Hautzart 20ml, 1x Bade-Essenz Tiefenentspannung 20ml
 - Es eignet sich perfekt als kleines Geschenk, um sich durch die verschiedenen Produkte zu testen
+- Inhalt: 1x Bade-Essenz Muskel Entspannung 20ml, 1x Bade-Essenz Entspannung Pur 20ml, 1x Bade-Essenz Rücken Wohl 20ml, 1x Pflegeölbad Mandelblüten Hautzart 20ml, 1x Bade-Essenz Tiefenentspannung 20ml
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B0CX9BKTPZ{{</world>}}

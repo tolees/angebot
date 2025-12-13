@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Pay-TV direkt empfangen: Über den CI+ Slot können Sie mit einem passenden Modul und einer Smartcard verschlüsselte Fernsehkanäle genießen.
-- Allzeit empfangsbereit: Nutzen Sie Kabel, Satellit und das neue digitale Antennenfernsehen DVB-T2 HD mit dem HD Triple Tuner (DVB-T2 HD, DVB-C, DVB-S2).
-- Lieferumfang: MEDION LCD-TV E8402500 MD840000, Standfüße inkl. Schrauben, Fernbedienung inkl. Batterie (AAA), AV-Adapter, Bedienungsanleitung
 - Komfort pur: Fotos und Videos können Sie über den integrierten Mediaplayer ganz einfach am großen Fernsehschirm genießen.
 - Vielseitiger Full-HD-Fernseher mit 40 Zoll Bilddiagonale, zwei HDMI-Anschlüssen, HD-Triple-Tuner, CI+ Schnittstelle und integriertem Mediaplayer.
+- Lieferumfang: MEDION LCD-TV E8402500 MD840000, Standfüße inkl. Schrauben, Fernbedienung inkl. Batterie (AAA), AV-Adapter, Bedienungsanleitung
+- Allzeit empfangsbereit: Nutzen Sie Kabel, Satellit und das neue digitale Antennenfernsehen DVB-T2 HD mit dem HD Triple Tuner (DVB-T2 HD, DVB-C, DVB-S2).
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B08L6MCSTQ{{</world>}}

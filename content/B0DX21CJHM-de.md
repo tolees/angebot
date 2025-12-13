@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Baubares Boot: Das Ruderhaus und das Texas-Deck mit Toilette und Kabine der Crew lassen sich abnehmen; Auf dem ebenfalls abnehmbaren Hauptdeck befinden sich eine Musikbühne und ein Restaurant; Das Kesseldeck beherbergt eine Küche und ein Museum
-- Dampfmaschinenmuseum: Erkunde das Museum auf dem Kesseldeck. Dort befinden sich eine funktionierende Dampfmaschine aus LEGO Steinen, ein beweglicher Kolben, eine Aeolipile (Dampfturbine) und eine wattsche Dampfmaschine
 - Nützlicher Helfer: Bauanleitungen findest du in der LEGO Builder App und in der beiliegenden Broschüre, die auch ein Interview mit dem Fandesigner und Wissenswertes über Flussraddampfer enthält
+- Dampfmaschinenmuseum: Erkunde das Museum auf dem Kesseldeck. Dort befinden sich eine funktionierende Dampfmaschine aus LEGO Steinen, ein beweglicher Kolben, eine Aeolipile (Dampfturbine) und eine wattsche Dampfmaschine
+- Baubares Boot: Das Ruderhaus und das Texas-Deck mit Toilette und Kabine der Crew lassen sich abnehmen; Auf dem ebenfalls abnehmbaren Hauptdeck befinden sich eine Musikbühne und ein Restaurant; Das Kesseldeck beherbergt eine Küche und ein Museum
 - Wirklichkeitsgetreue Details: Schiebe das Boot über einen Tisch, um das mit der Dampfmaschine verbundene Schaufelrad anzutreiben, und dreh das Steuerrad im Ruderhaus (oder den außen befindlichen Knauf), um das Ruder zu betätigen
 - Geschenkidee für geschichtsinteressierte Männer und Frauen sowie für Globetrotter: Schenke dieses LEGO Bauset einem Erwachsenen, der sich für Boote, Geschichte und Reisen begeistert
 - Deko fürs Wohnzimmer oder Büro: Erschaffe ein detailgetreues LEGO Ideas Modell eines klassischen Flussraddampfers, der zu einem Boot für Unterhaltungstouren und zu einem Dampfmaschinenmuseum umgebaut wurde

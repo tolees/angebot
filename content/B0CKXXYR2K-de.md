@@ -28,15 +28,15 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Sprengung: 10 mm (Rückfußhöhe: 25 mm / Vorfußhöhe: 15 mm)
-- Traxion Außensohle
-- Reguläre Passform
-- PrimaLoft Isolation
 - Gewicht: 540 g (Größe 42 2/3)
-- Textilfutter
+- Traxion Außensohle
 - Obermaterial aus Wildleder
 - COLD.RDY und wasserabweisendes Finish
+- Reguläre Passform
+- Sprengung: 10 mm (Rückfußhöhe: 25 mm / Vorfußhöhe: 15 mm)
 - Besteht zu mindestens 20 % aus recycelten und erneuerbaren Materialien
+- PrimaLoft Isolation
+- Textilfutter
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CKXXYR2K{{</world>}}

@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Mit den bekannten Pokemon Figuren Pikachu, Bisaknosp, dem feuerspeienden Drachen Glutark und Relaxo aus den beliebten Computer- und Videospielen bedruckt
-- Material: Kunststoff (PP, bpa- und phthalatfrei) - wiederverwendbar, bruchsicher, einfach zu reinigen, nicht geeignet für Spülmaschine und Mikrowelle
 - Größe der Vesperbox: ca. 18 x 13,5 x 5,5 cm, passt in jeden Schulranzen oder Kinderrucksack, Füllmenge des großen Fachs: ca. 348 ml, Füllmenge der kleinen Fächer: je ca. 175 ml
 - Snackbox für Jungen und Mädchen in Orange-Blau mit 3 Fächern, die sich mit Clip-Verschlüssen unabhängig voneinander öffnen und schließen lassen
+- Mit den bekannten Pokemon Figuren Pikachu, Bisaknosp, dem feuerspeienden Drachen Glutark und Relaxo aus den beliebten Computer- und Videospielen bedruckt
+- Material: Kunststoff (PP, bpa- und phthalatfrei) - wiederverwendbar, bruchsicher, einfach zu reinigen, nicht geeignet für Spülmaschine und Mikrowelle
 - Ideal zur getrennten Aufbewahrung und für den sicheren Transport von Pausenbrot, Snacks, Sandwich, Obst und Gemüse
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

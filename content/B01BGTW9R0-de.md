@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normaler Bund
-- Reißverschluss
 - Normale Leibhöhe
+- Reißverschluss
+- Normaler Bund
 - Zum Knöchel hin schmal zulaufend
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

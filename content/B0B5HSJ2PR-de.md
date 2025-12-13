@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Fahrzeuge müssen einen kaputten Looping, einen Sprung durch den Wasserfall und einige enge Kurven überstehen, um die Runde abzuschließen und in die nächste zu starten.
-- Ein Die-Cast-Fahrzeug im Maßstab 1:64 mit einer Mario-Figur, das vom Film inspiriert wurde, gehört zum Lieferumfang dazu.
 - Mit dem Hot Wheels Der Super Mario Bros. Film Dschungel Königreich Spielset und Fahrzeug können Kinder die Abenteuer aus dem Film zum Leben erwecken.
-- Das Trackset ist ein tolles Geschenk für Kinder, die Stunts und rasante Action lieben, besonders für Fans von Super Mario Bros.
 - Kinder müssen nur auf den Starter hauen und schon geht es los. Ihr Fahrzeug rast sofort in Richtung des ersten Stunts.
+- Ein Die-Cast-Fahrzeug im Maßstab 1:64 mit einer Mario-Figur, das vom Film inspiriert wurde, gehört zum Lieferumfang dazu.
+- Das Trackset ist ein tolles Geschenk für Kinder, die Stunts und rasante Action lieben, besonders für Fans von Super Mario Bros.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0B5HSJ2PR{{</world>}}

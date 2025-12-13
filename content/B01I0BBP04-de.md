@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Aus Leder mit elastischen Schnürsenkeln
 - Elastikriemen für bequeme Passform
+- Aus Leder mit elastischen Schnürsenkeln
 - Obermaterial: Leder (Rindsleder)
 - Die versiegelte Konstruktion des Beetle für Herren ist leicht und flexibel
 - XL EXTRALIGHT für mehr Leichtigkeit und Stoßdämpfung

@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Sichere Verwendung: Mit einer maximalen Leistung von 3680W, einem flammhemmenden ABS-Gehäuse, integriertem Überspannungsschutz und einem App-gesteuerten Überlastschutz. Bei einem Stromüberschuss von mehr als 17A wird die Stromzufuhr automatisch unterbrochen. Verlassen Sie sich auf eine zuverlässige Sicherheit für Ihre elektrischen Geräte.
-- Sprachsteuerung: Steuern Sie Ihre Haushaltsgeräte bequem und mühelos über Amazon Alexa oder Google Assistant. (Hinweis: Laden Sie zuerst die Smart Life App herunter.)
 - Kinderleichte Einrichtung: Laden Sie einfach die Smart Life App herunter, stecken Sie die WLAN-Steckdosenleiste in die Steckdose und Ihr Smartphone erkennt die Leiste automatisch über Bluetooth. Kein kompliziertes Pairing oder manuelle Einrichtung erforderlich. (Nur 2,4 GHz WiFi)
+- Sprachsteuerung: Steuern Sie Ihre Haushaltsgeräte bequem und mühelos über Amazon Alexa oder Google Assistant. (Hinweis: Laden Sie zuerst die Smart Life App herunter.)
 - Energieverbrauch Überwachung: Unsere WLAN-Steckdosenleiste zeichnet den täglichen Stromverbrauch auf und fasst den Verbrauch wochen-, monats- und jahresweise zusammen. Optimieren Sie so Ihren Energieverbrauch.
 - Individuelle Kontrolle: Smart Mehrfachsteckdose verfügt über 3 AC-Steckplätze, mit denen Sie jedes Gerät unabhängig voneinander über die App ein- oder ausschalten können und Sie individuelle Zeitpläne für jedes Gerät festlegen.
 

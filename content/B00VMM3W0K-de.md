@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- besetzt mit kleinen weißn emaillierten Gänseblümchen
-- teilweise geschwärzt
-- Charm aus 925er Sterling Silber
 - Größe: 11 x 5,5 mm
+- besetzt mit kleinen weißn emaillierten Gänseblümchen
+- Charm aus 925er Sterling Silber
+- teilweise geschwärzt
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00VMM3W0K{{</world>}}

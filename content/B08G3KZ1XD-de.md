@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lose LEGO Originalware in einem Polybeutel ohne Originalverpackung und Anleitung.
 - LEGO Confidential
+- Lose LEGO Originalware in einem Polybeutel ohne Originalverpackung und Anleitung.
 - Ideale Ergänzung für LEGO Technic Sets, Züge oder programmierbare Roboter
 
 [🛒 Hier!!]({{< param buyurl >}})

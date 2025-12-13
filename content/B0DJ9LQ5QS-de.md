@@ -28,10 +28,10 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Lasse dich von atemberaubenden Sequenzen ins Staunen bringen – geschaffen aus nahezu lebensechten LEGO Steinen.
-- Stürze dich in explosive Gefechte mit spektakulären Waffen, Power-ups und Utensilien.
 - Entdecke die beliebte Welt von Horizon und stelle dich den ehrfurchtgebietenden Maschinen des Spiels – alles originalgetreu aus LEGO Steinen nachgebaut.
 - Genieße einen spannenden Mix aus Action, Erkundung, individueller Anpassung und dem urkomischen LEGO-eigenen Humor
+- Stürze dich in explosive Gefechte mit spektakulären Waffen, Power-ups und Utensilien.
+- Lasse dich von atemberaubenden Sequenzen ins Staunen bringen – geschaffen aus nahezu lebensechten LEGO Steinen.
 - Erlebe mit Freunden und Familie aufregende Koop-Action online und auf dem Sofa
 
 [🛒 Hier!!]({{< param buyurl >}})

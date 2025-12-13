@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Dein Lieblings-Basic T-Shirt gibt es jetzt im praktischen Doppelpack
-- Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
 - Perfekt für den Lagenlook mit geripptem Strukturstrick
+- Wir arbeiten mit der Better Cotton Initiative zusammen, um den Baumwollanbau weltweit zu verbessern
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07KF52DX6{{</world>}}

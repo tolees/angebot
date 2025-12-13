@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Inkl. Perserkatzen Baby Figur, Circa 4 cm groß
+- Durch Drehen an der Windmühle schaukeln die beiden Gondeln hin und her
 - Mit Rutsche und Wippe
 - Kopf, Arme und Beine sind beweglich
-- Durch Drehen an der Windmühle schaukeln die beiden Gondeln hin und her
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B09P3PP6V8{{</world>}}

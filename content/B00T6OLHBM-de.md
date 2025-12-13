@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Dank der luftig-lockeren und flexiblen Formulierung auch für einen No-Make-up-Look geeignet
-- langanhaltende Foundation
 - Makellose Haut
+- langanhaltende Foundation
+- Dank der luftig-lockeren und flexiblen Formulierung auch für einen No-Make-up-Look geeignet
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00T6OLHBM{{</world>}}

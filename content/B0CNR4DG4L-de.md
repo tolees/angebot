@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 【99Wh Hohe Kapazität】Dieser V-Akku verfügt über einen hochwertigen Lithium-Ionen-Akku mit 99 WHR, 14,8 V, 6700 mAh hoher Kapazität, der eine starke Ausdauer für lange Videoproduktionen und Fotoprojekte mit Kameraausrüstung wie der BMPCC 4K 6K bietet.
-- 【Mehrere Anschlüsse】Diese V-Mount-Akkuzelle mit USB-C-, USB-A-, BP- und D-TAP-Anschlüssen ist vielseitiger und unterstützt die gleichzeitige Stromversorgung mehrerer Geräte, wie DSLR-Kameras, Camcorder, Monitore, Smartphones, drahtlose Videosender, Tablets und Laptops.
 - 【Mit Display】Der Akku verfügt über ein OLED-Display, auf dem Sie den Akkustatus überprüfen können, z. B. die verbleibende Zeit, den Prozentsatz des verbleibenden Akkus, die Spannungsanzeige und den Betriebsstatus der USB-A- und USB-C-Anschlüsse
-- 【65W Zwei-Wege-PD-Schnellladen】Kann V-Port-Akku über BP, D-Tap, Typ-C-Port aufladen, unterstützt Multi-Protokoll-Schnellladen (PD/QC/SCP/PPS/APPLE-2.4A, etc.), unterstützt bis zu 65W High-Power USB-C Zwei-Wege-PD-Schnellladen, kann Smartphones, Tablets oder Laptops aufladen.
+- 【99Wh Hohe Kapazität】Dieser V-Akku verfügt über einen hochwertigen Lithium-Ionen-Akku mit 99 WHR, 14,8 V, 6700 mAh hoher Kapazität, der eine starke Ausdauer für lange Videoproduktionen und Fotoprojekte mit Kameraausrüstung wie der BMPCC 4K 6K bietet.
 - 【Leicht zu Transportieren 】99Wh ist die maximale Leistung, die in einem Flugzeug mitgeführt werden darf, und er ist perfekt für die meisten V-Mount-Vorrichtungen und D-Tap, USB-A/USB-C, handtellergroß, leicht zu transportieren
+- 【65W Zwei-Wege-PD-Schnellladen】Kann V-Port-Akku über BP, D-Tap, Typ-C-Port aufladen, unterstützt Multi-Protokoll-Schnellladen (PD/QC/SCP/PPS/APPLE-2.4A, etc.), unterstützt bis zu 65W High-Power USB-C Zwei-Wege-PD-Schnellladen, kann Smartphones, Tablets oder Laptops aufladen.
+- 【Mehrere Anschlüsse】Diese V-Mount-Akkuzelle mit USB-C-, USB-A-, BP- und D-TAP-Anschlüssen ist vielseitiger und unterstützt die gleichzeitige Stromversorgung mehrerer Geräte, wie DSLR-Kameras, Camcorder, Monitore, Smartphones, drahtlose Videosender, Tablets und Laptops.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CNR4DG4L{{</world>}}

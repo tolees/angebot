@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Du kannst ihn auch mit dem iPhone 8 oder neuer verwenden, um die Schnellladefunktion zu nutzen.
-- Ladekabel separat erhältlich.
 - Der Apple 20W USB‑C Power Adapter ermöglicht schnelles, effizientes Aufladen zu Hause, im Büro oder unterwegs.
+- Ladekabel separat erhältlich.
+- Du kannst ihn auch mit dem iPhone 8 oder neuer verwenden, um die Schnellladefunktion zu nutzen.
 - Er ist zwar kompatibel mit allen USB‑C fähigen Geräten, Apple empfiehlt jedoch, ihn mit dem iPad Pro und iPad Air zu verwenden, um die optimale Ladeleistung zu erreichen.
 
 [🛒 Hier!!]({{< param buyurl >}})

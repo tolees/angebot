@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- USB‑C Netzteil separat erhältlich.
 - Dieses 1 m lange gewebte Ladekabel mit USB‑C Anschlüssen an beiden Enden ist ideal zum Laden, Synchronisieren und Übertragen von Daten zwischen USB‑C Geräten.
+- USB‑C Netzteil separat erhältlich.
 - Kombiniere das USB-C Gewebte Ladekabel mit einem kompatiblen USB‑C Netzteil, um deine Geräte an einer Steckdose zu laden und schnelles Laden zu nutzen.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

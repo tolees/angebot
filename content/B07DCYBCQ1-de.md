@@ -28,8 +28,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- mit Walnuss Eichhörnchen Baby Figur
 - Süßes Baumhaus mit Hängematte, Rutsche, Schaukel, Tisch und Hocker
+- mit Walnuss Eichhörnchen Baby Figur
 - Mit anderen Artikeln der Baby Serie kombinierbar
 
 [🛒 Hier!!]({{< param buyurl >}})

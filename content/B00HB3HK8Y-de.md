@@ -28,8 +28,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- 8Flexible Gestaltung
 - Extrem hohe Reißfestigkeit
+- 8Flexible Gestaltung
 - Kantenstabilität
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

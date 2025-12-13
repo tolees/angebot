@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- SPEZIFIKATIONEN: Maße 36 x 42 cm (mit Standbeinen); Gasverbrauch 145 g/h; Siedezeit 4 Minuten und 18 Sekunden; Gewicht 4,9 kg; Tragetasche inklusive
-- STARKE LEISTUNG: Der stufenlos regulierbare 2000 Watt Grill wird von der Campingaz CV470 Plus Gaskartusche (Laufzeit bis zu 3 Stunden) betrieben. Die Piezo-Zündung per Druck- und Drehfunktion ermöglicht bequemes Anzünden bei jedem Wetter
-- EINFACHE REINIGUNG: Das Wasserfach fängt Fett auf; Topfträger, Roste und Grillplatten sind spülmaschinenfest; alle Elemente passen dank abnehmbarer Beine und verschließbarem Deckel in den Korpus
 - EUROPAWEITE VERFÜGBARKEIT: Die CV470 Plus Gaskartusche ist dank des weltweiten Campingaz-Händlernetzes in über 50 Ländern erhältlich
+- EINFACHE REINIGUNG: Das Wasserfach fängt Fett auf; Topfträger, Roste und Grillplatten sind spülmaschinenfest; alle Elemente passen dank abnehmbarer Beine und verschließbarem Deckel in den Korpus
+- STARKE LEISTUNG: Der stufenlos regulierbare 2000 Watt Grill wird von der Campingaz CV470 Plus Gaskartusche (Laufzeit bis zu 3 Stunden) betrieben. Die Piezo-Zündung per Druck- und Drehfunktion ermöglicht bequemes Anzünden bei jedem Wetter
 - MULTIFUNKTIONAL: Dieser kompakte Campinggrill bietet Campern die Wahl zwischen einem Topfträger, einem Grillrost, einer wendbaren Plancha/Grillplatte mit Antihaftbeschichtung und einem großen Deckel, der gleichzeitig als Wok dient
+- SPEZIFIKATIONEN: Maße 36 x 42 cm (mit Standbeinen); Gasverbrauch 145 g/h; Siedezeit 4 Minuten und 18 Sekunden; Gewicht 4,9 kg; Tragetasche inklusive
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B01B4WON5U{{</world>}}

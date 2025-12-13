@@ -29,9 +29,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - gewährleistet optimale Verbrennung
-- Regenerationshilfe für Dieselpartikelfilter
-- für Kurzstrecken- und Stadtfahrzeuge besonders geeignet
 - schützt den Dieselpartikelfilter
+- für Kurzstrecken- und Stadtfahrzeuge besonders geeignet
+- Regenerationshilfe für Dieselpartikelfilter
 - reduziert den Rußausstoß
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

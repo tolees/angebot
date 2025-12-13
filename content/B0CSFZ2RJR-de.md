@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Unser Model ist 188 cm groß und trägt Größe L
-- Strickmuster in Rippstruktur
-- camel active Markenlabel am Ärmel
 - Feinstrick aus Baumwollmix
 - Troyerkragen mit Reißverschluss
+- camel active Markenlabel am Ärmel
+- Strickmuster in Rippstruktur
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0CSFZ2RJR{{</world>}}

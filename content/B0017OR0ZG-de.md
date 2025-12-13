@@ -28,11 +28,11 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- silberfarbenes Kunststoffgehäuse mit fein strukturierter Metallgriffzone
 - 4 mm starre Minenführung
 - individuell einstellbarer Härtegradindikator
-- silberfarbenes Kunststoffgehäuse mit fein strukturierter Metallgriffzone
-- befüllt mit einem Radierstück (Z2-1N) und 2 Feinminen, Härtegrad HB
 - Metallclip
+- befüllt mit einem Radierstück (Z2-1N) und 2 Feinminen, Härtegrad HB
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0017OR0ZG{{</world>}}

@@ -28,9 +28,9 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- TOLLE TASTEN – Das hier ist keine herkömmliche Maus. Die einstellbare dpi (800-4800) und die sechs Tasten bieten dir alles, was du für das beste Gaming-Erlebnis aller Zeiten brauchst
 - REAKTIONSSCHNELL – Dank der kabellosen Verbindung mit extrem niedriger Latenz sind deine Moves im Game genauso schnell wie im Leben. Einfach den 2,4-GHz-Mikro-USB-Empfänger anschließen und loslegen!
 - ALLZEIT BEREIT – Der integrierte aufladbare Akku von Helox Wireless ermöglicht es dir, zu spielen, wann immer du willst. Bis zu 80 Stunden ununterbrochene Betriebszeit für endloses Gamen!
-- TOLLE TASTEN – Das hier ist keine herkömmliche Maus. Die einstellbare dpi (800-4800) und die sechs Tasten bieten dir alles, was du für das beste Gaming-Erlebnis aller Zeiten brauchst
 - GEWAGTES DESIGN – Cooler Look für cooles Gaming. Die Wabenstruktur macht das Mausgehäuse besonders leicht und bequem und sorgt gleichzeitig für ein extra stilvolles Setup
 - LEICHTGEWICHT FÜR SCHWERE EINSÄTZE – Helox Wireless garantiert dir schnelle, präzise Bewegungen. Mit einem Gewicht von nur 75 g, sichert dir diese ultraleichte Maus den Erfolg, den du brauchst
 

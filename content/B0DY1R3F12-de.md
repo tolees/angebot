@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- NEUTRAL UND PUR | FÜR MAXIMALE FLEXIBILITÄT Unsere Vitamin D3/K2-Tropfen überzeugen durch hochkonzentrierte Wirkstoffe ganz ohne Geschmacksaroma 🍃 – ideal für sensible Anwender oder zur unauffälligen Einnahme in Getränken. Perfekt für alle, die Wert auf diskrete Qualität ohne sensorische Beeinflussung legen.
-- 🔸 POWER-DUO FÜR KNOCHEN & IMMUNSYSTEM 25 μg Vitamin D3 + 20 μg K2 (MK-7) pro Tropfen: → Unterstützt Knochen- & Zahngesundheit* 🦴 → Stärkt die Abwehrkräfte* 🛡️ → Fördert Calciumverwertung* 💧 *Basiert auf EFSA-zertifizierten Health Claims.
 - KEIN RISIKO - Wir von sonnesee healpylo sind von unseren Produkten überzeugt und gewähren dir daher ein 100 tägiges Rückgaberecht, wenn du nicht zufrieden bist. Schicke einfach das Produkt zurück und du erhältst eine volle Rückerstattung des Kaufpreises. Auch bei angebrochener Dose! Ohne lästigen Fragen!
+- NEUTRAL UND PUR | FÜR MAXIMALE FLEXIBILITÄT Unsere Vitamin D3/K2-Tropfen überzeugen durch hochkonzentrierte Wirkstoffe ganz ohne Geschmacksaroma 🍃 – ideal für sensible Anwender oder zur unauffälligen Einnahme in Getränken. Perfekt für alle, die Wert auf diskrete Qualität ohne sensorische Beeinflussung legen.
 - 🎯 EINFACH & SPAREND 👉 Nur 1 Tropfen täglich = 1700 Portionen pro Flasche! 👉 Perfekt für Unterwegs – einfach in Wasser, Tee oder Smoothie tröpfeln 🌿 👉 Familientauglich – teilen und gemeinsam stärken!
+- 🔸 POWER-DUO FÜR KNOCHEN & IMMUNSYSTEM 25 μg Vitamin D3 + 20 μg K2 (MK-7) pro Tropfen: → Unterstützt Knochen- & Zahngesundheit* 🦴 → Stärkt die Abwehrkräfte* 🛡️ → Fördert Calciumverwertung* 💧 *Basiert auf EFSA-zertifizierten Health Claims.
 - ⚡ HOCHWERTIG & LABORGEPRÜFT ✔️ 99,7 % All-Trans-K2 (MK-7) für maximale Wirkung ✔️ Ohne Zucker, Gluten oder künstliche Zusätze ✔️ Natürliches Zitronenaroma 🍋 – frei von synthetischen Aromen!
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

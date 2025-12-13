@@ -29,8 +29,8 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Duftnoten: Aromatisch, Citrus, Fruchtig
-- Ein Duft, der langanhaltend ist, bestehend aus Zitrusnoten
 - 50 ml Eau de Toilette (EDT) Spray.
+- Ein Duft, der langanhaltend ist, bestehend aus Zitrusnoten
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B000RN6XTW{{</world>}}

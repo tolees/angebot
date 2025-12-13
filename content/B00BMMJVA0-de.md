@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Obermaterial: Smooth Leder
-- Verschluss: Schnürsenkel
 - Innenmaterial: Leder
-- Absatzhöhe: 3.5 cm
 - Sohle: Syhthetik
+- Verschluss: Schnürsenkel
+- Absatzhöhe: 3.5 cm
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B00BMMJVA0{{</world>}}

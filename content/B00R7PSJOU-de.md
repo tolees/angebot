@@ -28,11 +28,11 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Läuft über sechs Monate im Dunkeln. Eine volle Ladung reicht aus, um die meisten Eco-Drive-Modelle länger als sechs Monate im Dunkeln laufen zu lassen
-- Um die Umwelt zu schonen, ändert Citizen die Darstellung der Betriebsanleitung. Anstelle einer gedruckten Version wird eine neue digitale Version mit einem QR-Code mitgeliefert
-- Kaliber Nummer: E168
 - Eco-Drive Antrieb: Eco-Drive ist eine Kerntechnologie von CITIZEN, die selbst bei schwachem Licht Strom erzeugt und es ermöglicht, dass Uhren auch bei Dunkelheit über sechs Monate laufen
+- Kaliber Nummer: E168
+- Läuft über sechs Monate im Dunkeln. Eine volle Ladung reicht aus, um die meisten Eco-Drive-Modelle länger als sechs Monate im Dunkeln laufen zu lassen
 - Kein Batteriewechsel erforderlich. Eco-Drive eliminiert den Ärger und die Kosten des regelmäßigen Batteriewechsels
+- Um die Umwelt zu schonen, ändert Citizen die Darstellung der Betriebsanleitung. Anstelle einer gedruckten Version wird eine neue digitale Version mit einem QR-Code mitgeliefert
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B00R7PSJOU{{</world>}}

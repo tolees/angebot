@@ -28,10 +28,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Zeitpläne & automatische Steuerung: Stellen Sie Timer oder Zeitpläne ein, z. B. für Lampen oder Kaffeemaschinen. Geräte schalten sich automatisch ein oder aus – ohne manuelles Eingreifen.
-- Starke Leistung & sicheres Gehäuse: Unterstützt bis zu 3680W / 16A. Das größere Gehäuse verbessert die Wärmeableitung – ideal für den sicheren Betrieb von Geräten mit hoher Leistung.
-- Energieverbrauch & Stromkosten im Blick: Die Echtzeit-Messung zeigt den aktuellen Verbrauch an. Die App schätzt Ihre Stromkosten – hilfreich, um Energiefresser zu erkennen und gezielt zu sparen.
 - Steuerung per App – auch unterwegs: Geräte jederzeit über das Smartphone bedienen, egal ob im Wohnzimmer, Büro oder auf Reisen. Praktisch, wenn Sie vergessen haben, etwas auszuschalten.
+- Zeitpläne & automatische Steuerung: Stellen Sie Timer oder Zeitpläne ein, z. B. für Lampen oder Kaffeemaschinen. Geräte schalten sich automatisch ein oder aus – ohne manuelles Eingreifen.
+- Energieverbrauch & Stromkosten im Blick: Die Echtzeit-Messung zeigt den aktuellen Verbrauch an. Die App schätzt Ihre Stromkosten – hilfreich, um Energiefresser zu erkennen und gezielt zu sparen.
+- Starke Leistung & sicheres Gehäuse: Unterstützt bis zu 3680W / 16A. Das größere Gehäuse verbessert die Wärmeableitung – ideal für den sicheren Betrieb von Geräten mit hoher Leistung.
 - Schnelle Einrichtung & Sprachsteuerung: Einfach per Smart Life App einrichten – ohne Hub. Kompatibel mit Alexa, Google Home und SmartThings für bequeme Sprachsteuerung im Alltag.
 
 [🛒 kauf es hier!!]({{< param buyurl >}})

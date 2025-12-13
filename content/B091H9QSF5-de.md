@@ -30,8 +30,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 - Weite: Normal (F 1/2), Verschluss: Reißverschluss
 - Obermaterial: Textil, Innenmaterial: Textil, Laufsohle: TR-Sohle, Decksohle: Textil
-- Absatztyp: Blockabsatz, Absatzhöhe: 4.2 cm, Schafttyp: Halbschaft, Schafthöhe: 20 cm
 - Produkttyp: Stiefel,Stiefeletten,Klassische Stiefeletten,Damenschuhe,Stiefel,Halbstiefel,Boots,Booties,Reißverschluss
+- Absatztyp: Blockabsatz, Absatzhöhe: 4.2 cm, Schafttyp: Halbschaft, Schafthöhe: 20 cm
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B091H9QSF5{{</world>}}

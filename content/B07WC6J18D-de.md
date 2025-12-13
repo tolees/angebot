@@ -28,12 +28,12 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
-- Normale Passform
-- Material: Polyester
-- Athletic Sports Apparel
 - Rundhalsausschnitt
-- Gewebe-Art: 100Prozent Polyester
+- Athletic Sports Apparel
 - Farbe: Royal Blau / Weiß / Weiß
+- Material: Polyester
+- Normale Passform
+- Gewebe-Art: 100Prozent Polyester
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B07WC6J18D{{</world>}}

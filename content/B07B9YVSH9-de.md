@@ -29,8 +29,8 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Marke Beauty-Produkte
-- Make-up Basis
 - Feuchtigkeitsspendend
+- Make-up Basis
 
 [🛒 Hier!!]({{< param buyurl >}})
 {{<world>}}B07B9YVSH9{{</world>}}

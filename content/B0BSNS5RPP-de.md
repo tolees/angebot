@@ -28,9 +28,9 @@ Sie können [{{< param title >}}]({{< param buyurl >}}) hier:
 
 ℹ️:
 
+- Electrostatic paint coating
 - Highly detailed
 - Diecast model of a Bugatti Bolide
-- Electrostatic paint coating
 - 1:43 scale size
 
 [🛒 Hier!!]({{< param buyurl >}})

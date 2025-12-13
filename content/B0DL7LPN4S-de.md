@@ -29,10 +29,10 @@ Es gibt ein [{{< param title >}}]({{< param buyurl >}}) hier:
 ℹ️:
 
 - Reguläre Passform
+- Perforierter Vorfußbereich
+- Textilfutter
 - Schnürsenkel
 - Obermaterial aus Leder und Synthetik
-- Textilfutter
-- Perforierter Vorfußbereich
 
 [🛒 kauf es hier!!]({{< param buyurl >}})
 {{<world>}}B0DL7LPN4S{{</world>}}
